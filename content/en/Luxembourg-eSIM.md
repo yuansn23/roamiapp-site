@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Luxembourg eSIM | Top Prepaid Travel eSIM Plan"
-  description: "Need a prepaid travel eSIM for Luxembourg? Roami offers unlimited 5G data across the country. Instant activation. Covers Luxembourg City Buy your plan online today."
+  title: Luxembourg eSIM | Top Prepaid Travel eSIM Plan
+  description: Need a prepaid travel eSIM for Luxembourg? Roami offers unlimited 5G data across the country. Instant activation.
+    Covers Luxembourg City Buy your plan online today.
   keywords: Luxembourg eSIM, buy Luxembourg eSIM, best Luxembourg eSIM, Luxembourg travel eSIM, POST Luxembourg Luxembourg,
     Tango Luxembourg, Orange Luxembourg Luxembourg, Luxembourg City eSIM, Esch-sur-Alzette eSIM, Differdange eSIM, Luxembourg
     prepaid eSIM, 5G Luxembourg eSIM
@@ -45,7 +46,7 @@ banner:
 hero:
   flag_image: img/flags/lu.svg
   flag_alt: Luxembourg Flag
-  title: 'Luxembourg eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Luxembourg eSIM: Stay Connected Everywhere You Go'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Luxembourg
 features:
   title: 'Why Luxembourg Travelers Choose Roami: Plans, Network & Support'

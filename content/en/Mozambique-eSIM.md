@@ -45,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/mo.svg
   flag_alt: Mozambique Flag
-  title: 'Mozambique eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Mozambique eSIM: Stay Connected Everywhere You Go'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Mozambique travelers
 features:
   title: 'Why Mozambique Travelers Choose Roami: Coverage, Speed & Service'

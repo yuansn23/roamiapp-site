@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Switzerland eSIM | Best eSIM Plan for Tourists"
-  description: "Get the best prepaid travel eSIM for Switzerland from Roami. Unlimited 5G data nationwide. Instant activation. Covers Zurich, Geneva & all regions."
+  title: Switzerland eSIM | Best eSIM Plan for Tourists
+  description: Get the best prepaid travel eSIM for Switzerland from Roami. Unlimited 5G data nationwide. Instant activation.
+    Covers Zurich, Geneva & all regions.
   keywords: Switzerland eSIM, buy Switzerland eSIM, best Switzerland eSIM, Switzerland travel eSIM, Swisscom Switzerland,
     Sunrise Switzerland, Salt Switzerland, Zurich eSIM, Geneva eSIM, Basel eSIM, Switzerland prepaid eSIM, 5G Switzerland
     eSIM
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/ch.svg
   flag_alt: Switzerland Flag
-  title: 'Switzerland eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Switzerland eSIM: Fast 5G Data for Every City & Destination'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Switzerland travelers
 features:
   title: 'Why Switzerland Travelers Choose Roami: Coverage, Speed & Service'

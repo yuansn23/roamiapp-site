@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Dominique eSIM | Pas cher & sans engagement"
-  description: "Partez a Dominique sans contrainte. Roami ne vous enferme dans aucun abonnement. Vous decidez de tout. Couvre tout le pays."
+  title: Dominique eSIM | Pas cher & sans engagement
+  description: Partez a Dominique sans contrainte. Roami ne vous enferme dans aucun abonnement. Vous decidez de tout. Couvre
+    tout le pays.
   keywords: eSIM Dominique, forfait eSIM Dominique, meilleure eSIM Dominique, Dominique data, Digicel Dominique, Flow Dominique,
     Orange Dominique, eSIM Roseau, eSIM Portsmouth, eSIM Saint Joseph, internet mobile Dominique, 5G Dominique
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/dm.svg
   flag_alt: Drapeau Dominique
-  title: 'eSIM Dominique 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Dominique: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Dominique - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Dominique: Vitesse, Couverture & Support'

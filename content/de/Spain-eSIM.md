@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Spanien eSIM | Ohne Vertrag & günstig reisen"
-  description: "Die Roami eSIM für Spanien zum besten Preis. Einfach, schnell, zuverlässig. Deckt Barcelona, Madrid & die Balearen ab."
+  title: Spanien eSIM | Ohne Vertrag & günstig reisen
+  description: Die Roami eSIM für Spanien zum besten Preis. Einfach, schnell, zuverlässig. Deckt Barcelona, Madrid & die Balearen
+    ab.
   keywords:
   - Spanien eSIM
   - Spanien Reise eSIM
@@ -52,7 +53,7 @@ banner:
 hero:
   flag_image: img/flags/es.svg
   flag_alt: Flagge von Spanien
-  title: 'Spanien eSIM 2026: Überall verbunden bleiben'
+  title: 'Spanien eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Spanien
 features:
   title: 'Warum Reisende Roami fuer Spanien waehlen: Tarife, Netzwerk & Support'

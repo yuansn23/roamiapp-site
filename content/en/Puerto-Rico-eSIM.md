@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Puerto Rico eSIM | Best Travel eSIM for Your Journey"
-  description: "Explore Puerto Rico with the best prepaid travel eSIM from Roami. Unlimited 5G data across the island. Covers San Juan, Ponce. Instant activation."
+  title: Puerto Rico eSIM | Best Travel eSIM for Your Journey
+  description: Explore Puerto Rico with the best prepaid travel eSIM from Roami. Unlimited 5G data across the island. Covers
+    San Juan, Ponce. Instant activation.
   keywords: Puerto Rico eSIM, buy Puerto Rico eSIM, best Puerto Rico eSIM, Puerto Rico travel eSIM, Claro Puerto Rico Puerto
     Rico, Liberty Puerto Rico Puerto Rico, T-Mobile Puerto Rico Puerto Rico, San Juan eSIM, Ponce eSIM, Mayagüez eSIM, Puerto
     Rico prepaid eSIM, 5G Puerto Rico eSIM
@@ -45,7 +46,7 @@ banner:
 hero:
   flag_image: img/flags/pu.svg
   flag_alt: Puerto Rico Flag
-  title: 'Puerto Rico eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Puerto Rico eSIM: Stay Connected Everywhere You Go'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Puerto Rico
 features:
   title: 'Why Puerto Rico Travelers Choose Roami: Network, Plans & Value'

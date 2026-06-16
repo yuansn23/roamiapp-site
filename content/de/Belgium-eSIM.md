@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Belgien eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Die Roami eSIM für Belgien lässt Sie frei. Ohne Vertragsbindung, nutzbar wann immer Sie wollen. Deckt alle Regionen ab."
+  title: Belgien eSIM | Günstigste Prepaid Reise eSIM
+  description: Die Roami eSIM für Belgien lässt Sie frei. Ohne Vertragsbindung, nutzbar wann immer Sie wollen. Deckt alle
+    Regionen ab.
   keywords: Belgien eSIM, Belgien Reise eSIM, beste eSIM Belgien, Belgien Datentarif, Proximus Belgien, Orange Belgien, Telenet
     Belgien, Brüssel eSIM, Antwerpen eSIM, Gent eSIM, Belgien mobiles Internet, 5G Belgien
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/be.svg
   flag_alt: Flagge von Belgien
-  title: 'Belgien eSIM 2026: Überall verbunden bleiben'
+  title: 'Belgien eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Belgien
 features:
   title: 'Warum Reisende Roami fuer Belgien waehlen: Tarife, Netzwerk & Support'

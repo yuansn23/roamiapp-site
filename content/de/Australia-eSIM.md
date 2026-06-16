@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Australien eSIM | Beste Prepaid eSIM für die Reise"
-  description: "Roami für Australien: schnelle Installation und sofortige Aktivierung. Kein Suchen nach einem Shop vor Ort. Deckt Sydney, Melbourne & ganz Australien ab."
+  title: Australien eSIM | Beste Prepaid eSIM für die Reise
+  description: 'Roami für Australien: schnelle Installation und sofortige Aktivierung. Kein Suchen nach einem Shop vor Ort.
+    Deckt Sydney, Melbourne & ganz Australien ab.'
   keywords: Australien eSIM, Australien Reise eSIM, beste eSIM Australien, Australien Datentarif, Telstra Australien, Optus
     Australien, Vodafone Australien, Sydney eSIM, Melbourne eSIM, Brisbane eSIM, Australien mobiles Internet, 5G Australien
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/au.svg
   flag_alt: Flagge von Australien
-  title: 'Australien eSIM 2026: Überall verbunden bleiben'
+  title: 'Australien eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Australien
 features:
   title: 'Warum Reisende Roami fuer Australien waehlen: Tarife, Netzwerk & Support'

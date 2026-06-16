@@ -23,8 +23,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Sudafrica eSIM | Prepagato senza vincoli"
-  description: "Viaggia in Sudafrica senza pensieri con Roami. La nostra eSIM ti segue ovunque per un viaggio sereno. Copre tutte le regioni."
+  title: Sudafrica eSIM | Prepagato senza vincoli
+  description: Viaggia in Sudafrica senza pensieri con Roami. La nostra eSIM ti segue ovunque per un viaggio sereno. Copre
+    tutte le regioni.
   keywords:
   - eSIM Sudafrica
   - piano eSIM Sudafrica
@@ -57,7 +58,7 @@ banner:
 hero:
   flag_image: img/flags/za.svg
   flag_alt: Bandiera di Sudafrica
-  title: 'eSIM Sudafrica 2026: Rimani Connesso Ovunque'
+  title: 'eSIM Sudafrica: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per Sudafrica
 features:
   title: 'Perché i viaggiatori scelgono Roami per Sudafrica: Piani, Rete & Supporto'

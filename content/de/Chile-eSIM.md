@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Chile eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Bereiten Sie Ihre Reise nach Chile mit Roami vor. Unsere eSIM begleitet Sie überall hin für eine sorgenfreie Reise. Deckt alle Regionen ab."
+  title: Chile eSIM | Günstigste Prepaid Reise eSIM
+  description: Bereiten Sie Ihre Reise nach Chile mit Roami vor. Unsere eSIM begleitet Sie überall hin für eine sorgenfreie
+    Reise. Deckt alle Regionen ab.
   keywords:
   - Chile eSIM
   - Chile Reise eSIM
@@ -52,7 +53,7 @@ banner:
 hero:
   flag_image: img/flags/cl.svg
   flag_alt: Flagge von Chile
-  title: 'Chile eSIM 2026: Überall verbunden bleiben'
+  title: 'Chile eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Chile
 features:
   title: 'Warum Reisende Roami fuer Chile waehlen: Tarife, Netzwerk & Support'

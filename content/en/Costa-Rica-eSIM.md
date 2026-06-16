@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Costa Rica eSIM | Buy Unlimited Data Plan for Travelers"
-  description: "Explore Costa Rica with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant activation. Covers San Jose, Liberia & all regions."
+  title: Costa Rica eSIM | Buy Unlimited Data Plan for Travelers
+  description: Explore Costa Rica with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant activation.
+    Covers San Jose, Liberia & all regions.
   keywords: Costa Rica eSIM, buy Costa Rica eSIM, best Costa Rica eSIM, Costa Rica travel eSIM, Liberty Costa Rica, Claro
     Costa Rica, ICE Costa Rica, San José eSIM, Alajuela eSIM, Heredia eSIM, Costa Rica prepaid eSIM, 5G Costa Rica eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/cr.svg
   flag_alt: Costa Rica Flag
-  title: 'Costa Rica eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'Costa Rica eSIM: Reliable Network & Coverage for Travelers'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Costa Rica
 features:
   title: 'Why Costa Rica Travelers Choose Roami: Plans, Network & Support'

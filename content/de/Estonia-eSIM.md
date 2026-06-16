@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Estland eSIM | Günstigste Prepaid Option für Reisende"
-  description: "Genießen Sie unbegrenztes Datenvolumen in Estland mit Roami. Navigation, Streaming, soziale Netzwerke – alles erlaubt. Deckt alle Regionen ab."
+  title: Estland eSIM | Günstigste Prepaid Option für Reisende
+  description: Genießen Sie unbegrenztes Datenvolumen in Estland mit Roami. Navigation, Streaming, soziale Netzwerke – alles
+    erlaubt. Deckt alle Regionen ab.
   keywords: Estland eSIM, Estland Reise eSIM, beste eSIM Estland, Estland Datentarif, Telia Estland, Elisa Estland, Tele2
     Estland, Tallinn eSIM, Tartu eSIM, Narva eSIM, Estland mobiles Internet, 5G Estland
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ee.svg
   flag_alt: Flagge von Estland
-  title: 'Estland eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Estland eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Estland
 features:
   title: 'Warum Reisende Roami fuer Estland waehlen: Netzwerk, Tarife & Preiswert'

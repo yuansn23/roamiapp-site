@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: '	Liberia eSIM: Switch Between Orange & Lonestar 5G Seamlessly'
+  title: "\tLiberia eSIM: Switch Between Orange & Lonestar 5G Seamlessly"
   description: Compare Liberia eSIM plans with fast 5G in Monrovia, Gbarnga, Buchanan. Orange Liberia & Lonestar Cell MTN
     & LiberCell coverage guide for tourists & travelers. Instant QR activation from $1.99.
   keywords: Liberia eSIM, buy Liberia eSIM, best Liberia eSIM, Liberia travel eSIM, Orange Liberia Liberia, Lonestar Cell
@@ -45,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/lr.svg
   flag_alt: Liberia Flag
-  title: 'Liberia eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Liberia eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Best prepaid eSIM for Liberia travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Liberia Travelers Choose Roami: Speed, Coverage & Support'

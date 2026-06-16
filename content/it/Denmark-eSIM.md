@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Danimarca eSIM | Dati illimitati per viaggiare"
-  description: "Con Roami in Danimarca dì addio ai limiti di dati. 5G veloce per tutte le tue esigenze di viaggio. Sempre connesso. Copre tutte le regioni."
+  title: Danimarca eSIM | Dati illimitati per viaggiare
+  description: Con Roami in Danimarca dì addio ai limiti di dati. 5G veloce per tutte le tue esigenze di viaggio. Sempre connesso.
+    Copre tutte le regioni.
   keywords: eSIM Danimarca, piano eSIM Danimarca, migliore eSIM Danimarca, Danimarca dati, TDC Danimarca, Telenor Danimarca,
     Telia Danimarca, eSIM Copenaghen, eSIM Aarhus, eSIM Odense, internet mobile Danimarca, 5G Danimarca
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/dk.svg
   flag_alt: Bandiera di Danimarca
-  title: 'eSIM Danimarca 2026: Rimani Connesso Ovunque'
+  title: 'eSIM Danimarca: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per Danimarca
 features:
   title: 'Perché i viaggiatori scelgono Roami per Danimarca: Piani, Rete & Supporto'

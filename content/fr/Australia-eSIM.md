@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Australie eSIM | Données illimitées au meilleur prix"
-  description: "Roami pour Australie : installation rapide et activation immediate. Pas besoin de chercher une boutique sur place. Couvre Sydney, Melbourne & toute l'Australie."
+  title: Australie eSIM | Données illimitées au meilleur prix
+  description: 'Roami pour Australie : installation rapide et activation immediate. Pas besoin de chercher une boutique sur
+    place. Couvre Sydney, Melbourne & toute l''Australie.'
   keywords: eSIM Australie, forfait eSIM Australie, meilleure eSIM Australie, Australie data, Telstra Australie, Optus Australie,
     Vodafone Australie, eSIM Sydney, eSIM Melbourne, eSIM Brisbane, internet mobile Australie, 5G Australie
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/au.svg
   flag_alt: Drapeau Australie
-  title: 'eSIM Australie 2026: Restez Connecté Partout'
+  title: 'eSIM Australie: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Australie
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Australie: Forfaits, Réseau & Support'

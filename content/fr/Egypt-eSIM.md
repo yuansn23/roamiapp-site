@@ -19,8 +19,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Égypte eSIM | Activation rapide, pas d'engagement"
-  description: "Achetez votre eSIM Roami pour Égypte en quelques clics. Paiement securise, reception immediate du code. Couvre Le Caire, Alexandrie & Louxor."
+  title: Égypte eSIM | Activation rapide, pas d'engagement
+  description: Achetez votre eSIM Roami pour Égypte en quelques clics. Paiement securise, reception immediate du code. Couvre
+    Le Caire, Alexandrie & Louxor.
   keywords: eSIM Égypte, forfait eSIM Égypte, meilleure eSIM Égypte, Égypte data, Orange Égypte Égypte, Vodafone Égypte Égypte,
     Etisalat Égypte Égypte, eSIM Le Caire, eSIM Alexandrie, eSIM Louxor, internet mobile Égypte, 5G Égypte
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/eg.svg
   flag_alt: Drapeau Égypte
-  title: 'eSIM Égypte 2026: Restez Connecté Partout'
+  title: 'eSIM Égypte: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Égypte
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Égypte: Forfaits, Réseau & Support'

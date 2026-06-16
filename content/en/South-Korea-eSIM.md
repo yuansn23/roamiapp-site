@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "South Korea eSIM | Buy Travel Data Plan for Your Trip"
-  description: "Stay connected in South Korea with the best prepaid travel eSIM from Roami. Ultra-fast 5G data with instant activation. Buy your plan online today."
+  title: South Korea eSIM | Buy Travel Data Plan for Your Trip
+  description: Stay connected in South Korea with the best prepaid travel eSIM from Roami. Ultra-fast 5G data with instant
+    activation. Buy your plan online today.
   keywords: South Korea eSIM, buy South Korea eSIM, best South Korea eSIM, South Korea travel eSIM, SK Telecom South Korea,
     KT South Korea, LG U+ South Korea, Seoul eSIM, Busan eSIM, Incheon eSIM, South Korea prepaid eSIM, 5G South Korea eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/kr.svg
   flag_alt: South Korea Flag
-  title: 'South Korea eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'South Korea eSIM: Reliable Network & Coverage for Travelers'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for South Korea travelers
 features:
   title: 'Why South Korea Travelers Choose Roami: Coverage, Speed & Service'

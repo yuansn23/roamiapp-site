@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Kenya eSIM | Internet veloce senza limiti"
-  description: "Per Kenya scegli Roami e paghi meno. La nostra eSIM offre il prezzo migliore per restare connesso durante il tuo viaggio. Copre tutte le regioni."
+  title: Kenya eSIM | Internet veloce senza limiti
+  description: Per Kenya scegli Roami e paghi meno. La nostra eSIM offre il prezzo migliore per restare connesso durante il
+    tuo viaggio. Copre tutte le regioni.
   keywords: eSIM Kenya, piano eSIM Kenya, migliore eSIM Kenya, Kenya dati, Safaricom Kenya, Airtel Kenya Kenya, Telkom Kenya
     Kenya, eSIM Nairobi, eSIM Mombasa, eSIM Kisumu, internet mobile Kenya, 5G Kenya
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ke.svg
   flag_alt: Bandiera di Kenya
-  title: 'eSIM Kenya 2026: Soluzioni Dati Complete per il Tuo Viaggio'
+  title: 'eSIM Kenya: Soluzioni Dati Complete per il Tuo Viaggio'
   subtitle: Niente costi nascosti | Internet senza preoccupazioni | Supporto 24/7 - la migliore eSIM per Kenya
 features:
   title: 'Perché i viaggiatori scelgono Roami per Kenya: Copertura, Velocità & Servizio'

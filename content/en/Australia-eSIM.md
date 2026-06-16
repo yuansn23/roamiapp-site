@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Australia eSIM | Best Prepaid Plan for Travel"
-  description: "Get ready for your Australia trip with the best prepaid travel eSIM from Roami. Unlimited 5G data with instant activation. Covers Sydney, Melbourne & beyond."
+  title: Australia eSIM | Best Prepaid Plan for Travel
+  description: Get ready for your Australia trip with the best prepaid travel eSIM from Roami. Unlimited 5G data with instant
+    activation. Covers Sydney, Melbourne & beyond.
   keywords: Australia eSIM, buy Australia eSIM, best Australia eSIM, Australia travel eSIM, Telstra Australia, Optus Australia,
     TPG Telecom Australia, Sydney eSIM, Melbourne eSIM, Brisbane eSIM, Australia prepaid eSIM, 5G Australia eSIM
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/au.svg
   flag_alt: Australia Flag
-  title: 'Australia eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Australia eSIM: Complete Data Solutions for Your Trip'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Australia
 features:
   title: 'Why Australia Travelers Choose Roami: Plans, Network & Support'

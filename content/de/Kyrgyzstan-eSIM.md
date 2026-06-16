@@ -53,7 +53,7 @@ banner:
 hero:
   flag_image: img/flags/kg.svg
   flag_alt: Flagge von Kirgisistan
-  title: 'Kirgisistan eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Kirgisistan eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Kirgisistan
 features:
   title: 'Warum Reisende Roami fuer Kirgisistan waehlen: Netzwerk, Tarife & Preiswert'

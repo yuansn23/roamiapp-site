@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Südafrika eSIM | Günstig kaufen & sofort aktivieren"
-  description: "Bereiten Sie Ihre Reise nach Südafrika mit Roami vor. Unsere eSIM begleitet Sie überall hin für eine sorgenfreie Reise. Deckt alle Regionen ab."
+  title: Südafrika eSIM | Günstig kaufen & sofort aktivieren
+  description: Bereiten Sie Ihre Reise nach Südafrika mit Roami vor. Unsere eSIM begleitet Sie überall hin für eine sorgenfreie
+    Reise. Deckt alle Regionen ab.
   keywords: Südafrika eSIM, Südafrika Reise eSIM, beste eSIM Südafrika, Südafrika Datentarif, Vodacom Südafrika, MTN Südafrika,
     Cell C Südafrika, Johannesburg eSIM, Kapstadt eSIM, Durban eSIM, Südafrika mobiles Internet, 5G Südafrika
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/za.svg
   flag_alt: Flagge von Südafrika
-  title: 'Südafrika eSIM 2026: Schnelles 5G für jedes Reiseziel'
+  title: 'Südafrika eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Südafrika - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
   title: 'Warum Reisende Roami fuer Südafrika waehlen: Geschwindigkeit, Abdeckung & Support'

@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Austria eSIM | Best Travel eSIM for Your Journey"
-  description: "Enjoy unlimited data in Austria with the best prepaid travel eSIM from Roami. Instant activation. Covers Vienna, Salzburg & Innsbruck. Plans from $1.99."
+  title: Austria eSIM | Best Travel eSIM for Your Journey
+  description: Enjoy unlimited data in Austria with the best prepaid travel eSIM from Roami. Instant activation. Covers Vienna,
+    Salzburg & Innsbruck. Plans from $1.99.
   keywords: Austria eSIM, buy Austria eSIM, best Austria eSIM, Austria travel eSIM, A1 Telekom Austria, T-Mobile Austria,
     Drei Austria, Vienna eSIM, Graz eSIM, Linz eSIM, Austria prepaid eSIM, 5G Austria eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/at.svg
   flag_alt: Austria Flag
-  title: 'Austria eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Austria eSIM: Stay Connected Everywhere You Go'
   subtitle: Best prepaid eSIM for Austria travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Austria Travelers Choose Roami: Speed, Coverage & Support'

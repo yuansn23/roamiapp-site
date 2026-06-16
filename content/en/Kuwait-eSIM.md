@@ -44,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/kw.svg
   flag_alt: Kuwait Flag
-  title: 'Kuwait eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'Kuwait eSIM: Reliable Network & Coverage for Travelers'
   subtitle: Best prepaid eSIM for Kuwait travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Kuwait Travelers Choose Roami: Speed, Coverage & Support'

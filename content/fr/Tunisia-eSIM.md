@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Tunisie eSIM | Activation immédiate au meilleur prix"
-  description: "Preparez votre voyage a Tunisie avec Roami. Notre eSIM vous accompagne partout pour un voyage sans accroc. Couvre tout le pays."
+  title: Tunisie eSIM | Activation immédiate au meilleur prix
+  description: Preparez votre voyage a Tunisie avec Roami. Notre eSIM vous accompagne partout pour un voyage sans accroc.
+    Couvre tout le pays.
   keywords: eSIM Tunisie, forfait eSIM Tunisie, meilleure eSIM Tunisie, Tunisie data, Ooredoo Tunisie, Tunisie Telecom Tunisie,
     Orange Tunisie Tunisie, eSIM Tunis, eSIM Sfax, eSIM Sousse, internet mobile Tunisie, 5G Tunisie
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/tn.svg
   flag_alt: Drapeau Tunisie
-  title: 'eSIM Tunisie 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Tunisie: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Tunisie
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Tunisie: Réseau, Forfaits & Prix'

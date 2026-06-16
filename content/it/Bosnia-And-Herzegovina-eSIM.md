@@ -44,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/ba.svg
   flag_alt: Bandiera di Bosnia ed Erzegovina
-  title: 'eSIM Bosnia ed Erzegovina 2026: Rete Affidabile per Viaggiatori'
+  title: 'eSIM Bosnia ed Erzegovina: Rete Affidabile per Viaggiatori'
   subtitle: Attivazione immediata | 5G veloce | Supporto 24/7 - la migliore eSIM prepagata per Bosnia ed Erzegovina
 features:
   title: 'Perché i viaggiatori scelgono Roami per Bosnia ed Erzegovina: Rete, Piani & Prezzo'

@@ -1,5 +1,5 @@
 ---
-title: 哥斯大黎加 eSIM 方案 | 哥斯大黎加 eSIM | Roami
+title: '哥斯大黎加 eSIM 2026: 旅行與網路 | Roami'
 date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
@@ -13,14 +13,13 @@ country_meta:
 modal:
   title: 服務更新！
   btn_text: 繼續
-  text_default: |-
-    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
-  text_android: |-
-    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
+  text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
+  text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "哥斯大黎加eSIM｜5G高速吃到飽，跨國旅行不斷網"
+  title: "哥斯大黎加eSIM｜5G高速吃到飽，吃到飽不降速"
   description: "去哥斯大黎加出國旅行必備eSIM高速網路卡就是Roami，5G高速上網吃到飽方案。輕鬆查地圖打卡分享旅程更順暢，免綁約最低$1.99起，線上購買即時開通抵達直接用。"
-  keywords: 哥斯大黎加 eSIM, 哥斯大黎加旅遊, 哥斯大黎加上網, 聖荷西 eSIM, 利蒙網路
+  keywords: 哥斯大黎加 eSIM, 哥斯大黎加 eSIM方案, 最佳哥斯大黎加 eSIM, 哥斯大黎加上網, Kölbi 哥斯大黎加, Movistar 哥斯大黎加, Claro 哥斯大黎加, 聖荷西 eSIM, 利蒙 eSIM,
+    阿拉胡埃拉 eSIM, 哥斯大黎加行動網路, 5G 哥斯大黎加
 order_summary:
   title: 選擇 哥斯大黎加 eSIM
   label_data: 數據量
@@ -40,36 +39,36 @@ banner:
 hero:
   flag_image: img/flags/cr.svg
   flag_alt: 哥斯大黎加 國旗
-  title: 哥斯大黎加 eSIM - 旅行計劃
-  subtitle: 哥斯大黎加 eSIM | 100%退款保證 | 支援熱點分享 | 流量吃到飽
+  title: '哥斯大黎加 eSIM: 隨時隨地保持連線'
+  subtitle: 高速5G | 5分鐘取得QR碼 | 24/7客服 - 哥斯大黎加最佳預付eSIM
 features:
-  title: 為什麼 Roami 的 哥斯大黎加 eSIM 比競爭對手更好？
+  title: 為什麼旅客選擇Roami的哥斯大黎加 eSIM：方案、網路與支援
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
     title: 即時 QR 碼
-    desc: 5 分鐘內交付
+    desc: 5分鐘內透過Email收到您的哥斯大黎加 eSIM QR碼
   - icon: headset
     color: from-emerald-400 to-emerald-600
     title: 24/7 支援
-    desc: 隨時在線
+    desc: 為您的哥斯大黎加之旅提供24/7客服 - 真人服務，非機器人
   - icon: shield-check
     color: from-amber-400 to-amber-600
     title: 保證
-    desc: 買家保障
+    desc: 若哥斯大黎加 eSIM無法啟用，100%全額退款
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: 熱點分享
-    desc: 與他人分享數據
+    desc: 與旅伴分享您的哥斯大黎加數據，無限制
   - icon: file-x
     color: from-rose-400 to-rose-600
     title: 無合約
-    desc: 隨時取消
+    desc: 無合約，隨時取消 - 哥斯大黎加旅行完美選擇
   - icon: radio-tower
     color: from-blue-400 to-blue-600
     title: 自動選擇
-    desc: 最佳本地網路
-plans_title: 為您的旅程選擇理想的 哥斯大黎加 eSIM
+    desc: 自動連線哥斯大黎加最佳電信商，取得最強訊號
+plans_title: 購買哥斯大黎加 eSIM：適合各種旅程的方案
 plans_data:
   7 天:
   - spec: 1GB
@@ -233,12 +232,12 @@ plans_data:
     daily: '11.66'
 discount_banner:
   title: 哥斯大黎加 eSIM 特別折扣！
-  desc_html: |-
-    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 哥斯大黎加 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  desc_html: 結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 哥斯大黎加
+    eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
   btn_text: 儲存折扣
   validity: 有效期：3 天
 network_coverage:
-  title: 網路覆蓋詳情
+  title: 哥斯大黎加 eSIM覆蓋範圍：行動電信商指南
   supports_text: 支援：
   service_details:
     title: 服務詳情
@@ -246,8 +245,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: 覆蓋範圍
-      desc: 在整個哥斯大黎加享受廣泛的網路覆蓋，包括聖荷西、利蒙、阿拉胡埃拉和潘塔雷納斯等城市。我們的哥斯大黎加 eSIM 無縫連接到 Kölbi、Movistar
-        和 Claro 的網路。
+      desc: 享受覆蓋全哥斯大黎加的全面網路，包括聖荷西, 利蒙, 阿拉胡埃拉, 卡塔戈。您的eSIM會自動連線至Kölbi, Movistar, Claro的強大網路，在市區、旅遊熱點和主要交通路線提供穩定訊號。
     - icon: zap
       color: text-amber-500
       title: 交付時間
@@ -257,21 +255,21 @@ network_coverage:
       title: 熱點分享
       desc: 熱點分享無限制。
   carriers:
-    title: 行動網路
+    title: Kölbi, Movistar & Claro：哥斯大黎加 eSIM電信商
     badge: 官方合作夥伴
     items:
     - name: Kölbi
-      coverage: 低延遲
+      coverage: 最佳整體覆蓋
       network: 5G/4G/LTE 網路
     - name: Movistar
-      coverage: 自有 IP
+      coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 哥斯大黎加 eSIM：重要提醒
+  title: 哥斯大黎加 eSIM秘訣：出發前須知
   items:
   - icon: 📱
-    html: |-
-      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
+    html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
+      transition-colors">eSIM 相容性</a>。
   - icon: ✈️
     html: 建議抵達 哥斯大黎加 後再啟用 eSIM。
   - icon: ⏰
@@ -285,29 +283,22 @@ reminders:
     desc: 不確定嗎？立即在您的手機上檢查：
     instruction: 在鍵盤上撥打：
     code: '*#06#'
-    result_html: |-
-      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
-    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
-      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
-      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
-      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
-      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
-      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
-      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
-      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
-      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
-      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
-      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
-      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
-      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
-      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
+    result_html: 如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
+      號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n        <p class=\"text-sm font-semibold mb-2\"\
+      >\U0001F4DA 實用指南：</p>\n        <ul class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n            <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\"\
+      \ class=\"text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n            <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\"\
+      \ class=\"text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n            <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\"\
+      \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
+      \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 如何在幾分鐘內啟用 哥斯大黎加 eSIM
+  title: 哥斯大黎加 eSIM啟用：3個簡單步驟
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 哥斯大黎加 做好準備
-    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
-      天，您可以從容地為前往 哥斯大黎加 的旅行做好準備。
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30 天，您可以從容地為前往 哥斯大黎加 的旅行做好準備。
     is_list: false
   - num: '2'
     title: 在設備上安裝 eSIM – 掃描 QR 碼
@@ -321,44 +312,36 @@ activation_steps:
     - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
     title: 在家中準備 – 無風險測試
-    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 哥斯大黎加 時，只需開啟 eSIM
-      – 有效期將在首次連接到 Kölbi / Movistar 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 哥斯大黎加 時，只需開啟 eSIM – 有效期將在首次連接到 Kölbi / Movistar 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
     is_list: false
   - num: '4'
     title: 抵達 哥斯大黎加：立即連上 5G/4G 網路
-    desc: 當您降落在 哥斯大黎加（例如 胡安·聖瑪麗亞國際機場（SJO）、丹尼爾·奧杜維爾國際機場（LIR）、托比亞斯·博拉尼奧斯國際機場（SYQ））時，關閉飛航模式（或保持在飛航模式僅啟用
-      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 哥斯大黎加。幾秒鐘內，您的設備將自動連接到 Kölbi / Movistar
-      提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
+    desc: 當您降落在 哥斯大黎加（例如 胡安·聖瑪麗亞國際機場（SJO）、丹尼爾·奧杜維爾國際機場（LIR）、托比亞斯·博拉尼奧斯國際機場（SYQ））時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定 → 行動服務**
+      並開啟您的 Roami eSIM 哥斯大黎加。幾秒鐘內，您的設備將自動連接到 Kölbi / Movistar 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 哥斯大黎加 eSIM：完整指南和常見問題
-  desc: 使用 哥斯大黎加 eSIM 在 哥斯大黎加 的交通、飯店、景點和緊急聯絡的所有細節。
+  title: 哥斯大黎加 eSIM指南 2026：網路與旅遊指南
+  desc: 從聖荷西到利蒙，使用Kölbi, Movistar, Claro保持連線。我們的完整哥斯大黎加 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
     title: 關於 哥斯大黎加 eSIM 的常見問題
     questions:
-    - q: 在聖荷西市中心，使用Kölbi網路時，平均網速如何？可以觀看4K YouTube影片嗎？
-      a: 在聖荷西市中心，例如國家劇院或中央公園附近，連接到Kölbi 4G LTE網路時，平均下載速度約為30-50 Mbps，足以流暢觀看4K YouTube影片。然而，在尖峰時段（如週末下午），靠近Multiplaza
-        Escazú購物中心的地區速度可能降至10-15 Mbps，但Full HD串流仍無問題。若您需要穩定視訊通話，建議手動切換至Movistar網路，其延遲更均勻。每日使用超過3GB後，可能觸發公平使用政策，速度降至約2
-        Mbps，但仍可應付社交媒體和即時通訊。
+    - q: Kölbi還是Movistar在哥斯大黎加更好？
+      a: Kölbi和Movistar在哥斯大黎加都提供出色的覆蓋範圍。Kölbi在偏遠地區的覆蓋通常更好，而Movistar在城市中提供競爭力的5G速度。對於大多數前往哥斯大黎加的旅客來說，兩個網路都能良好運作。
     - q: 從胡安·聖瑪麗亞國際機場入境後，如何立即啟動eSIM上網？需要註冊什麼資料？
       a: 從胡安·聖瑪麗亞國際機場（SJO）入境後，您只需在飛機上或機場連接到Wi-Fi，掃描eSIM QR碼即可啟用。哥斯大黎加法規要求所有預付卡（包括eSIM）需於購買時提供護照資料進行實名登記，但我們的合作夥伴已在後台完成註冊，您無需手動輸入。啟用後，手機會自動連接到Kölbi或Movistar網路，您可在機場大廳立即使用Google地圖或叫車App。建議在出發前先安裝好eSIM設定檔，以節省時間。
     - q: 在蒙特維德雲霧森林區，Claro網路的覆蓋與速度如何？適合導航和分享照片嗎？
-      a: 在蒙特維德雲霧森林保護區內，Claro網路在遊客中心和主要步道起點有良好的4G訊號，下載速度約15-25 Mbps，足以使用Google地圖導航和上傳高解析度照片。但在深入森林後，訊號可能減弱至3G，速度降至2-5
-        Mbps，此時傳送照片會較慢，但仍可進行基本文字通訊。建議在上山前下載離線地圖，以備不時之需。整體而言，對於一般社交分享和導航，Claro表現可靠。
+      a: 在蒙特維德雲霧森林保護區內，Claro網路在遊客中心和主要步道起點有良好的4G訊號，下載速度約15-25 Mbps，足以使用Google地圖導航和上傳高解析度照片。但在深入森林後，訊號可能減弱至3G，速度降至2-5 Mbps，此時傳送照片會較慢，但仍可進行基本文字通訊。建議在上山前下載離線地圖，以備不時之需。整體而言，對於一般社交分享和導航，Claro表現可靠。
     - q: 在利蒙市區，Movistar網路在高峰時段會變慢嗎？有哪些替代方案？
-      a: 在利蒙市區（靠近中央市場或海濱大道），Movistar網路平日白天速度約20-35 Mbps，但在晚間高峰（18:00-21:00）可能降至5-10
-        Mbps，影響視訊通話品質。若遇到明顯降速，您可手動切換至Kölbi網路（支援手動選擇），其頻譜資源較多，在利蒙速度較穩定。另外，利用eSIM的熱點分享功能，可將另一裝置作為備用連線，但請注意每日高速流量限制。
+      a: 在利蒙市區（靠近中央市場或海濱大道），Movistar網路平日白天速度約20-35 Mbps，但在晚間高峰（18:00-21:00）可能降至5-10 Mbps，影響視訊通話品質。若遇到明顯降速，您可手動切換至Kölbi網路（支援手動選擇），其頻譜資源較多，在利蒙速度較穩定。另外，利用eSIM的熱點分享功能，可將另一裝置作為備用連線，但請注意每日高速流量限制。
     - q: 在阿拉胡埃拉的Juan Santamaría機場附近，哪家運營商訊號最強？適合即時視訊通話嗎？
       a: 在阿拉胡埃拉的胡安·聖瑪麗亞國際機場周邊，Kölbi的4G+網路訊號最強，下載速度可達40-60 Mbps，非常適合進行Zoom或FaceTime即時視訊通話。Claro和Movistar也能提供穩定連線，但在機場停車場或周邊道路時，Kölbi的覆蓋更均勻。若您需要長時間視訊會議，建議優先選擇Kölbi，並避免在航班抵達高峰（上午10-11點）使用，以免因基地台負載過高造成短暫延遲。
     - q: 在卡塔戈的Ruinas遺址附近，使用eSIM時是否容易斷訊？如何排除故障？
-      a: |-
-        在卡塔戈的Ruinas de Ujarrás遺址（靠近市區）附近，Kölbi和Movistar的4G訊號穩定，通常不會斷訊，下載速度約20-35 Mbps。若遇到連線不穩，首先嘗試開啟飛航模式10秒再關閉，以重新註冊網路。若問題持續，請手動選擇網路營運商（設定>行動網路>選擇營運商），改選Claro作為備案。另外，於旅遊旺季時，遺址附近人潮眾多，基地台可能過載，建議避開週末下午使用高頻寬應用。
+      a: 在卡塔戈的Ruinas de Ujarrás遺址（靠近市區）附近，Kölbi和Movistar的4G訊號穩定，通常不會斷訊，下載速度約20-35 Mbps。若遇到連線不穩，首先嘗試開啟飛航模式10秒再關閉，以重新註冊網路。若問題持續，請手動選擇網路營運商（設定>行動網路>選擇營運商），改選Claro作為備案。另外，於旅遊旺季時，遺址附近人潮眾多，基地台可能過載，建議避開週末下午使用高頻寬應用。
     - q: 哥斯大黎加的eSIM公平使用政策具體為何？每日流量超過多少可能降速？
-      a: 哥斯大黎加的主要運營商（Kölbi、Movistar、Claro）對預付eSIM通常實施每日高速流量上限，例如3GB後速度降至2 Mbps，5GB後進一步降至128
-        Kbps。這項政策是為了確保所有用戶公平使用網路資源。具體門檻依方案而異，例如我們的「中量方案」每日高速流量為3GB，超過後仍然可以瀏覽網頁和使用即時通訊，但觀看影片或視訊通話可能出現緩衝。建議您根據行程長度選擇適當方案，並善用熱點分享給多裝置時注意流量分配。
+      a: 哥斯大黎加的主要運營商（Kölbi、Movistar、Claro）對預付eSIM通常實施每日高速流量上限，例如3GB後速度降至2 Mbps，5GB後進一步降至128 Kbps。這項政策是為了確保所有用戶公平使用網路資源。具體門檻依方案而異，例如我們的「中量方案」每日高速流量為3GB，超過後仍然可以瀏覽網頁和使用即時通訊，但觀看影片或視訊通話可能出現緩衝。建議您根據行程長度選擇適當方案，並善用熱點分享給多裝置時注意流量分配。
     - q: 在潘塔雷納斯海灘度假時，使用eSIM分享熱點給筆電工作，速度夠用嗎？
       a: 在潘塔雷納斯（如Playa Puntarenas）的主要度假村區域，Kölbi網路提供穩定的4G連線，下載速度約25-40 Mbps，足以支援熱點分享給筆電進行檔案上傳、視訊會議等工作任務。但若您在海灘較偏遠的位置（如Montezuma海岸），訊號可能降至3G，速度約5-10
         Mbps，此時視訊會議可能偶爾卡頓。建議在度假村內使用，並避開晚間網路尖峰時段（19:00-22:00）。若需要高效能，可考慮使用USB數據機搭配有線連接，但eSIM的便利性已足夠應付一般辦公需求。
@@ -384,8 +367,7 @@ faq_section:
     title: 哥斯大黎加 eSIM 用於 哥斯大黎加 的交通和導航
     questions:
     - q: 在聖荷西搭乘Uber時，eSIM的穩定性如何？會遇到GPS定位問題嗎？
-      a: 在聖荷西使用Uber時，連接到Kölbi或Movistar網路的eSIM定位精準，誤差通常在10公尺內。然而，在舊城區狹窄街道（如Avenida
-        Central）建築物密集處，GPS可能延遲幾秒。建議確保手機開啟高精度定位模式。整體而言，叫車過程順暢，接單時間約2-5分鐘。避免在晚間22:00後使用，部分地區司機較少。
+      a: 在聖荷西使用Uber時，連接到Kölbi或Movistar網路的eSIM定位精準，誤差通常在10公尺內。然而，在舊城區狹窄街道（如Avenida Central）建築物密集處，GPS可能延遲幾秒。建議確保手機開啟高精度定位模式。整體而言，叫車過程順暢，接單時間約2-5分鐘。避免在晚間22:00後使用，部分地區司機較少。
     - q: 如何從聖荷西市區搭公車到阿雷納火山？需要提前買票嗎？eSIM能否查詢時刻表？
       a: 從聖荷西的Coca-Cola公車站（Terminal Coca-Cola）有直達拉福爾圖納（La Fortuna）的公車，車程約3.5小時，票價約5美元，上車購票即可。eSIM可讓您即時查詢Transpacaribe等公司的時刻表，建議使用Moovit
         App規劃路線。公車班次每天約5-6班，最早6:00出發。到達拉福爾圖納後，再轉乘當地接駁至阿雷納火山國家公園入口。
@@ -401,16 +383,13 @@ faq_section:
     title: 在 哥斯大黎加 的飯店使用 哥斯大黎加 eSIM 連線
     questions:
     - q: 聖荷西的希爾頓飯店提供免費Wi-Fi嗎？如果訊號不好，eSIM能替代嗎？
-      a: 聖荷西希爾頓飯店提供免費Wi-Fi，速度約10-20 Mbps，適合一般上網。但晚餐時段客房內可能變慢。eSIM可作為備用網路，在飯店房間內使用Kölbi的4G網路，速度約30-50
-        Mbps，觀看串流影片更順暢。建議在入住時先測試飯店Wi-Fi，若不滿意則切換至eSIM。部分飯店公共區域Wi-Fi較強，可善加利用。
+      a: 聖荷西希爾頓飯店提供免費Wi-Fi，速度約10-20 Mbps，適合一般上網。但晚餐時段客房內可能變慢。eSIM可作為備用網路，在飯店房間內使用Kölbi的4G網路，速度約30-50 Mbps，觀看串流影片更順暢。建議在入住時先測試飯店Wi-Fi，若不滿意則切換至eSIM。部分飯店公共區域Wi-Fi較強，可善加利用。
     - q: 在蒙特維德雲霧森林區的度假村，eSIM訊號強嗎？能否在房間內視訊會議？
       a: 蒙特維德雲霧森林區的度假村（如Belmar Hotel）位於山區，房間內Kölbi訊號強度約3-4格，下載速度15-25 Mbps，足以進行單人視訊會議。但若同時多人連接，可能出現延遲。建議會議時靠近窗戶或使用飯店公共區域的Wi-Fi。相較於飯店Wi-Fi（可能因建築材料受限），eSIM提供了獨立且穩定的連線。
     - q: 利蒙的漢普頓飯店及套房的網路評價如何？eSIM有助於提升體驗嗎？
-      a: 利蒙漢普頓飯店及套房的免費Wi-Fi在TripAdvisor上平均評分3.5/5，住客反映大廳訊號較強，但高樓層房間速度波動。eSIM透過Claro網路提供約20-30
-        Mbps的穩定速度，可輕鬆上傳照片、使用串流。建議入住時將手機連上飯店Wi-Fi的同時，保留eSIM作為備援，確保無縫上網體驗。
+      a: 利蒙漢普頓飯店及套房的免費Wi-Fi在TripAdvisor上平均評分3.5/5，住客反映大廳訊號較強，但高樓層房間速度波動。eSIM透過Claro網路提供約20-30 Mbps的穩定速度，可輕鬆上傳照片、使用串流。建議入住時將手機連上飯店Wi-Fi的同時，保留eSIM作為備援，確保無縫上網體驗。
     - q: 在潘塔雷納斯海灘度假村，使用eSIM分享熱點給多個裝置會超過限制嗎？
-      a: 潘塔雷納斯海灘度假村（如Fiesta Resort）區域的eSIM每日高速流量通常為3GB，若您將熱點分享給筆電、平板和兩支手機，觀看影片或視訊會議可能很快就超過限制。超過後速度降至2
-        Mbps，仍可瀏覽網頁及收發郵件。建議分配不同裝置的用途，例如僅讓筆電使用高速串流，其他裝置連飯店Wi-Fi，以節省流量。
+      a: 潘塔雷納斯海灘度假村（如Fiesta Resort）區域的eSIM每日高速流量通常為3GB，若您將熱點分享給筆電、平板和兩支手機，觀看影片或視訊會議可能很快就超過限制。超過後速度降至2 Mbps，仍可瀏覽網頁及收發郵件。建議分配不同裝置的用途，例如僅讓筆電使用高速串流，其他裝置連飯店Wi-Fi，以節省流量。
     - q: 卡塔戈的精品飯店有提供客房內Wi-Fi嗎？eSIM是否比飯店Wi-Fi更安全？
       a: 卡塔戈的精品飯店（如Hotel Boutique Casa Navila）通常提供免費Wi-Fi，速度約5-10 Mbps。公共Wi-Fi存在安全風險，如個人資料被竊取。eSIM使用加密的行動網路，比開放式飯店Wi-Fi更安全，尤其適合進行網路銀行或輸入敏感資訊。建議涉及隱私的操作優先使用eSIM，一般瀏覽可用飯店Wi-Fi來節省流量。
   - id: faq-attractions
@@ -434,14 +413,12 @@ faq_section:
     tab_title: 社交媒體
     title: 透過 哥斯大黎加 eSIM 在 哥斯大黎加 使用通訊軟體和社群網站
     questions:
-    - q: 在聖荷西使用Instagram限時動態，eSIM的上傳速度快嗎？
-      a: 在聖荷西主要景點（如中央公園或國家劇院），連接Kölbi網路時，上傳速度約15-25 Mbps，上傳一張照片限時動態約2-3秒，影片（15秒）約5-10秒。在尖峰時段（午餐時間），速度可能降至8-12
-        Mbps，但仍可接受。建議在人多區域避免上傳高畫質影片，以免等待。
+    - q: 去哥斯大黎加旅行需要多少數據量？
+      a: 輕度使用者(地圖+訊息)約300MB/天，中度(社群+照片)約700MB/天，重度(串流+視訊)選擇無限方案。大多數旅客在哥斯大黎加標準行程中選擇5GB/15天已足夠。
     - q: 在利蒙的海灘酒吧打卡標記，eSIM的定位準確嗎？
       a: 利蒙的Playa Bonita海灘酒吧區域，Kölbi的GPS定位精度在5公尺內，打卡標記通常無誤。但在酒吧內角落，訊號可能受金屬裝飾影響，定位偏移約20公尺。此時可走到露天座位區重新整理位置。eSIM的網路反應迅速，打卡分享照片約需3-5秒。
     - q: 使用TikTok在蒙特維德上傳影片，會因為網路不穩而中斷嗎？
-      a: 在蒙特維德鎮中心（靠近咖啡館區），Claro網路提供穩定的上傳速度約10-15 Mbps，上傳1分鐘TikTok影片約需30-40秒，通常不會中斷。但在雲霧森林深處，速度降至5
-        Mbps以下，可能導致上傳失敗。建議在鎮中心完成上傳，避免在景點內使用高流量應用。
+      a: 在蒙特維德鎮中心（靠近咖啡館區），Claro網路提供穩定的上傳速度約10-15 Mbps，上傳1分鐘TikTok影片約需30-40秒，通常不會中斷。但在雲霧森林深處，速度降至5 Mbps以下，可能導致上傳失敗。建議在鎮中心完成上傳，避免在景點內使用高流量應用。
     - q: 在卡塔戈的Ruinas遺址直播，eSIM的延遲低嗎？
       a: 在Ruinas de Ujarrás遺址開闊區域，Movistar網路的延遲約30-40毫秒，適合進行Facebook直播。畫面穩定，音質清晰，但背景可能有輕微回音。若直播時間超過30分鐘，建議使用行動電源，並注意每日高速流量限制（如3GB後降速）。直播前可先測試速度，確保上傳頻寬足夠。
     - q: 在潘塔雷納斯碼頭邊，使用WhatsApp傳送影片需要多久？
@@ -456,12 +433,11 @@ faq_section:
     - q: 在偏遠地區（如蒙特維德或奧薩半島）發生意外，eSIM能否對外聯絡？
       a: 在蒙特維德鎮中心以外或奧薩半島內部，部分區域僅有3G或無訊號。eSIM在這些地區可能無法通話，但可嘗試傳送簡訊至112（歐洲通用緊急號碼，哥斯大黎加也支援）。如果訊號極弱，走到高處或開闊處有助於改善接收。建議出發前下載離線地圖，並告知住宿業者行程。另外，可租用衛星電話作為備用。
     - q: 車輛在34號公路拋錨時，如何用eSIM尋求道路救援？
-      a: 34號公路（Coastal Highway）大部分區域有Kölbi的4G訊號，可用手機撥打*911或聯絡道路救援服務（如Grupo Asesores
-        de Seguros，電話2519-9999）。使用eSIM時，請確保提供精確位置（可用Google地圖分享定位）。若在公路偏遠段（如Palmar
+      a: 34號公路（Coastal Highway）大部分區域有Kölbi的4G訊號，可用手機撥打*911或聯絡道路救援服務（如Grupo Asesores de Seguros，電話2519-9999）。使用eSIM時，請確保提供精確位置（可用Google地圖分享定位）。若在公路偏遠段（如Palmar
         Sur附近）訊號較弱，嘗試往高處移動幾公尺。建議隨身攜帶救援電話清單。
     - q: 在聖荷西夜晚遇到犯罪時，eSIM能否快速聯繫飯店或警方？
-      a: 在聖荷西市區（如Calle Blancos地區），eSIM網路穩定，可迅速撥打911或聯絡飯店櫃檯。建議事先儲存飯店電話號碼，並開啟手機的緊急定位功能。若您感到危險，保持冷靜，撥打911後告知「Ayuda,
-        necesito la policía」，接線員可轉接中文翻譯服務。eSIM的低延遲特性有助於即時通話，確保安全。
+      a: 在聖荷西市區（如Calle Blancos地區），eSIM網路穩定，可迅速撥打911或聯絡飯店櫃檯。建議事先儲存飯店電話號碼，並開啟手機的緊急定位功能。若您感到危險，保持冷靜，撥打911後告知「Ayuda, necesito
+        la policía」，接線員可轉接中文翻譯服務。eSIM的低延遲特性有助於即時通話，確保安全。
     - q: 在利蒙海邊戲水時，eSIM手機進水了該怎麼辦？
       a: 若手機進水，首先立即關機，取出eSIM卡（雖然是eSIM，但手機仍需處理）。用乾布擦乾，放入米袋或乾燥劑中24小時。復機後插入實體SIM卡測試，但eSIM設定檔通常存於手機記憶體，只要手機未損壞即可重新下載。建議購買防水手機殼，並將緊急聯絡號碼寫在防水紙條上，以備不時之需。
 related_products:

@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Algérie eSIM | Acheter pas cher pour voyager"
-  description: "L'eSIM prepayee Roami pour Algérie s'achete en ligne sans attendre. Pas de livraison, tout est dematerialise. Couvre tout le pays."
+  title: Algérie eSIM | Acheter pas cher pour voyager
+  description: L'eSIM prepayee Roami pour Algérie s'achete en ligne sans attendre. Pas de livraison, tout est dematerialise.
+    Couvre tout le pays.
   keywords: eSIM Algérie, forfait eSIM Algérie, meilleure eSIM Algérie, Algérie data, Mobilis Algérie, Djezzy Algérie, Ooredoo
     Algérie, eSIM Alger, eSIM Oran, eSIM Constantine, internet mobile Algérie, 5G Algérie
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/dz.svg
   flag_alt: Drapeau Algérie
-  title: 'eSIM Algérie 2026: Solutions Data Complètes pour Votre Voyage'
+  title: 'eSIM Algérie: Solutions Data Complètes pour Votre Voyage'
   subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour Algérie
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Algérie: Couverture, Vitesse & Service'

@@ -19,8 +19,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Fidji eSIM | Données illimitées au meilleur prix"
-  description: "Partez pour Fidji avec Roami. L'activation de votre eSIM prend moins de 2 minutes. Simple comme un clic. Couvre tout le pays."
+  title: Fidji eSIM | Données illimitées au meilleur prix
+  description: Partez pour Fidji avec Roami. L'activation de votre eSIM prend moins de 2 minutes. Simple comme un clic. Couvre
+    tout le pays.
   keywords: eSIM Fidji, forfait eSIM Fidji, meilleure eSIM Fidji, Fidji data, Vodafone Fiji Fidji, Digicel Fiji Fidji, Telecom
     Fiji Fidji, eSIM Suva, eSIM Nadi, eSIM Lautoka, internet mobile Fidji, 5G Fidji
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/fj.svg
   flag_alt: Drapeau Fidji
-  title: 'eSIM Fidji 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Fidji: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Fidji
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Fidji: Réseau, Forfaits & Prix'

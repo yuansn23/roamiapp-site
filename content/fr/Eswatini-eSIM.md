@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/sz.svg
   flag_alt: Drapeau Eswatini
-  title: 'eSIM Eswatini 2026: Solutions Data Complètes pour Votre Voyage'
+  title: 'eSIM Eswatini: Solutions Data Complètes pour Votre Voyage'
   subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour Eswatini
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Eswatini: Couverture, Vitesse & Service'

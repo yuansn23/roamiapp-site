@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/kw.svg
   flag_alt: Drapeau Koweït
-  title: 'eSIM Koweït 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Koweït: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Koweït - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Koweït: Vitesse, Couverture & Support'

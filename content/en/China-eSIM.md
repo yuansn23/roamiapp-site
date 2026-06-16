@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "China eSIM | Best Prepaid Travel Plan, No VPN"
-  description: "Planning a trip to China? Get Roami's best prepaid travel eSIM with unlimited 5G data. No VPN needed. Instant activation. Covers Beijing, Shanghai & all cities."
+  title: China eSIM | Best Prepaid Travel Plan, No VPN
+  description: Planning a trip to China? Get Roami's best prepaid travel eSIM with unlimited 5G data. No VPN needed. Instant
+    activation. Covers Beijing, Shanghai & all cities.
   keywords: China eSIM, buy China eSIM, best China eSIM, China travel eSIM, China Mobile China, China Unicom China, China
     Telecom China, Beijing eSIM, Shanghai eSIM, Guangzhou eSIM, China prepaid eSIM, 5G China eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/cn.svg
   flag_alt: China Flag
-  title: 'China eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'China eSIM: Stay Connected Everywhere You Go'
   subtitle: Best prepaid eSIM for China travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why China Travelers Choose Roami: Speed, Coverage & Support'

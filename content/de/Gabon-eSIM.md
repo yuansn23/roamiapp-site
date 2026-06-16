@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ga.svg
   flag_alt: Flagge von Gabun
-  title: 'Gabun eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Gabun eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Gabun
 features:
   title: 'Warum Reisende Roami fuer Gabun waehlen: Netzwerk, Tarife & Preiswert'

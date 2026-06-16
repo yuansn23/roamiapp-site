@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Panama eSIM | Ricarica immediata senza contratto"
-  description: "Hai bisogno di una eSIM economica per Panama? Roami offre qualità a un prezzo accessibile. Nessun costo extra. Copre tutte le regioni."
+  title: Panama eSIM | Ricarica immediata senza contratto
+  description: Hai bisogno di una eSIM economica per Panama? Roami offre qualità a un prezzo accessibile. Nessun costo extra.
+    Copre tutte le regioni.
   keywords: eSIM Panama, piano eSIM Panama, migliore eSIM Panama, Panama dati, Claro Panama Panama, Digicel Panama Panama,
     Tigo Panama Panama, eSIM Panama City, eSIM Colón, eSIM David, internet mobile Panama, 5G Panama
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/pa.svg
   flag_alt: Bandiera di Panama
-  title: 'eSIM Panama 2026: Soluzioni Dati Complete per il Tuo Viaggio'
+  title: 'eSIM Panama: Soluzioni Dati Complete per il Tuo Viaggio'
   subtitle: Niente costi nascosti | Internet senza preoccupazioni | Supporto 24/7 - la migliore eSIM per Panama
 features:
   title: 'Perché i viaggiatori scelgono Roami per Panama: Copertura, Velocità & Servizio'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Honduras eSIM | Voyagez avec données illimitées"
-  description: "Avec Roami a Honduras, dites adieu aux limitations de donnees. Internet illimite pour profiter pleinement de votre voyage. Couvre tout le pays."
+  title: Honduras eSIM | Voyagez avec données illimitées
+  description: Avec Roami a Honduras, dites adieu aux limitations de donnees. Internet illimite pour profiter pleinement de
+    votre voyage. Couvre tout le pays.
   keywords: eSIM Honduras, forfait eSIM Honduras, meilleure eSIM Honduras, Honduras data, Tigo Honduras, Claro Honduras, Hondutel
     Honduras, eSIM Tegucigalpa, eSIM San Pedro Sula, eSIM La Ceiba, internet mobile Honduras, 5G Honduras
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/hn.svg
   flag_alt: Drapeau Honduras
-  title: 'eSIM Honduras 2026: Restez Connecté Partout'
+  title: 'eSIM Honduras: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Honduras
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Honduras: Forfaits, Réseau & Support'

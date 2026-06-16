@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Taiwan eSIM | Buy Best eSIM Plan for Tourists"
-  description: "Planning a trip to Taiwan? Get Roami's best prepaid travel eSIM with unlimited 5G data island-wide. Instant QR activation. Covers Taipei & all major cities."
+  title: Taiwan eSIM | Buy Best eSIM Plan for Tourists
+  description: Planning a trip to Taiwan? Get Roami's best prepaid travel eSIM with unlimited 5G data island-wide. Instant
+    QR activation. Covers Taipei & all major cities.
   keywords: Taiwan eSIM, buy Taiwan eSIM, best Taiwan eSIM, Taiwan travel eSIM, Chunghwa Telecom Taiwan, FarEasTone Taiwan,
     Taiwan Mobile Taiwan, Taipei eSIM, New Taipei City eSIM, Taichung eSIM, Taiwan prepaid eSIM, 5G Taiwan eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/tw.svg
   flag_alt: Taiwan Flag
-  title: 'Taiwan eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'Taiwan eSIM: Reliable Network & Coverage for Travelers'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Taiwan
 features:
   title: 'Why Taiwan Travelers Choose Roami: Plans, Network & Support'

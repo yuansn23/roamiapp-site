@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Colombie eSIM | Acheter pas cher pour voyager"
-  description: "L'eSIM prepayee Roami pour Colombie s'achete en ligne sans attendre. Pas de livraison, tout est dematerialise. Couvre tout le pays."
+  title: Colombie eSIM | Acheter pas cher pour voyager
+  description: L'eSIM prepayee Roami pour Colombie s'achete en ligne sans attendre. Pas de livraison, tout est dematerialise.
+    Couvre tout le pays.
   keywords: eSIM Colombie, forfait eSIM Colombie, meilleure eSIM Colombie, Colombie data, Claro Colombie, Movistar Colombie,
     Tigo Colombie, eSIM Bogota, eSIM Medellin, eSIM Cali, internet mobile Colombie, 5G Colombie
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/co.svg
   flag_alt: Drapeau Colombie
-  title: 'eSIM Colombie 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Colombie: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Colombie
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Colombie: Réseau, Forfaits & Prix'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Russie eSIM | Meilleur prix sans engagement"
-  description: "Roami a Russie, c'est sans engagement. Pas d'abonnement, pas de surprise. Vous payez seulement pour votre voyage. Couvre tout le pays."
+  title: Russie eSIM | Meilleur prix sans engagement
+  description: Roami a Russie, c'est sans engagement. Pas d'abonnement, pas de surprise. Vous payez seulement pour votre voyage.
+    Couvre tout le pays.
   keywords: eSIM Russie, forfait eSIM Russie, meilleure eSIM Russie, Russie data, MTS Russie, MegaFon Russie, Beeline Russie,
     eSIM Moscou, eSIM Saint-Pétersbourg, eSIM Novossibirsk, internet mobile Russie, 5G Russie
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ru.svg
   flag_alt: Drapeau Russie
-  title: 'eSIM Russie 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Russie: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Russie
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Russie: Réseau, Forfaits & Prix'

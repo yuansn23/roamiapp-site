@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Uzbekistan eSIM | Prepaid Data Plan for Your Trip"
-  description: "Planning a trip to Uzbekistan? Get Roami's best prepaid travel eSIM with unlimited 5G data. Covers Tashkent, Samarkand & Bukhara. Instant activation."
+  title: Uzbekistan eSIM | Prepaid Data Plan for Your Trip
+  description: Planning a trip to Uzbekistan? Get Roami's best prepaid travel eSIM with unlimited 5G data. Covers Tashkent,
+    Samarkand & Bukhara. Instant activation.
   keywords: Uzbekistan eSIM, buy Uzbekistan eSIM, best Uzbekistan eSIM, Uzbekistan travel eSIM, Ucell Uzbekistan, Beeline
     Uzbekistan Uzbekistan, UMS (Universal Mobile Systems) Uzbekistan, Tashkent eSIM, Samarkand eSIM, Bukhara eSIM, Uzbekistan
     prepaid eSIM, 5G Uzbekistan eSIM
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/uz.svg
   flag_alt: Uzbekistan Flag
-  title: 'Uzbekistan eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Uzbekistan eSIM: Stay Connected Everywhere You Go'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Uzbekistan
 features:
   title: 'Why Uzbekistan Travelers Choose Roami: Plans, Network & Support'

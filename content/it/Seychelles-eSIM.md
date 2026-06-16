@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Seychelles eSIM | Compra al miglior prezzo"
-  description: "La eSIM Roami per Seychelles offre il miglior rapporto qualità-prezzo. Risparmia sul tuo viaggio senza rinunciare alla qualità della connessione. Copre tutte le regioni."
+  title: Seychelles eSIM | Compra al miglior prezzo
+  description: La eSIM Roami per Seychelles offre il miglior rapporto qualità-prezzo. Risparmia sul tuo viaggio senza rinunciare
+    alla qualità della connessione. Copre tutte le regioni.
   keywords: eSIM Seychelles, piano eSIM Seychelles, migliore eSIM Seychelles, Seychelles dati, Airtel Seychelles Seychelles,
     Cable & Wireless Seychelles, Intelvision Seychelles, eSIM Victoria, eSIM Anse Royale, eSIM Beau Vallon, internet mobile
     Seychelles, 5G Seychelles
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/sc.svg
   flag_alt: Bandiera di Seychelles
-  title: 'eSIM Seychelles 2026: Rete Affidabile per Viaggiatori'
+  title: 'eSIM Seychelles: Rete Affidabile per Viaggiatori'
   subtitle: Attivazione immediata | 5G veloce | Supporto 24/7 - la migliore eSIM prepagata per Seychelles
 features:
   title: 'Perché i viaggiatori scelgono Roami per Seychelles: Rete, Piani & Prezzo'

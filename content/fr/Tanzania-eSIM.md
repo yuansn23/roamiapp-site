@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d''une
     réduction de 20 %, code promo : web20'
 seo:
-  title: "Tanzanie eSIM | Acheter pas cher, données illimitées"
-  description: "Roami pour Tanzanie : installation rapide et activation immediate. Pas besoin de chercher une boutique sur place. Couvre tout le pays."
+  title: Tanzanie eSIM | Acheter pas cher, données illimitées
+  description: 'Roami pour Tanzanie : installation rapide et activation immediate. Pas besoin de chercher une boutique sur
+    place. Couvre tout le pays.'
   keywords: eSIM Tanzanie, forfait eSIM Tanzanie, meilleure eSIM Tanzanie, Tanzanie data, Vodacom Tanzanie, Airtel Tanzanie,
     Tigo Tanzanie, eSIM Dar es Salaam, eSIM Mwanza, eSIM Arusha, internet mobile Tanzanie, 5G Tanzanie
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/ta.svg
   flag_alt: Drapeau Tanzanie
-  title: 'eSIM Tanzanie 2026: Restez Connecté Partout'
+  title: 'eSIM Tanzanie: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Tanzanie
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Tanzanie: Forfaits, Réseau & Support'

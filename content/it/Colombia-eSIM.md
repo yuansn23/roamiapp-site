@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Colombia eSIM | Internet veloce senza limiti"
-  description: "La eSIM Roami per Colombia si acquista online senza attese. Niente spedizione, tutto digitale, ricevuto via email. Copre tutte le regioni."
+  title: Colombia eSIM | Internet veloce senza limiti
+  description: La eSIM Roami per Colombia si acquista online senza attese. Niente spedizione, tutto digitale, ricevuto via
+    email. Copre tutte le regioni.
   keywords: eSIM Colombia, piano eSIM Colombia, migliore eSIM Colombia, Colombia dati, Claro Colombia, Movistar Colombia,
     Tigo Colombia, eSIM Bogotá, eSIM Medellín, eSIM Cartagena, internet mobile Colombia, 5G Colombia
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/co.svg
   flag_alt: Bandiera di Colombia
-  title: 'eSIM Colombia 2026: Rete Affidabile per Viaggiatori'
+  title: 'eSIM Colombia: Rete Affidabile per Viaggiatori'
   subtitle: Attivazione immediata | 5G veloce | Supporto 24/7 - la migliore eSIM prepagata per Colombia
 features:
   title: 'Perché i viaggiatori scelgono Roami per Colombia: Rete, Piani & Prezzo'

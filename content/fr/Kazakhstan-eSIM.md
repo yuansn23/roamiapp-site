@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Kazakhstan eSIM | Meilleur prix sans engagement"
-  description: "Pour Kazakhstan, Roami vous offre une eSIM sans engagement. Utilisez-la pendant votre voyage, puis c'est fini. Rien a resilier. Couvre tout le pays."
+  title: Kazakhstan eSIM | Meilleur prix sans engagement
+  description: Pour Kazakhstan, Roami vous offre une eSIM sans engagement. Utilisez-la pendant votre voyage, puis c'est fini.
+    Rien a resilier. Couvre tout le pays.
   keywords: eSIM Kazakhstan, forfait eSIM Kazakhstan, meilleure eSIM Kazakhstan, Kazakhstan data, Beeline Kazakhstan, Kcell
     Kazakhstan, Tele2 Kazakhstan, eSIM Almaty, eSIM Noursoultan, eSIM Chimkent, internet mobile Kazakhstan, 5G Kazakhstan
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/kz.svg
   flag_alt: Drapeau Kazakhstan
-  title: 'eSIM Kazakhstan 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Kazakhstan: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Kazakhstan
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Kazakhstan: Réseau, Forfaits & Prix'

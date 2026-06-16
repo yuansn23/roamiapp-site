@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Kasachstan eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Für Kasachstan bietet Roami eine eSIM ohne Vertragsbindung. Nutzen Sie sie für Ihre Reise, dann ist Schluss. Nichts zu kündigen. Deckt alle Regionen ab."
+  title: Kasachstan eSIM | Günstigste Prepaid Reise eSIM
+  description: Für Kasachstan bietet Roami eine eSIM ohne Vertragsbindung. Nutzen Sie sie für Ihre Reise, dann ist Schluss.
+    Nichts zu kündigen. Deckt alle Regionen ab.
   keywords: Kasachstan eSIM, Kasachstan Reise eSIM, beste eSIM Kasachstan, Kasachstan Datentarif, Kcell Kasachstan, Beeline
     Kasachstan, Tele2/Altel Kasachstan, Almaty eSIM, Nur-Sultan (Astana) eSIM, Schymkent eSIM, Kasachstan mobiles Internet,
     5G Kasachstan
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/kz.svg
   flag_alt: Flagge von Kasachstan
-  title: 'Kasachstan eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Kasachstan eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Kasachstan
 features:
   title: 'Warum Reisende Roami fuer Kasachstan waehlen: Netzwerk, Tarife & Preiswert'

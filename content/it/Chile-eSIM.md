@@ -19,8 +19,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Cile eSIM | Offerte eSIM per viaggiatori"
-  description: "Prepara il tuo viaggio in Cile con Roami. La nostra eSIM ti accompagna ovunque per un'esperienza senza preoccupazioni, sempre connesso. Copre tutte le regioni."
+  title: Cile eSIM | Offerte eSIM per viaggiatori
+  description: Prepara il tuo viaggio in Cile con Roami. La nostra eSIM ti accompagna ovunque per un'esperienza senza preoccupazioni,
+    sempre connesso. Copre tutte le regioni.
   keywords: eSIM Cile, piano eSIM Cile, migliore eSIM Cile, Cile dati, Entel Cile, Movistar Cile, Claro Cile, eSIM Santiago,
     eSIM Valparaíso, eSIM Concepción, internet mobile Cile, 5G Cile
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/cl.svg
   flag_alt: Bandiera di Cile
-  title: 'eSIM Cile 2026: Rimani Connesso Ovunque'
+  title: 'eSIM Cile: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per Cile
 features:
   title: 'Perché i viaggiatori scelgono Roami per Cile: Piani, Rete & Supporto'

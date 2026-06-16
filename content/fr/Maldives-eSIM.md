@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Maldives eSIM | Activation immédiate au meilleur prix"
-  description: "Roami simplifie vos vacances a Maldives. Une eSIM telechargeable avant le depart, et vous voila pare pour l'aventure. Couvre tout le pays."
+  title: Maldives eSIM | Activation immédiate au meilleur prix
+  description: Roami simplifie vos vacances a Maldives. Une eSIM telechargeable avant le depart, et vous voila pare pour l'aventure.
+    Couvre tout le pays.
   keywords: eSIM Maldives, forfait eSIM Maldives, meilleure eSIM Maldives, Maldives data, Dhiraagu Maldives, Ooredoo Maldives,
     Maldives Telecom Maldives, eSIM Malé, eSIM Addu (Hithadhoo), eSIM Fuvahmulah, internet mobile Maldives, 5G Maldives
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/mv.svg
   flag_alt: Drapeau Maldives
-  title: 'eSIM Maldives 2026: Restez Connecté Partout'
+  title: 'eSIM Maldives: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Maldives
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Maldives: Forfaits, Réseau & Support'

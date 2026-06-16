@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Tunisia eSIM | Dati illimitati per viaggiare"
-  description: "Prepara il tuo viaggio in Tunisia con Roami. La nostra eSIM ti accompagna ovunque per un'esperienza senza preoccupazioni, sempre connesso. Copre tutte le regioni."
+  title: Tunisia eSIM | Dati illimitati per viaggiare
+  description: Prepara il tuo viaggio in Tunisia con Roami. La nostra eSIM ti accompagna ovunque per un'esperienza senza preoccupazioni,
+    sempre connesso. Copre tutte le regioni.
   keywords: eSIM Tunisia, piano eSIM Tunisia, migliore eSIM Tunisia, Tunisia dati, Tunisie Telecom Tunisia, Ooredoo Tunisia
     Tunisia, Orange Tunisia Tunisia, eSIM Tunisi, eSIM Sfax, eSIM Sousse, internet mobile Tunisia, 5G Tunisia
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/tn.svg
   flag_alt: Bandiera di Tunisia
-  title: 'eSIM Tunisia 2026: Rete Affidabile per Viaggiatori'
+  title: 'eSIM Tunisia: Rete Affidabile per Viaggiatori'
   subtitle: Attivazione immediata | 5G veloce | Supporto 24/7 - la migliore eSIM prepagata per Tunisia
 features:
   title: 'Perché i viaggiatori scelgono Roami per Tunisia: Rete, Piani & Prezzo'

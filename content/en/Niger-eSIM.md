@@ -44,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/ni.svg
   flag_alt: Niger Flag
-  title: 'Niger eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Niger eSIM: Complete Data Solutions for Your Trip'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Niger travelers
 features:
   title: 'Why Niger Travelers Choose Roami: Coverage, Speed & Service'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Pérou eSIM | Prépayé sans engagement, activé immédiat"
-  description: "Pour Pérou, choisissez Roami et payez moins cher. Notre eSIM est au meilleur prix pour voyager sans vous ruiner. Couvre tout le pays."
+  title: Pérou eSIM | Prépayé sans engagement, activé immédiat
+  description: Pour Pérou, choisissez Roami et payez moins cher. Notre eSIM est au meilleur prix pour voyager sans vous ruiner.
+    Couvre tout le pays.
   keywords: eSIM Pérou, forfait eSIM Pérou, meilleure eSIM Pérou, Pérou data, Movistar Pérou, Claro Pérou, Entel Pérou, eSIM
     Lima, eSIM Cusco, eSIM Arequipa, internet mobile Pérou, 5G Pérou
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/pe.svg
   flag_alt: Drapeau Pérou
-  title: 'eSIM Pérou 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Pérou: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Pérou - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Pérou: Vitesse, Couverture & Support'

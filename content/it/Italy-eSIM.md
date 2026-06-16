@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Italia eSIM | Offerte eSIM per viaggiatori"
-  description: "Acquista la tua eSIM Roami per Italia in pochi clic. Pagamento sicuro, ricezione immediata del codice. Comodo e veloce. Copre Roma, Venezia & Firenze."
+  title: Italia eSIM | Offerte eSIM per viaggiatori
+  description: Acquista la tua eSIM Roami per Italia in pochi clic. Pagamento sicuro, ricezione immediata del codice. Comodo
+    e veloce. Copre Roma, Venezia & Firenze.
   keywords: eSIM Italia, piano eSIM Italia, migliore eSIM Italia, Italia dati, TIM Italia, Vodafone Italia, Wind Tre Italia,
     eSIM Roma, eSIM Milano, eSIM Napoli, internet mobile Italia, 5G Italia
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/it.svg
   flag_alt: Bandiera di Italia
-  title: 'eSIM Italia 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Italia: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Italia - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Italia: Velocità, Copertura & Supporto'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Perù eSIM | Ricarica immediata senza contratto"
-  description: "Roami è la eSIM più conveniente per Perù. Prezzo trasparente, nessuna sorpresa. Perfetta per viaggiare senza spendere troppo. Copre tutte le regioni."
+  title: Perù eSIM | Ricarica immediata senza contratto
+  description: Roami è la eSIM più conveniente per Perù. Prezzo trasparente, nessuna sorpresa. Perfetta per viaggiare senza
+    spendere troppo. Copre tutte le regioni.
   keywords: eSIM Perù, piano eSIM Perù, migliore eSIM Perù, Perù dati, Movistar Perù, Claro Perù, Entel Perù, eSIM Lima, eSIM
     Cusco, eSIM Arequipa, internet mobile Perù, 5G Perù
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/pe.svg
   flag_alt: Bandiera di Perù
-  title: 'eSIM Perù 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Perù: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Perù - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Perù: Velocità, Copertura & Supporto'

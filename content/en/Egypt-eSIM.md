@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Egypt eSIM | Buy Best eSIM Plan for Tourists"
-  description: "Get the best prepaid travel eSIM for Egypt from Roami. Unlimited 5G data on top networks. Instant QR activation. Covers Cairo, Alexandria & Giza."
+  title: Egypt eSIM | Buy Best eSIM Plan for Tourists
+  description: Get the best prepaid travel eSIM for Egypt from Roami. Unlimited 5G data on top networks. Instant QR activation.
+    Covers Cairo, Alexandria & Giza.
   keywords: Egypt eSIM, buy Egypt eSIM, best Egypt eSIM, Egypt travel eSIM, Orange Egypt, Vodafone Egypt, Etisalat Egypt,
     Cairo eSIM, Alexandria eSIM, Luxor eSIM, Egypt prepaid eSIM, 5G Egypt eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/eg.svg
   flag_alt: Egypt Flag
-  title: 'Egypt eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Egypt eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Egypt
 features:
   title: 'Why Egypt Travelers Choose Roami: Plans, Network & Support'

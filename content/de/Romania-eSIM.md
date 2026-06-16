@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Rumänien eSIM | Prepaid Tarif für Reise & Urlaub"
-  description: "Reisen Sie nach Rumänien ohne Verpflichtungen. Roami bindet Sie an kein Abo. Sie bestimmen alles. Deckt alle Regionen ab."
+  title: Rumänien eSIM | Prepaid Tarif für Reise & Urlaub
+  description: Reisen Sie nach Rumänien ohne Verpflichtungen. Roami bindet Sie an kein Abo. Sie bestimmen alles. Deckt alle
+    Regionen ab.
   keywords: Rumänien eSIM, Rumänien Reise eSIM, beste eSIM Rumänien, Rumänien Datentarif, Vodafone Rumänien, Orange Rumänien,
     Telekom Rumänien, Bukarest eSIM, Cluj-Napoca eSIM, Timișoara eSIM, Rumänien mobiles Internet, 5G Rumänien
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ro.svg
   flag_alt: Flagge von Rumänien
-  title: 'Rumänien eSIM 2026: Schnelles 5G für jedes Reiseziel'
+  title: 'Rumänien eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Rumänien - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
   title: 'Warum Reisende Roami fuer Rumänien waehlen: Geschwindigkeit, Abdeckung & Support'

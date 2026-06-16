@@ -19,8 +19,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Cambogia eSIM | Ricarica immediata senza contratto"
-  description: "Ordina la tua eSIM per Cambogia da Roami. Semplice, veloce e sarai connesso prima ancora di partire. Copre tutte le regioni."
+  title: Cambogia eSIM | Ricarica immediata senza contratto
+  description: Ordina la tua eSIM per Cambogia da Roami. Semplice, veloce e sarai connesso prima ancora di partire. Copre
+    tutte le regioni.
   keywords:
   - eSIM Cambogia
   - piano eSIM Cambogia
@@ -53,7 +54,7 @@ banner:
 hero:
   flag_image: img/flags/kh.svg
   flag_alt: Bandiera di Cambogia
-  title: 'eSIM Cambogia 2026: Rimani Connesso Ovunque'
+  title: 'eSIM Cambogia: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per Cambogia
 features:
   title: 'Perché i viaggiatori scelgono Roami per Cambogia: Piani, Rete & Supporto'

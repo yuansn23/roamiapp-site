@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Greece eSIM | Top Prepaid Travel eSIM Plan"
-  description: "Explore Greece with the best prepaid travel eSIM from Roami. Unlimited 5G data on mainland & islands. Instant activation. Covers Athens, Santorini & Mykonos."
+  title: Greece eSIM | Top Prepaid Travel eSIM Plan
+  description: Explore Greece with the best prepaid travel eSIM from Roami. Unlimited 5G data on mainland & islands. Instant
+    activation. Covers Athens, Santorini & Mykonos.
   keywords: Greece eSIM, buy Greece eSIM, best Greece eSIM, Greece travel eSIM, Vodafone Greece, Cosmote Greece, Wind Greece,
     Athens eSIM, Thessaloniki eSIM, Heraklion eSIM, Greece prepaid eSIM, 5G Greece eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/gr.svg
   flag_alt: Greece Flag
-  title: 'Greece eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Greece eSIM: Stay Connected Everywhere You Go'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Greece
 features:
   title: 'Why Greece Travelers Choose Roami: Network, Plans & Value'

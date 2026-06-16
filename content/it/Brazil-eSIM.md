@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Brasile eSIM | Attivazione immediata conveniente"
-  description: "Viaggia in Brasile in libertà con Roami. Nessun rinnovo automatico, nessuna penale di recesso. Usala e basta. Copre Rio, San Paolo & tutto il Brasile."
+  title: Brasile eSIM | Attivazione immediata conveniente
+  description: Viaggia in Brasile in libertà con Roami. Nessun rinnovo automatico, nessuna penale di recesso. Usala e basta.
+    Copre Rio, San Paolo & tutto il Brasile.
   keywords: eSIM Brasile, piano eSIM Brasile, migliore eSIM Brasile, Brasile dati, Vivo Brasile, Claro Brasile, TIM Brasil
     Brasile, eSIM San Paolo, eSIM Rio de Janeiro, eSIM Brasilia, internet mobile Brasile, 5G Brasile
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/br.svg
   flag_alt: Bandiera di Brasile
-  title: 'eSIM Brasile 2026: Rimani Connesso Ovunque'
+  title: 'eSIM Brasile: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per Brasile
 features:
   title: 'Perché i viaggiatori scelgono Roami per Brasile: Piani, Rete & Supporto'

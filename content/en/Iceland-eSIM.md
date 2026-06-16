@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Iceland eSIM | Prepaid Data Plan for Your Trip"
-  description: "Planning a trip to Iceland? Get Roami's best prepaid travel eSIM with unlimited 5G data. Instant activation. Covers Reykjavik, Akureyri & the Golden Circle."
+  title: Iceland eSIM | Prepaid Data Plan for Your Trip
+  description: Planning a trip to Iceland? Get Roami's best prepaid travel eSIM with unlimited 5G data. Instant activation.
+    Covers Reykjavik, Akureyri & the Golden Circle.
   keywords: Iceland eSIM, buy Iceland eSIM, best Iceland eSIM, Iceland travel eSIM, Síminn Iceland, Vodafone Iceland, Telenor
     Iceland, Reykjavik eSIM, Akureyri eSIM, Keflavik eSIM, Iceland prepaid eSIM, 5G Iceland eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/is.svg
   flag_alt: Iceland Flag
-  title: 'Iceland eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Iceland eSIM: Complete Data Solutions for Your Trip'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Iceland travelers
 features:
   title: 'Why Iceland Travelers Choose Roami: Coverage, Speed & Service'

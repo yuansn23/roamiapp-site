@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Spain eSIM | Fast & Reliable Prepaid Data Plan"
-  description: "Need a prepaid travel eSIM for Spain? Roami offers the best unlimited 5G data plan for travelers. Instant activation. Covers Barcelona, Madrid & the islands."
+  title: Spain eSIM | Fast & Reliable Prepaid Data Plan
+  description: Need a prepaid travel eSIM for Spain? Roami offers the best unlimited 5G data plan for travelers. Instant activation.
+    Covers Barcelona, Madrid & the islands.
   keywords: Spain eSIM, buy Spain eSIM, best Spain eSIM, Spain travel eSIM, Movistar Spain, Orange Spain, Vodafone Spain,
     Madrid eSIM, Barcelona eSIM, Valencia eSIM, Spain prepaid eSIM, 5G Spain eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/es.svg
   flag_alt: Spain Flag
-  title: 'Spain eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Spain eSIM: Stay Connected Everywhere You Go'
   subtitle: Best prepaid eSIM for Spain travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Spain Travelers Choose Roami: Speed, Coverage & Support'

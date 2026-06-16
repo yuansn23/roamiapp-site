@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Fidschi eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Reisen Sie nach Fidschi mit Roami. Die eSIM Aktivierung dauert weniger als 2 Minuten. Einfach und unkompliziert. Deckt alle Regionen ab."
+  title: Fidschi eSIM | Günstigste Prepaid Reise eSIM
+  description: Reisen Sie nach Fidschi mit Roami. Die eSIM Aktivierung dauert weniger als 2 Minuten. Einfach und unkompliziert.
+    Deckt alle Regionen ab.
   keywords: Fidschi eSIM, Fidschi Reise eSIM, beste eSIM Fidschi, Fidschi Datentarif, Vodafone Fiji Fidschi, Digicel Fiji
     Fidschi, Telecom Fiji Fidschi, Suva eSIM, Nadi eSIM, Lautoka eSIM, Fidschi mobiles Internet, 5G Fidschi
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/fj.svg
   flag_alt: Flagge von Fidschi
-  title: 'Fidschi eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Fidschi eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Fidschi
 features:
   title: 'Warum Reisende Roami fuer Fidschi waehlen: Netzwerk, Tarife & Preiswert'

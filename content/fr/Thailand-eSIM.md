@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Thaïlande eSIM | Activation rapide, pas d'engagement"
-  description: "L'eSIM prepayee Roami pour Thaïlande s'achete en ligne sans attendre. Pas de livraison, tout est dematerialise. Couvre Bangkok, Phuket & toute la Thaïlande."
+  title: Thaïlande eSIM | Activation rapide, pas d'engagement
+  description: L'eSIM prepayee Roami pour Thaïlande s'achete en ligne sans attendre. Pas de livraison, tout est dematerialise.
+    Couvre Bangkok, Phuket & toute la Thaïlande.
   keywords: eSIM Thaïlande, forfait eSIM Thaïlande, meilleure eSIM Thaïlande, Thaïlande data, AIS Thaïlande, TrueMove Thaïlande,
     dtac Thaïlande, eSIM Bangkok, eSIM Phuket, eSIM Chiang Mai, internet mobile Thaïlande, 5G Thaïlande
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/th.svg
   flag_alt: Drapeau Thaïlande
-  title: 'eSIM Thaïlande 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Thaïlande: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Thaïlande - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Thaïlande: Vitesse, Couverture & Support'

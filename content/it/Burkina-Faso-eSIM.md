@@ -43,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/bf.svg
   flag_alt: Bandiera di Burkina Faso
-  title: 'eSIM Burkina Faso 2026: Soluzioni Dati Complete per il Tuo Viaggio'
+  title: 'eSIM Burkina Faso: Soluzioni Dati Complete per il Tuo Viaggio'
   subtitle: Niente costi nascosti | Internet senza preoccupazioni | Supporto 24/7 - la migliore eSIM per Burkina Faso
 features:
   title: 'Perché i viaggiatori scelgono Roami per Burkina Faso: Copertura, Velocità & Servizio'

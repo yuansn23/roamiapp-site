@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: '	Gibraltar eSIM: Unlimited 5G, No Contracts or Hidden Fees'
+  title: "\tGibraltar eSIM: Unlimited 5G, No Contracts or Hidden Fees"
   description: Compare Gibraltar eSIM plans with fast 5G in Gibraltar City, Catalan Bay, Europa Point. Gibtelecom & CTS Gibraltar
     & Gibtel coverage guide for tourists & travelers. Instant QR activation from $1.99.
   keywords: Gibraltar eSIM, buy Gibraltar eSIM, best Gibraltar eSIM, Gibraltar travel eSIM, Gibtelecom Gibraltar, CTS Gibraltar
@@ -46,7 +46,7 @@ banner:
 hero:
   flag_image: img/flags/gi.svg
   flag_alt: Gibraltar Flag
-  title: 'Gibraltar eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Gibraltar eSIM: Complete Data Solutions for Your Trip'
   subtitle: Best prepaid eSIM for Gibraltar travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Gibraltar Travelers Choose Roami: Speed, Coverage & Support'

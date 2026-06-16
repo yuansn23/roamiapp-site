@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Malediven eSIM | Beste Prepaid eSIM für die Reise"
-  description: "Roami macht Ihre Reise nach Malediven einfacher. Eine eSIM, die Sie vor Abreise herunterladen – bereit bei Ankunft. Deckt alle Regionen ab."
+  title: Malediven eSIM | Beste Prepaid eSIM für die Reise
+  description: Roami macht Ihre Reise nach Malediven einfacher. Eine eSIM, die Sie vor Abreise herunterladen – bereit bei
+    Ankunft. Deckt alle Regionen ab.
   keywords: Malediven eSIM, Malediven Reise eSIM, beste eSIM Malediven, Malediven Datentarif, Dhiraagu Malediven, Ooredoo
     Malediven, Wataniya Telecom Maldives Malediven, Malé eSIM, Addu City eSIM, Fuvahmulah eSIM, Malediven mobiles Internet,
     5G Malediven
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/mv.svg
   flag_alt: Flagge von Malediven
-  title: 'Malediven eSIM 2026: Überall verbunden bleiben'
+  title: 'Malediven eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Malediven
 features:
   title: 'Warum Reisende Roami fuer Malediven waehlen: Tarife, Netzwerk & Support'

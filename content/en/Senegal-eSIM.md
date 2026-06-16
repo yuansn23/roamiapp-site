@@ -44,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/se.svg
   flag_alt: Senegal Flag
-  title: 'Senegal eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Senegal eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Senegal
 features:
   title: 'Why Senegal Travelers Choose Roami: Plans, Network & Support'

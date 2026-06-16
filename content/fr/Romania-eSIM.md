@@ -19,8 +19,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Roumanie eSIM | Meilleur prix sans engagement"
-  description: "Partez a Roumanie sans contrainte. Roami ne vous enferme dans aucun abonnement. Vous decidez de tout. Couvre tout le pays."
+  title: Roumanie eSIM | Meilleur prix sans engagement
+  description: Partez a Roumanie sans contrainte. Roami ne vous enferme dans aucun abonnement. Vous decidez de tout. Couvre
+    tout le pays.
   keywords: eSIM Roumanie, forfait eSIM Roumanie, meilleure eSIM Roumanie, Roumanie data, Orange Roumanie, Vodafone Roumanie,
     Digi Roumanie, eSIM Bucarest, eSIM Cluj-Napoca, eSIM Timișoara, internet mobile Roumanie, 5G Roumanie
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/ro.svg
   flag_alt: Drapeau Roumanie
-  title: 'eSIM Roumanie 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Roumanie: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Roumanie - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Roumanie: Vitesse, Couverture & Support'

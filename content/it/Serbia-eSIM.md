@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Serbia eSIM | Compra al miglior prezzo online"
-  description: "Viaggia in Serbia senza pensieri con Roami. La nostra eSIM ti segue ovunque per un viaggio sereno. Copre tutte le regioni."
+  title: Serbia eSIM | Compra al miglior prezzo online
+  description: Viaggia in Serbia senza pensieri con Roami. La nostra eSIM ti segue ovunque per un viaggio sereno. Copre tutte
+    le regioni.
   keywords: eSIM Serbia, piano eSIM Serbia, migliore eSIM Serbia, Serbia dati, Telekom Srbija Serbia, Telenor Srbija Serbia,
     VIP Mobile Serbia, eSIM Belgrado, eSIM Novi Sad, eSIM Niš, internet mobile Serbia, 5G Serbia
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/rs.svg
   flag_alt: Bandiera di Serbia
-  title: 'eSIM Serbia 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Serbia: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Serbia - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Serbia: Velocità, Copertura & Supporto'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Armenia eSIM | Dati illimitati per viaggiare"
-  description: "Roami è la eSIM più conveniente per Armenia. Prezzo trasparente, nessuna sorpresa. Perfetta per viaggiare senza spendere troppo. Copre tutte le regioni."
+  title: Armenia eSIM | Dati illimitati per viaggiare
+  description: Roami è la eSIM più conveniente per Armenia. Prezzo trasparente, nessuna sorpresa. Perfetta per viaggiare senza
+    spendere troppo. Copre tutte le regioni.
   keywords: eSIM Armenia, piano eSIM Armenia, migliore eSIM Armenia, Armenia dati, Ucom Armenia, Viva-MTS Armenia, Beeline
     Armenia Armenia, eSIM Yerevan, eSIM Gyumri, eSIM Vanadzor, internet mobile Armenia, 5G Armenia
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/am.svg
   flag_alt: Bandiera di Armenia
-  title: 'eSIM Armenia 2026: Rete Affidabile per Viaggiatori'
+  title: 'eSIM Armenia: Rete Affidabile per Viaggiatori'
   subtitle: Attivazione immediata | 5G veloce | Supporto 24/7 - la migliore eSIM prepagata per Armenia
 features:
   title: 'Perché i viaggiatori scelgono Roami per Armenia: Rete, Piani & Prezzo'

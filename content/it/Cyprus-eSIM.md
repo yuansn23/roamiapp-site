@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Cipro eSIM | Offerte eSIM per viaggiatori"
-  description: "Hai bisogno di una eSIM economica per Cipro? Roami offre qualità a un prezzo accessibile. Nessun costo extra. Copre tutte le regioni."
+  title: Cipro eSIM | Offerte eSIM per viaggiatori
+  description: Hai bisogno di una eSIM economica per Cipro? Roami offre qualità a un prezzo accessibile. Nessun costo extra.
+    Copre tutte le regioni.
   keywords: eSIM Cipro, piano eSIM Cipro, migliore eSIM Cipro, Cipro dati, Cyta Cipro, Vodafone (PrimeTel) Cipro, Epic (MTN)
     Cipro, eSIM Nicosia, eSIM Limassol, eSIM Larnaca, internet mobile Cipro, 5G Cipro
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/cy.svg
   flag_alt: Bandiera di Cipro
-  title: 'eSIM Cipro 2026: Rete Affidabile per Viaggiatori'
+  title: 'eSIM Cipro: Rete Affidabile per Viaggiatori'
   subtitle: Attivazione immediata | 5G veloce | Supporto 24/7 - la migliore eSIM prepagata per Cipro
 features:
   title: 'Perché i viaggiatori scelgono Roami per Cipro: Rete, Piani & Prezzo'

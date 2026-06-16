@@ -46,7 +46,7 @@ banner:
 hero:
   flag_image: img/flags/so.svg
   flag_alt: Bandiera di Sud-est asiatico
-  title: 'eSIM Sud-est asiatico 2026: Rete Affidabile per Viaggiatori'
+  title: 'eSIM Sud-est asiatico: Rete Affidabile per Viaggiatori'
   subtitle: Attivazione immediata | 5G veloce | Supporto 24/7 - la migliore eSIM prepagata per Sud-est asiatico
 features:
   title: 'Perché i viaggiatori scelgono Roami per Sud-est asiatico: Rete, Piani & Prezzo'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Frankreich eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Die Roami eSIM für Frankreich bietet unbegrenztes Datenvolumen. Ideal für Reisende, die immer online sein wollen. Deckt Paris, Nizza & die Provence ab."
+  title: Frankreich eSIM | Günstigste Prepaid Reise eSIM
+  description: Die Roami eSIM für Frankreich bietet unbegrenztes Datenvolumen. Ideal für Reisende, die immer online sein wollen.
+    Deckt Paris, Nizza & die Provence ab.
   keywords: Frankreich eSIM, Frankreich Reise eSIM, beste eSIM Frankreich, Frankreich Datentarif, Orange Frankreich, SFR Frankreich,
     Bouygues Telecom Frankreich, Paris eSIM, Marseille eSIM, Lyon eSIM, Frankreich mobiles Internet, 5G Frankreich
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/fr.svg
   flag_alt: Flagge von Frankreich
-  title: 'Frankreich eSIM 2026: Überall verbunden bleiben'
+  title: 'Frankreich eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Frankreich
 features:
   title: 'Warum Reisende Roami fuer Frankreich waehlen: Tarife, Netzwerk & Support'

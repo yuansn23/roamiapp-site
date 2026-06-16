@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Polonia eSIM | Prepagato senza vincoli contrattuali"
-  description: "Viaggia in Polonia senza pensieri. Roami non ti lega ad alcun abbonamento. Decidi tu quanto e quando usarla. Semplice e onesto. Copre tutte le regioni."
+  title: Polonia eSIM | Prepagato senza vincoli contrattuali
+  description: Viaggia in Polonia senza pensieri. Roami non ti lega ad alcun abbonamento. Decidi tu quanto e quando usarla.
+    Semplice e onesto. Copre tutte le regioni.
   keywords: eSIM Polonia, piano eSIM Polonia, migliore eSIM Polonia, Polonia dati, Orange Polonia, Play Polonia, T-Mobile
     Polonia, eSIM Varsavia, eSIM Cracovia, eSIM Danzica, internet mobile Polonia, 5G Polonia
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/pl.svg
   flag_alt: Bandiera di Polonia
-  title: 'eSIM Polonia 2026: Soluzioni Dati Complete per il Tuo Viaggio'
+  title: 'eSIM Polonia: Soluzioni Dati Complete per il Tuo Viaggio'
   subtitle: Niente costi nascosti | Internet senza preoccupazioni | Supporto 24/7 - la migliore eSIM per Polonia
 features:
   title: 'Perché i viaggiatori scelgono Roami per Polonia: Copertura, Velocità & Servizio'

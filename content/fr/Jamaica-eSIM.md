@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Jamaïque eSIM | Pas cher & sans engagement"
-  description: "L'eSIM Roami pour Jamaïque vous laisse libre. Sans contrat, sans engagement, utilisable quand vous voulez. Couvre tout le pays."
+  title: Jamaïque eSIM | Pas cher & sans engagement
+  description: L'eSIM Roami pour Jamaïque vous laisse libre. Sans contrat, sans engagement, utilisable quand vous voulez.
+    Couvre tout le pays.
   keywords: eSIM Jamaïque, forfait eSIM Jamaïque, meilleure eSIM Jamaïque, Jamaïque data, Digicel Jamaïque, Flow Jamaïque,
     Lime Jamaïque, eSIM Kingston, eSIM Montego Bay, eSIM Ocho Rios, internet mobile Jamaïque, 5G Jamaïque
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/jm.svg
   flag_alt: Drapeau Jamaïque
-  title: 'eSIM Jamaïque 2026: Solutions Data Complètes pour Votre Voyage'
+  title: 'eSIM Jamaïque: Solutions Data Complètes pour Votre Voyage'
   subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour Jamaïque
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Jamaïque: Couverture, Vitesse & Service'

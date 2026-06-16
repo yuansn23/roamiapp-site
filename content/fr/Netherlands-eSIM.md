@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Pays-Bas eSIM | Activation immédiate sans engagement"
-  description: "Vous voulez une eSIM pas chere pour Pays-Bas? Roami vous propose le prix le plus attractif du marche. Couvre tout le pays."
+  title: Pays-Bas eSIM | Activation immédiate sans engagement
+  description: Vous voulez une eSIM pas chere pour Pays-Bas? Roami vous propose le prix le plus attractif du marche. Couvre
+    tout le pays.
   keywords: eSIM Pays-Bas, forfait eSIM Pays-Bas, meilleure eSIM Pays-Bas, Pays-Bas data, KPN Pays-Bas, Vodafone Pays-Bas,
     T-Mobile Pays-Bas, eSIM Amsterdam, eSIM Rotterdam, eSIM La Haye, internet mobile Pays-Bas, 5G Pays-Bas
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/nl.svg
   flag_alt: Drapeau Pays-Bas
-  title: 'eSIM Pays-Bas 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Pays-Bas: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Pays-Bas - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Pays-Bas: Vitesse, Couverture & Support'

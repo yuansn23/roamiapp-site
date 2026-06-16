@@ -43,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/ci.svg
   flag_alt: Bandiera di Costa d'Avorio
-  title: 'eSIM Costa d''Avorio 2026: Rete Affidabile per Viaggiatori'
+  title: 'eSIM Costa d''Avorio: Rete Affidabile per Viaggiatori'
   subtitle: Attivazione immediata | 5G veloce | Supporto 24/7 - la migliore eSIM prepagata per Costa d'Avorio
 features:
   title: 'Perché i viaggiatori scelgono Roami per Costa d''Avorio: Rete, Piani & Prezzo'

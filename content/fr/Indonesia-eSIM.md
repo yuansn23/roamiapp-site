@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Indonésie eSIM | Activation immédiate sans engagement"
-  description: "Pour Indonésie, choisissez Roami et payez moins cher. Notre eSIM est au meilleur prix pour voyager sans vous ruiner. Couvre tout le pays."
+  title: Indonésie eSIM | Activation immédiate sans engagement
+  description: Pour Indonésie, choisissez Roami et payez moins cher. Notre eSIM est au meilleur prix pour voyager sans vous
+    ruiner. Couvre tout le pays.
   keywords: eSIM Indonésie, forfait eSIM Indonésie, meilleure eSIM Indonésie, Indonésie data, Telkomsel Indonésie, XL Axiata
     Indonésie, Indosat Indonésie, eSIM Jakarta, eSIM Surabaya, eSIM Bandung, internet mobile Indonésie, 5G Indonésie
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/id.svg
   flag_alt: Drapeau Indonésie
-  title: 'eSIM Indonésie 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Indonésie: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Indonésie - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Indonésie: Vitesse, Couverture & Support'

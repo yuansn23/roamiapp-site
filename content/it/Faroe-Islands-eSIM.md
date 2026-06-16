@@ -43,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/fo.svg
   flag_alt: Bandiera di Isole Fær Øer
-  title: 'eSIM Isole Fær Øer 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Isole Fær Øer: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Isole Fær Øer - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Isole Fær Øer: Velocità, Copertura & Supporto'

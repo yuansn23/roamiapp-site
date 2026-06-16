@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Germania eSIM | Prepagato senza vincoli contrattuali"
-  description: "Viaggia in Germania senza pensieri con Roami. La nostra eSIM ti segue ovunque per un viaggio sereno. Copre Berlino, Monaco & tutta la Germania."
+  title: Germania eSIM | Prepagato senza vincoli contrattuali
+  description: Viaggia in Germania senza pensieri con Roami. La nostra eSIM ti segue ovunque per un viaggio sereno. Copre
+    Berlino, Monaco & tutta la Germania.
   keywords: eSIM Germania, piano eSIM Germania, migliore eSIM Germania, Germania dati, Deutsche Telekom Germania, Vodafone
     Germania, O2 Germania, eSIM Berlino, eSIM Monaco, eSIM Amburgo, internet mobile Germania, 5G Germania
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/de.svg
   flag_alt: Bandiera di Germania
-  title: 'eSIM Germania 2026: Rimani Connesso Ovunque'
+  title: 'eSIM Germania: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per Germania
 features:
   title: 'Perché i viaggiatori scelgono Roami per Germania: Piani, Rete & Supporto'

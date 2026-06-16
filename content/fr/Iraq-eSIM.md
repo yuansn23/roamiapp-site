@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/iq.svg
   flag_alt: Drapeau Irak
-  title: 'eSIM Irak 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Irak: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Irak
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Irak: Réseau, Forfaits & Prix'

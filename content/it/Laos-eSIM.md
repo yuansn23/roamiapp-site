@@ -19,8 +19,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     dem Code: web20'
 seo:
-  title: "Laos eSIM | Prepagato senza vincoli contrattuali"
-  description: "Hai bisogno di dati affidabili in Laos? Roami ti tiene online con il 5G veloce. Niente più ricerca del WiFi gratuito. Copre tutte le regioni."
+  title: Laos eSIM | Prepagato senza vincoli contrattuali
+  description: Hai bisogno di dati affidabili in Laos? Roami ti tiene online con il 5G veloce. Niente più ricerca del WiFi
+    gratuito. Copre tutte le regioni.
   keywords: eSIM Laos, piano eSIM Laos, migliore eSIM Laos, Laos dati, Lao Telecom Laos, Unitel Laos, Beeline Laos, eSIM Vientiane,
     eSIM Luang Prabang, eSIM Pakse, internet mobile Laos, 5G Laos
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/la.svg
   flag_alt: Bandiera di Laos
-  title: 'eSIM Laos 2026: Soluzioni Dati Complete per il Tuo Viaggio'
+  title: 'eSIM Laos: Soluzioni Dati Complete per il Tuo Viaggio'
   subtitle: Niente costi nascosti | Internet senza preoccupazioni | Supporto 24/7 - la migliore eSIM per Laos
 features:
   title: 'Perché i viaggiatori scelgono Roami per Laos: Copertura, Velocità & Servizio'

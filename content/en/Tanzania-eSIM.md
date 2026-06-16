@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Tanzania eSIM | Fast & Reliable Prepaid Data Plan"
-  description: "Get ready for Tanzania with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Dar es Salaam, Zanzibar & Arusha. Instant activation."
+  title: Tanzania eSIM | Fast & Reliable Prepaid Data Plan
+  description: Get ready for Tanzania with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Dar es Salaam,
+    Zanzibar & Arusha. Instant activation.
   keywords: Tanzania eSIM, buy Tanzania eSIM, best Tanzania eSIM, Tanzania travel eSIM, Vodacom Tanzania, Airtel Tanzania,
     Tigo Tanzania, Dar es Salaam eSIM, Mwanza eSIM, Arusha eSIM, Tanzania prepaid eSIM, 5G Tanzania eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/tz.svg
   flag_alt: Tanzania Flag
-  title: 'Tanzania eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Tanzania eSIM: Stay Connected Everywhere You Go'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Tanzania
 features:
   title: 'Why Tanzania Travelers Choose Roami: Network, Plans & Value'

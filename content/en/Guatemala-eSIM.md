@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Guatemala eSIM | Prepaid Data Plan for Your Trip"
-  description: "Travel to Guatemala with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Guatemala City, Antigua & Quetzaltenango. Instant activation."
+  title: Guatemala eSIM | Prepaid Data Plan for Your Trip
+  description: Travel to Guatemala with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Guatemala City,
+    Antigua & Quetzaltenango. Instant activation.
   keywords: Guatemala eSIM, buy Guatemala eSIM, best Guatemala eSIM, Guatemala travel eSIM, Tigo Guatemala, Claro Guatemala,
     Movistar Guatemala, Guatemala City eSIM, Antigua eSIM, Quetzaltenango eSIM, Guatemala prepaid eSIM, 5G Guatemala eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/gt.svg
   flag_alt: Guatemala Flag
-  title: 'Guatemala eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Guatemala eSIM: Complete Data Solutions for Your Trip'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Guatemala
 features:
   title: 'Why Guatemala Travelers Choose Roami: Network, Plans & Value'

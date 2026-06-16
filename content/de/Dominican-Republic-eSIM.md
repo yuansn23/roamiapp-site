@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Dominikanische Republik eSIM | Beste Prepaid eSIM"
-  description: "Mit Roami in Dominikanische Republik sagen Sie Datenlimits ade. Unbegrenztes Internet für Ihre Reise, ohne Stress. Deckt alle Regionen ab."
+  title: Dominikanische Republik eSIM | Beste Prepaid eSIM
+  description: Mit Roami in Dominikanische Republik sagen Sie Datenlimits ade. Unbegrenztes Internet für Ihre Reise, ohne
+    Stress. Deckt alle Regionen ab.
   keywords: Dominikanische Republik eSIM, Dominikanische Republik Reise eSIM, beste eSIM Dominikanische Republik, Dominikanische
     Republik Datentarif, Claro Dominikanische Republik, Altice Dominicana Dominikanische Republik, Viva Dominikanische Republik,
     Santo Domingo eSIM, Punta Cana eSIM, Santiago de los Caballeros eSIM, Dominikanische Republik mobiles Internet, 5G Dominikanische
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/do.svg
   flag_alt: Flagge von Dominikanische Republik
-  title: 'Dominikanische Republik eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Dominikanische Republik eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Dominikanische Republik
 features:
   title: 'Warum Reisende Roami fuer Dominikanische Republik waehlen: Netzwerk, Tarife & Preiswert'

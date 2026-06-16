@@ -45,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/fo.svg
   flag_alt: Faroe Islands Flag
-  title: 'Faroe Islands eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Faroe Islands eSIM: Stay Connected Everywhere You Go'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Faroe Islands
 features:
   title: 'Why Faroe Islands Travelers Choose Roami: Plans, Network & Support'

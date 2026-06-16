@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Kolumbien eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Die Roami eSIM für Kolumbien kaufen Sie online ohne Wartezeit. Keine Lieferung, alles digital. Deckt alle Regionen ab."
+  title: Kolumbien eSIM | Günstigste Prepaid Reise eSIM
+  description: Die Roami eSIM für Kolumbien kaufen Sie online ohne Wartezeit. Keine Lieferung, alles digital. Deckt alle Regionen
+    ab.
   keywords: Kolumbien eSIM, Kolumbien Reise eSIM, beste eSIM Kolumbien, Kolumbien Datentarif, Claro Kolumbien, Movistar Kolumbien,
     Tigo Kolumbien, Bogotá eSIM, Medellín eSIM, Cali eSIM, Kolumbien mobiles Internet, 5G Kolumbien
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/co.svg
   flag_alt: Flagge von Kolumbien
-  title: 'Kolumbien eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Kolumbien eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Kolumbien
 features:
   title: 'Warum Reisende Roami fuer Kolumbien waehlen: Netzwerk, Tarife & Preiswert'

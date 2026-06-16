@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/bh.svg
   flag_alt: Bandiera di Bahrein
-  title: 'eSIM Bahrein 2026: Rimani Connesso Ovunque'
+  title: 'eSIM Bahrein: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per Bahrein
 features:
   title: 'Perché i viaggiatori scelgono Roami per Bahrein: Piani, Rete & Supporto'

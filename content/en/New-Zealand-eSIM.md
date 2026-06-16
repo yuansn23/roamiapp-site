@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "New Zealand eSIM | Ultimate Travel Data Plan"
-  description: "Travel to New Zealand with Roami's best prepaid travel eSIM. Unlimited 5G data on both islands. Instant activation. Covers Auckland, Queenstown & Christchurch."
+  title: New Zealand eSIM | Ultimate Travel Data Plan
+  description: Travel to New Zealand with Roami's best prepaid travel eSIM. Unlimited 5G data on both islands. Instant activation.
+    Covers Auckland, Queenstown & Christchurch.
   keywords: New Zealand eSIM, buy New Zealand eSIM, best New Zealand eSIM, New Zealand travel eSIM, Spark New Zealand, Vodafone
     NZ New Zealand, 2degrees New Zealand, Auckland eSIM, Wellington eSIM, Christchurch eSIM, New Zealand prepaid eSIM, 5G
     New Zealand eSIM
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/nz.svg
   flag_alt: New Zealand Flag
-  title: 'New Zealand eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'New Zealand eSIM: Reliable Network & Coverage for Travelers'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for New Zealand
 features:
   title: 'Why New Zealand Travelers Choose Roami: Network, Plans & Value'

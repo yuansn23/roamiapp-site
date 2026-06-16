@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "UK eSIM | Ultimate Travel Data Plan"
-  description: "Travel to the UK with Roami's best prepaid travel eSIM. Unlimited 5G data with instant QR activation. Buy your plan before your trip. Covers all major cities."
+  title: UK eSIM | Ultimate Travel Data Plan
+  description: Travel to the UK with Roami's best prepaid travel eSIM. Unlimited 5G data with instant QR activation. Buy your
+    plan before your trip. Covers all major cities.
   keywords: United Kingdom eSIM, buy United Kingdom eSIM, best United Kingdom eSIM, United Kingdom travel eSIM, Vodafone United
     Kingdom, EE United Kingdom, O2 United Kingdom, London eSIM, Manchester eSIM, Birmingham eSIM, United Kingdom prepaid eSIM,
     5G United Kingdom eSIM
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/gb.svg
   flag_alt: United Kingdom Flag
-  title: 'United Kingdom eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'United Kingdom eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Best prepaid eSIM for United Kingdom travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why United Kingdom Travelers Choose Roami: Speed, Coverage & Support'

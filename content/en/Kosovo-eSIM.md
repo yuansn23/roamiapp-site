@@ -44,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/xk.svg
   flag_alt: Kosovo Flag
-  title: 'Kosovo eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Kosovo eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Kosovo
 features:
   title: 'Why Kosovo Travelers Choose Roami: Plans, Network & Support'

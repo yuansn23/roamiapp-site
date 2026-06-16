@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Kambodscha eSIM | Prepaid Tarif für Reise & Urlaub"
-  description: "Bestellen Sie Ihre eSIM für Kambodscha bei Roami. Einfach, schnell, und Sie sind schon vor der Ankunft verbunden. Deckt alle Regionen ab."
+  title: Kambodscha eSIM | Prepaid Tarif für Reise & Urlaub
+  description: Bestellen Sie Ihre eSIM für Kambodscha bei Roami. Einfach, schnell, und Sie sind schon vor der Ankunft verbunden.
+    Deckt alle Regionen ab.
   keywords: Kambodscha eSIM, Kambodscha Reise eSIM, beste eSIM Kambodscha, Kambodscha Datentarif, Cellcard Kambodscha, Smart
     Axiata Kambodscha, Metfone Kambodscha, Phnom Penh eSIM, Siem Reap eSIM, Sihanoukville eSIM, Kambodscha mobiles Internet,
     5G Kambodscha
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/kh.svg
   flag_alt: Flagge von Kambodscha
-  title: 'Kambodscha eSIM 2026: Überall verbunden bleiben'
+  title: 'Kambodscha eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Kambodscha
 features:
   title: 'Warum Reisende Roami fuer Kambodscha waehlen: Tarife, Netzwerk & Support'

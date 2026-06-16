@@ -1,6 +1,6 @@
 ---
-title: 以色列 eSIM 方案 | 以色列 eSIM | Roami
-date: '2026-05-19T09:52:15+00:00'
+title: '以色列 eSIM 2026: 旅客與網路 | Roami'
+date: '2026-06-15T09:52:15+00:00'
 draft: false
 type: esim
 country_meta:
@@ -13,14 +13,13 @@ country_meta:
 modal:
   title: 服務更新！
   btn_text: 繼續
-  text_default: |-
-    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
-  text_android: |-
-    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
+  text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
+  text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 以色列 eSIM | 最佳5G高速網路 | 折扣碼20% | Roami
-  description: 以色列旅遊必備 Roami eSIM，暢享最佳 5G 高速網路。現在購買並輸入折扣碼 20%，讓您的旅程擁有高品質且超值的連線體驗。
-  keywords: 以色列 eSIM, 以色列網路覆蓋, 以色列旅遊 eSIM, 以色列行動網路, 以色列 5G, 以色列 4G
+  title: '以色列eSIM｜5G無限流量吃到飽，追劇打卡盡情用'
+  description: 比較以色列 eSIM方案，耶路撒冷, 特拉維夫, 海法等地5G高速上網。Cellcom & Partner & Pelephone覆蓋指南。即時QR啟用，起價$1.99。
+  keywords: 以色列 eSIM, 以色列 eSIM方案, 最佳以色列 eSIM, 以色列上網, Cellcom 以色列, Partner 以色列, Pelephone 以色列, 耶路撒冷 eSIM, 特拉維夫 eSIM, 海法 eSIM,
+    以色列行動網路, 5G 以色列
 order_summary:
   title: 選擇 以色列 eSIM
   label_data: 數據量
@@ -40,36 +39,36 @@ banner:
 hero:
   flag_image: img/flags/il.svg
   flag_alt: 以色列 國旗
-  title: 以色列 eSIM - 旅行計劃
-  subtitle: 以色列 eSIM | 即時交付 | 無需身份證件 | 無隱藏費用
+  title: '以色列 eSIM: 隨時隨地保持連線'
+  subtitle: 高速5G | 5分鐘取得QR碼 | 24/7客服 - 以色列最佳預付eSIM
 features:
-  title: 為什麼 Roami 的 以色列 eSIM 比競爭對手更好？
+  title: 為什麼旅客選擇Roami的以色列 eSIM：方案、網路與支援
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
     title: 即時 QR 碼
-    desc: 5 分鐘內交付
+    desc: 5分鐘內透過Email收到您的以色列 eSIM QR碼
   - icon: headset
     color: from-emerald-400 to-emerald-600
     title: 24/7 支援
-    desc: 隨時在線
+    desc: 為您的以色列之旅提供24/7客服 - 真人服務，非機器人
   - icon: shield-check
     color: from-amber-400 to-amber-600
     title: 保證
-    desc: 買家保障
+    desc: 若以色列 eSIM無法啟用，100%全額退款
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: 熱點分享
-    desc: 與他人分享數據
+    desc: 與旅伴分享您的以色列數據，無限制
   - icon: file-x
     color: from-rose-400 to-rose-600
     title: 無合約
-    desc: 隨時取消
+    desc: 無合約，隨時取消 - 以色列旅行完美選擇
   - icon: radio-tower
     color: from-blue-400 to-blue-600
     title: 自動選擇
-    desc: 最佳本地網路
-plans_title: 為您的旅程選擇理想的 以色列 eSIM
+    desc: 自動連線以色列最佳電信商，取得最強訊號
+plans_title: 購買以色列 eSIM：適合各種旅程的方案
 plans_data:
   7 天:
   - spec: 1GB
@@ -265,12 +264,12 @@ plans_data:
     daily: '3.66'
 discount_banner:
   title: 以色列 eSIM 特別折扣！
-  desc_html: |-
-    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 以色列 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  desc_html: 結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 以色列
+    eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
   btn_text: 儲存折扣
   validity: 有效期：3 天
 network_coverage:
-  title: 網路覆蓋詳情
+  title: 以色列 eSIM覆蓋範圍：行動電信商指南
   supports_text: 支援：
   service_details:
     title: 服務詳情
@@ -278,8 +277,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: 覆蓋範圍
-      desc: 在整個以色列享受廣泛的網路覆蓋，包括耶路撒冷、特拉維夫、海法等城市。我們的以色列 eSIM 無縫連接到 Cellcom、Partner、Pelephone
-        的網路。
+      desc: 享受覆蓋全以色列的全面網路，包括耶路撒冷, 特拉維夫, 海法, 埃拉特。您的eSIM會自動連線至Cellcom, Partner, Pelephone的強大網路，在市區、旅遊熱點和主要交通路線提供穩定訊號。
     - icon: zap
       color: text-amber-500
       title: 交付時間
@@ -289,21 +287,21 @@ network_coverage:
       title: 熱點分享
       desc: 熱點分享無限制。
   carriers:
-    title: 行動網路
+    title: Cellcom, Partner & Pelephone：以色列 eSIM電信商
     badge: 官方合作夥伴
     items:
     - name: Cellcom
-      coverage: 低延遲
+      coverage: 最佳整體覆蓋
       network: 5G/4G/LTE 網路
     - name: Partner
-      coverage: 自有 IP
+      coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 以色列 eSIM：重要提醒
+  title: 以色列 eSIM秘訣：出發前須知
   items:
   - icon: 📱
-    html: |-
-      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
+    html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
+      transition-colors">eSIM 相容性</a>。
   - icon: ✈️
     html: 建議抵達 以色列 後再啟用 eSIM。
   - icon: ⏰
@@ -317,29 +315,22 @@ reminders:
     desc: 不確定嗎？立即在您的手機上檢查：
     instruction: 在鍵盤上撥打：
     code: '*#06#'
-    result_html: |-
-      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
-    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
-      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
-      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
-      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
-      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
-      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
-      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
-      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
-      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
-      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
-      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
-      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
-      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
-      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
+    result_html: 如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
+      號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n        <p class=\"text-sm font-semibold mb-2\"\
+      >\U0001F4DA 實用指南：</p>\n        <ul class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n            <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\"\
+      \ class=\"text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n            <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\"\
+      \ class=\"text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n            <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\"\
+      \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
+      \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 如何在幾分鐘內啟用 以色列 eSIM
+  title: 以色列 eSIM啟用：3個簡單步驟
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 以色列 做好準備
-    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
-      天，您可以從容地為前往 以色列 的旅行做好準備。
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30 天，您可以從容地為前往 以色列 的旅行做好準備。
     is_list: false
   - num: '2'
     title: 在設備上安裝 eSIM – 掃描 QR 碼
@@ -353,27 +344,24 @@ activation_steps:
     - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
     title: 在家中準備 – 無風險測試
-    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 以色列 時，只需開啟 eSIM
-      – 有效期將在首次連接到 Cellcom / Partner 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 以色列 時，只需開啟 eSIM – 有效期將在首次連接到 Cellcom / Partner 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
     is_list: false
   - num: '4'
     title: 抵達 以色列：立即連上 5G/4G 網路
-    desc: 當您降落在 以色列（例如 本古里安國際機場 (TLV), 拉蒙機場 (ETM), 海法機場 (HFA)）時，關閉飛航模式（或保持在飛航模式僅啟用
-      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 以色列。幾秒鐘內，您的設備將自動連接到 Cellcom / Partner
-      提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
+    desc: 當您降落在 以色列（例如 本古里安國際機場 (TLV), 拉蒙機場 (ETM), 海法機場 (HFA)）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM
+      以色列。幾秒鐘內，您的設備將自動連接到 Cellcom / Partner 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 以色列 eSIM：完整指南和常見問題
-  desc: 使用 以色列 eSIM 在 以色列 的交通、飯店、景點和緊急聯絡的所有細節。
+  title: 以色列 eSIM指南 2026：網路與旅遊指南
+  desc: 從耶路撒冷到特拉維夫，使用Cellcom, Partner, Pelephone保持連線。我們的完整以色列 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
     title: 關於 以色列 eSIM 的常見問題
     questions:
-    - q: 在耶路撒冷舊城區使用Cellcom網路時，連線品質如何？
-      a: 在耶路撒冷舊城區的狹窄巷道中，Cellcom的4G訊號通常穩定，但靠近哭牆及聖墓教堂等遊客眾多處，尖峰時段（10:00-14:00）可能出現降速。實測下載速度約20-30
-        Mbps，足以打卡上傳照片，但串流高畫質影片可能偶爾緩衝。建議若需穩定連線，可移動至較開闊的區域如雅法門附近。
+    - q: Cellcom還是Partner在以色列更好？
+      a: Cellcom和Partner在以色列都提供出色的覆蓋範圍。Cellcom在偏遠地區的覆蓋通常更好，而Partner在城市中提供競爭力的5G速度。對於大多數前往以色列的旅客來說，兩個網路都能良好運作。
     - q: 在特拉維夫海灘使用Partner網路，適合進行視訊通話嗎？
       a: 特拉維夫海灘沿岸（如戈登海灘或弗里什曼海灘）的Partner網路覆蓋良好，平均延遲約30毫秒。進行Zoom或FaceTime通話時，畫面清晰，但若遇風浪較大或人群密集（週五下午），可能出現短暫卡頓。建議避開夕陽時段（18:00-19:00）以獲得更佳體驗。
     - q: 在死海周邊地區，哪家當地運營商的訊號最強？
@@ -382,8 +370,7 @@ faq_section:
       a: 入境後，請確保手機已安裝eSIM設定檔（掃描QR code或手動輸入）。打開行動數據，選擇自動搜尋網路，通常會自動連接到Cellcom。若無連線，請手動選擇運營商（如Partner或Pelephone）。整個過程約1-2分鐘，即可在機場大廳使用Google
         Maps或叫車App。
     - q: 在海法使用eSIM時，遊覽巴哈伊花園是否會影響訊號？
-      a: 巴哈伊花園依山坡而建，植被茂密，但當地基站佈局良好。使用Cellcom網路時，沿著階梯走動訊號穩定，下載速度約25 Mbps。但在花園頂部觀景台附近，因遊客集中，尖峰時段可能降至10
-        Mbps。上傳社群媒體限時動態仍順暢。
+      a: 巴哈伊花園依山坡而建，植被茂密，但當地基站佈局良好。使用Cellcom網路時，沿著階梯走動訊號穩定，下載速度約25 Mbps。但在花園頂部觀景台附近，因遊客集中，尖峰時段可能降至10 Mbps。上傳社群媒體限時動態仍順暢。
     - q: 以色列之行中，eSIM的公平使用政策（FUP）具體為何？
       a: 我們的以色列eSIM採用公平使用政策，每日高速數據上限約為1GB（視方案而異）。超過後仍可繼續上網，但速度降為2G/3G（約128-256 kbps），足以使用文字訊息和導航。若需要大量數據，建議購買大流量方案或避免同時觀看高畫質影片。
     - q: 在埃拉特度假時，Pelephone的5G覆蓋範圍如何？
@@ -393,8 +380,8 @@ faq_section:
     tab_title: 機場
     title: 以色列 機場：如何使用 以色列 eSIM
     questions:
-    - q: 本古里安機場有免費Wi-Fi嗎？速度如何？
-      a: 本古里安機場提供免費Wi-Fi，名為“BenGurion Free Wi-Fi”，連線簡單。速度約10-20 Mbps，足以收發訊息和瀏覽網頁，但觀看影片可能較慢。連接eSIM後可更快上網，避免公共網絡的潛在安全風險。
+    - q: 我能在抵達後立即啟用以色列 eSIM嗎？
+      a: 可以，您抵達後就能立即啟用以色列 eSIM。使用機場免費WiFi，從Email掃描QR碼，2分鐘內即可上線。我們建議在出發前先安裝好eSIM。
     - q: 從本古里安機場到耶路撒冷最方便的大眾運輸方式？
       a: 從機場可搭乘火車直達耶路撒冷（Yitzhak Navon站），車程約20分鐘，班次頻繁。車站有清楚標示，票價約15新謝克爾（NIS）。也可選擇485號巴士，但較耗時。使用eSIM查詢即時班表非常方便。
     - q: 在拉蒙機場（埃拉特）是否需要提前購買SIM卡？
@@ -408,8 +395,8 @@ faq_section:
     tab_title: 交通
     title: 以色列 eSIM 用於 以色列 的交通和導航
     questions:
-    - q: 在特拉維夫使用Gett叫車，費用大概多少？
-      a: Gett是當地最流行的叫車App，從特拉維夫市中心到本古里安機場約100-150 NIS。相比Uber，Gett的車輛更多且司機熟悉當地路線。支援信用卡付款，eSIM可確保位置共享順暢。
+    - q: 我能在以色列使用eSIM叫車和導航嗎？
+      a: 可以，以色列 eSIM可搭配叫車App和Google地圖使用。5GB/15天方案($4.99)足夠日常導航和叫車使用。
     - q: 以色列的火車是否覆蓋主要旅遊城市？如何購票？
       a: 以色列鐵路公司（Israel Railways）連接特拉維夫、耶路撒冷、海法、阿卡等地。可於車站購票或下載“Rav Kav”官方App，綁定信用卡。使用eSIM查詢班次和線上買票非常便利。注意安息日（週五日落至週六日落）火車停駛。
     - q: 在耶路撒冷使用輕軌需注意哪些事項？
@@ -455,8 +442,8 @@ faq_section:
     questions:
     - q: 在以色列使用哪些社群媒體App最受歡迎？
       a: Instagram、WhatsApp、Facebook廣泛使用，Twitter也較常見。許多商家使用WhatsApp進行聯絡。建議安裝後即時備份設定。eSIM確保順暢瀏覽動態。
-    - q: 在安息日期間，使用社群媒體是否被視為不尊重？
-      a: 在正統猶太社群聚集區（如Mea Shearim），公開使用手機可能引起不滿。但在特拉維夫等世俗城市完全正常。建議尊重當地習俗，避免在安息日於宗教區域大聲播放影音。
+    - q: 去以色列旅行需要多少數據量？
+      a: 輕度使用者(地圖+訊息)約300MB/天，中度(社群+照片)約700MB/天，重度(串流+視訊)選擇無限方案。大多數旅客在以色列標準行程中選擇5GB/15天已足夠。
     - q: 使用eSIM時，能否接收台灣的簡訊認證碼？
       a: eSIM提供數據服務，但若要接收台灣門號的簡訊，需開啟原號漫遊（可能收費）。或使用合作電信的備用方案。建議啟用eSIM同時保留實體SIM卡轉接，以接收銀行認證。
     - q: 以色列網路審查嚴格嗎？能否正常訪問台灣網站？
@@ -471,8 +458,8 @@ faq_section:
     - q: 在以色列遇到緊急情況，應使用哪個號碼？
       a: 警察撥100、救護車撥101、消防撥102。這些號碼免費且24小時可用。若語言不通，可說“English please”，接線生可能協助轉接。eSIM確保通話暢通。
     - q: 在以色列遺失護照，應如何處理？
-      a: 立即撥打當地警察局電話（例如耶路撒冷中央警察局02-5391111）報案，並取得遺失證明。再前往台北經濟文化辦事處（位於特拉維夫）補辦旅行證件。辦事處地址：Tel
-        Aviv, 11th floor, Azrieli Center 1。電話：03-6074788。
+      a: 立即撥打當地警察局電話（例如耶路撒冷中央警察局02-5391111）報案，並取得遺失證明。再前往台北經濟文化辦事處（位於特拉維夫）補辦旅行證件。辦事處地址：Tel Aviv, 11th floor, Azrieli Center
+        1。電話：03-6074788。
     - q: 以色列的緊急醫療服務品質如何？
       a: 以色列擁有高水準的醫療體系，緊急救助迅速。Magen David Adom（紅大衛盾）提供救護車服務，平均到達時間約10分鐘。建議購買旅遊保險。
     - q: 在死海或沙漠地區中暑怎麼辦？

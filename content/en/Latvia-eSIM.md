@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Latvia eSIM | Best Prepaid Plan for Travel"
-  description: "Explore Latvia with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Instant QR activation. Covers Riga, Daugavpils & Jurmala."
+  title: Latvia eSIM | Best Prepaid Plan for Travel
+  description: Explore Latvia with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Instant QR activation.
+    Covers Riga, Daugavpils & Jurmala.
   keywords: Latvia eSIM, buy Latvia eSIM, best Latvia eSIM, Latvia travel eSIM, LMT Latvia, Tele2 Latvia, Bite Latvia, Riga
     eSIM, Daugavpils eSIM, Liepaja eSIM, Latvia prepaid eSIM, 5G Latvia eSIM
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/lv.svg
   flag_alt: Latvia Flag
-  title: 'Latvia eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Latvia eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Latvia
 features:
   title: 'Why Latvia Travelers Choose Roami: Plans, Network & Support'

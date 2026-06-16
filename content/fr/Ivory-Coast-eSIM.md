@@ -18,7 +18,7 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "eSIM Côte d'Ivoire : Sans justificatif, activation immédiate"
+  title: 'eSIM Côte d''Ivoire : Sans justificatif, activation immédiate'
   description: Comparez les forfaits eSIM Côte d'Ivoire avec la 5G à Abidjan, Bouaké, Yamoussoukro. Guide de couverture Orange
     & MTN & Moov. Activation QR instantanee des $1.99.
   keywords: eSIM Côte d'Ivoire, forfait eSIM Côte d'Ivoire, meilleure eSIM Côte d'Ivoire, Côte d'Ivoire data, Orange Côte
@@ -43,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/ci.svg
   flag_alt: Drapeau Côte d'Ivoire
-  title: 'eSIM Côte d''Ivoire 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Côte d''Ivoire: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Côte d'Ivoire
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Côte d''Ivoire: Réseau, Forfaits & Prix'

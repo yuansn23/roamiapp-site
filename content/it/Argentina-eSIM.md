@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Argentina eSIM | Prepagato senza vincoli"
-  description: "Goditi il 5G veloce in Argentina con Roami. Mappe, streaming, social network, tutto funziona senza problemi. Copre tutte le regioni."
+  title: Argentina eSIM | Prepagato senza vincoli
+  description: Goditi il 5G veloce in Argentina con Roami. Mappe, streaming, social network, tutto funziona senza problemi.
+    Copre tutte le regioni.
   keywords: eSIM Argentina, piano eSIM Argentina, migliore eSIM Argentina, Argentina dati, Movistar Argentina, Claro Argentina,
     Personal Argentina, eSIM Buenos Aires, eSIM Córdoba, eSIM Rosario, internet mobile Argentina, 5G Argentina
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ar.svg
   flag_alt: Bandiera di Argentina
-  title: 'eSIM Argentina 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Argentina: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Argentina - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Argentina: Velocità, Copertura & Supporto'

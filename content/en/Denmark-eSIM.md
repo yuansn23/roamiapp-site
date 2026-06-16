@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Denmark eSIM | Best Prepaid Plan for Travel"
-  description: "Travel to Denmark with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant activation. Covers Copenhagen, Aarhus & beyond."
+  title: Denmark eSIM | Best Prepaid Plan for Travel
+  description: Travel to Denmark with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant activation.
+    Covers Copenhagen, Aarhus & beyond.
   keywords: Denmark eSIM, buy Denmark eSIM, best Denmark eSIM, Denmark travel eSIM, TDC Denmark, Telenor Denmark, Telia Denmark,
     Copenhagen eSIM, Aarhus eSIM, Odense eSIM, Denmark prepaid eSIM, 5G Denmark eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/dk.svg
   flag_alt: Denmark Flag
-  title: 'Denmark eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Denmark eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Denmark
 features:
   title: 'Why Denmark Travelers Choose Roami: Plans, Network & Support'

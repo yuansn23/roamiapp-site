@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Colombia eSIM | Buy Best eSIM Plan for Tourists"
-  description: "Get the best prepaid travel eSIM for Colombia from Roami. Unlimited 5G data on top networks. Covers Bogota, Medellin & Cartagena. Instant activation."
+  title: Colombia eSIM | Buy Best eSIM Plan for Tourists
+  description: Get the best prepaid travel eSIM for Colombia from Roami. Unlimited 5G data on top networks. Covers Bogota,
+    Medellin & Cartagena. Instant activation.
   keywords: Colombia eSIM, buy Colombia eSIM, best Colombia eSIM, Colombia travel eSIM, Claro Colombia, Movistar Colombia,
     Tigo Colombia, Bogotá eSIM, Medellín eSIM, Cartagena eSIM, Colombia prepaid eSIM, 5G Colombia eSIM
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/co.svg
   flag_alt: Colombia Flag
-  title: 'Colombia eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Colombia eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Colombia
 features:
   title: 'Why Colombia Travelers Choose Roami: Network, Plans & Value'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Türkei eSIM | Ohne Vertrag & sofort nutzbar"
-  description: "Planen Sie eine Reise nach Türkei? Roami ist der ideale Begleiter, um unterwegs verbunden zu bleiben. Deckt Istanbul, Antalya & die türkische Küste ab."
+  title: Türkei eSIM | Ohne Vertrag & sofort nutzbar
+  description: Planen Sie eine Reise nach Türkei? Roami ist der ideale Begleiter, um unterwegs verbunden zu bleiben. Deckt
+    Istanbul, Antalya & die türkische Küste ab.
   keywords: Türkei eSIM, Türkei Reise eSIM, beste eSIM Türkei, Türkei Datentarif, Turkcell Türkei, Vodafone Türkei, Türk Telekom
     Türkei, Istanbul eSIM, Ankara eSIM, Izmir eSIM, Türkei mobiles Internet, 5G Türkei
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/tr.svg
   flag_alt: Flagge von Türkei
-  title: 'Türkei eSIM 2026: Komplette Datenlösungen für Ihre Reise'
+  title: 'Türkei eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Türkei
 features:
   title: 'Warum Reisende Roami fuer Türkei waehlen: Abdeckung, Geschwindigkeit & Service'

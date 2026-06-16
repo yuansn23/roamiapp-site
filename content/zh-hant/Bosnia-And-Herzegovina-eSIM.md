@@ -1,6 +1,6 @@
 ---
-title: 波士尼亞與赫塞哥維納 eSIM 方案 | 波士尼亞與赫塞哥維納 eSIM | Roami
-date: '2026-05-19T10:39:50+00:00'
+title: '波士尼亞與赫塞哥維納 eSIM 2026: 旅客與網路 | Roami'
+date: '2026-06-15T10:39:50+00:00'
 draft: false
 type: esim
 country_meta:
@@ -13,14 +13,13 @@ country_meta:
 modal:
   title: 服務更新！
   btn_text: 繼續
-  text_default: |-
-    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
-  text_android: |-
-    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
+  text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
+  text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 波士尼亞與赫塞哥維納 eSIM | 最佳5G高速網路 | eSIM無限流量 | Roami
-  description: 前往波士尼亞與赫塞哥維納，就用 Roami eSIM！提供最佳 5G 高速網路與無限流量。現在下單並使用折扣碼 20% 領取您的優惠。
-  keywords: 波士尼亞與赫塞哥維納 eSIM, 波士尼亞網路覆蓋, 波士尼亞旅遊, 塞拉耶佛 eSIM, 莫斯塔爾景點
+  title: '波士尼亞eSIM｜5G上網吃到飽，最低$1.99起'
+  description: 比較波士尼亞與赫塞哥維納 eSIM方案，塞拉耶佛, 莫斯塔爾, 巴尼亞盧卡等地5G高速上網。BH Telecom & m:tel & HT Eronet覆蓋指南。即時QR啟用，起價$1.99。
+  keywords: 波士尼亞與赫塞哥維納 eSIM, 波士尼亞與赫塞哥維納 eSIM方案, 最佳波士尼亞與赫塞哥維納 eSIM, 波士尼亞與赫塞哥維納上網, BH Telecom 波士尼亞與赫塞哥維納, m:tel 波士尼亞與赫塞哥維納,
+    HT Eronet 波士尼亞與赫塞哥維納, 塞拉耶佛 eSIM, 莫斯塔爾 eSIM, 巴尼亞盧卡 eSIM, 波士尼亞與赫塞哥維納行動網路, 5G 波士尼亞與赫塞哥維納
 order_summary:
   title: 選擇 波士尼亞與赫塞哥維納 eSIM
   label_data: 數據量
@@ -40,36 +39,36 @@ banner:
 hero:
   flag_image: img/flags/ba.svg
   flag_alt: 波士尼亞與赫塞哥維納 國旗
-  title: 波士尼亞與赫塞哥維納 eSIM - 旅行計劃
-  subtitle: 波士尼亞與赫塞哥維納 eSIM | 100%退款保證 | 高速5G網路 | 即時交付
+  title: '波士尼亞與赫塞哥維納 eSIM: 旅客信賴的穩定網路'
+  subtitle: 即時啟用 | 5G高速上網 | 24/7客服 - 波士尼亞與赫塞哥維納最佳預付eSIM
 features:
-  title: 為什麼 Roami 的 波士尼亞與赫塞哥維納 eSIM 比競爭對手更好？
+  title: 為什麼旅客選擇Roami的波士尼亞與赫塞哥維納 eSIM：網路、方案與價格
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
     title: 即時 QR 碼
-    desc: 5 分鐘內交付
+    desc: 5分鐘內透過Email收到您的波士尼亞與赫塞哥維納 eSIM QR碼
   - icon: headset
     color: from-emerald-400 to-emerald-600
     title: 24/7 支援
-    desc: 隨時在線
+    desc: 為您的波士尼亞與赫塞哥維納之旅提供24/7客服 - 真人服務，非機器人
   - icon: shield-check
     color: from-amber-400 to-amber-600
     title: 保證
-    desc: 買家保障
+    desc: 若波士尼亞與赫塞哥維納 eSIM無法啟用，100%全額退款
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: 熱點分享
-    desc: 與他人分享數據
+    desc: 與旅伴分享您的波士尼亞與赫塞哥維納數據，無限制
   - icon: file-x
     color: from-rose-400 to-rose-600
     title: 無合約
-    desc: 隨時取消
+    desc: 無合約，隨時取消 - 波士尼亞與赫塞哥維納旅行完美選擇
   - icon: radio-tower
     color: from-blue-400 to-blue-600
     title: 自動選擇
-    desc: 最佳本地網路
-plans_title: 為您的旅程選擇理想的 波士尼亞與赫塞哥維納 eSIM
+    desc: 自動連線波士尼亞與赫塞哥維納最佳電信商，取得最強訊號
+plans_title: 購買波士尼亞與赫塞哥維納 eSIM：適合各種旅程的方案
 plans_data:
   30 天:
   - spec: 20GB
@@ -82,12 +81,12 @@ plans_data:
     daily: '1.03'
 discount_banner:
   title: 波士尼亞與赫塞哥維納 eSIM 特別折扣！
-  desc_html: |-
-    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 波士尼亞與赫塞哥維納 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  desc_html: 結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 波士尼亞與赫塞哥維納
+    eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
   btn_text: 儲存折扣
   validity: 有效期：3 天
 network_coverage:
-  title: 網路覆蓋詳情
+  title: 波士尼亞與赫塞哥維納 eSIM覆蓋範圍：覆蓋範圍與電信商比較
   supports_text: 支援：
   service_details:
     title: 服務詳情
@@ -95,8 +94,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: 覆蓋範圍
-      desc: 在整個波士尼亞與赫塞哥維納享受廣泛的網路覆蓋，包括塞拉耶佛、莫斯塔爾、巴尼亞盧卡等城市。我們的波士尼亞與赫塞哥維納 eSIM 無縫連接到 BH
-        Telecom、m:tel 和 HT Eronet 的網路。
+      desc: 享受覆蓋全波士尼亞與赫塞哥維納的全面網路，包括塞拉耶佛, 莫斯塔爾, 巴尼亞盧卡, 特雷比涅。您的eSIM會自動連線至BH Telecom, m:tel, HT Eronet的強大網路，在市區、旅遊熱點和主要交通路線提供穩定訊號。
     - icon: zap
       color: text-amber-500
       title: 交付時間
@@ -106,21 +104,21 @@ network_coverage:
       title: 熱點分享
       desc: 熱點分享無限制。
   carriers:
-    title: 行動網路
+    title: BH Telecom, m:tel & HT Eronet：波士尼亞與赫塞哥維納 eSIM電信商
     badge: 官方合作夥伴
     items:
     - name: BH Telecom
-      coverage: 低延遲
+      coverage: 最佳整體覆蓋
       network: 5G/4G/LTE 網路
     - name: m:tel
-      coverage: 自有 IP
+      coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 波士尼亞與赫塞哥維納 eSIM：重要提醒
+  title: 波士尼亞與赫塞哥維納 eSIM秘訣：出發前須知
   items:
   - icon: 📱
-    html: |-
-      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
+    html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
+      transition-colors">eSIM 相容性</a>。
   - icon: ✈️
     html: 建議抵達 波士尼亞與赫塞哥維納 後再啟用 eSIM。
   - icon: ⏰
@@ -134,29 +132,22 @@ reminders:
     desc: 不確定嗎？立即在您的手機上檢查：
     instruction: 在鍵盤上撥打：
     code: '*#06#'
-    result_html: |-
-      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
-    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
-      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
-      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
-      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
-      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
-      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
-      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
-      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
-      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
-      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
-      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
-      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
-      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
-      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
+    result_html: 如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
+      號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n        <p class=\"text-sm font-semibold mb-2\"\
+      >\U0001F4DA 實用指南：</p>\n        <ul class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n            <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\"\
+      \ class=\"text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n            <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\"\
+      \ class=\"text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n            <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\"\
+      \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
+      \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 如何在幾分鐘內啟用 波士尼亞與赫塞哥維納 eSIM
+  title: 波士尼亞與赫塞哥維納 eSIM啟用：3個簡單步驟
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 波士尼亞與赫塞哥維納 做好準備
-    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
-      天，您可以從容地為前往 波士尼亞與赫塞哥維納 的旅行做好準備。
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30 天，您可以從容地為前往 波士尼亞與赫塞哥維納 的旅行做好準備。
     is_list: false
   - num: '2'
     title: 在設備上安裝 eSIM – 掃描 QR 碼
@@ -170,44 +161,38 @@ activation_steps:
     - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
     title: 在家中準備 – 無風險測試
-    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 波士尼亞與赫塞哥維納 時，只需開啟
-      eSIM – 有效期將在首次連接到 BH Telecom / m:tel 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 波士尼亞與赫塞哥維納 時，只需開啟 eSIM – 有效期將在首次連接到 BH Telecom / m:tel
+      的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
     is_list: false
   - num: '4'
     title: 抵達 波士尼亞與赫塞哥維納：立即連上 5G/4G 網路
-    desc: 當您降落在 波士尼亞與赫塞哥維納（例如 塞拉耶佛國際機場, 莫斯塔爾國際機場, 巴尼亞盧卡國際機場）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往
-      **設定 → 行動服務** 並開啟您的 Roami eSIM 波士尼亞與赫塞哥維納。幾秒鐘內，您的設備將自動連接到 BH Telecom / m:tel
-      提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
+    desc: 當您降落在 波士尼亞與赫塞哥維納（例如 塞拉耶佛國際機場, 莫斯塔爾國際機場, 巴尼亞盧卡國際機場）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 波士尼亞與赫塞哥維納。幾秒鐘內，您的設備將自動連接到
+      BH Telecom / m:tel 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 波士尼亞與赫塞哥維納 eSIM：完整指南和常見問題
-  desc: 使用 波士尼亞與赫塞哥維納 eSIM 在 波士尼亞與赫塞哥維納 的交通、飯店、景點和緊急聯絡的所有細節。
+  title: 波士尼亞與赫塞哥維納 eSIM指南 2026：旅遊與數據指南
+  desc: 從塞拉耶佛到莫斯塔爾，使用BH Telecom, m:tel, HT Eronet保持連線。我們的完整波士尼亞與赫塞哥維納 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
     title: 關於 波士尼亞與赫塞哥維納 eSIM 的常見問題
     questions:
-    - q: 在塞拉耶佛老城區（Baščaršija）使用eSIM時，網路速度如何？
-      a: 在塞拉耶佛老城區（例如Baščaršija廣場和Gazi Husrev-beg清真寺附近），連接到BH Telecom網路時，典型的下載速度約為30-50
-        Mbps，足以順暢瀏覽社群媒體和進行視訊通話。然而，在週末或節慶期間，由於人群密集，速度可能降至10-15 Mbps，但仍可應付一般使用。建議避開人潮高峰時段（如中午12點至下午3點），以獲得最佳體驗。
+    - q: BH Telecom還是m:tel在波士尼亞與赫塞哥維納更好？
+      a: BH Telecom和m:tel在波士尼亞與赫塞哥維納都提供出色的覆蓋範圍。BH Telecom在偏遠地區的覆蓋通常更好，而m:tel在城市中提供競爭力的5G速度。對於大多數前往波士尼亞與赫塞哥維納的旅客來說，兩個網路都能良好運作。
     - q: 從塞拉耶佛國際機場入境後，如何立即啟用eSIM？
-      a: 抵達塞拉耶佛國際機場後，您可先連接機場免費Wi-Fi（通常名為“Sarajevo Airport Free WiFi”）掃描QR碼啟用eSIM。若無法連接，機場大廳有售預付SIM卡的商店（如BH
-        Telecom和m:tel櫃檯），但使用我們eSIM則無需實體卡片。建議出發前先安裝eSIM設定檔，並確保手機已解鎖；抵達後開啟數據漫遊，約1-2分鐘內即可連接到網路。
+      a: 抵達塞拉耶佛國際機場後，您可先連接機場免費Wi-Fi（通常名為“Sarajevo Airport Free WiFi”）掃描QR碼啟用eSIM。若無法連接，機場大廳有售預付SIM卡的商店（如BH Telecom和m:tel櫃檯），但使用我們eSIM則無需實體卡片。建議出發前先安裝eSIM設定檔，並確保手機已解鎖；抵達後開啟數據漫遊，約1-2分鐘內即可連接到網路。
     - q: 在莫斯塔爾老橋（Stari Most）附近，m:tel網路的覆蓋品質如何？
-      a: 在莫斯塔爾老橋及周邊老城區，m:tel提供穩定的4G覆蓋，平均速度約20-40 Mbps，適合上傳照片和影片。但在狹窄石頭街道或靠近內雷特瓦河岸邊，訊號可能略有衰減，導致速度降至10
-        Mbps左右。若進行直播，建議移至橋邊的廣場或咖啡廳區域，以獲得更穩定的連線。
+      a: 在莫斯塔爾老橋及周邊老城區，m:tel提供穩定的4G覆蓋，平均速度約20-40 Mbps，適合上傳照片和影片。但在狹窄石頭街道或靠近內雷特瓦河岸邊，訊號可能略有衰減，導致速度降至10 Mbps左右。若進行直播，建議移至橋邊的廣場或咖啡廳區域，以獲得更穩定的連線。
     - q: 在巴尼亞盧卡市中心，使用HT Eronet網路觀看1080p YouTube會卡頓嗎？
-      a: 在巴尼亞盧卡的主要街道（如Gospodska ulica）和共和國廣場附近，HT Eronet提供充足頻寬，通常可支援1080p影片無緩衝播放。但在尖峰時段（下午5-8點），靠近購物中心（如Delta
-        Planet）時，速度可能降至15-25 Mbps，導致短暫緩衝。若遇到卡頓，可暫停影片30秒讓緩衝區加載，或切換至720p以獲得流暢體驗。
+      a: 在巴尼亞盧卡的主要街道（如Gospodska ulica）和共和國廣場附近，HT Eronet提供充足頻寬，通常可支援1080p影片無緩衝播放。但在尖峰時段（下午5-8點），靠近購物中心（如Delta Planet）時，速度可能降至15-25
+        Mbps，導致短暫緩衝。若遇到卡頓，可暫停影片30秒讓緩衝區加載，或切換至720p以獲得流暢體驗。
     - q: 使用eSIM在波士尼亞山區（如蘇捷斯卡國家公園）有訊號嗎？
-      a: 在蘇捷斯卡國家公園內，覆蓋範圍有限，尤其山谷和森林深處可能完全無訊號。但主要觀景台（如Tjentište紀念碑附近）有間歇性4G訊號，通常來自BH
-        Telecom。建議行前下載離線地圖，並將手機設定為僅用3G以延長電池續航。園區內僅有少數餐廳提供免費Wi-Fi，因此eSIM主要用於緊急通訊。
+      a: 在蘇捷斯卡國家公園內，覆蓋範圍有限，尤其山谷和森林深處可能完全無訊號。但主要觀景台（如Tjentište紀念碑附近）有間歇性4G訊號，通常來自BH Telecom。建議行前下載離線地圖，並將手機設定為僅用3G以延長電池續航。園區內僅有少數餐廳提供免費Wi-Fi，因此eSIM主要用於緊急通訊。
     - q: 在特雷比涅（Trebinje）使用eSIM時，每天5GB流量夠用嗎？
       a: 對於一般旅客，每天5GB流量在特雷比涅非常充裕，可滿足導航、社群媒體和偶爾觀看短片的需求。不過若打算用熱點分享給筆記型電腦工作，或長時間觀看高畫質影片，5GB可能在下午就用完。特雷比涅的飯店和咖啡廳提供免費Wi-Fi，建議在室內使用Wi-Fi以節省行動數據。
     - q: eSIM在比哈奇（Bihać）的烏納河國家公園內運作如何？
-      a: 在烏納國家公園入口區域和主要步道起點，m:tel提供不穩定的4G訊號，速度約5-15 Mbps，足以發送文字訊息和查看路線。但在峽谷深處或瀑布附近（如Štrbački
-        Buk），訊號可能完全中斷。建議在抵達前下載國家公園地圖和離線翻譯，並將手機保持在飛航模式（僅開啟GPS）以節省電力。
+      a: 在烏納國家公園入口區域和主要步道起點，m:tel提供不穩定的4G訊號，速度約5-15 Mbps，足以發送文字訊息和查看路線。但在峽谷深處或瀑布附近（如Štrbački Buk），訊號可能完全中斷。建議在抵達前下載國家公園地圖和離線翻譯，並將手機保持在飛航模式（僅開啟GPS）以節省電力。
   - id: faq-airport
     icon: plane
     tab_title: 機場
@@ -216,8 +201,7 @@ faq_section:
     - q: 塞拉耶佛國際機場（SJJ）有哪些運營商提供預付SIM卡？
       a: 塞拉耶佛國際機場的入境大廳有BH Telecom和m:tel的官方櫃檯，營業時間通常配合航班（早上6點至晚上10點）。您可以在那裡購買預付SIM卡，價格約10-20歐元（含5-10GB數據）。但若想省時，建議出國前先購買eSIM，即可直接啟用，無需排隊。機場內也有免費Wi-Fi，但速度較慢且連線時間有限。
     - q: 從莫斯塔爾機場（OMO）如何前往市中心，以及eSIM在計程車上訊號穩定嗎？
-      a: 莫斯塔爾機場距離市中心約6公里，可搭乘計程車（費用約15-20歐元）或接駁巴士（每小時一班，車票約3歐元）。計程車行駛路線（M17公路）上，BH
-        Telecom和m:tel的4G訊號穩定，導航應用（如Google Maps）可正常使用。但進入老城區狹窄道路時，訊號可能稍微減弱，但不會中斷。建議司機使用當地貨幣（馬克）支付車資。
+      a: 莫斯塔爾機場距離市中心約6公里，可搭乘計程車（費用約15-20歐元）或接駁巴士（每小時一班，車票約3歐元）。計程車行駛路線（M17公路）上，BH Telecom和m:tel的4G訊號穩定，導航應用（如Google Maps）可正常使用。但進入老城區狹窄道路時，訊號可能稍微減弱，但不會中斷。建議司機使用當地貨幣（馬克）支付車資。
     - q: 巴尼亞盧卡機場（BNX）有自動販賣機賣eSIM嗎？
       a: 巴尼亞盧卡機場目前沒有eSIM自動販賣機，但機場大廳的報攤和HT Eronet櫃檯出售實體預付卡。若您已購買eSIM，建議在出發前完成eSIM設定，因為機場Wi-Fi連線不穩定，且可能要求手機號碼驗證。機場到市區的計程車月台旁有免費Wi-Fi熱點，但僅限30分鐘。
     - q: 在塞拉耶佛機場轉機時，可以使用eSIM打本地電話嗎？
@@ -275,13 +259,12 @@ faq_section:
     tab_title: 社交媒體
     title: 透過 波士尼亞與赫塞哥維納 eSIM 在 波士尼亞與赫塞哥維納 使用通訊軟體和社群網站
     questions:
-    - q: 在塞拉耶佛哪些咖啡廳適合使用筆記型電腦工作？有充電插座嗎？
-      a: 塞拉耶佛的Caffe Bar Monet和DIVAN Coffee提供免費Wi-Fi和插座，環境安靜且適合工作。Monet位於Ferhadija步行街，咖啡約2歐元，營業至晚上10點。DIVAN靠近Sebilj噴泉，有室內和露天座位，但週末人潮較多。建議自備延長線以備插座不夠使用。
+    - q: 去波士尼亞與赫塞哥維納旅行需要多少數據量？
+      a: 輕度使用者(地圖+訊息)約300MB/天，中度(社群+照片)約700MB/天，重度(串流+視訊)選擇無限方案。大多數旅客在波士尼亞與赫塞哥維納標準行程中選擇5GB/15天已足夠。
     - q: 莫斯塔爾有哪些夜生活場所適合年輕人？當地人推薦哪間？
       a: 莫斯塔爾的夜生活集中在老橋附近的酒吧，如Club Music和Retro Caffe。當地年輕人推薦Retro Caffe，有現場音樂和啤酒（約2歐元），氣氛活躍。週末營業至凌晨2點，但深夜需注意安全，建議結伴同行。eSIM可查詢活動訊息並與朋友保持聯繫。
     - q: 在巴尼亞盧卡，有哪些社交活動可以認識當地人？
-      a: 巴尼亞盧卡的Republic Square經常有免費音樂會和市集，適合與當地人互動。此外，加入Facebook社團“Expats in Banja
-        Luka”可找到語言交換或聚餐活動。當地人也會上調味（Tinder）認識朋友，但使用網路需小心個人資訊安全。eSIM讓您隨時瀏覽社團動態。
+      a: 巴尼亞盧卡的Republic Square經常有免費音樂會和市集，適合與當地人互動。此外，加入Facebook社團“Expats in Banja Luka”可找到語言交換或聚餐活動。當地人也會上調味（Tinder）認識朋友，但使用網路需小心個人資訊安全。eSIM讓您隨時瀏覽社團動態。
     - q: 特雷比涅有哪些適合獨旅者社交的場所？
       a: 特雷比涅的Stari Grad區域有許多小酒館，如Vinoteka Herceg，品酒之餘可與其他旅客聊天。Hostel Garden提供共同空間和定期的晚餐聚會，適合獨旅者。前台可協助安排一日遊，讓您結識同行者。注意，特雷比涅晚上較安靜，建議參加班級活動。
     - q: 在塞拉耶佛使用約會應用（如Tinder）時，需要注意哪些文化禮儀？
@@ -292,13 +275,11 @@ faq_section:
     title: 在 波士尼亞與赫塞哥維納 使用 波士尼亞與赫塞哥維納 eSIM 進行緊急聯絡
     questions:
     - q: 在塞拉耶佛遇到緊急醫療狀況，該撥打哪個號碼？
-      a: 緊急醫療請撥打123（救護車），或通用緊急號碼112。塞拉耶佛的主要醫院是University Clinical Center Sarajevo，地址為Bolnička
-        25。建議手機儲存飯店地址和醫療保險資訊，以便向醫護人員出示。eSIM可確保您在撥打急救電話時有足夠網路傳送位置。
+      a: 緊急醫療請撥打123（救護車），或通用緊急號碼112。塞拉耶佛的主要醫院是University Clinical Center Sarajevo，地址為Bolnička 25。建議手機儲存飯店地址和醫療保險資訊，以便向醫護人員出示。eSIM可確保您在撥打急救電話時有足夠網路傳送位置。
     - q: 在莫斯塔爾老橋附近遺失錢包，應如何處理？
       a: 首先聯絡當地警察局（電話122），位於老橋附近的Turistička街。同時通知您的信用卡公司和飯店。莫斯塔爾有失物招領中心，可至市政廳查詢。建議將護照影本分存在eSIM手機雲端，以便補辦證件。老城區監視器較少，尋回機會有限，故請小心財物。
     - q: 巴尼亞盧卡有24小時營業的藥局嗎？如何找到開門的藥局？
-      a: 巴尼亞盧卡的“Apoteka Janković”位於Kralja Petra I街，部分分店24小時營業。您可使用Google Maps搜尋“24h
-        apoteka”，或撥打124詢問消防隊協助。常見藥品如止痛藥不需處方，但抗生素需醫師處方。eSIM可即時查詢藥局營業狀態。
+      a: 巴尼亞盧卡的“Apoteka Janković”位於Kralja Petra I街，部分分店24小時營業。您可使用Google Maps搜尋“24h apoteka”，或撥打124詢問消防隊協助。常見藥品如止痛藥不需處方，但抗生素需醫師處方。eSIM可即時查詢藥局營業狀態。
     - q: 在特雷比涅遇到自然災害（如洪水）時，如何獲取避難資訊？
       a: 特雷比涅位於內雷特瓦河畔，暴雨易引發洪水。緊急避難所通常設在學校或體育館，可透過當地廣播或Civil Protection Agency（電話122）獲取資訊。建議關注氣象應用通知，並隨身攜帶緊急包（手電筒、水、乾糧）。eSIM在斷電時可保留部分網路功能。
     - q: 比哈奇國家公園內受傷，手機無訊號怎麼辦？

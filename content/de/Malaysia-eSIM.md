@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Malaysia eSIM | Prepaid Datenvolumen für den Urlaub"
-  description: "Roami in Malaysia ist ohne Vertrag. Kein Abo, keine Überraschungen. Sie zahlen nur für Ihre Reisezeit. Deckt alle Regionen ab."
+  title: Malaysia eSIM | Prepaid Datenvolumen für den Urlaub
+  description: Roami in Malaysia ist ohne Vertrag. Kein Abo, keine Überraschungen. Sie zahlen nur für Ihre Reisezeit. Deckt
+    alle Regionen ab.
   keywords: Malaysia eSIM, Malaysia Reise eSIM, beste eSIM Malaysia, Malaysia Datentarif, Maxis Malaysia, Celcom Malaysia,
     Digi Malaysia, Kuala Lumpur eSIM, George Town eSIM, Johor Bahru eSIM, Malaysia mobiles Internet, 5G Malaysia
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/my.svg
   flag_alt: Flagge von Malaysia
-  title: 'Malaysia eSIM 2026: Komplette Datenlösungen für Ihre Reise'
+  title: 'Malaysia eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Malaysia
 features:
   title: 'Warum Reisende Roami fuer Malaysia waehlen: Abdeckung, Geschwindigkeit & Service'

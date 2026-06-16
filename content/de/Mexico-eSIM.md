@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Mexiko eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Bleiben Sie in Mexiko mit unbegrenzten Daten von Roami verbunden. Surfen, teilen, streamen ohne Limit. Deckt alle Regionen ab."
+  title: Mexiko eSIM | Günstigste Prepaid Reise eSIM
+  description: Bleiben Sie in Mexiko mit unbegrenzten Daten von Roami verbunden. Surfen, teilen, streamen ohne Limit. Deckt
+    alle Regionen ab.
   keywords: Mexiko eSIM, Mexiko Reise eSIM, beste eSIM Mexiko, Mexiko Datentarif, Telcel Mexiko, Movistar Mexiko, AT&T Mexiko,
     Mexiko-Stadt eSIM, Cancún eSIM, Guadalajara eSIM, Mexiko mobiles Internet, 5G Mexiko
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/mx.svg
   flag_alt: Flagge von Mexiko
-  title: 'Mexiko eSIM 2026: Komplette Datenlösungen für Ihre Reise'
+  title: 'Mexiko eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Mexiko
 features:
   title: 'Warum Reisende Roami fuer Mexiko waehlen: Abdeckung, Geschwindigkeit & Service'

@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Vietnam eSIM | Buy Fast Prepaid Data Plan"
-  description: "Travel to Vietnam with the best prepaid travel eSIM from Roami. Unlimited 5G data on top networks. Instant activation. Covers Hanoi, Ho Chi Minh City & Da Nang."
+  title: Vietnam eSIM | Buy Fast Prepaid Data Plan
+  description: Travel to Vietnam with the best prepaid travel eSIM from Roami. Unlimited 5G data on top networks. Instant
+    activation. Covers Hanoi, Ho Chi Minh City & Da Nang.
   keywords: Vietnam eSIM, buy Vietnam eSIM, best Vietnam eSIM, Vietnam travel eSIM, Viettel Vietnam, Mobifone Vietnam, Vinaphone
     Vietnam, Ho Chi Minh City eSIM, Hanoi eSIM, Da Nang eSIM, Vietnam prepaid eSIM, 5G Vietnam eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/vn.svg
   flag_alt: Vietnam Flag
-  title: 'Vietnam eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Vietnam eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Vietnam
 features:
   title: 'Why Vietnam Travelers Choose Roami: Network, Plans & Value'

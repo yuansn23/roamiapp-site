@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Mauritius eSIM | Prepaid Data Plan for Your Trip"
-  description: "Roami's best prepaid travel eSIM for Mauritius. Unlimited 5G data with instant activation. Covers Port Louis, Curepipe. Instant activation."
+  title: Mauritius eSIM | Prepaid Data Plan for Your Trip
+  description: Roami's best prepaid travel eSIM for Mauritius. Unlimited 5G data with instant activation. Covers Port Louis,
+    Curepipe. Instant activation.
   keywords: Mauritius eSIM, buy Mauritius eSIM, best Mauritius eSIM, Mauritius travel eSIM, Emtel Mauritius, my.t Mauritius,
     Orange Mauritius, Port Louis eSIM, Quatre Bornes eSIM, Curepipe eSIM, Mauritius prepaid eSIM, 5G Mauritius eSIM
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/ma.svg
   flag_alt: Mauritius Flag
-  title: 'Mauritius eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Mauritius eSIM: Complete Data Solutions for Your Trip'
   subtitle: Best prepaid eSIM for Mauritius travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Mauritius Travelers Choose Roami: Speed, Coverage & Support'

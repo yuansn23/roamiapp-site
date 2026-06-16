@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Portogallo eSIM | Attivazione immediata"
-  description: "La eSIM Roami per Portogallo offre una connessione 5G veloce e stabile. Perfetta per chi viaggia e vuole restare sempre online. Copre tutte le regioni."
+  title: Portogallo eSIM | Attivazione immediata
+  description: La eSIM Roami per Portogallo offre una connessione 5G veloce e stabile. Perfetta per chi viaggia e vuole restare
+    sempre online. Copre tutte le regioni.
   keywords: eSIM Portogallo, piano eSIM Portogallo, migliore eSIM Portogallo, Portogallo dati, Vodafone Portogallo, NOS Portogallo,
     MEO Portogallo, eSIM Lisbona, eSIM Porto, eSIM Faro, internet mobile Portogallo, 5G Portogallo
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/pt.svg
   flag_alt: Bandiera di Portogallo
-  title: 'eSIM Portogallo 2026: Rimani Connesso Ovunque'
+  title: 'eSIM Portogallo: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per Portogallo
 features:
   title: 'Perché i viaggiatori scelgono Roami per Portogallo: Piani, Rete & Supporto'

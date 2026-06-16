@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Polen eSIM | Prepaid Tarif für Reise & Urlaub"
-  description: "Reisen Sie nach Polen ohne Verpflichtungen. Roami bindet Sie an kein Abo. Sie bestimmen alles. Deckt alle Regionen ab."
+  title: Polen eSIM | Prepaid Tarif für Reise & Urlaub
+  description: Reisen Sie nach Polen ohne Verpflichtungen. Roami bindet Sie an kein Abo. Sie bestimmen alles. Deckt alle Regionen
+    ab.
   keywords: Polen eSIM, Polen Reise eSIM, beste eSIM Polen, Polen Datentarif, Orange Polen, Play Polen, T-Mobile Polen, Warschau
     eSIM, Krakau eSIM, Danzig eSIM, Polen mobiles Internet, 5G Polen
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/pl.svg
   flag_alt: Flagge von Polen
-  title: 'Polen eSIM 2026: Komplette Datenlösungen für Ihre Reise'
+  title: 'Polen eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Polen
 features:
   title: 'Warum Reisende Roami fuer Polen waehlen: Abdeckung, Geschwindigkeit & Service'

@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Bulgaria eSIM | Ultimate Travel Data Plan"
-  description: "Explore Bulgaria with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant activation. Covers Sofia, Plovdiv & the coast."
+  title: Bulgaria eSIM | Ultimate Travel Data Plan
+  description: Explore Bulgaria with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant activation.
+    Covers Sofia, Plovdiv & the coast.
   keywords: Bulgaria eSIM, buy Bulgaria eSIM, best Bulgaria eSIM, Bulgaria travel eSIM, A1 Bulgaria Bulgaria, Telenor Bulgaria,
     Vivacom Bulgaria, Sofia eSIM, Plovdiv eSIM, Varna eSIM, Bulgaria prepaid eSIM, 5G Bulgaria eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/bg.svg
   flag_alt: Bulgaria Flag
-  title: 'Bulgaria eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'Bulgaria eSIM: Reliable Network & Coverage for Travelers'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Bulgaria
 features:
   title: 'Why Bulgaria Travelers Choose Roami: Network, Plans & Value'

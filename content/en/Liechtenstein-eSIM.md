@@ -45,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/li.svg
   flag_alt: Liechtenstein Flag
-  title: 'Liechtenstein eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'Liechtenstein eSIM: Reliable Network & Coverage for Travelers'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Liechtenstein
 features:
   title: 'Why Liechtenstein Travelers Choose Roami: Network, Plans & Value'

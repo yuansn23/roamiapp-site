@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Turkey eSIM | Buy Prepaid eSIM for Travelers"
-  description: "Need a prepaid travel eSIM for Turkey? Roami offers unlimited 5G data with instant activation. Covers Istanbul, Ankara & all major cities. Plans from $1.99."
+  title: Turkey eSIM | Buy Prepaid eSIM for Travelers
+  description: Need a prepaid travel eSIM for Turkey? Roami offers unlimited 5G data with instant activation. Covers Istanbul,
+    Ankara & all major cities. Plans from $1.99.
   keywords: Turkey eSIM, buy Turkey eSIM, best Turkey eSIM, Turkey travel eSIM, Turkcell Turkey, Vodafone Turkey, Türk Telekom
     Turkey, Istanbul eSIM, Ankara eSIM, Izmir eSIM, Turkey prepaid eSIM, 5G Turkey eSIM
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/tr.svg
   flag_alt: Turkey Flag
-  title: 'Turkey eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'Turkey eSIM: Reliable Network & Coverage for Travelers'
   subtitle: Best prepaid eSIM for Turkey travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Turkey Travelers Choose Roami: Speed, Coverage & Support'

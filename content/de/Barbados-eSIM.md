@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Barbados eSIM | Günstig kaufen & sofort aktivieren"
-  description: "Bereiten Sie Ihre Reise nach Barbados mit Roami vor. Unsere eSIM begleitet Sie überall hin für eine sorgenfreie Reise. Deckt alle Regionen ab."
+  title: Barbados eSIM | Günstig kaufen & sofort aktivieren
+  description: Bereiten Sie Ihre Reise nach Barbados mit Roami vor. Unsere eSIM begleitet Sie überall hin für eine sorgenfreie
+    Reise. Deckt alle Regionen ab.
   keywords: Barbados eSIM, Barbados Reise eSIM, beste eSIM Barbados, Barbados Datentarif, Flow Barbados, Digicel Barbados,
     TSTT Barbados, Bridgetown eSIM, Speightstown eSIM, Oistins eSIM, Barbados mobiles Internet, 5G Barbados
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/bb.svg
   flag_alt: Flagge von Barbados
-  title: 'Barbados eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Barbados eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Barbados
 features:
   title: 'Warum Reisende Roami fuer Barbados waehlen: Netzwerk, Tarife & Preiswert'

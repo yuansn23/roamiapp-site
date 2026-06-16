@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/bh.svg
   flag_alt: Drapeau Bahreïn
-  title: 'eSIM Bahreïn 2026: Restez Connecté Partout'
+  title: 'eSIM Bahreïn: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Bahreïn
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Bahreïn: Forfaits, Réseau & Support'

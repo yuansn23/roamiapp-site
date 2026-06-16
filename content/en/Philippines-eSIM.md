@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Philippines eSIM | Buy Prepaid eSIM for Travelers"
-  description: "Get the best prepaid travel eSIM for the Philippines from Roami. Unlimited 5G data on top networks. Covers Manila, Cebu & 7,000 islands. Instant activation."
+  title: Philippines eSIM | Buy Prepaid eSIM for Travelers
+  description: Get the best prepaid travel eSIM for the Philippines from Roami. Unlimited 5G data on top networks. Covers
+    Manila, Cebu & 7,000 islands. Instant activation.
   keywords: Philippines eSIM, buy Philippines eSIM, best Philippines eSIM, Philippines travel eSIM, Globe Philippines, Smart
     Philippines, DITO Philippines, Manila eSIM, Cebu eSIM, Davao eSIM, Philippines prepaid eSIM, 5G Philippines eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/ph.svg
   flag_alt: Philippines Flag
-  title: 'Philippines eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Philippines eSIM: Fast 5G Data for Every City & Destination'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Philippines travelers
 features:
   title: 'Why Philippines Travelers Choose Roami: Coverage, Speed & Service'

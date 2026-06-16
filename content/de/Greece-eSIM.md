@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Griechenland eSIM | Günstigste Prepaid Option"
-  description: "Kaufen Sie Ihre Roami eSIM für Griechenland bequem von zu Hause. Gültig ab Kauf, bereit bei Ankunft. Deckt alle Regionen ab."
+  title: Griechenland eSIM | Günstigste Prepaid Option
+  description: Kaufen Sie Ihre Roami eSIM für Griechenland bequem von zu Hause. Gültig ab Kauf, bereit bei Ankunft. Deckt
+    alle Regionen ab.
   keywords:
   - Griechenland eSIM
   - Griechenland Reise eSIM
@@ -52,7 +53,7 @@ banner:
 hero:
   flag_image: img/flags/gr.svg
   flag_alt: Flagge von Griechenland
-  title: 'Griechenland eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Griechenland eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Griechenland
 features:
   title: 'Warum Reisende Roami fuer Griechenland waehlen: Netzwerk, Tarife & Preiswert'

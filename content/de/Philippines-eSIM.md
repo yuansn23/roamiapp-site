@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Philippinen eSIM | Günstigste Prepaid Option"
-  description: "Für Ihre Reise nach Philippinen ist die Roami eSIM in 2 Minuten einsatzbereit. Schnell und ohne Komplikationen. Deckt alle Regionen ab."
+  title: Philippinen eSIM | Günstigste Prepaid Option
+  description: Für Ihre Reise nach Philippinen ist die Roami eSIM in 2 Minuten einsatzbereit. Schnell und ohne Komplikationen.
+    Deckt alle Regionen ab.
   keywords: Philippinen eSIM, Philippinen Reise eSIM, beste eSIM Philippinen, Philippinen Datentarif, Globe Philippinen, Smart
     Philippinen, DITO Philippinen, Manila eSIM, Cebu City eSIM, Davao City eSIM, Philippinen mobiles Internet, 5G Philippinen
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ph.svg
   flag_alt: Flagge von Philippinen
-  title: 'Philippinen eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Philippinen eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Philippinen
 features:
   title: 'Warum Reisende Roami fuer Philippinen waehlen: Netzwerk, Tarife & Preiswert'

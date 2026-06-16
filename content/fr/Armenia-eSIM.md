@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Arménie eSIM | Activation immédiate sans engagement"
-  description: "Pour Arménie, choisissez Roami et payez moins cher. Notre eSIM est au meilleur prix pour voyager sans vous ruiner. Couvre tout le pays."
+  title: Arménie eSIM | Activation immédiate sans engagement
+  description: Pour Arménie, choisissez Roami et payez moins cher. Notre eSIM est au meilleur prix pour voyager sans vous
+    ruiner. Couvre tout le pays.
   keywords: eSIM Arménie, forfait eSIM Arménie, meilleure eSIM Arménie, Arménie data, MTS Armenia Arménie, Beeline Armenia
     Arménie, Ucom Arménie, eSIM Erevan, eSIM Gyumri, eSIM Vanadzor, internet mobile Arménie, 5G Arménie
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/am.svg
   flag_alt: Drapeau Arménie
-  title: 'eSIM Arménie 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Arménie: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Arménie
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Arménie: Réseau, Forfaits & Prix'

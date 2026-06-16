@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Svizzera eSIM | Dati illimitati per viaggiare"
-  description: "Vuoi una eSIM per Svizzera? Roami ti invia il codice direttamente via email, senza spese di spedizione. Copre Zurigo, Ginevra & le Alpi."
+  title: Svizzera eSIM | Dati illimitati per viaggiare
+  description: Vuoi una eSIM per Svizzera? Roami ti invia il codice direttamente via email, senza spese di spedizione. Copre
+    Zurigo, Ginevra & le Alpi.
   keywords: eSIM Svizzera, piano eSIM Svizzera, migliore eSIM Svizzera, Svizzera dati, Swisscom Svizzera, Salt Svizzera, Sunrise
     Svizzera, eSIM Zurigo, eSIM Ginevra, eSIM Basilea, internet mobile Svizzera, 5G Svizzera
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ch.svg
   flag_alt: Bandiera di Svizzera
-  title: 'eSIM Svizzera 2026: Rete Affidabile per Viaggiatori'
+  title: 'eSIM Svizzera: Rete Affidabile per Viaggiatori'
   subtitle: Attivazione immediata | 5G veloce | Supporto 24/7 - la migliore eSIM prepagata per Svizzera
 features:
   title: 'Perché i viaggiatori scelgono Roami per Svizzera: Rete, Piani & Prezzo'

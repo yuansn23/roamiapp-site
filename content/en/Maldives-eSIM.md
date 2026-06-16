@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Maldives eSIM | Best Prepaid eSIM for Travelers"
-  description: "Escape to the Maldives with Roami's best prepaid travel eSIM. Unlimited 5G data across the atolls. Instant QR activation. Covers Male & all resort islands."
+  title: Maldives eSIM | Best Prepaid eSIM for Travelers
+  description: Escape to the Maldives with Roami's best prepaid travel eSIM. Unlimited 5G data across the atolls. Instant
+    QR activation. Covers Male & all resort islands.
   keywords: Maldives eSIM, buy Maldives eSIM, best Maldives eSIM, Maldives travel eSIM, Dhiraagu Maldives, Ooredoo Maldives,
     Focus Infocom Maldives, Malé eSIM, Addu City eSIM, Fuvahmulah eSIM, Maldives prepaid eSIM, 5G Maldives eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/mv.svg
   flag_alt: Maldives Flag
-  title: 'Maldives eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Maldives eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Maldives
 features:
   title: 'Why Maldives Travelers Choose Roami: Network, Plans & Value'

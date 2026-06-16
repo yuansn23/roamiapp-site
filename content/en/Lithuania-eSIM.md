@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Lithuania eSIM | Fast & Reliable Prepaid Data Plan"
-  description: "Travel smart with a prepaid eSIM for Lithuania. Unlimited 5G data with instant activation. Covers Vilnius, Kaunas & Klaipeda Buy your plan online today."
+  title: Lithuania eSIM | Fast & Reliable Prepaid Data Plan
+  description: Travel smart with a prepaid eSIM for Lithuania. Unlimited 5G data with instant activation. Covers Vilnius,
+    Kaunas & Klaipeda Buy your plan online today.
   keywords: Lithuania eSIM, buy Lithuania eSIM, best Lithuania eSIM, Lithuania travel eSIM, Tele2 Lithuania, Telia Lithuania,
     BITE Lithuania, Vilnius eSIM, Kaunas eSIM, Klaipėda eSIM, Lithuania prepaid eSIM, 5G Lithuania eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/lt.svg
   flag_alt: Lithuania Flag
-  title: 'Lithuania eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Lithuania eSIM: Complete Data Solutions for Your Trip'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Lithuania travelers
 features:
   title: 'Why Lithuania Travelers Choose Roami: Coverage, Speed & Service'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Guam eSIM | Pas cher & sans engagement"
-  description: "Pour Guam, Roami vous offre une eSIM sans engagement. Utilisez-la pendant votre voyage, puis c'est fini. Rien a resilier. Couvre tout le pays."
+  title: Guam eSIM | Pas cher & sans engagement
+  description: Pour Guam, Roami vous offre une eSIM sans engagement. Utilisez-la pendant votre voyage, puis c'est fini. Rien
+    a resilier. Couvre tout le pays.
   keywords: eSIM Guam, forfait eSIM Guam, meilleure eSIM Guam, Guam data, Docomo Pacific Guam, IT&E Guam, GTA Guam, eSIM Hagåtña,
     eSIM Tamuning, eSIM Mangilao, internet mobile Guam, 5G Guam
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/gu.svg
   flag_alt: Drapeau Guam
-  title: 'eSIM Guam 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Guam: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Guam - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Guam: Vitesse, Couverture & Support'

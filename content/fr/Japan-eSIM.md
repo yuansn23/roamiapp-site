@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Japon eSIM | Activation immédiate sans engagement"
-  description: "Vous voulez une eSIM pas chere pour Japon? Roami vous propose le prix le plus attractif du marche. Couvre Tokyo, Osaka & Kyoto."
+  title: Japon eSIM | Activation immédiate sans engagement
+  description: Vous voulez une eSIM pas chere pour Japon? Roami vous propose le prix le plus attractif du marche. Couvre Tokyo,
+    Osaka & Kyoto.
   keywords: eSIM Japon, forfait eSIM Japon, meilleure eSIM Japon, Japon data, NTT Docomo Japon, SoftBank Japon, KDDI (au)
     Japon, eSIM Tokyo, eSIM Osaka, eSIM Kyoto, internet mobile Japon, 5G Japon
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/jp.svg
   flag_alt: Drapeau Japon
-  title: 'eSIM Japon 2026: Restez Connecté Partout'
+  title: 'eSIM Japon: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Japon
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Japon: Forfaits, Réseau & Support'

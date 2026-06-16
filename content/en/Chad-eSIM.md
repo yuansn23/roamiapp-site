@@ -44,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/td.svg
   flag_alt: Chad Flag
-  title: 'Chad eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'Chad eSIM: Reliable Network & Coverage for Travelers'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Chad travelers
 features:
   title: 'Why Chad Travelers Choose Roami: Coverage, Speed & Service'

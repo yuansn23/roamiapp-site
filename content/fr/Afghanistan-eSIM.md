@@ -18,7 +18,7 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "eSIM Afghanistan dès 1,99 € : 5G sans frais d'itinérance"
+  title: 'eSIM Afghanistan dès 1,99 € : 5G sans frais d''itinérance'
   description: Comparez les forfaits eSIM Afghanistan avec la 5G à Kaboul, Kandahar, Hérat. Guide de couverture Afghan Wireless
     & Roshan & Etisalat Afghanistan. Activation QR instantanee des $1.99.
   keywords: eSIM Afghanistan, forfait eSIM Afghanistan, meilleure eSIM Afghanistan, Afghanistan data, Afghan Wireless Afghanistan,
@@ -43,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/af.svg
   flag_alt: Drapeau Afghanistan
-  title: 'eSIM Afghanistan 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Afghanistan: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Afghanistan - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Afghanistan: Vitesse, Couverture & Support'

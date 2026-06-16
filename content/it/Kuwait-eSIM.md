@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/kw.svg
   flag_alt: Bandiera di Kuwait
-  title: 'eSIM Kuwait 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Kuwait: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Kuwait - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Kuwait: Velocità, Copertura & Supporto'

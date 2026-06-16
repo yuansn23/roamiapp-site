@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Morocco eSIM | Buy Prepaid eSIM for Travelers"
-  description: "Planning a trip to Morocco? Get Roami's best prepaid travel eSIM with unlimited 5G data. Covers Casablanca, Marrakech & Rabat. Instant activation."
+  title: Morocco eSIM | Buy Prepaid eSIM for Travelers
+  description: Planning a trip to Morocco? Get Roami's best prepaid travel eSIM with unlimited 5G data. Covers Casablanca,
+    Marrakech & Rabat. Instant activation.
   keywords: Morocco eSIM, buy Morocco eSIM, best Morocco eSIM, Morocco travel eSIM, Orange Morocco, Maroc Telecom Morocco,
     Inwi Morocco, Casablanca eSIM, Marrakech eSIM, Fes eSIM, Morocco prepaid eSIM, 5G Morocco eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/ma.svg
   flag_alt: Morocco Flag
-  title: 'Morocco eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Morocco eSIM: Complete Data Solutions for Your Trip'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Morocco
 features:
   title: 'Why Morocco Travelers Choose Roami: Network, Plans & Value'

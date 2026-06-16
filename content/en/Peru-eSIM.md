@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Peru eSIM | Buy Fast Prepaid Data Plan"
-  description: "Need a prepaid travel eSIM for Peru? Roami offers unlimited 5G data nationwide. Covers Lima, Cusco & Arequipa. Instant activation. Plans from $1.99."
+  title: Peru eSIM | Buy Fast Prepaid Data Plan
+  description: Need a prepaid travel eSIM for Peru? Roami offers unlimited 5G data nationwide. Covers Lima, Cusco & Arequipa.
+    Instant activation. Plans from $1.99.
   keywords: Peru eSIM, buy Peru eSIM, best Peru eSIM, Peru travel eSIM, Claro Peru, Movistar Peru, Entel Peru, Lima eSIM,
     Cusco eSIM, Arequipa eSIM, Peru prepaid eSIM, 5G Peru eSIM
   low_price: '1.99'
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/pe.svg
   flag_alt: Peru Flag
-  title: 'Peru eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Peru eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Peru
 features:
   title: 'Why Peru Travelers Choose Roami: Network, Plans & Value'

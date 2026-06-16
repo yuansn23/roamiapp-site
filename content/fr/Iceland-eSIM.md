@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Islande eSIM | Pas cher & sans engagement"
-  description: "Pour Islande, Roami vous offre une eSIM sans engagement. Utilisez-la pendant votre voyage, puis c'est fini. Rien a resilier. Couvre tout le pays."
+  title: Islande eSIM | Pas cher & sans engagement
+  description: Pour Islande, Roami vous offre une eSIM sans engagement. Utilisez-la pendant votre voyage, puis c'est fini.
+    Rien a resilier. Couvre tout le pays.
   keywords: eSIM Islande, forfait eSIM Islande, meilleure eSIM Islande, Islande data, Síminn Islande, Vodafone Islande Islande,
     Nova Islande, eSIM Reykjavik, eSIM Akureyri, eSIM Keflavík, internet mobile Islande, 5G Islande
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/is.svg
   flag_alt: Drapeau Islande
-  title: 'eSIM Islande 2026: Solutions Data Complètes pour Votre Voyage'
+  title: 'eSIM Islande: Solutions Data Complètes pour Votre Voyage'
   subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour Islande
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Islande: Couverture, Vitesse & Service'

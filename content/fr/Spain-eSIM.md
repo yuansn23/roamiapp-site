@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Espagne eSIM | Prépayé sans engagement, activé immédiat"
-  description: "L'eSIM Roami pour Espagne offre le meilleur rapport qualite-prix. Profitez de tarifs imbattables pour votre voyage. Couvre Barcelone, Madrid & les Baléares."
+  title: Espagne eSIM | Prépayé sans engagement, activé immédiat
+  description: L'eSIM Roami pour Espagne offre le meilleur rapport qualite-prix. Profitez de tarifs imbattables pour votre
+    voyage. Couvre Barcelone, Madrid & les Baléares.
   keywords: eSIM Espagne, forfait eSIM Espagne, meilleure eSIM Espagne, Espagne data, Movistar Espagne, Vodafone Espagne,
     Orange Espagne, eSIM Madrid, eSIM Barcelone, eSIM Valence, internet mobile Espagne, 5G Espagne
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/es.svg
   flag_alt: Drapeau Espagne
-  title: 'eSIM Espagne 2026: Restez Connecté Partout'
+  title: 'eSIM Espagne: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Espagne
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Espagne: Forfaits, Réseau & Support'

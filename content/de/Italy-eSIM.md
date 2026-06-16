@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Italien eSIM | Prepaid Datenvolumen für den Urlaub"
-  description: "Kaufen Sie Ihre Roami eSIM für Italien mit wenigen Klicks. Sichere Bezahlung, sofortiger Erhalt des Codes. Deckt Rom, Venedig & Florenz ab."
+  title: Italien eSIM | Prepaid Datenvolumen für den Urlaub
+  description: Kaufen Sie Ihre Roami eSIM für Italien mit wenigen Klicks. Sichere Bezahlung, sofortiger Erhalt des Codes.
+    Deckt Rom, Venedig & Florenz ab.
   keywords: Italien eSIM, Italien Reise eSIM, beste eSIM Italien, Italien Datentarif, TIM Italien, Vodafone Italien, Wind
     Tre Italien, Rom eSIM, Mailand eSIM, Neapel eSIM, Italien mobiles Internet, 5G Italien
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/it.svg
   flag_alt: Flagge von Italien
-  title: 'Italien eSIM 2026: Schnelles 5G für jedes Reiseziel'
+  title: 'Italien eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Italien - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
   title: 'Warum Reisende Roami fuer Italien waehlen: Geschwindigkeit, Abdeckung & Support'

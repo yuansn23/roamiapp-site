@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Hungary eSIM | Best Travel Data Plan for Explorers"
-  description: "Get the best prepaid travel eSIM for Hungary from Roami. Unlimited 5G data nationwide. Instant activation. Covers Budapest, Debrecen & Pecs."
+  title: Hungary eSIM | Best Travel Data Plan for Explorers
+  description: Get the best prepaid travel eSIM for Hungary from Roami. Unlimited 5G data nationwide. Instant activation.
+    Covers Budapest, Debrecen & Pecs.
   keywords: Hungary eSIM, buy Hungary eSIM, best Hungary eSIM, Hungary travel eSIM, Magyar Telekom Hungary, Telenor Hungary
     Hungary, Vodafone Hungary Hungary, Budapest eSIM, Debrecen eSIM, Szeged eSIM, Hungary prepaid eSIM, 5G Hungary eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/hu.svg
   flag_alt: Hungary Flag
-  title: 'Hungary eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'Hungary eSIM: Reliable Network & Coverage for Travelers'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Hungary
 features:
   title: 'Why Hungary Travelers Choose Roami: Network, Plans & Value'

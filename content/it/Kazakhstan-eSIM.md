@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Kazakistan eSIM | Prepagato senza vincoli"
-  description: "Roami per Kazakistan: niente contratto, niente vincoli. Usala durante la tua vacanza, poi è finita. Senza complicazioni. Copre tutte le regioni."
+  title: Kazakistan eSIM | Prepagato senza vincoli
+  description: 'Roami per Kazakistan: niente contratto, niente vincoli. Usala durante la tua vacanza, poi è finita. Senza
+    complicazioni. Copre tutte le regioni.'
   keywords: eSIM Kazakistan, piano eSIM Kazakistan, migliore eSIM Kazakistan, Kazakistan dati, Kcell Kazakistan, Beeline Kazakistan,
     Tele2 Kazakistan, eSIM Almaty, eSIM Nur-Sultan, eSIM Shymkent, internet mobile Kazakistan, 5G Kazakistan
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/kz.svg
   flag_alt: Bandiera di Kazakistan
-  title: 'eSIM Kazakistan 2026: Rete Affidabile per Viaggiatori'
+  title: 'eSIM Kazakistan: Rete Affidabile per Viaggiatori'
   subtitle: Attivazione immediata | 5G veloce | Supporto 24/7 - la migliore eSIM prepagata per Kazakistan
 features:
   title: 'Perché i viaggiatori scelgono Roami per Kazakistan: Rete, Piani & Prezzo'

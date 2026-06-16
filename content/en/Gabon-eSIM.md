@@ -44,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/ga.svg
   flag_alt: Gabon Flag
-  title: 'Gabon eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Gabon eSIM: Stay Connected Everywhere You Go'
   subtitle: Best prepaid eSIM for Gabon travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Gabon Travelers Choose Roami: Speed, Coverage & Support'

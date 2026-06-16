@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "China eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Bereiten Sie Ihre Reise nach China mit Roami vor. Unsere eSIM begleitet Sie überall hin für eine sorgenfreie Reise. Deckt Peking, Shanghai & alle großen Städte ab."
+  title: China eSIM | Günstigste Prepaid Reise eSIM
+  description: Bereiten Sie Ihre Reise nach China mit Roami vor. Unsere eSIM begleitet Sie überall hin für eine sorgenfreie
+    Reise. Deckt Peking, Shanghai & alle großen Städte ab.
   keywords: China eSIM, China Reise eSIM, beste eSIM China, China Datentarif, China Mobile China, China Unicom China, China
     Telecom China, Peking eSIM, Shanghai eSIM, Guangzhou eSIM, China mobiles Internet, 5G China
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/cn.svg
   flag_alt: Flagge von China
-  title: 'China eSIM 2026: Schnelles 5G für jedes Reiseziel'
+  title: 'China eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für China - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
   title: 'Warum Reisende Roami fuer China waehlen: Geschwindigkeit, Abdeckung & Support'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Nepal eSIM | Compra al miglior prezzo online"
-  description: "Per Nepal scegli Roami e paghi meno. La nostra eSIM offre il prezzo migliore per restare connesso durante il tuo viaggio. Copre tutte le regioni."
+  title: Nepal eSIM | Compra al miglior prezzo online
+  description: Per Nepal scegli Roami e paghi meno. La nostra eSIM offre il prezzo migliore per restare connesso durante il
+    tuo viaggio. Copre tutte le regioni.
   keywords: eSIM Nepal, piano eSIM Nepal, migliore eSIM Nepal, Nepal dati, Nepal Telecom Nepal, Ncell Nepal, SmartCell Nepal,
     eSIM Katmandu, eSIM Pokhara, eSIM Lumbini, internet mobile Nepal, 5G Nepal
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/np.svg
   flag_alt: Bandiera di Nepal
-  title: 'eSIM Nepal 2026: Soluzioni Dati Complete per il Tuo Viaggio'
+  title: 'eSIM Nepal: Soluzioni Dati Complete per il Tuo Viaggio'
   subtitle: Niente costi nascosti | Internet senza preoccupazioni | Supporto 24/7 - la migliore eSIM per Nepal
 features:
   title: 'Perché i viaggiatori scelgono Roami per Nepal: Copertura, Velocità & Servizio'

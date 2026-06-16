@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Regno Unito eSIM | Dati illimitati per viaggiare"
-  description: "Viaggia in Regno Unito senza pensieri. Roami non ti lega ad alcun abbonamento. Decidi tu quanto e quando usarla. Semplice e onesto. Copre tutte le regioni."
+  title: Regno Unito eSIM | Dati illimitati per viaggiare
+  description: Viaggia in Regno Unito senza pensieri. Roami non ti lega ad alcun abbonamento. Decidi tu quanto e quando usarla.
+    Semplice e onesto. Copre tutte le regioni.
   keywords: eSIM UK, piano eSIM UK, migliore eSIM UK, UK dati, EE UK, Vodafone UK, O2 UK, eSIM Londra, eSIM Manchester, eSIM
     Edimburgo, internet mobile UK, 5G UK
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/gb.svg
   flag_alt: Bandiera di UK
-  title: 'eSIM UK 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM UK: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per UK - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per UK: Velocità, Copertura & Supporto'

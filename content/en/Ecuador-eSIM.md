@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Ecuador eSIM | Best Travel Data Plan for Explorers"
-  description: "Get unlimited 5G data in Ecuador. Unlimited 5G data with instant activation. Covers Quito, Guayaquil & Cuenca. Instant activation Buy your plan online today."
+  title: Ecuador eSIM | Best Travel Data Plan for Explorers
+  description: Get unlimited 5G data in Ecuador. Unlimited 5G data with instant activation. Covers Quito, Guayaquil & Cuenca.
+    Instant activation Buy your plan online today.
   keywords: Ecuador eSIM, buy Ecuador eSIM, best Ecuador eSIM, Ecuador travel eSIM, Claro Ecuador, Movistar Ecuador, CNT Ecuador,
     Quito eSIM, Guayaquil eSIM, Cuenca eSIM, Ecuador prepaid eSIM, 5G Ecuador eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/ec.svg
   flag_alt: Ecuador Flag
-  title: 'Ecuador eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Ecuador eSIM: Stay Connected Everywhere You Go'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Ecuador travelers
 features:
   title: 'Why Ecuador Travelers Choose Roami: Coverage, Speed & Service'

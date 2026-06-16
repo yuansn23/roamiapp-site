@@ -45,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/gf.svg
   flag_alt: French Guiana Flag
-  title: 'French Guiana eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'French Guiana eSIM: Complete Data Solutions for Your Trip'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for French Guiana
 features:
   title: 'Why French Guiana Travelers Choose Roami: Plans, Network & Support'

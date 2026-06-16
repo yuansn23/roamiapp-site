@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/td.svg
   flag_alt: Drapeau Tchad
-  title: 'eSIM Tchad 2026: Solutions Data Complètes pour Votre Voyage'
+  title: 'eSIM Tchad: Solutions Data Complètes pour Votre Voyage'
   subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour Tchad
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Tchad: Couverture, Vitesse & Service'

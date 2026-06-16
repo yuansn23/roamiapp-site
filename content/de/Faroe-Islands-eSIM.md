@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/fo.svg
   flag_alt: Flagge von Färöer
-  title: 'Färöer eSIM 2026: Schnelles 5G für jedes Reiseziel'
+  title: 'Färöer eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Färöer - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
   title: 'Warum Reisende Roami fuer Färöer waehlen: Geschwindigkeit, Abdeckung & Support'

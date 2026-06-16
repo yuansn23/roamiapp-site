@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "UK eSIM | Meilleur prix sans engagement"
-  description: "Voyagez a UK en toute liberte avec Roami. Pas d'engagement, pas de renouvellement automatique. Simple et honnete. Couvre tout le pays."
+  title: UK eSIM | Meilleur prix sans engagement
+  description: Voyagez a UK en toute liberte avec Roami. Pas d'engagement, pas de renouvellement automatique. Simple et honnete.
+    Couvre tout le pays.
   keywords: eSIM UK, forfait eSIM UK, meilleure eSIM UK, UK data, EE UK, Vodafone UK, O2 UK, eSIM Londres, eSIM Manchester,
     eSIM Birmingham, internet mobile UK, 5G UK
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/gb.svg
   flag_alt: Drapeau UK
-  title: 'eSIM UK 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM UK: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour UK - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour UK: Vitesse, Couverture & Support'

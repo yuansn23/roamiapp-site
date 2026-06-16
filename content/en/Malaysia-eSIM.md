@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Malaysia eSIM | Buy Travel Data Plan for Your Trip"
-  description: "Explore Malaysia with the best prepaid travel eSIM from Roami. Unlimited 5G data on top networks. Instant activation. Covers KL, Penang & all cities."
+  title: Malaysia eSIM | Buy Travel Data Plan for Your Trip
+  description: Explore Malaysia with the best prepaid travel eSIM from Roami. Unlimited 5G data on top networks. Instant activation.
+    Covers KL, Penang & all cities.
   keywords: Malaysia eSIM, buy Malaysia eSIM, best Malaysia eSIM, Malaysia travel eSIM, Maxis Malaysia, Celcom Malaysia, Digi
     Malaysia, Kuala Lumpur eSIM, Penang eSIM, Johor Bahru eSIM, Malaysia prepaid eSIM, 5G Malaysia eSIM
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/my.svg
   flag_alt: Malaysia Flag
-  title: 'Malaysia eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Malaysia eSIM: Stay Connected Everywhere You Go'
   subtitle: Best prepaid eSIM for Malaysia travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Malaysia Travelers Choose Roami: Speed, Coverage & Support'

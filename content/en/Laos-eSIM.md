@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Laos eSIM | Best Travel Data Plan for Explorers"
-  description: "Travel to Laos with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Covers Vientiane, Luang Prabang & Savannakhet. Instant activation."
+  title: Laos eSIM | Best Travel Data Plan for Explorers
+  description: Travel to Laos with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Covers Vientiane,
+    Luang Prabang & Savannakhet. Instant activation.
   keywords: Laos eSIM, buy Laos eSIM, best Laos eSIM, Laos travel eSIM, Lao Telecom Laos, Unitel Laos, ETL Laos, Vientiane
     eSIM, Luang Prabang eSIM, Pakse eSIM, Laos prepaid eSIM, 5G Laos eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/la.svg
   flag_alt: Laos Flag
-  title: 'Laos eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Laos eSIM: Stay Connected Everywhere You Go'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Laos travelers
 features:
   title: 'Why Laos Travelers Choose Roami: Coverage, Speed & Service'

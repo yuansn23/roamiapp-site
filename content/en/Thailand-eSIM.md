@@ -20,8 +20,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Thailand eSIM | Buy Best eSIM Plan for Tourists"
-  description: "Get the best prepaid travel eSIM for Thailand from Roami. Unlimited 5G data on top networks. Instant QR activation. Buy your plan for Bangkok, Phuket & beyond."
+  title: Thailand eSIM | Buy Best eSIM Plan for Tourists
+  description: Get the best prepaid travel eSIM for Thailand from Roami. Unlimited 5G data on top networks. Instant QR activation.
+    Buy your plan for Bangkok, Phuket & beyond.
   keywords: Thailand eSIM, buy Thailand eSIM, best Thailand eSIM, Thailand travel eSIM, AIS Thailand, TrueMove Thailand, dtac
     Thailand, Bangkok eSIM, Chiang Mai eSIM, Phuket eSIM, Thailand prepaid eSIM, 5G Thailand eSIM
   low_price: 1.99
@@ -45,7 +46,7 @@ banner:
 hero:
   flag_image: img/flags/th.svg
   flag_alt: Thailand Flag
-  title: 'Thailand eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Thailand eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Thailand travelers
 features:
   title: 'Why Thailand Travelers Choose Roami: Coverage, Speed & Service'

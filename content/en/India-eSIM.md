@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "India eSIM | Buy Fast Prepaid Data Plan"
-  description: "Travel to India with Roami's best prepaid travel eSIM. Unlimited 5G data with no local ID required. Instant activation. Buy your plan from $1.99."
+  title: India eSIM | Buy Fast Prepaid Data Plan
+  description: Travel to India with Roami's best prepaid travel eSIM. Unlimited 5G data with no local ID required. Instant
+    activation. Buy your plan from $1.99.
   keywords: India eSIM, buy India eSIM, best India eSIM, India travel eSIM, Airtel India, Jio India, Vi India, Delhi eSIM,
     Mumbai eSIM, Bangalore eSIM, India prepaid eSIM, 5G India eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/in.svg
   flag_alt: India Flag
-  title: 'India eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'India eSIM: Stay Connected Everywhere You Go'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for India
 features:
   title: 'Why India Travelers Choose Roami: Plans, Network & Support'

@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/mg.svg
   flag_alt: Bandiera di Madagascar
-  title: 'eSIM Madagascar 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Madagascar: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Madagascar - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Madagascar: Velocità, Copertura & Supporto'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "El Salvador eSIM | Compra al miglior prezzo"
-  description: "La eSIM Roami per El Salvador ti dà la libertà di scegliere. Senza vincoli, usala quando vuoi. Controlli tutto tu, in totale trasparenza. Copre tutte le regioni."
+  title: El Salvador eSIM | Compra al miglior prezzo
+  description: La eSIM Roami per El Salvador ti dà la libertà di scegliere. Senza vincoli, usala quando vuoi. Controlli tutto
+    tu, in totale trasparenza. Copre tutte le regioni.
   keywords: eSIM El Salvador, piano eSIM El Salvador, migliore eSIM El Salvador, El Salvador dati, Tigo El Salvador, Claro
     El Salvador, Movistar El Salvador, eSIM San Salvador, eSIM Santa Ana, eSIM San Miguel, internet mobile El Salvador, 5G
     El Salvador
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/sv.svg
   flag_alt: Bandiera di El Salvador
-  title: 'eSIM El Salvador 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM El Salvador: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per El Salvador - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per El Salvador: Velocità, Copertura & Supporto'

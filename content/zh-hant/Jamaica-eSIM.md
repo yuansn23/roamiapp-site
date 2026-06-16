@@ -1,5 +1,5 @@
 ---
-title: 牙買加 eSIM 方案 | 牙買加 eSIM | Roami
+title: '牙買加 eSIM 2026: 覆蓋範圍與速度 | Roami'
 date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
@@ -13,14 +13,13 @@ country_meta:
 modal:
   title: 服務更新！
   btn_text: 繼續
-  text_default: |-
-    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
-  text_android: |-
-    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
+  text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
+  text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
   title: "牙買加eSIM｜5G高速上網，吃到飽不降速"
   description: "出國旅遊去牙買加必備Roami eSIM旅遊必備方案，5G高速上網查地圖找美食分享照片一趟旅程全靠它。最低$1.99起超值價格，線上購買即時開通抵達直接用。"
-  keywords: 牙買加 eSIM, 牙買加上網卡, 牙買加旅遊, 金斯頓, 蒙特哥貝, 尼格瑞爾, 行動網路覆蓋, 旅遊景點
+  keywords: 牙買加 eSIM, 牙買加 eSIM方案, 最佳牙買加 eSIM, 牙買加上網, Digicel 牙買加, Flow 牙買加, JTL (Jamaica Telephone Limited) 牙買加, 金斯頓 eSIM,
+    蒙特哥貝 eSIM, 奧喬里奧斯 eSIM, 牙買加行動網路, 5G 牙買加
 order_summary:
   title: 選擇 牙買加 eSIM
   label_data: 數據量
@@ -40,36 +39,36 @@ banner:
 hero:
   flag_image: img/flags/jm.svg
   flag_alt: 牙買加 國旗
-  title: 牙買加 eSIM - 旅行計劃
-  subtitle: 牙買加 eSIM | 即時交付 | 高速5G網路 | 無隱藏費用
+  title: '牙買加 eSIM: 為您的旅程提供完整數據方案'
+  subtitle: 無隱藏費用 | 上網無憂 | 24/7客服 - 牙買加最佳預付eSIM
 features:
-  title: 為什麼 Roami 的 牙買加 eSIM 比競爭對手更好？
+  title: 為什麼旅客選擇Roami的牙買加 eSIM：覆蓋、速度與服務
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
     title: 即時 QR 碼
-    desc: 5 分鐘內交付
+    desc: 5分鐘內透過Email收到您的牙買加 eSIM QR碼
   - icon: headset
     color: from-emerald-400 to-emerald-600
     title: 24/7 支援
-    desc: 隨時在線
+    desc: 為您的牙買加之旅提供24/7客服 - 真人服務，非機器人
   - icon: shield-check
     color: from-amber-400 to-amber-600
     title: 保證
-    desc: 買家保障
+    desc: 若牙買加 eSIM無法啟用，100%全額退款
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: 熱點分享
-    desc: 與他人分享數據
+    desc: 與旅伴分享您的牙買加數據，無限制
   - icon: file-x
     color: from-rose-400 to-rose-600
     title: 無合約
-    desc: 隨時取消
+    desc: 無合約，隨時取消 - 牙買加旅行完美選擇
   - icon: radio-tower
     color: from-blue-400 to-blue-600
     title: 自動選擇
-    desc: 最佳本地網路
-plans_title: 為您的旅程選擇理想的 牙買加 eSIM
+    desc: 自動連線牙買加最佳電信商，取得最強訊號
+plans_title: 購買牙買加 eSIM：適合各種旅程的方案
 plans_data:
   7 天:
   - spec: 1GB
@@ -193,12 +192,12 @@ plans_data:
     daily: '4.53'
 discount_banner:
   title: 牙買加 eSIM 特別折扣！
-  desc_html: |-
-    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 牙買加 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  desc_html: 結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 牙買加
+    eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
   btn_text: 儲存折扣
   validity: 有效期：3 天
 network_coverage:
-  title: 網路覆蓋詳情
+  title: 牙買加 eSIM覆蓋範圍：電信商指南與覆蓋圖
   supports_text: 支援：
   service_details:
     title: 服務詳情
@@ -206,8 +205,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: 覆蓋範圍
-      desc: 在整個 牙買加 享受廣泛的網路覆蓋，包括 金斯頓、蒙特哥貝、奧喬里奧斯 等城市。我們的 牙買加 eSIM 無縫連接到 Digicel、Flow
-        的網路。
+      desc: 享受覆蓋全牙買加的全面網路，包括金斯頓, 蒙特哥貝, 奧喬里奧斯, 尼格瑞爾。您的eSIM會自動連線至Digicel, Flow, JTL (Jamaica Telephone Limited)的強大網路，在市區、旅遊熱點和主要交通路線提供穩定訊號。
     - icon: zap
       color: text-amber-500
       title: 交付時間
@@ -217,21 +215,21 @@ network_coverage:
       title: 熱點分享
       desc: 熱點分享無限制。
   carriers:
-    title: 行動網路
+    title: Digicel, Flow & JTL (Jamaica Telephone Limited)：牙買加 eSIM電信商
     badge: 官方合作夥伴
     items:
     - name: Digicel
-      coverage: 低延遲
+      coverage: 最佳整體覆蓋
       network: 5G/4G/LTE 網路
     - name: Flow
-      coverage: 自有 IP
+      coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 牙買加 eSIM：重要提醒
+  title: 牙買加 eSIM秘訣：出發前須知
   items:
   - icon: 📱
-    html: |-
-      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
+    html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
+      transition-colors">eSIM 相容性</a>。
   - icon: ✈️
     html: 建議抵達 牙買加 後再啟用 eSIM。
   - icon: ⏰
@@ -245,29 +243,22 @@ reminders:
     desc: 不確定嗎？立即在您的手機上檢查：
     instruction: 在鍵盤上撥打：
     code: '*#06#'
-    result_html: |-
-      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
-    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
-      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
-      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
-      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
-      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
-      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
-      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
-      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
-      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
-      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
-      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
-      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
-      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
-      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
+    result_html: 如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
+      號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n        <p class=\"text-sm font-semibold mb-2\"\
+      >\U0001F4DA 實用指南：</p>\n        <ul class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n            <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\"\
+      \ class=\"text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n            <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\"\
+      \ class=\"text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n            <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\"\
+      \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
+      \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 如何在幾分鐘內啟用 牙買加 eSIM
+  title: 牙買加 eSIM啟用：3個簡單步驟
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 牙買加 做好準備
-    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
-      天，您可以從容地為前往 牙買加 的旅行做好準備。
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30 天，您可以從容地為前往 牙買加 的旅行做好準備。
     is_list: false
   - num: '2'
     title: 在設備上安裝 eSIM – 掃描 QR 碼
@@ -281,27 +272,24 @@ activation_steps:
     - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
     title: 在家中準備 – 無風險測試
-    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 牙買加 時，只需開啟 eSIM
-      – 有效期將在首次連接到 Digicel / Flow 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 牙買加 時，只需開啟 eSIM – 有效期將在首次連接到 Digicel / Flow 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
     is_list: false
   - num: '4'
     title: 抵達 牙買加：立即連上 5G/4G 網路
-    desc: 當您降落在 牙買加（例如 諾曼·曼利國際機場 (KIN), 桑斯特國際機場 (MBJ), 伊恩·弗萊明國際機場 (OCJ)）時，關閉飛航模式（或保持在飛航模式僅啟用
-      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 牙買加。幾秒鐘內，您的設備將自動連接到 Digicel / Flow 提供的最快可用
-      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
+    desc: 當您降落在 牙買加（例如 諾曼·曼利國際機場 (KIN), 桑斯特國際機場 (MBJ), 伊恩·弗萊明國際機場 (OCJ)）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定 → 行動服務** 並開啟您的
+      Roami eSIM 牙買加。幾秒鐘內，您的設備將自動連接到 Digicel / Flow 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 牙買加 eSIM：完整指南和常見問題
-  desc: 使用 牙買加 eSIM 在 牙買加 的交通、飯店、景點和緊急聯絡的所有細節。
+  title: 牙買加 eSIM指南 2026：方案、覆蓋與秘訣
+  desc: 從金斯頓到蒙特哥貝，使用Digicel, Flow, JTL (Jamaica Telephone Limited)保持連線。我們的完整牙買加 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
     title: 關於 牙買加 eSIM 的常見問題
     questions:
-    - q: 在金斯頓市區使用Digicel eSIM觀看YouTube影片時，網路速度如何？
-      a: 在金斯頓市區，例如新金斯頓商業區或鮑勃·馬利博物館附近，連接到Digicel 4G網路時，下載速度通常在30-50 Mbps之間，足以流暢觀看1080p的YouTube影片。不過，在上下班尖峰時段（17:00-19:00）靠近金斯頓購物中心或十字路口地區，速度可能降至10-20
-        Mbps，但觀看720p影片仍然順暢。若要獲得最佳體驗，建議避開人潮密集的公共場所，或選擇清晨時段使用。
+    - q: Digicel還是Flow在牙買加更好？
+      a: Digicel和Flow在牙買加都提供出色的覆蓋範圍。Digicel在偏遠地區的覆蓋通常更好，而Flow在城市中提供競爭力的5G速度。對於大多數前往牙買加的旅客來說，兩個網路都能良好運作。
     - q: 在蒙特哥貝的桑斯特國際機場剛抵達時，啟用eSIM需要哪些步驟？
       a: 抵達蒙特哥貝桑斯特國際機場後，購買的eSIM會與本地網路Digicel自動連線。首先，確保手機已解鎖且支援eSIM功能；然後，在設定中新增行動方案，掃描購買後收到的QR碼。啟用後，通常會在幾分鐘內自動註冊至Digicel網路，無需手動設定APN。若遇到連線問題，可重新啟動手機或手動選擇Digicel網路。建議在出發前完成eSIM安裝，以節省抵達後的時間。
     - q: 在奧喬里奧斯的手工藝市場使用Flow網路時，社交軟體如Instagram是否穩定？
@@ -314,8 +302,7 @@ faq_section:
     - q: 在金斯頓的機場（諾曼·曼利國際機場）使用eSIM註冊時，需要提供護照等資訊嗎？
       a: 購買牙買加eSIM時，通常不需要提供護照或進行實名登記，因為這是預付費方案，直接掃描QR碼即可啟用。然而，牙買加政府規定所有手機號碼須完成身分驗證，但對於短期旅遊用的eSIM，運營商通常已預先完成註冊流程，旅客無需額外操作。若您購買的是本地SIM卡實體卡，則需在機場出示護照。因此，使用eSIM可節省排隊時間，更為便利。
     - q: 在西班牙鎮附近，Flow和Digicel哪個網路的訊號更好？
-      a: 西班牙鎮作為工業區，Digicel的4G覆蓋略優於Flow，尤其是在A2公路沿線及鎮中心廣場附近，Digicel的下載速度通常在25-40 Mbps，而Flow約20-30
-        Mbps。但在一些室內場所如購物中心，Flow的穿透力稍強。若主要用於導航和社交軟體，兩者均足夠；若需要上傳大檔案（如照片），建議選擇Digicel。此外，雙卡雙待手機可同時插入兩張eSIM以備用。
+      a: 西班牙鎮作為工業區，Digicel的4G覆蓋略優於Flow，尤其是在A2公路沿線及鎮中心廣場附近，Digicel的下載速度通常在25-40 Mbps，而Flow約20-30 Mbps。但在一些室內場所如購物中心，Flow的穿透力稍強。若主要用於導航和社交軟體，兩者均足夠；若需要上傳大檔案（如照片），建議選擇Digicel。此外，雙卡雙待手機可同時插入兩張eSIM以備用。
     - q: 在牙買加使用eSIM進行視訊通話（如Zoom）時，是否容易斷線？
       a: 在金斯頓或蒙特哥貝的主要市區，使用Digicel網路進行Zoom視訊通話非常流暢，延遲低於100毫秒，影像清晰。但在偏遠地區如藍山或安東尼奧港，可能出現畫面模糊或偶爾斷線，建議切換至語音通話。若需穩定連線，可選擇在飯店或咖啡廳的Wi-Fi環境下使用。總體而言，牙買加的行動網路足以應付日常視訊需求，但建議避開網路尖峰時段。
   - id: faq-airport
@@ -339,11 +326,9 @@ faq_section:
     title: 牙買加 eSIM 用於 牙買加 的交通和導航
     questions:
     - q: 在金斯頓乘坐Uber時，使用eSIM叫車是否穩定？
-      a: 金斯頓的Uber服務普遍，使用Flow或Digicel eSIM叫車成功率很高，定位誤差小於10米。但在舊金斯頓區域的狹窄街道，GPS可能延遲，導致司機難以找到上車點。建議定位在明顯地標（如Emancipation
-        Park）並保持網路暢通，行程中可即時與司機通話。
+      a: 金斯頓的Uber服務普遍，使用Flow或Digicel eSIM叫車成功率很高，定位誤差小於10米。但在舊金斯頓區域的狹窄街道，GPS可能延遲，導致司機難以找到上車點。建議定位在明顯地標（如Emancipation Park）並保持網路暢通，行程中可即時與司機通話。
     - q: 從蒙特哥貝前往奧喬里奧斯，沿路eSIM訊號如何？
-      a: 沿A1公路行駛，Digicel eSIM在大部分路段有穩定的4G訊號，僅在經過山區（如St. Ann地區）時短暫降為3G，但導航與音樂串流不受影響。全程約1.5小時車程，可持續使用社交軟體。建議中途在St.
-        Ann's Bay停靠休息時，可利用良好訊號上傳照片。
+      a: 沿A1公路行駛，Digicel eSIM在大部分路段有穩定的4G訊號，僅在經過山區（如St. Ann地區）時短暫降為3G，但導航與音樂串流不受影響。全程約1.5小時車程，可持續使用社交軟體。建議中途在St. Ann's Bay停靠休息時，可利用良好訊號上傳照片。
     - q: 在牙買加可以租車並使用eSIM導航嗎？
       a: 可以，租車後使用Google地圖或Waze導航非常實用，eSIM提供即時路況更新。牙買加道路狀況部分不佳（如鄉間碎石路），但主要城市間道路維護良好。注意：牙買加靠左行駛，導航語音提示清晰，建議搭配手機支架以確保行車安全。
     - q: 當地公車（如金斯頓JUTC）是否支援使用eSIM的行動支付？
@@ -356,8 +341,7 @@ faq_section:
     title: 在 牙買加 的飯店使用 牙買加 eSIM 連線
     questions:
     - q: 入住金士頓佩格薩斯飯店時，飯店Wi-Fi與eSIM哪個更快？
-      a: 金士頓佩格薩斯飯店的免費Wi-Fi速度約10-20 Mbps，公共區域較穩定，但房內可能較慢。相比之下，Digicel eSIM提供平均30-50
-        Mbps速度，更適合串流影片或視訊會議。建議在飯店使用Wi-Fi進行輕度瀏覽，重度需求時切換至eSIM。
+      a: 金士頓佩格薩斯飯店的免費Wi-Fi速度約10-20 Mbps，公共區域較穩定，但房內可能較慢。相比之下，Digicel eSIM提供平均30-50 Mbps速度，更適合串流影片或視訊會議。建議在飯店使用Wi-Fi進行輕度瀏覽，重度需求時切換至eSIM。
     - q: 蒙特哥貝的半月度假村是否提供eSIM友善環境？
       a: 半月度假村全區覆蓋免費Wi-Fi，但飯店也鼓勵使用行動網路。度假村內Digicel 4G訊號良好，泳池與沙灘區域亦無死角。部分高級房型有專屬5G訊號，但需確認手機支援。建議在度假村內啟用eSIM作為備用，以確保連線不中斷。
     - q: 尼格瑞爾的山崖飯店（Strawberry Hill）網路覆蓋如何？
@@ -376,13 +360,11 @@ faq_section:
     - q: 前往九英里（巴布·馬利故鄉）時，沿途eSIM訊號穩定嗎？
       a: 九英里位於聖安教區的山區，從蒙特哥貝出發約1.5小時車程，途經A3公路時Digicel訊號大部分良好，但最後5公里山路可能降為3G，上傳圖片較慢。到達博物館區域後，有免費Wi-Fi可供使用。建議提前下載景點資訊離線閱讀。
     - q: 參觀金斯頓鮑勃·馬利博物館時，是否可以利用eSIM取得導覽資訊？
-      a: 博物館內提供免費Wi-Fi，但部分展廳信號不佳；使用eSIM可隨時掃描QR碼或查閱線上資料。館內人流較多時，4G速度略有下降（約15-20 Mbps），但仍可流暢瀏覽。推薦使用Flow
-        eSIM因博物館附近有Flow基地台。
+      a: 博物館內提供免費Wi-Fi，但部分展廳信號不佳；使用eSIM可隨時掃描QR碼或查閱線上資料。館內人流較多時，4G速度略有下降（約15-20 Mbps），但仍可流暢瀏覽。推薦使用Flow eSIM因博物館附近有Flow基地台。
     - q: 在奧喬里奧斯海灘使用eSIM進行視訊通話，品質如何？
       a: 奧喬里奧斯海灘如Turtle Beach，Digicel網路覆蓋優秀，視訊通話清晰且延遲低。但午後陽光強烈時手機過熱可能影響效能。建議使用藍牙耳機並將手機置於陰涼處。沙灘區域偶有信號波動，但整體滿意度高。
     - q: 在金斯頓的Emancipation Park，eSIM速度足以支援即時串流嗎？
-      a: Emancipation Park鄰近商業區，Digicel 4G速度可達40-50 Mbps，適合直播演唱會或活動。公園內有長椅與樹蔭，可長時間使用。但週末人潮眾多時，速度可能降至20
-        Mbps，建議避開尖峰時段。
+      a: Emancipation Park鄰近商業區，Digicel 4G速度可達40-50 Mbps，適合直播演唱會或活動。公園內有長椅與樹蔭，可長時間使用。但週末人潮眾多時，速度可能降至20 Mbps，建議避開尖峰時段。
   - id: faq-social
     icon: smartphone
     tab_title: 社交媒體
@@ -390,13 +372,12 @@ faq_section:
     questions:
     - q: 使用牙買加eSIM在KFC或當地餐廳打卡時，上傳速度如何？
       a: 在金斯頓的KFC或當地餐館，如Scotchies Jerk Center，Digicel eSIM上傳照片約5-10秒。餐廳內網路穩定，但在用餐尖峰時段（12:00-14:00）可能因多人使用而稍慢。建議在點餐前後盡快上傳，或使用餐廳Wi-Fi。
-    - q: 在蒙特哥貝的Hip Strip購物時，能否順暢使用Instagram限時動態？
-      a: 蒙特哥貝的Hip Strip沿線，Flow 4G覆蓋極佳，上傳限時動態（含影片）僅需數秒。商店內訊號無阻礙，但靠近海灘時可能因建築遮擋略降。建議在公共長椅區使用，訊號最強。
+    - q: 去牙買加旅行需要多少數據量？
+      a: 輕度使用者(地圖+訊息)約300MB/天，中度(社群+照片)約700MB/天，重度(串流+視訊)選擇無限方案。大多數旅客在牙買加標準行程中選擇5GB/15天已足夠。
     - q: 在牙買加使用WhatsApp傳送照片或影片給家人，速度是否夠快？
       a: Digicel eSIM傳送一張約5MB的照片約需3-5秒，30秒影片約20秒。整體而言，串流媒體不會嚴重延遲。但若在多人群組中同時傳送多張照片，建議分批傳送以避免短暫擁塞。Flow的表現類似。
     - q: 在尼格瑞爾海灘附近的酒吧上傳Facebook直播，需要準備什麼？
-      a: 尼格瑞爾海灘酒吧如Rick's Cafe，Digicel 4G訊號足夠直播1080p影片，但需注意日落時段人潮眾多可能導致網路稍慢。建議使用手機支架固定，並連接行動電源。直播前先測試速度，若低於10
-        Mbps可改為720p。
+      a: 尼格瑞爾海灘酒吧如Rick's Cafe，Digicel 4G訊號足夠直播1080p影片，但需注意日落時段人潮眾多可能導致網路稍慢。建議使用手機支架固定，並連接行動電源。直播前先測試速度，若低於10 Mbps可改為720p。
     - q: 在金斯頓的電影院（如Caribbean Cinemas）使用eSIM與朋友通話，聲音清晰嗎？
       a: 電影院內因建築結構，4G訊號有時會降至3G，通話音質可能受影響。建議使用VoLTE功能（需手機支援），可提升清晰度。更推薦使用簡訊或社群軟體文字溝通。
   - id: faq-emergency
@@ -405,8 +386,7 @@ faq_section:
     title: 在 牙買加 使用 牙買加 eSIM 進行緊急聯絡
     questions:
     - q: 在牙買加若遇到緊急情況，如何透過eSIM撥打急救電話？
-      a: 緊急電話110（警方、救護車、消防）可透過任何訊號撥打，即使沒有SIM卡也能接通。使用eSIM時，直接撥打110即可。接通後說明所在位置（如：蒙特哥貝Hip
-        Strip），因牙買加急救中心需要詳細地址。此外，旅遊警察專線888-991-2022提供英語協助。
+      a: 緊急電話110（警方、救護車、消防）可透過任何訊號撥打，即使沒有SIM卡也能接通。使用eSIM時，直接撥打110即可。接通後說明所在位置（如：蒙特哥貝Hip Strip），因牙買加急救中心需要詳細地址。此外，旅遊警察專線888-991-2022提供英語協助。
     - q: 在偏遠地區如藍山，eSIM訊號中斷時如何求助？
       a: 藍山山區部分路段無訊號，建議行前告知飯店或友人您的行程。若訊號中斷，可尋找高處或開闊地重新連線。Digicel在藍山部分區域有2G備用網路，可發送簡訊至110（文字緊急服務）。長途健行建議攜帶衛星電話。
     - q: 旅遊時錢包被偷，如何在遺失手機的情況下使用eSIM？

@@ -19,8 +19,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Indonesia eSIM | Attivazione immediata"
-  description: "Per Indonesia scegli Roami e paghi meno. La nostra eSIM offre il prezzo migliore per restare connesso durante il tuo viaggio. Copre tutte le regioni."
+  title: Indonesia eSIM | Attivazione immediata
+  description: Per Indonesia scegli Roami e paghi meno. La nostra eSIM offre il prezzo migliore per restare connesso durante
+    il tuo viaggio. Copre tutte le regioni.
   keywords: eSIM Indonesia, piano eSIM Indonesia, migliore eSIM Indonesia, Indonesia dati, Telkomsel Indonesia, XL Axiata
     Indonesia, Indosat Ooredoo Indonesia, eSIM Giacarta, eSIM Surabaya, eSIM Bandung, internet mobile Indonesia, 5G Indonesia
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/id.svg
   flag_alt: Bandiera di Indonesia
-  title: 'eSIM Indonesia 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Indonesia: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Indonesia - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Indonesia: Velocità, Copertura & Supporto'

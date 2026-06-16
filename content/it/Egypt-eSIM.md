@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Egitto eSIM | Ricarica immediata senza contratto"
-  description: "Acquista la tua eSIM Roami per Egitto in pochi clic. Pagamento sicuro, ricezione immediata del codice. Comodo e veloce. Copre Il Cairo, Alessandria & Luxor."
+  title: Egitto eSIM | Ricarica immediata senza contratto
+  description: Acquista la tua eSIM Roami per Egitto in pochi clic. Pagamento sicuro, ricezione immediata del codice. Comodo
+    e veloce. Copre Il Cairo, Alessandria & Luxor.
   keywords: eSIM Egitto, piano eSIM Egitto, migliore eSIM Egitto, Egitto dati, Orange Egitto, Vodafone Egitto, Telecom Egypt
     (WE) Egitto, eSIM Il Cairo, eSIM Alessandria, eSIM Luxor, internet mobile Egitto, 5G Egitto
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/eg.svg
   flag_alt: Bandiera di Egitto
-  title: 'eSIM Egitto 2026: Rimani Connesso Ovunque'
+  title: 'eSIM Egitto: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per Egitto
 features:
   title: 'Perché i viaggiatori scelgono Roami per Egitto: Piani, Rete & Supporto'

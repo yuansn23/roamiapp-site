@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Kanada eSIM | Unbegrenztes Datenvolumen für unterwegs"
-  description: "Unterwegs in Kanada in voller Freiheit mit Roami. Keine automatische Verlängerung, keine Kündigung nötig. Deckt Toronto, Vancouver & ganz Kanada ab."
+  title: Kanada eSIM | Unbegrenztes Datenvolumen für unterwegs
+  description: Unterwegs in Kanada in voller Freiheit mit Roami. Keine automatische Verlängerung, keine Kündigung nötig. Deckt
+    Toronto, Vancouver & ganz Kanada ab.
   keywords: Kanada eSIM, Kanada Reise eSIM, beste eSIM Kanada, Kanada Datentarif, Rogers Kanada, Bell Kanada, Telus Kanada,
     Toronto eSIM, Vancouver eSIM, Montreal eSIM, Kanada mobiles Internet, 5G Kanada
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ca.svg
   flag_alt: Flagge von Kanada
-  title: 'Kanada eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Kanada eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Kanada
 features:
   title: 'Warum Reisende Roami fuer Kanada waehlen: Netzwerk, Tarife & Preiswert'

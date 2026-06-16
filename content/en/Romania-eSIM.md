@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Romania eSIM | Best Prepaid eSIM for Travelers"
-  description: "Planning a trip to Romania? Get Roami's best prepaid travel eSIM with unlimited 5G data. Instant QR activation. Covers Bucharest, Cluj & Transylvania."
+  title: Romania eSIM | Best Prepaid eSIM for Travelers
+  description: Planning a trip to Romania? Get Roami's best prepaid travel eSIM with unlimited 5G data. Instant QR activation.
+    Covers Bucharest, Cluj & Transylvania.
   keywords: Romania eSIM, buy Romania eSIM, best Romania eSIM, Romania travel eSIM, Orange Romania, Vodafone Romania, Telekom
     Romania, Bucharest eSIM, Cluj-Napoca eSIM, Timișoara eSIM, Romania prepaid eSIM, 5G Romania eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/ro.svg
   flag_alt: Romania Flag
-  title: 'Romania eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'Romania eSIM: Reliable Network & Coverage for Travelers'
   subtitle: Best prepaid eSIM for Romania travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Romania Travelers Choose Roami: Speed, Coverage & Support'

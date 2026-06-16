@@ -43,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/ci.svg
   flag_alt: Flagge von Elfenbeinküste
-  title: 'Elfenbeinküste eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Elfenbeinküste eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Elfenbeinküste
 features:
   title: 'Warum Reisende Roami fuer Elfenbeinküste waehlen: Netzwerk, Tarife & Preiswert'

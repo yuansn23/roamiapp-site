@@ -19,8 +19,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Nigeria eSIM | Acheter pas cher, données illimitées"
-  description: "Pour votre voyage a Nigeria, l'eSIM Roami est prete en 2 minutes chrono. Activation rapide, sans complication. Couvre tout le pays."
+  title: Nigeria eSIM | Acheter pas cher, données illimitées
+  description: Pour votre voyage a Nigeria, l'eSIM Roami est prete en 2 minutes chrono. Activation rapide, sans complication.
+    Couvre tout le pays.
   keywords: eSIM Nigeria, forfait eSIM Nigeria, meilleure eSIM Nigeria, Nigeria data, MTN Nigeria, Airtel Nigeria, Glo Nigeria,
     eSIM Lagos, eSIM Abuja, eSIM Kano, internet mobile Nigeria, 5G Nigeria
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/ng.svg
   flag_alt: Drapeau Nigeria
-  title: 'eSIM Nigeria 2026: Solutions Data Complètes pour Votre Voyage'
+  title: 'eSIM Nigeria: Solutions Data Complètes pour Votre Voyage'
   subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour Nigeria
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Nigeria: Couverture, Vitesse & Service'

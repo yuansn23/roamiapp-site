@@ -1,6 +1,6 @@
 ---
-title: 加彭 eSIM 方案 | 加彭 eSIM | Roami
-date: '2026-05-19T09:50:35+00:00'
+title: '加彭 eSIM 2026: 連線與速度 | Roami'
+date: '2026-06-15T09:50:35+00:00'
 draft: false
 type: esim
 country_meta:
@@ -13,14 +13,13 @@ country_meta:
 modal:
   title: 服務更新！
   btn_text: 繼續
-  text_default: |-
-    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
-  text_android: |-
-    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
+  text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
+  text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: 加彭 eSIM | eSIM無限流量 | 5G網路自動切換 | Roami
-  description: 加彭旅遊必備 Roami eSIM，提供無限流量與 5G 網路自動切換。現在購買並使用折扣碼 20%，讓您的旅遊連線更輕鬆方便。
-  keywords: 加彭 eSIM, 加彭上網, 加彭旅遊, 加彭行動網路, 加彭國際機場, 加彭景點
+  title: '加彭eSIM｜5G高速吃到飽，商務旅遊首選'
+  description: 比較加彭 eSIM方案，利伯維爾, 讓蒂爾港, 弗朗斯維爾等地5G高速上網。Airtel Gabon & Moov Africa Gabon & Azur覆蓋指南。即時QR啟用，起價$1.99。
+  keywords: 加彭 eSIM, 加彭 eSIM方案, 最佳加彭 eSIM, 加彭上網, Airtel Gabon 加彭, Moov Africa Gabon 加彭, Azur 加彭, 利伯維爾 eSIM, 讓蒂爾港 eSIM, 弗朗斯維爾
+    eSIM, 加彭行動網路, 5G 加彭
 order_summary:
   title: 選擇 加彭 eSIM
   label_data: 數據量
@@ -40,36 +39,36 @@ banner:
 hero:
   flag_image: img/flags/ga.svg
   flag_alt: 加彭 國旗
-  title: 加彭 eSIM - 旅行計劃
-  subtitle: 加彭 eSIM | 高速5G網路 | 100%退款保證 | 無需身份證件
+  title: '加彭 eSIM: 旅客信賴的穩定網路'
+  subtitle: 即時啟用 | 5G高速上網 | 24/7客服 - 加彭最佳預付eSIM
 features:
-  title: 為什麼 Roami 的 加彭 eSIM 比競爭對手更好？
+  title: 為什麼旅客選擇Roami的加彭 eSIM：網路、方案與價格
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
     title: 即時 QR 碼
-    desc: 5 分鐘內交付
+    desc: 5分鐘內透過Email收到您的加彭 eSIM QR碼
   - icon: headset
     color: from-emerald-400 to-emerald-600
     title: 24/7 支援
-    desc: 隨時在線
+    desc: 為您的加彭之旅提供24/7客服 - 真人服務，非機器人
   - icon: shield-check
     color: from-amber-400 to-amber-600
     title: 保證
-    desc: 買家保障
+    desc: 若加彭 eSIM無法啟用，100%全額退款
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: 熱點分享
-    desc: 與他人分享數據
+    desc: 與旅伴分享您的加彭數據，無限制
   - icon: file-x
     color: from-rose-400 to-rose-600
     title: 無合約
-    desc: 隨時取消
+    desc: 無合約，隨時取消 - 加彭旅行完美選擇
   - icon: radio-tower
     color: from-blue-400 to-blue-600
     title: 自動選擇
-    desc: 最佳本地網路
-plans_title: 為您的旅程選擇理想的 加彭 eSIM
+    desc: 自動連線加彭最佳電信商，取得最強訊號
+plans_title: 購買加彭 eSIM：適合各種旅程的方案
 plans_data:
   7 天:
   - spec: 1GB
@@ -176,12 +175,12 @@ plans_data:
     daily: '17.66'
 discount_banner:
   title: 加彭 eSIM 特別折扣！
-  desc_html: |-
-    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 加彭 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  desc_html: 結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 加彭
+    eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
   btn_text: 儲存折扣
   validity: 有效期：3 天
 network_coverage:
-  title: 網路覆蓋詳情
+  title: 加彭 eSIM覆蓋範圍：覆蓋範圍與電信商比較
   supports_text: 支援：
   service_details:
     title: 服務詳情
@@ -189,8 +188,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: 覆蓋範圍
-      desc: 在整個 加彭 享受廣泛的網路覆蓋，包括 利伯維爾、讓蒂爾港、弗朗斯維爾、奧耶姆 等城市。我們的 加彭 eSIM 無縫連接到 Airtel Gabon、Moov
-        Africa Gabon、Azur 的網路。
+      desc: 享受覆蓋全加彭的全面網路，包括利伯維爾, 讓蒂爾港, 弗朗斯維爾, 奧耶姆。您的eSIM會自動連線至Airtel Gabon, Moov Africa Gabon, Azur的強大網路，在市區、旅遊熱點和主要交通路線提供穩定訊號。
     - icon: zap
       color: text-amber-500
       title: 交付時間
@@ -200,21 +198,21 @@ network_coverage:
       title: 熱點分享
       desc: 熱點分享無限制。
   carriers:
-    title: 行動網路
+    title: Airtel Gabon, Moov Africa Gabon & Azur：加彭 eSIM電信商
     badge: 官方合作夥伴
     items:
     - name: Airtel Gabon
-      coverage: 低延遲
+      coverage: 最佳整體覆蓋
       network: 5G/4G/LTE 網路
     - name: Moov Africa Gabon
-      coverage: 自有 IP
+      coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 加彭 eSIM：重要提醒
+  title: 加彭 eSIM秘訣：出發前須知
   items:
   - icon: 📱
-    html: |-
-      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
+    html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
+      transition-colors">eSIM 相容性</a>。
   - icon: ✈️
     html: 建議抵達 加彭 後再啟用 eSIM。
   - icon: ⏰
@@ -228,29 +226,22 @@ reminders:
     desc: 不確定嗎？立即在您的手機上檢查：
     instruction: 在鍵盤上撥打：
     code: '*#06#'
-    result_html: |-
-      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
-    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
-      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
-      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
-      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
-      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
-      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
-      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
-      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
-      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
-      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
-      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
-      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
-      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
-      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
+    result_html: 如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
+      號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n        <p class=\"text-sm font-semibold mb-2\"\
+      >\U0001F4DA 實用指南：</p>\n        <ul class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n            <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\"\
+      \ class=\"text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n            <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\"\
+      \ class=\"text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n            <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\"\
+      \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
+      \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 如何在幾分鐘內啟用 加彭 eSIM
+  title: 加彭 eSIM啟用：3個簡單步驟
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 加彭 做好準備
-    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
-      天，您可以從容地為前往 加彭 的旅行做好準備。
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30 天，您可以從容地為前往 加彭 的旅行做好準備。
     is_list: false
   - num: '2'
     title: 在設備上安裝 eSIM – 掃描 QR 碼
@@ -264,45 +255,40 @@ activation_steps:
     - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
     title: 在家中準備 – 無風險測試
-    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 加彭 時，只需開啟 eSIM
-      – 有效期將在首次連接到 Airtel Gabon / Moov Africa Gabon 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 加彭 時，只需開啟 eSIM – 有效期將在首次連接到 Airtel Gabon / Moov Africa
+      Gabon 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
     is_list: false
   - num: '4'
     title: 抵達 加彭：立即連上 5G/4G 網路
-    desc: 當您降落在 加彭（例如 利伯維爾國際機場 (LBV), 讓蒂爾港國際機場 (POG), 弗朗斯維爾國際機場 (MVB)）時，關閉飛航模式（或保持在飛航模式僅啟用
-      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 加彭。幾秒鐘內，您的設備將自動連接到 Airtel Gabon / Moov
-      Africa Gabon 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
+    desc: 當您降落在 加彭（例如 利伯維爾國際機場 (LBV), 讓蒂爾港國際機場 (POG), 弗朗斯維爾國際機場 (MVB)）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami
+      eSIM 加彭。幾秒鐘內，您的設備將自動連接到 Airtel Gabon / Moov Africa Gabon 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 加彭 eSIM：完整指南和常見問題
-  desc: 使用 加彭 eSIM 在 加彭 的交通、飯店、景點和緊急聯絡的所有細節。
+  title: 加彭 eSIM指南 2026：旅遊與數據指南
+  desc: 從利伯維爾到讓蒂爾港，使用Airtel Gabon, Moov Africa Gabon, Azur保持連線。我們的完整加彭 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
     title: 關於 加彭 eSIM 的常見問題
     questions:
-    - q: 在利伯維爾市中心使用eSIM時，哪家運營商的網速最快？
-      a: 在利伯維爾市中心，例如獨立大道和總統府周邊，Airtel Gabon通常提供最快的網速，平均下載速度約30-50 Mbps，適合串流和視訊通話。Moov
-        Africa Gabon在靠近海濱區域也有良好覆蓋，但有時在高峰時段（18:00-21:00）速度會降至10-15 Mbps。建議在抵達利伯維爾國際機場後，手動選擇Airtel網路以獲得最佳體驗。如果前往較偏遠的郊區如奧文多，Moov的信號可能更穩定。
+    - q: Airtel Gabon還是Moov Africa Gabon在加彭更好？
+      a: Airtel Gabon和Moov Africa Gabon在加彭都提供出色的覆蓋範圍。Airtel Gabon在偏遠地區的覆蓋通常更好，而Moov Africa Gabon在城市中提供競爭力的5G速度。對於大多數前往加彭的旅客來說，兩個網路都能良好運作。
     - q: 在讓蒂爾港使用eSIM時，是否需要手動選擇運營商？
-      a: 通常eSIM會自動連接到最佳可用網路，但在讓蒂爾港，由於其為石油城市，網路基礎設施良好，但有時自動選擇可能會連接到較慢的Azur網路。建議在設定中手動鎖定Airtel
-        Gabon或Moov Africa Gabon，特別是在商業區如Place de l'Indépendance附近。如果您主要待在油區，Airtel提供更穩定的4G+服務。手動選擇只需進入行動網路設定，關閉自動選擇，然後從列表中選擇Airtel即可。
+      a: 通常eSIM會自動連接到最佳可用網路，但在讓蒂爾港，由於其為石油城市，網路基礎設施良好，但有時自動選擇可能會連接到較慢的Azur網路。建議在設定中手動鎖定Airtel Gabon或Moov Africa Gabon，特別是在商業區如Place
+        de l'Indépendance附近。如果您主要待在油區，Airtel提供更穩定的4G+服務。手動選擇只需進入行動網路設定，關閉自動選擇，然後從列表中選擇Airtel即可。
     - q: 在弗朗斯維爾旅遊時，eSIM的覆蓋範圍如何？
       a: 弗朗斯維爾是加彭東部的主要城市，eSIM在市中心和機場周邊覆蓋良好，連接到Moov Africa Gabon時速度約20-40 Mbps。但在前往附近的巴泰凱高原國家公園時，信號會變得斷斷續續，特別是離開主幹道後。建議在進入國家公園前下載離線地圖。在市區內，主要街道如Avenue
         de la Paix上覆蓋穩定，可正常使用社交媒體和導航。
     - q: 在奧耶姆靠近喀麥隆邊境，eSIM的信號穩定嗎？
-      a: 奧耶姆是加彭北部的邊境城市，eSIM主要依賴Airtel Gabon的網路，在市中心如市場附近信號較強，但靠近邊境區域有時會切換到喀麥隆的漫遊網路。這可能導致數據速度下降至5-10
-        Mbps，並產生額外費用。建議在設定中關閉數據漫遊，並手動鎖定Airtel。前往市郊的農村地區時，信號可能中斷，建議使用離線地圖。
+      a: 奧耶姆是加彭北部的邊境城市，eSIM主要依賴Airtel Gabon的網路，在市中心如市場附近信號較強，但靠近邊境區域有時會切換到喀麥隆的漫遊網路。這可能導致數據速度下降至5-10 Mbps，並產生額外費用。建議在設定中關閉數據漫遊，並手動鎖定Airtel。前往市郊的農村地區時，信號可能中斷，建議使用離線地圖。
     - q: 在蘭巴雷內（Lambaréné）使用eSIM，可以用於視訊通話嗎？
-      a: 蘭巴雷內以施韋策醫院聞名，eSIM在該鎮的主要區域如醫院周邊和奧果韋河沿岸的飯店提供足夠的速度。連接到Moov Africa Gabon時，下載速度約15-25
-        Mbps，足以進行WhatsApp視訊通話，但在傍晚時段可能出現延遲。建議選擇Airtel獲得更穩定的連接。如果前往河對岸的村莊，信號可能減弱，建議提前下載資料。
+      a: 蘭巴雷內以施韋策醫院聞名，eSIM在該鎮的主要區域如醫院周邊和奧果韋河沿岸的飯店提供足夠的速度。連接到Moov Africa Gabon時，下載速度約15-25 Mbps，足以進行WhatsApp視訊通話，但在傍晚時段可能出現延遲。建議選擇Airtel獲得更穩定的連接。如果前往河對岸的村莊，信號可能減弱，建議提前下載資料。
     - q: 在加彭使用eSIM時，數據量是否有公平使用限制？
-      a: 我們的eSIM方案在加彭通常包含高速數據，但公平使用政策（FUP）適用於每日超過5 GB的使用量。例如，如果您一天內觀看大量串流影片，速度可能會從30
-        Mbps降至2 Mbps，但仍足以收發訊息和瀏覽網頁。在利伯維爾等城市，降速後仍可使用Google Maps和導航。建議在飯店使用Wi-Fi下載大型檔案，節省行動數據。
+      a: 我們的eSIM方案在加彭通常包含高速數據，但公平使用政策（FUP）適用於每日超過5 GB的使用量。例如，如果您一天內觀看大量串流影片，速度可能會從30 Mbps降至2 Mbps，但仍足以收發訊息和瀏覽網頁。在利伯維爾等城市，降速後仍可使用Google
+        Maps和導航。建議在飯店使用Wi-Fi下載大型檔案，節省行動數據。
     - q: 在加彭偏遠地區如馬科庫（Makokou），eSIM能否正常運作？
-      a: 馬科庫位於加彭東北部，靠近伊溫多國家公園，eSIM在該鎮周邊有零星的4G覆蓋，主要來自Airtel Gabon。在鎮中心如市場附近，速度可達10-15
-        Mbps，但進入森林保護區後信號會消失。建議在進入偏遠地區前下載離線地圖和娛樂內容。我們的eSIM在主要城鎮之間的主要道路上有一定覆蓋，但不要依賴導航。
+      a: 馬科庫位於加彭東北部，靠近伊溫多國家公園，eSIM在該鎮周邊有零星的4G覆蓋，主要來自Airtel Gabon。在鎮中心如市場附近，速度可達10-15 Mbps，但進入森林保護區後信號會消失。建議在進入偏遠地區前下載離線地圖和娛樂內容。我們的eSIM在主要城鎮之間的主要道路上有一定覆蓋，但不要依賴導航。
     - q: 在加彭長期使用eSIM，如何避免意外扣費？
       a: 我們的eSIM方案為預付費，無隱藏費用。但為避免自動續費，建議在不需要時從帳戶管理頁面取消自動充值。在加彭，留意不要意外啟用數據漫遊，特別是靠近邊境時。例如，在奧耶姆靠近喀麥隆，或法國維爾靠近剛果共和國，關閉漫遊可防止連接到鄰國網路。另外，定期檢查用量，確保不超過公平使用上限。
   - id: faq-airport
@@ -318,8 +304,7 @@ faq_section:
     - q: 在弗朗斯維爾機場，eSIM需要手動設定APN嗎？
       a: 通常我們的eSIM會自動設定APN，但在弗朗斯維爾機場（MVB）如果無法連線，可以手動輸入APN："internet"。機場航廈較小，但Airtel和Moov的信號覆蓋良好。建議在等待行李時檢查連線，若無訊號可重啟手機。機場內有免費Wi-Fi，可用於設定APN。
     - q: 從利伯維爾機場搭計程車到市區，eSIM導航穩定嗎？
-      a: 從利伯維爾機場到市區約20分鐘車程，eSIM沿著主要道路如Boulevard de l'Indépendance提供穩定的4G信號，導航應用如Google
-        Maps可正常使用。但在通往市區的橋樑附近，信號可能短暫下降，但不會影響路線。建議使用離線地圖備用，因為部分計程車司機可能不熟悉道路。
+      a: 從利伯維爾機場到市區約20分鐘車程，eSIM沿著主要道路如Boulevard de l'Indépendance提供穩定的4G信號，導航應用如Google Maps可正常使用。但在通往市區的橋樑附近，信號可能短暫下降，但不會影響路線。建議使用離線地圖備用，因為部分計程車司機可能不熟悉道路。
     - q: 在利伯維爾機場可以購買當地SIM卡備用嗎？
       a: 利伯維爾國際機場入境大廳有Airtel和Moov的櫃檯，可以購買預付SIM卡，價格約1000-5000 XAF（約2-8美元）。但若您已購買我們的eSIM，通常無需額外購買，因為eSIM覆蓋範圍更廣且無需換卡。如果擔心備用，可以購買一張當地SIM卡，但注意需要護照註冊。
   - id: faq-transport
@@ -336,19 +321,16 @@ faq_section:
     - q: 在奧耶姆搭乘共乘小巴（Taxi-brousse），eSIM導航可靠嗎？
       a: 奧耶姆的共乘小巴主要往返市場和邊境，eSIM在市中心區域提供穩定導航，但前往偏遠村莊時信號可能中斷。建議使用離線Maps.me並提前告訴司機目的地。在車上，連線可能斷斷續續，但主要道路上有Airtel的覆蓋。
     - q: 在利伯維爾租車自駕，eSIM用於導航的數據需求大嗎？
-      a: 利伯維爾自駕是探索城市的好方式，eSIM用於Google Maps導航每小時約消耗5-10 MB數據。建議下載加彭離線地圖以節省流量。主要道路如Boulevard
-        de l'Indépendance上信號穩定，但在部分郊區如Nkembo可能出現短暫延遲。
+      a: 利伯維爾自駕是探索城市的好方式，eSIM用於Google Maps導航每小時約消耗5-10 MB數據。建議下載加彭離線地圖以節省流量。主要道路如Boulevard de l'Indépendance上信號穩定，但在部分郊區如Nkembo可能出現短暫延遲。
   - id: faq-hotels
     icon: hotel
     tab_title: 住宿
     title: 在 加彭 的飯店使用 加彭 eSIM 連線
     questions:
     - q: 在利伯維爾Radisson Blu Okoume Palace Hotel使用eSIM，網速夠快嗎？
-      a: Radisson Blu Okoume Palace Hotel位於利伯維爾市中心，靠近總統府，eSIM連接到Airtel時下載速度約40-60
-        Mbps，非常適合串流和視訊會議。飯店本身提供高速Wi-Fi，但eSIM可作為備用。在泳池或花園區域，信號依然強勁。
+      a: Radisson Blu Okoume Palace Hotel位於利伯維爾市中心，靠近總統府，eSIM連接到Airtel時下載速度約40-60 Mbps，非常適合串流和視訊會議。飯店本身提供高速Wi-Fi，但eSIM可作為備用。在泳池或花園區域，信號依然強勁。
     - q: 在讓蒂爾港Hotel Tropicana使用eSIM，能否觀看Netflix？
-      a: Hotel Tropicana位於讓蒂爾港海濱，eSIM連接到Moov Africa時速度約25-35 Mbps，可以流暢觀看Netflix高清影片。但晚上尖峰時段可能降至10-15
-        Mbps，建議使用飯店Wi-Fi備用。如果偏愛隱私，eSIM是穩定的選擇。
+      a: Hotel Tropicana位於讓蒂爾港海濱，eSIM連接到Moov Africa時速度約25-35 Mbps，可以流暢觀看Netflix高清影片。但晚上尖峰時段可能降至10-15 Mbps，建議使用飯店Wi-Fi備用。如果偏愛隱私，eSIM是穩定的選擇。
     - q: 在弗朗斯維爾的飯店裡，eSIM信號強嗎？
       a: 弗朗斯維爾的飯店如Hotel Vénus，eSIM在房間內信號良好，連接到Airtel時約20-30 Mbps。但在內側房間可能信號稍弱。前台通常提供Wi-Fi，但速度不如4G。建議選擇靠近窗戶的位置以獲得最佳信號。
     - q: 利伯維爾的飯店是否提供免費Wi-Fi，與eSIM相比如何？
@@ -375,8 +357,8 @@ faq_section:
     tab_title: 社交媒體
     title: 透過 加彭 eSIM 在 加彭 使用通訊軟體和社群網站
     questions:
-    - q: 在利伯維爾使用eSIM上傳Instagram圖片，速度快嗎？
-      a: 在利伯維爾市中心，eSIM連接到Airtel時上傳速度約10-15 Mbps，上傳一張高解析度圖片約需2-3秒。在獨立大道或海濱等熱門打卡點，速度穩定。晚上在餐廳聚集區如Mbataville，上傳速度可能稍慢但可接受。
+    - q: 去加彭旅行需要多少數據量？
+      a: 輕度使用者(地圖+訊息)約300MB/天，中度(社群+照片)約700MB/天，重度(串流+視訊)選擇無限方案。大多數旅客在加彭標準行程中選擇5GB/15天已足夠。
     - q: 在讓蒂爾港用eSIM進行Facebook直播，流暢嗎？
       a: 讓蒂爾港的4G覆蓋良好，eSIM進行Facebook直播時，以720p解析度很流暢，延遲約2-3秒。建議在商業區如Place de l'Indépendance直播以獲最佳效果。離島或海灘區域信號較弱，可能出現卡頓。
     - q: 在弗朗斯維爾使用eSIM玩線上遊戲，延遲高嗎？
@@ -397,8 +379,7 @@ faq_section:
     - q: 在讓蒂爾港遇到醫療緊急情況，eSIM能用於視訊問診嗎？
       a: 讓蒂爾港有良好4G覆蓋，eSIM支援視訊通話，可用於遠距醫療諮詢。但部分醫院如Centre Hospitalier de Port-Gentil提供線上服務。建議先撥打1300叫救護車，eSIM保持通話穩定。
     - q: 在弗朗斯維爾遭遇搶劫，eSIM報警是否及時？
-      a: 弗朗斯維爾警察局可撥打1730，eSIM信號良好可快速接通。但建議確保手機電量充足，並將位置分享給警方。市中心警察局位於Avenue de la
-        Paix附近。
+      a: 弗朗斯維爾警察局可撥打1730，eSIM信號良好可快速接通。但建議確保手機電量充足，並將位置分享給警方。市中心警察局位於Avenue de la Paix附近。
     - q: 在奧耶姆邊境地區護照遺失，eSIM如何聯繫大使館？
       a: 奧耶姆靠近喀麥隆邊境，eSIM可撥打中國大使館在加彭的24小時領事保護電話：+241 07 50 96 96。或聯繫法國大使館等。建議先前往當地警察局報案。eSIM在邊境城鎮覆蓋良好。
 related_products:

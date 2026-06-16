@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Bangladesh eSIM | Prepagato senza vincoli"
-  description: "Per il tuo viaggio in Bangladesh, la eSIM Roami è operativa in 2 minuti. Attivazione rapida, senza stress, connessione immediata all'arrivo. Copre tutte le regioni."
+  title: Bangladesh eSIM | Prepagato senza vincoli
+  description: Per il tuo viaggio in Bangladesh, la eSIM Roami è operativa in 2 minuti. Attivazione rapida, senza stress,
+    connessione immediata all'arrivo. Copre tutte le regioni.
   keywords: eSIM Bangladesh, piano eSIM Bangladesh, migliore eSIM Bangladesh, Bangladesh dati, Grameenphone Bangladesh, Robi
     Bangladesh, Banglalink Bangladesh, eSIM Dacca, eSIM Chittagong, eSIM Sylhet, internet mobile Bangladesh, 5G Bangladesh
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/bd.svg
   flag_alt: Bandiera di Bangladesh
-  title: 'eSIM Bangladesh 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Bangladesh: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Bangladesh - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Bangladesh: Velocità, Copertura & Supporto'

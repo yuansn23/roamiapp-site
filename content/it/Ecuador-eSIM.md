@@ -19,8 +19,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Ecuador eSIM | Ricarica immediata senza contratto"
-  description: "Arrivi in Ecuador? Attiva subito la tua eSIM Roami. Nessun negozio da cercare, nessuna coda. Connesso in pochi secondi. Copre tutte le regioni."
+  title: Ecuador eSIM | Ricarica immediata senza contratto
+  description: Arrivi in Ecuador? Attiva subito la tua eSIM Roami. Nessun negozio da cercare, nessuna coda. Connesso in pochi
+    secondi. Copre tutte le regioni.
   keywords: eSIM Ecuador, piano eSIM Ecuador, migliore eSIM Ecuador, Ecuador dati, Claro Ecuador, Movistar Ecuador, CNT Ecuador,
     eSIM Quito, eSIM Guayaquil, eSIM Cuenca, internet mobile Ecuador, 5G Ecuador
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/ec.svg
   flag_alt: Bandiera di Ecuador
-  title: 'eSIM Ecuador 2026: Soluzioni Dati Complete per il Tuo Viaggio'
+  title: 'eSIM Ecuador: Soluzioni Dati Complete per il Tuo Viaggio'
   subtitle: Niente costi nascosti | Internet senza preoccupazioni | Supporto 24/7 - la migliore eSIM per Ecuador
 features:
   title: 'Perché i viaggiatori scelgono Roami per Ecuador: Copertura, Velocità & Servizio'

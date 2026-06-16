@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Grèce eSIM | Acheter pas cher pour voyager"
-  description: "Achetez votre eSIM Roami pour Grèce depuis votre canape. Valable des l'achat, prete a l'emploi a l'arrivee. Couvre tout le pays."
+  title: Grèce eSIM | Acheter pas cher pour voyager
+  description: Achetez votre eSIM Roami pour Grèce depuis votre canape. Valable des l'achat, prete a l'emploi a l'arrivee.
+    Couvre tout le pays.
   keywords: eSIM Grèce, forfait eSIM Grèce, meilleure eSIM Grèce, Grèce data, Cosmote Grèce, Vodafone GR Grèce, Wind Grèce,
     eSIM Athènes, eSIM Thessalonique, eSIM Héraklion, internet mobile Grèce, 5G Grèce
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/gr.svg
   flag_alt: Drapeau Grèce
-  title: 'eSIM Grèce 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Grèce: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Grèce
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Grèce: Réseau, Forfaits & Prix'

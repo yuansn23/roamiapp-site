@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Schweden eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Kaufen Sie Ihre Roami eSIM für Schweden bequem von zu Hause. Gültig ab Kauf, bereit bei Ankunft. Deckt alle Regionen ab."
+  title: Schweden eSIM | Günstigste Prepaid Reise eSIM
+  description: Kaufen Sie Ihre Roami eSIM für Schweden bequem von zu Hause. Gültig ab Kauf, bereit bei Ankunft. Deckt alle
+    Regionen ab.
   keywords: Schweden eSIM, Schweden Reise eSIM, beste eSIM Schweden, Schweden Datentarif, Telia Schweden, Telenor Schweden,
     Tele2 Schweden, Stockholm eSIM, Göteborg eSIM, Malmö eSIM, Schweden mobiles Internet, 5G Schweden
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/se.svg
   flag_alt: Flagge von Schweden
-  title: 'Schweden eSIM 2026: Schnelles 5G für jedes Reiseziel'
+  title: 'Schweden eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Schweden - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
   title: 'Warum Reisende Roami fuer Schweden waehlen: Geschwindigkeit, Abdeckung & Support'

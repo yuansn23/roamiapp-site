@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Dominica eSIM | Best Prepaid eSIM for Travelers"
-  description: "Planning a trip to Dominica? Get Roami's best prepaid travel eSIM with unlimited 5G data. Covers Roseau & all parishes. Instant activation."
+  title: Dominica eSIM | Best Prepaid eSIM for Travelers
+  description: Planning a trip to Dominica? Get Roami's best prepaid travel eSIM with unlimited 5G data. Covers Roseau & all
+    parishes. Instant activation.
   keywords: Dominica eSIM, buy Dominica eSIM, best Dominica eSIM, Dominica travel eSIM, Digicel Dominica, Flow Dominica, Orange
     Dominica, Roseau eSIM, Portsmouth eSIM, Marigot eSIM, Dominica prepaid eSIM, 5G Dominica eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/dm.svg
   flag_alt: Dominica Flag
-  title: 'Dominica eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'Dominica eSIM: Reliable Network & Coverage for Travelers'
   subtitle: Best prepaid eSIM for Dominica travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Dominica Travelers Choose Roami: Speed, Coverage & Support'

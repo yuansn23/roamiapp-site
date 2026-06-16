@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/cg.svg
   flag_alt: Flagge von Kongo
-  title: 'Kongo eSIM 2026: Komplette Datenlösungen für Ihre Reise'
+  title: 'Kongo eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Kongo
 features:
   title: 'Warum Reisende Roami fuer Kongo waehlen: Abdeckung, Geschwindigkeit & Service'

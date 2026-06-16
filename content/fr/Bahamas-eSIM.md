@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Bahamas eSIM | Voyager pas cher, données illimitées"
-  description: "Pour vos vacances a Bahamas, Roami est la solution eSIM la plus pratique. Prete a l'emploi des l'arrivee. Couvre tout le pays."
+  title: Bahamas eSIM | Voyager pas cher, données illimitées
+  description: Pour vos vacances a Bahamas, Roami est la solution eSIM la plus pratique. Prete a l'emploi des l'arrivee. Couvre
+    tout le pays.
   keywords: eSIM Bahamas, forfait eSIM Bahamas, meilleure eSIM Bahamas, Bahamas data, BTC Bahamas, Aliv Bahamas, Cable Bahamas
     Bahamas, eSIM Nassau, eSIM Freeport, eSIM Marsh Harbour, internet mobile Bahamas, 5G Bahamas
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/bs.svg
   flag_alt: Drapeau Bahamas
-  title: 'eSIM Bahamas 2026: Solutions Data Complètes pour Votre Voyage'
+  title: 'eSIM Bahamas: Solutions Data Complètes pour Votre Voyage'
   subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour Bahamas
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Bahamas: Couverture, Vitesse & Service'

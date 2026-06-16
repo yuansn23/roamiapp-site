@@ -19,8 +19,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     dem Code: web20'
 seo:
-  title: "Laos eSIM | Ohne Vertrag & günstig reisen"
-  description: "Brauchen Sie viel Datenvolumen in Laos? Roami bietet Tarife mit unbegrenztem Datenvolumen. Kein WLAN-Suchen mehr. Deckt alle Regionen ab."
+  title: Laos eSIM | Ohne Vertrag & günstig reisen
+  description: Brauchen Sie viel Datenvolumen in Laos? Roami bietet Tarife mit unbegrenztem Datenvolumen. Kein WLAN-Suchen
+    mehr. Deckt alle Regionen ab.
   keywords: Laos eSIM, Laos Reise eSIM, beste eSIM Laos, Laos Datentarif, Lao Telecom Laos, Unitel Laos, Beeline Laos, Vientiane
     eSIM, Luang Prabang eSIM, Pakse eSIM, Laos mobiles Internet, 5G Laos
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/la.svg
   flag_alt: Flagge von Laos
-  title: 'Laos eSIM 2026: Komplette Datenlösungen für Ihre Reise'
+  title: 'Laos eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Laos
 features:
   title: 'Warum Reisende Roami fuer Laos waehlen: Abdeckung, Geschwindigkeit & Service'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Luxemburg eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Bereiten Sie Ihre Reise nach Luxemburg mit Roami vor. Unsere eSIM begleitet Sie überall hin für eine sorgenfreie Reise. Deckt alle Regionen ab."
+  title: Luxemburg eSIM | Günstigste Prepaid Reise eSIM
+  description: Bereiten Sie Ihre Reise nach Luxemburg mit Roami vor. Unsere eSIM begleitet Sie überall hin für eine sorgenfreie
+    Reise. Deckt alle Regionen ab.
   keywords: Luxemburg eSIM, Luxemburg Reise eSIM, beste eSIM Luxemburg, Luxemburg Datentarif, POST Luxemburg, Tango Luxemburg,
     Orange Luxemburg, Luxemburg-Stadt eSIM, Esch-sur-Alzette eSIM, Differdingen eSIM, Luxemburg mobiles Internet, 5G Luxemburg
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/lu.svg
   flag_alt: Flagge von Luxemburg
-  title: 'Luxemburg eSIM 2026: Überall verbunden bleiben'
+  title: 'Luxemburg eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Luxemburg
 features:
   title: 'Warum Reisende Roami fuer Luxemburg waehlen: Tarife, Netzwerk & Support'

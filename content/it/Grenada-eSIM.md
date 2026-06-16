@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Grenada eSIM | Dati illimitati per viaggiare"
-  description: "La eSIM Roami per Grenada offre una connessione 5G veloce e stabile. Perfetta per chi viaggia e vuole restare sempre online. Copre tutte le regioni."
+  title: Grenada eSIM | Dati illimitati per viaggiare
+  description: La eSIM Roami per Grenada offre una connessione 5G veloce e stabile. Perfetta per chi viaggia e vuole restare
+    sempre online. Copre tutte le regioni.
   keywords: eSIM Grenada, piano eSIM Grenada, migliore eSIM Grenada, Grenada dati, FLOW Grenada, Digicel Grenada, Lime Grenada,
     eSIM St. George's, eSIM Grenville, eSIM Gouyave, internet mobile Grenada, 5G Grenada
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/gd.svg
   flag_alt: Bandiera di Grenada
-  title: 'eSIM Grenada 2026: Soluzioni Dati Complete per il Tuo Viaggio'
+  title: 'eSIM Grenada: Soluzioni Dati Complete per il Tuo Viaggio'
   subtitle: Niente costi nascosti | Internet senza preoccupazioni | Supporto 24/7 - la migliore eSIM per Grenada
 features:
   title: 'Perché i viaggiatori scelgono Roami per Grenada: Copertura, Velocità & Servizio'

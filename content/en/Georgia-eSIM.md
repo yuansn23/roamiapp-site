@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Georgia eSIM | Best Travel Data Plan for Explorers"
-  description: "Explore Georgia with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Tbilisi, Batumi & Kutaisi. Instant activation. Plans from $1.99."
+  title: Georgia eSIM | Best Travel Data Plan for Explorers
+  description: Explore Georgia with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Tbilisi, Batumi
+    & Kutaisi. Instant activation. Plans from $1.99.
   keywords: Georgia eSIM, buy Georgia eSIM, best Georgia eSIM, Georgia travel eSIM, MagtiCom Georgia, Silknet Georgia, Cellfie
     Georgia, Tbilisi eSIM, Batumi eSIM, Kutaisi eSIM, Georgia prepaid eSIM, 5G Georgia eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/ge.svg
   flag_alt: Georgia Flag
-  title: 'Georgia eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Georgia eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Georgia
 features:
   title: 'Why Georgia Travelers Choose Roami: Network, Plans & Value'

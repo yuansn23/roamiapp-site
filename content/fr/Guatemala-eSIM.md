@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Guatemala eSIM | Acheter pas cher, données illimitées"
-  description: "Partez pour Guatemala avec Roami. L'activation de votre eSIM prend moins de 2 minutes. Simple comme un clic. Couvre tout le pays."
+  title: Guatemala eSIM | Acheter pas cher, données illimitées
+  description: Partez pour Guatemala avec Roami. L'activation de votre eSIM prend moins de 2 minutes. Simple comme un clic.
+    Couvre tout le pays.
   keywords: eSIM Guatemala, forfait eSIM Guatemala, meilleure eSIM Guatemala, Guatemala data, Tigo Guatemala, Claro Guatemala,
     Movistar Guatemala, eSIM Guatemala Ciudad, eSIM Antigua, eSIM Quetzaltenango, internet mobile Guatemala, 5G Guatemala
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/gt.svg
   flag_alt: Drapeau Guatemala
-  title: 'eSIM Guatemala 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Guatemala: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Guatemala
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Guatemala: Réseau, Forfaits & Prix'

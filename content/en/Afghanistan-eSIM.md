@@ -44,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/af.svg
   flag_alt: Afghanistan Flag
-  title: 'Afghanistan eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Afghanistan eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Best prepaid eSIM for Afghanistan travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Afghanistan Travelers Choose Roami: Speed, Coverage & Support'

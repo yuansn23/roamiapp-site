@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/td.svg
   flag_alt: Flagge von Tschad
-  title: 'Tschad eSIM 2026: Komplette Datenlösungen für Ihre Reise'
+  title: 'Tschad eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Tschad
 features:
   title: 'Warum Reisende Roami fuer Tschad waehlen: Abdeckung, Geschwindigkeit & Service'

@@ -45,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/ba.svg
   flag_alt: Bosnia and Herzegovina Flag
-  title: 'Bosnia and Herzegovina eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Bosnia and Herzegovina eSIM: Complete Data Solutions for Your Trip'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Bosnia and Herzegovina
 features:
   title: 'Why Bosnia and Herzegovina Travelers Choose Roami: Network, Plans & Value'

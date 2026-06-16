@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Tunesien eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Bereiten Sie Ihre Reise nach Tunesien mit Roami vor. Unsere eSIM begleitet Sie überall hin für eine sorgenfreie Reise. Deckt alle Regionen ab."
+  title: Tunesien eSIM | Günstigste Prepaid Reise eSIM
+  description: Bereiten Sie Ihre Reise nach Tunesien mit Roami vor. Unsere eSIM begleitet Sie überall hin für eine sorgenfreie
+    Reise. Deckt alle Regionen ab.
   keywords: Tunesien eSIM, Tunesien Reise eSIM, beste eSIM Tunesien, Tunesien Datentarif, Tunisie Telecom Tunesien, Orange
     Tunisie Tunesien, Ooredoo Tunesien, Tunis eSIM, Sousse eSIM, Sfax eSIM, Tunesien mobiles Internet, 5G Tunesien
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/tn.svg
   flag_alt: Flagge von Tunesien
-  title: 'Tunesien eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Tunesien eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Tunesien
 features:
   title: 'Warum Reisende Roami fuer Tunesien waehlen: Netzwerk, Tarife & Preiswert'

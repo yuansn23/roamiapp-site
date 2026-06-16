@@ -44,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/kg.svg
   flag_alt: Kyrgyzstan Flag
-  title: 'Kyrgyzstan eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Kyrgyzstan eSIM: Complete Data Solutions for Your Trip'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Kyrgyzstan
 features:
   title: 'Why Kyrgyzstan Travelers Choose Roami: Network, Plans & Value'

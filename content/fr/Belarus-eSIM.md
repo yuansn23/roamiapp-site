@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/by.svg
   flag_alt: Drapeau Biélorussie
-  title: 'eSIM Biélorussie 2026: Solutions Data Complètes pour Votre Voyage'
+  title: 'eSIM Biélorussie: Solutions Data Complètes pour Votre Voyage'
   subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour Biélorussie
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Biélorussie: Couverture, Vitesse & Service'

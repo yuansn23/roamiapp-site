@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     dem Code: web20'
 seo:
-  title: "Bolivia eSIM | Internet veloce senza limiti"
-  description: "Cerchi una eSIM economica per Bolivia? Roami offre il miglior prezzo sul mercato. Nessun costo nascosto, qualità garantita. Acquista online e usa subito."
+  title: Bolivia eSIM | Internet veloce senza limiti
+  description: Cerchi una eSIM economica per Bolivia? Roami offre il miglior prezzo sul mercato. Nessun costo nascosto, qualità
+    garantita. Acquista online e usa subito.
   keywords: eSIM Bolivia, piano eSIM Bolivia, migliore eSIM Bolivia, Bolivia dati, Entel Bolivia, Tigo Bolivia, Viva Bolivia,
     eSIM La Paz, eSIM Santa Cruz de la Sierra, eSIM Cochabamba, internet mobile Bolivia, 5G Bolivia
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/bo.svg
   flag_alt: Bandiera di Bolivia
-  title: 'eSIM Bolivia 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Bolivia: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Bolivia - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Bolivia: Velocità, Copertura & Supporto'

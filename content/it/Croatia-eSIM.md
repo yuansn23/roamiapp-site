@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Croazia eSIM | Attivazione immediata conveniente"
-  description: "Resta connesso in Croazia con Roami. Naviga, condividi, guarda video in streaming con il 5G veloce. La connessione perfetta per il tuo viaggio. Copre tutte le regioni."
+  title: Croazia eSIM | Attivazione immediata conveniente
+  description: Resta connesso in Croazia con Roami. Naviga, condividi, guarda video in streaming con il 5G veloce. La connessione
+    perfetta per il tuo viaggio. Copre tutte le regioni.
   keywords: eSIM Croazia, piano eSIM Croazia, migliore eSIM Croazia, Croazia dati, A1 Hrvatska Croazia, T-Mobile Hrvatska
     Croazia, Tele2 Hrvatska Croazia, eSIM Zagabria, eSIM Spalato, eSIM Dubrovnik, internet mobile Croazia, 5G Croazia
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/hr.svg
   flag_alt: Bandiera di Croazia
-  title: 'eSIM Croazia 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Croazia: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Croazia - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Croazia: Velocità, Copertura & Supporto'

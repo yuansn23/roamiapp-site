@@ -19,7 +19,7 @@ modal:
   text_android: 'Notre service eSIM a été mis à niveau vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient
     d''une réduction de 20%, code promo : web20'
 seo:
-  title: "eSIM Kosovo dès 1,99 € : 5G sans frais d'itinérance"
+  title: 'eSIM Kosovo dès 1,99 € : 5G sans frais d''itinérance'
   description: Comparez les forfaits eSIM Kosovo avec la 5G à Pristina, Prizren, Peja. Guide de couverture Telekom Kosovo
     & IPKO & Vala. Activation QR instantanee des $1.99.
   keywords: eSIM Kosovo, forfait eSIM Kosovo, meilleure eSIM Kosovo, Kosovo data, Telekom Kosovo Kosovo, IPKO Kosovo, Vala
@@ -45,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/ko.svg
   flag_alt: Drapeau Kosovo
-  title: 'eSIM Kosovo 2026: Restez Connecté Partout'
+  title: 'eSIM Kosovo: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Kosovo
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Kosovo: Forfaits, Réseau & Support'

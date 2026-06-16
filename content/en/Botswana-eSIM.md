@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Botswana eSIM | Best Prepaid eSIM for Travelers"
-  description: "Stay connected in Botswana. Unlimited 5G data with instant activation. Covers Gaborone, Francistown & Maun. Instant activation Buy your plan online today."
+  title: Botswana eSIM | Best Prepaid eSIM for Travelers
+  description: Stay connected in Botswana. Unlimited 5G data with instant activation. Covers Gaborone, Francistown & Maun.
+    Instant activation Buy your plan online today.
   keywords: Botswana eSIM, buy Botswana eSIM, best Botswana eSIM, Botswana travel eSIM, Mascom Botswana, Orange Botswana,
     BTC Botswana, Gaborone eSIM, Francistown eSIM, Maun eSIM, Botswana prepaid eSIM, 5G Botswana eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/bw.svg
   flag_alt: Botswana Flag
-  title: 'Botswana eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Botswana eSIM: Stay Connected Everywhere You Go'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Botswana travelers
 features:
   title: 'Why Botswana Travelers Choose Roami: Coverage, Speed & Service'

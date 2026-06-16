@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Maroc eSIM | Activation rapide, pas d'engagement"
-  description: "Commandez votre eSIM prepayee pour Maroc sur Roami. Simple, rapide, et vous etes connecte avant meme d'arriver. Couvre tout le pays."
+  title: Maroc eSIM | Activation rapide, pas d'engagement
+  description: Commandez votre eSIM prepayee pour Maroc sur Roami. Simple, rapide, et vous etes connecte avant meme d'arriver.
+    Couvre tout le pays.
   keywords: eSIM Maroc, forfait eSIM Maroc, meilleure eSIM Maroc, Maroc data, Maroc Telecom Maroc, Orange Maroc, Inwi Maroc,
     eSIM Casablanca, eSIM Marrakech, eSIM Rabat, internet mobile Maroc, 5G Maroc
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ma.svg
   flag_alt: Drapeau Maroc
-  title: 'eSIM Maroc 2026: Restez Connecté Partout'
+  title: 'eSIM Maroc: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Maroc
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Maroc: Forfaits, Réseau & Support'

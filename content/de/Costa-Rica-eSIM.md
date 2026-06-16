@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Costa Rica eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Die Roami eSIM für Costa Rica ist in wenigen Sekunden aktiviert. Code per Email erhalten und loslegen. Deckt alle Regionen ab."
+  title: Costa Rica eSIM | Günstigste Prepaid Reise eSIM
+  description: Die Roami eSIM für Costa Rica ist in wenigen Sekunden aktiviert. Code per Email erhalten und loslegen. Deckt
+    alle Regionen ab.
   keywords: Costa Rica eSIM, Costa Rica Reise eSIM, beste eSIM Costa Rica, Costa Rica Datentarif, Kölbi Costa Rica, Claro
     Costa Rica, Movistar Costa Rica, San José eSIM, Alajuela eSIM, Liberia eSIM, Costa Rica mobiles Internet, 5G Costa Rica
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/cr.svg
   flag_alt: Flagge von Costa Rica
-  title: 'Costa Rica eSIM 2026: Überall verbunden bleiben'
+  title: 'Costa Rica eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Costa Rica
 features:
   title: 'Warum Reisende Roami fuer Costa Rica waehlen: Tarife, Netzwerk & Support'

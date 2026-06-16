@@ -19,8 +19,9 @@ modal:
   text_android: 'Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d''une
     réduction de 20 %, code promo : web20'
 seo:
-  title: "Taïwan eSIM | Acheter prépayé, activation immédiate"
-  description: "Besoin de beaucoup de data a Taïwan? Roami propose des forfaits avec donnees illimitees. Plus besoin de chercher le WiFi. Couvre tout le pays."
+  title: Taïwan eSIM | Acheter prépayé, activation immédiate
+  description: Besoin de beaucoup de data a Taïwan? Roami propose des forfaits avec donnees illimitees. Plus besoin de chercher
+    le WiFi. Couvre tout le pays.
   keywords: eSIM Taïwan, forfait eSIM Taïwan, meilleure eSIM Taïwan, Taïwan data, Chunghwa Telecom Taïwan, FarEasTone Taïwan,
     Taiwan Mobile Taïwan, eSIM Taipei, eSIM Nouveau Taipei, eSIM Taichung, internet mobile Taïwan, 5G Taïwan
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/tw.svg
   flag_alt: Drapeau Taïwan
-  title: 'eSIM Taïwan 2026: Solutions Data Complètes pour Votre Voyage'
+  title: 'eSIM Taïwan: Solutions Data Complètes pour Votre Voyage'
   subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour Taïwan
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Taïwan: Couverture, Vitesse & Service'

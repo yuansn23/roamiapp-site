@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Neuseeland eSIM | Beste Prepaid eSIM für die Reise"
-  description: "Roami macht Ihre Reise nach Neuseeland einfacher. Eine eSIM, die Sie vor Abreise herunterladen – bereit bei Ankunft. Deckt beide Inseln Neuseelands ab."
+  title: Neuseeland eSIM | Beste Prepaid eSIM für die Reise
+  description: Roami macht Ihre Reise nach Neuseeland einfacher. Eine eSIM, die Sie vor Abreise herunterladen – bereit bei
+    Ankunft. Deckt beide Inseln Neuseelands ab.
   keywords: Neuseeland eSIM, Neuseeland Reise eSIM, beste eSIM Neuseeland, Neuseeland Datentarif, Spark Neuseeland, Vodafone
     Neuseeland, 2degrees Neuseeland, Auckland eSIM, Wellington eSIM, Christchurch eSIM, Neuseeland mobiles Internet, 5G Neuseeland
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/nz.svg
   flag_alt: Flagge von Neuseeland
-  title: 'Neuseeland eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Neuseeland eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Neuseeland
 features:
   title: 'Warum Reisende Roami fuer Neuseeland waehlen: Netzwerk, Tarife & Preiswert'

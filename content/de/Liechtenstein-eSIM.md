@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/li.svg
   flag_alt: Flagge von Liechtenstein
-  title: 'Liechtenstein eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Liechtenstein eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Liechtenstein
 features:
   title: 'Warum Reisende Roami fuer Liechtenstein waehlen: Netzwerk, Tarife & Preiswert'

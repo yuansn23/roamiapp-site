@@ -1,5 +1,5 @@
 ---
-title: 南非 eSIM 方案 | 南非 eSIM | Roami
+title: '南非 eSIM 2026: 城市與覆蓋 | Roami'
 date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
@@ -13,14 +13,13 @@ country_meta:
 modal:
   title: 服務更新！
   btn_text: 繼續
-  text_default: |-
-    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
-  text_android: |-
-    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
+  text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
+  text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
   title: "南非eSIM｜30天15G上網方案，吃到飽不降速"
   description: "計畫去南非長途旅行需要穩定上網？Roami 30天eSIM上網方案剛剛好。5G高速網路吃到飽一整月跨國上網不斷線，長途旅行首選方案推薦，查地圖打卡分享都不卡頓。"
-  keywords: 南非 eSIM, 南非上網, 開普敦旅遊, 約翰尼斯堡網路, Vodacom, MTN, Cell C, 南非景點, 南非旅行
+  keywords: 南非 eSIM, 南非 eSIM方案, 最佳南非 eSIM, 南非上網, Vodacom 南非, MTN 南非, Cell C 南非, 開普敦 eSIM, 約翰尼斯堡 eSIM, 德班 eSIM, 南非行動網路, 5G
+    南非
 order_summary:
   title: 選擇 南非 eSIM
   label_data: 數據量
@@ -40,36 +39,36 @@ banner:
 hero:
   flag_image: img/flags/za.svg
   flag_alt: 南非 國旗
-  title: 南非 eSIM - 旅行計劃
-  subtitle: 南非 eSIM | 支援熱點分享 | 100%退款保證 | 無隱藏費用
+  title: '南非 eSIM: 隨時隨地保持連線'
+  subtitle: 高速5G | 5分鐘取得QR碼 | 24/7客服 - 南非最佳預付eSIM
 features:
-  title: 為什麼 Roami 的 南非 eSIM 比競爭對手更好？
+  title: 為什麼旅客選擇Roami的南非 eSIM：方案、網路與支援
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
     title: 即時 QR 碼
-    desc: 5 分鐘內交付
+    desc: 5分鐘內透過Email收到您的南非 eSIM QR碼
   - icon: headset
     color: from-emerald-400 to-emerald-600
     title: 24/7 支援
-    desc: 隨時在線
+    desc: 為您的南非之旅提供24/7客服 - 真人服務，非機器人
   - icon: shield-check
     color: from-amber-400 to-amber-600
     title: 保證
-    desc: 買家保障
+    desc: 若南非 eSIM無法啟用，100%全額退款
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: 熱點分享
-    desc: 與他人分享數據
+    desc: 與旅伴分享您的南非數據，無限制
   - icon: file-x
     color: from-rose-400 to-rose-600
     title: 無合約
-    desc: 隨時取消
+    desc: 無合約，隨時取消 - 南非旅行完美選擇
   - icon: radio-tower
     color: from-blue-400 to-blue-600
     title: 自動選擇
-    desc: 最佳本地網路
-plans_title: 為您的旅程選擇理想的 南非 eSIM
+    desc: 自動連線南非最佳電信商，取得最強訊號
+plans_title: 購買南非 eSIM：適合各種旅程的方案
 plans_data:
   30 天:
   - spec: 20GB
@@ -265,12 +264,12 @@ plans_data:
     daily: '6.00'
 discount_banner:
   title: 南非 eSIM 特別折扣！
-  desc_html: |-
-    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 南非 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  desc_html: 結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 南非
+    eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
   btn_text: 儲存折扣
   validity: 有效期：3 天
 network_coverage:
-  title: 網路覆蓋詳情
+  title: 南非 eSIM覆蓋範圍：行動電信商指南
   supports_text: 支援：
   service_details:
     title: 服務詳情
@@ -278,8 +277,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: 覆蓋範圍
-      desc: 在整個南非享受廣泛的網路覆蓋，包括開普敦、約翰尼斯堡、德班、普利托里亞等城市。我們的南非 eSIM 無縫連接到 Vodacom、MTN、Cell
-        C 的網路。
+      desc: 享受覆蓋全南非的全面網路，包括開普敦, 約翰尼斯堡, 德班, 普利托里亞。您的eSIM會自動連線至Vodacom, MTN, Cell C的強大網路，在市區、旅遊熱點和主要交通路線提供穩定訊號。
     - icon: zap
       color: text-amber-500
       title: 交付時間
@@ -289,21 +287,21 @@ network_coverage:
       title: 熱點分享
       desc: 熱點分享無限制。
   carriers:
-    title: 行動網路
+    title: Vodacom, MTN & Cell C：南非 eSIM電信商
     badge: 官方合作夥伴
     items:
     - name: Vodacom
-      coverage: 低延遲
+      coverage: 最佳整體覆蓋
       network: 5G/4G/LTE 網路
     - name: MTN
-      coverage: 自有 IP
+      coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 南非 eSIM：重要提醒
+  title: 南非 eSIM秘訣：出發前須知
   items:
   - icon: 📱
-    html: |-
-      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
+    html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
+      transition-colors">eSIM 相容性</a>。
   - icon: ✈️
     html: 建議抵達 南非 後再啟用 eSIM。
   - icon: ⏰
@@ -317,29 +315,22 @@ reminders:
     desc: 不確定嗎？立即在您的手機上檢查：
     instruction: 在鍵盤上撥打：
     code: '*#06#'
-    result_html: |-
-      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
-    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
-      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
-      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
-      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
-      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
-      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
-      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
-      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
-      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
-      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
-      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
-      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
-      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
-      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
+    result_html: 如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
+      號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n        <p class=\"text-sm font-semibold mb-2\"\
+      >\U0001F4DA 實用指南：</p>\n        <ul class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n            <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\"\
+      \ class=\"text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n            <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\"\
+      \ class=\"text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n            <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\"\
+      \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
+      \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 如何在幾分鐘內啟用 南非 eSIM
+  title: 南非 eSIM啟用：3個簡單步驟
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 南非 做好準備
-    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
-      天，您可以從容地為前往 南非 的旅行做好準備。
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30 天，您可以從容地為前往 南非 的旅行做好準備。
     is_list: false
   - num: '2'
     title: 在設備上安裝 eSIM – 掃描 QR 碼
@@ -353,52 +344,42 @@ activation_steps:
     - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
     title: 在家中準備 – 無風險測試
-    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 南非 時，只需開啟 eSIM
-      – 有效期將在首次連接到 Vodacom / MTN 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 南非 時，只需開啟 eSIM – 有效期將在首次連接到 Vodacom / MTN 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
     is_list: false
   - num: '4'
     title: 抵達 南非：立即連上 5G/4G 網路
-    desc: 當您降落在 南非（例如 開普敦國際機場 (CPT), 約翰尼斯堡奧利弗·坦博國際機場 (JNB), 德班沙卡國王國際機場 (DUR)）時，關閉飛航模式（或保持在飛航模式僅啟用
-      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 南非。幾秒鐘內，您的設備將自動連接到 Vodacom / MTN 提供的最快可用
-      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
+    desc: 當您降落在 南非（例如 開普敦國際機場 (CPT), 約翰尼斯堡奧利弗·坦博國際機場 (JNB), 德班沙卡國王國際機場 (DUR)）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定 → 行動服務** 並開啟您的
+      Roami eSIM 南非。幾秒鐘內，您的設備將自動連接到 Vodacom / MTN 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 南非 eSIM：完整指南和常見問題
-  desc: 使用 南非 eSIM 在 南非 的交通、飯店、景點和緊急聯絡的所有細節。
+  title: 南非 eSIM指南 2026：網路與旅遊指南
+  desc: 從開普敦到約翰尼斯堡，使用Vodacom, MTN, Cell C保持連線。我們的完整南非 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
     title: 關於 南非 eSIM 的常見問題
     questions:
-    - q: 在開普敦市中心使用 Vodacom 網路時，實際網速大概是多少？可以順暢觀看 Netflix 嗎？
-      a: 在開普敦市中心，如長街 (Long Street) 或維多利亞阿爾弗雷德碼頭廣場 (V&A Waterfront) 附近，連接到 Vodacom
-        的 4G 網路時，典型的下載速度約在 30-50 Mbps 之間。這足以流暢觀看 Netflix 的高畫質串流，甚至 4K 內容在非尖峰時段也能緩衝較少。然而，在旅遊旺季的下午時段，靠近碼頭區可能因多人使用而降至
-        10-15 Mbps，但依然能滿足 Full HD 串流。如果觀看過程中遇到卡頓，建議切換至 MTN 網路（手動選擇），因為在相同區域有時 MTN
-        的擁塞控制較佳。
-    - q: 在約翰尼斯堡的桑頓區 (Sandton) 使用 eSIM，需要特別注意哪些流量限制？
-      a: 在桑頓區，多數 eSIM 方案（如我們提供的）通常遵循公平使用原則。以每天 1GB 高速流量為例，一旦超過後速度會降為 2 Mbps，仍可正常使用
-        Google Maps、WhatsApp 及瀏覽社交媒體，但觀看 YouTube 可能需降為 480p。建議在桑頓會議中心或金融區內工作時，利用免費
-        Wi-Fi 熱點（例如許多咖啡廳提供）分流大型檔案下載，以避免觸發降速。另外，若遇到降速，可嘗試手動切換至 Cell C 網路，其在商業區有時提供較寬鬆的限速門檻。
+    - q: Vodacom還是MTN在南非更好？
+      a: Vodacom和MTN在南非都提供出色的覆蓋範圍。Vodacom在偏遠地區的覆蓋通常更好，而MTN在城市中提供競爭力的5G速度。對於大多數前往南非的旅客來說，兩個網路都能良好運作。
+    - q: 南非 eSIM在開普敦和約翰尼斯堡能正常使用嗎？
+      a: 是的，南非 eSIM在開普敦、約翰尼斯堡和其他主要城市提供出色的覆蓋。主要電信商在所有城市中心、旅遊景點和主要交通路線沿線提供強大的5G/4G網路。
     - q: 在德班的海灘（如黃金里程）使用 MTN 網路，訊號穩定嗎？適合進行視訊通話嗎？
-      a: 德班黃金里程 (Golden Mile) 一帶，包括 uShaka 海洋世界附近，MTN 的 4G 覆蓋相當良好，通常訊號滿格。視訊通話（如 Zoom
-        或 FaceTime）在大部分時間都很穩定，延遲約在 30-50 毫秒。然而，在大型活動期間（例如元旦或節慶），戶外攤販區可能出現短暫擁塞，視訊可能偶爾模糊。建議在靠近海灘後方的飯店區（如德班希爾頓酒店）進行重要通話，那裡的訊號更穩定。若要保證通話品質，可先下載
+      a: 德班黃金里程 (Golden Mile) 一帶，包括 uShaka 海洋世界附近，MTN 的 4G 覆蓋相當良好，通常訊號滿格。視訊通話（如 Zoom 或 FaceTime）在大部分時間都很穩定，延遲約在 30-50 毫秒。然而，在大型活動期間（例如元旦或節慶），戶外攤販區可能出現短暫擁塞，視訊可能偶爾模糊。建議在靠近海灘後方的飯店區（如德班希爾頓酒店）進行重要通話，那裡的訊號更穩定。若要保證通話品質，可先下載
         Speedtest App 測試，若下載速度低於 10 Mbps，則切換至 Vodacom 網路。
     - q: 在普利托里亞的聯合大廈 (Union Buildings) 附近，eSIM 的熱點分享功能可以同時給多少台裝置使用？
-      a: 我們的 eSIM 在普利托里亞市中心支援熱點分享，最多可同時連接 5 台裝置。在聯合大廈區域，使用 Vodacom 網路時共享頻寬給兩台手機和一台平板來看地圖或傳訊息完全沒有問題。但若所有裝置同時進行串流（例如一台看
-        YouTube、一台看 Netflix），則每台裝置會分配約 10-15 Mbps，足以應付 720p 串流。需注意的是，如果一天內共享流量超過總高速配額，所有連接的裝置都會降速，因此建議配額專用於導航和通訊，串流則留在飯店
-        Wi-Fi 進行。
+      a: 我們的 eSIM 在普利托里亞市中心支援熱點分享，最多可同時連接 5 台裝置。在聯合大廈區域，使用 Vodacom 網路時共享頻寬給兩台手機和一台平板來看地圖或傳訊息完全沒有問題。但若所有裝置同時進行串流（例如一台看 YouTube、一台看
+        Netflix），則每台裝置會分配約 10-15 Mbps，足以應付 720p 串流。需注意的是，如果一天內共享流量超過總高速配額，所有連接的裝置都會降速，因此建議配額專用於導航和通訊，串流則留在飯店 Wi-Fi 進行。
     - q: 在開普敦的桌山纜車站使用 eSIM 上傳社群媒體照片，速度夠快嗎？
-      a: 桌山纜車站的上行月台區域，Vodacom 和 MTN 都有 4G 訊號，上傳速度通常在 10-20 Mbps 之間，足以在幾秒鐘內上傳一張 5MB
-        的照片到 Instagram。然而，在纜車車廂內行進時，由於金屬屏蔽，訊號可能中斷，但抵達山頂後會立即恢復。建議在山頂的觀景平台（如 Maclear's
-        Beacon 附近）進行上傳，那裡的視野開闊，訊號強度更好。若遇到上傳緩慢，可嘗試切換網路；Cell C 在山頂有時表現更穩定。
+      a: 桌山纜車站的上行月台區域，Vodacom 和 MTN 都有 4G 訊號，上傳速度通常在 10-20 Mbps 之間，足以在幾秒鐘內上傳一張 5MB 的照片到 Instagram。然而，在纜車車廂內行進時，由於金屬屏蔽，訊號可能中斷，但抵達山頂後會立即恢復。建議在山頂的觀景平台（如
+        Maclear's Beacon 附近）進行上傳，那裡的視野開闊，訊號強度更好。若遇到上傳緩慢，可嘗試切換網路；Cell C 在山頂有時表現更穩定。
     - q: 在約翰尼斯堡奧利弗·坦博國際機場 (JNB) 入境後，eSIM 可以立刻使用嗎？需要額外設定嗎？
-      a: |-
-        eSIM 在購買後即時交付，抵達 JNB 機場後，只要手機已安裝 eSIM 描述檔並開啟數據漫遊，通常可以立即連接到 Vodacom 或 MTN 的網路。機場內的行李轉盤區及入境大廳訊號良好，下載速度約 20-30 Mbps。若無法自動連接，請手動選擇網路：iOS 設定 > 行動服務 > 網路選擇，手動點選 Vodacom。無需額外設定 APN，因為我們提供的 eSIM 已預先配置。建議在下飛機前先開啟 eSIM 線路，以確保落地即用。
+      a: eSIM 在購買後即時交付，抵達 JNB 機場後，只要手機已安裝 eSIM 描述檔並開啟數據漫遊，通常可以立即連接到 Vodacom 或 MTN 的網路。機場內的行李轉盤區及入境大廳訊號良好，下載速度約 20-30 Mbps。若無法自動連接，請手動選擇網路：iOS
+        設定 > 行動服務 > 網路選擇，手動點選 Vodacom。無需額外設定 APN，因為我們提供的 eSIM 已預先配置。建議在下飛機前先開啟 eSIM 線路，以確保落地即用。
     - q: 在比勒陀利亞的莫寧賽德 (Morningside) 地區，晚上使用 YouTube 會因為公平使用政策而降速嗎？
-      a: 莫寧賽德地區屬於住宅區，晚間（19:00-22:00）是家庭使用的高峰期。連接到 Vodacom 時，若每日高速流量低於 500MB 的門檻，通常不會降速；但許多
-        eSIM 方案的高速配額為 1GB/天，超過後才降為 2 Mbps。在配額內，觀看 YouTube 1080p 影片很順暢；一旦降速，只能觀看 360p。建議將串流活動安排在降速前的時段，或利用當地寬頻
-        Wi-Fi（如飯店提供）進行高畫質觀看。另外，Cell C 在該地區的公平使用政策有時較寬鬆，但訊號覆蓋略遜於 Vodacom。
+      a: 莫寧賽德地區屬於住宅區，晚間（19:00-22:00）是家庭使用的高峰期。連接到 Vodacom 時，若每日高速流量低於 500MB 的門檻，通常不會降速；但許多 eSIM 方案的高速配額為 1GB/天，超過後才降為 2 Mbps。在配額內，觀看
+        YouTube 1080p 影片很順暢；一旦降速，只能觀看 360p。建議將串流活動安排在降速前的時段，或利用當地寬頻 Wi-Fi（如飯店提供）進行高畫質觀看。另外，Cell C 在該地區的公平使用政策有時較寬鬆，但訊號覆蓋略遜於
+        Vodacom。
     - q: 在開普敦的波卡普區 (Bo-Kaap) 使用 eSIM 時，Google Maps 導航是否可靠？
       a: 波卡普區街道狹窄且多坡，但 eSIM 連接到 Vodacom 的 4G 網路時，Google Maps 導航反應迅速，定位精準。該區域的建築物密度不高，衛星訊號良好，轉彎提示非常準確。唯一的小問題是在某些彩色房屋之間的小巷，可能短暫失去
         GPS 訊號，但靠網路輔助定位仍能維持路線。為了避免意外，建議在出發前下載離線地圖（透過 Google Maps 離線區域功能），以備網路不穩定時使用。整體而言，在該區使用導航不會有太大問題。
@@ -407,9 +388,8 @@ faq_section:
     tab_title: 機場
     title: 南非 機場：如何使用 南非 eSIM
     questions:
-    - q: 在開普敦國際機場 (CPT) 到達大廳，最快在哪裡可以連上 eSIM 網路？
-      a: 在 CPT 到達大廳，位於行李轉盤區和入境大廳的交界處，訊號最強。建議您領取行李時開啟 eSIM，通常 1 分鐘內即可連接到 Vodacom。如果自動連接失敗，請前往大廳的
-        Vodacom 商店附近的長椅區，手動選擇網路。
+    - q: 我能在抵達後立即啟用南非 eSIM嗎？
+      a: 可以，您抵達後就能立即啟用南非 eSIM。使用機場免費WiFi，從Email掃描QR碼，2分鐘內即可上線。我們建議在出發前先安裝好eSIM。
     - q: 在約翰尼斯堡奧利弗·坦博國際機場 (JNB) 轉機時，eSIM 是否可以在航廈內使用？
       a: JNB 機場的國際轉機區域（如 A 航廈）覆蓋 Vodacom 和 MTN 的 4G 訊號，eSIM 可正常使用。您可以在等待轉機時瀏覽網頁或使用社交媒體。若在連接廊橋處訊號較弱，請移動至候機室靠近窗戶的位置。
     - q: 在德班沙卡國王國際機場 (DUR) 租車櫃檯附近，eSIM 的訊號強度如何？
@@ -417,19 +397,16 @@ faq_section:
     - q: 從國外飛往開普敦時，何時可以開始使用 eSIM 數據？需要在飛機降落前安裝嗎？
       a: 建議在出發前於台灣先安裝 eSIM 描述檔，避免飛行中無網路。落地開啟手機後，開啟數據漫遊並選擇 Vodacom，通常於滑行至空橋時即可連線。若無法連線，請重啟手機。
     - q: 開普敦機場是否有免費 Wi-Fi？若 eSIM 暫時無法連線，替代方案為何？
-      a: CPT 機場提供免費 Wi-Fi，但需通過簡訊驗證（收簡訊可能需要國際漫遊）。若 eSIM 異常，可先連機場 Wi-Fi 協助排除問題，或前往 Vodacom
-        櫃檯尋求協助。
+      a: CPT 機場提供免費 Wi-Fi，但需通過簡訊驗證（收簡訊可能需要國際漫遊）。若 eSIM 異常，可先連機場 Wi-Fi 協助排除問題，或前往 Vodacom 櫃檯尋求協助。
   - id: faq-transport
     icon: car
     tab_title: 交通
     title: 南非 eSIM 用於 南非 的交通和導航
     questions:
-    - q: 在開普敦搭乘 MyCiTi 公車時，使用 eSIM 查詢路線是否順暢？
-      a: MyCiTi 公車路線覆蓋主要景點，車上通常有訊號。使用 Google Maps 或 MyCiTi App 時，建議事先下載離線地圖以防郊區訊號弱。在
-        Civic Centre 站點訊號最佳。
+    - q: 我能在南非使用eSIM叫車和導航嗎？
+      a: 可以，南非 eSIM可搭配叫車App和Google地圖使用。5GB/15天方案($4.99)足夠日常導航和叫車使用。
     - q: 在約翰尼斯堡使用 Gautrain 時，地鐵內是否有網路覆蓋？可以觀看影片嗎？
-      a: Gautrain 車廂內及隧道內都有 4G 覆蓋（Vodacom/MTN），可流暢觀看 1080p 影片。不過在任何轉乘站大廳（如 Sandton
-        站）人潮眾多時可能降速。
+      a: Gautrain 車廂內及隧道內都有 4G 覆蓋（Vodacom/MTN），可流暢觀看 1080p 影片。不過在任何轉乘站大廳（如 Sandton 站）人潮眾多時可能降速。
     - q: 在開普敦搭乘 Uber 從機場到市區，路上網路訊號穩定嗎？
       a: 沿 N2 高速公路行駛時，Vodacom 訊號穩定，可順利使用 Uber App 追蹤車輛。在桌山附近隧道內可能短暫中斷，但出隧道後立即恢復。
     - q: 在德班騎乘自行車遊覽黃金里程時，eSIM 是否適合使用即時路線導航？
@@ -442,13 +419,11 @@ faq_section:
     title: 在 南非 的飯店使用 南非 eSIM 連線
     questions:
     - q: 在開普敦的 Table Bay Hotel 使用 eSIM，與飯店 Wi-Fi 相比哪個更快？
-      a: Table Bay Hotel 的免費 Wi-Fi 在尖峰時段可能較慢，但 eSIM 連接到 Vodacom 提供穩定 30-50 Mbps 速度，更適合視訊會議。建議重要工作使用
-        eSIM，一般瀏覽使用 Wi-Fi。
+      a: Table Bay Hotel 的免費 Wi-Fi 在尖峰時段可能較慢，但 eSIM 連接到 Vodacom 提供穩定 30-50 Mbps 速度，更適合視訊會議。建議重要工作使用 eSIM，一般瀏覽使用 Wi-Fi。
     - q: 在約翰尼斯堡的 Sandton Sun 飯店，eSIM 訊號是否會因為樓層而受影響？
       a: 高樓層（10 樓以上）訊號通常更強，因為較少遮蔽。低樓層可能因周圍大樓干擾而略弱，但整體仍可正常使用。若在高層遇到訊號差，可試著靠近窗戶。
     - q: 在德班的三英畝飯店使用 eSIM，能否順暢觀看串流平台？
-      a: 該飯店位於海灘附近，eSIM 連接到 MTN 時下載約 20-40 Mbps，足以串流 Netflix 1080p。晚間可能因多人使用而降速，但可切換至
-        Vodacom 改善。
+      a: 該飯店位於海灘附近，eSIM 連接到 MTN 時下載約 20-40 Mbps，足以串流 Netflix 1080p。晚間可能因多人使用而降速，但可切換至 Vodacom 改善。
     - q: 在開普敦的 Vineyard Hotel 花園區域，eSIM 訊號強度如何？適合遠距工作嗎？
       a: 花園區域覆蓋良好，Vodacom 提供約 15-25 Mbps 速度，適合電子郵件和視訊會議。若需高速下載，建議回到室內。
     - q: 在約翰尼斯堡的酒店內使用 eSIM 的熱點分享，是否會觸發降速？
@@ -458,8 +433,8 @@ faq_section:
     tab_title: 景點
     title: 南非 旅遊景點的網路：南非 eSIM
     questions:
-    - q: 在開普敦的維多利亞阿爾弗雷德碼頭廣場 (V&A Waterfront) 使用 eSIM 打卡和上傳照片流暢嗎？
-      a: V&A Waterfront 覆蓋極佳，Vodacom 上傳速度約 15-20 Mbps，適合即時上傳照片到社群平台。尖峰時段可能稍慢，但整體滿意。
+    - q: 在南非的旅遊景點有網路收訊嗎？
+      a: 南非的主要景點通常有良好的4G/5G覆蓋。偏遠地區訊號可能較弱。建議前往偏遠目的地前先下載離線地圖。
     - q: 在桌山山頂，eSIM 訊號是否穩定？可以使用直播嗎？
       a: 桌山山頂訊號穩定，Vodacom 和 MTN 皆可用，下載約 20-30 Mbps，適合短時間直播。但風大時可能影響手機散熱，建議使用穩定器。
     - q: 在克魯格國家公園內，eSIM 覆蓋範圍如何？能否在營地使用？
@@ -473,8 +448,8 @@ faq_section:
     tab_title: 社交媒體
     title: 透過 南非 eSIM 在 南非 使用通訊軟體和社群網站
     questions:
-    - q: 在開普敦使用 eSIM 瀏覽 Instagram 和 Facebook，加載圖片速度快嗎？
-      a: 開普敦市中心連接到 Vodacom 時，Instagram 圖片加載幾乎即時，影片預覽約需 2-3 秒。在郊區如 Constantia 可能稍慢，但仍可接受。
+    - q: 去南非旅行需要多少數據量？
+      a: 輕度使用者(地圖+訊息)約300MB/天，中度(社群+照片)約700MB/天，重度(串流+視訊)選擇無限方案。大多數旅客在南非標準行程中選擇5GB/15天已足夠。
     - q: 在約翰尼斯堡使用 TikTok 上傳影片，eSIM 的上傳速度足夠快嗎？
       a: 在桑頓區使用 MTN 網路，上傳 60 秒 TikTok 約需 15 秒，速度約 10-15 Mbps。晚間可能降至 5 Mbps，但仍可完成上傳。
     - q: 在德班使用 WhatsApp 傳送照片給家人，是否會因為網路延遲而很久？
@@ -488,8 +463,8 @@ faq_section:
     tab_title: 緊急情況
     title: 在 南非 使用 南非 eSIM 進行緊急聯絡
     questions:
-    - q: 在開普敦遇到緊急情況，如何透過 eSIM 撥打求救電話？
-      a: 可撥打 112 全國緊急號碼，即使沒有 sim 卡也能撥通。eSIM 可確保網路連線，用於傳送定位給親友。
+    - q: 我能在南非 eSIM上使用WhatsApp、FaceTime和微信嗎？
+      a: 可以！南非 eSIM支援WhatsApp音訊/視訊通話、FaceTime、微信和Zoom，無限制。透過您喜愛的應用程式與家人保持聯繫。
     - q: 在約翰尼斯堡手機沒電又需要求救，是否有公共電話或支援？
       a: 桑頓區設有公共電話，但多數人使用手機。建議攜帶行動電源，並記住警察局位置（如桑頓警察局）。
     - q: 在偏遠地區（如克魯格國家公園）eSIM 斷訊時，該如何求助？

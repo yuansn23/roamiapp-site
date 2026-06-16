@@ -19,8 +19,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Romania eSIM | Internet veloce senza limiti"
-  description: "Viaggia in Romania senza pensieri. Roami non ti lega ad alcun abbonamento. Decidi tu quanto e quando usarla. Semplice e onesto. Copre tutte le regioni."
+  title: Romania eSIM | Internet veloce senza limiti
+  description: Viaggia in Romania senza pensieri. Roami non ti lega ad alcun abbonamento. Decidi tu quanto e quando usarla.
+    Semplice e onesto. Copre tutte le regioni.
   keywords: eSIM Romania, piano eSIM Romania, migliore eSIM Romania, Romania dati, Orange Romania, Vodafone Romania, Telekom
     Romania, eSIM Bucarest, eSIM Cluj-Napoca, eSIM Timișoara, internet mobile Romania, 5G Romania
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/ro.svg
   flag_alt: Bandiera di Romania
-  title: 'eSIM Romania 2026: Rete Affidabile per Viaggiatori'
+  title: 'eSIM Romania: Rete Affidabile per Viaggiatori'
   subtitle: Attivazione immediata | 5G veloce | Supporto 24/7 - la migliore eSIM prepagata per Romania
 features:
   title: 'Perché i viaggiatori scelgono Roami per Romania: Rete, Piani & Prezzo'

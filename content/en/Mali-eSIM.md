@@ -44,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/ml.svg
   flag_alt: Mali Flag
-  title: 'Mali eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Mali eSIM: Fast 5G Data for Every City & Destination'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Mali travelers
 features:
   title: 'Why Mali Travelers Choose Roami: Coverage, Speed & Service'

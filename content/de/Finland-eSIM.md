@@ -19,8 +19,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Finnland eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Für Ihre Reise nach Finnland ist Roami die praktischste eSIM Lösung. Einsatzbereit ab dem ersten Moment. Deckt alle Regionen ab."
+  title: Finnland eSIM | Günstigste Prepaid Reise eSIM
+  description: Für Ihre Reise nach Finnland ist Roami die praktischste eSIM Lösung. Einsatzbereit ab dem ersten Moment. Deckt
+    alle Regionen ab.
   keywords:
   - Finnland eSIM
   - Finnland Reise eSIM
@@ -53,7 +54,7 @@ banner:
 hero:
   flag_image: img/flags/fi.svg
   flag_alt: Flagge von Finnland
-  title: 'Finnland eSIM 2026: Komplette Datenlösungen für Ihre Reise'
+  title: 'Finnland eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Finnland
 features:
   title: 'Warum Reisende Roami fuer Finnland waehlen: Abdeckung, Geschwindigkeit & Service'

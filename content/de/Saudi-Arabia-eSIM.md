@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Saudi-Arabien eSIM | Vergleichen & besten Tarif finden"
-  description: "Roami für Saudi-Arabien: schnelle Installation und sofortige Aktivierung. Kein Suchen nach einem Shop vor Ort. Deckt alle Regionen ab."
+  title: Saudi-Arabien eSIM | Vergleichen & besten Tarif finden
+  description: 'Roami für Saudi-Arabien: schnelle Installation und sofortige Aktivierung. Kein Suchen nach einem Shop vor
+    Ort. Deckt alle Regionen ab.'
   keywords: Saudi-Arabien eSIM, Saudi-Arabien Reise eSIM, beste eSIM Saudi-Arabien, Saudi-Arabien Datentarif, STC Saudi-Arabien,
     Mobily Saudi-Arabien, Zain Saudi-Arabien, Riad eSIM, Dschidda eSIM, Mekka eSIM, Saudi-Arabien mobiles Internet, 5G Saudi-Arabien
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/sa.svg
   flag_alt: Flagge von Saudi-Arabien
-  title: 'Saudi-Arabien eSIM 2026: Komplette Datenlösungen für Ihre Reise'
+  title: 'Saudi-Arabien eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Saudi-Arabien
 features:
   title: 'Warum Reisende Roami fuer Saudi-Arabien waehlen: Abdeckung, Geschwindigkeit & Service'

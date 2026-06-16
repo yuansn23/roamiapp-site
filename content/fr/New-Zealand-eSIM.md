@@ -19,8 +19,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Nouv-Zélande eSIM | Meilleur prix sans engagement"
-  description: "Roami simplifie vos voyage a Nouvelle-Zélande. Une eSIM telechargeable avant le depart, et vous voila pare pour l'aventure. Couvre les deux îles de Nouvelle-Zélande."
+  title: Nouv-Zélande eSIM | Meilleur prix sans engagement
+  description: Roami simplifie vos voyage a Nouvelle-Zélande. Une eSIM telechargeable avant le depart, et vous voila pare
+    pour l'aventure. Couvre les deux îles de Nouvelle-Zélande.
   keywords: eSIM Nouvelle-Zélande, forfait eSIM Nouvelle-Zélande, meilleure eSIM Nouvelle-Zélande, Nouvelle-Zélande data,
     Spark Nouvelle-Zélande, Vodafone NZ Nouvelle-Zélande, 2degrees Nouvelle-Zélande, eSIM Auckland, eSIM Wellington, eSIM
     Christchurch, internet mobile Nouvelle-Zélande, 5G Nouvelle-Zélande
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/nz.svg
   flag_alt: Drapeau Nouvelle-Zélande
-  title: 'eSIM Nouvelle-Zélande 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Nouvelle-Zélande: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Nouvelle-Zélande
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Nouvelle-Zélande: Réseau, Forfaits & Prix'

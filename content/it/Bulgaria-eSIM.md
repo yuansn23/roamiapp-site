@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Bulgaria eSIM | Ricarica immediata senza contratto"
-  description: "La eSIM Roami per Bulgaria offre una connessione 5G veloce e stabile. Perfetta per chi viaggia e vuole restare sempre online. Copre tutte le regioni."
+  title: Bulgaria eSIM | Ricarica immediata senza contratto
+  description: La eSIM Roami per Bulgaria offre una connessione 5G veloce e stabile. Perfetta per chi viaggia e vuole restare
+    sempre online. Copre tutte le regioni.
   keywords: eSIM Bulgaria, piano eSIM Bulgaria, migliore eSIM Bulgaria, Bulgaria dati, A1 Bulgaria, Telenor Bulgaria, Vivacom
     Bulgaria, eSIM Sofia, eSIM Plovdiv, eSIM Varna, internet mobile Bulgaria, 5G Bulgaria
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/bg.svg
   flag_alt: Bandiera di Bulgaria
-  title: 'eSIM Bulgaria 2026: Rete Affidabile per Viaggiatori'
+  title: 'eSIM Bulgaria: Rete Affidabile per Viaggiatori'
   subtitle: Attivazione immediata | 5G veloce | Supporto 24/7 - la migliore eSIM prepagata per Bulgaria
 features:
   title: 'Perché i viaggiatori scelgono Roami per Bulgaria: Rete, Piani & Prezzo'

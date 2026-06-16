@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Cambodia eSIM | Fast & Reliable Prepaid Data Plan"
-  description: "Explore Cambodia with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Covers Phnom Penh, Siem Reap & Sihanoukville. Instant activation."
+  title: Cambodia eSIM | Fast & Reliable Prepaid Data Plan
+  description: Explore Cambodia with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Covers Phnom Penh,
+    Siem Reap & Sihanoukville. Instant activation.
   keywords: Cambodia eSIM, buy Cambodia eSIM, best Cambodia eSIM, Cambodia travel eSIM, Smart Cambodia, Metfone Cambodia,
     Cellcard Cambodia, Phnom Penh eSIM, Siem Reap eSIM, Sihanoukville eSIM, Cambodia prepaid eSIM, 5G Cambodia eSIM
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/kh.svg
   flag_alt: Cambodia Flag
-  title: 'Cambodia eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Cambodia eSIM: Stay Connected Everywhere You Go'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Cambodia
 features:
   title: 'Why Cambodia Travelers Choose Roami: Plans, Network & Support'

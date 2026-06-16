@@ -19,8 +19,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Paesi Bassi eSIM | Prepagato senza vincoli"
-  description: "Hai bisogno di una eSIM economica per Paesi Bassi? Roami offre qualità a un prezzo accessibile. Nessun costo extra. Copre tutte le regioni."
+  title: Paesi Bassi eSIM | Prepagato senza vincoli
+  description: Hai bisogno di una eSIM economica per Paesi Bassi? Roami offre qualità a un prezzo accessibile. Nessun costo
+    extra. Copre tutte le regioni.
   keywords: eSIM Paesi Bassi, piano eSIM Paesi Bassi, migliore eSIM Paesi Bassi, Paesi Bassi dati, KPN Paesi Bassi, Vodafone
     Paesi Bassi, T-Mobile Paesi Bassi, eSIM Amsterdam, eSIM Rotterdam, eSIM L'Aia, internet mobile Paesi Bassi, 5G Paesi Bassi
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/nl.svg
   flag_alt: Bandiera di Paesi Bassi
-  title: 'eSIM Paesi Bassi 2026: Rimani Connesso Ovunque'
+  title: 'eSIM Paesi Bassi: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per Paesi Bassi
 features:
   title: 'Perché i viaggiatori scelgono Roami per Paesi Bassi: Piani, Rete & Supporto'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Malesia eSIM | Internet veloce senza limiti"
-  description: "Roami per Malesia è senza contratto. Nessun abbonamento, nessuna sorpresa. Paghi solo per i giorni del tuo viaggio, senza impegni. Copre tutte le regioni."
+  title: Malesia eSIM | Internet veloce senza limiti
+  description: Roami per Malesia è senza contratto. Nessun abbonamento, nessuna sorpresa. Paghi solo per i giorni del tuo
+    viaggio, senza impegni. Copre tutte le regioni.
   keywords: eSIM Malaysia, piano eSIM Malaysia, migliore eSIM Malaysia, Malaysia dati, Maxis Malaysia, Celcom Malaysia, Digi
     Malaysia, eSIM Kuala Lumpur, eSIM George Town, eSIM Johor Bahru, internet mobile Malaysia, 5G Malaysia
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/my.svg
   flag_alt: Bandiera di Malaysia
-  title: 'eSIM Malaysia 2026: Soluzioni Dati Complete per il Tuo Viaggio'
+  title: 'eSIM Malaysia: Soluzioni Dati Complete per il Tuo Viaggio'
   subtitle: Niente costi nascosti | Internet senza preoccupazioni | Supporto 24/7 - la migliore eSIM per Malaysia
 features:
   title: 'Perché i viaggiatori scelgono Roami per Malaysia: Copertura, Velocità & Servizio'

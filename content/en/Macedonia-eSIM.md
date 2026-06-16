@@ -46,7 +46,7 @@ banner:
 hero:
   flag_image: img/flags/ma.svg
   flag_alt: Macedonia Flag
-  title: 'Macedonia eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Macedonia eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Macedonia
 features:
   title: 'Why Macedonia Travelers Choose Roami: Network, Plans & Value'

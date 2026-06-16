@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Pakistan eSIM | Prepaid Datenvolumen für den Urlaub"
-  description: "Roami in Pakistan ist ohne Vertrag. Kein Abo, keine Überraschungen. Sie zahlen nur für Ihre Reisezeit. Deckt alle Regionen ab."
+  title: Pakistan eSIM | Prepaid Datenvolumen für den Urlaub
+  description: Roami in Pakistan ist ohne Vertrag. Kein Abo, keine Überraschungen. Sie zahlen nur für Ihre Reisezeit. Deckt
+    alle Regionen ab.
   keywords: Pakistan eSIM, Pakistan Reise eSIM, beste eSIM Pakistan, Pakistan Datentarif, Jazz Pakistan, Zong Pakistan, Telenor
     Pakistan, Karachi eSIM, Lahore eSIM, Islamabad eSIM, Pakistan mobiles Internet, 5G Pakistan
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/pk.svg
   flag_alt: Flagge von Pakistan
-  title: 'Pakistan eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Pakistan eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Pakistan
 features:
   title: 'Warum Reisende Roami fuer Pakistan waehlen: Netzwerk, Tarife & Preiswert'

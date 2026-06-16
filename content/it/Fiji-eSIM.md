@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Figi eSIM | Internet veloce senza limiti"
-  description: "Viaggi in Figi? Attiva la tua eSIM Roami in meno di 2 minuti. Nessuna procedura complicata, ricevi il QR code via email e sei subito online. Copre tutte le regioni."
+  title: Figi eSIM | Internet veloce senza limiti
+  description: Viaggi in Figi? Attiva la tua eSIM Roami in meno di 2 minuti. Nessuna procedura complicata, ricevi il QR code
+    via email e sei subito online. Copre tutte le regioni.
   keywords: eSIM Figi, piano eSIM Figi, migliore eSIM Figi, Figi dati, Vodafone Fiji Figi, Digicel Fiji Figi, Telecom Fiji
     Figi, eSIM Suva, eSIM Nadi, eSIM Lautoka, internet mobile Figi, 5G Figi
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/fj.svg
   flag_alt: Bandiera di Figi
-  title: 'eSIM Figi 2026: Rete Affidabile per Viaggiatori'
+  title: 'eSIM Figi: Rete Affidabile per Viaggiatori'
   subtitle: Attivazione immediata | 5G veloce | Supporto 24/7 - la migliore eSIM prepagata per Figi
 features:
   title: 'Perché i viaggiatori scelgono Roami per Figi: Rete, Piani & Prezzo'

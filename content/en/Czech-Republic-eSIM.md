@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Czech Republic eSIM | Top Prepaid Travel eSIM Plan"
-  description: "Travel to Czech Republic with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Prague, Brno & Ostrava. Instant QR activation."
+  title: Czech Republic eSIM | Top Prepaid Travel eSIM Plan
+  description: Travel to Czech Republic with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Prague,
+    Brno & Ostrava. Instant QR activation.
   keywords: Czech Republic eSIM, buy Czech Republic eSIM, best Czech Republic eSIM, Czech Republic travel eSIM, O2 Czech Republic,
     T-Mobile Czech Republic, Vodafone Czech Republic, Prague eSIM, Brno eSIM, Ostrava eSIM, Czech Republic prepaid eSIM, 5G
     Czech Republic eSIM
@@ -45,7 +46,7 @@ banner:
 hero:
   flag_image: img/flags/cz.svg
   flag_alt: Czech Republic Flag
-  title: 'Czech Republic eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Czech Republic eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Czech Republic travelers
 features:
   title: 'Why Czech Republic Travelers Choose Roami: Coverage, Speed & Service'

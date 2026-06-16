@@ -19,8 +19,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     dem Code: web20'
 seo:
-  title: "Norwegen eSIM | Ohne Vertrag & sofort nutzbar"
-  description: "Sie kommen in Norwegen an? Aktivieren Sie Ihre Roami eSIM sofort, ohne Papierkram. In Sekunden online. Deckt alle Regionen ab."
+  title: Norwegen eSIM | Ohne Vertrag & sofort nutzbar
+  description: Sie kommen in Norwegen an? Aktivieren Sie Ihre Roami eSIM sofort, ohne Papierkram. In Sekunden online. Deckt
+    alle Regionen ab.
   keywords: Norwegen eSIM, Norwegen Reise eSIM, beste eSIM Norwegen, Norwegen Datentarif, Telenor Norwegen, Telia Norwegen,
     ICE Norwegen, Oslo eSIM, Bergen eSIM, Stavanger eSIM, Norwegen mobiles Internet, 5G Norwegen
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/no.svg
   flag_alt: Flagge von Norwegen
-  title: 'Norwegen eSIM 2026: Schnelles 5G für jedes Reiseziel'
+  title: 'Norwegen eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Norwegen - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
   title: 'Warum Reisende Roami fuer Norwegen waehlen: Geschwindigkeit, Abdeckung & Support'

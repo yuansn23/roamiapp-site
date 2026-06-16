@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Brasilien eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Unterwegs in Brasilien in voller Freiheit mit Roami. Keine automatische Verlängerung, keine Kündigung nötig. Deckt Rio, São Paulo & ganz Brasilien ab."
+  title: Brasilien eSIM | Günstigste Prepaid Reise eSIM
+  description: Unterwegs in Brasilien in voller Freiheit mit Roami. Keine automatische Verlängerung, keine Kündigung nötig.
+    Deckt Rio, São Paulo & ganz Brasilien ab.
   keywords:
   - Brasilien eSIM
   - Brasilien Reise eSIM
@@ -52,7 +53,7 @@ banner:
 hero:
   flag_image: img/flags/br.svg
   flag_alt: Flagge von Brasilien
-  title: 'Brasilien eSIM 2026: Überall verbunden bleiben'
+  title: 'Brasilien eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Brasilien
 features:
   title: 'Warum Reisende Roami fuer Brasilien waehlen: Tarife, Netzwerk & Support'

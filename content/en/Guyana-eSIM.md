@@ -44,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/gy.svg
   flag_alt: Guyana Flag
-  title: 'Guyana eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Guyana eSIM: Stay Connected Everywhere You Go'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Guyana travelers
 features:
   title: 'Why Guyana Travelers Choose Roami: Coverage, Speed & Service'

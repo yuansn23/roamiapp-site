@@ -19,8 +19,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     dem Code: web20'
 seo:
-  title: "Taiwan eSIM | Ricarica immediata senza contratto"
-  description: "Hai bisogno di dati affidabili in Taiwan? Roami ti tiene online con il 5G veloce. Niente più ricerca del WiFi gratuito. Copre tutte le regioni."
+  title: Taiwan eSIM | Ricarica immediata senza contratto
+  description: Hai bisogno di dati affidabili in Taiwan? Roami ti tiene online con il 5G veloce. Niente più ricerca del WiFi
+    gratuito. Copre tutte le regioni.
   keywords: eSIM Taiwan, piano eSIM Taiwan, migliore eSIM Taiwan, Taiwan dati, Chunghwa Telecom Taiwan, Taiwan Mobile Taiwan,
     Far EasTone Taiwan, eSIM Taipei, eSIM Taichung, eSIM Kaohsiung, internet mobile Taiwan, 5G Taiwan
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/tw.svg
   flag_alt: Bandiera di Taiwan
-  title: 'eSIM Taiwan 2026: Soluzioni Dati Complete per il Tuo Viaggio'
+  title: 'eSIM Taiwan: Soluzioni Dati Complete per il Tuo Viaggio'
   subtitle: Niente costi nascosti | Internet senza preoccupazioni | Supporto 24/7 - la migliore eSIM per Taiwan
 features:
   title: 'Perché i viaggiatori scelgono Roami per Taiwan: Copertura, Velocità & Servizio'

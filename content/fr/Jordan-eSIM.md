@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/jo.svg
   flag_alt: Drapeau Jordanie
-  title: 'eSIM Jordanie 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Jordanie: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Jordanie - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Jordanie: Vitesse, Couverture & Support'

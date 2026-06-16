@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Sweden eSIM | Unlimited Data Plan for Travelers"
-  description: "Stay connected in Sweden with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant activation. Covers Stockholm & Gothenburg."
+  title: Sweden eSIM | Unlimited Data Plan for Travelers
+  description: Stay connected in Sweden with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant
+    activation. Covers Stockholm & Gothenburg.
   keywords: Sweden eSIM, buy Sweden eSIM, best Sweden eSIM, Sweden travel eSIM, Telia Sweden, Telenor Sweden, Tele2 Sweden,
     Stockholm eSIM, Gothenburg eSIM, Malmö eSIM, Sweden prepaid eSIM, 5G Sweden eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/se.svg
   flag_alt: Sweden Flag
-  title: 'Sweden eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Sweden eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Sweden
 features:
   title: 'Why Sweden Travelers Choose Roami: Network, Plans & Value'

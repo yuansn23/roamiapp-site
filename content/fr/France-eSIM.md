@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "France eSIM | Voyagez avec données illimitées"
-  description: "L'eSIM Roami pour France inclut des donnees illimitees. Ideal pour les voyageurs qui veulent rester en ligne sans stress. Couvre Paris, Nice, la Provence."
+  title: France eSIM | Voyagez avec données illimitées
+  description: L'eSIM Roami pour France inclut des donnees illimitees. Ideal pour les voyageurs qui veulent rester en ligne
+    sans stress. Couvre Paris, Nice, la Provence.
   keywords: eSIM France, forfait eSIM France, meilleure eSIM France, France data, Orange France, SFR France, Bouygues Telecom
     France, eSIM Paris, eSIM Marseille, eSIM Lyon, internet mobile France, 5G France
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/fr.svg
   flag_alt: Drapeau France
-  title: 'eSIM France 2026: Restez Connecté Partout'
+  title: 'eSIM France: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour France
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour France: Forfaits, Réseau & Support'

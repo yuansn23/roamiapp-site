@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "UK eSIM | Prepaid Tarif für Reise & Urlaub"
-  description: "Reisen Sie nach UK ohne Verpflichtungen. Roami bindet Sie an kein Abo. Sie bestimmen alles. Deckt alle Regionen ab."
+  title: UK eSIM | Prepaid Tarif für Reise & Urlaub
+  description: Reisen Sie nach UK ohne Verpflichtungen. Roami bindet Sie an kein Abo. Sie bestimmen alles. Deckt alle Regionen
+    ab.
   keywords:
   - Vereinigtes Königreich eSIM
   - Vereinigtes Königreich Reise eSIM
@@ -52,7 +53,7 @@ banner:
 hero:
   flag_image: img/flags/gb.svg
   flag_alt: Flagge von Vereinigtes Königreich
-  title: 'Vereinigtes Königreich eSIM 2026: Schnelles 5G für jedes Reiseziel'
+  title: 'Vereinigtes Königreich eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Vereinigtes Königreich - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
   title: 'Warum Reisende Roami fuer Vereinigtes Königreich waehlen: Geschwindigkeit, Abdeckung & Support'

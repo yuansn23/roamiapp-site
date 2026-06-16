@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ad.svg
   flag_alt: Drapeau Andorre
-  title: 'eSIM Andorre 2026: Restez Connecté Partout'
+  title: 'eSIM Andorre: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Andorre
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Andorre: Forfaits, Réseau & Support'

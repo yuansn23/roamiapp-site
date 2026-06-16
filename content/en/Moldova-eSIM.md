@@ -45,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/mo.svg
   flag_alt: Moldova Flag
-  title: 'Moldova eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Moldova eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Moldova travelers
 features:
   title: 'Why Moldova Travelers Choose Roami: Coverage, Speed & Service'

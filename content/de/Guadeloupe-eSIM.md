@@ -43,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/gp.svg
   flag_alt: Flagge von Guadeloupe
-  title: 'Guadeloupe eSIM 2026: Überall verbunden bleiben'
+  title: 'Guadeloupe eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Guadeloupe
 features:
   title: 'Warum Reisende Roami fuer Guadeloupe waehlen: Tarife, Netzwerk & Support'

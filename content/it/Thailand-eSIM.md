@@ -19,8 +19,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Thailandia eSIM | Compra al miglior prezzo"
-  description: "La eSIM Roami per Thailandia si acquista online senza attese. Niente spedizione, tutto digitale, ricevuto via email. Copre Bangkok, Phuket & tutta la Thailandia."
+  title: Thailandia eSIM | Compra al miglior prezzo
+  description: La eSIM Roami per Thailandia si acquista online senza attese. Niente spedizione, tutto digitale, ricevuto via
+    email. Copre Bangkok, Phuket & tutta la Thailandia.
   keywords: eSIM Thailandia, piano eSIM Thailandia, migliore eSIM Thailandia, Thailandia dati, AIS Thailandia, TrueMove H
     Thailandia, dtac Thailandia, eSIM Bangkok, eSIM Chiang Mai, eSIM Phuket, internet mobile Thailandia, 5G Thailandia
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/th.svg
   flag_alt: Bandiera di Thailandia
-  title: 'eSIM Thailandia 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Thailandia: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Thailandia - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Thailandia: Velocità, Copertura & Supporto'

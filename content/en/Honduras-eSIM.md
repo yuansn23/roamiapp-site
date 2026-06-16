@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Honduras eSIM | Fast & Reliable Prepaid Data Plan"
-  description: "Need a prepaid travel eSIM for Honduras? Roami offers unlimited 5G data nationwide. Covers Tegucigalpa, San Pedro Sula & La Ceiba. Instant activation."
+  title: Honduras eSIM | Fast & Reliable Prepaid Data Plan
+  description: Need a prepaid travel eSIM for Honduras? Roami offers unlimited 5G data nationwide. Covers Tegucigalpa, San
+    Pedro Sula & La Ceiba. Instant activation.
   keywords: Honduras eSIM, buy Honduras eSIM, best Honduras eSIM, Honduras travel eSIM, Tigo Honduras, Claro Honduras, Hondutel
     Honduras, Tegucigalpa eSIM, San Pedro Sula eSIM, La Ceiba eSIM, Honduras prepaid eSIM, 5G Honduras eSIM
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/hn.svg
   flag_alt: Honduras Flag
-  title: 'Honduras eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Honduras eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Honduras
 features:
   title: 'Why Honduras Travelers Choose Roami: Plans, Network & Support'

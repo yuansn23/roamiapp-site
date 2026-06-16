@@ -45,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/ae.svg
   flag_alt: United Arab Emirates Flag
-  title: 'United Arab Emirates eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'United Arab Emirates eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for United Arab Emirates
 features:
   title: 'Why United Arab Emirates Travelers Choose Roami: Plans, Network & Support'

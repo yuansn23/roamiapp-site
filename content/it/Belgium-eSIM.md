@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Belgio eSIM | Offerte eSIM per viaggiatori"
-  description: "La eSIM Roami per Belgio ti dà la libertà di scegliere. Senza vincoli, usala quando vuoi. Controlli tutto tu, in totale trasparenza. Copre tutte le regioni."
+  title: Belgio eSIM | Offerte eSIM per viaggiatori
+  description: La eSIM Roami per Belgio ti dà la libertà di scegliere. Senza vincoli, usala quando vuoi. Controlli tutto tu,
+    in totale trasparenza. Copre tutte le regioni.
   keywords: eSIM Belgio, piano eSIM Belgio, migliore eSIM Belgio, Belgio dati, Proximus Belgio, Orange Belgio, BASE Belgio,
     eSIM Bruxelles, eSIM Anversa, eSIM Gand, internet mobile Belgio, 5G Belgio
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/be.svg
   flag_alt: Bandiera di Belgio
-  title: 'eSIM Belgio 2026: Rimani Connesso Ovunque'
+  title: 'eSIM Belgio: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per Belgio
 features:
   title: 'Perché i viaggiatori scelgono Roami per Belgio: Piani, Rete & Supporto'

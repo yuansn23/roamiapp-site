@@ -19,8 +19,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Corea del Sud eSIM | Prepagato senza vincoli"
-  description: "Goditi il 5G veloce in Corea del Sud con Roami. Mappe, streaming, social network, tutto funziona senza problemi. Copre Seoul, Busan & tutta la Corea del Sud."
+  title: Corea del Sud eSIM | Prepagato senza vincoli
+  description: Goditi il 5G veloce in Corea del Sud con Roami. Mappe, streaming, social network, tutto funziona senza problemi.
+    Copre Seoul, Busan & tutta la Corea del Sud.
   keywords: eSIM Corea del Sud, piano eSIM Corea del Sud, migliore eSIM Corea del Sud, Corea del Sud dati, SK Telecom Corea
     del Sud, KT Corporation Corea del Sud, LG U+ Corea del Sud, eSIM Seoul, eSIM Busan, eSIM Incheon, internet mobile Corea
     del Sud, 5G Corea del Sud
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/kr.svg
   flag_alt: Bandiera di Corea del Sud
-  title: 'eSIM Corea del Sud 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Corea del Sud: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Corea del Sud - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Corea del Sud: Velocità, Copertura & Supporto'

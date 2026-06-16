@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Giappone eSIM | Ricarica immediata senza contratto"
-  description: "Cerchi una eSIM economica per Giappone? Roami offre il miglior prezzo sul mercato. Nessun costo nascosto, qualità garantita. Acquista online e usa subito."
+  title: Giappone eSIM | Ricarica immediata senza contratto
+  description: Cerchi una eSIM economica per Giappone? Roami offre il miglior prezzo sul mercato. Nessun costo nascosto, qualità
+    garantita. Acquista online e usa subito.
   keywords: eSIM Giappone, piano eSIM Giappone, migliore eSIM Giappone, Giappone dati, NTT Docomo Giappone, SoftBank Giappone,
     KDDI Giappone, eSIM Tokyo, eSIM Osaka, eSIM Kyoto, internet mobile Giappone, 5G Giappone
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/jp.svg
   flag_alt: Bandiera di Giappone
-  title: 'eSIM Giappone 2026: Rimani Connesso Ovunque'
+  title: 'eSIM Giappone: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per Giappone
 features:
   title: 'Perché i viaggiatori scelgono Roami per Giappone: Piani, Rete & Supporto'

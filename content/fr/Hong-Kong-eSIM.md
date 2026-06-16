@@ -19,8 +19,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Hong Kong eSIM | Meilleur prix sans engagement"
-  description: "Pour Hong Kong, Roami vous offre une eSIM sans engagement. Utilisez-la pendant votre voyage, puis c'est fini. Rien a resilier. Couvre tout le pays."
+  title: Hong Kong eSIM | Meilleur prix sans engagement
+  description: Pour Hong Kong, Roami vous offre une eSIM sans engagement. Utilisez-la pendant votre voyage, puis c'est fini.
+    Rien a resilier. Couvre tout le pays.
   keywords: eSIM Hong Kong, forfait eSIM Hong Kong, meilleure eSIM Hong Kong, Hong Kong data, CSL Hong Kong, 3 Hong Kong Hong
     Kong, SmarTone Hong Kong, eSIM Central, eSIM Kowloon, eSIM Tsuen Wan, internet mobile Hong Kong, 5G Hong Kong
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/hk.svg
   flag_alt: Drapeau Hong Kong
-  title: 'eSIM Hong Kong 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Hong Kong: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Hong Kong - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Hong Kong: Vitesse, Couverture & Support'

@@ -45,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/by.svg
   flag_alt: Belarus Flag
-  title: 'Belarus eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Belarus eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Belarus travelers
 features:
   title: 'Why Belarus Travelers Choose Roami: Coverage, Speed & Service'

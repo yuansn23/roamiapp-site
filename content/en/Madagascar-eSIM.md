@@ -45,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/mg.svg
   flag_alt: Madagascar Flag
-  title: 'Madagascar eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'Madagascar eSIM: Reliable Network & Coverage for Travelers'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Madagascar travelers
 features:
   title: 'Why Madagascar Travelers Choose Roami: Coverage, Speed & Service'

@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Kazakhstan eSIM | Best eSIM Plan for Tourists"
-  description: "Stay connected in Kazakhstan with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Almaty, Astana & Shymkent. Instant activation."
+  title: Kazakhstan eSIM | Best eSIM Plan for Tourists
+  description: Stay connected in Kazakhstan with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Almaty,
+    Astana & Shymkent. Instant activation.
   keywords: Kazakhstan eSIM, buy Kazakhstan eSIM, best Kazakhstan eSIM, Kazakhstan travel eSIM, Beeline Kazakhstan Kazakhstan,
     Kcell Kazakhstan, Tele2 Kazakhstan Kazakhstan, Almaty eSIM, Astana eSIM, Shymkent eSIM, Kazakhstan prepaid eSIM, 5G Kazakhstan
     eSIM
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/kz.svg
   flag_alt: Kazakhstan Flag
-  title: 'Kazakhstan eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Kazakhstan eSIM: Stay Connected Everywhere You Go'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Kazakhstan
 features:
   title: 'Why Kazakhstan Travelers Choose Roami: Network, Plans & Value'

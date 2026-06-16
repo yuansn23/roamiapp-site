@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Georgia eSIM | Compra al miglior prezzo online"
-  description: "La eSIM Roami per Georgia si acquista online senza attese. Niente spedizione, tutto digitale, ricevuto via email. Copre tutte le regioni."
+  title: Georgia eSIM | Compra al miglior prezzo online
+  description: La eSIM Roami per Georgia si acquista online senza attese. Niente spedizione, tutto digitale, ricevuto via
+    email. Copre tutte le regioni.
   keywords: eSIM Georgia, piano eSIM Georgia, migliore eSIM Georgia, Georgia dati, MagtiCom Georgia, Beeline Georgia, Silknet
     Georgia, eSIM Tbilisi, eSIM Batumi, eSIM Kutaisi, internet mobile Georgia, 5G Georgia
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ge.svg
   flag_alt: Bandiera di Georgia
-  title: 'eSIM Georgia 2026: Soluzioni Dati Complete per il Tuo Viaggio'
+  title: 'eSIM Georgia: Soluzioni Dati Complete per il Tuo Viaggio'
   subtitle: Niente costi nascosti | Internet senza preoccupazioni | Supporto 24/7 - la migliore eSIM per Georgia
 features:
   title: 'Perché i viaggiatori scelgono Roami per Georgia: Copertura, Velocità & Servizio'

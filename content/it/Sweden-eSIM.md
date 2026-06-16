@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Svezia eSIM | Attivazione immediata conveniente"
-  description: "Acquista la tua eSIM Roami per Svezia comodamente da casa. Valida subito, pronta all'arrivo. Facile e veloce. Copre tutte le regioni."
+  title: Svezia eSIM | Attivazione immediata conveniente
+  description: Acquista la tua eSIM Roami per Svezia comodamente da casa. Valida subito, pronta all'arrivo. Facile e veloce.
+    Copre tutte le regioni.
   keywords: eSIM Svezia, piano eSIM Svezia, migliore eSIM Svezia, Svezia dati, Telia Svezia, Telenor Svezia, Tre Svezia, eSIM
     Stoccolma, eSIM Göteborg, eSIM Malmö, internet mobile Svezia, 5G Svezia
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/se.svg
   flag_alt: Bandiera di Svezia
-  title: 'eSIM Svezia 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Svezia: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Svezia - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Svezia: Velocità, Copertura & Supporto'

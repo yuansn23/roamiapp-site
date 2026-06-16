@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Georgien eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Die Roami eSIM für Georgien kaufen Sie online ohne Wartezeit. Keine Lieferung, alles digital. Deckt alle Regionen ab."
+  title: Georgien eSIM | Günstigste Prepaid Reise eSIM
+  description: Die Roami eSIM für Georgien kaufen Sie online ohne Wartezeit. Keine Lieferung, alles digital. Deckt alle Regionen
+    ab.
   keywords: Georgien eSIM, Georgien Reise eSIM, beste eSIM Georgien, Georgien Datentarif, MagtiCom Georgien, Silknet Georgien,
     Geocell Georgien, Tiflis eSIM, Batumi eSIM, Kutaissi eSIM, Georgien mobiles Internet, 5G Georgien
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ge.svg
   flag_alt: Flagge von Georgien
-  title: 'Georgien eSIM 2026: Komplette Datenlösungen für Ihre Reise'
+  title: 'Georgien eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Georgien
 features:
   title: 'Warum Reisende Roami fuer Georgien waehlen: Abdeckung, Geschwindigkeit & Service'

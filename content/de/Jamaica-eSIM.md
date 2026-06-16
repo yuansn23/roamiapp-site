@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Jamaika eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Die Roami eSIM für Jamaika lässt Sie frei. Ohne Vertragsbindung, nutzbar wann immer Sie wollen. Deckt alle Regionen ab."
+  title: Jamaika eSIM | Günstigste Prepaid Reise eSIM
+  description: Die Roami eSIM für Jamaika lässt Sie frei. Ohne Vertragsbindung, nutzbar wann immer Sie wollen. Deckt alle
+    Regionen ab.
   keywords: Jamaika eSIM, Jamaika Reise eSIM, beste eSIM Jamaika, Jamaika Datentarif, Digicel Jamaika, Flow Jamaika, Lime
     Jamaika, Kingston eSIM, Montego Bay eSIM, Ocho Rios eSIM, Jamaika mobiles Internet, 5G Jamaika
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/jm.svg
   flag_alt: Flagge von Jamaika
-  title: 'Jamaika eSIM 2026: Komplette Datenlösungen für Ihre Reise'
+  title: 'Jamaika eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Jamaika
 features:
   title: 'Warum Reisende Roami fuer Jamaika waehlen: Abdeckung, Geschwindigkeit & Service'

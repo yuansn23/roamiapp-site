@@ -19,8 +19,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Irlanda eSIM | Dati illimitati per viaggiare"
-  description: "Cerchi una eSIM economica per Irlanda? Roami offre il miglior prezzo sul mercato. Nessun costo nascosto, qualità garantita. Acquista online e usa subito."
+  title: Irlanda eSIM | Dati illimitati per viaggiare
+  description: Cerchi una eSIM economica per Irlanda? Roami offre il miglior prezzo sul mercato. Nessun costo nascosto, qualità
+    garantita. Acquista online e usa subito.
   keywords: eSIM Irlanda, piano eSIM Irlanda, migliore eSIM Irlanda, Irlanda dati, Vodafone Irlanda, Three Irlanda, Eir Irlanda,
     eSIM Dublino, eSIM Cork, eSIM Galway, internet mobile Irlanda, 5G Irlanda
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/ie.svg
   flag_alt: Bandiera di Irlanda
-  title: 'eSIM Irlanda 2026: Soluzioni Dati Complete per il Tuo Viaggio'
+  title: 'eSIM Irlanda: Soluzioni Dati Complete per il Tuo Viaggio'
   subtitle: Niente costi nascosti | Internet senza preoccupazioni | Supporto 24/7 - la migliore eSIM per Irlanda
 features:
   title: 'Perché i viaggiatori scelgono Roami per Irlanda: Copertura, Velocità & Servizio'

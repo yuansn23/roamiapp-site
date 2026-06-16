@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Belgium eSIM | Fast & Reliable Prepaid Data Plan"
-  description: "Get ready for Belgium with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Instant QR activation. Covers Brussels, Bruges & Antwerp."
+  title: Belgium eSIM | Fast & Reliable Prepaid Data Plan
+  description: Get ready for Belgium with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Instant QR activation.
+    Covers Brussels, Bruges & Antwerp.
   keywords: Belgium eSIM, buy Belgium eSIM, best Belgium eSIM, Belgium travel eSIM, Proximus Belgium, Orange Belgium Belgium,
     Telenet Belgium, Brussels eSIM, Antwerp eSIM, Ghent eSIM, Belgium prepaid eSIM, 5G Belgium eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/be.svg
   flag_alt: Belgium Flag
-  title: 'Belgium eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Belgium eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Belgium
 features:
   title: 'Why Belgium Travelers Choose Roami: Plans, Network & Support'

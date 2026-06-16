@@ -44,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/al.svg
   flag_alt: Albania Flag
-  title: 'Albania eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'Albania eSIM: Reliable Network & Coverage for Travelers'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Albania
 features:
   title: 'Why Albania Travelers Choose Roami: Network, Plans & Value'

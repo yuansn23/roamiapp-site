@@ -19,8 +19,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con il codice: web20'
 seo:
-  title: "Norvegia eSIM | Attivazione immediata conveniente"
-  description: "Arrivi in Norvegia? Attiva subito la tua eSIM Roami. Nessun negozio da cercare, nessuna coda. Connesso in pochi secondi. Copre tutte le regioni."
+  title: Norvegia eSIM | Attivazione immediata conveniente
+  description: Arrivi in Norvegia? Attiva subito la tua eSIM Roami. Nessun negozio da cercare, nessuna coda. Connesso in pochi
+    secondi. Copre tutte le regioni.
   keywords: eSIM Norvegia, piano eSIM Norvegia, migliore eSIM Norvegia, Norvegia dati, Telenor Norvegia, Telia Norvegia, ICE
     Norvegia, eSIM Oslo, eSIM Bergen, eSIM Stavanger, internet mobile Norvegia, 5G Norvegia
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/no.svg
   flag_alt: Bandiera di Norvegia
-  title: 'eSIM Norvegia 2026: Rimani Connesso Ovunque'
+  title: 'eSIM Norvegia: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per Norvegia
 features:
   title: 'Perché i viaggiatori scelgono Roami per Norvegia: Piani, Rete & Supporto'

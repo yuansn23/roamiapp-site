@@ -53,7 +53,7 @@ banner:
 hero:
   flag_image: img/flags/me.svg
   flag_alt: Bandiera di Montenegro
-  title: 'eSIM Montenegro 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Montenegro: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Montenegro - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Montenegro: Velocità, Copertura & Supporto'

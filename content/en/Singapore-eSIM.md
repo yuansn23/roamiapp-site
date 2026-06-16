@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Singapore eSIM | Buy Travel Data Plan for Your Trip"
-  description: "Explore Singapore with the best prepaid travel eSIM from Roami. Unlimited 5G data island-wide with instant QR activation. Perfect for business & leisure travel."
+  title: Singapore eSIM | Buy Travel Data Plan for Your Trip
+  description: Explore Singapore with the best prepaid travel eSIM from Roami. Unlimited 5G data island-wide with instant
+    QR activation. Perfect for business & leisure travel.
   keywords: Singapore eSIM, buy Singapore eSIM, best Singapore eSIM, Singapore travel eSIM, Singtel Singapore, StarHub Singapore,
     M1 Singapore, Singapore City eSIM, Jurong East eSIM, Tampines eSIM, Singapore prepaid eSIM, 5G Singapore eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/sg.svg
   flag_alt: Singapore Flag
-  title: 'Singapore eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Singapore eSIM: Stay Connected Everywhere You Go'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Singapore
 features:
   title: 'Why Singapore Travelers Choose Roami: Plans, Network & Support'

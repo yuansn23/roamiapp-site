@@ -43,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/by.svg
   flag_alt: Bandiera di Bielorussia
-  title: 'eSIM Bielorussia 2026: Soluzioni Dati Complete per il Tuo Viaggio'
+  title: 'eSIM Bielorussia: Soluzioni Dati Complete per il Tuo Viaggio'
   subtitle: Niente costi nascosti | Internet senza preoccupazioni | Supporto 24/7 - la migliore eSIM per Bielorussia
 features:
   title: 'Perché i viaggiatori scelgono Roami per Bielorussia: Copertura, Velocità & Servizio'

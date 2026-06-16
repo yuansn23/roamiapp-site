@@ -19,8 +19,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Finlandia eSIM | Attivazione immediata"
-  description: "Per il tuo viaggio in Finlandia, Roami è la soluzione eSIM più pratica. Attiva subito, senza perdere tempo. Copre tutte le regioni."
+  title: Finlandia eSIM | Attivazione immediata
+  description: Per il tuo viaggio in Finlandia, Roami è la soluzione eSIM più pratica. Attiva subito, senza perdere tempo.
+    Copre tutte le regioni.
   keywords: eSIM Finlandia, piano eSIM Finlandia, migliore eSIM Finlandia, Finlandia dati, Elisa Finlandia, DNA Finlandia,
     Telia Finlandia, eSIM Helsinki, eSIM Espoo, eSIM Tampere, internet mobile Finlandia, 5G Finlandia
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/fi.svg
   flag_alt: Bandiera di Finlandia
-  title: 'eSIM Finlandia 2026: Soluzioni Dati Complete per il Tuo Viaggio'
+  title: 'eSIM Finlandia: Soluzioni Dati Complete per il Tuo Viaggio'
   subtitle: Niente costi nascosti | Internet senza preoccupazioni | Supporto 24/7 - la migliore eSIM per Finlandia
 features:
   title: 'Perché i viaggiatori scelgono Roami per Finlandia: Copertura, Velocità & Servizio'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Singapour eSIM | Acheter pas cher, données illimitées"
-  description: "L'eSIM Roami pour Singapour s'active en quelques secondes. Recevez votre code par email et partez tranquillement. Couvre Singapour & toute l'île."
+  title: Singapour eSIM | Acheter pas cher, données illimitées
+  description: L'eSIM Roami pour Singapour s'active en quelques secondes. Recevez votre code par email et partez tranquillement.
+    Couvre Singapour & toute l'île.
   keywords: eSIM Singapour, forfait eSIM Singapour, meilleure eSIM Singapour, Singapour data, Singtel Singapour, StarHub Singapour,
     M1 Singapour, eSIM Singapour-centre, eSIM Jurong East, eSIM Tampines, internet mobile Singapour, 5G Singapour
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/sg.svg
   flag_alt: Drapeau Singapour
-  title: 'eSIM Singapour 2026: Restez Connecté Partout'
+  title: 'eSIM Singapour: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Singapour
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Singapour: Forfaits, Réseau & Support'

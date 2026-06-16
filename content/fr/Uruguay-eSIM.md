@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Uruguay eSIM | Acheter pas cher pour voyager"
-  description: "Achetez votre eSIM Roami pour Uruguay depuis votre canape. Valable des l'achat, prete a l'emploi a l'arrivee. Couvre tout le pays."
+  title: Uruguay eSIM | Acheter pas cher pour voyager
+  description: Achetez votre eSIM Roami pour Uruguay depuis votre canape. Valable des l'achat, prete a l'emploi a l'arrivee.
+    Couvre tout le pays.
   keywords: eSIM Uruguay, forfait eSIM Uruguay, meilleure eSIM Uruguay, Uruguay data, Antel Uruguay, Movistar Uruguay, Claro
     Uruguay, eSIM Montevideo, eSIM Punta del Este, eSIM Colonia del Sacramento, internet mobile Uruguay, 5G Uruguay
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/uy.svg
   flag_alt: Drapeau Uruguay
-  title: 'eSIM Uruguay 2026: Solutions Data Complètes pour Votre Voyage'
+  title: 'eSIM Uruguay: Solutions Data Complètes pour Votre Voyage'
   subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour Uruguay
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Uruguay: Couverture, Vitesse & Service'

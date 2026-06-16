@@ -19,8 +19,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Algeria eSIM | Attivazione immediata conveniente"
-  description: "La eSIM Roami per Algeria si acquista online senza attese. Niente spedizione, tutto digitale, ricevuto via email. Copre tutte le regioni."
+  title: Algeria eSIM | Attivazione immediata conveniente
+  description: La eSIM Roami per Algeria si acquista online senza attese. Niente spedizione, tutto digitale, ricevuto via
+    email. Copre tutte le regioni.
   keywords: eSIM Algeria, piano eSIM Algeria, migliore eSIM Algeria, Algeria dati, Mobilis Algeria, Djezzy Algeria, Ooredoo
     Algeria, eSIM Algeri, eSIM Orano, eSIM Costantina, internet mobile Algeria, 5G Algeria
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/dz.svg
   flag_alt: Bandiera di Algeria
-  title: 'eSIM Algeria 2026: Soluzioni Dati Complete per il Tuo Viaggio'
+  title: 'eSIM Algeria: Soluzioni Dati Complete per il Tuo Viaggio'
   subtitle: Niente costi nascosti | Internet senza preoccupazioni | Supporto 24/7 - la migliore eSIM per Algeria
 features:
   title: 'Perché i viaggiatori scelgono Roami per Algeria: Copertura, Velocità & Servizio'

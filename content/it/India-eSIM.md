@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "India eSIM | Offerte eSIM per viaggiatori"
-  description: "Roami è la eSIM più conveniente per India. Prezzo trasparente, nessuna sorpresa. Perfetta per viaggiare senza spendere troppo. Copre Delhi, Mumbai & tutta l'India."
+  title: India eSIM | Offerte eSIM per viaggiatori
+  description: Roami è la eSIM più conveniente per India. Prezzo trasparente, nessuna sorpresa. Perfetta per viaggiare senza
+    spendere troppo. Copre Delhi, Mumbai & tutta l'India.
   keywords: eSIM India, piano eSIM India, migliore eSIM India, India dati, Airtel India, Jio India, Vi (Vodafone Idea) India,
     eSIM Nuova Delhi, eSIM Mumbai, eSIM Bangalore, internet mobile India, 5G India
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/in.svg
   flag_alt: Bandiera di India
-  title: 'eSIM India 2026: Rimani Connesso Ovunque'
+  title: 'eSIM India: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per India
 features:
   title: 'Perché i viaggiatori scelgono Roami per India: Piani, Rete & Supporto'

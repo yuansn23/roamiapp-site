@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Turquie eSIM | Activation immédiate au meilleur prix"
-  description: "Vous planifiez un voyage a Turquie? Roami est le compagnon ideal pour rester connecte en deplacement. Couvre Istanbul, Antalya & la riviera turque."
+  title: Turquie eSIM | Activation immédiate au meilleur prix
+  description: Vous planifiez un voyage a Turquie? Roami est le compagnon ideal pour rester connecte en deplacement. Couvre
+    Istanbul, Antalya & la riviera turque.
   keywords: eSIM Turquie, forfait eSIM Turquie, meilleure eSIM Turquie, Turquie data, Turkcell Turquie, Vodafone TR Turquie,
     Türk Telekom Turquie, eSIM Istanbul, eSIM Ankara, eSIM Izmir, internet mobile Turquie, 5G Turquie
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/tr.svg
   flag_alt: Drapeau Turquie
-  title: 'eSIM Turquie 2026: Solutions Data Complètes pour Votre Voyage'
+  title: 'eSIM Turquie: Solutions Data Complètes pour Votre Voyage'
   subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour Turquie
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Turquie: Couverture, Vitesse & Service'

@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "France eSIM | Best eSIM Plan for Tourists"
-  description: "Explore France with the best prepaid travel eSIM from Roami. Unlimited 5G data on top networks. Buy your plan and activate instantly. Covers Paris, Nice & beyond."
+  title: France eSIM | Best eSIM Plan for Tourists
+  description: Explore France with the best prepaid travel eSIM from Roami. Unlimited 5G data on top networks. Buy your plan
+    and activate instantly. Covers Paris, Nice & beyond.
   keywords: France eSIM, buy France eSIM, best France eSIM, France travel eSIM, Orange France, SFR France, Bouygues Telecom
     France, Paris eSIM, Marseille eSIM, Lyon eSIM, France prepaid eSIM, 5G France eSIM
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/fr.svg
   flag_alt: France Flag
-  title: 'France eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'France eSIM: Reliable Network & Coverage for Travelers'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for France travelers
 features:
   title: 'Why France Travelers Choose Roami: Coverage, Speed & Service'

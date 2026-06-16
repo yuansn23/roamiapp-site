@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Ägypten eSIM | Prepaid Datenvolumen für den Urlaub"
-  description: "Kaufen Sie Ihre Roami eSIM für Ägypten mit wenigen Klicks. Sichere Bezahlung, sofortiger Erhalt des Codes. Deckt Kairo, Alexandria & Luxor ab."
+  title: Ägypten eSIM | Prepaid Datenvolumen für den Urlaub
+  description: Kaufen Sie Ihre Roami eSIM für Ägypten mit wenigen Klicks. Sichere Bezahlung, sofortiger Erhalt des Codes.
+    Deckt Kairo, Alexandria & Luxor ab.
   keywords: Ägypten eSIM, Ägypten Reise eSIM, beste eSIM Ägypten, Ägypten Datentarif, Orange Ägypten, Vodafone Ägypten, Etisalat
     Ägypten, Kairo eSIM, Alexandria eSIM, Luxor eSIM, Ägypten mobiles Internet, 5G Ägypten
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/eg.svg
   flag_alt: Flagge von Ägypten
-  title: 'Ägypten eSIM 2026: Überall verbunden bleiben'
+  title: 'Ägypten eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Ägypten
 features:
   title: 'Warum Reisende Roami fuer Ägypten waehlen: Tarife, Netzwerk & Support'

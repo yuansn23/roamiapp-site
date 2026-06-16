@@ -45,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/mw.svg
   flag_alt: Malawi Flag
-  title: 'Malawi eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Malawi eSIM: Complete Data Solutions for Your Trip'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Malawi
 features:
   title: 'Why Malawi Travelers Choose Roami: Plans, Network & Support'

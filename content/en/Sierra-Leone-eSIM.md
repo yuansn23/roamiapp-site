@@ -46,7 +46,7 @@ banner:
 hero:
   flag_image: img/flags/si.svg
   flag_alt: Sierra Leone Flag
-  title: 'Sierra Leone eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Sierra Leone eSIM: Complete Data Solutions for Your Trip'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Sierra Leone travelers
 features:
   title: 'Why Sierra Leone Travelers Choose Roami: Coverage, Speed & Service'

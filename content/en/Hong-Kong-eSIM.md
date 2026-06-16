@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Hong Kong eSIM | Buy Fast Prepaid Data Plan"
-  description: "Stay connected in Hong Kong with the best prepaid travel eSIM from Roami. Unlimited 5G data across the city. Instant activation. Buy your plan before you arrive."
+  title: Hong Kong eSIM | Buy Fast Prepaid Data Plan
+  description: Stay connected in Hong Kong with the best prepaid travel eSIM from Roami. Unlimited 5G data across the city.
+    Instant activation. Buy your plan before you arrive.
   keywords: Hong Kong eSIM, buy Hong Kong eSIM, best Hong Kong eSIM, Hong Kong travel eSIM, CSL Hong Kong, SmarTone Hong Kong,
     China Mobile Hong Kong Hong Kong, Hong Kong Island eSIM, Kowloon eSIM, Tsuen Wan eSIM, Hong Kong prepaid eSIM, 5G Hong
     Kong eSIM
@@ -45,7 +46,7 @@ banner:
 hero:
   flag_image: img/flags/hk.svg
   flag_alt: Hong Kong Flag
-  title: 'Hong Kong eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Hong Kong eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Best prepaid eSIM for Hong Kong travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Hong Kong Travelers Choose Roami: Speed, Coverage & Support'

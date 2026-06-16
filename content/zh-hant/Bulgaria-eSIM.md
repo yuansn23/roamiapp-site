@@ -1,5 +1,5 @@
 ---
-title: 保加利亞 eSIM 方案 | 保加利亞 eSIM | Roami
+title: '保加利亞 eSIM 2026: 旅行與網路 | Roami'
 date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
@@ -13,15 +13,13 @@ country_meta:
 modal:
   title: 服務更新！
   btn_text: 繼續
-  text_default: |-
-    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
-  text_android: |-
-    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
+  text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
+  text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
   title: "保加利亞eSIM｜5G無限流量吃到飽，商務旅遊首選"
   description: "Roami eSIM無限流量方案讓您在保加利亞享受5G高速國外旅遊網路最低$1.99起超值價格。流量不限制追劇打卡盡情用，不用擔心超量問題，跨國旅行不用換卡一卡搞定。"
-  keywords: 保加利亞 eSIM, 保加利亞網路覆蓋, 保加利亞旅遊, 索菲亞 eSIM, 普羅夫迪夫網路, 瓦爾納海灘, 保加利亞運營商, A1, Telenor,
-    Vivacom
+  keywords: 保加利亞 eSIM, 保加利亞 eSIM方案, 最佳保加利亞 eSIM, 保加利亞上網, A1 保加利亞, Telenor 保加利亞, Vivacom 保加利亞, 索菲亞 eSIM, 普羅夫迪夫 eSIM, 瓦爾納 eSIM,
+    保加利亞行動網路, 5G 保加利亞
 order_summary:
   title: 選擇 保加利亞 eSIM
   label_data: 數據量
@@ -41,36 +39,36 @@ banner:
 hero:
   flag_image: img/flags/bg.svg
   flag_alt: 保加利亞 國旗
-  title: 保加利亞 eSIM - 旅行計劃
-  subtitle: 保加利亞 eSIM | 流量吃到飽 | 高速5G網路 | 無隱藏費用
+  title: '保加利亞 eSIM: 旅客信賴的穩定網路'
+  subtitle: 即時啟用 | 5G高速上網 | 24/7客服 - 保加利亞最佳預付eSIM
 features:
-  title: 為什麼 Roami 的 保加利亞 eSIM 比競爭對手更好？
+  title: 為什麼旅客選擇Roami的保加利亞 eSIM：網路、方案與價格
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
     title: 即時 QR 碼
-    desc: 5 分鐘內交付
+    desc: 5分鐘內透過Email收到您的保加利亞 eSIM QR碼
   - icon: headset
     color: from-emerald-400 to-emerald-600
     title: 24/7 支援
-    desc: 隨時在線
+    desc: 為您的保加利亞之旅提供24/7客服 - 真人服務，非機器人
   - icon: shield-check
     color: from-amber-400 to-amber-600
     title: 保證
-    desc: 買家保障
+    desc: 若保加利亞 eSIM無法啟用，100%全額退款
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: 熱點分享
-    desc: 與他人分享數據
+    desc: 與旅伴分享您的保加利亞數據，無限制
   - icon: file-x
     color: from-rose-400 to-rose-600
     title: 無合約
-    desc: 隨時取消
+    desc: 無合約，隨時取消 - 保加利亞旅行完美選擇
   - icon: radio-tower
     color: from-blue-400 to-blue-600
     title: 自動選擇
-    desc: 最佳本地網路
-plans_title: 為您的旅程選擇理想的 保加利亞 eSIM
+    desc: 自動連線保加利亞最佳電信商，取得最強訊號
+plans_title: 購買保加利亞 eSIM：適合各種旅程的方案
 plans_data:
   30 天:
   - spec: 20GB
@@ -290,12 +288,12 @@ plans_data:
     daily: '3.33'
 discount_banner:
   title: 保加利亞 eSIM 特別折扣！
-  desc_html: |-
-    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 保加利亞 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  desc_html: 結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 保加利亞
+    eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
   btn_text: 儲存折扣
   validity: 有效期：3 天
 network_coverage:
-  title: 網路覆蓋詳情
+  title: 保加利亞 eSIM覆蓋範圍：覆蓋範圍與電信商比較
   supports_text: 支援：
   service_details:
     title: 服務詳情
@@ -303,8 +301,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: 覆蓋範圍
-      desc: 在整個保加利亞享受廣泛的網路覆蓋，包括索菲亞、普羅夫迪夫、瓦爾納等城市。我們的保加利亞 eSIM 無縫連接到 A1、Telenor、Vivacom
-        等網路。
+      desc: 享受覆蓋全保加利亞的全面網路，包括索菲亞, 普羅夫迪夫, 瓦爾納, 布爾加斯。您的eSIM會自動連線至A1, Telenor, Vivacom的強大網路，在市區、旅遊熱點和主要交通路線提供穩定訊號。
     - icon: zap
       color: text-amber-500
       title: 交付時間
@@ -314,21 +311,21 @@ network_coverage:
       title: 熱點分享
       desc: 熱點分享無限制。
   carriers:
-    title: 行動網路
+    title: A1, Telenor & Vivacom：保加利亞 eSIM電信商
     badge: 官方合作夥伴
     items:
     - name: A1
-      coverage: 廣域覆蓋
+      coverage: 最佳整體覆蓋
       network: 5G/4G/LTE 網路
     - name: Telenor
-      coverage: 城市高速
+      coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 保加利亞 eSIM：重要提醒
+  title: 保加利亞 eSIM秘訣：出發前須知
   items:
   - icon: 📱
-    html: |-
-      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
+    html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
+      transition-colors">eSIM 相容性</a>。
   - icon: ✈️
     html: 建議抵達 保加利亞 後再啟用 eSIM。
   - icon: ⏰
@@ -342,29 +339,22 @@ reminders:
     desc: 不確定嗎？立即在您的手機上檢查：
     instruction: 在鍵盤上撥打：
     code: '*#06#'
-    result_html: |-
-      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
-    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
-      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
-      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
-      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
-      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
-      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
-      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
-      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
-      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
-      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
-      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
-      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
-      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
-      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
+    result_html: 如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
+      號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n        <p class=\"text-sm font-semibold mb-2\"\
+      >\U0001F4DA 實用指南：</p>\n        <ul class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n            <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\"\
+      \ class=\"text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n            <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\"\
+      \ class=\"text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n            <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\"\
+      \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
+      \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 如何在幾分鐘內啟用 保加利亞 eSIM
+  title: 保加利亞 eSIM啟用：3個簡單步驟
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 保加利亞 做好準備
-    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
-      天，您可以從容地為前往 保加利亞 的旅行做好準備。
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30 天，您可以從容地為前往 保加利亞 的旅行做好準備。
     is_list: false
   - num: '2'
     title: 在設備上安裝 eSIM – 掃描 QR 碼
@@ -378,32 +368,28 @@ activation_steps:
     - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
     title: 在家中準備 – 無風險測試
-    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 保加利亞 時，只需開啟 eSIM
-      – 有效期將在首次連接到 A1 / Telenor 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 保加利亞 時，只需開啟 eSIM – 有效期將在首次連接到 A1 / Telenor 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
     is_list: false
   - num: '4'
     title: 抵達 保加利亞：立即連上 5G/4G 網路
-    desc: 當您降落在 保加利亞（例如 索菲亞機場 (SOF)、瓦爾納機場 (VAR)、布爾加斯機場 (BOJ)）時，關閉飛航模式（或保持在飛航模式僅啟用
-      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 保加利亞。幾秒鐘內，您的設備將自動連接到 A1 / Telenor 提供的最快可用
-      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
+    desc: 當您降落在 保加利亞（例如 索菲亞機場 (SOF)、瓦爾納機場 (VAR)、布爾加斯機場 (BOJ)）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM
+      保加利亞。幾秒鐘內，您的設備將自動連接到 A1 / Telenor 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 保加利亞 eSIM：完整指南和常見問題
-  desc: 使用 保加利亞 eSIM 在 保加利亞 的交通、飯店、景點和緊急聯絡的所有細節。
+  title: 保加利亞 eSIM指南 2026：旅遊與數據指南
+  desc: 從索菲亞到普羅夫迪夫，使用A1, Telenor, Vivacom保持連線。我們的完整保加利亞 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
     title: 關於 保加利亞 eSIM 的常見問題
     questions:
-    - q: 在索菲亞市中心使用A1網路，觀看YouTube或進行視訊通話的體驗如何？
-      a: 在索菲亞市中心如維托莎大道或國家文化宮附近，連接到A1網路時，典型下載速度約為30-50 Mbps，足以無緩衝觀看Full HD的YouTube影片，並提供穩定的視訊通話。人流密集的時段（如週末下午），速度可能降至15-20
-        Mbps，但一般使用仍順暢。若每天使用超過3GB，可能觸發公平使用政策，導致速度降至2 Mbps以下，但瀏覽網頁和社群媒體仍無問題。建議在旅遊旺季時，可手動切換到Telenor網路以獲得稍穩定的連線。
+    - q: A1還是Telenor在保加利亞更好？
+      a: A1和Telenor在保加利亞都提供出色的覆蓋範圍。A1在偏遠地區的覆蓋通常更好，而Telenor在城市中提供競爭力的5G速度。對於大多數前往保加利亞的旅客來說，兩個網路都能良好運作。
     - q: 從瓦爾納機場入境後，如何快速啟用eSIM並使用Telenor網路？
       a: 瓦爾納機場的入境大廳有免費WiFi，您可先連接並掃描eSIM QR Code。安裝後，在手機設定中啟用此eSIM線路，並確保數據漫遊開啟。系統會自動連接Telenor網路，通常需2-3分鐘註冊。若未自動連線，可手動選取Telenor。建議在出發前完成eSIM購買，這樣落地後即可啟用。Telenor在瓦爾納市中心及海灘區域提供良好的4G覆蓋，但在機場周邊較偏遠地區可能訊號較弱，進城後會改善。
     - q: 在黑海度假勝地陽光海灘，Vivacom的網路品質如何？
-      a: 陽光海灘是保加利亞著名的度假區，Vivacom在此區域提供穩定的4G覆蓋，典型速度約20-40 Mbps，適合瀏覽社群媒體和分享照片。旅遊旺季時，大量遊客同時使用可能導致速度下降至10
-        Mbps左右，但收發訊息和導航仍順暢。飯店區域通常訊號優於海灘沙灘區域。若從瓦爾納方向開車前往，沿途山區可能出現短暫訊號中斷。建議下載離線地圖以備不時之需。
+      a: 陽光海灘是保加利亞著名的度假區，Vivacom在此區域提供穩定的4G覆蓋，典型速度約20-40 Mbps，適合瀏覽社群媒體和分享照片。旅遊旺季時，大量遊客同時使用可能導致速度下降至10 Mbps左右，但收發訊息和導航仍順暢。飯店區域通常訊號優於海灘沙灘區域。若從瓦爾納方向開車前往，沿途山區可能出現短暫訊號中斷。建議下載離線地圖以備不時之需。
     - q: 在保加利亞使用eSIM時，如何避免超出每日數據限制而被降速？
       a: 保加利亞的eSIM方案常設有每日高速數據上限（例如1GB或2GB），超出後會降至128kbps或更低。為了避免降速，您可監控使用量（手機設定可查），並在需要大量下載或觀看影片時，利用飯店或咖啡廳的WiFi。開啟數據節省模式、關閉背景應用更新也會有幫助。如果計畫頻繁使用社交媒體與導航，建議選擇每日高速上限較高的方案，例如5GB方案。降速後即使僅用於發送文字訊息也可能延遲，因此提前規劃很重要。
     - q: 前往里拉七湖登山時，哪個運營商的網路訊號最好？
@@ -456,11 +442,9 @@ faq_section:
     - q: 普羅夫迪夫萬豪酒店的房間內，eSIM訊號是否穩定？
       a: 萬豪酒店位於普羅夫迪夫市中心，客房內連接到Telenor網路的下載速度約25-40 Mbps，訊號穩定。靠近窗戶或陽台時速度更佳。酒店建築使用大量石牆，可能輕微屏蔽訊號，但整體影響不大。若多人同時連線，晚間可能稍慢，但基本瀏覽與視訊通話可順暢進行。
     - q: 瓦爾納格蘭德酒店（Grand Hotel Varna）的私人海灘區域，eSIM網路速度如何？
-      a: 瓦爾納格蘭德酒店擁有私人海灘，位於海濱，距離市中心約1公里。在此區域，Vivacom提供4G訊號，下載速度約20-30 Mbps。由於開放空間，訊號傳播良好，但度假旺季時眾多遊客同時使用可能使速度降至10
-        Mbps。建議在非尖峰時段（上午）上傳照片，可獲得較快體驗。
+      a: 瓦爾納格蘭德酒店擁有私人海灘，位於海濱，距離市中心約1公里。在此區域，Vivacom提供4G訊號，下載速度約20-30 Mbps。由於開放空間，訊號傳播良好，但度假旺季時眾多遊客同時使用可能使速度降至10 Mbps。建議在非尖峰時段（上午）上傳照片，可獲得較快體驗。
     - q: 在保加利亞的Airbnb住宿，eSIM是否比WiFi更可靠？
-      a: 保加利亞的Airbnb多數提供WiFi，但速度與穩定性不一。部分老建築的WiFi可能很慢（如普羅夫迪夫老城區的公寓）。eSIM則提供一致的行動網路，在都市區域通常下行速度在20-50
-        Mbps。若您需要穩定連線進行視訊會議或串流，eSIM是更好的備援。建議先測試民宿WiFi，若不夠用則切換至eSIM。
+      a: 保加利亞的Airbnb多數提供WiFi，但速度與穩定性不一。部分老建築的WiFi可能很慢（如普羅夫迪夫老城區的公寓）。eSIM則提供一致的行動網路，在都市區域通常下行速度在20-50 Mbps。若您需要穩定連線進行視訊會議或串流，eSIM是更好的備援。建議先測試民宿WiFi，若不夠用則切換至eSIM。
     - q: 入住保加利亞山區小屋（如里拉國家公園內），有eSIM訊號嗎？
       a: 里拉國家公園內的山區小屋（如Moussala Hut）通常位於海拔高處，僅有微弱或無行動網路訊號。部分小屋提供衛星電話等設施。eSIM在此類區域幾乎無法使用，因為運營商基地台距離遙遠。建議在進入山區前下載所有必要資訊，並告知留守人員行程。離開公園範圍後，訊號將逐步恢復。
   - id: faq-attractions
@@ -469,18 +453,15 @@ faq_section:
     title: 保加利亞 旅遊景點的網路：保加利亞 eSIM
     questions:
     - q: 參觀里拉七湖時，使用eSIM分享照片到社群媒體方便嗎？
-      a: 里拉七湖是保加利亞著名的自然景點，但在湖區大部分區域（尤其是高海拔）網路訊號微弱或無訊號。只有在纜車上站的遊客中心及山腳停車場，A1或Telenor提供4G訊號，速度約15-25
-        Mbps，足以即時上傳照片。建議在抵達高處湖區前，先在訊號好的地方上傳。若想直播，需確保穩定用WiFi，否則可能斷線。
+      a: 里拉七湖是保加利亞著名的自然景點，但在湖區大部分區域（尤其是高海拔）網路訊號微弱或無訊號。只有在纜車上站的遊客中心及山腳停車場，A1或Telenor提供4G訊號，速度約15-25 Mbps，足以即時上傳照片。建議在抵達高處湖區前，先在訊號好的地方上傳。若想直播，需確保穩定用WiFi，否則可能斷線。
     - q: 在普羅夫迪夫老城區漫步時，Google Maps導航是否順暢？
       a: 普羅夫迪夫老城區的街道狹窄蜿蜒，但網路覆蓋良好。使用eSIM時，Telenor訊號可提供即時導航，定位誤差約5-10米。在古羅馬劇場附近，路徑更新順暢。然而，某些小巷可能因建築陰影導致定位漂移，建議配合街景判斷。數據用量不大，每小時約10-15MB。
     - q: 前往內塞巴爾古城時，eSIM訊號能支援社群媒體直播嗎？
       a: 內塞巴爾古城位於黑海沿岸，網速通常穩定。使用A1網路時，下載速度約30-50 Mbps，上傳約10-15 Mbps，可進行720p直播。古城內海旁步道與教堂附近訊號最佳。但建築密集區可能略降速。直播時建議避免移動太快，以維持穩定串流。晚間遊客較少時，直播品質更佳。
     - q: 在索菲亞國家文化宮（NDK）附近，使用eSIM打卡會很慢嗎？
-      a: NDK是索菲亞的地標，周圍廣場與公園有極佳的4G覆蓋。連線Vivacom時，速度可達40-60 Mbps，即時上傳打卡照片與影片毫無壓力。即使參加大型活動（如音樂節），網路仍保持可用，但可能降速至10-20
-        Mbps。建議在此使用即時通訊軟體分享位置給朋友。
+      a: NDK是索菲亞的地標，周圍廣場與公園有極佳的4G覆蓋。連線Vivacom時，速度可達40-60 Mbps，即時上傳打卡照片與影片毫無壓力。即使參加大型活動（如音樂節），網路仍保持可用，但可能降速至10-20 Mbps。建議在此使用即時通訊軟體分享位置給朋友。
     - q: 騎行遊覽博亞納教堂（Boyana Church）時，eSIM導航是否可靠？
-      a: 博亞納教堂位於索菲亞郊區維托沙山腳，沿途網路訊號良好。從市中心騎行至教堂約8公里，使用Google Maps時，全程語音導航順暢，僅在森林路段偶有延遲。教堂區域訊號強度約20
-        Mbps。建議騎行前確保eSIM數據充足，並預先下載離線地圖以防萬一。
+      a: 博亞納教堂位於索菲亞郊區維托沙山腳，沿途網路訊號良好。從市中心騎行至教堂約8公里，使用Google Maps時，全程語音導航順暢，僅在森林路段偶有延遲。教堂區域訊號強度約20 Mbps。建議騎行前確保eSIM數據充足，並預先下載離線地圖以防萬一。
   - id: faq-social
     icon: smartphone
     tab_title: 社交媒體
@@ -504,13 +485,11 @@ faq_section:
     - q: 在保加利亞遇到緊急情況，如何撥打112？即使無SIM卡或無餘額也能撥通嗎？
       a: 在保加利亞，緊急電話112是通用的歐盟緊急號碼，即使手機沒有SIM卡或無餘額，只要手機有電且在有任何運營商訊號（即使非註冊網路）的區域，都可撥打112。請確保手機未鎖定緊急呼叫。撥通後會連接至當地的警察、消防或醫療服務。建議牢記此號碼，並在抵達時確認手機可正常撥打112。
     - q: 在保加利亞山區健行時，若發生意外且無手機訊號，該如何求救？
-      a: 保加利亞山區（如里拉、皮林山脈）部分區域無行動網路覆蓋。若遇到緊急情況，建議先嘗試移動至高處或開闊地以獲得訊號。此外，可使用衛星求救裝置（如SPOT或Garmin
-        inReach）傳送求救訊號。出發前務必將行程告知飯店或友人，並下載離線地圖。若無衛星設備，應沿主要步道返回至有訊號的區域再撥打112。
+      a: 保加利亞山區（如里拉、皮林山脈）部分區域無行動網路覆蓋。若遇到緊急情況，建議先嘗試移動至高處或開闊地以獲得訊號。此外，可使用衛星求救裝置（如SPOT或Garmin inReach）傳送求救訊號。出發前務必將行程告知飯店或友人，並下載離線地圖。若無衛星設備，應沿主要步道返回至有訊號的區域再撥打112。
     - q: 在索菲亞市區手機被偷，應如何處理？
       a: 首先立即撥打112報案，警察會需要您的護照資訊與手機IMEI碼（可在手機盒上找到）。同時，聯絡eSIM客服停用eSIM以防止盜用。若曾開啟尋找我的手機功能，可嘗試遠端定位或鎖定。建議前往最近警局（如索菲亞中央警察局，位於Serdika地鐵站附近）做筆錄，以獲得報案證明用於保險理賠。
     - q: 在保加利亞海灘（如瓦爾納）溺水或受傷時，如何取得緊急醫療協助？
-      a: 在瓦爾納海灘，海灘救生員通常配備急救設備，應先向他們求助。若情況嚴重，立即撥打112，救護車會從瓦爾納的醫院（如St. Marina University
-        Hospital）出車。提供準確的位置描述，如靠近哪間飯店或地標。非旺季時海灘救生員較少，建議直接撥打112。請確保手機電量充足，並知道所在沙灘的名稱。
+      a: 在瓦爾納海灘，海灘救生員通常配備急救設備，應先向他們求助。若情況嚴重，立即撥打112，救護車會從瓦爾納的醫院（如St. Marina University Hospital）出車。提供準確的位置描述，如靠近哪間飯店或地標。非旺季時海灘救生員較少，建議直接撥打112。請確保手機電量充足，並知道所在沙灘的名稱。
     - q: 若在保加利亞遇到地震，如何使用eSIM獲取即時資訊？
       a: 保加利亞位於地震帶，地震發生時，可透過eSIM連線至保加利亞國家地震中心網站（如www.seismology.bg）或歐盟緊急警報系統。4G網路通常在地震後維持服務，但可能因基地台受損而中斷。建議在安全處所使用社群媒體（如Twitter搜尋#земетресение）獲取更新。若訊號擁擠，簡訊可能比數據更易傳送。
     - q: 在保加利亞自駕途中車輛故障，如何聯絡道路救援？

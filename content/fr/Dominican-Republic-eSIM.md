@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Rép Dom eSIM | Données illimitées au meilleur prix"
-  description: "Avec Roami a République Dominicaine, dites adieu aux limitations de donnees. Internet illimite pour profiter pleinement de votre vacances. Couvre tout le pays."
+  title: Rép Dom eSIM | Données illimitées au meilleur prix
+  description: Avec Roami a République Dominicaine, dites adieu aux limitations de donnees. Internet illimite pour profiter
+    pleinement de votre vacances. Couvre tout le pays.
   keywords: eSIM République dominicaine, forfait eSIM République dominicaine, meilleure eSIM République dominicaine, République
     dominicaine data, Claro République dominicaine, Altice République dominicaine, Viva République dominicaine, eSIM Saint-Domingue,
     eSIM Santiago, eSIM Punta Cana, internet mobile République dominicaine, 5G République dominicaine
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/do.svg
   flag_alt: Drapeau République dominicaine
-  title: 'eSIM République dominicaine 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM République dominicaine: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour République dominicaine
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour République dominicaine: Réseau, Forfaits & Prix'

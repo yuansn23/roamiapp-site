@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Messico eSIM | Compra al miglior prezzo online"
-  description: "Resta connesso in Messico con Roami. Naviga, condividi, guarda video in streaming con il 5G veloce. La connessione perfetta per il tuo viaggio. Copre tutte le regioni."
+  title: Messico eSIM | Compra al miglior prezzo online
+  description: Resta connesso in Messico con Roami. Naviga, condividi, guarda video in streaming con il 5G veloce. La connessione
+    perfetta per il tuo viaggio. Copre tutte le regioni.
   keywords: eSIM Messico, piano eSIM Messico, migliore eSIM Messico, Messico dati, Telcel Messico, AT&T México Messico, Movistar
     Messico, eSIM Città del Messico, eSIM Cancún, eSIM Guadalajara, internet mobile Messico, 5G Messico
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/mx.svg
   flag_alt: Bandiera di Messico
-  title: 'eSIM Messico 2026: Rimani Connesso Ovunque'
+  title: 'eSIM Messico: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per Messico
 features:
   title: 'Perché i viaggiatori scelgono Roami per Messico: Piani, Rete & Supporto'

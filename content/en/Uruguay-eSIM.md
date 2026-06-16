@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Uruguay eSIM | Unlimited Data Plan for Travelers"
-  description: "Travel to Uruguay with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Covers Montevideo, Punta del Este & Colonia. Instant activation."
+  title: Uruguay eSIM | Unlimited Data Plan for Travelers
+  description: Travel to Uruguay with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Covers Montevideo,
+    Punta del Este & Colonia. Instant activation.
   keywords: Uruguay eSIM, buy Uruguay eSIM, best Uruguay eSIM, Uruguay travel eSIM, Antel Uruguay, Claro Uruguay, Movistar
     Uruguay, Montevideo eSIM, Salto eSIM, Punta del Este eSIM, Uruguay prepaid eSIM, 5G Uruguay eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/uy.svg
   flag_alt: Uruguay Flag
-  title: 'Uruguay eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Uruguay eSIM: Complete Data Solutions for Your Trip'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Uruguay travelers
 features:
   title: 'Why Uruguay Travelers Choose Roami: Coverage, Speed & Service'

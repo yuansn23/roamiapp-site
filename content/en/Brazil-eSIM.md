@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Brazil eSIM | Unlimited Data Plan for Travelers"
-  description: "Get ready for Brazil with Roami's best prepaid travel eSIM. Unlimited 5G data on top networks. Covers Rio, Sao Paulo & all major cities. Instant activation."
+  title: Brazil eSIM | Unlimited Data Plan for Travelers
+  description: Get ready for Brazil with Roami's best prepaid travel eSIM. Unlimited 5G data on top networks. Covers Rio,
+    Sao Paulo & all major cities. Instant activation.
   keywords: Brazil eSIM, buy Brazil eSIM, best Brazil eSIM, Brazil travel eSIM, Claro Brazil, Vivo Brazil, TIM Brazil, São
     Paulo eSIM, Rio de Janeiro eSIM, Brasília eSIM, Brazil prepaid eSIM, 5G Brazil eSIM
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/br.svg
   flag_alt: Brazil Flag
-  title: 'Brazil eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Brazil eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Brazil
 features:
   title: 'Why Brazil Travelers Choose Roami: Plans, Network & Support'

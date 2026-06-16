@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/lr.svg
   flag_alt: Flagge von Liberia
-  title: 'Liberia eSIM 2026: Schnelles 5G für jedes Reiseziel'
+  title: 'Liberia eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Liberia - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
   title: 'Warum Reisende Roami fuer Liberia waehlen: Geschwindigkeit, Abdeckung & Support'

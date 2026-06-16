@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Algerien eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Die Roami eSIM für Algerien kaufen Sie online ohne Wartezeit. Keine Lieferung, alles digital. Deckt alle Regionen ab."
+  title: Algerien eSIM | Günstigste Prepaid Reise eSIM
+  description: Die Roami eSIM für Algerien kaufen Sie online ohne Wartezeit. Keine Lieferung, alles digital. Deckt alle Regionen
+    ab.
   keywords: Algerien eSIM, Algerien Reise eSIM, beste eSIM Algerien, Algerien Datentarif, Mobilis Algerien, Djezzy Algerien,
     Ooredoo Algerien, Algier eSIM, Oran eSIM, Constantine eSIM, Algerien mobiles Internet, 5G Algerien
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/dz.svg
   flag_alt: Flagge von Algerien
-  title: 'Algerien eSIM 2026: Komplette Datenlösungen für Ihre Reise'
+  title: 'Algerien eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Algerien
 features:
   title: 'Warum Reisende Roami fuer Algerien waehlen: Abdeckung, Geschwindigkeit & Service'

@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Canada eSIM | Unlimited Data Plan for Travelers"
-  description: "Travel to Canada with confidence using the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant activation. Covers Toronto, Vancouver & more."
+  title: Canada eSIM | Unlimited Data Plan for Travelers
+  description: Travel to Canada with confidence using the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide.
+    Instant activation. Covers Toronto, Vancouver & more.
   keywords: Canada eSIM, buy Canada eSIM, best Canada eSIM, Canada travel eSIM, Rogers Canada, Bell Canada, Telus Canada,
     Toronto eSIM, Vancouver eSIM, Montreal eSIM, Canada prepaid eSIM, 5G Canada eSIM
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/ca.svg
   flag_alt: Canada Flag
-  title: 'Canada eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Canada eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Canada
 features:
   title: 'Why Canada Travelers Choose Roami: Network, Plans & Value'

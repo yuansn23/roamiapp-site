@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ml.svg
   flag_alt: Bandiera di Mali
-  title: 'eSIM Mali 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Mali: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Mali - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Mali: Velocità, Copertura & Supporto'

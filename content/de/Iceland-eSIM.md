@@ -19,8 +19,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Island eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Für Island bietet Roami eine eSIM ohne Vertragsbindung. Nutzen Sie sie für Ihre Reise, dann ist Schluss. Nichts zu kündigen. Deckt alle Regionen ab."
+  title: Island eSIM | Günstigste Prepaid Reise eSIM
+  description: Für Island bietet Roami eine eSIM ohne Vertragsbindung. Nutzen Sie sie für Ihre Reise, dann ist Schluss. Nichts
+    zu kündigen. Deckt alle Regionen ab.
   keywords: Island eSIM, Island Reise eSIM, beste eSIM Island, Island Datentarif, Síminn Island, Vodafone Iceland Island,
     Nova Island, Reykjavík eSIM, Kópavogur eSIM, Hafnarfjörður eSIM, Island mobiles Internet, 5G Island
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/is.svg
   flag_alt: Flagge von Island
-  title: 'Island eSIM 2026: Komplette Datenlösungen für Ihre Reise'
+  title: 'Island eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Island
 features:
   title: 'Warum Reisende Roami fuer Island waehlen: Abdeckung, Geschwindigkeit & Service'

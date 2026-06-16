@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Argentina eSIM | Buy Prepaid eSIM for Travelers"
-  description: "Travel to Argentina with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant activation. Covers Buenos Aires, Cordoba & Mendoza."
+  title: Argentina eSIM | Buy Prepaid eSIM for Travelers
+  description: Travel to Argentina with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant activation.
+    Covers Buenos Aires, Cordoba & Mendoza.
   keywords: Argentina eSIM, buy Argentina eSIM, best Argentina eSIM, Argentina travel eSIM, Movistar Argentina, Claro Argentina,
     Personal Argentina, Buenos Aires eSIM, Córdoba eSIM, Rosario eSIM, Argentina prepaid eSIM, 5G Argentina eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/ar.svg
   flag_alt: Argentina Flag
-  title: 'Argentina eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Argentina eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: Best prepaid eSIM for Argentina travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Argentina Travelers Choose Roami: Speed, Coverage & Support'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Niederlande eSIM | Unbegrenztes Datenvolumen"
-  description: "Brauchen Sie eine bezahlbare eSIM für Niederlande? Roami bietet Top-Qualität zum kleinen Preis. Deckt alle Regionen ab."
+  title: Niederlande eSIM | Unbegrenztes Datenvolumen
+  description: Brauchen Sie eine bezahlbare eSIM für Niederlande? Roami bietet Top-Qualität zum kleinen Preis. Deckt alle
+    Regionen ab.
   keywords: Niederlande eSIM, Niederlande Reise eSIM, beste eSIM Niederlande, Niederlande Datentarif, KPN Niederlande, Vodafone
     Niederlande, T-Mobile Niederlande, Amsterdam eSIM, Rotterdam eSIM, Den Haag eSIM, Niederlande mobiles Internet, 5G Niederlande
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/nl.svg
   flag_alt: Flagge von Niederlande
-  title: 'Niederlande eSIM 2026: Schnelles 5G für jedes Reiseziel'
+  title: 'Niederlande eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Niederlande - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
   title: 'Warum Reisende Roami fuer Niederlande waehlen: Geschwindigkeit, Abdeckung & Support'

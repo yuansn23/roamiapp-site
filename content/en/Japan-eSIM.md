@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Japan eSIM | Buy Prepaid eSIM for Travelers"
-  description: "Stay connected in Japan with the best prepaid travel eSIM from Roami. Get unlimited 5G data with instant activation. Buy your plan online before you depart.."
+  title: Japan eSIM | Buy Prepaid eSIM for Travelers
+  description: Stay connected in Japan with the best prepaid travel eSIM from Roami. Get unlimited 5G data with instant activation.
+    Buy your plan online before you depart..
   keywords: Japan eSIM, buy Japan eSIM, best Japan eSIM, Japan travel eSIM, NTT Docomo Japan, SoftBank Japan, KDDI Japan,
     Tokyo eSIM, Osaka eSIM, Kyoto eSIM, Japan prepaid eSIM, 5G Japan eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/jp.svg
   flag_alt: Japan Flag
-  title: 'Japan eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'Japan eSIM: Reliable Network & Coverage for Travelers'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Japan
 features:
   title: 'Why Japan Travelers Choose Roami: Plans, Network & Support'

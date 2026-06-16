@@ -19,8 +19,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Spagna eSIM | Internet veloce senza limiti"
-  description: "La eSIM Roami per Spagna offre il miglior rapporto qualità-prezzo. Risparmia sul tuo viaggio senza rinunciare alla qualità della connessione."
+  title: Spagna eSIM | Internet veloce senza limiti
+  description: La eSIM Roami per Spagna offre il miglior rapporto qualità-prezzo. Risparmia sul tuo viaggio senza rinunciare
+    alla qualità della connessione.
   keywords: eSIM Spagna, piano eSIM Spagna, migliore eSIM Spagna, Spagna dati, Movistar Spagna, Orange Spagna, Vodafone Spagna,
     eSIM Madrid, eSIM Barcellona, eSIM Valencia, internet mobile Spagna, 5G Spagna
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/es.svg
   flag_alt: Bandiera di Spagna
-  title: 'eSIM Spagna 2026: Soluzioni Dati Complete per il Tuo Viaggio'
+  title: 'eSIM Spagna: Soluzioni Dati Complete per il Tuo Viaggio'
   subtitle: Niente costi nascosti | Internet senza preoccupazioni | Supporto 24/7 - la migliore eSIM per Spagna
 features:
   title: 'Perché i viaggiatori scelgono Roami per Spagna: Copertura, Velocità & Servizio'

@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/lr.svg
   flag_alt: Drapeau Libéria
-  title: 'eSIM Libéria 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Libéria: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Libéria - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Libéria: Vitesse, Couverture & Support'

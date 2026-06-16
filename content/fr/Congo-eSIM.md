@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/cg.svg
   flag_alt: Drapeau Congo
-  title: 'eSIM Congo 2026: Solutions Data Complètes pour Votre Voyage'
+  title: 'eSIM Congo: Solutions Data Complètes pour Votre Voyage'
   subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour Congo
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Congo: Couverture, Vitesse & Service'

@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/il.svg
   flag_alt: Bandiera di Israele
-  title: 'eSIM Israele 2026: Rimani Connesso Ovunque'
+  title: 'eSIM Israele: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per Israele
 features:
   title: 'Perché i viaggiatori scelgono Roami per Israele: Piani, Rete & Supporto'

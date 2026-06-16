@@ -19,8 +19,9 @@ modal:
   text_android: 'Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d''une
     réduction de 20 %, code promo : web20'
 seo:
-  title: "Brunei eSIM | Activation rapide, pas d'engagement"
-  description: "Vous voulez une eSIM prepayee pour Brunei? Roami vous livre le code directement par email, sans frais d'envoi. Couvre tout le pays."
+  title: Brunei eSIM | Activation rapide, pas d'engagement
+  description: Vous voulez une eSIM prepayee pour Brunei? Roami vous livre le code directement par email, sans frais d'envoi.
+    Couvre tout le pays.
   keywords: eSIM Brunei, forfait eSIM Brunei, meilleure eSIM Brunei, Brunei data, DST Brunei, Progresif Brunei, imagine Brunei,
     eSIM Bandar Seri Begawan, eSIM Kuala Belait, eSIM Seria, internet mobile Brunei, 5G Brunei
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/br.svg
   flag_alt: Drapeau Brunei
-  title: 'eSIM Brunei 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Brunei: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Brunei - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Brunei: Vitesse, Couverture & Support'

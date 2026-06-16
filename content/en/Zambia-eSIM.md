@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Zambia eSIM | Ultimate Travel Data Plan"
-  description: "Travel to Zambia with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Lusaka, Kitwe & Ndola. Instant activation Buy your plan online today."
+  title: Zambia eSIM | Ultimate Travel Data Plan
+  description: Travel to Zambia with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Lusaka, Kitwe
+    & Ndola. Instant activation Buy your plan online today.
   keywords: Zambia eSIM, buy Zambia eSIM, best Zambia eSIM, Zambia travel eSIM, Airtel Zambia Zambia, MTN Zambia Zambia, Zamtel
     Zambia, Lusaka eSIM, Ndola eSIM, Kitwe eSIM, Zambia prepaid eSIM, 5G Zambia eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/za.svg
   flag_alt: Zambia Flag
-  title: 'Zambia eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'Zambia eSIM: Reliable Network & Coverage for Travelers'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Zambia travelers
 features:
   title: 'Why Zambia Travelers Choose Roami: Coverage, Speed & Service'

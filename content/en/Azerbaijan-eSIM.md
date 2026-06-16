@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Azerbaijan eSIM | Ultimate Travel Data Plan"
-  description: "Travel to Azerbaijan with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Covers Baku, Ganja & Sheki. Instant activation."
+  title: Azerbaijan eSIM | Ultimate Travel Data Plan
+  description: Travel to Azerbaijan with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Covers Baku,
+    Ganja & Sheki. Instant activation.
   keywords: Azerbaijan eSIM, buy Azerbaijan eSIM, best Azerbaijan eSIM, Azerbaijan travel eSIM, Azercell Azerbaijan, Bakcell
     Azerbaijan, Nar Azerbaijan, Baku eSIM, Ganja eSIM, Sumqayit eSIM, Azerbaijan prepaid eSIM, 5G Azerbaijan eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/az.svg
   flag_alt: Azerbaijan Flag
-  title: 'Azerbaijan eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Azerbaijan eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Azerbaijan
 features:
   title: 'Why Azerbaijan Travelers Choose Roami: Network, Plans & Value'

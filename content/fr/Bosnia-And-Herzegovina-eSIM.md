@@ -18,7 +18,7 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "eSIM Bosnie 30 jours : Idéal pour voyages d'affaires"
+  title: 'eSIM Bosnie 30 jours : Idéal pour voyages d''affaires'
   description: Comparez les forfaits eSIM Bosnie-Herzégovine avec la 5G à Sarajevo, Mostar, Banja Luka. Guide de couverture
     BH Telecom & m:tel & HT ERONET. Activation QR instantanee des $1.99.
   keywords: eSIM Bosnie-Herzégovine, forfait eSIM Bosnie-Herzégovine, meilleure eSIM Bosnie-Herzégovine, Bosnie-Herzégovine
@@ -43,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/ba.svg
   flag_alt: Drapeau Bosnie-Herzégovine
-  title: 'eSIM Bosnie-Herzégovine 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Bosnie-Herzégovine: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Bosnie-Herzégovine
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Bosnie-Herzégovine: Réseau, Forfaits & Prix'

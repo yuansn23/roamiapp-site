@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Österreich eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Reisen Sie nach Österreich mit Roami. Die eSIM Aktivierung dauert weniger als 2 Minuten. Einfach und unkompliziert. Deckt alle Regionen ab."
+  title: Österreich eSIM | Günstigste Prepaid Reise eSIM
+  description: Reisen Sie nach Österreich mit Roami. Die eSIM Aktivierung dauert weniger als 2 Minuten. Einfach und unkompliziert.
+    Deckt alle Regionen ab.
   keywords: Österreich eSIM, Österreich Reise eSIM, beste eSIM Österreich, Österreich Datentarif, A1 Österreich, T-Mobile
     Österreich, Drei Österreich, Wien eSIM, Graz eSIM, Linz eSIM, Österreich mobiles Internet, 5G Österreich
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/at.svg
   flag_alt: Flagge von Österreich
-  title: 'Österreich eSIM 2026: Schnelles 5G für jedes Reiseziel'
+  title: 'Österreich eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Österreich - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
   title: 'Warum Reisende Roami fuer Österreich waehlen: Geschwindigkeit, Abdeckung & Support'

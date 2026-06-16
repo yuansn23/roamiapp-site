@@ -45,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/tj.svg
   flag_alt: Tajikistan Flag
-  title: 'Tajikistan eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Tajikistan eSIM: Complete Data Solutions for Your Trip'
   subtitle: Best prepaid eSIM for Tajikistan travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Tajikistan Travelers Choose Roami: Speed, Coverage & Support'

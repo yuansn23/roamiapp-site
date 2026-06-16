@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Russia eSIM | Top Prepaid Travel eSIM Plan"
-  description: "Stay connected in Russia with Roami's best prepaid travel eSIM. Unlimited 5G data on top networks. Covers Moscow, St Petersburg & Kazan. Instant activation."
+  title: Russia eSIM | Top Prepaid Travel eSIM Plan
+  description: Stay connected in Russia with Roami's best prepaid travel eSIM. Unlimited 5G data on top networks. Covers Moscow,
+    St Petersburg & Kazan. Instant activation.
   keywords: Russia eSIM, buy Russia eSIM, best Russia eSIM, Russia travel eSIM, MegaFon Russia, MTS Russia, Beeline Russia,
     Moscow eSIM, Saint Petersburg eSIM, Novosibirsk eSIM, Russia prepaid eSIM, 5G Russia eSIM
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/ru.svg
   flag_alt: Russia Flag
-  title: 'Russia eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Russia eSIM: Complete Data Solutions for Your Trip'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Russia
 features:
   title: 'Why Russia Travelers Choose Roami: Network, Plans & Value'

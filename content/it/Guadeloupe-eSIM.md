@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/gp.svg
   flag_alt: Bandiera di Guadalupa
-  title: 'eSIM Guadalupa 2026: Rimani Connesso Ovunque'
+  title: 'eSIM Guadalupa: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per Guadalupa
 features:
   title: 'Perché i viaggiatori scelgono Roami per Guadalupa: Piani, Rete & Supporto'

@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Barbados eSIM | Best eSIM Plan for Tourists"
-  description: "Travel to Barbados with Roami's best prepaid travel eSIM. Unlimited 5G data across the island. Covers Bridgetown, Holetown. Instant activation."
+  title: Barbados eSIM | Best eSIM Plan for Tourists
+  description: Travel to Barbados with Roami's best prepaid travel eSIM. Unlimited 5G data across the island. Covers Bridgetown,
+    Holetown. Instant activation.
   keywords: Barbados eSIM, buy Barbados eSIM, best Barbados eSIM, Barbados travel eSIM, Digicel Barbados, Flow Barbados, Lime
     Barbados, Bridgetown eSIM, Speightstown eSIM, Oistins eSIM, Barbados prepaid eSIM, 5G Barbados eSIM
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/bb.svg
   flag_alt: Barbados Flag
-  title: 'Barbados eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Barbados eSIM: Stay Connected Everywhere You Go'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Barbados
 features:
   title: 'Why Barbados Travelers Choose Roami: Network, Plans & Value'

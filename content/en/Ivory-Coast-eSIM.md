@@ -45,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/ci.svg
   flag_alt: Ivory Coast Flag
-  title: 'Ivory Coast eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Ivory Coast eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Ivory Coast
 features:
   title: 'Why Ivory Coast Travelers Choose Roami: Network, Plans & Value'

@@ -19,8 +19,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à niveau vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient
     d''une réduction de 20%, code promo : web20'
 seo:
-  title: "Bolivie eSIM | Prépayé sans engagement, activé immédiat"
-  description: "Vous voulez une eSIM pas chere pour Bolivie? Roami vous propose le prix le plus attractif du marche. Couvre tout le pays."
+  title: Bolivie eSIM | Prépayé sans engagement, activé immédiat
+  description: Vous voulez une eSIM pas chere pour Bolivie? Roami vous propose le prix le plus attractif du marche. Couvre
+    tout le pays.
   keywords: eSIM Bolivie, forfait eSIM Bolivie, meilleure eSIM Bolivie, Bolivie data, Entel Bolivie, Tigo Bolivie, Viva Bolivie,
     eSIM La Paz, eSIM Santa Cruz, eSIM Cochabamba, internet mobile Bolivie, 5G Bolivie
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/bo.svg
   flag_alt: Drapeau Bolivie
-  title: 'eSIM Bolivie 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Bolivie: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Bolivie - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Bolivie: Vitesse, Couverture & Support'

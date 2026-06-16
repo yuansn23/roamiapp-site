@@ -46,7 +46,7 @@ banner:
 hero:
   flag_image: img/flags/cg.svg
   flag_alt: Congo Flag
-  title: 'Congo eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Congo eSIM: Fast 5G Data for Every City & Destination'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Congo travelers
 features:
   title: 'Why Congo Travelers Choose Roami: Coverage, Speed & Service'

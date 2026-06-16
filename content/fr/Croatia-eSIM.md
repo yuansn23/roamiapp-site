@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Croatie eSIM | Acheter prépayé, activation immédiate"
-  description: "Restez connecte a Croatie avec les donnees illimitees Roami. Surfez, partagez, appelez sans compter. Couvre tout le pays."
+  title: Croatie eSIM | Acheter prépayé, activation immédiate
+  description: Restez connecte a Croatie avec les donnees illimitees Roami. Surfez, partagez, appelez sans compter. Couvre
+    tout le pays.
   keywords: eSIM Croatie, forfait eSIM Croatie, meilleure eSIM Croatie, Croatie data, Hrvatski Telekom Croatie, A1 Croatie,
     Telemach Croatie, eSIM Zagreb, eSIM Split, eSIM Dubrovnik, internet mobile Croatie, 5G Croatie
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/hr.svg
   flag_alt: Drapeau Croatie
-  title: 'eSIM Croatie 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Croatie: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Croatie - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Croatie: Vitesse, Couverture & Support'

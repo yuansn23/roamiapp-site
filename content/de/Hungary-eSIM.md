@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Ungarn eSIM | Ohne Vertrag & sofort nutzbar"
-  description: "Sie kommen in Ungarn an? Aktivieren Sie Ihre Roami eSIM sofort, ohne Papierkram. In Sekunden online. Deckt alle Regionen ab."
+  title: Ungarn eSIM | Ohne Vertrag & sofort nutzbar
+  description: Sie kommen in Ungarn an? Aktivieren Sie Ihre Roami eSIM sofort, ohne Papierkram. In Sekunden online. Deckt
+    alle Regionen ab.
   keywords: Ungarn eSIM, Ungarn Reise eSIM, beste eSIM Ungarn, Ungarn Datentarif, Magyar Telekom Ungarn, Telenor Hungary Ungarn,
     Vodafone Hungary Ungarn, Budapest eSIM, Debrecen eSIM, Szeged eSIM, Ungarn mobiles Internet, 5G Ungarn
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/hu.svg
   flag_alt: Flagge von Ungarn
-  title: 'Ungarn eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Ungarn eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Ungarn
 features:
   title: 'Warum Reisende Roami fuer Ungarn waehlen: Netzwerk, Tarife & Preiswert'

@@ -44,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/om.svg
   flag_alt: Oman Flag
-  title: 'Oman eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Oman eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Oman
 features:
   title: 'Why Oman Travelers Choose Roami: Network, Plans & Value'

@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Saudi Arabia eSIM | Best Prepaid Plan for Travel"
-  description: "Enjoy unlimited 5G data in Saudi Arabia with the best prepaid travel eSIM from Roami. Instant activation. Covers Riyadh, Jeddah & Dammam Buy your plan online today."
+  title: Saudi Arabia eSIM | Best Prepaid Plan for Travel
+  description: Enjoy unlimited 5G data in Saudi Arabia with the best prepaid travel eSIM from Roami. Instant activation. Covers
+    Riyadh, Jeddah & Dammam Buy your plan online today.
   keywords: Saudi Arabia eSIM, buy Saudi Arabia eSIM, best Saudi Arabia eSIM, Saudi Arabia travel eSIM, STC Saudi Arabia,
     Mobily Saudi Arabia, Zain Saudi Arabia, Riyadh eSIM, Jeddah eSIM, Mecca eSIM, Saudi Arabia prepaid eSIM, 5G Saudi Arabia
     eSIM
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/sa.svg
   flag_alt: Saudi Arabia Flag
-  title: 'Saudi Arabia eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Saudi Arabia eSIM: Stay Connected Everywhere You Go'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Saudi Arabia travelers
 features:
   title: 'Why Saudi Arabia Travelers Choose Roami: Coverage, Speed & Service'

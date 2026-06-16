@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Estonie eSIM | Acheter prépayé, activation immédiate"
-  description: "Profitez de donnees illimitees a Estonie avec Roami. Navigation, streaming, reseaux sociaux, tout est permis. Couvre tout le pays."
+  title: Estonie eSIM | Acheter prépayé, activation immédiate
+  description: Profitez de donnees illimitees a Estonie avec Roami. Navigation, streaming, reseaux sociaux, tout est permis.
+    Couvre tout le pays.
   keywords: eSIM Estonie, forfait eSIM Estonie, meilleure eSIM Estonie, Estonie data, Telia Estonie, Elisa Estonie, Tele2
     Estonie, eSIM Tallinn, eSIM Tartu, eSIM Narva, internet mobile Estonie, 5G Estonie
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ee.svg
   flag_alt: Drapeau Estonie
-  title: 'eSIM Estonie 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Estonie: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Estonie
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Estonie: Réseau, Forfaits & Prix'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Guam eSIM | Internet veloce senza limiti"
-  description: "Roami per Guam: niente contratto, niente vincoli. Usala durante la tua vacanza, poi è finita. Senza complicazioni. Copre tutte le regioni."
+  title: Guam eSIM | Internet veloce senza limiti
+  description: 'Roami per Guam: niente contratto, niente vincoli. Usala durante la tua vacanza, poi è finita. Senza complicazioni.
+    Copre tutte le regioni.'
   keywords: eSIM Guam, piano eSIM Guam, migliore eSIM Guam, Guam dati, Docomo Pacific Guam, IT&E Guam, GTA Guam, eSIM Hagåtña,
     eSIM Tumon, eSIM Dededo, internet mobile Guam, 5G Guam
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/gu.svg
   flag_alt: Bandiera di Guam
-  title: 'eSIM Guam 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Guam: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Guam - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Guam: Velocità, Copertura & Supporto'

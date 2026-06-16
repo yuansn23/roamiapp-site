@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Nepal eSIM | Best Prepaid Plan for Travel"
-  description: "Travel to Nepal with Roami's best prepaid travel eSIM. Unlimited 5G data. Covers Kathmandu, Pokhara & Bharatpur. Instant QR activation Buy your plan online today."
+  title: Nepal eSIM | Best Prepaid Plan for Travel
+  description: Travel to Nepal with Roami's best prepaid travel eSIM. Unlimited 5G data. Covers Kathmandu, Pokhara & Bharatpur.
+    Instant QR activation Buy your plan online today.
   keywords: Nepal eSIM, buy Nepal eSIM, best Nepal eSIM, Nepal travel eSIM, Ncell Nepal, Nepal Telecom Nepal, Smart Cell Nepal,
     Kathmandu eSIM, Pokhara eSIM, Bharatpur eSIM, Nepal prepaid eSIM, 5G Nepal eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/ne.svg
   flag_alt: Nepal Flag
-  title: 'Nepal eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Nepal eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Nepal
 features:
   title: 'Why Nepal Travelers Choose Roami: Plans, Network & Support'

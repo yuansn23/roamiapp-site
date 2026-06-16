@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Poland eSIM | Ultimate Travel Data Plan"
-  description: "Travel to Poland with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant QR activation. Covers Warsaw, Krakow & Wroclaw."
+  title: Poland eSIM | Ultimate Travel Data Plan
+  description: Travel to Poland with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant QR activation.
+    Covers Warsaw, Krakow & Wroclaw.
   keywords: Poland eSIM, buy Poland eSIM, best Poland eSIM, Poland travel eSIM, Play Poland, Orange Poland, T-Mobile Poland,
     Warsaw eSIM, Krakow eSIM, Gdansk eSIM, Poland prepaid eSIM, 5G Poland eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/pl.svg
   flag_alt: Poland Flag
-  title: 'Poland eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'Poland eSIM: Reliable Network & Coverage for Travelers'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Poland
 features:
   title: 'Why Poland Travelers Choose Roami: Plans, Network & Support'

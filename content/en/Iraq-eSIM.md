@@ -44,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/iq.svg
   flag_alt: Iraq Flag
-  title: 'Iraq eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Iraq eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Iraq
 features:
   title: 'Why Iraq Travelers Choose Roami: Network, Plans & Value'

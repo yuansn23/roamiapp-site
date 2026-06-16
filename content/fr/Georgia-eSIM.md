@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Géorgie eSIM | Activation rapide, pas d'engagement"
-  description: "L'eSIM prepayee Roami pour Géorgie s'achete en ligne sans attendre. Pas de livraison, tout est dematerialise. Couvre tout le pays."
+  title: Géorgie eSIM | Activation rapide, pas d'engagement
+  description: L'eSIM prepayee Roami pour Géorgie s'achete en ligne sans attendre. Pas de livraison, tout est dematerialise.
+    Couvre tout le pays.
   keywords: eSIM Géorgie, forfait eSIM Géorgie, meilleure eSIM Géorgie, Géorgie data, MagtiCom Géorgie, Silknet Géorgie, Geocell
     Géorgie, eSIM Tbilissi, eSIM Batoumi, eSIM Koutaïssi, internet mobile Géorgie, 5G Géorgie
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ge.svg
   flag_alt: Drapeau Géorgie
-  title: 'eSIM Géorgie 2026: Solutions Data Complètes pour Votre Voyage'
+  title: 'eSIM Géorgie: Solutions Data Complètes pour Votre Voyage'
   subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour Géorgie
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Géorgie: Couverture, Vitesse & Service'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Canada eSIM | Pas cher & sans engagement"
-  description: "Voyagez a Canada en toute liberte avec Roami. Pas d'engagement, pas de renouvellement automatique. Simple et honnete. Couvre Toronto, Vancouver & tout le Canada."
+  title: Canada eSIM | Pas cher & sans engagement
+  description: Voyagez a Canada en toute liberte avec Roami. Pas d'engagement, pas de renouvellement automatique. Simple et
+    honnete. Couvre Toronto, Vancouver & tout le Canada.
   keywords: eSIM Canada, forfait eSIM Canada, meilleure eSIM Canada, Canada data, Rogers Canada, Bell Canada, Telus Canada,
     eSIM Toronto, eSIM Vancouver, eSIM Montréal, internet mobile Canada, 5G Canada
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ca.svg
   flag_alt: Drapeau Canada
-  title: 'eSIM Canada 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Canada: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Canada
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Canada: Réseau, Forfaits & Prix'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Armenien eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Für Armenien wählen Sie Roami und zahlen weniger. Unsere eSIM ist unschlagbar günstig. Deckt alle Regionen ab."
+  title: Armenien eSIM | Günstigste Prepaid Reise eSIM
+  description: Für Armenien wählen Sie Roami und zahlen weniger. Unsere eSIM ist unschlagbar günstig. Deckt alle Regionen
+    ab.
   keywords: Armenien eSIM, Armenien Reise eSIM, beste eSIM Armenien, Armenien Datentarif, Ucom Armenien, Viva-MTS Armenien,
     Team Telecom Armenia Armenien, Jerewan eSIM, Gjumri eSIM, Wanadsor eSIM, Armenien mobiles Internet, 5G Armenien
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/am.svg
   flag_alt: Flagge von Armenien
-  title: 'Armenien eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Armenien eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Armenien
 features:
   title: 'Warum Reisende Roami fuer Armenien waehlen: Netzwerk, Tarife & Preiswert'

@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Finland eSIM | Unlimited Data Plan for Travelers"
-  description: "Need a prepaid travel eSIM for Finland? Roami offers unlimited 5G data nationwide. Instant QR activation. Covers Helsinki, Rovaniemi & all regions."
+  title: Finland eSIM | Unlimited Data Plan for Travelers
+  description: Need a prepaid travel eSIM for Finland? Roami offers unlimited 5G data nationwide. Instant QR activation. Covers
+    Helsinki, Rovaniemi & all regions.
   keywords: Finland eSIM, buy Finland eSIM, best Finland eSIM, Finland travel eSIM, Elisa Finland, DNA Finland, Telia Finland,
     Helsinki eSIM, Espoo eSIM, Tampere eSIM, Finland prepaid eSIM, 5G Finland eSIM
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/fi.svg
   flag_alt: Finland Flag
-  title: 'Finland eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Finland eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Finland
 features:
   title: 'Why Finland Travelers Choose Roami: Network, Plans & Value'

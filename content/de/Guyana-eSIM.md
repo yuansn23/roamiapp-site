@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/gy.svg
   flag_alt: Flagge von Guyana
-  title: 'Guyana eSIM 2026: Komplette Datenlösungen für Ihre Reise'
+  title: 'Guyana eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Guyana
 features:
   title: 'Warum Reisende Roami fuer Guyana waehlen: Abdeckung, Geschwindigkeit & Service'

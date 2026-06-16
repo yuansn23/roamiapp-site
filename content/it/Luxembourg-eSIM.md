@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Lussemburgo eSIM | Ricarica immediata senza contratto"
-  description: "Prepara il tuo viaggio in Lussemburgo con Roami. La nostra eSIM ti accompagna ovunque per un'esperienza senza preoccupazioni, sempre connesso. Copre tutte le regioni."
+  title: Lussemburgo eSIM | Ricarica immediata senza contratto
+  description: Prepara il tuo viaggio in Lussemburgo con Roami. La nostra eSIM ti accompagna ovunque per un'esperienza senza
+    preoccupazioni, sempre connesso. Copre tutte le regioni.
   keywords: eSIM Lussemburgo, piano eSIM Lussemburgo, migliore eSIM Lussemburgo, Lussemburgo dati, Orange Lussemburgo, Tango
     Lussemburgo, Post Luxembourg Lussemburgo, eSIM Esch-sur-Alzette, eSIM Differdange, internet mobile Lussemburgo, 5G Lussemburgo
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/lu.svg
   flag_alt: Bandiera di Lussemburgo
-  title: 'eSIM Lussemburgo 2026: Rimani Connesso Ovunque'
+  title: 'eSIM Lussemburgo: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per Lussemburgo
 features:
   title: 'Perché i viaggiatori scelgono Roami per Lussemburgo: Piani, Rete & Supporto'

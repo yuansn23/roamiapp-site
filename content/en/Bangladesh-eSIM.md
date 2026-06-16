@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Bangladesh eSIM | Unlimited Data Plan for Travelers"
-  description: "The best way to stay connected in Bangladesh. Unlimited 5G data with instant activation. Covers Dhaka, Chittagong & Sylhet. Instant activation."
+  title: Bangladesh eSIM | Unlimited Data Plan for Travelers
+  description: The best way to stay connected in Bangladesh. Unlimited 5G data with instant activation. Covers Dhaka, Chittagong
+    & Sylhet. Instant activation.
   keywords: Bangladesh eSIM, buy Bangladesh eSIM, best Bangladesh eSIM, Bangladesh travel eSIM, Grameenphone Bangladesh, Robi
     Bangladesh, Banglalink Bangladesh, Dhaka eSIM, Chittagong eSIM, Sylhet eSIM, Bangladesh prepaid eSIM, 5G Bangladesh eSIM
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/bd.svg
   flag_alt: Bangladesh Flag
-  title: 'Bangladesh eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Bangladesh eSIM: Complete Data Solutions for Your Trip'
   subtitle: Best prepaid eSIM for Bangladesh travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Bangladesh Travelers Choose Roami: Speed, Coverage & Support'

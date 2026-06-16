@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Suède eSIM | Activation rapide, pas d'engagement"
-  description: "Achetez votre eSIM Roami pour Suède depuis votre canape. Valable des l'achat, prete a l'emploi a l'arrivee. Couvre tout le pays."
+  title: Suède eSIM | Activation rapide, pas d'engagement
+  description: Achetez votre eSIM Roami pour Suède depuis votre canape. Valable des l'achat, prete a l'emploi a l'arrivee.
+    Couvre tout le pays.
   keywords: eSIM Suède, forfait eSIM Suède, meilleure eSIM Suède, Suède data, Telia Suède, Telenor Suède, Tele2 Suède, eSIM
     Stockholm, eSIM Göteborg, eSIM Malmö, internet mobile Suède, 5G Suède
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/se.svg
   flag_alt: Drapeau Suède
-  title: 'eSIM Suède 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Suède: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Suède - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Suède: Vitesse, Couverture & Support'

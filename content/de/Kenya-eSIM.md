@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Kenia eSIM | Unbegrenztes Datenvolumen zum Bestpreis"
-  description: "Brauchen Sie eine bezahlbare eSIM für Kenia? Roami bietet Top-Qualität zum kleinen Preis. Deckt alle Regionen ab."
+  title: Kenia eSIM | Unbegrenztes Datenvolumen zum Bestpreis
+  description: Brauchen Sie eine bezahlbare eSIM für Kenia? Roami bietet Top-Qualität zum kleinen Preis. Deckt alle Regionen
+    ab.
   keywords: Kenia eSIM, Kenia Reise eSIM, beste eSIM Kenia, Kenia Datentarif, Safaricom Kenia, Airtel Kenia, Telkom Kenya
     Kenia, Nairobi eSIM, Mombasa eSIM, Kisumu eSIM, Kenia mobiles Internet, 5G Kenia
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ke.svg
   flag_alt: Flagge von Kenia
-  title: 'Kenia eSIM 2026: Komplette Datenlösungen für Ihre Reise'
+  title: 'Kenia eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Kenia
 features:
   title: 'Warum Reisende Roami fuer Kenia waehlen: Abdeckung, Geschwindigkeit & Service'

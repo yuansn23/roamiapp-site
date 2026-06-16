@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Francia eSIM | Attivazione immediata conveniente"
-  description: "La eSIM Roami per Francia offre una connessione 5G veloce e stabile. Perfetta per chi viaggia e vuole restare sempre online. Copre Parigi, Nizza & la Provenza."
+  title: Francia eSIM | Attivazione immediata conveniente
+  description: La eSIM Roami per Francia offre una connessione 5G veloce e stabile. Perfetta per chi viaggia e vuole restare
+    sempre online. Copre Parigi, Nizza & la Provenza.
   keywords: eSIM Francia, piano eSIM Francia, migliore eSIM Francia, Francia dati, Orange Francia, SFR Francia, Bouygues Telecom
     Francia, eSIM Parigi, eSIM Lione, eSIM Marsiglia, internet mobile Francia, 5G Francia
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/fr.svg
   flag_alt: Bandiera di Francia
-  title: 'eSIM Francia 2026: Rimani Connesso Ovunque'
+  title: 'eSIM Francia: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per Francia
 features:
   title: 'Perché i viaggiatori scelgono Roami per Francia: Piani, Rete & Supporto'

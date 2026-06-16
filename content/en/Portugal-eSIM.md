@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Portugal eSIM | Best eSIM Plan for Tourists"
-  description: "Enjoy unlimited 5G data in Portugal with Roami's best prepaid travel eSIM. Instant activation. Covers Lisbon, Porto & the Algarve coast Buy your plan online today."
+  title: Portugal eSIM | Best eSIM Plan for Tourists
+  description: Enjoy unlimited 5G data in Portugal with Roami's best prepaid travel eSIM. Instant activation. Covers Lisbon,
+    Porto & the Algarve coast Buy your plan online today.
   keywords: Portugal eSIM, buy Portugal eSIM, best Portugal eSIM, Portugal travel eSIM, Vodafone Portugal Portugal, MEO Portugal,
     NOS Portugal, Lisbon eSIM, Porto eSIM, Faro eSIM, Portugal prepaid eSIM, 5G Portugal eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/pt.svg
   flag_alt: Portugal Flag
-  title: 'Portugal eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Portugal eSIM: Complete Data Solutions for Your Trip'
   subtitle: Best prepaid eSIM for Portugal travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Portugal Travelers Choose Roami: Speed, Coverage & Support'

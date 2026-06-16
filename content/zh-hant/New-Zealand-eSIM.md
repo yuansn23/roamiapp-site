@@ -1,5 +1,5 @@
 ---
-title: 紐西蘭 eSIM 數據方案 | 最佳 2026 旅遊 eSIM | Roami
+title: '紐西蘭 eSIM 2026: 旅客與網路 | Roami'
 date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
@@ -13,14 +13,13 @@ country_meta:
 modal:
   title: 服務升級！
   btn_text: 繼續
-  text_default: |-
-    我們的 eSIM 服務已升級為 <strong>PhoneSIMGo</strong>。<br>新客戶享有 20% 折扣，折扣碼：web20
-  text_android: |-
-    我們的 eSIM 服務已升級為 <strong>PhoneSIM</strong>。<br>新客戶享有 20% 折扣，折扣碼：web20
+  text_default: 我們的 eSIM 服務已升級為 <strong>PhoneSIMGo</strong>。<br>新客戶享有 20% 折扣，折扣碼：web20
+  text_android: 我們的 eSIM 服務已升級為 <strong>PhoneSIM</strong>。<br>新客戶享有 20% 折扣，折扣碼：web20
 seo:
   title: "紐西蘭eSIM｜免綁約5G上網，免實名認證即開即用"
   description: "Roami免綁約全球eSIM在200多個國家都能使用，去紐西蘭當然也沒問題。5G高速上網跨國旅遊一卡搞定，多國旅行不用換卡超方便推薦首選，網路穩定可靠。"
-  keywords: 紐西蘭 eSIM, 旅遊 eSIM, 紐西蘭數據方案, 即時發送, 免漫遊費, QR code eSIM
+  keywords: 紐西蘭 eSIM, 紐西蘭 eSIM方案, 最佳紐西蘭 eSIM, 紐西蘭上網, Spark 紐西蘭, Vodafone NZ 紐西蘭, 2degrees 紐西蘭, 奧克蘭 eSIM, 威靈頓 eSIM, 基督城 eSIM,
+    紐西蘭行動網路, 5G 紐西蘭
   low_price: 1.99
   high_price: 39.9
 order_summary:
@@ -30,7 +29,7 @@ order_summary:
   label_daily: 每日平均
   label_total: 總金額
   btn_primary: 領取 20% 折扣
-  btn_secondary: '代碼：web20'
+  btn_secondary: 代碼：web20
 breadcrumbs:
 - label: 首頁
   url: /
@@ -41,37 +40,37 @@ banner:
   title: 最佳紐西蘭 eSIM
 hero:
   flag_image: img/flags/nz.svg
-  flag_alt: 紐西蘭國旗
-  title: 紐西蘭 eSIM 數據方案
-  subtitle: 無憂上網 | 24/7 客戶支援 | 無隱藏費用
+  flag_alt: 紐西蘭 國旗
+  title: '紐西蘭 eSIM: 旅客信賴的穩定網路'
+  subtitle: 即時啟用 | 5G高速上網 | 24/7客服 - 紐西蘭最佳預付eSIM
 features:
-  title: 為什麼旅客選擇 Roami
+  title: 為什麼旅客選擇Roami的紐西蘭 eSIM：網路、方案與價格
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
     title: 即時 QR Code
-    desc: 5 分鐘內發送完畢
+    desc: 5分鐘內透過Email收到您的紐西蘭 eSIM QR碼
   - icon: headset
     color: from-emerald-400 to-emerald-600
     title: 24/7 支援
-    desc: 隨時為您提供協助
+    desc: 為您的紐西蘭之旅提供24/7客服 - 真人服務，非機器人
   - icon: shield-check
     color: from-amber-400 to-amber-600
     title: 安心保證
-    desc: 退款保障機制
+    desc: 若紐西蘭 eSIM無法啟用，100%全額退款
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: 支援熱點分享
-    desc: 與其他裝置共享網路
+    desc: 與旅伴分享您的紐西蘭數據，無限制
   - icon: file-x
     color: from-rose-400 to-rose-600
     title: 無需綁約
-    desc: 隨時自由取消
+    desc: 無合約，隨時取消 - 紐西蘭旅行完美選擇
   - icon: radio-tower
     color: from-blue-400 to-blue-600
     title: 自動切換
-    desc: 連接至頂級電信商
-plans_title: 選擇您的方案
+    desc: 自動連線紐西蘭最佳電信商，取得最強訊號
+plans_title: 購買紐西蘭 eSIM：適合各種旅程的方案
 plans_data:
   30 Days:
   - spec: 5GB
@@ -275,20 +274,20 @@ plans_data:
     daily: '1.33'
 discount_banner:
   title: 特別優惠！
-  desc_html: |-
-    在結帳時使用折扣碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享有訂單 <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  desc_html: 在結帳時使用折扣碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享有訂單
+    <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
   btn_text: 領取折扣
-  validity: '有效期：3 天'
+  validity: 有效期：3 天
 network_coverage:
-  title: 網路覆蓋詳情
-  supports_text: '支援：'
+  title: 紐西蘭 eSIM覆蓋範圍：覆蓋範圍與電信商比較
+  supports_text: 支援：
   service_details:
     title: 服務詳情
     items:
     - icon: map
       color: text-brand-500
       title: 覆蓋範圍
-      desc: 享受遍布紐西蘭的全面網路覆蓋，包含奧克蘭、威靈頓、基督城和皇后鎮等主要城市。我們的紐西蘭 eSIM 能夠無縫連接到 Spark、Vodafone 和 2degrees 的強大網路，確保在城市中心、觀光景點以及主要交通路線上都擁有穩定的訊號。
+      desc: 享受覆蓋全紐西蘭的全面網路，包括奧克蘭, 威靈頓, 基督城, 皇后鎮。您的eSIM會自動連線至Spark, Vodafone NZ, 2degrees的強大網路，在市區、旅遊熱點和主要交通路線提供穩定訊號。
     - icon: zap
       color: text-amber-500
       title: 發送時間
@@ -298,24 +297,24 @@ network_coverage:
       title: 熱點分享
       desc: 無熱點分享限制或約束。
   carriers:
-    title: 電信商網路
+    title: Spark, Vodafone NZ & 2degrees：紐西蘭 eSIM電信商
     badge: 官方合作夥伴
     items:
     - name: Spark
-      coverage: 低延遲
+      coverage: 最佳整體覆蓋
       network: 5G/4G/LTE 網路
     - name: Vodafone NZ
-      coverage: 高可靠性
+      coverage: 城市高速5G
       network: 5G/4G/LTE 網路
     - name: 2degrees
-      coverage: 原生 IP
+      coverage: 良好市區覆蓋
       network: 5G/4G/LTE 網路
 reminders:
-  title: 重要提醒
+  title: 紐西蘭 eSIM秘訣：出發前須知
   items:
   - icon: 📱
-    html: |-
-      購買前請確保您的手機與 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容</a>。
+    html: 購買前請確保您的手機與 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
+      transition-colors">eSIM 相容</a>。
   - icon: ✈️
     html: 建議您抵達紐西蘭後再開啟此線路。
   - icon: ⏰
@@ -326,50 +325,50 @@ reminders:
     html: 您可以同時安裝多個 eSIM。
   compatibility_check:
     title: 快速相容性檢查
-    desc: '不確定您的手機是否支援 eSIM？現在您就可以對照手機自行輕鬆檢查：'
-    instruction: '在手機的撥號鍵盤上輸入：'
+    desc: 不確定您的手機是否支援 eSIM？現在您就可以對照手機自行輕鬆檢查：
+    instruction: 在手機的撥號鍵盤上輸入：
     code: '*#06#'
-    result_html: |-
-      如果螢幕上出現 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，即表示支援您的裝置！
+    result_html: 如果螢幕上出現 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
+      號碼，即表示支援您的裝置！
 activation_steps:
-  title: 啟用步驟
+  title: 紐西蘭 eSIM啟用：3個簡單步驟
   steps:
   - num: '1'
-    title: '步驟 1：接收 QR Code'
+    title: 步驟 1：接收 QR Code
     desc: 付款後，QR code 與啟用指南將在 5 分鐘內發送至您的電子信箱。若未收到，請檢查垃圾郵件箱。
     is_list: false
   - num: '2'
-    title: '步驟 2：將 eSIM 加入手機'
+    title: 步驟 2：將 eSIM 加入手機
     is_list: true
     list_items:
-    - |-
-      前往 設定 > 行動服務（或行動數據）
+    - 前往 設定 > 行動服務（或行動數據）
     - 點擊「加入行動方案」或「加入 eSIM」
     - 用相機掃描 QR code
     - 按照提示完成設定
   - num: '3'
-    title: '步驟 3：在紐西蘭啟用'
+    title: 步驟 3：在紐西蘭啟用
     desc: 抵達紐西蘭後，在設定中開啟您的紐西蘭 eSIM 即可開始使用數據。建議在首次啟用時連線至 WiFi。
     is_list: false
 faq_section:
-  title: 紐西蘭 eSIM 常見問題與旅遊指南
-  desc: 涵蓋您在不同旅遊場景下使用紐西蘭 eSIM 所需了解的一切資訊。
+  title: 紐西蘭 eSIM指南 2026：旅遊與數據指南
+  desc: 從奧克蘭到威靈頓，使用Spark, Vodafone NZ, 2degrees保持連線。我們的完整紐西蘭 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 1. 一般常見問題
+    title: 1. 關於紐西蘭 eSIM的常見問題
     questions:
     - q: 我的手機支援紐西蘭 eSIM 嗎？該如何安裝？
-      a: 大多數自 iPhone XS/XR 起的現代智慧型手機、Samsung Galaxy S20+ 以及 Google Pixel 3+ 均支援 eSIM。您只需在手機的行動服務/行動數據設定中，掃描我們發送到您電子信箱的 QR code 即可完成安裝。
+      a: 大多數自 iPhone XS/XR 起的現代智慧型手機、Samsung Galaxy S20+ 以及 Google Pixel 3+ 均支援 eSIM。您只需在手機的行動服務/行動數據設定中，掃描我們發送到您電子信箱的 QR
+        code 即可完成安裝。
     - q: 如何購買與啟用紐西蘭 eSIM？購買後會立即生效嗎？
       a: 您可以直接在我們的網站上購買。購買後不會立即生效；有效期僅在您抵達紐西蘭且手機成功連線至當地網路時才開始計算。
-    - q: 什麼是啟用 QR code？它會過期嗎？可以重複使用吗？
-      a: QR code 是您紐西蘭 eSIM 的數位 SIM 卡描述檔。通常需要在購買後 30 天內進行安裝。一旦安裝成功，便無法再次掃描或轉移到其他裝置上。
+    - q: Spark還是Vodafone NZ在紐西蘭更好？
+      a: Spark和Vodafone NZ在紐西蘭都提供出色的覆蓋範圍。Spark在偏遠地區的覆蓋通常更好，而Vodafone NZ在城市中提供競爭力的5G速度。對於大多數前往紐西蘭的旅客來說，兩個網路都能良好運作。
     - q: 如果紐西蘭 eSIM 無法正常運作或訊號很差，可以退款嗎？
       a: 可以，我們提供退款保障。如果您在紐西蘭遇到持續性的網路問題，且我們的支援團隊無法協助解決，您將符合退款資格。
-    - q: 你們提供 24/7 客戶支援嗎？該如何聯繫？
-      a: 是的，我們的技術支援團隊全天候 24 小時在線。您可以透過我們網站上的即時聊天視窗，或直接回覆您的訂單確認信與我們取得聯繫。
+    - q: 紐西蘭 eSIM在奧克蘭和威靈頓能正常使用嗎？
+      a: 是的，紐西蘭 eSIM在奧克蘭、威靈頓和其他主要城市提供出色的覆蓋。主要電信商在所有城市中心、旅遊景點和主要交通路線沿線提供強大的5G/4G網路。
     - q: 有折扣碼嗎？該如何使用 'web20' 促銷代碼？
       a: 有的！您可以在結帳頁面輸入促銷代碼 'web20'，即可讓您的紐西蘭 eSIM 訂單立享 20% 折扣。
     - q: 你們的「無限數據」方案是真的吃到飽嗎？是否有公平使用原則 (FUP)？
@@ -383,10 +382,10 @@ faq_section:
   - id: faq-airport
     icon: plane
     tab_title: 機場網路
-    title: 2. 機場網路
+    title: 2. 紐西蘭 eSIM在機場
     questions:
-    - q: 如何在下飛機後立即獲得可靠的網路連線？
-      a: 請在登機前安裝好紐西蘭 eSIM。當您降落在奧克蘭機場 (AKL)、基督城機場 (CHC) 或威靈頓機場 (WLG) 後，只需關閉飛航模式並開啟您的 eSIM 線路，即可在幾秒鐘內連線至當地的 4G/5G 網路。
+    - q: 我能在抵達後立即啟用紐西蘭 eSIM嗎？
+      a: 可以，您抵達後就能立即啟用紐西蘭 eSIM。使用機場免費WiFi，從Email掃描QR碼，2分鐘內即可上線。我們建議在出發前先安裝好eSIM。
     - q: 該如何聯絡我的機場接機司機或使用 Uber/Grab？
       a: 降落並啟用紐西蘭 eSIM 後，您可以立即打開 Uber、Ola、Book A Driver 進行叫車，或使用 WhatsApp 傳送訊息給您預約的司機，完全不需要依賴機場不穩定的 Wi-Fi。
     - q: 如何使用 Google 地圖/Apple 地圖尋找交通工具？
@@ -400,10 +399,10 @@ faq_section:
   - id: faq-transport
     icon: car
     tab_title: 交通出行
-    title: 3. 交通與行程
+    title: 3. 紐西蘭 eSIM交通指南
     questions:
-    - q: 如何使用 Google 地圖/Apple 地圖規劃路線？
-      a: 我們穩定的紐西蘭 eSIM 連線可確保 Google 地圖在紐西蘭任何地方都能下載即時路況數據和公共交通時刻表，讓導航變得順暢無阻。
+    - q: 我能在紐西蘭使用eSIM叫車和導航嗎？
+      a: 可以，紐西蘭 eSIM可搭配叫車App和Google地圖使用。5GB/15天方案($4.99)足夠日常導航和叫車使用。
     - q: 如何讓 Uber/Grab 司機透過 App 與您聯絡？
       a: 像 Uber、Ola、Book A Driver 這樣的 App 使用的是網路電話 (VoIP) 和 App 內訊息功能。由於您擁有活躍的紐西蘭 eSIM 數據，司機可以直接透過 App 撥打電話或傳送訊息給您，不需要當地的電話號碼。
     - q: 如何在線上購買火車票/地鐵票？
@@ -419,7 +418,7 @@ faq_section:
   - id: faq-hotels
     icon: hotel
     tab_title: 飯店住宿
-    title: 4. 飯店與住宿
+    title: 4. 紐西蘭 eSIM在飯店
     questions:
     - q: 在 Booking.com/Agoda 訂房後該如何進行自助辦理入住 (self-check-in)？
       a: 許多現代化的旅宿要求您登入線上平台或查看電子信箱以獲取智能鎖密碼。您的紐西蘭 eSIM 可確保您在門口就能立即獲取這些詳細資訊。
@@ -438,10 +437,10 @@ faq_section:
   - id: faq-attractions
     icon: landmark
     tab_title: 景點娛樂
-    title: 5. 景點與娛樂
+    title: 5. 紐西蘭 eSIM在景點
     questions:
-    - q: 如何透過 GetYourGuide/Viator 購買電子門票？
-      a: 如果您臨時決定造訪奧克蘭天空塔、懷托摩螢火蟲洞或湯加里羅越嶺步道，可以使用紐西蘭 eSIM 數據在線上購買免排隊門票，並直接在螢幕上出示條碼。
+    - q: 在紐西蘭的旅遊景點有網路收訊嗎？
+      a: 紐西蘭的主要景點通常有良好的4G/5G覆蓋。偏遠地區訊號可能較弱。建議前往偏遠目的地前先下載離線地圖。
     - q: 如何在 Tripadvisor 上立即預訂體驗行程？
       a: 憑藉紐西蘭 eSIM 穩定流暢的 4G/5G 網路，您可以在附近咖啡廳喝咖啡的同時，在 Tripadvisor 上閱讀評論並預訂在地導覽或體驗。
     - q: 參觀過程中如何使用 Google/維基百科查詢資料？
@@ -476,10 +475,10 @@ faq_section:
   - id: faq-social
     icon: smartphone
     tab_title: 社群通訊
-    title: 7. 社群媒體與通訊
+    title: 7. 紐西蘭 eSIM社群媒體
     questions:
-    - q: 如何在海外穩定使用 WhatsApp/Telegram？
-      a: 您的 WhatsApp 和 Telegram 帳戶是與您原本的國內號碼綁定的。在我們的紐西蘭 eSIM 提供網路支援下，您可以完全像在國內一樣進行聊天和通話。
+    - q: 去紐西蘭旅行需要多少數據量？
+      a: 輕度使用者(地圖+訊息)約300MB/天，中度(社群+照片)約700MB/天，重度(串流+視訊)選擇無限方案。大多數旅客在紐西蘭標準行程中選擇5GB/15天已足夠。
     - q: 如何在不連接公共 Wi-Fi 的情況下將內容上傳到 Instagram/TikTok？
       a: 公共 Wi-Fi 可能既慢又安全堪憂。我們的 4G/5G 紐西蘭 eSIM 為您提供了安全上傳大型影片檔案到 TikTok 或 Instagram 所需的頻寬。
     - q: 如何與家人進行 FaceTime/WhatsApp 視訊通話？
@@ -510,10 +509,10 @@ faq_section:
   - id: faq-emergency
     icon: alert-triangle
     tab_title: 緊急狀況
-    title: 9. 緊急求助
+    title: 9. 紐西蘭 eSIM緊急情況
     questions:
-    - q: 在不熟悉的國家如何撥打在地緊急求助電話？
-      a: 在紐西蘭，只要您的手機有收到任何微弱的行動網路訊號，您都可以直接從手機的撥號盤撥打當地的緊急電話（如 111），這與您當前啟用的 SIM 卡無關。
+    - q: 我能在紐西蘭 eSIM上使用WhatsApp、FaceTime和微信嗎？
+      a: 可以！紐西蘭 eSIM支援WhatsApp音訊/視訊通話、FaceTime、微信和Zoom，無限制。透過您喜愛的應用程式與家人保持聯繫。
     - q: 突發疾病時，如何找到最近的醫院/藥局？
       a: 您的紐西蘭 eSIM 數據允許您立即在 Google 地圖上搜尋「附近的藥局」或「醫院」，並獲取最快的路線指南。
     - q: 遺失護照後，如何查詢大使館/領事館的資訊？
@@ -527,7 +526,7 @@ faq_section:
   - id: faq-business
     icon: briefcase
     tab_title: 商務辦公
-    title: 10. 商務與工作
+    title: 10. 紐西蘭 eSIM商務旅行
     questions:
     - q: 如何確保 Zoom/Microsoft Teams 視訊會議穩定流暢？
       a: 我們的紐西蘭 eSIM 連接至優質的在地網路，提供了流暢、專業的視訊會議所需的高頻寬與低延遲。
@@ -594,84 +593,81 @@ related_products:
     flag: img/flags/au.svg
     price: 自 $1.99
     is_highlight: false
-
-# =============== 100% 完整还原：基于数据驱动的市场对比分析模块 ===============
 market_analysis:
-  title: "紐西蘭 eSIM vs 在地 SIM 卡：哪一個能幫您省更多？"
-  subtitle: "紐西蘭在地預付 SIM 卡 vs. eSIM 解決方案 (2024/2025 基準測試)"
+  title: 紐西蘭 eSIM vs 在地 SIM 卡：哪一個能幫您省更多？
+  subtitle: 紐西蘭在地預付 SIM 卡 vs. eSIM 解決方案 (2024/2025 基準測試)
   citation:
-    text: "數據來源：Prepaid Data SIM Card Wiki (紐西蘭) + 在地電信商網站"
-    url: "https://prepaid-data-sim-card.fandom.com/wiki/New-Zealand"
+    text: 數據來源：Prepaid Data SIM Card Wiki (紐西蘭) + 在地電信商網站
+    url: https://prepaid-data-sim-card.fandom.com/wiki/New-Zealand
   table_headers:
-    - "比較矩陣"
-    - "在地預付 SIM 卡 (市場數據)"
-    - "Roami 紐西蘭 eSIM"
+  - 比較矩陣
+  - 在地預付 SIM 卡 (市場數據)
+  - Roami 紐西蘭 eSIM
   table_rows:
-    - icon: "store"
-      title: "獲取與啟用"
-      prepaid_title: ""
-      prepaid_desc: "Skinny NZ 假日 SIM 卡僅在基督城機場的 Hub 暢銷便利店和皇后鎮機場的 Paper Plus 銷售，購買管道極其有限。"
-      esim_title: "即時數位化發送"
-      esim_desc: "免去尋找基督城機場 Hub 便利店等有限零售通路點的麻煩。降落奧克蘭後，可在 1 分鐘內在線上啟用您的 Roami eSIM。"
-    - icon: "id-card"
-      title: "KYC 與實名認證"
-      prepaid_title: ""
-      prepaid_desc: "來源中此維度無特定數據。基於市場常識，紐西蘭對預付 SIM 卡不要求實名認證，可匿名購買。"
-      esim_title: "無需護照"
-      esim_desc: "紐西蘭預付 SIM 卡雖可匿名，但 Roami eSIM 完全不需要任何身分證件。只需電子信箱即可立即購買並啟用。"
-    - icon: "globe"
-      title: "國際漫遊"
-      prepaid_title: ""
-      prepaid_desc: "來源中此維度無特定數據。基於市場常識，紐西蘭預付 SIM 卡通常不包含國際漫遊；漫遊附加包價格昂貴或根本無法提供。"
-      esim_title: "包含全球漫遊"
-      esim_desc: "與缺乏漫遊功能的在地 SIM 卡不同，Roami eSIM 提供了涵蓋全球的方案。在 190+ 個國家保持連線，無需購買額外附加包。"
-    - icon: "calendar-xmark"
-      title: "計費週期與沉沒成本"
-      prepaid_title: ""
-      prepaid_desc: "One NZ 旅遊 SIM 卡的最短使用期限為 30 天（$29/2 GB），迫使即使是 5-7 天短途旅行的遊客也必須為整個月買單，浪費了超過 70% 的方案價值。"
-      esim_title: "靈活的短期方案"
-      esim_desc: "避開 One NZ 旅遊 SIM 卡的 30 天最低限制（$29/2 GB）。Roami 提供每 GB 僅 $1.99 起的 7 天方案，為短途旅行節省 70% 以上的浪費。"
-    - icon: "wifi"
-      title: "熱點與限速政策"
-      prepaid_title: ""
-      prepaid_desc: "One NZ 通票嚴格禁止針對免流量數據進行熱點分享；Spark 旅遊套餐在流量耗盡後不允許熱點共享。"
-      esim_title: "無限制熱點分享"
-      esim_desc: "One NZ 通票會封鎖免流量數據的熱點。Roami eSIM 允許所有數據進行全速熱點分享，非常適合與同行旅伴共享。"
-    - icon: "credit-card"
-      title: "儲值付款"
-      prepaid_title: ""
-      prepaid_desc: "Warehouse Mobile 線上儲值需要紐西蘭在地卡或國際 Visa 卡；其他電信商在門市內接受 Visa/Mastercard。"
-      esim_title: "全球支付方式"
-      esim_desc: "可使用 Visa、Mastercard、AMEX、Apple Pay、Google Pay 或 PayPal 付款。無需像 Warehouse Mobile 那樣需要紐西蘭在地卡。"
-    - icon: "headset"
-      title: "客戶支援"
-      prepaid_title: ""
-      prepaid_desc: "來源中此維度無特定數據。基於市場常識，在地預付卡的客戶支援通常僅限於營業時間內且僅限在地語言。"
-      esim_title: "24/7 多語言支援"
-      esim_desc: "在地預付卡的支援非常有限。Roami 提供 24/7 的英文即時聊天與電子郵件支援，確保在您需要時隨時提供協助。"
-
-  # =============== 100% 完整还原：专家结论模块 ===============
+  - icon: store
+    title: 獲取與啟用
+    prepaid_title: ''
+    prepaid_desc: Skinny NZ 假日 SIM 卡僅在基督城機場的 Hub 暢銷便利店和皇后鎮機場的 Paper Plus 銷售，購買管道極其有限。
+    esim_title: 即時數位化發送
+    esim_desc: 免去尋找基督城機場 Hub 便利店等有限零售通路點的麻煩。降落奧克蘭後，可在 1 分鐘內在線上啟用您的 Roami eSIM。
+  - icon: id-card
+    title: KYC 與實名認證
+    prepaid_title: ''
+    prepaid_desc: 來源中此維度無特定數據。基於市場常識，紐西蘭對預付 SIM 卡不要求實名認證，可匿名購買。
+    esim_title: 無需護照
+    esim_desc: 紐西蘭預付 SIM 卡雖可匿名，但 Roami eSIM 完全不需要任何身分證件。只需電子信箱即可立即購買並啟用。
+  - icon: globe
+    title: 國際漫遊
+    prepaid_title: ''
+    prepaid_desc: 來源中此維度無特定數據。基於市場常識，紐西蘭預付 SIM 卡通常不包含國際漫遊；漫遊附加包價格昂貴或根本無法提供。
+    esim_title: 包含全球漫遊
+    esim_desc: 與缺乏漫遊功能的在地 SIM 卡不同，Roami eSIM 提供了涵蓋全球的方案。在 190+ 個國家保持連線，無需購買額外附加包。
+  - icon: calendar-xmark
+    title: 計費週期與沉沒成本
+    prepaid_title: ''
+    prepaid_desc: One NZ 旅遊 SIM 卡的最短使用期限為 30 天（$29/2 GB），迫使即使是 5-7 天短途旅行的遊客也必須為整個月買單，浪費了超過 70% 的方案價值。
+    esim_title: 靈活的短期方案
+    esim_desc: 避開 One NZ 旅遊 SIM 卡的 30 天最低限制（$29/2 GB）。Roami 提供每 GB 僅 $1.99 起的 7 天方案，為短途旅行節省 70% 以上的浪費。
+  - icon: wifi
+    title: 熱點與限速政策
+    prepaid_title: ''
+    prepaid_desc: One NZ 通票嚴格禁止針對免流量數據進行熱點分享；Spark 旅遊套餐在流量耗盡後不允許熱點共享。
+    esim_title: 無限制熱點分享
+    esim_desc: One NZ 通票會封鎖免流量數據的熱點。Roami eSIM 允許所有數據進行全速熱點分享，非常適合與同行旅伴共享。
+  - icon: credit-card
+    title: 儲值付款
+    prepaid_title: ''
+    prepaid_desc: Warehouse Mobile 線上儲值需要紐西蘭在地卡或國際 Visa 卡；其他電信商在門市內接受 Visa/Mastercard。
+    esim_title: 全球支付方式
+    esim_desc: 可使用 Visa、Mastercard、AMEX、Apple Pay、Google Pay 或 PayPal 付款。無需像 Warehouse Mobile 那樣需要紐西蘭在地卡。
+  - icon: headset
+    title: 客戶支援
+    prepaid_title: ''
+    prepaid_desc: 來源中此維度無特定數據。基於市場常識，在地預付卡的客戶支援通常僅限於營業時間內且僅限在地語言。
+    esim_title: 24/7 多語言支援
+    esim_desc: 在地預付卡的支援非常有限。Roami 提供 24/7 的英文即時聊天與電子郵件支援，確保在您需要時隨時提供協助。
   expert_verdict:
-    title: "紐西蘭 eSIM vs 實體 SIM 卡：啟用與設定之比較"
+    title: 紐西蘭 eSIM vs 實體 SIM 卡：啟用與設定之比較
     cards:
-    - icon: "globe"
-      icon_bg: "bg-purple-100"
-      icon_color: "text-purple-600"
-      title: "紐西蘭多網路覆蓋"
-      desc: "Roami eSIM 能夠連線至 Spark、One NZ 和 2degrees 網路，確保最佳訊號。Spark 覆蓋了 <b>97%</b> 的人口，而 One NZ 在 <b>5G</b> 覆蓋率上名列前茅。"
-    - icon: "wifi"
-      icon_bg: "bg-green-100"
-      icon_color: "text-green-600"
-      title: "無限制熱點共享"
-      desc: "One NZ 通票對免流量數據 <b>嚴格禁止熱點分享</b>。Roami eSIM 允許所有數據進行全速熱點共享，非常適合與朋友共享。"
-    - icon: "hourglass-empty"
-      icon_bg: "bg-amber-100"
-      icon_color: "text-amber-600"
-      title: "消除長計費週期的沉沒成本"
-      desc: "One NZ 旅遊 SIM 卡強制要求最少 <b>30天</b> ($29/2 GB)。對於 7 天的行程，<b>超過 70%</b> 的方案價值會被浪費。Roami 提供每 GB 僅 <b>$1.99</b> 起的 <b>7天</b> 方案，完美契合您的實際停留時間。"
-    - icon: "credit-card"
-      icon_bg: "bg-emerald-100"
-      icon_color: "text-emerald-600"
-      title: "接受全球支付方式"
-      desc: "Warehouse Mobile 線上儲值需要紐西蘭在地卡或國際 Visa。Roami 接受 <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b>——完全不需要在地卡。"
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: 紐西蘭多網路覆蓋
+      desc: Roami eSIM 能夠連線至 Spark、One NZ 和 2degrees 網路，確保最佳訊號。Spark 覆蓋了 <b>97%</b> 的人口，而 One NZ 在 <b>5G</b> 覆蓋率上名列前茅。
+    - icon: wifi
+      icon_bg: bg-green-100
+      icon_color: text-green-600
+      title: 無限制熱點共享
+      desc: One NZ 通票對免流量數據 <b>嚴格禁止熱點分享</b>。Roami eSIM 允許所有數據進行全速熱點共享，非常適合與朋友共享。
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: 消除長計費週期的沉沒成本
+      desc: One NZ 旅遊 SIM 卡強制要求最少 <b>30天</b> ($29/2 GB)。對於 7 天的行程，<b>超過 70%</b> 的方案價值會被浪費。Roami 提供每 GB 僅 <b>$1.99</b> 起的 <b>7天</b>
+        方案，完美契合您的實際停留時間。
+    - icon: credit-card
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: 接受全球支付方式
+      desc: Warehouse Mobile 線上儲值需要紐西蘭在地卡或國際 Visa。Roami 接受 <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b>——完全不需要在地卡。
 ---

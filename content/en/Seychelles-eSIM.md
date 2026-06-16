@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Seychelles eSIM | Best Travel eSIM for Your Journey"
-  description: "Enjoy unlimited 5G data in Seychelles with Roami's best prepaid travel eSIM. Covers Mahe, Praslin & La Digue. Instant activation Buy your plan online today."
+  title: Seychelles eSIM | Best Travel eSIM for Your Journey
+  description: Enjoy unlimited 5G data in Seychelles with Roami's best prepaid travel eSIM. Covers Mahe, Praslin & La Digue.
+    Instant activation Buy your plan online today.
   keywords: Seychelles eSIM, buy Seychelles eSIM, best Seychelles eSIM, Seychelles travel eSIM, Airtel Seychelles, Cable &
     Wireless Seychelles, Intelvision Seychelles, Victoria eSIM, Beau Vallon eSIM, Anse Royale eSIM, Seychelles prepaid eSIM,
     5G Seychelles eSIM
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/se.svg
   flag_alt: Seychelles Flag
-  title: 'Seychelles eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'Seychelles eSIM: Reliable Network & Coverage for Travelers'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Seychelles
 features:
   title: 'Why Seychelles Travelers Choose Roami: Network, Plans & Value'

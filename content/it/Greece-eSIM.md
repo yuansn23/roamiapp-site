@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Grecia eSIM | Compra al miglior prezzo online"
-  description: "Acquista la tua eSIM Roami per Grecia comodamente da casa. Valida subito, pronta all'arrivo. Facile e veloce. Copre tutte le regioni."
+  title: Grecia eSIM | Compra al miglior prezzo online
+  description: Acquista la tua eSIM Roami per Grecia comodamente da casa. Valida subito, pronta all'arrivo. Facile e veloce.
+    Copre tutte le regioni.
   keywords: eSIM Grecia, piano eSIM Grecia, migliore eSIM Grecia, Grecia dati, Cosmote Grecia, Vodafone GR Grecia, Wind Tre
     Grecia, eSIM Atene, eSIM Salonicco, eSIM Candia, internet mobile Grecia, 5G Grecia
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/gr.svg
   flag_alt: Bandiera di Grecia
-  title: 'eSIM Grecia 2026: Rete Affidabile per Viaggiatori'
+  title: 'eSIM Grecia: Rete Affidabile per Viaggiatori'
   subtitle: Attivazione immediata | 5G veloce | Supporto 24/7 - la migliore eSIM prepagata per Grecia
 features:
   title: 'Perché i viaggiatori scelgono Roami per Grecia: Rete, Piani & Prezzo'

@@ -45,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/gp.svg
   flag_alt: Guadeloupe Flag
-  title: 'Guadeloupe eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Guadeloupe eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Guadeloupe
 features:
   title: 'Why Guadeloupe Travelers Choose Roami: Plans, Network & Support'

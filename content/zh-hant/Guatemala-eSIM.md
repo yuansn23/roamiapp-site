@@ -1,5 +1,5 @@
 ---
-title: 瓜地馬拉 eSIM 方案 | 瓜地馬拉 eSIM | Roami
+title: '瓜地馬拉 eSIM 2026: 旅客與網路 | Roami'
 date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
@@ -13,14 +13,13 @@ country_meta:
 modal:
   title: 服務更新！
   btn_text: 繼續
-  text_default: |-
-    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
-  text_android: |-
-    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
+  text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
+  text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
   title: "瓜地馬拉eSIM｜免綁約5G吃到飽，吃到飽不降速"
   description: "去瓜地馬拉出國上網推薦免綁約eSIM，Roami 5G吃到飽方案不用合約不用綁約。自由行上網方案推薦出國上網自由自在，用多少算多少最划算，旅行結束自動失效。"
-  keywords: 瓜地馬拉 eSIM, 瓜地馬拉 網路, 瓜地馬拉 旅遊, 安地瓜 eSIM, 瓜地馬拉市 eSIM, 提卡爾 網路
+  keywords: 瓜地馬拉 eSIM, 瓜地馬拉 eSIM方案, 最佳瓜地馬拉 eSIM, 瓜地馬拉上網, Tigo 瓜地馬拉, Claro 瓜地馬拉, Movistar 瓜地馬拉, 瓜地馬拉市 eSIM, 安地瓜 eSIM, 佛羅雷斯
+    eSIM, 瓜地馬拉行動網路, 5G 瓜地馬拉
 order_summary:
   title: 選擇 瓜地馬拉 eSIM
   label_data: 數據量
@@ -40,36 +39,36 @@ banner:
 hero:
   flag_image: img/flags/gt.svg
   flag_alt: 瓜地馬拉 國旗
-  title: 瓜地馬拉 eSIM - 旅行計劃
-  subtitle: 瓜地馬拉 eSIM | 流量吃到飽 | 無需身份證件 | 支援熱點分享
+  title: '瓜地馬拉 eSIM: 旅客信賴的穩定網路'
+  subtitle: 即時啟用 | 5G高速上網 | 24/7客服 - 瓜地馬拉最佳預付eSIM
 features:
-  title: 為什麼 Roami 的 瓜地馬拉 eSIM 比競爭對手更好？
+  title: 為什麼旅客選擇Roami的瓜地馬拉 eSIM：網路、方案與價格
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
     title: 即時 QR 碼
-    desc: 5 分鐘內交付
+    desc: 5分鐘內透過Email收到您的瓜地馬拉 eSIM QR碼
   - icon: headset
     color: from-emerald-400 to-emerald-600
     title: 24/7 支援
-    desc: 隨時在線
+    desc: 為您的瓜地馬拉之旅提供24/7客服 - 真人服務，非機器人
   - icon: shield-check
     color: from-amber-400 to-amber-600
     title: 保證
-    desc: 買家保障
+    desc: 若瓜地馬拉 eSIM無法啟用，100%全額退款
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: 熱點分享
-    desc: 與他人分享數據
+    desc: 與旅伴分享您的瓜地馬拉數據，無限制
   - icon: file-x
     color: from-rose-400 to-rose-600
     title: 無合約
-    desc: 隨時取消
+    desc: 無合約，隨時取消 - 瓜地馬拉旅行完美選擇
   - icon: radio-tower
     color: from-blue-400 to-blue-600
     title: 自動選擇
-    desc: 最佳本地網路
-plans_title: 為您的旅程選擇理想的 瓜地馬拉 eSIM
+    desc: 自動連線瓜地馬拉最佳電信商，取得最強訊號
+plans_title: 購買瓜地馬拉 eSIM：適合各種旅程的方案
 plans_data:
   7 天:
   - spec: 1GB
@@ -126,12 +125,12 @@ plans_data:
     daily: '1.63'
 discount_banner:
   title: 瓜地馬拉 eSIM 特別折扣！
-  desc_html: |-
-    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 瓜地馬拉 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  desc_html: 結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 瓜地馬拉
+    eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
   btn_text: 儲存折扣
   validity: 有效期：3 天
 network_coverage:
-  title: 網路覆蓋詳情
+  title: 瓜地馬拉 eSIM覆蓋範圍：覆蓋範圍與電信商比較
   supports_text: 支援：
   service_details:
     title: 服務詳情
@@ -139,8 +138,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: 覆蓋範圍
-      desc: 在整個 瓜地馬拉 享受廣泛的網路覆蓋，包括 瓜地馬拉市、安地瓜、佛羅雷斯、克薩爾特南戈 等城市。我們的 瓜地馬拉 eSIM 無縫連接到 Tigo、Claro、Movistar
-        的網路。
+      desc: 享受覆蓋全瓜地馬拉的全面網路，包括瓜地馬拉市, 安地瓜, 佛羅雷斯, 克薩爾特南戈。您的eSIM會自動連線至Tigo, Claro, Movistar的強大網路，在市區、旅遊熱點和主要交通路線提供穩定訊號。
     - icon: zap
       color: text-amber-500
       title: 交付時間
@@ -150,21 +148,21 @@ network_coverage:
       title: 熱點分享
       desc: 熱點分享無限制。
   carriers:
-    title: 行動網路
+    title: Tigo, Claro & Movistar：瓜地馬拉 eSIM電信商
     badge: 官方合作夥伴
     items:
     - name: Tigo
-      coverage: 低延遲
+      coverage: 最佳整體覆蓋
       network: 5G/4G/LTE 網路
     - name: Claro
-      coverage: 自有 IP
+      coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 瓜地馬拉 eSIM：重要提醒
+  title: 瓜地馬拉 eSIM秘訣：出發前須知
   items:
   - icon: 📱
-    html: |-
-      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
+    html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
+      transition-colors">eSIM 相容性</a>。
   - icon: ✈️
     html: 建議抵達 瓜地馬拉 後再啟用 eSIM。
   - icon: ⏰
@@ -178,29 +176,22 @@ reminders:
     desc: 不確定嗎？立即在您的手機上檢查：
     instruction: 在鍵盤上撥打：
     code: '*#06#'
-    result_html: |-
-      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
-    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
-      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
-      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
-      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
-      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
-      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
-      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
-      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
-      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
-      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
-      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
-      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
-      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
-      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
+    result_html: 如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
+      號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n        <p class=\"text-sm font-semibold mb-2\"\
+      >\U0001F4DA 實用指南：</p>\n        <ul class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n            <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\"\
+      \ class=\"text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n            <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\"\
+      \ class=\"text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n            <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\"\
+      \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
+      \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 如何在幾分鐘內啟用 瓜地馬拉 eSIM
+  title: 瓜地馬拉 eSIM啟用：3個簡單步驟
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 瓜地馬拉 做好準備
-    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
-      天，您可以從容地為前往 瓜地馬拉 的旅行做好準備。
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30 天，您可以從容地為前往 瓜地馬拉 的旅行做好準備。
     is_list: false
   - num: '2'
     title: 在設備上安裝 eSIM – 掃描 QR 碼
@@ -214,18 +205,16 @@ activation_steps:
     - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
     title: 在家中準備 – 無風險測試
-    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 瓜地馬拉 時，只需開啟 eSIM
-      – 有效期將在首次連接到 Tigo / Claro 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 瓜地馬拉 時，只需開啟 eSIM – 有效期將在首次連接到 Tigo / Claro 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
     is_list: false
   - num: '4'
     title: 抵達 瓜地馬拉：立即連上 5G/4G 網路
-    desc: 當您降落在 瓜地馬拉（例如 拉奧羅拉國際機場 (瓜地馬拉市), 馬雅世界國際機場 (佛羅雷斯), 克薩爾特南戈機場）時，關閉飛航模式（或保持在飛航模式僅啟用
-      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 瓜地馬拉。幾秒鐘內，您的設備將自動連接到 Tigo / Claro 提供的最快可用
-      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
+    desc: 當您降落在 瓜地馬拉（例如 拉奧羅拉國際機場 (瓜地馬拉市), 馬雅世界國際機場 (佛羅雷斯), 克薩爾特南戈機場）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami
+      eSIM 瓜地馬拉。幾秒鐘內，您的設備將自動連接到 Tigo / Claro 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 瓜地馬拉 eSIM：完整指南和常見問題
-  desc: 使用 瓜地馬拉 eSIM 在 瓜地馬拉 的交通、飯店、景點和緊急聯絡的所有細節。
+  title: 瓜地馬拉 eSIM指南 2026：旅遊與數據指南
+  desc: 從瓜地馬拉市到安地瓜，使用Tigo, Claro, Movistar保持連線。我們的完整瓜地馬拉 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
   categories:
   - id: faq-general
     icon: help-circle
@@ -235,16 +224,15 @@ faq_section:
     - q: 在瓜地馬拉市使用eSIM時，接上Claro網路的訊號穩定嗎？我有時在Zone 10附近會斷線。
       a: 在瓜地馬拉市的Zone 10（例如Zona Viva區）使用Claro網路時，訊號通常是穩定的，下載速度約30-50 Mbps。然而，在尖峰時段（如週末晚上）或靠近購物中心（如米蘭世界購物中心）附近，可能因用戶過多而暫時降速至5-10
         Mbps。如果您在Zone 10的辦公大樓內，建議靠窗使用以獲得最佳訊號。若持續斷線，可嘗試手動切換至Tigo網路，因為Tigo在市中心覆蓋更均勻。
-    - q: 在安地瓜的石板路小巷中，Tigo的4G訊號穿透力如何？我擔心在餐廳內無法上網。
-      a: 安地瓜的歷史中心有許多狹窄石板路，建築多為殖民風格厚牆。Tigo的4G訊號在主要街道（如第五大道）及露天餐廳表現良好，下載速度約20-40 Mbps。但在一些深處的咖啡館或飯店房間內（例如聖多明各飯店），訊號可能降至1-2格，速度約5
-        Mbps，仍可傳送訊息和瀏覽網頁，但視訊通話可能延遲。建議在連接Wi-Fi或使用Claro網路輔助，Claro在安地瓜郊區的覆蓋較佳。
+    - q: Tigo還是Claro在瓜地馬拉更好？
+      a: Tigo和Claro在瓜地馬拉都提供出色的覆蓋範圍。Tigo在偏遠地區的覆蓋通常更好，而Claro在城市中提供競爭力的5G速度。對於大多數前往瓜地馬拉的旅客來說，兩個網路都能良好運作。
     - q: 在提卡爾國家公園內，是否有任何行動網路覆蓋？我想在馬雅遺跡前直播。
       a: 提卡爾國家公園雖然是叢林環境，但主要廣場（如大廣場與一號神廟附近）有Tigo和Claro的4G訊號，但較微弱，下載速度約5-15 Mbps。直播時可能遇到緩衝，建議使用低解析度。在步道深處或靠近二號神廟時，訊號可能消失。最佳直播點是靠近博物館的入口處，那裡的訊號較強。請注意，園區內部分區域完全沒有網路，建議提前下載離線地圖。
     - q: 使用eSIM在瓜地馬拉會需要實名認證嗎？我購買後可以直接啟用嗎？
       a: 瓜地馬拉對於預付卡eSIM沒有強制要求實名認證，因此您購買我們的eSIM後可以直接啟用，無需提供護照或身分證。不過，部分本地運營商（如Tigo）的實體SIM卡需要註冊，但透過我們合作的eSIM網路，您只需掃描QR碼即可。建議在抵達瓜地馬拉市機場後再啟用，以避開漫遊設定問題。啟用後約1-2分鐘即可連網，若失敗可嘗試手動選擇運營商。
     - q: 在克薩爾特南戈（Xela）的郊區，Movistar的覆蓋範圍怎麼樣？我計劃參加當地節慶。
-      a: 克薩爾特南戈市中心（中央公園附近）的Movistar網路覆蓋良好，下載速度約25-40 Mbps。但在郊區（如Zona 3或靠近Cerro Quemado）時，訊號可能變弱，僅有3G或邊緣網路，速度低於5
-        Mbps。如果您參加戶外節慶（如Feria de la Independencia），現場人群密集可能導致網路壅塞，建議提前連線或使用Tigo作為備用。總體而言，Movistar在城鎮區域可靠，但離開主要道路後建議離線使用。
+      a: 克薩爾特南戈市中心（中央公園附近）的Movistar網路覆蓋良好，下載速度約25-40 Mbps。但在郊區（如Zona 3或靠近Cerro Quemado）時，訊號可能變弱，僅有3G或邊緣網路，速度低於5 Mbps。如果您參加戶外節慶（如Feria
+        de la Independencia），現場人群密集可能導致網路壅塞，建議提前連線或使用Tigo作為備用。總體而言，Movistar在城鎮區域可靠，但離開主要道路後建議離線使用。
     - q: 我的eSIM在瓜地馬拉使用時，每天有流量上限嗎？超過後會停用嗎？
       a: 我們提供的瓜地馬拉eSIM採用公平使用原則，每日高速流量通常為3-5 GB，超過後速度會限制為128 kbps或256 kbps，但不會停用。限制速度仍可傳送訊息與使用地圖，但視訊串流可能卡頓。例如在安地瓜用Google地圖導航，低速時仍能運作。若您需要大量數據，建議選購高流量方案或分段使用。請注意，高流量使用場景（如備份照片）最好在Wi-Fi環境下進行。
     - q: 在阿蒂特蘭湖周圍村莊（如San Pedro），Tigo的4G訊號如何？我用來上社交媒體足夠嗎？
@@ -256,8 +244,8 @@ faq_section:
     title: 瓜地馬拉 機場：如何使用 瓜地馬拉 eSIM
     questions:
     - q: 我在拉奧羅拉國際機場（瓜地馬拉市）抵達後，何處可以找到Wi-Fi？
-      a: 拉奧羅拉國際機場的入境大廳與出境大廳均提供免費Wi-Fi，名為「Aeropuerto La Aurora」，連線後需接受條款即可使用，速度約10-20
-        Mbps。但連接人數過多時可能變慢。建議您直接使用eSIM，因為機場內Tigo和Claro的4G訊號很強，下載速度可達50 Mbps。購買eSIM後，您可以在等待行李時立即啟用，非常方便。
+      a: 拉奧羅拉國際機場的入境大廳與出境大廳均提供免費Wi-Fi，名為「Aeropuerto La Aurora」，連線後需接受條款即可使用，速度約10-20 Mbps。但連接人數過多時可能變慢。建議您直接使用eSIM，因為機場內Tigo和Claro的4G訊號很強，下載速度可達50
+        Mbps。購買eSIM後，您可以在等待行李時立即啟用，非常方便。
     - q: 從拉奧羅拉機場到安地瓜，Uber可以搭乘嗎？費用大概多少？
       a: Uber在瓜地馬拉市及安地瓜之間是合法的，從拉奧羅拉機場到安地瓜的車程約1小時，費用約250-350格查爾（約30-45美元），視交通狀況而定。機場外有指定Uber載客區，但建議注意安全，選擇評分高的司機。另外，機場也有計程車（官方Taxi
         Amarillo），費用固定約400格查爾。使用Uber的好處是價格透明且可刷卡，但需確保eSIM有網路以叫車。
@@ -274,8 +262,7 @@ faq_section:
     title: 瓜地馬拉 eSIM 用於 瓜地馬拉 的交通和導航
     questions:
     - q: 在瓜地馬拉市搭乘Uber安全嗎？有哪些區域應避免？
-      a: Uber在瓜地馬拉市整體安全，但建議在Zone 10（Zona Viva）、Zone 9及Zone 14等旅遊區使用，這些區域治安較好。避免在深夜前往Zone
-        1、Zone 3或Zone 18等較貧窮區域。上車前核對車牌與司機資料，並開啟行程分享功能。Uber司機通常友善且不要求小費，但若服務良好可給5-10格查爾。使用eSIM確保網路順暢，以利叫車與導航。
+      a: Uber在瓜地馬拉市整體安全，但建議在Zone 10（Zona Viva）、Zone 9及Zone 14等旅遊區使用，這些區域治安較好。避免在深夜前往Zone 1、Zone 3或Zone 18等較貧窮區域。上車前核對車牌與司機資料，並開啟行程分享功能。Uber司機通常友善且不要求小費，但若服務良好可給5-10格查爾。使用eSIM確保網路順暢，以利叫車與導航。
     - q: 在安地瓜搭乘當地的「Chicken Bus」要注意什麼？費用多少？
       a: Chicken Bus是瓜地馬拉常見的舊校車改裝公車，色彩鮮豔。在安地瓜，這些公車主要連接周邊村莊，費用極低（約5-10格查爾），但擁擠且無空調。注意保管貴重物品，避免在車上睡覺。建議只在白天乘坐，並選擇前排座位。如果您不熟悉路線，可先詢問司機目的地，或使用Moovit應用程式查詢。使用eSIM可以隨時查詢路線與下車點。
     - q: 從瓜地馬拉市到安地瓜有直達接駁車嗎？哪裡可以預訂？
@@ -296,8 +283,7 @@ faq_section:
     - q: 在佛羅雷斯的大提卡爾飯店，網路評價如何？可以進行視訊通話嗎？
       a: 大提卡爾飯店的Wi-Fi普遍評價良好，公共區域速度約20-30 Mbps，房間內約10-20 Mbps，足以進行Zoom視訊通話（需關閉影片）。但由於環境沿湖，部分湖景房的訊號可能受干擾。建議自備eSIM作為備援，因為Claro在佛羅雷斯的4G訊號覆蓋全島。備份方案：若視訊重要，可選擇靠近櫃檯的房間。
     - q: 在阿蒂特蘭湖邊的民宿，通常提供Wi-Fi嗎？速度如何？
-      a: 阿蒂特蘭湖周邊的民宿大多提供免費Wi-Fi，但速度參差不齊。在Panajachel鎮上，民宿Wi-Fi速度約10-20 Mbps；但在較偏遠的村莊如San
-        Marcos，可能僅有5 Mbps或僅限簡訊。建議預訂前透過評論確認網路狀況。使用eSIM是更好的選擇，因為Tigo和Claro在主要村莊有4G訊號，但湖邊可能弱。
+      a: 阿蒂特蘭湖周邊的民宿大多提供免費Wi-Fi，但速度參差不齊。在Panajachel鎮上，民宿Wi-Fi速度約10-20 Mbps；但在較偏遠的村莊如San Marcos，可能僅有5 Mbps或僅限簡訊。建議預訂前透過評論確認網路狀況。使用eSIM是更好的選擇，因為Tigo和Claro在主要村莊有4G訊號，但湖邊可能弱。
     - q: 在瓜地馬拉入住飯店時，需要支付旅遊稅嗎？可以刷卡嗎？
       a: 瓜地馬拉的飯店通常會收取10%的旅遊稅（IVA）加上10%的服務費，總計約22%附加費，通常已含在報價中。高檔飯店可刷卡，但小飯店或民宿可能只收現金。建議入住時確認付款方式。使用eSIM便於查詢銀行匯率或與信用卡公司通話。飯店普遍接受Visa和Mastercard，但American
         Express較少。
@@ -311,14 +297,12 @@ faq_section:
     - q: 安地瓜的Arco de Santa Catalina是否需要門票？附近還有哪些景點？
       a: 安地瓜的Santa Catalina拱門是免費開放的，位於第五大道上，是熱門拍照點。附近步行可達的景點包括中央公園（Parque Central）、安地瓜大教堂（已修復）、聖方濟各教堂等。推薦步行一日遊，感受殖民風情。拱門旁有許多手工藝品店與咖啡館，適合悠閒逛。使用eSIM搜尋餐廳評價，品嚐當地美食如Pepián。
     - q: 阿蒂特蘭湖最推薦的活動是什麼？如何前往San Pedro村莊？
-      a: 阿蒂特蘭湖最推薦的活動包括乘船遊湖（從Panajachel到San Pedro約30格查爾）、徒步聖佩德羅火山（需導遊）或參觀馬雅村莊。前往San
-        Pedro村莊可在Panajachel碼頭乘船，每30分鐘一班，船程約30分鐘。村莊內有工藝品市集與湖濱餐廳，適合半天遊。使用eSIM查詢船班時間與天氣，注意午後可能風浪較大。
+      a: 阿蒂特蘭湖最推薦的活動包括乘船遊湖（從Panajachel到San Pedro約30格查爾）、徒步聖佩德羅火山（需導遊）或參觀馬雅村莊。前往San Pedro村莊可在Panajachel碼頭乘船，每30分鐘一班，船程約30分鐘。村莊內有工藝品市集與湖濱餐廳，適合半天遊。使用eSIM查詢船班時間與天氣，注意午後可能風浪較大。
     - q: 瓜地馬拉市的國家景點有哪些？建議花一天逛逛嗎？
       a: 瓜地馬拉市的國家景點包括國家宮（Palacio Nacional）與憲法廣場（Plaza de la Constitución），兩者比鄰，適合上午參觀。下午可前往拉奧羅拉動物園（門票約30格查爾）或瓜地馬拉現代藝術博物館（Museo
         de Arte Moderno）。建議安排一日遊，但注意Zone 1治安，貴重物品不露白。使用eSIM導航至這些景點，並避開危險街區。
     - q: 如何從安地瓜前往阿蒂特蘭湖？有直達交通嗎？
-      a: 從安地瓜前往阿蒂特蘭湖（Panajachel）有多種方式：最常見的是參加拼團接駁（Shuttle），車程約2-3小時，費用約150格查爾。也可搭公車（從安地瓜巴士站到Los
-        Encuentros轉車），費用更低但耗時更長。直接驅車前往約需2小時，路況多彎道，暈車者請備藥。使用eSIM可預訂接駁車並查看路況。
+      a: 從安地瓜前往阿蒂特蘭湖（Panajachel）有多種方式：最常見的是參加拼團接駁（Shuttle），車程約2-3小時，費用約150格查爾。也可搭公車（從安地瓜巴士站到Los Encuentros轉車），費用更低但耗時更長。直接驅車前往約需2小時，路況多彎道，暈車者請備藥。使用eSIM可預訂接駁車並查看路況。
   - id: faq-social
     icon: smartphone
     tab_title: 社交媒體
@@ -344,11 +328,10 @@ faq_section:
     - q: 在安地瓜遺失錢包或護照，應該去哪個警察局報案？
       a: 應前往安地瓜的國家民事警察局（PNC）報案，地址在Calle del Manzano附近或中央公園旁。遺失護照需向警察申請報告（Denuncia），然後前往瓜地馬拉市的外交部或大使館補辦。使用eSIM可查詢最近的警察局與大使館位置。建議護照影本或電子檔存在手機中。
     - q: 在瓜地馬拉市旅行，哪些區域夜間應避免前往？
-      a: 瓜地馬拉市的Zone 1（尤其是市場區）、Zone 3、Zone 18與Zone 19在夜間較危險，建議避免單獨步行。旅遊區如Zone 10（Zona
-        Viva）、Zone 14與Zone 9相對安全，但仍需警惕。使用Uber而非計程車或步行。若需要緊急離開，可撥打110或聯繫飯店保全。eSIM可用於導航至安全區域。
+      a: 瓜地馬拉市的Zone 1（尤其是市場區）、Zone 3、Zone 18與Zone 19在夜間較危險，建議避免單獨步行。旅遊區如Zone 10（Zona Viva）、Zone 14與Zone 9相對安全，但仍需警惕。使用Uber而非計程車或步行。若需要緊急離開，可撥打110或聯繫飯店保全。eSIM可用於導航至安全區域。
     - q: 在阿蒂特蘭湖區感染腹瀉，最近的醫院是哪家？
-      a: 阿蒂特蘭湖區的主要醫療點是Panajachel的公立診所（Centro de Salud），但設備有限。較好的選擇是前往瓜地馬拉市或安地瓜的私人醫院，如安地瓜的Hospital
-        Pardo或瓜地馬拉市的Hospital Centro Médico。建議隨身攜帶藥品，如止瀉藥與電解質補充包。使用eSIM可查詢醫院位置並叫救護車（128）。
+      a: 阿蒂特蘭湖區的主要醫療點是Panajachel的公立診所（Centro de Salud），但設備有限。較好的選擇是前往瓜地馬拉市或安地瓜的私人醫院，如安地瓜的Hospital Pardo或瓜地馬拉市的Hospital Centro
+        Médico。建議隨身攜帶藥品，如止瀉藥與電解質補充包。使用eSIM可查詢醫院位置並叫救護車（128）。
     - q: 在提卡爾國家公園內，若有健康緊急狀況，園區有醫療站嗎？
       a: 提卡爾國家公園內有基本的醫療站，位於入口附近，但僅能處理輕微傷病。嚴重情況需送往佛羅雷斯的醫院，車程約1小時。建議自備急救包與常用藥。園區內無手機訊號的地方，可向工作人員或遊客求助。使用eSIM在訊號區可對外聯絡，但需有備用計畫。
 related_products:

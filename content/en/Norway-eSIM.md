@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Norway eSIM | Best Prepaid eSIM for Travelers"
-  description: "Get the best prepaid travel eSIM for Norway from Roami. Unlimited 5G data nationwide. Instant activation. Covers Oslo, Bergen & the fjords."
+  title: Norway eSIM | Best Prepaid eSIM for Travelers
+  description: Get the best prepaid travel eSIM for Norway from Roami. Unlimited 5G data nationwide. Instant activation. Covers
+    Oslo, Bergen & the fjords.
   keywords: Norway eSIM, buy Norway eSIM, best Norway eSIM, Norway travel eSIM, Telenor Norway, Telia Norway, Ice Norway,
     Oslo eSIM, Bergen eSIM, Trondheim eSIM, Norway prepaid eSIM, 5G Norway eSIM
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/no.svg
   flag_alt: Norway Flag
-  title: 'Norway eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Norway eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: Best prepaid eSIM for Norway travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Norway Travelers Choose Roami: Speed, Coverage & Support'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Chypre eSIM | Prépayé sans engagement, activé immédiat"
-  description: "Vous voulez une eSIM pas chere pour Chypre? Roami vous propose le prix le plus attractif du marche. Couvre tout le pays."
+  title: Chypre eSIM | Prépayé sans engagement, activé immédiat
+  description: Vous voulez une eSIM pas chere pour Chypre? Roami vous propose le prix le plus attractif du marche. Couvre
+    tout le pays.
   keywords: eSIM Chypre, forfait eSIM Chypre, meilleure eSIM Chypre, Chypre data, MTN Chypre, PrimeTel Chypre, Epic Chypre,
     eSIM Nicosie, eSIM Limassol, eSIM Larnaca, internet mobile Chypre, 5G Chypre
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/cy.svg
   flag_alt: Drapeau Chypre
-  title: 'eSIM Chypre 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Chypre: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Chypre
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Chypre: Réseau, Forfaits & Prix'

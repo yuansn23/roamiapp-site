@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Arabie Saoudite eSIM | Meilleur prix sans engagement"
-  description: "Roami pour Arabie Saoudite : installation rapide et activation immediate. Pas besoin de chercher une boutique sur place. Couvre tout le pays."
+  title: Arabie Saoudite eSIM | Meilleur prix sans engagement
+  description: 'Roami pour Arabie Saoudite : installation rapide et activation immediate. Pas besoin de chercher une boutique
+    sur place. Couvre tout le pays.'
   keywords: eSIM Arabie saoudite, forfait eSIM Arabie saoudite, meilleure eSIM Arabie saoudite, Arabie saoudite data, STC
     Arabie saoudite, Mobily Arabie saoudite, Zain Arabie saoudite, eSIM Riyad, eSIM Djeddah, eSIM La Mecque, internet mobile
     Arabie saoudite, 5G Arabie saoudite
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/sa.svg
   flag_alt: Drapeau Arabie saoudite
-  title: 'eSIM Arabie saoudite 2026: Solutions Data Complètes pour Votre Voyage'
+  title: 'eSIM Arabie saoudite: Solutions Data Complètes pour Votre Voyage'
   subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour Arabie saoudite
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Arabie saoudite: Couverture, Vitesse & Service'

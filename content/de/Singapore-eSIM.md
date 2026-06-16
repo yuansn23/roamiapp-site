@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Singapur eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Die Roami eSIM für Singapur ist in wenigen Sekunden aktiviert. Code per Email erhalten und loslegen. Deckt Singapur & die ganze Insel ab."
+  title: Singapur eSIM | Günstigste Prepaid Reise eSIM
+  description: Die Roami eSIM für Singapur ist in wenigen Sekunden aktiviert. Code per Email erhalten und loslegen. Deckt
+    Singapur & die ganze Insel ab.
   keywords: Singapur eSIM, Singapur Reise eSIM, beste eSIM Singapur, Singapur Datentarif, Singtel Singapur, StarHub Singapur,
     M1 Singapur, Singapur-Stadt eSIM, Jurong East eSIM, Woodlands eSIM, Singapur mobiles Internet, 5G Singapur
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/sg.svg
   flag_alt: Flagge von Singapur
-  title: 'Singapur eSIM 2026: Überall verbunden bleiben'
+  title: 'Singapur eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Singapur
 features:
   title: 'Warum Reisende Roami fuer Singapur waehlen: Tarife, Netzwerk & Support'

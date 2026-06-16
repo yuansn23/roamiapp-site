@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Filippine eSIM | Prepagato senza vincoli"
-  description: "Per il tuo viaggio in Filippine, la eSIM Roami è operativa in 2 minuti. Attivazione rapida, senza stress, connessione immediata all'arrivo. Copre tutte le regioni."
+  title: Filippine eSIM | Prepagato senza vincoli
+  description: Per il tuo viaggio in Filippine, la eSIM Roami è operativa in 2 minuti. Attivazione rapida, senza stress, connessione
+    immediata all'arrivo. Copre tutte le regioni.
   keywords: eSIM Filippine, piano eSIM Filippine, migliore eSIM Filippine, Filippine dati, Globe Filippine, Smart Filippine,
     Dito Filippine, eSIM Manila, eSIM Cebu City, eSIM Davao City, internet mobile Filippine, 5G Filippine
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ph.svg
   flag_alt: Bandiera di Filippine
-  title: 'eSIM Filippine 2026: Rete Affidabile per Viaggiatori'
+  title: 'eSIM Filippine: Rete Affidabile per Viaggiatori'
   subtitle: Attivazione immediata | 5G veloce | Supporto 24/7 - la migliore eSIM prepagata per Filippine
 features:
   title: 'Perché i viaggiatori scelgono Roami per Filippine: Rete, Piani & Prezzo'

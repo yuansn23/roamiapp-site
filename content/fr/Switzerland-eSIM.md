@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Suisse eSIM | Activation rapide, pas d'engagement"
-  description: "Vous voulez une eSIM prepayee pour Suisse? Roami vous livre le code directement par email, sans frais d'envoi. Couvre Zurich, Genève & les Alpes."
+  title: Suisse eSIM | Activation rapide, pas d'engagement
+  description: Vous voulez une eSIM prepayee pour Suisse? Roami vous livre le code directement par email, sans frais d'envoi.
+    Couvre Zurich, Genève & les Alpes.
   keywords: eSIM Suisse, forfait eSIM Suisse, meilleure eSIM Suisse, Suisse data, Swisscom Suisse, Sunrise Suisse, Salt Suisse,
     eSIM Zurich, eSIM Genève, eSIM Bâle, internet mobile Suisse, 5G Suisse
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ch.svg
   flag_alt: Drapeau Suisse
-  title: 'eSIM Suisse 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Suisse: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Suisse
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Suisse: Réseau, Forfaits & Prix'

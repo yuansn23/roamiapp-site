@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Ungheria eSIM | Offerte eSIM per viaggiatori"
-  description: "Arrivi in Ungheria? Attiva subito la tua eSIM Roami. Nessun negozio da cercare, nessuna coda. Connesso in pochi secondi. Copre tutte le regioni."
+  title: Ungheria eSIM | Offerte eSIM per viaggiatori
+  description: Arrivi in Ungheria? Attiva subito la tua eSIM Roami. Nessun negozio da cercare, nessuna coda. Connesso in pochi
+    secondi. Copre tutte le regioni.
   keywords: eSIM Ungheria, piano eSIM Ungheria, migliore eSIM Ungheria, Ungheria dati, Magyar Telekom Ungheria, Telenor Hungary
     (Yettel) Ungheria, Vodafone Hungary Ungheria, eSIM Budapest, eSIM Debrecen, eSIM Szeged, internet mobile Ungheria, 5G
     Ungheria
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/hu.svg
   flag_alt: Bandiera di Ungheria
-  title: 'eSIM Ungheria 2026: Rete Affidabile per Viaggiatori'
+  title: 'eSIM Ungheria: Rete Affidabile per Viaggiatori'
   subtitle: Attivazione immediata | 5G veloce | Supporto 24/7 - la migliore eSIM prepagata per Ungheria
 features:
   title: 'Perché i viaggiatori scelgono Roami per Ungheria: Rete, Piani & Prezzo'

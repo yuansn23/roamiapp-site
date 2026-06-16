@@ -45,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/mo.svg
   flag_alt: Montenegro Flag
-  title: 'Montenegro eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'Montenegro eSIM: Reliable Network & Coverage for Travelers'
   subtitle: Best prepaid eSIM for Montenegro travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Montenegro Travelers Choose Roami: Speed, Coverage & Support'

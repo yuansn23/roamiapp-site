@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Singapore eSIM | Attivazione immediata"
-  description: "La tua eSIM Roami per Singapore è pronta in pochi secondi. Ricevi il QR code via email e attivalo subito. Senza complicazioni. Copre Singapore & tutta l'isola."
+  title: Singapore eSIM | Attivazione immediata
+  description: La tua eSIM Roami per Singapore è pronta in pochi secondi. Ricevi il QR code via email e attivalo subito. Senza
+    complicazioni. Copre Singapore & tutta l'isola.
   keywords: eSIM Singapore, piano eSIM Singapore, migliore eSIM Singapore, Singapore dati, Singtel Singapore, StarHub Singapore,
     M1 Singapore, eSIM Singapore City, eSIM Jurong East, eSIM Woodlands, internet mobile Singapore, 5G Singapore
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/sg.svg
   flag_alt: Bandiera di Singapore
-  title: 'eSIM Singapore 2026: Soluzioni Dati Complete per il Tuo Viaggio'
+  title: 'eSIM Singapore: Soluzioni Dati Complete per il Tuo Viaggio'
   subtitle: Niente costi nascosti | Internet senza preoccupazioni | Supporto 24/7 - la migliore eSIM per Singapore
 features:
   title: 'Perché i viaggiatori scelgono Roami per Singapore: Copertura, Velocità & Servizio'

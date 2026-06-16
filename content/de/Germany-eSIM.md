@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Deutschland eSIM | Unbegrenztes Datenvolumen"
-  description: "Reisen Sie sorgenfrei nach Deutschland mit Roami. Unsere eSIM begleitet Sie überallhin. Deckt Berlin, München & ganz Deutschland ab."
+  title: Deutschland eSIM | Unbegrenztes Datenvolumen
+  description: Reisen Sie sorgenfrei nach Deutschland mit Roami. Unsere eSIM begleitet Sie überallhin. Deckt Berlin, München
+    & ganz Deutschland ab.
   keywords: Deutschland eSIM, Deutschland Reise eSIM, beste eSIM Deutschland, Deutschland Datentarif, Telekom Deutschland,
     Vodafone Deutschland, O2 Deutschland, Berlin eSIM, München eSIM, Hamburg eSIM, Deutschland mobiles Internet, 5G Deutschland
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/de.svg
   flag_alt: Flagge von Deutschland
-  title: 'Deutschland eSIM 2026: Überall verbunden bleiben'
+  title: 'Deutschland eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Deutschland
 features:
   title: 'Warum Reisende Roami fuer Deutschland waehlen: Tarife, Netzwerk & Support'

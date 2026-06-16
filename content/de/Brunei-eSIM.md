@@ -19,8 +19,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     dem Code: web20'
 seo:
-  title: "Brunei eSIM | Unbegrenztes Datenvolumen für unterwegs"
-  description: "Sie möchten eine eSIM für Brunei? Roami liefert den Code direkt per Email, ohne Versandkosten. Deckt alle Regionen ab."
+  title: Brunei eSIM | Unbegrenztes Datenvolumen für unterwegs
+  description: Sie möchten eine eSIM für Brunei? Roami liefert den Code direkt per Email, ohne Versandkosten. Deckt alle Regionen
+    ab.
   keywords: Brunei eSIM, Brunei Reise eSIM, beste eSIM Brunei, Brunei Datentarif, DST Brunei, Progresif Brunei, UNN Brunei,
     Bandar Seri Begawan eSIM, Kuala Belait eSIM, Seria eSIM, Brunei mobiles Internet, 5G Brunei
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/bn.svg
   flag_alt: Flagge von Brunei
-  title: 'Brunei eSIM 2026: Schnelles 5G für jedes Reiseziel'
+  title: 'Brunei eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Brunei - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
   title: 'Warum Reisende Roami fuer Brunei waehlen: Geschwindigkeit, Abdeckung & Support'

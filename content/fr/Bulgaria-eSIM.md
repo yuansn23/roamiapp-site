@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Bulgarie eSIM | Voyagez avec données illimitées"
-  description: "L'eSIM Roami pour Bulgarie inclut des donnees illimitees. Ideal pour les voyageurs qui veulent rester en ligne sans stress. Couvre tout le pays."
+  title: Bulgarie eSIM | Voyagez avec données illimitées
+  description: L'eSIM Roami pour Bulgarie inclut des donnees illimitees. Ideal pour les voyageurs qui veulent rester en ligne
+    sans stress. Couvre tout le pays.
   keywords: eSIM Bulgarie, forfait eSIM Bulgarie, meilleure eSIM Bulgarie, Bulgarie data, A1 Bulgarie, Telenor Bulgarie, Vivacom
     Bulgarie, eSIM Sofia, eSIM Plovdiv, eSIM Varna, internet mobile Bulgarie, 5G Bulgarie
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/bg.svg
   flag_alt: Drapeau Bulgarie
-  title: 'eSIM Bulgarie 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Bulgarie: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Bulgarie
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Bulgarie: Réseau, Forfaits & Prix'

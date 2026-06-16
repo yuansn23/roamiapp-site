@@ -19,8 +19,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Lituanie eSIM | Données illimitées au meilleur prix"
-  description: "Roami pour Lituanie : installation rapide et activation immediate. Pas besoin de chercher une boutique sur place. Couvre tout le pays."
+  title: Lituanie eSIM | Données illimitées au meilleur prix
+  description: 'Roami pour Lituanie : installation rapide et activation immediate. Pas besoin de chercher une boutique sur
+    place. Couvre tout le pays.'
   keywords: eSIM Lituanie, forfait eSIM Lituanie, meilleure eSIM Lituanie, Lituanie data, Telia Lituanie, Bitė Lituanie, Tele2
     Lituanie, eSIM Vilnius, eSIM Kaunas, eSIM Klaipėda, internet mobile Lituanie, 5G Lituanie
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/lt.svg
   flag_alt: Drapeau Lituanie
-  title: 'eSIM Lituanie 2026: Solutions Data Complètes pour Votre Voyage'
+  title: 'eSIM Lituanie: Solutions Data Complètes pour Votre Voyage'
   subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour Lituanie
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Lituanie: Couverture, Vitesse & Service'

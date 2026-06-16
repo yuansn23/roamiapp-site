@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Botswana eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Für Botsuana wählen Sie Roami und zahlen weniger. Unsere eSIM ist unschlagbar günstig. Deckt alle Regionen ab."
+  title: Botswana eSIM | Günstigste Prepaid Reise eSIM
+  description: Für Botsuana wählen Sie Roami und zahlen weniger. Unsere eSIM ist unschlagbar günstig. Deckt alle Regionen
+    ab.
   keywords: Botswana eSIM, Botswana Reise eSIM, beste eSIM Botswana, Botswana Datentarif, Mascom Wireless Botswana, Orange
     Botswana Botswana, BTC Mobile Botswana, Gaborone eSIM, Francistown eSIM, Maun eSIM, Botswana mobiles Internet, 5G Botswana
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/bw.svg
   flag_alt: Flagge von Botswana
-  title: 'Botswana eSIM 2026: Komplette Datenlösungen für Ihre Reise'
+  title: 'Botswana eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Botswana
 features:
   title: 'Warum Reisende Roami fuer Botswana waehlen: Abdeckung, Geschwindigkeit & Service'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Thailand eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Die Roami eSIM für Thailand kaufen Sie online ohne Wartezeit. Keine Lieferung, alles digital. Deckt Bangkok, Phuket & ganz Thailand ab."
+  title: Thailand eSIM | Günstigste Prepaid Reise eSIM
+  description: Die Roami eSIM für Thailand kaufen Sie online ohne Wartezeit. Keine Lieferung, alles digital. Deckt Bangkok,
+    Phuket & ganz Thailand ab.
   keywords:
   - Thailand eSIM
   - Thailand Reise eSIM
@@ -52,7 +53,7 @@ banner:
 hero:
   flag_image: img/flags/th.svg
   flag_alt: Flagge von Thailand
-  title: 'Thailand eSIM 2026: Schnelles 5G für jedes Reiseziel'
+  title: 'Thailand eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Thailand - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
   title: 'Warum Reisende Roami fuer Thailand waehlen: Geschwindigkeit, Abdeckung & Support'

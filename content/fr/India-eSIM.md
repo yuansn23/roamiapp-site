@@ -19,8 +19,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Inde eSIM | Activation immédiate sans engagement"
-  description: "Pour Inde, choisissez Roami et payez moins cher. Notre eSIM est au meilleur prix pour voyager sans vous ruiner. Couvre Delhi, Bombay & toute l'Inde."
+  title: Inde eSIM | Activation immédiate sans engagement
+  description: Pour Inde, choisissez Roami et payez moins cher. Notre eSIM est au meilleur prix pour voyager sans vous ruiner.
+    Couvre Delhi, Bombay & toute l'Inde.
   keywords: eSIM Inde, forfait eSIM Inde, meilleure eSIM Inde, Inde data, Airtel Inde, Jio Inde, Vodafone Idea (Vi) Inde,
     eSIM New Delhi, eSIM Mumbai, eSIM Bangalore, internet mobile Inde, 5G Inde
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/in.svg
   flag_alt: Drapeau Inde
-  title: 'eSIM Inde 2026: Restez Connecté Partout'
+  title: 'eSIM Inde: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Inde
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Inde: Forfaits, Réseau & Support'

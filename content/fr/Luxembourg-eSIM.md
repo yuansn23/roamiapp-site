@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Luxembourg eSIM | Voyager pas cher, données illimitées"
-  description: "Preparez votre voyage a Luxembourg avec Roami. Notre eSIM vous accompagne partout pour un voyage sans accroc. Couvre tout le pays."
+  title: Luxembourg eSIM | Voyager pas cher, données illimitées
+  description: Preparez votre voyage a Luxembourg avec Roami. Notre eSIM vous accompagne partout pour un voyage sans accroc.
+    Couvre tout le pays.
   keywords: eSIM Luxembourg, forfait eSIM Luxembourg, meilleure eSIM Luxembourg, Luxembourg data, POST Luxembourg Luxembourg,
     Tango Luxembourg, Orange Luxembourg Luxembourg, eSIM Luxembourg-Ville, eSIM Esch-sur-Alzette, eSIM Differdange, internet
     mobile Luxembourg, 5G Luxembourg
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/lu.svg
   flag_alt: Drapeau Luxembourg
-  title: 'eSIM Luxembourg 2026: Restez Connecté Partout'
+  title: 'eSIM Luxembourg: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Luxembourg
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Luxembourg: Forfaits, Réseau & Support'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Allemagne eSIM | Activation immédiate au meilleur prix"
-  description: "Voyagez a Allemagne sans souci avec Roami. Notre eSIM vous suit partout pour un voyage en toute serenite. Couvre Berlin, Munich & toute l'Allemagne."
+  title: Allemagne eSIM | Activation immédiate au meilleur prix
+  description: Voyagez a Allemagne sans souci avec Roami. Notre eSIM vous suit partout pour un voyage en toute serenite. Couvre
+    Berlin, Munich & toute l'Allemagne.
   keywords: eSIM Allemagne, forfait eSIM Allemagne, meilleure eSIM Allemagne, Allemagne data, Deutsche Telekom Allemagne,
     Vodafone Allemagne, O2 Allemagne, eSIM Berlin, eSIM Munich, eSIM Hambourg, internet mobile Allemagne, 5G Allemagne
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/de.svg
   flag_alt: Drapeau Allemagne
-  title: 'eSIM Allemagne 2026: Restez Connecté Partout'
+  title: 'eSIM Allemagne: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Allemagne
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Allemagne: Forfaits, Réseau & Support'

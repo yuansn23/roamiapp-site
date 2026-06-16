@@ -19,8 +19,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Lettland eSIM | Unbegrenztes Datenvolumen für unterwegs"
-  description: "Unterwegs in Lettland in voller Freiheit mit Roami. Keine automatische Verlängerung, keine Kündigung nötig. Deckt alle Regionen ab."
+  title: Lettland eSIM | Unbegrenztes Datenvolumen für unterwegs
+  description: Unterwegs in Lettland in voller Freiheit mit Roami. Keine automatische Verlängerung, keine Kündigung nötig.
+    Deckt alle Regionen ab.
   keywords: Lettland eSIM, Lettland Reise eSIM, beste eSIM Lettland, Lettland Datentarif, LMT Lettland, Tele2 Lettland, Bite
     Lettland, Riga eSIM, Daugavpils eSIM, Liepāja eSIM, Lettland mobiles Internet, 5G Lettland
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/lv.svg
   flag_alt: Flagge von Lettland
-  title: 'Lettland eSIM 2026: Überall verbunden bleiben'
+  title: 'Lettland eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Lettland
 features:
   title: 'Warum Reisende Roami fuer Lettland waehlen: Tarife, Netzwerk & Support'

@@ -44,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/cm.svg
   flag_alt: Cameroon Flag
-  title: 'Cameroon eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Cameroon eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: Best prepaid eSIM for Cameroon travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Cameroon Travelers Choose Roami: Speed, Coverage & Support'

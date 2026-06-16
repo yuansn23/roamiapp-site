@@ -45,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/ae.svg
   flag_alt: Drapeau UAE
-  title: 'eSIM UAE 2026: Restez Connecté Partout'
+  title: 'eSIM UAE: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour UAE
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour UAE: Forfaits, Réseau & Support'

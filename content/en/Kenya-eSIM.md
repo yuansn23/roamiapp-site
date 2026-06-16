@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Kenya eSIM | Buy Travel Data Plan for Your Trip"
-  description: "Travel to Kenya with the best prepaid travel eSIM from Roami. Unlimited 5G data on top networks. Covers Nairobi, Mombasa & Kisumu. Instant activation."
+  title: Kenya eSIM | Buy Travel Data Plan for Your Trip
+  description: Travel to Kenya with the best prepaid travel eSIM from Roami. Unlimited 5G data on top networks. Covers Nairobi,
+    Mombasa & Kisumu. Instant activation.
   keywords: Kenya eSIM, buy Kenya eSIM, best Kenya eSIM, Kenya travel eSIM, Safaricom Kenya, Airtel Kenya Kenya, Telkom Kenya
     Kenya, Nairobi eSIM, Mombasa eSIM, Kisumu eSIM, Kenya prepaid eSIM, 5G Kenya eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/ke.svg
   flag_alt: Kenya Flag
-  title: 'Kenya eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Kenya eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Kenya travelers
 features:
   title: 'Why Kenya Travelers Choose Roami: Coverage, Speed & Service'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Malta eSIM | Unbegrenztes Datenvolumen für unterwegs"
-  description: "Sie möchten eine eSIM für Malta? Roami liefert den Code direkt per Email, ohne Versandkosten. Deckt alle Regionen ab."
+  title: Malta eSIM | Unbegrenztes Datenvolumen für unterwegs
+  description: Sie möchten eine eSIM für Malta? Roami liefert den Code direkt per Email, ohne Versandkosten. Deckt alle Regionen
+    ab.
   keywords: Malta eSIM, Malta Reise eSIM, beste eSIM Malta, Malta Datentarif, Epic Malta, GO Malta, Melita Malta, Valletta
     eSIM, Sliema eSIM, St. Julian's eSIM, Malta mobiles Internet, 5G Malta
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/mt.svg
   flag_alt: Flagge von Malta
-  title: 'Malta eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Malta eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Malta
 features:
   title: 'Warum Reisende Roami fuer Malta waehlen: Netzwerk, Tarife & Preiswert'

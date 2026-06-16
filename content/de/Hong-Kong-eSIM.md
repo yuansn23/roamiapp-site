@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Hongkong eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Für Hongkong bietet Roami eine eSIM ohne Vertragsbindung. Nutzen Sie sie für Ihre Reise, dann ist Schluss. Nichts zu kündigen. Deckt alle Regionen ab."
+  title: Hongkong eSIM | Günstigste Prepaid Reise eSIM
+  description: Für Hongkong bietet Roami eine eSIM ohne Vertragsbindung. Nutzen Sie sie für Ihre Reise, dann ist Schluss.
+    Nichts zu kündigen. Deckt alle Regionen ab.
   keywords: Hongkong eSIM, Hongkong Reise eSIM, beste eSIM Hongkong, Hongkong Datentarif, CSL Hongkong, SmarTone Hongkong,
     China Mobile Hong Kong Hongkong, Kowloon eSIM, Tsuen Wan eSIM, Hongkong mobiles Internet, 5G Hongkong
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/hk.svg
   flag_alt: Flagge von Hongkong
-  title: 'Hongkong eSIM 2026: Schnelles 5G für jedes Reiseziel'
+  title: 'Hongkong eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Hongkong - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
   title: 'Warum Reisende Roami fuer Hongkong waehlen: Geschwindigkeit, Abdeckung & Support'

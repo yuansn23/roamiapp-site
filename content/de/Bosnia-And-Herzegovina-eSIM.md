@@ -43,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/ba.svg
   flag_alt: Flagge von Bosnien und Herzegowina
-  title: 'Bosnien und Herzegowina eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Bosnien und Herzegowina eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Bosnien und Herzegowina
 features:
   title: 'Warum Reisende Roami fuer Bosnien und Herzegowina waehlen: Netzwerk, Tarife & Preiswert'

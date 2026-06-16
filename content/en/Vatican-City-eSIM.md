@@ -44,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/va.svg
   flag_alt: Vatican City Flag
-  title: 'Vatican City eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Vatican City eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: Best prepaid eSIM for Vatican City travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Vatican City Travelers Choose Roami: Speed, Coverage & Support'

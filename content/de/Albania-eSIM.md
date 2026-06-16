@@ -18,7 +18,7 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Albanien eSIM 2026: 5G mit unbegrenztem Datenvolumen"
+  title: 'Albanien eSIM 2026: 5G mit unbegrenztem Datenvolumen'
   description: Vergleichen Sie Albanien eSIM Tarife mit 5G in Tirana, Durrës, Vlora. Vodafone & Telekom & ALBtelecom Abdeckungsguide.
     Sofortige QR-Aktivierung ab $1.99.
   keywords: Albanien eSIM, Albanien Reise eSIM, beste eSIM Albanien, Albanien Datentarif, Vodafone Albanien, Telekom Albanien,
@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/al.svg
   flag_alt: Flagge von Albanien
-  title: "Albanien eSIM 2026: Zuverlässiges Netz für Reisende"
+  title: 'Albanien eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Albanien
 features:
   title: 'Warum Reisende Roami fuer Albanien waehlen: Netzwerk, Tarife & Preiswert'

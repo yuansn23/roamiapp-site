@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Guam eSIM | Best Prepaid eSIM for Travelers"
-  description: "Get online instantly in Guam. Unlimited 5G data with instant activation. Covers Hagatna, Tumon & Dededo. Instant activation Buy your plan online today."
+  title: Guam eSIM | Best Prepaid eSIM for Travelers
+  description: Get online instantly in Guam. Unlimited 5G data with instant activation. Covers Hagatna, Tumon & Dededo. Instant
+    activation Buy your plan online today.
   keywords: Guam eSIM, buy Guam eSIM, best Guam eSIM, Guam travel eSIM, DOCOMO Pacific Guam, IT&E Guam, GTA Guam, Hagåtña
     eSIM, Tamuning eSIM, Dededo eSIM, Guam prepaid eSIM, 5G Guam eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/gu.svg
   flag_alt: Guam Flag
-  title: 'Guam eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'Guam eSIM: Reliable Network & Coverage for Travelers'
   subtitle: Best prepaid eSIM for Guam travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Guam Travelers Choose Roami: Speed, Coverage & Support'

@@ -18,7 +18,7 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "eSIM Mali dès 1,99 € : 5G sans frais d'itinérance"
+  title: 'eSIM Mali dès 1,99 € : 5G sans frais d''itinérance'
   description: Comparez les forfaits eSIM Mali avec la 5G à Bamako, Sikasso, Mopti. Guide de couverture Orange Mali & Sotelma-Malitel
     & Telecel. Activation QR instantanee des $1.99.
   keywords: eSIM Mali, forfait eSIM Mali, meilleure eSIM Mali, Mali data, Orange Mali Mali, Sotelma-Malitel Mali, Telecel
@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ml.svg
   flag_alt: Drapeau Mali
-  title: 'eSIM Mali 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Mali: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Mali - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Mali: Vitesse, Couverture & Support'

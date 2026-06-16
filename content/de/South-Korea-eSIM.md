@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Südkorea eSIM | Günstigste Prepaid Option für Reisende"
-  description: "Genießen Sie unbegrenztes Datenvolumen in Südkorea mit Roami. Navigation, Streaming, soziale Netzwerke – alles erlaubt. Deckt Seoul, Busan & ganz Südkorea ab."
+  title: Südkorea eSIM | Günstigste Prepaid Option für Reisende
+  description: Genießen Sie unbegrenztes Datenvolumen in Südkorea mit Roami. Navigation, Streaming, soziale Netzwerke – alles
+    erlaubt. Deckt Seoul, Busan & ganz Südkorea ab.
   keywords: Südkorea eSIM, Südkorea Reise eSIM, beste eSIM Südkorea, Südkorea Datentarif, SK Telecom Südkorea, KT Corporation
     Südkorea, LG U+ Südkorea, Seoul eSIM, Busan eSIM, Incheon eSIM, Südkorea mobiles Internet, 5G Südkorea
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/kr.svg
   flag_alt: Flagge von Südkorea
-  title: 'Südkorea eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Südkorea eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Südkorea
 features:
   title: 'Warum Reisende Roami fuer Südkorea waehlen: Netzwerk, Tarife & Preiswert'

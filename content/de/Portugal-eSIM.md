@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Portugal eSIM | Unbegrenztes Datenvolumen zum Bestpreis"
-  description: "Die Roami eSIM für Portugal bietet unbegrenztes Datenvolumen. Ideal für Reisende, die immer online sein wollen. Deckt alle Regionen ab."
+  title: Portugal eSIM | Unbegrenztes Datenvolumen zum Bestpreis
+  description: Die Roami eSIM für Portugal bietet unbegrenztes Datenvolumen. Ideal für Reisende, die immer online sein wollen.
+    Deckt alle Regionen ab.
   keywords: Portugal eSIM, Portugal Reise eSIM, beste eSIM Portugal, Portugal Datentarif, MEO Portugal, NOS Portugal, Vodafone
     Portugal Portugal, Lissabon eSIM, Porto eSIM, Faro eSIM, Portugal mobiles Internet, 5G Portugal
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/pt.svg
   flag_alt: Flagge von Portugal
-  title: 'Portugal eSIM 2026: Überall verbunden bleiben'
+  title: 'Portugal eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Portugal
 features:
   title: 'Warum Reisende Roami fuer Portugal waehlen: Tarife, Netzwerk & Support'

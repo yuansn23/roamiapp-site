@@ -44,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/il.svg
   flag_alt: Israel Flag
-  title: 'Israel eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Israel eSIM: Complete Data Solutions for Your Trip'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Israel
 features:
   title: 'Why Israel Travelers Choose Roami: Plans, Network & Support'

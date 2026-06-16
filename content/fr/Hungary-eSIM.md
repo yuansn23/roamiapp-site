@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Hongrie eSIM | Acheter pas cher, données illimitées"
-  description: "Vous arrivez a Hongrie? Activez votre eSIM Roami immediatement, sans RDV ni papier. Connecte en un instant. Couvre tout le pays."
+  title: Hongrie eSIM | Acheter pas cher, données illimitées
+  description: Vous arrivez a Hongrie? Activez votre eSIM Roami immediatement, sans RDV ni papier. Connecte en un instant.
+    Couvre tout le pays.
   keywords: eSIM Hongrie, forfait eSIM Hongrie, meilleure eSIM Hongrie, Hongrie data, Magyar Telekom Hongrie, Vodafone Hongrie
     Hongrie, Telenor Hongrie (Yettel) Hongrie, eSIM Budapest, eSIM Debrecen, eSIM Szeged, internet mobile Hongrie, 5G Hongrie
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/hu.svg
   flag_alt: Drapeau Hongrie
-  title: 'eSIM Hongrie 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Hongrie: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Hongrie
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Hongrie: Réseau, Forfaits & Prix'

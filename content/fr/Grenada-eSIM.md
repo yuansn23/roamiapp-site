@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Grenade eSIM | Acheter prépayé, activation immédiate"
-  description: "L'eSIM Roami pour Grenade inclut des donnees illimitees. Ideal pour les voyageurs qui veulent rester en ligne sans stress. Couvre tout le pays."
+  title: Grenade eSIM | Acheter prépayé, activation immédiate
+  description: L'eSIM Roami pour Grenade inclut des donnees illimitees. Ideal pour les voyageurs qui veulent rester en ligne
+    sans stress. Couvre tout le pays.
   keywords: eSIM Grenade, forfait eSIM Grenade, meilleure eSIM Grenade, Grenade data, Digicel Grenade, Flow Grenade, Cable
     & Wireless Grenade, eSIM Saint-Georges, eSIM Gouyave, eSIM Grenville, internet mobile Grenade, 5G Grenade
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/gd.svg
   flag_alt: Drapeau Grenade
-  title: 'eSIM Grenade 2026: Solutions Data Complètes pour Votre Voyage'
+  title: 'eSIM Grenade: Solutions Data Complètes pour Votre Voyage'
   subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour Grenade
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Grenade: Couverture, Vitesse & Service'

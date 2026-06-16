@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Ghana eSIM | Unlimited Data Plan for Travelers"
-  description: "Stay connected in Ghana with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Accra, Kumasi & Takoradi. Instant activation."
+  title: Ghana eSIM | Unlimited Data Plan for Travelers
+  description: Stay connected in Ghana with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Accra,
+    Kumasi & Takoradi. Instant activation.
   keywords: Ghana eSIM, buy Ghana eSIM, best Ghana eSIM, Ghana travel eSIM, MTN Ghana Ghana, Vodafone Ghana Ghana, AirtelTigo
     Ghana, Accra eSIM, Kumasi eSIM, Sekondi-Takoradi eSIM, Ghana prepaid eSIM, 5G Ghana eSIM
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/gh.svg
   flag_alt: Ghana Flag
-  title: 'Ghana eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'Ghana eSIM: Reliable Network & Coverage for Travelers'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Ghana
 features:
   title: 'Why Ghana Travelers Choose Roami: Plans, Network & Support'

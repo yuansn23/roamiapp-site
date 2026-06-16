@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Brésil eSIM | Meilleur prix sans engagement"
-  description: "Voyagez a Brésil en toute liberte avec Roami. Pas d'engagement, pas de renouvellement automatique. Simple et honnete. Couvre Rio, São Paulo & tout le Brésil."
+  title: Brésil eSIM | Meilleur prix sans engagement
+  description: Voyagez a Brésil en toute liberte avec Roami. Pas d'engagement, pas de renouvellement automatique. Simple et
+    honnete. Couvre Rio, São Paulo & tout le Brésil.
   keywords: eSIM Brésil, forfait eSIM Brésil, meilleure eSIM Brésil, Brésil data, Vivo Brésil, Claro Brésil, TIM Brésil, eSIM
     São Paulo, eSIM Rio de Janeiro, eSIM Brasília, internet mobile Brésil, 5G Brésil
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/br.svg
   flag_alt: Drapeau Brésil
-  title: 'eSIM Brésil 2026: Restez Connecté Partout'
+  title: 'eSIM Brésil: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Brésil
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Brésil: Forfaits, Réseau & Support'

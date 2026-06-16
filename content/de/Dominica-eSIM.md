@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Dominica eSIM | Prepaid Tarif für Reise & Urlaub"
-  description: "Reisen Sie nach Dominica ohne Verpflichtungen. Roami bindet Sie an kein Abo. Sie bestimmen alles. Deckt alle Regionen ab."
+  title: Dominica eSIM | Prepaid Tarif für Reise & Urlaub
+  description: Reisen Sie nach Dominica ohne Verpflichtungen. Roami bindet Sie an kein Abo. Sie bestimmen alles. Deckt alle
+    Regionen ab.
   keywords: Dominica eSIM, Dominica Reise eSIM, beste eSIM Dominica, Dominica Datentarif, Digicel Dominica, Flow Dominica,
     Cable & Wireless Dominica, Roseau eSIM, Portsmouth eSIM, Marigot eSIM, Dominica mobiles Internet, 5G Dominica
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/dm.svg
   flag_alt: Flagge von Dominica
-  title: 'Dominica eSIM 2026: Schnelles 5G für jedes Reiseziel'
+  title: 'Dominica eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Dominica - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
   title: 'Warum Reisende Roami fuer Dominica waehlen: Geschwindigkeit, Abdeckung & Support'

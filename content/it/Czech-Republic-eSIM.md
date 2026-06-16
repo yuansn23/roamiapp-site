@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Repubblica Ceca eSIM | Ricarica immediata senza contratto"
-  description: "Cerchi una eSIM economica per Repubblica Ceca? Roami offre il miglior prezzo sul mercato. Nessun costo nascosto, qualità garantita. Acquista online e usa subito."
+  title: Repubblica Ceca eSIM | Ricarica immediata senza contratto
+  description: Cerchi una eSIM economica per Repubblica Ceca? Roami offre il miglior prezzo sul mercato. Nessun costo nascosto,
+    qualità garantita. Acquista online e usa subito.
   keywords: eSIM Repubblica Ceca, piano eSIM Repubblica Ceca, migliore eSIM Repubblica Ceca, Repubblica Ceca dati, T-Mobile
     Repubblica Ceca, Vodafone Repubblica Ceca, O2 Repubblica Ceca, eSIM Praga, eSIM Brno, eSIM Ostrava, internet mobile Repubblica
     Ceca, 5G Repubblica Ceca
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/cz.svg
   flag_alt: Bandiera di Repubblica Ceca
-  title: 'eSIM Repubblica Ceca 2026: Soluzioni Dati Complete per il Tuo Viaggio'
+  title: 'eSIM Repubblica Ceca: Soluzioni Dati Complete per il Tuo Viaggio'
   subtitle: Niente costi nascosti | Internet senza preoccupazioni | Supporto 24/7 - la migliore eSIM per Repubblica Ceca
 features:
   title: 'Perché i viaggiatori scelgono Roami per Repubblica Ceca: Copertura, Velocità & Servizio'

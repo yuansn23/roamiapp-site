@@ -19,8 +19,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Équateur eSIM | Données illimitées au meilleur prix"
-  description: "Vous arrivez a Équateur? Activez votre eSIM Roami immediatement, sans RDV ni papier. Connecte en un instant. Couvre tout le pays."
+  title: Équateur eSIM | Données illimitées au meilleur prix
+  description: Vous arrivez a Équateur? Activez votre eSIM Roami immediatement, sans RDV ni papier. Connecte en un instant.
+    Couvre tout le pays.
   keywords: eSIM Équateur, forfait eSIM Équateur, meilleure eSIM Équateur, Équateur data, Claro Équateur, Movistar Équateur,
     CNT Équateur, eSIM Quito, eSIM Guayaquil, eSIM Cuenca, internet mobile Équateur, 5G Équateur
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/ec.svg
   flag_alt: Drapeau Équateur
-  title: 'eSIM Équateur 2026: Solutions Data Complètes pour Votre Voyage'
+  title: 'eSIM Équateur: Solutions Data Complètes pour Votre Voyage'
   subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour Équateur
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Équateur: Couverture, Vitesse & Service'

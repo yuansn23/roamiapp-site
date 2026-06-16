@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Aserbaidschan eSIM | Prepaid für Reise & Urlaub"
-  description: "Die Roami eSIM für Aserbaidschan ist in wenigen Sekunden aktiviert. Code per Email erhalten und loslegen. Deckt alle Regionen ab."
+  title: Aserbaidschan eSIM | Prepaid für Reise & Urlaub
+  description: Die Roami eSIM für Aserbaidschan ist in wenigen Sekunden aktiviert. Code per Email erhalten und loslegen. Deckt
+    alle Regionen ab.
   keywords: Aserbaidschan eSIM, Aserbaidschan Reise eSIM, beste eSIM Aserbaidschan, Aserbaidschan Datentarif, Azercell Aserbaidschan,
     Bakcell Aserbaidschan, Nar Mobile Aserbaidschan, Baku eSIM, Gəncə eSIM, Sumqayıt eSIM, Aserbaidschan mobiles Internet,
     5G Aserbaidschan
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/az.svg
   flag_alt: Flagge von Aserbaidschan
-  title: 'Aserbaidschan eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Aserbaidschan eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Aserbaidschan
 features:
   title: 'Warum Reisende Roami fuer Aserbaidschan waehlen: Netzwerk, Tarife & Preiswert'

@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Ukraine eSIM | Best Travel Data Plan for Explorers"
-  description: "Travel to Ukraine with the best prepaid travel eSIM from Roami. Unlimited 5G data on top networks. Covers Kyiv, Lviv & Odessa. Instant activation."
+  title: Ukraine eSIM | Best Travel Data Plan for Explorers
+  description: Travel to Ukraine with the best prepaid travel eSIM from Roami. Unlimited 5G data on top networks. Covers Kyiv,
+    Lviv & Odessa. Instant activation.
   keywords: Ukraine eSIM, buy Ukraine eSIM, best Ukraine eSIM, Ukraine travel eSIM, Kyivstar Ukraine, Vodafone Ukraine Ukraine,
     lifecell Ukraine, Kyiv eSIM, Lviv eSIM, Odesa eSIM, Ukraine prepaid eSIM, 5G Ukraine eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/uk.svg
   flag_alt: Ukraine Flag
-  title: 'Ukraine eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Ukraine eSIM: Stay Connected Everywhere You Go'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Ukraine travelers
 features:
   title: 'Why Ukraine Travelers Choose Roami: Coverage, Speed & Service'

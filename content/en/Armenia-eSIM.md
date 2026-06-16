@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Armenia eSIM | Best Prepaid eSIM for Travelers"
-  description: "Roami's best prepaid travel eSIM for Armenia. Unlimited 5G data with instant activation. Covers Yerevan, Gyumri & Vanadzor. Instant QR activation."
+  title: Armenia eSIM | Best Prepaid eSIM for Travelers
+  description: Roami's best prepaid travel eSIM for Armenia. Unlimited 5G data with instant activation. Covers Yerevan, Gyumri
+    & Vanadzor. Instant QR activation.
   keywords: Armenia eSIM, buy Armenia eSIM, best Armenia eSIM, Armenia travel eSIM, Viva-MTS Armenia, Ucom Armenia, Team Telecom
     Armenia Armenia, Yerevan eSIM, Gyumri eSIM, Vanadzor eSIM, Armenia prepaid eSIM, 5G Armenia eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/am.svg
   flag_alt: Armenia Flag
-  title: 'Armenia eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Armenia eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Armenia
 features:
   title: 'Why Armenia Travelers Choose Roami: Network, Plans & Value'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Bangladesch eSIM | Günstigste Prepaid Option"
-  description: "Für Ihre Reise nach Bangladesch ist die Roami eSIM in 2 Minuten einsatzbereit. Schnell und ohne Komplikationen. Deckt alle Regionen ab."
+  title: Bangladesch eSIM | Günstigste Prepaid Option
+  description: Für Ihre Reise nach Bangladesch ist die Roami eSIM in 2 Minuten einsatzbereit. Schnell und ohne Komplikationen.
+    Deckt alle Regionen ab.
   keywords: Bangladesch eSIM, Bangladesch Reise eSIM, beste eSIM Bangladesch, Bangladesch Datentarif, Grameenphone Bangladesch,
     Robi Bangladesch, Banglalink Bangladesch, Dhaka eSIM, Chittagong eSIM, Sylhet eSIM, Bangladesch mobiles Internet, 5G Bangladesch
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/bd.svg
   flag_alt: Flagge von Bangladesch
-  title: 'Bangladesch eSIM 2026: Schnelles 5G für jedes Reiseziel'
+  title: 'Bangladesch eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Bangladesch - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
   title: 'Warum Reisende Roami fuer Bangladesch waehlen: Geschwindigkeit, Abdeckung & Support'

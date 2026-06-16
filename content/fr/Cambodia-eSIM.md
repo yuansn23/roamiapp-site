@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Cambodge eSIM | Acheter pas cher pour voyager"
-  description: "Commandez votre eSIM prepayee pour Cambodge sur Roami. Simple, rapide, et vous etes connecte avant meme d'arriver. Couvre tout le pays."
+  title: Cambodge eSIM | Acheter pas cher pour voyager
+  description: Commandez votre eSIM prepayee pour Cambodge sur Roami. Simple, rapide, et vous etes connecte avant meme d'arriver.
+    Couvre tout le pays.
   keywords: eSIM Cambodge, forfait eSIM Cambodge, meilleure eSIM Cambodge, Cambodge data, Cellcard Cambodge, Smart Axiata
     Cambodge, Metfone Cambodge, eSIM Phnom Penh, eSIM Siem Reap, eSIM Sihanoukville, internet mobile Cambodge, 5G Cambodge
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/kh.svg
   flag_alt: Drapeau Cambodge
-  title: 'eSIM Cambodge 2026: Restez Connecté Partout'
+  title: 'eSIM Cambodge: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Cambodge
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Cambodge: Forfaits, Réseau & Support'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Vietnam eSIM | Attivazione immediata conveniente"
-  description: "Ordina la tua eSIM per Vietnam da Roami. Semplice, veloce e sarai connesso prima ancora di partire. Copre Hanoi, Ho Chi Minh & Da Nang."
+  title: Vietnam eSIM | Attivazione immediata conveniente
+  description: Ordina la tua eSIM per Vietnam da Roami. Semplice, veloce e sarai connesso prima ancora di partire. Copre Hanoi,
+    Ho Chi Minh & Da Nang.
   keywords: eSIM Vietnam, piano eSIM Vietnam, migliore eSIM Vietnam, Vietnam dati, Viettel Vietnam, Vinaphone Vietnam, Mobifone
     Vietnam, eSIM Hanoi, eSIM Ho Chi Minh City, eSIM Da Nang, internet mobile Vietnam, 5G Vietnam
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/vn.svg
   flag_alt: Bandiera di Vietnam
-  title: 'eSIM Vietnam 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Vietnam: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Vietnam - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Vietnam: Velocità, Copertura & Supporto'

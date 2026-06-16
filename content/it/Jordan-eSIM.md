@@ -43,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/jo.svg
   flag_alt: Bandiera di Giordania
-  title: 'eSIM Giordania 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Giordania: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Giordania - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Giordania: Velocità, Copertura & Supporto'

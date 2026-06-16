@@ -1,5 +1,5 @@
 ---
-title: 泰國 eSIM 方案 | 泰國 eSIM | Roami
+title: '泰國 eSIM 2026: 電信商與覆蓋 | Roami'
 date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
@@ -13,14 +13,12 @@ country_meta:
 modal:
   title: 服務更新！
   btn_text: 繼續
-  text_default: |-
-    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
-  text_android: |-
-    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
+  text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
+  text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
   title: "泰國eSIM｜5G上網吃到飽，免實名免綁約即開即用"
   description: "去泰國旅行上網推薦免合約eSIM，Roami讓您隨時連線不斷線。5G高速吃到飽方案用多少算多少最自由，免實名認證免綁約，線上購買秒收QR Code即開即用超方便。"
-  keywords: 泰國 eSIM, 泰國網路覆蓋, 泰國旅遊, 曼谷, 普吉島, 清邁, AIS, TrueMove, dtac
+  keywords: 泰國 eSIM, 泰國 eSIM方案, 最佳泰國 eSIM, 泰國上網, AIS 泰國, TrueMove 泰國, dtac 泰國, 曼谷 eSIM, 清邁 eSIM, 普吉島 eSIM, 泰國行動網路, 5G 泰國
 order_summary:
   title: 選擇 泰國 eSIM
   label_data: 數據量
@@ -40,36 +38,36 @@ banner:
 hero:
   flag_image: img/flags/th.svg
   flag_alt: 泰國 國旗
-  title: 泰國 eSIM - 旅行計劃
-  subtitle: 泰國 eSIM | 即時交付 | 支援熱點分享 | 100%退款保證
+  title: '泰國 eSIM: 隨時隨地保持連線'
+  subtitle: 高速5G | 5分鐘取得QR碼 | 24/7客服 - 泰國最佳預付eSIM
 features:
-  title: 為什麼 Roami 的 泰國 eSIM 比競爭對手更好？
+  title: 為什麼旅客選擇Roami的泰國 eSIM：方案、網路與支援
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
     title: 即時 QR 碼
-    desc: 5 分鐘內交付
+    desc: 5分鐘內透過Email收到您的泰國 eSIM QR碼
   - icon: headset
     color: from-emerald-400 to-emerald-600
     title: 24/7 支援
-    desc: 隨時在線
+    desc: 為您的泰國之旅提供24/7客服 - 真人服務，非機器人
   - icon: shield-check
     color: from-amber-400 to-amber-600
     title: 保證
-    desc: 買家保障
+    desc: 若泰國 eSIM無法啟用，100%全額退款
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: 熱點分享
-    desc: 與他人分享數據
+    desc: 與旅伴分享您的泰國數據，無限制
   - icon: file-x
     color: from-rose-400 to-rose-600
     title: 無合約
-    desc: 隨時取消
+    desc: 無合約，隨時取消 - 泰國旅行完美選擇
   - icon: radio-tower
     color: from-blue-400 to-blue-600
     title: 自動選擇
-    desc: 最佳本地網路
-plans_title: 為您的旅程選擇理想的 泰國 eSIM
+    desc: 自動連線泰國最佳電信商，取得最強訊號
+plans_title: 購買泰國 eSIM：適合各種旅程的方案
 plans_data:
   30 天:
   - spec: 50GB
@@ -281,12 +279,12 @@ plans_data:
     daily: '1.67'
 discount_banner:
   title: 泰國 eSIM 特別折扣！
-  desc_html: |-
-    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 泰國 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  desc_html: 結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 泰國
+    eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
   btn_text: 儲存折扣
   validity: 有效期：3 天
 network_coverage:
-  title: 網路覆蓋詳情
+  title: 泰國 eSIM覆蓋範圍：行動電信商指南
   supports_text: 支援：
   service_details:
     title: 服務詳情
@@ -294,7 +292,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: 覆蓋範圍
-      desc: 在整個泰國享受廣泛的網路覆蓋，包括曼谷、清邁、普吉島、芭達雅等城市。我們的泰國eSIM無縫連接到AIS、TrueMove、dtac的網路。
+      desc: 享受覆蓋全泰國的全面網路，包括曼谷, 清邁, 普吉島, 芭達雅。您的eSIM會自動連線至AIS, TrueMove, dtac的強大網路，在市區、旅遊熱點和主要交通路線提供穩定訊號。
     - icon: zap
       color: text-amber-500
       title: 交付時間
@@ -304,21 +302,21 @@ network_coverage:
       title: 熱點分享
       desc: 熱點分享無限制。
   carriers:
-    title: 行動網路
+    title: AIS, TrueMove & dtac：泰國 eSIM電信商
     badge: 官方合作夥伴
     items:
     - name: AIS
-      coverage: 低延遲
+      coverage: 最佳整體覆蓋
       network: 5G/4G/LTE 網路
     - name: TrueMove
-      coverage: 自有 IP
+      coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 泰國 eSIM：重要提醒
+  title: 泰國 eSIM秘訣：出發前須知
   items:
   - icon: 📱
-    html: |-
-      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
+    html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
+      transition-colors">eSIM 相容性</a>。
   - icon: ✈️
     html: 建議抵達 泰國 後再啟用 eSIM。
   - icon: ⏰
@@ -332,29 +330,22 @@ reminders:
     desc: 不確定嗎？立即在您的手機上檢查：
     instruction: 在鍵盤上撥打：
     code: '*#06#'
-    result_html: |-
-      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
-    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
-      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
-      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
-      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
-      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
-      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
-      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
-      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
-      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
-      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
-      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
-      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
-      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
-      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
+    result_html: 如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
+      號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n        <p class=\"text-sm font-semibold mb-2\"\
+      >\U0001F4DA 實用指南：</p>\n        <ul class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n            <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\"\
+      \ class=\"text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n            <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\"\
+      \ class=\"text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n            <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\"\
+      \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
+      \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 如何在幾分鐘內啟用 泰國 eSIM
+  title: 泰國 eSIM啟用：3個簡單步驟
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 泰國 做好準備
-    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
-      天，您可以從容地為前往 泰國 的旅行做好準備。
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30 天，您可以從容地為前往 泰國 的旅行做好準備。
     is_list: false
   - num: '2'
     title: 在設備上安裝 eSIM – 掃描 QR 碼
@@ -368,49 +359,44 @@ activation_steps:
     - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
     title: 在家中準備 – 無風險測試
-    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 泰國 時，只需開啟 eSIM
-      – 有效期將在首次連接到 AIS / TrueMove 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 泰國 時，只需開啟 eSIM – 有效期將在首次連接到 AIS / TrueMove 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
     is_list: false
   - num: '4'
     title: 抵達 泰國：立即連上 5G/4G 網路
-    desc: 當您降落在 泰國（例如 泰國的主要國際機場包括曼谷素萬那普機場(BKK)、曼谷廊曼機場(DMK)和普吉島機場(HKT)。）時，關閉飛航模式（或保持在飛航模式僅啟用
-      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 泰國。幾秒鐘內，您的設備將自動連接到 AIS / TrueMove 提供的最快可用
-      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
+    desc: 當您降落在 泰國（例如 泰國的主要國際機場包括曼谷素萬那普機場(BKK)、曼谷廊曼機場(DMK)和普吉島機場(HKT)。）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami
+      eSIM 泰國。幾秒鐘內，您的設備將自動連接到 AIS / TrueMove 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 泰國 eSIM：完整指南和常見問題
-  desc: 使用 泰國 eSIM 在 泰國 的交通、飯店、景點和緊急聯絡的所有細節。
+  title: 泰國 eSIM指南 2026：網路與旅遊指南
+  desc: 從曼谷到清邁，使用AIS, TrueMove, dtac保持連線。我們的完整泰國 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
     title: 關於 泰國 eSIM 的常見問題
     questions:
-    - q: 在曼谷市中心使用AIS網路看YouTube流暢嗎？
-      a: 在曼谷市中心如暹羅區、素坤逸路一帶，連接到AIS 5G網路時，觀看1080p甚至4K影片通常非常流暢，下載速度可達30-50 Mbps。然而，在高峰時段（傍晚6點到8點）或大型購物中心如CentralWorld內，可能因用戶過多出現暫時降速，但仍能應付高清串流。每日高速流量用完後（例如超過5GB），速度會降至約1-2
-        Mbps，但對於通訊軟體和網頁瀏覽仍然足夠。建議避免在MRT地鐵站內尖峰時段進行大流量下載，因為車站內訊號可能較弱。
-    - q: 在清邁老城區，TrueMove網路的覆蓋如何？
-      a: TrueMove在清邁老城區（例如塔佩門、帕辛寺附近）的覆蓋率相當好，4G訊號穩定，下載速度通常維持在15-25 Mbps。古城內小巷弄眾多，但在多數咖啡館或民宿內仍可順暢使用社群媒體和視訊通話。不過，若您前往素貼山或夜間動物園等郊區，訊號可能減弱至3G，建議提前下載離線地圖。另外，每日使用超過3GB後可能觸發公平使用政策，速度會略降至約1
-        Mbps，但傳送文字訊息不受影響。
+    - q: AIS還是TrueMove在泰國更好？
+      a: AIS和TrueMove在泰國都提供出色的覆蓋範圍。AIS在偏遠地區的覆蓋通常更好，而TrueMove在城市中提供競爭力的5G速度。對於大多數前往泰國的旅客來說，兩個網路都能良好運作。
+    - q: 泰國 eSIM在曼谷和清邁能正常使用嗎？
+      a: 是的，泰國 eSIM在曼谷、清邁和其他主要城市提供出色的覆蓋。主要電信商在所有城市中心、旅遊景點和主要交通路線沿線提供強大的5G/4G網路。
     - q: 在普吉島卡倫海灘使用dtac的eSIM，海邊訊號穩定嗎？
       a: 在普吉島卡倫海灘區域，dtac的4G訊號大致穩定，靠近沙灘的餐廳或度假村內速度約10-20 Mbps，足以刷IG和看短影片。但若在海水中或離岸較遠的地方，訊號可能不穩定，建議回到岸邊使用。此外，下午時段（14:00-17:00）因遊客集中上傳照片，可能出現暫時性減速，但一般社交軟體仍可正常運作。若是住在卡倫海灘後方的山坡別墅，訊號可能偏弱，建議選擇AIS作為備用。
     - q: 我在機場購買當地SIM卡與使用eSIM有什麼差別？
-      a: 在素萬那普機場購買當地SIM卡需要排隊並出示護照登記，啟用後可能需等待15-30分鐘才能完全開通。相較之下，eSIM可在出發前購買，抵達泰國後掃描QR
-        code立即啟用，節省時間。此外，eSIM能同時保留原門號接收簡訊，方便接收銀行驗證碼。當地SIM卡通常提供較多實體店面支援，但eSIM彈性更高，適合短途旅行者。
+      a: 在素萬那普機場購買當地SIM卡需要排隊並出示護照登記，啟用後可能需等待15-30分鐘才能完全開通。相較之下，eSIM可在出發前購買，抵達泰國後掃描QR code立即啟用，節省時間。此外，eSIM能同時保留原門號接收簡訊，方便接收銀行驗證碼。當地SIM卡通常提供較多實體店面支援，但eSIM彈性更高，適合短途旅行者。
     - q: 每天使用eSIM超過一定流量後，速度會明顯變慢嗎？
       a: 是的，多數泰國eSIM方案設有公平使用政策，例如每日高速流量上限為3GB或5GB。超過後速度會降至約1 Mbps（128 KB/s），足夠進行一般網頁瀏覽、LINE訊息和導航，但觀看高畫質影片可能出現緩衝。若您需要大量串流，建議購買不限速方案或挑選較高流量方案。AIS的降速後體驗通常比dtac稍好，因為其網路擁塞控制較佳。
     - q: 在曼谷搭BTS捷運時，車廂內網路訊號如何？
       a: 曼谷BTS大部分路段（如素坤逸線）行經地上段時，AIS和TrueMove的4G訊號良好，速度約20-30 Mbps，可流暢觀看影片。但進入地下段（如Silom線的沙拉當站至鄭皇橋站之間），電信服務可能中斷或降至3G，尤其是通過隧道時。建議在捷運上預先下載內容，或使用離線地圖規劃路線。部分車站如Asok、Siam站因人流密集，可能導致網路壅塞，但通常仍可發送訊息。
     - q: 在芭達雅海灘路上使用社群App會遇到網路問題嗎？
-      a: 芭達雅海灘路沿線餐廳和酒吧密集，AIS和TrueMove的4G/5G訊號普遍良好，上傳照片到IG或打卡都很快，速度約25-40 Mbps。但在Walking
-        Street夜市區域晚上9點後，人潮洶湧可能造成短暫慢速，不過傳送文字訊息不受影響。若您前往格蘭島（Koh Larn），部分電信業者在島上覆蓋較弱，建議提前下載離線資料。
+      a: 芭達雅海灘路沿線餐廳和酒吧密集，AIS和TrueMove的4G/5G訊號普遍良好，上傳照片到IG或打卡都很快，速度約25-40 Mbps。但在Walking Street夜市區域晚上9點後，人潮洶湧可能造成短暫慢速，不過傳送文字訊息不受影響。若您前往格蘭島（Koh
+        Larn），部分電信業者在島上覆蓋較弱，建議提前下載離線資料。
   - id: faq-airport
     icon: plane
     tab_title: 機場
     title: 泰國 機場：如何使用 泰國 eSIM
     questions:
-    - q: 在曼谷素萬那普機場抵達後，如何立即啟用eSIM？
-      a: 抵達素萬那普機場入境大廳後，確認手機已連上機場免費WiFi（如「BKK WiFi」），然後掃描eSIM提供者給予的QR code，依指示安裝描述檔。安裝完成後，在設定中開啟數據漫遊，通常30秒內即可抓到泰國當地訊號。建議先關閉原門號數據，避免產生漫遊費用。若啟用時遇到問題，可前往機場內的電信業者服務櫃檯（如AIS在入境層有專櫃）尋求協助。
+    - q: 我能在抵達後立即啟用泰國 eSIM嗎？
+      a: 可以，您抵達後就能立即啟用泰國 eSIM。使用機場免費WiFi，從Email掃描QR碼，2分鐘內即可上線。我們建議在出發前先安裝好eSIM。
     - q: 從廊曼機場出發，eSIM的網路覆蓋何時開始生效？
       a: 廊曼機場是曼谷的國內線機場，一進入航廈內部，泰國網路訊號就已存在。您可以在出發前於家中安裝eSIM，抵達機場後開啟數據漫遊，進入機場範圍即自動連線。在廊曼機場第一航廈與第二航廈之間，網路訊號穩定，可正常使用叫車App、查看航班資訊。不過，機場內某些角落（如停車場樓層）可能訊號較弱，建議在報到大廳完成網路設定。
     - q: 在普吉島機場降落後，哪個電信業者的訊號最快？
@@ -425,17 +411,16 @@ faq_section:
     tab_title: 交通
     title: 泰國 eSIM 用於 泰國 的交通和導航
     questions:
-    - q: 在曼谷搭乘BTS捷運時，網路訊號是否穩定？
-      a: 曼谷BTS大部分高架路段（如Mo Chit至On Nut段）覆蓋良好，AIS和TrueMove的4G/5G訊號下載速度約20-40 Mbps。但進入部分地下區間（例如Silom線Sala
-        Daeng至Surasak站之間），隧道內可能出現斷訊或3G訊號，影響串流觀看。建議提前下載音樂或影片，或利用到站停留時間刷新內容。此外，尖峰時段車廂內人多也可能導致速度略降，但一般通訊軟體仍可使用。
+    - q: 我能在泰國使用eSIM叫車和導航嗎？
+      a: 可以，泰國 eSIM可搭配叫車App和Google地圖使用。5GB/15天方案($4.99)足夠日常導航和叫車使用。
     - q: 在計程車或Grab上，如何使用eSIM導航不會斷線？
       a: 搭乘Grab或計程車時，使用eSIM搭配Google Maps導航相當可靠。建議將eSIM的數據漫遊開啟，並在出發前設定好目的地。多數司機會使用自己的手機導航，但若您需要分享路線，AIS的網路在曼谷市區延遲低，路線更新即時。不過，若行經天橋下或狹窄巷道，GPS訊號可能稍有偏差，但整體導航體驗流暢。若擔心數據用量，可先下載離線地圖以備不時之需。
     - q: 從芭達雅前往格蘭島的渡輪上，網路訊號如何？
       a: 從芭達雅搭乘渡輪前往格蘭島（約30分鐘航程），在離開海岸後5-10分鐘內，電信訊號會逐漸減弱，靠近海中央時可能只剩3G或無訊號。建議在上船前下載好島上地圖或娛樂內容。抵達格蘭島後，AIS和TrueMove的4G訊號恢復，速度約10-15
         Mbps，足以使用社交軟體和即時通訊。部分渡輪公司提供免費WiFi，但速度較慢，建議優先使用eSIM。
     - q: 曼谷MRT地鐵站內的網路速度夠快嗎？
-      a: 曼谷MRT（如藍線）車站內，AIS和TrueMove的4G/5G覆蓋良好，月台及大堂區域下載速度約15-30 Mbps。但在列車行駛隧道中，訊號可能轉為3G或微弱，尤其行經Thailand
-        Cultural Centre至Phra Ram 9段時較不穩定。建議利用停站時間刷新頁面。部分站點如Chatuchak Park站因近郊區，訊號表現較佳。
+      a: 曼谷MRT（如藍線）車站內，AIS和TrueMove的4G/5G覆蓋良好，月台及大堂區域下載速度約15-30 Mbps。但在列車行駛隧道中，訊號可能轉為3G或微弱，尤其行經Thailand Cultural Centre至Phra
+        Ram 9段時較不穩定。建議利用停站時間刷新頁面。部分站點如Chatuchak Park站因近郊區，訊號表現較佳。
     - q: 搭火車從曼谷到清邁，沿線網路覆蓋情況如何？
       a: 從曼谷華藍蓬火車站到清邁的火車路線，經過大城、那空沙旺等省份，沿途AIS的覆蓋最廣，大部分路段維持4G，速度10-20 Mbps。但進入山區（如靠近清邁的隧道段）時可能短暫無訊號，持續約5-10分鐘。建議提前下載影集或音樂，也確保離線地圖下載完畢，因為車上WiFi不穩定。整體來說，列車行進間可正常使用LINE、瀏覽網頁。
   - id: faq-hotels
@@ -444,8 +429,7 @@ faq_section:
     title: 在 泰國 的飯店使用 泰國 eSIM 連線
     questions:
     - q: 在曼谷半島酒店內，eSIM訊號會比飯店WiFi快嗎？
-      a: 曼谷半島酒店位於湄南河畔，飯店內提供免費WiFi，但連線速度可能因房間位置而異。使用eSIM（如AIS網路）在酒店大廳、餐廳和泳池區可享4G/5G訊號，下載速度約30-50
-        Mbps，通常比公共WiFi穩定。但在客房內，因建築結構厚實，部分房間靠近河側的陽台訊號較佳，內側房間可能減弱。建議搭配WiFi使用，將eSIM作為備援，確保視訊會議不中斷。
+      a: 曼谷半島酒店位於湄南河畔，飯店內提供免費WiFi，但連線速度可能因房間位置而異。使用eSIM（如AIS網路）在酒店大廳、餐廳和泳池區可享4G/5G訊號，下載速度約30-50 Mbps，通常比公共WiFi穩定。但在客房內，因建築結構厚實，部分房間靠近河側的陽台訊號較佳，內側房間可能減弱。建議搭配WiFi使用，將eSIM作為備援，確保視訊會議不中斷。
     - q: 清邁四季度假酒店位於郊區，網路訊號足夠嗎？
       a: 清邁四季度假酒店位於湄林區山腳下，距離市中心約30分鐘車程。此區域AIS和TrueMove的4G覆蓋良好，酒店區域內下載速度約15-25 Mbps，可順暢使用社交媒體和串流音樂。但若走進山林步道深處，訊號可能降至3G。酒店提供免費WiFi，但晚上尖峰時段可能較慢，建議使用eSIM分流。對於需要穩定網路的遠距工作者，建議預訂靠近主建築的客房。
     - q: 普吉島悅榕莊的私人泳池別墅內，eSIM表現如何？
@@ -459,8 +443,8 @@ faq_section:
     tab_title: 景點
     title: 泰國 旅遊景點的網路：泰國 eSIM
     questions:
-    - q: 在大皇宮區域，網路訊號能應付即時直播嗎？
-      a: 大皇宮位於曼谷老城區，AIS和TrueMove的4G/5G訊號在戶外廣場和寺廟周圍非常強，下載速度約30-50 Mbps，可以進行臉書直播，畫質清晰。但進入玉佛寺等室內建築時，因牆體厚實，訊號可能降至3G，建議在室外完成直播。週末與假日人潮眾多時，網路可能稍慢，但上傳照片仍是可行的。
+    - q: 在泰國的旅遊景點有網路收訊嗎？
+      a: 泰國的主要景點通常有良好的4G/5G覆蓋。偏遠地區訊號可能較弱。建議前往偏遠目的地前先下載離線地圖。
     - q: 在清邁雙龍寺（素貼寺）山上拍照上傳社群會很慢嗎？
       a: 雙龍寺位於素貼山頂，海拔約1,000米，AIS在此處設有基地台，4G訊號可達15-25 Mbps。上傳照片到Instagram或Facebook約需幾秒，但人流多時（如週末早晨）可能略有延遲。山上的觀景台訊號穩定，適合直播。不過，往山下走（例如前往帕拉寺的階梯）訊號會變弱，建議在寺廟主體建築附近使用網路。
     - q: 在普吉島卡塔海灘使用手機，網路夠順暢嗎？
@@ -476,8 +460,8 @@ faq_section:
     questions:
     - q: 在泰國使用LINE通話，eSIM的延遲夠低嗎？
       a: 在泰國使用LINE語音通話，連接到AIS或TrueMove的4G網路時，延遲約30-60毫秒，通話清晰無中斷。若身處曼谷Asok站附近，5G網路延遲更低，效果更佳。但若使用dtac網路，在偏遠郊區可能偶有回音。建議通話前關閉背景應用程式，並確保訊號滿格。整體而言，LINE通話體驗順暢。
-    - q: 上傳IG限時動態到清邁的夜市，需要很久嗎？
-      a: 在清邁夜市（如長康路夜市），AIS的4G+網路下，上傳一段15秒限時動態約需3-5秒，很快就能發布。晚上9點後人潮最多時，上傳時間可能延長至8-10秒，但在可接受範圍。建議使用較短影片或照片，以免耗時。TrueMove網路在夜市區域表現也類似，但某些角落訊號較弱。
+    - q: 去泰國旅行需要多少數據量？
+      a: 輕度使用者(地圖+訊息)約300MB/天，中度(社群+照片)約700MB/天，重度(串流+視訊)選擇無限方案。大多數旅客在泰國標準行程中選擇5GB/15天已足夠。
     - q: 在普吉島海灘進行Facebook直播，網路穩定嗎？
       a: 在芭東海灘進行直播，使用AIS的5G網路可獲得穩定上行速度，約10-15 Mbps，直播畫質可達720p。但在卡倫海灘，因腹地較小，訊號強度略低，仍可1080p直播但可能偶有掉幀。建議選擇沙灘中段位置，避開遮陽傘較密集處。此外，傍晚日落時段因多人同時連線，直播延遲可能稍增。
     - q: 用TikTok上傳影片時，推薦使用哪家電信業者？
@@ -491,8 +475,8 @@ faq_section:
     questions:
     - q: 在泰國如何撥打緊急電話？eSIM能否正常使用？
       a: 在泰國，緊急號碼如警察191、救護車1669、旅遊警察1155可免費撥打，即使無SIM卡或餘額不足也能接通。eSIM用戶可直接撥打，語音通話功能正常。建議在手機鎖定畫面設定緊急聯絡人，並記住這些號碼。若遇到危險，保持冷靜並告知所在地點，可使用GPS座標。
-    - q: 若eSIM在緊急時刻無法連網，該怎麼辦？
-      a: 若eSIM因技術問題無法連網，請先嘗試重新開機或飛航模式重啟。如果仍無訊號，可尋找免費WiFi（如7-Eleven或購物中心）撥打網路電話。另外，泰國公共電話亭仍存在，可使用硬幣或購買預付卡。危急時，直接向路人或店家求助，他們多數會協助報警。
+    - q: 我能在泰國 eSIM上使用WhatsApp、FaceTime和微信嗎？
+      a: 可以！泰國 eSIM支援WhatsApp音訊/視訊通話、FaceTime、微信和Zoom，無限制。透過您喜愛的應用程式與家人保持聯繫。
     - q: 在偏遠島嶼（如龜島）發生意外時，如何確保對外聯繫？
       a: 在龜島等離島，AIS的覆蓋較佳，但仍有部分區域無訊號。建議在登島前下載離線地圖，並將緊急連絡人儲存在手機。島上主要海灘如塞利海灘通常有訊號，可撥打1669叫救護車。若身處無訊號區，可前往高處或港口尋求訊號。部分潛水店提供衛星電話租借，可作為備案。
     - q: 旅遊警察服務的專線1155，支援哪些語言？

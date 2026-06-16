@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Algeria eSIM | Best Travel Data Plan for Explorers"
-  description: "Need a prepaid travel eSIM for Algeria? Roami offers unlimited 5G data. Covers Algiers, Oran & Constantine. Instant activation Buy your plan online today."
+  title: Algeria eSIM | Best Travel Data Plan for Explorers
+  description: Need a prepaid travel eSIM for Algeria? Roami offers unlimited 5G data. Covers Algiers, Oran & Constantine.
+    Instant activation Buy your plan online today.
   keywords: Algeria eSIM, buy Algeria eSIM, best Algeria eSIM, Algeria travel eSIM, Mobilis Algeria, Djezzy Algeria, Ooredoo
     Algeria, Algiers eSIM, Oran eSIM, Constantine eSIM, Algeria prepaid eSIM, 5G Algeria eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/dz.svg
   flag_alt: Algeria Flag
-  title: 'Algeria eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Algeria eSIM: Complete Data Solutions for Your Trip'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Algeria travelers
 features:
   title: 'Why Algeria Travelers Choose Roami: Coverage, Speed & Service'

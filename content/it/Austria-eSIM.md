@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Austria eSIM | Prepagato senza vincoli contrattuali"
-  description: "Viaggi in Austria? Attiva la tua eSIM Roami in meno di 2 minuti. Nessuna procedura complicata, ricevi il QR code via email e sei subito online. Copre tutte le regioni."
+  title: Austria eSIM | Prepagato senza vincoli contrattuali
+  description: Viaggi in Austria? Attiva la tua eSIM Roami in meno di 2 minuti. Nessuna procedura complicata, ricevi il QR
+    code via email e sei subito online. Copre tutte le regioni.
   keywords: eSIM Austria, piano eSIM Austria, migliore eSIM Austria, Austria dati, A1 Telekom Austria, Magenta (T-Mobile)
     Austria, Drei (3) Austria, eSIM Vienna, eSIM Salisburgo, eSIM Innsbruck, internet mobile Austria, 5G Austria
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/at.svg
   flag_alt: Bandiera di Austria
-  title: 'eSIM Austria 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Austria: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Austria - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Austria: Velocità, Copertura & Supporto'

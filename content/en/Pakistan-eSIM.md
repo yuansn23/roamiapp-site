@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Pakistan eSIM | Top Prepaid Travel eSIM Plan"
-  description: "Stay connected in Pakistan with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Karachi, Lahore & Islamabad. Instant activation."
+  title: Pakistan eSIM | Top Prepaid Travel eSIM Plan
+  description: Stay connected in Pakistan with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Karachi,
+    Lahore & Islamabad. Instant activation.
   keywords: Pakistan eSIM, buy Pakistan eSIM, best Pakistan eSIM, Pakistan travel eSIM, Jazz Pakistan, Telenor Pakistan, Zong
     Pakistan, Karachi eSIM, Lahore eSIM, Islamabad eSIM, Pakistan prepaid eSIM, 5G Pakistan eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/pk.svg
   flag_alt: Pakistan Flag
-  title: 'Pakistan eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'Pakistan eSIM: Reliable Network & Coverage for Travelers'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Pakistan travelers
 features:
   title: 'Why Pakistan Travelers Choose Roami: Coverage, Speed & Service'

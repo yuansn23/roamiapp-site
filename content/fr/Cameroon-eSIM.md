@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/cm.svg
   flag_alt: Drapeau Cameroun
-  title: 'eSIM Cameroun 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Cameroun: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Cameroun - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Cameroun: Vitesse, Couverture & Support'

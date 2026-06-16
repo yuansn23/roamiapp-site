@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Mauritius eSIM | Ricarica immediata senza contratto"
-  description: "Acquista la tua eSIM Roami per Mauritius in pochi clic. Pagamento sicuro, ricezione immediata del codice. Comodo e veloce. Copre tutte le regioni."
+  title: Mauritius eSIM | Ricarica immediata senza contratto
+  description: Acquista la tua eSIM Roami per Mauritius in pochi clic. Pagamento sicuro, ricezione immediata del codice. Comodo
+    e veloce. Copre tutte le regioni.
   keywords: eSIM Mauritius, piano eSIM Mauritius, migliore eSIM Mauritius, Mauritius dati, my.t Mauritius, Emtel Mauritius,
     Orange Mauritius Mauritius, eSIM Port Louis, eSIM Beau Bassin-Rose Hill, eSIM Quatre Bornes, internet mobile Mauritius,
     5G Mauritius
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/mu.svg
   flag_alt: Bandiera di Mauritius
-  title: 'eSIM Mauritius 2026: Soluzioni Dati Complete per il Tuo Viaggio'
+  title: 'eSIM Mauritius: Soluzioni Dati Complete per il Tuo Viaggio'
   subtitle: Niente costi nascosti | Internet senza preoccupazioni | Supporto 24/7 - la migliore eSIM per Mauritius
 features:
   title: 'Perché i viaggiatori scelgono Roami per Mauritius: Copertura, Velocità & Servizio'

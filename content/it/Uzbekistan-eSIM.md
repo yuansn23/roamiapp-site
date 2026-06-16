@@ -19,8 +19,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Uzbekistan eSIM | Ricarica immediata senza contratto"
-  description: "Resta connesso in Uzbekistan con Roami. Naviga, condividi, guarda video in streaming con il 5G veloce. La connessione perfetta per il tuo viaggio. Copre tutte le regioni."
+  title: Uzbekistan eSIM | Ricarica immediata senza contratto
+  description: Resta connesso in Uzbekistan con Roami. Naviga, condividi, guarda video in streaming con il 5G veloce. La connessione
+    perfetta per il tuo viaggio. Copre tutte le regioni.
   keywords: eSIM Uzbekistan, piano eSIM Uzbekistan, migliore eSIM Uzbekistan, Uzbekistan dati, Ucell Uzbekistan, Beeline Uzbekistan
     Uzbekistan, Mobiuz Uzbekistan, eSIM Tashkent, eSIM Samarcanda, eSIM Bukhara, internet mobile Uzbekistan, 5G Uzbekistan
 order_summary:
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/uz.svg
   flag_alt: Bandiera di Uzbekistan
-  title: 'eSIM Uzbekistan 2026: Rimani Connesso Ovunque'
+  title: 'eSIM Uzbekistan: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per Uzbekistan
 features:
   title: 'Perché i viaggiatori scelgono Roami per Uzbekistan: Piani, Rete & Supporto'

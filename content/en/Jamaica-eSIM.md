@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Jamaica eSIM | Best Travel eSIM for Your Journey"
-  description: "Need a prepaid travel eSIM for Jamaica? Roami offers unlimited 5G data island-wide. Covers Kingston, Montego Bay & Negril. Instant activation."
+  title: Jamaica eSIM | Best Travel eSIM for Your Journey
+  description: Need a prepaid travel eSIM for Jamaica? Roami offers unlimited 5G data island-wide. Covers Kingston, Montego
+    Bay & Negril. Instant activation.
   keywords: Jamaica eSIM, buy Jamaica eSIM, best Jamaica eSIM, Jamaica travel eSIM, Digicel Jamaica, Flow Jamaica, Lime Jamaica,
     Kingston eSIM, Montego Bay eSIM, Ocho Rios eSIM, Jamaica prepaid eSIM, 5G Jamaica eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/jm.svg
   flag_alt: Jamaica Flag
-  title: 'Jamaica eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Jamaica eSIM: Fast 5G Data for Every City & Destination'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Jamaica travelers
 features:
   title: 'Why Jamaica Travelers Choose Roami: Coverage, Speed & Service'

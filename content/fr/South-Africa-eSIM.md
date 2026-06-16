@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Afr du Sud eSIM | Meilleur prix sans engagement"
-  description: "Voyagez a Afrique du Sud sans souci avec Roami. Notre eSIM vous suit partout pour un voyage en toute serenite. Couvre tout le pays."
+  title: Afr du Sud eSIM | Meilleur prix sans engagement
+  description: Voyagez a Afrique du Sud sans souci avec Roami. Notre eSIM vous suit partout pour un voyage en toute serenite.
+    Couvre tout le pays.
   keywords: eSIM Afrique du Sud, forfait eSIM Afrique du Sud, meilleure eSIM Afrique du Sud, Afrique du Sud data, Vodacom
     Afrique du Sud, MTN Afrique du Sud, Cell C Afrique du Sud, eSIM Johannesburg, eSIM Le Cap, eSIM Durban, internet mobile
     Afrique du Sud, 5G Afrique du Sud
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/za.svg
   flag_alt: Drapeau Afrique du Sud
-  title: 'eSIM Afrique du Sud 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Afrique du Sud: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Afrique du Sud - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Afrique du Sud: Vitesse, Couverture & Support'

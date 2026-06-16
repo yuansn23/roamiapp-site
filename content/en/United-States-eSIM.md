@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "USA eSIM | Best Prepaid eSIM for Travelers"
-  description: "Planning a trip to the USA? Get the best prepaid travel eSIM from Roami with unlimited 5G data on top networks. Instant activation nationwide. Plans from $1.99."
+  title: USA eSIM | Best Prepaid eSIM for Travelers
+  description: Planning a trip to the USA? Get the best prepaid travel eSIM from Roami with unlimited 5G data on top networks.
+    Instant activation nationwide. Plans from $1.99.
   keywords: United States eSIM, buy United States eSIM, best United States eSIM, United States travel eSIM, T-Mobile United
     States, AT&T United States, Verizon United States, New York eSIM, Los Angeles eSIM, Chicago eSIM, United States prepaid
     eSIM, 5G United States eSIM
@@ -45,7 +46,7 @@ banner:
 hero:
   flag_image: img/flags/us.svg
   flag_alt: United States Flag
-  title: 'United States eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'United States eSIM: Reliable Network & Coverage for Travelers'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for United States
 features:
   title: 'Why United States Travelers Choose Roami: Network, Plans & Value'

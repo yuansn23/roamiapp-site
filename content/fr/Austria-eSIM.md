@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Autriche eSIM | Acheter pas cher, données illimitées"
-  description: "Partez pour Autriche avec Roami. L'activation de votre eSIM prend moins de 2 minutes. Simple comme un clic. Couvre tout le pays."
+  title: Autriche eSIM | Acheter pas cher, données illimitées
+  description: Partez pour Autriche avec Roami. L'activation de votre eSIM prend moins de 2 minutes. Simple comme un clic.
+    Couvre tout le pays.
   keywords: eSIM Autriche, forfait eSIM Autriche, meilleure eSIM Autriche, Autriche data, A1 Telekom Autriche, T-Mobile Autriche,
     Drei Autriche, eSIM Vienne, eSIM Salzbourg, eSIM Innsbruck, internet mobile Autriche, 5G Autriche
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/at.svg
   flag_alt: Drapeau Autriche
-  title: 'eSIM Autriche 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Autriche: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Autriche - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Autriche: Vitesse, Couverture & Support'

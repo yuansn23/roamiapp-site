@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Mexico eSIM | Buy Unlimited Data Plan for Travelers"
-  description: "Get the best prepaid travel eSIM for Mexico from Roami. Unlimited 5G data nationwide with no roaming fees. Instant activation. Covers Cancun, Mexico City & beyond."
+  title: Mexico eSIM | Buy Unlimited Data Plan for Travelers
+  description: Get the best prepaid travel eSIM for Mexico from Roami. Unlimited 5G data nationwide with no roaming fees.
+    Instant activation. Covers Cancun, Mexico City & beyond.
   keywords: Mexico eSIM, buy Mexico eSIM, best Mexico eSIM, Mexico travel eSIM, Telcel Mexico, AT&T Mexico, Movistar Mexico,
     Mexico City eSIM, Cancún eSIM, Guadalajara eSIM, Mexico prepaid eSIM, 5G Mexico eSIM
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/mx.svg
   flag_alt: Mexico Flag
-  title: 'Mexico eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Mexico eSIM: Stay Connected Everywhere You Go'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Mexico
 features:
   title: 'Why Mexico Travelers Choose Roami: Network, Plans & Value'

@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Bahamas eSIM | Best Prepaid Plan for Travel"
-  description: "Get the best prepaid travel eSIM for the Bahamas from Roami. Unlimited 5G data across 700+ islands. Covers Nassau, Freeport & Exuma. Instant activation."
+  title: Bahamas eSIM | Best Prepaid Plan for Travel
+  description: Get the best prepaid travel eSIM for the Bahamas from Roami. Unlimited 5G data across 700+ islands. Covers
+    Nassau, Freeport & Exuma. Instant activation.
   keywords: Bahamas eSIM, buy Bahamas eSIM, best Bahamas eSIM, Bahamas travel eSIM, BTC Bahamas, Aliv Bahamas, Cable Bahamas
     Bahamas, Nassau eSIM, Freeport eSIM, Marsh Harbour eSIM, Bahamas prepaid eSIM, 5G Bahamas eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/bs.svg
   flag_alt: Bahamas Flag
-  title: 'Bahamas eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Bahamas eSIM: Fast 5G Data for Every City & Destination'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Bahamas travelers
 features:
   title: 'Why Bahamas Travelers Choose Roami: Coverage, Speed & Service'

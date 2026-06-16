@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Japan eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Sie wollen eine günstige eSIM für Japan? Roami bietet den besten Preis auf dem Markt. Keine versteckten Kosten. Deckt Tokio, Osaka & Kyoto ab."
+  title: Japan eSIM | Günstigste Prepaid Reise eSIM
+  description: Sie wollen eine günstige eSIM für Japan? Roami bietet den besten Preis auf dem Markt. Keine versteckten Kosten.
+    Deckt Tokio, Osaka & Kyoto ab.
   keywords:
   - Japan eSIM
   - Japan Reise eSIM
@@ -52,7 +53,7 @@ banner:
 hero:
   flag_image: img/flags/jp.svg
   flag_alt: Flagge von Japan
-  title: 'Japan eSIM 2026: Überall verbunden bleiben'
+  title: 'Japan eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Japan
 features:
   title: 'Warum Reisende Roami fuer Japan waehlen: Tarife, Netzwerk & Support'

@@ -44,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/qa.svg
   flag_alt: Qatar Flag
-  title: 'Qatar eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Qatar eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Qatar travelers
 features:
   title: 'Why Qatar Travelers Choose Roami: Coverage, Speed & Service'

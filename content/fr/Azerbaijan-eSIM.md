@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Azerbaïdjan eSIM | Acheter pas cher, données illimitées"
-  description: "L'eSIM Roami pour Azerbaïdjan s'active en quelques secondes. Recevez votre code par email et partez tranquillement. Couvre tout le pays."
+  title: Azerbaïdjan eSIM | Acheter pas cher, données illimitées
+  description: L'eSIM Roami pour Azerbaïdjan s'active en quelques secondes. Recevez votre code par email et partez tranquillement.
+    Couvre tout le pays.
   keywords: eSIM Azerbaïdjan, forfait eSIM Azerbaïdjan, meilleure eSIM Azerbaïdjan, Azerbaïdjan data, Azercell Azerbaïdjan,
     Bakcell Azerbaïdjan, Nar Azerbaïdjan, eSIM Bakou, eSIM Gandja, eSIM Sumgaït, internet mobile Azerbaïdjan, 5G Azerbaïdjan
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/az.svg
   flag_alt: Drapeau Azerbaïdjan
-  title: 'eSIM Azerbaïdjan 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Azerbaïdjan: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Azerbaïdjan
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Azerbaïdjan: Réseau, Forfaits & Prix'

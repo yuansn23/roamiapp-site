@@ -45,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/bh.svg
   flag_alt: Bahrain Flag
-  title: 'Bahrain eSIM 2026: Reliable Network & Coverage for Travelers'
+  title: 'Bahrain eSIM: Reliable Network & Coverage for Travelers'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Bahrain
 features:
   title: 'Why Bahrain Travelers Choose Roami: Plans, Network & Support'

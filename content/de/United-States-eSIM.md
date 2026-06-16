@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "USA eSIM | Ohne Vertrag & sofort nutzbar"
-  description: "Sie kommen in USA an? Aktivieren Sie Ihre Roami eSIM sofort, ohne Papierkram. In Sekunden online. Deckt alle Regionen ab."
+  title: USA eSIM | Ohne Vertrag & sofort nutzbar
+  description: Sie kommen in USA an? Aktivieren Sie Ihre Roami eSIM sofort, ohne Papierkram. In Sekunden online. Deckt alle
+    Regionen ab.
   keywords: USA eSIM, USA Reise eSIM, beste eSIM USA, USA Datentarif, T-Mobile USA, AT&T USA, Verizon USA, New York eSIM,
     Los Angeles eSIM, Chicago eSIM, USA mobiles Internet, 5G USA
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/us.svg
   flag_alt: Flagge von USA
-  title: 'USA eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'USA eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für USA
 features:
   title: 'Warum Reisende Roami fuer USA waehlen: Netzwerk, Tarife & Preiswert'

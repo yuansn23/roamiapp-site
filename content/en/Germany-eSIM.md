@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Germany eSIM | Prepaid Data Plan for Your Trip"
-  description: "Get the best prepaid travel eSIM for Germany from Roami. Unlimited 5G data nationwide with instant activation. Covers Berlin, Munich & all cities."
+  title: Germany eSIM | Prepaid Data Plan for Your Trip
+  description: Get the best prepaid travel eSIM for Germany from Roami. Unlimited 5G data nationwide with instant activation.
+    Covers Berlin, Munich & all cities.
   keywords: Germany eSIM, buy Germany eSIM, best Germany eSIM, Germany travel eSIM, Deutsche Telekom Germany, Vodafone Germany,
     O2 Germany, Berlin eSIM, Munich eSIM, Hamburg eSIM, Germany prepaid eSIM, 5G Germany eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/de.svg
   flag_alt: Germany Flag
-  title: 'Germany eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Germany eSIM: Fast 5G Data for Every City & Destination'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Germany travelers
 features:
   title: 'Why Germany Travelers Choose Roami: Coverage, Speed & Service'

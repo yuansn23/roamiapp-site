@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ga.svg
   flag_alt: Drapeau Gabon
-  title: 'eSIM Gabon 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Gabon: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Gabon
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Gabon: Réseau, Forfaits & Prix'

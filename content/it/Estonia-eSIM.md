@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Estonia eSIM | Internet veloce senza limiti"
-  description: "Goditi il 5G veloce in Estonia con Roami. Mappe, streaming, social network, tutto funziona senza problemi. Copre tutte le regioni."
+  title: Estonia eSIM | Internet veloce senza limiti
+  description: Goditi il 5G veloce in Estonia con Roami. Mappe, streaming, social network, tutto funziona senza problemi.
+    Copre tutte le regioni.
   keywords: eSIM Estonia, piano eSIM Estonia, migliore eSIM Estonia, Estonia dati, Telia Estonia, Elisa Estonia, Tele2 Estonia,
     eSIM Tallinn, eSIM Tartu, eSIM Narva, internet mobile Estonia, 5G Estonia
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ee.svg
   flag_alt: Bandiera di Estonia
-  title: 'eSIM Estonia 2026: Rete Affidabile per Viaggiatori'
+  title: 'eSIM Estonia: Rete Affidabile per Viaggiatori'
   subtitle: Attivazione immediata | 5G veloce | Supporto 24/7 - la migliore eSIM prepagata per Estonia
 features:
   title: 'Perché i viaggiatori scelgono Roami per Estonia: Rete, Piani & Prezzo'

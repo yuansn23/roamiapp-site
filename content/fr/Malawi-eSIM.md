@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/mw.svg
   flag_alt: Drapeau Malawi
-  title: 'eSIM Malawi 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Malawi: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Malawi
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Malawi: Réseau, Forfaits & Prix'

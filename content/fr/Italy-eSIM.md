@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Italie eSIM | Acheter pas cher pour voyager"
-  description: "Achetez votre eSIM Roami pour Italie en quelques clics. Paiement securise, reception immediate du code. Couvre Rome, Venise & Florence."
+  title: Italie eSIM | Acheter pas cher pour voyager
+  description: Achetez votre eSIM Roami pour Italie en quelques clics. Paiement securise, reception immediate du code. Couvre
+    Rome, Venise & Florence.
   keywords: eSIM Italie, forfait eSIM Italie, meilleure eSIM Italie, Italie data, TIM Italie, Vodafone Italia Italie, Wind
     Tre Italie, eSIM Rome, eSIM Milan, eSIM Naples, internet mobile Italie, 5G Italie
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/it.svg
   flag_alt: Drapeau Italie
-  title: 'eSIM Italie 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Italie: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Italie - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Italie: Vitesse, Couverture & Support'

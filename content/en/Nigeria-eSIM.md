@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Nigeria eSIM | Unlimited Data Plan for Travelers"
-  description: "Get the best prepaid travel eSIM for Nigeria from Roami. Unlimited 5G data on top networks. Covers Lagos, Abuja & Port Harcourt. Instant activation."
+  title: Nigeria eSIM | Unlimited Data Plan for Travelers
+  description: Get the best prepaid travel eSIM for Nigeria from Roami. Unlimited 5G data on top networks. Covers Lagos, Abuja
+    & Port Harcourt. Instant activation.
   keywords: Nigeria eSIM, buy Nigeria eSIM, best Nigeria eSIM, Nigeria travel eSIM, MTN Nigeria, Glo Nigeria, Airtel Nigeria,
     Lagos eSIM, Abuja eSIM, Port Harcourt eSIM, Nigeria prepaid eSIM, 5G Nigeria eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/ng.svg
   flag_alt: Nigeria Flag
-  title: 'Nigeria eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Nigeria eSIM: Stay Connected Everywhere You Go'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Nigeria
 features:
   title: 'Why Nigeria Travelers Choose Roami: Plans, Network & Support'

@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Lettonia eSIM | Offerte eSIM per viaggiatori"
-  description: "Viaggia in Lettonia in libertà con Roami. Nessun rinnovo automatico, nessuna penale di recesso. Usala e basta. Copre tutte le regioni."
+  title: Lettonia eSIM | Offerte eSIM per viaggiatori
+  description: Viaggia in Lettonia in libertà con Roami. Nessun rinnovo automatico, nessuna penale di recesso. Usala e basta.
+    Copre tutte le regioni.
   keywords: eSIM Lettonia, piano eSIM Lettonia, migliore eSIM Lettonia, Lettonia dati, LMT Lettonia, Tele2 Lettonia, Bite
     Lettonia, eSIM Riga, eSIM Daugavpils, eSIM Liepaja, internet mobile Lettonia, 5G Lettonia
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/lv.svg
   flag_alt: Bandiera di Lettonia
-  title: 'eSIM Lettonia 2026: Rimani Connesso Ovunque'
+  title: 'eSIM Lettonia: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per Lettonia
 features:
   title: 'Perché i viaggiatori scelgono Roami per Lettonia: Piani, Rete & Supporto'

@@ -19,8 +19,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Hong Kong eSIM | Prepagato senza vincoli"
-  description: "Roami per Hong Kong: niente contratto, niente vincoli. Usala durante la tua vacanza, poi è finita. Senza complicazioni. Copre tutte le regioni."
+  title: Hong Kong eSIM | Prepagato senza vincoli
+  description: 'Roami per Hong Kong: niente contratto, niente vincoli. Usala durante la tua vacanza, poi è finita. Senza complicazioni.
+    Copre tutte le regioni.'
   keywords: eSIM Hong Kong, piano eSIM Hong Kong, migliore eSIM Hong Kong, Hong Kong dati, SmarTone Hong Kong, CSL Hong Kong,
     China Mobile Hong Kong Hong Kong, eSIM Hong Kong Island, eSIM Kowloon, eSIM New Territories, internet mobile Hong Kong,
     5G Hong Kong
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/hk.svg
   flag_alt: Bandiera di Hong Kong
-  title: 'eSIM Hong Kong 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Hong Kong: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Hong Kong - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Hong Kong: Velocità, Copertura & Supporto'

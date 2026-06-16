@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Nigeria eSIM | Ricarica immediata senza contratto"
-  description: "Per il tuo viaggio in Nigeria, la eSIM Roami è operativa in 2 minuti. Attivazione rapida, senza stress, connessione immediata all'arrivo. Copre tutte le regioni."
+  title: Nigeria eSIM | Ricarica immediata senza contratto
+  description: Per il tuo viaggio in Nigeria, la eSIM Roami è operativa in 2 minuti. Attivazione rapida, senza stress, connessione
+    immediata all'arrivo. Copre tutte le regioni.
   keywords:
   - eSIM Nigeria
   - piano eSIM Nigeria
@@ -52,7 +53,7 @@ banner:
 hero:
   flag_image: img/flags/ng.svg
   flag_alt: Bandiera di Nigeria
-  title: 'eSIM Nigeria 2026: Rete Affidabile per Viaggiatori'
+  title: 'eSIM Nigeria: Rete Affidabile per Viaggiatori'
   subtitle: Attivazione immediata | 5G veloce | Supporto 24/7 - la migliore eSIM prepagata per Nigeria
 features:
   title: 'Perché i viaggiatori scelgono Roami per Nigeria: Rete, Piani & Prezzo'

@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Cyprus eSIM | Best eSIM Plan for Tourists"
-  description: "Enjoy unlimited 5G data in Cyprus with Roami's best prepaid travel eSIM. Island-wide coverage. Covers Nicosia, Limassol & Paphos. Instant activation."
+  title: Cyprus eSIM | Best eSIM Plan for Tourists
+  description: Enjoy unlimited 5G data in Cyprus with Roami's best prepaid travel eSIM. Island-wide coverage. Covers Nicosia,
+    Limassol & Paphos. Instant activation.
   keywords: Cyprus eSIM, buy Cyprus eSIM, best Cyprus eSIM, Cyprus travel eSIM, Cyta Cyprus, PrimeTel Cyprus, Epic Cyprus,
     Nicosia eSIM, Limassol eSIM, Larnaca eSIM, Cyprus prepaid eSIM, 5G Cyprus eSIM
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/cy.svg
   flag_alt: Cyprus Flag
-  title: 'Cyprus eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Cyprus eSIM: Stay Connected Everywhere You Go'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Cyprus
 features:
   title: 'Why Cyprus Travelers Choose Roami: Network, Plans & Value'

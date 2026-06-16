@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Cina eSIM | Attivazione immediata conveniente"
-  description: "Prepara il tuo viaggio in Cina con Roami. La nostra eSIM ti accompagna ovunque per un'esperienza senza preoccupazioni, sempre connesso."
+  title: Cina eSIM | Attivazione immediata conveniente
+  description: Prepara il tuo viaggio in Cina con Roami. La nostra eSIM ti accompagna ovunque per un'esperienza senza preoccupazioni,
+    sempre connesso.
   keywords: eSIM Cina, piano eSIM Cina, migliore eSIM Cina, Cina dati, China Mobile Cina, China Unicom Cina, China Telecom
     Cina, eSIM Pechino, eSIM Shanghai, eSIM Guangzhou, internet mobile Cina, 5G Cina
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/cn.svg
   flag_alt: Bandiera di Cina
-  title: 'eSIM Cina 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Cina: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Cina - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Cina: Velocità, Copertura & Supporto'

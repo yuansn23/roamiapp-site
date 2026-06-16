@@ -43,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/cm.svg
   flag_alt: Flagge von Kamerun
-  title: 'Kamerun eSIM 2026: Schnelles 5G für jedes Reiseziel'
+  title: 'Kamerun eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Kamerun - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
   title: 'Warum Reisende Roami fuer Kamerun waehlen: Geschwindigkeit, Abdeckung & Support'

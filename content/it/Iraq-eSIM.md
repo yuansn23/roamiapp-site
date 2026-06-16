@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/iq.svg
   flag_alt: Bandiera di Iraq
-  title: 'eSIM Iraq 2026: Rete Affidabile per Viaggiatori'
+  title: 'eSIM Iraq: Rete Affidabile per Viaggiatori'
   subtitle: Attivazione immediata | 5G veloce | Supporto 24/7 - la migliore eSIM prepagata per Iraq
 features:
   title: 'Perché i viaggiatori scelgono Roami per Iraq: Rete, Piani & Prezzo'

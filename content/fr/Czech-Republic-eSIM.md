@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Rép Tchèque eSIM | Meilleur prix sans engagement"
-  description: "Vous voulez une eSIM pas chere pour République Tchèque? Roami vous propose le prix le plus attractif du marche. Couvre tout le pays."
+  title: Rép Tchèque eSIM | Meilleur prix sans engagement
+  description: Vous voulez une eSIM pas chere pour République Tchèque? Roami vous propose le prix le plus attractif du marche.
+    Couvre tout le pays.
   keywords: eSIM République tchèque, forfait eSIM République tchèque, meilleure eSIM République tchèque, République tchèque
     data, Vodafone République tchèque, T-Mobile République tchèque, O2 République tchèque, eSIM Prague, eSIM Brno, eSIM Ostrava,
     internet mobile République tchèque, 5G République tchèque
@@ -42,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/cz.svg
   flag_alt: Drapeau République tchèque
-  title: 'eSIM République tchèque 2026: Solutions Data Complètes pour Votre Voyage'
+  title: 'eSIM République tchèque: Solutions Data Complètes pour Votre Voyage'
   subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour République tchèque
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour République tchèque: Couverture, Vitesse & Service'

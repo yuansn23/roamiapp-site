@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Dominica eSIM | Compra al miglior prezzo online"
-  description: "Viaggia in Dominica senza pensieri. Roami non ti lega ad alcun abbonamento. Decidi tu quanto e quando usarla. Semplice e onesto. Copre tutte le regioni."
+  title: Dominica eSIM | Compra al miglior prezzo online
+  description: Viaggia in Dominica senza pensieri. Roami non ti lega ad alcun abbonamento. Decidi tu quanto e quando usarla.
+    Semplice e onesto. Copre tutte le regioni.
   keywords: eSIM Dominica, piano eSIM Dominica, migliore eSIM Dominica, Dominica dati, Digicel Dominica, FLOW Dominica, Cable
     & Wireless Dominica, eSIM Roseau, eSIM Portsmouth, eSIM Marigot, internet mobile Dominica, 5G Dominica
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/dm.svg
   flag_alt: Bandiera di Dominica
-  title: 'eSIM Dominica 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Dominica: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Dominica - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Dominica: Velocità, Copertura & Supporto'

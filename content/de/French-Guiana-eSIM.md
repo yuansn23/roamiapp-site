@@ -43,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/gf.svg
   flag_alt: Flagge von Französisch-Guayana
-  title: 'Französisch-Guayana eSIM 2026: Schnelles 5G für jedes Reiseziel'
+  title: 'Französisch-Guayana eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Französisch-Guayana - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
   title: 'Warum Reisende Roami fuer Französisch-Guayana waehlen: Geschwindigkeit, Abdeckung & Support'

@@ -49,7 +49,7 @@ banner:
 hero:
   flag_image: img/flags/xk.svg
   flag_alt: Flagge von Kosovo
-  title: 'Kosovo eSIM 2026: Überall verbunden bleiben'
+  title: 'Kosovo eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Kosovo
 features:
   title: 'Warum Reisende Roami fuer Kosovo waehlen: Tarife, Netzwerk & Support'

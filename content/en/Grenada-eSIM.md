@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Grenada eSIM | Ultimate Travel Data Plan"
-  description: "Explore Grenada with Roami's best prepaid travel eSIM. Unlimited 5G data across the island. Covers St Georges, Grenville. Instant activation."
+  title: Grenada eSIM | Ultimate Travel Data Plan
+  description: Explore Grenada with Roami's best prepaid travel eSIM. Unlimited 5G data across the island. Covers St Georges,
+    Grenville. Instant activation.
   keywords: Grenada eSIM, buy Grenada eSIM, best Grenada eSIM, Grenada travel eSIM, Flow Grenada, Digicel Grenada, Dawn Mobile
     Grenada, St. George's eSIM, Grenville eSIM, Gouyave eSIM, Grenada prepaid eSIM, 5G Grenada eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/gd.svg
   flag_alt: Grenada Flag
-  title: 'Grenada eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Grenada eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Grenada travelers
 features:
   title: 'Why Grenada Travelers Choose Roami: Coverage, Speed & Service'

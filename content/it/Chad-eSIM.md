@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/td.svg
   flag_alt: Bandiera di Ciad
-  title: 'eSIM Ciad 2026: Soluzioni Dati Complete per il Tuo Viaggio'
+  title: 'eSIM Ciad: Soluzioni Dati Complete per il Tuo Viaggio'
   subtitle: Niente costi nascosti | Internet senza preoccupazioni | Supporto 24/7 - la migliore eSIM per Ciad
 features:
   title: 'Perché i viaggiatori scelgono Roami per Ciad: Copertura, Velocità & Servizio'

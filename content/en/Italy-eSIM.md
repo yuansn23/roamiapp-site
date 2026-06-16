@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Italy eSIM | Best Travel eSIM for Your Journey"
-  description: "Enjoy unlimited 5G data in Italy with the best prepaid travel eSIM from Roami. Instant activation. Buy your travel plan before you go. Covers Rome, Venice &."
+  title: Italy eSIM | Best Travel eSIM for Your Journey
+  description: Enjoy unlimited 5G data in Italy with the best prepaid travel eSIM from Roami. Instant activation. Buy your
+    travel plan before you go. Covers Rome, Venice &.
   keywords: Italy eSIM, buy Italy eSIM, best Italy eSIM, Italy travel eSIM, TIM Italy, Vodafone Italia Italy, Wind Tre Italy,
     Rome eSIM, Milan eSIM, Naples eSIM, Italy prepaid eSIM, 5G Italy eSIM
   low_price: 1.99
@@ -43,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/it.svg
   flag_alt: Italy Flag
-  title: 'Italy eSIM 2026: Stay Connected Everywhere You Go'
+  title: 'Italy eSIM: Stay Connected Everywhere You Go'
   subtitle: Best prepaid eSIM for Italy travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Italy Travelers Choose Roami: Speed, Coverage & Support'

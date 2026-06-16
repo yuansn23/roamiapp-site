@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Turchia eSIM | Dati illimitati per viaggiare"
-  description: "Organizzi un viaggio in Turchia? Roami è il compagno ideale per restare connesso durante tutto il tuo soggiorno. Copre Istanbul, Antalya & la Riviera Turca."
+  title: Turchia eSIM | Dati illimitati per viaggiare
+  description: Organizzi un viaggio in Turchia? Roami è il compagno ideale per restare connesso durante tutto il tuo soggiorno.
+    Copre Istanbul, Antalya & la Riviera Turca.
   keywords: eSIM Turchia, piano eSIM Turchia, migliore eSIM Turchia, Turchia dati, Turkcell Turchia, Vodafone TR Turchia,
     Türk Telekom Turchia, eSIM Istanbul, eSIM Ankara, eSIM Smirne, internet mobile Turchia, 5G Turchia
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/tr.svg
   flag_alt: Bandiera di Turchia
-  title: 'eSIM Turchia 2026: Soluzioni Dati Complete per il Tuo Viaggio'
+  title: 'eSIM Turchia: Soluzioni Dati Complete per il Tuo Viaggio'
   subtitle: Niente costi nascosti | Internet senza preoccupazioni | Supporto 24/7 - la migliore eSIM per Turchia
 features:
   title: 'Perché i viaggiatori scelgono Roami per Turchia: Copertura, Velocità & Servizio'

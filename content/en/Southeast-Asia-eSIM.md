@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "SE Asia eSIM | Best Travel Plan for 10 Countries"
-  description: "Backpack Southeast Asia with Roami's best prepaid travel eSIM. Unlimited 5G data in Thailand, Vietnam, Malaysia & 7 more. One plan, no border fees."
+  title: SE Asia eSIM | Best Travel Plan for 10 Countries
+  description: Backpack Southeast Asia with Roami's best prepaid travel eSIM. Unlimited 5G data in Thailand, Vietnam, Malaysia
+    & 7 more. One plan, no border fees.
   keywords: Southeast Asia eSIM, buy Southeast Asia eSIM, best Southeast Asia eSIM, Southeast Asia travel eSIM, Singtel Southeast
     Asia, AIS Southeast Asia, Telkomsel Southeast Asia, Bangkok eSIM, Singapore eSIM, Kuala Lumpur eSIM, Southeast Asia prepaid
     eSIM, 5G Southeast Asia eSIM
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/ya.webp
   flag_alt: Southeast Asia Flag
-  title: 'Southeast Asia eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Southeast Asia eSIM: Complete Data Solutions for Your Trip'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Southeast Asia
 features:
   title: 'Why Southeast Asia Travelers Choose Roami: Plans, Network & Support'

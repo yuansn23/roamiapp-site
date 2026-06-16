@@ -43,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/gf.svg
   flag_alt: Bandiera di Guyana francese
-  title: 'eSIM Guyana francese 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Guyana francese: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Guyana francese - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Guyana francese: Velocità, Copertura & Supporto'

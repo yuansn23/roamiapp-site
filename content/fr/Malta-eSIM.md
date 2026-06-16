@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Malte eSIM | Acheter pas cher pour voyager"
-  description: "Vous voulez une eSIM prepayee pour Malte? Roami vous livre le code directement par email, sans frais d'envoi. Couvre tout le pays."
+  title: Malte eSIM | Acheter pas cher pour voyager
+  description: Vous voulez une eSIM prepayee pour Malte? Roami vous livre le code directement par email, sans frais d'envoi.
+    Couvre tout le pays.
   keywords: eSIM Malte, forfait eSIM Malte, meilleure eSIM Malte, Malte data, Epic Malte, GO Malte, Melita Malte, eSIM La
     Valette, eSIM Sliema, eSIM St. Julian's, internet mobile Malte, 5G Malte
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/mt.svg
   flag_alt: Drapeau Malte
-  title: 'eSIM Malte 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Malte: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Malte
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Malte: Réseau, Forfaits & Prix'

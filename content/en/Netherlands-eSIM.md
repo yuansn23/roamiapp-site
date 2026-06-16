@@ -18,8 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Netherlands eSIM | Prepaid Data Plan for Your Trip"
-  description: "Stay connected in the Netherlands with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant QR activation. Covers Amsterdam & all cities."
+  title: Netherlands eSIM | Prepaid Data Plan for Your Trip
+  description: Stay connected in the Netherlands with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide.
+    Instant QR activation. Covers Amsterdam & all cities.
   keywords: Netherlands eSIM, buy Netherlands eSIM, best Netherlands eSIM, Netherlands travel eSIM, KPN Netherlands, Vodafone
     Netherlands, T-Mobile Netherlands, Amsterdam eSIM, Rotterdam eSIM, The Hague eSIM, Netherlands prepaid eSIM, 5G Netherlands
     eSIM
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/nl.svg
   flag_alt: Netherlands Flag
-  title: 'Netherlands eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Netherlands eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Best prepaid eSIM for Netherlands travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Netherlands Travelers Choose Roami: Speed, Coverage & Support'

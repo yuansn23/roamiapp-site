@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Russland eSIM | Prepaid Datenvolumen für den Urlaub"
-  description: "Roami in Russland ist ohne Vertrag. Kein Abo, keine Überraschungen. Sie zahlen nur für Ihre Reisezeit. Deckt alle Regionen ab."
+  title: Russland eSIM | Prepaid Datenvolumen für den Urlaub
+  description: Roami in Russland ist ohne Vertrag. Kein Abo, keine Überraschungen. Sie zahlen nur für Ihre Reisezeit. Deckt
+    alle Regionen ab.
   keywords: Russland eSIM, Russland Reise eSIM, beste eSIM Russland, Russland Datentarif, MTS Russland, Beeline Russland,
     MegaFon Russland, Moskau eSIM, Sankt Petersburg eSIM, Nowosibirsk eSIM, Russland mobiles Internet, 5G Russland
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ru.svg
   flag_alt: Flagge von Russland
-  title: 'Russland eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Russland eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Russland
 features:
   title: 'Warum Reisende Roami fuer Russland waehlen: Netzwerk, Tarife & Preiswert'

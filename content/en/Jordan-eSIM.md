@@ -44,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/jo.svg
   flag_alt: Jordan Flag
-  title: 'Jordan eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Jordan eSIM: Complete Data Solutions for Your Trip'
   subtitle: Best prepaid eSIM for Jordan travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Jordan Travelers Choose Roami: Speed, Coverage & Support'

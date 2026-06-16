@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Barbade eSIM | Voyager pas cher, données illimitées"
-  description: "Voyagez a Barbade sans souci avec Roami. Notre eSIM vous suit partout pour un vacances en toute serenite. Couvre tout le pays."
+  title: Barbade eSIM | Voyager pas cher, données illimitées
+  description: Voyagez a Barbade sans souci avec Roami. Notre eSIM vous suit partout pour un vacances en toute serenite. Couvre
+    tout le pays.
   keywords: eSIM Barbade, forfait eSIM Barbade, meilleure eSIM Barbade, Barbade data, Flow Barbade, Digicel Barbade, CaraLink
     Barbade, eSIM Bridgetown, eSIM Speightstown, eSIM Oistins, internet mobile Barbade, 5G Barbade
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/bb.svg
   flag_alt: Drapeau Barbade
-  title: 'eSIM Barbade 2026: Réseau Fiable pour les Voyageurs'
+  title: 'eSIM Barbade: Réseau Fiable pour les Voyageurs'
   subtitle: Activation instantanée | 5G rapide | Support 24/7 - la meilleure eSIM prépayée pour Barbade
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Barbade: Réseau, Forfaits & Prix'

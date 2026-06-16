@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Dominican Rep eSIM | Fast & Reliable Prepaid Data Plan"
-  description: "Travel to Dominican Republic with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Punta Cana, Santo Domingo & Puerto Plata."
+  title: Dominican Rep eSIM | Fast & Reliable Prepaid Data Plan
+  description: Travel to Dominican Republic with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Punta
+    Cana, Santo Domingo & Puerto Plata.
   keywords: Dominican Republic eSIM, buy Dominican Republic eSIM, best Dominican Republic eSIM, Dominican Republic travel
     eSIM, Claro Dominican Republic, Altice Dominican Republic, Viva Dominican Republic, Santo Domingo eSIM, Punta Cana eSIM,
     Santiago eSIM, Dominican Republic prepaid eSIM, 5G Dominican Republic eSIM
@@ -45,7 +46,7 @@ banner:
 hero:
   flag_image: img/flags/do.svg
   flag_alt: Dominican Republic Flag
-  title: 'Dominican Republic eSIM 2026: Complete Data Solutions for Your Trip'
+  title: 'Dominican Republic eSIM: Complete Data Solutions for Your Trip'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Dominican Republic
 features:
   title: 'Why Dominican Republic Travelers Choose Roami: Network, Plans & Value'

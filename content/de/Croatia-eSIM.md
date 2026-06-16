@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Kroatien eSIM | Günstigste Prepaid Reise eSIM"
-  description: "Bleiben Sie in Kroatien mit unbegrenzten Daten von Roami verbunden. Surfen, teilen, streamen ohne Limit. Deckt alle Regionen ab."
+  title: Kroatien eSIM | Günstigste Prepaid Reise eSIM
+  description: Bleiben Sie in Kroatien mit unbegrenzten Daten von Roami verbunden. Surfen, teilen, streamen ohne Limit. Deckt
+    alle Regionen ab.
   keywords: Kroatien eSIM, Kroatien Reise eSIM, beste eSIM Kroatien, Kroatien Datentarif, T-Mobile Kroatien, A1 Kroatien,
     Telemach Kroatien, Zagreb eSIM, Split eSIM, Dubrovnik eSIM, Kroatien mobiles Internet, 5G Kroatien
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/hr.svg
   flag_alt: Flagge von Kroatien
-  title: 'Kroatien eSIM 2026: Schnelles 5G für jedes Reiseziel'
+  title: 'Kroatien eSIM: Schnelles 5G für jedes Reiseziel'
   subtitle: Beste Prepaid-eSIM für Kroatien - schnelles 5G, sofortige Aktivierung, 24/7 Support
 features:
   title: 'Warum Reisende Roami fuer Kroatien waehlen: Geschwindigkeit, Abdeckung & Support'

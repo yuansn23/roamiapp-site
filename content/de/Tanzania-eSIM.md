@@ -19,8 +19,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     dem Code: web20'
 seo:
-  title: "Tansania eSIM | Beste Prepaid eSIM für die Reise"
-  description: "Roami für Tansania: schnelle Installation und sofortige Aktivierung. Kein Suchen nach einem Shop vor Ort. Deckt alle Regionen ab."
+  title: Tansania eSIM | Beste Prepaid eSIM für die Reise
+  description: 'Roami für Tansania: schnelle Installation und sofortige Aktivierung. Kein Suchen nach einem Shop vor Ort.
+    Deckt alle Regionen ab.'
   keywords: Tanzania eSIM, Tanzania Reise eSIM, beste eSIM Tanzania, Tanzania Datentarif, Vodacom Tanzania, Airtel Tanzania,
     Tigo Tanzania, Daressalam eSIM, Mwanza eSIM, Arusha eSIM, Tanzania mobiles Internet, 5G Tanzania
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/tz.svg
   flag_alt: Flagge von Tanzania
-  title: 'Tanzania eSIM 2026: Überall verbunden bleiben'
+  title: 'Tanzania eSIM: Überall verbunden bleiben'
   subtitle: Schnelles 5G | QR-Code in 5 Minuten | 24/7 Support - die beste Prepaid-eSIM für Tanzania
 features:
   title: 'Warum Reisende Roami fuer Tanzania waehlen: Tarife, Netzwerk & Support'

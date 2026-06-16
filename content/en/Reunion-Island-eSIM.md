@@ -45,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/re.svg
   flag_alt: Reunion Island Flag
-  title: 'Reunion Island eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Reunion Island eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Reunion Island
 features:
   title: 'Why Reunion Island Travelers Choose Roami: Plans, Network & Support'

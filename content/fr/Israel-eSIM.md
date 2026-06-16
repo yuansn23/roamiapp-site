@@ -18,7 +18,7 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "eSIM Israël dès 1,99 € : 5G sans frais d'itinérance"
+  title: 'eSIM Israël dès 1,99 € : 5G sans frais d''itinérance'
   description: Comparez les forfaits eSIM Israël avec la 5G à Tel-Aviv, Jérusalem, Haïfa. Guide de couverture Cellcom & Partner
     & Pelephone. Activation QR instantanee des $1.99.
   keywords: eSIM Israël, forfait eSIM Israël, meilleure eSIM Israël, Israël data, Cellcom Israël, Partner Israël, Pelephone
@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/il.svg
   flag_alt: Drapeau Israël
-  title: 'eSIM Israël 2026: Restez Connecté Partout'
+  title: 'eSIM Israël: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Israël
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Israël: Forfaits, Réseau & Support'

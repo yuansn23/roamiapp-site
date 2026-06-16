@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/ad.svg
   flag_alt: Bandiera di Andorra
-  title: 'eSIM Andorra 2026: Rimani Connesso Ovunque'
+  title: 'eSIM Andorra: Rimani Connesso Ovunque'
   subtitle: 5G veloce | QR code in 5 min | Supporto 24/7 - la migliore eSIM prepagata per Andorra
 features:
   title: 'Perché i viaggiatori scelgono Roami per Andorra: Piani, Rete & Supporto'

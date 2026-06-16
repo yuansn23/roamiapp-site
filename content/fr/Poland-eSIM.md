@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Pologne eSIM | Pas cher & sans engagement"
-  description: "Partez a Pologne sans contrainte. Roami ne vous enferme dans aucun abonnement. Vous decidez de tout. Couvre tout le pays."
+  title: Pologne eSIM | Pas cher & sans engagement
+  description: Partez a Pologne sans contrainte. Roami ne vous enferme dans aucun abonnement. Vous decidez de tout. Couvre
+    tout le pays.
   keywords:
   - eSIM Pologne
   - forfait eSIM Pologne
@@ -52,7 +53,7 @@ banner:
 hero:
   flag_image: img/flags/pl.svg
   flag_alt: Drapeau Pologne
-  title: 'eSIM Pologne 2026: Solutions Data Complètes pour Votre Voyage'
+  title: 'eSIM Pologne: Solutions Data Complètes pour Votre Voyage'
   subtitle: Pas de frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour Pologne
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Pologne: Couverture, Vitesse & Service'

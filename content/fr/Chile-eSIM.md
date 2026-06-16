@@ -18,8 +18,9 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "Chili eSIM | Activation immédiate au meilleur prix"
-  description: "Preparez votre voyage a Chili avec Roami. Notre eSIM vous accompagne partout pour un voyage sans accroc. Couvre tout le pays."
+  title: Chili eSIM | Activation immédiate au meilleur prix
+  description: Preparez votre voyage a Chili avec Roami. Notre eSIM vous accompagne partout pour un voyage sans accroc. Couvre
+    tout le pays.
   keywords: eSIM Chili, forfait eSIM Chili, meilleure eSIM Chili, Chili data, Entel Chili, Movistar Chili, Claro Chili, eSIM
     Santiago, eSIM Valparaíso, eSIM Concepción, internet mobile Chili, 5G Chili
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/cl.svg
   flag_alt: Drapeau Chili
-  title: 'eSIM Chili 2026: Restez Connecté Partout'
+  title: 'eSIM Chili: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Chili
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Chili: Forfaits, Réseau & Support'

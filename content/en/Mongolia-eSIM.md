@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "Mongolia eSIM | Best Travel eSIM for Your Journey"
-  description: "Need a prepaid travel eSIM for Mongolia? Roami offers unlimited 5G data. Covers Ulaanbaatar, Darkhan & Erdenet. Instant activation Buy your plan online today."
+  title: Mongolia eSIM | Best Travel eSIM for Your Journey
+  description: Need a prepaid travel eSIM for Mongolia? Roami offers unlimited 5G data. Covers Ulaanbaatar, Darkhan & Erdenet.
+    Instant activation Buy your plan online today.
   keywords: Mongolia eSIM, buy Mongolia eSIM, best Mongolia eSIM, Mongolia travel eSIM, Mobicom Mongolia, Unitel Mongolia,
     Skytel Mongolia, Ulaanbaatar eSIM, Erdenet eSIM, Darkhan eSIM, Mongolia prepaid eSIM, 5G Mongolia eSIM
   low_price: 1.99
@@ -44,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/mo.svg
   flag_alt: Mongolia Flag
-  title: 'Mongolia eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'Mongolia eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Mongolia
 features:
   title: 'Why Mongolia Travelers Choose Roami: Plans, Network & Support'

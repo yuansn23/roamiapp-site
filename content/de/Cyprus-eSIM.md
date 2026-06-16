@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Zypern eSIM | Günstigste Prepaid Option für Reisende"
-  description: "Brauchen Sie eine bezahlbare eSIM für Zypern? Roami bietet Top-Qualität zum kleinen Preis. Deckt alle Regionen ab."
+  title: Zypern eSIM | Günstigste Prepaid Option für Reisende
+  description: Brauchen Sie eine bezahlbare eSIM für Zypern? Roami bietet Top-Qualität zum kleinen Preis. Deckt alle Regionen
+    ab.
   keywords: Zypern eSIM, Zypern Reise eSIM, beste eSIM Zypern, Zypern Datentarif, Cytamobile-Vodafone Zypern, PrimeTel Zypern,
     MTN Zypern, Nikosia eSIM, Limassol eSIM, Larnaka eSIM, Zypern mobiles Internet, 5G Zypern
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/cy.svg
   flag_alt: Flagge von Zypern
-  title: 'Zypern eSIM 2026: Zuverlässiges Netz für Reisende'
+  title: 'Zypern eSIM: Zuverlässiges Netz für Reisende'
   subtitle: Sofortige Aktivierung | Top-bewertetes 5G | 24/7 Support - die beste Prepaid-eSIM für Zypern
 features:
   title: 'Warum Reisende Roami fuer Zypern waehlen: Netzwerk, Tarife & Preiswert'

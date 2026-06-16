@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/by.svg
   flag_alt: Flagge von Weißrussland
-  title: 'Weißrussland eSIM 2026: Komplette Datenlösungen für Ihre Reise'
+  title: 'Weißrussland eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Weißrussland
 features:
   title: 'Warum Reisende Roami fuer Weißrussland waehlen: Abdeckung, Geschwindigkeit & Service'

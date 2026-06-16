@@ -1,5 +1,5 @@
 ---
-title: 美國 eSIM 方案 | 美國 eSIM | Roami
+title: '美國 eSIM 2026: 連線與速度 | Roami'
 date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
@@ -13,14 +13,13 @@ country_meta:
 modal:
   title: 服務更新！
   btn_text: 繼續
-  text_default: |-
-    我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
-  text_android: |-
-    我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
+  text_default: 我們的 eSIM 服務已升級至 <strong>PhoneSIMGo</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
+  text_android: 我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
   title: "美國eSIM｜5G高速吃到飽，出國推薦首選"
   description: "美國旅遊上網就選Roami eSIM 5G預付卡，高速吃到飽方案深受旅客好評推薦。網路穩定速度快，無論查地圖打卡分享都不卡頓，免綁約最低$1.99起，即買即用旅程更順暢。"
-  keywords: 美國eSIM, 美國旅遊, 美國網路覆蓋, 紐約觀光, 洛杉磯景點, 美國行動數據
+  keywords: 美國 eSIM, 美國 eSIM方案, 最佳美國 eSIM, 美國上網, AT&T 美國, Verizon 美國, T-Mobile 美國, 紐約 eSIM, 洛杉磯 eSIM, 芝加哥 eSIM, 美國行動網路, 5G
+    美國
 order_summary:
   title: 選擇 美國 eSIM
   label_data: 數據量
@@ -40,36 +39,36 @@ banner:
 hero:
   flag_image: img/flags/us.svg
   flag_alt: 美國 國旗
-  title: 美國 eSIM - 旅行計劃
-  subtitle: 美國 eSIM | 即時交付 | 100%退款保證 | 無隱藏費用
+  title: '美國 eSIM: 旅客信賴的穩定網路'
+  subtitle: 即時啟用 | 5G高速上網 | 24/7客服 - 美國最佳預付eSIM
 features:
-  title: 為什麼 Roami 的 美國 eSIM 比競爭對手更好？
+  title: 為什麼旅客選擇Roami的美國 eSIM：網路、方案與價格
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
     title: 即時 QR 碼
-    desc: 5 分鐘內交付
+    desc: 5分鐘內透過Email收到您的美國 eSIM QR碼
   - icon: headset
     color: from-emerald-400 to-emerald-600
     title: 24/7 支援
-    desc: 隨時在線
+    desc: 為您的美國之旅提供24/7客服 - 真人服務，非機器人
   - icon: shield-check
     color: from-amber-400 to-amber-600
     title: 保證
-    desc: 買家保障
+    desc: 若美國 eSIM無法啟用，100%全額退款
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: 熱點分享
-    desc: 與他人分享數據
+    desc: 與旅伴分享您的美國數據，無限制
   - icon: file-x
     color: from-rose-400 to-rose-600
     title: 無合約
-    desc: 隨時取消
+    desc: 無合約，隨時取消 - 美國旅行完美選擇
   - icon: radio-tower
     color: from-blue-400 to-blue-600
     title: 自動選擇
-    desc: 最佳本地網路
-plans_title: 為您的旅程選擇理想的 美國 eSIM
+    desc: 自動連線美國最佳電信商，取得最強訊號
+plans_title: 購買美國 eSIM：適合各種旅程的方案
 plans_data:
   7 天:
   - spec: 1GB
@@ -281,12 +280,12 @@ plans_data:
     daily: '1.33'
 discount_banner:
   title: 美國 eSIM 特別折扣！
-  desc_html: |-
-    結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 美國 eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
+  desc_html: 結帳時使用代碼 <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> 即可享受 美國
+    eSIM <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% 折扣</span>！
   btn_text: 儲存折扣
   validity: 有效期：3 天
 network_coverage:
-  title: 網路覆蓋詳情
+  title: 美國 eSIM覆蓋範圍：覆蓋範圍與電信商比較
   supports_text: 支援：
   service_details:
     title: 服務詳情
@@ -294,7 +293,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: 覆蓋範圍
-      desc: 在整個美國享受廣泛的網路覆蓋，包括紐約、洛杉磯、芝加哥、休士頓等城市。我們的eSIM無縫連接到AT&T、Verizon、T-Mobile的網路。
+      desc: 享受覆蓋全美國的全面網路，包括紐約, 洛杉磯, 芝加哥, 拉斯維加斯。您的eSIM會自動連線至AT&T, Verizon, T-Mobile的強大網路，在市區、旅遊熱點和主要交通路線提供穩定訊號。
     - icon: zap
       color: text-amber-500
       title: 交付時間
@@ -304,21 +303,21 @@ network_coverage:
       title: 熱點分享
       desc: 熱點分享無限制。
   carriers:
-    title: 行動網路
+    title: AT&T, Verizon & T-Mobile：美國 eSIM電信商
     badge: 官方合作夥伴
     items:
     - name: AT&T
-      coverage: 低延遲
+      coverage: 最佳整體覆蓋
       network: 5G/4G/LTE 網路
     - name: T-Mobile
-      coverage: 自有 IP
+      coverage: 城市高速5G
       network: 5G/4G/LTE 網路
 reminders:
-  title: 美國 eSIM：重要提醒
+  title: 美國 eSIM秘訣：出發前須知
   items:
   - icon: 📱
-    html: |-
-      購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM 相容性</a>。
+    html: 購買前請檢查您的手機 <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
+      transition-colors">eSIM 相容性</a>。
   - icon: ✈️
     html: 建議抵達 美國 後再啟用 eSIM。
   - icon: ⏰
@@ -332,29 +331,22 @@ reminders:
     desc: 不確定嗎？立即在您的手機上檢查：
     instruction: 在鍵盤上撥打：
     code: '*#06#'
-    result_html: |-
-      如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 號碼，則表示支援 eSIM！
-    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n    \
-      \    <p class=\"text-sm font-semibold mb-2\">\U0001F4DA 實用指南：</p>\n        <ul\
-      \ class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"\
-      /faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-brand-600\
-      \ hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
-      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n    \
-      \        <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\" class=\"\
-      text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n           \
-      \ <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\" class=\"\
-      text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n \
-      \           <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\" class=\"\
-      text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a\
-      \ href=\"/faq/what-is-esim-activation-and-how-does-it-work/\" class=\"text-brand-600\
-      \ hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
+    result_html: 如果顯示 <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
+      號碼，則表示支援 eSIM！
+    useful_links: "\n    <div class=\"mt-4 pt-3 border-t border-gray-200\">\n        <p class=\"text-sm font-semibold mb-2\"\
+      >\U0001F4DA 實用指南：</p>\n        <ul class=\"text-sm space-y-1 list-disc list-inside\">\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 17 啟用 eSIM</a></li>\n            <li><a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\"\
+      \ class=\"text-brand-600 hover:underline\">iPhone 16 啟用 eSIM</a></li>\n            <li><a href=\"/faq/dual-esim-not-working-12-fixes-for-iphone/\"\
+      \ class=\"text-brand-600 hover:underline\">雙 eSIM 無法運作？12 個解決方案</a></li>\n            <li><a href=\"/faq/how-to-transfer-esim-between-iphone-and-android/\"\
+      \ class=\"text-brand-600 hover:underline\">如何在 iPhone 與 Android 之間轉移 eSIM</a></li>\n            <li><a href=\"/faq/esim-deep-troubleshooting-guide-2026/\"\
+      \ class=\"text-brand-600 hover:underline\">eSIM 深度故障排除指南</a></li>\n            <li><a href=\"/faq/what-is-esim-activation-and-how-does-it-work/\"\
+      \ class=\"text-brand-600 hover:underline\">eSIM 啟用原理</a></li>\n        </ul>\n    </div>\n    "
 activation_steps:
-  title: 如何在幾分鐘內啟用 美國 eSIM
+  title: 美國 eSIM啟用：3個簡單步驟
   steps:
   - num: '1'
     title: 獲取並保存 QR 碼 – 為 美國 做好準備
-    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30
-      天，您可以從容地為前往 美國 的旅行做好準備。
+    desc: 下單後您會立即收到包含個人 QR 碼和說明的電子郵件。將 QR 碼儲存在手機中或列印出來 – 後續安裝不需要網路連線。eSIM 有效期為 30 天，您可以從容地為前往 美國 的旅行做好準備。
     is_list: false
   - num: '2'
     title: 在設備上安裝 eSIM – 掃描 QR 碼
@@ -368,30 +360,26 @@ activation_steps:
     - 現在 eSIM 已安裝完成，但 **尚未啟用** – 非常適合旅行前的準備
   - num: '3'
     title: 在家中準備 – 無風險測試
-    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 美國 時，只需開啟 eSIM
-      – 有效期將在首次連接到 AT&T / Verizon 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
+    desc: 安裝後，您可以在設定中保持 eSIM 關閉。但您可以透過家中的 Wi-Fi 進行測試（不會消耗行動數據）。當您抵達 美國 時，只需開啟 eSIM – 有效期將在首次連接到 AT&T / Verizon 的網路時自動開始。無需隱藏的啟用費用，也無漫遊費。
     is_list: false
   - num: '4'
     title: 抵達 美國：立即連上 5G/4G 網路
-    desc: 當您降落在 美國（例如 甘迺迪國際機場（JFK）、洛杉磯國際機場（LAX）、芝加哥奧黑爾國際機場（ORD））時，關閉飛航模式（或保持在飛航模式僅啟用
-      eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 美國。幾秒鐘內，您的設備將自動連接到 AT&T / Verizon 提供的最快可用
-      5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
+    desc: 當您降落在 美國（例如 甘迺迪國際機場（JFK）、洛杉磯國際機場（LAX）、芝加哥奧黑爾國際機場（ORD））時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM
+      美國。幾秒鐘內，您的設備將自動連接到 AT&T / Verizon 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 美國 eSIM：完整指南和常見問題
-  desc: 使用 美國 eSIM 在 美國 的交通、飯店、景點和緊急聯絡的所有細節。
+  title: 美國 eSIM指南 2026：旅遊與數據指南
+  desc: 從紐約到洛杉磯，使用AT&T, Verizon, T-Mobile保持連線。我們的完整美國 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
     title: 關於 美國 eSIM 的常見問題
     questions:
-    - q: 在紐約曼哈頓中城使用T-Mobile網路，觀看YouTube影片會卡頓嗎？
-      a: 在紐約曼哈頓中城，例如時代廣場附近，T-Mobile的5G網路覆蓋非常密集，平均下載速度通常在40-60 Mbps，足以流暢觀看1080p或4K的YouTube影片。不過，在尖峰時段（如下午6點至8點）遊客大量聚集時，速度可能會降至15-25
-        Mbps，但仍可應付高清串流。如果您在摩天大樓密集的金融區，部分街道可能因信號反射而略有延遲，但整體體驗良好。建議避開地鐵站內使用，因為地下部分區域可能無服務。
-    - q: 在洛杉磯好萊塢地區使用AT&T網路，社交媒體上傳照片速度快嗎？
-      a: 在好萊塢大道及周邊區域，AT&T的4G LTE和5G網路表現穩定，上傳照片到Instagram或Facebook通常只需幾秒鐘。根據當地用戶回饋，上傳速度普遍在10-20
-        Mbps，足以應付高解析度圖片。但在大型活動期間（如奧斯卡頒獎季），好萊塢地區可能出現網路擁塞，上傳時間可能延長至10-15秒。此外，若您進入中國戲院等室內場所，信號強度可能下降，但仍能完成上傳。建議避免在派對巴士等移動環境中上傳大量檔案。
+    - q: AT&T還是Verizon在美國更好？
+      a: AT&T和Verizon在美國都提供出色的覆蓋範圍。AT&T在偏遠地區的覆蓋通常更好，而Verizon在城市中提供競爭力的5G速度。對於大多數前往美國的旅客來說，兩個網路都能良好運作。
+    - q: 美國 eSIM在紐約和洛杉磯能正常使用嗎？
+      a: 是的，美國 eSIM在紐約、洛杉磯和其他主要城市提供出色的覆蓋。主要電信商在所有城市中心、旅遊景點和主要交通路線沿線提供強大的5G/4G網路。
     - q: 在奧蘭多迪士尼世界使用Verizon網路，能順暢使用迪士尼官方App嗎？
       a: 在奧蘭多迪士尼世界（魔術王國、未來世界等園區），Verizon的網路覆蓋良好，下載速度平均30-50 Mbps，可順利載入迪士尼App的等待時間、地圖及訂位功能。不過，在週末或節假日，園區內遊客數可能超過10萬人，此時網路可能變得緩慢，App的即時排隊更新可能延遲1-2分鐘。建議提前下載園區地圖離線使用，並在非尖峰時段（如上午9點前）完成快速通行證預約。部分室內遊樂設施內部（如「太空山」）可能沒有信號。
     - q: 在拉斯維加斯大道上的飯店內，使用T-Mobile網路進行視訊通話清晰嗎？
@@ -399,8 +387,7 @@ faq_section:
     - q: 在芝加哥搭乘CTA地鐵時，AT&T網路的穩定性如何？能否連續聽音樂？
       a: 在芝加哥CTA地鐵（如紅線或藍線）行駛於地下區段時，AT&T的網路覆蓋相對有限，部分隧道如「芝加哥大迴圈」段可能沒有信號，導致音樂串流中斷。但在高架路段（如湖景區），4G信號穩定，可連續播放Spotify。根據使用者經驗，地鐵內的網路連線會頻繁切換基地台，可能造成短暫停頓（約3-5秒）。建議提前下載播放清單離線收聽，或選擇使用地面巴士作為替代交通工具，其網路體驗更為流暢。
     - q: 在舊金山金門大橋附近，使用Verizon網路查詢導航會不會延遲？
-      a: 金門大橋及周邊區域（如普雷西迪奧國家公園）的Verizon網路覆蓋良好，4G LTE速度約20-40 Mbps，Google Maps或Apple
-        Maps的導航更新幾乎即時。不過，在金門大橋人行道上靠近橋塔的位置，由於金屬結構的遮擋，信號可能暫時減弱，導致導航語音延遲1-2秒。建議提前規劃路線並下載離線地圖，尤其是在騎自行車過橋時，避免因信號不穩而錯過轉彎。整體而言，舊金山的網路基礎設施能滿足日常導航需求。
+      a: 金門大橋及周邊區域（如普雷西迪奧國家公園）的Verizon網路覆蓋良好，4G LTE速度約20-40 Mbps，Google Maps或Apple Maps的導航更新幾乎即時。不過，在金門大橋人行道上靠近橋塔的位置，由於金屬結構的遮擋，信號可能暫時減弱，導致導航語音延遲1-2秒。建議提前規劃路線並下載離線地圖，尤其是在騎自行車過橋時，避免因信號不穩而錯過轉彎。整體而言，舊金山的網路基礎設施能滿足日常導航需求。
     - q: 在華盛頓特區國家廣場參觀時，使用AT&T網路分享Instagram即時故事是否順暢？
       a: 國家廣場（從林肯紀念堂到國會大廈的開闊區域）的AT&T網路表現出色，上傳速度約15-30 Mbps，足以即時發布1080p的Instagram故事。但在大型活動（如國家櫻花節或獨立日慶典）期間，數十萬人同時使用網路可能導致上傳延遲，故事可能需要5-10秒才能發布成功。建議避開人潮集中的紀念碑附近，改到廣場邊緣的樹蔭區操作，那裡信號相對穩定。另外，華盛頓特區的免費公共Wi-Fi（如「DC
         Wi-Fi」）也可作為備用方案。
@@ -411,8 +398,8 @@ faq_section:
     tab_title: 機場
     title: 美國 機場：如何使用 美國 eSIM
     questions:
-    - q: 在紐約JFK機場入境後，如何立即啟用購買的eSIM？
-      a: 抵達JFK機場第四航廈後，連接到機場免費Wi-Fi（「JFK Free Wi-Fi」），然後掃描eSIM安裝QR碼。通常在5分鐘內完成啟用，並自動連接到AT&T或T-Mobile的網路。若遇到啟動延遲，請重啟手機或手動選擇網路運營商。JFK的入境大廳信號良好，但在地下行李轉盤區可能較弱，建議抵達後先到二樓出發大廳進行設定。
+    - q: 我能在抵達後立即啟用美國 eSIM嗎？
+      a: 可以，您抵達後就能立即啟用美國 eSIM。使用機場免費WiFi，從Email掃描QR碼，2分鐘內即可上線。我們建議在出發前先安裝好eSIM。
     - q: 洛杉磯LAX機場的免費Wi-Fi速度夠快嗎？能否用於下載eSIM設定檔？
       a: LAX機場的免費Wi-Fi速度通常約20 Mbps，足以快速下載eSIM的設定檔（約10 MB）。但該Wi-Fi每2小時需重新驗證，且連接數有限，晚間高峰時段可能較慢。建議在抵達前先將eSIM的QR碼截圖或儲存於手機，以避免因Wi-Fi中斷而無法下載。若Wi-Fi不穩，可到航廈內的星巴克或其他商店尋求付費Wi-Fi。
     - q: 芝加哥ORD機場有哪些電信商專賣店可購買實體SIM卡？
@@ -427,16 +414,15 @@ faq_section:
     tab_title: 交通
     title: 美國 eSIM 用於 美國 的交通和導航
     questions:
-    - q: 在紐約如何使用Uber從甘迺迪機場前往曼哈頓中城？費用約多少？
-      a: 在JFK機場，於第四航廈二樓的Uber指定上車區等待，通常3-5分鐘內有司機接單。前往曼哈頓中城（如時代廣場）的費用約50-70美元（不含小費），車程約40-60分鐘取決於交通。尖峰時段（週一至週五下午4-7點）可能加價至90美元，且行車時間延長。建議使用Uber
-        Pool或Lyft共乘以節省費用，但時間彈性要更大。
+    - q: 我能在美國使用eSIM叫車和導航嗎？
+      a: 可以，美國 eSIM可搭配叫車App和Google地圖使用。5GB/15天方案($4.99)足夠日常導航和叫車使用。
     - q: 在洛杉磯如何從好萊塢前往聖塔莫尼卡海灘？推薦使用地鐵還是Lyft？
       a: 從好萊塢出發，可搭乘地鐵B線（紅線）至第七街/地鐵中心站，轉乘E線（Expo線）直達聖塔莫尼卡市中心，總車程約50分鐘，票價僅1.75美元。Lyft的費用約25-35美元，時間約30分鐘（非尖峰），但尖峰時段可能塞車45分鐘以上。地鐵較經濟且可靠，但需注意E線部分時段班距較長（12-15分鐘）。
     - q: 在芝加哥使用CTA地鐵從奧黑爾機場到市區，需要換線嗎？
       a: 從ORD機場搭乘CTA藍線可直達芝加哥市中心（如戴利廣場），無需換線，車程約45分鐘，費用5美元。藍線24小時營運，但夜間班距延長至15分鐘。若行李較多，建議避開尖峰時段（上午7-9點），以免車廂擁擠。
     - q: 在舊金山使用Cable Car（叮噹車）觀光，如何購票及使用eSIM查詢路線？
-      a: Cable Car的單程票價為8美元，可在起點站（如Powell街與Market街）購買紙本票，或使用MuniMobile App購票（需網路）。在車上使用eSIM查詢Google
-        Maps很方便，但部分路線（如Hyde街）有彎道，建議握緊扶手。Cable Car每站都停，但無語音報站，可利用手機地圖定位。
+      a: Cable Car的單程票價為8美元，可在起點站（如Powell街與Market街）購買紙本票，或使用MuniMobile App購票（需網路）。在車上使用eSIM查詢Google Maps很方便，但部分路線（如Hyde街）有彎道，建議握緊扶手。Cable
+        Car每站都停，但無語音報站，可利用手機地圖定位。
     - q: 在華盛頓特區使用地鐵從國家廣場到喬治城，有什麼需要注意的？
       a: 華盛頓地鐵（WMATA）的藍線或橘線可從國家廣場（史密森尼站）坐到羅斯林站，再步行10分鐘至喬治城，或轉乘DC Circulator公車。地鐵費用約2-4美元，視距離而定。請注意，地鐵內禁止飲食，且尖峰時段車廂擁擠。eSIM在車站內信號良好，但隧道中部分區段無服務。
   - id: faq-hotels
@@ -448,8 +434,7 @@ faq_section:
       a: 時代廣場希爾頓酒店的客房層使用了訊號中繼器，因此T-Mobile和AT&T的訊號普遍良好，下載速度約30-50 Mbps。但電梯內和地下樓層（如健身房或SPA區）可能訊號微弱，建議回到房間使用。酒店內提供的免費Wi-Fi速度約25
         Mbps，可作為備用。
     - q: 在拉斯維加斯威尼斯人度假村，使用eSIM能否在賭場內流暢上網？
-      a: 威尼斯人度假村的賭場區域覆蓋了AT&T和Verizon的5G訊號，但賭場內人潮眾多，尖峰時段速度可能降至10-15 Mbps，可應付簡訊和社交媒體，但視訊串流可能卡頓。酒店的大廳和客房區域訊號較佳，最高可達60
-        Mbps。建議避開週五晚上的賭場人潮。
+      a: 威尼斯人度假村的賭場區域覆蓋了AT&T和Verizon的5G訊號，但賭場內人潮眾多，尖峰時段速度可能降至10-15 Mbps，可應付簡訊和社交媒體，但視訊串流可能卡頓。酒店的大廳和客房區域訊號較佳，最高可達60 Mbps。建議避開週五晚上的賭場人潮。
     - q: 在奧蘭多環球影城度假村內，eSIM的網路是否能支援虛擬排隊系統？
       a: 在環球影城度假村（包括冒險島）內，Verizon的5G網路支援虛擬排隊系統（如「Universal Orlando Resort」App）順暢運行，等待時間更新快。但在哈利波特園區的室內遊樂設施（如逃生古靈閣）內，訊號可能中斷，導致無法預約下一次排隊。建議在進入設施前完成預約。度假村的免費Wi-Fi覆蓋整個園區，速度約15
         Mbps。
@@ -462,30 +447,27 @@ faq_section:
     tab_title: 景點
     title: 美國 旅遊景點的網路：美國 eSIM
     questions:
-    - q: 在紐約自由女神像參觀時，eSIM網路能否讓語音導覽App順暢運作？
-      a: 自由女神像島上的AT&T網路覆蓋良好，語音導覽App（如「Statue Cruises」）的下載速度約15-30 Mbps，音頻播放順暢。但在女神像底座內部，訊號可能較弱，導致導覽中斷。建議事先下載離線語音導覽，避免在排隊時浪費時間。島上免費Wi-Fi僅限於遊客中心附近。
+    - q: 在美國的旅遊景點有網路收訊嗎？
+      a: 美國的主要景點通常有良好的4G/5G覆蓋。偏遠地區訊號可能較弱。建議前往偏遠目的地前先下載離線地圖。
     - q: 在洛杉磯好萊塢星光大道上，使用eSIM上傳自拍照到社交媒體速度如何？
       a: 星光大道上T-Mobile的5G網路讓您上傳自拍照到Instagram只需1-2秒，非常快速。但在週末或節日（如好萊塢聖誕遊行）時，人潮密集可能導致上傳時間延長至5-10秒。建議避開下午2-4點的尖峰時段。星光大道上的中國戲院提供免費Wi-Fi，但需觀看廣告。
     - q: 在芝加哥千禧公園的雲門（大豆子）旁，使用Google Maps查詢附近餐廳是否順暢？
-      a: 千禧公園的雲門廣場上，AT&T的4G LTE速度約20-35 Mbps，Google Maps的載入及路線規劃幾乎即時。但在夏季音樂節期間，公園內大量人群可能導致速度降至10
-        Mbps以下，但仍可完成基本查詢。公園內的餐車付款需注意網路連線，建議準備現金。
+      a: 千禧公園的雲門廣場上，AT&T的4G LTE速度約20-35 Mbps，Google Maps的載入及路線規劃幾乎即時。但在夏季音樂節期間，公園內大量人群可能導致速度降至10 Mbps以下，但仍可完成基本查詢。公園內的餐車付款需注意網路連線，建議準備現金。
     - q: 在舊金山金門大橋上騎自行車時，使用eSIM播放串流音樂會斷續嗎？
       a: 金門大橋上的人行道區域，Verizon的網路訊號因橋樑金屬結構而可能不穩，音樂串流偶爾會中斷3-5秒。建議在騎行前下載播放清單，或使用離線音樂。橋上的風聲可能影響藍牙耳機，但手機網路本身仍可用於緊急通話。
     - q: 在華盛頓特區國家廣場的林肯紀念堂前，使用eSIM直播紀念活動是否可行？
-      a: 林肯紀念堂前的廣場為開放空間，T-Mobile的5G網路可支援1080p直播，延遲約2-3秒。但若同時有數千人直播（如國家櫻花節），速度可能下降，建議使用Verizon網路以提高穩定性。直播前可先測試上行速率，確保在20
-        Mbps以上。
+      a: 林肯紀念堂前的廣場為開放空間，T-Mobile的5G網路可支援1080p直播，延遲約2-3秒。但若同時有數千人直播（如國家櫻花節），速度可能下降，建議使用Verizon網路以提高穩定性。直播前可先測試上行速率，確保在20 Mbps以上。
   - id: faq-social
     icon: smartphone
     tab_title: 社交媒體
     title: 透過 美國 eSIM 在 美國 使用通訊軟體和社群網站
     questions:
-    - q: 在紐約如何使用交友軟體Tinder在布魯克林大橋附近配對？
-      a: 布魯克林大橋步行道上，AT&T的4G網路速度約25 Mbps，可流暢載入Tinder的配對功能。但橋上人潮眾多時，GPS定位可能漂移，導致配對距離不準。建議在橋塔附近暫停，訊號較穩定。另外，避免在橋中央使用視訊通話，以免風噪影響。
+    - q: 去美國旅行需要多少數據量？
+      a: 輕度使用者(地圖+訊息)約300MB/天，中度(社群+照片)約700MB/天，重度(串流+視訊)選擇無限方案。大多數旅客在美國標準行程中選擇5GB/15天已足夠。
     - q: 在洛杉磯比佛利山莊，能否使用Snapchat發送帶有地理濾鏡的照片？
       a: 比佛利山莊的羅迪歐大道上，T-Mobile的5G網路讓您快速載入Snapchat的地理濾鏡，下載時間約1秒。照片發送幾乎即時。但部分高級精品店內手機訊號可能因建築屏蔽而變弱，建議在店外操作。
     - q: 在芝加哥使用Facebook直播芝加哥天際線（從威利斯大廈觀景台），效果如何？
-      a: 威利斯大廈觀景台（Skydeck）的AT&T網路支援720p直播，但觀景台因玻璃圍幕導致訊號衰減，直播可能出現畫質下降。建議靠近窗戶邊緣或使用Verizon網路。觀景台提供免費Wi-Fi，但速度僅10
-        Mbps，可能不適合直播。
+      a: 威利斯大廈觀景台（Skydeck）的AT&T網路支援720p直播，但觀景台因玻璃圍幕導致訊號衰減，直播可能出現畫質下降。建議靠近窗戶邊緣或使用Verizon網路。觀景台提供免費Wi-Fi，但速度僅10 Mbps，可能不適合直播。
     - q: 在舊金山使用Instagram限時動態標記「惡魔島」地點時，位置資訊準確嗎？
       a: 從漁人碼頭遠眺惡魔島時，手機的GPS定位通常準確，但若在惡魔島本島上，因島上訊號不佳，位置標記可能延遲。惡魔島內部結構（如監獄區）完全無服務，僅在戶外區域可正常使用。建議提前標記位置，或使用離線發布功能。
     - q: 在拉斯維加斯使用微信與家人視訊，在百樂宮飯店噴泉前連線品質如何？
@@ -497,9 +479,8 @@ faq_section:
     questions:
     - q: 在美國如何撥打緊急電話911？使用eSIM手機是否順暢？
       a: 直接撥打911即可，即使手機無SIM卡或無餘額，美國法律規定所有手機（包含eSIM手機）仍可撥打911。接線員會詢問您的地址或情況，並派遣警察、消防或救護。使用eSIM時，GPS定位可能提供給調度中心，因此請保持通話直到獲得指示。
-    - q: 在紐約遇到醫療緊急情況，如何最快找到最近的醫院？
-      a: 您可使用手機中的Google Maps搜尋「emergency room near me」，或撥打911請求救護車。紐約市有許多醫院，如曼哈頓的Mount
-        Sinai醫院（第五大道）或紐約長老會醫院（上東區）。若情況不危急，可使用Uber或Lyft直接前往急診室，但需確保手機有電。建議事先記錄飯店附近的醫院地址。
+    - q: 我能在美國 eSIM上使用WhatsApp、FaceTime和微信嗎？
+      a: 可以！美國 eSIM支援WhatsApp音訊/視訊通話、FaceTime、微信和Zoom，無限制。透過您喜愛的應用程式與家人保持聯繫。
     - q: 在洛杉磯如果車子拋錨在高速公路旁，該如何求助？
       a: 在高速公路旁，先開啟雙黃燈並在車後150公尺放置三角警示牌。然後撥打911，或使用手機下載的「AAA」App（若為會員）請求道路救援。若您非會員，可致電當地拖車服務，費用約100-200美元。請維持在車內繫安全帶，直到救援到達。
     - q: 在舊金山遇見地震時，最佳的避難方法和通訊作為？

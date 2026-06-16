@@ -19,8 +19,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "South Africa eSIM | Prepaid Data Plan for Your Trip"
-  description: "Travel to South Africa with the best prepaid travel eSIM from Roami. Unlimited 5G data on top networks. Instant activation. Covers Cape Town & Johannesburg."
+  title: South Africa eSIM | Prepaid Data Plan for Your Trip
+  description: Travel to South Africa with the best prepaid travel eSIM from Roami. Unlimited 5G data on top networks. Instant
+    activation. Covers Cape Town & Johannesburg.
   keywords: South Africa eSIM, buy South Africa eSIM, best South Africa eSIM, South Africa travel eSIM, Vodacom South Africa,
     MTN South Africa, Cell C South Africa, Johannesburg eSIM, Cape Town eSIM, Durban eSIM, South Africa prepaid eSIM, 5G South
     Africa eSIM
@@ -45,7 +46,7 @@ banner:
 hero:
   flag_image: img/flags/za.svg
   flag_alt: South Africa Flag
-  title: 'South Africa eSIM 2026: Fast 5G Data for Every City & Destination'
+  title: 'South Africa eSIM: Fast 5G Data for Every City & Destination'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for South Africa
 features:
   title: 'Why South Africa Travelers Choose Roami: Network, Plans & Value'

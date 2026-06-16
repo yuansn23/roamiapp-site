@@ -18,7 +18,7 @@ modal:
   text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
     20% de réduction avec le code : web20'
 seo:
-  title: "eSIM Îles Féroé dès 1,99 € : 5G sans frais d'itinérance"
+  title: 'eSIM Îles Féroé dès 1,99 € : 5G sans frais d''itinérance'
   description: Comparez les forfaits eSIM Îles Féroé avec la 5G à Tórshavn, Klaksvík, Runavík. Guide de couverture Faroese
     Telecom & Vodafone & P/F Kall. Activation QR instantanee des $1.99.
   keywords: eSIM Îles Féroé, forfait eSIM Îles Féroé, meilleure eSIM Îles Féroé, Îles Féroé data, Faroese Telecom Îles Féroé,
@@ -43,7 +43,7 @@ banner:
 hero:
   flag_image: img/flags/fo.svg
   flag_alt: Drapeau Îles Féroé
-  title: 'eSIM Îles Féroé 2026: 5G Rapide pour Chaque Destination'
+  title: 'eSIM Îles Féroé: 5G Rapide pour Chaque Destination'
   subtitle: Meilleure eSIM prépayée pour Îles Féroé - 5G rapide, activation instantanée, support 24/7
 features:
   title: 'Pourquoi les voyageurs choisissent Roami pour Îles Féroé: Vitesse, Couverture & Support'

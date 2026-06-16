@@ -18,8 +18,9 @@ modal:
   text_android: 'Unser eSIM-Service wurde auf <strong>PhoneSIM</strong> aktualisiert.<br>Neukunden erhalten 20% Rabatt mit
     Code: web20'
 seo:
-  title: "Grenada eSIM | Unbegrenztes Datenvolumen zum Bestpreis"
-  description: "Die Roami eSIM für Grenada bietet unbegrenztes Datenvolumen. Ideal für Reisende, die immer online sein wollen. Deckt alle Regionen ab."
+  title: Grenada eSIM | Unbegrenztes Datenvolumen zum Bestpreis
+  description: Die Roami eSIM für Grenada bietet unbegrenztes Datenvolumen. Ideal für Reisende, die immer online sein wollen.
+    Deckt alle Regionen ab.
   keywords:
   - Grenada eSIM
   - Grenada Reise eSIM
@@ -52,7 +53,7 @@ banner:
 hero:
   flag_image: img/flags/gd.svg
   flag_alt: Flagge von Grenada
-  title: 'Grenada eSIM 2026: Komplette Datenlösungen für Ihre Reise'
+  title: 'Grenada eSIM: Komplette Datenlösungen für Ihre Reise'
   subtitle: Keine versteckten Gebühren | Sorgenfreies Internet | 24/7 Support - die beste Prepaid-eSIM für Grenada
 features:
   title: 'Warum Reisende Roami fuer Grenada waehlen: Abdeckung, Geschwindigkeit & Service'

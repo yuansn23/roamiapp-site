@@ -18,8 +18,9 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: "Ghana eSIM | Compra al miglior prezzo online"
-  description: "Goditi il 5G veloce in Ghana con Roami. Mappe, streaming, social network, tutto funziona senza problemi. Copre tutte le regioni."
+  title: Ghana eSIM | Compra al miglior prezzo online
+  description: Goditi il 5G veloce in Ghana con Roami. Mappe, streaming, social network, tutto funziona senza problemi. Copre
+    tutte le regioni.
   keywords: eSIM Ghana, piano eSIM Ghana, migliore eSIM Ghana, Ghana dati, MTN Ghana Ghana, Vodafone Ghana Ghana, AirtelTigo
     Ghana, eSIM Accra, eSIM Kumasi, eSIM Sekondi-Takoradi, internet mobile Ghana, 5G Ghana
 order_summary:
@@ -41,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/gh.svg
   flag_alt: Bandiera di Ghana
-  title: 'eSIM Ghana 2026: 5G Veloce per Ogni Destinazione'
+  title: 'eSIM Ghana: 5G Veloce per Ogni Destinazione'
   subtitle: Migliore eSIM prepagata per Ghana - 5G veloce, attivazione immediata, supporto 24/7
 features:
   title: 'Perché i viaggiatori scelgono Roami per Ghana: Velocità, Copertura & Supporto'

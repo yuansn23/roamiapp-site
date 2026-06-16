@@ -44,7 +44,7 @@ banner:
 hero:
   flag_image: img/flags/ma.svg
   flag_alt: Macao Flag
-  title: 'Macao eSIM 2026: Instant Connectivity for Worry-Free Travel'
+  title: 'Macao eSIM: Instant Connectivity for Worry-Free Travel'
   subtitle: Best prepaid eSIM for Macao travelers - fast 5G, instant activation, 24/7 support
 features:
   title: 'Why Macao Travelers Choose Roami: Speed, Coverage & Support'
