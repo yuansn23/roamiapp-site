@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Bosnia ed Erzegovina 2026: Turisti & Rete | Roami'
-date: '2026-06-07T08:51:27+00:00'
+date: '2026-06-15T08:51:27+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,7 +19,7 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: 'Bosnia ed Erzegovina eSIM 2026: BH Telecom & HT Eronet'
+  title: 'Bosnia eSIM: 5G e dati illimitati per ogni viaggio'
   description: Confronta i piani eSIM Bosnia ed Erzegovina con 5G a Sarajevo, Mostar, Banja Luka. Guida alla copertura BH
     Telecom & HT Eronet & m:tel. Attivazione QR istantanea da $1.99.
   keywords: eSIM Bosnia ed Erzegovina, piano eSIM Bosnia ed Erzegovina, migliore eSIM Bosnia ed Erzegovina, Bosnia ed Erzegovina

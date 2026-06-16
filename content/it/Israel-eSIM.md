@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Israele 2026: Turisti & Rete | Roami'
-date: '2026-06-07T08:51:27+00:00'
+date: '2026-06-15T08:51:27+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,7 +18,7 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: 'Israele eSIM 2026: Partner Communications & Cellcom Israel'
+  title: 'Israel eSIM: Unlimited Data, No Contract Needed'
   description: Confronta i piani eSIM Israele con 5G a Tel Aviv, Gerusalemme, Haifa. Guida alla copertura Partner Communications
     & Cellcom Israel & Pelephone. Attivazione QR istantanea da $1.99.
   keywords: eSIM Israele, piano eSIM Israele, migliore eSIM Israele, Israele dati, Partner Communications Israele, Cellcom

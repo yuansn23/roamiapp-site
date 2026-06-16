@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Oman 2026: Copertura & Velocità | Roami'
-date: '2026-06-07T08:51:27+00:00'
+date: '2026-06-15T08:51:27+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,7 +18,7 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: 'Oman eSIM 2026: Omantel & Ooredoo'
+  title: 'eSIM Oman: senza documenti, subito attiva'
   description: Confronta i piani eSIM Oman con 5G a Mascate, Salalah, Sohar. Guida alla copertura Omantel & Ooredoo & Vodafone.
     Attivazione QR istantanea da $1.99.
   keywords: eSIM Oman, piano eSIM Oman, migliore eSIM Oman, Oman dati, Omantel Oman, Ooredoo Oman, Vodafone Oman, eSIM Mascate,

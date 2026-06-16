@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Sri Lanka 2026: Connessione & Velocità | Roami'
-date: '2026-06-07T08:51:27+00:00'
+date: '2026-06-15T08:51:27+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,7 +19,7 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: 'Sri Lanka eSIM 2026: Dialog Axiata & Mobitel'
+  title: "Sri Lanka eSIM: 5G e dati illimitati per tutta l'isola"
   description: Confronta i piani eSIM Sri Lanka con 5G a Colombo, Kandy, Galle. Guida alla copertura Dialog Axiata & Mobitel
     & Hutch. Attivazione QR istantanea da $1.99.
   keywords: eSIM Sri Lanka, piano eSIM Sri Lanka, migliore eSIM Sri Lanka, Sri Lanka dati, Dialog Axiata Sri Lanka, Mobitel

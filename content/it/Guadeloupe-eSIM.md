@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Guadalupa 2026: Città & Copertura | Roami'
-date: '2026-06-07T08:51:27+00:00'
+date: '2026-06-15T08:51:27+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,7 +18,7 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: 'Guadalupa eSIM 2026: Orange Caraïbe & SFR'
+  title: 'Guadeloupe eSIM: Fast 5G, No Long-Term Contract'
   description: Confronta i piani eSIM Guadalupa con 5G a Basse-Terre, Pointe-à-Pitre, Le Gosier. Guida alla copertura Orange
     Caraïbe & SFR & Digicel. Attivazione QR istantanea da $1.99.
   keywords: eSIM Guadalupa, piano eSIM Guadalupa, migliore eSIM Guadalupa, Guadalupa dati, Orange Caraïbe Guadalupa, SFR Guadalupa,

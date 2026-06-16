@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Costa d''Avorio 2026: Connessione & Velocità | Roami'
-date: '2026-06-07T08:51:27+00:00'
+date: '2026-06-15T08:51:27+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,7 +18,7 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: 'Costa d''Avorio eSIM 2026: Orange & MTN'
+  title: 'Ivory Coast eSIM: High-Speed 5G, No Contract'
   description: Confronta i piani eSIM Costa d'Avorio con 5G a Abidjan, Yamoussoukro, Bouaké. Guida alla copertura Orange &
     MTN & Moov. Attivazione QR istantanea da $1.99.
   keywords: eSIM Costa d'Avorio, piano eSIM Costa d'Avorio, migliore eSIM Costa d'Avorio, Costa d'Avorio dati, Orange Costa

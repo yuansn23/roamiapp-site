@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Bielorussia 2026: 5G & Piani Dati | Roami'
-date: '2026-06-07T08:51:27+00:00'
+date: '2026-06-15T08:51:27+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,7 +19,7 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: 'Bielorussia eSIM 2026: A1 & MTS'
+  title: 'Bielorussia eSIM: senza documenti, 5G in un attimo'
   description: Confronta i piani eSIM Bielorussia con 5G a Minsk, Brest, Homel. Guida alla copertura A1 & MTS & life:). Attivazione
     QR istantanea da $1.99.
   keywords: eSIM Bielorussia, piano eSIM Bielorussia, migliore eSIM Bielorussia, Bielorussia dati, A1 Bielorussia, MTS Bielorussia,

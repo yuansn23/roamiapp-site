@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Liberia 2026: Copertura & Velocità | Roami'
-date: '2026-06-07T08:51:27+00:00'
+date: '2026-06-15T08:51:27+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,7 +18,7 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: 'Liberia eSIM 2026: Lonestar Cell MTN & Orange Liberia'
+  title: 'Liberia eSIM: Unlimited 5G, No Verification Needed'
   description: Confronta i piani eSIM Liberia con 5G a Monrovia, Buchanan, Ganta. Guida alla copertura Lonestar Cell MTN &
     Orange Liberia & Libercell. Attivazione QR istantanea da $1.99.
   keywords: eSIM Liberia, piano eSIM Liberia, migliore eSIM Liberia, Liberia dati, Lonestar Cell MTN Liberia, Orange Liberia

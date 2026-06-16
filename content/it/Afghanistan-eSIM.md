@@ -1,6 +1,6 @@
 ---
 title: 'eSIM Afghanistan 2026: Copertura & Velocità | Roami'
-date: '2026-06-07T08:51:27+00:00'
+date: '2026-06-15T08:51:27+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,7 +18,7 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: 'Afghanistan eSIM 2026: Afghan Wireless & Roshan'
+  title: 'eSIM Afghanistan 2026: 5G con dati illimitati'
   description: Confronta i piani eSIM Afghanistan con 5G a Kabul, Herat, Mazar-i-Sharif. Guida alla copertura Afghan Wireless
     & Roshan & MTN. Attivazione QR istantanea da $1.99.
   keywords: eSIM Afghanistan, piano eSIM Afghanistan, migliore eSIM Afghanistan, Afghanistan dati, Afghan Wireless Afghanistan,

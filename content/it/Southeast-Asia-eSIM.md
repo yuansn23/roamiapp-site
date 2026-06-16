@@ -19,7 +19,7 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con il codice: web20'
 seo:
-  title: 'Sud-est asiatico eSIM 2026: AIS & Singtel'
+  title: 'Sud-est asiatico eSIM: 5G e dati illimitati in 10 paesi'
   description: Confronta i piani eSIM Sud-est asiatico con 5G a Bangkok, Singapore, Kuala Lumpur. Guida alla copertura AIS
     & Singtel & Maxis. Attivazione QR istantanea da $1.99.
   keywords: eSIM Sud-est asiatico, piano eSIM Sud-est asiatico, migliore eSIM Sud-est asiatico, Sud-est asiatico dati, AIS

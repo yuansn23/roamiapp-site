@@ -18,7 +18,7 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: 'Albania eSIM 2026: Vodafone & Telekom'
+  title: 'Albania eSIM: 5G e dati infiniti, nessuna verifica'
   description: Confronta i piani eSIM Albania con 5G a Tirana, Durazzo, Valona. Guida alla copertura Vodafone & Telekom &
     Albtelecom. Attivazione QR istantanea da $1.99.
   keywords: eSIM Albania, piano eSIM Albania, migliore eSIM Albania, Albania dati, Vodafone Albania, Telekom Albania, Albtelecom
