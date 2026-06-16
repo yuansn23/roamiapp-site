@@ -1,6 +1,6 @@
 ---
 title: 瑞士 eSIM 方案 | 瑞士 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "瑞士 eSIM | 高速網路不限流量隨時連線"
-  description: "想要 瑞士 的 eSIM 嗎？Roami 直接把 QR Code 寄到您的信箱。免運費不用出門，在家裡就能搞定出國上網的所有準備工作，輕鬆又省事。覆蓋 蘇黎世、日內瓦及阿爾卑斯山。"
+  title: "瑞士eSIM｜5G吃到飽$1.99起，免實名認證即開即用"
+  description: "Roami eSIM給您瑞士5G出國上網吃到飽最低只要$1.99起。便宜旅遊網路方案出國上網就是這麼簡單，免實名認證免綁約，線上購買秒收QR Code即開即用超方便。"
   keywords: 瑞士,eSIM,網路覆蓋,旅遊,日內瓦,蘇黎世,伯恩,Swisscom,Sunrise,Salt,行動網路
 order_summary:
   title: 選擇 瑞士 eSIM

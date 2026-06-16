@@ -1,6 +1,6 @@
 ---
 title: 蒙古 eSIM 方案 | 蒙古 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "蒙古 eSIM | 5G 流量吃到飽方案超划算"
-  description: "去蒙古旅行帶 Roami eSIM 就足夠了。不用更換 SIM 卡也不用開通國際漫遊，一隻手機就能搞定所有上網需求。輕鬆出國隨時保持連線。覆蓋 全區。"
+  title: "蒙古eSIM｜5G上網$1.99起，查地圖打卡不卡頓"
+  description: "推薦去蒙古旅行用Roami eSIM出國上網，最低$1.99起就能享受5G高速網路。出國上網推薦超值選擇，划算又好用簡單又方便，查地圖打卡分享都不卡頓。"
   keywords: 蒙古 eSIM, 蒙古網路, 蒙古旅遊, 烏蘭巴托, 蒙古行動網路
 order_summary:
   title: 選擇 蒙古 eSIM

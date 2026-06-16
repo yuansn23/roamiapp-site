@@ -1,6 +1,6 @@
 ---
 title: 肯亞 eSIM 方案 | 肯亞 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "肯亞 eSIM | 高速 5G 網路吃到飽超值"
-  description: "去肯亞旅行想找便宜的 eSIM 上網方案嗎？Roami 提供最優惠的預付卡價格，沒有任何隱藏費用也不犧牲品質，出發前線上購買抵達目的地馬上就能使用，省錢又方便。覆蓋 全區。"
+  title: "肯亞eSIM｜5G上網吃到飽，跨國旅行不斷網"
+  description: "去肯亞出國旅遊eSIM推薦選Roami，5G高速上網吃到飽隨時查詢景點導航。社群分享旅遊點滴不卡頓，出國旅遊上網卡方案旅客好評推薦首選，值得信賴。"
   keywords: 肯亞 eSIM, 肯亞上網, Safari網路, 內羅比旅遊, 蒙巴薩網路
 order_summary:
   title: 選擇 肯亞 eSIM

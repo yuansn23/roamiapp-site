@@ -1,6 +1,6 @@
 ---
 title: 東南亞 eSIM 數據方案 | 最佳 2026 旅遊 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級為 <strong>PhoneSIM</strong>。<br>新客戶享有 20% 折扣，折扣碼：web20
 seo:
-  title: "東南亞 eSIM | 泰越印菲一卡通用推薦"
-  description: "用 Roami eSIM 走訪東南亞各國，泰國越南印尼菲律賓馬來西亞一卡通用，跳島旅行也不用擔心網路問題，隨時保持連線不中斷，讓旅程更輕鬆自在。"
+  title: "東南亞eSIM｜泰越印菲一卡通用，跳島旅行不斷網"
+  description: "用Roami eSIM走訪東南亞，泰越印菲一卡通用跳島不怕沒網路。5G高速上網吃到飽最低$1.99起，免綁約即買即用，跨國旅行不斷網超方便。"
   keywords: 東南亞 eSIM, 平價 eSIM, 即時發送, 免漫遊費, 旅遊上網, QR code 啟用
   low_price: 1.99
   high_price: 39.9

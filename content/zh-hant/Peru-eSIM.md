@@ -1,6 +1,6 @@
 ---
 title: 秘魯 eSIM 方案 | 秘魯 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "秘魯 eSIM | 出國上網流量吃到飽免綁約"
-  description: "去秘魯旅行想找便宜的 eSIM 上網方案嗎？Roami 提供最優惠的預付卡價格，沒有任何隱藏費用也不犧牲品質，出發前線上購買抵達目的地馬上就能使用，省錢又方便。覆蓋 全區。"
+  title: "秘魯eSIM｜5G吃到飽$1.99起，出國上網省錢必備"
+  description: "Roami eSIM提供秘魯出國5G吃到飽方案最低只要$1.99起，超值價格享受高速網路。便宜eSIM預付卡推薦出國上網省錢必備方案，划算又好用簡單又方便。"
   keywords: 秘魯 eSIM, 秘魯網路, 秘魯旅遊, 秘魯行動數據, 秘魯上網卡
 order_summary:
   title: 選擇 秘魯 eSIM

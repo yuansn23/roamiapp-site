@@ -1,8 +1,8 @@
 ---
-title: "服務條款 | Roami eSIM 使用規範"
-description: "Roami 服務條款詳細說明使用規範，涵蓋公平使用原則、帳戶管理規則以及退款資格等重要資訊，保障雙方權益，讓您使用更放心。"
+title: "服務條款｜Roami eSIM使用規範與公平使用原則"
+description: "服務條款詳細說明Roami eSIM使用規範，涵蓋公平使用原則、帳戶管理及退款資格等完整資訊。5G高速上網吃到飽方案最低$1.99起，出國旅行上網首選推薦。"
 last_updated: "2026年6月"
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 layout: "terms"
 type: "page"
 h1_title: "Roami 使用者條款"

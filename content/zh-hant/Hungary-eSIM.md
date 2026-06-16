@@ -1,6 +1,6 @@
 ---
 title: 匈牙利 eSIM 方案 | 匈牙利 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "匈牙利 eSIM | 高速 5G 流量吃到飽出國必備"
-  description: "去匈牙利旅行不必擔心上網問題。Roami eSIM 只要兩分鐘就能快速開通，出發前先安裝好 QR Code，抵達目的地連上網路就能馬上打卡報平安，簡單方便。覆蓋 全區。"
+  title: "匈牙利eSIM｜5G高速吃到飽，吃到飽不降速"
+  description: "去匈牙利出國旅遊上網就選Roami eSIM 5G預付卡，高速吃到飽方案深受旅客好評推薦。網路穩定速度快查地圖打卡分享都不卡頓，免綁約最低$1.99起即時開通。"
   keywords: 匈牙利 eSIM, 匈牙利上網卡, 匈牙利旅遊, 布達佩斯 eSIM, Telekom 匈牙利, Telenor 匈牙利, Vodafone
     匈牙利
 order_summary:

@@ -2,13 +2,13 @@
 title: "關於 Roami | 連接全球旅客的 eSIM 專家"
 description: "了解更多關於 Roami，您全球旅客的一站式網路解決方案。總部位於美國，在全球設有辦事處，提供高性價比的 eSIM 方案。"
 layout: "about"
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 type: "page"
 
 # SEO
 seo:
-  title: "關於 Roami | 全球超過 100 萬旅客選擇"
-  description: "Roami 為全球超過 100 萬旅客提供 eSIM 上網服務。致力於讓每一位旅人都能享有簡單、快速且實惠的海外連線體驗，輕鬆保持與世界的連結。"
+  title: "關於Roami｜全球百萬旅客信賴的出國上網eSIM品牌"
+  description: "Roami已為全球超過100萬旅客提供eSIM海外上網服務，簡單快速且價格實惠。5G高速上網吃到飽方案最低$1.99起，出國旅行上網必備首選，讓您輕鬆享受穩定連線體驗。"
   image: "/img/og-about.jpg"
 
 # JSON-LD Schema

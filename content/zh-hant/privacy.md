@@ -1,8 +1,8 @@
 ---
-title: "隱私權政策 | Roami 如何保護您的資料"
-description: "Roami 如何保護您的個人資料？我們嚴格遵守 GDPR 規範，絕不販售用戶資訊，並採用業界標準加密技術確保資料安全無虞，讓您放心使用。"
+title: "隱私權政策｜Roami GDPR合規，用戶資料安全保護"
+description: "Roami嚴格遵守GDPR規範不販售用戶個人資訊，採用先進加密技術確保資料傳輸安全。5G高速上網吃到飽方案最低$1.99起，讓您放心使用出國上網超值選擇。"
 last_updated: "2026年6月"
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 type: "page"
 layout: "privacy"  
 h1_title: "Roami 隱私權政策"

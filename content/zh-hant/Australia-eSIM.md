@@ -1,6 +1,6 @@
 ---
 title: 澳洲 eSIM 方案 | 澳洲 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "澳洲 eSIM | 流量吃到飽免綁約隨時停"
-  description: "Roami eSIM 讓您抵達澳洲就立刻可以上網。短短幾秒鐘就能完成開通，不用尋找電信門市也不用更換 SIM 卡，輕鬆保持連線讓旅行更順心。覆蓋 雪梨、墨爾本及全澳洲。"
+  title: "澳洲eSIM｜5G高速上網方案$1.99起，看影片不延遲"
+  description: "Roami eSIM給您澳洲5G高速上網方案最低$1.99起，速度快又穩定看影片傳照片都不延遲。出國eSIM預付卡方案超值選擇，線上購買即時開通馬上能用，旅行更順暢。"
   keywords: 澳洲 eSIM, 澳洲旅遊, 澳洲網路, 雪梨, 墨爾本, 澳洲行動網路
 order_summary:
   title: 選擇 澳洲 eSIM

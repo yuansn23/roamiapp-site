@@ -1,6 +1,6 @@
 ---
 title: 牙買加 eSIM 方案 | 牙買加 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "牙買加 eSIM | 5G 流量吃到飽方案超划算"
-  description: "去牙買加旅行選擇 Roami 就能享受真正的自由。完全沒有合約束縛，想用就用想停就停，用多少天就付多少費用，完全由您自己決定，簡單透明。覆蓋 全區。"
+  title: "牙買加eSIM｜5G高速上網，吃到飽不降速"
+  description: "出國旅遊去牙買加必備Roami eSIM旅遊必備方案，5G高速上網查地圖找美食分享照片一趟旅程全靠它。最低$1.99起超值價格，線上購買即時開通抵達直接用。"
   keywords: 牙買加 eSIM, 牙買加上網卡, 牙買加旅遊, 金斯頓, 蒙特哥貝, 尼格瑞爾, 行動網路覆蓋, 旅遊景點
 order_summary:
   title: 選擇 牙買加 eSIM

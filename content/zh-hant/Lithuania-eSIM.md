@@ -1,6 +1,6 @@
 ---
 title: 立陶宛 eSIM 方案 | 立陶宛 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "立陶宛 eSIM | 流量吃到飽免綁約隨時停"
-  description: "去立陶宛旅行不必擔心上網問題。Roami eSIM 只要兩分鐘就能快速開通，出發前先安裝好 QR Code，抵達目的地連上網路就能馬上打卡報平安，簡單方便。覆蓋 全區。"
+  title: "立陶宛eSIM｜5G高速上網$1.99起，商務旅遊首選"
+  description: "Roami eSIM給您立陶宛5G高速上網方案最低$1.99起，速度快又穩定看影片傳照片都不延遲。出國eSIM預付卡方案超值選擇，線上購買即時開通馬上能用。"
   keywords: 立陶宛 eSIM, 立陶宛網路覆蓋, 立陶宛旅遊, 立陶宛景點, 立陶宛行動網路
 order_summary:
   title: 選擇 立陶宛 eSIM

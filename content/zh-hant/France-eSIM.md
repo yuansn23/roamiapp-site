@@ -1,6 +1,6 @@
 ---
 title: 法國 eSIM 方案 | 法國 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "法國 eSIM | 高速網路不限流量隨時連線"
-  description: "去法國需要穩定可靠的網路嗎？Roami eSIM 提供高速 5G 連線，讓您不用到處尋找 WiFi 訊號。地圖導航社群媒體影音串流全都順暢無比。覆蓋 巴黎、尼斯、普羅旺斯。"
+  title: "法國eSIM｜5G無限流量吃到飽，追劇打卡盡情用"
+  description: "Roami eSIM無限流量方案讓您在法國享受5G高速國外旅遊網路，最低$1.99起超值價格。流量不限制追劇打卡盡情用，不用擔心超量問題，跨國旅行不用換卡一卡搞定。"
   keywords: 法國 eSIM, 法國旅遊, 法國網路覆蓋, 巴黎景點, 法國行動網路, 法國機場, 法國飯店, 法國交通
 order_summary:
   title: 選擇 法國 eSIM

@@ -1,6 +1,6 @@
 ---
 title: 巴拿馬 eSIM 方案 | 巴拿馬 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "巴拿馬 eSIM | 5G 上網流量不中斷超穩定"
-  description: "去巴拿馬旅行想找便宜的 eSIM 上網方案嗎？Roami 提供最優惠的預付卡價格，沒有任何隱藏費用也不犧牲品質，出發前線上購買抵達目的地馬上就能使用，省錢又方便。覆蓋 全區。"
+  title: "巴拿馬eSIM｜30天15G高速上網，跨國旅行不斷網"
+  description: "想在巴拿馬待一個月深度旅遊？Roami 30天旅遊上網方案5G高速吃到飽。一個月eSIM推薦整月上網不用愁，深度旅行首選方案網路不斷線，最低$1.99起超值價格。"
   keywords: 巴拿馬 eSIM, 巴拿馬旅遊, 巴拿馬網路覆蓋, 巴拿馬景點, 巴拿馬飯店
 order_summary:
   title: 選擇 巴拿馬 eSIM

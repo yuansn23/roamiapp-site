@@ -1,6 +1,6 @@
 ---
 title: 巴西 eSIM 方案 | 巴西 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "巴西 eSIM | 流量吃到飽超穩定安心用"
-  description: "去巴西玩不想被合約綁住嗎？Roami eSIM 就是不綁約的方案。依照需求自由選擇天數，用完即止，不用擔心忘記取消而被扣款，安心使用。覆蓋 里約、聖保羅及全巴西。"
+  title: "巴西eSIM｜7天5G吃到飽，短期旅行便宜又好用"
+  description: "去巴西短期旅行用Roami 7天上網方案最適合，5G高速吃到飽穩定連線。短短幾天也能享受高速網路，短途旅行eSIM推薦超值選擇，最低$1.99起便宜又好用。"
   keywords: 巴西 eSIM, 巴西網路覆蓋, 巴西旅遊, 里約熱內盧, 聖保羅, 巴西利亞, Vivo, Claro, TIM, 巴西行動網路
 order_summary:
   title: 選擇 巴西 eSIM

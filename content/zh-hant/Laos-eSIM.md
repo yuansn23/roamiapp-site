@@ -1,6 +1,6 @@
 ---
 title: 寮國 eSIM 方案 | 寮國 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "寮國 eSIM | 高速 5G 流量吃到飽出國必備"
-  description: "去寮國需要穩定可靠的網路嗎？Roami eSIM 提供高速 5G 連線，讓您不用到處尋找 WiFi 訊號。地圖導航社群媒體影音串流全都順暢無比。覆蓋 全區。"
+  title: "寮國eSIM｜5G高速上網吃到飽，免實名認證"
+  description: "Roami eSIM預付卡方案提供寮國5G高速上網吃到飽超值選擇。先儲值再用用完再補充靈活又方便，高速上網卡推薦方案省錢又實用，跨國旅行一卡搞定。"
   keywords: 寮國 eSIM, 寮國上網, 寮國網路覆蓋, Unitel, Lao Telecom, 寮國旅遊, 永珍, 龍坡邦
 order_summary:
   title: 選擇 寮國 eSIM

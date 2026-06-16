@@ -1,6 +1,6 @@
 ---
 title: 智利 eSIM 方案 | 智利 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "智利 eSIM | 流量吃到飽高速 5G 超值方案"
-  description: "準備好去智利旅行了嗎？Roami eSIM 是您旅途中最棒的夥伴。出發前線上買好抵達就能立刻使用，不用忙著找 SIM 卡辦網路，讓旅程更輕鬆自在。覆蓋 全區。"
+  title: "智利eSIM｜5G高速上網吃到飽，免綁約自由不受限"
+  description: "Roami eSIM在智利提供免綁約上網吃到飽方案，5G高速網路超自由。想用就用想停就停不用擔心合約問題，出國eSIM推薦首選靈活又方便，旅行結束自動失效。"
   keywords: 智利 eSIM, 智利上網卡, 智利行動網路, 智利旅遊, 智利機場eSIM, Movistar智利, Claro智利, Entel智利,
     智利4G, 智利5G
 order_summary:

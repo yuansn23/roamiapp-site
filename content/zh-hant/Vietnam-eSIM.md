@@ -1,6 +1,6 @@
 ---
 title: 越南 eSIM 方案 | 越南 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "越南 eSIM | 出國上網流量吃到飽免卡"
-  description: "訂購 Roami eSIM 去越南，人還在台灣就能先把網路準備好。電子郵件直接收件，到了目的地就能用，比實體 SIM 卡方便太多了。覆蓋 河內、胡志明市及峴港。"
+  title: "越南eSIM｜免綁約5G上網，商務旅遊首選"
+  description: "Roami eSIM免綁約5G上網方案在越南提供高速穩定的出國網路卡體驗。不用簽合約不用綁約出國上網輕鬆無負擔，旅行結束自動失效超省心，即買即用超方便。"
   keywords: 越南 eSIM, 越南網路覆蓋, 越南旅遊, 越南行動網路, Viettel, 河內 eSIM, 胡志明市旅遊, 越南景點
 order_summary:
   title: 選擇 越南 eSIM

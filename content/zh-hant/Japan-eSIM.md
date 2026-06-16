@@ -1,6 +1,6 @@
 ---
 title: 日本 eSIM 方案 | 日本 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "日本 eSIM | 流量吃到飽高速 5G 超值方案"
-  description: "去日本旅行想找便宜的 eSIM 上網方案嗎？Roami 提供最優惠的預付卡價格，沒有任何隱藏費用也不犧牲品質，出發前線上購買抵達目的地馬上就能使用，省錢又方便。覆蓋 東京、大阪、京都。"
+  title: "日本eSIM｜5G吃到飽不降速，新幹線城際移動連線穩定"
+  description: "去日本旅遊上網卡推薦Roami eSIM，提供5G高速上網吃到飽不降速方案最低只要$1.99起。新幹線城際移動全程連線穩定，國外旅遊上網不用花大錢，線上購買即開即用超方便。"
   keywords: 日本 eSIM, 日本上網卡, 日本旅遊 eSIM, Docomo eSIM, SoftBank eSIM, 日本 4G 上網, 日本 5G
     eSIM
 order_summary:

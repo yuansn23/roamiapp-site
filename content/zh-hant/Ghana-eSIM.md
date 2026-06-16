@@ -1,6 +1,6 @@
 ---
 title: 迦納 eSIM 方案 | 迦納 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "迦納 eSIM | 出國上網高速 5G 超方便"
-  description: "在迦納享受高速 5G 上網體驗。Roami 讓您導航追劇直播打卡都暢行無阻，完全不用擔心流量不夠用或是訊號不穩定的問題。覆蓋 全區。"
+  title: "迦納eSIM｜15天5G吃到飽，旅行超值選"
+  description: "想在迦納深度旅遊半個月？Roami 15天eSIM深度旅遊網路方案剛剛好。5G高速上網吃到飽慢慢玩慢慢逛網路不斷線，深度旅行推薦必備方案，一卡搞定超方便。"
   keywords: 迦納 eSIM, 迦納網路覆蓋, 迦納旅遊 eSIM, 迦納 5G, 迦納上網, 迦納 MTN eSIM, 迦納 Vodafone eSIM
 order_summary:
   title: 選擇 迦納 eSIM

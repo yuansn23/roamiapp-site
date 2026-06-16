@@ -1,6 +1,6 @@
 ---
 title: 亞塞拜然 eSIM 方案 | 亞塞拜然 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "亞塞拜然 eSIM | 高速上網預付卡超值推薦"
-  description: "去亞塞拜然旅行不必擔心上網問題。Roami eSIM 只要兩分鐘就能快速開通，出發前先安裝好 QR Code，抵達目的地連上網路就能馬上打卡報平安，簡單方便。覆蓋 全區。"
+  title: "亞塞拜然eSIM｜5G高速吃到飽，商務旅遊首選"
+  description: "去亞塞拜然出國旅行必備eSIM高速網路卡就是Roami，5G高速上網吃到飽方案。輕鬆查地圖打卡分享旅程更順暢，免綁約最低$1.99起，線上購買即時開通抵達直接用。"
   keywords: 亞塞拜然 eSIM, 巴庫上網, 阿塞拜疆旅遊, 網絡覆蓋, Azercell, Bakcell, Nar
 order_summary:
   title: 選擇 亞塞拜然 eSIM

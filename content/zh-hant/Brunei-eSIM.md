@@ -1,6 +1,6 @@
 ---
 title: 汶萊 eSIM 方案 | 汶萊 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "汶萊 eSIM | 高速網路不限流量隨時連線"
-  description: "線上購買 汶萊 的 Roami eSIM 只要短短幾分鐘。安全付款後馬上就能收到 QR Code，不用等待運送也不用親自跑門市，方便又快速，輕鬆搞定。覆蓋 全區。"
+  title: "汶萊eSIM｜5G吃到飽$1.99起，免實名認證即開即用"
+  description: "Roami eSIM給您汶萊5G出國上網吃到飽最低只要$1.99起。便宜旅遊網路方案出國上網就是這麼簡單，免實名認證免綁約，線上購買秒收QR Code即開即用超方便。"
   keywords: 汶萊 eSIM, 汶萊上網, 汶萊網路覆蓋, DST, Progresif, 汶萊旅遊, 斯里巴加灣市
 order_summary:
   title: 選擇 汶萊 eSIM

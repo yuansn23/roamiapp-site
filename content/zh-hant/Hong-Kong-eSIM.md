@@ -1,6 +1,6 @@
 ---
 title: 香港 eSIM 方案 | 香港 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "香港 eSIM | 流量吃到飽免合約最自由"
-  description: "Roami 在香港提供真正的無合約上網體驗。不綁約也不會自動續約，旅行結束網路服務就跟著結束。簡單又透明，讓您專心享受美好旅程。覆蓋 全區。"
+  title: "香港eSIM｜30天20G吃到飽，免實名認證"
+  description: "去香港商務出差需要穩定網路？Roami 30天5G高速上網吃到飽方案商務出差首選。視訊會議郵件收發都順暢不斷線，商務eSIM推薦出差必備，最低$1.99起超值價格。"
   keywords: 香港 eSIM, 香港上網卡, 香港旅遊, 香港網路, eSIM 香港, 香港 4G, 香港 5G, 香港機場上網, 香港自由行
 order_summary:
   title: 選擇 香港 eSIM

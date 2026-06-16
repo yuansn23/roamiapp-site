@@ -1,6 +1,6 @@
 ---
 title: 中國 eSIM 方案 | 中國 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "中國 eSIM | 高速 5G 流量吃到飽首選"
-  description: "準備好去中國旅行了嗎？Roami eSIM 是您旅途中最棒的夥伴。出發前線上買好抵達就能立刻使用，不用忙著找 SIM 卡辦網路，讓旅程更輕鬆自在。覆蓋 北京、上海及各大城市。"
+  title: "中國eSIM｜5G高速上網吃到飽，免VPN自由不受限"
+  description: "Roami eSIM在中國提供免綁約上網吃到飽方案，5G高速網路超自由。想用就用想停就停不用擔心合約問題，出國eSIM推薦首選靈活又方便，旅行結束自動失效。"
   keywords: 中國eSIM, 中國上網卡, 中國旅遊, 上海eSIM, 北京網路覆蓋, 中國支付方式, 中國叫車App
 order_summary:
   title: 選擇 中國 eSIM

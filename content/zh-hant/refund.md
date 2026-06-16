@@ -3,12 +3,12 @@ title: "Roami 退款政策 | eSIM 購買保障"
 description: "了解 Roami eSIM 的退款與退貨政策。我們致力於為您提供滿意的體驗。"
 layout: "refund"
 type: "page"
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 
 # SEO
 seo:
-  title: "退款政策 | Roami 安心購買保證"
-  description: "Roami 提供公平透明的退款政策。如果方案不符合您的需求，只要符合退費條件即可申請退款，讓您購買安心有保障，沒有後顧之憂。"
+  title: "退款政策｜Roami安心購買保證，方案不符可退款"
+  description: "Roami提供公平透明的退款政策，方案不符需求可申請退款，購買安心有保障。5G高速上網吃到飽方案最低$1.99起，出國旅行上網超值推薦首選，完全無後顧之憂。"
   image: "/img/og-refund.jpg"
 
 # JSON-LD Schema（注意：这是 YAML 对象，不是多行字符串）

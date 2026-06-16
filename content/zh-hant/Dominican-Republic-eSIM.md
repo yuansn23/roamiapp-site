@@ -1,6 +1,6 @@
 ---
 title: 多明尼加共和國 eSIM 方案 | 多明尼加共和國 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -19,8 +19,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "多明尼加 eSIM | 出國上網流量吃到飽免卡"
-  description: "去多明尼加需要穩定可靠的網路嗎？Roami eSIM 提供高速 5G 連線，讓您不用到處尋找 WiFi 訊號。地圖導航社群媒體影音串流全都順暢無比。覆蓋 全區。"
+  title: "多明尼加eSIM｜免綁約5G上網，200+國家通用超方便"
+  description: "Roami eSIM提供多明尼加吃到飽eSIM免綁約方案，5G高速上網出國免綁約超自由。不用綁約不用簽約輕鬆又划算，出國上網推薦首選方案，200+國家通用超方便。"
   keywords: 多明尼加共和國 eSIM, 網路覆蓋, 蓬塔卡納, 聖多明哥, 旅遊, 上網
 order_summary:
   title: 選擇 多明尼加共和國 eSIM

@@ -1,6 +1,6 @@
 ---
 title: 義大利 eSIM 方案 | 義大利 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "義大利 eSIM | 流量吃到飽最划算安心用"
-  description: "線上購買 義大利 的 Roami eSIM 只要短短幾分鐘。安全付款後馬上就能收到 QR Code，不用等待運送也不用親自跑門市，方便又快速，輕鬆搞定。覆蓋 羅馬、威尼斯、佛羅倫斯。"
+  title: "義大利eSIM｜5G高速吃到飽，商務旅遊首選"
+  description: "Roami全球eSIM在200多個國家與地區都能使用，去義大利當然也沒問題。跨國上網不斷線，5G高速吃到飽方案一卡搞定，免實名認證免綁約，線上購買秒收QR Code即開即用。"
   keywords: 義大利 eSIM, 義大利旅遊, 羅馬 eSIM, 米蘭 eSIM, TIM, Vodafone, WindTre, 網路覆蓋
 order_summary:
   title: 選擇 義大利 eSIM

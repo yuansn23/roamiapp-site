@@ -1,6 +1,6 @@
 ---
 title: 賽普勒斯 eSIM 方案 | 賽普勒斯 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "賽普勒斯 eSIM | 流量吃到飽免合約最自由"
-  description: "去賽普勒斯旅行想找便宜的 eSIM 上網方案嗎？Roami 提供最優惠的預付卡價格，沒有任何隱藏費用也不犧牲品質，出發前線上購買抵達目的地馬上就能使用，省錢又方便。覆蓋 全區。"
+  title: "賽普勒斯eSIM｜30天15G高速上網，跨國旅行不斷網"
+  description: "想在賽普勒斯待一個月深度旅遊？Roami 30天旅遊上網方案5G高速吃到飽。一個月eSIM推薦整月上網不用愁，深度旅行首選方案網路不斷線，最低$1.99起超值價格。"
   keywords: 賽普勒斯 eSIM, 塞浦路斯網路, 賽普勒斯旅遊, Cyta, MTN, PrimeTel, 拉納卡機場, 帕福斯, 利馬索爾, 尼科西亞
 order_summary:
   title: 選擇 賽普勒斯 eSIM

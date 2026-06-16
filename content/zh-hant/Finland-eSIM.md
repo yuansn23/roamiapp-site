@@ -1,6 +1,6 @@
 ---
 title: 芬蘭 eSIM 方案 | 芬蘭 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "芬蘭 eSIM | 高速 5G 網路吃到飽超值"
-  description: "計畫去芬蘭自由行嗎？Roami eSIM 是自由行旅客的最佳選擇。不用擔心語言不通不知道怎麼買 SIM 卡，線上就能搞定一切輕鬆出發。覆蓋 全區。"
+  title: "芬蘭eSIM｜5G上網吃到飽，全球旅行一卡搞定"
+  description: "Roami全球旅遊eSIM在200多個國家暢行無阻，去芬蘭當然也適用。5G高速上網吃到飽多國通用一卡搞定，全球旅行網路方案推薦首選，查地圖打卡分享都穩定可靠。"
   keywords: 芬蘭 eSIM, 芬蘭上網卡, 赫爾辛基旅遊, 芬蘭網路覆蓋, 北歐旅遊
 order_summary:
   title: 選擇 芬蘭 eSIM

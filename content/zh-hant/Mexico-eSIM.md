@@ -1,6 +1,6 @@
 ---
 title: 墨西哥 eSIM 方案 | 墨西哥 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "墨西哥 eSIM | 高速流量吃到飽出國推薦"
-  description: "在墨西哥隨時保持高速連線狀態。Roami 提供穩定的 5G 行動網路，無論是導航找路、打卡分享還是和親友視訊通話，通訊流暢絕不卡頓。覆蓋 全區。"
+  title: "墨西哥eSIM｜5G上網吃到飽，商務旅遊首選"
+  description: "Roami eSIM提供墨西哥5G高速上網吃到飽，200多個國家都能用。多國eSIM推薦全球旅遊網路方案，無論去哪個國家旅行，高速連線不煩惱一卡搞定超方便。"
   keywords: 墨西哥 eSIM, 墨西哥網路, 墨西哥旅遊, 墨西哥 eSIM 推薦, Telcel 網路, 坎昆 eSIM, 墨西哥城 eSIM
 order_summary:
   title: 選擇 墨西哥 eSIM

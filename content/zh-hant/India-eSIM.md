@@ -1,6 +1,6 @@
 ---
 title: 印度 eSIM 方案 | 印度 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "印度 eSIM | 5G 高速隨時連線不限速"
-  description: "去印度選擇 Roami 最划算。價格完全透明、絕無隱藏收費，用最實惠的方式隨時保持連線。無論是查詢地圖導航還是打卡分享照片都暢行無阻。覆蓋 德里、孟買及全印度。"
+  title: "印度eSIM｜5G流量吃到飽$1.99起，出國上網省錢必備"
+  description: "Roami eSIM提供印度出國5G吃到飽方案最低只要$1.99起，超值價格享受高速網路。便宜eSIM預付卡推薦，出國上網省錢必備方案，划算又好用簡單又方便。"
   keywords: 印度 eSIM, 印度上網卡, 印度網路覆蓋, Jio eSIM, Airtel 印度, 印度旅遊 eSIM, 印度 5G eSIM
 order_summary:
   title: 選擇 印度 eSIM

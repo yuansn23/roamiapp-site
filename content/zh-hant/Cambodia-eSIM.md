@@ -1,6 +1,6 @@
 ---
 title: 柬埔寨 eSIM 方案 | 柬埔寨 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "柬埔寨 eSIM | 出國上網流量吃到飽免卡"
-  description: "想要 柬埔寨 的 eSIM 嗎？Roami 直接把 QR Code 寄到您的信箱。免運費不用出門，在家裡就能搞定出國上網的所有準備工作，輕鬆又省事。覆蓋 全區。"
+  title: "柬埔寨eSIM｜免綁約5G上網，旅行結束自動失效超省心"
+  description: "Roami eSIM免綁約5G上網方案在柬埔寨提供高速穩定的出國網路卡體驗。不用簽合約不用綁約出國上網輕鬆無負擔，旅行結束自動失效超省心，即買即用超方便。"
   keywords: 柬埔寨 eSIM, 柬埔寨網路, 柬埔寨旅遊, Smart 柬埔寨, Cellcard, Metfone, 吳哥窟 eSIM, 金邊 eSIM,
     暹粒 eSIM
 order_summary:

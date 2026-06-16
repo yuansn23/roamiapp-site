@@ -1,6 +1,6 @@
 ---
 title: 坦尚尼亞 eSIM 方案 | 坦尚尼亞 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "坦尚尼亞 eSIM | 出國上網流量吃到飽免卡"
-  description: "去坦尚尼亞旅行不必擔心上網問題。Roami eSIM 只要兩分鐘就能快速開通，出發前先安裝好 QR Code，抵達目的地連上網路就能馬上打卡報平安，簡單方便。覆蓋 全區。"
+  title: "坦尚尼亞eSIM｜5G高速上網$1.99起，旅行超值選"
+  description: "Roami eSIM給您坦尚尼亞5G高速上網方案最低$1.99起，速度快又穩定看影片傳照片都不延遲。出國eSIM預付卡方案超值選擇，線上購買即時開通馬上能用。"
   keywords: 坦尚尼亞 eSIM, 坦尚尼亞網路覆蓋, 三蘭港 eSIM, 阿魯沙 eSIM, 桑給巴爾 eSIM, 坦尚尼亞旅遊上網, 坦尚尼亞行動網路
 order_summary:
   title: 選擇 坦尚尼亞 eSIM

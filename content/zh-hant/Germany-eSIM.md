@@ -1,6 +1,6 @@
 ---
 title: 德國 eSIM 方案 | 德國 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "德國 eSIM | 5G 上網流量不中斷超穩定"
-  description: "準備好去德國旅行了嗎？Roami eSIM 是您旅途中最棒的夥伴。出發前線上買好抵達就能立刻使用，不用忙著找 SIM 卡辦網路，讓旅程更輕鬆自在。覆蓋 柏林、慕尼黑及全德國。"
+  title: "德國eSIM｜30天15G上網方案，無限流量吃到飽"
+  description: "計畫去德國長途旅行需要穩定上網？Roami 30天eSIM上網方案最適合，5G高速網路吃到飽一整月。跨國上網不斷線，自駕旅遊隨時連線，長途旅行首選方案推薦。"
   keywords: 德國 eSIM,德國上網卡,德國網路覆蓋,柏林eSIM,慕尼黑eSIM,法蘭克福eSIM,德國行動網路
 order_summary:
   title: 選擇 德國 eSIM

@@ -1,6 +1,6 @@
 ---
 title: 阿根廷 eSIM 方案 | 阿根廷 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "阿根廷 eSIM | 出國上網高速 5G 超方便"
-  description: "在阿根廷享受高速 5G 上網體驗。Roami 讓您導航追劇直播打卡都暢行無阻，完全不用擔心流量不夠用或是訊號不穩定的問題。覆蓋 全區。"
+  title: "阿根廷eSIM｜15天10G吃到飽，免實名認證"
+  description: "想在阿根廷深度旅遊半個月？Roami 15天eSIM深度旅遊網路方案剛剛好。5G高速上網吃到飽慢慢玩慢慢逛網路不斷線，深度旅行推薦必備方案，一卡搞定超方便。"
   keywords: 阿根廷 eSIM, 阿根廷上網卡, 阿根廷旅遊, 布宜諾斯艾利斯網路, Claro, Movistar, Personal, 南美洲上網
 order_summary:
   title: 選擇 阿根廷 eSIM

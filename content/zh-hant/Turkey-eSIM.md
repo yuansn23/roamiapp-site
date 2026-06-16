@@ -1,6 +1,6 @@
 ---
 title: 土耳其 eSIM 方案 | 土耳其 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "土耳其 eSIM | 5G 流量吃到飽方案超划算"
-  description: "去土耳其旅行帶 Roami eSIM 就足夠了。不用更換 SIM 卡也不用開通國際漫遊，一隻手機就能搞定所有上網需求。輕鬆出國隨時保持連線。覆蓋 伊斯坦堡、安塔利亞及土耳其里維埃拉。"
+  title: "土耳其eSIM｜5G上網$1.99起，商務旅遊首選"
+  description: "推薦去土耳其旅行用Roami eSIM出國上網，最低$1.99起就能享受5G高速網路。出國上網推薦超值選擇，划算又好用簡單又方便，查地圖打卡分享都不卡頓。"
   keywords: 土耳其 eSIM, 土耳其網路覆蓋, 土耳其旅遊, 伊斯坦堡 eSIM, 土耳其行動網路, Turkcell, Vodafone, Türk
     Telekom
 order_summary:

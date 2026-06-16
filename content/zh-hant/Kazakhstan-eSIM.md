@@ -1,6 +1,6 @@
 ---
 title: 哈薩克 eSIM 方案 | 哈薩克 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "哈薩克 eSIM | 流量吃到飽免合約最自由"
-  description: "Roami 在哈薩克提供真正的無合約上網體驗。不綁約也不會自動續約，旅行結束網路服務就跟著結束。簡單又透明，讓您專心享受美好旅程。覆蓋 全區。"
+  title: "哈薩克eSIM｜30天25G吃到飽，免實名認證"
+  description: "去哈薩克商務出差需要穩定網路？Roami 30天5G高速上網吃到飽方案商務出差首選。視訊會議郵件收發都順暢不斷線，商務eSIM推薦出差必備，最低$1.99起超值價格。"
   keywords: 哈薩克 eSIM, 哈薩克網路覆蓋, Beeline 哈薩克, Kcell 哈薩克, Tele2 哈薩克, 阿拉木圖景點, 阿斯塔納旅遊,
     哈薩克叫車 App, Yandex Go 哈薩克
 order_summary:

@@ -1,6 +1,6 @@
 ---
 title: 亞美尼亞 eSIM 方案 | 亞美尼亞 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "亞美尼亞 eSIM | 5G 高速隨時連線不限速"
-  description: "去亞美尼亞旅行想找便宜的 eSIM 上網方案嗎？Roami 提供最優惠的預付卡價格，沒有任何隱藏費用也不犧牲品質，出發前線上購買抵達目的地馬上就能使用，省錢又方便。覆蓋 全區。"
+  title: "亞美尼亞eSIM｜5G吃到飽$1.99起，出國上網省錢必備"
+  description: "Roami eSIM提供亞美尼亞出國5G吃到飽方案最低只要$1.99起，超值價格享受高速網路。便宜eSIM預付卡推薦出國上網省錢必備方案，划算又好用簡單又方便。"
   keywords: 亞美尼亞eSIM, 亞美尼亞網路覆蓋, 亞美尼亞旅遊, 亞美尼亞上網, Ucom, Beeline, Viva-MTS
 order_summary:
   title: 選擇 亞美尼亞 eSIM

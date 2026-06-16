@@ -1,6 +1,6 @@
 ---
 title: 摩洛哥 eSIM 方案 | 摩洛哥 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "摩洛哥 eSIM | 流量吃到飽免綁約隨時停"
-  description: "想要 摩洛哥 的 eSIM 嗎？Roami 直接把 QR Code 寄到您的信箱。免運費不用出門，在家裡就能搞定出國上網的所有準備工作，輕鬆又省事。覆蓋 全區。"
+  title: "摩洛哥eSIM｜免綁約5G上網，吃到飽不降速"
+  description: "Roami eSIM免綁約5G上網方案在摩洛哥提供高速穩定的出國網路卡體驗。不用簽合約不用綁約出國上網輕鬆無負擔，旅行結束自動失效超省心，即買即用超方便。"
   keywords: 摩洛哥 eSIM, 摩洛哥網路覆蓋, 摩洛哥旅遊, 摩洛哥景點, 卡薩布蘭卡, 馬拉喀什
 order_summary:
   title: 選擇 摩洛哥 eSIM

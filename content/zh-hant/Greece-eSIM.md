@@ -1,6 +1,6 @@
 ---
 title: 希臘 eSIM 方案 | 希臘 eSIM | Roami
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -18,8 +18,8 @@ modal:
   text_android: |-
     我們的 eSIM 服務已升級至 <strong>PhoneSIM</strong>。<br>新客戶使用代碼可享 20% 折扣：web20
 seo:
-  title: "希臘 eSIM | 流量吃到飽即時通超方便"
-  description: "線上購買 希臘 的 Roami eSIM 只要短短幾分鐘。安全付款後馬上就能收到 QR Code，不用等待運送也不用親自跑門市，方便又快速，輕鬆搞定。覆蓋 全區。"
+  title: "希臘eSIM｜5G上網$1.99起，吃到飽不降速"
+  description: "Roami eSIM免綁約方案提供希臘5G上網，最低只要$1.99起超值價格。便宜出國上網推薦免綁約方案，免實名認證免綁約，線上購買秒收QR Code即開即用超方便。"
   keywords: 希臘 eSIM, 希臘網路覆蓋, 希臘旅遊, 雅典景點, 聖托里尼, 希臘行動網路, Cosmote, Vodafone, Wind
 order_summary:
   title: 選擇 希臘 eSIM
