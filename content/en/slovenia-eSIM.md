@@ -1,6 +1,6 @@
 ---
 title: slovenia eSIM Data Plan | Best 2026 Travel eSIM | Roami
-date: '2026-06-11T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
