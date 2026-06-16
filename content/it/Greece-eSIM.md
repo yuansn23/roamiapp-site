@@ -1,12 +1,11 @@
 ---
-title: eSIM Grecia Dati | Migliore eSIM viaggio 2026 | Roami
-date: '2026-06-14T00:00:00+00:00'
+title: 'eSIM Grecia 2026: Operatori & Copertura | Roami'
+date: '2026-06-15T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: eSIM Grecia
-  scenario_keywords: vacanze al mare, crociera nelle isole, tour archeologico, viaggio
-    d'affari, weekend romantico
+  scenario_keywords: vacanze al mare, crociera nelle isole, tour archeologico, viaggio d'affari, weekend romantico
   operators: Cosmote, Vodafone GR, Wind Tre
   competitors: Airalo, Holafly, Nomad, eSIM.net, Ubigi
   main_cities: Atene, Salonicco, Candia, Patrasso, Larissa
@@ -14,15 +13,15 @@ country_meta:
 modal:
   title: Aggiornamento del servizio!
   btn_text: Continua
-  text_default: |-
-    Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIMGo</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
-  text_android: |-
-    Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20% di sconto con codice: web20
+  text_default: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIMGo</strong>.<br>I nuovi clienti ricevono il
+    20% di sconto con codice: web20'
+  text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
+    di sconto con codice: web20'
 seo:
   title: "Grecia eSIM | Compra al miglior prezzo online"
   description: "Acquista la tua eSIM Roami per Grecia comodamente da casa. Valida subito, pronta all'arrivo. Facile e veloce. Copre tutte le regioni."
-  keywords: eSIM Grecia, viaggio Grecia, internet Grecia, roaming Grecia, ricaricabile
-    Grecia
+  keywords: eSIM Grecia, piano eSIM Grecia, migliore eSIM Grecia, Grecia dati, Cosmote Grecia, Vodafone GR Grecia, Wind Tre
+    Grecia, eSIM Atene, eSIM Salonicco, eSIM Candia, internet mobile Grecia, 5G Grecia
 order_summary:
   title: Piano selezionato
   label_data: Volume dati
@@ -42,37 +41,36 @@ banner:
 hero:
   flag_image: img/flags/gr.svg
   flag_alt: Bandiera di Grecia
-  title: eSIM Grecia – eSIM prepagata
-  subtitle: Attivazione in 1 minuto | Accesso 5G prioritario | Nessun documento d'identità
-    richiesto
+  title: 'eSIM Grecia 2026: Rete Affidabile per Viaggiatori'
+  subtitle: Attivazione immediata | 5G veloce | Supporto 24/7 - la migliore eSIM prepagata per Grecia
 features:
-  title: Perché i viaggiatori scelgono l'eSIM Roami per Grecia
+  title: 'Perché i viaggiatori scelgono Roami per Grecia: Rete, Piani & Prezzo'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
     title: Codice QR immediato
-    desc: Consegna in meno di 5 minuti
+    desc: Ricevi il tuo codice QR Grecia eSIM via email in 5 minuti
   - icon: headset
     color: from-emerald-400 to-emerald-600
     title: Supporto 24/7
-    desc: Sempre qui per te
+    desc: Supporto 24/7 per il tuo viaggio in Grecia - persone reali, non bot
   - icon: shield-check
     color: from-amber-400 to-amber-600
     title: Garanzia
-    desc: Protezione dell'acquirente garantita
+    desc: Rimborso 100% se la tua eSIM Grecia non si attiva
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: Hotspot consentito
-    desc: Condividi i dati con altri
+    desc: Condividi i tuoi dati Grecia con i compagni di viaggio, senza limiti
   - icon: file-x
     color: from-rose-400 to-rose-600
     title: Nessun contratto
-    desc: Disdici in qualsiasi momento
+    desc: Niente contratti, annullabile in qualsiasi momento - perfetto per viaggi in Grecia
   - icon: radio-tower
     color: from-blue-400 to-blue-600
     title: Selezione automatica
-    desc: Migliori reti locali
-plans_title: Scegli il tuo piano
+    desc: Connessione automatica ai migliori operatori Grecia per il segnale più forte
+plans_title: 'Acquista eSIM Grecia: Piani per Ogni Viaggio'
 plans_data:
   30 Giorni:
   - spec: 20GB
@@ -292,12 +290,13 @@ plans_data:
     daily: '3.33'
 discount_banner:
   title: Sconto speciale sull'eSIM Grecia!
-  desc_html: |-
-    Usa il codice <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> al checkout per ottenere <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% DI SCONTO</span>!
+  desc_html: Usa il codice <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span>
+    al checkout per ottenere <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% DI
+    SCONTO</span>!
   btn_text: Salva lo sconto
   validity: 'Valido: 3 giorni'
 network_coverage:
-  title: Dettagli copertura di rete eSIM Grecia
+  title: 'Copertura eSIM Grecia: Copertura & Confronto Operatori'
   supports_text: 'Supporta:'
   service_details:
     title: Dettagli del servizio
@@ -305,9 +304,8 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Copertura
-      desc: Goditi una copertura di rete completa in tutta Grecia, comprese città
-        come Atene, Salonicco, Candia e Patrasso. La nostra eSIM Grecia si connette
-        perfettamente alle reti di Cosmote, Vodafone GR e Wind Tre.
+      desc: Goditi una copertura di rete completa in tutta Grecia, inclusi Atene, Salonicco, Candia, Patrasso. La tua eSIM
+        si collega alle reti robuste di Cosmote, Vodafone GR, Wind Tre.
     - icon: zap
       color: text-amber-500
       title: Tempo di consegna
@@ -317,24 +315,24 @@ network_coverage:
       title: Hotspot
       desc: Nessuna limitazione hotspot.
   carriers:
-    title: Reti mobili
+    title: 'Cosmote, Vodafone GR & Wind Tre: Operatori eSIM Grecia'
     badge: Partner ufficiale
     items:
     - name: Cosmote
-      coverage: Ampia copertura
+      coverage: Migliore copertura complessiva
       network: Rete 5G/4G/LTE
     - name: Vodafone GR
-      coverage: Bassa latenza
+      coverage: 5G veloce nelle città
       network: Rete 5G/4G/LTE
     - name: Wind Tre
-      coverage: IP nativo
+      coverage: Buona copertura urbana
       network: Rete 5G/4G/LTE
 reminders:
-  title: Avvisi importanti per l'eSIM Grecia
+  title: 'Consigli eSIM Grecia: Cosa Sapere Prima di Partire'
   items:
   - icon: 📱
-    html: |-
-      Verifica la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">compatibilità eSIM</a> del tuo telefono prima dell'acquisto.
+    html: Verifica la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold
+      transition-colors">compatibilità eSIM</a> del tuo telefono prima dell'acquisto.
   - icon: ✈️
     html: Consigliamo di attivare l'eSIM solo dopo l'arrivo in Grecia.
   - icon: ⏰
@@ -348,18 +346,16 @@ reminders:
     desc: 'Non sei sicuro? Controllalo subito sul tuo telefono:'
     instruction: 'Digita sulla tastiera:'
     code: '*#06#'
-    result_html: |-
-      Se appare un numero <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>, l'eSIM è supportata!
+    result_html: Se appare un numero <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200
+      font-bold">EID</span>, l'eSIM è supportata!
 activation_steps:
-  title: Attiva la tua eSIM Grecia in pochi minuti
+  title: 'Attivazione eSIM Grecia: 3 Semplici Passi'
   steps:
   - num: '1'
     title: Ricevi e salva il codice QR – pronto per Grecia
-    desc: Subito dopo l'ordine riceverai un'email con il tuo codice QR di attivazione
-      personale e le istruzioni di configurazione. Salva il codice QR sul tuo smartphone
-      o stampalo – non hai bisogno di una connessione Internet attiva per l'installazione
-      successiva. L'eSIM è valida per 30 giorni, quindi puoi prepararla con calma
-      prima della partenza per Grecia.
+    desc: Subito dopo l'ordine riceverai un'email con il tuo codice QR di attivazione personale e le istruzioni di configurazione.
+      Salva il codice QR sul tuo smartphone o stampalo – non hai bisogno di una connessione Internet attiva per l'installazione
+      successiva. L'eSIM è valida per 30 giorni, quindi puoi prepararla con calma prima della partenza per Grecia.
     is_list: false
   - num: '2'
     title: Installa l'eSIM sul tuo dispositivo - Scansiona il codice QR
@@ -369,32 +365,25 @@ activation_steps:
     - Tocca **"Aggiungi eSIM"** o **"Aggiungi piano cellulare"**
     - Scegli **"Scansiona codice QR"** e inquadra il codice con la fotocamera
     - Il profilo eSIM Grecia verrà caricato automaticamente – tocca **"Continua"**
-    - Assegna un nome (es. "Roami Grecia") e impostala come **predefinita per i dati
-      mobili**
+    - Assegna un nome (es. "Roami Grecia") e impostala come **predefinita per i dati mobili**
     - L'eSIM è ora installata ma **inattiva** – perfetta per la preparazione al viaggio
   - num: '3'
     title: Preparazione a casa – test senza rischi
-    desc: Dopo l'installazione puoi lasciare l'eSIM disattivata nelle impostazioni.
-      Tuttavia, puoi già testarla con il Wi-Fi di casa (non verranno consumati dati
-      mobili). Non appena atterri in Grecia, attiva l'eSIM – la validità inizierà
-      automaticamente al primo collegamento con la rete di Cosmote / Vodafone GR.
-      Nessuna tassa di attivazione nascosta, nessun costo di roaming.
+    desc: Dopo l'installazione puoi lasciare l'eSIM disattivata nelle impostazioni. Tuttavia, puoi già testarla con il Wi-Fi
+      di casa (non verranno consumati dati mobili). Non appena atterri in Grecia, attiva l'eSIM – la validità inizierà automaticamente
+      al primo collegamento con la rete di Cosmote / Vodafone GR. Nessuna tassa di attivazione nascosta, nessun costo di roaming.
     is_list: false
   - num: '4'
     title: 'Arrivo in Grecia: subito online con 5G/4G'
-    desc: Non appena atterrato in Grecia (ad esempio in Aeroporto Internazionale di
-      Atene, Aeroporto di Salonicco, Aeroporto di Candia), disattiva la modalità aereo
-      (o rimani in modalità aereo e attiva solo l'eSIM). Vai su **Impostazioni → Cellulare**
-      e attiva la tua eSIM Roami Grecia. Entro pochi secondi il tuo dispositivo si
-      collegherà automaticamente alla rete 5G/4G più veloce disponibile di Cosmote
-      / Vodafone GR. Potrai subito navigare, usare WhatsApp, controllare i social
-      media o configurare un hotspot per altri dispositivi – senza attesa, senza documenti,
-      senza contratto.
+    desc: Non appena atterrato in Grecia (ad esempio in Aeroporto Internazionale di Atene, Aeroporto di Salonicco, Aeroporto
+      di Candia), disattiva la modalità aereo (o rimani in modalità aereo e attiva solo l'eSIM). Vai su **Impostazioni → Cellulare**
+      e attiva la tua eSIM Roami Grecia. Entro pochi secondi il tuo dispositivo si collegherà automaticamente alla rete 5G/4G
+      più veloce disponibile di Cosmote / Vodafone GR. Potrai subito navigare, usare WhatsApp, controllare i social media
+      o configurare un hotspot per altri dispositivi – senza attesa, senza documenti, senza contratto.
     is_list: false
 faq_section1:
   title: FAQ eSIM Grecia e Guida di Viaggio
-  desc: Tutto ciò che devi sapere sull'uso della tua eSIM Grecia in diversi scenari
-    di viaggio.
+  desc: Tutto ciò che devi sapere sull'uso della tua eSIM Grecia in diversi scenari di viaggio.
   categories:
   - id: faq-general
     icon: help-circle
@@ -402,48 +391,37 @@ faq_section1:
     title: 1. Domande Generali
     questions:
     - q: Il mio smartphone supporta l'eSIM per Grecia e come la installo?
-      a: Sì, la maggior parte degli smartphone moderni (iPhone XS/XR o successivi,
-        Samsung Galaxy S20+/Note20+, Google Pixel 3a+) supportano l'eSIM. Installa
-        l'eSIM Grecia scansionando il codice QR nelle impostazioni cellulari. Le reti
-        di Cosmote / Vodafone GR offrono un'eccellente copertura 5G/4G in Grecia.
+      a: Sì, la maggior parte degli smartphone moderni (iPhone XS/XR o successivi, Samsung Galaxy S20+/Note20+, Google Pixel
+        3a+) supportano l'eSIM. Installa l'eSIM Grecia scansionando il codice QR nelle impostazioni cellulari. Le reti di
+        Cosmote / Vodafone GR offrono un'eccellente copertura 5G/4G in Grecia.
     - q: Quali reti 5G/4G utilizza l'eSIM per Grecia e com'è la copertura?
-      a: L'eSIM Grecia lavora esclusivamente con Cosmote / Vodafone GR. Riceverai
-        automaticamente la migliore rete disponibile (5G/4G/LTE) con la migliore copertura
-        nelle città come Roma, Milano, Napoli e anche in campagna e lungo le autostrade.
+      a: L'eSIM Grecia lavora esclusivamente con Cosmote / Vodafone GR. Riceverai automaticamente la migliore rete disponibile
+        (5G/4G/LTE) con la migliore copertura nelle città come Roma, Milano, Napoli e anche in campagna e lungo le autostrade.
     - q: Per quanto tempo è valido il codice QR per l'eSIM Grecia?
-      a: Il codice QR è valido per 30 giorni dopo che te lo abbiamo inviato via email.
-        Hai quindi tempo sufficiente per installare l'eSIM prima del viaggio. Dopo
-        la scadenza possiamo emettere un nuovo codice.
-    - q: Quali sono i vantaggi dell'eSIM Roami rispetto alle SIM locali prepagate
-        in Grecia?
-      a: A differenza delle SIM locali prepagate, eviti di andare in negozio, la registrazione
-        dell'identità (KYC) e la ricerca di una ricarica adatta. Con Roami attivi
-        l'eSIM digitalmente in meno di 2 minuti – nessuna coda in aeroporto.
+      a: Il codice QR è valido per 30 giorni dopo che te lo abbiamo inviato via email. Hai quindi tempo sufficiente per installare
+        l'eSIM prima del viaggio. Dopo la scadenza possiamo emettere un nuovo codice.
+    - q: Quali sono i vantaggi dell'eSIM Roami rispetto alle SIM locali prepagate in Grecia?
+      a: A differenza delle SIM locali prepagate, eviti di andare in negozio, la registrazione dell'identità (KYC) e la ricerca
+        di una ricarica adatta. Con Roami attivi l'eSIM digitalmente in meno di 2 minuti – nessuna coda in aeroporto.
     - q: Posso installare l'eSIM Grecia prima della partenza e attivarla successivamente?
-      a: Sì, puoi installare l'eSIM già a casa (tramite Wi-Fi). L'attivazione avviene
-        automaticamente quando il tuo telefono si connette per la prima volta alla
-        rete di Cosmote / Vodafone GR in Grecia. Così eviti qualsiasi stress all'atterraggio.
+      a: Sì, puoi installare l'eSIM già a casa (tramite Wi-Fi). L'attivazione avviene automaticamente quando il tuo telefono
+        si connette per la prima volta alla rete di Cosmote / Vodafone GR in Grecia. Così eviti qualsiasi stress all'atterraggio.
     - q: Quanto è sicura l'eSIM Grecia rispetto a una SIM fisica?
-      a: Le eSIM sono più resistenti alle manomissioni, poiché sono integrate nel
-        dispositivo e non possono essere rimosse o copiate. I tuoi dati rimangono
-        crittografati – nessun rischio di SIM persa o rubata.
+      a: Le eSIM sono più resistenti alle manomissioni, poiché sono integrate nel dispositivo e non possono essere rimosse
+        o copiate. I tuoi dati rimangono crittografati – nessun rischio di SIM persa o rubata.
     - q: Quanto costa l'eSIM per Grecia e ci sono offerte sconto?
-      a: Il nostro piano eSIM Grecia parte da soli $1,99/GB. Con il codice promozionale
-        'web20' ottieni il 20% di sconto su ogni ordine – valido per tutti i piani.
-        Nessuna tassa nascosta, nessun vincolo di durata minima.
+      a: Il nostro piano eSIM Grecia parte da soli $1,99/GB. Con il codice promozionale 'web20' ottieni il 20% di sconto su
+        ogni ordine – valido per tutti i piani. Nessuna tassa nascosta, nessun vincolo di durata minima.
     - q: Come attivo l'eSIM per Grecia e quando inizia la validità?
-      a: Dopo l'acquisto riceverai immediatamente un codice QR di attivazione via
-        email. La validità inizia solo quando il tuo telefono si connette per la prima
-        volta a una delle reti partner (Cosmote / Vodafone GR) in Grecia. Paghi solo
+      a: Dopo l'acquisto riceverai immediatamente un codice QR di attivazione via email. La validità inizia solo quando il
+        tuo telefono si connette per la prima volta a una delle reti partner (Cosmote / Vodafone GR) in Grecia. Paghi solo
         per i giorni che trascorri effettivamente sul posto.
     - q: Posso installare l'eSIM per Grecia anche senza codice QR?
-      a: Sì, oltre al codice QR, puoi installare l'eSIM manualmente inserendo l'indirizzo
-        SM-DP+ e il codice di attivazione (entrambi si trovano nella tua conferma
-        d'ordine). Il codice QR è comunque il metodo più rapido e semplice.
+      a: Sì, oltre al codice QR, puoi installare l'eSIM manualmente inserendo l'indirizzo SM-DP+ e il codice di attivazione
+        (entrambi si trovano nella tua conferma d'ordine). Il codice QR è comunque il metodo più rapido e semplice.
     - q: Posso mantenere il mio numero di telefono attuale mentre uso l'eSIM per Grecia?
-      a: 'L''eSIM Roami è una eSIM solo dati. Puoi usare la tua SIM domestica in parallelo
-        (ad es. per chiamate/SMS). La maggior parte dei telefoni dual-SIM gestisce
-        entrambi i profili: imposta semplicemente l''eSIM Roami come predefinita per
+      a: 'L''eSIM Roami è una eSIM solo dati. Puoi usare la tua SIM domestica in parallelo (ad es. per chiamate/SMS). La maggior
+        parte dei telefoni dual-SIM gestisce entrambi i profili: imposta semplicemente l''eSIM Roami come predefinita per
         i dati mobili.'
   - id: faq-airport
     icon: plane
@@ -451,206 +429,186 @@ faq_section1:
     title: 2. Rete Aeroportuale
     questions:
     - q: Come posso ottenere una rete affidabile subito dopo l'atterraggio?
-      a: Installa l'eSIM Grecia prima del volo. Non appena atterri in aeroporti come
-        Aeroporto Internazionale di Atene, Aeroporto di Salonicco, Aeroporto di Candia,
-        disattiva la modalità aereo e attiva la tua eSIM. Si collegherà in pochi secondi
+      a: Installa l'eSIM Grecia prima del volo. Non appena atterri in aeroporti come Aeroporto Internazionale di Atene, Aeroporto
+        di Salonicco, Aeroporto di Candia, disattiva la modalità aereo e attiva la tua eSIM. Si collegherà in pochi secondi
         alla rete 4G/5G locale.
     - q: Come contatto la persona che viene a prendermi o uso Uber/Grab?
-      a: Dopo l'attivazione all'atterraggio, puoi utilizzare app come Beat, Uber,
-        FreeNow per prenotare una corsa o WhatsApp per contattare il tuo autista,
-        senza affidarti al Wi-Fi insicuro dell'aeroporto.
+      a: Dopo l'attivazione all'atterraggio, puoi utilizzare app come Beat, Uber, FreeNow per prenotare una corsa o WhatsApp
+        per contattare il tuo autista, senza affidarti al Wi-Fi insicuro dell'aeroporto.
     - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM Grecia, puoi controllare in tempo reale gli orari di
-        treni e autobus direttamente al ritiro bagagli in Aeroporto Internazionale
-        di Atene, Aeroporto di Salonicco, Aeroporto di Candia o trovare la strada
-        per il parcheggio dei taxi.
+      a: Con i tuoi dati eSIM Grecia, puoi controllare in tempo reale gli orari di treni e autobus direttamente al ritiro
+        bagagli in Aeroporto Internazionale di Atene, Aeroporto di Salonicco, Aeroporto di Candia o trovare la strada per
+        il parcheggio dei taxi.
     - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM Grecia online in anticipo, eviti completamente
-        i costosi chioschi SIM nell'area arrivi, risparmiando tempo e denaro.
+      a: Acquistando la nostra eSIM Grecia online in anticipo, eviti completamente i costosi chioschi SIM nell'area arrivi,
+        risparmiando tempo e denaro.
     - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM Grecia è solo dati. Per ricevere SMS, lascia attiva la tua
-        SIM domestica (la ricezione SMS in roaming è spesso gratuita) e usa l'eSIM
-        per tutto il traffico dati.
+      a: La nostra eSIM Grecia è solo dati. Per ricevere SMS, lascia attiva la tua SIM domestica (la ricezione SMS in roaming
+        è spesso gratuita) e usa l'eSIM per tutto il traffico dati.
     - q: Come contatto immediatamente la mia famiglia?
-      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi
-        dati eSIM Grecia per far sapere ai tuoi cari che sei arrivato sano e salvo.
+      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi dati eSIM Grecia per far sapere ai tuoi
+        cari che sei arrivato sano e salvo.
   - id: faq-transport
     icon: car
     tab_title: Trasporti
     title: 3. Trasporti e Viaggi
     questions:
     - q: Come uso Google Maps per pianificare il percorso?
-      a: La nostra stabile connessione eSIM Grecia garantisce che Google Maps possa
-        caricare i dati sul traffico in tempo reale e gli orari ovunque in Grecia.
+      a: La nostra stabile connessione eSIM Grecia garantisce che Google Maps possa caricare i dati sul traffico in tempo
+        reale e gli orari ovunque in Grecia.
     - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: App come Beat, Uber, FreeNow usano VoIP. Poiché hai dati eSIM Grecia attivi,
-        gli autisti possono chiamarti o inviarti notifiche direttamente tramite l'app,
-        senza bisogno di un numero locale.
+      a: App come Beat, Uber, FreeNow usano VoIP. Poiché hai dati eSIM Grecia attivi, gli autisti possono chiamarti o inviarti
+        notifiche direttamente tramite l'app, senza bisogno di un numero locale.
     - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM Grecia per acquistare biglietti digitali con codice
-        QR nelle app locali, evitando lunghe code alle biglietterie automatiche.
+      a: Usa i tuoi dati eSIM Grecia per acquistare biglietti digitali con codice QR nelle app locali, evitando lunghe code
+        alle biglietterie automatiche.
     - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM Grecia. Un piano da 5GB o 10GB è sufficiente
-        per un'ampia navigazione GPS durante un viaggio su strada in Grecia.
+      a: Monta il telefono e usa la tua eSIM Grecia. Un piano da 5GB o 10GB è sufficiente per un'ampia navigazione GPS durante
+        un viaggio su strada in Grecia.
     - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
-      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra
-        eSIM Grecia offre la copertura affidabile necessaria.
+      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra eSIM Grecia offre la copertura affidabile
+        necessaria.
     - q: Le app di ride-hailing funzionano oltre confine?
-      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione
-        Internet attiva tramite la nostra eSIM locale o regionale.
+      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione Internet attiva tramite la nostra eSIM
+        locale o regionale.
     - q: Come offro un hotspot stabile per la mia famiglia?
-      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può
-        connettersi alla tua rete eSIM Grecia sul treno o in auto.
+      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può connettersi alla tua rete eSIM Grecia
+        sul treno o in auto.
   - id: faq-hotels
     icon: hotel
     tab_title: Hotel
     title: 4. Hotel e Alloggi
     questions:
     - q: Come faccio il self-check-in dopo la prenotazione?
-      a: Molte strutture moderne inviano codici per serrature intelligenti via email.
-        La tua eSIM Grecia ti garantisce di poter recuperare questi dettagli direttamente
-        davanti alla porta.
+      a: Molte strutture moderne inviano codici per serrature intelligenti via email. La tua eSIM Grecia ti garantisce di
+        poter recuperare questi dettagli direttamente davanti alla porta.
     - q: Come contatto il mio host Airbnb al mio arrivo?
-      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare
-        l'orario di arrivo con il tuo host tramite i dati mobili eSIM Grecia.
+      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare l'orario di arrivo con il tuo host tramite
+        i dati mobili eSIM Grecia.
     - q: Come uso Google Maps per navigare verso l'hotel?
-      a: Che tu alloggi in Hotel Grande Bretagne, Aria Hotels, Blue Palace Resort,
-        inserisci l'indirizzo in Google Maps e usa la navigazione della tua eSIM Grecia.
+      a: Che tu alloggi in Hotel Grande Bretagne, Aria Hotels, Blue Palace Resort, inserisci l'indirizzo in Google Maps e
+        usa la navigazione della tua eSIM Grecia.
     - q: Come ricevo i codici di verifica SMS?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM Grecia
-        per ricevere codici via email o app di autenticazione.
+      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM Grecia per ricevere codici via email o app
+        di autenticazione.
     - q: Come contatto rapidamente l'assistenza clienti?
-      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i
-        tuoi dati ad alta velocità eSIM Grecia.
+      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i tuoi dati ad alta velocità eSIM Grecia.
     - q: Come ordino cibo con app di consegna locali?
-      a: Scarica eFood, Wolt, Box e usa i tuoi dati eSIM Grecia per ordinare un pasto
-        caldo direttamente nella hall dell'hotel.
+      a: Scarica eFood, Wolt, Box e usa i tuoi dati eSIM Grecia per ordinare un pasto caldo direttamente nella hall dell'hotel.
     - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM Grecia subentra, permettendoti
-        di scrivere all'hotel se hai dimenticato qualcosa.
+      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM Grecia subentra, permettendoti di scrivere all'hotel se hai dimenticato
+        qualcosa.
   - id: faq-attractions
     icon: landmark
     tab_title: Attrazioni
     title: 5. Attrazioni e Intrattenimento
     questions:
     - q: Come acquisto biglietti elettronici su GetYourGuide/Viator?
-      a: Se vuoi visitare Acropoli di Atene, Santorini, Meteore all'ultimo minuto,
-        puoi usare i tuoi dati eSIM Grecia per acquistare biglietti online e mostrare
-        il codice a barre direttamente.
+      a: Se vuoi visitare Acropoli di Atene, Santorini, Meteore all'ultimo minuto, puoi usare i tuoi dati eSIM Grecia per
+        acquistare biglietti online e mostrare il codice a barre direttamente.
     - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM Grecia, puoi leggere recensioni e prenotare
-        tour locali mentre sei seduto in un bar.
+      a: Con l'affidabile 4G/5G della tua eSIM Grecia, puoi leggere recensioni e prenotare tour locali mentre sei seduto in
+        un bar.
     - q: Come uso Wikipedia/Google per informazioni durante la visita?
-      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google
-        o traducendo i cartelli dei musei mentre esplori Grecia.
+      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google o traducendo i cartelli dei musei mentre
+        esplori Grecia.
     - q: Come trovo la strada per l'attrazione successiva?
-      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura
-        della tua eSIM Grecia ti guiderà lungo il percorso più veloce.
+      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura della tua eSIM Grecia ti guiderà lungo
+        il percorso più veloce.
     - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
-      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa
-        in tempo reale. La tua eSIM Grecia ti mantiene online in tutto il parco.
+      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa in tempo reale. La tua eSIM Grecia ti
+        mantiene online in tutto il parco.
     - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
-      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite
-        app di ticketing con i tuoi dati eSIM Grecia.
+      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite app di ticketing con i tuoi dati eSIM Grecia.
     - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM Grecia ti permettono di pubblicare
-        Reel e foto in tempo reale, senza aspettare il Wi-Fi dell'hotel.
+      a: Le nostre veloci velocità di upload eSIM Grecia ti permettono di pubblicare Reel e foto in tempo reale, senza aspettare
+        il Wi-Fi dell'hotel.
   - id: faq-social
     icon: smartphone
     tab_title: Social Media
     title: 6. Social Media e Comunicazione
     questions:
     - q: Come utilizzo WhatsApp/Telegram in modo stabile all'estero?
-      a: I tuoi account sono legati al tuo numero di casa. Con la nostra eSIM Grecia
-        come fonte Internet, puoi chattare e chiamare esattamente come a casa.
+      a: I tuoi account sono legati al tuo numero di casa. Con la nostra eSIM Grecia come fonte Internet, puoi chattare e
+        chiamare esattamente come a casa.
     - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM Grecia 4G/5G
-        offre la larghezza di banda per caricamenti rapidi.
+      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM Grecia 4G/5G offre la larghezza di banda per caricamenti
+        rapidi.
     - q: Come faccio videochiamate con la mia famiglia?
-      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM
-        Grecia siano chiare e senza ritardi, ovunque ti trovi nel paese.
+      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM Grecia siano chiare e senza ritardi,
+        ovunque ti trovi nel paese.
     - q: È sicuro accedere ai social network su Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM
-        Grecia personali è crittografato e molto più sicuro.
+      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM Grecia personali è crittografato e molto
+        più sicuro.
     - q: Come condivido la rete come hotspot con i compagni di viaggio?
-      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare
-        il tuo volume dati eSIM Grecia per i loro social media.
+      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare il tuo volume dati eSIM Grecia per i loro
+        social media.
   - id: faq-crossborder
     icon: globe
     tab_title: Transfrontaliero
     title: 7. Viaggi Transfrontalieri
     questions:
     - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per Grecia funziona solo lì. Per viaggiare attraverso più
-        paesi, consigliamo la nostra eSIM Regionale (ad es. eSIM Europa).
+      a: L'eSIM singola per Grecia funziona solo lì. Per viaggiare attraverso più paesi, consigliamo la nostra eSIM Regionale
+        (ad es. eSIM Europa).
     - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
-      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM
-        Grecia sia impostata come linea dati primaria.
+      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM Grecia sia impostata come linea dati primaria.
     - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
-      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere
-        online durante lo scalo.
+      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere online durante lo scalo.
     - q: Come ottengo Internet sulle navi da crociera?
-      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per
-        i paesi che visiterai. Si collegherà non appena sarai vicino alla terraferma.
+      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per i paesi che visiterai. Si collegherà non
+        appena sarai vicino alla terraferma.
     - q: Come rimane online Google Maps durante i viaggi su strada?
-      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del
-        nuovo paese quando superi il confine, mantenendo attivo il GPS.
+      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del nuovo paese quando superi il confine,
+        mantenendo attivo il GPS.
     - q: Come gestisco i dati per più paesi in una sola app?
-      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente
-        tramite il nostro dashboard utente sul sito Web.
+      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente tramite il nostro dashboard utente sul sito
+        Web.
     - q: Come posso essere reperibile durante i viaggi attraverso più paesi?
-      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce
-        di essere sempre raggiungibile allo stesso numero.
+      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce di essere sempre raggiungibile allo
+        stesso numero.
   - id: faq-emergency
     icon: alert-triangle
     tab_title: Emergenze
     title: 8. Emergenze
     questions:
     - q: Come si compongono i numeri di emergenza locali?
-      a: In Grecia puoi comporre direttamente numeri di emergenza come 112 (numero
-        unico di emergenza), 100 (polizia), 166 (ambulanza), purché il telefono riceva
-        un segnale cellulare.
+      a: In Grecia puoi comporre direttamente numeri di emergenza come 112 (numero unico di emergenza), 100 (polizia), 166
+        (ambulanza), purché il telefono riceva un segnale cellulare.
     - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM Grecia consentono una ricerca immediata su Google Maps di
-        'farmacia' o 'ospedale' con il percorso più veloce.
+      a: I tuoi dati eSIM Grecia consentono una ricerca immediata su Google Maps di 'farmacia' o 'ospedale' con il percorso
+        più veloce.
     - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM Grecia per trovare rapidamente l'indirizzo e il contatto
-        di emergenza della tua ambasciata.
+      a: Usa la tua eSIM Grecia per trovare rapidamente l'indirizzo e il contatto di emergenza della tua ambasciata.
     - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM Grecia per chiamare le linee
-        di assistenza della tua assicurazione.
+      a: Usa app VoIP come Skype tramite i tuoi dati eSIM Grecia per chiamare le linee di assistenza della tua assicurazione.
     - q: Come condivido la mia posizione in tempo reale?
-      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare
-        le tue coordinate tramite i dati eSIM Grecia.
+      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare le tue coordinate tramite i dati eSIM
+        Grecia.
     - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM Grecia per caricare mappe offline
-        in Google Maps prima di recarti in aree senza segnale.
+      a: Usa la copertura cittadina della tua eSIM Grecia per caricare mappe offline in Google Maps prima di recarti in aree
+        senza segnale.
   - id: faq-business
     icon: briefcase
     tab_title: Business
     title: 9. Business e Lavoro
     questions:
     - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM Grecia si connette a reti premium offrendo larghezza di banda
-        e bassa latenza per videoconferenze professionali.
+      a: La nostra eSIM Grecia si connette a reti premium offrendo larghezza di banda e bassa latenza per videoconferenze
+        professionali.
     - q: Come mi connetto in modo sicuro alla VPN aziendale?
-      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale
-        in modo sicuro sulla rete eSIM Grecia.
+      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale in modo sicuro sulla rete eSIM Grecia.
     - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM Grecia è molto più veloce e sicuro
-        contro le minacce informatiche rispetto alle reti Wi-Fi aperte.
+      a: Attiva l'hotspot. Utilizzare la tua eSIM Grecia è molto più veloce e sicuro contro le minacce informatiche rispetto
+        alle reti Wi-Fi aperte.
     - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM Grecia per
-        i codici basati su email.
+      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM Grecia per i codici basati su email.
     - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM Grecia puoi caricare rapidamente presentazioni
-        sui servizi cloud.
+      a: Con le velocità 5G/4G della tua eSIM Grecia puoi caricare rapidamente presentazioni sui servizi cloud.
     - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM Grecia offre una connessione costante, così ricevi immediatamente
-        messaggi Slack ed email.
+      a: La tua eSIM Grecia offre una connessione costante, così ricevi immediatamente messaggi Slack ed email.
     - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM Grecia in movimento per informare
-        le risorse umane sui ritardi dei voli.
+      a: Accedi ai portali aziendali con la tua eSIM Grecia in movimento per informare le risorse umane sui ritardi dei voli.
 related_products:
   title: Piani eSIM simili
   items:
@@ -715,142 +673,323 @@ related_products:
     is_highlight: false
     slug: australia-esim
 faq_section:
-  title: "Le guida definitiva des piani eSIM pour Greece"
-  desc: "Piani eSIM prepagati per Grecia nel 2026. Goditi il 4G/5G sulle reti Cosmote, Vodafone GR, Nova (Wind). Acquista la tua eSIM Grecia online — attivazione immediata, Internet ad alta velocita per il tuo viaggio en Grecia."
+  title: 'Guida eSIM Grecia 2026: Guida Viaggio & Dati'
+  desc: Da Atene a Salonicco, rimani connesso con Cosmote, Vodafone GR, Wind Tre. La nostra guida completa eSIM Grecia copre
+    copertura, piani, installazione e consigli di viaggio.
   categories:
-    - id: faq-general
-      icon: help-circle
-      tab_title: Generale
-      title: "1. Domande generali sulla eSIM Greece"
-      questions:
-        - q: "A quali reti si connette la eSIM Grecia e quanto e veloce il 4G/5G en Grecia?"
-          a: "La tua eSIM Grecia si connette a Cosmote, Vodafone GR, et Nova (Wind) - i migliori operatori en Grecia - passando automaticamente al segnale piu forte disponibile. Cosmote ha la copertura nazionale piu estesa, specialmente nelle zone rurali e nelle piccole citta. Beste landesweit. Strong mainland, islands, remote beaches. Vodafone GR Strong villes und tourist islands. Nova (Wind) Wettbewerbsfahig. A Athens e nelle grandi citta come Athens et Santorini, ottieni generalmente 4G LTE e 5G (dove disponibile) con velocita di 15-40 Mbit/s. La nostra eSIM multi-operatore significa che non sei mai bloccato su una singola rete - ottieni sempre il miglior segnale en Grecia. Un piano $14.99 5GB/7 giorni ti da dati affidabili in tutto il paese."
-        - q: "Quali sono i vantaggi di una eSIM Grecia rispetto all acquisto di una SIM locale?"
-          a: "Le SIM prepagate locali en Grecia comportano veri ostacoli: Touristen-SIMs an ATH airport, Anbieter-Shops, et Germanos shops. EUR 10-EUR 25. Reisepass erforderlich. Flughafenschalter efficient. Unsere eSIM: sofort online. La nostra eSIM Grecia si attiva in meno di un minuto online - nessuna visita in negozio, nessuna scartoffia, nessuna conoscenza del Greek richiesta. Inoltre, una SIM fisica ti blocca sulla rete di un solo operatore; la nostra eSIM si connette a Cosmote, Vodafone GR, et Nova (Wind) e passa automaticamente per la migliore copertura. Per un viaggio di 7 giorni, il nostro piano 3GB e a $9.99 - piu economico e molto piu conveniente di una SIM locale se si considera il tempo e la fatica risparmiati."
-        - q: "Come si confronta la vostra eSIM Grecia con Airalo, Holafly e Nomad?"
-          a: "La maggior parte dei fornitori globali di eSIM lavora con un solo operatore en Grecia. Airalo nutzt Nova nur. Unser Multi-Carrier: Cosmote+Vodafone GR+Nova fur beste Griechenland und island coverage. Questo e importante perche Cosmote e essenziale per la copertura in molte parti di Greece. I piani di Airalo usano un solo operatore. Il piano illimitato di Holafly riduce la velocita dopo un uso intensivo. Anche Nomad usa un solo operatore, il che puo lasciare lacune fuori dalle grandi citta. Il nostro approccio multi-operatore ti da il meglio di tutte le reti. 5GB per 7 giorni costano $14.99 - prezzi competitivi con una copertura nettamente migliore."
-        - q: "Posso usare la mia eSIM Grecia per chiamate vocali e SMS?"
-          a: "Le eSIM Grecia sono solo dati, quindi non ottieni un numero di telefono Grecia locale. Tuttavia, WhatsApp e estremamente popolare en Grecia - praticamente ogni azienda, hotel, ristorante e tour operator lo usa come metodo di contatto principale. Puoi inviare messaggi e chiamare qualsiasi numero Grecia tramite WhatsApp con i tuoi dati eSIM. Per chiamare linee fisse (compagnie aeree, banche, ambasciate), usa Skype, Google Voice o Rebtel tramite la tua connessione dati - le chiamate costano pochi centesimi al minuto. Per ricevere codici di verifica SMS dalla tua banca, tieni la tua SIM di origine attiva per gli SMS instradando tutti i dati attraverso la tua eSIM Greece. La maggior parte dei viaggiatori scopre che WhatsApp copre il 99% delle loro esigenze di comunicazione."
-        - q: "Quali telefoni e dispositivi funzionano con una eSIM Greece?"
-          a: "La maggior parte degli smartphone moderni supporta eSIM: iPhone XS/XR e successivi, Google Pixel 3a e successivi, Samsung Galaxy S20/Note20 e successivi. Il tuo telefono deve essere sbloccato per usare la nostra eSIM Greece. Sui modelli Android venduti in alcune regioni, eSIM potrebbe essere disattivata - controllau specifiche prima di acquistare. Anche gli iPad con dati cellulari supportano eSIM. Dopo l acquisto, inviamo un QR code via email - iPhone: Impostazioni > Cellulare > Aggiungi eSIM, scansiona il codice. Android: Impostazioni > Rete e Internet > SIM > Aggiungi eSIM. Etichetta il piano 'Greece' per facilitare la commutazione. Il piano si attiva solo quando arrivi en Grecia e ti connetti a Cosmote - puoi installarlo settimane prima. Il nostro piano $29.99 20GB/30 giorni e popolare tra gli utenti di tablet."
-    - id: faq-transport
-      icon: car
-      tab_title: Trasporti
-      title: "3. eSIM Grecia per trasporti e navigazione"
-      questions:
-        - q: "Come usare Athens Metro con la tua eSIM?"
-          a: "3 lines. Modern, built fur 2004 Olympics. Connects airport to center. Hai bisogno di una ATH.ENA ticket (disponibile in ogni stazione, EUR 1.20 single / EUR 4.50 day). I tuoi dati eSIM sono essenziali per: 1) L app Google Maps o Moovit per la pianificazione percorsi in tempo reale. 2) Controllare lo stato delle linee e eventuali interruzioni. 3) Navigare nelle grandi stazioni di interscambio. Consumo dati: ~3MB per ricerca percorso. Tariffa: EUR 1.20 a corsa. Clean, modern, efficient. Syntagma und Acropolis stations have museum exhibits. Un piano 5GB/7 giorni ($14.99) copre una settimana di navigazione nei trasporti."
-        - q: "Come usare Uber (only Uber Taxi), Kostenlos Now, Beat en Grecia?"
-          a: "Uber (only Uber Taxi), Kostenlos Now, Beat funzionano tutti a Athens e nelle grandi citta di Greece. Uber nur connects to licensed taxis (Uber Taxi). Kostenlos Now und Beat are popular taxi-hailing apps. Taxest unre plentiful und metered in Athens. Consiglio: verifica sempre la targa prima di salire. Una corsa attraverso Athens costa generalmente pochi euro in valuta locale. Una ricerca di corsa usa meno di 3 MB. Un piano da 1GB/3 giorni ($4.99) se ne occupa facilmente."
-        - q: "Come navigare per i viaggi interurbani en Grecia?"
-          a: "La rete di trasporto interurbano di Grecia comprende KTEL inter-city buses. Ferries (Blue Star, Seajets, Minoan) fur island hopping. Buchen ferries on Ferryhopper.. Usau app di autobus o i siti web tramite la tua eSIM per confrontare orari, prenotare biglietti e visualizzare QR code d imbarco. Il Wi-Fi a bordo e disponibile sui servizi premium ma spesso lento - la tua eSIM offre intrattenimento e navigazione affidabili. Per i periodi di punta, prenota in anticipo con la tua eSIM. Un piano 5GB/7 giorni ($14.99) copre tutte le esigenze di prenotazione e viaggio."
-        - q: "Come gestire gli indirizzi e la navigazione GPS en Grecia?"
-          a: "Google Maps e Apple Maps funzionano bene con la tua eSIM Greece. Google Maps funktioniert in Stadten. Insel navigation can be tricky — street names are sparse. GPS pin drop = best way. Per i luoghi difficili, invia un pin drop via WhatsApp al tuo alloggio o autista - e una pratica comune en Grecia e usa circa 5 MB per condivisione. Nelle grandi citta, Waze e popolare tra i conducenti locali. Una ricerca di navigazione usa meno di 5 MB. Un piano 3GB/15 giorni ($24.99) gestisce tutta la navigazione en Grecia."
-        - q: "Di quanti dati ho bisogno per una settimana di spostamenti en Grecia?"
-          a: "Per una settimana di navigazione nei trasporti, ride-hailing e prenotazioni interurbane, 3 GB sono sufficienti - sono circa $9.99. Consumo giornaliero tipico: ~30 MB per app di trasporto, ~15 MB per ride-hailing, ~10 MB per ricerche su mappa - circa 55-80 MB al giorno di visite attive. Se fai streaming di musica o video, un piano 5GB ($14.99) ti da un ampio margine. La maggior parte dei viaggiatori trova che un piano 5GB/7 giorni sia il giusto compromesso per navigazione, social media e foto."
-    - id: faq-hotels
-      icon: hotel
-      tab_title: Hotel
-      title: "4. eSIM Grecia per hotel e alloggi"
-      questions:
-        - q: "Come fare il check-in negli hotel e Airbnbs di Grecia senza dipendere dal Wi-Fi?"
-          a: "Molti Airbnbs e boutique hotel di Grecia usano WhatsApp per inviare istruzioni di check-in, codici porta e password Wi-Fi. A Athens, gli edifici moderni usano spesso serrature digitali i cui codici vengono inviati tramite WhatsApp o l app di prenotazione. Senza dati, cercheresti un cafe con Wi-Fi solo per entrare in camera. Gli hotel en Grecia hanno generalmente un check-in alle 14-15; usa la tua eSIM per contattare il tuo host per un check-in anticipato o deposito bagagli. Un piano da 1GB/3 giorni ($4.99) se ne occupa facilmente."
-        - q: "Il Wi-Fi degli hotel e sicuro en Grecia rispetto all uso della tua eSIM per operazioni bancarie?"
-          a: "Il Wi-Fi degli hotel en Grecia varia: gli hotel business a Athens offrono Wi-Fi sicuro di livello aziendale, mentre le pensioni economiche nelle zone turistiche usano spesso router basici con password condivise - meno sicuro. La tua eSIM offre una connessione cellulare personale crittografata - nettamente piu sicura per operazioni bancarie, transazioni con carta e accessi sensibili. Gli abitanti di Grecia usano abitualmente app bancarie mobili tramite dati cellulari per la sicurezza. Un piano 3GB ($9.99) copre le tue operazioni bancarie sicure durante tutto il viaggio."
-        - q: "Come trovare hotel last minute in alta stagione en Grecia?"
-          a: "Durante l alta stagione en Grecia, le destinazioni popolari possono essere al completo. Usa Booking.com e i siti di prenotazione locali tramite la tua eSIM per verificare le cancellazioni. Amplia il raggio di ricerca - gli alloggi leggermente fuori dalla zona turistica principale sono spesso disponibili a prezzi piu bassi e offrono un esperienza piu autentica. Usa Google Maps per verificare la posizione prima di prenotare e leggi le recensioni recenti. Una sessione di prenotazione di 10 minuti usa ~15 MB. Un piano 5GB/7 giorni ($14.99) supporta cambi di itinerario flessibili."
-        - q: "Come comunicare con host che parlano Greek?"
-          a: "Al di fuori delle catene alberghiere internazionali, la maggior parte del personale degli alloggi en Grecia parla Greek. La tua eSIM permette: 1) Messaggistica WhatsApp - gli abitanti di Grecia la usano universalmente per la comunicazione host-ospite. 2) Modalita conversazione di Google Traduttore per dialogo parlato in tempo reale. 3) Traduzione tramite fotocamera per istruzioni scritte, codici porta e politiche di check-out. Scarica il pacchetto offline Greek in Google Traduttore prima del viaggio, ma la modalita fotocamera necessita di dati per una traduzione precisa delle note manoscritte. Un piano da 1GB/3 giorni ($4.99) se ne occupa facilmente."
-        - q: "Come ordinare la consegna di cibo al tuo hotel en Grecia con la eSIM?"
-          a: "Wolt (doMin.ant), efood, Uber Eats - funzionano tutti interamente tramite i tuoi dati eSIM. I tempi di consegna a Athens sono generalmente di 25-45 minuti. Nelle piccole citta e nelle zone rurali, le app di consegna potrebbero non funzionare, ma puoi contattare i ristoranti locali tramite WhatsApp per l asporto - chiedi al tuo hotel i posti migliori e i loro numeri WhatsApp. Dati per ordine: ~5-10 MB. Un piano 3GB/7 giorni ($9.99) supporta decine di ordini di consegna."
-    - id: faq-attractions
-      icon: landmark
-      tab_title: Attrazioni
-      title: "5. eSIM Grecia per attrazioni e visite turistiche"
-      questions:
-        - q: "Come visitare Acropolis & Parthenon con la tua eSIM per biglietti e informazioni?"
-          a: "Acropolis & Parthenon, UNESCO-Weltkulturerbe. Le Parthenon, Erechtheion mit Caryatids, et Tempel of Athena Nike. Le Acropolis Museum (EUR 15) am base est unuch Weltklasse. I biglietti costano EUR 20 (Acropolis only); EUR 30 combo (5 sites) e possono essere acquistati tramite etickets.tap.gr — book 1-2 weeks ahead - la tua eSIM mostra il QR code all ingresso. Periodo migliore per visitare: First slot 8 AM to avoid crowds und heat. Summer temperatures reach 40 Celsius by midday.. Usa la tua eSIM per consultare Wikipedia per il contesto storico e Google Maps per navigare. Fai uno screenshot del biglietto come backup. Un piano 3GB/7 giorni ($9.99) copre tutte le tue visite a Athens."
-        - q: "Come navigare tra i principali monumenti di Athens con la tua eSIM?"
-          a: "Athens gode di un eccellente copertura mobile da parte di tutti i principali operatori. Usa i tuoi dati eSIM: 1) Navigare tra i monumenti con Google Maps in modalita pedonale. 2) Consultare Wikipedia per il contesto storico. 3) Verificare orari di apertura e disponibilita biglietti in tempo reale. 4) Trovare caffe e ristoranti nelle vicinanze. 5) Tradurre i cartelli con la modalita fotocamera di Google Traduttore. Ogni ricerca usa meno di 3 MB. Un piano $9.99 3GB/7 giorni copre una settimana completa di esplorazione urbana."
-        - q: "Come pianificare un escursione a Santorini con la tua eSIM?"
-          a: "White-washed blue-domed churches on volcanic cliffs overlooking le Aegean. Oia sunset ist eine der le meistfotografiert sights on Earth. Usa la tua eSIM: 1) Prenotare biglietti in anticipo tramite Keine Buchung. 2) Controllare il meteo in tempo reale prima di partire. 3) Navigare verso i migliori punti panoramici e spot fotografici. 4) Trovare ristoranti ben recensiti nelle vicinanze. I biglietti costano circa Kostenlos (village); EUR 2 bus von Fira to Oia. Scarica mappe offline come backup. Un piano 5GB/7 giorni ($14.99) copre una giornata intera di esplorazione."
-        - q: "Come prenotare escursioni e tour en Grecia con la tua eSIM?"
-          a: "Usa GetYourGuide, Viator o i siti degli operatori locali tramite i tuoi dati eSIM. Confronta i prezzi, leggi le recensioni recenti e prenota istantaneamente - il tuo telefono mostra la conferma di prenotazione. Molti tour offrono prenotazione in giornata, e posti last minute possono apparire. Nelle destinazioni popolari come Athens et Santorini, prenota 1-2 giorni prima in alta stagione. Una sessione di prenotazione usa ~10 MB. Un piano 5GB/7 giorni ($14.99) ti permette di prenotare tour in modo flessibile."
-        - q: "Qual e il miglior piano dati eSIM per una settimana di visite en Grecia?"
-          a: "Per una settimana di visite attive - navigazione tra attrazioni, traduzione cartelli, prenotazione biglietti e condivisione foto - un piano 5GB/7 giorni ($14.99) e l ideale. Uso giornaliero tipico: ~100 MB per mappe e navigazione, ~50 MB per ricerca attrazioni, ~200 MB per upload foto e social media - circa 350-500 MB al giorno. Se sei un grande fotografo, il piano 10GB/15 giorni ($24.99) ti da ampio margine. Per utenti leggeri che scaricano le mappe in hotel, un piano 3GB ($9.99) e sufficiente."
-    - id: faq-dining
-      icon: utensils
-      tab_title: Ristorazione
-      title: "6. eSIM Grecia per gastronomia e scoperte culinarie"
-      questions:
-        - q: "Come trovare autentica cucina Greek oltre le trappole per turisti?"
-          a: "Usa la tua eSIM per cercare su Google Maps lontano dalle zone turistiche - filtra per '4.5+ stelle' e leggi le recensioni in Greek per l autenticita. Greeks eat LATE — dinner 9-11 PM, besonders in summer. Taverna culture is relaxed — meals last 2-3 hours. Never rush. Ouzo oder tsipouro mit mezedes (small plates) = le Greek way. Trinkgeld 5-10% appreciated. Piatti da non perdere: gyros (EUR 3-EUR 5 — Griechenland ultimate Strassenimbiss), moussaka (EUR 10-EUR 14), Greek salad horiatiki (EUR 7-EUR 10), souvlaki (EUR 8-EUR 12 grilled meat skewers), tzatziki (EUR 3-EUR 5), baklava (EUR 4-EUR 6). Ogni ricerca usa ~3 MB. Un piano 3GB/7 giorni ($9.99) copre oltre 1.000 ricerche di ristoranti durante il tuo viaggio."
-        - q: "Come usare le app di consegna cibo en Grecia?"
-          a: "Wolt (doMin.ant), efood, Uber Eats - nessun numero di telefono locale richiesto, le app funzionano interamente tramite dati. Ordina da centinaia di ristoranti, dalle trattorie locali alle catene internazionali. La consegna a Athens richiede 25-90 minuti a seconda della distanza e del traffico. Mancia nell app. Verificau promozioni di consegna gratuita. Dati per ordine: ~5-10 MB. Un piano 5GB/7 giorni ($14.99) gestisce una settimana intera di consegne."
-        - q: "Come prenotare ristoranti en Grecia?"
-          a: "Most tavernas accept walk-ins. High-end in Athens/Santorini book ahead. Con la tua eSIM, contatta i ristoranti direttamente - una prenotazione richiede pochi secondi e usa meno di 1 MB di dati. Per l alta gastronomia, alcuni usano piattaforme di prenotazione online. Controlla gli orari di apertura su Google Maps prima di uscire, poiche i piccoli ristoranti potrebbero chiudere prima. Un piano da 1GB/3 giorni ($4.99) se ne occupa facilmente."
-        - q: "Come tradurre menu e termini culinari Greek?"
-          a: "I menu in Greek possono contenere termini culinari unici. La modalita fotocamera di Google Traduttore funziona tramite i tuoi dati eSIM - inquadra qualsiasi menu per una traduzione istantanea. Il pacchetto offline Greek gestisce le basi, ma la modalita fotocamera necessita di dati per la precisione dei menu manoscritti e delle specialita regionali. Ogni traduzione tramite fotocamera usa ~2 MB. Un piano da 1GB/3 giorni ($4.99) se ne occupa facilmente."
-        - q: "Come pagare nei ristoranti e nei banchetti di strada en Grecia?"
-          a: "Cards widely accepted in Touristengebieten. Bargeld needed at small tavernas, markets, et remote islands. Carry EUR 50-EUR 100. Geldautomaten charge EUR 2-EUR 4 fee. Usa la tua eSIM per trovare bancomat nelle vicinanze su Google Maps. Porta abbastanza valuta locale in tagli piccoli per i banchetti di strada e i mercati. Una ricerca bancomat usa meno di 2 MB. Un piano da 1GB/3 giorni ($4.99) se ne occupa facilmente."
-    - id: faq-social
-      icon: smartphone
-      tab_title: Social
-      title: "7. eSIM Grecia per social media e restare in contatto"
-      questions:
-        - q: "WhatsApp e l app di messaggistica dominante en Grecia?"
-          a: "Si - WhatsApp universal. Viber auch popular in Griechenland. I tuoi dati eSIM permettono a WhatsApp di funzionare normalmente con il tuo numero di casa - nessuna SIM Grecia necessaria. Una giornata tipica di uso di WhatsApp: meno di 10 MB. Un ora di chiamate vocali WhatsApp: ~30 MB. Un piano da 1GB/3 giorni ($4.99) se ne occupa facilmente."
-        - q: "Come pubblicare su Instagram/TikTok dai luoghi piu fotogenici di Greece?"
-          a: "Greece offre scenari incredibili per i social media: Santorini Oia blue domes, Acropolest unt sunrise, Mykonos windmills, Meteora monasteries, Navagio Shipwreck Strand Zakynthos. La tua eSIM fornisce larghezza di banda - Cosmote offre generalmente 10-25 Mbit/s in upload nelle grandi citta. Una story Instagram: ~10-50 MB. Un TikTok 1080p di un minuto: ~100-200 MB. Gli upload sono piu veloci al mattino (8-11) prima della congestione della rete. Nelle zone isolate, metti i post in coda per un upload successivo dall hotel. Un piano 10GB/15 giorni ($24.99) supporta 50-100 post di alta qualita."
-        - q: "Come fare videochiamate (FaceTime, WhatsApp) verso casa da Greece?"
-          a: "Le videochiamate funzionano bene tramite la tua eSIM Grecia nelle citta. Le videochiamate WhatsApp usano ~200-500 MB/ora; FaceTime e simile. Per la migliore qualita: chiama fuori dagli orari di punta (10-16) quando le reti sono meno congestionate. WhatsApp excellent. Cosmote 30-60 Mbps. Insel coverage varies. Una chiamata di 30 minuti usa ~150 MB. Un piano 5GB/7 giorni ($14.99) supporta ~33 ore di videochiamate."
-        - q: "Come condividere la posizione in diretta con la famiglia durante un viaggio en Grecia?"
-          a: "Condividi la tua posizione tramite 'Condividi posizione in diretta' di WhatsApp - funziona in modo affidabile tramite i tuoi dati eSIM e usa ~5 MB/ora. Utile per: esplorare nuove citta, fare un escursione in campagna o incontrare amici a un festival. Nelle zone rurali, la condivisione si mette in pausa e riprende automaticamente quando il segnale ritorna. Condividi l indirizzo del tuo alloggio con la famiglia prima di uscire - e rassicurante e richiede 5 secondi. Un piano 3GB/15 giorni ($24.99) supporta oltre 600 ore di condivisione continua."
-        - q: "Posso usare app di incontri en Grecia?"
-          a: "Si - Tinder, Bumble e altre app funzionano bene tramite i tuoi dati eSIM. Athens ha una scena sociale attiva. Consumo dati per swipe e messaggistica: ~10 MB/ora. Meetup.com e Couchsurfing sono attivi a Athens per attivita di gruppo e scambi linguistici. Incontra persone in luoghi pubblici e condividi la tua posizione con un amico - una pratica di viaggio standard in tutto il mondo. Un piano da 1GB/3 giorni ($4.99) se ne occupa facilmente."
-    - id: faq-crossborder
-      icon: globe
-      tab_title: Transfrontaliero
-      title: "8. eSIM Grecia per viaggi transfrontalieri"
-      questions:
-        - q: "Posso usare la mia eSIM Grecia in Italien?"
-          a: "No, la tua eSIM Grecia e specifica per paese e non funzionera in Italien. Il valico principale: Ferry Patras-Bari (16h overnight) oder fly. Italien eSIM. La tua eSIM Grecia funziona fino al posto di frontiera di Greece, poi si disconnette. Acquista una eSIM Italien prima di attraversare - ~$12/3GB. Mantieni piani separati - due piccoli piani nazionali costano molto meno di un costoso pacchetto regionale."
-        - q: "E per quanto riguarda il passaggio verso Turkei?"
-          a: "La tua eSIM Grecia non funziona in Turkei. Il valico principale: Fly Athens-Istanbul (1.5h). Turkei eSIM. Acquista una eSIM Turkei prima di attraversare - ~$12/3GB. Installa entrambe le eSIM prima della partenza e cambia linea dati al passaggio di frontiera."
-        - q: "Come funziona il passaggio di frontiera tra Grecia e Italien?"
-          a: "Ferry Patras-Bari (16h overnight) oder fly e il valico principale tra Grecia e Italien. Italien eSIM. La tua eSIM Grecia funziona fino al posto di frontiera (copertura Cosmote), poi si ferma - acquista una eSIM Italien prima di attraversare."
-        - q: "Come gestire le eSIM quando si visitano piu paesi da Greece?"
-          a: "Installa tutte le tue eSIM nazionali prima di partire da casa. A ogni frontiera, vai su Impostazioni > Cellulare e cambia la linea dati verso l eSIM del nuovo paese - ci vogliono 10 secondi. Gli iPhone supportano piu eSIM attive; Android memorizza piu profili. Etichetta chiaramente ogni piano (es. 'Greece Dati', 'Italien Dati'). Così hai sempre dati istantanei al passaggio, senza dipendere dal Wi-Fi di frontiera. Un piano da 3GB per paese e generalmente sufficiente per soggiorni brevi."
-        - q: "Qual e la migliore strategia eSIM per un viaggio multi-paese che include Greece?"
-          a: "Griechenland (5GB ~$12) + Italien (3GB ~$12) + Turkei (3GB ~$12) = ~$36 Mediterranean. Installa tutte le eSIM prima della partenza e cambiau linee dati a ogni frontiera. I piani nazionali individuali ti danno accesso multi-operatore in ogni paese, cosa che i piani regionali generalmente non fanno. Evita la trappola del 'piano regionale unico' - il sovrapprezzo non vale la pena quando il cambio richiede 10 secondi nelle Impostazioni del telefono."
-    - id: faq-emergency
-      icon: alert-triangle
-      tab_title: Assistenza
-      title: "9. eSIM Grecia per assistenza di viaggio e restare connessi"
-      questions:
-        - q: "Come gestire le situazioni quotidiane di viaggio en Grecia (farmacie, assistenza medica, oggetti smarriti)?"
-          a: "Greece ha una buona infrastruttura per i viaggiatori. Per piccoli problemi di salute, le farmacie sono diffuse nelle citta - i farmacisti possono consigliare sui malesseri di viaggio comuni e dispensare molti farmaci senza prescrizione. Cerca 'farmacia' su Google Maps con i tuoi dati eSIM per trovare la piu vicina. Per consulti medici, le cliniche private di Athens offrono appuntamenti senza prenotazione, alcune con personale che parla inglese. Per oggetti smarriti nei trasporti, contatta l ufficio oggetti smarriti dell autorita di trasporto. I numeri di emergenza nazionali en Grecia funzionano su qualsiasi telefono senza credito o dati. Una ricerca di aiuto usa meno di 2 MB. Un piano da 1GB/3 giorni ($4.99) se ne occupa facilmente."
-        - q: "Come trovare ospedali e farmacie nelle citta Greek?"
-          a: "Cerca su Google Maps 'farmacia di turno' o 'ospedale' con i tuoi dati eSIM. A Athens, i migliori ospedali privati sono concentrati nei quartieri benestanti. Nelle piccole citta, le farmacie potrebbero chiudere alle 20 - di solito c e una farmacia di turno esposta sulle porte delle farmacie. I pronto soccorso delle cliniche private accettano carte di credito internazionali e i tempi di attesa sono molto piu brevi che negli ospedali pubblici. Per la telemedicina, app come Doctoralia ti mettono in contatto con medici che parlano inglese tramite videochiamata con la tua eSIM. Una ricerca farmacia usa meno di 2 MB. Un piano 1GB ($4.99) copre le ricerche di emergenza per tutto il viaggio."
-        - q: "Come contattare l ambasciata del tuo paese en Grecia?"
-          a: "La maggior parte delle ambasciate si trova a Athens. Usa i tuoi dati eSIM per cercare 'ambasciata di [tuo paese] a Athens'. Le grandi ambasciate (USA, UK, Canada, Australia, paesi UE) hanno ufficiali di turno 24 ore, raggiungibili per telefono o a volte WhatsApp. Per passaporti smarriti: chiama prima - la maggior parte delle ambasciate richiede un appuntamento. Usa Skype o chiamate VoIP tramite i tuoi dati eSIM per raggiungerli a basso costo. La ricerca richiede meno di 2 MB. Cattura i dettagli di contatto per averli offline. Un piano da 1GB/3 giorni ($4.99) se ne occupa facilmente."
-        - q: "Cosa fare se smarrisci il telefono durante il viaggio en Grecia?"
-          a: "Se perdi il telefono: 1) Usa il dispositivo di un amico o il computer dell hotel per accedere al nostro sito web e sospendere la tua eSIM - questo interrompe immediatamente l uso dei dati. 2) Usa Dov e il mio iPhone (iCloud) o Google Trova il mio dispositivo per localizzarlo. La maggior parte dei negozi di Grecia conserva un telefono trovato per te. 3) Se il telefono e perso, acquista una eSIM sostitutiva online da qualsiasi dispositivo e installala su un telefono di riserva. 4) Per l assicurazione, sporgi denuncia alle autorita locali - la procedura e semplice. Consiglio da professionista: salva il tuo QR code eSIM nel cloud prima del viaggio. Salva anche l indirizzo e il numero di telefono del tuo alloggio offline - e la prima cosa di cui avrai bisogno. Un piano da 1GB/3 giorni ($4.99) se ne occupa facilmente."
-        - q: "Come rimanere flessibili e gestire i cambi di viaggio en Grecia?"
-          a: "I piani di viaggio cambiano - un volo e in ritardo o decidi di prolungare il soggiorno. La tua eSIM ti mantiene agile: 1) Riprenota i voli istantaneamente sulle app delle compagnie aeree. 2) Modificau prenotazioni di autobus o treno online. 3) Trova un alloggio last minute su Booking.com o piattaforme locali. 4) Controlla il meteo in tempo reale per regolare i tuoi piani giornalieri. 5) Contatta la tua assicurazione di viaggio tramite la sua app o WhatsApp se necessario. Le aziende en Grecia sono generalmente flessibili con i cambi, specialmente quando comunichi presto tramite WhatsApp. Un piano 5GB/15 giorni ($24.99) ti da i dati per adattare i tuoi piani durante il viaggio."
-    - id: faq-business
-      icon: briefcase
-      tab_title: Business
-      title: "10. eSIM Grecia per viaggiatori d affari e nomadi digitali"
-      questions:
-        - q: "Qual e la migliore eSIM per affari nel quartiere finanziario di Athens?"
-          a: "Il centro affari di Athens e concentrato a Athens Marousi, Syntagma. Tutti i principali operatori offrono un eccellente copertura qui - Cosmote guida con velocita di 15-50 Mbit/s. Per affari: un piano 10GB/15 giorni ($24.99) copre una settimana lavorativa di email, Slack, videochiamate e accesso cloud. Spazi di coworking: Impact Hub Athens, Le Cube, Stone Soup, Selina (Athens). Usa ride-hailing o trasporti per andare alle riunioni - la tua eSIM ti da dati sul traffico in tempo reale. Un piano 20GB/30 giorni ($29.99) supporta un mese intero di viaggi d affari."
-        - q: "Quanto sono affidabili le chiamate Zoom e Microsoft Teams da Greece?"
-          a: "Le videoconferenze funzionano bene a Athens e nelle grandi citta di Greece. Cosmote 30-60 Mbps. Consigli: 1) Usa i dati eSIM direttamente sul tuo telefono (non hotspot) per la massima stabilita. 2) Le chiamate del mattino (8-11) hanno la minore congestione di rete. 3) Una riunione Zoom di un ora usa ~1 GB. Un piano 20GB/30 giorni ($29.99) supporta ~20 ore di riunioni. Per i grandi presentatori: testa la tua connessione 5 minuti prima delle chiamate importanti."
-        - q: "Come connettersi a una VPN aziendale da Grecia con eSIM?"
-          a: "Keine Einschrankungen.. Connetti la tua VPN aziendale (OpenVPN, WireGuard, Cisco AnyConnect, ecc.) tramite i tuoi dati eSIM senza attriti. Perdita di velocita tramite VPN: 20-30% a causa della crittografia - ancora sufficiente per email, accesso ai file e videochiamate occasionali. Per utenti VPN pesanti, scegli il piano 20GB o 30GB. Testa la tua VPN dal tuo hotel prima di riunioni importanti."
-        - q: "Greece e buono per i nomadi digitali e come supporta eSIM il lavoro a distanza?"
-          a: "Athens und Greek islands growing as nomad destinations. Griechenland Digitaler Nomade visa. Low winter cost of living. La tua eSIM supporta il lavoro a distanza: 1) Dati cellulari affidabili come backup per un Wi-Fi Airbnb inaffidabile. 2) Accesso al coworking - Impact Hub Athens, Le Cube, Stone Soup, Selina (Athens). 3) La copertura cellulare si estende ai quartieri popolari e alle zone dei caffe. 4) Il fuso orario di Athens (UTC+2/+3 summer) e conveniente per certi team remoti. Per un soggiorno di 30 giorni: il piano 20GB a $29.99."
-        - q: "Come accedere ai servizi cloud e gestire i fusi orari lavorando da Greece?"
-          a: "Tutti i principali servizi cloud funzionano normalmente tramite la tua eSIM Grecia - Google Drive, Dropbox, OneDrive, Slack, Notion, Microsoft 365 - nessuna restrizione, nessun blocco. Le velocita di upload su Cosmote (10-20 Mbit/s) gestiscono file di grandi dimensioni - una presentazione da 100 MB viene caricata in meno di un minuto. Grecia si trova nel fuso orario UTC+2/+3 summer. Per utenti cloud intensivi, il piano 30GB/30 giorni ($29.99) offre ampia larghezza di banda. Consiglio di produttivita: gli orari di lavoro en Grecia sono generalmente dalle 8 alle 18 con una pausa pranzo di 1-2 ore - pianifica di conseguenza."
+  - id: faq-general
+    icon: help-circle
+    tab_title: Generale
+    title: 1.  Domande Generali sull'eSIM Grecia
+    questions:
+    - q: A quali reti si connette la eSIM Grecia e quanto e veloce il 4G/5G en Grecia?
+      a: La tua eSIM Grecia si connette a Cosmote, Vodafone GR, et Nova (Wind) - i migliori operatori en Grecia - passando
+        automaticamente al segnale piu forte disponibile. Cosmote ha la copertura nazionale piu estesa, specialmente nelle
+        zone rurali e nelle piccole citta. Beste landesweit. Strong mainland, islands, remote beaches. Vodafone GR Strong
+        villes und tourist islands. Nova (Wind) Wettbewerbsfahig. A Athens e nelle grandi citta come Athens et Santorini,
+        ottieni generalmente 4G LTE e 5G (dove disponibile) con velocita di 15-40 Mbit/s. La nostra eSIM multi-operatore significa
+        che non sei mai bloccato su una singola rete - ottieni sempre il miglior segnale en Grecia. Un piano $14.99 5GB/7
+        giorni ti da dati affidabili in tutto il paese.
+    - q: Quali sono i vantaggi di una eSIM Grecia rispetto all acquisto di una SIM locale?
+      a: 'Le SIM prepagate locali en Grecia comportano veri ostacoli: Touristen-SIMs an ATH airport, Anbieter-Shops, et Germanos
+        shops. EUR 10-EUR 25. Reisepass erforderlich. Flughafenschalter efficient. Unsere eSIM: sofort online. La nostra eSIM
+        Grecia si attiva in meno di un minuto online - nessuna visita in negozio, nessuna scartoffia, nessuna conoscenza del
+        Greek richiesta. Inoltre, una SIM fisica ti blocca sulla rete di un solo operatore; la nostra eSIM si connette a Cosmote,
+        Vodafone GR, et Nova (Wind) e passa automaticamente per la migliore copertura. Per un viaggio di 7 giorni, il nostro
+        piano 3GB e a $9.99 - piu economico e molto piu conveniente di una SIM locale se si considera il tempo e la fatica
+        risparmiati.'
+    - q: Come si confronta la vostra eSIM Grecia con Airalo, Holafly e Nomad?
+      a: 'La maggior parte dei fornitori globali di eSIM lavora con un solo operatore en Grecia. Airalo nutzt Nova nur. Unser
+        Multi-Carrier: Cosmote+Vodafone GR+Nova fur beste Griechenland und island coverage. Questo e importante perche Cosmote
+        e essenziale per la copertura in molte parti di Greece. I piani di Airalo usano un solo operatore. Il piano illimitato
+        di Holafly riduce la velocita dopo un uso intensivo. Anche Nomad usa un solo operatore, il che puo lasciare lacune
+        fuori dalle grandi citta. Il nostro approccio multi-operatore ti da il meglio di tutte le reti. 5GB per 7 giorni costano
+        $14.99 - prezzi competitivi con una copertura nettamente migliore.'
+    - q: Posso usare la mia eSIM Grecia per chiamate vocali e SMS?
+      a: Le eSIM Grecia sono solo dati, quindi non ottieni un numero di telefono Grecia locale. Tuttavia, WhatsApp e estremamente
+        popolare en Grecia - praticamente ogni azienda, hotel, ristorante e tour operator lo usa come metodo di contatto principale.
+        Puoi inviare messaggi e chiamare qualsiasi numero Grecia tramite WhatsApp con i tuoi dati eSIM. Per chiamare linee
+        fisse (compagnie aeree, banche, ambasciate), usa Skype, Google Voice o Rebtel tramite la tua connessione dati - le
+        chiamate costano pochi centesimi al minuto. Per ricevere codici di verifica SMS dalla tua banca, tieni la tua SIM
+        di origine attiva per gli SMS instradando tutti i dati attraverso la tua eSIM Greece. La maggior parte dei viaggiatori
+        scopre che WhatsApp copre il 99% delle loro esigenze di comunicazione.
+    - q: Quali telefoni e dispositivi funzionano con una eSIM Greece?
+      a: 'La maggior parte degli smartphone moderni supporta eSIM: iPhone XS/XR e successivi, Google Pixel 3a e successivi,
+        Samsung Galaxy S20/Note20 e successivi. Il tuo telefono deve essere sbloccato per usare la nostra eSIM Greece. Sui
+        modelli Android venduti in alcune regioni, eSIM potrebbe essere disattivata - controllau specifiche prima di acquistare.
+        Anche gli iPad con dati cellulari supportano eSIM. Dopo l acquisto, inviamo un QR code via email - iPhone: Impostazioni
+        > Cellulare > Aggiungi eSIM, scansiona il codice. Android: Impostazioni > Rete e Internet > SIM > Aggiungi eSIM. Etichetta
+        il piano ''Greece'' per facilitare la commutazione. Il piano si attiva solo quando arrivi en Grecia e ti connetti
+        a Cosmote - puoi installarlo settimane prima. Il nostro piano $29.99 20GB/30 giorni e popolare tra gli utenti di tablet.'
+  - id: faq-transport
+    icon: car
+    tab_title: Trasporti
+    title: 3.  eSIM Grecia per il Trasporto
+    questions:
+    - q: Posso usare l'eSIM Grecia per ride-hailing e navigazione?
+      a: Sì, l'eSIM Grecia funziona con app di ride-hailing e Google Maps. Un piano 5GB/15 giorni ($4.99) è sufficiente per
+        la navigazione quotidiana e le prenotazioni di corse.
+    - q: Come usare Uber (only Uber Taxi), Kostenlos Now, Beat en Grecia?
+      a: 'Uber (only Uber Taxi), Kostenlos Now, Beat funzionano tutti a Athens e nelle grandi citta di Greece. Uber nur connects
+        to licensed taxis (Uber Taxi). Kostenlos Now und Beat are popular taxi-hailing apps. Taxest unre plentiful und metered
+        in Athens. Consiglio: verifica sempre la targa prima di salire. Una corsa attraverso Athens costa generalmente pochi
+        euro in valuta locale. Una ricerca di corsa usa meno di 3 MB. Un piano da 1GB/3 giorni ($4.99) se ne occupa facilmente.'
+    - q: Come navigare per i viaggi interurbani en Grecia?
+      a: La rete di trasporto interurbano di Grecia comprende KTEL inter-city buses. Ferries (Blue Star, Seajets, Minoan)
+        fur island hopping. Buchen ferries on Ferryhopper.. Usau app di autobus o i siti web tramite la tua eSIM per confrontare
+        orari, prenotare biglietti e visualizzare QR code d imbarco. Il Wi-Fi a bordo e disponibile sui servizi premium ma
+        spesso lento - la tua eSIM offre intrattenimento e navigazione affidabili. Per i periodi di punta, prenota in anticipo
+        con la tua eSIM. Un piano 5GB/7 giorni ($14.99) copre tutte le esigenze di prenotazione e viaggio.
+    - q: Come gestire gli indirizzi e la navigazione GPS en Grecia?
+      a: Google Maps e Apple Maps funzionano bene con la tua eSIM Greece. Google Maps funktioniert in Stadten. Insel navigation
+        can be tricky — street names are sparse. GPS pin drop = best way. Per i luoghi difficili, invia un pin drop via WhatsApp
+        al tuo alloggio o autista - e una pratica comune en Grecia e usa circa 5 MB per condivisione. Nelle grandi citta,
+        Waze e popolare tra i conducenti locali. Una ricerca di navigazione usa meno di 5 MB. Un piano 3GB/15 giorni ($24.99)
+        gestisce tutta la navigazione en Grecia.
+    - q: Di quanti dati ho bisogno per una settimana di spostamenti en Grecia?
+      a: 'Per una settimana di navigazione nei trasporti, ride-hailing e prenotazioni interurbane, 3 GB sono sufficienti -
+        sono circa $9.99. Consumo giornaliero tipico: ~30 MB per app di trasporto, ~15 MB per ride-hailing, ~10 MB per ricerche
+        su mappa - circa 55-80 MB al giorno di visite attive. Se fai streaming di musica o video, un piano 5GB ($14.99) ti
+        da un ampio margine. La maggior parte dei viaggiatori trova che un piano 5GB/7 giorni sia il giusto compromesso per
+        navigazione, social media e foto.'
+  - id: faq-hotels
+    icon: hotel
+    tab_title: Hotel
+    title: 4.  eSIM Grecia per gli Hotel
+    questions:
+    - q: Come fare il check-in negli hotel e Airbnbs di Grecia senza dipendere dal Wi-Fi?
+      a: Molti Airbnbs e boutique hotel di Grecia usano WhatsApp per inviare istruzioni di check-in, codici porta e password
+        Wi-Fi. A Athens, gli edifici moderni usano spesso serrature digitali i cui codici vengono inviati tramite WhatsApp
+        o l app di prenotazione. Senza dati, cercheresti un cafe con Wi-Fi solo per entrare in camera. Gli hotel en Grecia
+        hanno generalmente un check-in alle 14-15; usa la tua eSIM per contattare il tuo host per un check-in anticipato o
+        deposito bagagli. Un piano da 1GB/3 giorni ($4.99) se ne occupa facilmente.
+    - q: Il Wi-Fi degli hotel e sicuro en Grecia rispetto all uso della tua eSIM per operazioni bancarie?
+      a: 'Il Wi-Fi degli hotel en Grecia varia: gli hotel business a Athens offrono Wi-Fi sicuro di livello aziendale, mentre
+        le pensioni economiche nelle zone turistiche usano spesso router basici con password condivise - meno sicuro. La tua
+        eSIM offre una connessione cellulare personale crittografata - nettamente piu sicura per operazioni bancarie, transazioni
+        con carta e accessi sensibili. Gli abitanti di Grecia usano abitualmente app bancarie mobili tramite dati cellulari
+        per la sicurezza. Un piano 3GB ($9.99) copre le tue operazioni bancarie sicure durante tutto il viaggio.'
+    - q: Come trovare hotel last minute in alta stagione en Grecia?
+      a: Durante l alta stagione en Grecia, le destinazioni popolari possono essere al completo. Usa Booking.com e i siti
+        di prenotazione locali tramite la tua eSIM per verificare le cancellazioni. Amplia il raggio di ricerca - gli alloggi
+        leggermente fuori dalla zona turistica principale sono spesso disponibili a prezzi piu bassi e offrono un esperienza
+        piu autentica. Usa Google Maps per verificare la posizione prima di prenotare e leggi le recensioni recenti. Una sessione
+        di prenotazione di 10 minuti usa ~15 MB. Un piano 5GB/7 giorni ($14.99) supporta cambi di itinerario flessibili.
+    - q: Come comunicare con host che parlano Greek?
+      a: 'Al di fuori delle catene alberghiere internazionali, la maggior parte del personale degli alloggi en Grecia parla
+        Greek. La tua eSIM permette: 1) Messaggistica WhatsApp - gli abitanti di Grecia la usano universalmente per la comunicazione
+        host-ospite. 2) Modalita conversazione di Google Traduttore per dialogo parlato in tempo reale. 3) Traduzione tramite
+        fotocamera per istruzioni scritte, codici porta e politiche di check-out. Scarica il pacchetto offline Greek in Google
+        Traduttore prima del viaggio, ma la modalita fotocamera necessita di dati per una traduzione precisa delle note manoscritte.
+        Un piano da 1GB/3 giorni ($4.99) se ne occupa facilmente.'
+    - q: Come ordinare la consegna di cibo al tuo hotel en Grecia con la eSIM?
+      a: 'Wolt (doMin.ant), efood, Uber Eats - funzionano tutti interamente tramite i tuoi dati eSIM. I tempi di consegna
+        a Athens sono generalmente di 25-45 minuti. Nelle piccole citta e nelle zone rurali, le app di consegna potrebbero
+        non funzionare, ma puoi contattare i ristoranti locali tramite WhatsApp per l asporto - chiedi al tuo hotel i posti
+        migliori e i loro numeri WhatsApp. Dati per ordine: ~5-10 MB. Un piano 3GB/7 giorni ($9.99) supporta decine di ordini
+        di consegna.'
+  - id: faq-attractions
+    icon: landmark
+    tab_title: Attrazioni
+    title: 5.  eSIM Grecia per le Attrazioni
+    questions:
+    - q: Come visitare Acropolis & Parthenon con la tua eSIM per biglietti e informazioni?
+      a: 'Acropolis & Parthenon, UNESCO-Weltkulturerbe. Le Parthenon, Erechtheion mit Caryatids, et Tempel of Athena Nike.
+        Le Acropolis Museum (EUR 15) am base est unuch Weltklasse. I biglietti costano EUR 20 (Acropolis only); EUR 30 combo
+        (5 sites) e possono essere acquistati tramite etickets.tap.gr — book 1-2 weeks ahead - la tua eSIM mostra il QR code
+        all ingresso. Periodo migliore per visitare: First slot 8 AM to avoid crowds und heat. Summer temperatures reach 40
+        Celsius by midday.. Usa la tua eSIM per consultare Wikipedia per il contesto storico e Google Maps per navigare. Fai
+        uno screenshot del biglietto come backup. Un piano 3GB/7 giorni ($9.99) copre tutte le tue visite a Athens.'
+    - q: Come navigare tra i principali monumenti di Athens con la tua eSIM?
+      a: 'Athens gode di un eccellente copertura mobile da parte di tutti i principali operatori. Usa i tuoi dati eSIM: 1)
+        Navigare tra i monumenti con Google Maps in modalita pedonale. 2) Consultare Wikipedia per il contesto storico. 3)
+        Verificare orari di apertura e disponibilita biglietti in tempo reale. 4) Trovare caffe e ristoranti nelle vicinanze.
+        5) Tradurre i cartelli con la modalita fotocamera di Google Traduttore. Ogni ricerca usa meno di 3 MB. Un piano $9.99
+        3GB/7 giorni copre una settimana completa di esplorazione urbana.'
+    - q: Come pianificare un escursione a Santorini con la tua eSIM?
+      a: 'White-washed blue-domed churches on volcanic cliffs overlooking le Aegean. Oia sunset ist eine der le meistfotografiert
+        sights on Earth. Usa la tua eSIM: 1) Prenotare biglietti in anticipo tramite Keine Buchung. 2) Controllare il meteo
+        in tempo reale prima di partire. 3) Navigare verso i migliori punti panoramici e spot fotografici. 4) Trovare ristoranti
+        ben recensiti nelle vicinanze. I biglietti costano circa Kostenlos (village); EUR 2 bus von Fira to Oia. Scarica mappe
+        offline come backup. Un piano 5GB/7 giorni ($14.99) copre una giornata intera di esplorazione.'
+    - q: Come prenotare escursioni e tour en Grecia con la tua eSIM?
+      a: Usa GetYourGuide, Viator o i siti degli operatori locali tramite i tuoi dati eSIM. Confronta i prezzi, leggi le recensioni
+        recenti e prenota istantaneamente - il tuo telefono mostra la conferma di prenotazione. Molti tour offrono prenotazione
+        in giornata, e posti last minute possono apparire. Nelle destinazioni popolari come Athens et Santorini, prenota 1-2
+        giorni prima in alta stagione. Una sessione di prenotazione usa ~10 MB. Un piano 5GB/7 giorni ($14.99) ti permette
+        di prenotare tour in modo flessibile.
+    - q: Qual e il miglior piano dati eSIM per una settimana di visite en Grecia?
+      a: 'Per una settimana di visite attive - navigazione tra attrazioni, traduzione cartelli, prenotazione biglietti e condivisione
+        foto - un piano 5GB/7 giorni ($14.99) e l ideale. Uso giornaliero tipico: ~100 MB per mappe e navigazione, ~50 MB
+        per ricerca attrazioni, ~200 MB per upload foto e social media - circa 350-500 MB al giorno. Se sei un grande fotografo,
+        il piano 10GB/15 giorni ($24.99) ti da ampio margine. Per utenti leggeri che scaricano le mappe in hotel, un piano
+        3GB ($9.99) e sufficiente.'
+  - id: faq-dining
+    icon: utensils
+    tab_title: Ristorazione
+    title: 6. eSIM Grecia per gastronomia e scoperte culinarie
+    questions:
+    - q: Come trovare autentica cucina Greek oltre le trappole per turisti?
+      a: 'Usa la tua eSIM per cercare su Google Maps lontano dalle zone turistiche - filtra per ''4.5+ stelle'' e leggi le
+        recensioni in Greek per l autenticita. Greeks eat LATE — dinner 9-11 PM, besonders in summer. Taverna culture is relaxed
+        — meals last 2-3 hours. Never rush. Ouzo oder tsipouro mit mezedes (small plates) = le Greek way. Trinkgeld 5-10%
+        appreciated. Piatti da non perdere: gyros (EUR 3-EUR 5 — Griechenland ultimate Strassenimbiss), moussaka (EUR 10-EUR
+        14), Greek salad horiatiki (EUR 7-EUR 10), souvlaki (EUR 8-EUR 12 grilled meat skewers), tzatziki (EUR 3-EUR 5), baklava
+        (EUR 4-EUR 6). Ogni ricerca usa ~3 MB. Un piano 3GB/7 giorni ($9.99) copre oltre 1.000 ricerche di ristoranti durante
+        il tuo viaggio.'
+    - q: Come usare le app di consegna cibo en Grecia?
+      a: 'Wolt (doMin.ant), efood, Uber Eats - nessun numero di telefono locale richiesto, le app funzionano interamente tramite
+        dati. Ordina da centinaia di ristoranti, dalle trattorie locali alle catene internazionali. La consegna a Athens richiede
+        25-90 minuti a seconda della distanza e del traffico. Mancia nell app. Verificau promozioni di consegna gratuita.
+        Dati per ordine: ~5-10 MB. Un piano 5GB/7 giorni ($14.99) gestisce una settimana intera di consegne.'
+    - q: Come prenotare ristoranti en Grecia?
+      a: Most tavernas accept walk-ins. High-end in Athens/Santorini book ahead. Con la tua eSIM, contatta i ristoranti direttamente
+        - una prenotazione richiede pochi secondi e usa meno di 1 MB di dati. Per l alta gastronomia, alcuni usano piattaforme
+        di prenotazione online. Controlla gli orari di apertura su Google Maps prima di uscire, poiche i piccoli ristoranti
+        potrebbero chiudere prima. Un piano da 1GB/3 giorni ($4.99) se ne occupa facilmente.
+    - q: Come tradurre menu e termini culinari Greek?
+      a: I menu in Greek possono contenere termini culinari unici. La modalita fotocamera di Google Traduttore funziona tramite
+        i tuoi dati eSIM - inquadra qualsiasi menu per una traduzione istantanea. Il pacchetto offline Greek gestisce le basi,
+        ma la modalita fotocamera necessita di dati per la precisione dei menu manoscritti e delle specialita regionali. Ogni
+        traduzione tramite fotocamera usa ~2 MB. Un piano da 1GB/3 giorni ($4.99) se ne occupa facilmente.
+    - q: Come pagare nei ristoranti e nei banchetti di strada en Grecia?
+      a: Cards widely accepted in Touristengebieten. Bargeld needed at small tavernas, markets, et remote islands. Carry EUR
+        50-EUR 100. Geldautomaten charge EUR 2-EUR 4 fee. Usa la tua eSIM per trovare bancomat nelle vicinanze su Google Maps.
+        Porta abbastanza valuta locale in tagli piccoli per i banchetti di strada e i mercati. Una ricerca bancomat usa meno
+        di 2 MB. Un piano da 1GB/3 giorni ($4.99) se ne occupa facilmente.
+  - id: faq-social
+    icon: smartphone
+    tab_title: Social
+    title: 7.  eSIM Grecia per i Social Media
+    questions:
+    - q: WhatsApp e l app di messaggistica dominante en Grecia?
+      a: 'Si - WhatsApp universal. Viber auch popular in Griechenland. I tuoi dati eSIM permettono a WhatsApp di funzionare
+        normalmente con il tuo numero di casa - nessuna SIM Grecia necessaria. Una giornata tipica di uso di WhatsApp: meno
+        di 10 MB. Un ora di chiamate vocali WhatsApp: ~30 MB. Un piano da 1GB/3 giorni ($4.99) se ne occupa facilmente.'
+    - q: Come pubblicare su Instagram/TikTok dai luoghi piu fotogenici di Greece?
+      a: 'Greece offre scenari incredibili per i social media: Santorini Oia blue domes, Acropolest unt sunrise, Mykonos windmills,
+        Meteora monasteries, Navagio Shipwreck Strand Zakynthos. La tua eSIM fornisce larghezza di banda - Cosmote offre generalmente
+        10-25 Mbit/s in upload nelle grandi citta. Una story Instagram: ~10-50 MB. Un TikTok 1080p di un minuto: ~100-200
+        MB. Gli upload sono piu veloci al mattino (8-11) prima della congestione della rete. Nelle zone isolate, metti i post
+        in coda per un upload successivo dall hotel. Un piano 10GB/15 giorni ($24.99) supporta 50-100 post di alta qualita.'
+    - q: Come fare videochiamate (FaceTime, WhatsApp) verso casa da Greece?
+      a: 'Le videochiamate funzionano bene tramite la tua eSIM Grecia nelle citta. Le videochiamate WhatsApp usano ~200-500
+        MB/ora; FaceTime e simile. Per la migliore qualita: chiama fuori dagli orari di punta (10-16) quando le reti sono
+        meno congestionate. WhatsApp excellent. Cosmote 30-60 Mbps. Insel coverage varies. Una chiamata di 30 minuti usa ~150
+        MB. Un piano 5GB/7 giorni ($14.99) supporta ~33 ore di videochiamate.'
+    - q: Come condividere la posizione in diretta con la famiglia durante un viaggio en Grecia?
+      a: 'Condividi la tua posizione tramite ''Condividi posizione in diretta'' di WhatsApp - funziona in modo affidabile
+        tramite i tuoi dati eSIM e usa ~5 MB/ora. Utile per: esplorare nuove citta, fare un escursione in campagna o incontrare
+        amici a un festival. Nelle zone rurali, la condivisione si mette in pausa e riprende automaticamente quando il segnale
+        ritorna. Condividi l indirizzo del tuo alloggio con la famiglia prima di uscire - e rassicurante e richiede 5 secondi.
+        Un piano 3GB/15 giorni ($24.99) supporta oltre 600 ore di condivisione continua.'
+    - q: Posso usare app di incontri en Grecia?
+      a: 'Si - Tinder, Bumble e altre app funzionano bene tramite i tuoi dati eSIM. Athens ha una scena sociale attiva. Consumo
+        dati per swipe e messaggistica: ~10 MB/ora. Meetup.com e Couchsurfing sono attivi a Athens per attivita di gruppo
+        e scambi linguistici. Incontra persone in luoghi pubblici e condividi la tua posizione con un amico - una pratica
+        di viaggio standard in tutto il mondo. Un piano da 1GB/3 giorni ($4.99) se ne occupa facilmente.'
+  - id: faq-crossborder
+    icon: globe
+    tab_title: Transfrontaliero
+    title: 8.  eSIM Grecia per Viaggi Transfrontalieri
+    questions:
+    - q: Posso usare la mia eSIM Grecia in Italien?
+      a: 'No, la tua eSIM Grecia e specifica per paese e non funzionera in Italien. Il valico principale: Ferry Patras-Bari
+        (16h overnight) oder fly. Italien eSIM. La tua eSIM Grecia funziona fino al posto di frontiera di Greece, poi si disconnette.
+        Acquista una eSIM Italien prima di attraversare - ~$12/3GB. Mantieni piani separati - due piccoli piani nazionali
+        costano molto meno di un costoso pacchetto regionale.'
+    - q: E per quanto riguarda il passaggio verso Turkei?
+      a: 'La tua eSIM Grecia non funziona in Turkei. Il valico principale: Fly Athens-Istanbul (1.5h). Turkei eSIM. Acquista
+        una eSIM Turkei prima di attraversare - ~$12/3GB. Installa entrambe le eSIM prima della partenza e cambia linea dati
+        al passaggio di frontiera.'
+    - q: Come funziona il passaggio di frontiera tra Grecia e Italien?
+      a: Ferry Patras-Bari (16h overnight) oder fly e il valico principale tra Grecia e Italien. Italien eSIM. La tua eSIM
+        Grecia funziona fino al posto di frontiera (copertura Cosmote), poi si ferma - acquista una eSIM Italien prima di
+        attraversare.
+    - q: Come gestire le eSIM quando si visitano piu paesi da Greece?
+      a: Installa tutte le tue eSIM nazionali prima di partire da casa. A ogni frontiera, vai su Impostazioni > Cellulare
+        e cambia la linea dati verso l eSIM del nuovo paese - ci vogliono 10 secondi. Gli iPhone supportano piu eSIM attive;
+        Android memorizza piu profili. Etichetta chiaramente ogni piano (es. 'Greece Dati', 'Italien Dati'). Così hai sempre
+        dati istantanei al passaggio, senza dipendere dal Wi-Fi di frontiera. Un piano da 3GB per paese e generalmente sufficiente
+        per soggiorni brevi.
+    - q: Qual e la migliore strategia eSIM per un viaggio multi-paese che include Greece?
+      a: Griechenland (5GB ~$12) + Italien (3GB ~$12) + Turkei (3GB ~$12) = ~$36 Mediterranean. Installa tutte le eSIM prima
+        della partenza e cambiau linee dati a ogni frontiera. I piani nazionali individuali ti danno accesso multi-operatore
+        in ogni paese, cosa che i piani regionali generalmente non fanno. Evita la trappola del 'piano regionale unico' -
+        il sovrapprezzo non vale la pena quando il cambio richiede 10 secondi nelle Impostazioni del telefono.
+  - id: faq-emergency
+    icon: alert-triangle
+    tab_title: Assistenza
+    title: 9. eSIM Grecia per assistenza di viaggio e restare connessi
+    questions:
+    - q: Come gestire le situazioni quotidiane di viaggio en Grecia (farmacie, assistenza medica, oggetti smarriti)?
+      a: Greece ha una buona infrastruttura per i viaggiatori. Per piccoli problemi di salute, le farmacie sono diffuse nelle
+        citta - i farmacisti possono consigliare sui malesseri di viaggio comuni e dispensare molti farmaci senza prescrizione.
+        Cerca 'farmacia' su Google Maps con i tuoi dati eSIM per trovare la piu vicina. Per consulti medici, le cliniche private
+        di Athens offrono appuntamenti senza prenotazione, alcune con personale che parla inglese. Per oggetti smarriti nei
+        trasporti, contatta l ufficio oggetti smarriti dell autorita di trasporto. I numeri di emergenza nazionali en Grecia
+        funzionano su qualsiasi telefono senza credito o dati. Una ricerca di aiuto usa meno di 2 MB. Un piano da 1GB/3 giorni
+        ($4.99) se ne occupa facilmente.
+    - q: Come trovare ospedali e farmacie nelle citta Greek?
+      a: Cerca su Google Maps 'farmacia di turno' o 'ospedale' con i tuoi dati eSIM. A Athens, i migliori ospedali privati
+        sono concentrati nei quartieri benestanti. Nelle piccole citta, le farmacie potrebbero chiudere alle 20 - di solito
+        c e una farmacia di turno esposta sulle porte delle farmacie. I pronto soccorso delle cliniche private accettano carte
+        di credito internazionali e i tempi di attesa sono molto piu brevi che negli ospedali pubblici. Per la telemedicina,
+        app come Doctoralia ti mettono in contatto con medici che parlano inglese tramite videochiamata con la tua eSIM. Una
+        ricerca farmacia usa meno di 2 MB. Un piano 1GB ($4.99) copre le ricerche di emergenza per tutto il viaggio.
+    - q: Come contattare l ambasciata del tuo paese en Grecia?
+      a: 'La maggior parte delle ambasciate si trova a Athens. Usa i tuoi dati eSIM per cercare ''ambasciata di [tuo paese]
+        a Athens''. Le grandi ambasciate (USA, UK, Canada, Australia, paesi UE) hanno ufficiali di turno 24 ore, raggiungibili
+        per telefono o a volte WhatsApp. Per passaporti smarriti: chiama prima - la maggior parte delle ambasciate richiede
+        un appuntamento. Usa Skype o chiamate VoIP tramite i tuoi dati eSIM per raggiungerli a basso costo. La ricerca richiede
+        meno di 2 MB. Cattura i dettagli di contatto per averli offline. Un piano da 1GB/3 giorni ($4.99) se ne occupa facilmente.'
+    - q: Cosa fare se smarrisci il telefono durante il viaggio en Grecia?
+      a: 'Se perdi il telefono: 1) Usa il dispositivo di un amico o il computer dell hotel per accedere al nostro sito web
+        e sospendere la tua eSIM - questo interrompe immediatamente l uso dei dati. 2) Usa Dov e il mio iPhone (iCloud) o
+        Google Trova il mio dispositivo per localizzarlo. La maggior parte dei negozi di Grecia conserva un telefono trovato
+        per te. 3) Se il telefono e perso, acquista una eSIM sostitutiva online da qualsiasi dispositivo e installala su un
+        telefono di riserva. 4) Per l assicurazione, sporgi denuncia alle autorita locali - la procedura e semplice. Consiglio
+        da professionista: salva il tuo QR code eSIM nel cloud prima del viaggio. Salva anche l indirizzo e il numero di telefono
+        del tuo alloggio offline - e la prima cosa di cui avrai bisogno. Un piano da 1GB/3 giorni ($4.99) se ne occupa facilmente.'
+    - q: Come rimanere flessibili e gestire i cambi di viaggio en Grecia?
+      a: 'I piani di viaggio cambiano - un volo e in ritardo o decidi di prolungare il soggiorno. La tua eSIM ti mantiene
+        agile: 1) Riprenota i voli istantaneamente sulle app delle compagnie aeree. 2) Modificau prenotazioni di autobus o
+        treno online. 3) Trova un alloggio last minute su Booking.com o piattaforme locali. 4) Controlla il meteo in tempo
+        reale per regolare i tuoi piani giornalieri. 5) Contatta la tua assicurazione di viaggio tramite la sua app o WhatsApp
+        se necessario. Le aziende en Grecia sono generalmente flessibili con i cambi, specialmente quando comunichi presto
+        tramite WhatsApp. Un piano 5GB/15 giorni ($24.99) ti da i dati per adattare i tuoi piani durante il viaggio.'
+  - id: faq-business
+    icon: briefcase
+    tab_title: Business
+    title: 10.  eSIM Grecia per Viaggi d'Affari
+    questions:
+    - q: Qual e la migliore eSIM per affari nel quartiere finanziario di Athens?
+      a: 'Il centro affari di Athens e concentrato a Athens Marousi, Syntagma. Tutti i principali operatori offrono un eccellente
+        copertura qui - Cosmote guida con velocita di 15-50 Mbit/s. Per affari: un piano 10GB/15 giorni ($24.99) copre una
+        settimana lavorativa di email, Slack, videochiamate e accesso cloud. Spazi di coworking: Impact Hub Athens, Le Cube,
+        Stone Soup, Selina (Athens). Usa ride-hailing o trasporti per andare alle riunioni - la tua eSIM ti da dati sul traffico
+        in tempo reale. Un piano 20GB/30 giorni ($29.99) supporta un mese intero di viaggi d affari.'
+    - q: Quanto sono affidabili le chiamate Zoom e Microsoft Teams da Greece?
+      a: 'Le videoconferenze funzionano bene a Athens e nelle grandi citta di Greece. Cosmote 30-60 Mbps. Consigli: 1) Usa
+        i dati eSIM direttamente sul tuo telefono (non hotspot) per la massima stabilita. 2) Le chiamate del mattino (8-11)
+        hanno la minore congestione di rete. 3) Una riunione Zoom di un ora usa ~1 GB. Un piano 20GB/30 giorni ($29.99) supporta
+        ~20 ore di riunioni. Per i grandi presentatori: testa la tua connessione 5 minuti prima delle chiamate importanti.'
+    - q: Come connettersi a una VPN aziendale da Grecia con eSIM?
+      a: 'Keine Einschrankungen.. Connetti la tua VPN aziendale (OpenVPN, WireGuard, Cisco AnyConnect, ecc.) tramite i tuoi
+        dati eSIM senza attriti. Perdita di velocita tramite VPN: 20-30% a causa della crittografia - ancora sufficiente per
+        email, accesso ai file e videochiamate occasionali. Per utenti VPN pesanti, scegli il piano 20GB o 30GB. Testa la
+        tua VPN dal tuo hotel prima di riunioni importanti.'
+    - q: Greece e buono per i nomadi digitali e come supporta eSIM il lavoro a distanza?
+      a: 'Athens und Greek islands growing as nomad destinations. Griechenland Digitaler Nomade visa. Low winter cost of living.
+        La tua eSIM supporta il lavoro a distanza: 1) Dati cellulari affidabili come backup per un Wi-Fi Airbnb inaffidabile.
+        2) Accesso al coworking - Impact Hub Athens, Le Cube, Stone Soup, Selina (Athens). 3) La copertura cellulare si estende
+        ai quartieri popolari e alle zone dei caffe. 4) Il fuso orario di Athens (UTC+2/+3 summer) e conveniente per certi
+        team remoti. Per un soggiorno di 30 giorni: il piano 20GB a $29.99.'
+    - q: Come accedere ai servizi cloud e gestire i fusi orari lavorando da Greece?
+      a: 'Tutti i principali servizi cloud funzionano normalmente tramite la tua eSIM Grecia - Google Drive, Dropbox, OneDrive,
+        Slack, Notion, Microsoft 365 - nessuna restrizione, nessun blocco. Le velocita di upload su Cosmote (10-20 Mbit/s)
+        gestiscono file di grandi dimensioni - una presentazione da 100 MB viene caricata in meno di un minuto. Grecia si
+        trova nel fuso orario UTC+2/+3 summer. Per utenti cloud intensivi, il piano 30GB/30 giorni ($29.99) offre ampia larghezza
+        di banda. Consiglio di produttivita: gli orari di lavoro en Grecia sono generalmente dalle 8 alle 18 con una pausa
+        pranzo di 1-2 ore - pianifica di conseguenza.'
 ---
