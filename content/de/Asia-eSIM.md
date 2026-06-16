@@ -1,7 +1,7 @@
 ---
 title: "Asien eSIM | Günstigster Prepaid Tarif für 15+ Länder"
 description: "Entdecken Sie Asien mit Roami. Verfügbar in Japan, Korea, Thailand, Indien und 12+ Ländern. Eine eSIM für den ganzen Kontinent."
-date: '2026-06-14T00:00:00+00:00'
+date: '2026-06-15T00:00:00+00:00'
 lastmod: '2026-06-08'
 type: regional-esim
 

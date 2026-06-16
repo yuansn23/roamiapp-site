@@ -29,10 +29,6 @@
   - Madagascar-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
   - Malawi-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
   - Mali-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
-  - middle-east-esim.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
-  - oceania-esim.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
-  - south-america-esim.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
   - United-Arab-Emirates-eSIM.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
-  - _index.md : 文件名中未匹配到有效 key（可用 keys 数量: 247）
 
-共 34 个文件。
+共 30 个文件。
