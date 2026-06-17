@@ -13,33 +13,78 @@
     <meta name="twitter:card" content="summary_large_image">
     
     <!-- JSON-LD Structured Data (Article) -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Article",
-        "headline": {{ .Title | jsonify }},
-        "description": {{ .Description | default (.Summary | plainify | truncate 160) | jsonify }},
-        "image": {{ .Params.image | default .Site.Params.defaultImage | absURL | jsonify }},
-        "author": {
-            "@type": "Organization",
-            "name": "Roami"
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Roami",
-            "logo": {
-                "@type": "ImageObject",
-                "url": "{{ .Site.Params.logo | absURL }}"
+ 
+ {{- /* 仅在单页（文章）生成，避免列表页也输出 Article */ -}}
+{{- if .IsPage -}}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Article",
+            "headline": {{ .Title | jsonify }},
+            "description": {{ .Description | default (.Summary | plainify | truncate 160) | jsonify }},
+            "image": {{ .Params.image | default .Site.Params.defaultImage | absURL | jsonify }},
+            "author": {
+                "@type": "Organization",
+                "name": "Roami"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "Roami",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "{{ .Site.Params.logo | absURL }}"
+                }
+            },
+            "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+            "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "{{ .Permalink }}"
             }
         },
-        "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
-        "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "{{ .Permalink }}"
+        {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {{- /* 构建面包屑列表：从首页 → 父级 → 当前页 */ -}}
+                {{- $currentPage := . -}}
+                {{- $entries := slice -}}
+
+                {{- /* 1. 首页（固定） */ -}}
+                {{- $home := .Site.Home -}}
+                {{- $entries = $entries | append (dict "position" 1 "name" "Home" "url" $home.Permalink) -}}
+
+                {{- /* 2. 中间各级父页面（不包括首页） */ -}}
+                {{- $pos := 2 -}}
+                {{- range $currentPage.Ancestors.Reverse -}}
+                    {{- if not .IsHome -}}
+                        {{- $entries = $entries | append (dict "position" $pos "name" .Title "url" .Permalink) -}}
+                        {{- $pos = add $pos 1 -}}
+                    {{- end -}}
+                {{- end -}}
+
+                {{- /* 3. 当前页面（最后一项，不输出 item，符合规范） */ -}}
+                {{- $entries = $entries | append (dict "position" $pos "name" .Title "url" nil) -}}
+
+                {{- /* 输出 JSON 数组，注意逗号 */ -}}
+                {{- range $index, $entry := $entries -}}
+                    {{- if $index }}, {{ end -}}
+                    {
+                        "@type": "ListItem",
+                        "position": {{ $entry.position }},
+                        "name": {{ $entry.name | jsonify }}
+                        {{- if $entry.url -}}
+                            , "item": {{ $entry.url | jsonify }}
+                        {{- end -}}
+                    }
+                {{- end -}}
+            ]
         }
-    }
-    </script>
+    ]
+}
+</script>
+{{- end -}}
     
     <link href="/css/tailwind-compiled.css" rel="stylesheet">
     <style>
