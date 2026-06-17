@@ -540,87 +540,54 @@
 </div>
 {{ end }}
 
-     <section class="bg-white rounded-3xl p-8 border border-slate-200 shadow-sm">
-  <h2 class="text-2xl font-bold text-slate-900 mb-8">
-     {{ .Params.activation_steps.title | markdownify }}
-  </h2>
-  <ol class="relative list-none p-0 m-0">
-    {{ range .Params.activation_steps.steps }}
-    <li class="timeline-item relative flex gap-6 pb-10 timeline-line">
-      <div class="w-12 h-12 rounded-full bg-blue-600 text-white font-bold flex items-center justify-center flex-shrink-0 text-xl shadow-md z-10">
-        {{ .num }}
-      </div>
-      <div class="pt-2">
-        <h3 class="font-bold text-slate-900 text-lg mb-2">
-          {{ .title | markdownify }}
-        </h3>
-        {{ if .is_list }}
-        <div class="bg-slate-50 p-4 rounded-xl border border-slate-100 mt-3">
-          <ul class="space-y-2 text-slate-600">
-            {{ range .list_items }}
-            <li class="flex items-start gap-2">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4 text-blue-500 flex-shrink-0 mt-1">
-                <path d="m9 18 6-6-6-6" />
-              </svg>
-              <span>{{ . | markdownify }}</span>
-            </li>
-            {{ end }}
-          </ul>
-        </div>
-        {{ else }}
-        <p class="text-slate-600 leading-relaxed">
-          {{ .desc | markdownify }}
-        </p>
-        {{ end }}
-      </div>
-    </li>
-    {{ end }}
-  </ol>
-</section>
-            <section>
-                <div class="mb-8">
-                    <h2 class="text-3xl font-extrabold text-slate-900 mb-3">{{ .Params.faq_section.title }}</h2>
-                    <p class="text-slate-600">{{ .Params.faq_section.desc }}</p>
-                </div>
-                <div class="flex flex-col md:flex-row gap-8">
-                    <div class="md:w-1/3 lg:w-1/4 flex-shrink-0">
-                        <div class="flex md:flex-col overflow-x-auto md:overflow-visible gap-2 pb-4 md:pb-0 hide-scrollbar sticky top-24" role="tablist">
-                            {{ $firstFaq := true }}
-                            {{ range .Params.faq_section.categories }}
-                            <button role="tab" aria-selected="{{ if $firstFaq }}true{{ else }}false{{ end }}" aria-controls="{{ .id }}" class="faq-tab-btn {{ if $firstFaq }}active bg-brand-600 text-white shadow-md{{ else }}text-slate-600 hover:bg-slate-50 bg-white border-slate-200{{ end }} text-left px-4 py-3 rounded-xl font-semibold text-sm transition-all border flex items-center gap-2 whitespace-nowrap" data-target="{{ .id }}" onclick="switchFaqTab('{{ .id }}', this)">
-                                <i data-lucide="{{ .icon }}" class="w-4 h-4 {{ if $firstFaq }}text-white{{ end }}"></i> {{ .tab_title }}
-                            </button>
-                            {{ $firstFaq = false }}
-                            {{ end }}
-                        </div>
-                    </div>
-                    <div class="md:w-2/3 lg:w-3/4">
-                        {{ $firstFaqContent := true }}
-                        {{ range .Params.faq_section.categories }}
-                        <div id="{{ .id }}" role="tabpanel" class="faq-content-pane {{ if $firstFaqContent }}block{{ else }}hidden{{ end }} space-y-3">
-                            <h3 class="text-xl font-bold text-slate-800 mb-4 hidden md:block">{{ .title }}</h3>
-                            <ul class="list-none p-0 m-0 space-y-3">
-                                {{ range .questions }}
-                                <li>
-                                    <details class="group bg-white rounded-xl border border-slate-200 shadow-sm overflow-hidden">
-                                        <summary class="flex justify-between items-center font-semibold cursor-pointer list-none p-5 text-slate-900 hover:bg-slate-50 transition-colors text-sm md:text-base">
-                                            <span>{{ .q }}</span>
-                                            <span class="transform transition-transform duration-300 group-open:rotate-180 bg-slate-100 p-1 rounded-full flex-shrink-0 ml-4"><i data-lucide="chevron-down" class="w-4 h-4 text-slate-600"></i></span>
-                                        </summary>
-                                        <div class="px-5 pb-5 text-slate-600 text-sm leading-relaxed border-t border-slate-100 pt-4 bg-white">{{ .a | safeHTML }}</div>
-                                    </details>
-                                </li>
-                                {{ end }}
-                            </ul>
-                        </div>
-                        {{ $firstFaqContent = false }}
-                        {{ end }}
-                    </div>
-                </div>
-            </section>
-			
-			 
 
+<section>
+    {{/* 兼容两种数据路径：faq_section 或 faq_section1 */}}
+    {{ $faqData := .Params.faq_section }}
+    {{ if not $faqData }}
+        {{ $faqData = .Params.faq_section1 }}
+    {{ end }}
+
+    {{ if $faqData }}
+    <div class="mb-8">
+        <h2 class="text-3xl font-extrabold text-slate-900 mb-3">{{ $faqData.title }}</h2>
+        <p class="text-slate-600">{{ $faqData.desc }}</p>
+    </div>
+    {{ end }}
+
+    {{/* 安全获取 FAQ 分类：优先 faq-general，其次 faq-general1 */}}
+    {{ with $faqData }}
+        {{ with .categories }}
+            {{/* 尝试获取 faq-general */}}
+            {{ $general := where . "id" "faq-general" }}
+            {{/* 如果没有 faq-general，尝试 faq-general1 */}}
+            {{ if not $general }}
+                {{ $general = where . "id" "faq-general1" }}
+            {{ end }}
+
+            {{/* 如果找到匹配的分类，则渲染 */}}
+            {{ if $general }}
+                {{ range $general }}
+                <ul class="list-none p-0 m-0 space-y-6">
+                    {{ range .questions }}
+                    <li class="bg-white rounded-xl border border-slate-200 shadow-sm p-6">
+                        <h3 class="text-lg font-semibold text-slate-900 mb-2 flex items-start gap-2">
+                            <span class="text-brand-600 flex-shrink-0 mt-0.5">✦</span>
+                            {{ .q }}
+                        </h3>
+                        <div class="text-slate-600 text-sm leading-relaxed pl-6">
+                            {{ .a | safeHTML }}
+                        </div>
+                    </li>
+                    {{ end }}
+                </ul>
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+</section>
+		
+		
 {{/* 动态加载当前语言的数据文件 */}}
 {{ $data := index .Site.Data .Site.Language.Lang }}
 {{ if not $data }}

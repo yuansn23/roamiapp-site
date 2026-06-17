@@ -201,7 +201,7 @@ activation_steps:
       sofort navigieren, WhatsApp nutzen, soziale Medien checken oder einen Hotspot für andere Geräte einrichten – ohne Wartezeit,
       ohne Ausweis, ohne Vertrag.
     is_list: false
-faq_section1:
+faq_section:
   title: 'Afghanistan eSIM Guide 2026: Datentarife & Reisetipps'
   desc: Von Kabul bis Herat, bleiben Sie mit Afghan Wireless, Roshan, Etisalat verbunden. Unser kompletter Afghanistan eSIM
     Guide deckt Netzabdeckung, Tarife, Einrichtung und Reisetipps ab.
