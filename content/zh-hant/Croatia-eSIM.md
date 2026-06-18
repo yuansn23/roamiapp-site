@@ -1,6 +1,6 @@
 ---
 title: '克羅埃西亞 eSIM 2026: 完整旅遊指南 | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -376,26 +376,26 @@ activation_steps:
       Roami eSIM 克羅埃西亞。幾秒鐘內，您的設備將自動連接到 Hrvatski Telekom / A1 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 克羅埃西亞 eSIM 購買前必讀｜價格方案與電信指南
-  desc: 整理了克羅埃西亞 eSIM的克羅埃西亞 Hrvatski Telekom A1 比較、克羅埃西亞 Hrvatski Telekom 網路覆蓋、克羅埃西亞 Telemach 5G等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂克羅埃西亞上網。
+  title: 克羅埃西亞 eSIM 網路品質評比｜各家電信速度收訊比較
+  desc: 整理了克羅埃西亞 eSIM在克羅埃西亞 Hrvatski Telekom A1 比較的網路覆蓋、Hrvatski Telekom電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 克羅埃西亞 eSIM 購買前必讀｜價格方案與電信指南
+    title: 克羅埃西亞 eSIM 網路品質評比｜各家電信速度收訊比較
     questions:
-    - q: 克羅埃西亞eSIM的價格從多少到多少？有便宜的短期方案嗎？
+    - q: 到克羅埃西亞玩幾天而已，eSIM有沒有比較不貴的方案？
       a: Roami 克羅埃西亞 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Hrvatski Telekom在克羅埃西亞市區5G網速約100-300Mbps，看1080p影片沒問題。去克羅埃西亞機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到克羅埃西亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
-    - q: 看到有人說克羅埃西亞的Hrvatski Telekom在市區很快、A1在郊區很廣，真的是這樣嗎？
+    - q: Hrvatski Telekom、A1、Telemach這三家在克羅埃西亞的收訊，在市區和郊區各推薦哪家？
       a: 克羅埃西亞主要有Hrvatski Telekom、A1、Telemach。Hrvatski Telekom市區下載快、基地台密集。A1郊區覆蓋廣，會去郊區的話選A1路線較有保障。Telemach價格親民，適合預算有限的旅客。克羅埃西亞5G使用n78頻段，沿海及主要城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Hrvatski Telekom，移動到郊區若Hrvatski Telekom訊號變弱就自動跳A1或Telemach，完全不用手動選。
-    - q: 不太確定去克羅埃西亞會用多少網路，該直接選吃到飽還是先買定量就好？
+    - q: 克羅埃西亞eSIM的30天無限方案跟15天10GB的比起來，哪個平均每天比較便宜？
       a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。克羅埃西亞5G使用n78頻段，沿海及主要城市覆蓋。Roami在克羅埃西亞連上Hrvatski Telekom的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
-    - q: 如果出發前忘記先辦好克羅埃西亞eSIM的認證，到當地才弄來得及嗎？
+    - q: 去克羅埃西亞用eSIM需要先通過身分驗證嗎？要準備哪些證件？
       a: 需要的。克羅埃西亞預付卡需KYC認證，需提供護照。很多人不知道這規定，到了克羅埃西亞機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。克羅埃西亞5G使用n78頻段，沿海及主要城市覆蓋。另外Hrvatski Telekom的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到克羅埃西亞開數據漫遊就能直接用。不支援eSIM可租WiFi機。
-    - q: 搭車從克羅埃西亞市區移動到郊區的時候，eSIM網路會一直切換嗎？
+    - q: 離開克羅埃西亞市區之後，eSIM的訊號會不會變得很差？
       a: 克羅埃西亞的Hrvatski Telekom等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。克羅埃西亞5G使用n78頻段，沿海及主要城市覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
-    - q: 去克羅埃西亞旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
-      a: Roami 克羅埃西亞 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
+    - q: 克羅埃西亞eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
+      a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
 related_products:
   title: 類似 克羅埃西亞 eSIM 的旅行方案
   items:
@@ -462,7 +462,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 與預付 SIM 卡在 克羅埃西亞 的關鍵差異"
+  title: "Croatia eSIM 網路速度與覆蓋完整介紹"
   subtitle: "克羅埃西亞當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (Croatia) + 當地電信商官網"
@@ -475,7 +475,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "需在克羅埃西亞境內尋找Tisak或iNovine等報刊亭、T-Centar或A1門市，存在排隊等候的物理時間成本。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Croatia. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開在薩格勒布機場排隊尋找A1或Telemach實體店，Roami eSIM出發前線上購買，落地後一分鐘內啟用，無需排隊等候。"
     - icon: "id-card"

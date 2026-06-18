@@ -194,8 +194,8 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Your Complete Guide to eSIM for Burkina Faso Travelers"
-  desc: "Planning Burkina Faso travel? Our eSIM guide covers best esim for burkina faso, plans, and setup tips."
+  title: "eSIM for Travelers in Burkina Faso -- Network Speeds, Coverage and Tips"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Burkina Faso. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -203,37 +203,37 @@ faq_section:
     title: Burkina Faso eSIM FAQs
     questions:
     - q: |
-        Which carrier in Burkina Faso should I rely on for my eSIM?
+        Which network in Burkina Faso has the best coverage for travelers — Orange, Telecel, or Telmob?
       a: |
-        Orange operates over 15,000 towers across Burkina Faso, covering all major cities. Telecel complements this with additional rural coverage reaching about 90% of the population. Telmob focuses on affordability, with data plans costing roughly 20% less than Orange. With Roami, you don't pick one — it connects to whichever is strongest.
+        Burkina Faso has three main carriers: Orange, Telecel, and Telmob. Orange reaches about 95% of the population with 4G/5G. Telecel covers roughly 90% but has stronger rural reach. Telmob offers competitive pricing, often 15-20% cheaper than Orange. Burkina Faso is primarily 3G/4G. Roami automatically connects you to whichever is strongest at your location.
     - q: |
-        What documents do I need to buy a Burkina Faso eSIM from Roami?
+        What happens if I use all my data in Burkina Faso before my plan expires?
       a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
     - q: |
-        How much data does a typical traveler actually use per day in Burkina Faso?
+        How far in advance should I buy my Burkina Faso eSIM?
       a: |
-        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Burkina Faso, so buying early doesn't waste your plan days.
+    - q: |
+        Can I use navigation apps like Google Maps with eSIM in Burkina Faso?
+      a: |
+        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Burkina Faso (about 200-500MB per city) before you go as a backup.
+    - q: |
+        What's the easiest way to stay connected in Burkina Faso without dealing with airport SIM kiosks?
+      a: |
+        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Orange for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
     - q: |
         Can I check how much data I've used on my Burkina Faso eSIM?
       a: |
         Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
     - q: |
-        Can I buy a Burkina Faso eSIM at the last minute, right before my flight?
+        Can I install my Burkina Faso eSIM at the airport, or should I do it before leaving home?
       a: |
-        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Burkina Faso, just enable Data Roaming and you'll be online immediately.
+        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Burkina Faso's airport, enable Data Roaming and you'll be online in under 60 seconds.
     - q: |
-        Can I use my Burkina Faso eSIM right after buying it, or do I need to wait?
+        How does eSIM compare to pocket WiFi for Burkina Faso travel?
       a: |
-        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Burkina Faso. So you can install weeks before your trip without losing any plan days.
-    - q: |
-        Will my eSIM in Burkina Faso work for video calls and remote work?
-      a: |
-        Absolutely. Orange networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
-    - q: |
-        Does WhatsApp and FaceTime work with eSIM in Burkina Faso?
-      a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Orange's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
 related_products:
   title: Related Burkina Faso eSIM Plans
   items:

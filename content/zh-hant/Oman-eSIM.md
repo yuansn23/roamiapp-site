@@ -1,6 +1,6 @@
 ---
 title: '阿曼 eSIM 2026: 旅行與網路 | Roami'
-date: '2026-06-15T10:12:41+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -328,26 +328,26 @@ activation_steps:
       Omantel / Ooredoo 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 阿曼 eSIM 購買前必讀｜價格方案與電信指南
-  desc: 整理了阿曼 eSIM的阿曼 Omantel Ooredoo 比較、阿曼 Omantel 網路覆蓋、阿曼 Ooredoo 速度等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂阿曼上網。
+  title: 阿曼 eSIM Omantel網路品質與速度指南｜4G/5G覆蓋範圍
+  desc: 整理了阿曼 eSIM在阿曼 Omantel Ooredoo 比較的網路覆蓋、Omantel電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 阿曼 eSIM 購買前必讀｜價格方案與電信指南
+    title: 阿曼 eSIM Omantel網路品質與速度指南｜4G/5G覆蓋範圍
     questions:
     - q: 阿曼eSIM各方案價格差在哪裡？買哪種最適合一般觀光客？
       a: Roami 阿曼 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Omantel在阿曼市區5G網速約100-300Mbps，看1080p影片沒問題。去阿曼機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到阿曼後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 到阿曼用eSIM，Roami會自動幫我選Omantel或Ooredoo訊號比較強的那一家嗎？
       a: 阿曼主要有Omantel、Ooredoo。Omantel市區下載快、基地台密集。Ooredoo郊區覆蓋廣，會去郊區的話選Ooredoo路線較有保障。阿曼4G/5G，馬斯喀特等城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Omantel，移動到郊區若Omantel訊號變弱就自動跳Ooredoo，完全不用手動選。
-    - q: 去阿曼用eSIM需要先通過身分驗證嗎？要準備哪些證件？
+    - q: 阿曼eSIM買了之後要驗證證件嗎？沒先辦好會不會到了不能用？
       a: 需要的。阿曼預付卡需KYC認證，需提供護照。很多人不知道這規定，到了阿曼機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。阿曼4G/5G，馬斯喀特等城市覆蓋。完成後到阿曼開數據漫遊就能直接用。不支援eSIM可租WiFi機。
-    - q: 搭車從阿曼市區移動到郊區的時候，eSIM網路會一直切換嗎？
+    - q: 在阿曼的郊區或小鎮也能正常使用eSIM嗎？查地圖導航會不會斷？
       a: 阿曼的Omantel等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。阿曼4G/5G，馬斯喀特等城市覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 去阿曼旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
       a: Roami 阿曼 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
-    - q: 出國去阿曼用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
-      a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到阿曼開數據漫遊就用。
+    - q: 阿曼eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
+      a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
 related_products:
   title: 類似 阿曼 eSIM 的旅行方案
   items:

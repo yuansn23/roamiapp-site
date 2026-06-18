@@ -311,8 +311,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Affordable eSIM Options for Panama — Compare Plans & Prices"
-  desc: "Planning Panama travel? Our eSIM guide covers panama esim unlimited, plans, and setup tips."
+  title: "What Internet Speed Can You Expect with eSIM in Panama?"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Panama. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -332,25 +332,25 @@ faq_section:
       a: |
         There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
     - q: |
-        Can I buy a Panama eSIM at the last minute, right before my flight?
+        Will my eSIM in Panama work for video calls and remote work?
       a: |
-        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Panama, just enable Data Roaming and you'll be online immediately.
+        Absolutely. Claro networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
+    - q: |
+        What documents do I need to buy a Panama eSIM from Roami?
+      a: |
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+    - q: |
+        Can I use my Panama eSIM right after buying it, or do I need to wait?
+      a: |
+        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Panama. So you can install weeks before your trip without losing any plan days.
     - q: |
         Will my Panama eSIM work as soon as I land, or is there an activation delay?
       a: |
         If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Claro. No queues, no paperwork — you're online before you reach baggage claim.
     - q: |
-        What's included when I buy a Panama eSIM from Roami?
+        I'm traveling to Panama for just 2-3 days. What eSIM should I get?
       a: |
-        QR code delivery within 5 minutes, access to Claro's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
-    - q: |
-        What's the difference between a 5GB plan and an unlimited plan for Panama?
-      a: |
-        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
-    - q: |
-        How do I know if my Panama eSIM plan is active and ready to use?
-      a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Panama — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
 related_products:
   title: Related Panama eSIM Plans
   items:

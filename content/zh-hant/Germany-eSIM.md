@@ -1,6 +1,6 @@
 ---
 title: '德國 eSIM 2026: 旅行與網路 | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -376,15 +376,15 @@ activation_steps:
       Telekom / Vodafone 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 德國 eSIM 怎麼買最划算｜方案推薦與注意事項
-  desc: 整理了德國 eSIM的德國 Telekom Vodafone 比較、德國 Telekom 網路覆蓋、德國 Vodafone 速度等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂德國上網。
+  title: 德國 eSIM 網路覆蓋與電信商Telekom介紹｜上網速度實測
+  desc: 整理了德國 eSIM在德國 Telekom Vodafone 比較的網路覆蓋、Telekom電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 德國 eSIM 怎麼買最划算｜方案推薦與注意事項
+    title: 德國 eSIM 網路覆蓋與電信商Telekom介紹｜上網速度實測
     questions:
-    - q: 德國eSIM各方案價格差在哪裡？買哪種最適合一般觀光客？
+    - q: 去德國自由行的話，辦eSIM上網大概要花多少錢？
       a: Roami 德國 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Telekom在德國市區5G網速約100-300Mbps，看1080p影片沒問題。如果去Klook查德國 eSIM，Roami通常便宜10-20%，因為沒有平台抽成。如果不確定用量可以先買小的，到德國後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 去德國玩辦eSIM，Roami會自動切換Telekom、Vodafone、O2的網路嗎？
       a: 德國主要有Telekom、Vodafone、O2。Telekom市區下載快、基地台密集。Vodafone郊區覆蓋廣，會去郊區的話選Vodafone路線較有保障。O2價格親民，適合預算有限的旅客。德國5G使用n1/n3/n28/n78頻段，B20對郊區覆蓋至關重要。不過Roami會自動切換到當前訊號最強的網路。市區用Telekom，移動到郊區若Telekom訊號變弱就自動跳Vodafone或O2，完全不用手動選。
@@ -392,11 +392,11 @@ faq_section:
       a: 很多人上Klook比價德國 eSIM。主要差異：第一，Roami直銷無平台抽成，價格通常比Klook便宜10-20%。第二，Roami有24小時直接客服，不用透過Klook轉達。第三，Roami買斷制到期就停，不會續約扣款。德國5G使用n1/n3/n28/n78頻段，B20對郊區覆蓋至關重要。不過Klook可跟飯店票券合併結帳累積點數。不管哪買，在德國都是接取Telekom、Vodafone、O2的網路，訊號品質一樣。
     - q: 德國eSIM有特定頻段限制嗎？如果手機不支援某個頻段會怎樣？
       a: 最快方法：撥號*#06#，出現EID代表支援eSIM。iPhone XS以後、Samsung S20/Flip以後、Pixel 4以後、多數2020年後旗艦機都支援。德國5G使用n1/n3/n28/n78頻段，B20對郊區覆蓋至關重要。很多人忽略頻段問題——Telekom在德國的n1/n3/n28/n78頻段可能跟你的手機不完全吻合。出發前到[Roami相容性頁面](/compatibility/)查型號。不支援eSIM可租WiFi機或買當地實體SIM卡。
-    - q: 不太確定去德國會用多少網路，該直接選吃到飽還是先買定量就好？
+    - q: 去德國旅遊的話，辦eSIM吃到飽會不會太浪費？一般人一天大概用多少流量？
       a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。德國5G使用n1/n3/n28/n78頻段，B20對郊區覆蓋至關重要。Roami在德國連上Telekom的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
-    - q: 去德國辦eSIM的認證流程大概要多久？買完馬上就能用嗎？
+    - q: 有人說去德國辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
       a: 需要的。德國法規要求所有預付SIM卡需KYC實名認證，需提供護照。很多人不知道這規定，到了德國機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。德國5G使用n1/n3/n28/n78頻段，B20對郊區覆蓋至關重要。另外Telekom的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到德國開數據漫遊就能直接用。不支援eSIM可租WiFi機。
-    - q: 行程會經過德國和瑞士，eSIM可以買一張跨兩國使用的嗎？
+    - q: 如果從德國再到瑞士，原本的eSIM還能繼續用嗎？
       a: Roami單國方案僅限德國境內。每個國家電信網路是分開的，需要不同方案。你的行程包含瑞士等其他國家的話，有兩種方式：第一，出發前把各國eSIM都買好，手機可存多組（約5-10組），到哪國啟用哪個。第二，Roami也有區域方案（如歐洲多國），一卡多國使用。先算各國停留天數再選最划算的買法。
     - q: 搭車從德國市區移動到郊區的時候，eSIM網路會一直切換嗎？
       a: 德國的Telekom等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。德國5G使用n1/n3/n28/n78頻段，B20對郊區覆蓋至關重要。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
@@ -466,7 +466,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 與預付 SIM 卡在 德國 所有你該考慮的事"
+  title: "Germany eSIM 能不能順暢上網？速度、延遲、覆蓋一次說清楚"
   subtitle: "德國當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (Germany) + 當地電信商官網"
@@ -479,7 +479,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "超市實體卡僅為空卡，必須攜帶護照前往 Deutsche Post 網點忍受營業時間限制做 PostIdent，或承擔 VideoIdent 德語面簽失敗及護照反光被拒的高風險，全程最快需數小時至24小時。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Germany. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開 Vodafone 門市排隊或超市空卡陷阱，抵達柏林後一分鐘內線上啟用 Roami eSIM，無需尋找 Deutsche Post 網點或忍受 VideoIdent 德語面簽失敗風險。"
     - icon: "id-card"

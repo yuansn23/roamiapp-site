@@ -318,8 +318,8 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Affordable eSIM Options for Azerbaijan — Compare Plans & Prices"
-  desc: "Planning Azerbaijan travel? Our eSIM guide covers azerbaijan esim internet, plans, and setup tips."
+  title: "What Internet Speed Can You Expect with eSIM in Azerbaijan?"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Azerbaijan. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -327,37 +327,37 @@ faq_section:
     title: Azerbaijan eSIM FAQs
     questions:
     - q: |
-        How much should I budget for an eSIM when visiting Azerbaijan?
+        What are the cheapest eSIM options for a trip to Azerbaijan?
       a: |
-        Roami offers Azerbaijan eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Azercell provides reliable speeds across Azerbaijan. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+        Roami Azerbaijan eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Azerbaijan uses 4G which handles maps and messaging just fine. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
     - q: |
-        Is it safe to upload my passport for Azerbaijan eSIM registration? I'm concerned about privacy.
+        Do I need a passport or ID to use eSIM in Azerbaijan? How does the verification work?
       a: |
-        Azerbaijan requires identity verification by law. Azerbaijan requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Azerbaijan.
+        Yes, Azerbaijan requires identity verification for eSIM. Azerbaijan requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Azercell's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
-        What if my hotel in Azerbaijan has free WiFi — do I still need eSIM data?
+        How far in advance should I buy my Azerbaijan eSIM?
       a: |
-        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
+        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Azerbaijan, so buying early doesn't waste your plan days.
     - q: |
-        Is eSIM cheaper than international roaming for Azerbaijan?
+        What's included when I buy a Azerbaijan eSIM from Roami?
       a: |
-        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Azerbaijan costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+        QR code delivery within 5 minutes, access to Azercell's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
     - q: |
-        Do I need to remove my physical SIM to use eSIM in Azerbaijan?
+        What happens if I use all my data in Azerbaijan before my plan expires?
       a: |
-        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
     - q: |
-        Can I use my Azerbaijan eSIM right after buying it, or do I need to wait?
+        What's the difference between a 5GB plan and an unlimited plan for Azerbaijan?
       a: |
-        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Azerbaijan. So you can install weeks before your trip without losing any plan days.
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
     - q: |
-        I'm traveling to Azerbaijan for just 2-3 days. What eSIM should I get?
+        What documents do I need to buy a Azerbaijan eSIM from Roami?
       a: |
-        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
     - q: |
-        Does WhatsApp and FaceTime work with eSIM in Azerbaijan?
+        How does eSIM compare to pocket WiFi for Azerbaijan travel?
       a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Azercell's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
 related_products:
   title: Related Azerbaijan eSIM Plans
   items:

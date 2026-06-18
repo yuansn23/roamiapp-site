@@ -318,8 +318,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Armenia eSIM on a Budget — Cheap Plans That Work Well"
-  desc: "Planning Armenia travel? Our eSIM guide covers armenia esim unlimited, plans, and setup tips."
+  title: "Will eSIM Work Well in Armenia? A Traveler Guide to Internet Quality"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Armenia. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -343,21 +343,21 @@ faq_section:
       a: |
         Absolutely. Roami's Armenia eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
     - q: |
-        I need internet access for just a couple of days in Armenia. What's the minimum I can buy?
-      a: |
-        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
-    - q: |
-        Does WhatsApp and FaceTime work with eSIM in Armenia?
-      a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Viva-MTS's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
-    - q: |
         How far in advance should I buy my Armenia eSIM?
       a: |
         You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Armenia, so buying early doesn't waste your plan days.
     - q: |
-        How do I know if my Armenia eSIM plan is active and ready to use?
+        Can I use my Armenia eSIM for social media and sharing photos with family?
       a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Armenia — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Viva-MTS handle photos in seconds and short videos easily.
+    - q: |
+        When does the validity period of my Armenia eSIM start?
+      a: |
+        The plan validity starts when you connect to a local network in Armenia, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+    - q: |
+        Does WhatsApp and FaceTime work with eSIM in Armenia?
+      a: |
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Viva-MTS's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
 related_products:
   title: Related Armenia eSIM Plans
   items:

@@ -350,8 +350,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Cost-Effective eSIM for Albania — Save on Roaming Fees"
-  desc: "Planning Albania travel? Our eSIM guide covers esim macedonia albania, plans, and setup tips."
+  title: "eSIM in Albania -- Is the Connection Fast and Reliable for Tourists?"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Albania. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -375,21 +375,21 @@ faq_section:
       a: |
         Roami typically offers better value for Albania eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
+        What if I accidentally delete my Albania eSIM before my trip?
+      a: |
+        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+    - q: |
+        What's the difference between a 5GB plan and an unlimited plan for Albania?
+      a: |
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+    - q: |
+        Does WhatsApp and FaceTime work with eSIM in Albania?
+      a: |
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Vodafone's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+    - q: |
         What's the easiest way to stay connected in Albania without dealing with airport SIM kiosks?
       a: |
         eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Vodafone for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
-    - q: |
-        Is eSIM cheaper than international roaming for Albania?
-      a: |
-        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Albania costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
-    - q: |
-        What do I do if my Albania eSIM doesn't connect when I arrive?
-      a: |
-        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Vodafone in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
-    - q: |
-        What's included when I buy a Albania eSIM from Roami?
-      a: |
-        QR code delivery within 5 minutes, access to Vodafone's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
 related_products:
   title: Related Albania eSIM Plans
   items:

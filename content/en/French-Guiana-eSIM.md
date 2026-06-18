@@ -252,8 +252,8 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "French Guiana eSIM — Plans, Prices and Setup Tips for Travelers"
-  desc: "Planning French Guiana travel? Our eSIM guide covers french guiana iso code, plans, and setup tips."
+  title: "eSIM for Travelers in French Guiana -- Network Speeds, Coverage and Tips"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in French Guiana. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -265,33 +265,33 @@ faq_section:
       a: |
         Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
     - q: |
-        Does WhatsApp and FaceTime work with eSIM in French Guiana?
+        What happens if I use all my data in French Guiana before my plan expires?
       a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Orange's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
-    - q: |
-        I need internet access for just a couple of days in French Guiana. What's the minimum I can buy?
-      a: |
-        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
-    - q: |
-        Can I install my French Guiana eSIM at the airport, or should I do it before leaving home?
-      a: |
-        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At French Guiana's airport, enable Data Roaming and you'll be online in under 60 seconds.
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
     - q: |
         How does eSIM compare to pocket WiFi for French Guiana travel?
       a: |
         eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
     - q: |
-        What if my hotel in French Guiana has free WiFi — do I still need eSIM data?
+        What documents do I need to buy a French Guiana eSIM from Roami?
       a: |
-        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
     - q: |
-        Will my eSIM in French Guiana work for video calls and remote work?
+        I'm traveling to French Guiana for just 2-3 days. What eSIM should I get?
       a: |
-        Absolutely. Orange networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
+        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
     - q: |
-        What happens if my French Guiana eSIM stops working mid-trip?
+        Does the French Guiana eSIM work in rural areas and smaller towns?
       a: |
-        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
+        Coverage in French Guiana reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
+    - q: |
+        How much data does a typical traveler actually use per day in French Guiana?
+      a: |
+        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+    - q: |
+        Do I need to remove my physical SIM to use eSIM in French Guiana?
+      a: |
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
 related_products:
   title: Related French Guiana eSIM Plans
   items:

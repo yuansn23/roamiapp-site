@@ -187,8 +187,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Traveling to Liberia? Here's What to Know About eSIM"
-  desc: "Planning Liberia travel? Our eSIM guide covers orange liberia esim activation, plans, and setup tips."
+  title: "Getting Online in Liberia -- eSIM Network Quality and Speed Guide"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Liberia. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -200,33 +200,33 @@ faq_section:
       a: |
         In Liberia, MTN leads with the fastest urban 5G speeds (up to 1 Gbps in tests). Lonestar Cell covers about 85% of the country including most rural areas. Liberia Telecom is the budget option, often bundling data at lower per-GB rates. Tourists visiting cities get excellent service from all three. Liberia is primarily 3G/4G. Roami picks the best one automatically as you move around.
     - q: |
-        Does WhatsApp and FaceTime work with eSIM in Liberia?
+        Can I keep my home SIM in my phone while using eSIM in Liberia?
       a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. MTN's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
     - q: |
-        Can I install my Liberia eSIM at the airport, or should I do it before leaving home?
+        What's the difference between a 5GB plan and an unlimited plan for Liberia?
       a: |
-        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Liberia's airport, enable Data Roaming and you'll be online in under 60 seconds.
-    - q: |
-        What happens if my Liberia eSIM stops working mid-trip?
-      a: |
-        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
-    - q: |
-        What's the most popular eSIM choice for travelers going to Liberia?
-      a: |
-        Most travelers to Liberia choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
     - q: |
         Is eSIM cheaper than international roaming for Liberia?
       a: |
         Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Liberia costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
     - q: |
-        How do I know if my Liberia eSIM plan is active and ready to use?
+        Can I use my Liberia eSIM for social media and sharing photos with family?
       a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Liberia — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from MTN handle photos in seconds and short videos easily.
     - q: |
-        I'm arriving in Liberia late at night. Will I be able to get online immediately?
+        Do I need to remove my physical SIM to use eSIM in Liberia?
       a: |
-        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up MTN automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
+    - q: |
+        How many eSIM profiles can I store on my phone for traveling to Liberia?
+      a: |
+        Most phones store 5-10 eSIM profiles. You can keep your Liberia eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
+    - q: |
+        How does eSIM compare to pocket WiFi for Liberia travel?
+      a: |
+        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
 related_products:
   title: Related Liberia eSIM Plans
   items:

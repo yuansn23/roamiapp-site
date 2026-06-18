@@ -1,6 +1,6 @@
 ---
 title: '墨西哥 eSIM 2026: 旅行與網路 | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -368,26 +368,26 @@ activation_steps:
       Roami eSIM 墨西哥。幾秒鐘內，您的設備將自動連接到 Telcel / AT&T 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 墨西哥 eSIM 購買前必讀｜價格方案與電信指南
-  desc: 整理了墨西哥 eSIM的墨西哥 Telcel AT&T 比較、墨西哥 Telcel 網路覆蓋、墨西哥 Movistar 5G等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂墨西哥上網。
+  title: 墨西哥 eSIM 網路覆蓋與電信商Telcel介紹｜上網速度實測
+  desc: 整理了墨西哥 eSIM在墨西哥 Telcel AT&T 比較的網路覆蓋、Telcel電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 墨西哥 eSIM 購買前必讀｜價格方案與電信指南
+    title: 墨西哥 eSIM 網路覆蓋與電信商Telcel介紹｜上網速度實測
     questions:
     - q: 準備去墨西哥long stay，eSIM方案買哪種比較划算？
       a: Roami 墨西哥 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Telcel在墨西哥市區5G網速約100-300Mbps，看1080p影片沒問題。去墨西哥機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到墨西哥後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
-    - q: 去墨西哥旅遊的話，Telcel、AT&T、Movistar這三家電信分別有什麼優缺點？
+    - q: 看到有人說墨西哥的Telcel在市區很快、AT&T在郊區很廣，真的是這樣嗎？
       a: 墨西哥主要有Telcel、AT&T、Movistar。Telcel市區下載快、基地台密集。AT&T郊區覆蓋廣，會去郊區的話選AT&T路線較有保障。Movistar價格親民，適合預算有限的旅客。墨西哥5G使用n78頻段，墨西哥城及主要城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Telcel，移動到郊區若Telcel訊號變弱就自動跳AT&T或Movistar，完全不用手動選。
-    - q: 不太確定去墨西哥會用多少網路，該直接選吃到飽還是先買定量就好？
+    - q: 墨西哥eSIM吃到飽方案如果被降速了，512kbps的速度還能做什麼？
       a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。墨西哥5G使用n78頻段，墨西哥城及主要城市覆蓋。Roami在墨西哥連上Telcel的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 墨西哥eSIM不需要實名登記嗎？跟其他需要護照的國家不一樣？
       a: 沒錯，墨西哥 eSIM不需要證件認證。墨西哥預付卡通常不需KYC，可直接購買。直接購買安裝就能用，省去排隊辦卡填資料的麻煩。連上Telcel的網路即可上網。墨西哥5G使用n78頻段，墨西哥城及主要城市覆蓋。建議出發前用WiFi先裝好，到墨西哥開啟數據漫遊就自動連線。不確定手機支援度可到[相容性頁面](/compatibility/)查詢。
     - q: 搭車從墨西哥市區移動到郊區的時候，eSIM網路會一直切換嗎？
       a: 墨西哥的Telcel等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。墨西哥5G使用n78頻段，墨西哥城及主要城市覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
-    - q: 去墨西哥旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
-      a: Roami 墨西哥 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
+    - q: 出國去墨西哥用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
+      a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到墨西哥開數據漫遊就用。
 related_products:
   title: 類似 墨西哥 eSIM 的旅行方案
   items:
@@ -454,7 +454,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 與實體 SIM 卡在 墨西哥 的真正差異是什麼？"
+  title: "Mexico eSIM 網路品質好不好？城市與鄉村覆蓋完整分析"
   subtitle: "墨西哥當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (Mexico) + 當地電信商官網"
@@ -467,7 +467,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "自2026年1月9日起，所有新SIM卡（含預付費）激活時必須使用墨西哥CURP碼和護照進行實名登記，機場門市常有排隊現象。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Mexico. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開Telcel門市排隊及2026年起強制護照登記的繁瑣流程，抵達墨西哥後一分鐘內線上啟用eSIM，落地即用。"
     - icon: "id-card"

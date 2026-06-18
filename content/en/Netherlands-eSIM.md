@@ -375,8 +375,8 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Setting Up eSIM for Netherlands — What Documents You Need to Prepare"
-  desc: "Planning Netherlands travel? Our eSIM guide covers netherlands esim providers, plans, and setup tips."
+  title: "How Fast is eSIM Internet in Netherlands? Speeds and Coverage for Travelers"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Netherlands. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -392,29 +392,29 @@ faq_section:
       a: |
         Roami typically offers better value for Netherlands eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Holafly. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        Which carrier in Netherlands should I rely on for my eSIM?
+        Which network in Netherlands has the best coverage for travelers — KPN, Vodafone, or T-Mobile?
       a: |
-        KPN operates over 15,000 towers across Netherlands, covering all major cities. Vodafone complements this with additional rural coverage reaching about 90% of the population. T-Mobile focuses on affordability, with data plans costing roughly 20% less than KPN. With Roami, you don't pick one — it connects to whichever is strongest.
+        Netherlands has three main carriers: KPN, Vodafone, and T-Mobile. KPN reaches about 95% of the population with 4G/5G. Vodafone covers roughly 90% but has stronger rural reach. T-Mobile offers competitive pricing, often 15-20% cheaper than KPN. Netherlands uses 5G on n78 band with dense nationwide c Roami automatically connects you to whichever is strongest at your location.
     - q: |
-        How far in advance should I buy my Netherlands eSIM?
+        Can I use my Netherlands eSIM right after buying it, or do I need to wait?
       a: |
-        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Netherlands, so buying early doesn't waste your plan days.
+        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Netherlands. So you can install weeks before your trip without losing any plan days.
     - q: |
-        What's the easiest way to stay connected in Netherlands without dealing with airport SIM kiosks?
+        Can I keep my home SIM in my phone while using eSIM in Netherlands?
       a: |
-        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to KPN for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
+        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
     - q: |
-        How do I know if my Netherlands eSIM plan is active and ready to use?
+        I need internet access for just a couple of days in Netherlands. What's the minimum I can buy?
       a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Netherlands — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
     - q: |
-        What do I do if my Netherlands eSIM doesn't connect when I arrive?
+        Does WhatsApp and FaceTime work with eSIM in Netherlands?
       a: |
-        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select KPN in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. KPN's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
     - q: |
-        How much data does a typical traveler actually use per day in Netherlands?
+        What's included when I buy a Netherlands eSIM from Roami?
       a: |
-        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+        QR code delivery within 5 minutes, access to KPN's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
 related_products:
   title: Related Netherlands eSIM Plans
   items:

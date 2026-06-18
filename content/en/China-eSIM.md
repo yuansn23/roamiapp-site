@@ -326,8 +326,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Best eSIM for Tourists Visiting China — Plans and Tips"
-  desc: "Planning China travel? Our eSIM guide covers mobimatter china esim, plans, and setup tips."
+  title: "Will eSIM Work Well in China? A Traveler Guide to Internet Quality"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in China. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -335,37 +335,37 @@ faq_section:
     title: China eSIM FAQs
     questions:
     - q: |
-        How do China Mobile, China Unicom, and China Telecom compare for a tourist visiting China?
+        Tourists visiting China — which network gives the best experience?
       a: |
-        In China, China Mobile leads with the fastest urban 5G speeds (up to 1 Gbps in tests). China Unicom covers about 85% of the country including most rural areas. China Telecom is the budget option, often bundling data at lower per-GB rates. Tourists visiting cities get excellent service from all three. China uses 5G on n41/n78/n79 bands. Some international  Roami picks the best one automatically as you move around.
+        For urban sightseeing, China Mobile typically delivers download speeds of 50-200 Mbps on 4G/5G. China Unicom has slightly broader coverage in suburban areas. China Telecom offers competitive data rates, often with more flexible prepaid options. All three work well for maps, messaging, and social media. Roami ensures you're always on the best one.
     - q: |
-        How does Roami compare to Klook for eSIM in China?
+        How does Roami compare to Holafly for eSIM in China?
       a: |
-        Roami typically offers better value for China eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Klook. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Roami typically offers better value for China eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Holafly. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        Will my China eSIM work as soon as I land, or is there an activation delay?
+        Can I buy a China eSIM at the last minute, right before my flight?
       a: |
-        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to China Mobile. No queues, no paperwork — you're online before you reach baggage claim.
+        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in China, just enable Data Roaming and you'll be online immediately.
     - q: |
-        Can I use navigation apps like Google Maps with eSIM in China?
+        Does WhatsApp and FaceTime work with eSIM in China?
       a: |
-        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for China (about 200-500MB per city) before you go as a backup.
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. China Mobile's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
     - q: |
-        How much data does a typical traveler actually use per day in China?
+        Does the China eSIM work in rural areas and smaller towns?
       a: |
-        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+        Coverage in China reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
     - q: |
-        I'm arriving in China late at night. Will I be able to get online immediately?
+        Can I keep my home SIM in my phone while using eSIM in China?
       a: |
-        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up China Mobile automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
+        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
     - q: |
-        What's the easiest way to stay connected in China without dealing with airport SIM kiosks?
+        How does eSIM compare to pocket WiFi for China travel?
       a: |
-        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to China Mobile for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
+        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
     - q: |
-        What do I do if my China eSIM doesn't connect when I arrive?
+        Can I use my China eSIM for social media and sharing photos with family?
       a: |
-        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select China Mobile in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
+        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from China Mobile handle photos in seconds and short videos easily.
 related_products:
   title: Related China eSIM Plans
   items:

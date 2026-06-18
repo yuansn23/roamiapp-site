@@ -1,6 +1,6 @@
 ---
 title: '喀麥隆 eSIM 2026: 5G與方案 | Roami'
-date: '2026-06-15T10:42:56+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -188,19 +188,19 @@ activation_steps:
       MTN / Orange 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 喀麥隆 eSIM 購買前必讀｜價格方案與電信指南
-  desc: 整理了喀麥隆 eSIM的喀麥隆 MTN Orange 比較、喀麥隆 Orange 速度、喀麥隆 Camtel 5G等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂喀麥隆上網。
+  title: 喀麥隆 eSIM MTN網路品質與速度指南｜4G/5G覆蓋範圍
+  desc: 整理了喀麥隆 eSIM在喀麥隆 MTN Orange 比較的網路覆蓋、MTN電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 喀麥隆 eSIM 購買前必讀｜價格方案與電信指南
+    title: 喀麥隆 eSIM MTN網路品質與速度指南｜4G/5G覆蓋範圍
     questions:
-    - q: 準備去喀麥隆出差，eSIM方案哪個比較適合商務使用？
+    - q: 出國去喀麥隆辦eSIM有推薦的方案嗎？不想花太多錢。
       a: Roami 喀麥隆 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。喀麥隆以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去喀麥隆機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到喀麥隆後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
-    - q: 去喀麥隆玩辦eSIM，Roami會自動切換MTN、Orange、Camtel的網路嗎？
+    - q: 喀麥隆三大電信MTN、Orange、Camtel，一般觀光客選哪家比較適合？
       a: 喀麥隆主要有MTN、Orange、Camtel。MTN市區下載快、基地台密集。Orange郊區覆蓋廣，會去郊區的話選Orange路線較有保障。Camtel價格親民，適合預算有限的旅客。喀麥隆4G為主，主要城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用MTN，移動到郊區若MTN訊號變弱就自動跳Orange或Camtel，完全不用手動選。
-    - q: 去喀麥隆辦eSIM的認證流程大概要多久？買完馬上就能用嗎？
+    - q: 喀麥隆eSIM買了之後要驗證證件嗎？沒先辦好會不會到了不能用？
       a: 需要的。喀麥隆預付卡需KYC認證，需提供護照。很多人不知道這規定，到了喀麥隆機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。喀麥隆4G為主，主要城市覆蓋。完成後到喀麥隆開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 在喀麥隆的郊區或小鎮也能正常使用eSIM嗎？查地圖導航會不會斷？
       a: 喀麥隆的MTN等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。喀麥隆4G為主，主要城市覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
@@ -274,7 +274,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 與實體 SIM 卡在 喀麥隆 的啟用與設定比較"
+  title: "Cameroon eSIM 上網品質實測 -- 速度、訊號、穩定度一次看懂"
   subtitle: "喀麥隆當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (Cameroon) + 當地電信商官網"
@@ -287,7 +287,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "喀麥隆法規禁止非授權街頭售卡，用戶必須前往 MTN、Orange 或 Nexttel 的官方門市，排隊提交護照影本完成實名。若從街頭購買，極大概率被官方強制斷網，仍需返回門市辦理解封，耗時長達 24 小時。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Cameroon. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開 MTN 門市排隊與護照影本提交，抵達杜阿拉或雅溫得後一分鐘內線上啟用，無需擔心街頭購卡被斷網的風險。"
     - icon: "id-card"

@@ -1,6 +1,6 @@
 ---
 title: '以色列 eSIM 2026: 旅客與網路 | Roami'
-date: '2026-06-15T09:52:15+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -352,21 +352,21 @@ activation_steps:
       以色列。幾秒鐘內，您的設備將自動連接到 Cellcom / Partner 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 以色列 eSIM 方案推薦價格總整理｜流量怎麼選最划算
-  desc: 整理了以色列 eSIM的以色列 Cellcom Partner 比較、以色列 Cellcom 網路覆蓋、以色列 Partner 速度等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂以色列上網。
+  title: 以色列 eSIM 網路品質評比｜各家電信速度收訊比較
+  desc: 整理了以色列 eSIM在以色列 Cellcom Partner 比較的網路覆蓋、Cellcom電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 以色列 eSIM 方案推薦價格總整理｜流量怎麼選最划算
+    title: 以色列 eSIM 網路品質評比｜各家電信速度收訊比較
     questions:
-    - q: 去以色列想辦eSIM但又怕買貴，大概多少預算才夠？
+    - q: 出國去以色列辦eSIM有推薦的方案嗎？不想花太多錢。
       a: Roami 以色列 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Cellcom在以色列市區5G網速約100-300Mbps，看1080p影片沒問題。去以色列機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到以色列後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
-    - q: 以色列三大電信Cellcom、Partner、HOT，一般觀光客選哪家比較適合？
+    - q: Cellcom、Partner、HOT這三家在以色列的收訊，在市區和郊區各推薦哪家？
       a: 以色列主要有Cellcom、Partner、HOT。Cellcom市區下載快、基地台密集。Partner郊區覆蓋廣，會去郊區的話選Partner路線較有保障。HOT價格親民，適合預算有限的旅客。以色列5G使用n78頻段，全境覆蓋密集。不過Roami會自動切換到當前訊號最強的網路。市區用Cellcom，移動到郊區若Cellcom訊號變弱就自動跳Partner或HOT，完全不用手動選。
-    - q: 去以色列旅遊的話，辦eSIM吃到飽會不會太浪費？一般人一天大概用多少流量？
+    - q: 以色列eSIM吃到飽方案如果被降速了，512kbps的速度還能做什麼？
       a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。以色列5G使用n78頻段，全境覆蓋密集。Roami在以色列連上Cellcom的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
-    - q: 去以色列辦eSIM的認證流程大概要多久？買完馬上就能用嗎？
+    - q: 去以色列用eSIM需要先通過身分驗證嗎？要準備哪些證件？
       a: 需要的。以色列預付卡需KYC認證，需提供護照。很多人不知道這規定，到了以色列機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。以色列5G使用n78頻段，全境覆蓋密集。另外Cellcom的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到以色列開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 離開以色列市區之後，eSIM的訊號會不會變得很差？
       a: 以色列的Cellcom等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。以色列5G使用n78頻段，全境覆蓋密集。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
@@ -438,7 +438,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 與預付卡在 以色列 的速度、覆蓋與價格比較"
+  title: "Israel eSIM 網路覆蓋怎麼樣？離城市多遠會沒訊號？"
   subtitle: "以色列當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (Israel) + 當地電信商官網"
@@ -451,7 +451,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "本古里安機場不銷售常規平價SIM卡，只售針對旅遊者的高價特殊套餐或高價轉售卡。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Israel. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開本古里安機場的高價陷阱（019 Mobile 10天10GB收29美元），Roami eSIM 出發前線上購買，落地秒連，無需尋找授權店或面對語言障礙。"
     - icon: "id-card"

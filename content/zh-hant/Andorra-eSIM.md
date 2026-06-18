@@ -1,6 +1,6 @@
 ---
 title: '安道爾 eSIM 2026: 電信商與覆蓋 | Roami'
-date: '2026-06-15T09:46:19+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -285,24 +285,24 @@ activation_steps:
       – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 安道爾 eSIM 實名認證教學｜購買安裝完整指南
-  desc: 整理了安道爾 eSIM的安道爾 Andorra Telecom 網路覆蓋、安道爾 eSIM 護照認證、安道爾 eSIM 價格比較等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂安道爾上網。
+  title: 安道爾 eSIM 5G網速與電信商比較｜Andorra Telecom覆蓋評測
+  desc: 整理了安道爾 eSIM在安道爾 Andorra Telecom 網路覆蓋的網路覆蓋、Andorra Telecom電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 安道爾 eSIM 實名認證教學｜購買安裝完整指南
+    title: 安道爾 eSIM 5G網速與電信商比較｜Andorra Telecom覆蓋評測
     questions:
-    - q: 準備去安道爾long stay，eSIM方案買哪種比較划算？
+    - q: 到安道爾玩幾天而已，eSIM有沒有比較不貴的方案？
       a: Roami 安道爾 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。安道爾以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去安道爾機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到安道爾後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
-    - q: 去安道爾辦eSIM的認證流程大概要多久？買完馬上就能用嗎？
+    - q: 有人說去安道爾辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
       a: 需要的。安道爾預付卡需KYC認證，需提供護照。很多人不知道這規定，到了安道爾機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。安道爾4G為主，5G有限覆蓋。完成後到安道爾開數據漫遊就能直接用。不支援eSIM可租WiFi機。
-    - q: 離開安道爾市區之後，eSIM的訊號會不會變得很差？
+    - q: 搭車從安道爾市區移動到郊區的時候，eSIM網路會一直切換嗎？
       a: 安道爾的Andorra Telecom等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。安道爾4G為主，5G有限覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 去安道爾旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
       a: Roami 安道爾 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
-    - q: 安道爾eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
-      a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 出國去安道爾用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
+      a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到安道爾開數據漫遊就用。
     - q: 跟旅伴一起去安道爾，買一張eSIM開熱點分享夠兩個人用嗎？
       a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
 related_products:
@@ -371,7 +371,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 或遊客 SIM 卡在 安道爾 該選哪個？"
+  title: "Andorra eSIM 全面評測 -- 速度、涵蓋範圍、使用體驗"
   subtitle: "安道爾當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (Andorra) + 當地電信商官網"
@@ -384,7 +384,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "若辦理 eSIM 也需上傳護照與自拍照給壟斷國企 Andorra Telecom，需等待後台人工審核通過；若辦理實體卡則須攜帶護照親赴營業廳排隊。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Andorra. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開 Andorra Telecom 營業廳排隊及人工審核等待，Roami eSIM 購買後掃碼即啟用，無需上傳護照或自拍照，落地安道爾城一分鐘內連線。"
     - icon: "id-card"

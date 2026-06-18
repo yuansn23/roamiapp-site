@@ -350,8 +350,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Ukraine eSIM — Plans, Prices and Setup Tips for Travelers"
-  desc: "Complete Ukraine eSIM guide with plans, pricing, coverage, and installation help."
+  title: "Will eSIM Work Well in Ukraine? A Traveler Guide to Internet Quality"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Ukraine. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -359,37 +359,37 @@ faq_section:
     title: Ukraine eSIM FAQs
     questions:
     - q: |
-        Can I install my Ukraine eSIM at the airport, or should I do it before leaving home?
-      a: |
-        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Ukraine's airport, enable Data Roaming and you'll be online in under 60 seconds.
-    - q: |
-        What do I do if my Ukraine eSIM doesn't connect when I arrive?
-      a: |
-        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Kyivstar in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
-    - q: |
-        What's the difference between a 5GB plan and an unlimited plan for Ukraine?
-      a: |
-        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
-    - q: |
         Will my eSIM in Ukraine work for video calls and remote work?
       a: |
         Absolutely. Kyivstar networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
     - q: |
-        Will my Ukraine eSIM work as soon as I land, or is there an activation delay?
+        Can I keep my home SIM in my phone while using eSIM in Ukraine?
       a: |
-        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Kyivstar. No queues, no paperwork — you're online before you reach baggage claim.
+        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
     - q: |
-        Can I use navigation apps like Google Maps with eSIM in Ukraine?
+        How many eSIM profiles can I store on my phone for traveling to Ukraine?
       a: |
-        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Ukraine (about 200-500MB per city) before you go as a backup.
+        Most phones store 5-10 eSIM profiles. You can keep your Ukraine eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
     - q: |
-        What's included when I buy a Ukraine eSIM from Roami?
+        What if my hotel in Ukraine has free WiFi — do I still need eSIM data?
       a: |
-        QR code delivery within 5 minutes, access to Kyivstar's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
+        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
     - q: |
-        How do I know if my Ukraine eSIM plan is active and ready to use?
+        Can I use my Ukraine eSIM right after buying it, or do I need to wait?
       a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Ukraine — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Ukraine. So you can install weeks before your trip without losing any plan days.
+    - q: |
+        Can I buy a Ukraine eSIM at the last minute, right before my flight?
+      a: |
+        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Ukraine, just enable Data Roaming and you'll be online immediately.
+    - q: |
+        When does the validity period of my Ukraine eSIM start?
+      a: |
+        The plan validity starts when you connect to a local network in Ukraine, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+    - q: |
+        I'm arriving in Ukraine late at night. Will I be able to get online immediately?
+      a: |
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Kyivstar automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
 related_products:
   title: Related eSIM Plans
   items:

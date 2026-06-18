@@ -212,8 +212,8 @@ activation_steps:
       WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Traveling to Dominica? Here's What to Know About eSIM"
-  desc: "Planning Dominica travel? Our eSIM guide covers nomad esim dominican republic, plans, and setup tips."
+  title: "Getting Online in Dominica -- eSIM Network Quality and Speed Guide"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Dominica. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -221,37 +221,37 @@ faq_section:
     title: Dominica eSIM FAQs
     questions:
     - q: |
-        For a tourist in Dominica, is Flow or Digicel the better choice?
+        Does Flow or Digicel offer better data speeds in Dominica?
       a: |
-        Flow and Digicel cover Dominica's mobile market. Flow serves roughly 60% of mobile users with the fastest urban data speeds. Digicel reaches more remote areas, with about 10% broader geographic coverage. Dominica is primarily 3G/4G. With Roami, you get the best of both — automatic switching.
+        Flow typically delivers 20-40% faster download speeds in city centers, while Digicel maintains more consistent coverage across wider areas. Roami connects to the strongest signal automatically, so you always get the best available speed.
     - q: |
         How does Roami compare to Airalo for eSIM in Dominica?
       a: |
         Roami typically offers better value for Dominica eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        Can I install my Dominica eSIM at the airport, or should I do it before leaving home?
+        What if my hotel in Dominica has free WiFi — do I still need eSIM data?
       a: |
-        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Dominica's airport, enable Data Roaming and you'll be online in under 60 seconds.
+        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
     - q: |
-        Can I buy a Dominica eSIM at the last minute, right before my flight?
+        How does eSIM compare to pocket WiFi for Dominica travel?
       a: |
-        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Dominica, just enable Data Roaming and you'll be online immediately.
+        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
     - q: |
-        Will my Dominica eSIM work as soon as I land, or is there an activation delay?
+        I need internet access for just a couple of days in Dominica. What's the minimum I can buy?
       a: |
-        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Flow. No queues, no paperwork — you're online before you reach baggage claim.
+        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
     - q: |
-        What documents do I need to buy a Dominica eSIM from Roami?
+        What's the difference between a 5GB plan and an unlimited plan for Dominica?
       a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
     - q: |
-        When does the validity period of my Dominica eSIM start?
+        Can I check how much data I've used on my Dominica eSIM?
       a: |
-        The plan validity starts when you connect to a local network in Dominica, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
     - q: |
-        Do I need to remove my physical SIM to use eSIM in Dominica?
+        Does the Dominica eSIM work in rural areas and smaller towns?
       a: |
-        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
+        Coverage in Dominica reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
 related_products:
   title: Related Dominica eSIM Plans
   items:

@@ -1,6 +1,6 @@
 ---
 title: '哥倫比亞 eSIM 2026: 連線與速度 | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -336,26 +336,26 @@ activation_steps:
       並開啟您的 Roami eSIM 哥倫比亞。幾秒鐘內，您的設備將自動連接到 Claro / Tigo 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 哥倫比亞 eSIM 各方案比較｜天數流量價格一次看懂
-  desc: 整理了哥倫比亞 eSIM的哥倫比亞 Claro Movistar 比較、哥倫比亞 Movistar 速度、哥倫比亞 Claro 網路覆蓋等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂哥倫比亞上網。
+  title: 哥倫比亞 eSIM 5G網速與電信商比較｜Claro、Movistar、Tigo覆蓋評測
+  desc: 整理了哥倫比亞 eSIM在哥倫比亞 Claro Movistar 比較的網路覆蓋、Claro電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 哥倫比亞 eSIM 各方案比較｜天數流量價格一次看懂
+    title: 哥倫比亞 eSIM 5G網速與電信商比較｜Claro、Movistar、Tigo覆蓋評測
     questions:
     - q: 哥倫比亞eSIM的價格從多少到多少？有便宜的短期方案嗎？
       a: Roami 哥倫比亞 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Claro在哥倫比亞市區5G網速約100-300Mbps，看1080p影片沒問題。去哥倫比亞機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到哥倫比亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
-    - q: 哥倫比亞三大電信Claro、Movistar、Tigo，一般觀光客選哪家比較適合？
+    - q: 到哥倫比亞旅遊想用eSIM，Claro、Movistar、Tigo哪家網路比較穩？
       a: 哥倫比亞主要有Claro、Movistar、Tigo。Claro市區下載快、基地台密集。Movistar郊區覆蓋廣，會去郊區的話選Movistar路線較有保障。Tigo價格親民，適合預算有限的旅客。哥倫比亞5G使用n78頻段，波哥大等城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Claro，移動到郊區若Claro訊號變弱就自動跳Movistar或Tigo，完全不用手動選。
-    - q: 去哥倫比亞每天就是打卡傳照片查地圖，這樣5GB夠用嗎？還是吃到飽比較安心？
+    - q: 哥倫比亞eSIM的30天無限方案跟15天10GB的比起來，哪個平均每天比較便宜？
       a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。哥倫比亞5G使用n78頻段，波哥大等城市覆蓋。Roami在哥倫比亞連上Claro的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
-    - q: 哥倫比亞eSIM買了之後要驗證證件嗎？沒先辦好會不會到了不能用？
+    - q: 去哥倫比亞用eSIM需要先通過身分驗證嗎？要準備哪些證件？
       a: 需要的。哥倫比亞預付卡需KYC認證，需提供護照。很多人不知道這規定，到了哥倫比亞機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。哥倫比亞5G使用n78頻段，波哥大等城市覆蓋。另外Claro的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到哥倫比亞開數據漫遊就能直接用。不支援eSIM可租WiFi機。
-    - q: 在哥倫比亞的郊區或小鎮也能正常使用eSIM嗎？查地圖導航會不會斷？
+    - q: 哥倫比亞主要市區和偏遠鄉村的網路覆蓋差距大嗎？
       a: 哥倫比亞的Claro等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。哥倫比亞5G使用n78頻段，波哥大等城市覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
-    - q: 跟旅伴一起去哥倫比亞，買一張eSIM開熱點分享夠兩個人用嗎？
-      a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
+    - q: 哥倫比亞eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
+      a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
 related_products:
   title: 類似 哥倫比亞 eSIM 的旅行方案
   items:
@@ -422,7 +422,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 與實體 SIM 卡在 哥倫比亞 的啟用與設定比較"
+  title: "Colombia eSIM 網速實測與覆蓋指南 -- 市區郊區都能用嗎？"
   subtitle: "哥倫比亞當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (Colombia) + 當地電信商官網"
@@ -435,7 +435,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "在波哥大機場購買 Claro SIM 卡，不僅價格高於市區，還需提供身份證和酒店地址證明，並盡快完成 IMEI 註冊以規避 30 天鎖機風險。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Colombia. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開波哥大機場 Claro 櫃檯的排隊與溢價，抵達哥倫比亞後一分鐘內線上啟用 eSIM，無需提供身份證或酒店地址。"
     - icon: "id-card"

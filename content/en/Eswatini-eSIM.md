@@ -186,8 +186,8 @@ activation_steps:
       WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Traveling to Eswatini? Here's What to Know About eSIM"
-  desc: "Planning Eswatini travel? Our eSIM guide covers best esim for eswatini, plans, and setup tips."
+  title: "Does eSIM Work Everywhere in Eswatini? City and Rural Coverage Guide"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Eswatini. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -203,29 +203,29 @@ faq_section:
       a: |
         MTN typically delivers 20-40% faster download speeds in city centers, while Eswatini Mobile maintains more consistent coverage across wider areas. Roami connects to the strongest signal automatically, so you always get the best available speed.
     - q: |
-        Can I use my Eswatini eSIM for social media and sharing photos with family?
+        How far in advance should I buy my Eswatini eSIM?
       a: |
-        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from MTN handle photos in seconds and short videos easily.
-    - q: |
-        Does the Eswatini eSIM work in rural areas and smaller towns?
-      a: |
-        Coverage in Eswatini reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
+        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Eswatini, so buying early doesn't waste your plan days.
     - q: |
         What's included when I buy a Eswatini eSIM from Roami?
       a: |
         QR code delivery within 5 minutes, access to MTN's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
     - q: |
+        What documents do I need to buy a Eswatini eSIM from Roami?
+      a: |
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+    - q: |
+        What's the difference between a 5GB plan and an unlimited plan for Eswatini?
+      a: |
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+    - q: |
         Can I install my Eswatini eSIM at the airport, or should I do it before leaving home?
       a: |
         Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Eswatini's airport, enable Data Roaming and you'll be online in under 60 seconds.
     - q: |
-        Can I check how much data I've used on my Eswatini eSIM?
+        What do I do if my Eswatini eSIM doesn't connect when I arrive?
       a: |
-        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
-    - q: |
-        What happens if my Eswatini eSIM stops working mid-trip?
-      a: |
-        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
+        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select MTN in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
 related_products:
   title: Related Eswatini eSIM Plans
   items:

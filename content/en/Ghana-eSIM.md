@@ -343,8 +343,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Ghana eSIM on a Budget — Cheap Plans That Work Well"
-  desc: "Planning Ghana travel? Our eSIM guide covers ghana esim unlimited, plans, and setup tips."
+  title: "Getting Online in Ghana -- eSIM Network Quality and Speed Guide"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Ghana. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -360,29 +360,29 @@ faq_section:
       a: |
         Ghana requires identity verification by law. Ghana requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Ghana.
     - q: |
-        Can I get an eSIM for Ghana without spending too much?
+        How much should I budget for an eSIM when visiting Ghana?
       a: |
-        Absolutely. Roami's Ghana eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+        Roami offers Ghana eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. MTN provides reliable speeds across Ghana. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
     - q: |
-        How do MTN, Vodafone, and AirtelTigo compare for a tourist visiting Ghana?
+        Does Roami switch between MTN, Vodafone, and AirtelTigo in Ghana automatically?
       a: |
-        In Ghana, MTN leads with the fastest urban 5G speeds (up to 1 Gbps in tests). Vodafone covers about 85% of the country including most rural areas. AirtelTigo is the budget option, often bundling data at lower per-GB rates. Tourists visiting cities get excellent service from all three. Ghana is primarily 4G with coverage in major cities. Roami picks the best one automatically as you move around.
+        Yes — that's one of Roami's key advantages. As you move from cities to rural areas, your eSIM automatically switches to the carrier with the strongest signal at your location. Typically MTN is fastest in urban centers (5G speeds of 100-300 Mbps), while Vodafone maintains better coverage in the countryside. Ghana is primarily 4G with coverage in major cities. You never need to manually change networks.
     - q: |
         Will the Ghana eSIM unlimited plan slow down if I use too much data?
       a: |
         There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
     - q: |
-        What's the difference between a 5GB plan and an unlimited plan for Ghana?
+        Can I keep my home SIM in my phone while using eSIM in Ghana?
       a: |
-        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
     - q: |
-        Can I check how much data I've used on my Ghana eSIM?
+        What if I accidentally delete my Ghana eSIM before my trip?
       a: |
-        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
+        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
     - q: |
-        What do I do if my Ghana eSIM doesn't connect when I arrive?
+        I need internet access for just a couple of days in Ghana. What's the minimum I can buy?
       a: |
-        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select MTN in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
+        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
 related_products:
   title: Related Ghana eSIM Plans
   items:

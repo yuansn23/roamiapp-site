@@ -196,8 +196,8 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Affordable eSIM Options for Mozambique — Compare Plans & Prices"
-  desc: "Planning Mozambique travel? Our eSIM guide covers vodafone mozambique esim, plans, and setup tips."
+  title: "Does eSIM Work Everywhere in Mozambique? City and Rural Coverage Guide"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Mozambique. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -217,25 +217,25 @@ faq_section:
       a: |
         Vodacom and Movitel cover Mozambique's mobile market. Vodacom serves roughly 60% of mobile users with the fastest urban data speeds. Movitel reaches more remote areas, with about 10% broader geographic coverage. Mozambique is primarily 4G with coverage in major citie With Roami, you get the best of both — automatic switching.
     - q: |
+        Will my eSIM in Mozambique work for video calls and remote work?
+      a: |
+        Absolutely. Vodacom networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
+    - q: |
         How much data does a typical traveler actually use per day in Mozambique?
       a: |
         Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
     - q: |
-        Can I keep my home SIM in my phone while using eSIM in Mozambique?
+        Will my Mozambique eSIM work as soon as I land, or is there an activation delay?
       a: |
-        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
+        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Vodacom. No queues, no paperwork — you're online before you reach baggage claim.
     - q: |
         What's the difference between a 5GB plan and an unlimited plan for Mozambique?
       a: |
         A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
     - q: |
-        How many eSIM profiles can I store on my phone for traveling to Mozambique?
+        Can I install my Mozambique eSIM at the airport, or should I do it before leaving home?
       a: |
-        Most phones store 5-10 eSIM profiles. You can keep your Mozambique eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
-    - q: |
-        Can I check how much data I've used on my Mozambique eSIM?
-      a: |
-        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
+        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Mozambique's airport, enable Data Roaming and you'll be online in under 60 seconds.
 related_products:
   title: Related eSIM Plans
   items:

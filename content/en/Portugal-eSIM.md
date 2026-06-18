@@ -382,8 +382,8 @@ activation_steps:
       WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Portugal Travel eSIM — Stay Connected Throughout Your Trip"
-  desc: "Planning Portugal travel? Our eSIM guide covers lycamobile portugal esim, plans, and setup tips."
+  title: "How Fast is eSIM Internet in Portugal? Speeds and Coverage for Travelers"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Portugal. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -391,37 +391,37 @@ faq_section:
     title: Portugal eSIM FAQs
     questions:
     - q: |
-        Tourists visiting Portugal — which network gives the best experience?
+        Does Roami switch between MEO, NOS, and Vodafone in Portugal automatically?
       a: |
-        For urban sightseeing, MEO typically delivers download speeds of 50-200 Mbps on 4G/5G. NOS has slightly broader coverage in suburban areas. Vodafone offers competitive data rates, often with more flexible prepaid options. All three work well for maps, messaging, and social media. Roami ensures you're always on the best one.
+        Yes — that's one of Roami's key advantages. As you move from cities to rural areas, your eSIM automatically switches to the carrier with the strongest signal at your location. Typically MEO is fastest in urban centers (5G speeds of 100-300 Mbps), while NOS maintains better coverage in the countryside. Portugal uses 5G on n78 band covering Lisbon and Porto. You never need to manually change networks.
     - q: |
         How does Roami compare to Airalo for eSIM in Portugal?
       a: |
         Roami typically offers better value for Portugal eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        What documents do I need to buy a Portugal eSIM from Roami?
+        Can I keep my home SIM in my phone while using eSIM in Portugal?
       a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
     - q: |
         What do I do if my Portugal eSIM doesn't connect when I arrive?
       a: |
         Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select MEO in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
     - q: |
-        Do I need to remove my physical SIM to use eSIM in Portugal?
+        What happens if I use all my data in Portugal before my plan expires?
       a: |
-        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
     - q: |
-        What happens if my Portugal eSIM stops working mid-trip?
+        Does WhatsApp and FaceTime work with eSIM in Portugal?
       a: |
-        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. MEO's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
     - q: |
-        Can I use my Portugal eSIM right after buying it, or do I need to wait?
+        What's the easiest way to stay connected in Portugal without dealing with airport SIM kiosks?
       a: |
-        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Portugal. So you can install weeks before your trip without losing any plan days.
+        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to MEO for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
     - q: |
-        Can I check how much data I've used on my Portugal eSIM?
+        How do I know if my Portugal eSIM plan is active and ready to use?
       a: |
-        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Portugal — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
 related_products:
   title: Related Portugal eSIM Plans
   items:

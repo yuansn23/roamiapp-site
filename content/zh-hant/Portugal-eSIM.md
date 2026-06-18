@@ -1,6 +1,6 @@
 ---
 title: '葡萄牙 eSIM 2026: 當地電信商 | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -384,26 +384,26 @@ activation_steps:
       Roami eSIM 葡萄牙。幾秒鐘內，您的設備將自動連接到 NOS / MEO 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 葡萄牙 eSIM 實名認證教學｜購買安裝完整指南
-  desc: 整理了葡萄牙 eSIM的葡萄牙 Vodafone 5G、葡萄牙 MEO NOS 比較、葡萄牙 5G eSIM 方案等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂葡萄牙上網。
+  title: 葡萄牙 eSIM 網路品質評比｜各家電信速度收訊比較
+  desc: 整理了葡萄牙 eSIM在葡萄牙 Vodafone 5G的網路覆蓋、MEO電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 葡萄牙 eSIM 實名認證教學｜購買安裝完整指南
+    title: 葡萄牙 eSIM 網路品質評比｜各家電信速度收訊比較
     questions:
-    - q: 準備去葡萄牙出差，eSIM方案哪個比較適合商務使用？
+    - q: 去葡萄牙自由行的話，辦eSIM上網大概要花多少錢？
       a: Roami 葡萄牙 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。MEO在葡萄牙市區5G網速約100-300Mbps，看1080p影片沒問題。去葡萄牙機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到葡萄牙後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
-    - q: 到葡萄牙旅遊想用eSIM，MEO、NOS、Vodafone哪家網路比較穩？
+    - q: 葡萄牙三大電信MEO、NOS、Vodafone，一般觀光客選哪家比較適合？
       a: 葡萄牙主要有MEO、NOS、Vodafone。MEO市區下載快、基地台密集。NOS郊區覆蓋廣，會去郊區的話選NOS路線較有保障。Vodafone價格親民，適合預算有限的旅客。葡萄牙5G使用n78頻段，里斯本及波多覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用MEO，移動到郊區若MEO訊號變弱就自動跳NOS或Vodafone，完全不用手動選。
-    - q: 不太確定去葡萄牙會用多少網路，該直接選吃到飽還是先買定量就好？
+    - q: 去葡萄牙每天就是打卡傳照片查地圖，這樣5GB夠用嗎？還是吃到飽比較安心？
       a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。葡萄牙5G使用n78頻段，里斯本及波多覆蓋。Roami在葡萄牙連上MEO的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
-    - q: 去葡萄牙辦eSIM的認證流程大概要多久？買完馬上就能用嗎？
+    - q: 葡萄牙eSIM買了之後要驗證證件嗎？沒先辦好會不會到了不能用？
       a: 需要的。葡萄牙預付卡需KYC認證，需提供護照。很多人不知道這規定，到了葡萄牙機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。葡萄牙5G使用n78頻段，里斯本及波多覆蓋。另外MEO的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到葡萄牙開數據漫遊就能直接用。不支援eSIM可租WiFi機。
-    - q: 離開葡萄牙市區之後，eSIM的訊號會不會變得很差？
+    - q: 搭車從葡萄牙市區移動到郊區的時候，eSIM網路會一直切換嗎？
       a: 葡萄牙的MEO等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。葡萄牙5G使用n78頻段，里斯本及波多覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
-    - q: 葡萄牙eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
-      a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 出國去葡萄牙用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
+      a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到葡萄牙開數據漫遊就用。
 related_products:
   title: 類似 葡萄牙 eSIM 的旅行方案
   items:
@@ -470,7 +470,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 與實體 SIM 卡在 葡萄牙 的旅行、成本與設定比較"
+  title: "去Portugal旅遊eSIM上網順暢嗎？速度與涵蓋完整評價"
   subtitle: "葡萄牙當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (Portugal) + 當地電信商官網"
@@ -483,7 +483,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "MEO 的 Connected Holidays 高性價比旅遊卡僅在少數幾家店有售，且 Mundo 和 Kanguru 等特定套餐甚至不被店員熟知，溝通成本極高。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Portugal. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開 MEO 門市尋找特定套餐的麻煩，抵達葡萄牙後一分鐘內線上啟用 eSIM，無需排隊或溝通。"
     - icon: "id-card"

@@ -229,8 +229,8 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Traveling to Puerto Rico? Here's How eSIM Registration Works"
-  desc: "Planning Puerto Rico travel? Our eSIM guide covers internet puerto rico esim, plans, and setup tips."
+  title: "How Fast is eSIM Internet in Puerto Rico? Speeds and Coverage for Travelers"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Puerto Rico. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -238,9 +238,9 @@ faq_section:
     title: Puerto Rico eSIM FAQs
     questions:
     - q: |
-        Which carrier in Puerto Rico should I rely on for my eSIM?
+        Which network in Puerto Rico has the best coverage for travelers — Claro, AT&T, or T-Mobile?
       a: |
-        Claro operates over 15,000 towers across Puerto Rico, covering all major cities. AT&T complements this with additional rural coverage reaching about 90% of the population. T-Mobile focuses on affordability, with data plans costing roughly 20% less than Claro. With Roami, you don't pick one — it connects to whichever is strongest.
+        Puerto Rico has three main carriers: Claro, AT&T, and T-Mobile. Claro reaches about 95% of the population with 4G/5G. AT&T covers roughly 90% but has stronger rural reach. T-Mobile offers competitive pricing, often 15-20% cheaper than Claro. Puerto Rico uses 5G on n71/n77 bands, similar to US. Roami automatically connects you to whichever is strongest at your location.
     - q: |
         How does Roami compare to Airalo for eSIM in Puerto Rico?
       a: |
@@ -250,25 +250,25 @@ faq_section:
       a: |
         Correct — Puerto Rico eSIM doesn't need passport or ID verification. Puerto Rico prepaid cards typically do NOT require KYC. Just purchase, install, and you're online. No uploading documents, no waiting for approval. Install before you leave, enable Data Roaming on arrival, and you're set.
     - q: |
+        What's the difference between a 5GB plan and an unlimited plan for Puerto Rico?
+      a: |
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+    - q: |
+        Does the Puerto Rico eSIM work in rural areas and smaller towns?
+      a: |
+        Coverage in Puerto Rico reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
+    - q: |
+        Can I keep my home SIM in my phone while using eSIM in Puerto Rico?
+      a: |
+        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
+    - q: |
         What documents do I need to buy a Puerto Rico eSIM from Roami?
       a: |
         Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
     - q: |
-        How do I know if my Puerto Rico eSIM plan is active and ready to use?
+        What if I accidentally delete my Puerto Rico eSIM before my trip?
       a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Puerto Rico — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
-    - q: |
-        Can I use my Puerto Rico eSIM for social media and sharing photos with family?
-      a: |
-        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Claro handle photos in seconds and short videos easily.
-    - q: |
-        I need internet access for just a couple of days in Puerto Rico. What's the minimum I can buy?
-      a: |
-        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
-    - q: |
-        How many eSIM profiles can I store on my phone for traveling to Puerto Rico?
-      a: |
-        Most phones store 5-10 eSIM profiles. You can keep your Puerto Rico eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
+        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
 related_products:
   title: Related eSIM Plans
   items:

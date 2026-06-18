@@ -194,8 +194,8 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Everything You Need to Know About eSIM in Vatican City"
-  desc: "Planning Vatican City travel? Our eSIM guide covers vatican city opening hours, plans, and setup tips."
+  title: "eSIM for Travelers in Vatican City -- Network Speeds, Coverage and Tips"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Vatican City. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -203,37 +203,37 @@ faq_section:
     title: Vatican City eSIM FAQs
     questions:
     - q: |
-        What happens if my Vatican City eSIM stops working mid-trip?
+        Does WhatsApp and FaceTime work with eSIM in Vatican City?
       a: |
-        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. TIM's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
     - q: |
-        Can I use navigation apps like Google Maps with eSIM in Vatican City?
+        I'm traveling to Vatican City for just 2-3 days. What eSIM should I get?
       a: |
-        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Vatican City (about 200-500MB per city) before you go as a backup.
+        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
     - q: |
-        What's included when I buy a Vatican City eSIM from Roami?
+        How many eSIM profiles can I store on my phone for traveling to Vatican City?
       a: |
-        QR code delivery within 5 minutes, access to TIM's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
+        Most phones store 5-10 eSIM profiles. You can keep your Vatican City eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
     - q: |
-        Does the Vatican City eSIM work in rural areas and smaller towns?
+        How does eSIM compare to pocket WiFi for Vatican City travel?
       a: |
-        Coverage in Vatican City reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
+        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
     - q: |
-        I'm arriving in Vatican City late at night. Will I be able to get online immediately?
+        What if my hotel in Vatican City has free WiFi — do I still need eSIM data?
       a: |
-        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up TIM automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
+        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
     - q: |
-        Can I keep my home SIM in my phone while using eSIM in Vatican City?
+        Can I use my Vatican City eSIM right after buying it, or do I need to wait?
       a: |
-        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
+        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Vatican City. So you can install weeks before your trip without losing any plan days.
     - q: |
-        How much data does a typical traveler actually use per day in Vatican City?
+        What do I do if my Vatican City eSIM doesn't connect when I arrive?
       a: |
-        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select TIM in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
     - q: |
-        What if I accidentally delete my Vatican City eSIM before my trip?
+        What's the difference between a 5GB plan and an unlimited plan for Vatican City?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
 related_products:
   title: Related eSIM Plans
   items:

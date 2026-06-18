@@ -343,8 +343,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Best Value eSIM Plans for Traveling to Brazil"
-  desc: "Planning Brazil travel? Our eSIM guide covers cheapest esim brazil, plans, and setup tips."
+  title: "How Fast is eSIM Internet in Brazil? Speeds and Coverage for Travelers"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Brazil. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -352,33 +352,33 @@ faq_section:
     title: Brazil eSIM FAQs
     questions:
     - q: |
-        What are the cheapest eSIM options for a trip to Brazil?
+        Can I get an eSIM for Brazil without spending too much?
       a: |
-        Roami Brazil eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Thanks to Vivo's 5G network, streaming and video calls work great. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
+        Absolutely. Roami's Brazil eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
     - q: |
         How does Roami compare to Holafly for eSIM in Brazil?
       a: |
         Roami typically offers better value for Brazil eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Holafly. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        How does eSIM compare to pocket WiFi for Brazil travel?
+        Can I use my Brazil eSIM for social media and sharing photos with family?
       a: |
-        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
+        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Vivo handle photos in seconds and short videos easily.
+    - q: |
+        What documents do I need to buy a Brazil eSIM from Roami?
+      a: |
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+    - q: |
+        I need internet access for just a couple of days in Brazil. What's the minimum I can buy?
+      a: |
+        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
     - q: |
         Can I use navigation apps like Google Maps with eSIM in Brazil?
       a: |
         Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Brazil (about 200-500MB per city) before you go as a backup.
     - q: |
-        Can I use my Brazil eSIM right after buying it, or do I need to wait?
+        Does the Brazil eSIM work in rural areas and smaller towns?
       a: |
-        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Brazil. So you can install weeks before your trip without losing any plan days.
-    - q: |
-        Does WhatsApp and FaceTime work with eSIM in Brazil?
-      a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Vivo's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
-    - q: |
-        When does the validity period of my Brazil eSIM start?
-      a: |
-        The plan validity starts when you connect to a local network in Brazil, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+        Coverage in Brazil reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
     - q: |
         Can I keep my home SIM in my phone while using eSIM in Brazil?
       a: |

@@ -1,6 +1,6 @@
 ---
 title: '菲律賓 eSIM 2026: 方案與覆蓋 | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -368,25 +368,25 @@ activation_steps:
       Roami eSIM 菲律賓。幾秒鐘內，您的設備將自動連接到 Globe / Smart 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 菲律賓 eSIM 怎麼買最划算｜方案推薦與注意事項
-  desc: 整理了菲律賓 eSIM的菲律賓 Globe Smart 比較、菲律賓 長灘 島 esim 推薦、菲律賓 宿 霧 esim 推薦等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂菲律賓上網。
+  title: 菲律賓 eSIM 網速評測｜Globe、Smart 5G/4G速度對比
+  desc: 整理了菲律賓 eSIM在菲律賓 Globe Smart 比較的網路覆蓋、Globe電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 菲律賓 eSIM 怎麼買最划算｜方案推薦與注意事項
+    title: 菲律賓 eSIM 網速評測｜Globe、Smart 5G/4G速度對比
     questions:
-    - q: 準備去菲律賓long stay，eSIM方案買哪種比較划算？
+    - q: 去菲律賓自由行的話，辦eSIM上網大概要花多少錢？
       a: Roami 菲律賓 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Globe在菲律賓市區5G網速約100-300Mbps，看1080p影片沒問題。去菲律賓機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到菲律賓後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 第一次去菲律賓想用eSIM，請問購買到安裝的完整步驟是什麼？
       a: 收到QR Code後，iOS進 設定 > 行動服務 > 加入行動方案，Android進 設定 > 網路與網際網路 > 加入eSIM，約2分鐘完成。強烈建議出發前在家用WiFi先裝好——安裝當下需要網路，到了菲律賓機場若WiFi要手機驗證才能連就麻煩了。裝好後抵達菲律賓開啟數據漫遊，約1-2分鐘自動連上Globe。萬一沒訊號：先確認數據漫遊有開，再手動選Globe試試。重開機通常能解決，Roami客服24小時在線可協助排除。
-    - q: 去菲律賓旅遊的話，Globe和Smart這兩家哪個網路比較好？
+    - q: 到菲律賓用eSIM，Roami會自動幫我選Globe或Smart訊號比較強的那一家嗎？
       a: 菲律賓主要有Globe、Smart。Globe市區下載快、基地台密集。Smart郊區覆蓋廣，會去郊區的話選Smart路線較有保障。菲律賓5G使用n78頻段，馬尼拉都會區覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Globe，移動到郊區若Globe訊號變弱就自動跳Smart，完全不用手動選。
     - q: 如果去菲律賓會大量使用網路，是不是直接辦吃到飽比較省事？
       a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。菲律賓5G使用n78頻段，馬尼拉都會區覆蓋。Roami在菲律賓連上Globe的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 去菲律賓用eSIM需要實名認證嗎？要準備護照還是其他證件？
       a: 需要的。菲律賓預付卡需KYC認證，需提供護照。很多人不知道這規定，到了菲律賓機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。菲律賓5G使用n78頻段，馬尼拉都會區覆蓋。另外Globe的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到菲律賓開數據漫遊就能直接用。不支援eSIM可租WiFi機。
-    - q: 離開菲律賓市區之後，eSIM的訊號會不會變得很差？
+    - q: 搭車從菲律賓市區移動到郊區的時候，eSIM網路會一直切換嗎？
       a: 菲律賓的Globe等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。菲律賓5G使用n78頻段，馬尼拉都會區覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
 related_products:
   title: 類似 菲律賓 eSIM 的旅行方案
@@ -454,7 +454,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 與實體 SIM 卡在 菲律賓 的比較：哪種最適合旅行？"
+  title: "Philippines eSIM 網路品質好不好？城市與鄉村覆蓋完整分析"
   subtitle: "菲律賓當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (Philippines) + 當地電信商官網"
@@ -467,7 +467,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Smart 和 Globe 的機場旅遊卡僅在主要國際機場（如馬尼拉）線下銷售，即使在官方 App 內也無法購買續訂。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Philippines. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開 Smart 和 Globe 機場櫃檯排隊及繁瑣的線上註冊流程，抵達菲律賓後一分鐘內掃碼啟用 eSIM，無需尋找 WiFi 或拍攝證件。"
     - icon: "id-card"

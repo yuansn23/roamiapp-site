@@ -1,6 +1,6 @@
 ---
 title: 'Malediven eSIM 2026: Touristen & Netzwerk | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -227,264 +227,47 @@ activation_steps:
       Sie können sofort navigieren, WhatsApp nutzen, soziale Medien checken oder einen Hotspot für andere Geräte einrichten
       – ohne Wartezeit, ohne Ausweis, ohne Vertrag.
     is_list: false
-faq_section1:
-  title: 'Malediven eSIM Guide 2026: Netzwerk & Reiseführer'
-  desc: Von Malé bis Addu City, bleiben Sie mit Dhiraagu, Ooredoo, Wataniya Telecom Maldives verbunden. Unser kompletter Malediven
-    eSIM Guide deckt Netzabdeckung, Tarife, Einrichtung und Reisetipps ab.
+faq_section:
+  title: "eSIM Internet in Maldives -- Wie schnell surft man wirklich?"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Maldives. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Allgemein
-    title: 1.  Allgemeine Fragen zu Malediven eSIM
+    title: Malediven eSIM FAQ
     questions:
-    - q: Wie kann ich meinen Datenverbrauch mit der Malediven eSIM überwachen?
-      a: Nach der Aktivierung haben Sie Zugriff auf unser Online‑Dashboard. Dort sehen Sie in Echtzeit Ihren verbleibenden
-        Datenverbrauch, die Restlaufzeit und können bei Bedarf Support anfordern – jederzeit und überall.
-    - q: Kann ich meine bestehende Telefonnummer behalten, wenn ich die Malediven eSIM nutze?
-      a: 'Die Roami eSIM ist eine reine Daten‑eSIM. Sie können Ihre heimische SIM parallel nutzen (z.B. für Anrufe/SMS). Die
-        meisten Dual‑SIM‑Handys verwalten beide Profile: Wählen Sie einfach die Roami eSIM als Standard für mobile Daten.'
-    - q: Was kostet die Malediven eSIM und gibt es Rabattaktionen?
-      a: Unser Malediven eSIM Tarif startet bei nur $1.99/GB. Mit dem Promo-Code 'web20' erhalten Sie 20% Rabatt auf jede
-        Bestellung – gültig für alle Tarife. Keine versteckten Gebühren, keine Mindestvertragslaufzeit.
-    - q: Welche 5G/4G-Netzwerke nutzt die Malediven eSIM und wie ist die Abdeckung?
-      a: Die Malediven eSIM arbeitet exklusiv mit Dhiraagu / Ooredoo zusammen. Sie erhalten automatisch das jeweils beste
-        verfügbare Netz (5G/4G/LTE) mit bester Abdeckung in Städten wie Berlin, München, Hamburg sowie auf dem Land und entlang
-        der Autobahnen.
-    - q: Bietet Roami unbegrenzte Datentarife für Malediven an? Gibt es eine Fair‑Use‑Policy?
-      a: Roami bietet echte unbegrenzte Datentarife für Malediven. Eine Fair‑Use‑Policy gilt nur bei extremer Nutzung (z.B.
-        dauerhaftes 4K‑Streaming über mehrere Tage). Normales Surfen, Social Media, Videoanrufe und Navigation sind nicht
-        betroffen.
-    - q: Kann ich die Malediven eSIM als Hotspot mit anderen Geräten teilen?
-      a: Ja, alle Roami eSIM-Tarife für Malediven erlauben unbegrenztes Tethering (Hotspot). Sie können Ihre Datenverbindung
-        mit Laptop, Tablet oder Reisebegleitern teilen – ohne versteckte Kosten oder Geschwindigkeitsdrosselung.
-    - q: Kann ich während der Nutzung der Malediven eSIM weiterhin Anrufe auf meiner heimischen SIM empfangen?
-      a: Ja, Dual‑SIM‑Geräte erlauben die gleichzeitige Nutzung beider Profile. Stellen Sie einfach in den Einstellungen die
-        Roami eSIM als Standard für mobile Daten ein. Anrufe und SMS laufen weiter über Ihre Heim‑SIM (Roaming kann aktiv
-        bleiben).
-    - q: Wie funktioniert das internationale Roaming mit der Malediven eSIM in Nachbarländern?
-      a: Die Malediven eSIM ist primär für Malediven optimiert. Für Reisen in EU‑Nachbarländer empfehlen wir unsere Europa‑eSIM,
-        die nahtloses Roaming ohne zusätzliche Kosten bietet. Die reine Land‑eSIM funktioniert nicht zuverlässig außerhalb
-        von Malediven.
-    - q: Bietet Roami auch regionale eSIMs für Reisen über Malediven hinaus an?
-      a: Ja, zusätzlich zur Malediven eSIM bieten wir Regional‑eSIM für Europa, Asien, Nordamerika und weltweit an. Ideal
-        für mehrtägige Städtereisen oder Rundreisen durch mehrere Länder – ohne SIM‑Kartenwechsel.
-    - q: Wie aktiviere ich die Malediven eSIM und wann beginnt die Gültigkeit?
-      a: Nach dem Kauf erhalten Sie sofort einen Aktivierungs‑QR‑Code per E‑Mail. Die Gültigkeit startet erst, wenn Ihr Telefon
-        in Malediven erstmals eine Verbindung zu einem der Partner-Netze (Dhiraagu / Ooredoo) herstellt. So zahlen Sie nur
-        für die Tage, die Sie tatsächlich vor Ort sind.
-  - id: faq-airport
-    icon: plane
-    tab_title: Flughäfen
-    title: 2.  Malediven eSIM am Flughafen
-    questions:
-    - q: Wie erhalte ich sofort nach der Landung ein zuverlässiges Netz?
-      a: Installieren Sie die Malediven eSIM vor Ihrem Flug. Sobald Sie an Flughäfen wie Velana International Airport (MLE),
-        Gan International Airport (GAN), Hanimaadhoo International Airport (HAQ) landen, schalten Sie einfach den Flugmodus
-        aus und aktivieren Sie Ihre eSIM. Sie verbindet sich in Sekunden mit dem lokalen 4G/5G-Netz.
-    - q: Wie kontaktiere ich meinen Abholer oder nutze Uber/Grab?
-      a: Nach der Aktivierung bei der Landung können Sie sofort Apps wie Maldives Transport, Speedboat Transfer Maldives,
-        Maldives Taxi nutzen, um eine Fahrt zu buchen, oder WhatsApp verwenden, um Ihren Fahrer zu kontaktieren, ohne auf
-        unsicheres Flughafen-WLAN angewiesen zu sein.
-    - q: Wie nutze ich Google Maps/Apple Maps, um Transportmittel zu finden?
-      a: Mit Ihren Malediven eSIM-Daten können Sie direkt an der Gepäckausgabe in Velana International Airport (MLE), Gan
-        International Airport (GAN), Hanimaadhoo International Airport (HAQ) Echtzeit-Fahrpläne für Züge und Busse prüfen
-        oder den Weg zum Taxistand finden.
-    - q: Wie vermeide ich teure SIM-Karten am Flughafen?
-      a: Indem Sie unsere Malediven eSIM vorab online kaufen, umgehen Sie die teuren SIM-Kioske in der Ankunftshalle komplett
-        und sparen Zeit und Geld.
-    - q: Wie empfange ich SMS von Hotel/Autovermietung ohne lokale Nummer?
-      a: Unsere Malediven eSIM ist ein reiner Datentarif. Um SMS zu empfangen, lassen Sie Ihre heimische SIM-Karte aktiviert
-        (SMS-Empfang ist oft kostenlos im Roaming) und nutzen Sie die eSIM für den gesamten Datenverkehr.
-    - q: Wie kontaktiere ich sofort meine Familie?
-      a: Sobald Sie landen, können Sie iMessage, WhatsApp oder FaceTime über unsere schnellen Malediven eSIM-Daten nutzen,
-        um Ihren Lieben mitzuteilen, dass Sie sicher angekommen sind.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3.  Malediven eSIM fuer Transport & Reisen
-    questions:
-    - q: Wie nutze ich Google Maps zur Routenplanung?
-      a: Unsere stabile Malediven eSIM-Verbindung stellt sicher, dass Google Maps überall in Malediven Echtzeit-Verkehrsdaten
-        und Fahrpläne laden kann.
-    - q: Wie können mich Uber/Grab-Fahrer über die App kontaktieren?
-      a: Apps wie Maldives Transport, Speedboat Transfer Maldives, Maldives Taxi nutzen VoIP. Da Sie aktive Malediven eSIM-Daten
-        haben, können Fahrer Sie direkt über die App anrufen oder benachrichtigen, ohne eine lokale Nummer.
-    - q: Wie kaufe ich Zug- oder U-Bahn-Tickets online?
-      a: Nutzen Sie Ihre Malediven eSIM-Daten, um in lokalen Apps digitale QR-Code-Tickets zu kaufen und lange Schlangen an
-        Automaten zu vermeiden.
-    - q: Wie nutze ich Google Maps für Echtzeit-Navigation im Mietwagen?
-      a: Befestigen Sie Ihr Telefon und nutzen Sie Ihre Malediven eSIM. Ein 5GB- oder 10GB-Tarif reicht für eine umfangreiche
-        GPS-Navigation während eines Roadtrips in Malediven.
-    - q: Wie scanne und entsperre ich E-Scooter (Lime/Bird)?
-      a: Das Entsperren von E-Scootern erfordert eine schnelle Internetverbindung. Unsere Malediven eSIM bietet die dafür
-        nötige zuverlässige Abdeckung.
-    - q: Funktionieren Fahrdienst-Apps länderübergreifend?
-      a: Ja, Ihr Konto bleibt gleich. Stellen Sie nur sicher, dass Sie über unsere lokale oder regionale eSIM eine aktive
-        Internetverbindung haben.
-    - q: Wie biete ich einen stabilen Hotspot für meine Familie?
-      a: Aktivieren Sie einfach den 'Persönlichen Hotspot' in Ihren Einstellungen. Ihre Familie kann sich mit Ihrem Malediven
-        eSIM-Netzwerk im Zug oder Auto verbinden.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4.  Malediven eSIM fuer Hotels
-    questions:
-    - q: Wie mache ich einen Self-Check-in nach Buchung?
-      a: Viele moderne Unterkünfte senden Smart-Lock-Codes per E-Mail. Ihre Malediven eSIM stellt sicher, dass Sie diese Details
-        direkt vor der Haustür abrufen können.
-    - q: Wie kontaktiere ich meinen Airbnb-Gastgeber bei Ankunft?
-      a: Nutzen Sie die Messaging-Funktion der Airbnb-App oder WhatsApp, um Ihre Ankunftszeit mit Ihrem Gastgeber über mobile
-        Malediven eSIM-Daten abzustimmen.
-    - q: Wie nutze ich Google Maps, um zum Hotel zu navigieren?
-      a: Egal ob Sie in Soneva Fushi, The Maledives, Anantara Kihavah Maldives Villas übernachten, geben Sie die Adresse in
-        Google Maps ein und nutzen Sie die Navigation Ihrer Malediven eSIM.
-    - q: Wie empfange ich SMS-Verifizierungscodes?
-      a: Lassen Sie Ihre heimische SIM für SMS aktiv und nutzen Sie Ihre Malediven eSIM-Daten, um Codes per E-Mail oder Authenticator-App
-        zu empfangen.
-    - q: Wie kontaktiere ich schnell den Kundenservice?
-      a: Nutzen Sie VoIP-Apps wie Skype oder die Chat-Funktion der Buchungs-App über Ihre Hochgeschwindigkeits-Malediven eSIM-Daten.
-    - q: Wie bestelle ich Essen mit lokalen Liefer-Apps?
-      a: Laden Sie Ooredoo Mall, Dhiraagu, Yummy herunter und nutzen Sie Ihre Malediven eSIM-Daten, um eine warme Mahlzeit
-        direkt in die Hotellobby zu bestellen.
-    - q: Wie bleibe ich nach dem Checkout mit dem Hotel in Kontakt?
-      a: Sobald Sie das Hotel-WLAN verlassen, übernimmt Ihre Malediven eSIM, sodass Sie dem Hotel schreiben können, falls
-        Sie etwas vergessen haben.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attraktionen
-    title: 5.  Malediven eSIM fuer Sehenswuerdigkeiten
-    questions:
-    - q: Wie kaufe ich E-Tickets über GetYourGuide/Viator?
-      a: Wenn Sie Male Atoll Unterwasserrestaurant, Banana Reef, Unterwasserwelt von Ari-Atoll spontan besuchen möchten, können
-        Sie Ihre Malediven eSIM-Daten nutzen, um Online-Tickets zu kaufen und den Barcode direkt vorzuzeigen.
-    - q: Wie buche ich Erlebnisse bei Tripadvisor sofort?
-      a: Mit dem zuverlässigen 4G/5G Ihrer Malediven eSIM können Sie Bewertungen lesen und lokale Touren buchen, während Sie
-        in einem Café sitzen.
-    - q: Wie nutze ich Wikipedia/Google für Informationen während des Besuchs?
-      a: Erweitern Sie Ihr kulturelles Erlebnis, indem Sie historische Fakten googeln oder Museumstafeln übersetzen, während
-        Sie Malediven erkunden.
-    - q: Wie finde ich den Weg zur nächsten Sehenswürdigkeit?
-      a: Geben Sie Ihr nächstes Ziel in Google Maps ein; die starke Abdeckung Ihrer Malediven eSIM führt Sie über die schnellste
-        Route.
-    - q: Wie prüfe ich Echtzeit-Wartezeiten in Freizeitparks?
-      a: Freizeitpark-Apps benötigen Internet für Live-Wartezeiten. Ihre Malediven eSIM hält Sie im gesamten Park online.
-    - q: Wie greife ich auf Ticketmaster für Show-Tickets zu?
-      a: Sie können sicher Last-Minute-Theaterkarten über Ticketing-Apps mit Ihren Malediven eSIM-Daten kaufen.
-    - q: Wie teile ich Fotos/Videos sofort auf Instagram/TikTok?
-      a: Unsere schnellen Malediven eSIM-Upload-Geschwindigkeiten ermöglichen es Ihnen, Reels und Fotos in Echtzeit zu posten,
-        ohne auf Hotel-WLAN zu warten.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Gastronomie
-    title: 6. Essen & Restaurants
-    questions:
-    - q: Wie finde ich Restaurants mit Google Maps/Tripadvisor?
-      a: Suchen Sie mit Ihrer Malediven eSIM nach 'Restaurants in der Nähe', um Bewertungen, Öffnungszeiten und Menüfotos
-        zu prüfen.
-    - q: Wie reserviere ich Tische online?
-      a: Sichern Sie sich eine Reservierung über Online-Plattformen mit Ihrer Malediven eSIM, während Sie unterwegs sind.
-    - q: Wie scanne ich QR-Codes für digitale Menüs?
-      a: Viele Restaurants nutzen digitale Menüs. Ihre Malediven eSIM stellt sicher, dass der Code auf dem Tisch sofort geladen
-        wird.
-    - q: Wie nutze ich die Google Translate Kamera für Speisekarten?
-      a: Öffnen Sie die App und richten Sie die Kamera auf das Menü. Die Live-Übersetzung benötigt eine Internetverbindung
-        über Ihre Malediven eSIM.
-    - q: Wie nutze ich lokale Lieferdienste?
-      a: Laden Sie lokale Apps wie Ooredoo Mall, Dhiraagu, Yummy herunter und bestellen Sie bequem über Ihre Malediven eSIM-Mobildaten.
-    - q: Wie bezahle ich mit Apple Pay/Google Pay?
-      a: Kontaktlose Zahlungen oder lokale Methoden wie Kreditkarte (Visa/Mastercard), Ooredoo Pay, Dhiraagu Mobile Money
-        erfordern einen kurzen Internet-Handshake, den Ihre Malediven eSIM perfekt meistert.
-    - q: Wie finde ich Geheimtipps von Food-Bloggern?
-      a: Streamen Sie YouTube-Vlogs oder stöbern Sie in Yelp-Bewertungen mit Ihrer Malediven eSIM, um kulinarische Highlights
-        zu entdecken.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 7.  Malediven eSIM fuer Soziale Medien
-    questions:
-    - q: Wie viel Datenvolumen brauche ich fuer Malediven?
-      a: Leichte Nutzer (Karten + Messaging) ~300MB/Tag, moderate Nutzer (soziale Medien + Fotos) ~700MB/Tag, Vielnutzer (Streaming
-        + Videoanrufe) waehlen Unlimited. Die meisten Reisenden finden 5GB/15 Tage fuer eine Standardreise nach Malediven
-        ausreichend.
-    - q: Wie lade ich Inhalte auf TikTok hoch, ohne öffentliches WLAN?
-      a: Öffentliches WLAN ist oft langsam und unsicher. Unsere 4G/5G Malediven eSIM bietet die Bandbreite für schnelle Uploads.
-    - q: Wie mache ich Videoanrufe mit meiner Familie?
-      a: Unsere Netzwerkpartnerschaften garantieren, dass Videoanrufe über die Malediven eSIM klar und verzögerungsfrei sind,
-        wo immer Sie sich im Land befinden.
-    - q: Ist es sicher, sich in öffentlichen WLANs in soziale Accounts einzuloggen?
-      a: Öffentliches WLAN ist anfällig für Hacker. Die Nutzung Ihrer persönlichen Malediven eSIM-Daten ist verschlüsselt
-        und wesentlich sicherer.
-    - q: Wie teile ich das Netzwerk als Hotspot mit Reisebegleitern?
-      a: Aktivieren Sie die Hotspot-Funktion. Ihre Freunde können sich verbinden und Ihr Malediven eSIM-Datenvolumen für ihre
-        sozialen Medien nutzen.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Grenzüberschreitend
-    title: 8.  Malediven eSIM fuer Transport & Reisen
-    questions:
-    - q: Brauche ich für jedes Land eine neue SIM-Karte?
-      a: Die Einzelland-Malediven eSIM funktioniert nur dort. Für Reisen durch mehrere Länder empfehlen wir unsere Regionale
-        eSIM (z.B. Europa eSIM).
-    - q: Wie vermeide ich Roaminggebühren bei Zugfahrten über Grenzen?
-      a: Deaktivieren Sie 'Daten-Roaming' auf Ihrer Heim-SIM. Stellen Sie sicher, dass die Malediven eSIM als primäre Datenleitung
-        eingestellt ist.
-    - q: Wie bekomme ich Internet während Zwischenstopps in Singapur/Dubai?
-      a: Sie können eine günstige 1GB eSIM für das Transitland kaufen, um während des Layovers online zu bleiben.
-    - q: Wie bekomme ich Internet auf Kreuzfahrten?
-      a: Statt teures Schiffs-WLAN zu zahlen, aktivieren Sie eine lokale eSIM für die Länder, die Sie anlaufen. Sie verbindet
-        sich, sobald Sie Landnähe haben.
-    - q: Wie bleibt Google Maps bei Roadtrips online?
-      a: Mit einer Regional-eSIM wechselt Ihr Telefon automatisch zum Netz des neuen Landes, wenn Sie die Grenze überqueren,
-        und hält Ihr GPS aktiv.
-    - q: Wie verwalte ich Daten für mehrere Länder in einer App?
-      a: Sie können Ihren Datenverbrauch für alle aktiven eSIMs direkt über unser Benutzer-Dashboard auf der Website verfolgen.
-    - q: Wie bleibe ich bei Reisen durch mehrere Länder erreichbar?
-      a: Da WhatsApp/iMessage über Daten laufen, stellt eine Regional-eSIM sicher, dass Sie immer unter derselben Nummer erreichbar
-        bleiben.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Notfälle
-    title: 9. Notfälle
-    questions:
-    - q: Wie wähle ich lokale Notrufnummern?
-      a: 'In Malediven können Sie Notrufnummern wie Polizei: 119, Rettungsdienst: 102, Feuerwehr: 118 direkt wählen, solange
-        Ihr Telefon ein Mobilfunksignal empfängt.'
-    - q: Wie finde ich das nächste Krankenhaus?
-      a: Ihre Malediven eSIM-Daten ermöglichen eine sofortige Suche auf Google Maps nach 'Apotheke' oder 'Krankenhaus' mit
-        der schnellsten Route.
-    - q: Wie finde ich Botschaftsinformationen bei Passverlust?
-      a: Nutzen Sie Ihre Malediven eSIM, um schnell Adresse und Notfallkontakt Ihrer Botschaft zu finden.
-    - q: Wie kontaktiere ich die Reiseversicherung bei einem Unfall?
-      a: Nutzen Sie VoIP-Apps wie Skype über Ihre Malediven eSIM-Daten, um die Hotlines Ihrer Versicherung anzurufen.
-    - q: Wie teile ich meinen Standort in Echtzeit?
-      a: Nutzen Sie 'Live-Standort teilen' in WhatsApp oder Apples 'Wo ist?', um Ihre Koordinaten über Malediven eSIM-Daten
-        zu senden.
-    - q: Wie lade ich Offline-Karten für abgelegene Gebiete?
-      a: Nutzen Sie Ihre Stadt-Abdeckung der Malediven eSIM, um Offline-Karten in Google Maps zu laden, bevor Sie in Gebiete
-        ohne Signal reisen.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10.  Malediven eSIM fuer Geschaeftsreisende
-    questions:
-    - q: Wie garantiere ich stabile Zoom/Teams-Meetings?
-      a: Unsere Malediven eSIM verbindet sich mit Premium-Netzen und bietet die Bandbreite und geringe Latenz für professionelle
-        Videokonferenzen.
-    - q: Wie verbinde ich mich sicher mit dem Firmen-VPN?
-      a: Unsere Daten beschränken keine VPN-Protokolle. Sie können Ihr Firmen-VPN sicher über das Malediven eSIM-Netzwerk
-        starten.
-    - q: Wie nutze ich den Hotspot für Laptops in Cafés?
-      a: Aktivieren Sie den Hotspot. Die Nutzung Ihrer Malediven eSIM ist deutlich schneller und sicherer vor Cyber-Bedrohungen
-        als offene WLANs.
-    - q: Wie empfange ich 2FA-Codes für Firmen-E-Mails?
-      a: Lassen Sie Ihre heimische SIM für SMS aktiv und nutzen Sie die Malediven eSIM-Daten für E-Mail-basierte Codes.
-    - q: Wie lade ich große Dateien bei Kundenbesuchen hoch?
-      a: Mit 5G/4G-LTE-Geschwindigkeiten Ihrer Malediven eSIM können Sie Präsentationen schnell in Cloud-Dienste hochladen.
-    - q: Wie nutze ich Slack/Gmail nahtlos für die Zusammenarbeit?
-      a: Ihre Malediven eSIM bietet konstante Verbindung, sodass Sie Slack-Nachrichten und E-Mails sofort erhalten.
-    - q: Wie aktualisiere ich Reisepläne für die Firma online?
-      a: Greifen Sie über Ihre Malediven eSIM von unterwegs auf Firmenportale zu, um die Personalabteilung über Flugverspätungen
-        zu informieren.
+    - q: |
+        Funktioniert mein Handy mit eSIM in Malediven? Wie kann ich das überprüfen?
+      a: |
+        Schnelltest: Wählen Sie *#06#. Wenn eine EID-Nummer (ca. 30-40 Ziffern) erscheint, unterstützt Ihr Handy eSIM. iPhone XS/XR und neuer (2018+), Samsung Galaxy S20 und neuer, Google Pixel 4 und neuer — alle unterstützen eSIM. Etwa 80% der seit 2021 verkauften Handys haben eSIM. Malediven hat 4G/5G mit guter Abdeckung auf den Resorti Prüfen Sie Ihr Modell auf unserer [eSIM-Kompatibilität](/compatibility/) Seite.
+    - q: |
+        Ist eine eSIM für Malediven günstiger als eine SIM-Karte am Flughafen?
+      a: |
+        Ja — Roami eSIM ist 30-50% günstiger als Flughafen-SIM-Karten und viel bequemer. Die Preise starten bei $1.99 für 7 Tage. Keine Warteschlangen, kein Austausch der SIM-Karte. Einfach online kaufen, QR-Code per Email erhalten und in 2 Minuten installieren.
+    - q: |
+        Dhiraagu oder Ooredoo — welcher Anbieter ist besser für Touristen in Malediven?
+      a: |
+        Dhiraagu und Ooredoo sind die Hauptanbieter in Malediven. Dhiraagu erreicht ca. 100-200 Mbps in Städten (20-40% schneller), während Ooredoo etwa 10-15% mehr ländliche Gebiete abdeckt. Malediven hat 4G/5G mit guter Abdeckung auf den Resorti Mit Roami erhalten Sie automatisch das beste Signal.
+    - q: |
+        Soll ich meine Malediven eSIM vor der Abreise oder erst am Flughafen installieren?
+      a: |
+        Vor der Abreise — die Installation benötigt Internet und dauert etwa 2 Minuten. Der QR-Code kommt innerhalb von 5 Minuten per Email. In Malediven einfach Daten-Roaming aktivieren, und Sie sind in unter 60 Sekunden online. Ohne vorherige Installation müssten Sie am Flughafen auf WiFi angewiesen sein, das oft eine SMS-Verifizierung verlangt — ein klassisches Henne-Ei-Problem.
+    - q: |
+        Funktioniert eSIM in Malediven auch in ländlichen Gebieten?
+      a: |
+        Die Abdeckung erreicht etwa 95% der städtischen Gebiete, kann aber in abgelegenen Regionen auf 60-70% fallen. Die Geschwindigkeit kann von 200-300 Mbps (5G) auf 10-30 Mbps (4G) sinken. Zum Vergleich: 4G reicht für Google Maps (5MB/Stunde) und WhatsApp, aber nicht für 4K-Streaming. Roami wechselt automatisch zum stärksten verfügbaren Netz. Laden Sie Offline-Karten vorab herunter.
+    - q: |
+        Bekomme ich nach dem Kauf meiner Malediven eSIM eine Bestätigung?
+      a: |
+        Ja — der QR-Code kommt innerhalb von 5 Minuten per E-Mail zugestellt. Die E-Mail enthält auch eine Installationsanleitung. Prüfen Sie ggf. Ihren Spam-Ordner.
+    - q: |
+        Welcher eSIM Tarif ist für Reisende nach Malediven am beliebtesten?
+      a: |
+        Die meisten Reisenden nach Malediven wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+    - q: |
+        Kann ich WhatsApp und FaceTime mit eSIM in Malediven nutzen?
+      a: |
+        Ja — alle datenbasierten Apps funktionieren ohne Einschränkungen. Ein 5GB Tarif reicht für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Ein 30-minütiges Zoom-Meeting verbraucht etwa 150-300MB. Dhiraagus Netz in Malediven liefert stabile Verbindungen für Videoanrufe.
 related_products:
   title: Ähnliche eSIM-Tarife
   items:
@@ -549,97 +332,4 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'Maldives eSIM vs. lokale Prepaid-SIM: Was ist bequemer?'
-  subtitle: Lokale Prepaid-SIMs in Malediven vs. eSIM-Lösungen (2024/2025 Benchmark)
-  citation:
-    text: 'Datenquelle: Prepaid Data SIM Card Wiki (Maldives) + Webseiten lokaler Anbieter'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Maldives
-  table_headers:
-  - Vergleichsmatrix
-  - Lokale Prepaid-SIM (Marktdaten)
-  - Roami Maldives eSIM
-  table_rows:
-  - icon: store
-    title: Erwerb &<br>Aktivierung
-    prepaid_title: ''
-    prepaid_desc: SIM-Karten sind an Flughafen-Kiosken erhältlich, jedoch zwischen 23:00 und 07:00 Uhr sowie freitags von
-      11:00 bis 14:00 Uhr geschlossen; der Kauf erfordert das Ausfüllen eines Formulars und die Vorlage des Reisepasses.
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die eingeschränkten Öffnungszeiten der Dhiraagu-Filialen (23:00–07:00 Uhr geschlossen, freitags
-      11:00–14:00 Uhr). Aktivieren Sie Ihre eSIM online in 1 Minute vor Reiseantritt – kein Anstehen, kein Formular.
-  - icon: id-card
-    title: KYC & Realnamen-<br>Registrierung
-    prepaid_title: ''
-    prepaid_desc: Beim Kauf einer SIM-Karte muss ein Formular ausgefüllt und der Reisepass vorgelegt werden; dies ist bei
-      allen Anbietern Pflicht.
-    esim_title: Kein Pass erforderlich
-    esim_desc: Während lokale SIMs zwingend die Vorlage des Reisepasses und das Ausfüllen eines Formulars verlangen, benötigt
-      Roami eSIM keine persönliche Identifikation. Datenschutz und Bequemlichkeit in einem.
-  - icon: globe
-    title: Internationales<br>Roaming
-    prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. (Ergänzung: Lokale SIM-Karten bieten in der
-      Regel kein internationales Roaming; bei Nutzung im Ausland fallen hohe Gebühren an.)'
-    esim_title: Weltweites Roaming inklusive
-    esim_desc: Lokale SIMs wie Dhiraagu oder Ooredoo funktionieren nur auf den Malediven. Roami eSIM bietet nahtloses Roaming
-      in über 190 Ländern – ideal für Zwischenstopps in Dubai oder Sri Lanka, ohne Kartenwechsel.
-  - icon: calendar-xmark
-    title: Abrechnungszyklus &<br>verschwendete Kosten
-    prepaid_title: ''
-    prepaid_desc: Dhiraagu-Tarife haben eine Laufzeit von 30 Tagen (z. B. 20 GB für 40 $), Ooredoo bietet 7-Tage-Pakete ab
-      3 GB für MVR 198; alle Preise verstehen sich zzgl. mindestens 6 % GST.
-    esim_title: Flexible Tarife ohne Verschwendung
-    esim_desc: Dhiraagu zwingt Touristen in 30-Tage-Pakete ab 40 $ (20 GB) – bei einem 7-tägigen Aufenthalt verschwenden Sie
-      über 75 % des Tarifwerts. Roami bietet 7-Tage-Tarife ab 1,99 $/GB, passgenau für Ihre Reisedauer.
-  - icon: wifi
-    title: Hotspot &<br>Geschwindigkeitsrichtlinien
-    prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. (Ergänzung: Die meisten lokalen Anbieter erlauben
-      Tethering, jedoch kann die Geschwindigkeit nach Verbrauch des Datenvolumens gedrosselt werden.)'
-    esim_title: Uneingeschränktes Tethering
-    esim_desc: Während lokale Anbieter wie Ooredoo Tethering teilweise einschränken oder nach Datenverbrauch drosseln, erlaubt
-      Roami eSIM uneingeschränktes Hotspot-Sharing – teilen Sie Ihr Datenvolumen mit Laptop und Tablet.
-  - icon: credit-card
-    title: Aufladung & Zahlung
-    prepaid_title: ''
-    prepaid_desc: Online-Zahlungen akzeptieren keine internationalen Kreditkarten; Aufladungen sind nur mit lokalen Gutscheinen
-      möglich, die in Touristengebieten höher besteuert werden.
-    esim_title: Weltweite Zahlungsmethoden
-    esim_desc: Lokale SIMs akzeptieren keine internationalen Kreditkarten für Aufladungen – nur Bargeld oder lokale Gutscheine.
-      Roami eSIM akzeptiert Visa, Mastercard, AMEX, Apple Pay, Google Pay und PayPal – bequem und sicher.
-  - icon: headset
-    title: Kundensupport
-    prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. (Ergänzung: Kundensupport ist in der Regel
-      nur auf lokaler Sprache verfügbar und nicht rund um die Uhr erreichbar.)'
-    esim_title: 24/7 Kundensupport
-    esim_desc: Lokale Anbieter bieten oft nur Support in Landessprache und zu Bürozeiten. Roami eSIM bietet rund um die Uhr
-      deutschsprachigen Support per Chat und E-Mail – immer erreichbar, wenn Sie uns brauchen.
-  expert_verdict:
-    title: 'Maldives eSIM vs. Prepaid-SIM: Kosten und Komfort im Vergleich – die ultimative Entscheidungshilfe'
-    cards:
-    - icon: shield
-      icon_bg: bg-indigo-100
-      icon_color: text-indigo-600
-      title: 24/7 Kundensupport in Ihrer Sprache
-      desc: Lokale Anbieter bieten Support oft nur auf Dhivehi und zu Bürozeiten. Roami eSIM bietet rund um die Uhr deutschsprachigen
-        Support per Chat und E-Mail – immer erreichbar, wenn Sie uns brauchen.
-    - icon: hourglass-empty
-      icon_bg: bg-amber-100
-      icon_color: text-amber-600
-      title: Flexible Tarife vermeiden versunkene Kosten
-      desc: Dhiraagu zwingt Touristen in 30-Tage-Pakete ab 40 $ (20 GB) – bei einem 7-tägigen Aufenthalt verschwenden Sie
-        über 75 % des Tarifwerts. Roami bietet 7-Tage-Tarife ab 1,99 $/GB, passgenau für Ihre Reisedauer.
-    - icon: wifi
-      icon_bg: bg-green-100
-      icon_color: text-green-600
-      title: Uneingeschränktes Tethering ohne Drossel
-      desc: Ooredoo erhebt bei Datenverbrauch über das Paket hinaus bis zu MVR 90/MB. Roami eSIM erlaubt uneingeschränktes
-        Hotspot-Sharing – teilen Sie Ihr Datenvolumen mit Laptop und Tablet, ohne versteckte Kosten.
-    - icon: globe
-      icon_bg: bg-purple-100
-      icon_color: text-purple-600
-      title: Keine versteckten Steuern oder Gebühren
-      desc: Lokale Tarife von Dhiraagu und Ooredoo sind mit mindestens 6 % GST besteuert, in Touristengebieten bis zu 12 %.
-        Roami eSIM zeigt alle Preise inklusive Steuern an – keine Überraschungen.
 ---

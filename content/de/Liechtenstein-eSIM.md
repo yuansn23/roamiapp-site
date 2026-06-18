@@ -1,6 +1,6 @@
 ---
 title: 'Liechtenstein eSIM 2026: Reise & Netzwerk | Roami'
-date: '2026-06-15T08:51:27+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -381,263 +381,47 @@ activation_steps:
       WhatsApp nutzen, soziale Medien checken oder einen Hotspot für andere Geräte einrichten – ohne Wartezeit, ohne Ausweis,
       ohne Vertrag.
     is_list: false
-faq_section1:
-  title: 'Liechtenstein eSIM Guide 2026: Reise- & Datenratgeber'
-  desc: Von Vaduz bis Schaan, bleiben Sie mit Swisscom, Salt, Sunrise verbunden. Unser kompletter Liechtenstein eSIM Guide
-    deckt Netzabdeckung, Tarife, Einrichtung und Reisetipps ab.
+faq_section:
+  title: "eSIM Internet in Liechtenstein -- Wie schnell surft man wirklich?"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Liechtenstein. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Allgemein
-    title: 1.  Allgemeine Fragen zu Liechtenstein eSIM
+    title: Liechtenstein eSIM FAQ
     questions:
-    - q: Kann ich die Liechtenstein eSIM auch ohne QR-Code installieren?
-      a: Ja, zusätzlich zum QR-Code können Sie die eSIM manuell über die SM‑DP+‑Adresse und den Aktivierungscode installieren
-        (beide finden Sie in Ihrer Bestellbestätigung). Der QR‑Code ist jedoch die schnellste und einfachste Methode.
-    - q: Kann ich die Liechtenstein eSIM vor meiner Abreise installieren und später aktivieren?
-      a: Ja, Sie können die eSIM bereits zu Hause (per WLAN) installieren. Die Aktivierung erfolgt dann automatisch, sobald
-        Ihr Telefon in Liechtenstein das erste Mal das Netz von Swisscom / Salt erkennt. So vermeiden Sie jeglichen Stress
-        bei der Landung.
-    - q: Kann ich während der Nutzung der Liechtenstein eSIM weiterhin Anrufe auf meiner heimischen SIM empfangen?
-      a: Ja, Dual‑SIM‑Geräte erlauben die gleichzeitige Nutzung beider Profile. Stellen Sie einfach in den Einstellungen die
-        Roami eSIM als Standard für mobile Daten ein. Anrufe und SMS laufen weiter über Ihre Heim‑SIM (Roaming kann aktiv
-        bleiben).
-    - q: Wie kann ich meinen Datenverbrauch mit der Liechtenstein eSIM überwachen?
-      a: Nach der Aktivierung haben Sie Zugriff auf unser Online‑Dashboard. Dort sehen Sie in Echtzeit Ihren verbleibenden
-        Datenverbrauch, die Restlaufzeit und können bei Bedarf Support anfordern – jederzeit und überall.
-    - q: Kann ich die Liechtenstein eSIM nach der Installation auf ein anderes Gerät übertragen?
-      a: Eine einmal installierte eSIM kann nicht auf ein anderes Gerät übertragen werden. Bitte installieren Sie die eSIM
-        auf dem Gerät, das Sie auf Reisen nutzen werden. Für zusätzliche Geräte können Sie weitere eSIMs erwerben.
-    - q: Gibt es eine Geld‑zurück‑Garantie, falls die Liechtenstein eSIM nicht funktioniert?
-      a: Ja, wir bieten eine 100%ige Geld‑zurück‑Garantie innerhalb von 7 Tagen nach Aktivierung, falls technische Probleme
-        nicht durch unseren 24/7‑Support gelöst werden können. Kein Risiko für Sie.
-    - q: Kann ich meine bestehende Telefonnummer behalten, wenn ich die Liechtenstein eSIM nutze?
-      a: 'Die Roami eSIM ist eine reine Daten‑eSIM. Sie können Ihre heimische SIM parallel nutzen (z.B. für Anrufe/SMS). Die
-        meisten Dual‑SIM‑Handys verwalten beide Profile: Wählen Sie einfach die Roami eSIM als Standard für mobile Daten.'
-    - q: Welche Vorteile bietet die Roami eSIM gegenüber lokalen Prepaid-SIM-Karten in Liechtenstein?
-      a: Im Gegensatz zu lokalen Prepaid‑SIMs sparen Sie sich den Gang zum Shop, die Passregistrierung (KYC) und die Suche
-        nach einer passenden Aufladekarte. Mit Roami aktivieren Sie die eSIM digital in unter 2 Minuten – ohne Warteschlange
-        am Flughafen.
-    - q: Was kostet die Liechtenstein eSIM und gibt es Rabattaktionen?
-      a: Unser Liechtenstein eSIM Tarif startet bei nur $1.99/GB. Mit dem Promo-Code 'web20' erhalten Sie 20% Rabatt auf jede
-        Bestellung – gültig für alle Tarife. Keine versteckten Gebühren, keine Mindestvertragslaufzeit.
-    - q: Wie sicher ist die Liechtenstein eSIM im Vergleich zu einer physischen SIM-Karte?
-      a: eSIMs sind manipulationssicherer, da sie fest im Gerät verbaut sind und nicht herausgenommen oder kopiert werden
-        können. Ihre Daten bleiben verschlüsselt – kein Risiko durch verlorene oder gestohlene SIM-Karten.
-  - id: faq-airport
-    icon: plane
-    tab_title: Flughäfen
-    title: 2.  Liechtenstein eSIM am Flughafen
-    questions:
-    - q: Wie erhalte ich sofort nach der Landung ein zuverlässiges Netz?
-      a: Installieren Sie die Liechtenstein eSIM vor Ihrem Flug. Sobald Sie an Flughäfen wie Flughafen Zürich, Flughafen St.
-        Gallen-Altenrhein, Flughafen Friedrichshafen landen, schalten Sie einfach den Flugmodus aus und aktivieren Sie Ihre
-        eSIM. Sie verbindet sich in Sekunden mit dem lokalen 4G/5G-Netz.
-    - q: Wie kontaktiere ich meinen Abholer oder nutze Uber/Grab?
-      a: Nach der Aktivierung bei der Landung können Sie sofort Apps wie Uber, Lyft, Free Now nutzen, um eine Fahrt zu buchen,
-        oder WhatsApp verwenden, um Ihren Fahrer zu kontaktieren, ohne auf unsicheres Flughafen-WLAN angewiesen zu sein.
-    - q: Wie nutze ich Google Maps/Apple Maps, um Transportmittel zu finden?
-      a: Mit Ihren Liechtenstein eSIM-Daten können Sie direkt an der Gepäckausgabe in Flughafen Zürich, Flughafen St. Gallen-Altenrhein,
-        Flughafen Friedrichshafen Echtzeit-Fahrpläne für Züge und Busse prüfen oder den Weg zum Taxistand finden.
-    - q: Wie vermeide ich teure SIM-Karten am Flughafen?
-      a: Indem Sie unsere Liechtenstein eSIM vorab online kaufen, umgehen Sie die teuren SIM-Kioske in der Ankunftshalle komplett
-        und sparen Zeit und Geld.
-    - q: Wie empfange ich SMS von Hotel/Autovermietung ohne lokale Nummer?
-      a: Unsere Liechtenstein eSIM ist ein reiner Datentarif. Um SMS zu empfangen, lassen Sie Ihre heimische SIM-Karte aktiviert
-        (SMS-Empfang ist oft kostenlos im Roaming) und nutzen Sie die eSIM für den gesamten Datenverkehr.
-    - q: Wie kontaktiere ich sofort meine Familie?
-      a: Sobald Sie landen, können Sie iMessage, WhatsApp oder FaceTime über unsere schnellen Liechtenstein eSIM-Daten nutzen,
-        um Ihren Lieben mitzuteilen, dass Sie sicher angekommen sind.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3.  Liechtenstein eSIM fuer Transport & Reisen
-    questions:
-    - q: Wie nutze ich Google Maps zur Routenplanung?
-      a: Unsere stabile Liechtenstein eSIM-Verbindung stellt sicher, dass Google Maps überall in Liechtenstein Echtzeit-Verkehrsdaten
-        und Fahrpläne laden kann.
-    - q: Wie können mich Uber/Grab-Fahrer über die App kontaktieren?
-      a: Apps wie Uber, Lyft, Free Now nutzen VoIP. Da Sie aktive Liechtenstein eSIM-Daten haben, können Fahrer Sie direkt
-        über die App anrufen oder benachrichtigen, ohne eine lokale Nummer.
-    - q: Wie kaufe ich Zug- oder U-Bahn-Tickets online?
-      a: Nutzen Sie Ihre Liechtenstein eSIM-Daten, um in lokalen Apps digitale QR-Code-Tickets zu kaufen und lange Schlangen
-        an Automaten zu vermeiden.
-    - q: Wie nutze ich Google Maps für Echtzeit-Navigation im Mietwagen?
-      a: Befestigen Sie Ihr Telefon und nutzen Sie Ihre Liechtenstein eSIM. Ein 5GB- oder 10GB-Tarif reicht für eine umfangreiche
-        GPS-Navigation während eines Roadtrips in Liechtenstein.
-    - q: Wie scanne und entsperre ich E-Scooter (Lime/Bird)?
-      a: Das Entsperren von E-Scootern erfordert eine schnelle Internetverbindung. Unsere Liechtenstein eSIM bietet die dafür
-        nötige zuverlässige Abdeckung.
-    - q: Funktionieren Fahrdienst-Apps länderübergreifend?
-      a: Ja, Ihr Konto bleibt gleich. Stellen Sie nur sicher, dass Sie über unsere lokale oder regionale eSIM eine aktive
-        Internetverbindung haben.
-    - q: Wie biete ich einen stabilen Hotspot für meine Familie?
-      a: Aktivieren Sie einfach den 'Persönlichen Hotspot' in Ihren Einstellungen. Ihre Familie kann sich mit Ihrem Liechtenstein
-        eSIM-Netzwerk im Zug oder Auto verbinden.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4.  Liechtenstein eSIM fuer Hotels
-    questions:
-    - q: Wie mache ich einen Self-Check-in nach Buchung?
-      a: Viele moderne Unterkünfte senden Smart-Lock-Codes per E-Mail. Ihre Liechtenstein eSIM stellt sicher, dass Sie diese
-        Details direkt vor der Haustür abrufen können.
-    - q: Wie kontaktiere ich meinen Airbnb-Gastgeber bei Ankunft?
-      a: Nutzen Sie die Messaging-Funktion der Airbnb-App oder WhatsApp, um Ihre Ankunftszeit mit Ihrem Gastgeber über mobile
-        Liechtenstein eSIM-Daten abzustimmen.
-    - q: Wie nutze ich Google Maps, um zum Hotel zu navigieren?
-      a: Egal ob Sie in Park Hotel Sonnenhof in Vaduz, Residence Hotel in Schaan, Hotel Vaduzerhof übernachten, geben Sie
-        die Adresse in Google Maps ein und nutzen Sie die Navigation Ihrer Liechtenstein eSIM.
-    - q: Wie empfange ich SMS-Verifizierungscodes?
-      a: Lassen Sie Ihre heimische SIM für SMS aktiv und nutzen Sie Ihre Liechtenstein eSIM-Daten, um Codes per E-Mail oder
-        Authenticator-App zu empfangen.
-    - q: Wie kontaktiere ich schnell den Kundenservice?
-      a: Nutzen Sie VoIP-Apps wie Skype oder die Chat-Funktion der Buchungs-App über Ihre Hochgeschwindigkeits-Liechtenstein
-        eSIM-Daten.
-    - q: Wie bestelle ich Essen mit lokalen Liefer-Apps?
-      a: Laden Sie Lieferando, Uber Eats, Foodora herunter und nutzen Sie Ihre Liechtenstein eSIM-Daten, um eine warme Mahlzeit
-        direkt in die Hotellobby zu bestellen.
-    - q: Wie bleibe ich nach dem Checkout mit dem Hotel in Kontakt?
-      a: Sobald Sie das Hotel-WLAN verlassen, übernimmt Ihre Liechtenstein eSIM, sodass Sie dem Hotel schreiben können, falls
-        Sie etwas vergessen haben.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attraktionen
-    title: 5.  Liechtenstein eSIM fuer Sehenswuerdigkeiten
-    questions:
-    - q: Wie kaufe ich E-Tickets über GetYourGuide/Viator?
-      a: Wenn Sie Schloss Vaduz, Kunstmuseum Liechtenstein, Liechtenstein Trail spontan besuchen möchten, können Sie Ihre
-        Liechtenstein eSIM-Daten nutzen, um Online-Tickets zu kaufen und den Barcode direkt vorzuzeigen.
-    - q: Wie buche ich Erlebnisse bei Tripadvisor sofort?
-      a: Mit dem zuverlässigen 4G/5G Ihrer Liechtenstein eSIM können Sie Bewertungen lesen und lokale Touren buchen, während
-        Sie in einem Café sitzen.
-    - q: Wie nutze ich Wikipedia/Google für Informationen während des Besuchs?
-      a: Erweitern Sie Ihr kulturelles Erlebnis, indem Sie historische Fakten googeln oder Museumstafeln übersetzen, während
-        Sie Liechtenstein erkunden.
-    - q: Wie finde ich den Weg zur nächsten Sehenswürdigkeit?
-      a: Geben Sie Ihr nächstes Ziel in Google Maps ein; die starke Abdeckung Ihrer Liechtenstein eSIM führt Sie über die
-        schnellste Route.
-    - q: Wie prüfe ich Echtzeit-Wartezeiten in Freizeitparks?
-      a: Freizeitpark-Apps benötigen Internet für Live-Wartezeiten. Ihre Liechtenstein eSIM hält Sie im gesamten Park online.
-    - q: Wie greife ich auf Ticketmaster für Show-Tickets zu?
-      a: Sie können sicher Last-Minute-Theaterkarten über Ticketing-Apps mit Ihren Liechtenstein eSIM-Daten kaufen.
-    - q: Wie teile ich Fotos/Videos sofort auf Instagram/TikTok?
-      a: Unsere schnellen Liechtenstein eSIM-Upload-Geschwindigkeiten ermöglichen es Ihnen, Reels und Fotos in Echtzeit zu
-        posten, ohne auf Hotel-WLAN zu warten.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Gastronomie
-    title: 6. Essen & Restaurants
-    questions:
-    - q: Wie finde ich Restaurants mit Google Maps/Tripadvisor?
-      a: Suchen Sie mit Ihrer Liechtenstein eSIM nach 'Restaurants in der Nähe', um Bewertungen, Öffnungszeiten und Menüfotos
-        zu prüfen.
-    - q: Wie reserviere ich Tische online?
-      a: Sichern Sie sich eine Reservierung über Online-Plattformen mit Ihrer Liechtenstein eSIM, während Sie unterwegs sind.
-    - q: Wie scanne ich QR-Codes für digitale Menüs?
-      a: Viele Restaurants nutzen digitale Menüs. Ihre Liechtenstein eSIM stellt sicher, dass der Code auf dem Tisch sofort
-        geladen wird.
-    - q: Wie nutze ich die Google Translate Kamera für Speisekarten?
-      a: Öffnen Sie die App und richten Sie die Kamera auf das Menü. Die Live-Übersetzung benötigt eine Internetverbindung
-        über Ihre Liechtenstein eSIM.
-    - q: Wie nutze ich lokale Lieferdienste?
-      a: Laden Sie lokale Apps wie Lieferando, Uber Eats, Foodora herunter und bestellen Sie bequem über Ihre Liechtenstein
-        eSIM-Mobildaten.
-    - q: Wie bezahle ich mit Apple Pay/Google Pay?
-      a: Kontaktlose Zahlungen oder lokale Methoden wie Kreditkarte, TWINT, Apple Pay erfordern einen kurzen Internet-Handshake,
-        den Ihre Liechtenstein eSIM perfekt meistert.
-    - q: Wie finde ich Geheimtipps von Food-Bloggern?
-      a: Streamen Sie YouTube-Vlogs oder stöbern Sie in Yelp-Bewertungen mit Ihrer Liechtenstein eSIM, um kulinarische Highlights
-        zu entdecken.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 7.  Liechtenstein eSIM fuer Soziale Medien
-    questions:
-    - q: Wie viel Datenvolumen brauche ich fuer Liechtenstein?
-      a: Leichte Nutzer (Karten + Messaging) ~300MB/Tag, moderate Nutzer (soziale Medien + Fotos) ~700MB/Tag, Vielnutzer (Streaming
-        + Videoanrufe) waehlen Unlimited. Die meisten Reisenden finden 5GB/15 Tage fuer eine Standardreise nach Liechtenstein
-        ausreichend.
-    - q: Wie lade ich Inhalte auf TikTok hoch, ohne öffentliches WLAN?
-      a: Öffentliches WLAN ist oft langsam und unsicher. Unsere 4G/5G Liechtenstein eSIM bietet die Bandbreite für schnelle
-        Uploads.
-    - q: Wie mache ich Videoanrufe mit meiner Familie?
-      a: Unsere Netzwerkpartnerschaften garantieren, dass Videoanrufe über die Liechtenstein eSIM klar und verzögerungsfrei
-        sind, wo immer Sie sich im Land befinden.
-    - q: Ist es sicher, sich in öffentlichen WLANs in soziale Accounts einzuloggen?
-      a: Öffentliches WLAN ist anfällig für Hacker. Die Nutzung Ihrer persönlichen Liechtenstein eSIM-Daten ist verschlüsselt
-        und wesentlich sicherer.
-    - q: Wie teile ich das Netzwerk als Hotspot mit Reisebegleitern?
-      a: Aktivieren Sie die Hotspot-Funktion. Ihre Freunde können sich verbinden und Ihr Liechtenstein eSIM-Datenvolumen für
-        ihre sozialen Medien nutzen.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Grenzüberschreitend
-    title: 8.  Liechtenstein eSIM fuer Transport & Reisen
-    questions:
-    - q: Brauche ich für jedes Land eine neue SIM-Karte?
-      a: Die Einzelland-Liechtenstein eSIM funktioniert nur dort. Für Reisen durch mehrere Länder empfehlen wir unsere Regionale
-        eSIM (z.B. Europa eSIM).
-    - q: Wie vermeide ich Roaminggebühren bei Zugfahrten über Grenzen?
-      a: Deaktivieren Sie 'Daten-Roaming' auf Ihrer Heim-SIM. Stellen Sie sicher, dass die Liechtenstein eSIM als primäre
-        Datenleitung eingestellt ist.
-    - q: Wie bekomme ich Internet während Zwischenstopps in Singapur/Dubai?
-      a: Sie können eine günstige 1GB eSIM für das Transitland kaufen, um während des Layovers online zu bleiben.
-    - q: Wie bekomme ich Internet auf Kreuzfahrten?
-      a: Statt teures Schiffs-WLAN zu zahlen, aktivieren Sie eine lokale eSIM für die Länder, die Sie anlaufen. Sie verbindet
-        sich, sobald Sie Landnähe haben.
-    - q: Wie bleibt Google Maps bei Roadtrips online?
-      a: Mit einer Regional-eSIM wechselt Ihr Telefon automatisch zum Netz des neuen Landes, wenn Sie die Grenze überqueren,
-        und hält Ihr GPS aktiv.
-    - q: Wie verwalte ich Daten für mehrere Länder in einer App?
-      a: Sie können Ihren Datenverbrauch für alle aktiven eSIMs direkt über unser Benutzer-Dashboard auf der Website verfolgen.
-    - q: Wie bleibe ich bei Reisen durch mehrere Länder erreichbar?
-      a: Da WhatsApp/iMessage über Daten laufen, stellt eine Regional-eSIM sicher, dass Sie immer unter derselben Nummer erreichbar
-        bleiben.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Notfälle
-    title: 9. Notfälle
-    questions:
-    - q: Wie wähle ich lokale Notrufnummern?
-      a: 'In Liechtenstein können Sie Notrufnummern wie Polizei: 117, Feuerwehr: 118, Rettungsdienst: 144 direkt wählen, solange
-        Ihr Telefon ein Mobilfunksignal empfängt.'
-    - q: Wie finde ich das nächste Krankenhaus?
-      a: Ihre Liechtenstein eSIM-Daten ermöglichen eine sofortige Suche auf Google Maps nach 'Apotheke' oder 'Krankenhaus'
-        mit der schnellsten Route.
-    - q: Wie finde ich Botschaftsinformationen bei Passverlust?
-      a: Nutzen Sie Ihre Liechtenstein eSIM, um schnell Adresse und Notfallkontakt Ihrer Botschaft zu finden.
-    - q: Wie kontaktiere ich die Reiseversicherung bei einem Unfall?
-      a: Nutzen Sie VoIP-Apps wie Skype über Ihre Liechtenstein eSIM-Daten, um die Hotlines Ihrer Versicherung anzurufen.
-    - q: Wie teile ich meinen Standort in Echtzeit?
-      a: Nutzen Sie 'Live-Standort teilen' in WhatsApp oder Apples 'Wo ist?', um Ihre Koordinaten über Liechtenstein eSIM-Daten
-        zu senden.
-    - q: Wie lade ich Offline-Karten für abgelegene Gebiete?
-      a: Nutzen Sie Ihre Stadt-Abdeckung der Liechtenstein eSIM, um Offline-Karten in Google Maps zu laden, bevor Sie in Gebiete
-        ohne Signal reisen.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10.  Liechtenstein eSIM fuer Geschaeftsreisende
-    questions:
-    - q: Wie garantiere ich stabile Zoom/Teams-Meetings?
-      a: Unsere Liechtenstein eSIM verbindet sich mit Premium-Netzen und bietet die Bandbreite und geringe Latenz für professionelle
-        Videokonferenzen.
-    - q: Wie verbinde ich mich sicher mit dem Firmen-VPN?
-      a: Unsere Daten beschränken keine VPN-Protokolle. Sie können Ihr Firmen-VPN sicher über das Liechtenstein eSIM-Netzwerk
-        starten.
-    - q: Wie nutze ich den Hotspot für Laptops in Cafés?
-      a: Aktivieren Sie den Hotspot. Die Nutzung Ihrer Liechtenstein eSIM ist deutlich schneller und sicherer vor Cyber-Bedrohungen
-        als offene WLANs.
-    - q: Wie empfange ich 2FA-Codes für Firmen-E-Mails?
-      a: Lassen Sie Ihre heimische SIM für SMS aktiv und nutzen Sie die Liechtenstein eSIM-Daten für E-Mail-basierte Codes.
-    - q: Wie lade ich große Dateien bei Kundenbesuchen hoch?
-      a: Mit 5G/4G-LTE-Geschwindigkeiten Ihrer Liechtenstein eSIM können Sie Präsentationen schnell in Cloud-Dienste hochladen.
-    - q: Wie nutze ich Slack/Gmail nahtlos für die Zusammenarbeit?
-      a: Ihre Liechtenstein eSIM bietet konstante Verbindung, sodass Sie Slack-Nachrichten und E-Mails sofort erhalten.
-    - q: Wie aktualisiere ich Reisepläne für die Firma online?
-      a: Greifen Sie über Ihre Liechtenstein eSIM von unterwegs auf Firmenportale zu, um die Personalabteilung über Flugverspätungen
-        zu informieren.
+    - q: |
+        Kann ich meine Liechtenstein eSIM noch in letzter Minute vor dem Flug kaufen?
+      a: |
+        Ja — der QR-Code kommt innerhalb von 5 Minuten per Email. Kaufen Sie am Gate, installieren Sie im Flugzeug über WLAN. Nach der Landung in Liechtenstein Daten-Roaming aktivieren und in 1-2 Minuten online sein. Totalzeit von Kauf bis Online: unter 10 Minuten.
+    - q: |
+        Bekomme ich nach dem Kauf meiner Liechtenstein eSIM eine Bestätigung?
+      a: |
+        Ja — der QR-Code kommt innerhalb von 5 Minuten per E-Mail zugestellt. Die E-Mail enthält auch eine Installationsanleitung. Prüfen Sie ggf. Ihren Spam-Ordner.
+    - q: |
+        Wie viele eSIM-Profile kann ich auf meinem Handy für Liechtenstein speichern?
+      a: |
+        Die meisten Handys speichern 5-10 eSIM-Profile. Sie können Ihre Liechtenstein eSIM neben Ihrer heimischen SIM und bis zu 8 anderen Ländernprofilen speichern. Das Umschalten dauert etwa 10 Sekunden in den Telefoneinstellungen. iPhone ab XS (2018+) und Samsung ab S20 (2020+) unterstützen mehrere Profile gleichzeitig.
+    - q: |
+        Was ist der Unterschied zwischen einem 5GB und einem unbegrenzten Tarif für Liechtenstein?
+      a: |
+        Ein 5GB Tarif ($9.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($59.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+    - q: |
+        Welcher eSIM Tarif ist für Reisende nach Liechtenstein am beliebtesten?
+      a: |
+        Die meisten Reisenden nach Liechtenstein wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+    - q: |
+        Was tun, wenn meine Liechtenstein eSIM bei der Ankunft nicht funktioniert?
+      a: |
+        Drei schnelle Checks (je ca. 30 Sekunden): 1) Ist Daten-Roaming aktiviert? 2) Können Sie Swisscom manuell auswählen? 3) Haben Sie das Telefon neu gestartet? Etwa 90% der Verbindungsprobleme lassen sich mit einem dieser Schritte lösen. Falls nicht: Roami 24/7 Support hilft innerhalb weniger Minuten weiter.
+    - q: |
+        Wann beginnt die Gültigkeitsdauer meiner Liechtenstein eSIM?
+      a: |
+        Die Gültigkeit beginnt, wenn Sie sich in Liechtenstein mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+    - q: |
+        Funktioniert eSIM in Liechtenstein auch in ländlichen Gebieten?
+      a: |
+        Die Abdeckung erreicht etwa 95% der städtischen Gebiete, kann aber in abgelegenen Regionen auf 60-70% fallen. Die Geschwindigkeit kann von 200-300 Mbps (5G) auf 10-30 Mbps (4G) sinken. Zum Vergleich: 4G reicht für Google Maps (5MB/Stunde) und WhatsApp, aber nicht für 4K-Streaming. Roami wechselt automatisch zum stärksten verfügbaren Netz. Laden Sie Offline-Karten vorab herunter.
 related_products:
   title: Ähnliche eSIM-Tarife
   items:
@@ -702,98 +486,4 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'Liechtenstein eSIM vs. physikalische SIM: Was ist besser für Reisen?'
-  subtitle: Lokale Prepaid-SIMs in Liechtenstein vs. eSIM-Lösungen (2024/2025 Benchmark)
-  citation:
-    text: 'Datenquelle: Prepaid Data SIM Card Wiki (Liechtenstein) + Webseiten lokaler Anbieter'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/Liechtenstein
-  table_headers:
-  - Vergleichsmatrix
-  - Lokale Prepaid-SIM (Marktdaten)
-  - Roami Liechtenstein eSIM
-  table_rows:
-  - icon: store
-    title: Erwerb &<br>Aktivierung
-    prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. Marktkenntnis: Prepaid-SIMs von Swisscom oder
-      7acht sind in deren Shops in Liechtenstein oder in der Schweiz erhältlich, jedoch ohne Angabe konkreter Preise oder
-      Öffnungszeiten.'
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die Suche nach Swisscom- oder 7acht-Shops. Aktivieren Sie Ihre eSIM online innerhalb von 1 Minute
-      nach der Landung in Vaduz.
-  - icon: id-card
-    title: KYC & Realnamen-<br>Registrierung
-    prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. Marktkenntnis: In Liechtenstein ist für Prepaid-SIMs
-      eine Identitätsprüfung erforderlich, ähnlich wie in der Schweiz, mit Vorlage eines gültigen Ausweises.'
-    esim_title: Keine Passregistrierung nötig
-    esim_desc: Kein Vorzeigen eines Ausweises erforderlich. Anders als bei lokalen Prepaid-SIMs, die eine Identitätsprüfung
-      verlangen, ist die eSIM sofort nutzbar.
-  - icon: globe
-    title: Internationales<br>Roaming
-    prepaid_title: ''
-    prepaid_desc: Alle in Liechtenstein erworbenen Prepaid-SIMs von Swisscom oder 7acht gelten als Schweizer SIMs (Nicht-EEA)
-      und verlangen für Roaming in EEA-Ländern zusätzliche Gebühren. Beispielsweise können Kosten von 5 € pro Tag für 500
-      MB anfallen.
-    esim_title: Weltweites Roaming ohne Fallstricke
-    esim_desc: Vermeiden Sie die Nicht-EEA-Falle von Swisscom/7acht. Mit eSIM zahlen Sie keine zusätzlichen Roaming-Gebühren
-      in EEA-Ländern; regionale Tarife ab $1.99/GB.
-  - icon: calendar-xmark
-    title: Abrechnungszyklus &<br>verschwendete Kosten
-    prepaid_title: ''
-    prepaid_desc: Prepaid-SIMs von Swisscom oder 7acht haben einen 30-Tage-Abrechnungszyklus. Ein Kurzbesucher, der nur 2
-      Tage bleibt, zahlt den vollen Monatspreis, z. B. 20 € für 5 GB, was zu 93 % Verschwendung führt.
-    esim_title: Flexible Tarife ohne Verschwendung
-    esim_desc: Im Gegensatz zum 30-Tage-Zyklus lokaler SIMs (z. B. 20 € für 5 GB) bietet Roami 7-Tage-Tarife ab $1.99/GB,
-      ideal für Kurzaufenthalte.
-  - icon: wifi
-    title: Hotspot &<br>Geschwindigkeitsrichtlinien
-    prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. Marktkenntnis: Swisscom erlaubt Tethering,
-      drosselt aber nach 3 GB auf 1,5 Mbit/s; 7acht blockiert Hotspot möglicherweise komplett.'
-    esim_title: Uneingeschränktes Tethering
-    esim_desc: Keine Drosselung oder Blockade von Hotspots. Anders als Swisscom (Drossel nach 3 GB) oder 7acht (mögliches
-      Verbot) erlaubt eSIM unbegrenztes Teilen.
-  - icon: credit-card
-    title: Aufladung & Zahlung
-    prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. Marktkenntnis: In Liechtenstein werden Visa,
-      Mastercard, Apple Pay und PayPal akzeptiert; Aufladung oft mit Gutscheinen an Kiosken.'
-    esim_title: Weltweite Zahlung akzeptiert
-    esim_desc: Bezahlen Sie mit Visa, Mastercard, Apple Pay, Google Pay oder PayPal. Keine Probleme mit ausländischen Karten
-      wie bei lokalen Aufladestellen.
-  - icon: headset
-    title: Kundensupport
-    prepaid_title: ''
-    prepaid_desc: 'Keine spezifischen Daten in der Quelle für diese Dimension. Marktkenntnis: Kundensupport von Swisscom und
-      7acht ist auf Deutsch, Mo-Fr 9-17 Uhr, kein Live-Chat für Prepaid.'
-    esim_title: 24/7 Kundensupport
-    esim_desc: Rund-um-die-Uhr-Support in mehreren Sprachen, im Gegensatz zu Swisscom/7acht (nur Deutsch, Mo-Fr 9-17 Uhr).
-  expert_verdict:
-    title: 'Liechtenstein eSIM oder Prepaid-SIM-Karte: Ein direkter Vergleich – intelligent, kosteneffizient und stressfrei'
-    cards:
-    - icon: clock
-      icon_bg: bg-indigo-100
-      icon_color: text-indigo-600
-      title: Sofortige Aktivierung in 1 Minute
-      desc: Lokale SIMs erfordern einen Shop-Besuch und Ausweisvorlage. eSIMs werden digital geliefert und sind innerhalb
-        einer Minute nach der Landung aktiv.
-    - icon: tower-observation
-      icon_bg: bg-rose-100
-      icon_color: text-rose-600
-      title: Vermeiden Sie die Nicht-EEA-Roaming-Falle
-      desc: Swisscom- und 7acht-SIMs gelten als Schweizer (Nicht-EEA) Karten. Bei Einreise nach Österreich oder andere EEA-Länder
-        fallen hohe Roaming-Gebühren an (z. B. 5 €/Tag für 500 MB). eSIMs bieten nahtloses Roaming in ganz Europa ohne Zusatzkosten.
-    - icon: credit-card
-      icon_bg: bg-emerald-100
-      icon_color: text-emerald-600
-      title: Internationale Zahlungen akzeptiert
-      desc: Lokale Aufladestellen akzeptieren oft nur Bargeld oder lokale Karten. eSIMs können bequem mit Visa, Mastercard,
-        Apple Pay, Google Pay oder PayPal bezahlt werden.
-    - icon: shield
-      icon_bg: bg-teal-100
-      icon_color: text-teal-600
-      title: 24/7 mehrsprachiger Support
-      desc: Swisscom und 7acht bieten Support nur auf Deutsch, Mo-Fr 9-17 Uhr. eSIM-Support ist rund um die Uhr in mehreren
-        Sprachen erreichbar.
 ---

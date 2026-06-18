@@ -196,8 +196,8 @@ activation_steps:
       WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Cost-Effective eSIM for Paraguay — Save on Roaming Fees"
-  desc: "Planning Paraguay travel? Our eSIM guide covers cheapest esim paraguay, plans, and setup tips."
+  title: "eSIM for Travelers in Paraguay -- Network Speeds, Coverage and Tips"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Paraguay. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -209,33 +209,33 @@ faq_section:
       a: |
         Roami offers Paraguay eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Tigo provides reliable speeds across Paraguay. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
     - q: |
-        Which carrier in Paraguay should I rely on for my eSIM?
+        Which network in Paraguay has the best coverage for travelers — Tigo, Claro, or Personal?
       a: |
-        Tigo operates over 15,000 towers across Paraguay, covering all major cities. Claro complements this with additional rural coverage reaching about 90% of the population. Personal focuses on affordability, with data plans costing roughly 20% less than Tigo. With Roami, you don't pick one — it connects to whichever is strongest.
+        Paraguay has three main carriers: Tigo, Claro, and Personal. Tigo reaches about 95% of the population with 4G/5G. Claro covers roughly 90% but has stronger rural reach. Personal offers competitive pricing, often 15-20% cheaper than Tigo. Paraguay is primarily 4G. Roami automatically connects you to whichever is strongest at your location.
     - q: |
-        How does Roami compare to Nomad for eSIM in Paraguay?
+        How does Roami compare to Ubigi for eSIM in Paraguay?
       a: |
-        Roami typically offers better value for Paraguay eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Nomad. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Roami typically offers better value for Paraguay eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Ubigi. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        Can I use my Paraguay eSIM for social media and sharing photos with family?
+        When does the validity period of my Paraguay eSIM start?
       a: |
-        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Tigo handle photos in seconds and short videos easily.
+        The plan validity starts when you connect to a local network in Paraguay, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
     - q: |
-        What if I accidentally delete my Paraguay eSIM before my trip?
+        I need internet access for just a couple of days in Paraguay. What's the minimum I can buy?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
     - q: |
-        Will my Paraguay eSIM work as soon as I land, or is there an activation delay?
+        How do I know if my Paraguay eSIM plan is active and ready to use?
       a: |
-        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Tigo. No queues, no paperwork — you're online before you reach baggage claim.
-    - q: |
-        What's included when I buy a Paraguay eSIM from Roami?
-      a: |
-        QR code delivery within 5 minutes, access to Tigo's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Paraguay — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
     - q: |
         Does WhatsApp and FaceTime work with eSIM in Paraguay?
       a: |
         Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Tigo's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+    - q: |
+        Will my Paraguay eSIM work as soon as I land, or is there an activation delay?
+      a: |
+        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Tigo. No queues, no paperwork — you're online before you reach baggage claim.
 related_products:
   title: Related Paraguay eSIM Plans
   items:

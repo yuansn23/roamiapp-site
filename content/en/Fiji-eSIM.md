@@ -334,8 +334,8 @@ activation_steps:
       the initial activation.
     is_list: false
 faq_section:
-  title: "Fiji eSIM on a Budget — Cheap Plans That Work Well"
-  desc: "Planning Fiji travel? Our eSIM guide covers fiji esim vodafone, plans, and setup tips."
+  title: "What Internet Speed Can You Expect with eSIM in Fiji?"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Fiji. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -343,37 +343,37 @@ faq_section:
     title: Fiji eSIM FAQs
     questions:
     - q: |
-        Is it safe to upload my passport for Fiji eSIM registration? I'm concerned about privacy.
+        Do I need a passport or ID to use eSIM in Fiji? How does the verification work?
       a: |
-        Fiji requires identity verification by law. Fiji requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Fiji.
+        Yes, Fiji requires identity verification for eSIM. Fiji requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Vodafone's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
         What are the cheapest eSIM options for a trip to Fiji?
       a: |
         Roami Fiji eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Fiji uses 4G which handles maps and messaging just fine. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
     - q: |
-        How does Roami compare to Klook for eSIM in Fiji?
+        How does Roami compare to Airalo for eSIM in Fiji?
       a: |
-        Roami typically offers better value for Fiji eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Klook. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Roami typically offers better value for Fiji eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
         Does Vodafone or Digicel offer better data speeds in Fiji?
       a: |
         Vodafone typically delivers 20-40% faster download speeds in city centers, while Digicel maintains more consistent coverage across wider areas. Roami connects to the strongest signal automatically, so you always get the best available speed.
     - q: |
-        What if I accidentally delete my Fiji eSIM before my trip?
+        What do I do if my Fiji eSIM doesn't connect when I arrive?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Vodafone in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
     - q: |
-        Does the Fiji eSIM work in rural areas and smaller towns?
+        How many eSIM profiles can I store on my phone for traveling to Fiji?
       a: |
-        Coverage in Fiji reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
+        Most phones store 5-10 eSIM profiles. You can keep your Fiji eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
+    - q: |
+        Can I use my Fiji eSIM for social media and sharing photos with family?
+      a: |
+        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Vodafone handle photos in seconds and short videos easily.
     - q: |
         What's the easiest way to stay connected in Fiji without dealing with airport SIM kiosks?
       a: |
         eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Vodafone for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
-    - q: |
-        What documents do I need to buy a Fiji eSIM from Roami?
-      a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
 related_products:
   title: Related Fiji eSIM Plans
   items:

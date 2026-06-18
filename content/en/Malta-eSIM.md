@@ -374,8 +374,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Malta eSIM With Unlimited Data — Fair Usage Explained Simply"
-  desc: "Planning Malta travel? Our eSIM guide covers malta esim.with calls, plans, and setup tips."
+  title: "How Fast is eSIM Internet in Malta? Speeds and Coverage for Travelers"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Malta. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -383,33 +383,33 @@ faq_section:
     title: Malta eSIM FAQs
     questions:
     - q: |
-        Do I need a passport or ID to use eSIM in Malta? How does the verification work?
+        Is it safe to upload my passport for Malta eSIM registration? I'm concerned about privacy.
       a: |
-        Yes, Malta requires identity verification for eSIM. Malta requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with GO's network than others — check our [eSIM compatibility](/compatibility/) page.
+        Malta requires identity verification by law. Malta requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Malta.
     - q: |
-        If I use eSIM in Malta, can I still get calls and texts on my regular number?
+        Does the Malta eSIM come with a local number, or is it data only?
       a: |
-        Yes — your home SIM stays active in slot 1 for SMS (bank codes, 2FA logins, social media verifications), while the eSIM handles data in slot 2. Just disable data roaming on your home SIM to avoid roaming charges, which can cost up to $10-15 per MB in some countries. All modern iPhones (XS+) and Android phones (Samsung S20+, Pixel 4+) support this dual setup.
+        It's data-only — no local number included. For calls, most travelers use WhatsApp, FaceTime, or Google Voice over data. Your home SIM stays active in slot 1 for SMS. Need a local number for reservations? Services like Skype or Google Voice work over the eSIM connection. Dual SIM setup takes about 30 seconds in your phone settings.
     - q: |
-        Is the unlimited eSIM plan for Malta worth it, or would a fixed data plan be better?
+        Will the Malta eSIM unlimited plan slow down if I use too much data?
       a: |
-        Roami's unlimited plan has a fair cap: 30GB per day, after which speed drops to 512 kbps until midnight. Most travelers use 500MB to 3GB daily — hitting 30GB means streaming 4K video for 10 hours straight. For regular browsing, maps, and social media, a 5GB or 10GB plan is plenty. Choose unlimited if you plan heavy streaming or hotspot sharing.
+        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
     - q: |
-        What's the most popular eSIM choice for travelers going to Malta?
+        Is eSIM cheaper than international roaming for Malta?
       a: |
-        Most travelers to Malta choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Malta costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
     - q: |
-        When does the validity period of my Malta eSIM start?
+        What's the difference between a 5GB plan and an unlimited plan for Malta?
       a: |
-        The plan validity starts when you connect to a local network in Malta, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
     - q: |
-        Do I need to remove my physical SIM to use eSIM in Malta?
+        I'm arriving in Malta late at night. Will I be able to get online immediately?
       a: |
-        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up GO automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
     - q: |
-        Can I use navigation apps like Google Maps with eSIM in Malta?
+        Does WhatsApp and FaceTime work with eSIM in Malta?
       a: |
-        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Malta (about 200-500MB per city) before you go as a backup.
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. GO's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
     - q: |
         What's included when I buy a Malta eSIM from Roami?
       a: |

@@ -263,8 +263,8 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Everything You Need to Know About eSIM in Congo"
-  desc: "Planning Congo travel? Our eSIM guide covers esim congo brazzaville, plans, and setup tips."
+  title: "Does eSIM Work Everywhere in Congo? City and Rural Coverage Guide"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Congo. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -272,37 +272,37 @@ faq_section:
     title: Congo eSIM FAQs
     questions:
     - q: |
-        How do Airtel, Orange, and MTN compare for a tourist visiting Congo?
+        Which network in Congo has the best coverage for travelers — Airtel, Orange, or MTN?
       a: |
-        In Congo, Airtel leads with the fastest urban 5G speeds (up to 1 Gbps in tests). Orange covers about 85% of the country including most rural areas. MTN is the budget option, often bundling data at lower per-GB rates. Tourists visiting cities get excellent service from all three. Congo is primarily 4G with coverage in major cities. Roami picks the best one automatically as you move around.
+        Congo has three main carriers: Airtel, Orange, and MTN. Airtel reaches about 95% of the population with 4G/5G. Orange covers roughly 90% but has stronger rural reach. MTN offers competitive pricing, often 15-20% cheaper than Airtel. Congo is primarily 4G with coverage in major cities. Roami automatically connects you to whichever is strongest at your location.
     - q: |
-        Can I use my Congo eSIM for social media and sharing photos with family?
+        Can I use navigation apps like Google Maps with eSIM in Congo?
       a: |
-        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Airtel handle photos in seconds and short videos easily.
+        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Congo (about 200-500MB per city) before you go as a backup.
     - q: |
-        When does the validity period of my Congo eSIM start?
+        What if my hotel in Congo has free WiFi — do I still need eSIM data?
       a: |
-        The plan validity starts when you connect to a local network in Congo, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
     - q: |
-        Do I need to remove my physical SIM to use eSIM in Congo?
+        What documents do I need to buy a Congo eSIM from Roami?
       a: |
-        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
     - q: |
-        Will my eSIM in Congo work for video calls and remote work?
+        Can I buy a Congo eSIM at the last minute, right before my flight?
       a: |
-        Absolutely. Airtel networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
+        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Congo, just enable Data Roaming and you'll be online immediately.
     - q: |
-        What's the difference between a 5GB plan and an unlimited plan for Congo?
+        How does eSIM compare to pocket WiFi for Congo travel?
       a: |
-        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
     - q: |
-        Does WhatsApp and FaceTime work with eSIM in Congo?
+        Does the Congo eSIM work in rural areas and smaller towns?
       a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Airtel's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+        Coverage in Congo reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
     - q: |
-        What's included when I buy a Congo eSIM from Roami?
+        Can I check how much data I've used on my Congo eSIM?
       a: |
-        QR code delivery within 5 minutes, access to Airtel's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
+        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
 related_products:
   title: Related Congo (Kinshasa) eSIM Plans
   items:

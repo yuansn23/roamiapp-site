@@ -1,6 +1,6 @@
 ---
 title: '美國 eSIM 2026: 連線與速度 | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -368,29 +368,29 @@ activation_steps:
       美國。幾秒鐘內，您的設備將自動連接到 AT&T / Verizon 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 美國 eSIM 實名認證教學｜購買安裝完整指南
-  desc: 整理了美國 eSIM的美國 T-Mobile AT&T 比較、美國 esim 推薦 threads、美國 T-Mobile 網路覆蓋等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂美國上網。
+  title: 美國 eSIM 網速評測｜T-Mobile、AT&T、Verizon 5G/4G速度對比
+  desc: 整理了美國 eSIM在美國 T-Mobile AT&T 比較的網路覆蓋、T-Mobile電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 美國 eSIM 實名認證教學｜購買安裝完整指南
+    title: 美國 eSIM 網速評測｜T-Mobile、AT&T、Verizon 5G/4G速度對比
     questions:
-    - q: 去美國旅遊如果用eSIM，流量和天數要怎麼搭比較省？
+    - q: 美國eSIM各方案價格差在哪裡？買哪種最適合一般觀光客？
       a: Roami 美國 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。T-Mobile在美國市區5G網速約100-300Mbps，看1080p影片沒問題。如果去Klook查美國 eSIM，Roami通常便宜10-20%，因為沒有平台抽成。如果不確定用量可以先買小的，到美國後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
-    - q: 辦了美國eSIM之後還可以打電話嗎？通話品質好不好？
+    - q: 去美國用eSIM上網，想打電話給當地餐廳或民宿可以嗎？
       a: Roami 美國 eSIM是純數據方案，沒有附當地號碼。很多人擔心沒號碼不方便——其實叫車、訂餐廳用網路電話就行。在美國都會區用T-Mobile的5G打視訊，品質跟一般通話差不多。原門號可留在卡槽1繼續收簡訊（銀行驗證、社群通知不漏），eSIM在卡槽2負責上網。如需當地號碼可搭Google Voice或TextNow。iPhone XS以上、多數安卓旗艦支援雙卡雙待，設定數據走eSIM、通話走原門號即可。
-    - q: 到美國旅遊想用eSIM，T-Mobile、AT&T、Verizon哪家網路比較穩？
+    - q: 去美國玩辦eSIM，Roami會自動切換T-Mobile、AT&T、Verizon的網路嗎？
       a: 美國主要有T-Mobile、AT&T、Verizon。T-Mobile市區下載快、基地台密集。AT&T郊區覆蓋廣，會去郊區的話選AT&T路線較有保障。Verizon價格親民，適合預算有限的旅客。美國5G使用n71/n77/n260/n261頻段，國際手機可能缺少Band 71。不過Roami會自動切換到當前訊號最強的網路。市區用T-Mobile，移動到郊區若T-Mobile訊號變弱就自動跳AT&T或Verizon，完全不用手動選。
-    - q: 在Klook買美國eSIM跟在Roami官網直接買，價格和服務有什麼差別？
+    - q: 如果從Klook買美國eSIM遇到問題，客服要找誰處理？
       a: 很多人上Klook比價美國 eSIM。主要差異：第一，Roami直銷無平台抽成，價格通常比Klook便宜10-20%。第二，Roami有24小時直接客服，不用透過Klook轉達。第三，Roami買斷制到期就停，不會續約扣款。美國5G使用n71/n77/n260/n261頻段，國際手機可能缺少Band 71。不過Klook可跟飯店票券合併結帳累積點數。不管哪買，在美國都是接取T-Mobile、AT&T、Verizon的網路，訊號品質一樣。
-    - q: 聽說美國的頻段跟台灣不太一樣，用eSIM之前要怎麼確認手機能不能用？
+    - q: 台灣買的手機去美國用eSIM會不會有頻段不相容的問題？
       a: 最快方法：撥號*#06#，出現EID代表支援eSIM。iPhone XS以後、Samsung S20/Flip以後、Pixel 4以後、多數2020年後旗艦機都支援。美國5G使用n71/n77/n260/n261頻段，國際手機可能缺少Band 71。很多人忽略頻段問題——T-Mobile在美國的n71/n77/n260/n261頻段可能跟你的手機不完全吻合。出發前到[Roami相容性頁面](/compatibility/)查型號。不支援eSIM可租WiFi機或買當地實體SIM卡。
-    - q: 美國eSIM吃到飽方案如果被降速了，512kbps的速度還能做什麼？
+    - q: 不太確定去美國會用多少網路，該直接選吃到飽還是先買定量就好？
       a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。美國5G使用n71/n77/n260/n261頻段，國際手機可能缺少Band 71。Roami在美國連上T-Mobile的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
-    - q: 聽說在美國辦eSIM不用證件認證，買了就可以直接用了嗎？
+    - q: 美國eSIM不需要實名登記嗎？跟其他需要護照的國家不一樣？
       a: 沒錯，美國 eSIM不需要證件認證。美國預付卡通常不需KYC，但部分營運商可能要求美國地址。直接購買安裝就能用，省去排隊辦卡填資料的麻煩。連上T-Mobile的網路即可上網。美國5G使用n71/n77/n260/n261頻段，國際手機可能缺少Band 71。建議出發前用WiFi先裝好，到美國開啟數據漫遊就自動連線。不確定手機支援度可到[相容性頁面](/compatibility/)查詢。
-    - q: 行程會經過美國和加拿大，eSIM可以買一張跨兩國使用的嗎？
+    - q: 如果從美國再到加拿大，原本的eSIM還能繼續用嗎？
       a: Roami單國方案僅限美國境內。每個國家電信網路是分開的，需要不同方案。你的行程包含加拿大等其他國家的話，有兩種方式：第一，出發前把各國eSIM都買好，手機可存多組（約5-10組），到哪國啟用哪個。第二，Roami也有區域方案（如歐洲多國），一卡多國使用。先算各國停留天數再選最划算的買法。
     - q: 美國主要市區和偏遠鄉村的網路覆蓋差距大嗎？
       a: 美國的T-Mobile等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。美國5G使用n71/n77/n260/n261頻段，國際手機可能缺少Band 71。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
@@ -455,7 +455,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 與預付 SIM 卡在 美國 你該知道的事"
+  title: "United States eSIM 網速與收訊全攻略 -- 旅行不斷線"
   subtitle: "美國當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (United-States) + 當地電信商官網"
@@ -468,7 +468,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "美國預付 SIM 卡獲取耗時：需前往機場或門市排隊，面臨 AT&T 嚴苛的 IMEI 白名單審查（非批准設備秒斷網），或 Verizon 對國際設備的拒絕激活。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in United States. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開 AT&T 門市排隊與 IMEI 白名單審查，Roami eSIM 購買後一分鐘內線上啟用，無需實體卡，落地美國即連網。"
     - icon: "id-card"

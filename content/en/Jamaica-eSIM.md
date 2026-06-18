@@ -278,8 +278,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Affordable eSIM Options for Jamaica — Compare Plans & Prices"
-  desc: "Planning Jamaica travel? Our eSIM guide covers jamaica esim digicel, plans, and setup tips."
+  title: "eSIM in Jamaica -- Is the Connection Fast and Reliable for Tourists?"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Jamaica. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -299,25 +299,25 @@ faq_section:
       a: |
         Jamaica requires identity verification by law. Jamaica requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Jamaica.
     - q: |
+        I'm traveling to Jamaica for just 2-3 days. What eSIM should I get?
+      a: |
+        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+    - q: |
+        When does the validity period of my Jamaica eSIM start?
+      a: |
+        The plan validity starts when you connect to a local network in Jamaica, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+    - q: |
+        Can I install my Jamaica eSIM at the airport, or should I do it before leaving home?
+      a: |
+        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Jamaica's airport, enable Data Roaming and you'll be online in under 60 seconds.
+    - q: |
         How do I know if my Jamaica eSIM plan is active and ready to use?
       a: |
         After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Jamaica — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
     - q: |
-        Can I buy a Jamaica eSIM at the last minute, right before my flight?
+        Will my Jamaica eSIM work as soon as I land, or is there an activation delay?
       a: |
-        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Jamaica, just enable Data Roaming and you'll be online immediately.
-    - q: |
-        Can I use my Jamaica eSIM for social media and sharing photos with family?
-      a: |
-        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Digicel handle photos in seconds and short videos easily.
-    - q: |
-        What documents do I need to buy a Jamaica eSIM from Roami?
-      a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
-    - q: |
-        I'm arriving in Jamaica late at night. Will I be able to get online immediately?
-      a: |
-        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Digicel automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
+        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Digicel. No queues, no paperwork — you're online before you reach baggage claim.
 related_products:
   title: Related Jamaica eSIM Plans
   items:

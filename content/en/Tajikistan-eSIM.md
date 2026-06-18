@@ -270,8 +270,8 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Tajikistan eSIM — Plans, Prices and Setup Tips for Travelers"
-  desc: "Planning Tajikistan travel? Our eSIM guide covers esim tajikistan uzbekistan, plans, and setup tips."
+  title: "Does eSIM Work Everywhere in Tajikistan? City and Rural Coverage Guide"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Tajikistan. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -287,29 +287,29 @@ faq_section:
       a: |
         Roami typically offers better value for Tajikistan eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Nomad. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        Can I use my Tajikistan eSIM for social media and sharing photos with family?
+        How do I know if my Tajikistan eSIM plan is active and ready to use?
       a: |
-        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Tcell handle photos in seconds and short videos easily.
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Tajikistan — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
     - q: |
-        Is eSIM cheaper than international roaming for Tajikistan?
+        When does the validity period of my Tajikistan eSIM start?
       a: |
-        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Tajikistan costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+        The plan validity starts when you connect to a local network in Tajikistan, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
     - q: |
-        Does WhatsApp and FaceTime work with eSIM in Tajikistan?
+        Can I use navigation apps like Google Maps with eSIM in Tajikistan?
       a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Tcell's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Tajikistan (about 200-500MB per city) before you go as a backup.
     - q: |
-        What's the most popular eSIM choice for travelers going to Tajikistan?
+        Do I need to remove my physical SIM to use eSIM in Tajikistan?
       a: |
-        Most travelers to Tajikistan choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
     - q: |
-        Can I buy a Tajikistan eSIM at the last minute, right before my flight?
+        Can I use my Tajikistan eSIM right after buying it, or do I need to wait?
       a: |
-        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Tajikistan, just enable Data Roaming and you'll be online immediately.
+        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Tajikistan. So you can install weeks before your trip without losing any plan days.
     - q: |
-        What documents do I need to buy a Tajikistan eSIM from Roami?
+        What if I accidentally delete my Tajikistan eSIM before my trip?
       a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
 related_products:
   title: Related eSIM Plans
   items:

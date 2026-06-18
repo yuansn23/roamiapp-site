@@ -376,8 +376,8 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Traveling to Luxembourg? Here's How eSIM Registration Works"
-  desc: "Planning Luxembourg travel? Our eSIM guide covers lycamobile luxembourg esim, plans, and setup tips."
+  title: "eSIM for Travelers in Luxembourg -- Network Speeds, Coverage and Tips"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Luxembourg. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -393,29 +393,29 @@ faq_section:
       a: |
         For urban sightseeing, POST typically delivers download speeds of 50-200 Mbps on 4G/5G. Tango has slightly broader coverage in suburban areas. Orange offers competitive data rates, often with more flexible prepaid options. All three work well for maps, messaging, and social media. Roami ensures you're always on the best one.
     - q: |
-        I'm traveling to Luxembourg for just 2-3 days. What eSIM should I get?
+        Will my Luxembourg eSIM work as soon as I land, or is there an activation delay?
       a: |
-        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to POST. No queues, no paperwork — you're online before you reach baggage claim.
     - q: |
-        When does the validity period of my Luxembourg eSIM start?
+        Can I use navigation apps like Google Maps with eSIM in Luxembourg?
       a: |
-        The plan validity starts when you connect to a local network in Luxembourg, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
-    - q: |
-        Can I keep my home SIM in my phone while using eSIM in Luxembourg?
-      a: |
-        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
+        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Luxembourg (about 200-500MB per city) before you go as a backup.
     - q: |
         Will my eSIM in Luxembourg work for video calls and remote work?
       a: |
         Absolutely. POST networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
     - q: |
-        Can I check how much data I've used on my Luxembourg eSIM?
+        What do I do if my Luxembourg eSIM doesn't connect when I arrive?
       a: |
-        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
+        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select POST in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
     - q: |
-        Will my Luxembourg eSIM work as soon as I land, or is there an activation delay?
+        I'm traveling to Luxembourg for just 2-3 days. What eSIM should I get?
       a: |
-        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to POST. No queues, no paperwork — you're online before you reach baggage claim.
+        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+    - q: |
+        Does WhatsApp and FaceTime work with eSIM in Luxembourg?
+      a: |
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. POST's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
 related_products:
   title: Related Luxembourg eSIM Plans
   items:

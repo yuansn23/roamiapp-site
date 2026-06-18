@@ -203,8 +203,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Bahamas eSIM Registration Guide — Passport and ID Requirements"
-  desc: "Planning Bahamas travel? Our eSIM guide covers bahamas prepaid esim, plans, and setup tips."
+  title: "What Internet Speed Can You Expect with eSIM in Bahamas?"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Bahamas. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -216,33 +216,33 @@ faq_section:
       a: |
         Bahamas requires identity verification by law. Bahamas requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Bahamas.
     - q: |
-        Can I get an eSIM for Bahamas without spending too much?
+        What are the cheapest eSIM options for a trip to Bahamas?
       a: |
-        Absolutely. Roami's Bahamas eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+        Roami Bahamas eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Bahamas uses 4G which handles maps and messaging just fine. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
     - q: |
         How does Roami compare to Airalo for eSIM in Bahamas?
       a: |
         Roami typically offers better value for Bahamas eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        What if my hotel in Bahamas has free WiFi — do I still need eSIM data?
-      a: |
-        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
-    - q: |
         What happens if I use all my data in Bahamas before my plan expires?
       a: |
         Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
     - q: |
-        I'm arriving in Bahamas late at night. Will I be able to get online immediately?
+        How do I know if my Bahamas eSIM plan is active and ready to use?
       a: |
-        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up BTC automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
-    - q: |
-        When does the validity period of my Bahamas eSIM start?
-      a: |
-        The plan validity starts when you connect to a local network in Bahamas, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Bahamas — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
     - q: |
         How many eSIM profiles can I store on my phone for traveling to Bahamas?
       a: |
         Most phones store 5-10 eSIM profiles. You can keep your Bahamas eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
+    - q: |
+        What's the difference between a 5GB plan and an unlimited plan for Bahamas?
+      a: |
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+    - q: |
+        When does the validity period of my Bahamas eSIM start?
+      a: |
+        The plan validity starts when you connect to a local network in Bahamas, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
 related_products:
   title: Related Bahamas eSIM Plans
   items:

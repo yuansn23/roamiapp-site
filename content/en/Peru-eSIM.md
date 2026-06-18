@@ -335,8 +335,8 @@ activation_steps:
       the initial activation.
     is_list: false
 faq_section:
-  title: "Cost-Effective eSIM for Peru — Save on Roaming Fees"
-  desc: "Planning Peru travel? Our eSIM guide covers cheapest esim peru, plans, and setup tips."
+  title: "Getting Online in Peru -- eSIM Network Quality and Speed Guide"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Peru. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -344,37 +344,37 @@ faq_section:
     title: Peru eSIM FAQs
     questions:
     - q: |
-        Which carrier in Peru should I rely on for my eSIM?
+        Tourists visiting Peru — which network gives the best experience?
       a: |
-        Claro operates over 15,000 towers across Peru, covering all major cities. Movistar complements this with additional rural coverage reaching about 90% of the population. Entel focuses on affordability, with data plans costing roughly 20% less than Claro. With Roami, you don't pick one — it connects to whichever is strongest.
+        For urban sightseeing, Claro typically delivers download speeds of 50-200 Mbps on 4G/5G. Movistar has slightly broader coverage in suburban areas. Entel offers competitive data rates, often with more flexible prepaid options. All three work well for maps, messaging, and social media. Roami ensures you're always on the best one.
     - q: |
-        How much should I budget for an eSIM when visiting Peru?
+        What are the cheapest eSIM options for a trip to Peru?
       a: |
-        Roami offers Peru eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Claro provides reliable speeds across Peru. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+        Roami Peru eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Thanks to Claro's 5G network, streaming and video calls work great. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
     - q: |
         How does Roami compare to Holafly for eSIM in Peru?
       a: |
         Roami typically offers better value for Peru eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Holafly. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
+        What's the difference between a 5GB plan and an unlimited plan for Peru?
+      a: |
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+    - q: |
+        What if I accidentally delete my Peru eSIM before my trip?
+      a: |
+        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+    - q: |
+        Can I use navigation apps like Google Maps with eSIM in Peru?
+      a: |
+        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Peru (about 200-500MB per city) before you go as a backup.
+    - q: |
+        How does eSIM compare to pocket WiFi for Peru travel?
+      a: |
+        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
+    - q: |
         What do I do if my Peru eSIM doesn't connect when I arrive?
       a: |
         Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Claro in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
-    - q: |
-        What's the easiest way to stay connected in Peru without dealing with airport SIM kiosks?
-      a: |
-        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Claro for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
-    - q: |
-        What documents do I need to buy a Peru eSIM from Roami?
-      a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
-    - q: |
-        Will my Peru eSIM work as soon as I land, or is there an activation delay?
-      a: |
-        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Claro. No queues, no paperwork — you're online before you reach baggage claim.
-    - q: |
-        Can I check how much data I've used on my Peru eSIM?
-      a: |
-        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
 related_products:
   title: Related Peru eSIM Plans
   items:

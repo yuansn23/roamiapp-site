@@ -374,8 +374,8 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Cost-Effective eSIM for Indonesia — Save on Roaming Fees"
-  desc: "Planning Indonesia travel? Our eSIM guide covers digitravel esim indonesia, plans, and setup tips."
+  title: "eSIM in Indonesia -- Is the Connection Fast and Reliable for Tourists?"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Indonesia. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -391,29 +391,29 @@ faq_section:
       a: |
         Absolutely. Roami's Indonesia eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
     - q: |
-        How far in advance should I buy my Indonesia eSIM?
+        What's included when I buy a Indonesia eSIM from Roami?
       a: |
-        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Indonesia, so buying early doesn't waste your plan days.
+        QR code delivery within 5 minutes, access to Telkomsel's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
     - q: |
-        I need internet access for just a couple of days in Indonesia. What's the minimum I can buy?
+        Do I need to remove my physical SIM to use eSIM in Indonesia?
       a: |
-        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
     - q: |
-        What's the difference between a 5GB plan and an unlimited plan for Indonesia?
+        What documents do I need to buy a Indonesia eSIM from Roami?
       a: |
-        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
     - q: |
-        Can I use my Indonesia eSIM for social media and sharing photos with family?
+        What if I accidentally delete my Indonesia eSIM before my trip?
       a: |
-        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Telkomsel handle photos in seconds and short videos easily.
+        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
     - q: |
-        How many eSIM profiles can I store on my phone for traveling to Indonesia?
+        Will my Indonesia eSIM work as soon as I land, or is there an activation delay?
       a: |
-        Most phones store 5-10 eSIM profiles. You can keep your Indonesia eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
+        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Telkomsel. No queues, no paperwork — you're online before you reach baggage claim.
     - q: |
-        How much data does a typical traveler actually use per day in Indonesia?
+        How do I know if my Indonesia eSIM plan is active and ready to use?
       a: |
-        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Indonesia — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
 related_products:
   title: Related Indonesia eSIM Plans
   items:

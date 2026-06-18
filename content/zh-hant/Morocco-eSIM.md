@@ -1,6 +1,6 @@
 ---
 title: '摩洛哥 eSIM 2026: 5G與方案 | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -352,24 +352,24 @@ activation_steps:
       Maroc Telecom / Orange 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 摩洛哥 eSIM 購買前必讀｜價格方案與電信指南
-  desc: 整理了摩洛哥 eSIM的摩洛哥 Maroc Telecom Orange 比較、摩洛哥 Maroc Telecom 網路覆蓋、摩洛哥 Orange 速度等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂摩洛哥上網。
+  title: 摩洛哥 eSIM 5G網速與電信商比較｜Maroc Telecom、Orange、Inwi覆蓋評測
+  desc: 整理了摩洛哥 eSIM在摩洛哥 Maroc Telecom Orange 比較的網路覆蓋、Maroc Telecom電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 摩洛哥 eSIM 購買前必讀｜價格方案與電信指南
+    title: 摩洛哥 eSIM 5G網速與電信商比較｜Maroc Telecom、Orange、Inwi覆蓋評測
     questions:
-    - q: 去摩洛哥想辦eSIM但又怕買貴，大概多少預算才夠？
+    - q: 短期去摩洛哥玩個三五天，eSIM最便宜的方案大概多少錢？
       a: Roami 摩洛哥 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Maroc Telecom在摩洛哥市區5G網速約100-300Mbps，看1080p影片沒問題。去摩洛哥機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到摩洛哥後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 去摩洛哥玩辦eSIM，Roami會自動切換Maroc Telecom、Orange、Inwi的網路嗎？
       a: 摩洛哥主要有Maroc Telecom、Orange、Inwi。Maroc Telecom市區下載快、基地台密集。Orange郊區覆蓋廣，會去郊區的話選Orange路線較有保障。Inwi價格親民，適合預算有限的旅客。摩洛哥4G為主，5G於卡薩布蘭卡等城市開通。不過Roami會自動切換到當前訊號最強的網路。市區用Maroc Telecom，移動到郊區若Maroc Telecom訊號變弱就自動跳Orange或Inwi，完全不用手動選。
-    - q: 如果出發前忘記先辦好摩洛哥eSIM的認證，到當地才弄來得及嗎？
+    - q: 去摩洛哥用eSIM需要先通過身分驗證嗎？要準備哪些證件？
       a: 需要的。摩洛哥預付卡需KYC認證，需提供護照。很多人不知道這規定，到了摩洛哥機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。摩洛哥4G為主，5G於卡薩布蘭卡等城市開通。完成後到摩洛哥開數據漫遊就能直接用。不支援eSIM可租WiFi機。
-    - q: 摩洛哥主要市區和偏遠鄉村的網路覆蓋差距大嗎？
+    - q: 在摩洛哥的郊區或小鎮也能正常使用eSIM嗎？查地圖導航會不會斷？
       a: 摩洛哥的Maroc Telecom等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。摩洛哥4G為主，5G於卡薩布蘭卡等城市開通。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
-    - q: 摩洛哥eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
-      a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 出國去摩洛哥用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
+      a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到摩洛哥開數據漫遊就用。
     - q: 跟旅伴一起去摩洛哥，買一張eSIM開熱點分享夠兩個人用嗎？
       a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
 related_products:
@@ -438,7 +438,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 或預付 SIM 卡在 摩洛哥 的直接比較"
+  title: "Morocco eSIM 上網速度如何？旅客實際體驗分享"
   subtitle: "摩洛哥當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (Morocco) + 當地電信商官網"
@@ -451,7 +451,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Maroc Telecom 的 SIM 卡購買和數據包開通往往非常複雜，首次激活需撥打 888 並遵循法語或阿拉伯語的語音提示，整個流程約需 30 分鐘。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Morocco. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開 Maroc Telecom 門市排隊與 30 分鐘的激活流程，抵達摩洛哥後一分鐘內線上啟用 eSIM，無需撥打 888 或面對法語語音提示。"
     - icon: "id-card"

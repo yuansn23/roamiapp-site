@@ -358,8 +358,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Affordable eSIM Options for Serbia — Compare Plans & Prices"
-  desc: "Planning Serbia travel? Our eSIM guide covers serbia esim internet, plans, and setup tips."
+  title: "Getting Online in Serbia -- eSIM Network Quality and Speed Guide"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Serbia. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -375,25 +375,25 @@ faq_section:
       a: |
         Yes, Serbia requires identity verification for eSIM. Serbia requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with MTS's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
-        Does WhatsApp and FaceTime work with eSIM in Serbia?
+        What if my hotel in Serbia has free WiFi — do I still need eSIM data?
       a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. MTS's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
     - q: |
-        Will my Serbia eSIM work as soon as I land, or is there an activation delay?
+        Will my eSIM in Serbia work for video calls and remote work?
       a: |
-        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to MTS. No queues, no paperwork — you're online before you reach baggage claim.
+        Absolutely. MTS networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
     - q: |
-        What do I do if my Serbia eSIM doesn't connect when I arrive?
+        What's included when I buy a Serbia eSIM from Roami?
       a: |
-        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select MTS in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
+        QR code delivery within 5 minutes, access to MTS's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
+    - q: |
+        Can I use my Serbia eSIM for social media and sharing photos with family?
+      a: |
+        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from MTS handle photos in seconds and short videos easily.
     - q: |
         Can I check how much data I've used on my Serbia eSIM?
       a: |
         Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
-    - q: |
-        Can I use my Serbia eSIM right after buying it, or do I need to wait?
-      a: |
-        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Serbia. So you can install weeks before your trip without losing any plan days.
     - q: |
         How many eSIM profiles can I store on my phone for traveling to Serbia?
       a: |

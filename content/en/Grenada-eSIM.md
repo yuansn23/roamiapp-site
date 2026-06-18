@@ -202,8 +202,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Everything You Need to Know About eSIM in Grenada"
-  desc: "Planning Grenada travel? Our eSIM guide covers esim grenada caribbean, plans, and setup tips."
+  title: "eSIM for Travelers in Grenada -- Network Speeds, Coverage and Tips"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Grenada. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -211,37 +211,37 @@ faq_section:
     title: Grenada eSIM FAQs
     questions:
     - q: |
-        How does Roami compare to Holafly for eSIM in Grenada?
+        How does Roami compare to Saily for eSIM in Grenada?
       a: |
-        Roami typically offers better value for Grenada eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Holafly. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Roami typically offers better value for Grenada eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Saily. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
         For a tourist in Grenada, is Flow or Digicel the better choice?
       a: |
         Flow and Digicel cover Grenada's mobile market. Flow serves roughly 60% of mobile users with the fastest urban data speeds. Digicel reaches more remote areas, with about 10% broader geographic coverage. Grenada is primarily 3G/4G. With Roami, you get the best of both — automatic switching.
     - q: |
-        I'm traveling to Grenada for just 2-3 days. What eSIM should I get?
+        Does WhatsApp and FaceTime work with eSIM in Grenada?
       a: |
-        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Flow's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
     - q: |
-        What happens if I use all my data in Grenada before my plan expires?
+        Does the Grenada eSIM work in rural areas and smaller towns?
       a: |
-        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+        Coverage in Grenada reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
     - q: |
         Can I use navigation apps like Google Maps with eSIM in Grenada?
       a: |
         Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Grenada (about 200-500MB per city) before you go as a backup.
     - q: |
-        What's included when I buy a Grenada eSIM from Roami?
-      a: |
-        QR code delivery within 5 minutes, access to Flow's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
-    - q: |
-        Do I need to remove my physical SIM to use eSIM in Grenada?
-      a: |
-        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
-    - q: |
         What if I accidentally delete my Grenada eSIM before my trip?
       a: |
         No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+    - q: |
+        Can I install my Grenada eSIM at the airport, or should I do it before leaving home?
+      a: |
+        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Grenada's airport, enable Data Roaming and you'll be online in under 60 seconds.
+    - q: |
+        What's the most popular eSIM choice for travelers going to Grenada?
+      a: |
+        Most travelers to Grenada choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
 related_products:
   title: Related Grenada eSIM Plans
   items:

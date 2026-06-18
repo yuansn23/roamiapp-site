@@ -219,8 +219,8 @@ activation_steps:
       the initial activation.
     is_list: false
 faq_section:
-  title: "Iraq Travel eSIM — Stay Connected Throughout Your Trip"
-  desc: "Planning Iraq travel? Our eSIM guide covers iraq esim carriers, plans, and setup tips."
+  title: "Will eSIM Work Well in Iraq? A Traveler Guide to Internet Quality"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Iraq. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -228,37 +228,37 @@ faq_section:
     title: Iraq eSIM FAQs
     questions:
     - q: |
-        Which network in Iraq has the best coverage for travelers — Zain, AsiaCell, or Korek?
+        How do Zain, AsiaCell, and Korek compare for a tourist visiting Iraq?
       a: |
-        Iraq has three main carriers: Zain, AsiaCell, and Korek. Zain reaches about 95% of the population with 4G/5G. AsiaCell covers roughly 90% but has stronger rural reach. Korek offers competitive pricing, often 15-20% cheaper than Zain. Iraq is primarily 4G with coverage in major cities. Roami automatically connects you to whichever is strongest at your location.
+        In Iraq, Zain leads with the fastest urban 5G speeds (up to 1 Gbps in tests). AsiaCell covers about 85% of the country including most rural areas. Korek is the budget option, often bundling data at lower per-GB rates. Tourists visiting cities get excellent service from all three. Iraq is primarily 4G with coverage in major cities. Roami picks the best one automatically as you move around.
     - q: |
-        Can I buy a Iraq eSIM at the last minute, right before my flight?
+        Can I use my Iraq eSIM right after buying it, or do I need to wait?
       a: |
-        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Iraq, just enable Data Roaming and you'll be online immediately.
+        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Iraq. So you can install weeks before your trip without losing any plan days.
     - q: |
-        How does eSIM compare to pocket WiFi for Iraq travel?
+        Do I need to remove my physical SIM to use eSIM in Iraq?
       a: |
-        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
+    - q: |
+        What happens if I use all my data in Iraq before my plan expires?
+      a: |
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
     - q: |
         Can I keep my home SIM in my phone while using eSIM in Iraq?
       a: |
         Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
     - q: |
-        How much data does a typical traveler actually use per day in Iraq?
+        I'm arriving in Iraq late at night. Will I be able to get online immediately?
       a: |
-        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Zain automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
     - q: |
-        What do I do if my Iraq eSIM doesn't connect when I arrive?
+        What's included when I buy a Iraq eSIM from Roami?
       a: |
-        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Zain in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
+        QR code delivery within 5 minutes, access to Zain's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
     - q: |
-        What's the easiest way to stay connected in Iraq without dealing with airport SIM kiosks?
+        Will my Iraq eSIM work as soon as I land, or is there an activation delay?
       a: |
-        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Zain for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
-    - q: |
-        When does the validity period of my Iraq eSIM start?
-      a: |
-        The plan validity starts when you connect to a local network in Iraq, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Zain. No queues, no paperwork — you're online before you reach baggage claim.
 related_products:
   title: Related Iraq eSIM Plans
   items:

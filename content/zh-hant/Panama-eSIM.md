@@ -1,6 +1,6 @@
 ---
 title: '巴拿馬 eSIM 2026: 電信商與覆蓋 | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -316,26 +316,26 @@ activation_steps:
 
 
 faq_section:
-  title: 巴拿馬 eSIM 各方案比較｜天數流量價格一次看懂
-  desc: 整理了巴拿馬 eSIM的巴拿馬 Claro +Móvil 比較、巴拿馬 Claro 網路覆蓋、巴拿馬 +Móvil 速度等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂巴拿馬上網。
+  title: 巴拿馬 eSIM 5G網速與電信商比較｜Claro、+Móvil、Tigo覆蓋評測
+  desc: 整理了巴拿馬 eSIM在巴拿馬 Claro +Móvil 比較的網路覆蓋、Claro電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 巴拿馬 eSIM 各方案比較｜天數流量價格一次看懂
+    title: 巴拿馬 eSIM 5G網速與電信商比較｜Claro、+Móvil、Tigo覆蓋評測
     questions:
-    - q: 巴拿馬eSIM的價格從多少到多少？有便宜的短期方案嗎？
+    - q: 去巴拿馬想辦eSIM但又怕買貴，大概多少預算才夠？
       a: Roami 巴拿馬 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Claro在巴拿馬市區5G網速約100-300Mbps，看1080p影片沒問題。去巴拿馬機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到巴拿馬後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
     - q: 去巴拿馬旅遊的話，Claro、+Móvil、Tigo這三家電信分別有什麼優缺點？
       a: 巴拿馬主要有Claro、+Móvil、Tigo。Claro市區下載快、基地台密集。+Móvil郊區覆蓋廣，會去郊區的話選+Móvil路線較有保障。Tigo價格親民，適合預算有限的旅客。巴拿馬4G/5G，巴拿馬城覆蓋良好。不過Roami會自動切換到當前訊號最強的網路。市區用Claro，移動到郊區若Claro訊號變弱就自動跳+Móvil或Tigo，完全不用手動選。
-    - q: 有人說去巴拿馬辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
+    - q: 巴拿馬eSIM買了之後要驗證證件嗎？沒先辦好會不會到了不能用？
       a: 需要的。巴拿馬預付卡需KYC認證，需提供護照。很多人不知道這規定，到了巴拿馬機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。巴拿馬4G/5G，巴拿馬城覆蓋良好。完成後到巴拿馬開數據漫遊就能直接用。不支援eSIM可租WiFi機。
-    - q: 在巴拿馬的郊區或小鎮也能正常使用eSIM嗎？查地圖導航會不會斷？
+    - q: 巴拿馬主要市區和偏遠鄉村的網路覆蓋差距大嗎？
       a: 巴拿馬的Claro等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。巴拿馬4G/5G，巴拿馬城覆蓋良好。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
-    - q: 出國去巴拿馬用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
-      a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到巴拿馬開數據漫遊就用。
     - q: 去巴拿馬旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
       a: Roami 巴拿馬 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
+    - q: 巴拿馬eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
+      a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
 related_products:
   title: 類似 巴拿馬 eSIM 的旅行方案
   items:
@@ -402,7 +402,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 與實體 SIM 卡在 巴拿馬 的優缺點"
+  title: "在Panama用eSIM上網穩不穩？市區郊區分區評測"
   subtitle: "巴拿馬當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (Panama) + 當地電信商官網"
@@ -415,7 +415,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "托庫門國際機場的自助機售賣定價過高的 SIM 卡，市區部分渠道免卡費或僅收 B/. 1，但所有標價未含 7% 銷售稅。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Panama. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開托庫門國際機場定價過高的 SIM 卡自助機，也無需在市區尋找商店支付隱形 7% 稅費。Roami eSIM 抵達巴拿馬後一分鐘內線上啟用，無需排隊或額外費用。"
     - icon: "id-card"

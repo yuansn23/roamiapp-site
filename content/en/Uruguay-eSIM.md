@@ -326,8 +326,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Cost-Effective eSIM for Uruguay — Save on Roaming Fees"
-  desc: "Planning Uruguay travel? Our eSIM guide covers movistar uruguay esim, plans, and setup tips."
+  title: "How Fast is eSIM Internet in Uruguay? Speeds and Coverage for Travelers"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Uruguay. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -343,29 +343,29 @@ faq_section:
       a: |
         Roami typically offers better value for Uruguay eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        Can I get an eSIM for Uruguay without spending too much?
+        How much should I budget for an eSIM when visiting Uruguay?
       a: |
-        Absolutely. Roami's Uruguay eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+        Roami offers Uruguay eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Antel provides reliable speeds across Uruguay. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
     - q: |
-        Do I need a passport or ID to use eSIM in Uruguay? How does the verification work?
+        Is it safe to upload my passport for Uruguay eSIM registration? I'm concerned about privacy.
       a: |
-        Yes, Uruguay requires identity verification for eSIM. Uruguay requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Antel's network than others — check our [eSIM compatibility](/compatibility/) page.
+        Uruguay requires identity verification by law. Uruguay requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Uruguay.
     - q: |
-        Will my eSIM in Uruguay work for video calls and remote work?
+        Can I install my Uruguay eSIM at the airport, or should I do it before leaving home?
       a: |
-        Absolutely. Antel networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
+        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Uruguay's airport, enable Data Roaming and you'll be online in under 60 seconds.
     - q: |
-        Will my Uruguay eSIM work as soon as I land, or is there an activation delay?
+        Do I need to remove my physical SIM to use eSIM in Uruguay?
       a: |
-        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Antel. No queues, no paperwork — you're online before you reach baggage claim.
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
     - q: |
-        Can I use my Uruguay eSIM right after buying it, or do I need to wait?
+        How many eSIM profiles can I store on my phone for traveling to Uruguay?
       a: |
-        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Uruguay. So you can install weeks before your trip without losing any plan days.
+        Most phones store 5-10 eSIM profiles. You can keep your Uruguay eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
     - q: |
-        What's the easiest way to stay connected in Uruguay without dealing with airport SIM kiosks?
+        How much data does a typical traveler actually use per day in Uruguay?
       a: |
-        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Antel for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
+        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
 related_products:
   title: Related Uruguay eSIM Plans
   items:

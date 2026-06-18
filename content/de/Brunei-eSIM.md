@@ -1,6 +1,6 @@
 ---
 title: 'Brunei eSIM 2026: Abdeckung & Geschwindigkeit | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -199,322 +199,46 @@ activation_steps:
     title: 'Schritt 3: In Brunei nutzen'
     desc: Aktivieren Sie nach der Landung in Brunei die eSIM in den Einstellungen. Wir empfehlen WLAN für die erste Aktivierung.
     is_list: false
-faq_section1:
-  title: 'Brunei eSIM Guide 2026: Datentarife & Reisetipps'
-  desc: Von Bandar Seri Begawan bis Kuala Belait, bleiben Sie mit DST, Progresif, UNN verbunden. Unser kompletter Brunei eSIM
-    Guide deckt Netzabdeckung, Tarife, Einrichtung und Reisetipps ab.
+faq_section:
+  title: "eSIM in Brunei -- Ist die Verbindung fuer Touristen schnell genug?"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Brunei. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Allgemein
-    title: 1.  Allgemeine Fragen zu Brunei eSIM
+    title: Brunei eSIM FAQ
     questions:
-    - q: Unterstützt mein Handy die Brunei eSIM? Wie installiere ich sie?
-      a: Die meisten modernen Smartphones ab dem iPhone XS/XR, Samsung Galaxy S20+ und Google Pixel 3+ unterstützen eSIM.
-        Sie können Ihre Brunei eSIM einfach installieren, indem Sie den QR-Code scannen, den wir Ihnen per E-Mail senden,
-        in den Einstellungen für Mobilfunk/Mobile Daten Ihres Handys.
-    - q: Wie kaufe und aktiviere ich die Brunei eSIM? Ist sie sofort aktiv?
-      a: Sie können sie direkt auf unserer Website kaufen. Sie ist nicht sofort nach dem Kauf aktiv; die Gültigkeitsdauer
-        beginnt erst, wenn Sie in Brunei ankommen und sich Ihr Handy mit dem lokalen Netzwerk verbindet.
-    - q: Ist DST oder Progresif besser für Brunei?
-      a: Sowohl DST als auch Progresif bieten eine ausgezeichnete Abdeckung in Brunei. DST hat die bessere Abdeckung in ländlichen
-        Gebieten, während Progresif in Städten wettbewerbsfähige 5G-Geschwindigkeiten bietet. Fuer die meisten Reisenden nach
-        Bandar Seri Begawan, Kuala Belait und Umgebung funktionieren beide Netze gut.
-    - q: Kann ich eine Rückerstattung erhalten, wenn die Brunei eSIM nicht funktioniert oder ein schlechtes Signal hat?
-      a: Ja, wir bieten eine Geld-zurück-Garantie. Wenn Sie anhaltende Netzwerkprobleme in Brunei haben, die unser Support-Team
-        nicht lösen kann, haben Sie Anspruch auf eine Rückerstattung.
-    - q: Bieten Sie 24/7 Kundensupport an? Wie kann ich Sie kontaktieren?
-      a: Ja, unser technisches Support-Team ist rund um die Uhr erreichbar. Sie können uns über das Live-Chat-Widget auf unserer
-        Website oder durch Antworten auf Ihre Bestellbestätigungs-E-Mail erreichen.
-    - q: Gibt es Rabattcodes? Wie verwende ich den Promo-Code 'web20'?
-      a: Ja! Sie können den Promo-Code 'web20' auf der Checkout-Seite eingeben, um sofort 20% Rabatt auf Ihre Brunei eSIM
-        Bestellung zu erhalten.
-    - q: Ist Ihr 'Unlimited Data' Tarif wirklich unbegrenzt? Gibt es eine Fair Usage Policy (FUP)?
-      a: Unsere Unlimited-Tarife bieten kontinuierliche Daten. Wie bei allen globalen Anbietern gilt jedoch eine Fair Usage
-        Policy (FUP), um Netzwerkmissbrauch zu vermeiden. Bei extrem hoher Nutzung kann die Geschwindigkeit vorübergehend
-        reduziert werden, was normales Surfen oder Social Media jedoch nicht beeinträchtigt.
-    - q: Kann ich meine Brunei eSIM-Daten teilen (Hotspot)?
-      a: Absolut. Alle unsere Brunei eSIM-Tarife unterstützen mobilen Hotspot und Tethering, sodass Sie Ihre Daten mit Ihrem
-        Laptop, Tablet oder Mitreisenden teilen können.
-    - q: Was sind die Vorteile Ihrer Brunei eSIM gegenüber lokalen SIM-Karten oder anderen Anbietern?
-      a: Im Gegensatz zu physischen SIM-Karten müssen Sie nicht am Flughafen anstehen oder kleine Plastikkarten wechseln.
-        Wir arbeiten direkt mit Top-Netzen in Brunei wie DST, Progresif, UNN zusammen, um Premium-Geschwindigkeiten zu einem
-        Bruchteil der Roaming-Kosten zu gewährleisten.
-    - q: Wie schneidet Roami im Vergleich zu bekannten eSIM-Anbietern wie Holafly, aloSIM, Yesim, Airalo ab?
-      a: Während großartige Unternehmen wie Holafly, aloSIM, Yesim, Airalo zuverlässige Dienste leisten, konzentrieren wir
-        uns auf die kosteneffizienteste Brunei eSIM mit geringer Latenz und Bestpreisgarantie durch unser automatisches Preisabgleichsystem.
-  - id: faq-airport
-    icon: plane
-    tab_title: Flughafen
-    title: 2.  Brunei eSIM am Flughafen
-    questions:
-    - q: Wie bekomme ich sofort nach dem Aussteigen eine Internetverbindung?
-      a: Installieren Sie die Brunei eSIM vor Ihrem Flug. Sobald Sie an Flughäfen wie Brunei International Airport (BWN),
-        Bandar Seri Begawan, Anduki Airport landen, deaktivieren Sie einfach den Flugmodus und aktivieren Sie Ihre eSIM-Leitung.
-        Sie verbindet sich in Sekunden mit dem lokalen 4G/5G-Netz.
-    - q: Wie kontaktiere ich meinen Abholer oder nutze Uber/Grab?
-      a: Nach der Aktivierung bei der Landung können Sie sofort Apps wie Dart Brunei, BruGo, Grab nutzen, um eine Fahrt zu
-        buchen oder WhatsApp zu verwenden, um Ihren Fahrer zu kontaktieren, ohne auf unsicheres Flughafen-WLAN angewiesen
-        zu sein.
-    - q: Wie nutze ich Google Maps zur Transportsuche am Flughafen?
-      a: Mit Ihren Brunei eSIM-Daten können Sie direkt an der Gepäckausgabe in Brunei International Airport (BWN), Bandar
-        Seri Begawan, Anduki Airport Echtzeit-Fahrpläne für Züge und Busse prüfen oder den Weg zum Taxistand finden.
-    - q: Wie vermeide ich teure SIM-Karten-Touristenfallen am Flughafen?
-      a: Indem Sie unsere Brunei eSIM vorab online kaufen, umgehen Sie die teuren SIM-Kioske in der Ankunftshalle komplett
-        und sparen Zeit und Geld.
-    - q: Wie empfange ich SMS ohne lokale Nummer?
-      a: Unsere Brunei eSIM ist ein reiner Datentarif. Um SMS zu empfangen, lassen Sie Ihre primäre SIM-Karte für Texte aktiv
-        (der Empfang ist im Roaming oft kostenlos) und nutzen Sie die eSIM für den gesamten Datenverkehr.
-    - q: Wie kontaktiere ich meine Familie sofort nach der Landung?
-      a: Sobald Sie landen, können Sie iMessage, WhatsApp oder FaceTime über unsere schnellen Brunei eSIM-Daten nutzen, um
-        Ihren Lieben mitzuteilen, dass Sie sicher angekommen sind.
-  - id: faq-transport
-    icon: car
-    tab_title: Verkehr
-    title: 3.  Brunei eSIM fuer Transport & Reisen
-    questions:
-    - q: Wie nutze ich Google Maps für die Routenplanung?
-      a: Unsere stabile Brunei eSIM-Verbindung stellt sicher, dass Google Maps überall in Brunei Echtzeit-Verkehrsdaten und
-        Fahrpläne laden kann, was die Navigation nahtlos macht.
-    - q: Wie kontaktiere ich Uber/Grab-Fahrer über die App?
-      a: Apps wie Dart Brunei, BruGo, Grab nutzen VoIP. Da Sie aktive Brunei eSIM-Daten haben, können Fahrer Sie direkt über
-        die App anrufen oder benachrichtigen, ohne dass eine lokale Nummer nötig ist.
-    - q: Wie kaufe ich Zug- oder U-Bahn-Tickets online?
-      a: Nutzen Sie Ihre Brunei eSIM-Daten, um in lokalen Apps digitale QR-Code-Tickets zu kaufen und lange Warteschlangen
-        an Automaten zu vermeiden.
-    - q: Wie nutze ich Google Maps für Echtzeit-Navigation im Mietwagen?
-      a: Befestigen Sie Ihr Handy und nutzen Sie Ihre Brunei eSIM. Ein 5GB oder 10GB Tarif reicht völlig für eine umfangreiche
-        GPS-Navigation während eines Roadtrips in Brunei.
-    - q: Wie scanne und entsperre ich E-Scooter?
-      a: Das Entsperren von E-Scootern erfordert eine schnelle Internetverbindung. Unsere Brunei eSIM bietet die dafür nötige
-        zuverlässige Abdeckung.
-    - q: Funktionieren Fahrdienst-Apps länderübergreifend?
-      a: Ja, Ihr Account bleibt gleich. Stellen Sie nur sicher, dass Sie über unsere lokale oder regionale eSIM eine aktive
-        Internetverbindung haben, um Fahrten zu buchen.
-    - q: Wie biete ich einen stabilen Hotspot für meine Familie an?
-      a: Aktivieren Sie einfach den 'Persönlichen Hotspot' in Ihren Einstellungen. Ihre Familie kann sich mit Ihrem Brunei
-        eSIM-Netzwerk im Zug oder Auto verbinden.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4.  Brunei eSIM fuer Hotels
-    questions:
-    - q: Wie mache ich einen Self-Check-in nach einer Online-Buchung?
-      a: Many modern rentals require you to access an online portal or check your email for a smart lock code. Ihre Brunei
-        eSIM stellt sicher, dass Sie diese Details direkt vor der Haustür abrufen können.
-    - q: Wie kontaktiere ich meinen Airbnb-Gastgeber bei der Ankunft?
-      a: Nutzen Sie die Messaging-Funktion der Airbnb-App oder WhatsApp, um Ihre Ankunftszeit mit Ihrem Gastgeber über mobile
-        Brunei eSIM-Daten abzustimmen.
-    - q: Wie nutze ich Google Maps, um zum Hotel zu navigieren?
-      a: Egal ob Sie im The Empire Brunei, Radisson Hotel Brunei Darussalam, Rizqun International Hotel oder einer Pension
-        übernachten, geben Sie die Adresse in Google Maps ein und nutzen Sie die Navigation Ihrer Brunei eSIM.
-    - q: Wie empfange ich Verifizierungscodes (SMS) im Hotel?
-      a: Keep your home SIM active for receiving SMS, and use the hotel Wi-Fi or your Brunei eSIM data to trigger the verification
-        code from your bank or app.
-    - q: Wie kontaktiere ich den Kundenservice schnell?
-      a: Nutzen Sie VoIP-Apps wie Skype oder die Chat-Funktion der Buchungs-App über Ihre Hochgeschwindigkeits-Brunei eSIM-Daten.
-    - q: Wie bestelle ich Essen ins Hotel mit lokalen Apps?
-      a: Laden Sie BruDelivery, GoMamam, Foodpanda herunter und nutzen Sie Ihre Brunei eSIM-Daten, um eine warme Mahlzeit
-        direkt in die Hotellobby zu bestellen.
-    - q: Wie bleibe ich nach dem Checkout mit dem Hotel in Kontakt?
-      a: Sobald Sie das Hotel-WLAN verlassen, übernimmt Ihre Brunei eSIM, sodass Sie dem Hotel schreiben können, falls Sie
-        etwas vergessen haben.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attraktionen
-    title: 5.  Brunei eSIM fuer Sehenswuerdigkeiten
-    questions:
-    - q: Wie kaufe ich E-Tickets über GetYourGuide/Viator?
-      a: Wenn Sie Sultan Omar Ali Saifuddien Moschee, Kampong Ayer Wasserstadt, Ulu Temburong Nationalpark spontan besuchen
-        möchten, können Sie Ihre Brunei eSIM-Daten nutzen, um Online-Tickets zu kaufen und den Barcode direkt vorzuzeigen.
-    - q: Wie buche ich Erlebnisse auf Tripadvisor sofort?
-      a: Mit dem zuverlässigen 4G/5G Ihrer Brunei eSIM können Sie Bewertungen lesen und lokale Touren buchen, während Sie
-        in einem Café sitzen.
-    - q: Wie nutze ich Wikipedia/Google für Informationen während der Besichtigung?
-      a: Erweitern Sie Ihr kulturelles Erlebnis, indem Sie historische Fakten googeln oder Museumstafeln übersetzen, während
-        Sie Brunei erkunden.
-    - q: Wie finde ich den Weg zur nächsten Sehenswürdigkeit?
-      a: Geben Sie Ihr nächstes Ziel in Google Maps ein; die starke Abdeckung Ihrer Brunei eSIM führt Sie über die schnellste
-        Route.
-    - q: Wie prüfe ich Wartezeiten in Freizeitparks?
-      a: Freizeitpark-Apps benötigen Internet für Live-Wartezeiten. Ihre Brunei eSIM hält Sie im gesamten Park online.
-    - q: Wie greife ich auf Ticketmaster für Show-Tickets zu?
-      a: Sie können sicher Last-Minute-Theaterkarten über Ticketing-Apps mit Ihren Brunei eSIM-Daten kaufen.
-    - q: Wie teile ich Fotos/Videos sofort auf Instagram/TikTok?
-      a: Unsere schnellen Brunei eSIM Upload-Geschwindigkeiten ermöglichen es Ihnen, Reels und Fotos in Echtzeit zu posten,
-        ohne auf das Hotel-WLAN zu warten.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Gastronomie
-    title: 6. Essen & Restaurants
-    questions:
-    - q: Wie finde ich Restaurants mit Google Maps/Tripadvisor?
-      a: Suchen Sie mit Ihrer Brunei eSIM nach 'Restaurants in der Nähe', um Bewertungen, Öffnungszeiten und Menüfotos zu
-        prüfen.
-    - q: Wie reserviere ich Tische online?
-      a: Sichern Sie sich eine Reservierung über Online-Plattformen mit Ihrer Brunei eSIM, während Sie unterwegs sind.
-    - q: Wie scanne ich QR-Codes für digitale Menüs?
-      a: Viele Restaurants nutzen digitale Karten. Ihre Brunei eSIM stellt sicher, dass der Code auf dem Tisch sofort geladen
-        wird.
-    - q: Wie nutze ich die Google Translate Kamera für Speisekarten?
-      a: Öffnen Sie die App und richten Sie die Kamera auf das Menü. Die Live-Übersetzung erfordert eine Internetverbindung
-        über Ihre Brunei eSIM.
-    - q: Wie nutze ich lokale Lieferdienste?
-      a: Laden Sie lokale Apps wie BruDelivery, GoMamam, Foodpanda herunter und bestellen Sie bequem über Ihre Brunei eSIM
-        mobile Daten.
-    - q: Wie bezahle ich mit Apple Pay/Google Pay?
-      a: Kontaktlose Zahlungen oder lokale Methoden wie Kreditkarte (Visa/Mastercard), PayPal, lokale Banküberweisung erfordern
-        einen kurzen Internet-Handshake, den Ihre Brunei eSIM perfekt bewältigt.
-    - q: Wie finde ich Geheimtipps von Food-Bloggern?
-      a: Streamen Sie YouTube-Vlogs oder stöbern Sie in Yelp-Bewertungen mit Ihrer Brunei eSIM, um kulinarische Highlights
-        der Stadt zu finden.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social
-    title: 7.  Brunei eSIM fuer Soziale Medien
-    questions:
-    - q: Wie viel Datenvolumen brauche ich fuer Brunei?
-      a: Leichte Nutzer (Karten + Messaging) ~300MB/Tag, moderate Nutzer (soziale Medien + Fotos) ~700MB/Tag, Vielnutzer (Streaming
-        + Videoanrufe) waehlen Unlimited. Die meisten Reisenden finden 5GB/15 Tage fuer eine Standardreise nach Brunei ausreichend.
-    - q: Wie lade ich Inhalte auf TikTok hoch ohne öffentliches WLAN?
-      a: Öffentliches WLAN ist oft langsam und unsicher. Unsere 4G/5G Brunei eSIM bietet die Bandbreite für schnelle Uploads.
-    - q: Wie mache ich Videoanrufe mit meiner Familie?
-      a: Unsere Netzpartnerschaften garantieren, dass Videoanrufe über die Brunei eSIM klar und verzögerungsfrei sind, egal
-        wo Sie sich im Land befinden.
-    - q: Ist es sicher, soziale Accounts in öffentlichem WLAN zu nutzen?
-      a: Öffentliches WLAN ist anfällig für Hacker. Die Nutzung Ihrer persönlichen Brunei eSIM-Daten ist verschlüsselt und
-        wesentlich sicherer.
-    - q: Wie teile ich das Netzwerk als Hotspot mit Mitreisenden?
-      a: Aktivieren Sie die Hotspot-Funktion. Ihre Freunde können sich verbinden und Ihr Brunei eSIM-Datenvolumen für ihre
-        sozialen Medien nutzen.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Grenzen
-    title: 8.  Brunei eSIM fuer Transport & Reisen
-    questions:
-    - q: Brauche ich für jedes Land eine neue SIM-Karte?
-      a: Die Einzelland-Brunei eSIM funktioniert nur dort. Für Reisen durch mehrere Länder empfehlen wir unsere Regionale
-        eSIM (z. B. Europa eSIM).
-    - q: Wie vermeide ich Roaming-Gebühren bei Bahnfahrten über Grenzen?
-      a: Deaktivieren Sie 'Daten-Roaming' auf Ihrer Heim-SIM. Stellen Sie sicher, dass die Brunei eSIM als primäre Datenleitung
-        festgelegt ist.
-    - q: Wie bekomme ich Internet bei Transits in Singapur/Dubai?
-      a: Sie können eine günstige 1GB eSIM für das Transitland kaufen, um während des Zwischenstopps online zu bleiben.
-    - q: Wie bekomme ich Internet bei Kreuzfahrten?
-      a: Anstatt teures Schiffs-WLAN zu zahlen, aktivieren Sie eine lokale eSIM für die Länder, in denen Sie anlegen. Sie
-        verbindet sich, sobald Sie Landnähe haben.
-    - q: Wie bleibt Google Maps bei Roadtrips online?
-      a: Mit einer Regional-eSIM wechselt Ihr Handy automatisch zum Netz des neuen Landes, wenn Sie die Grenze überqueren,
-        und hält Ihr GPS aktiv.
-    - q: Wie verwalte ich Daten für mehrere Länder in einer App?
-      a: Sie können Ihren Datenverbrauch für alle aktiven eSIMs direkt über unser Benutzer-Dashboard auf der Website verfolgen.
-    - q: Wie bleibe ich bei Reisen durch mehrere Länder erreichbar?
-      a: Da WhatsApp/iMessage über Daten laufen, stellt eine Regional-eSIM sicher, dass Sie immer unter derselben Nummer erreichbar
-        bleiben.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Notfälle
-    title: 9. Notfälle
-    questions:
-    - q: Wie wähle ich lokale Notrufnummern?
-      a: 'In Brunei können Sie Notrufnummern wie Polizei: 993, Feuerwehr: 995, Rettungsdienst: 991 direkt wählen, solange
-        Ihr Handy irgendein Mobilfunksignal empfängt, unabhängig von der SIM.'
-    - q: Wie finde ich das nächste Krankenhaus bei plötzlicher Krankheit?
-      a: Ihre Brunei eSIM-Daten erlauben eine sofortige Suche auf Google Maps nach 'Apotheke' oder 'Krankenhaus' mit der schnellsten
-        Route.
-    - q: Wie finde ich Botschaftsinformationen bei Passverlust?
-      a: Nutzen Sie Ihre Brunei eSIM, um schnell Adresse, Notfallkontakt und Öffnungszeiten Ihrer Botschaft im Internet zu
-        finden.
-    - q: Wie kontaktiere ich die Reiseversicherung bei einem Unfall?
-      a: Nutzen Sie VoIP-Apps wie Skype oder Viber über Ihre Brunei eSIM-Daten, um die Hotlines Ihrer Versicherung anzurufen.
-    - q: Wie teile ich meinen Standort in Echtzeit in unsicheren Gebieten?
-      a: Nutzen Sie 'Live-Standort teilen' in WhatsApp oder 'Wo ist?' von Apple, um Ihre Koordinaten über Brunei eSIM-Daten
-        zu senden.
-    - q: Wie lade ich Offline-Karten für abgelegene Gebiete?
-      a: Nutzen Sie Ihre Stadt-Abdeckung der Brunei eSIM, um Offline-Karten in Google Maps zu laden, bevor Sie in Gebiete
-        ohne Signal reisen.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10.  Brunei eSIM fuer Geschaeftsreisende
-    questions:
-    - q: Wie garantiere ich stabile Zoom/Teams-Meetings?
-      a: Unsere Brunei eSIM verbindet sich mit Premium-Netzen und bietet die Bandbreite und geringe Latenz für professionelle
-        Videokonferenzen.
-    - q: Wie verbinde ich mich sicher mit dem Firmen-VPN?
-      a: Unsere Daten beschränken keine VPN-Protokolle. Sie können Ihr Firmen-VPN sicher über das Brunei eSIM-Netzwerk starten.
-    - q: Wie nutze ich den Hotspot für Laptops in Cafés?
-      a: Aktivieren Sie den Hotspot. Die Nutzung Ihrer Brunei eSIM ist deutlich schneller und sicherer vor Cyber-Bedrohungen
-        als offene WLAN-Netze.
-    - q: Wie empfange ich 2FA-Codes für Firmen-E-Mails?
-      a: Lassen Sie Ihre Heim-SIM für SMS aktiv und nutzen Sie die Brunei eSIM-Daten für den Empfang von E-Mail-Codes.
-    - q: Wie lade ich große Dateien bei Kundenbesuchen hoch?
-      a: Mit 5G/4G-LTE-Geschwindigkeiten Ihrer Brunei eSIM können Sie Präsentationen schnell in Cloud-Dienste hochladen.
-    - q: Wie nutze ich Slack/Gmail nahtlos für die Zusammenarbeit?
-      a: Ihre Brunei eSIM bietet konstante Verbindung, sodass Sie Slack-Nachrichten und E-Mails sofort erhalten.
-    - q: Wie aktualisiere ich Reisepläne für die Firma online?
-      a: Greifen Sie über Ihre Brunei eSIM von unterwegs auf Firmenportale zu, um HR über Flugverspätungen zu informieren.
+    - q: |
+        Welcher eSIM Tarif ist für Reisende nach Brunei am beliebtesten?
+      a: |
+        Die meisten Reisenden nach Brunei wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+    - q: |
+        Wann beginnt die Gültigkeitsdauer meiner Brunei eSIM?
+      a: |
+        Die Gültigkeit beginnt, wenn Sie sich in Brunei mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
+    - q: |
+        Was tun, wenn meine Brunei eSIM bei der Ankunft nicht funktioniert?
+      a: |
+        Drei schnelle Checks (je ca. 30 Sekunden): 1) Ist Daten-Roaming aktiviert? 2) Können Sie DST manuell auswählen? 3) Haben Sie das Telefon neu gestartet? Etwa 90% der Verbindungsprobleme lassen sich mit einem dieser Schritte lösen. Falls nicht: Roami 24/7 Support hilft innerhalb weniger Minuten weiter.
+    - q: |
+        Kann ich meine Brunei eSIM noch in letzter Minute vor dem Flug kaufen?
+      a: |
+        Ja — der QR-Code kommt innerhalb von 5 Minuten per Email. Kaufen Sie am Gate, installieren Sie im Flugzeug über WLAN. Nach der Landung in Brunei Daten-Roaming aktivieren und in 1-2 Minuten online sein. Totalzeit von Kauf bis Online: unter 10 Minuten.
+    - q: |
+        Soll ich meine Brunei eSIM vor der Abreise oder erst am Flughafen installieren?
+      a: |
+        Vor der Abreise — die Installation benötigt Internet und dauert etwa 2 Minuten. Der QR-Code kommt innerhalb von 5 Minuten per Email. In Brunei einfach Daten-Roaming aktivieren, und Sie sind in unter 60 Sekunden online. Ohne vorherige Installation müssten Sie am Flughafen auf WiFi angewiesen sein, das oft eine SMS-Verifizierung verlangt — ein klassisches Henne-Ei-Problem.
+    - q: |
+        Was ist der Unterschied zwischen einem 5GB und einem unbegrenzten Tarif für Brunei?
+      a: |
+        Ein 5GB Tarif ($9.99) gibt Ihnen ein festes Datenvolumen — genug für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Der unbegrenzte Tarif ($59.99) wird nach 30GB pro Tag auf 512 kbps gedrosselt. Die meisten Reisenden verbrauchen 300-500MB pro Tag — ein 5GB Tarif reicht für eine Woche. Bei Unsicherheit können Sie jederzeit im App nachbuchen.
+    - q: |
+        Wie viele eSIM-Profile kann ich auf meinem Handy für Brunei speichern?
+      a: |
+        Die meisten Handys speichern 5-10 eSIM-Profile. Sie können Ihre Brunei eSIM neben Ihrer heimischen SIM und bis zu 8 anderen Ländernprofilen speichern. Das Umschalten dauert etwa 10 Sekunden in den Telefoneinstellungen. iPhone ab XS (2018+) und Samsung ab S20 (2020+) unterstützen mehrere Profile gleichzeitig.
+    - q: |
+        Kann ich WhatsApp und FaceTime mit eSIM in Brunei nutzen?
+      a: |
+        Ja — alle datenbasierten Apps funktionieren ohne Einschränkungen. Ein 5GB Tarif reicht für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Ein 30-minütiges Zoom-Meeting verbraucht etwa 150-300MB. DSTs Netz in Brunei liefert stabile Verbindungen für Videoanrufe.
 related_products:
-  title: Ähnliche eSIM-Tarife
-  items:
-  - name: USA eSIM
-    flag: img/flags/us.svg
-    price: Ab $1.99
-    is_highlight: false
-    slug: united-states-esim
-  - name: UK eSIM
-    flag: img/flags/gb.svg
-    price: Ab $1.99
-    is_highlight: false
-    slug: united-kingdom-esim
-  - name: Europa eSIM
-    flag: img/flags/eu.svg
-    price: Ab $1.99
-    is_highlight: true
-    slug: europe-esim
-  - name: Kanada eSIM
-    flag: img/flags/ca.svg
-    price: Ab $1.99
-    is_highlight: false
-    slug: canada-esim
-  - name: Türkei eSIM
-    flag: img/flags/tr.svg
-    price: Ab $1.99
-    is_highlight: false
-    slug: turkey-esim
-  - name: China eSIM
-    flag: img/flags/cn.svg
-    price: Ab $1.99
-    is_highlight: false
-    slug: china-esim
-  - name: Japan eSIM
-    flag: img/flags/jp.svg
-    price: Ab $1.99
-    is_highlight: false
-    slug: japan-esim
-  - name: Hong Kong eSIM
-    flag: img/flags/hk.svg
-    price: Ab $1.99
-    is_highlight: false
-    slug: hong-kong-esim
-  - name: Frankreich eSIM
-    flag: img/flags/fr.svg
-    price: Ab $1.99
-    is_highlight: false
-    slug: france-esim
-  - name: Spanien eSIM
-    flag: img/flags/es.svg
-    price: Ab $1.99
-    is_highlight: false
-    slug: spain-esim
-  - name: Deutschland eSIM
-    flag: img/flags/de.svg
-    price: Ab $1.99
-    is_highlight: false
-    slug: germany-esim
-  - name: Australien eSIM
-    flag: img/flags/au.svg
-    price: Ab $1.99
-    is_highlight: false
-    slug: australia-esim
 ---

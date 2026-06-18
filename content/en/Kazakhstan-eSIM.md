@@ -351,8 +351,8 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Affordable eSIM Options for Kazakhstan — Compare Plans & Prices"
-  desc: "Planning Kazakhstan travel? Our eSIM guide covers kazakhstan esim beeline, plans, and setup tips."
+  title: "Does eSIM Work Everywhere in Kazakhstan? City and Rural Coverage Guide"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Kazakhstan. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -368,29 +368,29 @@ faq_section:
       a: |
         Roami offers Kazakhstan eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Kcell provides reliable speeds across Kazakhstan. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
     - q: |
-        Which network in Kazakhstan has the best coverage for travelers — Kcell, Beeline, or Tele2?
+        How do Kcell, Beeline, and Tele2 compare for a tourist visiting Kazakhstan?
       a: |
-        Kazakhstan has three main carriers: Kcell, Beeline, and Tele2. Kcell reaches about 95% of the population with 4G/5G. Beeline covers roughly 90% but has stronger rural reach. Tele2 offers competitive pricing, often 15-20% cheaper than Kcell. Kazakhstan is primarily 4G. Roami automatically connects you to whichever is strongest at your location.
+        In Kazakhstan, Kcell leads with the fastest urban 5G speeds (up to 1 Gbps in tests). Beeline covers about 85% of the country including most rural areas. Tele2 is the budget option, often bundling data at lower per-GB rates. Tourists visiting cities get excellent service from all three. Kazakhstan is primarily 4G. Roami picks the best one automatically as you move around.
     - q: |
-        Can I use navigation apps like Google Maps with eSIM in Kazakhstan?
+        Can I use my Kazakhstan eSIM for social media and sharing photos with family?
       a: |
-        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Kazakhstan (about 200-500MB per city) before you go as a backup.
+        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Kcell handle photos in seconds and short videos easily.
     - q: |
-        What do I do if my Kazakhstan eSIM doesn't connect when I arrive?
+        I need internet access for just a couple of days in Kazakhstan. What's the minimum I can buy?
       a: |
-        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Kcell in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
+        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
     - q: |
         Does the Kazakhstan eSIM work in rural areas and smaller towns?
       a: |
         Coverage in Kazakhstan reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
     - q: |
-        When does the validity period of my Kazakhstan eSIM start?
+        What documents do I need to buy a Kazakhstan eSIM from Roami?
       a: |
-        The plan validity starts when you connect to a local network in Kazakhstan, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
     - q: |
-        What happens if I use all my data in Kazakhstan before my plan expires?
+        Can I use navigation apps like Google Maps with eSIM in Kazakhstan?
       a: |
-        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Kazakhstan (about 200-500MB per city) before you go as a backup.
 related_products:
   title: Related Kazakhstan eSIM Plans
   items:

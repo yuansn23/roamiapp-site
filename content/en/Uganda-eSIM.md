@@ -327,8 +327,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Best Unlimited eSIM Options for Your Uganda Trip"
-  desc: "Planning Uganda travel? Our eSIM guide covers airtel uganda esim activation, plans, and setup tips."
+  title: "Does eSIM Work Everywhere in Uganda? City and Rural Coverage Guide"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Uganda. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -348,25 +348,25 @@ faq_section:
       a: |
         There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
     - q: |
-        Can I buy a Uganda eSIM at the last minute, right before my flight?
+        I need internet access for just a couple of days in Uganda. What's the minimum I can buy?
       a: |
-        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Uganda, just enable Data Roaming and you'll be online immediately.
+        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
     - q: |
-        I'm arriving in Uganda late at night. Will I be able to get online immediately?
+        Do I need to remove my physical SIM to use eSIM in Uganda?
       a: |
-        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up MTN automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
-    - q: |
-        Does WhatsApp and FaceTime work with eSIM in Uganda?
-      a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. MTN's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
     - q: |
         What happens if my Uganda eSIM stops working mid-trip?
       a: |
         First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
     - q: |
-        Do I need to remove my physical SIM to use eSIM in Uganda?
+        Does the Uganda eSIM work in rural areas and smaller towns?
       a: |
-        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
+        Coverage in Uganda reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
+    - q: |
+        What happens if I use all my data in Uganda before my plan expires?
+      a: |
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
 related_products:
   title: Related eSIM Plans
   items:

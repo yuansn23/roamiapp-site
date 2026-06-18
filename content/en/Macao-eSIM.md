@@ -358,8 +358,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Best eSIM for Tourists Visiting Macao — Plans and Tips"
-  desc: "Planning Macao travel? Our eSIM guide covers holafly esim macao, plans, and setup tips."
+  title: "What Internet Speed Can You Expect with eSIM in Macao?"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Macao. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -367,37 +367,37 @@ faq_section:
     title: Macao eSIM FAQs
     questions:
     - q: |
-        How does Roami compare to Airalo for eSIM in Macao?
+        How does Roami compare to Holafly for eSIM in Macao?
       a: |
-        Roami typically offers better value for Macao eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Roami typically offers better value for Macao eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Holafly. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        What do I do if my Macao eSIM doesn't connect when I arrive?
+        What happens if I use all my data in Macao before my plan expires?
       a: |
-        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select CTM in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
-    - q: |
-        When does the validity period of my Macao eSIM start?
-      a: |
-        The plan validity starts when you connect to a local network in Macao, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
-    - q: |
-        How does eSIM compare to pocket WiFi for Macao travel?
-      a: |
-        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
-    - q: |
-        Can I use my Macao eSIM for social media and sharing photos with family?
-      a: |
-        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from CTM handle photos in seconds and short videos easily.
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
     - q: |
         Does WhatsApp and FaceTime work with eSIM in Macao?
       a: |
         Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. CTM's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
     - q: |
-        What if I accidentally delete my Macao eSIM before my trip?
+        I'm arriving in Macao late at night. Will I be able to get online immediately?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up CTM automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
     - q: |
-        What's the most popular eSIM choice for travelers going to Macao?
+        Will my eSIM in Macao work for video calls and remote work?
       a: |
-        Most travelers to Macao choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
+        Absolutely. CTM networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
+    - q: |
+        How much data does a typical traveler actually use per day in Macao?
+      a: |
+        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+    - q: |
+        Can I check how much data I've used on my Macao eSIM?
+      a: |
+        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
+    - q: |
+        Can I use my Macao eSIM for social media and sharing photos with family?
+      a: |
+        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from CTM handle photos in seconds and short videos easily.
 related_products:
   title: Related eSIM Plans
   items:

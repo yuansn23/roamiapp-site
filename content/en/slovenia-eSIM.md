@@ -353,8 +353,8 @@ activation_steps:
       using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Setting Up eSIM for Slovenia — What Documents You Need to Prepare"
-  desc: "Planning Slovenia travel? Our eSIM guide covers slovenia esim internet, plans, and setup tips."
+  title: "eSIM for Travelers in Slovenia -- Network Speeds, Coverage and Tips"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Slovenia. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -362,37 +362,37 @@ faq_section:
     title: Slovenia eSIM FAQs
     questions:
     - q: |
-        Do I need a passport or ID to use eSIM in Slovenia? How does the verification work?
+        Is it safe to upload my passport for Slovenia eSIM registration? I'm concerned about privacy.
       a: |
-        Yes, Slovenia requires identity verification for eSIM. Slovenia requires KYC verification. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Telekom Slovenije's network than others — check our [eSIM compatibility](/compatibility/) page.
+        Slovenia requires identity verification by law. Slovenia requires KYC verification. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Slovenia.
     - q: |
-        Can I use navigation apps like Google Maps with eSIM in Slovenia?
+        What's the difference between a 5GB plan and an unlimited plan for Slovenia?
       a: |
-        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Slovenia (about 200-500MB per city) before you go as a backup.
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
     - q: |
-        How far in advance should I buy my Slovenia eSIM?
+        Does WhatsApp and FaceTime work with eSIM in Slovenia?
       a: |
-        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Slovenia, so buying early doesn't waste your plan days.
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Telekom Slovenije's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
     - q: |
-        Will my eSIM in Slovenia work for video calls and remote work?
+        Can I install my Slovenia eSIM at the airport, or should I do it before leaving home?
       a: |
-        Absolutely. Telekom Slovenije networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
+        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Slovenia's airport, enable Data Roaming and you'll be online in under 60 seconds.
     - q: |
         Is eSIM cheaper than international roaming for Slovenia?
       a: |
         Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Slovenia costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
     - q: |
-        How do I know if my Slovenia eSIM plan is active and ready to use?
+        How far in advance should I buy my Slovenia eSIM?
       a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Slovenia — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Slovenia, so buying early doesn't waste your plan days.
     - q: |
-        What happens if I use all my data in Slovenia before my plan expires?
+        What documents do I need to buy a Slovenia eSIM from Roami?
       a: |
-        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
     - q: |
-        Can I buy a Slovenia eSIM at the last minute, right before my flight?
+        I'm traveling to Slovenia for just 2-3 days. What eSIM should I get?
       a: |
-        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Slovenia, just enable Data Roaming and you'll be online immediately.
+        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
 related_products:
   title: Related eSIM Plans
   items:

@@ -1,6 +1,6 @@
 ---
 title: '瑞士 eSIM 2026: 覆蓋範圍與速度 | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -376,26 +376,26 @@ activation_steps:
       eSIM 瑞士。幾秒鐘內，您的設備將自動連接到 Swisscom / Sunrise 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 瑞士 eSIM 方案推薦價格總整理｜流量怎麼選最划算
-  desc: 整理了瑞士 eSIM的瑞士 Swisscom Sunrise 比較、瑞士 Swisscom 網路覆蓋、瑞士 義大 利 esim 推薦等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂瑞士上網。
+  title: 瑞士 eSIM Swisscom等網路速度實測｜最適合旅行上網的選擇
+  desc: 整理了瑞士 eSIM在瑞士 Swisscom Sunrise 比較的網路覆蓋、Swisscom電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 瑞士 eSIM 方案推薦價格總整理｜流量怎麼選最划算
+    title: 瑞士 eSIM Swisscom等網路速度實測｜最適合旅行上網的選擇
     questions:
-    - q: 準備去瑞士long stay，eSIM方案買哪種比較划算？
+    - q: 去瑞士自由行的話，辦eSIM上網大概要花多少錢？
       a: Roami 瑞士 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。瑞士以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去瑞士機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到瑞士後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
-    - q: 去瑞士旅遊的話，Swisscom、Sunrise、Salt這三家電信分別有什麼優缺點？
+    - q: 看到有人說瑞士的Swisscom在市區很快、Sunrise在郊區很廣，真的是這樣嗎？
       a: 瑞士主要有Swisscom、Sunrise、Salt。Swisscom市區下載快、基地台密集。Sunrise郊區覆蓋廣，會去郊區的話選Sunrise路線較有保障。Salt價格親民，適合預算有限的旅客。瑞士5G使用n78頻段，阿爾卑斯山區覆蓋有限。不過Roami會自動切換到當前訊號最強的網路。市區用Swisscom，移動到郊區若Swisscom訊號變弱就自動跳Sunrise或Salt，完全不用手動選。
-    - q: 瑞士eSIM吃到飽方案如果被降速了，512kbps的速度還能做什麼？
+    - q: 瑞士eSIM的吃到飽和定量方案哪個比較適合短期旅遊的人？
       a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。瑞士5G使用n78頻段，阿爾卑斯山區覆蓋有限。Roami在瑞士連上Swisscom的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 去瑞士辦eSIM的認證流程大概要多久？買完馬上就能用嗎？
       a: 需要的。瑞士預付卡需KYC認證，需提供護照。很多人不知道這規定，到了瑞士機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。瑞士5G使用n78頻段，阿爾卑斯山區覆蓋有限。另外Swisscom的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到瑞士開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 去瑞士滑雪或上山的話，eSIM在山上收得到訊號嗎？導航還能用嗎？
       a: 瑞士的Swisscom等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。瑞士5G使用n78頻段，阿爾卑斯山區覆蓋有限。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
-    - q: 出國去瑞士用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
-      a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到瑞士開數據漫遊就用。
+    - q: 去瑞士旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
+      a: Roami 瑞士 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
 related_products:
   title: 類似 瑞士 eSIM 的旅行方案
   items:
@@ -462,7 +462,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 或遊客 SIM 卡在 瑞士 該選哪個？"
+  title: "在Switzerland用eSIM上網穩不穩？市區郊區分區評測"
   subtitle: "瑞士當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (Switzerland) + 當地電信商官網"
@@ -475,7 +475,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "Swisscom 的 Starter Pack 售價 19.90 CHF（約 160 元），含 20 CHF 餘額，激活可能需要數小時；Aldi Suisse Mobile 和 Lidl Connect 開卡激活可能長達 72 小時。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Switzerland. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開 Swisscom 門市排隊與數小時激活等待，抵達瑞士後一分鐘內線上啟用 eSIM，無需購買 19.90 CHF 的實體卡。"
     - icon: "id-card"

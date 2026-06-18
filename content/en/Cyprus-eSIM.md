@@ -375,8 +375,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Affordable eSIM Options for Cyprus — Compare Plans & Prices"
-  desc: "Planning Cyprus travel? Our eSIM guide covers northern cyprus esim, plans, and setup tips."
+  title: "eSIM for Travelers in Cyprus -- Network Speeds, Coverage and Tips"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Cyprus. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -396,25 +396,25 @@ faq_section:
       a: |
         Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
     - q: |
-        I need internet access for just a couple of days in Cyprus. What's the minimum I can buy?
+        What do I do if my Cyprus eSIM doesn't connect when I arrive?
       a: |
-        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
+        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Cyta in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
+    - q: |
+        What's the most popular eSIM choice for travelers going to Cyprus?
+      a: |
+        Most travelers to Cyprus choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
     - q: |
         What if I accidentally delete my Cyprus eSIM before my trip?
       a: |
         No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
     - q: |
-        Does WhatsApp and FaceTime work with eSIM in Cyprus?
+        Does the Cyprus eSIM work in rural areas and smaller towns?
       a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Cyta's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+        Coverage in Cyprus reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
     - q: |
-        Will my Cyprus eSIM work as soon as I land, or is there an activation delay?
+        What happens if my Cyprus eSIM stops working mid-trip?
       a: |
-        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Cyta. No queues, no paperwork — you're online before you reach baggage claim.
-    - q: |
-        When does the validity period of my Cyprus eSIM start?
-      a: |
-        The plan validity starts when you connect to a local network in Cyprus, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
 related_products:
   title: Related Cyprus eSIM Plans
   items:

@@ -1,6 +1,6 @@
 ---
 title: '巴哈馬 eSIM 2026: 覆蓋範圍與速度 | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -205,26 +205,26 @@ activation_steps:
       Roami eSIM 巴哈馬。幾秒鐘內，您的設備將自動連接到 BTC / Aliv 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 巴哈馬 eSIM 上網方案推薦｜旅客真實使用心得
-  desc: 整理了巴哈馬 eSIM的巴哈馬 BTC Aliv 比較、巴哈馬 eSIM 護照認證、巴哈馬 eSIM 價格比較等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂巴哈馬上網。
+  title: 巴哈馬 eSIM BTC網路品質與速度指南｜4G/5G覆蓋範圍
+  desc: 整理了巴哈馬 eSIM在巴哈馬 BTC Aliv 比較的網路覆蓋、BTC電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 巴哈馬 eSIM 上網方案推薦｜旅客真實使用心得
+    title: 巴哈馬 eSIM BTC網路品質與速度指南｜4G/5G覆蓋範圍
     questions:
-    - q: 去巴哈馬自由行的話，辦eSIM上網大概要花多少錢？
+    - q: 第一次去巴哈馬想用eSIM，方案好多不知道怎麼挑選比較好？
       a: Roami 巴哈馬 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。巴哈馬以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去巴哈馬機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到巴哈馬後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
-    - q: 去巴哈馬旅遊的話，BTC和Aliv這兩家哪個網路比較好？
+    - q: 到巴哈馬用eSIM，Roami會自動幫我選BTC或Aliv訊號比較強的那一家嗎？
       a: 巴哈馬主要有BTC、Aliv。BTC市區下載快、基地台密集。Aliv郊區覆蓋廣，會去郊區的話選Aliv路線較有保障。巴哈馬4G為主，主要島嶼覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用BTC，移動到郊區若BTC訊號變弱就自動跳Aliv，完全不用手動選。
-    - q: 去巴哈馬辦eSIM的認證流程大概要多久？買完馬上就能用嗎？
+    - q: 如果出發前忘記先辦好巴哈馬eSIM的認證，到當地才弄來得及嗎？
       a: 需要的。巴哈馬預付卡需KYC認證，需提供護照。很多人不知道這規定，到了巴哈馬機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。巴哈馬4G為主，主要島嶼覆蓋。完成後到巴哈馬開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 巴哈馬的外島或離島地區，eSIM的收訊狀況怎麼樣？
       a: 巴哈馬的BTC等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。巴哈馬4G為主，主要島嶼覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
     - q: 出國去巴哈馬用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
       a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到巴哈馬開數據漫遊就用。
-    - q: 巴哈馬eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
-      a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 跟旅伴一起去巴哈馬，買一張eSIM開熱點分享夠兩個人用嗎？
+      a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
 related_products:
   title: 類似 巴哈馬 eSIM 的旅行方案
   items:
@@ -291,7 +291,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 與實體 SIM 卡在 巴哈馬 的比較：哪種最適合旅行？"
+  title: "Bahamas eSIM 網路品質好不好？城市與鄉村覆蓋完整分析"
   subtitle: "巴哈馬當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (Bahamas) + 當地電信商官網"
@@ -304,7 +304,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "必須前往 BTC 或 aliv 的門店，支付 SIM 卡工本費 $15，並出示護照進行實名制登記，整個過程耗時 15-30 分鐘以上。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Bahamas. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開 BTC 或 aliv 門市排隊，抵達巴哈馬後一分鐘內線上啟用，無需支付 $15 SIM 卡工本費。"
     - icon: "id-card"

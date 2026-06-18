@@ -374,8 +374,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Cost-Effective eSIM for Nigeria — Save on Roaming Fees"
-  desc: "Planning Nigeria travel? Our eSIM guide covers nigeria esim providers, plans, and setup tips."
+  title: "Getting Online in Nigeria -- eSIM Network Quality and Speed Guide"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Nigeria. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -387,33 +387,33 @@ faq_section:
       a: |
         Roami typically offers better value for Nigeria eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Holafly. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        What if my phone doesn't support eSIM? Can I still get internet in Nigeria?
+        How do I know for sure if my phone is compatible with eSIM in Nigeria before I buy?
       a: |
-        If your phone lacks eSIM (no EID when dialing *#06#), you have backup options: Rent a pocket WiFi device (around $3-5 per day in Nigeria), or buy a physical SIM at the airport. However, most phones from the last 3-4 years work fine. Check our [eSIM compatibility](/compatibility/) page to confirm your model before buying.
+        The most reliable method: dial *#06#. If an EID number appears (16-32 digits), your phone supports eSIM. You can also check your phone's Settings app — look for 'Add eSIM' or 'Add Cellular Plan'. If it's there, you're all set. If not, check our [eSIM compatibility](/compatibility/) page for your exact model. About 90% of flagship phones from 2020 onwards support eSIM.
     - q: |
         How much should I budget for an eSIM when visiting Nigeria?
       a: |
         Roami offers Nigeria eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. MTN provides reliable speeds across Nigeria. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
     - q: |
-        Do I need a passport or ID to use eSIM in Nigeria? How does the verification work?
+        Is it safe to upload my passport for Nigeria eSIM registration? I'm concerned about privacy.
       a: |
-        Yes, Nigeria requires identity verification for eSIM. Nigeria requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with MTN's network than others — check our [eSIM compatibility](/compatibility/) page.
+        Nigeria requires identity verification by law. Nigeria requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Nigeria.
     - q: |
-        Do I need to remove my physical SIM to use eSIM in Nigeria?
+        Will my Nigeria eSIM work as soon as I land, or is there an activation delay?
       a: |
-        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
+        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to MTN. No queues, no paperwork — you're online before you reach baggage claim.
     - q: |
-        What if I accidentally delete my Nigeria eSIM before my trip?
+        What happens if my Nigeria eSIM stops working mid-trip?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
     - q: |
-        Is eSIM cheaper than international roaming for Nigeria?
+        How do I know if my Nigeria eSIM plan is active and ready to use?
       a: |
-        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Nigeria costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Nigeria — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
     - q: |
-        Can I buy a Nigeria eSIM at the last minute, right before my flight?
+        Can I use navigation apps like Google Maps with eSIM in Nigeria?
       a: |
-        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Nigeria, just enable Data Roaming and you'll be online immediately.
+        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Nigeria (about 200-500MB per city) before you go as a backup.
 related_products:
   title: Related Nigeria eSIM Plans
   items:

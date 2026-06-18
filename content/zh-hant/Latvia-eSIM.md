@@ -1,6 +1,6 @@
 ---
 title: '拉脫維亞 eSIM 2026: 連線與速度 | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -380,26 +380,26 @@ activation_steps:
 
 
 faq_section:
-  title: 拉脫維亞 eSIM 實名認證教學｜購買安裝完整指南
-  desc: 整理了拉脫維亞 eSIM的拉脫維亞 LMT Tele2 比較、拉脫維亞 5G eSIM 方案、拉脫維亞 eSIM 護照認證等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂拉脫維亞上網。
+  title: 拉脫維亞 eSIM LMT等網路速度實測｜最適合旅行上網的選擇
+  desc: 整理了拉脫維亞 eSIM在拉脫維亞 LMT Tele2 比較的網路覆蓋、LMT電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 拉脫維亞 eSIM 實名認證教學｜購買安裝完整指南
+    title: 拉脫維亞 eSIM LMT等網路速度實測｜最適合旅行上網的選擇
     questions:
-    - q: 準備去拉脫維亞long stay，eSIM方案買哪種比較划算？
+    - q: 去拉脫維亞想辦eSIM但又怕買貴，大概多少預算才夠？
       a: Roami 拉脫維亞 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。LMT在拉脫維亞市區5G網速約100-300Mbps，看1080p影片沒問題。去拉脫維亞機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到拉脫維亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
-    - q: 看到有人說拉脫維亞的LMT在市區很快、Tele2在郊區很廣，真的是這樣嗎？
+    - q: LMT、Tele2、Bite這三家在拉脫維亞的收訊，在市區和郊區各推薦哪家？
       a: 拉脫維亞主要有LMT、Tele2、Bite。LMT市區下載快、基地台密集。Tele2郊區覆蓋廣，會去郊區的話選Tele2路線較有保障。Bite價格親民，適合預算有限的旅客。拉脫維亞5G使用n78頻段，全境覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用LMT，移動到郊區若LMT訊號變弱就自動跳Tele2或Bite，完全不用手動選。
-    - q: 拉脫維亞eSIM的30天無限方案跟15天10GB的比起來，哪個平均每天比較便宜？
+    - q: 不太確定去拉脫維亞會用多少網路，該直接選吃到飽還是先買定量就好？
       a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。拉脫維亞5G使用n78頻段，全境覆蓋。Roami在拉脫維亞連上LMT的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
     - q: 有人說去拉脫維亞辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
       a: 需要的。拉脫維亞預付卡需KYC認證，需提供護照。很多人不知道這規定，到了拉脫維亞機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。拉脫維亞5G使用n78頻段，全境覆蓋。另外LMT的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到拉脫維亞開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 在拉脫維亞的郊區或小鎮也能正常使用eSIM嗎？查地圖導航會不會斷？
       a: 拉脫維亞的LMT等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。拉脫維亞5G使用n78頻段，全境覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
-    - q: 去拉脫維亞旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
-      a: Roami 拉脫維亞 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
+    - q: 跟旅伴一起去拉脫維亞，買一張eSIM開熱點分享夠兩個人用嗎？
+      a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
 related_products:
   title: 類似 拉脫維亞 eSIM 的旅行方案
   items:
@@ -466,7 +466,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 與實體 SIM 卡在 拉脫維亞 的旅行、成本與設定比較"
+  title: "Latvia eSIM 網速實測與覆蓋指南 -- 市區郊區都能用嗎？"
   subtitle: "拉脫維亞當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (Latvia) + 當地電信商官網"
@@ -479,7 +479,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "LMT 官網不賣低價 1.5 歐元 SIM 卡，需去實體店找貨；ZZ 實體卡價差大（1.49-3.99 歐元）。LMT 的實體卡轉 eSIM 必須親臨服務中心，無法遠程完成。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Latvia. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開 LMT 門市排隊或尋找實體卡的麻煩，Roami eSIM 線上購買後立即透過郵件發送 QR 碼，抵達拉脫維亞後一分鐘內啟用，無需親臨服務中心轉換。"
     - icon: "id-card"

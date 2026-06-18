@@ -1,6 +1,6 @@
 ---
 title: '香港 eSIM 2026: 覆蓋範圍與速度 | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -367,31 +367,31 @@ activation_steps:
       提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 香港 eSIM 購買前必讀｜價格方案與電信指南
-  desc: 整理了香港 eSIM的香港 CMHK SmarTone 比較、香港 esim 推薦 threads、香港 esim 推薦 kkday等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂香港上網。
+  title: 香港 eSIM 電信網路CMHK全解析｜訊號品質與速度
+  desc: 整理了香港 eSIM在香港 CMHK SmarTone 比較的網路覆蓋、CMHK電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 香港 eSIM 購買前必讀｜價格方案與電信指南
+    title: 香港 eSIM 電信網路CMHK全解析｜訊號品質與速度
     questions:
-    - q: 第一次去香港想用eSIM，方案好多不知道怎麼挑選比較好？
+    - q: 香港eSIM各方案價格差在哪裡？買哪種最適合一般觀光客？
       a: Roami 香港 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。CMHK在香港市區5G網速約100-300Mbps，看1080p影片沒問題。如果去Klook查香港 eSIM，Roami通常便宜10-20%，因為沒有平台抽成。如果不確定用量可以先買小的，到香港後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
-    - q: 香港eSIM沒有附電話號碼會不會不方便？平常怎麼聯繫？
+    - q: 香港eSIM純上網的方案，臨時需要打電話可以怎麼處理？
       a: Roami 香港 eSIM是純數據方案，沒有附當地號碼。很多人擔心沒號碼不方便——其實叫車、訂餐廳用網路電話就行。在香港都會區用CMHK的5G打視訊，品質跟一般通話差不多。原門號可留在卡槽1繼續收簡訊（銀行驗證、社群通知不漏），eSIM在卡槽2負責上網。如需當地號碼可搭Google Voice或TextNow。iPhone XS以上、多數安卓旗艦支援雙卡雙待，設定數據走eSIM、通話走原門號即可。
     - q: 香港三大電信CMHK、SmarTone、3HK，一般觀光客選哪家比較適合？
       a: 香港主要有CMHK、SmarTone、3HK。CMHK市區下載快、基地台密集。SmarTone郊區覆蓋廣，會去郊區的話選SmarTone路線較有保障。3HK價格親民，適合預算有限的旅客。香港5G使用n78/n1頻段，覆蓋密集。不過Roami會自動切換到當前訊號最強的網路。市區用CMHK，移動到郊區若CMHK訊號變弱就自動跳SmarTone或3HK，完全不用手動選。
-    - q: 習慣在Klook上買旅遊票券，香港eSIM也在上面買跟官網買一樣嗎？
+    - q: 在Klook買香港eSIM跟在Roami官網直接買，價格和服務有什麼差別？
       a: 很多人上Klook比價香港 eSIM。主要差異：第一，Roami直銷無平台抽成，價格通常比Klook便宜10-20%。第二，Roami有24小時直接客服，不用透過Klook轉達。第三，Roami買斷制到期就停，不會續約扣款。香港5G使用n78/n1頻段，覆蓋密集。不過Klook可跟飯店票券合併結帳累積點數。不管哪買，在香港都是接取CMHK、SmarTone、3HK的網路，訊號品質一樣。
-    - q: iPhone要去香港用eSIM的話，哪些型號有支援？怎麼查自己的手機能不能用？
+    - q: 香港eSIM在iPhone上要怎麼設定？跟Android手機有什麼不同？
       a: 最快方法：撥號*#06#，出現EID代表支援eSIM。iPhone XS以後、Samsung S20/Flip以後、Pixel 4以後、多數2020年後旗艦機都支援。香港5G使用n78/n1頻段，覆蓋密集。很多人忽略頻段問題——CMHK在香港的n78/n1頻段可能跟你的手機不完全吻合。出發前到[Roami相容性頁面](/compatibility/)查型號。不支援eSIM可租WiFi機或買當地實體SIM卡。
     - q: 香港eSIM的吃到飽和定量方案哪個比較適合短期旅遊的人？
       a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。香港5G使用n78/n1頻段，覆蓋密集。Roami在香港連上CMHK的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
-    - q: 聽說在香港辦eSIM不用證件認證，買了就可以直接用了嗎？
+    - q: 香港eSIM不需要實名登記嗎？跟其他需要護照的國家不一樣？
       a: 沒錯，香港 eSIM不需要證件認證。香港預付卡通常不需KYC，可直接購買使用。直接購買安裝就能用，省去排隊辦卡填資料的麻煩。連上CMHK的網路即可上網。香港5G使用n78/n1頻段，覆蓋密集。建議出發前用WiFi先裝好，到香港開啟數據漫遊就自動連線。不確定手機支援度可到[相容性頁面](/compatibility/)查詢。
-    - q: 行程會經過香港和加拿大，eSIM可以買一張跨兩國使用的嗎？
+    - q: 如果從香港再到加拿大，原本的eSIM還能繼續用嗎？
       a: Roami單國方案僅限香港境內。每個國家電信網路是分開的，需要不同方案。你的行程包含加拿大等其他國家的話，有兩種方式：第一，出發前把各國eSIM都買好，手機可存多組（約5-10組），到哪國啟用哪個。第二，Roami也有區域方案（如歐洲多國），一卡多國使用。先算各國停留天數再選最划算的買法。
-    - q: 離開香港市區之後，eSIM的訊號會不會變得很差？
+    - q: 在香港的郊區或小鎮也能正常使用eSIM嗎？查地圖導航會不會斷？
       a: 香港的CMHK等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。香港5G使用n78/n1頻段，覆蓋密集。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
 related_products:
   title: 類似 香港 eSIM 的旅行方案
@@ -459,7 +459,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 與 SIM 卡方案在 香港 哪個符合你的需求？"
+  title: "去Hong Kong旅遊eSIM上網順暢嗎？速度與涵蓋完整評價"
   subtitle: "香港當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (Hong-Kong) + 當地電信商官網"
@@ -472,7 +472,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "在機場 1O1O (csl.) 或 CMHK 櫃檯可獲協助，但其他零售點（如 7-Eleven）購買的卡片需自行完成線上登記流程，對不熟悉中文的旅客極不友好。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Hong Kong. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開 csl. 或 CMHK 門市排隊與繁瑣的線上登記，抵達香港後一分鐘內透過郵件接收 eSIM 並啟用，無需任何身份證明文件。"
     - icon: "id-card"

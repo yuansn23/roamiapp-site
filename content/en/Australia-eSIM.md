@@ -375,8 +375,8 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Affordable eSIM Options for Australia — Compare Plans & Prices"
-  desc: "Planning Australia travel? Our eSIM guide covers australian esim providers, plans, and setup tips."
+  title: "What Internet Speed Can You Expect with eSIM in Australia?"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Australia. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -384,37 +384,37 @@ faq_section:
     title: Australia eSIM FAQs
     questions:
     - q: |
-        How does Roami compare to Airalo for eSIM in Australia?
+        How does Roami compare to Saily for eSIM in Australia?
       a: |
-        Roami typically offers better value for Australia eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Roami typically offers better value for Australia eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Saily. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
         Is it safe to upload my passport for Australia eSIM registration? I'm concerned about privacy.
       a: |
         Australia requires identity verification by law. Australia requires KYC verification for prepaid SIM cards. Passport or driver's license required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Australia.
     - q: |
-        Can I get an eSIM for Australia without spending too much?
+        What are the cheapest eSIM options for a trip to Australia?
       a: |
-        Absolutely. Roami's Australia eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+        Roami Australia eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Thanks to Telstra's 5G network, streaming and video calls work great. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
     - q: |
-        What's the easiest way to stay connected in Australia without dealing with airport SIM kiosks?
+        What happens if my Australia eSIM stops working mid-trip?
       a: |
-        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Telstra for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
+        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
     - q: |
-        What's the difference between a 5GB plan and an unlimited plan for Australia?
+        How do I know if my Australia eSIM plan is active and ready to use?
       a: |
-        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Australia — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+    - q: |
+        Can I install my Australia eSIM at the airport, or should I do it before leaving home?
+      a: |
+        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Australia's airport, enable Data Roaming and you'll be online in under 60 seconds.
     - q: |
         Does the Australia eSIM work in rural areas and smaller towns?
       a: |
         Coverage in Australia reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
     - q: |
-        How much data does a typical traveler actually use per day in Australia?
+        What's the difference between a 5GB plan and an unlimited plan for Australia?
       a: |
-        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
-    - q: |
-        How does eSIM compare to pocket WiFi for Australia travel?
-      a: |
-        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
 related_products:
   title: Related eSIM Plans
   items:

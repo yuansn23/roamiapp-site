@@ -382,8 +382,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Traveling to Belgium? Here's How eSIM Registration Works"
-  desc: "Planning Belgium travel? Our eSIM guide covers belgium esim providers, plans, and setup tips."
+  title: "eSIM in Belgium -- Is the Connection Fast and Reliable for Tourists?"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Belgium. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -391,37 +391,37 @@ faq_section:
     title: Belgium eSIM FAQs
     questions:
     - q: |
-        Is it safe to upload my passport for Belgium eSIM registration? I'm concerned about privacy.
+        Do I need a passport or ID to use eSIM in Belgium? How does the verification work?
       a: |
-        Belgium requires identity verification by law. Belgium requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Belgium.
+        Yes, Belgium requires identity verification for eSIM. Belgium requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Proximus's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
         How much should I budget for an eSIM when visiting Belgium?
       a: |
         Roami offers Belgium eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Proximus provides reliable speeds across Belgium. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
     - q: |
-        What do I do if my Belgium eSIM doesn't connect when I arrive?
+        I need internet access for just a couple of days in Belgium. What's the minimum I can buy?
       a: |
-        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Proximus in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
+        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
     - q: |
-        Does WhatsApp and FaceTime work with eSIM in Belgium?
+        Can I buy a Belgium eSIM at the last minute, right before my flight?
       a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Proximus's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Belgium, just enable Data Roaming and you'll be online immediately.
     - q: |
-        When does the validity period of my Belgium eSIM start?
+        I'm arriving in Belgium late at night. Will I be able to get online immediately?
       a: |
-        The plan validity starts when you connect to a local network in Belgium, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Proximus automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
     - q: |
-        Can I keep my home SIM in my phone while using eSIM in Belgium?
+        Do I need to remove my physical SIM to use eSIM in Belgium?
       a: |
-        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
+    - q: |
+        Can I install my Belgium eSIM at the airport, or should I do it before leaving home?
+      a: |
+        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Belgium's airport, enable Data Roaming and you'll be online in under 60 seconds.
     - q: |
         What's the difference between a 5GB plan and an unlimited plan for Belgium?
       a: |
         A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
-    - q: |
-        How do I know if my Belgium eSIM plan is active and ready to use?
-      a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Belgium — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
 related_products:
   title: Related Belgium eSIM Plans
   items:

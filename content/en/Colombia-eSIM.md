@@ -335,8 +335,8 @@ activation_steps:
       WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Affordable eSIM Options for Colombia — Compare Plans & Prices"
-  desc: "Planning Colombia travel? Our eSIM guide covers cheapest esim colombia, plans, and setup tips."
+  title: "Getting Online in Colombia -- eSIM Network Quality and Speed Guide"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Colombia. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -348,33 +348,33 @@ faq_section:
       a: |
         Roami Colombia eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Thanks to Claro's 5G network, streaming and video calls work great. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
     - q: |
-        Does Roami switch between Claro, Movistar, and Tigo in Colombia automatically?
+        How do Claro, Movistar, and Tigo compare for a tourist visiting Colombia?
       a: |
-        Yes — that's one of Roami's key advantages. As you move from cities to rural areas, your eSIM automatically switches to the carrier with the strongest signal at your location. Typically Claro is fastest in urban centers (5G speeds of 100-300 Mbps), while Movistar maintains better coverage in the countryside. Colombia uses 5G on n78 band covering Bogotá and other  You never need to manually change networks.
+        In Colombia, Claro leads with the fastest urban 5G speeds (up to 1 Gbps in tests). Movistar covers about 85% of the country including most rural areas. Tigo is the budget option, often bundling data at lower per-GB rates. Tourists visiting cities get excellent service from all three. Colombia uses 5G on n78 band covering Bogotá and other  Roami picks the best one automatically as you move around.
     - q: |
         How does Roami compare to Saily for eSIM in Colombia?
       a: |
         Roami typically offers better value for Colombia eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Saily. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        What do I do if my Colombia eSIM doesn't connect when I arrive?
+        Will my eSIM in Colombia work for video calls and remote work?
       a: |
-        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Claro in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
-    - q: |
-        I'm traveling to Colombia for just 2-3 days. What eSIM should I get?
-      a: |
-        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
-    - q: |
-        What if I accidentally delete my Colombia eSIM before my trip?
-      a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        Absolutely. Claro networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
     - q: |
         What's the easiest way to stay connected in Colombia without dealing with airport SIM kiosks?
       a: |
         eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Claro for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
     - q: |
-        Does the Colombia eSIM work in rural areas and smaller towns?
+        What if my hotel in Colombia has free WiFi — do I still need eSIM data?
       a: |
-        Coverage in Colombia reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
+        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
+    - q: |
+        How many eSIM profiles can I store on my phone for traveling to Colombia?
+      a: |
+        Most phones store 5-10 eSIM profiles. You can keep your Colombia eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
+    - q: |
+        I'm traveling to Colombia for just 2-3 days. What eSIM should I get?
+      a: |
+        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
 related_products:
   title: Related Colombia eSIM Plans
   items:

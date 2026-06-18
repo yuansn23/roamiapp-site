@@ -343,8 +343,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Moldova eSIM Registration Guide — Passport and ID Requirements"
-  desc: "Planning Moldova travel? Our eSIM guide covers best esim for.moldova, plans, and setup tips."
+  title: "eSIM for Travelers in Moldova -- Network Speeds, Coverage and Tips"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Moldova. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -360,17 +360,9 @@ faq_section:
       a: |
         Yes, Moldova requires identity verification for eSIM. Moldova requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Orange's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
-        What happens if my Moldova eSIM stops working mid-trip?
+        I need internet access for just a couple of days in Moldova. What's the minimum I can buy?
       a: |
-        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
-    - q: |
-        What if I accidentally delete my Moldova eSIM before my trip?
-      a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
-    - q: |
-        What do I do if my Moldova eSIM doesn't connect when I arrive?
-      a: |
-        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Orange in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
+        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
     - q: |
         Can I use navigation apps like Google Maps with eSIM in Moldova?
       a: |
@@ -380,9 +372,17 @@ faq_section:
       a: |
         Most phones store 5-10 eSIM profiles. You can keep your Moldova eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
     - q: |
-        When does the validity period of my Moldova eSIM start?
+        How does eSIM compare to pocket WiFi for Moldova travel?
       a: |
-        The plan validity starts when you connect to a local network in Moldova, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
+    - q: |
+        What happens if my Moldova eSIM stops working mid-trip?
+      a: |
+        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
+    - q: |
+        Will my eSIM in Moldova work for video calls and remote work?
+      a: |
+        Absolutely. Orange networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
 related_products:
   title: Related eSIM Plans
   items:

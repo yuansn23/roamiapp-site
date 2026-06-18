@@ -382,8 +382,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Cost-Effective eSIM for Italy — Save on Roaming Fees"
-  desc: "Planning Italy travel? Our eSIM guide covers lycamobile italy esim, plans, and setup tips."
+  title: "eSIM for Travelers in Italy -- Network Speeds, Coverage and Tips"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Italy. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -391,37 +391,37 @@ faq_section:
     title: Italy eSIM FAQs
     questions:
     - q: |
-        How does Roami compare to Airalo for eSIM in Italy?
+        How does Roami compare to Ubigi for eSIM in Italy?
       a: |
-        Roami typically offers better value for Italy eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Roami typically offers better value for Italy eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Ubigi. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        Does Roami switch between TIM, Vodafone, and WindTre in Italy automatically?
+        Which network in Italy has the best coverage for travelers — TIM, Vodafone, or WindTre?
       a: |
-        Yes — that's one of Roami's key advantages. As you move from cities to rural areas, your eSIM automatically switches to the carrier with the strongest signal at your location. Typically TIM is fastest in urban centers (5G speeds of 100-300 Mbps), while Vodafone maintains better coverage in the countryside. Italy uses 5G on n78/n257 bands, compatible with most d You never need to manually change networks.
+        Italy has three main carriers: TIM, Vodafone, and WindTre. TIM reaches about 95% of the population with 4G/5G. Vodafone covers roughly 90% but has stronger rural reach. WindTre offers competitive pricing, often 15-20% cheaper than TIM. Italy uses 5G on n78/n257 bands, compatible with most d Roami automatically connects you to whichever is strongest at your location.
     - q: |
-        Can I get an eSIM for Italy without spending too much?
+        What are the cheapest eSIM options for a trip to Italy?
       a: |
-        Absolutely. Roami's Italy eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+        Roami Italy eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Thanks to TIM's 5G network, streaming and video calls work great. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
     - q: |
-        What happens if I use all my data in Italy before my plan expires?
+        Can I use navigation apps like Google Maps with eSIM in Italy?
       a: |
-        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Italy (about 200-500MB per city) before you go as a backup.
+    - q: |
+        I'm arriving in Italy late at night. Will I be able to get online immediately?
+      a: |
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up TIM automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
+    - q: |
+        How far in advance should I buy my Italy eSIM?
+      a: |
+        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Italy, so buying early doesn't waste your plan days.
+    - q: |
+        Do I need to remove my physical SIM to use eSIM in Italy?
+      a: |
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
     - q: |
         What's included when I buy a Italy eSIM from Roami?
       a: |
         QR code delivery within 5 minutes, access to TIM's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
-    - q: |
-        When does the validity period of my Italy eSIM start?
-      a: |
-        The plan validity starts when you connect to a local network in Italy, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
-    - q: |
-        How does eSIM compare to pocket WiFi for Italy travel?
-      a: |
-        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
-    - q: |
-        Can I buy a Italy eSIM at the last minute, right before my flight?
-      a: |
-        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Italy, just enable Data Roaming and you'll be online immediately.
 related_products:
   title: Related Italy eSIM Plans
   items:

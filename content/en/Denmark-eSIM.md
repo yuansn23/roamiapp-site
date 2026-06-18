@@ -374,8 +374,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Cost-Effective eSIM for Denmark — Save on Roaming Fees"
-  desc: "Planning Denmark travel? Our eSIM guide covers denmark esim providers, plans, and setup tips."
+  title: "How Fast is eSIM Internet in Denmark? Speeds and Coverage for Travelers"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Denmark. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -383,37 +383,37 @@ faq_section:
     title: Denmark eSIM FAQs
     questions:
     - q: |
-        Is it safe to upload my passport for Denmark eSIM registration? I'm concerned about privacy.
+        Do I need a passport or ID to use eSIM in Denmark? How does the verification work?
       a: |
-        Denmark requires identity verification by law. Denmark requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Denmark.
+        Yes, Denmark requires identity verification for eSIM. Denmark requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with TDC's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
-        How much should I budget for an eSIM when visiting Denmark?
+        Can I get an eSIM for Denmark without spending too much?
       a: |
-        Roami offers Denmark eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. TDC provides reliable speeds across Denmark. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+        Absolutely. Roami's Denmark eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
     - q: |
-        What if my hotel in Denmark has free WiFi — do I still need eSIM data?
+        Do I need to remove my physical SIM to use eSIM in Denmark?
       a: |
-        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
-    - q: |
-        Will my Denmark eSIM work as soon as I land, or is there an activation delay?
-      a: |
-        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to TDC. No queues, no paperwork — you're online before you reach baggage claim.
-    - q: |
-        Can I use navigation apps like Google Maps with eSIM in Denmark?
-      a: |
-        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Denmark (about 200-500MB per city) before you go as a backup.
-    - q: |
-        What happens if my Denmark eSIM stops working mid-trip?
-      a: |
-        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
     - q: |
         What's the difference between a 5GB plan and an unlimited plan for Denmark?
       a: |
         A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
     - q: |
-        What's included when I buy a Denmark eSIM from Roami?
+        How far in advance should I buy my Denmark eSIM?
       a: |
-        QR code delivery within 5 minutes, access to TDC's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
+        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Denmark, so buying early doesn't waste your plan days.
+    - q: |
+        Is eSIM cheaper than international roaming for Denmark?
+      a: |
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Denmark costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+    - q: |
+        What if I accidentally delete my Denmark eSIM before my trip?
+      a: |
+        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+    - q: |
+        I'm arriving in Denmark late at night. Will I be able to get online immediately?
+      a: |
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up TDC automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
 related_products:
   title: Related Denmark eSIM Plans
   items:

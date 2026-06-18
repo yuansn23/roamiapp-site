@@ -359,8 +359,8 @@ activation_steps:
       WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Cambodia eSIM on a Budget — Cheap Plans That Work Well"
-  desc: "Planning Cambodia travel? Our eSIM guide covers travelkon esim cambodia, plans, and setup tips."
+  title: "What Internet Speed Can You Expect with eSIM in Cambodia?"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Cambodia. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -368,37 +368,37 @@ faq_section:
     title: Cambodia eSIM FAQs
     questions:
     - q: |
-        Can I get an eSIM for Cambodia without spending too much?
+        How much should I budget for an eSIM when visiting Cambodia?
       a: |
-        Absolutely. Roami's Cambodia eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+        Roami offers Cambodia eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Cellcard provides reliable speeds across Cambodia. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
     - q: |
-        How does Roami compare to Holafly for eSIM in Cambodia?
+        How does Roami compare to Airalo for eSIM in Cambodia?
       a: |
-        Roami typically offers better value for Cambodia eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Holafly. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Roami typically offers better value for Cambodia eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        Is the unlimited eSIM plan for Cambodia worth it, or would a fixed data plan be better?
+        Will the Cambodia eSIM unlimited plan slow down if I use too much data?
       a: |
-        Roami's unlimited plan has a fair cap: 30GB per day, after which speed drops to 512 kbps until midnight. Most travelers use 500MB to 3GB daily — hitting 30GB means streaming 4K video for 10 hours straight. For regular browsing, maps, and social media, a 5GB or 10GB plan is plenty. Choose unlimited if you plan heavy streaming or hotspot sharing.
+        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
     - q: |
-        Do I need a passport or ID to use eSIM in Cambodia? How does the verification work?
+        Is it safe to upload my passport for Cambodia eSIM registration? I'm concerned about privacy.
       a: |
-        Yes, Cambodia requires identity verification for eSIM. Cambodia requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Cellcard's network than others — check our [eSIM compatibility](/compatibility/) page.
+        Cambodia requires identity verification by law. Cambodia requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Cambodia.
     - q: |
-        When does the validity period of my Cambodia eSIM start?
+        Is eSIM cheaper than international roaming for Cambodia?
       a: |
-        The plan validity starts when you connect to a local network in Cambodia, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Cambodia costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
     - q: |
-        Does WhatsApp and FaceTime work with eSIM in Cambodia?
+        Can I use my Cambodia eSIM for social media and sharing photos with family?
       a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Cellcard's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Cellcard handle photos in seconds and short videos easily.
     - q: |
-        Can I use my Cambodia eSIM right after buying it, or do I need to wait?
+        What if I accidentally delete my Cambodia eSIM before my trip?
       a: |
-        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Cambodia. So you can install weeks before your trip without losing any plan days.
+        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
     - q: |
-        Will my Cambodia eSIM work as soon as I land, or is there an activation delay?
+        What's the most popular eSIM choice for travelers going to Cambodia?
       a: |
-        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Cellcard. No queues, no paperwork — you're online before you reach baggage claim.
+        Most travelers to Cambodia choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
 related_products:
   title: Related Cambodia eSIM Plans
   items:

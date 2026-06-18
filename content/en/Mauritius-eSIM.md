@@ -327,8 +327,8 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Cost-Effective eSIM for Mauritius — Save on Roaming Fees"
-  desc: "Planning Mauritius travel? Our eSIM guide covers mauritius esim tourist, plans, and setup tips."
+  title: "Getting Online in Mauritius -- eSIM Network Quality and Speed Guide"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Mauritius. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -336,33 +336,33 @@ faq_section:
     title: Mauritius eSIM FAQs
     questions:
     - q: |
-        How much should I budget for an eSIM when visiting Mauritius?
+        Can I get an eSIM for Mauritius without spending too much?
       a: |
-        Roami offers Mauritius eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. my.t provides reliable speeds across Mauritius. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+        Absolutely. Roami's Mauritius eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
     - q: |
-        Which network in Mauritius has the best coverage for travelers — my.t, Emtel, or Chili?
+        Does Roami switch between my.t, Emtel, and Chili in Mauritius automatically?
       a: |
-        Mauritius has three main carriers: my.t, Emtel, and Chili. my.t reaches about 95% of the population with 4G/5G. Emtel covers roughly 90% but has stronger rural reach. Chili offers competitive pricing, often 15-20% cheaper than my.t. Mauritius has 4G/5G with good island-wide coverage. Roami automatically connects you to whichever is strongest at your location.
+        Yes — that's one of Roami's key advantages. As you move from cities to rural areas, your eSIM automatically switches to the carrier with the strongest signal at your location. Typically my.t is fastest in urban centers (5G speeds of 100-300 Mbps), while Emtel maintains better coverage in the countryside. Mauritius has 4G/5G with good island-wide coverage. You never need to manually change networks.
     - q: |
-        Is it safe to upload my passport for Mauritius eSIM registration? I'm concerned about privacy.
+        Do I need a passport or ID to use eSIM in Mauritius? How does the verification work?
       a: |
-        Mauritius requires identity verification by law. Mauritius requires KYC verification. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Mauritius.
+        Yes, Mauritius requires identity verification for eSIM. Mauritius requires KYC verification. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with my.t's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
         How does Roami compare to Airalo for eSIM in Mauritius?
       a: |
         Roami typically offers better value for Mauritius eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        Does the Mauritius eSIM work in rural areas and smaller towns?
+        Is eSIM cheaper than international roaming for Mauritius?
       a: |
-        Coverage in Mauritius reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Mauritius costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
     - q: |
-        What documents do I need to buy a Mauritius eSIM from Roami?
+        Can I use my Mauritius eSIM for social media and sharing photos with family?
       a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from my.t handle photos in seconds and short videos easily.
     - q: |
-        How far in advance should I buy my Mauritius eSIM?
+        Do I need to remove my physical SIM to use eSIM in Mauritius?
       a: |
-        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Mauritius, so buying early doesn't waste your plan days.
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
     - q: |
         I'm arriving in Mauritius late at night. Will I be able to get online immediately?
       a: |

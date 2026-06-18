@@ -1,6 +1,6 @@
 ---
 title: '約旦 eSIM 2026: 完整旅遊指南 | Roami'
-date: '2026-06-15T10:21:24+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -295,26 +295,26 @@ activation_steps:
       eSIM 約旦。幾秒鐘內，您的設備將自動連接到 Zain / Orange 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 約旦 eSIM 實名認證教學｜購買安裝完整指南
-  desc: 整理了約旦 eSIM的約旦 Zain Orange 比較、約旦 Zain 網路覆蓋、約旦 Orange 速度等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂約旦上網。
+  title: 約旦 eSIM 電信商Zain、Orange、Umniah哪個好？網路速度完整比較
+  desc: 整理了約旦 eSIM在約旦 Zain Orange 比較的網路覆蓋、Zain電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 約旦 eSIM 實名認證教學｜購買安裝完整指南
+    title: 約旦 eSIM 電信商Zain、Orange、Umniah哪個好？網路速度完整比較
     questions:
-    - q: 去約旦自由行的話，辦eSIM上網大概要花多少錢？
+    - q: 約旦eSIM各方案價格差在哪裡？買哪種最適合一般觀光客？
       a: Roami 約旦 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Zain在約旦市區5G網速約100-300Mbps，看1080p影片沒問題。去約旦機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到約旦後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
-    - q: 看到有人說約旦的Zain在市區很快、Orange在郊區很廣，真的是這樣嗎？
+    - q: 去約旦玩辦eSIM，Roami會自動切換Zain、Orange、Umniah的網路嗎？
       a: 約旦主要有Zain、Orange、Umniah。Zain市區下載快、基地台密集。Orange郊區覆蓋廣，會去郊區的話選Orange路線較有保障。Umniah價格親民，適合預算有限的旅客。約旦4G/5G，安曼等城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Zain，移動到郊區若Zain訊號變弱就自動跳Orange或Umniah，完全不用手動選。
-    - q: 如果出發前忘記先辦好約旦eSIM的認證，到當地才弄來得及嗎？
+    - q: 去約旦辦eSIM的認證流程大概要多久？買完馬上就能用嗎？
       a: 需要的。約旦預付卡需KYC認證，需提供護照。很多人不知道這規定，到了約旦機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。約旦4G/5G，安曼等城市覆蓋。完成後到約旦開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 約旦主要市區和偏遠鄉村的網路覆蓋差距大嗎？
       a: 約旦的Zain等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。約旦4G/5G，安曼等城市覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
-    - q: 出國去約旦用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
-      a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到約旦開數據漫遊就用。
-    - q: 去約旦旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
-      a: Roami 約旦 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
+    - q: 跟旅伴一起去約旦，買一張eSIM開熱點分享夠兩個人用嗎？
+      a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
+    - q: 約旦eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
+      a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
 related_products:
   title: 類似 約旦 eSIM 的旅行方案
   items:
@@ -381,7 +381,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 與預付 SIM 卡在 約旦 所有你該考慮的事"
+  title: "去Jordan用eSIM網路順嗎？4G/5G速度與覆蓋全攻略"
   subtitle: "約旦當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (Jordan) + 當地電信商官網"
@@ -394,7 +394,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "機場僅有 Zain 和 Umniah 櫃檯（Orange 甚至無機場點），且要求出示護照完成 KYC 人臉複印。若清晨6點前抵達或遇到排隊，需在入境大廳耗費約20-40分鐘辦理手續。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Jordan. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開安曼機場 Zain 或 Umniah 櫃檯 20-40 分鐘的排隊與護照複印，Roami eSIM 抵達後一分鐘內線上啟用，無需實體卡。"
     - icon: "id-card"

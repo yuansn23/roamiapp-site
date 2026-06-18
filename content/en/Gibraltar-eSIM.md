@@ -268,8 +268,8 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Best Value eSIM Plans for Traveling to Gibraltar"
-  desc: "Planning Gibraltar travel? Our eSIM guide covers gibraltar esim unlimited data, plans, and setup tips."
+  title: "Does eSIM Work Everywhere in Gibraltar? City and Rural Coverage Guide"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Gibraltar. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -277,9 +277,9 @@ faq_section:
     title: Gibraltar eSIM FAQs
     questions:
     - q: |
-        Can I get an eSIM for Gibraltar without spending too much?
+        What are the cheapest eSIM options for a trip to Gibraltar?
       a: |
-        Absolutely. Roami's Gibraltar eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+        Roami Gibraltar eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Thanks to Gibtelecom's 5G network, streaming and video calls work great. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
     - q: |
         Will the Gibraltar eSIM unlimited plan slow down if I use too much data?
       a: |
@@ -289,25 +289,25 @@ faq_section:
       a: |
         Roami typically offers better value for Gibraltar eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Holafly. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        Do I need to remove my physical SIM to use eSIM in Gibraltar?
+        Can I use my Gibraltar eSIM right after buying it, or do I need to wait?
       a: |
-        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
+        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Gibraltar. So you can install weeks before your trip without losing any plan days.
     - q: |
-        What's the difference between a 5GB plan and an unlimited plan for Gibraltar?
+        What happens if I use all my data in Gibraltar before my plan expires?
       a: |
-        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
     - q: |
-        Will my Gibraltar eSIM work as soon as I land, or is there an activation delay?
+        Does WhatsApp and FaceTime work with eSIM in Gibraltar?
       a: |
-        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Gibtelecom. No queues, no paperwork — you're online before you reach baggage claim.
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Gibtelecom's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
     - q: |
-        I'm arriving in Gibraltar late at night. Will I be able to get online immediately?
+        How many eSIM profiles can I store on my phone for traveling to Gibraltar?
       a: |
-        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Gibtelecom automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
+        Most phones store 5-10 eSIM profiles. You can keep your Gibraltar eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
     - q: |
-        How much data does a typical traveler actually use per day in Gibraltar?
+        What happens if my Gibraltar eSIM stops working mid-trip?
       a: |
-        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
 related_products:
   title: Related eSIM Plans
   items:

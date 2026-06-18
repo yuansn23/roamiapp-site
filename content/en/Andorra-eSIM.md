@@ -279,8 +279,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Setting Up eSIM for Andorra — What Documents You Need to Prepare"
-  desc: "Planning Andorra travel? Our eSIM guide covers andorra esim comparison, plans, and setup tips."
+  title: "Does eSIM Work Everywhere in Andorra? City and Rural Coverage Guide"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Andorra. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -292,33 +292,33 @@ faq_section:
       a: |
         Roami typically offers better value for Andorra eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Saily. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        Is it safe to upload my passport for Andorra eSIM registration? I'm concerned about privacy.
+        Do I need a passport or ID to use eSIM in Andorra? How does the verification work?
       a: |
-        Andorra requires identity verification by law. Andorra requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Andorra.
+        Yes, Andorra requires identity verification for eSIM. Andorra requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Andorra Telecom's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
-        How does eSIM compare to pocket WiFi for Andorra travel?
+        When does the validity period of my Andorra eSIM start?
       a: |
-        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
+        The plan validity starts when you connect to a local network in Andorra, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
     - q: |
-        Do I need to remove my physical SIM to use eSIM in Andorra?
+        What documents do I need to buy a Andorra eSIM from Roami?
       a: |
-        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
     - q: |
-        I need internet access for just a couple of days in Andorra. What's the minimum I can buy?
+        Does WhatsApp and FaceTime work with eSIM in Andorra?
       a: |
-        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Andorra Telecom's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
     - q: |
-        Can I install my Andorra eSIM at the airport, or should I do it before leaving home?
+        How many eSIM profiles can I store on my phone for traveling to Andorra?
       a: |
-        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Andorra's airport, enable Data Roaming and you'll be online in under 60 seconds.
+        Most phones store 5-10 eSIM profiles. You can keep your Andorra eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
     - q: |
-        What's included when I buy a Andorra eSIM from Roami?
+        Can I buy a Andorra eSIM at the last minute, right before my flight?
       a: |
-        QR code delivery within 5 minutes, access to Andorra Telecom's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
+        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Andorra, just enable Data Roaming and you'll be online immediately.
     - q: |
-        What do I do if my Andorra eSIM doesn't connect when I arrive?
+        Is eSIM cheaper than international roaming for Andorra?
       a: |
-        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Andorra Telecom in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Andorra costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
 related_products:
   title: Related Andorra eSIM Plans
   items:

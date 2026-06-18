@@ -375,8 +375,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Setting Up eSIM for Latvia — What Documents You Need to Prepare"
-  desc: "Planning Latvia travel? Our eSIM guide covers latvia esim prepaid, plans, and setup tips."
+  title: "eSIM for Travelers in Latvia -- Network Speeds, Coverage and Tips"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Latvia. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -388,33 +388,33 @@ faq_section:
       a: |
         Latvia requires identity verification by law. Latvia requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Latvia.
     - q: |
-        Which carrier in Latvia should I rely on for my eSIM?
+        Does Roami switch between LMT, Tele2, and Bite in Latvia automatically?
       a: |
-        LMT operates over 15,000 towers across Latvia, covering all major cities. Tele2 complements this with additional rural coverage reaching about 90% of the population. Bite focuses on affordability, with data plans costing roughly 20% less than LMT. With Roami, you don't pick one — it connects to whichever is strongest.
+        Yes — that's one of Roami's key advantages. As you move from cities to rural areas, your eSIM automatically switches to the carrier with the strongest signal at your location. Typically LMT is fastest in urban centers (5G speeds of 100-300 Mbps), while Tele2 maintains better coverage in the countryside. Latvia uses 5G on n78 band with nationwide coverage. You never need to manually change networks.
     - q: |
-        What's the difference between a 5GB plan and an unlimited plan for Latvia?
+        Will my Latvia eSIM work as soon as I land, or is there an activation delay?
       a: |
-        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to LMT. No queues, no paperwork — you're online before you reach baggage claim.
     - q: |
-        Will my eSIM in Latvia work for video calls and remote work?
+        How far in advance should I buy my Latvia eSIM?
       a: |
-        Absolutely. LMT networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
+        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Latvia, so buying early doesn't waste your plan days.
+    - q: |
+        I'm arriving in Latvia late at night. Will I be able to get online immediately?
+      a: |
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up LMT automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
     - q: |
         What's the easiest way to stay connected in Latvia without dealing with airport SIM kiosks?
       a: |
         eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to LMT for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
     - q: |
-        Can I use my Latvia eSIM right after buying it, or do I need to wait?
+        How does eSIM compare to pocket WiFi for Latvia travel?
       a: |
-        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Latvia. So you can install weeks before your trip without losing any plan days.
+        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
     - q: |
-        Can I use navigation apps like Google Maps with eSIM in Latvia?
+        When does the validity period of my Latvia eSIM start?
       a: |
-        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Latvia (about 200-500MB per city) before you go as a backup.
-    - q: |
-        Can I use my Latvia eSIM for social media and sharing photos with family?
-      a: |
-        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from LMT handle photos in seconds and short videos easily.
+        The plan validity starts when you connect to a local network in Latvia, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
 related_products:
   title: Related Latvia eSIM Plans
   items:

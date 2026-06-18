@@ -1,6 +1,6 @@
 ---
 title: '保加利亞 eSIM 2026: 旅行與網路 | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -376,26 +376,26 @@ activation_steps:
       保加利亞。幾秒鐘內，您的設備將自動連接到 A1 / Telenor 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 保加利亞 eSIM 怎麼買最划算｜方案推薦與注意事項
-  desc: 整理了保加利亞 eSIM的保加利亞 A1 Telenor 比較、保加利亞 Telenor 速度、保加利亞 Vivacom 5G等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂保加利亞上網。
+  title: 保加利亞 eSIM A1、Telenor、Vivacom哪家網路最快？涵蓋範圍比較
+  desc: 整理了保加利亞 eSIM在保加利亞 A1 Telenor 比較的網路覆蓋、A1電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 保加利亞 eSIM 怎麼買最划算｜方案推薦與注意事項
+    title: 保加利亞 eSIM A1、Telenor、Vivacom哪家網路最快？涵蓋範圍比較
     questions:
     - q: 第一次去保加利亞想用eSIM，方案好多不知道怎麼挑選比較好？
       a: Roami 保加利亞 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。A1在保加利亞市區5G網速約100-300Mbps，看1080p影片沒問題。去保加利亞機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到保加利亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
-    - q: 看到有人說保加利亞的A1在市區很快、Telenor在郊區很廣，真的是這樣嗎？
+    - q: 去保加利亞旅遊的話，A1、Telenor、Vivacom這三家電信分別有什麼優缺點？
       a: 保加利亞主要有A1、Telenor、Vivacom。A1市區下載快、基地台密集。Telenor郊區覆蓋廣，會去郊區的話選Telenor路線較有保障。Vivacom價格親民，適合預算有限的旅客。保加利亞4G/5G，主要城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用A1，移動到郊區若A1訊號變弱就自動跳Telenor或Vivacom，完全不用手動選。
-    - q: 去保加利亞辦eSIM的認證流程大概要多久？買完馬上就能用嗎？
+    - q: 有人說去保加利亞辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
       a: 需要的。保加利亞預付卡需KYC認證，需提供護照。很多人不知道這規定，到了保加利亞機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。保加利亞4G/5G，主要城市覆蓋。完成後到保加利亞開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 搭車從保加利亞市區移動到郊區的時候，eSIM網路會一直切換嗎？
       a: 保加利亞的A1等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。保加利亞4G/5G，主要城市覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
+    - q: 跟旅伴一起去保加利亞，買一張eSIM開熱點分享夠兩個人用嗎？
+      a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
     - q: 出國去保加利亞用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
       a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到保加利亞開數據漫遊就用。
-    - q: 去保加利亞旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
-      a: Roami 保加利亞 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
 related_products:
   title: 類似 保加利亞 eSIM 的旅行方案
   items:
@@ -462,7 +462,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 或遊客 SIM 卡在 保加利亞 該選哪個？"
+  title: "Bulgaria eSIM 上網速度快不快？旅客必看網路指南"
   subtitle: "保加利亞當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (Bulgaria) + 當地電信商官網"
@@ -475,7 +475,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "必須在機場或市區尋找 A1、Yettel 或 Vivacom 門市，排隊等候，並提供護照原件進行強制 KYC 登記。若遇到「每人限 10 張卡」的系統審核，延誤時間更長。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Bulgaria. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開 A1、Yettel 或 Vivacom 門市排隊，抵達保加利亞後一分鐘內線上啟用，無需護照掃描或系統審核延誤。"
     - icon: "id-card"

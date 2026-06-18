@@ -1,6 +1,6 @@
 ---
 title: '立陶宛 eSIM 2026: 完整旅遊指南 | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -376,26 +376,26 @@ activation_steps:
       eSIM 立陶宛。幾秒鐘內，您的設備將自動連接到 Telia / Bitė 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 立陶宛 eSIM 5G上網方案｜網速與電信商比較
-  desc: 整理了立陶宛 eSIM的立陶宛 Telia Bite 比較、立陶宛 Telia 網路覆蓋、立陶宛 5G eSIM 方案等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂立陶宛上網。
+  title: 立陶宛 eSIM 電信商Telia、Bite、Tele2哪個好？網路速度完整比較
+  desc: 整理了立陶宛 eSIM在立陶宛 Telia Bite 比較的網路覆蓋、Telia電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 立陶宛 eSIM 5G上網方案｜網速與電信商比較
+    title: 立陶宛 eSIM 電信商Telia、Bite、Tele2哪個好？網路速度完整比較
     questions:
-    - q: 準備去立陶宛long stay，eSIM方案買哪種比較划算？
+    - q: 短期去立陶宛玩個三五天，eSIM最便宜的方案大概多少錢？
       a: Roami 立陶宛 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Telia在立陶宛市區5G網速約100-300Mbps，看1080p影片沒問題。去立陶宛機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到立陶宛後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
-    - q: 到立陶宛旅遊想用eSIM，Telia、Bite、Tele2哪家網路比較穩？
+    - q: 看到有人說立陶宛的Telia在市區很快、Bite在郊區很廣，真的是這樣嗎？
       a: 立陶宛主要有Telia、Bite、Tele2。Telia市區下載快、基地台密集。Bite郊區覆蓋廣，會去郊區的話選Bite路線較有保障。Tele2價格親民，適合預算有限的旅客。立陶宛5G使用n78頻段，全境覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Telia，移動到郊區若Telia訊號變弱就自動跳Bite或Tele2，完全不用手動選。
-    - q: 立陶宛eSIM的吃到飽和定量方案哪個比較適合短期旅遊的人？
+    - q: 去立陶宛每天就是打卡傳照片查地圖，這樣5GB夠用嗎？還是吃到飽比較安心？
       a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。立陶宛5G使用n78頻段，全境覆蓋。Roami在立陶宛連上Telia的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
-    - q: 如果出發前忘記先辦好立陶宛eSIM的認證，到當地才弄來得及嗎？
+    - q: 去立陶宛用eSIM需要先通過身分驗證嗎？要準備哪些證件？
       a: 需要的。立陶宛預付卡需KYC認證，需提供護照。很多人不知道這規定，到了立陶宛機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。立陶宛5G使用n78頻段，全境覆蓋。另外Telia的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到立陶宛開數據漫遊就能直接用。不支援eSIM可租WiFi機。
-    - q: 在立陶宛的郊區或小鎮也能正常使用eSIM嗎？查地圖導航會不會斷？
+    - q: 離開立陶宛市區之後，eSIM的訊號會不會變得很差？
       a: 立陶宛的Telia等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。立陶宛5G使用n78頻段，全境覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
-    - q: 出國去立陶宛用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
-      a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到立陶宛開數據漫遊就用。
+    - q: 立陶宛eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
+      a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
 related_products:
   title: 類似 立陶宛 eSIM 的旅行方案
   items:
@@ -462,7 +462,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 與當地 SIM 卡在 立陶宛 哪個更省錢？"
+  title: "去Lithuania旅遊eSIM上網順暢嗎？速度與涵蓋完整評價"
   subtitle: "立陶宛當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (Lithuania) + 當地電信商官網"
@@ -475,7 +475,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "需在線下門市（如Maxima超市、加油站）購買，根據2025年1月生效的法律，必須完成護照影印及實名制註冊。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Lithuania. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開立陶宛門市排隊與繁瑣的護照登記，抵達前一分鐘線上啟用，無需像Ežys或Pildyk那樣耗時購買與註冊。"
     - icon: "id-card"

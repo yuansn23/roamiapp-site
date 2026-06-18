@@ -194,8 +194,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Best Unlimited eSIM Options for Your Guyana Trip"
-  desc: "Planning Guyana travel? Our eSIM guide covers one communications guyana esim, plans, and setup tips."
+  title: "How Fast is eSIM Internet in Guyana? Speeds and Coverage for Travelers"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Guyana. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -211,29 +211,29 @@ faq_section:
       a: |
         Roami's unlimited plan has a fair cap: 30GB per day, after which speed drops to 512 kbps until midnight. Most travelers use 500MB to 3GB daily — hitting 30GB means streaming 4K video for 10 hours straight. For regular browsing, maps, and social media, a 5GB or 10GB plan is plenty. Choose unlimited if you plan heavy streaming or hotspot sharing.
     - q: |
-        What happens if my Guyana eSIM stops working mid-trip?
+        What documents do I need to buy a Guyana eSIM from Roami?
       a: |
-        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+    - q: |
+        Can I keep my home SIM in my phone while using eSIM in Guyana?
+      a: |
+        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
     - q: |
         I'm arriving in Guyana late at night. Will I be able to get online immediately?
       a: |
         Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Digicel automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
     - q: |
-        How far in advance should I buy my Guyana eSIM?
+        Will my Guyana eSIM work as soon as I land, or is there an activation delay?
       a: |
-        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Guyana, so buying early doesn't waste your plan days.
+        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Digicel. No queues, no paperwork — you're online before you reach baggage claim.
     - q: |
         When does the validity period of my Guyana eSIM start?
       a: |
         The plan validity starts when you connect to a local network in Guyana, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
     - q: |
-        What happens if I use all my data in Guyana before my plan expires?
+        What do I do if my Guyana eSIM doesn't connect when I arrive?
       a: |
-        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
-    - q: |
-        How does eSIM compare to pocket WiFi for Guyana travel?
-      a: |
-        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
+        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Digicel in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
 related_products:
   title: Related Guyana eSIM Plans
   items:

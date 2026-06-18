@@ -1,6 +1,6 @@
 ---
 title: '日本 eSIM 2026: 旅行與網路 | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -371,33 +371,33 @@ activation_steps:
 
 
 faq_section:
-  title: 日本 eSIM 手機頻段相容性｜出國上網前檢查
-  desc: 整理了日本 eSIM的日本 Docomo SoftBank 比較、日本 SoftBank eSIM 比較、日本 esim 推薦 threads等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂日本上網。
+  title: 日本 eSIM 網速評測｜Docomo、SoftBank、AU 5G/4G速度對比
+  desc: 整理了日本 eSIM在日本 Docomo SoftBank 比較的網路覆蓋、Docomo電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 日本 eSIM 手機頻段相容性｜出國上網前檢查
+    title: 日本 eSIM 網速評測｜Docomo、SoftBank、AU 5G/4G速度對比
     questions:
-    - q: 日本eSIM的費用是怎麼算的？買斷還是月租？
+    - q: 日本eSIM的價格從多少到多少？有便宜的短期方案嗎？
       a: Roami 日本 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Docomo在日本市區5G網速約100-300Mbps，看1080p影片沒問題。如果去Klook查日本 eSIM，Roami通常便宜10-20%，因為沒有平台抽成。如果不確定用量可以先買小的，到日本後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
-    - q: 日本eSIM沒有附電話號碼會不會不方便？平常怎麼聯繫？
+    - q: 去日本用eSIM上網的話，原本的門號還能繼續收簡訊嗎？
       a: Roami 日本 eSIM是純數據方案，沒有附當地號碼。很多人擔心沒號碼不方便——其實叫車、訂餐廳用網路電話就行。在日本都會區用Docomo的5G打視訊，品質跟一般通話差不多。原門號可留在卡槽1繼續收簡訊（銀行驗證、社群通知不漏），eSIM在卡槽2負責上網。如需當地號碼可搭Google Voice或TextNow。iPhone XS以上、多數安卓旗艦支援雙卡雙待，設定數據走eSIM、通話走原門號即可。
     - q: 去日本玩辦eSIM，Roami會自動切換Docomo、SoftBank、AU的網路嗎？
       a: 日本主要有Docomo、SoftBank、AU。Docomo市區下載快、基地台密集。SoftBank郊區覆蓋廣，會去郊區的話選SoftBank路線較有保障。AU價格親民，適合預算有限的旅客。日本5G使用n77/n78/n257頻段，多數2020年後手機皆相容。不過Roami會自動切換到當前訊號最強的網路。市區用Docomo，移動到郊區若Docomo訊號變弱就自動跳SoftBank或AU，完全不用手動選。
     - q: 原生eSIM和國際eSIM在日本的訊號品質真的有差嗎？還是都走一樣的基地台？
       a: 原生卡直接跟當地電信商（如Docomo）買、Roami國際卡跟多家合作。訊號都走同一套基地台，品質沒差。Roami最低$1.99免綁約，且自動切換Docomo、SoftBank、AU的網路，市區郊區選最強。原生卡只能連一家。Roami有24小時中文客服。日本5G使用n77/n78/n257頻段，多數2020年後手機皆相容。短期旅遊選Roami更划算。
-    - q: 習慣在Klook上買旅遊票券，日本eSIM也在上面買跟官網買一樣嗎？
+    - q: 有人說官網買日本eSIM比Klook便宜差不多10%，這是真的嗎？
       a: 很多人上Klook比價日本 eSIM。主要差異：第一，Roami直銷無平台抽成，價格通常比Klook便宜10-20%。第二，Roami有24小時直接客服，不用透過Klook轉達。第三，Roami買斷制到期就停，不會續約扣款。日本5G使用n77/n78/n257頻段，多數2020年後手機皆相容。不過Klook可跟飯店票券合併結帳累積點數。不管哪買，在日本都是接取Docomo、SoftBank、AU的網路，訊號品質一樣。
     - q: 非日本當地購買的國際手機，用eSIM會不會有相容性問題？
       a: 最快方法：撥號*#06#，出現EID代表支援eSIM。iPhone XS以後、Samsung S20/Flip以後、Pixel 4以後、多數2020年後旗艦機都支援。日本5G使用n77/n78/n257頻段，多數2020年後手機皆相容。很多人忽略頻段問題——Docomo在日本的n77/n78/n257頻段可能跟你的手機不完全吻合。出發前到[Roami相容性頁面](/compatibility/)查型號。不支援eSIM可租WiFi機或買當地實體SIM卡。
     - q: 日本eSIM有那種不限速的吃到飽方案嗎？價格跟一般吃到飽差在哪裡？
       a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。日本5G使用n77/n78/n257頻段，多數2020年後手機皆相容。Roami在日本連上Docomo的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
-    - q: 有人說去日本辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
+    - q: 日本eSIM買了之後要驗證證件嗎？沒先辦好會不會到了不能用？
       a: 需要的。日本法規要求預付SIM卡需進行KYC實名認證，需提供護照掃描。很多人不知道這規定，到了日本機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。日本5G使用n77/n78/n257頻段，多數2020年後手機皆相容。另外Docomo的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到日本開數據漫遊就能直接用。不支援eSIM可租WiFi機。
-    - q: 如果旅館的WiFi速度很慢，可以用手機的eSIM開熱點給筆電上網嗎？
+    - q: 去日本買一份eSIM開熱點分享給旅伴一起用，這樣可行嗎？會不會被限制？
       a: Roami 日本 eSIM支援熱點分享。Docomo的網路開熱點分享給旅伴或筆電都可以。多人共用建議選10GB以上方案，每人每天約用500MB-1GB。如果不確定買多少，可以先選中階方案，不夠再用App加購。iPhone和Android都支援熱點分享功能。
-    - q: 搭車從日本市區移動到郊區的時候，eSIM網路會一直切換嗎？
+    - q: 日本主要市區和偏遠鄉村的網路覆蓋差距大嗎？
       a: 日本的Docomo等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。日本5G使用n77/n78/n257頻段，多數2020年後手機皆相容。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
 related_products:
   title: 類似 日本 eSIM 的旅行方案
@@ -465,7 +465,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 與實體 SIM 卡在 日本 的真正差異是什麼？"
+  title: "Japan eSIM 上網速度快嗎？旅行網路品質完整評測"
   subtitle: "日本當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (Japan) + 當地電信商官網"
@@ -478,7 +478,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "SoftBank 預付卡必須在上午 9:00 至晚上 9:00 (JST) 之間上傳護照照片或掃描件才能激活；MINEO SIM 需要一部日本本地號碼的電話撥打激活熱線，對剛抵達的遊客形成死循環。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Japan. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開 SoftBank 的 9:00-21:00 激活限制和 MINEO 對日本本地號碼的硬性需求，抵達日本後一分鐘內線上啟用 eSIM，無需排隊或尋找特定商店。"
     - icon: "id-card"

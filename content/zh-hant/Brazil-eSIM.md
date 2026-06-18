@@ -1,6 +1,6 @@
 ---
 title: '巴西 eSIM 2026: 連線與速度 | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -346,26 +346,26 @@ activation_steps:
       並開啟您的 Roami eSIM 巴西。幾秒鐘內，您的設備將自動連接到 Vivo / Claro 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 巴西 eSIM 方案推薦價格總整理｜流量怎麼選最划算
-  desc: 整理了巴西 eSIM的巴西 Vivo Claro 比較、巴西 5G eSIM 方案、巴西 Vivo 網路覆蓋等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂巴西上網。
+  title: 巴西 eSIM 網速與電信商介紹｜5G/4G涵蓋範圍
+  desc: 整理了巴西 eSIM在巴西 Vivo Claro 比較的網路覆蓋、Vivo電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 巴西 eSIM 方案推薦價格總整理｜流量怎麼選最划算
+    title: 巴西 eSIM 網速與電信商介紹｜5G/4G涵蓋範圍
     questions:
-    - q: 巴西eSIM的費用是怎麼算的？買斷還是月租？
+    - q: 準備去巴西long stay，eSIM方案買哪種比較划算？
       a: Roami 巴西 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Vivo在巴西市區5G網速約100-300Mbps，看1080p影片沒問題。去巴西機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到巴西後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
-    - q: 去巴西旅遊的話，Vivo、Claro、TIM這三家電信分別有什麼優缺點？
+    - q: 看到有人說巴西的Vivo在市區很快、Claro在郊區很廣，真的是這樣嗎？
       a: 巴西主要有Vivo、Claro、TIM。Vivo市區下載快、基地台密集。Claro郊區覆蓋廣，會去郊區的話選Claro路線較有保障。TIM價格親民，適合預算有限的旅客。巴西5G使用n78頻段，聖保羅及里約覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Vivo，移動到郊區若Vivo訊號變弱就自動跳Claro或TIM，完全不用手動選。
-    - q: 去巴西旅遊的話，辦eSIM吃到飽會不會太浪費？一般人一天大概用多少流量？
+    - q: 去巴西每天就是打卡傳照片查地圖，這樣5GB夠用嗎？還是吃到飽比較安心？
       a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。巴西5G使用n78頻段，聖保羅及里約覆蓋。Roami在巴西連上Vivo的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
-    - q: 去巴西辦eSIM的認證流程大概要多久？買完馬上就能用嗎？
+    - q: 巴西eSIM買了之後要驗證證件嗎？沒先辦好會不會到了不能用？
       a: 需要的。巴西預付卡需KYC認證，需提供護照。很多人不知道這規定，到了巴西機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。巴西5G使用n78頻段，聖保羅及里約覆蓋。另外Vivo的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到巴西開數據漫遊就能直接用。不支援eSIM可租WiFi機。
     - q: 搭車從巴西市區移動到郊區的時候，eSIM網路會一直切換嗎？
       a: 巴西的Vivo等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。巴西5G使用n78頻段，聖保羅及里約覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
-    - q: 出國去巴西用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
-      a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到巴西開數據漫遊就用。
+    - q: 跟旅伴一起去巴西，買一張eSIM開熱點分享夠兩個人用嗎？
+      a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
 related_products:
   title: 類似 巴西 eSIM 的旅行方案
   items:
@@ -432,7 +432,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 與實體 SIM 卡在 巴西 的啟用與設定比較"
+  title: "在Brazil用eSIM上網穩不穩？市區郊區分區評測"
   subtitle: "巴西當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (Brazil) + 當地電信商官網"
@@ -445,7 +445,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "在里約熱內盧的多家Vivo門店拒絕向無CPF的外國人出售SIM卡；TIM強制要求致電英文坐席口頭錄入護照資訊。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Brazil. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開Vivo門市拒售與TIM人工專線的繁瑣流程，Roami eSIM在出發前透過郵件發送QR碼，落地即啟用，無需與當地店員交涉。"
     - icon: "id-card"

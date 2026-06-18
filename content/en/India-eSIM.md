@@ -350,8 +350,8 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Affordable eSIM Options for India — Compare Plans & Prices"
-  desc: "Planning India travel? Our eSIM guide covers vodafone india esim, plans, and setup tips."
+  title: "Getting Online in India -- eSIM Network Quality and Speed Guide"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in India. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
@@ -359,37 +359,37 @@ faq_section:
     title: India eSIM FAQs
     questions:
     - q: |
-        Does Roami switch between Airtel, Jio, and Vi in India automatically?
+        How do Airtel, Jio, and Vi compare for a tourist visiting India?
       a: |
-        Yes — that's one of Roami's key advantages. As you move from cities to rural areas, your eSIM automatically switches to the carrier with the strongest signal at your location. Typically Airtel is fastest in urban centers (5G speeds of 100-300 Mbps), while Jio maintains better coverage in the countryside. India uses 5G on n78 band with coverage in major cities You never need to manually change networks.
+        In India, Airtel leads with the fastest urban 5G speeds (up to 1 Gbps in tests). Jio covers about 85% of the country including most rural areas. Vi is the budget option, often bundling data at lower per-GB rates. Tourists visiting cities get excellent service from all three. India uses 5G on n78 band with coverage in major cities Roami picks the best one automatically as you move around.
     - q: |
         Can I get an eSIM for India without spending too much?
       a: |
         Absolutely. Roami's India eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
     - q: |
-        How does Roami compare to Ubigi for eSIM in India?
+        How does Roami compare to Airalo for eSIM in India?
       a: |
-        Roami typically offers better value for India eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Ubigi. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Roami typically offers better value for India eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        Can I use my India eSIM for social media and sharing photos with family?
+        How do I know if my India eSIM plan is active and ready to use?
       a: |
-        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Airtel handle photos in seconds and short videos easily.
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in India — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
     - q: |
-        I'm arriving in India late at night. Will I be able to get online immediately?
+        What if I accidentally delete my India eSIM before my trip?
       a: |
-        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Airtel automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
+        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
     - q: |
         What's the easiest way to stay connected in India without dealing with airport SIM kiosks?
       a: |
         eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Airtel for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
     - q: |
-        What's the difference between a 5GB plan and an unlimited plan for India?
+        How many eSIM profiles can I store on my phone for traveling to India?
       a: |
-        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+        Most phones store 5-10 eSIM profiles. You can keep your India eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
     - q: |
-        I'm traveling to India for just 2-3 days. What eSIM should I get?
+        Does WhatsApp and FaceTime work with eSIM in India?
       a: |
-        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Airtel's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
 related_products:
   title: Related India eSIM Plans
   items:

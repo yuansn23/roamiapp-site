@@ -1,6 +1,6 @@
 ---
 title: '土耳其 eSIM 2026: 城市與覆蓋 | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -377,25 +377,25 @@ activation_steps:
       eSIM 土耳其。幾秒鐘內，您的設備將自動連接到 Turkcell / Vodafone 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 土耳其 eSIM 5G上網方案｜網速與電信商比較
-  desc: 整理了土耳其 eSIM的土耳其 Turkcell Vodafone 比較、土耳其 Turkcell 網路覆蓋、土耳其 esim turkcell等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂土耳其上網。
+  title: 土耳其 eSIM 網速評測｜Turkcell、Vodafone、TT 5G/4G速度對比
+  desc: 整理了土耳其 eSIM在土耳其 Turkcell Vodafone 比較的網路覆蓋、Turkcell電信商速度與5G/4G上網品質，幫助旅客選擇最適合的eSIM方案。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 土耳其 eSIM 5G上網方案｜網速與電信商比較
+    title: 土耳其 eSIM 網速評測｜Turkcell、Vodafone、TT 5G/4G速度對比
     questions:
-    - q: 去土耳其想辦eSIM但又怕買貴，大概多少預算才夠？
+    - q: 土耳其eSIM的費用是怎麼算的？買斷還是月租？
       a: Roami 土耳其 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Turkcell在土耳其市區5G網速約100-300Mbps，看1080p影片沒問題。去土耳其機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到土耳其後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
-    - q: 土耳其eSIM可以保號嗎？原本的門號要怎麼同時使用？
+    - q: 出國去土耳其想保留台灣手機號碼，eSIM要怎麼搭配使用？
       a: Roami 土耳其 eSIM是純數據方案，沒有附當地號碼。很多人擔心沒號碼不方便——其實叫車、訂餐廳用網路電話就行。在土耳其都會區用Turkcell的5G打視訊，品質跟一般通話差不多。原門號可留在卡槽1繼續收簡訊（銀行驗證、社群通知不漏），eSIM在卡槽2負責上網。如需當地號碼可搭Google Voice或TextNow。iPhone XS以上、多數安卓旗艦支援雙卡雙待，設定數據走eSIM、通話走原門號即可。
-    - q: 看到有人說土耳其的Turkcell在市區很快、Vodafone在郊區很廣，真的是這樣嗎？
+    - q: 土耳其三大電信Turkcell、Vodafone、TT，一般觀光客選哪家比較適合？
       a: 土耳其主要有Turkcell、Vodafone、TT。Turkcell市區下載快、基地台密集。Vodafone郊區覆蓋廣，會去郊區的話選Vodafone路線較有保障。TT價格親民，適合預算有限的旅客。土耳其5G使用n78頻段，主要城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Turkcell，移動到郊區若Turkcell訊號變弱就自動跳Vodafone或TT，完全不用手動選。
-    - q: 如果去土耳其會大量使用網路，是不是直接辦吃到飽比較省事？
+    - q: 土耳其eSIM的吃到飽和定量方案哪個比較適合短期旅遊的人？
       a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。土耳其5G使用n78頻段，主要城市覆蓋。Roami在土耳其連上Turkcell的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
-    - q: 有人說去土耳其辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
+    - q: 去土耳其辦eSIM的認證流程大概要多久？買完馬上就能用嗎？
       a: 需要的。土耳其法規要求預付SIM卡需KYC認證，需提供護照。很多人不知道這規定，到了土耳其機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。土耳其5G使用n78頻段，主要城市覆蓋。另外Turkcell的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到土耳其開數據漫遊就能直接用。不支援eSIM可租WiFi機。
-    - q: 搭車從土耳其市區移動到郊區的時候，eSIM網路會一直切換嗎？
+    - q: 土耳其主要市區和偏遠鄉村的網路覆蓋差距大嗎？
       a: 土耳其的Turkcell等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。土耳其5G使用n78頻段，主要城市覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
 related_products:
   title: 類似 土耳其 eSIM 的旅行方案
@@ -463,7 +463,7 @@ related_products:
 
 # =============== 100% 完整復原：基於數據的比較模組 ===============
 market_analysis:
-  title: "eSIM 與當地 SIM 卡在 土耳其 哪個更省錢？"
+  title: "Turkey eSIM 網路覆蓋怎麼樣？離城市多遠會沒訊號？"
   subtitle: "土耳其當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
   citation:
     text: "資料來源：Prepaid Data SIM Card Wiki (Turkey) + 當地電信商官網"
@@ -476,7 +476,7 @@ market_analysis:
     - icon: "store"
       title: "取得與啟用"
       prepaid_title: ""
-      prepaid_desc: "必須抵達後尋找門市（多為市區），持護照辦理，且 Vodafone 要求非拉丁護照持有者提供公證翻譯，整個激活耗時 30‑60 分鐘；機場門市價格更是抬高 3‑5 倍，不會土耳其語還需支付 ₺100 以上「額外翻譯服務費」。"
+      prepaid_desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Turkey. Find out what speeds to expect and where eSIM works best."
       esim_title: "即時數位配送"
       esim_desc: "避開 Turkcell 門市排隊與護照公證要求，抵達伊斯坦堡前一分鐘內線上啟用，節省 30-60 分鐘的激活時間與 ₺100 以上的翻譯費。"
     - icon: "id-card"

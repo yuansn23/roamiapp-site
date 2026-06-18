@@ -1,6 +1,6 @@
 ---
 title: 'Südkorea eSIM 2026: Verbindung & Geschwindigkeit | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -372,263 +372,47 @@ activation_steps:
       mit dem schnellsten verfügbaren 5G/4G-Netz von SK Telecom / KT Corporation. Sie können sofort navigieren, WhatsApp nutzen,
       soziale Medien checken oder einen Hotspot für andere Geräte einrichten – ohne Wartezeit, ohne Ausweis, ohne Vertrag.
     is_list: false
-faq_section1:
-  title: 'Südkorea eSIM Guide 2026: Reise- & Datenratgeber'
-  desc: Von Seoul bis Busan, bleiben Sie mit SK Telecom, KT Corporation, LG U+ verbunden. Unser kompletter Südkorea eSIM Guide
-    deckt Netzabdeckung, Tarife, Einrichtung und Reisetipps ab.
+faq_section:
+  title: "Kommt eSIM in South Korea ueberall gut an? Stadt- und Landabdeckung im Ueberblick"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in South Korea. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Allgemein
-    title: 1.  Allgemeine Fragen zu Südkorea eSIM
+    title: Südkorea eSIM FAQ
     questions:
-    - q: Unterstützt mein Smartphone die Südkorea eSIM und wie installiere ich sie?
-      a: Ja, die meisten modernen Smartphones (iPhone XS/XR oder neuer, Samsung Galaxy S20+/Note20+, Google Pixel 3a+) unterstützen
-        eSIM. Sie installieren die Südkorea eSIM, indem Sie den QR-Code in den Mobilfunkeinstellungen scannen. Die Netzwerke
-        von SK Telecom / KT Corporation bieten hervorragende 5G/4G-Abdeckung in Südkorea.
-    - q: Welche 5G/4G-Netzwerke nutzt die Südkorea eSIM und wie ist die Abdeckung?
-      a: Die Südkorea eSIM arbeitet exklusiv mit SK Telecom / KT Corporation zusammen. Sie erhalten automatisch das jeweils
-        beste verfügbare Netz (5G/4G/LTE) mit bester Abdeckung in Städten wie Berlin, München, Hamburg sowie auf dem Land
-        und entlang der Autobahnen.
-    - q: Kann ich meine bestehende Telefonnummer behalten, wenn ich die Südkorea eSIM nutze?
-      a: 'Die Roami eSIM ist eine reine Daten‑eSIM. Sie können Ihre heimische SIM parallel nutzen (z.B. für Anrufe/SMS). Die
-        meisten Dual‑SIM‑Handys verwalten beide Profile: Wählen Sie einfach die Roami eSIM als Standard für mobile Daten.'
-    - q: Kann ich die Südkorea eSIM vor meiner Abreise installieren und später aktivieren?
-      a: Ja, Sie können die eSIM bereits zu Hause (per WLAN) installieren. Die Aktivierung erfolgt dann automatisch, sobald
-        Ihr Telefon in Südkorea das erste Mal das Netz von SK Telecom / KT Corporation erkennt. So vermeiden Sie jeglichen
-        Stress bei der Landung.
-    - q: Wie kann ich meinen Datenverbrauch mit der Südkorea eSIM überwachen?
-      a: Nach der Aktivierung haben Sie Zugriff auf unser Online‑Dashboard. Dort sehen Sie in Echtzeit Ihren verbleibenden
-        Datenverbrauch, die Restlaufzeit und können bei Bedarf Support anfordern – jederzeit und überall.
-    - q: Wie funktioniert das internationale Roaming mit der Südkorea eSIM in Nachbarländern?
-      a: Die Südkorea eSIM ist primär für Südkorea optimiert. Für Reisen in EU‑Nachbarländer empfehlen wir unsere Europa‑eSIM,
-        die nahtloses Roaming ohne zusätzliche Kosten bietet. Die reine Land‑eSIM funktioniert nicht zuverlässig außerhalb
-        von Südkorea.
-    - q: Kann ich die Südkorea eSIM als Hotspot mit anderen Geräten teilen?
-      a: Ja, alle Roami eSIM-Tarife für Südkorea erlauben unbegrenztes Tethering (Hotspot). Sie können Ihre Datenverbindung
-        mit Laptop, Tablet oder Reisebegleitern teilen – ohne versteckte Kosten oder Geschwindigkeitsdrosselung.
-    - q: Kann ich während der Nutzung der Südkorea eSIM weiterhin Anrufe auf meiner heimischen SIM empfangen?
-      a: Ja, Dual‑SIM‑Geräte erlauben die gleichzeitige Nutzung beider Profile. Stellen Sie einfach in den Einstellungen die
-        Roami eSIM als Standard für mobile Daten ein. Anrufe und SMS laufen weiter über Ihre Heim‑SIM (Roaming kann aktiv
-        bleiben).
-    - q: Unterstützt die Südkorea eSIM VoLTE und HD-Sprachanrufe?
-      a: Ja, die Südkorea eSIM unterstützt VoLTE und HD‑Sprache, sofern Ihr Gerät dies zulässt. Genießen Sie gestochen scharfe
-        Anrufqualität über das 5G/4G‑Netz von SK Telecom / KT Corporation.
-    - q: Bietet Roami unbegrenzte Datentarife für Südkorea an? Gibt es eine Fair‑Use‑Policy?
-      a: Roami bietet echte unbegrenzte Datentarife für Südkorea. Eine Fair‑Use‑Policy gilt nur bei extremer Nutzung (z.B.
-        dauerhaftes 4K‑Streaming über mehrere Tage). Normales Surfen, Social Media, Videoanrufe und Navigation sind nicht
-        betroffen.
-  - id: faq-airport
-    icon: plane
-    tab_title: Flughäfen
-    title: 2.  Südkorea eSIM am Flughafen
-    questions:
-    - q: Kann ich meine Südkorea eSIM sofort nach der Landung aktivieren?
-      a: Ja, Sie koennen Ihre Südkorea eSIM direkt nach der Landung aktivieren. Nutzen Sie das kostenlose WLAN am Flughafen,
-        scannen Sie Ihren QR-Code aus der E-Mail und Sie sind in unter 2 Minuten online. Wir empfehlen, die eSIM bereits vor
-        der Abreise zu installieren.
-    - q: Wie kontaktiere ich meinen Abholer oder nutze Uber/Grab?
-      a: Nach der Aktivierung bei der Landung können Sie sofort Apps wie Kakao T, Naver Map, Seoul Subway nutzen, um eine
-        Fahrt zu buchen, oder WhatsApp verwenden, um Ihren Fahrer zu kontaktieren, ohne auf unsicheres Flughafen-WLAN angewiesen
-        zu sein.
-    - q: Wie nutze ich Google Maps/Apple Maps, um Transportmittel zu finden?
-      a: Mit Ihren Südkorea eSIM-Daten können Sie direkt an der Gepäckausgabe in Flughafen Incheon (ICN), Flughafen Gimpo
-        (GMP), Flughafen Gimhae (PUS) Echtzeit-Fahrpläne für Züge und Busse prüfen oder den Weg zum Taxistand finden.
-    - q: Wie vermeide ich teure SIM-Karten am Flughafen?
-      a: Indem Sie unsere Südkorea eSIM vorab online kaufen, umgehen Sie die teuren SIM-Kioske in der Ankunftshalle komplett
-        und sparen Zeit und Geld.
-    - q: Wie empfange ich SMS von Hotel/Autovermietung ohne lokale Nummer?
-      a: Unsere Südkorea eSIM ist ein reiner Datentarif. Um SMS zu empfangen, lassen Sie Ihre heimische SIM-Karte aktiviert
-        (SMS-Empfang ist oft kostenlos im Roaming) und nutzen Sie die eSIM für den gesamten Datenverkehr.
-    - q: Wie kontaktiere ich sofort meine Familie?
-      a: Sobald Sie landen, können Sie iMessage, WhatsApp oder FaceTime über unsere schnellen Südkorea eSIM-Daten nutzen,
-        um Ihren Lieben mitzuteilen, dass Sie sicher angekommen sind.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3.  Südkorea eSIM fuer Transport & Reisen
-    questions:
-    - q: Kann ich Südkorea eSIM fuer Ride-Hailing und Navigation nutzen?
-      a: Ja, die Südkorea eSIM funktioniert mit Ride-Hailing-Apps und Google Maps. Ein 5GB/15-Tage-Tarif reicht fuer die taegliche
-        Navigation und Ride-Buchung. Die 4G/5G-Verbindung sorgt fuer zuverlaessige Routenfuehrung.
-    - q: Wie können mich Uber/Grab-Fahrer über die App kontaktieren?
-      a: Apps wie Kakao T, Naver Map, Seoul Subway nutzen VoIP. Da Sie aktive Südkorea eSIM-Daten haben, können Fahrer Sie
-        direkt über die App anrufen oder benachrichtigen, ohne eine lokale Nummer.
-    - q: Wie kaufe ich Zug- oder U-Bahn-Tickets online?
-      a: Nutzen Sie Ihre Südkorea eSIM-Daten, um in lokalen Apps digitale QR-Code-Tickets zu kaufen und lange Schlangen an
-        Automaten zu vermeiden.
-    - q: Wie nutze ich Google Maps für Echtzeit-Navigation im Mietwagen?
-      a: Befestigen Sie Ihr Telefon und nutzen Sie Ihre Südkorea eSIM. Ein 5GB- oder 10GB-Tarif reicht für eine umfangreiche
-        GPS-Navigation während eines Roadtrips in Südkorea.
-    - q: Wie scanne und entsperre ich E-Scooter (Lime/Bird)?
-      a: Das Entsperren von E-Scootern erfordert eine schnelle Internetverbindung. Unsere Südkorea eSIM bietet die dafür nötige
-        zuverlässige Abdeckung.
-    - q: Funktionieren Fahrdienst-Apps länderübergreifend?
-      a: Ja, Ihr Konto bleibt gleich. Stellen Sie nur sicher, dass Sie über unsere lokale oder regionale eSIM eine aktive
-        Internetverbindung haben.
-    - q: Wie biete ich einen stabilen Hotspot für meine Familie?
-      a: Aktivieren Sie einfach den 'Persönlichen Hotspot' in Ihren Einstellungen. Ihre Familie kann sich mit Ihrem Südkorea
-        eSIM-Netzwerk im Zug oder Auto verbinden.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4.  Südkorea eSIM fuer Hotels
-    questions:
-    - q: Wie mache ich einen Self-Check-in nach Buchung?
-      a: Viele moderne Unterkünfte senden Smart-Lock-Codes per E-Mail. Ihre Südkorea eSIM stellt sicher, dass Sie diese Details
-        direkt vor der Haustür abrufen können.
-    - q: Wie kontaktiere ich meinen Airbnb-Gastgeber bei Ankunft?
-      a: Nutzen Sie die Messaging-Funktion der Airbnb-App oder WhatsApp, um Ihre Ankunftszeit mit Ihrem Gastgeber über mobile
-        Südkorea eSIM-Daten abzustimmen.
-    - q: Wie nutze ich Google Maps, um zum Hotel zu navigieren?
-      a: Egal ob Sie in Signiel Seoul (Lotte), Park Hyatt Busan, Four Seasons Hotel Seoul übernachten, geben Sie die Adresse
-        in Google Maps ein und nutzen Sie die Navigation Ihrer Südkorea eSIM.
-    - q: Wie empfange ich SMS-Verifizierungscodes?
-      a: Lassen Sie Ihre heimische SIM für SMS aktiv und nutzen Sie Ihre Südkorea eSIM-Daten, um Codes per E-Mail oder Authenticator-App
-        zu empfangen.
-    - q: Wie kontaktiere ich schnell den Kundenservice?
-      a: Nutzen Sie VoIP-Apps wie Skype oder die Chat-Funktion der Buchungs-App über Ihre Hochgeschwindigkeits-Südkorea eSIM-Daten.
-    - q: Wie bestelle ich Essen mit lokalen Liefer-Apps?
-      a: Laden Sie Baedaltong, Yogiyo, Coupang Eats herunter und nutzen Sie Ihre Südkorea eSIM-Daten, um eine warme Mahlzeit
-        direkt in die Hotellobby zu bestellen.
-    - q: Wie bleibe ich nach dem Checkout mit dem Hotel in Kontakt?
-      a: Sobald Sie das Hotel-WLAN verlassen, übernimmt Ihre Südkorea eSIM, sodass Sie dem Hotel schreiben können, falls Sie
-        etwas vergessen haben.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attraktionen
-    title: 5.  Südkorea eSIM fuer Sehenswuerdigkeiten
-    questions:
-    - q: Habe ich Datenabdeckung an den Sehenswuerdigkeiten in Südkorea?
-      a: Wichtige Sehenswuerdigkeiten haben in der Regel gute 4G/5G-Abdeckung in Südkorea. In abgelegenen Gebieten kann das
-        Signal schwach sein. Laden Sie vor dem Besuch Offline-Karten herunter. Ein 5GB-Tarif reicht fuer Fotos, Karten und
-        soziale Medien.
-    - q: Wie buche ich Erlebnisse bei Tripadvisor sofort?
-      a: Mit dem zuverlässigen 4G/5G Ihrer Südkorea eSIM können Sie Bewertungen lesen und lokale Touren buchen, während Sie
-        in einem Café sitzen.
-    - q: Wie nutze ich Wikipedia/Google für Informationen während des Besuchs?
-      a: Erweitern Sie Ihr kulturelles Erlebnis, indem Sie historische Fakten googeln oder Museumstafeln übersetzen, während
-        Sie Südkorea erkunden.
-    - q: Wie finde ich den Weg zur nächsten Sehenswürdigkeit?
-      a: Geben Sie Ihr nächstes Ziel in Google Maps ein; die starke Abdeckung Ihrer Südkorea eSIM führt Sie über die schnellste
-        Route.
-    - q: Wie prüfe ich Echtzeit-Wartezeiten in Freizeitparks?
-      a: Freizeitpark-Apps benötigen Internet für Live-Wartezeiten. Ihre Südkorea eSIM hält Sie im gesamten Park online.
-    - q: Wie greife ich auf Ticketmaster für Show-Tickets zu?
-      a: Sie können sicher Last-Minute-Theaterkarten über Ticketing-Apps mit Ihren Südkorea eSIM-Daten kaufen.
-    - q: Wie teile ich Fotos/Videos sofort auf Instagram/TikTok?
-      a: Unsere schnellen Südkorea eSIM-Upload-Geschwindigkeiten ermöglichen es Ihnen, Reels und Fotos in Echtzeit zu posten,
-        ohne auf Hotel-WLAN zu warten.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Gastronomie
-    title: 6. Essen & Restaurants
-    questions:
-    - q: Wie finde ich Restaurants mit Google Maps/Tripadvisor?
-      a: Suchen Sie mit Ihrer Südkorea eSIM nach 'Restaurants in der Nähe', um Bewertungen, Öffnungszeiten und Menüfotos zu
-        prüfen.
-    - q: Wie reserviere ich Tische online?
-      a: Sichern Sie sich eine Reservierung über Online-Plattformen mit Ihrer Südkorea eSIM, während Sie unterwegs sind.
-    - q: Wie scanne ich QR-Codes für digitale Menüs?
-      a: Viele Restaurants nutzen digitale Menüs. Ihre Südkorea eSIM stellt sicher, dass der Code auf dem Tisch sofort geladen
-        wird.
-    - q: Wie nutze ich die Google Translate Kamera für Speisekarten?
-      a: Öffnen Sie die App und richten Sie die Kamera auf das Menü. Die Live-Übersetzung benötigt eine Internetverbindung
-        über Ihre Südkorea eSIM.
-    - q: Wie nutze ich lokale Lieferdienste?
-      a: Laden Sie lokale Apps wie Baedaltong, Yogiyo, Coupang Eats herunter und bestellen Sie bequem über Ihre Südkorea eSIM-Mobildaten.
-    - q: Wie bezahle ich mit Apple Pay/Google Pay?
-      a: Kontaktlose Zahlungen oder lokale Methoden wie Kreditkarte (Visa/Mastercard), T-money Karte, Kakao Pay erfordern
-        einen kurzen Internet-Handshake, den Ihre Südkorea eSIM perfekt meistert.
-    - q: Wie finde ich Geheimtipps von Food-Bloggern?
-      a: Streamen Sie YouTube-Vlogs oder stöbern Sie in Yelp-Bewertungen mit Ihrer Südkorea eSIM, um kulinarische Highlights
-        zu entdecken.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 7.  Südkorea eSIM fuer Soziale Medien
-    questions:
-    - q: Wie viel Datenvolumen brauche ich fuer Südkorea?
-      a: Leichte Nutzer (Karten + Messaging) ~300MB/Tag, moderate Nutzer (soziale Medien + Fotos) ~700MB/Tag, Vielnutzer (Streaming
-        + Videoanrufe) waehlen Unlimited. Die meisten Reisenden finden 5GB/15 Tage fuer eine Standardreise nach Südkorea ausreichend.
-    - q: Wie lade ich Inhalte auf TikTok hoch, ohne öffentliches WLAN?
-      a: Öffentliches WLAN ist oft langsam und unsicher. Unsere 4G/5G Südkorea eSIM bietet die Bandbreite für schnelle Uploads.
-    - q: Wie mache ich Videoanrufe mit meiner Familie?
-      a: Unsere Netzwerkpartnerschaften garantieren, dass Videoanrufe über die Südkorea eSIM klar und verzögerungsfrei sind,
-        wo immer Sie sich im Land befinden.
-    - q: Ist es sicher, sich in öffentlichen WLANs in soziale Accounts einzuloggen?
-      a: Öffentliches WLAN ist anfällig für Hacker. Die Nutzung Ihrer persönlichen Südkorea eSIM-Daten ist verschlüsselt und
-        wesentlich sicherer.
-    - q: Wie teile ich das Netzwerk als Hotspot mit Reisebegleitern?
-      a: Aktivieren Sie die Hotspot-Funktion. Ihre Freunde können sich verbinden und Ihr Südkorea eSIM-Datenvolumen für ihre
-        sozialen Medien nutzen.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Grenzüberschreitend
-    title: 8.  Südkorea eSIM fuer Transport & Reisen
-    questions:
-    - q: Brauche ich für jedes Land eine neue SIM-Karte?
-      a: Die Einzelland-Südkorea eSIM funktioniert nur dort. Für Reisen durch mehrere Länder empfehlen wir unsere Regionale
-        eSIM (z.B. Europa eSIM).
-    - q: Wie vermeide ich Roaminggebühren bei Zugfahrten über Grenzen?
-      a: Deaktivieren Sie 'Daten-Roaming' auf Ihrer Heim-SIM. Stellen Sie sicher, dass die Südkorea eSIM als primäre Datenleitung
-        eingestellt ist.
-    - q: Wie bekomme ich Internet während Zwischenstopps in Singapur/Dubai?
-      a: Sie können eine günstige 1GB eSIM für das Transitland kaufen, um während des Layovers online zu bleiben.
-    - q: Wie bekomme ich Internet auf Kreuzfahrten?
-      a: Statt teures Schiffs-WLAN zu zahlen, aktivieren Sie eine lokale eSIM für die Länder, die Sie anlaufen. Sie verbindet
-        sich, sobald Sie Landnähe haben.
-    - q: Wie bleibt Google Maps bei Roadtrips online?
-      a: Mit einer Regional-eSIM wechselt Ihr Telefon automatisch zum Netz des neuen Landes, wenn Sie die Grenze überqueren,
-        und hält Ihr GPS aktiv.
-    - q: Wie verwalte ich Daten für mehrere Länder in einer App?
-      a: Sie können Ihren Datenverbrauch für alle aktiven eSIMs direkt über unser Benutzer-Dashboard auf der Website verfolgen.
-    - q: Wie bleibe ich bei Reisen durch mehrere Länder erreichbar?
-      a: Da WhatsApp/iMessage über Daten laufen, stellt eine Regional-eSIM sicher, dass Sie immer unter derselben Nummer erreichbar
-        bleiben.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Notfälle
-    title: 9. Notfälle
-    questions:
-    - q: Kann ich WhatsApp, FaceTime und WeChat mit Südkorea eSIM nutzen?
-      a: Ja! Die Südkorea eSIM unterstuetzt WhatsApp Audio-/Videoanrufe, FaceTime, WeChat und Zoom ohne Einschraenkungen.
-        Sie koennen mit Familie und Freunden ueber Ihre bevorzugten Messaging-Apps in Kontakt bleiben.
-    - q: Wie finde ich das nächste Krankenhaus?
-      a: Ihre Südkorea eSIM-Daten ermöglichen eine sofortige Suche auf Google Maps nach 'Apotheke' oder 'Krankenhaus' mit
-        der schnellsten Route.
-    - q: Wie finde ich Botschaftsinformationen bei Passverlust?
-      a: Nutzen Sie Ihre Südkorea eSIM, um schnell Adresse und Notfallkontakt Ihrer Botschaft zu finden.
-    - q: Wie kontaktiere ich die Reiseversicherung bei einem Unfall?
-      a: Nutzen Sie VoIP-Apps wie Skype über Ihre Südkorea eSIM-Daten, um die Hotlines Ihrer Versicherung anzurufen.
-    - q: Wie teile ich meinen Standort in Echtzeit?
-      a: Nutzen Sie 'Live-Standort teilen' in WhatsApp oder Apples 'Wo ist?', um Ihre Koordinaten über Südkorea eSIM-Daten
-        zu senden.
-    - q: Wie lade ich Offline-Karten für abgelegene Gebiete?
-      a: Nutzen Sie Ihre Stadt-Abdeckung der Südkorea eSIM, um Offline-Karten in Google Maps zu laden, bevor Sie in Gebiete
-        ohne Signal reisen.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 10.  Südkorea eSIM fuer Geschaeftsreisende
-    questions:
-    - q: Wie garantiere ich stabile Zoom/Teams-Meetings?
-      a: Unsere Südkorea eSIM verbindet sich mit Premium-Netzen und bietet die Bandbreite und geringe Latenz für professionelle
-        Videokonferenzen.
-    - q: Wie verbinde ich mich sicher mit dem Firmen-VPN?
-      a: Unsere Daten beschränken keine VPN-Protokolle. Sie können Ihr Firmen-VPN sicher über das Südkorea eSIM-Netzwerk starten.
-    - q: Wie nutze ich den Hotspot für Laptops in Cafés?
-      a: Aktivieren Sie den Hotspot. Die Nutzung Ihrer Südkorea eSIM ist deutlich schneller und sicherer vor Cyber-Bedrohungen
-        als offene WLANs.
-    - q: Wie empfange ich 2FA-Codes für Firmen-E-Mails?
-      a: Lassen Sie Ihre heimische SIM für SMS aktiv und nutzen Sie die Südkorea eSIM-Daten für E-Mail-basierte Codes.
-    - q: Wie lade ich große Dateien bei Kundenbesuchen hoch?
-      a: Mit 5G/4G-LTE-Geschwindigkeiten Ihrer Südkorea eSIM können Sie Präsentationen schnell in Cloud-Dienste hochladen.
-    - q: Wie nutze ich Slack/Gmail nahtlos für die Zusammenarbeit?
-      a: Ihre Südkorea eSIM bietet konstante Verbindung, sodass Sie Slack-Nachrichten und E-Mails sofort erhalten.
-    - q: Wie aktualisiere ich Reisepläne für die Firma online?
-      a: Greifen Sie über Ihre Südkorea eSIM von unterwegs auf Firmenportale zu, um die Personalabteilung über Flugverspätungen
-        zu informieren.
+    - q: |
+        Gibt es große Unterschiede zwischen SK Telecom, KT und LGU+ für eSIM in Südkorea?
+      a: |
+        Ja — SK Telecom ist am schnellsten in Städten (5G bis zu 1 Gbit/s). KT deckt etwa 85% des Landes ab, auch ländliche Gebiete. LGU+ ist die günstigste Option mit niedrigeren Preisen pro GB. Südkorea nutzt 5G auf n78-Band. Eines der schnellsten 5 Roami wählt automatisch das beste Netz für Sie aus.
+    - q: |
+        Ist eine eSIM für Südkorea günstiger als eine SIM-Karte am Flughafen?
+      a: |
+        Ja — Roami eSIM ist 30-50% günstiger als Flughafen-SIM-Karten und viel bequemer. Die Preise starten bei $1.99 für 7 Tage. Keine Warteschlangen, kein Austausch der SIM-Karte. Einfach online kaufen, QR-Code per Email erhalten und in 2 Minuten installieren.
+    - q: |
+        Welche Zahlungsmethoden werden für eSIM in Südkorea akzeptiert?
+      a: |
+        Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Roami akzeptiert Visa, Mastercard, PayPal, Apple Pay und Google Pay. Tarife starten ab .99 für 1GB/7 Tage. 
+    - q: |
+        Kann ich WhatsApp und FaceTime mit eSIM in Südkorea nutzen?
+      a: |
+        Ja — alle datenbasierten Apps funktionieren ohne Einschränkungen. Ein 5GB Tarif reicht für etwa 500 Stunden WhatsApp-Audio oder 10 Stunden FaceTime-Video. Ein 30-minütiges Zoom-Meeting verbraucht etwa 150-300MB. SK Telecoms Netz in Südkorea liefert stabile Verbindungen für Videoanrufe.
+    - q: |
+        Kann ich meine heimische SIM-Karte behalten, während ich eSIM in Südkorea nutze?
+      a: |
+        Ja — Ihre heimische SIM bleibt in Slot 1 für SMS (Bankcodes, 2FA-Logins). Die eSIM übernimmt die Daten in Slot 2. Deaktivieren Sie Daten-Roaming auf Ihrer heimischen SIM, um Roaming-Gebühren von bis zu $10-15 pro MB zu vermeiden. Über 80% der Handys ab 2020 unterstützen diese Dual-SIM-Konfiguration.
+    - q: |
+        Welcher eSIM Tarif ist für Reisende nach Südkorea am beliebtesten?
+      a: |
+        Die meisten Reisenden nach Südkorea wählen den 5GB/15 Tage Tarif ($9.99). Er reicht für Navigation, soziale Medien und Messaging — etwa 300-500MB pro Tag. Für längere Aufenthalte oder intensivere Nutzung empfehlen wir 10GB ($14.99) oder den unbegrenzten Tarif ($59.99). Flughafen-SIM-Karten kosten 30-50% mehr und erfordern Wartezeiten.
+    - q: |
+        Bekomme ich nach dem Kauf meiner Südkorea eSIM eine Bestätigung?
+      a: |
+        Ja — der QR-Code kommt innerhalb von 5 Minuten per E-Mail zugestellt. Die E-Mail enthält auch eine Installationsanleitung. Prüfen Sie ggf. Ihren Spam-Ordner.
+    - q: |
+        Wann beginnt die Gültigkeitsdauer meiner Südkorea eSIM?
+      a: |
+        Die Gültigkeit beginnt, wenn Sie sich in Südkorea mit dem Netz verbinden — nicht beim Kauf oder bei der Installation. Sie können bis zu 30 Tage vor Ihrer Reise kaufen und installieren, ohne dass die Gültigkeit vorzeitig beginnt. Ein 7-Tage-Tarif gibt Ihnen 7 volle Tage ab der ersten Verbindung. Ein 30-Tage-Tarif kostet ab $59.99 für unbegrenztes Datenvolumen.
 related_products:
   title: Ähnliche eSIM-Tarife
   items:
@@ -693,88 +477,4 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'South-Korea eSIM vs. Prepaid-SIM: Welche ist die richtige für Sie?'
-  subtitle: Lokale Prepaid-SIMs in Nordkorea vs. eSIM-Lösungen (2024/2025 Benchmark)
-  citation:
-    text: 'Datenquelle: Prepaid Data SIM Card Wiki (South-Korea) + Webseiten lokaler Anbieter'
-    url: https://prepaid-data-sim-card.fandom.com/wiki/South-Korea
-  table_headers:
-  - Vergleichsmatrix
-  - Lokale Prepaid-SIM (Marktdaten)
-  - Roami South-Korea eSIM
-  table_rows:
-  - icon: store
-    title: Erwerb &<br>Aktivierung
-    prepaid_title: ''
-    prepaid_desc: Nur im Flughafen Pjöngjang (während Flugankünften) oder im Hotel Pothonggang erhältlich; Aktivierung kann
-      bis zu 48 Stunden dauern.
-    esim_title: Sofortige digitale Lieferung
-    esim_desc: Umgehen Sie die langen Wartezeiten am Koryolink-Schalter. Aktivieren Sie Ihre eSIM online innerhalb von 1 Minute
-      vor Ihrer Reise.
-  - icon: id-card
-    title: KYC & Realnamen-<br>Registrierung
-    prepaid_title: ''
-    prepaid_desc: Bei Kauf ist eine Passregistrierung erforderlich; alle elektronischen Geräte müssen bei der Einreise angemeldet
-      werden.
-    esim_title: Keine Passregistrierung nötig
-    esim_desc: Keine Vorlage Ihres Passes oder Geräteprüfung erforderlich. Starten Sie sofort nach der Landung.
-  - icon: globe
-    title: Internationales<br>Roaming
-    prepaid_title: ''
-    prepaid_desc: Koryolink hat keine internationalen Roaming-Vereinbarungen; die SIM-Karte ist außerhalb Nordkoreas sofort
-      nutzlos.
-    esim_title: Weltweites Roaming möglich
-    esim_desc: Im Gegensatz zu Koryolink (kein Roaming) können Sie mit eSIM in über 190 Ländern nahtlos verbunden bleiben.
-  - icon: calendar-xmark
-    title: Abrechnungszyklus &<br>verschwendete Kosten
-    prepaid_title: ''
-    prepaid_desc: Registrierungsgebühr von 200 US-Dollar für 50 MB Daten; SIM-Karte ist nur für die Dauer des Visums gültig.
-    esim_title: Flexible Tarife ohne Mindestlaufzeit
-    esim_desc: Vermeiden Sie die 200-Dollar-Registrierungsgebühr für nur 50 MB. Roami bietet 7-Tage-Tarife ab 1,99 $/GB.
-  - icon: wifi
-    title: Hotspot &<br>Geschwindigkeitsrichtlinien
-    prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension.
-    esim_title: Uneingeschränktes Tethering
-    esim_desc: Teilen Sie Ihr Datenvolumen mit anderen Geräten ohne zusätzliche Kosten oder Drosselung.
-  - icon: credit-card
-    title: Aufladung & Zahlung
-    prepaid_title: ''
-    prepaid_desc: Nur Barzahlung oder lokale Narae-Karte; internationale Kreditkarten werden nicht akzeptiert.
-    esim_title: Weltweite Zahlungsmethoden
-    esim_desc: Bezahlen Sie bequem mit Visa, Mastercard, Apple Pay, Google Pay oder PayPal – keine Bargeld- oder Narae-Karte
-      nötig.
-  - icon: headset
-    title: Kundensupport
-    prepaid_title: ''
-    prepaid_desc: Keine spezifischen Daten in der Quelle für diese Dimension.
-    esim_title: 24/7 Kundensupport
-    esim_desc: Unser mehrsprachiger Support ist rund um die Uhr per Chat oder E-Mail erreichbar – kein Warten auf Öffnungszeiten.
-  expert_verdict:
-    title: 'South-Korea eSIM vs. Prepaid-SIM: Intelligenter reisen mit besserer Konnektivität'
-    cards:
-    - icon: wifi
-      icon_bg: bg-teal-100
-      icon_color: text-teal-600
-      title: Unterstützt Hotspot und Tethering
-      desc: Während lokale SIMs oft Einschränkungen haben, erlaubt die eSIM uneingeschränktes Tethering – teilen Sie Ihr Datenvolumen
-        mit Laptop oder Tablet.
-    - icon: passport
-      icon_bg: bg-blue-100
-      icon_color: text-blue-600
-      title: Umgehen Sie Nordkoreas strenge SIM-Passanforderungen
-      desc: Koryolink verlangt eine Passregistrierung und Geräteprüfung bei der Einreise. Mit einer eSIM entfällt dieser bürokratische
-        Aufwand komplett.
-    - icon: hourglass-empty
-      icon_bg: bg-amber-100
-      icon_color: text-amber-600
-      title: Vermeiden Sie die 200-Dollar-Falle
-      desc: Koryolinks <b>200-Dollar-Registrierungsgebühr</b> für nur <b>50 MB</b> ist extrem teuer. eSIM-Tarife beginnen
-        bei <b>1,99 $/GB</b> ohne Fixkosten.
-    - icon: globe
-      icon_bg: bg-indigo-100
-      icon_color: text-indigo-600
-      title: 'Mehr als nur 3G: Bessere Netzabdeckung'
-      desc: Koryolink bietet nur <b>3G</b> mit tatsächlicher Abdeckung von <b>14%</b> der Landesfläche. eSIMs nutzen lokale
-        4G/5G-Netze, sofern verfügbar.
 ---

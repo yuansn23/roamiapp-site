@@ -1,6 +1,6 @@
 ---
 title: 東南亞 eSIM 數據方案 | 最佳 2026 旅遊 eSIM | Roami
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
