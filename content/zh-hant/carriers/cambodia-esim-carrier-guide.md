@@ -1,7 +1,8 @@
 ---
-title: "柬埔寨 eSIM 電信方案比較 | Cellcard/Smart/Metfone 5G上網推薦"
-description: "比較柬埔寨三大電信Cellcard、Smart、Metfone的5G上網方案價格與覆蓋。Roami整理柬埔寨eSIM業者資訊，幫助您選擇最適合旅行上網的方案，最低$1.99起。"
-date: "2026-06-17T10:05:33+00:00"
+title: "去柬埔寨玩需要網路？一篇看懂 eSIM 怎麼挑最適合。"
+description: "想找最好的柬埔寨 eSIM？Roami 實際比較 Smart 和 Cellcard 的 5G 涵蓋範圍與網速表現，讓您在柬埔寨旅遊時隨時保持順暢連線。"
+date: "2026-06-17T06:15:09+00:00"
+
 keywords: "eSIM 柬埔寨，預付數據，5G 網路，Smart，Cellcard，MekongNet，數位遊牧，旅遊指南"
 site_name: "Roami"
 brand_name: "Roami"
@@ -47,7 +48,6 @@ sidebar_links:
   - href: "#data-sources"
     text: "數據來源"
 
-
 # 快速決策表格
 quick_picks_title: "快速選擇：柬埔寨 該選哪家 eSIM 營運商？"
 quick_picks_table_headers:
@@ -82,7 +82,6 @@ quick_picks:
     carrier_class: "text-green-600"
     reason: "Smart 擁有最低延遲 37 ms 與最高上傳速度 12.04 Mbps，確保視訊會議與大檔案傳輸順暢。"
 
-
 # 主要按鈕文案
 cta_button_main_text: "查看 柬埔寨 最優惠旅行 eSIM"
 cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
@@ -114,7 +113,6 @@ operators:
     user_scenarios: "- **【金邊皇宮】**：在觀光景點串流歷史解說影片，Cellcard 的影片體驗讓您享受高畫質不緩衝。\n- **【馬德望竹火車】**：在移動中觀看旅遊 Vlog，Cellcard 提供穩定的串流品質。\n- **【貢布河畔】**：在河邊咖啡廳觀看 Netflix，Cellcard 的影片串流分數確保流暢播放。"
     bg_color: "bg-blue-50"
 
-
 # 三張卡片
 cards_compatibility_title: "檢查 柬埔寨 eSIM 相容性清單"
 cards_compatibility_desc: "了解您的手機是否支援 柬埔寨 eSIM 與當地 5G 頻段"
@@ -145,7 +143,6 @@ before_buy_sections:
 
   - heading: "5. eSIM 啟用與技術支援"
     content: "Roami 提供 24/7 線上客服，協助您解決啟用問題。eSIM 可於出發前在家中安裝，抵達柬埔寨後掃描 QR code 即可啟用。若裝置不支援 eSIM，可考慮實體 SIM 卡方案。"
-
 
 # 城市推薦表格
 city_guide_title: "城市指南：柬埔寨 最佳 eSIM"
@@ -227,7 +224,6 @@ faq:
   - q: "此柬埔寨數據方案是否包含傳統語音通話與 SMS？"
     a: "Roami 的柬埔寨 eSIM 方案主要為數據方案，不包含傳統語音通話分鐘數或 SMS 簡訊。但您可透過 VoIP 服務（如 WhatsApp、Skype）進行語音與視訊通話。若需當地號碼，建議另購實體 SIM 卡。"
 
-
 # 迷思
 myths_title: "⚠️ 柬埔寨 eSIM 常見迷思與事實"
 myth_label: "❌ 迷思："
@@ -248,7 +244,6 @@ myths:
 
   - myth: "柬埔寨的 5G 網路尚未成熟，不值得購買。"
     truth: "Smart 已推出商用 5G 服務，並在 2025 上半年獲得最快行動網路獎項。5G 覆蓋持續擴大中，尤其在金邊與暹粒市中心，5G 體驗已相當可靠。"
-
 
 # 數據來源
 data_sources_title: "柬埔寨 行動網路數據來源"
@@ -277,25 +272,3 @@ cta_free_trial_text: "柬埔寨 免費試用 eSIM"
 cta_free_trial_link: "/free-esim/"
 
 ---
-
-# 柬埔寨 eSIM：保留原號碼，暢遊當地
-
-> **💡 旅行者摘要：** 【數位遊牧民族的最佳選擇：無縫跨國 5G 網路，連續多國旅行不斷線】根據 Ookla 2025 上半年數據，Smart 以中位下載 59.76 Mbps 奪冠，Cellcard 則提供最佳影片串流體驗。Roami 的柬埔寨 eSIM 讓您保留原號碼，同時享受 Smart 與 Cellcard 的頂級網路，無論在金邊、暹粒或西哈努克，都能高速連線。結論：選擇 Roami eSIM，就是選擇柬埔寨最快的行動網路與最穩定的連線品質。
-
-## 購買 柬埔寨 eSIM 前須知
-
-
-### 1. 主要 5G/4G 頻段與裝置相容性 {#1-主要-5g4g-頻段與裝置相容性}
-柬埔寨主要營運商 Smart 與 Cellcard 使用 4G 頻段 B3 (1800 MHz)、B7 (2600 MHz)、B8 (900 MHz) 以及 5G 頻段 n78 (3500 MHz)。購買 eSIM 前，請確認您的智慧型手機支援上述頻段，以確保最佳連線品質。
-
-### 2. KYC 實名認證要求 {#2-kyc-實名認證要求}
-根據柬埔寨電信監管機構規定，所有 SIM 卡（包括 eSIM）均需進行實名認證。購買 Roami eSIM 時，您需要上傳護照或身分證件照片，並填寫基本個人資訊。認證通常在 24 小時內完成，建議出發前至少提前 2 天購買。
-
-### 3. 公平使用政策 (FUP) 與數據限制 {#3-公平使用政策-fup-與數據限制}
-多數柬埔寨 eSIM 方案設有公平使用政策，例如每日高速數據上限（如 1GB/天）後降速至 128 kbps。請仔細閱讀方案條款，避免在大量下載或串流時觸發降速。Roami 提供透明 FUP 說明，確保您不會意外超量。
-
-### 4. 覆蓋範圍與偏遠地區注意事項 {#4-覆蓋範圍與偏遠地區注意事項}
-Smart 與 Cellcard 在城市與主要旅遊景點（如金邊、暹粒、西哈努克）提供優異覆蓋。但在偏遠山區或離島（如高龍島），訊號可能較弱。建議下載離線地圖，並準備備用連線方案。
-
-### 5. eSIM 啟用與技術支援 {#5-esim-啟用與技術支援}
-Roami 提供 24/7 線上客服，協助您解決啟用問題。eSIM 可於出發前在家中安裝，抵達柬埔寨後掃描 QR code 即可啟用。若裝置不支援 eSIM，可考慮實體 SIM 卡方案。

@@ -1,7 +1,8 @@
 ---
-title: "Swiss eSIM Guide | Swisscom, Sunrise or Salt?"
-description: "Vous voulez une eSIM prepayee pour Suisse? Roami vous livre le code directement par email, sans frais d'envoi. Couvre Zurich, Genève & les Alpes."
-date: '2026-06-14T00:00:00+00:00'
+title: "Vous voyagez pour Suisse ? Trouvez la meilleure eSIM."
+description: "Besoin d'une eSIM pour Suisse ? Roami teste Swisscom et Salt et vous recommande le meilleur réseau 5G pour votre séjour."
+date: "2026-06-17T06:04:16+00:00"
+
 keywords: eSIM Suisse, données prépayées, réseau 5G, Swisscom, Salt, voyage, itinérance,
   couverture mobile
 site_name: Roami
@@ -381,24 +382,3 @@ cta_free_trial_note: Exclusif pour les nouveaux clients
 cta_free_trial_text: eSIM d'essai Suisse gratuite
 cta_free_trial_link: /free-esim/
 ---
-# Suisse eSIM: Entièrement compatible avec iPhone et Android
-
-> **💡 Résumé rapide pour les voyageurs :** Voyages internationaux sans stress : Internet haut débit partout et à tout moment. Avec Roami et une eSIM Suisse, vous accédez aux meilleurs réseaux du pays. Selon le rapport Speedtest H1 2025, Swisscom offre le débit 5G médian le plus élevé (178,25 Mbps en téléchargement), tandis que Salt excelle pour le gaming. Que vous soyez à Kloten (178,25 Mbps) ou à Lucerne (94,03 Mbps), restez connecté sans frais d'itinérance.
-
-## Ce que vous devez savoir avant d'acheter une eSIM Suisse
-
-
-### 1. Bandes 5G/4G principales en Suisse {#1-bandes-5g4g-principales-en-suisse}
-La Suisse utilise principalement les bandes 5G suivantes : n78 (3,5 GHz) pour la vitesse, n28 (700 MHz) pour la couverture étendue, et n258 (26 GHz) pour les zones très denses. En 4G, les bandes principales sont le B20 (800 MHz), le B3 (1800 MHz) et le B7 (2600 MHz). Assurez-vous que votre smartphone est compatible avec ces fréquences pour une expérience optimale.
-
-### 2. Exigence d'identification (KYC) pour les eSIM {#2-exigence-didentification-kyc-pour-les-esim}
-Contrairement à certains pays, la Suisse n'impose pas de vérification d'identité stricte (KYC) pour les eSIM de voyage prépayées. Vous pouvez généralement acheter et activer une eSIM sans fournir de pièce d'identité. Cependant, pour les forfaits postpayés ou les lignes locales, une pièce d'identité peut être requise.
-
-### 3. Politique d'utilisation équitable (FUP) et limitations de vitesse {#3-politique-dutilisation-équitable-fup-et-limitations-de-vitesse}
-La plupart des forfaits eSIM de voyage incluent une politique d'utilisation équitable (FUP). Après avoir consommé un certain volume de données à haute vitesse (par exemple, 20 Go), le débit peut être réduit (par exemple, à 128 kbps). Vérifiez les conditions de votre forfait pour éviter les mauvaises surprises.
-
-### 4. Couverture dans les tunnels et les régions montagneuses {#4-couverture-dans-les-tunnels-et-les-régions-montagneuses}
-La Suisse possède de nombreux tunnels ferroviaires et routiers. La couverture y est généralement bonne grâce à des répéteurs, mais peut être intermittente dans les très longs tunnels (ex: tunnel de base du Saint-Gothard). Dans les Alpes, privilégiez Swisscom pour la meilleure couverture en altitude.
-
-### 5. Compatibilité des smartphones avec les eSIM suisses {#5-compatibilité-des-smartphones-avec-les-esim-suisses}
-Les eSIM sont compatibles avec la plupart des smartphones récents (iPhone XS et ultérieurs, Google Pixel 3 et ultérieurs, Samsung Galaxy S20 et ultérieurs). Vérifiez que votre téléphone est déverrouillé et prend en charge les bandes de fréquences suisses. Les iPhone sont particulièrement bien optimisés pour les eSIM.

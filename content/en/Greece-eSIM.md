@@ -374,248 +374,46 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: 'Greece eSIM Guide 2026: Complete Travel & Data Guide'
-  desc: From Athens to Thessaloniki, stay connected on Vodafone, Cosmote, Wind networks. Our complete Greece eSIM guide covers
-    coverage, plans, setup, and travel tips. Find the best plan for your trip.
+  title: "Greece Travel eSIM Guide | Prices, Networks & Activation"
+  desc: "Planning Greece travel? Our eSIM guide covers vodafone greece esim, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1.  General Questions About Greece eSIM
+    title: Greece eSIM FAQs
     questions:
-    - q: How does an eSIM for Greece compare to a traditional SIM card?
-      a: An eSIM for Greece is a digital SIM that activates instantly, saving you the hassle of finding a physical SIM card
-        at a shop. It allows you to keep your home number active while using a local Greek data network. This is especially
-        convenient for travelers who want to avoid roaming fees and stay connected upon arrival.
-    - q: Can I use an eSIM for Greece if my phone is locked to a carrier?
-      a: Most carrier-locked phones restrict the use of a foreign eSIM, so you would need to unlock your device first. An
-        unlocked phone from any major brand like Apple or Samsung will work perfectly with an eSIM in Greece. Always check
-        with your home carrier before traveling to ensure your phone is unlocked.
-    - q: Is Vodafone or Cosmote better for Greece travel?
-      a: Both Vodafone and Cosmote offer excellent coverage across Greece. Vodafone generally has wider rural coverage, while
-        Cosmote offers competitive 5G speeds in cities. For most travelers visiting Athens, Thessaloniki, and the surrounding
-        areas, either network works well. If you plan to explore remote areas, Vodafone is typically the safer choice.
-    - q: Is it easy to buy an eSIM for Greece online before my trip?
-      a: 'Yes, you can buy an eSIM for Greece online from providers like Roami, Airalo, or Holafly before you even leave home.
-        The process is straightforward: you choose a plan, receive a QR code via email, and scan it to install the eSIM. This
-        ensures you have data the moment you land.'
-    - q: How much data do I realistically need for a trip to Greece?
-      a: For a standard one-week trip involving navigation, social media, and messaging, a 5GB to 10GB plan is usually sufficient.
-        If you plan to stream video or work remotely, consider a 20GB or 50GB plan. A 3GB plan from Roami costs $6.99 and
-        is perfect for light sightseeing use.
-    - q: What is the best eSIM for Greece considering coverage and price?
-      a: The best eSIM for Greece often depends on your specific needs, but Roami offers excellent value with plans starting
-        at $1.99 for a 1GB 3-day plan. For heavy users, a 50GB 30-day plan is priced at $39.99. These plans use the Cosmote
-        and Vodafone networks, which provide reliable coverage across the country.
-    - q: Can I use a Greek eSIM for tethering or as a personal hotspot?
-      a: Yes, most Greek eSIM plans allow tethering, meaning you can share your data connection with other devices like a
-        laptop or tablet. This is a great feature for business travelers or families who need to connect multiple devices.
-        Always check the specific plan's terms, as some budget options may restrict this.
-    - q: Will I get a Greek phone number with my eSIM, or just data?
-      a: Most tourist eSIM plans for Greece are data-only, meaning you will not receive a local Greek phone number. You can
-        still make calls and send texts using apps like WhatsApp, Skype, or FaceTime over your data connection. For traditional
-        calls, you can use your home number's roaming service.
-    - q: How do I install and activate an eSIM for Greece on my phone?
-      a: 'Installation is simple: after purchasing, you will receive a QR code. Go to your phone''s settings, select ''Add
-        Cellular Plan'' or ''Add eSIM,'' and scan the QR code. Activation happens automatically upon connecting to a Greek
-        network, often within minutes of landing.'
-    - q: What happens if my eSIM for Greece runs out of data?
-      a: If your data runs out, you can easily purchase a top-up or a new plan from the same provider, often directly from
-        their app or website. You can also buy a new eSIM with a different data allowance. It is wise to monitor your usage
-        through your phone's settings to avoid unexpected depletion.
-  - id: faq-airport
-    icon: airplane
-    tab_title: Airports
-    title: 2.  Greece eSIM at Airports
-    questions:
-    - q: Can I activate my eSIM for Greece before I land at the airport?
-      a: Yes, you can install the eSIM profile before you leave, but it will only activate once you connect to a Greek network.
-        This is a huge time-saver as it avoids queues at airport kiosks. You will have instant data access as you step off
-        the plane in Athens or Crete.
-    - q: Is it cheaper to buy a physical SIM at Athens Airport or use an eSIM?
-      a: An eSIM is often more competitively priced and far more convenient than buying a physical SIM at Athens Airport.
-        Physical SIMs can be more expensive due to airport markups and require time to set up. An eSIM like Roami's 3GB plan
-        for $6.99 offers great value without the airport hassle.
-    - q: Are there Wi-Fi hotspots at Greek airports for initial eSIM setup?
-      a: Yes, major Greek airports like Athens International Airport (ATH) provide free Wi-Fi, which you can use to complete
-        your eSIM setup if needed. This is helpful if you install the eSIM on the go. Once connected, your eSIM will take
-        over for seamless mobile data.
-    - q: What if I have trouble connecting my eSIM after landing at the airport?
-      a: If you have trouble, first ensure your phone is unlocked and that data roaming is enabled. A quick restart of your
-        phone can often resolve the issue. Most eSIM providers offer 24/7 customer support via chat or email to help you get
-        connected.
-    - q: Do eSIMs for Greece work at all airports, including on the islands?
-      a: Yes, eSIMs work at all Greek airports, including those in Heraklion (Crete), Thessaloniki, and Rhodes. The coverage
-        from Cosmote and Vodafone is strong at all major transportation hubs. You can expect a fast connection as soon as
-        you arrive at any of these airports.
-  - id: faq-transport
-    icon: train
-    tab_title: Transport
-    title: 3.  Greece eSIM for Transport
-    questions:
-    - q: Can I use Greece eSIM for ride-hailing and maps?
-      a: Absolutely. Greece eSIM works with ride-hailing apps and navigation. A 5GB/15 days plan ($4.99) covers daily navigation
-        and ride-booking during a typical trip. The 4G/5G connection ensures reliable real-time tracking and route updates.
-    - q: Can I use my eSIM for ferry bookings while traveling between the Greek islands?
-      a: Absolutely, you can use your eSIM to search for and book ferry tickets online while on the move. This is very convenient
-        as sail times and availability can change. A reliable data connection ensures you can secure your spot on ferries
-        to Santorini or Mykonos.
-    - q: How reliable is the eSIM data connection on long bus rides through the mainland?
-      a: Data coverage on long-distance buses connecting cities like Athens and Thessaloniki is generally good. You may experience
-        some weak spots in mountainous or remote areas. For the most part, you can stream music or use social media throughout
-        the journey.
-    - q: Is there enough data in a 5GB plan for a week of using ride-sharing apps in Greece?
-      a: A 5GB plan is more than enough for a week of using ride-sharing apps like Uber or Beat in Athens. These apps use
-        very little data for their core functions. You would have plenty of data left over for checking maps and messaging.
-    - q: What is the best eSIM plan for a traveler who will use taxis and public transport extensively?
-      a: For a traveler heavily reliant on transport apps and navigation, a 10GB or 20GB plan is ideal. A 10GB 30-day plan
-        from Roami is priced at $14.99 and provides plenty of data for constant map use. This ensures you never get lost and
-        can always find the next bus or train.
-  - id: faq-hotels
-    icon: building
-    tab_title: Hotels
-    title: 4.  Greece eSIM for Hotels
-    questions:
-    - q: Do I need an eSIM if my hotel in Greece offers free Wi-Fi?
-      a: While hotel Wi-Fi is useful, it is often slow or unreliable in common areas and rooms. An eSIM provides a secure,
-        private, and high-speed connection that works everywhere, not just in the lobby. This is especially valuable for streaming
-        or video calls without interruption.
-    - q: Can I use my eSIM to cast movies from my phone to the hotel TV?
-      a: Yes, with a strong eSIM data connection, you can use your phone as a hotspot to connect a streaming device or a smart
-        TV. This allows you to watch your own content on a larger screen. Just ensure your plan supports tethering, which
-        most Roami plans do.
-    - q: Will my eSIM work in hotels located in remote areas of Crete or the Peloponnese?
-      a: Coverage in remote hotels can vary, but eSIMs using the Cosmote network generally offer extensive coverage, even
-        in more secluded areas. You might experience slower speeds in very rural locations. For most tourist hotels and villas,
-        you will have a stable connection.
-    - q: How can I stay connected to my hotel's concierge or booking apps with an eSIM?
-      a: Your eSIM ensures you are always connected to hotel apps, booking confirmations, and concierge services. You can
-        message them directly through platforms like WhatsApp without relying on patchy Wi-Fi. This enhances your overall
-        travel experience.
-    - q: Is it safe to use hotel Wi-Fi for banking, or should I use my eSIM data?
-      a: It is always safer to use your personal eSIM data for sensitive activities like online banking. Public Wi-Fi networks
-        can be vulnerable to security breaches. Your eSIM provides an encrypted, private connection that protects your financial
-        information.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5.  Greece eSIM for Attractions
-    questions:
-    - q: Can I use my eSIM to buy tickets for the Acropolis and other sites online?
-      a: Yes, you can use your eSIM to purchase tickets for the Acropolis and other archaeological sites directly from your
-        phone. This saves you from waiting in long ticket lines. An eSIM allows you to do this on the go, even while standing
-        at the entrance.
-    - q: How much data does a guided audio tour app typically use at museums?
-      a: Guided audio tour apps usually consume around 50-100 MB per hour of use. A 3GB plan would be sufficient for many
-        hours of museum tours. You can easily download tours or stream them without worrying about your data balance.
-    - q: Will my eSIM work for live streaming on the beaches of Mykonos or Santorini?
-      a: You can live stream on popular beaches, as Cosmote and Vodafone have strong coverage in these tourist areas. For
-        reliable streaming, consider an unlimited plan or a plan with a large data allowance. A 20GB plan from Roami for $21.99
-        is a great option for content creators.
-    - q: Can I get a local map or guide app to download with my eSIM data?
-      a: Absolutely, you can use your eSIM data to download offline maps from Google Maps or specialized travel guide apps.
-        This is a great way to save data while still having access to navigation. You can also stream detailed guides for
-        places like the Palace of Knossos.
-    - q: Is a 1GB eSIM plan enough for a short trip focused on sightseeing in Athens?
-      a: A 1GB plan can be enough for a very short 2- to 3-day trip if you mainly use it for maps and messaging. For a 3-day
-        trip, Roami offers a 1GB plan for $1.99, which is ideal for light sightseeing. You would need to be mindful of data
-        usage and avoid streaming.
-  - id: faq-social
-    icon: message-circle
-    tab_title: Social & Messaging
-    title: 6.  Greece eSIM for Social Media
-    questions:
-    - q: How much data do I need for Greece?
-      a: Light users (maps + messaging) ~300MB/day, moderate (social + photos) ~700MB/day, heavy (streaming + video calls)
-        choose Unlimited. Most visitors find 5GB/15 days ($4.99) comfortable for a standard trip to Greece.
-    - q: How much data does scrolling through Instagram and TikTok use in Greece?
-      a: Scrolling through Instagram and TikTok can use several hundred MB per hour, especially with video content. A 5GB
-        plan is a good starting point for moderate social media use during a one-week trip. Heavier users should consider
-        a 10GB or 20GB plan.
-    - q: Will I be able to post high-resolution photos to Instagram from the islands?
-      a: Yes, the 5G/4G/LTE speeds provided by Greek eSIMs are fast enough to upload high-resolution photos and short videos.
-        Coverage on popular islands like Santorini is excellent. You can share your travel moments in real-time from almost
-        any location.
-    - q: Is there a risk of data throttling if I use social media heavily on a 30-day plan?
-      a: There is no risk of throttling on standard data plans like the 20GB or 50GB options from Roami. You will have full-speed
-        data until you use your entire allowance. An unlimited plan at $77.99 is available for those who want truly worry-free
-        usage.
-    - q: Can I use my eSIM to stay active on Facebook Groups and travel forums?
-      a: Absolutely, staying active on Facebook Groups and travel forums is very easy with a Greek eSIM. These platforms are
-        not data-intensive, so even a small plan will suffice. You can ask for local tips and share your experiences without
-        any connectivity problems.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7.  Greece eSIM for Cross-Border Travel
-    questions:
-    - q: Will my Greek eSIM work if I take a day trip to a neighboring country?
-      a: Most Greek eSIM plans are designed for use within Greece only. If you take a day trip to Albania, North Macedonia,
-        or Turkey, your data will likely stop working. You would need a separate European or global eSIM plan for cross-border
-        travel.
-    - q: Is there an eSIM plan that covers both Greece and other European countries?
-      a: Yes, you can purchase a regional European eSIM that includes Greece and other countries. These plans are ideal for
-        multi-country trips. Roami offers plans that work across Europe, providing a seamless connection as you travel from
-        Greece to Italy or France.
-    - q: What should I do if my flight has a layover in another country before Greece?
-      a: Your eSIM will not activate until you connect to a Greek network. If you need data during your layover, you can purchase
-        a separate short-term plan for that country. Alternatively, you can rely on airport Wi-Fi until you reach Greece.
-    - q: Can I use the same eSIM profile for a trip that includes both Greece and Turkey?
-      a: A standard Greek eSIM profile will not work in Turkey. You would need a multi-country or global eSIM that specifically
-        includes both nations. It is important to check the coverage map of your eSIM provider before your trip to avoid any
-        gaps in service.
-    - q: How do I manage data usage when traveling between Greek islands and nearby countries?
-      a: To manage data, you should manually disable data roaming when you are outside of Greece to prevent accidental charges.
-        Most phones have a setting to turn off data roaming. You can then enable it only when you are back on a Greek network.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  Greece eSIM for Emergencies
-    questions:
-    - q: Can I call emergency services with a data-only eSIM in Greece?
-      a: Yes, even with a data-only eSIM, your phone can still call emergency numbers like 112 (the European emergency number)
-        as long as you have any cellular signal. This call is free and does not require a SIM card or credit. It will connect
-        you to police, ambulance, or fire services.
-    - q: Can I use WhatsApp and FaceTime with Greece eSIM?
-      a: Yes! Greece eSIM supports WhatsApp audio/video calls, FaceTime, WeChat voice, and Zoom without any blocks. You can
-        stay in touch with family using your preferred messaging apps throughout your trip.
-    - q: How can I use my eSIM to find the nearest hospital or pharmacy in an emergency?
-      a: Your eSIM allows you to use Google Maps or other apps to find the nearest hospital, pharmacy, or 24-hour medical
-        center. This is crucial in an emergency where every second counts. The data connection provides real-time directions
-        and contact information.
-    - q: What happens if I lose my phone with my eSIM while in Greece?
-      a: If you lose your phone, you should immediately contact your eSIM provider to suspend the line and prevent unauthorized
-        use. You can also use a computer to access your provider's website and manage your account. Your eSIM is tied to your
-        phone's hardware, so it cannot be transferred to another device.
-    - q: Is it possible to get an eSIM as a backup for emergency communication?
-      a: Yes, an eSIM is an excellent backup for emergencies because it provides a secondary, independent data connection.
-        You can install it before your trip and activate it only if needed. This is a cost-effective way to ensure you always
-        have a way to communicate.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  Greece eSIM for Business Travelers
-    questions:
-    - q: Can I use a Greek eSIM for a reliable video conference call in a hotel or co-working space?
-      a: Yes, a high-speed eSIM plan is perfect for video conferencing on platforms like Zoom or Microsoft Teams. A 10GB or
-        20GB plan provides enough bandwidth for clear, uninterrupted calls. This is often more reliable than the hotel's shared
-        Wi-Fi.
-    - q: What eSIM plan is best for a business trip where I need to send large files?
-      a: For business travelers who need to send large files, a 50GB or 100GB plan is highly recommended. A 50GB 30-day plan
-        from Roami is $39.99 and offers plenty of data for uploading presentations and documents. This ensures you can work
-        efficiently without worrying about data caps.
-    - q: How do I keep my work number active while using a Greek eSIM for data?
-      a: You can use a dual-SIM phone to keep your home SIM active for voice and SMS while your Greek eSIM handles all data.
-        This is a common setup for business travelers. You can set your phone to use the eSIM for cellular data and your home
-        number for calls.
-    - q: Are there eSIM plans that offer a local Greek number for business calls?
-      a: Most tourist eSIMs are data-only, but some business-oriented plans may offer a local number. If you need a local
-        number for client calls, you might need a different type of plan. For most purposes, using data apps like Skype or
-        Viber to call is sufficient.
-    - q: Can I manage multiple eSIM profiles for different countries on one phone for work?
-      a: Yes, you can store multiple eSIM profiles on your phone and switch between them as needed. This is a fantastic feature
-        for frequent business travelers who visit Greece and other countries. You can easily manage your different data plans
-        for work and personal use.
+    - q: |
+        Do I need a passport or ID to use eSIM in Greece? How does the verification work?
+      a: |
+        Yes, Greece requires identity verification for eSIM. Greece requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Cosmote's network than others — check our [eSIM compatibility](/compatibility/) page.
+    - q: |
+        Can I get an eSIM for Greece without spending too much?
+      a: |
+        Absolutely. Roami's Greece eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+    - q: |
+        How does Roami compare to Airalo for eSIM in Greece?
+      a: |
+        Roami typically offers better value for Greece eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+    - q: |
+        Which carrier in Greece should I rely on for my eSIM?
+      a: |
+        Cosmote operates over 15,000 towers across Greece, covering all major cities. Vodafone complements this with additional rural coverage reaching about 90% of the population. Wind focuses on affordability, with data plans costing roughly 20% less than Cosmote. With Roami, you don't pick one — it connects to whichever is strongest.
+    - q: |
+        How far in advance should I buy my Greece eSIM?
+      a: |
+        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Greece, so buying early doesn't waste your plan days.
+    - q: |
+        I'm traveling to Greece for just 2-3 days. What eSIM should I get?
+      a: |
+        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+    - q: |
+        How do I know if my Greece eSIM plan is active and ready to use?
+      a: |
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Greece — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+    - q: |
+        What's the most popular eSIM choice for travelers going to Greece?
+      a: |
+        Most travelers to Greece choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
 related_products:
   title: Related Greece eSIM Plans
   items:

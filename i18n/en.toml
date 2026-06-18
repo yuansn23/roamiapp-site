@@ -297,3 +297,9 @@ other = "{{ .RegionName }} eSIM: questions travelers ask"
 countries = "Countries"
 carriers = "Carriers"
 coverage_5g = "5G Coverage"
+
+[home]
+other = "Home"
+
+[carriers]
+other = "eSIM Operators"

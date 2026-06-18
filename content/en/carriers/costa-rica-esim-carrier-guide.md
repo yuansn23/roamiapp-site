@@ -1,7 +1,8 @@
 ---
-title: "Costa Rica eSIM Guide | Kolbi, Claro or Liberty?"
-description: "Roami compares Costa Rica's carriers for travel eSIM. 5G nationwide. Find the most reliable network."
-date: '2026-06-04T00:00:00+00:00'
+title: "Planning Costa Rica travel? Here is your eSIM checklist."
+description: "Roami's guide to Costa Rica eSIM carriers compares Claro, Kölbi and Metrocom on 5G speed, coverage and value for travelers visiting Costa Rica."
+date: "2026-06-17T06:04:17+00:00"
+
 keywords: eSIM Costa Rica, prepaid data, 5G network, Claro, Kölbi, Telecable, Metrocom,
   digital nomad eSIM, travel connectivity
 site_name: Roami
@@ -346,24 +347,3 @@ cta_free_trial_note: Exclusive for new customers
 cta_free_trial_text: Free Costa Rica trial eSIM
 cta_free_trial_link: /free-esim/
 ---
-# Costa Rica eSIM: Hassle‑free alternative to physical SIM cards
-
-> **💡 Short summary for travelers:** Top choice for digital nomads: seamless cross‑border 5G network for continuous multi‑country travel. Roami's Costa Rica eSIM leverages Claro's award‑winning network, which achieved a median download speed of 84.51 Mbps and the best mobile gaming experience in H1 2025 according to Ookla. Whether you're working from San José or exploring the beaches of Guanacaste, Roami ensures instant activation, no roaming fees, and reliable connectivity across the country.
-
-## Things you need to know before buying a Costa Rica eSIM
-
-
-### 1. Main 5G/4G frequency bands in Costa Rica {#1-main-5g4g-frequency-bands-in-costa-rica}
-Costa Rica's mobile networks operate on the following key bands: 4G LTE: Band 2 (1900 MHz), Band 4 (1700/2100 MHz AWS), Band 5 (850 MHz), Band 7 (2600 MHz), Band 12 (700 MHz), Band 17 (700 MHz). 5G: n78 (3500 MHz) is the primary 5G band. Ensure your device supports these bands for optimal connectivity.
-
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate a Costa Rica eSIM, you must provide a valid government‑issued ID (passport for tourists) and a selfie for identity verification. This is a regulatory requirement by SUTEL to prevent fraud. Roami handles this securely during the purchase process.
-
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most prepaid eSIM plans in Costa Rica have a Fair Usage Policy (FUP). After exceeding a certain data threshold (e.g., 10 GB per month), speeds may be throttled to 128 kbps or lower. Always check the specific plan details before purchasing.
-
-### 4. Device compatibility and eSIM support {#4-device-compatibility-and-esim-support}
-eSIM is supported on most modern smartphones, including iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer, and many others. Check your device's IMEI to confirm <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before buying.
-
-### 5. Network coverage in remote areas {#5-network-coverage-in-remote-areas}
-While Claro and Kölbi offer extensive 4G/LTE coverage in urban areas, remote regions like national parks and mountainous areas may have limited signal. Kölbi generally has the widest rural coverage. Consider downloading offline maps as a backup.

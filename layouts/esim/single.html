@@ -543,11 +543,8 @@
 
 
 <section>
-    {{/* 兼容两种数据路径：faq_section 或 faq_section1 */}}
     {{ $faqData := .Params.faq_section }}
-    {{ if not $faqData }}
-        {{ $faqData = .Params.faq_section1 }}
-    {{ end }}
+    {{ if not $faqData }}{{ $faqData = .Params.faq_section1 }}{{ end }}
 
     {{ if $faqData }}
     <div class="mb-8">
@@ -556,70 +553,18 @@
     </div>
     {{ end }}
 
-    {{/* 获取当前语言前缀（如 /en, /de），用于生成多语言链接 */}}
-    {{ $langPrefix := "" }}
-    {{ with .Site.LanguagePrefix }}
-        {{ $langPrefix = . }}
-    {{ end }}
-
-    {{/* 安全获取 FAQ 分类：优先 faq-general，其次 faq-general1 */}}
     {{ with $faqData }}
         {{ with .categories }}
-            {{/* 尝试获取 faq-general */}}
             {{ $general := where . "id" "faq-general" }}
-            {{/* 如果没有 faq-general，尝试 faq-general1 */}}
-            {{ if not $general }}
-                {{ $general = where . "id" "faq-general1" }}
-            {{ end }}
-
-            {{/* 只取第一个匹配的分类，防止重复显示 */}}
+            {{ if not $general }}{{ $general = where . "id" "faq-general1" }}{{ end }}
             {{ $general = first 1 $general }}
-
-            {{/* 如果找到匹配的分类，则渲染 */}}
             {{ if $general }}
                 {{ range $general }}
                 <ul class="list-none p-0 m-0 space-y-6">
                     {{ range .questions }}
-                    {{/* 处理答案内容，自动替换关键词为超链接 */}}
-                    {{ $answer := .a | safeHTML }}
-
-                    {{/* 构建链接 URL，使用内联样式确保蓝色加粗下划线 */}}
-                    {{ $compatUrl := "/compatibility/" }}
-                    {{ if $langPrefix }}{{ $compatUrl = printf "%s/compatibility/" $langPrefix }}{{ end }}
-                    {{ $compatLink := printf `<a href="%s" style="color: #1a73e8; font-weight: 600; text-decoration: underline; text-underline-offset: 2px;">compatibility</a>` $compatUrl }}
-
-                    {{ $transferUrl := "/how-to-transfer-esim-between-iphone-and-android/" }}
-                    {{ if $langPrefix }}{{ $transferUrl = printf "%s/how-to-transfer-esim-between-iphone-and-android/" $langPrefix }}{{ end }}
-                    {{ $transferLink := printf `<a href="%s" style="color: #1a73e8; font-weight: 600; text-decoration: underline; text-underline-offset: 2px;">eSIM transfer</a>` $transferUrl }}
-
-                    {{ $errorUrl := "/esim-activation-errors-troubleshooting-guide/" }}
-                    {{ if $langPrefix }}{{ $errorUrl = printf "%s/esim-activation-errors-troubleshooting-guide/" $langPrefix }}{{ end }}
-                    {{ $errorLink := printf `<a href="%s" style="color: #1a73e8; font-weight: 600; text-decoration: underline; text-underline-offset: 2px;">activation errors</a>` $errorUrl }}
-
-                    {{/* 替换关键词（包含大小写、前后空格和标点） */}}
-                    {{ $answer = replace $answer " compatibility " (printf " %s " $compatLink) }}
-                    {{ $answer = replace $answer " compatibility," (printf " %s," $compatLink) }}
-                    {{ $answer = replace $answer " compatibility." (printf " %s." $compatLink) }}
-                    {{ $answer = replace $answer " Compatibility " (printf " %s " $compatLink) }}
-                    {{ $answer = replace $answer " Compatibility," (printf " %s," $compatLink) }}
-                    {{ $answer = replace $answer " Compatibility." (printf " %s." $compatLink) }}
-
-                    {{ $answer = replace $answer " eSIM transfer " (printf " %s " $transferLink) }}
-                    {{ $answer = replace $answer " eSIM transfer," (printf " %s," $transferLink) }}
-                    {{ $answer = replace $answer " eSIM transfer." (printf " %s." $transferLink) }}
-                    {{ $answer = replace $answer " eSIM Transfer " (printf " %s " $transferLink) }}
-                    {{ $answer = replace $answer " Transfer " (printf " %s " $transferLink) }}
-                    {{ $answer = replace $answer " transfer " (printf " %s " $transferLink) }}
-
-                    {{ $answer = replace $answer " activation errors " (printf " %s " $errorLink) }}
-                    {{ $answer = replace $answer " activation errors," (printf " %s," $errorLink) }}
-                    {{ $answer = replace $answer " activation errors." (printf " %s." $errorLink) }}
-                    {{ $answer = replace $answer " Activation errors " (printf " %s " $errorLink) }}
-                    {{ $answer = replace $answer " Activation errors," (printf " %s," $errorLink) }}
-                    {{ $answer = replace $answer " Activation errors." (printf " %s." $errorLink) }}
-
-                    {{/* 注意：不再将长答案转换为列表，直接输出替换后的内容 */}}
-
+                    {{/* 直接处理答案：将 Markdown 链接转换为带样式的 HTML 链接，无任何条件判断 */}}
+                    {{ $linkStyle := "color: #1a73e8; font-weight: 600; text-decoration: underline; text-underline-offset: 2px;" }}
+                    {{ $answer := .a | replaceRE `\[([^\]]+)\]\(([^)]+)\)` (printf `<a href="$2" style="%s">$1</a>` $linkStyle) | markdownify }}
                     <li class="bg-white rounded-xl border border-slate-200 shadow-sm p-6">
                         <h3 class="text-lg font-semibold text-slate-900 mb-2 flex items-start gap-2">
                             <span style="color: #1a73e8; flex-shrink: 0; margin-top: 0.125rem;">✦</span>

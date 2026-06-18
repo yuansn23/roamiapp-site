@@ -1,7 +1,8 @@
 ---
-title: "Japan eSIM Guide | Docomo, SoftBank or KDDI?"
-description: "Roami compares Docomo, SoftBank & KDDI 5G for Japan eSIM. Coverage in Tokyo, Osaka & rural areas. Pick the best."
-date: '2026-06-04T00:00:00+00:00'
+title: "What is the best eSIM for Japan travel?"
+description: "Roami's Japan eSIM guide reviews Rakuten, SoftBank and NTT Docomo 5G performance. Find the best travel eSIM for your next trip to Japan."
+date: "2026-06-17T06:04:17+00:00"
+
 keywords: eSIM Japan, prepaid data, 5G network, Rakuten Mobile, SoftBank, So-net,
   Japan travel eSIM
 site_name: Roami
@@ -332,24 +333,3 @@ cta_free_trial_note: Exclusive for new customers
 cta_free_trial_text: Free Japan trial eSIM
 cta_free_trial_link: /free-esim/
 ---
-# Japan eSIM: Reliable network for business trips
-
-> **💡 Short summary for travelers:** 【Top choice for business travel: cross‑border 5G solutions with unlimited data】. Roami's Japan eSIM leverages the fastest 5G network in Japan (Rakuten Mobile with median download speed of 151.16 Mbps) and the best video/gaming experience (SoftBank). Stay productive with ultra‑low latency and consistent connectivity across Tokyo, Osaka, and Saitama. Perfect for remote work, streaming, and navigation.
-
-## Things you need to know before buying a Japan eSIM
-
-
-### 1. Main 5G/4G frequency bands in Japan {#1-main-5g4g-frequency-bands-in-japan}
-Japan's 5G networks operate on n77 (3.7 GHz), n78 (3.5 GHz), and n257 (28 GHz) bands. 4G LTE uses bands 1 (2100 MHz), 3 (1800 MHz), 8 (900 MHz), 11 (1500 MHz), 18 (800 MHz), 19 (800 MHz), 21 (1500 MHz), 28 (700 MHz), and 42 (3500 MHz). Ensure your device supports these bands for optimal performance.
-
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-To activate a Japan eSIM, you typically need to provide a valid passport or government‑issued ID. Some providers may require a selfie or proof of address. Roami simplifies this with a quick online verification process.
-
-### 3. Fair Usage Policy (FUP) for unlimited data plans {#3-fair-usage-policy-fup-for-unlimited-data-plans}
-Most unlimited data plans in Japan have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 10 GB per day). Check the specific plan details to avoid unexpected slowdowns.
-
-### 4. Network compatibility with your device {#4-network-compatibility-with-your-device}
-Not all eSIM‑compatible devices support Japan's specific frequency bands. Verify that your smartphone (e.g., iPhone 12 or later, Google Pixel 5 or later) supports n77/n78 for 5G and LTE bands 1/3/8/18/19/28 for 4G.
-
-### 5. Roaming vs. local eSIM: cost and performance {#5-roaming-vs-local-esim-cost-and-performance}
-Using a local Japan eSIM like Roami is significantly cheaper than international roaming. Local eSIMs also provide better latency and speeds because they connect directly to Japanese networks (Rakuten Mobile, SoftBank, NTT DoCoMo).

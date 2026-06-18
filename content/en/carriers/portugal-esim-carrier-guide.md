@@ -1,7 +1,8 @@
 ---
-title: "Portugal eSIM Guide | MEO, Vodafone or NOS?"
-description: "Roami compares Portugal's carriers for travel eSIM. 5G from Lisbon to the Algarve. Which is fastest for travelers?"
-date: '2026-06-04T00:00:00+00:00'
+title: "Planning Portugal travel? Here is your eSIM checklist."
+description: "Roami's guide to Portugal eSIM carriers compares Vodafone, NOS and MEO on 5G speed, coverage and value for travelers visiting Portugal."
+date: "2026-06-17T06:04:17+00:00"
+
 keywords: eSIM Portugal, prepaid data, 5G network, Vodafone, MEO, NOS, digital nomad,
   travel eSIM
 site_name: Roami
@@ -377,24 +378,3 @@ cta_free_trial_note: Exclusive for new customers
 cta_free_trial_text: Free Portugal trial eSIM
 cta_free_trial_link: /free-esim/
 ---
-# Portugal eSIM: Flexible choice without contracts
-
-> **💡 Short summary for travelers:** 【Designed for digital nomads: unlimited data solutions for multiple countries】 Roami's Portugal eSIM gives you instant 5G access on the best local networks. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/portugal-speedtest-connectivity-report-h1-2025), NOS leads with a median 5G download speed of 267.46 Mbps, while MEO offers the best 5G network experience with a Connectivity Score of 74.85. Vodafone provides the highest 5G availability (80.3%) and the fastest fixed broadband. Whether you're working from Porto (fastest mobile city at 197.28 Mbps) or Setúbal (fastest fixed city at 250.14 Mbps), Roami's eSIM ensures you stay productive and connected across Portugal and beyond.
-
-## Things you need to know before buying a Portugal eSIM
-
-
-### 1. Main 5G/4G frequency bands in Portugal {#1-main-5g4g-frequency-bands-in-portugal}
-Portugal's mobile operators use a mix of frequency bands. For 5G, the primary bands are n78 (3.5 GHz) for high-speed urban coverage, n1 (2100 MHz) and n3 (1800 MHz) for wider coverage, and n28 (700 MHz) for rural and indoor penetration. 4G/LTE bands include B3 (1800 MHz), B7 (2600 MHz), B20 (800 MHz), and B1 (2100 MHz). Ensure your device supports these bands for optimal performance.
-
-### 2. KYC requirements for eSIM purchase {#2-kyc-requirements-for-esim-purchase}
-To purchase and activate a Portugal eSIM, you typically need to provide a valid form of identification (passport or national ID) and proof of address. Some providers may require a selfie or video verification. Roami simplifies this process by handling KYC compliance digitally, so you can activate your eSIM within minutes.
-
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most Portugal eSIM plans come with a Fair Usage Policy (FUP) that caps high-speed data after a certain threshold (e.g., 20-50 GB per month). Once exceeded, speeds may be throttled to 2G/3G levels. Always check the specific FUP of your chosen plan to avoid unexpected slowdowns.
-
-### 4. Network compatibility and device support {#4-network-compatibility-and-device-support}
-eSIM technology is supported on most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). However, some older devices or carrier-locked phones may not support eSIM. Verify your device's <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing.
-
-### 5. Roaming and international usage {#5-roaming-and-international-usage}
-Portugal eSIMs are primarily designed for use within Portugal. If you plan to travel to other EU countries, check if your plan includes EU roaming. Some providers offer multi-country plans that cover the entire Schengen area, but data speeds may be reduced outside Portugal.

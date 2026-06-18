@@ -1,7 +1,8 @@
 ---
-title: "Greece eSIM Guide | Cosmote, Vodafone or Nova?"
-description: "Roami compares Greece's carriers for travel eSIM. 5G from Athens to the islands. Which keeps you connected best?"
-date: '2026-06-04T00:00:00+00:00'
+title: "Best value eSIM plans for your Greece vacation."
+description: "Choosing between Cosmote and Vodafone for Greece? Roami's guide compares real 5G speeds, latency and data plans for travelers in Greece."
+date: "2026-06-17T06:04:17+00:00"
+
 keywords: eSIM Griechenland, prepaid data, 5G network, Cosmote, Vodafone, travel eSIM
 site_name: Roami
 brand_name: Roami
@@ -325,24 +326,3 @@ cta_free_trial_note: Exclusive for new customers
 cta_free_trial_text: Free Griechenland trial eSIM
 cta_free_trial_link: /free-esim/
 ---
-# Griechenland eSIM: Keep your main number active
-
-> **💡 Short summary for travelers:** More freedom through device sharing: unlimited 5G data unlimitedly on the go. With a Griechenland eSIM from Roami, you can share your high‑speed connection across all your devices while traveling. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/greece-speedtest-connectivity-report-h1-2025), Cosmote leads with a median download speed of 118.8 Mbps and a 5G median of 200.52 Mbps, ensuring you stay productive and entertained wherever you roam.
-
-## Things you need to know before buying a Griechenland eSIM
-
-
-### 1. Main 5G/4G frequency bands in Griechenland {#1-main-5g4g-frequency-bands-in-griechenland}
-Griechenland's mobile networks operate on the following key bands: 4G (LTE) uses bands 3 (1800 MHz), 7 (2600 MHz), and 20 (800 MHz). 5G uses bands n78 (3500 MHz) and n1 (2100 MHz). Ensure your device supports these bands for optimal performance.
-
-### 2. KYC (Know Your Customer) requirements {#2-kyc-know-your-customer-requirements}
-All eSIM activations in Griechenland require identity verification. You will need to upload a clear photo of your passport or EU ID card during the purchase process. This is mandatory by Greek law for prepaid SIMs.
-
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most prepaid eSIM plans include a Fair Usage Policy. After exceeding a certain data threshold (e.g., 50 GB per month), speeds may be throttled to 1-2 Mbps. Always check the specific plan's FUP before purchasing.
-
-### 4. Network coverage in remote areas and islands {#4-network-coverage-in-remote-areas-and-islands}
-While Cosmote offers the best overall coverage, some remote islands and mountainous regions may have limited 5G. 4G is widely available. Check coverage maps on the operator's website before traveling to very remote locations.
-
-### 5. eSIM compatibility and activation process {#5-esim-compatibility-and-activation-process}
-Your smartphone must be eSIM‑compatible and carrier‑unlocked. Activation is instant via QR code sent by email. No physical SIM swap is needed. Keep your main number active for calls and SMS while using the eSIM for data.

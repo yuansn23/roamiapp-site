@@ -358,294 +358,46 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: 'Taiwan eSIM Guide 2026: Network & Travel Guide'
-  desc: From Taipei to New Taipei City, stay connected on Chunghwa Telecom, FarEasTone, Taiwan Mobile networks. Our complete
-    Taiwan eSIM guide covers coverage, plans, setup, and travel tips. Find the best plan for your trip.
+  title: "Taiwan Travel eSIM Guide | Prices, Networks & Activation"
+  desc: "Planning Taiwan travel? Our eSIM guide covers taiwan esim recommendation, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1.  General Questions About Taiwan eSIM
+    title: Taiwan eSIM FAQs
     questions:
-    - q: What is a taiwan esim and how does it work for travelers?
-      a: A taiwan eSIM is a digital SIM card that allows you to activate a mobile data plan from a local network like Chunghwa
-        without needing a physical card. You simply download a profile to your device, which connects you to Taiwan's high-speed
-        5G/4G/LTE networks. For example, a 7-day 5GB plan is available for $6.99, offering great value for in-depth travel.
-        This eliminates the need to find a physical SIM card vendor upon arrival.
-    - q: Is an esim taiwan compatible with my iPhone or Android phone?
-      a: Yes, eSIMs are widely compatible, especially with newer models like the iPhone 14 and later versions, which support
-        esim taiwan iphone functionality. Most modern Android phones from Samsung, Google Pixel, and others also support eSIM
-        technology. You should check your phone's settings to confirm it is unlocked and eSIM-compatible before traveling.
-        This ensures a seamless setup with your chosen esim card taiwan provider.
-    - q: How do I choose the best esim for taiwan for my trip?
-      a: The best eSIM for Taiwan depends on your data needs and trip length. For a short 3-day business trip, a 1GB plan
-        at $1.99 is sufficient, while a 7-day sightseeing trip might call for a 3GB plan at $3.99. For longer stays of 30
-        days, a 20GB plan at $22.99 or an unlimited data option at $69.99 provides worry-free coverage. Evaluate your typical
-        usage for navigation, social media, and streaming to select the perfect plan.
-    - q: Can I get a taiwan esim with local number for calls and texts?
-      a: Most data-only eSIMs for travelers do not include a local number, focusing on high-speed data for apps like WhatsApp
-        and Google Maps. If you require a taiwan esim with local number for making local calls, you may need to look at specialized
-        prepaid options from local carriers. However, for most tourists, a data-only plan is ideal as it supports all messaging
-        and calling apps. This allows you to communicate easily without needing a separate voice plan.
-    - q: What are the advantages of using a taiwan travel esim over a physical SIM?
-      a: A taiwan travel esim offers the convenience of instant activation before or after landing, avoiding queues at airport
-        counters. You can manage your plan entirely online, and there is no risk of losing a small physical SIM card. Additionally,
-        you can keep your home SIM active for calls and texts while using the eSIM for data. This dual-SIM capability is a
-        major benefit for modern travelers.
-    - q: How do I activate my taiwan esim on my device?
-      a: Activation is a straightforward process that usually involves scanning a QR code provided by your eSIM vendor. After
-        scanning, you install the profile and assign it to your mobile data line in your phone's settings. Once activated,
-        the eSIM connects to a local network like Taiwan Mobile or Chunghwa Telecom automatically. It is recommended to do
-        this initial setup while connected to Wi-Fi to ensure a smooth experience.
-    - q: Is a taiwan esim unlimited data plan worth it for heavy users?
-      a: For travelers who stream video, make frequent video calls, or use navigation extensively, a taiwan esim unlimited
-        data plan can be excellent value. A 7-day unlimited traffic plan is available for $20.99, removing the worry of hitting
-        a data cap. For a 15-day trip, an unlimited plan costs $42.99, which can be more economical than topping up smaller
-        plans. This ensures you stay connected without monitoring your usage constantly.
-    - q: What network speeds can I expect from an esim in taiwan?
-      a: You can expect excellent speeds on Taiwan's robust 5G/4G/LTE networks, which are known for their reliability and
-        coverage. Most eSIM plans offer high-speed data, allowing for fast downloads, smooth video streaming, and responsive
-        navigation. The actual speed can vary based on your location and network congestion, especially in crowded areas like
-        Taipei Main Station. Overall, the experience is very reliable for all standard travel needs.
-    - q: How does a taiwan esim compare to options like holafly taiwan or airalo taiwan?
-      a: Holafly Taiwan and Airalo Taiwan are popular international providers, but Roami offers competitive pricing and local
-        network prioritization. For example, a 7-day 5GB plan from Roami is $6.99, which can be more affordable than similar
-        plans from these competitors. Roami also focuses on providing a straightforward user experience and reliable connection
-        to Taiwan's top networks. It is always wise to compare the data allowances and validity periods to find the best fit.
-    - q: Can I purchase a taiwan esim from klook esim taiwan or other travel platforms?
-      a: Yes, platforms like Klook offer taiwan esim options, which can be convenient for bundling with other travel bookings.
-        However, these are often resold plans, and support may be handled by the platform rather than the network directly.
-        Purchasing directly from a specialized provider like Roami can sometimes offer better pricing and dedicated customer
-        support. For instance, Roami's 10GB 7-day plan at $10.99 is a strong option for in-depth travel.
-  - id: faq-airport
-    icon: airplane
-    tab_title: Airports
-    title: 2.  Taiwan eSIM at Airports
-    questions:
-    - q: Can I activate my esim taiwan immediately after landing at Taoyuan Airport?
-      a: Yes, you can activate your esim taiwan right away upon landing at Taiwan Taoyuan International Airport. The eSIM
-        activates within minutes, and you can use the airport's free Wi-Fi to complete the initial setup. This ensures you
-        have data for ride-sharing apps and maps as soon as you step into the arrivals hall. It is a much faster option than
-        queuing at physical SIM card kiosks.
-    - q: Is it better to buy an esim card taiwan before arriving at the airport?
-      a: Purchasing your esim card taiwan before your flight is highly recommended for a seamless arrival experience. This
-        allows you to activate the eSIM while you are still in the departure lounge or on the plane using airport Wi-Fi. You
-        can then land in Taipei and immediately have access to mobile data without needing to find a local store. This pre-purchase
-        strategy saves valuable time and reduces stress after a long flight.
-    - q: Can I activate my Taiwan eSIM at the airport?
-      a: Yes, you can activate your Taiwan eSIM as soon as you land using the airport's free Wi-Fi. Just scan your QR code
-        from email and you'll be connected in under 2 minutes. We recommend installing the eSIM before departure so you're
-        connected the moment you arrive.
-    - q: What data plan is best for a short layover at Taipei Airport?
-      a: For a short layover, the most economical option is a 3-day 1GB plan for $1.99, which provides enough data for basic
-        web browsing and messaging. If you need to stream or use maps for exploring the city during a longer layover, a 5GB
-        plan for $5.99 over 3 days might be better. These short-duration plans are perfect for ensuring connectivity without
-        paying for a full week. You can stay connected to airport Wi-Fi and use data as needed.
-    - q: Will a taiwan tourist esim work in the remote areas near the airport?
-      a: Yes, eSIMs connect to major national networks like Chunghwa Telecom, which provide excellent coverage even in areas
-        surrounding the airport, such as Taoyuan City. You will have reliable 4G LTE service for navigation and communication
-        as you travel from the airport to your hotel. The network coverage in Taiwan is extensive, covering most urban and
-        suburban areas very well. This ensures a smooth transition from the airport to your first destination.
-  - id: faq-transport
-    icon: train
-    tab_title: Transport
-    title: 3.  Taiwan eSIM for Transport
-    questions:
-    - q: Can I use my esim taiwan for navigation on the Taipei MRT?
-      a: Absolutely, an esim taiwan provides the high-speed data needed for real-time navigation apps like Google Maps on
-        the Taipei MRT. You can easily look up routes, check train schedules, and find the nearest exits while underground.
-        The network coverage in Taipei's subway system is generally very good, ensuring a reliable connection. This makes
-        navigating the city's efficient public transport system hassle-free.
-    - q: Can I use Taiwan eSIM for ride-hailing and maps?
-      a: Absolutely. Taiwan eSIM works with ride-hailing apps and navigation. A 5GB/15 days plan ($4.99) covers daily navigation
-        and ride-booking during a typical trip. The 4G/5G connection ensures reliable real-time tracking and route updates.
-    - q: Will my taiwan e sim work on high-speed trains like the THSR?
-      a: Yes, your taiwan e sim will work perfectly on the Taiwan High-Speed Rail (THSR), providing consistent data connectivity
-        as you travel between cities. You can stream videos, work, or browse the internet throughout your journey at speeds
-        up to 300 km/h. The network is designed to handle high-speed travel, so you won't experience significant dropouts.
-        This makes long-distance travel productive and enjoyable.
-    - q: Do I need a large data plan for using Google Maps while driving in Taiwan?
-      a: For driving and using live navigation, a data plan like the 7-day 10GB option for $10.99 is a safe choice to ensure
-        you never run out. Maps can use data for traffic updates and re-routing, especially on longer trips around the island.
-        Having a buffer of data prevents any interruption in your navigation service. This gives you peace of mind while exploring
-        Taiwan by car.
-    - q: How do I stay connected on ferries to outlying islands like Green Island?
-      a: Your eSIM will connect to the cellular network of carriers like Chunghwa Telecom when you are near the coast or on
-        the islands. While on the open sea, coverage may be limited, but you will regain a strong signal as you approach the
-        islands. A 15-day 5GB plan at $7.99 is ideal for a multi-day trip that includes island hopping. This ensures you have
-        data for booking ferries and finding local attractions upon arrival.
-  - id: faq-hotels
-    icon: building
-    tab_title: Hotels
-    title: 4.  Taiwan eSIM for Hotels
-    questions:
-    - q: Is an esim taiwan necessary when my hotel offers free Wi-Fi?
-      a: While hotel Wi-Fi is useful, an esim taiwan provides reliable connectivity when you are away from your room, such
-        as in the lobby, gym, or on the street. Hotel Wi-Fi can be slow or require frequent logins, whereas your eSIM offers
-        a constant, private connection. It also allows you to use your phone as a hotspot for other devices if needed. This
-        makes it an essential tool for staying connected throughout your entire trip.
-    - q: Can I use my taiwan esim to stream movies in my hotel room?
-      a: Yes, if you choose a plan with sufficient data, you can easily stream movies in your hotel room. A 30-day 30GB plan
-        for $31.99 provides plenty of data for streaming, browsing, and social media. This can be a good alternative to relying
-        on potentially slow or limited hotel Wi-Fi. You can enjoy your entertainment without worrying about buffering or data
-        limits.
-    - q: What is the best eSIM for a business traveler staying in a Taipei hotel?
-      a: For a business traveler, a 30-day 20GB plan at $22.99 offers a great balance of data and value for a longer stay.
-        This allows for reliable video conferencing, email access, and cloud document editing from your hotel. It ensures
-        you have a stable, private internet connection outside of potentially insecure hotel networks. This plan is perfect
-        for maintaining productivity during your business trip.
-    - q: Will my esim work in rural bed and breakfasts outside of major cities?
-      a: Yes, eSIMs using the networks of Chunghwa Telecom and Taiwan Mobile generally have good coverage even in rural areas
-        and smaller towns. You can expect reliable 4G LTE service in most bed and breakfasts, allowing you to stay connected.
-        While speeds might be slightly slower than in Taipei, they are sufficient for navigation and messaging. This ensures
-        you can share your travel experiences from any location.
-    - q: Can I share my hotel Wi-Fi login with my family while using my eSIM for myself?
-      a: Yes, you can use your hotel Wi-Fi for one device while your eSIM provides data for your phone. This is a great way
-        to maximize connectivity for everyone in your group without purchasing multiple eSIMs. You can also use your phone's
-        hotspot feature to share your eSIM connection with a companion's device. This flexibility is a major advantage of
-        having your own personal data plan.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5.  Taiwan eSIM for Attractions
-    questions:
-    - q: Will I have coverage at Taiwan attractions in Taiwan?
-      a: Major attractions like Taiwan attractions typically have good 4G/5G coverage in Taiwan. However, remote areas may
-        have limited signal. Download offline maps before visiting out-of-the-way destinations. A 5GB plan provides comfortable
-        data for photos, maps, and social media throughout your trip.
-    - q: Do I need a lot of data for visiting museums like the National Palace Museum?
-      a: For a museum visit, a moderate data plan like a 3GB option for $3.99 over 3 days is sufficient for audio guides,
-        browsing exhibit info, and posting photos. You might use data to look up details about specific artifacts or to navigate
-        the museum's layout. It is an essential tool for enriching your visit with instant access to information. This data
-        usage is light enough that it won't drain a larger plan quickly.
-    - q: How can an esim taiwan enhance my visit to night markets like Shilin?
-      a: An esim taiwan is perfect for navigating the bustling Shilin Night Market, allowing you to look up food stalls, read
-        reviews, and find specific vendors. You can use translation apps to understand menus and communicate with vendors.
-        It also lets you instantly share photos and videos of your culinary discoveries with friends and family. This makes
-        the chaotic and exciting night market experience much more enjoyable.
-    - q: What esim plan is best for hiking in Taroko Gorge?
-      a: For a day hiking in Taroko Gorge, a 3-day 3GB plan at $3.99 provides enough data for navigation apps and emergency
-        communication. While coverage in the deepest parts of the gorge can be patchy, you will have service in most visitor
-        areas and trails. Having a reliable data connection is important for safety and for looking up trail information.
-        A smaller, short-term plan is a practical and cost-effective choice.
-    - q: Can I live-stream my visit to Jiufen Old Street with an eSIM?
-      a: Yes, you can live-stream your experience at Jiufen with a plan that offers ample high-speed data, such as a 7-day
-        10GB plan for $10.99. The area generally has good 4G and 5G coverage, allowing for stable video uploads. This lets
-        you share the magical atmosphere of the old street in real-time. Just be mindful of your data usage if you are not
-        on an unlimited plan.
-  - id: faq-social
-    icon: message-circle
-    tab_title: Social & Messaging
-    title: 6.  Taiwan eSIM for Social Media
-    questions:
-    - q: Is a taiwan esim good for using social media apps like Instagram and TikTok?
-      a: Absolutely, a taiwan esim provides the high-speed data necessary for browsing, posting, and streaming on Instagram
-        and TikTok. You can upload photos and videos without significant delays, keeping your followers updated on your trip.
-        For heavy social media users, a 15-day 10GB plan at $12.99 offers excellent value. This ensures you can stay active
-        on all your platforms throughout your vacation.
-    - q: How much data do I need for Taiwan?
-      a: Light users (maps + messaging) ~300MB/day, moderate (social + photos) ~700MB/day, heavy (streaming + video calls)
-        choose Unlimited. Most visitors find 5GB/15 days ($4.99) comfortable for a standard trip to Taiwan.
-    - q: Can I use my esim for dating apps like Tinder in Taipei?
-      a: Yes, you can use all dating apps like Tinder and Bumble with your taiwan eSIM. The data connection supports swiping,
-        messaging, and profile browsing seamlessly. It is a great way to meet locals or other travelers while exploring Taipei.
-        A small 3GB plan would be more than enough for this purpose over a short stay.
-    - q: Is there a data plan suited for heavy Facebook and Reddit browsing?
-      a: For heavy browsing on platforms like Facebook and Reddit, which can use a surprising amount of data with images and
-        videos, a larger plan is advisable. A 30-day 20GB plan at $22.99 provides a substantial data allowance for this type
-        of activity. This allows you to scroll without worry and participate in discussions. It is a cost-effective solution
-        for data-hungry social media users.
-    - q: How much data does posting photos to social media usually consume?
-      a: Posting a single high-resolution photo to social media typically uses between 2MB and 5MB of data. Posting multiple
-        photos or a short video can use more, so having a buffer is wise. A 7-day 3GB plan at $3.99 is a good starting point
-        for a light social media user. This plan allows for dozens of posts and regular browsing without any concern about
-        running out of data.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7.  Taiwan eSIM for Cross-Border Travel
-    questions:
-    - q: Can I use my taiwan esim in other countries like Japan or South Korea?
-      a: No, a standard taiwan esim is designed for use only within Taiwan's borders and will not work in other countries.
-        You would need to purchase a separate regional or global eSIM for multi-country travel. For example, if you are planning
-        a trip that includes both Taiwan and Japan, a multi-country plan would be more suitable. This ensures you have connectivity
-        wherever your travels take you.
-    - q: What if I have a layover in Hong Kong before arriving in Taiwan?
-      a: Your taiwan esim will only activate and work once you are connected to a Taiwanese network. It will not provide service
-        during your layover in Hong Kong or any other country. You should either rely on airport Wi-Fi in Hong Kong or have
-        a separate plan for that location. It is important to plan your connectivity for each leg of your journey separately.
-    - q: Are there eSIM plans that cover both Taiwan and mainland China?
-      a: Yes, some providers offer regional eSIM plans that include both Taiwan and mainland China, though these can be more
-        expensive. These plans are convenient for travelers visiting both destinations on one trip. However, a dedicated taiwan
-        esim is often more competitively priced for a pure Taiwan vacation. For instance, a 15-day 5GB plan in Taiwan is $7.99,
-        which is very cost-effective.
-    - q: Will my esim work on a cruise that stops in Taiwan?
-      a: Your esim will work when the cruise ship is docked in a Taiwanese port and your phone connects to a local cellular
-        network. While at sea, your phone will likely connect to the ship's expensive maritime roaming service or have no
-        signal. It is best to use the eSIM only during your onshore excursions in Taiwan. This helps you avoid unexpected
-        roaming charges from the cruise line.
-    - q: Can I buy a taiwan esim if I am traveling from the US with a layover in another country?
-      a: Yes, you can purchase and install a taiwan esim before you leave the US. The eSIM will remain inactive until you
-        arrive in Taiwan and connect to a local network. This is a very convenient option as you do not need to worry about
-        connectivity during your layover. You can simply activate it upon arrival at your final destination.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  Taiwan eSIM for Emergencies
-    questions:
-    - q: Can I use my esim to call emergency services in Taiwan?
-      a: Yes, even with a data-only eSIM, you can dial emergency numbers like 110 (police) and 119 (ambulance/fire) as these
-        calls are prioritized by the network. The eSIM provides a connection to the local network, allowing these critical
-        calls to go through. This is a vital safety feature for any traveler. You can also use data-based calling apps to
-        contact your embassy if needed.
-    - q: Can I use WhatsApp and FaceTime with Taiwan eSIM?
-      a: Yes! Taiwan eSIM supports WhatsApp audio/video calls, FaceTime, WeChat voice, and Zoom without any blocks. You can
-        stay in touch with family using your preferred messaging apps throughout your trip.
-    - q: Is it easy to top up my taiwan esim if I need more data urgently?
-      a: Yes, most eSIM providers offer a simple online portal or app where you can purchase a top-up data pack instantly.
-        This process is usually completed in a few clicks, and the new data is added to your plan immediately. This is much
-        more convenient than finding a physical store to buy a new SIM card. It provides a quick solution if you find yourself
-        unexpectedly running low on data.
-    - q: Will my esim work during a natural disaster like an earthquake or typhoon?
-      a: During a natural disaster, cellular networks can become congested or suffer damage, which may affect your eSIM's
-        service. However, the network will prioritize emergency communications, so basic connectivity may still be available.
-        Having an eSIM from a major provider like Chunghwa Telecom gives you the best chance of maintaining service. It is
-        a crucial tool for receiving emergency alerts and contacting help.
-    - q: Can I use my esim to find the nearest hospital or police station?
-      a: Absolutely, your esim's data connection allows you to use map applications to quickly locate the nearest hospital,
-        police station, or pharmacy. This is invaluable in an emergency when you need directions fast. The high-speed data
-        ensures the map loads and updates promptly. This feature alone makes having a reliable eSIM an essential part of travel
-        safety.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  Taiwan eSIM for Business Travelers
-    questions:
-    - q: What is the best esim for taiwan for a short business trip to Taipei?
-      a: For a short business trip, a 3-day 1GB plan for $1.99 is an excellent choice for checking emails and light browsing.
-        If you anticipate needing more data for presentations or navigation, a 3-day 5GB plan at $5.99 is a great value upgrade.
-        These plans offer the flexibility and reliability needed for a productive work trip. You can stay connected without
-        a long-term commitment.
-    - q: Can I use my taiwan esim for reliable video conferencing?
-      a: Yes, a taiwan esim provides the stable, high-speed connection required for professional video conferencing on platforms
-        like Zoom and Microsoft Teams. A plan like the 7-day 20GB option at $13.99 ensures you have ample data for multiple
-        calls. The low latency and high bandwidth of Taiwan's 5G network make for a smooth communication experience. This
-        allows you to attend meetings from your hotel or a coffee shop without issues.
-    - q: How can an eSIM help me stay productive while traveling between meetings?
-      a: An eSIM ensures you have continuous data connectivity while traveling between meetings on the MRT or in a taxi. You
-        can use this time to reply to emails, update documents, or review your schedule. The always-on connection means you
-        never miss important notifications. This turns travel time into productive work time, a key advantage for business
-        travelers.
-    - q: Is a taiwan esim more secure than public Wi-Fi for business activities?
-      a: Yes, using your personal taiwan esim is significantly more secure than connecting to public Wi-Fi networks at cafes
-        or airports. Public Wi-Fi is a common vector for cyberattacks, whereas your eSIM provides a private, encrypted connection.
-        This is crucial for handling sensitive business emails and data. It offers peace of mind when accessing corporate
-        resources while abroad.
-    - q: Can I have both my work and personal lines active with an eSIM?
-      a: Yes, you can use your physical SIM for your home number and the eSIM for your Taiwan data, or vice versa. This allows
-        you to keep both your work and personal lines active simultaneously. You can receive calls on your home number while
-        using data from the eSIM for work apps. This dual-SIM functionality is a powerful tool for managing communication
-        efficiently during your business trip.
+    - q: |
+        How does Roami compare to Airalo for eSIM in Taiwan?
+      a: |
+        Roami typically offers better value for Taiwan eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+    - q: |
+        Which carrier in Taiwan should I rely on for my eSIM?
+      a: |
+        Chunghwa Telecom operates over 15,000 towers across Taiwan, covering all major cities. Far EasTone complements this with additional rural coverage reaching about 90% of the population. Taiwan Mobile focuses on affordability, with data plans costing roughly 20% less than Chunghwa Telecom. With Roami, you don't pick one — it connects to whichever is strongest.
+    - q: |
+        Can I buy a Taiwan eSIM at the last minute, right before my flight?
+      a: |
+        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Taiwan, just enable Data Roaming and you'll be online immediately.
+    - q: |
+        How far in advance should I buy my Taiwan eSIM?
+      a: |
+        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Taiwan, so buying early doesn't waste your plan days.
+    - q: |
+        Can I keep my home SIM in my phone while using eSIM in Taiwan?
+      a: |
+        Yes — that's one of the best things about eSIM. Your home SIM stays in slot 1 for receiving SMS (bank codes, login verifications), while the eSIM handles all data in slot 2. Just disable data roaming on your home SIM to avoid charges.
+    - q: |
+        Can I use my Taiwan eSIM for social media and sharing photos with family?
+      a: |
+        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Chunghwa Telecom handle photos in seconds and short videos easily.
+    - q: |
+        What's the most popular eSIM choice for travelers going to Taiwan?
+      a: |
+        Most travelers to Taiwan choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
+    - q: |
+        Is eSIM cheaper than international roaming for Taiwan?
+      a: |
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Taiwan costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
 related_products:
   title: Related Taiwan eSIM Plans
   items:

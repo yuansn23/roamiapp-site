@@ -382,163 +382,46 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: 'Italy eSIM Guide 2026: Data Plans & Travel Tips'
-  desc: From Rome to Milan, stay connected on TIM, Vodafone Italia, Wind Tre networks. Our complete Italy eSIM guide covers
-    coverage, plans, setup, and travel tips. Find the best plan for your trip.
+  title: "Italy eSIM for Travelers | Pricing & How to Stay Connected"
+  desc: "Planning Italy travel? Our eSIM guide covers lycamobile italy esim, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1. Understanding Italy eSIM Options
+    title: Italy eSIM FAQs
     questions:
-    - q: Which eSIM works best for traveling across Italy?
-      a: The ideal eSIM for Italy balances coverage, speed, and price. Our eSIM runs on TIM and Vodafone – Italy’s two largest
-        networks. You’ll get strong 4G/5G in Rome, Florence, Venice, Milan, and along the Amalfi Coast. For short city breaks,
-        1-3GB is plenty. For road trips through Tuscany or the Dolomites, 5-10GB is safer. Unlimited data plans work well
-        for heavy streamers or remote workers.
-    - q: What is the difference between TIM eSIM Italy and Vodafone Italy eSIM?
-      a: TIM and Vodafone are both excellent. TIM has slightly better coverage in remote villages; Vodafone often has faster
-        speeds in cities. Our eSIM uses both networks – your phone automatically picks the strongest signal. Buying a TIM
-        eSIM Italy or Vodafone Italy eSIM directly requires a visit to a store with ID and often a local contract. Our prepaid
-        eSIM is fully remote, cheaper for tourists, and activates instantly.
-    - q: Is TIM or Vodafone Italia better for Italy travel?
-      a: Both TIM and Vodafone Italia offer excellent coverage across Italy. TIM generally has wider rural coverage, while
-        Vodafone Italia offers competitive 5G speeds in cities. For most travelers visiting Rome, Milan, and the surrounding
-        areas, either network works well. If you plan to explore remote areas, TIM is typically the safer choice.
-    - q: Do you offer an unlimited data eSIM for Italy?
-      a: 'Yes. Our unlimited data plan gives you full-speed data for most activities. A fair usage policy applies: after 30GB
-        in a single day, speeds reduce to 512kbps until midnight (local time). That’s still usable for maps, messaging, and
-        light browsing. Hotspot is allowed at up to 10Mbps – many unlimited plans from other providers block tethering entirely.'
-    - q: Can I buy an eSIM for Italy online and install it before my flight?
-      a: Absolutely. Purchase on our website, and we’ll email a QR code within minutes. Scan it with your phone, follow the
-        prompts, and label the plan 'Italy'. The validity only starts when your phone first connects to TIM or Vodafone after
-        you land. You can install it weeks in advance – no stress at the airport.
-    - q: Which networks does your Italy eSIM use?
-      a: Your eSIM will connect to TIM and Vodafone – the two best networks in Italy. In areas where one is weak, it automatically
-        switches to the other. This dual-network approach gives you coverage in busy train stations, ancient ruins, and even
-        some mountain passes. For the islands (Sicily, Sardinia), coverage is strong in cities and tourist areas.
-    - q: What’s the best eSIM for a first-time visitor to Italy?
-      a: For most first-time visitors, a 5GB or 10GB plan offers the best balance. You’ll have enough data for Google Maps,
-        researching restaurants, posting photos, and occasional video calls. If you’re visiting multiple cities (Rome to Florence
-        to Venice), our dual-network coverage ensures you stay connected on high-speed trains.
-  - id: faq-airport
-    icon: plane
-    tab_title: Airports
-    title: 2. Activating Your eSIM Upon Arrival
-    questions:
-    - q: How do I activate my Italy eSIM after landing at Rome Fiumicino (FCO)?
-      a: Install the eSIM at home before departure. When you land at FCO, Milan Malpensa (MXP), or Venice (VCE), turn off
-        Airplane Mode and set your eSIM as the data line. You’ll connect to TIM or Vodafone within 30 seconds. Then open Google
-        Maps to find the Leonardo Express train, call a taxi through app, or message your Airbnb host. No Wi-Fi needed.
-    - q: Can I activate my Italy eSIM at the airport?
-      a: Yes, you can activate your Italy eSIM as soon as you land using the airport's free Wi-Fi. Just scan your QR code
-        from email and you'll be connected in under 2 minutes. We recommend installing the eSIM before departure so you're
-        connected the moment you arrive.
-    - q: What if my eSIM doesn’t connect at the airport?
-      a: First, check that your eSIM line is enabled and set as primary data. If still no signal, go to Settings > Cellular
-        > Network Selection, turn off Automatic, and manually select TIM or Vodafone. Both have strong coverage at all major
-        Italian airports. Our support team is available 24/7 via live chat if you need help.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3. Getting Around Italy with eSIM Data
-    questions:
-    - q: Can I use Italy eSIM for ride-hailing and maps?
-      a: Absolutely. Italy eSIM works with ride-hailing apps and navigation. A 5GB/15 days plan ($4.99) covers daily navigation
-        and ride-booking during a typical trip. The 4G/5G connection ensures reliable real-time tracking and route updates.
-    - q: Does Uber work in Italy with a data-only eSIM?
-      a: Uber only operates in Milan and Rome (Uber Black, higher end). For regular taxis, use apps like Free Now (formerly
-        mytaxi) or IT Taxi – both work over data. You don’t need an Italian number; the driver can message you through the
-        app. For public transport, download the Trenitalia or Italo app – your eSIM lets you book high-speed train tickets
-        on the go.
-    - q: How do I buy train tickets for high-speed trains like Frecciarossa?
-      a: Use the Trenitalia or Italo app. Both work over your eSIM data. You can browse schedules, book seats, and display
-        the QR code ticket at the gate. Tickets are saved offline after download, so you don’t need signal at the scanner.
-        This is much faster than using ticket machines in busy stations like Roma Termini.
-    - q: Is there good eSIM coverage on the Venice water buses or in the islands?
-      a: Yes. TIM and Vodafone cover Venice’s main islands (San Marco, Rialto, Lido) and the water bus routes. Murano and
-        Burano also have solid coverage. In the narrow alleys, signal may dip – but you’ll still get basic connectivity. For
-        gondola rides, enjoy the view and check maps later.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4. Accommodation, Dining & Local Services
-    questions:
-    - q: How do I check into an Airbnb or hotel without Wi-Fi?
-      a: Use your eSIM data to open your Airbnb or Booking.com app. Most hosts send door codes or check-in instructions by
-        message. You can read them right at the entrance. For hotels, the receptionist may ask for a booking reference – you
-        can show the confirmation email from your phone. No need to ask for Wi-Fi before checking in.
-    - q: Should I use hotel Wi-Fi or my eSIM in Italian hotels?
-      a: Hotel Wi-Fi in Italy ranges from excellent (luxury hotels) to barely working (budget or historic buildings with thick
-        stone walls). For banking, email, or logging into social accounts, use your eSIM’s cellular data – it’s more secure.
-        For downloading large files or streaming Netflix, hotel Wi-Fi is fine if it’s fast. Keep your eSIM as a reliable backup.
-    - q: Can I order food delivery (Glovo, Deliveroo) to my hotel?
-      a: Yes. Glovo works in Rome, Milan, Bologna, and other cities. Deliveroo operates in major tourist areas. Both apps
-        require data – your eSIM lets you browse restaurants, order, and track the delivery. Put your hotel name and room
-        number. The rider can message you through the app if they can’t find the entrance.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5. Tickets for Colosseum, Vatican & More
-    questions:
-    - q: Will I have coverage at Colosseum in Italy?
-      a: Major attractions like Colosseum typically have good 4G/5G coverage in Italy. However, remote areas may have limited
-        signal. Download offline maps before visiting out-of-the-way destinations. A 5GB plan provides comfortable data for
-        photos, maps, and social media throughout your trip.
-    - q: How to get audio guides at the Uffizi or Borghese Gallery without Wi-Fi?
-      a: Many museums offer audio guides through a mobile website or app that streams over data. With your eSIM, you can start
-        the guide on arrival. Alternatively, download audio tours from apps like Rick Steves Audio Europe on hotel Wi-Fi in
-        advance. For the Roman Forum, you can pull up Wikipedia articles about each ruin instantly using your eSIM.
-    - q: Do I need data to book a gondola ride or cooking class?
-      a: Most tour operators have WhatsApp or websites. With your eSIM, you can message them to check availability, compare
-        prices, and book. For popular activities in Florence (cooking class) or Venice (gondola), having on-the-go data lets
-        you read reviews before committing.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social & Messaging
-    title: 6. Sharing Your Italian Adventure Online
-    questions:
-    - q: Will WhatsApp work with a data-only Italy eSIM?
-      a: Yes. WhatsApp uses your home number and only needs internet. Voice and video calls work flawlessly. A voice call
-        uses ~0.5MB per minute, video ~5MB per minute. Many tour guides and restaurant owners in Italy use WhatsApp – you
-        can message them directly using your eSIM data.
-    - q: How much data do I need for Italy?
-      a: Light users (maps + messaging) ~300MB/day, moderate (social + photos) ~700MB/day, heavy (streaming + video calls)
-        choose Unlimited. Most visitors find 5GB/15 days ($4.99) comfortable for a standard trip to Italy.
-    - q: Is FaceTime reliable in Italian cities?
-      a: Very. Both TIM and Vodafone have low-latency connections in urban areas. You’ll have clear HD FaceTime calls from
-        the Spanish Steps, Ponte Vecchio, or even on a high-speed train between Rome and Naples. We route traffic locally
-        within Italy for the best performance.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7. Day Trips to Vatican, San Marino, and Neighboring Countries
-    questions:
-    - q: Does my Italy eSIM work in the Vatican City or San Marino?
-      a: Yes. The Vatican City is entirely covered by Italian networks – your eSIM works normally. San Marino, a microstate
-        within Italy, also uses Italian carriers. No extra purchase needed. For day trips to Switzerland (Como area) or France
-        (near Nice), you’ll need a separate eSIM or a Europe regional plan.
-    - q: What about a trip to Sicily or Sardinia?
-      a: Both islands are covered by TIM and Vodafone. You’ll have signal in Palermo, Catania, Cagliari, and along coastal
-        roads. Remote mountain interiors in Sardinia may have weaker coverage – download offline maps. For the Aeolian Islands
-        (off Sicily), coverage is available in main towns.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  Italy eSIM for Emergencies
-    questions:
-    - q: Can I call 112 (European emergency number) in Italy with my eSIM?
-      a: Yes. 112 is the unified emergency number for police, ambulance, and fire across Italy. Your phone will use any available
-        network to complete the call – even without active data. It’s free and always works. For non-urgent medical help,
-        use your eSIM data to search for 'guardia medica turistica' (medical service for tourists) or 'farmacia di turno'
-        (duty pharmacy).
-    - q: Can I use WhatsApp and FaceTime with Italy eSIM?
-      a: Yes! Italy eSIM supports WhatsApp audio/video calls, FaceTime, WeChat voice, and Zoom without any blocks. You can
-        stay in touch with family using your preferred messaging apps throughout your trip.
-    - q: Can I share my live location with family while hiking in the Dolomites?
-      a: Yes. Use WhatsApp’s 'Share Live Location' or Find My over your eSIM data. This is useful for day hikes. Keep in mind
-        that high mountain passes may have limited coverage – share your planned route offline before losing signal. Set a
-        timer for 2-4 hours and check in when you have data again.
+    - q: |
+        How does Roami compare to Nomad for eSIM in Italy?
+      a: |
+        Roami typically offers better value for Italy eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Nomad. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+    - q: |
+        Which carrier in Italy should I rely on for my eSIM?
+      a: |
+        TIM operates over 15,000 towers across Italy, covering all major cities. Vodafone complements this with additional rural coverage reaching about 90% of the population. WindTre focuses on affordability, with data plans costing roughly 20% less than TIM. With Roami, you don't pick one — it connects to whichever is strongest.
+    - q: |
+        Can I get an eSIM for Italy without spending too much?
+      a: |
+        Absolutely. Roami's Italy eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+    - q: |
+        What happens if I use all my data in Italy before my plan expires?
+      a: |
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+    - q: |
+        What if I accidentally delete my Italy eSIM before my trip?
+      a: |
+        No problem. Log into your Roami account and request the QR code again. We recommend saving the QR code as a screenshot or PDF when you first receive it, just in case.
+    - q: |
+        What's the easiest way to stay connected in Italy without dealing with airport SIM kiosks?
+      a: |
+        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to TIM for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
+    - q: |
+        Is eSIM cheaper than international roaming for Italy?
+      a: |
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Italy costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+    - q: |
+        Will my eSIM in Italy work for video calls and remote work?
+      a: |
+        Absolutely. TIM networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
 related_products:
   title: Related Italy eSIM Plans
   items:

@@ -268,215 +268,46 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: 'Gibraltar eSIM Guide 2026: Data Plans & Travel Tips'
-  desc: From Gibraltar City to Catalan Bay, stay connected on Gibtelecom, CTS Gibraltar, Gibtel networks. Our complete Gibraltar
-    eSIM guide covers coverage, plans, setup, and travel tips. Find the best plan for your trip.
+  title: "Gibraltar eSIM Plans & Pricing | Best Options for Travelers"
+  desc: "Planning Gibraltar travel? Our eSIM guide covers gibraltar esim unlimited data, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1.  General Questions About Gibraltar eSIM
+    title: Gibraltar eSIM FAQs
     questions:
-    - q: Does my phone support the Gibraltar eSIM? How do I install it?
-      a: Most modern smartphones support eSIM, and finding the best Gibraltar eSIM provider starts with compatibility. You
-        can install your prepaid Gibraltar eSIM simply by scanning the QR code we send to your email. Follow the steps in
-        your phone's Cellular settings.
-    - q: How to buy and activate the Gibraltar eSIM? Is it active immediately?
-      a: To get the best Gibraltar travel eSIM, purchase it directly on our site. The prepaid Gibraltar eSIM is not active
-        immediately – validity starts when you arrive in Gibraltar and connect to a local network. That's the standard for
-        any Gibraltar eSIM provider.
-    - q: Is Gibtelecom or CTS Gibraltar better for Gibraltar travel?
-      a: Both Gibtelecom and CTS Gibraltar offer excellent coverage across Gibraltar. Gibtelecom generally has wider rural
-        coverage, while CTS Gibraltar offers competitive 5G speeds in cities. For most travelers visiting Gibraltar City,
-        Catalan Bay, and the surrounding areas, either network works well. If you plan to explore remote areas, Gibtelecom
-        is typically the safer choice.
-    - q: Can I get a refund if the Gibraltar eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience issues with your Gibraltar travel eSIM, contact us. This
-        risk-free policy makes us a trusted Gibraltar eSIM provider.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our team is available 24/7 via live chat or email. For questions about how to buy Gibraltar eSIM, we are always
-        ready to help.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Use code 'web20' at checkout for 20% off any prepaid Gibraltar eSIM. This makes your Gibraltar eSIM even more affordable.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy (FUP)?
-      a: Our Unlimited plans include a Fair Usage Policy, common among best Gibraltar eSIM provider providers. You get high-speed
-        data for normal use (browsing, social, video).
-    - q: Can I share my Gibraltar eSIM data (hotspot) with other devices?
-      a: Yes, hotspot is supported. Sharing your unlimited data Gibraltar eSIM with friends or laptop is seamless – a feature
-        you expect from a top Gibraltar eSIM provider.
-    - q: What are the advantages of your Gibraltar eSIM compared to local SIM cards or other providers?
-      a: Unlike physical SIMs, our prepaid Gibraltar eSIM is delivered instantly and works with top networks like Gibtelecom,
-        CTS Gibraltar, Gibtel. That's why we are considered the best Gibraltar eSIM provider for travelers.
-    - q: How do you compare with well-known eSIM providers like Instabridge, Holafly, Airalo, saily?
-      a: While Instabridge, Holafly, Airalo, saily offer good services, our Gibraltar eSIM focuses on lower latency and price-matching.
-        For how to buy Gibraltar eSIM, we provide the simplest checkout.
-  - id: faq-airport
-    icon: plane
-    tab_title: Airports
-    title: 2.  Gibraltar eSIM at Airports
-    questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install your prepaid Gibraltar eSIM before departure. Upon landing at Gibraltar International Airport, enable it
-        to connect instantly – no need for airport Wi-Fi. That's the convenience of a Gibraltar travel eSIM.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Gibraltar eSIM active, you can use CityBus Gibraltar, Gibraltar Taxi Association or WhatsApp right away.
-        This is why savvy travelers buy the best Gibraltar eSIM provider in advance.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Gibraltar eSIM data lets you open Google Maps at baggage claim. For how to buy Gibraltar eSIM, remember
-        that instant connectivity is key.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our prepaid Gibraltar eSIM online, you skip expensive airport kiosks. This is the smart how to buy
-        Gibraltar eSIM strategy for savvy travelers.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Gibraltar eSIM provides data only. Keep your home SIM for SMS (receiving is free) while using the eSIM for data
-        – a common setup with any Gibraltar eSIM provider.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: Use iMessage, WhatsApp, or FaceTime over your Gibraltar eSIM. Choosing the best Gibraltar eSIM provider ensures you
-        can share your arrival safely.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3.  Gibraltar eSIM for Transport
-    questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Gibraltar eSIM gives you real-time traffic. For how to buy Gibraltar eSIM, ensure you get a plan with
-        enough data for navigation – a must for any Gibraltar travel eSIM.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like CityBus Gibraltar, Gibraltar Taxi Association work over data. With your prepaid Gibraltar eSIM, drivers
-        can call you through the app without a local number.
-    - q: How to buy train/subway passes online?
-      a: Use your Gibraltar eSIM data to purchase digital tickets. This is one reason we are a top Gibraltar eSIM provider
-        for urban travelers.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone – your unlimited data Gibraltar eSIM provides ample data for GPS. For the best Gibraltar
-        eSIM provider, choose a plan with sufficient GBs.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Fast internet is needed to scan QR codes. Our Gibraltar eSIM delivers low latency, making it the best Gibraltar eSIM
-        provider for micro-mobility.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you have a regional eSIM, your account stays the same. For how to buy Gibraltar eSIM a multi-country plan, check
-        our regional options.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Enable hotspot on your phone. Sharing your prepaid Gibraltar eSIM with family is easy – a feature every good Gibraltar
-        eSIM provider offers.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4.  Gibraltar eSIM for Hotels
-    questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Access your booking portal via your Gibraltar eSIM. Many guests appreciate the best Gibraltar eSIM provider for retrieving
-        door codes on arrival.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: Use Airbnb messaging or WhatsApp over your Gibraltar eSIM. For how to buy Gibraltar eSIM, prioritize providers with
-        reliable in‑city coverage.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Enter the address of The Rock Hotel, The Sunborn Gibraltar, Eliott Hotel into Google Maps. Your Gibraltar travel
-        eSIM ensures you never get lost, even without hotel Wi-Fi.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary SIM on for SMS; use hotel Wi‑Fi or your prepaid Gibraltar eSIM to trigger codes. This dual‑SIM
-        setup is standard.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: Use VoIP apps like Skype or the Booking.com chat via your Gibraltar eSIM data. Responsive support is why we are a
-        leading Gibraltar eSIM provider.
-    - q: How to order food to the hotel using local delivery apps?
-      a: Download Just Eat, Deliveroo, Uber Eats and order using your Gibraltar eSIM. Late‑night cravings are easy with a
-        reliable Gibraltar travel eSIM.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: After leaving Wi‑Fi, your eSIM takes over. This seamless experience makes our prepaid Gibraltar eSIM the best Gibraltar
-        eSIM provider for post‑checkout communication.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5.  Gibraltar eSIM for Attractions
-    questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: Use your Gibraltar eSIM data to buy skip‑the‑line tickets for The Rock of Gibraltar, St. Michael's Cave, Gibraltar
-        Botanic Gardens. This is a top use case for any Gibraltar travel eSIM.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: Read reviews and book tours with your 4G/5G connection. For how to buy Gibraltar eSIM, choose a plan with enough
-        speed for browsing.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Instantly Google historical facts. Your Gibraltar eSIM enriches your cultural visit – a benefit of choosing the best
-        Gibraltar eSIM provider.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Your eSIM's urban coverage guides you efficiently. That's the convenience of a premium prepaid Gibraltar eSIM.
-    - q: How to check real‑time queue times at theme parks like Disney?
-      a: Theme park apps require constant data. Our unlimited data Gibraltar eSIM keeps you updated – a reason we're a top
-        Gibraltar eSIM provider.
-    - q: How to access Ticketmaster to book show tickets?
-      a: Securely buy last‑minute tickets using your Gibraltar eSIM. For how to buy Gibraltar eSIM, ensure your provider has
-        strong local partnerships.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Upload high‑quality stories in real time. Fast upload speeds are why many call us the best Gibraltar eSIM provider
-        for social media lovers.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social
-    title: 6.  Gibraltar eSIM for Social Media
-    questions:
-    - q: How much data do I need for Gibraltar?
-      a: Light users (maps + messaging) ~300MB/day, moderate (social + photos) ~700MB/day, heavy (streaming + video calls)
-        choose Unlimited. Most visitors find 5GB/15 days ($4.99) comfortable for a standard trip to Gibraltar.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi‑Fi is slow and risky. Our 4G/5G Gibraltar eSIM gives you secure, fast uploads – the best Gibraltar eSIM
-        provider for creators.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Low‑latency networks ensure clear video calls. For how to buy Gibraltar eSIM, prioritize providers with premium local
-        partners like Gibtelecom, CTS Gibraltar, Gibtel.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi‑Fi is vulnerable. Using your personal Gibraltar travel eSIM is encrypted and safer – a key reason to buy
-        a prepaid Gibraltar eSIM.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Enable hotspot and share your unlimited data Gibraltar eSIM. Group travel is easier when you have the best Gibraltar
-        eSIM provider for hotspot.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7.  Gibraltar eSIM for Cross-Border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across multiple European countries?
-      a: For a single‑country Gibraltar eSIM, it works only there. For multi‑country trips, consider our regional eSIM – a
-        smarter how to buy Gibraltar eSIM for Europe.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off data roaming on your home SIM and set your eSIM as primary. This is the standard advice from any Gibraltar
-        eSIM provider.
-    - q: How to get short‑term network when transiting in Singapore/Dubai?
-      a: Purchase a low‑cost transit eSIM. The best Gibraltar eSIM provider for layovers is one you can activate immediately.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Activate a local eSIM for each port. For how to buy Gibraltar eSIM, choose plans that activate as you arrive – our
-        Gibraltar travel eSIM works perfectly.
-    - q: How to ensure Google Maps is online throughout cross‑border road trips?
-      a: A regional eSIM automatically switches networks. That's why our prepaid Gibraltar eSIM is the best Gibraltar eSIM
-        provider for road trippers.
-    - q: How to manage multi‑country data usage with one app?
-      a: You can track all active eSIMs via our website dashboard. Transparency makes us a trusted Gibraltar eSIM provider.
-    - q: How to maintain stable contact methods during multi‑country travel?
-      a: Since WhatsApp/iMessage uses data, a regional eSIM keeps you reachable on the same number – a key feature of the
-        best Gibraltar eSIM provider for long trips.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  Gibraltar eSIM for Emergencies
-    questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Gibraltar, dial 112, 199, 190 from your phone. Any active line works, but having a Gibraltar travel eSIM ensures
-        you have data to find help.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Use Google Maps with your Gibraltar eSIM to search 'pharmacy near me'. For how to buy Gibraltar eSIM, always keep
-        a data plan active for emergencies.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: Browse the internet using your prepaid Gibraltar eSIM to locate your embassy. That's why we recommend the best Gibraltar
-        eSIM provider for safety.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype over your Gibraltar eSIM to call toll‑free numbers. Reliable data is crucial – choose a
-        top Gibraltar eSIM provider.
-    - q: How to share location in real‑time in unsafe areas?
-      a: Use WhatsApp Live Location or Apple's Find My over your eSIM. For how to buy Gibraltar eSIM, make sure your plan
-        allows background data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you have city coverage, download offline maps. This proactive tip complements your Gibraltar travel eSIM for
-        off‑grid travel.
+    - q: |
+        How much should I budget for an eSIM when visiting Gibraltar?
+      a: |
+        Roami offers Gibraltar eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Gibtelecom provides reliable speeds across Gibraltar. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+    - q: |
+        Will the Gibraltar eSIM unlimited plan slow down if I use too much data?
+      a: |
+        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
+    - q: |
+        How does Roami compare to Holafly for eSIM in Gibraltar?
+      a: |
+        Roami typically offers better value for Gibraltar eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Holafly. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+    - q: |
+        I'm traveling to Gibraltar for just 2-3 days. What eSIM should I get?
+      a: |
+        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+    - q: |
+        What documents do I need to buy a Gibraltar eSIM from Roami?
+      a: |
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+    - q: |
+        What if I accidentally delete my Gibraltar eSIM before my trip?
+      a: |
+        No problem. Log into your Roami account and request the QR code again. We recommend saving the QR code as a screenshot or PDF when you first receive it, just in case.
+    - q: |
+        What's the difference between a 5GB plan and an unlimited plan for Gibraltar?
+      a: |
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+    - q: |
+        Can I buy a Gibraltar eSIM at the last minute, right before my flight?
+      a: |
+        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Gibraltar, just enable Data Roaming and you'll be online immediately.
 related_products:
   title: Related eSIM Plans
   items:

@@ -343,254 +343,46 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: 'Brazil eSIM Guide 2026: Network & Travel Guide'
-  desc: From São Paulo to Rio de Janeiro, stay connected on Claro, Vivo, TIM networks. Our complete Brazil eSIM guide covers
-    coverage, plans, setup, and travel tips. Find the best plan for your trip.
+  title: "Brazil Travel eSIM Guide | Prices, Networks & Activation"
+  desc: "Planning Brazil travel? Our eSIM guide covers cheapest esim brazil, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1.  General Questions About Brazil eSIM
+    title: Brazil eSIM FAQs
     questions:
-    - q: Is Claro or Vivo better for Brazil travel?
-      a: Both Claro and Vivo offer excellent coverage across Brazil. Claro generally has wider rural coverage, while Vivo
-        offers competitive 5G speeds in cities. For most travelers visiting São Paulo, Rio de Janeiro, and the surrounding
-        areas, either network works well. If you plan to explore remote areas, Claro is typically the safer choice.
-    - q: How do I choose the best eSIM for my trip to Brazil?
-      a: The best eSIM for Brazil depends on your data needs and trip length. For a short 3-day visit, a 1GB plan at $4.99
-        is ideal for basic tasks. For longer stays, consider a 5GB 30-day plan at $19.99 or a 20GB option at $30.99 for extensive
-        browsing.
-    - q: Does the eSIM work with both Vivo and Claro networks in Brazil?
-      a: Yes, many eSIM providers automatically connect to strong local networks like Vivo and Claro. This ensures reliable
-        coverage across major cities and rural areas. Your device will switch to the best available signal without any manual
-        intervention. This seamless connectivity is a key advantage of using an eSIM in Brazil.
-    - q: Can I keep my home SIM card while using a Brazil eSIM?
-      a: Absolutely, you can use both your home SIM and a Brazil eSIM simultaneously. This dual-SIM feature allows you to
-        receive calls on your home number while using the eSIM for data. It is a convenient way to stay reachable without
-        incurring roaming charges. Most modern smartphones support this setup effortlessly.
-    - q: What happens if I run out of data on my Brazil eSIM?
-      a: If you deplete your data, you can easily purchase a top-up from your provider's app or website. Additional data bundles
-        are often available, such as a 10GB plan for $29.99 for 30 days. This flexibility ensures you never get disconnected
-        during your travels. It is a straightforward process that takes only a few minutes.
-    - q: Is an eSIM better than a physical SIM card for Brazil?
-      a: An eSIM offers greater convenience as it eliminates the need to find a store for a physical SIM. You can purchase
-        and install it from anywhere, even before your trip. It also allows for easy switching between plans or providers
-        without juggling plastic cards. This makes it a superior choice for modern travelers.
-    - q: Do I need to declare my eSIM at customs in Brazil?
-      a: No, you do not need to declare an eSIM at customs, as it is a digital service. There are no physical components to
-        present or register. This makes entering Brazil hassle-free, allowing you to focus on your journey. Simply have the
-        activation instructions ready on your phone.
-    - q: Can I use a Brazil eSIM on an iPhone or Android device?
-      a: Yes, eSIMs are compatible with most modern iPhones and Android smartphones. For iPhones, models from the XR onward
-        support eSIM technology. On Android, devices like Google Pixel and Samsung Galaxy series offer full compatibility.
-        Always check your device settings to confirm eSIM support before purchasing.
-    - q: How does Roami compare to other eSIM providers like Airalo or Holafly in Brazil?
-      a: Roami offers competitive pricing and high-speed data on reliable networks like Vivo. While Airalo and Holafly are
-        popular choices, Roami focuses on providing straightforward plans without hidden fees. For example, a 7-day 3GB plan
-        with Roami is $9.99, which is comparable to other providers. The key is to compare data allowances and daily rates
-        for your specific needs.
-    - q: What is the daily cost of using an eSIM in Brazil?
-      a: The daily cost varies by plan, with options starting as low as $0.50 per day for a 30-day 3GB plan. For more data,
-        a 30-day 20GB plan at $30.99 breaks down to about $1.03 per day. This pricing makes eSIMs a cost-effective alternative
-        to traditional roaming. You can select a plan that matches your usage pattern exactly.
-  - id: faq-airport
-    icon: airplane
-    tab_title: Airports
-    title: 2.  Brazil eSIM at Airports
-    questions:
-    - q: Can I activate my Brazil eSIM at the airport?
-      a: Yes, you can activate your Brazil eSIM as soon as you land using the airport's free Wi-Fi. Just scan your QR code
-        from email and you'll be connected in under 2 minutes. We recommend installing the eSIM before departure so you're
-        connected the moment you arrive.
-    - q: Is there eSIM coverage at Galeão International Airport in Rio de Janeiro?
-      a: Absolutely, Galeão Airport has excellent coverage from Brazilian networks like Vivo and Claro. Your eSIM will connect
-        automatically within minutes of arrival. This allows you to book taxis or check hotel directions without delay. The
-        strong signal ensures you stay online even in busy terminal areas.
-    - q: Do I need a physical SIM to use data at Brazilian airports?
-      a: No, you do not need a physical SIM card, as eSIMs provide instant data access. You can purchase and install an eSIM
-        before your trip, so it is ready upon landing. This eliminates the need to search for SIM kiosks in the airport. It
-        is a hassle-free solution for staying connected.
-    - q: What should I do if my eSIM doesn't activate at the airport?
-      a: First, connect to the airport's free Wi-Fi to ensure you have internet access for setup. Then, follow the provider's
-        instructions to scan the QR code or enter the activation details. If issues persist, contact customer support via
-        chat or email. Most problems are resolved within minutes with basic troubleshooting.
-    - q: Can I buy a Brazil eSIM at the airport upon arrival?
-      a: While you can buy eSIMs online from anywhere, some providers offer airport-specific QR codes. It is more convenient
-        to purchase and install your eSIM before traveling to Brazil. This way, you avoid the rush and potential connectivity
-        gaps at the airport. Pre-planning ensures you have data the moment you step off the plane.
-  - id: faq-transport
-    icon: train
-    tab_title: Transport
-    title: 3.  Brazil eSIM for Transport
-    questions:
-    - q: Can I use my eSIM for ride-hailing apps like Uber in Brazil?
-      a: Yes, your eSIM provides reliable data for apps like Uber and 99 in major cities. This allows you to request rides,
-        track the driver, and make payments seamlessly. With a 7-day 5GB plan at $14.99, you can comfortably use navigation
-        and ride services. The high-speed connection ensures real-time updates without buffering.
-    - q: Can I use Brazil eSIM for ride-hailing and maps?
-      a: Absolutely. Brazil eSIM works with ride-hailing apps and navigation. A 5GB/15 days plan ($4.99) covers daily navigation
-        and ride-booking during a typical trip. The 4G/5G connection ensures reliable real-time tracking and route updates.
-    - q: Can I use my eSIM for GPS navigation while driving in Brazil?
-      a: Absolutely, your eSIM supports GPS apps like Google Maps or Waze for turn-by-turn directions. With a 30-day 10GB
-        plan at $29.99, you can navigate extensively across cities and highways. The high-speed data ensures quick route recalculations
-        and traffic updates. This is essential for avoiding road closures and delays.
-    - q: Is eSIM coverage reliable on long-distance buses in Brazil?
-      a: Coverage on long-distance buses can vary, but major routes near cities are well-supported. Networks like Vivo provide
-        consistent signals on highways between Rio and São Paulo. For extended journeys, consider a 20GB plan at $30.99 for
-        30 days. This ensures you have data for entertainment and communication during the trip.
-    - q: How much data do I need for transport apps during a week in Brazil?
-      a: For a week of moderate use, a 3GB plan at $9.99 is usually sufficient for navigation and ride-hailing. If you plan
-        to stream music or use maps frequently, a 5GB plan at $14.99 offers more buffer. This covers daily commutes and occasional
-        detours. Always check your usage to avoid running out.
-  - id: faq-hotels
-    icon: building
-    tab_title: Hotels
-    title: 4.  Brazil eSIM for Hotels
-    questions:
-    - q: Can I use my eSIM for hotel Wi-Fi backup in Brazil?
-      a: Yes, your eSIM serves as an excellent backup if hotel Wi-Fi is slow or unreliable. You can stream movies, join video
-        calls, or browse without interruptions. A 7-day 10GB plan at $22.99 provides ample data for such needs. This ensures
-        you stay productive and entertained during your stay.
-    - q: How do I check in to my hotel using only my eSIM?
-      a: Your eSIM allows you to access your booking confirmation and emails instantly. You can show the digital confirmation
-        at the front desk without needing printed documents. This is especially helpful if you arrive late and need quick
-        access. The data connection ensures you have all necessary information at your fingertips.
-    - q: Will my eSIM work in hotel rooms with thick walls in Brazil?
-      a: Most hotels in urban areas have strong network coverage that penetrates well. Networks like Claro ensure reliable
-        signals in standard rooms. If you experience weak signals, moving near a window often helps. A high-speed plan ensures
-        you stay connected even in less ideal conditions.
-    - q: Can I share my eSIM data with other devices in my hotel room?
-      a: Yes, you can enable a personal hotspot on your phone to share data with a laptop or tablet. This is useful for working
-        or streaming on larger screens. A 30-day 20GB plan at $47.99 offers enough data for multiple devices. Just monitor
-        your usage to avoid exceeding the limit.
-    - q: What is the best eSIM plan for a hotel stay of several days in Brazil?
-      a: For a week-long hotel stay, a 7-day 5GB plan at $14.99 is a great balance of cost and data. If you need more for
-        streaming or work, consider the 10GB plan at $22.99. These plans provide high-speed connectivity for all your hotel
-        needs. You can choose based on your expected daily usage.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5.  Brazil eSIM for Attractions
-    questions:
-    - q: Will I have coverage at Christ the Redeemer in Brazil?
-      a: Major attractions like Christ the Redeemer typically have good 4G/5G coverage in Brazil. However, remote areas may
-        have limited signal. Download offline maps before visiting out-of-the-way destinations. A 5GB plan provides comfortable
-        data for photos, maps, and social media throughout your trip.
-    - q: Will my eSIM work at Iguazu Falls for sharing photos?
-      a: Yes, Iguazu Falls has decent network coverage from local providers like Vivo. You can upload photos and videos to
-        social media without issues. A 7-day 10GB plan at $22.99 provides enough data for extensive sharing. This allows you
-        to document your visit in real-time.
-    - q: Can I stream a guided tour audio on my eSIM at historical sites?
-      a: Absolutely, your eSIM supports streaming audio guides from apps like Google Arts & Culture. This enhances your experience
-        at sites like the São Paulo Museum of Art. A 3GB 30-day plan at $14.99 is ideal for such moderate streaming. The high-speed
-        connection ensures clear, uninterrupted audio.
-    - q: Is eSIM coverage available at Copacabana Beach in Rio de Janeiro?
-      a: Yes, Copacabana Beach has excellent coverage from Claro and Vivo networks. You can use your eSIM to listen to music,
-        check maps, or post stories. A 5GB 15-day plan at $16.99 is perfect for a beach day with light usage. This keeps you
-        connected while enjoying the sun.
-    - q: How much data do I need for a day at a Brazilian theme park?
-      a: For a full day at a theme park like Beto Carrero World, a 3GB plan at $9.99 for 7 days is adequate. You can use it
-        for maps, ride wait times, and sharing photos. If you plan to stream or video call, consider a 5GB plan at $14.99.
-        This covers all your entertainment needs.
-  - id: faq-social
-    icon: message-circle
-    tab_title: Social & Messaging
-    title: 6.  Brazil eSIM for Social Media
-    questions:
-    - q: Can I use my eSIM for WhatsApp calls and messages in Brazil?
-      a: Yes, your eSIM supports WhatsApp for voice calls, video calls, and text messages seamlessly. This is a cost-effective
-        way to stay in touch with family and friends. A 3GB 7-day plan at $9.99 covers extensive WhatsApp usage. The high-speed
-        data ensures clear call quality.
-    - q: Will my eSIM work for Instagram Stories and TikTok uploads in Brazil?
-      a: Absolutely, your eSIM provides fast upload speeds for Instagram Stories and TikTok videos. You can share your travel
-        experiences instantly without buffering. A 5GB 15-day plan at $16.99 is ideal for frequent social media posting. This
-        keeps your followers updated throughout your trip.
-    - q: Can I use my eSIM for video calls on Zoom or FaceTime in Brazil?
-      a: Yes, your eSIM supports high-quality video calls on Zoom, FaceTime, or Google Meet. A 10GB 30-day plan at $29.99
-        offers enough data for several hours of calls. This is useful for both personal and professional communication. The
-        reliable network ensures minimal lag or interruptions.
-    - q: Is there enough data in basic plans for social media browsing in Brazil?
-      a: Yes, basic plans like a 3GB 30-day option at $14.99 are sufficient for social media browsing. You can scroll through
-        feeds, like posts, and send messages without issues. For heavier use like streaming videos, consider a 5GB plan. This
-        ensures you stay within your data limits.
-    - q: How do I avoid data overage while using social media on my eSIM in Brazil?
-      a: Monitor your data usage through your phone's settings or the provider's app. Avoid streaming high-resolution videos
-        on cellular data to conserve bandwidth. Using a 5GB plan at $14.99 for 7 days provides a clear limit. This helps you
-        manage your consumption effectively.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7.  Brazil eSIM for Cross-Border Travel
-    questions:
-    - q: Can I use my Brazil eSIM in neighboring countries like Argentina?
-      a: Most Brazil-specific eSIMs are limited to Brazil's borders and may not work in Argentina. You should check your provider's
-        coverage map before traveling. Some providers offer regional plans that include multiple South American countries.
-        For cross-border trips, consider a dedicated plan for each destination.
-    - q: Will my eSIM work if I take a day trip to Foz do Iguaçu from Brazil?
-      a: Yes, Foz do Iguaçu is in Brazil, so your eSIM will work perfectly there. However, if you cross into Argentina to
-        see the falls from the other side, coverage may stop. It is important to have a separate plan for Argentina if needed.
-        This ensures you stay connected without interruptions.
-    - q: Can I use my eSIM on a cruise that stops in Brazilian ports?
-      a: Your eSIM will work when you are within range of Brazilian cellular networks on land. On the ship, you may need to
-        use the ship's Wi-Fi or purchase a separate maritime plan. This is because cruise ships often have their own networks.
-        Plan accordingly to avoid roaming charges at sea.
-    - q: What happens to my eSIM when I fly from Brazil to another country?
-      a: When you leave Brazil, your eSIM will stop working as it is tied to the Brazilian network. You will need to purchase
-        a new eSIM for your next destination. Some providers offer global or regional plans for seamless transitions. This
-        ensures you have data wherever you go.
-    - q: Are there eSIM plans that cover Brazil and other South American countries?
-      a: Yes, some providers offer regional plans that include Brazil along with countries like Chile or Peru. These plans
-        are convenient for multi-country trips. For example, you might find a plan covering several areas, but check the specific
-        data allowances. This avoids the need to switch eSIMs at each border.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  Brazil eSIM for Emergencies
-    questions:
-    - q: Can I use my eSIM to call emergency services in Brazil?
-      a: Yes, even without a Brazilian phone number, you can dial 190 for police or 192 for ambulances. Your eSIM provides
-        data for location sharing with emergency responders. This is crucial in situations where you need immediate assistance.
-        Ensure your phone has battery and signal for such calls.
-    - q: Will my eSIM work if there is a natural disaster in Brazil?
-      a: During natural disasters, network congestion may occur, but your eSIM will likely still function. Local networks
-        like Vivo and Claro have backup systems to maintain connectivity. You can use data to send messages or access emergency
-        apps. It is wise to have offline maps downloaded as a precaution.
-    - q: Can I use my eSIM to find the nearest hospital or pharmacy in Brazil?
-      a: Absolutely, your eSIM allows you to search for nearby hospitals and pharmacies using Google Maps. You can get directions
-        and contact information quickly. A 3GB 30-day plan at $14.99 provides enough data for such searches. This is essential
-        for addressing health concerns during your trip.
-    - q: How do I contact my embassy using my eSIM in Brazil?
-      a: You can use your eSIM to call or email your embassy via their website or contact numbers. Data allows you to access
-        embassy pages for guidance and support. This is especially helpful in cases of lost passports or legal issues. The
-        reliable connection ensures you get help promptly.
-    - q: Can I use WhatsApp and FaceTime with Brazil eSIM?
-      a: Yes! Brazil eSIM supports WhatsApp audio/video calls, FaceTime, WeChat voice, and Zoom without any blocks. You can
-        stay in touch with family using your preferred messaging apps throughout your trip.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  Brazil eSIM for Business Travelers
-    questions:
-    - q: Can I use my eSIM for corporate email and video conferencing in Brazil?
-      a: Yes, your eSIM supports corporate email sync and video conferencing on platforms like Microsoft Teams. A 10GB 30-day
-        plan at $29.99 is ideal for moderate business use. This ensures you stay productive during meetings and while checking
-        emails. The high-speed connection minimizes lag in video calls.
-    - q: Is a 1GB eSIM plan sufficient for a short business trip to Brazil?
-      a: For a very short business trip of 3 days, a 1GB plan at $4.99 is sufficient for essentials. You can check emails,
-        use messaging apps, and access cloud documents. However, if you need to attend video calls, consider a 3GB plan at
-        $8.99. This provides a comfortable buffer for work tasks.
-    - q: Can I use my eSIM to access cloud services like Dropbox or Google Drive in Brazil?
-      a: Absolutely, your eSIM allows you to upload, download, and sync files on cloud services. A 20GB 30-day plan at $30.99
-        is great for handling larger files. This is beneficial for business travelers who need to share documents on the go.
-        The speed ensures quick transfers without delays.
-    - q: Will my eSIM work in business districts like Paulista Avenue in São Paulo?
-      a: Yes, Paulista Avenue has excellent coverage from networks like Vivo and Claro. You can rely on your eSIM for seamless
-        connectivity in offices and co-working spaces. A 7-day 10GB plan at $22.99 provides enough data for a week of work.
-        This ensures you stay connected in one of Brazil's busiest areas.
-    - q: How do I manage multiple eSIM profiles for business and personal use in Brazil?
-      a: You can store multiple eSIM profiles on your phone and switch between them as needed. For example, use one for work
-        data and another for personal browsing. This separation helps manage costs and data usage effectively. Most smartphones
-        allow you to label each profile for easy identification.
+    - q: |
+        What are the cheapest eSIM options for a trip to Brazil?
+      a: |
+        Roami Brazil eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Thanks to Vivo's 5G network, streaming and video calls work great. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
+    - q: |
+        How does Roami compare to Holafly for eSIM in Brazil?
+      a: |
+        Roami typically offers better value for Brazil eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Holafly. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+    - q: |
+        Do I need to remove my physical SIM to use eSIM in Brazil?
+      a: |
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Best of both worlds.
+    - q: |
+        I need internet access for just a couple of days in Brazil. What's the minimum I can buy?
+      a: |
+        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
+    - q: |
+        Does the Brazil eSIM work in rural areas and smaller towns?
+      a: |
+        Coverage in Brazil is strongest in cities and major tourist areas. In rural locations, the signal may be weaker and speeds may drop from 5G to 4G. Roami automatically switches to the strongest available network. For remote areas, we recommend downloading offline maps in advance.
+    - q: |
+        I'm traveling to Brazil for just 2-3 days. What eSIM should I get?
+      a: |
+        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+    - q: |
+        What do I do if my Brazil eSIM doesn't connect when I arrive?
+      a: |
+        Three quick checks: 1) Is Data Roaming turned on? 2) Can you manually select Vivo in network settings? 3) Try restarting your phone. Most issues resolve with one of these. If not, Roami support is available 24/7.
+    - q: |
+        What's the easiest way to stay connected in Brazil without dealing with airport SIM kiosks?
+      a: |
+        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Vivo for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
 related_products:
   title: Related Brazil eSIM Plans
   items:

@@ -368,174 +368,46 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: 'United States eSIM Guide 2026: Complete Travel & Data Guide'
-  desc: From New York to Los Angeles, stay connected on T-Mobile, AT&T, Verizon networks. Our complete United States eSIM
-    guide covers coverage, plans, setup, and travel tips. Find the best plan for your trip.
+  title: "United States Travel eSIM Guide | Prices, Networks & Activation"
+  desc: "Planning United States travel? Our eSIM guide covers united states esim prepaid, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1.  General Questions About United States eSIM
+    title: United States eSIM FAQs
     questions:
-    - q: Is T-Mobile or AT&T better for United States travel?
-      a: Both T-Mobile and AT&T offer excellent coverage across United States. T-Mobile generally has wider rural coverage,
-        while AT&T offers competitive 5G speeds in cities. For most travelers visiting New York, Los Angeles, and the surrounding
-        areas, either network works well. If you plan to explore remote areas, T-Mobile is typically the safer choice.
-    - q: Does United States eSIM work in New York and Los Angeles?
-      a: Yes, United States eSIM provides excellent coverage in New York, Los Angeles, and other major areas. Major carriers
-        offer strong 5G/4G networks across all urban centers and tourist districts. United States attractions and United States
-        attractions also have good signal coverage for sharing your travel moments.
-    - q: What is the cheapest eSIM plan in the USA?
-      a: Our cheapest prepaid eSIM plan starts at $1.99 for 1GB valid 7 days. For 3GB it’s $5.99 (15 days), 5GB $8.99 (30
-        days), 10GB $12.99 (30 days), and unlimited data at $49.99 (30 days). Compared to other cheap eSIM USA options, we
-        provide premium network access with no hidden fees. You can buy and activate entirely online.
-    - q: Can I get a prepaid eSIM USA with a phone number?
-      a: Our standard eSIM is data-only, which is all most travelers need for maps, messaging, and calls over WhatsApp/FaceTime.
-        If you require a USA phone number for local calls or SMS, we recommend pairing our eSIM with a free VoIP service like
-        Google Voice or TextNow. Some providers offer a USA eSIM with phone number but often at higher cost – our approach
-        keeps data prices low and gives you flexibility.
-    - q: Do you offer an unlimited data eSIM for USA?
-      a: 'Yes, we offer an unlimited data eSIM for USA. It provides truly unlimited data with a fair usage policy: after 30GB
-        in a single day, speeds reduce to 512kbps until midnight (local time). This still supports maps, social media, email,
-        and standard video calls. For most travelers, you’ll never hit that limit. Our unlimited plan also supports mobile
-        hotspot at up to 10Mbps, which is rare among unlimited eSIM providers.'
-    - q: How do I buy an eSIM online for USA?
-      a: 'Buying an eSIM online for USA is simple: choose your plan on our website, pay securely, and we’ll email you a QR
-        code within minutes. No physical SIM card, no shipping, no registration. Install the eSIM before you travel – the
-        validity starts only when you arrive in the US and your phone connects to a local network. You can also buy eSIM USA
-        as a gift for travel companions.'
-    - q: Is there a temporary eSIM for USA tourists?
-      a: Yes, all our plans are temporary eSIM for USA tourists, with validity from 7 to 30 days. You can also extend or buy
-        a new plan if your trip is longer. Unlike local SIM cards, you don’t need to queue at an airport kiosk or show ID.
-        Just install and go. Search for 'temporary eSIM USA' – we are one of the most recommended options on travel forums.
-    - q: What networks does your USA eSIM use?
-      a: Your eSIM will automatically connect to the strongest available network among T-Mobile, AT&T, and Verizon – the three
-        largest carriers in the United States. This ensures coverage in cities, suburbs, highways, and most rural areas. For
-        remote national parks like Yellowstone or Big Sur, coverage may vary, but you’ll always have the best possible signal
-        from our partner networks.
-    - q: Can I use eSIM in Hawaii and Alaska?
-      a: Absolutely. Our USA eSIM works in all 50 states, including Hawaii and Alaska. In Hawaii, you’ll get coverage on major
-        carriers; in Alaska, AT&T and T-Mobile have good coverage in cities like Anchorage, Fairbanks, and along main highways.
-        For true 'eSIM Hawaii' needs, our plan is a perfect choice.
-    - q: What is the difference between eSIM USA prepaid and other types?
-      a: Prepaid eSIM means you pay upfront for a fixed amount of data or time – no contract, no credit check, no surprise
-        bills. This is ideal for tourists. Postpaid plans require a US address and social security number. All our plans are
-        prepaid eSIM USA, designed specifically for travelers. Just buy, install, and use during your trip.
-  - id: faq-airport
-    icon: plane
-    tab_title: Airports
-    title: 2.  United States eSIM at Airports
-    questions:
-    - q: Can I activate my United States eSIM at the airport?
-      a: Yes, you can activate your United States eSIM as soon as you land using the airport's free Wi-Fi. Just scan your
-        QR code from email and you'll be connected in under 2 minutes. We recommend installing the eSIM before departure so
-        you're connected the moment you arrive.
-    - q: Can I avoid expensive airport SIM card kiosks?
-      a: Yes. Airport SIM kiosks often charge $40-60 for a week of limited data. By buying our eSIM online before you travel,
-        you skip those queues and save 70-80%. Just walk out of arrivals with instant data for Uber, Google Maps, and messaging
-        your pickup driver. This is why many travelers call us the best eSIM for USA arrivals.
-    - q: How do I get SMS verification codes from my bank or hotel app?
-      a: Keep your home SIM turned on for SMS (disable data roaming on that line to avoid charges). Incoming texts are usually
-        free while roaming. Your eSIM provides the data connection. Most US services – like hotel booking apps or ride-hailing
-        – will send verification codes to your home number, which you receive via SMS. Then use your eSIM data to enter the
-        code.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3. Navigation & Ridesharing
-    questions:
-    - q: Can I use United States eSIM for ride-hailing and maps?
-      a: Absolutely. United States eSIM works with ride-hailing apps and navigation. A 5GB/15 days plan ($4.99) covers daily
-        navigation and ride-booking during a typical trip. The 4G/5G connection ensures reliable real-time tracking and route
-        updates.
-    - q: Can I use Uber or Lyft with a data-only eSIM?
-      a: Absolutely. Uber and Lyft only need a data connection – they don’t require a phone number. After landing, open the
-        app with your eSIM data, request a ride, and the driver can message you through the app. You’ll also see their live
-        location. No need for a USA phone number. This works with any eSIM data plan.
-    - q: Can I share my eSIM data as a hotspot for my family?
-      a: Yes, all our plans support personal hotspot. On iPhone, go to Settings > Personal Hotspot; on Android, Settings >
-        Hotspot & tethering. You can share with up to 5 devices. Our unlimited data plan limits hotspot speed to 10Mbps –
-        still enough for video calls and browsing. Lower data plans share at full speed until you use up your allowance.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4.  United States eSIM for Hotels
-    questions:
-    - q: How do I check into a hotel without Wi-Fi using my eSIM?
-      a: Use your eSIM data to open your booking confirmation email or the hotel’s app. Many hotels now send digital keys
-        or door codes via email or SMS. You can access these instantly from the curb. If you booked through Booking.com, Expedia,
-        or Agoda, their apps work over cellular data. No need to ask for Wi-Fi passwords at the front desk.
-    - q: Should I pay for hotel Wi-Fi or just use my eSIM?
-      a: Many US hotels charge $10-15 per day for Wi-Fi. Our eSIM plans cost as little as $1-2 per day. Plus, cellular data
-        is often faster and more secure than shared hotel Wi-Fi. For streaming, video calls, and work, your eSIM is usually
-        the better deal. Only use hotel Wi-Fi for large downloads or when you’re low on data.
-    - q: Can I order food delivery to my hotel with eSIM?
-      a: Yes. Apps like Uber Eats, DoorDash, and Grubhub work over your eSIM data. You can browse restaurants, order, and
-        track the driver in real time. Put your hotel name and room number in the delivery address. Most drivers will call
-        or message you through the app – all over data, no phone number needed.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social & Messaging
-    title: 6.  United States eSIM for Social Media
-    questions:
-    - q: How much data do I need for United States?
-      a: Light users (maps + messaging) ~300MB/day, moderate (social + photos) ~700MB/day, heavy (streaming + video calls)
-        choose Unlimited. Most visitors find 5GB/15 days ($4.99) comfortable for a standard trip to United States.
-    - q: Is it safe to log into social media on cellular instead of public Wi-Fi?
-      a: Public Wi-Fi in airports, cafes, and hotels can be easily hacked. Using your eSIM’s cellular data is much safer because
-        the connection is encrypted between your phone and the cell tower. Always use cellular for logging into bank apps,
-        email, and social media. Only use public Wi-Fi for anonymous browsing if you must.
-    - q: Can I upload Instagram stories and TikTok videos while traveling?
-      a: Yes. Our eSIM provides upload speeds of 10-30 Mbps on 4G/5G – fast enough for posting videos in seconds. A 30-second
-        HD video uses about 50MB. For heavy social media users, our 10GB or unlimited plan is ideal. Unlike hotel Wi-Fi, there’s
-        no login page or time limits.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7. Canada, Mexico & Multi-country Travel
-    questions:
-    - q: Does my USA eSIM work in Canada or Mexico?
-      a: Our single-country USA eSIM only works within the United States (including Hawaii and Alaska). If you’re also visiting
-        Canada or Mexico, we recommend our North America regional eSIM, which covers all three countries with one plan. It
-        automatically switches to local networks. For Europe or Asia trips, choose our global eSIMs.
-    - q: What if my flight has a layover in another country?
-      a: For layovers longer than 4 hours, you can buy a separate 1-day / 1GB eSIM for that country from our website. Activate
-        it when you land, then switch back to your USA eSIM after takeoff. This is cheaper than roaming on your home plan.
-        Many travelers do this for transit in Dubai, Singapore, or London.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  United States eSIM for Emergencies
-    questions:
-    - q: Can I use WhatsApp and FaceTime with United States eSIM?
-      a: Yes! United States eSIM supports WhatsApp audio/video calls, FaceTime, WeChat voice, and Zoom without any blocks.
-        You can stay in touch with family using your preferred messaging apps throughout your trip.
-    - q: How do I find the nearest hospital or embassy in an emergency?
-      a: Open Google Maps on your phone – your eSIM data gives you real-time results. Search for 'hospital' or 'embassy' and
-        you’ll see locations, opening hours, and contact numbers. You can also call embassies using Skype or Google Voice
-        over your eSIM data. We recommend saving the address of your country’s consulate offline before your trip.
-    - q: How can I share my live location with family back home?
-      a: Use WhatsApp’s 'Share Live Location' or Apple’s 'Find My' feature. These work over your eSIM data. You can share
-        your GPS location for 15 minutes, 1 hour, or 8 hours. This is useful if you’re in an unfamiliar area or want to let
-        family know you arrived safely. Turn off sharing when no longer needed.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  United States eSIM for Business Travelers
-    questions:
-    - q: Is the eSIM reliable for Zoom and Teams meetings?
-      a: Yes. Our eSIM connects to premium networks with low latency (under 50ms) and typical speeds of 10-30 Mbps – more
-        than enough for HD video calls. For better stability, join the call directly on your phone rather than using hotspot.
-        Many business travelers rely on our eSIM for client meetings and remote work.
-    - q: Can I connect to my company VPN using this eSIM?
-      a: Absolutely. We do not block any VPN protocols. You can use Cisco AnyConnect, FortiClient, OpenVPN, or any corporate
-        VPN app. Cellular data is actually more secure than hotel Wi-Fi because there’s no risk of a man-in-the-middle attack
-        on the Wi-Fi network. Just make sure your VPN app is up to date.
-    - q: What’s the best eSIM plan for a month-long business trip?
-      a: For 30 days of heavy use (video calls, large file uploads, constant hotspot), our unlimited data plan at $34.99 is
-        the best value. If you prefer a fixed data cap, our 10GB or 15GB plans work well for moderate use. All plans support
-        hotspot, so you can tether your laptop. Compare our eSIM plans USA – we offer the most data per dollar for business
-        travelers.
+    - q: |
+        How much should I budget for an eSIM when visiting United States?
+      a: |
+        Roami offers United States eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. T-Mobile provides reliable speeds across United States. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+    - q: |
+        Does United States really not require any ID to use eSIM? Can I just buy and go?
+      a: |
+        Correct — United States eSIM doesn't need passport or ID verification. US prepaid cards typically do NOT require KYC, but some carriers may ask for a US address. Just purchase, install, and you're online. No uploading documents, no waiting for approval. Install before you leave, enable Data Roaming on arrival, and you're set.
+    - q: |
+        What if my hotel in United States has free WiFi — do I still need eSIM data?
+      a: |
+        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
+    - q: |
+        Can I use my United States eSIM right after buying it, or do I need to wait?
+      a: |
+        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in United States. So you can install weeks before your trip without losing any plan days.
+    - q: |
+        Can I keep my home SIM in my phone while using eSIM in United States?
+      a: |
+        Yes — that's one of the best things about eSIM. Your home SIM stays in slot 1 for receiving SMS (bank codes, login verifications), while the eSIM handles all data in slot 2. Just disable data roaming on your home SIM to avoid charges.
+    - q: |
+        What do I do if my United States eSIM doesn't connect when I arrive?
+      a: |
+        Three quick checks: 1) Is Data Roaming turned on? 2) Can you manually select T-Mobile in network settings? 3) Try restarting your phone. Most issues resolve with one of these. If not, Roami support is available 24/7.
+    - q: |
+        What happens if I use all my data in United States before my plan expires?
+      a: |
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+    - q: |
+        Do I need to remove my physical SIM to use eSIM in United States?
+      a: |
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Best of both worlds.
 related_products:
   title: Related USA eSIM Plans
   items:

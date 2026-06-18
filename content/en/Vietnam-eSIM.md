@@ -358,293 +358,46 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: 'Vietnam eSIM Guide 2026: Complete Travel & Data Guide'
-  desc: From Ho Chi Minh City to Hanoi, stay connected on Viettel, Mobifone, Vinaphone networks. Our complete Vietnam eSIM
-    guide covers coverage, plans, setup, and travel tips. Find the best plan for your trip.
+  title: "Vietnam Travel eSIM Guide | Prices, Networks & Activation"
+  desc: "Planning Vietnam travel? Our eSIM guide covers cheapest vietnam esim, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1.  General Questions About Vietnam eSIM
+    title: Vietnam eSIM FAQs
     questions:
-    - q: How does a Vietnam eSIM from Roami work with local operators like Viettel?
-      a: Roami's esim for Vietnam connects to major local operators such as Viettel, providing reliable 5G/4G/LTE coverage
-        across the country. When you purchase a Vietnam esim, you receive a digital profile that you install on your compatible
-        device. This profile automatically connects to the best available network, ensuring stable data speeds. You can manage
-        your plan entirely through the Roami app without needing a physical SIM card.
-    - q: Can I keep my WhatsApp number with a Vietnam eSIM?
-      a: Yes, you can keep your WhatsApp number active while using a Vietnam eSIM data plan. The esim for Vietnam provides
-        data connectivity, allowing messaging apps like WhatsApp to function normally over the internet. You will not need
-        a local phone number, as the data connection handles all communication. This ensures your family and friends can reach
-        you on your usual number without interruption.
-    - q: What are the best eSIM options for a Vietnam tourist visiting for two weeks?
-      a: For a two-week trip, a 15-day Vietnam tourist esim plan is ideal, offering various data allowances to suit your needs.
-        For example, the 15-day 3GB plan is priced at $6.99, perfect for light browsing and messaging, while the 15-day Unlimited
-        plan at $40.99 provides worry-free data for heavy users. A popular choice is the 15-day 5GB plan at $11.99, which
-        offers great value for in-depth travel. These plans ensure you stay connected throughout your journey without searching
-        for local SIM cards.
-    - q: How does Roami compare to other providers like Airalo or Holafly for an esim in Vietnam?
-      a: Roami offers a direct comparison to providers like Airalo and Holafly by providing competitive pricing and robust
-        data options. While Airalo esim Vietnam plans are known for their budget-friendly options, Roami often includes customer
-        support and easy top-ups. Holafly Vietnam plans typically feature unlimited data, but Roami's unlimited option at
-        $40.99 for 15 days is a strong contender. Ultimately, the best esim for Vietnam depends on your specific data needs
-        and travel duration, with Roami providing flexible choices.
-    - q: Is it possible to add more data to my Vietnam eSIM if I run out?
-      a: Absolutely, you can easily top up your Vietnam eSIM data plan through the Roami app if you need more data. The app
-        provides a simple interface to purchase additional data packs without needing a new eSIM. This feature is especially
-        useful for long-term travelers or those who use data-intensive apps. You can select from various top-up options, ensuring
-        you never lose connectivity.
-    - q: How do I install a Vietnam eSIM on my iPhone 14 or newer model?
-      a: Installing a Vietnam eSIM on an iPhone 14 or newer is a straightforward process using the device's eSIM capabilities.
-        After purchasing your esim Vietnam iPhone plan, you will receive a QR code via email. Simply go to Settings > Cellular
-        > Add Cellular Plan and scan the QR code to activate. The entire installation takes just a few minutes, and your data
-        will be ready to use immediately upon arrival in Vietnam.
-    - q: Can I use a Vietnam eSIM if my phone is locked to a specific carrier?
-      a: Using a Vietnam eSIM on a carrier-locked phone is generally not possible, as the eSIM needs a network that is not
-        your home carrier. You will need an unlocked device to install and activate any esim for Vietnam. Before purchasing,
-        check with your current carrier to see if your phone is unlocked or request an unlock. Most modern smartphones from
-        major brands are sold unlocked, but it is always best to verify.
-    - q: Do I need to remove my physical SIM card to use a Vietnam eSIM?
-      a: No, you do not need to remove your physical SIM card to use a Vietnam eSIM. Your device can hold both a physical
-        SIM and an eSIM, allowing you to use both lines simultaneously. You can set the Vietnam eSIM as your primary line
-        for data while keeping your home SIM for calls and texts. This dual-SIM functionality is very convenient for travelers
-        who want to stay reachable on their home number.
-    - q: What happens to my data plan if I travel to a different region in Vietnam?
-      a: Your Vietnam eSIM data plan works seamlessly across all regions of the country, from Ho Chi Minh City to the highlands
-        of Sapa. Since the eSIM connects to local operators like Viettel, you will experience consistent coverage as you move
-        between provinces. There are no roaming charges within Vietnam, so you can use your data freely wherever you go. This
-        makes it an excellent choice for travelers exploring multiple destinations.
-    - q: Is Viettel or Mobifone better for Vietnam travel?
-      a: Both Viettel and Mobifone offer excellent coverage across Vietnam. Viettel generally has wider rural coverage, while
-        Mobifone offers competitive 5G speeds in cities. For most travelers visiting Ho Chi Minh City, Hanoi, and the surrounding
-        areas, either network works well. If you plan to explore remote areas, Viettel is typically the safer choice.
-  - id: faq-airport
-    icon: airplane
-    tab_title: Airports
-    title: 2.  Vietnam eSIM at Airports
-    questions:
-    - q: Can I activate my Vietnam eSIM at the airport?
-      a: Yes, you can activate your Vietnam eSIM as soon as you land using the airport's free Wi-Fi. Just scan your QR code
-        from email and you'll be connected in under 2 minutes. We recommend installing the eSIM before departure so you're
-        connected the moment you arrive.
-    - q: What is the best eSIM plan for a quick layover at Tan Son Nhat Airport in Ho Chi Minh City?
-      a: For a short layover at Tan Son Nhat Airport (SGN), a 3-day Vietnam esim plan is perfect for staying connected. The
-        3-day 1GB plan at $1.99 is a budget-friendly option for checking emails and messaging. If you need more data for streaming
-        or navigation, the 3-day 3GB plan at $3.99 provides ample data. These short-term plans ensure you have connectivity
-        without committing to a longer package.
-    - q: How does the cost of an eSIM compare to buying a SIM card at Da Nang Airport?
-      a: An eSIM for Vietnam is often more cost-effective than buying a physical SIM card at Da Nang Airport, where prices
-        can be inflated for tourists. For instance, Roami's 7-day 5GB plan at $8.99 offers competitive pricing compared to
-        airport vendors. Additionally, you avoid the hidden fees or registration requirements that sometimes come with physical
-        cards. The convenience of pre-purchasing and instant activation also adds to the value.
-    - q: If my flight arrives late at night, can I still get a Vietnam eSIM?
-      a: Absolutely, a Vietnam eSIM is available for purchase and activation 24/7, regardless of your arrival time. Since
-        the entire process is digital, you can buy your esim for Vietnam online before your flight and activate it upon landing.
-        This is perfect for late-night arrivals when airport SIM kiosks may be closed. You will have immediate data access
-        without waiting for store hours.
-    - q: Are there any airport-specific promotions for eSIMs in Vietnam?
-      a: Roami does not typically have airport-specific promotions, but its standard pricing is already competitive for travelers.
-        The best esim for Vietnam can be found online with clear pricing, such as the 7-day 10GB plan for $14.99. Airport
-        kiosks sometimes offer bundle deals, but these may not match the flexibility of an eSIM. You can easily compare plans
-        and choose the one that fits your itinerary without being tied to airport vendors.
-  - id: faq-transport
-    icon: train
-    tab_title: Transport
-    title: 3.  Vietnam eSIM for Transport
-    questions:
-    - q: Can I use a Vietnam eSIM to book a Grab ride from the airport?
-      a: Yes, a Vietnam eSIM provides the data needed to use apps like Grab for booking rides from the airport. With an active
-        esim Vietnam, you can request a car immediately after landing without needing airport Wi-Fi. This ensures a smooth
-        and quick transfer to your accommodation. The data speeds are sufficient for real-time tracking and communication
-        with your driver.
-    - q: Can I use Vietnam eSIM for ride-hailing and maps?
-      a: Absolutely. Vietnam eSIM works with ride-hailing apps and navigation. A 5GB/15 days plan ($4.99) covers daily navigation
-        and ride-booking during a typical trip. The 4G/5G connection ensures reliable real-time tracking and route updates.
-    - q: How much data do I need for navigating Ho Chi Minh City by taxi or bus?
-      a: For navigating Ho Chi Minh City, a 3GB data plan is generally sufficient for a few days of using maps and ride-hailing
-        apps. The 15-day 3GB plan at $6.99 or the 7-day 3GB plan at $6.99 are both excellent choices for light users. If you
-        plan to use navigation extensively or stream music, a 5GB plan at $11.99 for 15 days provides a comfortable buffer.
-        These allowances ensure you never get lost while exploring the city.
-    - q: Can I use my eSIM to buy bus tickets online for travel between cities?
-      a: Absolutely, your Vietnam eSIM allows you to book bus tickets through websites or apps like 12Go.asia or Vexere. The
-        data connection enables you to search schedules, compare prices, and complete purchases securely. This is much more
-        convenient than buying tickets at the station, especially if you are on a tight schedule. With a reliable esim for
-        Vietnam, you can plan your intercity travel seamlessly.
-    - q: Is there a specific eSIM plan ideal for a motorbike trip through the Ha Giang Loop?
-      a: For a motorbike trip through the Ha Giang Loop, a plan with ample data for navigation and emergency communication
-        is recommended. The 15-day 10GB plan at $15.99 offers plenty of data for using GPS and sharing photos along the way.
-        Since coverage can be spotty in mountainous areas, having a plan with a local operator like Viettel provides the best
-        reach. A 30-day 20GB plan at $26.99 is a great option for longer trips to ensure you never run out of data.
-  - id: faq-hotels
-    icon: building
-    tab_title: Hotels
-    title: 4.  Vietnam eSIM for Hotels
-    questions:
-    - q: Do I need a Vietnam eSIM if my hotel offers free Wi-Fi?
-      a: While many hotels offer free Wi-Fi, a Vietnam eSIM provides reliable internet when you are away from your room. Public
-        Wi-Fi networks can be slow or insecure, whereas your eSIM gives you a private and consistent connection. You can use
-        your data in the lobby, pool area, or during excursions without relying on hotel bandwidth. This ensures you are always
-        connected, whether you are researching your next destination or using a map.
-    - q: Can I use my eSIM to stream Netflix in my hotel room in Vietnam?
-      a: Yes, you can use your Vietnam eSIM to stream Netflix or other video services in your hotel room. For a good streaming
-        experience, a plan with at least 10GB of data is recommended. The 15-day 10GB plan at $15.99 or the 7-day 10GB plan
-        at $14.99 are both excellent for streaming. Of course, connecting to hotel Wi-Fi for heavy streaming can save your
-        eSIM data for on-the-go use.
-    - q: How do I handle checking in to a hotel if I have no internet on arrival?
-      a: If you have no internet on arrival, your Vietnam eSIM can be activated using the hotel's Wi-Fi. Once connected, you
-        can access your booking confirmation and any necessary apps. It is always a good idea to have your eSIM installed
-        and ready before your trip to avoid any inconvenience. This way, you can show your digital confirmation directly from
-        your phone after landing.
-    - q: What should I do if my hotel's Wi-Fi is too slow for work?
-      a: If your hotel's Wi-Fi is slow, your Vietnam eSIM can serve as a reliable backup for work-related tasks. You can use
-        your phone as a hotspot to connect your laptop, provided your data plan allows it. For example, the 30-day 20GB plan
-        at $26.99 offers enough data for a few days of remote work. This flexibility ensures you can maintain productivity
-        even in areas with poor hotel internet.
-    - q: Can I share my eSIM data connection with my travel companion in a hotel?
-      a: Yes, you can share your Vietnam eSIM data connection by using your phone's personal hotspot feature. This is useful
-        if your companion does not have their own esim for Vietnam. However, be mindful of your data allowance, as tethering
-        can consume data quickly. For shared use, a plan like the 15-day 20GB at $25.99 provides enough data for both travelers
-        to browse and use apps.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5.  Vietnam eSIM for Attractions
-    questions:
-    - q: Will I have coverage at Ha Long Bay in Vietnam?
-      a: Major attractions like Ha Long Bay typically have good 4G/5G coverage in Vietnam. However, remote areas may have
-        limited signal. Download offline maps before visiting out-of-the-way destinations. A 5GB plan provides comfortable
-        data for photos, maps, and social media throughout your trip.
-    - q: How can I use my eSIM to book tickets for the Hanoi Water Puppet Show?
-      a: You can use your Vietnam eSIM to visit the official ticketing website or a third-party platform to book the Hanoi
-        Water Puppet Show. The data connection allows you to check available showtimes, select your seats, and pay securely
-        online. This is much more convenient than queuing at the box office, especially during peak tourist season. With your
-        esim Vietnam, you can secure your tickets from anywhere in the city.
-    - q: Is there enough data coverage at Ha Long Bay for live streaming?
-      a: Coverage at Ha Long Bay is generally good, especially for major operators like Viettel, allowing for live streaming
-        on your esim Vietnam. You can expect stable 4G/LTE speeds on the boat and at most viewpoints. For a smooth live stream,
-        a plan with at least 10GB of data is recommended to avoid interruptions. The 15-day 10GB plan at $15.99 is a great
-        choice for content creators.
-    - q: Do I need a special eSIM for visiting the Marble Mountains in Da Nang?
-      a: No, you do not need a special eSIM for visiting the Marble Mountains; any standard Vietnam eSIM will work. The area
-        has reliable cellular coverage, allowing you to use navigation apps to explore the caves and pagodas. You can also
-        upload photos of the stunning views in real time. A standard data plan like the 7-day 5GB at $8.99 is more than sufficient
-        for a day trip.
-    - q: Can I use my eSIM to get audio guides at the Imperial Citadel of Thang Long?
-      a: Yes, you can use your Vietnam eSIM to access audio guide apps or websites while visiting the Imperial Citadel of
-        Thang Long. This allows you to learn about the history of the site at your own pace without renting a physical device.
-        The data connection ensures the app loads quickly and provides detailed commentary. This is a great way to enhance
-        your cultural experience.
-  - id: faq-social
-    icon: message-circle
-    tab_title: Social & Messaging
-    title: 6.  Vietnam eSIM for Social Media
-    questions:
-    - q: Can I use TikTok and Instagram freely with a Vietnam eSIM?
-      a: Yes, you can use TikTok and Instagram freely with a Vietnam eSIM, as there are no restrictions on social media platforms.
-        The data speeds are sufficient for uploading photos and watching short videos. For heavy social media use, a plan
-        with at least 5GB of data is recommended. The 15-day 5GB plan at $11.99 is a popular choice for staying active on
-        these apps.
-    - q: How much data does a typical social media user need for a week in Vietnam?
-      a: A typical social media user who browses, posts, and messages might use around 1-2GB per week. For a 7-day trip, the
-        7-day 3GB plan at $6.99 provides a good safety margin. If you plan to upload many photos or videos, consider the 7-day
-        5GB plan at $8.99. These options ensure you can share your travel experiences without worrying about running out of
-        data.
-    - q: How much data do I need for Vietnam?
-      a: Light users (maps + messaging) ~300MB/day, moderate (social + photos) ~700MB/day, heavy (streaming + video calls)
-        choose Unlimited. Most visitors find 5GB/15 days ($4.99) comfortable for a standard trip to Vietnam.
-    - q: Can I use Snapchat filters and live maps in Vietnam with an eSIM?
-      a: Absolutely, you can use Snapchat filters and live maps in Vietnam with your eSIM, as the app requires a stable internet
-        connection. The data speeds are adequate for loading filters and viewing the Snap Map. The 15-day 10GB plan at $15.99
-        provides plenty of data for frequent Snapchat use. This allows you to document your trip in a fun and interactive
-        way.
-    - q: Is there a data plan that is best for uploading travel vlogs to YouTube?
-      a: For uploading travel vlogs, a plan with a high data allowance is recommended due to the large file sizes. The 15-day
-        20GB plan at $25.99 or the 30-day 20GB plan at $26.99 are excellent choices. If you are a heavy content creator, the
-        15-day Unlimited plan at $40.99 offers worry-free data for uploading multiple videos. These plans ensure you can share
-        your adventures without data constraints.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7.  Vietnam eSIM for Cross-Border Travel
-    questions:
-    - q: Can I use my Vietnam eSIM in Cambodia or Laos?
-      a: No, a standard Vietnam eSIM is designed for use only within Vietnam's borders. If you travel to Cambodia or Laos,
-        you will need a separate eSIM for those countries or a regional plan. Roami offers plans that cover multiple countries,
-        which are better for cross-border travel. Always check the coverage details of your esim for Vietnam before leaving
-        the country.
-    - q: What is the best way to stay connected when crossing from Vietnam into China by land?
-      a: When crossing from Vietnam into China by land, the best option is to purchase a separate eSIM for China before your
-        trip. Your Vietnam eSIM will stop working once you lose the Vietnamese network signal. Having a pre-installed China
-        eSIM ensures you have data immediately upon crossing the border. This avoids the hassle of finding a local SIM card
-        at a remote border crossing.
-    - q: If I take a flight from Ho Chi Minh City to Bangkok, will my Vietnam eSIM work?
-      a: No, your Vietnam eSIM will not work in Bangkok, Thailand, as it is only valid within Vietnam. You will need to purchase
-        a Thailand eSIM or a regional Asia eSIM for your trip. Roami offers a variety of regional plans that can cover your
-        entire journey. It is important to switch your data line to the new eSIM upon arrival in Thailand.
-    - q: Are there any eSIM plans that cover both Vietnam and Thailand?
-      a: Yes, Roami offers regional Asia eSIM plans that cover both Vietnam and Thailand, providing seamless connectivity.
-        These plans are ideal for travelers visiting multiple countries in one trip. They eliminate the need to purchase separate
-        eSIMs for each destination. You can check the available regional options on the Roami website to find the best fit
-        for your itinerary.
-    - q: How do I manage my eSIMs if I am visiting Vietnam and then another country?
-      a: If you are visiting Vietnam and then another country, you can purchase separate eSIMs for each destination. On your
-        iPhone or Android device, you can store multiple eSIM profiles and switch between them as needed. Simply go to your
-        device's cellular settings and select the appropriate line for data. This allows for a smooth transition between countries
-        without any physical changes.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  Vietnam eSIM for Emergencies
-    questions:
-    - q: Can I use my Vietnam eSIM to call emergency services like 113 for police?
-      a: Yes, you can use your Vietnam eSIM to call emergency services such as 113 (police), 114 (fire), or 115 (ambulance).
-        These calls are free, even without a data plan or a local phone number. Your device will connect to any available
-        network to complete the call. It is important to know these numbers in case of an emergency during your trip.
-    - q: What should I do if I lose my phone with the eSIM installed in Vietnam?
-      a: If you lose your phone with the eSIM installed, you should immediately contact Roami customer support to deactivate
-        the eSIM. This prevents unauthorized use of your data plan. You can also use the 'Find My iPhone' or 'Find My Device'
-        feature to track your phone if it is still on. It is advisable to have your eSIM details stored in a safe place, separate
-        from your phone.
-    - q: Can I use WhatsApp and FaceTime with Vietnam eSIM?
-      a: Yes! Vietnam eSIM supports WhatsApp audio/video calls, FaceTime, WeChat voice, and Zoom without any blocks. You can
-        stay in touch with family using your preferred messaging apps throughout your trip.
-    - q: Will my eSIM work in remote areas if I need to call for roadside assistance?
-      a: In remote areas, your Vietnam eSIM's connectivity depends on the local operator's coverage, but Viettel generally
-        has the widest reach. If you are in a very remote location, you might experience weak or no signal. It is always a
-        good idea to download offline maps and have a backup plan. For roadside assistance, try to have the phone number of
-        your rental company or a local service saved.
-    - q: Can I use my eSIM to receive alerts about natural disasters in Vietnam?
-      a: Yes, your Vietnam eSIM can receive emergency alerts from local authorities regarding natural disasters like typhoons
-        or floods. These alerts are typically sent as SMS messages to all active devices on the network. Ensure your device's
-        emergency alert settings are enabled. This can provide critical information to help you stay safe during severe weather
-        events.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  Vietnam eSIM for Business Travelers
-    questions:
-    - q: What is the best eSIM plan for a short business trip to Hanoi?
-      a: For a short business trip to Hanoi, a 3-day or 7-day plan with moderate data is ideal. The 3-day 3GB plan at $3.99
-        is perfect for checking emails and using business apps. If you need more data for video calls, the 3-day 5GB plan
-        at $5.99 offers a great value. These plans provide sufficient data for a productive trip without unnecessary extras.
-    - q: Can I use my Vietnam eSIM for video conferencing with clients?
-      a: Yes, you can use your Vietnam eSIM for video conferencing on platforms like Zoom or Microsoft Teams. For a high-quality
-        video call, a stable 4G/LTE connection is required, which the eSIM provides. A plan with at least 5GB of data is recommended
-        for multiple calls. The 7-day 5GB plan at $8.99 is a reliable choice for business professionals.
-    - q: Is it possible to have a Vietnam eSIM with a local phone number for business?
-      a: Roami's Vietnam eSIM plans are primarily data-only and do not include a local phone number. For business needs requiring
-        a local number, you might consider a hybrid solution or a different provider. However, for most business communication
-        via email and messaging apps, a data-only eSIM is sufficient. You can also use VoIP services to make calls to local
-        numbers.
-    - q: How do I manage multiple eSIM profiles for work and personal use in Vietnam?
-      a: You can manage multiple eSIM profiles on your device by labeling them for work and personal use. In your phone's
-        settings, you can assign which line is used for data, calls, and messages. This allows you to keep your work and personal
-        communications separate while traveling. The Vietnam eSIM can be your primary data line for both purposes if needed.
-    - q: What data plan do you recommend for a business traveler who needs to access a VPN?
-      a: For a business traveler who needs to use a VPN, a plan with ample data is recommended, as VPNs can consume more bandwidth.
-        The 15-day 10GB plan at $15.99 or the 30-day 20GB plan at $26.99 are both excellent for this purpose. These plans
-        provide enough data to maintain a secure connection throughout your trip. The high-speed data ensures your VPN performs
-        without significant lag.
+    - q: |
+        How does Roami compare to Airalo for eSIM in Vietnam?
+      a: |
+        Roami typically offers better value for Vietnam eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+    - q: |
+        How much should I budget for an eSIM when visiting Vietnam?
+      a: |
+        Roami offers Vietnam eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Viettel provides reliable speeds across Vietnam. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+    - q: |
+        Can I keep my home SIM in my phone while using eSIM in Vietnam?
+      a: |
+        Yes — that's one of the best things about eSIM. Your home SIM stays in slot 1 for receiving SMS (bank codes, login verifications), while the eSIM handles all data in slot 2. Just disable data roaming on your home SIM to avoid charges.
+    - q: |
+        How far in advance should I buy my Vietnam eSIM?
+      a: |
+        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Vietnam, so buying early doesn't waste your plan days.
+    - q: |
+        Can I use navigation apps like Google Maps with eSIM in Vietnam?
+      a: |
+        Yes — real-time navigation, traffic updates, and public transit info all work. As a backup, download offline maps for Vietnam before you go.
+    - q: |
+        I'm traveling to Vietnam for just 2-3 days. What eSIM should I get?
+      a: |
+        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+    - q: |
+        What happens if my Vietnam eSIM stops working mid-trip?
+      a: |
+        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
+    - q: |
+        Is eSIM cheaper than international roaming for Vietnam?
+      a: |
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Vietnam costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
 related_products:
   title: Related Vietnam eSIM Plans
   items:

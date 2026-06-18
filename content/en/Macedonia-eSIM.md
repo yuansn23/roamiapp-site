@@ -229,216 +229,46 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: 'Macedonia eSIM Guide 2026: Complete Travel & Data Guide'
-  desc: From Skopje to Ohrid, stay connected on A1 Macedonia, Telekom Macedonia, Lycamobile networks. Our complete Macedonia
-    eSIM guide covers coverage, plans, setup, and travel tips. Find the best plan for your trip.
+  title: "Macedonia eSIM Plans & Pricing | Best Options for Travelers"
+  desc: "Planning Macedonia travel? Our eSIM guide covers macedonia esim unlimited, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1.  General Questions About Macedonia eSIM
+    title: Macedonia eSIM FAQs
     questions:
-    - q: Does my phone support the Macedonia eSIM? How do I install it?
-      a: Most modern smartphones support eSIM, and finding the best Macedonia eSIM provider starts with compatibility. You
-        can install your prepaid Macedonia eSIM simply by scanning the QR code we send to your email. Follow the steps in
-        your phone's Cellular settings.
-    - q: How to buy and activate the Macedonia eSIM? Is it active immediately?
-      a: To get the best Macedonia travel eSIM, purchase it directly on our site. The prepaid Macedonia eSIM is not active
-        immediately – validity starts when you arrive in Macedonia and connect to a local network. That's the standard for
-        any Macedonia eSIM provider.
-    - q: Is A1 Macedonia or Telekom Macedonia better for Macedonia travel?
-      a: Both A1 Macedonia and Telekom Macedonia offer excellent coverage across Macedonia. A1 Macedonia generally has wider
-        rural coverage, while Telekom Macedonia offers competitive 5G speeds in cities. For most travelers visiting Skopje,
-        Ohrid, and the surrounding areas, either network works well. If you plan to explore remote areas, A1 Macedonia is
-        typically the safer choice.
-    - q: Can I get a refund if the Macedonia eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience issues with your Macedonia travel eSIM, contact us. This
-        risk-free policy makes us a trusted Macedonia eSIM provider.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our team is available 24/7 via live chat or email. For questions about how to buy Macedonia eSIM, we are always
-        ready to help.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Use code 'web20' at checkout for 20% off any prepaid Macedonia eSIM. This makes your Macedonia eSIM even more affordable.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy (FUP)?
-      a: Our Unlimited plans include a Fair Usage Policy, common among best Macedonia eSIM provider providers. You get high-speed
-        data for normal use (browsing, social, video).
-    - q: Can I share my Macedonia eSIM data (hotspot) with other devices?
-      a: Yes, hotspot is supported. Sharing your unlimited data Macedonia eSIM with friends or laptop is seamless – a feature
-        you expect from a top Macedonia eSIM provider.
-    - q: What are the advantages of your Macedonia eSIM compared to local SIM cards or other providers?
-      a: Unlike physical SIMs, our prepaid Macedonia eSIM is delivered instantly and works with top networks like A1 Macedonia,
-        Telekom Macedonia, Lycamobile. That's why we are considered the best Macedonia eSIM provider for travelers.
-    - q: How do you compare with well-known eSIM providers like Holafly, Airalo, esim io, Redtea Mobile?
-      a: While Holafly, Airalo, esim io, Redtea Mobile offer good services, our Macedonia eSIM focuses on lower latency and
-        price-matching. For how to buy Macedonia eSIM, we provide the simplest checkout.
-  - id: faq-airport
-    icon: plane
-    tab_title: Airports
-    title: 2.  Macedonia eSIM at Airports
-    questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install your prepaid Macedonia eSIM before departure. Upon landing at Skopje International Airport, Ohrid St. Paul
-        the Apostle Airport, bitola Airport, enable it to connect instantly – no need for airport Wi-Fi. That's the convenience
-        of a Macedonia travel eSIM.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Macedonia eSIM active, you can use Moovit, TaxiMax, AvtoEkspres or WhatsApp right away. This is why savvy
-        travelers buy the best Macedonia eSIM provider in advance.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Macedonia eSIM data lets you open Google Maps at baggage claim. For how to buy Macedonia eSIM, remember
-        that instant connectivity is key.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our prepaid Macedonia eSIM online, you skip expensive airport kiosks. This is the smart how to buy
-        Macedonia eSIM strategy for savvy travelers.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Macedonia eSIM provides data only. Keep your home SIM for SMS (receiving is free) while using the eSIM for data
-        – a common setup with any Macedonia eSIM provider.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: Use iMessage, WhatsApp, or FaceTime over your Macedonia eSIM. Choosing the best Macedonia eSIM provider ensures you
-        can share your arrival safely.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3.  Macedonia eSIM for Transport
-    questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Macedonia eSIM gives you real-time traffic. For how to buy Macedonia eSIM, ensure you get a plan with
-        enough data for navigation – a must for any Macedonia travel eSIM.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Moovit, TaxiMax, AvtoEkspres work over data. With your prepaid Macedonia eSIM, drivers can call you through
-        the app without a local number.
-    - q: How to buy train/subway passes online?
-      a: Use your Macedonia eSIM data to purchase digital tickets. This is one reason we are a top Macedonia eSIM provider
-        for urban travelers.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone – your unlimited data Macedonia eSIM provides ample data for GPS. For the best Macedonia
-        eSIM provider, choose a plan with sufficient GBs.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Fast internet is needed to scan QR codes. Our Macedonia eSIM delivers low latency, making it the best Macedonia eSIM
-        provider for micro-mobility.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you have a regional eSIM, your account stays the same. For how to buy Macedonia eSIM a multi-country plan, check
-        our regional options.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Enable hotspot on your phone. Sharing your prepaid Macedonia eSIM with family is easy – a feature every good Macedonia
-        eSIM provider offers.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4.  Macedonia eSIM for Hotels
-    questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Access your booking portal via your Macedonia eSIM. Many guests appreciate the best Macedonia eSIM provider for retrieving
-        door codes on arrival.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: Use Airbnb messaging or WhatsApp over your Macedonia eSIM. For how to buy Macedonia eSIM, prioritize providers with
-        reliable in‑city coverage.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Enter the address of Hotel Marriott Skopje, Hotel Aleksandar Palace, Hotel Inex Olgica into Google Maps. Your Macedonia
-        travel eSIM ensures you never get lost, even without hotel Wi-Fi.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary SIM on for SMS; use hotel Wi‑Fi or your prepaid Macedonia eSIM to trigger codes. This dual‑SIM
-        setup is standard.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: Use VoIP apps like Skype or the Booking.com chat via your Macedonia eSIM data. Responsive support is why we are a
-        leading Macedonia eSIM provider.
-    - q: How to order food to the hotel using local delivery apps?
-      a: Download Glovo, FastFood MK, Donesi.mk and order using your Macedonia eSIM. Late‑night cravings are easy with a reliable
-        Macedonia travel eSIM.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: After leaving Wi‑Fi, your eSIM takes over. This seamless experience makes our prepaid Macedonia eSIM the best Macedonia
-        eSIM provider for post‑checkout communication.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5.  Macedonia eSIM for Attractions
-    questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: Use your Macedonia eSIM data to buy skip‑the‑line tickets for Matka Canyon, Lake Ohrid, Skopje Fortress. This is
-        a top use case for any Macedonia travel eSIM.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: Read reviews and book tours with your 4G/5G connection. For how to buy Macedonia eSIM, choose a plan with enough
-        speed for browsing.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Instantly Google historical facts. Your Macedonia eSIM enriches your cultural visit – a benefit of choosing the best
-        Macedonia eSIM provider.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Your eSIM's urban coverage guides you efficiently. That's the convenience of a premium prepaid Macedonia eSIM.
-    - q: How to check real‑time queue times at theme parks like Disney?
-      a: Theme park apps require constant data. Our unlimited data Macedonia eSIM keeps you updated – a reason we're a top
-        Macedonia eSIM provider.
-    - q: How to access Ticketmaster to book show tickets?
-      a: Securely buy last‑minute tickets using your Macedonia eSIM. For how to buy Macedonia eSIM, ensure your provider has
-        strong local partnerships.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Upload high‑quality stories in real time. Fast upload speeds are why many call us the best Macedonia eSIM provider
-        for social media lovers.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social
-    title: 6.  Macedonia eSIM for Social Media
-    questions:
-    - q: How much data do I need for Macedonia?
-      a: Light users (maps + messaging) ~300MB/day, moderate (social + photos) ~700MB/day, heavy (streaming + video calls)
-        choose Unlimited. Most visitors find 5GB/15 days ($4.99) comfortable for a standard trip to Macedonia.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi‑Fi is slow and risky. Our 4G/5G Macedonia eSIM gives you secure, fast uploads – the best Macedonia eSIM
-        provider for creators.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Low‑latency networks ensure clear video calls. For how to buy Macedonia eSIM, prioritize providers with premium local
-        partners like A1 Macedonia, Telekom Macedonia, Lycamobile.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi‑Fi is vulnerable. Using your personal Macedonia travel eSIM is encrypted and safer – a key reason to buy
-        a prepaid Macedonia eSIM.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Enable hotspot and share your unlimited data Macedonia eSIM. Group travel is easier when you have the best Macedonia
-        eSIM provider for hotspot.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7.  Macedonia eSIM for Cross-Border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across multiple European countries?
-      a: For a single‑country Macedonia eSIM, it works only there. For multi‑country trips, consider our regional eSIM – a
-        smarter how to buy Macedonia eSIM for Europe.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off data roaming on your home SIM and set your eSIM as primary. This is the standard advice from any Macedonia
-        eSIM provider.
-    - q: How to get short‑term network when transiting in Singapore/Dubai?
-      a: Purchase a low‑cost transit eSIM. The best Macedonia eSIM provider for layovers is one you can activate immediately.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Activate a local eSIM for each port. For how to buy Macedonia eSIM, choose plans that activate as you arrive – our
-        Macedonia travel eSIM works perfectly.
-    - q: How to ensure Google Maps is online throughout cross‑border road trips?
-      a: A regional eSIM automatically switches networks. That's why our prepaid Macedonia eSIM is the best Macedonia eSIM
-        provider for road trippers.
-    - q: How to manage multi‑country data usage with one app?
-      a: You can track all active eSIMs via our website dashboard. Transparency makes us a trusted Macedonia eSIM provider.
-    - q: How to maintain stable contact methods during multi‑country travel?
-      a: Since WhatsApp/iMessage uses data, a regional eSIM keeps you reachable on the same number – a key feature of the
-        best Macedonia eSIM provider for long trips.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  Macedonia eSIM for Emergencies
-    questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Macedonia, dial 112, 192, 193, 194 from your phone. Any active line works, but having a Macedonia travel eSIM
-        ensures you have data to find help.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Use Google Maps with your Macedonia eSIM to search 'pharmacy near me'. For how to buy Macedonia eSIM, always keep
-        a data plan active for emergencies.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: Browse the internet using your prepaid Macedonia eSIM to locate your embassy. That's why we recommend the best Macedonia
-        eSIM provider for safety.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype over your Macedonia eSIM to call toll‑free numbers. Reliable data is crucial – choose a
-        top Macedonia eSIM provider.
-    - q: How to share location in real‑time in unsafe areas?
-      a: Use WhatsApp Live Location or Apple's Find My over your eSIM. For how to buy Macedonia eSIM, make sure your plan
-        allows background data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you have city coverage, download offline maps. This proactive tip complements your Macedonia travel eSIM for
-        off‑grid travel.
+    - q: |
+        Is it safe to upload my passport for Macedonia eSIM registration? I'm concerned about privacy.
+      a: |
+        Macedonia requires identity verification by law. Macedonia requires KYC verification. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Macedonia.
+    - q: |
+        Will the Macedonia eSIM unlimited plan slow down if I use too much data?
+      a: |
+        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
+    - q: |
+        Can I buy a Macedonia eSIM at the last minute, right before my flight?
+      a: |
+        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Macedonia, just enable Data Roaming and you'll be online immediately.
+    - q: |
+        What if I accidentally delete my Macedonia eSIM before my trip?
+      a: |
+        No problem. Log into your Roami account and request the QR code again. We recommend saving the QR code as a screenshot or PDF when you first receive it, just in case.
+    - q: |
+        What's included when I buy a Macedonia eSIM from Roami?
+      a: |
+        You get instant QR code delivery, access to Makedonski Telekom's network, 24/7 customer support, and free hotspot sharing. No contracts, no hidden fees, no auto-renewal. The plan stops when it expires — nothing more to pay.
+    - q: |
+        Can I install my Macedonia eSIM at the airport, or should I do it before leaving home?
+      a: |
+        Do it before you leave. Installing needs internet — easy at home on WiFi, tricky at an airport where the WiFi often requires SMS verification. The eSIM QR code arrives by email within minutes of purchase. Scan it in your phone settings and you're ready. At Macedonia's airport, just enable Data Roaming and you'll connect automatically.
+    - q: |
+        How far in advance should I buy my Macedonia eSIM?
+      a: |
+        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Macedonia, so buying early doesn't waste your plan days.
+    - q: |
+        What documents do I need to buy a Macedonia eSIM from Roami?
+      a: |
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
 related_products:
   title: Related eSIM Plans
   items:

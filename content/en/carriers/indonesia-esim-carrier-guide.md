@@ -1,7 +1,8 @@
 ---
-title: "Indonesia eSIM Guide | Telkomsel, XL or Indosat?"
-description: "Roami compares Indonesia's carriers for travel eSIM. 5G in Bali, Jakarta & across the islands. Best for travelers."
-date: '2026-06-04T00:00:00+00:00'
+title: "Headed to Indonesia? Get the best eSIM for your needs."
+description: "Choosing between Telkomsel, XL and IM3 Ooredoo for Indonesia? Roami's guide compares real 5G speeds, latency and data plans for travelers in Indonesia."
+date: "2026-06-17T06:04:17+00:00"
+
 keywords: eSIM Indonesien, prepaid data, 5G network, Telkomsel, XL, IM3 Ooredoo, travel
   eSIM, roaming free
 site_name: Roami
@@ -351,24 +352,3 @@ cta_free_trial_note: Exclusive for new customers
 cta_free_trial_text: Free Indonesien trial eSIM
 cta_free_trial_link: /free-esim/
 ---
-# Indonesien eSIM: Premium choice for 5G travel networks
-
-> **💡 Short summary for travelers:** Say farewell to exorbitant roaming fees: enter the era of global, free connectivity. With Roami's Indonesien eSIM, you tap into the fastest mobile network in the country — Telkomsel, which achieved a Speed Score of 42.93 and a median download speed of 32.11 Mbps in 2H 2024. Whether you're streaming video (XL leads 5G video with a score of 88.67) or gaming (Telkomsel scores 79.55 for 5G gaming), you get premium performance without the bill shock. Activate instantly and stay connected across Bali, Jakarta, and beyond.
-
-## Things you need to know before buying a Indonesien eSIM
-
-
-### 1. Main 5G/4G frequency bands in Indonesia {#1-main-5g4g-frequency-bands-in-indonesia}
-Indonesia's 5G networks primarily operate on the n40 (2300 MHz) and n78 (3500 MHz) bands. 4G LTE uses bands 1 (2100 MHz), 3 (1800 MHz), 5 (850 MHz), 8 (900 MHz), and 40 (2300 MHz). Ensure your smartphone supports these bands for optimal connectivity.
-
-### 2. KYC (Know Your Customer) requirements {#2-kyc-know-your-customer-requirements}
-All eSIM activations in Indonesia require valid identification. For foreign travelers, a passport is mandatory. The IMEI of your device must be registered with the local authorities. Roami handles this process seamlessly, but you must provide accurate personal details during purchase.
-
-### 3. Fair Usage Policy (FUP) and data caps {#3-fair-usage-policy-fup-and-data-caps}
-Most prepaid eSIM plans include a Fair Usage Policy. After exceeding a certain daily or monthly data threshold (e.g., 2 GB per day), speeds may be throttled to 256 kbps or 1 Mbps. Always check the specific plan details before purchasing.
-
-### 4. Validity period and activation {#4-validity-period-and-activation}
-The validity period starts from the moment you activate the eSIM (usually upon first connection to the local network). Some plans offer flexible start dates. Ensure you activate within the specified window after purchase to avoid expiration.
-
-### 5. Device compatibility and eSIM support {#5-device-compatibility-and-esim-support}
-eSIM is supported on most modern smartphones, including iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer, and many others. Check your device's IMEI for <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing.

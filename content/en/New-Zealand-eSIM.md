@@ -359,263 +359,46 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: 'New Zealand eSIM Guide 2026: Complete Travel & Data Guide'
-  desc: From Auckland to Wellington, stay connected on Spark, Vodafone NZ, 2degrees networks. Our complete New Zealand eSIM
-    guide covers coverage, plans, setup, and travel tips. Find the best plan for your trip.
+  title: "Best New Zealand eSIM 2026 | Coverage, Cost & Installation Tips"
+  desc: "Planning New Zealand travel? Our eSIM guide covers new zealand esim traveller, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1.  General Questions About New Zealand eSIM
+    title: New Zealand eSIM FAQs
     questions:
-    - q: How does a New Zealand eSIM compare to a traditional physical SIM card?
-      a: An eSIM is a digital SIM that you can activate without inserting a physical card, making it ideal for travelers.
-        It allows you to keep your home SIM active while using a local data plan. For New Zealand, providers like Spark and
-        Vodafone offer eSIMs, but Roami provides a seamless travel solution with instant activation. You can manage everything
-        from your phone's settings, avoiding the hassle of finding a store.
-    - q: Can I get a New Zealand eSIM if my phone is locked to a carrier?
-      a: Most carrier-locked phones will only accept eSIMs from the same carrier, so you need to check with your provider.
-        Unlocked phones, however, can use any eSIM service like Roami for New Zealand. It is best to confirm your phone's
-        unlock status before purchasing. If it is locked, consider unlocking it or using a physical SIM as a backup.
-    - q: What is the best eSIM for New Zealand for a two-week trip?
-      a: For a two-week trip, a 15-day plan is ideal, and Roami offers a 10GB option for $12.99, which is great value for
-        sightseeing. Alternatively, you might consider a 5GB plan for $9.99 if you are a lighter user. These plans connect
-        to networks like Spark and Vodafone, ensuring good coverage. Always compare data amounts to match your usage, such
-        as for navigation and social media.
-    - q: How do I activate my New Zealand eSIM before my flight?
-      a: You can purchase and install the eSIM from Roami before you depart, but it will only activate upon arrival. The installation
-        involves scanning a QR code sent to your email and adding the plan to your cellular settings. Make sure you have a
-        stable Wi-Fi connection for the initial setup. This way, you will have data ready as soon as you land in Auckland
-        or Christchurch.
-    - q: Will my New Zealand eSIM work in rural areas like the South Island?
-      a: Yes, Roami eSIMs use the networks of major local operators like Spark and Vodafone, which provide extensive coverage
-        across New Zealand. While major cities and highways have strong 5G/4G/LTE signals, some remote areas like Fiordland
-        may have limited service. You can expect reliable connectivity in most tourist spots, including Queenstown and Rotorua.
-        For the best experience, download offline maps as a precaution.
-    - q: Can I use a New Zealand eSIM for voice calls and texting?
-      a: Roami eSIMs are data-only plans, meaning they do not support traditional voice calls or SMS. However, you can use
-        apps like WhatsApp, Skype, or FaceTime for calls and messages over the data connection. This is often more cost-effective
-        than international roaming. For emergency calls, your phone may still be able to dial 111 even without a voice plan.
-    - q: How do I check my data balance on my New Zealand eSIM?
-      a: You can easily monitor your data usage through your phone's settings under the cellular or mobile data section. Roami
-        also provides a user dashboard or app where you can see your remaining balance. It is a good habit to check daily,
-        especially if you are using data-heavy apps like streaming. This helps you avoid running out of data during your travels.
-    - q: Is it possible to top up my New Zealand eSIM if I run out of data?
-      a: Yes, Roami generally allows you to purchase additional data top-ups directly through their platform. You can select
-        a new plan or add a data pack without needing a new eSIM installation. This is convenient if your initial 3GB plan
-        for $7.99 runs out earlier than expected. Always check the validity period of the top-up to ensure it aligns with
-        your trip duration.
-    - q: Can I use my New Zealand eSIM on multiple devices?
-      a: No, an eSIM is typically tied to the device it was installed on, such as your smartphone. It cannot be shared with
-        other devices like tablets or laptops. However, you can use your phone as a mobile hotspot to share data with other
-        gadgets. Just be mindful that this uses more data and may drain your battery faster.
-    - q: How does Roami compare to other eSIM providers like Airalo or Holafly for New Zealand?
-      a: Roami offers competitive pricing and plans tailored for travel, such as a 7-day 5GB plan for $6.99. While Airalo
-        and Holafly also provide eSIMs for New Zealand, Roami focuses on value with options like a 30-day 20GB plan for $22.99.
-        It is a good idea to compare data speeds and network partners, as all use local infrastructure. Ultimately, the best
-        choice depends on your specific data needs and budget.
-  - id: faq-airport
-    icon: airplane
-    tab_title: Airports
-    title: 2.  New Zealand eSIM at Airports
-    questions:
-    - q: Can I activate my New Zealand eSIM at the airport?
-      a: Yes, you can activate your New Zealand eSIM as soon as you land using the airport's free Wi-Fi. Just scan your QR
-        code from email and you'll be connected in under 2 minutes. We recommend installing the eSIM before departure so you're
-        connected the moment you arrive.
-    - q: Are there any physical SIM stores at New Zealand airports for comparison?
-      a: Major airports like Auckland and Christchurch have retail stores for Spark, Vodafone, and 2degrees where you can
-        buy physical SIMs. However, these can involve queues and require you to present your passport. An eSIM from Roami
-        saves you that time, as you can purchase it online beforehand. This allows you to breeze through the airport and start
-        your trip immediately.
-    - q: What if I have trouble connecting to the airport Wi-Fi to activate my eSIM?
-      a: Most New Zealand airports offer free, unlimited Wi-Fi, but you may need to accept terms and conditions first. If
-        you encounter issues, airport information desks can assist with connection details. As a backup, you could pre-install
-        the eSIM at home and let it activate automatically upon network detection. This ensures you are online even without
-        Wi-Fi.
-    - q: Is the eSIM coverage at Wellington Airport as good as in the city center?
-      a: Yes, Wellington Airport has excellent 5G/4G/LTE coverage from all major providers, ensuring your eSIM works flawlessly.
-        You can expect high speeds for streaming or downloading maps as you arrive. The connection remains strong as you travel
-        into the city via the airport shuttle or taxi. This reliability extends to nearby areas like the waterfront and Te
-        Papa museum.
-    - q: Can I buy a New Zealand eSIM at the airport duty-free shops?
-      a: Duty-free shops typically do not sell eSIMs, as they are digital products. You would need to purchase a physical
-        SIM from a mobile provider's kiosk. For convenience, it is far better to buy your eSIM online from Roami before you
-        travel. This way, you avoid any last-minute searching and can focus on enjoying your arrival.
-  - id: faq-transport
-    icon: train
-    tab_title: Transport
-    title: 3.  New Zealand eSIM for Transport
-    questions:
-    - q: Will my eSIM work on the InterCity bus network across New Zealand?
-      a: Yes, your Roami eSIM will connect to mobile networks along major bus routes, including the InterCity network. You
-        can expect data coverage in most towns and scenic stops, perfect for checking schedules. However, in very remote stretches
-        like the Desert Road, signals may be intermittent. Downloading your bus tickets and maps in advance is a wise precaution.
-    - q: Can I use my eSIM for real-time navigation while driving in New Zealand?
-      a: Absolutely, apps like Google Maps or Apple Maps will work seamlessly with your eSIM's data. This is essential for
-        navigating New Zealand's winding roads and finding attractions like Hobbiton. A 3GB plan for $4.99 is often sufficient
-        for a week of navigation. Just be aware that data usage increases with live traffic updates and rerouting.
-    - q: Can I use New Zealand eSIM for ride-hailing and maps?
-      a: Absolutely. New Zealand eSIM works with ride-hailing apps and navigation. A 5GB/15 days plan ($4.99) covers daily
-        navigation and ride-booking during a typical trip. The 4G/5G connection ensures reliable real-time tracking and route
-        updates.
-    - q: How much data will I need for a ferry ride between the North and South Islands?
-      a: For a 3-hour ferry crossing on the Interislander or Bluebridge, you might use around 500MB to 1GB of data. This covers
-        checking emails, browsing, and using apps during the trip. A 5GB plan for $6.99 would be more than enough for the
-        crossing and a few days of travel. Ensure your eSIM is activated before boarding, as coverage is available near the
-        coasts.
-    - q: Can I use my eSIM to book taxis or rideshares in cities like Queenstown?
-      a: Yes, your eSIM provides the data needed to use apps like Uber or local taxi services. This is very convenient for
-        getting around Queenstown, especially after a long hike. With a 10GB plan for $12.99, you can easily manage rides
-        and other online tasks. The connection is generally fast in urban areas, ensuring quick bookings.
-  - id: faq-hotels
-    icon: building
-    tab_title: Hotels
-    title: 4.  New Zealand eSIM for Hotels
-    questions:
-    - q: Do I still need an eSIM if my hotel offers free Wi-Fi?
-      a: Hotel Wi-Fi can be slow or require logins, so an eSIM provides a reliable backup connection. With your eSIM, you
-        can stream content or work without interruption, even in your room. It is also useful for areas like the lobby or
-        pool where Wi-Fi might not reach. A 1GB plan for $3.99 is a good low-cost option for occasional hotel use.
-    - q: Can I use my eSIM to check into my hotel online before arriving?
-      a: Yes, many New Zealand hotels offer online check-in, and your eSIM data allows you to complete this process. You can
-        receive your room number and access codes directly on your phone. This saves time upon arrival, especially after a
-        long flight. Ensure you have a small data plan active for such pre-arrival tasks.
-    - q: Will my eSIM work in remote lodges like those in Fiordland National Park?
-      a: Coverage in remote lodges can be limited, but your eSIM will connect to any available mobile network. Some lodges
-        have their own Wi-Fi, but having your own data is a good backup. For areas with no signal, the eSIM will automatically
-        reconnect when you return to a coverage zone. A 5GB plan for $6.99 is a practical choice for such trips.
-    - q: How do I connect my laptop to the internet using my hotel eSIM?
-      a: You can enable the personal hotspot feature on your phone to share your eSIM data with your laptop. This is perfect
-        for checking work emails or planning your next day's itinerary. Just be mindful that hotspot usage consumes data faster
-        than direct phone use. A 20GB plan for $15.99 would be ideal for this purpose.
-    - q: Is it safe to use public hotel Wi-Fi instead of my eSIM for banking?
-      a: Public Wi-Fi can be less secure, making your eSIM a safer option for sensitive transactions. Your eSIM connection
-        is encrypted and private, reducing the risk of data theft. For online banking, it is always recommended to use your
-        mobile data. This gives you peace of mind while managing your finances on the go.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5.  New Zealand eSIM for Attractions
-    questions:
-    - q: Will I have coverage at New Zealand attractions in New Zealand?
-      a: Major attractions like New Zealand attractions typically have good 4G/5G coverage in New Zealand. However, remote
-        areas may have limited signal. Download offline maps before visiting out-of-the-way destinations. A 5GB plan provides
-        comfortable data for photos, maps, and social media throughout your trip.
-    - q: Will I have enough data to stream a guided audio tour at Te Papa Museum?
-      a: Streaming an audio tour at Te Papa Museum may use around 500MB to 1GB per hour. A 10GB plan for $12.99 would easily
-        cover this and other activities throughout the day. The museum's location in Wellington has excellent network coverage
-        for seamless streaming. Alternatively, you can download the tour content in advance using your eSIM.
-    - q: Is the eSIM coverage good at geothermal attractions like Rotorua?
-      a: Yes, Rotorua and its geothermal parks like Wai-O-Tapu have strong mobile coverage from all networks. Your eSIM will
-        work perfectly for taking videos and uploading them immediately. You can also use it to look up information about
-        the hot springs and geysers. A 5GB plan for $6.99 is a great option for a day of exploration.
-    - q: Can I use my eSIM to navigate the hiking trails in Tongariro National Park?
-      a: Navigation apps like AllTrails can work with your eSIM, but coverage on the Tongariro Alpine Crossing can be inconsistent.
-        It is best to download the trail map offline before you start your hike. Your eSIM will be useful for checking weather
-        updates at the trailhead. For safety, always carry a physical map as a backup.
-    - q: How much data do I need for a day at the Hobbiton movie set?
-      a: A day at Hobbiton might involve taking photos, posting on social media, and using the tour app. This could use around
-        2GB to 3GB of data, especially if you upload high-resolution images. A 3GB plan for $7.99 would be sufficient, but
-        a 5GB plan offers more peace of mind. The set has good coverage for sharing your experience in real-time.
-  - id: faq-social
-    icon: message-circle
-    tab_title: Social & Messaging
-    title: 6.  New Zealand eSIM for Social Media
-    questions:
-    - q: How much data do I need for New Zealand?
-      a: Light users (maps + messaging) ~300MB/day, moderate (social + photos) ~700MB/day, heavy (streaming + video calls)
-        choose Unlimited. Most visitors find 5GB/15 days ($4.99) comfortable for a standard trip to New Zealand.
-    - q: Will my WhatsApp messages work with the New Zealand eSIM?
-      a: Absolutely, WhatsApp works perfectly over the data connection provided by your eSIM. You can send texts, make voice
-        calls, and share videos with family back home. This is a cost-effective way to stay in touch without international
-        roaming charges. A 3GB plan for $4.99 is often sufficient for messaging and occasional calls.
-    - q: How much data does TikTok use while I am traveling in New Zealand?
-      a: TikTok can use about 30MB to 50MB per minute of video streaming, so it can consume data quickly. A 30-day unlimited
-        plan for $99.99 would be ideal for heavy users. For lighter use, a 10GB plan for $12.99 can still allow for some scrolling.
-        It is wise to connect to Wi-Fi when available to save your mobile data for navigation.
-    - q: Can I use FaceTime with my family using the eSIM data?
-      a: Yes, FaceTime audio and video calls work seamlessly over your eSIM data connection. This is a great way to share
-        your travel experiences in real-time. A 5GB plan for $6.99 can support several video calls throughout your trip. For
-        longer calls, ensure you have enough data remaining to avoid interruptions.
-    - q: Is it possible to use dating apps like Tinder with my New Zealand eSIM?
-      a: Yes, dating apps like Tinder and Bumble work smoothly with your eSIM data. You can swipe and chat while exploring
-        cities like Wellington or Queenstown. The data usage for such apps is minimal, so even a small plan will suffice.
-        A 1GB plan for $3.99 is enough for a few days of casual use.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7.  New Zealand eSIM for Cross-Border Travel
-    questions:
-    - q: Does the New Zealand eSIM work in Australia if I take a short trip?
-      a: Standard New Zealand eSIMs are designed for use only within the country. For travel to Australia, you would need
-        a separate eSIM plan that covers both countries. Roami offers regional plans that include Australia and New Zealand
-        for seamless connectivity. This is perfect for travelers who plan to visit both destinations on the same trip.
-    - q: Can I use the same eSIM if I travel to Fiji or other Pacific Islands?
-      a: No, your New Zealand eSIM will not work in Fiji or other Pacific Islands, as it is restricted to local networks.
-        You would need to purchase a new eSIM for each country you visit. Some providers offer global or regional plans that
-        could cover multiple destinations. Always check the coverage area before your trip to avoid surprises.
-    - q: What happens to my data if I fly to Australia for a layover?
-      a: Your eSIM will stop working once your phone connects to an Australian network to avoid extra charges. It will automatically
-        reactivate when you return to New Zealand. This prevents any unintended data usage outside of your plan. For a layover,
-        it is best to rely on airport Wi-Fi or a separate travel eSIM.
-    - q: Is there an eSIM that covers both New Zealand and Australia for a combined trip?
-      a: Yes, Roami provides regional eSIM plans that include both Australia and New Zealand in a single data pool. This is
-        highly convenient for travelers exploring both countries without switching SIMs. For example, a 10GB plan for $12.99
-        could be used across both destinations. Always verify the plan's coverage details before purchasing.
-    - q: How do I manage multiple eSIMs for a multi-country trip?
-      a: You can store multiple eSIM profiles on your phone and switch between them in your settings. For a trip covering
-        New Zealand and other countries, you can activate the appropriate plan. It is helpful to label each eSIM clearly to
-        avoid confusion. This setup allows you to stay connected across borders with minimal effort.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  New Zealand eSIM for Emergencies
-    questions:
-    - q: Can I use WhatsApp and FaceTime with New Zealand eSIM?
-      a: Yes! New Zealand eSIM supports WhatsApp audio/video calls, FaceTime, WeChat voice, and Zoom without any blocks. You
-        can stay in touch with family using your preferred messaging apps throughout your trip.
-    - q: Does the eSIM work in areas with weak signals for emergency purposes?
-      a: Your eSIM will connect to any available network, which can be crucial in emergencies. In very remote areas, the signal
-        may be weak, but your phone will still attempt to make an emergency call. It is recommended to have a backup plan
-        like a satellite messenger for extreme locations. Always inform someone of your itinerary when heading into the backcountry.
-    - q: Can I use my eSIM to receive weather alerts for natural disasters?
-      a: Yes, your eSIM data allows you to receive push notifications from weather apps or emergency alert systems. New Zealand
-        has a national emergency alert system that sends messages to mobile phones. With your eSIM active, you will be informed
-        of events like earthquakes or storms. This helps you take necessary precautions quickly.
-    - q: What should I do if my eSIM is not working during an emergency?
-      a: First, try restarting your phone or toggling airplane mode to force a network reconnection. If it still does not
-        work, you can still dial 111 as described earlier. It is also wise to learn the locations of public phones or Wi-Fi
-        hotspots in your area. For non-urgent issues, contact Roami's support through their website or app.
-    - q: Is it safe to rely solely on an eSIM for communication in New Zealand's wilderness?
-      a: For popular tourist areas, an eSIM is generally reliable, but for deep wilderness, it may not be sufficient. You
-        should always carry a physical map and inform someone of your plans. A personal locator beacon is also recommended
-        for serious hikes. Your eSIM is a great tool for everyday travel, but not a substitute for dedicated safety equipment.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  New Zealand eSIM for Business Travelers
-    questions:
-    - q: Can I use my eSIM for video conferencing on Zoom or Microsoft Teams?
-      a: Yes, your eSIM's high-speed 5G/4G/LTE data is perfect for video conferencing apps. A 30-minute Zoom call uses about
-        500MB to 1GB of data. A 20GB plan for $29.99 would support several meetings without worries. Ensure you are in a good
-        coverage area, such as in central Auckland, for the best experience.
-    - q: How do I keep my work and personal lines separate with an eSIM?
-      a: You can use your physical SIM for your home number and the eSIM for data, or vice versa. This allows you to have
-        a local New Zealand data plan while keeping your work number active. Many business travelers find this setup efficient
-        for managing communications. Roami's eSIM provides the data, while your phone handles the dual-SIM functionality.
-    - q: Will my eSIM work in business districts like Auckland's CBD?
-      a: Absolutely, business districts like Auckland's CBD have excellent 5G coverage, ensuring fast and reliable internet.
-        You can expect smooth performance for email, cloud apps, and web browsing. This makes your eSIM a reliable tool for
-        a productive work trip. A 10GB plan for $12.99 is a great choice for a short business visit.
-    - q: Can I use my eSIM to access a corporate VPN securely?
-      a: Yes, you can connect to your corporate VPN using your eSIM data, which provides a secure tunnel for work. This is
-        essential for accessing company resources and sensitive information. The connection is stable and fast enough for
-        most business applications. Always ensure your VPN is configured correctly before your trip.
-    - q: What is the best eSIM plan for a week-long business conference in Wellington?
-      a: For a week-long conference, a 7-day plan is ideal, such as the 10GB option for $10.99. This provides enough data
-        for presentations, emails, and networking on apps like LinkedIn. You will have reliable coverage at convention centers
-        and hotels. If you need more, a 5GB plan for $6.99 is also a solid choice for lighter usage.
+    - q: |
+        Can I get an eSIM for New Zealand without spending too much?
+      a: |
+        Absolutely. Roami's New Zealand eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+    - q: |
+        Does Roami switch between Spark, 2degrees, and Vodafone in New Zealand automatically?
+      a: |
+        Yes — that's one of Roami's key advantages. As you move from cities to rural areas, your eSIM automatically switches to the carrier with the strongest signal at your location. Typically Spark is fastest in urban centers (5G speeds of 100-300 Mbps), while 2degrees maintains better coverage in the countryside. New Zealand uses 5G on n78 band with good coverage in m You never need to manually change networks.
+    - q: |
+        How does Roami compare to Airalo for eSIM in New Zealand?
+      a: |
+        Roami typically offers better value for New Zealand eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+    - q: |
+        What if I accidentally delete my New Zealand eSIM before my trip?
+      a: |
+        No problem. Log into your Roami account and request the QR code again. We recommend saving the QR code as a screenshot or PDF when you first receive it, just in case.
+    - q: |
+        What if my hotel in New Zealand has free WiFi — do I still need eSIM data?
+      a: |
+        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
+    - q: |
+        Does WhatsApp and FaceTime work with eSIM in New Zealand?
+      a: |
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Spark's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+    - q: |
+        Can I buy a New Zealand eSIM at the last minute, right before my flight?
+      a: |
+        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in New Zealand, just enable Data Roaming and you'll be online immediately.
+    - q: |
+        How do I know if my New Zealand eSIM plan is active and ready to use?
+      a: |
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in New Zealand — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
 related_products:
   title: Related New Zealand eSIM Plans
   items:

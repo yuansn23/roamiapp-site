@@ -1,7 +1,8 @@
 ---
-title: "哥斯大黎加 eSIM 電信方案比較 | Kölbi/Claro/Movistar 5G上網推薦"
-description: "比較哥斯大黎加三大電信Kölbi、Claro、Movistar的5G上網方案價格與覆蓋。Roami整理哥斯大黎加eSIM業者資訊，幫助您選擇最適合旅行上網的方案，最低$1.99起。"
-date: "2026-06-17T10:05:38+00:00"
+title: "想出國去哥斯大黎加？先看這篇 eSIM 選擇完整攻略。"
+description: "需要哥斯大黎加的 eSIM？Roami 實測 Claro 和 Kölbi 的 5G 速度與覆蓋，根據旅行需求推薦最合適的方案。"
+date: "2026-06-17T06:15:09+00:00"
+
 keywords: "eSIM 哥斯大黎加，預付數據，5G 網路，Claro，Kölbi，Telecable，Metrocom，Roami eSIM，哥斯大黎加旅遊網路"
 site_name: "Roami"
 brand_name: "Roami"
@@ -47,7 +48,6 @@ sidebar_links:
   - href: "#data-sources"
     text: "數據來源"
 
-
 # 快速決策表格
 quick_picks_title: "快速選擇：哥斯大黎加 該選哪家 eSIM 營運商？"
 quick_picks_table_headers:
@@ -92,7 +92,6 @@ quick_picks:
     carrier_class: "text-red-600"
     reason: "Kölbi 擁有廣泛的鄉村覆蓋，在偏遠國家公園與山區仍能維持基本連線。"
 
-
 # 主要按鈕文案
 cta_button_main_text: "查看 哥斯大黎加 最優惠旅行 eSIM"
 cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
@@ -133,7 +132,6 @@ operators:
     user_scenarios: "- **[聖佩德羅飯店]**：在聖佩德羅的飯店內，以固網級速度串流 4K 影片。\n- **[埃斯卡蘇商業區]**：在商業區的 Airbnb 內進行高畫質視訊會議。"
     bg_color: "bg-green-50"
 
-
 # 三張卡片
 cards_compatibility_title: "檢查 哥斯大黎加 eSIM 相容性清單"
 cards_compatibility_desc: "了解您的手機是否支援 哥斯大黎加 eSIM 與當地 5G 頻段"
@@ -164,7 +162,6 @@ before_buy_sections:
 
   - heading: "5. 啟用方式與技術支援"
     content: "Roami eSIM 採用 QR code 掃描啟用，無需實體 SIM 卡。啟用後若遇連線問題，可透過 Roami App 內建客服或 24/7 線上聊天獲得協助。建議在出發前完成啟用，並下載離線地圖備用。"
-
 
 # 城市推薦表格
 city_guide_title: "城市指南：哥斯大黎加 最佳 eSIM"
@@ -246,7 +243,6 @@ faq:
   - q: "哥斯大黎加不同地區與城市之間是否存在明顯的網速差異？"
     a: "是的，差異顯著。根據 Ookla 2025 上半年數據，最快城市波索斯中位下載速度 72.76 Mbps，最慢城市里奧塞貢多僅 37.34 Mbps，差距近一倍。省級方面，埃雷迪亞省最快（51.23 Mbps），利蒙省最慢（42.32 Mbps）。建議根據目的地選擇合適營運商。"
 
-
 # 迷思
 myths_title: "⚠️ 哥斯大黎加 eSIM 常見迷思與事實"
 myth_label: "❌ 迷思："
@@ -267,7 +263,6 @@ myths:
 
   - myth: "所有 eSIM 方案都沒有公平使用限制。"
     truth: "錯誤。多數方案設有每日高速數據上限（如 1GB/日），超過後降速。購買前請仔細閱讀條款。"
-
 
 # 數據來源
 data_sources_title: "哥斯大黎加 行動網路數據來源"
@@ -296,25 +291,3 @@ cta_free_trial_text: "哥斯大黎加 免費試用 eSIM"
 cta_free_trial_link: "/free-esim/"
 
 ---
-
-# 哥斯大黎加 eSIM：5G 旅行網路首選
-
-> **💡 旅行者摘要：** 【告別昂貴漫遊費：迎接全球自由通訊時代】前往哥斯大黎加，無需再忍受高額漫遊費。Roami eSIM 讓您以當地價格享受高速網路，根據 Ookla 2025 上半年報告，Claro 行動網路中位下載速度達 84.51 Mbps，上傳 16.72 Mbps，為最快行動網路；Metrocom 固網中位下載達 310.06 Mbps，上傳 277.34 Mbps。無論在聖荷西市區或波索斯郊區，Roami 自動連接最強本地電信商，確保您隨時隨地保持連線。結論：選擇 Roami eSIM，告別昂貴漫遊，迎接真正自由的全球通訊時代。
-
-## 購買 哥斯大黎加 eSIM 前須知
-
-
-### 1. 主要 5G/4G 頻段與裝置相容性 {#1-主要-5g4g-頻段與裝置相容性}
-哥斯大黎加主要營運商（Claro、Kölbi、Telecable）使用 4G 頻段 B2 (1900)、B4 (1700/2100 AWS)、B5 (850)、B7 (2600)、B12 (700)、B17 (700)、B28 (700 APT)；5G 頻段 n78 (3500)。購買 eSIM 前請確認您的裝置支援上述頻段，尤其是 5G n78 頻段。
-
-### 2. KYC 實名認證要求 {#2-kyc-實名認證要求}
-哥斯大黎加電信法規要求所有預付卡（含 eSIM）用戶進行實名認證（KYC）。Roami eSIM 在啟用時會要求您上傳護照或身分證件照片，並填寫基本個人資訊，以符合當地監管要求。
-
-### 3. 公平使用政策（FUP）與數據限制 {#3-公平使用政策fup與數據限制}
-多數哥斯大黎加 eSIM 方案設有公平使用政策，例如每日高速數據上限（如 1GB/日）後降速至 128 kbps。請仔細閱讀方案條款，避免長時間大量下載導致速度受限。
-
-### 4. 網路覆蓋與速度差異 {#4-網路覆蓋與速度差異}
-根據 Ookla 2025 上半年報告，哥斯大黎加行動網路中位下載速度為 65.82 Mbps，但城市間差異顯著：波索斯達 72.76 Mbps，而里奧塞貢多僅 37.34 Mbps。偏遠山區與國家公園覆蓋較弱，建議選擇 Kölbi 以獲得較佳鄉村訊號。
-
-### 5. 啟用方式與技術支援 {#5-啟用方式與技術支援}
-Roami eSIM 採用 QR code 掃描啟用，無需實體 SIM 卡。啟用後若遇連線問題，可透過 Roami App 內建客服或 24/7 線上聊天獲得協助。建議在出發前完成啟用，並下載離線地圖備用。

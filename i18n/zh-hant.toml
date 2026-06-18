@@ -296,3 +296,9 @@ other = "{{ .RegionName }} eSIM：旅行者常問的問題"
 countries = "國家"
 carriers = "運營商"
 coverage_5g = "5G覆蓋"
+
+[home]
+other = "首頁"
+
+[carriers]
+other = "eSIM 運營商"

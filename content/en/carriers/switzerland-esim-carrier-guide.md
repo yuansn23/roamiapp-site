@@ -1,7 +1,8 @@
 ---
-title: "Swiss eSIM Guide | Swisscom, Sunrise or Salt?"
-description: "Roami compares Swiss carriers for travel eSIM. 5G from cities to Alpine peaks. Which network is the most reliable?"
-date: '2026-06-04T00:00:00+00:00'
+title: "Switzerland eSIM 2026: what to know before you go."
+description: "Need a Switzerland travel eSIM? Roami tests Swisscom, Salt and Sunrise 5G speeds and coverage to help you pick the right carrier for Switzerland."
+date: "2026-06-17T06:04:17+00:00"
+
 keywords: eSIM Schweiz, prepaid data, 5G network, Swisscom, Salt, Sunrise, travel
   eSIM, Roami
 site_name: Roami
@@ -322,24 +323,3 @@ cta_free_trial_note: Exclusive for new customers
 cta_free_trial_text: Free Schweiz trial eSIM
 cta_free_trial_link: /free-esim/
 ---
-# Schweiz eSIM: Nationwide high-speed data coverage
-
-> **💡 Short summary for travelers:** Unlimited 5G data: more efficient use by sharing across multiple devices. With Roami's Schweiz eSIM, you tap into Swisscom's leading network, which recorded a median 5G download speed of 178.25 Mbps in H1 2025 according to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/switzerland-speedtest-connectivity-report-h1-2025). Enjoy seamless hotspot tethering, instant activation, and no roaming fees — perfect for digital nomads and families exploring the Alps or city centers.
-
-## Things you need to know before buying a Schweiz eSIM
-
-
-### 1. Main 5G/4G frequency bands in Schweiz {#1-main-5g4g-frequency-bands-in-schweiz}
-Schweiz operators use bands such as n78 (3500 MHz) for 5G, and B1 (2100 MHz), B3 (1800 MHz), B7 (2600 MHz), B20 (800 MHz) for 4G. Ensure your device supports these bands for optimal performance.
-
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-You must provide a valid passport or national ID during purchase. Roami's eSIM activation requires identity verification to comply with local regulations.
-
-### 3. Fair Usage Policy (FUP) for unlimited plans {#3-fair-usage-policy-fup-for-unlimited-plans}
-Unlimited data plans may have a fair usage cap (typically 20-50 GB per month). After exceeding the cap, speeds may be throttled to 1-2 Mbps. Check plan details before purchase.
-
-### 4. Device compatibility and eSIM support {#4-device-compatibility-and-esim-support}
-Most modern smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer) support eSIM. Verify your device is unlocked and eSIM-compatible.
-
-### 5. Roaming and cross-border usage {#5-roaming-and-cross-border-usage}
-Schweiz eSIMs are valid only within Schweiz. If you travel to neighboring countries, you may need a separate eSIM or a regional plan. Roami offers multi-country options for European travel.

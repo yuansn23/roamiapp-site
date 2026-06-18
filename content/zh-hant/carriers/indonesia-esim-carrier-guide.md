@@ -1,7 +1,8 @@
 ---
-title: "印尼 eSIM 電信方案比較 | Telkomsel/Indosat/XL 5G上網推薦"
-description: "比較印尼三大電信Telkomsel、Indosat、XL的5G上網方案價格與覆蓋。Roami整理印尼eSIM業者資訊，幫助您選擇最適合旅行上網的方案，最低$1.99起。"
-date: "2026-06-17T10:07:08+00:00"
+title: "去印尼旅行該選哪家 eSIM？5G 網速與方案完整比較。"
+description: "計劃去印尼旅行嗎？Roami 為您實際測試 Telkomsel、XL 和 IM3 Ooredoo 的 5G 網路表現，讓您輕鬆比較各家方案，選出最適合的印尼 eSIM 方案。"
+date: "2026-06-17T06:15:09+00:00"
+
 keywords: "eSIM 印尼，預付數據，5G 網路，Telkomsel，XL，Roami eSIM"
 site_name: "Roami"
 brand_name: "Roami"
@@ -47,7 +48,6 @@ sidebar_links:
   - href: "#data-sources"
     text: "數據來源"
 
-
 # 快速決策表格
 quick_picks_title: "快速選擇：印尼 該選哪家 eSIM 營運商？"
 quick_picks_table_headers:
@@ -82,7 +82,6 @@ quick_picks:
     carrier_class: "text-yellow-600"
     reason: "IM3 Ooredoo 中位下載速度 26.7 Mbps，表現穩定，價格通常較親民，適合日常社交媒體、地圖導航與輕度使用。"
 
-
 # 主要按鈕文案
 cta_button_main_text: "查看 印尼 最優惠旅行 eSIM"
 cta_button_sub_text: "自動切換網路，支援預付數據自動比價"
@@ -114,7 +113,6 @@ operators:
     user_scenarios: "- **雅加達購物中心**：在 Grand Indonesia 或 Plaza Indonesia 使用 XL 5G，享受 88.67 分的影片串流體驗，觀看 Netflix 或 YouTube 不緩衝。\n- **萬隆咖啡廳**：在萬隆創意區，XL 的 5G 遊戲得分 79.55，適合玩《原神》或《傳說對決》等手遊。\n- **龍目島海灘**：在 Senggigi 海灘，XL 的一致性網路確保直播或視訊通話穩定。"
     bg_color: "bg-blue-50"
 
-
 # 三張卡片
 cards_compatibility_title: "檢查 印尼 eSIM 相容性清單"
 cards_compatibility_desc: "了解您的手機是否支援 印尼 eSIM 與當地 5G 頻段"
@@ -145,7 +143,6 @@ before_buy_sections:
 
   - heading: "5. 多國漫遊與數據共享"
     content: "若您計劃從印尼前往新加坡、馬來西亞等鄰國，Roami 提供多國 eSIM 方案，無需更換 SIM 卡。請注意，部分方案不支援熱點分享，購買前請確認您的需求。"
-
 
 # 城市推薦表格
 city_guide_title: "城市指南：印尼 最佳 eSIM"
@@ -227,7 +224,6 @@ faq:
   - q: "如何確認 eSIM 在 印尼 的特定目的地是否擁有可靠的覆蓋？"
     a: "您可參考 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024) 的覆蓋地圖，或使用 OpenSignal 的即時覆蓋工具。一般來說，Telkomsel 在都市與偏遠地區覆蓋最廣，XL 在都市 5G 表現優異。Roami 也提供目的地覆蓋查詢功能，您可在購買前輸入目的地確認。"
 
-
 # 迷思
 myths_title: "⚠️ 印尼 eSIM 常見迷思與事實"
 myth_label: "❌ 迷思："
@@ -248,7 +244,6 @@ myths:
 
   - myth: "印尼 eSIM 只能連接一家營運商。"
     truth: "Roami eSIM 會自動連接 Telkomsel 與 XL 等多家營運商，根據訊號強度與品質動態切換，確保最佳連線。"
-
 
 # 數據來源
 data_sources_title: "印尼 行動網路數據來源"
@@ -277,25 +272,3 @@ cta_free_trial_text: "印尼 免費試用 eSIM"
 cta_free_trial_link: "/free-esim/"
 
 ---
-
-# 印尼 eSIM：立即購買，即時連線
-
-> **💡 旅行者摘要：** 【無憂全球商務差旅：一張 eSIM 暢遊多國高速網路】對於經常往返印尼的商務旅客，Roami eSIM 提供即時連線，無需更換實體 SIM 卡。根據 [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/indonesia-speedtest-connectivity-report-h2-2024) 數據，Telkomsel 在 2024 下半年以 42.93 的速度得分奪冠，中位下載速度達 32.11 Mbps，上傳 13.86 Mbps，延遲僅 47 ms；XL 則以 87.2% 的一致性表現最佳。Roami eSIM 自動連接當地頂級網路，讓您在雅加達會議、峇里島度假或泗水出差時，都能享受穩定高速的 5G 體驗。結論：選擇 Roami eSIM，就是選擇無縫、高效、可靠的全球商務連線。
-
-## 購買 印尼 eSIM 前須知
-
-
-### 1. 主要 5G/4G 頻段 {#1-主要-5g4g-頻段}
-印尼主要營運商（Telkomsel、XL、IM3 Ooredoo）使用 4G 頻段 B1 (2100)、B3 (1800)、B8 (900)、B28 (700) 以及 5G 頻段 n1 (2100)、n3 (1800)、n28 (700)、n40 (2300)、n78 (3500)。購買 eSIM 前請確認您的裝置支援這些頻段，以獲得最佳連線。
-
-### 2. KYC 要求 {#2-kyc-要求}
-印尼法規要求所有 SIM 卡（包括 eSIM）必須進行實名登記。購買 Roami eSIM 時，您需要提供護照資料與入境資訊（如簽證或入境章），部分營運商可能要求上傳自拍照。請確保資料正確，以免啟用延遲。
-
-### 3. 公平使用政策（FUP） {#3-公平使用政策fup}
-多數印尼 eSIM 方案設有每日或總量公平使用限制。例如，超過每日 1GB 後速度可能降至 128 kbps。Roami 提供透明 FUP 說明，請在購買前確認方案細節，避免超量後降速影響體驗。
-
-### 4. 啟用與連線時間 {#4-啟用與連線時間}
-Roami eSIM 在付款後立即透過電子郵件發送 QR code，掃描後幾分鐘內即可啟用。建議在出發前於有 Wi-Fi 的環境下完成安裝，抵達印尼後開啟數據漫遊即可自動連線。
-
-### 5. 多國漫遊與數據共享 {#5-多國漫遊與數據共享}
-若您計劃從印尼前往新加坡、馬來西亞等鄰國，Roami 提供多國 eSIM 方案，無需更換 SIM 卡。請注意，部分方案不支援熱點分享，購買前請確認您的需求。

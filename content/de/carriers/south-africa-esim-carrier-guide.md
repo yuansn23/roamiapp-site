@@ -1,7 +1,8 @@
 ---
-title: "South Africa eSIM Guide | Vodacom, MTN or Cell C?"
-description: "Kaufen Sie Ihre Roami eSIM für Südafrika bequem von zu Hause. Gültig ab Kauf, bereit bei Ankunft. Deckt alle Regionen ab."
-date: '2026-06-14T00:00:00+00:00'
+title: "Wie schnell ist 5G in Südafrika? Ein eSIM Reiseführer."
+description: "Mit Roami den perfekten Südafrika eSIM Anbieter finden. Wir vergleichen Vodacom und MTN – von der Stadt bis aufs Land in Südafrika."
+date: "2026-06-17T06:04:19+00:00"
+
 keywords: eSIM Südafrika, Prepaid Daten, 5G Netz, Vodacom, MTN, Roaming Alternativen
 site_name: Roami
 brand_name: Roami
@@ -342,24 +343,3 @@ cta_free_trial_note: Exklusiv für Neukunden
 cta_free_trial_text: Kostenlose Südafrika Test-eSIM
 cta_free_trial_link: /free-esim/
 ---
-# Südafrika eSIM: Verabschieden Sie sich von internationalen Roaming-Gebühren
-
-> **💡 Kurzzusammenfassung für Reisende:** Erste Wahl für digitale Nomaden: Nahtloses grenzüberschreitendes 5G-Netzwerk für kontinuierliche Reisen durch mehrere Länder. Laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/south-africa-speedtest-connectivity-report-h2-2024) erreicht Vodacom eine 5G-Downloadrate von 227,92 Mbit/s, während MTN mit 97,32 Punkten Speed Score das schnellste Gesamtnetz bietet. Mit Roami eSIM surfen Sie in Pretoria (76,03 Mbit/s mobil) und Kapstadt (52,59 Mbit/s fest) zuverlässig und ohne Roaming-Gebühren.
-
-## Dinge, die Sie vor dem Kauf einer Südafrika eSIM wissen müssen
-
-
-### 1. Wichtige 5G/4G-Frequenzbänder in Südafrika {#1-wichtige-5g4g-frequenzbänder-in-südafrika}
-Südafrika nutzt für 5G hauptsächlich die Bänder n78 (3500 MHz) und n1 (2100 MHz). Für 4G/LTE sind die Bänder 1 (2100 MHz), 3 (1800 MHz), 20 (800 MHz) und 28 (700 MHz) relevant. Stellen Sie sicher, dass Ihr Smartphone diese Frequenzen unterstützt, um die beste Netzabdeckung zu erhalten.
-
-### 2. Registrierungspflicht (KYC) für eSIM in Südafrika {#2-registrierungspflicht-kyc-für-esim-in-südafrika}
-In Südafrika ist eine Identifikationspflicht (Know Your Customer – KYC) für alle Mobilfunkdienste gesetzlich vorgeschrieben. Bei der Aktivierung einer Roami eSIM müssen Sie Ihren Reisepass oder Personalausweis hochladen. Die Prüfung erfolgt automatisiert und dauert in der Regel nur wenige Minuten.
-
-### 3. Fair-Use-Policy (FUP) und Drosselung {#3-fair-use-policy-fup-und-drosselung}
-Die meisten eSIM-Tarife unterliegen einer Fair-Use-Policy. Nach Überschreiten eines bestimmten Datenvolumens (z. B. 50 GB pro Monat) kann die Geschwindigkeit gedrosselt werden. Roami bietet transparente Tarife ohne versteckte Drosselung – prüfen Sie die genauen Konditionen vor dem Kauf.
-
-### 4. Netzabdeckung in ländlichen Gebieten {#4-netzabdeckung-in-ländlichen-gebieten}
-Während die 5G-Abdeckung in Städten wie Johannesburg, Kapstadt und Pretoria exzellent ist, kann sie in ländlichen Regionen (z. B. Karoo, Nordkap) eingeschränkt sein. Hier greifen Sie automatisch auf 4G/LTE zurück. Vodacom und MTN haben die beste ländliche Abdeckung.
-
-### 5. Kompatibilität mit Ihrem Smartphone {#5-kompatibilität-mit-ihrem-smartphone}
-Nicht alle Smartphones unterstützen eSIM. iPhones ab dem XS/XR, Google Pixel ab dem 3a und die meisten Samsung Galaxy Modelle ab dem S20 sind eSIM-kompatibel. Prüfen Sie vor der Reise, ob Ihr Gerät eSIM-fähig ist und entsperrt (SIM-Lock-frei) ist.

@@ -1,7 +1,8 @@
 ---
-title: "Swiss eSIM Guide | Swisscom, Sunrise or Salt?"
-description: "Sie möchten eine eSIM für Schweiz? Roami liefert den Code direkt per Email, ohne Versandkosten. Deckt Zürich, Genf & die Alpen ab."
-date: '2026-06-14T00:00:00+00:00'
+title: "Reisen Sie nach Schweiz? Finden Sie die beste eSIM."
+description: "Planen Sie eine Reise nach Schweiz? Roami testet Swisscom, Salt und Sunrise und zeigt, welcher Anbieter die beste eSIM Lösung für Ihren Aufenthalt in Schweiz ist."
+date: "2026-06-17T06:04:19+00:00"
+
 keywords: eSIM Schweiz, Prepaid Daten, 5G Netz, Swisscom, Salt, Roami eSIM, Schweiz
   Reise
 site_name: Roami
@@ -340,24 +341,3 @@ cta_free_trial_note: Exklusiv für Neukunden
 cta_free_trial_text: Kostenlose Schweiz Test-eSIM
 cta_free_trial_link: /free-esim/
 ---
-# Schweiz eSIM: Unverzichtbares Internet für Individualreisende
-
-> **💡 Kurzzusammenfassung für Reisende:** Nahtloser Netzwerkwechsel in mehreren Ländern: Der neue Standard für reisende digitale Nomaden. Dank Roami eSIM und den Spitzennetzen von Swisscom, Salt und Sunrise surfen Sie in der Schweiz mit bis zu 178,25 Mbit/s im 5G-Netz (laut [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/switzerland-speedtest-connectivity-report-h1-2025)). Kein physischer SIM-Kartenwechsel, keine versteckten Roaming-Kosten – einfach QR-Code scannen und sofort online sein. Ideal für Individualreisende, die in Zürich, Basel oder den Alpen zuverlässig verbunden bleiben möchten.
-
-## Dinge, die Sie vor dem Kauf einer Schweiz eSIM wissen müssen
-
-
-### 1. 5G/4G-Frequenzbänder in der Schweiz {#1-5g4g-frequenzbänder-in-der-schweiz}
-Die Schweiz nutzt für 5G hauptsächlich die Bänder n78 (3500 MHz) und n28 (700 MHz). Für 4G/LTE sind die Bänder 3 (1800 MHz), 7 (2600 MHz) und 20 (800 MHz) entscheidend. Achten Sie darauf, dass Ihr Smartphone diese Bänder unterstützt, um die beste Abdeckung zu erhalten.
-
-### 2. Registrierungspflicht (KYC) bei eSIM-Kauf {#2-registrierungspflicht-kyc-bei-esim-kauf}
-In der Schweiz gilt eine strikte Identifikationspflicht (Know Your Customer). Beim Kauf einer eSIM müssen Sie Ihren Reisepass oder Personalausweis vorlegen. Roami erfasst diese Daten sicher und gesetzeskonform, sodass Ihre eSIM sofort aktiviert werden kann.
-
-### 3. Fair-Use-Policy (FUP) und Drosselung {#3-fair-use-policy-fup-und-drosselung}
-Die meisten eSIM-Tarife unterliegen einer Fair-Use-Policy. Nach Überschreiten eines bestimmten Datenvolumens (z. B. 20 GB) wird die Geschwindigkeit gedrosselt. Prüfen Sie vor dem Kauf die genauen Konditionen, um böse Überraschungen zu vermeiden.
-
-### 4. Kompatibilität mit Ihrem Smartphone {#4-kompatibilität-mit-ihrem-smartphone}
-Nicht jedes Smartphone unterstützt eSIM. iPhones ab dem XS, Google Pixel ab dem 3a und die meisten Samsung Galaxy Modelle ab dem S20 sind kompatibel. Prüfen Sie vorab die Liste der unterstützten Geräte auf der Roami-Website.
-
-### 5. Netzabdeckung in ländlichen Gebieten und den Alpen {#5-netzabdeckung-in-ländlichen-gebieten-und-den-alpen}
-Während Swisscom die beste Abdeckung in den Alpen bietet, haben Salt und Sunrise in abgelegenen Tälern teilweise schwächere Signale. Für Wanderungen im Berner Oberland oder im Wallis ist Swisscom die sicherste Wahl.

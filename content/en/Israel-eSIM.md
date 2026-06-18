@@ -350,284 +350,46 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: 'Israel eSIM Guide 2026: Network & Travel Guide'
-  desc: From Tel Aviv to Jerusalem, stay connected on Cellcom, Pelephone, Partner networks. Our complete Israel eSIM guide
-    covers coverage, plans, setup, and travel tips. Find the best plan for your trip.
+  title: "Israel eSIM: What Travelers Need to Know | Plans & Setup"
+  desc: "Planning Israel travel? Our eSIM guide covers israel esim pelephone, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1.  General Questions About Israel eSIM
+    title: Israel eSIM FAQs
     questions:
-    - q: Is Cellcom or Pelephone better for Israel travel?
-      a: Both Cellcom and Pelephone offer excellent coverage across Israel. Cellcom generally has wider rural coverage, while
-        Pelephone offers competitive 5G speeds in cities. For most travelers visiting Tel Aviv, Jerusalem, and the surrounding
-        areas, either network works well. If you plan to explore remote areas, Cellcom is typically the safer choice.
-    - q: Which local networks does the Israel eSIM use?
-      a: The eSIM for Israel connects to major local networks like Pelephone, Cellcom, and Hot Mobile to provide reliable
-        coverage. These operators ensure strong 5G and 4G/LTE signals across cities like Tel Aviv, Jerusalem, and Haifa. Depending
-        on your location, the eSIM will automatically select the best available network. This seamless switching guarantees
-        a stable connection throughout your stay.
-    - q: How does an eSIM for Israel compare to a physical SIM card from the airport?
-      a: An eSIM offers far greater convenience than a physical SIM card, as you can purchase and install it before your trip.
-        This saves you the time and hassle of visiting a kiosk at the airport and dealing with small SIM trays. Prices for
-        eSIM plans are also often more competitive, with a 7-day 1GB plan costing as little as $2.99. You can also keep your
-        home SIM for calls and texts while using the eSIM for data.
-    - q: Is an eSIM compatible with all smartphones in Israel?
-      a: Most modern smartphones support eSIM technology, including all iPhone models from the XS onwards and many Google
-        Pixel and Samsung Galaxy phones. However, it is always best to check your device's specifications to confirm eSIM
-        compatibility before traveling. Some older Android models may not support this feature. If your phone is unlocked
-        and eSIM-compatible, you can easily use a virtual SIM card in Israel.
-    - q: Can I use an eSIM for Israel if I am only transiting through the country?
-      a: Yes, a short-term eSIM plan is perfect for a layover or transit through Israel. You can purchase a 3-day plan with
-        3GB of data for just $2.99, which is ideal for a brief stay. This allows you to use navigation apps and stay connected
-        without committing to a longer plan. The eSIM activates upon arrival and covers your entire transit period.
-    - q: What is the difference between a prepaid eSIM and a postpaid plan for Israel?
-      a: A prepaid eSIM for Israel is a pay-as-you-go service that you buy online before your trip, with no contract or credit
-        check required. Postpaid plans, typically offered by local carriers, involve signing a contract and receiving a bill
-        after usage. For tourists, prepaid eSIMs are far more convenient as they offer fixed data allowances and prices, like
-        a 7-day 5GB plan for $5.99. This eliminates the risk of unexpected charges and provides immediate connectivity.
-    - q: How do I check my data balance on my Israel eSIM?
-      a: You can easily monitor your data usage through your phone's settings, typically under the 'Cellular' or 'Mobile Data'
-        section. Many eSIM providers also offer a companion app or a web portal where you can check your remaining balance.
-        For example, a 7-day 10GB plan will show your consumption in real-time. This helps you manage your data and avoid
-        running out during your trip.
-    - q: Can I top up my eSIM plan while in Israel?
-      a: Yes, most eSIM providers for Israel allow you to top up your data plan directly through their app or website. This
-        is a seamless process that requires no new QR code or installation. You can simply add more data, such as an extra
-        5GB, to your existing plan. This feature is extremely useful for extended trips or if you unexpectedly run out of
-        data.
-    - q: Is it safe to buy an eSIM for Israel from online providers like Holafly or Airalo?
-      a: Buying an eSIM from reputable online providers like Holafly, Airalo, or Roami is generally safe and reliable. These
-        companies partner with local Israeli networks to offer secure, encrypted data connections. It is important to purchase
-        from a trusted source to ensure customer support and easy activation. Reading recent reviews can also help you choose
-        the best eSIM for Israel for your needs.
-    - q: Will my phone number change when I use an Israel eSIM?
-      a: No, using an eSIM for data in Israel does not change your primary phone number. The eSIM only provides a data connection,
-        so your regular cellular number for calls and texts remains active on your home SIM. This allows you to stay reachable
-        on your usual number while using the eSIM for all your internet needs. You can also use apps like WhatsApp for voice
-        and video calls over the eSIM data.
-  - id: faq-airport
-    icon: airplane
-    tab_title: Airports
-    title: 2.  Israel eSIM at Airports
-    questions:
-    - q: Is there free Wi-Fi at Ben Gurion Airport to activate my eSIM?
-      a: Yes, Ben Gurion Airport offers free, reliable Wi-Fi throughout its terminals. This public network is perfect for
-        activating your eSIM immediately upon arrival. You can connect to the Wi-Fi, scan your eSIM QR code, and have your
-        data running within minutes. This ensures you are connected before you even leave the airport.
-    - q: Are there physical SIM card kiosks at the airport, and how do they compare to an eSIM?
-      a: Yes, you will find kiosks for local providers like Pelephone and Cellcom in the arrivals hall. However, buying an
-        eSIM in advance is often cheaper and more convenient. For example, a 7-day unlimited data eSIM costs $19.99, while
-        physical SIMs can be more expensive and require waiting in line. An eSIM also saves you the trouble of handling a
-        small physical card.
-    - q: Can I buy an Israel eSIM card for tourists before arriving at the airport?
-      a: Absolutely, purchasing an eSIM for Israel before your flight is the most recommended approach. You can buy it online
-        from providers like Roami or Holafly, and the eSIM will be delivered to your email. This allows you to install it
-        on your phone while you are still at home, using your home Wi-Fi. Upon landing in Israel, you simply turn on the data
-        line and are instantly connected.
-    - q: What happens if my flight lands late at night and the airport SIM shops are closed?
-      a: If you have a pre-purchased eSIM, the time of your arrival does not matter at all. Since the eSIM is installed before
-        you land, you can activate it immediately even if all airport shops are closed. This provides 24/7 connectivity, which
-        is perfect for late-night arrivals. You can order a taxi or navigate to your hotel without any delay.
-    - q: How reliable is the cellular coverage at and around Ben Gurion Airport?
-      a: Cellular coverage at Ben Gurion Airport is excellent, with strong signals from all major Israeli networks like Hot
-        Mobile and Orange eSIM partners. The eSIM will automatically connect to the strongest available network, ensuring
-        fast data speeds. This reliable coverage extends to the surrounding areas and main highways. You can expect seamless
-        connectivity from the moment you land.
-  - id: faq-transport
-    icon: train
-    tab_title: Transport
-    title: 3.  Israel eSIM for Transport
-    questions:
-    - q: Can I use an eSIM for navigation apps like Waze and Google Maps in Israel?
-      a: Yes, an eSIM is perfect for using navigation apps across Israel. With a 5GB plan from a provider like Roami, you
-        can navigate through cities like Tel Aviv and Jerusalem without worrying about data limits. These apps use a moderate
-        amount of data, so even a 3GB plan can cover a week of driving. This ensures you never get lost while exploring the
-        country.
-    - q: What is the best eSIM plan for using ride-sharing apps like Gett or Uber in Israel?
-      a: For using ride-sharing apps frequently, a plan with at least 5GB of data is recommended. A 15-day 5GB plan priced
-        at $6.99 offers plenty of data for booking rides and making payments. These apps are data-efficient, so you can use
-        them throughout your trip without consuming too much of your allowance. This keeps you mobile without needing to hunt
-        for Wi-Fi.
-    - q: Can I use Israel eSIM for ride-hailing and maps?
-      a: Absolutely. Israel eSIM works with ride-hailing apps and navigation. A 5GB/15 days plan ($4.99) covers daily navigation
-        and ride-booking during a typical trip. The 4G/5G connection ensures reliable real-time tracking and route updates.
-    - q: How much data do I need for a road trip across Israel using an eSIM?
-      a: For a road trip, a 10GB or 20GB plan is ideal to cover navigation, music streaming, and spontaneous searches. A 7-day
-        10GB plan costs $8.99 and provides ample data for a week of driving. This allows you to use maps continuously and
-        look up points of interest along the way. It ensures you have a reliable connection even in more remote areas.
-    - q: Is the eSIM coverage good in the Israel desert and remote areas like the Negev?
-      a: Coverage in the Negev desert is generally good on main roads and near tourist attractions, thanks to networks like
-        Pelephone. However, signal strength can vary in the most remote, uninhabited parts of the desert. An eSIM will connect
-        to the strongest available local network, but some dead zones may exist. For safety, it is wise to download offline
-        maps before venturing off the beaten path.
-  - id: faq-hotels
-    icon: building
-    tab_title: Hotels
-    title: 4.  Israel eSIM for Hotels
-    questions:
-    - q: Do I need an eSIM if my hotel in Tel Aviv has free Wi-Fi?
-      a: Even with hotel Wi-Fi, an eSIM is highly recommended for connectivity when you are out exploring. Hotel Wi-Fi can
-        be slow, unreliable, or require repeated logins. With your own eSIM, you have a private, secure, and fast connection
-        wherever you go. This is essential for using maps, finding restaurants, and staying in touch while away from your
-        hotel.
-    - q: Can I use my eSIM as a backup if the hotel Wi-Fi is poor?
-      a: Yes, an eSIM serves as an excellent backup for unreliable hotel internet. If the Wi-Fi is slow or drops out, you
-        can simply switch to your eSIM's data connection. This provides a seamless and uninterrupted internet experience.
-        It is a reliable safety net for business travelers or anyone who needs constant connectivity.
-    - q: How do I set up my eSIM to work alongside hotel Wi-Fi?
-      a: Setting up your eSIM is straightforward; you can keep it active while connected to hotel Wi-Fi. Your phone will automatically
-        prefer the Wi-Fi for data, but the eSIM line is ready to use if you leave the hotel range. This allows for a smooth
-        transition between networks. You can manage these connections in your phone's cellular settings.
-    - q: Is it safe to use hotel Wi-Fi for banking, or should I use my eSIM?
-      a: For sensitive activities like online banking, using your personal eSIM is much safer than public hotel Wi-Fi. Public
-        networks are more vulnerable to security breaches and data interception. Your eSIM provides a private, encrypted connection
-        directly to the cellular network. This protects your financial information and personal data from potential threats.
-    - q: What is the best eSIM plan for a long stay in an Israel hotel?
-      a: For a long stay of a month or more, a 30-day plan offers the best value. A 30-day 20GB plan is available for $29.99,
-        providing a generous amount of data for daily use. This covers streaming, work, and communication without the need
-        for frequent top-ups. It is a cost-effective solution for extended vacations or remote work from a hotel.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5.  Israel eSIM for Attractions
-    questions:
-    - q: Can I use an eSIM to buy tickets for attractions like the Western Wall or Masada?
-      a: Yes, an eSIM is perfect for purchasing tickets online for popular attractions. You can use your data connection to
-        buy entry tickets to sites like the Western Wall, Masada, and the Dead Sea while on the go. This saves you time waiting
-        in ticket lines and helps you plan your day dynamically. It also allows you to access digital guides and maps at these
-        locations.
-    - q: Will I have good eSIM signal at major tourist sites like the Old City of Jerusalem?
-      a: Yes, major tourist sites like the Old City of Jerusalem and the beaches of Tel Aviv have excellent cellular coverage.
-        The eSIM will connect to strong networks from providers like Cellcom to ensure fast data speeds. You can share photos,
-        stream videos, and use apps without interruption. This reliable connectivity enhances your overall sightseeing experience.
-    - q: How much data do I need for a day of sightseeing and sharing photos on social media?
-      a: For a heavy day of sightseeing that includes uploading photos and videos to social media, you might use 1-2GB of
-        data. A 3-day 10GB plan for $6.99 would easily cover several days of this activity. This allows you to post about
-        your experiences in real-time without worry. It is a great option for social media enthusiasts.
-    - q: Can I use my eSIM to find and book tours of historical sites in Israel?
-      a: Absolutely, your eSIM gives you the freedom to research and book tours on the go. You can use apps like GetYourGuide
-        or Viator to find last-minute tour availability at sites like the City of David. This flexibility is one of the key
-        benefits of having a constant data connection. You can also read reviews and compare prices before making a decision.
-    - q: Is the eSIM coverage good inside museums like the Israel Museum in Jerusalem?
-      a: Coverage inside large museums like the Israel Museum can be variable due to thick walls and building structure. While
-        there is generally good 4G/LTE signal in open areas, some interior galleries may have weaker reception. An eSIM will
-        work in most parts of the museum, but downloading audio guides or maps via Wi-Fi beforehand is a good idea. This ensures
-        you have access to information even in areas with poor signal.
-  - id: faq-social
-    icon: message-circle
-    tab_title: Social & Messaging
-    title: 6.  Israel eSIM for Social Media
-    questions:
-    - q: Can I use apps like WhatsApp and FaceTime over my Israel eSIM?
-      a: Yes, you can use all messaging and video calling apps like WhatsApp, FaceTime, and Skype over your eSIM data connection.
-        This is a great way to stay in touch with friends and family back home without incurring international call charges.
-        The high-speed 5G/4G/LTE data ensures clear and stable video calls. It is one of the primary benefits of having a
-        data-only eSIM for travel.
-    - q: How much data do I need for Israel?
-      a: Light users (maps + messaging) ~300MB/day, moderate (social + photos) ~700MB/day, heavy (streaming + video calls)
-        choose Unlimited. Most visitors find 5GB/15 days ($4.99) comfortable for a standard trip to Israel.
-    - q: Will my eSIM work with apps like TikTok and Instagram for uploading videos?
-      a: Absolutely, your eSIM supports all social media apps, including TikTok and Instagram, for both browsing and uploading
-        content. The data speed is sufficient for uploading high-resolution videos and photos. To avoid using too much data,
-        you can set these apps to upload only on Wi-Fi or lower the video quality. This helps you enjoy social media without
-        exceeding your plan limits.
-    - q: Can I use a VPN with my Israel eSIM for additional privacy on social media?
-      a: Yes, you can use a VPN service over your eSIM data connection for enhanced privacy and security. This encrypts your
-        internet traffic, which is especially useful when accessing sensitive accounts on public networks. The eSIM's high-speed
-        data supports VPN usage without significant slowdowns. This gives you peace of mind while browsing social media or
-        using other apps.
-    - q: How does the eSIM handle data for messaging apps in the background?
-      a: Messaging apps like WhatsApp and Telegram use very little data for background syncing and notifications. You can
-        leave them running all day without worrying about a significant impact on your data plan. The eSIM efficiently manages
-        this background data consumption. This ensures you always receive your messages in real-time without draining your
-        allowance.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7.  Israel eSIM for Cross-Border Travel
-    questions:
-    - q: Can I use my Israel eSIM in neighboring countries like Jordan or Egypt?
-      a: Standard Israel eSIMs are typically designed for use only within Israel's borders. For travel to neighboring countries
-        like Jordan or Egypt, you would need a separate regional or global eSIM plan. Some providers like Roami offer regional
-        plans that cover multiple countries in the Middle East. It is crucial to check the coverage area of your plan before
-        crossing any borders.
-    - q: What is the best eSIM solution for a trip that includes both Israel and the West Bank?
-      a: Many eSIM plans for Israel also provide coverage in the West Bank due to the shared cellular infrastructure. It is
-        important to check with your provider to confirm this coverage. A plan from a provider like Holafly that offers unlimited
-        data can be a good choice for seamless connectivity in both areas. This ensures you stay connected as you move between
-        regions.
-    - q: Do I need to buy a new eSIM if I take a day trip from Israel to Petra in Jordan?
-      a: Yes, for a day trip to Petra, you will need a separate eSIM that covers Jordan. Your Israel eSIM will not work once
-        you leave the country's network coverage. Providers like Airalo offer affordable, short-term eSIMs for Jordan. You
-        can purchase and activate a Jordan eSIM before you cross the border to ensure immediate connectivity.
-    - q: Will my data plan work if I fly into Eilat Airport near the Jordanian border?
-      a: Yes, your Israel eSIM will work perfectly at Eilat Airport and the surrounding city of Eilat. The cellular towers
-        in this area are part of the Israeli network. However, be aware that you might briefly connect to a Jordanian network
-        if you are very close to the border. To avoid any roaming charges, ensure your phone is set to manually select the
-        Israeli network.
-    - q: Are there eSIM plans that cover both Israel and the Palestinian Territories?
-      a: Yes, many eSIM plans designed for Israel also provide coverage in the Palestinian Territories, as they are often
-        served by the same Israeli cellular towers. This ensures a consistent connection as you travel between cities like
-        Jerusalem and Ramallah. However, it is best to confirm with your specific provider to guarantee coverage in these
-        areas. A regional plan might be the most convenient solution.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  Israel eSIM for Emergencies
-    questions:
-    - q: Can I call emergency services in Israel using an eSIM?
-      a: Yes, even with a data-only eSIM, you can still call emergency numbers like 100 for police and 101 for an ambulance.
-        Your phone is designed to make emergency calls over any available network, even without an active SIM. This is a critical
-        safety feature that works regardless of your data plan. You can also use data-based emergency features like sharing
-        your location with a contact.
-    - q: Can I use WhatsApp and FaceTime with Israel eSIM?
-      a: Yes! Israel eSIM supports WhatsApp audio/video calls, FaceTime, WeChat voice, and Zoom without any blocks. You can
-        stay in touch with family using your preferred messaging apps throughout your trip.
-    - q: Will my eSIM work for emergency updates from local authorities during a crisis?
-      a: Yes, a stable internet connection from your eSIM will allow you to receive real-time emergency updates from local
-        authorities. You can access websites and apps that provide official alerts and safety instructions. This is crucial
-        for staying informed during unforeseen events like security incidents or natural disasters. It ensures you have access
-        to vital information when you need it most.
-    - q: What should I do if my eSIM is not working in an emergency situation?
-      a: If your eSIM is not working, first try restarting your phone or toggling Airplane Mode to force a network reconnection.
-        If it still fails, look for public Wi-Fi to contact your eSIM provider's customer support. As a last resort, you can
-        approach local authorities or find a public phone to make an emergency call. It is always wise to have a backup plan
-        for communication.
-    - q: Can I use my eSIM to contact my country's embassy in Israel if needed?
-      a: Yes, you can use your eSIM data to contact your embassy or consulate in Israel via email or their official website.
-        Many embassies also have apps or social media channels you can use for communication. A reliable data connection ensures
-        you can reach them for assistance with lost passports or other emergencies. This is a key resource for any international
-        traveler.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  Israel eSIM for Business Travelers
-    questions:
-    - q: What is the best eSIM plan for a short business trip to Tel Aviv?
-      a: For a short business trip, a 7-day plan with a moderate amount of data is ideal. The 7-day 5GB plan for $5.99 offers
-        plenty of data for emails, video calls, and navigation. This plan provides a great balance of cost and data allowance
-        for a few days of work. It ensures you stay productive without overpaying for unused data.
-    - q: Can I use my eSIM for video conferencing apps like Zoom and Microsoft Teams?
-      a: Yes, the high-speed 5G/4G/LTE data from your eSIM is perfect for video conferencing. Apps like Zoom and Microsoft
-        Teams run smoothly, providing clear video and audio for business meetings. A 5GB plan can support several hours of
-        video calls. This allows you to attend virtual meetings from your hotel, a coffee shop, or even a co-working space.
-    - q: Is the eSIM reliable enough for constant connectivity during business hours?
-      a: Yes, eSIMs from providers like Roami offer very reliable connectivity on major networks like Cellcom and Pelephone.
-        This ensures you have a stable data connection throughout the business day. You can confidently send and receive emails,
-        access cloud services, and communicate with your team. This reliability is essential for maintaining productivity
-        while traveling.
-    - q: How does using a local eSIM compare to using international roaming from my home carrier?
-      a: Using a local eSIM for Israel is almost always significantly cheaper than international roaming from your home carrier.
-        For example, a 30-day 20GB eSIM plan costs $29.99, while roaming charges can be exorbitant. An eSIM also avoids the
-        risk of bill shock from unexpected data usage. It is the most cost-effective and transparent way to stay connected
-        for business.
-    - q: Can I keep my home SIM active for business calls while using the eSIM for data?
-      a: Yes, your phone supports dual SIM functionality, allowing you to use your home SIM for calls and texts and the eSIM
-        for data. This is a perfect setup for business travelers who need to remain reachable on their regular number. You
-        can configure your phone to use the eSIM for all internet traffic. This ensures you never miss an important business
-        call while enjoying high-speed data.
+    - q: |
+        Will my phone work with an eSIM in Israel? How can I check before I go?
+      a: |
+        Quick check: dial *#06#. If you see an EID number (about 30-40 digits), your phone supports eSIM. iPhone XS/XR and newer (2018+), Samsung Galaxy S20 and newer, Google Pixel 4 and newer — all support eSIM. About 80% of phones sold since 2021 have eSIM built in. Israel uses 5G on n78 band with dense nationwide covera Check our [eSIM compatibility](/compatibility/) page to confirm your exact model. Three minutes of checking saves arriving in Israel with a non-working connection.
+    - q: |
+        Can I get an eSIM for Israel without spending too much?
+      a: |
+        Absolutely. Roami's Israel eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+    - q: |
+        Is it safe to upload my passport for Israel eSIM registration? I'm concerned about privacy.
+      a: |
+        Israel requires identity verification by law. Israel requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Israel.
+    - q: |
+        Tourists visiting Israel — which network gives the best experience?
+      a: |
+        For urban sightseeing, Cellcom typically delivers download speeds of 50-200 Mbps on 4G/5G. Partner has slightly broader coverage in suburban areas. HOT offers competitive data rates, often with more flexible prepaid options. All three work well for maps, messaging, and social media. Roami ensures you're always on the best one.
+    - q: |
+        When does the validity period of my Israel eSIM start?
+      a: |
+        The plan validity starts when you connect to a local network in Israel, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+    - q: |
+        How much data does a typical traveler actually use per day in Israel?
+      a: |
+        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+    - q: |
+        Does the Israel eSIM work in rural areas and smaller towns?
+      a: |
+        Coverage in Israel is strongest in cities and major tourist areas. In rural locations, the signal may be weaker and speeds may drop from 5G to 4G. Roami automatically switches to the strongest available network. For remote areas, we recommend downloading offline maps in advance.
+    - q: |
+        I'm arriving in Israel late at night. Will I be able to get online immediately?
+      a: |
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Cellcom automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
 related_products:
   title: Related Israel eSIM Plans
   items:

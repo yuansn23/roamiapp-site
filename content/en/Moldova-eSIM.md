@@ -343,216 +343,46 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: 'Moldova eSIM Guide 2026: Plans, Coverage & Tips'
-  desc: From Chișinău to Bălți, stay connected on Orange Moldova, Moldcell, Moldtelecom networks. Our complete Moldova eSIM
-    guide covers coverage, plans, setup, and travel tips. Find the best plan for your trip.
+  title: "Moldova eSIM for Travelers | Pricing & How to Stay Connected"
+  desc: "Planning Moldova travel? Our eSIM guide covers best esim for.moldova, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1.  General Questions About Moldova eSIM
+    title: Moldova eSIM FAQs
     questions:
-    - q: Does my phone support the Moldova eSIM? How do I install it?
-      a: Most modern smartphones support eSIM, and finding the best Moldova eSIM provider starts with compatibility. You can
-        install your prepaid Moldova eSIM simply by scanning the QR code we send to your email. Follow the steps in your phone's
-        Cellular settings.
-    - q: How to buy and activate the Moldova eSIM? Is it active immediately?
-      a: To get the best Moldova travel eSIM, purchase it directly on our site. The prepaid Moldova eSIM is not active immediately
-        – validity starts when you arrive in Moldova and connect to a local network. That's the standard for any Moldova eSIM
-        provider.
-    - q: Is Orange Moldova or Moldcell better for Moldova travel?
-      a: Both Orange Moldova and Moldcell offer excellent coverage across Moldova. Orange Moldova generally has wider rural
-        coverage, while Moldcell offers competitive 5G speeds in cities. For most travelers visiting Chișinău, Bălți, and
-        the surrounding areas, either network works well. If you plan to explore remote areas, Orange Moldova is typically
-        the safer choice.
-    - q: Can I get a refund if the Moldova eSIM doesn't work or has a poor signal?
-      a: Yes, we offer a money-back guarantee. If you experience issues with your Moldova travel eSIM, contact us. This risk-free
-        policy makes us a trusted Moldova eSIM provider.
-    - q: Do you provide 24/7 customer support? How can I contact you?
-      a: Yes, our team is available 24/7 via live chat or email. For questions about how to buy Moldova eSIM, we are always
-        ready to help.
-    - q: Are there any discount codes? How to use the 'web20' promo code?
-      a: Use code 'web20' at checkout for 20% off any prepaid Moldova eSIM. This makes your Moldova eSIM even more affordable.
-    - q: Is your 'Unlimited Data' plan truly unlimited? Is there a Fair Usage Policy (FUP)?
-      a: Our Unlimited plans include a Fair Usage Policy, common among best Moldova eSIM provider providers. You get high-speed
-        data for normal use (browsing, social, video).
-    - q: Can I share my Moldova eSIM data (hotspot) with other devices?
-      a: Yes, hotspot is supported. Sharing your unlimited data Moldova eSIM with friends or laptop is seamless – a feature
-        you expect from a top Moldova eSIM provider.
-    - q: What are the advantages of your Moldova eSIM compared to local SIM cards or other providers?
-      a: Unlike physical SIMs, our prepaid Moldova eSIM is delivered instantly and works with top networks like Orange Moldova,
-        Moldcell, Moldtelecom. That's why we are considered the best Moldova eSIM provider for travelers.
-    - q: How do you compare with well-known eSIM providers like BNESIM, Airalo, Holafly, Eskimo?
-      a: While BNESIM, Airalo, Holafly, Eskimo offer good services, our Moldova eSIM focuses on lower latency and price-matching.
-        For how to buy Moldova eSIM, we provide the simplest checkout.
-  - id: faq-airport
-    icon: plane
-    tab_title: Airports
-    title: 2.  Moldova eSIM at Airports
-    questions:
-    - q: How to get a reliable network immediately after getting off the plane?
-      a: Install your prepaid Moldova eSIM before departure. Upon landing at Chișinău International Airport, Bălți International
-        Airport, Cahul International Airport, enable it to connect instantly – no need for airport Wi-Fi. That's the convenience
-        of a Moldova travel eSIM.
-    - q: How to contact my airport pickup driver or use Uber/Grab?
-      a: With your Moldova eSIM active, you can use Yandex Go, Uber, Taxi 1515 or WhatsApp right away. This is why savvy travelers
-        buy the best Moldova eSIM provider in advance.
-    - q: How to use Google Maps/Apple Maps to find transport?
-      a: Your high-speed Moldova eSIM data lets you open Google Maps at baggage claim. For how to buy Moldova eSIM, remember
-        that instant connectivity is key.
-    - q: How to avoid buying expensive temporary SIM cards at the airport?
-      a: By purchasing our prepaid Moldova eSIM online, you skip expensive airport kiosks. This is the smart how to buy Moldova
-        eSIM strategy for savvy travelers.
-    - q: How to receive hotel/car rental SMS without a local number?
-      a: Our Moldova eSIM provides data only. Keep your home SIM for SMS (receiving is free) while using the eSIM for data
-        – a common setup with any Moldova eSIM provider.
-    - q: How to immediately contact family to report safety and plan the itinerary?
-      a: Use iMessage, WhatsApp, or FaceTime over your Moldova eSIM. Choosing the best Moldova eSIM provider ensures you can
-        share your arrival safely.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3.  Moldova eSIM for Transport
-    questions:
-    - q: How to use Google Maps/Apple Maps to plan routes?
-      a: Our stable Moldova eSIM gives you real-time traffic. For how to buy Moldova eSIM, ensure you get a plan with enough
-        data for navigation – a must for any Moldova travel eSIM.
-    - q: How to let Uber/Grab drivers contact you via the app?
-      a: Apps like Yandex Go, Uber, Taxi 1515 work over data. With your prepaid Moldova eSIM, drivers can call you through
-        the app without a local number.
-    - q: How to buy train/subway passes online?
-      a: Use your Moldova eSIM data to purchase digital tickets. This is one reason we are a top Moldova eSIM provider for
-        urban travelers.
-    - q: How to use Google Maps for real-time navigation after renting a car?
-      a: Simply mount your phone – your unlimited data Moldova eSIM provides ample data for GPS. For the best Moldova eSIM
-        provider, choose a plan with sufficient GBs.
-    - q: How to scan and unlock shared e-scooters like Lime/Bird?
-      a: Fast internet is needed to scan QR codes. Our Moldova eSIM delivers low latency, making it the best Moldova eSIM
-        provider for micro-mobility.
-    - q: How to ensure ride-hailing apps work normally across multiple countries?
-      a: If you have a regional eSIM, your account stays the same. For how to buy Moldova eSIM a multi-country plan, check
-        our regional options.
-    - q: How to provide a stable personal hotspot for family devices?
-      a: Enable hotspot on your phone. Sharing your prepaid Moldova eSIM with family is easy – a feature every good Moldova
-        eSIM provider offers.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4.  Moldova eSIM for Hotels
-    questions:
-    - q: How to do self-check-in after booking on Booking.com/Agoda?
-      a: Access your booking portal via your Moldova eSIM. Many guests appreciate the best Moldova eSIM provider for retrieving
-        door codes on arrival.
-    - q: How to immediately contact the Airbnb host for guidelines upon arrival?
-      a: Use Airbnb messaging or WhatsApp over your Moldova eSIM. For how to buy Moldova eSIM, prioritize providers with reliable
-        in‑city coverage.
-    - q: How to use Google Maps to navigate to the hotel?
-      a: Enter the address of Radisson Blu Leogrand Hotel, Nobil Luxury Boutique Hotel, Dedeman Grand Hotel into Google Maps.
-        Your Moldova travel eSIM ensures you never get lost, even without hotel Wi-Fi.
-    - q: How to receive SMS verification codes using hotel Wi-Fi and eSIM?
-      a: Keep your primary SIM on for SMS; use hotel Wi‑Fi or your prepaid Moldova eSIM to trigger codes. This dual‑SIM setup
-        is standard.
-    - q: How to quickly contact Booking/hotel customer service to change orders?
-      a: Use VoIP apps like Skype or the Booking.com chat via your Moldova eSIM data. Responsive support is why we are a leading
-        Moldova eSIM provider.
-    - q: How to order food to the hotel using local delivery apps?
-      a: Download Glovo, Foodpanda, EatMoldova and order using your Moldova eSIM. Late‑night cravings are easy with a reliable
-        Moldova travel eSIM.
-    - q: How to maintain network connection to communicate with the hotel after checkout?
-      a: After leaving Wi‑Fi, your eSIM takes over. This seamless experience makes our prepaid Moldova eSIM the best Moldova
-        eSIM provider for post‑checkout communication.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5.  Moldova eSIM for Attractions
-    questions:
-    - q: How to buy electronic tickets via GetYourGuide/Viator?
-      a: Use your Moldova eSIM data to buy skip‑the‑line tickets for Orheiul Vechi Monastery, Cricova Winery, Stephen the
-        Great Central Park. This is a top use case for any Moldova travel eSIM.
-    - q: How to immediately book experiences on Tripadvisor?
-      a: Read reviews and book tours with your 4G/5G connection. For how to buy Moldova eSIM, choose a plan with enough speed
-        for browsing.
-    - q: How to use Google/Wikipedia to look up information during the visit?
-      a: Instantly Google historical facts. Your Moldova eSIM enriches your cultural visit – a benefit of choosing the best
-        Moldova eSIM provider.
-    - q: How to use Google Maps to navigate to the next attraction?
-      a: Your eSIM's urban coverage guides you efficiently. That's the convenience of a premium prepaid Moldova eSIM.
-    - q: How to check real‑time queue times at theme parks like Disney?
-      a: Theme park apps require constant data. Our unlimited data Moldova eSIM keeps you updated – a reason we're a top Moldova
-        eSIM provider.
-    - q: How to access Ticketmaster to book show tickets?
-      a: Securely buy last‑minute tickets using your Moldova eSIM. For how to buy Moldova eSIM, ensure your provider has strong
-        local partnerships.
-    - q: How to instantly share photos/videos to Instagram/Facebook?
-      a: Upload high‑quality stories in real time. Fast upload speeds are why many call us the best Moldova eSIM provider
-        for social media lovers.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social
-    title: 6.  Moldova eSIM for Social Media
-    questions:
-    - q: How much data do I need for Moldova?
-      a: Light users (maps + messaging) ~300MB/day, moderate (social + photos) ~700MB/day, heavy (streaming + video calls)
-        choose Unlimited. Most visitors find 5GB/15 days ($4.99) comfortable for a standard trip to Moldova.
-    - q: How to upload content to Instagram/TikTok without connecting to public Wi-Fi?
-      a: Public Wi‑Fi is slow and risky. Our 4G/5G Moldova eSIM gives you secure, fast uploads – the best Moldova eSIM provider
-        for creators.
-    - q: How to make FaceTime/WhatsApp video calls with family?
-      a: Low‑latency networks ensure clear video calls. For how to buy Moldova eSIM, prioritize providers with premium local
-        partners like Orange Moldova, Moldcell, Moldtelecom.
-    - q: Is it safe to log into social accounts connecting to public Wi-Fi?
-      a: Public Wi‑Fi is vulnerable. Using your personal Moldova travel eSIM is encrypted and safer – a key reason to buy
-        a prepaid Moldova eSIM.
-    - q: How to share the network as a personal hotspot with travel companions?
-      a: Enable hotspot and share your unlimited data Moldova eSIM. Group travel is easier when you have the best Moldova
-        eSIM provider for hotspot.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7.  Moldova eSIM for Cross-Border Travel
-    questions:
-    - q: Do I need to buy a different SIM card for each country when traveling across multiple European countries?
-      a: For a single‑country Moldova eSIM, it works only there. For multi‑country trips, consider our regional eSIM – a smarter
-        how to buy Moldova eSIM for Europe.
-    - q: How to avoid high roaming charges when crossing borders by train?
-      a: Turn off data roaming on your home SIM and set your eSIM as primary. This is the standard advice from any Moldova
-        eSIM provider.
-    - q: How to get short‑term network when transiting in Singapore/Dubai?
-      a: Purchase a low‑cost transit eSIM. The best Moldova eSIM provider for layovers is one you can activate immediately.
-    - q: How to get economical local network for cruise shore excursions?
-      a: Activate a local eSIM for each port. For how to buy Moldova eSIM, choose plans that activate as you arrive – our
-        Moldova travel eSIM works perfectly.
-    - q: How to ensure Google Maps is online throughout cross‑border road trips?
-      a: A regional eSIM automatically switches networks. That's why our prepaid Moldova eSIM is the best Moldova eSIM provider
-        for road trippers.
-    - q: How to manage multi‑country data usage with one app?
-      a: You can track all active eSIMs via our website dashboard. Transparency makes us a trusted Moldova eSIM provider.
-    - q: How to maintain stable contact methods during multi‑country travel?
-      a: Since WhatsApp/iMessage uses data, a regional eSIM keeps you reachable on the same number – a key feature of the
-        best Moldova eSIM provider for long trips.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  Moldova eSIM for Emergencies
-    questions:
-    - q: How to dial local emergency numbers in an unfamiliar country?
-      a: In Moldova, dial 112, 901, 902, 903 from your phone. Any active line works, but having a Moldova travel eSIM ensures
-        you have data to find help.
-    - q: How to find the nearest hospital/pharmacy in case of sudden illness?
-      a: Use Google Maps with your Moldova eSIM to search 'pharmacy near me'. For how to buy Moldova eSIM, always keep a data
-        plan active for emergencies.
-    - q: How to find embassy/consulate information after losing a passport?
-      a: Browse the internet using your prepaid Moldova eSIM to locate your embassy. That's why we recommend the best Moldova
-        eSIM provider for safety.
-    - q: How to contact the travel insurance company's rescue hotline in an accident?
-      a: Use VoIP apps like Skype over your Moldova eSIM to call toll‑free numbers. Reliable data is crucial – choose a top
-        Moldova eSIM provider.
-    - q: How to share location in real‑time in unsafe areas?
-      a: Use WhatsApp Live Location or Apple's Find My over your eSIM. For how to buy Moldova eSIM, make sure your plan allows
-        background data.
-    - q: How to download offline maps/key locations before going to remote areas?
-      a: While you have city coverage, download offline maps. This proactive tip complements your Moldova travel eSIM for
-        off‑grid travel.
+    - q: |
+        For a tourist in Moldova, is Orange or Moldcell the better choice?
+      a: |
+        Orange and Moldcell cover Moldova's mobile market. Orange serves roughly 60% of mobile users with the fastest urban data speeds. Moldcell reaches more remote areas, with about 10% broader geographic coverage. Moldova is primarily 4G with coverage in major cities. With Roami, you get the best of both — automatic switching.
+    - q: |
+        Do I need a passport or ID to use eSIM in Moldova? How does the verification work?
+      a: |
+        Yes, Moldova requires identity verification for eSIM. Moldova requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Orange's network than others — check our [eSIM compatibility](/compatibility/) page.
+    - q: |
+        Can I install my Moldova eSIM at the airport, or should I do it before leaving home?
+      a: |
+        Do it before you leave. Installing needs internet — easy at home on WiFi, tricky at an airport where the WiFi often requires SMS verification. The eSIM QR code arrives by email within minutes of purchase. Scan it in your phone settings and you're ready. At Moldova's airport, just enable Data Roaming and you'll connect automatically.
+    - q: |
+        I need internet access for just a couple of days in Moldova. What's the minimum I can buy?
+      a: |
+        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
+    - q: |
+        How does eSIM compare to pocket WiFi for Moldova travel?
+      a: |
+        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip. Pocket WiFi works for groups, but you're tied to one device and need to keep it charged. With eSIM, your phone is your hotspot. Roami plans include free hotspot sharing.
+    - q: |
+        Does the Moldova eSIM work in rural areas and smaller towns?
+      a: |
+        Coverage in Moldova is strongest in cities and major tourist areas. In rural locations, the signal may be weaker and speeds may drop from 5G to 4G. Roami automatically switches to the strongest available network. For remote areas, we recommend downloading offline maps in advance.
+    - q: |
+        Is eSIM cheaper than international roaming for Moldova?
+      a: |
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Moldova costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+    - q: |
+        Can I keep my home SIM in my phone while using eSIM in Moldova?
+      a: |
+        Yes — that's one of the best things about eSIM. Your home SIM stays in slot 1 for receiving SMS (bank codes, login verifications), while the eSIM handles all data in slot 2. Just disable data roaming on your home SIM to avoid charges.
 related_products:
   title: Related eSIM Plans
   items:

@@ -375,240 +375,46 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: 'Norway eSIM Guide 2026: Data Plans & Travel Tips'
-  desc: From Oslo to Bergen, stay connected on Telenor, Telia, Ice networks. Our complete Norway eSIM guide covers coverage,
-    plans, setup, and travel tips. Find the best plan for your trip.
+  title: "Norway eSIM Guide 2026 | Plans, Coverage & Travel Tips"
+  desc: "Planning Norway travel? Our eSIM guide covers norway esim internet, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1.  General Questions About Norway eSIM
+    title: Norway eSIM FAQs
     questions:
-    - q: How does an eSIM for Norway work on my device?
-      a: An eSIM is a digital SIM that you install on your phone without a physical card. You simply scan a QR code or download
-        a profile to activate it. Once installed, you can choose a local data plan from providers like Telenor. This allows
-        you to use high-speed 5G/4G/LTE networks across the country.
-    - q: Can I keep my existing phone number with a norway esim?
-      a: Yes, you can use a data-only eSIM while keeping your physical SIM for calls and texts. Most eSIM plans for Norway
-        are data-only, so your primary number remains active. This is perfect for using apps like WhatsApp and Skype for communication.
-        You will not need to change your regular number.
-    - q: Is it expensive to buy a prepaid eSIM for Norway?
-      a: Prices are very affordable, starting as low as $1.99 for a 1GB plan valid for 3 days. For longer stays, a 20GB plan
-        for 30 days costs $21.99. These prepaid options are cheaper than most international roaming charges. You get great
-        value without any hidden fees.
-    - q: Do I need to register my eSIM with local authorities in Norway?
-      a: No, eSIM for Norway does not require any special registration with the government. The activation process is handled
-        by your eSIM provider. You simply purchase, install, and start using the service. It is a straightforward and private
-        process.
-    - q: What is the network coverage like for an esim in norway?
-      a: Coverage is excellent across Norway, including major cities, towns, and most highways. In remote areas like the fjords
-        and mountains, you may experience lower speeds. The network relies on Telenor and Telia infrastructure for reliable
-        connectivity. You can expect strong 5G/4G/LTE signals in populated areas.
-    - q: Can I use a norway e sim on multiple devices?
-      a: Generally, an eSIM is tied to a single device, such as your smartphone. However, some plans allow you to use the
-        same data by sharing a hotspot. Check your specific plan details, as some have hotspot restrictions. Most modern smartphones
-        support this feature easily.
-    - q: How do I check my data balance on my eSIM card norway?
-      a: You can check your balance through your device settings under the cellular or mobile data section. Many eSIM providers
-        also offer a companion app or a USSD code. For example, you can dial a specific number to see your remaining data.
-        This helps you avoid running out of data unexpectedly.
-    - q: Is Telenor or Telia better for Norway travel?
-      a: Both Telenor and Telia offer excellent coverage across Norway. Telenor generally has wider rural coverage, while
-        Telia offers competitive 5G speeds in cities. For most travelers visiting Oslo, Bergen, and the surrounding areas,
-        either network works well. If you plan to explore remote areas, Telenor is typically the safer choice.
-    - q: Is it safe to use a public Wi-Fi network with my eSIM?
-      a: While your eSIM data connection is secure, using public Wi-Fi still carries risks. It is safer to use your mobile
-        data for sensitive transactions like banking. Your eSIM provides an encrypted connection that is more private than
-        public networks. For daily browsing, your eSIM is the better choice.
-    - q: Can I switch between different eSIM plans during my trip?
-      a: Yes, you can store multiple eSIM profiles on your phone and switch between them. However, you can only use one data
-        line at a time. This is useful if you want a short-term plan for a weekend and a longer one later. Just change the
-        active line in your settings.
-  - id: faq-airport
-    icon: airplane
-    tab_title: Airports
-    title: 2.  Norway eSIM at Airports
-    questions:
-    - q: Can I activate my eSIM immediately after landing at Oslo Airport?
-      a: Yes, you can activate it right away. Our eSIM activates within minutes after landing. Just connect to the airport's
-        free Wi-Fi for the initial setup. This ensures you have data as soon as you arrive at Gardermoen.
-    - q: Do I need to visit a store at the airport to buy an eSIM?
-      a: No, you do not need to visit any store. You can purchase and install an eSIM for Norway online before your flight.
-        This saves you time and avoids queues at the airport. It is the most convenient option for travelers.
-    - q: Will my eSIM work at Bergen Airport for public transport apps?
-      a: Yes, your eSIM will work perfectly at Bergen Airport. You can use it to access apps for the Flybussen or light rail
-        immediately. This allows you to plan your onward journey without delays. The connection is fast and reliable.
-    - q: What is the best data plan for a short layover in Norway?
-      a: For a short layover, a 1GB plan valid for 3 days at $1.99 is ideal. This gives you enough data for maps, messaging,
-        and light browsing. If you need more, a 3GB plan for 3 days is available for $3.99. These are perfect for quick trips.
-    - q: Are there any activation fees for an eSIM at Norwegian airports?
-      a: No, there are no activation fees or hidden charges. The price you see, like $6.99 for a 5GB plan, is all you pay.
-        The eSIM profile is delivered digitally with no extra costs. This makes it a very transparent service.
-  - id: faq-transport
-    icon: train
-    tab_title: Transport
-    title: 3.  Norway eSIM for Transport
-    questions:
-    - q: Can I use Norway eSIM for ride-hailing and maps?
-      a: Absolutely. Norway eSIM works with ride-hailing apps and navigation. A 5GB/15 days plan ($4.99) covers daily navigation
-        and ride-booking during a typical trip. The 4G/5G connection ensures reliable real-time tracking and route updates.
-    - q: Does my eSIM work on the Norway in a Nutshell tour?
-      a: Absolutely, your eSIM will work throughout the entire Norway in a Nutshell tour. This includes the Flam Railway,
-        fjord cruises, and bus segments. You can stream guides or check schedules without interruption. The coverage is excellent
-        along these popular routes.
-    - q: Will I have data on the Oslo Metro and trams?
-      a: Yes, the eSIM provides full coverage in the Oslo Metro system and on trams. You can use Google Maps for navigation
-        or listen to music. The network is strong underground and above ground. This makes city travel very convenient.
-    - q: Can I use my eSIM for a rental car GPS?
-      a: Yes, you can use your eSIM to power Google Maps or Waze for driving. This is much cheaper than renting a GPS device
-        from the rental company. A 10GB plan for $12.99 gives you plenty of data for navigation. It covers your entire trip
-        without worry.
-    - q: What is the best plan for a ferry trip along the coast?
-      a: For a ferry trip, a plan with at least 5GB is recommended to share photos and stay connected. The 5GB plan for 7
-        days at $7.99 is a great choice. It ensures you have data for the entire journey along the Hurtigruten route. You
-        can enjoy the scenery while staying online.
-  - id: faq-hotels
-    icon: building
-    tab_title: Hotels
-    title: 4.  Norway eSIM for Hotels
-    questions:
-    - q: Can I use my eSIM instead of hotel Wi-Fi in Norway?
-      a: Yes, your eSIM provides a more secure and often faster connection than hotel Wi-Fi. Hotel networks can be slow or
-        require logins that compromise privacy. With your eSIM, you have a private, encrypted connection. It is ideal for
-        sensitive tasks like online banking.
-    - q: Will my eSIM work in remote cabins or mountain lodges?
-      a: Coverage in remote cabins can be limited, but many lodges have signal from Telenor. An eSIM will work wherever a
-        local network is available, so check coverage maps. For most tourist cabins near popular hiking trails, you will get
-        decent data. It is still your best option for connectivity.
-    - q: Do I need a large data plan for streaming movies at my hotel?
-      a: If you plan to stream movies, an unlimited plan is your best choice. For example, the 7-day unlimited plan at $22.99
-        removes any data anxiety. This allows you to stream HD content without worrying about caps. Standard plans with 20GB
-        are also sufficient for moderate streaming.
-    - q: Can I share my eSIM data connection with my family in a hotel room?
-      a: Yes, you can turn on your phone's personal hotspot to share data. This works well if your plan allows tethering.
-        A 20GB plan for 15 days at $21.99 can be shared among multiple devices. It is a cost-effective way to keep everyone
-        connected.
-    - q: How do I install an eSIM before checking into my hotel?
-      a: You should install the eSIM before you leave for your trip or upon arrival at the airport. Most providers send a
-        QR code via email that you scan to install. Once installed, it activates when you reach Norway. This ensures you have
-        data as soon as you enter your hotel.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5.  Norway eSIM for Attractions
-    questions:
-    - q: Can I use my eSIM to book tickets for the Viking Ship Museum?
-      a: Yes, you can use your eSIM data to book tickets online for the Viking Ship Museum. This helps you skip long queues
-        at the entrance. The data speed is fast enough to complete the booking in seconds. It is a great way to plan your
-        visit efficiently.
-    - q: Will my eSIM work at the Geirangerfjord viewpoint?
-      a: Yes, the eSIM works at the Geirangerfjord viewpoint, though speeds may vary. You can use it to upload photos or check
-        information about the fjord. The connection is generally reliable for social media and browsing. It allows you to
-        share your experience in real time.
-    - q: What data plan do I need for the Lofoten Islands?
-      a: For the Lofoten Islands, a 10GB plan is recommended for navigation and photos. The 10GB plan for 15 days at $13.99
-        is a good balance of price and data. Coverage in Lofoten is good in towns but can be spotty in remote areas. This
-        plan ensures you have enough data for the whole trip.
-    - q: Can I stream a guided tour app at the Vigeland Sculpture Park?
-      a: Yes, you can stream audio guides or use AR apps at the Vigeland Sculpture Park. A 5GB plan for $7.99 will easily
-        handle this usage. The data speed supports smooth streaming without buffering. It enhances your experience with detailed
-        information about the art.
-    - q: Does my eSIM work inside the Oslo Opera House?
-      a: Yes, the eSIM works inside the Oslo Opera House for browsing and social media. You can check schedules or take virtual
-        tours without issues. The indoor coverage is strong due to local network infrastructure. It is perfect for staying
-        connected while enjoying the architecture.
-  - id: faq-social
-    icon: message-circle
-    tab_title: Social & Messaging
-    title: 6.  Norway eSIM for Social Media
-    questions:
-    - q: Can I use Instagram and TikTok with a norway esim?
-      a: Yes, you can use Instagram, TikTok, and all social media apps without restrictions. The eSIM provides high-speed
-        data for uploading photos and videos. A 5GB plan is perfect for heavy social media users during a short trip. You
-        can share your Norway adventures instantly.
-    - q: How much data do I need for Norway?
-      a: Light users (maps + messaging) ~300MB/day, moderate (social + photos) ~700MB/day, heavy (streaming + video calls)
-        choose Unlimited. Most visitors find 5GB/15 days ($4.99) comfortable for a standard trip to Norway.
-    - q: Can I use my eSIM for live streaming on Facebook or YouTube?
-      a: Yes, you can live stream with an eSIM, but an unlimited plan is best for this use. The unlimited 7-day plan at $22.99
-        removes data caps for streaming. This ensures you can go live without worrying about exceeding your limit. It is ideal
-        for content creators.
-    - q: How much data does social media browsing consume?
-      a: Browsing social media like Facebook and Reddit uses about 150-200MB per hour. A 1GB plan for $2.99 can last for 5-7
-        hours of light browsing. For heavier use, a 10GB plan is more suitable. This helps you choose the right plan for your
-        habits.
-    - q: Is there any throttling on social media apps with the eSIM?
-      a: No, there is no throttling or speed capping for specific apps. All data is treated equally, giving you full access
-        to social media. You will enjoy the same high speeds for Instagram as for any other service. This ensures a consistent
-        user experience.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7.  Norway eSIM for Cross-Border Travel
-    questions:
-    - q: Will my norway esim work in Sweden or Finland?
-      a: Most eSIM plans for Norway are limited to the Norwegian network. Check your plan details before traveling to Sweden
-        or Finland. Some regional plans may offer coverage across Scandinavia. It is better to purchase a separate eSIM for
-        other countries.
-    - q: Can I use my eSIM on a cruise that visits multiple Nordic countries?
-      a: If your cruise visits other countries, your Norway eSIM will typically stop working. You will need a plan with European
-        coverage for seamless connectivity. It is advisable to buy a Europe-wide eSIM for multi-country cruises. This avoids
-        losing data when you leave Norwegian waters.
-    - q: What happens to my data if I fly from Oslo to Copenhagen?
-      a: Once you leave Norway, your data service will stop. You will need to activate a new eSIM for Denmark or Europe. This
-        is easy to do online before you depart. It ensures you have data immediately upon arrival in Copenhagen.
-    - q: Is there a plan that covers both Norway and Sweden?
-      a: Yes, some providers offer eSIM plans that cover multiple European countries, including Norway and Sweden. These plans
-        are slightly more expensive but provide convenience. For example, a regional plan might cost more than a single-country
-        plan. It saves you the hassle of switching.
-    - q: Do I need to inform my provider if I travel to Svalbard?
-      a: Yes, Svalbard is not covered by standard Norwegian eSIM plans due to its unique location. You may need a special
-        satellite plan or local coverage. Always check with your provider before traveling to Svalbard. Standard data will
-        not work there.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  Norway eSIM for Emergencies
-    questions:
-    - q: Can I dial emergency numbers with an eSIM in Norway?
-      a: Yes, you can always dial 112 for emergencies, even without a data plan. This is a standard feature on all phones,
-        regardless of SIM type. Your eSIM does not interfere with emergency call capabilities. It is a reliable way to get
-        help if needed.
-    - q: Can I use WhatsApp and FaceTime with Norway eSIM?
-      a: Yes! Norway eSIM supports WhatsApp audio/video calls, FaceTime, WeChat voice, and Zoom without any blocks. You can
-        stay in touch with family using your preferred messaging apps throughout your trip.
-    - q: How can I save battery on my eSIM during an emergency?
-      a: To save battery, switch to low power mode and reduce screen brightness. You can also disable background data for
-        non-essential apps. This can extend your phone's life significantly. It is crucial if you need to wait for rescue.
-    - q: Can I use my eSIM to send my GPS location to emergency contacts?
-      a: Yes, you can use apps like Google Maps to share your real-time location. This works as long as you have a data connection.
-        Sharing your location can be very helpful in an emergency. It allows others to find you quickly.
-    - q: What should I do if my eSIM fails in an emergency?
-      a: If your eSIM fails, try restarting your phone or re-installing the profile. If that doesn't work, use any available
-        Wi-Fi to contact help. You can also use a public phone in major cities. Always have a backup plan for remote areas.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  Norway eSIM for Business Travelers
-    questions:
-    - q: Can I use a norway esim for business conferences in Oslo?
-      a: Yes, an eSIM is perfect for business conferences. You can use it for email, video calls, and accessing cloud documents.
-        The high-speed 5G network in Oslo ensures smooth connectivity. A 5GB plan for $7.99 is enough for a short conference.
-    - q: Is the eSIM data secure for corporate email and VPNs?
-      a: Yes, the eSIM connection is secure and supports VPN usage. You can safely access corporate networks and sensitive
-        data. It is more secure than public Wi-Fi often found in hotels and cafes. This makes it ideal for business travelers.
-    - q: What is the best plan for a week-long business trip?
-      a: For a week-long trip, a 20GB plan for 7 days at $20.99 is excellent. This allows for heavy usage, including large
-        file downloads and video conferences. If you need less, the 10GB plan at $12.99 is also great. Both offer great value
-        for business needs.
-    - q: Can I use my eSIM for a business presentation at a client's office?
-      a: Yes, you can use your eSIM to tether your laptop or tablet for presentations. This ensures you have a backup internet
-        connection for video demos. It is more reliable than depending on the client's Wi-Fi. This gives you professional
-        flexibility.
-    - q: How do I get a receipt for my eSIM purchase for expense reports?
-      a: Most eSIM providers send a receipt to your email immediately after purchase. You can download this as a PDF for your
-        expense report. The receipt includes the price, such as $39.99 for a 50GB plan. This makes it easy to claim business
-        expenses.
+    - q: |
+        What are the cheapest eSIM options for a trip to Norway?
+      a: |
+        Roami Norway eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Thanks to Telenor's 5G network, streaming and video calls work great. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
+    - q: |
+        How does Roami compare to Airalo for eSIM in Norway?
+      a: |
+        Roami typically offers better value for Norway eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+    - q: |
+        Is it safe to upload my passport for Norway eSIM registration? I'm concerned about privacy.
+      a: |
+        Norway requires identity verification by law. Norway requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Norway.
+    - q: |
+        Can I keep my home SIM in my phone while using eSIM in Norway?
+      a: |
+        Yes — that's one of the best things about eSIM. Your home SIM stays in slot 1 for receiving SMS (bank codes, login verifications), while the eSIM handles all data in slot 2. Just disable data roaming on your home SIM to avoid charges.
+    - q: |
+        I'm arriving in Norway late at night. Will I be able to get online immediately?
+      a: |
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Telenor automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
+    - q: |
+        How many eSIM profiles can I store on my phone for traveling to Norway?
+      a: |
+        Most phones store 5-10 eSIM profiles. You can keep your Norway eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes seconds.
+    - q: |
+        How much data does a typical traveler actually use per day in Norway?
+      a: |
+        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+    - q: |
+        How far in advance should I buy my Norway eSIM?
+      a: |
+        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Norway, so buying early doesn't waste your plan days.
 related_products:
   title: Related Norway eSIM Plans
   items:

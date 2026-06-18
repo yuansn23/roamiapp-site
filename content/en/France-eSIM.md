@@ -383,175 +383,46 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: 'France eSIM Guide 2026: Plans, Coverage & Tips'
-  desc: From Paris to Marseille, stay connected on Orange, SFR, Bouygues Telecom networks. Our complete France eSIM guide
-    covers coverage, plans, setup, and travel tips. Find the best plan for your trip.
+  title: "Best France eSIM 2026 | Coverage, Cost & Installation Tips"
+  desc: "Planning France travel? Our eSIM guide covers lycamobile france esim, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1. Choosing a France eSIM Plan
+    title: France eSIM FAQs
     questions:
-    - q: Which eSIM works best for traveling in France?
-      a: The ideal eSIM for France depends on your trip length and usage. For a weekend in Paris, a 1GB or 3GB plan covers
-        maps, messaging, and social media. For a week-long road trip through Provence or the Alps, 5GB or 10GB is safer. If
-        you stream video or work remotely, choose an unlimited data plan. Our eSIM connects to Orange and Bouygues, which
-        provide excellent coverage from city centers to rural villages.
-    - q: Can I get a prepaid eSIM for France without a French address?
-      a: Yes. Our prepaid eSIM for France is designed for tourists. You buy online, receive a QR code by email, and install
-        it before departure. No registration, no ID check, no French address. The plan activates automatically when your phone
-        first connects to a French network after landing.
-    - q: What’s the difference between your France eSIM and buying a local Orange SIM?
-      a: A local Orange SIM requires visiting a store in person, showing ID, and waiting for activation. Our eSIM is fully
-        remote – you buy it from anywhere, install in minutes, and it works immediately upon arrival. Plus, our plans are
-        often cheaper than Orange’s tourist offerings while using the same network infrastructure.
-    - q: Do you offer an unlimited data eSIM for France?
-      a: 'Yes. Our unlimited data plan gives you full-speed data for most activities. A fair usage policy applies: after 30GB
-        in a single day, speeds reduce to 512kbps until midnight (local time). That’s still usable for maps, email, and WhatsApp.
-        The plan also supports personal hotspot – something many unlimited plans restrict.'
-    - q: Is Orange or SFR better for France travel?
-      a: Both Orange and SFR offer excellent coverage across France. Orange generally has wider rural coverage, while SFR
-        offers competitive 5G speeds in cities. For most travelers visiting Paris, Marseille, and the surrounding areas, either
-        network works well. If you plan to explore remote areas, Orange is typically the safer choice.
-    - q: Can I buy an eSIM for France online and install it before my trip?
-      a: Absolutely. That’s the main advantage of eSIM. Purchase on our website, and we’ll email a QR code. Scan it with your
-        phone’s camera, follow the setup prompts, and label the plan 'France'. The plan only starts counting days once you
-        arrive in France and connect to a local network. You can install weeks ahead.
-    - q: What’s the difference between France eSIM and a pocket Wi-Fi device?
-      a: Pocket Wi-Fi means carrying an extra device, charging it daily, and returning it after the trip. Our eSIM lives inside
-        your phone – nothing extra to carry. It also costs less, usually $1-2 per day compared to $5-10 for pocket Wi-Fi.
-        Plus, you get 5G speeds where available, while pocket Wi-Fi often uses slower shared bandwidth.
-  - id: faq-airport
-    icon: plane
-    tab_title: Airports
-    title: 2.  France eSIM at Airports
-    questions:
-    - q: Can I activate my France eSIM at the airport?
-      a: Yes, you can activate your France eSIM as soon as you land using the airport's free Wi-Fi. Just scan your QR code
-        from email and you'll be connected in under 2 minutes. We recommend installing the eSIM before departure so you're
-        connected the moment you arrive.
-    - q: Are there SIM card shops at French airports? Should I use them?
-      a: Yes, you’ll find vending machines and kiosks for Orange, Free, and others at arrivals. But they often charge €30-40
-        for a few gigabytes, and you’ll waste time queuing. Buying an eSIM online before you travel is cheaper, faster, and
-        you start using it the moment you step off the plane.
-    - q: What if my eSIM doesn’t connect immediately at the airport?
-      a: First, check that your eSIM line is enabled and set as the primary data line. If still no signal, go to Settings
-        > Cellular > Network Selection, turn off Automatic, and manually pick Orange or Bouygues. Both have strong coverage
-        at all major French airports. If issues persist, our support team is available 24/7 via live chat.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3. Getting Around with Your France eSIM
-    questions:
-    - q: Can I use France eSIM for ride-hailing and maps?
-      a: Absolutely. France eSIM works with ride-hailing apps and navigation. A 5GB/15 days plan ($4.99) covers daily navigation
-        and ride-booking during a typical trip. The 4G/5G connection ensures reliable real-time tracking and route updates.
-    - q: Does Uber or Bolt work with a data-only eSIM in France?
-      a: Absolutely. Ride-hailing apps only need an internet connection – you don’t need a French phone number. The driver
-        can message you through the app. This works everywhere from Paris to Marseille. For taxis, use the G7 app, which also
-        works over data.
-    - q: Can I buy SNCF train tickets online using my eSIM?
-      a: Yes. The SNCF Connect app works over cellular data. You can browse TGV, TER, and Ouigo schedules, book tickets, and
-        display QR codes at the gate. The app also saves tickets offline, so you don’t need signal at the station scanner.
-    - q: Is there good eSIM coverage for road trips through Provence or the Alps?
-      a: Orange and Bouygues cover most highways, towns, and ski resorts like Chamonix and Val d’Isère. In deep valleys or
-        remote mountain passes, you may lose signal for short stretches – that’s normal for any carrier. Download offline
-        maps ahead of time. For the French Riviera (Nice, Cannes, Monaco), coverage is excellent throughout.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4. Using eSIM for Accommodation
-    questions:
-    - q: How do I check into a hotel or Airbnb without Wi-Fi?
-      a: Use your eSIM data to open your reservation email or the hotel’s app. Many hotels now send digital keys or door codes.
-        If you booked through Booking.com, Expedia, or Airbnb, their apps work fine over cellular. For self-check-in apartments,
-        you’ll have the access code ready at the door.
-    - q: Is hotel Wi-Fi in France reliable? Should I use it instead of my eSIM?
-      a: Hotel Wi-Fi in France varies widely. Budget hotels may have slow or spotty connections; luxury hotels are often better.
-        However, public Wi-Fi is less secure than cellular. For anything involving passwords or payments, use your eSIM. For
-        large downloads or backups, hotel Wi-Fi is fine – but keep your eSIM as your primary connection.
-    - q: Can I order food delivery (Deliveroo, Uber Eats) to my hotel?
-      a: Yes. Both apps work with your eSIM data. Browse restaurants, order, and track the delivery. Put your hotel name and
-        room number. The driver can message you through the app if they have trouble finding the entrance.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5. Visiting Museums & Monuments
-    questions:
-    - q: Will I have coverage at Eiffel Tower in France?
-      a: Major attractions like Eiffel Tower typically have good 4G/5G coverage in France. However, remote areas may have
-        limited signal. Download offline maps before visiting out-of-the-way destinations. A 5GB plan provides comfortable
-        data for photos, maps, and social media throughout your trip.
-    - q: Do I need Wi-Fi for the Paris Museum Pass app?
-      a: The Paris Museum Pass app works best with a live internet connection to load your pass and show QR codes. Your eSIM
-        provides that connection at every participating museum – the Louvre, Musée d’Orsay, Centre Pompidou, and others. No
-        need to rely on the museum’s often overloaded Wi-Fi.
-    - q: How can I get audio guides without downloading over hotel Wi-Fi?
-      a: Many historical sites (Versailles, Mont Saint-Michel, Carcassonne) offer audio guides via a web page or app that
-        streams over data. With your eSIM, you can start the guide on arrival. If you prefer to save data, download the content
-        on hotel Wi-Fi in advance – but our unlimited plan makes streaming effortless.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social & Messaging
-    title: 6. Staying in Touch with Friends & Family
-    questions:
-    - q: Will WhatsApp work with a data-only France eSIM?
-      a: Yes. WhatsApp uses your home phone number and only requires an internet connection. All chats, voice calls, and video
-        calls work exactly like at home. A voice call uses about 0.5MB per minute; a video call uses about 5MB per minute.
-        You don’t need a French SIM card.
-    - q: How much data do I need for France?
-      a: Light users (maps + messaging) ~300MB/day, moderate (social + photos) ~700MB/day, heavy (streaming + video calls)
-        choose Unlimited. Most visitors find 5GB/15 days ($4.99) comfortable for a standard trip to France.
-    - q: Is FaceTime reliable on French cellular networks?
-      a: Very reliable. Our eSIM routes traffic locally within Europe, so latency is low. You’ll have clear HD FaceTime calls
-        even from crowded areas like the Champs-Élysées or near the Eiffel Tower. Some other eSIM providers route through
-        distant servers, causing lag – we prioritize local connections for the best experience.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7. Traveling Beyond France
-    questions:
-    - q: Does my France eSIM work in other European countries?
-      a: No, this is a single-country plan that only activates in France. If you’re visiting Italy, Spain, Germany, Switzerland,
-        or the UK, you’ll need a separate eSIM for each country or our Europe regional eSIM (covers 30+ countries). For a
-        trip that includes both France and neighboring countries, a regional plan is usually cheaper and more convenient.
-    - q: What about Monaco and Andorra?
-      a: Monaco is covered by the same French networks – your France eSIM will work there without any extra cost. Andorra
-        is not covered; you’d need a separate Andorra eSIM or a Europe plan that includes it. For a day trip to Monaco, no
-        problem.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  France eSIM for Emergencies
-    questions:
-    - q: Can I use WhatsApp and FaceTime with France eSIM?
-      a: Yes! France eSIM supports WhatsApp audio/video calls, FaceTime, WeChat voice, and Zoom without any blocks. You can
-        stay in touch with family using your preferred messaging apps throughout your trip.
-    - q: How to find the nearest hospital or my country’s embassy?
-      a: Open Google Maps – your eSIM data gives you real-time results. Search 'hôpital' or 'ambassade [your country]' to
-        get addresses, phone numbers, and directions. Save your embassy’s contact information offline before your trip. You
-        can also call using Skype or Google Voice over your eSIM data.
-    - q: Can I share my live location with family during a transportation strike?
-      a: Yes. Use WhatsApp’s 'Share Live Location' or Apple’s 'Find My' feature over your eSIM data. This is useful if you’re
-        caught in a transit strike (common in France) or want to reassure loved ones. Share for 15 minutes to 8 hours. Turn
-        off sharing when you’re safe.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9. Working Remotely from France
-    questions:
-    - q: Is the eSIM fast enough for Zoom calls from a café?
-      a: Yes. Orange and Bouygues 4G/5G networks provide low latency (under 50ms) and 10-30 Mbps speeds – sufficient for HD
-        Zoom or Microsoft Teams. For best stability, join the call directly on your phone rather than hotspot. If you work
-        remotely for several weeks, our unlimited plan is the most cost-effective choice.
-    - q: Can I connect to my company VPN using this eSIM?
-      a: Absolutely. We do not block any VPN protocols. Cisco AnyConnect, OpenVPN, FortiClient, and others all work normally.
-        Cellular data is more secure than café or hotel Wi-Fi because there’s no risk of a man-in-the-middle attack. Just
-        make sure your VPN app is up to date.
-    - q: What’s the best France eSIM for a one-month workation?
-      a: For 30 days of work – including video calls, large file uploads, and hotspot for your laptop – our unlimited data
-        plan at $70.99 is ideal. If you only need email, Slack, and occasional browsing, the 10GB plan ($14.99) is sufficient.
-        Both support tethering and have no speed throttling until the fair usage limit.
+    - q: |
+        Can I get an eSIM for France without spending too much?
+      a: |
+        Absolutely. Roami's France eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+    - q: |
+        Do I need a passport or ID to use eSIM in France? How does the verification work?
+      a: |
+        Yes, France requires identity verification for eSIM. France requires KYC verification for prepaid SIM cards. Passport or ID card required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Orange's network than others — check our [eSIM compatibility](/compatibility/) page.
+    - q: |
+        How do Orange, SFR, and Free compare for a tourist visiting France?
+      a: |
+        In France, Orange leads with the fastest urban 5G speeds (up to 1 Gbps in tests). SFR covers about 85% of the country including most rural areas. Free is the budget option, often bundling data at lower per-GB rates. Tourists visiting cities get excellent service from all three. France uses 5G on n78 band. 4G primarily on Band 20. Roami picks the best one automatically as you move around.
+    - q: |
+        How does Roami compare to Nomad for eSIM in France?
+      a: |
+        Roami typically offers better value for France eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Nomad. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+    - q: |
+        Will my France eSIM work as soon as I land, or is there an activation delay?
+      a: |
+        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Orange. No queues, no paperwork — you're online before you reach baggage claim.
+    - q: |
+        Is eSIM cheaper than international roaming for France?
+      a: |
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for France costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+    - q: |
+        How many eSIM profiles can I store on my phone for traveling to France?
+      a: |
+        Most phones store 5-10 eSIM profiles. You can keep your France eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes seconds.
+    - q: |
+        What happens if I use all my data in France before my plan expires?
+      a: |
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
 related_products:
   title: Related France eSIM Plans
   items:

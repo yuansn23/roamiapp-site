@@ -326,260 +326,46 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: 'China eSIM Guide 2026: Data Plans & Travel Tips'
-  desc: From Beijing to Shanghai, stay connected on China Mobile, China Unicom, China Telecom networks. Our complete China
-    eSIM guide covers coverage, plans, setup, and travel tips. Find the best plan for your trip.
+  title: "China eSIM for Travelers | Pricing & How to Stay Connected"
+  desc: "Planning China travel? Our eSIM guide covers mobimatter china esim, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1.  General Questions About China eSIM
+    title: China eSIM FAQs
     questions:
-    - q: Can foreign travelers use an eSIM in mainland China?
-      a: Yes. International eSIMs roam on China Unicom, giving you 4G/5G access. Unlike local Chinese SIM cards, an international
-        eSIM routes your traffic outside China, so you can use Google Maps, WhatsApp, Instagram, YouTube, and Facebook without
-        needing a VPN. Plans start at just $1.99 for 1GB/3 days, making it very affordable for short trips.
-    - q: Which iPhones support eSIM for China travel?
-      a: Any iPhone XS, XR, or newer sold outside mainland China (e.g., US, Europe, Hong Kong, Japan) supports eSIM. However,
-        iPhones sold in mainland China (except the iPhone 14 and 15 series) lack eSIM hardware. iPhone 14 and 15 sold in the
-        US are eSIM-only (no physical SIM slot), making eSIM the only option. Hong Kong iPhones have both physical SIM and
-        eSIM. Our plans work on all these models.
-    - q: Does my China eSIM work in Hong Kong and Macau?
-      a: Our single-country China eSIM works only in mainland China. For Hong Kong or Macau, you need a separate eSIM or a
-        regional plan covering Greater China (China + Hong Kong + Macau). A 3‑day 1GB plan for Hong Kong is just $1.99, so
-        adding coverage is inexpensive.
-    - q: What is the difference between a China eSIM and a local Chinese SIM card?
-      a: A local Chinese SIM card (e.g., from China Unicom or China Mobile) requires in-person registration with your passport
-        and does not bypass the Great Firewall – you would need a separate VPN to access Google, WhatsApp, etc. An international
-        eSIM works immediately upon landing, gives you unrestricted internet, and can be purchased online. For a 7‑day trip,
-        our 3GB plan is $4.99 – often cheaper and far more convenient.
-    - q: Do I need a VPN if I use an international eSIM in China?
-      a: No. Because your eSIM connects to China Unicom via an international roaming agreement, your data traffic is routed
-        outside mainland China. This means you can access all blocked websites and apps directly, without any VPN. This is
-        the main reason travelers choose an international eSIM over a local SIM – and with 5GB/7 days at $6.99, it’s a budget‑friendly
-        solution.
-    - q: Can I get a China eSIM with a local phone number?
-      a: International eSIMs for China are data-only. You will not receive a Chinese phone number. For calls, you can use
-        WhatsApp, FaceTime, WeChat, or Skype over data. If you need a local number for certain services (e.g., Didi taxi),
-        you can use your home number or register with a friend’s number. Most travelers do not need a Chinese number.
-    - q: How do I install my China eSIM before traveling?
-      a: 'After purchase, we email a QR code. On iPhone: Settings > Cellular > Add eSIM, scan the code. On Android: Settings
-        > Network & Internet > SIMs > Add eSIM. Label the plan ''China''. The plan activates only when you arrive in mainland
-        China and connect to China Unicom. You can install it weeks in advance. Plans are available for 3, 7, 15, or 30 days
-        – for example, 10GB/15 days costs $10.99.'
-    - q: What devices work with eSIM in China besides iPhones?
-      a: 'Most modern Android phones support eSIM: Google Pixel 3a and newer, Samsung Galaxy S20/Note20 and newer (excluding
-        some Latin American/Chinese models), as well as recent Huawei, Xiaomi, Oppo, and Motorola devices that have eSIM firmware.
-        Check your phone’s compatibility before buying. iPads with cellular also support eSIM. Our 30‑day 20GB plan at $25.99
-        is popular for tablet users.'
-  - id: faq-airport
-    icon: plane
-    tab_title: Airports
-    title: 2.  China eSIM at Airports
-    questions:
-    - q: How do I activate my China eSIM after landing at Beijing Capital (PEK) or Shanghai Pudong (PVG)?
-      a: Install the eSIM at home before departure. When you land at PEK, PVG, Guangzhou (CAN), or Hong Kong (HKG), turn off
-        Airplane Mode and set your eSIM as the data line. It will connect to China Unicom (in mainland) or a local HK network
-        within 30–60 seconds. No airport Wi-Fi needed. You can immediately open Google Maps or WhatsApp. Even a $1.99 1GB/3‑day
-        plan gives you enough data for all airport tasks.
-    - q: Can I activate my China eSIM at the airport?
-      a: Yes, you can activate your China eSIM as soon as you land using the airport's free Wi-Fi. Just scan your QR code
-        from email and you'll be connected in under 2 minutes. We recommend installing the eSIM before departure so you're
-        connected the moment you arrive.
-    - q: What if my eSIM doesn’t connect in mainland China?
-      a: First, ensure your eSIM line is enabled and set as primary data. Go to Settings > Cellular > Network Selection, turn
-        off Automatic, and manually select China Unicom. If still no signal, toggle Airplane Mode on/off. Our 24/7 support
-        can assist via airport Wi-Fi if needed. All plans come with support included – no extra cost.
-    - q: Can I use the same eSIM on the train from Hong Kong to mainland China?
-      a: When crossing the border, your eSIM will lose connection for a few seconds. In Hong Kong, it connects to local HK
-        networks; after entering mainland, it should automatically switch to China Unicom. If it doesn’t, toggle Airplane
-        Mode. For frequent cross-border travel, a regional China+HK eSIM is more seamless. However, separate plans for each
-        region are very affordable – e.g., 1GB/3 days for Hong Kong is $1.99.
-    - q: Does my eSIM work on layovers in Hong Kong before going to mainland?
-      a: If you have a separate Hong Kong eSIM, activate it during the layover. If you only have a China mainland eSIM, it
-        will not work in Hong Kong because the network is different. We recommend buying a 1–3 day Hong Kong eSIM for the
-        layover – 1GB/3 days at $1.99 is ideal – then switching to your China eSIM when you fly to the mainland.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3. Navigation & Ride-Hailing in China and Hong Kong
-    questions:
-    - q: Can I use Google Maps in China with an international eSIM?
-      a: Yes. Because your eSIM routes traffic outside China, Google Maps works for driving, walking, and transit directions.
-        However, local points of interest data may be less detailed. Apple Maps also works well in China. Navigation uses
-        very little data – roughly 5-10MB per hour. A 3GB/15‑day plan at $5.99 would cover over 300 hours of driving.
-    - q: Does Uber work in China or Hong Kong?
-      a: Uber does not operate in mainland China. Use Didi (DiDi Chuxing) – the app has an English interface and works over
-        your eSIM data. In Hong Kong, Uber works, as do local taxi apps like HK Taxi. No local phone number required. A 1GB/3‑day
-        plan ($1.99) is enough for dozens of ride-hailing sessions.
-    - q: How do I buy high-speed train tickets (China Railway) using my eSIM?
-      a: Use the Trip.com app (English interface, accepts foreign cards) or the official 12306 app. Both work over eSIM data.
-        You can browse schedules, book, and display QR code tickets at the station. Data usage per booking is under 2MB –
-        even the smallest plan ($1.99 for 1GB) handles hundreds of bookings.
-    - q: Can I use China eSIM for ride-hailing and maps?
-      a: Absolutely. China eSIM works with ride-hailing apps and navigation. A 5GB/15 days plan ($4.99) covers daily navigation
-        and ride-booking during a typical trip. The 4G/5G connection ensures reliable real-time tracking and route updates.
-    - q: Can I use my eSIM for real-time ferry schedules between Hong Kong and Macau?
-      a: Yes. Ferry operators like TurboJET have apps and mobile websites. Your eSIM data lets you check schedules, book tickets,
-        and display boarding passes. For Macau, you’ll need a separate Macau eSIM or regional plan if you stay longer than
-        a few hours. A 3GB/7‑day China plan ($4.99) will cover your Hong Kong connectivity easily.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4. Accommodation & Local Services
-    questions:
-    - q: How do I check into a Chinese hotel or Airbnb without Wi-Fi?
-      a: Use your eSIM data to open your booking confirmation (Trip.com, Booking.com, Airbnb). Hotels in China require passport
-        registration at check-in – you can show the electronic reservation on your phone. Data usage for opening emails and
-        apps is negligible – a 1GB plan ($1.99) is more than enough for a whole trip’s check-in needs.
-    - q: Is hotel Wi-Fi in China accessible? Should I use my eSIM instead?
-      a: Hotel Wi-Fi in China is behind the Great Firewall, meaning many foreign websites and apps (Google, WhatsApp, Instagram)
-        are blocked unless you use a VPN. Your eSIM bypasses this completely. For banking, social media, and messaging, use
-        your eSIM data. Hotel Wi-Fi can be used for large downloads if you don’t mind the restrictions. A 5GB/7‑day plan ($6.99)
-        is a small price for uninterrupted access.
-    - q: Can I order food delivery (Meituan, Ele.me) to my hotel in China?
-      a: Yes. Meituan and Ele.me are the main delivery apps. They work over your eSIM data, but interfaces are in Chinese.
-        Alternatively, use Deliveroo in Hong Kong. For Chinese apps, having Google Translate (accessible via your eSIM) helps.
-        Each order uses <5MB – a 3GB plan ($4.99) covers hundreds of orders.
-    - q: How do I find restaurant recommendations in China without using local apps?
-      a: Use TripAdvisor or Google Maps reviews (both work over your eSIM). For authentic local reviews, Dianping (Chinese)
-        is popular but requires some language skills. In Hong Kong, OpenRice is a good option. Data usage for searching and
-        reading reviews is minimal – a 1GB/3‑day plan ($1.99) is sufficient for a week of dining research.
-    - q: Can I use my eSIM to book a last-minute hotel change if plans shift?
-      a: Absolutely. Open Trip.com, Booking.com, or Agoda – all work over your eSIM. Compare prices, read reviews, and book
-        instantly. Data usage per booking is under 5MB. Even a small plan like 1GB/3 days ($1.99) allows for many changes.
-        For longer trips, 10GB/15 days ($10.99) gives peace of mind.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5. Tickets for Great Wall, Forbidden City & Hong Kong Disneyland
-    questions:
-    - q: Will I have coverage at Great Wall in China?
-      a: Major attractions like Great Wall typically have good 4G/5G coverage in China. However, remote areas may have limited
-        signal. Download offline maps before visiting out-of-the-way destinations. A 5GB plan provides comfortable data for
-        photos, maps, and social media throughout your trip.
-    - q: How do I get audio guides at the Terracotta Army or Summer Palace without Wi-Fi?
-      a: Many attractions offer audio guides through apps that stream over data. With your eSIM, you can download the guide
-        on arrival. A 30‑minute audio guide uses about 50MB. A 5GB/7‑day plan ($6.99) would let you enjoy 100 audio guides
-        – more than enough for any trip. Alternatively, use offline audio tour apps downloaded on hotel Wi-Fi.
-    - q: Do I need data to book a Victoria Harbour cruise or Hong Kong Disneyland tickets?
-      a: Most tour operators have mobile websites. With your eSIM, you can compare prices, check availability, and book instantly.
-        Hong Kong Disneyland tickets can be purchased on their app – works over data. For same‑day bookings, having on‑the‑go
-        data is essential. A 10GB/30‑day plan ($15.99) covers a full week of attraction bookings and browsing.
-    - q: Can I use my eSIM to buy skip‑the‑line tickets for the Shanghai Tower or Canton Tower?
-      a: Yes. Official ticketing websites work over data. Purchase timed tickets while waiting in the general queue – the
-        QR code is scanned from your phone. This saves time at popular observation decks. Data usage is minimal – a 1GB/3‑day
-        plan ($1.99) handles dozens of transactions.
-    - q: How do I find free walking tours or local guides in Shanghai or Beijing?
-      a: Use platforms like Trip.com Experiences or GetYourGuide. Your eSIM data lets you see available tours, meeting points,
-        and reviews. Many tours start within hours – having data means you can join spontaneously. For Hong Kong, Walk Hong
-        Kong tours can be booked online. Even a 3GB/15‑day plan ($5.99) is sufficient for all your activity research.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social & Messaging
-    title: 6. Staying in Touch with WhatsApp, WeChat & Instagram
-    questions:
-    - q: Will WhatsApp work in China with an international eSIM?
-      a: Yes. WhatsApp is blocked on local Chinese networks, but your international eSIM routes traffic outside China, so
-        WhatsApp works normally. All chats, voice calls, and video calls function as at home. A 10‑minute WhatsApp video call
-        uses about 50MB – a 5GB/7‑day plan ($6.99) would allow over 10 hours of video calls.
-    - q: How much data do I need for China?
-      a: Light users (maps + messaging) ~300MB/day, moderate (social + photos) ~700MB/day, heavy (streaming + video calls)
-        choose Unlimited. Most visitors find 5GB/15 days ($4.99) comfortable for a standard trip to China.
-    - q: Can I post Instagram stories from the Bund or Victoria Harbour?
-      a: Yes. Instagram is blocked on Chinese domestic networks, but your eSIM allows full access. Upload speeds on China
-        Unicom roaming are typically 5-15 Mbps – enough for videos. A 30‑second HD story uses about 50MB. A 10GB/30‑day plan
-        ($15.99) lets you post 200 stories – ideal for active social media users.
-    - q: Is FaceTime reliable in China on an eSIM?
-      a: FaceTime works well because your eSIM routes traffic internationally. However, Apple’s iCloud services can be slow
-        at times. For best results, use WhatsApp or WeChat for video calls – they are optimized for cross‑border connections.
-        FaceTime audio is usually fine. A 30‑minute FaceTime call uses ~150MB – well within a 3GB/7‑day plan ($4.99).
-    - q: How do I share my live location with family while exploring multiple cities?
-      a: Use WhatsApp’s 'Share Live Location' or Find My. These work over your eSIM data. Share for 1-8 hours. Note that Google
-        Maps location sharing may be less accurate in China due to mapping restrictions – WhatsApp live location is more reliable.
-        Location sharing uses minimal data – under 5MB per hour. A 1GB/3‑day plan ($1.99) covers weeks of continuous sharing.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7. Travel Between China, Hong Kong, Macau & Taiwan
-    questions:
-    - q: Does my China eSIM work in Hong Kong and Macau?
-      a: No. Our single‑country China eSIM works only in mainland China. For Hong Kong or Macau, you need a separate eSIM
-        or a regional plan covering China + Hong Kong + Macau. Hong Kong and Macau have their own networks. Separate plans
-        are very affordable – 1GB/3 days for Hong Kong is $1.99, and Macau plans start at similar prices.
-    - q: What about a day trip to Macau from Hong Kong?
-      a: If you have a Hong Kong eSIM, it will not work in Macau. You can buy a Macau eSIM (1‑day plan available) or rely
-        on offline maps for a few hours. Many ferries have Wi‑Fi. For travelers visiting all three, a regional Greater China
-        eSIM is the most convenient option. However, buying separate short plans (e.g., 1GB/3 days for $1.99 each) is also
-        cost‑effective.
-    - q: Can I use my China eSIM in Tibet or Xinjiang?
-      a: Yes, the eSIM works anywhere in mainland China where China Unicom has coverage. That includes major cities in Tibet
-        (Lhasa, Shigatse) and Xinjiang (Ürümqi, Kashgar). However, remote areas may have limited signal – download offline
-        maps. The eSIM still bypasses the firewall in those regions. A 30‑day 20GB plan ($25.99) is great for extended overland
-        travel.
-    - q: Does a China eSIM work in Taiwan?
-      a: No. Taiwan is not covered by a mainland China eSIM. For travel to Taiwan, purchase a separate Taiwan eSIM. Our network
-        partners in Taiwan include Chunghwa Telecom, Taiwan Mobile, and FarEasTone. A 5GB/7‑day Taiwan plan is available at
-        competitive prices – separate from China plans.
-    - q: If I have a layover in Hong Kong before mainland China, what should I do?
-      a: Buy a Hong Kong eSIM for the layover (1‑3 day plan) and a separate China eSIM for the mainland. Both can be installed
-        on your phone. When you land in Hong Kong, activate the HK eSIM (1GB/3 days for $1.99 is perfect); before flying to
-        mainland, switch data to the China eSIM (e.g., 5GB/7 days for $6.99). This is seamless on iPhones with dual active
-        eSIMs.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  China eSIM for Emergencies
-    questions:
-    - q: Can I call 110 (police) or 120 (ambulance) in China with my eSIM?
-      a: Yes. Emergency numbers (110 police, 119 fire, 120 ambulance) work on any phone with cellular signal – even without
-        an active data plan. Your eSIM does not need to be connected. For non‑urgent medical help, use your eSIM data to search
-        for 'hospital' on Google Maps (works over international eSIM). Even a small 1GB plan ($1.99) gives you emergency search
-        capability.
-    - q: How to find the nearest hospital or my country’s embassy in China?
-      a: Open Google Maps using your eSIM data – it works as an international roaming connection. Search 'hospital' or 'embassy
-        [your country]' to get addresses, phone numbers, and directions. Save your embassy’s contact information offline before
-        your trip. A single search uses <1MB – even the smallest plan covers thousands of searches.
-    - q: Can I use WhatsApp and FaceTime with China eSIM?
-      a: Yes! China eSIM supports WhatsApp audio/video calls, FaceTime, WeChat voice, and Zoom without any blocks. You can
-        stay in touch with family using your preferred messaging apps throughout your trip.
-    - q: What should I do if I lose my phone or it gets stolen in China?
-      a: If your phone is lost or stolen, log into our website from another device to view your plan details. The eSIM cannot
-        be transferred to another phone. Use 'Find My iPhone' (iCloud) or Google Find My Device – these work over any internet
-        connection. In China, you may need a VPN to access Google services – but your lost phone’s eSIM still provides international
-        data, so tracking can work. Report to local police (110).
-    - q: How do I contact my country’s consulate for lost passport assistance in China?
-      a: Use your eSIM data to search for your embassy’s emergency contact number. Most consulates have a 24‑hour line for
-        lost passports. You can call using Skype or Google Voice over your eSIM data. A 10‑minute call uses ~5MB – well within
-        a 1GB plan ($1.99). Save the number offline before your trip. In China, the US embassy in Beijing, UK consulate in
-        Shanghai, etc., are accessible via Google Maps.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  China eSIM for Business Travelers
-    questions:
-    - q: Is the eSIM fast enough for Zoom calls from a Shanghai office or hotel?
-      a: Yes. China Unicom roaming provides typical speeds of 10-30 Mbps and low latency (under 100ms) – sufficient for HD
-        Zoom or Microsoft Teams. For best stability, join calls directly on your phone rather than hotspot. A 1‑hour Zoom
-        call uses about 1GB. For a week of daily meetings, a 10GB/30‑day plan ($15.99) is a good fit.
-    - q: Can I connect to my company VPN using this China eSIM?
-      a: Absolutely. Many corporate VPNs work over international roaming eSIMs. However, some VPN protocols (e.g., OpenVPN)
-        may be detected and throttled – we recommend using WireGuard or Cisco AnyConnect. Because your eSIM routes outside
-        China, VPN connections are generally more reliable than over local Wi-Fi. Data usage for VPN overhead is minimal –
-        the main consumption is your actual work traffic.
-    - q: What’s the best China eSIM for a month‑long business trip?
-      a: For extended stays, choose a 30‑day plan with sufficient data. Our 20GB/30‑day plan at $25.99 is great for moderate
-        use (emails, messaging, occasional video calls). For heavy users (daily Zoom, large file transfers), the 50GB/30‑day
-        plan at $39.99 offers the best value. Both work across all mainland Chinese cities.
-    - q: Can I use my eSIM to access company cloud services (Google Drive, Dropbox, OneDrive)?
-      a: Yes. All major cloud storage services are blocked on domestic Chinese networks but work seamlessly over your international
-        eSIM. You can upload and download files as usual. For large file transfers (e.g., 500MB), 4G/5G speeds are sufficient.
-        A 30GB/30‑day plan ($29.99) provides 30GB of transfer – ideal for cloud‑based workflows.
-    - q: How do I manage multiple eSIMs for work (personal + China eSIM)?
-      a: Most modern phones support dual SIM (one physical + one eSIM, or two eSIMs). Keep your home SIM active for calls
-        and SMS, while using our China eSIM for data. Label the lines clearly in settings (e.g., 'Home Voice' and 'China Data').
-        Set the China eSIM as the default data line, and your home SIM for voice. This is seamless for business travelers.
-        Our 15‑day 10GB plan ($10.99) is a popular choice for short business trips.
+    - q: |
+        Which carrier in China should I rely on for my eSIM?
+      a: |
+        China Mobile operates over 15,000 towers across China, covering all major cities. China Unicom complements this with additional rural coverage reaching about 90% of the population. China Telecom focuses on affordability, with data plans costing roughly 20% less than China Mobile. With Roami, you don't pick one — it connects to whichever is strongest.
+    - q: |
+        How does Roami compare to Airalo for eSIM in China?
+      a: |
+        Roami typically offers better value for China eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+    - q: |
+        Will my China eSIM work as soon as I land, or is there an activation delay?
+      a: |
+        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to China Mobile. No queues, no paperwork — you're online before you reach baggage claim.
+    - q: |
+        Can I use navigation apps like Google Maps with eSIM in China?
+      a: |
+        Yes — real-time navigation, traffic updates, and public transit info all work. As a backup, download offline maps for China before you go.
+    - q: |
+        When does the validity period of my China eSIM start?
+      a: |
+        The plan validity starts when you connect to a local network in China, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+    - q: |
+        What do I do if my China eSIM doesn't connect when I arrive?
+      a: |
+        Three quick checks: 1) Is Data Roaming turned on? 2) Can you manually select China Mobile in network settings? 3) Try restarting your phone. Most issues resolve with one of these. If not, Roami support is available 24/7.
+    - q: |
+        Can I install my China eSIM at the airport, or should I do it before leaving home?
+      a: |
+        Do it before you leave. Installing needs internet — easy at home on WiFi, tricky at an airport where the WiFi often requires SMS verification. The eSIM QR code arrives by email within minutes of purchase. Scan it in your phone settings and you're ready. At China's airport, just enable Data Roaming and you'll connect automatically.
+    - q: |
+        Can I check how much data I've used on my China eSIM?
+      a: |
+        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
 related_products:
   title: Related China eSIM Plans
   items:

@@ -1,7 +1,8 @@
 ---
-title: "Vietnam eSIM Guide | Viettel, Mobifone or Vina?"
-description: "Pour Vietnam, choisissez Roami et payez moins cher. Notre eSIM est au meilleur prix pour voyager sans vous ruiner. Couvre Hanoï, Hô-Chi-Minh & Da Nang."
-date: '2026-06-14T00:00:00+00:00'
+title: "Votre guide eSIM complet pour voyager en Vietnam."
+description: "Le guide Roami des opérateurs eSIM pour Vietnam compare Viettel, Vinaphone et mobifone sur la 5G, la couverture et le rapport qualité-prix."
+date: "2026-06-17T06:04:16+00:00"
+
 keywords: eSIM Vietnam, données prépayées, réseau 5G, Viettel, Vinaphone, mobifone,
   FPT Telecom, guide voyage, connectivité
 site_name: Roami
@@ -344,24 +345,3 @@ cta_free_trial_note: Exclusif pour les nouveaux clients
 cta_free_trial_text: eSIM d'essai Vietnam gratuite
 cta_free_trial_link: /free-esim/
 ---
-# Vietnam eSIM: Alternative sans tracas à la carte SIM physique
-
-> **💡 Résumé rapide pour les voyageurs :** Itinérance transparente mondiale : eSIM 5G économique pour une connectivité dans plusieurs pays. Avec Roami, accédez aux réseaux vietnamiens les plus rapides (Viettel : 165,03 Mbps en téléchargement médian, 5G jusqu'à 594,16 Mbps avec Vinaphone) sans changer de carte SIM. Une solution idéale pour les voyageurs exigeants.
-
-## Ce que vous devez savoir avant d'acheter une eSIM Vietnam
-
-
-### 1. Bandes 4G/5G utilisées au Vietnam {#1-bandes-4g5g-utilisées-au-vietnam}
-Les opérateurs vietnamiens utilisent principalement les bandes 4G LTE B1 (2100 MHz), B3 (1800 MHz), B5 (850 MHz), B8 (900 MHz) et B40 (2300 MHz). Pour la 5G, les bandes n78 (3500 MHz) et n41 (2500 MHz) sont déployées. Assurez-vous que votre smartphone est compatible avec ces fréquences.
-
-### 2. Enregistrement KYC obligatoire {#2-enregistrement-kyc-obligatoire}
-Conformément à la réglementation vietnamienne, tout achat de carte SIM ou eSIM nécessite une vérification d'identité (KYC). Vous devrez fournir une photo de votre passeport et un selfie lors de l'activation. Roami simplifie ce processus pour vous.
-
-### 3. Politique de fair use (FUP) et limitation de débit {#3-politique-de-fair-use-fup-et-limitation-de-débit}
-La plupart des forfaits eSIM incluent une politique d'utilisation raisonnable (FUP). Après avoir dépassé un certain volume de données (ex: 1 Go/jour), le débit peut être réduit à 128 kbps. Vérifiez les conditions avant d'acheter.
-
-### 4. Couverture réseau dans les zones reculées {#4-couverture-réseau-dans-les-zones-reculées}
-Viettel offre la meilleure couverture dans les zones rurales et montagneuses (ex: Sapa, Ha Giang). Vinaphone et mobifone sont excellents dans les villes mais peuvent être moins performants dans les régions isolées.
-
-### 5. Compatibilité des appareils avec l'eSIM {#5-compatibilité-des-appareils-avec-lesim}
-L'eSIM Vietnam est compatible avec la plupart des smartphones récents (iPhone XS et ultérieur, Google Pixel 3 et ultérieur, Samsung Galaxy S20 et ultérieur). Vérifiez la liste de <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">Compatibilité eSIM</a> sur le site de Roami avant l'achat.

@@ -367,174 +367,46 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: 'Mexico eSIM Guide 2026: Complete Travel & Data Guide'
-  desc: From Mexico City to Cancún, stay connected on Telcel, AT&T, Movistar networks. Our complete Mexico eSIM guide covers
-    coverage, plans, setup, and travel tips. Find the best plan for your trip.
+  title: "Mexico eSIM Guide 2026 | Plans, Coverage & Travel Tips"
+  desc: "Planning Mexico travel? Our eSIM guide covers movistar mexico esim, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1. Choosing Your Mexico eSIM
+    title: Mexico eSIM FAQs
     questions:
-    - q: Which eSIM is best for Mexico travel?
-      a: The best eSIM for Mexico depends on where you’re going and how much data you need. For a beach holiday in Cancún
-        or Tulum, a 1-3GB plan is enough for maps and social media. For exploring Mexico City, Oaxaca, or driving through
-        the Yucatán, 5GB or 10GB is better. Our eSIM runs on Telcel and Altán networks – Telcel offers the widest coverage
-        across the country, including remote ruins and coastal highways.
-    - q: Can I get a prepaid eSIM for Mexico without a Mexican phone number?
-      a: Yes. Our prepaid eSIM for Mexico is data-only and designed for tourists. You buy online, receive a QR code by email,
-        and install it before departure. No need to register with a Mexican ID or visit a Telcel store. The plan activates
-        when your phone first connects to a Mexican network after landing.
-    - q: How does your Mexico eSIM compare to Telcel eSIM Mexico?
-      a: Telcel is the dominant carrier in Mexico with excellent coverage. Our eSIM uses Telcel as the primary network, so
-        you get the same signal quality. However, buying a Telcel eSIM Mexico directly often requires visiting a store with
-        ID and choosing a plan with a Mexican phone number. Our eSIM is fully remote, prepaid, and cheaper for short-term
-        visitors. We also include Altán as a backup network in areas where Telcel might be congested.
-    - q: Do you offer an unlimited data eSIM for Mexico?
-      a: 'Yes. Our unlimited data plan gives you full-speed data for most activities. A fair usage policy applies: after 30GB
-        in a single day, speeds reduce to 512kbps until midnight (local time). That’s still enough for maps, messaging, and
-        light browsing. The plan also supports personal hotspot – useful for sharing with travel companions.'
-    - q: Is there an eSIM that works in both the US and Mexico?
-      a: Our single-country Mexico eSIM works only within Mexico. If you’re traveling to both the US and Mexico, we recommend
-        our North America eSIM, which covers both countries with one plan. It automatically switches between US carriers (T-Mobile,
-        AT&T, Verizon) and Mexican carriers (Telcel, Altán) as you cross the border.
-    - q: Can I use an eSIM for Mexico on an iPhone?
-      a: 'Yes. iPhones from XS, XR, SE (2nd gen) and newer support eSIM. The installation process is the same: scan the QR
-        code in Settings > Cellular > Add eSIM. Label it ''Mexico'' for easy identification. The eSIM works perfectly with
-        both physical SIM and another eSIM active simultaneously.'
-    - q: What’s the difference between an eSIM and a virtual SIM card for Mexico?
-      a: A virtual SIM card is another name for eSIM – it’s a digital SIM profile stored in your phone. There’s no physical
-        card. Our eSIM works exactly like a local SIM but without the plastic. You can buy a virtual SIM for Mexico online
-        and install it in minutes.
-  - id: faq-airport
-    icon: plane
-    tab_title: Airports
-    title: 2. Getting Online Upon Arrival
-    questions:
-    - q: How do I activate my Mexico eSIM right after landing at Cancún Airport (CUN)?
-      a: Install the eSIM at home before flying. When you land at Cancún (CUN), Mexico City (MEX), or Los Cabos (SJD), turn
-        off Airplane Mode and set your eSIM as the data line. It will connect to Telcel or Altán within 30 seconds. You can
-        then open Google Maps to find your shuttle, call an Uber, or message your hotel. No need to hunt for airport Wi-Fi
-        or SIM kiosks.
-    - q: Are there Telcel SIM kiosks at Mexican airports? Should I use them?
-      a: Yes, you’ll find Telcel, AT&T Mexico, and other kiosks at arrivals. But they often have long queues and sell plans
-        with limited data for around $20-30 USD. Buying an eSIM online before you travel is cheaper, faster, and you’ll have
-        data the moment you step outside. Plus, no need to fiddle with SIM ejector tools.
-    - q: Can I activate my Mexico eSIM at the airport?
-      a: Yes, you can activate your Mexico eSIM as soon as you land using the airport's free Wi-Fi. Just scan your QR code
-        from email and you'll be connected in under 2 minutes. We recommend installing the eSIM before departure so you're
-        connected the moment you arrive.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3. Navigating Mexico by Car, Bus, or Rideshare
-    questions:
-    - q: Can I use Google Maps for driving in Mexico with an eSIM?
-      a: Absolutely. Your Mexico eSIM provides real-time traffic, road conditions, and directions. Data usage is about 5-10MB
-        per hour. For popular routes like Cancún to Tulum or Mexico City to Puebla, coverage is excellent on Telcel. For remote
-        areas like the Copper Canyon, download offline maps in advance – cellular may be intermittent.
-    - q: Does Uber work with a data-only eSIM in Mexico?
-      a: Yes. Uber operates in Mexico City, Guadalajara, Monterrey, and many tourist areas like Cancún and Puerto Vallarta.
-        You only need a data connection – no Mexican phone number. The driver can message you through the app. For other ride
-        apps, Didi also works over data.
-    - q: Can I use Mexico eSIM for ride-hailing and maps?
-      a: Absolutely. Mexico eSIM works with ride-hailing apps and navigation. A 5GB/15 days plan ($4.99) covers daily navigation
-        and ride-booking during a typical trip. The 4G/5G connection ensures reliable real-time tracking and route updates.
-    - q: How is coverage for road trips across the Yucatán Peninsula?
-      a: Telcel covers most highways, towns, and beach areas. You’ll have signal in Cancún, Tulum, Mérida, Valladolid, and
-        along the main road to Chichén Itzá. In very rural stretches, signal may drop – that’s normal for any carrier. Download
-        offline maps of the peninsula before you go.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4. Accommodation & Local Services
-    questions:
-    - q: How do I check into a hotel or Airbnb without Wi-Fi?
-      a: Use your eSIM data to open your booking confirmation (Booking.com, Expedia, Airbnb). Many places send door codes
-        or check-in instructions by email or app. You can access them right at the entrance. For hotels, you can show the
-        reservation QR code from your phone.
-    - q: Is hotel Wi-Fi in Mexico reliable enough?
-      a: Wi-Fi quality varies. Resorts in Cancún often have good Wi-Fi, but boutique hotels and hostels may be slow or drop
-        out. For secure activities like banking or logging into social accounts, use your eSIM’s cellular data. For streaming
-        Netflix or downloading large files, hotel Wi-Fi is fine – but keep your eSIM as a backup.
-    - q: Can I order food delivery (Rappi, Uber Eats) to my hotel?
-      a: Yes. Rappi is the most popular delivery app in Mexico, and Uber Eats works in larger cities. Both rely on data –
-        your eSIM will let you browse restaurants, order, and track the delivery. Put your hotel name and room number. The
-        driver can message you through the app.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5. Ruins, Beaches & Tour Bookings
-    questions:
-    - q: Will I have coverage at Mexico attractions in Mexico?
-      a: Major attractions like Mexico attractions typically have good 4G/5G coverage in Mexico. However, remote areas may
-        have limited signal. Download offline maps before visiting out-of-the-way destinations. A 5GB plan provides comfortable
-        data for photos, maps, and social media throughout your trip.
-    - q: Do I need data to book cenote tours or boat trips?
-      a: Most cenote and boat tour operators have websites or WhatsApp. With your eSIM data, you can message them, check availability,
-        and pay online. For popular cenotes near Tulum (like Gran Cenote or Dos Ojos), you can buy tickets at the gate – but
-        having data lets you compare prices and read reviews first.
-    - q: How to get audio guides at archaeological sites without Wi-Fi?
-      a: Many sites offer audio guides via a mobile website or app. Your eSIM allows you to stream these guides on arrival.
-        Alternatively, download offline travel guides (like Rick Steves’ audio tours) on hotel Wi-Fi in advance. With our
-        unlimited plan, streaming is worry-free.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social & Messaging
-    title: 6.  Mexico eSIM for Social Media
-    questions:
-    - q: Will WhatsApp work with a data-only Mexico eSIM?
-      a: Yes. WhatsApp uses your home phone number and only needs internet. All chats, voice calls, and video calls work exactly
-        as at home. A voice call uses ~0.5MB per minute; video ~5MB per minute. You don’t need a Mexican SIM or number. WhatsApp
-        is widely used by tour operators, hotels, and drivers in Mexico – having data makes communication seamless.
-    - q: How much data do I need for Mexico?
-      a: Light users (maps + messaging) ~300MB/day, moderate (social + photos) ~700MB/day, heavy (streaming + video calls)
-        choose Unlimited. Most visitors find 5GB/15 days ($4.99) comfortable for a standard trip to Mexico.
-    - q: Is FaceTime reliable on Mexican cellular networks?
-      a: Telcel has good low-latency connections in cities and tourist zones. You’ll have clear HD FaceTime calls from Cancún
-        hotel zone, Mexico City’s Roma neighborhood, or even near the beach. Some eSIM providers route through distant servers
-        – we keep traffic local for the best performance.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7. Travel Between Mexico, US & Central America
-    questions:
-    - q: Does my Mexico eSIM work in the US or Canada?
-      a: No, this is a single-country plan for Mexico only. If you’re also visiting the US or Canada, you’ll need our North
-        America eSIM, which covers all three countries with one profile. For Guatemala or Belize, a separate Central America
-        eSIM or local SIM is required.
-    - q: What about a day trip to Belize from Chetumal?
-      a: Our Mexico eSIM does not work in Belize. For a day trip, you could buy a small Belize eSIM separately or rely on
-        offline maps and hotel Wi-Fi. Most travelers staying only in Mexico find our single-country plan sufficient.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  Mexico eSIM for Emergencies
-    questions:
-    - q: Can I call 911 (emergency number) in Mexico with my eSIM?
-      a: Yes. Mexico uses 911 as the emergency number for police, fire, and ambulance. Your phone will use any available network
-        to complete the call – even if your eSIM has no active data or signal. This is free and always works. For non-urgent
-        medical help, use your eSIM data to search for 'farmacia' or 'hospital cerca'.
-    - q: How to find the nearest hospital or embassy in Mexico?
-      a: Open Google Maps – your eSIM data gives you real-time results. Search 'hospital 24 horas' or 'embassy [your country]'
-        to get addresses, phone numbers, and directions. Save your embassy’s contact information offline. For tourist areas,
-        the 'Green Angels' (Ángeles Verdes) provide roadside assistance – you can call them over your eSIM using WhatsApp
-        or a VoIP app.
-    - q: Can I use WhatsApp and FaceTime with Mexico eSIM?
-      a: Yes! Mexico eSIM supports WhatsApp audio/video calls, FaceTime, WeChat voice, and Zoom without any blocks. You can
-        stay in touch with family using your preferred messaging apps throughout your trip.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  Mexico eSIM for Business Travelers
-    questions:
-    - q: Is the eSIM fast enough for Zoom calls from Mexico City or Cancún?
-      a: Yes. Telcel’s 4G/5G network provides low latency (under 60ms) and typical speeds of 10-30 Mbps – sufficient for HD
-        Zoom or Teams. For best stability, join calls directly on your phone rather than hotspot. In popular digital nomad
-        spots like Playa del Carmen or Puerto Vallarta, coverage is excellent.
-    - q: Can I connect to my company VPN securely using this eSIM?
-      a: Absolutely. We do not block any VPN protocols – Cisco AnyConnect, OpenVPN, FortiClient all work. Cellular data is
-        more secure than café or hotel Wi-Fi. Just ensure your VPN app is updated. This is true for all our prepaid eSIM plans.
+    - q: |
+        How do Telcel, AT&T, and Movistar compare for a tourist visiting Mexico?
+      a: |
+        In Mexico, Telcel leads with the fastest urban 5G speeds (up to 1 Gbps in tests). AT&T covers about 85% of the country including most rural areas. Movistar is the budget option, often bundling data at lower per-GB rates. Tourists visiting cities get excellent service from all three. Mexico uses 5G on n78 band covering Mexico City and maj Roami picks the best one automatically as you move around.
+    - q: |
+        Does Mexico really not require any ID to use eSIM? Can I just buy and go?
+      a: |
+        Correct — Mexico eSIM doesn't need passport or ID verification. Mexico prepaid cards typically do NOT require KYC. You can buy and use directly. Just purchase, install, and you're online. No uploading documents, no waiting for approval. Install before you leave, enable Data Roaming on arrival, and you're set.
+    - q: |
+        How does Roami compare to Airalo for eSIM in Mexico?
+      a: |
+        Roami typically offers better value for Mexico eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+    - q: |
+        How much should I budget for an eSIM when visiting Mexico?
+      a: |
+        Roami offers Mexico eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Telcel provides reliable speeds across Mexico. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+    - q: |
+        I'm arriving in Mexico late at night. Will I be able to get online immediately?
+      a: |
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Telcel automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
+    - q: |
+        What happens if I use all my data in Mexico before my plan expires?
+      a: |
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+    - q: |
+        What happens if my Mexico eSIM stops working mid-trip?
+      a: |
+        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
+    - q: |
+        I need internet access for just a couple of days in Mexico. What's the minimum I can buy?
+      a: |
+        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
 related_products:
   title: Related Mexico eSIM Plans
   items:

@@ -374,286 +374,46 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: 'Indonesia eSIM Guide 2026: Data Plans & Travel Tips'
-  desc: From Jakarta to Surabaya, stay connected on Telkomsel, Indosat Ooredoo, XL Axiata networks. Our complete Indonesia
-    eSIM guide covers coverage, plans, setup, and travel tips. Find the best plan for your trip.
+  title: "Indonesia eSIM for Travelers | Pricing & How to Stay Connected"
+  desc: "Planning Indonesia travel? Our eSIM guide covers digitravel esim indonesia, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1.  General Questions About Indonesia eSIM
+    title: Indonesia eSIM FAQs
     questions:
-    - q: How does an eSIM for Indonesia work differently from a physical SIM card?
-      a: An eSIM is a digital profile embedded in your phone, eliminating the need for a physical SIM card. You can purchase
-        and activate an Indonesia eSIM online before your trip, and it connects you to local networks like Telkomsel or XL
-        upon arrival. This allows you to keep your home number active for calls and texts while using the eSIM for data. The
-        setup process is quick and typically involves scanning a QR code.
-    - q: Can I use an eSIM for Indonesia if my phone is locked to a carrier?
-      a: Most carrier-locked phones in the US or Europe will not accept an eSIM from a foreign provider like those in Indonesia.
-        You would need to unlock your device with your home carrier before traveling to use a local eSIM. Unlocked phones
-        from Apple, Samsung, and Google generally support eSIM profiles without issues. Always check your phone's compatibility
-        with eSIM technology beforehand.
-    - q: Is it better to buy an eSIM for Indonesia or use international roaming from my home provider?
-      a: An Indonesia eSIM is almost always more affordable than international roaming plans, which can charge high daily
-        fees. For example, a 7-day eSIM with 10GB of data costs around $9.99, while roaming might cost several times that.
-        Roaming also often uses slower speeds and has data caps. An eSIM gives you a local IP address and access to high-speed
-        5G/4G LTE networks for a fraction of the cost.
-    - q: Will an Indonesia eSIM work on both Android and iOS devices?
-      a: Yes, eSIM technology is supported on modern devices from both platforms, including iPhones (XR and later), Google
-        Pixels, and Samsung Galaxy S20 and newer models. The activation process is similar on both systems, usually involving
-        scanning a QR code or entering details manually. Some older Android phones might not support eSIM, so it is important
-        to verify your specific model. Roami eSIMs are designed to be compatible with the vast majority of eSIM-capable phones.
-    - q: What happens if my phone runs out of storage space when downloading an eSIM profile?
-      a: An eSIM profile takes up a negligible amount of storage space, usually less than a megabyte. This is not a concern
-        even for phones with very limited storage. The profile is a small configuration file, not a large app or data cache.
-        You can safely download multiple eSIM profiles without affecting your phone's available storage for photos or apps.
-    - q: Can I share my Indonesia eSIM data with other devices as a hotspot?
-      a: Yes, most eSIM plans for Indonesia allow tethering, letting you share your high-speed data with a laptop, tablet,
-        or another phone. This is particularly useful for digital nomads or families who need to connect multiple devices.
-        However, some very cheap plans or those from specific providers may restrict hotspot usage. It is always best to check
-        the plan's terms, but Roami's plans typically support tethering.
-    - q: Is Telkomsel or Indosat Ooredoo better for Indonesia travel?
-      a: Both Telkomsel and Indosat Ooredoo offer excellent coverage across Indonesia. Telkomsel generally has wider rural
-        coverage, while Indosat Ooredoo offers competitive 5G speeds in cities. For most travelers visiting Jakarta, Surabaya,
-        and the surrounding areas, either network works well. If you plan to explore remote areas, Telkomsel is typically
-        the safer choice.
-    - q: Does Indonesia eSIM work in Jakarta and Surabaya?
-      a: Yes, Indonesia eSIM provides excellent coverage in Jakarta, Surabaya, and other major areas. Major carriers offer
-        strong 5G/4G networks across all urban centers and tourist districts. Bali Temples and Komodo Island also have good
-        signal coverage for sharing your travel moments.
-    - q: Can I use an eSIM for Indonesia alongside my physical SIM card?
-      a: Yes, you can use Dual SIM Dual Standby (DSDS) functionality, which allows your physical home SIM to remain active
-        for calls and texts while your eSIM provides data. This is a huge advantage, as you can keep your regular number for
-        two-factor authentication and calls. You can set the eSIM as your default for mobile data in your phone's settings.
-        This setup ensures seamless connectivity without swapping cards.
-    - q: How do I check my remaining eSIM data balance during my trip to Indonesia?
-      a: Most eSIM providers, including Roami, offer a dedicated app or a web portal where you can check your remaining data.
-        You can also check your phone's settings under the cellular or mobile data section for the eSIM. Some providers send
-        SMS alerts when you are approaching your data limit. It is a good idea to monitor your usage, especially if you are
-        on a plan with a smaller data cap.
-  - id: faq-airport
-    icon: airplane
-    tab_title: Airports
-    title: 2.  Indonesia eSIM at Airports
-    questions:
-    - q: Can I activate my eSIM for Indonesia immediately after landing at Jakarta's Soekarno-Hatta Airport?
-      a: Yes, you can activate it right away as long as you have a stable Wi-Fi connection for the initial download and profile
-        installation. Many travelers connect to the free airport Wi-Fi to set up their eSIM before leaving the terminal. Once
-        activated, you will have instant access to high-speed 5G/4G LTE data on Telkomsel's network. This allows you to order
-        a ride-share or message your hotel immediately.
-    - q: Can I activate my Indonesia eSIM at the airport?
-      a: Yes, you can activate your Indonesia eSIM as soon as you land using the airport's free Wi-Fi. Just scan your QR code
-        from email and you'll be connected in under 2 minutes. We recommend installing the eSIM before departure so you're
-        connected the moment you arrive.
-    - q: What should I do if I cannot connect to the airport Wi-Fi to activate my eSIM for Indonesia?
-      a: If you cannot connect to the airport Wi-Fi, you can use a personal hotspot from a friend or family member to download
-        the eSIM profile. Most eSIM providers also allow you to download the profile at home before you travel, so it is ready
-        to activate upon arrival. Once installed, you can enable the eSIM and it will automatically connect to the local network.
-        This pre-download method is the most reliable for a seamless activation.
-    - q: Will my eSIM work well inside the airport terminals in Jakarta or Bali?
-      a: Yes, eSIMs connect to the strongest local networks like Telkomsel, which have excellent coverage within major airports.
-        You will have strong, high-speed data for tasks like checking flight info, contacting your driver, or browsing the
-        web. The signal is typically very reliable in these modern, well-connected terminals. This is a significant improvement
-        over relying on patchy airport Wi-Fi.
-    - q: Is it easy to find help setting up an eSIM at the airport if I have trouble?
-      a: While airport staff may not be experts on eSIMs from various providers, most major airports have help desks or SIM
-        card vendor kiosks that can assist. However, the best support comes from your eSIM provider's customer service, which
-        is usually available via live chat or email. It is highly recommended to set up your eSIM at home or use a reliable
-        internet source to avoid any stress at the airport. Roami offers 24/7 customer support to help with any activation
-        issues.
-  - id: faq-transport
-    icon: train
-    tab_title: Transport
-    title: 3.  Indonesia eSIM for Transport
-    questions:
-    - q: Which eSIM data plan is best for using ride-hailing apps like Gojek and Grab in Indonesia?
-      a: For using apps like Gojek and Grab, a plan with at least 5GB of data is recommended for a week-long trip. These apps
-        use real-time GPS and data to locate drivers and process payments, which can consume data. A 7-day plan with 10GB
-        for $9.99 or a 15-day plan with 20GB for $19.99 provides plenty of data for navigation and booking rides. This ensures
-        you never get stranded without a way to hail a ride.
-    - q: Does an eSIM work well for navigation on ferries between Indonesian islands like Bali and Lombok?
-      a: Coverage on open water can be spotty, but an eSIM connected to Telkomsel will provide the best possible signal. You
-        can expect data to work near the shore and on the ferry itself, but it may drop during the middle of the crossing.
-        It is still very useful for checking schedules and navigating once you arrive at the next port. For the ferry ride
-        itself, it is wise to download offline maps beforehand.
-    - q: Can I use Indonesia eSIM for ride-hailing and maps?
-      a: Absolutely. Indonesia eSIM works with ride-hailing apps and navigation. A 5GB/15 days plan ($4.99) covers daily navigation
-        and ride-booking during a typical trip. The 4G/5G connection ensures reliable real-time tracking and route updates.
-    - q: Will my eSIM work while using a scooter or motorcycle taxi in Bali's traffic?
-      a: Absolutely, an eSIM works perfectly on a scooter, as it relies on the phone's signal, which is unaffected by movement.
-        You will have continuous data for GPS navigation to navigate through Bali's busy streets and find the best routes.
-        This is far more reliable than asking for directions or hoping for free Wi-Fi. A 5GB plan for $7.99 is often enough
-        for a week of scooter-based navigation.
-    - q: How much data does a typical 30-minute drive with GPS use in Indonesia?
-      a: Using Google Maps or Waze for a 30-minute drive typically consumes between 5 MB and 10 MB of data. This is very minimal,
-        meaning even a small 1GB plan can handle many hours of navigation. For a full day of driving, you might use 50-100
-        MB. Therefore, you do not need a huge data plan just for navigation, but it is good to have extra for other activities.
-  - id: faq-hotels
-    icon: building
-    tab_title: Hotels
-    title: 4.  Indonesia eSIM for Hotels
-    questions:
-    - q: Is a hotel's free Wi-Fi in Indonesia reliable enough, or should I use my eSIM data instead?
-      a: Hotel Wi-Fi in Indonesia can be inconsistent, especially in budget accommodations or rural areas like Ubud. It is
-        often slow, shared among many guests, and may require constant re-login. Using your eSIM data provides a private,
-        high-speed connection that is far more reliable for work or streaming. This is a key reason why many travelers prefer
-        a best eSIM for Indonesia over relying on hotel Wi-Fi.
-    - q: Can I use my eSIM to stream movies on Netflix or YouTube at my hotel in Bali?
-      a: Yes, with a high-speed eSIM plan, you can stream HD video without buffering. A 20GB or 50GB plan, like the 30-day
-        50GB option for $37.99, is ideal for heavy streaming. Standard definition streaming uses about 1GB per hour, while
-        HD uses about 3GB per hour. This makes the unlimited plan, at $68.99 for 30 days, the ultimate solution for worry-free
-        entertainment.
-    - q: Will my eSIM work in a hotel room that has thick walls or is far from the lobby?
-      a: An eSIM connects to the strongest available cellular tower, which is often better at penetrating building structures
-        than a single hotel Wi-Fi router. Telkomsel's network is robust and usually provides a good signal inside most hotel
-        rooms. In very remote or concrete buildings, you might experience slower speeds, but the connection is generally more
-        stable than shared Wi-Fi. This is a common reason why travelers choose an eSIM over hotel internet.
-    - q: How do I set up my eSIM to work with a hotel's IPTV or other in-room services?
-      a: Your eSIM is a personal cellular data connection and does not interact with the hotel's internal IPTV or smart room
-        controls. These services typically require you to connect to the hotel's local Wi-Fi network. You can easily switch
-        between your eSIM for personal browsing and the hotel Wi-Fi for their smart services. This dual-connection setup gives
-        you the best of both worlds.
-    - q: Is it safe to use my eSIM for online banking and booking confirmations while at a hotel?
-      a: Yes, using your eSIM's cellular data is much more secure than using public hotel Wi-Fi for sensitive transactions.
-        Cellular data is encrypted, making it harder for hackers to intercept your information. A private eSIM connection
-        protects your passwords and financial details when checking into hotels or booking tours. This makes it the safest
-        option for all online activities during your stay.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5.  Indonesia eSIM for Attractions
-    questions:
-    - q: Will I have coverage at Bali Temples in Indonesia?
-      a: Major attractions like Bali Temples typically have good 4G/5G coverage in Indonesia. However, remote areas may have
-        limited signal. Download offline maps before visiting out-of-the-way destinations. A 5GB plan provides comfortable
-        data for photos, maps, and social media throughout your trip.
-    - q: Does an eSIM work at the top of Mount Batur for sunrise hikes?
-      a: Coverage at the summit of Mount Batur can be limited due to the remote location, but you may get a weak signal from
-        nearby towns. It is not a place to rely on for high-speed data, but you might get a message through. It is best to
-        download any necessary maps or information before you start your hike. An eSIM is still useful for the base of the
-        mountain and the drive there.
-    - q: Can I use my eSIM to purchase entry tickets online for attractions like the Borobudur Temple?
-      a: Yes, you can use your eSIM's fast data to browse ticketing websites and complete purchases without needing Wi-Fi.
-        This is very convenient for last-minute bookings or checking availability while you are on the move. The high-speed
-        5G/4G LTE connection ensures a smooth transaction process. This eliminates the hassle of finding a Wi-Fi hotspot just
-        to buy a ticket.
-    - q: How well does an eSIM work for taking and sharing photos at a busy place like Tanah Lot temple?
-      a: An eSIM works perfectly for this, allowing you to instantly upload your high-resolution photos to Instagram or Facebook.
-        Even in busy areas with many tourists, the cellular network is generally stable and fast enough for uploading. You
-        will not need to wait for a slow Wi-Fi connection at a nearby cafe. A 10GB or 20GB plan is more than sufficient for
-        a full day of photo sharing.
-    - q: Is there any place in Indonesia where an eSIM would not work, like a remote national park?
-      a: Yes, in very remote national parks like Komodo National Park or deep in the jungles of Sumatra, cellular coverage
-        is minimal or non-existent. An eSIM will not provide a signal in these areas, just like any other network. It is essential
-        to download offline maps and any important information before venturing into these regions. For the vast majority
-        of tourist destinations, however, an eSIM will work reliably.
-  - id: faq-social
-    icon: message-circle
-    tab_title: Social & Messaging
-    title: 6.  Indonesia eSIM for Social Media
-    questions:
-    - q: How much data do I need for Indonesia?
-      a: Light users (maps + messaging) ~300MB/day, moderate (social + photos) ~700MB/day, heavy (streaming + video calls)
-        choose Unlimited. Most visitors find 5GB/15 days ($4.99) comfortable for a standard trip to Indonesia.
-    - q: Can I use WhatsApp and other messaging apps for free with an eSIM in Indonesia?
-      a: Yes, you can use WhatsApp, Telegram, and other messaging apps to send texts, photos, and videos using your eSIM data.
-        The data consumption for text messages is negligible, while photos use a small amount. Your eSIM data plan covers
-        all of this, so there are no extra charges for using these apps. This is the primary way most travelers communicate
-        with locals and family back home.
-    - q: Will my eSIM work for live streaming on platforms like Twitch or Instagram Live from Bali?
-      a: Yes, you can live stream, but it requires a stable and fast connection. A 5G or strong 4G LTE signal is necessary
-        for a smooth, high-quality stream. An unlimited data plan or a large 50GB plan is recommended to avoid hitting your
-        data cap during a live stream. Streaming for one hour can use between 1GB to 3GB of data, depending on the quality.
-    - q: Is it possible to use TikTok and other apps that are sometimes restricted in other countries?
-      a: Yes, TikTok and other popular social media platforms are fully accessible and unrestricted in Indonesia. You can
-        browse, watch, and post content without any issues using your eSIM. The high-speed data connection ensures a smooth
-        experience for video-heavy apps like TikTok. This makes an Indonesia eSIM perfect for content creators and social
-        media enthusiasts.
-    - q: How much data does a typical 10-minute Instagram Reel or TikTok video consume?
-      a: Watching a 10-minute Instagram Reel or TikTok video can consume anywhere from 30MB to 100MB, depending on the quality.
-        Creating and uploading a video of the same length can use significantly more data. It is a good practice to connect
-        to Wi-Fi for uploading large files if you have a small data plan. For regular scrolling and watching, a 10GB plan
-        is generally sufficient for a week.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7.  Indonesia eSIM for Cross-Border Travel
-    questions:
-    - q: Can I use my Indonesia eSIM when I travel to a neighboring country like Singapore or Malaysia?
-      a: A standard Indonesia eSIM is designed to work only on Indonesian networks like Telkomsel. It will not work automatically
-        in Singapore or Malaysia. You would need to purchase a separate eSIM for those destinations or a regional Asia eSIM
-        plan. Roami offers regional plans that cover multiple countries, which is a convenient solution for a multi-country
-        trip. This avoids the hassle of buying a new eSIM for each border crossing.
-    - q: What is the best eSIM solution for a trip that includes both Indonesia and Thailand?
-      a: The best solution is to buy a regional Asia eSIM that covers both Indonesia and Thailand on a single plan. This is
-        often more cost-effective than buying two separate national eSIMs. For example, a 10GB regional plan might be a better
-        value than two 5GB local plans. This allows you to have seamless connectivity as you fly from Bali to Bangkok.
-    - q: Will my eSIM automatically switch to a local network when I land in another country?
-      a: No, a standard Indonesia eSIM will not automatically switch to a foreign network. It is locked to Indonesian operators.
-        You will need to manually turn off data for that eSIM and activate a new eSIM for your destination country. This is
-        a simple process in your phone's settings. For the smoothest experience, pre-purchase all your required eSIMs before
-        your trip.
-    - q: If I fly from Jakarta to Kuala Lumpur for a day trip, can I just buy a short-term eSIM for Malaysia?
-      a: Yes, you can buy a short-term eSIM for Malaysia, such as a 3-day 3GB plan for $3.99, to cover a day trip. This is
-        a very cost-effective way to stay connected without paying for a weekly plan. You would activate the Malaysia eSIM
-        upon arrival in Kuala Lumpur and deactivate it when you return. This approach gives you maximum flexibility for multi-destination
-        itineraries.
-    - q: Are there any eSIM providers that offer a plan specifically for travel across all of Southeast Asia?
-      a: Yes, many eSIM providers, including Roami, offer comprehensive Southeast Asia or Asia plans. These plans provide
-        coverage in countries like Indonesia, Thailand, Vietnam, and the Philippines under a single data bundle. This is an
-        excellent choice for backpackers or travelers on a multi-country tour. It simplifies the entire process of staying
-        connected across borders.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  Indonesia eSIM for Emergencies
-    questions:
-    - q: Can I use my eSIM to call emergency services like 112 in Indonesia?
-      a: Yes, even though most travel eSIMs are data-only, they still allow you to call emergency numbers like 112. This is
-        a standard safety feature on all mobile phones, regardless of the SIM profile. Your phone will use any available network
-        to connect the emergency call. This provides a crucial safety net for travelers in any situation.
-    - q: What should I do if I lose my phone with the eSIM activated in Indonesia?
-      a: First, use another device to log into your eSIM provider's account portal to disable or suspend the eSIM profile.
-        This prevents anyone else from using your data. Next, contact your home carrier to report the loss and have your physical
-        SIM blocked. You can then purchase a new eSIM for a replacement phone if you have one. Having your account details
-        accessible is key in this situation.
-    - q: Is an eSIM a reliable backup if my physical SIM card stops working while in Indonesia?
-      a: Yes, an eSIM is an excellent backup to a physical SIM, as it provides a completely independent data connection. If
-        your physical SIM fails or you lose it, you can instantly rely on your eSIM for data and communication. This is a
-        common scenario that highlights the benefit of having a dual-SIM setup. It ensures you are never completely without
-        a connection.
-    - q: Can I use WhatsApp and FaceTime with Indonesia eSIM?
-      a: Yes! Indonesia eSIM supports WhatsApp audio/video calls, FaceTime, WeChat voice, and Zoom without any blocks. You
-        can stay in touch with family using your preferred messaging apps throughout your trip.
-    - q: Can I use my eSIM to contact my embassy or consulate in an emergency?
-      a: Yes, you can use your eSIM's data to make calls via WhatsApp or Skype, or to browse the web for contact information.
-        You can also use data-only eSIMs to send emails or messages through your embassy's website. This is a vital tool for
-        getting help in a foreign country. It provides a reliable and private way to reach official channels.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  Indonesia eSIM for Business Travelers
-    questions:
-    - q: Which eSIM plan is recommended for a business traveler who needs to attend video conferences in Indonesia?
-      a: For video conferencing, a plan with at least 20GB of data is recommended for a week-long trip. A 7-day 20GB plan
-        for $16.99 or a 15-day 20GB plan for $19.99 is ideal. Video calls on Zoom or Microsoft Teams can use about 1GB per
-        hour. This ensures you have enough data for multiple meetings without any connectivity issues.
-    - q: Can I use my eSIM for a business hotspot to connect my laptop while working from a cafe in Jakarta?
-      a: Yes, you can use your eSIM as a mobile hotspot for your laptop, which is perfect for working from cafes or co-working
-        spaces. The high-speed 5G/4G LTE connection is often more reliable than the cafe's free Wi-Fi. A 50GB plan for $37.99
-        is excellent for a business traveler who needs to stay productive. This gives you the freedom to work from anywhere.
-    - q: How stable is the eSIM connection for making VoIP calls for business purposes?
-      a: The eSIM connection is very stable for VoIP calls, especially on Telkomsel's robust network. You will experience
-        clear audio and minimal latency, making it suitable for professional calls. A consistent 4G or 5G signal ensures your
-        calls do not drop. This reliability is a key reason why business travelers choose a best eSIM for Indonesia.
-    - q: Is it possible to have a local Indonesian business number through an eSIM?
-      a: Some eSIM providers offer plans that include a local Indonesian phone number for receiving calls. This is very useful
-        for local business contacts. However, most standard travel eSIMs are data-only. If you need a local number, you may
-        need to look for a specialized eSIM product. For most business communication, a data-only eSIM with WhatsApp is sufficient.
-    - q: Can I use my eSIM to access company VPNs and secure business servers while in Indonesia?
-      a: Yes, you can use your eSIM's data connection to connect to your company's VPN without any issues. A private cellular
-        connection is more secure than public Wi-Fi for this purpose. The high-speed data ensures a fast and stable VPN connection
-        for accessing files and applications. This allows you to work securely and efficiently while traveling in Indonesia.
+    - q: |
+        How does Roami compare to Nomad for eSIM in Indonesia?
+      a: |
+        Roami typically offers better value for Indonesia eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Nomad. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+    - q: |
+        What are the cheapest eSIM options for a trip to Indonesia?
+      a: |
+        Roami Indonesia eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Thanks to Telkomsel's 5G network, streaming and video calls work great. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
+    - q: |
+        Is eSIM cheaper than international roaming for Indonesia?
+      a: |
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Indonesia costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+    - q: |
+        Can I use my Indonesia eSIM for social media and sharing photos with family?
+      a: |
+        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Telkomsel handle photos in seconds and short videos easily.
+    - q: |
+        Do I need to remove my physical SIM to use eSIM in Indonesia?
+      a: |
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Best of both worlds.
+    - q: |
+        What's the most popular eSIM choice for travelers going to Indonesia?
+      a: |
+        Most travelers to Indonesia choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
+    - q: |
+        What documents do I need to buy a Indonesia eSIM from Roami?
+      a: |
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+    - q: |
+        Can I check how much data I've used on my Indonesia eSIM?
+      a: |
+        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
 related_products:
   title: Related Indonesia eSIM Plans
   items:

@@ -1,7 +1,8 @@
 ---
-title: "Cambodia eSIM Guide | Smart, Cellcard or Metfone?"
-description: "Roami compares Cambodia's carriers for travel eSIM. 5G from Angkor to the coast. Find the fastest network."
-date: '2026-06-04T00:00:00+00:00'
+title: "Is 5G fast enough in Cambodia? An eSIM guide."
+description: "Roami helps you pick the right Cambodia eSIM. Compare Smart, Cellcard and MekongNet 5G speeds, coverage and travel-friendly plans for Cambodia."
+date: "2026-06-17T06:04:17+00:00"
+
 keywords: eSIM Kambodscha, prepaid data, 5G network, Smart, Cellcard, MekongNet, travel
   eSIM Cambodia
 site_name: Roami
@@ -330,24 +331,3 @@ cta_free_trial_note: Exclusive for new customers
 cta_free_trial_text: Free Kambodscha trial eSIM
 cta_free_trial_link: /free-esim/
 ---
-# Kambodscha eSIM: Keep your main number active
-
-> **💡 Short summary for travelers:** Seamless global roaming: cost‑effective 5G eSIM for multi‑country connectivity. Roami's Kambodscha eSIM leverages Smart's fastest mobile network (median download 59.76 Mbps, upload 12.04 Mbps) and Cellcard's top video streaming experience (score 73.10). Whether you are in Ta Khmau (fastest city, mobile 55.3 Mbps) or exploring remote temples, stay connected without roaming fees. Instant activation, no physical SIM swap.
-
-## Things you need to know before buying a Kambodscha eSIM
-
-
-### 1. Main 5G/4G frequency bands in Cambodia {#1-main-5g4g-frequency-bands-in-cambodia}
-Cambodia's mobile networks operate on bands: 4G LTE (B1, B3, B5, B8, B40) and 5G NR (n78, n41). Smart and Cellcard both support these bands. Ensure your device is compatible, especially if it is a non-Asian model.
-
-### 2. KYC requirements for eSIM activation {#2-kyc-requirements-for-esim-activation}
-All eSIM activations in Cambodia require valid identification (passport or national ID). You must upload a clear photo of your ID during the purchase process. Activation is usually instant after verification.
-
-### 3. Fair Usage Policy (FUP) and data limits {#3-fair-usage-policy-fup-and-data-limits}
-Most prepaid eSIM plans have a Fair Usage Policy. After exceeding a certain data threshold (e.g., 50 GB per month), speeds may be throttled to 1 Mbps. Check the specific plan details before purchase.
-
-### 4. Network coverage in rural and remote areas {#4-network-coverage-in-rural-and-remote-areas}
-Smart and Cellcard provide the widest 4G/5G coverage. However, in deep rural areas like Mondulkiri or Ratanakiri, signal may be weak. MekongNet is only available in urban fixed broadband zones.
-
-### 5. eSIM compatibility and dual SIM usage {#5-esim-compatibility-and-dual-sim-usage}
-Roami's eSIM works with most eSIM-compatible smartphones (iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer). You can keep your home SIM active for calls while using the eSIM for data.

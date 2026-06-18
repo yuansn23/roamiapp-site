@@ -350,252 +350,46 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: 'Egypt eSIM Guide 2026: Network & Travel Guide'
-  desc: From Cairo to Alexandria, stay connected on Orange, Vodafone, Etisalat networks. Our complete Egypt eSIM guide covers
-    coverage, plans, setup, and travel tips. Find the best plan for your trip.
+  title: "Egypt eSIM Plans & Pricing | Best Options for Travelers"
+  desc: "Planning Egypt travel? Our eSIM guide covers traveltomtom esim egypt, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1.  General Questions About Egypt eSIM
+    title: Egypt eSIM FAQs
     questions:
-    - q: Is Orange or Vodafone better for Egypt travel?
-      a: Both Orange and Vodafone offer excellent coverage across Egypt. Orange generally has wider rural coverage, while
-        Vodafone offers competitive 5G speeds in cities. For most travelers visiting Cairo, Alexandria, and the surrounding
-        areas, either network works well. If you plan to explore remote areas, Orange is typically the safer choice.
-    - q: How do I choose the best eSIM for Egypt based on my trip duration?
-      a: For a short 3-day business trip, a 1GB plan for $2.99 is ideal. A 7-day vacation might be best served by a 3GB plan
-        for $11.99. Those staying 30 days could consider a 10GB plan for $30.99. Always match the data amount to your expected
-        usage of maps and social media.
-    - q: What is the difference between a local eSIM and a global roaming eSIM?
-      a: A global eSIM like Roami offers seamless connectivity across multiple countries without changing SIMs. In Egypt,
-        it connects to strong local networks like Vodafone and Orange. A local eSIM might be cheaper for a single country
-        but requires a new purchase for each destination. Global eSIMs provide ultimate convenience for multi-country itineraries.
-    - q: Which local networks does a typical eSIM for Egypt use?
-      a: Most eSIM providers, including Roami, partner with major Egyptian carriers. You will commonly connect to Vodafone
-        Egypt, Orange Egypt, or Etisalat Egypt. These networks offer extensive 5G and 4G/LTE coverage in cities like Cairo
-        and along the Nile. This ensures you get high-speed data for your entire trip.
-    - q: Can I buy an eSIM for Egypt before my trip?
-      a: Absolutely, you can purchase your eSIM and install it before you depart. This allows you to be connected the moment
-        you land in Egypt. The plan only activates when you connect to a local network there. This pre-travel setup eliminates
-        any stress about finding a local SIM shop.
-    - q: Is an eSIM cheaper than buying a physical SIM card in Egypt?
-      a: eSIM plans can be very cost-effective, especially for short trips. For example, an unlimited 7-day plan is available
-        for $39.99. You also avoid the hassle of finding a store and dealing with physical cards. For many travelers, the
-        convenience and competitive pricing make eSIMs the best choice.
-    - q: Will my eSIM work in remote areas like the Western Desert?
-      a: Coverage in very remote desert areas can be limited for all carriers. In major cities, tourist sites, and along the
-        Red Sea coast, you will get excellent service. For deep desert expeditions, a satellite phone is still recommended.
-        Your eSIM will be perfect for 95% of standard tourist itineraries.
-    - q: How do I check my remaining data on my Egypt eSIM plan?
-      a: You can easily check your data balance through the provider's app or website. Most eSIMs also send you a text alert
-        when you are running low. This helps you manage your usage without any surprises. You can also purchase a top-up if
-        you need more data during your stay.
-    - q: What happens if my eSIM plan runs out of data before my trip ends?
-      a: You can simply purchase a new eSIM plan or a data top-up from the same provider. For instance, you could add a 3GB
-        7-day plan for $11.99. This is a quick and easy process done through their app. You do not need to buy a new SIM card
-        or visit a store.
-    - q: Can I use my eSIM for Egypt on more than one device?
-      a: An eSIM is tied to a single device by its unique eSIM profile. You cannot share one eSIM across multiple phones or
-        tablets. However, you can use your phone's hotspot feature to share data. This allows you to connect your laptop or
-        a friend's device to your internet connection.
-  - id: faq-airport
-    icon: airplane
-    tab_title: Airports
-    title: 2.  Egypt eSIM at Airports
-    questions:
-    - q: Will my eSIM work immediately at Cairo International Airport?
-      a: Yes, your eSIM will work as soon as you land at Cairo International Airport. It will connect to a local network like
-        Vodafone Egypt or Orange Egypt. This allows you to request an Uber or message your hotel right away. You will have
-        a robust data connection before you even reach the immigration queue.
-    - q: Are there Wi-Fi networks at Egyptian airports for initial eSIM setup?
-      a: Yes, most major Egyptian airports, including Cairo and Hurghada, offer free Wi-Fi. You can use this to complete your
-        eSIM activation if you haven't done so already. This is a reliable way to ensure you are connected. It is always best
-        to install your eSIM profile before your trip to avoid any issues.
-    - q: How does an eSIM compare to buying a local SIM at the airport?
-      a: Buying an eSIM is much faster than queuing at a kiosk for a physical SIM. With an eSIM, you avoid the potential language
-        barrier and currency exchange. You can also compare plans online and have a 10GB plan for $26.99 ready to go. The
-        convenience of an eSIM is a significant advantage for arriving travelers.
-    - q: What if I have a layover in Cairo before flying to another city?
-      a: Your eSIM will activate upon your first connection to an Egyptian network. You will have data during your entire
-        layover in Cairo. This is perfect for checking your next flight status or connecting to airport lounges. Your plan
-        will continue to work as you travel to your final destination within Egypt.
-    - q: Can I purchase an eSIM for Egypt while in the airport departure lounge?
-      a: Yes, you can purchase and install your eSIM from anywhere in the world. You can do this while sitting in a departure
-        lounge in another country. The plan will only start when you arrive in Egypt. This gives you the peace of mind of
-        being fully prepared before your flight.
-  - id: faq-transport
-    icon: train
-    tab_title: Transport
-    title: 3.  Egypt eSIM for Transport
-    questions:
-    - q: Can I use my eSIM for ride-sharing apps like Uber in Egypt?
-      a: Yes, your eSIM provides the high-speed data needed for ride-sharing apps. You can easily request an Uber or Careem
-        from Cairo Airport to your hotel. Your 5GB 15-day plan for $15.99 is perfect for this. You will not need to rely on
-        airport taxi stands or negotiate prices.
-    - q: Can I use Egypt eSIM for ride-hailing and maps?
-      a: Absolutely. Egypt eSIM works with ride-hailing apps and navigation. A 5GB/15 days plan ($4.99) covers daily navigation
-        and ride-booking during a typical trip. The 4G/5G connection ensures reliable real-time tracking and route updates.
-    - q: What about connectivity on Nile cruise boats?
-      a: Most Nile cruise boats offer Wi-Fi, but it is often slow and unreliable. Your eSIM will provide a much faster and
-        more consistent connection. You can use your unlimited 7-day plan for $39.99 to stay connected while sailing. This
-        allows you to post photos and videos from the deck in real-time.
-    - q: Is my eSIM data plan suitable for using Google Maps for driving?
-      a: Absolutely, a 3GB plan is more than enough for turn-by-turn navigation. You can download offline maps for Cairo and
-        other cities as a backup. This ensures you never get lost while exploring. The high-speed connection will also help
-        you find nearby gas stations and restaurants.
-    - q: Can I use my eSIM on the Cairo Metro?
-      a: Yes, the Cairo Metro has decent mobile coverage in most stations and tunnels. You will be able to use your data to
-        check schedules and exits. This is very helpful for navigating the busy metro system. Your eSIM ensures you are never
-        without a connection underground.
-  - id: faq-hotels
-    icon: building
-    tab_title: Hotels
-    title: 4.  Egypt eSIM for Hotels
-    questions:
-    - q: Why would I need an eSIM if my hotel has free Wi-Fi?
-      a: Hotel Wi-Fi in Egypt can be slow, unreliable, or require logins that expire. Your eSIM provides a private, high-speed
-        connection that works everywhere. You can use it to stream movies or have video calls without interruption. It is
-        a much more dependable option for internet access.
-    - q: Can I use my eSIM to check into my hotel before I arrive?
-      a: Yes, you can contact your hotel via messaging apps as soon as you land. Your eSIM allows you to confirm your check-in
-        time or ask for directions. This ensures a smooth arrival, even if you are arriving late at night. It is a great way
-        to start your trip without any hassle.
-    - q: Is an eSIM useful for finding and booking last-minute hotels?
-      a: Yes, having data on your eSIM lets you browse booking apps on the go. You can compare prices and read reviews before
-        committing to a hotel. This is especially useful when exploring new areas and wanting flexibility. Your stable connection
-        makes spontaneous travel decisions easy.
-    - q: What if I am staying at a remote resort on the Red Sea?
-      a: Most resorts in areas like Hurghada and Sharm El Sheikh have excellent coverage. Your eSIM will work perfectly on
-        the beach or by the pool. You can use your 20GB 30-day plan for $42.99 to stream music and videos. This ensures you
-        are connected even when the resort Wi-Fi is weak.
-    - q: Can I use my eSIM to make video calls back home from my hotel?
-      a: Yes, eSIM data is perfect for video calls on WhatsApp, FaceTime, or Zoom. The high-speed 5G/4G connection ensures
-        clear and stable calls. This is a great way to talk to family and friends without relying on hotel Wi-Fi. A 10GB plan
-        provides plenty of data for frequent video calling.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5.  Egypt eSIM for Attractions
-    questions:
-    - q: Will my eSIM work near the Pyramids of Giza?
-      a: Yes, the area around the Pyramids has excellent mobile coverage. You can use your data to look up history or post
-        photos instantly. An unlimited 3-day plan for $18.99 is great for a short visit to Cairo. You will have no problem
-        streaming or browsing near this major attraction.
-    - q: Can I use my eSIM to buy tickets online for the Egyptian Museum?
-      a: Yes, you can use your eSIM to purchase tickets for the Grand Egyptian Museum online. This helps you avoid long ticket
-        queues at the entrance. You will need a stable connection to complete the transaction. Your eSIM provides the reliable
-        data you need for this.
-    - q: Does my eSIM work inside the Valley of the Kings in Luxor?
-      a: Coverage can be patchy inside the tombs themselves due to the rock. However, you will have a good signal in the surrounding
-        valley and visitor center. You can use your data to read about the tombs before you enter. For most areas of this
-        famous attraction, your eSIM will be very useful.
-    - q: Is an eSIM helpful for navigating the Khan El Khalili market?
-      a: Yes, an eSIM is extremely helpful in the crowded, maze-like Khan El Khalili bazaar. You can use Google Maps to find
-        a specific shop or your way back out. It also lets you check prices online to help with bargaining. This makes exploring
-        the market much less stressful.
-    - q: Can I use my eSIM for live streaming at a temple like Karnak?
-      a: Yes, the data speeds at major temples like Karnak are usually excellent. You can live stream your tour or post high-resolution
-        photos. A 10GB 7-day plan for $26.99 is perfect for this kind of social media use. You will be able to share your
-        experiences in real time.
-  - id: faq-social
-    icon: message-circle
-    tab_title: Social & Messaging
-    title: 6.  Egypt eSIM for Social Media
-    questions:
-    - q: Can I access all my social media apps with an eSIM in Egypt?
-      a: Yes, all social media and messaging apps are fully accessible in Egypt. You can use Instagram, TikTok, WhatsApp,
-        and Facebook without any restrictions. Your eSIM provides the high-speed data needed for uploading photos and videos.
-        This keeps you connected with friends and family back home.
-    - q: How much data do I need for Egypt?
-      a: Light users (maps + messaging) ~300MB/day, moderate (social + photos) ~700MB/day, heavy (streaming + video calls)
-        choose Unlimited. Most visitors find 5GB/15 days ($4.99) comfortable for a standard trip to Egypt.
-    - q: Will an unlimited eSIM plan help me avoid data anxiety?
-      a: Yes, an unlimited data plan is the best way to use social media without worry. You can stream, post, and browse as
-        much as you like. The unlimited 7-day plan is $39.99, and the 15-day version is $94.99. This is perfect for heavy
-        users who want complete peace of mind.
-    - q: Can I use my eSIM for video calls on WhatsApp with my family?
-      a: Absolutely, your eSIM is perfect for high-quality video calls. The high-speed 5G/4G connection ensures your calls
-        are clear and stable. A 10GB plan provides ample data for several hours of video calling. This is a wonderful way
-        to share your travel experiences in real time.
-    - q: How does the data speed affect my social media experience?
-      a: High-speed data ensures that your apps load quickly and videos stream smoothly. You will not experience frustrating
-        buffering or long load times. This is especially important for apps like TikTok and Instagram Reels. A plan with high-speed
-        5G/4G/LTE provides the best possible experience.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7.  Egypt eSIM for Cross-Border Travel
-    questions:
-    - q: Can I use my Egypt eSIM if I have a layover in a different country?
-      a: A single-country eSIM for Egypt will only activate in Egypt. If you have a layover in another country, you will not
-        have data there. For multi-stop trips, a global eSIM is a much better option. This ensures you are connected throughout
-        your entire journey.
-    - q: Will my eSIM work if I take a day trip to Israel from Egypt?
-      a: No, a standard Egypt eSIM will not work in Israel or any other country. You would need a separate eSIM for that destination.
-        Some providers offer regional plans that cover the Middle East. For travel across borders, a regional or global plan
-        is the most convenient solution.
-    - q: What is the best eSIM for a trip to both Egypt and Jordan?
-      a: For a trip covering Egypt and Jordan, a regional Middle East eSIM is ideal. This allows you to use the same plan
-        in both countries without changing SIMs. This is much more convenient than buying two separate local eSIMs. It provides
-        seamless connectivity as you travel between the two nations.
-    - q: Can I purchase a global eSIM that covers Egypt and Europe?
-      a: Yes, many global eSIM plans include both Egypt and European countries. This is perfect for a traveler combining a
-        trip to Egypt with a European vacation. You will have one plan and one number for your entire journey. This simplifies
-        connectivity and avoids the need for multiple purchases.
-    - q: How do I manage data if I am crossing borders frequently?
-      a: A global eSIM is the best tool for frequent cross-border travel. It automatically connects to local networks in each
-        new country you enter. You do not need to manually switch settings or buy new plans. This provides a seamless and
-        hassle-free connectivity experience.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  Egypt eSIM for Emergencies
-    questions:
-    - q: Can I call emergency services with my eSIM in Egypt?
-      a: Yes, you can call local emergency numbers like 122 for the police. Your eSIM provides a data connection, which is
-        also essential for messaging. You can use apps to contact your embassy or hotel in an emergency. Having a reliable
-        data connection is a critical part of travel safety.
-    - q: Can I use WhatsApp and FaceTime with Egypt eSIM?
-      a: Yes! Egypt eSIM supports WhatsApp audio/video calls, FaceTime, WeChat voice, and Zoom without any blocks. You can
-        stay in touch with family using your preferred messaging apps throughout your trip.
-    - q: What if I have a medical emergency and need to find a hospital?
-      a: You can use your eSIM to quickly search for nearby hospitals or pharmacies. You can also call for an ambulance using
-        a messaging app if you cannot speak. Having data allows you to translate your symptoms or needs into Arabic. This
-        can be a lifesaver in a stressful medical situation.
-    - q: Can I use my eSIM to contact my travel insurance provider?
-      a: Yes, you can use your eSIM to call or message your travel insurance company. You can access their app to file a claim
-        or find a local doctor. This ensures you get the help you need as quickly as possible. A stable data connection is
-        essential for managing any travel emergency.
-    - q: Will my eSIM work if my hotel has a power outage?
-      a: Yes, your eSIM is independent of your hotel's infrastructure. You will still have data on your phone even if the
-        hotel loses power. This allows you to contact the front desk or find a nearby café. Your personal eSIM connection
-        is a reliable backup in any situation.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  Egypt eSIM for Business Travelers
-    questions:
-    - q: Is an eSIM suitable for a short business trip to Cairo?
-      a: Yes, an eSIM is perfect for a short business trip. A 3-day 1GB plan for $2.99 is ideal for checking emails and using
-        messaging apps. You have a dedicated, high-speed connection without relying on hotel Wi-Fi. This ensures you are productive
-        from the moment you arrive.
-    - q: Can I use my eSIM for professional video conferencing?
-      a: Yes, the high-speed data from your eSIM is excellent for video conferencing. You can join Zoom or Microsoft Teams
-        calls with clear video and audio. A 10GB plan provides enough data for several days of professional meetings. This
-        is a reliable alternative to potentially unstable office Wi-Fi.
-    - q: How do I keep my business and personal data separate?
-      a: Many phones support using an eSIM for data and a physical SIM for your work number. This keeps your bill and personal
-        life separate while traveling. You can also use the eSIM's data for all your business apps. This is a simple and effective
-        way to manage dual-use on one device.
-    - q: What is the most cost-effective plan for a two-week business trip?
-      a: For a 15-day trip, a 5GB plan for $15.99 is a great balance of cost and data. If you need more for heavy file transfers,
-        the 10GB plan for $23.99 is ideal. These plans provide high-speed connectivity for the entire duration. They are very
-        competitive compared to international roaming charges from your home carrier.
-    - q: Can I use my eSIM to access my company's VPN securely?
-      a: Yes, an eSIM provides a secure and private internet connection. You can easily connect to your company's VPN without
-        any issues. This allows you to access internal files and systems safely. The high-speed data ensures a smooth and
-        responsive connection to your corporate network.
+    - q: |
+        Which network in Egypt has the best coverage for travelers — Orange, Vodafone, or Etisalat?
+      a: |
+        Egypt has three main carriers: Orange, Vodafone, and Etisalat. Orange reaches about 95% of the population with 4G/5G. Vodafone covers roughly 90% but has stronger rural reach. Etisalat offers competitive pricing, often 15-20% cheaper than Orange. Egypt uses 5G on n78 band covering Cairo and Alexandria Roami automatically connects you to whichever is strongest at your location.
+    - q: |
+        How does Roami compare to Nomad for eSIM in Egypt?
+      a: |
+        Roami typically offers better value for Egypt eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Nomad. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+    - q: |
+        How much should I budget for an eSIM when visiting Egypt?
+      a: |
+        Roami offers Egypt eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Orange provides reliable speeds across Egypt. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+    - q: |
+        Is the unlimited eSIM plan for Egypt worth it, or would a fixed data plan be better?
+      a: |
+        Roami's unlimited plan has a fair cap: 30GB per day, after which speed drops to 512 kbps until midnight. Most travelers use 500MB to 3GB daily — hitting 30GB means streaming 4K video for 10 hours straight. For regular browsing, maps, and social media, a 5GB or 10GB plan is plenty. Choose unlimited if you plan heavy streaming or hotspot sharing.
+    - q: |
+        What if I accidentally delete my Egypt eSIM before my trip?
+      a: |
+        No problem. Log into your Roami account and request the QR code again. We recommend saving the QR code as a screenshot or PDF when you first receive it, just in case.
+    - q: |
+        What documents do I need to buy a Egypt eSIM from Roami?
+      a: |
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+    - q: |
+        How much data does a typical traveler actually use per day in Egypt?
+      a: |
+        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+    - q: |
+        What's the easiest way to stay connected in Egypt without dealing with airport SIM kiosks?
+      a: |
+        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Orange for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
 related_products:
   title: Related Egypt eSIM Plans
   items:

@@ -1,7 +1,8 @@
 ---
-title: "Cambodia eSIM Guide | Smart, Cellcard or Metfone?"
-description: "Planen Sie eine Reise nach Kambodscha? Roami ist der ideale Begleiter, um unterwegs verbunden zu bleiben. Deckt alle Regionen ab."
-date: '2026-06-14T00:00:00+00:00'
+title: "Reisen Sie nach Kambodscha? Finden Sie die beste eSIM."
+description: "Mit Roami den perfekten Kambodscha eSIM Anbieter finden. Wir vergleichen Smart und Cellcard – von der Stadt bis aufs Land in Kambodscha."
+date: "2026-06-17T06:04:19+00:00"
+
 keywords: eSIM Kambodscha, Prepaid Daten, 5G Netz, Smart, Cellcard, MekongNet, Reise
   eSIM, Roami
 site_name: Roami
@@ -334,24 +335,3 @@ cta_free_trial_note: Exklusiv für Neukunden
 cta_free_trial_text: Kostenlose Kambodscha Test-eSIM
 cta_free_trial_link: /free-esim/
 ---
-# Kambodscha eSIM: Schnelle Aktivierung ohne physische SIM-Karten
-
-> **💡 Kurzzusammenfassung für Reisende:** Sorgenfreie weltweite Geschäftsreisen: Eine eSIM für Hochgeschwindigkeitsnetzwerke in mehreren Ländern. Mit Roami und der Kambodscha eSIM surfen Sie im schnellsten Mobilfunknetz des Landes – Smart erreicht laut aktuellen Speedtest-Daten eine Median-Downloadrate von 59,76 Mbps. Ob in Phnom Penh, Siem Reap oder Ta Khmau: Genießen Sie zuverlässige Konnektivität ohne physische SIM-Karte und ohne Roaming-Gebühren. Ideal für Geschäftsreisende, die auf stabile Videoanrufe und schnelle Datenübertragung angewiesen sind.
-
-## Dinge, die Sie vor dem Kauf einer Kambodscha eSIM wissen müssen
-
-
-### 1. 5G/4G-Frequenzbänder: Kompatibilität prüfen {#1-5g4g-frequenzbänder-kompatibilität-prüfen}
-Kambodschanische Netze nutzen hauptsächlich die Bänder 1800 MHz (B3), 2100 MHz (B1) und 2600 MHz (B7) für 4G/LTE. 5G wird auf n78 (3500 MHz) ausgebaut. Die meisten modernen Smartphones unterstützen diese Bänder. Prüfen Sie vor Kauf, ob Ihr Gerät diese Frequenzen beherrscht.
-
-### 2. Registrierungspflicht (KYC): Ohne Ausweis kein Netz {#2-registrierungspflicht-kyc-ohne-ausweis-kein-netz}
-In Kambodscha gilt eine strikte Identifikationspflicht (Know Your Customer). Sie müssen bei Aktivierung einer eSIM Ihren Reisepass oder Personalausweis angeben. Roami übernimmt die digitale Verifikation – Sie müssen kein Dokument physisch vorlegen.
-
-### 3. Fair-Use-Policy (FUP): Drosselung nach Volumen {#3-fair-use-policy-fup-drosselung-nach-volumen}
-Die meisten Tarife haben eine Fair-Use-Grenze. Nach Überschreiten eines bestimmten Datenvolumens (z. B. 10 GB pro Tag) wird die Geschwindigkeit gedrosselt. Achten Sie auf Tarife mit „unlimited“ – diese sind oft nach 10–20 GB auf 2G/3G-Niveau begrenzt.
-
-### 4. Netzabdeckung: Stadt vs. Land {#4-netzabdeckung-stadt-vs-land}
-Smart und Cellcard decken Städte wie Phnom Penh, Siem Reap und Sihanoukville hervorragend ab. In ländlichen Regionen (z. B. Mondulkiri, Ratanakiri) kann die Abdeckung lückenhaft sein. Smart hat laut Speedtest die beste Konsistenz (90,8 %).
-
-### 5. Roaming-Gebühren: eSIM vermeidet teure Auslandstarife {#5-roaming-gebühren-esim-vermeidet-teure-auslandstarife}
-Mit einer lokalen eSIM von Roami zahlen Sie keine Roaming-Gebühren. Sie erhalten eine kambodschanische IP-Adresse und surfen zu Inlandspreisen. Ideal für längere Aufenthalte oder Geschäftsreisen.

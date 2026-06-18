@@ -382,266 +382,46 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: 'Belgium eSIM Guide 2026: Network & Travel Guide'
-  desc: From Brussels to Antwerp, stay connected on Proximus, Orange Belgium, Telenet networks. Our complete Belgium eSIM
-    guide covers coverage, plans, setup, and travel tips. Find the best plan for your trip.
+  title: "Belgium eSIM: What Travelers Need to Know | Plans & Setup"
+  desc: "Planning Belgium travel? Our eSIM guide covers belgium esim providers, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1.  General Questions About Belgium eSIM
+    title: Belgium eSIM FAQs
     questions:
-    - q: How do I choose the right data plan for my trip to Belgium?
-      a: Selecting the best plan depends on your stay length and data habits. For a short weekend, a 3-day plan with 3GB costs
-        $3.99, while a 7-day 5GB option is $6.99 for more extensive sightseeing. Longer vacations might benefit from a 30-day
-        20GB plan at $21.99 or a 50GB plan at $39.99 to cover heavy usage. Always consider if you need high-speed data for
-        streaming or just basic navigation and messaging.
-    - q: Can I activate my eSIM immediately after landing in Belgium?
-      a: Yes, you can activate it right away once you arrive in Belgium. Our eSIM activates within minutes of connecting to
-        a local network like Orange or Base. Simply ensure your phone is unlocked and has an internet connection, such as
-        airport Wi-Fi, for the initial setup. This process gives you instant access to data as soon as you step off the plane.
-    - q: Which local networks does a Belgium eSIM use?
-      a: A prepaid eSIM for Belgium typically connects to major local operators like Proximus, Orange, and Base. These networks
-        provide extensive 5G and 4G/LTE coverage across the country, from cities to rural areas. Your eSIM will automatically
-        select the strongest signal, ensuring reliable data performance. This flexibility means you benefit from the same
-        infrastructure used by Belgian residents without needing a physical SIM card.
-    - q: Is my phone compatible with an eSIM card for Belgium?
-      a: Most modern smartphones from Apple, Samsung, Google, and other brands support eSIM technology. You can check your
-        phone's settings under 'Mobile Network' or 'Cellular' to see if an 'Add eSIM' option exists. Ensure your device is
-        unlocked from its original carrier, as locked phones may not accept foreign eSIM profiles. If you have an older model,
-        you might need a physical SIM instead, but the majority of recent devices are compatible.
-    - q: How does data speed work on a Belgium eSIM?
-      a: All our plans offer high-speed 5G, 4G, and LTE connectivity on networks like Proximus and Orange. You will experience
-        fast download and upload speeds suitable for video calls, streaming, and social media. Once you use up your high-speed
-        data allowance, your connection may slow down, but you can always top up with a new plan. This ensures you have consistent
-        internet access without worrying about unexpected overage charges.
-    - q: Can I keep my regular SIM card in my phone while using an eSIM in Belgium?
-      a: Yes, you can use both a physical SIM and an eSIM simultaneously in dual-SIM mode. Your regular SIM can handle calls
-        and texts on your home number, while the eSIM provides data in Belgium. This setup is perfect for receiving verification
-        codes or staying reachable on your primary line. Just configure your phone to use the eSIM for mobile data and your
-        physical SIM for voice services.
-    - q: Do I need a new email address to set up an eSIM for Belgium?
-      a: No, you do not need a new email address to purchase or install an eSIM. You will use your existing email to receive
-        the QR code or activation details for your plan. The setup process is straightforward and requires no additional accounts.
-        This simplicity allows you to get connected within minutes of your purchase.
-    - q: What happens if I run out of data on my Belgium eSIM plan?
-      a: If you exhaust your data allowance, you can easily purchase a new eSIM plan from our website. You do not need to
-        remove your current eSIM profile; simply install a new one on top of it. Plans start as low as $1.99 for 1GB over
-        3 days for a quick top-up. This flexibility means you are never left without internet access during your travels.
-    - q: Can I use a Belgium eSIM for tethering or hotspot sharing?
-      a: Yes, you can use your eSIM data for tethering and sharing a hotspot with other devices. This is useful for connecting
-        a laptop or tablet to the internet while on the go. However, heavy tethering can consume data quickly, so monitor
-        your usage if you have a limited plan. Our high-capacity options like the 100GB plan at $54.99 are ideal for users
-        who need to share their connection frequently.
-    - q: How do I install and manage my eSIM profile for Belgium?
-      a: After purchase, you will receive a QR code via email that you scan using your phone's settings. On an iPhone, go
-        to Settings > Cellular > Add Cellular Plan, and on Android, navigate to Settings > Connections > SIM Manager. The
-        profile installs automatically, and you can label it for easy identification, such as 'Belgium Data.' Managing it
-        is simple, as you can enable or disable the eSIM at any time without affecting your home SIM.
-  - id: faq-airport
-    icon: airplane
-    tab_title: Airports
-    title: 2.  Belgium eSIM at Airports
-    questions:
-    - q: Can I get a Belgium eSIM right at Brussels Airport (BRU)?
-      a: Yes, you can purchase and install our eSIM before you even leave the airport. While there are no physical kiosks
-        for our service, you can buy it online using the free Wi-Fi at Brussels Airport. The activation takes just minutes,
-        so you will have data instantly upon landing. This is much more convenient than searching for a physical SIM card
-        vending machine.
-    - q: What data plan is best for a quick layover at Brussels Airport?
-      a: For a short layover, a 3-day plan with 1GB for $1.99 is more than enough to check emails and browse the web. If you
-        need to stream video or make video calls, consider the 3-day 3GB option at $3.99. These plans activate immediately,
-        ensuring you stay connected during your wait. You will have plenty of data to navigate the airport and contact your
-        next destination.
-    - q: Is there Wi-Fi at Belgian airports to help me set up my eSIM?
-      a: Yes, airports like Brussels (BRU), Charleroi (CRL), and Antwerp (ANR) offer free Wi-Fi for passengers. You can use
-        this connection to purchase and install your eSIM right after arriving. The Wi-Fi is generally reliable, making the
-        setup process smooth and hassle-free. This eliminates the need for a local SIM card upon landing.
-    - q: Do I need to visit a store at the airport to get a Belgium eSIM?
-      a: No, you do not need to visit any store or kiosk at the airport. Our eSIM is entirely digital and can be purchased
-        online from anywhere in the world. You can buy it before your flight or immediately after landing using airport Wi-Fi.
-        This saves you time and effort, allowing you to head straight to your destination.
-    - q: Can I buy a Belgium eSIM for someone else at the airport?
-      a: Yes, you can purchase an eSIM for a travel companion as a gift or for convenience. You will need their email address
-        to receive the activation QR code. They can then install it on their own phone at the airport using the free Wi-Fi.
-        This is a great way to ensure everyone in your group is connected right away.
-  - id: faq-transport
-    icon: train
-    tab_title: Transport
-    title: 3.  Belgium eSIM for Transport
-    questions:
-    - q: Will my eSIM work on high-speed trains like Thalys and Eurostar in Belgium?
-      a: Yes, your eSIM will work seamlessly on high-speed trains such as Thalys and Eurostar. The network coverage along
-        the rail lines is excellent, allowing for uninterrupted browsing and streaming. However, you may experience brief
-        dropouts in tunnels or very remote areas. For consistent connectivity, a plan with 10GB or more is recommended for
-        long train journeys.
-    - q: Can I use Belgium eSIM for ride-hailing and maps?
-      a: Absolutely. Belgium eSIM works with ride-hailing apps and navigation. A 5GB/15 days plan ($4.99) covers daily navigation
-        and ride-booking during a typical trip. The 4G/5G connection ensures reliable real-time tracking and route updates.
-    - q: What is the best eSIM plan for navigating Belgium by car?
-      a: For driving, a 15-day 20GB plan at $21.99 provides ample data for GPS navigation and streaming music. You will need
-        reliable data for real-time traffic updates on apps like Google Maps or Waze. The high-speed connection ensures your
-        route recalculates quickly if you take a wrong turn. Consider the 30-day 30GB plan at $29.99 for longer road trips
-        across the country.
-    - q: Does the eSIM work on the Brussels metro and underground stations?
-      a: Yes, you will get data coverage on most of the Brussels metro network, including underground stations. Operators
-        like Proximus and Orange have installed repeaters to ensure connectivity. You can browse, message, and use apps without
-        interruption while traveling between stations. This is particularly useful for checking schedules or finding your
-        way out of a complex station.
-    - q: Can I share my eSIM data connection with other devices in the car?
-      a: Yes, you can enable the personal hotspot feature on your phone to share data with passengers. This allows others
-        to use your eSIM for their own navigation or entertainment. Be mindful that sharing data will consume your plan's
-        allowance faster. A 50GB plan at $39.99 is a great choice for a group trip, ensuring everyone stays online.
-  - id: faq-hotels
-    icon: building
-    tab_title: Hotels
-    title: 4.  Belgium eSIM for Hotels
-    questions:
-    - q: Do I still need an eSIM if my hotel offers free Wi-Fi?
-      a: While hotel Wi-Fi is useful, it often has speed limits or requires login each time. An eSIM gives you a private,
-        high-speed connection that works everywhere in your room. You can stream in 4K or work without interruptions from
-        other guests. It also ensures you have data when you leave the hotel for sightseeing.
-    - q: Can I use my eSIM to stream Netflix in my hotel room in Belgium?
-      a: Yes, with a plan like the 30-day 20GB option at $21.99, you can easily stream several movies in HD. Higher-tier plans
-        like 50GB at $39.99 offer even more buffer for binge-watching. The high-speed 5G/4G/LTE connection ensures smooth
-        playback without buffering. This is perfect for winding down after a day of exploring cities like Bruges or Ghent.
-    - q: What if the hotel Wi-Fi is slow, can my eSIM be a backup?
-      a: Absolutely, your eSIM acts as a perfect backup for slow or unreliable hotel Wi-Fi. You can simply switch your phone's
-        mobile data on to bypass the hotel network. This ensures you are always connected for important tasks or entertainment.
-        It provides peace of mind, especially in older hotels with poor internet infrastructure.
-    - q: Is it safe to use hotel Wi-Fi for banking, or should I use my eSIM?
-      a: It is safer to use your eSIM data for sensitive transactions like online banking. Hotel Wi-Fi networks can be less
-        secure and vulnerable to snooping. Your eSIM provides a private, encrypted connection directly to the mobile network.
-        This reduces the risk of personal data being intercepted by malicious actors on the same network.
-    - q: Can I install my eSIM while waiting to check into my hotel?
-      a: Yes, you can install your eSIM at the airport or on the train before you reach your hotel. The activation process
-        takes just a few minutes and requires only an internet connection. This means you will have data immediately upon
-        arrival, ready to use for ride-sharing apps or check-in instructions. It makes your arrival smoother and more efficient.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5.  Belgium eSIM for Attractions
-    questions:
-    - q: Will my eSIM work inside the Atomium in Brussels?
-      a: Yes, you will have reliable data coverage inside the Atomium and its surrounding park. You can share photos of the
-        iconic structure in real-time on social media. The high-speed connection allows you to look up historical facts or
-        use the official audio guide app. A 5GB plan is more than sufficient for a full day of sightseeing at major attractions.
-    - q: Can I use my eSIM to buy tickets online for the Grand Place museums?
-      a: Absolutely, you can use your eSIM data to purchase tickets for the Grand Place museums and other attractions online.
-        This helps you skip long queues and secure timed entry slots. With high-speed 5G/4G/LTE, the payment process is quick
-        and secure. A small data plan like the 3GB option for $5.99 over 15 days can handle multiple ticket purchases.
-    - q: Does the eSIM work at the battlefields of Waterloo?
-      a: Yes, the network coverage at the Waterloo battlefield site is good, allowing for browsing and navigation. You can
-        use data to access augmented reality apps or historical guides. The open fields generally have strong signals from
-        towers in the area. This ensures you stay connected while exploring this historic landmark.
-    - q: What is the best plan for a day trip to Bruges or Ghent?
-      a: For a day trip, a 3GB plan for 3 days at $3.99 or a 5GB plan for 7 days at $6.99 is ideal. You will need data for
-        navigation, restaurant reviews, and posting photos. These plans offer plenty of high-speed data without costing too
-        much. They ensure you can explore the canals and medieval architecture without worrying about connectivity.
-    - q: Can I stream a live video from the Belgian coast without buffering?
-      a: Yes, with a plan that includes 10GB or more, you can stream live video from the Belgian coast without issues. Networks
-        like Proximus provide strong coverage along the coastline. A 15-day 10GB plan at $10.99 offers enough data for multiple
-        live streams. This is perfect for sharing your experience at the beach or in coastal towns like Ostend.
-  - id: faq-social
-    icon: message-circle
-    tab_title: Social & Messaging
-    title: 6.  Belgium eSIM for Social Media
-    questions:
-    - q: Which social media apps work best with a Belgium eSIM?
-      a: All major social media apps like Instagram, TikTok, Facebook, and X work flawlessly on our eSIM. The high-speed 5G/4G/LTE
-        connection ensures fast uploads and smooth scrolling. You can post stories, send direct messages, and browse feeds
-        without delays. A 5GB plan is usually enough for a week of moderate social media use.
-    - q: How much data do I need for Belgium?
-      a: Light users (maps + messaging) ~300MB/day, moderate (social + photos) ~700MB/day, heavy (streaming + video calls)
-        choose Unlimited. Most visitors find 5GB/15 days ($4.99) comfortable for a standard trip to Belgium.
-    - q: Will my eSIM work for live streaming on Instagram or TikTok?
-      a: Yes, you can live stream on Instagram or TikTok with a reliable eSIM connection. For the best experience, choose
-        a plan with at least 10GB to handle the data-intensive uploads. The 30-day 20GB plan at $21.99 is a great option for
-        regular streamers. This ensures your broadcasts are clear and without major interruptions.
-    - q: How much data does social media browsing typically use in Belgium?
-      a: Browsing social media apps like Facebook or Instagram uses roughly 100-200 MB per hour. Watching videos on these
-        platforms can consume up to 500 MB per hour. A 5GB plan for $6.99 over 7 days will cover daily browsing and occasional
-        video viewing. For heavy users, a larger plan like 50GB at $39.99 ensures you never run out during your trip.
-    - q: Can I use dating apps like Tinder or Bumble with my eSIM?
-      a: Yes, your eSIM works perfectly with dating apps like Tinder and Bumble. The high-speed data allows for quick profile
-        loading and instant messaging. You can also use the location-based features to find matches in your area. A small
-        1GB plan is sufficient for a few days of casual app use.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7.  Belgium eSIM for Cross-Border Travel
-    questions:
-    - q: Can I use my Belgium eSIM in neighboring countries like France or Germany?
-      a: Our standard Belgium eSIM is designed for use within Belgium only. If you plan to visit France, Germany, or the Netherlands,
-        you will need a separate eSIM for those countries. We offer regional or global plans that cover multiple countries
-        for multi-destination trips. Always check the coverage details before you travel to ensure seamless connectivity.
-    - q: What happens to my data when I cross the border from Belgium to the Netherlands?
-      a: If you only have a Belgium-specific eSIM, your data will stop working once you cross into the Netherlands. You will
-        need to activate a new eSIM for the Netherlands to stay connected. We recommend planning ahead and purchasing a plan
-        for each country you visit. This avoids any interruption in service during your journey.
-    - q: Is there a multi-country eSIM plan that includes Belgium and its neighbors?
-      a: Yes, we offer regional eSIM plans that cover Belgium along with other European countries. These plans are perfect
-        for travelers exploring multiple destinations like Brussels, Paris, and Amsterdam. They provide a single data pool
-        that works across borders without changing SIMs. Check our website for the latest regional options to suit your itinerary.
-    - q: Will my eSIM work on a day trip to Luxembourg from Belgium?
-      a: No, a Belgium-only eSIM will not work in Luxembourg. You would need a separate plan for Luxembourg or a regional
-        European plan. If you are just on a day trip, consider a small 1GB plan for Luxembourg to cover basic needs. Planning
-        this way ensures you have coverage exactly where you need it.
-    - q: Can I use the same eSIM for a trip that starts in Belgium and ends in Germany?
-      a: For a trip covering both Belgium and Germany, you would need two separate eSIMs or a regional plan. Our regional
-        European plans often include both countries, providing continuous coverage. This is more convenient than switching
-        between different local profiles. Always verify the coverage map of your chosen plan before departure.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  Belgium eSIM for Emergencies
-    questions:
-    - q: Can I rely on my eSIM data to contact emergency services in Belgium?
-      a: You can call the European emergency number 112 without a SIM card or data plan, as it is a free call. For non-emergency
-        situations, your eSIM data allows you to search for hospitals or police stations online. You can also use messaging
-        apps to contact your embassy or travel insurance provider. Having an eSIM ensures you have access to information and
-        communication during unexpected events.
-    - q: Can I use WhatsApp and FaceTime with Belgium eSIM?
-      a: Yes! Belgium eSIM supports WhatsApp audio/video calls, FaceTime, WeChat voice, and Zoom without any blocks. You can
-        stay in touch with family using your preferred messaging apps throughout your trip.
-    - q: Will my eSIM work if I lose my wallet and need to access online banking?
-      a: Yes, your eSIM will provide a secure internet connection for you to access online banking apps. This is crucial for
-        freezing lost cards or transferring funds. The private network is safer than public Wi-Fi for financial transactions.
-        You can also use it to contact your bank's customer service via their app or website.
-    - q: Can I use my eSIM to find the nearest hospital or pharmacy in Belgium?
-      a: Absolutely, you can use your eSIM data to search for nearby hospitals, pharmacies, or emergency clinics on Google
-        Maps. The high-speed connection loads results and directions quickly. This is especially helpful in unfamiliar cities
-        where you might not know where to go. A small amount of data, like a 1GB plan, is sufficient for these critical searches.
-    - q: How do I get a replacement eSIM if my phone is lost or stolen?
-      a: If your phone is lost or stolen, you can purchase a new eSIM on our website using a computer or another device. You
-        will need to provide the email address for the new QR code. Once you have a new phone, you can install the profile
-        again. This process is fast, ensuring you regain connectivity as soon as possible.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  Belgium eSIM for Business Travelers
-    questions:
-    - q: What is the best eSIM plan for a short business trip to Brussels?
-      a: For a quick business trip, a 3-day 3GB plan at $3.99 or a 7-day 5GB plan at $6.99 is ideal. These provide enough
-        data for emails, video calls, and navigation between meetings. The high-speed 5G/4G/LTE connection ensures you can
-        join Zoom or Teams calls without issues. This keeps you productive without a large upfront cost.
-    - q: Can I use my eSIM for VPN connections to my company's network?
-      a: Yes, our eSIM supports VPN connections, allowing you to securely access your company's internal network. The high-speed
-        data ensures a stable connection for remote desktop or file transfers. A plan with 10GB or more is recommended for
-        heavy VPN usage. This gives you the same security and functionality as a corporate connection.
-    - q: Will my eSIM work at business conferences and convention centers in Belgium?
-      a: Yes, you will have strong data coverage at major convention centers like Brussels Expo or Palais des Congrès. The
-        high-speed connection allows you to access conference materials, live-stream keynotes, and network on LinkedIn. It
-        is often more reliable than the crowded event Wi-Fi. A 10GB plan for $10.99 over 15 days will cover several days of
-        heavy conference usage.
-    - q: Can I manage multiple work communication apps with a single eSIM plan?
-      a: Absolutely, a single eSIM plan can handle apps like Slack, Microsoft Teams, and Outlook simultaneously. The high-speed
-        data ensures you receive instant notifications and can send large files. A 50GB plan at $39.99 is perfect for a business
-        traveler who needs constant connectivity. This eliminates the need for multiple SIMs or roaming packages.
-    - q: Is it possible to switch my eSIM between my personal and work phone?
-      a: An eSIM profile is tied to a single device and cannot be transferred between phones. You would need a separate eSIM
-        for each device you want to use. However, you can purchase multiple plans for different phones under the same account.
-        This is useful if you carry both a personal and a work phone while traveling in Belgium.
+    - q: |
+        Is it safe to upload my passport for Belgium eSIM registration? I'm concerned about privacy.
+      a: |
+        Belgium requires identity verification by law. Belgium requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Belgium.
+    - q: |
+        Can I get an eSIM for Belgium without spending too much?
+      a: |
+        Absolutely. Roami's Belgium eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+    - q: |
+        How many eSIM profiles can I store on my phone for traveling to Belgium?
+      a: |
+        Most phones store 5-10 eSIM profiles. You can keep your Belgium eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes seconds.
+    - q: |
+        Can I install my Belgium eSIM at the airport, or should I do it before leaving home?
+      a: |
+        Do it before you leave. Installing needs internet — easy at home on WiFi, tricky at an airport where the WiFi often requires SMS verification. The eSIM QR code arrives by email within minutes of purchase. Scan it in your phone settings and you're ready. At Belgium's airport, just enable Data Roaming and you'll connect automatically.
+    - q: |
+        Can I use navigation apps like Google Maps with eSIM in Belgium?
+      a: |
+        Yes — real-time navigation, traffic updates, and public transit info all work. As a backup, download offline maps for Belgium before you go.
+    - q: |
+        What documents do I need to buy a Belgium eSIM from Roami?
+      a: |
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+    - q: |
+        How do I know if my Belgium eSIM plan is active and ready to use?
+      a: |
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Belgium — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+    - q: |
+        How does eSIM compare to pocket WiFi for Belgium travel?
+      a: |
+        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip. Pocket WiFi works for groups, but you're tied to one device and need to keep it charged. With eSIM, your phone is your hotspot. Roami plans include free hotspot sharing.
 related_products:
   title: Related Belgium eSIM Plans
   items:

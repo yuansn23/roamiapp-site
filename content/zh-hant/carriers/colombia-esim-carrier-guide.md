@@ -1,7 +1,8 @@
 ---
-title: "哥倫比亞 eSIM 電信方案比較 | Claro/Movistar/Tigo 5G上網推薦"
-description: "比較哥倫比亞三大電信Claro、Movistar、Tigo的5G上網方案價格與覆蓋。Roami整理哥倫比亞eSIM業者資訊，幫助您選擇最適合旅行上網的方案，最低$1.99起。"
-date: "2026-06-17T10:05:51+00:00"
+title: "去哥倫比亞旅遊 eSIM 怎麼挑？5G 速度與價格完整分析。"
+description: "Roami 整理了哥倫比亞三大電信 Claro、Movistar 和 Tigo 的 eSIM 方案，從 5G 覆蓋範圍、上網速度和方案價格全面分析，幫助您找到最適合哥倫比亞旅遊的 eSIM。"
+date: "2026-06-17T06:15:09+00:00"
+
 keywords: "eSIM 哥倫比亞，預付數據，5G 網路，Claro，Movistar，Tigo，Envigado，旅遊 eSIM"
 site_name: "Roami"
 brand_name: "Roami"
@@ -47,7 +48,6 @@ sidebar_links:
   - href: "#data-sources"
     text: "數據來源"
 
-
 # 快速決策表格
 quick_picks_title: "快速選擇：哥倫比亞 該選哪家 eSIM 營運商？"
 quick_picks_table_headers:
@@ -86,7 +86,6 @@ quick_picks:
     carrier: "Claro"
     carrier_class: "text-green-600"
     reason: "Claro 不僅效能領先，且一致性最佳（85% 樣本達標），確保在偏遠地區也能維持基本連線，適合預算有限但仍需穩定網路的旅客。"
-
 
 # 主要按鈕文案
 cta_button_main_text: "查看 哥倫比亞 最優惠旅行 eSIM"
@@ -128,7 +127,6 @@ operators:
     user_scenarios: "- **[波哥大國際機場]**：抵達後立即啟用 Tigo eSIM，5G 高速下載讓您快速取得 Uber 或地圖，無需等待。\n- **[麥德林地鐵]**：在地鐵移動中，Tigo 的 5G 低延遲讓您流暢觀看 YouTube 或玩線上遊戲。\n- **[巴蘭基亞狂歡節]**：在數十萬人聚集的活動現場，Tigo 的 5G 一致性確保您能順利直播慶典盛況。"
     bg_color: "bg-purple-50"
 
-
 # 三張卡片
 cards_compatibility_title: "檢查 哥倫比亞 eSIM 相容性清單"
 cards_compatibility_desc: "了解您的手機是否支援 哥倫比亞 eSIM 與當地 5G 頻段"
@@ -159,7 +157,6 @@ before_buy_sections:
 
   - heading: "5. eSIM 啟用與疑難排解"
     content: "Roami eSIM 採用 QR code 啟用，步驟如下：1) 購買後收到含 QR code 的郵件；2) 連線 Wi-Fi 後掃描 QR code 加入行動方案；3) 抵達哥倫比亞後開啟數據漫遊。若無法連線，請手動選擇營運商（Claro、Movistar 或 Tigo），或檢查 APN 設定。Roami 提供 24/7 中文客服協助。"
-
 
 # 城市推薦表格
 city_guide_title: "城市指南：哥倫比亞 最佳 eSIM"
@@ -241,7 +238,6 @@ faq:
   - q: "如果我的哥倫比亞 eSIM 安裝成功後無法找到網路，該怎麼辦？"
     a: "若 eSIM 安裝成功但無法連網，請依序嘗試以下步驟：1) 確認已開啟數據漫遊（設定 > 行動數據 > 數據漫遊）。2) 手動選擇營運商：在網路選擇中關閉「自動」，手動選取 Claro、Movistar 或 Tigo。3) 檢查 APN 設定：部分方案需手動輸入 APN（通常為「internet」或「web」），請參閱 Roami 提供的設定指南。4) 重新啟動手機。5) 若仍無效，請聯繫 Roami 24/7 中文客服，提供您的訂單編號與裝置型號，我們將遠端協助排除問題。"
 
-
 # 迷思
 myths_title: "⚠️ 哥倫比亞 eSIM 常見迷思與事實"
 myth_label: "❌ 迷思："
@@ -262,7 +258,6 @@ myths:
 
   - myth: "哥倫比亞的網路在節慶期間會完全癱瘓。"
     truth: "雖然大型活動（如巴蘭基亞狂歡節）會造成暫時性壅塞，但 Tigo 的 5G 一致性高達 93.2%，Claro 也有 85%，仍能維持基本連線。建議避開尖峰時段使用高頻寬應用。"
-
 
 # 數據來源
 data_sources_title: "哥倫比亞 行動網路數據來源"
@@ -291,25 +286,3 @@ cta_free_trial_text: "哥倫比亞 免費試用 eSIM"
 cta_free_trial_link: "/free-esim/"
 
 ---
-
-# 哥倫比亞 eSIM：自助探險家的最佳選擇
-
-> **💡 旅行者摘要：** 【無憂全球商務差旅：一張 eSIM 暢遊多國高速網路】Roami 的哥倫比亞 eSIM 讓您無需更換實體 SIM 卡，即可在抵達後立即連上 Claro 與 Movistar 的頂級網路。根據 Ookla 2025 下半年報告，Claro 行動網路中位下載速度達 44.26 Mbps，上傳 14.03 Mbps，並獲得最佳行動網路獎；Movistar 固網中位下載更高達 308.37 Mbps。無論您是在波哥大進行視訊會議、在麥德林遠端工作，或是在卡塔赫納海灘放鬆，Roami eSIM 都能提供穩定高速的連線，讓商務差旅與休閒旅行無縫接軌。結論：選擇 Roami 哥倫比亞 eSIM，就是選擇專業、可靠與極致便利。
-
-## 購買 哥倫比亞 eSIM 前須知
-
-
-### 1. 哥倫比亞主要 5G/4G 頻段與裝置相容性 {#1-哥倫比亞主要-5g4g-頻段與裝置相容性}
-哥倫比亞營運商使用的主要頻段包括：4G LTE Band 2 (1900 MHz)、Band 4 (1700/2100 MHz AWS)、Band 5 (850 MHz)、Band 7 (2600 MHz)、Band 12/17 (700 MHz)；5G NR 主要使用 n78 (3.5 GHz)。購買 eSIM 前，請確認您的智慧型手機支援上述頻段，尤其是 Band 4 與 n78，以確保最佳覆蓋與速度。
-
-### 2. KYC 實名認證要求 {#2-kyc-實名認證要求}
-根據哥倫比亞法規，所有預付 SIM 卡（包括 eSIM）均需進行實名認證（KYC）。購買 Roami eSIM 時，您需要提供護照掃描件或當地身份證件，並填寫線上表單。認證通常在 1-2 小時內完成，通過後即可啟用方案。請確保上傳的證件清晰可辨，以避免延遲。
-
-### 3. 公平使用政策（FUP）與數據限制 {#3-公平使用政策fup與數據限制}
-哥倫比亞營運商普遍實施公平使用政策。例如，Claro 的「無限」方案在達到每日 2 GB 高速用量後，速度會降速至 512 kbps。Tigo 與 Movistar 也有類似限制。Roami 提供的方案會明確標示高速數據配額，請根據您的實際需求選擇合適的流量包，避免超量後降速影響體驗。
-
-### 4. 網路覆蓋地圖與偏遠地區注意事項 {#4-網路覆蓋地圖與偏遠地區注意事項}
-哥倫比亞地形多變，亞馬遜雨林、安地斯山脈與加勒比海島嶼的覆蓋差異極大。Claro 擁有最廣泛的覆蓋，尤其在鄉村地區；Movistar 與 Tigo 則集中在城市與主要公路。出發前建議下載營運商的覆蓋地圖（如 Claro 官網），並準備離線地圖作為備用。
-
-### 5. eSIM 啟用與疑難排解 {#5-esim-啟用與疑難排解}
-Roami eSIM 採用 QR code 啟用，步驟如下：1) 購買後收到含 QR code 的郵件；2) 連線 Wi-Fi 後掃描 QR code 加入行動方案；3) 抵達哥倫比亞後開啟數據漫遊。若無法連線，請手動選擇營運商（Claro、Movistar 或 Tigo），或檢查 APN 設定。Roami 提供 24/7 中文客服協助。

@@ -1,7 +1,8 @@
 ---
-title: "南韓 eSIM 電信方案比較 | SK Telecom/KT/LGU+ 5G上網推薦"
-description: "比較南韓三大電信SK Telecom、KT、LGU+的5G上網方案價格與覆蓋。Roami整理南韓eSIM業者資訊，幫助您選擇最適合旅行上網的方案，最低$1.99起。"
-date: "2026-06-17T10:08:57+00:00"
+title: "想到南韓旅遊？eSIM 方案、5G 速度與價格全攻略。"
+description: "想在南韓保持順暢連線？Roami 實際評測 SK Telecom、LG U+ 和 KT 的 5G 網路品質，帶您選出最適合的南韓 eSIM。"
+date: "2026-06-17T06:15:09+00:00"
+
 keywords: "eSIM 南韓，預付數據，5G 網路，SK Telecom，LG U+，KT，Ookla Speedtest，旅行數據方案"
 site_name: "Roami"
 brand_name: "Roami"
@@ -47,7 +48,6 @@ sidebar_links:
   - href: "#data-sources"
     text: "數據來源"
 
-
 # 快速決策表格
 quick_picks_title: "快速選擇：南韓 該選哪家 eSIM 營運商？"
 quick_picks_table_headers:
@@ -81,7 +81,6 @@ quick_picks:
     carrier: "KT"
     carrier_class: "text-blue-600"
     reason: "KT 提供均衡的覆蓋與速度，中位下載速度 109.33 Mbps，適合日常瀏覽、社群媒體與地圖導航。"
-
 
 # 主要按鈕文案
 cta_button_main_text: "查看 南韓 最優惠旅行 eSIM"
@@ -123,7 +122,6 @@ operators:
     user_scenarios: "- **[首爾明洞購物區]**：在明洞擁擠的購物區，KT 提供穩定的連線，讓您隨時查詢商品資訊與使用行動支付。\n- **[慶州歷史遺址]**：在慶州歷史遺址區，KT 的覆蓋讓您使用導航與語音導覽應用程式，深入了解歷史文化。\n- **[仁川國際機場]**：在仁川機場轉機或抵達時，KT 的訊號讓您立即連線，查詢航班資訊與聯絡接駁。"
     bg_color: "bg-yellow-50"
 
-
 # 三張卡片
 cards_compatibility_title: "檢查 南韓 eSIM 相容性清單"
 cards_compatibility_desc: "了解您的手機是否支援 南韓 eSIM 與當地 5G 頻段"
@@ -154,7 +152,6 @@ before_buy_sections:
 
   - heading: "5. 啟用與效期"
     content: "Roami eSIM 通常在購買後透過電子郵件發送 QR code，掃描後即可啟用。請注意啟用期限（例如購買後 30 天內需啟用），以及方案有效期（例如 7 天、15 天、30 天）。建議在出發前一天啟用，以確保抵達後立即連線。"
-
 
 # 城市推薦表格
 city_guide_title: "城市指南：南韓 最佳 eSIM"
@@ -236,7 +233,6 @@ faq:
   - q: "在 南韓 的地鐵、深谷或偏遠地區，eSIM 是否仍能收到網路訊號？"
     a: "南韓的行動網路覆蓋率極高，尤其在首爾、釜山等大都市的地鐵站內，SK Telecom 與 KT 均提供穩定訊號。在偏遠山區如雪嶽山、智異山，SK Telecom 的覆蓋最廣泛，但部分深谷或隧道可能暫時無訊號。建議下載離線地圖以備不時之需。"
 
-
 # 迷思
 myths_title: "⚠️ 南韓 eSIM 常見迷思與事實"
 myth_label: "❌ 迷思："
@@ -257,7 +253,6 @@ myths:
 
   - myth: "南韓 eSIM 啟用需要韓國手機號碼。"
     truth: "事實：Roami eSIM 啟用僅需掃描 QR code 或手動輸入啟用碼，無需韓國手機號碼。您只需在連網環境下完成設定即可。"
-
 
 # 數據來源
 data_sources_title: "南韓 行動網路數據來源"
@@ -286,25 +281,3 @@ cta_free_trial_text: "南韓 免費試用 eSIM"
 cta_free_trial_link: "/free-esim/"
 
 ---
-
-# 南韓 eSIM：經濟實惠的旅行數據方案
-
-> **💡 旅行者摘要：** 透過裝置分享獲得更多自由：無限 5G 數據無限制。Roami 的南韓 eSIM 讓您無需實體 SIM 卡即可享受高速網路。根據 Ookla 2024 上半年報告，SK Telecom 以 236.24 的速度得分領先整體行動網路，中位下載速度達 205.10 Mbps；而 LG U+ 則在 5G 領域表現最佳，5G 速度得分高達 456.32，中位下載速度達 546.83 Mbps。選擇 Roami eSIM，您可自由切換營運商，享受頂級連線體驗，無論在首爾、大田還是水原市，都能保持高速上網。結論：Roami 南韓 eSIM 是您暢遊南韓的最佳夥伴。
-
-## 購買 南韓 eSIM 前須知
-
-
-### 1. 主要 5G/4G 頻段 {#1-主要-5g4g-頻段}
-南韓行動網路主要使用以下頻段：5G NR 頻段 n78（3.5 GHz）為主流，n258（mmWave 28 GHz）因執照問題尚未普及；4G LTE 頻段包括 Band 1（2100 MHz）、Band 3（1800 MHz）、Band 5（850 MHz）、Band 7（2600 MHz）等。購買 eSIM 前請確認您的裝置支援這些頻段。
-
-### 2. KYC 要求 {#2-kyc-要求}
-根據韓國法規，所有預付 SIM 卡（包括 eSIM）均需進行實名認證（KYC）。購買 Roami eSIM 時，您需要提供護照資訊與入境日期，部分方案可能要求上傳護照照片頁。請確保資訊正確，否則可能無法啟用。
-
-### 3. 公平使用政策（FUP） {#3-公平使用政策fup}
-多數南韓 eSIM 方案設有公平使用政策，例如每日高速數據上限（如 2GB/天）後降速至 128 kbps 或 256 kbps。Roami 的無限方案通常包含每日高速配額，超過後仍可繼續使用但速度較慢。請仔細閱讀方案條款。
-
-### 4. 熱點分享限制 {#4-熱點分享限制}
-部分南韓 eSIM 方案可能限制熱點分享（tethering），或僅允許分享有限數據。Roami 的南韓 eSIM 通常支援熱點分享，但建議購買前確認方案說明，以免影響您的使用計劃。
-
-### 5. 啟用與效期 {#5-啟用與效期}
-Roami eSIM 通常在購買後透過電子郵件發送 QR code，掃描後即可啟用。請注意啟用期限（例如購買後 30 天內需啟用），以及方案有效期（例如 7 天、15 天、30 天）。建議在出發前一天啟用，以確保抵達後立即連線。

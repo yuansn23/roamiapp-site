@@ -1,7 +1,8 @@
 ---
-title: "Iran eSIM Guide | Hamrah-e Aval or Irancell?"
-description: "Roami compares Iran's carriers for travel eSIM. 5G in Tehran, Isfahan & nationwide. Which network is fastest?"
-date: '2026-06-04T00:00:00+00:00'
+title: "How fast is 5G in Iran? A travel eSIM guide."
+description: "Roami's guide to Iran eSIM carriers compares MCI, Rightel and Irancell on 5G speed, coverage and value for travelers visiting Iran."
+date: "2026-06-17T06:04:17+00:00"
+
 keywords: Iran eSIM, buy Iran eSIM, Iran travel eSIM, MCI, Hamrahe Aval, Iran 5G,
   eSIM for Iran, Iran prepaid eSIM, Iran tourist eSIM
 site_name: Roami
@@ -287,21 +288,3 @@ cta_free_trial_note: New customer exclusive
 cta_free_trial_text: Free trial eSIM
 cta_free_trial_link: /free-esim/
 ---
-# Iran eSIM: Buy and Connect Instantly
-
-> **💡 Quick Summary for Travelers:** For the best balance of speed and coverage across Iran, choose **MCI (Hamrahe Aval)**. It offers the widest 5G network, especially in Tehran, Isfahan, and Shiraz, making it ideal for tourists visiting Persepolis and Naqsh-e Jahan Square. If you need the fastest urban data for video calls and streaming, **Rightel** provides excellent speeds in major cities. Avoid roaming fees and buy an Iran eSIM before you travel.
-
-## Things you must know before buying a Iran eSIM
-
-
-### Device Compatibility {#device-compatibility}
-Most modern smartphones support eSIM, but it's always best to double-check. Visit our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page to see if your device is supported. iPhones from XR onwards and many Android devices (Samsung Galaxy S20+, Google Pixel 3+, etc.) work with eSIM.
-
-### Network Lock & Unlock {#network-lock--unlock}
-Your phone must be carrier-unlocked to use a local Iranian eSIM. If you bought your phone from a carrier (e.g., AT&T, Verizon, T-Mobile), ensure it is unlocked before traveling. Contact your home carrier to confirm.
-
-### Dual SIM Usage {#dual-sim-usage}
-You can keep your home SIM active for calls and SMS while using the Iran eSIM for data. On iPhone, go to Settings > Cellular > Cellular Plans and set the Iran eSIM as your primary data line. On Android, go to Settings > Network & Internet > SIM cards and select the Iran eSIM for mobile data.
-
-### Activation & Setup {#activation--setup}
-After purchasing your Iran eSIM, you will receive a QR code or activation code via email. Scan the QR code in your phone's settings (or enter the code manually) to install the eSIM profile. The profile activates automatically when you connect to a local network in Iran. No physical SIM swap is needed.

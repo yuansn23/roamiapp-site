@@ -1,7 +1,8 @@
 ---
-title: "Bulgaria eSIM Guide | A1, Vivacom or Yettel?"
-description: "Roami compares Bulgaria's carriers for travel eSIM. 5G from Sofia to the Black Sea. Find the fastest network."
-date: '2026-06-04T00:00:00+00:00'
+title: "Affordable eSIM data plans for Bulgaria travel."
+description: "Find the best Bulgaria travel eSIM with Roami. We compare A1 BG, Yettel BG and Vivacom 5G networks so you stay connected across Bulgaria."
+date: "2026-06-17T06:04:17+00:00"
+
 keywords: Bulgaria eSIM, hotspot tethering, A1 Bulgaria, Yettel, Vivacom, travel eSIM,
   no roaming fees, Sofia connectivity, Alexander Nevsky Cathedral, seamless data
 site_name: Roami
@@ -258,18 +259,3 @@ cta_free_trial_note: New customer exclusive
 cta_free_trial_text: Free trial eSIM
 cta_free_trial_link: /free-esim/
 ---
-# Bulgaria eSIM: Supports Seamless Hotspot Tethering
-
-> **💡 Quick Summary for Travelers:** For reliable 4G/5G data across Bulgaria, choose A1 Bulgaria for best coverage in cities like Sofia and Plovdiv, or Yettel for strong performance in rural areas. Both support seamless hotspot tethering, perfect for sharing maps and photos without roaming fees. Avoid slow connections by picking the right local carrier for your itinerary.
-
-## Things you must know before buying a Bulgaria eSIM
-
-
-### Check device compatibility {#check-device-compatibility}
-Before purchasing, verify that your smartphone supports eSIM. Most recent iPhone, Samsung, Google Pixel, and Huawei models are compatible. Visit our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page for a full list.
-
-### Understand data plans and coverage {#understand-data-plans-and-coverage}
-Bulgaria eSIM plans offer various data allowances, from 1GB to unlimited. Choose based on your usage: light browsing vs. heavy streaming. A1 covers cities best, Yettel excels in rural areas, and Vivacom balances both.
-
-### Activation and setup tips {#activation-and-setup-tips}
-Install the eSIM profile before departure. Upon landing in Bulgaria, enable data roaming and the eSIM line. No physical SIM removal is needed. For hotspot tethering, ensure your plan supports it (all Roami plans do).

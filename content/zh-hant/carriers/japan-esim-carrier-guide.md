@@ -1,7 +1,8 @@
 ---
-title: "日本 eSIM 電信方案比較 | Docomo/SoftBank/au 5G上網推薦"
-description: "比較日本三大電信Docomo、SoftBank、au的5G上網方案價格與覆蓋。Roami整理日本eSIM業者資訊，幫助您選擇最適合旅行上網的方案，最低$1.99起。"
-date: "2026-06-17T10:07:25+00:00"
+title: "準備去日本嗎？eSIM 選擇指南與 5G 上網方案推薦。"
+description: "Roami 幫您從 Rakuten、SoftBank 和 au (KDDI) 中挑選最適合的日本 eSIM，從 5G 下載速度、訊號覆蓋到方案價格全面比較，讓選擇更簡單。"
+date: "2026-06-17T06:15:09+00:00"
+
 keywords: "eSIM 日本，預付數據，5G 網路，Rakuten Mobile，SoftBank，So-net，大阪，埼玉，旅遊 eSIM"
 site_name: "Roami"
 brand_name: "Roami"
@@ -47,7 +48,6 @@ sidebar_links:
   - href: "#data-sources"
     text: "數據來源"
 
-
 # 快速決策表格
 quick_picks_title: "快速選擇：日本 該選哪家 eSIM 營運商？"
 quick_picks_table_headers:
@@ -86,7 +86,6 @@ quick_picks:
     carrier: "NTT DoCoMo"
     carrier_class: "text-blue-600"
     reason: "NTT DoCoMo 擁有最高的 5G 可用性（43% 時間連線），在郊區與山區覆蓋最佳。"
-
 
 # 主要按鈕文案
 cta_button_main_text: "查看 日本 最優惠旅行 eSIM"
@@ -128,7 +127,6 @@ operators:
     user_scenarios: "- **【北海道富良野滑雪場】**：在偏遠的滑雪度假村，NTT DoCoMo 的 5G 覆蓋讓您隨時分享滑雪影片或查詢天氣。\n- **【沖繩離島】**：在石垣島或宮古島等離島，NTT DoCoMo 的網路覆蓋最穩定，確保通訊不中斷。\n- **【長野縣山區健行】**：在奧飛驒溫泉鄉等山區，NTT DoCoMo 的 5G 可用性讓您安心導航與緊急聯絡。"
     bg_color: "bg-blue-50"
 
-
 # 三張卡片
 cards_compatibility_title: "檢查 日本 eSIM 相容性清單"
 cards_compatibility_desc: "了解您的手機是否支援 日本 eSIM 與當地 5G 頻段"
@@ -159,7 +157,6 @@ before_buy_sections:
 
   - heading: "5. 網路覆蓋與速度差異：城市 vs 鄉村"
     content: "根據 Ookla 2024 下半年數據，大阪府的行動中位下載速度為 63.12 Mbps，為日本最快地區；埼玉縣的固網中位下載速度達 239.22 Mbps。然而，在北海道、沖繩離島或山區，速度可能大幅下降至 10 Mbps 以下。選擇 eSIM 時，請根據您的旅遊路線評估：若主要停留東京、大阪、名古屋等大都市，任何營運商皆可；若深入鄉村，建議優先選擇 NTT DoCoMo 或 SoftBank 以獲得較佳覆蓋。"
-
 
 # 城市推薦表格
 city_guide_title: "城市指南：日本 最佳 eSIM"
@@ -241,7 +238,6 @@ faq:
   - q: "網路覆蓋是否包含 日本 的主要交通樞紐，如機場、高鐵與地鐵？"
     a: "是的。日本主要機場（成田、羽田、關西）、新幹線車站（東京、品川、新大阪）以及地鐵系統（東京 Metro、大阪 Metro）均享有良好的 4G/5G 覆蓋。根據 Ookla 數據，SoftBank 與 NTT DoCoMo 在這些樞紐的表現尤為穩定。不過，部分地下月台或隧道內可能暫時無訊號，但整體而言，您在移動過程中可保持連線。"
 
-
 # 迷思
 myths_title: "⚠️ 日本 eSIM 常見迷思與事實"
 myth_label: "❌ 迷思："
@@ -262,7 +258,6 @@ myths:
 
   - myth: "在鄉村地區，所有營運商的訊號都很差。"
     truth: "NTT DoCoMo 的 5G 可用性達 43%，為市場最高，在偏遠地區的覆蓋明顯優於其他營運商。選擇 NTT DoCoMo 的 eSIM 可大幅提升鄉村連線品質。"
-
 
 # 數據來源
 data_sources_title: "日本 行動網路數據來源"
@@ -291,25 +286,3 @@ cta_free_trial_text: "日本 免費試用 eSIM"
 cta_free_trial_link: "/free-esim/"
 
 ---
-
-# 日本 eSIM：經濟實惠的旅行數據方案
-
-> **💡 旅行者摘要：** 【商務旅行不中斷：經濟型 eSIM 方案，實現全球行動力】對於頻繁往返日本的商務旅客，Roami 提供的日本 eSIM 讓您無需更換實體 SIM 卡，即可在抵達後立即連上 Rakuten Mobile 與 SoftBank 等頂尖營運商的 5G 網路。根據 Ookla 2024 下半年數據，Rakuten Mobile 的 5G 中位下載速度高達 151.16 Mbps，SoftBank 則提供最佳影音與遊戲體驗。Roami 的經濟型方案讓您以合理價格享受高速連線，確保視訊會議、大檔案傳輸與即時通訊不中斷，真正實現全球行動力。
-
-## 購買 日本 eSIM 前須知
-
-
-### 1. 日本主要 5G/4G 頻段與裝置相容性 {#1-日本主要-5g4g-頻段與裝置相容性}
-日本 5G 網路主要使用 n77（3.7 GHz）、n78（3.5 GHz）與 n257（28 GHz）頻段；4G LTE 則以 Band 1（2100 MHz）、Band 3（1800 MHz）、Band 8（900 MHz）與 Band 11（1500 MHz）為主。購買 eSIM 前，請確認您的智慧型手機支援上述頻段，尤其是 n77/n78 以獲得最佳 5G 體驗。多數 2020 年後上市的旗艦機種（如 iPhone 12 以上、Samsung Galaxy S21 以上）皆相容。
-
-### 2. KYC（認識你的客戶）要求與實名制規定 {#2-kyc認識你的客戶要求與實名制規定}
-日本法規要求所有預付 SIM 卡（含 eSIM）使用者必須完成身分驗證（KYC）。購買 Roami 日本 eSIM 時，您需要提供護照照片或掃描檔，以及個人基本資料（姓名、國籍、停留期間）。部分營運商可能要求上傳臉部照片以進行生物辨識。請確保資料清晰可辨，以避免啟用延遲。
-
-### 3. 公平使用政策（FUP）與數據限制 {#3-公平使用政策fup與數據限制}
-日本營運商普遍實施公平使用政策（FUP），即使標榜「無限數據」的方案，在短期內大量使用（如超過 10-20 GB）後，速度可能被限制至 128 Kbps 或更低。Roami 提供的方案通常包含每日或總量數據上限，超出後降速。建議重度使用者選擇高數據量方案，並避免長時間進行 P2P 下載或高畫質串流。
-
-### 4. eSIM 啟用流程與 QR code 注意事項 {#4-esim-啟用流程與-qr-code-注意事項}
-購買 Roami 日本 eSIM 後，您將透過電子郵件收到一組 QR code。請在出發前掃描並安裝設定檔（需連網環境）。注意：QR code 僅能使用一次，且部分裝置（如中國版手機）可能不支援 eSIM。若安裝失敗，請聯繫客服獲取手動設定碼。建議在台灣/香港先完成安裝，抵達日本後開啟數據漫遊即可連線。
-
-### 5. 網路覆蓋與速度差異：城市 vs 鄉村 {#5-網路覆蓋與速度差異城市-vs-鄉村}
-根據 Ookla 2024 下半年數據，大阪府的行動中位下載速度為 63.12 Mbps，為日本最快地區；埼玉縣的固網中位下載速度達 239.22 Mbps。然而，在北海道、沖繩離島或山區，速度可能大幅下降至 10 Mbps 以下。選擇 eSIM 時，請根據您的旅遊路線評估：若主要停留東京、大阪、名古屋等大都市，任何營運商皆可；若深入鄉村，建議優先選擇 NTT DoCoMo 或 SoftBank 以獲得較佳覆蓋。

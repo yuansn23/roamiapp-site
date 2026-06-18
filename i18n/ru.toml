@@ -296,3 +296,9 @@ other = "{{ .RegionName }} eSIM: вопросы, которые задают п�
 countries = "Страны"
 carriers = "Операторы"
 coverage_5g = "Покрытие 5G"
+
+[home]
+other = "Главная"
+
+[carriers]
+other = "Операторы eSIM"

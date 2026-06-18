@@ -1,7 +1,8 @@
 ---
-title: "Vietnam eSIM Guide | Viettel, Mobifone or Vina?"
-description: "Roami compares Vietnam's carriers for travel eSIM. 5G from Hanoi to Saigon. Which gives you the most reliable speeds?"
-date: '2026-06-04T00:00:00+00:00'
+title: "eSIM for Vietnam travelers: speed, data and coverage."
+description: "Need a Vietnam travel eSIM? Roami tests Viettel, Vinaphone and mobifone 5G speeds and coverage to help you pick the right carrier for Vietnam."
+date: "2026-06-17T06:04:17+00:00"
+
 keywords: eSIM Vietnam, prepaid data, 5G network, Viettel, Vinaphone, mobifone, travel
   internet, Speedtest, [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/vietnam-speedtest-connectivity-report-h1-2025)
 site_name: Roami
@@ -336,24 +337,3 @@ cta_free_trial_note: Exclusive for new customers
 cta_free_trial_text: Free Vietnam trial eSIM
 cta_free_trial_link: /free-esim/
 ---
-# Vietnam eSIM: Save time and effort with travel internet
-
-> **💡 Short summary for travelers:** Unlimited 5G data: more efficient use by sharing across multiple devices. With a Vietnam eSIM from Roami, you tap into Viettel's best mobile network (median download 165.03 Mbps) and Vinaphone's fastest 5G (median 594.16 Mbps) — all without physical SIM queues. Activate instantly, tether your laptop, and stay productive from Hanoi to Ho Chi Minh City.
-
-## Things you need to know before buying a Vietnam eSIM
-
-
-### 1. Main 5G/4G frequency bands in Vietnam {#1-main-5g4g-frequency-bands-in-vietnam}
-Vietnam's mobile networks operate on bands 1 (2100 MHz), 3 (1800 MHz), 5 (850 MHz), 7 (2600 MHz), 8 (900 MHz), 20 (800 MHz), 28 (700 MHz), 40 (2300 MHz), and 41 (2500 MHz) for 4G LTE. 5G uses bands n1, n3, n5, n7, n28, n40, n41, n78, and n79. Most modern smartphones support these bands, but check your device specifications before purchasing an eSIM.
-
-### 2. KYC (Know Your Customer) requirements {#2-kyc-know-your-customer-requirements}
-To activate a Vietnam eSIM, you must provide a valid passport or national ID. The registration process is digital — upload a clear photo of your ID and a selfie. Roami handles the KYC process on your behalf, ensuring compliance with local regulations.
-
-### 3. Fair Usage Policy (FUP) and data caps {#3-fair-usage-policy-fup-and-data-caps}
-Most Vietnam eSIM plans include a Fair Usage Policy. For example, after exceeding a daily threshold (e.g., 2 GB), speeds may be throttled to 128 kbps or 256 kbps. Always check the specific plan details before purchase. Unlimited plans typically have a soft cap.
-
-### 4. Network compatibility and VoLTE {#4-network-compatibility-and-volte}
-Vietnam eSIMs support VoLTE (Voice over LTE) on compatible devices. Ensure your smartphone is unlocked and supports the required bands. Most recent iPhones, Samsung Galaxy, and Google Pixel models work seamlessly.
-
-### 5. eSIM activation and dual SIM usage {#5-esim-activation-and-dual-sim-usage}
-Activation is instant via QR code. You can use your physical home SIM for calls/SMS while the eSIM provides data. Enable data roaming in settings. Some carriers require APN configuration — Roami provides easy setup instructions.

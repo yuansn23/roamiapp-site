@@ -366,291 +366,46 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: 'Singapore eSIM Guide 2026: Network & Travel Guide'
-  desc: From Singapore City to Jurong East, stay connected on Singtel, StarHub, M1 networks. Our complete Singapore eSIM guide
-    covers coverage, plans, setup, and travel tips. Find the best plan for your trip.
+  title: "Singapore eSIM for Travelers | Pricing & How to Stay Connected"
+  desc: "Planning Singapore travel? Our eSIM guide covers best travel.esim singapore, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1.  General Questions About Singapore eSIM
+    title: Singapore eSIM FAQs
     questions:
-    - q: How do I know if my smartphone supports a Singapore eSIM?
-      a: Most modern smartphones from the last few years are eSIM compatible, including recent iPhone and Google Pixel models.
-        You can check your phone's settings under 'Cellular' or 'Mobile Data' for an 'Add eSIM' option. Alternatively, consult
-        your device manufacturer's official list of eSIM-compatible models. If your phone is unlocked and supports eSIM, you
-        are ready to use a service like Roami.
-    - q: What is the best eSIM for a short 3-day trip to Singapore?
-      a: For a short 3-day visit, you can choose a plan that fits your usage. A 1GB plan is often sufficient for basic maps
-        and messaging, while a 3GB plan offers more flexibility for sightseeing. For example, a very affordable 3GB plan is
-        available for $2.99, which is perfect for light browsing. If you need more data for streaming or social media, a 5GB
-        plan at $4.99 provides great value.
-    - q: Can I keep my home number active while using a Singapore eSIM?
-      a: Yes, you can keep your home number active by using a dual SIM setup with your eSIM. You would use your physical SIM
-        for calls and texts from your home country and the eSIM for data in Singapore. This allows you to receive important
-        messages without incurring high roaming charges. Services like Roami provide data-only plans, which work perfectly
-        alongside your existing SIM card.
-    - q: How does Roami compare to other providers like Airalo or Holafly for a Singapore eSIM?
-      a: Roami offers competitive pricing and unlimited high-speed data options, which are comparable to providers like Airalo
-        and Holafly. For instance, a 7-day unlimited data plan from Roami is priced at $24.99, providing worry-free usage.
-        While Airalo may have similar plans, Roami often includes features like easy top-ups and 24/7 customer support. It
-        is always wise to compare the specific data speeds and validity periods to find the best fit for your trip.
-    - q: Is Singtel or StarHub better for Singapore travel?
-      a: Both Singtel and StarHub offer excellent coverage across Singapore. Singtel generally has wider rural coverage, while
-        StarHub offers competitive 5G speeds in cities. For most travelers visiting Singapore City, Jurong East, and the surrounding
-        areas, either network works well. If you plan to explore remote areas, Singtel is typically the safer choice.
-    - q: Does Singapore eSIM work in Singapore City and Jurong East?
-      a: Yes, Singapore eSIM provides excellent coverage in Singapore City, Jurong East, and other major areas. Major carriers
-        offer strong 5G/4G networks across all urban centers and tourist districts. Singapore attractions and Singapore attractions
-        also have good signal coverage for sharing your travel moments.
-    - q: Are there any eSIM plans specifically designed for tourists visiting Singapore?
-      a: Yes, many eSIM providers offer tourist-friendly plans with varying data amounts and validity periods. For instance,
-        a 15-day plan with 5GB at $6.99 is a great value for a two-week vacation. These plans are designed to be hassle-free,
-        with easy online purchase and quick activation. They often include high-speed data on local networks, making them
-        ideal for navigating and sharing your travel experiences.
-    - q: Can I use a Singapore eSIM for a layover, or do I need a longer plan?
-      a: For a short layover, you can choose an eSIM plan with a shorter validity, such as a 7-day plan. The 1GB plan for
-        $1.99 is an excellent and cheap option for a brief stop. This allows you to use data for maps and messaging without
-        committing to a long-term plan. It is a cost-effective way to stay connected during your time at Changi Airport or
-        a quick city visit.
-    - q: What is the cheapest prepaid eSIM option for a short visit to Singapore?
-      a: For a very short visit, the 7-day 1GB plan at $1.99 is one of the most affordable options available. This plan is
-        perfect for light data usage, such as checking maps and messaging. If you need a bit more, the 3-day 1GB plan is also
-        very cheap at $1.99. These low-cost plans provide a reliable connection without breaking the bank.
-    - q: How do I activate my eSIM, and can I do it before I leave for Singapore?
-      a: Activation is simple and can be done before you depart. After purchasing your eSIM, you will receive a QR code via
-        email. You can scan this QR code in your phone's settings to install the eSIM profile. It is recommended to install
-        the profile before your trip, but you can activate the data plan only when you arrive in Singapore to start the validity
-        period.
-  - id: faq-airport
-    icon: airplane
-    tab_title: Airports
-    title: 2.  Singapore eSIM at Airports
-    questions:
-    - q: Can I activate my Singapore eSIM at the airport?
-      a: Yes, you can activate your Singapore eSIM as soon as you land using the airport's free Wi-Fi. Just scan your QR code
-        from email and you'll be connected in under 2 minutes. We recommend installing the eSIM before departure so you're
-        connected the moment you arrive.
-    - q: Do I need to connect to Changi Airport's free Wi-Fi to set up my eSIM?
-      a: You should install your eSIM profile before your trip to avoid needing airport Wi-Fi. If you have not installed it
-        yet, you will need to connect to Changi Airport's free Wi-Fi to download the profile. Once installed, the eSIM will
-        automatically connect to the local network. This is why it is recommended to complete the setup process at home for
-        a seamless arrival experience.
-    - q: Can I buy a Singapore eSIM at a kiosk inside Changi Airport?
-      a: While you can buy physical SIM cards at kiosks in Changi Airport, purchasing an eSIM online is more convenient. Many
-        travelers prefer to buy a digital eSIM from providers like Roami before they fly. This avoids the need to queue at
-        a kiosk and search for a physical card. Buying online also allows you to compare different plans and prices from the
-        comfort of your home.
-    - q: What is the best eSIM plan to have ready when I arrive at Changi?
-      a: A 7-day plan with enough data for your first few days is a great choice for arrival. The 3GB 7-day plan for $3.99
-        is perfect for sightseeing and basic needs right after you land. If you plan to use your phone heavily for navigation
-        and social media, the 5GB plan at $5.99 offers more security. Having an active eSIM upon arrival means you can immediately
-        use ride-hailing apps like Grab.
-    - q: If I have a 30-day eSIM, will it start counting down from when I land at the airport?
-      a: Yes, your 30-day eSIM plan will typically start its validity period upon activation, which is often when you first
-        connect to the network in Singapore. This means the 30-day countdown begins at the airport. For example, a 30GB plan
-        at $27.99 will give you data for a full month from that moment. This is perfect for long stays or if you plan to visit
-        other countries after Singapore, as long as your plan supports cross-border use.
-  - id: faq-transport
-    icon: train
-    tab_title: Transport
-    title: 3.  Singapore eSIM for Transport
-    questions:
-    - q: Can I use Singapore eSIM for ride-hailing and maps?
-      a: Absolutely. Singapore eSIM works with ride-hailing apps and navigation. A 5GB/15 days plan ($4.99) covers daily navigation
-        and ride-booking during a typical trip. The 4G/5G connection ensures reliable real-time tracking and route updates.
-    - q: Will my eSIM work underground on the MRT for navigation?
-      a: Yes, eSIMs in Singapore generally provide good connectivity on the MRT network. Local operators like Singtel and
-        Simba have extensive coverage in the tunnels and stations. You will be able to check your route, listen to music,
-        or browse social media during your commute. The connection is reliable for most standard data needs, though very high-speed
-        activities might be slightly slower in deeper tunnels.
-    - q: How can I use my eSIM to book a Grab or taxi from the airport or anywhere?
-      a: With your eSIM active, you can simply open the Grab app as soon as you land to book a ride. The app uses your data
-        connection to locate you and find a nearby driver. This is much more efficient than waiting in a taxi queue. Having
-        an eSIM with a plan like the 3GB 7-day option for $3.99 ensures you have data for this essential service from the
-        moment you arrive.
-    - q: What eSIM data plan is best for navigating Singapore's public transport system for a week?
-      a: For a week of navigating public transport, a 7-day plan with 3GB or 5GB is ideal. The 3GB plan at $3.99 is sufficient
-        for daily map usage and checking schedules. If you also plan to stream music or watch videos during your trips, the
-        5GB plan at $5.99 is a better value. These plans ensure you never get lost and can efficiently use the MRT, LRT, and
-        bus network.
-    - q: Can I use my eSIM for a bus tour or to get real-time bus arrival information?
-      a: Yes, you can use your eSIM data to access real-time bus arrival apps like SG BusLeh or the official LTA app. This
-        allows you to see exactly when your bus will arrive, saving you time at the bus stop. You can also use your data for
-        audio guides or maps during a bus tour. A plan with at least 5GB, like the 7-day option for $5.99, is recommended
-        for a more data-intensive touring experience.
-  - id: faq-hotels
-    icon: building
-    tab_title: Hotels
-    title: 4.  Singapore eSIM for Hotels
-    questions:
-    - q: Do I need an eSIM if my hotel provides free Wi-Fi?
-      a: While hotel Wi-Fi is useful, an eSIM provides crucial connectivity when you are away from your room. You will need
-        data for navigating to attractions, checking restaurant reviews, and using ride-hailing apps. Relying solely on hotel
-        Wi-Fi means you are only connected inside the building. An eSIM, like a 5GB plan for $7.99, ensures you have constant
-        access to the internet wherever you go.
-    - q: Can I use my eSIM to stream movies in my hotel room at night?
-      a: Yes, you can use your eSIM data to stream movies in your hotel room. For heavy streaming, a plan with a larger data
-        allowance is recommended, such as the 20GB plan for $18.99 or the 30GB plan for $27.99. This ensures you have enough
-        high-speed data for your evening entertainment without buffering. Alternatively, if your hotel Wi-Fi is slow, your
-        eSIM can serve as a reliable backup for a smoother streaming experience.
-    - q: What is the best eSIM plan for a business traveler staying at a hotel for a week?
-      a: For a business traveler, a 7-day plan with a generous data allowance is ideal for work and leisure. The 10GB plan
-        for $9.99 or the 20GB plan for $16.99 are excellent choices for a week-long hotel stay. They provide enough data for
-        video conferences, email, and browsing. These plans ensure you have a stable and fast connection for all your professional
-        needs while on the go.
-    - q: If my hotel Wi-Fi is slow, can I use my eSIM as a backup?
-      a: Absolutely, your eSIM is an excellent backup if the hotel Wi-Fi is slow or unreliable. You can easily switch your
-        phone's data source from Wi-Fi to your eSIM in the settings. This provides a personal, secure, and often faster internet
-        connection. Having a plan with a good amount of data, like the 10GB 7-day plan for $9.99, gives you peace of mind
-        for all your connectivity needs.
-    - q: How can I use my eSIM to find and book a hotel in Singapore?
-      a: You can use your eSIM data to browse hotel booking apps like Booking.com or Agoda as soon as you arrive. This is
-        especially useful if you have not pre-booked accommodation. You can read reviews, compare prices, and make a reservation
-        on the go. A reliable data connection from an eSIM ensures you can find a great deal and secure a room without any
-        hassle.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5.  Singapore eSIM for Attractions
-    questions:
-    - q: Will I have coverage at Singapore attractions in Singapore?
-      a: Major attractions like Singapore attractions typically have good 4G/5G coverage in Singapore. However, remote areas
-        may have limited signal. Download offline maps before visiting out-of-the-way destinations. A 5GB plan provides comfortable
-        data for photos, maps, and social media throughout your trip.
-    - q: Will my eSIM be fast enough for augmented reality (AR) experiences at tourist spots?
-      a: Yes, a high-speed eSIM is perfect for AR experiences, which require a fast and stable internet connection. Many attractions
-        in Singapore, like the National Museum, offer AR features to enhance your visit. The 5G connectivity provided by most
-        eSIM plans can handle the data demands of these interactive features. For the best experience, a plan with at least
-        10GB of data, like the $11.99 option, is recommended for a full day of exploration.
-    - q: What is the cheapest eSIM plan for a day of sightseeing at Sentosa?
-      a: For a single day at Sentosa, the 3-day 1GB plan for $1.99 is the cheapest and most practical option. This plan gives
-        you enough data for maps, social media posts, and messaging throughout the day. If you plan to do more, like streaming
-        music or uploading many photos, the 3-day 3GB plan for $2.99 is still very affordable. These plans are perfect for
-        a short, data-light visit to a single attraction.
-    - q: Can I use my eSIM to find walking tours and navigate historical districts like Chinatown?
-      a: Absolutely, your eSIM is ideal for finding and joining walking tours using apps like GuruWalk or Viator. You can
-        use Google Maps to navigate the winding streets of Chinatown, Little India, and Kampong Glam. The data connection
-        allows you to read historical information on the go. A plan with a few GBs, such as the 5GB plan for $5.99, is perfect
-        for a full day of exploring these cultural districts.
-    - q: How much data do I need for a full day of visiting multiple attractions like Universal Studios and the Night Safari?
-      a: For a full day visiting multiple major attractions, a plan with at least 5GB to 10GB is recommended. This will cover
-        heavy use of maps, ride-hailing apps, and uploading photos and videos. The 10GB 7-day plan for $9.99 is an excellent
-        choice for such an active day. If you plan to stream or use social media extensively, the 20GB plan for $18.99 provides
-        even more peace of mind.
-  - id: faq-social
-    icon: message-circle
-    tab_title: Social & Messaging
-    title: 6.  Singapore eSIM for Social Media
-    questions:
-    - q: How much data do I need for Singapore?
-      a: Light users (maps + messaging) ~300MB/day, moderate (social + photos) ~700MB/day, heavy (streaming + video calls)
-        choose Unlimited. Most visitors find 5GB/15 days ($4.99) comfortable for a standard trip to Singapore.
-    - q: Is there an unlimited data eSIM for heavy social media users?
-      a: Yes, for heavy social media users, an unlimited data plan is the best option. Roami offers a premium unlimited high-speed
-        plan for 30 days at $65.99, which provides worry-free data usage. This plan is perfect for streaming, uploading high-resolution
-        photos and videos, and endless scrolling. For shorter trips, a 7-day unlimited plan is available for $24.99, ensuring
-        you never have to worry about running out of data.
-    - q: Will I be able to upload a lot of photos and videos to Instagram and Facebook?
-      a: Absolutely, an eSIM provides the fast upload speeds needed to share your Singapore memories on social media. With
-        a high-speed 5G connection, uploading high-resolution photos and videos to Instagram and Facebook is quick and easy.
-        A plan like the 10GB 7-day plan for $9.99 gives you plenty of data for frequent social media updates. If you are a
-        heavy poster, the 20GB plan for $18.99 is a safer bet.
-    - q: Can I use my eSIM for live streaming while exploring attractions?
-      a: Yes, you can use your eSIM for live streaming on platforms like Instagram Live, Facebook Live, or TikTok. A stable
-        and fast connection is crucial for a smooth live stream without buffering. For reliable live streaming, a plan with
-        a higher data allowance, such as the 20GB plan for $18.99, is recommended. The unlimited high-speed plans are also
-        an excellent choice for frequent live streamers.
-    - q: What is the best eSIM for staying connected with family via video calls?
-      a: For frequent video calls using apps like FaceTime or Zoom, a plan with a generous data cap is ideal. The 10GB plan
-        for $11.99 or the 30GB plan for $27.99 are both excellent choices for video calling. These plans ensure you have enough
-        high-speed data for clear and uninterrupted calls. For the most flexibility, the 50GB plan at $39.99 provides ample
-        data for extensive video communication.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7.  Singapore eSIM for Cross-Border Travel
-    questions:
-    - q: Can I use my Singapore eSIM in Malaysia or other nearby countries?
-      a: Standard Singapore eSIMs are usually restricted to use only within Singapore. If you plan to travel to Malaysia,
-        Thailand, or Indonesia, you will need a regional or global eSIM plan. Providers like Roami offer specific plans that
-        cover multiple countries in Asia. Always check the plan's coverage area before purchasing to ensure it includes your
-        intended destinations.
-    - q: What is the best eSIM plan for a multi-country trip starting in Singapore?
-      a: For a multi-country trip, look for an Asia or global eSIM plan that includes Singapore. These plans offer a single
-        data pool for use across several countries, which is very convenient. While Roami offers focused Singapore plans,
-        other providers might have regional options. For a trip starting in Singapore, a plan with a large data allowance,
-        like 10GB or 20GB, is recommended for seamless connectivity across borders.
-    - q: If I have a 30-day plan for Singapore, will it work if I fly to another country during that time?
-      a: No, a standard 30-day Singapore eSIM plan will not work in another country. Its validity and coverage are limited
-        to the Singaporean network. To stay connected while abroad, you would need a separate eSIM for each new country or
-        a regional plan. This is why it is important to plan your data needs for the entire duration of your trip, including
-        any side trips.
-    - q: How do I buy an eSIM for a trip that includes Singapore and another country?
-      a: You can purchase a regional eSIM that covers both Singapore and your other destination. For example, an Asia eSIM
-        plan would include Singapore, Malaysia, and Thailand. Alternatively, you can buy individual eSIMs for each country
-        and switch between them. Using a single regional eSIM is often more convenient as you do not need to manage multiple
-        profiles.
-    - q: Are there any eSIM plans that offer data for both Singapore and Batam or Bintan?
-      a: Yes, some regional eSIM plans cover both Singapore and Indonesia, which includes Batam and Bintan. These are typically
-        part of larger Asia or global coverage plans. Before your trip, check the specific coverage map of the eSIM provider.
-        This ensures you have a seamless connection while hopping between Singapore and the neighboring Indonesian islands.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  Singapore eSIM for Emergencies
-    questions:
-    - q: Can I use WhatsApp and FaceTime with Singapore eSIM?
-      a: Yes! Singapore eSIM supports WhatsApp audio/video calls, FaceTime, WeChat voice, and Zoom without any blocks. You
-        can stay in touch with family using your preferred messaging apps throughout your trip.
-    - q: What should I do if my eSIM doesn't work in an emergency situation?
-      a: If your eSIM is not working, your first step is to find a stable Wi-Fi network to connect to. You can then use a
-        messaging app to contact your hotel, embassy, or emergency contacts. Public places like shopping malls and MRT stations
-        often have free Wi-Fi. It is also wise to download offline maps of Singapore before your trip in case you lose connectivity.
-    - q: Is my eSIM reliable for getting help if I get lost in a less connected area?
-      a: Yes, eSIMs in Singapore are generally very reliable, even in less central areas. The mobile network coverage from
-        Singtel and Simba is extensive across the entire island. You will be able to use GPS and mapping apps to find your
-        way. If you are in a very remote park or nature reserve, some areas might have slightly weaker signals, but overall,
-        connectivity is excellent.
-    - q: How can I use my eSIM to contact my home country's embassy in an emergency?
-      a: You can use your eSIM data to look up the contact information for your country's embassy in Singapore. You can then
-        call them using a VoIP app like Skype or WhatsApp. This is a fast and efficient way to get assistance from your embassy.
-        Having a data plan with a few GBs, like the 3GB plan for $3.99, ensures you have the necessary connectivity for such
-        situations.
-    - q: Can I rely on my eSIM for navigation if my phone battery dies?
-      a: No, if your phone battery dies, your eSIM will not work as it is a digital profile on the phone. You will need to
-        carry a portable power bank to keep your phone charged. This is especially important for using navigation apps for
-        long periods. It is also a good idea to have a physical copy of your hotel's address and a small map as a backup.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  Singapore eSIM for Business Travelers
-    questions:
-    - q: What is the best eSIM plan for a business trip with video conferences and emails?
-      a: For a business trip, a plan with a high data allowance is essential for video conferences and email. The 10GB plan
-        for $11.99 or the 20GB plan for $18.99 are excellent choices. These plans provide enough high-speed data for multiple
-        Zoom calls and heavy email use. For longer trips, the 30GB plan at $27.99 ensures you stay productive throughout your
-        stay.
-    - q: Can I get a Singapore phone number with my eSIM for business calls?
-      a: Most eSIMs for travel are data-only and do not provide a local phone number. If you need a local number for business
-        calls, you may need a different type of eSIM or a physical SIM from a local provider like Singtel. Alternatively,
-        you can use a VoIP service to get a virtual local number. This allows you to make and receive calls as if you had
-        a local line.
-    - q: How does an eSIM help with staying productive at business meetings around the city?
-      a: An eSIM ensures you have constant, reliable internet access for checking emails and accessing cloud documents during
-        meetings. You can use it to navigate between different office locations without interruption. The high-speed 5G connection
-        allows for quick file uploads and downloads. This seamless connectivity is crucial for a productive business day,
-        no matter where your meetings take you.
-    - q: Is there a cheap eSIM plan for a very short business trip of 1-2 days?
-      a: Yes, for a very short business trip, the 3-day 1GB plan at $1.99 is the cheapest and most practical option. This
-        plan is ideal for light data use like checking emails and messaging. If you need to do more, the 3-day 3GB plan for
-        $2.99 is still very affordable and offers more flexibility. These plans are perfect for a quick business visit without
-        committing to a longer, more expensive plan.
-    - q: Can I use my eSIM to set up a mobile hotspot for my laptop?
-      a: Yes, most eSIMs allow you to use your phone as a mobile hotspot for your laptop or tablet. This is very useful for
-        working in cafes or co-working spaces where Wi-Fi may be unreliable. You can share your eSIM's data connection with
-        other devices. For this purpose, a plan with a large data allowance, such as the 20GB plan for $18.99, is highly recommended
-        to avoid running out of data quickly.
+    - q: |
+        Is it safe to upload my passport for Singapore eSIM registration? I'm concerned about privacy.
+      a: |
+        Singapore requires identity verification by law. Singapore requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Singapore.
+    - q: |
+        How does Roami compare to Klook for eSIM in Singapore?
+      a: |
+        Roami typically offers better value for Singapore eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Klook. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+    - q: |
+        What if my hotel in Singapore has free WiFi — do I still need eSIM data?
+      a: |
+        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
+    - q: |
+        Does WhatsApp and FaceTime work with eSIM in Singapore?
+      a: |
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Singtel's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+    - q: |
+        What's the most popular eSIM choice for travelers going to Singapore?
+      a: |
+        Most travelers to Singapore choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
+    - q: |
+        How do I know if my Singapore eSIM plan is active and ready to use?
+      a: |
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Singapore — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+    - q: |
+        What happens if I use all my data in Singapore before my plan expires?
+      a: |
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+    - q: |
+        What if I accidentally delete my Singapore eSIM before my trip?
+      a: |
+        No problem. Log into your Roami account and request the QR code again. We recommend saving the QR code as a screenshot or PDF when you first receive it, just in case.
 related_products:
   title: Related Singapore eSIM Plans
   items:

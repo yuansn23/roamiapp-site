@@ -1,7 +1,8 @@
 ---
-title: "N. Macedonia eSIM Guide | Telekom or A1?"
-description: "Roami compares N. Macedonia carriers for travel eSIM. 5G from Skopje to Lake Ohrid. Find the most reliable network."
-date: '2026-06-04T00:00:00+00:00'
+title: "Stay connected in North Macedonia with the right eSIM plan."
+description: "Choosing between A1 MK and Mak Telekom for North Macedonia? Roami's guide compares real 5G speeds, latency and data plans for travelers in North Macedonia."
+date: "2026-06-17T06:04:17+00:00"
+
 keywords: North Macedonia eSIM, buy eSIM North Macedonia, A1 Macedonia, Makedonski
   Telekom, travel eSIM, instant connect, avoid roaming fees, Lake Ohrid, Skopje Old
   Bazaar
@@ -244,18 +245,3 @@ cta_free_trial_note: New customer exclusive
 cta_free_trial_text: Free trial eSIM
 cta_free_trial_link: /free-esim/
 ---
-# North Macedonia eSIM: Buy and Connect Instantly
-
-> **💡 Quick Summary for Travelers:** For most travelers to North Macedonia, Roami's eSIM using A1 Macedonia's network offers the best balance of speed and coverage, especially in Skopje and Lake Ohrid. If you need the absolute widest rural coverage, choose the Makedonski Telekom option. Both support 5G and eliminate expensive roaming fees for a worry-free trip.
-
-## Things you must know before buying a North Macedonia eSIM
-
-
-### Check Your Device Compatibility {#check-your-device-compatibility}
-Before purchasing, ensure your smartphone supports eSIM technology. Most recent models from Apple, Samsung, Google, and Huawei are compatible. Visit our <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> page to verify your device.
-
-### Understanding Local Networks {#understanding-local-networks}
-North Macedonia has two primary mobile operators: A1 Macedonia (formerly VIP) and Makedonski Telekom (part of Deutsche Telekom). Both offer excellent 4G and growing 5G coverage. Your Roami eSIM will connect to the best available network based on your plan.
-
-### Activation and Setup {#activation-and-setup}
-After purchase, you'll receive a QR code via email. Scan it with your phone's camera to install the eSIM profile. The eSIM activates automatically when you arrive in North Macedonia. Remember to enable Data Roaming in your settings – it's safe and won't incur extra charges.

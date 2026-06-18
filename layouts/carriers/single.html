@@ -92,6 +92,9 @@
         body { overflow-y: auto !important; overflow-x: hidden !important; height: auto !important; position: static !important; }
         #content, main, .max-w-7xl, section, article { overflow: visible !important; }
     </style>
+	
+	
+
 </head>
 <body class="bg-slate-50 text-slate-900 antialiased selection:bg-blue-200 selection:text-blue-900 relative">
 
@@ -101,54 +104,51 @@
 {{ $langPrefix := .Site.LanguagePrefix }}
 
 <main id="content">
-    <!-- HERO & BREADCRUMBS -->
-    <section class="relative overflow-hidden bg-slate-900 pt-10 pb-8 lg:pt-14 lg:pb-12">
-        <div class="absolute inset-0 overflow-hidden pointer-events-none" aria-hidden="true">
-            <div class="absolute -top-1/2 -right-1/4 w-[1000px] h-[1000px] rounded-full bg-blue-600/20 blur-3xl"></div>
-            <div class="absolute -bottom-1/2 -left-1/4 w-[800px] h-[800px] rounded-full bg-emerald-500/10 blur-3xl"></div>
-        </div>
+   
+   
+   <!-- HERO & BREADCRUMBS -->
+<section class="relative overflow-hidden bg-slate-900 pt-10 pb-8 lg:pt-14 lg:pb-12">
+    <div class="absolute inset-0 overflow-hidden pointer-events-none" aria-hidden="true">
+        <div class="absolute -top-1/2 -right-1/4 w-[1000px] h-[1000px] rounded-full bg-blue-600/20 blur-3xl"></div>
+        <div class="absolute -bottom-1/2 -left-1/4 w-[800px] h-[800px] rounded-full bg-emerald-500/10 blur-3xl"></div>
+    </div>
 
-        <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 z-10">
-            {{ with .Params.breadcrumb_items }}
-            <nav aria-label="Breadcrumb" class="mb-5">
-                <ol class="flex items-center space-x-2 text-sm text-slate-400">
-                    {{ $len := len . }}
-                    {{ range $index, $item := . }}
-                        {{ if lt $index (sub $len 1) }}
-                            <li><a href="{{ if or (hasPrefix $item.url "http") (hasPrefix $item.url "#") }}{{ $item.url | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" $item.url)) }}{{ end }}" class="hover:text-white transition-colors">{{ $item.name }}</a></li>
-                            <li><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path></svg></li>
-                        {{ else }}
-                            <li class="text-slate-200 font-medium" aria-current="page">{{ $item.name }}</li>
-                        {{ end }}
-                    {{ end }}
-                </ol>
-            </nav>
+    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 z-10">
+        <!-- 面包屑：强制 Home > Carriers > 当前页面标题 -->
+  <nav aria-label="Breadcrumb" class="mb-5">
+    <ol class="flex items-center space-x-2 text-sm text-slate-400">
+        <li><a href="{{ relLangURL "/" }}" class="hover:text-white transition-colors">{{ i18n "home" | default "Home" }}</a></li>
+        <li><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path></svg></li>
+        <li><a href="{{ relLangURL "/carriers/" }}" class="hover:text-white transition-colors">{{ i18n "carriers" | default "Carriers" }}</a></li>
+        <li><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path></svg></li>
+        <li class="text-slate-200 font-medium" aria-current="page">{{ $.Title }}</li>
+    </ol>
+</nav>
+        <div class="text-center">
+            <!-- 您的原有 hero 内容保持不变 -->
+            {{ if .Params.hero_badge }}
+            <div class="inline-flex items-center gap-2.5 mb-3 px-4 py-1.5 rounded-full text-sm font-medium bg-blue-500/15 text-blue-400 border border-blue-400/30">
+                <span class="relative flex h-2 w-2">
+                    <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-400 opacity-75"></span>
+                    <span class="relative inline-flex rounded-full h-2 w-2 bg-blue-500"></span>
+                </span>
+                <span class="[&>p]:m-0 [&>p]:inline">{{ .Params.hero_badge | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</span>
+            </div>
             {{ end }}
-
-            <div class="text-center">
-                {{ if .Params.hero_badge }}
-                <div class="inline-flex items-center gap-2.5 mb-3 px-4 py-1.5 rounded-full text-sm font-medium bg-blue-500/15 text-blue-400 border border-blue-400/30">
-                    <span class="relative flex h-2 w-2">
-                        <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-400 opacity-75"></span>
-                        <span class="relative inline-flex rounded-full h-2 w-2 bg-blue-500"></span>
-                    </span>
-                    <span class="[&>p]:m-0 [&>p]:inline">{{ .Params.hero_badge | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</span>
-                </div>
+            <h1 class="font-extrabold text-white leading-tight tracking-tight mb-4 text-3xl sm:text-4xl lg:text-5xl [&>p]:m-0 [&>p]:inline">
+                {{ .Params.hero_subtitle_main | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}<br class="hidden sm:inline"/>
+                {{ if .Params.hero_subtitle_highlight }}
+                <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400 text-2xl sm:text-3xl lg:text-4xl mt-2 block leading-tight">{{ .Params.hero_subtitle_highlight | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</span>
                 {{ end }}
-                <h1 class="font-extrabold text-white leading-tight tracking-tight mb-4 text-3xl sm:text-4xl lg:text-5xl [&>p]:m-0 [&>p]:inline">
-                    {{ .Params.hero_subtitle_main | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}<br class="hidden sm:inline"/>
-                    {{ if .Params.hero_subtitle_highlight }}
-                    <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400 text-2xl sm:text-3xl lg:text-4xl mt-2 block leading-tight">{{ .Params.hero_subtitle_highlight | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</span>
-                    {{ end }}
-                </h1>
-                <div class="space-y-2 max-w-3xl mx-auto">
-                    {{ if .Params.hero_description_line1 }}
-                    <div class="text-base lg:text-lg text-slate-300 leading-relaxed [&>p]:m-0 [&>p]:inline">{{ .Params.hero_description_line1 | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</div>
-                    {{ end }}
-                </div>
+            </h1>
+            <div class="space-y-2 max-w-3xl mx-auto">
+                {{ if .Params.hero_description_line1 }}
+                <div class="text-base lg:text-lg text-slate-300 leading-relaxed [&>p]:m-0 [&>p]:inline">{{ .Params.hero_description_line1 | markdownify | replaceRE `href="/([^/"][^"]*)?"` (printf `href="%s/$1" target="_blank" rel="noopener noreferrer"` $langPrefix) | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</div>
+                {{ end }}
             </div>
         </div>
-    </section>
+    </div>
+</section>
 
     <!-- MAIN SECTION -->
     <section class="py-10 lg:py-16">

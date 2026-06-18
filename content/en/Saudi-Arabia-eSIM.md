@@ -351,278 +351,46 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: 'Saudi Arabia eSIM Guide 2026: Plans, Coverage & Tips'
-  desc: From Riyadh to Jeddah, stay connected on STC, Mobily, Zain networks. Our complete Saudi Arabia eSIM guide covers coverage,
-    plans, setup, and travel tips. Find the best plan for your trip.
+  title: "Saudi Arabia eSIM Guide 2026 | Plans, Coverage & Travel Tips"
+  desc: "Planning Saudi Arabia travel? Our eSIM guide covers cheapest esim saudi arabia, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1.  General Questions About Saudi Arabia eSIM
+    title: Saudi Arabia eSIM FAQs
     questions:
-    - q: How do I choose the right eSIM data plan for my trip to Saudi Arabia?
-      a: Consider the length of your stay and your data needs. For a short, data-light trip, a 1GB plan for $3.99 over 3 days
-        is sufficient for basic navigation and messaging. For longer vacations with heavy social media use, a 10GB plan for
-        $21.99 over 30 days offers great value. Our plans are designed to match different travel styles, from sightseeing
-        to in-depth exploration.
-    - q: Can I keep my existing WhatsApp or other messaging app number with a Saudi eSIM?
-      a: Yes, you can keep using your WhatsApp, Telegram, and other messaging apps with your existing number and contacts.
-        When you install a data-only eSIM, your phone will use the data connection for these apps. This means you can continue
-        chatting with friends and family back home without needing a Saudi phone number. Just ensure your messaging app is
-        set to use mobile data.
-    - q: Will an eSIM work with all smartphones in Saudi Arabia?
-      a: Most modern smartphones, including recent iPhones and high-end Android devices like Google Pixel and Samsung Galaxy,
-        support eSIM technology. You should check your phone's specifications to confirm eSIM compatibility before traveling.
-        If your device is eSIM-compatible, activation is a simple process of scanning a QR code. This seamless integration
-        makes it a convenient option for international travelers.
-    - q: How does an eSIM compare to a physical SIM card from STC or Zain in Saudi Arabia?
-      a: An eSIM is a digital SIM that you can purchase and activate online before you arrive, offering instant connectivity.
-        Physical SIM cards require you to find a local store and potentially deal with language barriers. eSIMs also allow
-        you to keep your home SIM active for calls and texts while using the eSIM for data. This flexibility is a major advantage
-        for modern travelers seeking convenience.
-    - q: What happens if I run out of data on my Saudi Arabia eSIM plan?
-      a: If you run out of data, you can easily purchase a top-up or a new eSIM plan from the same provider. Most apps allow
-        for quick recharges, so you can be back online within minutes. It's a good idea to monitor your usage through your
-        phone's settings to avoid interruptions. Having a backup plan ensures you always have access to maps and communication
-        tools.
-    - q: Is it better to buy an eSIM for Saudi Arabia or use international roaming from my home provider?
-      a: An eSIM is generally more affordable and offers better data allowances compared to standard international roaming
-        packages. Roaming charges can be exorbitant, whereas a dedicated eSIM plan like a 5GB plan for $10.99 gives you predictable
-        costs. You also get to connect to local networks like STC for faster speeds. This makes eSIMs a cost-effective and
-        reliable choice for staying connected.
-    - q: Can I use an eSIM for tethering or creating a Wi-Fi hotspot in Saudi Arabia?
-      a: Yes, most eSIM data plans in Saudi Arabia allow for tethering, so you can share your connection with a laptop or
-        tablet. This is perfect for business travelers who need to work on the go or for sharing data with travel companions.
-        However, it's wise to check the specific terms of your plan, as some unlimited options may have fair usage policies.
-        This feature adds significant value to your travel connectivity.
-    - q: Are there any specific settings I need to adjust on my phone for my Saudi eSIM to work?
-      a: Generally, after scanning the QR code to install the eSIM, you just need to ensure that data roaming is turned on
-        in your mobile network settings. Your phone will then automatically connect to the best available network like STC
-        or Zain. No further configuration is usually required. This simple setup process is a key reason why eSIMs are so
-        user-friendly.
-    - q: What should I do if my eSIM doesn't activate immediately after landing in Saudi Arabia?
-      a: First, try connecting to any available Wi-Fi network at the airport to complete the initial activation process. If
-        the issue persists, restarting your phone can often resolve the problem. You should also verify that the eSIM profile
-        is correctly installed in your phone's settings. Our customer support team is available to help with any technical
-        difficulties you might encounter.
-    - q: Can I switch between multiple eSIM profiles on my phone while in Saudi Arabia?
-      a: Yes, if you have multiple eSIM profiles installed, you can easily switch between them in your phone's settings. This
-        is useful if you have a plan from home and a local Saudi plan. You can designate which line you want to use for data,
-        calls, and messages. This multi-profile feature gives you total control over your connectivity.
-  - id: faq-airport
-    icon: airplane
-    tab_title: Airports
-    title: 2.  Saudi Arabia eSIM at Airports
-    questions:
-    - q: Can I activate my eSIM for Saudi Arabia before landing at King Khalid International Airport in Riyadh?
-      a: Yes, you can purchase and activate your eSIM before you even board your flight. This ensures you have data the moment
-        you land in Riyadh, allowing you to call a ride or message your hotel. Having a pre-activated eSIM eliminates the
-        need to search for a SIM card kiosk at the airport. It provides a seamless start to your journey.
-    - q: Will my eSIM work immediately at King Abdulaziz International Airport in Jeddah?
-      a: Absolutely, your eSIM will connect to the local network as soon as your plane lands at Jeddah airport. Once you switch
-        off airplane mode, it should activate within minutes. You can then use it to navigate the airport, check flight updates,
-        or contact your transfer. This immediate connectivity is a huge relief after a long flight.
-    - q: Is it easy to find Wi-Fi at Saudi airports for setting up my eSIM if needed?
-      a: Major airports in Saudi Arabia, including those in Riyadh and Jeddah, offer free Wi-Fi, making it easy to complete
-        any initial setup. If you purchased your eSIM before travel, you might not even need the airport Wi-Fi. But it serves
-        as a reliable backup if you encounter any activation issues. This ensures you are never stuck without a connection.
-    - q: Are there physical SIM kiosks at Saudi airports, and how do they compare to an eSIM?
-      a: Yes, you will find kiosks for STC, Zain, and other providers at arrivals halls. However, these often involve queues,
-        paperwork, and potential language barriers. An eSIM costs the same or less, like a 5GB plan for $9.99, and can be
-        set up in minutes from your phone. For speed and convenience, an eSIM is the superior option.
-    - q: What is the best way to get data immediately after arriving at Dammam's King Fahd International Airport?
-      a: The best way is to have an eSIM ready and installed on your phone before you land. This way, you won't waste time
-        looking for a SIM card vendor and can start using your data right away. You can be checking maps or messaging family
-        while others are still in line. It’s the most efficient method for modern travelers.
-  - id: faq-transport
-    icon: train
-    tab_title: Transport
-    title: 3.  Saudi Arabia eSIM for Transport
-    questions:
-    - q: Can I use my eSIM to book an Uber or Careem in Saudi Arabia?
-      a: Yes, with an active data connection from your eSIM, you can easily use ride-hailing apps like Uber and Careem. These
-        apps require an internet connection to locate you and process your booking. A reliable data plan ensures you can get
-        a ride quickly from the airport or anywhere in the city. This is essential for convenient travel across Riyadh and
-        Jeddah.
-    - q: Will Google Maps work for navigation with a Saudi eSIM?
-      a: Definitely, Google Maps works perfectly with a data connection from your eSIM. You can use it for real-time GPS navigation,
-        avoiding traffic jams in major cities. Downloading offline maps before your trip can also help save data. This makes
-        exploring the Kingdom's highways and city streets straightforward and stress-free.
-    - q: Can I use Saudi Arabia eSIM for ride-hailing and maps?
-      a: Absolutely. Saudi Arabia eSIM works with ride-hailing apps and navigation. A 5GB/15 days plan ($4.99) covers daily
-        navigation and ride-booking during a typical trip. The 4G/5G connection ensures reliable real-time tracking and route
-        updates.
-    - q: Is a data connection necessary for using the SAPTCO bus service in Saudi Arabia?
-      a: While not strictly necessary, having data makes using SAPTCO much easier. You can check bus schedules, book tickets
-        online, and use maps to find the correct bus stop. An eSIM provides the connectivity needed to manage your intercity
-        bus travel smoothly. It turns a potentially confusing process into a simple one.
-    - q: Can I use my eSIM to navigate the Riyadh Metro?
-      a: Yes, the Riyadh Metro is a new and efficient system, and a data connection helps you use its apps for route planning
-        and ticket purchases. You can also use Google Maps to find the nearest station and your exit. An eSIM ensures you
-        have the necessary data to navigate this modern transit system with confidence.
-  - id: faq-hotels
-    icon: building
-    tab_title: Hotels
-    title: 4.  Saudi Arabia eSIM for Hotels
-    questions:
-    - q: Will my eSIM work in hotels outside of major cities like Riyadh and Jeddah?
-      a: Yes, eSIMs connect to major national networks like STC and Zain, which have extensive coverage across Saudi Arabia,
-        including remote areas and smaller towns. This means you'll have a reliable connection even in desert camps or smaller
-        hotels. You won't be dependent on the hotel's potentially slow Wi-Fi. This ensures you are connected wherever your
-        travels take you.
-    - q: Can I use my eSIM as a backup if the hotel's Wi-Fi is slow or unreliable?
-      a: Absolutely, having your own private eSIM data connection is an excellent backup for poor hotel Wi-Fi. You can use
-        it for work video calls, streaming, or any other activity without interruption. This is especially important for business
-        travelers who need a stable connection. It gives you peace of mind that you can always stay productive or entertained.
-    - q: Should I buy a large data plan if my hotel offers free Wi-Fi?
-      a: If your hotel provides good, reliable Wi-Fi, a smaller data plan like 3GB for $6.99 might be sufficient for navigation
-        and messaging when you are out and about. However, for peace of mind and to avoid connection drops, a 5GB plan is
-        a great choice. It allows you to use your eSIM as your primary connection without worry. The choice depends on your
-        reliance on the hotel's internet.
-    - q: Can I check-in to my hotel online using my eSIM before I arrive?
-      a: Yes, many hotels now offer online check-in services, which require an internet connection. You can do this from the
-        airport or in your taxi using your eSIM data. This allows you to bypass the front desk and go straight to your room
-        upon arrival. It’s a convenient way to save time after a long journey.
-    - q: How can I contact my hotel's concierge for recommendations using my eSIM?
-      a: With your eSIM active, you can easily call the hotel's front desk or send messages via WhatsApp if they offer that
-        service. You can also email them or use their app to ask for restaurant or sightseeing recommendations. This constant
-        connectivity allows you to be a more informed and spontaneous traveler.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5.  Saudi Arabia eSIM for Attractions
-    questions:
-    - q: Can I use my eSIM to buy tickets online for Al Ula's archaeological sites?
-      a: Yes, you can purchase tickets for Al Ula and other attractions like Diriyah online using your eSIM data. Many sites
-        require advanced booking, and having a data connection makes this process seamless. You can also use your phone to
-        show digital tickets at the entrance. This saves you from carrying paper tickets and waiting in long lines.
-    - q: Will Google Maps work for finding my way around the Edge of the World?
-      a: Google Maps can provide general directions to the Edge of the World area, but a dedicated offline GPS app might be
-        more reliable as cell service can be spotty. Downloading offline maps before your trip is highly recommended for such
-        remote locations. Your eSIM will still be useful for initial navigation and for posting photos when you return to
-        areas with better coverage. It’s an essential tool for any adventure.
-    - q: Can I use my eSIM for live streaming at the Kingdom Centre Tower in Riyadh?
-      a: Yes, with a high-speed data plan like a 10GB or 20GB option, you can easily live stream from the top of the Kingdom
-        Centre Tower. The 5G/4G/LTE connection provided by local networks is generally fast enough for high-quality video.
-        This allows you to share your experiences in real-time with friends and family. Just ensure you have enough data for
-        your streaming needs.
-    - q: Is an eSIM useful for visiting the Red Sea beaches and resorts?
-      a: Absolutely, an eSIM is very useful for staying connected at Red Sea resorts, where you might want to post photos
-        or check for water sports activities. The coverage along the coast is generally excellent. You can also use it to
-        access resort apps or menus. It enhances your vacation by keeping you informed and connected to the digital world.
-    - q: Can I use my eSIM to access audio guides at historical sites like Masmak Fortress?
-      a: Yes, many historical sites offer audio guides that can be accessed via a QR code and your phone's internet connection.
-        Your eSIM data allows you to download these guides and learn about the history of places like Masmak Fortress. This
-        enriches your travel experience by providing context and stories. It turns a simple visit into an educational tour.
-  - id: faq-social
-    icon: message-circle
-    tab_title: Social & Messaging
-    title: 6.  Saudi Arabia eSIM for Social Media
-    questions:
-    - q: Will my eSIM work with Snapchat and TikTok in Saudi Arabia?
-      a: Yes, your eSIM will work perfectly with all major social media platforms, including Snapchat, TikTok, and Instagram.
-        The high-speed data from networks like STC ensures smooth video uploads and browsing. You can share your travel stories
-        and photos without any lag. This allows you to stay connected with your followers throughout your trip.
-    - q: Can I use WhatsApp to make voice and video calls back home using my Saudi eSIM?
-      a: Absolutely, WhatsApp voice and video calls work seamlessly over your eSIM data connection. This is a great way to
-        stay in touch with family and friends without incurring international calling charges. As long as you have a stable
-        data connection, the call quality is excellent. This is one of the most popular features of using a data eSIM.
-    - q: How much data does social media typically use while traveling in Saudi Arabia?
-      a: Social media usage varies, but browsing and posting photos uses less data than watching videos. A 5GB plan is generally
-        sufficient for a week of moderate social media use, including occasional video calls. For heavy streaming and uploading,
-        a 10GB or 20GB plan is recommended. Monitoring your usage through your phone's settings can help you avoid running
-        out of data.
-    - q: Is it safe to use public Wi-Fi for social media in Saudi Arabia, or should I use my eSIM?
-      a: It is generally safer to use your private eSIM connection for sensitive activities like logging into social media
-        or banking. Public Wi-Fi networks in cafes or hotels can be less secure and vulnerable to hacking. Using your eSIM
-        provides a secure, encrypted connection that protects your personal data. This peace of mind is invaluable for any
-        traveler.
-    - q: Can I use my eSIM to access dating apps while in Saudi Arabia?
-      a: Yes, you can access dating apps using your eSIM data, as they function like any other app that requires an internet
-        connection. However, it is important to be aware of and respect local laws and cultural norms regarding social interactions.
-        Your eSIM provides the connectivity, but you are responsible for how you use it. Always exercise caution and discretion.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7.  Saudi Arabia eSIM for Cross-Border Travel
-    questions:
-    - q: Will my Saudi Arabia eSIM work if I travel to Bahrain via the King Fahd Causeway?
-      a: Most eSIM plans are designed for single-country use, so your Saudi Arabia eSIM may not work in Bahrain. You would
-        typically need a separate eSIM or a regional plan that covers both countries. It's always best to check the coverage
-        details before you travel. For a short trip, a dedicated Bahrain eSIM is a more reliable option.
-    - q: Can I use my Saudi eSIM in the United Arab Emirates (UAE)?
-      a: No, a standard Saudi Arabia eSIM will not work in the UAE, as it is a different country with its own carriers. You
-        would need to purchase a new eSIM for the UAE or a regional GCC plan. This is a common mistake, so it's important
-        to plan your connectivity for each country you visit. Ensure you have the right plan for your entire itinerary.
-    - q: Are there any eSIM plans that cover both Saudi Arabia and other Middle East countries?
-      a: Yes, some providers offer regional eSIM plans that cover multiple countries in the Middle East, which can be very
-        convenient. These plans often include popular destinations like the UAE, Qatar, and Kuwait. While they may cost more
-        than a single-country plan, they save you the hassle of buying separate eSIMs. This is a great option for multi-country
-        tours of the region.
-    - q: If I have a layover in Doha, Qatar, will my Saudi eSIM work there?
-      a: No, your Saudi eSIM will not work in Qatar, even for a layover. You would either need to rely on airport Wi-Fi or
-        purchase a separate eSIM for Qatar. Some providers offer global or regional plans that could cover this. It’s a good
-        idea to check your plan's coverage map before you depart.
-    - q: How do I manage data usage when traveling from Saudi Arabia to another country like Jordan?
-      a: When you cross the border into Jordan, you should switch your data to a new Jordan eSIM profile to avoid any charges.
-        You can keep your Saudi eSIM profile installed but ensure it is deactivated for data when you are out of the country.
-        This careful management prevents accidental usage and ensures you are only paying for data you intend to use. Planning
-        ahead makes cross-border travel smooth.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  Saudi Arabia eSIM for Emergencies
-    questions:
-    - q: Can I call emergency services like 997 (Police) in Saudi Arabia using my eSIM?
-      a: Yes, even with a data-only eSIM, your phone can still make emergency calls to numbers like 997 for police, 998 for
-        ambulance, and 999 for fire. This is a standard safety feature on all smartphones. Your phone will use any available
-        network to connect the call. This critical function ensures you can reach help in an emergency, even without a traditional
-        phone plan.
-    - q: Can I use WhatsApp and FaceTime with Saudi Arabia eSIM?
-      a: Yes! Saudi Arabia eSIM supports WhatsApp audio/video calls, FaceTime, WeChat voice, and Zoom without any blocks.
-        You can stay in touch with family using your preferred messaging apps throughout your trip.
-    - q: How can I use my eSIM to get help if I have a car breakdown on a highway?
-      a: If you have a breakdown, you can use your eSIM data to call your rental company or a roadside assistance service.
-        You can also use Google Maps to find nearby mechanic shops or service stations. A reliable data connection is crucial
-        in this situation for communicating your location and needs. This connectivity can significantly reduce the stress
-        of an unexpected breakdown.
-    - q: Can I use my eSIM to check for emergency alerts or weather warnings in Saudi Arabia?
-      a: Yes, your eSIM will allow you to receive emergency alerts from local authorities and check weather apps for warnings.
-        This is especially important during sandstorms or extreme heat events. Staying informed through your data connection
-        can help you make safe decisions while traveling. It is a vital tool for personal safety.
-    - q: If I lose my wallet and phone, can I use my eSIM to contact my bank or embassy?
-      a: Yes, if you still have your phone, your eSIM provides the internet connection needed to email your embassy or use
-        banking apps to freeze your cards. This is a critical first step in managing a lost wallet situation. The ability
-        to communicate quickly is invaluable for resolving such emergencies. Your eSIM acts as a digital lifeline in difficult
-        times.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  Saudi Arabia eSIM for Business Travelers
-    questions:
-    - q: Is a 1GB eSIM plan enough for a short business trip to Saudi Arabia?
-      a: For a short 3-day business trip focused on meetings and emails, a 1GB plan for $3.99 is often sufficient. You can
-        use it for checking emails, using messaging apps, and light web browsing. For video conferencing or downloading large
-        files, you would need a larger plan. It's a cost-effective choice for minimal connectivity needs.
-    - q: Can I use my eSIM for reliable video conferencing on Zoom or Microsoft Teams?
-      a: Yes, with a high-speed plan like a 10GB or 20GB option, you can have reliable video calls on platforms like Zoom
-        and Microsoft Teams. The 5G/4G/LTE networks in Saudi cities are robust enough for clear video and audio. This allows
-        you to attend virtual meetings from your hotel or a co-working space without interruption. It’s essential for maintaining
-        productivity on the road.
-    - q: How does an eSIM help with accessing corporate VPNs and secure networks?
-      a: An eSIM provides a stable internet connection that allows you to connect to your company's VPN securely. This is
-        vital for accessing internal databases, emails, and other sensitive corporate resources. The private nature of an
-        eSIM connection is more secure than public Wi-Fi. This ensures your business data remains protected during your travels.
-    - q: Can I use my eSIM to stay connected while attending a conference at the Riyadh International Convention & Exhibition
-        Center?
-      a: Yes, an eSIM is perfect for conferences, as it provides a dedicated data line that won't be affected by congested
-        public Wi-Fi. You can use it to check schedules, network on LinkedIn, or follow up on leads immediately. This reliable
-        connectivity can give you a professional edge. It ensures you never miss an important message or update.
-    - q: What is the best data plan for a business traveler who needs to work in multiple cities like Jeddah and Dammam?
-      a: For a business traveler moving between cities like Jeddah and Dammam, a 10GB or 20GB plan is ideal to ensure you
-        have enough data for work. A 30-day plan for $21.99 (10GB) offers excellent value and coverage across the country.
-        This provides the flexibility to work from anywhere without worrying about data limits. It’s a reliable solution for
-        the mobile professional.
+    - q: |
+        Can I get an eSIM for Saudi Arabia without spending too much?
+      a: |
+        Absolutely. Roami's Saudi Arabia eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+    - q: |
+        Do I need a passport or ID to use eSIM in Saudi Arabia? How does the verification work?
+      a: |
+        Yes, Saudi Arabia requires identity verification for eSIM. Saudi Arabia requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with STC's network than others — check our [eSIM compatibility](/compatibility/) page.
+    - q: |
+        How does Roami compare to Airalo for eSIM in Saudi Arabia?
+      a: |
+        Roami typically offers better value for Saudi Arabia eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+    - q: |
+        What's the most popular eSIM choice for travelers going to Saudi Arabia?
+      a: |
+        Most travelers to Saudi Arabia choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
+    - q: |
+        What happens if I use all my data in Saudi Arabia before my plan expires?
+      a: |
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+    - q: |
+        Can I keep my home SIM in my phone while using eSIM in Saudi Arabia?
+      a: |
+        Yes — that's one of the best things about eSIM. Your home SIM stays in slot 1 for receiving SMS (bank codes, login verifications), while the eSIM handles all data in slot 2. Just disable data roaming on your home SIM to avoid charges.
+    - q: |
+        How far in advance should I buy my Saudi Arabia eSIM?
+      a: |
+        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Saudi Arabia, so buying early doesn't waste your plan days.
+    - q: |
+        Can I install my Saudi Arabia eSIM at the airport, or should I do it before leaving home?
+      a: |
+        Do it before you leave. Installing needs internet — easy at home on WiFi, tricky at an airport where the WiFi often requires SMS verification. The eSIM QR code arrives by email within minutes of purchase. Scan it in your phone settings and you're ready. At Saudi Arabia's airport, just enable Data Roaming and you'll connect automatically.
 related_products:
   title: Related Saudi Arabia eSIM Plans
   items:

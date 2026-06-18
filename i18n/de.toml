@@ -296,3 +296,9 @@ other = "{{ .RegionName }} eSIM: Fragen, die Reisende stellen"
 countries = "Länder"
 carriers = "Betreiber"
 coverage_5g = "5G-Abdeckung"
+
+[home]
+other = "Startseite"
+
+[carriers]
+other = "eSIM-Anbieter"

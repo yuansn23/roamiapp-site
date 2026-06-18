@@ -375,280 +375,46 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: 'Croatia eSIM Guide 2026: Data Plans & Travel Tips'
-  desc: From Zagreb to Split, stay connected on Hrvatski Telekom, A1 Hrvatska, Tele2 networks. Our complete Croatia eSIM guide
-    covers coverage, plans, setup, and travel tips. Find the best plan for your trip.
+  title: "Croatia eSIM Plans & Pricing | Best Options for Travelers"
+  desc: "Planning Croatia travel? Our eSIM guide covers croatia esim unlimited, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1.  General Questions About Croatia eSIM
+    title: Croatia eSIM FAQs
     questions:
-    - q: How does an eSIM card in Croatia connect to local networks like A1 Croatia and T-Mobile Croatia?
-      a: An eSIM for Croatia automatically connects to partner networks such as A1 Croatia and T-Mobile Croatia upon activation.
-        This digital SIM profile provides high-speed 5G/4G/LTE service without needing a physical card. You can manage your
-        eSIM card Croatia settings directly on your device, choosing the best local signal. It works seamlessly for calls
-        and data across the country.
-    - q: Can I get an eSIM Croatia plan with high-speed 5G/4G/LTE data for a short trip?
-      a: Yes, there are flexible eSIM Croatia plans ranging from 3 to 30 days. For a quick visit, a 3-day plan with 1GB of
-        high-speed data is available for $1.99, perfect for navigation and messaging. These plans use A1 Croatia and T-Mobile
-        Croatia infrastructure for reliable speeds. You can easily top up or purchase a new eSIM for Croatia if you extend
-        your stay.
-    - q: What are the benefits of using an eSIM for Croatia over a traditional SIM card?
-      a: An eSIM for Croatia offers instant activation and no need to find a local store. You can purchase and install your
-        Croatia eSIM before you travel, connecting as soon as you land. It also allows you to keep your home number active
-        for calls while using data locally. This is particularly useful for managing roaming charges and staying connected
-        on the go.
-    - q: How do I choose the right data plan for my Croatia eSIM?
-      a: Consider your stay duration and data needs. For a weekend trip, a 7-day plan with 3GB at $4.99 is sufficient for
-        social media and maps. Longer stays benefit from a 30-day plan, like 20GB for $21.99, ideal for streaming and work.
-        All plans provide high-speed 5G/4G/LTE connectivity through local operators like A1 Croatia.
-    - q: Is it possible to use a Croatia eSIM for both personal and business needs?
-      a: Absolutely, a Croatia eSIM supports dual-SIM functionality, allowing a business line and personal data plan on one
-        device. You can assign a specific eSIM for Croatia for work data while using your physical SIM for calls. Plans like
-        the 30-day 50GB option for $39.99 provide ample data for video conferences and file sharing. This setup ensures seamless
-        connectivity for professionals traveling to Croatia.
-    - q: What should I do if I run out of data on my eSIM in Croatia?
-      a: You can purchase a new eSIM Croatia plan or a top-up data pack directly through the provider’s app or website. Most
-        services offer instant activation, so you can add more high-speed data within minutes. For example, a 15-day 10GB
-        plan is available for $13.99 if you need a mid-trip extension. Always ensure your device is compatible with an additional
-        eSIM profile.
-    - q: Can I use a Croatia eSIM on multiple devices or just one phone?
-      a: A single eSIM for Croatia is typically tied to one device, such as your smartphone or tablet. You cannot share the
-        same eSIM profile across multiple devices simultaneously. However, you can purchase separate eSIM Croatia plans for
-        each device you want to connect. This is useful for travelers with a phone and a tablet needing independent internet
-        access.
-    - q: How does the activation process work for an eSIM in Croatia?
-      a: After purchase, you receive a QR code or activation code via email. Scan it with your device’s settings to install
-        the eSIM profile, which connects to A1 Croatia or T-Mobile Croatia. The process takes only a few minutes and requires
-        a stable internet connection for initial setup. Once activated, your Croatia eSIM is ready to use immediately upon
-        arrival.
-    - q: Are there any limitations on using an eSIM for Croatia for international calls?
-      a: eSIM Croatia plans primarily focus on data services; voice calls are often not included in the standard data packages.
-        You can use VoIP apps like WhatsApp or Skype for calls over the high-speed 5G/4G/LTE network. For traditional calls,
-        you may need a separate international calling plan or use your home SIM. Data-only eSIMs are ideal for internet-based
-        communication.
-    - q: What is the difference between a physical SIM and a Croatia eSIM for tourists?
-      a: A Croatia eSIM is a digital alternative to a physical SIM, offering instant activation and no need for a plastic
-        card. Tourists can buy and install an eSIM for Croatia before traveling, avoiding queues at airport kiosks. It provides
-        the same high-speed 5G/4G/LTE coverage from local operators like A1 Croatia. This convenience makes eSIMs increasingly
-        popular for short-term visitors.
-  - id: faq-airport
-    icon: airplane
-    tab_title: Airports
-    title: 2.  Croatia eSIM at Airports
-    questions:
-    - q: Can I activate my eSIM for Croatia immediately after landing at Dubrovnik Airport?
-      a: Yes, you can activate your eSIM as soon as you arrive, provided you have airport Wi-Fi for the initial download.
-        Connect to the free Wi-Fi at Dubrovnik Airport to install the eSIM profile, which then connects to A1 Croatia or T-Mobile
-        Croatia. This ensures you have data for rideshare apps and navigation right away. The process is quick and avoids
-        the need for physical SIM stalls.
-    - q: Are there eSIM Croatia plans specifically designed for airport connectivity?
-      a: While there are no airport-specific plans, general eSIM Croatia plans with 7 or 15-day durations are perfect for
-        arrival. A 7-day 1GB plan at $2.99 is an affordable option to start using maps and messaging instantly. These plans
-        leverage local towers for high-speed 5G/4G/LTE coverage, including near airport terminals. You can purchase and install
-        the eSIM before your flight for a seamless landing.
-    - q: How do I connect to the internet at Zagreb Airport using my Croatia eSIM?
-      a: Activate your eSIM for Croatia by scanning the QR code before departure or using airport Wi-Fi. Once installed, your
-        device will automatically connect to the best local network, such as A1 Croatia. This provides immediate high-speed
-        data for checking flight info or booking a taxi. The eSIM card Croatia ensures you are online without searching for
-        a local SIM vendor.
-    - q: What if I have trouble installing my eSIM at Split Airport?
-      a: If you encounter issues, first ensure your device is eSIM-compatible and that you have a stable Wi-Fi connection.
-        Most eSIM providers offer 24/7 customer support to help with installation at Split Airport. You can also use the free
-        airport Wi-Fi to contact support or re-download the eSIM profile. Once set up, your Croatia eSIM will provide reliable
-        5G/4G/LTE connectivity throughout the region.
-    - q: Is it cheaper to buy an eSIM card Croatia online before arriving at the airport?
-      a: Yes, purchasing an eSIM for Croatia online before travel is often more affordable and convenient. Airport kiosks
-        may charge higher prices for physical SIMs, while eSIMs can be found for as low as $1.99 for a 3-day 1GB plan. Pre-buying
-        also saves time, as you can activate it upon arrival without queuing. This approach ensures you have immediate data
-        at competitive rates.
-  - id: faq-transport
-    icon: train
-    tab_title: Transport
-    title: 3.  Croatia eSIM for Transport
-    questions:
-    - q: Can I use my Croatia eSIM for GPS navigation on trains between cities like Zagreb and Split?
-      a: Absolutely, an eSIM for Croatia provides reliable high-speed 5G/4G/LTE data for real-time GPS apps. Trains in Croatia
-        pass through varied terrain, but network coverage from A1 Croatia and T-Mobile Croatia is generally strong along major
-        routes. A 15-day 5GB plan for $8.99 offers sufficient data for continuous navigation and online maps. This ensures
-        you never lose your way while exploring the country.
-    - q: Will my eSIM Croatia work on ferries to islands like Hvar or Korcula?
-      a: Yes, your eSIM for Croatia will work on ferries, as long as you are within range of coastal towers from A1 Croatia
-        or T-Mobile Croatia. Data speeds may vary near the open sea, but you can still access maps and messaging. Consider
-        a plan with more data, like 20GB for $21.99, to cover island hopping activities. The eSIM card Croatia ensures connectivity
-        even during short sea crossings.
-    - q: How does an eSIM for Croatia help with ride-sharing apps like Uber in Dubrovnik?
-      a: A Croatia eSIM provides instant high-speed data to request rides and track drivers in real time. With a plan like
-        3GB for $4.99, you can easily manage multiple rides without worrying about data limits. The network reliability from
-        local operators ensures quick app responses in busy areas. This connectivity is essential for tourists navigating
-        the Old Town and surrounding areas.
-    - q: What data plan is best for using public transport apps in Croatia?
-      a: For using public transport apps, a 7-day 1GB plan at $2.99 is adequate for checking schedules and routes. However,
-        if you plan to stream or use maps extensively, consider a 10GB plan for $14.99 for more flexibility. These eSIM Croatia
-        plans connect to high-speed 5G/4G/LTE, ensuring smooth app performance on buses and trams. This keeps you informed
-        and on schedule throughout your trip.
-    - q: Can I use my eSIM for Croatia on regional buses to Plitvice Lakes National Park?
-      a: Yes, your eSIM for Croatia will work on regional buses, providing data for navigation and ticket booking. Coverage
-        along roads to Plitvice Lakes is generally good via A1 Croatia and T-Mobile Croatia networks. A 30-day 10GB plan for
-        $14.99 offers ample data for a day trip and multimedia sharing. This ensures you can capture and upload memories without
-        interruption.
-  - id: faq-hotels
-    icon: building
-    tab_title: Hotels
-    title: 4.  Croatia eSIM for Hotels
-    questions:
-    - q: Do I need a Croatia eSIM if my hotel provides free Wi-Fi?
-      a: While hotel Wi-Fi is common, a Croatia eSIM offers reliable backup for areas with weak signals. It also provides
-        connectivity outside the hotel for maps, restaurant bookings, and emergency calls. For instance, a 7-day 3GB plan
-        at $4.99 ensures you are always online, even when Wi-Fi is slow. This flexibility is especially valuable in older
-        buildings or remote accommodations.
-    - q: Can I use my eSIM for Croatia to stream movies in my hotel room?
-      a: Yes, with a high-data eSIM plan, you can stream movies without relying on hotel Wi-Fi. A 30-day 50GB plan for $39.99
-        provides enough high-speed data for HD streaming and browsing. This ensures a stable connection via A1 Croatia or
-        T-Mobile Croatia, even during peak hours. It is a great option for leisure travelers wanting entertainment after a
-        day of sightseeing.
-    - q: How does an eSIM card Croatia improve my hotel check-in experience?
-      a: An eSIM for Croatia allows you to access hotel confirmations and check-in links immediately upon arrival. With high-speed
-        data, you can open emails or booking apps without needing hotel Wi-Fi. This speeds up the process, especially if you
-        arrive late or at a busy reception. The eSIM ensures you have all digital documents ready on your device.
-    - q: What if my hotel in Zadar has poor Wi-Fi connectivity?
-      a: If hotel Wi-Fi is unreliable, your Croatia eSIM provides a consistent high-speed 5G/4G/LTE connection. You can switch
-        to data for work tasks, video calls, or streaming without interruption. A 15-day 20GB plan for $21.99 is ideal for
-        heavy data users in such scenarios. This gives you independence from the hotel’s internet infrastructure.
-    - q: Is it possible to share my eSIM Croatia data with other devices in a hotel room?
-      a: Yes, you can enable mobile hotspot on your phone to share your eSIM data with a laptop or tablet. This is useful
-        for working or streaming on multiple devices in your hotel room. Ensure your plan supports tethering, which most high-speed
-        plans do, like the 30-day 100GB option for $54.99. This feature turns your phone into a portable Wi-Fi hub.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5.  Croatia eSIM for Attractions
-    questions:
-    - q: Can I use my eSIM for Croatia to buy tickets online for Dubrovnik City Walls?
-      a: Absolutely, an eSIM for Croatia provides fast data to purchase tickets on-the-go via official apps or websites. With
-        high-speed 5G/4G/LTE, you can avoid queues by booking ahead and showing digital tickets. A 7-day 5GB plan for $7.99
-        ensures you have enough data for multiple attraction bookings. This convenience is key for popular sites like the
-        City Walls.
-    - q: How does an eSIM card Croatia help with audio guides at Diocletian's Palace in Split?
-      a: A Croatia eSIM allows you to download audio guide apps or stream them directly at the site. With a reliable connection
-        from A1 Croatia, you can access historical information without renting a device. A 3GB plan for $4.99 is sufficient
-        for a full day of exploration and multimedia use. This enhances your experience with instant access to digital content.
-    - q: Will my eSIM for Croatia work at Plitvice Lakes National Park for sharing photos?
-      a: Yes, coverage at Plitvice Lakes is available from local operators, allowing you to upload photos and videos. A 10GB
-        plan for $14.99 provides ample data for sharing high-resolution images on social media. The high-speed 5G/4G/LTE network
-        ensures quick uploads, even in crowded areas. This keeps your friends and family updated on your adventures in real
-        time.
-    - q: What data plan is recommended for using augmented reality apps at historical sites?
-      a: For AR apps, you need a stable high-speed connection, making a 20GB plan for $21.99 a good choice. These apps consume
-        more data for 3D rendering and location services. The eSIM for Croatia ensures minimal lag, enhancing your interactive
-        experience at sites like Pula Arena. This plan supports extended use throughout your visit.
-    - q: Can I use my eSIM Croatia for live streaming at festivals like the Dubrovnik Summer Festival?
-      a: Yes, a high-data eSIM plan like 50GB for $39.99 is ideal for live streaming events. The high-speed 5G/4G/LTE network
-        from T-Mobile Croatia supports smooth video uploads. This allows you to share festivities in real time without buffering
-        issues. Ensure you have sufficient data for the duration of the festival.
-  - id: faq-social
-    icon: message-circle
-    tab_title: Social & Messaging
-    title: 6.  Croatia eSIM for Social Media
-    questions:
-    - q: How much data do I need for social media browsing on a Croatia eSIM?
-      a: For casual social media use, a 3GB plan for $4.99 is sufficient for a week of scrolling and posting. If you plan
-        to upload many photos or videos, consider a 10GB plan for $14.99 for more headroom. The eSIM for Croatia provides
-        consistent high-speed access to platforms like Instagram and Facebook. This ensures you stay connected with friends
-        without data anxiety.
-    - q: Can I use messaging apps like WhatsApp with my eSIM for Croatia?
-      a: Yes, messaging apps work perfectly over the eSIM’s high-speed 5G/4G/LTE connection. You can send texts, make voice
-        calls, and share media without additional charges. A 7-day 1GB plan for $2.99 is enough for basic messaging and occasional
-        media sharing. This is a cost-effective way to communicate with locals and fellow travelers.
-    - q: Will my eSIM Croatia support video calls on apps like FaceTime or Zoom?
-      a: Absolutely, video calls require a stable connection, which the eSIM for Croatia provides through local networks.
-        A 15-day 5GB plan for $8.99 supports several hours of video calling per week. For heavy use, consider a 20GB plan
-        for $21.99 to ensure smooth, uninterrupted calls. This is ideal for staying in touch with family or colleagues while
-        abroad.
-    - q: How does an eSIM card Croatia help with sharing travel updates on social media?
-      a: A Croatia eSIM enables you to instantly post stories and updates from anywhere with network coverage. With a 10GB
-        plan for $14.99, you can upload high-quality photos and videos without Wi-Fi dependence. The high-speed connection
-        from A1 Croatia ensures quick uploads, even in remote areas. This makes it easy to document your journey in real time.
-    - q: How much data do I need for Croatia?
-      a: Light users (maps + messaging) ~300MB/day, moderate (social + photos) ~700MB/day, heavy (streaming + video calls)
-        choose Unlimited. Most visitors find 5GB/15 days ($4.99) comfortable for a standard trip to Croatia.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7.  Croatia eSIM for Cross-Border Travel
-    questions:
-    - q: Can I use my Croatia eSIM in neighboring countries like Bosnia and Herzegovina?
-      a: Most eSIM Croatia plans are designed for use within Croatia only and may not work in other countries. For cross-border
-        travel, consider a regional Europe eSIM that includes Croatia and its neighbors. This ensures continuous coverage
-        when visiting places like Mostar or Montenegro. Always check the plan’s coverage details before traveling across borders.
-    - q: Will my eSIM for Croatia work if I take a day trip to Slovenia?
-      a: Standard eSIM Croatia plans typically do not cover Slovenia, so you would lose connectivity. You would need a separate
-        eSIM or a Europe-wide plan for seamless roaming. Some providers offer multi-country plans that include Croatia and
-        Slovenia for a single price. This avoids the hassle of reconfiguring your eSIM for each border crossing.
-    - q: How do I stay connected when traveling from Croatia to nearby islands in Italy?
-      a: Traveling to Italy requires a different eSIM, as Croatia-specific plans do not include international coverage. You
-        can purchase a regional Europe eSIM before your trip to cover both countries. This ensures high-speed 5G/4G/LTE connectivity
-        on ferries and during your stay in Italy. Plan ahead to avoid data gaps during your journey.
-    - q: Is there an eSIM option that covers both Croatia and Montenegro for a road trip?
-      a: Yes, some providers offer regional eSIMs that include multiple Balkan countries, such as Croatia and Montenegro.
-        These plans provide seamless connectivity as you drive from Dubrovnik to Kotor. For example, a 15-day 10GB Europe
-        plan for $13.99 could cover both destinations. This is ideal for travelers exploring the Adriatic coast across borders.
-    - q: What should I check before using my eSIM card Croatia in a cross-border scenario?
-      a: Always verify the eSIM’s coverage map to confirm it includes your destination. Activate any roaming features if supported,
-        though most Croatia-only plans do not offer this. For cross-border trips, purchase a regional plan before departure
-        to avoid connectivity loss. This preparation ensures you have data for maps and communication throughout your journey.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  Croatia eSIM for Emergencies
-    questions:
-    - q: Can I use my eSIM Croatia to call emergency services like 112?
-      a: Yes, you can dial 112 for emergencies even without a data plan, as this is a standard feature on all phones. However,
-        a Croatia eSIM ensures you have data to share your location via GPS or messaging apps. This is crucial in remote areas
-        where verbal communication may be difficult. The eSIM provides an additional layer of safety during your travels.
-    - q: How does an eSIM for Croatia help in a medical emergency?
-      a: With an eSIM, you can quickly search for nearby hospitals or clinics using high-speed data. You can also use messaging
-        apps to contact your embassy or insurance provider for assistance. A 3GB plan for $4.99 provides enough data for such
-        urgent searches and calls. This connectivity can be lifesaving in critical situations.
-    - q: What if I lose my phone with the eSIM activated in Croatia?
-      a: If you lose your phone, you can remotely deactivate your eSIM through your provider’s website or app. Most services
-        allow you to suspend the eSIM to prevent unauthorized use. You can then purchase a new eSIM for Croatia on another
-        device using your account. This security feature protects your data and plan balance.
-    - q: Will my eSIM Croatia work during natural disasters or network outages?
-      a: During widespread outages, network availability depends on the resilience of local infrastructure from A1 Croatia
-        or T-Mobile Croatia. An eSIM may still work if one carrier remains operational. It is advisable to have offline maps
-        and emergency contacts saved on your device. This ensures basic functionality even if data services are disrupted.
-    - q: Can I use my eSIM for Croatia to send my location to emergency contacts?
-      a: Yes, with a data connection, you can share your real-time location via apps like Google Maps or WhatsApp. This is
-        especially useful if you are lost or in an accident in a remote area. A 7-day 3GB plan for $4.99 provides sufficient
-        data for such emergency sharing. This feature enhances your safety by keeping contacts informed.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  Croatia eSIM for Business Travelers
-    questions:
-    - q: What is the best eSIM plan for a business traveler attending a conference in Zagreb?
-      a: For a conference, a 7-day 5GB plan for $7.99 covers emails, presentations, and video calls. If you need more data
-        for streaming or large file transfers, consider a 20GB plan for $21.99. The eSIM for Croatia provides high-speed 5G/4G/LTE
-        connectivity, ensuring you can work from the venue or hotel. This keeps you productive without relying on public Wi-Fi.
-    - q: Can I use my eSIM Croatia for virtual meetings while in Split?
-      a: Yes, the high-speed data from the eSIM supports stable video conferencing on platforms like Zoom or Microsoft Teams.
-        A 15-day 10GB plan for $13.99 offers enough data for several meetings per day. The connection from local networks
-        ensures minimal latency and clear audio. This is reliable for both one-on-one calls and larger webinars.
-    - q: How does an eSIM card Croatia help with accessing cloud services for work?
-      a: With an eSIM, you can access cloud storage and business apps like Google Drive or Dropbox seamlessly. A 30-day 30GB
-        plan for $29.99 provides ample data for uploading and downloading documents. The high-speed 5G/4G/LTE network ensures
-        quick sync times, even for large files. This is essential for remote work and collaboration while traveling.
-    - q: Is it possible to have a dedicated business line on my eSIM for Croatia?
-      a: Yes, you can use the eSIM for data while keeping your physical SIM for business calls, or vice versa. Some eSIMs
-        support voice calls, but data-only plans are common for business use with VoIP apps. This dual-SIM setup allows you
-        to manage work and personal communications efficiently. It is a flexible solution for professionals on the move.
-    - q: What data allowance do I need for a week-long business trip to Croatia?
-      a: For a week, a 7-day 10GB plan for $12.99 is ideal for moderate use, including emails and browsing. If you need to
-        handle large presentations or continuous streaming, a 20GB plan for $20.99 offers more security. The eSIM for Croatia
-        ensures you stay connected for all professional tasks. This range of plans caters to different business needs and
-        workloads.
+    - q: |
+        Is it safe to upload my passport for Croatia eSIM registration? I'm concerned about privacy.
+      a: |
+        Croatia requires identity verification by law. Croatia requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Croatia.
+    - q: |
+        Will the Croatia eSIM unlimited plan slow down if I use too much data?
+      a: |
+        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
+    - q: |
+        I'm traveling to Croatia for just 2-3 days. What eSIM should I get?
+      a: |
+        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+    - q: |
+        Do I need to remove my physical SIM to use eSIM in Croatia?
+      a: |
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Best of both worlds.
+    - q: |
+        Can I keep my home SIM in my phone while using eSIM in Croatia?
+      a: |
+        Yes — that's one of the best things about eSIM. Your home SIM stays in slot 1 for receiving SMS (bank codes, login verifications), while the eSIM handles all data in slot 2. Just disable data roaming on your home SIM to avoid charges.
+    - q: |
+        What do I do if my Croatia eSIM doesn't connect when I arrive?
+      a: |
+        Three quick checks: 1) Is Data Roaming turned on? 2) Can you manually select Hrvatski Telekom in network settings? 3) Try restarting your phone. Most issues resolve with one of these. If not, Roami support is available 24/7.
+    - q: |
+        What documents do I need to buy a Croatia eSIM from Roami?
+      a: |
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+    - q: |
+        When does the validity period of my Croatia eSIM start?
+      a: |
+        The plan validity starts when you connect to a local network in Croatia, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
 related_products:
   title: Related Croatia eSIM Plans
   items:

@@ -1,7 +1,8 @@
 ---
-title: "Colombia eSIM Guide | Claro, Movistar or Tigo?"
-description: "Roami compares Colombia's carriers for travel eSIM. 5G from Bogota to Cartagena. Find the fastest network."
-date: '2026-06-04T00:00:00+00:00'
+title: "Reliable eSIM for Colombia: coverage and speed guide."
+description: "Choosing between Claro, Tigo and Movistar for Colombia? Roami's guide compares real 5G speeds, latency and data plans for travelers in Colombia."
+date: "2026-06-17T06:04:17+00:00"
+
 keywords: eSIM Kolumbien, prepaid data, 5G network, Claro, Movistar, Tigo, Colombia
   eSIM, travel eSIM
 site_name: Roami
@@ -347,24 +348,3 @@ cta_free_trial_note: Exclusive for new customers
 cta_free_trial_text: Free Kolumbien trial eSIM
 cta_free_trial_link: /free-esim/
 ---
-# Kolumbien eSIM: Experience blazing‑fast 5G speeds
-
-> **💡 Short summary for travelers:** Say farewell to exorbitant roaming fees: enter the era of global, free connectivity. With Roami's Kolumbien eSIM, you tap into the country's top‑tier networks — Claro (median download 44.26 Mbps), Movistar (fastest fixed ISP at 308.37 Mbps), and Tigo (5G speed score 65.27). Whether you're in Envigado (mobile 54.76 Mbps) or Bogotá, enjoy seamless, high‑speed data without physical SIMs or hidden charges. Roami's eSIM is your passport to affordable, blazing‑fast connectivity across Colombia.
-
-## Things you need to know before buying a Kolumbien eSIM
-
-
-### 1. Main 5G/4G frequency bands in Colombia {#1-main-5g4g-frequency-bands-in-colombia}
-Colombia's mobile networks operate on key bands: 4G LTE bands 2 (1900 MHz), 4 (1700/2100 MHz AWS), 5 (850 MHz), 7 (2600 MHz), 12 (700 MHz), and 17 (700 MHz). 5G bands include n78 (3500 MHz) and n41 (2500 MHz). Ensure your eSIM‑compatible device supports these bands for optimal performance.
-
-### 2. KYC (Know Your Customer) requirements {#2-kyc-know-your-customer-requirements}
-To activate a Colombian eSIM, you must provide a valid passport or national ID. Some providers may require a selfie or proof of address. Roami simplifies this by handling KYC digitally during purchase.
-
-### 3. Fair Usage Policy (FUP) and data caps {#3-fair-usage-policy-fup-and-data-caps}
-Most prepaid eSIM plans have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold (e.g., 10 GB per month). Check the specific plan details to avoid unexpected slowdowns.
-
-### 4. Network compatibility and roaming restrictions {#4-network-compatibility-and-roaming-restrictions}
-Colombian eSIMs are valid only within Colombia. They do not automatically switch to networks in neighboring countries. If you travel to Ecuador, Peru, or Brazil, you will need a separate eSIM or roaming add‑on.
-
-### 5. Activation and top‑up process {#5-activation-and-topup-process}
-Activation is instant via QR code. Top‑ups can be done online through the provider's portal or app. Some eSIMs allow multiple data packages to be purchased and activated sequentially.

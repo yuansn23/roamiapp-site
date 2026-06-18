@@ -382,216 +382,46 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: 'Spain eSIM Guide 2026: Data Plans & Travel Tips'
-  desc: From Madrid to Barcelona, stay connected on Movistar, Orange, Vodafone networks. Our complete Spain eSIM guide covers
-    coverage, plans, setup, and travel tips. Find the best plan for your trip.
+  title: "Spain eSIM for Travelers | Pricing & How to Stay Connected"
+  desc: "Planning Spain travel? Our eSIM guide covers spain portugal esim, plans, and setup tips."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: General
-    title: 1.  General Questions About Spain eSIM
+    title: Spain eSIM FAQs
     questions:
-    - q: Which Spain eSIM is best for tourists visiting multiple cities?
-      a: The ideal Spain eSIM for tourists balances coverage, speed, and budget. Our eSIM connects automatically to the strongest
-        local networks – so whether you’re in Madrid, Barcelona, Seville, or Valencia, you’ll get reliable 4G/5G. For short
-        city breaks (3 days), a 1GB plan costs $1.99 or 3GB for $3.99 – enough for maps and messaging. For 7 days, 1GB is
-        $2.99, 5GB is $6.99. For road trips of 15 days, 5GB is $7.99 or 10GB for $12.99. Heavy users can choose our 30-day
-        unlimited plan at $69.99 or the 15-day unlimited at $43.99.
-    - q: Is Movistar or Orange better for Spain travel?
-      a: Both Movistar and Orange offer excellent coverage across Spain. Movistar generally has wider rural coverage, while
-        Orange offers competitive 5G speeds in cities. For most travelers visiting Madrid, Barcelona, and the surrounding
-        areas, either network works well. If you plan to explore remote areas, Movistar is typically the safer choice.
-    - q: Is there an unlimited data eSIM for Spain?
-      a: 'Yes, we offer unlimited data plans for Spain. A 3‑day unlimited plan is $9.99, 7‑day unlimited is $21.99, 15‑day
-        unlimited is $43.99, and 30‑day unlimited is $69.99. All give full‑speed usage with a fair usage policy: after 30GB
-        in a single day, speeds reduce to 512kbps until midnight local time – still enough for maps and messaging. Hotspot
-        is allowed, ideal for sharing with companions.'
-    - q: Does Spain eSIM work in Madrid and Barcelona?
-      a: Yes, Spain eSIM provides excellent coverage in Madrid, Barcelona, and other major areas. Major carriers offer strong
-        5G/4G networks across all urban centers and tourist districts. Sagrada Familia and Alhambra also have good signal
-        coverage for sharing your travel moments.
-    - q: Can I use a Spain eSIM on the Canary Islands or Balearic Islands?
-      a: Absolutely. The Canary Islands (Tenerife, Gran Canaria, Lanzarote) and the Balearics (Mallorca, Ibiza) are fully
-        covered. Prices are the same as mainland – no extra fees. For remote beaches, download offline maps, but coverage
-        is strong in all tourist zones.
-    - q: What devices are compatible with a Spain eSIM?
-      a: 'Most modern smartphones support eSIM: iPhone XS/XR and newer, Google Pixel 3a+, Samsung Galaxy S20/Note20+ (excluding
-        some Latin American models), and recent Huawei, Xiaomi, Oppo, Motorola devices. If your phone is carrier‑locked, check
-        with your provider before buying.'
-    - q: How do I install my Spain eSIM before traveling?
-      a: 'After purchase, we email a QR code. On iPhone: Settings > Cellular > Add eSIM. On Android: Settings > Network &
-        Internet > SIMs > Add eSIM. Scan the code, label it ''Spain''. The plan activates only when you arrive in Spain. You
-        can install weeks in advance. Validities: 3, 7, 15, or 30 days – pick the one matching your trip length.'
-    - q: What happens if I run out of data while in Spain?
-      a: You can top up online via our website – log in, purchase additional data (same validity extension), and it applies
-        instantly. Alternatively, buy a new plan. For example, if you started with 3GB/7 days for $4.99 and need more, add
-        5GB/7 days for $6.99. We send usage alerts at 80% and 100% so you never lose connectivity unexpectedly.
-  - id: faq-airport
-    icon: plane
-    tab_title: Airports
-    title: 2.  Spain eSIM at Airports
-    questions:
-    - q: How do I activate my Spain eSIM after landing at Barcelona or Madrid airport?
-      a: Install the eSIM at home before your flight. When you land at BCN, MAD, or AGP, turn off Airplane Mode and set your
-        eSIM as the data line. Connection takes under 30 seconds. No airport Wi‑Fi needed. You can then open Google Maps or
-        messaging apps immediately.
-    - q: Can I activate my Spain eSIM at the airport?
-      a: Yes, you can activate your Spain eSIM as soon as you land using the airport's free Wi-Fi. Just scan your QR code
-        from email and you'll be connected in under 2 minutes. We recommend installing the eSIM before departure so you're
-        connected the moment you arrive.
-    - q: What if my eSIM doesn’t connect immediately at the airport?
-      a: First, ensure your eSIM line is enabled and set as primary data. If no signal, go to Settings > Cellular > Network
-        Selection, turn off Automatic, and manually select a local carrier. All major carriers have strong coverage at Spanish
-        airports. Our 24/7 live chat can help if needed.
-    - q: Can I buy a Spain eSIM online while waiting at the departure gate?
-      a: Yes. Purchase from our website any time – QR code arrives by email within minutes. Install it immediately; the plan
-        only activates once you reach Spain. Perfect for last‑minute travelers. Prices start at $1.99 for 3 days/1GB.
-    - q: Does the eSIM work during a domestic connecting flight (e.g., Madrid to Tenerife)?
-      a: Once activated, your eSIM stays active across all Spanish territories. You’ll have data during layovers and after
-        landing at domestic airports like LPA or TFN. No need to buy a separate island plan.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3. Navigating Spain with eSIM Data
-    questions:
-    - q: Can I use Spain eSIM for ride-hailing and maps?
-      a: Absolutely. Spain eSIM works with ride-hailing apps and navigation. A 5GB/15 days plan ($4.99) covers daily navigation
-        and ride-booking during a typical trip. The 4G/5G connection ensures reliable real-time tracking and route updates.
-    - q: Does Uber or Cabify work with a data‑only eSIM in Spain?
-      a: Yes. Uber and Cabify require only data – no Spanish phone number. The driver can message you through the app. For
-        taxis, Free Now also works over data. Even a 1GB plan ($1.99/3 days) handles dozens of rides.
-    - q: How do I buy AVE high‑speed train tickets using my eSIM?
-      a: Use the Renfe or Ouigo España app. Both work over eSIM data – book tickets, get QR codes. A single booking uses less
-        than 1MB. For advance purchases, you can browse schedules on the go without needing Wi‑Fi.
-    - q: Is there good eSIM coverage on the Madrid or Barcelona Metro?
-      a: Coverage in main stations is good; deep tunnels may lose signal. Plan your route above ground. For extended metro
-        travel, 1GB is plenty for a week of city navigation.
-    - q: Can I use my eSIM to check real‑time ferry schedules to the Balearic or Canary Islands?
-      a: Yes. Ferry operator apps work over data. Checking schedules and booking tickets uses very little data – even the
-        smallest plan covers all your transport needs.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotels
-    title: 4. Accommodation & Local Services
-    questions:
-    - q: How do I check into a Spanish hotel or Airbnb without Wi‑Fi?
-      a: Use your eSIM data to open your booking confirmation – any data plan, even 1GB, easily handles email and app access.
-        Access door codes or show QR codes at reception immediately.
-    - q: Is hotel Wi‑Fi in Spain reliable enough, or should I use my eSIM?
-      a: Hotel Wi‑Fi varies. For secure activities (banking, logins), use your eSIM’s cellular data. For streaming, hotel
-        Wi‑Fi may suffice. Our 10GB/7 days plan ($10.99) gives you a secure backup for your entire stay.
-    - q: Can I order food delivery (Glovo, Uber Eats) to my hotel?
-      a: Yes. Glovo and Uber Eats work over eSIM data. Browsing restaurants, ordering, and tracking uses about 10‑20MB per
-        session – a 3GB plan ($4.99/7 days) handles dozens of deliveries.
-    - q: How do I find restaurant recommendations or make reservations on the go?
-      a: Use TripAdvisor, TheFork, or Google Maps. Reading reviews and booking tables uses minimal data. Even a 1GB plan is
-        sufficient for a week of dining research.
-    - q: Can I use my eSIM to book a last‑minute hotel change if plans shift?
-      a: Absolutely. Compare prices and book new accommodation directly via booking apps – data usage is negligible. With
-        our flexible plans, you can extend or add top‑ups as needed.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5. Tickets for Sagrada Familia, Alhambra & More
-    questions:
-    - q: Will I have coverage at Sagrada Familia in Spain?
-      a: Major attractions like Sagrada Familia typically have good 4G/5G coverage in Spain. However, remote areas may have
-        limited signal. Download offline maps before visiting out-of-the-way destinations. A 5GB plan provides comfortable
-        data for photos, maps, and social media throughout your trip.
-    - q: How do I get audio guides at the Prado Museum or Park Güell without Wi‑Fi?
-      a: Many museums stream audio guides. A 1‑hour guide uses about 50‑100MB – a 5GB plan ($6.99/7 days) covers many museums.
-        Or download offline audio tours on hotel Wi‑Fi in advance.
-    - q: Do I need data to book a flamenco show in Seville or Madrid?
-      a: Most flamenco venues have websites or WhatsApp. Booking online uses <1MB. You can compare prices and read reviews
-        on the go – even a 1GB plan handles this easily.
-    - q: Can I use my eSIM to buy skip‑the‑line tickets for the Royal Palace of Madrid?
-      a: Yes. The official ticketing website works over data. Purchasing timed tickets uses minimal data. You can buy while
-        waiting in the general queue – saving hours.
-    - q: How do I find free walking tours or local guides on the spot?
-      a: Use apps like GuruWalk or Civitatis – they use data to show tours and meeting points. Data usage is low; a 3GB plan
-        ($4.99/7 days) covers all your tour‑finding needs for a week.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social & Messaging
-    title: 6. Sharing Your Spanish Adventure
-    questions:
-    - q: Will WhatsApp work with a data‑only Spain eSIM?
-      a: Yes. WhatsApp uses about 0.5MB/min for voice calls, 5MB/min for video. A 3GB plan ($4.99/7 days) gives you 10 hours
-        of video calls or 100 hours of voice calls – more than enough for any trip.
-    - q: How much data do I need for Spain?
-      a: Light users (maps + messaging) ~300MB/day, moderate (social + photos) ~700MB/day, heavy (streaming + video calls)
-        choose Unlimited. Most visitors find 5GB/15 days ($4.99) comfortable for a standard trip to Spain.
-    - q: Is FaceTime reliable in Spanish cities?
-      a: Very. Low‑latency networks give clear HD calls. A 30‑minute FaceTime call uses ~150MB – well within a 3GB plan. Our
-        unlimited plans ($9.99/3 days up to $69.99/30 days) are ideal for heavy callers.
-    - q: Can I use my eSIM to livestream a flamenco performance or a festival?
-      a: Yes, but livestreaming uses 200‑500MB per hour. For short clips (5‑10 minutes), a 3GB plan is fine. For longer streams,
-        choose our 20GB/30 days ($21.99) or unlimited plan.
-    - q: How do I share my live location with friends while exploring multiple cities?
-      a: Use WhatsApp’s 'Share Live Location' – it uses minimal data (about 1‑2MB per hour). Even a 1GB plan covers days of
-        location sharing. Great for coordinating in busy places like Mercado de San Miguel.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Cross-border
-    title: 7. Day Trips to Gibraltar, Portugal & Morocco
-    questions:
-    - q: Does my Spain eSIM work in Gibraltar?
-      a: No. Gibraltar uses separate networks. For a day trip, rely on offline maps or buy a small local eSIM. Our Spain eSIM
-        is for Spain only – but a 3‑day plan costs as little as $1.99, so you can afford separate plans for each country.
-    - q: What about a day trip to Portugal (Lisbon, Faro, or Porto)?
-      a: No, this is a single‑country Spain eSIM. For Spain+Portugal trips, our Europe regional plan is better. However, if
-        you only visit Portugal for a day, a separate 3‑day plan (1GB/$1.99) is very affordable.
-    - q: Can I use my Spain eSIM in the Canary Islands (Gran Canaria, Tenerife, Lanzarote)?
-      a: Yes, fully covered. Same prices and validity as mainland. For a week in the Canaries, our 5GB/7 days for $6.99 is
-        ideal.
-    - q: Does it work in Ceuta or Melilla (Spanish enclaves in North Africa)?
-      a: Yes, both are Spanish territory. However, crossing into Morocco requires a separate eSIM. A Morocco 3‑day plan is
-        also available at competitive prices.
-    - q: What about Andorra (between Spain and France)?
-      a: No, Andorra has its own carriers. For a day trip to Andorra, download offline maps or buy a small Andorra eSIM. Our
-        prices are low enough that adding a separate plan won't break your budget.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergencies
-    title: 8.  Spain eSIM for Emergencies
-    questions:
-    - q: Can I call 112 (European emergency number) in Spain with my eSIM?
-      a: Yes, 112 works on any network – even without active data. It’s free. For non‑urgent medical help, use your eSIM data
-        to search for 'farmacia de guardia'. Data usage is minimal.
-    - q: How to find the nearest hospital or my country’s embassy in Spain?
-      a: Open Google Maps – uses <1MB per search. Save embassy contact offline. With a 3GB plan ($4.99/7 days), you have thousands
-        of searches available.
-    - q: Can I use WhatsApp and FaceTime with Spain eSIM?
-      a: Yes! Spain eSIM supports WhatsApp audio/video calls, FaceTime, WeChat voice, and Zoom without any blocks. You can
-        stay in touch with family using your preferred messaging apps throughout your trip.
-    - q: What should I do if I lose my phone or it gets stolen?
-      a: Log into our website from another device to view your plan. The eSIM cannot be used without your phone. Use 'Find
-        My iPhone' or Google Find My Device – those services work over any internet connection. You may need a small amount
-        of data, which your eSIM still provides if the phone is powered on.
-    - q: How do I contact my country’s consulate for lost passport assistance?
-      a: Use your eSIM data to search for the consulate’s emergency number. A quick search uses <0.5MB. You can call via Skype
-        or Google Voice over your eSIM data – a 10‑minute call uses about 5MB. Our plans are more than sufficient for emergency
-        communications.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  Spain eSIM for Business Travelers
-    questions:
-    - q: Is the eSIM fast enough for Zoom calls from a coworking space in Barcelona?
-      a: Yes. Spanish 4G/5G gives 10‑30 Mbps, enough for HD Zoom. A 1‑hour Zoom call uses 500MB‑1GB. For daily meetings, choose
-        a 10GB/7 days plan ($10.99) or 30GB/15 days ($28.99).
-    - q: Can I connect to my company VPN using this Spain eSIM?
-      a: Absolutely. No VPN blocking. Cellular data is more secure than public Wi‑Fi. Data usage for VPN overhead is minimal
-        – your plan’s main consumption will be meetings and file transfers.
-    - q: What’s the best Spain eSIM for a month‑long remote work stay?
-      a: For 30 days, our 50GB plan ($39.99) or unlimited ($69.99) are ideal. 50GB covers ~50 hours of Zoom plus regular browsing.
-        For lighter work, 20GB/30 days ($21.99) is sufficient for email, Slack, and occasional calls.
-    - q: Can I use my eSIM to access cloud services like Google Drive or Dropbox while traveling?
-      a: Yes. Uploading a 500MB file uses – as expected – 500MB. If you regularly sync large files, consider a 50GB or unlimited
-        plan. For occasional access, 20GB/30 days ($21.99) works well.
-    - q: How do I manage multiple eSIMs for work (personal + Spain eSIM)?
-      a: Most phones support dual SIM. Keep your home SIM active for calls/SMS, and set our Spain eSIM as the data line. A
-        3GB plan ($4.99/7 days) for data is often enough for work messaging and emails, letting your personal SIM handle voice.
+    - q: |
+        Can I get an eSIM for Spain without spending too much?
+      a: |
+        Absolutely. Roami's Spain eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+    - q: |
+        How do Movistar, Orange, and Vodafone compare for a tourist visiting Spain?
+      a: |
+        In Spain, Movistar leads with the fastest urban 5G speeds (up to 1 Gbps in tests). Orange covers about 85% of the country including most rural areas. Vodafone is the budget option, often bundling data at lower per-GB rates. Tourists visiting cities get excellent service from all three. Spain uses 5G on n78 band with good coverage in major c Roami picks the best one automatically as you move around.
+    - q: |
+        Is it safe to upload my passport for Spain eSIM registration? I'm concerned about privacy.
+      a: |
+        Spain requires identity verification by law. Spain requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Spain.
+    - q: |
+        How does Roami compare to Airalo for eSIM in Spain?
+      a: |
+        Roami typically offers better value for Spain eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+    - q: |
+        What do I do if my Spain eSIM doesn't connect when I arrive?
+      a: |
+        Three quick checks: 1) Is Data Roaming turned on? 2) Can you manually select Movistar in network settings? 3) Try restarting your phone. Most issues resolve with one of these. If not, Roami support is available 24/7.
+    - q: |
+        Can I check how much data I've used on my Spain eSIM?
+      a: |
+        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
+    - q: |
+        Is eSIM cheaper than international roaming for Spain?
+      a: |
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Spain costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+    - q: |
+        What happens if I use all my data in Spain before my plan expires?
+      a: |
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
 related_products:
   title: Related Spain eSIM Plans
   items:

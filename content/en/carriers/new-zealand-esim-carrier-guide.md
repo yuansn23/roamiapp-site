@@ -1,7 +1,8 @@
 ---
-title: "NZ eSIM Guide | Spark, One NZ or 2degrees?"
-description: "Roami compares NZ carriers for travel eSIM. 5G on both islands. Find the best network for road trips & backcountry."
-date: '2026-06-04T00:00:00+00:00'
+title: "New Zealand eSIM 2026: what to know before you go."
+description: "Don't guess your New Zealand eSIM. Roami benchmarks One NZ, Spark and 2degrees 5G speeds and coverage for the best travel eSIM in New Zealand."
+date: "2026-06-17T06:04:17+00:00"
+
 keywords: eSIM Neuseeland, prepaid data, 5G network, One NZ, Spark, 2degrees, travel
   eSIM
 site_name: Roami
@@ -363,24 +364,3 @@ cta_free_trial_note: Exclusive for new customers
 cta_free_trial_text: Free Neuseeland trial eSIM
 cta_free_trial_link: /free-esim/
 ---
-# Neuseeland eSIM: Quick activation with no physical SIM cards
-
-> **💡 Short summary for travelers:** 【Unlimited 5G data: more efficient use by sharing across multiple devices】. With Roami's Neuseeland eSIM, you can share your unlimited 5G data across your phone, tablet, and laptop, maximizing every megabyte. According to [Ookla Speedtest Connectivity Report](https://www.ookla.com/research/reports/new-zealand-speedtest-connectivity-report-h1-2025), Spark leads 5G with a median download speed of 342.37 Mbps, while One NZ offers the best overall mobile network with a Speedtest Connectivity Score of 74.58. Whether you're in Wellington (fastest mobile city at 186.4 Mbps) or Lower Hutt (fastest fixed city at 223.26 Mbps), Roami's eSIM ensures you stay connected without physical SIM cards or roaming fees.
-
-## Things you need to know before buying a Neuseeland eSIM
-
-
-### 1. Main 5G/4G frequency bands in Neuseeland {#1-main-5g4g-frequency-bands-in-neuseeland}
-Neuseeland's mobile networks operate on the following key bands: 4G: Band 1 (2100 MHz), Band 3 (1800 MHz), Band 28 (700 MHz) for wide coverage. 5G: n78 (3500 MHz) is the primary 5G band used by all three operators (One NZ, Spark, 2degrees). Some operators also use n40 (2300 MHz) and n257 (28 GHz) for mmWave in dense urban areas. Ensure your device supports these bands for optimal performance.
-
-### 2. KYC (Know Your Customer) requirements {#2-kyc-know-your-customer-requirements}
-To activate a Neuseeland eSIM, you must provide a valid form of identification. Accepted documents include a passport, national ID card, or driver's license. The KYC process is typically completed online during purchase. Your personal data is handled in compliance with New Zealand's Privacy Act 2020.
-
-### 3. Fair Usage Policy (FUP) for unlimited data plans {#3-fair-usage-policy-fup-for-unlimited-data-plans}
-Most unlimited data eSIM plans in Neuseeland have a Fair Usage Policy (FUP). Typically, after a certain data threshold (e.g., 30 GB per month), speeds may be throttled to 1-2 Mbps during peak times. Always check the specific FUP of your chosen provider to avoid unexpected slowdowns.
-
-### 4. eSIM compatibility and device support {#4-esim-compatibility-and-device-support}
-eSIM is supported on most modern smartphones including iPhone XS and later, Samsung Galaxy S20 and later, Google Pixel 4 and later, and select Huawei, Oppo, and Xiaomi models. Some older devices may not support eSIM. Check your device's IMEI <a href=\"/compatibility/\" class=\"font-bold text-blue-600\">eSIM compatibility</a> before purchasing.
-
-### 5. Roaming and network switching {#5-roaming-and-network-switching}
-Neuseeland eSIMs typically connect to a single operator network (One NZ, Spark, or 2degrees). Some providers offer automatic network switching for better coverage. Roaming within Neuseeland is free, but if you travel to nearby islands like the Cook Islands, separate roaming charges may apply.
