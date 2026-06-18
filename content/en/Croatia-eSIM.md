@@ -1,6 +1,6 @@
 ---
 title: 'Croatia eSIM 2026: Complete Travel Guide | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -384,37 +384,37 @@ faq_section:
     title: Croatia eSIM FAQs
     questions:
     - q: |
-        Is it safe to upload my passport for Croatia eSIM registration? I'm concerned about privacy.
+        Do I need a passport or ID to use eSIM in Croatia? How does the verification work?
       a: |
-        Croatia requires identity verification by law. Croatia requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Croatia.
+        Yes, Croatia requires identity verification for eSIM. Croatia requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Hrvatski Telekom's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
-        Will the Croatia eSIM unlimited plan slow down if I use too much data?
+        Is the unlimited eSIM plan for Croatia worth it, or would a fixed data plan be better?
       a: |
-        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
-    - q: |
-        I'm traveling to Croatia for just 2-3 days. What eSIM should I get?
-      a: |
-        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
-    - q: |
-        Do I need to remove my physical SIM to use eSIM in Croatia?
-      a: |
-        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Best of both worlds.
+        Roami's unlimited plan has a fair cap: 30GB per day, after which speed drops to 512 kbps until midnight. Most travelers use 500MB to 3GB daily — hitting 30GB means streaming 4K video for 10 hours straight. For regular browsing, maps, and social media, a 5GB or 10GB plan is plenty. Choose unlimited if you plan heavy streaming or hotspot sharing.
     - q: |
         Can I keep my home SIM in my phone while using eSIM in Croatia?
       a: |
-        Yes — that's one of the best things about eSIM. Your home SIM stays in slot 1 for receiving SMS (bank codes, login verifications), while the eSIM handles all data in slot 2. Just disable data roaming on your home SIM to avoid charges.
+        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
     - q: |
-        What do I do if my Croatia eSIM doesn't connect when I arrive?
+        I need internet access for just a couple of days in Croatia. What's the minimum I can buy?
       a: |
-        Three quick checks: 1) Is Data Roaming turned on? 2) Can you manually select Hrvatski Telekom in network settings? 3) Try restarting your phone. Most issues resolve with one of these. If not, Roami support is available 24/7.
+        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
     - q: |
-        What documents do I need to buy a Croatia eSIM from Roami?
+        What happens if I use all my data in Croatia before my plan expires?
       a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
     - q: |
-        When does the validity period of my Croatia eSIM start?
+        Does the Croatia eSIM work in rural areas and smaller towns?
       a: |
-        The plan validity starts when you connect to a local network in Croatia, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+        Coverage in Croatia reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
+    - q: |
+        Can I install my Croatia eSIM at the airport, or should I do it before leaving home?
+      a: |
+        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Croatia's airport, enable Data Roaming and you'll be online in under 60 seconds.
+    - q: |
+        Will my eSIM in Croatia work for video calls and remote work?
+      a: |
+        Absolutely. Hrvatski Telekom networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
 related_products:
   title: Related Croatia eSIM Plans
   items:

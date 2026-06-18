@@ -1,6 +1,6 @@
 ---
 title: 'Bulgaria eSIM 2026: Travel & Network Guide | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -383,37 +383,37 @@ faq_section:
     title: Bulgaria eSIM FAQs
     questions:
     - q: |
-        Is the unlimited eSIM plan for Bulgaria worth it, or would a fixed data plan be better?
+        Will the Bulgaria eSIM unlimited plan slow down if I use too much data?
       a: |
-        Roami's unlimited plan has a fair cap: 30GB per day, after which speed drops to 512 kbps until midnight. Most travelers use 500MB to 3GB daily — hitting 30GB means streaming 4K video for 10 hours straight. For regular browsing, maps, and social media, a 5GB or 10GB plan is plenty. Choose unlimited if you plan heavy streaming or hotspot sharing.
+        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
     - q: |
-        Do I need a passport or ID to use eSIM in Bulgaria? How does the verification work?
+        Is it safe to upload my passport for Bulgaria eSIM registration? I'm concerned about privacy.
       a: |
-        Yes, Bulgaria requires identity verification for eSIM. Bulgaria requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with A1's network than others — check our [eSIM compatibility](/compatibility/) page.
+        Bulgaria requires identity verification by law. Bulgaria requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Bulgaria.
     - q: |
-        What are the cheapest eSIM options for a trip to Bulgaria?
+        How much should I budget for an eSIM when visiting Bulgaria?
       a: |
-        Roami Bulgaria eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Thanks to A1's 5G network, streaming and video calls work great. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
+        Roami offers Bulgaria eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. A1 provides reliable speeds across Bulgaria. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
     - q: |
-        Will my Bulgaria eSIM work as soon as I land, or is there an activation delay?
+        Can I use my Bulgaria eSIM right after buying it, or do I need to wait?
       a: |
-        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to A1. No queues, no paperwork — you're online before you reach baggage claim.
+        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Bulgaria. So you can install weeks before your trip without losing any plan days.
     - q: |
-        What do I do if my Bulgaria eSIM doesn't connect when I arrive?
+        How do I know if my Bulgaria eSIM plan is active and ready to use?
       a: |
-        Three quick checks: 1) Is Data Roaming turned on? 2) Can you manually select A1 in network settings? 3) Try restarting your phone. Most issues resolve with one of these. If not, Roami support is available 24/7.
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Bulgaria — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
     - q: |
-        How far in advance should I buy my Bulgaria eSIM?
+        Does the Bulgaria eSIM work in rural areas and smaller towns?
       a: |
-        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Bulgaria, so buying early doesn't waste your plan days.
+        Coverage in Bulgaria reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
     - q: |
-        I'm traveling to Bulgaria for just 2-3 days. What eSIM should I get?
+        When does the validity period of my Bulgaria eSIM start?
       a: |
-        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+        The plan validity starts when you connect to a local network in Bulgaria, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
     - q: |
-        What's the easiest way to stay connected in Bulgaria without dealing with airport SIM kiosks?
+        How many eSIM profiles can I store on my phone for traveling to Bulgaria?
       a: |
-        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to A1 for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
+        Most phones store 5-10 eSIM profiles. You can keep your Bulgaria eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
 related_products:
   title: Related Bulgaria eSIM Plans
   items:

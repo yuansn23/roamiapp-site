@@ -1,6 +1,6 @@
 ---
 title: 'Serbia eSIM 2026: Coverage & Speed Guide | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -367,37 +367,37 @@ faq_section:
     title: Serbia eSIM FAQs
     questions:
     - q: |
-        Can I get an eSIM for Serbia without spending too much?
+        What are the cheapest eSIM options for a trip to Serbia?
       a: |
-        Absolutely. Roami's Serbia eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+        Roami Serbia eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Thanks to MTS's 5G network, streaming and video calls work great. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
     - q: |
-        Is it safe to upload my passport for Serbia eSIM registration? I'm concerned about privacy.
+        Do I need a passport or ID to use eSIM in Serbia? How does the verification work?
       a: |
-        Serbia requires identity verification by law. Serbia requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Serbia.
+        Yes, Serbia requires identity verification for eSIM. Serbia requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with MTS's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
-        Can I buy a Serbia eSIM at the last minute, right before my flight?
+        What's the difference between a 5GB plan and an unlimited plan for Serbia?
       a: |
-        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Serbia, just enable Data Roaming and you'll be online immediately.
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+    - q: |
+        Can I check how much data I've used on my Serbia eSIM?
+      a: |
+        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
+    - q: |
+        Can I use navigation apps like Google Maps with eSIM in Serbia?
+      a: |
+        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Serbia (about 200-500MB per city) before you go as a backup.
     - q: |
         Does WhatsApp and FaceTime work with eSIM in Serbia?
       a: |
         Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. MTS's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
     - q: |
-        When does the validity period of my Serbia eSIM start?
+        What do I do if my Serbia eSIM doesn't connect when I arrive?
       a: |
-        The plan validity starts when you connect to a local network in Serbia, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select MTS in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
     - q: |
-        What happens if my Serbia eSIM stops working mid-trip?
+        Will my Serbia eSIM work as soon as I land, or is there an activation delay?
       a: |
-        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
-    - q: |
-        What's the easiest way to stay connected in Serbia without dealing with airport SIM kiosks?
-      a: |
-        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to MTS for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
-    - q: |
-        How far in advance should I buy my Serbia eSIM?
-      a: |
-        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Serbia, so buying early doesn't waste your plan days.
+        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to MTS. No queues, no paperwork — you're online before you reach baggage claim.
 related_products:
   title: Related eSIM Plans
   items:

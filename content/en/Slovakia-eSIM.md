@@ -1,6 +1,6 @@
 ---
 title: 'Slovakia eSIM 2026: 5G & Data Guide | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -360,37 +360,37 @@ faq_section:
     title: Slovakia eSIM FAQs
     questions:
     - q: |
-        If I use eSIM in Slovakia, can I still get calls and texts on my regular number?
+        Does the Slovakia eSIM come with a local number, or is it data only?
       a: |
-        Yes — your home SIM stays active in slot 1 for SMS (bank codes, 2FA logins, social media verifications), while the eSIM handles data in slot 2. Just disable data roaming on your home SIM to avoid roaming charges, which can cost up to $10-15 per MB in some countries. All modern iPhones (XS+) and Android phones (Samsung S20+, Pixel 4+) support this dual setup.
+        It's data-only — no local number included. For calls, most travelers use WhatsApp, FaceTime, or Google Voice over data. Your home SIM stays active in slot 1 for SMS. Need a local number for reservations? Services like Skype or Google Voice work over the eSIM connection. Dual SIM setup takes about 30 seconds in your phone settings.
     - q: |
-        Is the unlimited eSIM plan for Slovakia worth it, or would a fixed data plan be better?
+        Will the Slovakia eSIM unlimited plan slow down if I use too much data?
       a: |
-        Roami's unlimited plan has a fair cap: 30GB per day, after which speed drops to 512 kbps until midnight. Most travelers use 500MB to 3GB daily — hitting 30GB means streaming 4K video for 10 hours straight. For regular browsing, maps, and social media, a 5GB or 10GB plan is plenty. Choose unlimited if you plan heavy streaming or hotspot sharing.
+        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
     - q: |
-        Do I need a passport or ID to use eSIM in Slovakia? How does the verification work?
+        Is it safe to upload my passport for Slovakia eSIM registration? I'm concerned about privacy.
       a: |
-        Yes, Slovakia requires identity verification for eSIM. Slovakia requires KYC verification. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with T-Mobile's network than others — check our [eSIM compatibility](/compatibility/) page.
+        Slovakia requires identity verification by law. Slovakia requires KYC verification. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Slovakia.
     - q: |
-        Do I need to remove my physical SIM to use eSIM in Slovakia?
+        Does WhatsApp and FaceTime work with eSIM in Slovakia?
       a: |
-        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Best of both worlds.
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. T-Mobile's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
     - q: |
-        Is eSIM cheaper than international roaming for Slovakia?
+        What's the difference between a 5GB plan and an unlimited plan for Slovakia?
       a: |
-        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Slovakia costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
     - q: |
-        Will my Slovakia eSIM work as soon as I land, or is there an activation delay?
+        What if I accidentally delete my Slovakia eSIM before my trip?
       a: |
-        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to T-Mobile. No queues, no paperwork — you're online before you reach baggage claim.
+        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
     - q: |
-        I need internet access for just a couple of days in Slovakia. What's the minimum I can buy?
+        When does the validity period of my Slovakia eSIM start?
       a: |
-        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
+        The plan validity starts when you connect to a local network in Slovakia, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
     - q: |
-        I'm arriving in Slovakia late at night. Will I be able to get online immediately?
+        Will my eSIM in Slovakia work for video calls and remote work?
       a: |
-        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up T-Mobile automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
+        Absolutely. T-Mobile networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
 related_products:
   title: Related eSIM Plans
   items:

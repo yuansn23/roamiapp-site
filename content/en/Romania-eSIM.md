@@ -1,6 +1,6 @@
 ---
 title: 'Romania eSIM 2026: Plan & Coverage Guide | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -391,29 +391,29 @@ faq_section:
       a: |
         Yes, Romania requires identity verification for eSIM. Romania requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Orange's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
-        Can I use navigation apps like Google Maps with eSIM in Romania?
+        Can I buy a Romania eSIM at the last minute, right before my flight?
       a: |
-        Yes — real-time navigation, traffic updates, and public transit info all work. As a backup, download offline maps for Romania before you go.
+        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Romania, just enable Data Roaming and you'll be online immediately.
+    - q: |
+        Is eSIM cheaper than international roaming for Romania?
+      a: |
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Romania costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
     - q: |
         How does eSIM compare to pocket WiFi for Romania travel?
       a: |
-        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip. Pocket WiFi works for groups, but you're tied to one device and need to keep it charged. With eSIM, your phone is your hotspot. Roami plans include free hotspot sharing.
+        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
     - q: |
-        What if my hotel in Romania has free WiFi — do I still need eSIM data?
+        When does the validity period of my Romania eSIM start?
       a: |
-        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
+        The plan validity starts when you connect to a local network in Romania, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
     - q: |
-        What happens if I use all my data in Romania before my plan expires?
+        Do I need to remove my physical SIM to use eSIM in Romania?
       a: |
-        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
     - q: |
-        How many eSIM profiles can I store on my phone for traveling to Romania?
+        Can I use navigation apps like Google Maps with eSIM in Romania?
       a: |
-        Most phones store 5-10 eSIM profiles. You can keep your Romania eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes seconds.
-    - q: |
-        How do I know if my Romania eSIM plan is active and ready to use?
-      a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Romania — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Romania (about 200-500MB per city) before you go as a backup.
 related_products:
   title: Related Romania eSIM Plans
   items:

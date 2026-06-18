@@ -1,6 +1,6 @@
 ---
 title: 'Dominican Republic eSIM 2026: Tourist & Network Guide | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -281,37 +281,37 @@ faq_section:
     title: Dominican Republic eSIM FAQs
     questions:
     - q: |
-        I need internet access for just a couple of days in Dominican Republic. What's the minimum I can buy?
+        Can I install my Dominican Republic eSIM at the airport, or should I do it before leaving home?
       a: |
-        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
+        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Dominican Republic's airport, enable Data Roaming and you'll be online in under 60 seconds.
     - q: |
-        What documents do I need to buy a Dominican Republic eSIM from Roami?
+        Can I check how much data I've used on my Dominican Republic eSIM?
       a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
     - q: |
-        Can I use navigation apps like Google Maps with eSIM in Dominican Republic?
+        Can I use my Dominican Republic eSIM for social media and sharing photos with family?
       a: |
-        Yes — real-time navigation, traffic updates, and public transit info all work. As a backup, download offline maps for Dominican Republic before you go.
+        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Claro handle photos in seconds and short videos easily.
     - q: |
-        How much data does a typical traveler actually use per day in Dominican Republic?
+        What do I do if my Dominican Republic eSIM doesn't connect when I arrive?
       a: |
-        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Claro in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
+    - q: |
+        How many eSIM profiles can I store on my phone for traveling to Dominican Republic?
+      a: |
+        Most phones store 5-10 eSIM profiles. You can keep your Dominican Republic eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
     - q: |
         I'm arriving in Dominican Republic late at night. Will I be able to get online immediately?
       a: |
         Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Claro automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
     - q: |
-        Do I need to remove my physical SIM to use eSIM in Dominican Republic?
+        Can I keep my home SIM in my phone while using eSIM in Dominican Republic?
       a: |
-        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Best of both worlds.
+        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
     - q: |
-        What if I accidentally delete my Dominican Republic eSIM before my trip?
+        How do I know if my Dominican Republic eSIM plan is active and ready to use?
       a: |
-        No problem. Log into your Roami account and request the QR code again. We recommend saving the QR code as a screenshot or PDF when you first receive it, just in case.
-    - q: |
-        Is eSIM cheaper than international roaming for Dominican Republic?
-      a: |
-        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Dominican Republic costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Dominican Republic — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
 related_products:
   title: Related Dominican Republic eSIM Plans
   items:

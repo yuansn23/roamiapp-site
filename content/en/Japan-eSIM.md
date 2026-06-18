@@ -1,6 +1,6 @@
 ---
 title: 'Japan eSIM 2026: Travel & Network Guide | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -375,9 +375,9 @@ faq_section:
     title: Japan eSIM FAQs
     questions:
     - q: |
-        Is it safe to upload my passport for Japan eSIM registration? I'm concerned about privacy.
+        Do I need a passport or ID to use eSIM in Japan? How does the verification work?
       a: |
-        Japan requires identity verification by law. Japan requires KYC real-name verification for prepaid SIM cards. Passport scan required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Japan.
+        Yes, Japan requires identity verification for eSIM. Japan requires KYC real-name verification for prepaid SIM cards. Passport scan required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Docomo's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
         How does Roami compare to Ubigi for eSIM in Japan?
       a: |
@@ -387,25 +387,25 @@ faq_section:
       a: |
         Absolutely. Roami's Japan eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
     - q: |
-        Which carrier in Japan should I rely on for my eSIM?
+        Which network in Japan has the best coverage for travelers — Docomo, SoftBank, or AU?
       a: |
-        Docomo operates over 15,000 towers across Japan, covering all major cities. SoftBank complements this with additional rural coverage reaching about 90% of the population. AU focuses on affordability, with data plans costing roughly 20% less than Docomo. With Roami, you don't pick one — it connects to whichever is strongest.
-    - q: |
-        Do I need to remove my physical SIM to use eSIM in Japan?
-      a: |
-        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Best of both worlds.
+        Japan has three main carriers: Docomo, SoftBank, and AU. Docomo reaches about 95% of the population with 4G/5G. SoftBank covers roughly 90% but has stronger rural reach. AU offers competitive pricing, often 15-20% cheaper than Docomo. Japan uses 5G on n77/n78/n257 bands. Most phones from 2 Roami automatically connects you to whichever is strongest at your location.
     - q: |
         What if I accidentally delete my Japan eSIM before my trip?
       a: |
-        No problem. Log into your Roami account and request the QR code again. We recommend saving the QR code as a screenshot or PDF when you first receive it, just in case.
+        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
     - q: |
-        I'm arriving in Japan late at night. Will I be able to get online immediately?
+        How does eSIM compare to pocket WiFi for Japan travel?
       a: |
-        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Docomo automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
+        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
     - q: |
-        How many eSIM profiles can I store on my phone for traveling to Japan?
+        What's the difference between a 5GB plan and an unlimited plan for Japan?
       a: |
-        Most phones store 5-10 eSIM profiles. You can keep your Japan eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes seconds.
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+    - q: |
+        What happens if I use all my data in Japan before my plan expires?
+      a: |
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
 related_products:
   title: Related Japan eSIM Plans
   items:

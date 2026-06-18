@@ -1,6 +1,6 @@
 ---
 title: 'Czech Republic eSIM 2026: 5G & Data Guide | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -397,25 +397,25 @@ faq_section:
       a: |
         Czech Republic requires identity verification by law. Czech Republic requires KYC verification. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Czech Republic.
     - q: |
-        What if I accidentally delete my Czech Republic eSIM before my trip?
+        How many eSIM profiles can I store on my phone for traveling to Czech Republic?
       a: |
-        No problem. Log into your Roami account and request the QR code again. We recommend saving the QR code as a screenshot or PDF when you first receive it, just in case.
+        Most phones store 5-10 eSIM profiles. You can keep your Czech Republic eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
+    - q: |
+        Can I use my Czech Republic eSIM for social media and sharing photos with family?
+      a: |
+        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from T-Mobile handle photos in seconds and short videos easily.
+    - q: |
+        Can I use my Czech Republic eSIM right after buying it, or do I need to wait?
+      a: |
+        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Czech Republic. So you can install weeks before your trip without losing any plan days.
+    - q: |
+        Does WhatsApp and FaceTime work with eSIM in Czech Republic?
+      a: |
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. T-Mobile's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
     - q: |
         What happens if I use all my data in Czech Republic before my plan expires?
       a: |
         Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
-    - q: |
-        How do I know if my Czech Republic eSIM plan is active and ready to use?
-      a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Czech Republic — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
-    - q: |
-        Can I keep my home SIM in my phone while using eSIM in Czech Republic?
-      a: |
-        Yes — that's one of the best things about eSIM. Your home SIM stays in slot 1 for receiving SMS (bank codes, login verifications), while the eSIM handles all data in slot 2. Just disable data roaming on your home SIM to avoid charges.
-    - q: |
-        Can I install my Czech Republic eSIM at the airport, or should I do it before leaving home?
-      a: |
-        Do it before you leave. Installing needs internet — easy at home on WiFi, tricky at an airport where the WiFi often requires SMS verification. The eSIM QR code arrives by email within minutes of purchase. Scan it in your phone settings and you're ready. At Czech Republic's airport, just enable Data Roaming and you'll connect automatically.
 related_products:
   title: Related Czech Republic eSIM Plans
   items:

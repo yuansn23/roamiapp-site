@@ -1,6 +1,6 @@
 ---
 title: 'Singapore eSIM 2026: Operator & Coverage Guide | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -375,37 +375,37 @@ faq_section:
     title: Singapore eSIM FAQs
     questions:
     - q: |
-        Is it safe to upload my passport for Singapore eSIM registration? I'm concerned about privacy.
+        Do I need a passport or ID to use eSIM in Singapore? How does the verification work?
       a: |
-        Singapore requires identity verification by law. Singapore requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Singapore.
+        Yes, Singapore requires identity verification for eSIM. Singapore requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Singtel's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
         How does Roami compare to Klook for eSIM in Singapore?
       a: |
         Roami typically offers better value for Singapore eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Klook. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
+        I'm arriving in Singapore late at night. Will I be able to get online immediately?
+      a: |
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Singtel automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
+    - q: |
         What if my hotel in Singapore has free WiFi — do I still need eSIM data?
       a: |
         Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
-    - q: |
-        Does WhatsApp and FaceTime work with eSIM in Singapore?
-      a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Singtel's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
-    - q: |
-        What's the most popular eSIM choice for travelers going to Singapore?
-      a: |
-        Most travelers to Singapore choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
     - q: |
         How do I know if my Singapore eSIM plan is active and ready to use?
       a: |
         After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Singapore — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
     - q: |
-        What happens if I use all my data in Singapore before my plan expires?
+        Do I need to remove my physical SIM to use eSIM in Singapore?
       a: |
-        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
     - q: |
         What if I accidentally delete my Singapore eSIM before my trip?
       a: |
-        No problem. Log into your Roami account and request the QR code again. We recommend saving the QR code as a screenshot or PDF when you first receive it, just in case.
+        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+    - q: |
+        What's the difference between a 5GB plan and an unlimited plan for Singapore?
+      a: |
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
 related_products:
   title: Related Singapore eSIM Plans
   items:
