@@ -187,7 +187,7 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Sierra Leone eSIM: What Travelers Need to Know | Plans & Setup"
+  title: "Your Complete Guide to eSIM for Sierra Leone Travelers"
   desc: "Planning Sierra Leone travel? Our eSIM guide covers africell sierra leone esim, plans, and setup tips."
   categories:
   - id: faq-general
@@ -196,37 +196,37 @@ faq_section:
     title: Sierra Leone eSIM FAQs
     questions:
     - q: |
-        Does Roami switch between Sierratel, Orange, and Africell in Sierra Leone automatically?
+        Tourists visiting Sierra Leone — which network gives the best experience?
       a: |
-        Yes — that's one of Roami's key advantages. As you move from cities to rural areas, your eSIM automatically switches to the carrier with the strongest signal at your location. Typically Sierratel is fastest in urban centers (5G speeds of 100-300 Mbps), while Orange maintains better coverage in the countryside. Sierra Leone is primarily 3G/4G. You never need to manually change networks.
+        For urban sightseeing, Sierratel typically delivers download speeds of 50-200 Mbps on 4G/5G. Orange has slightly broader coverage in suburban areas. Africell offers competitive data rates, often with more flexible prepaid options. All three work well for maps, messaging, and social media. Roami ensures you're always on the best one.
     - q: |
         How does Roami compare to Airalo for eSIM in Sierra Leone?
       a: |
         Roami typically offers better value for Sierra Leone eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        How does eSIM compare to pocket WiFi for Sierra Leone travel?
+        What's the easiest way to stay connected in Sierra Leone without dealing with airport SIM kiosks?
       a: |
-        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
+        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Sierratel for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
     - q: |
-        Will my eSIM in Sierra Leone work for video calls and remote work?
+        What documents do I need to buy a Sierra Leone eSIM from Roami?
       a: |
-        Absolutely. Sierratel networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
     - q: |
-        Can I use navigation apps like Google Maps with eSIM in Sierra Leone?
+        What happens if I use all my data in Sierra Leone before my plan expires?
       a: |
-        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Sierra Leone (about 200-500MB per city) before you go as a backup.
-    - q: |
-        What's the difference between a 5GB plan and an unlimited plan for Sierra Leone?
-      a: |
-        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
     - q: |
         Will my Sierra Leone eSIM work as soon as I land, or is there an activation delay?
       a: |
         If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Sierratel. No queues, no paperwork — you're online before you reach baggage claim.
     - q: |
-        Can I use my Sierra Leone eSIM right after buying it, or do I need to wait?
+        Can I keep my home SIM in my phone while using eSIM in Sierra Leone?
       a: |
-        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Sierra Leone. So you can install weeks before your trip without losing any plan days.
+        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
+    - q: |
+        I'm traveling to Sierra Leone for just 2-3 days. What eSIM should I get?
+      a: |
+        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
 related_products:
   title: Related eSIM Plans
   items:

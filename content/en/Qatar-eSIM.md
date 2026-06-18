@@ -342,7 +342,7 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Qatar eSIM Plans & Pricing | Best Options for Travelers"
+  title: "Cost-Effective eSIM for Qatar — Save on Roaming Fees"
   desc: "Planning Qatar travel? Our eSIM guide covers qatar esim unlimited, plans, and setup tips."
   categories:
   - id: faq-general
@@ -371,17 +371,17 @@ faq_section:
       a: |
         There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
     - q: |
-        I'm traveling to Qatar for just 2-3 days. What eSIM should I get?
+        What if my hotel in Qatar has free WiFi — do I still need eSIM data?
       a: |
-        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
     - q: |
-        Do I need to remove my physical SIM to use eSIM in Qatar?
+        Can I use my Qatar eSIM right after buying it, or do I need to wait?
       a: |
-        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
+        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Qatar. So you can install weeks before your trip without losing any plan days.
     - q: |
-        Can I keep my home SIM in my phone while using eSIM in Qatar?
+        What happens if my Qatar eSIM stops working mid-trip?
       a: |
-        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
+        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
 related_products:
   title: Related eSIM Plans
   items:

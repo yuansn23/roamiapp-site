@@ -278,7 +278,7 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Faroe Islands eSIM: What Travelers Need to Know | Plans & Setup"
+  title: "Your Complete Guide to eSIM for Faroe Islands Travelers"
   desc: "Planning Faroe Islands travel? Our eSIM guide covers best esim for faroe islands, plans, and setup tips."
   categories:
   - id: faq-general
@@ -287,37 +287,37 @@ faq_section:
     title: Faroe Islands eSIM FAQs
     questions:
     - q: |
-        Can I use navigation apps like Google Maps with eSIM in Faroe Islands?
+        What if I accidentally delete my Faroe Islands eSIM before my trip?
       a: |
-        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Faroe Islands (about 200-500MB per city) before you go as a backup.
+        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
     - q: |
-        Can I use my Faroe Islands eSIM for social media and sharing photos with family?
+        Is eSIM cheaper than international roaming for Faroe Islands?
       a: |
-        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Faroese Telecom handle photos in seconds and short videos easily.
-    - q: |
-        What happens if I use all my data in Faroe Islands before my plan expires?
-      a: |
-        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
-    - q: |
-        What happens if my Faroe Islands eSIM stops working mid-trip?
-      a: |
-        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
-    - q: |
-        What documents do I need to buy a Faroe Islands eSIM from Roami?
-      a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
-    - q: |
-        What's the easiest way to stay connected in Faroe Islands without dealing with airport SIM kiosks?
-      a: |
-        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Faroese Telecom for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Faroe Islands costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
     - q: |
         Can I check how much data I've used on my Faroe Islands eSIM?
       a: |
         Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
     - q: |
-        How far in advance should I buy my Faroe Islands eSIM?
+        Can I use my Faroe Islands eSIM right after buying it, or do I need to wait?
       a: |
-        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Faroe Islands, so buying early doesn't waste your plan days.
+        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Faroe Islands. So you can install weeks before your trip without losing any plan days.
+    - q: |
+        What documents do I need to buy a Faroe Islands eSIM from Roami?
+      a: |
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+    - q: |
+        Will my eSIM in Faroe Islands work for video calls and remote work?
+      a: |
+        Absolutely. Faroese Telecom networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
+    - q: |
+        How much data does a typical traveler actually use per day in Faroe Islands?
+      a: |
+        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+    - q: |
+        How do I know if my Faroe Islands eSIM plan is active and ready to use?
+      a: |
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Faroe Islands — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
 related_products:
   title: Related Faroe Islands eSIM Plans
   items:

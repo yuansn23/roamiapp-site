@@ -272,7 +272,7 @@ activation_steps:
       connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Dominican Republic eSIM for Travelers | Pricing & How to Stay Connected"
+  title: "Your Complete Guide to eSIM for Dominican Republic Travelers"
   desc: "Complete Dominican Republic eSIM guide with plans, pricing, coverage, and installation help."
   categories:
   - id: faq-general
@@ -285,33 +285,33 @@ faq_section:
       a: |
         Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Dominican Republic's airport, enable Data Roaming and you'll be online in under 60 seconds.
     - q: |
-        Can I check how much data I've used on my Dominican Republic eSIM?
+        Can I buy a Dominican Republic eSIM at the last minute, right before my flight?
       a: |
-        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
+        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Dominican Republic, just enable Data Roaming and you'll be online immediately.
     - q: |
-        Can I use my Dominican Republic eSIM for social media and sharing photos with family?
+        Will my Dominican Republic eSIM work as soon as I land, or is there an activation delay?
       a: |
-        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Claro handle photos in seconds and short videos easily.
+        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Claro. No queues, no paperwork — you're online before you reach baggage claim.
     - q: |
-        What do I do if my Dominican Republic eSIM doesn't connect when I arrive?
+        What documents do I need to buy a Dominican Republic eSIM from Roami?
       a: |
-        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Claro in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
     - q: |
-        How many eSIM profiles can I store on my phone for traveling to Dominican Republic?
+        When does the validity period of my Dominican Republic eSIM start?
       a: |
-        Most phones store 5-10 eSIM profiles. You can keep your Dominican Republic eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
+        The plan validity starts when you connect to a local network in Dominican Republic, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
     - q: |
-        I'm arriving in Dominican Republic late at night. Will I be able to get online immediately?
+        Do I need to remove my physical SIM to use eSIM in Dominican Republic?
       a: |
-        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Claro automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
     - q: |
-        Can I keep my home SIM in my phone while using eSIM in Dominican Republic?
+        Does the Dominican Republic eSIM work in rural areas and smaller towns?
       a: |
-        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
+        Coverage in Dominican Republic reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
     - q: |
-        How do I know if my Dominican Republic eSIM plan is active and ready to use?
+        Will my eSIM in Dominican Republic work for video calls and remote work?
       a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Dominican Republic — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+        Absolutely. Claro networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
 related_products:
   title: Related Dominican Republic eSIM Plans
   items:

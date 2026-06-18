@@ -343,7 +343,7 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Moldova eSIM for Travelers | Pricing & How to Stay Connected"
+  title: "Moldova eSIM Registration Guide — Passport and ID Requirements"
   desc: "Planning Moldova travel? Our eSIM guide covers best esim for.moldova, plans, and setup tips."
   categories:
   - id: faq-general
@@ -360,29 +360,29 @@ faq_section:
       a: |
         Yes, Moldova requires identity verification for eSIM. Moldova requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Orange's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
-        Can I use my Moldova eSIM for social media and sharing photos with family?
+        What happens if my Moldova eSIM stops working mid-trip?
       a: |
-        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Orange handle photos in seconds and short videos easily.
+        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
     - q: |
-        What documents do I need to buy a Moldova eSIM from Roami?
+        What if I accidentally delete my Moldova eSIM before my trip?
       a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
     - q: |
-        Is eSIM cheaper than international roaming for Moldova?
+        What do I do if my Moldova eSIM doesn't connect when I arrive?
       a: |
-        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Moldova costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
-    - q: |
-        What's included when I buy a Moldova eSIM from Roami?
-      a: |
-        QR code delivery within 5 minutes, access to Orange's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
+        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Orange in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
     - q: |
         Can I use navigation apps like Google Maps with eSIM in Moldova?
       a: |
         Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Moldova (about 200-500MB per city) before you go as a backup.
     - q: |
-        What's the easiest way to stay connected in Moldova without dealing with airport SIM kiosks?
+        How many eSIM profiles can I store on my phone for traveling to Moldova?
       a: |
-        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Orange for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
+        Most phones store 5-10 eSIM profiles. You can keep your Moldova eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
+    - q: |
+        When does the validity period of my Moldova eSIM start?
+      a: |
+        The plan validity starts when you connect to a local network in Moldova, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
 related_products:
   title: Related eSIM Plans
   items:

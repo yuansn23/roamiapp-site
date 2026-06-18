@@ -366,7 +366,7 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Philippines Travel eSIM Guide | Prices, Networks & Activation"
+  title: "Traveling to Philippines? Here's How eSIM Registration Works"
   desc: "Planning Philippines travel? Our eSIM guide covers philippines esim tourist, plans, and setup tips."
   categories:
   - id: faq-general
@@ -375,9 +375,9 @@ faq_section:
     title: Philippines eSIM FAQs
     questions:
     - q: |
-        How does Roami compare to Klook for eSIM in Philippines?
+        How does Roami compare to Ubigi for eSIM in Philippines?
       a: |
-        Roami typically offers better value for Philippines eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Klook. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Roami typically offers better value for Philippines eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Ubigi. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
         Does Globe or Smart offer better data speeds in Philippines?
       a: |
@@ -387,25 +387,25 @@ faq_section:
       a: |
         Philippines requires identity verification by law. Philippines requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Philippines.
     - q: |
-        What's the most popular eSIM choice for travelers going to Philippines?
+        Can I keep my home SIM in my phone while using eSIM in Philippines?
       a: |
-        Most travelers to Philippines choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
+        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
     - q: |
-        I'm traveling to Philippines for just 2-3 days. What eSIM should I get?
+        When does the validity period of my Philippines eSIM start?
       a: |
-        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+        The plan validity starts when you connect to a local network in Philippines, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
     - q: |
-        Can I use navigation apps like Google Maps with eSIM in Philippines?
+        What if my hotel in Philippines has free WiFi — do I still need eSIM data?
       a: |
-        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Philippines (about 200-500MB per city) before you go as a backup.
+        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
     - q: |
-        I'm arriving in Philippines late at night. Will I be able to get online immediately?
+        Will my eSIM in Philippines work for video calls and remote work?
       a: |
-        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Globe automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
+        Absolutely. Globe networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
     - q: |
-        Is eSIM cheaper than international roaming for Philippines?
+        What happens if my Philippines eSIM stops working mid-trip?
       a: |
-        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Philippines costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
 related_products:
   title: Related Philippines eSIM Plans
   items:

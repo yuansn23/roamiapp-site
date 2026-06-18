@@ -186,7 +186,7 @@ activation_steps:
       WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Eswatini eSIM: What Travelers Need to Know | Plans & Setup"
+  title: "Traveling to Eswatini? Here's What to Know About eSIM"
   desc: "Planning Eswatini travel? Our eSIM guide covers best esim for eswatini, plans, and setup tips."
   categories:
   - id: faq-general
@@ -195,37 +195,37 @@ faq_section:
     title: Eswatini eSIM FAQs
     questions:
     - q: |
-        How does Roami compare to Holafly for eSIM in Eswatini?
+        How does Roami compare to Airalo for eSIM in Eswatini?
       a: |
-        Roami typically offers better value for Eswatini eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Holafly. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Roami typically offers better value for Eswatini eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        For a tourist in Eswatini, is MTN or Eswatini Mobile the better choice?
+        Does MTN or Eswatini Mobile offer better data speeds in Eswatini?
       a: |
-        MTN and Eswatini Mobile cover Eswatini's mobile market. MTN serves roughly 60% of mobile users with the fastest urban data speeds. Eswatini Mobile reaches more remote areas, with about 10% broader geographic coverage. Eswatini is primarily 4G. With Roami, you get the best of both — automatic switching.
-    - q: |
-        I'm arriving in Eswatini late at night. Will I be able to get online immediately?
-      a: |
-        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up MTN automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
-    - q: |
-        Can I check how much data I've used on my Eswatini eSIM?
-      a: |
-        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
-    - q: |
-        What happens if I use all my data in Eswatini before my plan expires?
-      a: |
-        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+        MTN typically delivers 20-40% faster download speeds in city centers, while Eswatini Mobile maintains more consistent coverage across wider areas. Roami connects to the strongest signal automatically, so you always get the best available speed.
     - q: |
         Can I use my Eswatini eSIM for social media and sharing photos with family?
       a: |
         Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from MTN handle photos in seconds and short videos easily.
     - q: |
-        Does WhatsApp and FaceTime work with eSIM in Eswatini?
+        Does the Eswatini eSIM work in rural areas and smaller towns?
       a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. MTN's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+        Coverage in Eswatini reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
     - q: |
         What's included when I buy a Eswatini eSIM from Roami?
       a: |
         QR code delivery within 5 minutes, access to MTN's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
+    - q: |
+        Can I install my Eswatini eSIM at the airport, or should I do it before leaving home?
+      a: |
+        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Eswatini's airport, enable Data Roaming and you'll be online in under 60 seconds.
+    - q: |
+        Can I check how much data I've used on my Eswatini eSIM?
+      a: |
+        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
+    - q: |
+        What happens if my Eswatini eSIM stops working mid-trip?
+      a: |
+        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
 related_products:
   title: Related Eswatini eSIM Plans
   items:

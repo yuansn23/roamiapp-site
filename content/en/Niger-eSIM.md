@@ -245,7 +245,7 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Niger eSIM for Travelers | Pricing & How to Stay Connected"
+  title: "Traveling to Niger? Here's What to Know About eSIM"
   desc: "Complete Niger eSIM guide with plans, pricing, coverage, and installation help."
   categories:
   - id: faq-general
@@ -254,33 +254,33 @@ faq_section:
     title: Niger eSIM FAQs
     questions:
     - q: |
+        Do I need to remove my physical SIM to use eSIM in Niger?
+      a: |
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
+    - q: |
         What if I accidentally delete my Niger eSIM before my trip?
       a: |
         No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
     - q: |
-        Does the Niger eSIM work in rural areas and smaller towns?
+        Is eSIM cheaper than international roaming for Niger?
       a: |
-        Coverage in Niger reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Niger costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
     - q: |
-        Can I install my Niger eSIM at the airport, or should I do it before leaving home?
+        Can I buy a Niger eSIM at the last minute, right before my flight?
       a: |
-        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Niger's airport, enable Data Roaming and you'll be online in under 60 seconds.
+        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Niger, just enable Data Roaming and you'll be online immediately.
     - q: |
         Will my Niger eSIM work as soon as I land, or is there an activation delay?
       a: |
         If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Orange. No queues, no paperwork — you're online before you reach baggage claim.
     - q: |
-        How do I know if my Niger eSIM plan is active and ready to use?
+        Can I keep my home SIM in my phone while using eSIM in Niger?
       a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Niger — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
     - q: |
-        How many eSIM profiles can I store on my phone for traveling to Niger?
+        How far in advance should I buy my Niger eSIM?
       a: |
-        Most phones store 5-10 eSIM profiles. You can keep your Niger eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
-    - q: |
-        Can I use my Niger eSIM right after buying it, or do I need to wait?
-      a: |
-        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Niger. So you can install weeks before your trip without losing any plan days.
+        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Niger, so buying early doesn't waste your plan days.
     - q: |
         Can I check how much data I've used on my Niger eSIM?
       a: |

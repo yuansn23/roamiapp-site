@@ -382,7 +382,7 @@ activation_steps:
       WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Best Portugal eSIM 2026 | Coverage, Cost & Installation Tips"
+  title: "Portugal Travel eSIM — Stay Connected Throughout Your Trip"
   desc: "Planning Portugal travel? Our eSIM guide covers lycamobile portugal esim, plans, and setup tips."
   categories:
   - id: faq-general
@@ -391,37 +391,37 @@ faq_section:
     title: Portugal eSIM FAQs
     questions:
     - q: |
-        Which carrier in Portugal should I rely on for my eSIM?
+        Tourists visiting Portugal — which network gives the best experience?
       a: |
-        MEO operates over 15,000 towers across Portugal, covering all major cities. NOS complements this with additional rural coverage reaching about 90% of the population. Vodafone focuses on affordability, with data plans costing roughly 20% less than MEO. With Roami, you don't pick one — it connects to whichever is strongest.
+        For urban sightseeing, MEO typically delivers download speeds of 50-200 Mbps on 4G/5G. NOS has slightly broader coverage in suburban areas. Vodafone offers competitive data rates, often with more flexible prepaid options. All three work well for maps, messaging, and social media. Roami ensures you're always on the best one.
     - q: |
-        How does Roami compare to Ubigi for eSIM in Portugal?
+        How does Roami compare to Airalo for eSIM in Portugal?
       a: |
-        Roami typically offers better value for Portugal eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Ubigi. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Roami typically offers better value for Portugal eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        How does eSIM compare to pocket WiFi for Portugal travel?
+        What documents do I need to buy a Portugal eSIM from Roami?
       a: |
-        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
     - q: |
-        I'm traveling to Portugal for just 2-3 days. What eSIM should I get?
+        What do I do if my Portugal eSIM doesn't connect when I arrive?
       a: |
-        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select MEO in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
     - q: |
-        How much data does a typical traveler actually use per day in Portugal?
+        Do I need to remove my physical SIM to use eSIM in Portugal?
       a: |
-        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
     - q: |
-        Will my Portugal eSIM work as soon as I land, or is there an activation delay?
+        What happens if my Portugal eSIM stops working mid-trip?
       a: |
-        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to MEO. No queues, no paperwork — you're online before you reach baggage claim.
+        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
     - q: |
-        How do I know if my Portugal eSIM plan is active and ready to use?
+        Can I use my Portugal eSIM right after buying it, or do I need to wait?
       a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Portugal — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Portugal. So you can install weeks before your trip without losing any plan days.
     - q: |
-        Does the Portugal eSIM work in rural areas and smaller towns?
+        Can I check how much data I've used on my Portugal eSIM?
       a: |
-        Coverage in Portugal reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
+        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
 related_products:
   title: Related Portugal eSIM Plans
   items:

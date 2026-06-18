@@ -261,7 +261,7 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Gabon eSIM Guide 2026 | Plans, Coverage & Travel Tips"
+  title: "Your Complete Guide to eSIM for Gabon Travelers"
   desc: "Planning Gabon travel? Our eSIM guide covers moov africa gabon esim, plans, and setup tips."
   categories:
   - id: faq-general
@@ -270,37 +270,37 @@ faq_section:
     title: Gabon eSIM FAQs
     questions:
     - q: |
-        How does Roami compare to Airalo for eSIM in Gabon?
+        How does Roami compare to Holafly for eSIM in Gabon?
       a: |
-        Roami typically offers better value for Gabon eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Roami typically offers better value for Gabon eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Holafly. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        Tourists visiting Gabon — which network gives the best experience?
+        Which network in Gabon has the best coverage for travelers — Airtel, Azur, or Moov?
       a: |
-        For urban sightseeing, Airtel typically delivers download speeds of 50-200 Mbps on 4G/5G. Azur has slightly broader coverage in suburban areas. Moov offers competitive data rates, often with more flexible prepaid options. All three work well for maps, messaging, and social media. Roami ensures you're always on the best one.
+        Gabon has three main carriers: Airtel, Azur, and Moov. Airtel reaches about 95% of the population with 4G/5G. Azur covers roughly 90% but has stronger rural reach. Moov offers competitive pricing, often 15-20% cheaper than Airtel. Gabon is primarily 4G with coverage in major cities. Roami automatically connects you to whichever is strongest at your location.
     - q: |
-        When does the validity period of my Gabon eSIM start?
+        What happens if I use all my data in Gabon before my plan expires?
       a: |
-        The plan validity starts when you connect to a local network in Gabon, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
     - q: |
-        Does WhatsApp and FaceTime work with eSIM in Gabon?
+        What's the most popular eSIM choice for travelers going to Gabon?
       a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Airtel's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+        Most travelers to Gabon choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
     - q: |
-        What if my hotel in Gabon has free WiFi — do I still need eSIM data?
+        Can I use navigation apps like Google Maps with eSIM in Gabon?
       a: |
-        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
+        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Gabon (about 200-500MB per city) before you go as a backup.
     - q: |
-        Is eSIM cheaper than international roaming for Gabon?
+        What documents do I need to buy a Gabon eSIM from Roami?
       a: |
-        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Gabon costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
     - q: |
-        What happens if my Gabon eSIM stops working mid-trip?
+        How much data does a typical traveler actually use per day in Gabon?
       a: |
-        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
+        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
     - q: |
-        Can I keep my home SIM in my phone while using eSIM in Gabon?
+        What's the difference between a 5GB plan and an unlimited plan for Gabon?
       a: |
-        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
 related_products:
   title: Related Gabon eSIM Plans
   items:

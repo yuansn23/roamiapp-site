@@ -271,7 +271,7 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "El Salvador eSIM: What Travelers Need to Know | Plans & Setup"
+  title: "Setting Up eSIM for El Salvador — What Documents You Need to Prepare"
   desc: "Planning El Salvador travel? Our eSIM guide covers el salvador esim carriers, plans, and setup tips."
   categories:
   - id: faq-general
@@ -280,9 +280,9 @@ faq_section:
     title: El Salvador eSIM FAQs
     questions:
     - q: |
-        Will my phone work with an eSIM in El Salvador? How can I check before I go?
+        How do I know for sure if my phone is compatible with eSIM in El Salvador before I buy?
       a: |
-        Quick check: dial *#06#. If you see an EID number (about 30-40 digits), your phone supports eSIM. iPhone XS/XR and newer (2018+), Samsung Galaxy S20 and newer, Google Pixel 4 and newer — all support eSIM. About 80% of phones sold since 2021 have eSIM built in. El Salvador is primarily 4G. Check our [eSIM compatibility](/compatibility/) page to confirm your exact model. Three minutes of checking saves arriving in El Salvador with a non-working connection.
+        The most reliable method: dial *#06#. If an EID number appears (16-32 digits), your phone supports eSIM. You can also check your phone's Settings app — look for 'Add eSIM' or 'Add Cellular Plan'. If it's there, you're all set. If not, check our [eSIM compatibility](/compatibility/) page for your exact model. About 90% of flagship phones from 2020 onwards support eSIM.
     - q: |
         How do Tigo, Claro, and Movistar compare for a tourist visiting El Salvador?
       a: |
@@ -296,21 +296,21 @@ faq_section:
       a: |
         Yes, El Salvador requires identity verification for eSIM. El Salvador requires KYC verification. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Tigo's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
-        How many eSIM profiles can I store on my phone for traveling to El Salvador?
+        Does WhatsApp and FaceTime work with eSIM in El Salvador?
       a: |
-        Most phones store 5-10 eSIM profiles. You can keep your El Salvador eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Tigo's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
     - q: |
-        What's included when I buy a El Salvador eSIM from Roami?
+        How much data does a typical traveler actually use per day in El Salvador?
       a: |
-        QR code delivery within 5 minutes, access to Tigo's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
+        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
     - q: |
-        Can I use my El Salvador eSIM for social media and sharing photos with family?
+        What if my hotel in El Salvador has free WiFi — do I still need eSIM data?
       a: |
-        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Tigo handle photos in seconds and short videos easily.
+        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
     - q: |
-        Do I need to remove my physical SIM to use eSIM in El Salvador?
+        How do I know if my El Salvador eSIM plan is active and ready to use?
       a: |
-        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in El Salvador — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
 related_products:
   title: Related El Salvador eSIM Plans
   items:

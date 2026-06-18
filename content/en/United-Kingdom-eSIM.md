@@ -391,7 +391,7 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "United Kingdom eSIM for Travelers | Pricing & How to Stay Connected"
+  title: "Setting Up eSIM for United Kingdom — What Documents You Need to Prepare"
   desc: "Planning United Kingdom travel? Our eSIM guide covers ukraine esim lifecell, plans, and setup tips."
   categories:
   - id: faq-general
@@ -400,37 +400,37 @@ faq_section:
     title: United Kingdom eSIM FAQs
     questions:
     - q: |
-        I'm visiting multiple countries including United Kingdom. Should I get separate eSIMs or one regional plan?
+        Does the United Kingdom eSIM keep working if I cross into a neighboring country?
       a: |
-        Roami's single-country eSIM only works within United Kingdom. For multi-country trips, you can buy separate eSIMs for each country (your phone stores up to 10) or get a regional plan if available. Calculate days per country to figure out the cheapest combination.
+        No — the single-country plan only works inside United Kingdom. Each country has its own network. You'll need separate eSIMs for each destination, or a regional plan covering multiple countries.
     - q: |
-        Do I need a passport or ID to use eSIM in United Kingdom? How does the verification work?
+        Is it safe to upload my passport for United Kingdom eSIM registration? I'm concerned about privacy.
       a: |
-        Yes, United Kingdom requires identity verification for eSIM. UK requires KYC real-name verification for prepaid SIM cards. Passport or ID required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Vodafone's network than others — check our [eSIM compatibility](/compatibility/) page.
+        United Kingdom requires identity verification by law. UK requires KYC real-name verification for prepaid SIM cards. Passport or ID required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in United Kingdom.
     - q: |
-        Will my United Kingdom eSIM work as soon as I land, or is there an activation delay?
+        Is eSIM cheaper than international roaming for United Kingdom?
       a: |
-        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Vodafone. No queues, no paperwork — you're online before you reach baggage claim.
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for United Kingdom costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
     - q: |
-        Does WhatsApp and FaceTime work with eSIM in United Kingdom?
+        How many eSIM profiles can I store on my phone for traveling to United Kingdom?
       a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Vodafone's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+        Most phones store 5-10 eSIM profiles. You can keep your United Kingdom eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
     - q: |
-        Do I need to remove my physical SIM to use eSIM in United Kingdom?
+        What if I accidentally delete my United Kingdom eSIM before my trip?
       a: |
-        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
+        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
     - q: |
-        Can I keep my home SIM in my phone while using eSIM in United Kingdom?
+        Can I check how much data I've used on my United Kingdom eSIM?
       a: |
-        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
+        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
     - q: |
-        Can I buy a United Kingdom eSIM at the last minute, right before my flight?
+        What's the most popular eSIM choice for travelers going to United Kingdom?
       a: |
-        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in United Kingdom, just enable Data Roaming and you'll be online immediately.
+        Most travelers to United Kingdom choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
     - q: |
-        What's the easiest way to stay connected in United Kingdom without dealing with airport SIM kiosks?
+        What if my hotel in United Kingdom has free WiFi — do I still need eSIM data?
       a: |
-        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Vodafone for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
+        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
 related_products:
   title: Related UK eSIM Plans
   items:

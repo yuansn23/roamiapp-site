@@ -229,7 +229,7 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Macedonia eSIM Plans & Pricing | Best Options for Travelers"
+  title: "Best Unlimited eSIM Options for Your Macedonia Trip"
   desc: "Planning Macedonia travel? Our eSIM guide covers macedonia esim unlimited, plans, and setup tips."
   categories:
   - id: faq-general
@@ -238,37 +238,37 @@ faq_section:
     title: Macedonia eSIM FAQs
     questions:
     - q: |
-        Is it safe to upload my passport for Macedonia eSIM registration? I'm concerned about privacy.
+        Do I need a passport or ID to use eSIM in Macedonia? How does the verification work?
       a: |
-        Macedonia requires identity verification by law. Macedonia requires KYC verification. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Macedonia.
+        Yes, Macedonia requires identity verification for eSIM. Macedonia requires KYC verification. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Makedonski Telekom's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
-        Will the Macedonia eSIM unlimited plan slow down if I use too much data?
+        Is the unlimited eSIM plan for Macedonia worth it, or would a fixed data plan be better?
       a: |
-        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
+        Roami's unlimited plan has a fair cap: 30GB per day, after which speed drops to 512 kbps until midnight. Most travelers use 500MB to 3GB daily — hitting 30GB means streaming 4K video for 10 hours straight. For regular browsing, maps, and social media, a 5GB or 10GB plan is plenty. Choose unlimited if you plan heavy streaming or hotspot sharing.
     - q: |
-        When does the validity period of my Macedonia eSIM start?
+        What's the easiest way to stay connected in Macedonia without dealing with airport SIM kiosks?
       a: |
-        The plan validity starts when you connect to a local network in Macedonia, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Makedonski Telekom for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
     - q: |
-        Does WhatsApp and FaceTime work with eSIM in Macedonia?
+        What happens if I use all my data in Macedonia before my plan expires?
       a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Makedonski Telekom's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
     - q: |
-        Can I buy a Macedonia eSIM at the last minute, right before my flight?
+        Can I use my Macedonia eSIM for social media and sharing photos with family?
       a: |
-        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Macedonia, just enable Data Roaming and you'll be online immediately.
+        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Makedonski Telekom handle photos in seconds and short videos easily.
     - q: |
-        Can I use my Macedonia eSIM right after buying it, or do I need to wait?
+        Will my eSIM in Macedonia work for video calls and remote work?
       a: |
-        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Macedonia. So you can install weeks before your trip without losing any plan days.
+        Absolutely. Makedonski Telekom networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
     - q: |
-        How much data does a typical traveler actually use per day in Macedonia?
+        How far in advance should I buy my Macedonia eSIM?
       a: |
-        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Macedonia, so buying early doesn't waste your plan days.
     - q: |
-        Can I install my Macedonia eSIM at the airport, or should I do it before leaving home?
+        I need internet access for just a couple of days in Macedonia. What's the minimum I can buy?
       a: |
-        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Macedonia's airport, enable Data Roaming and you'll be online in under 60 seconds.
+        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
 related_products:
   title: Related eSIM Plans
   items:

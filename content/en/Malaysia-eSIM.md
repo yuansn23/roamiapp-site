@@ -367,7 +367,7 @@ activation_steps:
       WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Malaysia eSIM Guide 2026 | Plans, Coverage & Travel Tips"
+  title: "Cost-Effective eSIM for Malaysia — Save on Roaming Fees"
   desc: "Planning Malaysia travel? Our eSIM guide covers malaysia esim travelkon, plans, and setup tips."
   categories:
   - id: faq-general
@@ -376,37 +376,37 @@ faq_section:
     title: Malaysia eSIM FAQs
     questions:
     - q: |
-        How much should I budget for an eSIM when visiting Malaysia?
+        What are the cheapest eSIM options for a trip to Malaysia?
       a: |
-        Roami offers Malaysia eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Maxis provides reliable speeds across Malaysia. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+        Roami Malaysia eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Thanks to Maxis's 5G network, streaming and video calls work great. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
     - q: |
-        Is it safe to upload my passport for Malaysia eSIM registration? I'm concerned about privacy.
+        Do I need a passport or ID to use eSIM in Malaysia? How does the verification work?
       a: |
-        Malaysia requires identity verification by law. Malaysia requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Malaysia.
+        Yes, Malaysia requires identity verification for eSIM. Malaysia requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Maxis's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
-        How does Roami compare to Nomad for eSIM in Malaysia?
+        How does Roami compare to Klook for eSIM in Malaysia?
       a: |
-        Roami typically offers better value for Malaysia eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Nomad. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Roami typically offers better value for Malaysia eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Klook. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+    - q: |
+        Does WhatsApp and FaceTime work with eSIM in Malaysia?
+      a: |
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Maxis's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
     - q: |
         Can I install my Malaysia eSIM at the airport, or should I do it before leaving home?
       a: |
         Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Malaysia's airport, enable Data Roaming and you'll be online in under 60 seconds.
     - q: |
+        How do I know if my Malaysia eSIM plan is active and ready to use?
+      a: |
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Malaysia — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+    - q: |
+        I'm traveling to Malaysia for just 2-3 days. What eSIM should I get?
+      a: |
+        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+    - q: |
         What's the difference between a 5GB plan and an unlimited plan for Malaysia?
       a: |
         A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
-    - q: |
-        Does the Malaysia eSIM work in rural areas and smaller towns?
-      a: |
-        Coverage in Malaysia reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
-    - q: |
-        When does the validity period of my Malaysia eSIM start?
-      a: |
-        The plan validity starts when you connect to a local network in Malaysia, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
-    - q: |
-        Does WhatsApp and FaceTime work with eSIM in Malaysia?
-      a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Maxis's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
 related_products:
   title: Related Malaysia eSIM Plans
   items:

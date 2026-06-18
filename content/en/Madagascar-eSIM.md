@@ -262,7 +262,7 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Madagascar eSIM: What Travelers Need to Know | Plans & Setup"
+  title: "Madagascar Travel eSIM — Stay Connected Throughout Your Trip"
   desc: "Planning Madagascar travel? Our eSIM guide covers airalo madagascar esim, plans, and setup tips."
   categories:
   - id: faq-general
@@ -271,37 +271,37 @@ faq_section:
     title: Madagascar eSIM FAQs
     questions:
     - q: |
-        How does Roami compare to Airalo for eSIM in Madagascar?
+        How does Roami compare to Saily for eSIM in Madagascar?
       a: |
-        Roami typically offers better value for Madagascar eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Roami typically offers better value for Madagascar eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Saily. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        Which carrier in Madagascar should I rely on for my eSIM?
+        How do Orange, Telma, and Airtel compare for a tourist visiting Madagascar?
       a: |
-        Orange operates over 15,000 towers across Madagascar, covering all major cities. Telma complements this with additional rural coverage reaching about 90% of the population. Airtel focuses on affordability, with data plans costing roughly 20% less than Orange. With Roami, you don't pick one — it connects to whichever is strongest.
+        In Madagascar, Orange leads with the fastest urban 5G speeds (up to 1 Gbps in tests). Telma covers about 85% of the country including most rural areas. Airtel is the budget option, often bundling data at lower per-GB rates. Tourists visiting cities get excellent service from all three. Madagascar is primarily 3G/4G. Roami picks the best one automatically as you move around.
     - q: |
-        What's the most popular eSIM choice for travelers going to Madagascar?
+        Will my Madagascar eSIM work as soon as I land, or is there an activation delay?
       a: |
-        Most travelers to Madagascar choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
+        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Orange. No queues, no paperwork — you're online before you reach baggage claim.
     - q: |
-        I'm arriving in Madagascar late at night. Will I be able to get online immediately?
+        Can I keep my home SIM in my phone while using eSIM in Madagascar?
       a: |
-        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Orange automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
+        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
     - q: |
-        Can I use navigation apps like Google Maps with eSIM in Madagascar?
+        What's the easiest way to stay connected in Madagascar without dealing with airport SIM kiosks?
       a: |
-        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Madagascar (about 200-500MB per city) before you go as a backup.
+        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Orange for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
     - q: |
-        Can I check how much data I've used on my Madagascar eSIM?
+        Can I buy a Madagascar eSIM at the last minute, right before my flight?
       a: |
-        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
+        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Madagascar, just enable Data Roaming and you'll be online immediately.
     - q: |
-        Can I use my Madagascar eSIM for social media and sharing photos with family?
+        Can I use my Madagascar eSIM right after buying it, or do I need to wait?
       a: |
-        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Orange handle photos in seconds and short videos easily.
+        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Madagascar. So you can install weeks before your trip without losing any plan days.
     - q: |
-        When does the validity period of my Madagascar eSIM start?
+        What if my hotel in Madagascar has free WiFi — do I still need eSIM data?
       a: |
-        The plan validity starts when you connect to a local network in Madagascar, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
 related_products:
   title: Related Madagascar eSIM Plans
   items:

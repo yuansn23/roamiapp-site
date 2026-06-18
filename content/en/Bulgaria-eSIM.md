@@ -374,7 +374,7 @@ activation_steps:
       WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Bulgaria eSIM Plans & Pricing | Best Options for Travelers"
+  title: "Best Value eSIM Plans for Traveling to Bulgaria"
   desc: "Planning Bulgaria travel? Our eSIM guide covers bulgaria esim unlimited, plans, and setup tips."
   categories:
   - id: faq-general
@@ -383,37 +383,37 @@ faq_section:
     title: Bulgaria eSIM FAQs
     questions:
     - q: |
-        Will the Bulgaria eSIM unlimited plan slow down if I use too much data?
+        Is the unlimited eSIM plan for Bulgaria worth it, or would a fixed data plan be better?
       a: |
-        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
+        Roami's unlimited plan has a fair cap: 30GB per day, after which speed drops to 512 kbps until midnight. Most travelers use 500MB to 3GB daily — hitting 30GB means streaming 4K video for 10 hours straight. For regular browsing, maps, and social media, a 5GB or 10GB plan is plenty. Choose unlimited if you plan heavy streaming or hotspot sharing.
     - q: |
-        Is it safe to upload my passport for Bulgaria eSIM registration? I'm concerned about privacy.
+        Do I need a passport or ID to use eSIM in Bulgaria? How does the verification work?
       a: |
-        Bulgaria requires identity verification by law. Bulgaria requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Bulgaria.
+        Yes, Bulgaria requires identity verification for eSIM. Bulgaria requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with A1's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
-        How much should I budget for an eSIM when visiting Bulgaria?
+        Can I get an eSIM for Bulgaria without spending too much?
       a: |
-        Roami offers Bulgaria eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. A1 provides reliable speeds across Bulgaria. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+        Absolutely. Roami's Bulgaria eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
     - q: |
-        Can I use my Bulgaria eSIM right after buying it, or do I need to wait?
+        Can I use navigation apps like Google Maps with eSIM in Bulgaria?
       a: |
-        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Bulgaria. So you can install weeks before your trip without losing any plan days.
-    - q: |
-        How do I know if my Bulgaria eSIM plan is active and ready to use?
-      a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Bulgaria — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
-    - q: |
-        Does the Bulgaria eSIM work in rural areas and smaller towns?
-      a: |
-        Coverage in Bulgaria reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
+        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Bulgaria (about 200-500MB per city) before you go as a backup.
     - q: |
         When does the validity period of my Bulgaria eSIM start?
       a: |
         The plan validity starts when you connect to a local network in Bulgaria, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
     - q: |
+        Can I keep my home SIM in my phone while using eSIM in Bulgaria?
+      a: |
+        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
+    - q: |
         How many eSIM profiles can I store on my phone for traveling to Bulgaria?
       a: |
         Most phones store 5-10 eSIM profiles. You can keep your Bulgaria eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
+    - q: |
+        Can I use my Bulgaria eSIM for social media and sharing photos with family?
+      a: |
+        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from A1 handle photos in seconds and short videos easily.
 related_products:
   title: Related Bulgaria eSIM Plans
   items:

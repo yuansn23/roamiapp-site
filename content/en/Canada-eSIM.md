@@ -367,7 +367,7 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Canada Travel eSIM Guide | Prices, Networks & Activation"
+  title: "Affordable eSIM Options for Canada — Compare Plans & Prices"
   desc: "Planning Canada travel? Our eSIM guide covers cheapest canada esim, plans, and setup tips."
   categories:
   - id: faq-general
@@ -384,29 +384,29 @@ faq_section:
       a: |
         Correct — Canada eSIM doesn't need passport or ID verification. Canada typically does not require KYC for prepaid cards, but some plans may require ID. Just purchase, install, and you're online. No uploading documents, no waiting for approval. Install before you leave, enable Data Roaming on arrival, and you're set.
     - q: |
-        What are the cheapest eSIM options for a trip to Canada?
+        How much should I budget for an eSIM when visiting Canada?
       a: |
-        Roami Canada eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Thanks to Rogers's 5G network, streaming and video calls work great. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
+        Roami offers Canada eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Rogers provides reliable speeds across Canada. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
     - q: |
-        Does the Canada eSIM work in rural areas and smaller towns?
+        Can I install my Canada eSIM at the airport, or should I do it before leaving home?
       a: |
-        Coverage in Canada reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
+        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Canada's airport, enable Data Roaming and you'll be online in under 60 seconds.
     - q: |
-        How many eSIM profiles can I store on my phone for traveling to Canada?
+        I'm arriving in Canada late at night. Will I be able to get online immediately?
       a: |
-        Most phones store 5-10 eSIM profiles. You can keep your Canada eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Rogers automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
     - q: |
-        Will my eSIM in Canada work for video calls and remote work?
+        What's included when I buy a Canada eSIM from Roami?
       a: |
-        Absolutely. Rogers networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
+        QR code delivery within 5 minutes, access to Rogers's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
     - q: |
-        Does WhatsApp and FaceTime work with eSIM in Canada?
+        Can I buy a Canada eSIM at the last minute, right before my flight?
       a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Rogers's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Canada, just enable Data Roaming and you'll be online immediately.
     - q: |
-        What happens if I use all my data in Canada before my plan expires?
+        Can I use my Canada eSIM right after buying it, or do I need to wait?
       a: |
-        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Canada. So you can install weeks before your trip without losing any plan days.
 related_products:
   title: Related Canada eSIM Plans
   items:

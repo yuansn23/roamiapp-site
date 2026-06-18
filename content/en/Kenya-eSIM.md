@@ -334,7 +334,7 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Kenya eSIM: What Travelers Need to Know | Plans & Setup"
+  title: "Cost-Effective eSIM for Kenya — Save on Roaming Fees"
   desc: "Planning Kenya travel? Our eSIM guide covers kenya esim safaricom, plans, and setup tips."
   categories:
   - id: faq-general
@@ -343,13 +343,13 @@ faq_section:
     title: Kenya eSIM FAQs
     questions:
     - q: |
-        What are the cheapest eSIM options for a trip to Kenya?
+        How much should I budget for an eSIM when visiting Kenya?
       a: |
-        Roami Kenya eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Thanks to Safaricom's 5G network, streaming and video calls work great. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
+        Roami offers Kenya eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Safaricom provides reliable speeds across Kenya. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
     - q: |
-        Which carrier in Kenya should I rely on for my eSIM?
+        Which network in Kenya has the best coverage for travelers — Safaricom, Airtel, or Telkom?
       a: |
-        Safaricom operates over 15,000 towers across Kenya, covering all major cities. Airtel complements this with additional rural coverage reaching about 90% of the population. Telkom focuses on affordability, with data plans costing roughly 20% less than Safaricom. With Roami, you don't pick one — it connects to whichever is strongest.
+        Kenya has three main carriers: Safaricom, Airtel, and Telkom. Safaricom reaches about 95% of the population with 4G/5G. Airtel covers roughly 90% but has stronger rural reach. Telkom offers competitive pricing, often 15-20% cheaper than Safaricom. Kenya is primarily 4G with 5G in Nairobi and other citi Roami automatically connects you to whichever is strongest at your location.
     - q: |
         Is it safe to upload my passport for Kenya eSIM registration? I'm concerned about privacy.
       a: |
@@ -359,21 +359,21 @@ faq_section:
       a: |
         Roami typically offers better value for Kenya eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        I'm arriving in Kenya late at night. Will I be able to get online immediately?
+        What do I do if my Kenya eSIM doesn't connect when I arrive?
       a: |
-        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Safaricom automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
+        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Safaricom in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
     - q: |
-        What's the difference between a 5GB plan and an unlimited plan for Kenya?
+        Can I check how much data I've used on my Kenya eSIM?
       a: |
-        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
     - q: |
-        Does WhatsApp and FaceTime work with eSIM in Kenya?
+        Can I use my Kenya eSIM right after buying it, or do I need to wait?
       a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Safaricom's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Kenya. So you can install weeks before your trip without losing any plan days.
     - q: |
-        How do I know if my Kenya eSIM plan is active and ready to use?
+        Can I keep my home SIM in my phone while using eSIM in Kenya?
       a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Kenya — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
 related_products:
   title: Related Kenya eSIM Plans
   items:

@@ -254,7 +254,7 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Malawi eSIM Guide 2026 | Plans, Coverage & Travel Tips"
+  title: "Your Complete Guide to eSIM for Malawi Travelers"
   desc: "Planning Malawi travel? Our eSIM guide covers airtel malawi esim activation, plans, and setup tips."
   categories:
   - id: faq-general
@@ -263,37 +263,37 @@ faq_section:
     title: Malawi eSIM FAQs
     questions:
     - q: |
-        Does TNM or Airtel offer better data speeds in Malawi?
+        For a tourist in Malawi, is TNM or Airtel the better choice?
       a: |
-        TNM typically delivers 20-40% faster download speeds in city centers, while Airtel maintains more consistent coverage across wider areas. Roami connects to the strongest signal automatically, so you always get the best available speed.
+        TNM and Airtel cover Malawi's mobile market. TNM serves roughly 60% of mobile users with the fastest urban data speeds. Airtel reaches more remote areas, with about 10% broader geographic coverage. Malawi is primarily 4G. With Roami, you get the best of both — automatic switching.
     - q: |
         How does Roami compare to Airalo for eSIM in Malawi?
       a: |
         Roami typically offers better value for Malawi eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
+        Does WhatsApp and FaceTime work with eSIM in Malawi?
+      a: |
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. TNM's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+    - q: |
         Can I install my Malawi eSIM at the airport, or should I do it before leaving home?
       a: |
         Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Malawi's airport, enable Data Roaming and you'll be online in under 60 seconds.
+    - q: |
+        How do I know if my Malawi eSIM plan is active and ready to use?
+      a: |
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Malawi — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+    - q: |
+        I'm traveling to Malawi for just 2-3 days. What eSIM should I get?
+      a: |
+        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
     - q: |
         What's the difference between a 5GB plan and an unlimited plan for Malawi?
       a: |
         A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
     - q: |
-        Does the Malawi eSIM work in rural areas and smaller towns?
+        What happens if my Malawi eSIM stops working mid-trip?
       a: |
-        Coverage in Malawi reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
-    - q: |
-        When does the validity period of my Malawi eSIM start?
-      a: |
-        The plan validity starts when you connect to a local network in Malawi, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
-    - q: |
-        Does WhatsApp and FaceTime work with eSIM in Malawi?
-      a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. TNM's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
-    - q: |
-        Can I keep my home SIM in my phone while using eSIM in Malawi?
-      a: |
-        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
+        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
 related_products:
   title: Related Malawi eSIM Plans
   items:

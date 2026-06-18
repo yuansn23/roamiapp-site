@@ -352,7 +352,7 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "South Africa Travel eSIM Guide | Prices, Networks & Activation"
+  title: "Best Value eSIM Plans for Traveling to South Africa"
   desc: "Planning South Africa travel? Our eSIM guide covers south africa esim providers, plans, and setup tips."
   categories:
   - id: faq-general
@@ -361,37 +361,37 @@ faq_section:
     title: South Africa eSIM FAQs
     questions:
     - q: |
-        Can I get an eSIM for South Africa without spending too much?
+        What are the cheapest eSIM options for a trip to South Africa?
       a: |
-        Absolutely. Roami's South Africa eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+        Roami South Africa eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Thanks to Vodacom's 5G network, streaming and video calls work great. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
     - q: |
         How does Roami compare to Airalo for eSIM in South Africa?
       a: |
         Roami typically offers better value for South Africa eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        Do I need a passport or ID to use eSIM in South Africa? How does the verification work?
+        Is it safe to upload my passport for South Africa eSIM registration? I'm concerned about privacy.
       a: |
-        Yes, South Africa requires identity verification for eSIM. South Africa requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Vodacom's network than others — check our [eSIM compatibility](/compatibility/) page.
-    - q: |
-        What if I accidentally delete my South Africa eSIM before my trip?
-      a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
-    - q: |
-        What do I do if my South Africa eSIM doesn't connect when I arrive?
-      a: |
-        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Vodacom in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
-    - q: |
-        Will my eSIM in South Africa work for video calls and remote work?
-      a: |
-        Absolutely. Vodacom networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
+        South Africa requires identity verification by law. South Africa requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in South Africa.
     - q: |
         How far in advance should I buy my South Africa eSIM?
       a: |
         You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in South Africa, so buying early doesn't waste your plan days.
     - q: |
-        Can I keep my home SIM in my phone while using eSIM in South Africa?
+        What's the difference between a 5GB plan and an unlimited plan for South Africa?
       a: |
-        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+    - q: |
+        What's the most popular eSIM choice for travelers going to South Africa?
+      a: |
+        Most travelers to South Africa choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
+    - q: |
+        How many eSIM profiles can I store on my phone for traveling to South Africa?
+      a: |
+        Most phones store 5-10 eSIM profiles. You can keep your South Africa eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
+    - q: |
+        When does the validity period of my South Africa eSIM start?
+      a: |
+        The plan validity starts when you connect to a local network in South Africa, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
 related_products:
   title: Related South Africa eSIM Plans
   items:

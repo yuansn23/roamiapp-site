@@ -326,7 +326,7 @@ activation_steps:
       the initial activation.
     is_list: false
 faq_section:
-  title: "Oman eSIM Plans & Pricing | Best Options for Travelers"
+  title: "Cost-Effective eSIM for Oman — Save on Roaming Fees"
   desc: "Planning Oman travel? Our eSIM guide covers vodafone travel esim.oman, plans, and setup tips."
   categories:
   - id: faq-general
@@ -335,37 +335,37 @@ faq_section:
     title: Oman eSIM FAQs
     questions:
     - q: |
-        How much should I budget for an eSIM when visiting Oman?
+        Can I get an eSIM for Oman without spending too much?
       a: |
-        Roami offers Oman eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Omantel provides reliable speeds across Oman. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+        Absolutely. Roami's Oman eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
     - q: |
         Will the Oman eSIM unlimited plan slow down if I use too much data?
       a: |
         There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
     - q: |
-        Is it safe to upload my passport for Oman eSIM registration? I'm concerned about privacy.
+        Do I need a passport or ID to use eSIM in Oman? How does the verification work?
       a: |
-        Oman requires identity verification by law. Oman requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Oman.
+        Yes, Oman requires identity verification for eSIM. Oman requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Omantel's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
         For a tourist in Oman, is Omantel or Ooredoo the better choice?
       a: |
         Omantel and Ooredoo cover Oman's mobile market. Omantel serves roughly 60% of mobile users with the fastest urban data speeds. Ooredoo reaches more remote areas, with about 10% broader geographic coverage. Oman has 4G/5G coverage in Muscat and other cities. With Roami, you get the best of both — automatic switching.
     - q: |
-        Can I check how much data I've used on my Oman eSIM?
+        How many eSIM profiles can I store on my phone for traveling to Oman?
       a: |
-        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
+        Most phones store 5-10 eSIM profiles. You can keep your Oman eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
     - q: |
-        Can I install my Oman eSIM at the airport, or should I do it before leaving home?
+        What happens if my Oman eSIM stops working mid-trip?
       a: |
-        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Oman's airport, enable Data Roaming and you'll be online in under 60 seconds.
+        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
     - q: |
-        How does eSIM compare to pocket WiFi for Oman travel?
+        What happens if I use all my data in Oman before my plan expires?
       a: |
-        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
     - q: |
-        Does WhatsApp and FaceTime work with eSIM in Oman?
+        What's the most popular eSIM choice for travelers going to Oman?
       a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Omantel's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+        Most travelers to Oman choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
 related_products:
   title: Related eSIM Plans
   items:

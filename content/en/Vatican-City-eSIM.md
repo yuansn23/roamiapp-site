@@ -194,7 +194,7 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Vatican City eSIM for Travelers | Pricing & How to Stay Connected"
+  title: "Everything You Need to Know About eSIM in Vatican City"
   desc: "Planning Vatican City travel? Our eSIM guide covers vatican city opening hours, plans, and setup tips."
   categories:
   - id: faq-general
@@ -203,37 +203,37 @@ faq_section:
     title: Vatican City eSIM FAQs
     questions:
     - q: |
-        Can I install my Vatican City eSIM at the airport, or should I do it before leaving home?
+        What happens if my Vatican City eSIM stops working mid-trip?
       a: |
-        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Vatican City's airport, enable Data Roaming and you'll be online in under 60 seconds.
+        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
     - q: |
-        Can I check how much data I've used on my Vatican City eSIM?
+        Can I use navigation apps like Google Maps with eSIM in Vatican City?
       a: |
-        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
+        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Vatican City (about 200-500MB per city) before you go as a backup.
     - q: |
-        How does eSIM compare to pocket WiFi for Vatican City travel?
+        What's included when I buy a Vatican City eSIM from Roami?
       a: |
-        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
+        QR code delivery within 5 minutes, access to TIM's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
     - q: |
-        When does the validity period of my Vatican City eSIM start?
+        Does the Vatican City eSIM work in rural areas and smaller towns?
       a: |
-        The plan validity starts when you connect to a local network in Vatican City, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+        Coverage in Vatican City reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
     - q: |
-        How many eSIM profiles can I store on my phone for traveling to Vatican City?
+        I'm arriving in Vatican City late at night. Will I be able to get online immediately?
       a: |
-        Most phones store 5-10 eSIM profiles. You can keep your Vatican City eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up TIM automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
     - q: |
-        Can I use my Vatican City eSIM for social media and sharing photos with family?
+        Can I keep my home SIM in my phone while using eSIM in Vatican City?
       a: |
-        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from TIM handle photos in seconds and short videos easily.
-    - q: |
-        Can I use my Vatican City eSIM right after buying it, or do I need to wait?
-      a: |
-        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Vatican City. So you can install weeks before your trip without losing any plan days.
+        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
     - q: |
         How much data does a typical traveler actually use per day in Vatican City?
       a: |
         Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+    - q: |
+        What if I accidentally delete my Vatican City eSIM before my trip?
+      a: |
+        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
 related_products:
   title: Related eSIM Plans
   items:

@@ -368,7 +368,7 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Hong Kong eSIM: What Travelers Need to Know | Plans & Setup"
+  title: "Complete Guide to Hong Kong eSIM for Travelers"
   desc: "Planning Hong Kong travel? Our eSIM guide covers hong kong esim tourist, plans, and setup tips."
   categories:
   - id: faq-general
@@ -377,37 +377,37 @@ faq_section:
     title: Hong Kong eSIM FAQs
     questions:
     - q: |
-        What if my phone doesn't support eSIM? Can I still get internet in Hong Kong?
+        Will my phone work with an eSIM in Hong Kong? How can I check before I go?
       a: |
-        If your phone lacks eSIM (no EID when dialing *#06#), you have backup options: Rent a pocket WiFi device (around $3-5 per day in Hong Kong), or buy a physical SIM at the airport. However, most phones from the last 3-4 years work fine. Check our [eSIM compatibility](/compatibility/) page to confirm your model before buying.
+        Quick check: dial *#06#. If you see an EID number (about 30-40 digits), your phone supports eSIM. iPhone XS/XR and newer (2018+), Samsung Galaxy S20 and newer, Google Pixel 4 and newer — all support eSIM. About 80% of phones sold since 2021 have eSIM built in. Hong Kong uses 5G on n78/n1 bands with dense coverage. Check our [eSIM compatibility](/compatibility/) page to confirm your exact model. Three minutes of checking saves arriving in Hong Kong with a non-working connection.
     - q: |
-        How does Roami compare to Airalo for eSIM in Hong Kong?
+        How does Roami compare to Klook for eSIM in Hong Kong?
       a: |
-        Roami typically offers better value for Hong Kong eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Roami typically offers better value for Hong Kong eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Klook. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+    - q: |
+        I'm arriving in Hong Kong late at night. Will I be able to get online immediately?
+      a: |
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up CMHK automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
     - q: |
         How does eSIM compare to pocket WiFi for Hong Kong travel?
       a: |
         eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
     - q: |
-        What happens if I use all my data in Hong Kong before my plan expires?
+        Is eSIM cheaper than international roaming for Hong Kong?
       a: |
-        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Hong Kong costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
     - q: |
-        I'm traveling to Hong Kong for just 2-3 days. What eSIM should I get?
+        What's included when I buy a Hong Kong eSIM from Roami?
       a: |
-        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+        QR code delivery within 5 minutes, access to CMHK's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
     - q: |
-        Do I need to remove my physical SIM to use eSIM in Hong Kong?
+        Will my Hong Kong eSIM work as soon as I land, or is there an activation delay?
       a: |
-        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
+        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to CMHK. No queues, no paperwork — you're online before you reach baggage claim.
     - q: |
-        Can I buy a Hong Kong eSIM at the last minute, right before my flight?
+        Can I keep my home SIM in my phone while using eSIM in Hong Kong?
       a: |
-        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Hong Kong, just enable Data Roaming and you'll be online immediately.
-    - q: |
-        How do I know if my Hong Kong eSIM plan is active and ready to use?
-      a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Hong Kong — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
 related_products:
   title: Related Hong Kong eSIM Plans
   items:

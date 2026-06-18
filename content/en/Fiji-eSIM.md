@@ -334,7 +334,7 @@ activation_steps:
       the initial activation.
     is_list: false
 faq_section:
-  title: "Fiji eSIM for Travelers | Pricing & How to Stay Connected"
+  title: "Fiji eSIM on a Budget — Cheap Plans That Work Well"
   desc: "Planning Fiji travel? Our eSIM guide covers fiji esim vodafone, plans, and setup tips."
   categories:
   - id: faq-general
@@ -343,13 +343,13 @@ faq_section:
     title: Fiji eSIM FAQs
     questions:
     - q: |
-        Do I need a passport or ID to use eSIM in Fiji? How does the verification work?
+        Is it safe to upload my passport for Fiji eSIM registration? I'm concerned about privacy.
       a: |
-        Yes, Fiji requires identity verification for eSIM. Fiji requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Vodafone's network than others — check our [eSIM compatibility](/compatibility/) page.
+        Fiji requires identity verification by law. Fiji requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Fiji.
     - q: |
-        How much should I budget for an eSIM when visiting Fiji?
+        What are the cheapest eSIM options for a trip to Fiji?
       a: |
-        Roami offers Fiji eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Vodafone provides reliable speeds across Fiji. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+        Roami Fiji eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Fiji uses 4G which handles maps and messaging just fine. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
     - q: |
         How does Roami compare to Klook for eSIM in Fiji?
       a: |
@@ -359,10 +359,6 @@ faq_section:
       a: |
         Vodafone typically delivers 20-40% faster download speeds in city centers, while Digicel maintains more consistent coverage across wider areas. Roami connects to the strongest signal automatically, so you always get the best available speed.
     - q: |
-        Can I keep my home SIM in my phone while using eSIM in Fiji?
-      a: |
-        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
-    - q: |
         What if I accidentally delete my Fiji eSIM before my trip?
       a: |
         No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
@@ -371,9 +367,13 @@ faq_section:
       a: |
         Coverage in Fiji reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
     - q: |
-        What happens if I use all my data in Fiji before my plan expires?
+        What's the easiest way to stay connected in Fiji without dealing with airport SIM kiosks?
       a: |
-        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Vodafone for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
+    - q: |
+        What documents do I need to buy a Fiji eSIM from Roami?
+      a: |
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
 related_products:
   title: Related Fiji eSIM Plans
   items:

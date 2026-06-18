@@ -203,7 +203,7 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Best Brunei eSIM 2026 | Coverage, Cost & Installation Tips"
+  title: "Affordable eSIM Options for Brunei — Compare Plans & Prices"
   desc: "Planning Brunei travel? Our eSIM guide covers apple watch brunei price, plans, and setup tips."
   categories:
   - id: faq-general
@@ -212,37 +212,37 @@ faq_section:
     title: Brunei eSIM FAQs
     questions:
     - q: |
-        How much should I budget for an eSIM when visiting Brunei?
+        Can I get an eSIM for Brunei without spending too much?
       a: |
-        Roami offers Brunei eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. DST provides reliable speeds across Brunei. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+        Absolutely. Roami's Brunei eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
     - q: |
         How does Roami compare to Holafly for eSIM in Brunei?
       a: |
         Roami typically offers better value for Brunei eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Holafly. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        What do I do if my Brunei eSIM doesn't connect when I arrive?
-      a: |
-        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select DST in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
-    - q: |
-        Can I install my Brunei eSIM at the airport, or should I do it before leaving home?
-      a: |
-        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Brunei's airport, enable Data Roaming and you'll be online in under 60 seconds.
-    - q: |
         What's the easiest way to stay connected in Brunei without dealing with airport SIM kiosks?
       a: |
         eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to DST for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
     - q: |
-        Is eSIM cheaper than international roaming for Brunei?
+        What's the difference between a 5GB plan and an unlimited plan for Brunei?
       a: |
-        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Brunei costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
     - q: |
-        How many eSIM profiles can I store on my phone for traveling to Brunei?
+        How much data does a typical traveler actually use per day in Brunei?
       a: |
-        Most phones store 5-10 eSIM profiles. You can keep your Brunei eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
+        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
     - q: |
-        Can I use my Brunei eSIM right after buying it, or do I need to wait?
+        Can I use navigation apps like Google Maps with eSIM in Brunei?
       a: |
-        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Brunei. So you can install weeks before your trip without losing any plan days.
+        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Brunei (about 200-500MB per city) before you go as a backup.
+    - q: |
+        How far in advance should I buy my Brunei eSIM?
+      a: |
+        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Brunei, so buying early doesn't waste your plan days.
+    - q: |
+        What if my hotel in Brunei has free WiFi — do I still need eSIM data?
+      a: |
+        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
 related_products:
   title: Related Brunei eSIM Plans
   items:

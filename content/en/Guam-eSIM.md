@@ -219,7 +219,7 @@ activation_steps:
       the initial activation.
     is_list: false
 faq_section:
-  title: "Guam Travel eSIM Guide | Prices, Networks & Activation"
+  title: "Guam eSIM Registration Guide — Passport and ID Requirements"
   desc: "Planning Guam travel? Our eSIM guide covers guam prepaid esim, plans, and setup tips."
   categories:
   - id: faq-general
@@ -228,37 +228,37 @@ faq_section:
     title: Guam eSIM FAQs
     questions:
     - q: |
-        Is it safe to upload my passport for Guam eSIM registration? I'm concerned about privacy.
+        Do I need a passport or ID to use eSIM in Guam? How does the verification work?
       a: |
-        Guam requires identity verification by law. Guam requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Guam.
+        Yes, Guam requires identity verification for eSIM. Guam requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with DoCoMo Pacific's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
-        Does Roami switch between DoCoMo Pacific, GTA, and IT&E in Guam automatically?
+        Which carrier in Guam should I rely on for my eSIM?
       a: |
-        Yes — that's one of Roami's key advantages. As you move from cities to rural areas, your eSIM automatically switches to the carrier with the strongest signal at your location. Typically DoCoMo Pacific is fastest in urban centers (5G speeds of 100-300 Mbps), while GTA maintains better coverage in the countryside. Guam has 4G/5G with good coverage. You never need to manually change networks.
+        DoCoMo Pacific operates over 15,000 towers across Guam, covering all major cities. GTA complements this with additional rural coverage reaching about 90% of the population. IT&E focuses on affordability, with data plans costing roughly 20% less than DoCoMo Pacific. With Roami, you don't pick one — it connects to whichever is strongest.
     - q: |
-        How does Roami compare to Klook for eSIM in Guam?
+        How does Roami compare to Airalo for eSIM in Guam?
       a: |
-        Roami typically offers better value for Guam eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Klook. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
-    - q: |
-        What's the difference between a 5GB plan and an unlimited plan for Guam?
-      a: |
-        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
-    - q: |
-        Can I buy a Guam eSIM at the last minute, right before my flight?
-      a: |
-        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Guam, just enable Data Roaming and you'll be online immediately.
-    - q: |
-        What happens if my Guam eSIM stops working mid-trip?
-      a: |
-        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
+        Roami typically offers better value for Guam eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
         How do I know if my Guam eSIM plan is active and ready to use?
       a: |
         After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Guam — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
     - q: |
-        What documents do I need to buy a Guam eSIM from Roami?
+        I'm arriving in Guam late at night. Will I be able to get online immediately?
       a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up DoCoMo Pacific automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
+    - q: |
+        What's the difference between a 5GB plan and an unlimited plan for Guam?
+      a: |
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+    - q: |
+        How much data does a typical traveler actually use per day in Guam?
+      a: |
+        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+    - q: |
+        What's the most popular eSIM choice for travelers going to Guam?
+      a: |
+        Most travelers to Guam choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
 related_products:
   title: Related Guam eSIM Plans
   items:

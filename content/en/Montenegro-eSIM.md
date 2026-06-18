@@ -319,7 +319,7 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Montenegro eSIM Plans & Pricing | Best Options for Travelers"
+  title: "Montenegro eSIM With Unlimited Data — Fair Usage Explained Simply"
   desc: "Planning Montenegro travel? Our eSIM guide covers montenegro esim unlimited, plans, and setup tips."
   categories:
   - id: faq-general
@@ -328,37 +328,37 @@ faq_section:
     title: Montenegro eSIM FAQs
     questions:
     - q: |
-        How does Roami compare to Airalo for eSIM in Montenegro?
+        How does Roami compare to Holafly for eSIM in Montenegro?
       a: |
-        Roami typically offers better value for Montenegro eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Roami typically offers better value for Montenegro eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Holafly. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        Do I need a passport or ID to use eSIM in Montenegro? How does the verification work?
+        Is it safe to upload my passport for Montenegro eSIM registration? I'm concerned about privacy.
       a: |
-        Yes, Montenegro requires identity verification for eSIM. Montenegro requires KYC verification. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Crnogorski Telekom's network than others — check our [eSIM compatibility](/compatibility/) page.
+        Montenegro requires identity verification by law. Montenegro requires KYC verification. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Montenegro.
     - q: |
-        Is the unlimited eSIM plan for Montenegro worth it, or would a fixed data plan be better?
+        Will the Montenegro eSIM unlimited plan slow down if I use too much data?
       a: |
-        Roami's unlimited plan has a fair cap: 30GB per day, after which speed drops to 512 kbps until midnight. Most travelers use 500MB to 3GB daily — hitting 30GB means streaming 4K video for 10 hours straight. For regular browsing, maps, and social media, a 5GB or 10GB plan is plenty. Choose unlimited if you plan heavy streaming or hotspot sharing.
+        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
     - q: |
-        How many eSIM profiles can I store on my phone for traveling to Montenegro?
+        What's the difference between a 5GB plan and an unlimited plan for Montenegro?
       a: |
-        Most phones store 5-10 eSIM profiles. You can keep your Montenegro eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
+        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
     - q: |
-        How does eSIM compare to pocket WiFi for Montenegro travel?
+        What happens if I use all my data in Montenegro before my plan expires?
       a: |
-        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+    - q: |
+        Do I need to remove my physical SIM to use eSIM in Montenegro?
+      a: |
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
+    - q: |
+        What documents do I need to buy a Montenegro eSIM from Roami?
+      a: |
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
     - q: |
         Does the Montenegro eSIM work in rural areas and smaller towns?
       a: |
         Coverage in Montenegro reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
-    - q: |
-        What's included when I buy a Montenegro eSIM from Roami?
-      a: |
-        QR code delivery within 5 minutes, access to Crnogorski Telekom's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
-    - q: |
-        Does WhatsApp and FaceTime work with eSIM in Montenegro?
-      a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Crnogorski Telekom's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
 related_products:
   title: Related eSIM Plans
   items:

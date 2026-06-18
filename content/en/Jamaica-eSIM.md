@@ -278,7 +278,7 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Jamaica eSIM: What Travelers Need to Know | Plans & Setup"
+  title: "Affordable eSIM Options for Jamaica — Compare Plans & Prices"
   desc: "Planning Jamaica travel? Our eSIM guide covers jamaica esim digicel, plans, and setup tips."
   categories:
   - id: faq-general
@@ -291,33 +291,33 @@ faq_section:
       a: |
         Digicel typically delivers 20-40% faster download speeds in city centers, while Flow maintains more consistent coverage across wider areas. Roami connects to the strongest signal automatically, so you always get the best available speed.
     - q: |
-        What are the cheapest eSIM options for a trip to Jamaica?
+        How much should I budget for an eSIM when visiting Jamaica?
       a: |
-        Roami Jamaica eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Jamaica uses 4G which handles maps and messaging just fine. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
+        Roami offers Jamaica eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Digicel provides reliable speeds across Jamaica. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
     - q: |
         Is it safe to upload my passport for Jamaica eSIM registration? I'm concerned about privacy.
       a: |
         Jamaica requires identity verification by law. Jamaica requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Jamaica.
     - q: |
-        What happens if I use all my data in Jamaica before my plan expires?
+        How do I know if my Jamaica eSIM plan is active and ready to use?
       a: |
-        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
-    - q: |
-        Is eSIM cheaper than international roaming for Jamaica?
-      a: |
-        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Jamaica costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
-    - q: |
-        What's the difference between a 5GB plan and an unlimited plan for Jamaica?
-      a: |
-        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Jamaica — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
     - q: |
         Can I buy a Jamaica eSIM at the last minute, right before my flight?
       a: |
         Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Jamaica, just enable Data Roaming and you'll be online immediately.
     - q: |
-        Can I use my Jamaica eSIM right after buying it, or do I need to wait?
+        Can I use my Jamaica eSIM for social media and sharing photos with family?
       a: |
-        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Jamaica. So you can install weeks before your trip without losing any plan days.
+        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Digicel handle photos in seconds and short videos easily.
+    - q: |
+        What documents do I need to buy a Jamaica eSIM from Roami?
+      a: |
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+    - q: |
+        I'm arriving in Jamaica late at night. Will I be able to get online immediately?
+      a: |
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Digicel automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
 related_products:
   title: Related Jamaica eSIM Plans
   items:

@@ -342,7 +342,7 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Tunisia eSIM Plans & Pricing | Best Options for Travelers"
+  title: "Tunisia eSIM on a Budget — Cheap Plans That Work Well"
   desc: "Planning Tunisia travel? Our eSIM guide covers tunisia esim unlimited, plans, and setup tips."
   categories:
   - id: faq-general
@@ -367,6 +367,14 @@ faq_section:
       a: |
         There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
     - q: |
+        What do I do if my Tunisia eSIM doesn't connect when I arrive?
+      a: |
+        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Tunisie Telecom in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
+    - q: |
+        I need internet access for just a couple of days in Tunisia. What's the minimum I can buy?
+      a: |
+        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
+    - q: |
         Will my Tunisia eSIM work as soon as I land, or is there an activation delay?
       a: |
         If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Tunisie Telecom. No queues, no paperwork — you're online before you reach baggage claim.
@@ -374,14 +382,6 @@ faq_section:
         What documents do I need to buy a Tunisia eSIM from Roami?
       a: |
         Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
-    - q: |
-        Can I use navigation apps like Google Maps with eSIM in Tunisia?
-      a: |
-        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Tunisia (about 200-500MB per city) before you go as a backup.
-    - q: |
-        I need internet access for just a couple of days in Tunisia. What's the minimum I can buy?
-      a: |
-        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
 related_products:
   title: Related Tunisia eSIM Plans
   items:

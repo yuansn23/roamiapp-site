@@ -353,7 +353,7 @@ activation_steps:
       using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Slovenia eSIM for Travelers | Pricing & How to Stay Connected"
+  title: "Setting Up eSIM for Slovenia — What Documents You Need to Prepare"
   desc: "Planning Slovenia travel? Our eSIM guide covers slovenia esim internet, plans, and setup tips."
   categories:
   - id: faq-general
@@ -366,33 +366,33 @@ faq_section:
       a: |
         Yes, Slovenia requires identity verification for eSIM. Slovenia requires KYC verification. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Telekom Slovenije's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
-        Does WhatsApp and FaceTime work with eSIM in Slovenia?
+        Can I use navigation apps like Google Maps with eSIM in Slovenia?
       a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Telekom Slovenije's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Slovenia (about 200-500MB per city) before you go as a backup.
     - q: |
-        What's the difference between a 5GB plan and an unlimited plan for Slovenia?
+        How far in advance should I buy my Slovenia eSIM?
       a: |
-        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
-    - q: |
-        What if I accidentally delete my Slovenia eSIM before my trip?
-      a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
-    - q: |
-        When does the validity period of my Slovenia eSIM start?
-      a: |
-        The plan validity starts when you connect to a local network in Slovenia, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Slovenia, so buying early doesn't waste your plan days.
     - q: |
         Will my eSIM in Slovenia work for video calls and remote work?
       a: |
         Absolutely. Telekom Slovenije networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
     - q: |
-        Can I use my Slovenia eSIM for social media and sharing photos with family?
+        Is eSIM cheaper than international roaming for Slovenia?
       a: |
-        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Telekom Slovenije handle photos in seconds and short videos easily.
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Slovenia costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
     - q: |
-        What's the easiest way to stay connected in Slovenia without dealing with airport SIM kiosks?
+        How do I know if my Slovenia eSIM plan is active and ready to use?
       a: |
-        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Telekom Slovenije for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Slovenia — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+    - q: |
+        What happens if I use all my data in Slovenia before my plan expires?
+      a: |
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+    - q: |
+        Can I buy a Slovenia eSIM at the last minute, right before my flight?
+      a: |
+        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Slovenia, just enable Data Roaming and you'll be online immediately.
 related_products:
   title: Related eSIM Plans
   items:

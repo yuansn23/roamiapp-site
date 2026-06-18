@@ -359,7 +359,7 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Best New Zealand eSIM 2026 | Coverage, Cost & Installation Tips"
+  title: "New Zealand eSIM on a Budget — Cheap Plans That Work Well"
   desc: "Planning New Zealand travel? Our eSIM guide covers new zealand esim traveller, plans, and setup tips."
   categories:
   - id: faq-general
@@ -368,37 +368,37 @@ faq_section:
     title: New Zealand eSIM FAQs
     questions:
     - q: |
-        How much should I budget for an eSIM when visiting New Zealand?
+        Can I get an eSIM for New Zealand without spending too much?
       a: |
-        Roami offers New Zealand eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Spark provides reliable speeds across New Zealand. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+        Absolutely. Roami's New Zealand eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
     - q: |
-        Which carrier in New Zealand should I rely on for my eSIM?
+        Tourists visiting New Zealand — which network gives the best experience?
       a: |
-        Spark operates over 15,000 towers across New Zealand, covering all major cities. 2degrees complements this with additional rural coverage reaching about 90% of the population. Vodafone focuses on affordability, with data plans costing roughly 20% less than Spark. With Roami, you don't pick one — it connects to whichever is strongest.
+        For urban sightseeing, Spark typically delivers download speeds of 50-200 Mbps on 4G/5G. 2degrees has slightly broader coverage in suburban areas. Vodafone offers competitive data rates, often with more flexible prepaid options. All three work well for maps, messaging, and social media. Roami ensures you're always on the best one.
     - q: |
-        How does Roami compare to Saily for eSIM in New Zealand?
+        How does Roami compare to Airalo for eSIM in New Zealand?
       a: |
-        Roami typically offers better value for New Zealand eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Saily. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Roami typically offers better value for New Zealand eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        Can I use navigation apps like Google Maps with eSIM in New Zealand?
+        Does WhatsApp and FaceTime work with eSIM in New Zealand?
       a: |
-        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for New Zealand (about 200-500MB per city) before you go as a backup.
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Spark's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
     - q: |
-        Can I install my New Zealand eSIM at the airport, or should I do it before leaving home?
+        How many eSIM profiles can I store on my phone for traveling to New Zealand?
       a: |
-        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At New Zealand's airport, enable Data Roaming and you'll be online in under 60 seconds.
+        Most phones store 5-10 eSIM profiles. You can keep your New Zealand eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
     - q: |
-        What documents do I need to buy a New Zealand eSIM from Roami?
+        I'm arriving in New Zealand late at night. Will I be able to get online immediately?
       a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Spark automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
     - q: |
-        What's included when I buy a New Zealand eSIM from Roami?
+        What's the easiest way to stay connected in New Zealand without dealing with airport SIM kiosks?
       a: |
-        QR code delivery within 5 minutes, access to Spark's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
+        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Spark for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
     - q: |
-        How do I know if my New Zealand eSIM plan is active and ready to use?
+        I need internet access for just a couple of days in New Zealand. What's the minimum I can buy?
       a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in New Zealand — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
 related_products:
   title: Related New Zealand eSIM Plans
   items:

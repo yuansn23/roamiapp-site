@@ -350,7 +350,7 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Israel eSIM: What Travelers Need to Know | Plans & Setup"
+  title: "Setting Up eSIM for Israel — What Documents You Need to Prepare"
   desc: "Planning Israel travel? Our eSIM guide covers israel esim pelephone, plans, and setup tips."
   categories:
   - id: faq-general
@@ -359,13 +359,13 @@ faq_section:
     title: Israel eSIM FAQs
     questions:
     - q: |
-        Will my phone work with an eSIM in Israel? How can I check before I go?
+        I'm not sure if my phone supports eSIM in Israel. How do I check?
       a: |
-        Quick check: dial *#06#. If you see an EID number (about 30-40 digits), your phone supports eSIM. iPhone XS/XR and newer (2018+), Samsung Galaxy S20 and newer, Google Pixel 4 and newer — all support eSIM. About 80% of phones sold since 2021 have eSIM built in. Israel uses 5G on n78 band with dense nationwide covera Check our [eSIM compatibility](/compatibility/) page to confirm your exact model. Three minutes of checking saves arriving in Israel with a non-working connection.
+        Two ways: First, dial *#06# — if an EID number appears, your phone supports eSIM. Second, check your phone settings: On iPhone, look for 'Add eSIM' under Cellular/Mobile Data. On Samsung, go to Settings > Connections > SIM Manager for 'Add eSIM'. Over 90% of flagship phones from 2022 onwards support eSIM. Budget models may lack it. Use our [eSIM compatibility](/compatibility/) checker to verify before you buy.
     - q: |
-        How much should I budget for an eSIM when visiting Israel?
+        Can I get an eSIM for Israel without spending too much?
       a: |
-        Roami offers Israel eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Cellcom provides reliable speeds across Israel. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+        Absolutely. Roami's Israel eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
     - q: |
         Is it safe to upload my passport for Israel eSIM registration? I'm concerned about privacy.
       a: |
@@ -375,21 +375,21 @@ faq_section:
       a: |
         Israel has three main carriers: Cellcom, Partner, and HOT. Cellcom reaches about 95% of the population with 4G/5G. Partner covers roughly 90% but has stronger rural reach. HOT offers competitive pricing, often 15-20% cheaper than Cellcom. Israel uses 5G on n78 band with dense nationwide covera Roami automatically connects you to whichever is strongest at your location.
     - q: |
-        What happens if my Israel eSIM stops working mid-trip?
+        Can I use my Israel eSIM right after buying it, or do I need to wait?
       a: |
-        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
+        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Israel. So you can install weeks before your trip without losing any plan days.
     - q: |
-        How does eSIM compare to pocket WiFi for Israel travel?
+        I'm arriving in Israel late at night. Will I be able to get online immediately?
       a: |
-        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Cellcom automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
     - q: |
-        How do I know if my Israel eSIM plan is active and ready to use?
+        How many eSIM profiles can I store on my phone for traveling to Israel?
       a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Israel — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+        Most phones store 5-10 eSIM profiles. You can keep your Israel eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
     - q: |
-        How much data does a typical traveler actually use per day in Israel?
+        Can I install my Israel eSIM at the airport, or should I do it before leaving home?
       a: |
-        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Israel's airport, enable Data Roaming and you'll be online in under 60 seconds.
 related_products:
   title: Related Israel eSIM Plans
   items:

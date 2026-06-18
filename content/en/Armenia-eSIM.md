@@ -318,7 +318,7 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Armenia eSIM for Travelers | Pricing & How to Stay Connected"
+  title: "Armenia eSIM on a Budget — Cheap Plans That Work Well"
   desc: "Planning Armenia travel? Our eSIM guide covers armenia esim unlimited, plans, and setup tips."
   categories:
   - id: faq-general
@@ -327,37 +327,37 @@ faq_section:
     title: Armenia eSIM FAQs
     questions:
     - q: |
-        Do I need a passport or ID to use eSIM in Armenia? How does the verification work?
+        Is it safe to upload my passport for Armenia eSIM registration? I'm concerned about privacy.
       a: |
-        Yes, Armenia requires identity verification for eSIM. Armenia requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Viva-MTS's network than others — check our [eSIM compatibility](/compatibility/) page.
+        Armenia requires identity verification by law. Armenia requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Armenia.
     - q: |
-        Is the unlimited eSIM plan for Armenia worth it, or would a fixed data plan be better?
+        Will the Armenia eSIM unlimited plan slow down if I use too much data?
       a: |
-        Roami's unlimited plan has a fair cap: 30GB per day, after which speed drops to 512 kbps until midnight. Most travelers use 500MB to 3GB daily — hitting 30GB means streaming 4K video for 10 hours straight. For regular browsing, maps, and social media, a 5GB or 10GB plan is plenty. Choose unlimited if you plan heavy streaming or hotspot sharing.
+        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
     - q: |
         How does Roami compare to Saily for eSIM in Armenia?
       a: |
         Roami typically offers better value for Armenia eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Saily. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        How much should I budget for an eSIM when visiting Armenia?
+        Can I get an eSIM for Armenia without spending too much?
       a: |
-        Roami offers Armenia eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Viva-MTS provides reliable speeds across Armenia. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+        Absolutely. Roami's Armenia eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+    - q: |
+        I need internet access for just a couple of days in Armenia. What's the minimum I can buy?
+      a: |
+        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
+    - q: |
+        Does WhatsApp and FaceTime work with eSIM in Armenia?
+      a: |
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Viva-MTS's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+    - q: |
+        How far in advance should I buy my Armenia eSIM?
+      a: |
+        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Armenia, so buying early doesn't waste your plan days.
     - q: |
         How do I know if my Armenia eSIM plan is active and ready to use?
       a: |
         After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Armenia — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
-    - q: |
-        What documents do I need to buy a Armenia eSIM from Roami?
-      a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
-    - q: |
-        Does the Armenia eSIM work in rural areas and smaller towns?
-      a: |
-        Coverage in Armenia reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
-    - q: |
-        What's the most popular eSIM choice for travelers going to Armenia?
-      a: |
-        Most travelers to Armenia choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
 related_products:
   title: Related Armenia eSIM Plans
   items:

@@ -375,7 +375,7 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Ireland eSIM: What Travelers Need to Know | Plans & Setup"
+  title: "Cost-Effective eSIM for Ireland — Save on Roaming Fees"
   desc: "Planning Ireland travel? Our eSIM guide covers orange travel.esim ireland, plans, and setup tips."
   categories:
   - id: faq-general
@@ -384,37 +384,37 @@ faq_section:
     title: Ireland eSIM FAQs
     questions:
     - q: |
-        Which network in Ireland has the best coverage for travelers — Vodafone, Eir, or Three?
+        Does Roami switch between Vodafone, Eir, and Three in Ireland automatically?
       a: |
-        Ireland has three main carriers: Vodafone, Eir, and Three. Vodafone reaches about 95% of the population with 4G/5G. Eir covers roughly 90% but has stronger rural reach. Three offers competitive pricing, often 15-20% cheaper than Vodafone. Ireland uses 5G on n78 band covering Dublin and other c Roami automatically connects you to whichever is strongest at your location.
+        Yes — that's one of Roami's key advantages. As you move from cities to rural areas, your eSIM automatically switches to the carrier with the strongest signal at your location. Typically Vodafone is fastest in urban centers (5G speeds of 100-300 Mbps), while Eir maintains better coverage in the countryside. Ireland uses 5G on n78 band covering Dublin and other c You never need to manually change networks.
     - q: |
         How does Roami compare to Airalo for eSIM in Ireland?
       a: |
         Roami typically offers better value for Ireland eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        How much should I budget for an eSIM when visiting Ireland?
+        What are the cheapest eSIM options for a trip to Ireland?
       a: |
-        Roami offers Ireland eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Vodafone provides reliable speeds across Ireland. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+        Roami Ireland eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Thanks to Vodafone's 5G network, streaming and video calls work great. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
     - q: |
         Can I check how much data I've used on my Ireland eSIM?
       a: |
         Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
     - q: |
+        Can I buy a Ireland eSIM at the last minute, right before my flight?
+      a: |
+        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Ireland, just enable Data Roaming and you'll be online immediately.
+    - q: |
+        I need internet access for just a couple of days in Ireland. What's the minimum I can buy?
+      a: |
+        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
+    - q: |
         When does the validity period of my Ireland eSIM start?
       a: |
         The plan validity starts when you connect to a local network in Ireland, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
     - q: |
-        What if my hotel in Ireland has free WiFi — do I still need eSIM data?
-      a: |
-        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
-    - q: |
         What's the difference between a 5GB plan and an unlimited plan for Ireland?
       a: |
         A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
-    - q: |
-        What's included when I buy a Ireland eSIM from Roami?
-      a: |
-        QR code delivery within 5 minutes, access to Vodafone's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
 related_products:
   title: Related Ireland eSIM Plans
   items:

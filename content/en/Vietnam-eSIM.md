@@ -358,7 +358,7 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Vietnam Travel eSIM Guide | Prices, Networks & Activation"
+  title: "Cost-Effective eSIM for Vietnam — Save on Roaming Fees"
   desc: "Planning Vietnam travel? Our eSIM guide covers cheapest vietnam esim, plans, and setup tips."
   categories:
   - id: faq-general
@@ -375,29 +375,29 @@ faq_section:
       a: |
         Absolutely. Roami's Vietnam eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
     - q: |
-        Does the Vietnam eSIM work in rural areas and smaller towns?
+        What's the most popular eSIM choice for travelers going to Vietnam?
       a: |
-        Coverage in Vietnam reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
-    - q: |
-        I'm arriving in Vietnam late at night. Will I be able to get online immediately?
-      a: |
-        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Viettel automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
-    - q: |
-        Can I keep my home SIM in my phone while using eSIM in Vietnam?
-      a: |
-        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
+        Most travelers to Vietnam choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
     - q: |
         Does WhatsApp and FaceTime work with eSIM in Vietnam?
       a: |
         Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Viettel's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
     - q: |
-        What happens if I use all my data in Vietnam before my plan expires?
-      a: |
-        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
-    - q: |
         Can I check how much data I've used on my Vietnam eSIM?
       a: |
         Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
+    - q: |
+        What do I do if my Vietnam eSIM doesn't connect when I arrive?
+      a: |
+        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Viettel in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
+    - q: |
+        What's included when I buy a Vietnam eSIM from Roami?
+      a: |
+        QR code delivery within 5 minutes, access to Viettel's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
+    - q: |
+        Can I install my Vietnam eSIM at the airport, or should I do it before leaving home?
+      a: |
+        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Vietnam's airport, enable Data Roaming and you'll be online in under 60 seconds.
 related_products:
   title: Related Vietnam eSIM Plans
   items:

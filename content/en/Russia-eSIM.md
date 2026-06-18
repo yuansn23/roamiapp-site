@@ -351,7 +351,7 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Russia eSIM Plans & Pricing | Best Options for Travelers"
+  title: "Best Unlimited eSIM Options for Your Russia Trip"
   desc: "Planning Russia travel? Our eSIM guide covers russia esim mobimatter, plans, and setup tips."
   categories:
   - id: faq-general
@@ -372,25 +372,25 @@ faq_section:
       a: |
         There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
     - q: |
-        I need internet access for just a couple of days in Russia. What's the minimum I can buy?
+        What's the most popular eSIM choice for travelers going to Russia?
       a: |
-        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
-    - q: |
-        What's included when I buy a Russia eSIM from Roami?
-      a: |
-        QR code delivery within 5 minutes, access to MTS's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
-    - q: |
-        What happens if I use all my data in Russia before my plan expires?
-      a: |
-        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
-    - q: |
-        Can I use navigation apps like Google Maps with eSIM in Russia?
-      a: |
-        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Russia (about 200-500MB per city) before you go as a backup.
+        Most travelers to Russia choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
     - q: |
         How do I know if my Russia eSIM plan is active and ready to use?
       a: |
         After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Russia — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+    - q: |
+        Can I use my Russia eSIM right after buying it, or do I need to wait?
+      a: |
+        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Russia. So you can install weeks before your trip without losing any plan days.
+    - q: |
+        What do I do if my Russia eSIM doesn't connect when I arrive?
+      a: |
+        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select MTS in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
+    - q: |
+        Can I buy a Russia eSIM at the last minute, right before my flight?
+      a: |
+        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Russia, just enable Data Roaming and you'll be online immediately.
 related_products:
   title: Related Russia eSIM Plans
   items:

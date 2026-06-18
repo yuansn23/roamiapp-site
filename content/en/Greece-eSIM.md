@@ -374,7 +374,7 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Greece Travel eSIM Guide | Prices, Networks & Activation"
+  title: "Greece eSIM on a Budget — Cheap Plans That Work Well"
   desc: "Planning Greece travel? Our eSIM guide covers vodafone greece esim, plans, and setup tips."
   categories:
   - id: faq-general
@@ -383,37 +383,37 @@ faq_section:
     title: Greece eSIM FAQs
     questions:
     - q: |
-        Do I need a passport or ID to use eSIM in Greece? How does the verification work?
+        Is it safe to upload my passport for Greece eSIM registration? I'm concerned about privacy.
       a: |
-        Yes, Greece requires identity verification for eSIM. Greece requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Cosmote's network than others — check our [eSIM compatibility](/compatibility/) page.
+        Greece requires identity verification by law. Greece requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Greece.
     - q: |
-        How much should I budget for an eSIM when visiting Greece?
+        Can I get an eSIM for Greece without spending too much?
       a: |
-        Roami offers Greece eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Cosmote provides reliable speeds across Greece. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+        Absolutely. Roami's Greece eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
     - q: |
         How does Roami compare to Airalo for eSIM in Greece?
       a: |
         Roami typically offers better value for Greece eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        Which network in Greece has the best coverage for travelers — Cosmote, Vodafone, or Wind?
+        Does Roami switch between Cosmote, Vodafone, and Wind in Greece automatically?
       a: |
-        Greece has three main carriers: Cosmote, Vodafone, and Wind. Cosmote reaches about 95% of the population with 4G/5G. Vodafone covers roughly 90% but has stronger rural reach. Wind offers competitive pricing, often 15-20% cheaper than Cosmote. Greece uses 5G on n78 band covering main islands and ci Roami automatically connects you to whichever is strongest at your location.
+        Yes — that's one of Roami's key advantages. As you move from cities to rural areas, your eSIM automatically switches to the carrier with the strongest signal at your location. Typically Cosmote is fastest in urban centers (5G speeds of 100-300 Mbps), while Vodafone maintains better coverage in the countryside. Greece uses 5G on n78 band covering main islands and ci You never need to manually change networks.
     - q: |
-        Can I check how much data I've used on my Greece eSIM?
+        Can I buy a Greece eSIM at the last minute, right before my flight?
       a: |
-        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
+        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Greece, just enable Data Roaming and you'll be online immediately.
     - q: |
         Do I need to remove my physical SIM to use eSIM in Greece?
       a: |
         Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
     - q: |
-        I'm traveling to Greece for just 2-3 days. What eSIM should I get?
+        How much data does a typical traveler actually use per day in Greece?
       a: |
-        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
     - q: |
-        I'm arriving in Greece late at night. Will I be able to get online immediately?
+        Can I keep my home SIM in my phone while using eSIM in Greece?
       a: |
-        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Cosmote automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
+        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
 related_products:
   title: Related Greece eSIM Plans
   items:

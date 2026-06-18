@@ -318,7 +318,7 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Costa Rica Travel eSIM Guide | Prices, Networks & Activation"
+  title: "Costa Rica eSIM on a Budget — Cheap Plans That Work Well"
   desc: "Planning Costa Rica travel? Our eSIM guide covers cheapest esim costa rica, plans, and setup tips."
   categories:
   - id: faq-general
@@ -327,37 +327,37 @@ faq_section:
     title: Costa Rica eSIM FAQs
     questions:
     - q: |
-        How does Roami compare to Nomad for eSIM in Costa Rica?
+        How does Roami compare to Holafly for eSIM in Costa Rica?
       a: |
-        Roami typically offers better value for Costa Rica eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Nomad. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Roami typically offers better value for Costa Rica eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Holafly. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        Which network in Costa Rica has the best coverage for travelers — Kölbi, Claro, or Movistar?
+        Tourists visiting Costa Rica — which network gives the best experience?
       a: |
-        Costa Rica has three main carriers: Kölbi, Claro, and Movistar. Kölbi reaches about 95% of the population with 4G/5G. Claro covers roughly 90% but has stronger rural reach. Movistar offers competitive pricing, often 15-20% cheaper than Kölbi. Costa Rica is primarily 4G with 5G gradually rolling ou Roami automatically connects you to whichever is strongest at your location.
+        For urban sightseeing, Kölbi typically delivers download speeds of 50-200 Mbps on 4G/5G. Claro has slightly broader coverage in suburban areas. Movistar offers competitive data rates, often with more flexible prepaid options. All three work well for maps, messaging, and social media. Roami ensures you're always on the best one.
     - q: |
         What are the cheapest eSIM options for a trip to Costa Rica?
       a: |
         Roami Costa Rica eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Costa Rica uses 4G which handles maps and messaging just fine. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
     - q: |
+        Can I keep my home SIM in my phone while using eSIM in Costa Rica?
+      a: |
+        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
+    - q: |
         What happens if my Costa Rica eSIM stops working mid-trip?
       a: |
         First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
     - q: |
-        What if I accidentally delete my Costa Rica eSIM before my trip?
+        How much data does a typical traveler actually use per day in Costa Rica?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
     - q: |
-        Does WhatsApp and FaceTime work with eSIM in Costa Rica?
+        Is eSIM cheaper than international roaming for Costa Rica?
       a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Kölbi's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Costa Rica costs $9.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
     - q: |
-        Can I use my Costa Rica eSIM right after buying it, or do I need to wait?
+        How does eSIM compare to pocket WiFi for Costa Rica travel?
       a: |
-        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Costa Rica. So you can install weeks before your trip without losing any plan days.
-    - q: |
-        How far in advance should I buy my Costa Rica eSIM?
-      a: |
-        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Costa Rica, so buying early doesn't waste your plan days.
+        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
 related_products:
   title: Related Costa Rica eSIM Plans
   items:

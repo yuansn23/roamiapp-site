@@ -374,7 +374,7 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Hungary eSIM: What Travelers Need to Know | Plans & Setup"
+  title: "Cost-Effective eSIM for Hungary — Save on Roaming Fees"
   desc: "Planning Hungary travel? Our eSIM guide covers hungary esim internet, plans, and setup tips."
   categories:
   - id: faq-general
@@ -383,37 +383,37 @@ faq_section:
     title: Hungary eSIM FAQs
     questions:
     - q: |
-        How much should I budget for an eSIM when visiting Hungary?
+        What are the cheapest eSIM options for a trip to Hungary?
       a: |
-        Roami offers Hungary eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Magyar Telekom provides reliable speeds across Hungary. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+        Roami Hungary eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Thanks to Magyar Telekom's 5G network, streaming and video calls work great. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
     - q: |
         Is it safe to upload my passport for Hungary eSIM registration? I'm concerned about privacy.
       a: |
         Hungary requires identity verification by law. Hungary requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Hungary.
     - q: |
-        What's included when I buy a Hungary eSIM from Roami?
+        What happens if I use all my data in Hungary before my plan expires?
       a: |
-        QR code delivery within 5 minutes, access to Magyar Telekom's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
     - q: |
-        What if I accidentally delete my Hungary eSIM before my trip?
+        Can I check how much data I've used on my Hungary eSIM?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
+    - q: |
+        How far in advance should I buy my Hungary eSIM?
+      a: |
+        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Hungary, so buying early doesn't waste your plan days.
     - q: |
         What if my hotel in Hungary has free WiFi — do I still need eSIM data?
       a: |
         Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
     - q: |
-        How many eSIM profiles can I store on my phone for traveling to Hungary?
+        Does WhatsApp and FaceTime work with eSIM in Hungary?
       a: |
-        Most phones store 5-10 eSIM profiles. You can keep your Hungary eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
+        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Magyar Telekom's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
     - q: |
-        Can I use my Hungary eSIM for social media and sharing photos with family?
+        Do I need to remove my physical SIM to use eSIM in Hungary?
       a: |
-        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Magyar Telekom handle photos in seconds and short videos easily.
-    - q: |
-        I'm traveling to Hungary for just 2-3 days. What eSIM should I get?
-      a: |
-        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
 related_products:
   title: Related Hungary eSIM Plans
   items:

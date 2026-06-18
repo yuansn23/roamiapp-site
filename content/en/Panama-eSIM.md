@@ -311,7 +311,7 @@ activation_steps:
       during the initial activation.
     is_list: false
 faq_section:
-  title: "Panama eSIM Plans & Pricing | Best Options for Travelers"
+  title: "Affordable eSIM Options for Panama — Compare Plans & Prices"
   desc: "Planning Panama travel? Our eSIM guide covers panama esim unlimited, plans, and setup tips."
   categories:
   - id: faq-general
@@ -320,37 +320,37 @@ faq_section:
     title: Panama eSIM FAQs
     questions:
     - q: |
-        Do I need a passport or ID to use eSIM in Panama? How does the verification work?
+        Is it safe to upload my passport for Panama eSIM registration? I'm concerned about privacy.
       a: |
-        Yes, Panama requires identity verification for eSIM. Panama requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Claro's network than others — check our [eSIM compatibility](/compatibility/) page.
+        Panama requires identity verification by law. Panama requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Panama.
     - q: |
         How much should I budget for an eSIM when visiting Panama?
       a: |
         Roami offers Panama eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Claro provides reliable speeds across Panama. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
     - q: |
-        Is the unlimited eSIM plan for Panama worth it, or would a fixed data plan be better?
+        Will the Panama eSIM unlimited plan slow down if I use too much data?
       a: |
-        Roami's unlimited plan has a fair cap: 30GB per day, after which speed drops to 512 kbps until midnight. Most travelers use 500MB to 3GB daily — hitting 30GB means streaming 4K video for 10 hours straight. For regular browsing, maps, and social media, a 5GB or 10GB plan is plenty. Choose unlimited if you plan heavy streaming or hotspot sharing.
-    - q: |
-        How much data does a typical traveler actually use per day in Panama?
-      a: |
-        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
+        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
     - q: |
         Can I buy a Panama eSIM at the last minute, right before my flight?
       a: |
         Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Panama, just enable Data Roaming and you'll be online immediately.
     - q: |
-        What happens if my Panama eSIM stops working mid-trip?
+        Will my Panama eSIM work as soon as I land, or is there an activation delay?
       a: |
-        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
+        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Claro. No queues, no paperwork — you're online before you reach baggage claim.
+    - q: |
+        What's included when I buy a Panama eSIM from Roami?
+      a: |
+        QR code delivery within 5 minutes, access to Claro's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
     - q: |
         What's the difference between a 5GB plan and an unlimited plan for Panama?
       a: |
         A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
     - q: |
-        How far in advance should I buy my Panama eSIM?
+        How do I know if my Panama eSIM plan is active and ready to use?
       a: |
-        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Panama, so buying early doesn't waste your plan days.
+        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Panama — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
 related_products:
   title: Related Panama eSIM Plans
   items:

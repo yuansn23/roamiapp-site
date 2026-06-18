@@ -212,7 +212,7 @@ activation_steps:
       WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Honduras eSIM for Travelers | Pricing & How to Stay Connected"
+  title: "Unlimited eSIM Data Plans for Honduras Travel"
   desc: "Planning Honduras travel? Our eSIM guide covers unlimited data esim honduras, plans, and setup tips."
   categories:
   - id: faq-general
@@ -221,9 +221,9 @@ faq_section:
     title: Honduras eSIM FAQs
     questions:
     - q: |
-        What if my phone doesn't support eSIM? Can I still get internet in Honduras?
+        I'm not sure if my phone supports eSIM in Honduras. How do I check?
       a: |
-        If your phone lacks eSIM (no EID when dialing *#06#), you have backup options: Rent a pocket WiFi device (around $3-5 per day in Honduras), or buy a physical SIM at the airport. However, most phones from the last 3-4 years work fine. Check our [eSIM compatibility](/compatibility/) page to confirm your model before buying.
+        Two ways: First, dial *#06# — if an EID number appears, your phone supports eSIM. Second, check your phone settings: On iPhone, look for 'Add eSIM' under Cellular/Mobile Data. On Samsung, go to Settings > Connections > SIM Manager for 'Add eSIM'. Over 90% of flagship phones from 2022 onwards support eSIM. Budget models may lack it. Use our [eSIM compatibility](/compatibility/) checker to verify before you buy.
     - q: |
         Does Tigo or Claro offer better data speeds in Honduras?
       a: |
@@ -233,25 +233,25 @@ faq_section:
       a: |
         There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
     - q: |
-        I'm traveling to Honduras for just 2-3 days. What eSIM should I get?
+        What do I do if my Honduras eSIM doesn't connect when I arrive?
       a: |
-        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Tigo in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
     - q: |
-        Will my Honduras eSIM work as soon as I land, or is there an activation delay?
+        Can I buy a Honduras eSIM at the last minute, right before my flight?
       a: |
-        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Tigo. No queues, no paperwork — you're online before you reach baggage claim.
+        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Honduras, just enable Data Roaming and you'll be online immediately.
     - q: |
-        What's the difference between a 5GB plan and an unlimited plan for Honduras?
+        Can I check how much data I've used on my Honduras eSIM?
       a: |
-        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
     - q: |
-        What if I accidentally delete my Honduras eSIM before my trip?
+        Do I need to remove my physical SIM to use eSIM in Honduras?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
     - q: |
-        How does eSIM compare to pocket WiFi for Honduras travel?
+        What if my hotel in Honduras has free WiFi — do I still need eSIM data?
       a: |
-        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
+        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
 related_products:
   title: Related Honduras eSIM Plans
   items:

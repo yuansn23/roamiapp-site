@@ -358,7 +358,7 @@ activation_steps:
       WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Pakistan eSIM for Travelers | Pricing & How to Stay Connected"
+  title: "Traveling to Pakistan? Here's How eSIM Registration Works"
   desc: "Planning Pakistan travel? Our eSIM guide covers pakistan esim providers, plans, and setup tips."
   categories:
   - id: faq-general
@@ -367,37 +367,37 @@ faq_section:
     title: Pakistan eSIM FAQs
     questions:
     - q: |
-        Do I need a passport or ID to use eSIM in Pakistan? How does the verification work?
+        Is it safe to upload my passport for Pakistan eSIM registration? I'm concerned about privacy.
       a: |
-        Yes, Pakistan requires identity verification for eSIM. Pakistan requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Jazz's network than others — check our [eSIM compatibility](/compatibility/) page.
+        Pakistan requires identity verification by law. Pakistan requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Pakistan.
     - q: |
         How does Roami compare to Holafly for eSIM in Pakistan?
       a: |
         Roami typically offers better value for Pakistan eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Holafly. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        What documents do I need to buy a Pakistan eSIM from Roami?
+        Can I install my Pakistan eSIM at the airport, or should I do it before leaving home?
       a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Pakistan's airport, enable Data Roaming and you'll be online in under 60 seconds.
     - q: |
-        Does the Pakistan eSIM work in rural areas and smaller towns?
+        I'm arriving in Pakistan late at night. Will I be able to get online immediately?
       a: |
-        Coverage in Pakistan reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
-    - q: |
-        Can I buy a Pakistan eSIM at the last minute, right before my flight?
-      a: |
-        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Pakistan, just enable Data Roaming and you'll be online immediately.
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Jazz automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
     - q: |
         What's the most popular eSIM choice for travelers going to Pakistan?
       a: |
         Most travelers to Pakistan choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
     - q: |
-        Will my Pakistan eSIM work as soon as I land, or is there an activation delay?
+        What's the easiest way to stay connected in Pakistan without dealing with airport SIM kiosks?
       a: |
-        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Jazz. No queues, no paperwork — you're online before you reach baggage claim.
+        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Jazz for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
     - q: |
-        What's the difference between a 5GB plan and an unlimited plan for Pakistan?
+        Can I check how much data I've used on my Pakistan eSIM?
       a: |
-        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
+        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
+    - q: |
+        Do I need to remove my physical SIM to use eSIM in Pakistan?
+      a: |
+        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
 related_products:
   title: Related Pakistan eSIM Plans
   items:

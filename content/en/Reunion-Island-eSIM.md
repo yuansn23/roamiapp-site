@@ -286,7 +286,7 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Réunion Island eSIM for Travelers | Pricing & How to Stay Connected"
+  title: "Everything You Need to Know About eSIM in Réunion Island"
   desc: "Complete Réunion Island eSIM guide with plans, pricing, coverage, and installation help."
   categories:
   - id: faq-general
@@ -295,33 +295,33 @@ faq_section:
     title: Réunion Island eSIM FAQs
     questions:
     - q: |
-        I need internet access for just a couple of days in Réunion Island. What's the minimum I can buy?
+        Will my eSIM in Réunion Island work for video calls and remote work?
       a: |
-        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
+        Absolutely. Orange networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
     - q: |
-        Can I use my Réunion Island eSIM for social media and sharing photos with family?
+        How far in advance should I buy my Réunion Island eSIM?
       a: |
-        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Orange handle photos in seconds and short videos easily.
+        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Réunion Island, so buying early doesn't waste your plan days.
     - q: |
-        Can I use navigation apps like Google Maps with eSIM in Réunion Island?
+        What's the easiest way to stay connected in Réunion Island without dealing with airport SIM kiosks?
       a: |
-        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Réunion Island (about 200-500MB per city) before you go as a backup.
+        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Orange for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
     - q: |
-        What documents do I need to buy a Réunion Island eSIM from Roami?
+        What do I do if my Réunion Island eSIM doesn't connect when I arrive?
       a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Orange in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
     - q: |
-        What happens if my Réunion Island eSIM stops working mid-trip?
+        Will my Réunion Island eSIM work as soon as I land, or is there an activation delay?
       a: |
-        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
+        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Orange. No queues, no paperwork — you're online before you reach baggage claim.
     - q: |
-        How do I know if my Réunion Island eSIM plan is active and ready to use?
+        What happens if I use all my data in Réunion Island before my plan expires?
       a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Réunion Island — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
     - q: |
-        What's the most popular eSIM choice for travelers going to Réunion Island?
+        What if I accidentally delete my Réunion Island eSIM before my trip?
       a: |
-        Most travelers to Réunion Island choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
+        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
     - q: |
         How many eSIM profiles can I store on my phone for traveling to Réunion Island?
       a: |

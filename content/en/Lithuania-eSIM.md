@@ -374,7 +374,7 @@ activation_steps:
       to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Lithuania eSIM Plans & Pricing | Best Options for Travelers"
+  title: "Lithuania eSIM With Unlimited Data — Fair Usage Explained Simply"
   desc: "Planning Lithuania travel? Our eSIM guide covers lithuania esim unlimited, plans, and setup tips."
   categories:
   - id: faq-general
@@ -387,33 +387,33 @@ faq_section:
       a: |
         Yes — that's one of Roami's key advantages. As you move from cities to rural areas, your eSIM automatically switches to the carrier with the strongest signal at your location. Typically Telia is fastest in urban centers (5G speeds of 100-300 Mbps), while Bite maintains better coverage in the countryside. Lithuania uses 5G on n78 band with nationwide coverage. You never need to manually change networks.
     - q: |
-        Is it safe to upload my passport for Lithuania eSIM registration? I'm concerned about privacy.
+        Do I need a passport or ID to use eSIM in Lithuania? How does the verification work?
       a: |
-        Lithuania requires identity verification by law. Lithuania requires KYC verification for prepaid SIM cards. Passport required. The process is straightforward: upload your passport through Roami's secure portal, approval takes 5-10 minutes. Do this before you depart — doing it at the airport with unstable WiFi is frustrating. Once approved, you connect automatically when you enable Data Roaming in Lithuania.
+        Yes, Lithuania requires identity verification for eSIM. Lithuania requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with Telia's network than others — check our [eSIM compatibility](/compatibility/) page.
     - q: |
-        Will the Lithuania eSIM unlimited plan slow down if I use too much data?
+        Is the unlimited eSIM plan for Lithuania worth it, or would a fixed data plan be better?
       a: |
-        There's a fair use policy: speeds reduce after 30GB in a day. At reduced speed you can still message, navigate, and browse — just no smooth video. Realistically, most travelers don't get close to 30GB. If you're worried, a 10GB ($14.99) or 20GB ($24.99) fixed plan removes the uncertainty entirely.
+        Roami's unlimited plan has a fair cap: 30GB per day, after which speed drops to 512 kbps until midnight. Most travelers use 500MB to 3GB daily — hitting 30GB means streaming 4K video for 10 hours straight. For regular browsing, maps, and social media, a 5GB or 10GB plan is plenty. Choose unlimited if you plan heavy streaming or hotspot sharing.
+    - q: |
+        What's the easiest way to stay connected in Lithuania without dealing with airport SIM kiosks?
+      a: |
+        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Telia for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
+    - q: |
+        Can I install my Lithuania eSIM at the airport, or should I do it before leaving home?
+      a: |
+        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Lithuania's airport, enable Data Roaming and you'll be online in under 60 seconds.
     - q: |
         What documents do I need to buy a Lithuania eSIM from Roami?
       a: |
         Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
     - q: |
-        What happens if my Lithuania eSIM stops working mid-trip?
+        What do I do if my Lithuania eSIM doesn't connect when I arrive?
       a: |
-        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
+        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Telia in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
     - q: |
-        Do I need to remove my physical SIM to use eSIM in Lithuania?
+        Can I use navigation apps like Google Maps with eSIM in Lithuania?
       a: |
-        Not at all. Your physical SIM stays in slot 1. The eSIM works alongside it in slot 2. Use your home SIM for SMS and calls, eSIM for data. Over 80% of phones from 2020 support this dual setup.
-    - q: |
-        How far in advance should I buy my Lithuania eSIM?
-      a: |
-        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Lithuania, so buying early doesn't waste your plan days.
-    - q: |
-        Will my eSIM in Lithuania work for video calls and remote work?
-      a: |
-        Absolutely. Telia networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
+        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Lithuania (about 200-500MB per city) before you go as a backup.
 related_products:
   title: Related Lithuania eSIM Plans
   items:

@@ -186,7 +186,7 @@ activation_steps:
       WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Botswana eSIM: What Travelers Need to Know | Plans & Setup"
+  title: "Complete Guide to Botswana eSIM for Travelers"
   desc: "Planning Botswana travel? Our eSIM guide covers esim botswana zimbabwe, plans, and setup tips."
   categories:
   - id: faq-general
@@ -195,37 +195,37 @@ faq_section:
     title: Botswana eSIM FAQs
     questions:
     - q: |
-        How do Mascom, BTC, and Orange compare for a tourist visiting Botswana?
+        Which carrier in Botswana should I rely on for my eSIM?
       a: |
-        In Botswana, Mascom leads with the fastest urban 5G speeds (up to 1 Gbps in tests). BTC covers about 85% of the country including most rural areas. Orange is the budget option, often bundling data at lower per-GB rates. Tourists visiting cities get excellent service from all three. Botswana is primarily 4G with coverage in major cities. Roami picks the best one automatically as you move around.
+        Mascom operates over 15,000 towers across Botswana, covering all major cities. BTC complements this with additional rural coverage reaching about 90% of the population. Orange focuses on affordability, with data plans costing roughly 20% less than Mascom. With Roami, you don't pick one — it connects to whichever is strongest.
     - q: |
         How does Roami compare to Airalo for eSIM in Botswana?
       a: |
         Roami typically offers better value for Botswana eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
+        Can I keep my home SIM in my phone while using eSIM in Botswana?
+      a: |
+        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
+    - q: |
         What happens if my Botswana eSIM stops working mid-trip?
       a: |
         First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
     - q: |
-        What do I do if my Botswana eSIM doesn't connect when I arrive?
+        What if my hotel in Botswana has free WiFi — do I still need eSIM data?
       a: |
-        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Mascom in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
-    - q: |
-        What documents do I need to buy a Botswana eSIM from Roami?
-      a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
-    - q: |
-        Can I install my Botswana eSIM at the airport, or should I do it before leaving home?
-      a: |
-        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Botswana's airport, enable Data Roaming and you'll be online in under 60 seconds.
+        Hotel WiFi works in your room but not when you're out exploring. eSIM gives you data everywhere — navigating streets, searching for nearby places, checking transit schedules. A 5GB plan costs $9.99, which is often cheaper than paid hotel WiFi for a week ($10-15 at many hotels). Most travelers use hotel WiFi for large downloads and eSIM for on-the-go connectivity.
     - q: |
         Can I buy a Botswana eSIM at the last minute, right before my flight?
       a: |
         Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Botswana, just enable Data Roaming and you'll be online immediately.
     - q: |
-        What happens if I use all my data in Botswana before my plan expires?
+        How many eSIM profiles can I store on my phone for traveling to Botswana?
       a: |
-        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
+        Most phones store 5-10 eSIM profiles. You can keep your Botswana eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
+    - q: |
+        Can I use my Botswana eSIM right after buying it, or do I need to wait?
+      a: |
+        The QR code arrives within minutes. Install it right away — it takes 2 minutes. However, the plan validity only starts when you connect to a network in Botswana. So you can install weeks before your trip without losing any plan days.
 related_products:
   title: Related Botswana eSIM Plans
   items:
