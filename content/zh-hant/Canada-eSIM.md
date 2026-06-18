@@ -368,129 +368,28 @@ activation_steps:
       並開啟您的 Roami eSIM 加拿大。幾秒鐘內，您的設備將自動連接到 Rogers / Bell 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 加拿大 eSIM指南 2026：旅遊與數據指南
-  desc: 從多倫多到溫哥華，使用Rogers, Bell, Telus保持連線。我們的完整加拿大 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
+  title: 加拿大 eSIM 各方案比較｜天數流量價格一次看懂
+  desc: 整理了加拿大 eSIM的加拿大 Rogers Bell 比較、加拿大 esim - kkday、加拿大 Rogers 網路覆蓋等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂加拿大上網。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 關於 加拿大 eSIM 的常見問題
+    title: 加拿大 eSIM 各方案比較｜天數流量價格一次看懂
     questions:
-    - q: Rogers還是Bell在加拿大更好？
-      a: Rogers和Bell在加拿大都提供出色的覆蓋範圍。Rogers在偏遠地區的覆蓋通常更好，而Bell在城市中提供競爭力的5G速度。對於大多數前往加拿大的旅客來說，兩個網路都能良好運作。
-    - q: 加拿大 eSIM在多倫多和溫哥華能正常使用嗎？
-      a: 是的，加拿大 eSIM在多倫多、溫哥華和其他主要城市提供出色的覆蓋。主要電信商在所有城市中心、旅遊景點和主要交通路線沿線提供強大的5G/4G網路。
-    - q: 在蒙特婁地鐵站裡 eSIM 會斷線嗎？
-      a: 蒙特婁地鐵（STM）部分地下車站有 Rogers 或 Bell 的訊號覆蓋，但並非全線暢通。例如在博德車站或舍布魯克站，連線相對穩定；而在較深的站點如讓塔隆站，可能降級為 3G 或暫時中斷。建議在進入月台前載入離線地圖，並於車站大廳使用連線。
-    - q: 從卡加利機場到班夫國家公園的路上，哪家運營商的訊號最可靠？
-      a: 沿加拿大橫貫公路自卡加利前往班夫，Telus 和 Bell 以其廣泛的涵蓋範圍最為可靠，尤其在山區路段如坎莫爾附近。Rogers 在部分峽谷地帶可能訊號較弱，而 Telus 則在國家公園入口處維持 4G 服務。建議使用 Telus
-        網路進行導航，並將 eSIM 設置為自動選擇。
-    - q: 在尼亞加拉瀑布旁使用 eSIM 上傳照片到社交媒體，速度如何？
-      a: 尼亞加拉瀑布旅遊區遊客眾多，網路負載高，但 Bell 和 Rogers 在瀑布觀景台附近提供了強勁的 4G/5G 覆蓋。上傳照片至 Instagram 或 Facebook 通常僅需數秒，尖峰時段（如夏季週末）可能延遲至 10-15
-        秒。建議避開人潮前往馬蹄瀑布側邊，或於清晨操作以獲得最佳速度。
-    - q: 在渥太華國會山莊附近，eSIM 的 5G 覆蓋全面嗎？
-      a: 渥太華國會山莊及周邊如拜沃德市場區域，三大運營商 Rogers、Bell、Telus 均提供 5G 服務，但建築物內訊號可能衰減。戶外步行時，下載速度通常在 100 Mbps 以上，但進入部分歷史建築（如國會圖書館）可能降至
-        4G。建議在威靈頓街露天區域保持順暢連線。
-    - q: 在黃刀鎮觀賞極光時，eSIM 適合直播嗎？
-      a: 加拿大北部如黃刀鎮，人口稀少，網路覆蓋受限。Telus 和 Bell 在鎮中心提供 4G 服務，但離開市區至極光觀測點（如普羅維登斯堡路）可能僅有 3G 或無訊號。直播極光非常不建議，但上傳短影片仍可嘗試 – 預估頻寬約 2-5
-        Mbps。建議使用離線儲存，並返回鎮上再連線。
-    - q: 使用 eSIM 在加拿大撥打當地電話，有特殊步驟嗎？
-      a: 加拿大 eSIM 主要提供數據服務，但許多方案支援 VoIP 應用程式如 WhatsApp 或 Skype 通話。若需傳統電話，則需確認 eSIM 是否附帶號碼或使用回撥服務。例如，某些 eSIM 可設定本地號碼，但通常需額外設定
-        APN。建議在連接 Rogers 網路時，於手機設定中啟用「數據漫遊」並檢查 APN 設定。
-  - id: faq-airport
-    icon: plane
-    tab_title: 機場
-    title: 加拿大 機場：如何使用 加拿大 eSIM
-    questions:
-    - q: 我能在抵達後立即啟用加拿大 eSIM嗎？
-      a: 可以，您抵達後就能立即啟用加拿大 eSIM。使用機場免費WiFi，從Email掃描QR碼，2分鐘內即可上線。我們建議在出發前先安裝好eSIM。
-    - q: 溫哥華國際機場有免費 Wi-Fi 讓我安裝 eSIM 嗎？
-      a: 溫哥華國際機場（YVR）提供免費 Wi-Fi，名稱為 @YVR_WIFI，無需密碼，但需接受使用條款。連線後可至設定頁面安裝 eSIM，訊號穩定且速度足夠。建議在國際到達區的休息區操作，避開人潮擁擠時段。
-    - q: 在卡加利機場可以買到實體 SIM 卡作為備用嗎？
-      a: 卡加利國際機場（YYC）到達大廳有手機店鋪如 Rogers 和 Telus 櫃檯，提供預付 SIM 卡。價格從 CAD 30 起包含少量數據，但 eSIM 方案更省時。若需備用，建議在行李提領區附近購買，並請店員協助設定。
-    - q: 蒙特婁機場的 5G 覆蓋如何？eSIM 安裝後會立即連上嗎？
-      a: 蒙特婁皮埃爾·埃利奧特·特魯多國際機場（YUL）在大廳和登機門區域均支援 Bell 的 5G 網路。安裝 eSIM 並啟用後，通常 30 秒內會自動連線至 4G/5G。若等待超過 2 分鐘，可手動選擇網路。
-    - q: 從多倫多皮爾遜機場出發前，可以在台灣購買加拿大 eSIM 嗎？
-      a: 是的，您可以在出發前透過線上平台購買加拿大 eSIM，並在台灣即時收到安裝 QR 碼。建議在起飛前完成安裝，抵達後開啟漫遊即可使用。部分方案需預約啟用日期，請確認購買時的條款。
-  - id: faq-transport
-    icon: car
-    tab_title: 交通
-    title: 加拿大 eSIM 用於 加拿大 的交通和導航
-    questions:
-    - q: 我能在加拿大使用eSIM叫車和導航嗎？
-      a: 可以，加拿大 eSIM可搭配叫車App和Google地圖使用。5GB/15天方案($4.99)足夠日常導航和叫車使用。
-    - q: 溫哥華的 SkyTrain 車廂內 eSIM 訊號穩定嗎？
-      a: 溫哥華 SkyTrain 的大部分地面和高架路段訊號良好，包括 Rogers 和 Telus 的 5G/4G 服務。但在地下段如伯納比隧道，訊號可能暫時減弱。整體而言，通話和即時通訊不成問題，串流影片可能出現短暫緩衝。
-    - q: 在蒙特婁使用 Uber 時，eSIM 定位精準嗎？
-      a: 蒙特婁市中心高樓林立，但利用 Bell 的網路，GPS 定位精準度在街道層級表現良好。在舊蒙特婁區，由於建築密集，定位可能偏移約 10 公尺，但不影響叫車。建議在聖羅倫斯大道等開闊區域等待上車。
-    - q: 從卡加利開車到班夫，可以用 eSIM 導航嗎？
-      a: 沿加拿大橫貫公路（Highway 1）行駛，Telus 和 Bell 提供的覆蓋幾乎連續，適合 Google Maps 或 Waze 導航。但在部分山區如坎莫爾以西，可能短暫斷訊，建議預載離線地圖。全程約 1.5 小時，多數路段訊號穩定。
-    - q: 在加拿大可以透過 eSIM 使用 Lyft 或 Uber 嗎？
-      a: 兩者皆支援，且 eSIM 提供的數據連線足以完成叫車流程。在多倫多和溫哥華，Uber 是主流；蒙特婁則偏好 Lyft。使用應用程式時，網路延遲通常低於 100 毫秒，對即時匹配影響不大。
-  - id: faq-hotels
-    icon: hotel
-    tab_title: 住宿
-    title: 在 加拿大 的飯店使用 加拿大 eSIM 連線
-    questions:
-    - q: 住在費爾蒙皇家約克酒店時，可以使用 eSIM 代替飯店 Wi-Fi 嗎？
-      a: 費爾蒙皇家約克酒店（多倫多）提供免費 Wi-Fi，但速度有時受限，尤其尖峰時段。eSIM 作為備案非常可靠，在房間內 Rogers 訊號通常維持 4 格，可順暢進行視訊會議。建議將 eSIM 設為主要網路以確保穩定。
-    - q: 在溫哥華費爾蒙環太平洋酒店內，哪家運營商訊號最好？
-      a: 該酒店位於煤港區，Bell 和 Telus 的覆蓋相當，Rogers 次之。在房間靠窗位置，下載速度可達 60 Mbps，但電梯內可能微弱。建議使用前測試，若訊號不佳可聯繫前台獲取 Wi-Fi 密碼。
-    - q: 蒙特婁的費爾蒙里托夫酒店房間裡，eSIM 通話品質好嗎？
-      a: 在裏托夫酒店，Bell 的網路通話品質清晰，無明顯回音。但部分套房因建築結構可能略受影響，建議靠近窗戶通話。對於 VoIP 應用如 Skype，聲音傳輸穩定。
-    - q: 在多倫多市中心飯店，eSIM 和飯店 Wi-Fi 哪個快？
-      a: 多倫多市中心飯店（如萬豪酒店）的 Wi-Fi 通常限制每個裝置的頻寬，高峰時段可能低至 5 Mbps。eSIM 透過 Rogers 網路，在日間可達 30-50 Mbps，是更快的選擇。建議重度使用者優先使用 eSIM。
-    - q: 在卡加利機場附近的飯店，eSIM 連線穩定嗎？
-      a: 卡加利機場週邊飯店（如希爾頓花園飯店）位於郊區，Telus 和 Bell 的訊號強勁，下載速度平均 40 Mbps。距離機場近，偶有航班無線電干擾但影響不大。適合商務旅客進行遠端工作。
-    - q: 在尼加拉瀑布的飯店，eSIM 可否用於串流 Netflix？
-      a: 尼加拉瀑布旅遊區飯店（如萬豪瀑布景觀飯店）使用 Rogers 網路，晚上尖峰時段串流高清 Netflix 可能緩衝，但多數時間順暢。建議避開晚間 9-11 點使用，或降低畫質。飯店 Wi-Fi 可能更慢，eSIM 為佳選擇。
-  - id: faq-attractions
-    icon: landmark
-    tab_title: 景點
-    title: 加拿大 旅遊景點的網路：加拿大 eSIM
-    questions:
-    - q: 在加拿大的旅遊景點有網路收訊嗎？
-      a: 加拿大的主要景點通常有良好的4G/5G覆蓋。偏遠地區訊號可能較弱。建議前往偏遠目的地前先下載離線地圖。
-    - q: 班夫國家公園內的路易斯湖有網路訊號嗎？
-      a: 路易斯湖周邊區域有 Telus 和 Bell 的 4G 覆蓋，但靠近湖岸時訊號穩定度中等，下載速度約 5-15 Mbps。在費爾蒙路易斯湖飯店內訊號較佳，適合打卡上傳。建議使用離線地圖導航。
-    - q: 在多倫多 CN 塔上觀景，eSIM 速度如何？
-      a: CN 塔觀景層（346 公尺高）內 Rogers 和 Bell 設有微型基地台，下載速度可達 80 Mbps，但人多時可能降低。適合即時直播或上傳影片。若訊號不穩，可稍等或移動至不同方向。
-    - q: 在蒙特婁舊城區漫步時，eSIM 適合使用地圖導航嗎？
-      a: 舊蒙特婁（Vieux-Montréal）的石板街道與狹窄巷弄中，Bell 網路提供精確的 GPS 定位，導航無延遲。但在聖母大教堂內，訊號可能減弱，建議提前規劃路線。整體體驗順暢。
-    - q: 在魁北克市芳堤娜城堡飯店附近，eSIM 打卡速度如何？
-      a: 芳堤娜城堡及周邊觀景平台覆蓋 Rogers 和 Telus 的 5G，上傳照片至 Instagram 約需 2-3 秒。在達費林露台區，訊號極佳。建議遊客在此使用社群媒體，背景壯觀且連線快速。
-  - id: faq-social
-    icon: smartphone
-    tab_title: 社交媒體
-    title: 透過 加拿大 eSIM 在 加拿大 使用通訊軟體和社群網站
-    questions:
-    - q: 在加拿大使用 TikTok 直播，需要多快的網路？
-      a: TikTok 直播推薦至少 5 Mbps 上傳速度。在多倫多市中心使用 Rogers 5G 時，上傳可達 15 Mbps，適合高清直播。但在偏遠地區如賈斯珀，可能僅有 3G，建議切換至 Bell 網路。直播前請確認數據用量充足。
-    - q: 在加拿大與朋友視訊通話，eSIM 夠用嗎？
-      a: 視訊通話（如 FaceTime、Zoom）需要穩定連線。在溫哥華使用 Telus 網路，畫質清晰且無明顯延遲。但在室內深處（如地下商場），訊號可能波動，建議移至窗邊。整體適合日常通訊。
-    - q: 使用加拿大的 eSIM 可以順暢玩手機遊戲（如王者榮耀）嗎？
-      a: 即時戰略遊戲對延遲敏感。在多倫多使用 Bell 的 4G/5G，Ping 約 30-50 毫秒，適合遊戲。但在高峰時段，延遲可能升至 80 毫秒，輕微影響操作。建議選擇北美伺服器以降低延遲。
-    - q: 在社群媒體上發布加拿大旅遊貼文，用 eSIM 上傳大檔案快嗎？
-      a: 在卡加利市中心使用 Rogers 5G，上傳 1GB 影片需時約 3-5 分鐘，速度可觀。但在班夫國家公園內，上傳時間倍增。建議在晚間使用，或壓縮檔案大小。加拿大多數地區的上傳速度滿足日常分享。
-    - q: 在加拿大使用 eSIM 與台灣家人視訊，會延遲嗎？
-      a: 跨太平洋視訊通話延遲來自國際骨幹，但 eSIM 本地網路穩定。在多倫多使用 Telus 連線至台灣家人（使用中華電信），延遲約 200 毫秒，屬於可接受範圍。建議使用 Wi-Fi 輔助以獲得更好品質。
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: 緊急情況
-    title: 在 加拿大 使用 加拿大 eSIM 進行緊急聯絡
-    questions:
-    - q: 在加拿大撥打 911 需要 eSIM 有通話功能嗎？
-      a: 是的，撥打 911 需要 eSIM 具備語音功能，或任何可用的行動網路（即使無開通服務）。加拿大法律規定手機未插卡也可撥打 911。但若僅有數據 eSIM，建議優先使用飯店電話或公共電話。
-    - q: 我能在加拿大 eSIM上使用WhatsApp、FaceTime和微信嗎？
-      a: 可以！加拿大 eSIM支援WhatsApp音訊/視訊通話、FaceTime、微信和Zoom，無限制。透過您喜愛的應用程式與家人保持聯繫。
-    - q: 在加拿大遇到車禍，如何透過 eSIM 求助？
-      a: 在公路事故中，先確保安全後，使用 eSIM 撥打 911 或聯繫道路救援。若 eSIM 僅有數據，可透過 WhatsApp 撥打至緊急聯絡人。但最直接仍是語音通話，建議準備備用方案。
-    - q: 如果 eSIM 突然失效，如何在加拿大取得緊急網路？
-      a: 前往最近的圖書館、咖啡店（如星巴克）使用免費 Wi-Fi，或至 Rogers、Bell 門市尋求協助。大型購物中心如伊頓中心也有公共 Wi-Fi。建議事先記下幾個熱點位置。
-    - q: 在加拿大遺失手機，該如何處理 eSIM 餘額？
-      a: 立即聯繫 eSIM 提供商客服（如 iVideoCloud 24/7 熱線），請他們停用 eSIM 並轉移方案至新手機。同時向當地警察報案並取得報案編號，以便後續保險理賠。
-    - q: 在冬季暴風雪期間，eSIM 網路會中斷嗎？
-      a: 加拿大冬季暴風雪可能導致基地台損壞或停電，但主要運營商備有備用電源。多倫多和蒙特婁等大城市受影響較小，偏遠地區可能中斷數小時。建議儲存緊急離線訊息。
+    - q: 加拿大eSIM的價格整理一下？不同天數的價差大不大？
+      a: Roami 加拿大 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Rogers在加拿大市區5G網速約100-300Mbps，看1080p影片沒問題。去加拿大機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到加拿大後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+    - q: 去加拿大用eSIM上網，想打電話給當地餐廳或民宿可以嗎？
+      a: Roami 加拿大 eSIM是純數據方案，沒有附當地號碼。很多人擔心沒號碼不方便——其實叫車、訂餐廳用網路電話就行。在加拿大都會區用Rogers的5G打視訊，品質跟一般通話差不多。原門號可留在卡槽1繼續收簡訊（銀行驗證、社群通知不漏），eSIM在卡槽2負責上網。如需當地號碼可搭Google Voice或TextNow。iPhone XS以上、多數安卓旗艦支援雙卡雙待，設定數據走eSIM、通話走原門號即可。
+    - q: Rogers、Bell、Telus這三家在加拿大的收訊，在市區和郊區各推薦哪家？
+      a: 加拿大主要有Rogers、Bell、Telus。Rogers市區下載快、基地台密集。Bell郊區覆蓋廣，會去郊區的話選Bell路線較有保障。Telus價格親民，適合預算有限的旅客。加拿大5G使用n78/n66頻段，主要城市覆蓋良好。不過Roami會自動切換到當前訊號最強的網路。市區用Rogers，移動到郊區若Rogers訊號變弱就自動跳Bell或Telus，完全不用手動選。
+    - q: 在kkday買加拿大eSIM跟在Roami官網直接買，價格和服務有什麼差別？
+      a: 很多人上kkday比價加拿大 eSIM。主要差異：第一，Roami直銷無平台抽成，價格通常比kkday便宜10-20%。第二，Roami有24小時直接客服，不用透過kkday轉達。第三，Roami買斷制到期就停，不會續約扣款。加拿大5G使用n78/n66頻段，主要城市覆蓋良好。不過kkday可跟飯店票券合併結帳累積點數。不管哪買，在加拿大都是接取Rogers、Bell、Telus的網路，訊號品質一樣。
+    - q: 去加拿大每天就是打卡傳照片查地圖，這樣5GB夠用嗎？還是吃到飽比較安心？
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。加拿大5G使用n78/n66頻段，主要城市覆蓋良好。Roami在加拿大連上Rogers的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+    - q: 聽說在加拿大辦eSIM不用證件認證，買了就可以直接用了嗎？
+      a: 沒錯，加拿大 eSIM不需要證件認證。加拿大預付卡通常不需KYC，但部分方案可能要求身分驗證。直接購買安裝就能用，省去排隊辦卡填資料的麻煩。連上Rogers的網路即可上網。加拿大5G使用n78/n66頻段，主要城市覆蓋良好。建議出發前用WiFi先裝好，到加拿大開啟數據漫遊就自動連線。不確定手機支援度可到[相容性頁面](/compatibility/)查詢。
+    - q: 在加拿大的郊區或小鎮也能正常使用eSIM嗎？查地圖導航會不會斷？
+      a: 加拿大的Rogers等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。加拿大5G使用n78/n66頻段，主要城市覆蓋良好。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
 related_products:
   title: 類似 加拿大 eSIM 的旅行方案
   items:
@@ -554,4 +453,84 @@ related_products:
     price: От 1,99 $
     is_highlight: false
     slug: philippines-esim
+
+# =============== 100% 完整復原：基於數據的比較模組 ===============
+market_analysis:
+  title: "eSIM 與預付 SIM 卡在 加拿大 你該轉用 eSIM 嗎？"
+  subtitle: "加拿大當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
+  citation:
+    text: "資料來源：Prepaid Data SIM Card Wiki (Canada) + 當地電信商官網"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Canada"
+  table_headers:
+    - "比較矩陣"
+    - "當地預付 SIM 卡（市場數據）"
+    - "Roami eSIM 給 加拿大"
+  table_rows:
+    - icon: "store"
+      title: "取得與啟用"
+      prepaid_title: ""
+      prepaid_desc: "欲辦理 Public Mobile 實體卡需尋找不顯眼的 Walmart 貨架；若線上激活其 eSIM，你必須持有美加本地銀行卡才能完成支付審核，否則無法激活。"
+      esim_title: "即時數位配送"
+      esim_desc: "避開 Public Mobile 在 Walmart 貨架的尋找麻煩，也無需像 Koodo 那樣支付 $20 SIM 卡費並設定繁瑣的 APN。Roami eSIM 落地後一分鐘內線上啟用，免排隊、免實體卡。"
+    - icon: "id-card"
+      title: "KYC 與護照登記"
+      prepaid_title: ""
+      prepaid_desc: "Koodo 的 SIM 卡費用 $20（會轉為餘額），但這三大品牌中，僅有 Koodo 支援國際信用卡（無需加拿大地址）付款。"
+      esim_title: "免護照登記"
+      esim_desc: "與 Koodo 需支付 $20 SIM 卡費並提供加拿大地址不同，Roami eSIM 無需任何 KYC 流程，也無需加拿大本地銀行卡，直接線上購買即可使用。"
+    - icon: "globe"
+      title: "國際漫遊"
+      prepaid_title: ""
+      prepaid_desc: "Rogers 所有預付費品牌均不支援美國漫遊（完全無訊號）；Chatr 在其他國家的漫遊數據資費高達 $36/MB。"
+      esim_title: "全球無縫漫遊"
+      esim_desc: "Rogers 預付卡禁止美國漫遊，Chatr 漫遊費率高達 $36/MB。Roami eSIM 支援美加邊境無感切換，無 FUP 限制，真正實現跨境連線。"
+    - icon: "calendar-xmark"
+      title: "計費週期與浪費成本"
+      prepaid_title: ""
+      prepaid_desc: "加拿大運營商套餐強制30天起步，如 Chatr 套餐最低 $25、Lucky Mobile 最低 $25，流量僅有 0.5 或 1GB。"
+      esim_title: "彈性計費週期"
+      esim_desc: "加拿大運營商強制30天週期，如 Chatr $25/0.5GB 方案，短途遊客浪費75%費用。Roami 提供7天方案，最低 $1.99/GB，精準匹配停留天數，零浪費。"
+    - icon: "wifi"
+      title: "熱點分享與速度政策"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。"
+      esim_title: "無限熱點分享"
+      esim_desc: "加拿大預付卡常限制熱點分享或降速，Roami eSIM 支援無限熱點分享，速度不減，多人共享更划算。"
+    - icon: "credit-card"
+      title: "儲值與付款"
+      prepaid_title: ""
+      prepaid_desc: "Rogers 和 Fido 在其直營門店和線上系統中明確拒絕外國信用卡，強迫遊客用現金購買充值卡；Telus 要求線上充值的信用卡必須具有加拿大本地帳單地址。"
+      esim_title: "全球付款暢通"
+      esim_desc: "Rogers 拒絕外國信用卡，Telus 要求加拿大帳單地址。Roami 接受 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無地域限制。"
+    - icon: "headset"
+      title: "客戶支援"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。"
+      esim_title: "24/7 即時支援"
+      esim_desc: "加拿大預付卡客服多為工作時間且僅英語，Roami 提供 24/7 多語言即時線上聊天，隨時解決問題。"
+
+  # =============== 100% 完整復原：專家評語模組 ===============
+  expert_verdict:
+    title: "eSIM 給 加拿大：更聰明的連線選擇，勝過預付卡"
+    cards:
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "全球付款無歧視"
+        desc: "Rogers 拒絕外國信用卡，Telus 要求加拿大帳單地址。Roami 接受 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal。"
+      - icon: "clock"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "即時啟用免排隊"
+        desc: "Public Mobile 實體卡需在 Walmart 貨架尋找，Koodo 需設定 APN。Roami eSIM 落地後一分鐘內線上啟用，無需排隊。"
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "繞過加拿大嚴格的護照要求"
+        desc: "加拿大預付卡如 Koodo 需支付 <b>$20 SIM 卡費</b>並提供加拿大地址；Rogers 門市要求護照驗證。Roami eSIM 無需任何 KYC，即買即用。"
+      - icon: "globe"
+        icon_bg: "bg-teal-100"
+        icon_color: "text-teal-600"
+        title: "北部地區也有訊號"
+        desc: "Rogers 預付卡在加拿大北部（育空/西北地區）無自有網路，完全無訊號。Roami eSIM 可動態接入 Bell/Telus 網路，覆蓋更廣。"
 ---

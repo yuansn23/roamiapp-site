@@ -337,127 +337,26 @@ activation_steps:
       eSIM 喬治亞。幾秒鐘內，您的設備將自動連接到 Magti / Geocell (Silknet) 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 喬治亞 eSIM指南 2026：方案、覆蓋與秘訣
-  desc: 從第比利斯到巴統，使用Magti, Geocell (Silknet), Beeline保持連線。我們的完整喬治亞 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
+  title: 喬治亞 eSIM 上網方案推薦｜旅客真實使用心得
+  desc: 整理了喬治亞 eSIM的喬治亞 MagtiCom Silknet 比較、喬治亞 MagtiCom 網路覆蓋、喬治亞 Silknet 速度等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂喬治亞上網。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 關於 喬治亞 eSIM 的常見問題
+    title: 喬治亞 eSIM 上網方案推薦｜旅客真實使用心得
     questions:
-    - q: Magti還是Geocell (Silknet)在喬治亞更好？
-      a: Magti和Geocell (Silknet)在喬治亞都提供出色的覆蓋範圍。Magti在偏遠地區的覆蓋通常更好，而Geocell (Silknet)在城市中提供競爭力的5G速度。對於大多數前往喬治亞的旅客來說，兩個網路都能良好運作。
-    - q: 在卡茲別吉山區，Geocell的覆蓋如何？可以進行視訊通話嗎？
-      a: 卡茲別吉地區海拔較高，Geocell在主要村落如Stepantsminda和聖三一教堂附近提供穩定的4G覆蓋，但進入山谷或偏遠步道時可能降為3G或無訊號。在住宿點或觀景台，視訊通話如Zoom或Facetime通常品質良好，延遲約50-80毫秒。但若你計畫健行到冰川附近，建議先下載離線地圖。另外，Magti在該區域的覆蓋稍弱，建議優先使用Geocell。
-    - q: 喬治亞eSIM的註冊流程與其他國家有何不同？需要提供護照嗎？
-      a: 與許多國家不同，喬治亞對eSIM的註冊要求相對寬鬆，通常不需上傳護照掃描檔即可啟用。你只需在購買eSIM時提供電子郵件，安裝後在手機上設定APN即可連網。不過，若你購買本地預付卡（實體SIM），則需要出示護照進行實名登記。對於短期旅遊eSIM，這個流程簡化了許多，但請確保你的手機已解鎖支援eSIM功能。
-    - q: 從第比利斯機場入境後，何時可以開始使用eSIM？需要到特定櫃檯啟用嗎？
-      a: 購買我們的eSIM後，在出發前或抵達時安裝描述檔即可，完全不需要在機場櫃檯排隊。當飛機降落並開啟行動數據後，通常2-5分鐘內就會自動連接到當地網路（如Beeline或Magti）。第比利斯國際機場的入境大廳有免費WiFi，如果你安裝時遇到問題，可以先連機場WiFi完成設定。建議在家先安裝好描述檔，到當地直接開啟漫遊即可使用。
-    - q: 在巴統海邊，使用Bolt叫車時網路穩定嗎？會不會因為切換基地台而斷線？
-      a: 巴統沿海地帶，從海濱大道到Batumi Mall附近，網路基礎設施良好，Bolt應用程式定位精準，叫車過程通常順暢。切換基地台時可能出現短暫的1-2秒延遲，但不至於斷線。不過，在旺季（7-8月）傍晚時段，遊客眾多可能導致網路壅塞，偶爾會發生地圖載入變慢的情況。建議此時手動切換到Geocell網路（若你的eSIM支援多運營商），因為其在該區域的容量較大。
-    - q: 喬治亞eSIM是否有公平使用政策？每日用量超過多少可能被限速？
-      a: 我們的喬治亞eSIM通常採用3GB/日的公平使用政策，即每日高速數據（4G/5G）上限為3GB，超過後速度降至2 Mbps左右。這個速度仍可應付社群媒體、地圖導航和一般網頁瀏覽，但觀看高畫質影片可能需緩衝。若你有大量串流需求，建議選擇無限制但總流量大的方案。請注意，不同電信商政策略有差異，Magti在達到3GB後優先級降低較明顯，而Beeline則相對寬鬆。
-    - q: 從庫塔伊西機場到第比利斯長途巴士上，eSIM能持續連網嗎？沿途訊號如何？
-      a: 從庫塔伊西到第比利斯約3.5小時車程，途經E60高速公路。大部分路段有穩定的4G訊號，尤其是經過哥里附近時，訊號強度可達40 Mbps以上。但在進入山區隧道（如Kusiri隧道）時會短暫無訊號，約1-3分鐘後恢復。巴士上若窗戶隔熱膜較厚，可能影響接收，但整體而言，刷社群或聽串流音樂是沒問題的。建議避免在隧道行進期間進行重要視訊會議。
-    - q: 在喬治亞使用eSIM，可以分享熱點給旅伴嗎？需要注意什麼？
-      a: 完全可以，我們支援無限制的熱點分享，你可以在設定中啟用個人熱點。但請注意，熱點分享會加速數據消耗，因為多台設備同時使用。另外，部分電信商如Geocell可能對熱點流量優先級較低，在尖峰時段分享時網路延遲可能上升。建議旅伴下載離線地圖，減少即時數據用量。若你們總共超過3人，建議每人購買獨立eSIM以獲得最佳體驗。
-  - id: faq-airport
-    icon: plane
-    tab_title: 機場
-    title: 喬治亞 機場：如何使用 喬治亞 eSIM
-    questions:
-    - q: 第比利斯國際機場有免費WiFi嗎？連線速度快嗎？可以持續多久？
-      a: 第比利斯國際機場（TBS）提供免費WiFi，連線方式簡單：選擇網路「TBS Free WiFi」，註冊手機號碼或電子郵件即可使用。速度大約在10-20 Mbps，足以收發訊息、瀏覽網頁，但觀看影片可能不太流暢。連線時間限制為1小時，之後需重新連線。建議你抵達後立即安裝eSIM，以避免WiFi的不便。
-    - q: 在第比利斯機場購買當地SIM卡方便嗎？有哪些運營商可選？
-      a: 機場入境大廳有Magti、Geocell和Beeline的官方攤位，營業時間通常從早上8點到晚上10點。他們提供遊客專用的預付卡，例如Magti的「Tourist SIM」方案，7天2GB約10拉里（約3美元）。購買時需出示護照進行登記。如果你的班機在深夜抵達，可能部分攤位已關閉，此時eSIM會是更方便的選擇。
-    - q: 從庫塔伊西國際機場前往第比利斯，eSIM何時開始生效？有必要提前開通嗎？
-      a: 庫塔伊西機場（KUT）規模較小，但手機訊號涵蓋良好。eSIM在安裝後通常立即生效，建議你在出發前於家中安裝好描述檔，並確保行動數據和漫遊開啟。抵達機場後只需關閉飛航模式，即可自動連網。若你計畫直接搭巴士，途中市區訊號穩定，可隨時使用導航。
-    - q: 巴統國際機場的網路覆蓋狀況如何？有沒有免費WiFi可以使用？
-      a: 巴統機場（BUS）提供免費WiFi，但連線品質一般，速度約5-10 Mbps。機場內Magti和Geocell的訊號強度很好，尤其在大廳與登機門區域。建議你提前安裝eSIM，因為機場WiFi有時需提供當地電話號碼接收驗證碼，對國際旅客較不便。
-    - q: 從第比利斯機場到市區的交通工具中，使用eSIM導航是否順暢？哪條路線訊號較穩定？
-      a: 從機場到市區的主要路線是Tbilisi-Kachreti高速公路，全程約20分鐘。大部分路段4G訊號良好，不過途經Mediamarket附近時可能短暫降速。建議使用Google Maps或Waze導航，兩者運作順暢。若你搭計程車，使用Bolt或Yandex
-        Go叫車非常方便，司機大多會跟隨導航路線。
-  - id: faq-transport
-    icon: car
-    tab_title: 交通
-    title: 喬治亞 eSIM 用於 喬治亞 的交通和導航
-    questions:
-    - q: 在第比利斯如何叫車？推薦Bolt或Yandex Go？支付可以用現金嗎？
-      a: 第比利斯最流行的叫車應用是Bolt和Yandex Go，兩者都提供較低的價格（市區行程常只需5-8拉里）。Bolt的英文介面較友好，而Yandex Go的車隊更大。兩者均可選擇現金支付，但建議備妥零錢，因為司機可能無法找零。此外，在高峰時段如上下班時間，Bolt可能會有動態加價，此時可比較兩者價格再下單。
-    - q: 喬治亞的長途巴士方便嗎？如何從第比利斯到卡茲別吉？
-      a: 從第比利斯Didube巴士站有直達卡茲別吉（Stepantsminda）的Marshrutka（小巴），車程約3小時，票價15-20拉里。巴士班次頻繁，從早上7點到下午6點每小時一班。eSIM在途經Mtskheta和Gudauri時訊號良好，可沿途欣賞風景。建議提早到站購票，旺季可能需排隊。若想更舒適，也可預訂私人接駁車，價格約80拉里。
-    - q: 巴統市區的交通狀況如何？可以租機車或自行車嗎？
-      a: 巴統市區相對緊湊，多數景點步行可達，但觀光區有時塞車。租機車可透過「Batumi Bike Rent」或「Motogarden」等店，一天約50-60拉里。自行車共享服務「BatumiBike」提供站點租借，每小時2拉里。騎車時請遵守交通規則，並注意行人。使用eSIM導航時，建議使用離線地圖以防偏遠地區訊號不穩。
-    - q: 橫跨喬治亞的火車體驗如何？從第比利斯到巴統的夜車需要預訂嗎？
-      a: 喬治亞鐵路（Georgian Railway）提供第比利斯到巴統的夜班車（車程約7小時），設有臥鋪車廂。建議提前在官網或火車站預訂，特別是在夏季旅遊旺季。二等臥鋪票價約50拉里，非常經濟。列車上有充電插座，但WiFi不穩定。行駛途中經過Gori和Zestaponi時，手機訊號有時中斷，建議先下載影片或音樂。
-    - q: 在市區使用地鐵或巴士，eSIM的訊號穩定嗎？
-      a: 第比利斯地鐵（Saburtalo線和Akhmeteli線）在地下深層月台時，Magti和Geocell的4G訊號會減弱至3G或無服務，但在車站大廳和行駛中偶爾有訊號。地面巴士的訊號則相對穩定，尤其經過主要道路如Rustaveli
-        Avenue時。建議在地鐵區段先離線載好路線圖，避免依賴即時導航。
-  - id: faq-hotels
-    icon: hotel
-    tab_title: 住宿
-    title: 在 喬治亞 的飯店使用 喬治亞 eSIM 連線
-    questions:
-    - q: 第比利斯萬豪酒店的WiFi品質如何？還需要eSIM嗎？
-      a: 第比利斯萬豪酒店（位於Rustaveli大道）提供免費WiFi，速度約20-30 Mbps，足夠串流和視訊通話。但公共區域可能較慢。儘管如此，建議仍配備eSIM，以便外出時使用導航和社群媒體，避免依賴飯店WiFi。
-    - q: 巴統希爾頓酒店的行動網路覆蓋好嗎？房間內用eSIM會不會有訊號死角？
-      a: 巴統希爾頓酒店房間內，連接到當地Geocell網路時訊號通常穩定，但面向黑海的低樓層房間可能因建築結構導致訊號略弱。eSIM可自動切換運營商，但若遇到死角，可移動到窗邊。飯店本身也提供付費高速WiFi，備案充足。
-    - q: 在卡茲別吉的Rooms Hotel，手機訊號夠強嗎？可以上傳IG限時動態嗎？
-      a: Rooms Hotel Kazbegi位於山區，但Magti在該區域有專門設置基地台，訊號強度約30-40 Mbps。你可以輕鬆上傳照片和影片到Instagram，即時分享美景。不過，若房間位於建築深處，訊號可能稍弱，可考慮購買訊號強度較佳的Geocell
-        SIM。
-    - q: 哥里有哪些推薦的飯店？需要提前多久預訂？
-      a: 哥里有「Tbilisi Hotel Gori」和「Hotel Victoria」等經濟型選擇，價格約40-60拉里。由於哥里是前往斯瓦涅季的中轉站，旺季建議提前一週預訂。飯店WiFi速度普通，約10-15 Mbps，但對基本需求足夠。帶eSIM的好處是可在老城區隨時查詢資訊。
-    - q: 在第比利斯的民宿，使用eSIM拉網路分享給筆電工作，速度可以嗎？
-      a: 多數第比利斯民宿提供WiFi，但速度不一。若你依賴eSIM分享熱點給筆電，在4G訊號強時可達30 Mbps，滿足視訊會議與文件上傳。但注意每日公平使用限制，若工作流量大，建議選擇不限速方案。民宿環境中，靠近窗戶訊號較佳。
-    - q: 巴統的青年旅館是否有寄物櫃？可以使用eSIM找附近景點嗎？
-      a: 巴統的「Batumi Hostel」和「Mountain View Hostel」提供寄物櫃。使用eSIM時，旅館周圍訊號通常良好，可快速查詢餐廳、景點資訊。青年旅館的公用WiFi可能限速，因此有eSIM作為備用網路很重要。
-  - id: faq-attractions
-    icon: landmark
-    tab_title: 景點
-    title: 喬治亞 旅遊景點的網路：喬治亞 eSIM
-    questions:
-    - q: 參觀第比利斯老城區，使用eSIM查詢歷史建築資訊方便嗎？
-      a: 第比利斯老城區（如梅特希教堂、硫磺浴池一帶）網路覆蓋良好，使用eSIM可快速載入維基百科、地圖。在狹窄巷弄中，訊號因建築物阻擋可能稍降，但整體仍然可靠。建議搭配Google Maps離線區域，以備不時之需。
-    - q: 前往巴統海濱大道與阿里和尼諾雕像，適合拍照上傳嗎？網路速度如何？
-      a: 巴統海濱大道全長約7公里，沿線都有穩定的4G訊號。在阿里和尼諾雕像附近，網速約20-30 Mbps，上傳照片和短影片不到一分鐘。傍晚人潮多時可能略慢，但使用eSIM仍然順暢。
-    - q: 從第比利斯到卡茲別吉的途中，可以順路參觀Ananuri城堡嗎？那裡有網路嗎？
-      a: Ananuri城堡位於Zhinvali水庫旁，距離第比利斯約1小時車程。該區域有Magti的3G/4G訊號，速度約10 Mbps，可拍照打卡。城堡建築典雅，很適合短暫停留。建議在上午前往，避開旅遊團人潮。
-    - q: 哥里的史達林博物館參觀時，可以用eSIM語音導覽嗎？
-      a: 史達林博物館提供語音導覽設備，但你也可用手機上的語音導覽應用。博物館內部分區域（如地下展廳）訊號較弱，但大廳與庭院訊號良好。建議事前下載應用程式內容，博物館WiFi也穩定。
-    - q: 庫塔伊西的巴格拉特大教堂附近網路好嗎？可以即時翻譯標示嗎？
-      a: 巴格拉特大教堂位於山上，遊客中心附近有免費WiFi。使用eSIM時，Geocell訊號強度約20 Mbps，可即時使用Google翻譯或線上字典閱讀舊喬治亞語說明。教堂內部石牆可能遮蔽訊號，但開放區域運作正常。
-  - id: faq-social
-    icon: smartphone
-    tab_title: 社交媒體
-    title: 透過 喬治亞 eSIM 在 喬治亞 使用通訊軟體和社群網站
-    questions:
-    - q: 去喬治亞旅行需要多少數據量？
-      a: 輕度使用者(地圖+訊息)約300MB/天，中度(社群+照片)約700MB/天，重度(串流+視訊)選擇無限方案。大多數旅客在喬治亞標準行程中選擇5GB/15天已足夠。
-    - q: 在巴統使用Facebook Live直播，會不會卡頓？
-      a: 巴統沿海地區，尤其是巴統廣場附近，上行速度約10-15 Mbps，足以進行720p的Facebook Live直播。直播時延遲約2-3秒，觀眾互動流暢。在室內咖啡廳，若連接到Geocell網路，穩定性更高。
-    - q: 在卡茲別吉山區想發IG限時動態，但訊號不穩，有什麼建議？
-      a: 卡茲別吉的Hotel Rooms附近訊號最佳，可先在此處上傳。若在步道途中，訊號可能中斷，建議使用eSIM的離線功能先儲存草稿，等有訊號時再發布。另外，Magti在村莊高點設有基地台，靠近教堂區域訊號較好。
-    - q: 使用eSIM玩TikTok，在喬治亞需要VPN嗎？
-      a: 喬治亞目前沒有封鎖TikTok，當地網路可直接訪問。使用eSIM時，無論是Magti或Geocell，TikTok載入速度流暢，刷影片無障礙。不過部分公眾WiFi可能限制影音流量，使用eSIM則無此問題。
-    - q: 在第比利斯使用WeChat通話，通話品質如何？
-      a: WeChat語音通話在第比利斯市區延遲約80-100毫秒，通話清晰。視訊通話在4G訊號好時也很流暢，但地鐵內或建築物深處可能斷續。建議使用WeChat時開啟高清語音設置。
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: 緊急情況
-    title: 在 喬治亞 使用 喬治亞 eSIM 進行緊急聯絡
-    questions:
-    - q: 在喬治亞緊急情況下撥打112，手機需要解鎖嗎？eSIM可以撥打嗎？
-      a: 即使手機沒有SIM卡或處於鎖定狀態，撥打112仍可接通緊急服務，因為它使用任何可用網路。eSIM同樣支援此功能。建議在你手機的緊急聯絡人中預存該號碼。
-    - q: 第比利斯有哪些醫院提供英語服務？如何用手機導航抵達？
-      a: 第比利斯有「American Hospital Tbilisi」和「New Hospitals」提供英語服務。使用eSIM可在Google地圖輸入名稱，導航準確。建議隨身攜帶護照影本，以便掛號。緊急狀況下，叫救護車也可打112。
-    - q: 如果在卡茲別吉山區發生高山症，手機訊號能求救嗎？
-      a: 卡茲別吉高海拔區域（Gergeti冰川附近）可能無訊號，因此健行前務必告知旅館路線，並下載離線地圖。在Stepantsminda村落訊號良好，可撥打112。建議下載當地緊急應用如「Emergency Georgia」以獲得GPS座標。
-    - q: 巴統海灘發生溺水事件，如何用eSIM迅速求救？
-      a: 巴統海灘設有救援站，但若你發現狀況，請立即撥打112並提供精確位置（如「Batumi Beach near Shekvetili」）。eSIM雖然數據有限，但緊急通話不受影響。建議記錄海灘附近的標註建築。
-    - q: 在第比利斯遇到警局報案，需要提供什麼資訊？可以用手機翻譯嗎？
-      a: 報案時建議提供護照、旅遊保險和事件描述。下載Google翻譯應用，並事前下載喬治亞語離線翻譯包，以方便溝通。按經驗，中央警局（Rustaveli Avenue）有英文協助員警。
-    - q: 遺失手機後，如何用eSIM定位或聯繫親友？
-      a: 若遺失手機但eSIM仍在啟用狀態，可透過「尋找我的手機」功能定位。建議事先開啟相關雲端服務（如蘋果的「尋找」）。若無法找回，盡快聯繫運營商（Magti客服：1377）停用eSIM，防止盜用。
+    - q: 一個人去喬治亞旅遊，eSIM方案要怎麼選才不會買太多或太少？
+      a: Roami 喬治亞 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。喬治亞以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去喬治亞機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到喬治亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+    - q: 買好喬治亞eSIM之後要怎麼啟用？到了當地打開就可以用了嗎？
+      a: 收到QR Code後，iOS進 設定 > 行動服務 > 加入行動方案，Android進 設定 > 網路與網際網路 > 加入eSIM，約2分鐘完成。強烈建議出發前在家用WiFi先裝好——安裝當下需要網路，到了喬治亞機場若WiFi要手機驗證才能連就麻煩了。裝好後抵達喬治亞開啟數據漫遊，約1-2分鐘自動連上MagtiCom。萬一沒訊號：先確認數據漫遊有開，再手動選MagtiCom試試。重開機通常能解決，Roami客服24小時在線可協助排除。
+    - q: 喬治亞三大電信MagtiCom、Silknet、Beeline，一般觀光客選哪家比較適合？
+      a: 喬治亞主要有MagtiCom、Silknet、Beeline。MagtiCom市區下載快、基地台密集。Silknet郊區覆蓋廣，會去郊區的話選Silknet路線較有保障。Beeline價格親民，適合預算有限的旅客。喬治亞4G為主，5G逐步建置。不過Roami會自動切換到當前訊號最強的網路。市區用MagtiCom，移動到郊區若MagtiCom訊號變弱就自動跳Silknet或Beeline，完全不用手動選。
+    - q: 有人說去喬治亞辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
+      a: 需要的。喬治亞預付卡需KYC認證，需提供護照。很多人不知道這規定，到了喬治亞機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。喬治亞4G為主，5G逐步建置。完成後到喬治亞開數據漫遊就能直接用。不支援eSIM可租WiFi機。
+    - q: 離開喬治亞市區之後，eSIM的訊號會不會變得很差？
+      a: 喬治亞的MagtiCom等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。喬治亞4G為主，5G逐步建置。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
+    - q: 出國去喬治亞用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
+      a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到喬治亞開數據漫遊就用。
 related_products:
   title: 類似 喬治亞 eSIM 的旅行方案
   items:
@@ -521,4 +420,84 @@ related_products:
     price: От 1,99 $
     is_highlight: false
     slug: philippines-esim
+
+# =============== 100% 完整復原：基於數據的比較模組 ===============
+market_analysis:
+  title: "eSIM 與實體 SIM 卡在 喬治亞 的旅行、成本與設定比較"
+  subtitle: "喬治亞當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
+  citation:
+    text: "資料來源：Prepaid Data SIM Card Wiki (Georgia) + 當地電信商官網"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Georgia"
+  table_headers:
+    - "比較矩陣"
+    - "當地預付 SIM 卡（市場數據）"
+    - "Roami eSIM 給 喬治亞"
+  table_rows:
+    - icon: "store"
+      title: "取得與啟用"
+      prepaid_title: ""
+      prepaid_desc: "購買 Cellfie eSIM 需線上提交自拍照和護照照片等待審核；MagtiCom 與 Silknet 強制門市實名，機場若排隊可能花費 30 分鐘以上才能聯網。"
+      esim_title: "即時數位配送"
+      esim_desc: "避開 MagtiCom 門市排隊與 Cellfie 的自拍審核，抵達第比利斯後一分鐘內線上啟用 eSIM。"
+    - icon: "id-card"
+      title: "KYC 與護照登記"
+      prepaid_title: ""
+      prepaid_desc: "官方門市要求出示護照進行實名登記；Cellfie 線上購買 eSIM 時，系統要求用戶拍攝自拍照並上傳護照照片進行審核。"
+      esim_title: "免護照登記"
+      esim_desc: "無需像 Cellfie 那樣上傳護照照片與自拍照，Roami eSIM 跳過繁瑣 KYC，保護隱私。"
+    - icon: "globe"
+      title: "國際漫遊"
+      prepaid_title: ""
+      prepaid_desc: "MagtiCom 提供針對特定網路的 7 天 1GB（₾9）或 30 天 10GB（₾55）的「Roamer」漫遊包；Silknet 漫遊包如 EU+土耳其 7 天 1GB 為 ₾9，且帳戶需保持至少 ₾2 餘額才能使用。"
+      esim_title: "全球漫遊無縫"
+      esim_desc: "與 MagtiCom 的指定網路漫遊包不同，Roami eSIM 自動接入當地最強訊號，無需額外購買 ₾9/1GB 的漫遊包。"
+    - icon: "calendar-xmark"
+      title: "計費週期與浪費成本"
+      prepaid_title: ""
+      prepaid_desc: "MagtiCom 最具性價比的數據包通常是 30 天週期（如 ₾32 享 30 天無限流量，或 ₾30 享 20GB）；Silknet 的「Tourist Start」15 天套餐售價 ₾15，提供 4000 MB 數據。"
+      esim_title: "彈性計費省錢"
+      esim_desc: "與 MagtiCom 的 30 天週期（₾32/無限流量）不同，Roami 提供 7 天方案，最低 1.99 美元/GB，節省 75% 的浪費。"
+    - icon: "wifi"
+      title: "熱點分享與速度政策"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。"
+      esim_title: "無限熱點分享"
+      esim_desc: "Roami eSIM 支援熱點分享，無降速限制，讓您自由連接多個裝置。"
+    - icon: "credit-card"
+      title: "儲值與付款"
+      prepaid_title: ""
+      prepaid_desc: "Silknet 官網充值強制要求使用喬治亞銀行發行的銀行卡；MagtiCom 的 App 雖支援 Apple Pay，但實測無法直接透過 Apple Pay 使用外國銀行卡支付。"
+      esim_title: "全球付款暢通"
+      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需像 Silknet 那樣面對本地卡限制。"
+    - icon: "headset"
+      title: "客戶支援"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。"
+      esim_title: "24/7 客服支援"
+      esim_desc: "Roami 提供全天候多語言客服，解決任何連線問題，無需擔心當地營運商的營業時間。"
+
+  # =============== 100% 完整復原：專家評語模組 ===============
+  expert_verdict:
+    title: "eSIM 給 喬治亞：更聰明的連線方案勝過實體卡"
+    cards:
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "告別支付障礙"
+        desc: "Silknet 官網充值<b>僅接受喬治亞本地銀行卡</b>；MagtiCom 的 Apple Pay 拒付外國卡。Roami 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal。"
+      - icon: "clock"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "秒級啟用免排隊"
+        desc: "機場購買 MagtiCom 或 Silknet 實體卡可能排隊 <b>30 分鐘</b>以上；Cellfie eSIM 審核耗時。Roami 出發前或落地後一分鐘內啟用。"
+      - icon: "tower-observation"
+        icon_bg: "bg-rose-100"
+        icon_color: "text-rose-600"
+        title: "避免漫遊縮水陷阱"
+        desc: "MagtiCom 的「Roamer」漫遊包僅限特定網路，7 天 1GB 要價 ₾9；Silknet 漫遊包自動續訂且帳戶需保留 ₾2。Roami eSIM 提供多國方案，無隱藏費用。"
+      - icon: "shield"
+        icon_bg: "bg-teal-100"
+        icon_color: "text-teal-600"
+        title: "避免自動續訂陷阱"
+        desc: "Silknet 與 Cellfie 的套餐預設自動續訂，忘記撥打解約碼（如 *120*922#）將被扣款。Roami 一次性買斷，到期自動斷網。"
 ---

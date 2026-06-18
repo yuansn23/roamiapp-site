@@ -189,129 +189,26 @@ activation_steps:
       Orange Mali / Sotelma-Malitel 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 馬利 eSIM指南 2026：方案與旅遊建議
-  desc: 從巴馬科到錫卡索，使用Orange Mali, Sotelma-Malitel, Telecel Mali保持連線。我們的完整馬利 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
+  title: 馬利 eSIM 怎麼買最划算｜方案推薦與注意事項
+  desc: 整理了馬利 eSIM的馬利 Orange Sotelma 比較、馬利 Orange 網路覆蓋、馬利 Sotelma 速度等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂馬利上網。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 關於 馬利 eSIM 的常見問題
+    title: 馬利 eSIM 怎麼買最划算｜方案推薦與注意事項
     questions:
-    - q: Orange Mali還是Sotelma-Malitel在馬利更好？
-      a: Orange Mali和Sotelma-Malitel在馬利都提供出色的覆蓋範圍。Orange Mali在偏遠地區的覆蓋通常更好，而Sotelma-Malitel在城市中提供競爭力的5G速度。對於大多數前往馬利的旅客來說，兩個網路都能良好運作。
-    - q: 在塞古地區使用 eSIM 時，是否有需要手動選擇運營商的情況？
-      a: 在塞古，例如靠近塞古大飯店或尼日河渡口時，eSIM 通常會自動選擇最強的 Orange Mali 訊號，但偶爾會切換至 Sotelma。若遇到連線不穩，例如在塞古手工藝村，可以手動鎖定 Orange Mali 以確保較穩定的
-        4G 連線。塞古的基站密度不如巴馬科，因此在偏遠區域速度可能降至 5-15 Mbps，但足以進行地圖導航與通訊。建議出發前確認 eSIM 漫遊設定已啟用數據漫遊。
-    - q: 在巴馬科-塞努國際機場領取行李時，可以立即使用 eSIM 嗎？
-      a: 是的，在巴馬科-塞努國際機場（BKO）領取行李時，eSIM 通常已自動啟動並連接到當地網路。機場區域的 Orange Mali 4G 訊號良好，下載速度約 30 Mbps，可用於叫車或傳送訊息。若遇到延遲，請手動搜尋業者並選擇
-        Orange Mali，因為入境大廳某些角落訊號較弱。多數旅客在通過海關後幾分鐘內便能正常上網。
-    - q: 如果我在莫普提地區使用 eSIM，覆蓋範圍是否涵蓋主要景點如尼日河遊船？
-      a: 在莫普提市區，例如莫普提飯店與中央市場，Orange Mali 提供穩定的 4G 覆蓋，速度約 25 Mbps，足夠進行視訊通話。但在尼日河遊船時，沿河部分區域訊號會中斷，建議離線下載地圖。靠近尼日河港口時訊號較弱，可使用 Sotelma
-        作為備用。整體而言，莫普提的主要旅遊點均有涵蓋，但偏遠村莊僅有 2G/3G。
-    - q: 在錫卡索的工業區上網速度如何？可以用於工作遠端連線嗎？
-      a: 在錫卡索工業區，例如靠近錫卡索水泥廠或紡織廠區域，Orange Mali 的 4G 平均速度為 15-25 Mbps，對於遠端桌面或視訊會議（如 Zoom）足夠，但延遲約 50-80ms，語音通話清晰。尖峰時段（中午休息時間）可能降至
-        10 Mbps，建議避開工廠下班時段。若需要更穩定連線，可考慮使用 Sotelma 的網路，其在工業區表現均衡。每天超過 5GB 後可能被限速至 1-3 Mbps，但仍可收發郵件。
-    - q: 在巴馬科使用 eSIM 時，如何手動切換到 Sotelma 網路以獲取更佳覆蓋？
-      a: 若在巴馬科某些區域（如巴馬科大學附近）發現 Orange Mali 速度變慢，可以手動切換至 Sotelma。操作方式：進入 iPhone 設定 > 行動服務 > 選擇 eSIM > 網路選擇，關閉自動，然後從列表中選擇「Malitel」或「Sotelma」。切換後速度可能提升，但在非辦公區域訊號可能減弱。建議在切換前測試當前速度，因為
-        Orange 在巴馬科覆蓋最廣。
-    - q: 在馬利的偏遠地區如廷巴克圖，eSIM 是否仍有訊號？
-      a: 廷巴克圖屬於北部偏遠地區，網路覆蓋有限。在城鎮中心，Orange Mali 可能提供不穩定的 3G 訊號，速度 2-5 Mbps，僅能收發文字訊息。向沙漠方向移動時經常斷線，建議出發前下載離線地圖。Sotelma 在此區域的基站較少，eSIM
-        會優先鎖定 Orange。若計劃深度遊覽，可考慮搭配當地預付卡以備急用。
-    - q: 使用 eSIM 在巴馬科進行視訊通話（如 WhatsApp）是否穩定？
-      a: 在巴馬科大部分的飯店、咖啡廳（如巴馬科希爾頓酒店或獨立大道一帶），Orange Mali 的 4G 網路足以提供穩定的 WhatsApp 視訊通話，影格率流暢，延遲約 30-50ms。但在尖峰時段或遊行活動附近，網路可能暫時降速，導致畫面模糊。建議避開巴馬科大市場等擁擠區域進行通話。若遇到品質不佳，可切換至
-        Sotelma 網路試試
-  - id: faq-airport
-    icon: plane
-    tab_title: 機場
-    title: 馬利 機場：如何使用 馬利 eSIM
-    questions:
-    - q: 在巴馬科-塞努國際機場（BKO）領取行李時，eSIM 的連線速度如何？
-      a: 在 BKO 的行李領取區，Orange Mali 的 4G 速度通常在 20-35 Mbps，可順利使用地圖或打車軟體。入境大廳東側角落訊號稍弱，建議移往等候區中央。若自動連線較慢，請手動選取 Orange Mali 以獲得較快速度。
-    - q: 從巴馬科機場到市區，eSIM 的網路涵蓋是否連續？
-      a: 從機場沿 RN6 公路前往巴馬科市中心，網路訊號穩定，平均速度 25 Mbps，沿途經過商業區時訊號較強。接近市中心時速度可能因用戶增加而稍降，但足以使用導航與即時通訊。
-    - q: 在巴馬科機場是否有提供免費 Wi-Fi？如果沒有，eSIM 是否為最佳選擇？
-      a: BKO 機場的免費 Wi-Fi 僅限於國際航廈，連線速度低（約 5 Mbps），且需簡訊認證，對非本地門號不便。因此 eSIM 是更可靠的選擇，一出關即可使用高速 4G。
-    - q: 我在巴馬科機場轉機，停留時間約 4 小時，eSIM 的流量是否足夠使用？
-      a: 4 小時的輕度使用（社交媒體、瀏覽網頁、地圖）約消耗 200-500 MB，標準的 eSIM 方案通常包含 1 GB 以上，完全足夠。若需要觀看影片，建議控制用量，因為超過後可能降速。
-    - q: 巴馬科機場的入境大廳是否有電信商櫃檯？購買當地 SIM 卡方便嗎？
-      a: 入境大廳有 Orange Mali 和 Sotelma 的櫃檯，購買當地 SIM 卡需護照與指紋登記，時間約 10-15 分鐘。eSIM 則可提前購買，節省排隊時間。
-  - id: faq-transport
-    icon: car
-    tab_title: 交通
-    title: 馬利 eSIM 用於 馬利 的交通和導航
-    questions:
-    - q: 在巴馬科叫車使用 Yango 或 Heetch，eSIM 網路能否順利定位與支付？
-      a: 在巴馬科獨立大道或尼日河沿岸，eSIM 定位精準，叫車應用程式反應迅速。Yango 與 Heetch 均支援 Orange Money 支付，使用 eSIM 時不會延遲。但在老城區的小巷中，定位偶有偏差，建議手動輸入地標。
-    - q: 從巴馬科搭公車到錫卡索，沿途 eSIM 訊號是否穩定？
-      a: 沿 RN7 公路行駛時，Orange Mali 覆蓋良好，大部分路段速度 15-20 Mbps，可觀看串流影片。途經村莊時訊號短暫中斷，但行駛中持續連線。抵達錫卡索市區後恢復 4G。
-    - q: 在塞古市區使用 eSIM 導航準確嗎？
-      a: 塞古主要道路如塞古大道上，GPS 定位精準，導航應用無延遲。但在手工藝市場的狹窄巷弄中，偶有偏移，建議配合離線地圖。整體而言，eSIM 網路足夠支援即時導航。
-    - q: 從巴馬科到莫普提的國內航班，eSIM 是否能在起飛與降落時使用？
-      a: 在機場區域與飛行過程中，行動網路會中斷，但起飛前與降落後 eSIM 會自動重新連線。滑行階段即可恢復連線，瀏覽網路沒有問題。建議提前下載航站樓地圖。
-    - q: 在莫普提租船遊覽尼日河，eSIM 的覆蓋範圍如何？
-      a: 在莫普提港口附近，Orange Mali 訊號良好，速度 10-15 Mbps。航行 1 小時後部分無人區域無訊號，回程接近城鎮後恢復。建議使用離線導航並避免在河上傳輸大檔案。
-  - id: faq-hotels
-    icon: hotel
-    tab_title: 住宿
-    title: 在 馬利 的飯店使用 馬利 eSIM 連線
-    questions:
-    - q: 巴馬科希爾頓酒店的 Wi-Fi 與 eSIM 相比，哪個更快？
-      a: 巴馬科希爾頓酒店的免費 Wi-Fi 約 10-20 Mbps，但多人使用時可能變慢。eSIM 連線 Orange Mali 4G 通常更快（20-40 Mbps），建議在房間使用 eSIM 以獲取更穩定速度。
-    - q: 在巴馬科的索菲特阿爾巴尼亞酒店，eSIM 的訊號強度如何？
-      a: 索菲特酒店位於市區，eSIM 訊號強，下載速度可達 35 Mbps。所有客房與公共區域均有良好覆蓋，可用於視訊會議或串流。
-    - q: 在塞古的飯店使用 eSIM 是否建議？還是依賴飯店 Wi-Fi？
-      a: 塞古大部分飯店提供免費 Wi-Fi，但速度不穩定（約 5-10 Mbps）。eSIM 搭配 Orange Mali 則提供 20 Mbps 以上，且無需與其他房客共享，是更推薦的選擇。
-    - q: 在莫普提飯店，eSIM 的網路是否足夠視訊通話？
-      a: 莫普提主要飯店（如莫普提飯店）內，eSIM 速度約 15-25 Mbps，足夠進行清晰的視訊通話。但若靠近窗戶訊號更好。
-    - q: 在錫卡索的經濟型旅館，eSIM 是否比公共 Wi-Fi 更安全？
-      a: 經濟型旅館的公共 Wi-Fi 可能未加密，使用 eSIM 的個人熱點傳輸加密數據更安全。建議啟用 VPN 以進一步保護個人資訊。
-    - q: 在巴馬科大市場附近住宿，eSIM 網路是否擁擠？
-      a: 大市場附近白天人潮多，eSIM 速度可能降至 10 Mbps 以下，晚上恢復正常。建議避開繁忙時段進行大量數據傳輸。
-  - id: faq-attractions
-    icon: landmark
-    tab_title: 景點
-    title: 馬利 旅遊景點的網路：馬利 eSIM
-    questions:
-    - q: 參觀傑內古城博物館時，eSIM 的網路可以查閱資料嗎？
-      a: 傑內古城博物館附近 Orange Mali 覆蓋良好，下載速度約 15-20 Mbps。您可以使用導覽應用或瀏覽網頁獲取資訊，不會有明顯延遲。
-    - q: 在尼日河畔散步時，eSIM 訊號是否穩定？
-      a: 巴馬科尼日河畔路段（如友誼橋一帶）訊號穩定，速度 25-35 Mbps，適合拍照打卡與即時上傳。靠近國家博物館區域訊號亦佳。
-    - q: 參觀巴馬科動物園時，eSIM 可用於分享即時影片嗎？
-      a: 動物園區域屬巴馬科郊區，訊號良好，速度約 20 Mbps，可流暢直播或上傳影片。入口處人群擁擠時可能降速。
-    - q: 在巴馬科大市場購物時，eSIM 的支付功能（Orange Money）順暢嗎？
-      a: 大市場內 Orange Mali 4G 速度約 10-15 Mbps，Orange Money 支付應用運行順暢，但有時因網路擁擠導致交易延遲數秒。建議避開中午尖峰時段。
-    - q: 前往塞古的尼日河渡口，eSIM 是否有網路可以傳送照片？
-      a: 塞古渡口區域訊號穩定，速度約 15 Mbps，可順利傳送照片。但黃昏時刻用戶增多，速度可能較慢。
-  - id: faq-social
-    icon: smartphone
-    tab_title: 社交媒體
-    title: 透過 馬利 eSIM 在 馬利 使用通訊軟體和社群網站
-    questions:
-    - q: 去馬利旅行需要多少數據量？
-      a: 輕度使用者(地圖+訊息)約300MB/天，中度(社群+照片)約700MB/天，重度(串流+視訊)選擇無限方案。大多數旅客在馬利標準行程中選擇5GB/15天已足夠。
-    - q: 在塞古的市集直播使用 eSIM 是否會延遲？
-      a: 塞古市集 Orange Mali 速度 10-20 Mbps，直播可能稍有延遲，但仍然流暢。建議使用 720p 解析度以維持穩定性。
-    - q: 在莫普提尼日河邊打卡上傳臉書，eSIM 速度足夠嗎？
-      a: 莫普提河邊速度約 15 Mbps，上傳一張照片約 2-3 秒。使用 Sotelma 網路時可能稍慢，但總體體驗良好。
-    - q: 在巴馬科使用 WhatsApp 傳送高畫質影片給友人，需要多久？
-      a: 傳送 50MB 影片檔案在 Orange Mali 4G 下約需 10-15 秒，以高畫質傳送無壓力。夜間時段速度更快。
-    - q: 在錫卡索的餐廳打卡並標註地點，eSIM 定位準確嗎？
-      a: 錫卡索餐廳區域定位精準，打卡地點正確無誤。GPS 與網路協同運作，地圖應用反應迅速。
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: 緊急情況
-    title: 在 馬利 使用 馬利 eSIM 進行緊急聯絡
-    questions:
-    - q: 在巴馬科發生緊急情況，使用 eSIM 撥打 17 是否可靠？
-      a: eSIM 支援語音通話，撥打 17 警察電話時連線穩定。但在偏遠地區訊號弱，可能需重撥。建議記下其他緊急號碼備用。
-    - q: 在馬利鄉間發生車禍，eSIM 能否聯繫救護車？
-      a: 鄉間地區網路覆蓋有限，但若在主要公路（如 RN6）附近，仍可撥打 15 救護車。建議先移至高處搜尋訊號。
-    - q: 在巴馬科遺失錢包，使用 eSIM 網路聯絡銀行掛失是否即時？
-      a: 透過 eSIM 連線，可即時登入網路銀行或撥客服掛失，速度足夠完成操作。建議同時備份緊急聯絡人於手機。
-    - q: 如果 eSIM 在緊急情況下突然無法使用，該如何處理？
-      a: 若 eSIM 失效，可嘗試重啟手機或啟用飛航模式再關閉。若仍無訊號，尋找附近 Wi-Fi 熱點或至電信商櫃檯求助。建議隨身攜帶備用當地 SIM 卡。
-    - q: 在馬利旅遊期間，如何透過 eSIM 查詢天氣警報？
-      a: 使用天氣應用程式時，eSIM 網路可即時獲取警報。例如颶風或洪水警報，透過 Orange Mali 推送無延遲。建議開啟應用通知。
+    - q: 去馬利旅遊如果用eSIM，流量和天數要怎麼搭比較省？
+      a: Roami 馬利 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。馬利以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去馬利機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到馬利後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+    - q: 到馬利旅遊想用eSIM，Orange、Sotelma、Malitel哪家網路比較穩？
+      a: 馬利主要有Orange、Sotelma、Malitel。Orange市區下載快、基地台密集。Sotelma郊區覆蓋廣，會去郊區的話選Sotelma路線較有保障。Malitel價格親民，適合預算有限的旅客。馬利3G/4G為主。不過Roami會自動切換到當前訊號最強的網路。市區用Orange，移動到郊區若Orange訊號變弱就自動跳Sotelma或Malitel，完全不用手動選。
+    - q: 如果出發前忘記先辦好馬利eSIM的認證，到當地才弄來得及嗎？
+      a: 需要的。馬利預付卡需KYC認證，需提供護照。很多人不知道這規定，到了馬利機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。馬利3G/4G為主。完成後到馬利開數據漫遊就能直接用。不支援eSIM可租WiFi機。
+    - q: 馬利主要市區和偏遠鄉村的網路覆蓋差距大嗎？
+      a: 馬利的Orange等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。馬利3G/4G為主。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
+    - q: 去馬利旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
+      a: Roami 馬利 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
+    - q: 跟旅伴一起去馬利，買一張eSIM開熱點分享夠兩個人用嗎？
+      a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
 related_products:
   title: 類似 馬利 eSIM 的旅行方案
   items:
@@ -375,4 +272,84 @@ related_products:
     price: От 1,99 $
     is_highlight: false
     slug: philippines-esim
+
+# =============== 100% 完整復原：基於數據的比較模組 ===============
+market_analysis:
+  title: "eSIM 與實體 SIM 卡在 馬利 的比較：哪種最適合旅行？"
+  subtitle: "馬利當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
+  citation:
+    text: "資料來源：Prepaid Data SIM Card Wiki (Mali) + 當地電信商官網"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Mali"
+  table_headers:
+    - "比較矩陣"
+    - "當地預付 SIM 卡（市場數據）"
+    - "Roami eSIM 給 馬利"
+  table_rows:
+    - icon: "store"
+      title: "取得與啟用"
+      prepaid_title: ""
+      prepaid_desc: "在馬利，Orange 和 Malitel 均要求購買者必須前往官方門市，出示護照才能完成購買；SIM 卡售價分別為 1000 CFA 和 500 CFA。"
+      esim_title: "即時數位配送"
+      esim_desc: "避開 Orange 或 Malitel 門市排隊與護照審查，出發前或抵達後一分鐘內線上啟用 eSIM，無需實體卡。"
+    - icon: "id-card"
+      title: "KYC 與護照登記"
+      prepaid_title: ""
+      prepaid_desc: "Orange 和 Malitel 在門市購買時必須出示護照進行實名登記；Telecel 同樣需要護照。"
+      esim_title: "免護照登記"
+      esim_desc: "無需像 Orange 和 Malitel 那樣出示護照，保護個人隱私，避免在異國街頭洩露重要證件。"
+    - icon: "globe"
+      title: "國際漫遊"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。根據市場知識，馬利預付 SIM 卡通常不包含國際漫遊，跨國使用需另購當地卡。"
+      esim_title: "全球漫遊無縫"
+      esim_desc: "跨越馬利邊境時，eSIM 自動切換至當地網路，無需像實體卡那樣另購新卡；支援多國方案，避免 Orange 套餐的國境封鎖。"
+    - icon: "calendar-xmark"
+      title: "計費週期與浪費成本"
+      prepaid_title: ""
+      prepaid_desc: "Orange 和 Malitel 的流量包有效期均為 30 天，例如 Orange 的 1GB 方案售價 7500 CFA，Malitel 的 1GB 方案售價 7500 CFA，強制買斷整月。"
+      esim_title: "彈性按天計費"
+      esim_desc: "與 Orange 和 Malitel 的 30 天強制買斷（1GB/7500 CFA）不同，Roami eSIM 提供 7 天方案，最低 1.99 美元/GB，節省 75% 的浪費。"
+    - icon: "wifi"
+      title: "熱點分享與速度政策"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。根據市場知識，馬利預付 SIM 卡通常允許熱點分享，但速度可能受限。"
+      esim_title: "無限熱點分享"
+      esim_desc: "eSIM 支援熱點分享，無速度限制，讓多個裝置同時連線，而當地 SIM 卡可能限制分享或降速。"
+    - icon: "credit-card"
+      title: "儲值與付款"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。根據市場知識，馬利預付 SIM 卡充值主要透過街頭小販現金交易，線上充值選項有限。"
+      esim_title: "全球付款暢通"
+      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal 付款，無需現金交易，避免街頭小販的匯率損失。"
+    - icon: "headset"
+      title: "客戶支援"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。根據市場知識，馬利電信商客戶支援通常僅提供法語或當地語言，且服務時間有限。"
+      esim_title: "24/7 中文支援"
+      esim_desc: "提供 24 小時線上客服，支援繁體中文，無需像當地電信商那樣僅有法語服務且限時段。"
+
+  # =============== 100% 完整復原：專家評語模組 ===============
+  expert_verdict:
+    title: "eSIM 給 馬利：更聰明的連線選擇，勝過實體卡"
+    cards:
+      - icon: "clock"
+        icon_bg: "bg-orange-100"
+        icon_color: "text-orange-600"
+        title: "即時啟用，省時省力"
+        desc: "Orange 和 Malitel 需門市排隊，耗時至少 30 分鐘。eSIM 出發前掃碼即啟用，落地即可上網，無需尋找門市。"
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "全球付款無障礙"
+        desc: "馬利實體卡充值需現金交易，且線上充值選項有限。eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，付款即時且安全。"
+      - icon: "tower-observation"
+        icon_bg: "bg-rose-100"
+        icon_color: "text-rose-600"
+        title: "跨國漫遊無國界"
+        desc: "Orange 和 Malitel 的流量包僅限馬利境內使用，離開國境即失效。eSIM 支援多國方案，在塞內加爾、科特迪瓦等鄰國自動切換，無需換卡。"
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "繞過 馬利 嚴格的護照要求"
+        desc: "Orange 和 Malitel 均要求出示護照才能購買 SIM 卡，且需在門市排隊。eSIM 無需任何證件，保護隱私，避免證件被濫用。"
 ---

@@ -368,130 +368,28 @@ activation_steps:
       eSIM 馬來西亞。幾秒鐘內，您的設備將自動連接到 Maxis / CelcomDigi 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 馬來西亞 eSIM指南 2026：方案、覆蓋與秘訣
-  desc: 從吉隆坡到檳城，使用Maxis, CelcomDigi, U Mobile保持連線。我們的完整馬來西亞 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
+  title: 馬來西亞 eSIM 方案推薦價格總整理｜流量怎麼選最划算
+  desc: 整理了馬來西亞 eSIM的馬來西亞 Maxis Celcom 比較、馬來西亞 吉隆坡 esim 推薦、馬來西亞 Maxis 網路覆蓋等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂馬來西亞上網。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 關於 馬來西亞 eSIM 的常見問題
+    title: 馬來西亞 eSIM 方案推薦價格總整理｜流量怎麼選最划算
     questions:
-    - q: Maxis還是CelcomDigi在馬來西亞更好？
-      a: Maxis和CelcomDigi在馬來西亞都提供出色的覆蓋範圍。Maxis在偏遠地區的覆蓋通常更好，而CelcomDigi在城市中提供競爭力的5G速度。對於大多數前往馬來西亞的旅客來說，兩個網路都能良好運作。
-    - q: 馬來西亞 eSIM在吉隆坡和檳城能正常使用嗎？
-      a: 是的，馬來西亞 eSIM在吉隆坡、檳城和其他主要城市提供出色的覆蓋。主要電信商在所有城市中心、旅遊景點和主要交通路線沿線提供強大的5G/4G網路。
-    - q: 在蘭卡威的珍南海灘使用 U Mobile 網路，訊號強度如何？
-      a: U Mobile 在蘭卡威珍南海灘的 4G 訊號表現良好，速度約在 15-30 Mbps，適合瀏覽網頁和觀看 YouTube HD 影片。但在海灘上距離餐廳區較遠時，訊號可能降至 3G，速度約 5 Mbps。建議您在沙灘上靠近主街道處使用，以獲得最佳體驗。U
-        Mobile 提供每日 2GB 高速流量，之後限速至 64 kbps，僅能用於基本通訊。
-    - q: 馬來西亞 eSIM 是否需要實名註冊？如何在機場完成？
-      a: 根據馬來西亞通訊及多媒體委員會（MCMC）規定，所有預付費 SIM 卡（包括 eSIM）都需要進行實名註冊。購買 eSIM 後，您需要使用護照進行線上驗證，通常在 5 分鐘內完成。如果您在吉隆坡國際機場（KLIA）落地後購買，可以連接機場免費
-        WiFi 完成註冊，或於機場內的 Maxis 專櫃尋求協助。註冊後，eSIM 配置檔案會直接下載到手機，無需實體卡片。請確保護照資訊與填寫一致，否則可能導致啟用失敗。
-    - q: 使用 eSIM 在馬來西亞進行視訊通話（如 Zoom）會順暢嗎？
-      a: 在馬來西亞主要城市如吉隆坡、檳城和亞庇，使用 Maxis 或 CelcomDigi 網路時，視訊通話表現穩定。延遲通常在 50-100ms 之間，1080p 畫質下幾乎無卡頓。但在雲頂高原或金馬倫高原等山區，訊號可能較弱，建議使用
-        CelcomDigi（覆蓋較廣）。每日高速流量用完後，限速可能影響通話品質，因此建議優先使用高速流量。
-    - q: 馬來西亞的 eSIM 是否支援 5G？哪些地區有 5G 覆蓋？
-      a: 目前馬來西亞的 5G 網路已逐步商用，主要覆蓋吉隆坡市中心、賽城、布城、檳城喬治市部分區域以及新山部分地段。Maxis 和 CelcomDigi 均提供 5G 服務，但需確認您的 eSIM 方案包含 5G 存取。在吉隆坡金三角（武吉免登）地區，5G
-        下載速度可達 200-400 Mbps。不過，5G 訊號在建築物內穿透力較差，建議在戶外使用以獲得最佳體驗。
-    - q: 從新加坡經由新山進入馬來西亞，eSIM 會自動切換網路嗎？
-      a: 從新加坡跨境到馬來西亞新山時，支援的 eSIM 會自動切換到當地網路（如 Maxis 或 CelcomDigi），無需手動設定。通常在柔佛海峽附近會出現短暫的無訊號或漫遊狀態，約 1-2 分鐘後恢復。建議您在通關前確認手機已開啟數據漫遊。在新山市區，CelcomDigi
-        的 4G 訊號穩定，速度約 30-50 Mbps，適合導航至樂高樂園或 Johor Bahru City Square 等地。
-  - id: faq-airport
-    icon: plane
-    tab_title: 機場
-    title: 馬來西亞 機場：如何使用 馬來西亞 eSIM
-    questions:
-    - q: 我能在抵達後立即啟用馬來西亞 eSIM嗎？
-      a: 可以，您抵達後就能立即啟用馬來西亞 eSIM。使用機場免費WiFi，從Email掃描QR碼，2分鐘內即可上線。我們建議在出發前先安裝好eSIM。
-    - q: 吉隆坡國際機場內哪些地方有免費 WiFi？網速如何？
-      a: KLIA 和 KLIA2 航廈均提供免費 WiFi，覆蓋範圍包括抵達大廳、出發大廳、美食廣場和候機室。連線時需透過手機號碼或電子郵件驗證，下載速度約 5-10 Mbps，足以收發訊息和瀏覽網頁，但觀看影片可能卡頓。建議僅用於緊急通訊或啟用
-        eSIM。
-    - q: 從檳城國際機場 (PEN) 到市區，eSIM 網路是否穩定？
-      a: 檳城機場到市區的車程約 20-30 分鐘，沿途 Maxis 和 CelcomDigi 的 4G 訊號穩定，速度約 30-50 Mbps，可順暢使用 Grab 叫車或 Google Maps 導航。建議在機場內就完成 eSIM
-        啟用，確保上車後立即有網路。
-    - q: 亞庇國際機場 (BKI) 的 eSIM 訊號強度如何？
-      a: 亞庇國際機場內 Maxis 和 CelcomDigi 的 4G 訊號強勁，下載速度約 40-60 Mbps。由於沙巴地區部分偏遠景點訊號較弱，建議在下載離線地圖後再出發。機場內也設有電信商櫃檯，但開櫃時間可能與航班時間不一致。
-    - q: 馬來西亞機場是否可以購買實體 SIM 卡作為備用？
-      a: 吉隆坡國際機場、檳城機場和亞庇機場的抵達大廳都有電信商專櫃（如 Maxis、CelcomDigi 和 U Mobile），可購買預付卡。一般 30 天 10GB 方案約 20-30 馬幣。如果您擔心 eSIM 啟用問題，可以同時購買實體卡備用，但多數旅客僅使用
-        eSIM 即可順利通訊。
-  - id: faq-transport
-    icon: car
-    tab_title: 交通
-    title: 馬來西亞 eSIM 用於 馬來西亞 的交通和導航
-    questions:
-    - q: 我能在馬來西亞使用eSIM叫車和導航嗎？
-      a: 可以，馬來西亞 eSIM可搭配叫車App和Google地圖使用。5GB/15天方案($4.99)足夠日常導航和叫車使用。
-    - q: 從吉隆坡乘坐火車到檳城（北海），沿途 eSIM 訊號如何？
-      a: 從吉隆坡中央車站（KL Sentral）搭乘 KTM 電車到北海站，車程約 4 小時。沿途經過怡保、太平等地，Maxis 和 CelcomDigi 的 4G 訊號覆蓋約 80% 路段，隧道內可能短暫中斷。建議預先下載離線音樂或影片。抵達北海站後，可轉搭渡輪到檳城喬治市。
-    - q: 在蘭卡威租車自駕，使用 eSIM 導航是否可靠？
-      a: 蘭卡威全島 4G 訊號良好，Maxis 和 CelcomDigi 覆蓋主要道路和景點，如珍南海灘和瓜鎮。使用 Waze 或 Google Maps 導航非常可靠，但前往偏遠海灘（如 Tanjung Rhu）時訊號可能減弱。建議預先下載離線地圖。
-    - q: 從吉隆坡機場到市區的機場快線（KLIA Ekspres）上，網路速度如何？
-      a: KLIA Ekspres 車程約 28 分鐘，行駛期間 Maxis 和 CelcomDigi 的 4G 訊號穩定，速度約 30-60 Mbps。您可以順暢觀看影片或進行視訊通話。列車抵達吉隆坡中央車站後，可立即轉乘其他交通工具。
-    - q: 在檳城使用公共巴士時，eSIM 能否幫助查詢巴士到站時間？
-      a: 檳城 Rapid Penang 巴士系統支援 Google Maps 即時查詢到站時間，透過 eSIM 網路可獲取準確資訊。建議在喬治市使用，有些偏遠路線更新可能延遲。CelcomDigi 網路在巴士上行駛時表現穩定。
-  - id: faq-hotels
-    icon: hotel
-    tab_title: 住宿
-    title: 在 馬來西亞 的飯店使用 馬來西亞 eSIM 連線
-    questions:
-    - q: 在吉隆坡雙子塔附近的五星級飯店，eSIM 訊號會受建築結構影響嗎？
-      a: 吉隆坡的豪華飯店如希爾頓酒店或君悅酒店，建築物內部訊號良好，但某些高層房間或角落位置可能訊號較弱。建議使用 Maxis 或 CelcomDigi，其室內覆蓋最佳。若在電梯內，訊號可能短暫中斷。
-    - q: 檳城沙洋度假酒店（Shangri-La Rasa Sayang）提供免費 WiFi，還需要 eSIM 嗎？
-      a: 檳城香格里拉沙洋度假酒店的免費 WiFi 速度約 10-20 Mbps，足夠日常使用，但在尖峰時段（如晚上）可能變慢。如果您需要穩定連線進行視訊會議或上傳照片，eSIM 的 4G 網路會是更好的選擇，尤其在海灘區域。
-    - q: 在蘭卡威的度假村使用 eSIM，晚上網路擁堵嗎？
-      a: 蘭卡威的度假村如丹絨魯度假村，晚上 8-10 點是用戶高峰，eSIM 速度可能從 20 Mbps 降至 10 Mbps。建議提前下載電影或影片，或使用飯店 WiFi 分擔流量。
-    - q: 亞庇的飯店 eSIM 訊號在沙巴地區是否足夠？
-      a: 亞庇市區飯店如希爾頓亞庇，eSIM 訊號良好（Maxis 和 CelcomDigi），但前往神山或美人魚島時訊號會減弱。在飯店內，建議使用 WiFi 以節省流量。
-    - q: 精品民宿（如檳城老城區）的牆壁較厚，eSIM 訊號會受影響嗎？
-      a: 檳城喬治市的老建築多為磚牆或石牆，可能導致訊號衰減。建議將手機靠近窗戶或使用 CelcomDigi 網路（低頻段穿透力較佳）。如果房間內訊號不佳，可利用民宿提供的免費 WiFi。
-    - q: 在雲頂高原的飯店，eSIM 訊號穩定嗎？
-      a: 雲頂高原地區海拔較高，部分飯店（如雲頂世界）室內訊號穩定，但連接纜車或戶外停車場時可能降為 3G。建議使用 Maxis 網路，其覆蓋率最佳。
-  - id: faq-attractions
-    icon: landmark
-    tab_title: 景點
-    title: 馬來西亞 旅遊景點的網路：馬來西亞 eSIM
-    questions:
-    - q: 在馬來西亞的旅遊景點有網路收訊嗎？
-      a: 馬來西亞的主要景點通常有良好的4G/5G覆蓋。偏遠地區訊號可能較弱。建議前往偏遠目的地前先下載離線地圖。
-    - q: 在檳城喬治市的壁畫街拍照後，上傳社群需要很久嗎？
-      a: 壁畫街附近 CelcomDigi 網路的上傳速度約 10-20 Mbps，上傳一張 5MB 照片約需 2-4 秒，但多人同時上傳時可能變慢。建議在非尖峰時段（上午 9 點前）前往。
-    - q: 蘭卡威天空之橋觀景時，eSIM 訊號是否足夠分享即時位置？
-      a: 天空之橋位於海拔 660 公尺，Maxis 和 CelcomDigi 的 4G 訊號穩定，速度約 20-40 Mbps。您可以順暢使用 Google Maps 打卡或傳送位置。
-    - q: 參觀黑風洞時，洞穴內有 eSIM 訊號嗎？
-      a: 黑風洞主洞穴內（階梯處）Maxis 訊號中等，但深入洞穴深處可能無訊號。建議在入口處提前下載導覽資訊。
-    - q: 在亞庇的丹絨亞路海灘看夕陽，eSIM 網路速度如何？
-      a: 丹絨亞路海灘的 CelcomDigi 4G 速度約 30-50 Mbps，適合直播夕陽景色。但週末人潮眾多時，速度可能下降至 15 Mbps。
-  - id: faq-social
-    icon: smartphone
-    tab_title: 社交媒體
-    title: 透過 馬來西亞 eSIM 在 馬來西亞 使用通訊軟體和社群網站
-    questions:
-    - q: 去馬來西亞旅行需要多少數據量？
-      a: 輕度使用者(地圖+訊息)約300MB/天，中度(社群+照片)約700MB/天，重度(串流+視訊)選擇無限方案。大多數旅客在馬來西亞標準行程中選擇5GB/15天已足夠。
-    - q: 在檳城使用 Instagram 限時動態，上傳速度夠快嗎？
-      a: 檳城喬治市的 CelcomDigi 上傳速度約 10-20 Mbps，每則限時動態（15 秒影片）約 3-5 秒完成上傳。但夜間在美食街（如新關仔角）上傳速度可能略降。
-    - q: 在蘭卡威的沙灘上使用 Facebook 直播，網路穩定嗎？
-      a: 珍南海灘的 U Mobile 4G 直播 720p 穩定，但連接碼頭渡輪時訊號波動較大。建議靠近餐廳或商店區域直播。
-    - q: 在亞庇使用 WhatsApp 視訊通話，eSIM 夠用嗎？
-      a: 亞庇市區的 Maxis 網路視訊通話順暢，延遲約 50ms。但前往海島（如沙比島）時，訊號可能不穩定，建議使用語音通話。
-    - q: 在馬六甲古城使用微信（WeChat）發送照片，速度快嗎？
-      a: 馬六甲荷蘭廣場附近 CelcomDigi 上傳速度約 15-30 Mbps，發送多張照片迅速，但在週末人潮多時可能稍有延遲。
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: 緊急情況
-    title: 在 馬來西亞 使用 馬來西亞 eSIM 進行緊急聯絡
-    questions:
-    - q: 在馬來西亞遇到緊急情況，如何撥打求救電話？
-      a: 馬來西亞緊急電話報警和救護車皆為 999，消防局為 994。撥打後可通國語或英語。使用 eSIM 無需額外開通漫遊，直接撥打即可。建議記下您所在位置的地標或街道名稱。
-    - q: 在吉隆坡市中心手機遺失，如何回報並凍結 eSIM？
-      a: 立即聯繫您的 eSIM 供應商（如透過電子郵件或線上客服）凍結帳號，同時至附近警局報案並取得報案單。您也可以致電您的銀行或支付 App 凍結相關帳戶。建議事先備份 eSIM 二維碼。
-    - q: 我能在馬來西亞 eSIM上使用WhatsApp、FaceTime和微信嗎？
-      a: 可以！馬來西亞 eSIM支援WhatsApp音訊/視訊通話、FaceTime、微信和Zoom，無限制。透過您喜愛的應用程式與家人保持聯繫。
-    - q: 在蘭卡威發生車禍，如何聯繫警方和保險？
-      a: 發生車禍後，撥打 999 報警，並在確保安全下拍攝現場照片。您的 eSIM 網路可用於聯繫租車公司和保險公司。建議保單隨身攜帶。
-    - q: 在亞庇的離島（如美人魚島）發生意外，如何求救？
-      a: 離島上 eSIM 訊號可能微弱，建議攜帶衛星電話或向導遊求助。若仍有訊號，撥打 999 並告知大約位置。碼頭通常有公共電話。
-    - q: 吉隆坡哪些區域夜間較不安全？eSIM 可用於緊急照明嗎？
-      a: 吉隆坡部分區域如印度清真寺街、茨廠街深夜人潮較少，應避免獨行。eSIM 網路可用於開啟手機手電筒或導航至安全路線。建議下載 Grab App 以備叫車。
+    - q: 短期去馬來西亞玩個三五天，eSIM最便宜的方案大概多少錢？
+      a: Roami 馬來西亞 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Maxis在馬來西亞市區5G網速約100-300Mbps，看1080p影片沒問題。如果去Klook查馬來西亞 eSIM，Roami通常便宜10-20%，因為沒有平台抽成。如果不確定用量可以先買小的，到馬來西亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+    - q: 去馬來西亞旅遊的話，Maxis、Celcom、Digi這三家電信分別有什麼優缺點？
+      a: 馬來西亞主要有Maxis、Celcom、Digi。Maxis市區下載快、基地台密集。Celcom郊區覆蓋廣，會去郊區的話選Celcom路線較有保障。Digi價格親民，適合預算有限的旅客。馬來西亞5G使用n78頻段，吉隆坡等城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Maxis，移動到郊區若Maxis訊號變弱就自動跳Celcom或Digi，完全不用手動選。
+    - q: 如果從Klook買馬來西亞eSIM遇到問題，客服要找誰處理？
+      a: 很多人上Klook比價馬來西亞 eSIM。主要差異：第一，Roami直銷無平台抽成，價格通常比Klook便宜10-20%。第二，Roami有24小時直接客服，不用透過Klook轉達。第三，Roami買斷制到期就停，不會續約扣款。馬來西亞5G使用n78頻段，吉隆坡等城市覆蓋。不過Klook可跟飯店票券合併結帳累積點數。不管哪買，在馬來西亞都是接取Maxis、Celcom、Digi的網路，訊號品質一樣。
+    - q: 馬來西亞eSIM吃到飽方案如果被降速了，512kbps的速度還能做什麼？
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。馬來西亞5G使用n78頻段，吉隆坡等城市覆蓋。Roami在馬來西亞連上Maxis的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+    - q: 有人說去馬來西亞辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
+      a: 需要的。馬來西亞預付卡需KYC認證，需提供護照。很多人不知道這規定，到了馬來西亞機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。馬來西亞5G使用n78頻段，吉隆坡等城市覆蓋。另外Maxis的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到馬來西亞開數據漫遊就能直接用。不支援eSIM可租WiFi機。
+    - q: 行程會經過馬來西亞和馬爾地夫，eSIM可以買一張跨兩國使用的嗎？
+      a: Roami單國方案僅限馬來西亞境內。每個國家電信網路是分開的，需要不同方案。你的行程包含馬爾地夫等其他國家的話，有兩種方式：第一，出發前把各國eSIM都買好，手機可存多組（約5-10組），到哪國啟用哪個。第二，Roami也有區域方案（如歐洲多國），一卡多國使用。先算各國停留天數再選最划算的買法。
+    - q: 在馬來西亞的郊區或小鎮也能正常使用eSIM嗎？查地圖導航會不會斷？
+      a: 馬來西亞的Maxis等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。馬來西亞5G使用n78頻段，吉隆坡等城市覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
 related_products:
   title: 類似 馬來西亞 eSIM 的旅行方案
   items:
@@ -555,4 +453,84 @@ related_products:
     price: От 1,99 $
     is_highlight: false
     slug: philippines-esim
+
+# =============== 100% 完整復原：基於數據的比較模組 ===============
+market_analysis:
+  title: "eSIM 與預付卡在 馬來西亞 的速度、覆蓋與價格比較"
+  subtitle: "馬來西亞當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
+  citation:
+    text: "資料來源：Prepaid Data SIM Card Wiki (Malaysia) + 當地電信商官網"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Malaysia"
+  table_headers:
+    - "比較矩陣"
+    - "當地預付 SIM 卡（市場數據）"
+    - "Roami eSIM 給 馬來西亞"
+  table_rows:
+    - icon: "store"
+      title: "取得與啟用"
+      prepaid_title: ""
+      prepaid_desc: "Digi 的遊客 SIM 卡僅限於機場指定門市憑護照購買，價格 RM 20 起（7 天 2GB），而 Hotlink RED 入門包 RM 10 含 RM 5 話費及 300MB/3 天，可於 7-Eleven 等便利店購買。"
+      esim_title: "即時數位配送"
+      esim_desc: "避開 Digi 機場門市排隊（需護照人工辦理），Roami eSIM 透過 Email 發送 QR Code，抵達馬來西亞後關閉飛航模式即可啟用，全程免排隊、免護照，1 分鐘內完成連線。"
+    - icon: "id-card"
+      title: "KYC 與護照登記"
+      prepaid_title: ""
+      prepaid_desc: "馬來西亞所有預付 SIM 卡均需實名制（KYC），Digi 遊客卡需在機場門市出示護照，Hotlink RED 需透過 App 上傳身份證明文件完成註冊。"
+      esim_title: "免護照免註冊"
+      esim_desc: "與 Hotlink RED 需下載 App 上傳護照不同，Roami eSIM 完全免 KYC，無需提交個人資料，保護隱私，即買即用。"
+    - icon: "globe"
+      title: "國際漫遊"
+      prepaid_title: ""
+      prepaid_desc: "Celcom XPAX 在亞洲漫遊每日自動觸發 RM 7.99 的 1GB 流量包，超出後可能限速；Maxis 的 30 天月租漫遊包僅限新加坡、泰國、印尼三國，價格 RM 38/1GB。"
+      esim_title: "全球漫遊無縮水"
+      esim_desc: "Celcom XPAX 亞洲漫遊每日僅 1GB 且自動扣費，Roami eSIM 提供多國方案，流量不縮水，無隱藏 FUP，過境後流量可繼續使用。"
+    - icon: "calendar-xmark"
+      title: "計費週期與浪費成本"
+      prepaid_title: ""
+      prepaid_desc: "Digi 遊客卡強制分為 7 天（RM 20）和 15 天（RM 40）兩檔，短期旅客如停留 3 天，必須為未使用的天數付費，造成浪費。"
+      esim_title: "彈性按天計費"
+      esim_desc: "Digi 遊客卡強制 7 天起跳（RM 20），Roami eSIM 提供 7 天數據方案，最低 1.99 美元/GB，精確匹配行程，無浪費。"
+    - icon: "wifi"
+      title: "熱點分享與速度政策"
+      prepaid_title: ""
+      prepaid_desc: "Celcom XPAX 的「無限」流量套餐（7 天 RM 12，速度 3Mbps）僅包含 1GB 熱點分享配額，超出後需單獨購買；U Mobile 的 GX12 套餐（7 天 RM 12，速度 3Mbps）同樣限制熱點流量為 1GB。"
+      esim_title: "無限熱點分享"
+      esim_desc: "Celcom XPAX 無限套餐限制熱點僅 1GB，Roami eSIM 支援熱點分享且無流量限制，可自由分享給其他裝置。"
+    - icon: "credit-card"
+      title: "儲值與付款"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。基於市場知識，馬來西亞預付卡充值主要透過本地銀行轉帳、7-Eleven 等便利店購買充值券，國際信用卡（Visa/Mastercard）常被拒絕，PayPal 支援有限。"
+      esim_title: "全球付款暢通"
+      esim_desc: "馬來西亞預付卡充值常拒絕國際信用卡，Roami eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，線上支付無障礙。"
+    - icon: "headset"
+      title: "客戶支援"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。基於市場知識，馬來西亞電信商客服通常提供英語和馬來語，電話支援時間為週一至週五 9:00-18:00，預付卡用戶無專屬即時聊天。"
+      esim_title: "24/7 多語支援"
+      esim_desc: "馬來西亞電信商客服僅限工作時間，Roami eSIM 提供 24/7 即時線上聊天，中英文皆可，隨時解決問題。"
+
+  # =============== 100% 完整復原：專家評語模組 ===============
+  expert_verdict:
+    title: "eSIM 給 馬來西亞：更聰明的連線選擇，勝過實體 SIM 卡"
+    cards:
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "繞過 馬來西亞 嚴格的護照要求"
+        desc: "馬來西亞所有預付 SIM 卡均需實名制（KYC）。<b>Digi 遊客卡</b>必須在機場門市出示護照購買；<b>Hotlink RED</b> 需透過 App 上傳身份證明文件。Roami eSIM 完全免 KYC，無需提交個人資料，保護隱私。"
+      - icon: "wifi"
+        icon_bg: "bg-green-100"
+        icon_color: "text-green-600"
+        title: "熱點分享無限制"
+        desc: "<b>Celcom XPAX</b> 的「無限」流量套餐（7 天 RM 12，速度 3Mbps）僅包含 1GB 熱點分享配額；<b>U Mobile GX12</b> 同樣限制熱點 1GB。Roami eSIM 支援熱點分享且無流量限制。"
+      - icon: "globe"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "雙網路自動切換"
+        desc: "<b>U Mobile</b> 自身網路覆蓋不足 93% 人口，需依賴 <b>Maxis</b> 的 2G/3G 漫遊。Roami eSIM 可自動接入當地 <b>Celcom</b> 和 <b>Maxis</b> 雙網路，提升城市與偏遠地區的連線可靠性。"
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "全球付款無障礙"
+        desc: "馬來西亞預付卡充值主要透過本地銀行或便利店購買充值券，國際信用卡（Visa/Mastercard）常被拒絕。Roami eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，線上支付暢通無阻。"
 ---

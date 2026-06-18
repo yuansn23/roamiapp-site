@@ -375,134 +375,31 @@ activation_steps:
     desc: 當您降落在 澳洲（例如 雪梨金斯福德·史密斯機場, 墨爾本機場, 布里斯本機場）時，關閉飛航模式（或保持在飛航模式僅啟用 eSIM）。前往 **設定 → 行動服務** 並開啟您的 Roami eSIM 澳洲。幾秒鐘內，您的設備將自動連接到
       Telstra / Optus 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
+
+
+
+
 faq_section:
-  title: 澳洲 eSIM指南 2026：網路與旅遊指南
-  desc: 從雪梨到墨爾本，使用Telstra, Optus, Vodafone保持連線。我們的完整澳洲 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
+  title: 澳洲 eSIM 各方案比較｜天數流量價格一次看懂
+  desc: 整理了澳洲 eSIM的澳洲 Telstra Optus 比較、澳洲 Telstra 網路覆蓋、澳洲 esim telstra等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂澳洲上網。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 關於 澳洲 eSIM 的常見問題
+    title: 澳洲 eSIM 各方案比較｜天數流量價格一次看懂
     questions:
-    - q: Telstra還是Optus在澳洲更好？
-      a: Telstra和Optus在澳洲都提供出色的覆蓋範圍。Telstra在偏遠地區的覆蓋通常更好，而Optus在城市中提供競爭力的5G速度。對於大多數前往澳洲的旅客來說，兩個網路都能良好運作。
-    - q: 澳洲 eSIM在雪梨和墨爾本能正常使用嗎？
-      a: 是的，澳洲 eSIM在雪梨、墨爾本和其他主要城市提供出色的覆蓋。主要電信商在所有城市中心、旅遊景點和主要交通路線沿線提供強大的5G/4G網路。
-    - q: 在黃金海岸衝浪者天堂海灘附近，Vodafone 網路訊號強嗎？
-      a: 衝浪者天堂海灘區域 Vodafone 訊號覆蓋良好，沙灘上通常可達 4G+ 訊號，下載速度約 20-40 Mbps，足以串流音樂或使用導航。但進入海灘北端或靠近腹地時，訊號可能減弱至 3G，速度降至 5-10 Mbps。建議在室內咖啡館（如
-        Surfers Paradise 步行街）使用，以獲得更穩定的連線。
-    - q: 在布里斯本南岸公園用手機進行視訊通話，哪家運營商最穩定？
-      a: 布里斯本南岸公園內 Telstra 網路提供最低延遲（約 20-30ms），視訊通話如 Zoom 或 Skype 非常清晰。Optus 在該區域表現也不錯，但偶爾在文化中心建築物內會出現短暫斷線。Vodafone 在南岸附近速度較慢，約
-        15-25 Mbps，可能影響高清視訊。建議使用 Telstra eSIM 以獲得最佳體驗。
-    - q: 從雪梨機場搭乘火車到市中心時，eSIM 的網路訊號會中斷嗎？
-      a: 在雪梨機場線 (T8) 行駛過程中，Telstra 和 Optus 在大部分隧道內都有覆蓋，僅在少數深層區段（如靠近 Wolli Creek 站）可能失去訊號約 10-15 秒。整體而言，觀看預先緩衝的影片或使用離線地圖是較安心的選擇。抵達中央車站後訊號立即恢復，速度可達
-        40-60 Mbps。
-    - q: 在澳洲使用 eSIM 時，每日流量超過 5 GB 會發生什麼？
-      a: 我們的 eSIM 套餐通常包含每日 5 GB 高速流量，超過後速度會降至約 2 Mbps，但仍可瀏覽網頁和收發訊息。降速後觀看 YouTube 標清或使用 LINE 通話仍可正常運作，但上傳照片會明顯變慢。若需持續高速，建議購買
-        10 GB 以上套餐，或利用午夜後的時段進行大量下載（部分套餐不計量）。
-    - q: 在伯斯國王公園內導航 App (如 Google Maps) 的反應速度如何？
-      a: 伯斯國王公園覆蓋 Optus 和 Telstra 訊號，導航載入通常需要 3-5 秒，步行路線定位精準。但在公園深處（如 DNA Tower 附近）樹木密集處，GPS 可能稍微延遲，但仍可提供方向。建議提前下載離線地圖以防萬一。公園內大部分區域速度在
-        20-40 Mbps，足以即時更新路況。
-    - q: 在坎培拉澳洲國立大學校園內，哪家運營商的室內覆蓋最好？
-      a: 澳洲國立大學位於坎培拉市中心，Telstra 在校園建築內提供最佳覆蓋，圖書館和教室內平均速度 30-50 Mbps。Optus 在部分老舊建築（如藝術學院）訊號較弱，可能跌至 10 Mbps 以下。Vodafone 在校園周邊覆蓋一般，建議在室內優先使用
-        Telstra 以確保穩定性。
-  - id: faq-airport
-    icon: plane
-    tab_title: 機場
-    title: 澳洲 機場：如何使用 澳洲 eSIM
-    questions:
-    - q: 我能在抵達後立即啟用澳洲 eSIM嗎？
-      a: 可以，您抵達後就能立即啟用澳洲 eSIM。使用機場免費WiFi，從Email掃描QR碼，2分鐘內即可上線。我們建議在出發前先安裝好eSIM。
-    - q: 墨爾本機場 (Tullamarine) 的 Wi-Fi 穩定嗎？購買 eSIM 前是否需要用？
-      a: 墨爾本機場提供免費 Wi-Fi，速度約 10-20 Mbps，但連線可能不穩定，尤其在入境大廳擁擠時。建議在下機後立即啟用 eSIM，以便使用個人網路進行導航或聯繫接機。若需傳送重要訊息，機場 Wi-Fi 足夠，但影片串流可能會延遲。
-    - q: 在布里斯本機場，eSIM 會自動連接到最快的網路嗎？
-      a: 布里斯本機場的 eSIM 通常會自動選擇訊號最強的可用網路，多為 Telstra 或 Optus。但偶爾會鎖定在較弱的基地台，導致速度僅 5-10 Mbps。若感到速度慢，可手動切換至 Telstra 5G（如果手機支援）。通常出發大廳訊號最佳，可達
-        50-80 Mbps。
-    - q: 從澳洲鄉村小鎮返回雪梨機場時，eSIM 網路過渡流暢嗎？
-      a: 從鄉村地區返回雪梨機場途中，網路會逐漸從 3G 切換至 4G/5G，過程少有中斷。但在獵人谷或藍山等偏遠路段，可能暫時無訊號（約 5-10 分鐘）。接近雪梨郊區時（如 Liverpool），訊號恢復穩定，抵達機場後可達全速。建議在偏遠路段提前下載必要地圖。
-    - q: 黃金海岸機場有支援 eSIM 快速註冊的電信商嗎？
-      a: 黃金海岸機場內 Telstra 和 Optus 訊號覆蓋良好，eSIM 通常在抵達後 2-3 分鐘內自動啟用。若無反應，請重啟手機或手動搜尋網路。機場內有自助 kiosk 提供 Wi-Fi，但建議使用個人網路以避免排隊。
-  - id: faq-transport
-    icon: car
-    tab_title: 交通
-    title: 澳洲 eSIM 用於 澳洲 的交通和導航
-    questions:
-    - q: 我能在澳洲使用eSIM叫車和導航嗎？
-      a: 可以，澳洲 eSIM可搭配叫車App和Google地圖使用。5GB/15天方案($4.99)足夠日常導航和叫車使用。
-    - q: 在墨爾本搭乘 Tram 時，使用 eSIM 打網路電話會斷線嗎？
-      a: 墨爾本 Tram 路線經過市中心時，Optus 網路提供穩定連線，網路電話（如 WhatsApp）通話清晰。但當电车行駛至 St Kilda 或 Brunswick 郊區時，可能因建築物阻擋導致短暫斷音。建議在 Free Tram
-        Zone 內使用，訊號最佳。
-    - q: 在布里斯本搭乘 CityCat 渡輪時，社交媒體上傳速度如何？
-      a: 布里斯本 CityCat 渡輪沿布里斯本河行駛，大部分河段 Telstra 和 Optus 覆蓋良好，上傳照片至 Instagram 約需 5-10 秒。但在靠近城市植物園或袋鼠角時，訊號可能稍弱，上傳時間延長至 15-20
-        秒。建議在出發前先更新動態。
-    - q: 從雪梨自駕到藍山，eSIM 網路是否全程可用？
-      a: 從雪梨到藍山的 M4 高速公路大部分區域有 4G 覆蓋，Telstra 訊號最穩定。但進入藍山國家公園後（如三姐妹峰附近），部分深谷無訊號，導航應提前下載離線地圖。建議使用 Telstra 以獲得最大覆蓋，Optus 在 Glenbrook
-        之後訊號較弱。
-    - q: 在澳洲使用 Uber 時，eSIM 能否確保準確定位與接單？
-      a: 在雪梨 CBD 或墨爾本市區，Telstra 網路定位精準，Uber 叫車只需 3-5 秒。但在高樓密集區（如雪梨馬丁廣場），GPS 可能偏移，建議站在開闊處確保司機找到您。偏遠地區可能需稍等定位更新，但整體使用流暢。
-  - id: faq-hotels
-    icon: hotel
-    tab_title: 住宿
-    title: 在 澳洲 的飯店使用 澳洲 eSIM 連線
-    questions:
-    - q: 雪梨朗廷酒店的免費 Wi-Fi 速度如何？與 eSIM 相比哪個好？
-      a: 雪梨朗廷酒店提供免費 Wi-Fi，但速度約 10-20 Mbps，僅適合瀏覽網頁和收發郵件。相比之下，eSIM 的 5G 網路（如 Telstra）在房間內可達 60-80 Mbps，適合串流 4K 影片或視訊會議。建議在酒店內主要使用
-        eSIM，但可切換至 Wi-Fi 以節省流量。
-    - q: 墨爾本皇冠大都會飯店地下停車場的 eSIM 訊號如何？
-      a: 墨爾本皇冠大都會飯店地下停車場（B1-B3）Telstra 訊號微弱，僅靠入口處有 1-2 格 4G，無法正常使用。但乘坐電梯至大堂後訊號恢復正常（30-50 Mbps）。建議在地下層使用離線導航，或連接飯店提供的免費停車場
-        Wi-Fi。
-    - q: 黃金海岸喜來登度假飯店的沙灘區域，eSIM 連線穩定嗎？
-      a: 喜來登飯店前的沙灘區域 Optus 網路訊號良好，下載速度約 20-30 Mbps，足以播放音樂或使用社群媒體。但靠近海邊時風浪可能影響手機天線，速度略降。建議在沙灘躺椅上使用，避免直接暴露在強風中。
-    - q: 在澳洲偏遠地區（如大堡礁附近）的度假村，eSIM 是否可用？
-      a: 大堡礁區域的度假村（如翡翠島或哈密頓島）通常有微弱的 4G 訊號，Telstra 覆蓋最佳，速度約 5-15 Mbps，足以發送照片和文字訊息。但深海活動時無訊號。建議使用衛星電話或提前下載娛樂內容。
-    - q: 入住雪梨青年旅館時，多人共用網路哪個方案最佳？
-      a: 雪梨青年旅館（如 The Rocks 的 YHA）的免費 Wi-Fi 通常速度較慢（5-10 Mbps），且多人使用時可能卡頓。eSIM 搭配熱點分享功能可提供更穩定的個人熱點，建議使用 Telstra 網路，速度可達 40
-        Mbps，足夠支援 3-4 台設備輕度使用。
-  - id: faq-attractions
-    icon: landmark
-    tab_title: 景點
-    title: 澳洲 旅遊景點的網路：澳洲 eSIM
-    questions:
-    - q: 在澳洲的旅遊景點有網路收訊嗎？
-      a: 澳洲的主要景點通常有良好的4G/5G覆蓋。偏遠地區訊號可能較弱。建議前往偏遠目的地前先下載離線地圖。
-    - q: 在大堡礁浮潛時，可以帶著手機使用 eSIM 嗎？
-      a: 大堡礁的遊船上通常有 4G 訊號（Telstra 覆蓋），但下船浮潛時手機需放入防水袋，且水下無訊號。您可以在船艙內使用社交媒體或上傳照片，速度約 10-20 Mbps。建議使用防水手機殼並避免長時間浸水。
-    - q: 在烏魯魯-卡塔丘塔國家公園內，eSIM 導航是否足夠？
-      a: 烏魯魯國家公園內 Telstra 提供 3G/4G 訊號，下載速度約 5-15 Mbps，足以載入地圖和景點資訊。但部分步道（如風之谷）深處無訊號，建議提前從遊客中心下載離線地圖。日出日落時段訊號較佳，因為使用人數較少。
-    - q: 在雪梨達令港散步時，可以使用 eSIM 即時分享照片嗎？
-      a: 雪梨達令港區域 Telstra 和 Optus 網速普遍在 30-50 Mbps，上傳照片至社交平台僅需 5-8 秒。週末晚間煙火表演時，人潮眾多可能導致速度降至 10 Mbps，但上傳仍可接受。建議避開擁擠的中心廣場，稍微往水族館方向尋找較快網路。
-    - q: 在墨爾本維多利亞女王市場逛街時，eSIM 用於移動支付流暢嗎？
-      a: 維多利亞女王市場內部 Optus 網路訊號良好，移動支付（如 Apple Pay）通常在 3 秒內完成。但週末上午（10-12 點）人潮高峰時，掃碼付款可能稍有延遲（5-8 秒）。建議使用實體信用卡備用。市場內多數攤販支援非接觸式支付。
-  - id: faq-social
-    icon: smartphone
-    tab_title: 社交媒體
-    title: 透過 澳洲 eSIM 在 澳洲 使用通訊軟體和社群網站
-    questions:
-    - q: 在澳洲使用 Instagram 時，上傳 1 分鐘影片需要多久？
-      a: 在雪梨或墨爾本市中心，Telstra 網路下上傳 1 分鐘 1080p 影片約需 15-25 秒。Optus 則需 20-30 秒。鄉村地區（如烏魯魯）可能延長至 2-3 分鐘。避開晚間 8-10 點的使用高峰可加快速度。
-    - q: 去澳洲旅行需要多少數據量？
-      a: 輕度使用者(地圖+訊息)約300MB/天，中度(社群+照片)約700MB/天，重度(串流+視訊)選擇無限方案。大多數旅客在澳洲標準行程中選擇5GB/15天已足夠。
-    - q: 在澳洲使用 LINE 通話的品質如何？會延遲嗎？
-      a: 在都會區（雪梨、墨爾本）使用 LINE 通話，Telstra 網路延遲低於 50ms，通話清晰。但在偏遠地區（如凱恩斯郊區），Optus 可能出現 200ms 以上延遲，導致對話斷斷續續。建議在強訊號區域通話，或切換至 WhatsApp。
-    - q: 在澳洲使用 Facebook Messenger 傳送照片，是否壓縮嚴重？
-      a: 透過 Telstra 網路傳送原圖尺寸照片，速度約 5-10 秒，Facebook 會自動壓縮至約 1MB。若需保持高畫質，建議使用雲端硬碟並分享連結。高峰時段（如週末）傳送可能稍慢，但仍在可接受範圍。
-    - q: 在澳洲進行語音社群媒體（如 Clubhouse）的聽眾體驗如何？
-      a: 在雪梨市中心使用 Optus 5G 參與 Clubhouse 語音房，幾乎無遲滯，音質清晰。但在伯斯郊區使用 4G 時，可能因網路波動導致聲音斷續。建議在穩定網路環境下使用，並關閉其他後台應用以節省頻寬。
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: 緊急情況
-    title: 在 澳洲 使用 澳洲 eSIM 進行緊急聯絡
-    questions:
-    - q: 在澳洲撥打 000 需要手機有訊號嗎？即使無 SIM 卡能否撥通？
-      a: 撥打 000 需要手機連接到任一可用網路（即使非您的運營商），且無需 SIM 卡即可撥通。但若所在區域完全無覆蓋（如深山），則無法接通。建議在手機設定中啟用「緊急 SOS」功能，並確保了解最近電話位置。
-    - q: 在澳洲海灘遇險時，除了 000 還有其他緊急聯絡方式嗎？
-      a: 除了 000，您還可撥打 112（國際通用緊急號碼）或 106（聽障人士專用文字電話）。海灘上通常設有緊急呼叫箱，可直接聯繫救生員。部分偏遠海灘無手機訊號，建議隨身攜帶哨子或個人定位信標。
-    - q: 如果在澳洲山區迷路，eSIM 能否發送衛星求救訊號？
-      a: 標準 eSIM 不支援衛星通訊，無法發送求救訊號。但在有微弱手機訊號的山脊（藍山部分區域），可嘗試撥打 000。建議購買衛星通訊器（如 Garmin inReach）或使用 iPhone 14 以上機型的衛星 SOS 功能（需在設定中啟用）。
-    - q: 在澳洲遇到車禍時，如何在手機上快速使用 eSIM 撥打電話？
-      a: 確保手機解鎖後直接撥打 000，或使用手機的緊急快捷鍵（如連按電源鍵 5 次）。eSIM 無需 PIN 碼即可在緊急狀態下使用。若地處偏遠，可先發送簡訊至 000（向運營商查詢該服務），因為簡訊較能穿越弱訊號區。
-    - q: 在澳洲被毒蛇咬傷時，eSIM 能否確保與醫療團隊穩定通話？
-      a: 在偏遠地區被蛇咬傷，應先撥打 000，然後盡量保持冷靜。eSIM 在弱訊號區可能斷線，建議使用簡訊 000 或開啟定位分享。救護人員會盡快抵達，但請描述詳細位置（如標誌性地點）。在雪梨近郊，救護車通常 10-15 分鐘內到達。
+    - q: 準備去澳洲long stay，eSIM方案買哪種比較划算？
+      a: Roami 澳洲 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Telstra在澳洲市區5G網速約100-300Mbps，看1080p影片沒問題。去澳洲機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到澳洲後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+    - q: 看到有人說澳洲的Telstra在市區很快、Optus在郊區很廣，真的是這樣嗎？
+      a: 澳洲主要有Telstra、Optus、Vodafone。Telstra市區下載快、基地台密集。Optus郊區覆蓋廣，會去郊區的話選Optus路線較有保障。Vodafone價格親民，適合預算有限的旅客。澳洲5G使用n78/n257頻段，偏遠地區以4G為主。不過Roami會自動切換到當前訊號最強的網路。市區用Telstra，移動到郊區若Telstra訊號變弱就自動跳Optus或Vodafone，完全不用手動選。
+    - q: 澳洲eSIM的30天無限方案跟15天10GB的比起來，哪個平均每天比較便宜？
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。澳洲5G使用n78/n257頻段，偏遠地區以4G為主。Roami在澳洲連上Telstra的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+    - q: 有人說去澳洲辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
+      a: 需要的。澳洲預付卡需KYC認證，需提供護照或駕照。很多人不知道這規定，到了澳洲機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。澳洲5G使用n78/n257頻段，偏遠地區以4G為主。另外Telstra的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到澳洲開數據漫遊就能直接用。不支援eSIM可租WiFi機。
+    - q: 離開澳洲市區之後，eSIM的訊號會不會變得很差？
+      a: 澳洲的Telstra等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。澳洲5G使用n78/n257頻段，偏遠地區以4G為主。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
+    - q: 出國去澳洲用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
+      a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到澳洲開數據漫遊就用。
 related_products:
   title: 類似 澳洲 eSIM 的旅行方案
   items:
@@ -566,4 +463,84 @@ related_products:
     price: От 1,99 $
     is_highlight: false
     slug: philippines-esim
+
+# =============== 100% 完整復原：基於數據的比較模組 ===============
+market_analysis:
+  title: "eSIM 與 SIM 卡在 澳洲 的完整比較指南"
+  subtitle: "澳洲當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
+  citation:
+    text: "資料來源：Prepaid Data SIM Card Wiki (Australia) + 當地電信商官網"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Australia"
+  table_headers:
+    - "比較矩陣"
+    - "當地預付 SIM 卡（市場數據）"
+    - "Roami eSIM 給 澳洲"
+  table_rows:
+    - icon: "store"
+      title: "取得與啟用"
+      prepaid_title: ""
+      prepaid_desc: "ALDI mobile 僅支援全線上激活，非澳洲居民需通過國際信用卡小額扣款驗證身份，失敗三次即鎖死。"
+      esim_title: "即時數位配送"
+      esim_desc: "避開 ALDI mobile 的線上驗證陷阱（需國際信用卡即時扣款，失敗三次鎖死），抵達澳洲後一分鐘內掃碼啟用 eSIM。"
+    - icon: "id-card"
+      title: "KYC 與護照登記"
+      prepaid_title: ""
+      prepaid_desc: "Optus 預付卡激活須提供澳洲本地地址（遊客通常填寫酒店地址）並通過網站審核。"
+      esim_title: "免護照免地址"
+      esim_desc: "無需像 Optus 預付卡那樣提供澳洲本地地址（遊客常填酒店地址）並通過網站審核，eSIM 完全免 KYC，保護隱私。"
+    - icon: "globe"
+      title: "國際漫遊"
+      prepaid_title: ""
+      prepaid_desc: "澳洲主流實體預付卡幾乎完全缺失針對紐西蘭或周邊南太平洋島國的低價套餐。"
+      esim_title: "全球漫遊無縮水"
+      esim_desc: "澳洲主流預付卡（如 Telstra、Optus）幾乎無紐西蘭或南太平洋低價漫遊方案，而 eSIM 提供多國通用套餐，無需額外加購。"
+    - icon: "calendar-xmark"
+      title: "計費週期與浪費成本"
+      prepaid_title: ""
+      prepaid_desc: "Telstra、Optus、Lycamobile 均使用 28 天有效期，ALDI 為 30 天；遊客若僅停留 5-7 天，需為 Telstra 的 $35/60GB 套餐支付全款，導致至少 70% 的流量被作廢。"
+      esim_title: "彈性按天計費"
+      esim_desc: "與 Telstra 的 28 天週期（$35/60GB）不同，Roami 提供 7 天方案，最低 1.99 美元/GB，避免 70% 的流量浪費。"
+    - icon: "wifi"
+      title: "熱點分享與速度政策"
+      prepaid_title: ""
+      prepaid_desc: "Lycamobile 明確指出「Lycamobile actively blocks tethering」，即完全禁止熱點分享。"
+      esim_title: "無限熱點分享"
+      esim_desc: "Lycamobile 完全封鎖熱點分享，而 eSIM 允許自由分享給筆電、平板，無速度限制。"
+    - icon: "credit-card"
+      title: "儲值與付款"
+      prepaid_title: ""
+      prepaid_desc: "ALDI mobile 激活僅支援 Visa/Mastercard 信用卡即時扣款驗證，銀聯、微信、支付寶無效。"
+      esim_title: "全球付款暢通"
+      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需像 ALDI mobile 那樣僅限國際信用卡即時扣款。"
+    - icon: "headset"
+      title: "客戶支援"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。"
+      esim_title: "24/7 中文支援"
+      esim_desc: "提供全天候即時線上聊天，解決澳洲當地預付卡（如 Telstra）僅有英文電話支援且非工作時間無回應的問題。"
+
+  # =============== 100% 完整復原：專家評語模組 ===============
+  expert_verdict:
+    title: "eSIM 給 澳洲：更聰明的連線選擇"
+    cards:
+      - icon: "hourglass-empty"
+        icon_bg: "bg-amber-100"
+        icon_color: "text-amber-600"
+        title: "28 天週期浪費 70% 費用"
+        desc: "Telstra、Optus、Lycamobile 均使用<b>28 天有效期</b>，ALDI 為 30 天。停留 7 天的遊客購買 Telstra $35/60GB 套餐，至少<b>70% 的流量作廢</b>。eSIM 按天計費，無浪費。"
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "繞過 澳洲 嚴格的 KYC 要求"
+        desc: "Optus 預付卡激活須提供<b>澳洲本地地址</b>（遊客常填酒店地址）並通過網站審核；ALDI mobile 更要求<b>國際信用卡即時扣款驗證</b>，失敗三次鎖死。eSIM 完全免 KYC。"
+      - icon: "tower-observation"
+        icon_bg: "bg-rose-100"
+        icon_color: "text-rose-600"
+        title: "多網自動切換避開盲區"
+        desc: "Lycamobile 僅使用<b>Vodafone 網路</b>（覆蓋 96% 人口），進入 Telstra 強覆蓋的偏遠地區無望。eSIM 自動接入最強訊號源，避免 Optus 鄉村弱點或 Telstra 非標 VoLTE 兼容問題。"
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "全球付款方式暢通"
+        desc: "ALDI mobile 激活僅支援<b>Visa/Mastercard 信用卡即時扣款</b>，銀聯、微信、支付寶無效。eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal。"
 ---

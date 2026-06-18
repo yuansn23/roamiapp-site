@@ -344,143 +344,26 @@ activation_steps:
       eSIM 智利。幾秒鐘內，您的設備將自動連接到 Movistar / Entel 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 智利 eSIM指南 2026：網路與旅遊指南
-  desc: 從聖地牙哥到瓦爾帕萊索，使用Movistar, Entel, Claro保持連線。我們的完整智利 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
+  title: 智利 eSIM 各方案比較｜天數流量價格一次看懂
+  desc: 整理了智利 eSIM的智利 Entel Movistar 比較、智利 Movistar 速度、智利 Entel 網路覆蓋等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂智利上網。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 關於 智利 eSIM 的常見問題
+    title: 智利 eSIM 各方案比較｜天數流量價格一次看懂
     questions:
-    - q: 在智利聖地牙哥市中心使用 Movistar 網路看 YouTube 4K 影片會卡嗎？
-      a: 在智利聖地牙哥市中心，例如武器廣場或 Providencia 大道一帶，使用 Movistar 網路的下載速度通常可達 30-50 Mbps，足以流暢觀看 4K 影片。不過在尖峰時段（19:00-22:00）靠近 Costanera
-        Center 購物中心時，速度可能下降至 10-15 Mbps，但仍能順暢播放 Full HD 畫質。若遇到壅塞，可手動切換至 Entel 網路（在手機設定中選擇），其延遲更穩定。每日使用超過 5GB 後可能觸發公平使用原則，速度會降至約
-        2 Mbps，但依然足夠進行社交媒體和導航。
-    - q: Movistar還是Entel在智利更好？
-      a: Movistar和Entel在智利都提供出色的覆蓋範圍。Movistar在偏遠地區的覆蓋通常更好，而Entel在城市中提供競爭力的5G速度。對於大多數前往智利的旅客來說，兩個網路都能良好運作。
-    - q: 在智利偏遠地區，例如百內國家公園，Entel 的訊號如何？
-      a: 百內國家公園內的 Entel 訊號較弱，主要覆蓋在公園入口、遊客中心及部分健行路線起點。例如在 Laguna Amarga 入口和 Grey 旅館附近，可穩定使用 3G/4G 網路，但進入深山區域（如 French Valley）可能無訊號。建議事先下載離線地圖，並告知旅伴您的行程。若需通訊，公園內的旅館提供付費衛星電話。
-    - q: 在智利使用 eSIM 打電話划算嗎？主要用來上網該選哪個方案？
-      a: 智利 eSIM 主要設計為數據方案，不包含語音通話分鐘。若您主要使用網路（社交媒體、導航、視訊通話），建議選擇純數據方案。需電話聯絡時，可使用 WhatsApp、Telegram 等網路通話軟體，或另外購買當地預付卡補充通話費。當地運營商如
-        Claro 提供混合方案，但 eSIM 的數據速度更穩定。
-    - q: 在瓦爾帕萊索山上，Claro 的訊號比 Movistar 好嗎？
-      a: 根據使用者回饋，在瓦爾帕萊索的 Cerro Alegre 和 Cerro Concepción 山區，Claro 的訊號穩定度略優於 Movistar，尤其在狹窄街道和建築密集區。不過兩者在觀景台（如 Paseo Yugoslavo）都能提供
-        4G 訊號，下載速度約 20-30 Mbps。建議您進入山城後，若發現訊號不佳，可手動切換至 Claro 網絡。
-    - q: 智利 eSIM 的 5G 覆蓋範圍廣嗎？需要特別設定嗎？
-      a: 智利的 5G 網路主要集中在聖地牙哥市中心、Las Condes 商業區及 Vitacura 高級住宅區。在聖地牙哥地鐵站（如 Escuela Militar、Tobalaba）附近可體驗 5G 速度。當地運營商 Movistar
-        和 Entel 皆提供 5G 服務，但需手機支援且啟用 5G 頻段。購買 eSIM 後，通常會自動連接到 5G，否則可於手機設定中選擇「5G 優先」。郊區及山區則以 4G 為主。
-    - q: 長時間使用 eSIM 會過熱或耗電嗎？有何建議？
-      a: 在智利夏季（12 月至 2 月）戶外溫度可達 30°C，連續使用 eSIM 進行視訊通話或導航可能導致手機輕微發熱，但屬正常現象。建議避免陽光直射手機，並關閉背景應用程式。若使用熱點分享，建議連接充電器。電池續航方面，一天中度使用（導航、社交媒體、地圖）約消耗
-        60-70% 電量，攜帶行動電源更安心。
-    - q: 在智利使用 eSIM 時，如何避免超量降速？
-      a: 多數 eSIM 方案設有每日高速流量上限（例如 2GB/天），超過後速度降至 2 Mbps。為避免降速，建議在連線 Wi-Fi 時（如飯店）預先下載離線地圖和串流內容。關閉自動更新和背景雲端備份。若仍需大量數據，可選購無限流量方案，但請注意公平使用條款。在聖地牙哥大都會公園這類戶外地點，降速後仍可傳送文字訊息。
-  - id: faq-airport
-    icon: plane
-    tab_title: 機場
-    title: 智利 機場：如何使用 智利 eSIM
-    questions:
-    - q: 我能在抵達後立即啟用智利 eSIM嗎？
-      a: 可以，您抵達後就能立即啟用智利 eSIM。使用機場免費WiFi，從Email掃描QR碼，2分鐘內即可上線。我們建議在出發前先安裝好eSIM。
-    - q: 從瓦爾帕萊索機場 (VAP) 可以快速買到當地 SIM 卡嗎？
-      a: 瓦爾帕萊索機場規模較小，但行李提領區設有 Movistar 和 Entel 的櫃檯，營業時間配合航班。櫃檯人員通常提供預付卡，售價約 3,000-10,000 CLP（約 3-10 美元）。購買時需出示護照，且可當場開通。若想在抵達前準備，建議使用
-        eSIM，避免排隊等待。
-    - q: 在聖地牙哥機場轉機半天，有哪些能快速到達的景點？網路夠用嗎？
-      a: 從聖地牙哥機場搭 Uber 或計程車，約 20 分鐘可抵達市中心武器廣場，或前往聖地牙哥大都會公園（可自駕至山頂）。機場周邊的 4G/5G 訊號良好，使用 eSIM 可流暢導航。建議規劃 4-5 小時，並預留時間安檢。午餐可試試機場內的「Cocina
-        de la Abuela」餐廳。
-    - q: 聖地牙哥機場有 eSIM 自動販賣機嗎？
-      a: 目前聖地牙哥機場尚未設置 eSIM 自動販賣機，但您可於線上購買後，抵達時掃描 QR code 啟用。若偏好實體卡，行李提領區的電信業者櫃檯提供 NFC SIM 卡。建議使用我們提供的 eSIM，可省去排隊購買 SIM 卡的時間。
-    - q: 在機場使用 eSIM 需要先註冊或認證嗎？
-      a: 本 eSIM 無需複雜註冊，購買時只需提供電子郵件即可。抵達智利後，掃描 QR code 即完成安裝。智利法規未要求外國遊客進行實名認證，因此您可立即啟用。若使用當地 SIM 卡，則需出示護照並填寫表單。
-  - id: faq-transport
-    icon: car
-    tab_title: 交通
-    title: 智利 eSIM 用於 智利 的交通和導航
-    questions:
-    - q: 我能在智利使用eSIM叫車和導航嗎？
-      a: 可以，智利 eSIM可搭配叫車App和Google地圖使用。5GB/15天方案($4.99)足夠日常導航和叫車使用。
-    - q: 從聖地牙哥到瓦爾帕萊索，除了巴士還有其他選擇嗎？網路如何？
-      a: 除巴士（約 1.5 小時，3,000 CLP）外，也可開車經 Ruta 68 高速公路（約 1 小時）。巴士公司如 Pullman Bus 提供免費 Wi-Fi，但自備 eSIM 更穩定。沿途通過聖地牙哥郊區時，Entel 訊號良好，可串流音樂。抵達瓦爾帕萊索後，可步行或搭
-        trolley 巴士遊覽山城。
-    - q: 在智利叫 Uber 方便嗎？eSIM 能幫助溝通嗎？
-      a: Uber 在聖地牙哥、瓦爾帕萊索等城市普及，價格約 2,000-8,000 CLP 一趟。使用 eSIM 可隨時叫車並與司機傳訊息，但智利司機多使用西班牙語，建議預先下載翻譯 App。付款以信用卡為主，現金亦接受。尖峰時段或雨天價格會調漲。
-    - q: 智利的長途巴士上有插座和 Wi-Fi 嗎？需要自備什麼？
-      a: 智利長途巴士（如 Tur Bus、Pullman Bus）通常配備 USB 充電座和免費 Wi-Fi，但 Wi-Fi 速度較慢（約 2-5 Mbps），僅能傳文字。自備 eSIM 可確保連線品質，並使用個人熱點。建議攜帶行動電源，部分老舊巴士插座可能故障。從聖地牙哥到蒙特港的車程約
-        12 小時，夜車較舒適。
-    - q: 在智利租車自駕，導航需要大量網路流量，eSIM 夠用嗎？
-      a: 租車自駕時，使用 Google Maps 每小時約消耗 5-10 MB 流量，因此即使每日 2GB 方案也足夠。智利主要道路（如 5 號公路）訊號良好，但阿塔卡馬沙漠或巴塔哥尼亞偏遠路段可能無訊號。建議下載離線地圖（如 Maps.me），並攜帶車充。租車公司如
-        Hertz、Europcar 提供 GPS 租借，但手機導航更即時。
-  - id: faq-hotels
-    icon: hotel
-    tab_title: 住宿
-    title: 在 智利 的飯店使用 智利 eSIM 連線
-    questions:
-    - q: 智利飯店的免費 Wi-Fi 速度快嗎？需要額外買 eSIM 嗎？
-      a: 聖地牙哥的高級飯店（如 W 飯店、希爾頓）提供免費 Wi-Fi，速度約 10-20 Mbps，可滿足基本瀏覽。但較平價的旅館網速可能低於 5 Mbps，且部分飯店限制串流。為確保穩定連線，建議備用 eSIM，尤其在郊區旅館。eSIM
-        還可在離開飯店後繼續使用。
-    - q: 在瓦爾帕萊索的民宿，網路訊號強嗎？
-      a: 瓦爾帕萊索山城內民宿多為老建築，牆壁較厚，可能影響手機訊號。位於走 Cerro Alegre 頂部的民宿，Movistar 訊號約 50-70 dBm，尚可視訊通話，但室內死角較多。建議選擇提供獨立 Wi-Fi 的民宿，或使用
-        eSIM 並將手機靠窗。
-    - q: 聖地牙哥萬豪飯店有提供 eSIM 相關服務嗎？
-      a: 萬豪飯店商務中心提供網路設定協助，但不直接販售 eSIM。飯店全區覆蓋免費 Wi-Fi，速度可達 50 Mbps。若使用 eSIM 遇到問題，可請櫃檯人員聯繫電信業客服。推薦飯店內的「Awa」餐廳，使用 eSIM 打卡分享照片相當方便。
-    - q: 在智利住飯店時，如何同時使用 eSIM 和飯店 Wi-Fi 最佳化體驗？
-      a: 建議將手機設定為「行動數據優先於 Wi-Fi」，或使用雙 SIM 卡模式。以 eSIM 為主要網路，飯店 Wi-Fi 作為備用，因為公共 Wi-Fi 不一定安全。若您需要大量下載，可切換至飯店 Wi-Fi 以節省 eSIM 流量。部分飯店需登入入口頁面，使用
-        Safari 或 Chrome 即可完成。
-    - q: 在聖地牙哥的飯店裡使用 eSIM 進行視訊會議，穩定嗎？
-      a: 在聖地牙哥 Las Condes 區的飯店（如 Marriott），eSIM 連接到 Entel 網路的延遲約 30-50 ms，足以進行 Zoom 或 Teams 會議。建議避開假日時段（飯店內同時使用網路的人較多）。若會議重要，可選擇有線網路接筆記型電腦，或確認飯店
-        Wi-Fi 品質。
-  - id: faq-attractions
-    icon: landmark
-    tab_title: 景點
-    title: 智利 旅遊景點的網路：智利 eSIM
-    questions:
-    - q: 參觀聖地牙哥大都會公園時，網路訊號如何？能用 eSIM 分享照片嗎？
-      a: 大都會公園內的纜車站、動物園及山頂廣場均有 4G 訊號，Movistar 和 Entel 下載速度約 15-30 Mbps。您可即時上傳照片至社群媒體，但纜車行進間會中斷訊號。建議在山頂觀景台（Cerro San Cristóbal）停留時使用。公園免費入場，週末人潮眾多。
-    - q: 在瓦爾帕萊索的彩色山城拍照打卡，eSIM 上傳速度快嗎？
-      a: 在 Cerro Concepción 的著名階梯及壁畫區，Claro 的網路速度約 10-20 Mbps，上傳 Facebook 或 Instagram 照片每張約 2-3 秒。建議避開週末下午尖峰時段，人潮較少且網速較快。部分巷弄訊號死角可走到大街上恢復連線。
-    - q: 到莫雷諾冰川健行時，需要事先下載離線地圖嗎？
-      a: 莫雷諾冰川位於偏遠的 Patagonia 地區，雖然停車場及觀景台有 Entel 的 3G/4G 訊號，但健行步道內（如沿冰川邊緣）訊號微弱。強烈建議事先下載 Google Maps 離線地圖，或使用「Maps.me」的詳細步道圖。公園入口處可租用對講機，但
-        eSIM 的數據仍可在營地使用。
-    - q: 在聖地牙哥的 Costanera Center 購物中心內，網路順暢嗎？
-      a: Costanera Center 購物中心（四層樓含美食街）內，Movistar 和 Entel 的 4G 訊號覆蓋良好，下載速度約 20-40 Mbps。電梯和停車場區域訊號稍弱，但可正常使用。使用 eSIM 掃碼支付或查詢店家資訊無延遲。購物中心提供免費
-        Wi-Fi，但需透過入口頁面登入。
-    - q: 在智利阿塔卡馬沙漠的月亮谷，eSIM 能正常使用嗎？
-      a: 阿塔卡馬沙漠的月亮谷（Valle de la Luna）距離聖佩德羅阿塔卡馬約 20 分鐘車程，景區內有 Entel 的 3G 訊號，可發送文字訊息，但圖載速度僅約 1-2 Mbps。建議進入景區前下載好地圖，日落時分訊號可能更弱。eSIM
-        在鎮上連線良好，可於飯店或餐廳提前準備。
-  - id: faq-social
-    icon: smartphone
-    tab_title: 社交媒體
-    title: 透過 智利 eSIM 在 智利 使用通訊軟體和社群網站
-    questions:
-    - q: 在智利用 TikTok 上傳影片，eSIM 的網速夠快嗎？
-      a: 使用 eSIM 連接到 Movistar 的 4G 網路，上傳 60 秒的 1080p 影片約需 30-40 秒，在聖地牙哥或維尼亞德爾馬地區訊號穩定。若需 4K 影片，建議連線飯店 Wi-Fi 以節省流量。TikTok 串流耗流量，每小時約
-        600 MB，請注意每日高速流量上限。
-    - q: 在智利用 WhatsApp 傳照片和語音，eSIM 方案夠用嗎？
-      a: WhatsApp 是智利最普及的通訊軟體，傳送照片（壓縮後）每張約 100-200 KB，語音訊息每分鐘約 200 KB。因此即使每日 1GB 方案，也能傳送大量訊息。在中央車站等交通樞紐，訊號良好。若開啟自動下載，可能消耗較多流量，建議關閉該功能。
-    - q: 在智利使用 Facebook 直播，需要多快的網路？
-      a: 在聖地牙哥市區（如 Bellavista 區），Facebook 直播 720p 需要至少 2-3 Mbps 上傳速度。使用 eSIM 的 Entel 網路，上傳速度約 5-10 Mbps，足以進行流暢直播。但當你移動至地鐵內或郊區時，可能會偶爾斷線。建議在固定位置（如咖啡廳）直播，並關閉其他應用程式。
-    - q: 在智利用 Instagram 限時動態，eSIM 會有縮圖延遲嗎？
-      a: 使用 Instagram 時，限時動態的縮圖載入依賴下載速度。在聖地牙哥 Providencia 區，eSIM 的下載速度約 20-40 Mbps，瀏覽限動幾乎無延遲。若在偏遠海灘（如 Viña del Mar），可能需等 1-2
-        秒載入。建議清除 Instagram 快取以維持最佳效能。
-    - q: 在智利使用 eSIM 時，能用 VPN 連接中國的社交媒體（如微信、微博）嗎？
-      a: 智利並未封鎖任何社交媒體平台，包含微信、微博，因此無需 VPN 即可正常使用。若需要翻牆回中國，eSIM 支援 WireGuard 等 VPN 協議，但可能因加密導致速度下降 10-20%。建議使用信譽良好的 VPN 服務，並在出發前測試連線。
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: 緊急情況
-    title: 在 智利 使用 智利 eSIM 進行緊急聯絡
-    questions:
-    - q: 在智利遇到緊急狀況，如何用手機快速求助？
-      a: 在智利，緊急電話為：警察 133、救護車 131、消防 132。使用 eSIM 可直接撥打，無需當地 SIM 卡。若無法通話，可傳簡訊至 131（需事先註冊 SMS 定位服務）。建議在手機通訊錄中儲存這些號碼，並下載「SOS
-        Emergencias Chile」App，該軟體可透過 GPS 傳送位置。
-    - q: 在聖地牙哥發生車禍時，eSIM 能幫助聯繫保險公司嗎？
-      a: 可以，eSIM 可撥打國際電話至您的保險公司或租車公司。建議事先將保險單號碼儲存在手機內。在車禍現場，保持冷靜，遵循當地警方指示（警局電話 133）。使用 eSIM 的網路，可即時查詢附近的修車廠（如聖地牙哥國內機場附近的「Car
-        Service」）。
-    - q: 在智利山區迷路時，eSIM 的 GPS 效能如何？
-      a: 在智利百內國家公園等山區，GPS 定位依賴於衛星，與 eSIM 網路無關，因此即使無網路也可定位（但需預先下載離線地圖）。eSIM 的網路可幫助您發送求救訊息，若無訊號，請前往高處或使用衛星電話。建議攜帶備用電源及實體地圖。
-    - q: 在智利被搶劫時，除了報警，還需要做什麼？
-      a: 首先確保自身安全，再致電 133 報警。警方通常會要求您前往最近的警局製作筆錄，並提供備案證明。使用 eSIM 可立即連繫大使館或領事館（台灣駐智利代表處電話：+56-2-2362-9211）。建議出國前備份重要文件至雲端，並關閉手機銀行
-        App 的離線權限。
-    - q: 智利的地震警報 App 需要網路嗎？eSIM 能接收嗎？
-      a: 智利常用地震預警 App 如「Sismos Chile」和「GeoFon」，需要網路接收即時警報。eSIM 可確保您在戶外也能收到警報，但建議同時開啟手機的緊急廣播功能（無需網路）。地震發生時，請遠離玻璃窗，並尋找堅固桌子。部分飯店會透過廣播通知。
+    - q: 去智利想辦eSIM但又怕買貴，大概多少預算才夠？
+      a: Roami 智利 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Entel在智利市區5G網速約100-300Mbps，看1080p影片沒問題。去智利機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到智利後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+    - q: 看到有人說智利的Entel在市區很快、Movistar在郊區很廣，真的是這樣嗎？
+      a: 智利主要有Entel、Movistar、Claro。Entel市區下載快、基地台密集。Movistar郊區覆蓋廣，會去郊區的話選Movistar路線較有保障。Claro價格親民，適合預算有限的旅客。智利5G使用n78頻段，聖地牙哥覆蓋良好。不過Roami會自動切換到當前訊號最強的網路。市區用Entel，移動到郊區若Entel訊號變弱就自動跳Movistar或Claro，完全不用手動選。
+    - q: 智利eSIM吃到飽方案如果被降速了，512kbps的速度還能做什麼？
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。智利5G使用n78頻段，聖地牙哥覆蓋良好。Roami在智利連上Entel的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+    - q: 智利eSIM買了之後要驗證證件嗎？沒先辦好會不會到了不能用？
+      a: 需要的。智利預付卡需KYC認證，需提供護照。很多人不知道這規定，到了智利機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。智利5G使用n78頻段，聖地牙哥覆蓋良好。另外Entel的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到智利開數據漫遊就能直接用。不支援eSIM可租WiFi機。
+    - q: 智利主要市區和偏遠鄉村的網路覆蓋差距大嗎？
+      a: 智利的Entel等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。智利5G使用n78頻段，聖地牙哥覆蓋良好。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
+    - q: 跟旅伴一起去智利，買一張eSIM開熱點分享夠兩個人用嗎？
+      a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
 related_products:
   title: 類似 智利 eSIM 的旅行方案
   items:
@@ -544,4 +427,84 @@ related_products:
     price: От 1,99 $
     is_highlight: false
     slug: philippines-esim
+
+# =============== 100% 完整復原：基於數據的比較模組 ===============
+market_analysis:
+  title: "eSIM 與 SIM 卡方案在 智利 哪個符合你的需求？"
+  subtitle: "智利當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
+  citation:
+    text: "資料來源：Prepaid Data SIM Card Wiki (Chile) + 當地電信商官網"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Chile"
+  table_headers:
+    - "比較矩陣"
+    - "當地預付 SIM 卡（市場數據）"
+    - "Roami eSIM 給 智利"
+  table_rows:
+    - icon: "store"
+      title: "取得與啟用"
+      prepaid_title: ""
+      prepaid_desc: "Entel 和 Movistar 門市自 2014 年起拒絕服務預付費用戶，遊客需前往超市或售貨亭購買；Movistar 插入 SIM 卡後撥打 103 激活，確認簡訊最長需等待 24 小時。"
+      esim_title: "即時數位配送"
+      esim_desc: "避開 Entel 和 Movistar 門市拒絕預付費用戶的麻煩，也無需等待 Movistar 長達 24 小時的激活確認；Roami eSIM 可提前在國內購買，落地智利插卡即用，零人工交互。"
+    - icon: "id-card"
+      title: "KYC 與護照登記"
+      prepaid_title: ""
+      prepaid_desc: "Entel 激活時可能要求提供 RUT 稅務號碼，遊客常輸入 666666666 規避但存在風險；Virgin Mobile 是唯一提供「Extranjero sin Rut」選項並接受護照號碼的運營商，但仍需提交護照信息完成註冊。"
+      esim_title: "免護照免稅號"
+      esim_desc: "無需像 Virgin Mobile 那樣提交護照信息，也無需擔心 Entel 的 RUT 稅務號碼問題；Roami eSIM 完全跳過 KYC 流程，保護隱私。"
+    - icon: "globe"
+      title: "國際漫遊"
+      prepaid_title: ""
+      prepaid_desc: "Entel 的 Prepago 套餐僅在智利全境及復活節島有效，跨國無信號或產生高額漫遊費；Claro 的 7 天無限包高速流量僅限 10GB，超額降速至 128 Kbps。"
+      esim_title: "全球漫遊無國界"
+      esim_desc: "不同於 Entel 套餐僅限智利境內，Roami eSIM 提供多國區域套餐，可無縫覆蓋智利、阿根廷、秘魯等鄰國，無需更換 SIM 卡。"
+    - icon: "calendar-xmark"
+      title: "計費週期與浪費成本"
+      prepaid_title: ""
+      prepaid_desc: "Entel 提供 1 天、2 天、3 天、7 天、30 天等多種有效期；例如 30 天 20GB 套餐售價 8,000 CLP，若僅停留 5 天，時間利用率僅 16.7%，剩餘 83% 的價值沉沒。"
+      esim_title: "彈性計費零浪費"
+      esim_desc: "與 Entel 的 30 天週期（20GB/8,000 CLP）不同，Roami 提供 7 天方案，最低 1.99 美元/GB，行程 5 天可精準匹配，節省 83% 的浪費。"
+    - icon: "wifi"
+      title: "熱點分享與速度政策"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。"
+      esim_title: "無限分享不降速"
+      esim_desc: "無需擔心 Claro 或 Movistar 的 FUP 限速（128 Kbps 或 512 Kbps），Roami eSIM 支持熱點分享且不限制速度，多人共享也流暢。"
+    - icon: "credit-card"
+      title: "儲值與付款"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。"
+      esim_title: "全球付款無障礙"
+      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需像當地實體卡那樣在便利店購買充值券，線上即時付款。"
+    - icon: "headset"
+      title: "客戶支援"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。"
+      esim_title: "24/7 中文支援"
+      esim_desc: "不同於當地運營商可能僅提供西班牙語電話支援，Roami eSIM 提供 24/7 多語言線上客服，隨時解決問題。"
+
+  # =============== 100% 完整復原：專家評語模組 ===============
+  expert_verdict:
+    title: "eSIM 給 智利 更省錢：速度、覆蓋與價格全面勝出"
+    cards:
+      - icon: "wifi"
+        icon_bg: "bg-green-100"
+        icon_color: "text-green-600"
+        title: "熱點分享無限制"
+        desc: "當地運營商如 Claro 和 Movistar 的「無限包」設有 FUP 限速（<b>128 Kbps</b> 或 <b>512 Kbps</b>），嚴重影響分享體驗。Roami eSIM 不限制熱點分享速度，多人使用依然流暢。"
+      - icon: "clock"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "即時啟用零等待"
+        desc: "Movistar 激活後確認簡訊最長需等待 <b>24 小時</b>，深夜抵達可能斷網。Roami eSIM 提前購買，落地插卡即用，無需排隊或等待。"
+      - icon: "shield"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "避免 IMEI 鎖機風險"
+        desc: "智利規定使用超過 30 天的外國手機需進行 IMEI 白名單註冊（需護照掃描件和 IMEI 照片），否則手機將被鎖死。Roami eSIM 無此風險，且不佔用物理卡槽。"
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "繞過 智利 嚴格的護照要求"
+        desc: "Entel 激活時要求 RUT 稅務號碼，遊客常輸入 <b>666666666</b> 規避但存在風險；Virgin Mobile 雖接受護照，但仍需提交信息。Roami eSIM 完全免 KYC，無需任何身份文件。"
 ---

@@ -284,6 +284,7 @@ weight = 5
       { name = "首頁", url = "/" },
       { name = "購買eSIM", url = "/plans/" },
       { name = "eSIM 相容性", url = "/compatibility/" },
+	  { name = "eSIM 運營商", url = "/carriers/" },
       { name = "免費 eSIM", url = "/free-esim/" },
       { name = "Roami App", url = "/app/" },
       { name = "常見問題", url = "/faq/" }
@@ -306,6 +307,7 @@ footer_col1_links = [
     footer_col2_links = [
       { name = "常見問題", url = "/faq/" },
 	  { name = "部落格", url = "/blog/" },
+	  { name = "eSIM 運營商", url = "/carriers/" },
       { name = "eSIM 相容性", url = "/compatibility/" },
       { name = "下載 Roami App", url = "/app/" }
     ]

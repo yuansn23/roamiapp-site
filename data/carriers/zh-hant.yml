@@ -1,0 +1,317 @@
+algeria:
+  title: "阿爾及利亞 eSIM 電信商指南"
+  desc_html: "阿爾及利亞主要電信商：Algerie Telecom、Ooredoo、Djezzy。誰支援 eSIM？費率與覆蓋概覽。"
+  btn_text: "阿爾及利亞電信商"
+  btn_url: "/carriers/algeria-esim-carrier-guide/"
+
+argentina:
+  title: "阿根廷 eSIM 電信商指南"
+  desc_html: "阿根廷三大電信商：Claro、Movistar、Personal。eSIM 服務比較 – 哪家國際漫遊最便宜？點擊這裡。"
+  btn_text: "阿根廷電信商"
+  btn_url: "/carriers/argentina-esim-carrier-guide/"
+
+australia:
+  title: "澳洲 eSIM 電信商指南"
+  desc_html: "澳洲主要 eSIM 供應商：Telstra、Optus、Vodafone。覆蓋、速度與方案比較 – 幫助您快速決定。"
+  btn_text: "澳洲電信商"
+  btn_url: "/carriers/australia-esim-carrier-guide/"
+
+belgium:
+  title: "比利時 eSIM 電信商指南"
+  desc_html: "比利時主要 eSIM 供應商：Proximus、Orange、Base。網路品質與價格比較 – 協助您選擇。"
+  btn_text: "比利時電信商"
+  btn_url: "/carriers/belgium-esim-carrier-guide/"
+
+cambodia:
+  title: "柬埔寨 eSIM 電信商指南"
+  desc_html: "柬埔寨主要電信商：Smart、Metfone、Cellcard。哪家 eSIM 最快？是否包含語音通話？請點擊查看。"
+  btn_text: "柬埔寨電信商"
+  btn_url: "/carriers/cambodia-esim-carrier-guide/"
+
+canada:
+  title: "加拿大 eSIM 電信商指南"
+  desc_html: "加拿大主要電信商：Rogers、Bell、Telus。eSIM 功能與覆蓋比較 – 包括經濟型替代方案。"
+  btn_text: "加拿大電信商"
+  btn_url: "/carriers/canada-esim-carrier-guide/"
+
+chile:
+  title: "智利 eSIM 電信商指南"
+  desc_html: "智利電信商：Entel、Movistar、Claro。eSIM 服務比較 – 哪家最實惠？點擊這裡。"
+  btn_text: "智利電信商"
+  btn_url: "/carriers/chile-esim-carrier-guide/"
+
+colombia:
+  title: "哥倫比亞 eSIM 電信商指南"
+  desc_html: "哥倫比亞主要電信商：Claro、Movistar、Tigo。eSIM 功能比較 – 誰支援熱點分享？"
+  btn_text: "哥倫比亞電信商"
+  btn_url: "/carriers/colombia-esim-carrier-guide/"
+
+costa-rica:
+  title: "哥斯大黎加 eSIM 電信商指南"
+  desc_html: "哥斯大黎加主要電信商：ICE Kolbi、Claro、Movistar。eSIM 費率與覆蓋差異一目了然。"
+  btn_text: "哥斯大黎加電信商"
+  btn_url: "/carriers/costa-rica-esim-carrier-guide/"
+
+denmark:
+  title: "丹麥 eSIM 電信商指南"
+  desc_html: "丹麥主要 eSIM 供應商：TDC Net、Telenor、3 Denmark。速度與價格差異 – 點擊這裡。"
+  btn_text: "丹麥電信商"
+  btn_url: "/carriers/denmark-esim-carrier-guide/"
+
+dominican-republic:
+  title: "多明尼加共和國 eSIM 電信商指南"
+  desc_html: "多明尼加共和國主要電信商：Claro、Altice、Viva。eSIM 覆蓋與熱點分享支援概覽。"
+  btn_text: "多明尼加共和國電信商"
+  btn_url: "/carriers/dominican-republic-esim-carrier-guide/"
+
+egypt:
+  title: "埃及 eSIM 電信商指南"
+  desc_html: "埃及主要電信商：Orange Egypt、Vodafone Egypt、Etisalat。eSIM 服務比較與方案建議。"
+  btn_text: "埃及電信商"
+  btn_url: "/carriers/egypt-esim-carrier-guide/"
+
+finland:
+  title: "芬蘭 eSIM 電信商指南"
+  desc_html: "芬蘭電信商：Telia Finland、Elisa、DNA。eSIM 費率與速度比較 – 包括熱點分享支援。"
+  btn_text: "芬蘭電信商"
+  btn_url: "/carriers/finland-esim-carrier-guide/"
+
+france:
+  title: "法國 eSIM 電信商指南"
+  desc_html: "法國主要電信商：Orange、SFR、Bouygues Telecom。eSIM 服務詳細比較 – 協助您選擇。"
+  btn_text: "法國電信商"
+  btn_url: "/carriers/france-esim-carrier-guide/"
+
+germany:
+  title: "德國 eSIM 電信商指南"
+  desc_html: "德國三大電信商：Deutsche Telekom、Vodafone、O2。eSIM 覆蓋與價格完整分析。"
+  btn_text: "德國電信商"
+  btn_url: "/carriers/germany-esim-carrier-guide/"
+
+greece:
+  title: "希臘 eSIM 電信商指南"
+  desc_html: "希臘電信商：Cosmote、Vodafone Greece、Nova。eSIM 費率與覆蓋比較。"
+  btn_text: "希臘電信商"
+  btn_url: "/carriers/greece-esim-carrier-guide/"
+
+guatemala:
+  title: "瓜地馬拉 eSIM 電信商指南"
+  desc_html: "瓜地馬拉主要電信商：Claro、Tigo、Movistar。eSIM 功能與價格比較。"
+  btn_text: "瓜地馬拉電信商"
+  btn_url: "/carriers/guatemala-esim-carrier-guide/"
+
+hong-kong:
+  title: "香港 eSIM 電信商指南"
+  desc_html: "香港主要電信商：CSL、中國移動香港、3 Hong Kong、SmarTone。eSIM 服務與漫遊條件比較。"
+  btn_text: "香港電信商"
+  btn_url: "/carriers/hong-kong-esim-carrier-guide/"
+
+hungary:
+  title: "匈牙利 eSIM 電信商指南"
+  desc_html: "匈牙利電信商：Magyar Telekom、Yettel Hungary、Vodafone Hungary。eSIM 覆蓋與費率。"
+  btn_text: "匈牙利電信商"
+  btn_url: "/carriers/hungary-esim-carrier-guide/"
+
+india:
+  title: "印度 eSIM 電信商指南"
+  desc_html: "印度主要電信商：Jio、Airtel、Vi。eSIM 費率與覆蓋區域 – 幫助您快速決定。"
+  btn_text: "印度電信商"
+  btn_url: "/carriers/india-esim-carrier-guide/"
+
+indonesia:
+  title: "印尼 eSIM 電信商指南"
+  desc_html: "印尼電信商：Telkomsel、XL Axiata、Indosat。eSIM 服務細節與價格比較。"
+  btn_text: "印尼電信商"
+  btn_url: "/carriers/indonesia-esim-carrier-guide/"
+
+ireland:
+  title: "愛爾蘭 eSIM 電信商指南"
+  desc_html: "愛爾蘭電信商：Eir、Vodafone Ireland、Three Ireland。eSIM 費率與漫遊條件。"
+  btn_text: "愛爾蘭電信商"
+  btn_url: "/carriers/ireland-esim-carrier-guide/"
+
+italy:
+  title: "義大利 eSIM 電信商指南"
+  desc_html: "義大利主要電信商：TIM、Vodafone Italy、WindTre。eSIM 覆蓋與價格比較。"
+  btn_text: "義大利電信商"
+  btn_url: "/carriers/italy-esim-carrier-guide/"
+
+japan:
+  title: "日本 eSIM 電信商指南"
+  desc_html: "日本主要電信商：Docomo、SoftBank、KDDI au。eSIM 服務比較 – 哪家適合遊客？點擊這裡。"
+  btn_text: "日本電信商"
+  btn_url: "/carriers/japan-esim-carrier-guide/"
+
+kazakhstan:
+  title: "哈薩克 eSIM 電信商指南"
+  desc_html: "哈薩克電信商：Kcell、Beeline、Tele2。eSIM 費率與覆蓋差異。"
+  btn_text: "哈薩克電信商"
+  btn_url: "/carriers/kazakhstan-esim-carrier-guide/"
+
+kuwait:
+  title: "科威特 eSIM 電信商指南"
+  desc_html: "科威特電信商：Zain Kuwait、Ooredoo Kuwait、STC Kuwait。eSIM 功能比較表。"
+  btn_text: "科威特電信商"
+  btn_url: "/carriers/kuwait-esim-carrier-guide/"
+
+macau:
+  title: "澳門 eSIM 電信商指南"
+  desc_html: "澳門主要電信商：CTM、3 Macau、中國電信澳門。eSIM 覆蓋與漫遊條件。"
+  btn_text: "澳門電信商"
+  btn_url: "/carriers/macau-esim-carrier-guide/"
+
+mexico:
+  title: "墨西哥 eSIM 電信商指南"
+  desc_html: "墨西哥主要電信商：Telcel、Movistar、AT&T Mexico。eSIM 覆蓋與費率比較。"
+  btn_text: "墨西哥電信商"
+  btn_url: "/carriers/mexico-esim-carrier-guide/"
+
+morocco:
+  title: "摩洛哥 eSIM 電信商指南"
+  desc_html: "摩洛哥電信商：Maroc Telecom、Orange Morocco、Inwi。eSIM 服務比較。"
+  btn_text: "摩洛哥電信商"
+  btn_url: "/carriers/morocco-esim-carrier-guide/"
+
+netherlands:
+  title: "荷蘭 eSIM 電信商指南"
+  desc_html: "荷蘭主要電信商：KPN、Vodafone、T-Mobile、Odido。eSIM 服務詳細比較。"
+  btn_text: "荷蘭電信商"
+  btn_url: "/carriers/netherlands-esim-carrier-guide/"
+
+new-zealand:
+  title: "紐西蘭 eSIM 電信商指南"
+  desc_html: "紐西蘭電信商：Spark、One NZ、2degrees。eSIM 覆蓋與漫遊條件。"
+  btn_text: "紐西蘭電信商"
+  btn_url: "/carriers/new-zealand-esim-carrier-guide/"
+
+nigeria:
+  title: "奈及利亞 eSIM 電信商指南"
+  desc_html: "奈及利亞主要電信商：MTN Nigeria、Airtel Nigeria、Glo、9mobile。eSIM 服務比較。"
+  btn_text: "奈及利亞電信商"
+  btn_url: "/carriers/nigeria-esim-carrier-guide/"
+
+norway:
+  title: "挪威 eSIM 電信商指南"
+  desc_html: "挪威電信商：Telenor、Telia Norway、Ice。eSIM 覆蓋與價格比較。"
+  btn_text: "挪威電信商"
+  btn_url: "/carriers/norway-esim-carrier-guide/"
+
+pakistan:
+  title: "巴基斯坦 eSIM 電信商指南"
+  desc_html: "巴基斯坦電信商：Jazz、Zong、Telenor Pakistan、Ufone。eSIM 服務比較。"
+  btn_text: "巴基斯坦電信商"
+  btn_url: "/carriers/pakistan-esim-carrier-guide/"
+
+peru:
+  title: "秘魯 eSIM 電信商指南"
+  desc_html: "秘魯電信商：Movistar、Claro、Entel、Bitel。eSIM 功能比較。"
+  btn_text: "秘魯電信商"
+  btn_url: "/carriers/peru-esim-carrier-guide/"
+
+philippines:
+  title: "菲律賓 eSIM 電信商指南"
+  desc_html: "菲律賓主要電信商：Globe、Smart、DITO。eSIM 費率與覆蓋比較。"
+  btn_text: "菲律賓電信商"
+  btn_url: "/carriers/philippines-esim-carrier-guide/"
+
+portugal:
+  title: "葡萄牙 eSIM 電信商指南"
+  desc_html: "葡萄牙電信商：MEO、NOS、Vodafone Portugal。eSIM 服務詳細概覽。"
+  btn_text: "葡萄牙電信商"
+  btn_url: "/carriers/portugal-esim-carrier-guide/"
+
+romania:
+  title: "羅馬尼亞 eSIM 電信商指南"
+  desc_html: "羅馬尼亞電信商：Orange Romania、Vodafone Romania、Telekom Romania。eSIM 服務比較。"
+  btn_text: "羅馬尼亞電信商"
+  btn_url: "/carriers/romania-esim-carrier-guide/"
+
+singapore:
+  title: "新加坡 eSIM 電信商指南"
+  desc_html: "新加坡三大電信商：Singtel、StarHub、M1。eSIM 服務與遊客方案比較。"
+  btn_text: "新加坡電信商"
+  btn_url: "/carriers/singapore-esim-carrier-guide/"
+
+slovakia:
+  title: "斯洛伐克 eSIM 電信商指南"
+  desc_html: "斯洛伐克電信商：Slovak Telekom、Orange Slovensko、O2 Slovakia。eSIM 費率。"
+  btn_text: "斯洛伐克電信商"
+  btn_url: "/carriers/slovakia-esim-carrier-guide/"
+
+south-africa:
+  title: "南非 eSIM 電信商指南"
+  desc_html: "南非主要電信商：Vodacom、MTN South Africa、Telkom、Cell C。eSIM 服務比較。"
+  btn_text: "南非電信商"
+  btn_url: "/carriers/south-africa-esim-carrier-guide/"
+
+south-korea:
+  title: "韓國 eSIM 電信商指南"
+  desc_html: "韓國三大電信商：SK Telecom、KT、LG U+。eSIM 覆蓋與價格 – 哪家適合遊客？"
+  btn_text: "韓國電信商"
+  btn_url: "/carriers/south-korea-esim-carrier-guide/"
+
+spain:
+  title: "西班牙 eSIM 電信商指南"
+  desc_html: "西班牙電信商：Movistar、Vodafone Spain、Orange Spain、MásMóvil。eSIM 服務詳細概覽。"
+  btn_text: "西班牙電信商"
+  btn_url: "/carriers/spain-esim-carrier-guide/"
+
+sweden:
+  title: "瑞典 eSIM 電信商指南"
+  desc_html: "瑞典電信商：Telia Sweden、Tele2、Telenor Sweden、Tre。eSIM 費率與覆蓋。"
+  btn_text: "瑞典電信商"
+  btn_url: "/carriers/sweden-esim-carrier-guide/"
+
+switzerland:
+  title: "瑞士 eSIM 電信商指南"
+  desc_html: "瑞士電信商：Swisscom、Sunrise、Salt。eSIM 功能與漫遊條件比較。"
+  btn_text: "瑞士電信商"
+  btn_url: "/carriers/switzerland-esim-carrier-guide/"
+
+taiwan:
+  title: "台灣 eSIM 電信商指南"
+  desc_html: "台灣主要電信商：中華電信、台灣大哥大、遠傳電信。eSIM 服務比較。"
+  btn_text: "台灣電信商"
+  btn_url: "/carriers/taiwan-esim-carrier-guide/"
+
+thailand:
+  title: "泰國 eSIM 電信商指南"
+  desc_html: "泰國三大電信商：AIS、TrueMove H、DTAC。eSIM 費率與遊客方案。"
+  btn_text: "泰國電信商"
+  btn_url: "/carriers/thailand-esim-carrier-guide/"
+
+tunisia:
+  title: "突尼西亞 eSIM 電信商指南"
+  desc_html: "突尼西亞電信商：Tunisie Telecom、Orange Tunisie、Ooredoo Tunisie。eSIM 支援狀況。"
+  btn_text: "突尼西亞電信商"
+  btn_url: "/carriers/tunisia-esim-carrier-guide/"
+
+turkey:
+  title: "土耳其 eSIM 電信商指南"
+  desc_html: "土耳其電信商：Turkcell、Vodafone Turkey、Türk Telekom。eSIM 服務比較。"
+  btn_text: "土耳其電信商"
+  btn_url: "/carriers/turkey-esim-carrier-guide/"
+
+united-kingdom:
+  title: "英國 eSIM 電信商指南"
+  desc_html: "英國主要電信商：EE、Vodafone UK、O2、Three。eSIM 費率與覆蓋比較。"
+  btn_text: "英國電信商"
+  btn_url: "/carriers/united-kingdom-esim-carrier-guide/"
+
+united-states:
+  title: "美國 eSIM 電信商指南"
+  desc_html: "美國三大電信商：AT&T、T-Mobile、Verizon。eSIM 功能比較 – 誰提供語音通話與熱點分享？"
+  btn_text: "美國電信商"
+  btn_url: "/carriers/united-states-esim-carrier-guide/"
+
+venezuela:
+  title: "委內瑞拉 eSIM 電信商指南"
+  desc_html: "委內瑞拉電信商：Movistar、Digitel、Movilnet。eSIM 功能比較。"
+  btn_text: "委內瑞拉電信商"
+  btn_url: "/carriers/venezuela-esim-carrier-guide/"
+
+vietnam:
+  title: "越南 eSIM 電信商指南"
+  desc_html: "越南電信商：Viettel、Vinaphone、Mobifone。eSIM 費率與覆蓋比較。"
+  btn_text: "越南電信商"
+  btn_url: "/carriers/vietnam-esim-carrier-guide/"

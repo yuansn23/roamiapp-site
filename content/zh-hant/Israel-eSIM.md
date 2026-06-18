@@ -352,120 +352,26 @@ activation_steps:
       以色列。幾秒鐘內，您的設備將自動連接到 Cellcom / Partner 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 以色列 eSIM指南 2026：網路與旅遊指南
-  desc: 從耶路撒冷到特拉維夫，使用Cellcom, Partner, Pelephone保持連線。我們的完整以色列 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
+  title: 以色列 eSIM 方案推薦價格總整理｜流量怎麼選最划算
+  desc: 整理了以色列 eSIM的以色列 Cellcom Partner 比較、以色列 Cellcom 網路覆蓋、以色列 Partner 速度等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂以色列上網。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 關於 以色列 eSIM 的常見問題
+    title: 以色列 eSIM 方案推薦價格總整理｜流量怎麼選最划算
     questions:
-    - q: Cellcom還是Partner在以色列更好？
-      a: Cellcom和Partner在以色列都提供出色的覆蓋範圍。Cellcom在偏遠地區的覆蓋通常更好，而Partner在城市中提供競爭力的5G速度。對於大多數前往以色列的旅客來說，兩個網路都能良好運作。
-    - q: 在特拉維夫海灘使用Partner網路，適合進行視訊通話嗎？
-      a: 特拉維夫海灘沿岸（如戈登海灘或弗里什曼海灘）的Partner網路覆蓋良好，平均延遲約30毫秒。進行Zoom或FaceTime通話時，畫面清晰，但若遇風浪較大或人群密集（週五下午），可能出現短暫卡頓。建議避開夕陽時段（18:00-19:00）以獲得更佳體驗。
-    - q: 在死海周邊地區，哪家當地運營商的訊號最強？
-      a: 死海周邊（如恩博克區）地勢低窪，Pelephone與Cellcom的訊號皆較佳，但在鄰近馬薩達山區時，Partner可能會有微弱死角。通常在死海漂浮時，手機放在岸邊仍可保持連線，但下載大檔案可能較慢。建議選擇使用Cellcom或Pelephone的eSIM以確保覆蓋。
-    - q: 從本古里安機場入境後，如何快速啟用eSIM並連上網路？
-      a: 入境後，請確保手機已安裝eSIM設定檔（掃描QR code或手動輸入）。打開行動數據，選擇自動搜尋網路，通常會自動連接到Cellcom。若無連線，請手動選擇運營商（如Partner或Pelephone）。整個過程約1-2分鐘，即可在機場大廳使用Google
-        Maps或叫車App。
-    - q: 在海法使用eSIM時，遊覽巴哈伊花園是否會影響訊號？
-      a: 巴哈伊花園依山坡而建，植被茂密，但當地基站佈局良好。使用Cellcom網路時，沿著階梯走動訊號穩定，下載速度約25 Mbps。但在花園頂部觀景台附近，因遊客集中，尖峰時段可能降至10 Mbps。上傳社群媒體限時動態仍順暢。
-    - q: 以色列之行中，eSIM的公平使用政策（FUP）具體為何？
-      a: 我們的以色列eSIM採用公平使用政策，每日高速數據上限約為1GB（視方案而異）。超過後仍可繼續上網，但速度降為2G/3G（約128-256 kbps），足以使用文字訊息和導航。若需要大量數據，建議購買大流量方案或避免同時觀看高畫質影片。
-    - q: 在埃拉特度假時，Pelephone的5G覆蓋範圍如何？
-      a: 埃拉特市區及海灘區域（如紅海灘）Pelephone的5G覆蓋良好，實測下載速度可達150 Mbps以上。但在北部工業區或南部邊境處，可能僅有4G訊號。對於度假村內的串流影音，速度完全足夠。若前往珊瑚灣潛水，岸邊訊號仍穩定，但水下無法使用。
-  - id: faq-airport
-    icon: plane
-    tab_title: 機場
-    title: 以色列 機場：如何使用 以色列 eSIM
-    questions:
-    - q: 我能在抵達後立即啟用以色列 eSIM嗎？
-      a: 可以，您抵達後就能立即啟用以色列 eSIM。使用機場免費WiFi，從Email掃描QR碼，2分鐘內即可上線。我們建議在出發前先安裝好eSIM。
-    - q: 從本古里安機場到耶路撒冷最方便的大眾運輸方式？
-      a: 從機場可搭乘火車直達耶路撒冷（Yitzhak Navon站），車程約20分鐘，班次頻繁。車站有清楚標示，票價約15新謝克爾（NIS）。也可選擇485號巴士，但較耗時。使用eSIM查詢即時班表非常方便。
-    - q: 在拉蒙機場（埃拉特）是否需要提前購買SIM卡？
-      a: 拉蒙機場規模較小，但設有電信公司櫃檯，可現場購買本地SIM卡。然而，預先購買eSIM可省去排隊時間，且抵達後立即連線。機場有免費Wi-Fi輔助啟用eSIM。
-    - q: 本古里安機場的海關檢查是否會影響電子設備使用？
-      a: 通關時需將手機、筆電取出檢查，建議提前關閉eSIM連線以避免干擾。檢查後可立即重新啟用。機場內有充電站，但插座類型為歐標（C型），需自備轉接頭。
-    - q: 在機場遺失行李，如何使用eSIM聯繫航空公司？
-      a: 打開eSIM連線後，直接撥打航空公司的客服電話（如以色列航空03-9771111）。也可使用機場的失物招領處電話（03-9755544）。eSIM確保您立即通話，無需購買本地SIM卡。
-  - id: faq-transport
-    icon: car
-    tab_title: 交通
-    title: 以色列 eSIM 用於 以色列 的交通和導航
-    questions:
-    - q: 我能在以色列使用eSIM叫車和導航嗎？
-      a: 可以，以色列 eSIM可搭配叫車App和Google地圖使用。5GB/15天方案($4.99)足夠日常導航和叫車使用。
-    - q: 以色列的火車是否覆蓋主要旅遊城市？如何購票？
-      a: 以色列鐵路公司（Israel Railways）連接特拉維夫、耶路撒冷、海法、阿卡等地。可於車站購票或下載“Rav Kav”官方App，綁定信用卡。使用eSIM查詢班次和線上買票非常便利。注意安息日（週五日落至週六日落）火車停駛。
-    - q: 在耶路撒冷使用輕軌需注意哪些事項？
-      a: 耶路撒冷輕軌（Jerusalem Light Rail）從赫茨爾山到Pisgat Ze'ev，途經舊城區附近。可購買Rav Kav卡或使用手機感應支付。尖峰時段擁擠，需小心扒手。eSIM可用於查詢路線和下車提醒。
-    - q: 從特拉維夫到海法，自駕或乘坐火車哪個更好？
-      a: 火車從特拉維夫Ha'Hagana站到海法Bat Galim站約1小時，票價約30 NIS，沿途可觀賞地中海風光。自駕則需約1.5小時，但高速公路（6號公路）需繳費。建議遊客選擇火車，省去停車煩惱。eSIM可導航至火車站。
-    - q: 在以色列租車，是否容易找到停車位？
-      a: 在特拉維夫和耶路撒冷市區停車位非常稀缺且昂貴（每小時10-20 NIS）。建議使用“Pango”或“Cellopark”App繳費，eSIM可確保即時支付。許多飯店提供付費停車場，預訂時可洽詢。
-  - id: faq-hotels
-    icon: hotel
-    tab_title: 住宿
-    title: 在 以色列 的飯店使用 以色列 eSIM 連線
-    questions:
-    - q: 在耶路撒冷老城區附近，有哪些推薦的高評價飯店？
-      a: 耶路撒冷華爾道夫酒店位於市中心，步行即可抵達雅法門，房間寬敞且服務一流。另外，Leonardo Plaza Hotel Jerusalem提供現代化設施，並有觀景台眺望舊城。建議提早預訂，旺季價格較高。使用eSIM查詢空房和比價相當方便。
-    - q: 特拉維夫海灘附近的飯店，是否提供免費Wi-Fi？
-      a: 大多數飯店（如特拉維夫希爾頓酒店）提供免費Wi-Fi，但速度可能不及eSIM穩定。部分廉價旅館限制每日用量。建議自備eSIM作為備案，尤其對於視訊會議需求者。
-    - q: 死海地區的飯店，是否有專屬海灘？
-      a: 死海沿岸的度假村，如Ein Bokek區的“死海因霍特爾”，擁有私人海灘及死海泥池。住客可免費使用，並提供泳池和SPA。建議早上或傍晚前往漂浮，避免烈日。
-    - q: 在以色列入住飯店，是否需要轉接插頭？
-      a: 以色列使用歐標C/H型插座，電壓220V。多數飯店可借用轉接頭，但數量有限。建議自備萬用轉接頭，並確認手機充電器支援寬電壓。eSIM無需實體SIM卡，更換方便。
-    - q: 安息日期間，飯店服務是否受到影響？
-      a: 安息日（週五日落至週六日落）期間，部分飯店櫃檯人力減少，餐廳可能關閉，但仍有基本服務。自動門和電梯正常運作。若需要額外服務，可提前溝通。eSIM可隨時聯繫飯店。
-  - id: faq-attractions
-    icon: landmark
-    tab_title: 景點
-    title: 以色列 旅遊景點的網路：以色列 eSIM
-    questions:
-    - q: 參觀耶路撒冷舊城區，需要多少時間？
-      a: 建議至少安排一整天。四大區（猶太區、基督徒區、穆斯林區、亞美尼亞區）各有特色，哭牆、聖墓教堂、圓頂清真寺等景點距離不遠。步行是最好方式，穿著舒適鞋子。eSIM可用於語音導覽。
-    - q: 特拉維夫雅法古城（Jaffa）有哪些必看景點？
-      a: 雅法古城以古老的港口、跳蚤市場和藝術畫廊聞名。可參觀聖彼得教堂和燈塔，並在鐘樓廣場拍照。週二和週五的跳蚤市場尋寶。建議傍晚前往，欣賞夕陽。
-    - q: 死海漂浮時，如何保護手機和eSIM設備？
-      a: 死海水鹽分極高，易損壞電子設備。建議使用防水袋懸掛在脖子上，或放在岸邊保管箱。eSIM不受影響，但手機若浸水可能短路。漂浮後立即用清水沖洗身體。
-    - q: 海法巴哈伊花園的參觀規則？
-      a: 巴哈伊花園分為上下兩部分，與免費導覽團進入。禁止飲食、大聲喧嘩，並需著整齊服裝。從頂部入口（德國殖民區）出發，步行約40分鐘至底部。eSIM可協助導航至集合點。
-    - q: 馬薩達國家公園適合一日遊嗎？
-      a: 適合從耶路撒冷或死海出發，建議上午參觀以避暑。可搭乘纜車至山頂，參觀希律王宮殿遺址。務必攜帶充足飲水。eSIM可用於下載音頻導覽或查詢歷史資訊。
-  - id: faq-social
-    icon: smartphone
-    tab_title: 社交媒體
-    title: 透過 以色列 eSIM 在 以色列 使用通訊軟體和社群網站
-    questions:
-    - q: 在以色列使用哪些社群媒體App最受歡迎？
-      a: Instagram、WhatsApp、Facebook廣泛使用，Twitter也較常見。許多商家使用WhatsApp進行聯絡。建議安裝後即時備份設定。eSIM確保順暢瀏覽動態。
-    - q: 去以色列旅行需要多少數據量？
-      a: 輕度使用者(地圖+訊息)約300MB/天，中度(社群+照片)約700MB/天，重度(串流+視訊)選擇無限方案。大多數旅客在以色列標準行程中選擇5GB/15天已足夠。
-    - q: 使用eSIM時，能否接收台灣的簡訊認證碼？
-      a: eSIM提供數據服務，但若要接收台灣門號的簡訊，需開啟原號漫遊（可能收費）。或使用合作電信的備用方案。建議啟用eSIM同時保留實體SIM卡轉接，以接收銀行認證。
-    - q: 以色列網路審查嚴格嗎？能否正常訪問台灣網站？
-      a: 以色列網路自由度高，通常可正常訪問所有網站。少數色情或賭博網站可能被封鎖，但一般旅遊網站無礙。eSIM連接本地網路，無阻礙。
-    - q: 在沙漠地區（如內蓋夫）露營時，可否使用eSIM打卡？
-      a: 內蓋夫沙漠部分區域（如米茨佩拉蒙附近）有Cellcom和Pelephone訊號，但偏遠地區可能無服務。建議下載離線地圖。露營時可於山頂尋找微弱訊號，上傳照片可能較慢。
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: 緊急情況
-    title: 在 以色列 使用 以色列 eSIM 進行緊急聯絡
-    questions:
-    - q: 在以色列遇到緊急情況，應使用哪個號碼？
-      a: 警察撥100、救護車撥101、消防撥102。這些號碼免費且24小時可用。若語言不通，可說“English please”，接線生可能協助轉接。eSIM確保通話暢通。
-    - q: 在以色列遺失護照，應如何處理？
-      a: 立即撥打當地警察局電話（例如耶路撒冷中央警察局02-5391111）報案，並取得遺失證明。再前往台北經濟文化辦事處（位於特拉維夫）補辦旅行證件。辦事處地址：Tel Aviv, 11th floor, Azrieli Center
-        1。電話：03-6074788。
-    - q: 以色列的緊急醫療服務品質如何？
-      a: 以色列擁有高水準的醫療體系，緊急救助迅速。Magen David Adom（紅大衛盾）提供救護車服務，平均到達時間約10分鐘。建議購買旅遊保險。
-    - q: 在死海或沙漠地區中暑怎麼辦？
-      a: 移至陰涼處，補充電解質飲料，用濕毛巾降溫。若昏厥，立即撥打101。死海區域多家度假村設有醫療站。eSIM可查詢最近的醫療點。
-    - q: 若在安息日遇到緊急狀況，救援服務是否正常運作？
-      a: 是的，緊急服務（警察、救護車、消防）全年無休，安息日照常運行。但非緊急業務可能延遲。無需擔心基本救援。
+    - q: 去以色列想辦eSIM但又怕買貴，大概多少預算才夠？
+      a: Roami 以色列 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Cellcom在以色列市區5G網速約100-300Mbps，看1080p影片沒問題。去以色列機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到以色列後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+    - q: 以色列三大電信Cellcom、Partner、HOT，一般觀光客選哪家比較適合？
+      a: 以色列主要有Cellcom、Partner、HOT。Cellcom市區下載快、基地台密集。Partner郊區覆蓋廣，會去郊區的話選Partner路線較有保障。HOT價格親民，適合預算有限的旅客。以色列5G使用n78頻段，全境覆蓋密集。不過Roami會自動切換到當前訊號最強的網路。市區用Cellcom，移動到郊區若Cellcom訊號變弱就自動跳Partner或HOT，完全不用手動選。
+    - q: 去以色列旅遊的話，辦eSIM吃到飽會不會太浪費？一般人一天大概用多少流量？
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。以色列5G使用n78頻段，全境覆蓋密集。Roami在以色列連上Cellcom的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+    - q: 去以色列辦eSIM的認證流程大概要多久？買完馬上就能用嗎？
+      a: 需要的。以色列預付卡需KYC認證，需提供護照。很多人不知道這規定，到了以色列機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。以色列5G使用n78頻段，全境覆蓋密集。另外Cellcom的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到以色列開數據漫遊就能直接用。不支援eSIM可租WiFi機。
+    - q: 離開以色列市區之後，eSIM的訊號會不會變得很差？
+      a: 以色列的Cellcom等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。以色列5G使用n78頻段，全境覆蓋密集。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
+    - q: 以色列eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
+      a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
 related_products:
   title: 類似 以色列 eSIM 的旅行方案
   items:
@@ -529,4 +435,84 @@ related_products:
     price: От 1,99 $
     is_highlight: false
     slug: philippines-esim
+
+# =============== 100% 完整復原：基於數據的比較模組 ===============
+market_analysis:
+  title: "eSIM 與預付卡在 以色列 的速度、覆蓋與價格比較"
+  subtitle: "以色列當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
+  citation:
+    text: "資料來源：Prepaid Data SIM Card Wiki (Israel) + 當地電信商官網"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Israel"
+  table_headers:
+    - "比較矩陣"
+    - "當地預付 SIM 卡（市場數據）"
+    - "Roami eSIM 給 以色列"
+  table_rows:
+    - icon: "store"
+      title: "取得與啟用"
+      prepaid_title: ""
+      prepaid_desc: "本古里安機場不銷售常規平價SIM卡，只售針對旅遊者的高價特殊套餐或高價轉售卡。"
+      esim_title: "即時數位配送"
+      esim_desc: "避開本古里安機場的高價陷阱（019 Mobile 10天10GB收29美元），Roami eSIM 出發前線上購買，落地秒連，無需尋找授權店或面對語言障礙。"
+    - icon: "id-card"
+      title: "KYC 與護照登記"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。"
+      esim_title: "免護照登記"
+      esim_desc: "無需像以色列實體卡那樣進行KYC，Roami eSIM 即買即用，保護隱私，繞過Partner手動開通4G的繁瑣流程。"
+    - icon: "globe"
+      title: "國際漫遊"
+      prepaid_title: ""
+      prepaid_desc: "Golan Telecom明確無國際漫遊；Pelephone需加₪30通話包才能撥打國際電話。"
+      esim_title: "全球無縫漫遊"
+      esim_desc: "避免Golan Telecom的無漫遊死穴，Roami eSIM 支援多國切換，在以色列、約旦等國統一定價，無需額外付費。"
+    - icon: "calendar-xmark"
+      title: "計費週期與浪費成本"
+      prepaid_title: ""
+      prepaid_desc: "Partner套餐全部30天起步，₪60/125GB；短期遊客被迫購買月度包，浪費至少75%的流量。"
+      esim_title: "彈性天數方案"
+      esim_desc: "與Partner的30天強制週期（₪60/125GB）不同，Roami 提供7天方案，最低1.99美元/GB，節省75%的浪費。"
+    - icon: "wifi"
+      title: "熱點分享與速度政策"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。"
+      esim_title: "無限熱點分享"
+      esim_desc: "Roami eSIM 支援熱點分享，無降速限制，而以色列實體卡常隱藏分享限制，如Pelephone每日短信上限50條。"
+    - icon: "credit-card"
+      title: "儲值與付款"
+      prepaid_title: ""
+      prepaid_desc: "從以色列境外在線充值極其困難，主流支付方式不接受國際信用卡，僅有PAYEXPRESS或WebMoney。"
+      esim_title: "全球付款暢通"
+      esim_desc: "支援Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，一次付清，無需研究PAYEXPRESS等複雜充值渠道。"
+    - icon: "headset"
+      title: "客戶支援"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。"
+      esim_title: "24/7 中文支援"
+      esim_desc: "Roami 提供24/7多語言客服，即時解決問題，而以色列運營商如Partner僅有希伯來語語音指引，對遊客極不友好。"
+
+  # =============== 100% 完整復原：專家評語模組 ===============
+  expert_verdict:
+    title: "eSIM 給 以色列 的旅行、成本與設定比較"
+    cards:
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "全球付款暢通無阻"
+        desc: "以色列實體卡充值不接受國際信用卡，僅有<b>PAYEXPRESS</b>等複雜渠道。Roami 支援Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal。"
+      - icon: "wifi"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "無限熱點分享無降速"
+        desc: "以色列實體卡常隱藏分享限制，如<b>Pelephone</b>每日短信上限50條。Roami eSIM 支援熱點分享，無降速，多人共享。"
+      - icon: "clock"
+        icon_bg: "bg-orange-100"
+        icon_color: "text-orange-600"
+        title: "落地秒連免激活"
+        desc: "<b>Partner</b>新卡需撥打*454按語音提示開通4G，對非希伯來語用戶極不友好。Roami eSIM 自動配置，落地即連。"
+      - icon: "tower-observation"
+        icon_bg: "bg-rose-100"
+        icon_color: "text-rose-600"
+        title: "避免Golan Telecom的無漫遊死穴"
+        desc: "<b>Golan Telecom</b>明確無國際漫遊，離開以色列即失聯。Roami eSIM 支援多國切換，在約旦、土耳其等國無縫使用。"
 ---

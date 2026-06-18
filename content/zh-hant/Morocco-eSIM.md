@@ -352,131 +352,26 @@ activation_steps:
       Maroc Telecom / Orange 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 摩洛哥 eSIM指南 2026：方案、覆蓋與秘訣
-  desc: 從卡薩布蘭卡到馬拉喀什，使用Maroc Telecom, Orange, inwi保持連線。我們的完整摩洛哥 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
+  title: 摩洛哥 eSIM 購買前必讀｜價格方案與電信指南
+  desc: 整理了摩洛哥 eSIM的摩洛哥 Maroc Telecom Orange 比較、摩洛哥 Maroc Telecom 網路覆蓋、摩洛哥 Orange 速度等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂摩洛哥上網。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 關於 摩洛哥 eSIM 的常見問題
+    title: 摩洛哥 eSIM 購買前必讀｜價格方案與電信指南
     questions:
-    - q: Maroc Telecom還是Orange在摩洛哥更好？
-      a: Maroc Telecom和Orange在摩洛哥都提供出色的覆蓋範圍。Maroc Telecom在偏遠地區的覆蓋通常更好，而Orange在城市中提供競爭力的5G速度。對於大多數前往摩洛哥的旅客來說，兩個網路都能良好運作。
-    - q: 在馬拉喀什的傑馬夫納廣場使用 Orange 網路，晚上上傳照片到 Instagram 順暢嗎？
-      a: 馬拉喀什的傑馬夫納廣場在夜晚人潮眾多，使用 Orange 網路時，上傳照片到 Instagram 的速度通常可達 5-10 Mbps，一張 5MB 的照片約需 4-8 秒。然而，由於遊客密集，網速可能波動，建議避開晚上 20:00-23:00
-        的高峰時段以獲得最佳效果。若您發布 Instagram Stories，連接到 Orange 的 4G+ 訊號通常能保證即時上傳。為確保穩定，可預先連接到廣場附近的 Wi-Fi 熱點或使用 eSIM 切換到 Maroc Telecom
-        作為備用。
-    - q: 在菲斯舊城區（Fes el-Bali）使用 inwi 網路進行視訊通話（如 WhatsApp）體驗如何？
-      a: 在菲斯舊城區蜿蜒的小巷中，inwi 的 4G 覆蓋良好，進行 WhatsApp 視訊通話時，延遲約 50-80 毫秒，畫面清晰。但在靠近卡拉維因大學或露天市場深處時，由於建築密集，信號可能偶爾衰減，導致畫面模糊或短暫中斷。建議在露天市場的開闊區域或靠近藍門（Bab
-        Bou Jeloud）時通話，以確保穩定。如果遇到信號問題，可手動切換到 Maroc Telecom 網路，其覆蓋在該區域更為一致。
-    - q: 從卡薩布蘭卡機場前往市區，何時啟用 eSIM 最合適？需要注意什麼？
-      a: 建議您在飛機降落後、等待行李時立即啟用 eSIM，因為卡薩布蘭卡穆罕默德五世國際機場的 Maroc Telecom 和 Orange 訊號強度極佳，啟用後可立即連接網路。請確保您的裝置已預先安裝 eSIM 設定檔，並在飛行模式下關機重啟。在機場到達大廳，您可快速測試網速，若發現連線異常，可手動選擇運營商（如
-        inwi）。此外，機場內有免費 Wi-Fi 可供備用，但速度較慢，不建議依賴。
-    - q: 在摩洛哥使用 eSIM 時，每天超過多少流量後會降速？具體限制是什麼？
-      a: 我們的摩洛哥 eSIM 通常採用公平使用政策，大多數方案在每日消耗超過 3-5 GB 後可能降速至 2-3 Mbps，但具體依方案而定。例如，某些 5GB 總量方案在達到門檻後不會降速，而是直接斷網。建議您查看購買頁面的條款，或在啟用後發送查詢代碼
-        *200# 檢查剩餘流量。降速後仍可使用地圖、社交媒體和文字通訊，但無法觀看高畫質影片。若需大量數據，可選擇無限方案或搭配 Wi-Fi 熱點。
-    - q: 在拉巴特的海灘（如烏達亞堡附近）使用 eSIM 訊號如何？適合進行直播嗎？
-      a: 在拉巴特的烏達亞堡附近海灘，Maroc Telecom 的 4G 訊號覆蓋良好，下載速度約 20-30 Mbps，上傳速度約 8-12 Mbps，足以進行 720p 的 Facebook 直播。但海風和大浪可能對信號產生輕微干擾，靠近海邊礁石時訊號會稍弱。建議您背對大海方向，並將手機持於
-        1.5 公尺高度以獲得最佳接收。若進行長時間直播，備用行動電源是必需的，因為直播消耗電量較快。
-    - q: 在摩洛哥使用 eSIM 時，如何手動切換運營商以獲得最佳信號？
-      a: 若要手動切換運營商，請前往手機設定中的「行動網路」或「蜂窩網路」選項。在 iOS 上，路徑為「設定」>「行動服務」>「網路選擇」；在 Android 上，路徑為「設定」>「網路和網際網路」>「行動網路」>「網路運營商」。關閉自動選擇，手動選擇
-        Maroc Telecom、Orange 或 inwi。例如，在山區時 Maroc Telecom 覆蓋最廣，而在卡薩布蘭卡市中心 Orange 可能速度更快。切換後等待 10-15 秒讓手機註冊新網路，並以速度測試確認。
-  - id: faq-airport
-    icon: plane
-    tab_title: 機場
-    title: 摩洛哥 機場：如何使用 摩洛哥 eSIM
-    questions:
-    - q: 我能在抵達後立即啟用摩洛哥 eSIM嗎？
-      a: 可以，您抵達後就能立即啟用摩洛哥 eSIM。使用機場免費WiFi，從Email掃描QR碼，2分鐘內即可上線。我們建議在出發前先安裝好eSIM。
-    - q: 如何從卡薩布蘭卡機場乘坐火車前往市中心？需要 eSIM 導航嗎？
-      a: 從機場出發，可搭乘 Al Bidaoui 火車前往卡薩布蘭卡市中心的 Casa-Voyageurs 站，車程約 45 分鐘，票價約 50 迪拉姆。火車站位於航站樓 1 旁邊，步行可達。啟用 eSIM 後，可使用 Google
-        Maps 或 Moovit 查看班次並導航至目的地。建議預先離線下載地圖，以防地下路段信號不佳。
-    - q: 在馬拉喀什梅納拉機場，eSIM 啟用後多久能連接到網路？
-      a: 在梅納拉機場，eSIM 啟用後通常 1-2 分鐘內即可連接到 Orange 或 Maroc Telecom 網路。機場提供免費 Wi-Fi 作為備用，但需輸入手機號碼驗證。建議您在飛機著陸後即啟用 eSIM，並在等待行李時測試連線。若遇到問題，可手動選擇運營商或重啟手機。
-    - q: 在菲斯-薩伊斯機場，是否有 eSIM 訊號死角？
-      a: 菲斯機場相對較小，eSIM 在航站樓內訊號良好，但在停車場或角落區域可能出現短暫盲區。Maroc Telecom 和 Orange 覆蓋均佳，但 inwi 稍弱。建議在機場內完成所有網路設定後再移動至外部區域，以確保連線。
-    - q: 從機場搭計程車到市區，如何使用 eSIM 確認路線並避免繞路？
-      a: 您可使用 eSIM 連接到 Google Maps，實時追蹤行車路線。上車前先在地圖上標記目的地，並將路線分享給他人。計程車從卡薩布蘭卡機場到市中心約 250 迪拉姆，建議開啟導航語音提示，避免司機偏離最優路線。若發現繞路，可禮貌出示路線建議。
-  - id: faq-transport
-    icon: car
-    tab_title: 交通
-    title: 摩洛哥 eSIM 用於 摩洛哥 的交通和導航
-    questions:
-    - q: 我能在摩洛哥使用eSIM叫車和導航嗎？
-      a: 可以，摩洛哥 eSIM可搭配叫車App和Google地圖使用。5GB/15天方案($4.99)足夠日常導航和叫車使用。
-    - q: 在摩洛哥搭乘 CTM 長途巴士時，eSIM 在高速公路上訊號穩定嗎？
-      a: CTM 巴士行駛於 A1 等高速公路時，Maroc Telecom 和 Orange 訊號穩定，提供 20-30 Mbps 速度，適合觀看影片。但在經過山區隧道時訊號會中斷，通常 1-2 分鐘後恢復。建議離線下載地圖或娛樂內容以備不時之需。
-    - q: 如何在馬拉喀什的露天市場小巷中使用 eSIM 導航？
-      a: 馬拉喀什露天市場巷弄複雜，GPS 容易偏差。使用 eSIM 連接 Google Maps 時，建議站在開闊處定位，並依賴地標如 Jemaa el-Fnaa 廣場。在信號較差處，可切換到 offline maps 或詢問當地商家。
-    - q: 在菲斯搭乘公交車時，eSIM 能否支援即時路線查詢？
-      a: 菲斯的公交車路線主要依靠 Google Maps 和 Moovit，eSIM 網路延遲約 40-60 毫秒，查詢路線順暢。但在老城區街道狹窄處，信號偶爾減弱。建議車站附近提前查詢，並留意車牌號碼。
-    - q: 在丹吉爾搭乘渡輪前往西班牙時，eSIM 在海上還有訊號嗎？
-      a: 丹吉爾渡輪駛離港口約 3-5 公里後，摩洛哥網路訊號逐漸減弱，15 分鐘後完全消失。建議在離港前下載離線地圖和娛樂內容，並關閉行動數據以避免漫遊費用。抵達西班牙後可手動切換至當地網路。
-  - id: faq-hotels
-    icon: hotel
-    tab_title: 住宿
-    title: 在 摩洛哥 的飯店使用 摩洛哥 eSIM 連線
-    questions:
-    - q: 在馬拉喀什的 Riyad 傳統庭院旅館中，eSIM 訊號如何？
-      a: 多數 Riyad 旅館位於老城區巷弄內，建築厚牆可能削弱訊號。馬拉喀什的 La Sultana 或 Riad Fes 等旅館提供免費 Wi-Fi 補償，但 eSIM 在庭院開闊處仍有 4G 覆蓋，速度約 10-20 Mbps。建議要求旅館安排面向街道的房間以獲得更好訊號。
-    - q: 入住卡薩布蘭卡四季酒店時，eSIM 和飯店 Wi-Fi 哪個更快？
-      a: 卡薩布蘭卡四季酒店的免費 Wi-Fi 下載速度約 50-80 Mbps，優於 eSIM 的 30-50 Mbps。但 eSIM 提供行動便利，適合戶外使用。建議在房間內優先使用 Wi-Fi，外出時切換 eSIM。
-    - q: 在菲斯嘉爾瑪瑙酒店，使用 eSIM 進行視訊會議是否順暢？
-      a: 菲斯嘉爾瑪瑙酒店的房間 eSIM 訊號良好，下載速度約 25-40 Mbps，視訊會議（如 Zoom）順暢。但多人同時使用時可能擁擠，建議在會議前測試網速。若信號不穩，可移至大廳或使用飯店有線網路。
-    - q: 在索維拉的海邊飯店，eSIM 連線到 Orange 網路穩定嗎？
-      a: 索維拉海邊飯店多數區域有 Orange 4G 覆蓋，但風大時信號可能波動，速度約 15-30 Mbps。建議選擇高樓層房間並面向內陸以獲得穩定訊號。使用隨身風扇或移動電源時，避免靠近金屬物體。
-    - q: 在摩洛哥的沙漠營地（如梅爾祖卡）住宿時，eSIM 還有訊號嗎？
-      a: 梅爾祖卡沙漠營地通常有 Maroc Telecom 的 2G/3G 訊號，速度約 0.5-2 Mbps，僅供基本通訊和文字訊息。營地常提供衛星 Wi-Fi，但收費較高。建議在進入沙漠前下載離線地圖，並準備實體地圖備用。
-    - q: 在拉巴特的飯店使用 eSIM 時，如何避免飯店牆壁阻擋訊號？
-      a: 拉巴特飯店（如 View Hotel）多使用混凝土牆，建議靠近窗戶或前往陽台使用。若訊號弱，可切換運營商至 inwi，有時在特定頻段較佳。房間內可將手機置於 1 公尺以上高度，並避免金屬家具遮蔽。
-  - id: faq-attractions
-    icon: landmark
-    tab_title: 景點
-    title: 摩洛哥 旅遊景點的網路：摩洛哥 eSIM
-    questions:
-    - q: 在馬拉喀什的巴伊亞宮參觀時，eSIM 能否幫助你獲得語音導覽？
-      a: 巴伊亞宮提供免費語音導覽 App，透過 eSIM 下載僅需 2-3 分鐘（約 50 MB）。宮內訊號良好，全程可以使用。建議自備耳機，並在入口處掃描 QR 碼。
-    - q: 在菲斯皮革染坊參觀時，eSIM 上傳照片的速度如何？
-      a: 菲斯皮革染坊周邊訊號較強，使用 Orange 或 Maroc Telecom 上傳照片至社群媒體速度約 5-10 Mbps。由於色彩鮮豔，照片大小約 5-8 MB，上傳需 4-8 秒。建議避開中午尖峰時段以獲得最佳速度。
-    - q: 在卡薩布蘭卡哈桑二世清真寺拍照打卡，eSIM 的網路穩定嗎？
-      a: 哈桑二世清真寺廣場訊號極佳，eSIM 下載速度達 40-60 Mbps，上傳 Instagram 限時動態即時完成。建議使用 HDR 模式拍攝並分享，但需注意數據用量（約 10 MB/張）。廣場周邊的免費 Wi-Fi 較慢，建議使用
-        eSIM。
-    - q: 在拉巴特的哈桑塔遺址，使用 eSIM 查詢歷史資訊方便嗎？
-      a: 哈桑塔廣場有 Maroc Telecom 強訊號，查詢維基百科或 Google Arts & Culture 流暢。透過 eSIM 開啟擴增實境 App 可疊加歷史影像，但需 20-30 MB 下載。建議提前下載離線資料以節省流量。
-    - q: 在丹吉爾的斯巴特爾角（Cap Spartel）觀看大西洋與地中海交匯時，eSIM 訊號如何？
-      a: 斯巴特爾角位於山頂，訊號良好，下載速度約 20-30 Mbps。適合進行 Facebook 直播與朋友分享美景，但海風可能影響收音。建議使用外接麥克風或風罩。
-  - id: faq-social
-    icon: smartphone
-    tab_title: 社交媒體
-    title: 透過 摩洛哥 eSIM 在 摩洛哥 使用通訊軟體和社群網站
-    questions:
-    - q: 在摩洛哥使用 Instagram 時，eSIM 的上傳速度在馬拉喀什廣場是否足夠？
-      a: 在馬拉喀什 Jemaa el-Fnaa 廣場，上傳 Instagram 照片至 Storie 的速度約 5-8 Mbps。人潮密集時可能降至 3-5 Mbps，但 1080p 影片仍可順暢上傳。建議避開晚上 21:00 後的高峰時段。
-    - q: 去摩洛哥旅行需要多少數據量？
-      a: 輕度使用者(地圖+訊息)約300MB/天，中度(社群+照片)約700MB/天，重度(串流+視訊)選擇無限方案。大多數旅客在摩洛哥標準行程中選擇5GB/15天已足夠。
-    - q: 在摩洛哥使用 WhatsApp 通話時，哪家運營商提供最低延遲？
-      a: Maroc Telecom 和 Orange 在卡薩布蘭卡和拉巴特均提供低延遲，約 40-60 毫秒。但 inwi 在部分郊區延遲較高（約 80-100 毫秒）。建議優先選擇 Maroc Telecom 以獲得最佳通話品質。
-    - q: 在菲斯使用 Facebook Messenger 視訊通話，eSIM 是否支援 HD 畫質？
-      a: 菲斯舊城區的 Maroc Telecom 網路支援 HD 視訊，但若多人使用公共 Wi-Fi 可能降為 SD。切換到 eSIM 並選擇 inwi 可維持 720p 畫質。建議在藍門附近進行通話以獲得最佳訊號。
-    - q: 在摩洛哥使用 Snapchat 發送影片時，eSIM 的上傳速度是否夠快？
-      a: 在馬拉喀什新城區，上傳 10 秒 1080p 影片僅需 5-8 秒，下載速度約 30 Mbps。但在山區旅遊時，速度可能降至 5 Mbps，上傳時間延長。建議在飯店或穩定區域進行上傳。
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: 緊急情況
-    title: 在 摩洛哥 使用 摩洛哥 eSIM 進行緊急聯絡
-    questions:
-    - q: 在摩洛哥如何撥打緊急電話？需要解鎖手機或使用 eSIM 嗎？
-      a: 撥打緊急電話（警察 19，救護車/消防 15）無需解鎖手機或 SIM 卡，即使無信用額度或無 eSIM 數據也可撥打。但建議確保 eSIM 啟用以協助定位。
-    - q: 在摩洛哥遇到交通事故時，如何使用 eSIM 尋求幫助？
-      a: 若發生交通事故，先確保安全，再撥打緊急電話。使用 eSIM 連接到 Google Maps 分享精確位置。告知接線員事故地點、受傷人數及車牌資訊。建議在手機中預存當地緊急聯絡人。
-    - q: 在沙漠中迷路時，eSIM 仍有訊號嗎？該如何應對？
-      a: 沙漠深處（如撒哈拉）僅有 Maroc Telecom 的 2G 訊號，無法上網但可撥打語音電話。建議帶衛星電話作為備用，並在出發前下載離線地圖。若迷路，留在原地並嘗試撥打緊急電話。
-    - q: 在卡薩布蘭卡市區錢包被偷後，如何用 eSIM 凍結信用卡？
-      a: 立即使用 eSIM 連接到銀行 App 鎖定卡片，或撥打信用卡背面電話。例如，摩洛哥 CIH Bank 客服中心為 0800 100 100。同時撥打警察緊急電話報案，並使用 eSIM 導航至最近警局。
-    - q: 在摩洛哥生病時，如何用 eSIM 找到最近的醫院？
-      a: 使用 eSIM 在 Google Maps 搜尋臨近醫院，卡薩布蘭卡推薦 Cheikh Khalifa 醫院（24 小時急診）。點擊醫院電話可直接撥打。若網路不佳，可發送簡訊給領事館尋求協助。
-    - q: 在摩洛哥因抗議活動被困時，eSIM 能否幫助聯繫外界？
-      a: 大型抗議活動時，政府可能關閉部分網路。eSIM 仍可嘗試漫遊至其他運營商（如 Orange 或 inwi）。建議事先下載離線地圖和重要聯絡人資訊。同時保持低調，避免直播。
+    - q: 去摩洛哥想辦eSIM但又怕買貴，大概多少預算才夠？
+      a: Roami 摩洛哥 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Maroc Telecom在摩洛哥市區5G網速約100-300Mbps，看1080p影片沒問題。去摩洛哥機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到摩洛哥後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+    - q: 去摩洛哥玩辦eSIM，Roami會自動切換Maroc Telecom、Orange、Inwi的網路嗎？
+      a: 摩洛哥主要有Maroc Telecom、Orange、Inwi。Maroc Telecom市區下載快、基地台密集。Orange郊區覆蓋廣，會去郊區的話選Orange路線較有保障。Inwi價格親民，適合預算有限的旅客。摩洛哥4G為主，5G於卡薩布蘭卡等城市開通。不過Roami會自動切換到當前訊號最強的網路。市區用Maroc Telecom，移動到郊區若Maroc Telecom訊號變弱就自動跳Orange或Inwi，完全不用手動選。
+    - q: 如果出發前忘記先辦好摩洛哥eSIM的認證，到當地才弄來得及嗎？
+      a: 需要的。摩洛哥預付卡需KYC認證，需提供護照。很多人不知道這規定，到了摩洛哥機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。摩洛哥4G為主，5G於卡薩布蘭卡等城市開通。完成後到摩洛哥開數據漫遊就能直接用。不支援eSIM可租WiFi機。
+    - q: 摩洛哥主要市區和偏遠鄉村的網路覆蓋差距大嗎？
+      a: 摩洛哥的Maroc Telecom等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。摩洛哥4G為主，5G於卡薩布蘭卡等城市開通。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
+    - q: 摩洛哥eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
+      a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 跟旅伴一起去摩洛哥，買一張eSIM開熱點分享夠兩個人用嗎？
+      a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
 related_products:
   title: 類似 摩洛哥 eSIM 的旅行方案
   items:
@@ -540,4 +435,84 @@ related_products:
     price: От 1,99 $
     is_highlight: false
     slug: philippines-esim
+
+# =============== 100% 完整復原：基於數據的比較模組 ===============
+market_analysis:
+  title: "eSIM 或預付 SIM 卡在 摩洛哥 的直接比較"
+  subtitle: "摩洛哥當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
+  citation:
+    text: "資料來源：Prepaid Data SIM Card Wiki (Morocco) + 當地電信商官網"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Morocco"
+  table_headers:
+    - "比較矩陣"
+    - "當地預付 SIM 卡（市場數據）"
+    - "Roami eSIM 給 摩洛哥"
+  table_rows:
+    - icon: "store"
+      title: "取得與啟用"
+      prepaid_title: ""
+      prepaid_desc: "Maroc Telecom 的 SIM 卡購買和數據包開通往往非常複雜，首次激活需撥打 888 並遵循法語或阿拉伯語的語音提示，整個流程約需 30 分鐘。"
+      esim_title: "即時數位配送"
+      esim_desc: "避開 Maroc Telecom 門市排隊與 30 分鐘的激活流程，抵達摩洛哥後一分鐘內線上啟用 eSIM，無需撥打 888 或面對法語語音提示。"
+    - icon: "id-card"
+      title: "KYC 與護照登記"
+      prepaid_title: ""
+      prepaid_desc: "購買 Maroc Telecom、Orange 和 Inwi 的預付 SIM 卡時均需出示護照進行實名登記。"
+      esim_title: "免護照登記"
+      esim_desc: "無需像在 Orange 或 Inwi 門市那樣出示護照，Roami eSIM 完全跳過 KYC 流程，保護個人隱私。"
+    - icon: "globe"
+      title: "國際漫遊"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。"
+      esim_title: "全球漫遊無憂"
+      esim_desc: "不同於鎖定單一運營商（如 Inwi 在偏遠地區信號弱），Roami eSIM 可動態接入 Maroc Telecom、Orange 和 Inwi 三大網絡，確保在阿特拉斯山脈等地仍有連線。"
+    - icon: "calendar-xmark"
+      title: "計費週期與浪費成本"
+      prepaid_title: ""
+      prepaid_desc: "Maroc Telecom 的 50 DHS 方案提供 5GB 數據，有效期 30 天；對於僅停留 5-7 天的遊客，購買 30 天套餐意味著超過 70% 的流量和資金被浪費。"
+      esim_title: "彈性方案省錢"
+      esim_desc: "與 Maroc Telecom 的 30 天週期（50 DHS/5GB）不同，Roami 提供 7 天方案，最低 1.99 美元/GB，避免超過 70% 的浪費。"
+    - icon: "wifi"
+      title: "熱點分享與速度政策"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。"
+      esim_title: "無限熱點分享"
+      esim_desc: "Roami eSIM 支援熱點分享，無每日高速流量上限（對比 Inwi 每日 400MB 後降速至 128 kbps），可自由分享給筆電或旅伴。"
+    - icon: "credit-card"
+      title: "儲值與付款"
+      prepaid_title: ""
+      prepaid_desc: "Maroc Telecom 不允許將話費餘額轉換為數據包，必須通過向 555 發送簡訊代碼外加 *3 的方式專門充值數據額度。"
+      esim_title: "全球付款暢通"
+      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需擔心像 Maroc Telecom 那樣無法將話費餘額轉為數據包的困擾。"
+    - icon: "headset"
+      title: "客戶支援"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。"
+      esim_title: "24/7 中文支援"
+      esim_desc: "Roami 提供 24/7 多語言客戶支援，無需像 Maroc Telecom 那樣面對僅有法語/阿拉伯語的語音選單。"
+
+  # =============== 100% 完整復原：專家評語模組 ===============
+  expert_verdict:
+    title: "eSIM 與預付卡在 摩洛哥 哪個最適合你？"
+    cards:
+      - icon: "wifi"
+        icon_bg: "bg-green-100"
+        icon_color: "text-green-600"
+        title: "無限熱點分享無降速"
+        desc: "<b>Inwi</b> 的純數據套餐每日高速流量上限僅 400MB，超出後降速至 128 kbps。Roami eSIM 支援熱點分享且無每日上限，可自由分享給筆電或旅伴。"
+      - icon: "globe"
+        icon_bg: "bg-purple-100"
+        icon_color: "text-purple-600"
+        title: "跨國旅行無縫銜接"
+        desc: "摩洛哥實體卡在鄰國（如突尼斯、阿爾及利亞）漫遊資費昂貴且可能被限速。Roami eSIM 提供跨國方案，無需換卡，在整個北非地區保持連線。"
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "全球付款方式暢通"
+        desc: "支援 <b>Visa</b>、<b>Mastercard</b>、<b>AMEX</b>、<b>Apple Pay</b>、<b>Google Pay</b>、<b>PayPal</b>。無需像 <b>Maroc Telecom</b> 那樣擔心話費餘額無法轉為數據包，或遭遇雙重收費。"
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "繞過摩洛哥嚴格的護照要求"
+        desc: "在摩洛哥，<b>Maroc Telecom</b>、<b>Orange</b> 和 <b>Inwi</b> 均要求購買預付 SIM 卡時出示護照。Roami eSIM 完全免去 KYC 流程，無需提交個人證件，保護隱私。"
 ---

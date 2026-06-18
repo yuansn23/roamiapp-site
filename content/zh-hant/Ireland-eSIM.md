@@ -377,128 +377,26 @@ activation_steps:
       Vodafone Ireland / Three Ireland 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 愛爾蘭 eSIM指南 2026：方案、覆蓋與秘訣
-  desc: 從都柏林到科克，使用Vodafone Ireland, Three Ireland, Eir保持連線。我們的完整愛爾蘭 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
+  title: 愛爾蘭 eSIM 實名認證教學｜購買安裝完整指南
+  desc: 整理了愛爾蘭 eSIM的愛爾蘭 Vodafone Eir 比較、愛爾蘭 Vodafone 網路覆蓋、愛爾蘭 5G eSIM 方案等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂愛爾蘭上網。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 關於 愛爾蘭 eSIM 的常見問題
+    title: 愛爾蘭 eSIM 實名認證教學｜購買安裝完整指南
     questions:
-    - q: Vodafone Ireland還是Three Ireland在愛爾蘭更好？
-      a: Vodafone Ireland和Three Ireland在愛爾蘭都提供出色的覆蓋範圍。Vodafone Ireland在偏遠地區的覆蓋通常更好，而Three Ireland在城市中提供競爭力的5G速度。對於大多數前往愛爾蘭的旅客來說，兩個網路都能良好運作。
-    - q: 在科克市中心使用eSIM時，Three Ireland的網路覆蓋是否穩定？
-      a: 科克市中心的核心區域，包括聖派翠克街和科克大學醫院附近，Three Ireland的4G/5G覆蓋非常穩定，下載速度通常維持在20-40 Mbps。不過，當你移動到科克市郊的布拉克芬村或靠近科克港的工業區時，訊號可能減弱至3G或偶爾中斷，尤其是在狹窄街道的建築物內。建議在市中心活動時優先使用Three
-        Ireland，而在鄉村旅遊時，eSIM自動切換至Vodafone Ireland以獲得更廣泛的覆蓋。
-    - q: 在戈爾韋的拉丁區使用eSIM時，會遇到網絡瓶頸嗎？
-      a: 戈爾韋的拉丁區是遊客密集區，尤其是在夏季的週末或節日期間，連接Three Ireland或Vodafone Ireland的網路可能出現明顯的塞車。靠近艾爾廣場和戈爾韋教堂附近，尖峰時段下載速度可能降至5-10 Mbps，上傳圖片至社交媒體會稍慢，但文字訊息傳送正常。若要改善體驗，建議避開下午2-4點的高峰期，或移動至戈爾韋大教堂旁的蔭蔽街道，那裡的基站負載較輕，速度可回升至15-25
-        Mbps。
-    - q: 在利默里克市的香農機場使用eSIM，從著陸到連接網路需要多久？
-      a: 當你抵達香農機場並降落後，eSIM會在大約2-3分鐘內自動註冊到Vodafone Ireland或Three Ireland的網路。建議你在出發前就安裝好eSIM，並確認「數據漫遊」選項已開啟。如果你在航站樓行李提取區未即時連線，可手動選取網路，通常選擇Vodafone
-        Ireland會獲得最穩定的訊號。根據經驗，從下飛機到開啟地圖導航，全程約需5-7分鐘。
-    - q: 在愛爾蘭使用eSIM時，每日超過500MB後的降速政策如何？實際體驗是什麼？
-      a: 多數愛爾蘭eSIM方案（如包含Vodafone Ireland或Three Ireland的線路）有公平使用政策，典型為每天使用500MB後，速度降為2 Mbps。在實測中，降速後仍可流暢傳送WhatsApp訊息、查詢地圖（如Google
-        Maps）及聆聽低音質音樂串流。然而，觀看YouTube 720p影片可能出現緩衝，建議下載離線地圖以備不時之需。降速可透過手動切換至另一家運營商來緩解，但並非所有eSIM都允許手動選擇。
-    - q: 在基拉尼國家公園使用eSIM，Eir網路的覆蓋範圍如何？
-      a: 基拉尼國家公園內的Eir網路覆蓋主要集中在遊客中心和馬克羅斯教堂附近，下載速度約10-20 Mbps。當你深入公園步道，例如靠近托克瀑布或下湖東岸時，訊號可能逐漸減弱至無服務。建議在進入公園前下載離線地圖，並確保eSIM支援自動切換至Vodafone
-        Ireland（覆蓋較廣）。多數情況下，在公園入口處就能穩定連接4G，但進入密林後須降低對網路的期待。
-  - id: faq-airport
-    icon: plane
-    tab_title: 機場
-    title: 愛爾蘭 機場：如何使用 愛爾蘭 eSIM
-    questions:
-    - q: 我能在抵達後立即啟用愛爾蘭 eSIM嗎？
-      a: 可以，您抵達後就能立即啟用愛爾蘭 eSIM。使用機場免費WiFi，從Email掃描QR碼，2分鐘內即可上線。我們建議在出發前先安裝好eSIM。
-    - q: 在科克機場使用eSIM，哪個營運商訊號最強？
-      a: 科克機場的訊號測試顯示，Vodafone Ireland在航站樓內提供最穩定的4G/5G連接，下載速度約30-50 Mbps；Three Ireland的訊號也良好，但偶爾在候機室角落會降至3G。從下機到過海關後，建議手動選擇Vodafone
-        Ireland以確保導航和叫車應用程式（如Free Now）正常運作。
-    - q: 在香農機場降落後，eSIM能立即使用Google Maps導航至利默里克市中心嗎？
-      a: 是的，香農機場的Vodafone Ireland和Three Ireland網路覆蓋完善，通常降落後幾分鐘內即可連線。使用eSIM導航時，Google Maps能在5-10秒內載入路線，且語音導航無延遲。建議在啟用後先關閉其他後台應用程式以節省數據，特別是當你使用每日低數據流量方案時。
-    - q: 從都柏林機場搭計程車到市中心，eSIM網路穩定嗎？
-      a: 從都柏林機場經由M1和M50高速公路前往市中心的路段，Vodafone Ireland和Three Ireland的4G/5G覆蓋極為穩定，全程約30分鐘的車程中未發現斷訊。即使在通過隧道時（如都柏林港隧道），訊號仍能維持3G以上，導航和音樂串流皆不受影響。建議在乘車前下載離線地圖作為備用，但實際上很少需要。
-    - q: 在都柏林機場免稅店使用eSIM進行行動支付，安全性如何？
-      a: 在機場免稅店使用Apple Pay或Google Pay綁定eSIM數據網路時，Vodafone Ireland的4G/5G網路提供低延遲的安全連線，交易通常在2秒內完成。由於eSIM的數位身份驗證，支付過程比公共Wi-Fi更安全，因為數據不經由共享熱點。建議在支付時確認藍牙已關閉以防止干擾。
-  - id: faq-transport
-    icon: car
-    tab_title: 交通
-    title: 愛爾蘭 eSIM 用於 愛爾蘭 的交通和導航
-    questions:
-    - q: 我能在愛爾蘭使用eSIM叫車和導航嗎？
-      a: 可以，愛爾蘭 eSIM可搭配叫車App和Google地圖使用。5GB/15天方案($4.99)足夠日常導航和叫車使用。
-    - q: 在愛爾蘭駕駛自駕車時，eSIM能否用於導航和交通資訊？
-      a: 可以，eSIM支援Google Maps、Waze等導航應用程式，全程提供即時交通路況。例如從都柏林前往莫赫懸崖的M6公路上，Vodafone Ireland網路覆蓋率達到98%，僅在少數鄉村路段（如戈爾韋郡的偏遠小徑）出現短暫斷訊。導航每小時約消耗5-10MB數據，搭配每日500MB方案綽綽有餘。建議出發前下載離線地圖以備不時之需。
-    - q: 在都柏林搭乘Luas輕軌，eSIM網路在地下段是否中斷？
-      a: 都柏林Luas輕軌的紅線和綠線大部分路段為路面行駛，僅在市中心某些地下站（如聖史蒂芬綠地站）會短暫失去訊號約10-20秒，但出站後立即恢復。Three Ireland的網路在這些隧道段表現較好，偶爾能維持3G連線。整體而言，通勤途中聽音樂或使用社群媒體幾乎不受影響，但建議不要在地下區段進行視訊通話。
-    - q: 在科克搭乘巴士前往布拉尼城堡，沿線eSIM訊號如何？
-      a: 從科克市中心搭乘215號巴士前往布拉尼城堡，沿途經由R639公路，Vodafone Ireland的4G覆蓋良好，全程約30分鐘車程中，僅在穿越鄉村農田時速度降至3G（約5-8 Mbps），但仍然可以載入網頁和傳送訊息。靠近布拉尼城堡時訊號恢復4G，可順利使用導航。建議在巴士上避免串流影片，以節省數據並確保即時通訊暢通。
-    - q: 在愛爾蘭使用eSIM預訂跨城火車（Irish Rail）是否方便？
-      a: 使用eSIM透過Irish Rail應用程式或網站訂票非常順暢，Vodafone Ireland的4G/5G網路在都柏林連線至科克、利默里克等主要路線的火車上覆蓋穩定。例如，在都柏林休斯頓車站加載應用程式的時間約3-5秒，支付過程快速。但在某些隧道區段（如都柏林至科克途中的滑鐵盧附近）可能短暫斷線約30秒，建議先完成訂票或出示電子票券。
-  - id: faq-hotels
-    icon: hotel
-    tab_title: 住宿
-    title: 在 愛爾蘭 的飯店使用 愛爾蘭 eSIM 連線
-    questions:
-    - q: 在都柏林市中心的飯店使用eSIM，可以替代飯店Wi-Fi嗎？
-      a: 是的，都柏林許多高檔飯店例如都柏林麗思卡爾頓飯店或歐羅酒店，雖然提供免費Wi-Fi，但連線速度常因多人共用而不穩定。使用eSIM連接到Vodafone Ireland的網路，可獲得專屬的4G/5G頻寬，適合進行視訊會議或串流4K影片。不過，若你選擇低容量數據方案，每日500MB後的降速可能影響體驗，建議視需求選購合適的數據包。
-    - q: 在基拉尼的飯店使用eSIM，網路訊號是否充足？
-      a: 基拉尼市區的飯店例如基拉尼公園飯店，eSIM連接到Three Ireland網路的室內訊號通常為4G全滿，下載速度約15-25 Mbps。但在飯店地下室或老舊建築的石牆房間，訊號可能降至3G或微弱。建議在入住時選擇高樓層或靠近窗戶的房間，並透過飯店提供的Wi-Fi輔助，特別是在夜間用網高峰時段。
-    - q: 在莫赫懸崖附近的民宿使用eSIM，網路覆蓋是否足夠？
-      a: 莫赫懸崖附近的民宿例如Vaughan Lodge或Sheedy's Country House，由於地處偏遠鄉村，eSIM依賴Vodafone Ireland的3G/4G網路。白天在公共區域通常有4G訊號，但傍晚後可能出現降速。建議在日落前下載次日行程和地圖，並考慮啟用數據節省模式。若民宿提供Wi-Fi，可作為備用連線。
-    - q: 在都柏林飯店使用eSIM進行線上值機，是否穩定？
-      a: 在都柏林的多數飯店（如InterContinental Dublin），eSIM的Vodafone Ireland網路連線非常可靠，線上值機和選擇座位過程僅需2-3MB數據，且無明顯延遲。即使飯店Wi-Fi負載較高，eSIM的獨立通道可確保操作順利完成。建議在辦理入住前後進行操作，避免在晚間大廳人多時段使用。
-    - q: 在鄧萊裡（Dun Laoghaire）的飯店使用eSIM，海邊區域訊號如何？
-      a: 鄧萊裡海濱的飯店例如海員俱樂部，eSIM連接到Three Ireland的4G網路表現良好，戶外碼頭區下載速度約20-30 Mbps，適合視訊通話。但當你走進飯店內部的鋼筋混凝土結構時，訊號可能衰減至3G。建議在陽台或窗邊使用，以獲得最佳網路體驗。
-    - q: 在都柏林青年旅館使用eSIM，多人共享環境下速度會受影響嗎？
-      a: 青年旅館的公共Wi-Fi通常因過多人使用而擁堵，但eSIM是獨立蜂巢式網路，不受他人流量影響。在都柏林的Generator Hostel或Abbey Court Hostel，Vodafone Ireland的4G/5G訊號強勁，即使在尖峰時段，下載速度仍可維持15-30
-        Mbps。不過，如果你是低容量方案，需留意每日公平使用限制。
-  - id: faq-attractions
-    icon: landmark
-    tab_title: 景點
-    title: 愛爾蘭 旅遊景點的網路：愛爾蘭 eSIM
-    questions:
-    - q: 在莫赫懸崖使用eSIM，社交媒體上傳照片順暢嗎？
-      a: 莫赫懸崖遊客中心附近有Vodafone Ireland的4G覆蓋，上傳一張高解析度照片到Instagram約需5-10秒，但若當日訪客眾多，速度可能下降。沿著懸崖步道走動時，訊號有時會減弱，但步道起點與瞭望點通常可正常連線。建議在中午光線最佳時快速上傳，或使用離線編輯功能後一次發布。
-    - q: 在都柏林聖三一學院圖書館使用eSIM，能順暢瀏覽凱爾斯之書的數位導覽嗎？
-      a: 聖三一學院圖書館內的舊圖書館區域，由於建築層厚且遊客密集，eSIM的Three Ireland網路可能略為緩慢，載入數位導覽頁面約需10-15秒。不過，在圖書館入口處的庭院內，Vodafone Ireland的4G訊號較佳，建議先在戶外載入導覽內容，再進入館內離線使用。展廳內部也提供免費Wi-Fi可作為備用。
-    - q: 在健力士啤酒展覽館使用eSIM打卡，網路擁擠嗎？
-      a: 健力士啤酒展覽館的頂層重力酒吧是熱門打卡點，下午時段人潮眾多，Vodafone Ireland的4G網路可能出現輕微減速，上傳照片約需10-15秒。建議避開週末下午2-4點的高峰，或使用展館免費Wi-Fi（需註冊）。在較低樓層的展廳，網路通常更順暢。
-    - q: 在科克的英國市場使用eSIM分享美食照片，訊號如何？
-      a: 英國市場室內攤位林立，屋頂金屬結構可能遮蔽部分訊號，Three Ireland的4G網路在下載社群應用時載入略慢，但上傳文字動態尚可。市場外的聖派翠克街訊號強勁，下載速度達20-40 Mbps，建議走出市場後再發布高畫質照片。
-    - q: 在戈爾韋的克萊登城堡使用eSIM，導至附近海灘的導航順暢嗎？
-      a: 從克萊登城堡步行至附近的銀線海灘，Vodafone Ireland的4G網路在戶外空曠區域表現優異，Google Maps導航無間斷，即時路線更新僅需1-2秒。城堡周圍的停車場也是良好連線點。不過，進入城堡內部參觀時，石牆可能削弱訊號，建議在戶外下載好導航路線。
-  - id: faq-social
-    icon: smartphone
-    tab_title: 社交媒體
-    title: 透過 愛爾蘭 eSIM 在 愛爾蘭 使用通訊軟體和社群網站
-    questions:
-    - q: 在愛爾蘭使用eSIM，WhatsApp語音通話的清晰度如何？
-      a: 在都柏林、科克等主要城市，透過Vodafone Ireland的4G網路進行WhatsApp語音通話，音質清晰無回音，延遲低於200毫秒。即使在利默里克等中等城市，連接到Three Ireland時，通話質量依然穩定。但在地下室或建築物深處（例如都柏林聖殿酒吧的一些老酒館），可能出現雜音，建議移至戶外通話。
-    - q: 在愛爾蘭使用eSIM，能在Facebook或Instagram直播嗎？
-      a: 可以直播，尤其是在都柏林的O'Connell Street或戈爾韋的艾爾廣場等戶外地點，Vodafone Ireland的5G網路可確保720p直播流暢，延遲約2-3秒。但若你位於科克的English Market室內，由於遊客眾多，直播可能偶爾卡頓，建議切換至480p解析度。鄉村地區如莫赫懸崖附近，3G訊號下僅能進行音訊直播。
-    - q: 在愛爾蘭使用eSIM，上傳短影音到TikTok是否快速？
-      a: 在都柏林市中心，使用Three Ireland的4G網路，上傳一部30秒的TikTok影片（約50MB）大約需要15-25秒。但在利默里克大學校園附近，由於使用量較低，上傳速度可縮短至10秒內。透過eSIM的穩定連線，上傳過程鮮少中斷。建議在Wi-Fi環境下完成高畫質影片剪輯，再透過行動網路發布。
-    - q: 在愛爾蘭使用eSIM，能無限制使用Snapchat或Instagram嗎？
-      a: 可以，但需注意你的eSIM數據方案。多數旅遊eSIM（如30天30GB方案）提供充足流量，全天候使用Snapchat和Instagram（包括瀏覽限時動態和發送訊息）非常順暢。不過，若你使用每日500MB後的降速方案，在每日後期載入高畫質圖片可能變慢。建議在降速前完成大量上傳，並利用飯店Wi-Fi分流。
-    - q: 在愛爾蘭偏遠地區使用eSIM，如何確保社交媒體訊息即時送達？
-      a: 在愛爾蘭西部偏遠區域如科克郡的鄉村教堂，Three Ireland的網路可能覆蓋不佳，訊息可能延遲5-10分鐘發送。建議手動選擇Vodafone Ireland作為備用網路，並開啟即時推播通知。也可在進入偏遠區前預載社交應用程式，利用離線回覆功能，待訊號恢復時自動同步。
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: 緊急情況
-    title: 在 愛爾蘭 使用 愛爾蘭 eSIM 進行緊急聯絡
-    questions:
-    - q: 在愛爾蘭發生緊急情況，透過eSIM撥打112與傳統SIM卡有差別嗎？
-      a: 沒有差別，eSIM與傳統SIM卡一樣，在任何網路覆蓋下（包括漫遊狀態）都能撥打112或999緊急電話，且優先級高於數據服務。即使你無有效數據方案或sim卡被鎖定，只要手機有電且覆蓋任何可用網路（不限於本地運營商），緊急呼叫即可接通。在都柏林郊區，接聽時間約5-10秒，應急服務中心能準確定位你的大致位置。
-    - q: 在莫赫懸崖附近不慎受傷，eSIM能否協助你與救援單位聯繫？
-      a: 是的，莫赫懸崖的遊客中心附近有Vodafone Ireland的4G訊號，你可以撥打112並聯繫海岸警衛隊或救護車。若你身處懸崖步道中段且訊號微弱，可嘗試升高手機（如舉起手臂）以獲取3G訊號。建議在出發前將eSIM的數據優先設定為語音通話，並且保存救援單位的備用聯繫方式至離線文件。
-    - q: 在都柏林夜間活動時錢包被偷，如何利用eSIM快速掛失信用卡？
-      a: 立即透過eSIM網路撥打你的銀行緊急掛失電話（如用WhatsApp連線至銀行客服），都柏林市中心通常有穩定的4G/5G訊號。你也可以使用手機上的銀行應用程式，透過eSIM連線鎖定卡片，過程僅需1-2分鐘。建議事先將銀行客服電話儲存在通訊簿中，並開啟裝置的遠端定位功能以防萬一。
-    - q: 在愛爾蘭自駕遊時遇上車禍，eSIM能否幫助你導航至最近醫院？
-      a: 可以，eSIM的網路（如Vodafone Ireland）在主要公路M4、M7等路段覆蓋良好，Google Maps能即時導航至最近的急診室（如都柏林的聖詹姆斯醫院）。即使你身處偏遠的康尼馬拉區，多數地區仍有3G訊號可傳送位置與求救訊息。建議事先下載離線醫療資源圖層。
-    - q: 在愛爾蘭花粉症發作，如何透過eSIM找到藥房？
-      a: 使用eSIM連線Google Maps搜尋“pharmacy”，在都柏林每500公尺內至少有一間藥房（如Boots或LloydsPharmacy），導航精確至門口。同樣的流程適用於科克、戈爾韋等城市，即使在利默里克郊區，訊號也足以載入搜尋結果。建議在抵達台灣前先安裝當地醫療應用程式（如Health
-        Service Executive App）。
-    - q: 在都柏林的Temple Bar區域遺失護照，eSIM能協助什麼？
-      a: eSIM網路讓你能迅速撥打中國大使館（或你的國家駐愛爾蘭大使館）的領事保護電話，同時使用地圖導航至附近的警局（如都柏林警察局Kilmainham分區）。你可以透過eSIM的數據功能查找補辦護照的所需文件清單，並預約領事服務時間。建議在遺失現場保持冷靜，優先凍結銀行卡。
+    - q: 到愛爾蘭玩幾天而已，eSIM有沒有比較不貴的方案？
+      a: Roami 愛爾蘭 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Vodafone在愛爾蘭市區5G網速約100-300Mbps，看1080p影片沒問題。去愛爾蘭機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到愛爾蘭後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+    - q: 到愛爾蘭旅遊想用eSIM，Vodafone、Eir、Three哪家網路比較穩？
+      a: 愛爾蘭主要有Vodafone、Eir、Three。Vodafone市區下載快、基地台密集。Eir郊區覆蓋廣，會去郊區的話選Eir路線較有保障。Three價格親民，適合預算有限的旅客。愛爾蘭5G使用n78頻段，都柏林等城市覆蓋。不過Roami會自動切換到當前訊號最強的網路。市區用Vodafone，移動到郊區若Vodafone訊號變弱就自動跳Eir或Three，完全不用手動選。
+    - q: 如果去愛爾蘭會大量使用網路，是不是直接辦吃到飽比較省事？
+      a: Roami吃到飽有公平使用原則：一天超過30GB降為512kbps，午夜恢復。512kbps還能傳LINE、查地圖、瀏覽網頁，但看影片會卡。一般旅客每天用量約500MB-3GB，要達30GB幾乎不可能。愛爾蘭5G使用n78頻段，都柏林等城市覆蓋。Roami在愛爾蘭連上Vodafone的網路，網速穩定。如果怕降速可選10GB/$14.99或20GB/$24.99定量方案。建議飯店用WiFi下載劇集，出門eSIM打卡導航。
+    - q: 有人說去愛爾蘭辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
+      a: 需要的。愛爾蘭預付卡需KYC認證，需提供護照。很多人不知道這規定，到了愛爾蘭機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。愛爾蘭5G使用n78頻段，都柏林等城市覆蓋。另外Vodafone的頻段可能跟手機不完全吻合，認證過了速度也可能受影響。完成後到愛爾蘭開數據漫遊就能直接用。不支援eSIM可租WiFi機。
+    - q: 在愛爾蘭的郊區或小鎮也能正常使用eSIM嗎？查地圖導航會不會斷？
+      a: 愛爾蘭的Vodafone等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。愛爾蘭5G使用n78頻段，都柏林等城市覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
+    - q: 出國去愛爾蘭用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
+      a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到愛爾蘭開數據漫遊就用。
 related_products:
   title: 類似 愛爾蘭 eSIM 的旅行方案
   items:
@@ -562,4 +460,84 @@ related_products:
     price: От 1,99 $
     is_highlight: false
     slug: philippines-esim
+
+# =============== 100% 完整復原：基於數據的比較模組 ===============
+market_analysis:
+  title: "eSIM 與預付卡在 愛爾蘭 哪個性價比更高？"
+  subtitle: "愛爾蘭當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
+  citation:
+    text: "資料來源：Prepaid Data SIM Card Wiki (Ireland) + 當地電信商官網"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Ireland"
+  table_headers:
+    - "比較矩陣"
+    - "當地預付 SIM 卡（市場數據）"
+    - "Roami eSIM 給 愛爾蘭"
+  table_rows:
+    - icon: "store"
+      title: "取得與啟用"
+      prepaid_title: ""
+      prepaid_desc: "Three 的 eSIM 訂購流程要求提供一個愛爾蘭的郵寄地址，且解除成人內容過濾器必須向客服提交護照掃描件，處理時間可能長達 5 天。"
+      esim_title: "即時數位配送"
+      esim_desc: "避開 Three 要求提供愛爾蘭郵寄地址的繁瑣流程，以及 Vodafone 門市排隊激活的等待時間。Roami eSIM 可在抵達前一分鐘內線上完成部署，落地即開機使用，無需任何本地地址或護照掃描。"
+    - icon: "id-card"
+      title: "KYC 與護照登記"
+      prepaid_title: ""
+      prepaid_desc: "Three 和 Vodafone 均預設開啟成人內容過濾器，若要解除 Three 的過濾器，用戶需聯繫客服並提供護照等身份證件的掃描件。"
+      esim_title: "免護照隱私保障"
+      esim_desc: "無需像 Three 那樣提交護照掃描件並等待長達 5 天的審核才能解除內容過濾器。Roami eSIM 完全免 KYC，保護您的個人隱私，即買即用。"
+    - icon: "globe"
+      title: "國際漫遊"
+      prepaid_title: ""
+      prepaid_desc: "Vodafone X 無限套餐在歐盟/歐洲經濟區及英國的漫遊數據量上限為 40 GB；Three 3 Super Surfer 的歐盟/英國漫遊流量上限為 26 GB；eir 50 GB 純流量卡在歐盟漫遊時上限為 27.1 GB。"
+      esim_title: "全球漫遊不縮水"
+      esim_desc: "與 eir 的 50 GB 套餐在歐盟漫遊時縮水至 27.1 GB（減少 46%）不同，Roami eSIM 提供固定數據包，例如 10 GB 方案在愛爾蘭及歐盟各國均為實打實的 10 GB，無 FUP 陷阱，資費透明。"
+    - icon: "calendar-xmark"
+      title: "計費週期與浪費成本"
+      prepaid_title: ""
+      prepaid_desc: "所有主流套餐（Vodafone、Three、eir）均為 28 天固定週期，起步價 €20。對於僅停留 5-7 天的遊客，至少浪費 21 天服務期，產生高達 75% 的沉沒成本。"
+      esim_title: "彈性方案零浪費"
+      esim_desc: "與 Vodafone、Three 和 eir 強制性的 €20/28 天週期不同，Roami 提供 7 天方案，最低 1.99 美元/GB。僅停留一週的遊客可節省 75% 的浪費，只為實際在途天數付費。"
+    - icon: "wifi"
+      title: "熱點分享與速度政策"
+      prepaid_title: ""
+      prepaid_desc: "Vodafone 對熱點分享有極嚴苛限制，條款要求使用特定 APN，否則將被收取 €0.19/MB 的標準費率；Lyca Mobile 明確屏蔽網路熱點分享功能。"
+      esim_title: "無限分享免陷阱"
+      esim_desc: "無需擔心 Vodafone 的 APN 熱點扣費陷阱（€0.19/MB）或 Lyca Mobile 的硬體級熱點封鎖。Roami eSIM 原生支援熱點分享，可同時連接平板和筆電，保留原號碼接收簡訊。"
+    - icon: "credit-card"
+      title: "儲值與付款"
+      prepaid_title: ""
+      prepaid_desc: "Three 網站在線充值明確拒絕國際信用卡，僅接受英國/愛爾蘭卡；用戶若無法買到充值券，SIM 卡將成廢卡。"
+      esim_title: "全球付款無障礙"
+      esim_desc: "克服 Three 線上充值拒絕非愛爾蘭/英國信用卡的致命缺陷。Roami eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，100% 線上交易，無需尋找實體充值券。"
+    - icon: "headset"
+      title: "客戶支援"
+      prepaid_title: ""
+      prepaid_desc: "解除 Three 的內容過濾器需向客服發送郵件並提供身份證件掃描件，處理時間可能長達 5 天。"
+      esim_title: "24/7 即時支援"
+      esim_desc: "無需像 Three 那樣等待長達 5 天的郵件回覆才能解除過濾器。Roami 提供 24/7 全天候客戶支援，隨時解決您的連線問題。"
+
+  # =============== 100% 完整復原：專家評語模組 ===============
+  expert_verdict:
+    title: "eSIM 給 愛爾蘭：更聰明的連線選擇勝過實體 SIM 卡"
+    cards:
+      - icon: "wifi"
+        icon_bg: "bg-green-100"
+        icon_color: "text-green-600"
+        title: "熱點分享無憂無慮"
+        desc: "Vodafone 對熱點分享有極嚴苛限制，使用錯誤 APN 將被收取<b>€0.19/MB</b>；Lyca Mobile 明確<b>禁止熱點分享</b>。Roami eSIM 原生支援熱點分享，可同時連接多台設備，無需擔心額外費用。"
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "繞過 愛爾蘭 嚴格的護照要求"
+        desc: "Three 和 Vodafone 預設開啟成人內容過濾器，解除 Three 的過濾器需向客服提交<b>護照掃描件</b>，處理時間長達<b>5 天</b>。Roami eSIM 完全免 KYC，無需提供任何身份證件，即買即用，保護隱私。"
+      - icon: "globe"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "多國旅行資費透明"
+        desc: "Vodafone 在非歐盟區（如美國）漫遊收費<b>€2.99/200 MB/天</b>；Three 的歐盟漫遊上限僅<b>26 GB</b>。Roami eSIM 提供固定數據包，跨國使用無縮水，資費完全透明。"
+      - icon: "tower-observation"
+        icon_bg: "bg-rose-100"
+        icon_color: "text-rose-600"
+        title: "避免漫遊流量縮水陷阱"
+        desc: "eir 的 €29.99/50 GB 套餐在歐盟漫遊時僅剩<b>27.1 GB</b>（縮水 46%）；Three 的無限流量套餐漫遊上限僅<b>26 GB</b>。Roami eSIM 提供固定數據包，例如 10 GB 方案在愛爾蘭及歐盟各國均為實打實的 10 GB，無 FUP 限制。"
 ---

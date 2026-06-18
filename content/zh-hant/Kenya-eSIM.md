@@ -336,125 +336,26 @@ activation_steps:
       Safaricom / Airtel Kenya 提供的最快可用 5G/4G 網路。您可以立即使用導航、WhatsApp、社群媒體或分享熱點給其他設備 – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 肯亞 eSIM指南 2026：方案、覆蓋與秘訣
-  desc: 從內羅比到蒙巴薩，使用Safaricom, Airtel Kenya, Telkom Kenya保持連線。我們的完整肯亞 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
+  title: 肯亞 eSIM 怎麼買最划算｜方案推薦與注意事項
+  desc: 整理了肯亞 eSIM的肯亞 Safaricom Airtel 比較、肯亞 Safaricom 網路覆蓋、肯亞 Airtel 速度等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂肯亞上網。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 關於 肯亞 eSIM 的常見問題
+    title: 肯亞 eSIM 怎麼買最划算｜方案推薦與注意事項
     questions:
-    - q: 在肯亞的 Safari 區域（如馬賽馬拉）網路覆蓋如何？
-      a: 在馬賽馬拉國家保護區，Safaricom 提供最佳覆蓋，營地附近通常有 4G 訊號，但曠野地區可能只有 2G。如果要分享即時影像，建議啟用熱點分享功能，但需注意 Safari 遊獵時段（如清晨或傍晚）網路較順暢。每日使用超過
-        2GB 後速度可能會降為 128kbps，適合傳送文字訊息，但上傳照片會較慢。
-    - q: Safaricom還是Airtel Kenya在肯亞更好？
-      a: Safaricom和Airtel Kenya在肯亞都提供出色的覆蓋範圍。Safaricom在偏遠地區的覆蓋通常更好，而Airtel Kenya在城市中提供競爭力的5G速度。對於大多數前往肯亞的旅客來說，兩個網路都能良好運作。
-    - q: 在蒙巴薩海灘地區（如迪亞尼海灘）使用eSIM上網穩定嗎？
-      a: 迪亞尼海灘沿線，Safaricom 提供穩定的 4G 覆蓋，速度約 20-40 Mbps，適合視訊串流。但部分度假村如 Serena Beach Resort 的建築物內可能訊號稍弱。建議在沙灘上使用時注意避免手機過熱，且每日超過
-        3GB 後速度可能降為 256kbps，仍可應付社群媒體瀏覽。
-    - q: 從喬莫·肯雅塔國際機場入境後，如何立即啟用eSIM？
-      a: 抵達喬莫·肯雅塔國際機場後，連上機場免費 Wi-Fi（需簡短註冊），掃描 eSIM 兌換碼下載設定檔。Safaricom 在機場第一和第二航廈都有 4G 訊號，啟用後即可使用。建議先在機場內測試通話和網路，若遇到問題可至 Safaricom
-        服務櫃檯尋求協助（位於入境大廳）。
-    - q: 在肯亞使用eSIM進行熱點分享時需要注意什麼？
-      a: 肯亞 eSIM 通常開放熱點分享，但 Safari 區域（如安博塞利）因頻寬有限，分享後每個裝置速度會降低。建議最多分享給 2 台裝置，並關閉自動更新。若在內羅比與朋友共享，選擇 Airtel 網路較不易遇到公平使用限制。
-    - q: 肯亞的eSIM支援5G嗎？哪些區域有5G訊號？
-      a: Safaricom 已在內羅比部分區域如西門購物中心及聯合國總部附近佈建 5G，但覆蓋範圍有限。目前市面上多數 eSIM 僅提供 4G/LTE 服務。抵達肯亞後，若手機支援 5G 且位置在訊號範圍內，eSIM 可自動連線 5G，但可預期穩定度不如
-        4G。
-    - q: 在基蘇木維多利亞湖周邊使用eSIM，哪家運營商最可靠？
-      a: 基蘇木市中心及維多利亞湖濱地區，Safaricom 和 Airtel 都有良好覆蓋，下載速度約 25-35 Mbps。但在湖上乘船遊覽時，訊號可能中斷。建議下載離線地圖備用（如 Google Maps 離線區域）。若在基蘇木國際機場降落，eSIM
-        會自動連接最強訊號的業者。
-    - q: 肯亞eSIM的公平使用政策（FUP）具體內容是什麼？
-      a: 一般來說，每日超過 3GB 後速度會降為 128-256kbps，仍可傳送訊息與瀏覽網頁。但 Safari 區（如馬賽馬拉）的流量計算可能較嚴格。建議觀看影片時事先下載，並關閉自動備份以節省流量。降速後可考慮購買補充流量包。
-  - id: faq-airport
-    icon: plane
-    tab_title: 機場
-    title: 肯亞 機場：如何使用 肯亞 eSIM
-    questions:
-    - q: 我能在抵達後立即啟用肯亞 eSIM嗎？
-      a: 可以，您抵達後就能立即啟用肯亞 eSIM。使用機場免費WiFi，從Email掃描QR碼，2分鐘內即可上線。我們建議在出發前先安裝好eSIM。
-    - q: 蒙巴薩莫伊國際機場（MBA）是否有電信商櫃檯可以購買實體SIM卡？
-      a: 莫伊國際機場入境大廳設有 Safaricom 及 Airtel 櫃檯，可購買預付卡。但排隊時間可能較長，建議提前購買 eSIM 以節省時間。若需要當地號碼，可要求櫃檯協助設定 eSIM。機場外圍咖啡廳也有免費 Wi-Fi。
-    - q: 從內羅比機場到市區途中網路訊號穩定嗎？
-      a: 從喬莫·肯雅塔國際機場沿 Uhuru Highway 前往市中心，Safaricom 與 Airtel 提供全程 4G 覆蓋，但經過工業區時可能短暫降為 3G。建議在車上使用導航或叫車 App，如 Uber，全程順暢。靠近肯雅塔會議中心後訊號恢復穩定。
-    - q: 在機場轉機等待時間長，eSIM流量不足怎麼辦？
-      a: 肯亞 eSIM 通常提供每日足量流量，若不足可透過官方平台加購。機場內也有休息區提供充電插座，方便即時加值。建議先使用機場 Wi-Fi 處理重要工作，保留 eSIM 流量用於行動期間。
-    - q: 埃爾多雷特國際機場（EDL）有無eSIM訊號？
-      a: 埃爾多雷特國際機場規模較小，但 Safaricom 有 4G 覆蓋，啟用 eSIM 後即可使用。若遇到訊號問題，可移至機場入口附近。埃爾多雷特市區網路亦良好，可放心使用。
-  - id: faq-transport
-    icon: car
-    tab_title: 交通
-    title: 肯亞 eSIM 用於 肯亞 的交通和導航
-    questions:
-    - q: 我能在肯亞使用eSIM叫車和導航嗎？
-      a: 可以，肯亞 eSIM可搭配叫車App和Google地圖使用。5GB/15天方案($4.99)足夠日常導航和叫車使用。
-    - q: 蒙巴薩的突突車（Tuk-tuk）收費標準如何？
-      a: 蒙巴薩市區短程突突車費用約 100-300 肯亞先令，從舊城到迪亞尼海灘約 500-800 先令。上車前務必談好價格，避免糾紛。使用 Bolt 叫車 App 可參考建議價格，並以 M-Pesa 支付。
-    - q: 從內羅比到馬賽馬拉有長途巴士嗎？車上網路如何？
-      a: 有許多巴士公司如 EasyCoach 提供內羅比到馬賽馬拉的服務，車程約 5-6 小時。途中經過納羅克時訊號較弱，建議下載影片離線觀看。巴士上通常無 Wi-Fi，需依賴 eSIM 行動網路。
-    - q: 在肯亞自駕遊需要什麼文件？網路導航順暢嗎？
-      a: 自駕需國際駕照及護照，主要道路如 A104 公路網路覆蓋良好。Google Maps 在內羅比及蒙巴薩導航準確，但偏遠保護區內可能無訊號，建議先下載離線地圖。Safaricom 在主要城鎮間的覆蓋較優。
-    - q: 奈瓦沙湖區附近可以租腳踏車嗎？適合用網路查路線嗎？
-      a: 奈瓦沙湖附近有腳踏車出租，費用約 500 肯亞先令/天。湖區周遭網路訊號穩定，可使用地圖導航。但部分湖畔小徑較偏僻，建議提前規劃路線。注意野生動物，避免騎行時靠近水牛區。
-  - id: faq-hotels
-    icon: hotel
-    tab_title: 住宿
-    title: 在 肯亞 的飯店使用 肯亞 eSIM 連線
-    questions:
-    - q: 內羅比塞雷娜酒店提供免費Wi-Fi嗎？速度如何？
-      a: 內羅比塞雷娜酒店提供免費 Wi-Fi，公共區域速度約 10-20 Mbps，客房內可能稍慢。若需穩定網路處理工作，建議使用 eSIM 搭配熱點分享。酒店位於市中心，Safaricom 訊號極佳。
-    - q: 蒙巴薩塞雷娜海灘度假村支援 eSIM 嗎？訊號強度如何？
-      a: 度假村位於迪亞尼海灘，Safaricom 覆蓋良好，eSIM 可使用 4G 網路。海灘區域訊號強度約 20-30 Mbps，但靠近水上活動區域時可能干擾。建議在房間內使用熱點分享，避免金屬屋頂遮蔽。
-    - q: 馬賽馬拉的帳篷營地有網路嗎？
-      a: 高級營地如 Mara Serena Safari Lodge 設有衛星 Wi-Fi，但頻寬有限，主要用於緊急通訊。主流營地通常提供公共區域的免費 Wi-Fi，但速度慢。建議使用 eSIM 搭配 Safaricom 網路，營地帳篷外訊號較佳。
-    - q: 安博塞利國家公園內的旅館網路如何？
-      a: 安博塞利國家公園內的 Amboseli Serena Safari Lodge 提供付費 Wi-Fi，但速度僅足夠發送文字訊息。若需上傳照片，使用 eSIM 接上 Safaricom 4G 網路效果較好，旅館大廳附近訊號最強。
-    - q: 內羅比自助公寓的網路穩定嗎？可以遠距工作嗎？
-      a: 市區如 Westlands 區的自助公寓通常提供光纖 Wi-Fi，下載速度可達 50 Mbps。但若大樓老舊可能訊號不佳，建議自備 eSIM 備用。遠距工作時可關閉視訊背景，節省頻寬。
-  - id: faq-attractions
-    icon: landmark
-    tab_title: 景點
-    title: 肯亞 旅遊景點的網路：肯亞 eSIM
-    questions:
-    - q: 馬賽馬拉國家保護區的網路訊號在旺季會變差嗎？
-      a: 旺季時大量遊客使用網路，Safaricom 基地台可能壅塞，白天觀賞動物時段訊號較慢。建議清晨或傍晚使用網路，避開尖峰。保護區內特定觀景點如馬拉河訊號較佳。
-    - q: 參觀長頸鹿中心時，可以使用 eSIM 分享照片到社群媒體嗎？
-      a: 長頸鹿中心位於內羅比郊區，Safaricom 與 Airtel 皆有 4G 覆蓋，上傳照片順暢。中心內有免費 Wi-Fi，但連接人數多時速度慢。建議使用 eSIM 直接上傳，可即時分享與長頸鹿互動的照片。
-    - q: 在安博塞利國家公園觀賞大象時，網路夠穩定來進行視訊通話嗎？
-      a: 安博塞利國家公園內 Safaricom 網路可支援語音通話，但視訊可能因頻寬不足而延遲。建議在觀賞點如觀景山使用，但避免長時間視訊，以免消耗過多流量。可傳送語音訊息替代。
-    - q: 內羅比國家博物館有免費導覽 App 嗎？需要網路嗎？
-      a: 博物館提供免費 Wi-Fi，可下載官方導覽 App，但使用時需連網。館內部分展區訊號較弱，建議在入口處預先載入內容。eSIM 在館內可使用，但建築物厚牆可能影響訊號。
-    - q: 蒙巴薩耶穌堡附近適合用手機打卡嗎？網速如何？
-      a: 耶穌堡位於蒙巴薩舊城區，Safaricom 提供穩定 4G 訊號，打卡上傳照片沒問題。但舊城區巷道狹窄，靠近港區時可能訊號稍弱。建議在堡壘高處使用網路，視野開闊訊號佳。
-  - id: faq-social
-    icon: smartphone
-    tab_title: 社交媒體
-    title: 透過 肯亞 eSIM 在 肯亞 使用通訊軟體和社群網站
-    questions:
-    - q: 在肯亞使用 WhatsApp 通話或視訊需要額外付費嗎？
-      a: eSIM 流量方案可正常使用 WhatsApp 通話，視訊每分鐘約消耗 5-10 MB。在 Safari 區建議使用語音通話以節省流量。M-Pesa 也支援 WhatsApp 查詢餘額，相當方便。
-    - q: 去肯亞旅行需要多少數據量？
-      a: 輕度使用者(地圖+訊息)約300MB/天，中度(社群+照片)約700MB/天，重度(串流+視訊)選擇無限方案。大多數旅客在肯亞標準行程中選擇5GB/15天已足夠。
-    - q: 在蒙巴薩舊城區使用 Instagram 直播順暢嗎？
-      a: 蒙巴薩舊城區 Safaricom 4G 覆蓋良好，但巷弄內訊號可能不穩。直播時建議站在空曠處如舊城廣場，並關閉其他背景應用程式。若直播中斷，可改用語音連線。
-    - q: 在肯亞可以使用微信嗎？功能是否受限制？
-      a: 微信在肯亞可正常使用，傳送文字、圖片及語音皆無問題。但支付功能需綁定當地銀行卡，較少人使用。飛書等中國 App 亦可運作。
-    - q: 在 Safari 期間分享即時動態到 Instagram 會消耗很多流量嗎？
-      a: 每段 15 秒的影片約 10-20 MB，照片約 2-5 MB。若每日頻繁發布，建議控制流量，或利用營地 Wi-Fi 晚間上傳。Safari 時段專注觀賞野生動物，可減少手機使用。
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: 緊急情況
-    title: 在 肯亞 使用 肯亞 eSIM 進行緊急聯絡
-    questions:
-    - q: 在肯亞遇到緊急情況如何撥打求救電話？
-      a: 通用緊急號碼為 999 或 112，可接通警察、救護車與消防。若手機無訊號，可嘗試撥打 911（轉接當地）。建議將緊急聯絡人設為手機快速撥號，並告知旅館櫃檯。
-    - q: 內羅比最好的醫院是哪家？如何用網路查詢？
-      a: 內羅比醫院（Nairobi Hospital）是主要醫療機構，位於市中心，提供 24 小時急診。可透過 Google Maps 查詢路線，並使用 eSIM 網路即時回報病情。建議購買旅遊保險以涵蓋醫療費用。
-    - q: 在馬賽馬拉倘若有醫療緊急狀況該怎麼辦？
-      a: 馬賽馬拉保護區內有基本醫療站，但重大狀況需送至納羅克醫院（Narok County Referral Hospital）。營地通常備有衛星電話，但使用 eSIM 可更快聯繫救援。建議隨身攜帶急救包。
-    - q: 在肯亞遺失護照應如何處理？可以網路報案嗎？
-      a: 立即前往最近警察局報案，取得報案單，並聯繫所屬國使館補辦。內羅比警察局總局位於市中心，可透過 Google Maps 導航。eSIM 可協助查詢使館位置及聯絡方式。
-    - q: 遇到道路搶劫時如何使用手機求援？
-      a: 保持冷靜，若情況允許，撥打 999 或 112。避免在歹徒面前使用手機。建議事先下載離線地圖，並開啟手機緊急定位功能。夜晚避免單獨行走在偏僻街道。
+    - q: 第一次去肯亞想用eSIM，方案好多不知道怎麼挑選比較好？
+      a: Roami 肯亞 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。Safaricom在肯亞市區5G網速約100-300Mbps，看1080p影片沒問題。去肯亞機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到肯亞後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+    - q: 看到有人說肯亞的Safaricom在市區很快、Airtel在郊區很廣，真的是這樣嗎？
+      a: 肯亞主要有Safaricom、Airtel、Telkom。Safaricom市區下載快、基地台密集。Airtel郊區覆蓋廣，會去郊區的話選Airtel路線較有保障。Telkom價格親民，適合預算有限的旅客。肯亞4G為主，5G於奈洛比等城市開通。不過Roami會自動切換到當前訊號最強的網路。市區用Safaricom，移動到郊區若Safaricom訊號變弱就自動跳Airtel或Telkom，完全不用手動選。
+    - q: 有人說去肯亞辦eSIM要上傳護照，是真的嗎？個資會不會外洩？
+      a: 需要的。肯亞預付卡需KYC認證，需提供護照。很多人不知道這規定，到了肯亞機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。肯亞4G為主，5G於奈洛比等城市開通。完成後到肯亞開數據漫遊就能直接用。不支援eSIM可租WiFi機。
+    - q: 在肯亞的郊區或小鎮也能正常使用eSIM嗎？查地圖導航會不會斷？
+      a: 肯亞的Safaricom等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。肯亞4G為主，5G於奈洛比等城市開通。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
+    - q: 出國去肯亞用eSIM，出發前要準備什麼？有沒有簡單的檢查步驟？
+      a: 第一：撥號*#06#查EID確認手機支援。第二：購買方案。第三：出發前用WiFi裝好。到肯亞開數據漫遊就用。
+    - q: 去肯亞旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
+      a: Roami 肯亞 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
 related_products:
   title: 類似 肯亞 eSIM 的旅行方案
   items:
@@ -518,4 +419,84 @@ related_products:
     price: От 1,99 $
     is_highlight: false
     slug: philippines-esim
+
+# =============== 100% 完整復原：基於數據的比較模組 ===============
+market_analysis:
+  title: "eSIM 與實體 SIM 卡在 肯亞 的旅行、成本與設定比較"
+  subtitle: "肯亞當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
+  citation:
+    text: "資料來源：Prepaid Data SIM Card Wiki (Kenya) + 當地電信商官網"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Kenya"
+  table_headers:
+    - "比較矩陣"
+    - "當地預付 SIM 卡（市場數據）"
+    - "Roami eSIM 給 肯亞"
+  table_rows:
+    - icon: "store"
+      title: "取得與啟用"
+      prepaid_title: ""
+      prepaid_desc: "Safaricom 官方註冊需護照影本，未通過 *232# 驗證面臨斷網風險；街邊小販雖可能免查，但有買到非法未註冊卡導致 6 個月監禁的違規風險。"
+      esim_title: "即時數位配送"
+      esim_desc: "避開 Safaricom 門市排隊與護照影本驗證，抵達肯亞後一分鐘內線上啟用 eSIM，無需擔心街邊小販的非法卡風險（最高 6 個月監禁）。"
+    - icon: "id-card"
+      title: "KYC 與護照登記"
+      prepaid_title: ""
+      prepaid_desc: "肯亞通信管理局自 2018 年起對 Safaricom、Airtel、Telkom 三大運營商施加巨額罰款（年收入 0.2%）的威脅，要求必須斷開所有未註冊 SIM 卡。"
+      esim_title: "免護照登記"
+      esim_desc: "無需像 Safaricom、Airtel 或 Telkom 那樣強制實名註冊，eSIM 免於肯亞通信管理局的斷網威脅（年收入 0.2% 罰款），保護隱私。"
+    - icon: "globe"
+      title: "國際漫遊"
+      prepaid_title: ""
+      prepaid_desc: "Safaricom 與 Airtel 的月套餐均未明確標註包含東非跨國漫遊權益，如進入坦尚尼亞或烏干達將觸發每 MB 約 KES 4 的高額漫遊費。"
+      esim_title: "全球漫遊無憂"
+      esim_desc: "避開 Safaricom 與 Airtel 的東非漫遊高額費用（每 MB 約 KES 4），eSIM 提供東非區域多國網路，跨國時自動切換至最佳運營商，無流量縮水。"
+    - icon: "calendar-xmark"
+      title: "計費週期與浪費成本"
+      prepaid_title: ""
+      prepaid_desc: "Safaricom 提供 24 小時、7 天、30 天、90 天不等的有效期；若停留 5 天，僅有 1 天（KES 99）或 7 天（KES 250）可選，遊客被迫為多餘天數浪費流量與通話時長。"
+      esim_title: "彈性計費週期"
+      esim_desc: "與 Safaricom 的 7 天起購（KES 250/1GB）不同，Roami 提供 7 天數據方案，最低 1.99 美元/GB，精準為停留天數付費，避免浪費 75% 的方案價值。"
+    - icon: "wifi"
+      title: "熱點分享與速度政策"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。"
+      esim_title: "無限熱點分享"
+      esim_desc: "eSIM 支援熱點分享，無隱性限制；相較於肯亞運營商常見的鎖卡風險，可自由連接多台設備，適合團隊旅行。"
+    - icon: "credit-card"
+      title: "儲值與付款"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。"
+      esim_title: "全球付款方式"
+      esim_desc: "支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無需擔心肯亞當地現金或 M-Pesa 支付限制，線上儲值即時生效。"
+    - icon: "headset"
+      title: "客戶支援"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。"
+      esim_title: "24/7 客戶支援"
+      esim_desc: "提供全天候多語言線上客服，無需像肯亞運營商那樣僅限當地營業時間，隨時解決連線問題。"
+
+  # =============== 100% 完整復原：專家評語模組 ===============
+  expert_verdict:
+    title: "eSIM 給 肯亞：更聰明的連線選擇，勝過實體 SIM 卡"
+    cards:
+      - icon: "globe"
+        icon_bg: "bg-indigo-100"
+        icon_color: "text-indigo-600"
+        title: "保留主號碼接收驗證碼"
+        desc: "使用 eSIM 數據上網，同時保留實體 SIM 卡接收銀行簡訊或 M-Pesa 驗證碼，避免因拔卡導致國內服務中斷。"
+      - icon: "tower-observation"
+        icon_bg: "bg-rose-100"
+        icon_color: "text-rose-600"
+        title: "跨國漫遊無縮水"
+        desc: "Safaricom 與 Airtel 的月套餐未包含東非漫遊，跨境至坦尚尼亞或烏干達時每 MB 收費 KES 4。eSIM 提供東非區域網路，無隱性 FUP 限制。"
+      - icon: "shield"
+        icon_bg: "bg-teal-100"
+        icon_color: "text-teal-600"
+        title: "24/7 多語言支援"
+        desc: "肯亞運營商客服僅限當地營業時間，eSIM 提供全天候線上支援，隨時解決連線問題，無語言障礙。"
+      - icon: "hourglass-empty"
+        icon_bg: "bg-amber-100"
+        icon_color: "text-amber-600"
+        title: "避免計費週期浪費"
+        desc: "Safaricom 的短期方案僅有 1 天（KES 99/500MB）或 7 天（KES 250/1GB），停留 5 天的遊客被迫購買週包，浪費 40% 的費用。eSIM 提供 7 天方案，最低 1.99 美元/GB。"
 ---

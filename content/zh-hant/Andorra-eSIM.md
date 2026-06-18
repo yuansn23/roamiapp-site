@@ -285,125 +285,26 @@ activation_steps:
       – 無需等待，無需身份證件，無需合約。
     is_list: false
 faq_section:
-  title: 安道爾 eSIM指南 2026：網路與旅遊指南
-  desc: 從安道爾城到埃斯卡爾德斯-恩戈爾達尼，使用Andorra Telecom保持連線。我們的完整安道爾 eSIM指南涵蓋覆蓋範圍、方案、安裝和旅遊秘訣。
+  title: 安道爾 eSIM 實名認證教學｜購買安裝完整指南
+  desc: 整理了安道爾 eSIM的安道爾 Andorra Telecom 網路覆蓋、安道爾 eSIM 護照認證、安道爾 eSIM 價格比較等常見問題，包含方案價格、啟用教學、網速實測和電信商比較，一篇搞懂安道爾上網。
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: 常見問題
-    title: 關於 安道爾 eSIM 的常見問題
+    title: 安道爾 eSIM 實名認證教學｜購買安裝完整指南
     questions:
-    - q: 在安道爾城使用 eSIM 的網速如何？可以流暢觀看 YouTube 嗎？
-      a: 在安道爾城的主要街道如馬德留街（Avinguda Meritxell）和卡爾斯山谷廣場附近，連接到 Andorra Telecom 的 4G/5G 網路，典型下載速度約為 40-60 Mbps，足以無緩衝觀看 1080p 影片。但在尖峰時段（例如週末下午），購物區可能因人群擁擠而降至
-        10-20 Mbps。若長期使用超過每日 2GB，可能會觸發公平使用政策導致降速。
-    - q: Andorra Telecom還是Andorra Telecom在安道爾更好？
-      a: Andorra Telecom和Andorra Telecom在安道爾都提供出色的覆蓋範圍。Andorra Telecom在偏遠地區的覆蓋通常更好，而Andorra Telecom在城市中提供競爭力的5G速度。對於大多數前往安道爾的旅客來說，兩個網路都能良好運作。
-    - q: 安道爾 eSIM 支援熱點分享給筆電嗎？對速度有影響嗎？
-      a: 支援熱點分享，但共享時速度可能因設備數量和傳輸資料而減半。例如，在安道爾城的飯店中，單獨使用手機測速為 50 Mbps，分享給筆電後降至約 20-30 Mbps。若進行視訊會議，建議僅連接一台設備。
-    - q: 在埃斯卡爾德斯-恩戈爾達尼的溫泉區使用 eSIM 順暢嗎？
-      a: 該地區網路覆蓋良好，尤其在卡爾德亞（Caldea）溫泉中心周圍，下載速度約 30-50 Mbps，足以用於串流音樂或社交媒體。但在室內深處可能略有衰減。建議在泡溫泉時關閉後台應用以節省流量。
-    - q: 從法國或西班牙進入安道爾邊境時，eSIM 會自動切換嗎？
-      a: eSIM 會自動搜尋 Andorra Telecom 的網路，但過境時可能發生短暫斷訊（約 1-2 分鐘）。如果持有多國 eSIM 且數據用完，請確保安道爾 eSIM 已啟用並設置為主要數據。建議在抵達邊境檢查站前手動開啟飛航模式後關閉。
-    - q: 安道爾 eSIM 註冊需提供護照嗎？有無特殊規定？
-      a: 無需提供護照，可直接購買安裝。但為符合當地法規，eSIM 會記錄您的設備識別碼。若您使用實體 SIM 卡註冊，則需出示證件。購買後掃描 QR 碼即可啟用，非常方便。
-    - q: 在卡尼略的 Grandvalira 滑雪場，eSIM 能用於導航嗎？
-      a: 在滑雪場內，4G 信號普遍良好，尤其在纜車站和餐廳附近。但偏遠雪道可能無信號。建議提前下載離線地圖，並注意手機低溫自動關機的可能。eSIM 的數據可用於即時查看雪況或與朋友聯絡。
-    - q: 安道爾 eSIM 有每日流量上限嗎？超量後會如何？
-      a: 部分方案設有每日流量上限（例如 2GB/天），超過後速度降至 128 kbps 或中斷。建議在購買前確認方案條款。若需大量數據，可選購無限制方案（但可能含公平使用政策）。在安道爾城使用時，降速後仍可傳送文字訊息。
-  - id: faq-airport
-    icon: plane
-    tab_title: 機場
-    title: 安道爾 機場：如何使用 安道爾 eSIM
-    questions:
-    - q: 從巴塞隆納機場（BCN）到安道爾的最佳交通方式？
-      a: 從 BCN 可搭乘直達巴士（如 Andorra Bus）約 3 小時抵達安道爾城，票價約 35-40 歐元。也可租車自駕，經 C-16 和 CG-2 公路，沿途風景優美。抵達後，eSIM 可立即使用導航至飯店。
-    - q: 土魯斯機場（TLS）到安道爾的交通？
-      a: 從 TLS 可搭乘 Transdev 巴士約 2.5 小時，或自駕經 A61 和 N20 公路。建議提前預訂巴士座位。在機場連接到法國網路後，進入安道爾時 eSIM 會自動切換。注意邊境站可能因檢查而延誤。
-    - q: 安道爾-塞奧德烏赫爾機場（LEU）到安道爾城方便嗎？
-      a: LEU 距安道爾城僅 15 公里，可搭乘計程車（約 20 歐元）或公車（每小時一班）。該機場規模較小，但夏季有來自西班牙部分城市的航班。抵達後 eSIM 立即可用。
-    - q: 機場附近有 eSIM 實體卡購買點嗎？或者只能買線上 eSIM？
-      a: 在 BCN 或 TLS 機場的電信商店可購買西班牙或法國 SIM 卡，但安道爾 eSIM 建議線上購買，到達即用。在 LEU 機場目前無 eSIM 卡實體銷售。購買後掃碼啟用即可。
-    - q: 夜間抵達安道爾機場，交通和網路是否便利？
-      a: 夜間航班有限，通常抵達 LEU 或 BCN。從 BCN 的巴士末班車約 22:00，建議預訂接送服務。eSIM 可 24 小時啟用，確保您能使用導航和打車軟體。注意計程車夜間加價。
-  - id: faq-transport
-    icon: car
-    tab_title: 交通
-    title: 安道爾 eSIM 用於 安道爾 的交通和導航
-    questions:
-    - q: 安道爾的計程車如何叫車？費用如何？
-      a: 計程車可在主要街道攔截或透過電話預約（+376 800 800）。起跳價約 2 歐元，市區短程約 5-10 歐元。部分司機接受信用卡，但建議備現金。從安道爾城到埃斯卡爾德斯約 10 歐元。
-    - q: 安道爾的公車路線是否適合觀光客？
-      a: 公車系統（Coopalsa）連接主要城鎮，如安道爾城、埃斯卡爾德斯、馬薩納。單程票 1.5 歐元，日票 5 歐元。但前往山區滑雪場需轉乘，建議租車或參加旅行團。使用 eSIM 查詢時刻表非常方便。
-    - q: 在安道爾自駕需要注意什麼？
-      a: 需持國際駕照，道路多山路且冬季可能結冰。主要公路 CG-1 至 CG-4 維護良好。停車費每小時 1-2 歐元，中心停車場較多。GPS 導航時，勿完全依賴數據（山區可能斷訊），提前下載離線地圖。
-    - q: 從安道爾城到 Grandvalira 滑雪場的大眾交通？
-      a: 冬季有滑雪巴士從安道爾城出發，停靠多個飯店，免費或低廉（約 5 歐元）。預計車程 30 分鐘。也可搭公車到卡尼略後轉乘纜車。eSIM 可用於查看即時巴士位置。
-    - q: 安道爾有共享單車或電動滑板車嗎？
-      a: 共享服務較少，部分飯店提供自行車租賃。市中心徒步即可，電動滑板車未普及。建議穿著舒適鞋步行。若需長距離移動，使用計程車較為可靠。
-  - id: faq-hotels
-    icon: hotel
-    tab_title: 住宿
-    title: 在 安道爾 的飯店使用 安道爾 eSIM 連線
-    questions:
-    - q: 安道爾城中心飯店（Andorra Center Hotel）的設施與網路？
-      a: 這間四星級飯店位於安道爾城中心，提供免費 Wi-Fi 和健身房，部分房型有山景。市區網路良好，但尖峰時段可能變慢。飯店 Wi-Fi 可作為 eSIM 的備用，建議使用 eSIM 以保持穩定。
-    - q: 埃斯普盧格飯店（Hotel Esplugues）在哪？適合滑雪客嗎？
-      a: 位於埃斯普盧格（Escaldes-Engordany）區，靠近卡爾德亞溫泉。飯店提供接駁車至 Grandvalira 滑雪場，車程約 10 分鐘。房間 Wi-Fi 速度中等，滑雪後使用 eSIM 分享照片更方便。
-    - q: 馬薩納的魔術飯店（Magic Hotel）評價如何？
-      a: 位於馬薩納鎮，提供免費巴士至滑雪纜車，屋頂溫泉可欣賞山景。飯店內 Wi-Fi 覆蓋均勻，但大廳速度較佳。使用 eSIM 可確保登山時不間斷上網。
-    - q: 卡爾德亞附近有哪些飯店推薦？
-      a: 卡爾德亞溫泉旁的卡爾拉馬尼亞度假村（Cal Ramanyà）提供溫泉門票優惠，步行可達。另一間 Hotel Mú 適合預算型旅客，提供簡單住宿。所有飯店均提供免費 Wi-Fi，但 eSIM 仍為戶外使用最佳。
-    - q: 安道爾的飯店大多有行李寄存服務嗎？
-      a: 多數飯店提供行李寄存，但建議先確認。若退房後想繼續觀光，可寄放前台或使用車站儲物櫃。部分飯店收費 2-5 歐元。eSIM 讓您輕鬆查詢附近儲物點。
-    - q: 在安道爾訂房時，需要注意哪些事項？
-      a: 確認取消政策、停車位（若開車）、是否含早餐。冬季滑雪季房價較高，提前預訂。部分飯店提供雪具寄存，詢問時可順便確認 Wi-Fi 密碼。eSIM 可作為網路備援。
-  - id: faq-attractions
-    icon: landmark
-    tab_title: 景點
-    title: 安道爾 旅遊景點的網路：安道爾 eSIM
-    questions:
-    - q: 如何前往卡爾德亞（Caldea）溫泉？門票價格？
-      a: 位於埃斯卡爾德斯，距安道爾城步行 15 分鐘，或搭公車 2 歐元。門票約 40 歐元（平日 3 小時），包含水療和桑拿。建議避開週末人潮，傍晚時段較少人。eSIM 可用於買票（出示條碼）。
-    - q: 卡薩德山谷（Casa de la Vall）歷史意義？開放時間？
-      a: 這是安道爾舊議會大廈，建於 16 世紀，藏有歷史文獻。位於安道爾城老城區，門票約 5 歐元，週二至週日開放。導覽約 45 分鐘，建議上午前往。使用 eSIM 查詢開放時間可免白跑一趟。
-    - q: 加勒底湖（Estany de l'Estanyó）適合初學者徒步嗎？
-      a: 位於馬薩納山區，徒步約 2 小時（單程），坡度平緩，夏季適合。沿途有指標，但建議穿登山鞋。抵達後可野餐，欣賞高山湖泊。手機信號在部分路段較弱，請離線下載路線。
-    - q: Grandvalira 滑雪場的初學者區域推薦？
-      a: Grandvalira 有多處初學者區，如卡尼略（Canillo）的區域提供免費魔毯和初級滑道。初學者課程約 50 歐元/2 小時。建議租用裝備，滑雪場內有餐廳。eSIM 可用於查看雪況和天氣。
-    - q: 安道爾有哪些免費景點？
-      a: 安道爾城的老城區（Barri Antic）和聖埃斯特凡教堂（Església de Sant Esteve）免費參觀。也可沿 Valira 河畔步道散步，欣賞山景。冬季的聖誕燈飾非常美麗。使用 eSIM 上傳打卡照片。
-  - id: faq-social
-    icon: smartphone
-    tab_title: 社交媒體
-    title: 透過 安道爾 eSIM 在 安道爾 使用通訊軟體和社群網站
-    questions:
-    - q: 在安道爾用什麼社群 App 最普遍？
-      a: WhatsApp 為主要通訊軟體，Instagram 和 Facebook 常用於分享旅遊照片。部分本地餐廳使用 Facebook 專頁更新菜單。使用 eSIM 即可順暢使用這些 App，無需依賴飯店 Wi-Fi。
-    - q: 安道爾人常用哪些約會 App？
-      a: Tinder 和 Badoo 較常見，但由於人口較少，配對可能有限。較感興趣於遊客的 Apps 如 Happn 也有使用。使用 eSIM 可快速加載個人資料，但請注意公共場所的網路差異。
-    - q: 從安道爾打電話回台灣便宜嗎？推薦的網路電話 App？
-      a: 使用 WhatsApp、FaceTime 或 Skype 透過網路撥打國際電話最經濟。eSIM 提供數據，無需昂貴漫遊費。避免使用傳統電話，價格較高。建議關閉數據漫遊中的語音通話功能。
-    - q: 在安道爾能用 LINE 嗎？網路穩定嗎？
-      a: LINE 可正常使用，但台灣用戶較少，聯絡人較少時可透過 WhatsApp。網路穩定時，語音通話無明顯延遲。若到山區，LINE 訊息可能延遲發送，但文字大多可即時收到。
-    - q: 安道爾的免費 Wi-Fi 熱點多嗎？
-      a: 安道爾城的主要廣場和圖書館提供免費 Wi-Fi，但速度有限（約 5 Mbps）。咖啡廳提供 Wi-Fi 需消費。建議主要使用 eSIM，確保高速數據。某些飯店 Wi-Fi 無法繞過中國防火牆限制。
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: 緊急情況
-    title: 在 安道爾 使用 安道爾 eSIM 進行緊急聯絡
-    questions:
-    - q: 在安道爾遇到緊急醫療情況時打電話給誰？
-      a: 撥打 112 可接通醫療、警察和消防。安道爾城醫院（Hospital Nostra Senyora de Meritxell）提供 24 小時急診。建議隨身攜帶保險卡，因為歐盟公民可使用 EHIC，其他旅客需付費。eSIM 確保通訊暢通。
-    - q: 安道爾的山區救援號碼是多少？
-      a: 撥打 112 聯繫山區救援，或直接聯繫滑雪巡邏隊（多在滑雪場內）。Grandvalira 和 Vallnord 都有專屬救援。建議登山前下載離線地圖，並告訴飯店計畫路線。
-    - q: 護照遺失在安道爾該怎麼處理？
-      a: 立即前往最近警察局報案（安道爾城警察局在 Avinguda de la Gara 街），取得報案證明，然後前往您國家的大使館（需到巴塞隆納）。使用 eSIM 搜尋大使館聯絡方式。部分旅客可申請旅行證件。
-    - q: 安道爾的藥局營業時間？深夜如何買藥？
-      a: 藥局營業時間多為週一至週五 9:00-20:00，週六半天。夜間有輪值藥局（farmacia de guardia），可查詢當地報紙或線上（如 eSIM 搜尋）。備常用藥品，因部分藥需處方。
-    - q: 冬季自駕發生雪地事故怎麼辦？
-      a: 保持冷靜，關閉引擎，開啟危險警示燈。聯繫道路救援（需事先了解租車公司服務）。撥打 112 呼叫救護車。eSIM 可用於定位和通訊。確保車內有保暖毛毯和飲水。
-    - q: 安道爾有針對遊客的詐騙嗎？如何防範？
-      a: 詐騙較少，但小心街頭換錢和假警察。使用 ATM 時注意側錄器，選擇銀行附設的機器。不要接受陌生人幫助。eSIM 便於即時查證資訊。若遇可疑，撥打 110 報警。
+    - q: 準備去安道爾long stay，eSIM方案買哪種比較划算？
+      a: Roami 安道爾 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般旅客買最多的是5GB/15天（$9.99），查地圖傳LINE剛好。常看短影片或開熱點給旅伴，選10GB以上比較夠。安道爾以4G為主，查地圖傳LINE很穩，看影片建議用飯店WiFi。去安道爾機場買SIM卡比eSIM貴30-50%，還要排隊填資料。如果不確定用量可以先買小的，到安道爾後直接在App加購不換卡。方案到期自動失效，不會續約扣款。
+    - q: 去安道爾辦eSIM的認證流程大概要多久？買完馬上就能用嗎？
+      a: 需要的。安道爾預付卡需KYC認證，需提供護照。很多人不知道這規定，到了安道爾機場才上傳護照，遇到假日審核延遲好幾小時，一入境就沒網路。建議出發前在Roami完成驗證——上傳護照約5-10分鐘核可。安道爾4G為主，5G有限覆蓋。完成後到安道爾開數據漫遊就能直接用。不支援eSIM可租WiFi機。
+    - q: 離開安道爾市區之後，eSIM的訊號會不會變得很差？
+      a: 安道爾的Andorra Telecom等電信主要城市覆蓋不錯，郊區或偏遠地區訊號可能較弱。安道爾4G為主，5G有限覆蓋。Roami會自動切換到當前訊號最強的網路。建議前往偏遠地區前先下載離線地圖。
+    - q: 去安道爾旅遊想辦eSIM上網，方案要怎麼選比較適合一般觀光客？
+      a: Roami 安道爾 eSIM從$1.99起（7天1GB）到$59.99（30天無限）。一般選5GB/15天（$9.99）最熱門，不夠再到App加購。
+    - q: 安道爾eSIM如果流量用完了可以隨時加購嗎？加購會不會很麻煩？
+      a: 登入Roami帳戶直接加購，付款後秒生效，不用換卡重裝。建議數據剩20%時就先加。
+    - q: 跟旅伴一起去安道爾，買一張eSIM開熱點分享夠兩個人用嗎？
+      a: Roami eSIM支援熱點分享。多人建議選10GB以上方案。不確定先買中階再App加購。
 related_products:
   title: 類似 安道爾 eSIM 的旅行方案
   items:
@@ -467,4 +368,84 @@ related_products:
     price: От 1,99 $
     is_highlight: false
     slug: philippines-esim
+
+# =============== 100% 完整復原：基於數據的比較模組 ===============
+market_analysis:
+  title: "eSIM 或遊客 SIM 卡在 安道爾 該選哪個？"
+  subtitle: "安道爾當地預付 SIM 卡 vs eSIM 解決方案（基準 2024/2025）"
+  citation:
+    text: "資料來源：Prepaid Data SIM Card Wiki (Andorra) + 當地電信商官網"
+    url: "https://prepaid-data-sim-card.fandom.com/wiki/Andorra"
+  table_headers:
+    - "比較矩陣"
+    - "當地預付 SIM 卡（市場數據）"
+    - "Roami eSIM 給 安道爾"
+  table_rows:
+    - icon: "store"
+      title: "取得與啟用"
+      prepaid_title: ""
+      prepaid_desc: "若辦理 eSIM 也需上傳護照與自拍照給壟斷國企 Andorra Telecom，需等待後台人工審核通過；若辦理實體卡則須攜帶護照親赴營業廳排隊。"
+      esim_title: "即時數位配送"
+      esim_desc: "避開 Andorra Telecom 營業廳排隊及人工審核等待，Roami eSIM 購買後掃碼即啟用，無需上傳護照或自拍照，落地安道爾城一分鐘內連線。"
+    - icon: "id-card"
+      title: "KYC 與護照登記"
+      prepaid_title: ""
+      prepaid_desc: "Andorra Telecom 會要求出示身份證件（護照或本國身份證）；即便用戶選擇激活 eSIM，也需要在官網註冊帳戶，並上傳護照照片及自拍照，等待人工審核。"
+      esim_title: "免護照免審核"
+      esim_desc: "與 Andorra Telecom 強制上傳護照及自拍照、等待人工確認不同，Roami eSIM 無需 KYC，保護隱私，即買即用。"
+    - icon: "globe"
+      title: "國際漫遊"
+      prepaid_title: ""
+      prepaid_desc: "安道爾不屬於歐盟，當地卡若需在歐洲其他國家漫遊（含美國、加拿大、土耳其），需支付 €3 購買 1GB 的日包，流量僅限當天午夜前有效。"
+      esim_title: "無縫跨國漫遊"
+      esim_desc: "安道爾不屬歐盟，Andorra Telecom 漫遊需 €3/1GB 日包且僅當天有效；Roami eSIM 提供多國套餐，在安道爾、法國、西班牙間無縫切換，無額外日租。"
+    - icon: "calendar-xmark"
+      title: "計費週期與浪費成本"
+      prepaid_title: ""
+      prepaid_desc: "Andorra Telecom 的 Tarifa S 套餐價格 €10，包含 3GB 流量，有效期嚴格為 30 天；對於僅停留 1-3 天的過境遊客，相當於浪費了高達 90% 的資金與近 3GB 的全額流量。"
+      esim_title: "彈性短週期方案"
+      esim_desc: "Andorra Telecom 強制 30 天週期（€10/3GB），短期遊客浪費 90% 價值；Roami eSIM 提供 7 天方案，最低 1.99 美元/GB，用多少買多少。"
+    - icon: "wifi"
+      title: "熱點分享與速度政策"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。基於市場知識，Andorra Telecom 允許熱點分享，但流量用盡後數據功能直接切斷，無降速。"
+      esim_title: "無限熱點分享"
+      esim_desc: "Andorra Telecom 流量用盡即斷網，無降速；Roami eSIM 支援熱點分享，數據用罄前可彈性加購，保持多裝置連線。"
+    - icon: "credit-card"
+      title: "儲值與付款"
+      prepaid_title: ""
+      prepaid_desc: "充值卡面值有限制，為 €15、€30 或 €60；線上可用信用卡充值任意 €5 至 €60 的金額，但仍有最低消費門檻。"
+      esim_title: "全球付款方式"
+      esim_desc: "Andorra Telecom 僅接受信用卡或實體充值券（€15/€30/€60）；Roami eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無最低消費。"
+    - icon: "headset"
+      title: "客戶支援"
+      prepaid_title: ""
+      prepaid_desc: "此維度在來源中無具體數據。基於市場知識，Andorra Telecom 提供電話客服（+376 800 800）及營業廳服務，但無 24/7 支援。"
+      esim_title: "24/7 即時支援"
+      esim_desc: "Andorra Telecom 客服僅限營業時間；Roami eSIM 提供 24/7 線上即時聊天，任何問題快速回應。"
+
+  # =============== 100% 完整復原：專家評語模組 ===============
+  expert_verdict:
+    title: "eSIM 給 安道爾：更聰明的連線選擇勝過實體 SIM"
+    cards:
+      - icon: "hourglass-empty"
+        icon_bg: "bg-amber-100"
+        icon_color: "text-amber-600"
+        title: "避免 30 天週期的資金浪費"
+        desc: "Andorra Telecom 的 Tarifa S 套餐 €10/3GB，有效期 30 天。短期停留 1-3 天的遊客浪費高達 90% 的費用與流量。Roami eSIM 提供 7 天方案，最低 1.99 美元/GB，杜絕浪費。"
+      - icon: "passport"
+        icon_bg: "bg-blue-100"
+        icon_color: "text-blue-600"
+        title: "繞過 安道爾 嚴格的護照要求"
+        desc: "Andorra Telecom 要求出示護照或本國身份證，且 eSIM 激活需上傳護照照片及自拍照等待人工審核。Roami eSIM 完全免 KYC，保護隱私，即買即用。"
+      - icon: "tower-observation"
+        icon_bg: "bg-rose-100"
+        icon_color: "text-rose-600"
+        title: "無縫跨國漫遊無隱藏費用"
+        desc: "安道爾不屬歐盟，Andorra Telecom 漫遊需 €3/1GB 日包且僅當天午夜前有效。Roami eSIM 多國套餐涵蓋安道爾、法國、西班牙，無額外日租，邊境自動切換。"
+      - icon: "credit-card"
+        icon_bg: "bg-emerald-100"
+        icon_color: "text-emerald-600"
+        title: "全球付款無最低門檻"
+        desc: "Andorra Telecom 充值卡面值 €15/€30/€60，線上信用卡充值最低 €5。Roami eSIM 支援 Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal，無最低消費限制。"
 ---
