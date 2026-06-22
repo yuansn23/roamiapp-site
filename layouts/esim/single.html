@@ -24,16 +24,30 @@
 	<!--
     <meta name="twitter:image" content="{{ site.Home.Permalink }}{{ strings.TrimPrefix "/" .Params.seo.og_image }}">
 	-->
-{{- /* 0. 提取纯国家名称（去除竖线、管道后的多余描述，以及 "eSIM" 等后缀） */ -}}
-{{- $countryName := .Params.hero.title -}}
-{{- /* 如果包含竖线 "|"，只取竖线之前的部分 */ -}}
-{{- if strings.Contains $countryName "|" -}}
-    {{- $countryName = index (split $countryName "|") 0 | strings.TrimSpace -}}
+{{- /* ================================================================
+    0. 从 hero.title 中提取纯净的国家名称，并生成显示名称（国家名 + " eSIM"）
+    处理格式：
+      - "荷蘭: 每個目的地的高速5G"  -> 纯净 "荷蘭" -> 显示 "荷蘭 eSIM"
+      - "eSIM Singapour"            -> 纯净 "Singapour" -> 显示 "Singapour eSIM"
+      - "United States | 5G eSIM"  -> 纯净 "United States" -> 显示 "United States eSIM"
+      - "France eSIM"               -> 纯净 "France" -> 显示 "France eSIM"
+    ================================================================ */ -}}
+{{- $rawTitle := .Params.hero.title -}}
+{{- $countryName := $rawTitle -}}
+
+{{- /* 尝试用分隔符提取 */ -}}
+{{- if strings.Contains $rawTitle ":" -}}
+    {{- $countryName = index (split $rawTitle ":") 0 | strings.TrimSpace -}}
+{{- else if strings.Contains $rawTitle "|" -}}
+    {{- $countryName = index (split $rawTitle "|") 0 | strings.TrimSpace -}}
 {{- end -}}
-{{- /* 去除可能的后缀 */ -}}
-{{- $countryName = replace $countryName " Data Plan" "" -}}
-{{- $countryName = replace $countryName " eSIM" "" -}}
+
+{{- /* 移除所有残留的 "eSIM"（不区分大小写，包括前后空格），得到纯净国家名 */ -}}
+{{- $countryName = replaceRE `(?i)\s*eSIM\s*` "" $countryName -}}
 {{- $countryName = trim $countryName " " -}}
+
+{{- /* 最终显示名称：国家名 + " eSIM" */ -}}
+{{- $displayCountry := printf "%s eSIM" $countryName -}}
 
 {{- /* 1. 定义退款政策 */ -}}
 {{- $returnPolicy := dict
@@ -66,11 +80,10 @@
 {{- /* 3. 初始化 SKU 数组 */ -}}
 {{- $offers := slice -}}
 
-{{- /* 4. 遍历 plans_data 生成 SKU */ -}}
+{{- /* 4. 遍历 plans_data 生成 SKU（使用纯净国家名，不含 "eSIM"） */ -}}
 {{- range $days, $plans := .Params.plans_data -}}
     {{- $daysTitle := title $days -}}
     {{- range $plans -}}
-        {{- /* 构建简短的 SKU 名称，例如 "États-Unis 7 Days 5GB" */ -}}
         {{- $skuName := printf "%s %s %s" $countryName $daysTitle .spec -}}
         {{- $offer := dict 
             "@type" "Offer" 
@@ -199,15 +212,74 @@
         [dir="rtl"] .text-left { text-align: right; }
         [dir="rtl"] .text-right { text-align: left; }
         [dir="rtl"] .flex-row { flex-direction: row-reverse; }
+        
+        /* ============================================================ */
+        /* 移动端 FAB 按钮样式                                           */
+        /* ============================================================ */
+        .custom-mobile-fab-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            padding: 10px 16px;
+            background: linear-gradient(90deg, #2563eb, #3b82f6);
+            color: #ffffff;
+            border-radius: 12px;
+            border: none;
+            cursor: pointer;
+            box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.3);
+            transition: transform 0.1s;
+            min-height: 60px;
+        }
+        .custom-mobile-fab-btn:active {
+            transform: scale(0.98);
+        }
+        .custom-mobile-fab-container {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            z-index: 9999;
+            background-color: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border-top: 1px solid #e2e8f0;
+            padding: 8px 16px;
+            padding-bottom: calc(8px + env(safe-area-inset-bottom));
+            box-shadow: 0 -10px 15px -3px rgba(0, 0, 0, 0.05);
+        }
+        @media (min-width: 1024px) { 
+            .custom-mobile-spacer { display: none !important; } 
+            .custom-mobile-fab-container { display: none !important; } 
+        }
+        /* 价格突出显示 */
+        .fab-plan-price {
+            font-size: 1.25rem;
+            font-weight: 900;
+            color: white;
+            text-shadow: 0 1px 2px rgba(0,0,0,0.2);
+        }
+        .fab-plan-old-price {
+            font-size: 0.7rem;
+            color: rgba(255,255,255,0.5);
+            text-decoration: line-through;
+        }
+        .fab-plan-country {
+            font-size: 0.7rem;
+            font-weight: 500;
+            color: rgba(255,255,255,0.8);
+        }
+        .fab-plan-detail {
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: white;
+        }
     </style>
     
     <style>
         .custom-buy-btn { width: 100%; padding: 1rem 0; margin-bottom: 0.75rem; background-color: #2563eb; color: #ffffff; font-weight: bold; font-size: 1rem; border: none; border-radius: 0.75rem; cursor: pointer; display: flex; justify-content: center; align-items: center; gap: 0.5rem; box-shadow: 0 10px 15px -3px rgba(37, 99, 235, 0.3); transition: all 0.2s ease-in-out; }
         .custom-buy-btn:hover { background-color: #1d4ed8; transform: translateY(-2px); box-shadow: 0 12px 20px -3px rgba(37, 99, 235, 0.4); }
         .custom-mobile-spacer { height: 90px; }
-        .custom-mobile-fab-container { position: fixed; bottom: 0; left: 0; right: 0; z-index: 9999; background-color: rgba(255, 255, 255, 0.95); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-top: 1px solid #e2e8f0; padding: 12px 16px; padding-bottom: calc(12px + env(safe-area-inset-bottom)); box-shadow: 0 -10px 15px -3px rgba(0, 0, 0, 0.05); }
-        .custom-mobile-fab-btn { display: flex; align-items: center; justify-content: center; width: 100%; padding: 14px 16px; background: linear-gradient(90deg, #2563eb, #3b82f6); color: #ffffff; font-size: 16px; font-weight: 700; border-radius: 12px; border: none; cursor: pointer; box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.3); transition: transform 0.1s; }
-        @media (min-width: 1024px) { .custom-mobile-spacer { display: none !important; } .custom-mobile-fab-container { display: none !important; } }
     </style>
 </head>
 
@@ -690,10 +762,25 @@
     </div>
 </div>
 
+<!-- ============================================================ -->
+<!-- 移动端 FAB 按钮                                               -->
+<!-- 显示：国家名 eSIM | 天数 容量 | 原价（划线）| 现价（突出）  -->
+<!-- ============================================================ -->
 <div class="custom-mobile-spacer lg:hidden"></div>
 <div class="custom-mobile-fab-container lg:hidden">
     <button onclick="handleBuyNow()" class="custom-mobile-fab-btn">
-        <span style="margin-right: 8px; font-size: 20px;">🎁</span> {{ i18n "get_esim_discount" | default "Get 20% eSIM Discount" }}
+        <div class="flex items-center justify-between w-full px-2">
+            <!-- 左侧：国家名 eSIM + 天数 容量 -->
+            <div class="flex-1 text-left min-w-0 mr-2">
+                <div class="fab-plan-country text-xs font-medium text-white/80 leading-tight truncate">-</div>
+                <div class="fab-plan-detail text-sm font-bold text-white leading-tight truncate">-</div>
+            </div>
+            <!-- 右侧：原价（划线） + 现价（突出） -->
+            <div class="text-right flex-shrink-0">
+                <div class="fab-plan-old-price text-xs text-white/50 line-through">-</div>
+                <div class="fab-plan-price text-xl font-extrabold text-white leading-none">-</div>
+            </div>
+        </div>
     </button>
 </div>
 
@@ -716,6 +803,8 @@
         });
     }
 
+    // 从 Hugo 模板注入纯净的国家显示名称（已包含 " eSIM"）
+    const displayCountryName = '{{ $displayCountry }}';
     const rawPlanData = {{ .Params.plans_data | jsonify | safeJS }};
 
     // 辅助函数：从天数字符串中提取数字（例如 "3 Days" -> 3）
@@ -789,10 +878,15 @@
                   
             const tagHtml = plan.tagIcon ? `<div class="absolute -top-3 right-6 ${plan.tagColor} text-white text-xs font-bold px-3 py-1 rounded-full shadow-md flex items-center gap-1"><i data-lucide="${plan.tagIcon}" class="w-3 h-3 fill-current"></i> ${plan.tag}</div>` : (plan.tag ? `<div class="absolute -top-3 right-6 ${plan.tagColor} text-white text-xs font-bold px-3 py-1 rounded-full shadow-sm">${plan.tag}</div>` : '');
             
-            const cardHtml = `<li class="block h-full"><article class="plan-card ${isSelectedClass} bg-white border-2 border-slate-200 rounded-2xl p-6 cursor-pointer relative h-full flex flex-col" onclick="selectPlan(this, '{{ .Params.hero.title }} ${daysKey} ${plan.spec}', '${plan.price}', '${plan.oldPrice}', '${plan.data}', '${daysKey}', '${calculatedDaily}')">${tagHtml}<div class="flex justify-between items-start mb-4"><div><h3 class="font-extrabold text-xl text-slate-900">${daysKey} ${plan.spec}</h3><p class="text-sm text-slate-500 mt-1">${plan.desc}</p></div><div class="radio-circle w-6 h-6 rounded-full border-2 border-slate-300 relative transition-colors"></div></div><div class="bg-slate-50 rounded-lg p-3 mb-4"><div class="flex items-center gap-2 text-sm text-slate-700"><i data-lucide="wifi" class="w-4 h-4 text-brand-500"></i> ${plan.data}</div></div><div class="flex items-end gap-2 mt-auto pt-2"><span class="text-3xl font-extrabold text-slate-900">$${plan.price}</span><span class="text-sm text-slate-400 line-through mb-1">Was: $${plan.oldPrice}</span></div></article></li>`;
+            // 使用全局 displayCountryName，不再从参数传递
+            const cardHtml = `<li class="block h-full"><article class="plan-card ${isSelectedClass} bg-white border-2 border-slate-200 rounded-2xl p-6 cursor-pointer relative h-full flex flex-col" onclick="selectPlan(this, '${daysKey}', '${plan.spec}', '${plan.price}', '${plan.oldPrice}', '${plan.data}')">${tagHtml}<div class="flex justify-between items-start mb-4"><div><h3 class="font-extrabold text-xl text-slate-900">${daysKey} ${plan.spec}</h3><p class="text-sm text-slate-500 mt-1">${plan.desc}</p></div><div class="radio-circle w-6 h-6 rounded-full border-2 border-slate-300 relative transition-colors"></div></div><div class="bg-slate-50 rounded-lg p-3 mb-4"><div class="flex items-center gap-2 text-sm text-slate-700"><i data-lucide="wifi" class="w-4 h-4 text-brand-500"></i> ${plan.data}</div></div><div class="flex items-end gap-2 mt-auto pt-2"><span class="text-3xl font-extrabold text-slate-900">$${plan.price}</span><span class="text-sm text-slate-400 line-through mb-1">Was: $${plan.oldPrice}</span></div></article></li>`;
             container.insertAdjacentHTML('beforeend', cardHtml);
             
-            if (index === 0) setTimeout(() => { const activeCard = container.querySelector('.selected'); if(activeCard) selectPlan(activeCard, `{{ .Params.hero.title }} ${daysKey} ${plan.spec}`, plan.price, plan.oldPrice, plan.data, daysKey, calculatedDaily); }, 0);
+            // 首次加载自动选中第一个，并同步 FAB
+            if (index === 0) setTimeout(() => { 
+                const activeCard = container.querySelector('.selected'); 
+                if(activeCard) selectPlan(activeCard, daysKey, plan.spec, plan.price, plan.oldPrice, plan.data); 
+            }, 0);
         });
         initIcons();
     }
@@ -803,15 +897,34 @@
         renderPlans(daysKey);
     }
 
-    function selectPlan(element, name, price, oldPrice, data, validity, daily) {
+    // selectPlan 使用全局 displayCountryName，更新 FAB 显示
+    function selectPlan(element, daysKey, spec, price, oldPrice, data) {
+        // 更新卡片选中状态
         document.querySelectorAll('.plan-card').forEach(card => card.classList.remove('selected'));
         element.classList.add('selected');
-        document.querySelectorAll('.sidebar-plan-name').forEach(el => el.innerText = name);
+
+        // 构建完整名称（用于侧边栏）
+        const fullName = `${displayCountryName} ${daysKey} ${spec}`;
+
+        // 更新侧边栏
+        document.querySelectorAll('.sidebar-plan-name').forEach(el => el.innerText = fullName);
         document.querySelectorAll('.sidebar-price').forEach(el => el.innerText = '$' + price);
         document.querySelectorAll('.sidebar-old-price').forEach(el => el.innerText = '$' + oldPrice);
         document.querySelectorAll('.sidebar-data').forEach(el => el.innerText = data);
-        document.querySelectorAll('.sidebar-validity').forEach(el => el.innerText = validity);
-        document.querySelectorAll('.sidebar-daily').forEach(el => el.innerText = '$' + daily);
+        document.querySelectorAll('.sidebar-validity').forEach(el => el.innerText = daysKey);
+        const daysNum = parseInt(daysKey.match(/\d+/)[0]) || 1;
+        document.querySelectorAll('.sidebar-daily').forEach(el => el.innerText = '$' + (parseFloat(price) / daysNum).toFixed(2));
+
+        // --- 更新移动端 FAB ---
+        const fabCountry = document.querySelector('.fab-plan-country');
+        const fabDetail = document.querySelector('.fab-plan-detail');
+        const fabOldPrice = document.querySelector('.fab-plan-old-price');
+        const fabPrice = document.querySelector('.fab-plan-price');
+
+        if (fabCountry) fabCountry.textContent = displayCountryName;  // 例如 "荷蘭 eSIM"
+        if (fabDetail) fabDetail.textContent = `${daysKey} ${spec}`;  // 例如 "15 Days 10GB"
+        if (fabOldPrice) fabOldPrice.textContent = oldPrice ? '$' + oldPrice : '';
+        if (fabPrice) fabPrice.textContent = '$' + price;
     }
 
     function switchFaqTab(targetId, btnElement) {
@@ -840,6 +953,29 @@
                 }
             }
         }
+
+        // 延迟一帧等待侧边栏渲染完成后，同步 FAB（确保首次加载显示默认套餐）
+        requestAnimationFrame(() => {
+            const firstSelected = document.querySelector('.plan-card.selected');
+            if (firstSelected) {
+                // 触发一次点击以同步所有数据（包括 FAB）
+                firstSelected.click();
+            } else {
+                // 降级：从侧边栏读取数据
+                const dataEl = document.querySelector('.sidebar-data');
+                const validityEl = document.querySelector('.sidebar-validity');
+                const priceEl = document.querySelector('.sidebar-price');
+                const oldPriceEl = document.querySelector('.sidebar-old-price');
+                if (dataEl && validityEl && priceEl) {
+                    const daysKey = validityEl.textContent;
+                    const spec = dataEl.textContent;
+                    document.querySelector('.fab-plan-country').textContent = displayCountryName;
+                    document.querySelector('.fab-plan-detail').textContent = `${daysKey} ${spec}`;
+                    document.querySelector('.fab-plan-old-price').textContent = oldPriceEl ? oldPriceEl.textContent : '';
+                    document.querySelector('.fab-plan-price').textContent = priceEl.textContent;
+                }
+            }
+        });
     });
 
     const searchInput = document.getElementById('device-search');
