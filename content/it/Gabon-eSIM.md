@@ -271,237 +271,47 @@ activation_steps:
       alla rete 5G/4G più veloce disponibile di Airtel Gabon / Moov Africa Gabon. Potrai subito navigare, usare WhatsApp,
       controllare i social media o configurare un hotspot per altri dispositivi – senza attesa, senza documenti, senza contratto.
     is_list: false
-faq_section1:
-  title: 'Guida eSIM Gabon 2026: Guida Viaggio & Dati'
-  desc: Da Libreville a Port-Gentil, rimani connesso con Airtel Gabon, Moov Africa Gabon, Gabon Telecom. La nostra guida completa
-    eSIM Gabon copre copertura, piani, installazione e consigli di viaggio.
+faq_section:
+  title: "Quale operatore in Gabon per la migliore connessione eSIM?"
+  desc: "Durante un viaggio in Gabon, la rete Airtel offre una buona copertura 4G/5G. Con la eSIM navighi in città senza rallentamenti e nelle località turistiche la connessione resta affidabile."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Generale
-    title: 1.  Domande Generali sull'eSIM Gabon
+    title: Gabon eSIM FAQ
     questions:
-    - q: Per quanto tempo è valido il codice QR per l'eSIM Gabon?
-      a: Il codice QR è valido per 30 giorni dopo che te lo abbiamo inviato via email. Hai quindi tempo sufficiente per installare
-        l'eSIM prima del viaggio. Dopo la scadenza possiamo emettere un nuovo codice.
-    - q: Esiste una garanzia di rimborso se l'eSIM Gabon non funziona?
-      a: Sì, offriamo una garanzia di rimborso del 100% entro 7 giorni dall'attivazione, se i problemi tecnici non possono
-        essere risolti dal nostro supporto 24/7. Nessun rischio per te.
-    - q: Come posso monitorare il mio consumo dati con l'eSIM per Gabon?
-      a: Dopo l'attivazione hai accesso al nostro dashboard online. Puoi vedere in tempo reale i tuoi dati residui, la validità
-        rimanente e richiedere assistenza in qualsiasi momento e ovunque.
-    - q: Posso trasferire l'eSIM Gabon su un altro dispositivo dopo l'installazione?
-      a: Un'eSIM una volta installata non può essere trasferita su un altro dispositivo. Installa l'eSIM sul dispositivo che
-        utilizzerai durante il viaggio. Per dispositivi aggiuntivi puoi acquistare altre eSIM.
-    - q: Roami offre piani dati illimitati per Gabon? Esiste una politica di fair use?
-      a: Roami offre veri piani dati illimitati per Gabon. Una politica di fair use si applica solo in caso di utilizzo estremo
-        (ad es. streaming 4K continuo per diversi giorni). La navigazione normale, i social media, le videochiamate e la navigazione
-        non sono interessati.
-    - q: Durante l'utilizzo dell'eSIM Gabon, posso continuare a ricevere chiamate sulla mia SIM domestica?
-      a: Sì, i dispositivi dual-SIM consentono l'uso simultaneo di entrambi i profili. Imposta semplicemente l'eSIM Roami
-        come predefinita per i dati mobili. Chiamate e SMS continuano sulla tua SIM domestica (il roaming può rimanere attivo).
-    - q: Il mio smartphone supporta l'eSIM per Gabon e come la installo?
-      a: Sì, la maggior parte degli smartphone moderni (iPhone XS/XR o successivi, Samsung Galaxy S20+/Note20+, Google Pixel
-        3a+) supportano l'eSIM. Installa l'eSIM Gabon scansionando il codice QR nelle impostazioni cellulari. Le reti di Airtel
-        Gabon / Moov Africa Gabon offrono un'eccellente copertura 5G/4G in Gabon.
-    - q: Posso mantenere il mio numero di telefono attuale mentre uso l'eSIM per Gabon?
-      a: 'L''eSIM Roami è una eSIM solo dati. Puoi usare la tua SIM domestica in parallelo (ad es. per chiamate/SMS). La maggior
-        parte dei telefoni dual-SIM gestisce entrambi i profili: imposta semplicemente l''eSIM Roami come predefinita per
-        i dati mobili.'
-    - q: Come attivo l'eSIM per Gabon e quando inizia la validità?
-      a: Dopo l'acquisto riceverai immediatamente un codice QR di attivazione via email. La validità inizia solo quando il
-        tuo telefono si connette per la prima volta a una delle reti partner (Airtel Gabon / Moov Africa Gabon) in Gabon.
-        Paghi solo per i giorni che trascorri effettivamente sul posto.
-    - q: Quali reti 5G/4G utilizza l'eSIM per Gabon e com'è la copertura?
-      a: L'eSIM Gabon lavora esclusivamente con Airtel Gabon / Moov Africa Gabon. Riceverai automaticamente la migliore rete
-        disponibile (5G/4G/LTE) con la migliore copertura nelle città come Roma, Milano, Napoli e anche in campagna e lungo
-        le autostrade.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2.  eSIM Gabon all'Aeroporto
-    questions:
-    - q: Come posso ottenere una rete affidabile subito dopo l'atterraggio?
-      a: Installa l'eSIM Gabon prima del volo. Non appena atterri in aeroporti come Aeroporto Internazionale Léon-Mba (Libreville),
-        Aeroporto di Port-Gentil, Aeroporto di Franceville, disattiva la modalità aereo e attiva la tua eSIM. Si collegherà
-        in pochi secondi alla rete 4G/5G locale.
-    - q: Come contatto la persona che viene a prendermi o uso Uber/Grab?
-      a: Dopo l'attivazione all'atterraggio, puoi utilizzare app come Uber, Gozem, TaxiJet per prenotare una corsa o WhatsApp
-        per contattare il tuo autista, senza affidarti al Wi-Fi insicuro dell'aeroporto.
-    - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM Gabon, puoi controllare in tempo reale gli orari di treni e autobus direttamente al ritiro bagagli
-        in Aeroporto Internazionale Léon-Mba (Libreville), Aeroporto di Port-Gentil, Aeroporto di Franceville o trovare la
-        strada per il parcheggio dei taxi.
-    - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM Gabon online in anticipo, eviti completamente i costosi chioschi SIM nell'area arrivi,
-        risparmiando tempo e denaro.
-    - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM Gabon è solo dati. Per ricevere SMS, lascia attiva la tua SIM domestica (la ricezione SMS in roaming
-        è spesso gratuita) e usa l'eSIM per tutto il traffico dati.
-    - q: Come contatto immediatamente la mia famiglia?
-      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi dati eSIM Gabon per far sapere ai tuoi
-        cari che sei arrivato sano e salvo.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3.  eSIM Gabon per il Trasporto
-    questions:
-    - q: Come uso Google Maps per pianificare il percorso?
-      a: La nostra stabile connessione eSIM Gabon garantisce che Google Maps possa caricare i dati sul traffico in tempo reale
-        e gli orari ovunque in Gabon.
-    - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: App come Uber, Gozem, TaxiJet usano VoIP. Poiché hai dati eSIM Gabon attivi, gli autisti possono chiamarti o inviarti
-        notifiche direttamente tramite l'app, senza bisogno di un numero locale.
-    - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM Gabon per acquistare biglietti digitali con codice QR nelle app locali, evitando lunghe code
-        alle biglietterie automatiche.
-    - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM Gabon. Un piano da 5GB o 10GB è sufficiente per un'ampia navigazione GPS durante
-        un viaggio su strada in Gabon.
-    - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
-      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra eSIM Gabon offre la copertura affidabile
-        necessaria.
-    - q: Le app di ride-hailing funzionano oltre confine?
-      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione Internet attiva tramite la nostra eSIM
-        locale o regionale.
-    - q: Come offro un hotspot stabile per la mia famiglia?
-      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può connettersi alla tua rete eSIM Gabon sul
-        treno o in auto.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotel
-    title: 4.  eSIM Gabon per gli Hotel
-    questions:
-    - q: Come faccio il self-check-in dopo la prenotazione?
-      a: Molte strutture moderne inviano codici per serrature intelligenti via email. La tua eSIM Gabon ti garantisce di poter
-        recuperare questi dettagli direttamente davanti alla porta.
-    - q: Come contatto il mio host Airbnb al mio arrivo?
-      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare l'orario di arrivo con il tuo host tramite
-        i dati mobili eSIM Gabon.
-    - q: Come uso Google Maps per navigare verso l'hotel?
-      a: Che tu alloggi in Radisson Blu Okoumé Palace Hotel (Libreville), Hôtel Palm Beach (Port-Gentil), Le Jteurs Hotel
-        (Libreville), inserisci l'indirizzo in Google Maps e usa la navigazione della tua eSIM Gabon.
-    - q: Come ricevo i codici di verifica SMS?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM Gabon per ricevere codici via email o app di
-        autenticazione.
-    - q: Come contatto rapidamente l'assistenza clienti?
-      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i tuoi dati ad alta velocità eSIM Gabon.
-    - q: Come ordino cibo con app di consegna locali?
-      a: Scarica Jumia Food, Glovo, Uber Eats (limitato) e usa i tuoi dati eSIM Gabon per ordinare un pasto caldo direttamente
-        nella hall dell'hotel.
-    - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM Gabon subentra, permettendoti di scrivere all'hotel se hai dimenticato
-        qualcosa.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Attrazioni e Intrattenimento
-    questions:
-    - q: Come acquisto biglietti elettronici su GetYourGuide/Viator?
-      a: Se vuoi visitare Parco Nazionale della Loango, Parco Nazionale di Lopé, Cascate di Kongou all'ultimo minuto, puoi
-        usare i tuoi dati eSIM Gabon per acquistare biglietti online e mostrare il codice a barre direttamente.
-    - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM Gabon, puoi leggere recensioni e prenotare tour locali mentre sei seduto in
-        un bar.
-    - q: Come uso Wikipedia/Google per informazioni durante la visita?
-      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google o traducendo i cartelli dei musei mentre
-        esplori Gabon.
-    - q: Come trovo la strada per l'attrazione successiva?
-      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura della tua eSIM Gabon ti guiderà lungo il
-        percorso più veloce.
-    - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
-      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa in tempo reale. La tua eSIM Gabon ti
-        mantiene online in tutto il parco.
-    - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
-      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite app di ticketing con i tuoi dati eSIM Gabon.
-    - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM Gabon ti permettono di pubblicare Reel e foto in tempo reale, senza aspettare
-        il Wi-Fi dell'hotel.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 6.  eSIM Gabon per i Social Media
-    questions:
-    - q: Quanti dati mi servono per un viaggio in Gabon?
-      a: Utenti leggeri (mappe + messaggi) ~300MB/giorno, moderati (social + foto) ~700MB/giorno, intensivi (streaming + videochiamate)
-        scegli Illimitato. La maggior parte trova 5GB/15 giorni sufficienti per un viaggio standard in Gabon.
-    - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM Gabon 4G/5G offre la larghezza di banda per caricamenti
-        rapidi.
-    - q: Come faccio videochiamate con la mia famiglia?
-      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM Gabon siano chiare e senza ritardi,
-        ovunque ti trovi nel paese.
-    - q: È sicuro accedere ai social network su Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM Gabon personali è crittografato e molto
-        più sicuro.
-    - q: Come condivido la rete come hotspot con i compagni di viaggio?
-      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare il tuo volume dati eSIM Gabon per i loro
-        social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Transfrontaliero
-    title: 7.  eSIM Gabon per Viaggi Transfrontalieri
-    questions:
-    - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per Gabon funziona solo lì. Per viaggiare attraverso più paesi, consigliamo la nostra eSIM Regionale
-        (ad es. eSIM Europa).
-    - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
-      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM Gabon sia impostata come linea dati primaria.
-    - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
-      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere online durante lo scalo.
-    - q: Come ottengo Internet sulle navi da crociera?
-      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per i paesi che visiterai. Si collegherà non
-        appena sarai vicino alla terraferma.
-    - q: Come rimane online Google Maps durante i viaggi su strada?
-      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del nuovo paese quando superi il confine,
-        mantenendo attivo il GPS.
-    - q: Come gestisco i dati per più paesi in una sola app?
-      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente tramite il nostro dashboard utente sul sito
-        Web.
-    - q: Come posso essere reperibile durante i viaggi attraverso più paesi?
-      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce di essere sempre raggiungibile allo
-        stesso numero.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 8.  eSIM Gabon per le Emergenze
-    questions:
-    - q: Come si compongono i numeri di emergenza locali?
-      a: 'In Gabon puoi comporre direttamente numeri di emergenza come Polizia: 177, Vigili del Fuoco: 18, Ambulanza: 1300/1812,
-        purché il telefono riceva un segnale cellulare.'
-    - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM Gabon consentono una ricerca immediata su Google Maps di 'farmacia' o 'ospedale' con il percorso
-        più veloce.
-    - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM Gabon per trovare rapidamente l'indirizzo e il contatto di emergenza della tua ambasciata.
-    - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM Gabon per chiamare le linee di assistenza della tua assicurazione.
-    - q: Come condivido la mia posizione in tempo reale?
-      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare le tue coordinate tramite i dati eSIM
-        Gabon.
-    - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM Gabon per caricare mappe offline in Google Maps prima di recarti in aree
-        senza segnale.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  eSIM Gabon per Viaggi d'Affari
-    questions:
-    - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM Gabon si connette a reti premium offrendo larghezza di banda e bassa latenza per videoconferenze professionali.
-    - q: Come mi connetto in modo sicuro alla VPN aziendale?
-      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale in modo sicuro sulla rete eSIM Gabon.
-    - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM Gabon è molto più veloce e sicuro contro le minacce informatiche rispetto
-        alle reti Wi-Fi aperte.
-    - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM Gabon per i codici basati su email.
-    - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM Gabon puoi caricare rapidamente presentazioni sui servizi cloud.
-    - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM Gabon offre una connessione costante, così ricevi immediatamente messaggi Slack ed email.
-    - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM Gabon in movimento per informare le risorse umane sui ritardi dei voli.
+    - q: |
+        Posso acquistare la eSIM all'ultimo minuto prima del volo per il Gabon?
+      a: |
+        Sì, bastano 2-3 minuti: acquisto sul sito Roami (30 sec), QR code via email (fino a 5 min), installazione (2 min). In aereo connettiti al WiFi, installa la eSIM e all'atterraggio disattiva la modalità aereo — sei subito online. Nessuna coda in aeroporto per comprare una SIM locale.
+    - q: |
+        Qual è il piano eSIM più scelto dai turisti in Gabon?
+      a: |
+        Il piano più popolare è 5GB/15 giorni a $9.99 (scelto da oltre la metà dei turisti). Il secondo è 10GB/30 giorni a $14.99 — per chi usa internet attivamente. I piani illimitati sono scelti da circa il 15% dei viaggiatori, principalmente chi lavora da remoto o viaggia in famiglia.
+    - q: |
+        Rischio di frode usando eSIM invece del WiFi in Gabon?
+      a: |
+        Usare la eSIM per i pagamenti è più sicuro del WiFi: i dati sono criptati a livello di rete dell'operatore. Puoi usare senza problemi app come PayPal, bonifici e home banking. Le notifiche SMS arrivano sulla tua SIM fisica. Nessun rischio di intercettazione come sul WiFi pubblico.
+    - q: |
+        Vogliono il mio passaporto per attivare la eSIM per il Gabon?
+      a: |
+        Per il 90% dei paesi bastano solo email e metodo di pagamento. Niente passaporto. Dopo il pagamento il QR code arriva via email — scannerizzi e via. Nel 10% dei paesi (Cina, India, Turchia, Pakistan) serve verifica KYC con foto del passaporto nell'app Roami.
+    - q: |
+        La eSIM funziona anche in zone rurali e fuori città in Gabon?
+      a: |
+        Nelle città la copertura 4G/5G è eccellente (50-300 Mbps). Fuori città il segnale cala: 5-15 Mbps nei paesi, 2-5 Mbps nei parchi naturali e montagne. Mappe e messaggistica funzionano ovunque, i video potrebbero caricare lentamente. Consiglio: scarica le mappe offline in hotel per sicurezza.
+    - q: |
+        La eSIM è adatta per viaggi brevi di 2-3 giorni in Gabon?
+      a: |
+        Sì, per viaggi brevi c'è il piano 7 giorni / 1GB a $1.99 — ideale per un weekend. Per 3-4 giorni bastano 3GB ($4.99). Il piano inizia dal primo aggancio alla rete locale, quindi usi esattamente i tuoi giorni. Acquista e installa prima della partenza per essere subito operativo all'arrivo.
+    - q: |
+        Quanto traffico dati consuma un turista al giorno in Gabon?
+      a: |
+        L'uso tipico giornaliero: navigatore 50-80MB/h, social 150-200MB, messaggistica 50-100MB. Con video streaming si sale a 1-2GB/h. 5GB ($9.99) sono sufficienti per 7-10 giorni di uso moderato. Consiglio: scarica le mappe offline in hotel per risparmiare traffico.
+    - q: |
+        Meglio 5GB o piano illimitato per un viaggio in Gabon?
+      a: |
+        Parti dalle tue abitudini: 3GB ($4.99) per 7 giorni per navigazione leggera. 5GB ($9.99) è lo standard per la maggior parte. 10GB ($14.99) per video e social intensivi. Illimitato ($59.99) per streaming attivo e condivisione. Tutti i piani si possono ricaricare dall'app senza cambiare QR code.
 related_products:
   title: Piani eSIM simili
   items:

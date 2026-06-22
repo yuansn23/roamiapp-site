@@ -295,238 +295,47 @@ activation_steps:
       WhatsApp, controllare i social media o configurare un hotspot per altri dispositivi – senza attesa, senza documenti,
       senza contratto.
     is_list: false
-faq_section1:
-  title: 'Guida eSIM Andorra 2026: Rete & Guida di Viaggio'
-  desc: Da Andorra la Vella a Escaldes-Engordany, rimani connesso con Andorra Telecom, Mobiland, Som. La nostra guida completa
-    eSIM Andorra copre copertura, piani, installazione e consigli di viaggio.
+faq_section:
+  title: "Internet in città e campagna in Andorra: come si comporta la eSIM?"
+  desc: "Durante un viaggio in Andorra, la rete Andorra Telecom offre una buona copertura 4G/5G. Con la eSIM navighi in città senza rallentamenti e nelle località turistiche la connessione resta affidabile."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Generale
-    title: 1.  Domande Generali sull'eSIM Andorra
+    title: Andorra eSIM FAQ
     questions:
-    - q: Quali requisiti deve soddisfare il mio smartphone per utilizzare l'eSIM Andorra?
-      a: Il tuo dispositivo deve essere compatibile con eSIM (iPhone XS/XR o successivi, Samsung Galaxy S20/Note20 o successivi,
-        Google Pixel 3a o successivi, e la maggior parte dei telefoni 5G più recenti di Huawei, Xiaomi, OnePlus). Verifica
-        nelle impostazioni se è disponibile l'opzione 'Aggiungi eSIM'.
-    - q: Quali reti 5G/4G utilizza l'eSIM per Andorra e com'è la copertura?
-      a: L'eSIM Andorra lavora esclusivamente con Andorra Telecom / Mobiland. Riceverai automaticamente la migliore rete disponibile
-        (5G/4G/LTE) con la migliore copertura nelle città come Roma, Milano, Napoli e anche in campagna e lungo le autostrade.
-    - q: Posso installare l'eSIM Andorra prima della partenza e attivarla successivamente?
-      a: Sì, puoi installare l'eSIM già a casa (tramite Wi-Fi). L'attivazione avviene automaticamente quando il tuo telefono
-        si connette per la prima volta alla rete di Andorra Telecom / Mobiland in Andorra. Così eviti qualsiasi stress all'atterraggio.
-    - q: Quanto costa l'eSIM per Andorra e ci sono offerte sconto?
-      a: Il nostro piano eSIM Andorra parte da soli $1,99/GB. Con il codice promozionale 'web20' ottieni il 20% di sconto
-        su ogni ordine – valido per tutti i piani. Nessuna tassa nascosta, nessun vincolo di durata minima.
-    - q: Esiste una garanzia di rimborso se l'eSIM Andorra non funziona?
-      a: Sì, offriamo una garanzia di rimborso del 100% entro 7 giorni dall'attivazione, se i problemi tecnici non possono
-        essere risolti dal nostro supporto 24/7. Nessun rischio per te.
-    - q: Posso trasferire l'eSIM Andorra su un altro dispositivo dopo l'installazione?
-      a: Un'eSIM una volta installata non può essere trasferita su un altro dispositivo. Installa l'eSIM sul dispositivo che
-        utilizzerai durante il viaggio. Per dispositivi aggiuntivi puoi acquistare altre eSIM.
-    - q: Come attivo l'eSIM per Andorra e quando inizia la validità?
-      a: Dopo l'acquisto riceverai immediatamente un codice QR di attivazione via email. La validità inizia solo quando il
-        tuo telefono si connette per la prima volta a una delle reti partner (Andorra Telecom / Mobiland) in Andorra. Paghi
-        solo per i giorni che trascorri effettivamente sul posto.
-    - q: Posso usare l'eSIM per Andorra come hotspot con altri dispositivi?
-      a: Sì, tutti i piani Roami eSIM per Andorra consentono tethering illimitato (hotspot). Puoi condividere la tua connessione
-        dati con laptop, tablet o compagni di viaggio – senza costi nascosti o limitazioni di velocità.
-    - q: Come funziona il roaming internazionale con l'eSIM per Andorra nei paesi vicini?
-      a: L'eSIM Andorra è ottimizzata principalmente per Andorra. Per viaggi nei paesi limitrofi dell'UE, consigliamo la nostra
-        eSIM Europa, che offre roaming senza soluzione di continuità senza costi aggiuntivi. La sola eSIM nazionale non funziona
-        in modo affidabile al di fuori di Andorra.
-    - q: Il mio smartphone supporta l'eSIM per Andorra e come la installo?
-      a: Sì, la maggior parte degli smartphone moderni (iPhone XS/XR o successivi, Samsung Galaxy S20+/Note20+, Google Pixel
-        3a+) supportano l'eSIM. Installa l'eSIM Andorra scansionando il codice QR nelle impostazioni cellulari. Le reti di
-        Andorra Telecom / Mobiland offrono un'eccellente copertura 5G/4G in Andorra.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2.  eSIM Andorra all'Aeroporto
-    questions:
-    - q: Come posso ottenere una rete affidabile subito dopo l'atterraggio?
-      a: Installa l'eSIM Andorra prima del volo. Non appena atterri in aeroporti come Aeroporto di Andorra-La Seu d'Urgell,
-        Aeroporto di Tolosa-Blagnac, Aeroporto di Barcellona-El Prat, disattiva la modalità aereo e attiva la tua eSIM. Si
-        collegherà in pochi secondi alla rete 4G/5G locale.
-    - q: Come contatto la persona che viene a prendermi o uso Uber/Grab?
-      a: Dopo l'attivazione all'atterraggio, puoi utilizzare app come Andorra Bus, Taxi Andorra, Moovit per prenotare una
-        corsa o WhatsApp per contattare il tuo autista, senza affidarti al Wi-Fi insicuro dell'aeroporto.
-    - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM Andorra, puoi controllare in tempo reale gli orari di treni e autobus direttamente al ritiro
-        bagagli in Aeroporto di Andorra-La Seu d'Urgell, Aeroporto di Tolosa-Blagnac, Aeroporto di Barcellona-El Prat o trovare
-        la strada per il parcheggio dei taxi.
-    - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM Andorra online in anticipo, eviti completamente i costosi chioschi SIM nell'area arrivi,
-        risparmiando tempo e denaro.
-    - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM Andorra è solo dati. Per ricevere SMS, lascia attiva la tua SIM domestica (la ricezione SMS in roaming
-        è spesso gratuita) e usa l'eSIM per tutto il traffico dati.
-    - q: Come contatto immediatamente la mia famiglia?
-      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi dati eSIM Andorra per far sapere ai tuoi
-        cari che sei arrivato sano e salvo.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3.  eSIM Andorra per il Trasporto
-    questions:
-    - q: Come uso Google Maps per pianificare il percorso?
-      a: La nostra stabile connessione eSIM Andorra garantisce che Google Maps possa caricare i dati sul traffico in tempo
-        reale e gli orari ovunque in Andorra.
-    - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: App come Andorra Bus, Taxi Andorra, Moovit usano VoIP. Poiché hai dati eSIM Andorra attivi, gli autisti possono chiamarti
-        o inviarti notifiche direttamente tramite l'app, senza bisogno di un numero locale.
-    - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM Andorra per acquistare biglietti digitali con codice QR nelle app locali, evitando lunghe code
-        alle biglietterie automatiche.
-    - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM Andorra. Un piano da 5GB o 10GB è sufficiente per un'ampia navigazione GPS durante
-        un viaggio su strada in Andorra.
-    - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
-      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra eSIM Andorra offre la copertura affidabile
-        necessaria.
-    - q: Le app di ride-hailing funzionano oltre confine?
-      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione Internet attiva tramite la nostra eSIM
-        locale o regionale.
-    - q: Come offro un hotspot stabile per la mia famiglia?
-      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può connettersi alla tua rete eSIM Andorra
-        sul treno o in auto.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotel
-    title: 4.  eSIM Andorra per gli Hotel
-    questions:
-    - q: Come faccio il self-check-in dopo la prenotazione?
-      a: Molte strutture moderne inviano codici per serrature intelligenti via email. La tua eSIM Andorra ti garantisce di
-        poter recuperare questi dettagli direttamente davanti alla porta.
-    - q: Come contatto il mio host Airbnb al mio arrivo?
-      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare l'orario di arrivo con il tuo host tramite
-        i dati mobili eSIM Andorra.
-    - q: Come uso Google Maps per navigare verso l'hotel?
-      a: Che tu alloggi in Sport Hotel Hermitage & Spa, Hotel Plaza Andorra, Andorra Park Hotel, inserisci l'indirizzo in
-        Google Maps e usa la navigazione della tua eSIM Andorra.
-    - q: Come ricevo i codici di verifica SMS?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM Andorra per ricevere codici via email o app
-        di autenticazione.
-    - q: Come contatto rapidamente l'assistenza clienti?
-      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i tuoi dati ad alta velocità eSIM Andorra.
-    - q: Come ordino cibo con app di consegna locali?
-      a: Scarica Glovo, Deliveroo, Just Eat e usa i tuoi dati eSIM Andorra per ordinare un pasto caldo direttamente nella
-        hall dell'hotel.
-    - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM Andorra subentra, permettendoti di scrivere all'hotel se hai dimenticato
-        qualcosa.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Attrazioni e Intrattenimento
-    questions:
-    - q: Come acquisto biglietti elettronici su GetYourGuide/Viator?
-      a: Se vuoi visitare Vallnord, Caldea, Casa de la Vall all'ultimo minuto, puoi usare i tuoi dati eSIM Andorra per acquistare
-        biglietti online e mostrare il codice a barre direttamente.
-    - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM Andorra, puoi leggere recensioni e prenotare tour locali mentre sei seduto
-        in un bar.
-    - q: Come uso Wikipedia/Google per informazioni durante la visita?
-      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google o traducendo i cartelli dei musei mentre
-        esplori Andorra.
-    - q: Come trovo la strada per l'attrazione successiva?
-      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura della tua eSIM Andorra ti guiderà lungo
-        il percorso più veloce.
-    - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
-      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa in tempo reale. La tua eSIM Andorra
-        ti mantiene online in tutto il parco.
-    - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
-      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite app di ticketing con i tuoi dati eSIM Andorra.
-    - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM Andorra ti permettono di pubblicare Reel e foto in tempo reale, senza aspettare
-        il Wi-Fi dell'hotel.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 6.  eSIM Andorra per i Social Media
-    questions:
-    - q: Quanti dati mi servono per un viaggio in Andorra?
-      a: Utenti leggeri (mappe + messaggi) ~300MB/giorno, moderati (social + foto) ~700MB/giorno, intensivi (streaming + videochiamate)
-        scegli Illimitato. La maggior parte trova 5GB/15 giorni sufficienti per un viaggio standard in Andorra.
-    - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM Andorra 4G/5G offre la larghezza di banda per caricamenti
-        rapidi.
-    - q: Come faccio videochiamate con la mia famiglia?
-      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM Andorra siano chiare e senza ritardi,
-        ovunque ti trovi nel paese.
-    - q: È sicuro accedere ai social network su Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM Andorra personali è crittografato e molto
-        più sicuro.
-    - q: Come condivido la rete come hotspot con i compagni di viaggio?
-      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare il tuo volume dati eSIM Andorra per i loro
-        social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Transfrontaliero
-    title: 7.  eSIM Andorra per Viaggi Transfrontalieri
-    questions:
-    - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per Andorra funziona solo lì. Per viaggiare attraverso più paesi, consigliamo la nostra eSIM Regionale
-        (ad es. eSIM Europa).
-    - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
-      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM Andorra sia impostata come linea dati
-        primaria.
-    - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
-      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere online durante lo scalo.
-    - q: Come ottengo Internet sulle navi da crociera?
-      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per i paesi che visiterai. Si collegherà non
-        appena sarai vicino alla terraferma.
-    - q: Come rimane online Google Maps durante i viaggi su strada?
-      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del nuovo paese quando superi il confine,
-        mantenendo attivo il GPS.
-    - q: Come gestisco i dati per più paesi in una sola app?
-      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente tramite il nostro dashboard utente sul sito
-        Web.
-    - q: Come posso essere reperibile durante i viaggi attraverso più paesi?
-      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce di essere sempre raggiungibile allo
-        stesso numero.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 8.  eSIM Andorra per le Emergenze
-    questions:
-    - q: Come si compongono i numeri di emergenza locali?
-      a: In Andorra puoi comporre direttamente numeri di emergenza come 112 (Emergenze generali), 110 (Polizia), 116 (Emergenza
-        sanitaria), purché il telefono riceva un segnale cellulare.
-    - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM Andorra consentono una ricerca immediata su Google Maps di 'farmacia' o 'ospedale' con il percorso
-        più veloce.
-    - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM Andorra per trovare rapidamente l'indirizzo e il contatto di emergenza della tua ambasciata.
-    - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM Andorra per chiamare le linee di assistenza della tua assicurazione.
-    - q: Come condivido la mia posizione in tempo reale?
-      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare le tue coordinate tramite i dati eSIM
-        Andorra.
-    - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM Andorra per caricare mappe offline in Google Maps prima di recarti in aree
-        senza segnale.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  eSIM Andorra per Viaggi d'Affari
-    questions:
-    - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM Andorra si connette a reti premium offrendo larghezza di banda e bassa latenza per videoconferenze
-        professionali.
-    - q: Come mi connetto in modo sicuro alla VPN aziendale?
-      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale in modo sicuro sulla rete eSIM Andorra.
-    - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM Andorra è molto più veloce e sicuro contro le minacce informatiche rispetto
-        alle reti Wi-Fi aperte.
-    - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM Andorra per i codici basati su email.
-    - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM Andorra puoi caricare rapidamente presentazioni sui servizi cloud.
-    - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM Andorra offre una connessione costante, così ricevi immediatamente messaggi Slack ed email.
-    - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM Andorra in movimento per informare le risorse umane sui ritardi dei voli.
+    - q: |
+        Basta il piano minimo eSIM per usare Google Maps in Andorra?
+      a: |
+        Per la navigazione non serve tanta velocità: le mappe si caricano già a 1-2 Mbps. La cosa più importante è scaricare le mappe offline in hotel, risparmiando fino all'80% del traffico. Google Maps consuma 3-8MB/h, 2GIS 2-5MB/h. Anche il piano da 1GB a $1.99 basta se usi solo il navigatore.
+    - q: |
+        La eSIM è più conveniente del roaming internazionale per l'Andorra?
+      a: |
+        Il risparmio è notevole: 1GB in roaming costa €10-20 dagli operatori italiani, mentre Roami offre 5GB a $9.99. Differenza di 10-20 volte. Inoltre con la eSIM non hai limiti di velocità dopo il consumo del pacchetto — puoi ricaricare istantaneamente dall'app. Nessuna sorpresa in bolletta.
+    - q: |
+        Si può comprare la eSIM il giorno stesso della partenza per l'Andorra?
+      a: |
+        Acquistare in anticipo dà tre vantaggi: 1) Installazione con WiFi di casa — senza rischi di non avere connessione all'arrivo. 2) Il piano non si attiva fino all'atterraggio — la validità inizia al primo aggancio alla rete locale. 3) Niente code di 20-40 minuti in aeroporto. Comprato, installato in 2 minuti e dimenticato fino alla partenza.
+    - q: |
+        Che eSIM consigliate per un turista che va in Andorra?
+      a: |
+        Roami eSIM funziona sulla rete Andorra Telecom — uno dei principali operatori con copertura del 95% del territorio. 5GB a $9.99 è l'opzione ottimale per il turista medio. Se il viaggio dura più di due settimane, scegli 10GB ($14.99). Supporto 24/7 con risposta in 2 minuti.
+    - q: |
+        Come sapere quanti GB sono rimasti sulla mia eSIM per l'Andorra?
+      a: |
+        Due modi: dalle impostazioni del telefono (Impostazioni > Cellulare > Utilizzo dati) o dall'app Roami. Roami invia notifiche al 70% e 90% di utilizzo. Se il traffico sta per finire, puoi ricaricare immediatamente dall'app senza bisogno di un nuovo QR code.
+    - q: |
+        Conviene comprare una eSIM per l'Andorra rispetto a una SIM locale?
+      a: |
+        I piani Roami partono da $1.99 (7 giorni, 1GB) fino a $59.99 (30 giorni, illimitato). Il piano più popolare è 5GB/15 giorni a $9.99 — sufficiente per navigazione, social e messaggistica. Per uso intensivo con video, scegli 10GB ($14.99) o illimitato ($59.99). Tutti i piani sono prepagati, senza costi nascosti e senza rinnovo automatico.
+    - q: |
+        Che velocità internet posso aspettarmi con la eSIM in Andorra?
+      a: |
+        In città: 100-300 Mbps su 5G (sufficienti per video 4K). In periferia: 10-30 Mbps su 4G (ottimi per social e navigazione). In zone remote: 3-5 Mbps (sufficienti per messaggi e mappe). La velocità dipende dalla zona e dal carico della rete. Roami si connette automaticamente al segnale più veloce disponibile.
+    - q: |
+        Quanto traffico dati consuma un turista al giorno in Andorra?
+      a: |
+        L'uso tipico giornaliero: navigatore 50-80MB/h, social 150-200MB, messaggistica 50-100MB. Con video streaming si sale a 1-2GB/h. 5GB ($9.99) sono sufficienti per 7-10 giorni di uso moderato. Consiglio: scarica le mappe offline in hotel per risparmiare traffico.
 related_products:
   title: Piani eSIM simili
   items:

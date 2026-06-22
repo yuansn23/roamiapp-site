@@ -377,239 +377,47 @@ activation_steps:
       di SmarTone / CSL. Potrai subito navigare, usare WhatsApp, controllare i social media o configurare un hotspot per altri
       dispositivi – senza attesa, senza documenti, senza contratto.
     is_list: false
-faq_section1:
-  title: 'Guida eSIM Hong Kong 2026: Piani Dati & Consigli di Viaggio'
-  desc: Da Hong Kong Island a Kowloon, rimani connesso con SmarTone, CSL, China Mobile Hong Kong. La nostra guida completa
-    eSIM Hong Kong copre copertura, piani, installazione e consigli di viaggio.
+faq_section:
+  title: "Roami eSIM in Hong Kong: copertura adeguata per un viaggio?"
+  desc: "In viaggio in Hong Kong, la eSIM Roami si appoggia alla rete CMHK con copertura 4G/5G. Nelle città la navigazione è scattante, in campagna la connessione regge per messaggi e mappe."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Generale
-    title: 1.  Domande Generali sull'eSIM Hong Kong
+    title: Hong Kong eSIM FAQ
     questions:
-    - q: Come attivo l'eSIM per Hong Kong e quando inizia la validità?
-      a: Dopo l'acquisto riceverai immediatamente un codice QR di attivazione via email. La validità inizia solo quando il
-        tuo telefono si connette per la prima volta a una delle reti partner (SmarTone / CSL) in Hong Kong. Paghi solo per
-        i giorni che trascorri effettivamente sul posto.
-    - q: Posso usare l'eSIM per Hong Kong come hotspot con altri dispositivi?
-      a: Sì, tutti i piani Roami eSIM per Hong Kong consentono tethering illimitato (hotspot). Puoi condividere la tua connessione
-        dati con laptop, tablet o compagni di viaggio – senza costi nascosti o limitazioni di velocità.
-    - q: Il mio smartphone supporta l'eSIM per Hong Kong e come la installo?
-      a: Sì, la maggior parte degli smartphone moderni (iPhone XS/XR o successivi, Samsung Galaxy S20+/Note20+, Google Pixel
-        3a+) supportano l'eSIM. Installa l'eSIM Hong Kong scansionando il codice QR nelle impostazioni cellulari. Le reti
-        di SmarTone / CSL offrono un'eccellente copertura 5G/4G in Hong Kong.
-    - q: Durante l'utilizzo dell'eSIM Hong Kong, posso continuare a ricevere chiamate sulla mia SIM domestica?
-      a: Sì, i dispositivi dual-SIM consentono l'uso simultaneo di entrambi i profili. Imposta semplicemente l'eSIM Roami
-        come predefinita per i dati mobili. Chiamate e SMS continuano sulla tua SIM domestica (il roaming può rimanere attivo).
-    - q: Come funziona il roaming internazionale con l'eSIM per Hong Kong nei paesi vicini?
-      a: L'eSIM Hong Kong è ottimizzata principalmente per Hong Kong. Per viaggi nei paesi limitrofi dell'UE, consigliamo
-        la nostra eSIM Europa, che offre roaming senza soluzione di continuità senza costi aggiuntivi. La sola eSIM nazionale
-        non funziona in modo affidabile al di fuori di Hong Kong.
-    - q: Posso mantenere il mio numero di telefono attuale mentre uso l'eSIM per Hong Kong?
-      a: 'L''eSIM Roami è una eSIM solo dati. Puoi usare la tua SIM domestica in parallelo (ad es. per chiamate/SMS). La maggior
-        parte dei telefoni dual-SIM gestisce entrambi i profili: imposta semplicemente l''eSIM Roami come predefinita per
-        i dati mobili.'
-    - q: Quali reti 5G/4G utilizza l'eSIM per Hong Kong e com'è la copertura?
-      a: L'eSIM Hong Kong lavora esclusivamente con SmarTone / CSL. Riceverai automaticamente la migliore rete disponibile
-        (5G/4G/LTE) con la migliore copertura nelle città come Roma, Milano, Napoli e anche in campagna e lungo le autostrade.
-    - q: Quanto costa l'eSIM per Hong Kong e ci sono offerte sconto?
-      a: Il nostro piano eSIM Hong Kong parte da soli $1,99/GB. Con il codice promozionale 'web20' ottieni il 20% di sconto
-        su ogni ordine – valido per tutti i piani. Nessuna tassa nascosta, nessun vincolo di durata minima.
-    - q: Come posso monitorare il mio consumo dati con l'eSIM per Hong Kong?
-      a: Dopo l'attivazione hai accesso al nostro dashboard online. Puoi vedere in tempo reale i tuoi dati residui, la validità
-        rimanente e richiedere assistenza in qualsiasi momento e ovunque.
-    - q: Roami offre anche eSIM regionali per viaggiare al di fuori di Hong Kong?
-      a: Sì, oltre all'eSIM Hong Kong, offriamo eSIM regionali per Europa, Asia, Nord America e globali. Ideali per gite di
-        più giorni o tour attraverso più paesi – senza cambiare SIM.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2.  eSIM Hong Kong all'Aeroporto
-    questions:
-    - q: Posso attivare la mia eSIM Hong Kong subito dopo l'atterraggio?
-      a: Sì, puoi attivare la tua eSIM Hong Kong appena atterrato. Usa il WiFi gratuito dell'aeroporto, scansiona il codice
-        QR dalla tua email e sarai connesso in meno di 2 minuti. Consigliamo di installare l'eSIM prima della partenza.
-    - q: Come contatto la persona che viene a prendermi o uso Uber/Grab?
-      a: Dopo l'attivazione all'atterraggio, puoi utilizzare app come Uber, HK Taxi, GoGoVan per prenotare una corsa o WhatsApp
-        per contattare il tuo autista, senza affidarti al Wi-Fi insicuro dell'aeroporto.
-    - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM Hong Kong, puoi controllare in tempo reale gli orari di treni e autobus direttamente al ritiro
-        bagagli in Aeroporto Internazionale di Hong Kong (HKG) o trovare la strada per il parcheggio dei taxi.
-    - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM Hong Kong online in anticipo, eviti completamente i costosi chioschi SIM nell'area arrivi,
-        risparmiando tempo e denaro.
-    - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM Hong Kong è solo dati. Per ricevere SMS, lascia attiva la tua SIM domestica (la ricezione SMS in roaming
-        è spesso gratuita) e usa l'eSIM per tutto il traffico dati.
-    - q: Come contatto immediatamente la mia famiglia?
-      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi dati eSIM Hong Kong per far sapere ai
-        tuoi cari che sei arrivato sano e salvo.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3.  eSIM Hong Kong per il Trasporto
-    questions:
-    - q: Posso usare l'eSIM Hong Kong per ride-hailing e navigazione?
-      a: Sì, l'eSIM Hong Kong funziona con app di ride-hailing e Google Maps. Un piano 5GB/15 giorni ($4.99) è sufficiente
-        per la navigazione quotidiana e le prenotazioni di corse.
-    - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: App come Uber, HK Taxi, GoGoVan usano VoIP. Poiché hai dati eSIM Hong Kong attivi, gli autisti possono chiamarti
-        o inviarti notifiche direttamente tramite l'app, senza bisogno di un numero locale.
-    - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM Hong Kong per acquistare biglietti digitali con codice QR nelle app locali, evitando lunghe
-        code alle biglietterie automatiche.
-    - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM Hong Kong. Un piano da 5GB o 10GB è sufficiente per un'ampia navigazione GPS
-        durante un viaggio su strada in Hong Kong.
-    - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
-      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra eSIM Hong Kong offre la copertura affidabile
-        necessaria.
-    - q: Le app di ride-hailing funzionano oltre confine?
-      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione Internet attiva tramite la nostra eSIM
-        locale o regionale.
-    - q: Come offro un hotspot stabile per la mia famiglia?
-      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può connettersi alla tua rete eSIM Hong Kong
-        sul treno o in auto.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotel
-    title: 4.  eSIM Hong Kong per gli Hotel
-    questions:
-    - q: Come faccio il self-check-in dopo la prenotazione?
-      a: Molte strutture moderne inviano codici per serrature intelligenti via email. La tua eSIM Hong Kong ti garantisce
-        di poter recuperare questi dettagli direttamente davanti alla porta.
-    - q: Come contatto il mio host Airbnb al mio arrivo?
-      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare l'orario di arrivo con il tuo host tramite
-        i dati mobili eSIM Hong Kong.
-    - q: Come uso Google Maps per navigare verso l'hotel?
-      a: Che tu alloggi in The Peninsula Hong Kong, Four Seasons Hotel Hong Kong, Mandarin Oriental Hong Kong, inserisci l'indirizzo
-        in Google Maps e usa la navigazione della tua eSIM Hong Kong.
-    - q: Come ricevo i codici di verifica SMS?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM Hong Kong per ricevere codici via email o app
-        di autenticazione.
-    - q: Come contatto rapidamente l'assistenza clienti?
-      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i tuoi dati ad alta velocità eSIM Hong Kong.
-    - q: Come ordino cibo con app di consegna locali?
-      a: Scarica Foodpanda, Deliveroo, OpenRice e usa i tuoi dati eSIM Hong Kong per ordinare un pasto caldo direttamente
-        nella hall dell'hotel.
-    - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM Hong Kong subentra, permettendoti di scrivere all'hotel se hai
-        dimenticato qualcosa.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Attrazioni e Intrattenimento
-    questions:
-    - q: C'è copertura dati nelle attrazioni turistiche in Hong Kong?
-      a: Le principali attrazioni hanno generalmente una buona copertura 4G/5G in Hong Kong. Nelle zone remote, il segnale
-        potrebbe essere debole. Scarica mappe offline prima di visitare destinazioni isolate.
-    - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM Hong Kong, puoi leggere recensioni e prenotare tour locali mentre sei seduto
-        in un bar.
-    - q: Come uso Wikipedia/Google per informazioni durante la visita?
-      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google o traducendo i cartelli dei musei mentre
-        esplori Hong Kong.
-    - q: Come trovo la strada per l'attrazione successiva?
-      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura della tua eSIM Hong Kong ti guiderà lungo
-        il percorso più veloce.
-    - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
-      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa in tempo reale. La tua eSIM Hong Kong
-        ti mantiene online in tutto il parco.
-    - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
-      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite app di ticketing con i tuoi dati eSIM Hong
-        Kong.
-    - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM Hong Kong ti permettono di pubblicare Reel e foto in tempo reale, senza
-        aspettare il Wi-Fi dell'hotel.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 6.  eSIM Hong Kong per i Social Media
-    questions:
-    - q: Quanti dati mi servono per un viaggio in Hong Kong?
-      a: Utenti leggeri (mappe + messaggi) ~300MB/giorno, moderati (social + foto) ~700MB/giorno, intensivi (streaming + videochiamate)
-        scegli Illimitato. La maggior parte trova 5GB/15 giorni sufficienti per un viaggio standard in Hong Kong.
-    - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM Hong Kong 4G/5G offre la larghezza di banda per caricamenti
-        rapidi.
-    - q: Come faccio videochiamate con la mia famiglia?
-      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM Hong Kong siano chiare e senza ritardi,
-        ovunque ti trovi nel paese.
-    - q: È sicuro accedere ai social network su Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM Hong Kong personali è crittografato e molto
-        più sicuro.
-    - q: Come condivido la rete come hotspot con i compagni di viaggio?
-      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare il tuo volume dati eSIM Hong Kong per i
-        loro social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Transfrontaliero
-    title: 7.  eSIM Hong Kong per Viaggi Transfrontalieri
-    questions:
-    - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per Hong Kong funziona solo lì. Per viaggiare attraverso più paesi, consigliamo la nostra eSIM Regionale
-        (ad es. eSIM Europa).
-    - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
-      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM Hong Kong sia impostata come linea dati
-        primaria.
-    - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
-      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere online durante lo scalo.
-    - q: Come ottengo Internet sulle navi da crociera?
-      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per i paesi che visiterai. Si collegherà non
-        appena sarai vicino alla terraferma.
-    - q: Come rimane online Google Maps durante i viaggi su strada?
-      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del nuovo paese quando superi il confine,
-        mantenendo attivo il GPS.
-    - q: Come gestisco i dati per più paesi in una sola app?
-      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente tramite il nostro dashboard utente sul sito
-        Web.
-    - q: Come posso essere reperibile durante i viaggi attraverso più paesi?
-      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce di essere sempre raggiungibile allo
-        stesso numero.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 8.  eSIM Hong Kong per le Emergenze
-    questions:
-    - q: Posso usare WhatsApp, FaceTime e WeChat con l'eSIM Hong Kong?
-      a: Sì! L'eSIM Hong Kong supporta chiamate audio/video WhatsApp, FaceTime, WeChat e Zoom senza restrizioni. Resta in
-        contatto con la famiglia tramite le tue app preferite.
-    - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM Hong Kong consentono una ricerca immediata su Google Maps di 'farmacia' o 'ospedale' con il percorso
-        più veloce.
-    - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM Hong Kong per trovare rapidamente l'indirizzo e il contatto di emergenza della tua ambasciata.
-    - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM Hong Kong per chiamare le linee di assistenza della tua assicurazione.
-    - q: Come condivido la mia posizione in tempo reale?
-      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare le tue coordinate tramite i dati eSIM
-        Hong Kong.
-    - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM Hong Kong per caricare mappe offline in Google Maps prima di recarti in
-        aree senza segnale.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  eSIM Hong Kong per Viaggi d'Affari
-    questions:
-    - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM Hong Kong si connette a reti premium offrendo larghezza di banda e bassa latenza per videoconferenze
-        professionali.
-    - q: Come mi connetto in modo sicuro alla VPN aziendale?
-      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale in modo sicuro sulla rete eSIM Hong
-        Kong.
-    - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM Hong Kong è molto più veloce e sicuro contro le minacce informatiche rispetto
-        alle reti Wi-Fi aperte.
-    - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM Hong Kong per i codici basati su email.
-    - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM Hong Kong puoi caricare rapidamente presentazioni sui servizi cloud.
-    - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM Hong Kong offre una connessione costante, così ricevi immediatamente messaggi Slack ed email.
-    - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM Hong Kong in movimento per informare le risorse umane sui ritardi dei
-        voli.
+    - q: |
+        Posso tenere la mia SIM italiana mentre uso la eSIM in Hong Kong?
+      a: |
+        La SIM italiana e la eSIM funzionano perfettamente insieme. Puoi ricevere chiamate e SMS sulla tua SIM mentre navighi con la eSIM. Il consumo della batteria aumenta solo del 5-8%, appena percepibile. In Impostazioni > Cellulare puoi scegliere quale linea usare per voce, SMS e dati.
+    - q: |
+        Che copertura c'è in campagna e nelle aree remote in Hong Kong?
+      a: |
+        La copertura raggiunge circa il 95% delle città e zone turistiche, 60-70% nelle aree remote. Velocità: 200-300 Mbps in città con 5G, 10-30 Mbps in campagna con 4G, 3-5 Mbps in zone remote (sufficienti per messaggi e mappe). Roami si connette automaticamente al segnale più forte. Scarica le mappe offline prima di partire.
+    - q: |
+        Meglio ordinare eSIM online o comprare SIM locale all'aeroporto in Hong Kong?
+      a: |
+        No, le SIM in aeroporto costano il 30-50% in più e devi fare la coda con il passaporto. Roami eSIM si compra online in 2 minuti, il QR code arriva via email, non devi cambiare la tua SIM. Risparmi tempo e denaro.
+    - q: |
+        Quanto internet serve per il navigatore e le mappe in Hong Kong?
+      a: |
+        Google Maps consuma circa 5MB all'ora — qualsiasi piano Roami (da $1.99) va bene per la navigazione. Per scaricare le mappe di una città servono 200-500MB, fallo prima con WiFi. Se ascolti anche musica e usi social in viaggio, bastano 5GB ($9.99) a settimana. La navigazione funziona anche su 3G lento — non ti perderai.
+    - q: |
+        Meglio eSIM o SIM fisica per un viaggio in Hong Kong?
+      a: |
+        La eSIM vince su tutti i fronti: risparmio del 30-50%, installazione in 2 minuti, niente ricerca di negozi. SIM fisica: devi trovare un punto vendita, mostrare il passaporto, inserire nel telefono. Tempo: 30-60 minuti. eSIM Roami: scegli il piano online, ricevi il QR code, scannerizzi — fatto. La tua SIM resta in telefono per le chiamate.
+    - q: |
+        La eSIM è adatta per viaggi brevi di 2-3 giorni in Hong Kong?
+      a: |
+        Sì, per viaggi brevi la eSIM è perfetta. Il piano minimo è 7 giorni / 1GB a $1.99 — sufficiente per mappe e messaggi. Per 3-5 giorni di uso attivo consigliamo 3GB ($4.99). Installazione in 2 minuti, acquisto fino a 5 minuti prima della partenza. All'arrivo in Hong Kong attiva il roaming dati e sei subito online.
+    - q: |
+        Meglio eSIM o pocket WiFi per viaggiare in Hong Kong?
+      a: |
+        La eSIM è più comoda: non devi portare, caricare e restituire un dispositivo separato. Il pocket WiFi costa $3-8 al giorno più cauzione. Roami eSIM da $1.99 al giorno, funziona direttamente nel telefono, non serve ricarica separata. Entrambi supportano la condivisione internet.
+    - q: |
+        Che documenti servono per acquistare la eSIM in Hong Kong?
+      a: |
+        Per il 90% dei paesi bastano solo email e metodo di pagamento. Niente passaporto. Dopo il pagamento il QR code arriva via email — scannerizzi e via. Nel 10% dei paesi (Cina, India, Turchia, Pakistan) serve verifica KYC con foto del passaporto nell'app Roami.
 related_products:
   title: Piani eSIM simili
   items:

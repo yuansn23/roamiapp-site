@@ -203,241 +203,47 @@ activation_steps:
       automaticamente alla rete 5G/4G più veloce disponibile di Afghan Wireless / Roshan. Potrai subito navigare, usare WhatsApp,
       controllare i social media o configurare un hotspot per altri dispositivi – senza attesa, senza documenti, senza contratto.
     is_list: false
-faq_section1:
-  title: 'Guida eSIM Afghanistan 2026: Piani Dati & Consigli di Viaggio'
-  desc: Da Kabul a Herat, rimani connesso con Afghan Wireless, Roshan, MTN. La nostra guida completa eSIM Afghanistan copre
-    copertura, piani, installazione e consigli di viaggio.
+faq_section:
+  title: "Internet in Afghanistan con eSIM: che esperienza aspettarsi"
+  desc: "Parti per l'Afghanistan? La eSIM Roami su Roshan ti dà connessione 4G/5G nelle aree urbane e in gran parte delle località turistiche. La rete è stabile, perfetta per chi viaggia con lo smartphone."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Generale
-    title: 1.  Domande Generali sull'eSIM Afghanistan
+    title: Afghanistan eSIM FAQ
     questions:
-    - q: Come funziona il roaming internazionale con l'eSIM per Afghanistan nei paesi vicini?
-      a: L'eSIM Afghanistan è ottimizzata principalmente per Afghanistan. Per viaggi nei paesi limitrofi dell'UE, consigliamo
-        la nostra eSIM Europa, che offre roaming senza soluzione di continuità senza costi aggiuntivi. La sola eSIM nazionale
-        non funziona in modo affidabile al di fuori di Afghanistan.
-    - q: Durante l'utilizzo dell'eSIM Afghanistan, posso continuare a ricevere chiamate sulla mia SIM domestica?
-      a: Sì, i dispositivi dual-SIM consentono l'uso simultaneo di entrambi i profili. Imposta semplicemente l'eSIM Roami
-        come predefinita per i dati mobili. Chiamate e SMS continuano sulla tua SIM domestica (il roaming può rimanere attivo).
-    - q: Come attivo l'eSIM per Afghanistan e quando inizia la validità?
-      a: Dopo l'acquisto riceverai immediatamente un codice QR di attivazione via email. La validità inizia solo quando il
-        tuo telefono si connette per la prima volta a una delle reti partner (Afghan Wireless / Roshan) in Afghanistan. Paghi
-        solo per i giorni che trascorri effettivamente sul posto.
-    - q: Posso mantenere il mio numero di telefono attuale mentre uso l'eSIM per Afghanistan?
-      a: 'L''eSIM Roami è una eSIM solo dati. Puoi usare la tua SIM domestica in parallelo (ad es. per chiamate/SMS). La maggior
-        parte dei telefoni dual-SIM gestisce entrambi i profili: imposta semplicemente l''eSIM Roami come predefinita per
-        i dati mobili.'
-    - q: Quanto costa l'eSIM per Afghanistan e ci sono offerte sconto?
-      a: Il nostro piano eSIM Afghanistan parte da soli $1,99/GB. Con il codice promozionale 'web20' ottieni il 20% di sconto
-        su ogni ordine – valido per tutti i piani. Nessuna tassa nascosta, nessun vincolo di durata minima.
-    - q: Roami offre piani dati illimitati per Afghanistan? Esiste una politica di fair use?
-      a: Roami offre veri piani dati illimitati per Afghanistan. Una politica di fair use si applica solo in caso di utilizzo
-        estremo (ad es. streaming 4K continuo per diversi giorni). La navigazione normale, i social media, le videochiamate
-        e la navigazione non sono interessati.
-    - q: Quanto è sicura l'eSIM Afghanistan rispetto a una SIM fisica?
-      a: Le eSIM sono più resistenti alle manomissioni, poiché sono integrate nel dispositivo e non possono essere rimosse
-        o copiate. I tuoi dati rimangono crittografati – nessun rischio di SIM persa o rubata.
-    - q: Posso trasferire l'eSIM Afghanistan su un altro dispositivo dopo l'installazione?
-      a: Un'eSIM una volta installata non può essere trasferita su un altro dispositivo. Installa l'eSIM sul dispositivo che
-        utilizzerai durante il viaggio. Per dispositivi aggiuntivi puoi acquistare altre eSIM.
-    - q: Per quanto tempo è valido il codice QR per l'eSIM Afghanistan?
-      a: Il codice QR è valido per 30 giorni dopo che te lo abbiamo inviato via email. Hai quindi tempo sufficiente per installare
-        l'eSIM prima del viaggio. Dopo la scadenza possiamo emettere un nuovo codice.
-    - q: Come posso monitorare il mio consumo dati con l'eSIM per Afghanistan?
-      a: Dopo l'attivazione hai accesso al nostro dashboard online. Puoi vedere in tempo reale i tuoi dati residui, la validità
-        rimanente e richiedere assistenza in qualsiasi momento e ovunque.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2.  eSIM Afghanistan all'Aeroporto
-    questions:
-    - q: Come posso ottenere una rete affidabile subito dopo l'atterraggio?
-      a: Installa l'eSIM Afghanistan prima del volo. Non appena atterri in aeroporti come Aeroporto Internazionale di Kabul
-        (KBL), Aeroporto di Herat (HEA), Aeroporto di Mazar-i-Sharif (MZR), disattiva la modalità aereo e attiva la tua eSIM.
-        Si collegherà in pochi secondi alla rete 4G/5G locale.
-    - q: Come contatto la persona che viene a prendermi o uso Uber/Grab?
-      a: Dopo l'attivazione all'atterraggio, puoi utilizzare app come Ride sharing non molto diffuso; si usano taxi locali,
-        app come Uber non disponibili, preferito trasporto pubblico per prenotare una corsa o WhatsApp per contattare il tuo
-        autista, senza affidarti al Wi-Fi insicuro dell'aeroporto.
-    - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM Afghanistan, puoi controllare in tempo reale gli orari di treni e autobus direttamente al ritiro
-        bagagli in Aeroporto Internazionale di Kabul (KBL), Aeroporto di Herat (HEA), Aeroporto di Mazar-i-Sharif (MZR) o
-        trovare la strada per il parcheggio dei taxi.
-    - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM Afghanistan online in anticipo, eviti completamente i costosi chioschi SIM nell'area arrivi,
-        risparmiando tempo e denaro.
-    - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM Afghanistan è solo dati. Per ricevere SMS, lascia attiva la tua SIM domestica (la ricezione SMS in
-        roaming è spesso gratuita) e usa l'eSIM per tutto il traffico dati.
-    - q: Come contatto immediatamente la mia famiglia?
-      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi dati eSIM Afghanistan per far sapere ai
-        tuoi cari che sei arrivato sano e salvo.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3.  eSIM Afghanistan per il Trasporto
-    questions:
-    - q: Come uso Google Maps per pianificare il percorso?
-      a: La nostra stabile connessione eSIM Afghanistan garantisce che Google Maps possa caricare i dati sul traffico in tempo
-        reale e gli orari ovunque in Afghanistan.
-    - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: App come Ride sharing non molto diffuso; si usano taxi locali, app come Uber non disponibili, preferito trasporto
-        pubblico usano VoIP. Poiché hai dati eSIM Afghanistan attivi, gli autisti possono chiamarti o inviarti notifiche direttamente
-        tramite l'app, senza bisogno di un numero locale.
-    - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM Afghanistan per acquistare biglietti digitali con codice QR nelle app locali, evitando lunghe
-        code alle biglietterie automatiche.
-    - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM Afghanistan. Un piano da 5GB o 10GB è sufficiente per un'ampia navigazione GPS
-        durante un viaggio su strada in Afghanistan.
-    - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
-      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra eSIM Afghanistan offre la copertura affidabile
-        necessaria.
-    - q: Le app di ride-hailing funzionano oltre confine?
-      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione Internet attiva tramite la nostra eSIM
-        locale o regionale.
-    - q: Come offro un hotspot stabile per la mia famiglia?
-      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può connettersi alla tua rete eSIM Afghanistan
-        sul treno o in auto.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotel
-    title: 4.  eSIM Afghanistan per gli Hotel
-    questions:
-    - q: Come faccio il self-check-in dopo la prenotazione?
-      a: Molte strutture moderne inviano codici per serrature intelligenti via email. La tua eSIM Afghanistan ti garantisce
-        di poter recuperare questi dettagli direttamente davanti alla porta.
-    - q: Come contatto il mio host Airbnb al mio arrivo?
-      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare l'orario di arrivo con il tuo host tramite
-        i dati mobili eSIM Afghanistan.
-    - q: Come uso Google Maps per navigare verso l'hotel?
-      a: Che tu alloggi in Serena Hotel Kabul, Kabul International Hotel, Hotel Herat, inserisci l'indirizzo in Google Maps
-        e usa la navigazione della tua eSIM Afghanistan.
-    - q: Come ricevo i codici di verifica SMS?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM Afghanistan per ricevere codici via email o
-        app di autenticazione.
-    - q: Come contatto rapidamente l'assistenza clienti?
-      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i tuoi dati ad alta velocità eSIM Afghanistan.
-    - q: Come ordino cibo con app di consegna locali?
-      a: Scarica Talabate, Yummy, Kabul Online e usa i tuoi dati eSIM Afghanistan per ordinare un pasto caldo direttamente
-        nella hall dell'hotel.
-    - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM Afghanistan subentra, permettendoti di scrivere all'hotel se hai
-        dimenticato qualcosa.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Attrazioni e Intrattenimento
-    questions:
-    - q: Come acquisto biglietti elettronici su GetYourGuide/Viator?
-      a: Se vuoi visitare Bamiyan Buddha, Giardini di Babur, Minareti di Jam all'ultimo minuto, puoi usare i tuoi dati eSIM
-        Afghanistan per acquistare biglietti online e mostrare il codice a barre direttamente.
-    - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM Afghanistan, puoi leggere recensioni e prenotare tour locali mentre sei seduto
-        in un bar.
-    - q: Come uso Wikipedia/Google per informazioni durante la visita?
-      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google o traducendo i cartelli dei musei mentre
-        esplori Afghanistan.
-    - q: Come trovo la strada per l'attrazione successiva?
-      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura della tua eSIM Afghanistan ti guiderà lungo
-        il percorso più veloce.
-    - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
-      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa in tempo reale. La tua eSIM Afghanistan
-        ti mantiene online in tutto il parco.
-    - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
-      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite app di ticketing con i tuoi dati eSIM Afghanistan.
-    - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM Afghanistan ti permettono di pubblicare Reel e foto in tempo reale, senza
-        aspettare il Wi-Fi dell'hotel.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 6.  eSIM Afghanistan per i Social Media
-    questions:
-    - q: Quanti dati mi servono per un viaggio in Afghanistan?
-      a: Utenti leggeri (mappe + messaggi) ~300MB/giorno, moderati (social + foto) ~700MB/giorno, intensivi (streaming + videochiamate)
-        scegli Illimitato. La maggior parte trova 5GB/15 giorni sufficienti per un viaggio standard in Afghanistan.
-    - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM Afghanistan 4G/5G offre la larghezza di banda per caricamenti
-        rapidi.
-    - q: Come faccio videochiamate con la mia famiglia?
-      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM Afghanistan siano chiare e senza ritardi,
-        ovunque ti trovi nel paese.
-    - q: È sicuro accedere ai social network su Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM Afghanistan personali è crittografato e
-        molto più sicuro.
-    - q: Come condivido la rete come hotspot con i compagni di viaggio?
-      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare il tuo volume dati eSIM Afghanistan per
-        i loro social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Transfrontaliero
-    title: 7.  eSIM Afghanistan per Viaggi Transfrontalieri
-    questions:
-    - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per Afghanistan funziona solo lì. Per viaggiare attraverso più paesi, consigliamo la nostra eSIM Regionale
-        (ad es. eSIM Europa).
-    - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
-      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM Afghanistan sia impostata come linea dati
-        primaria.
-    - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
-      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere online durante lo scalo.
-    - q: Come ottengo Internet sulle navi da crociera?
-      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per i paesi che visiterai. Si collegherà non
-        appena sarai vicino alla terraferma.
-    - q: Come rimane online Google Maps durante i viaggi su strada?
-      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del nuovo paese quando superi il confine,
-        mantenendo attivo il GPS.
-    - q: Come gestisco i dati per più paesi in una sola app?
-      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente tramite il nostro dashboard utente sul sito
-        Web.
-    - q: Come posso essere reperibile durante i viaggi attraverso più paesi?
-      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce di essere sempre raggiungibile allo
-        stesso numero.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 8.  eSIM Afghanistan per le Emergenze
-    questions:
-    - q: Come si compongono i numeri di emergenza locali?
-      a: 'In Afghanistan puoi comporre direttamente numeri di emergenza come Polizia: 119, Ambulanza: 112, Vigili del fuoco:
-        119, purché il telefono riceva un segnale cellulare.'
-    - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM Afghanistan consentono una ricerca immediata su Google Maps di 'farmacia' o 'ospedale' con il percorso
-        più veloce.
-    - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM Afghanistan per trovare rapidamente l'indirizzo e il contatto di emergenza della tua ambasciata.
-    - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM Afghanistan per chiamare le linee di assistenza della tua assicurazione.
-    - q: Come condivido la mia posizione in tempo reale?
-      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare le tue coordinate tramite i dati eSIM
-        Afghanistan.
-    - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM Afghanistan per caricare mappe offline in Google Maps prima di recarti
-        in aree senza segnale.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  eSIM Afghanistan per Viaggi d'Affari
-    questions:
-    - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM Afghanistan si connette a reti premium offrendo larghezza di banda e bassa latenza per videoconferenze
-        professionali.
-    - q: Come mi connetto in modo sicuro alla VPN aziendale?
-      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale in modo sicuro sulla rete eSIM Afghanistan.
-    - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM Afghanistan è molto più veloce e sicuro contro le minacce informatiche rispetto
-        alle reti Wi-Fi aperte.
-    - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM Afghanistan per i codici basati su email.
-    - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM Afghanistan puoi caricare rapidamente presentazioni sui servizi cloud.
-    - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM Afghanistan offre una connessione costante, così ricevi immediatamente messaggi Slack ed email.
-    - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM Afghanistan in movimento per informare le risorse umane sui ritardi dei
-        voli.
+    - q: |
+        Cosa scelgono di solito i turisti come piano eSIM per l'Afghanistan?
+      a: |
+        5GB/15 giorni a $9.99 — la scelta del 60% dei turisti. Abbastanza per navigazione, social e messaggistica. Per coppie in viaggio consigliamo 10GB. Se guardi video ogni sera, meglio l'illimitato ($59.99). Puoi sempre ricaricare dall'app in qualsiasi momento.
+    - q: |
+        Perché acquistare la eSIM prima di partire se posso comprarla all'arrivo?
+      a: |
+        Acquistare in anticipo dà tre vantaggi: 1) Installazione con WiFi di casa — senza rischi di non avere connessione all'arrivo. 2) Il piano non si attiva fino all'atterraggio — la validità inizia al primo aggancio alla rete locale. 3) Niente code di 20-40 minuti in aeroporto. Comprato, installato in 2 minuti e dimenticato fino alla partenza.
+    - q: |
+        Come aggiungere GB se il traffico della eSIM finisce in Afghanistan?
+      a: |
+        Sì, dall'app Roami, in tempo reale. Senza nuovo QR code e senza reinstallare. Consigliamo di ricaricare quando il saldo è al 20%. Roami invia notifiche al 70% e 90% di utilizzo. Pacchetti aggiuntivi disponibili: 1GB ($1.99), 3GB ($4.99), 5GB ($9.99).
+    - q: |
+        Quanti GB servono al giorno in Afghanistan?
+      a: |
+        L'uso tipico giornaliero: navigatore 50-80MB/h, social 150-200MB, messaggistica 50-100MB. Con video streaming si sale a 1-2GB/h. 5GB ($9.99) sono sufficienti per 7-10 giorni di uso moderato. Consiglio: scarica le mappe offline in hotel per risparmiare traffico.
+    - q: |
+        Cosa conviene: eSIM o SIM tradizionale per viaggiare in Afghanistan?
+      a: |
+        La eSIM vince su tutti i fronti: risparmio del 30-50%, installazione in 2 minuti, niente ricerca di negozi. SIM fisica: devi trovare un punto vendita, mostrare il passaporto, inserire nel telefono. Tempo: 30-60 minuti. eSIM Roami: scegli il piano online, ricevi il QR code, scannerizzi — fatto. La tua SIM resta in telefono per le chiamate.
+    - q: |
+        Quanto costa una eSIM per l'Afghanistan?
+      a: |
+        I piani Roami partono da $1.99 (7 giorni, 1GB) fino a $59.99 (30 giorni, illimitato). Il piano più popolare è 5GB/15 giorni a $9.99 — sufficiente per navigazione, social e messaggistica. Per uso intensivo con video, scegli 10GB ($14.99) o illimitato ($59.99). Tutti i piani sono prepagati, senza costi nascosti e senza rinnovo automatico.
+    - q: |
+        Che qualità hanno le videochiamate con la eSIM in Afghanistan?
+      a: |
+        Le videochiamate via eSIM sono stabili: WhatsApp Video consuma 5-8MB/min, Zoom 8-12MB/min in HD. L'audio è sempre chiaro, il video può leggermente comprimersi su 4G. Per conferenze importanti meglio avere un piano da 10GB+. Funziona anche la condivisione internet verso il computer.
+    - q: |
+        Posso guardare Netflix e YouTube con la eSIM in Afghanistan?
+      a: |
+        YouTube in 1080p consuma 600-900MB/h, Netflix in 4K fino a 3GB/h. Con velocità 5G (100-300 Mbps) lo streaming in 4K è fluido. Con 4G (10-30 Mbps) la qualità HD è garantita. Consiglio: scarica i video in hotel via WiFi per risparmiare traffico e guardarli offline durante la giornata.
 related_products:
   title: Piani eSIM simili
   items:

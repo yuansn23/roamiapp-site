@@ -376,236 +376,47 @@ activation_steps:
       navigare, usare WhatsApp, controllare i social media o configurare un hotspot per altri dispositivi – senza attesa,
       senza documenti, senza contratto.
     is_list: false
-faq_section1:
-  title: 'Guida eSIM Sudafrica 2026: Rete & Guida di Viaggio'
-  desc: Da Johannesburg a Città del Capo, rimani connesso con Vodacom, MTN, Cell C. La nostra guida completa eSIM Sudafrica
-    copre copertura, piani, installazione e consigli di viaggio.
+faq_section:
+  title: "Nelle zone isolate del della Sudafrica: che copertura ha la eSIM?"
+  desc: "In viaggio in Sudafrica, la eSIM Roami si appoggia alla rete Vodacom con copertura 4G/5G. Nelle città la navigazione è scattante, in campagna la connessione regge per messaggi e mappe."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Generale
-    title: 1.  Domande Generali sull'eSIM Sudafrica
+    title: Sudafrica eSIM FAQ
     questions:
-    - q: Posso installare l'eSIM per Sudafrica anche senza codice QR?
-      a: Sì, oltre al codice QR, puoi installare l'eSIM manualmente inserendo l'indirizzo SM-DP+ e il codice di attivazione
-        (entrambi si trovano nella tua conferma d'ordine). Il codice QR è comunque il metodo più rapido e semplice.
-    - q: L'eSIM Sudafrica supporta VoLTE e chiamate HD?
-      a: Sì, l'eSIM Sudafrica supporta VoLTE e voce HD, se il tuo dispositivo lo consente. Goditi una qualità audio nitida
-        sulla rete 5G/4G di Vodacom / MTN.
-    - q: Esiste una garanzia di rimborso se l'eSIM Sudafrica non funziona?
-      a: Sì, offriamo una garanzia di rimborso del 100% entro 7 giorni dall'attivazione, se i problemi tecnici non possono
-        essere risolti dal nostro supporto 24/7. Nessun rischio per te.
-    - q: Per quanto tempo è valido il codice QR per l'eSIM Sudafrica?
-      a: Il codice QR è valido per 30 giorni dopo che te lo abbiamo inviato via email. Hai quindi tempo sufficiente per installare
-        l'eSIM prima del viaggio. Dopo la scadenza possiamo emettere un nuovo codice.
-    - q: Quali reti 5G/4G utilizza l'eSIM per Sudafrica e com'è la copertura?
-      a: L'eSIM Sudafrica lavora esclusivamente con Vodacom / MTN. Riceverai automaticamente la migliore rete disponibile
-        (5G/4G/LTE) con la migliore copertura nelle città come Roma, Milano, Napoli e anche in campagna e lungo le autostrade.
-    - q: Posso mantenere il mio numero di telefono attuale mentre uso l'eSIM per Sudafrica?
-      a: 'L''eSIM Roami è una eSIM solo dati. Puoi usare la tua SIM domestica in parallelo (ad es. per chiamate/SMS). La maggior
-        parte dei telefoni dual-SIM gestisce entrambi i profili: imposta semplicemente l''eSIM Roami come predefinita per
-        i dati mobili.'
-    - q: Roami offre anche eSIM regionali per viaggiare al di fuori di Sudafrica?
-      a: Sì, oltre all'eSIM Sudafrica, offriamo eSIM regionali per Europa, Asia, Nord America e globali. Ideali per gite di
-        più giorni o tour attraverso più paesi – senza cambiare SIM.
-    - q: Durante l'utilizzo dell'eSIM Sudafrica, posso continuare a ricevere chiamate sulla mia SIM domestica?
-      a: Sì, i dispositivi dual-SIM consentono l'uso simultaneo di entrambi i profili. Imposta semplicemente l'eSIM Roami
-        come predefinita per i dati mobili. Chiamate e SMS continuano sulla tua SIM domestica (il roaming può rimanere attivo).
-    - q: Roami offre piani dati illimitati per Sudafrica? Esiste una politica di fair use?
-      a: Roami offre veri piani dati illimitati per Sudafrica. Una politica di fair use si applica solo in caso di utilizzo
-        estremo (ad es. streaming 4K continuo per diversi giorni). La navigazione normale, i social media, le videochiamate
-        e la navigazione non sono interessati.
-    - q: Posso trasferire l'eSIM Sudafrica su un altro dispositivo dopo l'installazione?
-      a: Un'eSIM una volta installata non può essere trasferita su un altro dispositivo. Installa l'eSIM sul dispositivo che
-        utilizzerai durante il viaggio. Per dispositivi aggiuntivi puoi acquistare altre eSIM.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2.  eSIM Sudafrica all'Aeroporto
-    questions:
-    - q: Posso attivare la mia eSIM Sudafrica subito dopo l'atterraggio?
-      a: Sì, puoi attivare la tua eSIM Sudafrica appena atterrato. Usa il WiFi gratuito dell'aeroporto, scansiona il codice
-        QR dalla tua email e sarai connesso in meno di 2 minuti. Consigliamo di installare l'eSIM prima della partenza.
-    - q: Come contatto la persona che viene a prendermi o uso Uber/Grab?
-      a: Dopo l'attivazione all'atterraggio, puoi utilizzare app come Uber, Bolt, InDriver per prenotare una corsa o WhatsApp
-        per contattare il tuo autista, senza affidarti al Wi-Fi insicuro dell'aeroporto.
-    - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM Sudafrica, puoi controllare in tempo reale gli orari di treni e autobus direttamente al ritiro
-        bagagli in Aeroporto Internazionale O.R. Tambo (Johannesburg), Aeroporto Internazionale di Città del Capo, Aeroporto
-        Internazionale King Shaka (Durban) o trovare la strada per il parcheggio dei taxi.
-    - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM Sudafrica online in anticipo, eviti completamente i costosi chioschi SIM nell'area arrivi,
-        risparmiando tempo e denaro.
-    - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM Sudafrica è solo dati. Per ricevere SMS, lascia attiva la tua SIM domestica (la ricezione SMS in roaming
-        è spesso gratuita) e usa l'eSIM per tutto il traffico dati.
-    - q: Come contatto immediatamente la mia famiglia?
-      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi dati eSIM Sudafrica per far sapere ai
-        tuoi cari che sei arrivato sano e salvo.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3.  eSIM Sudafrica per il Trasporto
-    questions:
-    - q: Posso usare l'eSIM Sudafrica per ride-hailing e navigazione?
-      a: Sì, l'eSIM Sudafrica funziona con app di ride-hailing e Google Maps. Un piano 5GB/15 giorni ($4.99) è sufficiente
-        per la navigazione quotidiana e le prenotazioni di corse.
-    - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: App come Uber, Bolt, InDriver usano VoIP. Poiché hai dati eSIM Sudafrica attivi, gli autisti possono chiamarti o
-        inviarti notifiche direttamente tramite l'app, senza bisogno di un numero locale.
-    - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM Sudafrica per acquistare biglietti digitali con codice QR nelle app locali, evitando lunghe
-        code alle biglietterie automatiche.
-    - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM Sudafrica. Un piano da 5GB o 10GB è sufficiente per un'ampia navigazione GPS
-        durante un viaggio su strada in Sudafrica.
-    - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
-      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra eSIM Sudafrica offre la copertura affidabile
-        necessaria.
-    - q: Le app di ride-hailing funzionano oltre confine?
-      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione Internet attiva tramite la nostra eSIM
-        locale o regionale.
-    - q: Come offro un hotspot stabile per la mia famiglia?
-      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può connettersi alla tua rete eSIM Sudafrica
-        sul treno o in auto.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotel
-    title: 4.  eSIM Sudafrica per gli Hotel
-    questions:
-    - q: Come faccio il self-check-in dopo la prenotazione?
-      a: Molte strutture moderne inviano codici per serrature intelligenti via email. La tua eSIM Sudafrica ti garantisce
-        di poter recuperare questi dettagli direttamente davanti alla porta.
-    - q: Come contatto il mio host Airbnb al mio arrivo?
-      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare l'orario di arrivo con il tuo host tramite
-        i dati mobili eSIM Sudafrica.
-    - q: Come uso Google Maps per navigare verso l'hotel?
-      a: Che tu alloggi in The Silo Hotel (Città del Capo), Saxon Hotel, Villas & Spa (Johannesburg), Oyster Box Hotel (Durban),
-        inserisci l'indirizzo in Google Maps e usa la navigazione della tua eSIM Sudafrica.
-    - q: Come ricevo i codici di verifica SMS?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM Sudafrica per ricevere codici via email o app
-        di autenticazione.
-    - q: Come contatto rapidamente l'assistenza clienti?
-      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i tuoi dati ad alta velocità eSIM Sudafrica.
-    - q: Come ordino cibo con app di consegna locali?
-      a: Scarica Uber Eats, Mr D Food, OrderIn e usa i tuoi dati eSIM Sudafrica per ordinare un pasto caldo direttamente nella
-        hall dell'hotel.
-    - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM Sudafrica subentra, permettendoti di scrivere all'hotel se hai
-        dimenticato qualcosa.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Attrazioni e Intrattenimento
-    questions:
-    - q: C'è copertura dati nelle attrazioni turistiche in Sudafrica?
-      a: Le principali attrazioni hanno generalmente una buona copertura 4G/5G in Sudafrica. Nelle zone remote, il segnale
-        potrebbe essere debole. Scarica mappe offline prima di visitare destinazioni isolate.
-    - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM Sudafrica, puoi leggere recensioni e prenotare tour locali mentre sei seduto
-        in un bar.
-    - q: Come uso Wikipedia/Google per informazioni durante la visita?
-      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google o traducendo i cartelli dei musei mentre
-        esplori Sudafrica.
-    - q: Come trovo la strada per l'attrazione successiva?
-      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura della tua eSIM Sudafrica ti guiderà lungo
-        il percorso più veloce.
-    - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
-      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa in tempo reale. La tua eSIM Sudafrica
-        ti mantiene online in tutto il parco.
-    - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
-      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite app di ticketing con i tuoi dati eSIM Sudafrica.
-    - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM Sudafrica ti permettono di pubblicare Reel e foto in tempo reale, senza
-        aspettare il Wi-Fi dell'hotel.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 6.  eSIM Sudafrica per i Social Media
-    questions:
-    - q: Quanti dati mi servono per un viaggio in Sudafrica?
-      a: Utenti leggeri (mappe + messaggi) ~300MB/giorno, moderati (social + foto) ~700MB/giorno, intensivi (streaming + videochiamate)
-        scegli Illimitato. La maggior parte trova 5GB/15 giorni sufficienti per un viaggio standard in Sudafrica.
-    - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM Sudafrica 4G/5G offre la larghezza di banda per caricamenti
-        rapidi.
-    - q: Come faccio videochiamate con la mia famiglia?
-      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM Sudafrica siano chiare e senza ritardi,
-        ovunque ti trovi nel paese.
-    - q: È sicuro accedere ai social network su Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM Sudafrica personali è crittografato e molto
-        più sicuro.
-    - q: Come condivido la rete come hotspot con i compagni di viaggio?
-      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare il tuo volume dati eSIM Sudafrica per i
-        loro social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Transfrontaliero
-    title: 7.  eSIM Sudafrica per Viaggi Transfrontalieri
-    questions:
-    - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per Sudafrica funziona solo lì. Per viaggiare attraverso più paesi, consigliamo la nostra eSIM Regionale
-        (ad es. eSIM Europa).
-    - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
-      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM Sudafrica sia impostata come linea dati
-        primaria.
-    - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
-      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere online durante lo scalo.
-    - q: Come ottengo Internet sulle navi da crociera?
-      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per i paesi che visiterai. Si collegherà non
-        appena sarai vicino alla terraferma.
-    - q: Come rimane online Google Maps durante i viaggi su strada?
-      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del nuovo paese quando superi il confine,
-        mantenendo attivo il GPS.
-    - q: Come gestisco i dati per più paesi in una sola app?
-      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente tramite il nostro dashboard utente sul sito
-        Web.
-    - q: Come posso essere reperibile durante i viaggi attraverso più paesi?
-      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce di essere sempre raggiungibile allo
-        stesso numero.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 8.  eSIM Sudafrica per le Emergenze
-    questions:
-    - q: Posso usare WhatsApp, FaceTime e WeChat con l'eSIM Sudafrica?
-      a: Sì! L'eSIM Sudafrica supporta chiamate audio/video WhatsApp, FaceTime, WeChat e Zoom senza restrizioni. Resta in
-        contatto con la famiglia tramite le tue app preferite.
-    - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM Sudafrica consentono una ricerca immediata su Google Maps di 'farmacia' o 'ospedale' con il percorso
-        più veloce.
-    - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM Sudafrica per trovare rapidamente l'indirizzo e il contatto di emergenza della tua ambasciata.
-    - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM Sudafrica per chiamare le linee di assistenza della tua assicurazione.
-    - q: Come condivido la mia posizione in tempo reale?
-      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare le tue coordinate tramite i dati eSIM
-        Sudafrica.
-    - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM Sudafrica per caricare mappe offline in Google Maps prima di recarti in
-        aree senza segnale.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  eSIM Sudafrica per Viaggi d'Affari
-    questions:
-    - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM Sudafrica si connette a reti premium offrendo larghezza di banda e bassa latenza per videoconferenze
-        professionali.
-    - q: Come mi connetto in modo sicuro alla VPN aziendale?
-      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale in modo sicuro sulla rete eSIM Sudafrica.
-    - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM Sudafrica è molto più veloce e sicuro contro le minacce informatiche rispetto
-        alle reti Wi-Fi aperte.
-    - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM Sudafrica per i codici basati su email.
-    - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM Sudafrica puoi caricare rapidamente presentazioni sui servizi cloud.
-    - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM Sudafrica offre una connessione costante, così ricevi immediatamente messaggi Slack ed email.
-    - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM Sudafrica in movimento per informare le risorse umane sui ritardi dei
-        voli.
+    - q: |
+        Devo registrare un documento per usare la eSIM in Sudafrica?
+      a: |
+        Per il 90% dei paesi bastano solo email e metodo di pagamento. Niente passaporto. Dopo il pagamento il QR code arriva via email — scannerizzi e via. Nel 10% dei paesi (Cina, India, Turchia, Pakistan) serve verifica KYC con foto del passaporto nell'app Roami.
+    - q: |
+        Quanto costa una eSIM per la Sudafrica?
+      a: |
+        I piani Roami partono da $1.99 (7 giorni, 1GB) fino a $59.99 (30 giorni, illimitato). Il piano più popolare è 5GB/15 giorni a $9.99 — sufficiente per navigazione, social e messaggistica. Per uso intensivo con video, scegli 10GB ($14.99) o illimitato ($59.99). Tutti i piani sono prepagati, senza costi nascosti e senza rinnovo automatico.
+    - q: |
+        La eSIM è più conveniente del roaming internazionale per la Sudafrica?
+      a: |
+        Sì, la eSIM Roami costa l'80-90% in meno del roaming tradizionale. Un piano 5GB costa $9.99 mentre il roaming dell'operatore italiano può costare $50-100. In più ottieni velocità locali 4G/5G, non il roaming limitato a 256 kbps. Attiva solo la eSIM per i dati e tieni la tua SIM per SMS e chiamate.
+    - q: |
+        Come verificare se la eSIM funziona correttamente in Sudafrica?
+      a: |
+        Il test più rapido: apri un sito web o fai uno speed test. Se la pagina si carica in 2-3 secondi, la eSIM funziona. Il nome dell'operatore dovrebbe apparire in alto sullo schermo. Non vedi il nome dell'operatore? Vai in Impostazioni > Operatore e disattiva la selezione automatica.
+    - q: |
+        Qual è la velocità reale di 4G e 5G con la eSIM in Sudafrica?
+      a: |
+        In pratica i turisti ottengono: in centro città 50-200 Mbps (5G), in zone residenziali 15-50 Mbps (4G+), in aeroporti e centri commerciali 20-100 Mbps. La sera la velocità può calare del 20-30% per il carico della rete. Per la maggior parte delle attività questa velocità è più che sufficiente.
+    - q: |
+        Quali sono gli errori più comuni con la eSIM in Sudafrica?
+      a: |
+        Tre errori principali: 1) Installazione in aeroporto senza WiFi — installa a casa prima di partire. 2) Roaming dati disattivato — attivalo nelle impostazioni. 3) Compatibilità del telefono non verificata — componi *#06# prima dell'acquisto per controllare se il tuo telefono supporta eSIM.
+    - q: |
+        Quanti dispositivi posso collegare alla eSIM in hotspot in Sudafrica?
+      a: |
+        Sì, tutti i piani Roami supportano la modalità hotspot. Attiva la condivisione nelle impostazioni del telefono. Per lavorare con il computer (videoconferenze, file) consigliamo il piano 10GB ($14.99) o illimitato ($59.99). La condivisione funziona senza costi aggiuntivi.
+    - q: |
+        Basta scansionare il QR code per attivare la eSIM per la Sudafrica?
+      a: |
+        1) Acquista il piano sul sito Roami (30 sec). 2) Ricevi il QR code via email (fino a 5 min). 3) Su iPhone: Impostazioni > Cellulare > Aggiungi eSIM. Su Android: Impostazioni > Connessioni > Gestore SIM > eSIM. 4) Scannerizza il QR code. 5) Assegna la eSIM per i dati. 6) All'arrivo in Sudafrica attiva il roaming dati. Fatto!
 related_products:
   title: Piani eSIM simili
   items:

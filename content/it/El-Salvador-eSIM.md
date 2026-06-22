@@ -280,239 +280,47 @@ activation_steps:
       navigare, usare WhatsApp, controllare i social media o configurare un hotspot per altri dispositivi – senza attesa,
       senza documenti, senza contratto.
     is_list: false
-faq_section1:
-  title: 'Guida eSIM El Salvador 2026: Piani Dati & Consigli di Viaggio'
-  desc: Da San Salvador a Santa Ana, rimani connesso con Tigo, Claro, Movistar. La nostra guida completa eSIM El Salvador
-    copre copertura, piani, installazione e consigli di viaggio.
+faq_section:
+  title: "Il 5G in El Salvador funziona bene con eSIM?"
+  desc: "In viaggio in El Salvador, la eSIM Roami si appoggia alla rete Tigo con copertura 4G/5G. Nelle città la navigazione è scattante, in campagna la connessione regge per messaggi e mappe."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Generale
-    title: 1.  Domande Generali sull'eSIM El Salvador
+    title: El Salvador eSIM FAQ
     questions:
-    - q: Quanto è sicura l'eSIM El Salvador rispetto a una SIM fisica?
-      a: Le eSIM sono più resistenti alle manomissioni, poiché sono integrate nel dispositivo e non possono essere rimosse
-        o copiate. I tuoi dati rimangono crittografati – nessun rischio di SIM persa o rubata.
-    - q: Posso installare l'eSIM per El Salvador anche senza codice QR?
-      a: Sì, oltre al codice QR, puoi installare l'eSIM manualmente inserendo l'indirizzo SM-DP+ e il codice di attivazione
-        (entrambi si trovano nella tua conferma d'ordine). Il codice QR è comunque il metodo più rapido e semplice.
-    - q: Quanto costa l'eSIM per El Salvador e ci sono offerte sconto?
-      a: Il nostro piano eSIM El Salvador parte da soli $1,99/GB. Con il codice promozionale 'web20' ottieni il 20% di sconto
-        su ogni ordine – valido per tutti i piani. Nessuna tassa nascosta, nessun vincolo di durata minima.
-    - q: Roami offre piani dati illimitati per El Salvador? Esiste una politica di fair use?
-      a: Roami offre veri piani dati illimitati per El Salvador. Una politica di fair use si applica solo in caso di utilizzo
-        estremo (ad es. streaming 4K continuo per diversi giorni). La navigazione normale, i social media, le videochiamate
-        e la navigazione non sono interessati.
-    - q: Quali reti 5G/4G utilizza l'eSIM per El Salvador e com'è la copertura?
-      a: L'eSIM El Salvador lavora esclusivamente con Tigo / Claro. Riceverai automaticamente la migliore rete disponibile
-        (5G/4G/LTE) con la migliore copertura nelle città come Roma, Milano, Napoli e anche in campagna e lungo le autostrade.
-    - q: Durante l'utilizzo dell'eSIM El Salvador, posso continuare a ricevere chiamate sulla mia SIM domestica?
-      a: Sì, i dispositivi dual-SIM consentono l'uso simultaneo di entrambi i profili. Imposta semplicemente l'eSIM Roami
-        come predefinita per i dati mobili. Chiamate e SMS continuano sulla tua SIM domestica (il roaming può rimanere attivo).
-    - q: Roami offre anche eSIM regionali per viaggiare al di fuori di El Salvador?
-      a: Sì, oltre all'eSIM El Salvador, offriamo eSIM regionali per Europa, Asia, Nord America e globali. Ideali per gite
-        di più giorni o tour attraverso più paesi – senza cambiare SIM.
-    - q: Posso installare l'eSIM El Salvador prima della partenza e attivarla successivamente?
-      a: Sì, puoi installare l'eSIM già a casa (tramite Wi-Fi). L'attivazione avviene automaticamente quando il tuo telefono
-        si connette per la prima volta alla rete di Tigo / Claro in El Salvador. Così eviti qualsiasi stress all'atterraggio.
-    - q: L'eSIM El Salvador supporta VoLTE e chiamate HD?
-      a: Sì, l'eSIM El Salvador supporta VoLTE e voce HD, se il tuo dispositivo lo consente. Goditi una qualità audio nitida
-        sulla rete 5G/4G di Tigo / Claro.
-    - q: Posso usare l'eSIM per El Salvador come hotspot con altri dispositivi?
-      a: Sì, tutti i piani Roami eSIM per El Salvador consentono tethering illimitato (hotspot). Puoi condividere la tua connessione
-        dati con laptop, tablet o compagni di viaggio – senza costi nascosti o limitazioni di velocità.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2.  eSIM El Salvador all'Aeroporto
-    questions:
-    - q: Come posso ottenere una rete affidabile subito dopo l'atterraggio?
-      a: Installa l'eSIM El Salvador prima del volo. Non appena atterri in aeroporti come Aeroporto Internazionale di San
-        Salvador (Monseñor Óscar Arnulfo Romero y Galdámez), Aeroporto Internazionale di Ilopango, disattiva la modalità aereo
-        e attiva la tua eSIM. Si collegherà in pochi secondi alla rete 4G/5G locale.
-    - q: Come contatto la persona che viene a prendermi o uso Uber/Grab?
-      a: Dopo l'attivazione all'atterraggio, puoi utilizzare app come Uber, InDriver, Rutas de la Libertad per prenotare una
-        corsa o WhatsApp per contattare il tuo autista, senza affidarti al Wi-Fi insicuro dell'aeroporto.
-    - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM El Salvador, puoi controllare in tempo reale gli orari di treni e autobus direttamente al ritiro
-        bagagli in Aeroporto Internazionale di San Salvador (Monseñor Óscar Arnulfo Romero y Galdámez), Aeroporto Internazionale
-        di Ilopango o trovare la strada per il parcheggio dei taxi.
-    - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM El Salvador online in anticipo, eviti completamente i costosi chioschi SIM nell'area arrivi,
-        risparmiando tempo e denaro.
-    - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM El Salvador è solo dati. Per ricevere SMS, lascia attiva la tua SIM domestica (la ricezione SMS in
-        roaming è spesso gratuita) e usa l'eSIM per tutto il traffico dati.
-    - q: Come contatto immediatamente la mia famiglia?
-      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi dati eSIM El Salvador per far sapere ai
-        tuoi cari che sei arrivato sano e salvo.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3.  eSIM El Salvador per il Trasporto
-    questions:
-    - q: Come uso Google Maps per pianificare il percorso?
-      a: La nostra stabile connessione eSIM El Salvador garantisce che Google Maps possa caricare i dati sul traffico in tempo
-        reale e gli orari ovunque in El Salvador.
-    - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: App come Uber, InDriver, Rutas de la Libertad usano VoIP. Poiché hai dati eSIM El Salvador attivi, gli autisti possono
-        chiamarti o inviarti notifiche direttamente tramite l'app, senza bisogno di un numero locale.
-    - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM El Salvador per acquistare biglietti digitali con codice QR nelle app locali, evitando lunghe
-        code alle biglietterie automatiche.
-    - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM El Salvador. Un piano da 5GB o 10GB è sufficiente per un'ampia navigazione GPS
-        durante un viaggio su strada in El Salvador.
-    - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
-      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra eSIM El Salvador offre la copertura affidabile
-        necessaria.
-    - q: Le app di ride-hailing funzionano oltre confine?
-      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione Internet attiva tramite la nostra eSIM
-        locale o regionale.
-    - q: Come offro un hotspot stabile per la mia famiglia?
-      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può connettersi alla tua rete eSIM El Salvador
-        sul treno o in auto.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotel
-    title: 4.  eSIM El Salvador per gli Hotel
-    questions:
-    - q: Come faccio il self-check-in dopo la prenotazione?
-      a: Molte strutture moderne inviano codici per serrature intelligenti via email. La tua eSIM El Salvador ti garantisce
-        di poter recuperare questi dettagli direttamente davanti alla porta.
-    - q: Come contatto il mio host Airbnb al mio arrivo?
-      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare l'orario di arrivo con il tuo host tramite
-        i dati mobili eSIM El Salvador.
-    - q: Come uso Google Maps per navigare verso l'hotel?
-      a: Che tu alloggi in InterContinental San Salvador, Hilton Princess San Salvador, Hotel Real InterContinental San Salvador,
-        inserisci l'indirizzo in Google Maps e usa la navigazione della tua eSIM El Salvador.
-    - q: Come ricevo i codici di verifica SMS?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM El Salvador per ricevere codici via email o
-        app di autenticazione.
-    - q: Come contatto rapidamente l'assistenza clienti?
-      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i tuoi dati ad alta velocità eSIM El Salvador.
-    - q: Come ordino cibo con app di consegna locali?
-      a: Scarica Hugo App, PedidosYa, Uber Eats e usa i tuoi dati eSIM El Salvador per ordinare un pasto caldo direttamente
-        nella hall dell'hotel.
-    - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM El Salvador subentra, permettendoti di scrivere all'hotel se hai
-        dimenticato qualcosa.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Attrazioni e Intrattenimento
-    questions:
-    - q: Come acquisto biglietti elettronici su GetYourGuide/Viator?
-      a: Se vuoi visitare Piazza delle Libertà (Plaza Libertad), Cattedrale di San Salvador, Monumento al Salvador del Mondo
-        all'ultimo minuto, puoi usare i tuoi dati eSIM El Salvador per acquistare biglietti online e mostrare il codice a
-        barre direttamente.
-    - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM El Salvador, puoi leggere recensioni e prenotare tour locali mentre sei seduto
-        in un bar.
-    - q: Come uso Wikipedia/Google per informazioni durante la visita?
-      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google o traducendo i cartelli dei musei mentre
-        esplori El Salvador.
-    - q: Come trovo la strada per l'attrazione successiva?
-      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura della tua eSIM El Salvador ti guiderà lungo
-        il percorso più veloce.
-    - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
-      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa in tempo reale. La tua eSIM El Salvador
-        ti mantiene online in tutto il parco.
-    - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
-      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite app di ticketing con i tuoi dati eSIM El
-        Salvador.
-    - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM El Salvador ti permettono di pubblicare Reel e foto in tempo reale, senza
-        aspettare il Wi-Fi dell'hotel.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 6.  eSIM El Salvador per i Social Media
-    questions:
-    - q: Quanti dati mi servono per un viaggio in El Salvador?
-      a: Utenti leggeri (mappe + messaggi) ~300MB/giorno, moderati (social + foto) ~700MB/giorno, intensivi (streaming + videochiamate)
-        scegli Illimitato. La maggior parte trova 5GB/15 giorni sufficienti per un viaggio standard in El Salvador.
-    - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM El Salvador 4G/5G offre la larghezza di banda per caricamenti
-        rapidi.
-    - q: Come faccio videochiamate con la mia famiglia?
-      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM El Salvador siano chiare e senza ritardi,
-        ovunque ti trovi nel paese.
-    - q: È sicuro accedere ai social network su Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM El Salvador personali è crittografato e
-        molto più sicuro.
-    - q: Come condivido la rete come hotspot con i compagni di viaggio?
-      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare il tuo volume dati eSIM El Salvador per
-        i loro social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Transfrontaliero
-    title: 7.  eSIM El Salvador per Viaggi Transfrontalieri
-    questions:
-    - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per El Salvador funziona solo lì. Per viaggiare attraverso più paesi, consigliamo la nostra eSIM Regionale
-        (ad es. eSIM Europa).
-    - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
-      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM El Salvador sia impostata come linea dati
-        primaria.
-    - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
-      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere online durante lo scalo.
-    - q: Come ottengo Internet sulle navi da crociera?
-      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per i paesi che visiterai. Si collegherà non
-        appena sarai vicino alla terraferma.
-    - q: Come rimane online Google Maps durante i viaggi su strada?
-      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del nuovo paese quando superi il confine,
-        mantenendo attivo il GPS.
-    - q: Come gestisco i dati per più paesi in una sola app?
-      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente tramite il nostro dashboard utente sul sito
-        Web.
-    - q: Come posso essere reperibile durante i viaggi attraverso più paesi?
-      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce di essere sempre raggiungibile allo
-        stesso numero.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 8.  eSIM El Salvador per le Emergenze
-    questions:
-    - q: Come si compongono i numeri di emergenza locali?
-      a: In El Salvador puoi comporre direttamente numeri di emergenza come 911 (emergenze generali), 132 (ambulanza), 121
-        (polizia stradale), purché il telefono riceva un segnale cellulare.
-    - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM El Salvador consentono una ricerca immediata su Google Maps di 'farmacia' o 'ospedale' con il percorso
-        più veloce.
-    - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM El Salvador per trovare rapidamente l'indirizzo e il contatto di emergenza della tua ambasciata.
-    - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM El Salvador per chiamare le linee di assistenza della tua assicurazione.
-    - q: Come condivido la mia posizione in tempo reale?
-      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare le tue coordinate tramite i dati eSIM
-        El Salvador.
-    - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM El Salvador per caricare mappe offline in Google Maps prima di recarti
-        in aree senza segnale.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  eSIM El Salvador per Viaggi d'Affari
-    questions:
-    - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM El Salvador si connette a reti premium offrendo larghezza di banda e bassa latenza per videoconferenze
-        professionali.
-    - q: Come mi connetto in modo sicuro alla VPN aziendale?
-      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale in modo sicuro sulla rete eSIM El
-        Salvador.
-    - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM El Salvador è molto più veloce e sicuro contro le minacce informatiche rispetto
-        alle reti Wi-Fi aperte.
-    - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM El Salvador per i codici basati su email.
-    - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM El Salvador puoi caricare rapidamente presentazioni sui servizi cloud.
-    - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM El Salvador offre una connessione costante, così ricevi immediatamente messaggi Slack ed email.
-    - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM El Salvador in movimento per informare le risorse umane sui ritardi dei
-        voli.
+    - q: |
+        Come aggiungere GB se il traffico della eSIM finisce in El Salvador?
+      a: |
+        La ricarica richiede 30 secondi: apri l'app Roami, scegli il pacchetto aggiuntivo, paghi — il traffico è subito disponibile. Non serve scansionare un nuovo QR code o reinstallare la eSIM. Puoi ricaricare con carta o PayPal in qualsiasi momento, anche dall'estero.
+    - q: |
+        Serve il passaporto per attivare la eSIM per l'El Salvador?
+      a: |
+        Per il 90% dei paesi bastano solo email e metodo di pagamento. Nessun documento richiesto. Dopo il pagamento il QR code arriva via email — scannerizzi e via. Nel 10% dei paesi (Cina, India, Turchia, Pakistan) serve verifica KYC: caricare foto del passaporto nell'app Roami.
+    - q: |
+        Si può lavorare da remoto con la eSIM in El Salvador?
+      a: |
+        Sì, la eSIM è perfetta per il lavoro da remoto. Con 5G le velocità raggiungono 100-300 Mbps, sufficienti per videoconferenze Zoom/Teams e invio di file pesanti. Con 4G (10-30 Mbps) puoi lavorare con email e documenti. Per lavoro consigliamo 10GB ($14.99) a settimana o illimitato ($59.99). La eSIM supporta anche la condivisione internet verso il computer.
+    - q: |
+        Quale quantità di dati scegliere per il mio viaggio per l'El Salvador?
+      a: |
+        Parti dalle tue abitudini: 3GB ($4.99) per 7 giorni per navigazione leggera. 5GB ($9.99) è lo standard per la maggior parte. 10GB ($14.99) per video e social intensivi. Illimitato ($59.99) per streaming attivo e condivisione. Tutti i piani si possono ricaricare dall'app senza cambiare QR code.
+    - q: |
+        Come usare la mia SIM e la eSIM contemporaneamente in El Salvador?
+      a: |
+        La SIM italiana e la eSIM funzionano perfettamente insieme. Puoi ricevere chiamate e SMS sulla tua SIM mentre navighi con la eSIM. Il consumo della batteria aumenta solo del 5-8%, appena percepibile. In Impostazioni > Cellulare puoi scegliere quale linea usare per voce, SMS e dati.
+    - q: |
+        Meglio installare la eSIM a casa o direttamente in aeroporto?
+      a: |
+        Acquistare in anticipo dà tre vantaggi: 1) Installazione con WiFi di casa — senza rischi di non avere connessione all'arrivo. 2) Il piano non si attiva fino all'atterraggio — la validità inizia al primo aggancio alla rete locale. 3) Niente code di 20-40 minuti in aeroporto. Comprato, installato in 2 minuti e dimenticato fino alla partenza.
+    - q: |
+        Come controllare il traffico residuo sulla eSIM in El Salvador?
+      a: |
+        Due modi: dalle impostazioni del telefono (Impostazioni > Cellulare > Utilizzo dati) o dall'app Roami. Roami invia notifiche al 70% e 90% di utilizzo. Se il traffico sta per finire, puoi ricaricare immediatamente dall'app senza bisogno di un nuovo QR code.
+    - q: |
+        Basta il piano minimo eSIM per usare Google Maps in El Salvador?
+      a: |
+        Google Maps consuma circa 5MB all'ora — qualsiasi piano Roami (da $1.99) va bene per la navigazione. Per scaricare le mappe di una città servono 200-500MB, fallo prima con WiFi. Se ascolti anche musica e usi social in viaggio, bastano 5GB ($9.99) a settimana. La navigazione funziona anche su 3G lento — non ti perderai.
 related_products:
   title: Piani eSIM simili
   items:

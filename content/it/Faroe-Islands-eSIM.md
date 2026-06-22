@@ -287,240 +287,47 @@ activation_steps:
       alla rete 5G/4G più veloce disponibile di Faroese Telecom / Vodafone. Potrai subito navigare, usare WhatsApp, controllare
       i social media o configurare un hotspot per altri dispositivi – senza attesa, senza documenti, senza contratto.
     is_list: false
-faq_section1:
-  title: 'Guida eSIM Isole Fær Øer 2026: Piani Dati & Consigli di Viaggio'
-  desc: Da Tórshavn a Klaksvík, rimani connesso con Faroese Telecom, Vodafone, Samband. La nostra guida completa eSIM Isole
-    Fær Øer copre copertura, piani, installazione e consigli di viaggio.
+faq_section:
+  title: "Connettersi nelle Isole Fær Øer con eSIM: segnale stabile?"
+  desc: "La eSIM per l'Isole Fær Øer si connette alla rete Faroese Telecom con copertura 4G/5G. In città puoi fare streaming, nelle zone periferiche la connessione basta per messaggi e mappe offline."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Generale
-    title: 1.  Domande Generali sull'eSIM Isole Fær Øer
+    title: Isole Fær Øer eSIM FAQ
     questions:
-    - q: Come posso monitorare il mio consumo dati con l'eSIM per Isole Fær Øer?
-      a: Dopo l'attivazione hai accesso al nostro dashboard online. Puoi vedere in tempo reale i tuoi dati residui, la validità
-        rimanente e richiedere assistenza in qualsiasi momento e ovunque.
-    - q: Quanto è sicura l'eSIM Isole Fær Øer rispetto a una SIM fisica?
-      a: Le eSIM sono più resistenti alle manomissioni, poiché sono integrate nel dispositivo e non possono essere rimosse
-        o copiate. I tuoi dati rimangono crittografati – nessun rischio di SIM persa o rubata.
-    - q: L'eSIM Isole Fær Øer supporta VoLTE e chiamate HD?
-      a: Sì, l'eSIM Isole Fær Øer supporta VoLTE e voce HD, se il tuo dispositivo lo consente. Goditi una qualità audio nitida
-        sulla rete 5G/4G di Faroese Telecom / Vodafone.
-    - q: Roami offre anche eSIM regionali per viaggiare al di fuori di Isole Fær Øer?
-      a: Sì, oltre all'eSIM Isole Fær Øer, offriamo eSIM regionali per Europa, Asia, Nord America e globali. Ideali per gite
-        di più giorni o tour attraverso più paesi – senza cambiare SIM.
-    - q: Come funziona il roaming internazionale con l'eSIM per Isole Fær Øer nei paesi vicini?
-      a: L'eSIM Isole Fær Øer è ottimizzata principalmente per Isole Fær Øer. Per viaggi nei paesi limitrofi dell'UE, consigliamo
-        la nostra eSIM Europa, che offre roaming senza soluzione di continuità senza costi aggiuntivi. La sola eSIM nazionale
-        non funziona in modo affidabile al di fuori di Isole Fær Øer.
-    - q: Posso installare l'eSIM per Isole Fær Øer anche senza codice QR?
-      a: Sì, oltre al codice QR, puoi installare l'eSIM manualmente inserendo l'indirizzo SM-DP+ e il codice di attivazione
-        (entrambi si trovano nella tua conferma d'ordine). Il codice QR è comunque il metodo più rapido e semplice.
-    - q: Quali sono i vantaggi dell'eSIM Roami rispetto alle SIM locali prepagate in Isole Fær Øer?
-      a: A differenza delle SIM locali prepagate, eviti di andare in negozio, la registrazione dell'identità (KYC) e la ricerca
-        di una ricarica adatta. Con Roami attivi l'eSIM digitalmente in meno di 2 minuti – nessuna coda in aeroporto.
-    - q: Posso trasferire l'eSIM Isole Fær Øer su un altro dispositivo dopo l'installazione?
-      a: Un'eSIM una volta installata non può essere trasferita su un altro dispositivo. Installa l'eSIM sul dispositivo che
-        utilizzerai durante il viaggio. Per dispositivi aggiuntivi puoi acquistare altre eSIM.
-    - q: Esiste una garanzia di rimborso se l'eSIM Isole Fær Øer non funziona?
-      a: Sì, offriamo una garanzia di rimborso del 100% entro 7 giorni dall'attivazione, se i problemi tecnici non possono
-        essere risolti dal nostro supporto 24/7. Nessun rischio per te.
-    - q: Per quanto tempo è valido il codice QR per l'eSIM Isole Fær Øer?
-      a: Il codice QR è valido per 30 giorni dopo che te lo abbiamo inviato via email. Hai quindi tempo sufficiente per installare
-        l'eSIM prima del viaggio. Dopo la scadenza possiamo emettere un nuovo codice.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2.  eSIM Isole Fær Øer all'Aeroporto
-    questions:
-    - q: Come posso ottenere una rete affidabile subito dopo l'atterraggio?
-      a: Installa l'eSIM Isole Fær Øer prima del volo. Non appena atterri in aeroporti come Aeroporto di Vágar, Aeroporto
-        di Klaksvík (eliporto), Aeroporto di Tórshavn (eliporto), disattiva la modalità aereo e attiva la tua eSIM. Si collegherà
-        in pochi secondi alla rete 4G/5G locale.
-    - q: Come contatto la persona che viene a prendermi o uso Uber/Grab?
-      a: Dopo l'attivazione all'atterraggio, puoi utilizzare app come Strandfaraskip Landsins (bygdaferðir), Heilsubussurin,
-        Taxi per prenotare una corsa o WhatsApp per contattare il tuo autista, senza affidarti al Wi-Fi insicuro dell'aeroporto.
-    - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM Isole Fær Øer, puoi controllare in tempo reale gli orari di treni e autobus direttamente al
-        ritiro bagagli in Aeroporto di Vágar, Aeroporto di Klaksvík (eliporto), Aeroporto di Tórshavn (eliporto) o trovare
-        la strada per il parcheggio dei taxi.
-    - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM Isole Fær Øer online in anticipo, eviti completamente i costosi chioschi SIM nell'area
-        arrivi, risparmiando tempo e denaro.
-    - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM Isole Fær Øer è solo dati. Per ricevere SMS, lascia attiva la tua SIM domestica (la ricezione SMS
-        in roaming è spesso gratuita) e usa l'eSIM per tutto il traffico dati.
-    - q: Come contatto immediatamente la mia famiglia?
-      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi dati eSIM Isole Fær Øer per far sapere
-        ai tuoi cari che sei arrivato sano e salvo.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3.  eSIM Isole Fær Øer per il Trasporto
-    questions:
-    - q: Come uso Google Maps per pianificare il percorso?
-      a: La nostra stabile connessione eSIM Isole Fær Øer garantisce che Google Maps possa caricare i dati sul traffico in
-        tempo reale e gli orari ovunque in Isole Fær Øer.
-    - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: App come Strandfaraskip Landsins (bygdaferðir), Heilsubussurin, Taxi usano VoIP. Poiché hai dati eSIM Isole Fær Øer
-        attivi, gli autisti possono chiamarti o inviarti notifiche direttamente tramite l'app, senza bisogno di un numero
-        locale.
-    - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM Isole Fær Øer per acquistare biglietti digitali con codice QR nelle app locali, evitando lunghe
-        code alle biglietterie automatiche.
-    - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM Isole Fær Øer. Un piano da 5GB o 10GB è sufficiente per un'ampia navigazione
-        GPS durante un viaggio su strada in Isole Fær Øer.
-    - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
-      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra eSIM Isole Fær Øer offre la copertura
-        affidabile necessaria.
-    - q: Le app di ride-hailing funzionano oltre confine?
-      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione Internet attiva tramite la nostra eSIM
-        locale o regionale.
-    - q: Come offro un hotspot stabile per la mia famiglia?
-      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può connettersi alla tua rete eSIM Isole Fær
-        Øer sul treno o in auto.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotel
-    title: 4.  eSIM Isole Fær Øer per gli Hotel
-    questions:
-    - q: Come faccio il self-check-in dopo la prenotazione?
-      a: Molte strutture moderne inviano codici per serrature intelligenti via email. La tua eSIM Isole Fær Øer ti garantisce
-        di poter recuperare questi dettagli direttamente davanti alla porta.
-    - q: Come contatto il mio host Airbnb al mio arrivo?
-      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare l'orario di arrivo con il tuo host tramite
-        i dati mobili eSIM Isole Fær Øer.
-    - q: Come uso Google Maps per navigare verso l'hotel?
-      a: Che tu alloggi in Hotel Føroyar, Hotel Hafnia, Hilton Garden Inn Tórshavn, inserisci l'indirizzo in Google Maps e
-        usa la navigazione della tua eSIM Isole Fær Øer.
-    - q: Come ricevo i codici di verifica SMS?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM Isole Fær Øer per ricevere codici via email
-        o app di autenticazione.
-    - q: Come contatto rapidamente l'assistenza clienti?
-      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i tuoi dati ad alta velocità eSIM Isole Fær
-        Øer.
-    - q: Come ordino cibo con app di consegna locali?
-      a: Scarica Matimati, Just Eat, Bil-Bil e usa i tuoi dati eSIM Isole Fær Øer per ordinare un pasto caldo direttamente
-        nella hall dell'hotel.
-    - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM Isole Fær Øer subentra, permettendoti di scrivere all'hotel se
-        hai dimenticato qualcosa.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Attrazioni e Intrattenimento
-    questions:
-    - q: Come acquisto biglietti elettronici su GetYourGuide/Viator?
-      a: Se vuoi visitare Cascata Mulafossur, Gásadalur, Isola di Mykines, Sørvágur all'ultimo minuto, puoi usare i tuoi dati
-        eSIM Isole Fær Øer per acquistare biglietti online e mostrare il codice a barre direttamente.
-    - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM Isole Fær Øer, puoi leggere recensioni e prenotare tour locali mentre sei seduto
-        in un bar.
-    - q: Come uso Wikipedia/Google per informazioni durante la visita?
-      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google o traducendo i cartelli dei musei mentre
-        esplori Isole Fær Øer.
-    - q: Come trovo la strada per l'attrazione successiva?
-      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura della tua eSIM Isole Fær Øer ti guiderà
-        lungo il percorso più veloce.
-    - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
-      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa in tempo reale. La tua eSIM Isole Fær
-        Øer ti mantiene online in tutto il parco.
-    - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
-      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite app di ticketing con i tuoi dati eSIM Isole
-        Fær Øer.
-    - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM Isole Fær Øer ti permettono di pubblicare Reel e foto in tempo reale, senza
-        aspettare il Wi-Fi dell'hotel.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 6.  eSIM Isole Fær Øer per i Social Media
-    questions:
-    - q: Quanti dati mi servono per un viaggio in Isole Fær Øer?
-      a: Utenti leggeri (mappe + messaggi) ~300MB/giorno, moderati (social + foto) ~700MB/giorno, intensivi (streaming + videochiamate)
-        scegli Illimitato. La maggior parte trova 5GB/15 giorni sufficienti per un viaggio standard in Isole Fær Øer.
-    - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM Isole Fær Øer 4G/5G offre la larghezza di banda per caricamenti
-        rapidi.
-    - q: Come faccio videochiamate con la mia famiglia?
-      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM Isole Fær Øer siano chiare e senza ritardi,
-        ovunque ti trovi nel paese.
-    - q: È sicuro accedere ai social network su Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM Isole Fær Øer personali è crittografato
-        e molto più sicuro.
-    - q: Come condivido la rete come hotspot con i compagni di viaggio?
-      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare il tuo volume dati eSIM Isole Fær Øer per
-        i loro social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Transfrontaliero
-    title: 7.  eSIM Isole Fær Øer per Viaggi Transfrontalieri
-    questions:
-    - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per Isole Fær Øer funziona solo lì. Per viaggiare attraverso più paesi, consigliamo la nostra eSIM
-        Regionale (ad es. eSIM Europa).
-    - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
-      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM Isole Fær Øer sia impostata come linea
-        dati primaria.
-    - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
-      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere online durante lo scalo.
-    - q: Come ottengo Internet sulle navi da crociera?
-      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per i paesi che visiterai. Si collegherà non
-        appena sarai vicino alla terraferma.
-    - q: Come rimane online Google Maps durante i viaggi su strada?
-      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del nuovo paese quando superi il confine,
-        mantenendo attivo il GPS.
-    - q: Come gestisco i dati per più paesi in una sola app?
-      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente tramite il nostro dashboard utente sul sito
-        Web.
-    - q: Come posso essere reperibile durante i viaggi attraverso più paesi?
-      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce di essere sempre raggiungibile allo
-        stesso numero.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 8.  eSIM Isole Fær Øer per le Emergenze
-    questions:
-    - q: Come si compongono i numeri di emergenza locali?
-      a: In Isole Fær Øer puoi comporre direttamente numeri di emergenza come 112 (generale), 190 (polizia), 1414 (ambulanza),
-        purché il telefono riceva un segnale cellulare.
-    - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM Isole Fær Øer consentono una ricerca immediata su Google Maps di 'farmacia' o 'ospedale' con il
-        percorso più veloce.
-    - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM Isole Fær Øer per trovare rapidamente l'indirizzo e il contatto di emergenza della tua ambasciata.
-    - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM Isole Fær Øer per chiamare le linee di assistenza della tua assicurazione.
-    - q: Come condivido la mia posizione in tempo reale?
-      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare le tue coordinate tramite i dati eSIM
-        Isole Fær Øer.
-    - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM Isole Fær Øer per caricare mappe offline in Google Maps prima di recarti
-        in aree senza segnale.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  eSIM Isole Fær Øer per Viaggi d'Affari
-    questions:
-    - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM Isole Fær Øer si connette a reti premium offrendo larghezza di banda e bassa latenza per videoconferenze
-        professionali.
-    - q: Come mi connetto in modo sicuro alla VPN aziendale?
-      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale in modo sicuro sulla rete eSIM Isole
-        Fær Øer.
-    - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM Isole Fær Øer è molto più veloce e sicuro contro le minacce informatiche
-        rispetto alle reti Wi-Fi aperte.
-    - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM Isole Fær Øer per i codici basati su email.
-    - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM Isole Fær Øer puoi caricare rapidamente presentazioni sui servizi cloud.
-    - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM Isole Fær Øer offre una connessione costante, così ricevi immediatamente messaggi Slack ed email.
-    - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM Isole Fær Øer in movimento per informare le risorse umane sui ritardi
-        dei voli.
+    - q: |
+        Qual è la velocità reale di 4G e 5G con la eSIM nelle Isole Fær Øer?
+      a: |
+        In città: 100-300 Mbps su 5G (sufficienti per video 4K). In periferia: 10-30 Mbps su 4G (ottimi per social e navigazione). In zone remote: 3-5 Mbps (sufficienti per messaggi e mappe). La velocità dipende dalla zona e dal carico della rete. Roami si connette automaticamente al segnale più veloce disponibile.
+    - q: |
+        Quali sono i passaggi per configurare la eSIM prima di partire?
+      a: |
+        L'installazione richiede 2 minuti. Dopo l'acquisto ricevi il QR code via email entro 5 minuti. Su iPhone: Impostazioni > Cellulare > Aggiungi eSIM. Su Android: Impostazioni > Rete > Aggiungi eSIM. Installa prima della partenza con WiFi di casa. All'arrivo nelle Isole Fær Øer, attiva il roaming dati — sei online in 60 secondi.
+    - q: |
+        I social network funzionano con la eSIM nelle Isole Fær Øer?
+      a: |
+        Tutte le app funzionano: il feed Instagram si carica in 1-2 secondi, i video TikTok senza buffering, i messaggi Telegram sono istantanei. Al giorno sui social si consumano 200-400MB con uso attivo. 5GB ($9.99) bastano per 12-20 giorni di navigazione moderata.
+    - q: |
+        Devo togliere la SIM fisica per usare la eSIM nelle Isole Fær Øer?
+      a: |
+        No, la SIM rimane nello slot 1. La eSIM funziona in parallelo nello slot 2. Usa il tuo numero per SMS e chiamate, la eSIM per internet. Risparmio del 30-50% rispetto alla SIM in aeroporto. Nelle impostazioni puoi assegnare: SIM 1 per voce, eSIM per dati.
+    - q: |
+        Che copertura c'è in campagna e nelle aree remote nelle Isole Fær Øer?
+      a: |
+        Nelle città la copertura 4G/5G è eccellente (50-300 Mbps). Fuori città il segnale cala: 5-15 Mbps nei paesi, 2-5 Mbps nei parchi naturali e montagne. Mappe e messaggistica funzionano ovunque, i video potrebbero caricare lentamente. Consiglio: scarica le mappe offline in hotel per sicurezza.
+    - q: |
+        Conviene comprare una SIM in aeroporto all'arrivo nelle Isole Fær Øer?
+      a: |
+        La SIM locale in aeroporto costa $10-30 più 15-60 minuti di coda. Con Roami eSIM paghi da $1.99 per 7 giorni e non perdi tempo — installata a casa, pronta all'arrivo. Il tuo numero italiano resta attivo per SMS bancari. La differenza di prezzo è netta: 30-50% in meno con eSIM.
+    - q: |
+        Serve il passaporto per attivare la eSIM per l'Isole Fær Øer?
+      a: |
+        Nella maggior parte dei paesi non serve il passaporto per Roami eSIM. In alcuni paesi (Cina, Turchia, India) può essere necessaria la verifica KYC. Consigliamo di completarla prima del viaggio — richiede 5-10 minuti. Negli altri paesi l'eSIM si attiva subito dopo il pagamento.
+    - q: |
+        Esiste un piano minimo per un weekend nelle Isole Fær Øer?
+      a: |
+        Sì, per viaggi brevi c'è il piano 7 giorni / 1GB a $1.99 — ideale per un weekend. Per 3-4 giorni bastano 3GB ($4.99). Il piano inizia dal primo aggancio alla rete locale, quindi usi esattamente i tuoi giorni. Acquista e installa prima della partenza per essere subito operativo all'arrivo.
 related_products:
   title: Piani eSIM simili
   items:

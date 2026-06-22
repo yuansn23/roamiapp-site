@@ -281,243 +281,47 @@ activation_steps:
       di Claro / Altice. Potrai subito navigare, usare WhatsApp, controllare i social media o configurare un hotspot per altri
       dispositivi – senza attesa, senza documenti, senza contratto.
     is_list: false
-faq_section1:
-  title: 'Guida eSIM Repubblica Dominicana 2026: Guida Viaggio & Dati'
-  desc: Da Santo Domingo a Punta Cana, rimani connesso con Claro, Altice, Viva. La nostra guida completa eSIM Repubblica Dominicana
-    copre copertura, piani, installazione e consigli di viaggio.
+faq_section:
+  title: "Qualità del segnale in Repubblica Dominicana con eSIM per i viaggiatori"
+  desc: "Durante il viaggio in Repubblica Dominicana, Roami eSIM utilizza la rete Claro con copertura 4G/5G. In città navighi velocemente, in provincia la connessione resta solida. Attivazione semplice e automatica all'arrivo."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Generale
-    title: 1.  Domande Generali sull'eSIM Repubblica Dominicana
+    title: Repubblica Dominicana eSIM FAQ
     questions:
-    - q: Quali sono i vantaggi dell'eSIM Roami rispetto alle SIM locali prepagate in Repubblica Dominicana?
-      a: A differenza delle SIM locali prepagate, eviti di andare in negozio, la registrazione dell'identità (KYC) e la ricerca
-        di una ricarica adatta. Con Roami attivi l'eSIM digitalmente in meno di 2 minuti – nessuna coda in aeroporto.
-    - q: Posso trasferire l'eSIM Repubblica Dominicana su un altro dispositivo dopo l'installazione?
-      a: Un'eSIM una volta installata non può essere trasferita su un altro dispositivo. Installa l'eSIM sul dispositivo che
-        utilizzerai durante il viaggio. Per dispositivi aggiuntivi puoi acquistare altre eSIM.
-    - q: Posso usare l'eSIM per Repubblica Dominicana come hotspot con altri dispositivi?
-      a: Sì, tutti i piani Roami eSIM per Repubblica Dominicana consentono tethering illimitato (hotspot). Puoi condividere
-        la tua connessione dati con laptop, tablet o compagni di viaggio – senza costi nascosti o limitazioni di velocità.
-    - q: Come attivo l'eSIM per Repubblica Dominicana e quando inizia la validità?
-      a: Dopo l'acquisto riceverai immediatamente un codice QR di attivazione via email. La validità inizia solo quando il
-        tuo telefono si connette per la prima volta a una delle reti partner (Claro / Altice) in Repubblica Dominicana. Paghi
-        solo per i giorni che trascorri effettivamente sul posto.
-    - q: Roami offre piani dati illimitati per Repubblica Dominicana? Esiste una politica di fair use?
-      a: Roami offre veri piani dati illimitati per Repubblica Dominicana. Una politica di fair use si applica solo in caso
-        di utilizzo estremo (ad es. streaming 4K continuo per diversi giorni). La navigazione normale, i social media, le
-        videochiamate e la navigazione non sono interessati.
-    - q: Il mio smartphone supporta l'eSIM per Repubblica Dominicana e come la installo?
-      a: Sì, la maggior parte degli smartphone moderni (iPhone XS/XR o successivi, Samsung Galaxy S20+/Note20+, Google Pixel
-        3a+) supportano l'eSIM. Installa l'eSIM Repubblica Dominicana scansionando il codice QR nelle impostazioni cellulari.
-        Le reti di Claro / Altice offrono un'eccellente copertura 5G/4G in Repubblica Dominicana.
-    - q: Per quanto tempo è valido il codice QR per l'eSIM Repubblica Dominicana?
-      a: Il codice QR è valido per 30 giorni dopo che te lo abbiamo inviato via email. Hai quindi tempo sufficiente per installare
-        l'eSIM prima del viaggio. Dopo la scadenza possiamo emettere un nuovo codice.
-    - q: Quanto è sicura l'eSIM Repubblica Dominicana rispetto a una SIM fisica?
-      a: Le eSIM sono più resistenti alle manomissioni, poiché sono integrate nel dispositivo e non possono essere rimosse
-        o copiate. I tuoi dati rimangono crittografati – nessun rischio di SIM persa o rubata.
-    - q: Come funziona il roaming internazionale con l'eSIM per Repubblica Dominicana nei paesi vicini?
-      a: L'eSIM Repubblica Dominicana è ottimizzata principalmente per Repubblica Dominicana. Per viaggi nei paesi limitrofi
-        dell'UE, consigliamo la nostra eSIM Europa, che offre roaming senza soluzione di continuità senza costi aggiuntivi.
-        La sola eSIM nazionale non funziona in modo affidabile al di fuori di Repubblica Dominicana.
-    - q: Posso installare l'eSIM Repubblica Dominicana prima della partenza e attivarla successivamente?
-      a: Sì, puoi installare l'eSIM già a casa (tramite Wi-Fi). L'attivazione avviene automaticamente quando il tuo telefono
-        si connette per la prima volta alla rete di Claro / Altice in Repubblica Dominicana. Così eviti qualsiasi stress all'atterraggio.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2.  eSIM Repubblica Dominicana all'Aeroporto
-    questions:
-    - q: Come posso ottenere una rete affidabile subito dopo l'atterraggio?
-      a: Installa l'eSIM Repubblica Dominicana prima del volo. Non appena atterri in aeroporti come Aeroporto Internazionale
-        Las Américas (SDQ), Aeroporto Internazionale di Punta Cana (PUJ), Aeroporto Internazionale Gregorio Luperón (POP),
-        disattiva la modalità aereo e attiva la tua eSIM. Si collegherà in pochi secondi alla rete 4G/5G locale.
-    - q: Come contatto la persona che viene a prendermi o uso Uber/Grab?
-      a: Dopo l'attivazione all'atterraggio, puoi utilizzare app come Uber, Cabify, Lyft per prenotare una corsa o WhatsApp
-        per contattare il tuo autista, senza affidarti al Wi-Fi insicuro dell'aeroporto.
-    - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM Repubblica Dominicana, puoi controllare in tempo reale gli orari di treni e autobus direttamente
-        al ritiro bagagli in Aeroporto Internazionale Las Américas (SDQ), Aeroporto Internazionale di Punta Cana (PUJ), Aeroporto
-        Internazionale Gregorio Luperón (POP) o trovare la strada per il parcheggio dei taxi.
-    - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM Repubblica Dominicana online in anticipo, eviti completamente i costosi chioschi SIM nell'area
-        arrivi, risparmiando tempo e denaro.
-    - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM Repubblica Dominicana è solo dati. Per ricevere SMS, lascia attiva la tua SIM domestica (la ricezione
-        SMS in roaming è spesso gratuita) e usa l'eSIM per tutto il traffico dati.
-    - q: Come contatto immediatamente la mia famiglia?
-      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi dati eSIM Repubblica Dominicana per far
-        sapere ai tuoi cari che sei arrivato sano e salvo.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3.  eSIM Repubblica Dominicana per il Trasporto
-    questions:
-    - q: Come uso Google Maps per pianificare il percorso?
-      a: La nostra stabile connessione eSIM Repubblica Dominicana garantisce che Google Maps possa caricare i dati sul traffico
-        in tempo reale e gli orari ovunque in Repubblica Dominicana.
-    - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: App come Uber, Cabify, Lyft usano VoIP. Poiché hai dati eSIM Repubblica Dominicana attivi, gli autisti possono chiamarti
-        o inviarti notifiche direttamente tramite l'app, senza bisogno di un numero locale.
-    - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM Repubblica Dominicana per acquistare biglietti digitali con codice QR nelle app locali, evitando
-        lunghe code alle biglietterie automatiche.
-    - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM Repubblica Dominicana. Un piano da 5GB o 10GB è sufficiente per un'ampia navigazione
-        GPS durante un viaggio su strada in Repubblica Dominicana.
-    - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
-      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra eSIM Repubblica Dominicana offre la copertura
-        affidabile necessaria.
-    - q: Le app di ride-hailing funzionano oltre confine?
-      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione Internet attiva tramite la nostra eSIM
-        locale o regionale.
-    - q: Come offro un hotspot stabile per la mia famiglia?
-      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può connettersi alla tua rete eSIM Repubblica
-        Dominicana sul treno o in auto.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotel
-    title: 4.  eSIM Repubblica Dominicana per gli Hotel
-    questions:
-    - q: Come faccio il self-check-in dopo la prenotazione?
-      a: Molte strutture moderne inviano codici per serrature intelligenti via email. La tua eSIM Repubblica Dominicana ti
-        garantisce di poter recuperare questi dettagli direttamente davanti alla porta.
-    - q: Come contatto il mio host Airbnb al mio arrivo?
-      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare l'orario di arrivo con il tuo host tramite
-        i dati mobili eSIM Repubblica Dominicana.
-    - q: Come uso Google Maps per navigare verso l'hotel?
-      a: Che tu alloggi in Paradisus Punta Cana, Iberostar Grand Hotel Bávaro, Hard Rock Hotel & Casino Punta Cana, inserisci
-        l'indirizzo in Google Maps e usa la navigazione della tua eSIM Repubblica Dominicana.
-    - q: Come ricevo i codici di verifica SMS?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM Repubblica Dominicana per ricevere codici via
-        email o app di autenticazione.
-    - q: Come contatto rapidamente l'assistenza clienti?
-      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i tuoi dati ad alta velocità eSIM Repubblica
-        Dominicana.
-    - q: Come ordino cibo con app di consegna locali?
-      a: Scarica PedidosYa, Glovo, Delivery e usa i tuoi dati eSIM Repubblica Dominicana per ordinare un pasto caldo direttamente
-        nella hall dell'hotel.
-    - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM Repubblica Dominicana subentra, permettendoti di scrivere all'hotel
-        se hai dimenticato qualcosa.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Attrazioni e Intrattenimento
-    questions:
-    - q: Come acquisto biglietti elettronici su GetYourGuide/Viator?
-      a: Se vuoi visitare Zona Coloniale di Santo Domingo, Playa Rincón, Isla Saona all'ultimo minuto, puoi usare i tuoi dati
-        eSIM Repubblica Dominicana per acquistare biglietti online e mostrare il codice a barre direttamente.
-    - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM Repubblica Dominicana, puoi leggere recensioni e prenotare tour locali mentre
-        sei seduto in un bar.
-    - q: Come uso Wikipedia/Google per informazioni durante la visita?
-      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google o traducendo i cartelli dei musei mentre
-        esplori Repubblica Dominicana.
-    - q: Come trovo la strada per l'attrazione successiva?
-      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura della tua eSIM Repubblica Dominicana ti
-        guiderà lungo il percorso più veloce.
-    - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
-      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa in tempo reale. La tua eSIM Repubblica
-        Dominicana ti mantiene online in tutto il parco.
-    - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
-      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite app di ticketing con i tuoi dati eSIM Repubblica
-        Dominicana.
-    - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM Repubblica Dominicana ti permettono di pubblicare Reel e foto in tempo reale,
-        senza aspettare il Wi-Fi dell'hotel.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 6.  eSIM Repubblica Dominicana per i Social Media
-    questions:
-    - q: Quanti dati mi servono per un viaggio in Repubblica Dominicana?
-      a: Utenti leggeri (mappe + messaggi) ~300MB/giorno, moderati (social + foto) ~700MB/giorno, intensivi (streaming + videochiamate)
-        scegli Illimitato. La maggior parte trova 5GB/15 giorni sufficienti per un viaggio standard in Repubblica Dominicana.
-    - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM Repubblica Dominicana 4G/5G offre la larghezza di banda
-        per caricamenti rapidi.
-    - q: Come faccio videochiamate con la mia famiglia?
-      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM Repubblica Dominicana siano chiare e
-        senza ritardi, ovunque ti trovi nel paese.
-    - q: È sicuro accedere ai social network su Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM Repubblica Dominicana personali è crittografato
-        e molto più sicuro.
-    - q: Come condivido la rete come hotspot con i compagni di viaggio?
-      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare il tuo volume dati eSIM Repubblica Dominicana
-        per i loro social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Transfrontaliero
-    title: 7.  eSIM Repubblica Dominicana per Viaggi Transfrontalieri
-    questions:
-    - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per Repubblica Dominicana funziona solo lì. Per viaggiare attraverso più paesi, consigliamo la nostra
-        eSIM Regionale (ad es. eSIM Europa).
-    - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
-      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM Repubblica Dominicana sia impostata come
-        linea dati primaria.
-    - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
-      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere online durante lo scalo.
-    - q: Come ottengo Internet sulle navi da crociera?
-      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per i paesi che visiterai. Si collegherà non
-        appena sarai vicino alla terraferma.
-    - q: Come rimane online Google Maps durante i viaggi su strada?
-      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del nuovo paese quando superi il confine,
-        mantenendo attivo il GPS.
-    - q: Come gestisco i dati per più paesi in una sola app?
-      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente tramite il nostro dashboard utente sul sito
-        Web.
-    - q: Come posso essere reperibile durante i viaggi attraverso più paesi?
-      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce di essere sempre raggiungibile allo
-        stesso numero.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 8.  eSIM Repubblica Dominicana per le Emergenze
-    questions:
-    - q: Come si compongono i numeri di emergenza locali?
-      a: In Repubblica Dominicana puoi comporre direttamente numeri di emergenza come 911 (emergenze generali), 112 (emergenze
-        mobili), purché il telefono riceva un segnale cellulare.
-    - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM Repubblica Dominicana consentono una ricerca immediata su Google Maps di 'farmacia' o 'ospedale'
-        con il percorso più veloce.
-    - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM Repubblica Dominicana per trovare rapidamente l'indirizzo e il contatto di emergenza della tua ambasciata.
-    - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM Repubblica Dominicana per chiamare le linee di assistenza della
-        tua assicurazione.
-    - q: Come condivido la mia posizione in tempo reale?
-      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare le tue coordinate tramite i dati eSIM
-        Repubblica Dominicana.
-    - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM Repubblica Dominicana per caricare mappe offline in Google Maps prima di
-        recarti in aree senza segnale.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  eSIM Repubblica Dominicana per Viaggi d'Affari
-    questions:
-    - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM Repubblica Dominicana si connette a reti premium offrendo larghezza di banda e bassa latenza per videoconferenze
-        professionali.
-    - q: Come mi connetto in modo sicuro alla VPN aziendale?
-      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale in modo sicuro sulla rete eSIM Repubblica
-        Dominicana.
-    - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM Repubblica Dominicana è molto più veloce e sicuro contro le minacce informatiche
-        rispetto alle reti Wi-Fi aperte.
-    - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM Repubblica Dominicana per i codici basati su email.
-    - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM Repubblica Dominicana puoi caricare rapidamente presentazioni sui servizi cloud.
-    - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM Repubblica Dominicana offre una connessione costante, così ricevi immediatamente messaggi Slack ed email.
-    - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM Repubblica Dominicana in movimento per informare le risorse umane sui
-        ritardi dei voli.
+    - q: |
+        Devo togliere la SIM fisica per usare la eSIM in Repubblica Dominicana?
+      a: |
+        No, la SIM rimane nello slot 1. La eSIM funziona in parallelo nello slot 2. Usa il tuo numero per SMS e chiamate, la eSIM per internet. Risparmio del 30-50% rispetto alla SIM in aeroporto. Nelle impostazioni puoi assegnare: SIM 1 per voce, eSIM per dati.
+    - q: |
+        Quanti GB servono al giorno in Repubblica Dominicana?
+      a: |
+        L'uso tipico giornaliero: navigatore 50-80MB/h, social 150-200MB, messaggistica 50-100MB. Con video streaming si sale a 1-2GB/h. 5GB ($9.99) sono sufficienti per 7-10 giorni di uso moderato. Consiglio: scarica le mappe offline in hotel per risparmiare traffico.
+    - q: |
+        Instagram, TikTok e Telegram sono accessibili con eSIM in Repubblica Dominicana?
+      a: |
+        Tutte le app funzionano: il feed Instagram si carica in 1-2 secondi, i video TikTok senza buffering, i messaggi Telegram sono istantanei. Al giorno sui social si consumano 200-400MB con uso attivo. 5GB ($9.99) bastano per 12-20 giorni di navigazione moderata.
+    - q: |
+        Qual è la migliore eSIM da acquistare per un viaggio in Repubblica Dominicana?
+      a: |
+        La scelta migliore per la maggior parte è 5GB/15 giorni a $9.99. Abbastanza per navigazione, social e messaggistica con circa 300-500MB al giorno. Se guardi video o lavori da remoto, scegli 10GB ($14.99) o illimitato ($59.99). Tutti i piani sono prepagati, senza costi nascosti. Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
+    - q: |
+        Cosa conviene: eSIM o SIM tradizionale per viaggiare in Repubblica Dominicana?
+      a: |
+        La eSIM è meglio: costa il 30-50% in meno, non devi cambiare SIM, puoi installarla prima di partire. La SIM fisica richiede coda in aeroporto e passaporto — 15-30 minuti persi. Roami eSIM da $1.99, installazione in 2 minuti. Se hai iPhone XR o più recente, o un Android moderno, la eSIM è la scelta migliore. Il tuo numero italiano resta attivo per SMS e chiamate.
+    - q: |
+        Come aggiungere GB se il traffico della eSIM finisce in Repubblica Dominicana?
+      a: |
+        Sì, dall'app Roami, in tempo reale. Senza nuovo QR code e senza reinstallare. Consigliamo di ricaricare quando il saldo è al 20%. Roami invia notifiche al 70% e 90% di utilizzo. Pacchetti aggiuntivi disponibili: 1GB ($1.99), 3GB ($4.99), 5GB ($9.99).
+    - q: |
+        Come verificare se la eSIM funziona correttamente in Repubblica Dominicana?
+      a: |
+        Apri un qualsiasi sito web o l'app Roami. Se la pagina si carica, tutto funziona. Puoi anche controllare il nome dell'operatore nelle impostazioni del telefono. Se dopo 2 minuti non si carica nulla, attiva il roaming dati o riavvia il telefono.
+    - q: |
+        Quanto risparmio usando eSIM invece del roaming in Repubblica Dominicana?
+      a: |
+        Il risparmio è notevole: 1GB in roaming costa €10-20 dagli operatori italiani, mentre Roami offre 5GB a $9.99. Differenza di 10-20 volte. Inoltre con la eSIM non hai limiti di velocità dopo il consumo del pacchetto — puoi ricaricare istantaneamente dall'app. Nessuna sorpresa in bolletta.
 related_products:
   title: Piani eSIM simili
   items:

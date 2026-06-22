@@ -385,239 +385,47 @@ activation_steps:
       navigare, usare WhatsApp, controllare i social media o configurare un hotspot per altri dispositivi – senza attesa,
       senza documenti, senza contratto.
     is_list: false
-faq_section1:
-  title: 'Guida eSIM Repubblica Ceca 2026: Piani, Copertura & Suggerimenti'
-  desc: Da Praga a Brno, rimani connesso con T-Mobile, Vodafone, O2. La nostra guida completa eSIM Repubblica Ceca copre copertura,
-    piani, installazione e consigli di viaggio.
+faq_section:
+  title: "La velocità internet in Repubblica Ceca con eSIM è buona?"
+  desc: "Viaggiando in Repubblica Ceca, la eSIM si connette automaticamente a T-Mobile, il principale operatore. La copertura 4G/5G arriva al 95% delle zone turistiche. In città il 5G è veloce, in campagna il 4G basta per messaggi."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Generale
-    title: 1.  Domande Generali sull'eSIM Repubblica Ceca
+    title: Repubblica Ceca eSIM FAQ
     questions:
-    - q: Quali sono i vantaggi dell'eSIM Roami rispetto alle SIM locali prepagate in Repubblica Ceca?
-      a: A differenza delle SIM locali prepagate, eviti di andare in negozio, la registrazione dell'identità (KYC) e la ricerca
-        di una ricarica adatta. Con Roami attivi l'eSIM digitalmente in meno di 2 minuti – nessuna coda in aeroporto.
-    - q: Roami offre piani dati illimitati per Repubblica Ceca? Esiste una politica di fair use?
-      a: Roami offre veri piani dati illimitati per Repubblica Ceca. Una politica di fair use si applica solo in caso di utilizzo
-        estremo (ad es. streaming 4K continuo per diversi giorni). La navigazione normale, i social media, le videochiamate
-        e la navigazione non sono interessati.
-    - q: Posso installare l'eSIM per Repubblica Ceca anche senza codice QR?
-      a: Sì, oltre al codice QR, puoi installare l'eSIM manualmente inserendo l'indirizzo SM-DP+ e il codice di attivazione
-        (entrambi si trovano nella tua conferma d'ordine). Il codice QR è comunque il metodo più rapido e semplice.
-    - q: Posso mantenere il mio numero di telefono attuale mentre uso l'eSIM per Repubblica Ceca?
-      a: 'L''eSIM Roami è una eSIM solo dati. Puoi usare la tua SIM domestica in parallelo (ad es. per chiamate/SMS). La maggior
-        parte dei telefoni dual-SIM gestisce entrambi i profili: imposta semplicemente l''eSIM Roami come predefinita per
-        i dati mobili.'
-    - q: Posso trasferire l'eSIM Repubblica Ceca su un altro dispositivo dopo l'installazione?
-      a: Un'eSIM una volta installata non può essere trasferita su un altro dispositivo. Installa l'eSIM sul dispositivo che
-        utilizzerai durante il viaggio. Per dispositivi aggiuntivi puoi acquistare altre eSIM.
-    - q: Per quanto tempo è valido il codice QR per l'eSIM Repubblica Ceca?
-      a: Il codice QR è valido per 30 giorni dopo che te lo abbiamo inviato via email. Hai quindi tempo sufficiente per installare
-        l'eSIM prima del viaggio. Dopo la scadenza possiamo emettere un nuovo codice.
-    - q: Quanto costa l'eSIM per Repubblica Ceca e ci sono offerte sconto?
-      a: Il nostro piano eSIM Repubblica Ceca parte da soli $1,99/GB. Con il codice promozionale 'web20' ottieni il 20% di
-        sconto su ogni ordine – valido per tutti i piani. Nessuna tassa nascosta, nessun vincolo di durata minima.
-    - q: Posso usare l'eSIM per Repubblica Ceca come hotspot con altri dispositivi?
-      a: Sì, tutti i piani Roami eSIM per Repubblica Ceca consentono tethering illimitato (hotspot). Puoi condividere la tua
-        connessione dati con laptop, tablet o compagni di viaggio – senza costi nascosti o limitazioni di velocità.
-    - q: Quanto è sicura l'eSIM Repubblica Ceca rispetto a una SIM fisica?
-      a: Le eSIM sono più resistenti alle manomissioni, poiché sono integrate nel dispositivo e non possono essere rimosse
-        o copiate. I tuoi dati rimangono crittografati – nessun rischio di SIM persa o rubata.
-    - q: Roami offre anche eSIM regionali per viaggiare al di fuori di Repubblica Ceca?
-      a: Sì, oltre all'eSIM Repubblica Ceca, offriamo eSIM regionali per Europa, Asia, Nord America e globali. Ideali per
-        gite di più giorni o tour attraverso più paesi – senza cambiare SIM.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2.  eSIM Repubblica Ceca all'Aeroporto
-    questions:
-    - q: Posso attivare la mia eSIM Repubblica Ceca subito dopo l'atterraggio?
-      a: Sì, puoi attivare la tua eSIM Repubblica Ceca appena atterrato. Usa il WiFi gratuito dell'aeroporto, scansiona il
-        codice QR dalla tua email e sarai connesso in meno di 2 minuti. Consigliamo di installare l'eSIM prima della partenza.
-    - q: Come contatto la persona che viene a prendermi o uso Uber/Grab?
-      a: Dopo l'attivazione all'atterraggio, puoi utilizzare app come Uber, Bolt, Liftago per prenotare una corsa o WhatsApp
-        per contattare il tuo autista, senza affidarti al Wi-Fi insicuro dell'aeroporto.
-    - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM Repubblica Ceca, puoi controllare in tempo reale gli orari di treni e autobus direttamente al
-        ritiro bagagli in Aeroporto di Praga Václav Havel (PRG), Aeroporto di Brno-Tuřany (BRQ), Aeroporto di Ostrava Leoš
-        Janáček (OSR) o trovare la strada per il parcheggio dei taxi.
-    - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM Repubblica Ceca online in anticipo, eviti completamente i costosi chioschi SIM nell'area
-        arrivi, risparmiando tempo e denaro.
-    - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM Repubblica Ceca è solo dati. Per ricevere SMS, lascia attiva la tua SIM domestica (la ricezione SMS
-        in roaming è spesso gratuita) e usa l'eSIM per tutto il traffico dati.
-    - q: Come contatto immediatamente la mia famiglia?
-      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi dati eSIM Repubblica Ceca per far sapere
-        ai tuoi cari che sei arrivato sano e salvo.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3.  eSIM Repubblica Ceca per il Trasporto
-    questions:
-    - q: Posso usare l'eSIM Repubblica Ceca per ride-hailing e navigazione?
-      a: Sì, l'eSIM Repubblica Ceca funziona con app di ride-hailing e Google Maps. Un piano 5GB/15 giorni ($4.99) è sufficiente
-        per la navigazione quotidiana e le prenotazioni di corse.
-    - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: App come Uber, Bolt, Liftago usano VoIP. Poiché hai dati eSIM Repubblica Ceca attivi, gli autisti possono chiamarti
-        o inviarti notifiche direttamente tramite l'app, senza bisogno di un numero locale.
-    - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM Repubblica Ceca per acquistare biglietti digitali con codice QR nelle app locali, evitando lunghe
-        code alle biglietterie automatiche.
-    - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM Repubblica Ceca. Un piano da 5GB o 10GB è sufficiente per un'ampia navigazione
-        GPS durante un viaggio su strada in Repubblica Ceca.
-    - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
-      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra eSIM Repubblica Ceca offre la copertura
-        affidabile necessaria.
-    - q: Le app di ride-hailing funzionano oltre confine?
-      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione Internet attiva tramite la nostra eSIM
-        locale o regionale.
-    - q: Come offro un hotspot stabile per la mia famiglia?
-      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può connettersi alla tua rete eSIM Repubblica
-        Ceca sul treno o in auto.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotel
-    title: 4.  eSIM Repubblica Ceca per gli Hotel
-    questions:
-    - q: Come faccio il self-check-in dopo la prenotazione?
-      a: Molte strutture moderne inviano codici per serrature intelligenti via email. La tua eSIM Repubblica Ceca ti garantisce
-        di poter recuperare questi dettagli direttamente davanti alla porta.
-    - q: Come contatto il mio host Airbnb al mio arrivo?
-      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare l'orario di arrivo con il tuo host tramite
-        i dati mobili eSIM Repubblica Ceca.
-    - q: Come uso Google Maps per navigare verso l'hotel?
-      a: Che tu alloggi in Four Seasons Hotel Prague, Hilton Prague, Mandarin Oriental, Prague, inserisci l'indirizzo in Google
-        Maps e usa la navigazione della tua eSIM Repubblica Ceca.
-    - q: Come ricevo i codici di verifica SMS?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM Repubblica Ceca per ricevere codici via email
-        o app di autenticazione.
-    - q: Come contatto rapidamente l'assistenza clienti?
-      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i tuoi dati ad alta velocità eSIM Repubblica
-        Ceca.
-    - q: Come ordino cibo con app di consegna locali?
-      a: Scarica Wolt, Bolt Food, Dáme jídlo e usa i tuoi dati eSIM Repubblica Ceca per ordinare un pasto caldo direttamente
-        nella hall dell'hotel.
-    - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM Repubblica Ceca subentra, permettendoti di scrivere all'hotel
-        se hai dimenticato qualcosa.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Attrazioni e Intrattenimento
-    questions:
-    - q: Come acquisto biglietti elettronici su GetYourGuide/Viator?
-      a: Se vuoi visitare Ponte Carlo, Castello di Praga, Orologio astronomico di Praga all'ultimo minuto, puoi usare i tuoi
-        dati eSIM Repubblica Ceca per acquistare biglietti online e mostrare il codice a barre direttamente.
-    - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM Repubblica Ceca, puoi leggere recensioni e prenotare tour locali mentre sei
-        seduto in un bar.
-    - q: Come uso Wikipedia/Google per informazioni durante la visita?
-      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google o traducendo i cartelli dei musei mentre
-        esplori Repubblica Ceca.
-    - q: Come trovo la strada per l'attrazione successiva?
-      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura della tua eSIM Repubblica Ceca ti guiderà
-        lungo il percorso più veloce.
-    - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
-      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa in tempo reale. La tua eSIM Repubblica
-        Ceca ti mantiene online in tutto il parco.
-    - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
-      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite app di ticketing con i tuoi dati eSIM Repubblica
-        Ceca.
-    - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM Repubblica Ceca ti permettono di pubblicare Reel e foto in tempo reale,
-        senza aspettare il Wi-Fi dell'hotel.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 6.  eSIM Repubblica Ceca per i Social Media
-    questions:
-    - q: Quanti dati mi servono per un viaggio in Repubblica Ceca?
-      a: Utenti leggeri (mappe + messaggi) ~300MB/giorno, moderati (social + foto) ~700MB/giorno, intensivi (streaming + videochiamate)
-        scegli Illimitato. La maggior parte trova 5GB/15 giorni sufficienti per un viaggio standard in Repubblica Ceca.
-    - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM Repubblica Ceca 4G/5G offre la larghezza di banda per
-        caricamenti rapidi.
-    - q: Come faccio videochiamate con la mia famiglia?
-      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM Repubblica Ceca siano chiare e senza
-        ritardi, ovunque ti trovi nel paese.
-    - q: È sicuro accedere ai social network su Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM Repubblica Ceca personali è crittografato
-        e molto più sicuro.
-    - q: Come condivido la rete come hotspot con i compagni di viaggio?
-      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare il tuo volume dati eSIM Repubblica Ceca
-        per i loro social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Transfrontaliero
-    title: 7.  eSIM Repubblica Ceca per Viaggi Transfrontalieri
-    questions:
-    - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per Repubblica Ceca funziona solo lì. Per viaggiare attraverso più paesi, consigliamo la nostra eSIM
-        Regionale (ad es. eSIM Europa).
-    - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
-      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM Repubblica Ceca sia impostata come linea
-        dati primaria.
-    - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
-      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere online durante lo scalo.
-    - q: Come ottengo Internet sulle navi da crociera?
-      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per i paesi che visiterai. Si collegherà non
-        appena sarai vicino alla terraferma.
-    - q: Come rimane online Google Maps durante i viaggi su strada?
-      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del nuovo paese quando superi il confine,
-        mantenendo attivo il GPS.
-    - q: Come gestisco i dati per più paesi in una sola app?
-      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente tramite il nostro dashboard utente sul sito
-        Web.
-    - q: Come posso essere reperibile durante i viaggi attraverso più paesi?
-      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce di essere sempre raggiungibile allo
-        stesso numero.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 8.  eSIM Repubblica Ceca per le Emergenze
-    questions:
-    - q: Come si compongono i numeri di emergenza locali?
-      a: In Repubblica Ceca puoi comporre direttamente numeri di emergenza come 112 (emergenze generali), 150 (vigili del
-        fuoco), 155 (ambulanza), 158 (polizia), purché il telefono riceva un segnale cellulare.
-    - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM Repubblica Ceca consentono una ricerca immediata su Google Maps di 'farmacia' o 'ospedale' con il
-        percorso più veloce.
-    - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM Repubblica Ceca per trovare rapidamente l'indirizzo e il contatto di emergenza della tua ambasciata.
-    - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM Repubblica Ceca per chiamare le linee di assistenza della tua assicurazione.
-    - q: Come condivido la mia posizione in tempo reale?
-      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare le tue coordinate tramite i dati eSIM
-        Repubblica Ceca.
-    - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM Repubblica Ceca per caricare mappe offline in Google Maps prima di recarti
-        in aree senza segnale.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  eSIM Repubblica Ceca per Viaggi d'Affari
-    questions:
-    - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM Repubblica Ceca si connette a reti premium offrendo larghezza di banda e bassa latenza per videoconferenze
-        professionali.
-    - q: Come mi connetto in modo sicuro alla VPN aziendale?
-      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale in modo sicuro sulla rete eSIM Repubblica
-        Ceca.
-    - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM Repubblica Ceca è molto più veloce e sicuro contro le minacce informatiche
-        rispetto alle reti Wi-Fi aperte.
-    - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM Repubblica Ceca per i codici basati su email.
-    - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM Repubblica Ceca puoi caricare rapidamente presentazioni sui servizi cloud.
-    - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM Repubblica Ceca offre una connessione costante, così ricevi immediatamente messaggi Slack ed email.
-    - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM Repubblica Ceca in movimento per informare le risorse umane sui ritardi
-        dei voli.
+    - q: |
+        È sicuro usare la eSIM per pagamenti online in Repubblica Ceca?
+      a: |
+        Usare la eSIM per i pagamenti è più sicuro del WiFi: i dati sono criptati a livello di rete dell'operatore. Puoi usare senza problemi app come PayPal, bonifici e home banking. Le notifiche SMS arrivano sulla tua SIM fisica. Nessun rischio di intercettazione come sul WiFi pubblico.
+    - q: |
+        Posso tenere la mia SIM italiana mentre uso la eSIM in Repubblica Ceca?
+      a: |
+        La SIM italiana e la eSIM funzionano perfettamente insieme. Puoi ricevere chiamate e SMS sulla tua SIM mentre navighi con la eSIM. Il consumo della batteria aumenta solo del 5-8%, appena percepibile. In Impostazioni > Cellulare puoi scegliere quale linea usare per voce, SMS e dati.
+    - q: |
+        Che qualità hanno le videochiamate con la eSIM in Repubblica Ceca?
+      a: |
+        Sì, le videochiamate funzionano bene. Una chiamata Zoom di 30 minuti consuma circa 150-300MB. Con 5G (100-300 Mbps) la qualità arriva al 4K, con 4G (10-30 Mbps) le chiamate sono comunque nitide. Per lavoro da remoto consiglio il piano 10GB ($14.99) o illimitato ($59.99).
+    - q: |
+        Posso acquistare la eSIM all'ultimo minuto prima del volo per la Repubblica Ceca?
+      a: |
+        Sì, il QR code arriva via email entro 5 minuti dal pagamento. Puoi comprarlo in aeroporto e installarlo in aereo con il WiFi di bordo. All'arrivo in Repubblica Ceca attiva il roaming dati e sarai online in 1-2 minuti. Il processo totale richiede 2-3 minuti.
+    - q: |
+        Che eSIM consigliate per un turista che va in Repubblica Ceca?
+      a: |
+        Roami eSIM funziona sulla rete T-Mobile — uno dei principali operatori con copertura del 95% del territorio. 5GB a $9.99 è l'opzione ottimale per il turista medio. Se il viaggio dura più di due settimane, scegli 10GB ($14.99). Supporto 24/7 con risposta in 2 minuti.
+    - q: |
+        Devo togliere la SIM fisica per usare la eSIM in Repubblica Ceca?
+      a: |
+        SIM fisica e eSIM funzionano benissimo insieme. Nelle impostazioni del telefono puoi specificare: SIM 1 — voce e SMS (numero italiano), eSIM — solo dati. La batteria dura solo il 5-8% in meno, praticamente impercettibile. Il tuo numero resta attivo per ricevere SMS bancari.
+    - q: |
+        Quali sono gli errori più comuni con la eSIM in Repubblica Ceca?
+      a: |
+        Tre errori principali: 1) Installazione in aeroporto senza WiFi — installa a casa prima di partire. 2) Roaming dati disattivato — attivalo nelle impostazioni. 3) Compatibilità del telefono non verificata — componi *#06# prima dell'acquisto per controllare se il tuo telefono supporta eSIM.
+    - q: |
+        I social network funzionano con la eSIM in Repubblica Ceca?
+      a: |
+        Sì, tutti i social funzionano senza limiti. Instagram, TikTok, Facebook, Telegram — il caricamento delle foto richiede 2-3 secondi su 4G. Con 5GB ($9.99) puoi caricare circa 5000 foto o guardare 10 ore di video. Per uso intensivo di social con video è meglio 10GB ($14.99).
 related_products:
   title: Piani eSIM simili
   items:

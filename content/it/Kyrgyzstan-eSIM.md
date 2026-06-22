@@ -294,237 +294,47 @@ activation_steps:
       automaticamente alla rete 5G/4G più veloce disponibile di Bitel / MegaCom. Potrai subito navigare, usare WhatsApp, controllare
       i social media o configurare un hotspot per altri dispositivi – senza attesa, senza documenti, senza contratto.
     is_list: false
-faq_section1:
-  title: 'Guida eSIM Kirghizistan 2026: Guida Viaggio & Dati'
-  desc: Da Bishkek a Osh, rimani connesso con Bitel, MegaCom, O!. La nostra guida completa eSIM Kirghizistan copre copertura,
-    piani, installazione e consigli di viaggio.
+faq_section:
+  title: "Internet in Kirghizistan con eSIM: che esperienza aspettarsi"
+  desc: "La eSIM si connette alla rete MegaCom durante il viaggio in Kirghizistan: 5G nelle aree urbane, 4G diffuso nelle zone turistiche. Scarica le mappe offline per le aree più isolate."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Generale
-    title: 1.  Domande Generali sull'eSIM Kirghizistan
+    title: Kirghizistan eSIM FAQ
     questions:
-    - q: Posso trasferire l'eSIM Kirghizistan su un altro dispositivo dopo l'installazione?
-      a: Un'eSIM una volta installata non può essere trasferita su un altro dispositivo. Installa l'eSIM sul dispositivo che
-        utilizzerai durante il viaggio. Per dispositivi aggiuntivi puoi acquistare altre eSIM.
-    - q: Quali reti 5G/4G utilizza l'eSIM per Kirghizistan e com'è la copertura?
-      a: L'eSIM Kirghizistan lavora esclusivamente con Bitel / MegaCom. Riceverai automaticamente la migliore rete disponibile
-        (5G/4G/LTE) con la migliore copertura nelle città come Roma, Milano, Napoli e anche in campagna e lungo le autostrade.
-    - q: Posso installare l'eSIM per Kirghizistan anche senza codice QR?
-      a: Sì, oltre al codice QR, puoi installare l'eSIM manualmente inserendo l'indirizzo SM-DP+ e il codice di attivazione
-        (entrambi si trovano nella tua conferma d'ordine). Il codice QR è comunque il metodo più rapido e semplice.
-    - q: Posso usare l'eSIM per Kirghizistan come hotspot con altri dispositivi?
-      a: Sì, tutti i piani Roami eSIM per Kirghizistan consentono tethering illimitato (hotspot). Puoi condividere la tua
-        connessione dati con laptop, tablet o compagni di viaggio – senza costi nascosti o limitazioni di velocità.
-    - q: Come funziona il roaming internazionale con l'eSIM per Kirghizistan nei paesi vicini?
-      a: L'eSIM Kirghizistan è ottimizzata principalmente per Kirghizistan. Per viaggi nei paesi limitrofi dell'UE, consigliamo
-        la nostra eSIM Europa, che offre roaming senza soluzione di continuità senza costi aggiuntivi. La sola eSIM nazionale
-        non funziona in modo affidabile al di fuori di Kirghizistan.
-    - q: Come posso monitorare il mio consumo dati con l'eSIM per Kirghizistan?
-      a: Dopo l'attivazione hai accesso al nostro dashboard online. Puoi vedere in tempo reale i tuoi dati residui, la validità
-        rimanente e richiedere assistenza in qualsiasi momento e ovunque.
-    - q: Quanto è sicura l'eSIM Kirghizistan rispetto a una SIM fisica?
-      a: Le eSIM sono più resistenti alle manomissioni, poiché sono integrate nel dispositivo e non possono essere rimosse
-        o copiate. I tuoi dati rimangono crittografati – nessun rischio di SIM persa o rubata.
-    - q: L'eSIM Kirghizistan supporta VoLTE e chiamate HD?
-      a: Sì, l'eSIM Kirghizistan supporta VoLTE e voce HD, se il tuo dispositivo lo consente. Goditi una qualità audio nitida
-        sulla rete 5G/4G di Bitel / MegaCom.
-    - q: Per quanto tempo è valido il codice QR per l'eSIM Kirghizistan?
-      a: Il codice QR è valido per 30 giorni dopo che te lo abbiamo inviato via email. Hai quindi tempo sufficiente per installare
-        l'eSIM prima del viaggio. Dopo la scadenza possiamo emettere un nuovo codice.
-    - q: Come attivo l'eSIM per Kirghizistan e quando inizia la validità?
-      a: Dopo l'acquisto riceverai immediatamente un codice QR di attivazione via email. La validità inizia solo quando il
-        tuo telefono si connette per la prima volta a una delle reti partner (Bitel / MegaCom) in Kirghizistan. Paghi solo
-        per i giorni che trascorri effettivamente sul posto.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2.  eSIM Kirghizistan all'Aeroporto
-    questions:
-    - q: Come posso ottenere una rete affidabile subito dopo l'atterraggio?
-      a: Installa l'eSIM Kirghizistan prima del volo. Non appena atterri in aeroporti come Aeroporto Internazionale di Manas
-        (Bishkek), Aeroporto di Osh, Aeroporto di Tamchy (Issyk-Kul), disattiva la modalità aereo e attiva la tua eSIM. Si
-        collegherà in pochi secondi alla rete 4G/5G locale.
-    - q: Come contatto la persona che viene a prendermi o uso Uber/Grab?
-      a: Dopo l'attivazione all'atterraggio, puoi utilizzare app come Yandex Go, Joy Taxi, Namba Taxi per prenotare una corsa
-        o WhatsApp per contattare il tuo autista, senza affidarti al Wi-Fi insicuro dell'aeroporto.
-    - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM Kirghizistan, puoi controllare in tempo reale gli orari di treni e autobus direttamente al ritiro
-        bagagli in Aeroporto Internazionale di Manas (Bishkek), Aeroporto di Osh, Aeroporto di Tamchy (Issyk-Kul) o trovare
-        la strada per il parcheggio dei taxi.
-    - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM Kirghizistan online in anticipo, eviti completamente i costosi chioschi SIM nell'area
-        arrivi, risparmiando tempo e denaro.
-    - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM Kirghizistan è solo dati. Per ricevere SMS, lascia attiva la tua SIM domestica (la ricezione SMS in
-        roaming è spesso gratuita) e usa l'eSIM per tutto il traffico dati.
-    - q: Come contatto immediatamente la mia famiglia?
-      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi dati eSIM Kirghizistan per far sapere
-        ai tuoi cari che sei arrivato sano e salvo.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3.  eSIM Kirghizistan per il Trasporto
-    questions:
-    - q: Come uso Google Maps per pianificare il percorso?
-      a: La nostra stabile connessione eSIM Kirghizistan garantisce che Google Maps possa caricare i dati sul traffico in
-        tempo reale e gli orari ovunque in Kirghizistan.
-    - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: App come Yandex Go, Joy Taxi, Namba Taxi usano VoIP. Poiché hai dati eSIM Kirghizistan attivi, gli autisti possono
-        chiamarti o inviarti notifiche direttamente tramite l'app, senza bisogno di un numero locale.
-    - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM Kirghizistan per acquistare biglietti digitali con codice QR nelle app locali, evitando lunghe
-        code alle biglietterie automatiche.
-    - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM Kirghizistan. Un piano da 5GB o 10GB è sufficiente per un'ampia navigazione GPS
-        durante un viaggio su strada in Kirghizistan.
-    - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
-      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra eSIM Kirghizistan offre la copertura
-        affidabile necessaria.
-    - q: Le app di ride-hailing funzionano oltre confine?
-      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione Internet attiva tramite la nostra eSIM
-        locale o regionale.
-    - q: Come offro un hotspot stabile per la mia famiglia?
-      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può connettersi alla tua rete eSIM Kirghizistan
-        sul treno o in auto.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotel
-    title: 4.  eSIM Kirghizistan per gli Hotel
-    questions:
-    - q: Come faccio il self-check-in dopo la prenotazione?
-      a: Molte strutture moderne inviano codici per serrature intelligenti via email. La tua eSIM Kirghizistan ti garantisce
-        di poter recuperare questi dettagli direttamente davanti alla porta.
-    - q: Come contatto il mio host Airbnb al mio arrivo?
-      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare l'orario di arrivo con il tuo host tramite
-        i dati mobili eSIM Kirghizistan.
-    - q: Come uso Google Maps per navigare verso l'hotel?
-      a: Che tu alloggi in Hyatt Regency Bishkek, Jannat Resort (Issyk-Kul), Ordo Hotel Bishkek, inserisci l'indirizzo in
-        Google Maps e usa la navigazione della tua eSIM Kirghizistan.
-    - q: Come ricevo i codici di verifica SMS?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM Kirghizistan per ricevere codici via email
-        o app di autenticazione.
-    - q: Come contatto rapidamente l'assistenza clienti?
-      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i tuoi dati ad alta velocità eSIM Kirghizistan.
-    - q: Come ordino cibo con app di consegna locali?
-      a: Scarica EcoPark, KFC Delivery, Glovo e usa i tuoi dati eSIM Kirghizistan per ordinare un pasto caldo direttamente
-        nella hall dell'hotel.
-    - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM Kirghizistan subentra, permettendoti di scrivere all'hotel se
-        hai dimenticato qualcosa.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Attrazioni e Intrattenimento
-    questions:
-    - q: Come acquisto biglietti elettronici su GetYourGuide/Viator?
-      a: Se vuoi visitare Lago Issyk-Kul, Burana Tower, Ala-Archa National Park all'ultimo minuto, puoi usare i tuoi dati
-        eSIM Kirghizistan per acquistare biglietti online e mostrare il codice a barre direttamente.
-    - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM Kirghizistan, puoi leggere recensioni e prenotare tour locali mentre sei seduto
-        in un bar.
-    - q: Come uso Wikipedia/Google per informazioni durante la visita?
-      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google o traducendo i cartelli dei musei mentre
-        esplori Kirghizistan.
-    - q: Come trovo la strada per l'attrazione successiva?
-      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura della tua eSIM Kirghizistan ti guiderà
-        lungo il percorso più veloce.
-    - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
-      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa in tempo reale. La tua eSIM Kirghizistan
-        ti mantiene online in tutto il parco.
-    - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
-      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite app di ticketing con i tuoi dati eSIM Kirghizistan.
-    - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM Kirghizistan ti permettono di pubblicare Reel e foto in tempo reale, senza
-        aspettare il Wi-Fi dell'hotel.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 6.  eSIM Kirghizistan per i Social Media
-    questions:
-    - q: Quanti dati mi servono per un viaggio in Kirghizistan?
-      a: Utenti leggeri (mappe + messaggi) ~300MB/giorno, moderati (social + foto) ~700MB/giorno, intensivi (streaming + videochiamate)
-        scegli Illimitato. La maggior parte trova 5GB/15 giorni sufficienti per un viaggio standard in Kirghizistan.
-    - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM Kirghizistan 4G/5G offre la larghezza di banda per caricamenti
-        rapidi.
-    - q: Come faccio videochiamate con la mia famiglia?
-      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM Kirghizistan siano chiare e senza ritardi,
-        ovunque ti trovi nel paese.
-    - q: È sicuro accedere ai social network su Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM Kirghizistan personali è crittografato e
-        molto più sicuro.
-    - q: Come condivido la rete come hotspot con i compagni di viaggio?
-      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare il tuo volume dati eSIM Kirghizistan per
-        i loro social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Transfrontaliero
-    title: 7.  eSIM Kirghizistan per Viaggi Transfrontalieri
-    questions:
-    - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per Kirghizistan funziona solo lì. Per viaggiare attraverso più paesi, consigliamo la nostra eSIM
-        Regionale (ad es. eSIM Europa).
-    - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
-      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM Kirghizistan sia impostata come linea
-        dati primaria.
-    - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
-      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere online durante lo scalo.
-    - q: Come ottengo Internet sulle navi da crociera?
-      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per i paesi che visiterai. Si collegherà non
-        appena sarai vicino alla terraferma.
-    - q: Come rimane online Google Maps durante i viaggi su strada?
-      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del nuovo paese quando superi il confine,
-        mantenendo attivo il GPS.
-    - q: Come gestisco i dati per più paesi in una sola app?
-      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente tramite il nostro dashboard utente sul sito
-        Web.
-    - q: Come posso essere reperibile durante i viaggi attraverso più paesi?
-      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce di essere sempre raggiungibile allo
-        stesso numero.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 8.  eSIM Kirghizistan per le Emergenze
-    questions:
-    - q: Come si compongono i numeri di emergenza locali?
-      a: 'In Kirghizistan puoi comporre direttamente numeri di emergenza come Polizia: 102, Ambulanza: 103, Vigili del Fuoco:
-        101, purché il telefono riceva un segnale cellulare.'
-    - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM Kirghizistan consentono una ricerca immediata su Google Maps di 'farmacia' o 'ospedale' con il percorso
-        più veloce.
-    - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM Kirghizistan per trovare rapidamente l'indirizzo e il contatto di emergenza della tua ambasciata.
-    - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM Kirghizistan per chiamare le linee di assistenza della tua assicurazione.
-    - q: Come condivido la mia posizione in tempo reale?
-      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare le tue coordinate tramite i dati eSIM
-        Kirghizistan.
-    - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM Kirghizistan per caricare mappe offline in Google Maps prima di recarti
-        in aree senza segnale.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  eSIM Kirghizistan per Viaggi d'Affari
-    questions:
-    - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM Kirghizistan si connette a reti premium offrendo larghezza di banda e bassa latenza per videoconferenze
-        professionali.
-    - q: Come mi connetto in modo sicuro alla VPN aziendale?
-      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale in modo sicuro sulla rete eSIM Kirghizistan.
-    - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM Kirghizistan è molto più veloce e sicuro contro le minacce informatiche
-        rispetto alle reti Wi-Fi aperte.
-    - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM Kirghizistan per i codici basati su email.
-    - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM Kirghizistan puoi caricare rapidamente presentazioni sui servizi cloud.
-    - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM Kirghizistan offre una connessione costante, così ricevi immediatamente messaggi Slack ed email.
-    - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM Kirghizistan in movimento per informare le risorse umane sui ritardi
-        dei voli.
+    - q: |
+        Posso guardare Netflix e YouTube con la eSIM in Kirghizistan?
+      a: |
+        Sì, lo streaming funziona senza limiti. Netflix in HD consuma circa 1GB/ora, YouTube 500-800MB/ora. Con 5GB puoi guardare 5-6 ore di video HD. Per uso intensivo meglio il piano illimitato. Con 5G la qualità arriva al 4K, con 4G lo streaming in 1080p è fluido.
+    - q: |
+        Meglio ordinare eSIM online o comprare SIM locale all'aeroporto in Kirghizistan?
+      a: |
+        No, le SIM in aeroporto costano il 30-50% in più e devi fare la coda con il passaporto. Roami eSIM si compra online in 2 minuti, il QR code arriva via email, non devi cambiare la tua SIM. Risparmi tempo e denaro.
+    - q: |
+        Quando installare la eSIM: prima della partenza o in aeroporto?
+      a: |
+        L'installazione richiede 2 minuti. Dopo l'acquisto ricevi il QR code via email entro 5 minuti. Su iPhone: Impostazioni > Cellulare > Aggiungi eSIM. Su Android: Impostazioni > Rete > Aggiungi eSIM. Installa prima della partenza con WiFi di casa. All'arrivo in Kirghizistan, attiva il roaming dati — sei online in 60 secondi.
+    - q: |
+        Meglio 5GB o piano illimitato per un viaggio in Kirghizistan?
+      a: |
+        5GB ($9.99) bastano per navigazione, social e messaggistica per una settimana. 10GB ($14.99) per uso più attivo con video. Il piano illimitato ($59.99) è ideale per streaming, videochiamate e hotspot. La maggior parte dei turisti sceglie 5GB. Puoi sempre aumentare il piano dall'app.
+    - q: |
+        Meglio eSIM o pocket WiFi per viaggiare in Kirghizistan?
+      a: |
+        Pocket WiFi: da portare sempre con sé, ricaricare ogni sera, restituire in aeroporto. Costa $5-10/giorno più deposito $50-100. eSIM Roami: installazione in 2 minuti, da $1.99/giorno, niente da restituire. Puoi condividere internet con altri dispositivi. La eSIM vince per comodità e prezzo.
+    - q: |
+        Instagram, TikTok e Telegram sono accessibili con eSIM in Kirghizistan?
+      a: |
+        Sì, tutti i social funzionano senza limiti. Instagram, TikTok, Facebook, Telegram — il caricamento delle foto richiede 2-3 secondi su 4G. Con 5GB ($9.99) puoi caricare circa 5000 foto o guardare 10 ore di video. Per uso intensivo di social con video è meglio 10GB ($14.99).
+    - q: |
+        Come sapere quanti GB sono rimasti sulla mia eSIM per il Kirghizistan?
+      a: |
+        Due modi: dalle impostazioni del telefono (Impostazioni > Cellulare > Utilizzo dati) o dall'app Roami. Roami invia notifiche al 70% e 90% di utilizzo. Se il traffico sta per finire, puoi ricaricare immediatamente dall'app senza bisogno di un nuovo QR code.
+    - q: |
+        Quanto pago realmente per la eSIM per il Kirghizistan — ci sono extra?
+      a: |
+        No, il prezzo è finale. I piani partono da $1.99 (7 giorni, 1GB). Senza tasse, senza canone mensile, senza rinnovo automatico. Il piano scade automaticamente alla data di fine — nessuna sorpresa. Il prezzo sul sito Roami è quello che paghi.
 related_products:
   title: Piani eSIM simili
   items:

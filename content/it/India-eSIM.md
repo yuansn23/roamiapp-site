@@ -359,235 +359,47 @@ activation_steps:
       Potrai subito navigare, usare WhatsApp, controllare i social media o configurare un hotspot per altri dispositivi –
       senza attesa, senza documenti, senza contratto.
     is_list: false
-faq_section1:
-  title: 'Guida eSIM India 2026: Rete & Guida di Viaggio'
-  desc: Da Nuova Delhi a Mumbai, rimani connesso con Airtel, Jio, Vi (Vodafone Idea). La nostra guida completa eSIM India
-    copre copertura, piani, installazione e consigli di viaggio.
+faq_section:
+  title: "Nelle zone isolate del dell'India: che copertura ha la eSIM?"
+  desc: "La eSIM per l'India si connette alla rete Airtel con copertura 4G/5G. In città puoi fare streaming, nelle zone periferiche la connessione basta per messaggi e mappe offline."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Generale
-    title: 1.  Domande Generali sull'eSIM India
+    title: India eSIM FAQ
     questions:
-    - q: Come attivo l'eSIM per India e quando inizia la validità?
-      a: Dopo l'acquisto riceverai immediatamente un codice QR di attivazione via email. La validità inizia solo quando il
-        tuo telefono si connette per la prima volta a una delle reti partner (Airtel / Jio) in India. Paghi solo per i giorni
-        che trascorri effettivamente sul posto.
-    - q: Posso installare l'eSIM India prima della partenza e attivarla successivamente?
-      a: Sì, puoi installare l'eSIM già a casa (tramite Wi-Fi). L'attivazione avviene automaticamente quando il tuo telefono
-        si connette per la prima volta alla rete di Airtel / Jio in India. Così eviti qualsiasi stress all'atterraggio.
-    - q: Come funziona il roaming internazionale con l'eSIM per India nei paesi vicini?
-      a: L'eSIM India è ottimizzata principalmente per India. Per viaggi nei paesi limitrofi dell'UE, consigliamo la nostra
-        eSIM Europa, che offre roaming senza soluzione di continuità senza costi aggiuntivi. La sola eSIM nazionale non funziona
-        in modo affidabile al di fuori di India.
-    - q: Esiste una garanzia di rimborso se l'eSIM India non funziona?
-      a: Sì, offriamo una garanzia di rimborso del 100% entro 7 giorni dall'attivazione, se i problemi tecnici non possono
-        essere risolti dal nostro supporto 24/7. Nessun rischio per te.
-    - q: Roami offre anche eSIM regionali per viaggiare al di fuori di India?
-      a: Sì, oltre all'eSIM India, offriamo eSIM regionali per Europa, Asia, Nord America e globali. Ideali per gite di più
-        giorni o tour attraverso più paesi – senza cambiare SIM.
-    - q: Posso usare l'eSIM per India come hotspot con altri dispositivi?
-      a: Sì, tutti i piani Roami eSIM per India consentono tethering illimitato (hotspot). Puoi condividere la tua connessione
-        dati con laptop, tablet o compagni di viaggio – senza costi nascosti o limitazioni di velocità.
-    - q: Posso trasferire l'eSIM India su un altro dispositivo dopo l'installazione?
-      a: Un'eSIM una volta installata non può essere trasferita su un altro dispositivo. Installa l'eSIM sul dispositivo che
-        utilizzerai durante il viaggio. Per dispositivi aggiuntivi puoi acquistare altre eSIM.
-    - q: Posso mantenere il mio numero di telefono attuale mentre uso l'eSIM per India?
-      a: 'L''eSIM Roami è una eSIM solo dati. Puoi usare la tua SIM domestica in parallelo (ad es. per chiamate/SMS). La maggior
-        parte dei telefoni dual-SIM gestisce entrambi i profili: imposta semplicemente l''eSIM Roami come predefinita per
-        i dati mobili.'
-    - q: Quali requisiti deve soddisfare il mio smartphone per utilizzare l'eSIM India?
-      a: Il tuo dispositivo deve essere compatibile con eSIM (iPhone XS/XR o successivi, Samsung Galaxy S20/Note20 o successivi,
-        Google Pixel 3a o successivi, e la maggior parte dei telefoni 5G più recenti di Huawei, Xiaomi, OnePlus). Verifica
-        nelle impostazioni se è disponibile l'opzione 'Aggiungi eSIM'.
-    - q: Quanto è sicura l'eSIM India rispetto a una SIM fisica?
-      a: Le eSIM sono più resistenti alle manomissioni, poiché sono integrate nel dispositivo e non possono essere rimosse
-        o copiate. I tuoi dati rimangono crittografati – nessun rischio di SIM persa o rubata.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2.  eSIM India all'Aeroporto
-    questions:
-    - q: Posso attivare la mia eSIM India subito dopo l'atterraggio?
-      a: Sì, puoi attivare la tua eSIM India appena atterrato. Usa il WiFi gratuito dell'aeroporto, scansiona il codice QR
-        dalla tua email e sarai connesso in meno di 2 minuti. Consigliamo di installare l'eSIM prima della partenza.
-    - q: Come contatto la persona che viene a prendermi o uso Uber/Grab?
-      a: Dopo l'attivazione all'atterraggio, puoi utilizzare app come Uber, Ola, Rapido per prenotare una corsa o WhatsApp
-        per contattare il tuo autista, senza affidarti al Wi-Fi insicuro dell'aeroporto.
-    - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM India, puoi controllare in tempo reale gli orari di treni e autobus direttamente al ritiro bagagli
-        in Indira Gandhi International Airport (Delhi), Chhatrapati Shivaji Maharaj International Airport (Mumbai), Kempegowda
-        International Airport (Bangalore) o trovare la strada per il parcheggio dei taxi.
-    - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM India online in anticipo, eviti completamente i costosi chioschi SIM nell'area arrivi,
-        risparmiando tempo e denaro.
-    - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM India è solo dati. Per ricevere SMS, lascia attiva la tua SIM domestica (la ricezione SMS in roaming
-        è spesso gratuita) e usa l'eSIM per tutto il traffico dati.
-    - q: Come contatto immediatamente la mia famiglia?
-      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi dati eSIM India per far sapere ai tuoi
-        cari che sei arrivato sano e salvo.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3.  eSIM India per il Trasporto
-    questions:
-    - q: Posso usare l'eSIM India per ride-hailing e navigazione?
-      a: Sì, l'eSIM India funziona con app di ride-hailing e Google Maps. Un piano 5GB/15 giorni ($4.99) è sufficiente per
-        la navigazione quotidiana e le prenotazioni di corse.
-    - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: App come Uber, Ola, Rapido usano VoIP. Poiché hai dati eSIM India attivi, gli autisti possono chiamarti o inviarti
-        notifiche direttamente tramite l'app, senza bisogno di un numero locale.
-    - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM India per acquistare biglietti digitali con codice QR nelle app locali, evitando lunghe code
-        alle biglietterie automatiche.
-    - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM India. Un piano da 5GB o 10GB è sufficiente per un'ampia navigazione GPS durante
-        un viaggio su strada in India.
-    - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
-      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra eSIM India offre la copertura affidabile
-        necessaria.
-    - q: Le app di ride-hailing funzionano oltre confine?
-      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione Internet attiva tramite la nostra eSIM
-        locale o regionale.
-    - q: Come offro un hotspot stabile per la mia famiglia?
-      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può connettersi alla tua rete eSIM India sul
-        treno o in auto.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotel
-    title: 4.  eSIM India per gli Hotel
-    questions:
-    - q: Come faccio il self-check-in dopo la prenotazione?
-      a: Molte strutture moderne inviano codici per serrature intelligenti via email. La tua eSIM India ti garantisce di poter
-        recuperare questi dettagli direttamente davanti alla porta.
-    - q: Come contatto il mio host Airbnb al mio arrivo?
-      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare l'orario di arrivo con il tuo host tramite
-        i dati mobili eSIM India.
-    - q: Come uso Google Maps per navigare verso l'hotel?
-      a: Che tu alloggi in Taj Mahal Palace (Mumbai), The Oberoi Amarvilas (Agra), The Leela Palace (New Delhi), inserisci
-        l'indirizzo in Google Maps e usa la navigazione della tua eSIM India.
-    - q: Come ricevo i codici di verifica SMS?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM India per ricevere codici via email o app di
-        autenticazione.
-    - q: Come contatto rapidamente l'assistenza clienti?
-      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i tuoi dati ad alta velocità eSIM India.
-    - q: Come ordino cibo con app di consegna locali?
-      a: Scarica Zomato, Swiggy, Uber Eats e usa i tuoi dati eSIM India per ordinare un pasto caldo direttamente nella hall
-        dell'hotel.
-    - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM India subentra, permettendoti di scrivere all'hotel se hai dimenticato
-        qualcosa.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Attrazioni e Intrattenimento
-    questions:
-    - q: C'è copertura dati nelle attrazioni turistiche in India?
-      a: Le principali attrazioni hanno generalmente una buona copertura 4G/5G in India. Nelle zone remote, il segnale potrebbe
-        essere debole. Scarica mappe offline prima di visitare destinazioni isolate.
-    - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM India, puoi leggere recensioni e prenotare tour locali mentre sei seduto in
-        un bar.
-    - q: Come uso Wikipedia/Google per informazioni durante la visita?
-      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google o traducendo i cartelli dei musei mentre
-        esplori India.
-    - q: Come trovo la strada per l'attrazione successiva?
-      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura della tua eSIM India ti guiderà lungo il
-        percorso più veloce.
-    - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
-      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa in tempo reale. La tua eSIM India ti
-        mantiene online in tutto il parco.
-    - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
-      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite app di ticketing con i tuoi dati eSIM India.
-    - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM India ti permettono di pubblicare Reel e foto in tempo reale, senza aspettare
-        il Wi-Fi dell'hotel.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 6.  eSIM India per i Social Media
-    questions:
-    - q: Quanti dati mi servono per un viaggio in India?
-      a: Utenti leggeri (mappe + messaggi) ~300MB/giorno, moderati (social + foto) ~700MB/giorno, intensivi (streaming + videochiamate)
-        scegli Illimitato. La maggior parte trova 5GB/15 giorni sufficienti per un viaggio standard in India.
-    - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM India 4G/5G offre la larghezza di banda per caricamenti
-        rapidi.
-    - q: Come faccio videochiamate con la mia famiglia?
-      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM India siano chiare e senza ritardi,
-        ovunque ti trovi nel paese.
-    - q: È sicuro accedere ai social network su Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM India personali è crittografato e molto
-        più sicuro.
-    - q: Come condivido la rete come hotspot con i compagni di viaggio?
-      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare il tuo volume dati eSIM India per i loro
-        social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Transfrontaliero
-    title: 7.  eSIM India per Viaggi Transfrontalieri
-    questions:
-    - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per India funziona solo lì. Per viaggiare attraverso più paesi, consigliamo la nostra eSIM Regionale
-        (ad es. eSIM Europa).
-    - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
-      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM India sia impostata come linea dati primaria.
-    - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
-      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere online durante lo scalo.
-    - q: Come ottengo Internet sulle navi da crociera?
-      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per i paesi che visiterai. Si collegherà non
-        appena sarai vicino alla terraferma.
-    - q: Come rimane online Google Maps durante i viaggi su strada?
-      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del nuovo paese quando superi il confine,
-        mantenendo attivo il GPS.
-    - q: Come gestisco i dati per più paesi in una sola app?
-      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente tramite il nostro dashboard utente sul sito
-        Web.
-    - q: Come posso essere reperibile durante i viaggi attraverso più paesi?
-      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce di essere sempre raggiungibile allo
-        stesso numero.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 8.  eSIM India per le Emergenze
-    questions:
-    - q: Posso usare WhatsApp, FaceTime e WeChat con l'eSIM India?
-      a: Sì! L'eSIM India supporta chiamate audio/video WhatsApp, FaceTime, WeChat e Zoom senza restrizioni. Resta in contatto
-        con la famiglia tramite le tue app preferite.
-    - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM India consentono una ricerca immediata su Google Maps di 'farmacia' o 'ospedale' con il percorso
-        più veloce.
-    - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM India per trovare rapidamente l'indirizzo e il contatto di emergenza della tua ambasciata.
-    - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM India per chiamare le linee di assistenza della tua assicurazione.
-    - q: Come condivido la mia posizione in tempo reale?
-      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare le tue coordinate tramite i dati eSIM
-        India.
-    - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM India per caricare mappe offline in Google Maps prima di recarti in aree
-        senza segnale.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  eSIM India per Viaggi d'Affari
-    questions:
-    - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM India si connette a reti premium offrendo larghezza di banda e bassa latenza per videoconferenze professionali.
-    - q: Come mi connetto in modo sicuro alla VPN aziendale?
-      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale in modo sicuro sulla rete eSIM India.
-    - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM India è molto più veloce e sicuro contro le minacce informatiche rispetto
-        alle reti Wi-Fi aperte.
-    - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM India per i codici basati su email.
-    - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM India puoi caricare rapidamente presentazioni sui servizi cloud.
-    - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM India offre una connessione costante, così ricevi immediatamente messaggi Slack ed email.
-    - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM India in movimento per informare le risorse umane sui ritardi dei voli.
+    - q: |
+        La eSIM supporta la modalità hotspot per altri dispositivi?
+      a: |
+        Sì, tutti i piani Roami supportano la modalità hotspot. Attiva la condivisione nelle impostazioni del telefono. Per lavorare con il computer (videoconferenze, file) consigliamo il piano 10GB ($14.99) o illimitato ($59.99). La condivisione funziona senza costi aggiuntivi.
+    - q: |
+        Perché la eSIM non si connette alla rete e come risolvere?
+      a: |
+        Tre passaggi da 30 secondi ciascuno: 1) Il roaming dati è attivo nelle impostazioni? 2) Prova la selezione manuale dell'operatore: scegli Airtel dalla lista. 3) Riavvia il telefono. Il 90% dei problemi si risolve con uno di questi passaggi. Se non funziona, il supporto Roami 24/7 risponde in 2 minuti.
+    - q: |
+        Meglio installare la eSIM a casa o direttamente in aeroporto?
+      a: |
+        Acquistare in anticipo dà tre vantaggi: 1) Installazione con WiFi di casa — senza rischi di non avere connessione all'arrivo. 2) Il piano non si attiva fino all'atterraggio — la validità inizia al primo aggancio alla rete locale. 3) Niente code di 20-40 minuti in aeroporto. Comprato, installato in 2 minuti e dimenticato fino alla partenza.
+    - q: |
+        Posso tenere la mia SIM italiana mentre uso la eSIM in India?
+      a: |
+        La SIM italiana e la eSIM funzionano perfettamente insieme. Puoi ricevere chiamate e SMS sulla tua SIM mentre navighi con la eSIM. Il consumo della batteria aumenta solo del 5-8%, appena percepibile. In Impostazioni > Cellulare puoi scegliere quale linea usare per voce, SMS e dati.
+    - q: |
+        Che eSIM consigliate per un turista che va in India?
+      a: |
+        La scelta migliore per la maggior parte è 5GB/15 giorni a $9.99. Abbastanza per navigazione, social e messaggistica con circa 300-500MB al giorno. Se guardi video o lavori da remoto, scegli 10GB ($14.99) o illimitato ($59.99). Tutti i piani sono prepagati, senza costi nascosti. Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
+    - q: |
+        È sicuro usare la eSIM per pagamenti online in India?
+      a: |
+        Sì, la connessione eSIM è criptata e molto più sicura del WiFi pubblico di hotel e bar. Le app bancarie, PayPal e le carte funzionano perfettamente sulla connessione 4G/5G protetta. Le SMS per 2FA arrivano sulla tua SIM italiana senza problemi.
+    - q: |
+        Meglio eSIM o SIM fisica per un viaggio in India?
+      a: |
+        La eSIM è meglio: costa il 30-50% in meno, non devi cambiare SIM, puoi installarla prima di partire. La SIM fisica richiede coda in aeroporto e passaporto — 15-30 minuti persi. Roami eSIM da $1.99, installazione in 2 minuti. Se hai iPhone XR o più recente, o un Android moderno, la eSIM è la scelta migliore. Il tuo numero italiano resta attivo per SMS e chiamate.
+    - q: |
+        Quanto tempo prima devo comprare la eSIM per partire per l'India?
+      a: |
+        Sì, il QR code arriva via email entro 5 minuti dal pagamento. Puoi comprarlo in aeroporto e installarlo in aereo con il WiFi di bordo. All'arrivo in India attiva il roaming dati e sarai online in 1-2 minuti. Il processo totale richiede 2-3 minuti.
 related_products:
   title: Piani eSIM simili
   items:

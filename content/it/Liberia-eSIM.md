@@ -196,239 +196,47 @@ activation_steps:
       usare WhatsApp, controllare i social media o configurare un hotspot per altri dispositivi – senza attesa, senza documenti,
       senza contratto.
     is_list: false
-faq_section1:
-  title: 'Guida eSIM Liberia 2026: Piani Dati & Consigli di Viaggio'
-  desc: Da Monrovia a Buchanan, rimani connesso con Lonestar Cell MTN, Orange Liberia, Libercell. La nostra guida completa
-    eSIM Liberia copre copertura, piani, installazione e consigli di viaggio.
+faq_section:
+  title: "Connettersi in Liberia con eSIM: segnale stabile?"
+  desc: "Durante il viaggio in Liberia, la connessione internet è fondamentale. Con la eSIM su MTN hai 5G/4G stabile nelle città e copertura decente anche fuori dai centri abitati."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Generale
-    title: 1.  Domande Generali sull'eSIM Liberia
+    title: Liberia eSIM FAQ
     questions:
-    - q: Esiste una garanzia di rimborso se l'eSIM Liberia non funziona?
-      a: Sì, offriamo una garanzia di rimborso del 100% entro 7 giorni dall'attivazione, se i problemi tecnici non possono
-        essere risolti dal nostro supporto 24/7. Nessun rischio per te.
-    - q: Posso installare l'eSIM per Liberia anche senza codice QR?
-      a: Sì, oltre al codice QR, puoi installare l'eSIM manualmente inserendo l'indirizzo SM-DP+ e il codice di attivazione
-        (entrambi si trovano nella tua conferma d'ordine). Il codice QR è comunque il metodo più rapido e semplice.
-    - q: Per quanto tempo è valido il codice QR per l'eSIM Liberia?
-      a: Il codice QR è valido per 30 giorni dopo che te lo abbiamo inviato via email. Hai quindi tempo sufficiente per installare
-        l'eSIM prima del viaggio. Dopo la scadenza possiamo emettere un nuovo codice.
-    - q: Quali sono i vantaggi dell'eSIM Roami rispetto alle SIM locali prepagate in Liberia?
-      a: A differenza delle SIM locali prepagate, eviti di andare in negozio, la registrazione dell'identità (KYC) e la ricerca
-        di una ricarica adatta. Con Roami attivi l'eSIM digitalmente in meno di 2 minuti – nessuna coda in aeroporto.
-    - q: Posso mantenere il mio numero di telefono attuale mentre uso l'eSIM per Liberia?
-      a: 'L''eSIM Roami è una eSIM solo dati. Puoi usare la tua SIM domestica in parallelo (ad es. per chiamate/SMS). La maggior
-        parte dei telefoni dual-SIM gestisce entrambi i profili: imposta semplicemente l''eSIM Roami come predefinita per
-        i dati mobili.'
-    - q: Come attivo l'eSIM per Liberia e quando inizia la validità?
-      a: Dopo l'acquisto riceverai immediatamente un codice QR di attivazione via email. La validità inizia solo quando il
-        tuo telefono si connette per la prima volta a una delle reti partner (Lonestar Cell MTN / Orange Liberia) in Liberia.
-        Paghi solo per i giorni che trascorri effettivamente sul posto.
-    - q: Come posso monitorare il mio consumo dati con l'eSIM per Liberia?
-      a: Dopo l'attivazione hai accesso al nostro dashboard online. Puoi vedere in tempo reale i tuoi dati residui, la validità
-        rimanente e richiedere assistenza in qualsiasi momento e ovunque.
-    - q: Posso trasferire l'eSIM Liberia su un altro dispositivo dopo l'installazione?
-      a: Un'eSIM una volta installata non può essere trasferita su un altro dispositivo. Installa l'eSIM sul dispositivo che
-        utilizzerai durante il viaggio. Per dispositivi aggiuntivi puoi acquistare altre eSIM.
-    - q: Come funziona il roaming internazionale con l'eSIM per Liberia nei paesi vicini?
-      a: L'eSIM Liberia è ottimizzata principalmente per Liberia. Per viaggi nei paesi limitrofi dell'UE, consigliamo la nostra
-        eSIM Europa, che offre roaming senza soluzione di continuità senza costi aggiuntivi. La sola eSIM nazionale non funziona
-        in modo affidabile al di fuori di Liberia.
-    - q: Il mio smartphone supporta l'eSIM per Liberia e come la installo?
-      a: Sì, la maggior parte degli smartphone moderni (iPhone XS/XR o successivi, Samsung Galaxy S20+/Note20+, Google Pixel
-        3a+) supportano l'eSIM. Installa l'eSIM Liberia scansionando il codice QR nelle impostazioni cellulari. Le reti di
-        Lonestar Cell MTN / Orange Liberia offrono un'eccellente copertura 5G/4G in Liberia.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2.  eSIM Liberia all'Aeroporto
-    questions:
-    - q: Come posso ottenere una rete affidabile subito dopo l'atterraggio?
-      a: Installa l'eSIM Liberia prima del volo. Non appena atterri in aeroporti come Aeroporto Internazionale Roberts, Aeroporto
-        Internazionale James Spriggs Payne, Aeroporto di Buchanan, disattiva la modalità aereo e attiva la tua eSIM. Si collegherà
-        in pochi secondi alla rete 4G/5G locale.
-    - q: Come contatto la persona che viene a prendermi o uso Uber/Grab?
-      a: 'Dopo l''attivazione all''atterraggio, puoi utilizzare app come Uber, Lyft (non presente), Ride-sharing locale: GoKada
-        (moto taxi) per prenotare una corsa o WhatsApp per contattare il tuo autista, senza affidarti al Wi-Fi insicuro dell''aeroporto.'
-    - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM Liberia, puoi controllare in tempo reale gli orari di treni e autobus direttamente al ritiro
-        bagagli in Aeroporto Internazionale Roberts, Aeroporto Internazionale James Spriggs Payne, Aeroporto di Buchanan o
-        trovare la strada per il parcheggio dei taxi.
-    - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM Liberia online in anticipo, eviti completamente i costosi chioschi SIM nell'area arrivi,
-        risparmiando tempo e denaro.
-    - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM Liberia è solo dati. Per ricevere SMS, lascia attiva la tua SIM domestica (la ricezione SMS in roaming
-        è spesso gratuita) e usa l'eSIM per tutto il traffico dati.
-    - q: Come contatto immediatamente la mia famiglia?
-      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi dati eSIM Liberia per far sapere ai tuoi
-        cari che sei arrivato sano e salvo.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3.  eSIM Liberia per il Trasporto
-    questions:
-    - q: Come uso Google Maps per pianificare il percorso?
-      a: La nostra stabile connessione eSIM Liberia garantisce che Google Maps possa caricare i dati sul traffico in tempo
-        reale e gli orari ovunque in Liberia.
-    - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: 'App come Uber, Lyft (non presente), Ride-sharing locale: GoKada (moto taxi) usano VoIP. Poiché hai dati eSIM Liberia
-        attivi, gli autisti possono chiamarti o inviarti notifiche direttamente tramite l''app, senza bisogno di un numero
-        locale.'
-    - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM Liberia per acquistare biglietti digitali con codice QR nelle app locali, evitando lunghe code
-        alle biglietterie automatiche.
-    - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM Liberia. Un piano da 5GB o 10GB è sufficiente per un'ampia navigazione GPS durante
-        un viaggio su strada in Liberia.
-    - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
-      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra eSIM Liberia offre la copertura affidabile
-        necessaria.
-    - q: Le app di ride-hailing funzionano oltre confine?
-      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione Internet attiva tramite la nostra eSIM
-        locale o regionale.
-    - q: Come offro un hotspot stabile per la mia famiglia?
-      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può connettersi alla tua rete eSIM Liberia
-        sul treno o in auto.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotel
-    title: 4.  eSIM Liberia per gli Hotel
-    questions:
-    - q: Come faccio il self-check-in dopo la prenotazione?
-      a: Molte strutture moderne inviano codici per serrature intelligenti via email. La tua eSIM Liberia ti garantisce di
-        poter recuperare questi dettagli direttamente davanti alla porta.
-    - q: Come contatto il mio host Airbnb al mio arrivo?
-      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare l'orario di arrivo con il tuo host tramite
-        i dati mobili eSIM Liberia.
-    - q: Come uso Google Maps per navigare verso l'hotel?
-      a: Che tu alloggi in Mamba Point Hotel, Royal Grand Hotel, Cape Hotel, inserisci l'indirizzo in Google Maps e usa la
-        navigazione della tua eSIM Liberia.
-    - q: Come ricevo i codici di verifica SMS?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM Liberia per ricevere codici via email o app
-        di autenticazione.
-    - q: Come contatto rapidamente l'assistenza clienti?
-      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i tuoi dati ad alta velocità eSIM Liberia.
-    - q: Come ordino cibo con app di consegna locali?
-      a: Scarica Jumia Food, Uber Eats (limitato), Glovo (se presente) e usa i tuoi dati eSIM Liberia per ordinare un pasto
-        caldo direttamente nella hall dell'hotel.
-    - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM Liberia subentra, permettendoti di scrivere all'hotel se hai dimenticato
-        qualcosa.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Attrazioni e Intrattenimento
-    questions:
-    - q: Come acquisto biglietti elettronici su GetYourGuide/Viator?
-      a: Se vuoi visitare Isola di Providence, Sapo National Park, National Museum of Liberia all'ultimo minuto, puoi usare
-        i tuoi dati eSIM Liberia per acquistare biglietti online e mostrare il codice a barre direttamente.
-    - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM Liberia, puoi leggere recensioni e prenotare tour locali mentre sei seduto
-        in un bar.
-    - q: Come uso Wikipedia/Google per informazioni durante la visita?
-      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google o traducendo i cartelli dei musei mentre
-        esplori Liberia.
-    - q: Come trovo la strada per l'attrazione successiva?
-      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura della tua eSIM Liberia ti guiderà lungo
-        il percorso più veloce.
-    - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
-      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa in tempo reale. La tua eSIM Liberia
-        ti mantiene online in tutto il parco.
-    - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
-      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite app di ticketing con i tuoi dati eSIM Liberia.
-    - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM Liberia ti permettono di pubblicare Reel e foto in tempo reale, senza aspettare
-        il Wi-Fi dell'hotel.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 6.  eSIM Liberia per i Social Media
-    questions:
-    - q: Quanti dati mi servono per un viaggio in Liberia?
-      a: Utenti leggeri (mappe + messaggi) ~300MB/giorno, moderati (social + foto) ~700MB/giorno, intensivi (streaming + videochiamate)
-        scegli Illimitato. La maggior parte trova 5GB/15 giorni sufficienti per un viaggio standard in Liberia.
-    - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM Liberia 4G/5G offre la larghezza di banda per caricamenti
-        rapidi.
-    - q: Come faccio videochiamate con la mia famiglia?
-      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM Liberia siano chiare e senza ritardi,
-        ovunque ti trovi nel paese.
-    - q: È sicuro accedere ai social network su Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM Liberia personali è crittografato e molto
-        più sicuro.
-    - q: Come condivido la rete come hotspot con i compagni di viaggio?
-      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare il tuo volume dati eSIM Liberia per i loro
-        social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Transfrontaliero
-    title: 7.  eSIM Liberia per Viaggi Transfrontalieri
-    questions:
-    - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per Liberia funziona solo lì. Per viaggiare attraverso più paesi, consigliamo la nostra eSIM Regionale
-        (ad es. eSIM Europa).
-    - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
-      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM Liberia sia impostata come linea dati
-        primaria.
-    - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
-      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere online durante lo scalo.
-    - q: Come ottengo Internet sulle navi da crociera?
-      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per i paesi che visiterai. Si collegherà non
-        appena sarai vicino alla terraferma.
-    - q: Come rimane online Google Maps durante i viaggi su strada?
-      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del nuovo paese quando superi il confine,
-        mantenendo attivo il GPS.
-    - q: Come gestisco i dati per più paesi in una sola app?
-      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente tramite il nostro dashboard utente sul sito
-        Web.
-    - q: Come posso essere reperibile durante i viaggi attraverso più paesi?
-      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce di essere sempre raggiungibile allo
-        stesso numero.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 8.  eSIM Liberia per le Emergenze
-    questions:
-    - q: Come si compongono i numeri di emergenza locali?
-      a: 'In Liberia puoi comporre direttamente numeri di emergenza come Polizia: 911, Emergenza medica: 911, Vigili del fuoco:
-        911, Ambulanza: 911 (numero unico per emergenze), purché il telefono riceva un segnale cellulare.'
-    - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM Liberia consentono una ricerca immediata su Google Maps di 'farmacia' o 'ospedale' con il percorso
-        più veloce.
-    - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM Liberia per trovare rapidamente l'indirizzo e il contatto di emergenza della tua ambasciata.
-    - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM Liberia per chiamare le linee di assistenza della tua assicurazione.
-    - q: Come condivido la mia posizione in tempo reale?
-      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare le tue coordinate tramite i dati eSIM
-        Liberia.
-    - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM Liberia per caricare mappe offline in Google Maps prima di recarti in aree
-        senza segnale.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  eSIM Liberia per Viaggi d'Affari
-    questions:
-    - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM Liberia si connette a reti premium offrendo larghezza di banda e bassa latenza per videoconferenze
-        professionali.
-    - q: Come mi connetto in modo sicuro alla VPN aziendale?
-      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale in modo sicuro sulla rete eSIM Liberia.
-    - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM Liberia è molto più veloce e sicuro contro le minacce informatiche rispetto
-        alle reti Wi-Fi aperte.
-    - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM Liberia per i codici basati su email.
-    - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM Liberia puoi caricare rapidamente presentazioni sui servizi cloud.
-    - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM Liberia offre una connessione costante, così ricevi immediatamente messaggi Slack ed email.
-    - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM Liberia in movimento per informare le risorse umane sui ritardi dei voli.
+    - q: |
+        Quanti dispositivi posso collegare alla eSIM in hotspot in Liberia?
+      a: |
+        Sì, tutti i piani Roami supportano la modalità hotspot. Attiva la condivisione nelle impostazioni del telefono. Per lavorare con il computer (videoconferenze, file) consigliamo il piano 10GB ($14.99) o illimitato ($59.99). La condivisione funziona senza costi aggiuntivi.
+    - q: |
+        La SIM italiana interferisce con la eSIM in Liberia?
+      a: |
+        No, la SIM rimane nello slot 1. La eSIM funziona in parallelo nello slot 2. Usa il tuo numero per SMS e chiamate, la eSIM per internet. Risparmio del 30-50% rispetto alla SIM in aeroporto. Nelle impostazioni puoi assegnare: SIM 1 per voce, eSIM per dati.
+    - q: |
+        Come sapere quanti GB sono rimasti sulla mia eSIM per la Liberia?
+      a: |
+        Il metodo più comodo è l'app Roami: mostra il saldo in tempo reale. Su iPhone: Impostazioni > Cellulare > MTN mostra i dati consumati. Roami invia SMS di promemoria al 50%, 80% e 95% di utilizzo. La ricarica è istantanea dall'app.
+    - q: |
+        Meglio ordinare eSIM online o comprare SIM locale all'aeroporto in Liberia?
+      a: |
+        La SIM locale in aeroporto costa $10-30 più 15-60 minuti di coda. Con Roami eSIM paghi da $1.99 per 7 giorni e non perdi tempo — installata a casa, pronta all'arrivo. Il tuo numero italiano resta attivo per SMS bancari. La differenza di prezzo è netta: 30-50% in meno con eSIM.
+    - q: |
+        La eSIM è adatta per videoconferenze e lavoro online in Liberia?
+      a: |
+        Sì, la eSIM è perfetta per il lavoro da remoto. Con 5G le velocità raggiungono 100-300 Mbps, sufficienti per videoconferenze Zoom/Teams e invio di file pesanti. Con 4G (10-30 Mbps) puoi lavorare con email e documenti. Per lavoro consigliamo 10GB ($14.99) a settimana o illimitato ($59.99). La eSIM supporta anche la condivisione internet verso il computer.
+    - q: |
+        La eSIM è più conveniente del roaming internazionale per la Liberia?
+      a: |
+        Il risparmio è notevole: 1GB in roaming costa €10-20 dagli operatori italiani, mentre Roami offre 5GB a $9.99. Differenza di 10-20 volte. Inoltre con la eSIM non hai limiti di velocità dopo il consumo del pacchetto — puoi ricaricare istantaneamente dall'app. Nessuna sorpresa in bolletta.
+    - q: |
+        Cosa fare se la eSIM non funziona all'arrivo in Liberia?
+      a: |
+        Il problema più comune è il roaming dati disattivato — controlla in Impostazioni > Cellulare > Opzioni dati. Se il roaming è attivo, prova la selezione manuale della rete. Il riavvio del telefono risolve i casi restanti. Il supporto Roami è disponibile 24/7 via chat con risposta in circa 2 minuti.
+    - q: |
+        Basta il piano minimo eSIM per usare Google Maps in Liberia?
+      a: |
+        Google Maps consuma circa 5MB all'ora — qualsiasi piano Roami (da $1.99) va bene per la navigazione. Per scaricare le mappe di una città servono 200-500MB, fallo prima con WiFi. Se ascolti anche musica e usi social in viaggio, bastano 5GB ($9.99) a settimana. La navigazione funziona anche su 3G lento — non ti perderai.
 related_products:
   title: Piani eSIM simili
   items:

@@ -369,237 +369,47 @@ activation_steps:
       subito navigare, usare WhatsApp, controllare i social media o configurare un hotspot per altri dispositivi – senza attesa,
       senza documenti, senza contratto.
     is_list: false
-faq_section1:
-  title: 'Guida eSIM Nuova Zelanda 2026: Piani Dati & Consigli di Viaggio'
-  desc: Da Auckland a Wellington, rimani connesso con Spark, Vodafone, 2degrees. La nostra guida completa eSIM Nuova Zelanda
-    copre copertura, piani, installazione e consigli di viaggio.
+faq_section:
+  title: "Guida alla connessione in Nuova Zelanda: cosa sapere sulla eSIM"
+  desc: "In viaggio in Nuova Zelanda, la eSIM Roami si appoggia alla rete Spark con copertura 4G/5G. Nelle città la navigazione è scattante, in campagna la connessione regge per messaggi e mappe."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Generale
-    title: 1.  Domande Generali sull'eSIM Nuova Zelanda
+    title: Nuova Zelanda eSIM FAQ
     questions:
-    - q: Quanto è sicura l'eSIM Nuova Zelanda rispetto a una SIM fisica?
-      a: Le eSIM sono più resistenti alle manomissioni, poiché sono integrate nel dispositivo e non possono essere rimosse
-        o copiate. I tuoi dati rimangono crittografati – nessun rischio di SIM persa o rubata.
-    - q: Quali sono i vantaggi dell'eSIM Roami rispetto alle SIM locali prepagate in Nuova Zelanda?
-      a: A differenza delle SIM locali prepagate, eviti di andare in negozio, la registrazione dell'identità (KYC) e la ricerca
-        di una ricarica adatta. Con Roami attivi l'eSIM digitalmente in meno di 2 minuti – nessuna coda in aeroporto.
-    - q: Posso installare l'eSIM Nuova Zelanda prima della partenza e attivarla successivamente?
-      a: Sì, puoi installare l'eSIM già a casa (tramite Wi-Fi). L'attivazione avviene automaticamente quando il tuo telefono
-        si connette per la prima volta alla rete di Spark / Vodafone in Nuova Zelanda. Così eviti qualsiasi stress all'atterraggio.
-    - q: Esiste una garanzia di rimborso se l'eSIM Nuova Zelanda non funziona?
-      a: Sì, offriamo una garanzia di rimborso del 100% entro 7 giorni dall'attivazione, se i problemi tecnici non possono
-        essere risolti dal nostro supporto 24/7. Nessun rischio per te.
-    - q: Per quanto tempo è valido il codice QR per l'eSIM Nuova Zelanda?
-      a: Il codice QR è valido per 30 giorni dopo che te lo abbiamo inviato via email. Hai quindi tempo sufficiente per installare
-        l'eSIM prima del viaggio. Dopo la scadenza possiamo emettere un nuovo codice.
-    - q: Quali reti 5G/4G utilizza l'eSIM per Nuova Zelanda e com'è la copertura?
-      a: L'eSIM Nuova Zelanda lavora esclusivamente con Spark / Vodafone. Riceverai automaticamente la migliore rete disponibile
-        (5G/4G/LTE) con la migliore copertura nelle città come Roma, Milano, Napoli e anche in campagna e lungo le autostrade.
-    - q: Quanto costa l'eSIM per Nuova Zelanda e ci sono offerte sconto?
-      a: Il nostro piano eSIM Nuova Zelanda parte da soli $1,99/GB. Con il codice promozionale 'web20' ottieni il 20% di sconto
-        su ogni ordine – valido per tutti i piani. Nessuna tassa nascosta, nessun vincolo di durata minima.
-    - q: Durante l'utilizzo dell'eSIM Nuova Zelanda, posso continuare a ricevere chiamate sulla mia SIM domestica?
-      a: Sì, i dispositivi dual-SIM consentono l'uso simultaneo di entrambi i profili. Imposta semplicemente l'eSIM Roami
-        come predefinita per i dati mobili. Chiamate e SMS continuano sulla tua SIM domestica (il roaming può rimanere attivo).
-    - q: Il mio smartphone supporta l'eSIM per Nuova Zelanda e come la installo?
-      a: Sì, la maggior parte degli smartphone moderni (iPhone XS/XR o successivi, Samsung Galaxy S20+/Note20+, Google Pixel
-        3a+) supportano l'eSIM. Installa l'eSIM Nuova Zelanda scansionando il codice QR nelle impostazioni cellulari. Le reti
-        di Spark / Vodafone offrono un'eccellente copertura 5G/4G in Nuova Zelanda.
-    - q: Roami offre anche eSIM regionali per viaggiare al di fuori di Nuova Zelanda?
-      a: Sì, oltre all'eSIM Nuova Zelanda, offriamo eSIM regionali per Europa, Asia, Nord America e globali. Ideali per gite
-        di più giorni o tour attraverso più paesi – senza cambiare SIM.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2.  eSIM Nuova Zelanda all'Aeroporto
-    questions:
-    - q: Posso attivare la mia eSIM Nuova Zelanda subito dopo l'atterraggio?
-      a: Sì, puoi attivare la tua eSIM Nuova Zelanda appena atterrato. Usa il WiFi gratuito dell'aeroporto, scansiona il codice
-        QR dalla tua email e sarai connesso in meno di 2 minuti. Consigliamo di installare l'eSIM prima della partenza.
-    - q: Come contatto la persona che viene a prendermi o uso Uber/Grab?
-      a: Dopo l'attivazione all'atterraggio, puoi utilizzare app come Uber, Ola, Zoomy per prenotare una corsa o WhatsApp
-        per contattare il tuo autista, senza affidarti al Wi-Fi insicuro dell'aeroporto.
-    - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM Nuova Zelanda, puoi controllare in tempo reale gli orari di treni e autobus direttamente al
-        ritiro bagagli in Aeroporto Internazionale di Auckland, Aeroporto Internazionale di Wellington, Aeroporto Internazionale
-        di Christchurch o trovare la strada per il parcheggio dei taxi.
-    - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM Nuova Zelanda online in anticipo, eviti completamente i costosi chioschi SIM nell'area
-        arrivi, risparmiando tempo e denaro.
-    - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM Nuova Zelanda è solo dati. Per ricevere SMS, lascia attiva la tua SIM domestica (la ricezione SMS
-        in roaming è spesso gratuita) e usa l'eSIM per tutto il traffico dati.
-    - q: Come contatto immediatamente la mia famiglia?
-      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi dati eSIM Nuova Zelanda per far sapere
-        ai tuoi cari che sei arrivato sano e salvo.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3.  eSIM Nuova Zelanda per il Trasporto
-    questions:
-    - q: Posso usare l'eSIM Nuova Zelanda per ride-hailing e navigazione?
-      a: Sì, l'eSIM Nuova Zelanda funziona con app di ride-hailing e Google Maps. Un piano 5GB/15 giorni ($4.99) è sufficiente
-        per la navigazione quotidiana e le prenotazioni di corse.
-    - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: App come Uber, Ola, Zoomy usano VoIP. Poiché hai dati eSIM Nuova Zelanda attivi, gli autisti possono chiamarti o
-        inviarti notifiche direttamente tramite l'app, senza bisogno di un numero locale.
-    - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM Nuova Zelanda per acquistare biglietti digitali con codice QR nelle app locali, evitando lunghe
-        code alle biglietterie automatiche.
-    - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM Nuova Zelanda. Un piano da 5GB o 10GB è sufficiente per un'ampia navigazione
-        GPS durante un viaggio su strada in Nuova Zelanda.
-    - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
-      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra eSIM Nuova Zelanda offre la copertura
-        affidabile necessaria.
-    - q: Le app di ride-hailing funzionano oltre confine?
-      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione Internet attiva tramite la nostra eSIM
-        locale o regionale.
-    - q: Come offro un hotspot stabile per la mia famiglia?
-      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può connettersi alla tua rete eSIM Nuova Zelanda
-        sul treno o in auto.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotel
-    title: 4.  eSIM Nuova Zelanda per gli Hotel
-    questions:
-    - q: Come faccio il self-check-in dopo la prenotazione?
-      a: Molte strutture moderne inviano codici per serrature intelligenti via email. La tua eSIM Nuova Zelanda ti garantisce
-        di poter recuperare questi dettagli direttamente davanti alla porta.
-    - q: Come contatto il mio host Airbnb al mio arrivo?
-      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare l'orario di arrivo con il tuo host tramite
-        i dati mobili eSIM Nuova Zelanda.
-    - q: Come uso Google Maps per navigare verso l'hotel?
-      a: Che tu alloggi in Hilton Auckland, Sofitel Wellington, The George Christchurch, inserisci l'indirizzo in Google Maps
-        e usa la navigazione della tua eSIM Nuova Zelanda.
-    - q: Come ricevo i codici di verifica SMS?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM Nuova Zelanda per ricevere codici via email
-        o app di autenticazione.
-    - q: Come contatto rapidamente l'assistenza clienti?
-      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i tuoi dati ad alta velocità eSIM Nuova Zelanda.
-    - q: Come ordino cibo con app di consegna locali?
-      a: Scarica Uber Eats, Menulog, DeliverEasy e usa i tuoi dati eSIM Nuova Zelanda per ordinare un pasto caldo direttamente
-        nella hall dell'hotel.
-    - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM Nuova Zelanda subentra, permettendoti di scrivere all'hotel se
-        hai dimenticato qualcosa.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Attrazioni e Intrattenimento
-    questions:
-    - q: C'è copertura dati nelle attrazioni turistiche in Nuova Zelanda?
-      a: Le principali attrazioni hanno generalmente una buona copertura 4G/5G in Nuova Zelanda. Nelle zone remote, il segnale
-        potrebbe essere debole. Scarica mappe offline prima di visitare destinazioni isolate.
-    - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM Nuova Zelanda, puoi leggere recensioni e prenotare tour locali mentre sei seduto
-        in un bar.
-    - q: Come uso Wikipedia/Google per informazioni durante la visita?
-      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google o traducendo i cartelli dei musei mentre
-        esplori Nuova Zelanda.
-    - q: Come trovo la strada per l'attrazione successiva?
-      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura della tua eSIM Nuova Zelanda ti guiderà
-        lungo il percorso più veloce.
-    - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
-      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa in tempo reale. La tua eSIM Nuova Zelanda
-        ti mantiene online in tutto il parco.
-    - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
-      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite app di ticketing con i tuoi dati eSIM Nuova
-        Zelanda.
-    - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM Nuova Zelanda ti permettono di pubblicare Reel e foto in tempo reale, senza
-        aspettare il Wi-Fi dell'hotel.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 6.  eSIM Nuova Zelanda per i Social Media
-    questions:
-    - q: Quanti dati mi servono per un viaggio in Nuova Zelanda?
-      a: Utenti leggeri (mappe + messaggi) ~300MB/giorno, moderati (social + foto) ~700MB/giorno, intensivi (streaming + videochiamate)
-        scegli Illimitato. La maggior parte trova 5GB/15 giorni sufficienti per un viaggio standard in Nuova Zelanda.
-    - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM Nuova Zelanda 4G/5G offre la larghezza di banda per caricamenti
-        rapidi.
-    - q: Come faccio videochiamate con la mia famiglia?
-      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM Nuova Zelanda siano chiare e senza ritardi,
-        ovunque ti trovi nel paese.
-    - q: È sicuro accedere ai social network su Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM Nuova Zelanda personali è crittografato
-        e molto più sicuro.
-    - q: Come condivido la rete come hotspot con i compagni di viaggio?
-      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare il tuo volume dati eSIM Nuova Zelanda per
-        i loro social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Transfrontaliero
-    title: 7.  eSIM Nuova Zelanda per Viaggi Transfrontalieri
-    questions:
-    - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per Nuova Zelanda funziona solo lì. Per viaggiare attraverso più paesi, consigliamo la nostra eSIM
-        Regionale (ad es. eSIM Europa).
-    - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
-      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM Nuova Zelanda sia impostata come linea
-        dati primaria.
-    - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
-      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere online durante lo scalo.
-    - q: Come ottengo Internet sulle navi da crociera?
-      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per i paesi che visiterai. Si collegherà non
-        appena sarai vicino alla terraferma.
-    - q: Come rimane online Google Maps durante i viaggi su strada?
-      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del nuovo paese quando superi il confine,
-        mantenendo attivo il GPS.
-    - q: Come gestisco i dati per più paesi in una sola app?
-      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente tramite il nostro dashboard utente sul sito
-        Web.
-    - q: Come posso essere reperibile durante i viaggi attraverso più paesi?
-      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce di essere sempre raggiungibile allo
-        stesso numero.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 8.  eSIM Nuova Zelanda per le Emergenze
-    questions:
-    - q: Posso usare WhatsApp, FaceTime e WeChat con l'eSIM Nuova Zelanda?
-      a: Sì! L'eSIM Nuova Zelanda supporta chiamate audio/video WhatsApp, FaceTime, WeChat e Zoom senza restrizioni. Resta
-        in contatto con la famiglia tramite le tue app preferite.
-    - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM Nuova Zelanda consentono una ricerca immediata su Google Maps di 'farmacia' o 'ospedale' con il
-        percorso più veloce.
-    - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM Nuova Zelanda per trovare rapidamente l'indirizzo e il contatto di emergenza della tua ambasciata.
-    - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM Nuova Zelanda per chiamare le linee di assistenza della tua assicurazione.
-    - q: Come condivido la mia posizione in tempo reale?
-      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare le tue coordinate tramite i dati eSIM
-        Nuova Zelanda.
-    - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM Nuova Zelanda per caricare mappe offline in Google Maps prima di recarti
-        in aree senza segnale.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  eSIM Nuova Zelanda per Viaggi d'Affari
-    questions:
-    - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM Nuova Zelanda si connette a reti premium offrendo larghezza di banda e bassa latenza per videoconferenze
-        professionali.
-    - q: Come mi connetto in modo sicuro alla VPN aziendale?
-      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale in modo sicuro sulla rete eSIM Nuova
-        Zelanda.
-    - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM Nuova Zelanda è molto più veloce e sicuro contro le minacce informatiche
-        rispetto alle reti Wi-Fi aperte.
-    - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM Nuova Zelanda per i codici basati su email.
-    - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM Nuova Zelanda puoi caricare rapidamente presentazioni sui servizi cloud.
-    - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM Nuova Zelanda offre una connessione costante, così ricevi immediatamente messaggi Slack ed email.
-    - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM Nuova Zelanda in movimento per informare le risorse umane sui ritardi
-        dei voli.
+    - q: |
+        La SIM italiana interferisce con la eSIM in Nuova Zelanda?
+      a: |
+        SIM fisica e eSIM funzionano benissimo insieme. Nelle impostazioni del telefono puoi specificare: SIM 1 — voce e SMS (numero italiano), eSIM — solo dati. La batteria dura solo il 5-8% in meno, praticamente impercettibile. Il tuo numero resta attivo per ricevere SMS bancari.
+    - q: |
+        Meglio eSIM o SIM fisica per un viaggio in Nuova Zelanda?
+      a: |
+        La eSIM vince su tutti i fronti: risparmio del 30-50%, installazione in 2 minuti, niente ricerca di negozi. SIM fisica: devi trovare un punto vendita, mostrare il passaporto, inserire nel telefono. Tempo: 30-60 minuti. eSIM Roami: scegli il piano online, ricevi il QR code, scannerizzi — fatto. La tua SIM resta in telefono per le chiamate.
+    - q: |
+        Posso tenere la mia SIM italiana mentre uso la eSIM in Nuova Zelanda?
+      a: |
+        La SIM italiana e la eSIM funzionano perfettamente insieme. Puoi ricevere chiamate e SMS sulla tua SIM mentre navighi con la eSIM. Il consumo della batteria aumenta solo del 5-8%, appena percepibile. In Impostazioni > Cellulare puoi scegliere quale linea usare per voce, SMS e dati.
+    - q: |
+        Come capire se la eSIM si è connessa alla rete in Nuova Zelanda?
+      a: |
+        Il test più rapido: apri un sito web o fai uno speed test. Se la pagina si carica in 2-3 secondi, la eSIM funziona. Il nome dell'operatore dovrebbe apparire in alto sullo schermo. Non vedi il nome dell'operatore? Vai in Impostazioni > Operatore e disattiva la selezione automatica.
+    - q: |
+        Conviene comprare una eSIM per la Nuova Zelanda rispetto a una SIM locale?
+      a: |
+        Il piano più conveniente per la maggior parte dei turisti è 5GB/15 giorni a $9.99. Bastano per circa 300-500MB al giorno di navigazione e social. Se guardi video o lavori da remoto, scegli 10GB ($14.99) o illimitato ($59.99). Non sai quanto ti serve? Inizia con 5GB e ricarica dall'app.
+    - q: |
+        Quanti GB servono al giorno in Nuova Zelanda?
+      a: |
+        Un turista medio consuma 300-500MB al giorno tra mappe, social e messaggistica. Con video si arriva a 1-2GB/giorno. Per una settimana bastano 5GB ($9.99), per due settimane 10GB ($14.99). Puoi sempre ricaricare dall'app se il traffico finisce prima.
+    - q: |
+        Instagram, TikTok e Telegram sono accessibili con eSIM in Nuova Zelanda?
+      a: |
+        Sì, tutti i social funzionano senza limiti. Instagram, TikTok, Facebook, Telegram — il caricamento delle foto richiede 2-3 secondi su 4G. Con 5GB ($9.99) puoi caricare circa 5000 foto o guardare 10 ore di video. Per uso intensivo di social con video è meglio 10GB ($14.99).
+    - q: |
+        Conviene comprare una SIM in aeroporto all'arrivo in Nuova Zelanda?
+      a: |
+        No, le SIM in aeroporto costano il 30-50% in più e devi fare la coda con il passaporto. Roami eSIM si compra online in 2 minuti, il QR code arriva via email, non devi cambiare la tua SIM. Risparmi tempo e denaro.
 related_products:
   title: Piani eSIM simili
   items:

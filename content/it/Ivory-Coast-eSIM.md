@@ -196,242 +196,47 @@ activation_steps:
       WhatsApp, controllare i social media o configurare un hotspot per altri dispositivi – senza attesa, senza documenti,
       senza contratto.
     is_list: false
-faq_section1:
-  title: 'Guida eSIM Costa d''Avorio 2026: Guida Viaggio & Dati'
-  desc: Da Abidjan a Yamoussoukro, rimani connesso con Orange, MTN, Moov. La nostra guida completa eSIM Costa d'Avorio copre
-    copertura, piani, installazione e consigli di viaggio.
+faq_section:
+  title: "Quale operatore in Costa d'Avorio per la migliore connessione eSIM?"
+  desc: "Viaggiando in Costa d'Avorio, la connessione eSIM su Orange è stabile e veloce. In città il 5G è disponibile, nelle zone turistiche il 4G copre bene. Videochiamate e social funzionano senza problemi."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Generale
-    title: 1.  Domande Generali sull'eSIM Costa d'Avorio
+    title: Costa d'Avorio eSIM FAQ
     questions:
-    - q: Posso installare l'eSIM Costa d'Avorio prima della partenza e attivarla successivamente?
-      a: Sì, puoi installare l'eSIM già a casa (tramite Wi-Fi). L'attivazione avviene automaticamente quando il tuo telefono
-        si connette per la prima volta alla rete di Orange / MTN in Costa d'Avorio. Così eviti qualsiasi stress all'atterraggio.
-    - q: Come attivo l'eSIM per Costa d'Avorio e quando inizia la validità?
-      a: Dopo l'acquisto riceverai immediatamente un codice QR di attivazione via email. La validità inizia solo quando il
-        tuo telefono si connette per la prima volta a una delle reti partner (Orange / MTN) in Costa d'Avorio. Paghi solo
-        per i giorni che trascorri effettivamente sul posto.
-    - q: Posso usare l'eSIM per Costa d'Avorio come hotspot con altri dispositivi?
-      a: Sì, tutti i piani Roami eSIM per Costa d'Avorio consentono tethering illimitato (hotspot). Puoi condividere la tua
-        connessione dati con laptop, tablet o compagni di viaggio – senza costi nascosti o limitazioni di velocità.
-    - q: Posso mantenere il mio numero di telefono attuale mentre uso l'eSIM per Costa d'Avorio?
-      a: 'L''eSIM Roami è una eSIM solo dati. Puoi usare la tua SIM domestica in parallelo (ad es. per chiamate/SMS). La maggior
-        parte dei telefoni dual-SIM gestisce entrambi i profili: imposta semplicemente l''eSIM Roami come predefinita per
-        i dati mobili.'
-    - q: Roami offre anche eSIM regionali per viaggiare al di fuori di Costa d'Avorio?
-      a: Sì, oltre all'eSIM Costa d'Avorio, offriamo eSIM regionali per Europa, Asia, Nord America e globali. Ideali per gite
-        di più giorni o tour attraverso più paesi – senza cambiare SIM.
-    - q: Quali reti 5G/4G utilizza l'eSIM per Costa d'Avorio e com'è la copertura?
-      a: L'eSIM Costa d'Avorio lavora esclusivamente con Orange / MTN. Riceverai automaticamente la migliore rete disponibile
-        (5G/4G/LTE) con la migliore copertura nelle città come Roma, Milano, Napoli e anche in campagna e lungo le autostrade.
-    - q: Per quanto tempo è valido il codice QR per l'eSIM Costa d'Avorio?
-      a: Il codice QR è valido per 30 giorni dopo che te lo abbiamo inviato via email. Hai quindi tempo sufficiente per installare
-        l'eSIM prima del viaggio. Dopo la scadenza possiamo emettere un nuovo codice.
-    - q: L'eSIM Costa d'Avorio supporta VoLTE e chiamate HD?
-      a: Sì, l'eSIM Costa d'Avorio supporta VoLTE e voce HD, se il tuo dispositivo lo consente. Goditi una qualità audio nitida
-        sulla rete 5G/4G di Orange / MTN.
-    - q: Quali requisiti deve soddisfare il mio smartphone per utilizzare l'eSIM Costa d'Avorio?
-      a: Il tuo dispositivo deve essere compatibile con eSIM (iPhone XS/XR o successivi, Samsung Galaxy S20/Note20 o successivi,
-        Google Pixel 3a o successivi, e la maggior parte dei telefoni 5G più recenti di Huawei, Xiaomi, OnePlus). Verifica
-        nelle impostazioni se è disponibile l'opzione 'Aggiungi eSIM'.
-    - q: Durante l'utilizzo dell'eSIM Costa d'Avorio, posso continuare a ricevere chiamate sulla mia SIM domestica?
-      a: Sì, i dispositivi dual-SIM consentono l'uso simultaneo di entrambi i profili. Imposta semplicemente l'eSIM Roami
-        come predefinita per i dati mobili. Chiamate e SMS continuano sulla tua SIM domestica (il roaming può rimanere attivo).
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2.  eSIM Costa d'Avorio all'Aeroporto
-    questions:
-    - q: Come posso ottenere una rete affidabile subito dopo l'atterraggio?
-      a: Installa l'eSIM Costa d'Avorio prima del volo. Non appena atterri in aeroporti come Aeroporto Internazionale Félix-Houphouët-Boigny
-        (Abidjan), Aeroporto di Yamoussoukro, Aeroporto di Bouaké, disattiva la modalità aereo e attiva la tua eSIM. Si collegherà
-        in pochi secondi alla rete 4G/5G locale.
-    - q: Come contatto la persona che viene a prendermi o uso Uber/Grab?
-      a: Dopo l'attivazione all'atterraggio, puoi utilizzare app come Uber (Abidjan), Yango (locale), Moov Africa (servizi
-        mobili) per prenotare una corsa o WhatsApp per contattare il tuo autista, senza affidarti al Wi-Fi insicuro dell'aeroporto.
-    - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM Costa d'Avorio, puoi controllare in tempo reale gli orari di treni e autobus direttamente al
-        ritiro bagagli in Aeroporto Internazionale Félix-Houphouët-Boigny (Abidjan), Aeroporto di Yamoussoukro, Aeroporto
-        di Bouaké o trovare la strada per il parcheggio dei taxi.
-    - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM Costa d'Avorio online in anticipo, eviti completamente i costosi chioschi SIM nell'area
-        arrivi, risparmiando tempo e denaro.
-    - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM Costa d'Avorio è solo dati. Per ricevere SMS, lascia attiva la tua SIM domestica (la ricezione SMS
-        in roaming è spesso gratuita) e usa l'eSIM per tutto il traffico dati.
-    - q: Come contatto immediatamente la mia famiglia?
-      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi dati eSIM Costa d'Avorio per far sapere
-        ai tuoi cari che sei arrivato sano e salvo.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3.  eSIM Costa d'Avorio per il Trasporto
-    questions:
-    - q: Come uso Google Maps per pianificare il percorso?
-      a: La nostra stabile connessione eSIM Costa d'Avorio garantisce che Google Maps possa caricare i dati sul traffico in
-        tempo reale e gli orari ovunque in Costa d'Avorio.
-    - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: App come Uber (Abidjan), Yango (locale), Moov Africa (servizi mobili) usano VoIP. Poiché hai dati eSIM Costa d'Avorio
-        attivi, gli autisti possono chiamarti o inviarti notifiche direttamente tramite l'app, senza bisogno di un numero
-        locale.
-    - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM Costa d'Avorio per acquistare biglietti digitali con codice QR nelle app locali, evitando lunghe
-        code alle biglietterie automatiche.
-    - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM Costa d'Avorio. Un piano da 5GB o 10GB è sufficiente per un'ampia navigazione
-        GPS durante un viaggio su strada in Costa d'Avorio.
-    - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
-      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra eSIM Costa d'Avorio offre la copertura
-        affidabile necessaria.
-    - q: Le app di ride-hailing funzionano oltre confine?
-      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione Internet attiva tramite la nostra eSIM
-        locale o regionale.
-    - q: Come offro un hotspot stabile per la mia famiglia?
-      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può connettersi alla tua rete eSIM Costa d'Avorio
-        sul treno o in auto.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotel
-    title: 4.  eSIM Costa d'Avorio per gli Hotel
-    questions:
-    - q: Come faccio il self-check-in dopo la prenotazione?
-      a: Molte strutture moderne inviano codici per serrature intelligenti via email. La tua eSIM Costa d'Avorio ti garantisce
-        di poter recuperare questi dettagli direttamente davanti alla porta.
-    - q: Come contatto il mio host Airbnb al mio arrivo?
-      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare l'orario di arrivo con il tuo host tramite
-        i dati mobili eSIM Costa d'Avorio.
-    - q: Come uso Google Maps per navigare verso l'hotel?
-      a: Che tu alloggi in Hotel Ivoire (Abidjan), Radisson Blu (Abidjan), Noom Hotel Abidjan Plateau, inserisci l'indirizzo
-        in Google Maps e usa la navigazione della tua eSIM Costa d'Avorio.
-    - q: Come ricevo i codici di verifica SMS?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM Costa d'Avorio per ricevere codici via email
-        o app di autenticazione.
-    - q: Come contatto rapidamente l'assistenza clienti?
-      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i tuoi dati ad alta velocità eSIM Costa d'Avorio.
-    - q: Come ordino cibo con app di consegna locali?
-      a: Scarica Jumia Food, Uber Eats (presente ad Abidjan), Afrikrea (locale) e usa i tuoi dati eSIM Costa d'Avorio per
-        ordinare un pasto caldo direttamente nella hall dell'hotel.
-    - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM Costa d'Avorio subentra, permettendoti di scrivere all'hotel se
-        hai dimenticato qualcosa.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Attrazioni e Intrattenimento
-    questions:
-    - q: Come acquisto biglietti elettronici su GetYourGuide/Viator?
-      a: Se vuoi visitare Basilica di Nostra Signora della Pace di Yamoussoukro, Parco Nazionale di Taï, Grand-Bassam (Patrimonio
-        UNESCO) all'ultimo minuto, puoi usare i tuoi dati eSIM Costa d'Avorio per acquistare biglietti online e mostrare il
-        codice a barre direttamente.
-    - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM Costa d'Avorio, puoi leggere recensioni e prenotare tour locali mentre sei
-        seduto in un bar.
-    - q: Come uso Wikipedia/Google per informazioni durante la visita?
-      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google o traducendo i cartelli dei musei mentre
-        esplori Costa d'Avorio.
-    - q: Come trovo la strada per l'attrazione successiva?
-      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura della tua eSIM Costa d'Avorio ti guiderà
-        lungo il percorso più veloce.
-    - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
-      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa in tempo reale. La tua eSIM Costa d'Avorio
-        ti mantiene online in tutto il parco.
-    - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
-      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite app di ticketing con i tuoi dati eSIM Costa
-        d'Avorio.
-    - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM Costa d'Avorio ti permettono di pubblicare Reel e foto in tempo reale, senza
-        aspettare il Wi-Fi dell'hotel.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 6.  eSIM Costa d'Avorio per i Social Media
-    questions:
-    - q: Quanti dati mi servono per un viaggio in Costa d'Avorio?
-      a: Utenti leggeri (mappe + messaggi) ~300MB/giorno, moderati (social + foto) ~700MB/giorno, intensivi (streaming + videochiamate)
-        scegli Illimitato. La maggior parte trova 5GB/15 giorni sufficienti per un viaggio standard in Costa d'Avorio.
-    - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM Costa d'Avorio 4G/5G offre la larghezza di banda per
-        caricamenti rapidi.
-    - q: Come faccio videochiamate con la mia famiglia?
-      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM Costa d'Avorio siano chiare e senza
-        ritardi, ovunque ti trovi nel paese.
-    - q: È sicuro accedere ai social network su Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM Costa d'Avorio personali è crittografato
-        e molto più sicuro.
-    - q: Come condivido la rete come hotspot con i compagni di viaggio?
-      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare il tuo volume dati eSIM Costa d'Avorio
-        per i loro social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Transfrontaliero
-    title: 7.  eSIM Costa d'Avorio per Viaggi Transfrontalieri
-    questions:
-    - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per Costa d'Avorio funziona solo lì. Per viaggiare attraverso più paesi, consigliamo la nostra eSIM
-        Regionale (ad es. eSIM Europa).
-    - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
-      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM Costa d'Avorio sia impostata come linea
-        dati primaria.
-    - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
-      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere online durante lo scalo.
-    - q: Come ottengo Internet sulle navi da crociera?
-      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per i paesi che visiterai. Si collegherà non
-        appena sarai vicino alla terraferma.
-    - q: Come rimane online Google Maps durante i viaggi su strada?
-      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del nuovo paese quando superi il confine,
-        mantenendo attivo il GPS.
-    - q: Come gestisco i dati per più paesi in una sola app?
-      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente tramite il nostro dashboard utente sul sito
-        Web.
-    - q: Come posso essere reperibile durante i viaggi attraverso più paesi?
-      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce di essere sempre raggiungibile allo
-        stesso numero.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 8.  eSIM Costa d'Avorio per le Emergenze
-    questions:
-    - q: Come si compongono i numeri di emergenza locali?
-      a: In Costa d'Avorio puoi comporre direttamente numeri di emergenza come 112 (numero di emergenza unico), 185 (polizia),
-        180 (ambulanza), purché il telefono riceva un segnale cellulare.
-    - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM Costa d'Avorio consentono una ricerca immediata su Google Maps di 'farmacia' o 'ospedale' con il
-        percorso più veloce.
-    - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM Costa d'Avorio per trovare rapidamente l'indirizzo e il contatto di emergenza della tua ambasciata.
-    - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM Costa d'Avorio per chiamare le linee di assistenza della tua assicurazione.
-    - q: Come condivido la mia posizione in tempo reale?
-      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare le tue coordinate tramite i dati eSIM
-        Costa d'Avorio.
-    - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM Costa d'Avorio per caricare mappe offline in Google Maps prima di recarti
-        in aree senza segnale.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  eSIM Costa d'Avorio per Viaggi d'Affari
-    questions:
-    - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM Costa d'Avorio si connette a reti premium offrendo larghezza di banda e bassa latenza per videoconferenze
-        professionali.
-    - q: Come mi connetto in modo sicuro alla VPN aziendale?
-      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale in modo sicuro sulla rete eSIM Costa
-        d'Avorio.
-    - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM Costa d'Avorio è molto più veloce e sicuro contro le minacce informatiche
-        rispetto alle reti Wi-Fi aperte.
-    - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM Costa d'Avorio per i codici basati su email.
-    - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM Costa d'Avorio puoi caricare rapidamente presentazioni sui servizi cloud.
-    - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM Costa d'Avorio offre una connessione costante, così ricevi immediatamente messaggi Slack ed email.
-    - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM Costa d'Avorio in movimento per informare le risorse umane sui ritardi
-        dei voli.
+    - q: |
+        Ci sono costi nascosti con Roami per il Costa d'Avorio?
+      a: |
+        Nessuna commissione nascosta: il prezzo che vedi sul sito è quello finale. Incluso: profilo eSIM, accesso alla rete, supporto 24/7. Non incluso: chiamate vocali (solo via internet). Nessun rinnovo automatico — il piano termina da solo alla scadenza. Puoi sempre ricaricare dall'app.
+    - q: |
+        La eSIM è adatta per viaggi brevi di 2-3 giorni in Costa d'Avorio?
+      a: |
+        Sì, per viaggi brevi la eSIM è perfetta. Il piano minimo è 7 giorni / 1GB a $1.99 — sufficiente per mappe e messaggi. Per 3-5 giorni di uso attivo consigliamo 3GB ($4.99). Installazione in 2 minuti, acquisto fino a 5 minuti prima della partenza. All'arrivo in Costa d'Avorio attiva il roaming dati e sei subito online.
+    - q: |
+        Meglio eSIM o SIM fisica per un viaggio in Costa d'Avorio?
+      a: |
+        La eSIM è meglio: costa il 30-50% in meno, non devi cambiare SIM, puoi installarla prima di partire. La SIM fisica richiede coda in aeroporto e passaporto — 15-30 minuti persi. Roami eSIM da $1.99, installazione in 2 minuti. Se hai iPhone XR o più recente, o un Android moderno, la eSIM è la scelta migliore. Il tuo numero italiano resta attivo per SMS e chiamate.
+    - q: |
+        Come usare la mia SIM e la eSIM contemporaneamente in Costa d'Avorio?
+      a: |
+        La SIM italiana e la eSIM funzionano perfettamente insieme. Puoi ricevere chiamate e SMS sulla tua SIM mentre navighi con la eSIM. Il consumo della batteria aumenta solo del 5-8%, appena percepibile. In Impostazioni > Cellulare puoi scegliere quale linea usare per voce, SMS e dati.
+    - q: |
+        Qual è la migliore eSIM da acquistare per un viaggio in Costa d'Avorio?
+      a: |
+        Roami eSIM funziona sulla rete Orange — uno dei principali operatori con copertura del 95% del territorio. 5GB a $9.99 è l'opzione ottimale per il turista medio. Se il viaggio dura più di due settimane, scegli 10GB ($14.99). Supporto 24/7 con risposta in 2 minuti.
+    - q: |
+        Quale quantità di dati scegliere per il mio viaggio per il Costa d'Avorio?
+      a: |
+        Parti dalle tue abitudini: 3GB ($4.99) per 7 giorni per navigazione leggera. 5GB ($9.99) è lo standard per la maggior parte. 10GB ($14.99) per video e social intensivi. Illimitato ($59.99) per streaming attivo e condivisione. Tutti i piani si possono ricaricare dall'app senza cambiare QR code.
+    - q: |
+        Conviene comprare la eSIM prima del viaggio per il Costa d'Avorio?
+      a: |
+        Sì — installa la eSIM 1-2 giorni prima della partenza con WiFi di casa. All'arrivo in Costa d'Avorio attiva il roaming dati e sei online in 60 secondi. Niente code in aeroporto per comprare una SIM. Se il viaggio è last minute, puoi acquistare fino a 5 minuti prima del volo.
+    - q: |
+        Che errori evitare quando si usa la eSIM per la prima volta in Costa d'Avorio?
+      a: |
+        Tre errori principali: 1) Installazione in aeroporto senza WiFi — installa a casa prima di partire. 2) Roaming dati disattivato — attivalo nelle impostazioni. 3) Compatibilità del telefono non verificata — componi *#06# prima dell'acquisto per controllare se il tuo telefono supporta eSIM.
 related_products:
   title: Piani eSIM simili
   items:

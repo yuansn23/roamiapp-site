@@ -340,6 +340,7 @@ footer_col1_links = [
   nav_links = [
     { name = "Home", url = "/" },
     { name = "Acquista eSIM", url = "/plans/" },
+	{ name = "Operatore eSIM", url = "/carriers/" },
     { name = "Compatibilità eSIM", url = "/compatibility/" },
     { name = "eSIM Gratuita", url = "/free-esim/" },
     { name = "App Roami", url = "/app/" },
@@ -363,6 +364,7 @@ footer_col1_links = [
   footer_col2_links = [
     { name = "FAQ", url = "/faq/" },
 	{ name = "Blog", url = "/blog/" },
+	{ name = "Operatore eSIM", url = "/carriers/" },
     { name = "Compatibilità eSIM", url = "/compatibility/" },
     { name = "Scarica Roami", url = "/app/" }
   ]

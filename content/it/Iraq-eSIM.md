@@ -227,233 +227,47 @@ activation_steps:
       automaticamente alla rete 5G/4G più veloce disponibile di Zain Iraq / Asiacell. Potrai subito navigare, usare WhatsApp,
       controllare i social media o configurare un hotspot per altri dispositivi – senza attesa, senza documenti, senza contratto.
     is_list: false
-faq_section1:
-  title: 'Guida eSIM Iraq 2026: Guida Viaggio & Dati'
-  desc: Da Baghdad a Erbil, rimani connesso con Zain Iraq, Asiacell, Korek Telecom. La nostra guida completa eSIM Iraq copre
-    copertura, piani, installazione e consigli di viaggio.
+faq_section:
+  title: "Internet in città e campagna in Iraq: come si comporta la eSIM?"
+  desc: "Parti per l'Iraq? La eSIM Roami su Zain ti dà connessione 4G/5G nelle aree urbane e in gran parte delle località turistiche. La rete è stabile, perfetta per chi viaggia con lo smartphone."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Generale
-    title: 1.  Domande Generali sull'eSIM Iraq
+    title: Iraq eSIM FAQ
     questions:
-    - q: Quanto costa l'eSIM per Iraq e ci sono offerte sconto?
-      a: Il nostro piano eSIM Iraq parte da soli $1,99/GB. Con il codice promozionale 'web20' ottieni il 20% di sconto su
-        ogni ordine – valido per tutti i piani. Nessuna tassa nascosta, nessun vincolo di durata minima.
-    - q: Roami offre piani dati illimitati per Iraq? Esiste una politica di fair use?
-      a: Roami offre veri piani dati illimitati per Iraq. Una politica di fair use si applica solo in caso di utilizzo estremo
-        (ad es. streaming 4K continuo per diversi giorni). La navigazione normale, i social media, le videochiamate e la navigazione
-        non sono interessati.
-    - q: Posso installare l'eSIM Iraq prima della partenza e attivarla successivamente?
-      a: Sì, puoi installare l'eSIM già a casa (tramite Wi-Fi). L'attivazione avviene automaticamente quando il tuo telefono
-        si connette per la prima volta alla rete di Zain Iraq / Asiacell in Iraq. Così eviti qualsiasi stress all'atterraggio.
-    - q: Quanto è sicura l'eSIM Iraq rispetto a una SIM fisica?
-      a: Le eSIM sono più resistenti alle manomissioni, poiché sono integrate nel dispositivo e non possono essere rimosse
-        o copiate. I tuoi dati rimangono crittografati – nessun rischio di SIM persa o rubata.
-    - q: Posso usare l'eSIM per Iraq come hotspot con altri dispositivi?
-      a: Sì, tutti i piani Roami eSIM per Iraq consentono tethering illimitato (hotspot). Puoi condividere la tua connessione
-        dati con laptop, tablet o compagni di viaggio – senza costi nascosti o limitazioni di velocità.
-    - q: Durante l'utilizzo dell'eSIM Iraq, posso continuare a ricevere chiamate sulla mia SIM domestica?
-      a: Sì, i dispositivi dual-SIM consentono l'uso simultaneo di entrambi i profili. Imposta semplicemente l'eSIM Roami
-        come predefinita per i dati mobili. Chiamate e SMS continuano sulla tua SIM domestica (il roaming può rimanere attivo).
-    - q: L'eSIM Iraq supporta VoLTE e chiamate HD?
-      a: Sì, l'eSIM Iraq supporta VoLTE e voce HD, se il tuo dispositivo lo consente. Goditi una qualità audio nitida sulla
-        rete 5G/4G di Zain Iraq / Asiacell.
-    - q: Esiste una garanzia di rimborso se l'eSIM Iraq non funziona?
-      a: Sì, offriamo una garanzia di rimborso del 100% entro 7 giorni dall'attivazione, se i problemi tecnici non possono
-        essere risolti dal nostro supporto 24/7. Nessun rischio per te.
-    - q: Posso trasferire l'eSIM Iraq su un altro dispositivo dopo l'installazione?
-      a: Un'eSIM una volta installata non può essere trasferita su un altro dispositivo. Installa l'eSIM sul dispositivo che
-        utilizzerai durante il viaggio. Per dispositivi aggiuntivi puoi acquistare altre eSIM.
-    - q: Come posso monitorare il mio consumo dati con l'eSIM per Iraq?
-      a: Dopo l'attivazione hai accesso al nostro dashboard online. Puoi vedere in tempo reale i tuoi dati residui, la validità
-        rimanente e richiedere assistenza in qualsiasi momento e ovunque.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2.  eSIM Iraq all'Aeroporto
-    questions:
-    - q: Come posso ottenere una rete affidabile subito dopo l'atterraggio?
-      a: Installa l'eSIM Iraq prima del volo. Non appena atterri in aeroporti come Aeroporto Internazionale di Baghdad, Aeroporto
-        Internazionale di Erbil, Aeroporto Internazionale di Bassora, disattiva la modalità aereo e attiva la tua eSIM. Si
-        collegherà in pochi secondi alla rete 4G/5G locale.
-    - q: Come contatto la persona che viene a prendermi o uso Uber/Grab?
-      a: Dopo l'attivazione all'atterraggio, puoi utilizzare app come Careem, Uber, Ishtar Lines per prenotare una corsa o
-        WhatsApp per contattare il tuo autista, senza affidarti al Wi-Fi insicuro dell'aeroporto.
-    - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM Iraq, puoi controllare in tempo reale gli orari di treni e autobus direttamente al ritiro bagagli
-        in Aeroporto Internazionale di Baghdad, Aeroporto Internazionale di Erbil, Aeroporto Internazionale di Bassora o trovare
-        la strada per il parcheggio dei taxi.
-    - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM Iraq online in anticipo, eviti completamente i costosi chioschi SIM nell'area arrivi,
-        risparmiando tempo e denaro.
-    - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM Iraq è solo dati. Per ricevere SMS, lascia attiva la tua SIM domestica (la ricezione SMS in roaming
-        è spesso gratuita) e usa l'eSIM per tutto il traffico dati.
-    - q: Come contatto immediatamente la mia famiglia?
-      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi dati eSIM Iraq per far sapere ai tuoi
-        cari che sei arrivato sano e salvo.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3.  eSIM Iraq per il Trasporto
-    questions:
-    - q: Come uso Google Maps per pianificare il percorso?
-      a: La nostra stabile connessione eSIM Iraq garantisce che Google Maps possa caricare i dati sul traffico in tempo reale
-        e gli orari ovunque in Iraq.
-    - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: App come Careem, Uber, Ishtar Lines usano VoIP. Poiché hai dati eSIM Iraq attivi, gli autisti possono chiamarti o
-        inviarti notifiche direttamente tramite l'app, senza bisogno di un numero locale.
-    - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM Iraq per acquistare biglietti digitali con codice QR nelle app locali, evitando lunghe code
-        alle biglietterie automatiche.
-    - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM Iraq. Un piano da 5GB o 10GB è sufficiente per un'ampia navigazione GPS durante
-        un viaggio su strada in Iraq.
-    - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
-      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra eSIM Iraq offre la copertura affidabile
-        necessaria.
-    - q: Le app di ride-hailing funzionano oltre confine?
-      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione Internet attiva tramite la nostra eSIM
-        locale o regionale.
-    - q: Come offro un hotspot stabile per la mia famiglia?
-      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può connettersi alla tua rete eSIM Iraq sul
-        treno o in auto.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotel
-    title: 4.  eSIM Iraq per gli Hotel
-    questions:
-    - q: Come faccio il self-check-in dopo la prenotazione?
-      a: Molte strutture moderne inviano codici per serrature intelligenti via email. La tua eSIM Iraq ti garantisce di poter
-        recuperare questi dettagli direttamente davanti alla porta.
-    - q: Come contatto il mio host Airbnb al mio arrivo?
-      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare l'orario di arrivo con il tuo host tramite
-        i dati mobili eSIM Iraq.
-    - q: Come uso Google Maps per navigare verso l'hotel?
-      a: Che tu alloggi in Rotana Hotel Erbil, Babylon Rotana Baghdad, Basra International Hotel, inserisci l'indirizzo in
-        Google Maps e usa la navigazione della tua eSIM Iraq.
-    - q: Come ricevo i codici di verifica SMS?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM Iraq per ricevere codici via email o app di
-        autenticazione.
-    - q: Come contatto rapidamente l'assistenza clienti?
-      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i tuoi dati ad alta velocità eSIM Iraq.
-    - q: Come ordino cibo con app di consegna locali?
-      a: Scarica Talabat, Careem Food, Mrsool e usa i tuoi dati eSIM Iraq per ordinare un pasto caldo direttamente nella hall
-        dell'hotel.
-    - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM Iraq subentra, permettendoti di scrivere all'hotel se hai dimenticato
-        qualcosa.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Attrazioni e Intrattenimento
-    questions:
-    - q: Come acquisto biglietti elettronici su GetYourGuide/Viator?
-      a: Se vuoi visitare Ziggurat di Ur, Cittadella di Erbil, Moschea Al-Askari all'ultimo minuto, puoi usare i tuoi dati
-        eSIM Iraq per acquistare biglietti online e mostrare il codice a barre direttamente.
-    - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM Iraq, puoi leggere recensioni e prenotare tour locali mentre sei seduto in
-        un bar.
-    - q: Come uso Wikipedia/Google per informazioni durante la visita?
-      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google o traducendo i cartelli dei musei mentre
-        esplori Iraq.
-    - q: Come trovo la strada per l'attrazione successiva?
-      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura della tua eSIM Iraq ti guiderà lungo il
-        percorso più veloce.
-    - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
-      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa in tempo reale. La tua eSIM Iraq ti
-        mantiene online in tutto il parco.
-    - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
-      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite app di ticketing con i tuoi dati eSIM Iraq.
-    - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM Iraq ti permettono di pubblicare Reel e foto in tempo reale, senza aspettare
-        il Wi-Fi dell'hotel.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 6.  eSIM Iraq per i Social Media
-    questions:
-    - q: Quanti dati mi servono per un viaggio in Iraq?
-      a: Utenti leggeri (mappe + messaggi) ~300MB/giorno, moderati (social + foto) ~700MB/giorno, intensivi (streaming + videochiamate)
-        scegli Illimitato. La maggior parte trova 5GB/15 giorni sufficienti per un viaggio standard in Iraq.
-    - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM Iraq 4G/5G offre la larghezza di banda per caricamenti
-        rapidi.
-    - q: Come faccio videochiamate con la mia famiglia?
-      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM Iraq siano chiare e senza ritardi, ovunque
-        ti trovi nel paese.
-    - q: È sicuro accedere ai social network su Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM Iraq personali è crittografato e molto più
-        sicuro.
-    - q: Come condivido la rete come hotspot con i compagni di viaggio?
-      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare il tuo volume dati eSIM Iraq per i loro
-        social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Transfrontaliero
-    title: 7.  eSIM Iraq per Viaggi Transfrontalieri
-    questions:
-    - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per Iraq funziona solo lì. Per viaggiare attraverso più paesi, consigliamo la nostra eSIM Regionale
-        (ad es. eSIM Europa).
-    - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
-      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM Iraq sia impostata come linea dati primaria.
-    - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
-      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere online durante lo scalo.
-    - q: Come ottengo Internet sulle navi da crociera?
-      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per i paesi che visiterai. Si collegherà non
-        appena sarai vicino alla terraferma.
-    - q: Come rimane online Google Maps durante i viaggi su strada?
-      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del nuovo paese quando superi il confine,
-        mantenendo attivo il GPS.
-    - q: Come gestisco i dati per più paesi in una sola app?
-      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente tramite il nostro dashboard utente sul sito
-        Web.
-    - q: Come posso essere reperibile durante i viaggi attraverso più paesi?
-      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce di essere sempre raggiungibile allo
-        stesso numero.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 8.  eSIM Iraq per le Emergenze
-    questions:
-    - q: Come si compongono i numeri di emergenza locali?
-      a: 'In Iraq puoi comporre direttamente numeri di emergenza come Polizia: 104, Ambulanza: 122, Vigili del fuoco: 115,
-        purché il telefono riceva un segnale cellulare.'
-    - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM Iraq consentono una ricerca immediata su Google Maps di 'farmacia' o 'ospedale' con il percorso
-        più veloce.
-    - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM Iraq per trovare rapidamente l'indirizzo e il contatto di emergenza della tua ambasciata.
-    - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM Iraq per chiamare le linee di assistenza della tua assicurazione.
-    - q: Come condivido la mia posizione in tempo reale?
-      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare le tue coordinate tramite i dati eSIM
-        Iraq.
-    - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM Iraq per caricare mappe offline in Google Maps prima di recarti in aree
-        senza segnale.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  eSIM Iraq per Viaggi d'Affari
-    questions:
-    - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM Iraq si connette a reti premium offrendo larghezza di banda e bassa latenza per videoconferenze professionali.
-    - q: Come mi connetto in modo sicuro alla VPN aziendale?
-      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale in modo sicuro sulla rete eSIM Iraq.
-    - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM Iraq è molto più veloce e sicuro contro le minacce informatiche rispetto
-        alle reti Wi-Fi aperte.
-    - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM Iraq per i codici basati su email.
-    - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM Iraq puoi caricare rapidamente presentazioni sui servizi cloud.
-    - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM Iraq offre una connessione costante, così ricevi immediatamente messaggi Slack ed email.
-    - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM Iraq in movimento per informare le risorse umane sui ritardi dei voli.
+    - q: |
+        Che qualità hanno le videochiamate con la eSIM in Iraq?
+      a: |
+        Sì, le videochiamate funzionano bene. Una chiamata Zoom di 30 minuti consuma circa 150-300MB. Con 5G (100-300 Mbps) la qualità arriva al 4K, con 4G (10-30 Mbps) le chiamate sono comunque nitide. Per lavoro da remoto consiglio il piano 10GB ($14.99) o illimitato ($59.99).
+    - q: |
+        Si può ricaricare la eSIM da remoto durante il viaggio in Iraq?
+      a: |
+        La ricarica richiede 30 secondi: apri l'app Roami, scegli il pacchetto aggiuntivo, paghi — il traffico è subito disponibile. Non serve scansionare un nuovo QR code o reinstallare la eSIM. Puoi ricaricare con carta o PayPal in qualsiasi momento, anche dall'estero.
+    - q: |
+        La eSIM supporta lo streaming video in buona qualità in Iraq?
+      a: |
+        Sì, lo streaming funziona senza limiti. Netflix in HD consuma circa 1GB/ora, YouTube 500-800MB/ora. Con 5GB puoi guardare 5-6 ore di video HD. Per uso intensivo meglio il piano illimitato. Con 5G la qualità arriva al 4K, con 4G lo streaming in 1080p è fluido.
+    - q: |
+        Quali sono i passaggi per configurare la eSIM prima di partire?
+      a: |
+        L'installazione richiede 2 minuti. Dopo l'acquisto ricevi il QR code via email entro 5 minuti. Su iPhone: Impostazioni > Cellulare > Aggiungi eSIM. Su Android: Impostazioni > Rete > Aggiungi eSIM. Installa prima della partenza con WiFi di casa. All'arrivo in Iraq, attiva il roaming dati — sei online in 60 secondi.
+    - q: |
+        Conviene comprare la eSIM prima del viaggio per l'Iraq?
+      a: |
+        Acquistare in anticipo dà tre vantaggi: 1) Installazione con WiFi di casa — senza rischi di non avere connessione all'arrivo. 2) Il piano non si attiva fino all'atterraggio — la validità inizia al primo aggancio alla rete locale. 3) Niente code di 20-40 minuti in aeroporto. Comprato, installato in 2 minuti e dimenticato fino alla partenza.
+    - q: |
+        Come capire se la eSIM si è connessa alla rete in Iraq?
+      a: |
+        Il test più rapido: apri un sito web o fai uno speed test. Se la pagina si carica in 2-3 secondi, la eSIM funziona. Il nome dell'operatore dovrebbe apparire in alto sullo schermo. Non vedi il nome dell'operatore? Vai in Impostazioni > Operatore e disattiva la selezione automatica.
+    - q: |
+        Quanto costa una eSIM per l'Iraq?
+      a: |
+        I piani Roami partono da $1.99 (7 giorni, 1GB) fino a $59.99 (30 giorni, illimitato). Il piano più popolare è 5GB/15 giorni a $9.99 — sufficiente per navigazione, social e messaggistica. Per uso intensivo con video, scegli 10GB ($14.99) o illimitato ($59.99). Tutti i piani sono prepagati, senza costi nascosti e senza rinnovo automatico.
+    - q: |
+        Devo togliere la SIM fisica per usare la eSIM in Iraq?
+      a: |
+        No, la SIM rimane nello slot 1. La eSIM funziona in parallelo nello slot 2. Usa il tuo numero per SMS e chiamate, la eSIM per internet. Risparmio del 30-50% rispetto alla SIM in aeroporto. Nelle impostazioni puoi assegnare: SIM 1 per voce, eSIM per dati.
 related_products:
   title: Piani eSIM simili
   items:

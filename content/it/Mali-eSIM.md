@@ -195,236 +195,47 @@ activation_steps:
       alla rete 5G/4G più veloce disponibile di Orange Mali / Sotelma-Malitel. Potrai subito navigare, usare WhatsApp, controllare
       i social media o configurare un hotspot per altri dispositivi – senza attesa, senza documenti, senza contratto.
     is_list: false
-faq_section1:
-  title: 'Guida eSIM Mali 2026: Piani Dati & Consigli di Viaggio'
-  desc: Da Bamako a Ségou, rimani connesso con Orange Mali, Sotelma-Malitel, Telecel. La nostra guida completa eSIM Mali copre
-    copertura, piani, installazione e consigli di viaggio.
+faq_section:
+  title: "Qualità del segnale in Mali con eSIM per i viaggiatori"
+  desc: "Viaggiando in Mali, la eSIM si connette automaticamente a Orange, il principale operatore. La copertura 4G/5G arriva al 95% delle zone turistiche. In città il 5G è veloce, in campagna il 4G basta per messaggi."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Generale
-    title: 1.  Domande Generali sull'eSIM Mali
+    title: Mali eSIM FAQ
     questions:
-    - q: Quali requisiti deve soddisfare il mio smartphone per utilizzare l'eSIM Mali?
-      a: Il tuo dispositivo deve essere compatibile con eSIM (iPhone XS/XR o successivi, Samsung Galaxy S20/Note20 o successivi,
-        Google Pixel 3a o successivi, e la maggior parte dei telefoni 5G più recenti di Huawei, Xiaomi, OnePlus). Verifica
-        nelle impostazioni se è disponibile l'opzione 'Aggiungi eSIM'.
-    - q: Durante l'utilizzo dell'eSIM Mali, posso continuare a ricevere chiamate sulla mia SIM domestica?
-      a: Sì, i dispositivi dual-SIM consentono l'uso simultaneo di entrambi i profili. Imposta semplicemente l'eSIM Roami
-        come predefinita per i dati mobili. Chiamate e SMS continuano sulla tua SIM domestica (il roaming può rimanere attivo).
-    - q: Quali reti 5G/4G utilizza l'eSIM per Mali e com'è la copertura?
-      a: L'eSIM Mali lavora esclusivamente con Orange Mali / Sotelma-Malitel. Riceverai automaticamente la migliore rete disponibile
-        (5G/4G/LTE) con la migliore copertura nelle città come Roma, Milano, Napoli e anche in campagna e lungo le autostrade.
-    - q: L'eSIM Mali supporta VoLTE e chiamate HD?
-      a: Sì, l'eSIM Mali supporta VoLTE e voce HD, se il tuo dispositivo lo consente. Goditi una qualità audio nitida sulla
-        rete 5G/4G di Orange Mali / Sotelma-Malitel.
-    - q: Quanto è sicura l'eSIM Mali rispetto a una SIM fisica?
-      a: Le eSIM sono più resistenti alle manomissioni, poiché sono integrate nel dispositivo e non possono essere rimosse
-        o copiate. I tuoi dati rimangono crittografati – nessun rischio di SIM persa o rubata.
-    - q: Posso mantenere il mio numero di telefono attuale mentre uso l'eSIM per Mali?
-      a: 'L''eSIM Roami è una eSIM solo dati. Puoi usare la tua SIM domestica in parallelo (ad es. per chiamate/SMS). La maggior
-        parte dei telefoni dual-SIM gestisce entrambi i profili: imposta semplicemente l''eSIM Roami come predefinita per
-        i dati mobili.'
-    - q: Posso usare l'eSIM per Mali come hotspot con altri dispositivi?
-      a: Sì, tutti i piani Roami eSIM per Mali consentono tethering illimitato (hotspot). Puoi condividere la tua connessione
-        dati con laptop, tablet o compagni di viaggio – senza costi nascosti o limitazioni di velocità.
-    - q: Roami offre piani dati illimitati per Mali? Esiste una politica di fair use?
-      a: Roami offre veri piani dati illimitati per Mali. Una politica di fair use si applica solo in caso di utilizzo estremo
-        (ad es. streaming 4K continuo per diversi giorni). La navigazione normale, i social media, le videochiamate e la navigazione
-        non sono interessati.
-    - q: Il mio smartphone supporta l'eSIM per Mali e come la installo?
-      a: Sì, la maggior parte degli smartphone moderni (iPhone XS/XR o successivi, Samsung Galaxy S20+/Note20+, Google Pixel
-        3a+) supportano l'eSIM. Installa l'eSIM Mali scansionando il codice QR nelle impostazioni cellulari. Le reti di Orange
-        Mali / Sotelma-Malitel offrono un'eccellente copertura 5G/4G in Mali.
-    - q: Esiste una garanzia di rimborso se l'eSIM Mali non funziona?
-      a: Sì, offriamo una garanzia di rimborso del 100% entro 7 giorni dall'attivazione, se i problemi tecnici non possono
-        essere risolti dal nostro supporto 24/7. Nessun rischio per te.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2.  eSIM Mali all'Aeroporto
-    questions:
-    - q: Come posso ottenere una rete affidabile subito dopo l'atterraggio?
-      a: Installa l'eSIM Mali prima del volo. Non appena atterri in aeroporti come Aeroporto Internazionale di Bamako-Sénou
-        (BKO), Aeroporto di Mopti (MZI), Aeroporto di Timbuktu (TOM), disattiva la modalità aereo e attiva la tua eSIM. Si
-        collegherà in pochi secondi alla rete 4G/5G locale.
-    - q: Come contatto la persona che viene a prendermi o uso Uber/Grab?
-      a: Dopo l'attivazione all'atterraggio, puoi utilizzare app come Yango, Uber (limitato), Heetch per prenotare una corsa
-        o WhatsApp per contattare il tuo autista, senza affidarti al Wi-Fi insicuro dell'aeroporto.
-    - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM Mali, puoi controllare in tempo reale gli orari di treni e autobus direttamente al ritiro bagagli
-        in Aeroporto Internazionale di Bamako-Sénou (BKO), Aeroporto di Mopti (MZI), Aeroporto di Timbuktu (TOM) o trovare
-        la strada per il parcheggio dei taxi.
-    - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM Mali online in anticipo, eviti completamente i costosi chioschi SIM nell'area arrivi,
-        risparmiando tempo e denaro.
-    - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM Mali è solo dati. Per ricevere SMS, lascia attiva la tua SIM domestica (la ricezione SMS in roaming
-        è spesso gratuita) e usa l'eSIM per tutto il traffico dati.
-    - q: Come contatto immediatamente la mia famiglia?
-      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi dati eSIM Mali per far sapere ai tuoi
-        cari che sei arrivato sano e salvo.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3.  eSIM Mali per il Trasporto
-    questions:
-    - q: Come uso Google Maps per pianificare il percorso?
-      a: La nostra stabile connessione eSIM Mali garantisce che Google Maps possa caricare i dati sul traffico in tempo reale
-        e gli orari ovunque in Mali.
-    - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: App come Yango, Uber (limitato), Heetch usano VoIP. Poiché hai dati eSIM Mali attivi, gli autisti possono chiamarti
-        o inviarti notifiche direttamente tramite l'app, senza bisogno di un numero locale.
-    - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM Mali per acquistare biglietti digitali con codice QR nelle app locali, evitando lunghe code
-        alle biglietterie automatiche.
-    - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM Mali. Un piano da 5GB o 10GB è sufficiente per un'ampia navigazione GPS durante
-        un viaggio su strada in Mali.
-    - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
-      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra eSIM Mali offre la copertura affidabile
-        necessaria.
-    - q: Le app di ride-hailing funzionano oltre confine?
-      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione Internet attiva tramite la nostra eSIM
-        locale o regionale.
-    - q: Come offro un hotspot stabile per la mia famiglia?
-      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può connettersi alla tua rete eSIM Mali sul
-        treno o in auto.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotel
-    title: 4.  eSIM Mali per gli Hotel
-    questions:
-    - q: Come faccio il self-check-in dopo la prenotazione?
-      a: Molte strutture moderne inviano codici per serrature intelligenti via email. La tua eSIM Mali ti garantisce di poter
-        recuperare questi dettagli direttamente davanti alla porta.
-    - q: Come contatto il mio host Airbnb al mio arrivo?
-      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare l'orario di arrivo con il tuo host tramite
-        i dati mobili eSIM Mali.
-    - q: Come uso Google Maps per navigare verso l'hotel?
-      a: Che tu alloggi in Hotel Laico Amitié (Bamako), Salam Hotel (Bamako), Hotel Mandé (Bamako), inserisci l'indirizzo
-        in Google Maps e usa la navigazione della tua eSIM Mali.
-    - q: Come ricevo i codici di verifica SMS?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM Mali per ricevere codici via email o app di
-        autenticazione.
-    - q: Come contatto rapidamente l'assistenza clienti?
-      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i tuoi dati ad alta velocità eSIM Mali.
-    - q: Come ordino cibo con app di consegna locali?
-      a: Scarica Jumia Food, Glovo Africa, Yumyum e usa i tuoi dati eSIM Mali per ordinare un pasto caldo direttamente nella
-        hall dell'hotel.
-    - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM Mali subentra, permettendoti di scrivere all'hotel se hai dimenticato
-        qualcosa.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Attrazioni e Intrattenimento
-    questions:
-    - q: Come acquisto biglietti elettronici su GetYourGuide/Viator?
-      a: Se vuoi visitare Grande Moschea di Djenné, Timbuktu (città storica), Parco Nazionale di Boucle du Baoulé all'ultimo
-        minuto, puoi usare i tuoi dati eSIM Mali per acquistare biglietti online e mostrare il codice a barre direttamente.
-    - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM Mali, puoi leggere recensioni e prenotare tour locali mentre sei seduto in
-        un bar.
-    - q: Come uso Wikipedia/Google per informazioni durante la visita?
-      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google o traducendo i cartelli dei musei mentre
-        esplori Mali.
-    - q: Come trovo la strada per l'attrazione successiva?
-      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura della tua eSIM Mali ti guiderà lungo il
-        percorso più veloce.
-    - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
-      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa in tempo reale. La tua eSIM Mali ti
-        mantiene online in tutto il parco.
-    - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
-      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite app di ticketing con i tuoi dati eSIM Mali.
-    - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM Mali ti permettono di pubblicare Reel e foto in tempo reale, senza aspettare
-        il Wi-Fi dell'hotel.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 6.  eSIM Mali per i Social Media
-    questions:
-    - q: Quanti dati mi servono per un viaggio in Mali?
-      a: Utenti leggeri (mappe + messaggi) ~300MB/giorno, moderati (social + foto) ~700MB/giorno, intensivi (streaming + videochiamate)
-        scegli Illimitato. La maggior parte trova 5GB/15 giorni sufficienti per un viaggio standard in Mali.
-    - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM Mali 4G/5G offre la larghezza di banda per caricamenti
-        rapidi.
-    - q: Come faccio videochiamate con la mia famiglia?
-      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM Mali siano chiare e senza ritardi, ovunque
-        ti trovi nel paese.
-    - q: È sicuro accedere ai social network su Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM Mali personali è crittografato e molto più
-        sicuro.
-    - q: Come condivido la rete come hotspot con i compagni di viaggio?
-      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare il tuo volume dati eSIM Mali per i loro
-        social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Transfrontaliero
-    title: 7.  eSIM Mali per Viaggi Transfrontalieri
-    questions:
-    - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per Mali funziona solo lì. Per viaggiare attraverso più paesi, consigliamo la nostra eSIM Regionale
-        (ad es. eSIM Europa).
-    - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
-      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM Mali sia impostata come linea dati primaria.
-    - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
-      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere online durante lo scalo.
-    - q: Come ottengo Internet sulle navi da crociera?
-      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per i paesi che visiterai. Si collegherà non
-        appena sarai vicino alla terraferma.
-    - q: Come rimane online Google Maps durante i viaggi su strada?
-      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del nuovo paese quando superi il confine,
-        mantenendo attivo il GPS.
-    - q: Come gestisco i dati per più paesi in una sola app?
-      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente tramite il nostro dashboard utente sul sito
-        Web.
-    - q: Come posso essere reperibile durante i viaggi attraverso più paesi?
-      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce di essere sempre raggiungibile allo
-        stesso numero.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 8.  eSIM Mali per le Emergenze
-    questions:
-    - q: Come si compongono i numeri di emergenza locali?
-      a: 'In Mali puoi comporre direttamente numeri di emergenza come Polizia: 17, Ambulanza: 15, Vigili del fuoco: 18, purché
-        il telefono riceva un segnale cellulare.'
-    - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM Mali consentono una ricerca immediata su Google Maps di 'farmacia' o 'ospedale' con il percorso
-        più veloce.
-    - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM Mali per trovare rapidamente l'indirizzo e il contatto di emergenza della tua ambasciata.
-    - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM Mali per chiamare le linee di assistenza della tua assicurazione.
-    - q: Come condivido la mia posizione in tempo reale?
-      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare le tue coordinate tramite i dati eSIM
-        Mali.
-    - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM Mali per caricare mappe offline in Google Maps prima di recarti in aree
-        senza segnale.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  eSIM Mali per Viaggi d'Affari
-    questions:
-    - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM Mali si connette a reti premium offrendo larghezza di banda e bassa latenza per videoconferenze professionali.
-    - q: Come mi connetto in modo sicuro alla VPN aziendale?
-      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale in modo sicuro sulla rete eSIM Mali.
-    - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM Mali è molto più veloce e sicuro contro le minacce informatiche rispetto
-        alle reti Wi-Fi aperte.
-    - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM Mali per i codici basati su email.
-    - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM Mali puoi caricare rapidamente presentazioni sui servizi cloud.
-    - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM Mali offre una connessione costante, così ricevi immediatamente messaggi Slack ed email.
-    - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM Mali in movimento per informare le risorse umane sui ritardi dei voli.
+    - q: |
+        La eSIM funziona anche in zone rurali e fuori città in Mali?
+      a: |
+        La copertura raggiunge circa il 95% delle città e zone turistiche, 60-70% nelle aree remote. Velocità: 200-300 Mbps in città con 5G, 10-30 Mbps in campagna con 4G, 3-5 Mbps in zone remote (sufficienti per messaggi e mappe). Roami si connette automaticamente al segnale più forte. Scarica le mappe offline prima di partire.
+    - q: |
+        Meglio installare la eSIM a casa o direttamente in aeroporto?
+      a: |
+        Sì — installa la eSIM 1-2 giorni prima della partenza con WiFi di casa. All'arrivo in Mali attiva il roaming dati e sei online in 60 secondi. Niente code in aeroporto per comprare una SIM. Se il viaggio è last minute, puoi acquistare fino a 5 minuti prima del volo.
+    - q: |
+        Conviene comprare una SIM in aeroporto all'arrivo in Mali?
+      a: |
+        No, le SIM in aeroporto costano il 30-50% in più e devi fare la coda con il passaporto. Roami eSIM si compra online in 2 minuti, il QR code arriva via email, non devi cambiare la tua SIM. Risparmi tempo e denaro.
+    - q: |
+        Quanti dispositivi posso collegare alla eSIM in hotspot in Mali?
+      a: |
+        Sì, tutti i piani Roami supportano la modalità hotspot. Attiva la condivisione nelle impostazioni del telefono. Per lavorare con il computer (videoconferenze, file) consigliamo il piano 10GB ($14.99) o illimitato ($59.99). La condivisione funziona senza costi aggiuntivi.
+    - q: |
+        Che qualità hanno le videochiamate con la eSIM in Mali?
+      a: |
+        Sì, le videochiamate funzionano bene. Una chiamata Zoom di 30 minuti consuma circa 150-300MB. Con 5G (100-300 Mbps) la qualità arriva al 4K, con 4G (10-30 Mbps) le chiamate sono comunque nitide. Per lavoro da remoto consiglio il piano 10GB ($14.99) o illimitato ($59.99).
+    - q: |
+        Quale quantità di dati scegliere per il mio viaggio per il Mali?
+      a: |
+        5GB ($9.99) bastano per navigazione, social e messaggistica per una settimana. 10GB ($14.99) per uso più attivo con video. Il piano illimitato ($59.99) è ideale per streaming, videochiamate e hotspot. La maggior parte dei turisti sceglie 5GB. Puoi sempre aumentare il piano dall'app.
+    - q: |
+        Quanto tempo prima devo comprare la eSIM per partire per il Mali?
+      a: |
+        Sì, bastano 2-3 minuti: acquisto sul sito Roami (30 sec), QR code via email (fino a 5 min), installazione (2 min). In aereo connettiti al WiFi, installa la eSIM e all'atterraggio disattiva la modalità aereo — sei subito online. Nessuna coda in aeroporto per comprare una SIM locale.
+    - q: |
+        Si può lavorare da remoto con la eSIM in Mali?
+      a: |
+        Sì, la eSIM è perfetta per il lavoro da remoto. Con 5G le velocità raggiungono 100-300 Mbps, sufficienti per videoconferenze Zoom/Teams e invio di file pesanti. Con 4G (10-30 Mbps) puoi lavorare con email e documenti. Per lavoro consigliamo 10GB ($14.99) a settimana o illimitato ($59.99). La eSIM supporta anche la condivisione internet verso il computer.
 related_products:
   title: Piani eSIM simili
   items:

@@ -344,214 +344,47 @@ activation_steps:
     title: 'Passaggio 3: Attiva negli UAE'
     desc: Dopo il tuo arrivo negli UAE, attiva la tua UAE eSIM nelle impostazioni per utilizzare i dati.
     is_list: false
-faq_section1:
-  title: 'Guida eSIM UAE 2026: Rete & Guida di Viaggio'
-  desc: Da Dubai a Abu Dhabi, rimani connesso con Etisalat, du, Virgin Mobile UAE. La nostra guida completa eSIM UAE copre
-    copertura, piani, installazione e consigli di viaggio.
+faq_section:
+  title: "Guida alla connessione in UAE: cosa sapere sulla eSIM"
+  desc: "In viaggio in UAE, la eSIM Roami si appoggia alla rete Etisalat con copertura 4G/5G. Nelle città la navigazione è scattante, in campagna la connessione regge per messaggi e mappe."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Generale
-    title: 1.  Domande Generali sull'eSIM UAE
+    title: UAE eSIM FAQ
     questions:
-    - q: Cosa succede se finisco il volume dati negli UAE?
-      a: Quando hai esaurito il volume dati, la connessione verrà interrotta per evitare costi imprevisti. Puoi facilmente
-        acquistare una tariffa aggiuntiva sul nostro sito web per rimanere connesso.
-    - q: Posso lasciare la mia scheda SIM fisica domestica nel telefono?
-      a: Sì! Puoi lasciare la tua SIM fisica attiva per ricevere SMS e chiamate da casa, mentre imposti il nostro pacchetto
-        dati mobili come fonte primaria per i dati cellulari.
-    - q: Offrite un rimborso se la UAE eSIM non funziona?
-      a: Sì, abbiamo una garanzia di rimborso del 100%. Se riscontri problemi tecnici negli UAE che il nostro team di supporto
-        24/7 non può risolvere, ti rimborseremo l'intero importo.
-    - q: Etisalat o du è meglio per UAE?
-      a: Sia Etisalat che du offrono un'eccellente copertura in UAE. Etisalat ha generalmente una migliore copertura rurale,
-        mentre du offre velocità 5G competitive in città. Per la maggior parte dei viaggiatori che visitano Dubai e Abu Dhabi,
-        entrambe le reti funzionano bene.
-    - q: Il mio telefono è compatibile con questa SIM digitale per gli Emirati?
-      a: La maggior parte degli smartphone moderni (iPhone XS e successivi, Samsung Galaxy S20+, Pixel 3+) è completamente
-        compatibile. Puoi installare il profilo per gli Emirati semplicemente scannerizzando il codice QR che ti invieremo.
-    - q: Posso trasferire la tariffa dati per gli Emirati su un altro telefono?
-      a: Per motivi di sicurezza, un codice QR eSIM può essere scansionato e installato normalmente una sola volta. Se cambi
-        telefono, dovrai contattare il nostro supporto per un sostituto.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2.  eSIM UAE all'Aeroporto
-    questions:
-    - q: Posso attivare la mia eSIM UAE subito dopo l'atterraggio?
-      a: Sì, puoi attivare la tua eSIM UAE appena atterrato. Usa il WiFi gratuito dell'aeroporto, scansiona il codice QR dalla
-        tua email e sarai connesso in meno di 2 minuti. Consigliamo di installare l'eSIM prima della partenza.
-    - q: Come posso contattare il mio autista all'aeroporto Internazionale di Dubai (DXB), all'Aeroporto Internazionale di
-        Abu Dhabi (AUH), all'Aeroporto Internazionale di Sharjah (SHJ) senza un numero locale?
-      a: Poiché la nostra tariffa dati prepagata per gli Emirati fornisce dati ad alta velocità immediatamente, puoi usare
-        WhatsApp, iMessage o app VoIP per chiamare o scrivere al tuo autista appena uscito dall'aereo.
-    - q: Posso acquistare questa UAE eSIM al chiosco dell'aeroporto?
-      a: Le nostre tariffe sono 100% digitali. Puoi acquistarle online ora e riceverle immediatamente via email, evitando
-        di fare la fila ai chioschi di SIM fisiche dopo un lungo volo.
-    - q: Posso attivare la mia SIM virtuale per gli Emirati mentre aspetto i bagagli?
-      a: Certamente. Finché il profilo è installato, accendendo la linea ti connetterai immediatamente, senza bisogno del
-        Wi-Fi lento e sovraccarico dell'aeroporto.
-    - q: Posso usare Careem, Uber, Dubai Metro fuori dall'aeroporto?
-      a: Sì, con i tuoi dati attivi per gli Emirati, puoi aprire immediatamente Careem, Uber, Dubai Metro per prenotare una
-        corsa verso il tuo hotel, senza dover acquistare una costosa SIM turistica nella sala arrivi.
-    - q: E se ho uno scalo negli Emirati? Posso usare questa tariffa?
-      a: Sì, le nostre tariffe dati a breve termine sono perfette per gli scali. Puoi rimanere connesso mentre aspetti il
-        tuo volo di coincidenza, controllare le email o guardare video in streaming.
-    - q: Avrò accesso a Internet subito dopo l'atterraggio all'Aeroporto Internazionale di Dubai (DXB), all'Aeroporto Internazionale
-        di Abu Dhabi (AUH), all'Aeroporto Internazionale di Sharjah (SHJ)?
-      a: Sì! Se hai installato il profilo prima del volo, disattiva semplicemente la modalità aereo dopo l'atterraggio all'Aeroporto
-        Internazionale di Dubai (DXB), all'Aeroporto Internazionale di Abu Dhabi (AUH), all'Aeroporto Internazionale di Sharjah
-        (SHJ). Si connetterà automaticamente alla rete 4G/5G locale entro pochi secondi.
-    - q: È sicuro usare il Wi-Fi dell'aeroporto invece di questa eSIM turistica?
-      a: Il Wi-Fi pubblico all'Aeroporto Internazionale di Dubai (DXB), all'Aeroporto Internazionale di Abu Dhabi (AUH), all'Aeroporto
-        Internazionale di Sharjah (SHJ) è spesso non sicuro e vulnerabile agli hacker. Usare la tua tariffa dati mobile privata
-        è molto più sicuro per accedere alle app bancarie o alle email personali.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3.  eSIM UAE per il Trasporto
-    questions:
-    - q: Posso acquistare biglietti digitali per treni o metropolitana sul mio telefono?
-      a: Sì, puoi usare i tuoi veloci dati mobili per accedere alle app di trasporto locale e acquistare biglietti con codice
-        QR in movimento, evitando lunghe code alle stazioni.
-    - q: Posso usare l'eSIM UAE per ride-hailing e navigazione?
-      a: Sì, l'eSIM UAE funziona con app di ride-hailing e Google Maps. Un piano 5GB/15 giorni ($4.99) è sufficiente per la
-        navigazione quotidiana e le prenotazioni di corse.
-    - q: Posso usare Waze per cercare autovelox?
-      a: Sì, Waze ha bisogno di dati in tempo reale per segnalare pericoli e autovelox. La tua tariffa dati per gli Emirati
-        mantiene l'app completamente aggiornata durante la guida.
-    - q: Posso vedere gli orari in tempo reale degli autobus?
-      a: Certamente. Puoi usare le app di trasporto locale o Google Maps per tracciare arrivi e partenze in tempo reale degli
-        autobus, senza dipendere dal Wi-Fi della stazione.
-    - q: Perdo il segnale se prendo un treno ad alta velocità negli Emirati?
-      a: Sebbene possano verificarsi piccole interruzioni nei tunnel, i nostri partner di rete premium garantiscono la connessione
-        più stabile durante i viaggi in treno tra le città.
-    - q: Posso usare questa tariffa per noleggiare monopattini o biciclette elettriche negli Emirati?
-      a: Sì, la scansione dei codici QR per noleggiare e-scooter o bici a noleggio locali richiede una connessione Internet
-        veloce, che la tua tariffa dati attiva gestisce perfettamente.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Alloggi
-    title: 4. Sistemazione
-    questions:
-    - q: Posso usare questa SIM digitale per gli Emirati per il check-in autonomo nel mio Airbnb o hotel?
-      a: Sì. Molte strutture moderne in affitto e hotel come Burj Al Arab Jumeirah, Emirates Palace, Atlantis The Palm richiedono
-        di accedere a un codice per serratura intelligente via email o tramite app. La tua tariffa dati garantisce che tu
-        possa recuperare queste informazioni direttamente davanti alla porta.
-    - q: Cosa succede se il Wi-Fi al Burj Al Arab Jumeirah, Emirates Palace, Atlantis The Palm è lento o a pagamento?
-      a: Puoi semplicemente disattivare il Wi-Fi e affidarti alla tua UAE eSIM. Le nostre velocità 4G/5G sono spesso più veloci
-        e sicure delle reti alberghiere pubbliche.
-    - q: Come posso ordinare cibo in camera a tarda notte con Talabat, Deliveroo, Zomato?
-      a: Basta scaricare Talabat, Deliveroo, Zomato, registrarsi con il proprio indirizzo email e utilizzare i propri affidabili
-        dati mobili per ordinare pasti direttamente nella hall dell'hotel.
-    - q: I dati sono abbastanza veloci per guardare Netflix in camera d'hotel?
-      a: Assolutamente. Se acquisti una tariffa con volume dati sufficiente, la nostra connessione ad alta velocità supporta
-        senza problemi lo streaming video HD su piattaforme come Netflix o YouTube.
-    - q: Posso ricevere codici SMS bancari mentre uso il Wi-Fi dell'hotel e questa eSIM?
-      a: Sì! Lascia attiva la tua SIM domestica primaria per ricevere SMS (questo è solitamente gratuito in roaming) e usa
-        la UAE eSIM per tutte le tue esigenze dati.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Visite e tour
-    questions:
-    - q: C'è copertura dati nelle attrazioni turistiche in UAE?
-      a: Le principali attrazioni hanno generalmente una buona copertura 4G/5G in UAE. Nelle zone remote, il segnale potrebbe
-        essere debole. Scarica mappe offline prima di visitare destinazioni isolate.
-    - q: La velocità di upload è abbastanza buona per pubblicare video dagli Emirati?
-      a: Sì, le nostre connessioni 4G/5G offrono eccellenti velocità di upload, permettendoti di pubblicare in tempo reale
-        storie Instagram o TikTok di alta qualità durante le tue visite.
-    - q: Come posso trovare i miei amici se ci perdiamo in un luogo turistico affollato?
-      a: Con la tua connessione dati attiva, puoi condividere immediatamente la tua posizione in tempo reale tramite WhatsApp
-        o Apple Maps per riunirti al tuo gruppo.
-    - q: Questa SIM virtuale per gli Emirati funziona per scaricare guide audio?
-      a: Assolutamente. Molti musei offrono oggi guide audio basate su app. Puoi scaricare facilmente questi file di grandi
-        dimensioni sul posto con i tuoi veloci dati mobili.
-    - q: Avrò segnale quando visiterò il Burj Khalifa, la Grande Moschea Sheikh Zayed, il Dubai Mall?
-      a: Sì, la nostra eSIM si connette a reti di prim'ordine come Etisalat, du, Virgin Mobile UAE, garantendo una copertura
-        forte anche negli hotspot turistici affollati come Burj Khalifa, Sheikh Zayed Grand Mosque, The Dubai Mall.
-    - q: Posso trasmettere in live streaming la mia visita alla mia famiglia a casa?
-      a: Sì, la nostra stabile rete 5G/4G consente live streaming fluidi e senza interruzioni su piattaforme come YouTube,
-        Instagram o Facebook.
-    - q: Posso acquistare biglietti online senza fare la fila mentre sono davanti al Burj Khalifa, alla Grande Moschea Sheikh
-        Zayed o al Dubai Mall?
-      a: Certamente. Con la tua veloce SIM virtuale per gli Emirati, puoi acquistare biglietti digitali spontaneamente su
-        GetYourGuide o Viator e far scannerizzare il codice a barre dal tuo schermo.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Ristorazione
-    title: 6. Cibo e bevande
-    questions:
-    - q: Posso ordinare un caffè in anticipo tramite un'app di caffetteria locale?
-      a: Sì, puoi usare i tuoi dati mobili per ordinare e pagare in anticipo, saltando la fila al tuo arrivo al bar.
-    - q: Posso pagare nei bar locali con contanti, carta di credito/debito, Apple Pay/Google Pay?
-      a: Sì, i pagamenti contactless tramite Apple Pay, Google Pay o contanti, carta di credito/debito, Apple Pay/Google Pay
-        richiedono una breve stretta di mano internet che la tua tariffa dati attiva elabora immediatamente.
-    - q: Posso verificare se un ristorante soddisfa restrizioni dietetiche?
-      a: Con accesso immediato a Internet, puoi rapidamente consultare il sito web di un ristorante o scrivergli sui social
-        media per confermare le opzioni del menu.
-    - q: Posso prenotare un tavolo per cena online mentre sono in giro?
-      a: Assolutamente. Puoi facilmente prenotare un tavolo tramite OpenTable o siti di prenotazione locali con i tuoi dati
-        mobili.
-    - q: È sicuro dare la mancia tramite un link di pagamento digitale sul mio telefono?
-      a: Sì, elaborare i pagamenti tramite i tuoi dati mobili privati è altamente sicuro rispetto al Wi-Fi pubblico del ristorante.
-    - q: Ho bisogno di dati per scansionare i menu digitali QR nei ristoranti?
-      a: Sì, molti ristoranti negli Emirati ora usano codici QR invece di menu stampati. La tua eSIM assicura di poter caricare
-        questi menu digitali senza dover chiedere la password del Wi-Fi.
-    - q: Come trovo buoni ristoranti locali vicino a me negli UAE?
-      a: Usa la tua eSIM turistica per cercare su Google Maps o Tripadvisor mentre sei in movimento. Puoi controllare recensioni,
-        orari di apertura e menu prima di entrare.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social media
-    title: 7.  eSIM UAE per i Social Media
-    questions:
-    - q: Quanti dati mi servono per un viaggio in UAE?
-      a: Utenti leggeri (mappe + messaggi) ~300MB/giorno, moderati (social + foto) ~700MB/giorno, intensivi (streaming + videochiamate)
-        scegli Illimitato. La maggior parte trova 5GB/15 giorni sufficienti per un viaggio standard in UAE.
-    - q: Usare TikTok o Instagram consuma rapidamente il mio volume dati?
-      a: Le app video consumano dati rapidamente. Se intendi usarle intensamente, ti consigliamo di acquistare un pacchetto
-        dati più grande o una eSIM turistica illimitata.
-    - q: Il mio operatore domestico mi addebiterà la ricezione di messaggi WhatsApp?
-      a: No, WhatsApp utilizza dati Internet, non SMS tradizionali. Finché usi il nostro pacchetto dati mobili per i dati,
-        il tuo operatore domestico non ti addebiterà i messaggi delle app.
-    - q: Come posso controllare le mie email mentre sono in movimento?
-      a: L'app email del tuo telefono si sincronizzerà automaticamente in background, purché la tua UAE eSIM sia attiva e
-        abbia ancora volume dati.
-    - q: Posso usare una VPN con questa tariffa dati per gli Emirati?
-      a: Assolutamente. La nostra rete non limita l'uso della VPN, così puoi mantenere la sicurezza aziendale o accedere a
-        contenuti con geoblocco di casa tua.
-    - q: Posso effettuare videochiamate FaceTime o WhatsApp verso casa?
-      a: Sì, le nostre partnership con reti a bassa latenza garantiscono che le tue videochiamate siano chiare e senza ritardi,
-        ovunque tu sia negli Emirati.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 8.  eSIM UAE per le Emergenze
-    questions:
-    - q: Posso usare WhatsApp, FaceTime e WeChat con l'eSIM UAE?
-      a: Sì! L'eSIM UAE supporta chiamate audio/video WhatsApp, FaceTime, WeChat e Zoom senza restrizioni. Resta in contatto
-        con la famiglia tramite le tue app preferite.
-    - q: Come posso chiamare il 999 (Polizia), 998 (Ambulanza), 997 (Vigili del fuoco) se ho solo una eSIM dati?
-      a: I numeri di emergenza come 999 (Polizia), 998 (Ambulanza), 997 (Vigili del fuoco) possono essere composti direttamente
-        dal tastierino del tuo telefono, indipendentemente dalla SIM attiva, purché il tuo telefono riceva un segnale cellulare.
-    - q: Cosa devo fare se perdo il mio telefono negli UAE?
-      a: Se perdi il tuo dispositivo, puoi accedere al tuo account da un altro dispositivo per sospendere la tua UAE eSIM
-        e contattare il nostro team di supporto per ottenere un codice QR sostitutivo.
-    - q: Posso contattare l'ambasciata del mio paese con questa tariffa dati?
-      a: Sì, puoi cercare online i contatti dell'ambasciata e utilizzare Skype o email per ricevere assistenza consolare.
-    - q: Come posso condividere la mia posizione in tempo reale se mi sento insicuro negli Emirati?
-      a: Puoi utilizzare la funzione "Condividi posizione in tempo reale" su WhatsApp o la funzione "Dov'è?" di Apple per
-        inviare continuamente le tue coordinate GPS ad amici fidati usando i tuoi dati mobili.
-    - q: Posso contattare la mia assicurazione di viaggio con questa tariffa?
-      a: Poiché questa è una eSIM solo dati, puoi utilizzare app VoIP come Skype, Viber o la chiamata Wi-Fi per chiamare i
-        numeri verdi internazionali della tua assicurazione.
-    - q: Posso usare questa eSIM turistica per trovare rapidamente una farmacia o un ospedale?
-      a: Sì, in caso di emergenza, la tua affidabile connessione dati ti consente di cercare immediatamente su Google Maps
-        le strutture mediche più vicine e ottenere il percorso più veloce.
-    - q: È possibile tradurre i sintomi medici con un medico locale?
-      a: Sì, puoi utilizzare la modalità conversazione di Google Translate tramite i tuoi dati mobili per comunicare chiaramente
-        i tuoi sintomi al personale medico.
+    - q: |
+        Come controllare il traffico residuo sulla eSIM in UAE?
+      a: |
+        Due modi: dalle impostazioni del telefono (Impostazioni > Cellulare > Utilizzo dati) o dall'app Roami. Roami invia notifiche al 70% e 90% di utilizzo. Se il traffico sta per finire, puoi ricaricare immediatamente dall'app senza bisogno di un nuovo QR code.
+    - q: |
+        Qual è la differenza tra eSIM e router WiFi portatile per l'UAE?
+      a: |
+        Pocket WiFi: da portare sempre con sé, ricaricare ogni sera, restituire in aeroporto. Costa $5-10/giorno più deposito $50-100. eSIM Roami: installazione in 2 minuti, da $1.99/giorno, niente da restituire. Puoi condividere internet con altri dispositivi. La eSIM vince per comodità e prezzo.
+    - q: |
+        Come capire se la eSIM si è connessa alla rete in UAE?
+      a: |
+        Il test più rapido: apri un sito web o fai uno speed test. Se la pagina si carica in 2-3 secondi, la eSIM funziona. Il nome dell'operatore dovrebbe apparire in alto sullo schermo. Non vedi il nome dell'operatore? Vai in Impostazioni > Operatore e disattiva la selezione automatica.
+    - q: |
+        Si può ricaricare la eSIM da remoto durante il viaggio in UAE?
+      a: |
+        Sì, dall'app Roami, in tempo reale. Senza nuovo QR code e senza reinstallare. Consigliamo di ricaricare quando il saldo è al 20%. Roami invia notifiche al 70% e 90% di utilizzo. Pacchetti aggiuntivi disponibili: 1GB ($1.99), 3GB ($4.99), 5GB ($9.99).
+    - q: |
+        Le videochiamate con Zoom e WhatsApp funzionano bene con eSIM in UAE?
+      a: |
+        Le videochiamate via eSIM sono stabili: WhatsApp Video consuma 5-8MB/min, Zoom 8-12MB/min in HD. L'audio è sempre chiaro, il video può leggermente comprimersi su 4G. Per conferenze importanti meglio avere un piano da 10GB+. Funziona anche la condivisione internet verso il computer.
+    - q: |
+        I social network funzionano con la eSIM in UAE?
+      a: |
+        Tutte le app funzionano: il feed Instagram si carica in 1-2 secondi, i video TikTok senza buffering, i messaggi Telegram sono istantanei. Al giorno sui social si consumano 200-400MB con uso attivo. 5GB ($9.99) bastano per 12-20 giorni di navigazione moderata.
+    - q: |
+        La eSIM supporta lo streaming video in buona qualità in UAE?
+      a: |
+        Sì, lo streaming funziona senza limiti. Netflix in HD consuma circa 1GB/ora, YouTube 500-800MB/ora. Con 5GB puoi guardare 5-6 ore di video HD. Per uso intensivo meglio il piano illimitato. Con 5G la qualità arriva al 4K, con 4G lo streaming in 1080p è fluido.
+    - q: |
+        Perché acquistare la eSIM prima di partire se posso comprarla all'arrivo?
+      a: |
+        Acquistare in anticipo dà tre vantaggi: 1) Installazione con WiFi di casa — senza rischi di non avere connessione all'arrivo. 2) Il piano non si attiva fino all'atterraggio — la validità inizia al primo aggancio alla rete locale. 3) Niente code di 20-40 minuti in aeroporto. Comprato, installato in 2 minuti e dimenticato fino alla partenza.
 related_products:
   title: Tariffe eSIM simili
   items:

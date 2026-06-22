@@ -367,235 +367,47 @@ activation_steps:
       navigare, usare WhatsApp, controllare i social media o configurare un hotspot per altri dispositivi – senza attesa,
       senza documenti, senza contratto.
     is_list: false
-faq_section1:
-  title: 'Guida eSIM Pakistan 2026: Guida Viaggio & Dati'
-  desc: Da Karachi a Lahore, rimani connesso con Jazz, Zong, Telenor. La nostra guida completa eSIM Pakistan copre copertura,
-    piani, installazione e consigli di viaggio.
+faq_section:
+  title: "La rete 4G/5G in Pakistan è affidabile con eSIM?"
+  desc: "Pakistan è una destinazione incredibile. Con la eSIM Roami su Jazz non perdi mai la connessione: 5G in città, 4G nelle aree turistiche. Ideale per foto, videochiamate e social."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Generale
-    title: 1.  Domande Generali sull'eSIM Pakistan
+    title: Pakistan eSIM FAQ
     questions:
-    - q: Quanto costa l'eSIM per Pakistan e ci sono offerte sconto?
-      a: Il nostro piano eSIM Pakistan parte da soli $1,99/GB. Con il codice promozionale 'web20' ottieni il 20% di sconto
-        su ogni ordine – valido per tutti i piani. Nessuna tassa nascosta, nessun vincolo di durata minima.
-    - q: Posso trasferire l'eSIM Pakistan su un altro dispositivo dopo l'installazione?
-      a: Un'eSIM una volta installata non può essere trasferita su un altro dispositivo. Installa l'eSIM sul dispositivo che
-        utilizzerai durante il viaggio. Per dispositivi aggiuntivi puoi acquistare altre eSIM.
-    - q: Durante l'utilizzo dell'eSIM Pakistan, posso continuare a ricevere chiamate sulla mia SIM domestica?
-      a: Sì, i dispositivi dual-SIM consentono l'uso simultaneo di entrambi i profili. Imposta semplicemente l'eSIM Roami
-        come predefinita per i dati mobili. Chiamate e SMS continuano sulla tua SIM domestica (il roaming può rimanere attivo).
-    - q: Quanto è sicura l'eSIM Pakistan rispetto a una SIM fisica?
-      a: Le eSIM sono più resistenti alle manomissioni, poiché sono integrate nel dispositivo e non possono essere rimosse
-        o copiate. I tuoi dati rimangono crittografati – nessun rischio di SIM persa o rubata.
-    - q: Posso installare l'eSIM Pakistan prima della partenza e attivarla successivamente?
-      a: Sì, puoi installare l'eSIM già a casa (tramite Wi-Fi). L'attivazione avviene automaticamente quando il tuo telefono
-        si connette per la prima volta alla rete di Jazz / Zong in Pakistan. Così eviti qualsiasi stress all'atterraggio.
-    - q: Posso installare l'eSIM per Pakistan anche senza codice QR?
-      a: Sì, oltre al codice QR, puoi installare l'eSIM manualmente inserendo l'indirizzo SM-DP+ e il codice di attivazione
-        (entrambi si trovano nella tua conferma d'ordine). Il codice QR è comunque il metodo più rapido e semplice.
-    - q: Quali reti 5G/4G utilizza l'eSIM per Pakistan e com'è la copertura?
-      a: L'eSIM Pakistan lavora esclusivamente con Jazz / Zong. Riceverai automaticamente la migliore rete disponibile (5G/4G/LTE)
-        con la migliore copertura nelle città come Roma, Milano, Napoli e anche in campagna e lungo le autostrade.
-    - q: Quali sono i vantaggi dell'eSIM Roami rispetto alle SIM locali prepagate in Pakistan?
-      a: A differenza delle SIM locali prepagate, eviti di andare in negozio, la registrazione dell'identità (KYC) e la ricerca
-        di una ricarica adatta. Con Roami attivi l'eSIM digitalmente in meno di 2 minuti – nessuna coda in aeroporto.
-    - q: Roami offre anche eSIM regionali per viaggiare al di fuori di Pakistan?
-      a: Sì, oltre all'eSIM Pakistan, offriamo eSIM regionali per Europa, Asia, Nord America e globali. Ideali per gite di
-        più giorni o tour attraverso più paesi – senza cambiare SIM.
-    - q: Roami offre piani dati illimitati per Pakistan? Esiste una politica di fair use?
-      a: Roami offre veri piani dati illimitati per Pakistan. Una politica di fair use si applica solo in caso di utilizzo
-        estremo (ad es. streaming 4K continuo per diversi giorni). La navigazione normale, i social media, le videochiamate
-        e la navigazione non sono interessati.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2.  eSIM Pakistan all'Aeroporto
-    questions:
-    - q: Posso attivare la mia eSIM Pakistan subito dopo l'atterraggio?
-      a: Sì, puoi attivare la tua eSIM Pakistan appena atterrato. Usa il WiFi gratuito dell'aeroporto, scansiona il codice
-        QR dalla tua email e sarai connesso in meno di 2 minuti. Consigliamo di installare l'eSIM prima della partenza.
-    - q: Come contatto la persona che viene a prendermi o uso Uber/Grab?
-      a: Dopo l'attivazione all'atterraggio, puoi utilizzare app come Careem, Uber, Bykea per prenotare una corsa o WhatsApp
-        per contattare il tuo autista, senza affidarti al Wi-Fi insicuro dell'aeroporto.
-    - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM Pakistan, puoi controllare in tempo reale gli orari di treni e autobus direttamente al ritiro
-        bagagli in Aeroporto Internazionale Jinnah (Karachi), Aeroporto Internazionale Allama Iqbal (Lahore), Aeroporto Internazionale
-        di Islamabad o trovare la strada per il parcheggio dei taxi.
-    - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM Pakistan online in anticipo, eviti completamente i costosi chioschi SIM nell'area arrivi,
-        risparmiando tempo e denaro.
-    - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM Pakistan è solo dati. Per ricevere SMS, lascia attiva la tua SIM domestica (la ricezione SMS in roaming
-        è spesso gratuita) e usa l'eSIM per tutto il traffico dati.
-    - q: Come contatto immediatamente la mia famiglia?
-      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi dati eSIM Pakistan per far sapere ai tuoi
-        cari che sei arrivato sano e salvo.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3.  eSIM Pakistan per il Trasporto
-    questions:
-    - q: Posso usare l'eSIM Pakistan per ride-hailing e navigazione?
-      a: Sì, l'eSIM Pakistan funziona con app di ride-hailing e Google Maps. Un piano 5GB/15 giorni ($4.99) è sufficiente
-        per la navigazione quotidiana e le prenotazioni di corse.
-    - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: App come Careem, Uber, Bykea usano VoIP. Poiché hai dati eSIM Pakistan attivi, gli autisti possono chiamarti o inviarti
-        notifiche direttamente tramite l'app, senza bisogno di un numero locale.
-    - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM Pakistan per acquistare biglietti digitali con codice QR nelle app locali, evitando lunghe code
-        alle biglietterie automatiche.
-    - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM Pakistan. Un piano da 5GB o 10GB è sufficiente per un'ampia navigazione GPS durante
-        un viaggio su strada in Pakistan.
-    - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
-      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra eSIM Pakistan offre la copertura affidabile
-        necessaria.
-    - q: Le app di ride-hailing funzionano oltre confine?
-      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione Internet attiva tramite la nostra eSIM
-        locale o regionale.
-    - q: Come offro un hotspot stabile per la mia famiglia?
-      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può connettersi alla tua rete eSIM Pakistan
-        sul treno o in auto.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotel
-    title: 4.  eSIM Pakistan per gli Hotel
-    questions:
-    - q: Come faccio il self-check-in dopo la prenotazione?
-      a: Molte strutture moderne inviano codici per serrature intelligenti via email. La tua eSIM Pakistan ti garantisce di
-        poter recuperare questi dettagli direttamente davanti alla porta.
-    - q: Come contatto il mio host Airbnb al mio arrivo?
-      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare l'orario di arrivo con il tuo host tramite
-        i dati mobili eSIM Pakistan.
-    - q: Come uso Google Maps per navigare verso l'hotel?
-      a: Che tu alloggi in Serena Hotel (Islamabad), Mövenpick Hotel (Karachi), Pearl Continental Hotel (Lahore), inserisci
-        l'indirizzo in Google Maps e usa la navigazione della tua eSIM Pakistan.
-    - q: Come ricevo i codici di verifica SMS?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM Pakistan per ricevere codici via email o app
-        di autenticazione.
-    - q: Come contatto rapidamente l'assistenza clienti?
-      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i tuoi dati ad alta velocità eSIM Pakistan.
-    - q: Come ordino cibo con app di consegna locali?
-      a: Scarica Foodpanda, Cheetay, Yummy e usa i tuoi dati eSIM Pakistan per ordinare un pasto caldo direttamente nella
-        hall dell'hotel.
-    - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM Pakistan subentra, permettendoti di scrivere all'hotel se hai
-        dimenticato qualcosa.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Attrazioni e Intrattenimento
-    questions:
-    - q: Come acquisto biglietti elettronici su GetYourGuide/Viator?
-      a: Se vuoi visitare Badshahi Mosque (Lahore), Mohenjo-daro (Sindh), Fairy Meadows (Gilgit-Baltistan) all'ultimo minuto,
-        puoi usare i tuoi dati eSIM Pakistan per acquistare biglietti online e mostrare il codice a barre direttamente.
-    - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM Pakistan, puoi leggere recensioni e prenotare tour locali mentre sei seduto
-        in un bar.
-    - q: Come uso Wikipedia/Google per informazioni durante la visita?
-      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google o traducendo i cartelli dei musei mentre
-        esplori Pakistan.
-    - q: Come trovo la strada per l'attrazione successiva?
-      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura della tua eSIM Pakistan ti guiderà lungo
-        il percorso più veloce.
-    - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
-      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa in tempo reale. La tua eSIM Pakistan
-        ti mantiene online in tutto il parco.
-    - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
-      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite app di ticketing con i tuoi dati eSIM Pakistan.
-    - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM Pakistan ti permettono di pubblicare Reel e foto in tempo reale, senza aspettare
-        il Wi-Fi dell'hotel.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 6.  eSIM Pakistan per i Social Media
-    questions:
-    - q: Quanti dati mi servono per un viaggio in Pakistan?
-      a: Utenti leggeri (mappe + messaggi) ~300MB/giorno, moderati (social + foto) ~700MB/giorno, intensivi (streaming + videochiamate)
-        scegli Illimitato. La maggior parte trova 5GB/15 giorni sufficienti per un viaggio standard in Pakistan.
-    - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM Pakistan 4G/5G offre la larghezza di banda per caricamenti
-        rapidi.
-    - q: Come faccio videochiamate con la mia famiglia?
-      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM Pakistan siano chiare e senza ritardi,
-        ovunque ti trovi nel paese.
-    - q: È sicuro accedere ai social network su Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM Pakistan personali è crittografato e molto
-        più sicuro.
-    - q: Come condivido la rete come hotspot con i compagni di viaggio?
-      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare il tuo volume dati eSIM Pakistan per i
-        loro social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Transfrontaliero
-    title: 7.  eSIM Pakistan per Viaggi Transfrontalieri
-    questions:
-    - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per Pakistan funziona solo lì. Per viaggiare attraverso più paesi, consigliamo la nostra eSIM Regionale
-        (ad es. eSIM Europa).
-    - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
-      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM Pakistan sia impostata come linea dati
-        primaria.
-    - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
-      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere online durante lo scalo.
-    - q: Come ottengo Internet sulle navi da crociera?
-      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per i paesi che visiterai. Si collegherà non
-        appena sarai vicino alla terraferma.
-    - q: Come rimane online Google Maps durante i viaggi su strada?
-      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del nuovo paese quando superi il confine,
-        mantenendo attivo il GPS.
-    - q: Come gestisco i dati per più paesi in una sola app?
-      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente tramite il nostro dashboard utente sul sito
-        Web.
-    - q: Come posso essere reperibile durante i viaggi attraverso più paesi?
-      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce di essere sempre raggiungibile allo
-        stesso numero.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 8.  eSIM Pakistan per le Emergenze
-    questions:
-    - q: Come si compongono i numeri di emergenza locali?
-      a: 'In Pakistan puoi comporre direttamente numeri di emergenza come Polizia: 15, Ambulanza: 115, Vigili del Fuoco: 16,
-        purché il telefono riceva un segnale cellulare.'
-    - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM Pakistan consentono una ricerca immediata su Google Maps di 'farmacia' o 'ospedale' con il percorso
-        più veloce.
-    - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM Pakistan per trovare rapidamente l'indirizzo e il contatto di emergenza della tua ambasciata.
-    - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM Pakistan per chiamare le linee di assistenza della tua assicurazione.
-    - q: Come condivido la mia posizione in tempo reale?
-      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare le tue coordinate tramite i dati eSIM
-        Pakistan.
-    - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM Pakistan per caricare mappe offline in Google Maps prima di recarti in
-        aree senza segnale.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  eSIM Pakistan per Viaggi d'Affari
-    questions:
-    - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM Pakistan si connette a reti premium offrendo larghezza di banda e bassa latenza per videoconferenze
-        professionali.
-    - q: Come mi connetto in modo sicuro alla VPN aziendale?
-      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale in modo sicuro sulla rete eSIM Pakistan.
-    - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM Pakistan è molto più veloce e sicuro contro le minacce informatiche rispetto
-        alle reti Wi-Fi aperte.
-    - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM Pakistan per i codici basati su email.
-    - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM Pakistan puoi caricare rapidamente presentazioni sui servizi cloud.
-    - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM Pakistan offre una connessione costante, così ricevi immediatamente messaggi Slack ed email.
-    - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM Pakistan in movimento per informare le risorse umane sui ritardi dei
-        voli.
+    - q: |
+        Che copertura c'è in campagna e nelle aree remote in Pakistan?
+      a: |
+        Nelle città la copertura 4G/5G è eccellente (50-300 Mbps). Fuori città il segnale cala: 5-15 Mbps nei paesi, 2-5 Mbps nei parchi naturali e montagne. Mappe e messaggistica funzionano ovunque, i video potrebbero caricare lentamente. Consiglio: scarica le mappe offline in hotel per sicurezza.
+    - q: |
+        Conviene comprare una SIM in aeroporto all'arrivo in Pakistan?
+      a: |
+        La SIM locale in aeroporto costa $10-30 più 15-60 minuti di coda. Con Roami eSIM paghi da $1.99 per 7 giorni e non perdi tempo — installata a casa, pronta all'arrivo. Il tuo numero italiano resta attivo per SMS bancari. La differenza di prezzo è netta: 30-50% in meno con eSIM.
+    - q: |
+        Come controllare il traffico residuo sulla eSIM in Pakistan?
+      a: |
+        Due modi: dalle impostazioni del telefono (Impostazioni > Cellulare > Utilizzo dati) o dall'app Roami. Roami invia notifiche al 70% e 90% di utilizzo. Se il traffico sta per finire, puoi ricaricare immediatamente dall'app senza bisogno di un nuovo QR code.
+    - q: |
+        Come usare la mia SIM e la eSIM contemporaneamente in Pakistan?
+      a: |
+        La SIM italiana e la eSIM funzionano perfettamente insieme. Puoi ricevere chiamate e SMS sulla tua SIM mentre navighi con la eSIM. Il consumo della batteria aumenta solo del 5-8%, appena percepibile. In Impostazioni > Cellulare puoi scegliere quale linea usare per voce, SMS e dati.
+    - q: |
+        La connessione eSIM è protetta per home banking e app?
+      a: |
+        Sì, la connessione eSIM è criptata e molto più sicura del WiFi pubblico di hotel e bar. Le app bancarie, PayPal e le carte funzionano perfettamente sulla connessione 4G/5G protetta. Le SMS per 2FA arrivano sulla tua SIM italiana senza problemi.
+    - q: |
+        I social network funzionano con la eSIM in Pakistan?
+      a: |
+        Tutte le app funzionano: il feed Instagram si carica in 1-2 secondi, i video TikTok senza buffering, i messaggi Telegram sono istantanei. Al giorno sui social si consumano 200-400MB con uso attivo. 5GB ($9.99) bastano per 12-20 giorni di navigazione moderata.
+    - q: |
+        Quale quantità di dati scegliere per il mio viaggio per il Pakistan?
+      a: |
+        5GB ($9.99) bastano per navigazione, social e messaggistica per una settimana. 10GB ($14.99) per uso più attivo con video. Il piano illimitato ($59.99) è ideale per streaming, videochiamate e hotspot. La maggior parte dei turisti sceglie 5GB. Puoi sempre aumentare il piano dall'app.
+    - q: |
+        Come aggiungere GB se il traffico della eSIM finisce in Pakistan?
+      a: |
+        La ricarica richiede 30 secondi: apri l'app Roami, scegli il pacchetto aggiuntivo, paghi — il traffico è subito disponibile. Non serve scansionare un nuovo QR code o reinstallare la eSIM. Puoi ricaricare con carta o PayPal in qualsiasi momento, anche dall'estero.
 related_products:
   title: Piani eSIM simili
   items:

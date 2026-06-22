@@ -196,239 +196,47 @@ activation_steps:
       WhatsApp, controllare i social media o configurare un hotspot per altri dispositivi – senza attesa, senza documenti,
       senza contratto.
     is_list: false
-faq_section1:
-  title: 'Guida eSIM Camerun 2026: Piani Dati & Consigli di Viaggio'
-  desc: Da Yaoundé a Douala, rimani connesso con MTN Cameroon, Orange Cameroon, Nexttel (Viettel Camerun). La nostra guida
-    completa eSIM Camerun copre copertura, piani, installazione e consigli di viaggio.
+faq_section:
+  title: "Internet mobile in Camerun: l'eSIM è una soluzione valida?"
+  desc: "Camerun è una destinazione incredibile. Con la eSIM Roami su MTN non perdi mai la connessione: 5G in città, 4G nelle aree turistiche. Ideale per foto, videochiamate e social."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Generale
-    title: 1.  Domande Generali sull'eSIM Camerun
+    title: Camerun eSIM FAQ
     questions:
-    - q: Posso installare l'eSIM Camerun prima della partenza e attivarla successivamente?
-      a: Sì, puoi installare l'eSIM già a casa (tramite Wi-Fi). L'attivazione avviene automaticamente quando il tuo telefono
-        si connette per la prima volta alla rete di MTN Cameroon / Orange Cameroon in Camerun. Così eviti qualsiasi stress
-        all'atterraggio.
-    - q: Posso installare l'eSIM per Camerun anche senza codice QR?
-      a: Sì, oltre al codice QR, puoi installare l'eSIM manualmente inserendo l'indirizzo SM-DP+ e il codice di attivazione
-        (entrambi si trovano nella tua conferma d'ordine). Il codice QR è comunque il metodo più rapido e semplice.
-    - q: Come funziona il roaming internazionale con l'eSIM per Camerun nei paesi vicini?
-      a: L'eSIM Camerun è ottimizzata principalmente per Camerun. Per viaggi nei paesi limitrofi dell'UE, consigliamo la nostra
-        eSIM Europa, che offre roaming senza soluzione di continuità senza costi aggiuntivi. La sola eSIM nazionale non funziona
-        in modo affidabile al di fuori di Camerun.
-    - q: Roami offre piani dati illimitati per Camerun? Esiste una politica di fair use?
-      a: Roami offre veri piani dati illimitati per Camerun. Una politica di fair use si applica solo in caso di utilizzo
-        estremo (ad es. streaming 4K continuo per diversi giorni). La navigazione normale, i social media, le videochiamate
-        e la navigazione non sono interessati.
-    - q: Roami offre anche eSIM regionali per viaggiare al di fuori di Camerun?
-      a: Sì, oltre all'eSIM Camerun, offriamo eSIM regionali per Europa, Asia, Nord America e globali. Ideali per gite di
-        più giorni o tour attraverso più paesi – senza cambiare SIM.
-    - q: Quali requisiti deve soddisfare il mio smartphone per utilizzare l'eSIM Camerun?
-      a: Il tuo dispositivo deve essere compatibile con eSIM (iPhone XS/XR o successivi, Samsung Galaxy S20/Note20 o successivi,
-        Google Pixel 3a o successivi, e la maggior parte dei telefoni 5G più recenti di Huawei, Xiaomi, OnePlus). Verifica
-        nelle impostazioni se è disponibile l'opzione 'Aggiungi eSIM'.
-    - q: Come attivo l'eSIM per Camerun e quando inizia la validità?
-      a: Dopo l'acquisto riceverai immediatamente un codice QR di attivazione via email. La validità inizia solo quando il
-        tuo telefono si connette per la prima volta a una delle reti partner (MTN Cameroon / Orange Cameroon) in Camerun.
-        Paghi solo per i giorni che trascorri effettivamente sul posto.
-    - q: Quali sono i vantaggi dell'eSIM Roami rispetto alle SIM locali prepagate in Camerun?
-      a: A differenza delle SIM locali prepagate, eviti di andare in negozio, la registrazione dell'identità (KYC) e la ricerca
-        di una ricarica adatta. Con Roami attivi l'eSIM digitalmente in meno di 2 minuti – nessuna coda in aeroporto.
-    - q: Esiste una garanzia di rimborso se l'eSIM Camerun non funziona?
-      a: Sì, offriamo una garanzia di rimborso del 100% entro 7 giorni dall'attivazione, se i problemi tecnici non possono
-        essere risolti dal nostro supporto 24/7. Nessun rischio per te.
-    - q: Posso usare l'eSIM per Camerun come hotspot con altri dispositivi?
-      a: Sì, tutti i piani Roami eSIM per Camerun consentono tethering illimitato (hotspot). Puoi condividere la tua connessione
-        dati con laptop, tablet o compagni di viaggio – senza costi nascosti o limitazioni di velocità.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2.  eSIM Camerun all'Aeroporto
-    questions:
-    - q: Come posso ottenere una rete affidabile subito dopo l'atterraggio?
-      a: Installa l'eSIM Camerun prima del volo. Non appena atterri in aeroporti come Aeroporto Internazionale di Yaoundé
-        Nsimalen, Aeroporto Internazionale di Douala, Aeroporto di Garoua, disattiva la modalità aereo e attiva la tua eSIM.
-        Si collegherà in pochi secondi alla rete 4G/5G locale.
-    - q: Come contatto la persona che viene a prendermi o uso Uber/Grab?
-      a: Dopo l'attivazione all'atterraggio, puoi utilizzare app come Uber, Taxi Jokko, Gozem per prenotare una corsa o WhatsApp
-        per contattare il tuo autista, senza affidarti al Wi-Fi insicuro dell'aeroporto.
-    - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM Camerun, puoi controllare in tempo reale gli orari di treni e autobus direttamente al ritiro
-        bagagli in Aeroporto Internazionale di Yaoundé Nsimalen, Aeroporto Internazionale di Douala, Aeroporto di Garoua o
-        trovare la strada per il parcheggio dei taxi.
-    - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM Camerun online in anticipo, eviti completamente i costosi chioschi SIM nell'area arrivi,
-        risparmiando tempo e denaro.
-    - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM Camerun è solo dati. Per ricevere SMS, lascia attiva la tua SIM domestica (la ricezione SMS in roaming
-        è spesso gratuita) e usa l'eSIM per tutto il traffico dati.
-    - q: Come contatto immediatamente la mia famiglia?
-      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi dati eSIM Camerun per far sapere ai tuoi
-        cari che sei arrivato sano e salvo.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3.  eSIM Camerun per il Trasporto
-    questions:
-    - q: Come uso Google Maps per pianificare il percorso?
-      a: La nostra stabile connessione eSIM Camerun garantisce che Google Maps possa caricare i dati sul traffico in tempo
-        reale e gli orari ovunque in Camerun.
-    - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: App come Uber, Taxi Jokko, Gozem usano VoIP. Poiché hai dati eSIM Camerun attivi, gli autisti possono chiamarti o
-        inviarti notifiche direttamente tramite l'app, senza bisogno di un numero locale.
-    - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM Camerun per acquistare biglietti digitali con codice QR nelle app locali, evitando lunghe code
-        alle biglietterie automatiche.
-    - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM Camerun. Un piano da 5GB o 10GB è sufficiente per un'ampia navigazione GPS durante
-        un viaggio su strada in Camerun.
-    - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
-      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra eSIM Camerun offre la copertura affidabile
-        necessaria.
-    - q: Le app di ride-hailing funzionano oltre confine?
-      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione Internet attiva tramite la nostra eSIM
-        locale o regionale.
-    - q: Come offro un hotspot stabile per la mia famiglia?
-      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può connettersi alla tua rete eSIM Camerun
-        sul treno o in auto.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotel
-    title: 4.  eSIM Camerun per gli Hotel
-    questions:
-    - q: Come faccio il self-check-in dopo la prenotazione?
-      a: Molte strutture moderne inviano codici per serrature intelligenti via email. La tua eSIM Camerun ti garantisce di
-        poter recuperare questi dettagli direttamente davanti alla porta.
-    - q: Come contatto il mio host Airbnb al mio arrivo?
-      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare l'orario di arrivo con il tuo host tramite
-        i dati mobili eSIM Camerun.
-    - q: Come uso Google Maps per navigare verso l'hotel?
-      a: Che tu alloggi in Hilton Yaoundé, Pullman Douala, Radisson Blu Douala, inserisci l'indirizzo in Google Maps e usa
-        la navigazione della tua eSIM Camerun.
-    - q: Come ricevo i codici di verifica SMS?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM Camerun per ricevere codici via email o app
-        di autenticazione.
-    - q: Come contatto rapidamente l'assistenza clienti?
-      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i tuoi dati ad alta velocità eSIM Camerun.
-    - q: Come ordino cibo con app di consegna locali?
-      a: Scarica Jumia Food, Glovo, Uber Eats e usa i tuoi dati eSIM Camerun per ordinare un pasto caldo direttamente nella
-        hall dell'hotel.
-    - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM Camerun subentra, permettendoti di scrivere all'hotel se hai dimenticato
-        qualcosa.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Attrazioni e Intrattenimento
-    questions:
-    - q: Come acquisto biglietti elettronici su GetYourGuide/Viator?
-      a: Se vuoi visitare Parco Nazionale di Waza, Monte Camerun, Museo Nazionale di Yaoundé all'ultimo minuto, puoi usare
-        i tuoi dati eSIM Camerun per acquistare biglietti online e mostrare il codice a barre direttamente.
-    - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM Camerun, puoi leggere recensioni e prenotare tour locali mentre sei seduto
-        in un bar.
-    - q: Come uso Wikipedia/Google per informazioni durante la visita?
-      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google o traducendo i cartelli dei musei mentre
-        esplori Camerun.
-    - q: Come trovo la strada per l'attrazione successiva?
-      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura della tua eSIM Camerun ti guiderà lungo
-        il percorso più veloce.
-    - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
-      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa in tempo reale. La tua eSIM Camerun
-        ti mantiene online in tutto il parco.
-    - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
-      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite app di ticketing con i tuoi dati eSIM Camerun.
-    - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM Camerun ti permettono di pubblicare Reel e foto in tempo reale, senza aspettare
-        il Wi-Fi dell'hotel.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 6.  eSIM Camerun per i Social Media
-    questions:
-    - q: Quanti dati mi servono per un viaggio in Camerun?
-      a: Utenti leggeri (mappe + messaggi) ~300MB/giorno, moderati (social + foto) ~700MB/giorno, intensivi (streaming + videochiamate)
-        scegli Illimitato. La maggior parte trova 5GB/15 giorni sufficienti per un viaggio standard in Camerun.
-    - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM Camerun 4G/5G offre la larghezza di banda per caricamenti
-        rapidi.
-    - q: Come faccio videochiamate con la mia famiglia?
-      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM Camerun siano chiare e senza ritardi,
-        ovunque ti trovi nel paese.
-    - q: È sicuro accedere ai social network su Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM Camerun personali è crittografato e molto
-        più sicuro.
-    - q: Come condivido la rete come hotspot con i compagni di viaggio?
-      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare il tuo volume dati eSIM Camerun per i loro
-        social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Transfrontaliero
-    title: 7.  eSIM Camerun per Viaggi Transfrontalieri
-    questions:
-    - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per Camerun funziona solo lì. Per viaggiare attraverso più paesi, consigliamo la nostra eSIM Regionale
-        (ad es. eSIM Europa).
-    - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
-      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM Camerun sia impostata come linea dati
-        primaria.
-    - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
-      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere online durante lo scalo.
-    - q: Come ottengo Internet sulle navi da crociera?
-      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per i paesi che visiterai. Si collegherà non
-        appena sarai vicino alla terraferma.
-    - q: Come rimane online Google Maps durante i viaggi su strada?
-      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del nuovo paese quando superi il confine,
-        mantenendo attivo il GPS.
-    - q: Come gestisco i dati per più paesi in una sola app?
-      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente tramite il nostro dashboard utente sul sito
-        Web.
-    - q: Come posso essere reperibile durante i viaggi attraverso più paesi?
-      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce di essere sempre raggiungibile allo
-        stesso numero.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 8.  eSIM Camerun per le Emergenze
-    questions:
-    - q: Come si compongono i numeri di emergenza locali?
-      a: 'In Camerun puoi comporre direttamente numeri di emergenza come Polizia: 117, Vigili del fuoco: 118, Ambulanza: 119,
-        purché il telefono riceva un segnale cellulare.'
-    - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM Camerun consentono una ricerca immediata su Google Maps di 'farmacia' o 'ospedale' con il percorso
-        più veloce.
-    - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM Camerun per trovare rapidamente l'indirizzo e il contatto di emergenza della tua ambasciata.
-    - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM Camerun per chiamare le linee di assistenza della tua assicurazione.
-    - q: Come condivido la mia posizione in tempo reale?
-      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare le tue coordinate tramite i dati eSIM
-        Camerun.
-    - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM Camerun per caricare mappe offline in Google Maps prima di recarti in aree
-        senza segnale.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  eSIM Camerun per Viaggi d'Affari
-    questions:
-    - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM Camerun si connette a reti premium offrendo larghezza di banda e bassa latenza per videoconferenze
-        professionali.
-    - q: Come mi connetto in modo sicuro alla VPN aziendale?
-      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale in modo sicuro sulla rete eSIM Camerun.
-    - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM Camerun è molto più veloce e sicuro contro le minacce informatiche rispetto
-        alle reti Wi-Fi aperte.
-    - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM Camerun per i codici basati su email.
-    - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM Camerun puoi caricare rapidamente presentazioni sui servizi cloud.
-    - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM Camerun offre una connessione costante, così ricevi immediatamente messaggi Slack ed email.
-    - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM Camerun in movimento per informare le risorse umane sui ritardi dei voli.
+    - q: |
+        Quali sono gli errori più comuni con la eSIM in Camerun?
+      a: |
+        L'errore più comune: comprare la eSIM il giorno della partenza senza installarla prima. Secondo: dimenticare di attivare il roaming dati. Terzo: lasciare attivo il roaming vocale sulla SIM italiana — spegnilo per evitare costi. Quarto: non verificare la compatibilità del telefono — *#06# prima di acquistare.
+    - q: |
+        Meglio eSIM o pocket WiFi per viaggiare in Camerun?
+      a: |
+        Pocket WiFi: da portare sempre con sé, ricaricare ogni sera, restituire in aeroporto. Costa $5-10/giorno più deposito $50-100. eSIM Roami: installazione in 2 minuti, da $1.99/giorno, niente da restituire. Puoi condividere internet con altri dispositivi. La eSIM vince per comodità e prezzo.
+    - q: |
+        Conviene comprare una eSIM per il Camerun rispetto a una SIM locale?
+      a: |
+        I piani Roami partono da $1.99 (7 giorni, 1GB) fino a $59.99 (30 giorni, illimitato). Il piano più popolare è 5GB/15 giorni a $9.99 — sufficiente per navigazione, social e messaggistica. Per uso intensivo con video, scegli 10GB ($14.99) o illimitato ($59.99). Tutti i piani sono prepagati, senza costi nascosti e senza rinnovo automatico.
+    - q: |
+        Quanto pago realmente per la eSIM per il Camerun — ci sono extra?
+      a: |
+        Nessuna commissione nascosta: il prezzo che vedi sul sito è quello finale. Incluso: profilo eSIM, accesso alla rete, supporto 24/7. Non incluso: chiamate vocali (solo via internet). Nessun rinnovo automatico — il piano termina da solo alla scadenza. Puoi sempre ricaricare dall'app.
+    - q: |
+        Serve il passaporto per attivare la eSIM per il Camerun?
+      a: |
+        Nella maggior parte dei paesi non serve il passaporto per Roami eSIM. In alcuni paesi (Cina, Turchia, India) può essere necessaria la verifica KYC. Consigliamo di completarla prima del viaggio — richiede 5-10 minuti. Negli altri paesi l'eSIM si attiva subito dopo il pagamento.
+    - q: |
+        Conviene comprare una SIM in aeroporto all'arrivo in Camerun?
+      a: |
+        La SIM locale in aeroporto costa $10-30 più 15-60 minuti di coda. Con Roami eSIM paghi da $1.99 per 7 giorni e non perdi tempo — installata a casa, pronta all'arrivo. Il tuo numero italiano resta attivo per SMS bancari. La differenza di prezzo è netta: 30-50% in meno con eSIM.
+    - q: |
+        Quando installare la eSIM: prima della partenza o in aeroporto?
+      a: |
+        L'installazione richiede 2 minuti. Dopo l'acquisto ricevi il QR code via email entro 5 minuti. Su iPhone: Impostazioni > Cellulare > Aggiungi eSIM. Su Android: Impostazioni > Rete > Aggiungi eSIM. Installa prima della partenza con WiFi di casa. All'arrivo in Camerun, attiva il roaming dati — sei online in 60 secondi.
+    - q: |
+        Posso condividere internet dalla eSIM al computer in Camerun?
+      a: |
+        Sì, tutti i piani Roami supportano la modalità hotspot. Attiva la condivisione nelle impostazioni del telefono. Per lavorare con il computer (videoconferenze, file) consigliamo il piano 10GB ($14.99) o illimitato ($59.99). La condivisione funziona senza costi aggiuntivi.
 related_products:
   title: Piani eSIM simili
   items:

@@ -375,233 +375,47 @@ activation_steps:
       usare WhatsApp, controllare i social media o configurare un hotspot per altri dispositivi – senza attesa, senza documenti,
       senza contratto.
     is_list: false
-faq_section1:
-  title: 'Guida eSIM USA 2026: Guida Viaggio & Dati'
-  desc: Da New York a Los Angeles, rimani connesso con AT&T, Verizon, T-Mobile. La nostra guida completa eSIM USA copre copertura,
-    piani, installazione e consigli di viaggio.
+faq_section:
+  title: "Roami eSIM negli USA: copertura adeguata per un viaggio?"
+  desc: "In viaggio negli USA, la eSIM Roami si appoggia alla rete T-Mobile con copertura 4G/5G. Nelle città la navigazione è scattante, in campagna la connessione regge per messaggi e mappe."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Generale
-    title: 1.  Domande Generali sull'eSIM USA
+    title: USA eSIM FAQ
     questions:
-    - q: Posso usare l'eSIM per USA come hotspot con altri dispositivi?
-      a: Sì, tutti i piani Roami eSIM per USA consentono tethering illimitato (hotspot). Puoi condividere la tua connessione
-        dati con laptop, tablet o compagni di viaggio – senza costi nascosti o limitazioni di velocità.
-    - q: Posso mantenere il mio numero di telefono attuale mentre uso l'eSIM per Stati Uniti?
-      a: 'L''eSIM Roami è una eSIM solo dati. Puoi usare la tua SIM domestica in parallelo (ad es. per chiamate/SMS). La maggior
-        parte dei telefoni dual-SIM gestisce entrambi i profili: imposta semplicemente l''eSIM Roami come predefinita per
-        i dati mobili.'
-    - q: Posso installare l'eSIM USA prima della partenza e attivarla successivamente?
-      a: Sì, puoi installare l'eSIM già a casa (tramite Wi-Fi). L'attivazione avviene automaticamente quando il tuo telefono
-        si connette per la prima volta alla rete di AT&T / Verizon in USA. Così eviti qualsiasi stress all'atterraggio.
-    - q: Posso trasferire l'eSIM USA su un altro dispositivo dopo l'installazione?
-      a: Un'eSIM una volta installata non può essere trasferita su un altro dispositivo. Installa l'eSIM sul dispositivo che
-        utilizzerai durante il viaggio. Per dispositivi aggiuntivi puoi acquistare altre eSIM.
-    - q: Posso installare l'eSIM per USA anche senza codice QR?
-      a: Sì, oltre al codice QR, puoi installare l'eSIM manualmente inserendo l'indirizzo SM-DP+ e il codice di attivazione
-        (entrambi si trovano nella tua conferma d'ordine). Il codice QR è comunque il metodo più rapido e semplice.
-    - q: Il mio smartphone supporta l'eSIM per USA e come la installo?
-      a: Sì, la maggior parte degli smartphone moderni (iPhone XS/XR o successivi, Samsung Galaxy S20+/Note20+, Google Pixel
-        3a+) supportano l'eSIM. Installa l'eSIM USA scansionando il codice QR nelle impostazioni cellulari. Le reti di AT&T
-        / Verizon offrono un'eccellente copertura 5G/4G in USA.
-    - q: Quanto costa l'eSIM per USA e ci sono offerte sconto?
-      a: Il nostro piano eSIM USA parte da soli $1,99/GB. Con il codice promozionale 'web20' ottieni il 20% di sconto su ogni
-        ordine – valido per tutti i piani. Nessuna tassa nascosta, nessun vincolo di durata minima.
-    - q: Durante l'utilizzo dell'eSIM USA, posso continuare a ricevere chiamate sulla mia SIM domestica?
-      a: Sì, i dispositivi dual-SIM consentono l'uso simultaneo di entrambi i profili. Imposta semplicemente l'eSIM Roami
-        come predefinita per i dati mobili. Chiamate e SMS continuano sulla tua SIM domestica (il roaming può rimanere attivo).
-    - q: Come posso monitorare il mio consumo dati con l'eSIM per USA?
-      a: Dopo l'attivazione hai accesso al nostro dashboard online. Puoi vedere in tempo reale i tuoi dati residui, la validità
-        rimanente e richiedere assistenza in qualsiasi momento e ovunque.
-    - q: Roami offre anche eSIM regionali per viaggiare al di fuori di USA?
-      a: Sì, oltre all'eSIM USA, offriamo eSIM regionali per Europa, Asia, Nord America e globali. Ideali per gite di più
-        giorni o tour attraverso più paesi – senza cambiare SIM.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aeroporti
-    title: 2.  eSIM USA all'Aeroporto
-    questions:
-    - q: Posso attivare la mia eSIM USA subito dopo l'atterraggio?
-      a: Sì, puoi attivare la tua eSIM USA appena atterrato. Usa il WiFi gratuito dell'aeroporto, scansiona il codice QR dalla
-        tua email e sarai connesso in meno di 2 minuti. Consigliamo di installare l'eSIM prima della partenza.
-    - q: Come contatto la persona che viene a prendermi o uso Uber/Grab?
-      a: Dopo l'attivazione all'atterraggio, puoi utilizzare app come Uber, Lyft, Lime per prenotare una corsa o WhatsApp
-        per contattare il tuo autista, senza affidarti al Wi-Fi insicuro dell'aeroporto.
-    - q: Come uso Google Maps/Apple Maps per trovare i mezzi di trasporto?
-      a: Con i tuoi dati eSIM USA, puoi controllare in tempo reale gli orari di treni e autobus direttamente al ritiro bagagli
-        in Aeroporto Internazionale John F. Kennedy (JFK), Aeroporto Internazionale di Los Angeles (LAX), Aeroporto Internazionale
-        O'Hare (ORD) o trovare la strada per il parcheggio dei taxi.
-    - q: Come evito SIM costose in aeroporto?
-      a: Acquistando la nostra eSIM USA online in anticipo, eviti completamente i costosi chioschi SIM nell'area arrivi, risparmiando
-        tempo e denaro.
-    - q: Come ricevo SMS da hotel/noleggio auto senza numero locale?
-      a: La nostra eSIM USA è solo dati. Per ricevere SMS, lascia attiva la tua SIM domestica (la ricezione SMS in roaming
-        è spesso gratuita) e usa l'eSIM per tutto il traffico dati.
-    - q: Come contatto immediatamente la mia famiglia?
-      a: Appena atterri, puoi usare iMessage, WhatsApp o FaceTime sui nostri rapidi dati eSIM USA per far sapere ai tuoi cari
-        che sei arrivato sano e salvo.
-  - id: faq-transport
-    icon: car
-    tab_title: Trasporti
-    title: 3.  eSIM USA per il Trasporto
-    questions:
-    - q: Posso usare l'eSIM USA per ride-hailing e navigazione?
-      a: Sì, l'eSIM USA funziona con app di ride-hailing e Google Maps. Un piano 5GB/15 giorni ($4.99) è sufficiente per la
-        navigazione quotidiana e le prenotazioni di corse.
-    - q: Come possono i conducenti Uber/Grab contattarmi tramite l'app?
-      a: App come Uber, Lyft, Lime usano VoIP. Poiché hai dati eSIM USA attivi, gli autisti possono chiamarti o inviarti notifiche
-        direttamente tramite l'app, senza bisogno di un numero locale.
-    - q: Come acquisto biglietti del treno o della metropolitana online?
-      a: Usa i tuoi dati eSIM USA per acquistare biglietti digitali con codice QR nelle app locali, evitando lunghe code alle
-        biglietterie automatiche.
-    - q: Come uso Google Maps per la navigazione in tempo reale in auto a noleggio?
-      a: Monta il telefono e usa la tua eSIM USA. Un piano da 5GB o 10GB è sufficiente per un'ampia navigazione GPS durante
-        un viaggio su strada in Stati Uniti.
-    - q: Come scansiono e sblocco i monopattini elettrici (Lime/Bird)?
-      a: Sbloccare i monopattini richiede una connessione Internet veloce. La nostra eSIM USA offre la copertura affidabile
-        necessaria.
-    - q: Le app di ride-hailing funzionano oltre confine?
-      a: Sì, il tuo account rimane lo stesso. Assicurati solo di avere una connessione Internet attiva tramite la nostra eSIM
-        locale o regionale.
-    - q: Come offro un hotspot stabile per la mia famiglia?
-      a: Basta attivare 'Hotspot personale' nelle impostazioni. La tua famiglia può connettersi alla tua rete eSIM USA sul
-        treno o in auto.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hotel
-    title: 4.  eSIM USA per gli Hotel
-    questions:
-    - q: Come faccio il self-check-in dopo la prenotazione?
-      a: Molte strutture moderne inviano codici per serrature intelligenti via email. La tua eSIM USA ti garantisce di poter
-        recuperare questi dettagli direttamente davanti alla porta.
-    - q: Come contatto il mio host Airbnb al mio arrivo?
-      a: Usa la funzione di messaggistica dell'app Airbnb o WhatsApp per coordinare l'orario di arrivo con il tuo host tramite
-        i dati mobili eSIM USA.
-    - q: Come uso Google Maps per navigare verso l'hotel?
-      a: Che tu alloggi in The Plaza Hotel (New York), The Beverly Hills Hotel (Los Angeles), The Ritz-Carlton (Chicago),
-        inserisci l'indirizzo in Google Maps e usa la navigazione della tua eSIM USA.
-    - q: Come ricevo i codici di verifica SMS?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i tuoi dati eSIM Stati Uniti per ricevere codici via email o
-        app di autenticazione.
-    - q: Come contatto rapidamente l'assistenza clienti?
-      a: Usa app VoIP come Skype o la funzione chat dell'app di prenotazione con i tuoi dati ad alta velocità eSIM USA.
-    - q: Come ordino cibo con app di consegna locali?
-      a: Scarica Uber Eats, DoorDash, Grubhub e usa i tuoi dati eSIM USA per ordinare un pasto caldo direttamente nella hall
-        dell'hotel.
-    - q: Come rimango in contatto con l'hotel dopo il check-out?
-      a: Una volta uscito dal Wi-Fi dell'hotel, la tua eSIM USA subentra, permettendoti di scrivere all'hotel se hai dimenticato
-        qualcosa.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attrazioni
-    title: 5. Attrazioni e Intrattenimento
-    questions:
-    - q: C'è copertura dati nelle attrazioni turistiche in USA?
-      a: Le principali attrazioni hanno generalmente una buona copertura 4G/5G in USA. Nelle zone remote, il segnale potrebbe
-        essere debole. Scarica mappe offline prima di visitare destinazioni isolate.
-    - q: Come prenoto esperienze su Tripadvisor immediatamente?
-      a: Con l'affidabile 4G/5G della tua eSIM USA, puoi leggere recensioni e prenotare tour locali mentre sei seduto in un
-        bar.
-    - q: Come uso Wikipedia/Google per informazioni durante la visita?
-      a: Arricchisci la tua esperienza culturale cercando fatti storici su Google o traducendo i cartelli dei musei mentre
-        esplori USA.
-    - q: Come trovo la strada per l'attrazione successiva?
-      a: Inserisci la tua prossima destinazione in Google Maps; la forte copertura della tua eSIM USA ti guiderà lungo il
-        percorso più veloce.
-    - q: Come controllo i tempi di attesa in tempo reale nei parchi divertimento?
-      a: Le app dei parchi divertimento necessitano di Internet per i tempi di attesa in tempo reale. La tua eSIM USA ti mantiene
-        online in tutto il parco.
-    - q: Come accedo a Ticketmaster per i biglietti degli spettacoli?
-      a: Puoi acquistare in sicurezza biglietti per spettacoli last minute tramite app di ticketing con i tuoi dati eSIM USA.
-    - q: Come condivido subito foto/video su Instagram/TikTok?
-      a: Le nostre veloci velocità di upload eSIM USA ti permettono di pubblicare Reel e foto in tempo reale, senza aspettare
-        il Wi-Fi dell'hotel.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Social Media
-    title: 6.  eSIM USA per i Social Media
-    questions:
-    - q: Quanti dati mi servono per un viaggio in USA?
-      a: Utenti leggeri (mappe + messaggi) ~300MB/giorno, moderati (social + foto) ~700MB/giorno, intensivi (streaming + videochiamate)
-        scegli Illimitato. La maggior parte trova 5GB/15 giorni sufficienti per un viaggio standard in USA.
-    - q: Come carico contenuti su TikTok senza Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è spesso lento e insicuro. La nostra eSIM USA 4G/5G offre la larghezza di banda per caricamenti
-        rapidi.
-    - q: Come faccio videochiamate con la mia famiglia?
-      a: Le nostre partnership di rete garantiscono che le videochiamate tramite eSIM USA siano chiare e senza ritardi, ovunque
-        ti trovi nel paese.
-    - q: È sicuro accedere ai social network su Wi-Fi pubblico?
-      a: Il Wi-Fi pubblico è vulnerabile agli hacker. Utilizzare i tuoi dati eSIM USA personali è crittografato e molto più
-        sicuro.
-    - q: Come condivido la rete come hotspot con i compagni di viaggio?
-      a: Attiva la funzione hotspot. I tuoi amici possono connettersi e utilizzare il tuo volume dati eSIM USA per i loro
-        social media.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Transfrontaliero
-    title: 7.  eSIM USA per Viaggi Transfrontalieri
-    questions:
-    - q: Ho bisogno di una nuova SIM per ogni paese?
-      a: L'eSIM singola per USA funziona solo lì. Per viaggiare attraverso più paesi, consigliamo la nostra eSIM Regionale
-        (ad es. eSIM Europa).
-    - q: Come evito i costi di roaming durante i viaggi in treno oltre confine?
-      a: Disattiva il 'Roaming dati' sulla tua SIM domestica. Assicurati che l'eSIM USA sia impostata come linea dati primaria.
-    - q: Come ottengo Internet durante gli scali a Singapore/Dubai?
-      a: Puoi acquistare una eSIM economica da 1 GB per il paese di transito per rimanere online durante lo scalo.
-    - q: Come ottengo Internet sulle navi da crociera?
-      a: Invece di pagare il costoso Wi-Fi della nave, attiva una eSIM locale per i paesi che visiterai. Si collegherà non
-        appena sarai vicino alla terraferma.
-    - q: Come rimane online Google Maps durante i viaggi su strada?
-      a: Con una eSIM regionale, il tuo telefono passa automaticamente alla rete del nuovo paese quando superi il confine,
-        mantenendo attivo il GPS.
-    - q: Come gestisco i dati per più paesi in una sola app?
-      a: Puoi monitorare il consumo di dati per tutte le eSIM attive direttamente tramite il nostro dashboard utente sul sito
-        Web.
-    - q: Come posso essere reperibile durante i viaggi attraverso più paesi?
-      a: Poiché WhatsApp/iMessage funzionano tramite dati, una eSIM regionale garantisce di essere sempre raggiungibile allo
-        stesso numero.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Emergenze
-    title: 8.  eSIM USA per le Emergenze
-    questions:
-    - q: Posso usare WhatsApp, FaceTime e WeChat con l'eSIM USA?
-      a: Sì! L'eSIM USA supporta chiamate audio/video WhatsApp, FaceTime, WeChat e Zoom senza restrizioni. Resta in contatto
-        con la famiglia tramite le tue app preferite.
-    - q: Come trovo l'ospedale più vicino?
-      a: I tuoi dati eSIM USA consentono una ricerca immediata su Google Maps di 'farmacia' o 'ospedale' con il percorso più
-        veloce.
-    - q: Come trovo le informazioni dell'ambasciata in caso di smarrimento del passaporto?
-      a: Usa la tua eSIM USA per trovare rapidamente l'indirizzo e il contatto di emergenza della tua ambasciata.
-    - q: Come contatto l'assicurazione di viaggio in caso di incidente?
-      a: Usa app VoIP come Skype tramite i tuoi dati eSIM USA per chiamare le linee di assistenza della tua assicurazione.
-    - q: Come condivido la mia posizione in tempo reale?
-      a: Usa 'Condividi posizione live' su WhatsApp o 'Dov'è?' di Apple per inviare le tue coordinate tramite i dati eSIM
-        USA.
-    - q: Come scarico mappe offline per aree remote?
-      a: Usa la copertura cittadina della tua eSIM USA per caricare mappe offline in Google Maps prima di recarti in aree
-        senza segnale.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Business
-    title: 9.  eSIM USA per Viaggi d'Affari
-    questions:
-    - q: Come garantisco riunioni Zoom/Teams stabili?
-      a: La nostra eSIM USA si connette a reti premium offrendo larghezza di banda e bassa latenza per videoconferenze professionali.
-    - q: Come mi connetto in modo sicuro alla VPN aziendale?
-      a: I nostri dati non limitano alcun protocollo VPN. Puoi avviare la VPN aziendale in modo sicuro sulla rete eSIM USA.
-    - q: Come uso l'hotspot per laptop nei bar?
-      a: Attiva l'hotspot. Utilizzare la tua eSIM USA è molto più veloce e sicuro contro le minacce informatiche rispetto
-        alle reti Wi-Fi aperte.
-    - q: Come ricevo i codici 2FA per le email aziendali?
-      a: Lascia attiva la tua SIM domestica per gli SMS e usa i dati eSIM USA per i codici basati su email.
-    - q: Come carico file di grandi dimensioni durante le visite ai clienti?
-      a: Con le velocità 5G/4G della tua eSIM USA puoi caricare rapidamente presentazioni sui servizi cloud.
-    - q: Come utilizzo Slack/Gmail senza soluzione di continuità per la collaborazione?
-      a: La tua eSIM USA offre una connessione costante, così ricevi immediatamente messaggi Slack ed email.
-    - q: Come aggiorno online i piani di viaggio per l'azienda?
-      a: Accedi ai portali aziendali con la tua eSIM USA in movimento per informare le risorse umane sui ritardi dei voli.
+    - q: |
+        Le videochiamate con Zoom e WhatsApp funzionano bene con eSIM negli USA?
+      a: |
+        Le videochiamate via eSIM sono stabili: WhatsApp Video consuma 5-8MB/min, Zoom 8-12MB/min in HD. L'audio è sempre chiaro, il video può leggermente comprimersi su 4G. Per conferenze importanti meglio avere un piano da 10GB+. Funziona anche la condivisione internet verso il computer.
+    - q: |
+        Quanto tempo prima devo comprare la eSIM per partire per gli USA?
+      a: |
+        Sì, il QR code arriva via email entro 5 minuti dal pagamento. Puoi comprarlo in aeroporto e installarlo in aereo con il WiFi di bordo. All'arrivo negli USA attiva il roaming dati e sarai online in 1-2 minuti. Il processo totale richiede 2-3 minuti.
+    - q: |
+        Ci sono costi nascosti con Roami per gli USA?
+      a: |
+        No, il prezzo è finale. I piani partono da $1.99 (7 giorni, 1GB). Senza tasse, senza canone mensile, senza rinnovo automatico. Il piano scade automaticamente alla data di fine — nessuna sorpresa. Il prezzo sul sito Roami è quello che paghi.
+    - q: |
+        La eSIM è adatta per videoconferenze e lavoro online negli USA?
+      a: |
+        Sì, la eSIM è perfetta per il lavoro da remoto. Con 5G le velocità raggiungono 100-300 Mbps, sufficienti per videoconferenze Zoom/Teams e invio di file pesanti. Con 4G (10-30 Mbps) puoi lavorare con email e documenti. Per lavoro consigliamo 10GB ($14.99) a settimana o illimitato ($59.99). La eSIM supporta anche la condivisione internet verso il computer.
+    - q: |
+        La eSIM funziona anche in zone rurali e fuori città negli USA?
+      a: |
+        La copertura raggiunge circa il 95% delle città e zone turistiche, 60-70% nelle aree remote. Velocità: 200-300 Mbps in città con 5G, 10-30 Mbps in campagna con 4G, 3-5 Mbps in zone remote (sufficienti per messaggi e mappe). Roami si connette automaticamente al segnale più forte. Scarica le mappe offline prima di partire.
+    - q: |
+        È sicuro usare la eSIM per pagamenti online negli USA?
+      a: |
+        Sì, la connessione eSIM è criptata e molto più sicura del WiFi pubblico di hotel e bar. Le app bancarie, PayPal e le carte funzionano perfettamente sulla connessione 4G/5G protetta. Le SMS per 2FA arrivano sulla tua SIM italiana senza problemi.
+    - q: |
+        Qual è la velocità reale di 4G e 5G con la eSIM negli USA?
+      a: |
+        In città: 100-300 Mbps su 5G (sufficienti per video 4K). In periferia: 10-30 Mbps su 4G (ottimi per social e navigazione). In zone remote: 3-5 Mbps (sufficienti per messaggi e mappe). La velocità dipende dalla zona e dal carico della rete. Roami si connette automaticamente al segnale più veloce disponibile.
+    - q: |
+        Cosa conviene: eSIM o SIM tradizionale per viaggiare negli USA?
+      a: |
+        La eSIM vince su tutti i fronti: risparmio del 30-50%, installazione in 2 minuti, niente ricerca di negozi. SIM fisica: devi trovare un punto vendita, mostrare il passaporto, inserire nel telefono. Tempo: 30-60 minuti. eSIM Roami: scegli il piano online, ricevi il QR code, scannerizzi — fatto. La tua SIM resta in telefono per le chiamate.
 related_products:
   title: Piani eSIM simili
   items:

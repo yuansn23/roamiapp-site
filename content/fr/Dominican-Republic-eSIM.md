@@ -1,6 +1,6 @@
 ---
 title: 'Forfait eSIM République dominicaine 2026: Touristes & Réseau | Roami'
-date: '2026-06-15T00:00:00+00:00'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -279,282 +279,47 @@ activation_steps:
       de Claro / Altice. Vous pourrez immédiatement utiliser la navigation, WhatsApp, les réseaux sociaux ou partager la connexion
       avec d'autres appareils – sans attente, sans pièce d'identité, sans contrat.
     is_list: false
-faq_section1:
-  title: 'Guide eSIM République dominicaine 2026: Guide Voyage & Données'
-  desc: De Saint-Domingue à Santiago, restez connecte avec Claro, Altice, Viva. Notre guide complet eSIM République dominicaine
-    couvre la couverture, les forfaits, l'installation et les astuces de voyage.
+faq_section:
+  title: "eSIM République dominicaine : tout comprendre sur la vitesse de connexion et la couverture en zones rurales."
+  desc: "Vous partez à République dominicaine? Découvrez tout sur l'eSIM République dominicaine : vitesses 4G/5G réelles, couverture du réseau Claro en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: 1. Questions générales
+    title: République dominicaine eSIM FAQ
     questions:
-    - q: À quelles exigences mon smartphone doit-il répondre pour utiliser l'eSIM pour République dominicaine ?
-      a: Votre appareil doit prendre en charge l'eSIM (iPhone XS/XR ou plus récent, Samsung Galaxy S20/Note20 ou plus récent,
-        Google Pixel 3a ou plus récent, ainsi que la plupart des téléphones 5G modernes Huawei, Xiaomi, OnePlus). Vérifiez
-        dans les réglages si l'option 'Ajouter eSIM' est disponible.
-    - q: Roami propose-t-il des eSIM régionales pour les voyages hors de République dominicaine ?
-      a: Oui, en plus de l'eSIM pour République dominicaine, nous proposons des eSIM régionales pour l'Europe, l'Asie, l'Amérique
-        du Nord et le monde entier. Idéal pour les voyages de plusieurs jours entre villes ou les tournées multi-pays — sans
-        changer de carte SIM.
-    - q: Quels sont les avantages de l'eSIM Roami par rapport aux cartes SIM prépayées locales dans République dominicaine
-        ?
-      a: Contrairement aux cartes SIM prépayées locales, vous n'avez pas besoin d'aller en magasin, de passer par une vérification
-        d'identité (KYC) ou de chercher une carte de recharge adaptée. Avec Roami, vous activez votre eSIM numériquement en
-        moins de 2 minutes — sans faire la queue à l'aéroport.
-    - q: Puis-je installer l'eSIM pour République dominicaine avant mon voyage et l'activer plus tard ?
-      a: Oui, vous pouvez installer l'eSIM dès maintenant (via Wi-Fi). L'activation se fera automatiquement lorsque votre
-        téléphone, une fois dans République dominicaine, détectera pour la première fois le réseau Claro / Altice. Ainsi,
-        vous évitez le stress dès l'arrivée.
-    - q: Quels réseaux 5G/4G utilise l'eSIM pour République dominicaine et quelle est la couverture ?
-      a: L'eSIM pour République dominicaine fonctionne exclusivement avec Claro / Altice. Vous obtenez automatiquement le
-        meilleur réseau disponible (5G/4G/LTE) avec la meilleure couverture dans les villes, ainsi qu'en zone rurale et le
-        long des autoroutes.
-    - q: Puis-je continuer à recevoir des appels sur ma carte SIM domestique tout en utilisant l'eSIM pour République dominicaine
-        ?
-      a: Oui, les appareils double SIM permettent d'utiliser les deux profils simultanément. Il suffit de définir dans les
-        réglages l'eSIM Roami comme standard pour les données mobiles. Les appels et SMS passeront par votre carte SIM domestique
-        (l'itinérance peut être active).
-    - q: Puis-je transférer l'eSIM pour République dominicaine vers un autre appareil après installation ?
-      a: Une fois installée, l'eSIM ne peut pas être transférée vers un autre appareil. Veuillez installer l'eSIM sur l'appareil
-        que vous utiliserez pendant votre voyage. Pour des appareils supplémentaires, vous pouvez acheter des eSIM séparées.
-    - q: Comment fonctionne l'itinérance internationale avec l'eSIM pour République dominicaine dans les pays voisins ?
-      a: L'eSIM pour République dominicaine est principalement optimisée pour République dominicaine. Pour les voyages dans
-        les pays voisins, nous vous recommandons notre eSIM Europe ou régionale, qui offre une itinérance transparente sans
-        frais supplémentaires.
-    - q: Comment suivre ma consommation de données avec l'eSIM pour République dominicaine ?
-      a: Après activation, vous aurez accès à notre tableau de bord en ligne. Vous y verrez en temps réel votre solde de données,
-        la durée restante et pourrez demander de l'aide à tout moment.
-    - q: Proposez-vous une garantie de remboursement si l'eSIM pour République dominicaine ne fonctionne pas ?
-      a: Oui, nous offrons une garantie de remboursement à 100% dans les 7 jours suivant l'activation, si les problèmes techniques
-        ne peuvent être résolus par notre support 24h/24. Aucun risque pour vous.
-  - id: faq-airport
-    icon: plane
-    tab_title: Aéroports
-    title: 2.  eSIM République dominicaine à l'Aeroport
-    questions:
-    - q: Comment obtenir un réseau fiable dès mon arrivée ?
-      a: Installez l'eSIM pour République dominicaine avant votre départ. Dès que vous atterrissez dans des aéroports comme
-        Aéroport international Las Américas (Saint-Domingue), Aéroport international de Punta Cana, Aéroport international
-        du Cibao (Santiago), désactivez simplement le mode avion et activez l'eSIM. Elle se connectera au réseau local 4G/5G
-        en quelques secondes.
-    - q: Comment contacter ma prise en charge ou utiliser Uber/Grab ?
-      a: Après activation à l'arrivée, vous pourrez immédiatement utiliser des applications comme Uber, Uber Flash, Lyft (limité),
-        Indriver pour commander un trajet, ou WhatsApp pour contacter votre chauffeur, sans dépendre du Wi-Fi peu sûr de l'aéroport.
-    - q: Comment utiliser Google/Apple Maps pour trouver les transports ?
-      a: Avec les données de votre eSIM pour République dominicaine, vous pouvez, dès la sortie des bagages dans Aéroport
-        international Las Américas (Saint-Domingue), Aéroport international de Punta Cana, Aéroport international du Cibao
-        (Santiago), consulter les horaires des trains et bus en temps réel ou trouver le chemin vers le parking des taxis.
-    - q: Comment éviter les cartes SIM chères à l'aéroport ?
-      a: En achetant notre eSIM pour République dominicaine à l'avance en ligne, vous contournez totalement les kiosques de
-        vente de SIM chers dans la salle d'arrivée, économisant ainsi du temps et de l'argent.
-    - q: Comment recevoir les SMS de l'hôtel/location de voiture sans numéro local ?
-      a: Notre eSIM pour République dominicaine est un forfait données uniquement. Pour recevoir des SMS, laissez votre carte
-        SIM domestique active (la réception de SMS en itinérance est souvent gratuite) et utilisez l'eSIM pour tout le trafic
-        de données.
-    - q: Comment contacter immédiatement ma famille ?
-      a: Dès que vous atterrissez, vous pouvez utiliser iMessage, WhatsApp ou FaceTime via les données rapides de notre eSIM
-        pour République dominicaine pour dire à vos proches que vous êtes bien arrivé.
-  - id: faq-transport
-    icon: car
-    tab_title: Transport
-    title: 3.  eSIM République dominicaine pour le Transport
-    questions:
-    - q: Comment utiliser Google Maps pour planifier mon itinéraire ?
-      a: Notre connexion eSIM stable pour République dominicaine garantit que Google Maps peut charger les données de trafic
-        et les horaires en temps réel partout dans République dominicaine.
-    - q: Comment les chauffeurs Uber/Grab peuvent-ils me contacter via l'application ?
-      a: Les applications comme Uber, Uber Flash, Lyft (limité), Indriver utilisent la VoIP. Comme vos données eSIM pour République
-        dominicaine sont actives, les chauffeurs peuvent vous appeler via l'application ou envoyer des notifications sans
-        numéro local.
-    - q: Comment acheter des billets de train ou de métro en ligne ?
-      a: Utilisez les données de votre eSIM pour République dominicaine pour acheter des billets QR digitaux sur les applications
-        locales et éviter les longues files d'attente aux distributeurs.
-    - q: Comment utiliser Google Maps pour la navigation en temps réel dans une voiture de location ?
-      a: Fixez votre téléphone et utilisez l'eSIM pour République dominicaine. Un forfait de 5 Go ou 10 Go suffit pour une
-        navigation GPS intensive lors de votre voyage à travers République dominicaine.
-    - q: Comment scanner et déverrouiller des trottinettes électriques (Lime/Bird) ?
-      a: Le déverrouillage des trottinettes électriques nécessite une connexion Internet rapide. Notre eSIM pour République
-        dominicaine assure la couverture fiable nécessaire.
-    - q: Les applications de VTC fonctionnent-elles de manière transfrontalière ?
-      a: Oui, votre compte reste le même. Assurez-vous simplement d'avoir une connexion Internet active via notre eSIM locale
-        ou régionale.
-    - q: Comment configurer un point d'accès stable pour la famille ?
-      a: Activez simplement le « Point d'accès personnel » dans les réglages. Votre famille pourra se connecter à votre réseau
-        eSIM pour République dominicaine dans le train ou la voiture.
-  - id: faq-hotels
-    icon: hotel
-    tab_title: Hôtels
-    title: 4. Hôtels et hébergements
-    questions:
-    - q: Comment faire un auto-arrivée (self-check-in) après réservation ?
-      a: De nombreux hébergements modernes envoient les codes de serrures connectées par e-mail. Votre eSIM pour République
-        dominicaine garantit que vous pouvez recevoir ces détails juste devant la porte.
-    - q: Comment contacter le propriétaire Airbnb à mon arrivée ?
-      a: Utilisez la fonction de messagerie de l'application Airbnb ou WhatsApp pour convenir de l'heure d'arrivée, en utilisant
-        les données mobiles de l'eSIM pour République dominicaine.
-    - q: Comment utiliser Google Maps pour naviguer vers l'hôtel ?
-      a: Que vous séjourniez dans Hard Rock Hotel & Casino Punta Cana, Casa de Campo, Riu Republica, entrez l'adresse dans
-        Google Maps et utilisez la navigation de votre eSIM pour République dominicaine.
-    - q: Comment recevoir les codes SMS de confirmation ?
-      a: Laissez votre carte SIM domestique active pour les SMS et utilisez les données de l'eSIM pour République dominicaine
-        pour recevoir les codes par e-mail ou via l'application d'authentification.
-    - q: Comment contacter rapidement le support client ?
-      a: Utilisez des applications VoIP comme Skype ou la fonction de chat de l'application de réservation via les données
-        haut débit de votre eSIM pour République dominicaine.
-    - q: Comment commander de la nourriture via les applications locales de livraison ?
-      a: Téléchargez PedidosYa, Yummy, Wawa et utilisez les données de votre eSIM pour République dominicaine pour commander
-        un repas chaud directement dans le hall de l'hôtel.
-    - q: Comment rester en contact avec l'hôtel après le départ (checkout) ?
-      a: Une fois que vous quittez le Wi-Fi de l'hôtel, votre eSIM pour République dominicaine prend le relais pour que vous
-        puissiez envoyer un message à l'hôtel si vous avez oublié quelque chose.
-  - id: faq-attractions
-    icon: landmark
-    tab_title: Attractions
-    title: 5.  eSIM République dominicaine pour les Attractions
-    questions:
-    - q: Comment acheter des billets électroniques via GetYourGuide/Viator ?
-      a: Si vous souhaitez visiter spontanément Zone Coloniale de Saint-Domingue, Playa Bavaro, Parc National Los Haitises,
-        vous pouvez utiliser les données de votre eSIM pour République dominicaine pour acheter des billets en ligne et afficher
-        le code-barres directement sur place.
-    - q: Comment réserver des expériences sur Tripadvisor instantanément ?
-      a: Avec le 4G/5G fiable de votre eSIM pour République dominicaine, vous pouvez lire les avis et réserver des visites
-        locales tout en étant assis dans un café.
-    - q: Comment utiliser Wikipedia/Google pour obtenir des informations lors de la visite ?
-      a: Améliorez votre expérience culturelle en recherchant des faits historiques ou en traduisant des panneaux dans les
-        musées avec Google Traduction sur les données de l'eSIM pour République dominicaine.
-    - q: Comment trouver le chemin vers la prochaine attraction ?
-      a: Entrez la prochaine destination dans Google Maps ; la couverture puissante de votre eSIM pour République dominicaine
-        vous guidera par l'itinéraire le plus rapide.
-    - q: Comment vérifier les temps d'attente en temps réel dans les parcs d'attractions ?
-      a: Les applications des parcs d'attractions ont besoin d'Internet pour afficher les temps d'attente. Votre eSIM pour
-        République dominicaine vous maintient en ligne dans tout le parc.
-    - q: Comment accéder à Ticketmaster pour les billets de spectacle ?
-      a: Vous pouvez acheter des billets de dernière minute en toute sécurité via les applications de billetterie avec les
-        données de votre eSIM pour République dominicaine.
-    - q: Comment partager instantanément des photos/vidéos sur Instagram/TikTok ?
-      a: La vitesse de téléchargement élevée de l'eSIM pour République dominicaine vous permet de publier des reels et des
-        photos en temps réel, sans attendre le Wi-Fi de l'hôtel.
-  - id: faq-dining
-    icon: utensils
-    tab_title: Restaurants
-    title: 6. Nourriture et restaurants
-    questions:
-    - q: Comment trouver des restaurants via Google Maps/Tripadvisor ?
-      a: Utilisez votre eSIM pour République dominicaine pour rechercher des « restaurants à proximité » et consulter les
-        avis, horaires d'ouverture et photos des menus.
-    - q: Comment réserver une table en ligne ?
-      a: Assurez votre réservation via les plateformes en ligne en utilisant votre eSIM pour République dominicaine pendant
-        vos déplacements.
-    - q: Comment scanner les codes QR pour les menus numériques ?
-      a: De nombreux restaurants utilisent des menus numériques. Votre eSIM pour République dominicaine garantit que le code
-        sur la table se charge instantanément.
-    - q: Comment utiliser l'appareil photo Google Traduction pour les menus ?
-      a: Ouvrez l'application et pointez l'appareil photo vers le menu. La traduction en direct nécessite une connexion Internet
-        via votre eSIM pour République dominicaine.
-    - q: Comment utiliser les services de livraison locaux ?
-      a: Téléchargez les applications locales comme PedidosYa, Yummy, Wawa et commandez confortablement en utilisant les données
-        mobiles de votre eSIM pour République dominicaine.
-    - q: Comment payer avec Apple Pay/Google Pay ?
-      a: Les paiements sans contact ou les méthodes locales telles que Peso dominicain (DOP), Carte de crédit internationale,
-        PayPal nécessitent une brève validation Internet que votre eSIM pour République dominicaine exécute parfaitement.
-    - q: Comment trouver les endroits secrets recommandés par les blogueurs culinaires ?
-      a: Regardez des vlogs YouTube ou parcourez les avis sur Yelp avec les données de votre eSIM pour République dominicaine
-        pour découvrir des pépites culinaires.
-  - id: faq-social
-    icon: smartphone
-    tab_title: Réseaux sociaux
-    title: 7. Réseaux sociaux et communication
-    questions:
-    - q: Quelle quantite de donnees pour un voyage en République dominicaine?
-      a: Utilisateurs legers (cartes + messages) ~300Mo/jour, modere (reseaux sociaux + photos) ~700Mo/jour, intensif (streaming
-        + appels video) choisissez Illimite. La plupart des voyageurs trouvent 5Go/15 jours suffisants.
-    - q: Comment publier du contenu sur TikTok sans Wi-Fi public ?
-      a: Le Wi-Fi public est souvent lent et peu sûr. Notre 4G/5G eSIM pour République dominicaine offre la bande passante
-        nécessaire pour des téléchargements rapides.
-    - q: Comment passer des appels vidéo avec ma famille ?
-      a: Nos partenariats réseau garantissent que les appels vidéo via l'eSIM pour République dominicaine sont clairs et sans
-        latence, où que vous soyez dans le pays.
-    - q: Est-il sûr de se connecter aux réseaux sociaux via le Wi-Fi public ?
-      a: Le Wi-Fi public est vulnérable aux pirates. Utiliser vos propres données eSIM pour République dominicaine est chiffré
-        et bien plus sûr.
-    - q: Comment partager la connexion en point d'accès avec des compagnons de voyage ?
-      a: Activez la fonction point d'accès. Vos amis pourront se connecter et utiliser votre trafic eSIM pour République dominicaine
-        pour leurs réseaux sociaux.
-  - id: faq-crossborder
-    icon: globe
-    tab_title: Voyages transfrontaliers
-    title: 8.  eSIM République dominicaine pour les Voyages Frontaliers
-    questions:
-    - q: Ai-je besoin d'une nouvelle carte SIM pour chaque pays ?
-      a: L'eSIM pour un seul pays République dominicaine ne fonctionne que là-bas. Pour les voyages multi-pays, nous vous
-        recommandons nos eSIM régionales (par exemple eSIM Europe).
-    - q: Comment éviter les frais d'itinérance lors d'un voyage en train traversant les frontières ?
-      a: Désactivez l'« Itinérance des données » sur votre carte SIM domestique. Assurez-vous que l'eSIM pour République dominicaine
-        est définie comme principale pour les données.
-    - q: Comment obtenir Internet lors d'une escale à Singapour/Dubaï ?
-      a: Vous pouvez acheter une eSIM à faible coût de 1 Go pour le pays de transit afin de rester en ligne pendant votre
-        attente.
-    - q: Comment obtenir Internet en croisière ?
-      a: Au lieu de payer le Wi-Fi cher du navire, activez une eSIM locale pour les pays que vous visitez. Elle se connectera
-        dès que vous vous approcherez de la terre.
-    - q: Comment Google Maps reste-t-il en ligne lors des road trips ?
-      a: Avec une eSIM régionale, votre téléphone basculera automatiquement sur le réseau du nouveau pays lorsque vous traverserez
-        la frontière, gardant le GPS actif.
-    - q: Comment gérer les données pour plusieurs pays dans une seule application ?
-      a: Vous pouvez suivre la consommation de données de toutes vos eSIM actives via notre tableau de bord en ligne sur le
-        site web.
-    - q: Comment rester connecté lors de voyages dans plusieurs pays ?
-      a: Comme WhatsApp/iMessage fonctionnent via les données, une eSIM régionale garantit que vous restez joignable sous
-        le même numéro de téléphone.
-  - id: faq-emergency
-    icon: alert-triangle
-    tab_title: Urgences
-    title: 9.  eSIM République dominicaine pour les Urgences
-    questions:
-    - q: Comment composer les numéros d'urgence locaux ?
-      a: 'Dans République dominicaine, vous pouvez composer des numéros d''urgence tels que Police : 911, Urgences médicales
-        : 911, Pompiers : 911 directement si votre téléphone capte un signal cellulaire.'
-    - q: Comment trouver l'hôpital le plus proche ?
-      a: Les données de votre eSIM pour République dominicaine vous permettent de rechercher instantanément « pharmacie »
-        ou « hôpital » dans Google Maps et de calculer l'itinéraire le plus rapide.
-    - q: Comment trouver les informations de l'ambassade en cas de perte de passeport ?
-      a: Utilisez l'eSIM pour République dominicaine pour trouver rapidement l'adresse et le numéro de contact de votre ambassade.
-    - q: Comment contacter mon assurance en cas d'accident ?
-      a: Utilisez des applications VoIP comme Skype via les données de l'eSIM pour République dominicaine pour appeler les
-        lignes d'assistance de votre assurance.
-    - q: Comment partager ma position en temps réel ?
-      a: Utilisez « Partager ma position » dans WhatsApp ou Apple « Où suis-je ? » pour envoyer des coordonnées via les données
-        de l'eSIM pour République dominicaine.
-    - q: Comment télécharger des cartes hors ligne pour les zones reculées ?
-      a: En utilisant la couverture urbaine de l'eSIM pour République dominicaine, téléchargez des cartes hors ligne dans
-        Google Maps avant de vous rendre dans des zones sans signal.
-  - id: faq-business
-    icon: briefcase
-    tab_title: Affaires
-    title: 10.  eSIM République dominicaine pour les Voyages d'Affaires
-    questions:
-    - q: Comment garantir des réunions stables sur Zoom/Teams ?
-      a: Notre eSIM pour République dominicaine se connecte à des réseaux premium, fournissant la bande passante et la faible
-        latence nécessaires pour les visioconférences professionnelles.
-    - q: Comment me connecter en toute sécurité au VPN de mon entreprise ?
-      a: Nos données ne restreignent pas les protocoles VPN. Vous pouvez exécuter en toute sécurité le VPN de votre entreprise
-        via le réseau de l'eSIM pour République dominicaine.
-    - q: Comment utiliser le point d'accès pour mon ordinateur portable dans un café ?
-      a: Activez le point d'accès. Utiliser votre eSIM pour République dominicaine est nettement plus rapide et plus sûr contre
-        les cybermenaces que le Wi-Fi ouvert.
-    - q: Comment recevoir les codes 2FA pour ma messagerie professionnelle ?
-      a: Laissez votre carte SIM domestique active pour les SMS et utilisez les données de l'eSIM pour République dominicaine
-        pour les codes reçus par e-mail.
-    - q: Comment télécharger de gros fichiers lors de réunions avec des clients ?
-      a: Les vitesses 5G/4G-LTE de votre eSIM pour République dominicaine vous permettent de télécharger rapidement des présentations
-        vers le cloud.
-    - q: Comment utiliser Slack/Gmail sans interruption pour collaborer ?
-      a: Votre eSIM pour République dominicaine fournit une connexion constante, vous recevez donc instantanément les messages
-        Slack et les e-mails.
-    - q: Comment mettre à jour les plans de voyage pour l'entreprise en ligne ?
-      a: Accédez aux portails de l'entreprise via l'eSIM pour République dominicaine en déplacement pour informer les RH des
-        retards de vol.
+    - q: |
+        Y a-t-il des frais cachés avec l'eSIM Roami pour République dominicaine?
+      a: |
+        Non — le prix affiché est le prix final, sans aucune taxe ajoutée ni frais de dossier. Les forfaits commencent à $1.99 (7 jours, 1GB). Le forfait 5GB ($9.99) n'a pas de surprise. Pas de renouvellement automatique, pas de frais d'activation: le forfait s'arrête simplement à la date d'expiration.
+    - q: |
+        Que faire si mon eSIM République dominicaine ne fonctionne pas à l'arrivée?
+      a: |
+        Trois vérifications simples, chacune prenant moins de 30 secondes: 1) L'itinérance des données est-elle activée dans les réglages? 2) Essayez une sélection manuelle du réseau: choisissez Claro dans la liste. 3) Redémarrez votre téléphone. Environ 90% des problèmes se résolvent avec l'une de ces étapes. Si le problème persiste, le support Roami est disponible 24h/7j par chat.
+    - q: |
+        Puis-je recharger mon forfait eSIM République dominicaine depuis l'étranger?
+      a: |
+        Oui — la recharge se fait directement depuis l'application Roami, où que vous soyez. Le nouveau forfait est activé instantanément, sans nouveau QR code ni réinstallation. Nous recommandons de recharger lorsque vous atteignez 20% de données restantes. Roami vous envoie une notification à 70% et 90% de consommation.
+    - q: |
+        Netflix et Spotify fonctionnent-ils avec l'eSIM République dominicaine?
+      a: |
+        Oui — le streaming passe par la connexion eSIM sans restriction. Netflix en HD consomme environ 1GB par heure, Spotify 50-100MB par heure. Avec un forfait 5GB ($9.99), vous pouvez regarder environ 5 heures de Netflix en HD ou écouter 50 heures de musique. Pour les gros consommateurs de streaming, le forfait illimité ($59.99) est plus adapté. Alternative: téléchargez vos contenus en WiFi avant de partir.
+    - q: |
+        Puis-je recevoir les SMS de vérification bancaire avec eSIM République dominicaine?
+      a: |
+        Oui — conservez votre carte SIM française dans le slot 1 pour recevoir les SMS (codes 2FA, validation bancaire). Les frais de réception de SMS à l'étranger sont d'environ $0.50 par message, bien moins que les données en itinérance. L'eSIM en slot 2 gère toutes les données. Cette configuration dual-SIM est supportée par 80% des téléphones depuis 2020.
+    - q: |
+        Les cartes SIM vendues à l'aéroport de République dominicaine sont-elles moins chères?
+      a: |
+        Non — elles sont généralement 30-50% plus chères que l'eSIM Roami, sans compter le temps d'attente aux kiosques. À l'aéroport, vous devez faire la queue, présenter votre passeport et parfois fournir une adresse locale. Avec Roami, vous achetez en ligne en 2 minutes, le QR code arrive par email, et vous gardez votre SIM française active.
+    - q: |
+        Quelle est la façon la plus simple de rester connecté à République dominicaine?
+      a: |
+        L'eSIM Roami est la solution la plus simple: achetez en ligne à partir de $1.99, recevez le QR code par email en 5 minutes, installez en 2 minutes. Pas de file d'attente à l'aéroport, pas de passeport à présenter, pas de carte SIM à insérer. Votre numéro français reste actif pour les SMS, et vous êtes connecté dès l'arrivée en activant l'itinérance.
+    - q: |
+        Combien de profils eSIM puis-je stocker sur mon téléphone pour République dominicaine?
+      a: |
+        La plupart des téléphones modernes stockent 5 à 10 profils eSIM. Vous pouvez conserver votre eSIM République dominicaine en parallèle de votre carte SIM française et de plusieurs autres profils internationaux. Le passage d'un profil à l'autre prend environ 10 secondes dans les réglages. Idéal pour les voyageurs multi-destinations.
 related_products:
   title: Forfaits eSIM similaires
   items:
