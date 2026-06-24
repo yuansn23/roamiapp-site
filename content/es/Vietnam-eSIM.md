@@ -385,10 +385,11 @@ faq_section:
         automáticamente la mejor red disponible (5G/4G/LTE) con la mejor cobertura
         en ciudades, así como en zonas rurales y a lo largo de las carreteras.
     - q: ¿Puedo conservar mi número de teléfono mientras uso la eSIM para Vietnam?
-      a: 'La eSIM Roami es exclusivamente una tarjeta de datos. Puedes usar tu tarjeta
-        SIM doméstica en paralelo (por ejemplo, para llamadas/SMS). La mayoría de
-        los teléfonos dual SIM manejan ambos perfiles: solo selecciona la eSIM Roami
-        como estándar para datos móviles.'
+      a: |
+        La eSIM Roami para Vietnam es solo de datos, no incluye un numero de telefono local.
+        Pero puedes mantener tu SIM fisica activa en modo dual SIM para recibir llamadas y SMS mientras usas los datos de Roami.
+        Configura la eSIM Roami para datos moviles y tu SIM habitual para llamadas y SMS.
+        Asi sigues recibiendo verificaciones bancarias y mensajes de tu operador, sin pagar roaming de datos que es lo mas caro.
     - q: ¿Puedo usar la eSIM para Vietnam como punto de acceso para otros dispositivos?
       a: Sí, todos los planes Roami eSIM para Vietnam admiten compartir conexión ilimitado
         (punto de acceso). Puedes compartir la conexión con una computadora portátil,
@@ -399,9 +400,11 @@ faq_section:
         entre ciudades o giras por varios países — sin cambiar de tarjeta SIM.
         Roami ofrece datos 5G de alta velocidad (100 a 300 Mbps) desde $1.99/GB. El plan de 5GB/15 dias por $9.99 es el mas elegido por viajeros.
     - q: ¿Ofrecen garantía de reembolso si la eSIM para Vietnam no funciona?
-      a: Sí, ofrecemos una garantía de reembolso del 100% en los 7 días posteriores
-        a la activación, si los problemas técnicos no pueden resolverse con nuestro
-        soporte 24/7. Sin riesgo para ti.
+      a: |
+        Ofrecemos garantia de reembolso del 100% en los primeros 7 dias desde la compra, si la eSIM para Vietnam no funciona en tu dispositivo o tienes problemas de compatibilidad.
+        Simplemente contacta a nuestro soporte 24/7 en espanol y procesamos tu reembolso.
+        Esto cubre problemas tecnicos, no aplica si ya activaste el plan en Vietnam y la cobertura de red es la esperada.
+        Revisa la pagina de cobertura antes de comprar para asegurarte de que tu destino en Vietnam tiene buena recepcion.
     - q: ¿Roami ofrece planes ilimitados para Vietnam? ¿Hay política de uso justo
         (FUP)?
       a: Roami ofrece planes verdaderamente ilimitados para Vietnam. La política de
@@ -410,16 +413,25 @@ faq_section:
         videollamadas y GPS no están limitados.
     - q: ¿Cuáles son las ventajas de la eSIM Roami frente a las tarjetas SIM prepago
         locales en Vietnam?
-      a: A diferencia de las tarjetas SIM prepago locales, no necesitas ir a una tienda,
-        pasar por verificación de identidad (KYC) o buscar una tarjeta de recarga
-        adecuada. Con Roami, activas tu eSIM digitalmente en menos de 2 minutos —
-        sin hacer cola en el aeropuerto.
+      a: |
+        A diferencia de las tarjetas SIM prepago locales de Vietnam, con Roami no necesitas ir a una tienda fisica, mostrar tu pasaporte ni buscar una tarjeta de recarga.
+        Activas tu eSIM digitalmente en menos de 2 minutos desde cualquier lugar del mundo.
+        Llegas a Vietnam con internet desde el momento del aterrizaje, sin colas en el aeropuerto.
+        Ademas, los precios de Roami suelen ser 30-50% mas baratos que las SIM turisticas disponibles en tiendas del aeropuerto.
     - q: ¿Puedo comprar e instalar la eSIM para Vietnam antes de mi viaje y activarla más tarde?
-      a: Sí, puedes instalar la eSIM ahora (a través de Wi-Fi). La activación se realizará
-        automáticamente cuando tu teléfono, una vez en Vietnam, detecte por primera
-        vez la red Viettel / Mobifone. Así evitas el estrés desde la llegada.
+      a: |
+        Si, puedes instalar la eSIM para Vietnam en segundos desde tu casa, antes de salir de viaje.
+        La activacion se producira automaticamente al llegar a Vietnam, cuando tu telefono se conecte a la red local por primera vez.
+        Esto significa que llegas con internet desde el momento del aterrizaje, sin buscar WiFi ni pagar roaming de emergencia.
+        Recomendamos instalarla con WiFi en casa y mantenerla desactivada hasta el viaje.
+        La validez del plan comienza al activarse, no al instalarse, asi que no pierdes tiempo.
     - q: ¿Qué requisitos debe cumplir mi teléfono para usar la eSIM para Vietnam?
-      a: Tu dispositivo debe ser compatible con eSIM (iPhone XS/XR o posterior, Samsung
+      a: |
+        Necesitas un telefono compatible con eSIM (iPhone XS/XR+, Samsung S20+, Pixel 3a+) y que no este bloqueado por un operador.
+        Para la eSIM de Vietnam, no se requiere pasaporte ni registro de direccion local.
+        Revisa en Ajustes > Datos Moviles si aparece la opcion 'Agregar eSIM'.
+        Si tu telefono es de empresa o esta bloqueado, consulta con tu operador antes de comprar.
+        Roami funciona en todos los iPhone desde XS/XR y en la mayoria de Android 2019 en adelante.
         Galaxy S20/Note20 o posterior, Google Pixel 3a o posterior, así como la mayoría
         de los teléfonos 5G modernos Huawei, Xiaomi, OnePlus). Verifica en los ajustes
         si la opción 'Agregar eSIM' está disponible.

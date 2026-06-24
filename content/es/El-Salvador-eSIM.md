@@ -293,16 +293,18 @@ faq_section:
         automáticamente la mejor red disponible (5G/4G/LTE) con la mejor cobertura
         en ciudades, así como en zonas rurales y a lo largo de las carreteras.
     - q: ¿Puedo conservar mi número de teléfono mientras uso la eSIM para El Salvador?
-      a: 'La eSIM Roami es exclusivamente una tarjeta de datos. Puedes usar tu tarjeta
-        SIM doméstica en paralelo (por ejemplo, para llamadas/SMS). La mayoría de
-        los teléfonos dual SIM manejan ambos perfiles: solo selecciona la eSIM Roami
-        como estándar para datos móviles.'
+      a: |
+        La eSIM Roami para El Salvador es solo de datos, no incluye un numero de telefono local.
+        Pero puedes mantener tu SIM fisica activa en modo dual SIM para recibir llamadas y SMS mientras usas los datos de Roami.
+        Configura la eSIM Roami para datos moviles y tu SIM habitual para llamadas y SMS.
+        Asi sigues recibiendo verificaciones bancarias y mensajes de tu operador, sin pagar roaming de datos que es lo mas caro.
     - q: ¿Cuáles son las ventajas de la eSIM Roami frente a las tarjetas SIM prepago
         locales en El Salvador?
-      a: A diferencia de las tarjetas SIM prepago locales, no necesitas ir a una tienda,
-        pasar por verificación de identidad (KYC) o buscar una tarjeta de recarga
-        adecuada. Con Roami, activas tu eSIM digitalmente en menos de 2 minutos —
-        sin hacer cola en el aeropuerto.
+      a: |
+        A diferencia de las tarjetas SIM prepago locales de El Salvador, con Roami no necesitas ir a una tienda fisica, mostrar tu pasaporte ni buscar una tarjeta de recarga.
+        Activas tu eSIM digitalmente en menos de 2 minutos desde cualquier lugar del mundo.
+        Llegas a El Salvador con internet desde el momento del aterrizaje, sin colas en el aeropuerto.
+        Ademas, los precios de Roami suelen ser 30-50% mas baratos que las SIM turisticas disponibles en tiendas del aeropuerto.
     - q: ¿Roami ofrece planes ilimitados para El Salvador? ¿Hay política de uso justo
         (FUP)?
       a: Roami ofrece planes verdaderamente ilimitados para El Salvador. La política
@@ -316,18 +318,24 @@ faq_section:
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
     - q: ¿Puedo instalar la eSIM para El Salvador antes de mi viaje y activarla más
         tarde?
-      a: Sí, puedes instalar la eSIM ahora (a través de Wi-Fi). La activación se realizará
-        automáticamente cuando tu teléfono, una vez en El Salvador, detecte por primera
-        vez la red Tigo / Claro. Así evitas el estrés desde la llegada.
+      a: |
+        Si, puedes instalar la eSIM para El Salvador en segundos desde tu casa, antes de salir de viaje.
+        La activacion se producira automaticamente al llegar a El Salvador, cuando tu telefono se conecte a la red local por primera vez.
+        Esto significa que llegas con internet desde el momento del aterrizaje, sin buscar WiFi ni pagar roaming de emergencia.
+        Recomendamos instalarla con WiFi en casa y mantenerla desactivada hasta el viaje.
+        La validez del plan comienza al activarse, no al instalarse, asi que no pierdes tiempo.
     - q: ¿Mi teléfono es compatible con eSIM para El Salvador y cómo instalarlo?
       a: Sí, la mayoría de los teléfonos modernos (iPhone XS/XR o posterior, Samsung
         Galaxy S20+/Note20+, Google Pixel 3a+) son compatibles con eSIM. Instalas
         la eSIM para El Salvador escaneando el código QR en los ajustes móviles. Las
         redes Tigo / Claro ofrecen una excelente cobertura 5G/4G en El Salvador.
     - q: ¿Cómo seguir mi consumo de datos con la eSIM para El Salvador?
-      a: Después de la activación, tendrás acceso a nuestro panel en línea. Allí verás
-        en tiempo real tu saldo de datos, el tiempo restante y podrás solicitar ayuda
-        en cualquier momento.
+      a: |
+        Puedes seguir tu consumo de datos en tiempo real desde el panel de control de Roami, accesible via web o app.
+        Alli veras cuantos GB has usado, cuantos te quedan y los dias restantes de tu plan para El Salvador.
+        Tambien recibes alertas por correo cuando te acerques al limite.
+        Si te quedas sin datos, puedes recargar mas GB directamente desde el panel, sin necesidad de comprar un plan nuevo ni cambiar de eSIM.
+        Asi evitas quedarte sin internet en medio del viaje.
     - q: ¿Cómo funciona el roaming internacional con la eSIM para El Salvador en países
         vecinos?
       a: La eSIM para El Salvador está optimizada principalmente para El Salvador.

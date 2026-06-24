@@ -256,27 +256,32 @@ faq_section:
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
     - q: ¿La eSIM para Maldivas es más segura que una tarjeta SIM física?
-      a: Las eSIM están más protegidas contra accesos no autorizados porque están
-        integradas en el dispositivo y no pueden extraerse ni copiarse. Tus datos
-        permanecen cifrados — sin riesgo de tarjeta SIM perdida o robada.
+      a: |
+        Las eSIM son mas seguras que las SIM fisicas porque estan integradas en el dispositivo y no pueden extraerse ni clonarse.
+        Al viajar a Maldivas, no necesitas mostrar tu pasaporte ni registrar una direccion local como exigen muchos operadores.
+        Mantienes tu SIM principal activa para recibir SMS de tu banco o verificaciones 2FA.
+        Si pierdes el telefono, la eSIM no se puede sacar ni usar en otro dispositivo, a diferencia de una SIM fisica que cualquiera puede sacar y poner en su movil.
     - q: ¿Qué redes 5G/4G utiliza la eSIM para Maldivas y cuál es la cobertura?
       a: La eSIM para Maldivas funciona exclusivamente con Dhiraagu / Ooredoo. Obtienes
         automáticamente la mejor red disponible (5G/4G/LTE) con la mejor cobertura
         en ciudades, así como en zonas rurales y a lo largo de las carreteras.
     - q: ¿La eSIM para Maldivas admite VoLTE y llamadas de voz HD?
-      a: Sí, la eSIM para Maldivas admite VoLTE y voz HD si tu dispositivo lo permite.
-        Disfruta de una calidad de llamada nítida a través de la red 5G/4G de Dhiraagu
-        / Ooredoo.
+      a: |
+        Si, la eSIM para Maldivas admite VoLTE y voz HD si tu dispositivo lo permite.
+        Puedes usar la eSIM para datos mientras mantienes tu SIM fisica para llamadas en modo dual SIM.
+        Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
+        La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Maldivas.
     - q: ¿Cuál es la validez del código QR para la eSIM para Maldivas?
       a: El código QR es válido durante 30 días después de su envío a tu correo electrónico.
         Tienes suficiente tiempo para instalar la eSIM antes de tu viaje. Pasado ese
         plazo, podemos proporcionarte un nuevo código.
     - q: ¿Cuáles son las ventajas de la eSIM Roami frente a las tarjetas SIM prepago
         locales en Maldivas?
-      a: A diferencia de las tarjetas SIM prepago locales, no necesitas ir a una tienda,
-        pasar por verificación de identidad (KYC) o buscar una tarjeta de recarga
-        adecuada. Con Roami, activas tu eSIM digitalmente en menos de 2 minutos —
-        sin hacer cola en el aeropuerto.
+      a: |
+        A diferencia de las tarjetas SIM prepago locales de Maldivas, con Roami no necesitas ir a una tienda fisica, mostrar tu pasaporte ni buscar una tarjeta de recarga.
+        Activas tu eSIM digitalmente en menos de 2 minutos desde cualquier lugar del mundo.
+        Llegas a Maldivas con internet desde el momento del aterrizaje, sin colas en el aeropuerto.
+        Ademas, los precios de Roami suelen ser 30-50% mas baratos que las SIM turisticas disponibles en tiendas del aeropuerto.
     - q: ¿Cómo funciona el roaming internacional con la eSIM para Maldivas en países
         vecinos?
       a: La eSIM para Maldivas está optimizada principalmente para Maldivas. Para

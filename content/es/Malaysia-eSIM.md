@@ -390,24 +390,31 @@ faq_section:
         Tienes suficiente tiempo para instalar la eSIM antes de tu viaje. Pasado ese
         plazo, podemos proporcionarte un nuevo código.
     - q: ¿La eSIM para Malasia admite VoLTE y llamadas de voz HD?
-      a: Sí, la eSIM para Malasia admite VoLTE y voz HD si tu dispositivo lo permite.
-        Disfruta de una calidad de llamada nítida a través de la red 5G/4G de Celcom
-        / Maxis.
+      a: |
+        Si, la eSIM para Malasia admite VoLTE y voz HD si tu dispositivo lo permite.
+        Puedes usar la eSIM para datos mientras mantienes tu SIM fisica para llamadas en modo dual SIM.
+        Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
+        La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Malasia.
     - q: ¿Ofrecen garantía de reembolso si la eSIM para Malasia no funciona?
-      a: Sí, ofrecemos una garantía de reembolso del 100% en los 7 días posteriores
-        a la activación, si los problemas técnicos no pueden resolverse con nuestro
-        soporte 24/7. Sin riesgo para ti.
+      a: |
+        Ofrecemos garantia de reembolso del 100% en los primeros 7 dias desde la compra, si la eSIM para Malasia no funciona en tu dispositivo o tienes problemas de compatibilidad.
+        Simplemente contacta a nuestro soporte 24/7 en espanol y procesamos tu reembolso.
+        Esto cubre problemas tecnicos, no aplica si ya activaste el plan en Malasia y la cobertura de red es la esperada.
+        Revisa la pagina de cobertura antes de comprar para asegurarte de que tu destino en Malasia tiene buena recepcion.
     - q: ¿Puedo seguir recibiendo llamadas en mi tarjeta SIM doméstica mientras uso
         la eSIM para Malasia?
-      a: Sí, los dispositivos dual SIM permiten usar ambos perfiles simultáneamente.
-        Solo configura en los ajustes la eSIM Roami como estándar para datos móviles.
-        Las llamadas y SMS pasarán por tu tarjeta SIM doméstica (el roaming puede
-        estar activo).
+      a: |
+        Si, la eSIM para Malasia admite VoLTE y voz HD si tu dispositivo lo permite.
+        Puedes usar la eSIM para datos mientras mantienes tu SIM fisica para llamadas en modo dual SIM.
+        Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
+        La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Malasia.
     - q: ¿Qué requisitos debe cumplir mi teléfono para usar la eSIM para Malasia?
-      a: Tu dispositivo debe ser compatible con eSIM (iPhone XS/XR o posterior, Samsung
-        Galaxy S20/Note20 o posterior, Google Pixel 3a o posterior, así como la mayoría
-        de los teléfonos 5G modernos Huawei, Xiaomi, OnePlus). Verifica en los ajustes
-        si la opción 'Agregar eSIM' está disponible.
+      a: |
+        Necesitas un telefono compatible con eSIM (iPhone XS/XR+, Samsung S20+, Pixel 3a+) y que no este bloqueado por un operador.
+        Para la eSIM de Malasia, no se requiere pasaporte ni registro de direccion local.
+        Revisa en Ajustes > Datos Moviles si aparece la opcion 'Agregar eSIM'.
+        Si tu telefono es de empresa o esta bloqueado, consulta con tu operador antes de comprar.
+        Roami funciona en todos los iPhone desde XS/XR y en la mayoria de Android 2019 en adelante.
     - q: ¿Cómo funciona el roaming internacional con la eSIM para Malasia en países
         vecinos?
       a: La eSIM para Malasia está optimizada principalmente para Malasia. Para viajes
@@ -423,10 +430,12 @@ faq_section:
         El código QR es el método más rápido y sencillo.
     - q: ¿Cuáles son las ventajas de la eSIM Roami frente a las tarjetas SIM prepago
         locales en Malasia?
-      a: A diferencia de las tarjetas SIM prepago locales, no necesitas ir a una tienda,
-        pasar por verificación de identidad (KYC) o buscar una tarjeta de recarga
-        adecuada. Con Roami, activas tu eSIM digitalmente en menos de 2 minutos —
-        sin hacer cola en el aeropuerto.
+      a: |
+        A diferencia de las tarjetas SIM prepago locales de Malasia, con Roami no necesitas ir a una tienda fisica, mostrar tu pasaporte ni buscar una tarjeta de recarga.
+        Activas tu eSIM digitalmente en menos de 2 minutos desde cualquier lugar del mundo.
+        Llegas a Malasia con internet desde el momento del aterrizaje, sin colas en el aeropuerto.
+        Ademas, los precios de Roami suelen ser 30-50% mas baratos que las SIM turisticas disponibles en tiendas del aeropuerto.
+
     - q: ¿Mi teléfono es compatible con eSIM para Malasia y cómo instalarlo?
       a: Sí, la mayoría de los teléfonos modernos (iPhone XS/XR o posterior, Samsung
         Galaxy S20+/Note20+, Google Pixel 3a+) son compatibles con eSIM. Instalas

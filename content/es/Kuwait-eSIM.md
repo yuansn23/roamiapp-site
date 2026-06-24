@@ -363,20 +363,23 @@ faq_section:
         plazo, podemos proporcionarte un nuevo código.
     - q: ¿Cuáles son las ventajas de la eSIM Roami frente a las tarjetas SIM prepago
         locales en Kuwait?
-      a: A diferencia de las tarjetas SIM prepago locales, no necesitas ir a una tienda,
-        pasar por verificación de identidad (KYC) o buscar una tarjeta de recarga
-        adecuada. Con Roami, activas tu eSIM digitalmente en menos de 2 minutos —
-        sin hacer cola en el aeropuerto.
+      a: |
+        A diferencia de las tarjetas SIM prepago locales de Kuwait, con Roami no necesitas ir a una tienda fisica, mostrar tu pasaporte ni buscar una tarjeta de recarga.
+        Activas tu eSIM digitalmente en menos de 2 minutos desde cualquier lugar del mundo.
+        Llegas a Kuwait con internet desde el momento del aterrizaje, sin colas en el aeropuerto.
+        Ademas, los precios de Roami suelen ser 30-50% mas baratos que las SIM turisticas disponibles en tiendas del aeropuerto.
     - q: ¿Mi teléfono es compatible con eSIM para Kuwait y cómo instalarlo?
       a: Sí, la mayoría de los teléfonos modernos (iPhone XS/XR o posterior, Samsung
         Galaxy S20+/Note20+, Google Pixel 3a+) son compatibles con eSIM. Instalas
         la eSIM para Kuwait escaneando el código QR en los ajustes móviles. Las redes
         Zain / Ooredoo ofrecen una excelente cobertura 5G/4G en Kuwait.
     - q: ¿Cómo activar la eSIM para Kuwait y cuándo comienza el período de validez?
-      a: Después de la compra, recibes inmediatamente un código QR de activación por
-        correo electrónico. La validez comienza solo cuando tu teléfono se conecta
-        por primera vez a una de nuestras redes asociadas (Zain / Ooredoo) en Kuwait.
-        Así, solo pagas por los días que realmente estás en el país.
+      a: |
+        Al comprar, recibes al instante un codigo QR por correo electronico.
+        Instalas la eSIM escaneando el QR en Ajustes > Datos Moviles > Agregar eSIM.
+        La validez del plan comienza SOLO cuando llegas a Kuwait y activas la eSIM conectandote a la red local por primera vez.
+        Puedes instalar la eSIM semanas antes del viaje sin que el tiempo corra.
+        El codigo QR es valido por 30 dias, asi que tienes tiempo de sobra para preparar todo.
     - q: ¿Roami ofrece planes ilimitados para Kuwait? ¿Hay política de uso justo (FUP)?
       a: Roami ofrece planes verdaderamente ilimitados para Kuwait. La política de
         uso justo solo se aplica en caso de consumo extremo (por ejemplo, transmisión
@@ -396,7 +399,11 @@ faq_section:
         (punto de acceso). Puedes compartir la conexión con una computadora portátil,
         tableta o tus compañeros de viaje — sin cargos ocultos ni reducción de velocidad.
     - q: ¿Puedo conservar mi número de teléfono mientras uso la eSIM para Kuwait?
-      a: 'La eSIM Roami es exclusivamente una tarjeta de datos. Puedes usar tu tarjeta
+      a: |
+        La eSIM Roami para Kuwait es solo de datos, no incluye un numero de telefono local.
+        Pero puedes mantener tu SIM fisica activa en modo dual SIM para recibir llamadas y SMS mientras usas los datos de Roami.
+        Configura la eSIM Roami para datos moviles y tu SIM habitual para llamadas y SMS.
+        Asi sigues recibiendo verificaciones bancarias y mensajes de tu operador, sin pagar roaming de datos que es lo mas caro.
         SIM doméstica en paralelo (por ejemplo, para llamadas/SMS). La mayoría de
         los teléfonos dual SIM manejan ambos perfiles: solo selecciona la eSIM Roami
         como estándar para datos móviles.'

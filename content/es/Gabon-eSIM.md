@@ -287,18 +287,25 @@ faq_section:
     title: Preguntas generales
     questions:
     - q: ¿La eSIM para Gabón es más segura que una tarjeta SIM física?
-      a: Las eSIM están más protegidas contra accesos no autorizados porque están
-        integradas en el dispositivo y no pueden extraerse ni copiarse. Tus datos
-        permanecen cifrados — sin riesgo de tarjeta SIM perdida o robada.
+      a: |
+        Las eSIM son mas seguras que las SIM fisicas porque estan integradas en el dispositivo y no pueden extraerse ni clonarse.
+        Al viajar a Gabin, no necesitas mostrar tu pasaporte ni registrar una direccion local como exigen muchos operadores.
+        Mantienes tu SIM principal activa para recibir SMS de tu banco o verificaciones 2FA.
+        Si pierdes el telefono, la eSIM no se puede sacar ni usar en otro dispositivo, a diferencia de una SIM fisica que cualquiera puede sacar y poner en su movil.
     - q: ¿Qué requisitos debe cumplir mi teléfono para usar la eSIM para Gabón?
-      a: Tu dispositivo debe ser compatible con eSIM (iPhone XS/XR o posterior, Samsung
-        Galaxy S20/Note20 o posterior, Google Pixel 3a o posterior, así como la mayoría
-        de los teléfonos 5G modernos Huawei, Xiaomi, OnePlus). Verifica en los ajustes
-        si la opción 'Agregar eSIM' está disponible.
+      a: |
+        Necesitas un telefono compatible con eSIM (iPhone XS/XR+, Samsung S20+, Pixel 3a+) y que no este bloqueado por un operador.
+        Para la eSIM de Gabin, no se requiere pasaporte ni registro de direccion local.
+        Revisa en Ajustes > Datos Moviles si aparece la opcion 'Agregar eSIM'.
+        Si tu telefono es de empresa o esta bloqueado, consulta con tu operador antes de comprar.
+        Roami funciona en todos los iPhone desde XS/XR y en la mayoria de Android 2019 en adelante.
     - q: ¿Puedo instalar la eSIM para Gabón antes de mi viaje y activarla más tarde?
-      a: Sí, puedes instalar la eSIM ahora (a través de Wi-Fi). La activación se realizará
-        automáticamente cuando tu teléfono, una vez en Gabón, detecte por primera
-        vez la red Airtel / Moov. Así evitas el estrés desde la llegada.
+      a: |
+        Si, puedes instalar la eSIM para Gabin en segundos desde tu casa, antes de salir de viaje.
+        La activacion se producira automaticamente al llegar a Gabin, cuando tu telefono se conecte a la red local por primera vez.
+        Esto significa que llegas con internet desde el momento del aterrizaje, sin buscar WiFi ni pagar roaming de emergencia.
+        Recomendamos instalarla con WiFi en casa y mantenerla desactivada hasta el viaje.
+        La validez del plan comienza al activarse, no al instalarse, asi que no pierdes tiempo.
     - q: ¿Roami ofrece planes ilimitados para Gabón? ¿Hay política de uso justo (FUP)?
       a: Roami ofrece planes verdaderamente ilimitados para Gabón. La política de
         uso justo solo se aplica en caso de consumo extremo (por ejemplo, transmisión
@@ -314,9 +321,13 @@ faq_section:
         la mejor red disponible (5G/4G/LTE) con la mejor cobertura en ciudades, así
         como en zonas rurales y a lo largo de las carreteras.
     - q: ¿Puedo transferir la eSIM para Gabón a otro dispositivo después de instalarla?
-      a: Una vez instalada, la eSIM no se puede transferir a otro dispositivo. Instala
-        la eSIM en el dispositivo que usarás durante tu viaje. Para dispositivos adicionales,
-        puedes comprar eSIM separadas.
+      a: |
+        Una vez instalada, la eSIM para Gabin NO se puede transferir a otro dispositivo.
+        Queda vinculada al telefono donde la instalaste inicialmente.
+        Por eso recomendamos instalar la eSIM directamente en el dispositivo que usaras en el viaje.
+        Si necesitas cambiarla a otro telefono, tendrias que comprar una nueva eSIM.
+        Pero puedes tener varias eSIM instaladas a la vez y elegir cual usar en cada momento.
+        Asi que si viajas con varios dispositivos, compra una eSIM para cada uno.
     - q: ¿Roami ofrece eSIM regionales para viajes fuera de Gabón?
       a: Sí, además de la eSIM para Gabón, ofrecemos eSIM regionales para Europa,
         Asia, América del Norte y todo el mundo. Ideal para viajes de varios días
@@ -325,8 +336,8 @@ faq_section:
         locales en Gabón?
       a: A diferencia de las tarjetas SIM prepago locales, no necesitas ir a una tienda,
         pasar por verificación de identidad (KYC) o buscar una tarjeta de recarga
-        adecuada. Con Roami, activas tu eSIM digitalmente en menos de 2 minutos —
-        sin hacer cola en el aeropuerto.
+
+
     - q: ¿Puedo usar la eSIM para Gabón como punto de acceso para otros dispositivos?
       a: Sí, todos los planes Roami eSIM para Gabón admiten compartir conexión ilimitado
         (punto de acceso). Puedes compartir la conexión con una computadora portátil,

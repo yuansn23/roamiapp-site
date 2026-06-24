@@ -332,19 +332,22 @@ faq_section:
     questions:
     - q: ¿Puedo seguir recibiendo llamadas en mi tarjeta SIM doméstica mientras uso
         la eSIM para Panamá?
-      a: Sí, los dispositivos dual SIM permiten usar ambos perfiles simultáneamente.
-        Solo configura en los ajustes la eSIM Roami como estándar para datos móviles.
-        Las llamadas y SMS pasarán por tu tarjeta SIM doméstica (el roaming puede
-        estar activo).
+      a: |
+        Si, la eSIM para Panama admite VoLTE y voz HD si tu dispositivo lo permite.
+        Puedes usar la eSIM para datos mientras mantienes tu SIM fisica para llamadas en modo dual SIM.
+        Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
+        La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Panama.
     - q: ¿Mi teléfono es compatible con eSIM para Panamá y cómo instalarlo?
       a: Sí, la mayoría de los teléfonos modernos (iPhone XS/XR o posterior, Samsung
         Galaxy S20+/Note20+, Google Pixel 3a+) son compatibles con eSIM. Instalas
         la eSIM para Panamá escaneando el código QR en los ajustes móviles. Las redes
         Más Móvil / Digicel ofrecen una excelente cobertura 5G/4G en Panamá.
     - q: ¿La eSIM para Panamá es más segura que una tarjeta SIM física?
-      a: Las eSIM están más protegidas contra accesos no autorizados porque están
-        integradas en el dispositivo y no pueden extraerse ni copiarse. Tus datos
-        permanecen cifrados — sin riesgo de tarjeta SIM perdida o robada.
+      a: |
+        Las eSIM son mas seguras que las SIM fisicas porque estan integradas en el dispositivo y no pueden extraerse ni clonarse.
+        Al viajar a Panama, no necesitas mostrar tu pasaporte ni registrar una direccion local como exigen muchos operadores.
+        Mantienes tu SIM principal activa para recibir SMS de tu banco o verificaciones 2FA.
+        Si pierdes el telefono, la eSIM no se puede sacar ni usar en otro dispositivo, a diferencia de una SIM fisica que cualquiera puede sacar y poner en su movil.
     - q: ¿Puedo comprar e instalar la eSIM para Panamá sin código QR?
       a: Sí, además del código QR, puedes instalar la eSIM manualmente usando la dirección
         SM‑DP+ y el código de activación (ambos indicados en tu confirmación de pedido).
@@ -359,15 +362,18 @@ faq_section:
         entre ciudades o giras por varios países — sin cambiar de tarjeta SIM.
         Con Roami pagas desde $1.99/GB sin contrato, planes de 1GB ($1.99), 5GB ($9.99) y 10GB ($19.99), con conexion automatica a la red 5G/4G mas rapida.
     - q: ¿Ofrecen garantía de reembolso si la eSIM para Panamá no funciona?
-      a: Sí, ofrecemos una garantía de reembolso del 100% en los 7 días posteriores
-        a la activación, si los problemas técnicos no pueden resolverse con nuestro
-        soporte 24/7. Sin riesgo para ti.
+      a: |
+        Ofrecemos garantia de reembolso del 100% en los primeros 7 dias desde la compra, si la eSIM para Panama no funciona en tu dispositivo o tienes problemas de compatibilidad.
+        Simplemente contacta a nuestro soporte 24/7 en espanol y procesamos tu reembolso.
+        Esto cubre problemas tecnicos, no aplica si ya activaste el plan en Panama y la cobertura de red es la esperada.
+        Revisa la pagina de cobertura antes de comprar para asegurarte de que tu destino en Panama tiene buena recepcion.
     - q: ¿Cuáles son las ventajas de la eSIM Roami frente a las tarjetas SIM prepago
         locales en Panamá?
-      a: A diferencia de las tarjetas SIM prepago locales, no necesitas ir a una tienda,
-        pasar por verificación de identidad (KYC) o buscar una tarjeta de recarga
-        adecuada. Con Roami, activas tu eSIM digitalmente en menos de 2 minutos —
-        sin hacer cola en el aeropuerto.
+      a: |
+        A diferencia de las tarjetas SIM prepago locales de Panama, con Roami no necesitas ir a una tienda fisica, mostrar tu pasaporte ni buscar una tarjeta de recarga.
+        Activas tu eSIM digitalmente en menos de 2 minutos desde cualquier lugar del mundo.
+        Llegas a Panama con internet desde el momento del aterrizaje, sin colas en el aeropuerto.
+        Ademas, los precios de Roami suelen ser 30-50% mas baratos que las SIM turisticas disponibles en tiendas del aeropuerto.
     - q: ¿Cuál es la validez del código QR para la eSIM para Panamá?
       a: El código QR es válido durante 30 días después de su envío a tu correo electrónico.
         Tienes suficiente tiempo para instalar la eSIM antes de tu viaje. Pasado ese

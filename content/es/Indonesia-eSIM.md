@@ -401,35 +401,49 @@ faq_section:
         portátil, tableta o tus compañeros de viaje — sin cargos ocultos ni reducción
         de velocidad.
     - q: ¿La eSIM para Indonesia admite VoLTE y llamadas de voz HD?
-      a: Sí, la eSIM para Indonesia admite VoLTE y voz HD si tu dispositivo lo permite.
-        Disfruta de una calidad de llamada nítida a través de la red 5G/4G de Telkomsel
-        / Indosat Ooredoo.
-        Los planes de datos comienzan en $1.99 por 1GB/7 dias, $9.99 por 5GB/15 dias y $19.99 por 10GB/30 dias, todo con velocidad 5G donde este disponible.
+      a: |
+        Si, la eSIM para Indonesia admite VoLTE y voz HD si tu dispositivo lo permite.
+        Puedes usar la eSIM para datos mientras mantienes tu SIM fisica para llamadas en modo dual SIM.
+        Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
+        La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Indonesia.
     - q: ¿Qué requisitos debe cumplir mi teléfono para usar la eSIM para Indonesia?
-      a: Tu dispositivo debe ser compatible con eSIM (iPhone XS/XR o posterior, Samsung
-        Galaxy S20/Note20 o posterior, Google Pixel 3a o posterior, así como la mayoría
-        de los teléfonos 5G modernos Huawei, Xiaomi, OnePlus). Verifica en los ajustes
-        si la opción 'Agregar eSIM' está disponible.
+      a: |
+        Necesitas un telefono compatible con eSIM (iPhone XS/XR+, Samsung S20+, Pixel 3a+) y que no este bloqueado por un operador.
+        Para la eSIM de Indonesia, no se requiere pasaporte ni registro de direccion local.
+        Revisa en Ajustes > Datos Moviles si aparece la opcion 'Agregar eSIM'.
+        Si tu telefono es de empresa o esta bloqueado, consulta con tu operador antes de comprar.
+        Roami funciona en todos los iPhone desde XS/XR y en la mayoria de Android 2019 en adelante.
     - q: ¿Cuánto cuesta la eSIM para Indonesia y hay descuentos?
       a: Nuestro plan eSIM para Indonesia comienza en 1,99 $/GB. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
     - q: ¿La eSIM para Indonesia es más segura que una tarjeta SIM física?
-      a: Las eSIM están más protegidas contra accesos no autorizados porque están
-        integradas en el dispositivo y no pueden extraerse ni copiarse. Tus datos
-        permanecen cifrados — sin riesgo de tarjeta SIM perdida o robada.
+      a: |
+        Las eSIM son mas seguras que las SIM fisicas porque estan integradas en el dispositivo y no pueden extraerse ni clonarse.
+        Al viajar a Indonesia, no necesitas mostrar tu pasaporte ni registrar una direccion local como exigen muchos operadores.
+        Mantienes tu SIM principal activa para recibir SMS de tu banco o verificaciones 2FA.
+        Si pierdes el telefono, la eSIM no se puede sacar ni usar en otro dispositivo, a diferencia de una SIM fisica que cualquiera puede sacar y poner en su movil.
     - q: ¿Puedo transferir la eSIM para Indonesia a otro dispositivo después de instalarla?
-      a: Una vez instalada, la eSIM no se puede transferir a otro dispositivo. Instala
-        la eSIM en el dispositivo que usarás durante tu viaje. Para dispositivos adicionales,
-        puedes comprar eSIM separadas.
+      a: |
+        Una vez instalada, la eSIM para Indonesia NO se puede transferir a otro dispositivo.
+        Queda vinculada al telefono donde la instalaste inicialmente.
+        Por eso recomendamos instalar la eSIM directamente en el dispositivo que usaras en el viaje.
+        Si necesitas cambiarla a otro telefono, tendrias que comprar una nueva eSIM.
+        Pero puedes tener varias eSIM instaladas a la vez y elegir cual usar en cada momento.
+        Asi que si viajas con varios dispositivos, compra una eSIM para cada uno.
     - q: ¿Puedo conservar mi número de teléfono mientras uso la eSIM para Indonesia?
-      a: 'La eSIM Roami es exclusivamente una tarjeta de datos. Puedes usar tu tarjeta
-        SIM doméstica en paralelo (por ejemplo, para llamadas/SMS). La mayoría de
-        los teléfonos dual SIM manejan ambos perfiles: solo selecciona la eSIM Roami
-        como estándar para datos móviles.'
+      a: |
+        La eSIM Roami para Indonesia es solo de datos, no incluye un numero de telefono local.
+        Pero puedes mantener tu SIM fisica activa en modo dual SIM para recibir llamadas y SMS mientras usas los datos de Roami.
+        Configura la eSIM Roami para datos moviles y tu SIM habitual para llamadas y SMS.
+        Asi sigues recibiendo verificaciones bancarias y mensajes de tu operador, sin pagar roaming de datos que es lo mas caro.
     - q: ¿Cómo seguir mi consumo de datos con la eSIM para Indonesia?
-      a: Después de la activación, tendrás acceso a nuestro panel en línea. Allí verás
-        en tiempo real tu saldo de datos, el tiempo restante y podrás solicitar ayuda
+      a: |
+        Puedes seguir tu consumo de datos en tiempo real desde el panel de control de Roami, accesible via web o app.
+        Alli veras cuantos GB has usado, cuantos te quedan y los dias restantes de tu plan para Indonesia.
+        Tambien recibes alertas por correo cuando te acerques al limite.
+        Si te quedas sin datos, puedes recargar mas GB directamente desde el panel, sin necesidad de comprar un plan nuevo ni cambiar de eSIM.
+        Asi evitas quedarte sin internet en medio del viaje.
         en cualquier momento.
     - q: ¿Cómo funciona el roaming internacional con la eSIM para Indonesia en países
         vecinos?

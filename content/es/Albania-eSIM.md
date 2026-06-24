@@ -375,13 +375,19 @@ faq_section:
         SM‑DP+ y el código de activación (ambos indicados en tu confirmación de pedido).
         El código QR es el método más rápido y sencillo.
     - q: ¿Puedo transferir la eSIM para Albania a otro dispositivo después de instalarla?
-      a: Una vez instalada, la eSIM no se puede transferir a otro dispositivo. Instala
-        la eSIM en el dispositivo que usarás durante tu viaje. Para dispositivos adicionales,
-        puedes comprar eSIM separadas.
+      a: |
+        Una vez instalada, la eSIM para Albania NO se puede transferir a otro dispositivo.
+        Queda vinculada al telefono donde la instalaste inicialmente.
+        Por eso recomendamos instalar la eSIM directamente en el dispositivo que usaras en el viaje.
+        Si necesitas cambiarla a otro telefono, tendrias que comprar una nueva eSIM.
+        Pero puedes tener varias eSIM instaladas a la vez y elegir cual usar en cada momento.
+        Asi que si viajas con varios dispositivos, compra una eSIM para cada uno.
     - q: ¿La eSIM para Albania admite VoLTE y llamadas de voz HD?
-      a: Sí, la eSIM para Albania admite VoLTE y voz HD si tu dispositivo lo permite.
-        Disfruta de una calidad de llamada nítida a través de la red 5G/4G de Vodafone
-        / Telekom Albania.
+      a: |
+        Si, la eSIM para Albania admite VoLTE y voz HD si tu dispositivo lo permite.
+        Puedes usar la eSIM para datos mientras mantienes tu SIM fisica para llamadas en modo dual SIM.
+        Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
+        La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Albania.
     - q: ¿Puedo usar la eSIM para Albania como punto de acceso para otros dispositivos?
       a: Sí, todos los planes Roami eSIM para Albania admiten compartir conexión ilimitado
         (punto de acceso). Puedes compartir la conexión con una computadora portátil,
@@ -396,13 +402,18 @@ faq_section:
         Tienes suficiente tiempo para instalar la eSIM antes de tu viaje. Pasado ese
         plazo, podemos proporcionarte un nuevo código.
     - q: ¿La eSIM para Albania es más segura que una tarjeta SIM física?
-      a: Las eSIM están más protegidas contra accesos no autorizados porque están
-        integradas en el dispositivo y no pueden extraerse ni copiarse. Tus datos
-        permanecen cifrados — sin riesgo de tarjeta SIM perdida o robada.
+      a: |
+        Las eSIM son mas seguras que las SIM fisicas porque estan integradas en el dispositivo y no pueden extraerse ni clonarse.
+        Al viajar a Albania, no necesitas mostrar tu pasaporte ni registrar una direccion local como exigen muchos operadores.
+        Mantienes tu SIM principal activa para recibir SMS de tu banco o verificaciones 2FA.
+        Si pierdes el telefono, la eSIM no se puede sacar ni usar en otro dispositivo, a diferencia de una SIM fisica que cualquiera puede sacar y poner en su movil.
     - q: ¿Cómo seguir mi consumo de datos con la eSIM para Albania?
-      a: Después de la activación, tendrás acceso a nuestro panel en línea. Allí verás
-        en tiempo real tu saldo de datos, el tiempo restante y podrás solicitar ayuda
-        en cualquier momento.
+      a: |
+        Puedes seguir tu consumo de datos en tiempo real desde el panel de control de Roami, accesible via web o app.
+        Alli veras cuantos GB has usado, cuantos te quedan y los dias restantes de tu plan para Albania.
+        Tambien recibes alertas por correo cuando te acerques al limite.
+        Si te quedas sin datos, puedes recargar mas GB directamente desde el panel, sin necesidad de comprar un plan nuevo ni cambiar de eSIM.
+        Asi evitas quedarte sin internet en medio del viaje.
     - q: ¿Cómo activar la eSIM para Albania y cuándo comienza el período de validez?
       a: Después de la compra, recibes inmediatamente un código QR de activación por
         correo electrónico. La validez comienza solo cuando tu teléfono se conecta

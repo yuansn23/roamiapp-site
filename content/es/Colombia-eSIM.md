@@ -355,27 +355,37 @@ faq_section:
     questions:
     - q: ¿Cuáles son las ventajas de la eSIM Roami frente a las tarjetas SIM prepago
         locales en Colombia?
-      a: A diferencia de las tarjetas SIM prepago locales, no necesitas ir a una tienda,
-        pasar por verificación de identidad (KYC) o buscar una tarjeta de recarga
-        adecuada. Con Roami, activas tu eSIM digitalmente en menos de 2 minutos —
-        sin hacer cola en el aeropuerto.
+      a: |
+        A diferencia de las tarjetas SIM prepago locales de Colombia, con Roami no necesitas ir a una tienda fisica, mostrar tu pasaporte ni buscar una tarjeta de recarga.
+        Activas tu eSIM digitalmente en menos de 2 minutos desde cualquier lugar del mundo.
+        Llegas a Colombia con internet desde el momento del aterrizaje, sin colas en el aeropuerto.
+        Ademas, los precios de Roami suelen ser 30-50% mas baratos que las SIM turisticas disponibles en tiendas del aeropuerto.
     - q: ¿Roami ofrece eSIM regionales para viajes fuera de Colombia?
       a: Sí, además de la eSIM para Colombia, ofrecemos eSIM regionales para Europa,
         Asia, América del Norte y todo el mundo. Ideal para viajes de varios días
         entre ciudades o giras por varios países — sin cambiar de tarjeta SIM.
     - q: ¿Puedo transferir la eSIM para Colombia a otro dispositivo después de instalarla?
-      a: Una vez instalada, la eSIM no se puede transferir a otro dispositivo. Instala
-        la eSIM en el dispositivo que usarás durante tu viaje. Para dispositivos adicionales,
-        puedes comprar eSIM separadas.
+      a: |
+        Una vez instalada, la eSIM para Colombia NO se puede transferir a otro dispositivo.
+        Queda vinculada al telefono donde la instalaste inicialmente.
+        Por eso recomendamos instalar la eSIM directamente en el dispositivo que usaras en el viaje.
+        Si necesitas cambiarla a otro telefono, tendrias que comprar una nueva eSIM.
+        Pero puedes tener varias eSIM instaladas a la vez y elegir cual usar en cada momento.
+        Asi que si viajas con varios dispositivos, compra una eSIM para cada uno.
     - q: ¿Cómo activar la eSIM para Colombia y cuándo comienza el período de validez?
-      a: Después de la compra, recibes inmediatamente un código QR de activación por
-        correo electrónico. La validez comienza solo cuando tu teléfono se conecta
-        por primera vez a una de nuestras redes asociadas (Claro / Movistar) en Colombia.
-        Así, solo pagas por los días que realmente estás en el país.
+      a: |
+        Al comprar, recibes al instante un codigo QR por correo electronico.
+        Instalas la eSIM escaneando el QR en Ajustes > Datos Moviles > Agregar eSIM.
+        La validez del plan comienza SOLO cuando llegas a Colombia y activas la eSIM conectandote a la red local por primera vez.
+        Puedes instalar la eSIM semanas antes del viaje sin que el tiempo corra.
+        El codigo QR es valido por 30 dias, asi que tienes tiempo de sobra para preparar todo.
     - q: ¿Puedo comprar e instalar la eSIM para Colombia antes de mi viaje y activarla más tarde?
-      a: Sí, puedes instalar la eSIM ahora (a través de Wi-Fi). La activación se realizará
-        automáticamente cuando tu teléfono, una vez en Colombia, detecte por primera
-        vez la red Claro / Movistar. Así evitas el estrés desde la llegada.
+      a: |
+        Si, puedes instalar la eSIM para Colombia en segundos desde tu casa, antes de salir de viaje.
+        La activacion se producira automaticamente al llegar a Colombia, cuando tu telefono se conecte a la red local por primera vez.
+        Esto significa que llegas con internet desde el momento del aterrizaje, sin buscar WiFi ni pagar roaming de emergencia.
+        Recomendamos instalarla con WiFi en casa y mantenerla desactivada hasta el viaje.
+        La validez del plan comienza al activarse, no al instalarse, asi que no pierdes tiempo.
     - q: ¿Cuánto cuesta la eSIM para Colombia y hay descuentos?
       a: Nuestro plan eSIM para Colombia comienza en 1,99 $/GB. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
@@ -383,14 +393,18 @@ faq_section:
         Por $1.99 obtienes 1GB para 7 dias, por $9.99 tienes 5GB para 15 dias, y por $19.99 disfrutas de 10GB para 30 dias. Todo con velocidades 5G de alta velocidad.
     - q: ¿Puedo seguir recibiendo llamadas en mi tarjeta SIM doméstica mientras uso
         la eSIM para Colombia?
-      a: Sí, los dispositivos dual SIM permiten usar ambos perfiles simultáneamente.
-        Solo configura en los ajustes la eSIM Roami como estándar para datos móviles.
-        Las llamadas y SMS pasarán por tu tarjeta SIM doméstica (el roaming puede
-        estar activo).
+      a: |
+        Si, la eSIM para Colombia admite VoLTE y voz HD si tu dispositivo lo permite.
+        Puedes usar la eSIM para datos mientras mantienes tu SIM fisica para llamadas en modo dual SIM.
+        Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
+        La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Colombia.
     - q: ¿Qué requisitos debe cumplir mi teléfono para usar la eSIM para Colombia?
-      a: Tu dispositivo debe ser compatible con eSIM (iPhone XS/XR o posterior, Samsung
-        Galaxy S20/Note20 o posterior, Google Pixel 3a o posterior, así como la mayoría
-        de los teléfonos 5G modernos Huawei, Xiaomi, OnePlus). Verifica en los ajustes
+      a: |
+        Necesitas un telefono compatible con eSIM (iPhone XS/XR+, Samsung S20+, Pixel 3a+) y que no este bloqueado por un operador.
+        Para la eSIM de Colombia, no se requiere pasaporte ni registro de direccion local.
+        Revisa en Ajustes > Datos Moviles si aparece la opcion 'Agregar eSIM'.
+        Si tu telefono es de empresa o esta bloqueado, consulta con tu operador antes de comprar.
+        Roami funciona en todos los iPhone desde XS/XR y en la mayoria de Android 2019 en adelante.
         si la opción 'Agregar eSIM' está disponible.
     - q: ¿La eSIM para Colombia admite VoLTE y llamadas de voz HD?
       a: Sí, la eSIM para Colombia admite VoLTE y voz HD si tu dispositivo lo permite.

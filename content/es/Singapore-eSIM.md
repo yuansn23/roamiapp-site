@@ -388,18 +388,24 @@ faq_section:
     title: Informacion general sobre eSIM en Singapur
     questions:
     - q: ¿Ofrecen garantía de reembolso si la eSIM para Singapur no funciona?
-      a: Sí, ofrecemos una garantía de reembolso del 100% en los 7 días posteriores
-        a la activación, si los problemas técnicos no pueden resolverse con nuestro
-        soporte 24/7. Sin riesgo para ti.
+      a: |
+        Ofrecemos garantia de reembolso del 100% en los primeros 7 dias desde la compra, si la eSIM para Singapur no funciona en tu dispositivo o tienes problemas de compatibilidad.
+        Simplemente contacta a nuestro soporte 24/7 en espanol y procesamos tu reembolso.
+        Esto cubre problemas tecnicos, no aplica si ya activaste el plan en Singapur y la cobertura de red es la esperada.
+        Revisa la pagina de cobertura antes de comprar para asegurarte de que tu destino en Singapur tiene buena recepcion.
     - q: ¿Cómo activar la eSIM para Singapur y cuándo comienza el período de validez?
-      a: Después de la compra, recibes inmediatamente un código QR de activación por
-        correo electrónico. La validez comienza solo cuando tu teléfono se conecta
-        por primera vez a una de nuestras redes asociadas (Singtel / StarHub) en Singapur.
-        Así, solo pagas por los días que realmente estás en el país.
+      a: |
+        Al comprar, recibes al instante un codigo QR por correo electronico.
+        Instalas la eSIM escaneando el QR en Ajustes > Datos Moviles > Agregar eSIM.
+        La validez del plan comienza SOLO cuando llegas a Singapur y activas la eSIM conectandote a la red local por primera vez.
+        Puedes instalar la eSIM semanas antes del viaje sin que el tiempo corra.
+        El codigo QR es valido por 30 dias, asi que tienes tiempo de sobra para preparar todo.
     - q: ¿La eSIM para Singapur admite VoLTE y llamadas de voz HD?
-      a: Sí, la eSIM para Singapur admite VoLTE y voz HD si tu dispositivo lo permite.
-        Disfruta de una calidad de llamada nítida a través de la red 5G/4G de Singtel
-        / StarHub.
+      a: |
+        Si, la eSIM para Singapur admite VoLTE y voz HD si tu dispositivo lo permite.
+        Puedes usar la eSIM para datos mientras mantienes tu SIM fisica para llamadas en modo dual SIM.
+        Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
+        La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Singapur.
     - q: ¿Mi teléfono es compatible con eSIM para Singapur y cómo instalarlo?
       a: Sí, la mayoría de los teléfonos modernos (iPhone XS/XR o posterior, Samsung
         Galaxy S20+/Note20+, Google Pixel 3a+) son compatibles con eSIM. Instalas
@@ -412,14 +418,18 @@ faq_section:
         de velocidad.
     - q: ¿Cuáles son las ventajas de la eSIM Roami frente a las tarjetas SIM prepago
         locales en Singapur?
-      a: A diferencia de las tarjetas SIM prepago locales, no necesitas ir a una tienda,
-        pasar por verificación de identidad (KYC) o buscar una tarjeta de recarga
-        adecuada. Con Roami, activas tu eSIM digitalmente en menos de 2 minutos —
-        sin hacer cola en el aeropuerto.
+      a: |
+        A diferencia de las tarjetas SIM prepago locales de Singapur, con Roami no necesitas ir a una tienda fisica, mostrar tu pasaporte ni buscar una tarjeta de recarga.
+        Activas tu eSIM digitalmente en menos de 2 minutos desde cualquier lugar del mundo.
+        Llegas a Singapur con internet desde el momento del aterrizaje, sin colas en el aeropuerto.
+        Ademas, los precios de Roami suelen ser 30-50% mas baratos que las SIM turisticas disponibles en tiendas del aeropuerto.
     - q: ¿Puedo comprar e instalar la eSIM para Singapur antes de mi viaje y activarla más tarde?
-      a: Sí, puedes instalar la eSIM ahora (a través de Wi-Fi). La activación se realizará
-        automáticamente cuando tu teléfono, una vez en Singapur, detecte por primera
-        vez la red Singtel / StarHub. Así evitas el estrés desde la llegada.
+      a: |
+        Si, puedes instalar la eSIM para Singapur en segundos desde tu casa, antes de salir de viaje.
+        La activacion se producira automaticamente al llegar a Singapur, cuando tu telefono se conecte a la red local por primera vez.
+        Esto significa que llegas con internet desde el momento del aterrizaje, sin buscar WiFi ni pagar roaming de emergencia.
+        Recomendamos instalarla con WiFi en casa y mantenerla desactivada hasta el viaje.
+        La validez del plan comienza al activarse, no al instalarse, asi que no pierdes tiempo.
     - q: ¿Qué redes 5G/4G utiliza la eSIM para Singapur y cuál es la cobertura?
       a: La eSIM para Singapur funciona exclusivamente con Singtel / StarHub. Obtienes
         automáticamente la mejor red disponible (5G/4G/LTE) con la mejor cobertura

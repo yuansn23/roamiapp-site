@@ -230,18 +230,24 @@ faq_section:
         automáticamente la mejor red disponible (5G/4G/LTE) con la mejor cobertura
         en ciudades, así como en zonas rurales y a lo largo de las carreteras.
     - q: ¿La eSIM para Barbados admite VoLTE y llamadas de voz HD?
-      a: Sí, la eSIM para Barbados admite VoLTE y voz HD si tu dispositivo lo permite.
-        Disfruta de una calidad de llamada nítida a través de la red 5G/4G de Digicel
-        / Flow.
+      a: |
+        Si, la eSIM para Barbados admite VoLTE y voz HD si tu dispositivo lo permite.
+        Puedes usar la eSIM para datos mientras mantienes tu SIM fisica para llamadas en modo dual SIM.
+        Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
+        La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Barbados.
     - q: ¿Puedo instalar la eSIM para Barbados antes de mi viaje y activarla más tarde?
-      a: Sí, puedes instalar la eSIM ahora (a través de Wi-Fi). La activación se realizará
-        automáticamente cuando tu teléfono, una vez en Barbados, detecte por primera
-        vez la red Digicel / Flow. Así evitas el estrés desde la llegada.
+      a: |
+        Si, puedes instalar la eSIM para Barbados en segundos desde tu casa, antes de salir de viaje.
+        La activacion se producira automaticamente al llegar a Barbados, cuando tu telefono se conecte a la red local por primera vez.
+        Esto significa que llegas con internet desde el momento del aterrizaje, sin buscar WiFi ni pagar roaming de emergencia.
+        Recomendamos instalarla con WiFi en casa y mantenerla desactivada hasta el viaje.
+        La validez del plan comienza al activarse, no al instalarse, asi que no pierdes tiempo.
     - q: ¿Puedo conservar mi número de teléfono mientras uso la eSIM para Barbados?
-      a: 'La eSIM Roami es exclusivamente una tarjeta de datos. Puedes usar tu tarjeta
-        SIM doméstica en paralelo (por ejemplo, para llamadas/SMS). La mayoría de
-        los teléfonos dual SIM manejan ambos perfiles: solo selecciona la eSIM Roami
-        como estándar para datos móviles.'
+      a: |
+        La eSIM Roami para Barbados es solo de datos, no incluye un numero de telefono local.
+        Pero puedes mantener tu SIM fisica activa en modo dual SIM para recibir llamadas y SMS mientras usas los datos de Roami.
+        Configura la eSIM Roami para datos moviles y tu SIM habitual para llamadas y SMS.
+        Asi sigues recibiendo verificaciones bancarias y mensajes de tu operador, sin pagar roaming de datos que es lo mas caro.
     - q: ¿Roami ofrece planes ilimitados para Barbados? ¿Hay política de uso justo
         (FUP)?
       a: Roami ofrece planes verdaderamente ilimitados para Barbados. La política
@@ -250,14 +256,18 @@ faq_section:
         videollamadas y GPS no están limitados.
         Roami tiene planes flexibles desde $1.99/GB (7 dias) hasta $59.99 (30 dias ilimitados). La velocidad 5G alcanza 100 a 300 Mbps en areas urbanas y 10 a 50 Mbps en 4G.
     - q: ¿Qué requisitos debe cumplir mi teléfono para usar la eSIM para Barbados?
-      a: Tu dispositivo debe ser compatible con eSIM (iPhone XS/XR o posterior, Samsung
-        Galaxy S20/Note20 o posterior, Google Pixel 3a o posterior, así como la mayoría
-        de los teléfonos 5G modernos Huawei, Xiaomi, OnePlus). Verifica en los ajustes
-        si la opción 'Agregar eSIM' está disponible.
+      a: |
+        Necesitas un telefono compatible con eSIM (iPhone XS/XR+, Samsung S20+, Pixel 3a+) y que no este bloqueado por un operador.
+        Para la eSIM de Barbados, no se requiere pasaporte ni registro de direccion local.
+        Revisa en Ajustes > Datos Moviles si aparece la opcion 'Agregar eSIM'.
+        Si tu telefono es de empresa o esta bloqueado, consulta con tu operador antes de comprar.
+        Roami funciona en todos los iPhone desde XS/XR y en la mayoria de Android 2019 en adelante.
     - q: ¿La eSIM para Barbados es más segura que una tarjeta SIM física?
-      a: Las eSIM están más protegidas contra accesos no autorizados porque están
-        integradas en el dispositivo y no pueden extraerse ni copiarse. Tus datos
-        permanecen cifrados — sin riesgo de tarjeta SIM perdida o robada.
+      a: |
+        Las eSIM son mas seguras que las SIM fisicas porque estan integradas en el dispositivo y no pueden extraerse ni clonarse.
+        Al viajar a Barbados, no necesitas mostrar tu pasaporte ni registrar una direccion local como exigen muchos operadores.
+        Mantienes tu SIM principal activa para recibir SMS de tu banco o verificaciones 2FA.
+        Si pierdes el telefono, la eSIM no se puede sacar ni usar en otro dispositivo, a diferencia de una SIM fisica que cualquiera puede sacar y poner en su movil.
     - q: ¿Cómo seguir mi consumo de datos con la eSIM para Barbados?
       a: Después de la activación, tendrás acceso a nuestro panel en línea. Allí verás
         en tiempo real tu saldo de datos, el tiempo restante y podrás solicitar ayuda

@@ -368,18 +368,22 @@ faq_section:
         El código QR es el método más rápido y sencillo.
     - q: ¿Puedo seguir recibiendo llamadas en mi tarjeta SIM doméstica mientras uso
         la eSIM para Brasil?
-      a: Sí, los dispositivos dual SIM permiten usar ambos perfiles simultáneamente.
-        Solo configura en los ajustes la eSIM Roami como estándar para datos móviles.
-        Las llamadas y SMS pasarán por tu tarjeta SIM doméstica (el roaming puede
-        estar activo).
+      a: |
+        Si, la eSIM para Brasil admite VoLTE y voz HD si tu dispositivo lo permite.
+        Puedes usar la eSIM para datos mientras mantienes tu SIM fisica para llamadas en modo dual SIM.
+        Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
+        La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Brasil.
     - q: ¿Cuál es la validez del código QR para la eSIM para Brasil?
       a: El código QR es válido durante 30 días después de su envío a tu correo electrónico.
         Tienes suficiente tiempo para instalar la eSIM antes de tu viaje. Pasado ese
         plazo, podemos proporcionarte un nuevo código.
     - q: ¿Puedo comprar e instalar la eSIM para Brasil antes de mi viaje y activarla más tarde?
-      a: Sí, puedes instalar la eSIM ahora (a través de Wi-Fi). La activación se realizará
-        automáticamente cuando tu teléfono, una vez en Brasil, detecte por primera
-        vez la red Vivo / Claro. Así evitas el estrés desde la llegada.
+      a: |
+        Si, puedes instalar la eSIM para Brasil en segundos desde tu casa, antes de salir de viaje.
+        La activacion se producira automaticamente al llegar a Brasil, cuando tu telefono se conecte a la red local por primera vez.
+        Esto significa que llegas con internet desde el momento del aterrizaje, sin buscar WiFi ni pagar roaming de emergencia.
+        Recomendamos instalarla con WiFi en casa y mantenerla desactivada hasta el viaje.
+        La validez del plan comienza al activarse, no al instalarse, asi que no pierdes tiempo.
     - q: ¿Cuánto cuesta la eSIM para Brasil y hay descuentos?
       a: Nuestro plan eSIM para Brasil comienza en 1,99 $/GB. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
@@ -391,14 +395,17 @@ faq_section:
         la eSIM para Brasil escaneando el código QR en los ajustes móviles. Las redes
         Vivo / Claro ofrecen una excelente cobertura 5G/4G en Brasil.
     - q: ¿Ofrecen garantía de reembolso si la eSIM para Brasil no funciona?
-      a: Sí, ofrecemos una garantía de reembolso del 100% en los 7 días posteriores
-        a la activación, si los problemas técnicos no pueden resolverse con nuestro
-        soporte 24/7. Sin riesgo para ti.
+      a: |
+        Ofrecemos garantia de reembolso del 100% en los primeros 7 dias desde la compra, si la eSIM para Brasil no funciona en tu dispositivo o tienes problemas de compatibilidad.
+        Simplemente contacta a nuestro soporte 24/7 en espanol y procesamos tu reembolso.
+        Esto cubre problemas tecnicos, no aplica si ya activaste el plan en Brasil y la cobertura de red es la esperada.
+        Revisa la pagina de cobertura antes de comprar para asegurarte de que tu destino en Brasil tiene buena recepcion.
     - q: ¿Puedo conservar mi número de teléfono mientras uso la eSIM para Brasil?
-      a: 'La eSIM Roami es exclusivamente una tarjeta de datos. Puedes usar tu tarjeta
-        SIM doméstica en paralelo (por ejemplo, para llamadas/SMS). La mayoría de
-        los teléfonos dual SIM manejan ambos perfiles: solo selecciona la eSIM Roami
-        como estándar para datos móviles.'
+      a: |
+        La eSIM Roami para Brasil es solo de datos, no incluye un numero de telefono local.
+        Pero puedes mantener tu SIM fisica activa en modo dual SIM para recibir llamadas y SMS mientras usas los datos de Roami.
+        Configura la eSIM Roami para datos moviles y tu SIM habitual para llamadas y SMS.
+        Asi sigues recibiendo verificaciones bancarias y mensajes de tu operador, sin pagar roaming de datos que es lo mas caro.
     - q: ¿La eSIM para Brasil es más segura que una tarjeta SIM física?
       a: Las eSIM están más protegidas contra accesos no autorizados porque están
         integradas en el dispositivo y no pueden extraerse ni copiarse. Tus datos

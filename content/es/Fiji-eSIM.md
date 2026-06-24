@@ -356,19 +356,23 @@ faq_section:
     questions:
     - q: ¿Cuáles son las ventajas de la eSIM Roami frente a las tarjetas SIM prepago
         locales en Fiyi?
-      a: A diferencia de las tarjetas SIM prepago locales, no necesitas ir a una tienda,
-        pasar por verificación de identidad (KYC) o buscar una tarjeta de recarga
-        adecuada. Con Roami, activas tu eSIM digitalmente en menos de 2 minutos —
-        sin hacer cola en el aeropuerto.
+      a: |
+        A diferencia de las tarjetas SIM prepago locales de Fiyi, con Roami no necesitas ir a una tienda fisica, mostrar tu pasaporte ni buscar una tarjeta de recarga.
+        Activas tu eSIM digitalmente en menos de 2 minutos desde cualquier lugar del mundo.
+        Llegas a Fiyi con internet desde el momento del aterrizaje, sin colas en el aeropuerto.
+        Ademas, los precios de Roami suelen ser 30-50% mas baratos que las SIM turisticas disponibles en tiendas del aeropuerto.
     - q: ¿Mi teléfono es compatible con eSIM para Fiyi y cómo instalarlo?
       a: Sí, la mayoría de los teléfonos modernos (iPhone XS/XR o posterior, Samsung
         Galaxy S20+/Note20+, Google Pixel 3a+) son compatibles con eSIM. Instalas
         la eSIM para Fiyi escaneando el código QR en los ajustes móviles. Las redes
         Vodafone Fiji / Digicel Fiji ofrecen una excelente cobertura 5G/4G en Fiyi.
     - q: ¿Puedo instalar la eSIM para Fiyi antes de mi viaje y activarla más tarde?
-      a: Sí, puedes instalar la eSIM ahora (a través de Wi-Fi). La activación se realizará
-        automáticamente cuando tu teléfono, una vez en Fiyi, detecte por primera vez
-        la red Vodafone Fiji / Digicel Fiji. Así evitas el estrés desde la llegada.
+      a: |
+        Si, puedes instalar la eSIM para Fiyi en segundos desde tu casa, antes de salir de viaje.
+        La activacion se producira automaticamente al llegar a Fiyi, cuando tu telefono se conecte a la red local por primera vez.
+        Esto significa que llegas con internet desde el momento del aterrizaje, sin buscar WiFi ni pagar roaming de emergencia.
+        Recomendamos instalarla con WiFi en casa y mantenerla desactivada hasta el viaje.
+        La validez del plan comienza al activarse, no al instalarse, asi que no pierdes tiempo.
     - q: ¿Puedo instalar la eSIM para Fiyi sin código QR?
       a: Sí, además del código QR, puedes instalar la eSIM manualmente usando la dirección
         SM‑DP+ y el código de activación (ambos indicados en tu confirmación de pedido).
@@ -380,18 +384,21 @@ faq_section:
         videollamadas y GPS no están limitados.
         Los planes de datos comienzan en $1.99 por 1GB/7 dias, $9.99 por 5GB/15 dias y $19.99 por 10GB/30 dias, todo con velocidad 5G donde este disponible.
     - q: ¿La eSIM para Fiyi es más segura que una tarjeta SIM física?
-      a: Las eSIM están más protegidas contra accesos no autorizados porque están
-        integradas en el dispositivo y no pueden extraerse ni copiarse. Tus datos
-        permanecen cifrados — sin riesgo de tarjeta SIM perdida o robada.
+      a: |
+        Las eSIM son mas seguras que las SIM fisicas porque estan integradas en el dispositivo y no pueden extraerse ni clonarse.
+        Al viajar a Fiyi, no necesitas mostrar tu pasaporte ni registrar una direccion local como exigen muchos operadores.
+        Mantienes tu SIM principal activa para recibir SMS de tu banco o verificaciones 2FA.
+        Si pierdes el telefono, la eSIM no se puede sacar ni usar en otro dispositivo, a diferencia de una SIM fisica que cualquiera puede sacar y poner en su movil.
     - q: ¿Qué redes 5G/4G utiliza la eSIM para Fiyi y cuál es la cobertura?
       a: La eSIM para Fiyi funciona exclusivamente con Vodafone Fiji / Digicel Fiji.
         Obtienes automáticamente la mejor red disponible (5G/4G/LTE) con la mejor
         cobertura en ciudades, así como en zonas rurales y a lo largo de las carreteras.
     - q: ¿Puedo conservar mi número de teléfono mientras uso la eSIM para Fiyi?
-      a: 'La eSIM Roami es exclusivamente una tarjeta de datos. Puedes usar tu tarjeta
-        SIM doméstica en paralelo (por ejemplo, para llamadas/SMS). La mayoría de
-        los teléfonos dual SIM manejan ambos perfiles: solo selecciona la eSIM Roami
-        como estándar para datos móviles.'
+      a: |
+        La eSIM Roami para Fiyi es solo de datos, no incluye un numero de telefono local.
+        Pero puedes mantener tu SIM fisica activa en modo dual SIM para recibir llamadas y SMS mientras usas los datos de Roami.
+        Configura la eSIM Roami para datos moviles y tu SIM habitual para llamadas y SMS.
+        Asi sigues recibiendo verificaciones bancarias y mensajes de tu operador, sin pagar roaming de datos que es lo mas caro.
     - q: ¿Cuánto cuesta la eSIM para Fiyi y hay descuentos?
       a: Nuestro plan eSIM para Fiyi comienza en 1,99 $/GB. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos

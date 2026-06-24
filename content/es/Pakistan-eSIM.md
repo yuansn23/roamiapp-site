@@ -385,10 +385,11 @@ faq_section:
         de velocidad.
     - q: ¿Puedo seguir recibiendo llamadas en mi tarjeta SIM doméstica mientras uso
         la eSIM para Pakistán?
-      a: Sí, los dispositivos dual SIM permiten usar ambos perfiles simultáneamente.
-        Solo configura en los ajustes la eSIM Roami como estándar para datos móviles.
-        Las llamadas y SMS pasarán por tu tarjeta SIM doméstica (el roaming puede
-        estar activo).
+      a: |
+        Si, la eSIM para Pakistan admite VoLTE y voz HD si tu dispositivo lo permite.
+        Puedes usar la eSIM para datos mientras mantienes tu SIM fisica para llamadas en modo dual SIM.
+        Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
+        La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Pakistan.
     - q: ¿Mi teléfono es compatible con eSIM para Pakistán y cómo instalarlo?
       a: Sí, la mayoría de los teléfonos modernos (iPhone XS/XR o posterior, Samsung
         Galaxy S20+/Note20+, Google Pixel 3a+) son compatibles con eSIM. Instalas
@@ -403,10 +404,12 @@ faq_section:
         SM‑DP+ y el código de activación (ambos indicados en tu confirmación de pedido).
         El código QR es el método más rápido y sencillo.
     - q: ¿Cómo activar la eSIM para Pakistán y cuándo comienza el período de validez?
-      a: Después de la compra, recibes inmediatamente un código QR de activación por
-        correo electrónico. La validez comienza solo cuando tu teléfono se conecta
-        por primera vez a una de nuestras redes asociadas (Jazz / Zong) en Pakistán.
-        Así, solo pagas por los días que realmente estás en el país.
+      a: |
+        Al comprar, recibes al instante un codigo QR por correo electronico.
+        Instalas la eSIM escaneando el QR en Ajustes > Datos Moviles > Agregar eSIM.
+        La validez del plan comienza SOLO cuando llegas a Pakistan y activas la eSIM conectandote a la red local por primera vez.
+        Puedes instalar la eSIM semanas antes del viaje sin que el tiempo corra.
+        El codigo QR es valido por 30 dias, asi que tienes tiempo de sobra para preparar todo.
     - q: ¿Roami ofrece planes ilimitados para Pakistán? ¿Hay política de uso justo
         (FUP)?
       a: Roami ofrece planes verdaderamente ilimitados para Pakistán. La política
@@ -415,9 +418,12 @@ faq_section:
         videollamadas y GPS no están limitados.
         Roami ofrece planes desde $1.99/GB (7 dias) hasta $59.99 por datos ilimitados (30 dias), con velocidades 5G de 100 a 300 Mbps en la mayoria de zonas urbanas.
     - q: ¿Cómo seguir mi consumo de datos con la eSIM para Pakistán?
-      a: Después de la activación, tendrás acceso a nuestro panel en línea. Allí verás
-        en tiempo real tu saldo de datos, el tiempo restante y podrás solicitar ayuda
-        en cualquier momento.
+      a: |
+        Puedes seguir tu consumo de datos en tiempo real desde el panel de control de Roami, accesible via web o app.
+        Alli veras cuantos GB has usado, cuantos te quedan y los dias restantes de tu plan para Pakistan.
+        Tambien recibes alertas por correo cuando te acerques al limite.
+        Si te quedas sin datos, puedes recargar mas GB directamente desde el panel, sin necesidad de comprar un plan nuevo ni cambiar de eSIM.
+        Asi evitas quedarte sin internet en medio del viaje.
     - q: ¿Cuál es la validez del código QR para la eSIM para Pakistán?
       a: El código QR es válido durante 30 días después de su envío a tu correo electrónico.
         Tienes suficiente tiempo para instalar la eSIM antes de tu viaje. Pasado ese

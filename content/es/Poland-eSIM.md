@@ -404,41 +404,51 @@ faq_section:
     questions:
     - q: ¿Cuáles son las ventajas de la eSIM Roami frente a las tarjetas SIM prepago
         locales en Polonia?
-      a: A diferencia de las tarjetas SIM prepago locales, no necesitas ir a una tienda,
-        pasar por verificación de identidad (KYC) o buscar una tarjeta de recarga
-        adecuada. Con Roami, activas tu eSIM digitalmente en menos de 2 minutos —
-        sin hacer cola en el aeropuerto.
+      a: |
+        A diferencia de las tarjetas SIM prepago locales de Polonia, con Roami no necesitas ir a una tienda fisica, mostrar tu pasaporte ni buscar una tarjeta de recarga.
+        Activas tu eSIM digitalmente en menos de 2 minutos desde cualquier lugar del mundo.
+        Llegas a Polonia con internet desde el momento del aterrizaje, sin colas en el aeropuerto.
+        Ademas, los precios de Roami suelen ser 30-50% mas baratos que las SIM turisticas disponibles en tiendas del aeropuerto.
     - q: ¿Qué redes 5G/4G utiliza la eSIM para Polonia y cuál es la cobertura?
       a: La eSIM para Polonia funciona exclusivamente con Orange Polska / Play. Obtienes
         automáticamente la mejor red disponible (5G/4G/LTE) con la mejor cobertura
         en ciudades, así como en zonas rurales y a lo largo de las carreteras.
     - q: ¿La eSIM para Polonia es más segura que una tarjeta SIM física?
-      a: Las eSIM están más protegidas contra accesos no autorizados porque están
-        integradas en el dispositivo y no pueden extraerse ni copiarse. Tus datos
-        permanecen cifrados — sin riesgo de tarjeta SIM perdida o robada.
+      a: |
+        Las eSIM son mas seguras que las SIM fisicas porque estan integradas en el dispositivo y no pueden extraerse ni clonarse.
+        Al viajar a Polonia, no necesitas mostrar tu pasaporte ni registrar una direccion local como exigen muchos operadores.
+        Mantienes tu SIM principal activa para recibir SMS de tu banco o verificaciones 2FA.
+        Si pierdes el telefono, la eSIM no se puede sacar ni usar en otro dispositivo, a diferencia de una SIM fisica que cualquiera puede sacar y poner en su movil.
     - q: ¿Puedo seguir recibiendo llamadas en mi tarjeta SIM doméstica mientras uso
         la eSIM para Polonia?
-      a: Sí, los dispositivos dual SIM permiten usar ambos perfiles simultáneamente.
-        Solo configura en los ajustes la eSIM Roami como estándar para datos móviles.
-        Las llamadas y SMS pasarán por tu tarjeta SIM doméstica (el roaming puede
-        estar activo).
+      a: |
+        Si, la eSIM para Polonia admite VoLTE y voz HD si tu dispositivo lo permite.
+        Puedes usar la eSIM para datos mientras mantienes tu SIM fisica para llamadas en modo dual SIM.
+        Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
+        La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Polonia.
     - q: ¿Cuál es la validez del código QR para la eSIM para Polonia?
       a: El código QR es válido durante 30 días después de su envío a tu correo electrónico.
         Tienes suficiente tiempo para instalar la eSIM antes de tu viaje. Pasado ese
         plazo, podemos proporcionarte un nuevo código.
     - q: ¿Puedo comprar e instalar la eSIM para Polonia antes de mi viaje y activarla más tarde?
-      a: Sí, puedes instalar la eSIM ahora (a través de Wi-Fi). La activación se realizará
-        automáticamente cuando tu teléfono, una vez en Polonia, detecte por primera
-        vez la red Orange Polska / Play. Así evitas el estrés desde la llegada.
+      a: |
+        Si, puedes instalar la eSIM para Polonia en segundos desde tu casa, antes de salir de viaje.
+        La activacion se producira automaticamente al llegar a Polonia, cuando tu telefono se conecte a la red local por primera vez.
+        Esto significa que llegas con internet desde el momento del aterrizaje, sin buscar WiFi ni pagar roaming de emergencia.
+        Recomendamos instalarla con WiFi en casa y mantenerla desactivada hasta el viaje.
+        La validez del plan comienza al activarse, no al instalarse, asi que no pierdes tiempo.
     - q: ¿Cuánto cuesta la eSIM para Polonia y hay descuentos?
       a: Nuestro plan eSIM para Polonia comienza en 1,99 $/GB. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
         Los planes de datos comienzan en $1.99 por 1GB/7 dias, $9.99 por 5GB/15 dias y $19.99 por 10GB/30 dias, todo con velocidad 5G donde este disponible.
     - q: ¿Cómo seguir mi consumo de datos con la eSIM para Polonia?
-      a: Después de la activación, tendrás acceso a nuestro panel en línea. Allí verás
-        en tiempo real tu saldo de datos, el tiempo restante y podrás solicitar ayuda
-        en cualquier momento.
+      a: |
+        Puedes seguir tu consumo de datos en tiempo real desde el panel de control de Roami, accesible via web o app.
+        Alli veras cuantos GB has usado, cuantos te quedan y los dias restantes de tu plan para Polonia.
+        Tambien recibes alertas por correo cuando te acerques al limite.
+        Si te quedas sin datos, puedes recargar mas GB directamente desde el panel, sin necesidad de comprar un plan nuevo ni cambiar de eSIM.
+        Asi evitas quedarte sin internet en medio del viaje.
     - q: ¿Roami ofrece eSIM regionales para viajes fuera de Polonia?
       a: Sí, además de la eSIM para Polonia, ofrecemos eSIM regionales para Europa,
         Asia, América del Norte y todo el mundo. Ideal para viajes de varios días

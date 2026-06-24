@@ -209,19 +209,22 @@ faq_section:
     questions:
     - q: ¿Puedo seguir recibiendo llamadas en mi tarjeta SIM doméstica mientras uso
         la eSIM para Malí?
-      a: Sí, los dispositivos dual SIM permiten usar ambos perfiles simultáneamente.
-        Solo configura en los ajustes la eSIM Roami como estándar para datos móviles.
-        Las llamadas y SMS pasarán por tu tarjeta SIM doméstica (el roaming puede
-        estar activo).
+      a: |
+        Si, la eSIM para Mali admite VoLTE y voz HD si tu dispositivo lo permite.
+        Puedes usar la eSIM para datos mientras mantienes tu SIM fisica para llamadas en modo dual SIM.
+        Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
+        La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Mali.
     - q: ¿Puedo usar la eSIM para Malí como punto de acceso para otros dispositivos?
       a: Sí, todos los planes Roami eSIM para Malí admiten compartir conexión ilimitado
         (punto de acceso). Puedes compartir la conexión con una computadora portátil,
         tableta o tus compañeros de viaje — sin cargos ocultos ni reducción de velocidad.
     - q: ¿Puedo instalar la eSIM para Malí antes de mi viaje y activarla más tarde?
-      a: Sí, puedes instalar la eSIM ahora (a través de Wi-Fi). La activación se realizará
-        automáticamente cuando tu teléfono, una vez en Malí, detecte por primera vez
-        la red Orange Mali / Sotelma Malitel. Así evitas el estrés desde la llegada.
-        Los planes de datos comienzan en $1.99 por 1GB/7 dias, $9.99 por 5GB/15 dias y $19.99 por 10GB/30 dias, todo con velocidad 5G donde este disponible.
+      a: |
+        Si, puedes instalar la eSIM para Mali en segundos desde tu casa, antes de salir de viaje.
+        La activacion se producira automaticamente al llegar a Mali, cuando tu telefono se conecte a la red local por primera vez.
+        Esto significa que llegas con internet desde el momento del aterrizaje, sin buscar WiFi ni pagar roaming de emergencia.
+        Recomendamos instalarla con WiFi en casa y mantenerla desactivada hasta el viaje.
+        La validez del plan comienza al activarse, no al instalarse, asi que no pierdes tiempo.
     - q: ¿Roami ofrece planes ilimitados para Malí? ¿Hay política de uso justo (FUP)?
       a: Roami ofrece planes verdaderamente ilimitados para Malí. La política de uso
         justo solo se aplica en caso de consumo extremo (por ejemplo, transmisión
@@ -236,18 +239,23 @@ faq_section:
         América del Norte y todo el mundo. Ideal para viajes de varios días entre
         ciudades o giras por varios países — sin cambiar de tarjeta SIM.
     - q: ¿Cómo activar la eSIM para Malí y cuándo comienza el período de validez?
-      a: Después de la compra, recibes inmediatamente un código QR de activación por
-        correo electrónico. La validez comienza solo cuando tu teléfono se conecta
-        por primera vez a una de nuestras redes asociadas (Orange Mali / Sotelma Malitel)
-        en Malí. Así, solo pagas por los días que realmente estás en el país.
+      a: |
+        Al comprar, recibes al instante un codigo QR por correo electronico.
+        Instalas la eSIM escaneando el QR en Ajustes > Datos Moviles > Agregar eSIM.
+        La validez del plan comienza SOLO cuando llegas a Mali y activas la eSIM conectandote a la red local por primera vez.
+        Puedes instalar la eSIM semanas antes del viaje sin que el tiempo corra.
+        El codigo QR es valido por 30 dias, asi que tienes tiempo de sobra para preparar todo.
     - q: ¿Cuánto cuesta la eSIM para Malí y hay descuentos?
       a: Nuestro plan eSIM para Malí comienza en 1,99 $/GB. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
     - q: ¿Qué requisitos debe cumplir mi teléfono para usar la eSIM para Malí?
-      a: Tu dispositivo debe ser compatible con eSIM (iPhone XS/XR o posterior, Samsung
-        Galaxy S20/Note20 o posterior, Google Pixel 3a o posterior, así como la mayoría
-        de los teléfonos 5G modernos Huawei, Xiaomi, OnePlus). Verifica en los ajustes
+      a: |
+        Necesitas un telefono compatible con eSIM (iPhone XS/XR+, Samsung S20+, Pixel 3a+) y que no este bloqueado por un operador.
+        Para la eSIM de Mali, no se requiere pasaporte ni registro de direccion local.
+        Revisa en Ajustes > Datos Moviles si aparece la opcion 'Agregar eSIM'.
+        Si tu telefono es de empresa o esta bloqueado, consulta con tu operador antes de comprar.
+        Roami funciona en todos los iPhone desde XS/XR y en la mayoria de Android 2019 en adelante.
         si la opción 'Agregar eSIM' está disponible.
     - q: ¿Ofrecen garantía de reembolso si la eSIM para Malí no funciona?
       a: Sí, ofrecemos una garantía de reembolso del 100% en los 7 días posteriores

@@ -208,36 +208,46 @@ faq_section:
     title: Preguntas generales
     questions:
     - q: ¿Cómo seguir mi consumo de datos con la eSIM para Liberia?
-      a: Después de la activación, tendrás acceso a nuestro panel en línea. Allí verás
-        en tiempo real tu saldo de datos, el tiempo restante y podrás solicitar ayuda
-        en cualquier momento.
+      a: |
+        Puedes seguir tu consumo de datos en tiempo real desde el panel de control de Roami, accesible via web o app.
+        Alli veras cuantos GB has usado, cuantos te quedan y los dias restantes de tu plan para Liberia.
+        Tambien recibes alertas por correo cuando te acerques al limite.
+        Si te quedas sin datos, puedes recargar mas GB directamente desde el panel, sin necesidad de comprar un plan nuevo ni cambiar de eSIM.
+        Asi evitas quedarte sin internet en medio del viaje.
     - q: ¿Puedo instalar la eSIM para Liberia sin código QR?
       a: Sí, además del código QR, puedes instalar la eSIM manualmente usando la dirección
         SM‑DP+ y el código de activación (ambos indicados en tu confirmación de pedido).
         El código QR es el método más rápido y sencillo.
     - q: ¿Puedo conservar mi número de teléfono mientras uso la eSIM para Liberia?
-      a: 'La eSIM Roami es exclusivamente una tarjeta de datos. Puedes usar tu tarjeta
-        SIM doméstica en paralelo (por ejemplo, para llamadas/SMS). La mayoría de
-        los teléfonos dual SIM manejan ambos perfiles: solo selecciona la eSIM Roami
-        como estándar para datos móviles.'
+      a: |
+        La eSIM Roami para Liberia es solo de datos, no incluye un numero de telefono local.
+        Pero puedes mantener tu SIM fisica activa en modo dual SIM para recibir llamadas y SMS mientras usas los datos de Roami.
+        Configura la eSIM Roami para datos moviles y tu SIM habitual para llamadas y SMS.
+        Asi sigues recibiendo verificaciones bancarias y mensajes de tu operador, sin pagar roaming de datos que es lo mas caro.
     - q: ¿Puedo instalar la eSIM para Liberia antes de mi viaje y activarla más tarde?
-      a: Sí, puedes instalar la eSIM ahora (a través de Wi-Fi). La activación se realizará
-        automáticamente cuando tu teléfono, una vez en Liberia, detecte por primera
-        vez la red Lonestar Cell MTN / Orange Liberia. Así evitas el estrés desde
-        la llegada.
+      a: |
+        Si, puedes instalar la eSIM para Liberia en segundos desde tu casa, antes de salir de viaje.
+        La activacion se producira automaticamente al llegar a Liberia, cuando tu telefono se conecte a la red local por primera vez.
+        Esto significa que llegas con internet desde el momento del aterrizaje, sin buscar WiFi ni pagar roaming de emergencia.
+        Recomendamos instalarla con WiFi en casa y mantenerla desactivada hasta el viaje.
+        La validez del plan comienza al activarse, no al instalarse, asi que no pierdes tiempo.
     - q: ¿La eSIM para Liberia es más segura que una tarjeta SIM física?
-      a: Las eSIM están más protegidas contra accesos no autorizados porque están
-        integradas en el dispositivo y no pueden extraerse ni copiarse. Tus datos
-        permanecen cifrados — sin riesgo de tarjeta SIM perdida o robada.
+      a: |
+        Las eSIM son mas seguras que las SIM fisicas porque estan integradas en el dispositivo y no pueden extraerse ni clonarse.
+        Al viajar a Liberia, no necesitas mostrar tu pasaporte ni registrar una direccion local como exigen muchos operadores.
+        Mantienes tu SIM principal activa para recibir SMS de tu banco o verificaciones 2FA.
+        Si pierdes el telefono, la eSIM no se puede sacar ni usar en otro dispositivo, a diferencia de una SIM fisica que cualquiera puede sacar y poner en su movil.
     - q: ¿Cuánto cuesta la eSIM para Liberia y hay descuentos?
       a: Nuestro plan eSIM para Liberia comienza en 1,99 $/GB. Con el código promocional
         'web20', obtienes un 20% de descuento en todo el pedido — válido para todos
         los planes. Sin cargos ocultos, sin compromiso de duración mínima.
         Roami ofrece datos 5G de alta velocidad (100 a 300 Mbps) desde $1.99/GB. El plan de 5GB/15 dias por $9.99 es el mas elegido por viajeros.
     - q: ¿La eSIM para Liberia admite VoLTE y llamadas de voz HD?
-      a: Sí, la eSIM para Liberia admite VoLTE y voz HD si tu dispositivo lo permite.
-        Disfruta de una calidad de llamada nítida a través de la red 5G/4G de Lonestar
-        Cell MTN / Orange Liberia.
+      a: |
+        Si, la eSIM para Liberia admite VoLTE y voz HD si tu dispositivo lo permite.
+        Puedes usar la eSIM para datos mientras mantienes tu SIM fisica para llamadas en modo dual SIM.
+        Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
+        La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Liberia.
     - q: ¿Cómo funciona el roaming internacional con la eSIM para Liberia en países
         vecinos?
       a: La eSIM para Liberia está optimizada principalmente para Liberia. Para viajes
@@ -247,8 +257,8 @@ faq_section:
         locales en Liberia?
       a: A diferencia de las tarjetas SIM prepago locales, no necesitas ir a una tienda,
         pasar por verificación de identidad (KYC) o buscar una tarjeta de recarga
-        adecuada. Con Roami, activas tu eSIM digitalmente en menos de 2 minutos —
-        sin hacer cola en el aeropuerto.
+
+
     - q: ¿Roami ofrece planes ilimitados para Liberia? ¿Hay política de uso justo
         (FUP)?
       a: Roami ofrece planes verdaderamente ilimitados para Liberia. La política de

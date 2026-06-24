@@ -356,18 +356,23 @@ faq_section:
     title: Preguntas frecuentes sobre eSIM para Kenia
     questions:
     - q: ¿Puedo conservar mi número de teléfono mientras uso la eSIM para Kenia?
-      a: 'La eSIM Roami es exclusivamente una tarjeta de datos. Puedes usar tu tarjeta
-        SIM doméstica en paralelo (por ejemplo, para llamadas/SMS). La mayoría de
-        los teléfonos dual SIM manejan ambos perfiles: solo selecciona la eSIM Roami
-        como estándar para datos móviles.'
+      a: |
+        La eSIM Roami para Kenia es solo de datos, no incluye un numero de telefono local.
+        Pero puedes mantener tu SIM fisica activa en modo dual SIM para recibir llamadas y SMS mientras usas los datos de Roami.
+        Configura la eSIM Roami para datos moviles y tu SIM habitual para llamadas y SMS.
+        Asi sigues recibiendo verificaciones bancarias y mensajes de tu operador, sin pagar roaming de datos que es lo mas caro.
     - q: ¿Cuál es la validez del código QR para la eSIM para Kenia?
       a: El código QR es válido durante 30 días después de su envío a tu correo electrónico.
         Tienes suficiente tiempo para instalar la eSIM antes de tu viaje. Pasado ese
         plazo, podemos proporcionarte un nuevo código.
     - q: ¿Puedo transferir la eSIM para Kenia a otro dispositivo después de instalarla?
-      a: Una vez instalada, la eSIM no se puede transferir a otro dispositivo. Instala
-        la eSIM en el dispositivo que usarás durante tu viaje. Para dispositivos adicionales,
-        puedes comprar eSIM separadas.
+      a: |
+        Una vez instalada, la eSIM para Kenia NO se puede transferir a otro dispositivo.
+        Queda vinculada al telefono donde la instalaste inicialmente.
+        Por eso recomendamos instalar la eSIM directamente en el dispositivo que usaras en el viaje.
+        Si necesitas cambiarla a otro telefono, tendrias que comprar una nueva eSIM.
+        Pero puedes tener varias eSIM instaladas a la vez y elegir cual usar en cada momento.
+        Asi que si viajas con varios dispositivos, compra una eSIM para cada uno.
     - q: ¿Puedo usar la eSIM para Kenia como punto de acceso para otros dispositivos?
       a: Sí, todos los planes Roami eSIM para Kenia admiten compartir conexión ilimitado
         (punto de acceso). Puedes compartir la conexión con una computadora portátil,
@@ -378,9 +383,11 @@ faq_section:
         El código QR es el método más rápido y sencillo.
         Los precios de Roami empiezan en $1.99/GB. El plan mas popular es 5GB/15 dias por $9.99. La velocidad 5G alcanza hasta 300 Mbps en ciudades principales.
     - q: ¿La eSIM para Kenia es más segura que una tarjeta SIM física?
-      a: Las eSIM están más protegidas contra accesos no autorizados porque están
-        integradas en el dispositivo y no pueden extraerse ni copiarse. Tus datos
-        permanecen cifrados — sin riesgo de tarjeta SIM perdida o robada.
+      a: |
+        Las eSIM son mas seguras que las SIM fisicas porque estan integradas en el dispositivo y no pueden extraerse ni clonarse.
+        Al viajar a Kenia, no necesitas mostrar tu pasaporte ni registrar una direccion local como exigen muchos operadores.
+        Mantienes tu SIM principal activa para recibir SMS de tu banco o verificaciones 2FA.
+        Si pierdes el telefono, la eSIM no se puede sacar ni usar en otro dispositivo, a diferencia de una SIM fisica que cualquiera puede sacar y poner en su movil.
     - q: ¿Mi teléfono es compatible con eSIM para Kenia y cómo instalarlo?
       a: Sí, la mayoría de los teléfonos modernos (iPhone XS/XR o posterior, Samsung
         Galaxy S20+/Note20+, Google Pixel 3a+) son compatibles con eSIM. Instalas
@@ -388,10 +395,11 @@ faq_section:
         Safaricom / Airtel ofrecen una excelente cobertura 5G/4G en Kenia.
     - q: ¿Cuáles son las ventajas de la eSIM Roami frente a las tarjetas SIM prepago
         locales en Kenia?
-      a: A diferencia de las tarjetas SIM prepago locales, no necesitas ir a una tienda,
-        pasar por verificación de identidad (KYC) o buscar una tarjeta de recarga
-        adecuada. Con Roami, activas tu eSIM digitalmente en menos de 2 minutos —
-        sin hacer cola en el aeropuerto.
+      a: |
+        A diferencia de las tarjetas SIM prepago locales de Kenia, con Roami no necesitas ir a una tienda fisica, mostrar tu pasaporte ni buscar una tarjeta de recarga.
+        Activas tu eSIM digitalmente en menos de 2 minutos desde cualquier lugar del mundo.
+        Llegas a Kenia con internet desde el momento del aterrizaje, sin colas en el aeropuerto.
+        Ademas, los precios de Roami suelen ser 30-50% mas baratos que las SIM turisticas disponibles en tiendas del aeropuerto.
     - q: ¿Ofrecen garantía de reembolso si la eSIM para Kenia no funciona?
       a: Sí, ofrecemos una garantía de reembolso del 100% en los 7 días posteriores
         a la activación, si los problemas técnicos no pueden resolverse con nuestro

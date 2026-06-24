@@ -285,7 +285,11 @@ faq_section:
     - q: ¿Es mejor Singtel o AIS para viajar al Sudeste Asiático?
       a: Tanto Singtel como AIS ofrecen una excelente cobertura en todo el Sudeste Asiático. Singtel generalmente tiene una cobertura rural más amplia, mientras que AIS ofrece velocidades 5G competitivas en ciudades. Para la mayoría de los viajeros que visitan Bangkok, Singapur y sus alrededores, cualquiera de las dos redes funciona bien. Si planeas explorar áreas remotas, Singtel suele ser la opción más segura.
     - q: ¿Puedo obtener un reembolso si la eSIM para el Sudeste Asiático no funciona o tiene mala señal?
-      a: Sí, ofrecemos una garantía de devolución del dinero. Si experimentas problemas de red persistentes en el Sudeste Asiático que nuestro equipo de soporte no pueda resolver, eres elegible para un reembolso.
+      a: |
+        Ofrecemos garantia de reembolso del 100% en los primeros 7 dias desde la compra, si la eSIM para Southeast Asia no funciona en tu dispositivo o tienes problemas de compatibilidad.
+        Simplemente contacta a nuestro soporte 24/7 en espanol y procesamos tu reembolso.
+        Esto cubre problemas tecnicos, no aplica si ya activaste el plan en Southeast Asia y la cobertura de red es la esperada.
+        Revisa la pagina de cobertura antes de comprar para asegurarte de que tu destino en Southeast Asia tiene buena recepcion.
     - q: ¿Ofrecen atención al cliente 24/7? ¿Cómo puedo contactarlos?
       a: Sí, nuestro equipo de soporte técnico está disponible 24/7. Puedes comunicarte con nosotros a través del chat en vivo en nuestro sitio web o respondiendo al correo de confirmación de tu pedido.
     - q: ¿Hay algún código de descuento? ¿Cómo usar el código promocional 'web20'?

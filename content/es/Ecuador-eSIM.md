@@ -352,14 +352,19 @@ faq_section:
     title: Informacion general sobre eSIM en Ecuador
     questions:
     - q: ¿Cómo activar la eSIM para Ecuador y cuándo comienza el período de validez?
-      a: Después de la compra, recibes inmediatamente un código QR de activación por
-        correo electrónico. La validez comienza solo cuando tu teléfono se conecta
-        por primera vez a una de nuestras redes asociadas (Claro / Movistar) en Ecuador.
-        Así, solo pagas por los días que realmente estás en el país.
+      a: |
+        Al comprar, recibes al instante un codigo QR por correo electronico.
+        Instalas la eSIM escaneando el QR en Ajustes > Datos Moviles > Agregar eSIM.
+        La validez del plan comienza SOLO cuando llegas a Ecuador y activas la eSIM conectandote a la red local por primera vez.
+        Puedes instalar la eSIM semanas antes del viaje sin que el tiempo corra.
+        El codigo QR es valido por 30 dias, asi que tienes tiempo de sobra para preparar todo.
     - q: ¿Puedo comprar e instalar la eSIM para Ecuador antes de mi viaje y activarla más tarde?
-      a: Sí, puedes instalar la eSIM ahora (a través de Wi-Fi). La activación se realizará
-        automáticamente cuando tu teléfono, una vez en Ecuador, detecte por primera
-        vez la red Claro / Movistar. Así evitas el estrés desde la llegada.
+      a: |
+        Si, puedes instalar la eSIM para Ecuador en segundos desde tu casa, antes de salir de viaje.
+        La activacion se producira automaticamente al llegar a Ecuador, cuando tu telefono se conecte a la red local por primera vez.
+        Esto significa que llegas con internet desde el momento del aterrizaje, sin buscar WiFi ni pagar roaming de emergencia.
+        Recomendamos instalarla con WiFi en casa y mantenerla desactivada hasta el viaje.
+        La validez del plan comienza al activarse, no al instalarse, asi que no pierdes tiempo.
     - q: ¿Roami ofrece planes ilimitados para Ecuador? ¿Hay política de uso justo
         (FUP)?
       a: Roami ofrece planes verdaderamente ilimitados para Ecuador. La política de
@@ -368,18 +373,24 @@ faq_section:
         videollamadas y GPS no están limitados.
         Roami ofrece planes desde $1.99/GB (7 dias) hasta $59.99 por datos ilimitados (30 dias), con velocidades 5G de 100 a 300 Mbps en la mayoria de zonas urbanas.
     - q: ¿Ofrecen garantía de reembolso si la eSIM para Ecuador no funciona?
-      a: Sí, ofrecemos una garantía de reembolso del 100% en los 7 días posteriores
-        a la activación, si los problemas técnicos no pueden resolverse con nuestro
-        soporte 24/7. Sin riesgo para ti.
+      a: |
+        Ofrecemos garantia de reembolso del 100% en los primeros 7 dias desde la compra, si la eSIM para Ecuador no funciona en tu dispositivo o tienes problemas de compatibilidad.
+        Simplemente contacta a nuestro soporte 24/7 en espanol y procesamos tu reembolso.
+        Esto cubre problemas tecnicos, no aplica si ya activaste el plan en Ecuador y la cobertura de red es la esperada.
+        Revisa la pagina de cobertura antes de comprar para asegurarte de que tu destino en Ecuador tiene buena recepcion.
     - q: ¿Qué requisitos debe cumplir mi teléfono para usar la eSIM para Ecuador?
-      a: Tu dispositivo debe ser compatible con eSIM (iPhone XS/XR o posterior, Samsung
-        Galaxy S20/Note20 o posterior, Google Pixel 3a o posterior, así como la mayoría
-        de los teléfonos 5G modernos Huawei, Xiaomi, OnePlus). Verifica en los ajustes
-        si la opción 'Agregar eSIM' está disponible.
+      a: |
+        Necesitas un telefono compatible con eSIM (iPhone XS/XR+, Samsung S20+, Pixel 3a+) y que no este bloqueado por un operador.
+        Para la eSIM de Ecuador, no se requiere pasaporte ni registro de direccion local.
+        Revisa en Ajustes > Datos Moviles si aparece la opcion 'Agregar eSIM'.
+        Si tu telefono es de empresa o esta bloqueado, consulta con tu operador antes de comprar.
+        Roami funciona en todos los iPhone desde XS/XR y en la mayoria de Android 2019 en adelante.
     - q: ¿La eSIM para Ecuador admite VoLTE y llamadas de voz HD?
-      a: Sí, la eSIM para Ecuador admite VoLTE y voz HD si tu dispositivo lo permite.
-        Disfruta de una calidad de llamada nítida a través de la red 5G/4G de Claro
-        / Movistar.
+      a: |
+        Si, la eSIM para Ecuador admite VoLTE y voz HD si tu dispositivo lo permite.
+        Puedes usar la eSIM para datos mientras mantienes tu SIM fisica para llamadas en modo dual SIM.
+        Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
+        La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Ecuador.
     - q: ¿Cuál es la validez del código QR para la eSIM para Ecuador?
       a: El código QR es válido durante 30 días después de su envío a tu correo electrónico.
         Tienes suficiente tiempo para instalar la eSIM antes de tu viaje. Pasado ese
@@ -396,7 +407,6 @@ faq_section:
     - q: ¿Puedo transferir la eSIM para Ecuador a otro dispositivo después de instalarla?
       a: Una vez instalada, la eSIM no se puede transferir a otro dispositivo. Instala
         la eSIM en el dispositivo que usarás durante tu viaje. Para dispositivos adicionales,
-        puedes comprar eSIM separadas.
   - id: faq-airport
     icon: plane
     tab_title: Aeropuertos

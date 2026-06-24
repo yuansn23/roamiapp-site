@@ -388,14 +388,18 @@ faq_section:
         Asia, América del Norte y todo el mundo. Ideal para viajes de varios días
         entre ciudades o giras por varios países — sin cambiar de tarjeta SIM.
     - q: ¿La eSIM para Sudáfrica admite VoLTE y llamadas de voz HD?
-      a: Sí, la eSIM para Sudáfrica admite VoLTE y voz HD si tu dispositivo lo permite.
-        Disfruta de una calidad de llamada nítida a través de la red 5G/4G de Vodacom
-        / MTN.
+      a: |
+        Si, la eSIM para Sudafrica admite VoLTE y voz HD si tu dispositivo lo permite.
+        Puedes usar la eSIM para datos mientras mantienes tu SIM fisica para llamadas en modo dual SIM.
+        Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
+        La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Sudafrica.
     - q: ¿Cómo activar la eSIM para Sudáfrica y cuándo comienza el período de validez?
-      a: Después de la compra, recibes inmediatamente un código QR de activación por
-        correo electrónico. La validez comienza solo cuando tu teléfono se conecta
-        por primera vez a una de nuestras redes asociadas (Vodacom / MTN) en Sudáfrica.
-        Así, solo pagas por los días que realmente estás en el país.
+      a: |
+        Al comprar, recibes al instante un codigo QR por correo electronico.
+        Instalas la eSIM escaneando el QR en Ajustes > Datos Moviles > Agregar eSIM.
+        La validez del plan comienza SOLO cuando llegas a Sudafrica y activas la eSIM conectandote a la red local por primera vez.
+        Puedes instalar la eSIM semanas antes del viaje sin que el tiempo corra.
+        El codigo QR es valido por 30 dias, asi que tienes tiempo de sobra para preparar todo.
     - q: ¿Roami ofrece planes ilimitados para Sudáfrica? ¿Hay política de uso justo
         (FUP)?
       a: Roami ofrece planes verdaderamente ilimitados para Sudáfrica. La política
@@ -404,9 +408,13 @@ faq_section:
         videollamadas y GPS no están limitados.
         Por solo $1.99/GB puedes navegar a velocidades 5G de hasta 300 Mbps. Roami ofrece planes de 1GB a ilimitados, todos con activacion en menos de 2 minutos.
     - q: ¿Puedo transferir la eSIM para Sudáfrica a otro dispositivo después de instalarla?
-      a: Una vez instalada, la eSIM no se puede transferir a otro dispositivo. Instala
-        la eSIM en el dispositivo que usarás durante tu viaje. Para dispositivos adicionales,
-        puedes comprar eSIM separadas.
+      a: |
+        Una vez instalada, la eSIM para Sudafrica NO se puede transferir a otro dispositivo.
+        Queda vinculada al telefono donde la instalaste inicialmente.
+        Por eso recomendamos instalar la eSIM directamente en el dispositivo que usaras en el viaje.
+        Si necesitas cambiarla a otro telefono, tendrias que comprar una nueva eSIM.
+        Pero puedes tener varias eSIM instaladas a la vez y elegir cual usar en cada momento.
+        Asi que si viajas con varios dispositivos, compra una eSIM para cada uno.
     - q: ¿Puedo seguir recibiendo llamadas en mi tarjeta SIM doméstica mientras uso
         la eSIM para Sudáfrica?
       a: Sí, los dispositivos dual SIM permiten usar ambos perfiles simultáneamente.

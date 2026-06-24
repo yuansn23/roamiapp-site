@@ -359,9 +359,12 @@ faq_section:
         países vecinos, recomendamos nuestra eSIM Europa o regional, que ofrece roaming
         transparente sin cargos adicionales.
     - q: ¿Puedo comprar e instalar la eSIM para Perú antes de mi viaje y activarla más tarde?
-      a: Sí, puedes instalar la eSIM ahora (a través de Wi-Fi). La activación se realizará
-        automáticamente cuando tu teléfono, una vez en Perú, detecte por primera vez
-        la red Claro / Movistar. Así evitas el estrés desde la llegada.
+      a: |
+        Si, puedes instalar la eSIM para Peru en segundos desde tu casa, antes de salir de viaje.
+        La activacion se producira automaticamente al llegar a Peru, cuando tu telefono se conecte a la red local por primera vez.
+        Esto significa que llegas con internet desde el momento del aterrizaje, sin buscar WiFi ni pagar roaming de emergencia.
+        Recomendamos instalarla con WiFi en casa y mantenerla desactivada hasta el viaje.
+        La validez del plan comienza al activarse, no al instalarse, asi que no pierdes tiempo.
     - q: ¿Cuál es la validez del código QR para la eSIM para Perú?
       a: El código QR es válido durante 30 días después de su envío a tu correo electrónico.
         Tienes suficiente tiempo para instalar la eSIM antes de tu viaje. Pasado ese
@@ -380,14 +383,19 @@ faq_section:
         (punto de acceso). Puedes compartir la conexión con una computadora portátil,
         tableta o tus compañeros de viaje — sin cargos ocultos ni reducción de velocidad.
     - q: ¿Puedo conservar mi número de teléfono mientras uso la eSIM para Perú?
-      a: 'La eSIM Roami es exclusivamente una tarjeta de datos. Puedes usar tu tarjeta
-        SIM doméstica en paralelo (por ejemplo, para llamadas/SMS). La mayoría de
-        los teléfonos dual SIM manejan ambos perfiles: solo selecciona la eSIM Roami
-        como estándar para datos móviles.'
+      a: |
+        La eSIM Roami para Peru es solo de datos, no incluye un numero de telefono local.
+        Pero puedes mantener tu SIM fisica activa en modo dual SIM para recibir llamadas y SMS mientras usas los datos de Roami.
+        Configura la eSIM Roami para datos moviles y tu SIM habitual para llamadas y SMS.
+        Asi sigues recibiendo verificaciones bancarias y mensajes de tu operador, sin pagar roaming de datos que es lo mas caro.
     - q: ¿Puedo transferir la eSIM para Perú a otro dispositivo después de instalarla?
-      a: Una vez instalada, la eSIM no se puede transferir a otro dispositivo. Instala
-        la eSIM en el dispositivo que usarás durante tu viaje. Para dispositivos adicionales,
-        puedes comprar eSIM separadas.
+      a: |
+        Una vez instalada, la eSIM para Peru NO se puede transferir a otro dispositivo.
+        Queda vinculada al telefono donde la instalaste inicialmente.
+        Por eso recomendamos instalar la eSIM directamente en el dispositivo que usaras en el viaje.
+        Si necesitas cambiarla a otro telefono, tendrias que comprar una nueva eSIM.
+        Pero puedes tener varias eSIM instaladas a la vez y elegir cual usar en cada momento.
+        Asi que si viajas con varios dispositivos, compra una eSIM para cada uno.
     - q: ¿La eSIM para Perú es más segura que una tarjeta SIM física?
       a: Las eSIM están más protegidas contra accesos no autorizados porque están
         integradas en el dispositivo y no pueden extraerse ni copiarse. Tus datos

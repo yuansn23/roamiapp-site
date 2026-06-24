@@ -397,33 +397,44 @@ faq_section:
     title: Preguntas frecuentes sobre eSIM para Republica Checa
     questions:
     - q: ¿La eSIM para República Checa es más segura que una tarjeta SIM física?
-      a: Las eSIM están más protegidas contra accesos no autorizados porque están
-        integradas en el dispositivo y no pueden extraerse ni copiarse. Tus datos
-        permanecen cifrados — sin riesgo de tarjeta SIM perdida o robada.
+      a: |
+        Las eSIM son mas seguras que las SIM fisicas porque estan integradas en el dispositivo y no pueden extraerse ni clonarse.
+        Al viajar a Republica Checa, no necesitas mostrar tu pasaporte ni registrar una direccion local como exigen muchos operadores.
+        Mantienes tu SIM principal activa para recibir SMS de tu banco o verificaciones 2FA.
+        Si pierdes el telefono, la eSIM no se puede sacar ni usar en otro dispositivo, a diferencia de una SIM fisica que cualquiera puede sacar y poner en su movil.
     - q: ¿Puedo seguir recibiendo llamadas en mi tarjeta SIM doméstica mientras uso
         la eSIM para República Checa?
-      a: Sí, los dispositivos dual SIM permiten usar ambos perfiles simultáneamente.
-        Solo configura en los ajustes la eSIM Roami como estándar para datos móviles.
-        Las llamadas y SMS pasarán por tu tarjeta SIM doméstica (el roaming puede
-        estar activo).
+      a: |
+        Si, la eSIM para Republica Checa admite VoLTE y voz HD si tu dispositivo lo permite.
+        Puedes usar la eSIM para datos mientras mantienes tu SIM fisica para llamadas en modo dual SIM.
+        Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
+        La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Republica Checa.
     - q: ¿Puedo instalar la eSIM para República Checa antes de mi viaje y activarla
         más tarde?
-      a: Sí, puedes instalar la eSIM ahora (a través de Wi-Fi). La activación se realizará
-        automáticamente cuando tu teléfono, una vez en República Checa, detecte por
-        primera vez la red Vodafone / T-Mobile. Así evitas el estrés desde la llegada.
+      a: |
+        Si, puedes instalar la eSIM para Republica Checa en segundos desde tu casa, antes de salir de viaje.
+        La activacion se producira automaticamente al llegar a Republica Checa, cuando tu telefono se conecte a la red local por primera vez.
+        Esto significa que llegas con internet desde el momento del aterrizaje, sin buscar WiFi ni pagar roaming de emergencia.
+        Recomendamos instalarla con WiFi en casa y mantenerla desactivada hasta el viaje.
+        La validez del plan comienza al activarse, no al instalarse, asi que no pierdes tiempo.
     - q: ¿Cómo seguir mi consumo de datos con la eSIM para República Checa?
-      a: Después de la activación, tendrás acceso a nuestro panel en línea. Allí verás
-        en tiempo real tu saldo de datos, el tiempo restante y podrás solicitar ayuda
-        en cualquier momento.
+      a: |
+        Puedes seguir tu consumo de datos en tiempo real desde el panel de control de Roami, accesible via web o app.
+        Alli veras cuantos GB has usado, cuantos te quedan y los dias restantes de tu plan para Republica Checa.
+        Tambien recibes alertas por correo cuando te acerques al limite.
+        Si te quedas sin datos, puedes recargar mas GB directamente desde el panel, sin necesidad de comprar un plan nuevo ni cambiar de eSIM.
+        Asi evitas quedarte sin internet en medio del viaje.
     - q: ¿Cuánto cuesta la eSIM para República Checa y hay descuentos?
       a: Nuestro plan eSIM para República Checa comienza en 1,99 $/GB. Con el código
         promocional 'web20', obtienes un 20% de descuento en todo el pedido — válido
         para todos los planes. Sin cargos ocultos, sin compromiso de duración mínima.
         Con Roami pagas desde $1.99/GB sin contrato, planes de 1GB ($1.99), 5GB ($9.99) y 10GB ($19.99), con conexion automatica a la red 5G/4G mas rapida.
     - q: ¿La eSIM para República Checa admite VoLTE y llamadas de voz HD?
-      a: Sí, la eSIM para República Checa admite VoLTE y voz HD si tu dispositivo
-        lo permite. Disfruta de una calidad de llamada nítida a través de la red 5G/4G
-        de Vodafone / T-Mobile.
+      a: |
+        Si, la eSIM para Republica Checa admite VoLTE y voz HD si tu dispositivo lo permite.
+        Puedes usar la eSIM para datos mientras mantienes tu SIM fisica para llamadas en modo dual SIM.
+        Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
+        La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Republica Checa.
     - q: ¿Roami ofrece planes ilimitados para República Checa? ¿Hay política de uso
         justo (FUP)?
       a: Roami ofrece planes verdaderamente ilimitados para República Checa. La política

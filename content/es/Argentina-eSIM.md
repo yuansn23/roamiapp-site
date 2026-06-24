@@ -351,10 +351,11 @@ faq_section:
     title: Todo sobre la eSIM para Argentina
     questions:
     - q: ¿Puedo conservar mi número de teléfono mientras uso la eSIM para Argentina?
-      a: 'La eSIM Roami es exclusivamente una tarjeta de datos. Puedes usar tu tarjeta
-        SIM doméstica en paralelo (por ejemplo, para llamadas/SMS). La mayoría de
-        los teléfonos dual SIM manejan ambos perfiles: solo selecciona la eSIM Roami
-        como estándar para datos móviles.'
+      a: |
+        La eSIM Roami para Argentina es solo de datos, no incluye un numero de telefono local.
+        Pero puedes mantener tu SIM fisica activa en modo dual SIM para recibir llamadas y SMS mientras usas los datos de Roami.
+        Configura la eSIM Roami para datos moviles y tu SIM habitual para llamadas y SMS.
+        Asi sigues recibiendo verificaciones bancarias y mensajes de tu operador, sin pagar roaming de datos que es lo mas caro.
     - q: ¿Puedo usar la eSIM para Argentina como punto de acceso para otros dispositivos?
       a: Sí, todos los planes Roami eSIM para Argentina admiten compartir conexión
         ilimitado (punto de acceso). Puedes compartir la conexión con una computadora
@@ -367,27 +368,35 @@ faq_section:
         redes Movistar / Claro ofrecen una excelente cobertura 5G/4G en Argentina.
         Por $1.99 obtienes 1GB para 7 dias, por $9.99 tienes 5GB para 15 dias, y por $19.99 disfrutas de 10GB para 30 dias. Todo con velocidades 5G de alta velocidad.
     - q: ¿Puedo transferir la eSIM para Argentina a otro dispositivo después de instalarla?
-      a: Una vez instalada, la eSIM no se puede transferir a otro dispositivo. Instala
-        la eSIM en el dispositivo que usarás durante tu viaje. Para dispositivos adicionales,
-        puedes comprar eSIM separadas.
+      a: |
+        Una vez instalada, la eSIM para Argentina NO se puede transferir a otro dispositivo.
+        Queda vinculada al telefono donde la instalaste inicialmente.
+        Por eso recomendamos instalar la eSIM directamente en el dispositivo que usaras en el viaje.
+        Si necesitas cambiarla a otro telefono, tendrias que comprar una nueva eSIM.
+        Pero puedes tener varias eSIM instaladas a la vez y elegir cual usar en cada momento.
+        Asi que si viajas con varios dispositivos, compra una eSIM para cada uno.
     - q: ¿Cuál es la validez del código QR para la eSIM para Argentina?
       a: El código QR es válido durante 30 días después de su envío a tu correo electrónico.
         Tienes suficiente tiempo para instalar la eSIM antes de tu viaje. Pasado ese
         plazo, podemos proporcionarte un nuevo código.
     - q: ¿La eSIM para Argentina admite VoLTE y llamadas de voz HD?
-      a: Sí, la eSIM para Argentina admite VoLTE y voz HD si tu dispositivo lo permite.
-        Disfruta de una calidad de llamada nítida a través de la red 5G/4G de Movistar
-        / Claro.
+      a: |
+        Si, la eSIM para Argentina admite VoLTE y voz HD si tu dispositivo lo permite.
+        Puedes usar la eSIM para datos mientras mantienes tu SIM fisica para llamadas en modo dual SIM.
+        Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
+        La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Argentina.
     - q: ¿Cómo funciona el roaming internacional con la eSIM para Argentina en países
         vecinos?
       a: La eSIM para Argentina está optimizada principalmente para Argentina. Para
         viajes a países vecinos, recomendamos nuestra eSIM Europa o regional, que
         ofrece roaming transparente sin cargos adicionales.
     - q: ¿Qué requisitos debe cumplir mi teléfono para usar la eSIM para Argentina?
-      a: Tu dispositivo debe ser compatible con eSIM (iPhone XS/XR o posterior, Samsung
-        Galaxy S20/Note20 o posterior, Google Pixel 3a o posterior, así como la mayoría
-        de los teléfonos 5G modernos Huawei, Xiaomi, OnePlus). Verifica en los ajustes
-        si la opción 'Agregar eSIM' está disponible.
+      a: |
+        Necesitas un telefono compatible con eSIM (iPhone XS/XR+, Samsung S20+, Pixel 3a+) y que no este bloqueado por un operador.
+        Para la eSIM de Argentina, no se requiere pasaporte ni registro de direccion local.
+        Revisa en Ajustes > Datos Moviles si aparece la opcion 'Agregar eSIM'.
+        Si tu telefono es de empresa o esta bloqueado, consulta con tu operador antes de comprar.
+        Roami funciona en todos los iPhone desde XS/XR y en la mayoria de Android 2019 en adelante.
     - q: ¿La eSIM para Argentina es más segura que una tarjeta SIM física?
       a: Las eSIM están más protegidas contra accesos no autorizados porque están
         integradas en el dispositivo y no pueden extraerse ni copiarse. Tus datos

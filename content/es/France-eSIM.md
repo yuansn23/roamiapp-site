@@ -410,9 +410,11 @@ faq_section:
     title: Informacion general sobre eSIM en Francia
     questions:
     - q: ¿Ofrecen garantía de reembolso si la eSIM para Francia no funciona?
-      a: Sí, ofrecemos una garantía de reembolso del 100% en los 7 días posteriores
-        a la activación, si los problemas técnicos no pueden resolverse con nuestro
-        soporte 24/7. Sin riesgo para ti.
+      a: |
+        Ofrecemos garantia de reembolso del 100% en los primeros 7 dias desde la compra, si la eSIM para Francia no funciona en tu dispositivo o tienes problemas de compatibilidad.
+        Simplemente contacta a nuestro soporte 24/7 en espanol y procesamos tu reembolso.
+        Esto cubre problemas tecnicos, no aplica si ya activaste el plan en Francia y la cobertura de red es la esperada.
+        Revisa la pagina de cobertura antes de comprar para asegurarte de que tu destino en Francia tiene buena recepcion.
     - q: ¿Puedo usar la eSIM para Francia como punto de acceso para otros dispositivos?
       a: Sí, todos los planes Roami eSIM para Francia admiten compartir conexión ilimitado
         (punto de acceso). Puedes compartir la conexión con una computadora portátil,
@@ -423,19 +425,24 @@ faq_section:
         plazo, podemos proporcionarte un nuevo código.
         Los planes de datos comienzan en $1.99 por 1GB/7 dias, $9.99 por 5GB/15 dias y $19.99 por 10GB/30 dias, todo con velocidad 5G donde este disponible.
     - q: ¿Qué requisitos debe cumplir mi teléfono para usar la eSIM para Francia?
-      a: Tu dispositivo debe ser compatible con eSIM (iPhone XS/XR o posterior, Samsung
-        Galaxy S20/Note20 o posterior, Google Pixel 3a o posterior, así como la mayoría
-        de los teléfonos 5G modernos Huawei, Xiaomi, OnePlus). Verifica en los ajustes
-        si la opción 'Agregar eSIM' está disponible.
+      a: |
+        Necesitas un telefono compatible con eSIM (iPhone XS/XR+, Samsung S20+, Pixel 3a+) y que no este bloqueado por un operador.
+        Para la eSIM de Francia, no se requiere pasaporte ni registro de direccion local.
+        Revisa en Ajustes > Datos Moviles si aparece la opcion 'Agregar eSIM'.
+        Si tu telefono es de empresa o esta bloqueado, consulta con tu operador antes de comprar.
+        Roami funciona en todos los iPhone desde XS/XR y en la mayoria de Android 2019 en adelante.
     - q: ¿Cómo funciona el roaming internacional con la eSIM para Francia en países
         vecinos?
       a: La eSIM para Francia está optimizada principalmente para Francia. Para viajes
         a países vecinos, recomendamos nuestra eSIM Europa o regional, que ofrece
         roaming transparente sin cargos adicionales.
     - q: ¿Puedo comprar e instalar la eSIM para Francia antes de mi viaje y activarla más tarde?
-      a: Sí, puedes instalar la eSIM ahora (a través de Wi-Fi). La activación se realizará
-        automáticamente cuando tu teléfono, una vez en Francia, detecte por primera
-        vez la red Orange / SFR. Así evitas el estrés desde la llegada.
+      a: |
+        Si, puedes instalar la eSIM para Francia en segundos desde tu casa, antes de salir de viaje.
+        La activacion se producira automaticamente al llegar a Francia, cuando tu telefono se conecte a la red local por primera vez.
+        Esto significa que llegas con internet desde el momento del aterrizaje, sin buscar WiFi ni pagar roaming de emergencia.
+        Recomendamos instalarla con WiFi en casa y mantenerla desactivada hasta el viaje.
+        La validez del plan comienza al activarse, no al instalarse, asi que no pierdes tiempo.
     - q: ¿Mi teléfono es compatible con eSIM para Francia y cómo instalarlo?
       a: Sí, la mayoría de los teléfonos modernos (iPhone XS/XR o posterior, Samsung
         Galaxy S20+/Note20+, Google Pixel 3a+) son compatibles con eSIM. Instalas

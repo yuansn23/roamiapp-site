@@ -394,9 +394,11 @@ faq_section:
         plazo, podemos proporcionarte un nuevo código.
         Por $1.99 obtienes 1GB para 7 dias, por $9.99 tienes 5GB para 15 dias, y por $19.99 disfrutas de 10GB para 30 dias. Todo con velocidades 5G de alta velocidad.
     - q: ¿Ofrecen garantía de reembolso si la eSIM para Camboya no funciona?
-      a: Sí, ofrecemos una garantía de reembolso del 100% en los 7 días posteriores
-        a la activación, si los problemas técnicos no pueden resolverse con nuestro
-        soporte 24/7. Sin riesgo para ti.
+      a: |
+        Ofrecemos garantia de reembolso del 100% en los primeros 7 dias desde la compra, si la eSIM para Camboya no funciona en tu dispositivo o tienes problemas de compatibilidad.
+        Simplemente contacta a nuestro soporte 24/7 en espanol y procesamos tu reembolso.
+        Esto cubre problemas tecnicos, no aplica si ya activaste el plan en Camboya y la cobertura de red es la esperada.
+        Revisa la pagina de cobertura antes de comprar para asegurarte de que tu destino en Camboya tiene buena recepcion.
     - q: ¿Roami ofrece planes ilimitados para Camboya? ¿Hay política de uso justo
         (FUP)?
       a: Roami ofrece planes verdaderamente ilimitados para Camboya. La política de
@@ -413,15 +415,18 @@ faq_section:
         a países vecinos, recomendamos nuestra eSIM Europa o regional, que ofrece
         roaming transparente sin cargos adicionales.
     - q: ¿La eSIM para Camboya admite VoLTE y llamadas de voz HD?
-      a: Sí, la eSIM para Camboya admite VoLTE y voz HD si tu dispositivo lo permite.
-        Disfruta de una calidad de llamada nítida a través de la red 5G/4G de Cellcard
-        / Smart Axiata.
+      a: |
+        Si, la eSIM para Camboya admite VoLTE y voz HD si tu dispositivo lo permite.
+        Puedes usar la eSIM para datos mientras mantienes tu SIM fisica para llamadas en modo dual SIM.
+        Esto es util para recibir llamadas de tu operador habitual sin costos de roaming.
+        La calidad de las videollamadas (WhatsApp, FaceTime) es excelente con la velocidad 5G que ofrece Roami en las principales ciudades de Camboya.
     - q: ¿Cuáles son las ventajas de la eSIM Roami frente a las tarjetas SIM prepago
         locales en Camboya?
-      a: A diferencia de las tarjetas SIM prepago locales, no necesitas ir a una tienda,
-        pasar por verificación de identidad (KYC) o buscar una tarjeta de recarga
-        adecuada. Con Roami, activas tu eSIM digitalmente en menos de 2 minutos —
-        sin hacer cola en el aeropuerto.
+      a: |
+        A diferencia de las tarjetas SIM prepago locales de Camboya, con Roami no necesitas ir a una tienda fisica, mostrar tu pasaporte ni buscar una tarjeta de recarga.
+        Activas tu eSIM digitalmente en menos de 2 minutos desde cualquier lugar del mundo.
+        Llegas a Camboya con internet desde el momento del aterrizaje, sin colas en el aeropuerto.
+        Ademas, los precios de Roami suelen ser 30-50% mas baratos que las SIM turisticas disponibles en tiendas del aeropuerto.
     - q: ¿Qué requisitos debe cumplir mi teléfono para usar la eSIM para Camboya?
       a: Tu dispositivo debe ser compatible con eSIM (iPhone XS/XR o posterior, Samsung
         Galaxy S20/Note20 o posterior, Google Pixel 3a o posterior, así como la mayoría
