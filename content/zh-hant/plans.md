@@ -1,5 +1,5 @@
 ---
-title: "方案"
+title: "eSIM方案"
 layout: "plans"
 type: "page"
 date: '2026-06-15T00:00:00+00:00'

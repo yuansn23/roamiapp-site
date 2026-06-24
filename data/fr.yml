@@ -31,7 +31,7 @@ related_products:
       price: À partir de 1,99 $
       is_highlight: false
       slug: tunisia-esim
-    - name: Royaume-Uni eSIM
+    - name: UK eSIM
       flag: img/flags/gb.svg
       price: À partir de 1,99 $
       is_highlight: false
@@ -66,7 +66,7 @@ related_products:
       price: À partir de 1,99 $
       is_highlight: false
       slug: canada-esim
-    - name: États-Unis eSIM
+    - name: USA eSIM
       flag: img/flags/us.svg
       price: À partir de 1,99 $
       is_highlight: false

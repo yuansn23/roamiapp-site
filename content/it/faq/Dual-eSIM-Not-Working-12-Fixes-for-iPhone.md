@@ -32,7 +32,7 @@ sidebar_popular:
   title: "eSIM popolari"
   item_suffix: "eSIM"
   items:
-    - name: "Stati Uniti"
+    - name: "USA"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
@@ -169,7 +169,7 @@ Le reti CDMA utilizzano una diversa tecnologia di fallback vocale (1xRTT). Il ba
 **In parole semplici:** Immagina il modem cellulare del tuo iPhone come una strada a una corsia. Una linea CDMA è un grosso camion che blocca l'intera strada. Nessun'altra voce di linea può passare finché il camion non se ne va.
 
 ### Quali operatori sono CDMA?
-- **Stati Uniti**: Verizon (piani più vecchi), US Cellular, alcuni MVNO. Per dettagli approfonditi sugli [operatori eSIM USA](/united-states-esim/), consulta la nostra guida.
+- **USA**: Verizon (piani più vecchi), US Cellular, alcuni MVNO. Per dettagli approfonditi sugli [operatori eSIM USA](/united-states-esim/), consulta la nostra guida.
 - **Giappone**: au (KDDI) (CDMA eliminato, ma esistono piani legacy)
 - **Altri**: La maggior parte del mondo utilizza GSM/UMTS/LTE (nessun problema)
 

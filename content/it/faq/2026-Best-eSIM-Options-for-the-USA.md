@@ -33,7 +33,7 @@ sidebar_popular:
   title: "eSIM Popolari"
   item_suffix: "eSIM"
   items:
-    - name: "Stati Uniti"
+    - name: "USA"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
@@ -124,7 +124,7 @@ Molti viaggiatori, per comodità, attivano direttamente il roaming internazional
 * **❌ Commissioni Nascoste e Trappole Contrattuali:** Alcune schede locali apparentemente economiche addebitano una "commissione di attivazione" o "commissione per la scheda SIM" e il processo di cancellazione è estremamente complicato.
 * **❌ Rischio di Perdere Contatto all'Arrivo:** Se non ti prepari in anticipo, non sarai in grado di utilizzare app di ride-hailing (come Uber/Lyft) o contattare il tuo servizio di ritiro in aeroporto nel tempo tra lo sbarco e l'acquisto di una scheda telefonica.
 
-Al contrario, utilizzare una [eSIM per gli Stati Uniti](/united-states-esim/) progettata specificamente per i viaggiatori risolve perfettamente questi problemi: prezzi trasparenti, pronta all'uso subito dopo l'acquisto e connessione immediata all'atterraggio. Se sei un globetrotter che viaggia in più paesi contemporaneamente e hai bisogno di [eSIM per altri paesi](/plans/), si consiglia anche di pianificare in anticipo i tuoi piani di rete esclusivi per regione.
+Al contrario, utilizzare una [eSIM per gli USA](/united-states-esim/) progettata specificamente per i viaggiatori risolve perfettamente questi problemi: prezzi trasparenti, pronta all'uso subito dopo l'acquisto e connessione immediata all'atterraggio. Se sei un globetrotter che viaggia in più paesi contemporaneamente e hai bisogno di [eSIM per altri paesi](/plans/), si consiglia anche di pianificare in anticipo i tuoi piani di rete esclusivi per regione.
 
 ###  La Compatibilità Non Equivale alla Disponibilità
 

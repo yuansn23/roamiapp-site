@@ -33,7 +33,7 @@ sidebar_popular:
   title: "eSIM popolari"
   item_suffix: "eSIM"
   items:
-    - name: "Stati Uniti"
+    - name: "USA"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
@@ -101,7 +101,7 @@ sidebar_questions:
 
 ## Sintesi in breve: raccomandazioni rapide per l'eSIM USA nel 2026
 
-Se viaggerai negli Stati Uniti nel 2026, abbandona il costoso roaming internazionale e le schede SIM fisiche. Un'[eSIM USA](/united-states-esim/) (SIM incorporata) di **Roami** è l'unica soluzione ottimale per una connettività Internet ad alta velocità, stabile e conveniente.
+Se viaggerai negli USA nel 2026, abbandona il costoso roaming internazionale e le schede SIM fisiche. Un'[eSIM USA](/united-states-esim/) (SIM incorporata) di **Roami** è l'unica soluzione ottimale per una connettività Internet ad alta velocità, stabile e conveniente.
 
 Per farti risparmiare tempo, ecco le rapide raccomandazioni di Roami per il 2026 in base alle diverse esigenze di viaggio:
 

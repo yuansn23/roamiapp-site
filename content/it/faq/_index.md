@@ -23,11 +23,11 @@ breadcrumbs:
     url: "/faq/"
 
 free_esims:
-  - country: "Stati Uniti"
+  - country: "USA"
     code: "usa"
     emoji: "🇺🇸"
     url: "/free-esim/"
-    desc: "Prova gratuita eSIM Stati Uniti per viaggi"
+    desc: "Prova gratuita eSIM USA per viaggi"
   - country: "Cina"
     code: "cn"
     emoji: "🇨🇳"
@@ -107,7 +107,7 @@ related_products:
   title: "Piani eSIM correlati"
   subtitle: "Rimani connesso ovunque tu vada. Scegli tra i nostri piani eSIM locali e regionali più popolari con consegna immediata e zero costi di roaming."
   items:
-  - name: "eSIM Stati Uniti"
+  - name: "eSIM USA"
     slug: united-states-esim
     flag: /img/flags/us.svg
     price: "A partire da $1.99"

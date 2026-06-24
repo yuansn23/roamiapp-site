@@ -1,11 +1,11 @@
 ---
 title: "eSIM USA 2026 : comment choisir le meilleur forfait ?"
-h1_title: "Comment choisir le meilleur forfait eSIM pour les États-Unis en 2026"
-description: "Choisissez votre forfait eSIM américain 2026 : comparaison détaillée des données, prix, couverture réseau et conditions cachées. Guide complet."
-keywords: ["activation eSIM", "comment activer eSIM", "configuration eSIM iPhone", "eSIM Android", "code QR eSIM", "eSIM voyage", "dépannage eSIM"]
-date: 2026-06-10T10:00:00Z
-lastmod: 2026-06-10T10:00:00Z
-tags: ["eSIM", "iOS", "Android", "Dépannage", "Configuration voyage"]
+h1_title: "Comment choisir le meilleur forfait eSIM pour les USA eSIM en 2026"
+description: "Forfait eSIM américain 2026 : comparaison données, prix, réseaux. Roami : switching intelligent multi-opérateurs (T-Mobile/AT&T/Verizon). Essai gratuit."
+keywords: ["eSIM USA", "meilleure eSIM USA", "forfait eSIM USA pas cher", "eSIM de voyage USA", "T-Mobile eSIM USA", "AT&T eSIM USA", "Verizon eSIM USA", "Airalo vs Holafly USA", "Roami eSIM USA", "5G USA eSIM", "eSIM prépayée USA", "activation eSIM échouée", "dépannage eSIM USA"]
+date: 2026-06-22T10:00:00Z
+lastmod: 2026-06-22T10:00:00Z
+tags: ["eSIM", "USA", "Voyage", "Forfait", "Comparatif"]
 toc: true
 image: "/images/esim-activation-guide.jpg"
 
@@ -33,7 +33,7 @@ sidebar_popular:
   title: "eSIM populaires"
   item_suffix: "eSIM"
   items:
-    - name: "États-Unis"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "1,99 $"
       url: "/united-states-esim/"
@@ -101,149 +101,369 @@ sidebar_questions:
 
 ## Résumé : recommandations rapides pour l'eSIM américaine en 2026
 
-Si vous voyagez aux États-Unis en 2026, abandonnez l'itinérance internationale coûteuse et les cartes SIM physiques. Une [eSIM américaine](/united-states-esim/) (SIM intégrée) de **Roami** est la seule solution optimale pour une connectivité Internet haut débit, stable et économique.
+Si vous voyagez aux USA eSIM en 2026, abandonnez l'itinérance internationale coûteuse et les cartes SIM physiques. Une **eSIM USA** est la solution optimale pour une connectivité Internet haut débit, stable et économique.
 
-Pour vous faire gagner du temps, voici les recommandations rapides de Roami pour 2026 en fonction des différents besoins de voyage :
+Pour vous faire gagner du temps, voici les recommandations rapides pour 2026 en fonction des différents besoins de voyage :
 
 | Besoin de l'utilisateur | Type de forfait recommandé | Meilleur choix réseau | Fourchette de prix indicative |
 | :--- | :--- | :--- | :--- |
 | **Court séjour (1-15 jours)** | Données fixes 5 Go-10 Go | T-Mobile (ciblage urbain) | 10 $ - 25 $ |
-| **Gros consommateurs / longs voyages** | Forfait données illimitées | T-Mobile ou AT&T | 30 $ - 60 $ |
+| **Gros consommateurs / longs voyages** | Forfait données fixes 20 Go+ | T-Mobile ou AT&T | 25 $ - 45 $ |
 | **Parcs nationaux / road trips** | Grand forfait de données fixes | AT&T ou Verizon | 20 $ - 45 $ |
-| **Multi-pays (USA/CAN/MEX)** | Régional Amérique du Nord | Basculement automatique | 15 $ - 50 $ |
+| **Multi-pays (USA/CAN/MEX)** | Régional Amérique du Nord | Basculement automatique | 20 $ - 55 $ |
+| **Budget serré / usage léger** | Petit forfait 1-3 Go | T-Mobile (réseau économique) | 5 $ - 12 $ |
 
-Maintenant que vous savez ce dont vous avez besoin, nous allons expliquer exactement comment éviter les zones blanches, vérifier le matériel de votre téléphone et activer votre **eSIM Roami** sans aucune connaissance technique préalable.
+Maintenant que vous savez ce dont vous avez besoin, nous allons expliquer exactement comment éviter les zones blanches, vérifier le matériel de votre téléphone et choisir le **meilleur forfait eSIM USA** sans aucune connaissance technique préalable.
 
-## Qu'est-ce qu'une eSIM américaine ? Pourquoi est-elle essentielle en 2026 ?
+Pour une introduction générale à la technologie eSIM, consultez notre [guide explicatif complet](/faq/What-Is-eSIM/). Si vous rencontrez des problèmes d'**activation eSIM échouée** ou **eSIM pas de service**, notre [guide de dépannage approfondi eSIM](/faq/esim-deep-troubleshooting-guide-2026/) propose des solutions avancées.
 
-Une eSIM est une micropuce soudée directement sur la carte mère de votre téléphone. Vous n'avez pas besoin d'outil d'éjection de SIM. Il vous suffit de scanner un code QR pour télécharger et activer le profil réseau d'un opérateur local en quelques secondes.
 
-En 2026, utiliser une [eSIM américaine](/united-states-esim/) est obligatoire, pas facultatif. À partir de la série iPhone 14, Apple a **complètement supprimé le tiroir SIM physique** pour tous les modèles américains. Cette révolution matérielle a forcé les opérateurs américains à passer entièrement à l'eSIM, rendant les cartes prépayées physiques extrêmement difficiles à trouver dans les aéroports ou les supérettes.
+## 1. Qu'est-ce qu'une eSIM américaine ? Pourquoi est-elle essentielle en 2026 ?
 
-Compter sur l'itinérance internationale de votre opérateur national garantit des frais journaliers élevés et une latence réseau sévère. En achetant une **eSIM Roami** à l'avance, votre téléphone se connecte automatiquement à un réseau 5G dès que votre avion atterrit, vous permettant d'appeler un Uber immédiatement.
+Une eSIM est une micropuce soudée directement sur la carte mère de votre téléphone. Vous n'avez pas besoin d'outil d'éjection de SIM. Il vous suffit de scanner un **code QR eSIM** pour télécharger et activer le profil réseau d'un opérateur local en quelques secondes.
 
-![Une infographie montrant la différence entre une carte SIM physique traditionnelle et un profil eSIM numérique](/img/us-esim/3.jpg)
+En 2026, utiliser une **eSIM de voyage USA** est devenue la norme pour les voyageurs internationaux. À partir de la série iPhone 14, Apple a complètement supprimé le tiroir SIM physique pour tous les modèles américains. Cette révolution matérielle a forcé les opérateurs américains à passer entièrement à l'eSIM, rendant les cartes prépayées physiques extrêmement difficiles à trouver dans les aéroports ou les supérettes.
 
-## Analyse approfondie des trois grands réseaux américains en 2026 (T-Mobile vs AT&T vs Verizon)
+**Pourquoi les voyageurs choisissent l'eSIM pour les USA :**
+- **Économies** : jusqu'à 70 % moins cher que l'itinérance internationale
+- **Rapidité** : activation en moins de 60 secondes
+- **Flexibilité** : changez de forfait en un clic, stockez plusieurs profils
+- **Sécurité** : l'eSIM ne peut pas être retirée physiquement
 
-L'infrastructure des télécommunications américaines est un monopole contrôlé par trois géants : **T-Mobile**, **AT&T** et **Verizon**. Les forfaits **Roami** que vous achetez seront routés via ces réseaux de base premium pour vous garantir la meilleure connexion possible.
+La [GSMA](https://www.gsma.com/esim/) définit les standards techniques qui permettent cette interopérabilité mondiale entre les opérateurs et les appareils.
 
-Choisir le mauvais réseau transforme votre téléphone en brique. Votre itinéraire de voyage dicte l'opérateur que vous devez utiliser.
+---
 
-![Une comparaison côte à côte des cartes de couverture (T-Mobile vs AT&T vs Verizon) mettant en évidence les forces urbaines vs rurales](/img/us-esim/2.jpg)
+## 2. Les trois grands réseaux américains en 2026 – T-Mobile, AT&T et Verizon
 
-### T-Mobile : le roi de la vitesse 5G et de la couverture urbaine
+L'infrastructure des télécommunications américaines est dominée par trois géants : **T-Mobile**, **AT&T** et **Verizon**. Choisir le bon réseau est souvent plus important que choisir le fournisseur d'eSIM lui-même. Voici un comparatif détaillé pour vous aider à choisir le **forfait eSIM USA** adapté à votre itinéraire.
 
-Si vous séjournez dans les grandes villes comme New York, Los Angeles, San Francisco ou Chicago, **T-Mobile** est votre premier choix absolu.
+### T-Mobile – le roi de la vitesse 5G en ville
 
-T-Mobile possède le réseau 5G à bande moyenne le plus large et le plus rapide du pays. À l'intérieur des limites de la ville, sa pénétration des bâtiments et ses vitesses de téléchargement écrasent la concurrence. Que vous streamiez des appels vidéo haute définition ou que vous téléchargiez du contenu dans une Times Square bondée, un forfait Roami basé sur T-Mobile offre une bande passante massive.
+**T-Mobile eSIM USA** est la référence pour les séjours urbains. T-Mobile possède le réseau 5G à bande moyenne le plus large du pays, avec des vitesses de téléchargement dépassant souvent les 200 Mbps dans les grandes villes.
 
-### AT&T et Verizon : les meilleurs choix pour les parcs nationaux et les zones reculées
+**Points forts :**
+- Vitesses 5G les plus élevées en milieu urbain
+- Excellente couverture dans les centres-villes (New York, Chicago, Los Angeles)
+- Idéal pour le streaming vidéo et les appels vidéo
 
-Si votre itinéraire comprend un road trip sur la Route 66, Yellowstone, le Grand Canyon ou Yosemite, vous devez acheter une eSIM alimentée par **AT&T** ou **Verizon**.
+**Points faibles :**
+- Couverture rurale moins étendue que Verizon
+- Signal plus faible dans les parcs nationaux
 
-Ces opérateurs historiques exploitent d'immenses réseaux à basse bande. Bien que la basse bande limite les vitesses de téléchargement maximales, son signal voyage incroyablement loin. Sur les autoroutes inter-États désertes et dans les montagnes reculées où T-Mobile perd tout signal, AT&T et Verizon maintiennent votre navigation GPS et vos appels d'urgence en ligne.
+### AT&T – le compromis équilibré
 
-## Comment choisir le meilleur forfait Roami eSIM en fonction de votre itinéraire américain ?
+**AT&T eSIM USA** offre un bon équilibre entre les performances urbaines et la couverture rurale. C'est souvent le choix le plus sûr pour les voyageurs qui prévoient à la fois des visites de villes et des excursions hors des grands centres.
 
-N'achetez pas aveuglément l'option la plus chère. Adaptez votre forfait **Roami** à la durée exacte de votre séjour et à vos habitudes de données pour maximiser votre argent.
+**Points forts :**
+- Couverture nationale solide
+- Bonnes performances sur les autoroutes inter-États
+- Partenariats de roaming internationaux étendus
 
-### Court séjour (1-15 jours) : Forfaits prépayés ou forfaits à données fixes
+**Points faibles :**
+- Vitesses 5G légèrement inférieures à T-Mobile en centre-ville
+- Certaines zones rurales restent en 4G
 
-Pour des vacances d'une ou deux semaines, les hôtels et restaurants fournissent du Wi-Fi gratuit. Vos besoins en données extérieures se limitent strictement à Google Maps, Uber, WhatsApp et des recherches web rapides.
+### Verizon – la référence pour les road trips
 
-Un **forfait fixe de 5 Go à 10 Go** de Roami est plus que suffisant. Si vous voulez un contrôle quotidien strict, achetez un forfait journalier de 1 Go ou 2 Go.
+**Verizon eSIM USA** est votre meilleur allié pour les road trips et les parcs nationaux. Verizon a investi massivement dans les basses fréquences (bande 13, 700 MHz), qui pénètrent mieux les vallées et les zones montagneuses.
 
-### Visites professionnelles/familiales longue durée (15-30+ jours) : forfaits données illimitées
+**Points forts :**
+- Meilleure couverture rurale des trois opérateurs
+- Signal fiable dans les parcs nationaux (Yellowstone, Grand Canyon, Yosemite)
+- Excellente couverture sur les autoroutes inter-États
 
-Si vous séjournez plus d'une demi‑mois ou si vous consommez beaucoup de contenu vidéo, un forfait **Données illimitées** vous évite de surveiller chaque mégaoctet.
+**Points faibles :**
+- Vitesses 5G parfois inférieures en centre-ville
+- Forfaits généralement plus chers
 
-Cependant, vous devez comprendre la **politique d'utilisation raisonnable (FUP)**. Presque tous les forfaits « illimités » ont un plafond de vitesse élevée caché. Une fois que vous dépassez un seuil quotidien spécifique (par exemple, 2 Go ou 3 Go), les opérateurs réduisent votre vitesse au niveau 2G/3G (128 kbit/s - 384 kbit/s). Vérifiez toujours les limites de la FUP dans les détails de votre forfait Roami avant de passer à la caisse.
+### Tableau récapitulatif des trois opérateurs
 
-### Itinéraires transfrontaliers : forfaits universels Amérique du Nord (USA, Canada, Mexique)
+| Critère | T-Mobile | AT&T | Verizon |
+|---------|----------|------|---------|
+| **Vitesse 5G en ville** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+| **Couverture rurale** | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **Parcs nationaux** | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **Autoroutes inter-États** | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **Prix des forfaits** | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ |
+| **Idéal pour** | Grandes villes | Voyages mixtes | Road trips |
 
-Si vous visitez Vancouver ou Cancun pendant votre voyage aux États-Unis, achetez un **eSIM régional Roami Amérique du Nord**.
+Le [FCC Mobile Coverage Map](https://www.fcc.gov/reports-research/maps) offre une vue officielle de la couverture de chaque opérateur par région – un outil indispensable pour préparer votre road trip.
 
-Ces forfaits forcent votre téléphone à basculer automatiquement vers les réseaux partenaires lorsque vous traversez les frontières (par exemple, Rogers au Canada, Telcel au Mexique). Vous évitez d'acheter trois profils séparés et bénéficiez d'une itinérance transparente sur tout le continent.
+---
 
-## À lire absolument avant d'acheter : votre téléphone prend-il en charge l'eSIM ? (Liste de compatibilité 2026)
+## 3. Comprendre les fréquences et la 5G américaine
 
-C'est là que la plupart des voyageurs échouent. Vous devez vérifier que le matériel de votre téléphone prend en charge l'eSIM avant de payer. Pour consulter la [liste complète des appareils compatibles](/compatibility/), rendez-vous sur la base de données mise à jour 2026 de Roami.
+La performance réseau ne dépend pas seulement de l'opérateur. Les fréquences utilisées jouent un rôle crucial, surtout en dehors des grandes villes.
+
+### Les trois bandes de fréquences aux USA eSIM
+
+| Bande | Fréquence | Opérateur principal | Portée | Vitesse | Idéal pour |
+|-------|-----------|---------------------|--------|---------|------------|
+| **Basse (Low-band)** | 600-700 MHz | T-Mobile, Verizon | Très longue | Moyenne | Zones rurales, intérieur des bâtiments |
+| **Moyenne (Mid-band)** | 1.7-2.5 GHz | T-Mobile (leader) | Moyenne | Élevée | Villes, banlieues denses |
+| **Haute (High-band/mmWave)** | 24-39 GHz | Verizon (leader) | Très courte | Très élevée | Stades, centres-villes denses |
+
+### Pourquoi Verizon est meilleur dans les parcs nationaux
+
+Verizon a investi massivement dans la bande basse (700 MHz), qui a une portée bien supérieure aux bandes plus hautes. Dans les zones montagneuses du Grand Canyon ou de Yellowstone, ce signal basse fréquence est souvent le seul disponible.
+
+### Pourquoi T-Mobile est plus rapide en ville
+
+T-Mobile a dominé l'acquisition de la bande moyenne (2.5 GHz), qui offre le meilleur compromis entre vitesse et portée. C'est pourquoi T-Mobile surpasse souvent Verizon et AT&T dans les centres-villes.
+
+### 5G NSA vs 5G SA – quelle différence ?
+
+- **5G NSA (Non-Standalone)** : Utilise le cœur de réseau 4G existant. Latence plus élevée (30-50 ms). Moins fiable en zones bondées.
+- **5G SA (Standalone)** : Utilise un cœur de réseau 5G pur. Latence très faible (<10 ms). Idéal pour la vidéo HD, les appels vidéo et les applications en temps réel.
+
+**Astuce :** Lorsque vous choisissez un **forfait eSIM USA**, vérifiez si le fournisseur offre un accès 5G SA. C'est souvent un critère de différenciation entre les marques.
+
+---
+
+## 4. Comparatif des marques eSIM pour les USA eSIM – Airalo, Holafly, Roami
+
+Lors du choix d'une **eSIM mobile USA**, vous rencontrerez inévitablement les marques bien connues suivantes. Ce **comparatif eSIM USA** vous aidera à faire le bon choix.
+
+### Comparaison détaillée
+
+| Critère | **Airalo eSIM USA** | **Holafly eSIM USA** | **Roami eSIM** |
+|---------|---------------------|----------------------|----------------|
+| **Réseau(x)** | T-Mobile ou AT&T (1 réseau) | T-Mobile ou AT&T (1 réseau) | T-Mobile + AT&T + Verizon (commutation intelligente) |
+| **5G SA** | Partiellement | Partiellement | Oui (sur réseaux compatibles) |
+| **Partage de connexion** | Oui | Limité ou interdit | Oui |
+| **Politique FUP** | Drosselung après limite | Drosselung quotidienne | Transparente, sans cache |
+| **Support client** | Par e-mail uniquement | Par chat/email | 24/7 humain |
+| **Prix (5 GB / 7 jours)** | ~$10 | ~$27 | ~$5.59 (code web20) |
+| **Prix (10 GB / 7 jours)** | ~$18 | — | ~$7.99 (code web20) |
+| **Idéal pour** | Budget, usage léger | Données « illimitées » | Stabilité, road trips |
+
+### Analyse détaillée
+
+**Airalo eSIM USA** est un bon choix pour les voyageurs avec un budget serré et un usage modéré. L'inconvénient majeur est l'absence de commutation entre réseaux – si le réseau T-Mobile a une mauvaise couverture dans votre région, vous n'avez pas d'alternative.
+
+**Holafly eSIM USA** mise sur les forfaits « données illimitées » comme argument de vente. Le prix est plus élevé et certains forfaits limitent le partage de connexion. La politique FUP de Holafly est également restrictive.
+
+**Roami eSIM** se distingue par sa technologie de **commutation intelligente multi-opérateurs**. Peu importe où vous vous trouvez aux USA eSIM, Roami bascule automatiquement vers le réseau ayant le meilleur signal (T-Mobile, AT&T ou Verizon). C'est la solution la plus fiable pour les road trips et les itinéraires variés.
+
+### Quel forfait choisir selon votre usage ?
+
+| Usage | Forfait recommandé | Marque recommandée |
+|-------|-------------------|-------------------|
+| **1-3 jours** (ville uniquement) | 1-3 GB | Airalo ou Roami |
+| **5-10 jours** (ville + banlieue) | 5-10 GB | Roami |
+| **10-15 jours** (road trip) | 10-20 GB | Roami (commutation intelligente) |
+| **15-30 jours** (long séjour) | 20-30 GB | Roami |
+| **Multi-pays** (USA + Canada) | Régional Amérique du Nord | Roami |
+
+---
+
+## 5. Comprendre les politiques FUP – la vérité sur les « données illimitées »
+
+De nombreux touristes recherchent des **eSIM USA données illimitées** dans leurs recherches. Mais il est essentiel de comprendre la **politique d'utilisation raisonnable (Fair Usage Policy)** du secteur des télécommunications.
+
+### La réalité des forfaits « illimités »
+
+Il n'existe presque pas de véritable « données illimitées sans limitation de débit » dans le monde. La plupart des forfaits annoncés comme illimités voient leur vitesse considérablement réduite après un certain seuil :
+
+| Forfait | Seuil de vitesse élevée | Vitesse après seuil | Utilisable pour |
+|---------|------------------------|---------------------|-----------------|
+| Airalo 5GB | 5 GB (épuisé) | 128 kbps | Messagerie texte uniquement |
+| Holafly « illimité » | 1-2 GB / jour | 128 kbps | Messagerie texte uniquement |
+| Roami 10GB | 10 GB (épuisé) | Pas de drosselung | Toutes les utilisations |
+
+**👉 Notre conseil :** Plutôt que de rechercher aveuglément des forfaits « illimités » chers, il est plus économique d'acheter un forfait à données fixes élevées (par exemple 10 GB/20 GB) en fonction de vos jours de voyage réels, **sans limitation de débit** et prenant en charge le partage de connexion.
+
+La [GSMA](https://www.gsma.com/esim/) recommande aux opérateurs de communiquer clairement sur les politiques FUP – mais tous ne le font pas.
+
+---
+
+## 6. Vérifier la compatibilité de votre appareil avant d'acheter
+
+C'est là que la plupart des voyageurs échouent. Vous devez vérifier que le matériel de votre téléphone prend en charge l'eSIM avant de payer.
 
 Le moyen le plus rapide et universel : ouvrez le clavier de numérotation de votre téléphone et composez `*#06#`. Si un long code‑barres étiqueté **EID** apparaît sur votre écran, votre téléphone prend en charge l'eSIM.
 
-### Modèles Apple iPhone pris en charge et méthode de vérification
+### iPhone – modèles compatibles
 
 Apple prend en charge l'eSIM sur tous les modèles à partir de **l'iPhone XR / XS**.
 
-**⚠️ Avertissement critique :**
-Si vous avez acheté votre iPhone en **Chine continentale, à Hong Kong ou à Macao**, il ne prend **PRESQUE CERTAINEMENT PAS en charge l'eSIM** (Apple intègre deux tiroirs SIM physiques pour ces régions spécifiques).
+**⚠️ Avertissement critique :** Si vous avez acheté votre iPhone en **Chine continentale, à Hong Kong ou à Macao**, il ne prend **pas** en charge l'eSIM (Apple intègre deux tiroirs SIM physiques pour ces régions spécifiques).
 
-**Comment vérifier votre iPhone :**
-1. Allez dans **Réglages**.
-2. Appuyez sur **Général > Informations**.
-3. Faites défiler et recherchez **SIM disponible** ou un numéro **EID**.
-4. Si vous ne trouvez pas d'EID, abandonnez immédiatement l'achat de l'eSIM.
+### Android – modèles compatibles
 
-### Modèles Android pris en charge et méthode de vérification (Samsung, Google Pixel, etc.)
+- **Samsung Galaxy** : S20, S21, S22, S23, S24, S25, Z Fold, Z Flip, A54, A55
+- **Google Pixel** : 3, 4, 5, 6, 7, 8, 9
+- **Xiaomi** : 13T, 14T, 14T Pro
+- **OnePlus** : 12, 13
 
-La compatibilité Android est fragmentée. Les **Google Pixel 3** et plus récents, ainsi que les **Samsung Galaxy S20** et plus récents (à l'exclusion de certains modèles FE), prennent généralement en charge l'eSIM.
+Pour une liste complète, consultez notre [page de compatibilité eSIM](/compatibility/).
 
-Comme pour Apple, les téléphones fabriqués pour le marché intérieur chinois (Huawei, Xiaomi, OPPO, vivo) ont généralement le module eSIM physiquement retiré.
+### Vérifier le verrouillage opérateur
 
-**Comment vérifier votre Android :**
-1. Allez dans **Réglages**.
-2. Appuyez sur **Réseau & Internet** (ou **Connexions**).
-3. Appuyez sur **SIM** (ou **Gestionnaire SIM**).
-4. Recherchez un bouton **Ajouter eSIM** ou **Télécharger une SIM à la place ?**. S'il existe, vous pouvez acheter votre eSIM Roami en toute sécurité.
+Même si votre appareil est compatible, il doit être déverrouillé :
+- **iPhone** : `Réglages` → `Général` → `Informations` → `Verrouillage opérateur` (doit indiquer « Aucune restriction SIM »).
+- **Android** : `Paramètres` → `Informations sur le téléphone` → `État du SIM`.
 
-## Tutoriel pas à pas : comment acheter, installer et activer une eSIM Roami ?
+Si votre téléphone est verrouillé, contactez votre opérateur français (Orange, SFR, Free, Bouygues) pour demander un déverrouillage avant de partir.
 
-Après avoir vérifié la compatibilité, achetez votre forfait via **Roami**. Vous recevrez un **code QR** par e-mail.
+---
 
-**Règle essentielle :** Vous devez scanner et installer ce profil **avant votre vol** pendant que vous êtes connecté à un Wi-Fi domestique stable. N'attendez pas d'atterrir sans accès Internet.
+## 7. Installation et activation de votre eSIM américaine
 
-### Étape 1 : Installation et configuration sur iOS
+Pour que tout se passe parfaitement, suivez strictement ces étapes :
 
-Pour les utilisateurs d'iPhone, l'installation prend 60 secondes :
+### Phase 1 : Avant le départ (Wi-Fi domestique)
 
-1. **Scanner pour installer :** Connectez-vous au Wi-Fi. Allez dans **Réglages > Données cellulaires > Ajouter eSIM**. Sélectionnez « Utiliser un code QR » et scannez le code Roami depuis votre e-mail.
-2. **Renommer l'étiquette :** Le système vous demande d'étiqueter la nouvelle ligne. Renommez-la **« Roami US »** pour ne pas la confondre avec votre numéro principal.
-3. **Garder désactivée avant le vol :** Pendant que vous êtes encore chez vous, allez dans **Réglages > Données cellulaires**, appuyez sur « Roami US » et désactivez **OFF** la ligne.
-4. **Activer à l'atterrissage :** Une fois l'avion atterri, activez **ON** la ligne « Roami US ». Basculez votre **Donnée cellulaire** sur « Roami US » et vous devez **activer l'itinérance des données** en position ON.
+1. **Vérifiez que votre appareil est déverrouillé** (voir section précédente).
+2. **Achetez votre eSIM en ligne** : [Achetez une eSIM USA](/united-states-esim/) et recevez un code QR par e-mail.
+3. **Scannez et installez** :
+   - **iPhone** : `Réglages` → `Données cellulaires` → `Ajouter eSIM` → `Utiliser un code QR`.
+   - **Android** : `Paramètres` → `Réseau & Internet` → `SIM` → `Ajouter eSIM` → `Scanner le code QR`.
+4. **Étiquetez votre eSIM** : Nommez-la « USA Travel » pour la distinguer facilement.
+5. **Désactivez la ligne** : Gardez la ligne désactivée jusqu'à l'arrivée.
 
-### Étape 2 : Installation et configuration sur Android
+### Phase 2 : À l'arrivée aux USA eSIM
 
-Les menus Android varient légèrement selon le fabricant, mais la logique est identique :
+1. **Désactivez l'itinérance de votre carte d'origine** : Évitez des frais astronomiques.
+2. **Activez votre eSIM** : Activez la ligne « USA Travel ».
+3. **Définissez l'eSIM comme ligne de données** : `Données cellulaires` → choisissez votre eSIM.
+4. **Activez l'itinérance des données** pour votre eSIM.
+5. **Désactivez « Autoriser le basculement des données cellulaires »**.
 
-1. **Scanner pour installer :** Connectez-vous au Wi-Fi. Allez dans **Réglages > Réseau & Internet > SIM**. Appuyez sur l'icône « + » ou « Télécharger une SIM à la place ». Scannez votre code QR Roami.
-2. **Garder désactivée avant le vol :** Dans votre gestionnaire SIM, assurez-vous que ce profil nouvellement téléchargé est désactivé **OFF**.
-3. **Activer à l'atterrissage :** Lorsque vous arrivez aux États-Unis, activez **ON** l'eSIM Roami.
-4. **Paramètres critiques :** Définissez cette eSIM comme valeur par défaut pour les Données mobiles. Accédez aux paramètres de l'eSIM et activez l'**Itinérance** en position ON. Sinon, elle ne se connectera pas.
+### Phase 3 : Vérification
 
-## Dépannage Roami eSIM et FAQ
+1. Faites un test de vitesse (Speedtest).
+2. Vérifiez que vous pouvez naviguer sur Internet.
+3. Testez le partage de connexion si nécessaire.
 
-Même avec une exécution parfaite, les poignées de main réseau échouent parfois. Voici la liste de contrôle technique pour forcer votre téléphone à se connecter.
+Pour une **activation eSIM** réussie, suivez ces étapes à la lettre. Si vous rencontrez des problèmes, consultez notre [guide d'activation eSIM complet](/faq/how-to-activate-an-esim/).
 
-### Pas de signal / pas d'Internet après l'atterrissage aux États-Unis ? Comment dépanner ?
+---
 
-Si votre téléphone affiche « Aucun service » ou a des barres mais pas de données, exécutez cette séquence :
+## 8. Configurer la double SIM sur iPhone et Android pour les voyages aux USA eSIM
 
-1. **Vérifiez l'itinérance des données :** C'est la cause de 90 % des échecs. Allez dans les paramètres de votre eSIM Roami et vérifiez que **l'itinérance des données** est activée ON.
-2. **Vérifiez la ligne de données par défaut :** Assurez-vous que votre téléphone route les données via l'eSIM Roami, et non via la SIM physique de votre pays d'origine.
-3. **Désactivez la SIM principale :** Des conflits double SIM surviennent. Désactivez **OFF** temporairement votre SIM physique domestique afin que le téléphone ne lise que l'eSIM.
-4. **Réinitialisez la connexion réseau :** Activez le mode Avion pendant 10 secondes, puis désactivez-le. Si cela échoue, redémarrez complètement le téléphone pour forcer une nouvelle interrogation des tours.
+La **double SIM iPhone** et la **double SIM Android** sont des fonctionnalités précieuses pour les voyageurs.
 
-### Pourquoi mon « données illimitées » a-t-il soudainement ralenti ?
+### Pourquoi utiliser la double SIM ?
 
-Si vos vitesses étaient fulgurantes pendant trois jours et soudainement vous ne pouvez pas charger une photo, vous avez atteint le plafond de la **FUP (politique d'utilisation raisonnable)**.
+- **SIM physique** : Gardez votre numéro français pour les appels entrants et les SMS (notamment les codes 2FA).
+- **eSIM** : Utilisez-la pour les données mobiles aux USA eSIM à prix local.
 
-Comme expliqué précédemment, les opérateurs réduisent votre vitesse à 128 kbit/s une fois que vous avez épuisé votre allocation quotidienne à haute vitesse (généralement 2 Go ou 3 Go).
+### Configuration sur iPhone
 
-**La solution :** Cette limitation se réinitialise automatiquement à **minuit, heure locale**. Si vous avez besoin immédiatement de données à haute vitesse pour le travail, votre seule option est d'acheter et d'installer un nouveau pack de données Roami.
+1. `Réglages` → `Données cellulaires`.
+2. **Données cellulaires** : Choisissez votre eSIM USA.
+3. **Ligne par défaut** : Choisissez votre SIM physique (pour les appels/SMS).
+4. **Itinérance des données** : Désactivée pour la SIM physique, activée pour l'eSIM.
+5. **Autoriser le basculement** : Désactivé.
 
-## Conclusion : simplifier la connectivité pour votre voyage aux États-Unis en 2026
+### Configuration sur Android
 
-Se connecter aux États-Unis ne nécessite plus de chercher une carte SIM physique. En vérifiant l'EID de votre téléphone, en choisissant le bon réseau sous‑jacent pour votre itinéraire et en scannant votre code QR avant de prendre l'avion, vous garantissez un accès 5G instantané sur le tarmac.
+1. `Paramètres` → `Connexions` → `Gestionnaire de carte SIM`.
+2. **Données mobiles** : Choisissez votre eSIM USA.
+3. **Appels** : Choisissez votre SIM physique.
+4. **SMS** : Choisissez votre SIM physique.
+5. **Itinérance des données** : Activée pour l'eSIM uniquement.
 
-Rappelez-vous la séquence : **Vérifier EID -> Choisir le réseau -> Scanner avant le vol -> Activer l'itinérance**. Sécurisez votre [eSIM américaine](/united-states-esim/) avec **Roami** dès aujourd'hui et voyagez comme un local.
+### Problèmes courants de double SIM
+
+| Problème | Solution |
+|----------|----------|
+| L'eSIM ne fonctionne pas pour les données | Vérifiez que l'eSIM est sélectionnée comme ligne de données |
+| Les appels entrants n'arrivent pas sur la SIM physique | Vérifiez que la SIM physique est la ligne par défaut pour les appels |
+| Les données sont facturées sur la SIM physique | Désactivez « Autoriser le basculement » |
+
+Pour plus d'informations, consultez notre article **[Double eSIM ne fonctionne pas ? 12 solutions](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+
+---
+
+## 9. Dépannage complet de votre eSIM américaine
+
+Même avec une préparation minutieuse, des problèmes peuvent survenir. Voici les erreurs les plus courantes et leurs solutions pour un **dépannage eSIM** efficace aux USA eSIM :
+
+| Problème | Cause probable | Solution |
+|----------|----------------|----------|
+| **Activation eSIM échouée** | QR code expiré ou réseau instable | Demandez un nouveau QR code. Connectez-vous à un Wi-Fi stable. |
+| **eSIM pas de service** | Itinérance des données désactivée | `Réglages` → `Données cellulaires` → eSIM → `Itinérance des données` (ON). |
+| **Code QR non reconnu** | Code expiré ou endommagé | Utilisez la saisie manuelle (adresse SM‑DP+ et code d'activation). |
+| **Signal faible en zone rurale** | Mauvais opérateur pour la région | Basculez manuellement vers un autre opérateur. |
+| **Partage de connexion bloqué** | Forfait interdit le hotspot | Vérifiez les conditions de votre forfait. Choisissez un fournisseur qui autorise le partage. |
+| **APN non configuré** | Paramètres APN manquants | Configurez manuellement les APN (voir tableau ci-dessous). |
+| **Double SIM conflict** | Conflit entre les deux lignes | Désactivez temporairement la SIM physique, puis réactivez-la. |
+
+### Configuration APN manuelle pour les réseaux américains
+
+| Opérateur | APN | Nom d'utilisateur | Mot de passe |
+|-----------|-----|-------------------|--------------|
+| **T-Mobile** | fast.t-mobile.com | (vide) | (vide) |
+| **AT&T** | nxgen | (vide) | (vide) |
+| **Verizon** | vzwinternet | (vide) | (vide) |
+
+### Activation eSIM échouée – que faire ?
+
+Si l'**activation eSIM échouée** persiste :
+1. Redémarrez votre téléphone.
+2. Vérifiez votre connexion Wi-Fi (utilisez un autre réseau si possible).
+3. Vérifiez que votre téléphone est déverrouillé.
+4. Contactez votre fournisseur pour un nouveau code QR.
+
+Pour plus de solutions, consultez notre **[guide de dépannage approfondi eSIM (16 cas réels)](/faq/esim-deep-troubleshooting-guide-2026/)**.
+
+---
+
+## 10. FAQ – questions fréquentes sur l'eSIM américaine
+
+**Puis-je passer des appels locaux aux USA eSIM avec une eSIM ?**
+La plupart des eSIM de voyage sont des forfaits données uniquement (Data-only). Mais vous pouvez utiliser des applications comme WhatsApp, FaceTime, Skype ou WeChat. Si vous avez besoin d'un numéro de téléphone américain, recherchez des forfaits spécifiquement étiquetés **eSIM avec numéro de téléphone USA**.
+
+**Mon téléphone prend-il en charge l'eSIM ?**
+La plupart des téléphones phares sortis après 2018 prennent en charge l'eSIM. Vérifiez avec `*#06#` – si un EID apparaît, votre téléphone est compatible.
+
+**Que faire si je manque de données ?**
+Les fournisseurs de haute qualité comme Roami permettent de recharger en ligne avant que vos données ne s'épuisent, sans besoin de rescanner un code QR.
+
+**Quelle est la différence entre Roami et Airalo pour les USA eSIM ?**
+Airalo utilise un seul réseau (T-Mobile ou AT&T), ce qui peut entraîner des zones d'ombre en zone rurale. Roami, grâce à sa commutation intelligente, bascule automatiquement entre T-Mobile, AT&T et Verizon pour vous offrir la meilleure couverture possible. C'est un **Roami vs Airalo USA** qui se joue sur la stabilité du signal.
+
+**Puis-je utiliser la même eSIM pour plusieurs voyages aux USA eSIM ?**
+Cela dépend de la durée de validité du forfait. Les forfaits Roami sont valables de 7 à 30 jours. Pour plusieurs voyages espacés dans le temps, achetez un nouveau forfait à chaque voyage.
+
+**Existe-t-il une eSIM USA avec numéro de téléphone ?**
+Oui, certains fournisseurs proposent des eSIM avec numéro de téléphone. Ils sont généralement plus chers et nécessitent une vérification d'identité. Si vous n'avez besoin que de données, optez pour un forfait données uniquement.
+
+**Que faire si mon iPhone est verrouillé par un opérateur français ?**
+Si votre téléphone est verrouillé, vous ne pourrez utiliser que des eSIM du même opérateur. Contactez votre opérateur (Orange, SFR, Free, Bouygues) pour demander un déverrouillage avant votre voyage.
+
+**Combien coûte une eSIM pour les USA eSIM ?**
+Les prix varient de 5 $ (1 GB) à 55 $ (données illimitées). Le **meilleur prix eSIM USA** se trouve souvent avec Roami, surtout avec le code **web20** (20 % de réduction).
+
+**Puis-je utiliser mon forfait eSIM américain au Canada ou au Mexique ?**
+Certains forfaits régionaux Amérique du Nord couvrent les USA, le Canada et le Mexique. Vérifiez la couverture avant d'acheter.
+
+**Que faire si j'ai des problèmes de réseau dans un parc national ?**
+Basculez manuellement vers Verizon (meilleure couverture rurale). Si vous utilisez Roami, la commutation intelligente le fera automatiquement.
+
+---
+
+## 11. Conclusion – choisir la bonne eSIM pour votre voyage aux USA eSIM
+
+Pour les voyageurs internationaux visitant les USA eSIM, la stratégie optimale pour 2026 est très claire : **ne gaspillez pas votre énergie sur des forfaits homogénéisés à réseau unique ; ce dont vous avez besoin, c'est d'un réseau intelligent capable de s'adapter à la géographie complexe des USA eSIM et doté d'une architecture 5G avancée.**
+
+**Récapitulatif des critères de choix :**
+
+| Critère | Recommandation |
+|---------|----------------|
+| **Réseau** | T-Mobile pour les villes, Verizon pour les road trips, Roami pour la polyvalence |
+| **Données** | Fixes plutôt qu'« illimitées » (sauf si FUP transparente) |
+| **Prix** | Comparez le prix par GB, pas le prix total |
+| **Commutateur** | Choisissez un fournisseur avec commutation intelligente pour les road trips |
+| **Compatibilité** | Vérifiez l'EID avec `*#06#` avant d'acheter |
+
+**Notre recommandation finale :** Pour la plupart des voyageurs, la **Roami eSIM** offre le meilleur équilibre entre prix, couverture et flexibilité grâce à sa commutation intelligente entre les trois grands réseaux américains.
+
+👉 [**Obtenez votre eSIM USA maintenant et voyagez connecté**](/united-states-esim/)
+
+---
+
+*Basé sur les données du FCC, les spécifications GSMA et les tests terrain. Mise à jour : juin 2026.*

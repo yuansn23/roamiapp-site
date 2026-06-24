@@ -30,7 +30,7 @@ sidebar_popular:
   title: "eSIM popolari"
   item_suffix: "eSIM"
   items:
-    - name: "Stati Uniti"
+    - name: "USA"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"

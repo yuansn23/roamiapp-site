@@ -32,7 +32,7 @@ sidebar_popular:
   title: "eSIM popolari"
   item_suffix: "eSIM"
   items:
-    - name: "Stati Uniti"
+    - name: "USA"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
@@ -148,7 +148,7 @@ Non tutti i Pixel sono uguali per quanto riguarda la disponibilità dell'eSIM �
 
 **Soluzione:** Nessuna. Non puoi riattivare l'eSIM su questi dispositivi. Se hai bisogno di eSIM, devi acquistare una versione internazionale (direttamente da Google Store) o un dispositivo di seconda mano venduto originariamente al di fuori del Giappone.
 
-### 🇺🇸 Stati Uniti (Verizon, AT&T, T-Mobile e sbloccati)
+### 🇺🇸 USA (Verizon, AT&T, T-Mobile e sbloccati)
 
 **Stato:** I Pixel bloccati da operatore variano; i Pixel sbloccati hanno accesso completo all'eSIM.
 
@@ -448,7 +448,7 @@ L'attivazione richiede meno di 2 minuti. **FallO prima di volare** – hai solo 
 
 #### 🧠 Gestione avanzata dell'eSIM su Pixel 6
 
-- **Scaricare più eSIM:** Memorizza diversi profili (es., uno per gli Stati Uniti, uno per l'Europa, uno per il Giappone). Vai su **Rete e Internet → Rete mobile → +** per aggiungerne altri.
+- **Scaricare più eSIM:** Memorizza diversi profili (es., uno per gli USA, uno per l'Europa, uno per il Giappone). Vai su **Rete e Internet → Rete mobile → +** per aggiungerne altri.
 - **Passare da un'eSIM all'altra:** Vai su **Rete mobile → Scegli quale SIM utilizzare per i dati** – commuta tra SIM fisica e qualsiasi eSIM scaricata.
 - **Eliminare un profilo eSIM:** Vai alle impostazioni dell'eSIM → **Cancella SIM** (rimuove il profilo; puoi reinstallare con lo stesso codice QR se salvato).
 - **Assegna un'etichetta alle tue eSIM:** Dopo l'attivazione, tocca l'icona dell'ingranaggio accanto all'eSIM e rinominala (es., "Giappone Viaggio") per una facile identificazione.
@@ -550,7 +550,7 @@ Alcuni operatori richiedono di rilasciare l'eSIM dal vecchio dispositivo tramite
 **Pixel 6a** offre il miglior rapporto qualità‑prezzo: economico, supporto eSIM completo, 5G e buona durata della batteria. Seconda scelta: **Pixel 5** (non giapponese) se trovato a un prezzo inferiore.
 
 #### Posso usare un'eSIM di un paese diverso da quello in cui ho acquistato il mio Pixel?
-Sì. L'eSIM è indipendente dalla regione. Un Pixel 6 acquistato negli Stati Uniti può installare e utilizzare un'eSIM giapponese, un'eSIM europea o qualsiasi altra eSIM globale, purché il fornitore supporti il dispositivo.
+Sì. L'eSIM è indipendente dalla regione. Un Pixel 6 acquistato negli USA può installare e utilizzare un'eSIM giapponese, un'eSIM europea o qualsiasi altra eSIM globale, purché il fornitore supporti il dispositivo.
 
 #### Pixel funziona con eSIM in Cina?
 Sì – i fornitori internazionali di eSIM offrono eSIM per la Cina che funzionano su Pixel 6 e successivi. Gli operatori locali cinesi non offrono eSIM ai turisti.

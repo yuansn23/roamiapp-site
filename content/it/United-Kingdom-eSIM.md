@@ -18,8 +18,8 @@ modal:
   text_android: 'Il nostro servizio eSIM è stato aggiornato a <strong>PhoneSIM</strong>.<br>I nuovi clienti ricevono il 20%
     di sconto con codice: web20'
 seo:
-  title: Regno Unito eSIM | Dati illimitati per viaggiare
-  description: Viaggia in Regno Unito senza pensieri. Roami non ti lega ad alcun abbonamento. Decidi tu quanto e quando usarla.
+  title: UK eSIM | Dati illimitati per viaggiare
+  description: Viaggia in UK senza pensieri. Roami non ti lega ad alcun abbonamento. Decidi tu quanto e quando usarla.
     Semplice e onesto. Copre tutte le regioni.
   keywords: eSIM UK, piano eSIM UK, migliore eSIM UK, UK dati, EE UK, Vodafone UK, O2 UK, eSIM Londra, eSIM Manchester, eSIM
     Edimburgo, internet mobile UK, 5G UK
@@ -399,44 +399,44 @@ activation_steps:
       o configurare un hotspot per altri dispositivi – senza attesa, senza documenti, senza contratto.
     is_list: false
 faq_section:
-  title: "La eSIM prende fuori città durante un viaggio in Regno Unito?"
-  desc: "In viaggio in Regno Unito, la eSIM Roami si appoggia alla rete Vodafone con copertura 4G/5G. Nelle città la navigazione è scattante, in campagna la connessione regge per messaggi e mappe."
+  title: "La eSIM prende fuori città durante un viaggio in UK?"
+  desc: "In viaggio in UK, la eSIM Roami si appoggia alla rete Vodafone con copertura 4G/5G. Nelle città la navigazione è scattante, in campagna la connessione regge per messaggi e mappe."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Generale
-    title: Regno Unito eSIM FAQ
+    title: UK eSIM FAQ
     questions:
     - q: |
-        Vogliono il mio passaporto per attivare la eSIM per il Regno Unito?
+        Vogliono il mio passaporto per attivare la eSIM per il UK?
       a: |
         Per il 90% dei paesi bastano solo email e metodo di pagamento. Niente passaporto. Dopo il pagamento il QR code arriva via email — scannerizzi e via. Nel 10% dei paesi (Cina, India, Turchia, Pakistan) serve verifica KYC con foto del passaporto nell'app Roami.
     - q: |
-        La eSIM è più conveniente del roaming internazionale per il Regno Unito?
+        La eSIM è più conveniente del roaming internazionale per il UK?
       a: |
         Sì, la eSIM Roami costa l'80-90% in meno del roaming tradizionale. Un piano 5GB costa $9.99 mentre il roaming dell'operatore italiano può costare $50-100. In più ottieni velocità locali 4G/5G, non il roaming limitato a 256 kbps. Attiva solo la eSIM per i dati e tieni la tua SIM per SMS e chiamate.
     - q: |
-        Quanto internet serve per il navigatore e le mappe in Regno Unito?
+        Quanto internet serve per il navigatore e le mappe in UK?
       a: |
         Google Maps consuma circa 5MB all'ora — qualsiasi piano Roami (da $1.99) va bene per la navigazione. Per scaricare le mappe di una città servono 200-500MB, fallo prima con WiFi. Se ascolti anche musica e usi social in viaggio, bastano 5GB ($9.99) a settimana. La navigazione funziona anche su 3G lento — non ti perderai.
     - q: |
-        Quanto traffico dati consuma un turista al giorno in Regno Unito?
+        Quanto traffico dati consuma un turista al giorno in UK?
       a: |
         Un turista medio consuma 300-500MB al giorno tra mappe, social e messaggistica. Con video si arriva a 1-2GB/giorno. Per una settimana bastano 5GB ($9.99), per due settimane 10GB ($14.99). Puoi sempre ricaricare dall'app se il traffico finisce prima.
     - q: |
-        Che velocità internet posso aspettarmi con la eSIM in Regno Unito?
+        Che velocità internet posso aspettarmi con la eSIM in UK?
       a: |
         In pratica i turisti ottengono: in centro città 50-200 Mbps (5G), in zone residenziali 15-50 Mbps (4G+), in aeroporti e centri commerciali 20-100 Mbps. La sera la velocità può calare del 20-30% per il carico della rete. Per la maggior parte delle attività questa velocità è più che sufficiente.
     - q: |
-        Si può ricaricare la eSIM da remoto durante il viaggio in Regno Unito?
+        Si può ricaricare la eSIM da remoto durante il viaggio in UK?
       a: |
         La ricarica richiede 30 secondi: apri l'app Roami, scegli il pacchetto aggiuntivo, paghi — il traffico è subito disponibile. Non serve scansionare un nuovo QR code o reinstallare la eSIM. Puoi ricaricare con carta o PayPal in qualsiasi momento, anche dall'estero.
     - q: |
-        eSIM non funziona in Regno Unito: come risolvere rapidamente?
+        eSIM non funziona in UK: come risolvere rapidamente?
       a: |
         Il problema più comune è il roaming dati disattivato — controlla in Impostazioni > Cellulare > Opzioni dati. Se il roaming è attivo, prova la selezione manuale della rete. Il riavvio del telefono risolve i casi restanti. Il supporto Roami è disponibile 24/7 via chat con risposta in circa 2 minuti.
     - q: |
-        I social network funzionano con la eSIM in Regno Unito?
+        I social network funzionano con la eSIM in UK?
       a: |
         Tutte le app funzionano: il feed Instagram si carica in 1-2 secondi, i video TikTok senza buffering, i messaggi Telegram sono istantanei. Al giorno sui social si consumano 200-400MB con uso attivo. 5GB ($9.99) bastano per 12-20 giorni di navigazione moderata.
 related_products:
@@ -505,15 +505,15 @@ related_products:
 
 # =============== Modulo di confronto basato su dati ===============
 market_analysis:
-  title: "Qual è la vera differenza tra eSIM e SIM fisica in Regno Unito?"
-  subtitle: "Confronto tra SIM prepagate locali del Regno Unito e soluzioni eSIM (riferimento 2024/2025)"
+  title: "Qual è la vera differenza tra eSIM e SIM fisica in UK?"
+  subtitle: "Confronto tra SIM prepagate locali del UK e soluzioni eSIM (riferimento 2024/2025)"
   citation:
     text: "Fonte: Prepaid Data SIM Card Wiki (United-Kingdom) + siti ufficiali degli operatori locali"
     url: "https://prepaid-data-sim-card.fandom.com/wiki/United-Kingdom"
   table_headers:
     - "Matrice di confronto"
     - "SIM prepagata locale (dati di mercato)"
-    - "Roami eSIM per Regno Unito"
+    - "Roami eSIM per UK"
   table_rows:
     - icon: "store"
       title: "Acquisizione e attivazione"
@@ -524,15 +524,15 @@ market_analysis:
     - icon: "id-card"
       title: "KYC e registrazione passaporto"
       prepaid_title: ""
-      prepaid_desc: "EE richiede la prova dell'età per sbloccare i contenuti per adulti, solitamente tramite carta di credito emessa nel Regno Unito o recandosi in un negozio EE con passaporto e foto."
+      prepaid_desc: "EE richiede la prova dell'età per sbloccare i contenuti per adulti, solitamente tramite carta di credito emessa nel UK o recandosi in un negozio EE con passaporto e foto."
       esim_title: "Nessun passaporto richiesto"
       esim_desc: "Salta la verifica del passaporto nei negozi EE e la procedura di sblocco dell'età. Roami eSIM non richiede alcun documento di identità, attivazione istantanea senza KYC."
     - icon: "globe"
       title: "Roaming internazionale"
       prepaid_title: ""
-      prepaid_desc: "Three: piano da £10 offre 40 GB nel Regno Unito, ma solo 6 GB nell'UE (riduzione dell'85%). Vodafone richiede un pacchetto aggiuntivo di roaming UE da £5/3 GB."
+      prepaid_desc: "Three: piano da £10 offre 40 GB nel UK, ma solo 6 GB nell'UE (riduzione dell'85%). Vodafone richiede un pacchetto aggiuntivo di roaming UE da £5/3 GB."
       esim_title: "Roaming globale senza sorprese"
-      esim_desc: "A differenza di Three (40 GB nel Regno Unito, solo 6 GB nell'UE) e Vodafone (€5/3 GB extra), Roami eSIM offre piani con roaming globale senza riduzioni di velocità né costi aggiuntivi."
+      esim_desc: "A differenza di Three (40 GB nel UK, solo 6 GB nell'UE) e Vodafone (€5/3 GB extra), Roami eSIM offre piani con roaming globale senza riduzioni di velocità né costi aggiuntivi."
     - icon: "calendar-xmark"
       title: "Ciclo di fatturazione e costi sprecati"
       prepaid_title: ""
@@ -560,7 +560,7 @@ market_analysis:
 
   # =============== Modulo Giudizio Esperto ===============
   expert_verdict:
-    title: "Attivazione e configurazione: eSIM per Regno Unito batte la SIM fisica con risparmio e senza stress"
+    title: "Attivazione e configurazione: eSIM per UK batte la SIM fisica con risparmio e senza stress"
     cards:
       - icon: "wifi"
         icon_bg: "bg-green-100"

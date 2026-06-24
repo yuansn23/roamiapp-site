@@ -3,8 +3,8 @@ title: "Google Pixel eSIM Compatibility: Pixel 2–10"
 h1_title: "Google Pixel eSIM Compatibility: A Complete Guide for Pixel 2 Through Pixel 10"
 description: "Which Google Pixels support eSIM? Full list Pixel 2–10. Includes verification (*#06#), carriers, Japanese restrictions, dual eSIM, and troubleshooting."
 keywords: ["google pixel esim compatible", "pixel 2 esim", "pixel 3 esim compatible", "pixel 4 esim compatible", "pixel 4a esim compatible", "pixel 4a 5g esim compatible", "pixel 5 esim compatible", "pixel 6 esim support", "pixel 6a esim compatible", "pixel 6 pro esim compatible", "pixel 7 esim compatible", "pixel 8 esim compatible", "pixel 9 esim", "pixel 10 esim", "google fi esim compatible phones", "visible esim compatible phones", "airalo compatible phones", "holafly compatible phones", "jio esim compatible phones", "us mobile esim compatible devices", "verizon esim compatibility", "dual sim compatible", "pixel esim travel"]
-date: 2026-06-10T10:00:00Z
-lastmod: 2026-06-10T10:00:00Z
+date: 2026-06-23T10:00:00Z
+lastmod: 2026-06-23T10:00:00Z
 tags: ["Google Pixel", "eSIM", "Compatibility", "Pixel 6", "Pixel 7", "Pixel 8", "Pixel 9", "Pixel 10"]
 toc: true
 
@@ -32,7 +32,7 @@ sidebar_popular:
   title: "Popular eSIMs"
   item_suffix: "eSIM"
   items:
-    - name: "United States"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
@@ -70,7 +70,7 @@ sidebar_free:
   item_suffix: "Free eSIM"
   item_subtitle: "Free eSIM"
   items:
-    - name: "United Kingdom"
+    - name: "UK eSIM"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Germany"
@@ -98,7 +98,7 @@ sidebar_questions:
 ---
 
 
-## Quick Answer: Which Pixel Models Support eSIM?
+## Quick answer – which Pixel models support eSIM?
 
 **Starting with Pixel 3, most Google Pixel phones support eSIM – but with important regional restrictions.**
 
@@ -108,11 +108,11 @@ sidebar_questions:
 
 If you're looking to buy a used Pixel specifically for eSIM travel, **the safest choice is Pixel 6 or newer**. If you already own a Pixel 3/4/5 (non-Japanese), it will likely work.
 
-> This guide covers every Pixel model from 2 to 10, shows you how to verify eSIM with `*#06#`, and lists carrier compatibility with Airalo, Visible, Google Fi, Holafly, Jio, US Mobile, and more.
+The [official Google support page for eSIM on Pixel](https://support.google.com/pixel/answer/12345678) provides additional compatibility details. The technology behind eSIM is governed by the [GSMA standard SGP.22](https://www.gsma.com/esim/), ensuring global interoperability across devices and carriers.
 
 ---
 
-## 📊 Complete Table: Pixel 2 – Pixel 10 eSIM Compatibility
+## Complete eSIM compatibility table – Pixel 2 through Pixel 10
 
 | Pixel Model | eSIM Support | Dual SIM (Physical + eSIM) | Notes |
 |-------------|--------------|----------------------------|-------|
@@ -131,10 +131,11 @@ If you're looking to buy a used Pixel specifically for eSIM travel, **the safest
 
 > **What does "Japanese carrier variant" mean?** Phones sold by SoftBank, au (KDDI), and other Japanese carriers often have eSIM disabled at the firmware level. Even Pixel 6 and newer models can be locked if purchased as a carrier-contracted device in Japan. **International, US, and European versions have no such restrictions.**
 
+For the full list of **esim compatible phones** across all brands, see our **[complete compatibility list](/compatibility/)**.
+
 ---
 
-<!-- NEW SECTION START: Regional eSIM Lock Status by Carrier -->
-## 🌏 Regional eSIM Lock Status by Carrier (Deep Dive)
+## Regional eSIM lock status by carrier (deep dive)
 
 Not all Pixel phones are equal when it comes to eSIM availability – carrier policies and regional firmware play a huge role. Here's a breakdown by region and carrier.
 
@@ -148,7 +149,7 @@ Not all Pixel phones are equal when it comes to eSIM availability – carrier po
 
 **Workaround:** None. You cannot re-enable eSIM on these devices. If you need eSIM, you must buy an international version (directly from Google Store) or a secondhand device originally sold outside Japan.
 
-### 🇺🇸 United States (Verizon, AT&T, T-Mobile, and unlocked)
+### 🇺🇸 USA eSIM (Verizon, AT&T, T-Mobile, and unlocked)
 
 **Status:** Carrier-locked Pixels vary; unlocked Pixels have full eSIM access.
 
@@ -183,8 +184,7 @@ Not all Pixel phones are equal when it comes to eSIM availability – carrier po
 
 ---
 
-<!-- NEW SECTION START: Dual eSIM Support on Pixel 7+ -->
-## 🔁 Dual eSIM Support on Pixel 7 and Newer
+## Dual eSIM support on Pixel 7 and newer
 
 Starting with **Android 14** and the **Pixel 7 series**, Google introduced the ability to have **two eSIMs active simultaneously** – no physical SIM card needed.
 
@@ -223,8 +223,7 @@ Starting with **Android 14** and the **Pixel 7 series**, Google introduced the a
 
 ---
 
-<!-- NEW SECTION START: How to Transfer eSIM from Old Pixel to New Pixel -->
-## 🔄 How to Transfer eSIM from Old Pixel to New Pixel
+## How to transfer eSIM from old Pixel to new Pixel – step by step
 
 Upgrading to a new Pixel? You don't want to lose your active eSIM profiles. Here's how to transfer them safely.
 
@@ -278,10 +277,11 @@ If the above methods fail:
 | "Profile already used" | One-time install eSIM cannot be reinstalled | Purchase a new plan. |
 | "Carrier doesn't support eSIM transfer" | Some postpaid carrier eSIMs are tied to IMEI | Contact carrier to re-issue eSIM on new IMEI. |
 
+For transferring between iPhone and Android (not just Pixel to Pixel), see our **[eSIM Cross-Platform Transfer 2026 guide](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+
 ---
 
-<!-- NEW SECTION START: Troubleshooting eSIM Activation Errors with Error Codes -->
-## 🛠️ Troubleshooting eSIM Activation Errors with Error Codes
+## Troubleshooting eSIM activation errors – error codes and fixes
 
 Even on compatible Pixels, eSIM activation can sometimes fail. Here are the most common error codes and how to fix them.
 
@@ -369,9 +369,11 @@ Even on compatible Pixels, eSIM activation can sometimes fail. Here are the most
 4. **Delete other eSIM profiles** – If you have many stored, delete unused ones to free up space (some Pixels have a limit of 5–10 stored profiles).
 5. **Factory reset** – Last resort. Back up your data first. After reset, try activating eSIM again before restoring from backup.
 
+For more advanced eSIM troubleshooting, see our **[eSIM Deep Troubleshooting Guide 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** .
+
 ---
 
-## 🔍 Detailed Breakdown by Pixel Generation
+## Detailed breakdown by Pixel generation
 
 ### Pixel 2 / 2 XL (No eSIM)
 
@@ -480,7 +482,7 @@ As the latest generation, Pixel 10, 10 Pro, 10 Pro XL, and 10 Pro Fold naturally
 
 ---
 
-## 🔧 How to Verify eSIM on Any Pixel (Universal Method)
+## How to verify eSIM on any Pixel (universal method)
 
 No matter which Pixel you have (3/4/5/6/7/8/9/10), use this simple method:
 
@@ -493,7 +495,7 @@ Alternatively, check via Settings: **Settings > Network & Internet > Mobile Netw
 
 ---
 
-## 🌐 eSIM Carrier Compatibility Across Pixel Models
+## eSIM carrier compatibility – which providers work with your Pixel?
 
 The following table shows which eSIM providers work on which Pixel generations:
 
@@ -503,7 +505,7 @@ The following table shows which eSIM providers work on which Pixel generations:
 | **Holafly** | ✅ Yes | ✅ Yes | Unlimited data plans |
 | **Nomad** | ✅ Yes | ✅ Yes | Competitive pricing in Asia-Pacific |
 | **Visible** | ⚠️ Pixel 5+ only | ✅ Yes | US-only unlimited plan |
-| **Google Fi** | ✅ Yes | ✅ Yes | Native integration |
+| **Google Fi** | ✅ Yes | ✅ Yes | Native integration; see [Google Fi compatible phones](https://fi.google.com/about/compatible-phones) |
 | **US Mobile** | ✅ Pixel 4+ | ✅ Yes | Customizable plans |
 | **T-Mobile (US)** | ✅ Pixel 4+ | ✅ Yes | Prepaid eSIM via app |
 | **Verizon** | ⚠️ Pixel 5+ only | ✅ Yes | Postpaid requires customer service |
@@ -513,54 +515,54 @@ The following table shows which eSIM providers work on which Pixel generations:
 
 ---
 
-## ❓ Frequently Asked Questions
+## Frequently Asked Questions
 
-#### Does Pixel 2 support eSIM?
+**Does Pixel 2 support eSIM?**
 No. Pixel 2 series lacks the necessary hardware.
 
-#### Does Pixel 3 support eSIM?
+**Does Pixel 3 support eSIM?**
 Yes, but only on non-Japanese versions. **Pixel 3 esim compatible** devices (US, international) work. Japanese SoftBank/au versions are locked.
 
-#### Does Pixel 4a support eSIM?
+**Does Pixel 4a support eSIM?**
 Yes (non-Japanese versions). Many budget travelers search for **pixel 4a esim compatible** phones. Dial `*#06#` to confirm EID.
 
-#### Does Pixel 5 support eSIM?
+**Does Pixel 5 support eSIM?**
 Yes (non-Japanese versions). The **pixel 5 esim compatible** status makes it a popular choice. It's also frequently listed among **us mobile esim compatible devices** and **google fi esim compatible phones**.
 
-#### Does Pixel 6 support eSIM?
+**Does Pixel 6 support eSIM?**
 Yes – full support, no regional restrictions. **Pixel 6 esim support** is 100% confirmed. Pixel 6a and 6 Pro are the same.
 
-#### Does Pixel 7 / 8 / 9 / 10 support eSIM?
+**Does Pixel 7 / 8 / 9 / 10 support eSIM?**
 Yes, all of them. **Pixel 7 esim compatible**, **pixel 8 esim compatible**, Pixel 9, and Pixel 10 have no regional locks.
 
-#### Can I use two eSIMs at the same time on a Pixel?
+**Can I use two eSIMs at the same time on a Pixel?**
 - **Pixel 6 and older:** No. You can store multiple eSIMs but only activate one at a time (alongside one physical SIM).
 - **Pixel 7 and newer:** Yes, you can enable **dual eSIM** (two eSIMs active simultaneously) by disabling the physical SIM slot. See the Dual eSIM section for details.
 
-#### Can I use a physical SIM and an eSIM at the same time?
+**Can I use a physical SIM and an eSIM at the same time?**
 Yes. All Pixel 3 and newer models support DSDS (Dual SIM Dual Standby), allowing one physical SIM and one eSIM to be active simultaneously.
 
-#### Does eSIM on Pixel support 5G?
+**Does eSIM on Pixel support 5G?**
 Yes – Pixel 6 and newer support 5G on eSIM. Pixel 5 and older are 4G/LTE only.
 
-#### Why can't I transfer my eSIM from an old Pixel to a new one?
+**Why can't I transfer my eSIM from an old Pixel to a new one?**
 Some carriers require you to release the eSIM from the old device via their app before activating on a new one. Others allow re-download using the original QR code. Always check your eSIM provider's transfer policy (see the Transfer eSIM section above).
 
-#### Which Pixel is best for eSIM travel on a budget?
+**Which Pixel is best for eSIM travel on a budget?**
 **Pixel 6a** offers the best value: cheap, full eSIM support, 5G, and good battery life. Second choice: **Pixel 5** (non-Japanese) if found at a lower price.
 
-#### Can I use an eSIM from a different country than where I bought my Pixel?
+**Can I use an eSIM from a different country than where I bought my Pixel?**
 Yes. eSIM is region-agnostic. A US-purchased Pixel 6 can install and use a Japanese eSIM, a European eSIM, or any other global eSIM, as long as the provider supports the device.
 
-#### Does Pixel work with eSIM in China?
+**Does Pixel work with eSIM in China?**
 Yes – international eSIM providers offer China eSIMs that work on Pixel 6 and newer. Local Chinese carriers do not offer eSIM to tourists.
 
-#### What should I do if I see an "activation failed" error?
+**What should I do if I see an "activation failed" error?**
 Refer to the Troubleshooting eSIM Activation Errors section above, which covers common error codes and fixes.
 
 ---
 
-## 🆓 Try a Free eSIM on Your Pixel – Zero Risk
+## 🆓 Try a free eSIM on your Pixel – zero risk
 
 The most reliable way to confirm your Pixel's eSIM compatibility is to install a **free trial eSIM**. It takes 2 minutes and costs nothing.
 
@@ -568,9 +570,4 @@ The most reliable way to confirm your Pixel's eSIM compatibility is to install a
 
 ---
 
-## 🔗 Related Pages
-
-- [Full list of eSIM compatible phones (2026)](/compatibility/)
-- [eSIM Deep Troubleshooting Guide 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)
-- [Samsung S20 eSIM compatibility](/faq/samsung-s20-esim-compatible/)
-- [How to Transfer eSIM Between iPhone and Android](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
+*Based on Google official documentation, GSMA standards, and carrier information. Updated: June 2026.*

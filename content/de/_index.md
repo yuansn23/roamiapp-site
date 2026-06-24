@@ -1,5 +1,5 @@
 ---
-title: "Globale eSIM | 5G-Daten in 200+ Ländern ab 1,99 $"
+title: "Globale eSIM | 5G-Daten in 200+ Ländern ab 1,99$  -Roami"
 date: '2026-06-04T00:00:00+00:00'
 description: "Bleiben Sie mit Roami eSIM in 200+ Ländern verbunden. Sofortige 5G-Aktivierung. Keine physische SIM erforderlich. Tarife ab 1,99 $"
 translationKey: "homepage"

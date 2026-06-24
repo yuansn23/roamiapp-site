@@ -1,5 +1,5 @@
 ---
-title: "Global eSIM | 5G Data in 200+ Countries"
+title: "Global eSIM | 5G Data in 200+ Countries -Roami"
 date: '2026-06-14T14:41:24+00:00'
 description: "Stay connected in 200+ countries with Roami eSIM. Instant 5G activation. No physical SIM needed. Plans from $1.99. Global coverage, local rates."
 

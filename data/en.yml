@@ -26,7 +26,7 @@ related_products:
       price: From $1.99
       is_highlight: false
       slug: india-esim
-    - name: United Kingdom eSIM
+    - name: UK eSIM
       flag: img/flags/gb.svg
       price: From $1.99
       is_highlight: false
@@ -141,7 +141,7 @@ related_products:
       price: From $1.99
       is_highlight: false
       slug: singapore-esim
-    - name: United Arab Emirates eSIM
+    - name: UAE eSIM
       flag: img/flags/ae.svg
       price: From $1.99
       is_highlight: false

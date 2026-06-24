@@ -70,7 +70,7 @@ sidebar_free:
   item_suffix: "Free eSIM"
   item_subtitle: "Free eSIM"
   items:
-    - name: "United Kingdom"
+    - name: "UK"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Germany"

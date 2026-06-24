@@ -2,9 +2,9 @@
 title: "Does iPhone XR Support eSIM? Full Guide 2026"
 h1_title: "Does the iPhone XR Support eSIM? A Complete Guide for 2026"
 description: "iPhone XR supports eSIM – verify with *#06#. Activate on major carriers. China models: no eSIM. Also covers iPhone 8/X and eSIM iPhones."
-keywords: ["iphone xr esim compatible", "iphone xr esim support", "airalo compatible phones", "visible esim compatible phones", "google fi esim compatible phones", "verizon esim compatibility", "dual sim compatible", "list of iphones that support esim"]
-date: 2026-06-10T10:00:00Z
-lastmod: 2026-06-10T10:00:00Z
+keywords: ["iphone xr esim compatible", "iphone xr esim support", "airalo compatible phones", "visible esim compatible phones", "google fi esim compatible phones", "verizon esim compatibility", "dual sim compatible", "list of iphones that support esim", "esim compatible phones", "téléphone compatible esim free"]
+date: 2026-06-23T10:00:00Z
+lastmod: 2026-06-23T10:00:00Z
 tags: ["iPhone", "eSIM", "Compatibility", "iPhone XR"]
 toc: true
 
@@ -32,7 +32,7 @@ sidebar_popular:
   title: "Popular eSIMs"
   item_suffix: "eSIM"
   items:
-    - name: "United States"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
@@ -70,7 +70,7 @@ sidebar_free:
   item_suffix: "Free eSIM"
   item_subtitle: "Free eSIM"
   items:
-    - name: "United Kingdom"
+    - name: "UK eSIM"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Germany"
@@ -98,143 +98,170 @@ sidebar_questions:
 ---
 
 
-## Core Summary (Quick Answer)
+## Quick answer: iPhone XR eSIM support explained
 
-**Yes – iPhone XR fully supports eSIM.** Released in 2018, the iPhone XR was one of the first iPhones to include eSIM technology alongside the iPhone XS and XS Max.
+Yes – iPhone XR fully supports eSIM. Released in 2018, the iPhone XR was one of the first iPhones to include eSIM technology alongside the iPhone XS and XS Max.
 
-Here’s what you need to know in 10 seconds:
+Here's what you need to know in 10 seconds:
 
-1. **Check your region:** All global models work. **Mainland China** versions have no eSIM. Hong Kong/Macau models have partial support (one physical SIM + one eSIM).  
-2. **Verify with *#06#:** Dial this code. If a **32‑digit EID** appears, your phone is eSIM‑ready.  
-3. **Activate in minutes:** Scan a QR code from any provider (Roami, Airalo, Visible, Google Fi) before you travel. Turn on Data Roaming upon landing.  
+1. Check your region: All global models work. Mainland China versions have no eSIM. Hong Kong/Macau models have partial support (one physical SIM + one eSIM).
+2. Verify with `*#06#`: Dial this code. If a 32‑digit EID appears, your phone is eSIM‑ready.
+3. Activate in minutes: Scan a QR code from any provider before you travel. Turn on Data Roaming upon landing.
 
-> **Pro tip:** Even though the iPhone XR is older, its eSIM works exactly like the latest iPhones – no speed or feature limitations.
+Pro tip: Even though the iPhone XR is older, its eSIM works exactly like the latest iPhones – no speed or feature limitations. For a complete list of **esim compatible phones** across all brands, see our **[full compatibility guide](/compatibility/)**.
 
-## 📱 iPhone XR eSIM Compatibility Table
+---
+
+## iPhone XR eSIM compatible – at a glance
 
 | Feature | Status |
 |---------|--------|
-| eSIM support | ✅ Yes |
-| Dual SIM (physical nano‑SIM + eSIM) | ✅ Yes |
+| eSIM support | Yes |
+| Dual SIM (physical nano‑SIM + eSIM) | Yes |
 | Number of stored eSIM profiles | Up to 8+ (only one active at a time) |
-| Mainland China version | ❌ No eSIM |
-| Hong Kong / Macau version | ⚠️ Limited (dual SIM with two physical SIMs, no eSIM on some) |
+| Mainland China version | No eSIM |
+| Hong Kong / Macau version | Limited (dual SIM with two physical SIMs, no eSIM on some) |
 
-The iPhone XR supports eSIM on **iOS 12.1 or later**. If you haven’t updated your software in years, go to **Settings > General > Software Update** first.
+The iPhone XR supports eSIM on iOS 12.1 or later. If you haven't updated your software in years, go to Settings > General > Software Update first.
 
-## 🔍 How to Verify Your iPhone XR Supports eSIM (3 Methods)
+---
 
-### Method 1: The EID Code (Fastest & Most Reliable)
-1. Open your **Phone app** (dialer).  
-2. Enter `*#06#` and press **call**.  
-3. Look at the screen:  
-   - **EID (32 digits) appears** → ✅ Your iPhone XR supports eSIM.  
-   - **Only IMEI numbers appear** → ❌ No eSIM (likely a China model).  
+## How to verify your iPhone XR supports eSIM
+
+Three methods – the first is the most reliable.
+
+### Method 1: The EID code (fastest and most reliable)
+1. Open your Phone app (dialer).
+2. Enter `*#06#` and press call.
+3. Look at the screen:
+   - EID (32 digits) appears → your iPhone XR supports eSIM.
+   - Only IMEI numbers appear → no eSIM (likely a China model).
 
 ### Method 2: Check in Settings
-Go to **Settings > General > About**. Scroll down to the **“Available SIM”** or **“Digital SIM”** section. If you see an **EID** listed, your device is eSIM ready.
+Go to Settings > General > About. Scroll down to the “Available SIM” or “Digital SIM” section. If you see an EID listed, your device is eSIM ready.
 
-### Method 3: Try Adding a Cellular Plan
-Go to **Settings > Cellular > Add Cellular Plan**. If the option is grayed out or missing, your device does not support eSIM. If you can tap it, you’re good to go.
+### Method 3: Try adding a cellular plan
+Go to Settings > Cellular > Add Cellular Plan. If the option is grayed out or missing, your device does not support eSIM. If you can tap it, you're good to go.
 
-## 📲 How to Activate eSIM on iPhone XR (Step by Step)
+---
 
-Activation takes less than 2 minutes. Do it **before you fly** – you only need Wi‑Fi.
+## How to activate eSIM on iPhone XR
 
-1. **Buy an eSIM plan** – For travel, choose a [Roami eSIM](/free-esim/) (free trial available) or any provider like Airalo, Visible, or Google Fi.  
-2. **Open Settings** → **Cellular** → **Add Cellular Plan**.  
-3. **Scan the QR code** sent to your email. (If you have a manual activation code, tap “Enter Details Manually”.)  
-4. **Label your plan** – e.g., “Travel”, “Work”, “UK Data”.  
-5. **Choose default line** – Decide which line (physical SIM or eSIM) will be used for **Cellular Data**, **Voice**, and **SMS**.  
-6. **Turn on Data Roaming** for the eSIM line when you arrive in your destination.  
+Activation takes less than 2 minutes. Do it before you fly – you only need Wi‑Fi. For detailed instructions on all iPhone models, check our **[iPhone eSIM activation guide](/faq/how-to-activate-esim-on-iphone/)**.
 
-> 💡 **Important:** After you land, go to **Settings > Cellular > eSIM** and toggle **Data Roaming** ON. Without this, your eSIM won’t connect.
+1. Buy an eSIM plan – for travel, choose any provider like Airalo, Visible, or Google Fi. A free trial eSIM is also available.
+2. Open Settings → Cellular → Add Cellular Plan.
+3. Scan the QR code sent to your email. (If you have a manual activation code, tap “Enter Details Manually”.)
+4. Label your plan – e.g., “Travel”, “Work”, “UK Data”.
+5. Choose default line – decide which line (physical SIM or eSIM) will be used for Cellular Data, Voice, and SMS.
+6. Turn on Data Roaming for the eSIM line when you arrive in your destination.
 
-## 🌍 Which Carriers Work with iPhone XR eSIM?
+Important: After you land, go to Settings > Cellular > eSIM and toggle Data Roaming ON. Without this, your eSIM won't connect.
 
-Your iPhone XR works with **every eSIM provider** worldwide. Below are answers to common searches:
+### APN settings (if no data connection appears)
+
+If after activation no data network is available, APN settings may need adjustment:
+
+1. Go to Settings > Cellular > Cellular Data Network.
+2. Fill in the APN fields – check your eSIM provider's website for correct values.
+3. Save and restart your iPhone.
+
+Common APN values: Airalo = `airalo`, Holafly = `holafly`, Nomad = `global`.
+
+---
+
+## Which carriers work with iPhone XR eSIM?
+
+Your iPhone XR works with every eSIM provider worldwide:
 
 | Provider | Compatible? | Notes |
 |----------|-------------|-------|
-| **Airalo** | ✅ Fully compatible | Works perfectly on iPhone XR |
-| **Visible** | ✅ Yes | Requires iOS 15+ (update your XR!). Works with Visible eSIM activation via their app. |
-| **Google Fi** | ✅ Yes | Activate via the Google Fi app |
-| **Verizon** | ✅ Yes | Postpaid and prepaid eSIM plans work. Activate via My Verizon app or QR code from Verizon. |
-| **US Mobile** | ✅ Yes | Works with their Warp 5G or GSM eSIM |
-| **T-Mobile (US)** | ✅ Yes | Supports eSIM activation via app or QR |
-| **Free Mobile / Orange (France)** | ✅ Yes | French operators Free and Orange support eSIM on iPhone XR. Your phone must be unlocked. For **téléphone compatible esim free** or **mobile compatible esim orange**, iPhone XR is fully compatible. |
+| Airalo | Yes | Works perfectly on iPhone XR |
+| Visible | Yes | Requires iOS 15+ (update your XR!) |
+| Google Fi | Yes | Activate via the Google Fi app |
+| Verizon | Yes | Postpaid and prepaid eSIM plans work |
+| US Mobile | Yes | Works with their Warp 5G or GSM eSIM |
+| T-Mobile (US) | Yes | Supports eSIM activation via app or QR |
+| Orange (France) | Yes | iPhone XR is fully compatible |
+| Free Mobile (France) | Yes | iPhone XR works with Free eSIM |
+| SFR (France) | Yes | SFR eSIM compatible with iPhone XR |
+| Bouygues (France) | Yes | Bouygues eSIM works on iPhone XR |
 
-If you searched for **“airalo compatible phones”** or **“visible esim compatible phones”** – your iPhone XR is fully compatible (just update to the latest iOS). For **“verizon esim compatibility”**, iPhone XR is supported as long as it’s unlocked or a Verizon device.
+If you searched for “téléphone compatible esim free” or “mobile compatible esim orange” – iPhone XR is fully compatible with French carriers. For “verizon esim compatibility”, iPhone XR is supported as long as it's unlocked or a Verizon device. For a broader look at other brands – including Samsung, Xiaomi, and Huawei – see our full **[eSIM compatibility guide](/compatibility/)**.
 
-## 📋 List of iPhones That Support eSIM (Full Model List)
+---
+
+## Which iPhones support eSIM? – Full list of eSIM capable iPhones
 
 | iPhone Model | eSIM Support | Dual SIM (Physical + eSIM) |
 |--------------|--------------|----------------------------|
-| iPhone XR, XS, XS Max | ✅ Yes | Yes |
-| iPhone 11, 11 Pro, 11 Pro Max | ✅ Yes | Yes |
-| iPhone SE (2020, 2022) | ✅ Yes | Yes |
-| iPhone 12, 12 mini, 12 Pro, 12 Pro Max | ✅ Yes | Yes |
-| iPhone 13, 13 mini, 13 Pro, 13 Pro Max | ✅ Yes | Yes |
-| iPhone 14, 14 Plus, 14 Pro, 14 Pro Max | ✅ Yes | US models: eSIM only; others: physical + eSIM |
-| iPhone 15, 15 Plus, 15 Pro, 15 Pro Max | ✅ Yes | Same as 14 |
-| iPhone 16, 17 series | ✅ Yes | eSIM only in some regions |
+| iPhone XR, XS, XS Max | Yes | Yes |
+| iPhone 11, 11 Pro, 11 Pro Max | Yes | Yes |
+| iPhone SE (2020, 2022) | Yes | Yes |
+| iPhone 12, 12 mini, 12 Pro, 12 Pro Max | Yes | Yes |
+| iPhone 13, 13 mini, 13 Pro, 13 Pro Max | Yes | Yes |
+| iPhone 14, 14 Plus, 14 Pro, 14 Pro Max | Yes | US models: eSIM only |
+| iPhone 15, 15 Plus, 15 Pro, 15 Pro Max | Yes | Same as 14 |
+| iPhone 16, 17 series | Yes | eSIM only in some regions |
 
-**Note:** iPhones sold in mainland China have **no eSIM** (except Hong Kong/Macau limited models). iPhone 8, 8 Plus, iPhone X (10) do **not** support eSIM – they are physical SIM only. For those searching **“iphone 8 esim compatible”** or **“iphone x esim compatible”**, the answer is no. The **iPhone SE (2020/2022)** is fully eSIM compatible, while the original iPhone SE (2016) is not.
+Note: iPhones sold in mainland China have no eSIM. iPhone 8, 8 Plus, and iPhone X do not support eSIM – they are physical SIM only.
 
-## ❌ What If Your iPhone XR Does NOT Show an EID?
+If you're looking for alternatives, the **iPhone 11** and **iPhone SE** are excellent eSIM‑compatible upgrades. See our detailed guides for **[iPhone 11 eSIM compatibility](/faq/iphone-11-esim-compatible/)** and **[iPhone SE eSIM compatibility](/faq/iphone-se-esim-compatible/)**.
 
-The only scenario where an iPhone XR lacks eSIM is if it was purchased in **mainland China** (including some Hong Kong models sold through Chinese channels).  
+---
 
-**What can you do?**
+## What if your iPhone XR does NOT show an EID?
 
-- **Use a physical travel SIM** – Roami and other providers still offer physical SIM cards shipped worldwide.  
-- **Upgrade to a newer iPhone** – The [iPhone 11](/faq/iphone-11-esim-compatible/), [iPhone SE](/faq/iphone-se-esim-compatible/), or any later model will give you eSIM.  
-- **Check if you actually have a Hong Kong model** – Some Hong Kong iPhones support dual SIM (physical + eSIM). Try `*#06#` again. If you see an EID, you’re fine.  
+The only scenario where an iPhone XR lacks eSIM is if it was purchased in mainland China (including some Hong Kong models sold through Chinese channels).
 
-## 🔗 Related Pages
+What can you do?
 
-- [Full list of eSIM compatible phones (2026)](/compatibility/) – including **Samsung Galaxy S20 FE, A22, A33, A52s, Xiaomi 11T Pro, Huawei P30 Pro, Google Pixel 6**, and many more.
-- [iPhone 11 eSIM compatibility](/faq/iphone-11-esim-compatible/)
-- [iPhone SE eSIM compatibility](/faq/iphone-se-esim-compatible/)
-- [Samsung S20 eSIM compatibility](/faq/samsung-s20-esim-compatible/)
-- [Google Pixel 6 eSIM compatibility](/faq/google-pixel-6-esim-compatible/)
-- [Moto G Power eSIM compatibility](/faq/moto-g-power-esim-compatible/)
+- Use a physical travel SIM – many providers still offer physical SIM cards shipped worldwide.
+- Upgrade to a newer iPhone – the iPhone 11, iPhone SE, or any later model will give you eSIM. See our **[iPhone 11 eSIM guide](/faq/iphone-11-esim-compatible/)** and **[iPhone SE eSIM guide](/faq/iphone-se-esim-compatible/)** for details.
+- Switch to an Android eSIM device – the **[Samsung S20](/faq/samsung-s20-esim-compatible/)** (international Exynos version) or **[Google Pixel 6](/faq/google-pixel-6-esim-compatible/)** are great alternatives.
+- Check if you actually have a Hong Kong model – some Hong Kong iPhones support dual SIM (physical + eSIM). Try `*#06#` again. If you see an EID, you're fine.
 
-## 🆓 Still Unsure? Try a Free eSIM
+---
 
-The best way to confirm compatibility is to install a **free trial eSIM**. It costs nothing, takes 2 minutes, and if it installs successfully, your phone is 100% ready.
+## Frequently asked questions about iPhone XR eSIM
+
+**Is iPhone XR eSIM compatible with all carriers?**
+Yes – any carrier that offers eSIM (postpaid, prepaid, or travel eSIM) will work on iPhone XR, as long as your device is unlocked.
+
+**Can I use eSIM and physical SIM at the same time on iPhone XR?**
+Yes. You can have one active eSIM + one active physical SIM simultaneously – this is a true dual SIM setup.
+
+**Does the iPhone XR support 5G eSIM?**
+No – the iPhone XR only supports 4G LTE. eSIM works perfectly on LTE, but you won't get 5G speeds.
+
+**My iPhone XR shows “Cellular Plan Cannot Be Added” – what's wrong?**
+This usually happens if you have too many stored eSIM profiles. Go to Settings > Cellular and remove any old or unused eSIMs. Then restart your phone and try again.
+
+**Does iPhone XR eSIM work in Europe?**
+Yes – but be aware that UK‑based local eSIMs now charge daily EU roaming fees after Brexit. For multi‑country trips, buy a Regional Europe eSIM instead.
+
+**Does iPhone X (iPhone 10) support eSIM?**
+No. The iPhone X (released 2017) does not have eSIM hardware. The first iPhones with eSIM are XR, XS, and XS Max.
+
+**Does iPhone 8 or 8 Plus support eSIM?**
+No. iPhone 8 and 8 Plus are physical SIM only. They do not support eSIM.
+
+**What about other phone brands? Is my Samsung / Xiaomi / Huawei eSIM compatible?**
+Many users ask about Samsung Galaxy S20 FE, Xiaomi 11T Pro, or Huawei P30 Pro. The answer depends on the region and model:
+
+- Samsung – most global Galaxy S20/S21/S22/S23/S24/S25 series support eSIM, as well as A series: A22, A33, A52s, A51, A53. The S20 FE depends on region.
+- Xiaomi – eSIM compatible models include: 11T Pro, 13T Pro, 14T Pro, 15T Pro, and Redmi Note 11 Pro 5G.
+- Huawei – international versions of P30 Pro, P40 Pro, Mate 40 Pro, and Pura 70 support eSIM.
+
+For a complete list, see our full **[eSIM compatibility guide](/compatibility/)**. And remember: dual SIM compatible phones let you use a physical SIM and an eSIM at the same time.
+
+---
+
+## Still unsure? Try a free eSIM
+
+The best way to confirm compatibility is to install a free trial eSIM. It costs nothing, takes 2 minutes, and if it installs successfully, your phone is 100% ready.
 
 👉 [**Get your free eSIM now**](/free-esim/) – works on iPhone XR (except China models).
 
-## ❓ Frequently Asked Questions
-
-#### Is iPhone XR eSIM compatible with all carriers?
-Yes – any carrier that offers eSIM (postpaid, prepaid, or travel eSIM) will work on iPhone XR, as long as your device is unlocked.
-
-#### Can I use eSIM and physical SIM at the same time on iPhone XR?
-Yes. You can have **one active eSIM + one active physical SIM** simultaneously – this is a true dual SIM setup.
-
-#### Does the iPhone XR support 5G eSIM?
-No – the iPhone XR only supports **4G LTE**. eSIM works perfectly on LTE, but you won’t get 5G speeds.
-
-#### My iPhone XR shows “Cellular Plan Cannot Be Added” – what’s wrong?
-This usually happens if you have too many stored eSIM profiles. Go to **Settings > Cellular** and remove any old or unused eSIMs. Then restart your phone and try again.
-
-#### Does iPhone XR eSIM work in Europe?
-Yes – but be aware that **UK‑based local eSIMs (like EE or Vodafone) now charge daily EU roaming fees** after Brexit. For multi‑country trips, buy a **Regional Europe eSIM** instead.
-
-#### Does iPhone X (iPhone 10) support eSIM?
-**No.** The iPhone X (released 2017) does not have eSIM hardware. The first iPhones with eSIM are XR, XS, and XS Max. If you searched for “iphone x esim compatible” – the answer is no. Consider upgrading to an iPhone XR or newer.
-
-#### Does iPhone 8 or 8 Plus support eSIM?
-**No.** iPhone 8 and 8 Plus (2017) are physical SIM only. They do not support eSIM. If you saw “iphone 8 esim compatible” somewhere, it’s incorrect. Only iPhone XR and newer (except China models) have eSIM.
-
-#### What about other phone brands? Is my Samsung / Xiaomi / Huawei eSIM compatible?
-Many users ask **“samsung s20 fe esim compatible”**, **“xiaomi 11t pro compatible esim”**, or **“huawei p30 pro compatible esim”**. The answer depends on the region and model. Below is a quick reference:
-
-- **Samsung** – most global Galaxy S20/S21/S22/S23/S24/S25 series support eSIM, as well as A series: A22, A33, A52s, A51, A53, and the **S20 FE**.
-- **Xiaomi** – eSIM compatible models include: 11T Pro, 13T Pro, 14T Pro, 15T Pro, and Redmi Note 11 Pro 5G.
-- **Huawei** – international versions of P30 Pro, P40 Pro, Mate 40 Pro, and Pura 70 support eSIM.
-
-For a complete list, see our [compatibility guide](/compatibility/). And remember: **dual sim compatible** phones let you use a physical SIM and an eSIM at the same time.
 ---
+*Based on Apple official documentation, GSMA standards, and carrier information. Updated: June 2026.*

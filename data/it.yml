@@ -21,12 +21,12 @@ related_products:
       price: Da 1,99 $
       is_highlight: false
       slug: portugal-esim
-    - name: Regno Unito eSIM
+    - name: UK eSIM
       flag: img/flags/gb.svg
       price: Da 1,99 $
       is_highlight: false
       slug: united-kingdom-esim
-    - name: Stati Uniti eSIM
+    - name: USA eSIM
       flag: img/flags/us.svg
       price: Da 1,99 $
       is_highlight: false
@@ -86,7 +86,7 @@ related_products:
       price: Da 1,99 $
       is_highlight: false
       slug: albania-esim
-    - name: Emirati Arabi Uniti eSIM
+    - name: UAE eSIM
       flag: img/flags/ae.svg
       price: Da 1,99 $
       is_highlight: false

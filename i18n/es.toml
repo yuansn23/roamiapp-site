@@ -1,0 +1,304 @@
+# Botones y etiquetas generales
+[download_on_the]
+other = "Descárgala en el"
+
+[app_store]
+other = "App Store"
+
+[get_it_on]
+other = "Descárgala en"
+
+[google_play]
+other = "Google Play"
+
+[visit_our]
+other = "Visita nuestro"
+
+[official_website]
+other = "Sitio web oficial"
+
+[view_plans]
+other = "Ver planes"
+
+[web]
+other = "Web"
+
+[android]
+other = "Android"
+
+[404_page_not_found]
+other = "404 – Página no encontrada"
+
+[404_message]
+other = "No pudimos encontrar la página que buscas. Puede que haya sido movida o que ya no exista. No te preocupes — volvamos a tu viaje."
+
+[404_back_home]
+other = "Volver al inicio"
+
+[404_promo_title]
+other = "Oferta exclusiva para ti"
+
+[404_promo_desc]
+other = "20% de descuento en tu primera compra eSIM"
+
+[404_promo_code]
+other = "web20"
+
+[404_promo_cta]
+other = "Reclamar tu descuento"
+
+[404_promo_note]
+other = "Sin necesidad de registro. Válido para nuevos usuarios."
+
+# Textos de ventanas emergentes
+[friendly_reminder]
+other = "Servicio actualizado"
+
+[modal_upgrade_desc]
+other = "Nuestros servicios han sido actualizados. Consigue tu código promocional: web20 en nuestro sitio web oficial o en la APP."
+
+[cancel]
+other = "Cancelar"
+
+[proceed]
+other = "Continuar"
+
+# Texto del botón flotante
+[get_esim_discount]
+other = "Consigue 20% de descuento en eSIM"
+
+# Título y descripción de FAQ
+[faq_title]
+other = "Preguntas frecuentes"
+
+[faq_desc]
+other = "Todo lo que necesitas saber sobre nuestro servicio eSIM global."
+
+# Textos existentes (opcionales, se mantienen)
+[modal_title_ios]
+other = "Servicio actualizado"
+
+[modal_text_ios]
+other = "Serás redirigido a la aplicación oficial para obtener el código de descuento."
+
+[tldr_summary_title]
+other = "Resumen rápido para viajeros"
+
+[modal_cancel]
+other = "Cancelar"
+
+[modal_continue]
+other = "Continuar"
+
+[global_connectivity_expert]
+other = "Experto en conectividad global"
+
+[structured_data_org_description]
+other = "Proveedor profesional global de servicios eSIM que ofrece roaming de datos de alta velocidad en 200 países."
+
+[structured_data_product_description]
+other = "Planes eSIM prepago para viajes en más de 200 países con activación instantánea e internet de alta velocidad 5G/4G."
+
+[structured_data_faq1_question]
+other = "¿Cómo comprar una eSIM para Estados Unidos?"
+
+[structured_data_faq1_answer]
+other = "Para comprar una eSIM para Estados Unidos, simplemente descarga la aplicación Roami, selecciona Estados Unidos como destino, elige un plan de datos que se ajuste a tus necesidades y completa la compra. La activación es instantánea."
+
+[structured_data_faq2_question]
+other = "¿Cómo comprar una eSIM para Japón online?"
+
+[structured_data_faq2_answer]
+other = "Comprar una eSIM para Japón es fácil con Roami. Busca Japón en nuestra aplicación, selecciona tu paquete de datos 5G/4G preferido e instálalo mediante código QR o activación con un clic antes de tu viaje."
+
+[structured_data_faq3_question]
+other = "¿Cómo conseguir una eSIM para Europa, Reino Unido o Francia?"
+
+[structured_data_faq3_answer]
+other = "Roami ofrece eSIM regionales para Europa, así como planes locales para Reino Unido, Francia, Italia, Alemania y España. Solo selecciona tu destino en la aplicación para conectarte al instante sin tarifas de roaming."
+
+[structured_data_faq4_question]
+other = "¿Por qué elegir Roami en lugar de Airalo, Nomad, Holafly o Ubigi?"
+
+[structured_data_faq4_answer]
+other = "Aunque Airalo, Nomad eSIM, Holafly, Saily eSIM, Yesim, MobiMatter y GigSky son opciones, Roami ofrece precios altamente competitivos desde $1.99, atención humana 24/7 y una política de reembolso sin preocupaciones en más de 200 países."
+
+[software_description]
+other = "Proveedor global de eSIM para conectividad de viaje de alta velocidad."
+
+[last_updated]
+other = "Última actualización"
+
+[select_language]
+other = "Seleccionar idioma"
+
+[language]
+other = "Idioma"
+
+[close]
+other = "Cerrar"
+
+[fifa_title_line1]
+other = "Conectividad sin fisuras"
+
+[fifa_title_line2]
+other = "Copa Mundial de la FIFA 2026™"
+
+[fifa_desc]
+other = "eSIM de viaje global que impulsa tu viaje a través de todas las ciudades anfitrionas. Mantente conectado, comparte cada momento."
+
+[fifa_guide_text]
+other = "✈️ Viaja sin fronteras — consigue tu eSIM ahora"
+
+[fifa_card1_title]
+other = "Sin roaming"
+
+[fifa_card1_desc]
+other = "Paga tarifas locales"
+
+[fifa_card2_title]
+other = "Una SIM, 3 países"
+
+[fifa_card2_desc]
+other = "EE.UU. · Canadá · México"
+
+[fifa_card3_title]
+other = "Activación instantánea"
+
+[fifa_card3_desc]
+other = "Listo antes de volar"
+
+[fifa_country_canada]
+other = "🇨🇦 Canadá"
+
+[fifa_country_mexico]
+other = "🇲🇽 México"
+
+[fifa_country_usa]
+other = "🇺🇸 EE.UU."
+
+[fifa_5g]
+other = "⚡ Preparado para 5G"
+
+[fifa_button]
+other = "Conseguir eSIM para el Mundial"
+
+[premium_coverage]
+other = "Cobertura premium"
+
+[regional_plans_title]
+other = "Planes regionales y globales"
+
+[regional_subtitle]
+other = "Viaja por múltiples países con una sola eSIM — sin cambiar de SIM, activación instantánea y ahorra un 30% comparado con el roaming."
+
+[faq_title2]
+other = "Preguntas frecuentes sobre compatibilidad eSIM"
+
+[breadcrumb_home]
+other = "Inicio"
+
+[breadcrumb_blog]
+other = "Blog"
+
+[breadcrumb_separator]
+other = "/"
+
+[minutes_read]
+other = "min de lectura"
+
+[table_of_contents]
+other = "📑 Tabla de contenidos"
+
+[you_might_also_like]
+other = "🔗 También te puede interesar"
+
+[popular_destinations]
+other = "Destinos eSIM populares"
+
+[promo_limited_offer]
+other = "🔥 Oferta limitada 🔥"
+
+[promo_use_code]
+other = "Usa el código"
+
+[promo_checkout]
+other = "⭐ Introduce el código al finalizar la compra para reclamar tu descuento ⭐"
+
+[promo_stats_text]
+other = "Únete a más de 1 millón de viajeros que cambiaron a Roami. 5G en {{ .Countries }} países. Planes desde ${{ .Price }}. Activación instantánea."
+
+[region_country_title]
+other = "La eSIM {{ .RegionName }} funciona en {{ .TotalCountries }} países"
+
+[coverage_stats_text]
+other = """
+Una eSIM se conecta automáticamente a la red local más fuerte en cada país.
+<strong class="text-orange-600">{{ .FiveGCount }} países tienen 5G</strong>,
+{{ .FourGCount }} tienen 4G/LTE fiable.
+Toca cualquier país para ver guías de configuración y detalles de operadores.
+"""
+
+[powered_by_operators]
+other = "Impulsada por los mayores operadores móviles de {{ .RegionName }}"
+
+[auto_switch_carriers]
+other = """
+Tu eSIM Roami cambia automáticamente entre <strong class="text-orange-600">{{ .CarrierCount }}+ operadores</strong> para obtener la mejor señal.
+"""
+
+[network_partners_label]
+other = "Socios de red"
+
+[premium_carrier_partners_title]
+other = "{{ .Count }}+ socios de red premium"
+
+[network_partners_description]
+other = "Tu eSIM Roami se conecta automáticamente a las mejores redes locales. Sin necesidad de cambiar manualmente."
+
+[esim_auto_connect]
+other = "Uno de los mayores operadores de {{ .HQ }}. Tu eSIM se conecta automáticamente{{ .CountriesSuffix }}."
+
+[carrier_roaming_title]
+other = "Roaming de tu operador"
+
+[carrier_roaming_badge]
+other = "Tarifas ocultas"
+
+[carrier_roaming_estimate]
+other = "estimado para un viaje de 2 semanas"
+
+[roami_title]
+other = "eSIM Roami {{ .RegionName }}"
+
+[roami_badge]
+other = "Mejor valor"
+
+[roami_price_label]
+other = "Desde $1.99"
+
+[roami_plan_description]
+other = "planes prepago desde $5 para todo el viaje"
+
+[esim_vs_carrier_roaming]
+other = "eSIM {{ .RegionName }} vs. roaming de operador"
+
+[heading_beyond_region]
+other = "¿Viajas más allá de {{ .RegionName }}?"
+
+[try_free_button]
+other = "Probar eSIM gratis"
+
+[regionQuestionsTitle]
+other = "eSIM {{ .RegionName }}: preguntas que los viajeros hacen"
+
+[stats]
+countries = "Países"
+carriers = "Operadores"
+coverage_5g = "Cobertura 5G"
+
+[home]
+other = "Inicio"
+
+[carriers]
+other = "Operadores eSIM"

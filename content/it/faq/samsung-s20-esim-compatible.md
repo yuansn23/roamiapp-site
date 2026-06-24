@@ -32,7 +32,7 @@ sidebar_popular:
   title: "eSIM popolari"
   item_suffix: "eSIM"
   items:
-    - name: "Stati Uniti"
+    - name: "USA"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
@@ -195,7 +195,7 @@ I modelli più recenti (S23 e successivi) supportano anche la **doppia eSIM** (d
 
 Il supporto eSIM di Samsung varia a seconda della regione a causa delle richieste degli operatori e delle scelte firmware.
 
-### Stati Uniti
+### USA
 - **S21 e successivi** – supporto eSIM completo su tutti gli operatori (Verizon, T-Mobile, AT&T e sbloccati).
 - **Serie S20** – eSIM disabilitato su tutti i modelli USA Snapdragon. Include versioni con operatore e “sbloccate” USA.
 - **Note 20 Ultra USA** – nessuna eSIM.

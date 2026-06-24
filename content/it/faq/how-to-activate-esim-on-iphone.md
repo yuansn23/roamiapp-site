@@ -34,7 +34,7 @@ sidebar_popular:
   title: "eSIM popolari"
   item_suffix: "eSIM"
   items:
-    - name: "Stati Uniti"
+    - name: "USA"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
@@ -122,7 +122,7 @@ Innanzitutto, assicurati che il tuo iPhone supporti la tecnologia eSIM. Apple ha
 * Serie iPhone 11, 12, 13, 14 e 15
 * iPhone SE (2a e 3a generazione)
 
-*💡 Consiglio: Se hai acquistato un iPhone 14 o iPhone 15 negli Stati Uniti, il tuo telefono è solo eSIM e non ha un vassoio per SIM fisica.*
+*💡 Consiglio: Se hai acquistato un iPhone 14 o iPhone 15 negli USA, il tuo telefono è solo eSIM e non ha un vassoio per SIM fisica.*
 
 ### Assicurati che il tuo iPhone sia sbloccato dall'operatore
 Se stai cercando di installare un eSIM da viaggio, il tuo telefono deve essere sbloccato.

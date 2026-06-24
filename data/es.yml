@@ -1,0 +1,153 @@
+related_products:
+  title: Planes eSIM similares
+  items:
+    - name: USA eSIM
+      flag: img/flags/us.svg
+      price: From $1.99
+      is_highlight: false
+      slug: united-states-esim
+    - name: China eSIM
+      flag: img/flags/cn.svg
+      price: From $1.99
+      is_highlight: false
+      slug: china-esim
+    - name: Alemania eSIM
+      flag: img/flags/de.svg
+      price: From $1.99
+      is_highlight: false
+      slug: germany-esim
+    - name: Japón eSIM
+      flag: img/flags/jp.svg
+      price: From $1.99
+      is_highlight: false
+      slug: japan-esim
+    - name: India eSIM
+      flag: img/flags/in.svg
+      price: From $1.99
+      is_highlight: false
+      slug: india-esim
+    - name: UK eSIM
+      flag: img/flags/gb.svg
+      price: From $1.99
+      is_highlight: false
+      slug: united-kingdom-esim
+    - name: Francia eSIM
+      flag: img/flags/fr.svg
+      price: From $1.99
+      is_highlight: false
+      slug: france-esim
+    - name: Rusia eSIM
+      flag: img/flags/ru.svg
+      price: From $1.99
+      is_highlight: false
+      slug: russia-esim
+    - name: Italia eSIM
+      flag: img/flags/it.svg
+      price: From $1.99
+      is_highlight: false
+      slug: italy-esim
+    - name: Canadá eSIM
+      flag: img/flags/ca.svg
+      price: From $1.99
+      is_highlight: false
+      slug: canada-esim
+    - name: Brasil eSIM
+      flag: img/flags/br.svg
+      price: From $1.99
+      is_highlight: false
+      slug: brazil-esim
+    - name: España eSIM
+      flag: img/flags/es.svg
+      price: From $1.99
+      is_highlight: false
+      slug: spain-esim
+    - name: Corea del Sur eSIM
+      flag: img/flags/kr.svg
+      price: From $1.99
+      is_highlight: false
+      slug: south-korea-esim
+    - name: Australia eSIM
+      flag: img/flags/au.svg
+      price: From $1.99
+      is_highlight: false
+      slug: australia-esim
+    - name: México eSIM
+      flag: img/flags/mx.svg
+      price: From $1.99
+      is_highlight: false
+      slug: mexico-esim
+    - name: Turquía eSIM
+      flag: img/flags/tr.svg
+      price: From $1.99
+      is_highlight: false
+      slug: turkey-esim
+    - name: Indonesia eSIM
+      flag: img/flags/id.svg
+      price: From $1.99
+      is_highlight: false
+      slug: indonesia-esim
+    - name: Países Bajos eSIM
+      flag: img/flags/nl.svg
+      price: From $1.99
+      is_highlight: false
+      slug: netherlands-esim
+    - name: Arabia Saudita eSIM
+      flag: img/flags/sa.svg
+      price: From $1.99
+      is_highlight: false
+      slug: saudi-arabia-esim
+    - name: Suiza eSIM
+      flag: img/flags/ch.svg
+      price: From $1.99
+      is_highlight: false
+      slug: switzerland-esim
+    - name: Polonia eSIM
+      flag: img/flags/pl.svg
+      price: From $1.99
+      is_highlight: false
+      slug: poland-esim
+    - name: Taiwán eSIM
+      flag: img/flags/tw.svg
+      price: From $1.99
+      is_highlight: false
+      slug: taiwan-esim
+    - name: Bélgica eSIM
+      flag: img/flags/be.svg
+      price: From $1.99
+      is_highlight: false
+      slug: belgium-esim
+    - name: Irlanda eSIM
+      flag: img/flags/ie.svg
+      price: From $1.99
+      is_highlight: false
+      slug: ireland-esim
+    - name: Argentina eSIM
+      flag: img/flags/ar.svg
+      price: From $1.99
+      is_highlight: false
+      slug: argentina-esim
+    - name: Suecia eSIM
+      flag: img/flags/se.svg
+      price: From $1.99
+      is_highlight: false
+      slug: sweden-esim
+    - name: Israel eSIM
+      flag: img/flags/il.svg
+      price: From $1.99
+      is_highlight: false
+      slug: israel-esim
+    - name: Singapur eSIM
+      flag: img/flags/sg.svg
+      price: From $1.99
+      is_highlight: false
+      slug: singapore-esim
+    - name: UAE eSIM
+      flag: img/flags/ae.svg
+      price: From $1.99
+      is_highlight: false
+      slug: united-arab-emirates-esim
+    - name: Austria eSIM
+      flag: img/flags/at.svg
+      price: From $1.99
+      is_highlight: false
+      slug: austria-esim

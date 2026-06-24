@@ -138,7 +138,7 @@
             <h1 class="font-extrabold text-white leading-tight tracking-tight mb-4 text-3xl sm:text-4xl lg:text-5xl [&>p]:m-0 [&>p]:inline">
                 {{ .Params.hero_subtitle_main | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}<br class="hidden sm:inline"/>
                 {{ if .Params.hero_subtitle_highlight }}
-                <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400 text-2xl sm:text-3xl lg:text-4xl mt-2 block leading-tight">{{ .Params.hero_subtitle_highlight | replaceRE "\\\\n|/n|\n" " <br class='hidden sm:inline'> " | safeHTML }}</span>
+               
                 {{ end }}
             </h1>
             <div class="space-y-2 max-w-3xl mx-auto">

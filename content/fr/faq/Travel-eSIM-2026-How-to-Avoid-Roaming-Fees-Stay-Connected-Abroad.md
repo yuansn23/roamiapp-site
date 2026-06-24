@@ -1,10 +1,10 @@
 ---
 title: "eSIM voyage 2026 : Évitez les frais d'itinérance"
 h1_title: "Voyager en 2026 avec une eSIM : comment éviter les frais d'itinérance"
-description: "Voyagez à l'étranger ? Utilisez une eSIM de voyage avec iOS 26. Comparez itinérance, eSIM locale et forfaits mondiaux. Activation pas à pas, vérification déverrouillage. Économisez jusqu'à 90 %."
-keywords: ["eSIM de voyage", "itinérance internationale", "iOS 26 eSIM voyage", "acheter eSIM pour voyager", "eSIM pour touristes", "itinérance pas cher", "eSIM iPhone voyage", "eSIM vs itinérance"]
-date: 2026-06-10T10:00:00Z
-lastmod: 2026-06-10T10:00:00Z
+description: "Voyagez à l'étranger sans roaming avec Roami : comparez eSIM locale et forfaits mondiaux. Activation en 2 min, déverrouillage vérifié. Économisez jusqu'à 90% !"
+keywords: ["eSIM de voyage", "itinérance internationale", "iOS 19 eSIM voyage", "acheter eSIM pour voyager", "eSIM pour touristes", "itinérance pas cher", "eSIM iPhone voyage", "eSIM vs itinérance", "eSIM Japon", "eSIM USA", "eSIM Maroc", "eSIM Royaume-Uni", "eSIM Europe"]
+date: 2026-06-22T10:00:00Z
+lastmod: 2026-06-22T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Dépannage", "Configuration de voyage", "iPhone 17"]
 toc: true
 
@@ -32,7 +32,7 @@ sidebar_popular:
   title: "eSIM populaires"
   item_suffix: "eSIM"
   items:
-    - name: "États-Unis"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
@@ -96,9 +96,11 @@ sidebar_questions:
     - question: "Dernière liste de compatibilité eSIM"
       url: "/compatibility/"
 ---
- 
 
-> L'itinérance internationale est chère. Les kiosques de SIM dans les aéroports sont une arnaque. Et jongler avec plusieurs cartes SIM physiques est un casse-tête. **Voici l'eSIM de voyage** – une SIM numérique qui vous permet d'acheter des forfaits de données locaux depuis n'importe où dans le monde, installée avant de quitter la maison et activée dès votre atterrissage. Ce guide, basé sur la documentation officielle d'Apple 2025–2026, vous donne la stratégie ultime pour rester connecté à l'étranger.
+
+L'itinérance internationale est chère. Les kiosques de SIM dans les aéroports sont une arnaque. Et jongler avec plusieurs cartes SIM physiques est un casse-tête. **Voici l'eSIM de voyage** – une SIM numérique qui vous permet d'acheter des forfaits de données locaux depuis n'importe où dans le monde, installée avant de quitter la maison et activée dès votre atterrissage. Ce guide, basé sur la documentation officielle d'Apple 2025–2026, vous donne la stratégie ultime pour rester connecté à l'étranger.
+
+La technologie eSIM est régie par le [standard GSMA SGP.22](https://www.gsma.com/esim/), garantissant une compatibilité mondiale entre appareils et opérateurs. La [documentation officielle d'Apple sur l'eSIM](https://support.apple.com/fr-fr/108072) fournit des informations détaillées sur les appareils compatibles.
 
 ---
 
@@ -106,221 +108,222 @@ sidebar_questions:
 
 - **Trois options :** Itinérance de l'opérateur existant / eSIM de voyage locale / eSIM de données d'un fournisseur mondial.
 - **La moins chère et la plus flexible :** Achetez une eSIM de voyage données uniquement auprès d'un fournisseur mondial (couvre 190+ pays).
-- **Fonctionnalité intelligente d'iOS 26 :** L'iPhone demande maintenant si vous souhaitez utiliser une eSIM de voyage avant le départ et l'active automatiquement à l'arrivée.
+- **Fonctionnalité intelligente d'iOS 19 :** L'iPhone demande maintenant si vous souhaitez utiliser une eSIM de voyage avant le départ et l'active automatiquement à l'arrivée.
 - **Exigence clé :** Votre iPhone doit être **déverrouillé** (pas de verrouillage opérateur). Vérifiez dans `Réglages > Général > Informations`.
 - **Compatibilité des appareils :** iPhone XS ou plus récent, nombreux iPad avec cellulaire. Les modèles américains à partir du 14 sont uniquement eSIM.
 
 ---
 
-## 1. Trois façons de rester connecté à l'étranger (laquelle vous fait le plus économiser ?)
+## 1. eSIM de voyage vs eSIM locale vs roaming : comparatif complet
 
-Le document officiel d'Apple « Utiliser l'eSIM lors d'un voyage à l'étranger » décrit ces trois voies. Voici comment elles se comparent :
+Le document officiel d'Apple « Utiliser l'eSIM lors d'un voyage à l'étranger » décrit trois options. Voici comment elles se comparent :
 
 | Option | Comment ça fonctionne | Coût | Idéal pour | Pièges cachés |
 |--------|----------------------|------|------------|----------------|
-| **Itinérance internationale de l'opérateur domestique** | Utilisez votre forfait existant (souvent avec des frais journaliers) | 10–15 $/jour ou 50–100 $/mois | Courts séjours où la commodité prime sur le coût | Facture surprise ; vitesses réduites après usage équitable |
-| **eSIM de voyage d'un opérateur local** | Achetez auprès d'un opérateur dans votre pays de destination | Tarifs locaux (exemple : 10 € pour 20 Go) | Longs séjours (>1 mois) | Peut nécessiter une pièce d'identité locale ; parfois achat en magasin uniquement |
-| **eSIM de données d'un fournisseur mondial** | Achetez via une application (Roami, Airalo, etc.) avant de partir | 5–30 $ selon les données | La plupart des touristes (1–30 jours) | Données uniquement (pas de numéro de téléphone pour les appels/SMS) |
+| **Itinérance de l'opérateur domestique** | Utilisez votre forfait existant (souvent avec des frais journaliers) | 10–15 €/jour ou 50–100 €/mois | Courts séjours où la commodité prime sur le coût | Facture surprise ; vitesses réduites |
+| **eSIM locale** | Achetez auprès d'un opérateur dans votre pays de destination | Tarifs locaux (exemple : 10 € pour 20 Go) | Longs séjours (>1 mois) | Peut nécessiter une pièce d'identité locale |
+| **eSIM de voyage mondiale** | Achetez via une application (Roami, Airalo, etc.) avant de partir | 5–30 € selon les données | La plupart des touristes (1–30 jours) | Données uniquement (pas de numéro) |
 
-**Verdict pour 90 % des voyageurs :** L'**eSIM de données d'un fournisseur mondial** offre le meilleur équilibre entre coût, commodité et couverture. Vous l'achetez sur votre téléphone encore chez vous, l'installez en 60 secondes et l'activez dès votre atterrissage – pas de files d'attente à l'aéroport, pas de barrières linguistiques, pas de frais journaliers cachés.
+**Verdict pour 90 % des voyageurs :** L'**eSIM de voyage mondiale** offre le meilleur équilibre entre coût, commodité et couverture. Vous l'achetez sur votre téléphone encore chez vous, l'installez en 60 secondes et l'activez dès votre atterrissage – pas de files d'attente à l'aéroport, pas de barrières linguistiques, pas de frais journaliers cachés.
+
+### Coût réel : comparaison pour 7 jours
+
+| Option | Coût approximatif | Notes |
+|--------|-------------------|-------|
+| **eSIM voyage (5 Go)** | 5-15 € | Avec code promo |
+| **eSIM voyage (10 Go)** | 10-20 € | Avec code promo |
+| **SIM locale** | 10-20 € | + temps de recherche |
+| **Roaming Orange** | 50-100 € | Selon forfait |
+| **Roaming SFR** | 50-100 € | Selon forfait |
+| **Roaming Bouygues** | 50-100 € | Selon forfait |
+| **Roaming Free** | 0-50 € | Inclus dans Free 5G (25 Go) |
+
+Pour la plupart des voyageurs français, une **eSIM de voyage** est le meilleur rapport qualité-prix – surtout si vous prévoyez de visiter plusieurs pays.
 
 ---
 
-## 2. Vérifiez votre iPhone avant de partir (étape cruciale)
+## 2. Opérateurs français : Orange, SFR, Bouygues, Free à l'étranger
+
+Si vous partez à l'étranger, voici ce que proposent les opérateurs français :
+
+| Opérateur | Forfaits avec roaming inclus | Option roaming journalier | eSIM voyage disponible ? |
+|-----------|------------------------------|---------------------------|--------------------------|
+| **Orange** | Certains forfaits (Orange Travel) | 15-20 €/jour | Oui (via Orange) |
+| **SFR** | Forfaits Premium (limités) | 15-20 €/jour | Oui (via SFR) |
+| **Bouygues** | Forfaits Sensation (limités) | 15-20 €/jour | Oui (via Bouygues) |
+| **Free** | Forfait Free 5G (25 Go/mois en roaming) | Inclus dans certains forfaits | Oui (via Free) |
+
+**Recommandation :** Vérifiez votre forfait actuel avant de partir. Si vous avez un forfait Free 5G (25 Go/mois), le roaming est déjà inclus. Sinon, une **eSIM de voyage** sera généralement moins chère qu'une option de roaming journalier (15-20 €/jour).
+
+Pour les utilisateurs d'eSIM avec un opérateur français, les pages [Orange eSIM](https://www.orange.fr/esim), [SFR eSIM](https://www.sfr.fr/esim), [Bouygues eSIM](https://www.bouyguestelecom.fr/esim) et [Free eSIM](https://mobile.free.fr/esim) fournissent des informations sur l'activation.
+
+---
+
+## 3. Vérifiez votre iPhone avant de partir (étape cruciale)
 
 Tous les iPhones ne fonctionnent pas avec toutes les eSIM. Suivez cette liste de contrôle :
 
-### 2.1 Votre iPhone est-il déverrouillé ?
+### 3.1 Votre iPhone est-il déverrouillé ?
 Un iPhone verrouillé ne peut utiliser que l'opérateur auprès duquel il a été acheté. Pour vérifier :
 `Réglages` > `Général` > `Informations` → faites défiler jusqu'à **Verrouillage opérateur**.
 - Si la mention indique **« Aucune restriction SIM »** → c'est bon.
 - Si un opérateur est listé → contactez cet opérateur pour demander un déverrouillage avant de voyager.
 
-### 2.2 Votre iPhone prend-il en charge l'eSIM ?
-Tous les modèles d'iPhone à partir de **l'iPhone XS, XR et versions ultérieures** prennent en charge l'eSIM. Cela inclut toutes les séries iPhone 11, 12, 13, 14, 15, 16 et 17. Si vous possédez un modèle plus ancien (iPhone X ou antérieur), vous ne pouvez pas utiliser l'eSIM et devez utiliser une carte SIM physique.
+### 3.2 Votre iPhone prend-il en charge l'eSIM ?
+Tous les modèles d'iPhone à partir de **l'iPhone XS, XR et versions ultérieures** prennent en charge l'eSIM. Cela inclut toutes les séries iPhone 11, 12, 13, 14, 15, 16 et 17. Si vous possédez un modèle plus ancien (iPhone X ou antérieur), vous ne pouvez pas utiliser l'eSIM.
 
-### 2.3 Modèles américains vs internationaux
-- **Modèles américains (iPhone 14 et plus récents) :** Uniquement eSIM – pas de tiroir SIM physique. Parfait pour voyager – vous devez de toute façon utiliser l'eSIM.
-- **Modèles internationaux :** Généralement une SIM physique + eSIM. Vous pouvez conserver votre SIM physique domestique pour les appels et utiliser une eSIM pour les données.
+### 3.3 Modèles américains vs internationaux
+- **Modèles américains (iPhone 14 et plus récents) :** Uniquement eSIM – pas de tiroir SIM physique.
+- **Modèles internationaux :** Généralement une SIM physique + eSIM.
 
-> 📱 **Vous changez de téléphone avant un voyage ?** Notre **[Guide complet iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** montre comment activer n'importe quelle eSIM sur le dernier matériel.
+Une liste complète des appareils compatibles est disponible dans notre **[liste de compatibilité eSIM](/compatibility/)**.
 
 ---
 
-## 3. Où acheter une eSIM de voyage (trois sources fiables)
+## 4. Où acheter une eSIM de voyage (trois sources fiables)
 
-### 3.1 Fournisseurs mondiaux (Roami, Airalo, Holafly, Nomad)
+### 4.1 Fournisseurs mondiaux (Roami, Airalo, Holafly, Nomad)
 - **Idéal pour :** Voyages de 1 à 30 jours, plusieurs pays.
-- **Comment acheter :** Téléchargez l'application, choisissez un forfait, payez par carte de crédit/Apple Pay. Vous recevrez un code QR ou un lien d'installation automatique.
-- **Couverture :** 100–190+ pays, parfois régionale (exemple : « eSIM Europe » couvre 30+ pays).
-- **Tarifs :** Généralement 5–10 $ pour 1 Go/7 jours jusqu'à 30–50 $ pour 30 jours illimités.
+- **Comment acheter :** Téléchargez l'application, choisissez un forfait, payez par carte de crédit/Apple Pay.
+- **Couverture :** 100–190+ pays, parfois régionale.
+- **Tarifs :** 5–10 € pour 1 Go/7 jours jusqu'à 30–50 € pour 30 jours.
 
-### 3.2 Opérateur local (acheter sur place)
-- **Idéal pour :** Séjours de plus d'un mois, ou si vous avez besoin d'un numéro de téléphone local (pour les applications locales, appels de livraison).
-- **Exemples :** EE ou O2 au Royaume-Uni, Deutsche Telekom en Allemagne, Orange en France.
-- **Comment acheter :** Rendez-vous dans un magasin de l'opérateur en personne (vous aurez peut-être besoin de votre passeport). Certains permettent un achat en ligne avant votre arrivée.
-- **Tarifs :** Souvent moins cher par Go que les fournisseurs mondiaux, mais nécessite du temps de configuration.
+### 4.2 Opérateur local (acheter sur place)
+- **Idéal pour :** Séjours de plus d'un mois, ou si vous avez besoin d'un numéro de téléphone local.
+- **Exemples :** EE au Royaume-Uni, Deutsche Telekom en Allemagne, Orange en France.
+- **Comment acheter :** Rendez-vous dans un magasin de l'opérateur en personne (passeport requis).
 
-### 3.3 Utiliser le forfait voyage de votre opérateur domestique
+### 4.3 Forfait voyage de votre opérateur domestique
 - **Idéal pour :** Courts voyages d'affaires où vous devez garder votre numéro domestique actif 24h/24.
-- **Exemples :** AT&T International Day Pass (10 $/jour), T‑Mobile Magenta (données lentes incluses), Verizon TravelPass.
-- **Attention :** De nombreux forfaits « illimités » réduisent la vitesse à 2G après 500 Mo–1 Go par jour. Vérifiez les petits caractères.
-
-> 🔗 **Problème d'activation de votre eSIM de voyage ?** Notre **[Guide de dépannage approfondi eSIM (16 cas réels)](/faq/esim-deep-troubleshooting-guide-2026/)** couvre les échecs d'activation, les erreurs « Pas de service », et plus encore.
+- **Attention :** De nombreux forfaits « illimités » réduisent la vitesse après 500 Mo–1 Go par jour.
 
 ---
 
-## 4. Assistant eSIM de voyage intelligent d'iOS 26 (innovation majeure)
+## 5. Quelle eSIM de voyage pour quelle destination ?
 
-iOS 26 d'Apple introduit une fonctionnalité conçue spécifiquement pour les utilisateurs d'eSIM de voyage. Elle automatise deux étapes manuelles fastidieuses :
+Voici les recommandations pour les destinations les plus populaires :
 
-### Avant le départ
-Lorsque vous achetez une eSIM de voyage (auprès de tout fournisseur prenant en charge l'intégration iOS), le système demandera :
-> **« Souhaitez-vous utiliser cette eSIM dans votre pays d'origine ou en voyage ? »**
+| Destination | Fournisseur recommandé | Forfait idéal | Prix indicatif |
+|-------------|----------------------|---------------|----------------|
+| **Japon** | Roami, Airalo, Ubigi | 5 Go / 15 jours | ~8-10 € |
+| **USA eSIM** | Roami, Airalo, Holafly | 5 Go / 7 jours | ~7-10 € |
+| **Maroc** | Roami, Airalo, Holafly | 5 Go / 7 jours | ~8-10 € |
+| **Royaume-Uni** | Roami, Airalo, Lebara | 5 Go / 7 jours | ~5-8 € |
+| **Europe (multi-pays)** | Roami, Airalo, Holafly | 10 Go / 15 jours | ~12-15 € |
+| **Thaïlande** | Roami, Airalo, Holafly | 5 Go / 7 jours | ~8-10 € |
+| **Canada** | Roami, Airalo | 5 Go / 7 jours | ~10-12 € |
+| **Australie** | Roami, Airalo | 5 Go / 7 jours | ~10-12 € |
+
+Découvrez nos guides dédiés : **[eSIM Japon](/japan-esim/)**, **[eSIM USA eSIM](/united-states-esim/)**, **[eSIM Maroc](/morocco-esim/)**, **[eSIM Royaume-Uni](/united-kingdom-esim/)** et **[eSIM Europe](/europe-esim/)**.
+
+---
+
+## 6. Assistant eSIM de voyage intelligent d'iOS 19 (innovation majeure)
+
+iOS 19 d'Apple introduit une fonctionnalité conçue spécifiquement pour les utilisateurs d'eSIM de voyage :
+
+**Avant le départ :** Lorsque vous achetez une eSIM de voyage, le système demande :
+> « Souhaitez-vous utiliser cette eSIM dans votre pays d'origine ou en voyage ? »
 - Répondez « Voyage » – l'iPhone la marque comme un forfait de voyage.
 
-### À l'arrivée
-Dès que vous atterrissez dans votre pays de destination et que votre téléphone se connecte à un réseau local, une notification apparaît :
-> **« Activer l'eSIM de voyage ? »**
-- **Appuyez sur « Activer l'eSIM de voyage »** → Vous verrez deux options :
-  - **« Utiliser uniquement l'eSIM de voyage »** – Votre eSIM domestique est temporairement désactivée, évitant ainsi les frais d'itinérance accidentels.
-  - **« Utiliser les deux »** – Les deux lignes restent actives ; l'eSIM de voyage gère les données, la ligne domestique peut recevoir des appels (des frais d'itinérance peuvent toujours s'appliquer pour les appels/SMS domestiques).
+**À l'arrivée :** Dès que vous atterrissez, une notification apparaît :
+> « Activer l'eSIM de voyage ? »
+- **« Utiliser uniquement l'eSIM de voyage »** – Votre eSIM domestique est désactivée.
+- **« Utiliser les deux »** – Les deux lignes restent actives.
 
-### Après le retour
-Lorsque vous atterrissez dans votre pays d'origine, iOS 26 :
-- Désactivera automatiquement l'eSIM de voyage (ou vous invitera à la désactiver).
-- Réactivera votre eSIM de l'opérateur domestique.
-
-> 💡 **Conseil pro :** Même avec l'assistant intelligent, vous pouvez contrôler manuellement votre ligne de données à tout moment : `Réglages` > `Données cellulaires` > `Données cellulaires` → choisissez quelle eSIM utiliser pour Internet.
+**Après le retour :** iOS 19 désactive automatiquement l'eSIM de voyage.
 
 ---
 
-## 5. Étape par étape : Comment configurer une eSIM de voyage avant votre voyage
+## 7. Étape par étape : Comment configurer une eSIM de voyage
 
-Faites ceci **avant** de quitter la maison (pendant que vous avez encore le Wi‑Fi) :
+Faites ceci **avant** de quitter la maison :
 
-1. **Achetez votre eSIM de voyage** auprès du fournisseur de votre choix (application ou site Web).
-2. **Installez le profil eSIM** – généralement en scannant un code QR ou en appuyant sur un lien « Installer ».
-   - Pour scanner le QR : `Réglages` > `Données cellulaires` > `Ajouter une eSIM` > `Utiliser un code QR`.
-3. **Étiquetez l'eSIM** – donnez-lui un nom comme « Voyage Japon » pour ne pas la confondre avec votre ligne domestique.
-4. **Désactivez « Données cellulaires » pour cette eSIM jusqu'à votre arrivée** – pour éviter de l'utiliser accidentellement avant le départ.
-5. **Laissez-la installée** – ne la supprimez pas.
+1. **Achetez votre eSIM de voyage** auprès du fournisseur de votre choix.
+2. **Installez le profil eSIM** – scannez le QR code ou appuyez sur « Installer ».
+3. **Étiquetez l'eSIM** – donnez-lui un nom comme « Voyage Japon ».
+4. **Désactivez les données** pour cette eSIM jusqu'à l'arrivée.
 
-À l'arrivée à destination :
-- Activez **l'itinérance des données** pour l'eSIM de voyage (`Réglages` > `Données cellulaires` > appuyez sur l'eSIM de voyage > activez `Itinérance des données`).
+À l'arrivée :
+- Activez **l'itinérance des données** pour l'eSIM de voyage.
 - Allez dans `Réglages` > `Données cellulaires` > `Données cellulaires` → sélectionnez l'eSIM de voyage.
-- Profitez d'une connectivité instantanée.
 
-> ⚠️ **Si vous possédez un iPhone uniquement eSIM (modèle américain) :** Votre eSIM domestique pourrait encore essayer d'utiliser l'itinérance. Pour éviter les frais, désactivez **l'itinérance des données** pour la ligne domestique et/ou désactivez « Autoriser le basculement des données cellulaires ».
-
----
-
-## 6. Comment utiliser la double eSIM pour voyager (gardez votre numéro domestique actif)
-
-Si votre iPhone prend en charge la double eSIM (iPhone 13 et plus récents), c'est la **configuration idéale** :
-- **eSIM domestique (principale) :** Restez actif pour les appels, iMessage et SMS de votre pays d'origine. **Désactivez l'itinérance des données** pour cette ligne afin d'éviter des factures élevées.
-- **eSIM de voyage (secondaire) :** Utilisez-la pour toutes les données mobiles. Définissez-la comme ligne **Données cellulaires** par défaut.
-
-Ainsi, votre numéro domestique peut toujours recevoir des appels (via l'appel Wi‑Fi si votre opérateur le prend en charge, en utilisant la connexion de données de l'eSIM de voyage) et votre eSIM de voyage gère les cartes, les réseaux sociaux et la navigation.
-
-Pour de meilleurs résultats :
-- Activez **Autoriser le basculement des données cellulaires** – le téléphone peut utiliser les données de l'eSIM de voyage pour l'appel Wi‑Fi de votre ligne domestique.
-- Désactivez **« Envoyer comme SMS »** pour iMessage si votre forfait domestique a des SMS coûteux.
-
-> 📖 **La double SIM ne se comporte pas comme prévu ?** Consultez notre article **[Double eSIM ne fonctionne pas ? 12 solutions pour iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** pour les conflits CDMA, les erreurs T‑ADS et les correctifs de décharge de batterie.
+Pour des instructions détaillées, consultez notre **[guide complet d'activation eSIM](/faq/how-to-activate-an-esim/)**.
 
 ---
 
-## 7. Cas particuliers : Voyager en Chine, à Hong Kong, à Macao
+## 8. Dépannage : l'eSIM de voyage ne fonctionne pas ?
 
-La documentation d'Apple inclut des restrictions spécifiques à certaines régions :
+| Problème | Cause possible | Solution |
+|----------|----------------|----------|
+| **eSIM affiche « No Service »** | Itinérance des données désactivée | Activez l'itinérance dans les réglages |
+| **QR code non reconnu** | Code expiré ou mauvais scan | Demandez un nouveau code ; essayez la saisie manuelle |
+| **Pas de données après activation** | Paramètres APN manquants | Configurez APN manuellement (voir ci-dessous) |
+| **Signal faible** | Mauvais réseau sélectionné | Basculez manuellement sur un autre opérateur local |
+| **eSIM disparue après mise à jour** | iOS a réinitialisé la configuration | Réactivez via le code QR de votre fournisseur |
 
-### Chine continentale
-- **iPhone 17e et iPhone Air** (vendus en Chine) prennent en charge l'eSIM. Les autres iPhones vendus en Chine utilisent une double SIM physique et **ne peuvent installer aucune eSIM** – y compris les eSIM de voyage.
-- **Modèles d'iPhone étrangers (par exemple, américains ou européens) :** Peuvent utiliser des eSIM de voyage en Chine, mais les données passeront par des réseaux d'itinérance (un VPN peut être nécessaire pour certaines applications).
-- **Les fournisseurs d'eSIM de voyage** (comme Roami) proposent des forfaits de données pour la Chine qui fonctionnent à l'arrivée.
+**APN manuel pour les eSIM de voyage :**
+- **Roami :** APN = `roami` (nom/mdp : vide)
+- **Airalo :** APN = `airalo` (nom/mdp : vide)
+- **Holafly :** APN = `holafly` (nom/mdp : vide)
 
-### Hong Kong et Macao
-- De nombreux modèles prennent en charge **eSIM + SIM physique** ou double SIM physique. Vérifiez votre modèle spécifique avant d'acheter une eSIM de voyage.
-
-> **Important :** Vous ne pouvez pas utiliser l'eSIM d'un opérateur de Chine continentale sur un appareil acheté en dehors de la Chine. Les eSIM de voyage des fournisseurs mondiaux sont la seule option fiable pour les visiteurs étrangers.
+Pour des problèmes plus complexes, consultez notre **[guide de dépannage eSIM avec 16 cas pratiques](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)**.
 
 ---
 
-## 8. Évitez les erreurs courantes avec les eSIM de voyage
+## 9. Évitez les erreurs courantes avec les eSIM de voyage
 
 | Erreur | Pourquoi c'est problématique | Action correcte |
 |--------|----------------------------|-----------------|
 | Acheter à l'aéroport | Payer 2 à 3 fois plus cher | Achetez en ligne avant de partir |
-| Ne pas vérifier le verrouillage opérateur | L'eSIM ne s'activera pas | Vérifiez `Réglages > Général > Informations` avant le voyage |
-| Activer avant le départ | Utilise l'itinérance sur l'eSIM de voyage | Gardez l'eSIM de voyage désactivée jusqu'à l'atterrissage |
-| Oublier de désactiver l'itinérance des données domestique | Frais journaliers élevés | Désactivez `Itinérance des données` pour la ligne domestique |
-| Acheter un forfait « Europe » mais atterrir au Royaume-Uni | Le Royaume-Uni post-Brexit peut ne pas être inclus | Vérifiez la couverture : « Europe » exclut souvent le Royaume-Uni ; achetez « Royaume-Uni + Europe » séparément |
-| Supprimer l'eSIM après le voyage | Impossible de la réutiliser plus tard | Désactivez-la simplement ; vous pouvez la conserver pour le prochain voyage |
+| Ne pas vérifier le verrouillage opérateur | L'eSIM ne s'activera pas | Vérifiez avant le voyage |
+| Activer avant le départ | Utilise l'itinérance sur l'eSIM de voyage | Gardez désactivée jusqu'à l'arrivée |
+| Oublier de désactiver le roaming domestique | Frais journaliers élevés | Désactivez l'itinérance pour la ligne domestique |
+| Supprimer l'eSIM après le voyage | Impossible de la réutiliser | Désactivez-la simplement |
 
 ---
 
-## 9. Séquence d'activation étape par étape à l'arrivée
+## 10. Questions fréquentes sur l'eSIM de voyage
 
-1️⃣ **Connectez-vous au Wi‑Fi de l'aéroport** (gratuit dans la plupart des grands aéroports).  
-2️⃣ Allez dans `Réglages` > `Données cellulaires` > appuyez sur votre eSIM de voyage.  
-3️⃣ Activez **l'itinérance des données** (ON).  
-4️⃣ Attendez 10 à 30 secondes que les barres de signal apparaissent.  
-5️⃣ Allez dans `Réglages` > `Données cellulaires` > **Données cellulaires** – sélectionnez l'eSIM de voyage.  
-6️⃣ Testez en ouvrant un site Web ou en utilisant Speedtest.  
+**Q1 : Les eSIM de voyage sont-elles livrées avec un numéro de téléphone ?**
+La plupart des fournisseurs mondiaux (Roami, Airalo, Nomad) proposent des eSIM **données uniquement**. Si vous avez besoin d'un numéro local, achetez une eSIM auprès d'un opérateur local sur place.
 
-Si aucune connexion après 2 minutes :
-- Redémarrez votre iPhone.
-- Sélectionnez manuellement un réseau : `Réglages` > `Données cellulaires` > eSIM de voyage > `Sélection réseau` → désactivez Automatique → choisissez manuellement un opérateur local.
+**Q2 : Puis-je passer des appels téléphoniques avec une eSIM données uniquement ?**
+Oui, en utilisant des applications VoIP (WhatsApp, FaceTime, Skype, Google Meet).
 
-> 🔄 **Vous changez de téléphone pendant le voyage ?** Vous devrez peut-être **[transférer votre eSIM](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** – notre guide couvre le déplacement entre iPhone et Android multiplateforme.
+**Q3 : Mon iMessage fonctionnera-t-il avec une eSIM de voyage ?**
+Oui – iMessage et FaceTime sont liés à votre identifiant Apple et au numéro de téléphone enregistré.
 
----
+**Q4 : De combien de données ai-je besoin pour un voyage de 7 jours ?**
+- Utilisation légère : 1–2 Go
+- Utilisation modérée : 3–5 Go
+- Utilisation intensive : 10 Go+
 
-## 10. Foire aux questions (eSIM de voyage)
+**Q5 : Puis-je utiliser une eSIM de voyage en Europe avec un forfait « Europe » ?**
+Oui – les forfaits « Europe » couvrent généralement 30+ pays. Vérifiez que le Royaume-Uni est inclus (post-Brexit).
 
-**Q1 : Les eSIM de voyage sont-elles livrées avec un numéro de téléphone ?**  
-R : La plupart des fournisseurs mondiaux (Roami, Airalo, Nomad) proposent des eSIM **données uniquement** – pas de SMS ni de voix. Vous pouvez toujours utiliser WhatsApp, FaceTime, Skype et d'autres applications VoIP. Si vous avez besoin d'un numéro local (pour les réservations, les opérations bancaires), achetez-le auprès d'un opérateur local sur place.
+**Q6 : Que faire si je manque de données en plein voyage ?**
+La plupart des fournisseurs permettent de recharger instantanément via leur application – pas besoin de nouveau code QR.
 
-**Q2 : Puis-je passer des appels téléphoniques avec une eSIM données uniquement ?**  
-R : Oui, en utilisant des applications VoIP (appel WhatsApp, audio FaceTime, Skype, Google Meet). Les appels cellulaires classiques nécessitent un forfait vocal.
+**Q7 : Quelle est la différence entre une eSIM de voyage et une eSIM locale ?**
+L'eSIM de voyage s'achète en ligne avant le départ (données uniquement). L'eSIM locale s'achète sur place (avec numéro de téléphone). Pour des séjours de 1 à 30 jours, l'eSIM de voyage est plus pratique.
 
-**Q3 : Mon iMessage et FaceTime fonctionneront-ils toujours avec mon numéro domestique en utilisant une eSIM de voyage ?**  
-R : Oui – iMessage et FaceTime sont liés à votre identifiant Apple et au numéro de téléphone enregistré avec iMessage. Tant que votre eSIM domestique est active (même avec l'itinérance des données désactivée), iMessage fonctionnera.
-
-**Q4 : De combien de données ai-je besoin pour un voyage de 7 jours ?**  
-R : 
-- Utilisation légère (cartes, WhatsApp, navigation occasionnelle) : 1–2 Go
-- Modérée (réseaux sociaux, streaming musical, quelques vidéos) : 3–5 Go
-- Intensive (appels vidéo, streaming Netflix, hotspot pour ordinateur portable) : 10 Go+
-
-**Q5 : Puis-je utiliser une eSIM de voyage sur un bateau de croisière ?**  
-R : La plupart des services cellulaires sur les bateaux de croisière ne sont pas couverts par les eSIM de voyage standard. Vous aurez besoin du Wi‑Fi du navire ou d'un forfait d'itinérance maritime.
-
-**Q6 : Que faire si je manque de données en plein voyage ?**  
-R : La plupart des fournisseurs vous permettent de recharger instantanément via leur application – pas besoin de nouveau code QR. Achetez simplement un forfait de données supplémentaire.
-
-**Q7 : L'eSIM est-elle sûre ? Quelqu'un peut-il la pirater ?**  
-R : Les eSIM sont plus sécurisées que les SIM physiques. Elles sont conformes à la norme SGP.21 du GSMA, qui empêche le clonage ou l'extraction. Consultez **[l'aperçu de la sécurité eSIM dans notre guide iPhone 17](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/#5-esim-security-advantages-why-more-reliable-than-physical-sim)**.
+**Q8 : Puis-je utiliser une eSIM de voyage sur iPad ou Apple Watch ?**
+Oui, si votre iPad (modèle cellulaire) ou Apple Watch (modèle GPS + Cellular) prend en charge l'eSIM. Vérifiez la compatibilité de votre appareil.
 
 ---
 
-## 11. Dernier point à retenir : La stratégie du voyageur intelligent
+## 11. La stratégie du voyageur intelligent
 
-**Si vous voyagez à l'étranger au moins une fois par an, passer aux eSIM de voyage vous fera économiser de l'argent et des tracas.** La stratégie optimale en 2026 :
+**Si vous voyagez à l'étranger au moins une fois par an, passer aux eSIM de voyage vous fera économiser de l'argent et des tracas.**
 
-- **Avant le départ :** Achetez une eSIM de voyage données uniquement auprès d'un fournisseur mondial. Installez-la à la maison.
-- **À l'embarquement :** Désactivez `Itinérance des données` sur votre eSIM domestique.
-- **À l'arrivée :** Activez `Itinérance des données` sur l'eSIM de voyage. Laissez l'assistant intelligent d'iOS 26 faire le reste.
-- **Pendant le voyage :** Utilisez l'eSIM de voyage pour toutes les données ; conservez l'eSIM domestique pour iMessage et les appels occasionnels (via l'appel Wi‑Fi).
+- **Avant le départ :** Achetez une eSIM de voyage. Installez-la à la maison.
+- **À l'embarquement :** Désactivez l'itinérance des données sur votre eSIM domestique.
+- **À l'arrivée :** Activez l'itinérance des données sur l'eSIM de voyage.
+- **Pendant le voyage :** Utilisez l'eSIM de voyage pour toutes les données.
 - **Après le retour :** Désactivez l'eSIM de voyage (ou conservez-la pour le prochain voyage).
 
-> 📎 **Ressources connexes :**
-> - [Guide de dépannage approfondi eSIM (16 cas réels)](/faq/esim-deep-troubleshooting-guide-2026/)
-> - [Guide complet iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)
-> - [Transfert eSIM multiplateforme 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
-> - [Double eSIM ne fonctionne pas ? 12 solutions pour iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+**Besoins d'aide ?** Consultez nos guides : **[eSIM USA eSIM](/united-states-esim/)**, **[eSIM Japon](/japan-esim/)**, **[eSIM Maroc](/morocco-esim/)** ou **[eSIM Royaume-Uni](/united-kingdom-esim/)**.
 
 ---
-
-*Basé sur la documentation officielle d'Apple (2025–2026) et des tests en conditions réelles. Les politiques des opérateurs et la compatibilité eSIM peuvent changer. Vérifiez toujours auprès de votre fournisseur avant de voyager.*
+*Basé sur la documentation officielle d'Apple (2025–2026), les standards GSMA et les informations des opérateurs français (Orange, SFR, Bouygues, Free). Mis à jour : juin 2026.*

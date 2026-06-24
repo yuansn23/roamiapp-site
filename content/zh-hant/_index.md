@@ -1,5 +1,5 @@
 ---
-title: "全球eSIM｜200+國家5G上網吃到飽，出國最低$1.99"
+title: "全球eSIM｜200+國家5G上網吃到飽，出國最低$1.99 -Roami"
 description: "Roami 在 200 多個國家和地區提供高速 5G 預付 eSIM – 無需實體 SIM 卡，方案最低只需 $1.99 起。使用優惠碼 web20 即可享額外 8 折優惠。立即下載 Roami App。提供台灣 eSIM 預付卡、中華電信 eSIM 替代方案，讓您出國流量吃到飽。"
 date: '2026-06-14T00:00:00+00:00'
 translationKey: "homepage"

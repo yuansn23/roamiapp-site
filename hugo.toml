@@ -387,3 +387,59 @@ footer_col1_links = [
   modal_cancel = "Annulla"
   modal_confirm = "Inizia ora"
  
+[languages.es]
+languageName = "Español"
+contentDir = "content/es"   # Carpeta donde irán los artículos en español
+weight = 2                  # Ajusta según el orden que quieras (inglés suele ser 1)
+
+[languages.es.params]
+# Barra de navegación
+nav_links = [
+  { name = "Inicio", url = "/" },
+  { name = "Comprar eSIM", url = "/plans/" },
+  { name = "Compatibilidad eSIM", url = "/compatibility/" },
+  { name = "eSIM Gratis", url = "/free-esim/" },
+  { name = "App Roami", url = "/app/" },
+  { name = "Operadores", url = "/carriers/" },
+  { name = "FAQ", url = "/faq/" }
+]
+
+# Texto del pie de página
+footer_desc = "Ofrecemos servicios eSIM premium en más de 200 países y regiones, manteniéndote conectado dondequiera que viajes."
+
+footer_col1_title = "Destinos principales"
+footer_col1_links = [
+  { name = "eSIM Asia", url = "/asia-esim/" },
+  { name = "eSIM Europa", url = "/europe-esim/" },
+  { name = "eSIM África", url = "/africa-esim/" },
+  { name = "eSIM Sudamérica", url = "/south-america-esim/" },
+  { name = "eSIM Norteamérica", url = "/north-america-esim/" },
+  { name = "eSIM Oriente Medio", url = "/middle-east-esim/" }
+]
+
+footer_col2_title = "Atención al cliente"
+footer_col2_links = [
+  { name = "FAQ", url = "/faq/" },
+  { name = "Blog", url = "/blog/" },
+  { name = "Compatibilidad eSIM", url = "/compatibility/" },
+  { name = "Operadores", url = "/carriers/" },
+  { name = "Descargar Roami", url = "/app/" }
+]
+
+footer_col3_title = "Información de la empresa"
+footer_col3_links = [
+  { name = "Sobre nosotros", url = "/about-us/" },
+  { name = "eSIM Gratis", url = "/free-esim/" },
+  { name = "Política de reembolso", url = "/refund/" },
+  { name = "Contáctanos", url = "/contact/" },
+  { name = "Política de privacidad", url = "/privacy/" },
+  { name = "Términos de servicio", url = "/terms/" }
+]
+
+footer_copyright = "© 2026 Roami. Todos los derechos reservados."
+footer_slogan = "Proveedor profesional global de servicios eSIM | Experto en roaming de datos eSIM global"
+
+# Textos de la ventana emergente
+modal_title = "Aviso"
+modal_cancel = "Cancelar"
+modal_confirm = "Ir ahora"

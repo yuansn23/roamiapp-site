@@ -2,8 +2,8 @@
 title: "Japan eSIM 2026: Better Than Pocket Wi‑Fi?"
 description: "Why pocket Wi‑Fi is obsolete for Japan travel. Roami eSIM provides smart switching on SoftBank, au, NTT Docomo – from $1.99 with code 'web20'. Free trial. Avoid China/HK/Macau iPhone issues."
 keywords: ["japan esim", "best esim for japan travel", "japan pocket wifi vs esim", "roami japan", "japan esim softbank", "japan esim au", "japan esim docomo"]
-date: 2026-06-02T10:00:00Z
-lastmod: 2026-06-02T10:00:00Z
+date: 2026-06-23T10:00:00Z
+lastmod: 2026-06-23T10:00:00Z
 author: "Roami Team"
 authorBio: "Roami specializes in eSIM technology, providing global connectivity solutions. This guide is based on independent carrier coverage data and real traveler feedback for Japan."
 image: "/img/esim/japan-esim-guide-2026.jpg"
@@ -86,9 +86,11 @@ recentPosts:
 > - **No single carrier covers a typical Japan travel itinerary** — SoftBank is fastest in Shibuya, au (KDDI) is the only carrier with coverage in rural Hokkaido, and NTT Docomo is most stable along the Shinkansen line. A 15-day classic route passes through the strong zones of all three carriers – only multi‑carrier smart switching keeps you connected the whole way.
 > - **Roami Japan eSIM starts at $1.99 for 100MB/7 days, with 10GB just $7.99 after discount code web20**, featuring smart switching across SoftBank, au, and NTT Docomo. Use discount code **web20** for 20% off.
 
+The technology behind eSIM is governed by the [GSMA standard SGP.22](https://www.gsma.com/esim/). The [official Apple support page for eSIM](https://support.apple.com/en-us/108072) provides detailed information on compatible iPhone models.
+
 ---
 
-## Comparison of Pocket Wi-Fi and eSIM for Japan Travel
+## Pocket Wi-Fi vs eSIM for Japan travel – which is better?
 
 For over a decade, renting a pocket Wi‑Fi device after landing at Narita, Haneda, or Kansai Airport was the standard procedure for Japan travel. You queue at the counter, fill out forms, leave a deposit (usually ¥10,000-15,000, about $70-100), receive a plastic box that needs nightly charging, carry an extra 200g device through your entire trip, and then queue again to return it before departure.
 
@@ -98,33 +100,33 @@ For over a decade, renting a pocket Wi‑Fi device after landing at Narita, Hane
 
 **Convenience:** Pocket Wi‑Fi requires an extra device – charging, carrying, keeping track of it, returning it. An eSIM lives inside your phone – zero extra devices. Your phone is your Wi‑Fi hotspot. Understanding [how eSIM works](/faq/What-Is-eSIM/) reveals the nature of this generational shift.
 
-**Reliability:** Pocket Wi‑Fi runs out of battery (typically 6-8 hours, not enough for a full day of sightseeing). An eSIM doesn’t – it shares your phone’s battery, which you already charge every night.
+**Reliability:** Pocket Wi‑Fi runs out of battery (typically 6-8 hours, not enough for a full day of sightseeing). An eSIM doesn't – it shares your phone's battery, which you already charge every night.
 
-**Sharing with multiple devices:** Pocket Wi‑Fi’s advantage is “can connect 5-10 devices”. But in 2026, your phone’s hotspot function does exactly the same thing. Roami Japan eSIM supports full hotspot sharing – you can share your phone’s connection with your travel companions’ tablets or laptops.
+**Sharing with multiple devices:** Pocket Wi‑Fi's advantage is "can connect 5-10 devices". But in 2026, your phone's hotspot function does exactly the same thing. Roami Japan eSIM supports full hotspot sharing – you can share your phone's connection with your travel companions' tablets or laptops.
 
 **The generational shift has already happened.** In 2023, there were still 15-20 minute queues at major airport pocket Wi‑Fi rental counters. In 2026, those queues have dropped to under 5 minutes – while eSIM adoption in Japan has grown over 200% year‑on‑year. Japan travellers are moving to eSIM en masse.
 
 ---
 
-## Coverage Comparison of Japan's Three Major Carriers
+## SoftBank, au, or NTT Docomo – which Japan carrier is best?
 
-Japan has three major mobile carriers – SoftBank, au (KDDI), and NTT Docomo. None of them perfectly covers a typical 15-day Tokyo‑Hakone‑Kyoto‑Osaka‑Hiroshima itinerary – let alone deeper routes that include Hokkaido or Kyushu. Here is the precise coverage analysis of each network:
+Japan has three major mobile carriers – SoftBank, au (KDDI), and NTT Docomo. None of them perfectly covers a typical 15-day Tokyo‑Hakone‑Kyoto‑Osaka‑Hiroshima itinerary – let alone deeper routes that include Hokkaido or Kyushu. Official coverage maps are available from [SoftBank](https://www.softbank.jp/mobile/network/5g/), [au (KDDI)](https://www.au.com/mobile/area/5g/), and [NTT Docomo](https://www.docomo.ne.jp/area/5g/). The [Japanese Ministry of Internal Affairs and Communications (MIC)](https://www.soumu.go.jp/english/) provides regulatory information on spectrum allocation and coverage.
 
 ### SoftBank: Urban Speed Advantage
 
-SoftBank has the fastest 5G network in major cities like Tokyo, Osaka, Nagoya, and Fukuoka. At Shibuya Crossing – the world’s busiest pedestrian intersection – SoftBank’s 5G download speeds exceed 250 Mbps, remaining stable even when tens of thousands of people are connected simultaneously.
+SoftBank has the fastest 5G network in major cities like Tokyo, Osaka, Nagoya, and Fukuoka. At Shibuya Crossing – the world's busiest pedestrian intersection – SoftBank's 5G download speeds exceed 250 Mbps, remaining stable even when tens of thousands of people are connected simultaneously.
 
-**Coverage strengths:** Tokyo’s 23 wards (including underground commercial facilities), central Osaka (Dotonbori, Shinsaibashi), Kyoto city center, Yokohama Minato Mirai, Sapporo city center. SoftBank’s signal in Tokyo’s underground commercial spaces – like Shinjuku Subnade and Shibuya’s underground shopping streets – is the strongest among the three carriers.
+**Coverage strengths:** Tokyo's 23 wards (including underground commercial facilities), central Osaka (Dotonbori, Shinsaibashi), Kyoto city center, Yokohama Minato Mirai, Sapporo city center. SoftBank's signal in Tokyo's underground commercial spaces – like Shinjuku Subnade and Shibuya's underground shopping streets – is the strongest among the three carriers.
 
 **Coverage weaknesses:** Rural Hokkaido (the hilly areas of Furano and Biei where SoftBank signal disappears in some regions), the Japanese Alps route (parts of the Tateyama Kurobe Alpine Route), remote areas of Shikoku.
 
-**Ideal itinerary:** The Tokyo‑Osaka‑Kyoto “Golden Route” (7-10 day standard trip). If you spend more than 80% of your time in major cities, SoftBank is the best choice.
+**Ideal itinerary:** The Tokyo‑Osaka‑Kyoto "Golden Route" (7-10 day standard trip). If you spend more than 80% of your time in major cities, SoftBank is the best choice.
 
 ### au (KDDI): Rural and Mountain Coverage
 
-au has the strongest coverage in Japan’s rural and mountainous areas. If you plan to drive through Hokkaido’s lavender fields (Furano, Biei), hike the Tateyama Kurobe Alpine Route, or explore the remote temples of Shikoku, au’s network is your lifeline.
+au has the strongest coverage in Japan's rural and mountainous areas. If you plan to drive through Hokkaido's lavender fields (Furano, Biei), hike the Tateyama Kurobe Alpine Route, or explore the remote temples of Shikoku, au's network is your lifeline.
 
-**Coverage strengths:** Large rural areas of Hokkaido (Tokachi Plain, Shiretoko Peninsula, Kushiro Wetlands), the Japanese Alps, the Shikoku 88 Temple Pilgrimage route, Okinawa’s remote islands (Ishigaki, Miyakojima). au has the highest density of cell towers in rural areas.
+**Coverage strengths:** Large rural areas of Hokkaido (Tokachi Plain, Shiretoko Peninsula, Kushiro Wetlands), the Japanese Alps, the Shikoku 88 Temple Pilgrimage route, Okinawa's remote islands (Ishigaki, Miyakojima). au has the highest density of cell towers in rural areas.
 
 **Coverage weaknesses:** Some underground commercial facilities in Tokyo are not as strong as SoftBank. In rural Hokkaido and Tohoku, though the signal is stable, speeds are typically only 4G LTE (20-50 Mbps) rather than 5G.
 
@@ -132,11 +134,11 @@ au has the strongest coverage in Japan’s rural and mountainous areas. If you p
 
 ### NTT Docomo: Balanced Nationwide Coverage
 
-Docomo is Japan’s carrier with the most subscribers – equivalent to Verizon in the US or China Mobile in China. Docomo has the most balanced coverage from cities to rural areas. It’s not the fastest, nor the strongest in rural areas – but it has usable signal almost everywhere.
+Docomo is Japan's carrier with the most subscribers – equivalent to Verizon in the US or China Mobile in China. Docomo has the most balanced coverage from cities to rural areas. It's not the fastest, nor the strongest in rural areas – but it has usable signal almost everywhere.
 
-**Docomo’s unique advantage: the Shinkansen (bullet train).** Docomo has the most stable cell tower coverage along the Tokaido Shinkansen (Tokyo‑Nagoya‑Kyoto‑Osaka, Japan’s busiest rail line) and the Sanyo Shinkansen (Osaka‑Hiroshima‑Fukuoka). At speeds of 285 km/h, Docomo’s handover technology keeps your data connection alive – the other two carriers occasionally drop signal at this speed.
+**Docomo's unique advantage: the Shinkansen (bullet train).** Docomo has the most stable cell tower coverage along the Tokaido Shinkansen (Tokyo‑Nagoya‑Kyoto‑Osaka, Japan's busiest rail line) and the Sanyo Shinkansen (Osaka‑Hiroshima‑Fukuoka). At speeds of 285 km/h, Docomo's handover technology keeps your data connection alive – the other two carriers occasionally drop signal at this speed.
 
-**Most balanced overall coverage:** On any typical 15‑day Japan itinerary, Docomo is the carrier least likely to leave you with no signal somewhere. It’s not extreme – not as fast as SoftBank in cities, not as strong as au in rural areas – but it’s balanced.
+**Most balanced overall coverage:** On any typical 15‑day Japan itinerary, Docomo is the carrier least likely to leave you with no signal somewhere. It's not extreme – not as fast as SoftBank in cities, not as strong as au in rural areas – but it's balanced.
 
 **The best combination of three networks:** A typical 15-day in‑depth Japan trip – 3 days Tokyo, 1 day Hakone, 3 days Kyoto, 2 days Osaka, 2 days Hiroshima, 4 days Hokkaido – passes through the strong zones of all three carriers. Tokyo and Osaka are fastest on SoftBank, rural Hokkaido is most stable on au, and the Shinkansen in between is most reliable on Docomo. This is why **multi‑network smart switching is more important in Japan than almost any other country.**
 
@@ -156,15 +158,15 @@ If you bought your iPhone from JD.com, Tmall, or an Apple Store in mainland Chin
 
 ### The 60‑Second Compatibility Check You Must Do Before Departure
 
-Dial `*#06#` on your phone’s keypad. If a 32‑digit alphanumeric **EID** (Embedded Identity Document) number appears on the screen, your phone supports eSIM. If only IMEI1 and IMEI2 numbers appear, your phone does NOT support eSIM – you will need to use a physical SIM or pocket Wi‑Fi in Japan. For a full list, see the [compatibility page](/compatibility/).
+Dial `*#06#` on your phone's keypad. If a 32‑digit alphanumeric **EID** (Embedded Identity Document) number appears on the screen, your phone supports eSIM. If only IMEI1 and IMEI2 numbers appear, your phone does NOT support eSIM – you will need to use a physical SIM or pocket Wi‑Fi in Japan. For a full list, see the [compatibility page](/compatibility/).
 
 If your phone does not support eSIM, do not buy a SIM at the airport counter in Japan – prices are typically 50-100% higher than buying online in advance. Order a physical travel SIM online to be delivered to your home before you leave, or pre‑book a pocket Wi‑Fi for airport pickup (still cheaper than renting on the spot).
 
 ---
 
-## Price Comparison: Roami, Airalo and Holafly for Japan
+## Japan eSIM price comparison – Roami vs Airalo vs Holafly
 
-Below are Roami’s official Japan eSIM prices for June 2026. All Roami prices can be discounted an extra 20% using discount code **web20**.
+Below are Roami's official Japan eSIM prices for June 2026. All Roami prices can be discounted an extra 20% using discount code **web20**.
 
 ### 7‑day Plans (Standard Length for Tokyo‑Osaka‑Kyoto Golden Route)
 
@@ -200,7 +202,7 @@ Below are Roami’s official Japan eSIM prices for June 2026. All Roami prices c
 | 50 GB | $37.99 | **$30.39** | — | — |
 | Unlimited | $71.99 | **$57.59** | — | $74.90 (30d unlimited) |
 
-**Why multi‑network switching is especially important in Japan:** Airalo’s Japan eSIM typically uses only the SoftBank single network. Holafly usually uses either SoftBank or Docomo. This means if you are in rural Hokkaido – where only au has stable coverage – your Airalo or Holafly eSIM may show “No Service”. Roami covers all three networks and automatically switches to the carrier with the strongest signal at your location.
+**Why multi‑network switching is especially important in Japan:** Airalo's Japan eSIM typically uses only the SoftBank single network. Holafly usually uses either SoftBank or Docomo. This means if you are in rural Hokkaido – where only au has stable coverage – your Airalo or Holafly eSIM may show "No Service". Roami covers all three networks and automatically switches to the carrier with the strongest signal at your location.
 
 First‑time users can start with a [free eSIM trial](/free-esim/) to test real‑world coverage in Japan.
 
@@ -212,15 +214,15 @@ First‑time users can start with a [free eSIM trial](/free-esim/) to test real�
 
 **This is the standard itinerary for 90% of first‑time Japan travellers.** 3-4 days Tokyo (Shibuya, Shinjuku, Asakusa, Akihabara), 1 day Hakone (hot springs, Mt. Fuji views), 2-3 days Kyoto (Fushimi Inari, Kinkaku‑ji, Arashiyama Bamboo Grove), 2 days Osaka (Dotonbori, Universal Studios). The entire route is in cities or popular tourist towns – the best‑covered route for mobile signal.
 
-**Data needs:** 1-2GB per day. Heavy use of Google Maps (Japan’s addressing system is extremely confusing for first‑time visitors), Google Translate real‑time camera translation for menus and signs, frequent Instagram/TikTok sharing, Suica mobile transit card usage.
+**Data needs:** 1-2GB per day. Heavy use of Google Maps (Japan's addressing system is extremely confusing for first‑time visitors), Google Translate real‑time camera translation for menus and signs, frequent Instagram/TikTok sharing, Suica mobile transit card usage.
 
-**Best eSIM:** Roami Japan eSIM 10GB/7‑day plan, $7.99 after discount. This route stays almost entirely within SoftBank’s strong coverage zone. Multi‑network switching acts as insurance – on the mountain roads of Hakone or rural sections between Kyoto and Nara, au or Docomo may have stronger signals.
+**Best eSIM:** Roami Japan eSIM 10GB/7‑day plan, $7.99 after discount. This route stays almost entirely within SoftBank's strong coverage zone. Multi‑network switching acts as insurance – on the mountain roads of Hakone or rural sections between Kyoto and Nara, au or Docomo may have stronger signals.
 
 ### Scenario 2: Hokkaido Deep Road Trip (Sapporo‑Furano‑Biei‑Shiretoko, 10-14 days)
 
 **Hokkaido is the most car‑dependent part of Japan for travel.** Starting from Sapporo, crossing the vast Tokachi Plain to the lavender fields of Furano and Biei, then heading east to the Shiretoko Peninsula (a UNESCO World Natural Heritage site). In rural Hokkaido, towns are 50-100 km apart, with endless farmland and hills in between – in these areas, **only au has a stable signal.**
 
-**Data needs:** 1-3GB per day. Continuous GPS navigation (most non‑expressway roads have no English translation on signs), heavy photo uploads (Furano and Biei’s landscapes are among Japan’s most Instagram‑famous content), music and podcast streaming for long drives. Cell towers are sparse in rural Hokkaido – your eSIM needs strong signal acquisition capability.
+**Data needs:** 1-3GB per day. Continuous GPS navigation (most non‑expressway roads have no English translation on signs), heavy photo uploads (Furano and Biei's landscapes are among Japan's most Instagram‑famous content), music and podcast streaming for long drives. Cell towers are sparse in rural Hokkaido – your eSIM needs strong signal acquisition capability.
 
 **Best eSIM:** Roami Japan eSIM 20GB/15‑day plan, $14.39 after discount. Three‑network switching is not a nice‑to‑have here – from central Sapporo (fastest on SoftBank) to rural Furano (SoftBank has no signal, au covers) to the Shiretoko Peninsula (Docomo and au compete for coverage), your eSIM needs to automatically switch between all three networks constantly.
 
@@ -228,9 +230,9 @@ First‑time users can start with a [free eSIM trial](/free-esim/) to test real�
 
 ### Scenario 3: Tokyo Quick Trip (3-4 days, pure city)
 
-**Coming just for Tokyo – shopping, food, culture.** Entire stay within Tokyo’s 23 wards, with the subway as primary transport.
+**Coming just for Tokyo – shopping, food, culture.** Entire stay within Tokyo's 23 wards, with the subway as primary transport.
 
-**Data needs:** 1-2GB per day. Cellular coverage in Tokyo’s underground spaces (subway stations, underground shopping streets, department store basement food halls) is generally good for all three carriers, but SoftBank performs best underground. Google Maps is essential for survival – Tokyo’s addressing system may be the world’s most complex. Google Translate camera real‑time translation is the second essential tool.
+**Data needs:** 1-2GB per day. Cellular coverage in Tokyo's underground spaces (subway stations, underground shopping streets, department store basement food halls) is generally good for all three carriers, but SoftBank performs best underground. Google Maps is essential for survival – Tokyo's addressing system may be the world's most complex. Google Translate camera real‑time translation is the second essential tool.
 
 **Best eSIM:** Roami Japan eSIM 5GB/3‑day plan, $4.79 after discount. On this itinerary, multi‑network switching is mostly for backup coverage in underground spaces. In high‑rise districts like Shinjuku and Roppongi, different networks may have different signal strengths on different floors.
 
@@ -238,7 +240,7 @@ If you are using an iPhone and installing an eSIM for the first time, refer to t
 
 ### Scenario 4: Japanese Alps Hiking (Tateyama Kurobe Alpine Route, 4-5 days)
 
-**Japan’s most iconic alpine hiking route.** Starting from Ogizawa Station on the Nagano side, crossing the Tateyama Kurobe Alpine Route to Tateyama Station on the Toyama side. The route uses cable cars, trolleybuses, and alpine buses, with altitudes ranging from 1,400m to 2,450m (the Snow Corridor).
+**Japan's most iconic alpine hiking route.** Starting from Ogizawa Station on the Nagano side, crossing the Tateyama Kurobe Alpine Route to Tateyama Station on the Toyama side. The route uses cable cars, trolleybuses, and alpine buses, with altitudes ranging from 1,400m to 2,450m (the Snow Corridor).
 
 **Data needs:** 500MB-1GB per day. Signal in alpine areas is very unstable – in tunnels (the route includes several long tunnels through mountains) there is no signal at all. In sections with signal (such as Murodo Plateau and Kurobe Dam), au has the best coverage.
 
@@ -250,7 +252,7 @@ If you are using an iPhone and installing an eSIM for the first time, refer to t
 
 **Data needs:** 2-5GB per day. Remote work video calls (Zoom/Teams), file uploads/downloads, streaming entertainment, navigation and social media during weekend trips. Weekdays are mostly at home and places with Wi‑Fi, but mobile connectivity is still used for commuting and cafe working.
 
-**Best eSIM:** Roami Japan eSIM 50GB/30‑day plan, $30.39 after discount (or unlimited plan at $57.59/30 days if you have higher data needs). Three‑network switching ensures connectivity from SoftBank near your apartment to au on Kamakura’s beaches. If you need to receive SMS verification codes in Japan (e.g., to register for Japanese apps or services), supplement with a cheap voice SIM.
+**Best eSIM:** Roami Japan eSIM 50GB/30‑day plan, $30.39 after discount (or unlimited plan at $57.59/30 days if you have higher data needs). Three‑network switching ensures connectivity from SoftBank near your apartment to au on Kamakura's beaches. If you need to receive SMS verification codes in Japan (e.g., to register for Japanese apps or services), supplement with a cheap voice SIM.
 
 ---
 
@@ -260,9 +262,9 @@ Many travellers severely underestimate their data usage in Japan because they ar
 
 **1. Google Translate camera real‑time translation – 50-200MB per use.** In Japan, menus, signs, and product packaging are almost entirely in Japanese. You will use the camera translation feature much more often than you think – every time you enter a restaurant, visit a convenience store, or see an interesting sign. This is a constant data drain.
 
-**2. Suica/Pasmo mobile app – continuous background data connection.** If you use Suica or Pasmo in your phone’s Wallet app instead of a physical transit card (highly recommended), the app needs a continuous data connection for top‑ups and transaction record syncing. While tapping through ticket gates doesn’t consume data, background sync can consume 50-100MB per day.
+**2. Suica/Pasmo mobile app – continuous background data connection.** If you use Suica or Pasmo in your phone's Wallet app instead of a physical transit card (highly recommended), the app needs a continuous data connection for top‑ups and transaction record syncing. While tapping through ticket gates doesn't consume data, background sync can consume 50-100MB per day.
 
-**3. Heavy Instagram/TikTok sharing – Japan is one of the world’s most ‘Instagrammable’ destinations.** Shibuya Crossing, Fushimi Inari’s thousand torii gates, Kinkaku‑ji’s golden reflection, the Slam Dunk crossing at Kamakura High School – you will take and share many photos at these spots. Each high‑resolution photo upload consumes 5-15MB, and a 30‑second Instagram Reel consumes 50-200MB. In two weeks in Japan, social media alone can consume 3-5GB.
+**3. Heavy Instagram/TikTok sharing – Japan is one of the world's most 'Instagrammable' destinations.** Shibuya Crossing, Fushimi Inari's thousand torii gates, Kinkaku‑ji's golden reflection, the Slam Dunk crossing at Kamakura High School – you will take and share many photos at these spots. Each high‑resolution photo upload consumes 5-15MB, and a 30‑second Instagram Reel consumes 50-200MB. In two weeks in Japan, social media alone can consume 3-5GB.
 
 **4. Streaming on the Shinkansen – the biggest consumer during long‑distance travel.** Tokyo to Osaka is 2.5 hours, Tokyo to Hiroshima is 4 hours. On these long rail journeys, you will stream music, podcasts, or video to pass the time. Two hours of HD video streaming consumes about 3-6GB.
 
@@ -272,10 +274,9 @@ Many travellers severely underestimate their data usage in Japan because they ar
 
 - **Check your phone – especially if you bought it in mainland China, Hong Kong, or Macau.** Dial `*#06#` and confirm a 32‑digit EID appears. No EID = cannot use eSIM in Japan. See [compatible devices list](/compatibility/)
 - **The era of pocket Wi‑Fi convenience is over.** eSIM is cheaper, lighter, and more reliable. Use discount code **web20** for 20% off – 7‑day 10GB just $7.99 after discount. [View all Japan eSIM plans →](/japan-esim/)
-- **Japan is one of the most data‑intensive travel destinations – don’t underestimate your needs.** Camera translation, transit card apps, heavy social media sharing, Shinkansen streaming – two weeks can easily consume 15-30GB. Choose a data plan with enough capacity, not just the cheapest.
+- **Japan is one of the most data‑intensive travel destinations – don't underestimate your needs.** Camera translation, transit card apps, heavy social media sharing, Shinkansen streaming – two weeks can easily consume 15-30GB. Choose a data plan with enough capacity, not just the cheapest.
 - **Hokkaido road trips and Japanese Alps hiking – offline maps are essential for survival.** In the most beautiful remote areas, signal does not exist. Download offline Google Maps and the offline Japanese language pack for Google Translate before you leave.
 
 ---
 
-*This guide is based on public carrier coverage data for Japan, traveller field tests, and eSIM market information as of June 2026. All Roami prices are from official pricing. The web20 discount code is provided by Roami. Airalo and Holafly prices are from public information. SoftBank, au/KDDI, and NTT Docomo are trademarks of their respective owners.*
 *This guide is based on public carrier coverage data for Japan, traveller field tests, and eSIM market information as of June 2026. All Roami prices are from official pricing. The web20 discount code is provided by Roami. Airalo and Holafly prices are from public information. SoftBank, au/KDDI, and NTT Docomo are trademarks of their respective owners.*
