@@ -1,55 +1,55 @@
 ---
-title: "eSIM Estados Unidos: internet 5G de costa a costa del pais"
-description: "Nueva York, Los Angeles y Chicago tienen redes 5G con Roami en Estados Unidos. La eSIM se activa escaneando un codigo QR. Velocidad alta en areas metropolitanas."
-date: "2026-06-23T05:24:13+00:00"
-keywords: "eSIM Estados Unidos, datos prepago, red 5G, T-Mobile, AT&T, Verizon, cobertura, velocidad, viajeros"
+title: "eSIM para USA: Planes de datos económicos para viajeros"
+description: "Disfruta de internet de alta velocidad en USA con la mejor eSIM prepago. Sin roaming, activación inmediata mediante código QR."
+date: "2026-06-24T05:24:13+00:00"
+keywords: "eSIM USA, datos prepago, red 5G, T-Mobile, AT&T, Verizon, cobertura, velocidad, viajeros"
 site_name: "Roami"
 brand_name: "Roami"
 breadcrumb_items:
   - name: "Roami"
     url: "/"
-  - name: "Guía de eSIM para Estados Unidos"
+  - name: "Guía de eSIM para USA"
     url: ""
 
 # Textos del bloque Hero
-hero_badge: "🇺🇸 Última guía de eSIM para viajar a Estados Unidos"
-hero_subtitle_main: "eSIM para Estados Unidos: Planes de datos económicos para viajeros"
+hero_badge: "🇺🇸 Última guía de eSIM para viajar a USA"
+hero_subtitle_main: "eSIM para USA: Planes de datos económicos para viajeros"
 hero_subtitle_highlight: "Cobertura 5G de primer nivel con T-Mobile, AT&T y Verizon"
-hero_description_line1: "El proceso de compra online de la eSIM de Estados Unidos es sencillo y seguro, con pasos de activación claros para que llegues a tu destino con el plan de datos listo."
+hero_description_line1: "El proceso de compra online de la eSIM de USA es sencillo y seguro, con pasos de activación claros para que llegues a tu destino con el plan de datos listo."
 hero_description_line2: "Conecta en segundos y navega sin límites."
-hero_link_text: "eSIM Estados Unidos"
+hero_link_text: "eSIM USA"
 hero_link_url: "/united-states-esim/"
 tldr_summary: "La mejor opción para viajes de negocios: planes de datos 5G ilimitados para múltiples países. Según [Informe de conectividad Ookla Speedtest](https://www.ookla.com/research/reports/united-states-speedtest-connectivity-report-h2-2025), T-Mobile lidera con una velocidad media de descarga de 259.48 Mbps y una velocidad 5G de 309.41 Mbps, ideal para videoconferencias y trabajo remoto. Roami ofrece eSIM con cobertura en las principales redes estadounidenses, garantizando conexión estable en ciudades como Pittsburgh (362.61 Mbps en móvil) y San Antonio (365.08 Mbps en fijo). Activa tu eSIM al llegar y olvídate del roaming."
 
 # Navegación en barra lateral
 sidebar_more_hint: "Desliza para ver más"
-sidebar_title: "Enlaces rápidos para eSIM en Estados Unidos"
+sidebar_title: "Enlaces rápidos para eSIM en USA"
 sidebar_links:
 
   - href: "#quick-picks"
-    text: "Selección rápida: ¿qué operador de eSIM elegir en Estados Unidos?"
+    text: "Selección rápida: ¿qué operador de eSIM elegir en USA?"
 
   - href: "#operators"
-    text: "Resumen de los mejores operadores de eSIM en Estados Unidos"
+    text: "Resumen de los mejores operadores de eSIM en USA"
 
   - href: "#city-guide"
-    text: "Guía de ciudades: mejor eSIM en Estados Unidos"
+    text: "Guía de ciudades: mejor eSIM en USA"
 
   - href: "#before-buy"
-    text: "Qué saber antes de comprar una eSIM en Estados Unidos"
+    text: "Qué saber antes de comprar una eSIM en USA"
 
   - href: "#faq"
-    text: "Preguntas frecuentes sobre eSIM en Estados Unidos"
+    text: "Preguntas frecuentes sobre eSIM en USA"
 
   - href: "#myths"
-    text: "Mitoss y realidades sobre la eSIM en Estados Unidos"
+    text: "Mitoss y realidades sobre la eSIM en USA"
 
   - href: "#data-sources"
     text: "Fuentes de datos"
 
 
 # Tabla de decisión rápida
-quick_picks_title: "Selección rápida: ¿qué operador de eSIM elegir en Estados Unidos?"
+quick_picks_title: "Selección rápida: ¿qué operador de eSIM elegir en USA?"
 quick_picks_table_headers:
 
   - "Tu estilo de viaje"
@@ -84,7 +84,7 @@ quick_picks:
 
 
 # Textos de los botones principales
-cta_button_main_text: "Ver las mejores ofertas de eSIM de viaje para Estados Unidos"
+cta_button_main_text: "Ver las mejores ofertas de eSIM de viaje para USA"
 cta_button_sub_text: "Cambio automático de red y comparación de precios de datos prepago"
 
 # Etiquetas comunes para operadores
@@ -125,9 +125,9 @@ operators:
 
 
 # Tres tarjetas
-cards_compatibility_title: "Verifica la compatibilidad de eSIM en Estados Unidos"
-cards_compatibility_desc: "Averigua si tu teléfono es compatible con la eSIM y las bandas 5G locales de Estados Unidos"
-cards_free_title: "Obtén una eSIM gratuita para Estados Unidos"
+cards_compatibility_title: "Verifica la compatibilidad de eSIM en USA"
+cards_compatibility_desc: "Averigua si tu teléfono es compatible con la eSIM y las bandas 5G locales de USA"
+cards_free_title: "Obtén una eSIM gratuita para USA"
 cards_free_desc: "Prueba gratis la eSIM de alta velocidad 5G local, sin roaming, por tiempo limitado"
 cards_free_badge: "Gratis"
 cards_app_title: "Descarga la app Roami y obtén 20% de descuento en eSIM"
@@ -137,28 +137,28 @@ cards_free_link: "/free-esim/"
 cards_app_link: "/app/"
 
 # Antes de comprar
-before_buy_title: "Qué saber antes de comprar una eSIM para Estados Unidos"
+before_buy_title: "Qué saber antes de comprar una eSIM para USA"
 before_buy_sections:
 
-  - heading: "1. Bandas 5G y 4G principales en Estados Unidos"
-    content: "Estados Unidos utiliza principalmente las bandas 5G de baja frecuencia (600 MHz, 850 MHz) para cobertura amplia, y bandas medias (2.5 GHz, 3.5 GHz) para velocidad. Las bandas 4G LTE comunes son 2, 4, 5, 12, 13, 17, 66. Asegúrate de que tu dispositivo sea compatible con estas bandas para una experiencia óptima."
+  - heading: "1. Bandas 5G y 4G principales en USA"
+    content: "USA utiliza principalmente las bandas 5G de baja frecuencia (600 MHz, 850 MHz) para cobertura amplia, y bandas medias (2.5 GHz, 3.5 GHz) para velocidad. Las bandas 4G LTE comunes son 2, 4, 5, 12, 13, 17, 66. Asegúrate de que tu dispositivo sea compatible con estas bandas para una experiencia óptima."
 
   - heading: "2. Requisitos KYC para activar eSIM"
-    content: "Para activar una eSIM en Estados Unidos, generalmente necesitas proporcionar una identificación válida (pasaporte o licencia de conducir) y una dirección de correo electrónico. Algunos operadores pueden requerir verificación adicional, como un número de teléfono local o dirección de facturación."
+    content: "Para activar una eSIM en USA, generalmente necesitas proporcionar una identificación válida (pasaporte o licencia de conducir) y una dirección de correo electrónico. Algunos operadores pueden requerir verificación adicional, como un número de teléfono local o dirección de facturación."
 
   - heading: "3. Política de uso justo (FUP) en planes ilimitados"
-    content: "Muchos planes eSIM ilimitados en Estados Unidos tienen una política de uso justo que reduce la velocidad después de cierto consumo diario (por ejemplo, 2 GB o 5 GB al día). Revisa los términos del plan para evitar cortes inesperados durante tu viaje."
+    content: "Muchos planes eSIM ilimitados en USA tienen una política de uso justo que reduce la velocidad después de cierto consumo diario (por ejemplo, 2 GB o 5 GB al día). Revisa los términos del plan para evitar cortes inesperados durante tu viaje."
 
   - heading: "4. Cobertura en zonas rurales y parques nacionales"
     content: "La cobertura varía significativamente entre operadores. Verizon tiene la mejor cobertura geográfica (30.0%), mientras que T-Mobile lidera en disponibilidad 5G (91.2%). Si planeas visitar parques nacionales como Yellowstone o el Gran Cañón, elige un operador con buena cobertura rural."
 
   - heading: "5. Compatibilidad de dispositivos con eSIM"
-    content: "La mayoría de los smartphones modernos (iPhone XS y posteriores, Google Pixel 3 y posteriores, Samsung Galaxy S20 y posteriores) son compatibles con eSIM. Verifica que tu dispositivo esté desbloqueado y sea compatible con las bandas de Estados Unidos antes de comprar."
+    content: "La mayoría de los smartphones modernos (iPhone XS y posteriores, Google Pixel 3 y posteriores, Samsung Galaxy S20 y posteriores) son compatibles con eSIM. Verifica que tu dispositivo esté desbloqueado y sea compatible con las bandas de USA antes de comprar."
 
 
 # Tabla de recomendaciones por ciudad
-city_guide_title: "Guía de ciudades: mejor eSIM en Estados Unidos"
-city_guide_desc: "Descubre qué eSIM de Estados Unidos es la mejor para tu destino, basado en datos de velocidad y cobertura de [Informe de conectividad Ookla Speedtest](https://www.ookla.com/research/reports/united-states-speedtest-connectivity-report-h2-2025)."
+city_guide_title: "Guía de ciudades: mejor eSIM en USA"
+city_guide_desc: "Descubre qué eSIM de USA es la mejor para tu destino, basado en datos de velocidad y cobertura de [Informe de conectividad Ookla Speedtest](https://www.ookla.com/research/reports/united-states-speedtest-connectivity-report-h2-2025)."
 city_table_headers:
 
   - "Ciudad"
@@ -192,7 +192,7 @@ city_recommendations:
 city_guide_tip: "💡 Consejo: si usas la eSIM multi-red de Roami, tu teléfono cambiará automáticamente al mejor operador local, sin configuración manual."
 
 # Guía por escenarios de viaje
-scene_guide_title: "🎯 Elige la mejor eSIM para Estados Unidos según tu tipo de viaje"
+scene_guide_title: "🎯 Elige la mejor eSIM para USA según tu tipo de viaje"
 scene_items:
 
   - icon: "🏛️"
@@ -214,36 +214,36 @@ scene_items:
 scene_guide_footer: "💡 La eSIM multi-red de Roami detecta automáticamente tu escenario y se conecta a la mejor red, sin ajustes manuales."
 
 # FAQ
-faq_title: "Preguntas frecuentes sobre eSIM en Estados Unidos"
+faq_title: "Preguntas frecuentes sobre eSIM en USA"
 faq_prefix: "Pregunta"
 faq_suffix: ":"
 faq_more_link_text: "¿Tienes más dudas? Ver FAQ completo →"
 faq_more_link_url: "/faq/"
 faq:
 
-  - q: "¿Cómo puedo confirmar que la eSIM tiene cobertura fiable en mi destino específico dentro de Estados Unidos?"
+  - q: "¿Cómo puedo confirmar que la eSIM tiene cobertura fiable en mi destino específico dentro de USA?"
     a: "Puedes consultar los mapas de cobertura oficiales de los operadores (T-Mobile, Verizon, AT&T) en sus sitios web. También puedes usar herramientas como OpenSignal o el informe de [Informe de conectividad Ookla Speedtest](https://www.ookla.com/research/reports/united-states-speedtest-connectivity-report-h2-2025) para ver datos de velocidad y cobertura por ciudad. Por ejemplo, Pittsburgh tiene la velocidad móvil más rápida (362.61 Mbps) y San Antonio la fija más rápida (365.08 Mbps)."
 
-  - q: "¿La eSIM de Estados Unidos tiene un límite diario de datos (por ejemplo, reducción de velocidad después de 2 GB al día)?"
+  - q: "¿La eSIM de USA tiene un límite diario de datos (por ejemplo, reducción de velocidad después de 2 GB al día)?"
     a: "Sí, muchos planes eSIM económicos tienen una política de uso justo (FUP) que reduce la velocidad después de cierto consumo diario, típicamente entre 2 GB y 5 GB. Los planes premium suelen ofrecer datos ilimitados sin reducción. Revisa los términos del plan antes de comprar para evitar sorpresas."
 
-  - q: "¿La eSIM de Estados Unidos es adecuada para juegos en línea? ¿Cuál es la latencia (ping) media?"
+  - q: "¿La eSIM de USA es adecuada para juegos en línea? ¿Cuál es la latencia (ping) media?"
     a: "Sí, es adecuada para juegos en línea. Según [Informe de conectividad Ookla Speedtest](https://www.ookla.com/research/reports/united-states-speedtest-connectivity-report-h2-2025), T-Mobile tiene una latencia media de 46 ms (44 ms en 5G), lo que es excelente para juegos competitivos. Frontier Fiber y T-Mobile ofrecen la mejor experiencia gaming. Para juegos en casa, AT&T Fiber también es una opción sólida con baja latencia."
 
-  - q: "Mi teléfono es compatible con doble eSIM. ¿Puedo tener activos dos perfiles eSIM simultáneamente en Estados Unidos?"
-    a: "Sí, la mayoría de los teléfonos con doble eSIM (como iPhone 13 y posteriores, Google Pixel 7 y posteriores) permiten tener dos perfiles eSIM activos simultáneamente. Puedes usar un perfil para datos locales en Estados Unidos y otro para tu línea personal. Asegúrate de que ambos perfiles sean de operadores compatibles."
+  - q: "Mi teléfono es compatible con doble eSIM. ¿Puedo tener activos dos perfiles eSIM simultáneamente en USA?"
+    a: "Sí, la mayoría de los teléfonos con doble eSIM (como iPhone 13 y posteriores, Google Pixel 7 y posteriores) permiten tener dos perfiles eSIM activos simultáneamente. Puedes usar un perfil para datos locales en USA y otro para tu línea personal. Asegúrate de que ambos perfiles sean de operadores compatibles."
 
-  - q: "¿Existen diferencias significativas en la velocidad de internet entre diferentes regiones y ciudades de Estados Unidos?"
+  - q: "¿Existen diferencias significativas en la velocidad de internet entre diferentes regiones y ciudades de USA?"
     a: "Sí, hay diferencias notables. Según [Informe de conectividad Ookla Speedtest](https://www.ookla.com/research/reports/united-states-speedtest-connectivity-report-h2-2025), Pittsburgh tiene la velocidad móvil más rápida (362.61 Mbps), mientras que San Antonio lidera en velocidad fija (365.08 Mbps). Ciudades como Nueva York y Los Ángeles también tienen buen rendimiento, pero zonas rurales pueden tener velocidades más bajas. Verizon ofrece la mejor cobertura geográfica (30.0%) para áreas menos densas."
 
 
 # Mitos y realidades
-myths_title: "⚠️ Mitos y realidades comunes sobre la eSIM en Estados Unidos"
+myths_title: "⚠️ Mitos y realidades comunes sobre la eSIM en USA"
 myth_label: "❌ Mito:"
 truth_label: "✅ Realidad:"
 myths:
 
-  - myth: "Mito: Todas las eSIM en Estados Unidos ofrecen la misma velocidad."
+  - myth: "Mito: Todas las eSIM en USA ofrecen la misma velocidad."
     truth: "Realidad: La velocidad varía significativamente entre operadores. T-Mobile lidera con 259.48 Mbps de descarga media, mientras que Verizon tiene 130.64 Mbps. La elección del operador impacta directamente en tu experiencia."
 
   - myth: "Mito: La cobertura 5G es igual en todo el país."
@@ -255,56 +255,56 @@ myths:
   - myth: "Mito: Necesitas un número de teléfono estadounidense para activar una eSIM."
     truth: "Realidad: No es necesario. La mayoría de las eSIM para viajeros se activan con solo un correo electrónico y un código QR. No requieren número local, aunque algunos operadores pueden pedir verificación adicional."
 
-  - myth: "Mito: La velocidad 5G es siempre más rápida que 4G en Estados Unidos."
+  - myth: "Mito: La velocidad 5G es siempre más rápida que 4G en USA."
     truth: "Realidad: Generalmente sí, pero depende de la banda. T-Mobile tiene una velocidad 5G media de 309.41 Mbps frente a 259.48 Mbps en todas las tecnologías. Sin embargo, en zonas con señal 5G débil, el 4G puede ser más estable."
 
 
 # Fuentes de datos
-data_sources_title: "Fuentes de datos de redes móviles en Estados Unidos"
+data_sources_title: "Fuentes de datos de redes móviles en USA"
 data_sources_link_text: ""
 data_sources_list:
 
   - name: "Ookla Speedtest: [Informe de conectividad Ookla Speedtest](https://www.ookla.com/research/reports/united-states-speedtest-connectivity-report-h2-2025)"
-    description: "Informe de Speedtest Intelligence® para el segundo semestre de 2025. Proporciona datos de velocidad, cobertura y consistencia de redes móviles y fijas en Estados Unidos."
+    description: "Informe de Speedtest Intelligence® para el segundo semestre de 2025. Proporciona datos de velocidad, cobertura y consistencia de redes móviles y fijas en USA."
 
   - name: "OpenSignal 2025"
-    description: "Informe de experiencia de red móvil en Estados Unidos, incluyendo cobertura 5G, velocidad de descarga y experiencia de video. Datos actualizados a 2025."
+    description: "Informe de experiencia de red móvil en USA, incluyendo cobertura 5G, velocidad de descarga y experiencia de video. Datos actualizados a 2025."
 
   - name: "FCC (Comisión Federal de Comunicaciones) 2025"
-    description: "Informes de cobertura y velocidad de banda ancha en Estados Unidos. Proporciona datos regulatorios sobre disponibilidad de servicios en áreas urbanas y rurales."
+    description: "Informes de cobertura y velocidad de banda ancha en USA. Proporciona datos regulatorios sobre disponibilidad de servicios en áreas urbanas y rurales."
 
 data_sources_footer: "Todos los datos de rendimiento de red citados se basan en informes públicos de terceros (Ookla, OpenSignal, FCC) y pueden variar según la ubicación, el dispositivo, la hora y la carga de la red."
 data_sources_note: "La velocidad y cobertura de la red pueden variar según la ubicación, el dispositivo, la hora y la carga de la red. Los datos presentados son promedios del segundo semestre de 2025."
 
 # CTA para producto
-cta_title: "Obtén ya tu eSIM para Estados Unidos"
-cta_desc: "Acceso instantáneo a internet 5G de alta velocidad. Activa en segundos y navega sin límites en todo Estados Unidos."
-cta_button_text: "Comprar eSIM para Estados Unidos ahora"
+cta_title: "Obtén ya tu eSIM para USA"
+cta_desc: "Acceso instantáneo a internet 5G de alta velocidad. Activa en segundos y navega sin límites en todo USA."
+cta_button_text: "Comprar eSIM para USA ahora"
 cta_button_link: "/united-states-esim/"
 cta_free_trial_note: "Solo para nuevos clientes"
-cta_free_trial_text: "Prueba gratuita de eSIM para Estados Unidos"
+cta_free_trial_text: "Prueba gratuita de eSIM para USA"
 cta_free_trial_link: "/free-esim/"
 
 ---
 
-# eSIM para Estados Unidos: Planes de datos económicos para viajeros
+# eSIM para USA: Planes de datos económicos para viajeros
 
 > **💡 Resumen para viajeros:** La mejor opción para viajes de negocios: planes de datos 5G ilimitados para múltiples países. Según [Informe de conectividad Ookla Speedtest](https://www.ookla.com/research/reports/united-states-speedtest-connectivity-report-h2-2025), T-Mobile lidera con una velocidad media de descarga de 259.48 Mbps y una velocidad 5G de 309.41 Mbps, ideal para videoconferencias y trabajo remoto. Roami ofrece eSIM con cobertura en las principales redes estadounidenses, garantizando conexión estable en ciudades como Pittsburgh (362.61 Mbps en móvil) y San Antonio (365.08 Mbps en fijo). Activa tu eSIM al llegar y olvídate del roaming.
 
-## Qué saber antes de comprar una eSIM para Estados Unidos
+## Qué saber antes de comprar una eSIM para USA
 
 
-### 1. Bandas 5G y 4G principales en Estados Unidos {#1-bandas-5g-y-4g-principales-en-estados-unidos}
-Estados Unidos utiliza principalmente las bandas 5G de baja frecuencia (600 MHz, 850 MHz) para cobertura amplia, y bandas medias (2.5 GHz, 3.5 GHz) para velocidad. Las bandas 4G LTE comunes son 2, 4, 5, 12, 13, 17, 66. Asegúrate de que tu dispositivo sea compatible con estas bandas para una experiencia óptima.
+### 1. Bandas 5G y 4G principales en USA {#1-bandas-5g-y-4g-principales-en-estados-unidos}
+USA utiliza principalmente las bandas 5G de baja frecuencia (600 MHz, 850 MHz) para cobertura amplia, y bandas medias (2.5 GHz, 3.5 GHz) para velocidad. Las bandas 4G LTE comunes son 2, 4, 5, 12, 13, 17, 66. Asegúrate de que tu dispositivo sea compatible con estas bandas para una experiencia óptima.
 
 ### 2. Requisitos KYC para activar eSIM {#2-requisitos-kyc-para-activar-esim}
-Para activar una eSIM en Estados Unidos, generalmente necesitas proporcionar una identificación válida (pasaporte o licencia de conducir) y una dirección de correo electrónico. Algunos operadores pueden requerir verificación adicional, como un número de teléfono local o dirección de facturación.
+Para activar una eSIM en USA, generalmente necesitas proporcionar una identificación válida (pasaporte o licencia de conducir) y una dirección de correo electrónico. Algunos operadores pueden requerir verificación adicional, como un número de teléfono local o dirección de facturación.
 
 ### 3. Política de uso justo (FUP) en planes ilimitados {#3-política-de-uso-justo-fup-en-planes-ilimitados}
-Muchos planes eSIM ilimitados en Estados Unidos tienen una política de uso justo que reduce la velocidad después de cierto consumo diario (por ejemplo, 2 GB o 5 GB al día). Revisa los términos del plan para evitar cortes inesperados durante tu viaje.
+Muchos planes eSIM ilimitados en USA tienen una política de uso justo que reduce la velocidad después de cierto consumo diario (por ejemplo, 2 GB o 5 GB al día). Revisa los términos del plan para evitar cortes inesperados durante tu viaje.
 
 ### 4. Cobertura en zonas rurales y parques nacionales {#4-cobertura-en-zonas-rurales-y-parques-nacionales}
 La cobertura varía significativamente entre operadores. Verizon tiene la mejor cobertura geográfica (30.0%), mientras que T-Mobile lidera en disponibilidad 5G (91.2%). Si planeas visitar parques nacionales como Yellowstone o el Gran Cañón, elige un operador con buena cobertura rural.
 
 ### 5. Compatibilidad de dispositivos con eSIM {#5-compatibilidad-de-dispositivos-con-esim}
-La mayoría de los smartphones modernos (iPhone XS y posteriores, Google Pixel 3 y posteriores, Samsung Galaxy S20 y posteriores) son compatibles con eSIM. Verifica que tu dispositivo esté desbloqueado y sea compatible con las bandas de Estados Unidos antes de comprar.
+La mayoría de los smartphones modernos (iPhone XS y posteriores, Google Pixel 3 y posteriores, Samsung Galaxy S20 y posteriores) son compatibles con eSIM. Verifica que tu dispositivo esté desbloqueado y sea compatible con las bandas de USA antes de comprar.

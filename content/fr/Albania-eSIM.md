@@ -1,6 +1,6 @@
 ---
 title: 'Forfait eSIM Albanie 2026: Voyage & Réseau | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-06-24T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -365,22 +365,23 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: Albanie eSIM FAQ
+    title: "Tout sur l eSIM pour Albanie"
+
     questions:
     - q: |
         Puis-je recevoir les SMS de vérification bancaire avec eSIM Albanie?
       a: |
         Oui — conservez votre carte SIM française dans le slot 1 pour recevoir les SMS (codes 2FA, validation bancaire). Les frais de réception de SMS à l'étranger sont d'environ $0.50 par message, bien moins que les données en itinérance. L'eSIM en slot 2 gère toutes les données. Cette configuration dual-SIM est supportée par 80% des téléphones depuis 2020.
     - q: |
-        Combien de profils eSIM puis-je stocker sur mon téléphone pour Albanie?
+        Puis-je installer plusieurs eSIM pour differents pays en meme temps que celle de Albanie?
       a: |
         La plupart des téléphones modernes stockent 5 à 10 profils eSIM. Vous pouvez conserver votre eSIM Albanie en parallèle de votre carte SIM française et de plusieurs autres profils internationaux. Le passage d'un profil à l'autre prend environ 10 secondes dans les réglages. Idéal pour les voyageurs multi-destinations.
     - q: |
-        Puis-je recharger mon forfait eSIM Albanie depuis l'étranger?
+        Est-ce que la recharge du forfait eSIM Albania est instantanee ou faut-il attendre quelques minutes?
       a: |
         Oui — la recharge se fait directement depuis l'application Roami, où que vous soyez. Le nouveau forfait est activé instantanément, sans nouveau QR code ni réinstallation. Nous recommandons de recharger lorsque vous atteignez 20% de données restantes. Roami vous envoie une notification à 70% et 90% de consommation.
     - q: |
-        Dois-je retirer ma carte SIM physique pour utiliser l'eSIM Albanie?
+        Faut-il enlever sa carte SIM francaise pour utiliser l eSIM Albania ou les deux peuvent-elles coexister?
       a: |
         Pas du tout — votre carte SIM reste en place dans le slot 1. L'eSIM fonctionne en parallèle dans le slot 2. Vous pouvez ainsi utiliser votre numéro français pour les appels et SMS, et l'eSIM pour les données. Cette configuration permet d'économiser 30-50% par rapport à une carte SIM d'aéroport, tout en conservant vos services habituels.
     - q: |
@@ -388,7 +389,7 @@ faq_section:
       a: |
         Ouvrez simplement une page web ou l'application Roami. Si la page s'affiche, tout fonctionne. Vous pouvez aussi vérifier le nom de l'opérateur dans les réglages du téléphone. Si rien ne s'affiche après 2 minutes, activez l'itinérance des données ou redémarrez le téléphone. Dans 90% des cas, le problème est résolu en moins d'une minute.
     - q: |
-        Netflix et Spotify fonctionnent-ils avec l'eSIM Albanie?
+        Netflix et les services de streaming marchent-ils sans coupure avec l eSIM Albanie?
       a: |
         Oui — le streaming passe par la connexion eSIM sans restriction. Netflix en HD consomme environ 1GB par heure, Spotify 50-100MB par heure. Avec un forfait 5GB ($9.99), vous pouvez regarder environ 5 heures de Netflix en HD ou écouter 50 heures de musique. Pour les gros consommateurs de streaming, le forfait illimité ($59.99) est plus adapté. Alternative: téléchargez vos contenus en WiFi avant de partir.
     - q: |
@@ -477,9 +478,9 @@ market_analysis:
     title: Acquisition et<br>activation
     prepaid_title: ''
     prepaid_desc: L'acquisition d'une carte SIM prépayée en Albanie nécessite de se rendre dans une boutique Vodafone ou One
-      Albania, de présenter un passeport et de fournir une adresse locale, le processus prenant 15 à 30 minutes.
+      Albanie, de présenter un passeport et de fournir une adresse locale, le processus prenant 15 à 30 minutes.
     esim_title: Activation instantanée sans file d'attente
-    esim_desc: Évitez les files d'attente dans les boutiques Vodafone ou One Albania. Activez votre eSIM en ligne en 1 minute
+    esim_desc: Évitez les files d'attente dans les boutiques Vodafone ou One Albanie. Activez votre eSIM en ligne en 1 minute
       après votre atterrissage à Tirana, sans avoir à fournir de passeport ni d'adresse locale.
   - icon: id-card
     title: KYC et enregistrement<br>par passeport

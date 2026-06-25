@@ -1,6 +1,6 @@
 ---
 title: 'Forfait eSIM Indonésie 2026: 5G & Forfaits | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-06-24T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -389,14 +389,17 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: Indonésie eSIM FAQ
+    title: "Questions frequentes sur l eSIM pour Indonesie"
+
     questions:
     - q: |
-        Quel est le forfait eSIM le moins cher pour Indonésie?
+            Quel est le forfait de donnees eSIM le moins cher pour
+
       a: |
         Le forfait le moins cher commence à $1.99. La plupart choisissent 5GB/15 jours ($9.99). Évitez les kiosques d'aéroport qui sont 30-50% plus chers.
     - q: |
-        Quelle est la différence entre un forfait 5GB et un forfait illimité pour Indonésie?
+            Quelle est la différence entre un forfait de donnees 5GB et un forfait illimité pour
+
       a: |
         Le forfait 5GB ($9.99) offre un volume de données fixe — suffisant pour environ 500 heures d'appels WhatsApp, 10 heures de vidéo ou une semaine de navigation normale. Le forfait illimité ($59.99) continue après 30GB mais le débit est réduit à 512 kbps. Pour la plupart des voyageurs (cartes, messagerie, photos), 5GB suffit. Pour le streaming intensif ou le partage de connexion, choisissez l'illimité.
     - q: |
@@ -404,19 +407,19 @@ faq_section:
       a: |
         Oui — conservez votre carte SIM française dans le slot 1 pour recevoir les SMS (codes 2FA, validation bancaire). Les frais de réception de SMS à l'étranger sont d'environ $0.50 par message, bien moins que les données en itinérance. L'eSIM en slot 2 gère toutes les données. Cette configuration dual-SIM est supportée par 80% des téléphones depuis 2020.
     - q: |
-        L'eSIM Indonésie fonctionne-t-elle dans le métro et les transports souterrains?
+        Puis-je utiliser Google Maps dans le metro de Indonesia avec l eSIM ou vais-je perdre le signal?
       a: |
         Dans la plupart des grandes villes, les stations de métro sont équipées d'antennes 4G/5G avec des vitesses de 10-30 Mbps. Dans les tunnels, la connexion peut être interrompue pendant 10-30 secondes puis reprend automatiquement. Téléchargez vos itinéraires et cartes hors-ligne avant de prendre le métro pour plus de tranquillité.
     - q: |
-        Quelle est la façon la plus simple de rester connecté à Indonésie?
+        Quel est le moyen le plus simple d avoir internet mobile en Indonesie en tant que touriste?
       a: |
         L'eSIM Roami est la solution la plus simple: achetez en ligne à partir de $1.99, recevez le QR code par email en 5 minutes, installez en 2 minutes. Pas de file d'attente à l'aéroport, pas de passeport à présenter, pas de carte SIM à insérer. Votre numéro français reste actif pour les SMS, et vous êtes connecté dès l'arrivée en activant l'itinérance.
     - q: |
-        Dois-je installer mon eSIM Indonésie avant ou après le départ?
+        Si j installe l eSIM Indonesia avant le depart, est-ce que la validite commence tout de suite ou a l arrivee?
       a: |
         Avant le départ, sans exception. L'installation nécessite une connexion Internet, et le WiFi de l'aéroport demande souvent une vérification par SMS — un vrai piège si vous n'avez pas encore de réseau local. Le QR code arrive par email sous 5 minutes après l'achat. L'installation prend environ 2 minutes sur iPhone ou Android. À l'arrivée dans Indonésie, activez simplement l'itinérance des données. Vous serez connecté en moins de 60 secondes.
     - q: |
-        Puis-je partager la connexion eSIM Indonésie avec mon ordinateur portable?
+        Puis-je utiliser l eSIM Indonesia pour connecter mon ordinateur en hotspot sans frais supplementaires?
       a: |
         Oui — tous les forfaits Roami incluent le partage de connexion (point d'accès personnel). Activez le partage dans les réglages de votre téléphone pour connecter votre PC, tablette ou ceux de vos compagnons de voyage. Pour une utilisation professionnelle (visioconférence, fichiers volumineux), un forfait 10GB ($14.99) ou illimité ($59.99) est conseillé.
     - q: |

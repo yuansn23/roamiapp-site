@@ -1,6 +1,6 @@
 ---
 title: 'Forfait eSIM Guatemala 2026: Touristes & Réseau | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-06-24T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -226,14 +226,15 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: Guatemala eSIM FAQ
+    title: "Tout sur l eSIM pour Guatemala"
+
     questions:
     - q: |
-        Dois-je retirer ma carte SIM physique pour utiliser l'eSIM Guatemala?
+        Faut-il enlever sa carte SIM francaise pour utiliser l eSIM Guatemala ou les deux peuvent-elles coexister?
       a: |
         Pas du tout — votre carte SIM reste en place dans le slot 1. L'eSIM fonctionne en parallèle dans le slot 2. Vous pouvez ainsi utiliser votre numéro français pour les appels et SMS, et l'eSIM pour les données. Cette configuration permet d'économiser 30-50% par rapport à une carte SIM d'aéroport, tout en conservant vos services habituels.
     - q: |
-        Y a-t-il des frais cachés avec l'eSIM Roami pour Guatemala?
+        Est-ce que Roami applique des frais d activation caches pour l eSIM Guatemala en plus du prix?
       a: |
         Non — le prix affiché est le prix final, sans aucune taxe ajoutée ni frais de dossier. Les forfaits commencent à $1.99 (7 jours, 1GB). Le forfait 5GB ($9.99) n'a pas de surprise. Pas de renouvellement automatique, pas de frais d'activation: le forfait s'arrête simplement à la date d'expiration.
     - q: |
@@ -241,7 +242,7 @@ faq_section:
       a: |
         Oui — c'est même l'un des principaux avantages de l'eSIM. Votre carte SIM reste dans le slot 1 pour recevoir les SMS (codes bancaires, validation 2FA). L'eSIM gère toutes les données dans le slot 2. Désactivez simplement l'itinérance des données sur votre SIM française pour éviter des frais pouvant atteindre $10-15 par MB.
     - q: |
-        Que se passe-t-il si je dépasse la limite de mon forfait eSIM Guatemala?
+        Avec l eSIM Guatemala, est-ce que les appels video WhatsApp et FaceTime fonctionnent en 4G et 5G?
       a: |
         Avec un forfait à volume fixe (5GB, 10GB), les données s'arrêtent automatiquement à la limite — pas de frais supplémentaires. Vous pouvez recharger instantanément depuis l'application Roami, sans changer de SIM ni installer un nouveau QR code. Avec le forfait illimité, le débit est réduit à 512 kbps après 30GB dans la journée, mais vous restez connecté pour la messagerie et la navigation.
     - q: |
@@ -249,15 +250,15 @@ faq_section:
       a: |
         Ouvrez simplement une page web ou l'application Roami. Si la page s'affiche, tout fonctionne. Vous pouvez aussi vérifier le nom de l'opérateur dans les réglages du téléphone. Si rien ne s'affiche après 2 minutes, activez l'itinérance des données ou redémarrez le téléphone. Dans 90% des cas, le problème est résolu en moins d'une minute.
     - q: |
-        Quel forfait eSIM les voyageurs choisissent-ils le plus pour Guatemala?
+        Quel est le forfait eSIM le plus choisi par les voyageurs se rendant en Guatemala?
       a: |
         Le 5GB/15 jours ($9.99) est le plus populaire — il suffit pour la navigation GPS, les réseaux sociaux et la messagerie quotidienne. Pour les voyageurs qui regardent des vidéos ou travaillent à distance, le forfait 10GB ($14.99) offre plus de marge. Le forfait illimité ($59.99) est idéal pour le partage de connexion ou les longs séjours.
     - q: |
-        Que faire si mon eSIM Guatemala ne fonctionne pas à l'arrivée?
+        Qui contacter en cas de probleme de connexion avec l eSIM Guatemala pendant le voyage?
       a: |
         Trois vérifications simples, chacune prenant moins de 30 secondes: 1) L'itinérance des données est-elle activée dans les réglages? 2) Essayez une sélection manuelle du réseau: choisissez Tigo dans la liste. 3) Redémarrez votre téléphone. Environ 90% des problèmes se résolvent avec l'une de ces étapes. Si le problème persiste, le support Roami est disponible 24h/7j par chat.
     - q: |
-        Netflix et Spotify fonctionnent-ils avec l'eSIM Guatemala?
+        Les plateformes comme Netflix, YouTube et Spotify sont-elles accessibles avec l eSIM Guatemala?
       a: |
         Oui — le streaming passe par la connexion eSIM sans restriction. Netflix en HD consomme environ 1GB par heure, Spotify 50-100MB par heure. Avec un forfait 5GB ($9.99), vous pouvez regarder environ 5 heures de Netflix en HD ou écouter 50 heures de musique. Pour les gros consommateurs de streaming, le forfait illimité ($59.99) est plus adapté. Alternative: téléchargez vos contenus en WiFi avant de partir.
 related_products:

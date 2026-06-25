@@ -1,6 +1,6 @@
 ---
 title: 'Forfait eSIM Brunei 2026: Couverture & Vitesse | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-06-24T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -204,16 +204,17 @@ activation_steps:
       Nous vous recommandons de vous connecter au Wi-Fi lors de l'activation initiale.
     is_list: false
 faq_section:
-  title: "Brunei eSIM : est-ce que ça vaut le coup? Vitesse et qualité testés sur place par des voyageurs."
-  desc: "Vous partez à Brunei? Découvrez tout sur l'eSIM Brunei : vitesses 4G/5G réelles, couverture du réseau DST en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
+  title: "eSIM Brunei : Guide complet prepaye, donnees et couverture"
+  desc: "Repondez a vos questions sur l eSIM pour Brunei. Informations sur l installation, la compatibilite avec votre telephone, les operateurs disponibles et les forfaits pour touristes.'eSIM Brunei : vitesses 4G/5G réelles, couverture du réseau DST en ville et à la campagne, et conseils pratiques pour rester connecté pendant votre voyage."
   categories:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: Brunei eSIM FAQ
+    title: "Questions frequentes sur l eSIM pour Brunei"
+
     questions:
     - q: |
-        Que se passe-t-il si je dépasse la limite de mon forfait eSIM Brunei?
+        Que se passe-t-il si je depasse le quota de mon forfait eSIM Brunei? Puis-je encore naviguer?
       a: |
         Avec un forfait à volume fixe (5GB, 10GB), les données s'arrêtent automatiquement à la limite — pas de frais supplémentaires. Vous pouvez recharger instantanément depuis l'application Roami, sans changer de SIM ni installer un nouveau QR code. Avec le forfait illimité, le débit est réduit à 512 kbps après 30GB dans la journée, mais vous restez connecté pour la messagerie et la navigation.
     - q: |
@@ -221,11 +222,11 @@ faq_section:
       a: |
         Oui — Roami eSIM est 80-90% moins chère que les tarifs de roaming des opérateurs traditionnels. Un forfait 5GB pour Brunei coûte $9.99 chez Roami, contre $50 à $100 chez la plupart des opérateurs. En plus d'économiser, vous bénéficiez des vitesses locales (100-300 Mbps en 5G) au lieu du roaming bridé (souvent limité à 256 kbps).
     - q: |
-        Puis-je recharger mon forfait eSIM Brunei depuis l'étranger?
+        Est-ce que la recharge du forfait eSIM Brunei est instantanee ou faut-il attendre quelques minutes?
       a: |
         Oui — la recharge se fait directement depuis l'application Roami, où que vous soyez. Le nouveau forfait est activé instantanément, sans nouveau QR code ni réinstallation. Nous recommandons de recharger lorsque vous atteignez 20% de données restantes. Roami vous envoie une notification à 70% et 90% de consommation.
     - q: |
-        Dois-je retirer ma carte SIM physique pour utiliser l'eSIM Brunei?
+        Faut-il enlever sa carte SIM francaise pour utiliser l eSIM Brunei ou les deux peuvent-elles coexister?
       a: |
         Pas du tout — votre carte SIM reste en place dans le slot 1. L'eSIM fonctionne en parallèle dans le slot 2. Vous pouvez ainsi utiliser votre numéro français pour les appels et SMS, et l'eSIM pour les données. Cette configuration permet d'économiser 30-50% par rapport à une carte SIM d'aéroport, tout en conservant vos services habituels.
     - q: |
@@ -233,7 +234,7 @@ faq_section:
       a: |
         Non — elles sont généralement 30-50% plus chères que l'eSIM Roami, sans compter le temps d'attente aux kiosques. À l'aéroport, vous devez faire la queue, présenter votre passeport et parfois fournir une adresse locale. Avec Roami, vous achetez en ligne en 2 minutes, le QR code arrive par email, et vous gardez votre SIM française active.
     - q: |
-        Quelle est la façon la plus simple de rester connecté à Brunei?
+        Quel est le moyen le plus simple d avoir internet mobile en Brunei en tant que touriste?
       a: |
         L'eSIM Roami est la solution la plus simple: achetez en ligne à partir de $1.99, recevez le QR code par email en 5 minutes, installez en 2 minutes. Pas de file d'attente à l'aéroport, pas de passeport à présenter, pas de carte SIM à insérer. Votre numéro français reste actif pour les SMS, et vous êtes connecté dès l'arrivée en activant l'itinérance.
     - q: |

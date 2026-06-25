@@ -1,6 +1,6 @@
 ---
 title: 'Forfait eSIM Taïwan 2026: 5G & Forfaits | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-06-24T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -365,22 +365,25 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: Taïwan eSIM FAQ
+    title: "Guide de l eSIM pour les voyageurs en Taiwan"
+
     questions:
     - q: |
-        Puis-je utiliser un VPN avec mon eSIM Taïwan?
+        Est-ce que les VPN fonctionnent avec l eSIM Taiwan ou y a-t-il des restrictions?
       a: |
         Oui — Roami ne bloque pas les connexions VPN, ce qui permet de sécuriser vos échanges ou d'accéder à vos services habituels. Les vitesses avec VPN restent bonnes: 30-80 Mbps en 5G, 5-15 Mbps en 4G — suffisantes pour le télétravail et le streaming. Aucune restriction ni limitation de débit spécifique aux VPN n'est appliquée.
     - q: |
-        Puis-je recharger mon forfait eSIM Taïwan depuis l'étranger?
+            Peut-on recharger son forfait eSIM Taiwan depuis l etranger en cours de voyage?
+
       a: |
         Oui — la recharge se fait directement depuis l'application Roami, où que vous soyez. Le nouveau forfait est activé instantanément, sans nouveau QR code ni réinstallation. Nous recommandons de recharger lorsque vous atteignez 20% de données restantes. Roami vous envoie une notification à 70% et 90% de consommation.
     - q: |
-        Que se passe-t-il si je dépasse la limite de mon forfait eSIM Taïwan?
+            Est-ce que le debit est reduit apres avoir consomme tout le forfait eSIM Taiwan ou suis-je coupe?
+
       a: |
         Avec un forfait à volume fixe (5GB, 10GB), les données s'arrêtent automatiquement à la limite — pas de frais supplémentaires. Vous pouvez recharger instantanément depuis l'application Roami, sans changer de SIM ni installer un nouveau QR code. Avec le forfait illimité, le débit est réduit à 512 kbps après 30GB dans la journée, mais vous restez connecté pour la messagerie et la navigation.
     - q: |
-        Netflix et Spotify fonctionnent-ils avec l'eSIM Taïwan?
+        Puis-je regarder des videos en streaming avec l eSIM Taiwan sans mise en buffer constante?
       a: |
         Oui — le streaming passe par la connexion eSIM sans restriction. Netflix en HD consomme environ 1GB par heure, Spotify 50-100MB par heure. Avec un forfait 5GB ($9.99), vous pouvez regarder environ 5 heures de Netflix en HD ou écouter 50 heures de musique. Pour les gros consommateurs de streaming, le forfait illimité ($59.99) est plus adapté. Alternative: téléchargez vos contenus en WiFi avant de partir.
     - q: |

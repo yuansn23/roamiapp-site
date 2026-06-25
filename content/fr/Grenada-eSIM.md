@@ -1,6 +1,6 @@
 ---
 title: 'Forfait eSIM Grenade 2026: 5G & Forfaits | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-06-24T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -216,14 +216,15 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: Grenade eSIM FAQ
+    title: "Tout sur l eSIM pour Grenada"
+
     questions:
     - q: |
         Les cartes SIM vendues à l'aéroport de Grenade sont-elles moins chères?
       a: |
         Non — elles sont généralement 30-50% plus chères que l'eSIM Roami, sans compter le temps d'attente aux kiosques. À l'aéroport, vous devez faire la queue, présenter votre passeport et parfois fournir une adresse locale. Avec Roami, vous achetez en ligne en 2 minutes, le QR code arrive par email, et vous gardez votre SIM française active.
     - q: |
-        Puis-je recharger mon forfait eSIM Grenade depuis l'étranger?
+        Si mon forfait eSIM Grenada est epuise, puis-je ajouter des gigas depuis mon telephone directement?
       a: |
         Oui — la recharge se fait directement depuis l'application Roami, où que vous soyez. Le nouveau forfait est activé instantanément, sans nouveau QR code ni réinstallation. Nous recommandons de recharger lorsque vous atteignez 20% de données restantes. Roami vous envoie une notification à 70% et 90% de consommation.
     - q: |
@@ -231,7 +232,7 @@ faq_section:
       a: |
         Le forfait 5GB ($9.99) offre un volume de données fixe — suffisant pour environ 500 heures d'appels WhatsApp, 10 heures de vidéo ou une semaine de navigation normale. Le forfait illimité ($59.99) continue après 30GB mais le débit est réduit à 512 kbps. Pour la plupart des voyageurs (cartes, messagerie, photos), 5GB suffit. Pour le streaming intensif ou le partage de connexion, choisissez l'illimité.
     - q: |
-        eSIM ou pocket WiFi: quelle est la meilleure option pour Grenade?
+        Quel est le meilleur choix pour internet en Grenada: eSIM, Pocket WiFi ou carte SIM locale?
       a: |
         L'eSIM est plus pratique: pas d'appareil supplémentaire à transporter ou à recharger, pas de caution à payer. La location d'un pocket WiFi coûte $3-8 par jour plus une caution, et la batterie tient 6-10 heures. Roami eSIM commence à $1.99 par jour, fonctionne directement dans votre téléphone et ne nécessite pas de recharge séparée. Les deux permettent le partage de connexion.
     - q: |
@@ -239,11 +240,11 @@ faq_section:
       a: |
         En moyenne, un touriste consomme 300-500MB par jour pour la navigation, la messagerie et les réseaux sociaux. Avec des appels vidéo ou du streaming, la consommation peut atteindre 1-2GB par jour. Pour une semaine, un forfait 5GB ($9.99) est généralement suffisant. Pour deux semaines, prévoyez 10GB ($14.99).
     - q: |
-        Y a-t-il des frais cachés avec l'eSIM Roami pour Grenade?
+        Le prix de l eSIM Grenada comprend-il tout ou y a-t-il des couts additionnels a prevoir?
       a: |
         Non — le prix affiché est le prix final, sans aucune taxe ajoutée ni frais de dossier. Les forfaits commencent à $1.99 (7 jours, 1GB). Le forfait 5GB ($9.99) n'a pas de surprise. Pas de renouvellement automatique, pas de frais d'activation: le forfait s'arrête simplement à la date d'expiration.
     - q: |
-        Que faire si mon eSIM Grenade ne fonctionne pas à l'arrivée?
+        Que faire si l eSIM Grenada ne s active pas ou ne capte pas a l arrivee dans le pays?
       a: |
         Trois vérifications simples, chacune prenant moins de 30 secondes: 1) L'itinérance des données est-elle activée dans les réglages? 2) Essayez une sélection manuelle du réseau: choisissez Flow dans la liste. 3) Redémarrez votre téléphone. Environ 90% des problèmes se résolvent avec l'une de ces étapes. Si le problème persiste, le support Roami est disponible 24h/7j par chat.
     - q: |

@@ -1,6 +1,6 @@
 ---
 title: 'Forfait eSIM Costa Rica 2026: Voyage & Réseau | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-06-24T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -333,34 +333,36 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: Costa Rica eSIM FAQ
+    title: "Tout sur l eSIM pour Costa Rica"
+
     questions:
     - q: |
-        Le forfait illimité pour Costa Rica est-il vraiment illimité?
+            Le forfait de donnees illimité pour Costa Rica est-il
+
       a: |
         Après 30GB/jour, le débit passe à 512 kbps. Les voyageurs utilisent en moyenne 500MB-3GB/jour. Un forfait 10GB ($14.99) ou illimité ($59.99) convient selon l'usage. Le Costa Rica est principalement en 4G, la 5G se déploi Un forfait 5GB ($9.99) suffit pour une semaine.
     - q: |
-        Puis-je partager la connexion eSIM Costa Rica avec mon ordinateur portable?
+        Est-ce que le partage de connexion hotspot est autorise sur tous les forfaits eSIM Costa Rica?
       a: |
         Oui — tous les forfaits Roami incluent le partage de connexion (point d'accès personnel). Activez le partage dans les réglages de votre téléphone pour connecter votre PC, tablette ou ceux de vos compagnons de voyage. Pour une utilisation professionnelle (visioconférence, fichiers volumineux), un forfait 10GB ($14.99) ou illimité ($59.99) est conseillé.
     - q: |
-        eSIM ou pocket WiFi: quelle est la meilleure option pour Costa Rica?
+        Quel est le meilleur choix pour internet en Costa Rica: eSIM, Pocket WiFi ou carte SIM locale?
       a: |
         L'eSIM est plus pratique: pas d'appareil supplémentaire à transporter ou à recharger, pas de caution à payer. La location d'un pocket WiFi coûte $3-8 par jour plus une caution, et la batterie tient 6-10 heures. Roami eSIM commence à $1.99 par jour, fonctionne directement dans votre téléphone et ne nécessite pas de recharge séparée. Les deux permettent le partage de connexion.
     - q: |
-        Dois-je retirer ma carte SIM physique pour utiliser l'eSIM Costa Rica?
+        Faut-il enlever sa carte SIM francaise pour utiliser l eSIM Costa Rica ou les deux peuvent-elles coexister?
       a: |
         Pas du tout — votre carte SIM reste en place dans le slot 1. L'eSIM fonctionne en parallèle dans le slot 2. Vous pouvez ainsi utiliser votre numéro français pour les appels et SMS, et l'eSIM pour les données. Cette configuration permet d'économiser 30-50% par rapport à une carte SIM d'aéroport, tout en conservant vos services habituels.
     - q: |
-        Netflix et Spotify fonctionnent-ils avec l'eSIM Costa Rica?
+        Puis-je regarder des videos en streaming avec l eSIM Costa Rica sans mise en buffer constante?
       a: |
         Oui — le streaming passe par la connexion eSIM sans restriction. Netflix en HD consomme environ 1GB par heure, Spotify 50-100MB par heure. Avec un forfait 5GB ($9.99), vous pouvez regarder environ 5 heures de Netflix en HD ou écouter 50 heures de musique. Pour les gros consommateurs de streaming, le forfait illimité ($59.99) est plus adapté. Alternative: téléchargez vos contenus en WiFi avant de partir.
     - q: |
-        Puis-je acheter mon eSIM Costa Rica à la dernière minute avant le vol?
+        Si j oublie d acheter l eSIM Costa Rica avant le vol, puis-je le faire depuis l aeroport?
       a: |
         Oui — le QR code est envoyé par email sous 5 minutes après l'achat. Vous pouvez commander à l'aéroport et installer dans l'avion. À l'arrivée dans Costa Rica, activez l'itinérance des données et vous serez connecté en 1 à 2 minutes. Temps total entre l'achat et la connexion: moins de 10 minutes si vous installez à l'avance.
     - q: |
-        Combien de profils eSIM puis-je stocker sur mon téléphone pour Costa Rica?
+        Y a-t-il une limite de profils eSIM stockables sur iPhone ou Android quand on voyage en Costa Rica?
       a: |
         La plupart des téléphones modernes stockent 5 à 10 profils eSIM. Vous pouvez conserver votre eSIM Costa Rica en parallèle de votre carte SIM française et de plusieurs autres profils internationaux. Le passage d'un profil à l'autre prend environ 10 secondes dans les réglages. Idéal pour les voyageurs multi-destinations.
     - q: |

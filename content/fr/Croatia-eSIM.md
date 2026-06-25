@@ -1,6 +1,6 @@
 ---
 title: 'Forfait eSIM Croatie 2026: Guide Complet | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-06-24T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -388,10 +388,12 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: Croatie eSIM FAQ
+    title: "Informations generales sur l eSIM en Croatie"
+
     questions:
     - q: |
-        Que se passe-t-il si je dépasse la limite de mon forfait eSIM Croatie?
+            Est-ce que le debit est reduit apres avoir consomme tout le forfait eSIM Croatia ou suis-je coupe?
+
       a: |
         Avec un forfait à volume fixe (5GB, 10GB), les données s'arrêtent automatiquement à la limite — pas de frais supplémentaires. Vous pouvez recharger instantanément depuis l'application Roami, sans changer de SIM ni installer un nouveau QR code. Avec le forfait illimité, le débit est réduit à 512 kbps après 30GB dans la journée, mais vous restez connecté pour la messagerie et la navigation.
     - q: |
@@ -399,11 +401,11 @@ faq_section:
       a: |
         Oui — Roami eSIM est 80-90% moins chère que les tarifs de roaming des opérateurs traditionnels. Un forfait 5GB pour Croatie coûte $9.99 chez Roami, contre $50 à $100 chez la plupart des opérateurs. En plus d'économiser, vous bénéficiez des vitesses locales (100-300 Mbps en 5G) au lieu du roaming bridé (souvent limité à 256 kbps).
     - q: |
-        eSIM ou pocket WiFi: quelle est la meilleure option pour Croatie?
+        ESIM ou Pocket WiFi: quelle solution est la plus pratique pour un voyage en Croatie?
       a: |
         L'eSIM est plus pratique: pas d'appareil supplémentaire à transporter ou à recharger, pas de caution à payer. La location d'un pocket WiFi coûte $3-8 par jour plus une caution, et la batterie tient 6-10 heures. Roami eSIM commence à $1.99 par jour, fonctionne directement dans votre téléphone et ne nécessite pas de recharge séparée. Les deux permettent le partage de connexion.
     - q: |
-        Puis-je suivre ma consommation de données sur l'eSIM Croatie?
+        Est-ce que je recois une alerte quand mon forfait eSIM Croatia arrive a epuisement?
       a: |
         Oui — deux façons: directement dans les réglages du téléphone (Réglages > Données cellulaires > Utilisation des données) ou via le tableau de bord Roami. Roami envoie des notifications automatiques à 70% et 90% de consommation. En cas de besoin, vous pouvez recharger instantanément depuis l'application sans changer de SIM.
     - q: |
@@ -411,11 +413,11 @@ faq_section:
       a: |
         Non — elles sont généralement 30-50% plus chères que l'eSIM Roami, sans compter le temps d'attente aux kiosques. À l'aéroport, vous devez faire la queue, présenter votre passeport et parfois fournir une adresse locale. Avec Roami, vous achetez en ligne en 2 minutes, le QR code arrive par email, et vous gardez votre SIM française active.
     - q: |
-        Dois-je installer mon eSIM Croatie avant ou après le départ?
+        Faut-il installer l eSIM Croatia chez soi ou peut-on le faire depuis l aeroport de Croatie?
       a: |
         Avant le départ, sans exception. L'installation nécessite une connexion Internet, et le WiFi de l'aéroport demande souvent une vérification par SMS — un vrai piège si vous n'avez pas encore de réseau local. Le QR code arrive par email sous 5 minutes après l'achat. L'installation prend environ 2 minutes sur iPhone ou Android. À l'arrivée dans Croatie, activez simplement l'itinérance des données. Vous serez connecté en moins de 60 secondes.
     - q: |
-        Puis-je utiliser un VPN avec mon eSIM Croatie?
+        Puis-je utiliser un VPN professionnel avec l eSIM Croatia pour travailler a distance?
       a: |
         Oui — Roami ne bloque pas les connexions VPN, ce qui permet de sécuriser vos échanges ou d'accéder à vos services habituels. Les vitesses avec VPN restent bonnes: 30-80 Mbps en 5G, 5-15 Mbps en 4G — suffisantes pour le télétravail et le streaming. Aucune restriction ni limitation de débit spécifique aux VPN n'est appliquée.
     - q: |

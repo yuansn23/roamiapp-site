@@ -1,6 +1,6 @@
 ---
 title: 'Forfait eSIM Liechtenstein 2026: Voyage & Réseau | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-06-24T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -389,10 +389,11 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: Liechtenstein eSIM FAQ
+    title: "Questions et reponses sur l eSIM en Liechtenstein"
+
     questions:
     - q: |
-        Dois-je retirer ma carte SIM physique pour utiliser l'eSIM Liechtenstein?
+        Faut-il enlever sa carte SIM francaise pour utiliser l eSIM Liechtenstein ou les deux peuvent-elles coexister?
       a: |
         Pas du tout — votre carte SIM reste en place dans le slot 1. L'eSIM fonctionne en parallèle dans le slot 2. Vous pouvez ainsi utiliser votre numéro français pour les appels et SMS, et l'eSIM pour les données. Cette configuration permet d'économiser 30-50% par rapport à une carte SIM d'aéroport, tout en conservant vos services habituels.
     - q: |
@@ -408,15 +409,15 @@ faq_section:
       a: |
         Oui — la connexion eSIM est chiffrée de bout en bout, contrairement au WiFi public des hôtels et cafés qui peut être intercepté. Les applications bancaires, PayPal et les cartes de crédit fonctionnent parfaitement sur la connexion 4G/5G de l'eSIM. Pour les opérations sensibles, l'eSIM est nettement plus sûre que le WiFi public, et tout aussi pratique.
     - q: |
-        Puis-je acheter mon eSIM Liechtenstein à la dernière minute avant le vol?
+        Si j oublie d acheter l eSIM Liechtenstein avant le vol, puis-je le faire depuis l aeroport?
       a: |
         Oui — le QR code est envoyé par email sous 5 minutes après l'achat. Vous pouvez commander à l'aéroport et installer dans l'avion. À l'arrivée dans Liechtenstein, activez l'itinérance des données et vous serez connecté en 1 à 2 minutes. Temps total entre l'achat et la connexion: moins de 10 minutes si vous installez à l'avance.
     - q: |
-        Puis-je utiliser un VPN avec mon eSIM Liechtenstein?
+        Les connexions VPN sont-elles autorisees avec l eSIM Liechtenstein sans limitation de debit?
       a: |
         Oui — Roami ne bloque pas les connexions VPN, ce qui permet de sécuriser vos échanges ou d'accéder à vos services habituels. Les vitesses avec VPN restent bonnes: 30-80 Mbps en 5G, 5-15 Mbps en 4G — suffisantes pour le télétravail et le streaming. Aucune restriction ni limitation de débit spécifique aux VPN n'est appliquée.
     - q: |
-        Est-ce que WhatsApp et FaceTime fonctionnent avec eSIM à Liechtenstein?
+        Avec l eSIM Liechtenstein, est-ce que les appels video WhatsApp et FaceTime fonctionnent en 4G et 5G?
       a: |
         Oui — toutes les applications fonctionnent sans restriction. Un appel WhatsApp audio consomme environ 1MB par minute, un appel vidéo 5-8MB par minute. Un forfait 5GB ($9.99) permet environ 500 heures d'appels audio ou 10 heures de vidéo FaceTime. Le réseau 4G/5G de Swisscom assure une qualité d'appel fluide.
     - q: |

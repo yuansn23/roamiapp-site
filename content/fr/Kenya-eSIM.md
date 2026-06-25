@@ -1,6 +1,6 @@
 ---
 title: 'Forfait eSIM Kenya 2026: 5G & Forfaits | Roami'
-date: '2026-06-17T00:00:00+00:00'
+date: '2026-06-24T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
@@ -350,14 +350,15 @@ faq_section:
   - id: faq-general
     icon: help-circle
     tab_title: Général
-    title: Kenya eSIM FAQ
+    title: "Tout sur l eSIM pour Kenya"
+
     questions:
     - q: |
-        Que faire si mon eSIM Kenya ne fonctionne pas à l'arrivée?
+        Qui contacter en cas de probleme de connexion avec l eSIM Kenya pendant le voyage?
       a: |
         Trois vérifications simples, chacune prenant moins de 30 secondes: 1) L'itinérance des données est-elle activée dans les réglages? 2) Essayez une sélection manuelle du réseau: choisissez Safaricom dans la liste. 3) Redémarrez votre téléphone. Environ 90% des problèmes se résolvent avec l'une de ces étapes. Si le problème persiste, le support Roami est disponible 24h/7j par chat.
     - q: |
-        Puis-je utiliser un VPN avec mon eSIM Kenya?
+        Puis-je utiliser un VPN professionnel avec l eSIM Kenya pour travailler a distance?
       a: |
         Oui — Roami ne bloque pas les connexions VPN, ce qui permet de sécuriser vos échanges ou d'accéder à vos services habituels. Les vitesses avec VPN restent bonnes: 30-80 Mbps en 5G, 5-15 Mbps en 4G — suffisantes pour le télétravail et le streaming. Aucune restriction ni limitation de débit spécifique aux VPN n'est appliquée.
     - q: |
@@ -365,7 +366,7 @@ faq_section:
       a: |
         Oui — conservez votre carte SIM française dans le slot 1 pour recevoir les SMS (codes 2FA, validation bancaire). Les frais de réception de SMS à l'étranger sont d'environ $0.50 par message, bien moins que les données en itinérance. L'eSIM en slot 2 gère toutes les données. Cette configuration dual-SIM est supportée par 80% des téléphones depuis 2020.
     - q: |
-        Dois-je retirer ma carte SIM physique pour utiliser l'eSIM Kenya?
+        Puis-je garder ma carte SIM physique tout en utilisant l eSIM Kenya pour les donnees mobiles?
       a: |
         Pas du tout — votre carte SIM reste en place dans le slot 1. L'eSIM fonctionne en parallèle dans le slot 2. Vous pouvez ainsi utiliser votre numéro français pour les appels et SMS, et l'eSIM pour les données. Cette configuration permet d'économiser 30-50% par rapport à une carte SIM d'aéroport, tout en conservant vos services habituels.
     - q: |
@@ -373,11 +374,11 @@ faq_section:
       a: |
         Oui — Roami eSIM est 80-90% moins chère que les tarifs de roaming des opérateurs traditionnels. Un forfait 5GB pour Kenya coûte $9.99 chez Roami, contre $50 à $100 chez la plupart des opérateurs. En plus d'économiser, vous bénéficiez des vitesses locales (100-300 Mbps en 5G) au lieu du roaming bridé (souvent limité à 256 kbps).
     - q: |
-        Quelle est la façon la plus simple de rester connecté à Kenya?
+        Quelle est la solution la plus pratique pour rester connecte en Kenya sans se prendre la tete?
       a: |
         L'eSIM Roami est la solution la plus simple: achetez en ligne à partir de $1.99, recevez le QR code par email en 5 minutes, installez en 2 minutes. Pas de file d'attente à l'aéroport, pas de passeport à présenter, pas de carte SIM à insérer. Votre numéro français reste actif pour les SMS, et vous êtes connecté dès l'arrivée en activant l'itinérance.
     - q: |
-        Puis-je recharger mon forfait eSIM Kenya depuis l'étranger?
+        Est-ce que la recharge du forfait eSIM Kenya est instantanee ou faut-il attendre quelques minutes?
       a: |
         Oui — la recharge se fait directement depuis l'application Roami, où que vous soyez. Le nouveau forfait est activé instantanément, sans nouveau QR code ni réinstallation. Nous recommandons de recharger lorsque vous atteignez 20% de données restantes. Roami vous envoie une notification à 70% et 90% de consommation.
     - q: |
