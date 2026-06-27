@@ -4,7 +4,6 @@ description: "Cross North America with one prepaid travel eSIM from Roami. Unlim
 date: '2026-06-11T00:00:00+00:00'
 lastmod: '2026-06-08'
 type: regional-esim
-url: /north-america-esim/
 breadcrumbs:
 - name: Home
   url: /

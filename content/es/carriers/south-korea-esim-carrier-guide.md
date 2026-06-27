@@ -1,6 +1,6 @@
 ---
-title: "eSIM Corea del Sur: 5G de alta velocidad en todo el pais"
-description: "Seul y Busan tienen las redes 5G mas rapidas de Asia con Roami en Corea del Sur. La eSIM se activa al instante via QR. Velocidad excelente para navegar en todo el."
+title: "eSIM Corea del Sur — los operadores 5G que recomiendan viajeros"
+description: "Conéctate al instante en Corea del Sur con Roami eSIM de operadores de primer nivel. Velocidad 4G/5G y datos flexibles. Olvídate del roaming caro y las SIMs físicas para siempre."
 date: "2026-06-23T05:23:24+00:00"
 keywords: "eSIM Corea del Sur, datos prepago, red 5G, SK Telecom, LG U+, KT, viaje Corea, eSIM viajero"
 site_name: "Roami"

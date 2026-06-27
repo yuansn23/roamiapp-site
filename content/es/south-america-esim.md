@@ -4,7 +4,6 @@ description: "Roami eSIM Sudamérica: Prepago 5G en Brasil, Argentina, Chile, Co
 date: '2026-06-23'
 lastmod: '2026-06-23'
 type: regional-esim
-url: /south-america-esim/
 breadcrumbs:
 - name: Inicio
   url: /

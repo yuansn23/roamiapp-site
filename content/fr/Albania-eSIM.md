@@ -464,10 +464,10 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'eSIM pour les Albania contre prépayée : comparaison de la vitesse, de la couverture et du prix'
+  title: 'eSIM pour les Albanie contre prépayée : comparaison de la vitesse, de la couverture et du prix'
   subtitle: Cartes SIM prépayées locales en Albanie contre solutions eSIM (benchmark 2024/2025)
   citation:
-    text: 'Source des données : Prepaid Data SIM Card Wiki (Albania) + sites Web des opérateurs locaux'
+    text: 'Source des données : Prepaid Data SIM Card Wiki (Albanie) + sites Web des opérateurs locaux'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Albania
   table_headers:
   - Matrice de comparaison
@@ -493,11 +493,11 @@ market_analysis:
   - icon: globe
     title: Itinérance<br>internationale
     prepaid_title: ''
-    prepaid_desc: 'L''itinérance internationale est limitée : les forfaits One Albania interdisent le roaming sur les forfaits
+    prepaid_desc: 'L''itinérance internationale est limitée : les forfaits One Albanie interdisent le roaming sur les forfaits
       courts (Ditore, Javore) et les forfaits haut de gamme comme Unlimited XL (33 Go) ne permettent que 3,43 Go en roaming
       dans les Balkans occidentaux, soit une réduction de 90 %.'
     esim_title: Itinérance mondiale sans réduction
-    esim_desc: 'Contrairement aux forfaits One Albania qui réduisent le roaming de 90 % (ex: 33 Go limités à 3,43 Go dans
+    esim_desc: 'Contrairement aux forfaits One Albanie qui réduisent le roaming de 90 % (ex: 33 Go limités à 3,43 Go dans
       les Balkans), Roami eSIM offre un pool de données fixe utilisable dans plusieurs pays sans perte de volume.'
   - icon: calendar-xmark
     title: Cycle de facturation et<br>coûts perdus
@@ -522,7 +522,7 @@ market_analysis:
       refus de paiement international ou un support en anglais insuffisant.
     esim_title: Paiement global simplifié
     esim_desc: Payez avec Visa, Mastercard, AMEX, Apple Pay, Google Pay ou PayPal. Pas de risque de refus de carte étrangère
-      comme sur les sites One Albania ou Vodafone.
+      comme sur les sites One Albanie ou Vodafone.
   - icon: headset
     title: Support client
     prepaid_title: ''
@@ -532,7 +532,7 @@ market_analysis:
     esim_desc: Bénéficiez d'un support en français et anglais 24h/24 et 7j/7, contrairement au support local albanais limité
       aux horaires de bureau et à la langue locale.
   expert_verdict:
-    title: 'eSIM pour les Albania : l''alternative plus intelligente et économique pour une connectivité sans stress'
+    title: 'eSIM pour les Albanie : l''alternative plus intelligente et économique pour une connectivité sans stress'
     cards:
     - icon: clock
       icon_bg: bg-indigo-100
@@ -544,7 +544,7 @@ market_analysis:
       icon_bg: bg-blue-100
       icon_color: text-blue-600
       title: Contournez les exigences strictes de passeport en Albanie
-      desc: Les opérateurs Vodafone et One Albania exigent un passeport et une adresse locale pour activer une carte SIM.
+      desc: Les opérateurs Vodafone et One Albanie exigent un passeport et une adresse locale pour activer une carte SIM.
         Avec Roami eSIM, <b>aucune pièce d'identité</b> n'est nécessaire, activation en 1 minute.
     - icon: tower-observation
       icon_bg: bg-rose-100

@@ -467,10 +467,10 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'eSIM pour les Egypt contre carte SIM physique : quelle est la meilleure pour voyager ?'
+  title: 'eSIM pour les Egypte contre carte SIM physique : quelle est la meilleure pour voyager ?'
   subtitle: Cartes SIM prépayées locales en Égypte contre solutions eSIM (benchmark 2024/2025)
   citation:
-    text: 'Source des données : Prepaid Data SIM Card Wiki (Egypt) + sites Web des opérateurs locaux'
+    text: 'Source des données : Prepaid Data SIM Card Wiki (Egypte) + sites Web des opérateurs locaux'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Egypt
   table_headers:
   - Matrice de comparaison
@@ -535,7 +535,7 @@ market_analysis:
     esim_desc: Bénéficiez d'un support en français et anglais 24h/24, contrairement aux opérateurs locaux dont le service
       est souvent en arabe et aux horaires limités.
   expert_verdict:
-    title: 'eSIM pour les Egypt ou carte SIM prépayée : la solution ultime pour une meilleure connectivité sans stress'
+    title: 'eSIM pour les Egypte ou carte SIM prépayée : la solution ultime pour une meilleure connectivité sans stress'
     cards:
     - icon: globe
       icon_bg: bg-teal-100

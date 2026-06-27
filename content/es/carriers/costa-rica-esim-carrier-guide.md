@@ -1,6 +1,6 @@
 ---
-title: "eSIM Costa Rica: navega con 4G y 5G por todo el pais"
-description: "Roami ofrece redes 4G y 5G en Costa Rica con cobertura desde San Jose hasta las playas del Pacifico. La eSIM se activa escaneando un QR. Velocidad adecuada para."
+title: "eSIM Costa Rica — operadores con red 5G y velocidad premium"
+description: "Llegar a Costa Rica y conectarse es fácil con Roami eSIM de operadores locales. Velocidad 4G/5G y datos flexibles. Activa desde casa, llega conectado. Viajar nunca fue tan sencillo."
 date: "2026-06-23T05:20:16+00:00"
 keywords: "eSIM Costa Rica, datos prepago, red 5G, Claro, Kölbi, Telecable, Metrocom, velocidad internet Costa Rica"
 site_name: "Roami"

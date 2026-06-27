@@ -487,10 +487,10 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'eSIM pour les Malta contre prépayée locale : qu''est-ce qui est le plus pratique ?'
+  title: 'eSIM pour les Malte contre prépayée locale : qu''est-ce qui est le plus pratique ?'
   subtitle: Cartes SIM prépayées locales à Malte contre solutions eSIM (benchmark 2024/2025)
   citation:
-    text: 'Source des données : Prepaid Data SIM Card Wiki (Malta) + sites Web des opérateurs locaux'
+    text: 'Source des données : Prepaid Data SIM Card Wiki (Malte) + sites Web des opérateurs locaux'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Malta
   table_headers:
   - Matrice de comparaison
@@ -555,7 +555,7 @@ market_analysis:
     esim_desc: Bénéficiez d'un support client disponible 24h/24 et 7j/7 en français, anglais et autres langues, contrairement
       aux horaires limités (lun-ven 9h-17h) des opérateurs maltais.
   expert_verdict:
-    title: 'eSIM pour les Malta : la solution ultime pour une connectivité sans stress et économique'
+    title: 'eSIM pour les Malte : la solution ultime pour une connectivité sans stress et économique'
     cards:
     - icon: passport
       icon_bg: bg-blue-100

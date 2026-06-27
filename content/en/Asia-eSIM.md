@@ -4,7 +4,6 @@ description: "Explore Asia with Roami's best prepaid travel eSIM. Unlimited 5G d
 date: '2026-06-11T00:00:00+00:00'
 lastmod: '2026-06-08'
 type: regional-esim
-url: /asia-esim/
 breadcrumbs:
 - name: Home
   url: /

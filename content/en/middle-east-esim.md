@@ -4,7 +4,6 @@ description: "Roami Middle East eSIM: Prepaid 5G in UAE, Saudi Arabia, Qatar, Tu
 date: '2026-06-08'
 lastmod: '2026-06-08'
 type: regional-esim
-url: /middle-east-esim/
 breadcrumbs:
 - name: Home
   url: /

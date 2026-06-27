@@ -5,7 +5,6 @@ description: Mantente conectado en toda Ocean√≠a con una eSIM prepago de Roami ‚
 date: '2026-06-22'
 lastmod: '2026-06-22'
 type: regional-esim
-url: /oceania-esim/
 breadcrumbs:
 - name: Inicio
   url: /

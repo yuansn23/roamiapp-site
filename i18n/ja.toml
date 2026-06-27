@@ -1,0 +1,297 @@
+# 通用按钮与标签
+[download_on_the]
+other = "でダウンロード"
+
+[app_store]
+other = "App Store"
+
+[get_it_on]
+other = "で入手"
+
+[google_play]
+other = "Google Play"
+
+[visit_our]
+other = "公式サイトへ"
+
+[official_website]
+other = "公式サイト"
+
+[view_plans]
+other = "プランを見る"
+
+[web]
+other = "Web"
+
+[android]
+other = "Android"
+
+[404_page_not_found]
+other = "404 – ページが見つかりません"
+
+[404_message]
+other = "お探しのページは見つかりませんでした。移動されたか、存在しなくなった可能性があります。ご安心ください — 旅行の旅にお戻りください。"
+
+[404_back_home]
+other = "ホームに戻る"
+
+[404_promo_title]
+other = "あなただけの特別オファー"
+
+[404_promo_desc]
+other = "初回eSIM購入が20%オフ"
+
+[404_promo_code]
+other = "web20"
+
+[404_promo_cta]
+other = "割引を適用する"
+
+[404_promo_note]
+other = "登録不要。新規ユーザー限定。"
+
+# 弹窗相关
+[friendly_reminder]
+other = "サービス更新のお知らせ"
+
+[modal_upgrade_desc]
+other = "サービスがアップグレードされました。プロモーションコード web20 を公式サイトまたはアプリで入手してください。"
+
+[cancel]
+other = "キャンセル"
+
+[proceed]
+other = "続行"
+
+# 悬浮按钮文本
+[get_esim_discount]
+other = "eSIMを20%割引で入手"
+
+# FAQ 标题和描述
+[faq_title]
+other = "よくある質問"
+
+[faq_desc]
+other = "グローバルeSIMサービスについて知っておくべきすべての情報。"
+
+# 以下是您原有但可能未使用的，保留不影响（可选）
+[modal_title_ios]
+other = "サービス更新のお知らせ"
+
+[modal_text_ios]
+other = "割引コードを入手するため、公式アプリにリダイレクトされます。"
+
+[tldr_summary_title]
+other = "旅行者向けクイックサマリー"
+
+[modal_cancel]
+other = "キャンセル"
+
+[modal_continue]
+other = "続行"
+
+[global_connectivity_expert]
+other = "グローバル接続のエキスパート"
+
+[structured_data_org_description]
+other = "200カ国で高速データローミングを提供するプロフェッショナルグローバルeSIMサービスプロバイダー。"
+
+[structured_data_product_description]
+other = "200以上の国で利用可能なプリペイド旅行eSIMプラン。即時アクティベーションと5G/4G高速インターネット。"
+
+[structured_data_faq1_question]
+other = "USA eSIMの購入方法は？"
+
+[structured_data_faq1_answer]
+other = "USA eSIMを購入するには、Roamiアプリをダウンロードし、目的地としてアメリカ合衆国を選択し、ニーズに合ったデータプランを選んで購入を完了します。アクティベーションは即時です。"
+
+[structured_data_faq2_question]
+other = "日本eSIMをオンラインで購入するには？"
+
+[structured_data_faq2_answer]
+other = "Roamiで日本eSIMを購入するのは簡単です。アプリで日本を検索し、お好みの5G/4Gデータパッケージを選択し、出発前にQRコードまたはワンクリックアクティベーションでインストールします。"
+
+[structured_data_faq3_question]
+other = "ヨーロッパ、イギリス、フランスのeSIMを入手するには？"
+
+[structured_data_faq3_answer]
+other = "Roamiはヨーロッパ地域向けeSIMのほか、イギリス、フランス、イタリア、ドイツ、スペイン向けのローカルプランを提供しています。アプリで目的地を選択するだけで、ローミング料金なしですぐに接続できます。"
+
+[structured_data_faq4_question]
+other = "Airalo、Nomad、Holafly、UbigiよりもRoamiを選ぶ理由は？"
+
+[structured_data_faq4_answer]
+other = "Airalo、Nomad eSIM、Holafly、Saily eSIM、Yesim、MobiMatter、GigSkyも選択肢ですが、Roamiは1.99ドルからの非常に競争力のある価格、24時間年中無休の有人サポート、200以上の国での返金保証を提供しています。"
+
+[software_description]
+other = "高速旅行接続のためのグローバルeSIMプロバイダー。"
+
+[last_updated]
+other = "最終更新日"
+
+[select_language]
+other = "言語を選択"
+
+[language]
+other = "言語"
+
+[close]
+other = "閉じる"
+
+[fifa_title_line1]
+other = "シームレスな接続"
+
+[fifa_title_line2]
+other = "2026 FIFAワールドカップ™"
+
+[fifa_desc]
+other = "全開催都市での旅を支えるグローバル旅行eSIM。接続を保ち、すべての瞬間を共有しましょう。"
+
+[fifa_guide_text]
+other = "✈️ 国境なき旅 — 今すぐeSIMを入手"
+
+[fifa_card1_title]
+other = "ローミング不要"
+
+[fifa_card1_desc]
+other = "現地料金で"
+
+[fifa_card2_title]
+other = "1枚のSIMで3カ国"
+
+[fifa_card2_desc]
+other = "アメリカ・カナダ・メキシコ"
+
+[fifa_card3_title]
+other = "即時アクティベーション"
+
+[fifa_card3_desc]
+other = "出発前に準備完了"
+
+[fifa_country_canada]
+other = "🇨🇦 カナダ"
+
+[fifa_country_mexico]
+other = "🇲🇽 メキシコ"
+
+[fifa_country_usa]
+other = "🇺🇸 アメリカ"
+
+[fifa_5g]
+other = "⚡ 5G対応"
+
+[fifa_button]
+other = "ワールドカップeSIMを入手"
+
+[premium_coverage]
+other = "プレミアムカバレッジ"
+
+[regional_plans_title]
+other = "地域別＆グローバルプラン"
+
+[regional_subtitle]
+other = "1枚のeSIMで複数国を旅行 — SIMの交換なし、即時アクティベーション、ローミングと比べて30%節約。"
+
+[faq_title2]
+other = "eSIM互換性に関するよくある質問"
+
+[breadcrumb_home]
+other = "ホーム"
+
+[breadcrumb_blog]
+other = "ブログ"
+
+[breadcrumb_separator]
+other = "/"
+
+[minutes_read]
+other = "分で読める"
+
+[table_of_contents]
+other = "📑 目次"
+
+[you_might_also_like]
+other = "🔗 こちらもおすすめ"
+
+[popular_destinations]
+other = "人気のeSIM渡航先"
+
+[promo_limited_offer]
+other = "🔥 期間限定オファー 🔥"
+
+[promo_use_code]
+other = "コードを使用"
+
+[promo_checkout]
+other = "⭐ チェックアウト時にコードを入力して割引を適用 ⭐"
+
+[promo_stats_text]
+other = "Roamiに切り替えた100万人以上の旅行者に参加。{{ .Countries }}カ国で5G。{{ .Price }}からのプラン。即時アクティベーション。"
+
+[region_country_title]
+other = "{{ .RegionName }} eSIMは{{ .TotalCountries }}カ国で動作"
+
+[coverage_stats_text]
+other = "1枚のeSIMが各国で最強のローカルネットワークに自動接続します。<strong class=\"text-orange-600\">{{ .FiveGCount }}カ国が5G対応</strong>、{{ .FourGCount }}カ国が信頼性の高い4G/LTEを提供。各国の設定ガイドやキャリア詳細はタップで確認。"
+
+[powered_by_operators]
+other = "{{ .RegionName }}の主要モバイルオペレーターが提供"
+
+[auto_switch_carriers]
+other = "Roami eSIMは<strong class=\"text-orange-600\">{{ .CarrierCount }}以上のキャリア</strong>を自動切替して最良の信号を確保します。"
+
+[network_partners_label]
+other = "ネットワークパートナー"
+
+[premium_carrier_partners_title]
+other = "{{ .Count }}以上のプレミアムキャリアパートナー"
+
+[network_partners_description]
+other = "Roami eSIMは最適なローカルネットワークに自動接続します。手動切り替えは不要です。"
+
+[esim_auto_connect]
+other = "{{ .HQ }}の主要オペレーターの1つ。eSIMは自動接続します{{ .CountriesSuffix }}。"
+
+[carrier_roaming_title]
+other = "キャリアのローミング"
+
+[carrier_roaming_badge]
+other = "隠れた手数料"
+
+[carrier_roaming_estimate]
+other = "2週間の旅行の見積もり"
+
+[roami_title]
+other = "Roami {{ .RegionName }} eSIM"
+
+[roami_badge]
+other = "最高の価値"
+
+[roami_price_label]
+other = "1.99ドルから"
+
+[roami_plan_description]
+other = "旅行全体で5ドルからのプリペイドプラン"
+
+[esim_vs_carrier_roaming]
+other = "{{ .RegionName }} eSIM vs. キャリアローミング"
+
+[heading_beyond_region]
+other = "{{ .RegionName }}以外の地域へ?"
+
+[try_free_button]
+other = "無料eSIMを試す"
+
+[regionQuestionsTitle]
+other = "{{ .RegionName }} eSIM: 旅行者がよく尋ねる質問"
+
+[stats]
+countries = "国数"
+carriers = "キャリア数"
+coverage_5g = "5Gカバレッジ"
+
+[home]
+other = "ホーム"
+
+[carriers]
+other = "通信事業者"

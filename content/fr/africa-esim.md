@@ -1,8 +1,8 @@
 ---
 title: Afrique eSIM | 30 pays, 5G du Cap au Caire
 description: Restez connecté à travers l'Afrique avec une seule eSIM prépayée Roami — la meilleure eSIM pour voyager en Afrique. 5G dans 30 pays, dont l'Afrique du Sud, l'Égypte, le Maroc, le Kenya et le Nigeria. Forfaits prépayés avec activation instantanée, sans frais d'itinérance et vitesses réseau locales. À partir de 1,99 $.
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-06-26'
+lastmod: '2026-06-26'
 type: regional-esim
 breadcrumbs:
 - name: Accueil

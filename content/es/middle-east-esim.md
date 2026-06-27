@@ -1,173 +1,172 @@
 ---
-title: "eSIM Oriente Medio | 12 Países, 5G Rápido, Sin Roaming"
-description: "Roami eSIM Oriente Medio: 5G prepago en Emiratos Árabes, Arabia Saudita, Catar, Turquía y 8 países más. Activación instantánea, sin tarifas de roaming. Desde $1.99."
-date: '2026-06-22'
-lastmod: '2026-06-22'
+title: Nahost eSIM | 12 Länder, schnelles 5G, kein Roaming
+description: Bleiben Sie mit einer einzigen prepaid Roami eSIM im Nahen Osten verbunden – die beste eSIM für Reisen im Nahen Osten. 5G in den VAE, Saudi-Arabien, Katar, der Türkei und 8 weiteren Ländern. Sofortige Aktivierung in lokalen Netzen. Tarife ab 1,99 $.
+date: '2026-06-08'
+lastmod: '2026-06-08'
 type: regional-esim
-url: /middle-east-esim/
 breadcrumbs:
-- name: Inicio
+- name: Startseite
   url: /
-- name: eSIM Oriente Medio
+- name: Nahost eSIM
   url: /middle-east-esim/
 region:
-  name: Oriente Medio
+  name: Naher Osten
   country_count: 12
-  coverage_note: Cobertura 5G en el Golfo, el Levante y Turquía
+  coverage_note: 5G-Abdeckung in den Golfstaaten, der Levante und der Türkei
   url: /middle-east-esim/
 hero:
-  h1_line1: eSIM Oriente Medio
-  h1_line2: 12 Países, Un Solo Plan
-  description: Viaja por Oriente Medio sin cambiar de tarjeta SIM. Una eSIM Roami cubre Emiratos Árabes, Arabia Saudita, Catar, Turquía y otros 8 países con 5G. Perfecto para viajeros de negocios, peregrinos y turistas.
+  h1_line1: Nahost eSIM
+  h1_line2: 12 Länder, ein Tarif
+  description: Reisen Sie durch den Nahen Osten, ohne die SIM-Karte zu wechseln. Eine Roami eSIM deckt die VAE, Saudi-Arabien, Katar, die Türkei und 8 weitere Länder mit 5G ab. Ideal für Geschäftsreisende, Pilger und Touristen.
   image: /img/esim/region/middle-east-esim-hero.jpg
-  image_alt: Mapa de cobertura de eSIM Oriente Medio que muestra conectividad 5G en 12 países
+  image_alt: Nahost eSIM Abdeckungskarte mit 5G-Konnektivität in 12 Ländern
   primary_cta_url: /plans/
-  primary_cta_text: Ver Planes
+  primary_cta_text: Tarife ansehen
   secondary_cta_url: /free-esim/
-  secondary_cta_text: Prueba eSIM Gratis
+  secondary_cta_text: Kostenlose eSIM testen
   trust_badges:
-  - 12 países
-  - Velocidad 5G
-  - Planes desde $1.99
-  - Activación instantánea
+  - 12 Länder
+  - 5G-Geschwindigkeiten
+  - Tarife ab 1,99 $
+  - Sofortige Aktivierung
 why_section:
-  title: ¿Por qué elegir una eSIM regional para Oriente Medio?
-  subtitle: Desde los rascacielos de Dubái hasta los bazares de Estambul, un solo plan regional te evita la molestia de comprar una nueva SIM en cada frontera de Oriente Medio.
+  title: Warum eine regionale Nahost-eSIM?
+  subtitle: Von Dubai Wolkenkratzern bis zu Istanbuler Basaren – ein einziger regionaler Tarif erspart Ihnen den Kauf einer neuen SIM-Karte an jeder Grenze im Nahen Osten.
   cards:
   - icon: globe
     color: blue
-    title: Cobertura transfronteriza
-    description: "Vuela de Dubái a Doha y a Estambul: tus datos siguen funcionando. Sin nueva SIM en cada aeropuerto. Un solo plan cubre el Golfo, el Levante y Turquía con 5G."
+    title: Grenzüberschreitende Abdeckung
+    description: Fliegen Sie von Dubai nach Doha nach Istanbul – Ihre Datenverbindung bleibt bestehen. Keine neue SIM an jedem Flughafen. Ein Tarif deckt die Golfstaaten, die Levante und die Türkei mit 5G ab.
   - icon: currency
     color: green
-    title: Ahorra frente a planes por país
-    description: Comprar eSIM separadas para Emiratos Árabes, Arabia Saudita y Turquía costaría más de $20. Un plan regional cubre los 12 países por una fracción del coste.
+    title: Sparen vs. länderspezifische Tarife
+    description: Separate eSIMs für die VAE, Saudi-Arabien und die Türkei würden 20 $+ kosten. Ein regionaler Tarif deckt alle 12 Länder für einen Bruchteil der Kosten ab.
   - icon: lightning
     color: purple
-    title: 5G lista para negocios
-    description: Los estados del Golfo cuentan con algunas de las redes 5G más rápidas del mundo. Roami te conecta a Etisalat, STC, Ooredoo y más con una sola eSIM.
+    title: Geschäftsreifes 5G
+    description: Die Golfstaaten verfügen über einige der schnellsten 5G-Netze der Welt. Roami verbindet Sie mit Etisalat, STC, Ooredoo und mehr – mit nur einer eSIM.
 country_section:
-  title: Los 12 países de Oriente Medio cubiertos
-  subtitle: Haz clic en cualquier país para ver información detallada de operadores, velocidades 5G y precios locales.
+  title: Alle 12 Länder im Nahen Osten werden abgedeckt
+  subtitle: Klicken Sie auf ein beliebiges Land, um detaillierte Informationen zu den Anbietern, 5G-Geschwindigkeiten und lokalen Preisen zu erhalten.
   subregions:
   - key: gulf
-    title: Estados del Golfo
+    title: Golfstaaten
     color: blue
   - key: levant
-    title: Levante y más allá
+    title: Levante & mehr
     color: amber
 carrier_section:
-  title: Principales operadores asociados en Oriente Medio
-  subtitle: Roami se asocia con más de 20 operadores locales en Oriente Medio. La región del Golfo tiene algunas de las redes 5G más rápidas del mundo.
-  footnote: '* Las velocidades reales de red dependen de tu ubicación, hora del día y congestión de la red. La disponibilidad de 5G varía según el país y el operador.'
+  title: Top-Partnerbetreiber im Nahen Osten
+  subtitle: Roami arbeitet mit über 20 lokalen Betreibern im Nahen Osten zusammen. Die Golfregion verfügt über die weltweit schnellsten 5G-Netze.
+  footnote: '* Die tatsächlichen Netzgeschwindigkeiten hängen von Ihrem Standort, der Tageszeit und der Netzauslastung ab. Die 5G-Verfügbarkeit variiert je nach Land und Betreiber.'
 vs_roaming:
-  title: Por qué una eSIM para Oriente Medio en lugar de roaming
-  subtitle: Si usas el roaming internacional de tu operador doméstico en Oriente Medio, casi con seguridad estás pagando de más. Así se comparan.
+  title: Warum eine Nahost-eSIM anstelle von Roaming
+  subtitle: Wenn Sie das internationale Roaming Ihres Heimanbieters im Nahen Osten nutzen, bezahlen Sie mit ziemlicher Sicherheit zu viel. Hier der Vergleich.
   rows:
-  - label: Coste diario
-    roami: $0.33 - $2.00/día
-    carrier: $15 - $20/día
+  - label: Tägliche Kosten
+    roami: 0,33 - 2,00 $/Tag
+    carrier: 15 - 20 $/Tag
     highlight: true
-  - label: Viaje de negocios de 7 días al Golfo
-    roami: $5
-    carrier: $105 - $140
+  - label: 7-tägige Geschäftsreise in die Golfstaaten
+    roami: 5 $
+    carrier: 105 - 140 $
     highlight: true
-  - label: Velocidad 5G
-    roami: Velocidad 5G local completa
-    carrier: A menudo reducida a 3G
+  - label: 5G-Geschwindigkeit
+    roami: Volle lokale 5G-Geschwindigkeit
+    carrier: Oft auf 3G gedrosselt
     highlight: false
-  - label: Límite de datos
-    roami: Hasta datos ilimitados
-    carrier: A menudo limitado a 0.5GB/día
+  - label: Datenlimit
+    roami: Bis zu unlimited Daten
+    carrier: Oft auf 0,5 GB/Tag begrenzt
     highlight: false
-  - label: Múltiples países
-    roami: 12 países, sin costes extra
-    carrier: $15/día por país (puede variar)
+  - label: Mehrere Länder
+    roami: 12 Länder, keine zusätzlichen Gebühren
+    carrier: 15 $/Tag pro Land (kann variieren)
     highlight: false
-  - label: Compartir conexión (hotspot)
-    roami: Incluido sin coste
-    carrier: A menudo restringido o con coste adicional
+  - label: Hotspot-Tethering
+    roami: Kostenlos inklusive
+    carrier: Oft eingeschränkt oder kostenpflichtig
     highlight: false
-  - label: Tiempo de configuración
-    roami: 2 minutos (código QR)
-    carrier: Ya activo (pero caro)
+  - label: Einrichtungszeit
+    roami: 2 Minuten (QR-Code)
+    carrier: Bereits aktiv (aber teuer)
     highlight: false
-  saving_callout: Un viaje de negocios de una semana a Emiratos Árabes y Arabia Saudita cuesta solo <strong>$5</strong> con Roami, frente a <strong>$105-$140</strong> con roaming de operador. Eso supone un <strong>ahorro del 95%</strong>.
+  saving_callout: Eine einwöchige Geschäftsreise in die VAE und nach Saudi-Arabien kostet mit Roami nur <strong>5 $</strong> – gegenüber <strong>105-140 $</strong> mit Roaming beim Heimanbieter. Das ist eine <strong>95% Ersparnis</strong>.
   promo_code: WEB20
-  promo_discount: 20% DE DESCUENTO
-  promo_text: Usa el código <strong>WEB20</strong> al finalizar la compra para obtener un 20% adicional de descuento en tu eSIM para Oriente Medio. Este descuento se aplica a todos los planes prepago.
+  promo_discount: 20% RABATT
+  promo_text: Verwenden Sie an der Kasse den Code <strong>WEB20</strong>, um zusätzlich 20 % auf Ihre Nahost-eSIM zu sparen. Dieser Rabatt gilt für alle Prepaid-Tarife.
 faq_section:
-  subtitle: Todo lo que necesitas saber sobre el uso de una eSIM en Oriente Medio.
+  subtitle: Alles, was Sie über die Verwendung einer Nahost-eSIM wissen müssen.
 faq:
-- question: ¿Una sola eSIM de Roami funciona en todos los países del Golfo?
-  answer: Sí. Una sola eSIM Roami para Oriente Medio cubre los 6 países del CCG (Emiratos Árabes, Arabia Saudita, Catar, Kuwait, Baréin y Omán), además de Turquía, Jordania, Israel y más. Sin necesidad de cambiar de SIM en las fronteras.
-- question: ¿Es adecuada para peregrinos de Umrah y Hajj?
-  answer: "Absolutamente. El plan para Oriente Medio proporciona conectividad 5G fiable en La Meca, Medina, Jeddah y en toda Arabia Saudita. La activación instantánea significa que estás conectado en cuanto aterrizas. Consulta todos los planes eSIM prepago para Oriente Medio en nuestra [página de planes y precios](/plans/) para conocer las mejores opciones de eSIM de viaje: asequibles, con cobertura en 12 países, activación instantánea y sin tarifas de roaming."
-- question: ¿Puedo usar esta eSIM para viajes de negocios a Dubái y Doha?
-  answer: Sí. Las redes 5G del Golfo se encuentran entre las más rápidas del mundo. El uso compartido de conexión (hotspot) está incluido, por lo que puedes trabajar desde tu portátil en cualquier lugar, desde Dubai Internet City hasta una sala de conferencias en Doha.
-- question: ¿Hay cobertura 5G en todo Oriente Medio?
-  answer: Sí. Los estados del Golfo, en particular, han invertido mucho en infraestructura 5G. Roami se asocia con los principales operadores como Etisalat, STC y Ooredoo para ofrecer velocidades 5G en Emiratos Árabes, Arabia Saudita, Catar, Kuwait, Baréin y Omán.
-- question: ¿Cómo activo mi eSIM para Oriente Medio?
-  answer: "Activar tu eSIM Roami para Oriente Medio lleva menos de 2 minutos. Después de la compra, abre el correo de confirmación y escanea el código QR con la cámara de tu teléfono. Para iPhone, ve a Ajustes > Datos Móviles > Añadir eSIM. Para Android, ve a Ajustes > Red e Internet > Añadir eSIM. Tu eSIM prepago se instala antes de la salida y se activa automáticamente al llegar a Oriente Medio. Para negocios y peregrinación, es la mejor eSIM para viajar a Oriente Medio: prepago, sin tarifas de roaming, velocidades de red locales, activación instantánea por QR y garantía de reembolso del 100%."
-- question: ¿Cuánto cuesta una eSIM para Oriente Medio?
-  answer: "Los planes eSIM de Roami para Oriente Medio comienzan en solo $1.99, con planes de datos prepago desde $5 para un viaje completo. Compáralo con el roaming de operador a $10-$15 al día, y un viaje de 2 semanas te ahorra más de $130. Sin contrato y sin tarifas ocultas: pagas una vez por adelantado y obtienes opciones de datos ilimitados en todos los países incluidos."
-- question: ¿Qué pasa si mi eSIM para Oriente Medio no funciona?
-  answer: Roami ofrece una garantía de reembolso del 100%. Si tu eSIM para Oriente Medio no se activa o experimentas problemas de conectividad, contacta con nuestro equipo de soporte humano 24/7. Resolveremos el problema contigo de inmediato y, si no se puede solucionar, te haremos un reembolso completo, sin preguntas.
-- question: ¿Puedo usar mi eSIM para Oriente Medio y mantener mi número habitual?
-  answer: "Sí. La mayoría de los teléfonos modernos admiten doble SIM: una SIM física y una eSIM funcionando simultáneamente. Tu eSIM Roami para Oriente Medio maneja todos tus datos mientras tu SIM habitual mantiene activo tu número local para llamadas y mensajes. No es necesario cambiar de contrato con tu operador actual."
+- question: Funktioniert eine Roami eSIM in allen Golfstaaten?
+  answer: Ja. Eine einzige Roami Nahost-eSIM deckt alle 6 GCC-Staaten (VAE, Saudi-Arabien, Katar, Kuwait, Bahrain, Oman) sowie die Türkei, Jordanien, Israel und mehr ab. Kein SIM-Kartenwechsel an den Grenzen.
+- question: Ist sie für Umrah- und Hajj-Pilger geeignet?
+  answer: Auf jeden Fall. Der Nahost-Tarif bietet zuverlässige 5G-Konnektivität in Mekka, Medina, Jeddah und ganz Saudi-Arabien. Die sofortige Aktivierung bedeutet, dass Sie sofort nach der Landung verbunden sind. Alle Prepaid-Nahost-eSIM-Tarife finden Sie auf unserer [Tarifseite](/plans/) – erschwinglich, 12 Länder abdeckend, mit sofortiger Aktivierung und keinen Roaming-Gebühren.
+- question: Kann ich diese eSIM für Geschäftsreisen nach Dubai und Doha nutzen?
+  answer: Ja. Die 5G-Netze der Golfstaaten gehören zu den schnellsten der Welt. Hotspot-Tethering ist inklusive, sodass Sie von überall aus mit Ihrem Laptop arbeiten können – vom Dubai Internet City bis zu einem Konferenzraum in Doha.
+- question: Ist 5G im gesamten Nahen Osten verfügbar?
+  answer: Ja. Besonders die Golfstaaten haben stark in die 5G-Infrastruktur investiert. Roami arbeitet mit Top-Betreibern wie Etisalat, STC und Ooredoo zusammen, um 5G-Geschwindigkeiten in den VAE, Saudi-Arabien, Katar, Kuwait, Bahrain und Oman zu liefern.
+- question: Wie aktiviere ich meine Nahost-eSIM?
+  answer: Die Aktivierung Ihrer Roami Nahost-eSIM dauert weniger als 2 Minuten. Öffnen Sie nach dem Kauf Ihre Bestätigungs-E-Mail und scannen Sie den QR-Code mit Ihrer Handykamera. Gehen Sie auf dem iPhone zu Einstellungen > Mobilfunk > eSIM hinzufügen. Auf Android zu Einstellungen > Netzwerk & Internet > eSIM hinzufügen. Ihre Prepaid-eSIM wird vor Ihrer Abreise installiert und aktiviert sich automatisch, wenn Sie im Nahen Osten landen. Für Geschäftsreisen und Pilgerreisen ist es die beste eSIM für Reisen im Nahen Osten – Prepaid, keine Roaming-Gebühren, lokale Netzgeschwindigkeiten, sofortige QR-Aktivierung und eine 100% Geld-zurück-Garantie.
+- question: Wie viel kostet eine Nahost-eSIM?
+  answer: Die Roami Nahost-eSIM-Tarife beginnen bei nur 1,99 $, mit Prepaid-Datentarifen ab 5 $ für eine ganze Reise. Vergleichen Sie das mit Roaming beim Heimanbieter von 10-15 $ pro Tag – bei einer 2-wöchigen Reise sparen Sie 130 $+. Es gibt keinen Vertrag und keine versteckten Gebühren. Sie zahlen einmal im Voraus und erhalten unbegrenzte Datenoptionen in allen enthaltenen Ländern.
+- question: Was ist, wenn meine Nahost-eSIM nicht funktioniert?
+  answer: Roami bietet eine 100% Geld-zurück-Garantie. Wenn Ihre Nahost-eSIM nicht aktiviert wird oder Sie Verbindungsprobleme haben, kontaktieren Sie unseren 24/7 menschlichen Support. Wir werden sofort mit Ihnen gemeinsam das Problem beheben, und wenn das Problem nicht gelöst werden kann, erhalten Sie eine volle Rückerstattung – ohne Wenn und Aber.
+- question: Kann ich meine Nahost-eSIM nutzen und meine reguläre Nummer behalten?
+  answer: Ja. Die meisten modernen Telefone unterstützen Dual-SIM – eine physische SIM und eine eSIM, die gleichzeitig laufen. Ihre Roami Nahost-eSIM übernimmt alle Ihre Daten, während Ihre reguläre SIM Ihre Heimatnummer für Anrufe und SMS aktiv hält. Es sind keine Vertragsänderungen bei Ihrem bestehenden Anbieter erforderlich.
 cross_region_links:
-- title: eSIM Europa
+- title: Europa eSIM
   url: /europe-esim/
-  note: Turquía une Europa y Asia
-- title: eSIM Asia
+  note: Die Türkei verbindet Europa und Asien
+- title: Asien eSIM
   url: /asia-esim/
-  note: ¿Sigues hacia el este desde el Golfo?
-- title: eSIM África
+  note: Weiter östlich vom Golf?
+- title: Afrika eSIM
   url: /africa-esim/
-  note: ¿Te diriges a Egipto o Marruecos?
+  note: Auf dem Weg nach Ägypten oder Marokko?
 featured_carriers:
 - name: Etisalat
-  hq: EAU
-  speed: Excelente 5G/4G
-  rating: Excelente
-  countries: EAU
+  hq: VAE
+  speed: Ausgezeichnetes 5G/4G
+  rating: Ausgezeichnet
+  countries: VAE
 - name: STC
-  hq: Arabia Saudita
-  speed: Excelente 5G/4G
-  rating: Excelente
-  countries: Arabia Saudita, Kuwait, Baréin
+  hq: Saudi-Arabien
+  speed: Ausgezeichnetes 5G/4G
+  rating: Ausgezeichnet
+  countries: Saudi-Arabien, Kuwait, Bahrain
 - name: Ooredoo
-  hq: Catar
-  speed: Excelente 5G/4G
-  rating: Excelente
-  countries: Catar, Kuwait, Omán
+  hq: Katar
+  speed: Ausgezeichnetes 5G/4G
+  rating: Ausgezeichnet
+  countries: Katar, Kuwait, Oman
 - name: Turkcell
-  hq: Turquía
-  speed: Muy buena 5G/4G
-  rating: Muy buena
-  countries: Turquía
+  hq: Türkei
+  speed: Sehr gutes 5G/4G
+  rating: Sehr gut
+  countries: Türkei
 - name: Zain
   hq: Kuwait
-  speed: Muy buena 5G/4G
-  rating: Muy buena
-  countries: Kuwait, Arabia Saudita, Baréin, Jordania, Irak
+  speed: Sehr gutes 5G/4G
+  rating: Sehr gut
+  countries: Kuwait, Saudi-Arabien, Bahrain, Jordanien, Irak
 countries:
   gulf:
-  - name: Emiratos Árabes Unidos
+  - name: VAE
     url: /united-arab-emirates-esim/
     flag: 🇦🇪
     carriers: Etisalat, du
     is_popular: true
     flag_image: /img/flags/ae.svg
     network: 5G
-  - name: Arabia Saudita
+  - name: Saudi-Arabien
     url: /saudi-arabia-esim/
     flag: 🇸🇦
     carriers: STC, Mobily, Zain
     is_popular: true
     flag_image: /img/flags/sa.svg
     network: 5G
-  - name: Catar
+  - name: Katar
     url: /qatar-esim/
     flag: 🇶🇦
     carriers: Ooredoo, Vodafone QA
@@ -181,14 +180,14 @@ countries:
     is_popular: false
     flag_image: /img/flags/kw.svg
     network: 5G
-  - name: Baréin
+  - name: Bahrain
     url: /bahrain-esim/
     flag: 🇧🇭
     carriers: Batelco, Zain, STC
     is_popular: false
     flag_image: /img/flags/bh.svg
     network: 5G
-  - name: Omán
+  - name: Oman
     url: /oman-esim/
     flag: 🇴🇲
     carriers: Omantel, Ooredoo, Vodafone OM
@@ -196,14 +195,14 @@ countries:
     flag_image: /img/flags/om.svg
     network: 5G
   levant:
-  - name: Turquía
+  - name: Türkei
     url: /turkey-esim/
     flag: 🇹🇷
     carriers: Turkcell, Vodafone, Turk Telekom
     is_popular: true
     flag_image: /img/flags/tr.svg
     network: 5G
-  - name: Jordania
+  - name: Jordanien
     url: /jordan-esim/
     flag: 🇯🇴
     carriers: Zain, Orange, Umniah
@@ -224,14 +223,14 @@ countries:
     is_popular: false
     flag_image: /img/flags/iq.svg
     network: 4G
-  - name: Azerbaiyán
+  - name: Aserbaidschan
     url: /azerbaijan-esim/
     flag: 🇦🇿
     carriers: Azercell, Bakcell, Nar
     is_popular: false
     flag_image: /img/flags/az.svg
     network: 4G
-  - name: Armenia
+  - name: Armenien
     url: /armenia-esim/
     flag: 🇦🇲
     carriers: Viva-MTS, Ucom

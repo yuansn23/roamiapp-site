@@ -4,7 +4,6 @@ description: "Roami eSIM África: Prepago 5G en 30 países: Sudáfrica, Egipto, 
 date: '2026-06-22'
 lastmod: '2026-06-22'
 type: regional-esim
-url: /africa-esim/
 breadcrumbs:
 - name: Inicio
   url: /

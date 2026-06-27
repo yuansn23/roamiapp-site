@@ -1,6 +1,6 @@
 ---
-title: "eSIM Colombia: datos 4G y 5G en las principales ciudades"
-description: "Bogota, Medellin y Cartagena tienen redes 4G y 5G con Roami en Colombia. La eSIM se activa al instante via QR. Para mantener la conexion durante viajes sin procesos."
+title: "eSIM Colombia. Operadores y velocidad de datos para viajeros"
+description: "Para conocer Colombia nada mejor que Roami eSIM con operadores 5G. Cobertura nacional, precios justos e internet rápido y estable. Viaja sin preocupaciones ni cargos ocultos en tu factura."
 date: "2026-06-23T05:20:16+00:00"
 keywords: "eSIM Colombia, datos prepago, red 5G, Claro, Movistar, Tigo, cobertura Colombia, eSIM viajero"
 site_name: "Roami"

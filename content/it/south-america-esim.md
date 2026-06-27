@@ -1,173 +1,173 @@
 ---
-title: Sud America eSIM | 11 paesi, 5G da 1,99 $
-description: Esplora il Sud America con una sola eSIM prepagata Roami – la migliore eSIM per viaggiare in Sud America. 5G in Brasile, Argentina, Cile, Colombia, Perù e altri 6 paesi. Attivazione immediata sulle reti locali. Tariffe a partire da 1,99 $.
+title: Südamerika eSIM | 11 Länder, 5G ab 1,99 $
+description: Entdecken Sie Südamerika mit einer einzigen prepaid Roami eSIM – der besten eSIM für Reisen in Südamerika. 5G in Brasilien, Argentinien, Chile, Kolumbien, Peru und 6 weiteren Ländern. Sofortige Aktivierung in lokalen Netzen. Tarife ab 1,99 $.
 date: '2026-06-08'
 lastmod: '2026-06-08'
 type: regional-esim
 breadcrumbs:
-- name: Home
+- name: Startseite
   url: /
-- name: Sud America eSIM
+- name: Südamerika eSIM
   url: /south-america-esim/
 region:
-  name: Sud America
+  name: Südamerika
   country_count: 11
-  coverage_note: Copertura 5G in 11 paesi del Sud America
+  coverage_note: 5G-Abdeckung in 11 südamerikanischen Ländern
   url: /south-america-esim/
 hero:
-  h1_line1: Sud America eSIM
-  h1_line2: 11 paesi, copertura 5G
-  description: Esplora il Sud America con una sola eSIM Roami. 5G in Brasile, Argentina, Cile, Colombia, Perù e altri 6 paesi. Attivazione immediata prima della partenza. Nessun costo di roaming ai confini. Tariffe a partire da 1,99 $.
+  h1_line1: Südamerika eSIM
+  h1_line2: 11 Länder, 5G-Abdeckung
+  description: Entdecken Sie Südamerika mit einer Roami eSIM. 5G in Brasilien, Argentinien, Chile, Kolumbien, Peru und 6 weiteren Ländern. Sofortige Aktivierung vor Ihrer Abreise. Keine Roaming-Gebühren an keiner Grenze. Tarife ab 1,99 $.
   image: /img/esim/region/south-america-esim-hero.jpg
-  image_alt: Mappa di copertura Sud America eSIM che mostra la connettività 5G in 11 paesi
+  image_alt: Südamerika eSIM Abdeckungskarte mit 5G-Konnektivität in 11 Ländern
   primary_cta_url: /plans/
-  primary_cta_text: Vedi le tariffe
+  primary_cta_text: Tarife ansehen
   secondary_cta_url: /free-esim/
-  secondary_cta_text: Prova l'eSIM gratuita
+  secondary_cta_text: Kostenlose eSIM testen
   trust_badges:
-  - 11 paesi
-  - Velocità 5G
-  - Tariffe da 1,99 $
-  - Attivazione immediata
+  - 11 Länder
+  - 5G-Geschwindigkeiten
+  - Tarife ab 1,99 $
+  - Sofortige Aktivierung
 why_section:
-  title: Perché scegliere un'eSIM regionale per il Sud America?
-  subtitle: Viaggia con zaino in spalla da Rio a Buenos Aires e Lima senza acquistare una nuova SIM in ogni paese. Una sola tariffa regionale copre l'intero continente.
+  title: Warum eine regionale Südamerika-eSIM?
+  subtitle: Rucksacktour von Rio über Buenos Aires nach Lima, ohne in jedem Land eine neue SIM zu kaufen. Ein regionaler Tarif deckt den gesamten Kontinent ab.
   cards:
   - icon: globe
     color: blue
-    title: Copertura transfrontaliera
-    description: Percorri l'itinerario classico Brasile → Argentina → Cile → Perù con una sola eSIM. Nessun cambio di SIM ai confini. Un passaggio transfrontaliero fluido.
+    title: Grenzüberschreitende Abdeckung
+    description: Reisen Sie auf der klassischen Route von Brasilien nach Argentinien, Chile und Peru mit nur einer eSIM. Kein SIM-Kartenwechsel an den Grenzen. Nahtlose Übergänge zwischen den Ländern.
   - icon: currency
     color: green
-    title: Risparmio rispetto alle tariffe per singolo paese
-    description: Invece di acquistare 4-5 eSIM separate per diversi paesi (25 $+), una sola tariffa Sud America copre tutti gli 11 paesi a partire da soli 5 $, senza costi nascosti.
+    title: Sparen vs. länderspezifische Tarife
+    description: Statt 4-5 separate Länder-eSIMs zu kaufen (25 $+), deckt ein Südamerika-Tarif alle 11 Länder ab – ab nur 5 $ ohne versteckte Gebühren.
   - icon: lightning
     color: purple
-    title: 5G nelle grandi città
-    description: Il 5G è disponibile a San Paolo, Buenos Aires, Santiago, Lima e Bogotà. 4G/LTE affidabile ovunque altrove – anche in Patagonia e nelle Ande.
+    title: 5G in großen Städten
+    description: 5G ist in São Paulo, Buenos Aires, Santiago, Lima und Bogotá verfügbar. Zuverlässiges 4G/LTE überall sonst – selbst in Patagonien und den Anden.
 country_section:
-  title: Tutti gli 11 paesi del Sud America coperti
-  subtitle: Clicca su un paese per vedere i dettagli degli operatori, le velocità 5G e i prezzi locali.
+  title: Alle 11 südamerikanischen Länder werden abgedeckt
+  subtitle: Klicken Sie auf ein beliebiges Land, um detaillierte Informationen zu den Anbietern, 5G-Geschwindigkeiten und lokalen Preisen zu erhalten.
   subregions:
   - key: main
-    title: Sud America
+    title: Südamerika
     color: emerald
 carrier_section:
-  title: Principali operatori partner in Sud America
-  subtitle: Roami collabora con oltre 15 operatori in tutto il Sud America. Il 5G si sta espandendo rapidamente in Brasile, Cile, Argentina e Colombia.
-  footnote: "* Le velocità effettive dipendono dalla tua posizione, dall'ora del giorno e dalla congestione della rete. La disponibilità del 5G varia in base al paese e all'operatore."
+  title: Top-Partnerbetreiber in Südamerika
+  subtitle: Roami arbeitet mit über 15 Betreibern in ganz Südamerika zusammen. 5G expandiert schnell in Brasilien, Chile, Argentinien und Kolumbien.
+  footnote: '* Die tatsächlichen Netzgeschwindigkeiten hängen von Ihrem Standort, der Tageszeit und der Netzauslastung ab. Die 5G-Verfügbarkeit variiert je nach Land und Betreiber.'
 vs_roaming:
-  title: Perché un'eSIM Sud America invece del roaming
-  subtitle: Se utilizzi il roaming internazionale del tuo operatore domestico in Sud America, probabilmente stai pagando troppo. Ecco il confronto.
+  title: Warum eine Südamerika-eSIM anstelle von Roaming
+  subtitle: Wenn Sie das internationale Roaming Ihres Heimanbieters in Südamerika nutzen, bezahlen Sie mit ziemlicher Sicherheit zu viel. Hier der Vergleich.
   rows:
-  - label: Costo giornaliero
-    roami: 0,33 - 2,00 $/giorno
-    carrier: 10 - 15 $/giorno
+  - label: Tägliche Kosten
+    roami: 0,33 - 2,00 $/Tag
+    carrier: 10 - 15 $/Tag
     highlight: true
-  - label: Viaggio di 14 giorni (4 paesi)
+  - label: 14-tägige Rucksacktour (4 Länder)
     roami: 15 $
     carrier: 140 - 210 $
     highlight: true
-  - label: Velocità 5G
-    roami: Piena velocità 5G locale nelle grandi città
-    carrier: Spesso limitata al 3G
+  - label: 5G-Geschwindigkeit
+    roami: Volle lokale 5G-Geschwindigkeit in großen Städten
+    carrier: Oft auf 3G gedrosselt
     highlight: false
-  - label: Limite di dati
-    roami: Fino a dati illimitati
-    carrier: Spesso limitato a 0,5 GB/giorno
+  - label: Datenlimit
+    roami: Bis zu unlimited Daten
+    carrier: Oft auf 0,5 GB/Tag begrenzt
     highlight: false
-  - label: Paesi multipli
-    roami: 11 paesi, zero costi aggiuntivi
-    carrier: 10 $/giorno per paese (variabile)
+  - label: Mehrere Länder
+    roami: 11 Länder, keine zusätzlichen Gebühren
+    carrier: 10 $/Tag pro Land (kann variieren)
     highlight: false
-  - label: Condivisione hotspot
-    roami: Inclusa gratuitamente
-    carrier: Spesso limitata o a pagamento
+  - label: Hotspot-Tethering
+    roami: Kostenlos inklusive
+    carrier: Oft eingeschränkt oder kostenpflichtig
     highlight: false
-  - label: Tempo di configurazione
-    roami: 2 minuti (codice QR)
-    carrier: Già attivo (ma costoso)
+  - label: Einrichtungszeit
+    roami: 2 Minuten (QR-Code)
+    carrier: Bereits aktiv (aber teuer)
     highlight: false
-  saving_callout: Un viaggio di 14 giorni attraverso Brasile, Argentina, Cile e Perù costa solo <strong>15 $</strong> con Roami — contro <strong>140-210 $</strong> con il roaming dell'operatore. Un <strong>risparmio del 90%</strong>.
+  saving_callout: Eine 14-tägige Reise durch Brasilien, Argentinien, Chile und Peru kostet mit Roami nur <strong>15 $</strong> – gegenüber <strong>140-210 $</strong> mit Roaming beim Heimanbieter. Das ist eine <strong>90% Ersparnis</strong>.
   promo_code: WEB20
-  promo_discount: 20% DI SCONTO
-  promo_text: Utilizza il codice <strong>WEB20</strong> al momento del pagamento per ottenere un ulteriore 20% di sconto sulla tua eSIM Sud America. Questo sconto si applica a tutte le tariffe prepagate.
+  promo_discount: 20% RABATT
+  promo_text: Verwenden Sie an der Kasse den Code <strong>WEB20</strong>, um zusätzlich 20 % auf Ihre Südamerika-eSIM zu sparen. Dieser Rabatt gilt für alle Prepaid-Tarife.
 faq_section:
-  subtitle: Tutto ciò che devi sapere sull'uso di un'eSIM Sud America.
+  subtitle: Alles, was Sie über die Verwendung einer Südamerika-eSIM wissen müssen.
 faq:
-- question: Una sola eSIM Roami copre tutto il Sud America?
-  answer: "Sì. Una sola eSIM Roami Sud America copre 11 paesi, dal Brasile all'Argentina, dal Cile alla Colombia. Attraversa i confini senza cambiare SIM. I tuoi dati continuano a funzionare ad ogni passaggio."
-- question: C'è copertura nelle aree remote come la Patagonia e l'Amazzonia?
-  answer: "Il 5G è disponibile nelle grandi città come San Paolo, Buenos Aires, Santiago, Lima e Bogotà. Nelle aree remote come la Patagonia e l'Amazzonia, avrai un affidabile 4G/LTE vicino a città e centri turistici. Il segnale può essere debole a grande distanza dalle aree abitate. Questa è la migliore eSIM per viaggiare in Sud America — prepagata, copre 11 paesi con una sola tariffa conveniente, velocità di rete locale e attivazione immediata tramite QR. Consulta le [tariffe eSIM Sud America](/plans/) per prezzi e opzioni dati."
-- question: Posso usarla per l'itinerario classico dei viaggiatori con zaino in spalla in Sud America?
-  answer: "Assolutamente. L'itinerario Brasile → Argentina → Cile → Perù è uno dei più grandi itinerari per viaggiatori con zaino in spalla al mondo. Una sola eSIM Roami copre ogni paese di questo itinerario — non c'è bisogno di cercare una SIM locale in ogni nuovo paese."
-- question: Come attivo la mia eSIM Sud America?
-  answer: "L'attivazione della tua eSIM Roami Sud America richiede meno di 2 minuti. Dopo l'acquisto, apri l'email di conferma e scansiona il codice QR con la fotocamera del telefono. Per iPhone: Impostazioni > Cellulare > Aggiungi eSIM. Per Android: Impostazioni > Rete e Internet > Aggiungi eSIM. La tua eSIM prepagata viene installata prima della partenza e si attiva automaticamente quando atterri in Sud America."
-- question: Quanto costa un'eSIM Sud America?
-  answer: "Le tariffe Roami Sud America eSIM partono da soli 1,99 $, con piani dati prepagati a partire da 5 $ per l'intero viaggio. Confrontalo con il roaming dell'operatore a 10-15 $ al giorno – un viaggio di 2 settimane ti fa risparmiare oltre 130 $. Nessun contratto o costo nascosto – paghi una volta in anticipo e ottieni opzioni di dati illimitati in tutti i paesi coperti."
-- question: Cosa succede se la mia eSIM Sud America non funziona?
-  answer: "Roami offre una garanzia di rimborso del 100%. Se la tua eSIM Sud America non si attiva o hai problemi di connessione, contatta il nostro supporto umano 24 ore su 24, 7 giorni su 7. Risolveremo il problema con te immediatamente, e se il problema non può essere risolto, riceverai un rimborso completo – senza fare domande. Per la migliore eSIM di viaggio in Sud America, prova un periodo di prova gratuito con [eSIM Sud America gratuita](/free-esim/) o consulta le [tariffe prepagate](/plans/)."
-- question: Posso usare la mia eSIM Sud America mantenendo il mio numero normale?
-  answer: "Sì. La maggior parte dei telefoni moderni supporta la doppia SIM – una SIM fisica e una eSIM che funzionano simultaneamente. La tua eSIM Roami Sud America gestisce tutti i tuoi dati, mentre la tua SIM abituale mantiene attivo il tuo numero domestico per chiamate e SMS. Nessuna modifica al contratto con il tuo operatore esistente è necessaria."
+- question: Deckt eine Roami eSIM ganz Südamerika ab?
+  answer: Ja. Eine Roami Südamerika-eSIM deckt 11 Länder ab, von Brasilien bis Argentinien, von Chile bis Kolumbien. Überschreiten Sie Grenzen, ohne Ihre SIM-Karte zu wechseln. Ihre Datenverbindung bleibt an jedem Übergang bestehen.
+- question: Gibt es Abdeckung in abgelegenen Gebieten wie Patagonien und dem Amazonas?
+  answer: 5G ist in großen Städten wie São Paulo, Buenos Aires, Santiago, Lima und Bogotá verfügbar. In abgelegenen Gebieten wie Patagonien und dem Amazonas haben Sie in der Nähe von Städten und Touristenzentren zuverlässiges 4G/LTE. In sehr großer Entfernung von besiedelten Gebieten kann das Signal schwach sein. Es ist die beste eSIM für Reisen in Südamerika – Prepaid, Abdeckung von 11 Ländern mit einem erschwinglichen Tarif, lokale Netzgeschwindigkeiten und sofortige QR-Aktivierung. Durchstöbern Sie [Südamerika-eSIM-Tarife](/plans/) für Preise und Datenoptionen.
+- question: Kann ich diese eSIM für die klassische südamerikanische Rucksackroute nutzen?
+  answer: Auf jeden Fall. Die Route Brasilien -> Argentinien -> Chile -> Peru ist eine der großartigsten Rucksacktouren der Welt. Eine Roami eSIM deckt jedes Land auf dieser Route ab – keine Notwendigkeit, in jedem neuen Land nach einer lokalen SIM zu suchen.
+- question: Wie aktiviere ich meine Südamerika-eSIM?
+  answer: Die Aktivierung Ihrer Roami Südamerika-eSIM dauert weniger als 2 Minuten. Öffnen Sie nach dem Kauf Ihre Bestätigungs-E-Mail und scannen Sie den QR-Code mit Ihrer Handykamera. Gehen Sie auf dem iPhone zu Einstellungen > Mobilfunk > eSIM hinzufügen. Auf Android zu Einstellungen > Netzwerk & Internet > eSIM hinzufügen. Ihre Prepaid-eSIM wird vor Ihrer Abreise installiert und aktiviert sich automatisch, wenn Sie in Südamerika landen.
+- question: Wie viel kostet eine Südamerika-eSIM?
+  answer: Die Roami Südamerika-eSIM-Tarife beginnen bei nur 1,99 $, mit Prepaid-Datentarifen ab 5 $ für eine ganze Reise. Vergleichen Sie das mit Roaming beim Heimanbieter von 10-15 $ pro Tag – bei einer 2-wöchigen Reise sparen Sie 130 $+. Es gibt keinen Vertrag und keine versteckten Gebühren. Sie zahlen einmal im Voraus und erhalten unbegrenzte Datenoptionen in allen enthaltenen Ländern.
+- question: Was ist, wenn meine Südamerika-eSIM nicht funktioniert?
+  answer: Roami bietet eine 100% Geld-zurück-Garantie. Wenn Ihre Südamerika-eSIM nicht aktiviert wird oder Sie Verbindungsprobleme haben, kontaktieren Sie unseren 24/7 menschlichen Support. Wir werden sofort mit Ihnen gemeinsam das Problem beheben, und wenn das Problem nicht gelöst werden kann, erhalten Sie eine volle Rückerstattung – ohne Wenn und Aber. Für die beste eSIM für südamerikanische Rucksackreisen testen Sie eine kostenlose Testversion mit einer [kostenlosen Südamerika-eSIM](/free-esim/) oder sehen Sie sich die [Prepaid-Tarife](/plans/) an.
+- question: Kann ich meine Südamerika-eSIM nutzen und meine reguläre Nummer behalten?
+  answer: Ja. Die meisten modernen Telefone unterstützen Dual-SIM – eine physische SIM und eine eSIM, die gleichzeitig laufen. Ihre Roami Südamerika-eSIM übernimmt alle Ihre Daten, während Ihre reguläre SIM Ihre Heimatnummer für Anrufe und SMS aktiv hält. Es sind keine Vertragsänderungen bei Ihrem bestehenden Anbieter erforderlich.
 cross_region_links:
-- title: Nord America eSIM
+- title: Nordamerika eSIM
   url: /north-america-esim/
-  note: Ti stai dirigendo a nord, verso Stati Uniti o Messico?
+  note: Auf dem Weg nach Norden in die USA oder nach Mexiko?
 - title: Europa eSIM
   url: /europe-esim/
-  note: Stai attraversando l'Atlantico?
+  note: Fliegen Sie über den Atlantik?
 featured_carriers:
 - name: Vivo
-  hq: Brasile
-  speed: Eccellente 5G/4G
-  rating: Eccellente
-  countries: Brasile
+  hq: Brasilien
+  speed: Ausgezeichnetes 5G/4G
+  rating: Ausgezeichnet
+  countries: Brasilien
 - name: Movistar
-  hq: Spagna (operazioni in America Latina)
-  speed: Molto buono 5G/4G
-  rating: Molto buono
-  countries: Argentina, Cile, Colombia, Perù, Ecuador, Uruguay
+  hq: Spanien (Lateinamerika)
+  speed: Sehr gutes 5G/4G
+  rating: Sehr gut
+  countries: Argentinien, Chile, Kolumbien, Peru, Ecuador, Uruguay
 - name: Entel
-  hq: Cile
-  speed: Eccellente 5G/4G
-  rating: Eccellente
-  countries: Cile, Perù
+  hq: Chile
+  speed: Ausgezeichnetes 5G/4G
+  rating: Ausgezeichnet
+  countries: Chile, Peru
 - name: Claro
-  hq: Messico (operazioni in America Latina)
-  speed: Molto buono 5G/4G
-  rating: Molto buono
-  countries: Brasile, Colombia, Perù, Ecuador
+  hq: Mexiko (Lateinamerika)
+  speed: Sehr gutes 5G/4G
+  rating: Sehr gut
+  countries: Brasilien, Kolumbien, Peru, Ecuador
 countries:
   main:
-  - name: Brasile
+  - name: Brasilien
     url: /brazil-esim/
     flag: 🇧🇷
     carriers: Vivo, TIM, Claro
     is_popular: true
     flag_image: /img/flags/br.svg
     network: 5G
-  - name: Argentina
+  - name: Argentinien
     url: /argentina-esim/
     flag: 🇦🇷
     carriers: Movistar, Personal, Claro
     is_popular: true
     flag_image: /img/flags/ar.svg
     network: 5G
-  - name: Cile
+  - name: Chile
     url: /chile-esim/
     flag: 🇨🇱
     carriers: Entel, Movistar, WOM
     is_popular: true
     flag_image: /img/flags/cl.svg
     network: 5G
-  - name: Colombia
+  - name: Kolumbien
     url: /colombia-esim/
     flag: 🇨🇴
     carriers: Claro, Movistar, Tigo
     is_popular: true
     flag_image: /img/flags/co.svg
     network: 5G
-  - name: Perù
+  - name: Peru
     url: /peru-esim/
     flag: 🇵🇪
     carriers: Movistar, Claro, Entel
@@ -181,7 +181,7 @@ countries:
     is_popular: false
     flag_image: /img/flags/ec.svg
     network: 5G
-  - name: Bolivia
+  - name: Bolivien
     url: /bolivia-esim/
     flag: 🇧🇴
     carriers: Tigo, Entel, Viva
@@ -209,7 +209,7 @@ countries:
     is_popular: false
     flag_image: /img/flags/ve.svg
     network: 4G
-  - name: Guyana francese
+  - name: Französisch-Guayana
     url: /french-guiana-esim/
     flag: 🇬🇫
     carriers: Orange GF, Digicel

@@ -1,8 +1,8 @@
 ---
 title: Nahost eSIM | 12 Länder, schnelles 5G, kein Roaming
 description: Bleiben Sie mit einer einzigen prepaid Roami eSIM im Nahen Osten verbunden – die beste eSIM für Reisen im Nahen Osten. 5G in den VAE, Saudi-Arabien, Katar, der Türkei und 8 weiteren Ländern. Sofortige Aktivierung in lokalen Netzen. Tarife ab 1,99 $.
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-06-26'
+lastmod: '2026-06-26'
 type: regional-esim
 breadcrumbs:
 - name: Startseite

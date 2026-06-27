@@ -1,6 +1,6 @@
 ---
-title: "eSIM Camboya: internet 4G y 5G para tus viajes al sudeste"
-description: "En Camboya las redes 4G y 5G de Roami llegan a Phnom Penh y los templos de Angkor. La activacion es inmediata escaneando un QR. Para explorar el sudeste asiatico."
+title: "eSIM Camboya — velocidad 5G garantizada con operadores top"
+description: "Viajar a Camboya con Roami eSIM es la mejor decisión. Operadores rápidos con 4G/5G sin roaming. Compra online, activa QR y navegas al instante. Así de simple y eficiente es Roami."
 date: "2026-06-23T05:20:20+00:00"
 keywords: "eSIM Camboya, datos prepago, red 5G, Smart, Cellcard, MekongNet, cobertura Camboya, internet viajero"
 site_name: "Roami"

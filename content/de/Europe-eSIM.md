@@ -1,8 +1,8 @@
 ---
 title: "Europa eSIM | Günstigster Prepaid Tarif für 40+ Länder"
 description: "Reisen Sie durch Europa mit Roami. Tarife für jedes Land, zuverlässige Verbindung überall. Deckt 40+ Länder ab."
-date: '2026-06-14T00:00:00+00:00'
-lastmod: 2026-06-08
+date: '2026-06-26T00:00:00+00:00'
+lastmod: 2026-06-26
 type: regional-esim
 breadcrumbs:
 - name: Startseite

@@ -1,8 +1,8 @@
 ---
 title: "Asie eSIM | Activation immédiate pas chère"
 description: "Explorez l'Asie avec Roami. Disponible au Japon, Coree, Thailande, Inde et 12+ pays. Une eSIM pour tout le continent."
-date: '2026-06-24T00:00:00+00:00'
-lastmod: '2026-06-08'
+date: '2026-06-26T00:00:00+00:00'
+lastmod: '2026-06-26'
 type: regional-esim
  
 breadcrumbs:

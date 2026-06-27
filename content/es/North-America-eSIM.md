@@ -4,7 +4,6 @@ description: "Cruza Norteamérica con una eSIM de viaje prepago de Roami. Datos 
 date: '2026-06-23T00:00:00+00:00'
 lastmod: '2026-06-23'
 type: regional-esim
-url: /north-america-esim/
 breadcrumbs:
 - name: Inicio
   url: /

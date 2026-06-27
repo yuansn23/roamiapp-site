@@ -488,10 +488,10 @@ related_products:
     is_highlight: false
     slug: australia-esim
 market_analysis:
-  title: 'eSIM pour les Finland contre carte SIM prépayée : faut-il passer à l''eSIM ?'
+  title: 'eSIM pour les Finlande contre carte SIM prépayée : faut-il passer à l''eSIM ?'
   subtitle: Cartes SIM prépayées locales en Finlande contre solutions eSIM (benchmark 2024/2025)
   citation:
-    text: 'Source des données : Prepaid Data SIM Card Wiki (Finland) + sites Web des opérateurs locaux'
+    text: 'Source des données : Prepaid Data SIM Card Wiki (Finlande) + sites Web des opérateurs locaux'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Finland
   table_headers:
   - Matrice de comparaison
@@ -555,7 +555,7 @@ market_analysis:
     esim_desc: Bénéficiez d'un support en français 24h/24 et 7j/7, contrairement au support finnois limité des opérateurs
       locaux.
   expert_verdict:
-    title: 'eSIM pour les Finland contre prépayée : lequel vous convient le mieux ?'
+    title: 'eSIM pour les Finlande contre prépayée : lequel vous convient le mieux ?'
     cards:
     - icon: credit-card
       icon_bg: bg-emerald-100

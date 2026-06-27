@@ -4,7 +4,6 @@ description: "Explora Asia con la mejor eSIM prepago de Roami. Datos 5G ilimitad
 date: '2026-06-23T00:00:00+00:00'
 lastmod: '2026-06-23'
 type: regional-esim
-url: /asia-esim/
 breadcrumbs:
 - name: Inicio
   url: /

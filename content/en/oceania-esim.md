@@ -5,7 +5,6 @@ description: Stay connected across Oceania with one prepaid Roami eSIM — the b
 date: '2026-06-08'
 lastmod: '2026-06-08'
 type: regional-esim
-url: /oceania-esim/
 breadcrumbs:
 - name: Home
   url: /

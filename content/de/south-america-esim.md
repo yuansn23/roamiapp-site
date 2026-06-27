@@ -1,8 +1,8 @@
 ---
 title: Südamerika eSIM | 11 Länder, 5G ab 1,99 $
 description: Entdecken Sie Südamerika mit einer einzigen prepaid Roami eSIM – der besten eSIM für Reisen in Südamerika. 5G in Brasilien, Argentinien, Chile, Kolumbien, Peru und 6 weiteren Ländern. Sofortige Aktivierung in lokalen Netzen. Tarife ab 1,99 $.
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-06-26'
+lastmod: '2026-06-26'
 type: regional-esim
 breadcrumbs:
 - name: Startseite

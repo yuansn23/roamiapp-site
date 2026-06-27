@@ -386,11 +386,12 @@ footer_col1_links = [
   modal_title = "Avviso"
   modal_cancel = "Annulla"
   modal_confirm = "Inizia ora"
- 
+
+
 [languages.es]
 languageName = "Español"
 contentDir = "content/es"   # Carpeta donde irán los artículos en español
-weight = 2                  # Ajusta según el orden que quieras (inglés suele ser 1)
+weight = 7                  # Ajusta según el orden que quieras (inglés suele ser 1)
 
 [languages.es.params]
 # Barra de navegación
@@ -443,3 +444,58 @@ footer_slogan = "Proveedor profesional global de servicios eSIM | Experto en roa
 modal_title = "Aviso"
 modal_cancel = "Cancelar"
 modal_confirm = "Ir ahora"
+
+
+[languages.ja]
+languageName = "日本語"
+contentDir = "content/ja"   # 日本語の記事を置くフォルダ（必要に応じて変更）
+weight = 8                  # 優先順位（英語は通常1）
+
+[languages.ja.params]
+# ナビゲーションバー
+nav_links = [
+  { name = "ホーム", url = "/" },
+  { name = "eSIMを購入", url = "/plans/" },
+  { name = "eSIM互換性", url = "/compatibility/" },
+  { name = "無料eSIM", url = "/free-esim/" },
+  { name = "Roamiアプリ", url = "/app/" },
+  { name = "通信事業者", url = "/carriers/" }
+]
+
+# フッターテキスト
+footer_desc = "200以上の国と地域でプレミアムeSIMサービスを提供し、どこへ旅行しても接続を維持します。"
+
+footer_col1_title = "主な目的地"
+footer_col1_links = [
+  { name = "アジアeSIM", url = "/asia-esim/" },
+  { name = "ヨーロッパeSIM", url = "/europe-esim/" },
+  { name = "アフリカeSIM", url = "/africa-esim/" },
+  { name = "南米eSIM", url = "/south-america-esim/" },
+  { name = "北米eSIM", url = "/north-america-esim/" },
+  { name = "中東eSIM", url = "/middle-east-esim/" }
+]
+
+footer_col2_title = "カスタマーサポート"
+footer_col2_links = [
+  { name = "eSIM互換性", url = "/compatibility/" },
+  { name = "通信事業者", url = "/carriers/" },
+  { name = "Roamiをダウンロード", url = "/app/" }
+]
+
+footer_col3_title = "会社情報"
+footer_col3_links = [
+  { name = "会社概要", url = "/about-us/" },
+  { name = "無料eSIM", url = "/free-esim/" },
+  { name = "返金ポリシー", url = "/refund/" },
+  { name = "お問い合わせ", url = "/contact/" },
+  { name = "プライバシーポリシー", url = "/privacy/" },
+  { name = "利用規約", url = "/terms/" }
+]
+
+footer_copyright = "© 2026 Roami. 無断転載を禁じます。"
+footer_slogan = "グローバルeSIMサービス専門プロバイダー | グローバルeSIMデータローミングのエキスパート"
+
+# ポップアップテキスト
+modal_title = "お知らせ"
+modal_cancel = "キャンセル"
+modal_confirm = "今すぐ行く"
