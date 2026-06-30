@@ -172,7 +172,7 @@ categories:
     description: "eSIMテクノロジーの基礎 – アクティベーション、転送、トラブルシューティング、旅行のヒントを学びます。"
     icon: "book-open"
     questions:
-      - q: "AndroidやiPad、Apple WatchでeSIMは使えますか？対応機種を教えてください"
+      - q: "AndroidやiPad、Apple WatchでeSIMは使えますか？"
         snippet: "Google Pixel、Samsung Galaxy、Xperia、AQUOSなどのAndroid主要機種に加え、iPad（セルラーモデル）やApple Watch（GPS+Cellular）のeSIM対応状況を一覧で解説します。"
         url: "/faq/android-ipad-watch-esim-compatible-devices/"
 
@@ -180,7 +180,7 @@ categories:
         snippet: "韓国・台湾・タイ・香港・シンガポール・ベトナムなどアジア9か国のeSIMを国別に比較。主要キャリア・料金目安・おすすめプロバイダーを徹底解説します。"
         url: "/faq/asia-korea-taiwan-thailand-hong-kong-esim-guide/"
 
-      - q: "格安SIM（MVNO）のeSIMでおすすめは？料金や速度制限は？"
+      - q: "格安SIM（MVNO）のeSIMでおすすめは？"
         snippet: "IIJmio・mineo・ahamo・OCN・LINEMOの5社を徹底比較。料金プラン・通信速度（優先制御・3日ルール）・サポート品質・データ繰り越しの有無まで本音で解説します。"
         url: "/faq/budget-mvno-esim-recommendation-comparison/"
 
@@ -188,23 +188,23 @@ categories:
         snippet: "日本の主要4キャリア（ドコモ・au・ソフトバンク・楽天モバイル）のeSIMを料金・通信品質・サポート体制・切り替え手順の4軸で徹底比較します。"
         url: "/faq/docomo-au-softbank-rakuten-esim-comparison/"
 
-      - q: "eSIMの設定方法や機種変更時の手順を教えてください"
+      - q: "eSIMの設定方法や機種変更時の手順は？"
         snippet: "QRコードスキャンからAPN設定・トラブルシューティングまでをステップバイステップで解説。iPhone・Android別の設定手順や機種変更時の再発行・移行方法も完全網羅します。"
         url: "/faq/esim-setup-activation-device-change-manual/"
 
-      - q: "eSIMと物理SIM、どっちを選べばいい？違いを教えてください"
+      - q: "eSIMと物理SIM、どっちを選べばいい？"
         snippet: "eSIMと物理SIMの違いを10項目で徹底比較。メリット・デメリット・キャリアがeSIMを推す本当の理由・機種変更の手間・手数料の実態まで解説します。"
         url: "/faq/esim-vs-physical-sim-pros-cons/"
 
-      - q: "iPhoneのeSIM対応機種は？自分のiPhoneが使えるか確認したい"
+      - q: "iPhoneのeSIM対応機種は？"
         snippet: "iPhone 7から最新のiPhone 17シリーズまで、全モデルのeSIM対応状況を一覧で徹底解説。XR/XS以降の対応機種・デュアルeSIM対応モデル・中古購入時の注意点まで網羅します。"
         url: "/faq/iphone-esim-compatible-models-list/"
 
-      - q: "日本で使えるeSIMのおすすめは？訪日旅行者や在留者向けに教えて"
+      - q: "日本で使えるeSIMのおすすめは？"
         snippet: "日本国内で利用可能なeSIMを徹底解説。訪日旅行者向けプリペイドeSIMから在留者向け契約型eSIMまで、目的別のおすすめプラン・キャリア別比較・選び方のポイントを紹介します。"
         url: "/faq/japan-esim-guide-residents-travelers/"
 
-      - q: "海外旅行用eSIMプロバイダーでおすすめは？Airalo・Holafly・Ubigiを比較"
+      - q: "海外旅行用eSIMプロバイダーでおすすめは？"
         snippet: "Airalo・Holafly・Ubigi・Nomad・Klookの主要5社を料金・速度・サポート・カバレッジ・使いやすさの5軸で徹底比較。FUP制限の実態やサポート品質の違いも解説します。"
         url: "/faq/travel-esim-provider-comparison/"
 
@@ -216,7 +216,7 @@ categories:
         snippet: "アメリカ（AT&T・T-Mobile・Verizon）・ヨーロッパ（Orange・Vodafone）・オーストラリア（Telstra・Optus）など各国のeSIM事情を解説。主要キャリア比較・料金目安・おすすめプロバイダーを国別に紹介します。"
         url: "/faq/usa-europe-australia-hawaii-esim-guide/"
 
-      - q: "eSIMって何？初心者でもわかるように教えてください"
+      - q: "eSIMって何？"
         snippet: "eSIMの仕組み・物理SIMとの違い・メリット・デメリット・対応機種一覧を初心者にもわかりやすく完全解説。iPhone・Androidの対応状況や2026年の最新市場動向まで網羅します。"
         url: "/faq/what-is-esim-beginners-guide/"
 ---

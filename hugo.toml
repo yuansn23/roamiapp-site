@@ -481,6 +481,7 @@ footer_col2_links = [
   { name = "eSIM互換性", url = "/compatibility/" },
   { name = "通信事業者", url = "/carriers/" },
    { name = "FAQ", url = "/faq/" },
+    { name = "ブログ", url = "/blog/" },
   { name = "Roamiをダウンロード", url = "/app/" }
 ]
 

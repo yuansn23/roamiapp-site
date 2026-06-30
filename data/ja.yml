@@ -6,26 +6,36 @@ related_products:
       price: 最低 $1.99～
       is_highlight: false
       slug: united-states-esim
-    - name: 中国 eSIM
-      flag: img/flags/cn.svg
+    - name: 韓国 eSIM
+      flag: img/flags/kr.svg
       price: 最低 $1.99～
       is_highlight: false
-      slug: china-esim
-    - name: ドイツ eSIM
-      flag: img/flags/de.svg
+      slug: south-korea-esim
+    - name: 台湾 eSIM
+      flag: img/flags/tw.svg
       price: 最低 $1.99～
       is_highlight: false
-      slug: germany-esim
-    - name: 日本 eSIM
-      flag: img/flags/jp.svg
+      slug: taiwan-esim
+    - name: 香港 eSIM
+      flag: img/flags/hk.svg
       price: 最低 $1.99～
       is_highlight: false
-      slug: japan-esim
-    - name: インド eSIM
-      flag: img/flags/in.svg
+      slug: hong-kong-esim
+    - name: タイ eSIM
+      flag: img/flags/th.svg
       price: 最低 $1.99～
       is_highlight: false
-      slug: india-esim
+      slug: thailand-esim
+    - name: シンガポール eSIM
+      flag: img/flags/sg.svg
+      price: 最低 $1.99～
+      is_highlight: false
+      slug: singapore-esim
+    - name: オーストラリア eSIM
+      flag: img/flags/au.svg
+      price: 最低 $1.99～
+      is_highlight: false
+      slug: australia-esim
     - name: イギリス eSIM
       flag: img/flags/gb.svg
       price: 最低 $1.99～
@@ -36,118 +46,8 @@ related_products:
       price: 最低 $1.99～
       is_highlight: false
       slug: france-esim
-    - name: ロシア eSIM
-      flag: img/flags/ru.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: russia-esim
-    - name: イタリア eSIM
-      flag: img/flags/it.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: italy-esim
     - name: カナダ eSIM
       flag: img/flags/ca.svg
       price: 最低 $1.99～
       is_highlight: false
       slug: canada-esim
-    - name: ブラジル eSIM
-      flag: img/flags/br.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: brazil-esim
-    - name: スペイン eSIM
-      flag: img/flags/es.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: spain-esim
-    - name: 韓国 eSIM
-      flag: img/flags/kr.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: south-korea-esim
-    - name: オーストラリア eSIM
-      flag: img/flags/au.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: australia-esim
-    - name: メキシコ eSIM
-      flag: img/flags/mx.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: mexico-esim
-    - name: トルコ eSIM
-      flag: img/flags/tr.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: turkey-esim
-    - name: インドネシア eSIM
-      flag: img/flags/id.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: indonesia-esim
-    - name: オランダ eSIM
-      flag: img/flags/nl.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: netherlands-esim
-    - name: サウジアラビア eSIM
-      flag: img/flags/sa.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: saudi-arabia-esim
-    - name: スイス eSIM
-      flag: img/flags/ch.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: switzerland-esim
-    - name: ポーランド eSIM
-      flag: img/flags/pl.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: poland-esim
-    - name: 台湾 eSIM
-      flag: img/flags/tw.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: taiwan-esim
-    - name: ベルギー eSIM
-      flag: img/flags/be.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: belgium-esim
-    - name: アイルランド eSIM
-      flag: img/flags/ie.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: ireland-esim
-    - name: アルゼンチン eSIM
-      flag: img/flags/ar.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: argentina-esim
-    - name: スウェーデン eSIM
-      flag: img/flags/se.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: sweden-esim
-    - name: イスラエル eSIM
-      flag: img/flags/il.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: israel-esim
-    - name: シンガポール eSIM
-      flag: img/flags/sg.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: singapore-esim
-    - name: UAE eSIM
-      flag: img/flags/ae.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: united-arab-emirates-esim
-    - name: オーストリア eSIM
-      flag: img/flags/at.svg
-      price: 最低 $1.99～
-      is_highlight: false
-      slug: austria-esim
