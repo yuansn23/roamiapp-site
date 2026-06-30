@@ -459,6 +459,7 @@ nav_links = [
   { name = "eSIM互換性", url = "/compatibility/" },
   { name = "無料eSIM", url = "/free-esim/" },
   { name = "Roamiアプリ", url = "/app/" },
+   { name = "FAQ", url = "/faq/" },
   { name = "通信事業者", url = "/carriers/" }
 ]
 
@@ -479,6 +480,7 @@ footer_col2_title = "カスタマーサポート"
 footer_col2_links = [
   { name = "eSIM互換性", url = "/compatibility/" },
   { name = "通信事業者", url = "/carriers/" },
+   { name = "FAQ", url = "/faq/" },
   { name = "Roamiをダウンロード", url = "/app/" }
 ]
 
