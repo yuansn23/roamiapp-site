@@ -1,7 +1,7 @@
 related_products:
   title: 類似するeSIMプラン
   items:
-    - name: アメリカ eSIM
+    - name: USA eSIM
       flag: img/flags/us.svg
       price: 最低 $1.99～
       is_highlight: false
@@ -36,7 +36,7 @@ related_products:
       price: 最低 $1.99～
       is_highlight: false
       slug: australia-esim
-    - name: イギリス eSIM
+    - name: UK eSIM
       flag: img/flags/gb.svg
       price: 最低 $1.99～
       is_highlight: false
