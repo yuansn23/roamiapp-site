@@ -41,7 +41,7 @@
             "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
             "mainEntityOfPage": {
                 "@type": "WebPage",
-                "@id": "{{ .Permalink }}"
+                "@id": "{{ .Permalink | absURL | safeURL }}"
             }
         },
         {
@@ -75,7 +75,7 @@
                         "position": {{ $entry.position }},
                         "name": {{ $entry.name | jsonify }}
                         {{- if $entry.url -}}
-                            , "item": {{ $entry.url | jsonify }}
+                            , "item": {{ $entry.url | absURL | safeURL | jsonify }}
                         {{- end -}}
                     }
                 {{- end -}}

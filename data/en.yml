@@ -36,11 +36,6 @@ related_products:
       price: From $1.99
       is_highlight: false
       slug: france-esim
-    - name: Russia eSIM
-      flag: img/flags/ru.svg
-      price: From $1.99
-      is_highlight: false
-      slug: russia-esim
     - name: Italy eSIM
       flag: img/flags/it.svg
       price: From $1.99
@@ -71,76 +66,16 @@ related_products:
       price: From $1.99
       is_highlight: false
       slug: australia-esim
-    - name: Mexico eSIM
-      flag: img/flags/mx.svg
-      price: From $1.99
-      is_highlight: false
-      slug: mexico-esim
     - name: Turkey eSIM
       flag: img/flags/tr.svg
       price: From $1.99
       is_highlight: false
       slug: turkey-esim
-    - name: Indonesia eSIM
-      flag: img/flags/id.svg
-      price: From $1.99
-      is_highlight: false
-      slug: indonesia-esim
-    - name: Netherlands eSIM
-      flag: img/flags/nl.svg
-      price: From $1.99
-      is_highlight: false
-      slug: netherlands-esim
-    - name: Saudi Arabia eSIM
-      flag: img/flags/sa.svg
-      price: From $1.99
-      is_highlight: false
-      slug: saudi-arabia-esim
-    - name: Switzerland eSIM
-      flag: img/flags/ch.svg
-      price: From $1.99
-      is_highlight: false
-      slug: switzerland-esim
-    - name: Poland eSIM
-      flag: img/flags/pl.svg
-      price: From $1.99
-      is_highlight: false
-      slug: poland-esim
     - name: Taiwan eSIM
       flag: img/flags/tw.svg
       price: From $1.99
       is_highlight: false
       slug: taiwan-esim
-    - name: Belgium eSIM
-      flag: img/flags/be.svg
-      price: From $1.99
-      is_highlight: false
-      slug: belgium-esim
-    - name: Ireland eSIM
-      flag: img/flags/ie.svg
-      price: From $1.99
-      is_highlight: false
-      slug: ireland-esim
-    - name: Argentina eSIM
-      flag: img/flags/ar.svg
-      price: From $1.99
-      is_highlight: false
-      slug: argentina-esim
-    - name: Sweden eSIM
-      flag: img/flags/se.svg
-      price: From $1.99
-      is_highlight: false
-      slug: sweden-esim
-    - name: Israel eSIM
-      flag: img/flags/il.svg
-      price: From $1.99
-      is_highlight: false
-      slug: israel-esim
-    - name: Singapore eSIM
-      flag: img/flags/sg.svg
-      price: From $1.99
-      is_highlight: false
-      slug: singapore-esim
     - name: UAE eSIM
       flag: img/flags/ae.svg
       price: From $1.99
