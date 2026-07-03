@@ -766,24 +766,7 @@
 <!-- 移动端 FAB 按钮                                               -->
 <!-- 显示：国家名 eSIM | 天数 容量 | 原价（划线）| 现价（突出）  -->
 <!-- ============================================================ -->
-<div class="custom-mobile-spacer lg:hidden"></div>
-<div class="custom-mobile-fab-container lg:hidden">
-    <button onclick="handleBuyNow()" class="custom-mobile-fab-btn">
-        <div class="flex items-center justify-between w-full px-2">
-            <!-- 左侧：国家名 eSIM + 天数 容量 -->
-            <div class="flex-1 text-left min-w-0 mr-2">
-                <div class="fab-plan-country text-xs font-medium text-white/80 leading-tight truncate">-</div>
-                <div class="fab-plan-detail text-sm font-bold text-white leading-tight truncate">-</div>
-            </div>
-            <!-- 右侧：原价（划线） + 现价（突出） -->
-            <div class="text-right flex-shrink-0">
-                <div class="fab-plan-old-price text-xs text-white/50 line-through">-</div>
-                <div class="fab-plan-price text-xl font-extrabold text-white leading-none">-</div>
-            </div>
-        </div>
-    </button>
-</div>
-
+ 
 <script>
     const faIconMap = {
         'chevron-right': 'fa-solid fa-chevron-right', 'chevron-down': 'fa-solid fa-chevron-down', 'arrow-right': 'fa-solid fa-arrow-right',

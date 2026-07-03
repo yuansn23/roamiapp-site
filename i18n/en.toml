@@ -303,3 +303,43 @@ other = "Home"
 
 [carriers]
 other = "eSIM Operators"
+
+[banner_official]
+other = "Official"
+
+[banner_discount_desc]
+other = "20% OFF Global Data"
+
+
+[banner_rating]
+other = "4.8 (2.1k reviews)"
+
+[banner_cta]
+other = "Get Now"
+
+[discount_title]
+other = "Limited Time Offer"
+
+[discount_code_label]
+other = "Promo Code"
+
+[discount_new_user]
+other = "20% OFF for New Users"
+
+[discount_today]
+other = "Today's Claims"
+
+[discount_today_num]
+other = "500 - 1000"
+
+[discount_remaining]
+other = "Remaining Spots"
+
+[discount_remaining_num]
+other = "5 - 10"
+
+[discount_cancel]
+other = "Cancel"
+
+[discount_claim]
+other = "Claim Now"

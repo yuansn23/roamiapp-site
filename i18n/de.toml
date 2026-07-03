@@ -302,3 +302,42 @@ other = "Startseite"
 
 [carriers]
 other = "eSIM-Anbieter"
+
+[banner_official]
+other = "Offiziell"
+
+[banner_discount_desc]
+other = "20% Rabatt weltweit"
+
+[banner_rating]
+other = "4.8 (2.1k Bewertungen)"
+
+[banner_cta]
+other = "Jetzt holen"
+
+[discount_title]
+other = "Zeitlich begrenztes Angebot"
+
+[discount_code_label]
+other = "Rabattcode"
+
+[discount_new_user]
+other = "20 % Rabatt für Neukunden"
+
+[discount_today]
+other = "Heutige Einlösungen"
+
+[discount_today_num]
+other = "500 - 1000"
+
+[discount_remaining]
+other = "Verbleibende Plätze"
+
+[discount_remaining_num]
+other = "10 - 30"
+
+[discount_cancel]
+other = "Abbrechen"
+
+[discount_claim]
+other = "Jetzt einlösen"

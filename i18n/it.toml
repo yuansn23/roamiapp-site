@@ -301,3 +301,42 @@ other = "Home"
 
 [carriers]
 other = "Operatori eSIM"
+
+[banner_official]
+other = "Ufficiale"
+
+[banner_discount_desc]
+other = "20% OFF dati globali"
+
+[banner_rating]
+other = "4.8 (2.1k recensioni)"
+
+[banner_cta]
+other = "Ottieni ora"
+
+[discount_title]
+other = "Offerta a tempo limitato"
+
+[discount_code_label]
+other = "Codice promozionale"
+
+[discount_new_user]
+other = "20% di sconto per nuovi utenti"
+
+[discount_today]
+other = "Richieste di oggi"
+
+[discount_today_num]
+other = "500 - 1000"
+
+[discount_remaining]
+other = "Posti rimanenti"
+
+[discount_remaining_num]
+other = "10 - 30"
+
+[discount_cancel]
+other = "Annulla"
+
+[discount_claim]
+other = "Richiedi ora"

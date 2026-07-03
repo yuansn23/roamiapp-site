@@ -120,44 +120,6 @@
     </div>
 </footer>
 
-<!-- ========== discount-modal (优化版：延迟5秒弹窗 + 随机数字 + 每日重置 + 移动端精致小巧) ========== -->
-<div id="discount-modal" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.6); backdrop-filter: blur(4px); z-index: 9999998; align-items: center; justify-content: center; padding: 16px;">
-    <div class="discount-modal-box" style="background: #ffffff; border-radius: 20px; padding: 24px 18px; max-width: 360px; width: 100%; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.25); position: relative; margin: 0 auto; transform: scale(0.95); transition: transform 0.2s ease;">
-        <!-- 关闭按钮 -->
-        <button onclick="closeDiscountModal()" style="position: absolute; top: 8px; right: 12px; background: none; border: none; font-size: 20px; color: #94a3b8; cursor: pointer; padding: 4px 8px; line-height: 1;">×</button>
-
-        <!-- 标题 -->
-        <h2 id="discount-title" style="font-size: 18px; font-weight: 700; color: #0f172a; text-align: center; margin: 0 0 4px 0;">{{ i18n "discount_title" }}</h2>
-        
-        <!-- 折扣码 -->
-        <div style="text-align: center; margin: 10px 0 8px;">
-            <span style="font-size: 11px; color: #64748b; display: block; margin-bottom: 2px;">{{ i18n "discount_code_label" }}</span>
-            <span style="display: inline-block; background: #f1f5f9; padding: 3px 14px; border-radius: 30px; font-size: 20px; font-weight: 700; color: #1e293b; letter-spacing: 1px; border: 1px dashed #94a3b8;">web20</span>
-        </div>
-
-        <!-- 新用户优惠 -->
-        <p id="discount-newuser" style="text-align: center; font-size: 15px; font-weight: 600; color: #0f172a; margin: 6px 0 10px;">{{ i18n "discount_new_user" }}</p>
-
-        <!-- 今日领取人数 & 剩余名额（动态数字由 JS 填充） -->
-        <div style="display: flex; justify-content: space-around; gap: 8px; margin: 8px 0 14px;">
-            <div style="text-align: center;">
-                <span style="font-size: 10px; color: #94a3b8; display: block;">{{ i18n "discount_today" }}</span>
-                <span id="today-claims" style="font-size: 18px; font-weight: 700; color: #2563eb;">500</span>
-            </div>
-            <div style="text-align: center;">
-                <span style="font-size: 10px; color: #94a3b8; display: block;">{{ i18n "discount_remaining" }}</span>
-                <span id="remaining-spots" style="font-size: 18px; font-weight: 700; color: #dc2626;">20</span>
-            </div>
-        </div>
-
-        <!-- 两个按钮 -->
-        <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap;">
-            <button onclick="closeDiscountModal()" style="flex: 1; min-width: 70px; padding: 8px 14px; background: #f1f5f9; border: none; border-radius: 30px; font-size: 14px; font-weight: 600; color: #475569; cursor: pointer; transition: background 0.2s;">{{ i18n "discount_cancel" }}</button>
-            <button id="discount-claim-btn" style="flex: 1; min-width: 70px; padding: 8px 14px; background: linear-gradient(90deg, #2563eb, #3b82f6); border: none; border-radius: 30px; font-size: 14px; font-weight: 600; color: #ffffff; cursor: pointer; box-shadow: 0 4px 10px rgba(37, 99, 235, 0.25); transition: transform 0.1s;">{{ i18n "discount_claim" }}</button>
-        </div>
-    </div>
-</div>
-
 <!-- CUSTOM MODAL (原有的，未改动) -->
 <div id="custom-modal" class="fixed inset-0 z-[100] hidden flex items-center justify-center bg-slate-900/60 backdrop-blur-sm transition-opacity">
     <div class="bg-white rounded-2xl p-8 max-w-md w-full mx-4 shadow-2xl transform scale-95 transition-transform duration-300" id="modal-content">
@@ -199,354 +161,14 @@
 <!-- 移动端底部防遮挡占位符 -->
 <div class="custom-mobile-spacer lg:hidden"></div>
 
-<!-- ======================================================================= -->
-<!-- 移动端底部悬浮按钮容器 (升级版卡片 - 无关闭按钮，始终显示)              -->
-<!-- ======================================================================= -->
-<div class="custom-mobile-fab-container lg:hidden" id="mobile-app-banner">
-    <div class="banner-inner">
-    <!-- 左侧：图标 + 文字信息 -->
-    <div class="banner-left">
-        <!-- App 图标 -->
-        <div class="banner-icon" style="background-image: url('/img/logo.png');"></div>
-
-        <div class="banner-text">
-            <!-- App 名称 -->
-            <div class="banner-title">
-                {{ .Site.Params.app_name | default "Roami" }}
-                <span class="official-badge">{{ i18n "banner_official" }}</span>
-            </div>
-            <!-- 描述文案 -->
-            <p class="banner-desc">{{ i18n "banner_discount_desc" }}</p>
-            <!-- 星级评分 -->
-            <div class="banner-stars">
-                ★★★★★ <span class="rating-text">{{ i18n "banner_rating" }}</span>
-            </div>
-        </div>
-    </div>
-
-    <!-- 右侧行动按钮 -->
-    <button onclick="handleBuyNow()" class="banner-cta-btn">
-        {{ i18n "banner_cta" }}
+<!-- 移动端底部悬浮按钮容器 -->
+<div class="custom-mobile-fab-container lg:hidden">
+    <button onclick="handleBuyNow()" class="custom-mobile-fab-btn">
+        <span style="margin-right: 8px; font-size: 20px;">🎁</span> 
+        {{ i18n "get_esim_discount" | default "Get 20% eSIM Discount" }}
     </button>
 </div>
-</div>
 
-<!-- ========== 新增卡片样式（仅作用于卡片内部，不破坏原有样式） ========== -->
-<style>
-/* 重写容器内边距，为卡片内容留出空间 */
-#mobile-app-banner {
-    padding: 10px 14px 12px 14px;
-    padding-bottom: calc(12px + env(safe-area-inset-bottom, 0px));
-}
-
-/* 内部 flex 布局 */
-.banner-inner {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 10px;
-    width: 100%;
-}
-
-/* 左侧区域：图标 + 文字 */
-.banner-left {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    flex: 1;
-    min-width: 0;
-}
-
-/* App 图标 */
-.banner-icon {
-    width: 52px;
-    height: 52px;
-    border-radius: 12px;
-    flex-shrink: 0;
-    background-color: #2563EB;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    border: 1px solid rgba(0, 0, 0, 0.06);
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.10);
-}
-
-/* 文字区域 */
-.banner-text {
-    flex: 1;
-    min-width: 0;
-}
-
-.banner-title {
-    font-size: 15px;
-    font-weight: 700;
-    color: #0f172a;
-    margin: 0 0 1px 0;
-    line-height: 1.3;
-    display: flex;
-    align-items: center;
-    gap: 5px;
-    flex-wrap: wrap;
-}
-
-.official-badge {
-    font-size: 9px;
-    background: #2563EB;
-    color: #fff;
-    padding: 1px 7px;
-    border-radius: 10px;
-    font-weight: 600;
-    letter-spacing: 0.3px;
-    flex-shrink: 0;
-    line-height: 1.6;
-}
-
-.banner-desc {
-    font-size: 11px;
-    color: #64748b;
-    margin: 0 0 2px 0;
-    line-height: 1.3;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-}
-
-.banner-stars {
-    font-size: 11px;
-    color: #f59e0b;
-    letter-spacing: 0.5px;
-    display: flex;
-    align-items: center;
-    gap: 4px;
-}
-.banner-stars .rating-text {
-    color: #94a3b8;
-    font-size: 10px;
-    font-weight: 500;
-    letter-spacing: 0;
-}
-
-/* 右侧 CTA 按钮（保留原有渐变风格） */
-.banner-cta-btn {
-    flex-shrink: 0;
-    background: linear-gradient(90deg, #2563eb, #3b82f6);
-    color: #ffffff;
-    border: none;
-    border-radius: 20px;
-    padding: 9px 18px;
-    font-size: 14px;
-    font-weight: 700;
-    cursor: pointer;
-    box-shadow: 0 4px 10px rgba(37, 99, 235, 0.30);
-    transition: transform 0.15s ease, box-shadow 0.15s ease;
-    white-space: nowrap;
-    line-height: 1.4;
-    -webkit-tap-highlight-color: transparent;
-    user-select: none;
-    min-width: 72px;
-    text-align: center;
-}
-
-.banner-cta-btn:active {
-    transform: scale(0.94);
-    box-shadow: 0 2px 6px rgba(37, 99, 235, 0.20);
-}
-
-/* 超小屏适配 (宽度 < 380px) */
-@media (max-width: 380px) {
-    #mobile-app-banner {
-        padding: 8px 10px 10px 10px;
-        padding-bottom: calc(10px + env(safe-area-inset-bottom, 0px));
-    }
-    .banner-icon {
-        width: 44px;
-        height: 44px;
-        border-radius: 10px;
-    }
-    .banner-title {
-        font-size: 13px;
-    }
-    .banner-desc {
-        font-size: 10px;
-    }
-    .banner-stars {
-        font-size: 10px;
-    }
-    .banner-stars .rating-text {
-        font-size: 9px;
-    }
-    .banner-cta-btn {
-        font-size: 12px;
-        padding: 7px 14px;
-        min-width: 62px;
-    }
-}
-
-/* 桌面端隐藏（父容器已有 lg:hidden，此处兜底） */
-@media (min-width: 1024px) {
-    #mobile-app-banner {
-        display: none !important;
-    }
-}
-
-/* ========== 新增折扣弹窗移动端精致小巧样式 ========== */
-@media (max-width: 480px) {
-    #discount-modal .discount-modal-box {
-        padding: 16px 14px !important;
-        max-width: 300px !important;
-        border-radius: 16px !important;
-    }
-    #discount-modal h2 {
-        font-size: 16px !important;
-        margin-bottom: 2px !important;
-    }
-    #discount-modal .discount-modal-box span[style*="font-size: 20px"] {
-        font-size: 18px !important;
-        padding: 2px 12px !important;
-    }
-    #discount-modal #discount-newuser {
-        font-size: 14px !important;
-        margin: 4px 0 8px !important;
-    }
-    #discount-modal #today-claims,
-    #discount-modal #remaining-spots {
-        font-size: 16px !important;
-    }
-    #discount-modal .discount-modal-box button {
-        font-size: 13px !important;
-        padding: 6px 12px !important;
-        min-width: 60px !important;
-        border-radius: 24px !important;
-    }
-    #discount-modal .discount-modal-box > div:last-child {
-        gap: 6px !important;
-    }
-    #discount-modal .discount-modal-box span[style*="font-size: 11px"] {
-        font-size: 10px !important;
-    }
-    #discount-modal .discount-modal-box > div[style*="gap: 8px"] {
-        gap: 6px !important;
-    }
-}
-</style>
-
-<!-- ========== 新增卡片点击埋点（不干扰原有 handleBuyNow） ========== -->
-<script>
-    (function() {
-        var ctaBtn = document.querySelector('#mobile-app-banner .banner-cta-btn');
-        if (ctaBtn) {
-            ctaBtn.addEventListener('click', function() {
-                console.log('[转化追踪] 底部卡片点击 → 调用 handleBuyNow');
-            });
-        }
-        console.log('[移动端横幅] 卡片已加载（无关闭按钮，永久固定）✅');
-    })();
-</script>
-
-<!-- ========== 新增折扣弹窗控制 + 随机数字 + 每日重置 ========== -->
-<script>
-    (function() {
-        'use strict';
-
-        // ---------- 随机数生成 & 每日重置 ----------
-        function getDailyRandom(min, max, key) {
-            var now = new Date();
-            var todayStr = now.getFullYear() + '-' + 
-                           String(now.getMonth() + 1).padStart(2, '0') + '-' + 
-                           String(now.getDate()).padStart(2, '0');
-            
-            var stored = localStorage.getItem(key);
-            if (stored) {
-                try {
-                    var parsed = JSON.parse(stored);
-                    if (parsed.date === todayStr) {
-                        return parsed.value;
-                    }
-                } catch (e) {}
-            }
-            
-            var randomValue = Math.floor(Math.random() * (max - min + 1)) + min;
-            var data = {
-                date: todayStr,
-                value: randomValue
-            };
-            localStorage.setItem(key, JSON.stringify(data));
-            return randomValue;
-        }
-
-        // ---------- 填充弹窗中的随机数字 ----------
-        function updateDiscountNumbers() {
-            var todayClaims = getDailyRandom(500, 1000, 'discount_today_claims');
-            var remainingSpots = getDailyRandom(5, 10, 'discount_remaining_spots');
-            
-            var claimsEl = document.getElementById('today-claims');
-            var remainingEl = document.getElementById('remaining-spots');
-            if (claimsEl) claimsEl.textContent = todayClaims;
-            if (remainingEl) remainingEl.textContent = remainingSpots;
-        }
-
-        // ---------- 弹窗显示控制 ----------
-        window.showDiscountModal = function() {
-            var modal = document.getElementById('discount-modal');
-            if (!modal) return;
-            
-            if (sessionStorage.getItem('discount_modal_shown') === 'true') {
-                return;
-            }
-            
-            updateDiscountNumbers();
-            
-            modal.style.display = 'flex';
-            var box = modal.querySelector('.discount-modal-box');
-            if (box) box.style.transform = 'scale(1)';
-            
-            try {
-                sessionStorage.setItem('discount_modal_shown', 'true');
-            } catch (e) {}
-        };
-
-        window.closeDiscountModal = function() {
-            var modal = document.getElementById('discount-modal');
-            if (!modal) return;
-            var box = modal.querySelector('.discount-modal-box');
-            if (box) box.style.transform = 'scale(0.95)';
-            setTimeout(function() {
-                modal.style.display = 'none';
-            }, 200);
-        };
-
-        // ---------- 页面加载后延迟5秒弹出 ----------
-        document.addEventListener('DOMContentLoaded', function() {
-            updateDiscountNumbers();
-            setTimeout(function() {
-                window.showDiscountModal();
-            }, 5000);
-        });
-
-        // ================================================================
-        // 【改动点】点击 "Claim Now" 按钮：先关闭折扣弹窗，再调用 handleBuyNow()
-        // ================================================================
-        document.addEventListener('DOMContentLoaded', function() {
-            var claimBtn = document.getElementById('discount-claim-btn');
-            if (claimBtn) {
-                claimBtn.addEventListener('click', function() {
-                    // 先关闭当前折扣弹窗
-                    closeDiscountModal();
-                    // 然后调用全局 handleBuyNow 函数（已在后面脚本定义）
-                    if (typeof handleBuyNow === 'function') {
-                        handleBuyNow();
-                    } else {
-                        console.warn('handleBuyNow not defined');
-                    }
-                });
-            }
-        });
-    })();
-</script>
-
-<!-- ======================================================================= -->
-<!-- 原有脚本（已修改 handleBuyNow 函数以实现 iOS 直接跳转、Android 弹窗） -->
-<!-- ======================================================================= -->
 <script>
     // 全局函数：关闭 redirect-modal（直接操作 style.display，最可靠）
     window.closeRedirectModal = function() {
@@ -554,34 +176,19 @@
         if (modal) modal.style.display = 'none';
     };
 
-    // ================================================================
-    // 修改后的 handleBuyNow 函数：
-    // - 如果是 iOS 设备，直接跳转 App Store（不弹窗）
-    // - 如果是 Android 或其它设备，显示弹窗（保留原有弹窗逻辑）
-    // ================================================================
+    // 全局函数：显示弹窗并处理跳转
     window.handleBuyNow = function() {
         var userAgent = navigator.userAgent || navigator.vendor || window.opera;
         var isIOS = /iPad|iPhone|iPod/.test(userAgent) && !window.MSStream;
         var isAndroid = /android/i.test(userAgent);
         
-        // iOS 专用链接
-        var iosUrl = 'https://apps.apple.com/app/id6747127122';
-        // Android / 其它设备目标链接（弹窗中的跳转地址）
         var targetUrl = 'https://www.phonesimgo.com';
-        
-        // 如果是 iOS，直接跳转，不弹窗
-        if (isIOS) {
-            window.location.href = iosUrl;
-            return;
-        }
-        
-        // 以下是 Android 或其它设备的弹窗逻辑（与原来一致）
+        // 从 i18n 获取文案（Hugo 会渲染这些变量）
         var modalTitle = `{{ i18n "friendly_reminder" | default "Service Updated" }}`;
         var modalText = `{{ i18n "modal_upgrade_desc" | default "Our services have been upgraded. Get your promo code: <strong>web20</strong> on our official website or APP." }}`;
         
-        if (isAndroid) {
-            targetUrl = 'https://play.google.com/store/apps/details?id=com.usphonesimgo.app';
-        }
+        if (isIOS) targetUrl = 'https://apps.apple.com/app/id6747127122';
+        else if (isAndroid) targetUrl = 'https://play.google.com/store/apps/details?id=com.usphonesimgo.app';
         
         var modal = document.getElementById('redirect-modal');
         var continueBtn = document.getElementById('modal-continue-btn');
@@ -604,6 +211,10 @@
     };
 
     // ========== 以下为原有的其他脚本（Tab 切换、自定义模态框等）==========
+    // 注意：原有的 closeModal、showModal、handleAndroidClick 等函数需要保留，但它们的命名与 closeRedirectModal 不冲突。
+    // 为了避免重复定义，如果您已经在页面其他地方定义了这些函数，可以删除下面的定义。
+    // 为保证兼容，这里提供完整的原有逻辑（假设页面中没有定义过）。
+    
     function closeModal() {
         var modal = document.getElementById('custom-modal');
         var content = document.getElementById('modal-content');
@@ -647,7 +258,7 @@
         showModal('Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount, promo code: <strong class="text-blue-600 text-base ml-1">ESIM20</strong>', typeof k4 !== 'undefined' ? k4 : function(){});
     }
 
-    // 移动端菜单、平滑滚动、Tab 切换等逻辑
+    // 移动端菜单、平滑滚动、Tab 切换等逻辑（请确保这些元素存在，否则忽略错误）
     (function() {
         var mobileMenuBtn = document.getElementById('mobile-menu-btn');
         if (mobileMenuBtn) {

@@ -302,3 +302,42 @@ other = "首頁"
 
 [carriers]
 other = "eSIM 運營商"
+
+[banner_official]
+other = "官方"
+
+[banner_discount_desc]
+other = "全球流量 20% OFF"
+
+[banner_rating]
+other = "4.8 (2.1k 評價)"
+
+[banner_cta]
+other = "立即獲取"
+
+[discount_title]
+other = "限時優惠"
+
+[discount_code_label]
+other = "優惠碼"
+
+[discount_new_user]
+other = "新用戶享20%折扣"
+
+[discount_today]
+other = "今日領取數量"
+
+[discount_today_num]
+other = "500 - 1000"
+
+[discount_remaining]
+other = "剩餘名額"
+
+[discount_remaining_num]
+other = "10 - 30"
+
+[discount_cancel]
+other = "取消"
+
+[discount_claim]
+other = "立即領取"

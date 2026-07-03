@@ -303,3 +303,42 @@ other = "Accueil"
 
 [carriers]
 other = "Opérateurs eSIM"
+
+[banner_official]
+other = "Officiel"
+
+[banner_discount_desc]
+other = "-20% sur les données"
+
+[banner_rating]
+other = "4,8 (2,1k avis)"
+
+[banner_cta]
+other = "Obtenir maintenant"
+
+[discount_title]
+other = "Offre à durée limitée"
+
+[discount_code_label]
+other = "Code promo"
+
+[discount_new_user]
+other = "20 % de réduction pour les nouveaux utilisateurs"
+
+[discount_today]
+other = "Offres réclamées aujourd'hui"
+
+[discount_today_num]
+other = "500 - 1000"
+
+[discount_remaining]
+other = "Places restantes"
+
+[discount_remaining_num]
+other = "10 - 30"
+
+[discount_cancel]
+other = "Annuler"
+
+[discount_claim]
+other = "Réclamer maintenant"

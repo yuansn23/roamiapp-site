@@ -302,3 +302,42 @@ other = "Главная"
 
 [carriers]
 other = "Операторы eSIM"
+
+[banner_official]
+other = "Официальный"
+
+[banner_discount_desc]
+other = "Скидка 20% на данные"
+
+[banner_rating]
+other = "4.8 (2,1 тыс. отзывов)"
+
+[banner_cta]
+other = "Получить сейчас"
+
+[discount_title]
+other = "Предложение ограниченного времени"
+
+[discount_code_label]
+other = "Промокод"
+
+[discount_new_user]
+other = "Скидка 20% для новых пользователей"
+
+[discount_today]
+other = "Заявки сегодня"
+
+[discount_today_num]
+other = "500 - 1000"
+
+[discount_remaining]
+other = "Осталось мест"
+
+[discount_remaining_num]
+other = "10 - 30"
+
+[discount_cancel]
+other = "Отмена"
+
+[discount_claim]
+other = "Получить сейчас"

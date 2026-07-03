@@ -295,3 +295,41 @@ other = "ホーム"
 
 [carriers]
 other = "通信事業者"
+
+[banner_official]
+other = "公式"
+
+[banner_discount_desc]
+other = "データ通信 20% OFF"
+[banner_rating]
+other = "4.8 (2.1k 評価)"
+
+[banner_cta]
+other = "今すぐ入手"
+
+[discount_title]
+other = "期間限定オファー"
+
+[discount_code_label]
+other = "プロモーションコード"
+
+[discount_new_user]
+other = "新規ユーザー20%オフ"
+
+[discount_today]
+other = "本日の申し込み数"
+
+[discount_today_num]
+other = "500 - 1000"
+
+[discount_remaining]
+other = "残り枠"
+
+[discount_remaining_num]
+other = "10 - 30"
+
+[discount_cancel]
+other = "キャンセル"
+
+[discount_claim]
+other = "今すぐ受け取る"
