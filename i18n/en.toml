@@ -327,13 +327,13 @@ other = "Promo Code"
 other = "20% OFF for New Users"
 
 [discount_today]
-other = "Today's Claims"
+other = "Claimed Today"
 
 [discount_today_num]
 other = "500 - 1000"
 
 [discount_remaining]
-other = "Remaining Spots"
+other = "Remaining"
 
 [discount_remaining_num]
 other = "5 - 10"

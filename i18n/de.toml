@@ -322,19 +322,19 @@ other = "Zeitlich begrenztes Angebot"
 other = "Rabattcode"
 
 [discount_new_user]
-other = "20 % Rabatt für Neukunden"
+other = "20% Rabatt für Neukunden"
 
 [discount_today]
-other = "Heutige Einlösungen"
+other = "Heute eingelöst"
 
 [discount_today_num]
 other = "500 - 1000"
 
 [discount_remaining]
-other = "Verbleibende Plätze"
+other = "Verbleibend"
 
 [discount_remaining_num]
-other = "10 - 30"
+other = "5 - 10"
 
 [discount_cancel]
 other = "Abbrechen"

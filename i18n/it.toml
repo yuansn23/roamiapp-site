@@ -314,6 +314,7 @@ other = "4.8 (2.1k recensioni)"
 [banner_cta]
 other = "Ottieni ora"
 
+
 [discount_title]
 other = "Offerta a tempo limitato"
 
@@ -324,16 +325,16 @@ other = "Codice promozionale"
 other = "20% di sconto per nuovi utenti"
 
 [discount_today]
-other = "Richieste di oggi"
+other = "Richiesto oggi"
 
 [discount_today_num]
 other = "500 - 1000"
 
 [discount_remaining]
-other = "Posti rimanenti"
+other = "Rimanenti"
 
 [discount_remaining_num]
-other = "10 - 30"
+other = "5 - 10"
 
 [discount_cancel]
 other = "Annulla"

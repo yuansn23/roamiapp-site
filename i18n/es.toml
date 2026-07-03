@@ -322,19 +322,19 @@ other = "Oferta por tiempo limitado"
 other = "Código promocional"
 
 [discount_new_user]
-other = "20 % de descuento para nuevos usuarios"
+other = "20% de descuento para nuevos usuarios"
 
 [discount_today]
-other = "Solicitudes de hoy"
+other = "Reclamado hoy"
 
 [discount_today_num]
 other = "500 - 1000"
 
 [discount_remaining]
-other = "Plazas restantes"
+other = "Restantes"
 
 [discount_remaining_num]
-other = "10 - 30"
+other = "5 - 10"
 
 [discount_cancel]
 other = "Cancelar"

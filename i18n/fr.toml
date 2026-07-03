@@ -323,19 +323,19 @@ other = "Offre à durée limitée"
 other = "Code promo"
 
 [discount_new_user]
-other = "20 % de réduction pour les nouveaux utilisateurs"
+other = "20% de réduction pour les nouveaux clients"
 
 [discount_today]
-other = "Offres réclamées aujourd'hui"
+other = "Réclamé aujourd’hui"
 
 [discount_today_num]
 other = "500 - 1000"
 
 [discount_remaining]
-other = "Places restantes"
+other = "Restant(s)"
 
 [discount_remaining_num]
-other = "10 - 30"
+other = "5 - 10"
 
 [discount_cancel]
 other = "Annuler"

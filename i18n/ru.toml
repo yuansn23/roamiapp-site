@@ -316,25 +316,25 @@ other = "4.8 (2,1 тыс. отзывов)"
 other = "Получить сейчас"
 
 [discount_title]
-other = "Предложение ограниченного времени"
+other = "Ограниченное по времени предложение"
 
 [discount_code_label]
 other = "Промокод"
 
 [discount_new_user]
-other = "Скидка 20% для новых пользователей"
+other = "20% скидка для новых пользователей"
 
 [discount_today]
-other = "Заявки сегодня"
+other = "Получено сегодня"
 
 [discount_today_num]
 other = "500 - 1000"
 
 [discount_remaining]
-other = "Осталось мест"
+other = "Осталось"
 
 [discount_remaining_num]
-other = "10 - 30"
+other = "5 - 10"
 
 [discount_cancel]
 other = "Отмена"
