@@ -19,7 +19,6 @@ Roami is a global travel eSIM service providing high-speed 5G/4G data in 200+ co
 - **All eSIM Plans:** https://www.roamiapp.com/plans/ — Complete catalog of eSIM plans across all countries with data volumes, validity periods, and pricing.
 - **Free eSIM (100MB Trial):** https://www.roamiapp.com/free-esim/ — Free 100MB trial eSIM for 200+ destinations. Risk-free way to test the service before purchasing.
 - **eSIM Compatibility Check:** https://www.roamiapp.com/compatibility/ — Check if your phone supports eSIM. Covers iPhone, Samsung, Google Pixel, Huawei, Xiaomi, and other major brands.
-- **How It Works:** https://www.roamiapp.com/how-it-works/ — Step-by-step activation guide: download app → choose plan → scan QR → connected.
 - **FAQ:** https://www.roamiapp.com/faq/ — Frequently asked questions about activation, data usage, dual SIM, refunds, and troubleshooting.
 
 ### Support & Troubleshooting

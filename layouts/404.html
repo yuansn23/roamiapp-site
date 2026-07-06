@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- 动态获取当前语言代码 -->
 <html lang="{{ .Site.Language.Lang }}" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
@@ -52,7 +51,7 @@
 
 {{ partial "header.html" . }}
 
-<!-- 404 主区域 - 紧凑布局（一屏内） -->
+<!-- 404 主区域 -->
 <header class="bg-white border-b border-slate-200 py-8 lg:py-12">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h1 class="text-4xl md:text-6xl font-extrabold text-slate-900 mb-2">404</h1>
@@ -62,7 +61,7 @@
 
 <section class="py-8">
     <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-        <!-- 原有错误提示卡片 - 减小内边距 -->
+        <!-- 错误提示卡片 -->
         <div class="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-slate-200 prose text-center mb-6">
             <p class="text-base text-slate-600 mb-4">
                 {{ i18n "404_message" | default "Oops! The page you are looking for doesn't exist or has been moved." }}
@@ -72,7 +71,7 @@
             </a>
         </div>
 
-        <!-- 优惠卡片 - 紧凑版 -->
+        <!-- 优惠卡片 -->
         <div class="bg-gradient-to-r from-amber-50 to-orange-50 border-2 border-dashed border-amber-300 rounded-2xl p-5 md:p-6 text-center shadow-sm">
             <div class="flex flex-col items-center gap-2">
                 <div>
@@ -93,6 +92,7 @@
 
 {{ partial "footer.html" . }}
 
+<!-- 只有这个轻量级脚本：用于 Lucide 图标和移动菜单，没有重定向逻辑 -->
 <script>
     if (typeof lucide !== 'undefined' && lucide.createIcons) {
         lucide.createIcons();
@@ -104,39 +104,6 @@
             if (mobileMenu) mobileMenu.classList.toggle('hidden');
         });
     }
-</script>
-<script>
-(function() {
-    // 获取当前访问的原始路径（如 /de/faq/what-is-esim/）
-    var originalPath = window.location.pathname;
-    
-    // 从 Hugo 配置中动态获取所有支持的语言代码（无需硬编码）
-    var supportedLangs = [
-        {{- range site.Languages -}}
-            "{{ .Lang }}",
-        {{- end -}}
-    ];
-    
-    var matchedLang = null;
-
-    // 检查路径中是否包含某个语言前缀
-    for (var i = 0; i < supportedLangs.length; i++) {
-        var lang = supportedLangs[i];
-        if (originalPath.indexOf('/' + lang + '/') === 0) {
-            matchedLang = lang;
-            break;
-        }
-    }
-
-    // 如果匹配到了语言，并且当前页面不是该语言的 404 页面，则重定向
-    if (matchedLang) {
-        var target404Url = '/' + matchedLang + '/404.html';
-        // 避免无限重定向：如果已经在这个页面上就停止
-        if (originalPath !== target404Url && !originalPath.endsWith('/404.html')) {
-            window.location.replace(target404Url);
-        }
-    }
-})();
 </script>
 
 </body>
