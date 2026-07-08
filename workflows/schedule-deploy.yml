@@ -1,0 +1,16 @@
+name: 定时触发 Cloudflare Pages 部署
+
+on:
+  # 定时触发：每天 UTC 时间 0:00 (即北京时间上午 8:00) 运行
+  schedule:
+    - cron: '0 0 * * *'
+  # 允许你手动在 GitHub Actions 界面点按钮运行，方便测试
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 调用 Cloudflare Pages 部署钩子
+        run: |
+          curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/973ab90c-ed40-47a7-a876-b56fa78b7eb6"
