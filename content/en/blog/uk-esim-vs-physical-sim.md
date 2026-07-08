@@ -1,9 +1,9 @@
 ---
-title: "UK eSIM vs Physical SIM vs Pocket WiFi: Which Is Best?"
+title: "eSIM, Physical SIM or Pocket WiFi for UK Travel?"
 description: "Not sure whether to get a UK eSIM, physical SIM, or pocket WiFi? Cost and convenience comparison for UK travel. Roami makes eSIM easy with auto switching."
 keywords: ["UK eSIM vs physical SIM which is better","UK eSIM vs international roaming cost savings","UK eSIM vs local SIM card cost","UK eSIM vs pocket WiFi London comparison","should I buy UK eSIM before travel or at airport"]
-date: 2026-07-05T10:00:00Z
-lastmod: 2026-07-05T10:00:00Z
+date: 2026-07-07T10:00:00Z
+lastmod: 2026-07-07T10:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/uk/uk-esim-vs-physical-sim.jpg"
@@ -81,13 +81,44 @@ Travellers to the UK have three main options for staying connected, each with di
 
 Before we get into the nitty gritty, here's a quick overview of what each option actually involves.
 
-**eSIM** is a digital SIM that you download onto your phone. No plastic card, no swapping, no fiddling with tiny trays. You buy a plan online, install it over WiFi before you travel or as soon as you land, and your phone connects to a UK network. Modern iPhones, Samsung Galaxies, Pixels, and most recent Android phones support it.
+**eSIM** is a digital SIM that you download onto your phone. No plastic card, no swapping, no fiddling with tiny trays. You buy a plan online, install it over WiFi before you travel or as soon as you land, and your phone connects to a UK network. Modern iPhones, Samsung Galaxies, Pixels, and most recent Android phones support it. The [GSMA](https://en.wikipedia.org/wiki/GSMA), the global body that sets mobile standards, published the eSIM specification back in 2016 — the same technology that powers every modern eSIM today.
 
-**Physical SIM** is the old faithful. You buy a plastic SIM card from a UK network (EE, Vodafone, O2, Three) or a reseller, pop it into your phone's SIM tray, and you're away. You can get them at the airport, in mobile phone shops, supermarkets, or order online for delivery.
+**Physical SIM** is the old faithful. You buy a plastic SIM card from a UK network ([EE (telecommunications)](https://en.wikipedia.org/wiki/EE_(telecommunications)), [Vodafone UK](https://en.wikipedia.org/wiki/Vodafone_UK), [O2 (UK)](https://en.wikipedia.org/wiki/O2_(UK)), [Three UK](https://en.wikipedia.org/wiki/Three_UK)) or a reseller, pop it into your phone's SIM tray, and you're away. You can get them at the airport, in mobile phone shops, supermarkets, or order online for delivery.
 
 **Pocket WiFi** is a separate device, about the size of a credit card but thicker, that creates a personal WiFi hotspot. You pick it up at the airport or have it delivered to your hotel, switch it on, and connect your phone and any other devices to its network.
 
 International roaming from your home carrier is a fourth option, but honestly, it's almost never a popular choice anymore unless your plan already includes free roaming in the UK. The **UK eSIM vs international roaming cost savings** are dramatic — a week of roaming from a US carrier costs roughly USD 70, while a UK eSIM with similar data runs around USD 10-15.
+
+## Coverage Comparison: eSIM vs Physical SIM vs Pocket WiFi
+
+Coverage is determined by which UK network each option connects to, and the three options differ in how they access mobile networks.
+
+### Network Access
+
+**eSIMs** connect to one or more UK mobile networks depending on the provider. Single-network eSIMs (Airalo on EE, Nomad on O2) behave identically to a physical SIM from that network. Multi-network eSIMs (Ubigi on EE and Three, Holafly on O2 and Vodafone and Three) can switch between carriers, and auto-switching eSIMs (Roami across EE, Vodafone, O2, and Three) provide the broadest coverage by dynamically selecting the strongest available network. This means a multi-network eSIM can maintain connectivity in more locations than any single-network physical SIM.
+
+**Physical SIMs** are locked to the network you buy from. An EE SIM card will only connect to EE's network. A Vodafone SIM will only connect to Vodafone's network. If that network has weak signal in your location, you have no fallback. The advantage is that you can choose which network to buy based on your travel plans - if you are visiting the Scottish Highlands, you can buy an EE SIM for the widest coverage there.
+
+**Pocket WiFi devices** operate on a single UK network depending on the rental company. Most pocket WiFi providers use EE or Three. The device creates a WiFi hotspot that your phone connects to, so your phone's own antenna and network capabilities are not used directly. This means your phone's eSIM compatibility or lack thereof does not matter for pocket WiFi, but you are still tied to whichever network the rental company uses inside the device.
+
+### Coverage by Region
+
+| Location | eSIM (Multi-Network) | eSIM (Single) | Physical SIM | Pocket WiFi |
+|---|---|---|---|---|
+| Central London | Excellent | Very Good | Very Good (network dependent) | Good |
+| Greater London | Excellent | Very Good | Very Good | Good |
+| UK Cities | Excellent | Good | Good | Good |
+| Rural England | Good (EE-based) | Moderate | Moderate | Moderate |
+| Scottish Highlands | Moderate (EE preferred) | Limited | Limited (unless EE) | Limited |
+| Lake District | Good (EE-based) | Moderate | Moderate (EE best) | Moderate |
+| London Underground | Partial (network dependent) | Partial | Partial | Not available |
+| On UK Trains | Variable (multi-network best) | Variable | Variable | Variable |
+
+### Why Multi-Network Matters
+
+The key insight for coverage is that no single UK network covers every location equally well. EE has the widest geographic reach but Three has faster urban speeds. Vodafone is strong in Wales and on train routes. O2 has good indoor coverage. A multi-network eSIM that can switch between these carriers offers the most consistent coverage because it is not tied to any single network's weak spots.
+
+For travellers visiting multiple UK regions, this network diversity is the single most important factor in choosing between the three options. A multi-network [UK eSIM](/united-kingdom-esim/) with automatic carrier switching provides broader coverage than any physical SIM (limited to one network) or pocket WiFi device (also limited to one network, typically).
 
 ## Cost Breakdown: UK eSIM vs Local SIM Card Cost vs Pocket WiFi
 
@@ -105,7 +136,74 @@ I've used real prices from July 2026 for this comparison. Prices vary by provide
 | **Pocket WiFi (rental)** | £25 - £45 | Unlimited (daily cap) | Variable |
 | **Home roaming (standard)** | £35 - £70 | Varies | £6.00+ |
 
-The numbers tell a clear story. eSIMs are the cheapest option for most travellers, especially if you buy before you travel. Physical SIMs from airport shops are the most expensive per GB among the dedicated options. Pocket WiFi sits in the middle on price but involves renting extra hardware. A direct **UK eSIM vs local SIM card cost** comparison shows eSIMs are cheaper than both airport and high street physical SIMs for short trips.
+The numbers tell a clear story. eSIMs are the cheapest option for most travellers, especially if you buy before you travel. Physical SIMs from airport shops are the most expensive per GB among the dedicated options. Pocket WiFi sits in the middle on price but involves renting extra hardware. A direct **UK eSIM vs local SIM card cost** comparison shows eSIMs are cheaper than both airport and high street physical SIMs for short trips. When looking at [UK eSIM](/united-kingdom-esim/) pricing, the total cost is often lower than alternatives because there are no hardware rental fees or airport markups to factor in.
+
+### Cost Scenarios by Trip Length
+
+The cost advantage of each option changes depending on your trip duration. Here is how the numbers work out for different lengths of stay.
+
+**3-Day Weekend Trip**
+
+For a short city break, the cost difference between options is relatively small but still worth considering.
+
+| Option | Typical Cost | Data | Best For |
+|---|---|---|---|
+| eSIM (budget) | GBP 5 - 7 | 3 GB | Best value for solo travellers |
+| eSIM (unlimited) | GBP 19 | 7-day unlimited | Only if heavy streaming planned |
+| Physical SIM (airport) | GBP 15 - 20 | 3-5 GB | Incompatible phone users |
+| Physical SIM (high street) | GBP 8 - 12 | 5-12 GB | If you need a UK number |
+| Pocket WiFi | GBP 25 - 35 | Unlimited (capped) | Groups of 3+ only |
+| Home roaming | USD 30 - 50 | 1-2 GB/day | Only if free with your plan |
+
+For a weekend trip, the budget eSIM is the clear winner. Even including the higher cost of an unlimited eSIM, you save compared to airport physical SIMs. Pocket WiFi only makes financial sense for groups of three or more people.
+
+**7-Day Standard Holiday**
+
+This is the most common trip length for UK visitors and where the cost differences become most pronounced.
+
+| Option | Typical Cost | Data | Cost per Day |
+|---|---|---|---|
+| eSIM (budget) | GBP 8 - 12 | 5-10 GB | GBP 1.14 - 1.71 |
+| eSIM (unlimited) | GBP 19 - 25 | Unlimited | GBP 2.71 - 3.57 |
+| Physical SIM (airport) | GBP 20 - 30 | 5-12 GB | GBP 2.86 - 4.29 |
+| Physical SIM (high street) | GBP 10 - 20 | 8-30 GB | GBP 1.43 - 2.86 |
+| Pocket WiFi | GBP 30 - 45 | Unlimited (daily cap) | GBP 4.29 - 6.43 |
+| Home roaming | USD 70 - 100 | 2 GB/day | USD 10 - 14.29 |
+
+At one week, eSIMs save between GBP 10 and GBP 20 compared to airport physical SIMs, and GBP 20 to GBP 35 compared to pocket WiFi. The savings over home carrier roaming are even more dramatic at USD 50-80 per week.
+
+**14-Day Holiday**
+
+For a two-week trip covering multiple UK destinations, the cost differences become significant.
+
+| Option | Typical Cost | Data | Cost per Day |
+|---|---|---|---|
+| eSIM (budget) | GBP 10 - 13 | 10-20 GB | GBP 0.71 - 0.93 |
+| eSIM (unlimited) | GBP 34 - 38 | 15-day unlimited | GBP 2.27 - 2.71 |
+| Physical SIM (high street) | GBP 15 - 20 | 12-30 GB | GBP 1.07 - 1.43 |
+| Physical SIM (airport) | GBP 30 - 40 | 8-12 GB | GBP 2.14 - 2.86 |
+| Pocket WiFi | GBP 50 - 70 | Unlimited (daily cap) | GBP 3.57 - 5.00 |
+| Home roaming | USD 140 - 200 | 2 GB/day | USD 10 - 14.29 |
+
+At two weeks, Ubigi's 50 GB plan at GBP 34.99 provides the best value among metered eSIM options. Physical SIMs from high street shops are competitive on price but require finding a shop. Pocket WiFi becomes increasingly expensive with longer rental periods.
+
+**30-Day Extended Stay**
+
+For longer stays, the pricing structure changes as monthly SIM contracts and large eSIM plans become available.
+
+| Option | Typical Cost | Data | Best For |
+|---|---|---|---|
+| eSIM (large plan) | GBP 34.99 | 50 GB | Best overall value |
+| eSIM (unlimited) | GBP 54 | 30-day unlimited | Heavy users |
+| Physical SIM (monthly) | GBP 20 - 30 | Unlimited (fair use) | Best rates, needs UK number |
+| Pocket WiFi | GBP 80 - 120 | Unlimited (daily cap) | Groups staying together |
+| Home roaming | USD 300 - 420 | 2 GB/day | Not recommended |
+
+For extended stays, the UK monthly SIM market offers the cheapest per-gigabyte rates, with some providers offering unlimited data plans for around GBP 20 per month. However, these require a UK address for delivery and a UK bank card for payment, which may not be accessible to all travellers. Among digital options, the eSIM 50 GB plan at GBP 34.99 offers the best balance of cost and convenience.
+
+**Why eSIM Wins on Cost Across All Trip Durations**
+
+Across all trip lengths, eSIMs are consistently the cheapest or among the cheapest options. The only scenario where another option is cheaper is for groups of 3+ people staying in one location where pocket WiFi can be shared. For all other scenarios, the combination of low upfront cost, no hardware rental, and competitive data pricing makes eSIM the most cost-effective choice.
 
 ## UK eSIM vs Physical SIM in UK: Which Is Better?
 
@@ -127,7 +225,7 @@ eSIMs have become the go-to choice for savvy travellers over the last couple of 
 
 **The prices are competitive.** As the table above shows, plans start from around £5 for a weekend's worth of data. For a week of moderate use, you're looking at £10-15, which is half what you'd pay for a physical SIM at the airport or roaming with your home carrier.
 
-**Network flexibility.** Many providers offer multi-network plans that automatically switch between EE, Vodafone, O2, and Three depending on which has the strongest signal. This is something physical SIMs can't do — you're locked to one carrier. Roami, for example, offers auto carrier switching across all four major UK networks, so your phone always connects to the strongest available signal.
+**Network flexibility.** Many providers offer multi-network plans that automatically switch between EE, Vodafone, O2, and Three depending on which has the strongest signal. This is something physical SIMs can't do — you're locked to one carrier. Roami, for example, offers auto carrier switching across all four major UK networks, so your phone always connects to the strongest available signal. This network flexibility is a key reason why a [UK eSIM](/united-kingdom-esim/) outperforms a physical SIM for travellers visiting multiple cities or regions.
 
 **The Downsides**
 
@@ -171,7 +269,7 @@ Physical SIM cards aren't going anywhere, even in 2026. They still account for a
 | UK phone number | No (mostly) | Yes | Physical SIM |
 | Works on any phone | No | Yes | Physical SIM |
 
-For most travellers, eSIM wins on almost every metric. Physical SIM only wins if you have an incompatible phone or absolutely need a UK number.
+For most travellers, eSIM wins on almost every metric. Physical SIM only wins if you have an incompatible phone or absolutely need a UK number. A [UK eSIM](/united-kingdom-esim/) with automatic carrier switching between EE, Vodafone, O2, and Three provides network flexibility that no single-network physical SIM can offer.
 
 ## Is eSIM Cheaper Than Roaming in UK? — UK eSIM vs International Roaming Cost Savings
 
@@ -311,27 +409,130 @@ A few things can blow your budget if you're not careful.
 
 **Tethering restrictions.** Some eSIMs and physical SIMs don't allow hotspot tethering, or limit it to specific devices.
 
+## Convenience and Setup Comparison
+
+Beyond cost and coverage, the three options differ significantly in how easy they are to set up and use during your trip.
+
+| Factor | eSIM | Physical SIM | Pocket WiFi |
+|---|---|---|---|
+| Setup time | 2-5 minutes | 10-30 minutes (inc. queuing) | 5-10 minutes (pickup) |
+| Setup location | Anywhere with WiFi | UK shop only | UK airport or delivery |
+| Remove home SIM? | No | Yes (unless dual SIM) | No |
+| Extra device to carry? | No | No | Yes |
+| Charge another device? | No | No | Yes (daily) |
+| Return process? | No | No | Yes (before departure) |
+| Switching networks? | Yes (multi-network) | No (locked to one) | No (locked to one) |
+| UK phone number? | No (mostly) | Yes | No |
+| Works offline install? | Yes (pre-departure) | No | No |
+| Risk of loss/fees? | No | No | Yes (replacement fees) |
+| Can hotspot/tether? | Most providers | Yes (usually) | Yes (built-in) |
+
+### The Heathrow SIM Pricing Trap
+
+One of the most common mistakes travellers make is buying a SIM card at Heathrow airport without checking the price first. UK airport SIM pricing is significantly higher than what you would pay in a high-street shop or online. Here is what you can expect to pay at Heathrow compared to alternatives:
+
+- **Heathrow EE 5 GB prepaid SIM:** Approximately GBP 25-30
+- **High-street EE 5 GB prepaid SIM:** Approximately GBP 10-15
+- **Online eSIM 5 GB plan:** Approximately GBP 6.50-8.50
+
+The Heathrow markup is 100-200% compared to buying online. For a family of four, the difference adds up quickly: four airport SIMs at GBP 25 each total GBP 100, compared to four eSIM plans at GBP 8 each totalling GBP 32.
+
+The markup exists because airport retailers know travellers arriving without a plan are a captive audience. They pay high rent for airport locations and pass those costs on to customers. The same SIM card that costs GBP 10 at a shop in central London costs GBP 25 at the same retailer's airport location.
+
+The practical advice is straightforward: if you need a physical SIM, wait until you reach a high-street shop in central London or another city rather than buying at the airport. If your phone supports eSIM, buy and install the plan before departure to avoid airport pricing entirely.
+
+## Real-World User Scenarios
+
+Different travellers have different needs. Here is how each option works in practice for typical UK visitor profiles.
+
+### Scenario 1: The Solo Backpacker
+
+A solo traveller spending two weeks visiting London, Manchester, Edinburgh, and the Scottish Highlands needs reliable connectivity across multiple regions. They use their phone for navigation, hostel check-ins, social media, and occasional video calls home.
+
+**Best option: Multi-network eSIM.** A Ubigi 50 GB plan at GBP 34.99 covers the full trip with data to spare. The EE and Three combination provides coverage in both cities and rural areas. No physical SIM hunting, no pocket WiFi to carry, and the home SIM stays active for 2FA codes from the bank.
+
+**Alternative:** A physical EE SIM from a high-street shop at GBP 15-20 for 12 GB would work but requires finding a shop and swapping SIMs, losing home number access.
+
+**Not recommended:** Pocket WiFi for a solo traveller is expensive for one person and adds device management burden.
+
+### Scenario 2: The Family of Four
+
+A family visiting London for 7 days needs connectivity for all members. Parents need to navigate, kids want to stream content, and everyone needs to stay in touch.
+
+**Best option: Holafly unlimited eSIM with hotspot tethering.** One unlimited eSIM at GBP 19 installed on a parent's phone provides connectivity for the whole family through hotspot sharing. The multi-network access (O2, Vodafone, Three) provides decent coverage across London and day trip destinations.
+
+**Alternative: Pocket WiFi.** A 7-day pocket WiFi rental at GBP 35-45 covers the whole family at a similar per-person cost to individual eSIMs, but requires pickup, charging, and return.
+
+**Not recommended:** Four individual physical SIMs from the airport at GBP 25 each would total GBP 100, making this the most expensive option by far.
+
+### Scenario 3: The Business Traveller
+
+A professional visiting London for a 3-day business trip needs reliable, instant connectivity for email, video calls, and messaging. They arrive late and cannot afford connectivity issues.
+
+**Best option: Premium eSIM with auto switching.** Roami's [UK eSIM](/united-kingdom-esim/) with automatic carrier switching across all four networks ensures the best possible connection in central London meeting rooms and hotels. Installation before departure means connectivity from touchdown. Live support provides backup if anything goes wrong.
+
+**Alternative:** A physical SIM from a high-street shop if purchased during the day, but the ID requirement and shop visit add friction.
+
+**Not recommended:** Pocket WiFi requires pickup during business hours and adds device management that a busy professional does not need.
+
+### Scenario 4: The Budget Gap Year Traveller
+
+A backpacker spending 3 months in the UK on a tight budget needs long-term connectivity without spending more than necessary.
+
+**Best option: UK monthly physical SIM.** A monthly SIM from an MVNO like SMARTY (on Three) or Voxi (on Vodafone) offers unlimited data for around GBP 20 per month. This requires a UK address for delivery and a UK bank card, but provides the cheapest per-GB rates for extended stays.
+
+**Alternative:** Repeated top-ups of a large eSIM plan. Ubigi's 50 GB plan at GBP 34.99 every 30 days works out to GBP 35 per month, which is more expensive than a monthly SIM but more convenient for travellers without a UK address.
+
+**Not recommended:** Pocket WiFi for 3 months is prohibitively expensive at GBP 80-120 per month.
+
+### Scenario 5: The Digital Nomad
+
+A remote worker spending 1 month in the UK needs reliable, fast connectivity for video calls, cloud uploads, and constant connectivity.
+
+**Best option: Dual approach.** Sim Local eSIM (Three with EE fallback) for primary data, combined with a physical SIM or VoIP service for a UK number. The dual-network coverage provides reliability for video calls, and the UK number helps with local services and co-working spaces.
+
+**Alternative:** Roami eSIM with auto carrier switching across all four networks for maximum reliability, paired with a Skype UK number (GBP 3/month) for calls.
+
+**Not recommended:** Pocket WiFi for a digital nomad is impractical due to battery limitations and the need to stay near the device.
+
 ## Quick Decision Guide
 
-Still unsure? Here's a simple decision flow:
+Still unsure? Here is a simple decision flow:
 
 **Step 1: Does your phone support eSIM?**
 - **Yes** → Go to Step 2
 - **No** → Buy a physical SIM from a UK high street shop (avoid airport shops)
 
 **Step 2: Are you travelling alone or with a group?**
-- **Alone or couple** → Buy a UK eSIM. Cheaper, simpler, no extra device.
-- **Group of 3+** → Pocket WiFi may be cheaper. Compare costs.
+- **Alone or couple** → Buy a UK eSIM. Cheaper, simpler, no extra device to manage.
+- **Group of 3+** → Pocket WiFi may be cheaper. Compare costs below.
 
 **Step 3: Do you need a UK phone number?**
-- **Yes** → Consider physical SIM or an eSIM with number
+- **Yes** → Consider physical SIM or an eSIM that includes a number
 - **No** → Data-only eSIM is the simplest and cheapest
 
 **Step 4: When are you arriving?**
-- **Late flight / shops closed** → eSIM is essential
-- **Daytime arrival** → You have more options, but eSIM is still simpler
+- **Late flight / shops closed** → eSIM is essential. No queues, no ID checks.
+- **Daytime arrival** → You have more options, but eSIM is still simpler.
 
-For most travellers, the answer is clear: **buy a UK eSIM before you travel**. It's cheaper, simpler, and works from the moment you land. Use code **web20** for 20% off Roami's UK eSIM plans, or try the [free trial](/free-esim/) to test before you buy.
+### Decision Matrix: Which Option for Your Situation?
+
+| Your Situation | Best Option | Why | Approximate Cost (7 days) |
+|---|---|---|---|
+| Solo traveller, phone supports eSIM | eSIM | Cheapest, most convenient, no extra device | GBP 8-13 |
+| Couple, both phones support eSIM | eSIM (each) | Individual connectivity without sharing | GBP 16-26 total |
+| Family of 4, one phone can hotspot | Unlimited eSIM + tethering | One plan covers everyone | GBP 19-25 total |
+| Family of 4, phones don't support eSIM | Pocket WiFi | Only option for group without eSIM | GBP 35-45 total |
+| Group of friends (3-4), staying together | Pocket WiFi | Cheaper per person than individual eSIMs | GBP 9-12 per person |
+| Business traveller on short trip | Premium eSIM | Auto switching for reliability, live support | GBP 7-13 |
+| Backpacker on extended stay (30+ days) | UK monthly SIM | Cheapest per-GB for long stays | GBP 20-30/month |
+| Digital nomad needing fast, reliable data | Multi-network eSIM + VoIP | Best coverage + UK number via VoIP | GBP 13-35 + GBP 3 |
+| Older phone without eSIM support | Physical SIM (high street) | Only option, but avoid airport shops | GBP 15-25 |
+| Visiting multiple UK countries/regions | Multi-network eSIM | Auto switching between networks for best coverage | GBP 13-35 |
+| London-only city break | Budget eSIM | Cheapest entry point, city coverage only needed | GBP 5-8 |
+| Camping/hiking in remote areas | EE-based eSIM or physical SIM | Widest rural coverage of all networks | GBP 13-35 |
+
+For most travellers, the answer is clear: **buy a UK eSIM before you travel**. It is cheaper, simpler, and works from the moment you land. A [UK eSIM](/united-kingdom-esim/) provider with 24/7 live support, like Roami, gives you the added reassurance that help is available if anything goes wrong with your connection. Use code **web20** for 20% off Roami's UK eSIM plans, or try the [free trial](/free-esim/) to test before you buy.
 
 ## Summary: UK eSIM vs Physical SIM vs Pocket WiFi
 
@@ -344,6 +545,18 @@ For most travellers, the answer is clear: **buy a UK eSIM before you travel**. I
 | **Old phone / no eSIM** | Physical SIM | Only option for incompatible phones |
 | **Short trip (1-3 days)** | eSIM | Cheapest entry point, no ID required |
 | **Long stay (30+ days)** | Physical SIM (monthly contract) | Best rates for extended stays |
+
+## Quick Cost Decision: Pick the Most Affordable Option
+
+**If you're travelling alone and your phone supports eSIM → Buy a UK eSIM before departure. Cheapest option at £5-16 for 7 days.**
+
+**If you're travelling in a group of 3+ → Consider pocket WiFi if you stay together. Works out cheaper than individual eSIMs.**
+
+**If you need a UK phone number for local calls → Get a physical SIM from a high-street shop. UK networks include a number with every SIM.**
+
+**If you're arriving late when shops are closed → eSIM is essential. No queues, no ID checks, instant activation.**
+
+**If you have an older phone without eSIM support → Buy a physical SIM from a UK shop (avoid overpriced airport kiosks).**
 
 ---
 

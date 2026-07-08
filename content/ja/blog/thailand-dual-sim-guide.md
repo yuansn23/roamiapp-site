@@ -2,8 +2,8 @@
 title: "タイeSIMと物理SIMのデュアル設定ガイド2回線の使い方"
 description: "タイで日本のSIMを抜かずにeSIMを追加するデュアルSIM設定方法。RoamiがiPhoneとAndroid別に「設定」アプリ内の手順を画像付きで解説。切り替え時の注意点やAPN入力不要なプロバイダー情報も網羅。初心者でも5分で完了する完全ガイド。"
 keywords: ["eSIM", "旅行", "タイデュアルSIM"]
-date: 2026-07-01T10:00:00Z
-lastmod: 2026-07-01T10:00:00Z
+date: 2026-07-07T10:00:00Z
+lastmod: 2026-07-07T10:00:00Z
 author: "Roami Team"
 authorBio: "Roami は eSIM テクノロジーを専門とし、グローバルな接続ソリューションを提供しています。"
 image: "/img/esim/thailand/thailand-dual-sim-guide.jpg"
@@ -69,13 +69,13 @@ recentPosts:
     date: "2026-07-01"
 ---
 
-**監修**: 本記事は[Apple公式のデュアルSIMサポートページ](https://support.apple.com/ja-jp/108359)および[Google Pixel eSIM設定ガイド](https://support.google.com/pixelphone/answer/9430468?hl=ja)を参照し、Android（Pixel・Xperia・Galaxy）各メーカーの公式ガイド、eSIMプロバイダーの技術仕様に基づいて構成しています。[GSMA eSIMホワイトペーパー](https://www.gsma.com/esim/)も参考にしています。情報は**2026年7月**時点のものです。
+**監修**: 本記事は[Apple公式のデュアルSIMサポートページ](https://support.apple.com/ja-jp/108359)・[Apple Support](https://support.apple.com/en-us/HT212780)および[Google Pixel eSIM設定ガイド](https://support.google.com/pixelphone/answer/9430468?hl=ja)を参照し、Android（Pixel・Xperia・Galaxy）各メーカーの公式ガイド、eSIMプロバイダーの技術仕様に基づいて構成しています。[GSMA eSIMホワイトペーパー](https://www.gsma.com/esim/)・[GSMA](https://en.wikipedia.org/wiki/GSMA)も参考にしています。情報は**2026年7月**時点のものです。
 
 ---
 
 ## タイで日本のSIMを抜かずにeSIMを追加する方法
 
-タイ旅行に行くとき、日本のSIMカードをスマホから抜いてしまうと、帰国時に「SIMが見つからない」というトラブルに陥るリスクがある。また、海外ローミングをオンにしたままデータ通信を使うと、帰国後に予想外の高額請求が来る——これもよく聞く話だ。
+iPhone XS以降およびAndroid（Pixel 3以降、Galaxy S20以降）の対応機種では、物理SIMとeSIMの2回線を同時に使える。タイ旅行でこのデュアルSIM構成を取れば、日本の電話番号を維持したまま現地データ通信はタイeSIMで賄え、海外ローミング料金を一切発生させずに済む。設定時間はiPhoneで約5〜10分、Androidで約5〜15分だ。
 
 これらの問題を一挙に解決するのが**デュアルSIM運用**だ。iPhone XS以降と最近のAndroidスマホ（Pixel、Galaxy、Xperiaの対応機種）では、物理SIMとeSIMの2回線を同時に使える。日本の物理SIMはそのままにして、タイのeSIMを追加で入れる。これで日本の電話番号は維持したまま、現地のデータ通信はタイeSIMで賄える。
 
@@ -89,7 +89,7 @@ recentPosts:
 
 ## デュアルSIM運用の2つの構成パターン
 
-タイ旅行でのデュアルSIM運用には、主に2つの構成パターンがある。どちらを選ぶかは滞在目的と期間によって変わる。
+[Thailand eSIM](/thailand-esim/)を使ったデュアルSIM運用には、主に2つの構成パターンがある。どちらを選ぶかは滞在目的と期間によって変わる。
 
 ### パターンA：eSIMをタイ回線、物理SIMを日本回線（最もおすすめ）
 
@@ -105,13 +105,13 @@ recentPosts:
 - データ通信はすべてタイeSIM経由。海外ローミング料金が一切発生しない
 - タイ到着後すぐにデータ通信が使える（事前にeSIMをインストールしておけば）
 
-**Roami**もこのパターンAでの利用に適したプロバイダーの一つだ。AISとTrueMoveのデュアル回線を採用しており、都市部から離島まで幅広いエリアで安定した通信が期待できる。まずは[無料トライアル](/free-esim/)で設定の流れを確認し、その後にタイ向けプランを検討するのがおすすめだ。
+**Roami**もこのパターンAでの利用に適したプロバイダーの一つだ。[AIS](https://en.wikipedia.org/wiki/AIS_(company))と[TrueMove](https://en.wikipedia.org/wiki/TrueMove)のデュアル回線を採用しており、都市部から離島まで幅広いエリアで安定した通信が期待できる。まずは[無料トライアル](/free-esim/)で設定の流れを確認し、その後にタイ向けプランを検討するのがおすすめだ。
 
 ### パターンB：物理SIMをタイ回線、eSIMを日本回線
 
 | スロット | 回線 | 用途 | データ通信 | 音声通話 | SMS |
 |---------|------|------|----------|---------|-----|
-| **物理SIM** | **タイ（AIS / TrueMove / DTAC の現地SIM）** | 現地データ通信 | ✅ メインで使用 | ✅ タイ番号で通話可能 | ✅ |
+| **物理SIM** | **タイ（AIS / TrueMove / [DTAC](https://en.wikipedia.org/wiki/Dtac) の現地SIM）** | 現地データ通信 | ✅ メインで使用 | ✅ タイ番号で通話可能 | ✅ |
 | **eSIM** | **日本（楽天モバイル / povo2.0 など eSIM対応事業者）** | 日本との連絡手段 | ❌ オフ推奨 | ✅ Wi-Fi通話で節約 | ✅ |
 
 この構成は**タイの電話番号が必要な方**に適している。現地の銀行口座を開設する、長期間の滞在で現地契約が必要、GrabやFoodpandaなどのアプリでタイ番号での登録がスムーズ——といったケースだ。
@@ -429,7 +429,7 @@ RoamiもAiraloやUbigiと同じく、本記事で説明したデュアルSIM設�
 
 ## まとめ：デュアルSIMで快適なタイ旅行を
 
-タイ旅行でeSIM＋物理SIMのデュアルSIM運用を行えば、**日本の電話番号を維持しながら現地で快適なデータ通信を楽しめる**。
+タイ旅行で[Thailand eSIM](/thailand-esim/)と物理SIMのデュアルSIM運用を行えば、**日本の電話番号を維持しながら現地で快適なデータ通信を楽しめる**。
 
 - **おすすめ構成**：eSIMをタイ回線（データ通信用）、物理SIMを日本回線（電話・SMS受信用）
 - **iPhoneの設定時間**：約5〜10分（事前にeSIMをインストールしておけば到着後すぐ）

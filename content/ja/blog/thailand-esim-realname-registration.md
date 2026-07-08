@@ -2,8 +2,8 @@
 title: "タイeSIM実名登録完全ガイドパスポート手続きの全て"
 description: "タイeSIMの実名登録、何を持ってどこで手続きする？RoamiがAIS直営店での必要書類（パスポート・ビザ）や受付〜完了までの所要時間、注意点を画像付きで解説。国際eSIMが不要な理由もスッキリ理解できる完全ガイド。"
 keywords: ["eSIM", "旅行", "タイeSIM実名登録"]
-date: 2026-07-01T10:00:00Z
-lastmod: 2026-07-01T10:00:00Z
+date: 2026-07-07T10:00:00Z
+lastmod: 2026-07-07T10:00:00Z
 author: "Roami Team"
 authorBio: "Roami は eSIM テクノロジーを専門とし、グローバルな接続ソリューションを提供しています。"
 image: "/img/esim/thailand/thailand-esim-realname-registration.jpg"
@@ -69,15 +69,15 @@ recentPosts:
     date: "2026-07-01"
 ---
 
-**監修**: 本記事は[タイNBTC（国家放送電気通信委員会）公式サイト](https://www.nbtc.go.th/)の規制情報、[AIS公式実名登録ガイド](https://www.ais.th/en/consumer/support)、[GSMA eSIMホワイトペーパー](https://www.gsma.com/esim/)、およびタイ主要キャリア（AIS・TrueMove・DTAC）の公式登録ポリシーに基づいて構成しています。情報は**2026年7月**時点のものです。
+**監修**: 本記事は[タイNBTC（国家放送電気通信委員会）公式サイト](https://www.nbtc.go.th/)の規制情報、[AIS公式実名登録ガイド](https://www.ais.th/en/consumer/support)、[GSMA eSIMホワイトペーパー](https://www.gsma.com/esim/)・[GSMA](https://en.wikipedia.org/wiki/GSMA)、およびタイ主要キャリア（[AIS](https://en.wikipedia.org/wiki/AIS_(company))・[TrueMove](https://en.wikipedia.org/wiki/TrueMove)・[DTAC](https://en.wikipedia.org/wiki/Dtac)）の公式登録ポリシーに基づいて構成しています。情報は**2026年7月**時点のものです。
 
 ---
 
 ## タイでeSIMを買うとき、パスポートは本当に必要か
 
-タイ旅行の準備でeSIMを検討するとき、ふと気になるのが「パスポートが必要なのか」という点だ。空港で物理SIMを買うときはパスポートが必要だと聞いたことがあるが、eSIMの場合はどうなのか——結論から言うと、**どのeSIMを買うかによって全く異なる**。
+タイのeSIMは、国際プロバイダー（Airalo・Holafly・Ubigi・Roamiなど）と現地キャリア直営（AIS・TrueMove・DTAC）の2種類に大別され、実名登録の要否はまったく異なる。国際eSIMはパスポート不要で購入後すぐに利用開始できるが、現地キャリア直営の場合はパスポート原本による本人確認が必須だ。1つのパスポートで登録できる現地キャリアのプリペイドSIMは最大5回線までと定められている。
 
-国際eSIMプロバイダー（Airalo・Holafly・Ubigiなど）を利用する場合は、**実名登録は不要**だ。パスポートを提示する必要も、顔写真を撮影する必要もない。購入後すぐにQRコードが発行され、設定も数分で完了する。
+[Thailand eSIM](/thailand-esim/)の国際プロバイダー（Airalo・Holafly・Ubigiなど）を利用する場合は、**実名登録は不要**だ。パスポートを提示する必要も、顔写真を撮影する必要もない。購入後すぐにQRコードが発行され、設定も数分で完了する。
 
 一方、タイ現地キャリア（AIS・TrueMove・DTAC）の直営カウンターでeSIMを購入する場合は、**パスポートによる本人確認が必須**となる。空港の到着ロビーにあるキャリアカウンターで購入する場合も、パスポートの提示が求められる。
 
@@ -103,7 +103,7 @@ recentPosts:
 | **日本で事前購入した国際eSIM** | 購入時点で日本の事業者との契約となるため | 同上 |
 | **データ通信のみの利用** | 音声通話機能がないため、SIM登録が不要 | すべての国際eSIM |
 
-国際eSIMプロバイダー（Airalo、Holafly、Ubigi、Roamiなど）は、シンガポールや欧米などの海外法人がサービスを提供しているため、タイ国内法のSIM登録義務の対象外だ。そのため、**タイ eSIM パスポート**不要で、購入後すぐにQRコードが発行され、設定も数分で完了する。
+国際eSIMプロバイダー（Airalo、Holafly、Ubigi、Roamiなど）は、シンガポールや欧米などの海外法人がサービスを提供しているため、タイ国内法のSIM登録義務の対象外だ。そのため、[Thailand eSIM](/thailand-esim/)はパスポート不要で、購入後すぐにQRコードが発行され、設定も数分で完了する。
 
 **Roami**の場合も同様で、パスポート不要で購入から設定まで完了する。特に[eSIM無料トライアル](/free-esim/)が用意されており、タイ向けeSIMを実際に体験できる。初めてeSIMを使う方は、まず無料で試してみるのがおすすめだ。
 
