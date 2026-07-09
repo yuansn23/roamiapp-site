@@ -3,7 +3,7 @@ name: 定时触发 Cloudflare Pages 部署
 on:
   # 定时触发：每天 UTC 时间 0:00 (即北京时间上午 8:00) 运行
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '40 1 * * *'
   # 允许你手动在 GitHub Actions 界面点按钮运行，方便测试
   workflow_dispatch:
 
