@@ -2,7 +2,6 @@ name: 定时触发 Cloudflare Pages 部署（含持久化日志）
 
 on:
   schedule:
-<<<<<<< HEAD
     - cron: '50 3 * * *'
   workflow_dispatch:
 
