@@ -56,7 +56,16 @@ recentPosts:
     permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
     date: "2026-05-20"
 ---
-France eSIM prices range from $3 for 1GB/7 days to $80 for unlimited 30-day plans. Airalo offers the cheapest Orange-network plans starting at $4.50 for 1GB. Holafly has the only true unlimited option at $25 for 7 days but caps hotspot at 500MB. Ubigi delivers the fastest average speeds on Bouygues at $3.99 for 1GB. After testing 21 plans across 7 providers on Orange, SFR, Bouygues, and Free networks in Paris, Nice, and on TGV routes, the difference between the best and worst eSIM for France is roughly $50 per week and significant coverage gaps in specific locations.
+## France eSIM: 7 Providers Compared and Ranked for Travel
+
+France eSIM prices range from $3 for 1GB/7 days to $80 for unlimited 30-day plans.
+
+Provider highlights:
+- **Airalo:** Cheapest Orange-network plan at $4.50/1GB
+- **Holafly:** Only true unlimited at $25/7 days (hotspot capped 500MB)
+- **Ubigi:** Fastest speeds on Bouygues at $3.99/1GB
+- **Price gap:** Best vs worst differs by ~$50/week
+- **Coverage gap:** Significant between Orange, SFR, Bouygues, Free
 
 This France eSIM provider ranking breaks down every major option you can buy in 2026. Whether you want the cheapest eSIM for France travel, unlimited data, or the network with the best rural coverage, the comparison below answers the question of which France eSIM is best for your specific trip.
 
@@ -82,11 +91,11 @@ This guide ranks seven providers based on five criteria: price per GB, network q
 
 ## Airalo Review: Best Budget Orange-Network eSIM
 
-**Airalo France eSIM plans start at $4.50 for 1GB over 7 days. The 5GB plan costs $12.00 and the 10GB plan costs $20.00, both valid for 30 days.**
+### Airalo France eSIM plans start at $4.50 for 1GB over 7 days. The 5GB plan costs $12.00 and the 10GB plan costs $20.00, both valid for 30 days.
 
 Airalo is the most widely recognized eSIM brand in the travel space, and its France offering delivers solid value for a specific reason: it runs on Orange, France's largest and most reliable network. For travelers who want Orange coverage without paying Orange Travel prices, Airalo is the most straightforward option.
 
-**What Airalo does well:**
+### What Airalo does well:
 
 Orange network access is the headline feature. Orange covers roughly 95% of France's population and has the best rural coverage of any French carrier. In practical terms, this means Airalo works in places where many other eSIMs struggle — small villages in Provence, country roads in Normandy, and mountain towns in the Alps. If your France itinerary includes any time outside major cities, this is a meaningful advantage. You can verify Orange's extensive coverage footprint through their official [Orange France coverage map](https://www.orange.fr/).
 
@@ -94,7 +103,7 @@ Pricing is competitive at the lower tiers. Airalo's $4.50 for 1GB and $12.00 for
 
 The Airalo app is well-designed and handles installation smoothly. Purchase, QR code delivery, and top-up all happen within the app, which simplifies the process compared to providers that email QR codes.
 
-**Where Airalo falls short:**
+### Where Airalo falls short:
 
 Airalo locks you to Orange only. While Orange is the best network overall, there are situations where SFR or Bouygues has better local coverage. In dense central Paris during peak hours, Orange can get congested while SFR remains fast. Airalo cannot switch networks, so you are stuck with Orange's performance regardless of conditions.
 
@@ -102,7 +111,7 @@ Customer support is app-based chat only. Response times vary from 10 minutes to 
 
 No unlimited data plans. If you are a heavy data user or plan to hotspot for a laptop, Airalo's capped plans may not suit you.
 
-**Pricing breakdown:**
+### Pricing breakdown:
 
 | Plan | Price | Per-GB Cost | Validity |
 |---|---|---|---|
@@ -117,11 +126,11 @@ No unlimited data plans. If you are a heavy data user or plan to hotspot for a l
 
 ## Holafly Review: Best Unlimited Data France eSIM
 
-**Holafly France unlimited eSIM plans start at $25 for 7 days, $35 for 15 days, and $55 for 30 days. Holafly does not offer fixed-data plans below 5GB.**
+### Holafly France unlimited eSIM plans start at $25 for 7 days, $35 for 15 days, and $55 for 30 days. Holafly does not offer fixed-data plans below 5GB.
 
 Holafly occupies a unique position in the France eSIM market as the only major provider offering true unlimited data. If your primary concern is running out of data — whether for Google Maps navigation, social media uploads, video calls, or just the peace of mind of never checking a data counter — Holafly is the default choice.
 
-**What Holafly does well:**
+### What Holafly does well:
 
 Unlimited data with no speed throttling during normal use. Holafly does not impose a daily data cap or reduce speeds after a certain threshold. If you use 10GB in a day, you get 10GB at full speed. This is genuinely different from most "unlimited" travel eSIMs that throttle after 500MB-1GB per day.
 
@@ -129,7 +138,7 @@ Coverage runs on Bouygues and SFR networks, both of which have strong urban cove
 
 Setup is simple. Buy on the Holafly website, receive a QR code by email, scan it, and the eSIM activates on arrival in France. The installation guide is clear and the process takes about 3 minutes.
 
-**Where Holafly falls short:**
+### Where Holafly falls short:
 
 Hotspot tethering is severely restricted. Holafly allows only 500MB to 1GB of hotspot data per day depending on your plan. If you plan to share your connection with a laptop, tablet, or travel companion, this limitation is a dealbreaker. Many user complaints on Reddit and Trustpilot center on this restriction being unclear at purchase time.
 
@@ -139,7 +148,7 @@ Customer support has mixed reviews. Response times through live chat are general
 
 No Orange network access. Holafly uses Bouygues and SFR, which have weaker rural coverage than Orange. If your trip includes rural Provence, Normandy villages, or mountain areas, you may experience gaps that an Orange-connected eSIM would not have.
 
-**Pricing breakdown:**
+### Pricing breakdown:
 
 | Plan | Price | Data | Hotspot | Validity |
 |---|---|---|---|---|
@@ -147,18 +156,21 @@ No Orange network access. Holafly uses Bouygues and SFR, which have weaker rural
 | Unlimited 7 days | $25.00 | Unlimited | 500MB/day | 7 days |
 | Unlimited 10 days | $35.00 | Unlimited | 500MB/day | 10 days |
 | Unlimited 15 days | $40.00 | Unlimited | 1GB/day | 15 days |
-| Unlimited 20 days | $48.00 | Unlimited | 1GB/day | 20 days |
+| Unlimited 20 days | $48.00 | Unlimited | 1GB/day | 20
+
+For pricing across all providers, see our [France eSIM price guide](/blog/france-esim-price-purchase-guide/).
+ days |
 | Unlimited 30 days | $55.00 | Unlimited | 1GB/day | 30 days |
 
 **Who Holafly is for:** Heavy data users who do not need hotspot sharing. If you stream video, make long video calls, or simply want zero data anxiety, Holafly is the only unlimited option worth considering for a France eSIM. Not for travelers who need to share their connection or visit rural areas.
 
 ## Ubigi Review: Best Value and Speed on Bouygues
 
-**Ubigi France eSIM plans start at $3.99 for 1GB over 7 days. The 5GB plan costs $11.99 and the 10GB plan costs $18.99, both valid for 30 days.**
+### Ubigi France eSIM plans start at $3.99 for 1GB over 7 days. The 5GB plan costs $11.99 and the 10GB plan costs $18.99, both valid for 30 days.
 
 Ubigi has carved out a reputation as the speed-focused eSIM provider in Europe, and its France offering on the Bouygues network delivers on that promise. In speed tests across Paris and Lyon using [Ookla Speedtest](https://www.speedtest.net/), Ubigi consistently delivered the fastest download speeds among the seven providers tested — averaging 185 Mbps on 5G in central Paris compared to 120 Mbps for Airalo on Orange. Bouygues has invested heavily in 5G infrastructure, and [Bouygues Telecom's official site](https://www.bouyguestelecom.fr/) provides coverage details for their network.
 
-**What Ubigi does well:**
+### What Ubigi does well:
 
 Speed, specifically. Bouygues has invested heavily in urban 5G infrastructure, and in French cities it frequently outperforms Orange on raw throughput. For travelers who need fast data for video calls, large uploads, or just want the snappiest possible browsing experience, Ubigi on Bouygues is the fastest France eSIM available.
 
@@ -166,7 +178,7 @@ Pricing is aggressive at the low end. Ubigi's $3.99 for 1GB is the cheapest entr
 
 App and web experience are polished. Plan purchase, eSIM installation, and top-up management are straightforward. Ubigi also offers a data usage tracker within the app, which is useful for staying within your plan limits.
 
-**Where Ubigi falls short:**
+### Where Ubigi falls short:
 
 Bouygues-only coverage. While Bouygues has strong urban coverage, its rural reach is behind Orange. If you visit small towns in Provence, the Lot Valley, or rural Normandy, you may find Bouygues coverage patchy compared to Orange.
 
@@ -174,7 +186,7 @@ Customer support is email and web form only. There is no live chat. Response tim
 
 No unlimited data plans. Like Airalo, Ubigi only offers fixed-data plans. Heavy users will need to buy larger allowances or top up mid-trip.
 
-**Pricing breakdown:**
+### Pricing breakdown:
 
 | Plan | Price | Per-GB Cost | Validity |
 |---|---|---|---|
@@ -188,11 +200,11 @@ No unlimited data plans. Like Airalo, Ubigi only offers fixed-data plans. Heavy 
 
 ## Saily Review: Budget Alternative with Solid Coverage
 
-**Saily France eSIM plans start at $4.99 for 1GB over 7 days. The 5GB plan costs $13.99 and the 10GB plan costs $23.99, both valid for 30 days.**
+### Saily France eSIM plans start at $4.99 for 1GB over 7 days. The 5GB plan costs $13.99 and the 10GB plan costs $23.99, both valid for 30 days.
 
 Saily is a relatively new entrant to the travel eSIM space, launched by the team behind NordVPN. Its France offering connects to Orange and SFR networks, giving it broader coverage flexibility than single-network providers.
 
-**What Saily does well:**
+### What Saily does well:
 
 Dual-network access on Orange and SFR sets Saily apart from Airalo (Orange only) and Ubigi (Bouygues only). If Orange is congested in your location, Saily can route through SFR. This fallback capability is genuinely useful in dense urban areas during peak tourist season.
 
@@ -200,7 +212,7 @@ Pricing is competitive with Airalo and Ubigi at most tiers. The per-GB cost on l
 
 Privacy focus as a Nord product. Saily emphasizes no-logging and privacy protection, which may appeal to privacy-conscious travelers.
 
-**Where Saily falls short:**
+### Where Saily falls short:
 
 No automatic network switching. While Saily connects to two networks, you do not get seamless switching between them. The eSIM connects to whichever network is configured at activation and stays there. This is not the same as the multi-network auto-switching offered by some providers.
 
@@ -208,7 +220,7 @@ Limited market presence means fewer user reviews and less community troubleshoot
 
 Customer support is email-only. Nord's support infrastructure is strong for VPN issues but less proven for travel eSIM problems.
 
-**Pricing breakdown:**
+### Pricing breakdown:
 
 | Plan | Price | Per-GB Cost | Validity |
 |---|---|---|---|
@@ -222,11 +234,11 @@ Customer support is email-only. Nord's support infrastructure is strong for VPN 
 
 ## Nomad Review: Multi-Network Flexibility with Caveats
 
-**Nomad France eSIM plans start at $4.50 for 1GB over 7 days. The 5GB plan costs $12.50 and the 10GB plan costs $21.00, both valid for 30 days.**
+### Nomad France eSIM plans start at $4.50 for 1GB over 7 days. The 5GB plan costs $12.50 and the 10GB plan costs $21.00, both valid for 30 days.
 
 Nomad positions itself as a flexible eSIM provider and its France offering connects to Orange and Free networks. The dual-network approach gives travelers options, but the Free network component has significant coverage limitations.
 
-**What Nomad does well:**
+### What Nomad does well:
 
 Orange network access at competitive prices. For travelers who know they want Orange coverage, Nomad's pricing is close to Airalo's. The 5GB plan at $12.50 is only 50 cents more than Airalo's equivalent.
 
@@ -234,7 +246,7 @@ Dual-network option means you can switch between Orange and Free manually if one
 
 Referral and rewards program offers discounts on future purchases, which is useful for frequent travelers.
 
-**Where Nomad falls short:**
+### Where Nomad falls short:
 
 The Free network component is a mixed blessing. [Free Mobile](https://www.free.fr/) covers roughly 85% of the population with weaker indoor performance and more frequent congestion in tourist areas. In practical terms, Free's network quality in central Paris during summer is noticeably worse than Orange or SFR. Having Free as a fallback is not as useful as having SFR or Bouygues.
 
@@ -242,7 +254,7 @@ No automatic switching. Like Saily, Nomad requires manual network selection if y
 
 Customer support is app-based chat with variable response times. Some users report quick resolutions; others describe being passed between agents.
 
-**Pricing breakdown:**
+### Pricing breakdown:
 
 | Plan | Price | Per-GB Cost | Validity |
 |---|---|---|---|
@@ -256,11 +268,11 @@ Customer support is app-based chat with variable response times. Some users repo
 
 ## Orange Travel Review: France's Unique Carrier eSIM with French Number
 
-**Orange Travel eSIM plans start at $8.50 for 1GB over 7 days. The 5GB 14-day plan costs $25.00, the 20GB 30-day plan costs $40.00, and the Unlimited 30-day plan costs $45.00.**
+### Orange Travel eSIM plans start at $8.50 for 1GB over 7 days. The 5GB 14-day plan costs $25.00, the 20GB 30-day plan costs $40.00, and the Unlimited 30-day plan costs $45.00.
 
 Orange Travel is fundamentally different from every other eSIM in this ranking. It is a carrier-branded product sold directly by Orange France, the country's largest mobile network operator. It is the only France eSIM that comes with a French phone number.
 
-**What Orange Travel does well:**
+### What Orange Travel does well:
 
 A French phone number is the killer feature. Unlike data-only travel eSIMs, Orange Travel includes a genuine French mobile number with voice and SMS capability. This matters for several common travel scenarios:
 
@@ -276,7 +288,7 @@ Orange network priority is the second major advantage. Orange Travel customers g
 
 Pickup at CDG Airport is available. You can buy a physical SIM or eSIM at the Orange store in Charles de Gaulle airport terminals. For travelers who prefer in-person support, this option exists.
 
-**Where Orange Travel falls short:**
+### Where Orange Travel falls short:
 
 Price is the main drawback. Orange Travel costs 20-40% more than equivalent plans from Airalo, Ubigi, or Nomad. The 5GB 14-day plan at $25 is more than double Airalo's $12 for 5GB on the same Orange network. You are paying a premium for the French number and carrier-direct service.
 
@@ -284,7 +296,7 @@ Plan variety is limited. Orange Travel offers fewer data tiers than most competi
 
 No top-up on all plans. Some Orange Travel plans cannot be topped up; you must buy a new eSIM when data runs out. This is less flexible than competitors that allow within-plan top-ups.
 
-**Pricing breakdown:**
+### Pricing breakdown:
 
 | Plan | Price | Per-GB Cost | Validity | French Number |
 |---|---|---|---|---|
@@ -297,11 +309,11 @@ No top-up on all plans. Some Orange Travel plans cannot be topped up; you must b
 
 ## aloSIM Review: Simple Transparent Pricing
 
-**aloSIM France eSIM plans start at $5.00 for 1GB over 7 days. The 5GB plan costs $15.00 and the 10GB plan costs $25.00, both valid for 30 days.**
+### aloSIM France eSIM plans start at $5.00 for 1GB over 7 days. The 5GB plan costs $15.00 and the 10GB plan costs $25.00, both valid for 30 days.
 
 aloSIM is a Canadian-based eSIM provider that has built a reputation for straightforward pricing without hidden conditions. Its France eSIM connects to Orange and SFR networks.
 
-**What aloSIM does well:**
+### What aloSIM does well:
 
 Pricing transparency is aloSIM's standout feature. The price you see is what you pay. No dynamic pricing based on demand, no surprise fees at checkout, no complicated tier structures. For travelers who want a simple purchase decision, this is refreshing.
 
@@ -309,7 +321,7 @@ Dual-network connectivity on Orange and SFR provides good coverage diversity. Or
 
 Customer support is responsive compared to most competitors. aloSIM offers live chat with human agents (not bots) and generally resolves issues within minutes rather than hours.
 
-**Where aloSIM falls short:**
+### Where aloSIM falls short:
 
 Mid-range pricing. aloSIM is not the cheapest at any tier. Its 5GB plan at $15 is $3 more than Airalo and $3 more than Ubigi. The premium for transparency and support is modest but real.
 
@@ -317,7 +329,7 @@ No unlimited data plans. Like most providers in this ranking, aloSIM only offers
 
 Smaller provider means thinner documentation and fewer community resources. If you need troubleshooting help, you are more reliant on aloSIM's own support than on forums or Reddit.
 
-**Pricing breakdown:**
+### Pricing breakdown:
 
 | Plan | Price | Per-GB Cost | Validity |
 |---|---|---|---|
@@ -466,7 +478,7 @@ This consensus aligns with what the data shows. Airalo offers the best combinati
 
 Every provider reviewed above locks you to one or two French networks. Airalo uses Orange only. Holafly uses Bouygues and SFR. Ubigi uses Bouygues. Nomad uses Orange and Free. None of them automatically switch between networks based on real-time signal quality.
 
-This matters because network performance in France varies significantly by location. Roami handles this variation through automatic carrier switching between all four French networks. Orange is best in rural areas but can be congested in central Paris at peak hours. Bouygues is fastest in Lyon but weaker in small towns. SFR has strong coastal coverage but gaps inland. Free is cheap but struggles indoors and in tourist crowds.
+This matters because network performance in France varies significantly by location. Roami handles this variation through Roami offers automatic carrier switching between all four French networks. Orange is best in rural areas but can be congested in central Paris at peak hours. Bouygues is fastest in Lyon but weaker in small towns. SFR has strong coastal coverage but gaps inland. Free is cheap but struggles indoors and in tourist crowds.
 
 A [france esim](/france-esim/) like Roami with automatic carrier switching solves this by monitoring signal strength across Orange, SFR, Bouygues, and Free in real time and connecting you to the strongest network at your current location. Land at CDG and connect to Orange. Take the TGV to Marseille and the system shifts to whichever network performs best along the route. Visit a small village in the Luberon and it hands off to the strongest available carrier automatically.
 
@@ -552,19 +564,19 @@ The cheapest eSIM for France travel is Airalo or Ubigi at roughly $12 for 5GB. T
 
 Before you choose a France eSIM, run through these five questions:
 
-**1. Which French network does this eSIM use?**
+### 1. Which French network does this eSIM use?
 Check the provider's coverage page or FAQ. If it uses Orange, you get the widest coverage. If it uses Free, expect city-only reliability. If it uses Bouygues or SFR, you get strong urban performance with some rural gaps.
 
-**2. Does my phone support eSIM?**
+### 2. Does my phone support eSIM?
 Most phones from 2020 onwards do, but check before you buy. iPhone XS and later, Samsung S20 and later, and Google Pixel 3 and later all support eSIM. US iPhone 14 and later are eSIM-only.
 
-**3. Is my phone carrier-locked?**
+### 3. Is my phone carrier-locked?
 Phones locked to AT&T, Verizon, or T-Mobile cannot use third-party eSIMs unless unlocked. Request an unlock before travel.
 
-**4. How much data do I actually need?**
+### 4. How much data do I actually need?
 Most tourists use 500MB-1GB per day for maps, social media, and messaging. A 5GB plan covers a 7-day trip for moderate users. Heavy users who stream video or make video calls should budget 1.5-3GB per day.
 
-**5. Do I need a French phone number?**
+### 5. Do I need a French phone number?
 For SNCF tickets, Navigo passes, and restaurant reservations through La Fourchette, a French number is helpful. Orange Travel is the only eSIM that includes one. For everyone else, a data-only eSIM is sufficient.
 
 ### Avoiding Common Mistakes
@@ -577,10 +589,11 @@ For SNCF tickets, Navigo passes, and restaurant reservations through La Fourchet
 
 **Relying solely on airport WiFi for setup.** Airport WiFi networks are often slow, unreliable, or require SMS verification that your home number may not receive in France. Install your eSIM on your home WiFi before departure.
 
-For the comprehensive guide covering Orange, Free, SFR, and Bouygues networks in depth, see our [France network comparison guide](/blog/france-esim-network-comparison/). For setup and dual-SIM instructions, read our [France eSIM setup guide](/blog/france-esim-setup-dual-sim-number/). For cost comparisons with physical SIM cards and carrier roaming, read our [France eSIM vs physical SIM guide](/blog/france-esim-vs-physical-sim-roaming/). For a complete overview of coverage by destination, see our [France eSIM coverage guide](/blog/france-esim-coverage-guide/). For pricing across all data tiers, read our [France eSIM price guide](/blog/france-esim-price-purchase-guide/).
-
 ---
 
 *Prices and provider details as of July 2026. Always verify current pricing on the provider's website before purchasing. Network coverage data based on publicly available ARCEP reports and provider coverage maps.*
 
 For official provider information, [Orange](https://www.orange.com), [SFR](https://www.sfr.fr), [Bouygues Telecom](https://www.bouyguestelecom.fr), and [Free Mobile](https://www.free.fr) publish coverage maps. [ARCEP](https://www.arcep.fr/) regulates the French telecom market.
+
+
+For more information, see our [France eSIM complete guide](/blog/france-esim-complete-guide/).

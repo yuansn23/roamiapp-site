@@ -56,7 +56,8 @@ recentPosts:
     permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
     date: "2026-05-20"
 ---
-Ten major eSIM providers compete for China travelers in 2026. The critical difference between them is whether they include built-in VPN, use Hong Kong routing, or require a separate VPN for blocked app access. Saily (built-in VPN, $4.49/1GB) is the best overall for most travelers. Holafly (unlimited data with VPN, $27/week) leads for unlimited plans. Airalo (from $5/1GB, no VPN) is the budget choice. Roami stands out with automatic carrier switching across all three Chinese carriers. This guide ranks all 10 providers by firewall bypass reliability, speed, pricing, and real user feedback.
+
+Ten major eSIM providers compete for China travelers in 2026. According to [Ookla](https://www.speedtest.net/global-index), China Mobile leads in 5G coverage nationwide. For device compatibility, see [Apple Support](https://support.apple.com/en-us/HT212780). Roami stands out with automatic carrier switching across all three Chinese carriers. For the latest carrier coverage data, visit [China Mobile](https://www.chinamobileltd.com).
 
 ---
 
@@ -85,7 +86,7 @@ Every provider tested on China Mobile's network in Beijing, Shanghai, and Guangz
 
 Saily is the eSIM arm of Nord Security, the company behind NordVPN. This pedigree shows in their China product: every Saily eSIM includes a built-in Virtual Location feature that routes traffic through servers outside China, giving you unfettered access to Google Maps, WhatsApp, Instagram, YouTube, and any other blocked service without needing a separate VPN app.
 
-**Pricing (China plans):**
+### Pricing (China plans):
 
 | Data | Validity | Price |
 |---|---|---|
@@ -97,18 +98,18 @@ Saily is the eSIM arm of Nord Security, the company behind NordVPN. This pedigre
 | Unlimited | 7 days (5GB/day high-speed) | $29.99 |
 | Unlimited | 15 days (5GB/day high-speed) | $49.99 |
 
-**Coverage and performance:** Saily connects to all three Chinese carriers — China Mobile, China Unicom, and China Telecom — automatically selecting the strongest signal. In our speed tests across Beijing, Shanghai, and Guangzhou, we recorded peak download speeds of 85 Mbps on China Mobile's 5G network and consistent 30-50 Mbps in subway stations and indoor locations. If you are wondering about the **best eSIM for Beijing Shanghai** specifically, Saily's multi-carrier support gives it an advantage: China Mobile dominates in northern cities like Beijing while Unicom has stronger infrastructure in Shanghai, and Saily switches between them automatically depending on which provides the best signal at your location. For a comparison of providers that offer automatic carrier switching between all three carriers alongside real-time price optimization and 24/7 customer support, see the [china eSIM](/china-esim/) overview. The Virtual Location feature added approximately 35-50 ms of latency (traffic routes Hong Kong → destination), which is imperceptible for messaging, maps, and video streaming.
+For step-by-step setup instructions, see our [China eSIM installation guide](/blog/china-esim-setup-installation-dual-sim/). **Coverage and performance:** Saily connects to all three Chinese carriers — China Mobile, China Unicom, and China Telecom — automatically selecting the strongest signal. In our speed tests across Beijing, Shanghai, and Guangzhou, we recorded peak download speeds of 85 Mbps on China Mobile's 5G network and consistent 30-50 Mbps in subway stations and indoor locations. If you are wondering about the **best eSIM for Beijing Shanghai** specifically, Saily's multi-carrier support gives it an advantage: China Mobile dominates in northern cities like Beijing while Unicom has stronger infrastructure in Shanghai, and Saily switches between them automatically depending on which provides the best signal at your location. For a comparison of providers that offer automatic carrier switching between all three carriers alongside real-time price optimization and 24/7 customer support, see the [china eSIM](/china-esim/) overview. The Virtual Location feature added approximately 35-50 ms of latency (traffic routes Hong Kong → destination), which is imperceptible for messaging, maps, and video streaming.
 
 **What makes Saily stand out:** The NordVPN integration is not a marketing gimmick. The Virtual Location feature uses the same server infrastructure as NordVPN but is baked directly into the eSIM connection. You do not need to launch a separate app, toggle a VPN switch, or manage subscriptions. It just works from the moment you enable data roaming after landing. For travelers who want a "set it and forget it" experience with strong privacy guarantees, this is the best option available.
 
-**Pros:**
+### Pros:
 - Built-in Virtual Location bypasses firewall without extra apps
 - Connects to all three Chinese carriers (auto-selects strongest)
 - Unlimited hotspot tethering (no daily cap, unlike most competitors)
 - Clean app interface with one-tap activation
 - Nord Security privacy policy (no logs, GDPR-compliant)
 
-**Cons:**
+### Cons:
 - Unlimited plans have a 5GB/day high-speed cap before throttling to 1 Mbps
 - Slightly more expensive than Airalo on a per-GB basis for small data tiers
 - No phone number (data-only, like all travel eSIMs)
@@ -117,7 +118,7 @@ Saily is the eSIM arm of Nord Security, the company behind NordVPN. This pedigre
 
 If you are looking for the **best China eSIM for Google Maps access**, Saily is the strongest candidate. Google Maps is the most commonly blocked service that travelers rely on for navigation, and Saily's Virtual Location feature ensures it loads reliably even in areas where other eSIMs' routing may fall back to local carrier infrastructure. In our tests, Google Maps loaded successfully in every location where Saily was active, including subway tunnels and dense urban areas where signal handoffs occur frequently.
 
-In this **Saily vs Airalo China eSIM review** comparison, the key differences become clear at the usage level. Saily costs more per GB at the entry tier ($4.49 vs $5.00 for 1GB is essentially even, but $9.99 for 3GB vs $11.50 for 3GB favors Saily) and includes VPN functionality that Airalo lacks. Airalo connects to China Unicom only, while Saily automatically switches between all three carriers. For the price difference of roughly $2-3 per trip, Saily delivers significantly more reliability for firewall bypass and broader coverage — a worthwhile tradeoff for most travelers.
+In this **Saily vs Airalo China eSIM review** comparison, the key differences become clear at the usage level. Saily costs more per GB at the entry tier ($4.49 vs $5.00 for 1GB is essentially even, but $9.99 for 3GB vs $11.50 for 3GB favors Saily) and includes VPN functionality that Airalo lacks. Airalo connects to China Unicom only, while Saily Roami offers automatically switches between all three carriers. For the price difference of roughly $2-3 per trip, Saily delivers significantly more reliability for firewall bypass and broader coverage — a worthwhile tradeoff for most travelers.
 
 For detailed pricing comparisons across all tiers, see our [China eSIM price and purchase guide](/blog/china-esim-price-plan-purchase-guide/).
 
@@ -127,7 +128,7 @@ For detailed pricing comparisons across all tiers, see our [China eSIM price and
 
 Holafly has built a strong reputation among China travelers specifically because their unlimited data plans include a built-in VPN. On the Reddit China travel community, Holafly consistently appears as the top recommendation for travelers who want zero hassle — buy the plan, scan the QR code, and every blocked app works on arrival.
 
-**Pricing (China unlimited plans):**
+### Pricing (China unlimited plans):
 
 | Duration | Price | Daily Cost |
 |---|---|---|
@@ -144,14 +145,14 @@ Holafly has built a strong reputation among China travelers specifically because
 
 **The unlimited data reality:** "Unlimited" comes with a fair-use policy. Holafly does not publish a specific cap, but multiple user reports and our own testing suggest that sustained heavy usage (downloading large files, streaming HD video for hours) triggers throttling after roughly 5-8 GB of daily usage. For normal travel usage — maps, messaging, social media, occasional video calls, and light streaming — the throttling threshold is unlikely to matter.
 
-**Pros:**
+### Pros:
 - True unlimited data with built-in VPN
 - Excellent coverage on China Mobile's network
 - 24/7 customer support via live chat (responsive in our tests)
 - Simple activation: buy, scan QR, done
 - Works for Google Maps, WhatsApp, Instagram out of the box
 
-**Cons:**
+### Cons:
 - Hotspot tethering capped at 500 MB-1 GB per day
 - VPN speeds can slow during evening peak hours (7-10 PM China time)
 - No smaller data-only plans (daily minimum is $6.90)
@@ -167,7 +168,7 @@ For travelers specifically looking for the **best unlimited data eSIM China** ha
 
 Airalo is the largest eSIM marketplace globally by brand recognition, and their China plans are among the most purchased in the category. They offer the widest range of data tiers and competitive pricing, but notably do not include a built-in VPN.
 
-**Pricing (China plans):**
+### Pricing (China plans):
 
 | Data | Validity | Price |
 |---|---|---|
@@ -184,14 +185,14 @@ Airalo is the largest eSIM marketplace globally by brand recognition, and their 
 
 **Airalo China eSIM vs local SIM cost:** A local Chinese physical SIM from China Mobile costs approximately $5-15 for a month of data, but requires passport registration at the airport and does not bypass the firewall (you would need a separate VPN costing another $5-10/month). Airalo's 5GB plan at $16.50 saves you the airport queue and works with Google out of the box — or at least most of the time. For short trips of 7-14 days, the convenience premium over a local SIM is marginal and well worth it.
 
-**Pros:**
+### Pros:
 - Widest range of data tiers (1GB to 20GB)
 - Competitively priced for small data needs
 - Global brand with reliable customer support
 - Easy top-up if you run out mid-trip
 - Free 1GB/24-hour Welcome eSIM for new users
 
-**Cons:**
+### Cons:
 - No built-in VPN (separate VPN app required for full reliability)
 - China Unicom coverage weaker than China Mobile in rural areas
 - Per-GB pricing less competitive than Nomad or Saily at higher data tiers
@@ -207,7 +208,7 @@ If you are specifically hunting for the **cheapest eSIM for China travel**, Aira
 
 Ubigi is owned by Transatel, a French MVNE (Mobile Virtual Network Enabler) that has a direct partnership with China Telecom. This matters because China Telecom is the dominant carrier in southern China and has strong infrastructure in Guangzhou, Shenzhen, and the surrounding Pearl River Delta region.
 
-**Pricing (China/world plans):**
+### Pricing (China/world plans):
 
 | Plan | Data | Validity | Price |
 |---|---|---|---|
@@ -221,14 +222,14 @@ Ubigi is owned by Transatel, a French MVNE (Mobile Virtual Network Enabler) that
 
 **No VPN needed?** Ubigi does not include a built-in VPN, but their premium routing architecture typically bypasses the firewall without one. In our testing across three cities, Google Maps, Gmail, and WhatsApp worked without a separate VPN in every location. The exception was access to streaming services — YouTube and Netflix occasionally detected the routing IP and served region-locked content. A VPN solves this, but is not required for core communication apps.
 
-**Pros:**
+### Pros:
 - Direct China Telecom partnership (most stable southern China coverage)
 - Premium routing typically bypasses firewall without VPN
 - No hotspot restrictions
 - Automatic activation on arrival
 - Parent company NTT provides enterprise-grade infrastructure
 
-**Cons:**
+### Cons:
 - No built-in VPN (streaming may encounter regional restrictions)
 - Pricing less competitive at lower data tiers
 - Global plans auto-renew by default (remember to cancel)
@@ -246,7 +247,7 @@ For a direct **Holafly vs Ubigi China comparison**, the choice is between unlimi
 
 Yesim positions itself as a flexible eSIM provider with a "pay-as-you-go" philosophy. Their China offering includes a built-in VPN for iOS users and automatic network switching between available carriers.
 
-**Pricing (China prepaid plans):**
+### Pricing (China prepaid plans):
 
 | Data | Price |
 |---|---|
@@ -255,7 +256,7 @@ Yesim positions itself as a flexible eSIM provider with a "pay-as-you-go" philos
 | 10 GB | $34.80 |
 | 20 GB | $55.20 |
 
-**Unlimited plans:**
+### Unlimited plans:
 
 | Duration | Price |
 |---|---|
@@ -270,14 +271,14 @@ Yesim positions itself as a flexible eSIM provider with a "pay-as-you-go" philos
 
 **Ubigi vs Yesim China eSIM comparison:** Both providers offer automatic network switching, but they differ fundamentally. Ubigi's advantage is its direct China Telecom partnership and premium routing that usually bypasses the firewall without a VPN. Yesim's advantage is the built-in VPN (iOS) and the flexibility of delayed activation. If you are on iPhone and want VPN coverage without managing a separate app, Yesim wins. If you are on Android or want the most stable carrier connection, Ubigi is the better choice.
 
-**Pros:**
+### Pros:
 - Built-in VPN for iOS (single-tunnel, effective)
 - Delayed activation up to 365 days
 - App-based setup (no QR code)
 - Automatic network switching between carriers
 - Hotspot support included
 
-**Cons:**
+### Cons:
 - No VPN for Android users
 - Higher per-GB pricing than Airalo, Saily, and Nomad
 - Unlimited plans are expensive at longer durations
@@ -293,7 +294,7 @@ For a direct **Yesim vs Ubigi China eSIM comparison**, the distinction is clear:
 
 Nomad has carved out a niche for China travelers who need significant data allowances — their 50 GB plan is one of the most generous among international eSIM providers. They also market specifically for Great Firewall bypass, with routing infrastructure designed to keep blocked services accessible.
 
-**Pricing (China plans):**
+### Pricing (China plans):
 
 | Data | Validity | Price | Per-GB Cost |
 |---|---|---|---|
@@ -308,13 +309,13 @@ Nomad has carved out a niche for China travelers who need significant data allow
 
 **The value proposition:** Nomad's per-GB pricing at the 50 GB tier ($0.70/GB) is among the best available. For a 30-day trip with heavy data usage — video calls, streaming, hotspot sharing — this is significantly more cost-effective than unlimited plans from Holafly or Saily. Even the 10 GB tier at $2.00/GB is competitive.
 
-**Pros:**
+### Pros:
 - Best per-GB pricing at high data tiers (50 GB at $35)
 - Routing-based firewall bypass works reliably
 - Hotspot tethering allowed
 - 24/7 customer support
 
-**Cons:**
+### Cons:
 - No built-in VPN (separate VPN recommended as backup)
 - Coverage weaker in rural areas (China Unicom focus)
 - No unlimited data option
@@ -328,7 +329,7 @@ Nomad has carved out a niche for China travelers who need significant data allow
 
 Jetpac differentiates itself with a "travel perks" layer on top of standard eSIM connectivity: airport lounge access, fast-track security passes, and a SmartDelay feature that provides complimentary lounge access when your flight is delayed.
 
-**Pricing (China plans):**
+### Pricing (China plans):
 
 | Data | Validity | Price |
 |---|---|---|
@@ -339,7 +340,7 @@ Jetpac differentiates itself with a "travel perks" layer on top of standard eSIM
 | Unlimited | 15 days | $41.99 |
 | 40 GB | 30 days | $65.00 |
 
-**Travel perks breakdown:**
+### Travel perks breakdown:
 - **SmartDelay:** Register your flight in the app 24+ hours before departure. If your flight is delayed, Jetpac sends a QR code for complimentary lounge access (you + a guest) at 1,100+ lounges worldwide, including Chinese airports.
 - **Essential app access:** Even after your data runs out, Google Maps, WhatsApp, Uber, and Grab remain accessible — a thoughtful feature for travelers who burn through their data faster than expected.
 - **Fast Track:** Paid security lane access at select airports for $12 per pass.
@@ -348,14 +349,14 @@ Jetpac differentiates itself with a "travel perks" layer on top of standard eSIM
 
 **Jetpac China eSIM free lounge review:** The lounge access perk is legitimate but situational — it only triggers on actual flight delays, not as a blanket benefit. For frequent travelers who encounter delays regularly, it adds real value. For travelers on direct flights with good on-time records, the perk may never activate. Consider it a bonus rather than a deciding factor.
 
-**Pros:**
+### Pros:
 - Built-in VPN for China firewall bypass
 - SmartDelay lounge access (legitimate perk for delayed flights)
 - Essential app access after data depletion
 - Polished app with usage tracking
 - Competitive unlimited pricing at $41.99 for 15 days
 
-**Cons:**
+### Cons:
 - Lounge perk is delay-dependent (not guaranteed)
 - Per-GB pricing higher than Nomad at large data tiers
 - Data-only (no voice/SMS)
@@ -363,7 +364,10 @@ Jetpac differentiates itself with a "travel perks" layer on top of standard eSIM
 
 **Who should choose Jetpac:** Travelers who appreciate the lounge access perk and want a built-in VPN with a polished app experience. Best for medium-length trips (10-15 days) where the unlimited plan hits the sweet spot of price and data volume.
 
-Our **Jetpac China eSIM free lounge review** confirms the SmartDelay perk works as advertised — during testing, a delayed connection at Beijing Capital Airport triggered complimentary lounge access for two people. While this feature alone should not drive your purchase decision (it only activates on delays), it is a genuinely useful bonus that no other eSIM provider offers at this price point.
+Our **Jetpac China eSIM free lounge review** confirms the SmartDelay perk works as advertised — during testing, a delayed 
+
+For pricing and plan comparisons, see our [China eSIM price guide](/blog/china-esim-price-plan-purchase-guide/).
+connection at Beijing Capital Airport triggered complimentary lounge access for two people. While this feature alone should not drive your purchase decision (it only activates on delays), it is a genuinely useful bonus that no other eSIM provider offers at this price point.
 
 ---
 
@@ -371,7 +375,7 @@ Our **Jetpac China eSIM free lounge review** confirms the SmartDelay perk works 
 
 a China eSIMfy positions itself as a budget-friendly alternative to the major eSIM brands, with lower prices per GB and a wide selection of plan lengths. Their focus on cost efficiency makes them a strong choice for travelers who are price-sensitive and comfortable managing data limits.
 
-**Pricing (China plans):**
+### Pricing (China plans):
 
 | Data | Validity | Price |
 |---|---|---|
@@ -386,14 +390,14 @@ a China eSIMfy positions itself as a budget-friendly alternative to the major eS
 
 **a China eSIMfy China eSIM budget plan analysis:** At $12 for 5 GB over 30 days, a China eSIMfy is among the cheapest options for light users on extended stays. The 10 GB plan at $18 undercuts Airalo ($28) and Saily ($24.99) by significant margins. The catch is the lack of VPN support — budget the cost of a VPN subscription ($5-10/month) into your total connectivity cost if you do not already have one.
 
-**Pros:**
+### Pros:
 - Lowest prices per GB among mainstream providers
 - China Mobile network (best coverage)
 - 30-day plans are genuinely affordable for long stays
 - Hotspot tethering included
 - No contracts or hidden fees
 
-**Cons:**
+### Cons:
 - No built-in VPN (mandatory to budget for separate VPN)
 - Smaller brand with less established customer support
 - Unlimited plans have fair-use throttling
@@ -409,7 +413,7 @@ For those specifically searching for a **a China eSIMfy China eSIM budget plan**
 
 3HK (Three Hong Kong) is a Hutchison Telecom brand that offers eSIM plans covering mainland China, Hong Kong, Macau, and multiple Asian destinations in a single profile. For travelers with multi-country itineraries, this eliminates the need to buy separate eSIMs for each destination.
 
-**Pricing (multi-country Asia plans):**
+### Pricing (multi-country Asia plans):
 
 | Data | Validity | Coverage | Price (HKD) |
 |---|---|---|---|
@@ -421,14 +425,14 @@ For those specifically searching for a **a China eSIMfy China eSIM budget plan**
 
 **3HK China eSIM multi-country Asia:** This is 3HK's killer feature. If your itinerary includes China, Hong Kong, Macau, Japan, South Korea, Taiwan, Thailand, Vietnam, Singapore, and other Asian markets, a single 3HK eSIM covers everything. The 365-day validity means you can use remaining data on a return trip months later.
 
-**Pros:**
+### Pros:
 - Single eSIM covers China + multiple Asian countries
 - 365-day validity (use across multiple trips)
 - Hong Kong routing bypasses firewall
 - Competitive pricing for multi-country coverage
 - Available on major eSIM platforms like KKday
 
-**Cons:**
+### Cons:
 - Slower speeds than China-specific eSIMs (60 Mbps peak)
 - Must be purchased through third-party platforms (KKday, etc.)
 - Limited customer support channels
@@ -445,7 +449,7 @@ If you were searching for a **3HK China eSIM multi country Asia** plan, this is 
 
 CMHK (China Mobile Hong Kong) offers eSIM plans specifically designed for cross-border travelers moving between Hong Kong and mainland China. Plans include a Hong Kong phone number (unique among most eSIM options on this list) and route traffic through Hong Kong servers.
 
-**Pricing (Greater Bay Area plans):**
+### Pricing (Greater Bay Area plans):
 
 | Data | Validity | Price |
 |---|---|---|
@@ -459,14 +463,14 @@ CMHK (China Mobile Hong Kong) offers eSIM plans specifically designed for cross-
 
 **CMHK China eSIM roaming review:** The Hong Kong phone number is the standout feature — most travel eSIMs are data-only, which creates problems for app registration and two-factor authentication. CMHK solves this. The tradeoff is the activation complexity and slightly slower speeds (58 Mbps peak) due to the Hong Kong routing hop.
 
-**Pros:**
+### Pros:
 - Includes Hong Kong phone number (SMS-capable)
 - Hong Kong routing automatically bypasses firewall
 - China Mobile network coverage (best in China)
 - Multi-country coverage (China, HK, Macau)
 - Genuinely useful for WeChat and Alipay registration
 
-**Cons:**
+### Cons:
 - Must activate outside mainland China (policy as of June 2026)
 - Slower speeds than direct China eSIMs
 - More expensive per GB than budget providers
@@ -513,13 +517,13 @@ For a detailed guide on app compatibility and setup, see our [China eSIM complet
 
 The China travel subreddits (r/travelchina, r/china, r/esim) are valuable sources of unfiltered user feedback. We aggregated discussions from approximately 50 threads posted between January and June 2026 to understand community sentiment.
 
-**Top recommendations by volume:**
+### Top recommendations by volume:
 - **Holafly** (~40% of recommendations) — Dominates because of the unlimited data + VPN combination. Typical user quote: "Connected instantly at Shanghai airport, VPN worked the whole trip. Expensive but zero stress."
 - **Airalo** (~35% of recommendations) — The budget favorite, but with a consistent caveat. Users emphasize: "Airalo works, but you MUST have a VPN ready. If your connection routes locally, you are cut off."
 - **Nomad** (~15%) — Praised for large data plans at competitive prices. User feedback: "50GB for $35 is unbeatable for long stays."
 - **Saily** (~10%) — Growing rapidly in 2026. Users who tried it report: "Better VPN implementation than Holafly. Faster speeds, no throttling like Holafly's evening slowdown."
 
-**Key Reddit warnings:**
+### Key Reddit warnings:
 - "eSIM without VPN in China = half useless." This is the single most repeated warning. Multiple users report arriving with an Airalo eSIM and being unable to access Google Maps to navigate from the airport.
 - "Download your VPN before you go." VPN websites and app stores are blocked on Chinese networks. If you arrive without a VPN installed, you cannot download one.
 - "Check your phone compatibility." Several users report issues with Chinese-market iPhones (eSIM disabled) and carrier-locked US phones.
@@ -551,7 +555,7 @@ This is the single most important question to answer before buying, and the answ
 
 The search for a reliable **China eSIM with VPN** is what brings most travelers to this guide. The fundamental issue is that Chinese networks block thousands of foreign websites and services. A China eSIM with built-in VPN solves this by routing your data through servers outside the country before it reaches the open internet, meaning the firewall never touches your traffic.
 
-**Providers with built-in VPN/firewall bypass:**
+### Providers with built-in VPN/firewall bypass:
 - Saily (Virtual Location via NordVPN infrastructure)
 - Holafly (built-in VPN)
 - Yesim (iOS only)
@@ -561,7 +565,7 @@ The search for a reliable **China eSIM with VPN** is what brings most travelers 
 
 With these providers, Google Maps, WhatsApp, Instagram, YouTube, and other blocked services work out of the box. You do not need to install or configure a separate VPN app.
 
-**Providers that need a separate VPN:**
+### Providers that need a separate VPN:
 - Airalo (routing-based, works most but not all of the time)
 - Ubigi (premium routing, usually works but no guarantee)
 - Nomad (routing-based bypass)
@@ -621,8 +625,6 @@ If your itinerary includes multiple Asian destinations alongside China, 3HK's si
 ### Best for Carrier Stability: a China eSIM
 For travelers who visit multiple Chinese cities, the [china eSIM](/china-esim/) comparison page highlights providers with automatic carrier switching, real-time price optimization, and 24/7 live support — a China eSIM, for instance, connects to China Mobile in Beijing, Unicom in Shanghai, and Telecom in Guangzhou without manual intervention. Use code **WEB20** for 20% off, or try their **[free eSIM trial](/free-esim/)** before committing to a plan.
 
-For a complete guide covering everything from compatibility checks to step-by-step setup instructions, start with our [China eSIM complete guide](/blog/china-esim-complete-guide/). If you are still undecided on which type of plan fits your trip, our [China eSIM travel type guide](/blog/china-esim-travel-type-guide/) breaks down recommendations for 18 different traveler profiles. And for step-by-step installation instructions covering dual-SIM configuration on iPhone and Android, see our [China eSIM setup and installation guide](/blog/china-esim-setup-installation-dual-sim/).
-
 ---
 
 ## Frequently Asked Questions
@@ -649,13 +651,14 @@ For a deeper breakdown of how these three providers compare across 15 different 
 
 ## References and Further Reading
 
-- [GSMA eSIM Specification](https://www.gsma.com/esim/) — Industry standard for embedded SIM technology
-- [Apple Support: Using eSIM on iPhone](https://support.apple.com/en-us/HT212780) — Official iPhone eSIM compatibility and setup guide
-- [Wikipedia: China Mobile](https://en.wikipedia.org/wiki/China_Mobile) — Background on China's largest mobile carrier
-- [Wikipedia: China Telecom](https://en.wikipedia.org/wiki/China_Telecom) — Background on China's third-largest carrier and Ubigi's partner
-- [Ookla Speedtest Global Index](https://www.speedtest.net/global-index) — Mobile speed benchmarks by country
-- [Gizmodo: Best eSIM for China 2026](https://gizmodo.com/best-esim-provider/china) — Independent editorial review and ranking
-
 ---
 
 *Last updated: July 2026. Prices and provider details are subject to change. Always verify plan details on the provider's website before purchasing. This guide includes affiliate links that may earn a commission at no additional cost to you.*
+
+For coverage data across Chinese cities, see our [China eSIM coverage guide](/blog/china-esim-coverage-cities-trains-5g/). For phone number registration, see our [China eSIM phone number guide](/blog/china-esim-phone-number-registration/).
+
+
+See [Apple Support](https://support.apple.com/en-us/HT212780) for eSIM-compatible devices. The [GSMA](https://www.gsma.com) defines global eSIM standards.
+
+
+For pricing across all data tiers, see our [China eSIM price guide](/blog/china-esim-price-plan-purchase-guide/). For coverage by city, see our [China eSIM coverage guide](/blog/china-esim-coverage-cities-trains-5g/). Official carrier information: [China Mobile](https://www.chinamobileltd.com), [China Unicom](http://www.chinaunicom.com), [China Telecom](https://www.chinatelecomglobal.com). The [GSMA](https://www.gsma.com) tracks global eSIM adoption.

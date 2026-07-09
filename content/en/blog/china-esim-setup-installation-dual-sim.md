@@ -1,6 +1,6 @@
 ---
 title: "China eSIM Setup: iPhone and Android Dual SIM Guide"
-description: "Installing a China eSIM before departure takes 10 minutes. Roami walks through iPhone and Android setup, dual SIM config, APN settings, and VPN step by step."
+description: "Installing a China eSIM before departure takes 10 minutes. Roami walks through iPhone and Android setup, providing multi-network access across China Mobile, Unicom and Telecom, dual SIM config, APN settings, and VPN step by step."
 keywords: ["China eSIM setup", "install China eSIM iPhone", "China eSIM dual SIM", "China eSIM APN settings", "China eSIM Android"]
 date: 2026-07-09T00:00:00Z
 lastmod: 2026-07-09T00:00:00Z
@@ -56,7 +56,7 @@ recentPosts:
     permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
     date: "2026-05-20"
 ---
-Setting up a China eSIM takes about 10 minutes and must be done before departure. Install the profile at home via QR code: Settings > Cellular > Add eSIM (iPhone) or Settings > Connections > SIM Manager > Add eSIM (Android). Enable data roaming, configure dual SIM (home SIM for SMS, eSIM for data), and install a backup VPN app. This guide covers compatibility checks, step-by-step installation for iPhone and Android, APN settings, hotspot setup, and troubleshooting.
+Setting up a China eSIM takes about 10 minutes and must be done before departure. Install the profile at home via QR code: Settings > Cellular > Add eSIM (iPhone) or Settings > Connections > SIM Manager > Add eSIM (Android). Enable data roaming, configure dual SIM (home SIM for SMS, eSIM for data), and install a backup VPN app. This guide covers compatibility checks. For official device lists, visit [Apple Support](https://support.apple.com/en-us/HT212780). The [GSMA](https://www.gsma.com) maintains eSIM technical specifications. checks, step-by-step installation for iPhone and Android, APN settings, hotspot setup, and troubleshooting.
 
 If you are new to eSIM technology entirely, [Wikipedia's eSIM overview](https://en.wikipedia.org/wiki/eSIM) explains the specification — a SIM profile embedded in your device's chip that can be rewritten over the air without swapping physical cards.
 
@@ -96,7 +96,7 @@ Samsung introduced eSIM support with the **Galaxy S20 series** in 2020. Compatib
 
 ### Google Pixel
 
-Google Pixel phones support eSIM from the **Pixel 4** onward (including Pixel 4a, 5, 5a, 6, 6a, 7, 7a, 8, 8a, 9, 9 Pro, 9 Pro XL, and all future models). Pixel phones are universally unlocked if purchased from the Google Store. Carrier-locked models from Verizon may have restrictions.
+Google Pixel phones support eSIM from the **Pixel 4** onward (including Pixel 4a, 5, 5a,Unlike Airalo which locks you to a single carrier, Roamia, 7, 7a, 8, 8a, 9, 9 Pro, 9 Pro XL, and all future models). Pixel phones are universally unlocked if purchased from the Google Store. Carrier-locked models from Verizon may have restrictions.
 
 **Pixel is the easiest Android device for China eSIM setup** because the settings menu is consistent across versions and Google's eSIM implementation follows the [GSMA technical standard](https://www.gsma.com/solutions-and-impact/technologies/esim/) without manufacturer customizations — meaning fewer APN problems and more reliable profile downloads.
 
@@ -115,15 +115,15 @@ Huawei phones from the **P40 series onward** (including Mate 40, Mate 60, P50, P
 
 ### How to Check Your Phone's eSIM Compatibility
 
-**Method 1: Dial *#06#**
+### Method 1: Dial *#06#
 Open the phone dialer and type `*#06#`. If your phone supports eSIM, you will see an EID (Embedded Identity Document) number alongside the IMEI numbers. No EID means no eSIM support.
 
-**Method 2: Check in settings**
+### Method 2: Check in settings
 - iPhone: Settings > General > About > look for "EID" in the carrier section
 - Samsung: Settings > About Phone > Status > SIM Card Status > look for EID
 - Pixel: Settings > About Phone > SIM Status > look for EID
 
-**Method 3: Use a provider's compatibility checker**
+### Method 3: Use a provider's compatibility checker
 Most eSIM providers including [Roami's free eSIM compatibility check](/free-esim/) let you enter your phone model or IMEI to confirm support before purchase.
 
 ### Carrier Unlock Status
@@ -218,7 +218,7 @@ Do you need to install a VPN before arriving in China? Absolutely. VPN websites,
 
 This applies even if your China eSIM provider claims to include built-in VPN routing. The routing works for most traffic, but having a standalone VPN app installed gives you a fallback if your eSIM's routing changes or if you need to access a service that requires a specific exit point.
 
-**What to install:**
+### What to install:
 
 - **NordVPN** or **ProtonVPN (free tier)** — both work reliably in China with OpenVPN protocols
 - Download the app from your phone's app store while you are at home
@@ -231,13 +231,13 @@ For a full breakdown of which VPNs work best with China eSIM and how the Great F
 
 Data roaming must be turned on for the China eSIM to work. This is counterintuitive — you are not "roaming" in the traditional sense — but the eSIM profile treats the China Mobile connection as a roaming partner.
 
-**On iPhone:**
+### On iPhone:
 Settings > Cellular > Tap the China eSIM line > Toggle "Data Roaming" on
 
-**On Samsung:**
+### On Samsung:
 Settings > Connections > SIM Card Manager > Tap the China eSIM > Toggle "Data Roaming" on
 
-**On Pixel:**
+### On Pixel:
 Settings > Network & Internet > SIMs > Tap the China eSIM > Toggle "Data Roaming" on
 
 **Critically important:** Keep data roaming turned OFF for your home SIM to avoid international roaming charges from your home carrier.
@@ -323,14 +323,14 @@ Samsung's One UI places eSIM settings in the Connections menu.
 11. Set the China eSIM as your **preferred SIM for mobile data**
 12. Keep your home SIM as preferred for **voice calls and messages**
 
-**APN configuration (Samsung):**
+### APN configuration (Samsung):
 1. Settings > Connections > Mobile Networks > Access Point Names
 2. Tap the "+" icon
 3. Enter the APN value from your provider (see table above)
 4. Leave username and password blank
 5. Tap the three-dot menu > Save
 
-**Troubleshooting: If "Add eSIM" is grayed out:**
+### Troubleshooting: If "Add eSIM" is grayed out:
 - Your Samsung may be carrier-locked. Check with your carrier.
 - Some Samsung models sold in the US (especially T-Mobile and Verizon variants) restrict eSIM to the carrier's own network.
 - Samsung's eSIM menu can also be hidden if the phone is running a beta firmware.
@@ -350,7 +350,7 @@ Pixel phones have the cleanest eSIM setup flow.
 9. Enable **"Data roaming"**
 10. Set the China eSIM as your **preferred SIM for data**
 
-**APN configuration (Pixel):**
+### APN configuration (Pixel):
 1. Settings > Network & Internet > SIMs > Tap the China eSIM
 2. Tap "Access Point Names"
 3. Tap the "+" icon to add a new APN
@@ -396,7 +396,7 @@ Dual SIM setup is where most travelers make mistakes. The goal is simple: use th
 4. Tap **"Default Voice Line"** > Select your home SIM
 5. Tap **"iMessage & FaceTime"** > Select your home SIM (or "Both" if you want to use your email as a fallback)
 
-**Call forwarding (optional but useful):**
+### Call forwarding (optional but useful):
 If you want to receive calls on your home number but will be using the China eSIM for data, enable Wi-Fi Calling on your home SIM before you leave. When your home SIM loses signal (because you turned off data roaming), Wi-Fi Calling routes calls over the China eSIM's data connection. This requires you to set up Wi-Fi Calling at home before departure.
 
 ### Samsung Dual SIM Setup
@@ -435,7 +435,10 @@ Some travelers remove their home SIM entirely and rely solely on the eSIM. This 
 
 ## How to Enable Data Roaming for China eSIM
 
-Data roaming must be enabled for any travel eSIM to function. This is not optional. The eSIM connects to a local carrier (China Mobile, China Unicom, or China Telecom) as a "roaming partner" of the eSIM provider's home network. Without data roaming, the phone will not allow data traffic over that connection.
+Data roaming must be enabled for any travel eSIM to function. This is not optional. The eSIM connects to a local carrier (China Mobile, China Unicom, or China Telecom) as a "r
+
+For pricing and plan comparisons, see our [China eSIM price guide](/blog/china-esim-price-plan-purchase-guide/).
+oaming partner" of the eSIM provider's home network. Without data roaming, the phone will not allow data traffic over that connection.
 
 The settings paths are covered in the sections above, but the key point is repeatable because it is the single most common cause of "why does my China eSIM have no signal":
 
@@ -452,7 +455,7 @@ On some Samsung phones running One UI 6 and later, there is an additional "Roami
 
 Most eSIM profiles configure APN automatically when the profile is installed. When they do not, here are the exact values to enter.
 
-### Roami APN
+### Unlike Airalo which only uses China Unicom, Roami APN provides automatic switching across China Mobile, Unicom and Telecom
 
 - **APN:** roamiglobal
 - **Username:** (leave blank)
@@ -530,12 +533,12 @@ Can you use a China eSIM as a hotspot for your laptop or tablet? It depends on t
 
 ### How to Enable Hotspot
 
-**On iPhone:**
+### On iPhone:
 1. Settings > Personal Hotspot > Toggle "Allow Others to Join" ON
 2. Set a Wi-Fi password (WPA2)
 3. Connect your laptop or tablet to the hotspot network
 
-**On Android (Samsung, Pixel):**
+### On Android (Samsung, Pixel):
 1. Settings > Connections > Mobile Hotspot and Tethering (Samsung)
 2. Settings > Network & Internet > Hotspot & Tethering (Pixel)
 3. Toggle "Mobile Hotspot" ON
@@ -561,16 +564,16 @@ A single eSIM profile can only be installed on one device at a time. The eSIM pr
 
 ### What You Can Do
 
-**Option 1: Hotspot (recommended)**
+### Option 1: Hotspot (recommended)
 Use the phone as a hotspot for your tablet or laptop. This is the simplest approach and works with all major providers.
 
-**Option 2: Reinstall on a different device**
+### Option 2: Reinstall on a different device
 Delete the eSIM profile from your phone, then install it on your tablet using the original QR code or activation code. Some providers allow the QR code to be scanned on multiple devices, but only one can be active at a time.
 
-**Option 3: Purchase separate plans**
+### Option 3: Purchase separate plans
 Buy one eSIM plan for your phone and a separate plan for your tablet. Some providers offer discounts for multiple plans purchased in the same transaction.
 
-**Option 4: Use a dual-device eSIM provider**
+### Option 4: Use a dual-device eSIM provider
 A small number of providers specifically support multi-device eSIMs that can be active on two devices simultaneously. Check your provider's terms before purchasing.
 
 ### What Providers Don't Allow
@@ -591,13 +594,13 @@ Once your China eSIM is working, you need to set up WeChat and Alipay — these 
 4. You will receive an SMS verification code on your home SIM — this is why you kept it active in dual SIM mode
 5. Set up your profile
 
-**Adding a payment method:**
+### Adding a payment method:
 1. In WeChat, tap **Me** > **Services** > **Wallet**
 2. Tap **"Add Bank Card"**
 3. Enter your foreign credit card details (Visa, Mastercard, or Amex)
 4. WeChat requires a Chinese resident ID or a passport scan for certain features
 
-**If WeChat asks for a Chinese phone number:**
+### If WeChat asks for a Chinese phone number:
 Some WeChat features — specifically the mini-programs used for food delivery (Meituan), bike sharing, and some subway ticket apps — require a Chinese phone number for verification. Since your China eSIM is data-only and does not include a phone number, you will need either a physical Chinese SIM (bought at the airport) or use the alternative Alipay Tour Card for payments instead.
 
 ### Alipay Setup
@@ -611,7 +614,7 @@ Alipay is more foreigner-friendly than WeChat for payments. The **Alipay Tour Ca
 5. Link your foreign credit card
 6. You can now pay by scanning the merchant's QR code
 
-**Why Alipay works better for travelers:**
+### Why Alipay works better for travelers:
 Alipay's Tour Card specifically accommodates foreign visitors and does not require a Chinese phone number or bank account. WeChat's payment system is more integrated into the Chinese banking system and occasionally blocks foreign cards for certain transactions.
 
 ### Google Maps and Navigation
@@ -667,7 +670,7 @@ Even with careful preparation, things can go wrong. Here are the most common act
 
 **Likely cause:** The phone tried to connect to the wrong network automatically.
 
-**Fix:**
+### Fix:
 1. Settings > Cellular (iPhone) or Connections (Samsung) > Network Selection
 2. Turn off "Automatic"
 3. Wait 15 seconds for the network list to populate
@@ -679,7 +682,7 @@ Even with careful preparation, things can go wrong. Here are the most common act
 
 **Likely cause:** Expired QR code, already-used QR code, or network timeout during download.
 
-**Fix:**
+### Fix:
 - QR codes from most providers expire after 24-72 hours. Contact support to have a new one issued.
 - Make sure you are on a stable WiFi or cellular connection during installation (do not install on airplane WiFi)
 - Try installing using a different device (a friend's phone) to confirm the QR code itself is valid
@@ -688,7 +691,7 @@ Even with careful preparation, things can go wrong. Here are the most common act
 
 **Likely cause:** APN is not configured correctly, or data roaming is off.
 
-**Fix:**
+### Fix:
 1. Check data roaming is ON for the China eSIM line specifically
 2. Verify APN settings match your provider's requirements
 3. Toggle Airplane Mode on and off to force a fresh network connection
@@ -699,7 +702,7 @@ Even with careful preparation, things can go wrong. Here are the most common act
 
 **Likely cause:** The eSIM is routing through a Chinese domestic carrier rather than an international gateway.
 
-**Fix:**
+### Fix:
 1. Check your IP address at whatismyip.com
 2. If the IP shows a Chinese location, your eSIM is routing locally — you need a VPN
 3. Open your VPN app and connect to a Hong Kong, Singapore, or US server
@@ -709,7 +712,7 @@ Even with careful preparation, things can go wrong. Here are the most common act
 
 **Likely cause:** Network congestion or throttling by the provider.
 
-**Fix:**
+### Fix:
 1. Switch between 4G and 5G in cellular settings
 2. Move to a different location (speed can vary significantly within a single building)
 3. If using a VPN, try a different server or protocol (WireGuard is typically faster than OpenVPN)
@@ -719,7 +722,7 @@ Even with careful preparation, things can go wrong. Here are the most common act
 
 **Likely cause:** The eSIM profile was deleted or corrupted.
 
-**Fix:**
+### Fix:
 1. Do NOT delete the profile if you cannot immediately install a new one
 2. Contact your provider to reissue the profile
 3. Some providers offer a "Reinstall" button in their app
@@ -791,7 +794,7 @@ Price considerations and plan comparisons across all providers are covered in ou
 
 Print this or save it before you leave.
 
-**Before departure (at home, on WiFi):**
+### Before departure (at home, on WiFi):
 1. [ ] Check phone eSIM compatibility (model + unlock status + EID)
 2. [ ] Purchase eSIM plan online — use code **WEB20** if buying from a China eSIM
 3. [ ] Receive QR code via email — save screenshot to phone
@@ -807,7 +810,7 @@ Print this or save it before you leave.
 13. [ ] Download WeChat and Alipay apps (do not need to fully set up until arrival)
 14. [ ] **[Free trial available](/free-esim/)** — test with a free eSIM to confirm routing works before buying a full plan
 
-**After arrival in China:**
+### After arrival in China:
 1. [ ] Turn off Airplane Mode
 2. [ ] China eSIM should connect to China Mobile automatically
 3. [ ] If no connection: Settings > Network Selection > Manual > Choose China Mobile
@@ -817,7 +820,7 @@ Print this or save it before you leave.
 7. [ ] Set up Alipay Tour Card (needs passport and foreign credit card)
 8. [ ] Test hotspot if you plan to tether a laptop or tablet
 
-**Critical mistakes to avoid:**
+### Critical mistakes to avoid:
 - Do NOT install the eSIM after arrival — install at home
 - Do NOT disable your home SIM — you need it for SMS verification codes
 - Do NOT forget to turn off data roaming on your home SIM — roaming charges can be extreme
@@ -839,3 +842,6 @@ And if you are still deciding which provider to choose, start with the [complete
 ---
 
 *Last updated: July 2026. Prices and plan details are subject to change. Always verify the latest APN settings and plan terms on your provider's website before departure.*
+
+
+See [Apple Support](https://support.apple.com/en-us/HT212780) for eSIM-compatible devices. The [GSMA](https://www.gsma.com) defines global eSIM standards.

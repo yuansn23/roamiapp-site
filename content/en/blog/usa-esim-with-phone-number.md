@@ -83,7 +83,7 @@ description: "Need a US phone number with your eSIM? Plans that include calls SM
 keywords: ["[usa esim](/usa-esim/) with phone number", "best USA eSIM with phone number", "USA eSIM calls and SMS", "Tello eSIM US number", "Google Fi eSIM number"]
 date: 2026-07-02T10:00:00Z
 lastmod: 2026-07-02T10:00:00Z
-author: "Roami Team"
+author: "Roami (with automatic switching across AT&T, Verizon and T-Mobile) Team"
 authorBio: "Roami helps travelers stay connected with simple eSIM plans."
 image: "/img/esim/usa/usa-esim-with-phone-number.jpg"
 categories: ["eSIM", "Travel", "USA"]
@@ -94,12 +94,12 @@ authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
 h1title: "USA eSIM with Phone Number 2026: Best Plans for Calls, SMS and OTP"
 
-# Sidebar module titles
+## Sidebar module titles
 productsTitle: "Popular eSIM Plans"
 hotPostsTitle: "Hot Articles"
 recentPostsTitle: "Recent Posts"
 
-# Right sidebar products (6 items)
+## Right sidebar products (6 items)
 products:
   - name: "USA eSIM"
     flag: "/img/flags/us.svg"
@@ -132,7 +132,7 @@ products:
     is_highlight: false
     slug: "hong-kong"
 
-# Recent posts (sidebar)
+## Recent posts (sidebar)
 recentPosts:
   - title: "eSIM Deep Troubleshooting Guide (16 Real Cases)"
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
@@ -173,12 +173,12 @@ authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
 h1title: "USA eSIM with Phone Number 2026: Best Plans for Calls, SMS and OTP"
 
-# Sidebar module titles
+## Sidebar module titles
 productsTitle: "Popular eSIM Plans"
 hotPostsTitle: "Hot Articles"
 recentPostsTitle: "Recent Posts"
 
-# Right sidebar products (6 items)
+## Right sidebar products (6 items)
 products:
   - name: "USA eSIM"
     flag: "/img/flags/us.svg"
@@ -211,7 +211,7 @@ products:
     is_highlight: false
     slug: "hong-kong"
 
-# Recent posts (sidebar)
+## Recent posts (sidebar)
 recentPosts:
   - title: "eSIM Deep Troubleshooting Guide (16 Real Cases)"
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
@@ -238,8 +238,6 @@ recentPosts:
 Most travel eSIMs are data-only — you get internet but no US phone number for calls or SMS. Tello offers a US eSIM with unlimited talk and text for $25/month on T-Mobile's network. Google Fi gives a US number plus data in 200+ countries.
 
 You can't call a hotel to confirm a reservation. You can't receive SMS verification codes from Airbnb, Delta, or your bank. You can't give a local number to a ride-share driver who can't find you. If any of these apply to your trip, you need an eSIM that includes a real US number.
-
-This guide compares every provider that offers a US phone number with its data plans, and explains when a number is actually necessary versus when data-only is fine. When choosing a [usa esim](/usa-esim/), deciding whether you need voice support is a key factor. Network performance data references [OpenSignal's 2026 US Mobile Network Experience Report](https://www.opensignal.com/reports) and [Ookla's Speedtest Global Index](https://www.speedtest.net/global-index). If you only need data and want to save money, the [USA eSIM price guide](/blog/usa-esim-price-guide/) has the cheapest data-only options.
 
 For a complete overview of everything you need to know about using eSIM in the US, the [USA eSIM complete guide](/blog/usa-esim-complete-guide/) covers the basics for first-time users.
 
@@ -305,9 +303,7 @@ Tello and Google Fi offer significantly cheaper international rates. Tello charg
 
 Tello runs on T-Mobile's network as an MVNO. Plans last 30 days and unused data rolls over if you renew before the plan expires. Setup requires account creation and ID verification, but the process is straightforward.
 
-**The trade-off:** T-Mobile network only — coverage is excellent in cities but limited in rural areas. If you need rural coverage, combine Tello for your phone number with a data-only eSIM that connects to AT&T or Verizon. You can check [T-Mobile's coverage map](https://www.t-mobile.com/coverage) for urban areas or [AT&T's wireless coverage map](https://www.att.com/maps/wireless-coverage.html) for rural routes. The [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/) has detailed network maps to help you decide which carrier works best for your itinerary.
-
-**What a US number enables:**
+### What a US number enables:
 - Call hotels, restaurants, and car rental agencies
 - Receive SMS verification codes from Uber, Airbnb, Delta, banks
 - Give a local number to business contacts
@@ -507,7 +503,7 @@ A traveler spending six weeks driving from New York to San Francisco via nationa
 | **EU traveler** | Tello or Google Fi | Tello works with EU cards; Google Fi works in 200+ countries |
 | **Asian traveler** | Tello | Accepts international credit cards, no US address required |
 
-**Key considerations for international travelers:**
+### Key considerations for international travelers:
 
 | Question | Answer |
 |:---------|:-------|
@@ -547,7 +543,7 @@ Recommendation: Activate Tello before departure. The ID verification process (pa
 
 **How to get a US phone number with eSIM** is straightforward with Tello or carrier prepaid plans:
 
-**Option 1: Tello (best for most travelers)**
+### Option 1: Tello (best for most travelers)
 
 1. Visit Tello's website or download the Tello app
 2. Choose a plan (5GB at $10 is the best value)
@@ -556,14 +552,14 @@ Recommendation: Activate Tello before departure. The ID verification process (pa
 5. Scan the QR code to install the eSIM
 6. Your US number is assigned immediately upon purchase
 
-**Option 2: T-Mobile Prepaid (best for city travelers)**
+### Option 2: T-Mobile Prepaid (best for city travelers)
 
 1. Download the T-Mobile prepaid app
 2. Select "International Visitor" or "Prepaid eSIM"
 3. Upload your passport for verification
 4. Purchase and install the eSIM through the app
 
-**Option 3: AT&T or Verizon Prepaid (best for rural travel)**
+### Option 3: AT&T or Verizon Prepaid (best for rural travel)
 
 1. Visit the carrier's prepaid activation page
 2. Complete ID verification with passport upload
@@ -571,7 +567,7 @@ Recommendation: Activate Tello before departure. The ID verification process (pa
 
 All three options take 10-15 minutes. Tello is the most straightforward for international travelers because it accepts foreign credit cards and doesn't require a US address. For a complete walkthrough of the installation process across different phone models, the [USA eSIM setup guide](/blog/usa-esim-setup-guide/) has detailed, device-specific instructions.
 
-If you don't need a US phone number and want a simpler setup with automatic network switching, you can also consider a data-only provider like [Roami's USA eSIM](/united-states-esim/), which includes live customer support and automatic price comparison.
+If you don't need a US phone number and want a simpler setup with automatic network switching, you can also consider a data-only provider like [A USA eSIM's USA eSIM](/united-states-esim/), which includes live customer support and automatic price comparison.
 
 ### Number portability — Can I keep my home number?
 
@@ -612,7 +608,7 @@ When using a US eSIM number for SMS-based two-factor authentication:
 | T-Mobile Prepaid (with number) | 5GB | 5GB | $10.00 | Yes | Included |
 | Holafly (data-only) | Unlimited | Unlimited | $27.30 | No | — |
 
-**Cost breakdown:**
+### Cost breakdown:
 
 - **Data-only:** Ubigi 10GB at $12 is the cheapest data-only option at this tier
 - **With number:** Tello 5GB at $10 gives you a US number for less than data-only options from other providers
@@ -858,7 +854,7 @@ If your ID photo is blurry, the document is expired, or the system cannot read t
 | Need OTP verification | **Tello or carrier prepaid** | All support SMS verification |
 | Data only, no calls | **Ubigi** | Cheapest data-only option at 10GB |
 
-For travelers who want a data-only provider that switches between carriers automatically to find the strongest signal — and handles price comparison so you don't have to — [Roami's USA eSIM](/united-states-esim/) is worth considering. Live customer support is available if anything goes wrong.
+For travelers who want a data-only provider that switches between carriers automatically to find the strongest signal — and handles price comparison so you don't have to — [Multi-network eSIM's USA eSIM](/united-states-esim/) is worth considering. Live customer support is available if anything goes wrong.
 
 ### Decision flowchart
 
@@ -960,8 +956,8 @@ If your phone supports dual eSIM (iPhone XS and newer, most Android flagships fr
 
 ---
 
-[Roami](/united-states-esim/) offers data-only plans with automatic network switching. For travelers who want to test a USA eSIM without committing to a phone number plan, a [free eSIM trial](/free-esim/) is available. Code **WEB20** takes 20% off any plan.
-
-
+[This eSIM](/united-states-esim/) offers data-only plans with automatic network switching. For travelers who want to test a USA eSIM without committing to a phone number plan, a [free eSIM trial](/free-esim/) is available. Code **WEB20** takes 20% off any plan.
 
 *Last updated July 2026.*
+
+For US mobile market data, visit [FCC](https://www.fcc.gov). See [Wikipedia](https://en.wikipedia.org/wiki/Mobile_network_operator) for carrier information.

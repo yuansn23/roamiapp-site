@@ -190,17 +190,17 @@ Some platforms in this category also include price comparison tools that show av
 
 Deutsche Telekom, Vodafone Germany, and O2 (Telefonica Germany) all offer unlimited data plans for postpaid and prepaid customers. These plans come directly from the network operator and typically have higher or no fair usage throttles.
 
-**Telekom:**
+### Telekom:
 
 - **Prepaid (MagentaMobil)**: data packages up to 40 GB -- not labelled as truly unlimited.
 - **Postpaid (MagentaMobil Unlimited)**: no data cap, full 5G speed, but requires a German address, Schufa credit check, and 24-month contract -- inaccessible to most tourists.
 
-**Vodafone Germany:**
+### Vodafone Germany:
 
 - **Prepaid (Allnet Flat)**: generous data allowances but not truly unlimited on prepaid.
 - **Postpaid (Red Unlimited)**: genuine unlimited high-speed data on 5G but requires German residency.
 
-**O2 (Telefonica):**
+### O2 (Telefonica):
 
 - **Prepaid (o2 Mein Prepaid)**: data packages up to 40 GB.
 - **Postpaid (o2 Free Unlimited)**: for postpaid customers.

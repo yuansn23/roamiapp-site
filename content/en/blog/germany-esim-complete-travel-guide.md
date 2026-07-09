@@ -614,39 +614,39 @@ For detailed coverage maps and real-world tests for each network across specific
 
 For a complete [walkthrough of the Germany eSIM setup process](/blog/germany-esim-installation-activation-setup/), see our dedicated installation guide.
 
-**Do I need a passport to use an eSIM in Germany?**
+### Do I need a passport to use an eSIM in Germany?
 
 Yes. German law requires identity verification for all prepaid mobile services, including eSIMs, under the Telecommunications Act (TKG). Most international providers handle this during the installation process by asking for a passport photo or scan. Complete this step before you travel to avoid activation delays. Our passport registration guide covers the full process and what to do if your verification is rejected.
 
-**Can I buy a Germany eSIM before my trip?**
+### Can I buy a Germany eSIM before my trip?
 
 Absolutely. Most international eSIM providers let you purchase and install the eSIM profile before you leave home. The data plan activates when you connect to a German network upon arrival. This is the recommended approach because it means you have connectivity from the moment you land, without needing to find a mobile shop or connect to airport WiFi.
 
-**Will my phone work with a Germany eSIM?**
+### Will my phone work with a Germany eSIM?
 
 Most modern smartphones support eSIM technology. iPhone models from the XR onward, Google Pixel 3 and newer, Samsung Galaxy S20 and newer, and most flagship devices from 2020 onward are compatible. Check your phone manufacturer's specifications if you are unsure. You can also consult the GSMA eSIM device database for a definitive compatibility check.
 
-**Which German network is best for travelers?**
+### Which German network is best for travelers?
 
 Telekom offers the widest coverage, especially in rural areas and on ICE trains. Vodafone is a strong alternative with excellent city performance and competitive pricing. O2 is the budget option with adequate urban coverage but noticeable gaps in rural areas and on trains. A Germany eSIM that automatically switches between networks gives you the best of all three without manual configuration.
 
-**Is eSIM cheaper than a physical SIM in Germany?**
+### Is eSIM cheaper than a physical SIM in Germany?
 
 International eSIMs are slightly more expensive than buying directly from a German carrier, but the convenience of pre-travel installation and English-language support makes the small premium worthwhile for most short-term visitors. For stays longer than a month, buying directly from Telekom, Vodafone, or O2 saves money. The price difference for a 10 GB plan is typically 8 to 15 euros.
 
-**How much data do I need for a trip to Germany?**
+### How much data do I need for a trip to Germany?
 
 Most travelers use 1 to 3 GB per week for essential services like maps, messaging, and web browsing. If you plan to stream video, make video calls, or use your phone as a hotspot, budget 5 to 10 GB per week. Buying a larger plan than you need is safe because unused data is a one-way cost, but checking your actual usage from previous trips gives you a reliable baseline.
 
-**Can I keep my home SIM active while using a Germany eSIM?**
+### Can I keep my home SIM active while using a Germany eSIM?
 
 Yes. Most modern phones support dual SIM operation with one physical SIM and one eSIM, or two eSIMs. You can keep your home SIM active for calls and texts while using the Germany eSIM for mobile data. Configure your phone so the eSIM is the default data line to avoid accidental roaming charges on your home line. Most eSIM providers recommend enabling data roaming on the eSIM line.
 
-**Does a Germany eSIM work in other EU countries?**
+### Does a Germany eSIM work in other EU countries?
 
 It depends on the plan. Germany-specific plans only work within Germany. Regional Europe plans cover Germany plus other EU countries. Global plans cover 190-plus countries including Germany. Check the plan details before buying if you plan to visit multiple countries during your trip. EU roaming regulations apply to plans from EU-based providers.
 
-**What happens if my eSIM does not work after installation?**
+### What happens if my eSIM does not work after installation?
 
 Follow this troubleshooting order:
 
@@ -657,59 +657,59 @@ Follow this troubleshooting order:
 
 If none of these steps work, contact your provider's customer support. Providers with 24/7 real human support resolve most issues within minutes.
 
-**Can I get a refund if my Germany eSIM does not work?**
+### Can I get a refund if my Germany eSIM does not work?
 
 Refund policies vary by provider. Some offer a refund window within a certain number of days or if data usage is below a threshold. Others do not offer refunds for prepaid data services. Read the terms before purchasing, and choose a provider with a clear refund policy if this is a concern. Local German carriers rarely offer refunds on prepaid plans.
 
-**Is there a way to try an eSIM before buying?**
+### Is there a way to try an eSIM before buying?
 
 Some providers offer free trials. Roami, for example, provides a free UK eSIM trial at /free-esim/ so you can test compatibility and installation before committing to a paid plan. This is useful for confirming your phone handles eSIM correctly.
 
-**Do I need a German phone number?**
+### Do I need a German phone number?
 
 Not for data. Almost all messaging apps, navigation services, and web browsing work with data-only connectivity. A German phone number is only necessary if you need to make traditional phone calls to German landlines or receive SMS verification codes from German services. If you are using WhatsApp, Telegram, or similar apps for communication, data-only service is sufficient.
 
-**Can I use a Germany eSIM for hotspot tethering?**
+### Can I use a Germany eSIM for hotspot tethering?
 
 Most Germany eSIM plans support hotspot tethering, but some restrict or throttle it. Check the plan's terms and conditions before purchasing if you plan to share your connection with a laptop or tablet. International provider plans typically allow tethering within the data allowance. Local carrier prepaid plans almost always support tethering.
 
-**How do I top up my Germany eSIM if I run out of data?**
+### How do I top up my Germany eSIM if I run out of data?
 
 Most providers allow top-ups through their app or website. You purchase an additional data package and it is added to your existing eSIM profile. Top-up prices are usually similar to initial purchase prices. Some providers offer automatic top-up features that add data when your balance drops below a threshold.
 
-**What is the difference between a data-only eSIM and a plan with a phone number?**
+### What is the difference between a data-only eSIM and a plan with a phone number?
 
 Data-only eSIMs provide mobile internet access without a traditional phone number. You can use messaging apps, navigation, web browsing, email, and streaming. You cannot make or receive traditional phone calls or SMS. Plans with a phone number provide a German mobile number for calls and SMS in addition to data. Data-only plans are cheaper and sufficient for most travelers.
 
-**Can I install a Germany eSIM on my iPad or tablet?**
+### Can I install a Germany eSIM on my iPad or tablet?
 
 Yes, if your tablet supports eSIM. Apple iPads from the iPad Pro 3rd generation (2018) onward and iPad Air from the 4th generation (2020) onward support eSIM. Most Android tablets do not support eSIM unless they are cellular models with specific carrier support. Check your tablet's specifications before purchasing. Note that eSIM plans purchased for a tablet typically provide data-only service without a phone number, which covers the use case for most tablet travelers.
 
-**How do I switch between my home SIM and Germany eSIM on iPhone and Android?**
+### How do I switch between my home SIM and Germany eSIM on iPhone and Android?
 
 On iPhone, go to Settings, then Cellular, and select your default voice and data lines. You can set the Germany eSIM as the primary data line and your home SIM as the default voice line. On Android, go to Settings, then Connections or Network & Internet, then SIM Manager. Select which SIM handles data, calls, and SMS. The dual SIM setup works seamlessly on both platforms once configured correctly.
 
-**Will my Germany eSIM work in Austria, Switzerland, or France?**
+### Will my Germany eSIM work in Austria, Switzerland, or France?
 
 This depends on the plan you purchase. A Germany-specific plan works only within Germany. A regional Europe plan that includes Germany also works in Austria, France, Italy, and other EU countries. Switzerland is not in the EU, so most Europe plans do not include Switzerland unless explicitly stated. If your itinerary includes Switzerland, look for a Europe plan that specifically mentions Swiss coverage, or purchase a separate Switzerland plan. Check the plan's coverage list before buying if you plan to cross borders during your trip.
 
-**What happens if I change phones during my trip?**
+### What happens if I change phones during my trip?
 
 eSIM profiles are tied to a specific device. If you change phones, you typically need to reinstall the eSIM profile on the new device. Some providers allow you to transfer the eSIM by generating a new QR code. Others require you to purchase a new plan. If you plan to switch phones during your trip, choose a provider that supports easy eSIM transfer.
 
-**Is Germany eSIM better than portable WiFi?**
+### Is Germany eSIM better than portable WiFi?
 
 For most travelers, yes. An eSIM is more convenient because you do not need to carry an extra device, charge it, or keep track of it. Portable WiFi devices have longer battery life for multi-device sharing, but they add weight and complexity. An eSIM is always in your phone, always charged, and always ready. For solo travelers and couples, an eSIM is the better choice. For groups of three or more who need to share connectivity, portable WiFi may still make sense.
 
-**Can I make WhatsApp calls with a Germany eSIM?**
+### Can I make WhatsApp calls with a Germany eSIM?
 
 Yes. WhatsApp calls, FaceTime audio, Skype calls, and all other VoIP services work over a Germany eSIM data connection. These services use your data allowance and do not require a traditional phone number. If your communication relies on internet-based calling apps, a data-only eSIM is sufficient.
 
-**How do German mobile networks handle time-based data limits?**
+### How do German mobile networks handle time-based data limits?
 
 Most prepaid Germany eSIM plans have a fixed validity period, typically 7, 15, or 30 days from activation. The clock starts ticking when you activate the plan, not when you purchase it. If you activate a 30-day plan on the first day of your trip, it expires 30 days later regardless of how much data you have used. Some plans offer flexible validity where unused data rolls over if you top up before the plan expires, but this is more common with local carriers than international providers.
 
-**Are there any restrictions on using a Germany eSIM for business purposes?**
+### Are there any restrictions on using a Germany eSIM for business purposes?
 
 No. Germany eSIM plans are generally available for any lawful use, including business activities. However, some very cheap prepaid plans may have fair-use policies that restrict excessive data consumption, such as large-scale file downloads or automated server connections. For standard business use —email, video calls, VPN access, and document collaboration —any Germany eSIM plan with adequate data allowance works without issues.
 

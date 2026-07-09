@@ -56,7 +56,7 @@ recentPosts:
     permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
     date: "2026-05-20"
 ---
-Keeping your home phone number active while using a German data connection is the most common challenge travelers face with eSIMs. Nobody wants to swap out their home SIM and lose access to:
+Roami provides a [germany esim](/germany-esim/) with dual-SIM support. Keeping your home phone number active while using a German data connection is the most common challenge travelers face with eSIMs. Nobody wants to swap out their home SIM and lose access to:
 
 - Banking verification codes
 - Two-factor authentication for work accounts
@@ -112,7 +112,7 @@ Apple has supported dual SIM since the iPhone XS, XS Max, and XR models released
 
 ### Step-by-step eSIM setup on iPhone
 
-**Step-by-step setup on iPhone.**
+### Step-by-step setup on iPhone.
 
 1. Ensure you have a Wi-Fi connection. The eSIM activation process requires an internet connection to download and install the profile. This can be your home Wi-Fi before departure, a hotel network upon arrival, or a public Wi-Fi hotspot at Berlin Brandenburg Airport or Frankfurt Airport.
 
@@ -161,7 +161,7 @@ The safest way to check is to go to Settings, search for SIMs or eSIM in the sea
 
 ### Setup on Samsung Galaxy phones
 
-**Step-by-step setup on Samsung Galaxy phones.**
+### Step-by-step setup on Samsung Galaxy phones.
 
 1. Open Settings and tap Connections, then SIM Card Manager.
 
@@ -179,7 +179,7 @@ The safest way to check is to go to Settings, search for SIMs or eSIM in the sea
 
 ### Setup on Google Pixel phones
 
-**Step-by-step setup on Google Pixel phones.**
+### Step-by-step setup on Google Pixel phones.
 
 1. Open Settings and tap Network & Internet, then SIMs.
 
@@ -195,7 +195,7 @@ The safest way to check is to go to Settings, search for SIMs or eSIM in the sea
 
 ### Setup on OnePlus, Xiaomi and other Android phones
 
-**Step-by-step for OnePlus, Xiaomi and other Android phones.**
+### Step-by-step for OnePlus, Xiaomi and other Android phones.
 
 The setup varies by manufacturer but follows the same logic:
 
@@ -212,7 +212,7 @@ Messaging apps are the central nervous system of modern travel. They handle chec
 
 ### WhatsApp on dual SIM
 
-**WhatsApp on dual SIM.**
+### WhatsApp on dual SIM.
 
 WhatsApp links your account to one phone number. That number is the one people see when you message them, and it is the number WhatsApp uses for verification. In a dual-SIM setup, as long as your home SIM is physically present in the phone or active as an eSIM, and your phone has an internet connection via the Germany eSIM, WhatsApp works exactly as it does at home.
 
@@ -237,7 +237,7 @@ One common concern is whether WhatsApp can be used with a Germany eSIM if the ho
 
 ### iMessage and FaceTime on dual SIM
 
-**iMessage and FaceTime on dual SIM.**
+### iMessage and FaceTime on dual SIM.
 
 iMessage behaves differently from WhatsApp because Apple ties it to your Apple ID and phone number simultaneously. On an iPhone with dual SIM, iMessage automatically registers both your phone numbers if you have given iOS permission to use both lines for iMessage and FaceTime.
 
@@ -249,7 +249,7 @@ Key points about iMessage with dual SIM:
 
 ### SMS verification and two-factor authentication
 
-**SMS verification codes and two-factor authentication.**
+### SMS verification codes and two-factor authentication.
 
 Here is what you need to know about SMS verification while using dual SIM in Germany:
 
@@ -264,7 +264,7 @@ German daily life runs through a handful of essential mobile applications, and t
 
 ### Why DB Navigator needs a data connection
 
-**Why DB Navigator needs data.**
+### Why DB Navigator needs data.
 
 Here is how DB Navigator depends on data connectivity:
 
@@ -274,7 +274,7 @@ Here is how DB Navigator depends on data connectivity:
 
 ### ICE train connectivity and network switching
 
-**ICE train connectivity and network switching.**
+### ICE train connectivity and network switching.
 
 Using data on German trains comes with unique challenges and solutions:
 
@@ -285,7 +285,7 @@ Using data on German trains comes with unique challenges and solutions:
 
 ### Other German apps that benefit from a local eSIM
 
-**Other German apps that benefit from a local data line.**
+### Other German apps that benefit from a local data line.
 
 Beyond DB Navigator, several other German apps work better with a local eSIM:
 
@@ -302,7 +302,7 @@ The question of whether a [germany esim](/germany-esim/) supports hotspot tether
 
 ### How tethering works with a Germany eSIM
 
-**How tethering works with a Germany eSIM.**
+### How tethering works with a Germany eSIM.
 
 Here is how tethering functions with a dual SIM setup:
 
@@ -312,14 +312,14 @@ Here is how tethering functions with a dual SIM setup:
 
 ### Which eSIM plans support tethering
 
-**Which eSIM plans support tethering.**
+### Which eSIM plans support tethering.
 
 Most international travel eSIM providers include tethering in their standard plans without additional fees. However, there are exceptions:
 
 - **Holafly**, which offers unlimited data plans for Germany, has historically restricted hotspot tethering on some of its unlimited plans. Their terms of service state that hotspot usage may be throttled or blocked on certain plans. If you plan to tether frequently, check the specific plan details before purchasing, or choose a provider that explicitly includes tethering.
 - **Airalo** includes tethering on virtually all of its Germany eSIM plans, including the Discover+ packages and the local Germany eSIM options. Data used through tethering counts against the same plan data cap as on-device usage.
 - **Ubigi**, which operates on the Telekom network in Germany, supports tethering on both its data-only and its voice-and-data plans. Ubigi is a strong choice for travelers who need reliable tethering because Telekoms upload speeds support stable video calls from a tethered laptop.
-- **Roami** includes hotspot tethering on its Germany eSIM plans. The data pool is shared between on-device and tethered usage, with no separate restriction or throttling applied solely because the traffic is coming from a tethered device.
+- **A Germany eSIM** includes hotspot tethering on its Germany eSIM plans. The data pool is shared between on-device and tethered usage, with no separate restriction or throttling applied solely because the traffic is coming from a tethered device.
 
 | Provider | Hotspot Tethering | Network in Germany | Data Cap Type | Best For |
 |----------|------------------|-------------------|---------------|----------|
@@ -335,14 +335,14 @@ For travelers who need unlimited hotspot tethering specifically, the options are
 
 ### Setting up tethering on iPhone and Android
 
-**Setting up tethering on iPhone.**
+### Setting up tethering on iPhone.
 
 1. Go to Settings, Personal Hotspot, and toggle Allow Others to Join.
 2. If you see a prompt about Wi-Fi and Bluetooth, confirm that you want to enable hotspot mode.
 3. The phone will display a Wi-Fi password that other devices use to connect. You can change the password to something easier to type on a laptop if needed.
 4. The hotspot remains active even if the phone screen is off, though battery drain accelerates noticeably. Consider plugging the phone into a power source during extended tethering sessions on trains or in hotel rooms.
 
-**Setting up tethering on Android.**
+### Setting up tethering on Android.
 
 - **Samsung:** Open Settings, Connections, Mobile Hotspot and Tethering, then tap Mobile Hotspot and toggle the switch on. You can configure the network name and password from the same menu.
 - **Google Pixel:** Open Settings, Network & Internet, Hotspot & Tethering, then Wi-Fi Hotspot and toggle it on.
@@ -350,14 +350,14 @@ For travelers who need unlimited hotspot tethering specifically, the options are
 
 ### Battery and data considerations for tethering
 
-**Battery and data considerations for tethering.**
+### Battery and data considerations for tethering.
 
-**Battery impact:**
+### Battery impact:
 - Tethering consumes more battery than using the phone directly because the phone is simultaneously maintaining a cellular data connection and transmitting a Wi-Fi signal.
 - Expect battery life to drop by roughly 30 to 50 percent faster during tethering compared with normal use.
 - Carrying a portable power bank is a practical precaution for long train journeys or full workdays that require tethering.
 
-**Data usage monitoring:**
+### Data usage monitoring:
 - Data usage through tethering can be deceptive. A laptop running video calls or software updates can consume data much faster than phone-based activities.
 - If your Germany eSIM has a fixed data cap, monitor your usage through the providers app or through the phones built-in data tracker.
 - iOS has a Reset Statistics option under Settings, Cellular that lets you track usage from a known starting point.
@@ -369,7 +369,7 @@ The ability to top up an eSIM during a trip is a significant advantage over phys
 
 ### How topping up works
 
-**How topping up works.**
+### How topping up works.
 
 - **Self-service portal or app:** Most eSIM providers offer a self-service portal or a mobile app where you can view your remaining data, the expiry date of your current plan, and available top-up options.
 - **Quick crediting:** Topping up typically involves selecting a data add-on, completing a payment, and having the additional data credited to your existing eSIM profile within seconds to a few minutes. No new QR code or profile installation is needed. The original eSIM stays on your phone, and the data balance increases.
@@ -378,7 +378,7 @@ The ability to top up an eSIM during a trip is a significant advantage over phys
 
 ### When to top up during your trip
 
-**When to top up.**
+### When to top up.
 
 Consider these strategies for topping up:
 
@@ -387,7 +387,7 @@ Consider these strategies for topping up:
 
 ### What happens if data runs out
 
-**What happens if you exhaust data before topping up.**
+### What happens if you exhaust data before topping up.
 
 - **Data stops, but signal remains:** If your Germany eSIM data runs out, the eSIM profile remains on your phone but the data connection stops working. The phone will still show signal bars from the German network, but any app that requires internet access will fail.
 - **Voice and SMS unaffected:** SMS messages to your home SIM continue to arrive normally, and phone calls through your home SIM are unaffected, because those go through the home line rather than the eSIM data connection.
@@ -396,13 +396,13 @@ Consider these strategies for topping up:
 
 ### Topping up from outside Germany and pricing
 
-**Can you top up a Germany eSIM plan from outside Germany?**
+### Can you top up a Germany eSIM plan from outside Germany?
 
 Yes, and this is one of the underappreciated advantages of eSIM technology. You can purchase a [germany esim](/germany-esim/) and top it up from anywhere in the world before you even board your flight. The eSIM profile can be installed at home, and the data plan activates when you first connect to a German network. If you anticipate needing more data for the second half of your trip, you can buy a top-up while still at home, and the additional data will be available the moment you land.
 
 For travelers who prefer to arrive with a full data balance, buying a larger plan upfront and topping up as needed is a straightforward strategy. The flexibility to add data from any location removes the last remaining friction point that physical prepaid SIMs had over eSIMs.
 
-**Top-up pricing.**
+### Top-up pricing.
 
 Top-up data typically costs slightly more per gigabyte than the original plan. This is a common pattern across the industry: the initial plan is priced competitively to attract the purchase, and subsequent add-ons are priced closer to standard rates. For example, an initial 10 GB Germany eSIM plan might cost approximately $15 to $20, while a 5 GB top-up could cost $10 to $12. The price difference is modest enough that topping up is still more economical than buying a second full plan, especially if you only need a few extra gigabytes.
 
@@ -422,22 +422,22 @@ Travelers increasingly carry multiple connected devices: a smartphone, a tablet 
 
 ### The eSIM is tied to one device
 
-**The eSIM is tied to one device.**
+### The eSIM is tied to one device.
 
 The fundamental constraint is that an eSIM is installed on a single device. You cannot install one Germany eSIM on both your phone and your tablet simultaneously through a shared profile. Each device that needs cellular connectivity must have its own eSIM, or the devices must share connectivity through tethering.
 
-**For cellular-capable tablets:**
+### For cellular-capable tablets:
 - You can buy a second eSIM specifically for that device. The process is the same as installing an eSIM on a phone: scan a QR code on the tablet, set up the plan, and the tablet has its own independent cellular connection.
 - This is useful if the tablet is used heavily for streaming or reading during train journeys and you want to keep the phones battery dedicated to tethering or navigation.
 
-**For laptops:**
+### For laptops:
 - Most laptops do not have eSIM support, though an increasing number of Windows laptops with Snapdragon processors and certain high-end business laptops include embedded eSIM modules.
 - If your laptop has eSIM support, you can purchase a data-only eSIM for the laptop through the same providers, or through the laptops built-in eSIM management interface in Windows.
 - Consumer Cellular and some travel eSIM providers have Windows apps that handle eSIM installation and management.
 
 ### Hotspot as the universal sharing method
 
-**Hotspot as the universal sharing method.**
+### Hotspot as the universal sharing method.
 
 For the majority of travelers who do not have cellular-capable tablets or eSIM-enabled laptops, the hotspot method described in the previous section is the most practical solution. The phone with the Germany eSIM acts as the hub. The tablet and laptop connect to the phones hotspot for internet access.
 
@@ -450,7 +450,7 @@ A power bank becomes essential for anything beyond two to three hours of tetheri
 
 ### Multi-device plans and family sharing
 
-**Multi-device plans and family sharing.**
+### Multi-device plans and family sharing.
 
 Consider these approaches for connecting multiple devices:
 
@@ -459,18 +459,18 @@ Consider these approaches for connecting multiple devices:
 
 ### Managing eSIMs for a family group
 
-**Managing Germany eSIM for multiple devices on a family trip.**
+### Managing Germany eSIM for multiple devices on a family trip.
 
 If you are traveling with family members, each person needs their own eSIM or must rely on hotspot sharing from a single phone. The practical consideration here is that hotspot sharing works well when the group stays together but becomes impractical when family members split up during the day, which happens frequently in a city like Munich or Berlin where some visit museums while others explore different neighborhoods.
 
 Two practical setups for families:
 
-**Each person gets their own eSIM:**
+### Each person gets their own eSIM:
 - Each phone has its own Germany eSIM with a moderate data allowance, such as 5 GB or 10 GB per person.
 - This avoids the dependency on tethering and ensures each family member has independent connectivity for navigation, messaging, and photos.
 - The phones can be configured using the dual SIM setup described earlier, with each persons home SIM for voice and SMS and the Germany eSIM for data.
 
-**Single hotspot with large data plan:**
+### Single hotspot with large data plan:
 - A single phone with a large data plan, such as 30 GB or 50 GB, acts as the hotspot for the rest of the group.
 - The hotspot phone stays in one persons bag, and the others connect their phones to it.
 - This works well when the group remains within roughly ten meters of the host phone, but it breaks down when group members wander apart in a train station or a museum.
@@ -483,7 +483,7 @@ Even with correct configuration, dual SIM setups can produce unexpected behavior
 
 ### iPhone "Other Line Not Supported" error
 
-**The "Other Line Not Supported" error on iPhone.**
+### The "Other Line Not Supported" error on iPhone.
 
 This is perhaps the most frequently reported dual SIM issue on iPhone. The message appears when you try to use a feature that requires both lines to be active for the same action, such as forwarding calls from one line to the other, or using Wi-Fi Calling over Cellular Data when the providers do not support that combination.
 
@@ -495,7 +495,7 @@ The fix depends on what triggered the message:
 
 ### Data stops working after line switching
 
-**Data stops working after the phone switches between lines.**
+### Data stops working after the phone switches between lines.
 
 - **What happens:** If you have Allow Cellular Data Switching on iPhone or Automatically switch mobile data on Android enabled, the phone may switch the data line to the home SIM when the Germany eSIM momentarily loses signal. Once the German network signal returns, the phone sometimes does not switch back automatically, or it takes several minutes to do so.
 - **Quick fix:** Toggle Airplane Mode on and off. This forces the phone to re-register both lines on their respective networks, at which point the data line switches back to the eSIM because it is set as the default.
@@ -503,7 +503,7 @@ The fix depends on what triggered the message:
 
 ### Home SIM shows "No Service" or "SOS Only"
 
-**Home SIM shows "No Service" or "SOS Only."**
+### Home SIM shows "No Service" or "SOS Only."
 
 This is usually a network registration issue. Follow these steps to resolve it:
 
@@ -515,7 +515,7 @@ This is usually a network registration issue. Follow these steps to resolve it:
 
 ### Slow data and EDGE or GPRS fallback
 
-**The Germany eSIM connects but data is extremely slow.**
+### The Germany eSIM connects but data is extremely slow.
 
 Slow data on the eSIM can have several causes:
 
@@ -523,13 +523,13 @@ Slow data on the eSIM can have several causes:
 - **Check your connected network:** On iPhone, go to Settings, Cellular, tap the Germany eSIM, and look at the network name. On Android, check the SIM Card Manager or SIMs screen for the connected network. If the eSIM is on O2 and the speed is unusable, try manually selecting Telekom or Vodafone through the network selection menu.
 - **Still slow on Telekom or Vodafone:** The issue is likely local congestion or a temporary network fault. Try moving to a different location, even 100 meters, to see if the signal improves. Restarting the phone also helps in cases where the network session has become stale.
 
-**SMS verification codes from the home SIM arrive late or not at all.**
+### SMS verification codes from the home SIM arrive late or not at all.
 
 - **Why it happens:** This is a roaming issue rather than a dual SIM issue. When your home SIM is roaming in Germany, SMS delivery can be delayed because the message has to travel from your home carriers SMSC through the German partner network to your phone. Delays of several minutes are common, and occasional delivery failures happen.
 - **What to do:** If an SMS verification code does not arrive within five minutes, request a new code through the app or service that sent it. Most services allow at least three resend attempts. If the code still does not arrive, the home SIM may have lost its network registration. Toggle the home SIM off and on in the SIM settings, or restart the phone.
 - **Prevention:** For services that offer alternative verification methods, such as authenticator apps or email-based codes, set those up before leaving home. Relying solely on SMS verification while roaming is risky because delivery is inherently less reliable than when the SIM is on its home network.
 
-**The phone is stuck on EDGE or GPRS instead of LTE or 5G.**
+### The phone is stuck on EDGE or GPRS instead of LTE or 5G.
 
 - **Cause:** This is an APN configuration issue. When the eSIM profile is installed, the phone should automatically receive the correct APN settings from the provider. In some cases, especially with provider-branded eSIMs that require manual APN entry, the phone may fall back to 2G or 3G because it is using an incorrect or missing APN.
 - **Check APN settings on iPhone:** Go to Settings, Cellular, tap the Germany eSIM, then Cellular Data Network. The APN field should contain the providers correct value, such as internet.t-mobile.de for Telekom-based eSIMs, web.vodafone.de for Vodafone-based ones, or internet.o2.de for O2-based ones.

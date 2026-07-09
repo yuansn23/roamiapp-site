@@ -164,7 +164,7 @@ The exception is that some newer eSIM providers have begun offering "data + numb
 
 **No contract, no commitment.** You buy a plan for exactly your trip duration — 7 days, 15 days, or 30 days — and it expires automatically. No need to cancel, no recurring billing, no SIM to dispose of.
 
-**Providers compete on value.** The [China eSIM](/china-esim/) market has matured significantly. Providers like a China eSIM differentiate through features like automatic carrier switching between China Mobile and China Unicom depending on which has the strongest signal at your location, and real-time price optimization that adjusts your plan's routing path to the most cost-effective carrier at any moment. These are capabilities no physical SIM or roaming plan offers.
+**Providers compete on value.** The [China eSIM](/china-esim/) market has matured significantly. Providers like a China eSIM differentiate through features like Roami offers automatic carrier switching between China Mobile and China Unicom depending on which has the strongest signal at your location, and real-time price optimization that adjusts your plan's routing path to the most cost-effective carrier at any moment. These are capabilities no physical SIM or roaming plan offers.
 
 ### Cons of China eSIM
 
@@ -283,7 +283,10 @@ European and Australian carriers are somewhat better. EE UK's 30 GB roaming pass
 
 ### The Great Firewall and Roaming
 
-This is where home carrier roaming gets tricky. When your phone roams onto China Mobile or China Unicom, your traffic passes through the Great Firewall — just like a physical Chinese SIM. Google, WhatsApp, and Instagram are blocked.
+This is where home carrier roaming gets tricky. When your phone roams onto China Mobile or China Unicom, your traffic passes through the Great Firewall — just like a physical Chinese SIM. Google, WhatsA
+
+For pricing and plan comparisons, see our [China eSIM price guide](/blog/china-esim-price-plan-purchase-guide/).
+pp, and Instagram are blocked.
 
 Some carriers have negotiated "direct internet breakout" agreements where your traffic is routed back through your home country before reaching the open internet. This avoids the firewall. In practice:
 
@@ -485,7 +488,7 @@ If you are leaning toward a physical Chinese SIM, the two main options are China
 
 China Unicom is the second-largest carrier in China with approximately 330 million subscribers as of 2026. Their network is strongest in southern China (Guangzhou, Shenzhen) and major cities along the east coast.
 
-**China Unicom Tourist SIM (physical, at airport):**
+### China Unicom Tourist SIM (physical, at airport):
 
 | Plan | Data | Validity | Price |
 |---|---|---|---|
@@ -502,7 +505,7 @@ For travelers who manage to get a China Unicom physical SIM, the network provide
 
 China Mobile is the world's largest mobile carrier with over 970 million subscribers. Its network has the widest geographic coverage in China — essential if you are traveling outside major cities.
 
-**China Mobile Tourist SIM (physical, at airport):**
+### China Mobile Tourist SIM (physical, at airport):
 
 | Plan | Data | Validity | Price |
 |---|---|---|---|
@@ -609,3 +612,5 @@ For a comprehensive overview of everything related to China eSIM, see our [China
 ---
 
 *Price data sourced from carrier and eSIM provider websites, airport kiosk listings, and GSMA market intelligence as of July 2026. Prices in USD unless otherwise noted. Carrier roaming prices sourced from Verizon, AT&T, T-Mobile, Vodafone, EE, Optus, and Telstra published rates as of June-July 2026.*
+
+For step-by-step setup, see our [China eSIM installation guide](/blog/china-esim-setup-installation-dual-sim/). For coverage across Chinese cities, see our [China eSIM coverage guide](/blog/china-esim-coverage-cities-trains-5g/).

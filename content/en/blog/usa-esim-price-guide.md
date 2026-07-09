@@ -85,8 +85,6 @@ This guide breaks down every provider's pricing across all data tiers, compares 
 
 For travelers who want to test pricing and connectivity before committing, a [usa esim](/usa-esim/) offers a [free trial](/free-esim/) with code **WEB20** for 20% off any plan.
 
-All prices are in USD as of July 2026, sourced from each provider's official website and verified against [Reddit's r/eSIM community](https://www.reddit.com/r/eSIM/) reports. Network performance data references [OpenSignal's 2026 US Mobile Network Experience Report](https://www.opensignal.com/reports) and [Ookla's Speedtest Global Index](https://www.speedtest.net/global-index). The [GSMA](https://www.gsma.com/esim/) provides the technical specifications that make eSIM pricing competitive across providers.
-
 ---
 
 ## How much does a USA eSIM cost? — Quick answer
@@ -277,7 +275,7 @@ This **USA eSIM price per GB comparison chart** shows exactly what each provider
 | **Nomad** | $5.50/GB | $2.67/GB | $2.40/GB | $2.00/GB | — |
 | **Saily** | $4.49/GB | — | $3.20/GB | $2.70/GB | — |
 
-**Key takeaways:**
+### Key takeaways:
 
 - **Ubigi** offers the best per-GB rates at 10GB ($1.20/GB) and 25GB ($0.96/GB)
 - **Airalo** offers the best 1GB rate ($4.50/GB) for light users
@@ -360,7 +358,7 @@ For a 30-day stay, here's how the **best value USA eSIM for 30 days** stacks up 
 | **Tello** | 10GB | $15.00 | $1.50 | Yes | Balanced need for data + number |
 | **T-Mobile Prepaid** | 30GB | $25.00 | $0.83 | Yes | Heavy users who can verify ID |
 
-**30-day recommendation by traveler type:**
+### 30-day recommendation by traveler type:
 
 | Traveler type | Recommended plan | Price | Why |
 |:--------------|:-----------------|:-----:|:----|
@@ -475,7 +473,7 @@ For a typical 14-day vacation combining maps, social media, messaging, and occas
 | **Holafly** | Mobile hotspot | Limited | 500MB/day cap |
 | **Google Fi** | Group plan | Yes | $65/mo for 3+ lines |
 
-**Sharing options:**
+### Sharing options:
 
 1. **Mobile hotspot (most common):** One person buys a plan and shares via hotspot. Works with Ubigi, Airalo, Tello, Nomad. Holafly's 500MB/day cap makes sharing impractical.
 
@@ -483,7 +481,7 @@ For a typical 14-day vacation combining maps, social media, messaging, and occas
 
 3. **Google Fi group plan:** $65/month for 3 lines with full-speed hotspot. Best for families spending a month or more.
 
-**Group travel cost comparison (2 adults, 14 days):**
+### Group travel cost comparison (2 adults, 14 days):
 
 | Option | Cost | Flexibility | Notes |
 |:-------|:----:|:----------:|:------|
@@ -554,7 +552,7 @@ If a single provider does not offer enough data for your needs, you can combine 
 | Video calls (Zoom, FaceTime) | ~500-900MB per hour | ~1GB | ~7GB |
 | Music streaming (Spotify, Apple Music) | ~40-80MB per hour | ~80MB | ~560MB |
 
-**Data calculation by use case:**
+### Data calculation by use case:
 
 | Traveler type | Daily data | 7-day total | Recommended plan |
 |:--------------|:----------:|:----------:|:-----------------|
@@ -569,7 +567,7 @@ If a single provider does not offer enough data for your needs, you can combine 
 
 Use this guide to estimate your data needs for any trip length:
 
-**Step 1: Estimate daily usage per activity**
+### Step 1: Estimate daily usage per activity
 
 | Activity | Minutes per day | Data per minute | Daily subtotal |
 |:---------|:--------------:|:---------------:|:-------------:|
@@ -582,12 +580,12 @@ Use this guide to estimate your data needs for any trip length:
 | Web browsing | 30 min | 1 MB/min | 30 MB |
 | **Total daily** | — | — | **~897 MB** |
 
-**Step 2: Multiply by trip days**
+### Step 2: Multiply by trip days
 - 7-day trip: 897 MB x 7 = 6.3 GB
 - 14-day trip: 897 MB x 14 = 12.6 GB
 - 30-day trip: 897 MB x 30 = 26.9 GB
 
-**Step 3: Add 20% buffer**
+### Step 3: Add 20% buffer
 - 7-day trip: 6.3 GB x 1.2 = **7.6 GB** (round up to 10GB plan)
 - 14-day trip: 12.6 GB x 1.2 = **15.1 GB** (round up to 20GB plan)
 - 30-day trip: 26.9 GB x 1.2 = **32.3 GB** (round up to 30-50GB plan)
@@ -608,7 +606,7 @@ This calculator provides a personalized estimate based on your actual usage patt
 | **Airalo** | Referral code | $3 off | First purchase through referral link |
 | **Saily** | First purchase discount | 10% off | New user discount |
 
-**How to find active promo codes:**
+### How to find active promo codes:
 
 1. **Check provider apps directly** — Many providers display promo codes in-app
 2. **Subscribe to provider newsletters** — Codes often arrive by email
@@ -660,7 +658,7 @@ eSIM prices fluctuate based on demand. Here are historical pricing trends:
 | **Holafly** | No | — | — | — |
 | **Tello** | No | — | — | — |
 
-**Why try a free trial before your trip:**
+### Why try a free trial before your trip:
 
 | Benefit | Why it matters |
 |:--------|:---------------|
@@ -702,7 +700,7 @@ A free trial effectively insures against a $10-75 mistake. The 5-minute investme
 | **AT&T Prepaid** | No | No refunds on prepaid plans |
 | **Verizon Prepaid** | No | No refunds on prepaid plans |
 
-**Key refund notes:**
+### Key refund notes:
 - **Data usage voids refund:** If you've used any data, most providers won't refund the plan
 - **Time limits:** Most refunds require requesting within 7-14 days of purchase
 - **Airalo's Airmoney:** Airalo refunds in store credit, not cash
@@ -723,7 +721,7 @@ If you need to request a refund, here is the process for each provider:
 | Saily | In-app chat | 3-7 business days | Moderate |
 | Airalo | In-app chat (Airmoney credit) | Instant (credit) | High for credit |
 
-**Tips for a successful refund request:**
+### Tips for a successful refund request:
 - Request before using any data — usage voids refunds
 - Include your order number and purchase date in the request
 - Explain why the eSIM did not work (incompatible device, wrong APN, no coverage)
@@ -736,7 +734,7 @@ If you need to request a refund, here is the process for each provider:
 
 **Are there hidden fees with USA eSIM?** Most international eSIM providers (Ubigi, Airalo, Holafly, Saily, Nomad) have transparent pricing — the price shown is what you pay. No activation fees, no connection fees, no regional roaming surcharges.
 
-**Hidden fees to watch for:**
+### Hidden fees to watch for:
 
 | Fee type | Applies to | Typical cost |
 |:---------|:-----------|:------------:|
@@ -832,3 +830,7 @@ For travelers with non-US credit cards, PayPal is the most reliable payment meth
 </script>
 
 *Prices change — verify current rates on each provider's official website before purchasing. Last updated July 2026.*
+
+For US telecom regulation, visit [FCC](https://www.fcc.gov). The [GSMA](https://www.gsma.com) defines eSIM standards.
+. The [FCC](https://www.fcc.gov) regulates US telecom. [GSMA](https://www.gsma.com) defines eSIM standards.
+ . [Wikipedia](https://en.wikipedia.org/wiki/Mobile_network_operator) covers US carrier market structure.

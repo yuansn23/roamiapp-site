@@ -84,8 +84,6 @@ Here is what they do not give you:
 - SMS capabilities
 - Voice call capabilities
 
-The reason is structural. These are international roaming eSIMs, not local Chinese eSIMs — the [GSMA's eSIM specification](https://www.gsma.com/) defines the technical standard for embedded SIM profiles, but how carriers issue numbers is governed by local regulation, not the technology. They partner with Chinese carriers ([China Mobile](https://en.wikipedia.org/wiki/China_Mobile), [China Unicom](https://en.wikipedia.org/wiki/China_Unicom), [China Telecom](https://en.wikipedia.org/wiki/China_Telecom)) for network access, but the actual service is provided by a foreign company. Chinese carriers do not issue local numbers to international roaming partners. You are essentially using a foreign SIM that roams on Chinese towers, and roaming SIMs never get local numbers.
-
 Some providers in other countries — particularly in Europe — offer eSIM plans that include a phone number with SMS and voice. For China, this does not exist from any major travel eSIM brand as of 2026. Every "unlimited data" China eSIM with built-in VPN you see is data-only.
 
 ### Chinese Domestic eSIMs (With Phone Number)
@@ -196,19 +194,19 @@ China Mobile is China's largest carrier with over 900 million subscribers. For t
 
 **What you get:** A 11-digit Chinese phone number (starting with 134-139, 150-152, 157-158, 188, or 198) with SMS and voice capabilities. Data plans are available as add-ons.
 
-**Pricing:**
+### Pricing:
 - SIM card fee: 10-30 RMB ($1.50-$4.50)
 - Tourist SIM plans: typically 100 RMB ($14) for 10 GB over 7 days, or 200 RMB ($28) for 30 GB over 30 days
 - Monthly prepaid plans: 58 RMB ($8) for 5 GB up to 298 RMB ($42) for 60 GB
 
-**Where to buy:**
+### Where to buy:
 - Beijing Capital International Airport (Terminal 3, arrivals hall — look for the China Mobile kiosk)
 - Shanghai Pudong Airport (Terminal 1 and 2, arrivals area)
 - Guangzhou Baiyun Airport (Arrivals hall, near the exit)
 - Any China Mobile branded store in any Chinese city (search for "China Mobile Business Hall" on maps)
 - Some 7-Eleven and FamilyMart convenience stores sell tourist SIMs, though data availability varies
 
-**Registration process at the airport:**
+### Registration process at the airport:
 1. Present your passport. The agent takes a photocopy.
 2. The agent photographs your face using a tablet or camera.
 3. You fill out a short form (name, passport number, duration of stay, hotel address).
@@ -227,12 +225,12 @@ China Unicom is the second-largest carrier. Their physical SIM offering for trav
 
 **What you get:** An 11-digit Chinese phone number (starting with 130-132, 155-156, 185-186) with SMS and voice.
 
-**Pricing:**
+### Pricing:
 - SIM card fee: 10-30 RMB ($1.50-$4.50)
 - Tourist SIM: 100 RMB ($14) for 8 GB over 7 days, or 160 RMB ($22) for 20 GB over 15 days
 - Monthly: comparable to China Mobile
 
-**Where to buy:**
+### Where to buy:
 - Shanghai Pudong Airport (China Unicom kiosk in arrivals — often less crowded than China Mobile)
 - Beijing Daxing Airport
 - China Unicom branded stores
@@ -255,18 +253,18 @@ CMHK offers eSIM profiles that include a Hong Kong phone number plus data that r
 
 **What you get:** A Hong Kong phone number (8 digits, starting with 51, 52, 53, 54, 55, 56, 57, 58, 59, 68, 69, 91, 92, 93, 94, 95, 96, 97, 98, or 99), SMS capability, voice, and mainland China roaming data.
 
-**Pricing:**
+### Pricing:
 - "China & Hong Kong 5G Local + Roaming" plan: approximately 198 HKD ($25) per month for 10 GB shared between Hong Kong and mainland China
 - "TravelSIM" prepaid: 88 HKD ($11) for 1 GB across Asia (including China) with a Hong Kong number
 - "SoSIM" prepaid (at 7-Eleven stores in Hong Kong): 33 HKD ($4) for 50 GB over 30 days with a Hong Kong number — but this is a physical SIM, not eSIM
 
-**Registration process:**
+### Registration process:
 1. For eSIM: purchase online from CMHK website. You need a valid passport or HKID scan.
 2. Real-name registration is required under Hong Kong's Telecommunications Ordinance.
 3. The eSIM profile is delivered via QR code.
 4. Once activated, you have a Hong Kong number that can receive SMS in mainland China.
 
-**Limitations:**
+### Limitations:
 - CMHK requires pickup or verification that you are in Hong Kong during activation for some plans
 - Not all Chinese apps accept Hong Kong numbers for registration. 12306 does not. WeChat does.
 - Data routing: CMHK routes through Hong Kong, so Google and WhatsApp work without a separate VPN
@@ -300,19 +298,19 @@ For travelers, real-name registration creates a specific set of requirements and
 
 ### The Registration Process Step by Step
 
-**Step 1: Visit a carrier store with your passport.**
+### Step 1: Visit a carrier store with your passport.
 Airport kiosks and official carrier stores are the only places that can process foreign passport registration. Third-party resellers and convenience stores often cannot handle foreign passports in their registration systems. Go to an official store.
 
-**Step 2: The staff scans your passport.**
+### Step 2: The staff scans your passport.
 They use a document scanner connected to the carrier's registration system. The system reads the machine-readable zone (MRZ) at the bottom of your passport's biographical page. This captures your full name, passport number, nationality, date of birth, and expiration date.
 
-**Step 3: Face photograph.**
+### Step 3: Face photograph.
 A staff member takes a live photograph of your face using a tablet or dedicated camera. This photo is linked to your registration record. The system performs a basic liveness check to ensure the photo is not a picture of a picture.
 
-**Step 4: The registration is submitted to MIIT's database.**
+### Step 4: The registration is submitted to MIIT's database.
 The carrier submits your information to the ministry's centralized real-name registration database. This happens in real time for most stores. The SIM is activated once the system confirms the registration.
 
-**Step 5: You select a plan and pay.**
+### Step 5: You select a plan and pay.
 After the registration passes, the staff activates your plan. You pay the plan fee and any SIM card charge. You leave with a working Chinese phone number.
 
 ### Data Stored in the Registration System
@@ -375,7 +373,7 @@ This section walks through the exact sequence for registering WeChat with a fore
 
 Before attempting to register anything, configure your phone so that the data-only eSIM handles internet traffic while your home SIM handles SMS.
 
-**On iPhone:**
+### On iPhone:
 1. Go to Settings > Cellular > Cellular Data
 2. Select your China eSIM as the data line
 3. Go back to Cellular > select your home SIM line
@@ -384,7 +382,7 @@ Before attempting to register anything, configure your phone so that the data-on
 
 If you are new to dual SIM on iPhone, [Apple Support's guide to using dual SIM](https://support.apple.com/en-us/HT212780) covers the full setup with both physical SIM and eSIM combinations.
 
-**On Android (Samsung/Google Pixel):**
+### On Android (Samsung/Google Pixel):
 1. Go to Settings > Connections > SIM Card Manager
 2. Set your China eSIM as the primary data SIM
 3. Set your home physical SIM as the primary SIM for calls and SMS
@@ -477,7 +475,7 @@ It does not work for:
 
 If you have a US-based Google Voice number, it can receive SMS for some international services while you are in China. Google Voice works over your data connection (the China eSIM), so the SMS arrives via the Google Voice app without needing a cellular connection to your home carrier.
 
-**Limitations:**
+### Limitations:
 - Google Voice is US-only (requires a US phone number for initial setup)
 - Many apps and services do not accept Google Voice numbers for verification
 - Some apps specifically block Google Voice number ranges
@@ -488,13 +486,13 @@ If you have a US-based Google Voice number, it can receive SMS for some internat
 
 Skype offers virtual phone numbers from multiple countries. You purchase a Skype number (monthly subscription, typically $5-$15 depending on country), and inbound SMS messages to that number are delivered to the Skype app on your phone.
 
-**How to set it up:**
+### How to set it up:
 1. Subscribe to Skype in your home country before traveling
 2. Purchase a Skype Number from a country you have ties to
 3. Use that number for SMS verification for apps that accept it
 4. Receive SMS codes through the Skype app over your data eSIM connection
 
-**Limitations:**
+### Limitations:
 - Skype number SMS reception is only supported from certain countries
 - Skype does not support SMS reception from all senders (some short codes are blocked)
 - Chinese apps almost never accept Skype numbers for registration
@@ -506,7 +504,7 @@ Some travelers use two eSIMs: one data-only international China eSIM for interne
 
 This works best with phones that support dual eSIM (iPhone XS and later, Samsung Galaxy S21 and later, Google Pixel 7 and later).
 
-**Configuration:**
+### Configuration:
 - Primary data: China eSIM (international routing, firewall bypass)
 - Primary SMS: Home carrier eSIM (the carrier's roaming eSIM profile)
 - Set the China eSIM as the default data line
@@ -524,7 +522,7 @@ Providers worth checking: Surfroam, KnowRoaming, and the aforementioned Nomad oc
 
 **Pricing:** Usually $10-$20 extra on top of the data plan.
 
-**Limitations:**
+### Limitations:
 - SMS forwarding is not real-time (5-30 minute delays are common)
 - Not all SMS short codes route through the forwarding service
 - Chinese services almost never accept these virtual numbers
@@ -563,7 +561,7 @@ If your trip involves any of the following, consider adding a Chinese physical S
 - You are staying longer than two weeks and want cheaper per-GB data
 - You need a Chinese number for work or study purposes
 
-**The three-SIM configuration:**
+### The three-SIM configuration:
 - Physical SIM slot: Chinese carrier SIM (China Mobile, for number and local data)
 - eSIM slot: International data eSIM (for firewall-bypassed internet)
 - Home SIM: Switched to eSIM if possible, or carry a second phone for SMS
@@ -685,7 +683,7 @@ Hong Kong phone numbers (from CMHK, 3HK, or other carriers) are accepted by some
 
 ### Decision Framework: Do You Need a Chinese SIM?
 
-**Get a Chinese physical SIM if:**
+### Get a Chinese physical SIM if:
 - You plan to use 12306 to book your own train tickets
 - You want food delivery (Meituan/Ele.me) or bike sharing
 - You are staying longer than 2 weeks and want the cheapest data rates
@@ -693,7 +691,7 @@ Hong Kong phone numbers (from CMHK, 3HK, or other carriers) are accepted by some
 - You want the full WeChat Pay experience without workarounds
 - You will visit smaller cities where Didi international and foreigner services are less available
 
-**Skip the Chinese physical SIM if:**
+### Skip the Chinese physical SIM if:
 - Your trip is 1 week or less
 - You stick to tier-1 cities (Beijing, Shanghai, Guangzhou, Shenzhen)
 - You are comfortable using Didi international and Trip.com
@@ -819,6 +817,11 @@ For longer stays or travelers who want full access to Chinese services:
 3. Set up dual SIM: travel eSIM as primary data, China Mobile SIM for SMS and local calls
 4. Register for 12306, Meituan, and other Chinese services using the Chinese number
 
-A [China eSIM](/china-esim/) from Roami covers the first part reliably — data-only with firewall bypass, automatic carrier switching across China's three networks, and 24/7 support if you need help configuring the dual-SIM setup or understanding which type of connectivity you need. Use code WEB20 for a discount on your first plan, and try connectivity risk-free with the [/free-esim/](/free-esim/) free trial offer.
+A [China eSIM](/china-esim/) from Roami covers the first part reliably — data-only with firewall bypass, Unlike Airalo which uses single routing, Roami offers automatic carrier switching across China's three networks, and 24/7 support if you need help configuring the dual-SIM setup or understanding which type of connectivity you need. Use code WEB20 for a discount on your first plan, and try connectivity risk-free with the [/free-esim/](/free-esim/) free trial offer.
 
 The landscape may shift as Chinese carriers evolve their eSIM policies for foreign visitors. But as of 2026, this is the state of play: data-only eSIMs are excellent for internet, and getting a Chinese number still requires a visit to a carrier store with your passport. Plan accordingly, and your trip will go smoothly.
+
+For official information on telecom regulations, visit [Wikipedia](https://en.wikipedia.org/wiki/Telecommunications_in_China).
+
+
+For official device compatibility, visit [Apple Support](https://support.apple.com/en-us/HT212780). The [Ookla Speedtest Global Index](https://www.speedtest.net/global-index) provides China network performance data.

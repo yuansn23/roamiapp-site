@@ -77,9 +77,13 @@ Every one of these providers must verify your identity before you can place a vo
 
 Identity verification under the TKG takes one of two recognized forms:
 
-**1. Physical in-person check**: you present your passport or national identity card at a retail store. The staff member inspects the document, compares it to your face, and activates the SIM on the spot.
+### 1. Physical in-person check
 
-**2. Remote video-identification (Video-Ident or Post-Ident)**: you hold your passport up to a webcam while a trained agent compares your face to the photograph, records the document number and expiry date, and captures screenshots of the data page for the carrier's records.
+you present your passport or national identity card at a retail store. The staff member inspects the document, compares it to your face, and activates the SIM on the spot.
+
+### 2. Remote video-identification (Video-Ident or Post-Ident)
+
+you hold your passport up to a webcam while a trained agent compares your face to the photograph, records the document number and expiry date, and captures screenshots of the data page for the carrier's records.
 
 Some providers also accept the German electronic ID card (eID) via NFC reader, but for foreign tourists holding non-German passports, video identification is the standard remote method regardless of which carrier you choose.
 

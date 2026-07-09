@@ -56,7 +56,16 @@ recentPosts:
     permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
     date: "2026-05-20"
 ---
-France has four mobile networks covering different areas with varying quality. Orange covers 95% of the population with 4G and 90% with 5G. SFR covers 88%, Bouygues covers 90%, and Free covers 85%. Paris has full 5G across all carriers on all 20 arrondissements. TGV high-speed trains maintain 4G/5G connectivity for over 95% of journey time on the Paris-Lyon and Paris-Marseille lines. Rural areas in Provence and Normandy have solid 4G in villages but signal gaps between towns. Corsica has 4G coverage across most of the coastline but limited signal in the mountainous interior. CDG airport has excellent 5G coverage across all terminals on all four networks.
+France has four mobile networks with varying coverage:
+
+Coverage by carrier:
+- **Orange:** 95% population (4G), 90% (5G) — widest coverage
+- **Bouygues:** 90% population
+- **SFR:** 88% population
+- **Free:** 85% population — cheapest but thinnest
+
+**Paris:** Full 5G on all carriers, all 20 arrondissements
+**TGV:** 95%+ connectivity on Paris-Lyon and Paris-Marseille lines Rural areas in Provence and Normandy have solid 4G in villages but signal gaps between towns. Corsica has 4G coverage across most of the coastline but limited signal in the mountainous interior. CDG airport has excellent 5G coverage across all terminals on all four networks.
 
 This guide provides coverage information for every major French destination type: Paris and its metro system, Lyon and Marseille, the French Riviera, TGV high-speed rail routes, rural areas and countryside, Corsica, and CDG airport. It also compares the four French mobile networks — Orange, SFR, Bouygues, and Free — across coverage and speed metrics, and provides recommendations for which eSIM approach works best for each scenario.
 
@@ -121,7 +130,7 @@ According to [Ookla's Speedtest Global Index for France](https://www.speedtest.n
 
 Mobile coverage inside buildings varies significantly based on construction materials, building age, and carrier infrastructure agreements.
 
-**Paris museums and major attractions:**
+### Paris museums and major attractions:
 
 - **Louvre Museum:** Good 4G/5G from Orange and Bouygues throughout the public galleries. Signal weakens in the underground Sully wing and the medieval moat section. Free Mobile has patchy coverage in basement levels. The museum offers free WiFi in the main hall.
 - **Musee d'Orsay:** Good coverage from all carriers on the ground floor. Signal weakens on the upper (impressionist) floor with Orange and Bouygues still usable. Free Mobile drops to 3G in some areas.
@@ -129,16 +138,17 @@ Mobile coverage inside buildings varies significantly based on construction mate
 - **Sainte-Chapelle:** Good 4G/5G from Orange and Bouygues inside the chapel. The stained glass windows do not significantly affect signal. Free Mobile is weaker inside.
 - **Versailles Palace:** Good 4G/5G from all carriers in the main palace rooms and gardens. Signal weakens in the basement areas and the Petit Trianon. Orange provides the best coverage throughout the estate.
 
-**Shopping centers:**
+### Shopping centers:
 
 - **Les Halles (Paris):** Good 5G from all carriers in the main shopping levels. Orange and Bouygues maintain signal in the lower levels near the RER station.
 - **La Defense (CNIT, Westfield):** Excellent 5G from all carriers throughout. The modern construction includes mobile repeaters.
 - **Part-Dieu (Lyon):** Good 5G from all carriers. Orange and Bouygues best in the lower levels.
 - **Centre Bourse (Marseille):** Good 4G/5G from all carriers. SFR strongest due to local infrastructure investment.
 
-**Hotels:**
+### Hotels:
 
 Coverage inside hotels varies by building age and construction material. As a general rule:
+
 - Modern hotels (built 2000s onward): Good 4G/5G from all carriers in most rooms
 - Older hotels (19th century buildings, common in central Paris): Signal can be weak in interior rooms, basement levels, and rooms with thick stone walls
 - Orange typically provides the best in-room coverage in older buildings due to its 800MHz low-band spectrum
@@ -150,23 +160,23 @@ Coverage inside hotels varies by building age and construction material. As a ge
 
 France hosts numerous major events that stress mobile networks. Understanding how carriers perform at these events helps in choosing an eSIM provider.
 
-**Stade de France (Saint-Denis, Paris):**
+### Stade de France (Saint-Denis, Paris):
 
 The Stade de France hosts rugby matches, concerts, and major sporting events. Orange has the most on-site infrastructure with dedicated small cells and DAS (Distributed Antenna System) coverage throughout the stadium. Bouygues has good coverage but can congest during sold-out events. SFR and Free are adequate for messaging but slow for data during events. Expect data speeds of 5-20 Mbps on Orange during full-capacity events, dropping to 1-5 Mbps on Free.
 
-**Roland Garros (French Open, Paris):**
+### Roland Garros (French Open, Paris):
 
 The French Open at Roland Garros sees extremely high data usage as attendees post photos and videos. Orange provides the best on-site coverage with dedicated infrastructure at the Philippe Chatrier and Suzanne Lenglen courts. Bouygues is adequate but slower during match days. SFR and Free struggle during peak hours at the tournament.
 
-**Cannes Film Festival (Cannes, May):**
+### Cannes Film Festival (Cannes, May):
 
 During the Cannes Film Festival in May, the Palais des Festivals area experiences extreme network congestion. Orange maintains the best service along the Croisette and at the Palais. All carriers deploy temporary small cells for the festival period. Bouygues and SFR are usable but slower during red carpet events.
 
-**Bastille Day (July 14, nationwide):**
+### Bastille Day (July 14, nationwide):
 
 On Bastille Day, networks experience congestion at fireworks displays and celebrations nationwide. The Champs-Elysees area in Paris is the most congested single location. Orange and Bouygues handle the load best. Free Mobile becomes nearly unusable in central Paris after 9 PM on July 14.
 
-**General event recommendation:**
+### General event recommendation:
 
 For travelers attending any major event in France, an eSIM on the Orange network provides the most reliable connectivity. Multi-network eSIMs (Multi-network eSIM) that can switch to the least congested carrier during events offer an additional layer of resilience.
 
@@ -176,14 +186,14 @@ For travelers attending any major event in France, an eSIM on the Orange network
 
 Paris has comprehensive 5G coverage on all four networks across all 20 arrondissements. The city has one of the densest mobile infrastructure deployments in Europe, with thousands of small cells and macro sites distributed to ensure consistent coverage.
 
-**Coverage by arrondissement:**
+### Coverage by arrondissement:
 
 - **Central Paris (1st-8th):** Excellent 5G coverage on all networks. The 1st (Louvre/Tuileries), 4th (Le Marais/Bastille), and 7th (Eiffel Tower/Invalides) have the highest density of mobile infrastructure due to tourist traffic. Expect 5G speeds of 200-400 Mbps on Orange and Bouygues in these areas.
 - **Left Bank (5th-7th):** Full 5G coverage. The Latin Quarter (5th), Saint-Germain (6th), and the areas around the Luxembourg Gardens have excellent signal. Free Mobile's performance drops slightly in the 6th due to building density in the narrow streets.
 - **Right Bank (9th-17th):** Full 5G coverage. The business district around Opera (9th), the Champs-Elysees (8th), and Montmartre (18th) all have strong 5G. Montmartre's hilltop location provides excellent line-of-sight to multiple towers.
 - **Peripheral arrondissements (12th, 13th, 19th, 20th):** Good 4G/5G coverage. The 13th (Olympiades/Chinatown) and 19th (Buttes-Chaumont) have solid coverage on all networks. Free Mobile performs adequately but may show slightly lower speeds than Orange in the 20th (Menilmontant/Belleville).
 
-**Congestion patterns in Paris:**
+### Congestion patterns in Paris:
 
 Mobile network congestion in Paris follows predictable patterns:
 
@@ -198,7 +208,7 @@ Mobile network congestion in Paris follows predictable patterns:
 
 The Paris Metro is divided into two coverage zones: underground stations and tunnels.
 
-**Underground stations with 4G/5G:**
+### Underground stations with 4G/5G:
 
 The RATP (Paris transit authority) has deployed mobile infrastructure in approximately 40% of Metro stations as of 2026. Lines with the broadest coverage:
 
@@ -208,17 +218,17 @@ The RATP (Paris transit authority) has deployed mobile infrastructure in approxi
 - **Line A (RER, La Defense to Boissy-Saint-Leger):** Coverage in all underground stations. Some tunnel sections between Auber and Nation have partial coverage.
 - **Line B (RER, Gare du Nord to Saint-Michel):** Coverage in stations. Tunnel coverage is partial between Chatelet and Saint-Michel.
 
-**Other lines:**
+### Other lines:
 
 - **Lines 2, 3, 5, 6, 8, 9, 10, 11, 12, 13:** Most underground stations have 4G coverage. Tunnel sections between stations generally have no signal. Coverage is available on all four networks, but Orange and Bouygues provide the strongest underground signal.
 - **Lines 3bis, 7bis:** Partial coverage. These shorter, older lines have fewer stations with mobile deployment.
 - **Tram lines (T1-T8):** Surface-level tram lines have standard city-wide coverage. No underground sections.
 
-**Practical metro usage tips:**
+### Practical metro usage tips:
 
 According to [the official RATP website](https://www.ratp.fr/en), free public WiFi is available at approximately 200 Metro stations, including all central stations. This can supplement your eSIM data when underground, but the connection speed is typically limited to 2-10 Mbps and requires reconnection at each station.
 
-**Metro lines by coverage quality:**
+### Metro lines by coverage quality:
 
 | Metro Line | Station Coverage | Tunnel Coverage | Best Network |
 |-----------|-----------------|----------------|-------------|
@@ -240,19 +250,19 @@ For a [france esim](/france-esim/) used in the Paris Metro, choosing a provider 
 
 Lyon, France's third-largest city, has excellent mobile coverage across all four networks.
 
-**Central Lyon (1st-4th arrondissements):**
+### Central Lyon (1st-4th arrondissements):
 
 - **Presqu'ile (1st-2nd):** Full 5G coverage on all networks. The area between the Rhone and Saone rivers, including Bellecour square and the old town (Vieux Lyon), has particularly strong Orange and Bouygues 5G. Free Mobile is slightly weaker in Vieux Lyon's narrow medieval streets but still provides usable 4G/5G.
 - **Croix-Rousse (4th):** Good 4G/5G coverage. The hilltop area has solid signal from all carriers. Orange and Bouygues are best here.
 - **Part-Dieu (3rd):** Full 5G. This business district is well-served by all carriers. Orange and Bouygues provide the fastest speeds around the Part-Dieu shopping center and train station. Free Mobile shows occasional congestion during lunch hours in this area.
 
-**Greater Lyon:**
+### Greater Lyon:
 
 - **Villeurbanne (east of Rhone):** Good 4G/5G on all carriers. Orange and SFR provide the most consistent coverage.
 - **Confluence (south of Presqu'ile):** Full 5G. This newer development area has excellent modern mobile infrastructure from all carriers.
 - **Fourviere hill:** Good 4G/5G. The Basilica area has strong signal from Orange and Bouygues. Free Mobile has weaker coverage near the summit.
 
-**Lyon public transport (TCL):**
+### Lyon public transport (TCL):
 
 Lyon's Metro lines A, B, C, and D have 4G coverage in all underground stations. Tunnel coverage is limited to Metro D (the only fully underground line), where Orange and Bouygues provide the most consistent tunnel signal. Lyon's tram lines (T1-T4) operate at surface level and have normal city-wide coverage.
 
@@ -262,19 +272,19 @@ Lyon's Metro lines A, B, C, and D have 4G coverage in all underground stations. 
 
 Marseille, France's second-largest city, has good but uneven mobile coverage due to its hilly topography and mix of dense urban and coastal terrain.
 
-**Central Marseille:**
+### Central Marseille:
 
 - **Vieux Port and Le Panier (1st-2nd):** Excellent 5G on all networks. The Old Port area has dense mobile infrastructure. Orange and SFR are strongest here, with Bouygues close behind. Free Mobile provides 5G in the port area but may drop to 4G in Le Panier's narrow streets.
 - **La Canebiere and central districts (1st):** Full 5G on Orange, Bouygues, and SFR. Free Mobile is reliable but slower.
 - **Notre-Dame de la Garde:** Good 4G/5G from all carriers. The hilltop basilica has strong signal because of its clear line of sight to multiple towers.
 
-**Coastal areas:**
+### Coastal areas:
 
 - **Corniche and beaches:** Good 4G/5G along the coastline. Summer congestion (July-August) affects all carriers, with Free Mobile most impacted. Orange maintains the best beachside speeds during peak season.
 - **Calanques (national park):** Limited coverage. The calanques (coastal inlets) between Marseille and Cassis have very patchy coverage. Orange provides signal at the main calanque entry points (Calanque de Sugiton, Calanque d'En-Vau) but coverage drops significantly once you descend into the inlets. Bouygues and SFR only work at the highest viewpoints. Free has almost no signal in the calanques.
 - **Iles du Frioul:** Partial 4G from Orange. Other networks have weak or no coverage on the islands.
 
-**Greater Marseille:**
+### Greater Marseille:
 
 - **Aix-en-Provence (25km north):** Excellent 5G on all networks. Aix has strong Orange and Bouygues coverage throughout the city center and around the university.
 - **Cassis (20km east):** Good 4G/5G in the town center. Coverage weakens on the coastal roads leading into the calanques.
@@ -285,14 +295,14 @@ Marseille, France's second-largest city, has good but uneven mobile coverage due
 
 Bordeaux, one of France.s largest cities and a major travel hub, has strong 4G/5G coverage across its urban area.
 
-**Central Bordeaux:**
+### Central Bordeaux:
 
 - **Place de la Bourse and city center:** Excellent 5G on all networks. Orange and Bouygues provide the fastest speeds around this UNESCO-listed central area. Free Mobile has 5G in the center but drops to 4G in some narrow streets of the old town.
 - **Saint-Pierre district:** Good 5G from Orange and Bouygues. Free Mobile is usable but slower in the medieval streets.
 - **Chartrons district:** Good 4G/5G from all carriers. Orange leads for consistency.
 - **La Cite du Vin area:** Excellent 5G from all carriers. The modern Cite du Vin museum has good mobile infrastructure.
 
-**Greater Bordeaux:**
+### Greater Bordeaux:
 
 - **Saint-Emilion (35km east):** Good 4G from Orange in the village. Bouygues covers the town center. Free has weak coverage in the wine village.
 - **Arcachon and Bassin d'Arcachon (60km southwest):** Good 4G/5G in Arcachon town from all carriers. Orange provides coverage at the Dune du Pilat. Coverage weakens on the southern side of the Bassin.
@@ -302,13 +312,13 @@ Bordeaux, one of France.s largest cities and a major travel hub, has strong 4G/5
 
 Toulouse, France's fourth-largest city and aerospace hub, has comprehensive mobile coverage.
 
-**Central Toulouse:**
+### Central Toulouse:
 
 - **Capitole Square and city center:** Excellent 5G from all carriers. Orange and Bouygues provide 300-400 Mbps 5G speeds in the central square.
 - **Saint-Cyprien district:** Good 5G from Orange and Bouygues. Free 5G available but weaker across the Garonne river.
 - **Compans-Caffarelli business district:** Full 5G from all carriers. Bouygues is particularly strong in this area.
 
-**Greater Toulouse:**
+### Greater Toulouse:
 
 - **Cite de l'Espace:** Good 4G/5G from all carriers. The space theme park has adequate infrastructure.
 - **Airbus facilities (Blagnac):** Good 5G from all carriers. The aerospace industrial zone is well-covered.
@@ -318,13 +328,13 @@ Toulouse, France's fourth-largest city and aerospace hub, has comprehensive mobi
 
 Lille, the capital of French Flanders and a major Eurostar hub, has strong mobile coverage.
 
-**Central Lille:**
+### Central Lille:
 
 - **Grand Place and Vieux Lille:** Excellent 5G from all carriers. Orange and Bouygues lead for speeds in the old city. Free Mobile performs well in the main square but weakens in Vieux Lille's narrow streets.
 - **Euralille shopping center:** Good 5G from all carriers on upper levels. Orange and Bouygues maintain signal in the lower levels near the train station.
 - **Lille-Flandres and Lille-Europe stations:** Excellent 5G from all carriers in both stations.
 
-**Greater Lille:**
+### Greater Lille:
 
 - **Lille Metro (Line 1, 2):** 4G coverage in all underground stations. Tunnel coverage limited to Orange on Line 1. No tunnel coverage on Line 2.
 - **Travel to Belgium:** Signal continues across the border for approximately 10-15km into Belgium on all French carriers. For Antwerp or Brussels, a Europe-wide eSIM is recommended.
@@ -333,13 +343,13 @@ Lille, the capital of French Flanders and a major Eurostar hub, has strong mobil
 
 Strasbourg, seat of the European Parliament, has good coverage across the city with some specific considerations.
 
-**Central Strasbourg:**
+### Central Strasbourg:
 
 - **Cathedral area and Grande Ile:** Excellent 5G from Orange and Bouygues. Free Mobile has 5G in the cathedral square but drops to 4G in the surrounding medieval streets.
 - **European Quarter (European Parliament area):** Full 5G from all carriers. This area has excellent mobile infrastructure for EU institution workers.
 - **Petite France district:** Good 4G/5G from Orange and Bouygues. Free Mobile is weaker in this area due to half-timbered building construction.
 
-**Greater Strasbourg:**
+### Greater Strasbourg:
 
 - **Cross-border to Germany (Kehl):** French carriers maintain signal for approximately 10-20km into Germany. For extended German travel, a Europe-wide eSIM is recommended.
 - **Alsace villages (Colmar, Riquewihr, Ribeauville):** Orange provides 4G in these towns. Bouygues covers some sections. Free has limited coverage in Alsatian villages.
@@ -350,14 +360,14 @@ Strasbourg, seat of the European Parliament, has good coverage across the city w
 
 The French Riviera (Cote d'Azur) stretching from Cannes through Nice to Monaco has strong mobile coverage in urban centers and along the coastal strip, with some specific gaps.
 
-**Nice:**
+### Nice:
 
 - **Promenade des Anglais and city center:** Excellent 5G on all networks. Nice has extensive 5G deployment from Orange, Bouygues, and SFR. Orange provides the fastest speeds along the Promenade. Free Mobile has 5G in the city center but may drop to 4G in areas with dense building stock.
 - **Nice Old Town (Vieux Nice):** Good 4G/5G. The narrow streets affect Free Mobile more than Orange or Bouygues. Orange maintains the most consistent signal in the old town's alleyways.
 - **Nice Port (Port Lympia):** Good 4G/5G on all networks. Slightly weaker signal from Bouygues at the far end of the port.
 - **Colline du Chateau:** Good 4G/5G from all carriers due to open sight lines. The park at the top has strong coverage.
 
-**French Riviera towns:**
+### French Riviera towns:
 
 | Town | Best Network | Coverage Quality | Notes |
 |------|-------------|-----------------|-------|
@@ -371,7 +381,7 @@ The French Riviera (Cote d'Azur) stretching from Cannes through Nice to Monaco h
 | Villefranche-sur-Mer | Orange / Bouygues | Good 4G/5G | Beach area well-covered |
 | Menton | Orange / SFR | Good 4G/5G | Close to Italian border, Orange strongest |
 
-**Summer congestion on the Riviera:**
+### Summer congestion on the Riviera:
 
 The French Riviera experiences significant network congestion during July and August. Beach areas along the Promenade des Anglais in Nice, the Croisette in Cannes, and the port of Monaco all see heavy data usage. Orange typically maintains the best speeds during peak season. Free Mobile can become unusable in beach areas during July afternoons, with speeds dropping below 2 Mbps.
 
@@ -383,11 +393,11 @@ According to [Ookla's regional speed data](https://www.speedtest.net/global-inde
 
 TGV trains are a primary mode of transport for travelers visiting multiple French cities. Mobile coverage on TGV routes is generally excellent, with some predictable dead zones.
 
-**How TGV coverage works:**
+### How TGV coverage works:
 
 TGV trains travel at speeds of up to 320 km/h (200 mph). Mobile networks handle this through a system of directional antennas along the tracks that hand off the signal between towers as the train passes. Modern TGV trains also have signal-repeater windows that reduce signal loss from the train's metal body.
 
-**Coverage by major TGV route:**
+### Coverage by major TGV route:
 
 | Route | Journey Time | Coverage % | Dead Zones | Best Network |
 |-------|-------------|-----------|-----------|-------------|
@@ -400,7 +410,7 @@ TGV trains travel at speeds of up to 320 km/h (200 mph). Mobile networks handle 
 | Lyon - Marseille | 1h 40m | 95% | Tunnel sections near Avignon | Orange |
 | Paris - Nice | 5h 30m | 92% | Multiple tunnels in Provence-Alpes | Orange |
 
-**Detailed TGV coverage notes:**
+### Detailed TGV coverage notes:
 
 - **Paris-Lyon (LGV Sud-Est):** This is the most mature TGV route with the best coverage. Orange and Bouygues provide nearly uninterrupted 4G/5G for the entire 2-hour journey. The primary dead zone is the tunnel near Montchanin (approximately 3 minutes of no signal). Free Mobile has more dropouts on this route, with approximately 5-8 minutes of no signal total.
 - **Paris-Marseille (LGV Mediterranee):** Excellent coverage for the first hour (Paris to Lyon). After Lyon, coverage remains strong with brief interruptions in the Mistral tunnel south of Valence (about 2 minutes) and a few shorter tunnels. Orange provides the most consistent connection through the Provence-Alpes section.
@@ -408,7 +418,7 @@ TGV trains travel at speeds of up to 320 km/h (200 mph). Mobile networks handle 
 - **Paris-Strasbourg (LGV Est):** The most challenging TGV route for mobile coverage. The Vosges tunnel near the Alsace border has no signal for approximately 8 minutes. Orange and Bouygues provide the best coverage on the remaining sections.
 - **Lyon-Marseille:** Good coverage on all networks. The route passes through the Rhone valley which has good tower density. Brief tunnel dropouts near Avignon and Aix-en-Provence.
 
-**Practical TGV connectivity tips:**
+### Practical TGV connectivity tips:
 
 A multi-network [france esim](/france-esim/) has a meaningful advantage on TGV routes. Carrier coverage varies by section — Orange may be best in one tunnel zone, while Bouygues is better in another. An eSIM that switches between Orange, Bouygues, SFR, and Free based on real-time signal strength maintains connectivity more consistently than one locked to a single carrier.
 
@@ -422,7 +432,7 @@ For multi-country rail travel connecting through France (Eurostar, TGV to Switze
 
 Rural coverage in France varies significantly by network. This is where the choice of eSIM provider matters most.
 
-**Provence countryside:**
+### Provence countryside:
 
 Provence's rural areas include the Luberon, Durance valley, and the plateau of Valensole. Coverage patterns:
 
@@ -431,20 +441,20 @@ Provence's rural areas include the Luberon, Durance valley, and the plateau of V
 - **Valensole plateau:** Orange works at the main viewpoints and along the D6 road. Bouygues and SFR have partial coverage. Free has no signal in this area.
 - **Gorges du Verdon:** Orange has coverage at the main viewpoints (Point Sublime, Balcons de la Mescla) and along the northern rim road (D952). No network has coverage at the canyon floor.
 
-**Normandy:**
+### Normandy:
 
 - **Coastal towns (Honfleur, Deauville, Etretat):** All four networks have 4G/5G coverage. Orange and Bouygues are strongest.
 - **Mont Saint-Michel:** Good 4G from all networks in the village and on the causeway. Signal weakens inside the abbey building itself. Orange provides the best indoor coverage.
 - **D-Day beaches (Utah, Omaha, Gold, Juno, Sword):** Orange provides 4G at all beach memorial sites and museums. Bouygues and SFR cover approximately 80% of beach areas. Free has limited coverage at the more remote beach sections.
 - **Rural countryside between Caen and Bayeux:** Good 4G from Orange in villages. Bouygues covers main roads. Free has significant gaps.
 
-**Loire Valley:**
+### Loire Valley:
 
 - **Chateaux (Chenonceau, Chambord, Cheverny):** Orange provides 4G coverage at all major chateaux. Bouygues covers approximately 80% of chateau locations. Free has weak or no coverage at some chateaux.
 - **Loire River towns (Tours, Blois, Saumur):** Good 4G/5G on all networks.
 - **Country roads between chateaux:** Orange maintains 4G on main routes. Bouygues has intermittent coverage. Free has no coverage on many secondary roads.
 
-**Dordogne and Southwest France:**
+### Dordogne and Southwest France:
 
 - **Sarlat-la-Caneda and Beynac:** Orange provides reliable 4G in all Dordogne tourist towns. Bouygues is adequate in town centers but weakens in the surrounding countryside.
 - **Prehistoric cave sites (Lascaux, Font-de-Gaume):** Orange works at all major cave sites. Signal is available at visitor centers but may not reach the cave entrances themselves.
@@ -456,7 +466,7 @@ Provence's rural areas include the Luberon, Durance valley, and the plateau of V
 
 Corsica presents unique coverage challenges due to its mountainous terrain and lower population density.
 
-**Coastal coverage:**
+### Coastal coverage:
 
 - **Ajaccio:** Good 4G/5G on Orange, Bouygues, and SFR. Free has 4G in the city center but weaker coverage in the outskirts. Orange has the widest coverage in the Ajaccio region.
 - **Bastia:** Good 4G/5G on all networks. Orange and Bouygues are strongest in the port area and city center.
@@ -464,7 +474,7 @@ Corsica presents unique coverage challenges due to its mountainous terrain and l
 - **Porto-Vecchio:** Good 4G from Orange and Bouygues. SFR is adequate. Free has weak coverage.
 - **Bonifacio:** Good 4G from Orange. Bouygues and SFR have partial coverage. Free has minimal coverage in the old town.
 
-**Inland and mountain coverage:**
+### Inland and mountain coverage:
 
 Corsica's mountainous interior has very limited mobile coverage:
 
@@ -473,7 +483,7 @@ Corsica's mountainous interior has very limited mobile coverage:
 - **Mountain roads (D84, D69):** Orange provides intermittent 4G on main mountain roads. Other networks have large coverage gaps.
 - **Regional natural parks:** Very limited coverage. Orange has signal at some visitor centers. Most park trails have no coverage on any network.
 
-**Corsican ferry crossings:**
+### Corsican ferry crossings:
 
 Ferries from Nice, Marseille, or Toulon to Corsica have mobile coverage until approximately 15-20km from the coast. After leaving territorial waters, there is no signal until approaching Corsica. Ferry companies (Corsica Ferries, SNCM, Moby) offer paid WiFi, but prices are high (approximately 5-10 euro for 500MB).
 
@@ -483,7 +493,7 @@ Ferries from Nice, Marseille, or Toulon to Corsica have mobile coverage until ap
 
 Both Paris airports have excellent mobile coverage.
 
-**Charles de Gaulle (CDG) Terminal-by-Terminal:**
+### Charles de Gaulle (CDG) Terminal-by-Terminal:
 
 | Terminal | 5G Coverage | Best Network | Notes |
 |----------|-------------|-------------|-------|
@@ -493,11 +503,11 @@ Both Paris airports have excellent mobile coverage.
 | Terminal 2G | Good 4G/5G | Orange | Smaller terminal, adequate coverage |
 | Terminal 3 | Good 4G/5G | Orange, Bouygues | Lower-cost terminal, good coverage |
 
-**WiFi at CDG:**
+### WiFi at CDG:
 
 CDG offers free WiFi throughout all terminals. Connection speed is adequate for messaging and browsing (typically 5-15 Mbps) but may require reconnection every 30-60 minutes. For travelers arriving and needing to install an eSIM, CDG WiFi provides sufficient bandwidth.
 
-**Orly Airport:**
+### Orly Airport:
 
 Orly (ORY) has excellent 5G coverage on all networks throughout all terminals (1, 2, 3, and 4). Orange and Bouygues provide the fastest speeds. Orly also offers free WiFi.
 
@@ -557,11 +567,11 @@ For travelers who specifically need 5G speeds, any France eSIM on the Orange or 
 
 Road trips through France require reliable coverage across changing geographies. This is the scenario where network choice matters most.
 
-**Recommended approach for road trips:**
+### Recommended approach for road trips:
 
 A multi-network eSIM that switches between Orange, Bouygues, SFR, and Free provides the best road trip experience. As you drive from Paris through the Loire Valley to the Dordogne and down to the Riviera, the best network changes multiple times. Orange is strong in the Loire, Bouygues is competitive in the Dordogne, and SFR performs well on the Riviera.
 
-**Coverage on major road routes:**
+### Coverage on major road routes:
 
 | Route | Best Network | Coverage Quality | Notes |
 |-------|-------------|-----------------|-------|
@@ -574,14 +584,14 @@ A multi-network eSIM that switches between Orange, Bouygues, SFR, and Free provi
 | A75 Clermont to Montpellier | Orange | Moderate 4G | Millau bridge area excellent; rest partial |
 | A43 Lyon to Albertville | Orange | Partial 4G | Mountain sections have gaps |
 
-**Practical road trip tips:**
+### Practical road trip tips:
 
 - Download offline maps (Google Maps or a dedicated GPS app) before departing, especially for Provence, Corsica, and mountain routes
 - Charge your phone and bring a car charger — GPS navigation drains battery faster than normal usage
 - Use an eSIM provider with 5G support for faster data in cities along your route
 - Hotel and Airbnb WiFi can supplement your data for heavy downloads like streaming
 
-**Coverage on secondary roads (D-roads):**
+### Coverage on secondary roads (D-roads):
 
 Beyond the major highways, France's secondary road network (D-roads) connecting towns and villages has variable coverage:
 
@@ -592,7 +602,7 @@ Beyond the major highways, France's secondary road network (D-roads) connecting 
 
 For travelers exploring rural France by car, a multi-network eSIM or an Orange-connected eSIM is essential for reliable GPS navigation and music streaming between destinations.
 
-**Mountain passes and scenic roads:**
+### Mountain passes and scenic roads:
 
 French mountain passes (Cols) present unique coverage challenges. The following passes have usable coverage:
 
@@ -622,35 +632,35 @@ The coverage information in this guide is compiled from multiple sources:
 
 ## Recommendations by Coverage Scenario
 
-**For Paris tourism (museums, monuments, restaurants):**
+### For Paris tourism (museums, monuments, restaurants):
 
 Any eSIM works well in Paris. Airalo on Orange at $12 for 5GB provides a solid balance of price and coverage. The Orange network gives you the best Underground metro coverage. For extended metro use, Orange-connected eSIMs have the best station and tunnel infrastructure deals with RATP.
 
-**For TGV travel between cities:**
+### For TGV travel between cities:
 
 Bouygues-connected eSIMs (Ubigi) perform nearly as well as Orange on most TGV routes, with equivalent coverage on the Paris-Lyon and Paris-Marseille lines. For the Paris-Strasbourg route, Orange-connected eSIMs have an edge through the Vosges tunnel section.
 
-**For Provence and rural visits:**
+### For Provence and rural visits:
 
 Orange-connected eSIMs are the only reliable choice for rural Provence, Normandy, Dordogne, and the Loire Valley. Airalo, Saily, and Nomad all offer Orange-network eSIMs. The difference between Orange and other networks in rural areas is significant enough that it justifies paying slightly more for an Orange-connected plan.
 
-**For the French Riviera:**
+### For the French Riviera:
 
 Orange and SFR both perform well on the Riviera. Airalo (Orange) or providers using SFR (some Holafly plans) work equally well. Summer congestion affects all networks, with Orange maintaining the best peak-season speeds.
 
-**For Corsica:**
+### For Corsica:
 
 Orange is the only practical choice for Corsica. Airalo on Orange provides the widest coverage across Ajaccio, Bastia, and coastal towns. For mountain hiking (GR20), no eSIM provides reliable coverage — download maps and materials before departing for the interior.
 
-**For multi-city road trips:**
+### For multi-city road trips:
 
-A multi-network [france esim](/france-esim/) like Roami provides the most consistent experience across changing geographies. As you drive from city to countryside and back, automatic carrier switching maintains connectivity without manual network selection. This is also the best option for travelers who will spend time in both urban and rural areas.
+A multi-network [france esim](/france-esim/) like Roami provides the most consistent experience across changing geographies. As you drive from city to countryside and back, Roami offers automatic carrier switching maintains connectivity without manual network selection. This is also the best option for travelers who will spend time in both urban and rural areas.
 
-**For all-around use with a single recommendation:**
+### For all-around use with a single recommendation:
 
 A multi-network eSIM like Roami that includes Orange provides the widest overall coverage across all French destinations. The ability to switch to Bouygues or SFR when their signal is stronger, and fall back to Orange in rural areas, delivers better overall connectivity than any single-network eSIM.
 
-**How automatic carrier switching changes the coverage equation:**
+### How automatic carrier switching changes the coverage equation:
 
 The fundamental limitation of any single-network eSIM is that the best network for Paris may not be the best for Provence, or the TGV, or Corsica. Orange leads overall, but Bouygues matches it in many cities, SFR excels in the south, and Free has competitive urban coverage. A multi-network eSIM like Multi-network eSIM shifts the decision from "which single network is best" to "how to access all networks optimally."
 

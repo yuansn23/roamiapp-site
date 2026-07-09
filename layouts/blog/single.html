@@ -13,89 +13,82 @@
     <meta name="twitter:card" content="summary_large_image">
     
     <!-- JSON-LD Structured Data (Article) -->
- 
- {{- /* 仅在单页（文章）生成，避免列表页也输出 Article */ -}}
-{{- if .IsPage -}}
-<script type="application/ld+json">
-{
-    "@context": "https://schema.org",
-    "@graph": [
-        {
-            "@type": "Article",
-            "headline": {{ .Title | jsonify }},
-            "description": {{ .Description | default (.Summary | plainify | truncate 160) | jsonify }},
-            "image": {{ .Params.image | default .Site.Params.defaultImage | absURL | jsonify }},
-            "author": {
-                "@type": "Organization",
-                "name": "Roami"
-            },
-            "publisher": {
-                "@type": "Organization",
-                "name": "Roami",
-                "logo": {
-                    "@type": "ImageObject",
-                    "url": "{{ .Site.Params.logo | absURL }}"
+    {{- if .IsPage -}}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@graph": [
+            {
+                "@type": "Article",
+                "headline": {{ .Title | jsonify }},
+                "description": {{ .Description | default (.Summary | plainify | truncate 160) | jsonify }},
+                "image": {{ .Params.image | default .Site.Params.defaultImage | absURL | jsonify }},
+                "author": {
+                    "@type": "Organization",
+                    "name": "Roami"
+                },
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Roami",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "{{ .Site.Params.logo | absURL }}"
+                    }
+                },
+                "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+                "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+                "mainEntityOfPage": {
+                    "@type": "WebPage",
+                    "@id": "{{ .Permalink | absURL | safeURL }}"
                 }
             },
-            "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
-            "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
-            "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": "{{ .Permalink | absURL | safeURL }}"
-            }
-        },
-        {
-            "@type": "BreadcrumbList",
-            "itemListElement": [
-                {{- /* 构建面包屑列表：从首页 → 父级 → 当前页 */ -}}
-                {{- $currentPage := . -}}
-                {{- $entries := slice -}}
-
-                {{- /* 1. 首页（固定） */ -}}
-                {{- $home := .Site.Home -}}
-                {{- $entries = $entries | append (dict "position" 1 "name" "Home" "url" $home.Permalink) -}}
-
-                {{- /* 2. 中间各级父页面（不包括首页） */ -}}
-                {{- $pos := 2 -}}
-                {{- range $currentPage.Ancestors.Reverse -}}
-                    {{- if not .IsHome -}}
-                        {{- $entries = $entries | append (dict "position" $pos "name" .Title "url" .Permalink) -}}
-                        {{- $pos = add $pos 1 -}}
-                    {{- end -}}
-                {{- end -}}
-
-                {{- /* 3. 当前页面（最后一项，不输出 item，符合规范） */ -}}
-                {{- $entries = $entries | append (dict "position" $pos "name" .Title "url" nil) -}}
-
-                {{- /* 输出 JSON 数组，注意逗号 */ -}}
-                {{- range $index, $entry := $entries -}}
-                    {{- if $index }}, {{ end -}}
-                    {
-                        "@type": "ListItem",
-                        "position": {{ $entry.position }},
-                        "name": {{ $entry.name | jsonify }}
-                        {{- if $entry.url -}}
-                            , "item": {{ $entry.url | absURL | safeURL | jsonify }}
+            {
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {{- $currentPage := . -}}
+                    {{- $entries := slice -}}
+                    {{- $home := .Site.Home -}}
+                    {{- $entries = $entries | append (dict "position" 1 "name" "Home" "url" $home.Permalink) -}}
+                    {{- $pos := 2 -}}
+                    {{- range $currentPage.Ancestors.Reverse -}}
+                        {{- if not .IsHome -}}
+                            {{- $entries = $entries | append (dict "position" $pos "name" .Title "url" .Permalink) -}}
+                            {{- $pos = add $pos 1 -}}
                         {{- end -}}
-                    }
-                {{- end -}}
-            ]
-        }
-    ]
-}
-</script>
-{{- end -}}
+                    {{- end -}}
+                    {{- $entries = $entries | append (dict "position" $pos "name" .Title "url" nil) -}}
+                    {{- range $index, $entry := $entries -}}
+                        {{- if $index }}, {{ end -}}
+                        {
+                            "@type": "ListItem",
+                            "position": {{ $entry.position }},
+                            "name": {{ $entry.name | jsonify }}
+                            {{- if $entry.url -}}
+                                , "item": {{ $entry.url | absURL | safeURL | jsonify }}
+                            {{- end -}}
+                        }
+                    {{- end -}}
+                ]
+            }
+        ]
+    }
+    </script>
+    {{- end -}}
     
     <link href="/css/tailwind-compiled.css" rel="stylesheet">
     <style>
-        /* 基础样式 – 复用列表页样式，并增加文章专属样式 */
+        /* ============================================
+           基础样式 – 复用列表页样式，并增加文章专属样式
+           ============================================ */
         .no-scrollbar::-webkit-scrollbar { display: none; }
         .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
         .blog-content {
             font-size: 1.125rem;
             line-height: 1.75;
             color: #1e293b;
         }
+
         .blog-content h2 {
             font-size: 1.875rem;
             font-weight: 700;
@@ -104,36 +97,66 @@
             padding-bottom: 0.5rem;
             border-bottom: 2px solid #e2e8f0;
         }
+
         .blog-content h3 {
             font-size: 1.5rem;
             font-weight: 600;
             margin-top: 2rem;
             margin-bottom: 0.75rem;
         }
+
         .blog-content h4 {
             font-size: 1.25rem;
             font-weight: 600;
             margin-top: 1.5rem;
             margin-bottom: 0.5rem;
         }
+
         .blog-content p {
             margin-bottom: 1.25rem;
         }
+
         .blog-content a {
             color: #2563eb;
             text-decoration: underline;
             text-underline-offset: 2px;
         }
+
         .blog-content a:hover {
             color: #1d4ed8;
         }
-        .blog-content ul, .blog-content ol {
+
+        /* ========== 列表样式修复（核心） ========== */
+        .blog-content ul,
+        .blog-content ol {
             margin: 1.25rem 0;
             padding-left: 1.75rem;
         }
+
+        .blog-content ul {
+            list-style-type: disc !important;   /* 无序列表：圆点 */
+        }
+
+        .blog-content ol {
+            list-style-type: decimal !important; /* 有序列表：数字 */
+        }
+
         .blog-content li {
             margin-bottom: 0.5rem;
         }
+
+        /* 嵌套列表（二级/三级） */
+        .blog-content ul ul,
+        .blog-content ol ul {
+            list-style-type: circle !important;
+            margin: 0.5rem 0;
+        }
+
+        .blog-content ul ul ul,
+        .blog-content ol ul ul {
+            list-style-type: square !important;
+        }
+
         .blog-content blockquote {
             border-left: 4px solid #3b82f6;
             background-color: #f8fafc;
@@ -142,11 +165,13 @@
             font-style: italic;
             border-radius: 0.5rem;
         }
+
         .blog-content img {
             border-radius: 0.75rem;
             margin: 1.5rem 0;
             box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
         }
+
         .blog-content pre {
             background-color: #0f172a;
             color: #e2e8f0;
@@ -155,13 +180,15 @@
             overflow-x: auto;
             margin: 1.5rem 0;
         }
+
         .blog-content code {
             background-color: #f1f5f9;
             padding: 0.2rem 0.4rem;
             border-radius: 0.375rem;
             font-size: 0.875em;
         }
-        /* 表格样式优化 – 解决挤压问题，支持横向滚动 */
+
+        /* ========== 表格样式 ========== */
         .blog-content table {
             width: 100%;
             display: block;
@@ -171,6 +198,7 @@
             white-space: nowrap;
             font-size: 0.875rem;
         }
+
         .blog-content table thead tr th,
         .blog-content table tbody tr td {
             border: 1px solid #e2e8f0;
@@ -180,14 +208,17 @@
             word-break: normal;
             vertical-align: top;
         }
+
         .blog-content table thead tr th {
             background-color: #f8fafc;
             font-weight: 600;
             font-size: 0.875rem;
         }
+
         .blog-content table tbody tr:nth-child(even) {
             background-color: #fafcff;
         }
+
         @media (max-width: 640px) {
             .blog-content table {
                 white-space: normal;
@@ -198,7 +229,8 @@
                 font-size: 0.8rem;
             }
         }
-        /* 目录样式（位于正文上方） */
+
+        /* ========== 目录样式（已移除圆点） ========== */
         .toc-container {
             background-color: #f8fafc;
             border-radius: 1rem;
@@ -206,28 +238,61 @@
             margin-bottom: 2rem;
             border: 1px solid #e2e8f0;
         }
+
         .toc-container details summary {
             font-weight: 700;
             cursor: pointer;
             color: #0f172a;
+            list-style: none; /* 移除 summary 默认的三角符号（可选） */
         }
+
+        .toc-container details summary::-webkit-details-marker {
+            display: none; /* Chrome/Safari 隐藏默认三角 */
+        }
+
         .toc-container details ul {
             margin-top: 0.75rem;
-            padding-left: 1.25rem;
-            list-style-type: none;
+            padding-left: 0; /* 取消默认缩进，由层级缩进控制 */
+            list-style-type: none !important; /* 移除圆点 */
         }
-        .toc-container details li {
+
+        /* 目录一级项 */
+        .toc-container details > ul > li {
             margin-bottom: 0.5rem;
+            padding-left: 0;
+            font-weight: 500;
         }
+
+        /* 目录二级项（缩进） */
+        .toc-container details ul ul {
+            padding-left: 1.5rem !important;
+            margin-top: 0.25rem;
+        }
+
+        /* 目录三级项（更深缩进） */
+        .toc-container details ul ul ul {
+            padding-left: 1.5rem !important;
+        }
+
+        .toc-container details li {
+            margin-bottom: 0.35rem;
+            list-style-type: none !important;
+        }
+
         .toc-container details a {
             color: #3b82f6;
             text-decoration: none;
             font-size: 0.9rem;
+            display: inline-block;
+            padding: 0.1rem 0;
         }
+
         .toc-container details a:hover {
             text-decoration: underline;
+            color: #1d4ed8;
         }
-        /* 阅读进度条 */
+
+        /* ========== 阅读进度条 ========== */
         .reading-progress-bar {
             position: fixed;
             top: 0;
@@ -238,21 +303,24 @@
             z-index: 1000;
             transition: width 0.1s ease;
         }
-        /* 作者卡片 */
+
+        /* ========== 作者卡片 ========== */
         .author-card {
             background: linear-gradient(135deg, #f8fafc 0%, #ffffff 100%);
             border-radius: 1.5rem;
             padding: 1.5rem;
             border: 1px solid #e2e8f0;
         }
-        /* 相关文章卡片 (底部推荐) */
+
+        /* ========== 相关文章卡片 ========== */
         .related-card {
             transition: transform 0.2s;
         }
         .related-card:hover {
             transform: translateY(-4px);
         }
-        /* 侧边栏模块通用样式 */
+
+        /* ========== 侧边栏通用 ========== */
         .sidebar-card {
             background-color: #ffffff;
             border-radius: 1rem;
@@ -260,6 +328,7 @@
             border: 1px solid #e2e8f0;
             margin-bottom: 1.5rem;
         }
+
         .sidebar-title {
             font-size: 1.125rem;
             font-weight: 700;
@@ -268,14 +337,17 @@
             margin-bottom: 1rem;
             border-bottom: 2px solid #e2e8f0;
         }
+
         .sidebar-list {
             list-style: none;
             margin: 0;
             padding: 0;
         }
+
         .sidebar-list li {
             margin-bottom: 0.75rem;
         }
+
         .sidebar-list a {
             color: #2563eb;
             text-decoration: none;
@@ -283,21 +355,25 @@
             display: block;
             line-height: 1.4;
         }
+
         .sidebar-list a:hover {
             text-decoration: underline;
         }
+
         .hot-rank {
             display: inline-block;
             width: 24px;
             font-weight: 600;
             color: #3b82f6;
         }
-        /* 热门产品网格 */
+
+        /* ========== 热门产品网格 ========== */
         .product-grid {
             display: grid;
             grid-template-columns: repeat(2, 1fr);
             gap: 0.75rem;
         }
+
         .product-item {
             position: relative;
             background-color: #f8fafc;
@@ -309,10 +385,12 @@
             transition: all 0.2s;
             border: 1px solid #e2e8f0;
         }
+
         .product-item:hover {
             background-color: #f1f5f9;
             transform: translateY(-2px);
         }
+
         .product-flag-img {
             width: 1.5rem;
             height: 1.5rem;
@@ -321,10 +399,12 @@
             flex-shrink: 0;
             box-shadow: 0 1px 2px rgba(0,0,0,0.05);
         }
+
         .product-info {
             flex: 1;
             min-width: 0;
         }
+
         .product-name {
             font-size: 0.875rem;
             font-weight: 600;
@@ -332,11 +412,13 @@
             line-height: 1.3;
             margin-bottom: 0.125rem;
         }
+
         .product-price {
             font-size: 0.7rem;
             color: #475569;
             font-weight: 500;
         }
+
         .product-badge {
             position: absolute;
             top: -0.5rem;
@@ -351,16 +433,19 @@
             white-space: nowrap;
             z-index: 2;
         }
+
         .product-item .product-badge.highlight-recommend {
             background-color: #f97316;
         }
-        /* 响应式布局：桌面端两列（正文 + 侧边栏） + Sticky侧边栏 */
+
+        /* ========== 两列布局（正文 + 侧边栏） ========== */
         .two-columns {
             display: grid;
             grid-template-columns: 1fr 320px;
             gap: 2rem;
             align-items: start;
         }
+
         @media (max-width: 1024px) {
             .two-columns {
                 grid-template-columns: 1fr;
@@ -371,11 +456,13 @@
                 order: 2;
             }
         }
+
         .sidebar {
             position: sticky;
             top: 2rem;
             align-self: start;
         }
+
         .category-cloud a {
             display: inline-block;
             background-color: #f1f5f9;
@@ -386,10 +473,12 @@
             color: #1e293b;
             text-decoration: none;
         }
+
         .category-cloud a:hover {
             background-color: #2563eb;
             color: white;
         }
+
         @media (max-width: 768px) {
             .blog-content {
                 font-size: 1rem;
@@ -407,7 +496,7 @@
 
 {{ partial "header.html" . }}
 
-<!-- 面包屑导航（多语言） -->
+<!-- ========== 面包屑导航 ========== -->
 <nav class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 text-sm text-slate-500">
     <ol class="flex flex-wrap items-center gap-2">
         <li><a href="{{ .Site.LanguagePrefix }}/" class="hover:text-blue-600">{{ i18n "breadcrumb_home" }}</a></li>
@@ -418,18 +507,17 @@
     </ol>
 </nav>
 
-<!-- 主内容区：两列布局（正文 + 右侧边栏） -->
+<!-- ========== 主内容区：两列布局 ========== -->
 <main class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 lg:py-12">
     <div class="two-columns">
-        <!-- 左侧：文章主体 -->
+        <!-- ====== 左侧：文章主体 ====== -->
         <article>
             <header class="mb-6">
                 {{ with .Params.categories }}
-               
                 {{ end }}
-            <h1 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-slate-900 leading-tight tracking-tight mb-4">
-    {{ .Params.h1title | default .Title }}
-</h1>
+                <h1 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-slate-900 leading-tight tracking-tight mb-4">
+                    {{ .Params.h1title | default .Title }}
+                </h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-slate-500 border-b border-slate-200 pb-6">
                     <div class="flex items-center gap-1">
                         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"></path></svg>
@@ -441,39 +529,40 @@
                     </div>
                     <div class="flex items-center gap-1">
                         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                      <span>{{ .ReadingTime }} {{ i18n "minutes_read" }}</span>
+                        <span>{{ .ReadingTime }} {{ i18n "minutes_read" }}</span>
                     </div>
                 </div>
             </header>
 
-        
-
-                       {{ if or .Params.author .Params.authorBio .Params.authorAvatar }}
+            <!-- 作者卡片 -->
+            {{ if or .Params.author .Params.authorBio .Params.authorAvatar }}
             <div class="author-card my-10">
                 <div class="flex items-start gap-4 flex-col sm:flex-row">
                     <div class="flex-shrink-0">
                         <img src="{{ .Params.authorAvatar | default "/img/logo.png" }}" alt="{{ .Params.author | default "Roami Team" }}" class="w-16 h-16 rounded-full object-cover border-2 border-blue-500">
                     </div>
                     <div>
-                        <h4 class="text-lg font-bold text-slate-900"> {{ .Params.author | default "Roami Team" }}</h4>
+                        <h4 class="text-lg font-bold text-slate-900">{{ .Params.author | default "Roami Team" }}</h4>
                         <p class="text-slate-600 text-sm mt-1">{{ .Params.authorBio | default "Wir bei Roami liefern praktische eSIM-Guides, damit du weltweit verbunden bleibst. Folg uns für mehr Reisetipps." }}</p>
-                       
                     </div>
                 </div>
             </div>
             {{ end }}
+
+            <!-- 目录（无圆点版本） -->
             {{ if and .TableOfContents (ne .TableOfContents "<nav id=\"TableOfContents\"></nav>") }}
             <div class="toc-container mb-8">
-    <details open>
-        <summary>{{ i18n "table_of_contents" }}</summary>
-        <div class="toc-content mt-3">
-            {{ .TableOfContents }}
-        </div>
-    </details>
-</div>
+                <details open>
+                    <summary>{{ i18n "table_of_contents" }}</summary>
+                    <div class="toc-content mt-3">
+                        {{ .TableOfContents }}
+                    </div>
+                </details>
+            </div>
             {{ end }}
 
-    {{ if .Params.image }}
+            <!-- 特色图片 -->
+            {{ if .Params.image }}
             <figure class="mb-8">
                 <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-full rounded-2xl shadow-lg object-cover max-h-[500px]">
                 {{ if .Params.imageCaption }}
@@ -481,10 +570,13 @@
                 {{ end }}
             </figure>
             {{ end }}
+
+            <!-- ====== 正文内容 ====== -->
             <div class="blog-content prose prose-slate max-w-none">
                 {{ .Content }}
             </div>
 
+            <!-- 上一篇 / 下一篇 -->
             <div class="flex flex-wrap justify-between gap-4 mt-10 pt-6 border-t border-slate-200">
                 {{ with .PrevInSection }}
                 <a href="{{ .Permalink }}" class="text-blue-600 hover:underline text-sm flex items-center gap-1">← {{ .Title | truncate 60 }}</a>
@@ -499,43 +591,35 @@
             </div>
         </article>
 
-        <!-- 右侧边栏（Sticky） -->
-                <aside class="sidebar">
-                  <!-- 热门 eSIM 产品模块 -->
+        <!-- ====== 右侧边栏（Sticky） ====== -->
+        <aside class="sidebar">
+            <!-- 热门 eSIM 产品模块 -->
             {{ $products := .Params.products }}
             {{ $productsTitle := .Params.productsTitle }}
-          {{ if and $products $productsTitle }}
-
-{{/* 获取当前语言对应的数据文件（如 data/zh-hant.yml） */}}
-{{ $dataKey := .Lang }}
-{{ $data := index .Site.Data $dataKey }}
-{{ $products := $data.related_products.items | default slice }}
-{{ $productsTitle := $data.related_products.title | default "類似 eSIM 方案" }}
-
-{{ if $products }}
-<div class="sidebar-card">
-    <div class="sidebar-title">{{ $productsTitle }}</div>
-    <div class="product-grid">
-        {{/* 随机排序后取前 6 个 */}}
-        {{ range first 6 (shuffle $products) }}
-        {{/* 直接使用 slug（已包含 -esim 后缀） */}}
-        {{ $slug := .slug | default (.name | urlize) }}
-        {{/* 确保 slug 以 / 开头和结尾，并添加语言前缀 */}}
-        {{ $productURL := printf "/%s/" $slug | relLangURL }}
-        <a class="product-item" href="{{ $productURL }}">
-            <img src="{{ .flag | relURL }}" alt="{{ .name }} 旗幟" class="product-flag-img" loading="lazy">
-            <div class="product-info">
-                <div class="product-name">{{ .name }}</div>
-                <div class="product-price">{{ .price }}</div>
-            </div>
-        </a>
-        {{ end }}
-    </div>
-</div>
-{{ end }}
-
-
-{{ end }}
+            {{ if and $products $productsTitle }}
+                {{ $dataKey := .Lang }}
+                {{ $data := index .Site.Data $dataKey }}
+                {{ $products := $data.related_products.items | default slice }}
+                {{ $productsTitle := $data.related_products.title | default "類似 eSIM 方案" }}
+                {{ if $products }}
+                <div class="sidebar-card">
+                    <div class="sidebar-title">{{ $productsTitle }}</div>
+                    <div class="product-grid">
+                        {{ range first 6 (shuffle $products) }}
+                        {{ $slug := .slug | default (.name | urlize) }}
+                        {{ $productURL := printf "/%s/" $slug | relLangURL }}
+                        <a class="product-item" href="{{ $productURL }}">
+                            <img src="{{ .flag | relURL }}" alt="{{ .name }} 旗幟" class="product-flag-img" loading="lazy">
+                            <div class="product-info">
+                                <div class="product-name">{{ .name }}</div>
+                                <div class="product-price">{{ .price }}</div>
+                            </div>
+                        </a>
+                        {{ end }}
+                    </div>
+                </div>
+                {{ end }}
+            {{ end }}
 
             <!-- 热门文章推荐 -->
             {{ $hotPosts := .Params.hotPosts }}
@@ -558,23 +642,22 @@
             <!-- 最近更新 -->
             {{ $recentPosts := .Params.recentPosts }}
             {{ $recentPostsTitle := .Params.recentPostsTitle }}
-          {{ if and $recentPosts $recentPostsTitle }}
-<div class="sidebar-card">
-    <div class="sidebar-title">{{ $recentPostsTitle }}</div>
-    <ul class="sidebar-list">
-        {{ range first 5 $recentPosts }}
-        <li>
-            <a href="{{ .permalink | relLangURL }}">{{ .title }}</a>
-        </li>
-        {{ end }}
-    </ul>
-</div>
-{{ end }}
+            {{ if and $recentPosts $recentPostsTitle }}
+            <div class="sidebar-card">
+                <div class="sidebar-title">{{ $recentPostsTitle }}</div>
+                <ul class="sidebar-list">
+                    {{ range first 5 $recentPosts }}
+                    <li>
+                        <a href="{{ .permalink | relLangURL }}">{{ .title }}</a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+            {{ end }}
         </aside>
     </div>
 
-    <!-- 底部相关文章推荐（保持不变，仍基于全局分类推荐） -->
-      <!-- 底部相关文章推荐（随机4篇，排除当前文章） -->
+    <!-- ====== 底部相关文章推荐 ====== -->
     {{ $allBlogPosts := where .Site.RegularPages "Section" "blog" }}
     {{ $otherPosts := $allBlogPosts | complement (slice .) }}
     {{ $randomPosts := slice }}
@@ -584,9 +667,9 @@
     {{ end }}
     {{ if $randomPosts }}
     <div class="mt-12 pt-6 border-t border-slate-200">
-       <h3 class="text-2xl font-bold text-slate-900 mb-6">
-           {{ i18n "you_might_also_like" }}
-       </h3>
+        <h3 class="text-2xl font-bold text-slate-900 mb-6">
+            {{ i18n "you_might_also_like" }}
+        </h3>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {{ range $randomPosts }}
             <div class="related-card bg-white rounded-xl overflow-hidden shadow-sm border border-slate-200 hover:shadow-md transition">
@@ -597,7 +680,6 @@
                 {{ end }}
                 <div class="p-4">
                     <h4 class="text-lg font-bold text-slate-900 line-clamp-2"><a href="{{ .Permalink }}" class="hover:text-blue-600">{{ .Title }}</a></h4>
-                     
                 </div>
             </div>
             {{ end }}
@@ -608,11 +690,12 @@
 
 {{ partial "footer.html" . }}
 
-<!-- 回到顶部按钮 -->
+<!-- ========== 回到顶部按钮 ========== -->
 <button id="backToTopBtn" class="fixed bottom-6 right-6 bg-blue-600 text-white p-3 rounded-full shadow-lg opacity-0 pointer-events-none transition-all duration-300 hover:bg-blue-700 hover:scale-110 z-50 transform translate-y-4">
     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18"></path></svg>
 </button>
 
+<!-- ========== JavaScript ========== -->
 <script>
     // 阅读进度条
     const progressBar = document.getElementById('readingProgressBar');

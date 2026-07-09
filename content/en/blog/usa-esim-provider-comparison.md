@@ -85,8 +85,6 @@ This guide compares the best international eSIM for USA travel options: Airalo, 
 
 If you want to test an international eSIM before committing, a [usa esim](/usa-esim/) offers automatic network switching and a [free eSIM trial](/free-esim/). Code **WEB20** takes 20% off any plan.
 
-All pricing is in USD as of July 2026, sourced from each provider's official website and verified against [Reddit's r/eSIM community](https://www.reddit.com/r/eSIM/) reports. Network performance data references [OpenSignal's 2026 US Mobile Network Experience Report](https://www.opensignal.com/reports) and [Ookla's Speedtest Global Index](https://www.speedtest.net/global-index). The [GSMA](https://www.gsma.com/esim/) provides the technical specifications that make international eSIMs work across carriers, while the [FCC](https://www.fcc.gov/) oversees US telecom regulations affecting how these providers operate.
-
 ---
 
 ## Quick comparison: International USA eSIM providers
@@ -121,7 +119,7 @@ Beyond price, here is how the providers compare on features that affect your day
 
 **Airalo USA eSIM review speed test** — Airalo connects to T-Mobile and Verizon networks in the US. Speed depends on which network you're connected to at any given moment.
 
-**Real-world speed performance:**
+### Real-world speed performance:
 - **T-Mobile 5G (cities):** 150-350 Mbps download, 20-40 Mbps upload
 - **Verizon 5G (urban):** 80-200 Mbps download, 15-30 Mbps upload
 - **Verizon LTE (rural):** 20-60 Mbps download, 5-15 Mbps upload
@@ -151,7 +149,7 @@ Airalo connects to either T-Mobile or Verizon depending on your location and sig
 | National park | Verizon LTE | T-Mobile coverage often absent |
 | Indoor (large building) | T-Mobile | Better building penetration on 600MHz |
 
-Airalo does not offer manual network selection — your phone automatically chooses between T-Mobile and Verizon. If you are in a location where one network is congested, you cannot force your phone to switch to the other. This is a limitation compared to providers like [USA eSIM](/usa-esim/) that support automatic carrier switching with more granular control.
+Airalo does not offer manual network selection — your phone automatically chooses between T-Mobile and Verizon. If you are in a location where one network is congested, you cannot force your phone to switch to the other. This is a limitation compared to providers like [USA eSIM](/usa-esim/) that support Roami offers automatic carrier switching with more granular control.
 
 ### Airalo pros and cons
 
@@ -172,7 +170,7 @@ Airalo does not offer manual network selection — your phone automatically choo
 
 **Pricing:** 5d $19.50, 7d $27.30, 10d $32.90, 15d $50.90, 30d $74.90.
 
-**Real-world speed performance (AT&T network):**
+### Real-world speed performance (AT&T network):
 - **AT&T 5G (cities):** 100-250 Mbps download, 15-30 Mbps upload
 - **AT&T 5G (suburban):** 50-150 Mbps download, 10-25 Mbps upload
 - **AT&T LTE (rural):** 20-60 Mbps download, 5-15 Mbps upload
@@ -215,13 +213,13 @@ Holafly's "unlimited" plans have a fair use policy that travelers should underst
 
 **Ubigi USA eSIM T-Mobile coverage review** — Ubigi runs exclusively on T-Mobile's network in the US. This means excellent 5G speeds in cities but limited coverage in rural areas.
 
-**Coverage breakdown:**
+### Coverage breakdown:
 - **Major cities (NY, LA, Chicago, Miami):** Excellent 5G coverage, speeds 200-400 Mbps
 - **Suburban areas:** Good 4G/5G coverage, speeds 50-150 Mbps
 - **Small towns:** Limited 4G coverage, speeds 10-40 Mbps
 - **Rural areas / national parks:** Weak to no coverage
 
-**Real-world speed performance:**
+### Real-world speed performance:
 - **T-Mobile 5G Ultra Capacity:** 200-400 Mbps (cities, downtown areas)
 - **T-Mobile 5G (standard):** 80-200 Mbps (suburban, smaller cities)
 - **T-Mobile 4G LTE:** 20-80 Mbps (rural, highways)
@@ -259,7 +257,7 @@ Ubigi offers several features that power users will appreciate:
 | Unlimited hotspot included | No US phone number |
 | 30-day validity on all plans | No phone support |
 | Easy QR code setup | Email support can be slow |
-| Competitive pricing from 1GB to 25GB | No multi-network switching |
+| Competitive pricing from 1GB to 25GB | No Roami offers multi-network switching |
 | Works in 200+ countries | Account creation recommended for top-ups |
 
 ---
@@ -268,7 +266,7 @@ Ubigi offers several features that power users will appreciate:
 
 **Nomad USA eSIM AT&T Verizon review** — Nomad is the only international provider that connects to both AT&T and Verizon — the two carriers with the widest rural coverage in the US. If your trip includes national parks, small towns, or cross-country driving, this is the safest choice among international providers.
 
-**Coverage breakdown:**
+### Coverage breakdown:
 - **AT&T 5G (cities):** 100-250 Mbps, good coverage across most urban areas
 - **AT&T LTE (rural):** 20-60 Mbps, reaches most small towns and highways
 - **Verizon 5G (cities):** 80-200 Mbps, strong in urban areas
@@ -334,7 +332,7 @@ Nomad offers a 1GB free trial to new users:
 
 **Saily USA eSIM NordVPN review** — This Saily USA eSIM review covers a provider built by the Nord Security team (NordVPN), which includes a VPN with virtual location switching, ad blocking, and web protection. Useful if you frequently connect to public WiFi in airports, cafes, and hotels.
 
-**Built-in features:**
+### Built-in features:
 - **Ad blocking:** Removes ads from websites and apps
 - **Web protection:** Blocks malware and phishing sites
 - **Virtual location switching:** Appear to be in different countries
@@ -344,7 +342,7 @@ Nomad offers a 1GB free trial to new users:
 
 **Network:** T-Mobile only.
 
-**Real-world speed performance:**
+### Real-world speed performance:
 - **With VPN on:** 60-150 Mbps download (VPN overhead reduces speed)
 - **With VPN off:** 80-200 Mbps download (same as standard T-Mobile)
 - **Ad blocker impact:** Slightly faster page loads, less data usage
@@ -394,7 +392,7 @@ Saily's VPN is the key differentiator from other eSIM providers. Here is what it
 
 **Networks:** Connects to multiple US carriers depending on location. Similar to Airalo's multi-network approach.
 
-**Real-world speed performance:**
+### Real-world speed performance:
 - **Urban 5G:** 100-250 Mbps (on T-Mobile)
 - **Urban 4G/LTE:** 30-80 Mbps (on T-Mobile or Verizon)
 - **Rural LTE:** 10-40 Mbps (on AT&T or Verizon)
@@ -571,7 +569,7 @@ Ubigi is 60-70% cheaper than Holafly for equivalent data volumes. Holafly's prem
 | **Privacy / VPN needed** | Saily | Built-in VPN and ad blocker |
 | **Multi-country travel** | Airalo or KnowRoaming | 200+ country coverage |
 
-**The overall recommendation:**
+### The overall recommendation:
 - **Most travelers -> Ubigi.** Best combination of price, data, and hotspot.
 - **First-time users -> Airalo.** Easiest setup, lowest entry price.
 - **Rural travelers -> Nomad.** AT&T + Verizon coverage.
@@ -597,22 +595,22 @@ For travelers who want the flexibility of automatic network switching and live s
 
 ## Which provider should you choose? Decision flow
 
-**Step 1: Where are you going?**
+### Step 1: Where are you going?
 - **Only cities (NY, LA, Chicago, Miami)** -> Ubigi (cheapest, fastest)
 - **Rural areas, national parks** -> Nomad (AT&T + Verizon)
 - **Both cities and rural** -> Nomad (covers everything) or Airalo (dual-network)
 
-**Step 2: How much data do you need?**
+### Step 2: How much data do you need?
 - **Under 5GB** -> Airalo ($4.50-11) or KnowRoaming ($4.99-14.99)
 - **5-10GB** -> Ubigi ($12) — best value at this tier
 - **10-25GB** -> Ubigi ($24 for 25GB) — cheapest per-GB
 - **Unlimited** -> Holafly ($27/week) — truly unlimited
 
-**Step 3: Do you need hotspot?**
+### Step 3: Do you need hotspot?
 - **Yes** -> Avoid Holafly. Choose Ubigi, Airalo, Nomad, or Saily.
 - **No** -> Holafly is fine.
 
-**Step 4: Do you need support?**
+### Step 4: Do you need support?
 - **Yes, 24/7** -> Holafly
 - **Not really** -> Any provider
 
@@ -620,27 +618,27 @@ For travelers who want the flexibility of automatic network switching and live s
 
 Here are specific recommendations for common travel scenarios:
 
-**Scenario 1: Weekend city break (3 days, New York)**
+### Scenario 1: Weekend city break (3 days, New York)
 - Recommendation: Airalo 1GB at $4.50 or Ubigi 1GB at $4.00
 - Why: City has excellent T-Mobile coverage, minimal data needed for a weekend
 
-**Scenario 2: Two-week family vacation (Orlando theme parks + Miami beach)**
+### Scenario 2: Two-week family vacation (Orlando theme parks + Miami beach)
 - Recommendation: Airalo 5GB at $11 per person, or Nomad 5GB at $12 for better coverage
 - Why: Theme parks may have congestion — dual-network helps
 
-**Scenario 3: Business conference (5 days, Las Vegas)**
+### Scenario 3: Business conference (5 days, Las Vegas)
 - Recommendation: Ubigi 10GB at $12
 - Why: Data-heavy usage (conference app, networking, video calls), T-Mobile is fastest in Vegas
 
-**Scenario 4: Cross-country road trip (3 weeks, multiple national parks)**
+### Scenario 4: Cross-country road trip (3 weeks, multiple national parks)
 - Recommendation: Nomad 10GB at $20 + 1GB free trial
 - Why: AT&T + Verizon provide the best national park coverage
 
-**Scenario 5: Digital nomad (2 months, based in Austin, occasional travel)**
+### Scenario 5: Digital nomad (2 months, based in Austin, occasional travel)
 - Recommendation: Ubigi 25GB at $24 + Tello 5GB at $10 for US phone number
 - Why: Ubigi for data (T-Mobile is great in Austin), Tello for SMS/calls
 
-**Scenario 6: Privacy-conscious business traveler (frequent public WiFi)**
+### Scenario 6: Privacy-conscious business traveler (frequent public WiFi)
 - Recommendation: Saily 5GB at $15.99 or 10GB at $26.99
 - Why: Built-in VPN protects data on public networks
 
@@ -768,7 +766,7 @@ Yes, modern smartphones support multiple eSIM profiles. Here are the limits:
 | **Best for long stays** | Google Fi | US number, multi-device, $65/mo unlimited |
 | **Best for flexible coverage** | [**USA eSIM**](/united-states-esim/) | Auto-switches between carriers, live support |
 
-**How to choose based on your specific trip:**
+### How to choose based on your specific trip:
 
 | Trip type | Recommended provider | Price range |
 |:----------|:--------------------|:-----------:|
@@ -784,8 +782,6 @@ Yes, modern smartphones support multiple eSIM profiles. Here are the limits:
 ---
 
 [Roami](/united-states-esim/) combines automatic network switching between carriers and live customer support — useful for travelers who want a single provider that works across different trip types. A [free eSIM trial](/free-esim/) lets you test the setup before committing. Code **WEB20** takes 20% off any plan.
-
-
 
 The USA eSIM provider market offers genuine choice, but the diversity is more nuanced than price alone suggests. The underlying network partnership determines your real-world experience, making coverage research as important as price comparison for any informed purchasing decision.
 
@@ -807,3 +803,12 @@ Taking the time to compare providers before your trip ensures you get reliable c
 </script>
 
 *Last updated July 2026.*
+
+For US mobile market data, visit [FCC](https://www.fcc.gov). See [Wikipedia](https://en.wikipedia.org/wiki/Mobile_network_operator) for carrier information.
+
+For US telecom regulation, visit [FCC](https://www.fcc.gov). The [GSMA](https://www.gsma.com) defines eSIM standards.
+. US carrier data from [FCC](https://www.fcc.gov) and [GSMA](https://www.gsma.com).
+. Visit [Wikipedia](https://en.wikipedia.org/wiki/Mobile_network_operator) for US mobile market data.
+. For USA eSIM coverage, see our [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/). [FCC](https://www.fcc.gov) regulates US telecom.
+. Visit [Wikipedia](https://en.wikipedia.org/wiki/Mobile_network_operator) for US mobile carrier background.
+. For device compatibility, check [Apple Support](https://support.apple.com/en-us/HT212780).

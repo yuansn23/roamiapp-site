@@ -79,7 +79,7 @@ The following table compares prices across all major France eSIM providers and p
 | aloSIM | - | - | $15.00 | $24.00 | - | - | - | Orange |
 | Multi-network eSIM | $3.50 | $8.00 | $13.00 | $20.00 | $35.00 | $60 (50GB) | $25 (7d) / $45 (15d) / $75 (30d) | Multi-network |
 
-**Key takeaways from the pricing table:**
+### Key takeaways from the pricing table:
 
 - Ubigi is the cheapest across nearly every data tier, with 1GB at $3 and 5GB at $10
 - Airalo offers the best value on the Orange network at $12 for 5GB
@@ -94,19 +94,19 @@ For travelers who need 5G high-speed data, all providers listed support 5G on co
 
 Understanding why France eSIM prices vary so widely helps you avoid overpaying for what you actually need.
 
-**Ubigi's aggressive pricing (lowest across most tiers):**
+### Ubigi's aggressive pricing (lowest across most tiers):
 
 Ubigi is the eSIM arm of Transatel, a French MVNO headquartered in Paris. Because Transatel is a French company with existing wholesale agreements with Bouygues Telecom, it can negotiate data rates that third-party resellers cannot match. Ubigi also operates its own eSIM platform without paying marketplace commissions. These structural advantages let Ubigi undercut Airalo, Holafly, and other international players by 20-40% on equivalent plans. Ubigi's 5GB at $10 and 10GB at $17 reflect these cost advantages.
 
-**Airalo's Orange network premium:**
+### Airalo's Orange network premium:
 
 Airalo pays wholesale rates to Orange for access to France's premium network. Orange charges a premium to third-party MVNOs and resellers because its network is the most extensive in France. This wholesale premium is passed to Airalo customers. The $12 for 5GB on Orange from Airalo versus $10 for 5GB on Bouygues from Ubigi reflects the Orange network premium of approximately $2 per 5GB. For travelers who need Orange's wider rural coverage, this $2 premium is a reasonable investment.
 
-**Orange Travel's retail carrier pricing:**
+### Orange Travel's retail carrier pricing:
 
 Orange Travel is not trying to compete with travel eSIMs. It is a retail product from Orange France aimed at travelers who value the Orange brand, want a French phone number, and prefer purchasing at an airport store. Orange Travel's pricing is set against Orange's domestic prepaid products, not against Airalo or Ubigi. The 5GB plan at 25 euro makes sense when compared to Orange's domestic prepaid rates (approximately 15-20 euro for similar data) but looks expensive when compared to wholesale-based travel eSIMs.
 
-**Holafly's unlimited data pricing:**
+### Holafly's unlimited data pricing:
 
 Holafly charges a premium for unlimited data. The $20 for 7 days unlimited is more than double Ubigi's 5GB at $10, but for heavy data users who would consume 10-20GB in a week, Holafly's unlimited pricing is competitive. Holafly's cost structure includes paying Bouygues and SFR for wholesale data, plus the risk that some users will consume 50-100GB. The unlimited pricing factors in this risk, making it more expensive per GB for light users but potentially cheaper per GB for heavy users.
 
@@ -148,7 +148,7 @@ For heavy data users, remote workers, or travelers spending 2+ weeks in France, 
 
 ### Cheapest 50GB+ France eSIM
 
-**Ubigi at $45** for 50GB over 30 days is the cheapest large-data plan. Nomad offers 50GB at $55. Multi-network plans with automatic carrier switching are also available in this range.
+**Ubigi at $45** for 50GB over 30 days is the cheapest large-data plan. Nomad offers 50GB at $55. Multi-network plans with Roami offers automatic carrier switching are also available in this range.
 
 For long stays of 3-4 weeks with heavy data usage, 50GB at $45 from Ubigi delivers the best price per GB at under $0.90 per GB.
 
@@ -166,7 +166,7 @@ For a detailed look at which provider works best for specific trip lengths and d
 
 The listed price of a France eSIM is rarely the complete cost. Understanding potential additional charges prevents surprises.
 
-**Provider-specific fees and limits:**
+### Provider-specific fees and limits:
 
 - **Airalo:** No additional fees. The listed price is final. Some plans require top-up purchases in fixed increments ($5, $10, $25) that may leave unused credits.
 - **Ubigi:** No additional fees. Plans are sold at the listed price. Top-ups are available in the exact amounts needed for specific data packages.
@@ -176,7 +176,7 @@ The listed price of a France eSIM is rarely the complete cost. Understanding pot
 - **Saily:** No additional fees. Plans are sold at the listed price with no hidden charges.
 - Most providers: No additional fees beyond listed price. VAT may apply based on billing address.
 
-**Fine print items to check before purchasing:**
+### Fine print items to check before purchasing:
 
 1. **Validity period clock:** Most eSIMs count validity from the moment of activation, not from the moment of purchase. If you buy a 7-day plan but activate it 3 days before your trip, you lose 3 days of validity.
 2. **Throttling after data cap:** All capped plans (non-unlimited) throttle speeds to 128-256 Kbps after the data allowance is exhausted. This is sufficient for messaging but not for any data-heavy tasks.
@@ -186,7 +186,7 @@ The listed price of a France eSIM is rarely the complete cost. Understanding pot
 6. **Refund policies:** Most eSIM providers do not offer refunds after the eSIM profile has been delivered or activated. Holafly offers a 24-hour money-back guarantee. Other providers handle refunds on a case-by-case basis.
 7. **Network priority:** Travel eSIMs operate with MVNO priority on carrier networks. During congestion, carrier subscribers (including Orange Travel eSIMs) get priority over MVNO traffic. This affects speed during peak hours at tourist attractions.
 
-**Transaction cost considerations:**
+### Transaction cost considerations:
 
 - **Currency conversion:** Providers listed in USD may charge in USD regardless of your card currency. Your bank's foreign transaction fee (typically 1-3%) applies if your card is in a different currency.
 - **Payment method:** Credit cards, PayPal, and Apple Pay are accepted by most providers. Some providers (Ubigi, Nomad) also accept Google Pay.
@@ -199,7 +199,7 @@ For help resolving common eSIM issues that may arise after purchase, see our [Fr
 
 For US travelers, the cost difference between carrier roaming and an eSIM is the single most impactful financial decision for a France trip.
 
-**US carrier international roaming rates (2026):**
+### US carrier international roaming rates (2026):
 
 | US Carrier | Daily Multi-network eSIMng Fee | Data Allowance | Weekly Cost (7 days) | Monthly Cost (30 days) |
 |-----------|------------------|---------------|---------------------|----------------------|
@@ -209,7 +209,7 @@ For US travelers, the cost difference between carrier roaming and an eSIM is the
 | Google Fi | $10/GB | Pay-per-GB, 20c/min calls | Variable | Variable |
 | Mint Mobile | $10/100MB | 100MB/day included, $10/GB add-on | ~$40-70 | ~$100-200 |
 
-**France eSIM equivalent cost:**
+### France eSIM equivalent cost:
 
 | Data Need | eSIM Cost | Carrier Multi-network eSIMng Cost | Savings |
 |-----------|----------|-------------------|---------|
@@ -218,14 +218,16 @@ For US travelers, the cost difference between carrier roaming and an eSIM is the
 | 10GB / 14 days (extended) | $17 (Ubigi) | $140 (AT&T) | 88% |
 | 50GB / 30 days (long stay) | $45 (Ubigi) | $300 (AT&T) | 85% |
 
-**The math on a 7-day trip:**
+### The math on a 7-day trip:
 
 With AT&T Travel Pass at $10/day:
+
 - Total roaming cost: $70
 - Data cap: 5GB high-speed, then throttled
 - No hotspot in many plans
 
 With a France eSIM (Ubigi 5GB at $10 or Airalo 5GB at $12):
+
 - Total eSIM cost: $10-12
 - Data: 5GB at full speed
 - Hotspot: Usually included
@@ -233,7 +235,7 @@ With a France eSIM (Ubigi 5GB at $10 or Airalo 5GB at $12):
 
 Net savings: $58-60 on a single 7-day trip. For a family of four, the savings multiply �?four AT&T lines at $70 each = $280, versus four eSIMs at $10-12 each = $40-48.
 
-**The practical impact:**
+### The practical impact:
 
 US carrier roaming is convenient. Your phone works exactly as it does at home. No eSIM setup, no APN configuration, no dual SIM management. For some travelers, this convenience justifies the cost. But the numbers are stark: a two-week family trip to France with AT&T roaming costs over $500 for a family of four. The same trip with eSIMs costs roughly $80.
 
@@ -255,7 +257,7 @@ For UK travelers, the economics are different because UK carriers have more comp
 
 For UK travelers, an eSIM for France only makes financial sense if your UK plan does not include EU roaming or if you need more data than your plan provides. Many UK postpaid plans include 25-50GB of EU roaming at no extra cost, making eSIMs unnecessary for typical trips.
 
-**When UK travelers should still buy a France eSIM:**
+### When UK travelers should still buy a France eSIM:
 - Your UK plan does not include EU roaming (older prepaid plans or specific business plans)
 - You need more data than your UK plan's EU roaming allowance (e.g., heavy streaming, remote work)
 - You want to keep your UK SIM active for calls and use a separate data eSIM for dual-SIM flexibility
@@ -360,7 +362,7 @@ Price per GB is the most objective metric for comparing eSIM value across provid
 | Orange Travel | 10GB / 21 days | 35 euro ($38) | $3.80 |
 | Orange Travel | 5GB / 14 days | 25 euro ($27) | $5.40 |
 
-**Patterns in price per GB:**
+### Patterns in price per GB:
 
 - Larger plans consistently offer better per-GB pricing. Buying 50GB costs less per GB than buying 1GB.
 - Ubigi leads across nearly every tier, with the 50GB plan at $0.90/GB being the market best
@@ -397,7 +399,7 @@ According to [Ookla's Speedtest Global Index](https://www.speedtest.net/global-i
 
 Charles de Gaulle Airport has multiple stores selling physical SIM cards to arriving tourists. These are almost always more expensive than eSIMs purchased online.
 
-**CDG airport SIM pricing (July 2026):**
+### CDG airport SIM pricing (July 2026):
 
 | Store | Product | Price | Data |
 |-------|---------|-------|------|
@@ -406,7 +408,7 @@ Charles de Gaulle Airport has multiple stores selling physical SIM cards to arri
 | SFR Store CDG | SFR Travel | 35 euro ($38) | 10GB / 14 days |
 | Free Store CDG | Free prepaid | 20 euro ($22) | 10GB / 30 days (requires passport) |
 
-**Compare to online eSIM prices:**
+### Compare to online eSIM prices:
 
 | Product | Price | Data | Savings vs CDG |
 |---------|-------|------|---------------|
@@ -415,18 +417,18 @@ Charles de Gaulle Airport has multiple stores selling physical SIM cards to arri
 | Holafly online eSIM | $20 | Unlimited / 7 days | Saves vs Orange Holiday: $23 |
 | Multi-network eSIM | $13 | 5GB / 7 days | Saves vs Orange Holiday: $30 |
 
-**Why the CDG trap exists:**
+### Why the CDG trap exists:
 
 Physical SIMs at CDG include retail markup, store rent, and staffing costs. Airport retail space at CDG is among the most expensive in France, and these costs are passed to customers. The Orange Holiday physical SIM at CDG costs 40 euro for 14GB, while the same product (Orange network) via an eSIM costs $12-19 online.
 
-**When buying at CDG makes sense:**
+### When buying at CDG makes sense:
 
 - Your phone does not support eSIM and you need a physical SIM
 - You have no internet access before your trip to purchase and install an eSIM
 - You prefer in-person assistance with setup
 - You are on a business expense account and cost is secondary to convenience
 
-**The better approach:**
+### The better approach:
 
 Purchase an eSIM online before your flight. Install the QR code at home on WiFi. When you land at CDG, your eSIM activates automatically as soon as you connect to a French network �?no queueing at the Orange store, no inflated prices, no passport registration.
 
@@ -440,7 +442,7 @@ For a complete guide to avoiding airport SIM pricing, see our [France eSIM troub
 
 Several France eSIM providers offer promo codes, referral discounts, and first-purchase deals.
 
-**Active promo codes and discounts (July 2026):**
+### Active promo codes and discounts (July 2026):
 
 | Provider | Code / Deal | Discount | Notes |
 |----------|------------|----------|-------|
@@ -452,7 +454,7 @@ Several France eSIM providers offer promo codes, referral discounts, and first-p
 | Saily | SAILY10 | 10% off first purchase | |
 | Orange Travel | No standard promo code | - | Orange rarely discounts travel products |
 
-**How to maximize savings:**
+### How to maximize savings:
 
 1. Use **WEB20** at checkout for 20% off — the largest standard discount available
 2. Stack referral credits: Many providers offer $3-5 credit when a friend signs up via your referral link
@@ -460,7 +462,7 @@ Several France eSIM providers offer promo codes, referral discounts, and first-p
 4. Multi-country plans: If visiting multiple European countries, a regional plan may be cheaper than separate France plans
 5. Try a **[free eSIM trial](/free-esim/)** to test network compatibility before purchasing a full plan �?Multi-network eSIM offers this for first-time users
 
-**How the discount works in practice:**
+### How the discount works in practice:
 
 On a 10GB plan at $20, WEB20 saves you $4, bringing the cost to $16. On an unlimited 30-day plan at $75, the same code saves $15, dropping the price to $60.
 
@@ -470,7 +472,7 @@ On a 10GB plan at $20, WEB20 saves you $4, bringing the cost to $16. On an unlim
 
 For travelers who are unsure whether eSIM will work on their device or want to test coverage before committing, free trials are available.
 
-**Free eSIM trial:**
+### Free eSIM trial:
 
 Roami offers a **[free eSIM trial](/free-esim/)** that provides a small data allocation (typically 100MB) to test compatibility and coverage before purchasing a full plan. This trial is useful for:
 
@@ -481,13 +483,13 @@ Roami offers a **[free eSIM trial](/free-esim/)** that provides a small data all
 
 The free trial requires no credit card and activates within minutes.
 
-**Other free or low-cost testing options:**
+### Other free or low-cost testing options:
 
 - **Ubigi:** Occasional free trial offers with 100-200MB for new users
 - **Airalo:** Referral credits provide effective free data on signup
 - **Holafly:** Money-back guarantee within 24 hours of activation
 
-**Why a free trial matters:**
+### Why a free trial matters:
 
 eSIM compatibility varies by phone model, carrier-lock status, and region. A free trial lets you verify that your specific device can install and use a French eSIM before you spend money on a full plan. It also lets you test which network provides the best signal at your accommodation and regular locations.
 
@@ -497,7 +499,7 @@ eSIM compatibility varies by phone model, carrier-lock status, and region. A fre
 
 For travelers staying a month or longer, the calculation changes. Short-term price comparisons are less relevant than total monthly cost and reliability.
 
-**30-day plan comparison:**
+### 30-day plan comparison:
 
 | Provider | Data | Price | Price per GB | Hotspot | French Number |
 |----------|------|-------|-------------|---------|--------------|
@@ -508,7 +510,7 @@ For travelers staying a month or longer, the calculation changes. Short-term pri
 | Orange Travel | 25GB | 50 euro ($54) | $2.16 | Yes | Yes |
 | Airalo | 20GB | $35.00 | $1.75 | Yes | No |
 
-**Winner by use case:**
+### Winner by use case:
 
 - **Best pure value:** Ubigi 50GB at $45. At $0.90/GB, nothing else comes close.
 - **Best with multi-network switching:** Multi-network eSIMs at around $60 for 50GB provide automatic carrier switching across Orange, Bouygues, SFR, and Free.
@@ -523,7 +525,7 @@ For a 30-day stay in France �?whether work trip, study abroad, or extended vac
 
 Business travelers have different priorities than leisure travelers when choosing a France eSIM. Reliability, data speed, and support response time often matter more than absolute lowest price.
 
-**Business-relevant plan comparison:**
+### Business-relevant plan comparison:
 
 | Provider | Recommended Plan | Price | Key Business Features |
 |----------|-----------------|-------|---------------------|
@@ -533,14 +535,14 @@ Business travelers have different priorities than leisure travelers when choosin
 | Orange Travel | 10GB / 21 days | 35 euro ($38) | French number included; Orange network priority; in-person support |
 | Holafly | Unlimited 15 days | $39 | Unlimited data for heavy video conferencing; hotspot cap 500MB/day |
 
-**Why business travelers should not choose purely on price:**
+### Why business travelers should not choose purely on price:
 
 - **Video call reliability:** Orange network eSIMs or multi-network switching provides better video call quality than budget options on Free Mobile
 - **French number:** For client meetings and hotel concierge services, a French number avoids international dialing costs and appears professional
 - **Support response:** Business travelers cannot afford 6-12 hour support wait times. Providers with in-store or multi-channel support are preferable
 - **Data overage protection:** Business travelers who exceed data caps need easy top-up capability
 
-**Expense reporting considerations:**
+### Expense reporting considerations:
 
 France eSIMs are typically expensable as "mobile communications" or "travel connectivity" on corporate expense reports. Providers issue receipts by email with clear pricing breakdowns. For travelers on corporate expense accounts where cost is secondary, Orange Travel at 35 euro for 10GB provides the most professional option with French number and Orange network priority.
 
@@ -550,7 +552,7 @@ France eSIMs are typically expensable as "mobile communications" or "travel conn
 
 Traveling with family or in a group multiplies connectivity costs. Strategic planning reduces the per-person expense.
 
-**Family pricing comparison (4 people, 7-day trip):**
+### Family pricing comparison (4 people, 7-day trip):
 
 | Approach | Provider | Individual Cost | Total for 4 | Notes |
 |----------|----------|---------------|-------------|-------|
@@ -561,22 +563,25 @@ Traveling with family or in a group multiplies connectivity costs. Strategic pla
 | Hotspot from one device | Multi-network eSIM 20GB on 1 phone | $28 | $28 | Cheapest option if group stays together |
 | Mixed approach | Adults: own eSIM; Kids: hotspot | $12 + $12 + hotspot | ~$28 | Practical for families with young children |
 
-**Hotspot sharing strategy:**
+### Hotspot sharing strategy:
 
 If your group stays together for most activities (museum visits, meals, transit), a single eSIM with hotspot tethering covers everyone. One person buys a 20-50GB plan and shares the connection. This works for:
+
 - Families with children who use phones primarily for messaging and games
 - Couples who visit the same locations throughout the day
 - Groups of friends on a shared itinerary
 
 Limitations of hotspot sharing:
+
 - Battery drain on the host phone (bring a power bank)
 - Group members must stay within Bluetooth/WiFi range (approximately 10 meters)
 - Some providers limit hotspot speeds or data (Holafly: 500MB/day cap)
 - Not practical if group members split up during the day
 
-**Per-person budget for groups:**
+### Per-person budget for groups:
 
 Assuming individual eSIMs for each group member:
+
 - **Budget group:** $10-13 per person (Ubigi or Multi-network eSIM)
 - **Standard group:** $12-19 per person (Airalo or Ubigi 10GB)
 - **Premium group:** $27-38 per person (Orange Travel with French number)
@@ -589,7 +594,7 @@ For a family of four on a 7-day trip, total eSIM cost ranges from $40 (budget) t
 
 A two-week France trip is the most common travel duration. Here is a realistic budget breakdown for a 14-day vacation.
 
-**Recommended data allocation for 14 days:**
+### Recommended data allocation for 14 days:
 
 | Activity | Daily Data Use | 14-Day Total |
 |----------|---------------|-------------|
@@ -602,7 +607,7 @@ A two-week France trip is the most common travel duration. Here is a realistic b
 | Music streaming (1 hour/day) | ~100MB | 1.4GB |
 | **Total estimated** | | **7.7GB** |
 
-**Budget options for 14 days:**
+### Budget options for 14 days:
 
 | Strategy | Plan | Cost | Coverage |
 |----------|------|------|----------|
@@ -612,7 +617,7 @@ A two-week France trip is the most common travel duration. Here is a realistic b
 | Multi-city with rural | Multi-network eSIM 10GB $20 | $16-20 | Multi-network, best all-around |
 | French number needed | Orange Travel 10GB 35 euro ($38) | $38 | Orange, best rural coverage |
 
-**Realistic two-week eSIM budget:**
+### Realistic two-week eSIM budget:
 
 - **Light user (4-5GB):** $10-12 (Ubigi 5GB or Airalo 5GB)
 - **Moderate user (8-10GB):** $17-20 (Ubigi 10GB or Airalo 10GB)
@@ -649,18 +654,20 @@ This matrix lets you find the right plan based on your trip specifics. Find your
 
 Different trip budgets require different eSIM strategies. This section maps eSIM options to overall trip budget ranges.
 
-**Budget traveler (under $50/day total trip spend):**
+### Budget traveler (under $50/day total trip spend):
 
 For budget travelers, every dollar saved on connectivity goes toward experiences. The recommended approach is the absolute cheapest plan that meets minimum data needs.
+
 - 3-5 day trip: Ubigi 1GB at $3
 - 7-day trip: Ubigi 5GB at $10
 - 14-day trip: Ubigi 5GB at $10 with careful usage, or Ubigi 10GB at $17
 - Strategy: Use hotel and cafe WiFi for heavy downloads, reserve mobile data for navigation and messaging
 - Monthly connectivity cost: $10-17
 
-**Mid-range traveler ($50-150/day total trip spend):**
+### Mid-range traveler ($50-150/day total trip spend):
 
 Mid-range travelers want reliable connectivity without overpaying. The recommended approach balances price with network quality.
+
 - 3-5 day trip: Airalo 3GB at $7.50
 - 7-day trip: Airalo 5GB at $12 or Multi-network eSIM 5GB at $13 ($10.40)
 - 14-day trip: Airalo 10GB at $19 or Multi-network eSIM 10GB at $20 ($16)
@@ -668,9 +675,10 @@ Mid-range travelers want reliable connectivity without overpaying. The recommend
 - Strategy: Choose Orange-network providers for coverage reliability; use promo codes
 - Monthly connectivity cost: $12-48
 
-**Premium traveler ($150+/day total trip spend):**
+### Premium traveler ($150+/day total trip spend):
 
 Premium travelers prioritize convenience, reliability, and features over price. The recommended approach is the best possible experience regardless of cost.
+
 - 3-5 day trip: Orange Travel 1GB at 10 euro or Multi-network eSIM 5GB at $13
 - 7-day trip: Orange Travel 5GB at 25 euro (with French number) or Multi-network eSIM 10GB at $20
 - 14-day trip: Orange Travel 10GB at 35 euro or Multi-network eSIM 50GB at $60
@@ -678,9 +686,10 @@ Premium travelers prioritize convenience, reliability, and features over price. 
 - Strategy: French number included, carrier priority, multi-network switching
 - Monthly connectivity cost: $27-69
 
-**Family (4 people, $100-300/day total trip spend):**
+### Family (4 people, $100-300/day total trip spend):
 
 Family travelers need to manage connectivity costs across multiple devices without sacrificing reliability.
+
 - 7-day trip: Airalo 5GB x4 at $48 total, or hotspot from Multi-network eSIM 20GB at $28
 - 14-day trip: Airalo 10GB x4 at $76 total, or hotspot from Multi-network eSIM 50GB at $48
 - Strategy: Hotspot from one device if family stays together; individual eSIMs if splitting up
@@ -692,23 +701,24 @@ Family travelers need to manage connectivity costs across multiple devices witho
 
 France eSIM prices are relatively stable throughout the year, but some patterns affect availability and value.
 
-**Summer peak season (June-August):**
+### Summer peak season (June-August):
 
 During France's peak tourist season, demand for eSIMs increases significantly. This does not typically change listed prices, but it can affect service quality:
+
 - Network congestion reduces effective speeds during peak hours at tourist attractions
 - Promo codes and discounts are less common during peak months
 - Support response times may be longer during high-volume periods
 - Top-up delivery may take longer during peak demand
 
-**Shoulder season (April-May, September-October):**
+### Shoulder season (April-May, September-October):
 
 These months offer the best combination of good weather, moderate tourist crowds, and full promotional availability. Providers are more likely to offer promo codes during shoulder months to attract travelers.
 
-**Low season (November-March):**
+### Low season (November-March):
 
 Low season sees fewer travelers and more promotional offers. Some providers run seasonal sales during Black Friday (November), Christmas (December), and winter promotions (January-February). These sales can offer 15-30% off standard pricing.
 
-**Last-minute purchase risk:**
+### Last-minute purchase risk:
 
 Purchasing an eSIM on the day of travel carries a small risk of delayed delivery if your provider's automated systems experience issues. Purchase at least 24 hours before departure to ensure the QR code arrives in time.
 

@@ -209,7 +209,7 @@ The major China eSIM providers for travelers in 2026 are:
 - **Ubigi** — Reliable coverage on China Telecom's network. Good pricing on smaller data tiers.
 - **Saily** — Built on NordVPN infrastructure. Built-in VPN included.
 
-If you want the simplest possible experience as a first-time user, look for a provider that offers **automatic carrier switching** (so you do not need to manually choose a network after landing) and **24/7 live support** (so someone can help if you get stuck). a China eSIM is one example that handles both — the app automatically switches between China Mobile, China Unicom, and China Telecom based on signal strength, and you can reach a live human via in-app chat at any hour.
+If you want the simplest possible experience as a first-time user, look for a provider that offers **automatic carrier switching** (so you do not need to manually choose a network after landing) and **24/7 live support** (so someone can help if you get stuck). a China eSIM is one example that handles both — the app Roami offers automatically switches between China Mobile, China Unicom, and China Telecom based on signal strength, and you can reach a live human via in-app chat at any hour.
 
 Our [China eSIM provider ranking and comparison guide](/blog/china-esim-provider-ranking-comparison/) breaks down every option in detail, including speed tests and real user reviews for each provider.
 
@@ -241,7 +241,7 @@ For a detailed breakdown of what each plan costs and which provider offers the b
 
 After purchase, you will receive a QR code via email or in the provider's app. Some providers also allow you to tap a link directly on your phone, which skips the QR scanning step entirely.
 
-**On iPhone:**
+### On iPhone:
 
 1. Go to **Settings → Cellular** (labeled **Mobile Service** in some regions)
 2. Tap **Add eSIM**
@@ -253,7 +253,7 @@ After purchase, you will receive a QR code via email or in the provider's app. S
 
 **What to do if the QR code does not scan:** Try increasing your screen brightness on the device displaying the code. If you are scanning from a computer monitor, move closer or zoom in. If it still fails, most provider apps offer a "manual entry" option where you can type in the SM-DP+ address and activation code instead of scanning.
 
-**On Samsung Galaxy:**
+### On Samsung Galaxy:
 
 1. Go to **Settings → Connections → SIM card manager**
 2. Tap **Add eSIM**
@@ -262,7 +262,7 @@ After purchase, you will receive a QR code via email or in the provider's app. S
 5. Follow the on-screen prompts to complete installation
 6. Once installed, tap the eSIM and ensure **Mobile data** is toggled ON for this SIM
 
-**On Google Pixel:**
+### On Google Pixel:
 
 1. Go to **Settings → Network & internet → SIMs**
 2. Tap **Add SIM → Download a SIM instead?**
@@ -292,7 +292,7 @@ If you need to set APN manually:
 
 **Samsung:** Settings → Connections → Mobile networks → Access Point Names → tap **+** and enter the APN
 
-**Google Pixel:** Settings → Network & internet → SIMs → your China eSIM → Access Point Names → tap **+**
+### Google Pixel:** Settings → Network & internet → SIMs → your China eSIM → Access Point Names → tap **+
 
 If your provider uses automatic carrier switching, you can skip this step entirely. a China eSIM is one example that handles APN configuration automatically on most devices.
 
@@ -318,7 +318,7 @@ When your plane lands in China:
 4. **Open Google Maps or Safari** to confirm connectivity. Try loading google.com or maps.google.com — if the page loads, your eSIM is working and the firewall is being bypassed
 5. **Check WhatsApp** by sending a quick message to confirm messaging apps work
 
-**What to do immediately if there is no signal:**
+### What to do immediately if there is no signal:
 - Toggle Airplane Mode ON, wait 10 seconds, toggle OFF
 - Restart your phone — this forces a fresh network registration
 - Verify that Data Roaming is enabled for the eSIM line specifically (not just your primary line)
@@ -512,7 +512,7 @@ Here are verified promo codes and discounts for China eSIM plans in 2026.
 
 ## Can You Delete and Reinstall a China eSIM?
 
-**Short answer: Yes, in most cases you can reinstall a China eSIM if you delete it.**
+### Short answer: Yes, in most cases you can reinstall a China eSIM if you delete it.
 
 The process depends on your provider and how they deliver eSIM profiles.
 
@@ -522,7 +522,7 @@ When you delete an eSIM profile from your phone, you are removing the digital ce
 
 ### How to Reinstall
 
-**Method 1: Re-download from the provider's app (easiest)**
+### Method 1: Re-download from the provider's app (easiest)
 
 Most eSIM providers have a mobile app that stores your purchased plans. If you delete the profile:
 
@@ -534,7 +534,7 @@ Most eSIM providers have a mobile app that stores your purchased plans. If you d
 
 This works with a China eSIM, Airalo, Holafly, Nomad, and most app-based providers.
 
-**Method 2: Use the original QR code**
+### Method 2: Use the original QR code
 
 If you saved the original QR code (or if it is in your email), you can scan it again:
 
@@ -544,7 +544,7 @@ If you saved the original QR code (or if it is in your email), you can scan it a
 
 **Important:** Some providers generate a single-use QR code. If you already scanned it, a second scan may not work. In that case, use Method 1 or Method 3.
 
-**Method 3: Contact support for a new QR code**
+### Method 3: Contact support for a new QR code
 
 If neither method works:
 
@@ -660,7 +660,7 @@ For detailed steps, see the "Can You Delete and Reinstall a China eSIM?" section
 
 It depends on the provider.
 
-**Providers that allow top-ups:**
+### Providers that allow top-ups:
 
 - **a China eSIM:** Yes, you can add more data to an existing active plan through the app. Top-ups are available in 1GB, 3GB, 5GB, and 10GB increments. The top-up data inherits the same validity period as your original plan.
 - **Airalo:** Yes, you can top up data on most China plans through the app.
@@ -668,11 +668,11 @@ It depends on the provider.
 - **Ubigi:** Yes, top-ups available through the app or website.
 - **Saily:** Yes, through the app.
 
-**Providers that do NOT allow top-ups:**
+### Providers that do NOT allow top-ups:
 
 - **Holafly:** No. Holafly China plans are fixed — you buy the plan for a set duration and data amount. When it runs out, you must purchase a new plan. This is one of their main limitations.
 
-**How top-ups work:**
+### How top-ups work:
 
 1. Open the provider's app
 2. Go to "My Plans" or "Active eSIMs"
@@ -767,7 +767,7 @@ A physical SIM makes sense if:
 - You want the absolute lowest price (direct carrier SIMs are slightly cheaper)
 - You are on a carrier-locked phone
 
-**Quick comparison:**
+### Quick comparison:
 
 | Factor | eSIM | Physical SIM |
 |---|---|---|
@@ -817,8 +817,9 @@ You now know everything you need to go from "I have never used an eSIM" to "I ha
 7. **Save your QR code** as a screenshot and in the provider's app
 8. **Note your provider's support contact** in case you need help after landing
 
-If you want to compare providers side by side before deciding, read the [China eSIM provider ranking and comparison guide](/blog/china-esim-provider-ranking-comparison/). For detailed installation instructions, including dual SIM configuration and hotspot setup, see the [China eSIM setup guide](/blog/china-esim-setup-installation-dual-sim/). And if anything goes wrong, the [China eSIM troubleshooting guide](/blog/china-esim-troubleshooting-fix-guide/) has solutions for every problem.
-
 The [China eSIM complete guide](/blog/china-esim-complete-guide/) serves as the pillar page for everything else, linking together all the China eSIM content on this site.
 
 Safe travels, and enjoy being connected in China.
+
+
+See [Apple Support](https://support.apple.com/en-us/HT212780) for eSIM-compatible devices. The [GSMA](https://www.gsma.com) defines global eSIM standards.

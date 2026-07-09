@@ -204,7 +204,7 @@ After purchasing a USA eSIM, here is what you receive and what to do next:
 | 4 | Install instructions from provider | In email or app |
 | 5 | eSIM profile ready to install | Immediately |
 
-**Save these before your trip:**
+### Save these before your trip:
 - Screenshot the QR code (save to phone and cloud storage)
 - Copy the SM-DP+ address and activation code to your notes app
 - Save the provider's support contact information
@@ -293,7 +293,7 @@ iOS 18 introduces a few changes to the eSIM installation process:
 | iOS 17 | Settings -> Cellular -> Add eSIM | Same process |
 | iOS 16 | Settings -> Cellular -> Add eSIM | Minor UI differences |
 
-**iPhone installation tips:**
+### iPhone installation tips:
 - If the QR code scan fails, increase screen brightness on the device showing the QR code
 - For iPhone 14 and newer (US models), there is no physical SIM slot — eSIM is the only option
 - iPhone 15 Pro and newer support installing up to 8 eSIM profiles with 2 active at once
@@ -309,7 +309,7 @@ Samsung phones have slightly different eSIM menus depending on the One UI versio
 | One UI 5.x (Android 13) | Settings -> Connections -> SIM Card Manager -> Add eSIM | Similar |
 | One UI 4.x (Android 12) | Settings -> Connections -> SIM Card Manager -> Add eSIM | Works the same |
 
-**Samsung installation tips:**
+### Samsung installation tips:
 - Some Samsung models (S20, Note 20) require a software update to enable eSIM
 - If "Add eSIM" is greyed out, your Samsung may not support eSIM in your region
 - Samsung phones show eSIM status in Settings -> About Phone -> Status -> SIM Card Status
@@ -367,7 +367,7 @@ Understanding when your plan clock starts ticking is important:
 
 This is the part most people get wrong. The eSIM handles data — your home SIM handles calls and SMS. Here's how to set that up.
 
-**On iPhone:**
+### On iPhone:
 - Go to **Settings -> Cellular**
 - Under **Default Voice Line**, select your home SIM
 - Under **Cellular Data**, select the USA eSIM
@@ -378,13 +378,13 @@ This is the part most people get wrong. The eSIM handles data — your home SIM 
 
 **Do I need to turn on data roaming for USA eSIM?** Yes — this is the single most important setting. Travel eSIMs require data roaming to function. Without it, your phone won't route data through the eSIM. The setting is safe to enable because you're using a local data plan, not your home carrier's international roaming.
 
-**On Android (Samsung):**
+### On Android (Samsung):
 - Go to **Settings -> Connections -> SIM Card Manager**
 - Set **Mobile Data** to the USA eSIM
 - Set **Calls** and **SMS** to your home SIM
 - Enable **Data Roaming** on the USA eSIM only
 
-**On Android (Google Pixel):**
+### On Android (Google Pixel):
 - Go to **Settings -> Network & Internet -> SIMs**
 - Tap the USA eSIM and enable **Data Roaming**
 - Make sure mobile data is set to the eSIM line
@@ -403,7 +403,7 @@ Different travel scenarios require different dual SIM configurations:
 | Family group sharing hotspot | USA eSIM (main phone) | Home SIM | Home SIM | Home number |
 | Remote worker with laptop tethering | USA eSIM | Home SIM | Home SIM | Home number + email |
 
-**Business traveler dual SIM setup (two eSIMs):**
+### Business traveler dual SIM setup (two eSIMs):
 If you are using two eSIMs (for example, Ubigi for data and Tello for a US number), here is how to configure them:
 
 1. Primary data: Set the USA eSIM as the data line
@@ -547,7 +547,7 @@ If you run out of data during your trip, **how to top up USA eSIM data** depends
 | **Tello** | App -> Manage Plan -> Add Data | 1GB | Yes |
 | **USA eSIM** | App -> Add Data | 1GB | Yes |
 
-**Step-by-step top-up process (most providers):**
+### Step-by-step top-up process (most providers):
 1. Open the provider's app
 2. Go to "My Plans" or "My eSIMs"
 3. Select your active plan
@@ -590,7 +590,7 @@ Keep track of your data usage to avoid running out unexpectedly:
 
 ## Can I reinstall my USA eSIM if I delete it?
 
-**Can I reinstall my USA eSIM if I delete it?** The short answer is: **No, you cannot reinstall a deleted USA eSIM profile.**
+### Can I reinstall my USA eSIM if I delete it?** The short answer is: **No, you cannot reinstall a deleted USA eSIM profile.
 
 Once you delete an eSIM profile from your phone, the QR code is single-use and cannot be scanned again. The same QR code won't work a second time. Here's what to do:
 
@@ -618,13 +618,13 @@ If you have multiple eSIM profiles installed, label them clearly to avoid confus
 | "Tello US Number" | Secondary voice | US phone number |
 | "Nomad Backup" | Backup data | Rural coverage fallback |
 
-**Managing multiple profiles on iPhone:**
+### Managing multiple profiles on iPhone:
 - Settings -> Cellular -> [profile name] -> Turn On/Off this line
 - You can store 8+ eSIM profiles but only have 2 active at a time
 - Label each profile clearly when you install it
 - Turn off profiles you are not using to avoid accidental data charges
 
-**Managing multiple profiles on Android (Samsung):**
+### Managing multiple profiles on Android (Samsung):
 - Settings -> Connections -> SIM Card Manager
 - Toggle eSIM lines on and off as needed
 - Samsung supports 5+ stored eSIM profiles with 2 active
@@ -651,7 +651,7 @@ For more detailed troubleshooting, [Reddit's r/eSIM community](https://www.reddi
 
 If your eSIM is installed and data roaming is on but you still have no signal, try manually selecting a network:
 
-**On iPhone:**
+### On iPhone:
 1. Go to Settings -> Cellular -> [USA eSIM] -> Network Selection
 2. Turn OFF "Automatic"
 3. Wait for the list of available networks to appear
@@ -659,7 +659,7 @@ If your eSIM is installed and data roaming is on but you still have no signal, t
 5. If the selected network shows "No Service," try a different one
 6. Once connected, you can turn Automatic back on
 
-**On Android (Samsung):**
+### On Android (Samsung):
 1. Go to Settings -> Connections -> Mobile Networks -> Network Operators
 2. Tap "Search Networks"
 3. Select a network from the list (T-Mobile, AT&T, or Verizon)
@@ -781,3 +781,5 @@ A [usa esim](/usa-esim/) with automatic carrier switching helps you stay connect
 </script>
 
 *Prices change — verify current rates on each provider's official website before purchasing. Last updated July 2026.*
+
+For a complete USA eSIM overview, see our [USA eSIM complete guide](/blog/usa-esim-complete-guide/).

@@ -98,23 +98,23 @@ According to [Orange's official Travel eSIM page](https://travel.orange.com/), t
 
 Orange Travel offers four plan tiers, each designed for different trip durations and data needs. Understanding the specifics of each helps determine whether any of them match your requirements.
 
-**Orange Travel 1GB — 7 Days at 10 euro ($11):**
+### Orange Travel 1GB — 7 Days at 10 euro ($11):
 
 This is Orange Travel's entry-level plan. The 1GB data allowance is suitable for light usage including email, messaging apps, and occasional map lookups. At 10 euro for 1GB, the price per GB is 10 euro — the highest of any Orange Travel plan and approximately 3x the cost of Airalo's 1GB plan at $4.50. This plan makes sense only if the French phone number is essential for a very short trip. For pure data needs on a weekend break, Airalo or Ubigi offer significantly better value.
 
-**Orange Travel 5GB — 14 Days at 25 euro ($27):**
+### Orange Travel 5GB — 14 Days at 25 euro ($27):
 
 This is Orange Travel's most popular plan and the one most frequently purchased at CDG airport stores. The 5GB over 14 days provides enough data for maps, messaging, social media, and light photo sharing during a week-long trip. At 5 euro per GB, it is moderately priced by retail carrier standards but expensive compared to travel eSIMs at $2-2.40 per GB. The 14-day validity is well-suited for a 7-10 day trip where the French number is needed for the entire stay.
 
-**Orange Travel 10GB — 21 Days at 35 euro ($38):**
+### Orange Travel 10GB — 21 Days at 35 euro ($38):
 
 The 10GB plan extends validity to three weeks, making it appropriate for two-week trips with moderate data usage. At 3.50 euro per GB, the per-unit cost improves significantly compared to the 5GB plan. This plan works well for travelers spending 10-14 days in France who need a French number throughout and anticipate using data for video calls, streaming, or hotspot tethering alongside regular messaging and navigation.
 
-**Orange Travel 25GB — 30 Days at 50 euro ($54):**
+### Orange Travel 25GB — 30 Days at 50 euro ($54):
 
 The flagship Orange Travel plan offers 25GB over 30 days. At 2 euro per GB, this is Orange Travel's best value on a per-data basis, though still more expensive than Ubigi's 25GB at $35 ($1.40/GB). The 30-day validity makes this appropriate for long-stay travelers, business trips, and anyone spending a month in France. The 25GB data cap covers video calls, streaming, remote work, and all standard travel data needs without requiring data management.
 
-**Plan selection summary:**
+### Plan selection summary:
 
 | Trip Duration | Recommended Orange Plan | Better Alternative |
 |--------------|----------------------|-------------------|
@@ -132,7 +132,7 @@ The French phone number is included in all plans. If the number is not needed, t
 
 Airalo is the largest travel eSIM marketplace globally, with over 10 million users and plans in 190+ countries. In France, Airalo offers multiple plans that connect to the Orange network.
 
-**Price comparison: Orange Travel vs Airalo**
+### Price comparison: Orange Travel vs Airalo
 
 | Data | Orange Travel | Airalo (Orange network) | Savings with Airalo |
 |------|--------------|----------------------|-------------------|
@@ -143,7 +143,7 @@ Airalo is the largest travel eSIM marketplace globally, with over 10 million use
 
 Airalo's plans are consistently 50-60% cheaper than Orange Travel for equivalent data amounts. Both connect to the Orange network. The quality of the data connection is effectively identical because Airalo uses Orange as its network partner for France.
 
-**Differences beyond price:**
+### Differences beyond price:
 
 - **French number:** Airalo does not provide a French phone number. Orange Travel does.
 - **Validity flexibility:** Airalo offers 7-day, 15-day, and 30-day plans. Orange Travel offers 7-day, 14-day, 21-day, and 30-day plans.
@@ -163,7 +163,7 @@ Airalo's France eSIM packages are detailed on [Airalo's France page](https://www
 
 Holafly is known for unlimited data plans. Its France eSIM offers unlimited data on Bouygues and SFR networks, not Orange. This is a meaningful difference.
 
-**Price comparison: Orange Travel vs Holafly**
+### Price comparison: Orange Travel vs Holafly
 
 | Plan | Orange Travel | Holafly | Key Difference |
 |------|--------------|--------|---------------|
@@ -171,7 +171,7 @@ Holafly is known for unlimited data plans. Its France eSIM offers unlimited data
 | 15 days | 35 euro (10GB) | $39 (unlimited) | Holafly costs more but offers unlimited |
 | 30 days | 50 euro (25GB) | $69 (unlimited) | Orange: 25GB cap vs Holafly: unlimited |
 
-**Network differences:**
+### Network differences:
 
 Holafly connects to Bouygues and SFR, while Orange Travel connects to Orange. Orange has the widest 4G/5G coverage in France at approximately 95% population coverage. Bouygues covers roughly 90%, and SFR about 88%. In practice, this means:
 
@@ -180,7 +180,7 @@ Holafly connects to Bouygues and SFR, while Orange Travel connects to Orange. Or
 - In rural areas like Provence and Normandy: Orange's wider coverage gives it an advantage
 - In indoor locations like metro stations and shopping centers: Orange typically maintains stronger signal
 
-**The unlimited data question:**
+### The unlimited data question:
 
 Holafly's unlimited data is attractive on paper, but there are limitations. Holafly imposes a daily hotspot cap of 500MB, which limits tethering to about 15GB per month. After that, hotspot speeds drop significantly. For users who only use data on their phone, the unlimited claim holds up.
 
@@ -200,7 +200,7 @@ For travelers who consume large amounts of video or social media and do not need
 
 Ubigi is the eSIM arm of Transatel, a French MVNO that operates on Bouygues Telecom's network. Based in France, Ubigi has strong local support and offers competitive pricing.
 
-**Price comparison: Orange Travel vs Ubigi**
+### Price comparison: Orange Travel vs Ubigi
 
 | Data | Orange Travel | Ubigi (Bouygues) | Savings with Ubigi |
 |------|--------------|-----------------|-------------------|
@@ -212,7 +212,7 @@ Ubigi is the eSIM arm of Transatel, a French MVNO that operates on Bouygues Tele
 
 Ubigi is consistently 35-63% cheaper than Orange Travel for equivalent data amounts.
 
-**Network differences:**
+### Network differences:
 
 Ubigi uses Bouygues Telecom, which is France's third-largest carrier. Bouygues covers approximately 90% of the population with 4G and has been rapidly expanding its 5G network. Key differences from Orange:
 
@@ -237,23 +237,26 @@ For most travelers, Ubigi on Bouygues offers better value than Orange Travel for
 
 Beyond Airalo, Holafly, and Ubigi, several other eSIM providers offer France plans worth considering against Orange Travel.
 
-**Nomad vs Orange Travel:**
+### Nomad vs Orange Travel:
 
 Nomad offers France eSIMs on the Orange and Free networks. Its 5GB plan costs $12.50, and its 10GB plan costs $18. Both are approximately 50% cheaper than Orange Travel's equivalent plans. Nomad does not provide a French phone number. Nomad's advantage over Airalo is its referral program and occasional promo codes that can reduce prices by 5-15%. The network quality is identical to Orange Travel when Nomad connects to Orange (which it does by default for France plans). Nomad supports 5G on compatible devices and offers 30-day validity on most plans.
 
-**Saily vs Orange Travel:**
+### Saily vs Orange Travel:
 
 Saily is the eSIM product from NordVPN, launched in 2024. Its France eSIM runs on the Orange network. Pricing starts at $5 for 1GB and goes up to $14 for 5GB. Saily's plans are data-only with no French number. Saily's differentiating feature is its integration with NordVPN's privacy infrastructure, which may appeal to privacy-conscious travelers. However, Saily's plan options are more limited than Airalo or Ubigi, with fewer data tiers available. At $14 for 5GB, Saily costs more than Airalo ($12) or Ubigi ($10) for the same data on similar networks.
 
-**aloSIM vs Orange Travel:**
+### aloSIM vs Orange Travel:
 
 aloSIM offers France eSIMs on the Orange network with the unique feature of an included US phone number for calls and SMS. This is not a French number but does provide voice capability. aloSIM's France plans start at $15 for 5GB and $24 for 10GB. aloSIM stands out for its data pooling feature, which lets users share a single data allowance across multiple devices. For travelers with an iPad, hotspot-only device, or second phone, this can be more convenient than buying separate eSIMs for each device. The included US number handles incoming calls, but outgoing calls require the aloSIM app.
 
-**Summary table: Orange Travel vs all alternatives**
+### Summary table: Orange Travel vs all alternatives
 
 | Provider | 5GB Price | Network | French Number | Multi-Device | 5G |
 |----------|----------|---------|--------------|-------------|-----|
-| Orange Travel | 25 euro ($27) | Orange | Yes | No | Yes |
+| Orange Travel | 25 euro ($
+
+For more information, see our [France eSIM complete guide](/blog/france-esim-complete-guide/).
+27) | Orange | Yes | No | Yes |
 | Airalo | $12.00 | Orange | No | No | Yes |
 | Holafly | $20 (unlimited 7d) | Bouygues/SFR | No | No | Yes |
 | Ubigi | $10.00 | Bouygues | No | No | Yes |
@@ -269,22 +272,23 @@ Orange Travel is the only provider that includes a French phone number. For all 
 
 Online travel communities provide real-world feedback on Orange Travel that complements the spec-sheet comparison.
 
-**Reddit (r/eSIMs, r/ParisTravelGuide, r/travel):**
+### Reddit (r/eSIMs, r/ParisTravelGuide, r/travel):
 
 The Reddit consensus on Orange Travel is consistent: it works well but is overpriced for most users. The French phone number is frequently mentioned as the only compelling reason to choose it over cheaper alternatives. Several threads on r/ParisTravelGuide discuss travelers who bought Orange Travel at CDG airport and later discovered they could have paid half the price for the same Orange network speeds via Airalo.
 
 Common Reddit observations:
+
 - Orange Travel's 25 euro 5GB plan is recommended for travelers who need SNCF Connect app functionality
 - Several users report that Orange Travel's customer support at CDG stores resolved activation issues quickly
 - Multiple threads recommend buying Airalo or Ubigi before departure instead of Orange Travel
 - A recurring theme: travelers who bought Orange Travel at CDG without knowing about travel eSIMs, then expressing regret at the price difference
 - Positive feedback on Orange Travel's network reliability, with multiple users noting it worked consistently across rural France
 
-**TripAdvisor forums:**
+### TripAdvisor forums:
 
 TripAdvisor's France travel forum has similar sentiment. Orange Travel is mentioned primarily in the context of the CDG airport SIM purchase. Regular contributors to the forum consistently recommend buying an eSIM online before departure rather than visiting the Orange store at CDG. The in-person support at Orange stores is appreciated by less tech-savvy travelers.
 
-**Travel blogs:**
+### Travel blogs:
 
 Professional travel bloggers who review eSIMs tend to rank Orange Travel lower than Airalo, Ubigi, and Holafly on value, but higher on reliability and support. The consensus in blog reviews is that Orange Travel is a premium product for a specific use case (French number + maximum reliability) and not a general recommendation for all travelers.
 
@@ -294,7 +298,7 @@ Professional travel bloggers who review eSIMs tend to rank Orange Travel lower t
 
 The primary advantage of Orange Travel over all travel eSIMs is the included French phone number. This is not a minor feature for certain scenarios.
 
-**Services that require or strongly prefer a French phone number:**
+### Services that require or strongly prefer a French phone number:
 
 **SNCF (French Railways):** Booking TGV and Intercité tickets through the SNCF Connect app often requires a phone number for ticket delivery and alerts. While some international numbers work, a French number provides the most reliable experience. E-ticket delivery via SMS to an international number sometimes fails.
 
@@ -306,7 +310,7 @@ The primary advantage of Orange Travel over all travel eSIMs is the included Fre
 
 **Banking and verification:** If you need to open a French bank account, register for a SIM-only plan, or verify identity with French services, a French phone number is mandatory.
 
-**Alternatives to Orange Travel for a French number:**
+### Alternatives to Orange Travel for a French number:
 
 - **Free Mobile prepaid SIM:** Available at Free stores in Paris and other cities. Costs approximately 10-20 euro for a starter pack with data. Requires in-person purchase with passport.
 - **SFR prepaid:** Available at SFR stores. Similar pricing to Free but less accessible for tourists.
@@ -321,9 +325,10 @@ For a detailed comparison of options with and without a French number, see our [
 
 The price difference between Orange Travel and travel eSIMs like Airalo, Holafly, and Ubigi is not arbitrary. It reflects structural differences in how these products are built and priced.
 
-**Orange Travel's cost structure:**
+### Orange Travel's cost structure:
 
 Orange Travel is a retail product from a Tier 1 mobile network operator. It includes:
+
 - Full MVNO infrastructure (HLR, billing, number allocation)
 - French number management (number porting, regulatory compliance)
 - Tier 1 customer support (phone, in-store, online)
@@ -332,9 +337,10 @@ Orange Travel is a retail product from a Tier 1 mobile network operator. It incl
 
 These costs are spread across a relatively small customer base of travelers, not Orange's 30 million domestic subscribers. The result is higher per-GB pricing.
 
-**Travel eSIM cost structure:**
+### Travel eSIM cost structure:
 
 Airalo, Holafly, and Ubigi operate as eSIM aggregators or MVNOs with different cost structures:
+
 - No physical retail presence
 - No French number infrastructure (in most cases)
 - Automated digital support (chatbots, email, knowledge bases)
@@ -343,7 +349,7 @@ Airalo, Holafly, and Ubigi operate as eSIM aggregators or MVNOs with different c
 
 Travel eSIMs effectively arbitrage the wholesale data market. They buy data in bulk from carriers at low rates and resell it with a markup that is still below carrier retail pricing.
 
-**Value analysis:**
+### Value analysis:
 
 | Need | Orange Travel | Travel eSIM | Which Wins |
 |------|--------------|-------------|------------|
@@ -363,23 +369,23 @@ For most tourists visiting France for 7-14 days and staying in cities, travel eS
 
 Orange Travel is not the right choice for the majority of France visitors. Here are five specific scenarios where choosing a travel eSIM is objectively better.
 
-**Scenario 1: Paris-only city break of 3-5 days.**
+### Scenario 1: Paris-only city break of 3-5 days.
 
 Paris has excellent coverage on all four networks. There is no coverage advantage to Orange in central Paris. Data needs for a short city break are typically 2-3GB. Airalo's 3GB at $7.50 or Ubigi's 1GB at $3 (with a top-up if needed) cost a fraction of Orange Travel's 1GB at 10 euro. No French number is needed for a short Paris trip. Restaurant bookings, museum tickets, and Uber rides all work with an international number. The saving of $7-20 on a short trip may seem small, but it represents a 60-75% reduction in connectivity cost.
 
-**Scenario 2: Budget backpacking across multiple cities.**
+### Scenario 2: Budget backpacking across multiple cities.
 
 For budget travelers visiting several French cities, every euro counts. Orange Travel's cheapest plan at 10 euro for 1GB is poor value for backpackers who need to stretch their budget. Ubigi's 5GB at $10 provides 5x the data at the same price. Free Mobile network eSIMs (available through some budget providers) cost even less, with adequate coverage in cities and along main transport routes. The French number is not a priority for most backpackers, who rely on WhatsApp and messaging apps for communication.
 
-**Scenario 3: Multi-country European itinerary.**
+### Scenario 3: Multi-country European itinerary.
 
 Orange Travel only covers France. If your trip includes France plus Italy, Spain, Switzerland, or the UK, you need either a separate eSIM for each country or a Europe regional plan. Airalo's Europe regional plan covers 39 countries at $25 for 10GB. Orange Holiday covers France plus 30 European countries at 40 euro for 14GB. Orange Travel itself does not work outside France. Buying Orange Travel for the France portion plus separate eSIMs for other countries costs more than a single Europe regional plan.
 
-**Scenario 4: Heavy data user who needs unlimited data.**
+### Scenario 4: Heavy data user who needs unlimited data.
 
 Orange Travel's largest plan offers 25GB. For heavy data users who stream video, make frequent video calls, or use hotspot extensively, 25GB may not be enough for a month-long stay. Orange Travel does not offer an unlimited data plan. Holafly's unlimited 7-day plan at $20 provides unlimited data at a lower price than Orange Travel's 5GB plan at 25 euro. For heavy data needs, Holafly or Multi-network eSIM (which offers unlimited plans with multi-network switching) are better choices.
 
-**Scenario 5: Travelers with eSIM-compatible phones who want maximum simplicity.**
+### Scenario 5: Travelers with eSIM-compatible phones who want maximum simplicity.
 
 Installing an eSIM before departure takes approximately 5 minutes. Orange Travel's CDG store queue adds 15-45 minutes to your airport arrival experience for the same result. For travelers who value their time, purchasing an Airalo or Ubigi eSIM online and installing it at home on WiFi is simpler and faster than visiting an Orange store after a long flight. The travel eSIM activates automatically upon arrival without any airport interaction.
 
@@ -389,7 +395,7 @@ Installing an eSIM before departure takes approximately 5 minutes. Orange Travel
 
 Orange France sells three different products that travelers often confuse. Understanding the difference prevents buying the wrong one.
 
-**Orange Travel eSIM (the product reviewed here):**
+### Orange Travel eSIM (the product reviewed here):
 - Digital eSIM only (no physical SIM)
 - French phone number included
 - Fixed validity: 7, 14, 21, or 30 days
@@ -398,7 +404,7 @@ Orange France sells three different products that travelers often confuse. Under
 - No long-term commitment
 - Cannot be recharged after expiry
 
-**Orange Holiday eSIM:**
+### Orange Holiday eSIM:
 - eSIM or physical SIM available
 - European coverage (France + 30+ European countries)
 - French phone number included
@@ -407,7 +413,7 @@ Orange France sells three different products that travelers often confuse. Under
 - Designed for multi-country European trips
 - Cannot be recharged after expiry
 
-**Orange Prepaid (carte prepayee):**
+### Orange Prepaid (carte prepayee):
 - Physical SIM card (not eSIM)
 - French phone number included
 - No expiry as long as you top up periodically
@@ -417,7 +423,7 @@ Orange France sells three different products that travelers often confuse. Under
 - Requires passport registration (mandatory in France for prepaid SIMs)
 - Best for long-term stays (3+ months)
 
-**Which one should you buy?**
+### Which one should you buy?
 
 | Trip Type | Recommended Product | Why |
 |-----------|-------------------|-----|
@@ -436,23 +442,23 @@ The Orange website provides full details on [Orange Holiday Europe](https://trav
 
 France is one of a small number of countries where the national carrier offers a dedicated travel eSIM product. Comparing Orange Travel to similar carrier eSIMs in other countries provides useful context.
 
-**Orange Travel (France) vs Deutsche Telekom Magenta (Germany):**
+### Orange Travel (France) vs Deutsche Telekom Magenta (Germany):
 
 Deutsche Telekom offers Magenta Prepaid with eSIM support in Germany. The pricing is approximately 10 euro for 5GB over 28 days, which is significantly cheaper than Orange Travel's equivalent. Telekom's network covers approximately 97% of Germany, similar to Orange's coverage advantage in France. The key difference is that Telekom's prepaid eSIM offers better value and longer validity than Orange Travel, but requires passport registration for purchase.
 
-**Orange Travel vs Vodafone Travel (Spain, Italy, UK):**
+### Orange Travel vs Vodafone Travel (Spain, Italy, UK):
 
 Vodafone offers travel eSIMs in multiple European countries through its Vodafone Travel product. Pricing varies by country but generally falls in the 15-25 euro range for 5-10GB with a local number. Vodafone's travel eSIMs are similarly priced to Orange Travel and similarly less competitive than third-party travel eSIMs on the same networks. This suggests a consistent pricing strategy across Vodafone's European markets rather than France-specific pricing.
 
-**Orange Travel vs T-Mobile (USA):**
+### Orange Travel vs T-Mobile (USA):
 
 T-Mobile USA does not offer a travel eSIM for inbound visitors. T-Mobile's network passes and international day passes are for US subscribers traveling abroad, not for visitors to the US. Visitors to the US rely primarily on third-party travel eSIMs like Airalo or local prepaid carriers. This makes France's Orange Travel product relatively unusual — most major US carriers do not sell dedicated travel eSIMs for inbound visitors.
 
-**Orange Travel vs Singtel (Singapore), Telstra (Australia), NTT Docomo (Japan):**
+### Orange Travel vs Singtel (Singapore), Telstra (Australia), NTT Docomo (Japan):
 
 Asian and Australian carriers that offer prepaid eSIMs for visitors tend to price them closer to local prepaid rates than Orange Travel does. Singtel's prepaid eSIM in Singapore costs approximately SGD 12 ($9) for 5GB over 7 days with a local number. NTT Docomo's Japan prepaid eSIM costs approximately JPY 3,000 ($20) for 5GB over 7 days. These products occupy a middle ground between Orange Travel's high pricing and travel eSIM low pricing.
 
-**The global pattern:**
+### The global pattern:
 
 Carrier-branded travel eSIMs in most countries cost 2-3x more than third-party travel eSIMs that use the same network. Orange Travel France follows this pattern. The carrier product offers the advantage of a local number and premium support, while the third-party product offers better pricing by leveraging wholesale data rates and digital-only distribution. This pattern holds across Europe, Asia, and North America, making Orange Travel consistent with global telecom pricing strategies rather than an outlier.
 
@@ -462,7 +468,7 @@ Carrier-branded travel eSIMs in most countries cost 2-3x more than third-party t
 
 Orange operates the largest 4G/5G network in France. Understanding where this matters — and where it does not — helps decide whether the Orange Travel premium is worth paying.
 
-**Orange coverage statistics (2026):**
+### Orange coverage statistics (2026):
 
 - 4G population coverage: approximately 95%
 - 5G population coverage: approximately 90% across major cities
@@ -471,14 +477,14 @@ Orange operates the largest 4G/5G network in France. Understanding where this ma
 - TGV route coverage: 95%+ of high-speed rail routes
 - Metro underground: Lines 1, 4, and 14 in Paris (partial)
 
-**Where Orange clearly outperforms Bouygues, SFR, and Free:**
+### Where Orange clearly outperforms Bouygues, SFR, and Free:
 
 - **Deep rural areas:** Provence countryside, Normandy villages, Loire Valley chateaux — Orange has approximately 5-10% wider coverage than its nearest competitor
 - **Mountain regions:** The French Alps, Pyrenees — Orange maintains signal in more valleys and passes
 - **Indoor penetration:** Orange's low-band spectrum (800MHz) provides better building penetration than Bouygues or SFR
 - **Event congestion:** At major tourist attractions (Eiffel Tower, Louvre, Disneyland), Orange deprioritizes travel eSIMs less aggressively than Free or Bouygues
 
-**Where coverage differences are negligible:**
+### Where coverage differences are negligible:
 
 - **Central Paris:** All four networks have excellent 5G coverage across all arrondissements
 - **Lyon, Marseille, Bordeaux, Toulouse:** Full 5G coverage on all networks
@@ -496,27 +502,30 @@ For travelers sticking to cities and major transit routes, the coverage advantag
 
 Orange Travel offers two purchase methods: online with email delivery or in-person at Orange stores. Travel eSIMs like Airalo, Holafly, and Ubigi are primarily online purchases.
 
-**CDG Airport Orange Store:**
+### CDG Airport Orange Store:
 
 Orange has stores in Terminals 1, 2E, and 2F at Charles de Gaulle Airport. They sell Orange Travel eSIMs and Orange Holiday physical SIMs. The stores are open daily from approximately 7:00 AM to 9:00 PM.
 
 Pros of buying at CDG:
+
 - Immediate setup with in-person assistance
 - Staff can install and test the eSIM on your phone
 - No need to purchase before your trip
 - Can pay by credit card in person
 
 Cons:
+
 - Queue times of 15-45 minutes during peak arrival hours (10 AM - 2 PM, 6 PM - 9 PM)
 - Prices are identical to online (no airport premium, unlike many roaming plans)
 - Limited plan options compared to online (CDG stores stock the most popular plans)
 - If your flight arrives late (after 9 PM), the store will be closed
 
-**Online Purchase Before Travel:**
+### Online Purchase Before Travel:
 
 All eSIM products discussed in this guide can be purchased online and delivered by email within minutes.
 
 Pros of buying online:
+
 - Purchase anytime, including before your trip
 - QR code delivered to email within 5 minutes
 - Install at home on WiFi, not at the airport on cellular
@@ -525,6 +534,7 @@ Pros of buying online:
 - Can compare prices across providers
 
 Cons:
+
 - No in-person assistance if installation fails
 - Some travelers find eSIM setup confusing without guidance
 
@@ -538,14 +548,14 @@ For step-by-step installation instructions for both iPhone and Android, see our 
 
 Customer support is an often-overlooked factor in choosing between Orange Travel and travel eSIMs.
 
-**Orange Travel support:**
+### Orange Travel support:
 
 - **Physical stores:** 13 Orange stores at CDG, Orly, and major train stations across France
 - **Phone support:** Orange customer service in English, available Monday-Saturday
 - **In-app chat:** Through the Orange Travel app
 - **Response time:** In-store support is immediate; phone support typically answers within 5-15 minutes
 
-**Travel eSIM support (Airalo, Holafly, Ubigi):**
+### Travel eSIM support (Airalo, Holafly, Ubigi):
 
 - **Airalo:** 24/7 email and chat support via the app. Response time typically 2-12 hours depending on issue complexity.
 - **Holafly:** 24/7 WhatsApp and email support. Response time typically 1-6 hours.
@@ -561,35 +571,35 @@ That said, the majority of eSIM issues are solvable without support. Manual netw
 
 It is useful to evaluate Orange Travel based on trip specifics rather than abstract comparison.
 
-**Short city break (3-4 days, Paris only):**
+### Short city break (3-4 days, Paris only):
 
 Orange Travel is not cost-effective here. A Paris-only trip with light data needs (Google Maps, WhatsApp, restaurant lookups) requires 2-3GB max. Airalo's 3GB plan at $7.50 does the job for a fraction of Orange Travel's 25 euro for 5GB. French number is not needed for a short Paris trip — most restaurants accept walk-ins or can be booked via The Fork using an international number.
 
-**Week-long trip (7 days, Paris + one other city):**
+### Week-long trip (7 days, Paris + one other city):
 
 This is where Orange Travel becomes more competitive. If you plan to take the TGV between cities, having a French number makes SNCF Connect ticketing smoother. The 25 euro Orange Travel plan covers 5GB over 14 days, which is sufficient for maps, messaging, social media, and occasional video calls. Still, Airalo's 5GB at $12 on the same Orange network offers better value if you do not need the number.
 
-**Two-week trip (14 days, multiple destinations):**
+### Two-week trip (14 days, multiple destinations):
 
 For trips covering Paris, Provence, and the Riviera, Orange Travel's coverage advantage in rural areas matters more. The 10GB Orange plan at 35 euro provides three weeks of validity and Orange's best rural coverage. However, Ubigi's 10GB on Bouygues at $17 covers 30 days and performs well in most areas outside deep rural zones. For travelers visiting villages in Provence or staying in countryside accommodations, Orange Travel's network edge justifies part of the premium.
 
-**Business trip with client meetings:**
+### Business trip with client meetings:
 
 Orange Travel is the best choice for business travelers. The French phone number lets clients and hotels reach you on a local number without international dialing. The Orange network's reliability in business districts (La Defense, Part-Dieu) and meeting venues matters for video calls and presentations. The 25GB plan at 50 euro for 30 days is appropriate for business data usage.
 
-**Multi-country Europe trip:**
+### Multi-country Europe trip:
 
 Orange Travel does not work for multi-country trips. It only covers France. If your itinerary includes France plus Italy, Spain, or the UK, choose Airalo's Europe regional plan or Orange Holiday. Airalo's Europe plan covers 39 countries at roughly $25 for 10GB.
 
-**Family trip with children:**
+### Family trip with children:
 
 For families, the cost of buying Orange Travel eSIMs for each family member adds up quickly. A family of four on a 7-day trip would pay 100 euro ($108) for four Orange Travel 5GB plans. By comparison, four Airalo 5GB plans cost $48. The $60 savings from choosing travel eSIMs covers several meals or museum admissions. Additionally, family members can share a hotspot from a single travel eSIM if they stay together, reducing the number of plans needed. However, if the family needs French numbers for Navigo passes or other registrations, Orange Travel's per-person pricing becomes a necessary expense.
 
-**Digital nomad or remote worker staying 2-4 weeks:**
+### Digital nomad or remote worker staying 2-4 weeks:
 
 This is the most ambiguous scenario for the Orange Travel vs travel eSIM decision. A remote worker who needs reliable video calls and data-heavy work would benefit from Orange Travel's network priority and consistent speeds. The 25GB plan at 50 euro for 30 days provides enough data for remote work with a French number for local co-working space registrations and delivery services. However, Multi-network eSIM's 50GB plan at $60 ($48 with WEB20) provides more data, multi-network switching for better video call reliability, and an optional French number — making it a strong competitor for this use case.
 
-**Solo traveler visiting rural areas:**
+### Solo traveler visiting rural areas:
 
 A solo traveler renting a car and visiting Provence villages, Normandy beaches, and the Loire Valley is the ideal candidate for Orange Travel. The Orange network's wider rural coverage matters most when traveling alone and relying on GPS navigation in areas with limited infrastructure. The French number provides a safety net for roadside assistance, emergency calls, and accommodation check-ins. The price premium for Orange Travel is justified by the coverage reliability advantage in this scenario.
 
@@ -601,7 +611,7 @@ The comparison so far has assumed you must pick one carrier. Orange Travel locks
 
 Each of these approaches has a weakness: no single carrier provides the best signal everywhere in France. Orange is best in rural areas. Bouygues is competitive in cities. SFR performs well along the Mediterranean. Free is adequate in urban centers but weak elsewhere.
 
-A [france esim](/france-esim/) with automatic carrier switching solves this limitation. Multi-network eSIM's eSIM monitors signal strength across Orange, SFR, Bouygues, and Free in real time, switching to the strongest available network at your location. When you visit the Eiffel Tower and Orange is congested, it shifts to Bouygues. When you travel to rural Provence where Orange has wider coverage, it switches back. When you ride the TGV through a zone where SFR has better signal at a specific tower, it hands off without interrupting your connection.
+A [france esim](/france-esim/) with Roami offers automatic carrier switching solves this limitation. Multi-network eSIM's eSIM monitors signal strength across Orange, SFR, Bouygues, and Free in real time, switching to the strongest available network at your location. When you visit the Eiffel Tower and Orange is congested, it shifts to Bouygues. When you travel to rural Provence where Orange has wider coverage, it switches back. When you ride the TGV through a zone where SFR has better signal at a specific tower, it hands off without interrupting your connection.
 
 Multi-network eSIM also provides a French phone number option for inbound calls, bridging the gap between Orange Travel's number advantage and the flexible multi-network approach of travel eSIMs. If you are unsure whether your device supports eSIM, Roami offers a **[free eSIM trial](/free-esim/)** to test compatibility before committing to a full plan. Use code **WEB20** at checkout for 20% off your first plan.
 
@@ -613,7 +623,7 @@ For most travelers, the combination of multi-network switching and optional Fren
 
 Orange Travel is not the right choice for every traveler, but it is the right choice for a specific subset.
 
-**Buy Orange Travel if:**
+### Buy Orange Travel if:
 
 - You need a French phone number for SNCF, Navigo, or restaurant reservations
 - Your trip focuses on rural France, Provence, Normandy, or the Loire Valley where Orange's wider coverage matters
@@ -621,16 +631,17 @@ Orange Travel is not the right choice for every traveler, but it is the right ch
 - You are traveling for business and need a local number for clients
 - You want the peace of mind of a carrier-branded product with physical retail presence
 
-**Do not buy Orange Travel if:**
+### Do not buy Orange Travel if:
 
 - You only need data for maps, messaging, and social media (95%+ of tourists)
 - You are on a budget — travel eSIMs cost 50-60% less
 - Your trip is limited to Paris and other major cities where all networks perform equally well
 - You are visiting multiple European countries
 
-**The price-to-value calculation:**
+### The price-to-value calculation:
 
 For a typical 7-day tourist trip to France with 5GB data usage:
+
 - Orange Travel: 25 euro ($27) with French number
 - Airalo (Orange network): $12 without French number
 - Holafly (Bouygues network): $20 unlimited without French number
@@ -638,11 +649,11 @@ For a typical 7-day tourist trip to France with 5GB data usage:
 
 The 13-17 euro premium for Orange Travel over Airalo or Ubigi buys you a French phone number and Orange carrier priority. Whether that is worth it depends entirely on whether the number matters for your trip.
 
-**Final recommendation:**
+### Final recommendation:
 
 Buy Orange Travel only if the French phone number is essential for your plans. For all other cases, a travel eSIM from Airalo, Holafly, or Ubigi provides the same or similar network quality at significantly lower cost.
 
-**Decision framework: Which eSIM to buy for France**
+### Decision framework: Which eSIM to buy for France
 
 | If this describes your trip... | Buy this | Instead of | Because |
 |-------------------------------|----------|-----------|---------|
@@ -657,9 +668,9 @@ Buy Orange Travel only if the French phone number is essential for your plans. F
 | Heavy streaming, unlimited needed | Holafly unlimited $20 | Orange Travel 5GB 25 euro | Unlimited data at lower price |
 | Rural road trip, maximum reliability | Multi-network eSIM with WEB20 or Orange Travel | Single-network travel eSIM | Multi-network switching for changing coverage |
 
-If you want the coverage flexibility of multiple carriers combined with French number capability, Roami's multi-network [france esim](/france-esim/) offers a middle path with the added benefit of automatic carrier switching. The combination of Orange, Bouygues, SFR, and Free networks in a single eSIM with the WEB20 discount code provides pricing competitive with single-network travel eSIMs.
+If you want the coverage flexibility of multiple carriers combined with French number capability, Unlike Airalo and Holafly which use single networks, Roami's multi-network [france esim](/france-esim/) offers a middle path with the added benefit of automatic carrier switching. The combination of Orange, Bouygues, SFR, and Free networks in a single eSIM with the WEB20 discount code provides pricing competitive with single-network travel eSIMs.
 
-**The one-sentence answer:**
+### The one-sentence answer:
 
 Orange Travel is the right choice when you need a French phone number; for every other scenario, a travel eSIM saves 50-65% with equivalent or near-equivalent network quality.
 

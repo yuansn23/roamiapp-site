@@ -76,7 +76,8 @@ recentPosts:
   - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
     permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
     date: "2026-05-20"
----
+---For coverage across US cities, see our [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/).
+
 Learning the dual SIM setup USA eSIM process is simple. Over 70% of international travelers now use dual-SIM configurations when abroad, according to the GSMA. The ability to keep home SIM active with eSIM is a major advantage. The biggest advantage of eSIM over a physical tourist SIM is keeping your home number active for 2FA codes, WhatsApp, and banking verification.
 
 But the settings matter. If you configure your [usa esim](/usa-esim/) wrong, you could end up with no data, surprise roaming charges, or a dead phone number.
@@ -136,7 +137,7 @@ Not all phones handle dual SIM the same way. Here's a compatibility breakdown by
 6. Tap your USA eSIM line 鈫?turn **Data Roaming ON**. Most travel eSIMs require this to function
 7. Tap **iMessage & FaceTime** 鈫?select your home phone number (optional 鈥?both SIMs can be selected)
 
-**To verify everything is working:**
+### To verify everything is working:
 - With iPhone dual SIM eSIM, check the status bar: you should see two signal indicators 鈥?one for each line
 - The primary indicator shows your home SIM's signal (for calls/SMS)
 - The secondary indicator shows your eSIM's signal (for data)
@@ -222,12 +223,12 @@ This is useful if you need to temporarily use your home SIM for data (with an ac
 
 **How to switch between eSIM and home SIM USA** 鈥?if you need to temporarily switch data back to your home SIM (for example, if you have a roaming plan that gives you free data for a day):
 
-**On iPhone:**
+### On iPhone:
 1. Settings 鈫?Cellular 鈫?Cellular Data
 2. Tap your home SIM to select it as the data line
 3. When you want to switch back, repeat and select the USA eSIM
 
-**On Android (Samsung):**
+### On Android (Samsung):
 1. Settings 鈫?Connections 鈫?SIM Card Manager
 2. Tap Mobile Data 鈫?select the line you want to use
 3. To switch back, repeat and select the other line
@@ -252,7 +253,7 @@ This is useful if you need to temporarily use your home SIM for data (with an ac
 
 **Network Selection (automatic vs. manual):** By default, your phone automatically selects the best available network. In areas with weak coverage, turning off automatic selection and manually choosing a carrier can help. On iPhone: Settings 鈫?Cellular 鈫?Network Selection 鈫?OFF 鈫?choose T-Mobile, AT&T, or Verizon. On Android: Settings 鈫?Connections 鈫?SIM Card Manager 鈫?tap your eSIM 鈫?Network operators 鈫?Search networks 鈫?select one. This is useful when your phone can't find the network automatically at your location.
 
-**SIM Labeling:** Custom labels for each SIM line help avoid confusion when managing settings. On iPhone: Settings 鈫?Cellular 鈫?tap a line 鈫?Cellular Plan Label 鈫?choose or create a custom label. On Samsung: Settings 鈫?Connections 鈫?SIM Card Manager 鈫?tap a SIM 鈫?Rename. Recommended labels: "Home" for your physical SIM and "USA Data" or "Roami" for your eSIM.
+**SIM Labeling:** Custom labels for each SIM line help avoid confusion when managing settings. On iPhone: Settings 鈫?Cellular 鈫?tap a line 鈫?Cellular Plan Label 鈫?choose or create a custom label. On Samsung: Settings 鈫?Connections 鈫?SIM Card Manager 鈫?tap a SIM 鈫?Rename. Recommended labels: "Home" for your physical SIM and "USA Data" or "Roami (with automatic switching across AT&T, Verizon and T-Mobile)" for your eSIM.
 
 **Call forwarding between lines:** If you have a US number on your eSIM but primarily use your home number, you can set up call forwarding from your US number to your home number. This ensures you don't miss calls to either number. The exact setup depends on your eSIM provider and whether the plan includes a phone number.
 
@@ -327,7 +328,7 @@ Understanding how calls are routed helps you avoid unexpected charges:
 | eSIM worked then stopped | Airplane mode toggled | Restart phone, check Data Roaming still ON |
 | "Unable to activate" error | Activation requires US network | Try activating after landing 鈥?some eSIMs need a US tower connection |
 
-**Step-by-step no service fix:**
+### Step-by-step no service fix:
 1. Go to Settings 鈫?Cellular 鈫?tap your eSIM line 鈫?ensure Data Roaming is ON
 2. Toggle airplane mode ON for 10 seconds, then OFF
 3. Restart your phone completely
@@ -340,15 +341,15 @@ Providers with live human support, like [**USA eSIM**](/united-states-esim/), ca
 
 **USA eSIM cannot receive SMS OTP** 鈥?this is a common concern. Here's what to check:
 
-**Scenario A: You're using a data-only eSIM (Airalo, Ubigi, Holafly)**
+### Scenario A: You're using a data-only eSIM (Airalo, Ubigi, Holafly)
 - **Can you receive SMS?** No 鈥?data-only eSIMs do not have a phone number. They cannot receive SMS at all.
 - **What to do:** Use app-based 2FA (Google Authenticator, Authy) instead of SMS. Or, keep your home SIM active for SMS.
 
-**Scenario B: You're using an eSIM with a US number (Tello, Google Fi, carrier prepaid)**
+### Scenario B: You're using an eSIM with a US number (Tello, Google Fi, carrier prepaid)
 - **Can you receive SMS?** Yes 鈥?but your SMS will come to your US number, not your home number.
 - **What to do:** If you need SMS on your US number, check that the eSIM's voice line is set as default for SMS.
 
-**Scenario C: You're using a USA eSIM with your home SIM active (dual SIM setup)**
+### Scenario C: You're using a USA eSIM with your home SIM active (dual SIM setup)
 - **Can you receive SMS on your home number?** Yes 鈥?SMS arrives on your home SIM as usual.
 - **Why might SMS fail?** Here are the most common reasons:
 
@@ -360,7 +361,7 @@ Providers with live human support, like [**USA eSIM**](/united-states-esim/), ca
 | Poor home carrier roaming signal | Move to an area with better signal, or restart the phone |
 | Home carrier charges for roaming SMS | Some carriers block incoming SMS unless you have a roaming package. Contact your carrier |
 
-**If your bank or service requires SMS verification:**
+### If your bank or service requires SMS verification:
 1. Keep your home SIM active in the phone (don't disable it)
 2. Ensure the home SIM line is ON
 3. Make sure the phone isn't in airplane mode
@@ -375,7 +376,7 @@ Most eSIMs configure APN (Access Point Name) settings automatically during insta
 
 **Android:** Settings 鈫?Connections 鈫?Mobile networks 鈫?Access Point Names 鈫?tap "+" 鈫?enter the APN details from your provider. Note that some Android phones restrict APN editing when multiple SIMs are active 鈥?you may need to temporarily disable your home SIM to configure the eSIM's APN.
 
-**Common APN values by provider:**
+### Common APN values by provider:
 - Airalo: APN = "airalo.com"
 - Holafly: APN = "holafly"
 - Ubigi: APN = "data"
@@ -397,13 +398,13 @@ If you want to disable your home SIM for a period (for example, to avoid any cha
 
 ### When to disable your home SIM
 
-**Good reasons to disable:**
+### Good reasons to disable:
 - Your home carrier charges high rates for receiving SMS while roaming
 - You want to guarantee no accidental data usage on your home SIM
 - You are in a very remote area and want to conserve battery by maintaining only one network connection
 - Your phone is struggling to maintain connections on both networks simultaneously (rare but possible with older phones)
 
-**Bad reasons to disable:**
+### Bad reasons to disable:
 - You think it saves significant battery (the difference is ~10-15% over a full day 鈥?usually not worth losing SMS access)
 - You're worried about spam calls (silence unknown callers is more targeted)
 - You don't want to be disturbed (Do Not Disturb mode achieves this without disabling the line)
@@ -422,24 +423,24 @@ Before your trip, confirm with your home carrier that:
 
 Different home carriers have different roaming policies that affect dual SIM setups:
 
-**UK carriers:**
+### UK carriers:
 - Three UK: "Go Roam" included in most plans 鈥?free data, calls, and SMS in the US. If you have this, you may not need a USA eSIM for calls/SMS but may want one for additional data.
 - EE: Roaming charges apply to most plans unless you have a "Roam Abroad" pass. Daily pass costs 拢2.46/day. SMS receipt is free.
 - Vodafone UK: "Roaming" is included in some plans, charged in others. A 拢2.28/day charge applies to many consumer plans.
 - O2: O2 Travel costs 拢3.49/day for unlimited data, calls, and SMS. Without it, data is blocked but calls and SMS are charged per use.
 
-**European carriers:**
+### European carriers:
 - Deutsche Telekom (Germany): "Roaming & Data" included within EU, charged separately for US. Data costs vary by plan.
 - Orange (France): US roaming costs vary. Some business plans include US data. Consumer plans typically charge per MB.
 - TIM (Italy): US roaming passes available, typically 10-20 EUR for 5-10GB of data.
 - Movistar (Spain): US roaming costs approximately 10 EUR/GB without a specific pass.
 
-**Australian carriers:**
+### Australian carriers:
 - Telstra: International roaming passes from $5/day for limited data.
 - Optus: Roaming passes from $5/day (200MB) to $20/day (2GB).
 - Vodafone AU: $5 roaming pass covers the US in some plans.
 
-**Asian carriers:**
+### Asian carriers:
 - Singtel (Singapore): "DataRoam" passes from $5 for 1GB valid in the US.
 - NTT Docomo (Japan): "World Rental" or "World Data" passes required for US roaming.
 - KT (South Korea): US roaming passes from around 10,000 KRW/day for 1GB.
@@ -609,3 +610,11 @@ No. A carrier-locked phone will only work with SIMs from the locking carrier. If
 </script>
 
 *Last updated July 2026.*
+
+For US mobile market data, visit [FCC](https://www.fcc.gov). See [Wikipedia](https://en.wikipedia.org/wiki/Mobile_network_operator) for carrier information.
+
+
+For a complete USA eSIM overview, see our [USA eSIM complete guide](/blog/usa-esim-complete-guide/).
+. For coverage across US cities, see our [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/).
+. For troubleshooting, see our [USA eSIM troubleshooting guide](/blog/usa-esim-troubleshooting/).
+. For carrier plan comparisons, see our [USA eSIM carrier plans guide](/blog/usa-esim-carrier-plans/).
