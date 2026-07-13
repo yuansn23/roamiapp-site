@@ -52,7 +52,6 @@ disableKinds = ["taxonomy", "term"]
       { name = "eSIM Compatibility", url = "/compatibility/" },
      { name = "Free eSIM", url = "/free-esim/" },
       { name = "Roami APP", url = "/app/" },
-	   { name = "Carriers", url = "/carriers/" },
       { name = "FAQ", url = "/faq/" }
     ]
     
@@ -116,7 +115,6 @@ disableKinds = ["taxonomy", "term"]
     { name = "eSIM-Kompatibilität", url = "/compatibility/" },
     { name = "Kostenlose eSIM", url = "/free-esim/" },
     { name = "Roami APP", url = "/app/" },
-	{ name = "Netzbetreiber", url = "/carriers/" },
     { name = "FAQ", url = "/faq/" }
   ]
 
@@ -174,7 +172,6 @@ footer_col1_links = [
       { name = "совместимость", url = "/compatibility/" },
      { name = "Бесплатная", url = "/free-esim/" },
       { name = "Приложение", url = "/app/" },
-	   { name = "Операторы", url = "/carriers/" },
       { name = "Помощь", url = "/faq/" }
     ]
     
@@ -235,7 +232,6 @@ nav_links = [
   { name = "Compatibilité eSIM", url = "/compatibility/" },
   { name = "eSIM gratuite", url = "/free-esim/" },
   { name = "App Roami", url = "/app/" },
-  { name = "Opérateurs", url = "/carriers/" },
   { name = "FAQ", url = "/faq/" }
 ]
 footer_desc = "Services eSIM premium dans plus de 200 pays et régions – restez connecté où que vous voyagiez."
@@ -284,7 +280,6 @@ weight = 5
       { name = "首頁", url = "/" },
       { name = "購買eSIM", url = "/plans/" },
       { name = "eSIM 相容性", url = "/compatibility/" },
-	  { name = "eSIM 運營商", url = "/carriers/" },
       { name = "免費 eSIM", url = "/free-esim/" },
       { name = "Roami App", url = "/app/" },
       { name = "常見問題", url = "/faq/" }
@@ -340,7 +335,6 @@ footer_col1_links = [
   nav_links = [
     { name = "Home", url = "/" },
     { name = "Acquista eSIM", url = "/plans/" },
-	{ name = "Operatore eSIM", url = "/carriers/" },
     { name = "Compatibilità eSIM", url = "/compatibility/" },
     { name = "eSIM Gratuita", url = "/free-esim/" },
     { name = "App Roami", url = "/app/" },
@@ -401,7 +395,6 @@ nav_links = [
   { name = "Compatibilidad eSIM", url = "/compatibility/" },
   { name = "eSIM Gratis", url = "/free-esim/" },
   { name = "App Roami", url = "/app/" },
-  { name = "Operadores", url = "/carriers/" },
   { name = "FAQ", url = "/faq/" }
 ]
 
@@ -459,8 +452,7 @@ nav_links = [
   { name = "eSIM互換性", url = "/compatibility/" },
   { name = "無料eSIM", url = "/free-esim/" },
   { name = "Roamiアプリ", url = "/app/" },
-   { name = "FAQ", url = "/faq/" },
-  { name = "通信事業者", url = "/carriers/" }
+   { name = "FAQ", url = "/faq/" }
 ]
 
 # フッターテキスト

@@ -8,17 +8,61 @@
                 <!-- 桌面端 -->
                 <div class="hidden md:flex items-center">
                     <div class="flex items-center gap-7">
-                        {{ range .Site.Params.nav_links }}
-                        <a href="{{ .url | relLangURL }}" class="flex items-center text-slate-500 hover:text-slate-900 text-sm font-medium transition-colors">
-                            <span>{{ .name }}</span>
-                            {{ if eq .name "Plans" }}
-                            <span class="ml-1.5 bg-red-500 text-white text-[10px] leading-none font-bold px-1.5 py-0.5 rounded-full shadow-sm">HOT</span>
+                        {{ range $index, $link := .Site.Params.nav_links }}
+                            <!-- 渲染导航链接 -->
+                            <a href="{{ $link.url | relLangURL }}" class="flex items-center text-slate-500 hover:text-slate-900 text-sm font-medium transition-colors">
+                                <span>{{ $link.name }}</span>
+                                {{ if eq $link.name "Plans" }}
+                                <span class="ml-1.5 bg-red-500 text-white text-[10px] leading-none font-bold px-1.5 py-0.5 rounded-full shadow-sm">HOT</span>
+                                {{ end }}
+                            </a>
+
+                            <!-- 在第一个链接之后插入“目的地” -->
+                            {{ if eq $index 0 }}
+                                {{ $lang := $.Language.Lang }}
+                                {{ with index site.Data.destination $lang }}
+                                {{ $destData := . }}
+                                <div class="relative" id="destDropdown">
+                                    <button class="flex items-center text-slate-500 hover:text-slate-900 text-sm font-medium transition-colors group-hover:text-slate-900 focus:outline-none" 
+                                            aria-haspopup="true" 
+                                            aria-expanded="false"
+                                            id="destButton">
+                                        <!-- 从数据中读取菜单标题 -->
+                                        <span>{{ $destData.menu_title }}</span>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-3 h-3 ml-1">
+                                            <path d="m6 9 6 6 6-6"></path>
+                                        </svg>
+                                    </button>
+                                    <!-- 下拉菜单：全屏宽度，内容居中 -->
+                                    <div class="fixed left-0 right-0 top-16 mt-1 bg-white shadow-xl rounded-b-xl border-t-0 border border-slate-200/80 opacity-0 invisible transition-all duration-200 z-[60]"
+                                         id="destDropdownMenu">
+                                        <div class="max-w-7xl mx-auto px-4 py-6 max-h-[70vh] overflow-x-auto overflow-y-auto">
+                                            <div class="flex flex-nowrap gap-8 justify-start">
+                                                {{ range $destData.regions }}
+                                                <div class="flex-shrink-0 w-36">
+                                                    <div class="font-semibold text-sm text-slate-800 border-b border-slate-200 pb-1 mb-2">{{ .region }}</div>
+                                                    <ul class="space-y-1">
+                                                        {{ range .countries }}
+                                                        <li>
+                                                            <a href="{{ .url | relLangURL }}" 
+                                                               class="block text-sm text-slate-600 hover:text-blue-600 hover:bg-slate-50 px-2 py-1 rounded transition-colors truncate">
+                                                                {{ .name }}
+                                                            </a>
+                                                        </li>
+                                                        {{ end }}
+                                                    </ul>
+                                                </div>
+                                                {{ end }}
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                {{ end }}
                             {{ end }}
-                        </a> 
                         {{ end }}
                     </div>
 
-                    <!-- 多语言按钮：打开模态框 -->
+                    <!-- 多语言按钮 -->
                     {{ if gt (len .Site.Home.AllTranslations) 1 }}
                     <div class="h-4 w-px bg-slate-300 ml-12"></div>
                     <button id="lang-modal-open" class="flex items-center gap-1.5 text-slate-500 hover:text-slate-900 text-sm font-medium transition-colors py-2 ml-6" aria-label="Select Language">
@@ -35,7 +79,7 @@
                     {{ end }}
                 </div>
 
-                <!-- 移动端菜单按钮（汉堡菜单） -->
+                <!-- 移动端菜单按钮 -->
                 <button id="mobileMenuBtn" class="md:hidden ml-4 p-2 rounded-lg hover:bg-slate-100 transition-colors" aria-label="Toggle menu">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5 text-slate-700">
                         <line x1="4" x2="20" y1="12" y2="12"></line>
@@ -58,7 +102,36 @@
                 {{ end }}
             </a> 
             {{ end }}
-            <!-- 移动端语言入口：打开模态框 -->
+
+            <!-- 移动端目的地折叠 -->
+            {{ $lang := .Language.Lang }}
+            {{ with index site.Data.destination $lang }}
+            {{ $destData := . }}
+            <div class="border-t border-slate-100 pt-2 mt-2">
+                <button id="mobileDestToggle" class="flex items-center justify-between w-full px-3 py-2 text-sm text-slate-600 hover:text-blue-600 rounded-lg hover:bg-slate-50 transition-colors">
+                    <span>{{ $destData.menu_title }}</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4 transition-transform" id="mobileDestArrow">
+                        <path d="m6 9 6 6 6-6"></path>
+                    </svg>
+                </button>
+                <div id="mobileDestSubmenu" class="hidden mt-1 ml-4 space-y-3">
+                    {{ range $destData.regions }}
+                    <div>
+                        <div class="font-medium text-xs text-slate-500 px-3 py-1">{{ .region }}</div>
+                        <div class="grid grid-cols-2 gap-1 px-3">
+                            {{ range .countries }}
+                            <a href="{{ .url | relLangURL }}" class="text-sm text-slate-600 hover:text-blue-600 hover:bg-slate-50 px-2 py-1 rounded transition-colors">
+                                {{ .name }}
+                            </a>
+                            {{ end }}
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+            {{ end }}
+
+            <!-- 移动端语言入口 -->
             {{ if gt (len .Site.Home.AllTranslations) 1 }}
             <button id="mobileLangBtn" class="flex items-center gap-2 w-full px-3 py-2 text-sm text-slate-600 hover:text-blue-600 rounded-lg hover:bg-slate-50 transition-colors">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4">
@@ -73,9 +146,7 @@
     </div>
 </nav>
 
-<!-- 语言模态框（网格布局） -->
-<!-- 语言模态框（网格布局）- 手动构造链接版本 -->
-
+<!-- 语言模态框（原样保留） -->
 <div id="langModal" class="fixed inset-0 bg-black/50 z-[100] hidden items-center justify-center p-4">
     <div class="bg-white rounded-2xl shadow-2xl max-w-2xl w-full max-h-[85vh] overflow-y-auto">
         <div class="sticky top-0 bg-white border-b border-slate-100 px-6 py-4 flex justify-between items-center">
@@ -91,39 +162,27 @@
         </div>
         <div class="p-6">
             <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
-                {{/* 定义支持的语言列表：语言代码, 显示名称, 是否默认语言（英文无前缀） */}}
                 {{ $languages := slice 
                     (dict "code" "en" "name" "English" "isDefault" true)
                     (dict "code" "de" "name" "Deutsch" "isDefault" false)
                     (dict "code" "it" "name" "Italiano" "isDefault" false)
-					(dict "code" "es" "name" "Español" "isDefault" false)
+                    (dict "code" "es" "name" "Español" "isDefault" false)
                     (dict "code" "ru" "name" "Русский" "isDefault" false)
-					 (dict "code" "ja" "name" "日本語" "isDefault" false)
+                    (dict "code" "ja" "name" "日本語" "isDefault" false)
                     (dict "code" "fr" "name" "Français" "isDefault" false)
                     (dict "code" "zh-hant" "name" "繁體中文" "isDefault" false)
                 }}
-                {{/* 暂未启用的语言：日语(ja)、土耳其语(tr)、荷兰语(nl) —— 如需启用，取消注释并加入上面 slice */}}
-                {{/*
-                    (dict "code" "ja" "name" "日本語" "isDefault" false)
-                    (dict "code" "tr" "name" "Türkçe" "isDefault" false)
-                    (dict "code" "nl" "name" "Nederlands" "isDefault" false)
-                */}}
-
                 {{ $currentLang := .Language.Lang }}
-
                 {{ range $languages }}
                     {{ $langCode := .code }}
                     {{ $langName := .name }}
                     {{ $isDefault := .isDefault }}
-                    
-                    {{/* 修改点：直接跳转到各语言的首页 */}}
                     {{ $targetURL := "" }}
                     {{ if $isDefault }}
                         {{ $targetURL = "/" }}
                     {{ else }}
                         {{ $targetURL = printf "/%s/" $langCode }}
                     {{ end }}
-                    
                     <a href="{{ $targetURL }}" class="flex items-center justify-between px-3 py-2 rounded-lg border border-slate-200 hover:border-blue-300 hover:bg-blue-50 transition-all {{ if eq $langCode $currentLang }}bg-blue-50 border-blue-300 text-blue-700 font-medium{{ else }}text-slate-700{{ end }}">
                         <span>{{ $langName }}</span>
                         {{ if eq $langCode $currentLang }}
@@ -137,53 +196,107 @@
         </div>
     </div>
 </div>
+
 <script>
-    // 确保 DOM 完全加载后执行
     document.addEventListener('DOMContentLoaded', function() {
         // 移动端汉堡菜单
         const mobileBtn = document.getElementById('mobileMenuBtn');
         const mobileMenu = document.getElementById('mobileMenu');
-        
         if (mobileBtn && mobileMenu) {
-            // 切换菜单显示/隐藏
             mobileBtn.addEventListener('click', function(event) {
                 event.stopPropagation();
                 mobileMenu.classList.toggle('hidden');
             });
-            
-            // 点击菜单内任何链接后自动关闭菜单
             const menuLinks = mobileMenu.querySelectorAll('a, button');
             menuLinks.forEach(link => {
                 link.addEventListener('click', function() {
                     mobileMenu.classList.add('hidden');
                 });
             });
-            
-            // 点击页面其他区域关闭菜单（可选，避免遮挡）
             document.addEventListener('click', function(event) {
                 if (!mobileMenu.contains(event.target) && !mobileBtn.contains(event.target)) {
                     mobileMenu.classList.add('hidden');
                 }
             });
         }
-        
+
+        // 桌面端目的地下拉：点击切换，悬停展开
+        const destDropdown = document.getElementById('destDropdown');
+        const destButton = document.getElementById('destButton');
+        const destMenu = document.getElementById('destDropdownMenu');
+        if (destDropdown && destButton && destMenu) {
+            // 点击切换显示
+            destButton.addEventListener('click', function(e) {
+                e.preventDefault();
+                const isVisible = destMenu.classList.contains('opacity-100');
+                if (isVisible) {
+                    destMenu.classList.remove('opacity-100', 'visible');
+                    destMenu.classList.add('opacity-0', 'invisible');
+                } else {
+                    destMenu.classList.remove('opacity-0', 'invisible');
+                    destMenu.classList.add('opacity-100', 'visible');
+                }
+            });
+            // 悬停展开
+            destDropdown.addEventListener('mouseenter', function() {
+                destMenu.classList.remove('opacity-0', 'invisible');
+                destMenu.classList.add('opacity-100', 'visible');
+            });
+            destDropdown.addEventListener('mouseleave', function() {
+                if (destMenu.classList.contains('opacity-100')) {
+                    setTimeout(() => {
+                        if (!destDropdown.matches(':hover') && !destMenu.matches(':hover')) {
+                            destMenu.classList.remove('opacity-100', 'visible');
+                            destMenu.classList.add('opacity-0', 'invisible');
+                        }
+                    }, 150);
+                }
+            });
+            // 点击菜单内链接后关闭
+            destMenu.querySelectorAll('a').forEach(link => {
+                link.addEventListener('click', function() {
+                    destMenu.classList.remove('opacity-100', 'visible');
+                    destMenu.classList.add('opacity-0', 'invisible');
+                });
+            });
+            // 点击页面其他区域关闭
+            document.addEventListener('click', function(e) {
+                if (!destDropdown.contains(e.target)) {
+                    destMenu.classList.remove('opacity-100', 'visible');
+                    destMenu.classList.add('opacity-0', 'invisible');
+                }
+            });
+        }
+
+        // 移动端目的地折叠
+        const mobileDestToggle = document.getElementById('mobileDestToggle');
+        const mobileDestSubmenu = document.getElementById('mobileDestSubmenu');
+        const mobileDestArrow = document.getElementById('mobileDestArrow');
+        if (mobileDestToggle && mobileDestSubmenu) {
+            mobileDestToggle.addEventListener('click', function(e) {
+                e.preventDefault();
+                const isHidden = mobileDestSubmenu.classList.toggle('hidden');
+                if (mobileDestArrow) {
+                    mobileDestArrow.style.transform = isHidden ? 'rotate(0deg)' : 'rotate(180deg)';
+                }
+            });
+        }
+
         // 语言模态框
         const modal = document.getElementById('langModal');
         const openModalBtns = document.querySelectorAll('#lang-modal-open, #mobileLangBtn');
         const closeModalBtn = document.getElementById('closeModalBtn');
-        
         if (modal) {
             function openModal() {
                 modal.classList.remove('hidden');
                 modal.classList.add('flex');
-                document.body.style.overflow = 'hidden'; // 防止背景滚动
+                document.body.style.overflow = 'hidden';
             }
             function closeModal() {
                 modal.classList.add('hidden');
                 modal.classList.remove('flex');
                 document.body.style.overflow = '';
             }
-            
             openModalBtns.forEach(btn => {
                 if (btn) {
                     btn.addEventListener('click', function(e) {
@@ -192,7 +305,6 @@
                     });
                 }
             });
-            
             if (closeModalBtn) closeModalBtn.addEventListener('click', closeModal);
             modal.addEventListener('click', function(e) {
                 if (e.target === modal) closeModal();
@@ -205,3 +317,18 @@
         }
     });
 </script>
+
+<style>
+    #destDropdownMenu {
+        opacity: 0;
+        visibility: hidden;
+        transition: opacity 0.2s ease, visibility 0.2s ease;
+    }
+    #destDropdownMenu.opacity-100 {
+        opacity: 1 !important;
+        visibility: visible !important;
+    }
+    #mobileDestArrow {
+        transition: transform 0.2s ease;
+    }
+</style>
