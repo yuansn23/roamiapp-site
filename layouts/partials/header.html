@@ -91,44 +91,57 @@
         </div>
     </div>
 
-    <!-- 移动端下拉菜单 -->
+    <!-- ========== 移动端下拉菜单 ========== -->
     <div id="mobileMenu" class="md:hidden hidden bg-white border-t border-slate-100 absolute w-full shadow-lg z-50">
-        <div class="px-4 py-3 space-y-1">
-            {{ range .Site.Params.nav_links }}
-            <a href="{{ .url | relLangURL }}" class="flex items-center px-3 py-2 text-sm text-slate-600 hover:text-blue-600 rounded-lg hover:bg-slate-50 transition-colors">
-                <span>{{ .name }}</span>
-                {{ if eq .name "Plans" }}
-                <span class="ml-2 bg-red-500 text-white text-[10px] leading-none font-bold px-1.5 py-0.5 rounded-full">HOT</span>
-                {{ end }}
-            </a> 
-            {{ end }}
+        <div class="px-4 py-3 space-y-1 max-h-[80vh] overflow-y-auto">
+            {{ range $index, $link := .Site.Params.nav_links }}
+                {{ if eq $index 0 }}
+                    <!-- 第一个导航链接 -->
+                    <a href="{{ $link.url | relLangURL }}" class="flex items-center px-3 py-2 text-sm text-slate-600 hover:text-blue-600 rounded-lg hover:bg-slate-50 transition-colors">
+                        <span>{{ $link.name }}</span>
+                        {{ if eq $link.name "Plans" }}
+                        <span class="ml-2 bg-red-500 text-white text-[10px] leading-none font-bold px-1.5 py-0.5 rounded-full">HOT</span>
+                        {{ end }}
+                    </a>
 
-            <!-- 移动端目的地折叠 -->
-            {{ $lang := .Language.Lang }}
-            {{ with index site.Data.destination $lang }}
-            {{ $destData := . }}
-            <div class="border-t border-slate-100 pt-2 mt-2">
-                <button id="mobileDestToggle" class="flex items-center justify-between w-full px-3 py-2 text-sm text-slate-600 hover:text-blue-600 rounded-lg hover:bg-slate-50 transition-colors">
-                    <span>{{ $destData.menu_title }}</span>
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4 transition-transform" id="mobileDestArrow">
-                        <path d="m6 9 6 6 6-6"></path>
-                    </svg>
-                </button>
-                <div id="mobileDestSubmenu" class="hidden mt-1 ml-4 space-y-3">
-                    {{ range $destData.regions }}
-                    <div>
-                        <div class="font-medium text-xs text-slate-500 px-3 py-1">{{ .region }}</div>
-                        <div class="grid grid-cols-2 gap-1 px-3">
-                            {{ range .countries }}
-                            <a href="{{ .url | relLangURL }}" class="text-sm text-slate-600 hover:text-blue-600 hover:bg-slate-50 px-2 py-1 rounded transition-colors">
-                                {{ .name }}
-                            </a>
+                    <!-- ===== 移动端：目的地折叠（排在第二个） ===== -->
+                    {{ $lang := $.Language.Lang }}
+                    {{ with index site.Data.destination $lang }}
+                    {{ $destData := . }}
+                    <div class="border-t border-slate-100 pt-2 mt-2">
+                        <button id="mobileDestToggle" class="flex items-center justify-between w-full px-3 py-2 text-sm text-slate-600 hover:text-blue-600 rounded-lg hover:bg-slate-50 transition-colors">
+                            <span>{{ $destData.menu_title }}</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4 transition-transform" id="mobileDestArrow">
+                                <path d="m6 9 6 6 6-6"></path>
+                            </svg>
+                        </button>
+                        <!-- 关键修复：添加最大高度和滚动 -->
+                        <div id="mobileDestSubmenu" class="hidden mt-1 ml-4 space-y-3 max-h-[60vh] overflow-y-auto">
+                            {{ range $destData.regions }}
+                            <div>
+                                <div class="font-medium text-xs text-slate-500 px-3 py-1">{{ .region }}</div>
+                                <div class="grid grid-cols-2 gap-1.5 px-3">
+                                    {{ range .countries }}
+                                    <a href="{{ .url | relLangURL }}" class="text-sm text-slate-600 hover:text-blue-600 hover:bg-slate-50 px-3 py-1.5 rounded transition-colors">
+                                        {{ .name }}
+                                    </a>
+                                    {{ end }}
+                                </div>
+                            </div>
                             {{ end }}
                         </div>
                     </div>
                     {{ end }}
-                </div>
-            </div>
+
+                {{ else }}
+                    <!-- 其余导航链接 -->
+                    <a href="{{ $link.url | relLangURL }}" class="flex items-center px-3 py-2 text-sm text-slate-600 hover:text-blue-600 rounded-lg hover:bg-slate-50 transition-colors">
+                        <span>{{ $link.name }}</span>
+                        {{ if eq $link.name "Plans" }}
+                        <span class="ml-2 bg-red-500 text-white text-[10px] leading-none font-bold px-1.5 py-0.5 rounded-full">HOT</span>
+                        {{ end }}
+                    </a>
+                {{ end }}
             {{ end }}
 
             <!-- 移动端语言入口 -->
@@ -146,7 +159,7 @@
     </div>
 </nav>
 
-<!-- 语言模态框（原样保留） -->
+<!-- 语言模态框（保持不变） -->
 <div id="langModal" class="fixed inset-0 bg-black/50 z-[100] hidden items-center justify-center p-4">
     <div class="bg-white rounded-2xl shadow-2xl max-w-2xl w-full max-h-[85vh] overflow-y-auto">
         <div class="sticky top-0 bg-white border-b border-slate-100 px-6 py-4 flex justify-between items-center">
