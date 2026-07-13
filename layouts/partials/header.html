@@ -92,7 +92,7 @@
 
     <!-- ========== 移动端下拉菜单 ========== -->
     <div id="mobileMenu" class="md:hidden hidden bg-white border-t border-slate-100 absolute w-full shadow-lg z-50">
-        <!-- 父容器，当子菜单展开时禁用滚动 -->
+        <!-- 父容器，保持最大高度和滚动，内容由手风琴控制高度 -->
         <div class="px-4 py-3 space-y-1 max-h-[80vh] overflow-y-auto" id="mobileMenuScroll">
             {{ range $index, $link := .Site.Params.nav_links }}
                 {{ if eq $index 0 }}
@@ -115,14 +115,18 @@
                                 <path d="m6 9 6 6 6-6"></path>
                             </svg>
                         </button>
-                        <!-- 子菜单滚动容器 -->
-                        <div id="mobileDestSubmenu" class="hidden mt-1 ml-4 space-y-3 max-h-[60vh] overflow-y-auto pb-4" 
-                             style="-webkit-overflow-scrolling: touch; touch-action: pan-y; overscroll-behavior: contain;">
-                            {{ range $destData.regions }}
-                            <div>
-                                <div class="font-medium text-xs text-slate-500 px-3 py-1">{{ .region }}</div>
-                                <div class="grid grid-cols-2 gap-1.5 px-3">
-                                    {{ range .countries }}
+                        <!-- 目的地子菜单：手风琴结构，默认展开第一个区域（非洲） -->
+                        <div id="mobileDestSubmenu" class="hidden mt-1 ml-4 space-y-2">
+                            {{ range $regionIndex, $region := $destData.regions }}
+                            <div class="region-group">
+                                <button class="region-toggle flex items-center justify-between w-full px-3 py-2 text-sm font-medium text-slate-700 hover:text-blue-600 rounded-lg hover:bg-slate-50 transition-colors" data-target="region-{{ $regionIndex }}">
+                                    <span>{{ $region.region }}</span>
+                                    <svg class="w-4 h-4 transition-transform duration-200 region-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <path d="m6 9 6 6 6-6"></path>
+                                    </svg>
+                                </button>
+                                <div id="region-{{ $regionIndex }}" class="region-content grid grid-cols-2 gap-1.5 px-3 pb-2 {{ if eq $regionIndex 0 }}block{{ else }}hidden{{ end }}">
+                                    {{ range $region.countries }}
                                     <a href="{{ .url | relLangURL }}" class="text-sm text-slate-600 hover:text-blue-600 hover:bg-slate-50 px-3 py-1.5 rounded transition-colors">
                                         {{ .name }}
                                     </a>
@@ -160,7 +164,7 @@
     </div>
 </nav>
 
-<!-- 语言模态框（保持不变） -->
+<!-- 语言模态框（原样保留） -->
 <div id="langModal" class="fixed inset-0 bg-black/50 z-[100] hidden items-center justify-center p-4">
     <div class="bg-white rounded-2xl shadow-2xl max-w-2xl w-full max-h-[85vh] overflow-y-auto">
         <div class="sticky top-0 bg-white border-b border-slate-100 px-6 py-4 flex justify-between items-center">
@@ -213,7 +217,7 @@
 
 <script>
     document.addEventListener('DOMContentLoaded', function() {
-        // 移动端汉堡菜单
+        // ===== 移动端汉堡菜单 =====
         const mobileBtn = document.getElementById('mobileMenuBtn');
         const mobileMenu = document.getElementById('mobileMenu');
         const mobileMenuScroll = document.getElementById('mobileMenuScroll');
@@ -221,16 +225,12 @@
             mobileBtn.addEventListener('click', function(event) {
                 event.stopPropagation();
                 mobileMenu.classList.toggle('hidden');
-                // 重置子菜单状态（折叠）
+                // 重置目的地子菜单状态（折叠）
                 const submenu = document.getElementById('mobileDestSubmenu');
                 if (submenu && !submenu.classList.contains('hidden')) {
                     submenu.classList.add('hidden');
                     const arrow = document.getElementById('mobileDestArrow');
                     if (arrow) arrow.style.transform = 'rotate(0deg)';
-                }
-                // 恢复父容器滚动
-                if (mobileMenuScroll) {
-                    mobileMenuScroll.style.overflowY = 'auto';
                 }
             });
             // 只对链接（a）点击关闭菜单
@@ -238,24 +238,68 @@
             menuLinks.forEach(link => {
                 link.addEventListener('click', function() {
                     mobileMenu.classList.add('hidden');
-                    // 恢复父容器滚动
-                    if (mobileMenuScroll) {
-                        mobileMenuScroll.style.overflowY = 'auto';
-                    }
                 });
             });
             // 点击页面其他区域关闭
             document.addEventListener('click', function(event) {
                 if (!mobileMenu.contains(event.target) && !mobileBtn.contains(event.target)) {
                     mobileMenu.classList.add('hidden');
-                    if (mobileMenuScroll) {
-                        mobileMenuScroll.style.overflowY = 'auto';
-                    }
                 }
             });
         }
 
-        // 桌面端目的地下拉（保持不变）
+        // ===== 移动端目的地折叠（一级折叠：展开/收起整个目的地子菜单） =====
+        const mobileDestToggle = document.getElementById('mobileDestToggle');
+        const mobileDestSubmenu = document.getElementById('mobileDestSubmenu');
+        const mobileDestArrow = document.getElementById('mobileDestArrow');
+        if (mobileDestToggle && mobileDestSubmenu) {
+            mobileDestToggle.addEventListener('click', function(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                const isHidden = mobileDestSubmenu.classList.toggle('hidden');
+                if (mobileDestArrow) {
+                    mobileDestArrow.style.transform = isHidden ? 'rotate(0deg)' : 'rotate(180deg)';
+                }
+            });
+        }
+
+        // ===== 移动端目的地子菜单手风琴（二级折叠） =====
+        const regionToggles = document.querySelectorAll('.region-toggle');
+        regionToggles.forEach(toggle => {
+            toggle.addEventListener('click', function(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                const targetId = this.dataset.target;
+                const targetContent = document.getElementById(targetId);
+                if (!targetContent) return;
+                const isCurrentlyHidden = targetContent.classList.contains('hidden');
+                // 收起所有区域内容
+                document.querySelectorAll('.region-content').forEach(content => {
+                    content.classList.add('hidden');
+                });
+                // 重置所有箭头
+                document.querySelectorAll('.region-arrow').forEach(arrow => {
+                    arrow.style.transform = 'rotate(0deg)';
+                });
+                // 如果当前是隐藏的，则展开它
+                if (isCurrentlyHidden) {
+                    targetContent.classList.remove('hidden');
+                    // 旋转当前箭头
+                    const arrow = this.querySelector('.region-arrow');
+                    if (arrow) arrow.style.transform = 'rotate(180deg)';
+                }
+                // 如果当前是显示的，则全部收起（已在前面统一隐藏）
+            });
+        });
+
+        // 默认展开第一个区域（索引0），箭头旋转
+        const firstToggle = document.querySelector('.region-toggle[data-target="region-0"]');
+        if (firstToggle) {
+            const arrow = firstToggle.querySelector('.region-arrow');
+            if (arrow) arrow.style.transform = 'rotate(180deg)';
+        }
+
+        // ===== 桌面端目的地下拉（保持不变） =====
         const destDropdown = document.getElementById('destDropdown');
         const destButton = document.getElementById('destButton');
         const destMenu = document.getElementById('destDropdownMenu');
@@ -299,32 +343,7 @@
             });
         }
 
-        // 移动端目的地折叠（独立切换，并控制父容器滚动）
-        const mobileDestToggle = document.getElementById('mobileDestToggle');
-        const mobileDestSubmenu = document.getElementById('mobileDestSubmenu');
-        const mobileDestArrow = document.getElementById('mobileDestArrow');
-        if (mobileDestToggle && mobileDestSubmenu) {
-            mobileDestToggle.addEventListener('click', function(e) {
-                e.preventDefault();
-                e.stopPropagation();
-                const isHidden = mobileDestSubmenu.classList.toggle('hidden');
-                if (mobileDestArrow) {
-                    mobileDestArrow.style.transform = isHidden ? 'rotate(0deg)' : 'rotate(180deg)';
-                }
-                // 控制父容器滚动：子菜单展开时禁用父容器滚动，收起时恢复
-                if (mobileMenuScroll) {
-                    if (!isHidden) {
-                        // 子菜单展开，禁用父容器滚动
-                        mobileMenuScroll.style.overflowY = 'hidden';
-                    } else {
-                        // 子菜单收起，恢复父容器滚动
-                        mobileMenuScroll.style.overflowY = 'auto';
-                    }
-                }
-            });
-        }
-
-        // 语言模态框
+        // ===== 语言模态框 =====
         const modal = document.getElementById('langModal');
         const openModalBtns = document.querySelectorAll('#lang-modal-open, #mobileLangBtn');
         const closeModalBtn = document.getElementById('closeModalBtn');
@@ -373,14 +392,7 @@
     #mobileDestArrow {
         transition: transform 0.2s ease;
     }
-    /* 移动端触摸滚动优化 */
-    #mobileDestSubmenu {
-        -webkit-overflow-scrolling: touch;
-        touch-action: pan-y;
-        overscroll-behavior: contain;
-    }
-    /* 当子菜单展开时，禁用父容器滚动（由JS控制） */
-    #mobileMenuScroll.scroll-disabled {
-        overflow-y: hidden !important;
+    .region-arrow {
+        transition: transform 0.2s ease;
     }
 </style>
