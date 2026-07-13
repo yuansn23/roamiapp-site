@@ -115,8 +115,8 @@
                                 <path d="m6 9 6 6 6-6"></path>
                             </svg>
                         </button>
-                        <!-- 关键修复：添加最大高度和滚动 -->
-                        <div id="mobileDestSubmenu" class="hidden mt-1 ml-4 space-y-3 max-h-[60vh] overflow-y-auto">
+                        <!-- 修复：添加触摸滚动样式，并增加底部内边距方便滚动 -->
+                        <div id="mobileDestSubmenu" class="hidden mt-1 ml-4 space-y-3 max-h-[60vh] overflow-y-auto pb-4" style="-webkit-overflow-scrolling: touch;">
                             {{ range $destData.regions }}
                             <div>
                                 <div class="font-medium text-xs text-slate-500 px-3 py-1">{{ .region }}</div>
@@ -220,12 +220,14 @@
                 event.stopPropagation();
                 mobileMenu.classList.toggle('hidden');
             });
-            const menuLinks = mobileMenu.querySelectorAll('a, button');
+            // 只对链接（a）点击关闭菜单，排除按钮（尤其是 mobileDestToggle）
+            const menuLinks = mobileMenu.querySelectorAll('a');
             menuLinks.forEach(link => {
                 link.addEventListener('click', function() {
                     mobileMenu.classList.add('hidden');
                 });
             });
+            // 点击页面其他区域关闭
             document.addEventListener('click', function(event) {
                 if (!mobileMenu.contains(event.target) && !mobileBtn.contains(event.target)) {
                     mobileMenu.classList.add('hidden');
@@ -281,13 +283,14 @@
             });
         }
 
-        // 移动端目的地折叠
+        // 移动端目的地折叠（独立切换，不干扰汉堡菜单）
         const mobileDestToggle = document.getElementById('mobileDestToggle');
         const mobileDestSubmenu = document.getElementById('mobileDestSubmenu');
         const mobileDestArrow = document.getElementById('mobileDestArrow');
         if (mobileDestToggle && mobileDestSubmenu) {
             mobileDestToggle.addEventListener('click', function(e) {
                 e.preventDefault();
+                e.stopPropagation(); // 防止事件冒泡到汉堡菜单
                 const isHidden = mobileDestSubmenu.classList.toggle('hidden');
                 if (mobileDestArrow) {
                     mobileDestArrow.style.transform = isHidden ? 'rotate(0deg)' : 'rotate(180deg)';
@@ -343,5 +346,10 @@
     }
     #mobileDestArrow {
         transition: transform 0.2s ease;
+    }
+    /* 移动端触摸滚动优化 */
+    #mobileDestSubmenu {
+        -webkit-overflow-scrolling: touch;
+        overscroll-behavior: contain;
     }
 </style>
