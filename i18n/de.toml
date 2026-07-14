@@ -341,3 +341,24 @@ other = "Abbrechen"
 
 [discount_claim]
 other = "Jetzt einlösen"
+
+[vp_5g_badge]
+other = "5G"
+
+[vp_same]
+other = "Gleiche"
+
+[vp_network]
+other = "5G-Netz"
+
+[vp_compare]
+other = ", bis zu"
+
+[vp_cheaper]
+other = "günstiger als andere eSIMs"
+
+[vp_percent]
+other = "30%"
+
+[vp_save_tag]
+other = "🔥 Mehr sparen"

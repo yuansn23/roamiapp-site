@@ -341,3 +341,24 @@ other = "取消"
 
 [discount_claim]
 other = "立即領取"
+
+[vp_5g_badge]
+other = "5G"
+
+[vp_same]
+other = "相同"
+
+[vp_network]
+other = "5G網路"
+
+[vp_compare]
+other = "，比其他eSIM產品"
+
+[vp_cheaper]
+other = "便宜"
+
+[vp_percent]
+other = "30%"
+
+[vp_save_tag]
+other = "🔥 省更多"

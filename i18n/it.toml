@@ -341,3 +341,24 @@ other = "Annulla"
 
 [discount_claim]
 other = "Richiedi ora"
+
+[vp_5g_badge]
+other = "5G"
+
+[vp_same]
+other = "Stessa"
+
+[vp_network]
+other = "rete 5G"
+
+[vp_compare]
+other = ", fino al"
+
+[vp_cheaper]
+other = "più economica di altre eSIM"
+
+[vp_percent]
+other = "30%"
+
+[vp_save_tag]
+other = "🔥 Risparmia di più"

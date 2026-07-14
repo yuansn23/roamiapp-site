@@ -341,3 +341,24 @@ other = "Отмена"
 
 [discount_claim]
 other = "Получить сейчас"
+
+[vp_5g_badge]
+other = "5G"
+
+[vp_same]
+other = "Та же"
+
+[vp_network]
+other = "сеть 5G"
+
+[vp_compare]
+other = ", до"
+
+[vp_cheaper]
+other = "дешевле других eSIM"
+
+[vp_percent]
+other = "30%"
+
+[vp_save_tag]
+other = "🔥 Экономьте больше"

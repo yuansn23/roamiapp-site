@@ -333,3 +333,24 @@ other = "キャンセル"
 
 [discount_claim]
 other = "今すぐ受け取る"
+
+[vp_5g_badge]
+other = "5G"
+
+[vp_same]
+other = "同じ"
+
+[vp_network]
+other = "5Gネットワーク"
+
+[vp_compare]
+other = "、他社eSIMより"
+
+[vp_cheaper]
+other = "お得"
+
+[vp_percent]
+other = "30%"
+
+[vp_save_tag]
+other = "🔥 さらにお得"

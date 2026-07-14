@@ -341,3 +341,24 @@ other = "Cancelar"
 
 [discount_claim]
 other = "Reclamar ahora"
+
+[vp_5g_badge]
+other = "5G"
+
+[vp_same]
+other = "Misma"
+
+[vp_network]
+other = "red 5G"
+
+[vp_compare]
+other = ", hasta un"
+
+[vp_cheaper]
+other = "más barata que otras eSIM"
+
+[vp_percent]
+other = "30%"
+
+[vp_save_tag]
+other = "🔥 Ahorra más"

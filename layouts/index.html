@@ -15,13 +15,13 @@
             .js-unified-download-btn {
                 touch-action: manipulation;
             }
-            
+
             .hero-title-main {
                 white-space: normal !important;
                 word-break: break-word;
                 max-width: 100%;
             }
-            
+
             .floating-card-title {
                 font-size: 0.7rem !important;
             }
@@ -36,7 +36,7 @@
                 width: 2rem !important;
                 height: 2rem !important;
             }
-            
+
             section {
                 padding-top: 2rem !important;
                 padding-bottom: 2rem !important;
@@ -51,186 +51,303 @@
             .section-desc {
                 margin-bottom: 1.5rem !important;
             }
-            .grid.gap-5, .grid.gap-4 {
+            .grid.gap-5,
+            .grid.gap-4 {
                 gap: 0.75rem !important;
             }
-            
+
             .why-choose-grid {
                 display: grid !important;
                 grid-template-columns: repeat(1, 1fr) !important;
                 gap: 0.75rem !important;
             }
         }
+
+        /* 价值主张视觉样式 - 更新斜杠删除线 */
+        .value-claim-visual {
+            background: linear-gradient(135deg, #eff6ff 0%, #e0f2fe 100%);
+            border-top: 2px solid #93c5fd;
+            border-bottom: 2px solid #93c5fd;
+        }
+        .value-claim-visual .claim-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.25rem;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .value-claim-visual .badge-5g {
+            background: #2563eb;
+            color: white;
+            font-weight: 700;
+            padding: 0.2rem 0.8rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.25rem;
+            letter-spacing: 0.025em;
+            box-shadow: 0 2px 6px rgba(37, 99, 235, 0.3);
+        }
+        .value-claim-visual .badge-5g svg {
+            width: 1rem;
+            height: 1rem;
+            fill: none;
+            stroke: currentColor;
+            stroke-width: 2.5;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+        }
+        /* 将原本的 text-decoration 替换为伪元素实现的斜向删除线 */
+        .value-claim-visual .competitor {
+            position: relative;
+            display: inline-block;
+            color: #94a3b8;
+            font-weight: 500;
+            padding: 0 0.1em;
+        }
+        .value-claim-visual .competitor::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: -3px;
+            width: calc(100% + 6px);
+            height: 2.5px;
+            background: #ef4444;
+            transform: rotate(-18deg);
+            transform-origin: center center;
+            border-radius: 3px;
+            box-shadow: 0 1px 3px rgba(239, 68, 68, 0.25);
+        }
+        .value-claim-visual .discount-number {
+            color: #dc2626;
+            font-weight: 900;
+            font-size: 2rem;
+            line-height: 1;
+            background: white;
+            padding: 0 0.5rem;
+            border-radius: 0.5rem;
+            box-shadow: 0 2px 8px rgba(220, 38, 38, 0.15);
+            display: inline-block;
+        }
+        .value-claim-visual .save-tag {
+            background: #dc2626;
+            color: white;
+            font-weight: 700;
+            padding: 0.2rem 0.8rem;
+            border-radius: 9999px;
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            box-shadow: 0 2px 6px rgba(220, 38, 38, 0.3);
+            margin-left: 0.25rem;
+        }
+        @media (min-width: 640px) {
+            .value-claim-visual .discount-number {
+                font-size: 2.5rem;
+            }
+        }
+        @media (min-width: 1024px) {
+            .value-claim-visual .discount-number {
+                font-size: 3rem;
+            }
+        }
     </style>
 </head>
 <body class="bg-white text-slate-900 antialiased pb-24 md:pb-0">
 
-{{ partial "header.html" . }}
+    {{ partial "header.html" . }}
 
-<script>
-    var btnTexts = {
-        defaultBtn: {{ .Params.button.default | default "Get 20% Discount" | jsonify | safeJS }},
-        googlePlay: {{ .Params.button.google_play | default "Get 20% Discount" | jsonify | safeJS }},
-        appStore: {{ .Params.button.app_store | default "Get 20% Discount" | jsonify | safeJS }},
-        officialWebsite: {{ .Params.button.official_website | default "Get 20% Discount" | jsonify | safeJS }}
-    };
-    var floatingBtnText = {{ i18n "get_esim_discount" | default "Get 20% eSIM Discount" | jsonify | safeJS }};
-</script>
+    <script>
+        var btnTexts = {
+            defaultBtn: {{ .Params.button.default | default "Get 20% Discount" | jsonify | safeJS }},
+            googlePlay: {{ .Params.button.google_play | default "Get 20% Discount" | jsonify | safeJS }},
+            appStore: {{ .Params.button.app_store | default "Get 20% Discount" | jsonify | safeJS }},
+            officialWebsite: {{ .Params.button.official_website | default "Get 20% Discount" | jsonify | safeJS }}
+        };
+        var floatingBtnText = {{ i18n "get_esim_discount" | default "Get 20% eSIM Discount" | jsonify | safeJS }};
+    </script>
 
-<section id="home" class="relative overflow-hidden bg-slate-50 pt-10 pb-20 lg:pt-16 lg:pb-24">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="grid lg:grid-cols-2 gap-12 lg:gap-8 items-center">
-            
-            <div class="text-center lg:text-left z-10">
-                <div class="inline-flex items-center gap-2.5 mb-4 px-4 py-2 rounded-full text-sm font-medium bg-blue-100 text-blue-700 border border-blue-200">
-                    <span class="w-2 h-2 bg-blue-600 rounded-full pulse-dot flex-shrink-0"></span>
-                    {{ .Params.hero.tag }}
+    <section id="home" class="relative overflow-hidden bg-slate-50 pt-10 pb-20 lg:pt-16 lg:pb-24">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid lg:grid-cols-2 gap-12 lg:gap-8 items-center">
+
+                <div class="text-center lg:text-left z-10">
+                    <div class="inline-flex items-center gap-2.5 mb-4 px-4 py-2 rounded-full text-sm font-medium bg-blue-100 text-blue-700 border border-blue-200">
+                        <span class="w-2 h-2 bg-blue-600 rounded-full pulse-dot flex-shrink-0"></span>
+                        {{ .Params.hero.tag }}
+                    </div>
+
+                    <h1 class="font-extrabold text-slate-900 leading-tight tracking-tight mb-4 text-4xl sm:text-5xl lg:text-6xl hero-title-main">
+                        {{ .Params.hero.title | safeHTML }}
+                    </h1>
+
+                    <p class="text-lg text-slate-600 mb-4 max-w-xl mx-auto lg:mx-0 leading-relaxed">
+                        {{ .Params.hero.desc }}
+                    </p>
+
+                    <div class="mb-5 inline-block bg-gradient-to-r from-amber-50 to-orange-50 border-2 border-dashed border-amber-300 rounded-2xl p-4 shadow-sm" aria-label="Promotion and Discount Code">
+                        <div class="flex items-center gap-4">
+                            <div class="w-12 h-12 bg-amber-500 rounded-full flex items-center justify-center flex-shrink-0 text-white shadow-md">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-6 h-6"><path d="M2 9a3 3 0 1 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 1 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z"/><path d="M9 9h.01"/><path d="m15 9-6 6"/><path d="M15 15h.01"/></svg>
+                            </div>
+                            <div class="text-left">
+                                <p class="text-amber-900 text-sm font-bold mb-0.5 uppercase tracking-wide">{{ .Params.hero.promo_tag }}</p>
+                                <p class="text-amber-800 text-sm">{{ .Params.hero.promo_text | safeHTML }} <code class="bg-white px-2.5 py-1 rounded-md font-mono font-black text-amber-600 text-base border border-amber-200 shadow-sm ml-1">{{ .Params.hero.promo_code }}</code></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- 桌面主按钮：添加 onclick="handleBuyNow()" -->
+                    <div class="flex justify-center lg:justify-start mb-6">
+                        <button id="unifiedDownloadBtn" onclick="handleBuyNow()" class="appstore-btn w-full sm:w-auto justify-center flex items-center gap-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-xl transition-all shadow-md">
+                            <span id="btnIcon" class="flex-shrink-0"></span>
+                            <span id="btnText">{{ .Params.button.default | default "Get 20% Discount" }}</span>
+                        </button>
+                    </div>
+
+                    <ul class="flex flex-wrap items-center justify-center lg:justify-start gap-4 sm:gap-6 text-sm text-slate-500 list-none p-0">
+                        {{ range .Params.hero.stats }}
+                        <li class="flex items-center gap-2 whitespace-nowrap">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5 text-emerald-500 flex-shrink-0"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></svg>
+                            <span>{{ . }}</span>
+                        </li>
+                        {{ end }}
+                    </ul>
                 </div>
 
-                <h1 class="font-extrabold text-slate-900 leading-tight tracking-tight mb-4 text-4xl sm:text-5xl lg:text-6xl hero-title-main">
-                    {{ .Params.hero.title | safeHTML }}
-                </h1>
-
-                <p class="text-lg text-slate-600 mb-4 max-w-xl mx-auto lg:mx-0 leading-relaxed">
-                    {{ .Params.hero.desc }}
-                </p>
-
-                <div class="mb-5 inline-block bg-gradient-to-r from-amber-50 to-orange-50 border-2 border-dashed border-amber-300 rounded-2xl p-4 shadow-sm" aria-label="Promotion and Discount Code">
-                    <div class="flex items-center gap-4">
-                        <div class="w-12 h-12 bg-amber-500 rounded-full flex items-center justify-center flex-shrink-0 text-white shadow-md">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-6 h-6"><path d="M2 9a3 3 0 1 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 1 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z"/><path d="M9 9h.01"/><path d="m15 9-6 6"/><path d="M15 15h.01"/></svg>
-                        </div>
-                        <div class="text-left">
-                            <p class="text-amber-900 text-sm font-bold mb-0.5 uppercase tracking-wide">{{ .Params.hero.promo_tag }}</p>
-                            <p class="text-amber-800 text-sm">{{ .Params.hero.promo_text | safeHTML }} <code class="bg-white px-2.5 py-1 rounded-md font-mono font-black text-amber-600 text-base border border-amber-200 shadow-sm ml-1">{{ .Params.hero.promo_code }}</code></p>
+                <div class="relative z-10 lg:ml-auto w-full max-w-lg mx-auto lg:max-w-none">
+                    <div class="relative rounded-3xl overflow-hidden shadow-2xl border border-slate-200/50">
+                        <img src="/img/home.jpg" alt="Global eSIM Travel Connection" class="w-full h-auto object-cover aspect-video lg:aspect-[4/3] max-h-[460px]">
+                        <div class="absolute inset-0 bg-gradient-to-t from-slate-900/40 to-transparent"></div>
+                        <div class="absolute bottom-6 left-6 right-6 bg-white/90 backdrop-blur-md p-4 rounded-2xl shadow-lg border border-white/50 flex items-center gap-4 floating-card">
+                            <div class="w-12 h-12 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center flex-shrink-0 floating-card-icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-6 h-6"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"/></svg>
+                            </div>
+                            <div>
+                                <div class="font-bold text-slate-900 text-sm floating-card-title">{{ .Params.hero.floating_card_title }}</div>
+                                <div class="text-xs text-slate-500 floating-card-desc">{{ .Params.hero.floating_card_desc }}</div>
+                            </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- 桌面主按钮：添加 onclick="handleBuyNow()" -->
-                <div class="flex justify-center lg:justify-start mb-6">
-                    <button id="unifiedDownloadBtn" onclick="handleBuyNow()" class="appstore-btn w-full sm:w-auto justify-center flex items-center gap-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-xl transition-all shadow-md">
-                        <span id="btnIcon" class="flex-shrink-0"></span>
-                        <span id="btnText">{{ .Params.button.default | default "Get 20% Discount" }}</span>
-                    </button>
-                </div>
+            </div>
+        </div>
+    </section>
 
-                <ul class="flex flex-wrap items-center justify-center lg:justify-start gap-4 sm:gap-6 text-sm text-slate-500 list-none p-0">
-                    {{ range .Params.hero.stats }}
-                    <li class="flex items-center gap-2 whitespace-nowrap">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5 text-emerald-500 flex-shrink-0"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></svg>
-                        <span>{{ . }}</span>
+    <!-- ============================================================ -->
+    <!-- 价值主张 – 视觉化设计（斜杆删除线）                            -->
+    <!-- ============================================================ -->
+<section class="value-claim-visual py-3 md:py-4">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex flex-wrap items-center justify-center gap-1 sm:gap-2 md:gap-4 text-center">
+
+            <!-- 5G 徽章 -->
+            <span class="badge-5g">
+                {{ i18n "vp_5g_badge" }}
+            </span>
+
+            <span class="text-base sm:text-lg md:text-xl font-semibold text-slate-800">{{ i18n "vp_same" }}</span>
+            <span class="text-base sm:text-lg md:text-xl font-bold text-blue-600">{{ i18n "vp_network" }}</span>
+            <span class="text-base sm:text-lg md:text-xl font-semibold text-slate-800">{{ i18n "vp_compare" }}</span>
+
+            <span class="text-base sm:text-lg md:text-xl font-semibold text-slate-800">{{ i18n "vp_cheaper" }}</span>
+
+            <!-- 突出的 30% -->
+            <span class="discount-number">{{ i18n "vp_percent" }}</span>
+
+            <!-- 小标签 -->
+            <span class="save-tag">{{ i18n "vp_save_tag" }}</span>
+        </div>
+    </div>
+</section>
+
+    <section id="destinations" class="py-24 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-12">
+                <p class="text-blue-600 text-xs font-bold uppercase tracking-widest mb-3">{{ .Params.destinations.tag }}</p>
+                <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">{{ .Params.destinations.title }}</h2>
+                <p class="text-lg text-slate-500 max-w-xl mx-auto">{{ .Params.destinations.desc }}</p>
+            </div>
+
+            <div class="bg-slate-50 rounded-2xl border border-slate-200 p-5 mb-10 shadow-sm">
+                <ul class="grid grid-cols-1 md:grid-cols-3 divide-y md:divide-y-0 md:divide-x divide-slate-200 list-none p-0 m-0">
+                    {{ range $index, $stat := .Params.destinations.quick_stats }}
+                    <li class="flex items-center justify-center gap-3 py-3 md:py-0">
+                        <span class="w-2 h-2 {{ if eq $index 0 }}bg-emerald-500{{ else if eq $index 1 }}bg-orange-500{{ else }}bg-blue-500{{ end }} rounded-full pulse-dot"></span>
+                        <span class="text-sm text-slate-600 font-medium">{{ $stat }}</span>
                     </li>
                     {{ end }}
                 </ul>
             </div>
 
-            <div class="relative z-10 lg:ml-auto w-full max-w-lg mx-auto lg:max-w-none">
-                <div class="relative rounded-3xl overflow-hidden shadow-2xl border border-slate-200/50">
-                    <img src="/img/home.jpg" alt="Global eSIM Travel Connection" class="w-full h-auto object-cover aspect-video lg:aspect-[4/3] max-h-[460px]">
-                    <div class="absolute inset-0 bg-gradient-to-t from-slate-900/40 to-transparent"></div>
-                    <div class="absolute bottom-6 left-6 right-6 bg-white/90 backdrop-blur-md p-4 rounded-2xl shadow-lg border border-white/50 flex items-center gap-4 floating-card">
-                        <div class="w-12 h-12 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center flex-shrink-0 floating-card-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-6 h-6"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"/></svg>
-                        </div>
-                        <div>
-                            <div class="font-bold text-slate-900 text-sm floating-card-title">{{ .Params.hero.floating_card_title }}</div>
-                            <div class="text-xs text-slate-500 floating-card-desc">{{ .Params.hero.floating_card_desc }}</div>
-                        </div>
-                    </div>
+            <div class="flex justify-center mb-8">
+                <div class="inline-flex bg-slate-50 border border-slate-200 rounded-xl p-1 shadow-sm overflow-x-auto hide-scrollbar max-w-full gap-1" role="tablist">
+                    {{ range $index, $tab := .Params.destinations.tabs }}
+                    <button role="tab" aria-selected="{{ if eq $index 0 }}true{{ else }}false{{ end }}" aria-controls="{{ .id }}" class="tab-btn {{ if eq $index 0 }}active px-5 py-2.5 rounded-lg text-sm font-semibold whitespace-nowrap bg-blue-600 text-white shadow-sm{{ else }}px-5 py-2.5 rounded-lg text-sm font-medium text-slate-500 hover:text-slate-900 whitespace-nowrap{{ end }} transition-all" data-target="{{ .id }}">{{ .name }}</button>
+                    {{ end }}
                 </div>
             </div>
 
-        </div>
-    </div>
-</section>
- 
+            {{ range $index, $tab := .Params.destinations.tabs }}
+            <div id="{{ .id }}" role="tabpanel" class="tab-content {{ if eq $index 0 }}active{{ end }} mb-10">
+                <p class="text-center text-slate-500 font-medium mb-8">{{ .desc }}</p>
 
-<section id="destinations" class="py-24 bg-white">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="text-center mb-12">
-            <p class="text-blue-600 text-xs font-bold uppercase tracking-widest mb-3">{{ .Params.destinations.tag }}</p>
-            <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">{{ .Params.destinations.title }}</h2>
-            <p class="text-lg text-slate-500 max-w-xl mx-auto">{{ .Params.destinations.desc }}</p>
-        </div>
-
-        <div class="bg-slate-50 rounded-2xl border border-slate-200 p-5 mb-10 shadow-sm">
-            <ul class="grid grid-cols-1 md:grid-cols-3 divide-y md:divide-y-0 md:divide-x divide-slate-200 list-none p-0 m-0">
-                {{ range $index, $stat := .Params.destinations.quick_stats }}
-                <li class="flex items-center justify-center gap-3 py-3 md:py-0">
-                    <span class="w-2 h-2 {{ if eq $index 0 }}bg-emerald-500{{ else if eq $index 1 }}bg-orange-500{{ else }}bg-blue-500{{ end }} rounded-full pulse-dot"></span>
-                    <span class="text-sm text-slate-600 font-medium">{{ $stat }}</span>
-                </li>
-                {{ end }}
-            </ul>
-        </div>
-
-        <div class="flex justify-center mb-8">
-            <div class="inline-flex bg-slate-50 border border-slate-200 rounded-xl p-1 shadow-sm overflow-x-auto hide-scrollbar max-w-full gap-1" role="tablist">
-                {{ range $index, $tab := .Params.destinations.tabs }}
-                <button role="tab" aria-selected="{{ if eq $index 0 }}true{{ else }}false{{ end }}" aria-controls="{{ .id }}" class="tab-btn {{ if eq $index 0 }}active px-5 py-2.5 rounded-lg text-sm font-semibold whitespace-nowrap bg-blue-600 text-white shadow-sm{{ else }}px-5 py-2.5 rounded-lg text-sm font-medium text-slate-500 hover:text-slate-900 whitespace-nowrap{{ end }} transition-all" data-target="{{ .id }}">{{ .name }}</button>
-                {{ end }}
-            </div>
-        </div>
-
-        {{ range $index, $tab := .Params.destinations.tabs }}
-        <div id="{{ .id }}" role="tabpanel" class="tab-content {{ if eq $index 0 }}active{{ end }} mb-10">
-            <p class="text-center text-slate-500 font-medium mb-8">{{ .desc }}</p>
-            
-            <div class="grid grid-cols-2 gap-4 mx-auto 
+                <div class="grid grid-cols-2 gap-4 mx-auto 
                 {{ if eq (len .cards) 1 }} sm:grid-cols-1 max-w-xs
                 {{ else if eq (len .cards) 2 }} sm:grid-cols-2 max-w-lg
                 {{ else if eq (len .cards) 3 }} sm:grid-cols-3 max-w-3xl
                 {{ else if eq (len .cards) 4 }} sm:grid-cols-4 max-w-4xl
                 {{ else }} sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5
                 {{ end }}">
-                
+
                 {{ range .cards }}
                 <a href="{{ printf "/%s/" .slug | relLangURL }}" 
-                   aria-label="View eSIM data plans and pricing for {{ .name }}"
-                   class="dest-card group bg-white rounded-2xl border border-slate-200 text-center relative overflow-hidden flex flex-col h-full hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
-                   
-                    {{ if .badge }}
-                    <span class="absolute top-0 right-0 {{ if eq .badge "Hot" }}bg-red-500{{ else }}bg-emerald-500{{ end }} text-white text-[10px] px-2.5 py-1.5 rounded-bl-lg font-bold shadow-sm z-10">{{ .badge }}</span>
-                    {{ end }}
-                    
-                    <div class="p-5 flex-grow flex flex-col items-center w-full">
-                        <img src="/img/flags/{{ .flag }}" alt="Buy high-speed {{ .name }} eSIM data plan" class="w-16 h-11 mx-auto mb-3.5 shadow-sm rounded-sm object-cover border border-slate-100 flag-img">
-                        <h3 class="font-bold text-slate-800 text-sm mb-1">{{ .name }}</h3>
-                        <p class="text-blue-600 font-extrabold text-sm mb-3">{{ .price }}</p>
-                        
-                        <div class="flex flex-wrap justify-center gap-1.5 mt-auto w-full">
-                            {{ range .tags }}
-                            <span class="text-[10px] font-medium {{ if eq . "Multi-Country" }}bg-blue-50 text-blue-600 border border-blue-100{{ else if eq . "5G High-Speed" }}bg-blue-50 text-blue-600 border border-blue-100{{ else }}bg-slate-100 text-slate-600 border border-slate-200{{ end }} px-2 py-0.5 rounded-md">{{ . }}</span>
-                            {{ end }}
-                        </div>
-                    </div>
-                    
-                    <div class="card-action w-full mt-auto border-t border-slate-100 py-3 bg-slate-50/50 text-slate-500 group-hover:text-blue-600 group-hover:bg-blue-50 text-xs font-semibold flex flex-row items-center justify-center flex-nowrap whitespace-nowrap transition-colors">
-                        {{ i18n "view_plans" | default "View Plans" }} <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4 ml-1 flex-shrink-0"><path d="m9 18 6-6-6-6"/></svg>
-                    </div>
-                </a>
+                aria-label="View eSIM data plans and pricing for {{ .name }}"
+                class="dest-card group bg-white rounded-2xl border border-slate-200 text-center relative overflow-hidden flex flex-col h-full hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
+
+                {{ if .badge }}
+                <span class="absolute top-0 right-0 {{ if eq .badge "Hot" }}bg-red-500{{ else }}bg-emerald-500{{ end }} text-white text-[10px] px-2.5 py-1.5 rounded-bl-lg font-bold shadow-sm z-10">{{ .badge }}</span>
                 {{ end }}
 
-            </div>
-            <!-- 修改点：href 使用当前 tab 的 zslug 字段，而不是固定的 "plans/" -->
-            <div class="text-center mt-8">
-                <a href="{{ .zslug | default "#" | relLangURL }}" aria-label="Browse all global eSIM plans" class="inline-flex items-center gap-2 px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-xl text-sm transition-colors shadow-sm">
-                    {{ .btn }} <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
-                </a>
-            </div>
+                <div class="p-5 flex-grow flex flex-col items-center w-full">
+                    <img src="/img/flags/{{ .flag }}" alt="Buy high-speed {{ .name }} eSIM data plan" class="w-16 h-11 mx-auto mb-3.5 shadow-sm rounded-sm object-cover border border-slate-100 flag-img">
+                    <h3 class="font-bold text-slate-800 text-sm mb-1">{{ .name }}</h3>
+                    <p class="text-blue-600 font-extrabold text-sm mb-3">{{ .price }}</p>
+
+                    <div class="flex flex-wrap justify-center gap-1.5 mt-auto w-full">
+                        {{ range .tags }}
+                        <span class="text-[10px] font-medium {{ if eq . "Multi-Country" }}bg-blue-50 text-blue-600 border border-blue-100{{ else if eq . "5G High-Speed" }}bg-blue-50 text-blue-600 border border-blue-100{{ else }}bg-slate-100 text-slate-600 border border-slate-200{{ end }} px-2 py-0.5 rounded-md">{{ . }}</span>
+                        {{ end }}
+                    </div>
+                </div>
+
+                <div class="card-action w-full mt-auto border-t border-slate-100 py-3 bg-slate-50/50 text-slate-500 group-hover:text-blue-600 group-hover:bg-blue-50 text-xs font-semibold flex flex-row items-center justify-center flex-nowrap whitespace-nowrap transition-colors">
+                    {{ i18n "view_plans" | default "View Plans" }} <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4 ml-1 flex-shrink-0"><path d="m9 18 6-6-6-6"/></svg>
+                </div>
+            </a>
+            {{ end }}
 
         </div>
-        {{ end }}
+        <!-- 修改点：href 使用当前 tab 的 zslug 字段，而不是固定的 "plans/" -->
+        <div class="text-center mt-8">
+            <a href="{{ .zslug | default "#" | relLangURL }}" aria-label="Browse all global eSIM plans" class="inline-flex items-center gap-2 px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-xl text-sm transition-colors shadow-sm">
+                {{ .btn }} <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+            </a>
+        </div>
 
-        <div class="text-center mt-6">
-            <div class="inline-flex items-center gap-3 bg-amber-50 border border-amber-200 rounded-xl px-6 py-4" aria-label="Special Offer">
-                <span class="text-amber-800 text-sm font-medium">{{ .Params.destinations.promo_text1 }}</span>
-                <code class="bg-amber-100 border border-amber-300 text-amber-900 font-mono font-bold px-3 py-1 rounded-lg text-base" aria-label="Discount Code">{{ .Params.destinations.promo_code }}</code>
-                <span class="text-amber-800 text-sm font-medium">{{ .Params.destinations.promo_text2 }}</span>
-            </div>
+    </div>
+    {{ end }}
+
+    <div class="text-center mt-6">
+        <div class="inline-flex items-center gap-3 bg-amber-50 border border-amber-200 rounded-xl px-6 py-4" aria-label="Special Offer">
+            <span class="text-amber-800 text-sm font-medium">{{ .Params.destinations.promo_text1 }}</span>
+            <code class="bg-amber-100 border border-amber-300 text-amber-900 font-mono font-bold px-3 py-1 rounded-lg text-base" aria-label="Discount Code">{{ .Params.destinations.promo_code }}</code>
+            <span class="text-amber-800 text-sm font-medium">{{ .Params.destinations.promo_text2 }}</span>
         </div>
     </div>
+</div>
 </section>
 
 <section class="py-20 bg-slate-900">
@@ -249,10 +366,10 @@
                     {{ end }}
                 </ul>
             </div>
-            
+
             <div class="flex flex-col md:items-end gap-4">
                 <div class="bg-slate-800/50 p-6 rounded-2xl border border-slate-700 w-full max-w-sm ml-auto">
-                    
+
                     <div class="flex gap-2 mb-6 border-b border-slate-700 pb-4" role="tablist" aria-label="Download Options">
                         <button role="tab" aria-selected="true" aria-controls="free-ios" class="flex-1 pb-2 text-sm font-semibold text-white border-b-2 border-blue-500 transition-colors dl-tab-btn" data-target="free-ios" data-group="free">
                             {{ i18n "app_store" | default "App Store" }}
@@ -264,7 +381,7 @@
                             {{ i18n "web" | default "Web" }}
                         </button>
                     </div>
-                    
+
                     <div id="free-ios" onclick="handleBuyNow()" role="tabpanel" class="dl-tab-content active text-center" data-group="free">
                         <img src="/img/ios.png" alt="Scan QR code to download on iOS App Store" class="w-32 h-32 mx-auto rounded-xl mb-5 bg-white p-2 shadow-lg">
                         <a href="https://apps.apple.com/app/id6747127122" target="_blank" rel="noopener noreferrer" class="appstore-btn w-full justify-center flex js-download-link" aria-label="Download on the App Store">
@@ -291,12 +408,12 @@
                         </a>
                     </div>
                 </div>
-                
+
                 <p class="text-slate-500 text-xs w-full max-w-sm text-center ml-auto">
                     {{ .Params.free_banner.bottom_text }}
                 </p>
             </div>
-            
+
         </div>
     </div>
 </section>
@@ -308,7 +425,7 @@
             <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">{{ .Params.features.title }}</h2>
             <p class="text-lg text-slate-500 max-w-2xl mx-auto">{{ .Params.features.desc }}</p>
         </div>
-        
+
         <dl class="grid grid-cols-2 md:grid-cols-4 gap-0 border border-slate-200 rounded-2xl overflow-hidden mb-16 shadow-sm m-0 p-0">
             {{ range $index, $stat := .Params.features.stats }}
             <div class="text-center py-10 px-6 {{ if ne $index 3 }}border-r{{ end }} {{ if lt $index 2 }}border-b md:border-b-0{{ end }} border-slate-200">
@@ -317,7 +434,7 @@
             </div>
             {{ end }}
         </dl>
-        
+
         <ul class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-5 list-none p-0 m-0 why-choose-grid">
             {{ range $index, $card := .Params.features.cards }}
             <li>
@@ -343,7 +460,7 @@
             <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">{{ .Params.guide.title }}</h2>
             <p class="text-lg text-slate-500">{{ .Params.guide.desc }}</p>
         </div>
-        
+
         <ol class="grid md:grid-cols-3 gap-6 list-none p-0 m-0">
             {{ range $index, $step := .Params.guide.steps }}
             <li>
@@ -365,8 +482,6 @@
         </ol>
     </div>
 </section>
-
- 
 
 <section id="reviews" class="py-24 bg-slate-50">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -416,7 +531,6 @@
     </div>
 </section>
 
-
 {{ if .Params.faq }}
 <section id="faq" class="py-24 bg-white">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -444,6 +558,7 @@
     </div>
 </section>
 {{ end }}
+
 <section id="about" class="py-24 bg-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16">
@@ -451,7 +566,7 @@
             <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">{{ .Params.about.title }}</h2>
             <p class="text-lg text-slate-500 max-w-3xl mx-auto">{{ .Params.about.desc }}</p>
         </div>
-        
+
         <dl class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-16 list-none m-0 p-0">
             {{ range .Params.about.stats }}
             <div class="bg-white rounded-2xl p-7 text-center border border-slate-200 shadow-sm">
@@ -477,16 +592,16 @@
             <h2 class="text-3xl md:text-5xl font-extrabold text-white mb-5">{{ .Params.download.title }}</h2>
             <p class="text-lg text-slate-400 max-w-2xl mx-auto">{{ .Params.download.desc }}</p>
         </div>
-        
+
         <div class="text-center mb-16">
             <div class="bg-slate-800/50 p-2 rounded-xl inline-flex flex-wrap justify-center gap-1 mb-8 border border-slate-700">
                 <button class="px-6 py-2.5 rounded-lg text-sm font-semibold bg-blue-600 text-white transition-all dl-tab-btn2" data-target="dl-ios">{{ i18n "app_store" | default "App Store" }}</button>
                 <button class="px-6 py-2.5 rounded-lg text-sm font-semibold text-slate-400 hover:text-white transition-all dl-tab-btn2" data-target="dl-android">{{ i18n "google_play" | default "Google Play" }}</button>
                 <button class="px-6 py-2.5 rounded-lg text-sm font-semibold text-slate-400 hover:text-white transition-all dl-tab-btn2" data-target="dl-web">{{ i18n "official_website" | default "Official Web" }}</button>
             </div>
-            
+
             <div class="max-w-sm mx-auto">
-                <div  onclick="handleBuyNow()"  class="dl-tab-content2" style="display: block;">
+                <div onclick="handleBuyNow()" class="dl-tab-content2" style="display: block;">
                     <div class="bg-white p-4 rounded-2xl inline-block mb-6 shadow-xl">
                         <img src="/img/ios.png" alt="iOS Download QR Code" class="w-40 h-40">
                     </div>
@@ -550,247 +665,243 @@
     </div>
 </section>
 
- 
 {{ partial "footer.html" . }}
 
- 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "Roami",
-  "operatingSystem": "iOS, Android",
-  "applicationCategory": "TravelApplication",
-  "description": {{ i18n "software_description" | default "Global eSIM provider for high-speed travel connectivity." | jsonify }},
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.8",
-    "ratingCount": "13378"
-  }
-}
+    {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Roami",
+        "operatingSystem": "iOS, Android",
+        "applicationCategory": "TravelApplication",
+        "description": {{ i18n "software_description" | default "Global eSIM provider for high-speed travel connectivity." | jsonify }},
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "ratingCount": "13378"
+        }
+    }
 </script>
 
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-    
-    // ==========================================
-    // 1. 获取设备信息及按钮渲染逻辑
-    // ==========================================
-    function getDeviceInfo() {
-        const ua = navigator.userAgent || navigator.vendor || window.opera;
-        if (/android/i.test(ua)) {
-            return {
-                type: 'android',
-                url: 'https://play.google.com/store/apps/details?id=com.usphonesimgo.app',
-                iconHtml: `<svg viewBox="0 0 24 24" fill="white" class="w-6 h-6"><path d="M3 20.5v-17c0-.59.34-1.11.84-1.35L13.69 12 3.84 21.85C3.34 21.6 3 21.09 3 20.5m13.81-5.38-2.76-2.76-7.51 4.31 10.27-1.55m3.35-4.31c.34.27.59.69.59 1.19s-.25.92-.59 1.19l-2.27 1.31-2.5-2.5 2.5-2.5 2.27 1.31M6.05 2.66l10.76 6.22-2.27 2.27-8.49-8.49z"/></svg>`,
-                text: btnTexts.googlePlay
-            };
-        } else if (/iPad|iPhone|iPod/.test(ua) && !window.MSStream) {
-            return {
-                type: 'ios',
-                url: 'https://apps.apple.com/app/id6747127122',
-                iconHtml: `<svg viewBox="0 0 24 24" fill="white" class="w-6 h-6"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>`,
-                text: btnTexts.appStore
-            };
-        } else {
-            return {
-                type: 'web',
-                url: 'https://www.phonesimgo.com',
-                iconHtml: `<svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-6 h-6"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>`,
-                text: btnTexts.officialWebsite
-            };
-        }
-    }
+    document.addEventListener('DOMContentLoaded', function() {
 
-    function updateAllButtons() {
-        const info = getDeviceInfo();
-        const desktopIcon = document.querySelector('#btnIcon');
-        const desktopText = document.querySelector('#btnText');
-        if (desktopIcon) desktopIcon.innerHTML = info.iconHtml;
-        if (desktopText) desktopText.textContent = info.text;
-        
-        const mobileBtns = document.querySelectorAll('.js-unified-download-btn');
-        mobileBtns.forEach(btn => {
-            const iconSpan = btn.querySelector('.js-btn-icon');
-            const textSpan = btn.querySelector('.mobile-btn-text');
-            if (iconSpan) iconSpan.innerHTML = info.iconHtml;
-            if (textSpan) textSpan.textContent = floatingBtnText;
-            btn.setAttribute('data-url', info.url);
-            btn.setAttribute('data-device-type', info.type);
-        });
-        
-        const desktopBtn = document.querySelector('#unifiedDownloadBtn');
-        if (desktopBtn) desktopBtn.setAttribute('data-url', info.url);
-    }
-    
-    updateAllButtons();
-
-    // ==========================================
-    // 2. Destinations Tab 切换
-    // ==========================================
-    const destTabs = document.querySelectorAll('.tab-btn');
-    const destContents = document.querySelectorAll('.tab-content');
-    
-    destContents.forEach(content => {
-        if (!content.classList.contains('active')) {
-            content.style.display = 'none';
-        }
-    });
-
-    destTabs.forEach(tab => {
-        tab.addEventListener('click', () => {
-            destTabs.forEach(t => {
-                t.classList.remove('active', 'bg-blue-600', 'text-white', 'shadow-sm');
-                t.classList.add('text-slate-500');
-            });
-            destContents.forEach(c => {
-                c.classList.remove('active');
-                c.style.display = 'none';
-            });
-            
-            tab.classList.add('active', 'bg-blue-600', 'text-white', 'shadow-sm');
-            tab.classList.remove('text-slate-500');
-            
-            const targetId = tab.getAttribute('data-target');
-            const targetContent = document.getElementById(targetId);
-            if (targetContent) {
-                targetContent.classList.add('active');
-                targetContent.style.display = 'block';
+        // ==========================================
+        // 1. 获取设备信息及按钮渲染逻辑
+        // ==========================================
+        function getDeviceInfo() {
+            const ua = navigator.userAgent || navigator.vendor || window.opera;
+            if (/android/i.test(ua)) {
+                return {
+                    type: 'android',
+                    url: 'https://play.google.com/store/apps/details?id=com.usphonesimgo.app',
+                    iconHtml: `<svg viewBox="0 0 24 24" fill="white" class="w-6 h-6"><path d="M3 20.5v-17c0-.59.34-1.11.84-1.35L13.69 12 3.84 21.85C3.34 21.6 3 21.09 3 20.5m13.81-5.38-2.76-2.76-7.51 4.31 10.27-1.55m3.35-4.31c.34.27.59.69.59 1.19s-.25.92-.59 1.19l-2.27 1.31-2.5-2.5 2.5-2.5 2.27 1.31M6.05 2.66l10.76 6.22-2.27 2.27-8.49-8.49z"/></svg>`,
+                    text: btnTexts.googlePlay
+                };
+            } else if (/iPad|iPhone|iPod/.test(ua) && !window.MSStream) {
+                return {
+                    type: 'ios',
+                    url: 'https://apps.apple.com/app/id6747127122',
+                    iconHtml: `<svg viewBox="0 0 24 24" fill="white" class="w-6 h-6"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>`,
+                    text: btnTexts.appStore
+                };
+            } else {
+                return {
+                    type: 'web',
+                    url: 'https://www.phonesimgo.com',
+                    iconHtml: `<svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-6 h-6"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>`,
+                    text: btnTexts.officialWebsite
+                };
             }
-        });
-    });
-
-    // ==========================================
-    // 3. Free Banner Tab 切换
-    // ==========================================
-    const dlTabs = document.querySelectorAll('.dl-tab-btn');
-    const dlContents = document.querySelectorAll('.dl-tab-content');
-    dlTabs.forEach(tab => {
-        tab.addEventListener('click', () => {
-            dlTabs.forEach(t => {
-                t.setAttribute('aria-selected', 'false');
-                t.classList.remove('text-white', 'border-blue-500');
-                t.classList.add('text-slate-400', 'border-transparent');
-            });
-            dlContents.forEach(c => {
-                c.classList.remove('active');
-                c.classList.add('hidden');
-            });
-            
-            tab.setAttribute('aria-selected', 'true');
-            tab.classList.add('text-white', 'border-blue-500');
-            tab.classList.remove('text-slate-400', 'border-transparent');
-            
-            const targetId = tab.getAttribute('data-target');
-            const targetContent = document.getElementById(targetId);
-            if (targetContent) {
-                targetContent.classList.remove('hidden');
-                targetContent.classList.add('active');
-            }
-        });
-    });
-
-    // ==========================================
-    // 4. Download 区域 Tab 切换
-    // ==========================================
-    const bottomTabBtns = document.querySelectorAll('.dl-tab-btn2');
-    const bottomTabContents = document.querySelectorAll('.dl-tab-content2');
-    
-    bottomTabContents.forEach((content, idx) => {
-        if (idx === 0) {
-            content.style.display = 'block';
-        } else {
-            content.style.display = 'none';
         }
-    });
-    
-    bottomTabBtns.forEach(btn => {
-        btn.addEventListener('click', function(e) {
-            const targetId = this.getAttribute('data-target');
-            const targetContent = document.getElementById(targetId);
-            
-            bottomTabBtns.forEach(btnItem => {
-                btnItem.classList.remove('bg-blue-600', 'text-white');
-                btnItem.classList.add('text-slate-400');
+
+        function updateAllButtons() {
+            const info = getDeviceInfo();
+            const desktopIcon = document.querySelector('#btnIcon');
+            const desktopText = document.querySelector('#btnText');
+            if (desktopIcon) desktopIcon.innerHTML = info.iconHtml;
+            if (desktopText) desktopText.textContent = info.text;
+
+            const mobileBtns = document.querySelectorAll('.js-unified-download-btn');
+            mobileBtns.forEach(btn => {
+                const iconSpan = btn.querySelector('.js-btn-icon');
+                const textSpan = btn.querySelector('.mobile-btn-text');
+                if (iconSpan) iconSpan.innerHTML = info.iconHtml;
+                if (textSpan) textSpan.textContent = floatingBtnText;
+                btn.setAttribute('data-url', info.url);
+                btn.setAttribute('data-device-type', info.type);
             });
-            this.classList.add('bg-blue-600', 'text-white');
-            this.classList.remove('text-slate-400');
-            
-            bottomTabContents.forEach(content => {
+
+            const desktopBtn = document.querySelector('#unifiedDownloadBtn');
+            if (desktopBtn) desktopBtn.setAttribute('data-url', info.url);
+        }
+
+        updateAllButtons();
+
+        // ==========================================
+        // 2. Destinations Tab 切换
+        // ==========================================
+        const destTabs = document.querySelectorAll('.tab-btn');
+        const destContents = document.querySelectorAll('.tab-content');
+
+        destContents.forEach(content => {
+            if (!content.classList.contains('active')) {
                 content.style.display = 'none';
-            });
-            if (targetContent) {
-                targetContent.style.display = 'block';
             }
         });
-    });
 
-    // ==========================================
-    // 5. 弹窗逻辑（极简可靠版，不依赖外部元素）
-    // ==========================================
-    const modal = document.getElementById('redirect-modal');
-    const cancelBtn = document.getElementById('modal-cancel-btn');
-    const confirmBtn = document.getElementById('modal-confirm-btn');
-    let currentUrl = '';
+        destTabs.forEach(tab => {
+            tab.addEventListener('click', () => {
+                destTabs.forEach(t => {
+                    t.classList.remove('active', 'bg-blue-600', 'text-white', 'shadow-sm');
+                    t.classList.add('text-slate-500');
+                });
+                destContents.forEach(c => {
+                    c.classList.remove('active');
+                    c.style.display = 'none';
+                });
 
-    function openModal(url) {
-        currentUrl = url;
-        if (modal) {
-            modal.style.display = 'flex';
+                tab.classList.add('active', 'bg-blue-600', 'text-white', 'shadow-sm');
+                tab.classList.remove('text-slate-500');
+
+                const targetId = tab.getAttribute('data-target');
+                const targetContent = document.getElementById(targetId);
+                if (targetContent) {
+                    targetContent.classList.add('active');
+                    targetContent.style.display = 'block';
+                }
+            });
+        });
+
+        // ==========================================
+        // 3. Free Banner Tab 切换
+        // ==========================================
+        const dlTabs = document.querySelectorAll('.dl-tab-btn');
+        const dlContents = document.querySelectorAll('.dl-tab-content');
+        dlTabs.forEach(tab => {
+            tab.addEventListener('click', () => {
+                dlTabs.forEach(t => {
+                    t.setAttribute('aria-selected', 'false');
+                    t.classList.remove('text-white', 'border-blue-500');
+                    t.classList.add('text-slate-400', 'border-transparent');
+                });
+                dlContents.forEach(c => {
+                    c.classList.remove('active');
+                    c.classList.add('hidden');
+                });
+
+                tab.setAttribute('aria-selected', 'true');
+                tab.classList.add('text-white', 'border-blue-500');
+                tab.classList.remove('text-slate-400', 'border-transparent');
+
+                const targetId = tab.getAttribute('data-target');
+                const targetContent = document.getElementById(targetId);
+                if (targetContent) {
+                    targetContent.classList.remove('hidden');
+                    targetContent.classList.add('active');
+                }
+            });
+        });
+
+        // ==========================================
+        // 4. Download 区域 Tab 切换
+        // ==========================================
+        const bottomTabBtns = document.querySelectorAll('.dl-tab-btn2');
+        const bottomTabContents = document.querySelectorAll('.dl-tab-content2');
+
+        bottomTabContents.forEach((content, idx) => {
+            if (idx === 0) {
+                content.style.display = 'block';
+            } else {
+                content.style.display = 'none';
+            }
+        });
+
+        bottomTabBtns.forEach(btn => {
+            btn.addEventListener('click', function(e) {
+                const targetId = this.getAttribute('data-target');
+                const targetContent = document.getElementById(targetId);
+
+                bottomTabBtns.forEach(btnItem => {
+                    btnItem.classList.remove('bg-blue-600', 'text-white');
+                    btnItem.classList.add('text-slate-400');
+                });
+                this.classList.add('bg-blue-600', 'text-white');
+                this.classList.remove('text-slate-400');
+
+                bottomTabContents.forEach(content => {
+                    content.style.display = 'none';
+                });
+                if (targetContent) {
+                    targetContent.style.display = 'block';
+                }
+            });
+        });
+
+        // ==========================================
+        // 5. 弹窗逻辑（极简可靠版，不依赖外部元素）
+        // ==========================================
+        const modal = document.getElementById('redirect-modal');
+        const cancelBtn = document.getElementById('modal-cancel-btn');
+        const confirmBtn = document.getElementById('modal-confirm-btn');
+        let currentUrl = '';
+
+        function openModal(url) {
+            currentUrl = url;
+            if (modal) {
+                modal.style.display = 'flex';
+            }
         }
-    }
 
-    function closeModal() {
-        if (modal) modal.style.display = 'none';
-    }
+        function closeModal() {
+            if (modal) modal.style.display = 'none';
+        }
 
-    // 绑定所有触发弹窗的按钮
-    const triggerBtns = document.querySelectorAll('#unifiedDownloadBtn, .js-unified-download-btn, .js-download-link');
-    triggerBtns.forEach(btn => {
-        btn.addEventListener('click', (e) => {
-            e.preventDefault();
-            const url = btn.getAttribute('data-url') || btn.getAttribute('href');
-            if (url) openModal(url);
+        // 绑定所有触发弹窗的按钮
+        const triggerBtns = document.querySelectorAll('#unifiedDownloadBtn, .js-unified-download-btn, .js-download-link');
+        triggerBtns.forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                e.preventDefault();
+                const url = btn.getAttribute('data-url') || btn.getAttribute('href');
+                if (url) openModal(url);
+            });
         });
+
+        if (cancelBtn) cancelBtn.addEventListener('click', closeModal);
+        if (confirmBtn) {
+            confirmBtn.addEventListener('click', () => {
+                if (currentUrl) window.open(currentUrl, '_blank', 'noopener,noreferrer');
+                closeModal();
+            });
+        }
+        if (modal) {
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) closeModal();
+            });
+        }
     });
-
-    if (cancelBtn) cancelBtn.addEventListener('click', closeModal);
-    if (confirmBtn) {
-        confirmBtn.addEventListener('click', () => {
-            if (currentUrl) window.open(currentUrl, '_blank', 'noopener,noreferrer');
-            closeModal();
-        });
-    }
-    if (modal) {
-        modal.addEventListener('click', (e) => {
-            if (e.target === modal) closeModal();
-        });
-    }
-});
 </script>
 {{ if .Params.faq }}
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {{ range $index, $item := .Params.faq.items }}
     {
-      "@type": "Question",
-      "name": {{ $item.q | jsonify }},
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": {{ $item.a | jsonify }}
-      }
-    }{{ if ne $index (sub (len $.Params.faq.items) 1) }},{{ end }}
-    {{ end }}
-  ]
-}
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {{ range $index, $item := .Params.faq.items }} {
+                "@type": "Question",
+                "name": {{ $item.q | jsonify }},
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": {{ $item.a | jsonify }}
+                }
+            } {{ if ne $index (sub (len $.Params.faq.items) 1) }}, {{ end }} {{ end }}
+        ]
+    }
 </script>
 {{ end }}
 </body>
