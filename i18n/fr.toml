@@ -363,3 +363,81 @@ other = "30%"
 
 [vp_save_tag]
 other = "🔥 Économisez plus"
+
+[compare_title]
+other = "Comparaison eSIM gratuite : Roami vs Airalo vs Holafly – qui offre le meilleur essai gratuit ?"
+
+[compare_subtitle]
+other = "Comparaison honnête — découvrez pourquoi les voyageurs choisissent l'essai gratuit eSIM de Roami"
+
+[compare_col_feature]
+other = "Fonctionnalité"
+
+[compare_col_roami]
+other = "Roami"
+
+[compare_col_airalo]
+other = "Airalo"
+
+[compare_col_holafly]
+other = "Holafly"
+
+[compare_row_trial]
+other = "Essai gratuit"
+
+[compare_roami_trial]
+other = "✅ 100 Mo"
+
+[compare_airalo_trial]
+other = "❌"
+
+[compare_holafly_trial]
+other = "❌"
+
+[compare_row_card]
+other = "Carte de crédit requise"
+
+[compare_roami_card]
+other = "✅ Non"
+
+[compare_airalo_card]
+other = "Oui"
+
+[compare_holafly_card]
+other = "Oui"
+
+[compare_row_coverage]
+other = "Couverture"
+
+[compare_roami_coverage]
+other = "200+ pays"
+
+[compare_airalo_coverage]
+other = "200+ pays"
+
+[compare_holafly_coverage]
+other = "200+ pays"
+
+[compare_row_paid]
+other = "Forfaits payants à partir de"
+
+[compare_roami_paid]
+other = "$1.99"
+
+[compare_airalo_paid]
+other = "$4.50"
+
+[compare_holafly_paid]
+other = "$5.90"
+
+[compare_row_support]
+other = "Assistance"
+
+[compare_roami_support]
+other = "✅ 24/7"
+
+[compare_airalo_support]
+other = "—"
+
+[compare_holafly_support]
+other = "✅ 24/7"

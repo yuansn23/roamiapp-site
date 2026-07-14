@@ -354,3 +354,81 @@ other = "30%"
 
 [vp_save_tag]
 other = "🔥 さらにお得"
+
+[compare_title]
+other = "無料eSIM比較：Roami vs Airalo vs Holafly – 最高の無料トライアルを提供するのは？"
+
+[compare_subtitle]
+other = "正直な比較 — 旅行者がRoamiの無料eSIMトライアルを選ぶ理由"
+
+[compare_col_feature]
+other = "機能"
+
+[compare_col_roami]
+other = "Roami"
+
+[compare_col_airalo]
+other = "Airalo"
+
+[compare_col_holafly]
+other = "Holafly"
+
+[compare_row_trial]
+other = "無料トライアル"
+
+[compare_roami_trial]
+other = "✅ 100MB"
+
+[compare_airalo_trial]
+other = "❌"
+
+[compare_holafly_trial]
+other = "❌"
+
+[compare_row_card]
+other = "クレジットカードの必要性"
+
+[compare_roami_card]
+other = "✅ 不要"
+
+[compare_airalo_card]
+other = "必要"
+
+[compare_holafly_card]
+other = "必要"
+
+[compare_row_coverage]
+other = "対応エリア"
+
+[compare_roami_coverage]
+other = "200+ カ国"
+
+[compare_airalo_coverage]
+other = "200+ カ国"
+
+[compare_holafly_coverage]
+other = "200+ カ国"
+
+[compare_row_paid]
+other = "有料プラン（最安値）"
+
+[compare_roami_paid]
+other = "$1.99"
+
+[compare_airalo_paid]
+other = "$4.50"
+
+[compare_holafly_paid]
+other = "$5.90"
+
+[compare_row_support]
+other = "カスタマーサポート"
+
+[compare_roami_support]
+other = "✅ 24/7"
+
+[compare_airalo_support]
+other = "—"
+
+[compare_holafly_support]
+other = "✅ 24/7"

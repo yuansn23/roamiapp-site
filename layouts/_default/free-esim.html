@@ -12,7 +12,7 @@
     
    <link rel="canonical" href="{{ .Permalink | replaceRE "\\?.*$" "" }}">
     
-	{{ if .IsTranslated }}
+    {{ if .IsTranslated }}
     {{ range .AllTranslations }}
     <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
     {{ end }}
@@ -40,113 +40,168 @@
 
     <link href="/css/tailwind-compiled.css" rel="stylesheet">
     
-    <!-- 移动端样式优化：Hero区域紧凑化 + 弹出框精致化，确保首屏可见按钮 -->
     <style>
-        /* 手机端整体字体微调，重点压缩 Hero 区域高度 */
+        /* ===== 移动端基础优化 ===== */
         @media (max-width: 768px) {
-            body {
-                font-size: 15px;
-            }
-            /* 压缩 Hero 区域的内边距和标题大小 */
+            body { font-size: 15px; }
             .bg-gradient-to-b.from-blue-50.to-slate-50 {
                 padding-top: 1.75rem !important;
                 padding-bottom: 2rem !important;
             }
-            h1 {
-                font-size: 1.6rem !important;
-                margin-bottom: 0.75rem !important;
-            }
-            .hero-subtitle {
-                font-size: 0.9rem !important;
-                margin-bottom: 1.25rem !important;
-            }
-            .trust-badges {
-                margin-bottom: 1.25rem !important;
-                gap: 0.5rem !important;
-            }
-            .cta-buttons {
-                margin-bottom: 1.25rem !important;
-                gap: 0.75rem !important;
-            }
-            .cta-buttons a {
-                padding: 0.6rem 1rem !important;
-                font-size: 0.9rem !important;
-            }
-            .trustpilot-widget {
-                margin-bottom: 1rem !important;
-                transform: scale(0.9);
-            }
-            .search-form {
-                margin-top: 0.5rem !important;
-            }
-            .search-form input {
-                padding: 0.6rem 0.8rem 0.6rem 2.5rem !important;
-                font-size: 0.9rem !important;
-            }
-            /* 其他字体保持之前优化 */
-            h2 {
-                font-size: 1.5rem !important;
-            }
-            .text-3xl {
-                font-size: 1.6rem !important;
-            }
-            .text-xl {
-                font-size: 1.2rem !important;
-            }
-            .text-lg {
-                font-size: 1rem !important;
-            }
-            .text-base {
-                font-size: 0.9rem !important;
-            }
-            .text-sm {
-                font-size: 0.8rem !important;
-            }
-            .text-xs {
-                font-size: 0.7rem !important;
-            }
+            h1 { font-size: 1.6rem !important; margin-bottom: 0.75rem !important; }
+            .hero-subtitle { font-size: 0.9rem !important; margin-bottom: 1.25rem !important; }
+            .trust-badges { margin-bottom: 1.25rem !important; gap: 0.5rem !important; }
+            .cta-buttons { margin-bottom: 1.25rem !important; gap: 0.75rem !important; }
+            .cta-buttons a { padding: 0.6rem 1rem !important; font-size: 0.9rem !important; }
+            .trustpilot-widget { margin-bottom: 1rem !important; transform: scale(0.9); }
+            .search-form { margin-top: 0.5rem !important; }
+            .search-form input { padding: 0.6rem 0.8rem 0.6rem 2.5rem !important; font-size: 0.9rem !important; }
+            h2 { font-size: 1.5rem !important; }
+            .text-3xl { font-size: 1.6rem !important; }
+            .text-xl { font-size: 1.2rem !important; }
+            .text-lg { font-size: 1rem !important; }
+            .text-base { font-size: 0.9rem !important; }
+            .text-sm { font-size: 0.8rem !important; }
+            .text-xs { font-size: 0.7rem !important; }
+            .country-grid { gap: 0.75rem !important; }
+            .country-card { padding: 0.75rem !important; }
+            .compare-table-wrap { overflow-x: auto; }
+            .compare-table-wrap table { font-size: 0.75rem; min-width: 480px; }
+            .compare-table-wrap th, .compare-table-wrap td { padding: 0.5rem 0.4rem !important; }
+            .claim-stats { font-size: 0.9rem !important; }
             
-            /* 弹出框（Modal）优化：更窄，内边距更小 */
             #esimModal .relative.transform {
                 max-width: 95% !important;
                 width: 95% !important;
                 margin: 0 auto;
             }
-            #esimModal .bg-slate-50.px-6.py-6 {
-                padding: 1rem !important;
-            }
+            #esimModal .bg-slate-50.px-6.py-6 { padding: 1rem !important; }
             #esimModal .px-6.py-6.h-\[60vh\] {
                 padding: 1rem !important;
                 height: auto !important;
                 max-height: 70vh;
             }
-            #esimModal .grid-cols-1.sm\:grid-cols-2 {
-                gap: 0.75rem !important;
-            }
-            #esimModal .mb-6 {
-                margin-bottom: 1rem !important;
-            }
-            #esimModal .text-2xl {
-                font-size: 1.4rem !important;
-            }
-            #esimModal .text-4xl {
-                font-size: 1.8rem !important;
-            }
-            #esimModal .p-5 {
-                padding: 0.8rem !important;
-            }
-            #esimModal .rounded-xl {
-                border-radius: 0.8rem !important;
-            }
+            #esimModal .grid-cols-1.sm\:grid-cols-2 { gap: 0.75rem !important; }
+            #esimModal .mb-6 { margin-bottom: 1rem !important; }
+            #esimModal .text-2xl { font-size: 1.4rem !important; }
+            #esimModal .text-4xl { font-size: 1.8rem !important; }
+            #esimModal .p-5 { padding: 0.8rem !important; }
+            #esimModal .rounded-xl { border-radius: 0.8rem !important; }
             #esimModal button, #esimModal a {
                 padding-top: 0.6rem !important;
                 padding-bottom: 0.6rem !important;
                 font-size: 0.9rem !important;
             }
         }
+
+        /* ===== H1 ===== */
+        .page-h1 {
+            font-size: 2.25rem;
+            line-height: 1.2;
+        }
+        @media (min-width: 640px) {
+            .page-h1 { font-size: 2.75rem; }
+        }
+        @media (min-width: 1024px) {
+            .page-h1 { font-size: 3.25rem; }
+        }
+
+        /* ===== 按钮优先级 ===== */
+        .btn-claim-primary {
+            background-color: #2563eb;
+            color: white;
+            font-weight: 700;
+        }
+        .btn-claim-primary:hover {
+            background-color: #1d4ed8;
+        }
+        .btn-claim-secondary {
+            background-color: #f1f5f9;
+            color: #1e293b;
+            font-weight: 500;
+            border: 1px solid #cbd5e1;
+        }
+        .btn-claim-secondary:hover {
+            background-color: #e2e8f0;
+        }
+
+        /* ===== 对比表格 ===== */
+        .compare-table-wrap table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.875rem;
+        }
+        .compare-table-wrap th {
+            background: #f1f5f9;
+            text-align: left;
+            padding: 0.75rem 1rem;
+            font-weight: 700;
+            color: #0f172a;
+            border-bottom: 2px solid #e2e8f0;
+        }
+        .compare-table-wrap td {
+            padding: 0.75rem 1rem;
+            border-bottom: 1px solid #e2e8f0;
+            color: #334155;
+        }
+        .compare-table-wrap .highlight-row td {
+            background-color: #eff6ff;
+        }
+        .compare-table-wrap .check {
+            color: #22c55e;
+            font-weight: 700;
+        }
+        .compare-table-wrap .cross {
+            color: #ef4444;
+        }
+
+        /* ===== 社交证明计数器 ===== */
+        .claim-counter {
+            background: linear-gradient(135deg, #f0f9ff, #e0f2fe);
+            border: 1px solid #bae6fd;
+            border-radius: 9999px;
+            padding: 0.35rem 1.25rem;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: #0369a1;
+        }
+        .claim-counter .num {
+            color: #1d4ed8;
+            font-size: 1.1rem;
+        }
+        @media (max-width: 640px) {
+            .claim-counter { font-size: 0.7rem; padding: 0.25rem 0.75rem; }
+            .claim-counter .num { font-size: 0.9rem; }
+        }
     </style>
 
-    <!-- WebPage Schema (无变化) -->
+    <!-- ===== Product/Offer Schema ===== -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Roami Free eSIM Trial — 100MB Data",
+      "description": "Free eSIM trial with 100MB data, no credit card required, covering 200+ countries worldwide.",
+      "brand": { "@type": "Brand", "name": "Roami" },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "eligibleCustomerType": "https://schema.org/NewCustomer"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.7",
+        "reviewCount": "13378"
+      }
+    }
+    </script>
+
+    <!-- ===== WebPage Schema ===== -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -157,7 +212,7 @@
     }
     </script>
 
-    <!-- 修复 ItemList：将每个条目的 url 改为对应国家的独立页面（而非锚点） -->
+    <!-- ===== ItemList Schema ===== -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -187,7 +242,7 @@
     }
     </script>
 
-    <!-- 修复 FAQPage：确保问题和答案中的特殊字符被正确转义 (使用 jsonify) -->
+    <!-- ===== FAQPage Schema (支持 extra FAQ) ===== -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -204,6 +259,18 @@
           }
         }
         {{ end }}
+        {{ if .Params.faq.extra }}
+        {{ range $index, $extra := .Params.faq.extra }}
+        ,{
+          "@type": "Question",
+          "name": {{ $extra.question | jsonify }},
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": {{ $extra.answer | plainify | jsonify }}
+          }
+        }
+        {{ end }}
+        {{ end }}
       ]
     }
     </script>
@@ -213,11 +280,26 @@
 {{ partial "header.html" . }}
 
 <main class="flex-grow">
+    <!-- ============================================================ -->
+    <!-- HERO 区域                                                    -->
+    <!-- ============================================================ -->
     <section class="relative bg-gradient-to-b from-blue-50 to-slate-50 border-b border-slate-200 pt-24 pb-12 sm:pt-32 sm:pb-16 px-4 sm:px-6 lg:px-8 text-center">
         <div class="relative max-w-3xl mx-auto">
-            <h1 class="text-3xl sm:text-4xl md:text-5xl font-extrabold text-slate-900 mb-4 tracking-tight leading-tight">
-                {{ .Params.hero.title }}
+
+            <!-- H1 -->
+            <h1 class="page-h1 font-extrabold text-slate-900 mb-4 tracking-tight">
+                {{ .Params.hero.title | default "Free eSIM Trial — 100MB Data, No Credit Card, 200+ Countries" }}
             </h1>
+
+            <!-- 社交证明 -->
+            <div class="mb-4 flex justify-center">
+                <span class="claim-counter">
+                    <span aria-hidden="true">🚀</span>
+                    <span class="num">{{ .Params.hero.claim_count | default "12,847" }}</span>
+                    {{ .Params.hero.claim_label | default "travelers claimed their free eSIM today" }}
+                </span>
+            </div>
+
             <p class="text-slate-600 text-base sm:text-lg mb-6 max-w-xl mx-auto hero-subtitle">
                 {{ .Params.hero.subtitle }}
             </p>
@@ -234,8 +316,8 @@
                 <a href="#popularSection" class="w-full sm:w-auto px-8 py-3.5 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-xl shadow-lg hover:shadow-xl transition-all text-lg">
                     {{ .Params.hero.cta_primary }}
                 </a>
-                <a href="#allCountriesList" class="w-full sm:w-auto px-8 py-3.5 bg-white hover:bg-slate-50 text-slate-700 font-medium rounded-xl border border-slate-300 shadow-sm transition-all text-base">
-                    {{ .Params.hero.cta_secondary }}
+                <a href="#compareSection" class="w-full sm:w-auto px-8 py-3.5 bg-white hover:bg-slate-50 text-slate-700 font-medium rounded-xl border border-slate-300 shadow-sm transition-all text-base">
+                    {{ .Params.hero.cta_compare | default "See How We Compare →" }}
                 </a>
             </div>
 
@@ -244,6 +326,8 @@
                   <a href="https://www.trustpilot.com/review/roamiapp.com" target="_blank" rel="noopener">Trustpilot</a>
                 </div>
             </div>
+
+            <!-- 搜索框 -->
             <form role="search" onsubmit="event.preventDefault();" class="relative max-w-xl mx-auto search-form">
                 <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none" aria-hidden="true">
                     <svg class="h-5 w-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
@@ -259,7 +343,9 @@
         </div>
     </section>
 
-    <!-- 优化部分：移动端一排两列，更加紧凑，字体缩小 -->
+    <!-- ============================================================ -->
+    <!-- 价值主张 (4个卡片)                                           -->
+    <!-- ============================================================ -->
     <section class="max-w-[90rem] mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-10">
         <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-6" role="list">
             {{ range .Params.value_props }}
@@ -272,31 +358,96 @@
         </div>
     </section>
 
+
+ <!-- ============================================================ -->
+        <!-- 竞品对比表 - 已删除 Local Phone Number 行和脚注            -->
+        <!-- ============================================================ -->
+       <!-- ============================================================ -->
+<!-- 竞品对比表 - 全部文案从多语言配置读取                         -->
+<!-- ============================================================ -->
+<section id="compareSection" class="mt-24 mb-16 scroll-mt-24 max-w-4xl mx-auto">
+    <h2 class="text-2xl sm:text-3xl font-extrabold text-slate-900 text-center mb-3">
+        {{ .Params.compare.title | default (i18n "compare_title") }}
+    </h2>
+    <p class="text-center text-slate-600 mb-8 max-w-xl mx-auto">
+        {{ .Params.compare.subtitle | default (i18n "compare_subtitle") }}
+    </p>
+
+    <div class="compare-table-wrap bg-white rounded-2xl border border-slate-200 shadow-sm overflow-hidden">
+        <table>
+            <thead>
+                <tr>
+                    <th>{{ .Params.compare.col_feature | default (i18n "compare_col_feature") }}</th>
+                    <th class="text-center">{{ .Params.compare.col_roami | default (i18n "compare_col_roami") }}</th>
+                    <th class="text-center">{{ .Params.compare.col_airalo | default (i18n "compare_col_airalo") }}</th>
+                    <th class="text-center">{{ .Params.compare.col_holafly | default (i18n "compare_col_holafly") }}</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="highlight-row">
+                    <td><strong>{{ .Params.compare.row_trial | default (i18n "compare_row_trial") }}</strong></td>
+                    <td class="text-center"><span class="check">{{ .Params.compare.roami_trial | default (i18n "compare_roami_trial") }}</span></td>
+                    <td class="text-center"><span class="cross">{{ .Params.compare.airalo_trial | default (i18n "compare_airalo_trial") }}</span></td>
+                    <td class="text-center"><span class="cross">{{ .Params.compare.holafly_trial | default (i18n "compare_holafly_trial") }}</span></td>
+                </tr>
+                <tr class="highlight-row">
+                    <td><strong>{{ .Params.compare.row_card | default (i18n "compare_row_card") }}</strong></td>
+                    <td class="text-center"><span class="check">{{ .Params.compare.roami_card | default (i18n "compare_roami_card") }}</span></td>
+                    <td class="text-center"><span class="cross">{{ .Params.compare.airalo_card | default (i18n "compare_airalo_card") }}</span></td>
+                    <td class="text-center"><span class="cross">{{ .Params.compare.holafly_card | default (i18n "compare_holafly_card") }}</span></td>
+                </tr>
+                <tr>
+                    <td><strong>{{ .Params.compare.row_coverage | default (i18n "compare_row_coverage") }}</strong></td>
+                    <td class="text-center">{{ .Params.compare.roami_coverage | default (i18n "compare_roami_coverage") }}</td>
+                    <td class="text-center">{{ .Params.compare.airalo_coverage | default (i18n "compare_airalo_coverage") }}</td>
+                    <td class="text-center">{{ .Params.compare.holafly_coverage | default (i18n "compare_holafly_coverage") }}</td>
+                </tr>
+                <tr>
+                    <td><strong>{{ .Params.compare.row_paid | default (i18n "compare_row_paid") }}</strong></td>
+                    <td class="text-center font-bold text-blue-600">{{ .Params.compare.roami_paid | default (i18n "compare_roami_paid") }}</td>
+                    <td class="text-center">{{ .Params.compare.airalo_paid | default (i18n "compare_airalo_paid") }}</td>
+                    <td class="text-center">{{ .Params.compare.holafly_paid | default (i18n "compare_holafly_paid") }}</td>
+                </tr>
+                <tr>
+                    <td><strong>{{ .Params.compare.row_support | default (i18n "compare_row_support") }}</strong></td>
+                    <td class="text-center"><span class="check">{{ .Params.compare.roami_support | default (i18n "compare_roami_support") }}</span></td>
+                    <td class="text-center"><span class="cross">{{ .Params.compare.airalo_support | default (i18n "compare_airalo_support") }}</span></td>
+                    <td class="text-center"><span class="check">{{ .Params.compare.holafly_support | default (i18n "compare_holafly_support") }}</span></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</section>
+		
+    <!-- ============================================================ -->
+    <!-- 国家列表                                                    -->
+    <!-- ============================================================ -->
     <div class="max-w-[90rem] mx-auto px-4 sm:px-6 lg:px-8 py-6">
         
+        <!-- 热门国家 -->
         <section id="popularSection" class="mb-12 scroll-mt-24">
-            <div class="flex items-center mb-6">
-                <h2 class="text-xl font-bold text-slate-900 flex items-center">
-                    <span class="bg-orange-100 p-1.5 rounded-md mr-2" aria-hidden="true">🔥</span>
-                    {{ .Params.ui.popular_section.title }}
-                </h2>
-            </div>
+            <h2 class="text-xl font-bold text-slate-900 flex items-center mb-6">
+                <span class="bg-orange-100 p-1.5 rounded-md mr-2" aria-hidden="true">🔥</span>
+                {{ .Params.ui.popular_section.title }}
+            </h2>
             
-            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 sm:gap-6" role="list">
-                {{ range .Params.popular_esims }}
-                <article class="group flex flex-col bg-white rounded-2xl p-4 border border-slate-200 shadow-sm hover:shadow-lg hover:border-blue-300 transition-all duration-300 relative cursor-pointer" onclick="openModal('{{ .slug }}')" role="listitem" aria-label="{{ .name }} Free Trial">
+            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 sm:gap-6 country-grid" role="list">
+                {{ range $idx, $country := .Params.popular_esims }}
+                <article class="country-card group flex flex-col bg-white rounded-2xl p-4 border border-slate-200 shadow-sm hover:shadow-lg hover:border-blue-300 transition-all duration-300 relative cursor-pointer" onclick="openModal('{{ .slug }}')" role="listitem" aria-label="{{ .name }} Free Trial" data-name="{{ .name }}" data-initial="{{ .initial }}">
                     <div class="absolute top-0 right-0 bg-orange-500 text-white text-[10px] font-bold px-2 py-0.5 rounded-bl-lg rounded-tr-xl z-10">{{ $.Params.ui.popular_section.hot_badge }}</div>
                     <div class="flex flex-col items-center text-center flex-grow">
                         <div class="w-16 h-12 mb-3 rounded-md overflow-hidden border border-slate-100 shadow-sm">
                             <img src="/img/flags/{{ .code | lower }}.svg" alt="Flag of {{ .name }}" loading="lazy" class="w-full h-full object-cover">
                         </div>
                         <h3 class="text-base font-bold text-slate-900 mb-1">{{ $.Params.ui.card.title_prefix }}{{ .name }}</h3>
-                        <p class="text-[11px] text-slate-500 mb-2">{{ $.Params.ui.card.network }}</p>
-                        <div class="mt-auto mb-3">
+                        <p class="text-[11px] text-slate-500 mb-1">{{ $.Params.ui.card.network }}</p>
+                        <div class="mt-auto mb-2">
                             <span class="text-xl font-black text-emerald-600">{{ $.Params.ui.card.price }}</span>
                         </div>
                     </div>
-                    <button class="w-full block text-center bg-slate-900 group-hover:bg-blue-600 text-white font-medium py-2 px-4 rounded-lg transition-colors duration-200 text-sm" aria-hidden="true">
+                    <!-- 升级钩子已删除 -->
+                    <!-- 主按钮 -->
+                    <button class="w-full block text-center btn-claim-primary font-medium py-2 px-4 rounded-lg transition-colors duration-200 text-sm mt-2" aria-hidden="true" onclick="event.stopPropagation();openModal('{{ .slug }}')">
                         {{ $.Params.ui.card.btn_popular }}
                     </button>
                 </article>
@@ -304,6 +455,7 @@
             </div>
         </section>
 
+        <!-- 所有国家 -->
         <section id="allCountriesList" class="scroll-mt-24">
             <div class="flex flex-col md:flex-row md:items-center justify-between mb-6 gap-4">
                 <h2 class="text-xl font-bold text-slate-900 flex items-center whitespace-nowrap">
@@ -313,12 +465,12 @@
                 
                 <div class="flex items-center gap-2">
                     <span class="text-xs font-bold text-slate-400 uppercase tracking-wider hidden sm:inline-block">{{ .Params.ui.all_countries_section.quick_index }}</span>
-                    <nav id="azNavContainer" class="flex flex-wrap items-center gap-1 bg-white px-2 py-1.5 rounded-lg border border-slate-200 shadow-sm" aria-label="A to Z Index">
-                        </nav>
+                    <nav id="azNavContainer" class="flex flex-wrap items-center gap-1 bg-white px-2 py-1.5 rounded-lg border border-slate-200 shadow-sm" aria-label="A to Z Index"></nav>
                 </div>
             </div>
-            
-            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 sm:gap-6" role="list">
+
+            <!-- 所有国家卡片 -->
+            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 sm:gap-6 country-grid" role="list" id="allCountriesGrid">
                 {{ range .Params.countries }}
                 <article class="country-card group flex flex-col bg-white rounded-2xl p-4 border border-slate-200 shadow-sm hover:shadow-lg hover:border-blue-300 transition-all duration-300 cursor-pointer" data-name="{{ .name }}" data-initial="{{ .initial }}" onclick="openModal('{{ .slug }}')" role="listitem" aria-label="{{ .name }} Free Trial">
                     <div class="flex flex-col items-center text-center flex-grow">
@@ -326,18 +478,21 @@
                             <img src="/img/flags/{{ .code | lower }}.svg" alt="Flag of {{ .name }}" loading="lazy" class="w-full h-full object-cover">
                         </div>
                         <h3 class="text-base font-bold text-slate-900 mb-1">{{ $.Params.ui.card.title_prefix }}{{ .name }}</h3>
-                        <p class="text-[11px] text-slate-500 mb-2">{{ $.Params.ui.card.network }}</p>
-                        <div class="mt-auto mb-3">
+                        <p class="text-[11px] text-slate-500 mb-1">{{ $.Params.ui.card.network }}</p>
+                        <div class="mt-auto mb-2">
                             <span class="text-xl font-black text-emerald-600">{{ $.Params.ui.card.price }}</span>
                         </div>
                     </div>
-                    <button class="w-full block text-center bg-slate-900 group-hover:bg-blue-600 text-white font-medium py-2 px-4 rounded-lg transition-colors duration-200 text-sm" aria-hidden="true">
+                    <!-- 升级钩子已删除 -->
+                    <!-- 次级按钮 -->
+                    <button class="w-full block text-center btn-claim-secondary font-medium py-2 px-4 rounded-lg transition-colors duration-200 text-sm mt-2" aria-hidden="true" onclick="event.stopPropagation();openModal('{{ .slug }}')">
                         {{ $.Params.ui.card.btn_all }}
                     </button>
                 </article>
                 {{ end }}
             </div>
 
+            <!-- 无结果提示 -->
             <div id="noResults" aria-live="polite" class="hidden text-center py-16 bg-white rounded-2xl border border-slate-200 mt-4">
                 <p class="text-slate-600 text-lg">
                     {{ .Params.ui.all_countries_section.no_results_text }} <a href="{{ "/plans/" | relLangURL }}" class="text-blue-600 font-medium hover:underline">{{ .Params.ui.all_countries_section.no_results_link }}</a>
@@ -345,6 +500,11 @@
             </div>
         </section>
 
+       
+
+        <!-- ============================================================ -->
+        <!-- FAQ 区域                                                     -->
+        <!-- ============================================================ -->
         <section class="mt-48 mb-20 sm:mt-64 max-w-4xl mx-auto">
             <div class="text-center mb-10">
                 <h2 class="text-3xl font-extrabold text-slate-900 sm:text-4xl">{{ .Params.faq.heading }}</h2>
@@ -366,13 +526,32 @@
                     </div>
                 </details>
                 {{ end }}
+                <!-- 额外 FAQ（若有） -->
+                {{ if .Params.faq.extra }}
+                {{ range $index, $extra := .Params.faq.extra }}
+                <details role="listitem" class="group rounded-2xl bg-white p-6 border border-slate-200 shadow-sm [&_summary::-webkit-details-marker]:hidden open:ring-2 open:ring-blue-500/20 open:border-blue-300 transition-all duration-300">
+                    <summary class="flex cursor-pointer items-center justify-between gap-1.5 text-slate-900 outline-none">
+                        <h3 class="text-lg font-bold text-slate-800 group-hover:text-blue-600 transition-colors pr-4">{{ $extra.question }}</h3>
+                        <span class="relative h-6 w-6 shrink-0 text-blue-600 bg-blue-50 rounded-full flex items-center justify-center group-hover:bg-blue-100 transition-colors" aria-hidden="true">
+                            <svg class="absolute h-4 w-4 opacity-100 group-open:opacity-0 transition-opacity duration-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" /></svg>
+                            <svg class="absolute h-4 w-4 opacity-0 group-open:opacity-100 transition-opacity duration-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12h-15" /></svg>
+                        </span>
+                    </summary>
+                    <div class="mt-4 text-slate-600 leading-relaxed text-base border-t border-slate-100 pt-4">
+                        {{ $extra.answer | safeHTML }}
+                    </div>
+                </details>
+                {{ end }}
+                {{ end }}
             </div>
         </section>
 
     </div>
 </main>
 
-<!-- Modal 内容保持不变（未删减） -->
+<!-- ============================================================ -->
+<!-- Modal (内容完全沿用原数据字段)                               -->
+<!-- ============================================================ -->
 <div id="esimModal" class="fixed inset-0 z-50 hidden" aria-labelledby="modal-title" role="dialog" aria-modal="true">
     <div class="fixed inset-0 bg-slate-900/60 backdrop-blur-sm transition-opacity" onclick="closeModal()"></div>
     <div class="fixed inset-0 z-10 overflow-y-auto">
@@ -399,9 +578,6 @@
                         </div>
 
                         <div class="px-6 py-6 h-[60vh] sm:h-auto overflow-y-auto">
-                            {{ $randNum := add 322 (mod (mul (len .name) 43) 970) }}
-                            
-
                             <div class="bg-gradient-to-r from-blue-600 to-blue-800 rounded-xl p-6 text-white mb-6 shadow-lg relative overflow-hidden">
                                 <svg class="absolute right-0 top-0 h-full w-32 text-white/10 transform translate-x-8" fill="currentColor" viewBox="0 0 100 100" aria-hidden="true"><path d="M50 0L100 50L50 100L0 50Z"/></svg>
                                 <div class="relative z-10 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
@@ -448,8 +624,6 @@
                                 </div>
                             </div>
 
-                          
-
                             {{ if and .details .details.tips }}
                             <div class="mb-6">
                                 <h3 class="text-lg font-bold text-slate-900 mb-3 flex items-center gap-2">
@@ -466,18 +640,14 @@
                             </div>
                             {{ end }}
 
-                          
-
                         </div>
 
                         <div class="bg-slate-50 px-6 py-4 border-t border-slate-200">
                             <div class="flex flex-col sm:flex-row-reverse gap-3 justify-start items-center sm:items-start mb-4">
                                 <div class="w-full sm:w-auto flex flex-col items-center">
                                     <a onclick="handleBuyNow()" target="_blank" rel="noopener noreferrer" class="w-full sm:w-auto inline-flex justify-center items-center rounded-xl bg-white px-8 py-3 text-base font-bold text-black shadow-md hover:bg-gray-100 hover:shadow-lg transition-all focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-black">
-                                      
                                         {{ $.Params.ui.modal.btn_claim | default "Claim Free Trial" }}
                                     </a>
-                                
                                 </div>
                                 
                                 <a href="{{ (printf "/%s-esim/" .slug) | relLangURL }}" class="w-full sm:w-auto inline-flex justify-center items-center rounded-xl bg-white border border-slate-300 px-6 py-3 text-base font-medium text-slate-700 shadow-sm hover:bg-slate-50 hover:text-blue-600 transition-all focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 mt-2 sm:mt-0">
@@ -490,7 +660,7 @@
                                   <a href="https://www.trustpilot.com/review/roamiapp.com" target="_blank" rel="noopener">Trustpilot</a>
                                 </div>
                             </div>
-                            </div>
+                        </div>
 
                     </div>
                     {{ end }}
@@ -504,7 +674,9 @@
 {{ partial "footer.html" . }}
 
 <script>
-// Modal control logic (保持不变)
+// =============================================================
+// Modal 控制
+// =============================================================
 function openModal(slug) {
     document.querySelectorAll('.country-modal-content').forEach(el => el.classList.add('hidden'));
     const targetContent = document.getElementById(`modal-${slug}`);
@@ -526,16 +698,19 @@ window.addEventListener('popstate', function() {
     }
 });
 
+// =============================================================
+// DOMContentLoaded: 搜索、A-Z导航
+// =============================================================
 document.addEventListener('DOMContentLoaded', function() {
     const searchInput = document.getElementById('searchInput');
-    const countryCards = document.querySelectorAll('.country-card');
+    const allCountryCards = document.querySelectorAll('#allCountriesGrid .country-card');
     const popularSection = document.getElementById('popularSection');
     const noResults = document.getElementById('noResults');
     const azNavContainer = document.getElementById('azNavContainer');
 
-    // A-Z Navigation Generation
+    // ---------- A-Z Navigation ----------
     const availableInitials = new Set();
-    countryCards.forEach(card => {
+    allCountryCards.forEach(card => {
         const initial = card.getAttribute('data-initial');
         if (initial) availableInitials.add(initial.toUpperCase());
     });
@@ -548,7 +723,9 @@ document.addEventListener('DOMContentLoaded', function() {
         btn.textContent = letter;
         
         btn.addEventListener('click', () => {
-            const targetCard = Array.from(countryCards).find(card => card.getAttribute('data-initial').toUpperCase() === letter && card.style.display !== 'none');
+            const targetCard = Array.from(allCountryCards).find(
+                card => card.getAttribute('data-initial').toUpperCase() === letter && card.style.display !== 'none'
+            );
             if (targetCard) {
                 const y = targetCard.getBoundingClientRect().top + window.scrollY - 120;
                 window.scrollTo({ top: y, behavior: 'smooth' });
@@ -560,34 +737,41 @@ document.addEventListener('DOMContentLoaded', function() {
         azNavContainer.appendChild(btn);
     });
 
-    // Search Logic
-    searchInput.addEventListener('input', function(e) {
-        const searchTerm = e.target.value.toLowerCase().trim();
+    // ---------- 搜索过滤 ----------
+    function applySearchFilter(term) {
         let visibleCount = 0;
-
-        if (searchTerm.length > 0) {
+        
+        allCountryCards.forEach(card => {
+            const countryName = card.getAttribute('data-name').toLowerCase();
+            let searchMatch = true;
+            if (term.length > 0) {
+                searchMatch = countryName.includes(term) || `${countryName}esim`.includes(term);
+            }
+            card.style.display = searchMatch ? '' : 'none';
+            if (searchMatch) visibleCount++;
+        });
+        
+        // 热门区域：搜索时隐藏
+        if (term.length > 0) {
             popularSection.style.display = 'none';
         } else {
             popularSection.style.display = 'block';
         }
-
-        countryCards.forEach(card => {
-            const countryName = card.getAttribute('data-name').toLowerCase();
-            if (countryName.includes(searchTerm) || `${countryName}esim`.includes(searchTerm)) {
-                card.style.display = ''; 
-                visibleCount++;
-            } else {
-                card.style.display = 'none';
-            }
-        });
-
-        if (visibleCount === 0 && searchTerm.length > 0) {
+        
+        // 无结果提示
+        if (visibleCount === 0 && term.length > 0) {
             noResults.classList.remove('hidden');
         } else {
             noResults.classList.add('hidden');
         }
+    }
+
+    searchInput.addEventListener('input', function(e) {
+        const term = e.target.value.trim().toLowerCase();
+        applySearchFilter(term);
     });
 
+    // ---------- URL hash 打开 Modal ----------
     if(window.location.hash) {
         const slug = window.location.hash.substring(1);
         const targetCard = document.querySelector(`.country-card[onclick*="${slug}"]`);
@@ -598,6 +782,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
+<!-- ===== 第三方脚本 ===== -->
 <script>
   (function(d, w, c) {
     if (w[c]) return;

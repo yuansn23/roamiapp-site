@@ -362,3 +362,81 @@ other = "30%"
 
 [vp_save_tag]
 other = "🔥 省更多"
+
+[compare_title]
+other = "免費 eSIM 對比：Roami vs Airalo vs Holafly —— 誰提供最好的免費試用？"
+
+[compare_subtitle]
+other = "誠實對比 —— 看看為什麼旅行者選擇 Roami 的免費 eSIM 試用"
+
+[compare_col_feature]
+other = "功能"
+
+[compare_col_roami]
+other = "Roami"
+
+[compare_col_airalo]
+other = "Airalo"
+
+[compare_col_holafly]
+other = "Holafly"
+
+[compare_row_trial]
+other = "免費試用"
+
+[compare_roami_trial]
+other = "✅ 100MB"
+
+[compare_airalo_trial]
+other = "❌"
+
+[compare_holafly_trial]
+other = "❌"
+
+[compare_row_card]
+other = "是否需要信用卡"
+
+[compare_roami_card]
+other = "✅ 不需要"
+
+[compare_airalo_card]
+other = "需要"
+
+[compare_holafly_card]
+other = "需要"
+
+[compare_row_coverage]
+other = "覆蓋範圍"
+
+[compare_roami_coverage]
+other = "200+ 國家"
+
+[compare_airalo_coverage]
+other = "200+ 國家"
+
+[compare_holafly_coverage]
+other = "200+ 國家"
+
+[compare_row_paid]
+other = "付費套餐起售價"
+
+[compare_roami_paid]
+other = "$1.99"
+
+[compare_airalo_paid]
+other = "$4.50"
+
+[compare_holafly_paid]
+other = "$5.90"
+
+[compare_row_support]
+other = "線上客服"
+
+[compare_roami_support]
+other = "✅ 24/7"
+
+[compare_airalo_support]
+other = "—"
+
+[compare_holafly_support]
+other = "✅ 24/7"
