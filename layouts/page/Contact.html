@@ -71,6 +71,7 @@
                     <div class="text-[10px] text-slate-500">Reg No: {{ .Params.company.reg_no }}</div>
                 </div>
             </div>
+            <!-- 修改点 1：品牌提醒改为 i18n 调用 -->
             <div class="flex items-center gap-3">
                 <div class="w-8 h-8 bg-emerald-100 rounded-full flex items-center justify-center">
                     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
@@ -78,6 +79,10 @@
                 <div>
                     <div class="text-xs font-bold text-slate-800">Email</div>
                     <div class="text-[10px] text-slate-500">{{ .Params.company.email }}</div>
+                    <div class="mt-1 flex items-center gap-1 text-red-600 font-bold text-xs bg-red-50 border border-red-200 rounded-md px-2 py-1">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+                        <span>{{ i18n "brand_reminder" }}</span>
+                    </div>
                 </div>
             </div>
         </div>
@@ -108,10 +113,15 @@
                     </div>
                     <h3 class="font-bold text-slate-800">{{ .Params.contact.methods_title }}</h3>
                 </div>
+                <!-- 修改点 2：品牌提醒改为 i18n 调用 -->
                 <div class="space-y-3">
                     <div class="flex items-center gap-3 text-sm">
                         <span class="text-slate-400 w-16">Email:</span>
                         <a href="mailto:{{ .Params.company.email }}" class="text-blue-600 hover:underline">{{ .Params.company.email }}</a>
+                    </div>
+                    <div class="flex items-center gap-1 text-red-600 font-bold text-xs bg-red-50 border border-red-200 rounded-md px-2 py-1">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+                        <span>{{ i18n "brand_reminder" }}</span>
                     </div>
                 </div>
             </div>

@@ -432,3 +432,6 @@ other = "—"
 
 [compare_holafly_support]
 other = "✅ 24/7"
+
+[brand_reminder]
+other = "当社のeSIMブランドはroamiです。roamicではありませんので、ご注意ください。"
