@@ -296,6 +296,7 @@ posts:
     image: "/img/esim/turkey/turkey-esim-guide2.jpg"
     link: "/blog/turkey-esim-istanbul-antalya/"
     category: "tuerkei"
+pagination:
   prev: "← Предыдущая"
   next: "Следующая →"
   showingLabel: "Показано"
