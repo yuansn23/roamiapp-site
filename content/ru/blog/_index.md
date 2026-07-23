@@ -1,6 +1,8 @@
 ---
 title: "Блог Roami – руководства и советы по eSIM для путешествий"
 description: "Самые свежие статьи о технологиях eSIM, мобильном интернете для путешествий и руководствах по eSIM в разных странах."
+date: 2026-07-23T00:00:00Z
+lastmod: 2026-07-23T00:00:00Z
 hero:
   badge: "Блог eSIM"
   title: "Знания об eSIM для <span class=\"text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400\">путешественников по всему миру</span>"
