@@ -84,6 +84,95 @@
         html {
             scroll-behavior: smooth;
         }
+		
+		.value-claim-visual {
+    background: linear-gradient(135deg, #eff6ff 0%, #e0f2fe 100%);
+    border-top: 2px solid #93c5fd;
+    border-bottom: 2px solid #93c5fd;
+}
+.value-claim-visual .claim-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.value-claim-visual .badge-5g {
+    background: #2563eb;
+    color: white;
+    font-weight: 700;
+    padding: 0.2rem 0.8rem;
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    letter-spacing: 0.025em;
+    box-shadow: 0 2px 6px rgba(37, 99, 235, 0.3);
+}
+.value-claim-visual .badge-5g svg {
+    width: 1rem;
+    height: 1rem;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 2.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+.value-claim-visual .competitor {
+    position: relative;
+    display: inline-block;
+    color: #94a3b8;
+    font-weight: 500;
+    padding: 0 0.1em;
+}
+.value-claim-visual .competitor::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: -3px;
+    width: calc(100% + 6px);
+    height: 2.5px;
+    background: #ef4444;
+    transform: rotate(-18deg);
+    transform-origin: center center;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px rgba(239, 68, 68, 0.25);
+}
+.value-claim-visual .discount-number {
+    color: #dc2626;
+    font-weight: 900;
+    font-size: 2rem;
+    line-height: 1;
+    background: white;
+    padding: 0 0.5rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 8px rgba(220, 38, 38, 0.15);
+    display: inline-block;
+}
+.value-claim-visual .save-tag {
+    background: #dc2626;
+    color: white;
+    font-weight: 700;
+    padding: 0.2rem 0.8rem;
+    border-radius: 9999px;
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    box-shadow: 0 2px 6px rgba(220, 38, 38, 0.3);
+    margin-left: 0.25rem;
+}
+@media (min-width: 640px) {
+    .value-claim-visual .discount-number {
+        font-size: 2.5rem;
+    }
+}
+@media (min-width: 1024px) {
+    .value-claim-visual .discount-number {
+        font-size: 3rem;
+    }
+}
+
     </style>
 </head>
 <body class="bg-slate-50 text-slate-900 antialiased flex flex-col min-h-screen">
@@ -120,6 +209,33 @@
             </div>
         </div>
     </header>
+
+    <!-- 价值主张 – 视觉化设计（斜杆删除线）                            -->
+    <!-- ============================================================ -->
+<section class="value-claim-visual py-3 md:py-4">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex flex-wrap items-center justify-center gap-1 sm:gap-2 md:gap-4 text-center">
+
+            <!-- 5G 徽章 -->
+            <span class="badge-5g">
+                {{ i18n "vp_5g_badge" }}
+            </span>
+
+            <span class="text-base sm:text-lg md:text-xl font-semibold text-slate-800">{{ i18n "vp_same" }}</span>
+            <span class="text-base sm:text-lg md:text-xl font-bold text-blue-600">{{ i18n "vp_network" }}</span>
+            <span class="text-base sm:text-lg md:text-xl font-semibold text-slate-800">{{ i18n "vp_compare" }}</span>
+
+            <span class="text-base sm:text-lg md:text-xl font-semibold text-slate-800">{{ i18n "vp_cheaper" }}</span>
+
+            <!-- 突出的 30% -->
+            <span class="discount-number">{{ i18n "vp_percent" }}</span>
+
+            <!-- 小标签 -->
+            <span class="save-tag">{{ i18n "vp_save_tag" }}</span>
+        </div>
+    </div>
+</section>
+
 
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <!-- ========= 新增：品牌快速导航栏（Tab切换效果） ========= -->
