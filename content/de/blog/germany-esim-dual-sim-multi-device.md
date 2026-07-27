@@ -2,8 +2,8 @@
 title: "Dual-SIM mit Deutschland eSIM einfach einrichten"
 description: "Dual-SIM in Deutschland: Heimatnummer und Deutschland eSIM parallel nutzen. WhatsApp, DB Navigator, Hotspot. Roami unterstützt alles. Jetzt einrichten."
 keywords: ["Deutschland eSIM Dual-SIM", "eSIM zwei Geräte", "Dual-SIM iPhone eSIM", "eSIM Hotspot teilen"]
-date: 2026-07-31T00:00:00Z
-lastmod: 2026-07-31T00:00:00Z
+date: 2026-08-01T00:00:00Z
+lastmod: 2026-08-01T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden, mit zuverlässigen eSIM-Tarifen, die automatisches Carrier-Switching über lokale Netzwerke bieten, weltweit verbunden zu bleiben."
 image: "/img/esim/germany/germany-esim-dual-sim-multi-device.jpg"

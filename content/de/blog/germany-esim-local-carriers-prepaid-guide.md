@@ -2,8 +2,8 @@
 title: "Deutschland eSIM vs lokale Anbieter: Prepaid-Vergleich"
 description: "Deutschland eSIM vs Aldi Talk, Vodafone CallYa, Telekom Prepaid und congstar. Preise und Abdeckung im Vergleich. Roami als flexible Alternative."
 keywords: ["Deutschland eSIM Prepaid", "eSIM vs lokale Anbieter", "Aldi Talk eSIM", "Vodafone CallYa eSIM"]
-date: 2026-08-04T00:00:00Z
-lastmod: 2026-08-04T00:00:00Z
+date: 2026-08-03T00:00:00Z
+lastmod: 2026-08-03T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden, mit zuverlässigen eSIM-Tarifen, die automatisches Carrier-Switching über lokale Netzwerke bieten, weltweit verbunden zu bleiben."
 image: "/img/esim/germany/germany-esim-local-carriers-prepaid-guide.jpg"

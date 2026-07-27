@@ -3,8 +3,8 @@ title: "Australien eSIM 2026: 5G für Backpacker – kein Funkloch mehr"
 h1_title: "Australien eSIM 2026: Der ultimative Leitfaden für Backpacker & Roadtrips"
 description: "Signalverlust im Outback? Die Roami eSIM wechselt automatisch zwischen Telstra, Optus & Vodafone. Perfekt für Backpacker & Working Holiday. Jetzt testen!"
 keywords: ["australien esim", "beste esim für australien reisen", "telstra vs optus vs vodafone australien", "roami australien", "australien outback abdeckung", "great ocean road esim", "working holiday australien esim", "esim australien outback", "telstra abdeckung great ocean road", "australien roadtrip datenvolumen"]
-date: 2026-06-22T10:00:00Z
-lastmod: 2026-06-22T10:00:00Z
+date: 2026-07-28T00:00:00Z
+lastmod: 2026-07-28T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami ist auf eSIM-Technologie spezialisiert und bietet globale Konnektivitätslösungen. Dieser Leitfaden basiert auf unabhängigen Carrier-Abdeckungsdaten und echtem Reise-Feedback für Australien."
 image: "/img/esim/australia-esim-guide-2026.jpg"

@@ -2,8 +2,8 @@
 title: "Deutschland eSIM Netzabdeckung: Städte, ICE & Land"
 description: "Deutschland eSIM Netzabdeckung im Test: Telekom 98 %, Vodafone 93 %, O2 86 %. Geschwindigkeit und Empfang in Stadt, Zug und ländlichen Regionen. Roami nutzt alle drei."
 keywords: ["Deutschland eSIM Abdeckung", "eSIM Netztest Deutschland", "ICE eSIM Empfang", "Telekom eSIM Abdeckung", "eSIM ländliche Gebiete"]
-date: 2026-07-30T00:00:00Z
-lastmod: 2026-07-30T00:00:00Z
+date: 2026-07-31T00:00:00Z
+lastmod: 2026-07-31T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden, mit zuverlässigen eSIM-Tarifen und automatischem Carrier-Wechsel zwischen lokalen Netzen weltweit verbunden zu bleiben."
 image: "/img/esim/germany/germany-esim-coverage-cities-trains-alps.jpg"

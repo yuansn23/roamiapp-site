@@ -2,8 +2,8 @@
 title: "Reisepass für Deutschland eSIM? Alle Regeln & Tipps"
 description: "Für eSIMs deutscher Anbieter brauchen Sie einen Reisepass, für internationale nicht. Roami eSIM ohne Identitätsnachweis. Jetzt aktivieren."
 keywords: ["Deutschland eSIM Reisepass", "eSIM Deutschland Registrierung", "eSIM ohne Ausweis", "Video-Ident eSIM"]
-date: 2026-08-06T00:00:00Z
-lastmod: 2026-08-06T00:00:00Z
+date: 2026-08-04T00:00:00Z
+lastmod: 2026-08-04T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden, weltweit mit zuverlässigen eSIM-Tarifen in Verbindung zu bleiben – mit automatischem Netzbetreiberwechsel zwischen lokalen Netzen."
 image: "/img/esim/germany/germany-esim-passport-registration-requirements.jpg"

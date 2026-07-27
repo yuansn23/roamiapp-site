@@ -2,8 +2,8 @@
 title: "Deutschland eSIM Leitfaden: Netze, Tarife & Preise"
 description: "Neu bei Deutschland eSIM? Leitfaden zu Netzen, Preisen und Einrichtung. Roami vergleicht Telekom, Vodafone und O2. Jetzt Tarif finden."
 keywords: ["Deutschland eSIM", "eSIM Deutschland", "Deutsche eSIM", "Deutschland Reise-eSIM", "eSIM für Deutschland", "Deutschland Prepaid-eSIM", "beste eSIM Deutschland", "günstigste Deutschland eSIM", "Deutschland eSIM Tarife", "Deutschland eSIM Netz", "Deutschland eSIM 5G", "Deutschland eSIM Preis", "Deutschland eSIM unbegrenztes Datenvolumen", "Deutschland eSIM für Touristen", "Deutschland mobile Daten Tourist"]
-date: 2026-07-29T00:00:00Z
-lastmod: 2026-07-29T00:00:00Z
+date: 2026-07-31T00:00:00Z
+lastmod: 2026-07-31T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden, weltweit verbunden zu bleiben – mit zuverlässigen eSIM-Tarifen und automatischem Netzwerkwechsel zwischen lokalen Anbietern."
 image: "/img/esim/germany/germany-esim-complete-travel-guide.jpg"

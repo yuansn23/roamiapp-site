@@ -3,8 +3,8 @@ title: "T-Mobile vs AT&T vs Verizon: USA eSIM-Tarife"
 description: "T-Mobile, AT&T, Verizon: Prepaid-eSIM-Vergleich mit Preisen und Netzabdeckung für Touristen. Roami bietet automatischen Netzwechsel."
 keywords: ["T-Mobile vs AT&T vs Verizon eSIM", "USA Prepaid eSIM Tarife", "T-Mobile Touristen eSIM", "AT&T Prepaid eSIM Bewertung", "Verizon eSIM für Reisende"]
 url: "/blog/usa-esim-carrier-plans/"
-date: 2026-07-30T00:00:00Z
-lastmod: 2026-07-30T00:00:00Z
+date: 2026-08-15T00:00:00Z
+lastmod: 2026-08-15T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden, mit einfachen eSIM-Tarifen in Verbindung zu bleiben."
 image: "/img/blog/usa/usa-esim-carrier-plans.jpg"

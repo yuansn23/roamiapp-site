@@ -2,8 +2,8 @@
 title: "Deutschland eSIM Installation: In 5 Minuten aktiv"
 description: "Deutschland eSIM Installation: QR-Code scannen, APN einrichten, vor Abreise aktivieren. iPhone & Android Schritt für Schritt. Roami ohne Video-Ident."
 keywords: ["Deutschland eSIM Installation", "eSIM aktivieren Anleitung", "eSIM QR-Code scannen", "iPhone eSIM einrichten"]
-date: 2026-08-03T00:00:00Z
-lastmod: 2026-08-03T00:00:00Z
+date: 2026-08-02T00:00:00Z
+lastmod: 2026-08-02T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden, mit zuverlässigen eSIM-Tarifen, die automatisches Carrier-Switching über lokale Netzwerke bieten, weltweit verbunden zu bleiben."
 image: "/img/esim/germany/germany-esim-installation-activation-setup.jpg"

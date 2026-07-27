@@ -3,8 +3,8 @@ title: "USA eSIM für Geschäftsreisen & Digitale Nomaden"
 description: "USA eSIM für Geschäftsreisen: Hotspot, US-Nummern und beste Tarife. Roami mit automatischem Netzwechsel. Jetzt Business-Tarif sichern."
 keywords: ["USA eSIM für Geschäftsreisen", "USA eSIM digitaler Nomade", "beste eSIM für Geschäftsreise USA", "USA eSIM langer Aufenthalt", "USA eSIM Remote-Arbeit"]
 url: "/blog/usa-esim-business-digital-nomad/"
-date: 2026-07-29T00:00:00Z
-lastmod: 2026-07-29T00:00:00Z
+date: 2026-08-14T00:00:00Z
+lastmod: 2026-08-14T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden, mit einfachen eSIM-Tarifen in Verbindung zu bleiben."
 image: "/img/blog/usa/usa-esim-business-digital-nomad.jpg"

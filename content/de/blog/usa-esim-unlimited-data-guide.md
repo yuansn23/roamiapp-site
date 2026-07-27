@@ -3,8 +3,8 @@ title: "USA eSIM unbegrenzt: FUP-Grenzen im Vergleich"
 description: "USA eSIM mit unbegrenztem Datenvolumen: Fair-Use-Regeln, Drosselung und Hotspot im Vergleich. Roami mit transparenten Konditionen. Jetzt vergleichen!"
 keywords: ["USA eSIM unbegrenzt", "eSIM USA Datenvolumen", "USA eSIM ohne Datenlimit", "Holafly USA unbegrenzt", "eSIM USA Fair-Use"]
 url: "/blog/usa-esim-unlimited-data-guide/"
-date: 2026-08-10T00:00:00Z
-lastmod: 2026-08-10T00:00:00Z
+date: 2026-08-20T00:00:00Z
+lastmod: 2026-08-20T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden mit einfachen eSIM-Tarifen, verbunden zu bleiben."
 image: "/img/blog/usa/usa-esim-unlimited-data-guide.jpg"

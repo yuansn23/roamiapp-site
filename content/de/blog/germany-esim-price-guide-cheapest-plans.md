@@ -2,8 +2,8 @@
 title: "Günstigste Deutschland eSIM Tarife im Vergleich"
 description: "Deutschland eSIM Preise von 3 € (1 GB) bis 50 € (50 GB). Tarife vergleichen und sparen. Roami mit automatischem Netzwerkwechsel. Jetzt vergleichen."
 keywords: ["günstigste Deutschland eSIM", "Deutschland eSIM Preis", "Deutschland eSIM Tarife", "Deutschland eSIM für Touristen", "Deutschland mobile Daten Touristen", "Deutschland Reise eSIM"]
-date: 2026-08-07T00:00:00Z
-lastmod: 2026-08-07T00:00:00Z
+date: 2026-08-04T00:00:00Z
+lastmod: 2026-08-04T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden, weltweit mit zuverlässigen eSIM-Tarifen in Verbindung zu bleiben – mit automatischem Netzwechsel zwischen lokalen Netzen."
 image: "/img/esim/germany/germany-esim-price-guide-cheapest-plans.jpg"

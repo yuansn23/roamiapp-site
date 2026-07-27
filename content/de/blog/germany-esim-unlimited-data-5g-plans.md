@@ -2,8 +2,8 @@
 title: "Deutschland eSIM Unlimited: 5G-Tarife im Vergleich"
 description: "Deutschland eSIM Unlimited: 5G-Tarife im Vergleich. Fair-Use-Grenzen und Hotspot-Regeln. Roami mit klaren Bedingungen. Jetzt unbegrenzt surfen."
 keywords: ["Deutschland eSIM unbegrenzt", "eSIM 5G Deutschland", "eSIM Unlimited Tarife", "eSIM Fair-Use-Grenze", "eSIM Hotspot Tethering"]
-date: 2026-08-11T00:00:00Z
-lastmod: 2026-08-11T00:00:00Z
+date: 2026-08-06T00:00:00Z
+lastmod: 2026-08-06T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden, mit zuverlässigen eSIM-Tarifen und automatischem Carrier-Wechsel zwischen lokalen Netzen weltweit verbunden zu bleiben."
 image: "/img/esim/germany/germany-esim-unlimited-data-5g-plans.jpg"

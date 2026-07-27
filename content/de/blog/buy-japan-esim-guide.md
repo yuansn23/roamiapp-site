@@ -2,8 +2,8 @@
 title: "Japan eSIM 2026: Schluss mit mobilen WLAN-Routern"
 description: "Schluss mit WLAN-Routern. Die Roami Japan-eSIM mit intelligenter Netzwahl für 5G in Tokyo, Osaka, Fuji – selbst im Zug. Jetzt kostenlos testen!"
 keywords: ["Japan esim", "beste esim für Japan reisen", "Japan mobiler Hotspot vs esim", "roami japan", "Japan esim softbank", "Japan esim au", "Japan esim docomo"]
-date: 2026-06-22T10:00:00Z
-lastmod: 2026-06-22T10:00:00Z
+date: 2026-07-29T00:00:00Z
+lastmod: 2026-07-29T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami ist auf eSIM-Technologie spezialisiert und bietet globale Konnektivitätslösungen. Dieser Leitfaden basiert auf unabhängigen Carrier-Abdeckungsdaten und echtem Reise-Feedback für Japan."
 image: "/img/esim/japan-esim-guide-2026.jpg"

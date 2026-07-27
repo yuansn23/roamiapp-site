@@ -2,8 +2,8 @@
 title: "Deutschland eSIM Anbieter: Airalo, Holafly & Ubigi"
 description: "Deutschland eSIM Anbieter: Airalo, Holafly, Ubigi, Nomad, Saily im Vergleich. Welches Netz? Welcher Preis? Roami wechselt automatisch. Jetzt vergleichen."
 keywords: ["Deutschland eSIM Anbieter", "Airalo eSIM Deutschland", "Holafly eSIM Deutschland", "Ubigi eSIM Deutschland", "eSIM Vergleich 2026"]
-date: 2026-08-08T00:00:00Z
-lastmod: 2026-08-08T00:00:00Z
+date: 2026-08-05T00:00:00Z
+lastmod: 2026-08-05T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden, mit zuverlässigen eSIM-Tarifen und automatischem Carrier-Wechsel zwischen lokalen Netzen weltweit verbunden zu bleiben."
 image: "/img/esim/germany/germany-esim-providers-airalo-holafly-ubigi-comparison.jpg"
