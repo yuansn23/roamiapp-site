@@ -25,7 +25,7 @@
                 "image": {{ .Params.image | default .Site.Params.defaultImage | absURL | jsonify }},
                 "author": {
                     "@type": "Person",
-                    "name": "Roami Team"
+                    "name": {{ .Params.author | default "Roami Redaktion" | jsonify }}
                 },
                 "publisher": {
                     "@type": "Organization",
