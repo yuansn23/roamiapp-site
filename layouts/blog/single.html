@@ -24,8 +24,8 @@
                 "description": {{ .Description | default (.Summary | plainify | truncate 160) | jsonify }},
                 "image": {{ .Params.image | default .Site.Params.defaultImage | absURL | jsonify }},
                 "author": {
-                    "@type": "Organization",
-                    "name": "Roami"
+                    "@type": "Person",
+                    "name": "Roami Team"
                 },
                 "publisher": {
                     "@type": "Organization",

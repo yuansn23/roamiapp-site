@@ -1,4 +1,4 @@
----
+﻿---
 title: "Reisepass für Deutschland eSIM? Alle Regeln & Tipps"
 description: "Für eSIMs deutscher Anbieter brauchen Sie einen Reisepass, für internationale nicht. Roami eSIM ohne Identitätsnachweis. Jetzt aktivieren."
 keywords: ["Deutschland eSIM Reisepass", "eSIM Deutschland Registrierung", "eSIM ohne Ausweis", "Video-Ident eSIM"]
@@ -64,8 +64,7 @@ Dieser Leitfaden behandelt, welche Anbieter Ausweisdokumente verlangen, ob das A
 
 Das Telekommunikationsgesetz (TKG) ist das zentrale Rechtsinstrument für die elektronische Kommunikation in Deutschland. § 172 TKG, der mit dem [Europäischen Kodex für elektronische Kommunikation](https://eur-lex.europa.eu/eli/dir/2018/1972/oj) im Einklang steht, verpflichtet Anbieter öffentlich zugänglicher Telekommunikationsdienste, die Identität jedes Endnutzers vor der Aktivierung des Dienstes zu erfassen und zu speichern. Der vollständige Gesetzestext des TKG ist in der [deutschen Gesetzesdatenbank](https://www.gesetze-im-internet.de/tkg_2021/) veröffentlicht. Die [Bundesnetzagentur](https://www.bundesnetzagentur.de) setzt diese Vorschrift durch und verhängt Bußgelder gegen nicht konforme Anbieter.
 
-### Welche Anbieter vom TKG erfasst werden
-
+**Welche Anbieter vom TKG erfasst werden**
 Das Gesetz gilt für jede SIM-Karte, die von einem Anbieter ausgegeben wird, der über eine deutsche Netzbetreiberlizenz verfügt oder ein Vertragsverhältnis mit einem lizenzierten deutschen Netzbetreiber unterhält. In der Praxis bedeutet dies:
 
 - **Drei nationale Infrastrukturbetreiber**: Deutsche Telekom, Vodafone Deutschland und Telefónica Germany (O2) – die Betreiber, denen die physische Netzinfrastruktur gehört.
@@ -73,24 +72,20 @@ Das Gesetz gilt für jede SIM-Karte, die von einem Anbieter ausgegeben wird, der
 
 Jeder dieser Anbieter muss Ihre Identität überprüfen, bevor Sie einen Sprachanruf tätigen, eine SMS senden oder mobile Daten in deren Netz nutzen können. Es gibt keine Ausnahmen für Prepaid-Tarife, Kurzzeitbesucher oder Touristen.
 
-### Akzeptierte Methoden zur Identitätsprüfung
-
+**Akzeptierte Methoden zur Identitätsprüfung**
 Die Identitätsprüfung nach dem TKG erfolgt in einer von zwei anerkannten Formen:
 
-### 1. Physische Prüfung vor Ort
-
+**1. Physische Prüfung vor Ort**
 Sie legen Ihren Reisepass oder Personalausweis in einem Ladengeschäft vor. Der Mitarbeiter prüft das Dokument, gleicht es mit Ihrem Gesicht ab und aktiviert die SIM-Karte direkt vor Ort.
 
-### 2. Remote-Videoidentifikation (Video-Ident oder Post-Ident)
-
+**2. Remote-Videoidentifikation (Video-Ident oder Post-Ident)**
 Sie halten Ihren Reisepass vor eine Webcam, während ein geschulter Mitarbeiter Ihr Gesicht mit dem Lichtbild abgleicht, die Dokumentennummer und das Ablaufdatum erfasst und Screenshots der Datenseite für die Unterlagen des Anbieters erstellt.
 
 Einige Anbieter akzeptieren auch den deutschen elektronischen Personalausweis (eID) per NFC-Lesegerät, aber für ausländische Touristen mit nicht-deutschen Reisepässen ist die Videoidentifikation das übliche Fernverfahren – unabhängig davon, für welchen Anbieter Sie sich entscheiden.
 
 Ein entscheidendes Detail, das viele Reisende übersehen: Das TKG unterscheidet nicht zwischen einer physischen SIM und einer eSIM. Die eingebettete SIM – ein wiederbeschreibbarer Chip, der auf der Hauptplatine des Telefons verlötet ist – ist nach deutschem Recht rechtlich identisch mit einer herausnehmbaren Plastik-SIM-Karte. Wenn ein deutscher Anbieter ein eSIM-Profil ausstellt, muss dieser Anbieter Ihre Identität nach denselben TKG-Regeln überprüfen, die auch für physische SIMs gelten. Dies ist die Ursache der meisten Verwirrung: Eine deutsche eSIM der Telekom erfordert eine Reisepass-Registrierung, genau wie eine physische Telekom-SIM, die Sie in einem Saturn-Markt kaufen würden, während eine internationale eSIM eines Anbieters, der außerhalb Deutschlands gegründet und lizenziert ist, möglicherweise nicht denselben Verpflichtungen unterliegt. Für Reisende, die die Passverifizierung vollständig vermeiden möchten, bietet eine [Deutschland eSIM](/germany-esim/) eines internationalen Anbieters dieselbe Netzkonnektivität ohne den regulatorischen Aufwand.
 
-### Durchsetzung und praktische Auswirkungen
-
+**Durchsetzung und praktische Auswirkungen**
 Die [Bundesnetzagentur](https://www.bundesnetzagentur.de) überwacht die Einhaltung des TKG. Ihre Durchsetzungsprioritäten haben sich seit Einführung des Gesetzes deutlich verschoben. In den ersten Jahren war die Durchsetzung sporadisch, und eine erhebliche Anzahl von Prepaid-SIMs war ohne ordnungsgemäße Registrierung im Umlauf. Dies änderte sich nach dem Anschlag auf den Berliner Breitscheidplatz im Jahr 2016, als die Ermittler aufdeckten, dass der Täter eine ohne gültige Identifikation erworbene Prepaid-SIM genutzt hatte. Seitdem führt die Bundesnetzagentur regelmäßig Testkäufe und Prüfungen im ganzen Land durch. Anbieter, die nicht registrierte SIMs verkaufen, müssen mit erheblichen Bußgeldern rechnen, und mehrere MVNOs wurden wegen Nichteinhaltung mit Geldstrafen belegt. Stand 2026 können Sie keine deutsche Prepaid-SIM – weder physisch noch eSIM – von einem inländischen Anbieter kaufen, ohne die Identitätsprüfung abzuschließen. Dies wird von Berlin bis ins ländliche Bayern konsequent durchgesetzt.
 
 Die praktische Konsequenz für Besucher ist eindeutig. Wenn Sie vor Ihrer Reise versuchen, eine Deutschland eSIM von einem lokalen Anbieter wie Telekom oder Vodafone zu kaufen, werden Sie im Bestellvorgang aufgefordert, eine gescannte Kopie Ihres Reisepasses einzureichen oder eine Live-Videoidentifikation durchzuführen. Dasselbe gilt, wenn Sie einen deutschen Elektronikhändler wie Saturn oder MediaMarkt betreten und ein Prepaid-SIM-Kit am Schalter kaufen. Es gibt nach geltendem deutschen Recht keinen legalen Umweg. Die einzige Frage ist, welche Verifizierungsmethode Sie bevorzugen.
@@ -99,8 +94,7 @@ Die praktische Konsequenz für Besucher ist eindeutig. Wenn Sie vor Ihrer Reise 
 
 Internationale eSIM-Anbieter operieren unter einem grundlegend anderen Rechtsrahmen als deutsche Lizenzanbieter. Diese Unternehmen bündeln Netzzugang über Großhandels-Roaming-Vereinbarungen, anstatt direkt deutsche Netzinfrastruktur zu besitzen oder zu pachten. Sie sind nicht von der Bundesnetzagentur als deutsche Telekommunikationsanbieter lizenziert. Stattdessen verfügen sie über Telekommunikationslizenzen in anderen Rechtsordnungen – typischerweise Estland, Großbritannien, Singapur, Litauen oder den USA – und bieten ihren Kunden Konnektivität über Roaming-Vereinbarungen mit Telekom, Vodafone und O2 an.
 
-### Warum internationale eSIMs ausgenommen sind
-
+**Warum internationale eSIMs ausgenommen sind**
 Diese Unterscheidung ist entscheidend, da die SIM-Registrierungspflicht des TKG an den Anbieter anknüpft, der die SIM an den Endnutzer ausgibt, und nicht an das Netz, über das die Daten übertragen werden:
 
 - Ein internationaler eSIM-Anbieter mit Sitz in Großbritannien und Lizenz von Ofcom unterliegt in Bezug auf die Identitätsprüfung der Teilnehmer nicht dem deutschen Recht.
@@ -111,8 +105,7 @@ Für Touristen ist dies die praktischste Erkenntnis des gesamten Artikels: Sie m
 
 Das bedeutet nicht, dass internationale eSIMs in einem regulatorischen Vakuum operieren. Sie unterliegen den Datenschutz- und Verbraucherschutzgesetzen des Landes, in dem der Anbieter registriert ist.
 
-### eSIM-Typen im Vergleich auf einen Blick
-
+**eSIM-Typen im Vergleich auf einen Blick**
 | Anforderung | Internationale eSIM (z. B. Roami) | Deutsche Anbieter-eSIM (Telekom/Vodafone/O2) |
 |-------------|-------------------------------|----------------------------------------|
 | Reisepass-Upload | Nicht erforderlich | Erforderlich (Video-Ident oder vor Ort) |
@@ -124,12 +117,10 @@ Das bedeutet nicht, dass internationale eSIMs in einem regulatorischen Vakuum op
 
 Jeder Anbieter, der europäische Kunden bedient, muss die Datenschutz-Grundverordnung (DSGVO) unabhängig von seinem Sitz einhalten, die strenge Regeln für die Erhebung, Speicherung und Weitergabe personenbezogener Daten vorschreibt. Die DSGVO-Konformität verlangt jedoch nicht die Erhebung von amtlichen Ausweisdokumenten. Ein Name und eine E-Mail-Adresse sind in der Regel ausreichend.
 
-### Daten-only vs. Full-Service eSIMs
-
+**Daten-only vs. Full-Service eSIMs**
 Es gibt eine wichtige Nuance in Bezug auf deutsche Telefonnummern. Die überwiegende Mehrheit internationaler eSIMs ist datenonly. Sie bieten eine Internetverbindung, über die Sie WhatsApp, Telegram, Google Maps, Uber und jede andere App nutzen können, die über IP funktioniert, aber sie vergeben keine deutsche Mobilfunknummer. Wenn Sie nur mobile Daten benötigen – und für die meisten Touristen deckt das Karten, Nachrichten, Fahrdienste, soziale Medien und E-Mail ab – ist eine datenonly internationale eSIM ausreichend und vermeidet die Pass-Registrierungspflicht vollständig. Wenn Sie eine deutsche Telefonnummer für lokale Sprachanrufe, Restaurantreservierungen, Hotelkontakt oder eingehende Anrufe von deutschen Unternehmen benötigen, brauchen Sie einen Anbieter, der eine deutsche Nummer vergibt, was die Transaktion in den Geltungsbereich des TKG bringt. Dieses Szenario wird im Abschnitt zum Erhalt einer deutschen Telefonnummer per eSIM ausführlich behandelt.
 
-### Registrierungsrichtlinien der Anbieter prüfen
-
+**Registrierungsrichtlinien der Anbieter prüfen**
 Die Unterscheidung zwischen datenonly und Full-Service-eSIMs ist auf Anbieter-Websites nicht immer klar gekennzeichnet. Einige Dienste werben mit „deutscher Nummer inklusive", was typischerweise bedeutet, dass sie als MVNO unter deutscher Lizenz operieren und eine Identitätsprüfung verlangen. Andere geben deutlich „nur Daten" an und verlangen nichts weiter als eine E-Mail-Adresse und eine Zahlungsmethode. Überprüfen Sie vor dem Kauf stets die Registrierungsrichtlinie des Anbieters. Wenn ein Anbieter keine Identifikation verlangt, operiert er mit ziemlicher Sicherheit außerhalb des TKG-Rahmens über Roaming-Vereinbarungen. Unser [Vergleich von Deutschland eSIM Anbietern](/blog/germany-esim-providers-airalo-holafly-ubigi-comparison/) zeigt, welche internationalen eSIMs außerhalb des TKG operieren und welche eine Registrierung verlangen.
 
 Dienste wie Roami bewegen sich in diesem internationalen Raum. Die Plattform verlangt zu keinem Zeitpunkt des Kaufprozesses einen Reisepass-Upload. Sie verbindet sich automatisch mit dem Netz – Telekom, Vodafone oder O2 – das an Ihrem aktuellen Standort das stärkste Signal bietet, und der Kundenservice wird von echten, rund um die Uhr erreichbaren Mitarbeitern betreut. Für Reisende, die fragen: „Kann ich eine Deutschland eSIM vor der Reise online kaufen?", lautet die Antwort dieser Anbieter: Ja, und die Transaktion dauert weniger als fünf Minuten.
@@ -138,22 +129,21 @@ Dienste wie Roami bewegen sich in diesem internationalen Raum. Die Plattform ver
 
 Wenn Ihre Reisepläne eine deutsche Mobilfunknummer erfordern – vielleicht bleiben Sie länger, benötigen eine lokale Kontaktnummer für geschäftliche Zwecke oder möchten die niedrigsten Preise pro Gigabyte in inländischen Prepaid-Tarifen –, müssen Sie die vollständige Identitätsprüfung bei einem lokalen Anbieter durchlaufen. Es gibt keinen Weg an dieser Anforderung vorbei. Telekom, Vodafone und O2 setzen die Identifikationsregeln des TKG jeweils strikt durch, und ihre Verifizierungsprozesse sind im Laufe der Jahre strenger geworden, da die Bundesnetzagentur ihre Kontrollen verstärkt hat.
 
-### Deutsche Telekom Verifizierung
+**Deutsche Telekom Verifizierung**
 
 **Deutsche Telekom** nutzt ein Videoidentifikationsverfahren für eSIM-Käufe über ihre Website oder die Magenta-App. Sie beginnen mit der Auswahl eines eSIM-Tarifs. Die Telekom bietet Prepaid-Optionen wie MagentaMobil Prepaid für Kurzzeitnutzung und Postpaid-Tarife für längere Aufenthalte. Während des Bezahlvorgangs werden Sie aufgefordert, eine Video-Ident-Sitzung mit einem Partnerunternehmen wie IDnow oder WebID durchzuführen. Sie benötigen Ihren physischen Reisepass (Fotokopien werden nicht akzeptiert) und ein Gerät mit einer funktionierenden Frontkamera. Der Mitarbeiter bittet Sie, Ihren Reisepass vor die Kamera zu halten, bestätigt, dass Ihr Gesicht mit dem Lichtbild übereinstimmt, und erfasst die Dokumentennummer und das Ablaufdatum. Die Sitzung dauert unter guten Bedingungen in der Regel drei bis fünf Minuten. Nach der Genehmigung wird das eSIM-Profil per QR-Code oder Direkt-Download auf Ihr Telefon übertragen. Probleme bei der eSIM-Registrierung mit dem Reisepass in Deutschland treten am häufigsten in diesem Schritt auf – Reisepässe mit beschädigten biometrischen Seiten, reflektierenden Laminaten oder viele Jahre alten Lichtbildern können manuelle Prüfverzögerungen auslösen, die den Prozess auf mehrere Stunden oder sogar Tage ausdehnen.
 
-### Vodafone Deutschland Optionen
+**Vodafone Deutschland Optionen**
 
 **Vodafone Deutschland** folgt einem ähnlichen Verfahren, mit einem Unterschied, der für bereits im Land befindliche Reisende relevant ist: Vodafone bietet eine Verifizierung vor Ort in seinen Ladengeschäften an, die deutlich schneller sein kann als die Videoidentifikation. Sie bringen Ihren Reisepass in einen Vodafone-Shop, ein Mitarbeiter überprüft Ihre Identität persönlich und stellt Ihnen vor Ort einen eSIM-QR-Code aus. Vodafone unterstützt auch Post-Ident – eine Deutschland eSIM PostIdent VideoIdent Option, bei der Sie Ihren Reisepass zu einer beliebigen Filiale der Deutschen Post bringen und ein Postmitarbeiter Ihre Dokumente prüft, wobei die Verifizierungsdaten elektronisch an Vodafone übermittelt werden. Für Touristen, die bereits in Deutschland sind, ist der Weg über das Ladengeschäft oft die reibungsloseste Option, da er die variablen Faktoren wie Videobeleuchtung, Kameraauflösung und Internetstabilität ausschaltet, die automatisierte Prüfungen scheitern lassen.
 
-### O2 Deutschland und MVNOs
+**O2 Deutschland und MVNOs**
 
 **Telefónica Germany (O2)** bietet die eSIM-Aktivierung entweder mit Videoidentifikation oder persönlicher Verifizierung in O2-Shops an. Die Prepaid-Tarife von O2 sind in der Regel die günstigsten der drei großen Anbieter, obwohl die Netzabdeckung in ländlichen Gebieten und entlang einiger Regionalbahnstrecken etwas schwächer ist als bei der Telekom. Die Verifizierungsanforderung ist unabhängig vom gewählten Tarif dieselbe. O2 bietet Prepaid-eSIM-Tarife ab etwa 7 EUR für eine 30-tägige Gültigkeit mit mehreren Gigabyte Daten an, was sie zu einer beliebten Wahl bei preisbewussten Reisenden macht, die bereit sind, den Registrierungsprozess zu durchlaufen.
 
 Über die drei Netzbetreiber hinaus verlangen auch MVNOs, die eSIM anbieten – darunter Congstar (eine Telekom-Tochter), Fraenk (ebenfalls Telekom) und Otelo (Vodafone) – eine vollständige Identitätsprüfung. Einige kleinere MVNOs haben begonnen, mit automatisierter Identitätsprüfung durch KI-basierte Dokumentenscans zu experimentieren, die Passdatenseiten ohne Live-Mitarbeiter lesen können. Stand 2026 setzt die Mehrheit jedoch weiterhin auf die Video-Ident- oder Post-Ident-Verfahren ihrer Muttergesellschaften. Einen detaillierten Vergleich der Netzleistung dieser Anbieter finden Sie in unserem [Vergleich von Telekom, Vodafone und O2](/blog/germany-esim-telekom-vodafone-o2-comparison/).
 
-### Verifizierungsmethoden der Anbieter im Vergleich
-
+**Verifizierungsmethoden der Anbieter im Vergleich**
 | Anbieter | Online (Video-Ident) | Vor Ort | Post-Ident | Prepaid-eSIM ab-Preis |
 |---------|---------------------|----------|------------|---------------------------|
 | Telekom | Ja (IDnow/WebID) | Telekom-Shops | Ja | EUR 10 |
@@ -167,22 +157,19 @@ Ein Aspekt, der viele Touristen überrascht, ist, dass deutsche Prepaid-SIMs, ei
 
 ## Was ist die Anmeldung und brauchen Touristen sie für die eSIM?
 
-### Was die Anmeldung ist
-
+**Was die Anmeldung ist**
 Anmeldung ist der deutsche Begriff für die melderechtliche Adressregistrierung. Nach dem Bundesmeldegesetz muss jede Person, die in eine Wohnung in Deutschland einzieht, ihre Adresse innerhalb von vierzehn Tagen nach dem Einzug beim örtlichen Bürgeramt anmelden. Das Verfahren erzeugt eine offizielle Meldebescheinigung, die als Nachweis des Wohnsitzes dient und für viele Verwaltungsvorgänge wie die Eröffnung eines Bankkontos, die Zulassung eines Fahrzeugs oder die Beantragung einer Aufenthaltserlaubnis erforderlich ist.
 
 Die wiederkehrende Frage unter Reisenden lautet, ob die Anmeldung für den Kauf oder die Aktivierung einer eSIM erforderlich ist. Die kurze Antwort lautet: Nein. Das TKG verlangt eine Identitätsprüfung, keinen Adressnachweis. Sie müssen weder eine Meldebescheinigung vorlegen noch eine deutsche Wohnadresse angeben, um eine Prepaid-eSIM von Telekom, Vodafone oder O2 zu kaufen. Eine ausländische Adresse in Ihrem Heimatland ist für Abrechnungs- und Korrespondenzzwecke völlig ausreichend.
 
-### Warum die Verwirrung besteht
-
+**Warum die Verwirrung besteht**
 Warum also taucht die Frage „Ist die Adressregistrierung Anmeldung für eSIM erforderlich?" so häufig in Reiseforen und Suchanfragen auf? Es gibt zwei Erklärungen.
 
 Die erste ist, dass einige deutsche MVNOs und Postpaid-Vertragstarife tatsächlich eine deutsche Adresse für die Rechnungsstellung verlangen und möglicherweise eine Meldebescheinigung als unterstützenden Nachweis anfordern. Wenn Sie einen langfristigen Postpaid-Vertrag mit monatlicher Rechnung abschließen, möchte der Anbieter sicherstellen, dass Sie bei Zahlungsstreitigkeiten oder Zahlungsausfall unter einer nachprüfbaren deutschen Adresse erreichbar sind. Prepaid-Tarife, die die große Mehrheit der Touristen nutzt, bergen dieses Risiko nicht und verlangen daher keine deutsche Adresse. Diese Unterscheidung zwischen Prepaid und Postpaid wird auf den Websites der Anbieter nicht immer klar erklärt, was zu dem Irrglauben führt, dass alle deutschen SIMs eine Anmeldung erfordern.
 
 Der zweite Grund ist, dass das Adressfeld im SIM-Registrierungsformular manchmal mit der Anmeldung verwechselt wird. Wenn Sie eine Video-Ident-Sitzung durchführen, fragt der Mitarbeiter nach Ihrer aktuellen Wohnadresse. Sie können Ihre Hoteladresse, eine Airbnb-Adresse, die Adresse eines Freundes in Deutschland oder Ihre ständige Adresse außerhalb Deutschlands angeben. Die Adresse wird im System des Anbieters gespeichert, aber nicht gegen ein staatliches Register oder eine Datenbank abgeglichen. Es handelt sich um ein Standard-Kundeninformationsfeld, nicht um eine Wohnsitzprüfung. Die Verwirrung rührt wahrscheinlich von Reisenden her, die die Adressabfrage als eine anmeldungsähnliche Verifizierungsanforderung interpretieren, obwohl es sich tatsächlich um dieselbe Art von Adresserhebung handelt, die jeder Online-Dienst bei der Kontoerstellung durchführt.
 
-### Praktische Auswirkungen für Touristen
-
+**Praktische Auswirkungen für Touristen**
 Die praktischen Auswirkungen für Touristen sind eindeutig: Sie können die Anmeldung für eSIM-Zwecke vollständig ignorieren. Sie müssen kein Bürgeramt aufsuchen, keine Meldebescheinigung einholen und keinen deutschen Mietvertrag vorlegen, um eine Prepaid-eSIM zu aktivieren. Die einzigen Szenarien, in denen die Anmeldung für Touristen relevant wird, sind die Eröffnung eines deutschen Bankkontos, der Abschluss eines langfristigen Mietvertrags, die Zulassung eines Fahrzeugs oder die Beantragung einer Aufenthaltserlaubnis – nichts davon sind typische Aktivitäten während eines kurzen Urlaubs. Selbst wenn Sie sich mehrere Monate mit einem Langzeitvisum in Deutschland aufhalten, ist die Anmeldung nach vierzehn Tagen Aufenthalt gesetzlich vorgeschrieben, unabhängig davon, ob Sie eine SIM-Karte kaufen, aber der SIM-Kauf selbst hängt nicht davon ab.
 
 Für diejenigen, die fragen: „Können Touristen eine Prepaid-eSIM in Deutschland kaufen?", lautet die Antwort: Ja, und der Kaufprozess umfasst einen Reisepass, eine Zahlungsmethode und etwa fünfzehn Minuten Ihrer Zeit. Er umfasst keine Anmeldung, keine deutsche Adresse und keinerlei melderechtliche Registrierung.
@@ -193,7 +180,7 @@ Eine Deutschland eSIM mit Telefonnummer ermöglicht es Ihnen, Anrufe von Hotels,
 
 Der Erwerb einer deutschen Mobilfunknummer als Nichtansässiger ist aufwändiger als der Kauf einer datenonly eSIM, aber bei weitem nicht unmöglich. Die verfügbaren Optionen fallen in zwei Kategorien: Prepaid-Tarife mit einer echten deutschen Nummer im Mobilfunknetz, die die zuvor beschriebene Passverifizierung erfordern, und VoIP- oder virtuelle Nummern, die dies nicht tun.
 
-### Deutsche Prepaid-Nummern per eSIM
+**Deutsche Prepaid-Nummern per eSIM**
 
 **Deutsche Prepaid-Nummern per eSIM.** Die drei großen Netzbetreiber und ihre angeschlossenen MVNOs bieten alle Prepaid-eSIM-Tarife an, die eine deutsche Mobilfunknummer mit vollständigen Sprach-, SMS- und Datenfunktionen enthalten. Die Aktivierung folgt einem einheitlichen Muster bei allen Anbietern: Wählen Sie einen Tarif auf der Website des Anbieters, schließen Sie die Identitätsprüfung per Video-Ident oder persönlich im Laden ab und erhalten Sie das eSIM-Profil per E-Mail oder Direkt-Push. Die Telefonnummer wird automatisch aus dem Nummernbereich des Anbieters zugewiesen. Einige Anbieter erlauben Ihnen, eine bevorzugte Nummer aus einer Liste verfügbarer Optionen ohne zusätzliche Kosten auszuwählen, während andere eine zufällig vergeben.
 
@@ -201,7 +188,7 @@ Die Kostenstruktur für deutsche Prepaid-Nummern ist transparent. Sie zahlen ein
 
 Eine häufig gestellte Frage ist, ob Sie eine deutsche Telefonnummer per eSIM ohne EU-Pass erhalten können. Die Antwort ist ein klares Ja. Das deutsche Recht beschränkt die SIM-Registrierung nicht auf EU-Bürger oder -Ansässige. Jeder gültige Reisepass aus jedem Land wird als Identitätsnachweis akzeptiert. Die Bundesnetzagentur hat ausdrücklich bestätigt, dass Anbieter ausländische Reisepässe als gültige Identitätsdokumente für die SIM-Registrierung akzeptieren müssen. In der Praxis dauert die Überprüfung von Nicht-EU-Pässen manchmal geringfügig länger, weil die Mitarbeiter, die die Videoidentifikation durchführen, mit den Sicherheitsmerkmalen und dem Format des Dokuments möglicherweise weniger vertraut sind. Reisepässe aus Ländern mit nicht-lateinischen Schriften – arabische, chinesische, kyrillische, thailändische oder koreanische Schriftzeichen zum Beispiel – werden akzeptiert, wobei der Mitarbeiter Sie möglicherweise bittet, den Reisepass in bestimmten Winkeln zu halten, um die maschinenlesbare Zone für das optische Zeichenerkennungssystem klar zu erfassen.
 
-### VoIP und virtuelle Nummern als Alternativen
+**VoIP und virtuelle Nummern als Alternativen**
 
 **VoIP und virtuelle deutsche Nummern.** Wenn Sie eine deutsche Telefonnummer benötigen, aber die Pass-Registrierungspflicht des TKG vollständig vermeiden möchten, haben Sie Alternativen, die keine SIM-Karte erfordern:
 
@@ -217,7 +204,7 @@ Der Nachteil von VoIP-Nummern besteht in folgenden Einschränkungen:
 - **Gelegenheitsnutzung**: Für den Empfang von Anrufen von Hotels, Restaurants, Geschäftskontakten oder lokalen Diensten funktionieren VoIP-Nummern ausreichend.
 - **Zuverlässige SMS**: Für Zwei-Faktor-Authentifizierung oder WhatsApp-Kontoverifizierung ist eine Prepaid-SIM mit einer echten deutschen Mobilfunknummer die zuverlässigere Option.
 
-### Die Dual-SIM-Strategie
+**Die Dual-SIM-Strategie**
 
 **Dual-SIM-Strategie: der pragmatische Mittelweg.** Ein Ansatz, der bei erfahrenen Reisenden an Bedeutung gewonnen hat, ist die [Dual-SIM-Strategie](/blog/germany-esim-dual-sim-multi-device/). Für die Datenseite bietet eine [Deutschland eSIM](/germany-esim/) eines internationalen Anbieters keinen Reisepass-Upload und übernimmt Ihre gesamte Internetkonnektivität. Verwenden Sie eine internationale Daten-eSIM eines Anbieters, der keinen Reisepass-Upload verlangt, als primäre Datenverbindung, und führen Sie separat eine deutsche Prepaid-SIM – entweder physisch oder eSIM – für Sprachanrufe und SMS mit einer lokalen Nummer. Diese Konfiguration vereint die Bequemlichkeit registrierungsfreier Daten mit der Funktionalität einer deutschen Mobilfunknummer für lokale Kommunikation.
 
@@ -233,7 +220,7 @@ Der beste Ort, um eine Deutschland eSIM online für die Datenseite zu kaufen, is
 
 Wenn Ihre Situation eine Passverifizierung erfordert – entweder weil Sie eine deutsche Ortsnummer benötigen oder weil Sie direkt bei einem deutschen Anbieter kaufen möchten –, hilft Ihnen das Verständnis des genauen Ablaufs, Verzögerungen, Fehlversuche und die Frustration einer Landung ohne funktionierende Konnektivität zu vermeiden. Hier ist das Schritt-für-Schritt-Verfahren, das alle großen deutschen Anbieter für die eSIM-Registrierung verwenden.
 
-### Anbieter auswählen und Verifizierungsmethode bestimmen
+**Anbieter auswählen und Verifizierungsmethode bestimmen**
 
 **Schritt 1: Wählen Sie Ihren Anbieter und Tarif.** Sehen Sie sich zunächst die Prepaid-eSIM-Angebote von Telekom, Vodafone oder O2 an. Vergleichen Sie Datenvolumen, Gültigkeitsdauern, Preise und Netzabdeckungskarten. Die Website jedes Anbieters listet kompatible Geräte auf und bestätigt die eSIM-Verfügbarkeit für Ihr spezifisches Telefonmodell, bevor Sie einen Kauf tätigen. Wählen Sie einen Tarif und gehen Sie zur Bezahlseite.
 
@@ -241,7 +228,7 @@ Wenn Ihre Situation eine Passverifizierung erfordert – entweder weil Sie eine 
 
 **Schritt 3: Bereiten Sie Ihren Reisepass und Ihre Umgebung vor.** Für Video-Ident benötigen Sie Ihren physischen Reisepass. Fotokopien, digitale Scans und Screenshots werden nicht akzeptiert. Sie benötigen außerdem ein Gerät mit funktionierender Frontkamera, eine stabile Internetverbindung und ausreichende Beleuchtung. Die Mitarbeiter sind geschult, Sitzungen abzulehnen, bei denen der Reisepass nicht klar lesbar ist oder Ihr Gesicht durch Schatten verdeckt wird. Stellen Sie sich in einen gut beleuchteten Raum. Vermeiden Sie direktes Deckenlicht, das Schatten über Ihr Gesicht wirft. Positionieren Sie sich so, dass das Licht gleichmäßig auf Ihr Gesicht und den Reisepass fällt. Entfernen Sie jegliche Passhülle, -schutzhülle oder -halterung, bevor die Sitzung beginnt.
 
-### Den Video-Ident-Prozess durchführen
+**Den Video-Ident-Prozess durchführen**
 
 **Schritt 4: Starten Sie die Video-Ident-Sitzung.** Für die eSIM Deutschland Video Ident leitet der Anbieter Ihren Browser oder Ihre App auf die Plattform eines Verifizierungspartners um (IDnow, WebID oder ein ähnlicher Dienst). Sie erteilen bei Aufforderung die Berechtigungen für Kamera und Mikrofon. Ein geschulter Mitarbeiter erscheint innerhalb weniger Sekunden bis einiger Minuten auf Ihrem Bildschirm. Der Mitarbeiter beginnt möglicherweise auf Deutsch zu sprechen, aber Sie können zu Beginn des Anrufs Englisch anfordern. Die meisten Verifizierungspartner beschäftigen englischsprachige Mitarbeiter oder haben englischsprachige Sitzungen verfügbar.
 
@@ -267,7 +254,7 @@ Diese Information wird in der Kundendatenbank des Anbieters gespeichert, aber ni
 
 **Schritt 8: Bestätigen und unterschreiben.** Der Mitarbeiter liest alle erfassten Daten vor – Ihren vollständigen Namen, die Reisepassnummer, das Geburtsdatum und die Adresse – und bittet Sie zu bestätigen, dass sie korrekt sind. Möglicherweise werden Sie gebeten, eine digitale Unterschrift auf dem Bildschirm mit Ihrem Finger oder einem Stylus zu leisten. Nach der Bestätigung schließt der Mitarbeiter die Sitzung ab und übermittelt die verifizierten Identitätsdaten an das Aktivierungssystem des Anbieters.
 
-### Die eSIM nach der Verifizierung installieren
+**Die eSIM nach der Verifizierung installieren**
 
 **Schritt 9: Empfangen und installieren Sie das eSIM-Profil.** Innerhalb weniger Minuten nach Abschluss der Video-Ident-Sitzung – manchmal innerhalb von Sekunden – sendet der Anbieter eine E-Mail mit einem QR-Code für die eSIM-Installation. Auf einem iPhone öffnen Sie die Einstellungen, wählen „Mobilfunk" oder „Mobile Daten", tippen auf „Mobilfunktarif hinzufügen" und scannen den QR-Code. Auf einem Android-Gerät gehen Sie zu den Einstellungen, wählen „Netzwerk und Internet", tippen auf „eSIM hinzufügen" und scannen den QR-Code. Das eSIM-Profil wird automatisch installiert und aktiviert. Datendienst, Sprachanrufe und SMS-Funktionalität sind sofort verfügbar.
 
@@ -281,7 +268,7 @@ Für Reisende, die diesen gesamten Arbeitsablauf umgehen möchten, ist eine inte
 
 Deutschland eSIM kompatible Telefone sind keine enge oder exotische Kategorie. Die überwiegende Mehrheit moderner Smartphones unterstützt die eSIM-Technologie, und alle drei deutschen Anbieter haben die standardisierte eSIM-Spezifikation der GSMA für die Profilbereitstellung und Fernaktivierung übernommen. Die Kompatibilität ist jedoch nicht universell, und Ihr spezifisches Gerätemodell vor dem Kauf eines eSIM-Tarifs – ob lokal oder international – zu überprüfen, erspart Ihnen die Frustration, ohne funktionierende Konnektivität anzukommen.
 
-### Apple-Geräte-Kompatibilität
+**Apple-Geräte-Kompatibilität**
 
 **Apple-Geräte.** Die folgenden Apple-Geräte unterstützen eSIM:
 
@@ -290,7 +277,7 @@ Deutschland eSIM kompatible Telefone sind keine enge oder exotische Kategorie. D
 
 Hinweis: iPhones, die auf dem chinesischen Festland und in Hongkong verkauft werden, haben Hardware-Einschränkungen bei der eSIM-Funktionalität. Geräte, die in Europa, Nordamerika, Japan, Australien und den meisten anderen Märkten erworben wurden, unterstützen Dual-SIM-Konfigurationen (eine physische Nano-SIM plus eine eSIM oder zwei aktive eSIMs ab der iPhone-13-Generation). Für Reisende mit älteren iPhones: Das iPhone X und frühere Modelle unterstützen keine eSIM und benötigen eine in Deutschland erworbene physische Prepaid-SIM.
 
-### Android- und andere Geräte-Kompatibilität
+**Android- und andere Geräte-Kompatibilität**
 
 **Samsung-Geräte.** Die folgenden Samsung-Geräte unterstützen eSIM:
 
@@ -317,7 +304,7 @@ Wenn Sie ein Huawei-Gerät besitzen, prüfen Sie beim jeweiligen eSIM-Anbieter, 
 
 **Chinesische Inlandsmarkt-Telefone.** Smartphones, die auf dem chinesischen Festland verkauft werden – einschließlich Xiaomi-, Oppo-, Vivo-, OnePlus- und Realme-Modelle für den chinesischen Inlandsmarkt – verfügen häufig nicht über eSIM-Hardware-Unterstützung oder haben diese in der Firmware deaktiviert. Dies ist keine universelle Regel: Das OnePlus 11 und spätere globale Modelle unterstützen eSIM, während die chinesische Marktversion desselben OnePlus 11 dies nicht tut. Wenn Sie Ihr Telefon in China gekauft haben, überprüfen Sie die offizielle Spezifikationsseite des Herstellers auf die Wörter „eSIM" oder „embedded SIM", bevor Sie sich für Ihre Reise auf eSIM verlassen. Dieselbe Vorsicht gilt für Geräte aus Japan, wo einige netzbetreibergebundene Modelle von SoftBank und KDDI die eSIM-Funktionalität deaktivieren, und für Südkorea, wo SK Telecom und KT gelegentlich eSIM in inländischen Firmware-Versionen deaktivieren.
 
-### Netzband-Kompatibilität
+**Netzband-Kompatibilität**
 
 **Netzband-Kompatibilität – das oft übersehene Detail.** Über die Frage hinaus, ob Ihr Telefon eSIM als Technologie unterstützt, müssen Sie auch bestätigen, dass Ihr Gerät die spezifischen LTE- und 5G-Frequenzbänder unterstützt, die von deutschen Mobilfunknetzen genutzt werden:
 
@@ -345,7 +332,7 @@ Häufige Ursachen:
 
 Die Lösung: Halten Sie den Reisepass ruhig und flach, parallel zum Kameraobjektiv, und stellen Sie sicher, dass der gesamte untere Bereich das Bild horizontal ausfüllt. Einige Mitarbeiter bitten Sie ausdrücklich, durch näheres Heranführen des Reisepasses heranzuzoomen. Befolgen Sie ihre Anweisungen genau. Wenn Sie eine Brille tragen, nehmen Sie sie während dieses Schritts vorübergehend ab, um Reflexionen zu vermeiden.
 
-### Beleuchtungs-, Scan- und Verbindungsprobleme
+**Beleuchtungs-, Scan- und Verbindungsprobleme**
 
 **Problem 3: Internetverbindung bricht während der Video-Ident-Sitzung ab.** Video-Ident-Sitzungen erfordern eine stabile, kontinuierliche Internetverbindung. Ein Verbindungsabbruch führt zum Abbruch der Sitzung, und Sie müssen von vorne beginnen.
 
@@ -366,7 +353,7 @@ Optionen, wenn sich Ihr Reisepass in sichtbar abgenutztem Zustand befindet:
 
 Dies ist ein praktischer Grund, den physischen Zustand Ihres Reisepasses rechtzeitig vor Ihrem Abreisedatum zu überprüfen.
 
-### Probleme mit Dokument- und Namensabweichungen
+**Probleme mit Dokument- und Namensabweichungen**
 
 **Problem 5: Namensabweichung oder Transliterationsunterschiede.** Nicht-europäische Reisepässe zeigen den Namen des Inhabers oft sowohl in lateinischer Schrift als auch in der Originalschrift des Ausstellerlandes.
 
@@ -405,7 +392,7 @@ Was zu tun ist:
 - Stellen Sie eine gescannte Kopie der Datenseite des neuen Reisepasses zur Verfügung.
 - Einige Anbieter erlauben die Aktualisierung des registrierten Dokuments online über Ihr Kundenportal; andere verlangen eine neue Video-Ident-Sitzung.
 
-### Probleme nach der Verifizierung und bei der Profilzustellung
+**Probleme nach der Verifizierung und bei der Profilzustellung**
 
 **Problem 8: eSIM-Profil kommt nach erfolgreicher Verifizierung nicht an.** Gelegentlich wird die Video-Ident-Sitzung erfolgreich abgeschlossen, aber das eSIM-Profil kommt nie per E-Mail oder Push-Benachrichtigung an. Dies ist typischerweise eine Systemverzögerung des Anbieters oder ein Problem bei der Nachrichtenzustellung.
 
@@ -422,17 +409,17 @@ Eine praktische Anleitung zur Behebung von eSIM-Aktivierungsproblemen jenseits d
 
 Die Entscheidung zwischen einer deutschen Anbieter-eSIM mit Pass-Registrierung und einer internationalen eSIM ohne Registrierung hängt von drei Faktoren ab: ob Sie eine deutsche Telefonnummer benötigen, ob Sie bereit sind, fünfzehn bis zwanzig Minuten für die Identitätsprüfung aufzuwenden, und ob Ihr Gerät eSIM überhaupt unterstützt.
 
-### Wenn mobile Daten ausreichen
+**Wenn mobile Daten ausreichen**
 
 **Wenn Sie nur mobile Daten benötigen** – Karten, Messaging-Apps, E-Mail, soziale Medien, Fahrdienste, Surfen im Internet – ist eine [Deutschland eSIM](/germany-esim/) von einem Anbieter wie Roami der einfachste Weg. Kein Reisepass erforderlich, kein Videoanruf, keine Adressverifizierung. Sie installieren das eSIM-Profil vor der Abreise und landen mit funktionierender Konnektivität in Deutschland. Die Kosten liegen zwischen etwa 10 EUR und 30 EUR für Tarife mit einer Laufzeit von ein bis vier Wochen. Zeitaufwand insgesamt: weniger als fünf Minuten. Verwenden Sie den Rabattcode **web20** an der Kasse für 20 % Rabatt. Wenn Sie den Dienst vor dem Kauf testen möchten, bietet Roami eine kostenlose UK-eSIM-Testversion unter [/free-esim/](/free-esim/) an, mit der Sie die Gerätekompatibilität und den Aktivierungsprozess überprüfen können.
 
-### Wenn Sie eine deutsche Telefonnummer benötigen
+**Wenn Sie eine deutsche Telefonnummer benötigen**
 
 **Wenn Sie eine deutsche Telefonnummer benötigen** – für lokale Sprachanrufe, SMS-basierte Zwei-Faktor-Authentifizierung oder eine deutsche Kontaktnummer für geschäftliche Zwecke – ist eine Prepaid-eSIM von Telekom, Vodafone oder O2 mit vollständiger Passverifizierung der Standardweg. Der Prozess dauert fünfzehn bis zwanzig Minuten. Sie benötigen Ihren Reisepass, ein Gerät mit Frontkamera und eine stabile Internetverbindung. Alternativ können Sie nach Ihrer Ankunft in Deutschland eine physische Prepaid-SIM in einem Anbietershop kaufen. Bringen Sie Ihren Reisepass mit, schließen Sie die Verifizierung persönlich ab und verlassen Sie das Geschäft mit einer aktiven SIM – in etwa zehn Minuten.
 
 **Wenn Sie sowohl mobile Daten als auch eine deutsche Nummer benötigen**, bietet der zuvor beschriebene Dual-SIM-Ansatz die Vorteile beider Optionen. Eine internationale Daten-eSIM übernimmt Ihre gesamte Internetkonnektivität ohne Registrierung. Eine deutsche Prepaid-SIM bietet Sprach- und SMS-Dienste mit einer lokalen Nummer. Moderne Smartphones verwalten beide Verbindungen gleichzeitig, und Sie können wählen, welche Leitung die Daten übernimmt, welche Anrufe führt und wie eingehende Anrufe weitergeleitet werden.
 
-### Optionen für Geräte ohne eSIM-Unterstützung
+**Optionen für Geräte ohne eSIM-Unterstützung**
 
 **Wenn Ihr Gerät keine eSIM unterstützt** – Ihr Telefon wurde vor 2018 veröffentlicht oder ist eine regionale Variante ohne eSIM-Hardware – können Sie mobile Dienste in Deutschland weiterhin nutzen, indem Sie eine physische Prepaid-SIM-Karte kaufen. Telekom, Vodafone und O2 verkaufen alle Prepaid-SIM-Kits in ihren Ladengeschäften, in Supermarktketten (Aldi, Lidl, Rewe, Edeka) und bei Elektronikhändlern (Saturn, MediaMarkt). Die Passverifizierung wird am Verkaufsort durchgeführt und dauert etwa zehn Minuten. Abdeckung und Servicequalität sind identisch mit dem, was eSIM-Nutzer erhalten.
 
@@ -450,34 +437,26 @@ Eine umfassende Übersicht über alle Konnektivitätsoptionen in Deutschland fin
 
 ## Häufige Fragen
 
-### Brauche ich einen Reisepass für eine Deutschland eSIM?
-
+**Brauche ich einen Reisepass für eine Deutschland eSIM?**
 Das hängt vom Anbieter ab. Bei deutschen Lizenzanbietern wie Telekom, Vodafone oder O2 ist ein Reisepass zwingend erforderlich – das Telekommunikationsgesetz (TKG) schreibt eine Identitätsprüfung für jede SIM-Karte vor. Internationale eSIM-Anbieter, die über Roaming-Vereinbarungen operieren, verlangen hingegen keinen Reisepass-Upload.
 
-### Gilt die Pass-Registrierung auch für eSIMs?
-
+**Gilt die Pass-Registrierung auch für eSIMs?**
 Ja, ohne Ausnahme. Das TKG unterscheidet nicht zwischen einer physischen SIM-Karte und einer eSIM – für beide gilt dieselbe Identifikationspflicht. Sobald ein deutscher Lizenzanbieter ein eSIM-Profil ausstellt, muss Ihre Identität nach denselben Regeln überprüft werden wie bei einer Plastik-SIM.
 
-### Was passiert, wenn meine Video-Ident-Verifizierung fehlschlägt?
-
+**Was passiert, wenn meine Video-Ident-Verifizierung fehlschlägt?**
 Sie können die Sitzung in der Regel sofort wiederholen. Häufige Fehlerursachen sind Spiegelungen auf dem Reisepass, unzureichende Beleuchtung oder eine instabile Internetverbindung. Bei wiederholten Fehlversuchen kann eine manuelle Prüfung ausgelöst werden, die ein bis drei Werktage dauern kann. Alternativ können Sie die Verifizierung persönlich in einem Anbietershop oder per Post-Ident in einer Postfiliale durchführen.
 
-### Können Touristen eine deutsche eSIM mit Telefonnummer bekommen?
-
+**Können Touristen eine deutsche eSIM mit Telefonnummer bekommen?**
 Ja, Touristen können eine deutsche Mobilfunknummer per eSIM erhalten. Sie müssen lediglich die vollständige Identitätsprüfung mit einem gültigen Reisepass durchlaufen – eine deutsche Adresse oder EU-Staatsbürgerschaft ist dafür nicht erforderlich. Der gesamte Prozess dauert bei Anbietern wie Telekom, Vodafone oder O2 etwa fünfzehn bis zwanzig Minuten.
 
-### Wie lange dauert die Registrierung?
-
+**Wie lange dauert die Registrierung?**
 Bei internationalen eSIM-Anbietern ohne Registrierungspflicht dauert die Aktivierung nur zwei bis fünf Minuten. Bei deutschen Lizenzanbietern mit Video-Ident-Verfahren sollten Sie insgesamt fünfzehn bis zwanzig Minuten einplanen, wobei die Video-Sitzung selbst drei bis fünf Minuten dauert. Schließen Sie die Registrierung idealerweise mindestens 24 Stunden vor Ihrer Abreise ab.
 
-### Welche Dokumente werden akzeptiert?
-
+**Welche Dokumente werden akzeptiert?**
 Ein gültiger Reisepass aus jedem Land wird akzeptiert. Für EU-Bürger werden auch nationale Personalausweise anerkannt. Nicht akzeptiert werden hingegen Führerscheine, und Nicht-EU-Personalausweise – unabhängig vom Ausstellungsland. Fotokopien oder digitale Scans reichen für die Video-Ident-Sitzung nicht aus, Sie benötigen das physische Originaldokument.
 
-### Brauche ich eine deutsche Adresse für die eSIM-Registrierung?
-
+**Brauche ich eine deutsche Adresse für die eSIM-Registrierung?**
 Nein, eine deutsche Wohnadresse ist für Prepaid-eSIMs nicht erforderlich. Sie können Ihre Heimatadresse, eine Hoteladresse oder eine Airbnb-Adresse angeben. Das Adressfeld dient ausschließlich den Kundendaten des Anbieters und wird nicht gegen ein staatliches Melderegister abgeglichen. Nur bei langfristigen Postpaid-Verträgen verlangen einige Anbieter eine deutsche Adresse.
 
-### Kann ich die eSIM vor der Reise aktivieren?
-
+**Kann ich die eSIM vor der Reise aktivieren?**
 Ja, bei internationalen Anbietern können Sie die eSIM von überall aus kaufen und installieren. Der Datentarif aktiviert sich automatisch, sobald Ihr Telefon bei der Ankunft eine Verbindung zu einem deutschen Mobilfunknetz herstellt. Bei deutschen Anbietern mit Registrierungspflicht müssen Sie den Verifizierungsprozess abschließen, bevor die eSIM freigeschaltet wird – auch dies ist vor der Abreise möglich.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "USA eSIM mit Telefonnummer: Anbieter und Tarife"
 description: "USA eSIM mit Telefonnummer: Anbieter für Anrufe & SMS im Vergleich. Roami mit US-Nummern-Option. Günstige Tarife. Jetzt vergleichen!"
 keywords: ["USA eSIM mit Telefonnummer", "USA eSIM Telefonnummer", "US Nummer eSIM", "USA eSIM mit Rufnummer", "eSIM USA mit US Nummer"]
@@ -118,8 +118,7 @@ Für reine Datennutzung ohne Telefonnummer siehe unseren [USA eSIM Komplettleitf
 
 Tello ist für die meisten Reisenden die beste Option für eine USA eSIM mit Telefonnummer. Der Service läuft im T-Mobile-Netz und bietet flexible Tarife ohne Vertragsbindung.
 
-### Tello Tarife im Detail
-
+**Tello Tarife im Detail**
 | Daten | Minuten | Preis (30 Tage) | Am besten für |
 |:------|:--------|:---------------:|:--------------|
 | 1 GB | 100 Min. | $6 | Leichte Nutzung, Nummer behalten |
@@ -148,8 +147,7 @@ Für Details zur T-Mobile-Abdeckung besuchen Sie die offizielle [T-Mobile Abdeck
 
 Google Fi ist der teuerste, aber auch flexibelste Anbieter mit US-Nummer. Der Dienst funktioniert in über 200 Ländern und ist besonders für Reisende geeignet, die mehrere Länder besuchen.
 
-### Google Fi Tarife
-
+**Google Fi Tarife**
 | Tarif | Preis | Daten | Hotspot | Am besten für |
 |:------|:-----:|:------|:-------:|:--------------|
 | Flexible | $20/Monat + $10/GB | Nach Verbrauch | Voll | Wenignutzer |
@@ -239,32 +237,25 @@ Für Reisende, die keine US-Nummer benötigen, bietet [**Roami**](/united-states
 
 ## Häufig gestellte Fragen
 
-### Brauche ich eine US-Telefonnummer für meine USA eSIM?
-
+**Brauche ich eine US-Telefonnummer für meine USA eSIM?**
 Für die meisten Reisenden: nein. Reine Datentarife von [**Roami**](/usa-esim/), Airalo oder Holafly funktionieren perfekt für WhatsApp, Google Maps, Uber und Social Media. Eine US-Nummer brauchen Sie nur, wenn Sie SMS-Bestätigungscodes empfangen, US-Dienste registrieren oder lokale Anrufe tätigen müssen.
 
-### Kann ich mit einer USA eSIM telefonieren?
-
+**Kann ich mit einer USA eSIM telefonieren?**
 Ja – wenn Ihr Tarif Sprachunterstützung beinhaltet. Tello, Google Fi und die Prepaid-Tarife der drei großen US-Anbieter unterstützen alle Anrufe mit einer US-Nummer. Reine Daten-eSIMs unterstützen nur VoIP-Anrufe (WhatsApp, FaceTime, Skype).
 
-### Kann ich SMS mit einer USA eSIM empfangen?
-
+**Kann ich SMS mit einer USA eSIM empfangen?**
 Nur mit Tarifen, die eine Telefonnummer beinhalten. Tello, Google Fi und Anbieter-Prepaid-Tarife unterstützen SMS, einschließlich OTP-Bestätigungscodes. Reine Daten-eSIMs unterstützen keine SMS.
 
-### Kann ich meine US-Nummer zwischen Reisen behalten?
-
+**Kann ich meine US-Nummer zwischen Reisen behalten?**
 Ja. Tello ermöglicht es, die Nummer für $5/Monat zu behalten. Verlängern Sie vor Ablauf der 30-Tage-Gültigkeit manuell – Ihre Nummer und ungenutzte Daten bleiben erhalten. Google Fi kann pausiert werden (maximal 3 Monate), kostet aber weiterhin die Grundgebühr.
 
-### Brauche ich einen Reisepass für eine USA eSIM mit Telefonnummer?
-
+**Brauche ich einen Reisepass für eine USA eSIM mit Telefonnummer?**
 Ja – für Tarife mit US-Nummer ist eine Identitätsprüfung gesetzlich vorgeschrieben. Tello, Google Fi und alle US-Anbieter verlangen einen Reisepass. Airalo Discover+ ist die einzige Ausnahme: Der Kauf erfordert nur eine E-Mail-Adresse, da es sich technisch um einen internationalen Tarif handelt.
 
-### Was ist der Unterschied zwischen einer echten US-Nummer und einer VoIP-Nummer?
-
+**Was ist der Unterschied zwischen einer echten US-Nummer und einer VoIP-Nummer?**
 Eine echte US-Nummer (Tello, Google Fi, Anbieter-Prepaid) funktioniert mit allen SMS-Verifizierungsdiensten, einschließlich Banken und Behörden. VoIP-Nummern (Google Voice, Skype, TextNow) werden von vielen Verifizierungssystemen blockiert – besonders von Banken für die Zwei-Faktor-Authentifizierung.
 
-### Funktioniert eine US-Nummer mit WhatsApp?
-
+**Funktioniert eine US-Nummer mit WhatsApp?**
 Ja. Sie können WhatsApp mit Ihrer neuen US-Nummer registrieren. Beachten Sie, dass dies Ihre WhatsApp-Kontakte vorübergehend beeinträchtigen kann. Viele Reisende lassen WhatsApp auf ihrer Heim-Nummer und nutzen die US-Nummer nur für Anrufe und SMS.
 
 ---

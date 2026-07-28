@@ -1,4 +1,4 @@
----
+﻿---
 title: "Beste USA eSIM im Vergleich: Welche wirklich kaufen?"
 description: "USA eSIM Anbieter im Ranking: Airalo, Holafly, Nomad und Roami vergleichen. Netze, Preise und Bewertungen. Finden Sie den Testsieger."
 keywords: ["beste eSIM für USA-Reisen", "USA eSIM Vergleich", "günstigste eSIM für USA-Reisen", "beste unbegrenzte Daten-eSIM USA", "USA eSIM Reddit Empfehlungen"]
@@ -95,16 +95,13 @@ Airalo ist der bekannteste eSIM-Anbieter weltweit, aber Ubigi bietet ein bessere
 
 Noch unsicher? **Ubigi** ist der sicherste Tipp für die meisten Reisen. Fairer Preis, einfache Einrichtung, gute Abdeckung in Städten.
 
-### Wie diese Kurzauswahl-Tabelle erstellt wurde
-
+**Wie diese Kurzauswahl-Tabelle erstellt wurde**
 Diese **USA eSIM Bewertung** basiert auf fünf Faktoren, die nach den Prioritäten der Reisenden gewichtet wurden: Preis pro GB, Netzabdeckungsfläche, Installationsfreundlichkeit, Qualität des Kundensupports und Zusatzfunktionen (Telefonnummern, VPN, Hotspot). Jeder Anbieter wurde anhand dieser Kriterien getestet oder recherchiert, wobei Daten von [OpenSignal](https://www.opensignal.com/reports), [CNET](https://www.cnet.com/) und offiziellen Betreiber-Abdeckungskarten verwendet wurden. Die Tabelle ist für Reisende gedacht, die eine schnelle Antwort auf einen Blick wünschen, anstatt sich tiefgehend zu informieren – obwohl dieser Leitfaden beides bietet.
 
-### Was ist, wenn Ihre Reise mehrere Kategorien umfasst?
-
+**Was ist, wenn Ihre Reise mehrere Kategorien umfasst?**
 Viele Reisende besuchen auf derselben Reise sowohl Städte als auch Nationalparks. Kaufen Sie in diesem Fall eine primäre eSIM für den Großteil Ihrer Reise und eine sekundäre günstige eSIM als Backup. Zum Beispiel: Ubigi 10 GB (12 $) für Städtetage plus ein Nomad 1 GB (5,50 $) für Nationalparktage gibt Ihnen für unter 18 $ insgesamt vollständige Abdeckung – immer noch günstiger als ein einzelner unbegrenzter Tarif.
 
-### Funktionsvergleich auf einen Blick
-
+**Funktionsvergleich auf einen Blick**
 Die **USA eSIM beste** Wahl hängt von Ihren individuellen Anforderungen ab – hier sehen Sie die wichtigsten Funktionen der sechs führenden Anbieter im Vergleich.
 
 | Funktion | Ubigi | Tello | Nomad | Airalo | Holafly | Saily |
@@ -141,8 +138,7 @@ Warum ist das für Ihren **USA eSIM-Vergleich** wichtig? Weil viele Reisende die
 
 OpenSights vollständiger Bericht zur [US-Mobilfunknetzerfahrung](https://www.opensignal.com/reports) schlüsselt die Abdeckungsqualität nach Betreiber und Region auf. Für eine tiefergehende Betrachtung der Abdeckung nach Stadt und Bundesstaat zeigt der [USA eSIM Abdeckungsleitfaden](/blog/usa-esim-coverage-guide/), wo welches Netz am besten funktioniert.
 
-### 5G-Abdeckungsaufschlüsselung nach Betreiber
-
+**5G-Abdeckungsaufschlüsselung nach Betreiber**
 Stand heute haben alle drei großen US-Betreiber ihre 5G-Flächen erweitert, aber die Art des 5G ist genauso wichtig wie das Vorhandensein eines 5G-Symbols auf Ihrem Telefon. Laut dem [Ookla Speedtest Global Index](https://www.speedtest.net/global-index):
 
 | Betreiber | 5G-Bevölkerungsabdeckung | Durchschn. 5G-Download-Geschw. | 5G+ (mmWave) Verfügbarkeit |
@@ -153,12 +149,10 @@ Stand heute haben alle drei großen US-Betreiber ihre 5G-Flächen erweitert, abe
 
 T-Mobile ist führend in Bezug auf Reichweite und Rohgeschwindigkeit dank seines Mid-Band-Spektrums (2,5 GHz), das durch die Sprint-Fusion erworben wurde. Verizons mmWave (28 GHz) bietet Gigabit-Geschwindigkeiten, aber nur in Sichtlinie zu einem Mast – nützlich in einem Stadion, nutzlos auf einer Autobahn. Die Strategie von AT&T konzentriert sich auf eine konsistente Mid-Band-Abdeckung auf Autobahnen und in kleineren Märkten.
 
-### MVNO-Beziehungen erklärt
-
+**MVNO-Beziehungen erklärt**
 Alle internationalen eSIM-Anbieter in diesem Leitfaden sind Mobile Virtual Network Operators (MVNOs). Sie besitzen keine Masten. Sie mieten Zugang zu T-Mobile, AT&T oder Verizon zu Großhandelspreisen und verkaufen ihn an Sie weiter. Deshalb haben Ubigi und Tello – beide auf T-Mobile – identische Abdeckungsgebiete zueinander und zu den eigenen Prepaid-Tarifen von T-Mobile. Der [GSMA Mobile Economy Bericht](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-economy/) stellt fest, dass MVNOs jetzt etwa 35 % des US-Prepaidmarktes ausmachen, gegenüber 22 % im Jahr 2021.
 
-### Netzwerkleistung nach Großstadt
-
+**Netzwerkleistung nach Großstadt**
 | Stadt | Schnellster Betreiber | Typische 5G-Geschwindigkeit | Beste eSIM-Entsprechung |
 |:----|:---------------|:----------------:|:---------------|
 | New York | T-Mobile | 310 Mbit/s | Ubigi, Airalo |
@@ -172,8 +166,7 @@ Alle internationalen eSIM-Anbieter in diesem Leitfaden sind Mobile Virtual Netwo
 
 Geschwindigkeiten von [Ookla Speedtest Intelligence](https://www.speedtest.net/global-index). Ihre tatsächliche Geschwindigkeit hängt von der Tageszeit, dem Telefonmodell und der Entfernung zum nächsten Mast ab.
 
-### Wann ein Dual-SIM-Setup mit zwei US-Netzen in Betracht ziehen
-
+**Wann ein Dual-SIM-Setup mit zwei US-Netzen in Betracht ziehen**
 Für Reisende, die sowohl städtische als auch ländliche Gebiete abdecken, bietet der gleichzeitige Betrieb von zwei eSIMs (eine auf T-Mobile, eine auf AT&T oder Verizon) das Beste aus beiden Welten. Die meisten modernen iPhones (XS und neuer) und Android-Flaggschiffe unterstützen Dual-eSIM. Legen Sie Ihre T-Mobile-eSIM als primäre Datenleitung für Städte fest und behalten Sie eine AT&T/Verizon-eSIM als Fallback. Das manuelle Umschalten dauert etwa 30 Sekunden in den Einstellungen.
 
 ---
@@ -199,8 +192,7 @@ Die Einrichtung ist einfach – sie senden Ihnen einen QR-Code per E-Mail, Sie s
 
 **Überspringen Sie es, wenn:** Sie Nationalparks besuchen oder durch ländliche Gebiete fahren. T-Mobile reicht nicht überall hin, und Ubigi hat keinen Fallback auf AT&T oder Verizon. Für eine beste eSIM für USA-Roadtrip mit Yellowstone oder dem Grand Canyon sind Sie mit Nomad besser beraten. Wenn Sie Nomad vs. Ubigi für eine US-Reise vergleichen, kommt es darauf an, wohin Sie fahren – Ubigi gewinnt in Städten, Nomad auf der Straße.
 
-### Ubigi reale Geschwindigkeitstestergebnisse
-
+**Ubigi reale Geschwindigkeitstestergebnisse**
 Wir haben Geschwindigkeitstestdaten von Ubigi-Nutzern in fünf US-Städten gesammelt. Die Ergebnisse wurden auf iPhone 15 Pro und Samsung Galaxy S24-Geräten gemessen:
 
 | Stadt | Durchschn. Download | Durchschn. Upload | Latenz | Teststandorte |
@@ -213,8 +205,7 @@ Wir haben Geschwindigkeitstestdaten von Ubigi-Nutzern in fünf US-Städten gesam
 
 Daten gesammelt über [Speedtest von Ookla](https://www.speedtest.net/global-index), mindestens 20 Tests pro Stadt. Die Geschwindigkeiten während der Hauptverkehrszeiten (17:00 – 20:00 Uhr Ortszeit) waren an allen Standorten durchschnittlich etwa 15 % niedriger.
 
-### Ubigi-Preisgestaltung vs. Wettbewerber auf jeder Datenstufe
-
+**Ubigi-Preisgestaltung vs. Wettbewerber auf jeder Datenstufe**
 | Datenstufe | Ubigi | Airalo | Nomad | Tello | Saily |
 |:---------|:----:|:-----:|:-----:|:-----:|:----:|
 | 1 GB | 4,00 $ | 4,50 $ | 5,50 $ | 5,00 $ | 4,49 $ |
@@ -226,8 +217,7 @@ Daten gesammelt über [Speedtest von Ookla](https://www.speedtest.net/global-ind
 
 Ubigi ist der klare Preisführer bei 10 GB und mehr. Auf niedrigeren Stufen ist der Unterschied marginal – 0,50 $ trennen Ubigi, Airalo und Saily bei 1 GB.
 
-### Für wen Ubigi nicht ideal ist
-
+**Für wen Ubigi nicht ideal ist**
 Obwohl Ubigi unser Top-Gesamttipp ist, ist es nicht die beste Wahl für jeden Reisenden:
 
 - **Viel-Streamer**, die täglich mehr als eine Stunde YouTube oder Netflix über Mobilfunk schauen – Holaflys unbegrenzter Tarif nimmt die Angst vor dem Zählen von GB
@@ -260,14 +250,12 @@ Wann ist eine US-Nummer wichtig? Wenn Sie ein Mietwagen buchen und die Agentur e
 
 **Überspringen Sie es, wenn:** Sie in ländliche Gebiete reisen. Tello ist ein MVNO im T-Mobile-Netz – gleiche Abdeckungslücken wie T-Mobile selbst. Wenn Sie Tello vs. Airalo für eine US-Reise vergleichen, gewinnt Tello bei der Nummer, Airalo bei der Dual-Netzwerk-Abdeckung für ländliche Reisen.
 
-### Wie Tellos Datenübertragung tatsächlich funktioniert
-
+**Wie Tellos Datenübertragung tatsächlich funktioniert**
 Tellos Übertragungsfunktion ist eine der großzügigsten in der Branche. Wenn Sie Ihren Tarif vor Ablauf des aktuellen 30-Tage-Zyklus verlängern, werden ungenutzte Daten in den nächsten Monat übertragen. Die Übertragungsgrenze entspricht der ursprünglichen Datenmenge Ihres Tarifs – wenn Sie also den 10-GB-Tarif haben, können Sie bis zu 10 GB an Übertragungsdaten ansammeln.
 
 Dadurch ist Tello besonders geeignet für Reisende mit Aufenthalten von 60+ Tagen oder solche, die Daten von Woche zu Woche unregelmäßig nutzen.
 
-### Tello vs. US-Betreiber-Prepaid-Tarife mit Telefonnummern
-
+**Tello vs. US-Betreiber-Prepaid-Tarife mit Telefonnummern**
 | Anbieter | 10-GB-Preis | Hotspot | Internationales Telefonieren | Datenübertragung |
 |:---------|:---------:|:-------:|:--------------------:|:-------------:|
 | Tello | 15,00 $ | Ja | Pay-per-use | Ja (bis Tarifgröße) |
@@ -278,24 +266,23 @@ Dadurch ist Tello besonders geeignet für Reisende mit Aufenthalten von 60+ Tage
 
 Tello bietet den gleichen Preis pro GB wie Mint Mobile, fügt aber Datenübertragung hinzu – ein bedeutender Vorteil für Reisende, deren Datenverbrauch schwankt. Die großen Betreiber verlangen 2-3x mehr für die gleichen Daten, weil sie Inlandsgesprächsminuten und Support im Einzelhandel beinhalten, was die meisten Reisenden nicht benötigen.
 
-### Wann Tellos US-Nummer den Tag rettet: drei reale Szenarien
-
+**Wann Tellos US-Nummer den Tag rettet: drei reale Szenarien**
 - **Mietwagenabholung am LAX:** Avis benötigt eine funktionierende Rückrufnummer, um den Vertrag abzuschließen. Mit Tellos US-Nummer können Sie den Bestätigungsanruf sofort empfangen. Nur-Daten-eSIM-Nutzer müssen eine Nummer erfinden oder riskieren, dass die Anmietung abgelehnt wird.
 
 - **Delta-Flugcheck-in:** Die Delta-App sendet einen SMS-Bestätigungscode, um den Online-Check-in 24 Stunden vor Abflug zu bestätigen. Ohne US-Nummer müssen Sie am Flughafenschalter einchecken, was 20–30 Minuten zu Ihrem Prozess hinzufügt.
 
 - **Uber-Fahrt am JFK:** Ihr Fahrer kommt an Terminal 4 an, aber Sie sind an Terminal 2. Mit Tello können sie Sie anrufen. Mit einer Nur-Daten-eSIM tauschen Sie WhatsApp-Nachrichten aus, die der Fahrer möglicherweise nicht liest.
 
-### Vor- und Nachteile von Tello für Reisende
+**Vor- und Nachteile von Tello für Reisende**
 
-### Vorteile:
+**Vorteile:**
 - Niedrigster Preis für eine US-Telefonnummer unter allen eSIM-Optionen
 - Datenübertragung reduziert Verschwendung an Tagen mit geringer Nutzung
 - 30-tägige Gültigkeit passt gut zu mittellangen Reisen
 - Einfache Online-Kontoverwaltung mit jederzeit möglichen Tarifänderungen
 - Keine Bonitätsprüfung oder Sozialversicherungsnummer erforderlich
 
-### Nachteile:
+**Nachteile:**
 - Nur T-Mobile-Netzwerk (begrenzte ländliche Abdeckung)
 - Keine physischen Filialen – gesamter Support digital
 - Internationales Roaming-Add-on erforderlich, wenn Kanada oder Mexiko besucht wird
@@ -322,8 +309,7 @@ Nomad bietet auch gelegentliche Aktionen – wie 50 GB für 12 $ (10 Tage) – d
 
 **Überspringen Sie es, wenn:** Sie nur Städte besuchen. Sie können mehr Daten für weniger Geld mit Ubigi oder Airalo bekommen. Wenn Sie eine US-Nummer wünschen, kombinieren Sie Nomad mit Tello oder lesen Sie unseren [USA eSIM mit Telefonnummer Leitfaden](/blog/usa-esim-with-phone-number/).
 
-### AT&T vs. Verizon: Welches Netz nutzt Nomad tatsächlich?
-
+**AT&T vs. Verizon: Welches Netz nutzt Nomad tatsächlich?**
 Nomad verbindet sich für die meisten Nutzer hauptsächlich mit dem AT&T-Netzwerk, mit automatischem Fallback auf Verizon in Gebieten, in denen die AT&T-Abdeckung schwächer ist. Diese Dual-Carrier-Regelung wird über Nomads Roaming-Vereinbarungen verwaltet – Ihr Telefon wählt das stärkste verfügbare Signal ohne manuelles Eingreifen.
 
 In der Praxis bedeutet das:
@@ -331,8 +317,7 @@ In der Praxis bedeutet das:
 - **Nationalparks (Yellowstone, Grand Canyon, Zion):** AT&T deckt Besucherzentren und Hauptstraßen ab; Verizon reicht tiefer in die Backcountry-Trails
 - **Kleinstädte (Moab, Marfa, Taos):** Entweder AT&T oder Verizon wird je nach Region Signal haben
 
-### Abdeckungsvergleich in großen US-Nationalparks
-
+**Abdeckungsvergleich in großen US-Nationalparks**
 | Nationalpark | T-Mobile | AT&T | Verizon | Beste eSIM |
 |:-------------|:-------:|:----:|:-------:|:---------|
 | Yellowstone (WY) | Schwach | Mäßig | Gut | Nomad |
@@ -346,8 +331,7 @@ In der Praxis bedeutet das:
 
 Abdeckungsbewertungen basierend auf [FCC-Abdeckungskarten](https://www.fcc.gov/BroadbandData/coverage) und aktuellen Anbieterdaten. „Keine” bedeutet kein nutzbares Signal in den inneren Parkbereichen.
 
-### Nomad-Aktionsangebote: So finden Sie den besten Wert
-
+**Nomad-Aktionsangebote: So finden Sie den besten Wert**
 Nomad führt unregelmäßige Aktionskampagnen durch, die die Standardpreise erheblich unterbieten. Kürzlich beobachtete Aktionen umfassen:
 - **50 GB für 12 $ (10 Tage):** Erschien im März und Juni. Die Gültigkeit ist kurz, aber die Kosten pro GB von 0,24 $ sind die niedrigsten aller Reise-eSIMs in diesem Vergleich.
 - **20 GB für 15 $ (30 Tage):** Wird regelmäßig Neukunden angeboten. Entspricht Ubigis 25-GB-Preisgestaltung auf einer niedrigeren Stufe.
@@ -355,15 +339,15 @@ Nomad führt unregelmäßige Aktionskampagnen durch, die die Standardpreise erhe
 
 Um diese Angebote zu nutzen, prüfen Sie Nomads Website 2–3 Wochen vor Ihrer Reise und melden Sie sich für deren E-Mail-Liste an. Aktionen laufen typischerweise 48–72 Stunden und werden nicht auf Vergleichsseiten Dritter beworben.
 
-### Nomad Vor- und Nachteile
+**Nomad Vor- und Nachteile**
 
-### Vorteile:
+**Vorteile:**
 - Beste ländliche Abdeckung aller internationalen eSIM-Anbieter
 - Zugang zu AT&T- und Verizon-Netzen
 - Wettbewerbsfähige Aktionspreise bei Verfügbarkeit
 - Zuverlässig auf Interstate-Highways und in Nationalparks
 
-### Nachteile:
+**Nachteile:**
 - Standardpreise sind auf jeder Datenstufe höher als bei Ubigi
 - Keine US-Telefonnummer
 - Aktionen sind unvorhersehbar – können nicht für die Reiseplanung eingeplant werden
@@ -394,8 +378,7 @@ Gizmodo nannte es eine der [besten Reise-eSIMs](https://gizmodo.com/best-esim-pr
 
 **Überspringen Sie es, wenn:** Sie mehr als 5 GB zu einem vernünftigen Preis benötigen. Oberhalb davon gibt Ubigi mehr Daten pro Dollar. Der Kundensupport setzt auch stark auf Chatbots – einen Menschen zu erreichen dauert.
 
-### Airalos Dual-Netzwerk-Wechsel in der Praxis
-
+**Airalos Dual-Netzwerk-Wechsel in der Praxis**
 Airalos US-eSIM verbindet sich über eine Funktion namens automatische Netzauswahl mit T-Mobile und Verizon. Ihr Telefon scannt verfügbare Netze und wählt das stärkste Signal. Im realen Test:
 - **Städtische Gebiete (NYC, Chicago):** Das Telefon bleibt zu 90 %+ auf T-Mobile aufgrund der überlegenen 5G-Geschwindigkeit
 - **Vorstädtische Übergangszonen:** Sie können für 30–60 Sekunden kurzzeitig die Konnektivität verlieren, während zwischen Netzen gewechselt wird
@@ -403,8 +386,7 @@ Airalos US-eSIM verbindet sich über eine Funktion namens automatische Netzauswa
 
 Diese Dual-Netzwerk-Fähigkeit ist bei Reise-eSIMs selten – die meisten verbinden sich nur mit einem US-Betreiber. Es macht Airalo zu einer guten Mittelweg-Option für Reisende, die ihre Zeit zwischen Städten und Land aufteilen, aber nicht zwei separate eSIMs verwalten möchten.
 
-### Airalo App-Erfahrung vs. Wettbewerber
-
+**Airalo App-Erfahrung vs. Wettbewerber**
 | Funktion | Airalo | Ubigi | Nomad | Holafly |
 |:--------|:------:|:-----:|:-----:|:-------:|
 | App Store Bewertung | 4.7 | 4.6 | 4.4 | 4.3 |
@@ -417,16 +399,16 @@ Diese Dual-Netzwerk-Fähigkeit ist bei Reise-eSIMs selten – die meisten verbin
 
 Daten aus offiziellen App-Store-Einträgen und AGB der Anbieter, Juni.
 
-### Wann Airalo sinnvoll ist – und wann nicht
+**Wann Airalo sinnvoll ist – und wann nicht**
 
-### Airalo in Betracht ziehen, wenn:
+**Airalo in Betracht ziehen, wenn:**
 - Ihre Reise 1–4 Tage in einer Großstadt dauert
 - Sie die niedrigstmöglichen Vorabkosten wünschen
 - Sie auch Kanada oder Mexiko auf derselben Reise besuchen
 - Sie noch nie eine eSIM verwendet haben und die einfachste Einrichtung wünschen
 - Sie das Sicherheitsnetz von T-Mobile + Verizon-Fallback wünschen
 
-### Airalo überspringen, wenn:
+**Airalo überspringen, wenn:**
 - Sie 10 GB oder mehr benötigen – Ubigi spart Ihnen auf dieser Stufe 6 $ oder mehr
 - Sie Kundensupport benötigen – Wartezeiten für einen Menschen durchschnittlich 45+ Minuten
 - Sie hauptsächlich ländliche Gebiete besuchen – Nomads AT&T+Verizon-Kombination ist zuverlässiger
@@ -456,8 +438,7 @@ Für Gelegenheitsnutzer, die nur Karten und Messaging benötigen, ist Holafly im
 
 **Überspringen Sie es, wenn:** Sie ein knappes Budget haben. Sie Hotspot für Laptop-Arbeit benötigen. Sie länger als zwei Wochen bleiben – Festdaten-Tarife werden ab diesem Zeitpunkt deutlich günstiger.
 
-### Holaflys Fair-Use-Policy erklärt
-
+**Holaflys Fair-Use-Policy erklärt**
 Holaflys „unbegrenzte“ Daten unterliegen einer Fair-Use-Policy (FUP). In der Praxis bedeutet das:
 - **Datengeschwindigkeit:** Unbegrenzte Daten mit voller Geschwindigkeit auf Ihrem Telefon (nicht Hotspot). Es gibt keine harte Obergrenze für die Telefon-Datennutzung.
 - **Hotspot-Grenze:** 500 MB pro Tag mit voller Geschwindigkeit, danach wird Hotspot auf 128 kbit/s gedrosselt – kaum genug für textbasierte E-Mails.
@@ -466,8 +447,7 @@ Holaflys „unbegrenzte“ Daten unterliegen einer Fair-Use-Policy (FUP). In der
 
 Die [Open Internet Rules der FCC](https://www.fcc.gov/general/open-internet) verlangen von Anbietern, ihre Netzwerkmanagement-Praktiken offenzulegen, aber als MVNO, der unter der Infrastruktur von AT&T operiert, unterscheidet sich die Implementierung von Holafly von den direkten Betreiberrichtlinien.
 
-### Holafly vs. unbegrenzte Tarife von Wettbewerbern
-
+**Holafly vs. unbegrenzte Tarife von Wettbewerbern**
 | Anbieter | 7-Tage-Preis | Wirklich unbegrenzt | Hotspot | Netzwerk | Drosselungsschwelle |
 |:---------|:----------:|:--------------:|:-------:|:-------:|:------------------:|
 | Holafly | 27,30 $ | Ja (Telefon) | 500 MB/Tag | AT&T | Keine (Telefon) |
@@ -479,8 +459,7 @@ Die [Open Internet Rules der FCC](https://www.fcc.gov/general/open-internet) ver
 
 Holaflys Tagespreis (3,90 $/Tag für 7 Tage) ist der niedrigste unter den unbegrenzten Optionen, aber die Hotspot-Einschränkung ist eine bedeutende Einschränkung. Tellos unbegrenzter Tarif für 35 $ für 30 Tage entspricht 1,17 $/Tag – deutlich günstiger für längere Aufenthalte – läuft aber auf T-Mobile statt AT&T.
 
-### Wie Vielnutzer tatsächlich Daten auf Holafly verbrauchen
-
+**Wie Vielnutzer tatsächlich Daten auf Holafly verbrauchen**
 Basierend auf Trustpilot-Bewertungen und Reddit-Beiträgen von verifizierten Holafly-Nutzern, hier ist, was ein typischer Vielnutzer an einem Tag verbraucht:
 
 | Aktivität | Daten pro Tag | Bewältigt Holafly das? |
@@ -513,8 +492,7 @@ Das VPN ermöglicht es Ihnen auch, so zu erscheinen, als ob Sie aus Ihrem Heimat
 
 **Überspringen Sie es, wenn:** Sie ein knappes Budget haben. 10 GB kosten hier 26,99 $ vs. 12 $ bei Ubigi. Sie zahlen für die VPN-Funktionen, nicht für die Daten. Beachten Sie auch, dass Saily nur T-Mobile nutzt, die Abdeckung in ländlichen Gebieten also begrenzt ist.
 
-### Wie Sailys integriertes VPN Geschwindigkeit und Datenschutz beeinflusst
-
+**Wie Sailys integriertes VPN Geschwindigkeit und Datenschutz beeinflusst**
 Saily integriert das WireGuard-Protokoll von NordVPN direkt in die eSIM-Verbindung. Wenn Daten durch Sailys Server fließen, werden sie verschlüsselt, bevor sie das T-Mobile-Netzwerk erreichen. Die [Dokumentation von Nord Security](https://nordsecurity.com/) bestätigt, dass keine Protokolle der Surfaktivität gespeichert werden.
 
 Die Datenschutzvorteile:
@@ -525,8 +503,7 @@ Die Datenschutzvorteile:
 
 Der Geschwindigkeits-Kompromiss: Die VPN-Verschlüsselung fügt 5–15 % Latenz-Overhead hinzu. In unseren Tests erreichte Saily durchschnittlich 185 Mbit/s auf einer T-Mobile-5G-Verbindung, die normalerweise 225 Mbit/s lieferte – eine etwa 18 %ige Reduzierung, die für die meisten Surf- und Streaming-Aufgaben nicht wahrnehmbar ist.
 
-### Saily vs. Nur-Daten-eSIM + separates VPN
-
+**Saily vs. Nur-Daten-eSIM + separates VPN**
 | Faktor | Saily (All-in-One) | Ubigi + NordVPN (separat) |
 |:-------|:-----------------:|:--------------------------:|
 | 10-GB-Gesamtkosten | 26,99 $ | 12,00 $ + 12,99 $/Monat = 24,99 $ |
@@ -538,8 +515,7 @@ Der Geschwindigkeits-Kompromiss: Die VPN-Verschlüsselung fügt 5–15 % Latenz-
 
 Der Kostenunterschied zwischen Saily und dem kombinierten Ansatz ist vernachlässigbar (2 $). Die Entscheidung hängt vom Komfort ab: Saily ist einfacher, aber ein separater Ansatz gibt Ihnen mehr Kontrolle darüber, welcher Datenverkehr das VPN nutzt.
 
-### Wer Saily nutzen sollte – drei spezifische Reiseprofile
-
+**Wer Saily nutzen sollte – drei spezifische Reiseprofile**
 - **Digitale Nomaden, die in Coffee-Shops arbeiten:** Die Verbindung zu offenen WLAN-Netzen in Coffee-Shops in Austin, Portland oder Brooklyn ohne VPN macht Ihren Laptop-Datenverkehr angreifbar. Saily macht jede Verbindung standardmäßig sicher.
 
 - **Reisende, die auf Banking ihres Heimatlandes zugreifen:** Wenn die App oder Website Ihrer Bank US-IP-Adressen blockiert, ermöglicht Sailys VPN Ihnen, so zu erscheinen, als ob Sie von zu Hause aus surfen. Dies ist besonders nützlich für europäische Reisende, die auf Banking- oder Regierungsdienste zugreifen müssen.
@@ -556,8 +532,7 @@ Google Fi funktioniert über Telefone, Tablets und einige Laptops mit einem einz
 
 **Überspringen Sie es, wenn:** Sie allein für eine kurze Reise reisen. Das Minimum von 20 $/Monat macht es für einen einwöchigen Besuch teuer.
 
-### Google Fi Tarifoptionen für Reisende
-
+**Google Fi Tarifoptionen für Reisende**
 Google Fi bietet derzeit drei Tarifstufen, die jeweils unterschiedlich für Reisende geeignet sind:
 
 | Tarif | Preis | Daten | Hotspot | International | Am besten für |
@@ -568,8 +543,7 @@ Google Fi bietet derzeit drei Tarifstufen, die jeweils unterschiedlich für Reis
 
 **Wichtiger Aktivierungshinweis für Reisende:** Google Fi erfordert, dass Sie sich physisch in den USA befinden, um den Dienst zu aktivieren. Es funktioniert auch am besten mit Google Pixel-Telefonen und vollständig unterstützten iPhones (XS und neuer mit iOS 16+). Sie müssen den Dienst hauptsächlich in den USA aktivieren und nutzen – eine längere internationale Nutzung kann zur Aussetzung der Daten führen.
 
-### Google Fi vs. internationale eSIMs für Familien
-
+**Google Fi vs. internationale eSIMs für Familien**
 | Faktor | Google Fi (Simply Unlimited) | 4x Ubigi 10 GB (pro Person) |
 |:-------|:--------------------------:|:--------------------------:|
 | Monatliche Kosten (4 Personen) | 65 $ | 48 $ (4 × 12 $) |
@@ -581,8 +555,7 @@ Google Fi bietet derzeit drei Tarifstufen, die jeweils unterschiedlich für Reis
 
 Für eine vierköpfige Familie, die 10–14 Tage die USA besucht, ist Google Fis Simply Unlimited mit insgesamt 65 $ tatsächlich günstiger als der Kauf von vier separaten eSIMs mit vergleichbaren Daten. Die US-Telefonnummern sind ein Bonus für Mietwagen und Hotelbuchungen. Der Haken ist die Aktivierung – Sie benötigen eine US-Adresse, um den Dienst zu starten, was es für Erstbesucher, die noch nicht gelandet sind, unpraktisch macht.
 
-### Google Fi Datengeschwindigkeiten und Netzwerkleistung
-
+**Google Fi Datengeschwindigkeiten und Netzwerkleistung**
 Google Fi nutzt T-Mobile und US Cellular als Hauptnetzpartner mit automatischem Wechsel zwischen beiden. In der Praxis:
 - **Großstädte:** Fi schneidet identisch zu T-Mobile ab – 225–310 Mbit/s 5G-Geschwindigkeiten in NYC, Chicago, LA
 - **Vorstädtische Gebiete:** Fi kann in Regionen, in denen T-Mobile schwächer ist (Teile des Mittleren Westens und des Pazifischen Nordwestens), auf US Cellular umschalten
@@ -609,8 +582,7 @@ Die drei großen US-Betreiber bieten Prepaid-eSIM-Tarife an. Sie kosten mehr pro
 
 Wenn Sie versuchen, sich zwischen T-Mobile vs. AT&T vs. Verizon für Ihre Reise zu entscheiden, lautet die Faustregel einfach: Städte → T-Mobile, Nationalparks → AT&T, abgelegene Wildnis → Verizon.
 
-### T-Mobile Prepaid eSIM für Reisende: Detaillierte Bewertung
-
+**T-Mobile Prepaid eSIM für Reisende: Detaillierte Bewertung**
 T-Mobiles Prepaid-eSIM ist über ihre Website oder jeden T-Mobile-Shop erhältlich. Der „Connect“-Tarif beginnt bei 10 $ für 5 GB (30 Tage) mit unbegrenztem Telefonieren und Texten. Für Reisende:
 - **eSIM-Aktivierung:** Sofort per QR-Code oder T-Mobile-App. Erfordert eine US-Kreditkarte für den Kauf.
 - **Netzwerkpriorität:** Prepaid-Nutzer erhalten denselben Netzzugang wie Postpaid – keine Drosselung
@@ -618,8 +590,7 @@ T-Mobiles Prepaid-eSIM ist über ihre Website oder jeden T-Mobile-Shop erhältli
 - **Filialunterstützung:** 7.000+ T-Mobile-Filialen landesweit – gehen Sie für Hilfe hinein
 - **Am besten für:** Reisende, die eine US-Nummer und T-Mobiles schnellste Geschwindigkeiten wünschen und bereit sind, einen Aufpreis gegenüber internationalen eSIMs zu zahlen
 
-### AT&T Prepaid eSIM für Reisende: Detaillierte Bewertung
-
+**AT&T Prepaid eSIM für Reisende: Detaillierte Bewertung**
 AT&Ts Prepaid-eSIM ist über ihre Website oder AT&T-Filialen erhältlich. Der 5-GB-Tarif für 10 $ ist preislich mit T-Mobile gleichgezogen, bietet aber eine breitere ländliche Abdeckung:
 - **eSIM-Aktivierung:** Verfügbar über die myATT-App. Erfordert eine US-Kreditkarte.
 - **Netzwerkpriorität:** Prepaid-Daten werden bei Überlastung zurückgestuft – Geschwindigkeiten können in überfüllten Gebieten sinken
@@ -627,8 +598,7 @@ AT&Ts Prepaid-eSIM ist über ihre Website oder AT&T-Filialen erhältlich. Der 5-
 - **Filialunterstützung:** 5.000+ AT&T-Filialen – weniger als T-Mobile, aber immer noch umfangreich
 - **Am besten für:** Reisende, die Nationalparks besuchen oder quer durchs Land fahren und zuverlässige ländliche Konnektivität benötigen
 
-### Verizon Prepaid eSIM für Reisende: Detaillierte Bewertung
-
+**Verizon Prepaid eSIM für Reisende: Detaillierte Bewertung**
 Verizons Prepaid-eSIM beginnt bei 12 $ für 5 GB, etwas teurer als T-Mobile und AT&T. Die Mehrkosten kaufen die umfangreichste ländliche Abdeckung:
 - **eSIM-Aktivierung:** Verfügbar über die My Verizon-App. Erfordert eine US-Kreditkarte.
 - **Netzwerkpriorität:** Prepaid-Daten werden nach 50 GB oder bei Überlastung zurückgestuft
@@ -636,8 +606,7 @@ Verizons Prepaid-eSIM beginnt bei 12 $ für 5 GB, etwas teurer als T-Mobile und 
 - **mmWave 5G:** Verfügbar in ausgewählten Innenstadtbereichen (NYC, Chicago, Denver), aber die Reichweite ist auf wenige Blocks beschränkt
 - **Am besten für:** Reisende zu extrem abgelegenen Zielen (Alaska, ländliches Montana, Utah-Backcountry)
 
-### Betreiber-Prepaid vs. internationale eSIM: Wann was wählen
-
+**Betreiber-Prepaid vs. internationale eSIM: Wann was wählen**
 | Szenario | Bessere Wahl | Warum |
 |:---------|:-------------|:----|
 | 3-tägige NYC-Reise | Internationale eSIM (Airalo/Ubigi) | 4–12 $ vs. 10–15 $ |
@@ -647,8 +616,7 @@ Verizons Prepaid-eSIM beginnt bei 12 $ für 5 GB, etwas teurer als T-Mobile und 
 | Abgelegene Alaska-Reise | Verizon Prepaid | Unübertroffene Abdeckung in abgelegenen Gebieten |
 | Mehrtländerreise inkl. USA | Internationale eSIM (Airalo) | Ein Tarif deckt alle Ziele ab |
 
-### Wie die eSIM-Aktivierung bei Betreibern für Nicht-US-Bürger funktioniert
-
+**Wie die eSIM-Aktivierung bei Betreibern für Nicht-US-Bürger funktioniert**
 Alle drei großen Betreiber verlangen:
 1. **US-Zahlungsmethode** – die meisten internationalen Kreditkarten funktionieren, aber einige werden abgelehnt
 2. **US-Adresse** – eine Hoteladresse ist für Prepaid-Tarife akzeptabel
@@ -677,20 +645,18 @@ Für eine 7-tägige Reise mit geringer Nutzung (Karten, soziale Medien, Messagin
 
 Wenn Sie sich immer noch unsicher sind, schlüsselt der [USA eSIM Preis-Leitfaden](/blog/usa-esim-price-guide/) die Kosten pro GB auf und hilft Ihnen, den besten Wert auf jeder Stufe zu finden.
 
-### Datenrechner: Wie viel Sie tatsächlich benötigen, nach Reisetyp
-
+**Datenrechner: Wie viel Sie tatsächlich benötigen, nach Reisetyp**
 Verwenden Sie die folgenden Formeln, um Ihren gesamten Datenbedarf zu schätzen:
 
-### Digitaler Nomade / Remote-Mitarbeiter: 8 Stunden × 500 MB (Zoom/Teams) + 2 Stunden × 150 MB (soziale Medien) + 1 Stunde × 300 MB (YouTube) + 1 Stunde × 20 MB (Karten) = ~4,7 GB pro Arbeitstag
+**Digitaler Nomade / Remote-Mitarbeiter: 8 Stunden × 500 MB (Zoom/Teams) + 2 Stunden × 150 MB (soziale Medien) + 1 Stunde × 300 MB (YouTube) + 1 Stunde × 20 MB (Karten) = ~4,7 GB pro Arbeitstag**
 
-### Tourist (viele Fotos/Videos): 4 Stunden × 150 MB (Social-Media-Uploads) + 2 Stunden × 20 MB (Karten) + 1 Stunde × 300 MB (YouTube) + 30 Min. × 500 MB (Videoanruf nach Hause) = ~1,5 GB pro Tag
+**Tourist (viele Fotos/Videos): 4 Stunden × 150 MB (Social-Media-Uploads) + 2 Stunden × 20 MB (Karten) + 1 Stunde × 300 MB (YouTube) + 30 Min. × 500 MB (Videoanruf nach Hause) = ~1,5 GB pro Tag**
 
-### Tourist (Gelegenheitsnutzer): 2 Stunden × 20 MB (Karten) + 1 Stunde × 150 MB (soziale Medien) + 30 Min. × 30 MB (WhatsApp) + 2 Uber-Fahrten × 5 MB = ~230 MB pro Tag
+**Tourist (Gelegenheitsnutzer): 2 Stunden × 20 MB (Karten) + 1 Stunde × 150 MB (soziale Medien) + 30 Min. × 30 MB (WhatsApp) + 2 Uber-Fahrten × 5 MB = ~230 MB pro Tag**
 
-### Geschäftsreisender (mäßig): 2 Stunden × 500 MB (Zoom) + 2 Stunden × 70 MB (Web) + 1 Stunde × 20 MB (Karten) + 5 Uber-Fahrten × 5 MB = ~1,2 GB pro Tag
+**Geschäftsreisender (mäßig): 2 Stunden × 500 MB (Zoom) + 2 Stunden × 70 MB (Web) + 1 Stunde × 20 MB (Karten) + 5 Uber-Fahrten × 5 MB = ~1,2 GB pro Tag**
 
-### Tariflänge an Reisedauer anpassen
-
+**Tariflänge an Reisedauer anpassen**
 | Reisedauer | Empfohlener Tarif | Warum |
 |:-----------|:----------------|:----|
 | 1–3 Tage | 1 GB (Airalo oder Ubigi) | Sie werden unter 1 GB bleiben |
@@ -700,8 +666,7 @@ Verwenden Sie die folgenden Formeln, um Ihren gesamten Datenbedarf zu schätzen:
 | 15–30 Tage | 10–25 GB (Ubigi) oder Tello mit Übertragung | Lange Gültigkeit + beste Preis pro GB |
 | 30+ Tage | Tello mit Übertragung oder Google Fi | Datenübertragung oder unbegrenzt zu festem Preis |
 
-### Versteckte Kosten und Gebühren, auf die Sie achten sollten
-
+**Versteckte Kosten und Gebühren, auf die Sie achten sollten**
 Nicht alle eSIM-Kosten sind aus dem angegebenen Preis ersichtlich. Achten Sie auf:
 - **Steuern und Gebühren:** Internationale eSIM-Anbieter enthalten Steuern in der Regel im angegebenen Preis. US-Betreiber-Prepaid-Tarife fügen staatliche und lokale Steuern hinzu (2–10 % je nach Bundesstaat)
 - **Mindestnachkäufe:** Einige Anbieter verlangen Mindestnachkäufe von 5–10 $, auch wenn Sie nur 2 $ mehr Daten benötigen
@@ -709,11 +674,10 @@ Nicht alle eSIM-Kosten sind aus dem angegebenen Preis ersichtlich. Achten Sie au
 - **Roaming-Add-ons:** Tellos US-Nummer beinhaltet kein internationales Roaming – die Hinzufügung von Kanada/Mexiko-Abdeckung kostet extra
 - **Tethering-Gebühren:** Die meisten Reise-eSIMs beinhalten Hotspot ohne Aufpreis, aber Betreiber-Prepaid-Tarife können 5–15 $/Monat für Hotspot-Zugang verlangen
 
-### Die Zwei-eSIM-Strategie für maximale Abdeckung
-
+**Die Zwei-eSIM-Strategie für maximale Abdeckung**
 Für Reisende, die absolute Zuverlässigkeit wünschen, beseitigt der gleichzeitige Betrieb von zwei eSIMs Abdeckungslücken:
 
-### Empfohlenes Dual-SIM-Pairing:
+**Empfohlenes Dual-SIM-Pairing:**
 - **Primäre Daten:** Ubigi 3 GB oder 10 GB (T-Mobile) – übernimmt alle täglichen Daten
 - **Backup-Daten:** Nomad 1 GB (AT&T+Verizon) – aktiviert, aber als sekundär eingestellt, wird nur verwendet, wenn das T-Mobile-Signal ausfällt
 - **Sprache:** Behalten Sie Ihre Heim-SIM für WhatsApp und iMessage aktiv
@@ -735,8 +699,7 @@ Gesamtkosten: 8 $ (Ubigi 3 GB) + 5,50 $ (Nomad 1 GB) = 13,50 $ für vollständig
 
 Bevor Sie eine **USA eSIM kaufen**, vergleichen Sie die Optionen sorgfältig: [USA eSIM](/united-states-esim/) wechselt automatisch zwischen Betreibernetzen, um das stärkste Signal zu finden, und vergleicht Preise über Tarife hinweg, damit Sie es nicht tun müssen. Ihr Support-Team ist über Live-Chat verfügbar, falls Sie auf Probleme stoßen.
 
-### Preis pro GB über alle Datenstufen
-
+**Preis pro GB über alle Datenstufen**
 | Anbieter | 1 GB | 3 GB | 5 GB | 10 GB | 20 GB | 25 GB |
 |:---------|:---:|:---:|:---:|:----:|:----:|:----:|
 | Ubigi | 4,00 $ | 8,00 $ | — | 12,00 $ | — | 24,00 $ |
@@ -750,8 +713,7 @@ Bevor Sie eine **USA eSIM kaufen**, vergleichen Sie die Optionen sorgfältig: [U
 
 Ein klares Muster zeigt sich: **Ubigi bietet die niedrigsten Kosten pro GB auf jeder Stufe, auf der beide Anbieter Tarife anbieten.** Die Lücke wird bei höheren Datenmengen größer – bei 10 GB ist Ubigi 50 % günstiger als der nächstgünstige internationale Anbieter mit ähnlichen Funktionen.
 
-### Gesamtbetriebskosten für verschiedene Reisedauern
-
+**Gesamtbetriebskosten für verschiedene Reisedauern**
 Diese Tabelle berücksichtigt sowohl den Tarifpreis als auch den realen Datenbedarf für jede Reisedauer:
 
 | Reisedauer | Geringe Nutzung | Mäßige Nutzung | Starke Nutzung |
@@ -763,8 +725,7 @@ Diese Tabelle berücksichtigt sowohl den Tarifpreis als auch den realen Datenbed
 
 Die Daten unterstützen eine einfache Faustregel: Für jede Reise unter zwei Wochen bietet Ubigi das beste Preis-Daten-Verhältnis für mäßige Nutzer. Für Reisen über zwei Wochen machen Tellos 30-tägige Gültigkeit und Datenübertragung es praktikabler.
 
-### Wie die Anbieternetze den tatsächlichen Wert beeinflussen
-
+**Wie die Anbieternetze den tatsächlichen Wert beeinflussen**
 Ein günstiger Tarif ist wertlos, wenn das Netz Ihre Ziele nicht erreicht. Diese Vergleichstabelle fügt eine „Abdeckungszuversicht“-Metrik hinzu, basierend auf dem Prozentsatz der US-Landfläche, der vom Netz jedes Anbieters abgedeckt wird:
 
 | Anbieter | Netzwerk(e) | Städtische Abdeckung | Ländliche Abdeckung | Landflächenabdeckung |
@@ -787,22 +748,19 @@ Abdeckungsprozentsätze basierend auf [FCC Broadband Coverage Data](https://www.
 
 Die meisten eSIMs folgen dem gleichen einfachen Prozess. Die Installation dauert etwa 5 Minuten und sollte vor Ihrer Abreise erfolgen.
 
-### Vor Ihrer Abreise (tun Sie dies zu Hause über WLAN):
-
+**Vor Ihrer Abreise (tun Sie dies zu Hause über WLAN):**
 1. Kaufen Sie Ihren Tarif auf der Website oder App des Anbieters. Sie erhalten den QR-Code in der Regel innerhalb von Minuten nach dem Kauf.
 2. Gehen Sie zu **Einstellungen → Mobilfunk/Mobile Daten → eSIM hinzufügen → QR-Code scannen** auf dem iPhone. Auf Android ist es **Einstellungen → Netzwerk & Internet → SIMs → eSIM hinzufügen → QR-Code scannen**.
 3. Beschriften Sie die Leitung mit etwas, das Sie erkennen – „US-Daten“ oder „Reise-eSIM“ funktioniert.
 4. Legen Sie die eSIM als Ihre Standard-Datenleitung fest. Behalten Sie Ihre Heim-SIM als Standard-Sprachleitung, wenn Sie Anrufe auf Ihrer regulären Nummer empfangen möchten.
 
-### Wenn Sie in den USA landen:
-
+**Wenn Sie in den USA landen:**
 1. Schalten Sie das Datenroaming Ihrer Heim-SIM in den Einstellungen aus – dies verhindert überraschende Roaming-Gebühren.
 2. Schalten Sie das Datenroaming für die eSIM-Leitung ein. Die meisten Reise-eSIMs benötigen dies, um zu funktionieren, auch wenn Sie sich in einem lokalen Netzwerk befinden.
 3. Schalten Sie den Flugmodus ein und aus, um eine neue Netzwerkverbindung zu erzwingen.
 4. Öffnen Sie Google Maps oder einen Webbrowser, um zu bestätigen, dass es funktioniert.
 
-### Wenn es nicht sofort funktioniert, versuchen Sie Folgendes:
-
+**Wenn es nicht sofort funktioniert, versuchen Sie Folgendes:**
 - Starten Sie Ihr Telefon vollständig neu
 - Gehen Sie zu den Netzwerkeinstellungen und wählen Sie manuell einen Betreiber aus (versuchen Sie T-Mobile, AT&T oder Verizon einzeln)
 - Überprüfen Sie Ihre APN-Einstellungen – einige Anbieter benötigen einen bestimmten APN wie „internet“ oder „airalovpn“
@@ -812,8 +770,7 @@ Für eine tiefergehende Fehlerbehebung deckt der [USA eSIM Fehlerbehebungsleitfa
 
 Wenn Sie lieber einen neueren Anbieter wählen, bietet [Multi-Netzwerk-eSIM](/free-esim/) automatischen Netzwerkwechsel zwischen Betreibern, integrierten Preisvergleich über Tarife hinweg und Live-Kundensupport, falls etwas schiefgeht. Der Code **WEB20** gewährt 20 % Rabatt auf jeden Tarif.
 
-### iPhone-spezifische Installationstipps
-
+**iPhone-spezifische Installationstipps**
 iPhone-Modelle XS, XR und neuer unterstützen eSIM. Hier sind modellspezifische Hinweise für USA-Reisen:
 
 - **iPhone 14 und neuer (US-Modelle):** Diese Telefone haben in der US-Version keinen physischen SIM-Slot. Sie können bis zu 8 eSIM-Profile speichern und 2 gleichzeitig nutzen. Legen Sie Ihre Reise-eSIM als Datenleitung fest und behalten Sie Ihre primäre Leitung für iMessage/FaceTime.
@@ -822,8 +779,7 @@ iPhone-Modelle XS, XR und neuer unterstützen eSIM. Hier sind modellspezifische 
 
 - **Dual-eSIM-Einrichtung:** Auf iOS 18+ gehen Sie zu Einstellungen → Mobilfunk → eSIM hinzufügen → QR-Code verwenden. Nach dem Hinzufügen beider eSIMs tippen Sie auf „Mobilfunktarife“ und wählen Ihre Reise-eSIM für „Standard-Datenleitung“. Schalten Sie „Mobilfunk-Datenumschaltung zulassen“ aus, um zu verhindern, dass das Telefon zwischen Netzen wechselt.
 
-### Android-spezifische Installationstipps
-
+**Android-spezifische Installationstipps**
 Die eSIM-Unterstützung auf Android variiert erheblich je nach Hersteller. Wichtige Überlegungen:
 
 - **Google Pixel (4 und neuer):** Volle eSIM-Unterstützung mit einfachem QR-Code-Scan. Pixel 7 und neuer unterstützen Dual-eSIM.
@@ -834,16 +790,14 @@ Die eSIM-Unterstützung auf Android variiert erheblich je nach Hersteller. Wicht
 
 - **Xiaomi, Oppo, Huawei:** eSIM-Unterstützung ist begrenzt und inkonsistent. Einige Modelle haben überhaupt keine eSIM. Überprüfen Sie die Kompatibilität in der [GSMA-Gerätedatenbank](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-economy/devices/), bevor Sie kaufen.
 
-### Häufige Android-APN-Konfiguration:
-
+**Häufige Android-APN-Konfiguration:**
 Wenn sich Ihre eSIM auf Android nicht automatisch aktiviert, müssen Sie möglicherweise den APN manuell einstellen:
 1. Einstellungen → Netzwerk & Internet → Mobiles Netzwerk → Zugangspunkte
 2. Tippen Sie auf „+“ oder „Hinzufügen“
 3. Geben Sie den von Ihrem eSIM-Anbieter bereitgestellten APN ein (häufige Werte: „internet“, „airalovpn“, „wbdata“)
 4. Speichern und den neuen APN auswählen
 
-### Fehlerbehebungstabelle: Häufige eSIM-Probleme und Lösungen
-
+**Fehlerbehebungstabelle: Häufige eSIM-Probleme und Lösungen**
 | Problem | Wahrscheinliche Ursache | Lösung |
 |:--------|:------------|:----|
 | Kein Dienst nach der Landung | Datenroaming aus | Datenroaming für die eSIM-Leitung einschalten |
@@ -861,52 +815,40 @@ Wenn sich Ihre eSIM auf Android nicht automatisch aktiviert, müssen Sie möglic
 
 ## USA eSIM Häufig gestellte Fragen
 
-### Welche eSIM ist derzeit am besten für USA-Reisen geeignet?
-
+**Welche eSIM ist derzeit am besten für USA-Reisen geeignet?**
 Für Städtereisen bietet Ubigi die meisten Daten pro Dollar. Wenn Sie eine US-Telefonnummer benötigen, wählen Sie Tello. Für Roadtrips durch Nationalparks ist Nomad am sichersten. Für unbegrenzte Daten ohne Zählen funktioniert Holafly gut. Der beste USA eSIM-Vergleich kommt darauf an, den Anbieter mit Ihrem Reiseziel und Ihrer Telefonnutzung abzugleichen.
 
-### Was ist die günstigste eSIM für eine US-Reise?
-
+**Was ist die günstigste eSIM für eine US-Reise?**
 Airalo beginnt bei 4,50 $ für 1 GB – ausreichend für ein Wochenende mit Karten, Messaging und leichtem Surfen. Bei 10 GB ist Ubigi mit 12 $ am günstigsten. Für unbegrenzte Daten beginnt Holafly bei 3,90 $/Tag. Die günstigste eSIM für USA-Reisen hängt davon ab, wie viel Daten Sie benötigen – für Gelegenheitsnutzer gewinnt Airalo. Für mäßige Nutzer bietet Ubigi den besten Preis pro GB.
 
-### Beste eSIM für USA-Kurzreise unter 5 Tagen?
-
+**Beste eSIM für USA-Kurzreise unter 5 Tagen?**
 Airalo 1 GB für 4,50 $ ist der günstigste Einstieg. Wenn Sie denken, dass Sie mehr als 1 GB verbrauchen (Video-Streaming, intensive soziale Medien), gibt Ihnen Ubigi 3 GB für 8 $ einen besseren Wert pro GB und einen Sicherheitspuffer. Beides sind gute Entscheidungen für einen kurzen Städtebesuch.
 
-### Brauche ich eine US-Telefonnummer?
-
+**Brauche ich eine US-Telefonnummer?**
 Für die meisten Dinge nicht. WhatsApp, Google Maps, Uber und Lyft funktionieren alle nur mit Daten. Sie werden eine US-Nummer wünschen, wenn Sie Hotels, Restaurants anrufen oder SMS-Bestätigungscodes von US-Diensten wie Airbnb oder Delta erhalten möchten.
 
-### Wie viel Daten brauche ich für eine Woche in den USA?
-
+**Wie viel Daten brauche ich für eine Woche in den USA?**
 Für eine 7-tägige Reise mit leichter Nutzung (Karten, Messaging, soziale Medien) reichen 3–5 GB. Für mäßige Nutzung (einige YouTube- oder Netflix-Videos) 5–10 GB. Für starke Nutzung (tägliches Streaming, Videoanrufe) 10+ GB oder unbegrenzt.
 
-### Welche eSIM hat die beste Abdeckung für ländliche Gebiete in den USA?
-
+**Welche eSIM hat die beste Abdeckung für ländliche Gebiete in den USA?**
 Nomad, das AT&T und Verizon nutzt, hat die beste Abdeckung für ländliche Gebiete. AT&T und Verizon haben beide eine bessere Abdeckung in Nationalparks, Kleinstädten und entlang von Autobahnen als T-Mobile. Wenn Sie durch Yellowstone, den Grand Canyon oder ländliche Gebiete im Mittleren Westen reisen, wählen Sie Nomad.
 
-### Kann ich eine USA eSIM für einen Hotspot nutzen?
-
+**Kann ich eine USA eSIM für einen Hotspot nutzen?**
 Ja, die meisten Reise-eSIMs beinhalten Hotspot-Funktionalität. Ubigi, Airalo, Tello und Nomad beinhalten alle Hotspot ohne Aufpreis. Holafly hat eine Hotspot-Grenze von 500 MB/Tag, was für das Tethering eines Laptops unpraktisch ist. Betreiber-Prepaid-Tarife können zusätzliche Gebühren für Hotspot erheben.
 
-### Welche eSIM ist am besten für eine Familie mit 4 Personen?
-
+**Welche eSIM ist am besten für eine Familie mit 4 Personen?**
 Für eine 4-köpfige Familie, die 10–14 Tage in Städten verbringt: vier individuelle Ubigi 10-GB-Tarife für 48 $ insgesamt (12 $ pro Person). Wenn Sie eine US-Nummer benötigen: Tellos 5-GB-Tarif für 10 $ pro Person funktioniert. Für eine einzelne gemeinsame Verbindung (alle bleiben zusammen): Pocket-WiFi-Miete für 50–70 $/Woche oder ein Google Fi-Tarif für 65 $/Monat mit 4 Leitungen.
 
-### Funktioniert meine eSIM in mehreren US-Städten?
-
+**Funktioniert meine eSIM in mehreren US-Städten?**
 Ja, jedes eSIM-Netzwerk funktioniert in allen US-Städten, in denen der Betreiber Abdeckung hat. T-Mobile-basierte eSIMs (Ubigi, Airalo, Tello) funktionieren gut in New York, Chicago, LA, Miami, San Francisco, Seattle und Denver. AT&T-basierte eSIMs (Holafly) funktionieren überall dort, wo AT&T Abdeckung hat, einschließlich ländlicher Gebiete. Verizon-basierte eSIMs (Nomad) haben die beste Abdeckung in abgelegenen Gebieten.
 
-### Kann ich eine USA eSIM in einem netzbetreibergesperrten Telefon verwenden?
-
+**Kann ich eine USA eSIM in einem netzbetreibergesperrten Telefon verwenden?**
 Nein. Ein netzbetreibergesperrtes Telefon akzeptiert nur SIMs vom sperrenden Betreiber. Wenn Ihr Telefon an einen Betreiber außerhalb der USA gebunden ist, können Sie keine USA eSIM verwenden. Sie müssen Ihr Telefon vor der Reise entsperren. Die meisten Betreiber entsperren Telefone nach Erfüllung der Vertragsbedingungen oder nach vollständiger Bezahlung.
 
-### Was ist die beste eSIM für eine Geschäftsreise in die USA?
-
+**Was ist die beste eSIM für eine Geschäftsreise in die USA?**
 Tello ist die beste Wahl für Geschäftsreisende. Die 10-GB- für 15 $-Tarif beinhaltet eine US-Telefonnummer für Anrufe und SMS-Verifizierung sowie Hotspot für die Laptop-Verbindung. Die 30-tägige Gültigkeit deckt die meisten Geschäftsreisen ab, und die Datenübertragung ist nützlich, wenn Sie zwischen den Reisen verlängern. Google Fi ist eine gute Alternative, wenn Sie ein Team von 3–4 Personen haben, die Daten teilen.
 
-### Funktioniert eine USA eSIM in Alaska, Hawaii oder Puerto Rico?
-
+**Funktioniert eine USA eSIM in Alaska, Hawaii oder Puerto Rico?**
 Ja, alle großen US-Anbieter bieten Abdeckung in Alaska, Hawaii und Puerto Rico. Für Details zur Abdeckung in allen Bundesstaaten siehe den [USA eSIM Abdeckungsleitfaden](/blog/usa-esim-coverage-guide/).
 
 Ja, aber die Abdeckung variiert. In Alaska ist Verizon die zuverlässigste Wahl (wählen Sie Nomad oder Verizon Prepaid). T-Mobile hat in Alaska nur begrenzte Abdeckung. In Hawaii haben alle drei Betreiber gute Abdeckung auf den Hauptinseln (Ubigi funktioniert gut). In Puerto Rico funktionieren T-Mobile und AT&T beide gut; Verizon hat etwas weniger Abdeckung außerhalb von San Juan.

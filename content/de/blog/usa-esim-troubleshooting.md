@@ -1,4 +1,4 @@
----
+﻿---
 title: "USA eSIM Fehlerbehebung: Probleme und Lösungen"
 description: "USA eSIM Probleme? Kein Netz oder Aktivierungsfehler? Lösungen mit Roami. 24/7 Support für sofortige Hilfe bei Verbindungsproblemen."
 keywords: ["USA eSIM Probleme", "eSIM Fehlerbehebung USA", "USA eSIM Aktivierung", "eSIM keine Verbindung USA", "USA eSIM Fehlerbehebung"]
@@ -86,8 +86,7 @@ Die [GSMA eSIM-Spezifikationen](https://www.gsma.com/esim/) definieren die techn
 
 ## Welche USA eSIM Aktivierungsprobleme treten am häufigsten auf und wie löst man sie?
 
-### QR-Code wird nicht erkannt
-
+**QR-Code wird nicht erkannt**
 Dies ist das häufigste Problem nach dem Kauf einer USA eSIM. Der QR-Code, den Sie per E-Mail erhalten haben, wird von Ihrer Kamera nicht gescannt.
 
 **Mögliche Ursachen:**
@@ -101,8 +100,7 @@ Dies ist das häufigste Problem nach dem Kauf einer USA eSIM. Der QR-Code, den S
 2. **QR-Code neu anfordern:** Kontaktieren Sie den Support Ihres Anbieters. Die meisten stellen den Code innerhalb weniger Minuten neu aus.
 3. **WLAN-Verbindung prüfen:** Die eSIM-Installation erfordert eine aktive Internetverbindung. Laden Sie das Profil immer über ein stabiles WLAN herunter – nicht über mobile Daten.
 
-### eSIM-Profil lässt sich nicht installieren
-
+**eSIM-Profil lässt sich nicht installieren**
 Ihr Telefon scannt den QR-Code, aber die Installation schlägt mit einer Fehlermeldung fehl.
 
 **Mögliche Ursachen:**
@@ -117,8 +115,7 @@ Ihr Telefon scannt den QR-Code, aber die Installation schlägt mit einer Fehlerm
 3. **Alte Profile löschen:** Die meisten Telefone unterstützen 5-10 eSIM-Profile. Entfernen Sie nicht mehr benötigte Profile unter *Einstellungen > Mobilfunk*.
 4. **Kompatibilitätsliste prüfen:** iPhone XS und neuer, Samsung Galaxy S20 und neuer, Google Pixel 3 und neuer unterstützen eSIM. Die vollständige Liste finden Sie in der [Roami eSIM-Kompatibilitätsübersicht](/compatibility/).
 
-### "Kein Dienst" nach der Aktivierung
-
+**"Kein Dienst" nach der Aktivierung**
 Sie haben die eSIM erfolgreich installiert, aber nach der Landung in den USA zeigt das Telefon "Kein Dienst" an.
 
 **Mögliche Ursachen:**
@@ -138,8 +135,7 @@ Sie haben die eSIM erfolgreich installiert, aber nach der Landung in den USA zei
 
 ## Was tun bei Verbindungsproblemen mit der USA eSIM während der Reise?
 
-### Netzwerkabbrüche in ländlichen Gebieten
-
+**Netzwerkabbrüche in ländlichen Gebieten**
 Dies ist besonders relevant für Roadtrips und Nationalpark-Besuche. Kein einzelner US-Anbieter deckt das gesamte Land ab.
 
 **Warum es passiert:**
@@ -153,8 +149,7 @@ Dies ist besonders relevant für Roadtrips und Nationalpark-Besuche. Kein einzel
 3. **Offline-Karten:** Laden Sie Google Maps für Ihre Zielregion herunter, bevor Sie in Gebiete mit schwachem Empfang fahren.
 4. **Netzwerkabdeckung vor der Reise prüfen:** Die [FCC Breitbandkarte](https://broadbandmap.fcc.gov/home) zeigt die Mobilfunkabdeckung für jeden US-Anbieter.
 
-### Langsame Datenverbindung
-
+**Langsame Datenverbindung**
 Ihre eSIM funktioniert, aber die Geschwindigkeit ist deutlich langsamer als erwartet.
 
 **Mögliche Ursachen:**
@@ -169,8 +164,7 @@ Ihre eSIM funktioniert, aber die Geschwindigkeit ist deutlich langsamer als erwa
 3. **Netzwerk wechseln:** Wenn Ihr Tarif mehrere Netze unterstützt, wechseln Sie manuell zu einem weniger überlasteten Anbieter.
 4. **Anbieter mit Multi-Netzwerk-Zugang nutzen:** Eine [**USA eSIM**](/united-states-esim/) mit automatischem Netzwerkwechsel findet immer das schnellste verfügbare Netz.
 
-### Datenroaming funktioniert nicht
-
+**Datenroaming funktioniert nicht**
 Das Telefon zeigt Empfangsbalken, aber keine Datenverbindung.
 
 **Lösungen:**
@@ -183,8 +177,7 @@ Das Telefon zeigt Empfangsbalken, aber keine Datenverbindung.
 
 ## Anbieter-spezifische Problembehebung
 
-### Was der Support tun kann und was nicht
-
+**Was der Support tun kann und was nicht**
 | Der Support kann dies tun | Der Support kann dies nicht tun |
 |:--------------------|:-----------------------|
 | Einen QR-Code neu ausstellen | Ein anbietergebundenes Telefon entsperren |
@@ -194,16 +187,13 @@ Das Telefon zeigt Empfangsbalken, aber keine Datenverbindung.
 | An das technische Team eskalieren | Die Fair-Use-Policy umgehen |
 | Eine Rückerstattung für nicht nutzbaren Dienst ausstellen | Ein Gerät eSIM-kompatibel machen |
 
-### Airalo: Profilverlust vermeiden
-
+**Airalo: Profilverlust vermeiden**
 Airalo hat eine strikte Richtlinie: Wenn Sie ein eSIM-Profil löschen, ist es dauerhaft verloren. Sie können es nicht neu installieren und müssen einen neuen Tarif kaufen. Löschen Sie Airalo-eSIMs nie, bevor Ihre Reise vollständig beendet ist.
 
-### Holafly: Drosselung verstehen
-
+**Holafly: Drosselung verstehen**
 Holaflys "unbegrenzte" Tarife drosseln nach etwa 2-5 GB pro Tag auf 128 kbit/s. Dies ist keine Fehlfunktion, sondern die Fair-Use-Policy. Die Geschwindigkeit wird um Mitternacht zurückgesetzt.
 
-### Roami: Netzwerkwechsel als Lösung
-
+**Roami: Netzwerkwechsel als Lösung**
 Im Gegensatz zu Anbietern, die auf ein einzelnes Netz beschränkt sind, wechselt [**Roami**](/united-states-esim/) automatisch zwischen T-Mobile, AT&T und Verizon. Wenn Sie Verbindungsprobleme haben, versucht die eSIM automatisch alternative Netze – Sie müssen nichts tun. Der 24/7-Support antwortet in unter 10 Sekunden.
 
 ---
@@ -229,8 +219,7 @@ Im Gegensatz zu Anbietern, die auf ein einzelnes Netz beschränkt sind, wechselt
 - Behalten Sie wenn möglich eine physische SIM als Backup
 - Wenn Sie den gesamten Prozess risikofrei üben möchten, bietet [**USA eSIM**](/united-states-esim/) automatischen Netzwerkwechsel und eine [kostenlose eSIM-Testversion](/free-esim/), die Sie durch jeden Schritt führt. Code **WEB20** gewährt 20 % Rabatt auf jeden Tarif.
 
-### Zeitplan für die Reisevorbereitung
-
+**Zeitplan für die Reisevorbereitung**
 | Zeitrahmen | Aufgabe | Warum es wichtig ist |
 |:---------|:-----|:---------------|
 | 2 Wochen vorher | Carrier-Lock-Status prüfen | Entsperranfragen dauern 24-72 Stunden |
@@ -240,8 +229,7 @@ Im Gegensatz zu Anbietern, die auf ein einzelnes Netz beschränkt sind, wechselt
 | Bei Abreise | Screenshot des QR-Codes und der Bestätigungs-E-Mail | Backup für den Fall, dass das Telefon zurückgesetzt wird |
 | Nach der Landung | Datenroaming einschalten, Verbindung testen | Beste Zeit, um Probleme frühzeitig zu erkennen |
 
-### Erstellen eines Konnektivitäts-Backup-Plans
-
+**Erstellen eines Konnektivitäts-Backup-Plans**
 Selbst mit der besten Vorbereitung sollten Sie ein Backup haben:
 
 1. **Offline-Karten speichern:** Laden Sie Google Maps für Ihr US-Ziel herunter – funktioniert ohne Mobilfunkverbindung
@@ -252,24 +240,19 @@ Selbst mit der besten Vorbereitung sollten Sie ein Backup haben:
 
 ## Häufig gestellte Fragen
 
-### Warum zeigt meine USA eSIM "Kein Dienst" an?
-
+**Warum zeigt meine USA eSIM "Kein Dienst" an?**
 Die häufigsten Ursachen sind: Datenroaming ist nicht aktiviert, die eSIM ist nicht als Datenleitung konfiguriert, oder die erste Netzwerkregistrierung ist noch nicht abgeschlossen. Aktivieren Sie Datenroaming für die eSIM-Leitung, schalten Sie den Flugmodus für 30 Sekunden ein und aus, und warten Sie 5-10 Minuten.
 
-### Kann ich meine eSIM neu installieren, wenn ich sie versehentlich lösche?
-
+**Kann ich meine eSIM neu installieren, wenn ich sie versehentlich lösche?**
 Das hängt vom Anbieter ab. Airalo erlaubt keine Neuinstallation – das Profil ist dauerhaft verloren. Holafly und Ubigi können das Profil neu ausstellen. [**Roami**](/usa-esim/) bietet volle Neuinstallationsunterstützung. Kontaktieren Sie immer zuerst den Support, bevor Sie ein Profil löschen.
 
-### Was mache ich, wenn meine eSIM in Nationalparks nicht funktioniert?
-
+**Was mache ich, wenn meine eSIM in Nationalparks nicht funktioniert?**
 Nationalparks haben generell schwachen Mobilfunkempfang. Eine Multi-Netzwerk-eSIM wie [**Roami**](/united-states-esim/), die zwischen T-Mobile, AT&T und Verizon wechselt, bietet die beste Abdeckung. Laden Sie Offline-Karten herunter, bevor Sie Parks betreten. Verizon hat generell die beste ländliche und Nationalpark-Abdeckung.
 
-### Mein Telefon sagt, dass die eSIM nicht unterstützt wird?
-
+**Mein Telefon sagt, dass die eSIM nicht unterstützt wird?**
 Prüfen Sie drei Dinge: 1) Wählen Sie `*#06#` – erscheint eine 32-stellige EID? 2) Ist Ihr Telefon vom Heimanbieter entsperrt? 3) Ist Ihr Telefonmodell eSIM-kompatibel (iPhone XS+, Samsung S20+, Pixel 3+)? Geräte aus China und Hongkong haben oft eingeschränkte eSIM-Unterstützung.
 
-### Was kostet eine USA eSIM mit Telefonnummer im Vergleich?
-
+**Was kostet eine USA eSIM mit Telefonnummer im Vergleich?**
 Für USA eSIM Tarife mit US-Telefonnummer siehe unseren [USA eSIM mit Telefonnummer Leitfaden](/blog/usa-esim-with-phone-number/). Für allgemeine Preisvergleiche siehe den [USA eSIM Preisvergleich](/blog/usa-esim-price-guide/).
 
 ---

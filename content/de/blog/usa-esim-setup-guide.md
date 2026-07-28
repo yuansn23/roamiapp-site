@@ -1,4 +1,4 @@
----
+﻿---
 title: "USA eSIM Installation: Anleitung für iPhone und Android"
 description: "USA eSIM auf iPhone & Android einrichten per QR-Code oder manuell. In 2 Min. aktiviert mit Roami. Jetzt einrichten!"
 keywords: ["USA eSIM Setup-Anleitung", "Wie installiere ich eine USA eSIM", "USA eSIM Aktivierung iPhone", "USA eSIM kompatible Geräte", "USA eSIM APN Einstellungen"]
@@ -82,7 +82,7 @@ Diese Anleitung zur Einrichtung einer **eSIM Karte USA** deckt die Installation 
 
 Mit dieser Anleitung zur Einrichtung einer USA eSIM sind die meisten Nutzer in etwa 5 Minuten vom Kauf bis zur Verbindung.
 
-Diese Anleitung führt durch jeden Schritt: Überprüfen der Telefonkompatibilität, Kauf des richtigen Tarifs, Installation des eSIM-Profils, Konfiguration der Dual-SIM-Einstellungen und Behebung häufiger Probleme, falls etwas nicht funktioniert. Falls Sie noch keinen Anbieter gewählt haben, hilft Ihnen der [USA eSIM-Ranking-Vergleich](/blog/usa-esim-ranking-comparison/) bei der Auswahl.
+Diese Anleitung führt durch jeden Schritt: Überprüfen der Telefonkompatibilität, Kauf des richtigen Tarifs, Installation des eSIM-Profils, Konfiguration der Dual-SIM-Einstellungen und Behebung häufiger Probleme, falls etwas nicht funktioniert. Falls Sie noch keinen Anbieter gewählt haben, hilft Ihnen der [USA eSIM-Ranking-Vergleich](/blog/usa-esim-ranking-comparison-2026/) bei der Auswahl.
 
 Für Reisende, die eine einfachere Einrichtung wünschen, kann eine [usa esim](/usa-esim/) mit automatischem Netzbetreiberwechsel die Netzwerkauswahl für Sie übernehmen – kein manuelles Umschalten zwischen T-Mobile, AT&T oder Verizon mehr.
 
@@ -98,8 +98,7 @@ Nicht alle Telefone funktionieren mit eSIM. Bevor Sie einen Tarif kaufen, vergew
 
 **Schnellprüfung:** Wählen Sie `*#06#` auf Ihrem Telefon. Wenn Sie eine EID-Nummer (normalerweise 32-stellig) zusammen mit der IMEI sehen, unterstützt Ihr Telefon eSIM. Die [offiziellen eSIM-Spezifikationen der GSMA](https://www.gsma.com/esim/) bestätigen, dass dies die Standardkennung für eSIM-fähige Geräte ist.
 
-### USA eSIM-kompatible Geräte: iPhone
-
+**USA eSIM-kompatible Geräte: iPhone**
 Die [Kompatibilitätsseite von Apple](https://support.apple.com/en-us/HT212780) bestätigt, dass diese iPhone-Modelle eSIM unterstützen:
 
 | Modell | eSIM-Unterstützung | Anmerkungen |
@@ -113,8 +112,7 @@ Die [Kompatibilitätsseite von Apple](https://support.apple.com/en-us/HT212780) 
 | iPhone XS / XS Max / XR | Ja | Alle Modelle (außer China/HK/Macau) |
 | iPhone X und früher | Nein | Keine eSIM-Unterstützung |
 
-### USA eSIM-kompatible Geräte: Samsung
-
+**USA eSIM-kompatible Geräte: Samsung**
 | Modell | eSIM-Unterstützung | Anmerkungen |
 |:------|:------------:|:------|
 | Galaxy S24 / S24+ / S24 Ultra | Ja | Alle Regionen |
@@ -126,8 +124,7 @@ Die [Kompatibilitätsseite von Apple](https://support.apple.com/en-us/HT212780) 
 | Galaxy Z Flip Serie | Ja | Flip 3 und neuer |
 | Galaxy A Serie | Ausgewählte | Nur ausgewählte Modelle (A54, A34) |
 
-### USA eSIM-kompatible Geräte: Google Pixel
-
+**USA eSIM-kompatible Geräte: Google Pixel**
 | Modell | eSIM-Unterstützung | Anmerkungen |
 |:------|:------------:|:------|
 | Pixel 9 Serie | Ja | Alle Modelle |
@@ -139,15 +136,13 @@ Die [Kompatibilitätsseite von Apple](https://support.apple.com/en-us/HT212780) 
 | Pixel 3 / 3a | Ja | Alle Modelle |
 | Pixel 2 und früher | Nein | Keine eSIM-Unterstützung |
 
-### Andere kompatible Geräte
-
+**Andere kompatible Geräte**
 - **OnePlus:** OnePlus 11, 12, Open, Nord 4 (ausgewählte Modelle)
 - **Xiaomi:** Xiaomi 13, 14, Redmi Note 13 Pro (ausgewählte Modelle)
 - **Motorola:** Razr 40, Razr 50, Edge 40/50 Pro
 - **Nothing:** Phone (2), Phone (2a)
 
-### So überprüfen Sie die eSIM-Kompatibilität bei bestimmten Telefonmarken
-
+**So überprüfen Sie die eSIM-Kompatibilität bei bestimmten Telefonmarken**
 Wenn Ihre Telefonmarke nicht oben aufgeführt ist, finden Sie hier alternative Möglichkeiten, die Kompatibilität zu überprüfen:
 
 | Telefonmarke | So überprüfen Sie | Offizielle Ressource |
@@ -158,12 +153,10 @@ Wenn Ihre Telefonmarke nicht oben aufgeführt ist, finden Sie hier alternative M
 | OnePlus | `*#06#` wählen und nach EID suchen | OnePlus Support |
 | Andere Marken | `*#06#` wählen oder Website des Herstellers prüfen | GSMA Gerätedatenbank |
 
-### Die häufigste Kompatibilitätsfalle: Netzsperren (Carrier-Lock)
-
+**Die häufigste Kompatibilitätsfalle: Netzsperren (Carrier-Lock)**
 Wenn Ihr Telefon für einen bestimmten Anbieter gesperrt ist (häufig bei Telefonen, die auf Ratenzahlung von AT&T, T-Mobile, Verizon oder Anbietern außerhalb der USA gekauft wurden), kann es möglicherweise keine eSIM-Profile von anderen Anbietern akzeptieren. Kontaktieren Sie Ihren Anbieter, um zu bestätigen, ob Ihr Telefon entsperrt ist, bevor Sie eine eSIM kaufen. Die Entsperrung dauert in der Regel 24-72 Stunden – beantragen Sie sie mindestens eine Woche vor Ihrer Reise. Wenn Sie sich über den Entsperrungsprozess unsicher sind, erklärt [CNETs Leitfaden zur Telefonentsperrung](https://www.cnet.com/tech/mobile/how-to-unlock-your-phone/) die Regeln und Verfahren für große Anbieter.
 
-### eSIM-Kompatibilität nach Telefonregion
-
+**eSIM-Kompatibilität nach Telefonregion**
 Telefone, die in bestimmten Regionen verkauft werden, haben eSIM deaktiviert, auch wenn die Hardware es unterstützt:
 
 | Region | eSIM-Status | Betroffene Marken |
@@ -193,8 +186,7 @@ Die meisten Anbieter bieten Tarife von 1 GB bis zu unbegrenztem Datenvolumen an.
 
 Der Kauf ist einfach: Gehen Sie auf die Website oder in die App des Anbieters, wählen Sie Ihren Tarif und zahlen Sie. Der QR-Code wird innerhalb weniger Minuten per E-Mail zugesandt. Der [USA eSIM-Preisvergleich](/blog/usa-esim-price-guide/) bietet eine vollständige Aufschlüsselung der Kosten aller Anbieter auf jeder Datenstufe.
 
-### Was nach dem Kauf passiert
-
+**Was nach dem Kauf passiert**
 Nach dem Kauf einer USA eSIM erhalten Sie Folgendes und wissen, was als Nächstes zu tun ist:
 
 | Schritt | Was passiert | Zeitrahmen |
@@ -205,14 +197,13 @@ Nach dem Kauf einer USA eSIM erhalten Sie Folgendes und wissen, was als Nächste
 | 4 | Installationsanweisungen vom Anbieter | In E-Mail oder App |
 | 5 | eSIM-Profil zur Installation bereit | Sofort |
 
-### Bewahren Sie dies vor Ihrer Reise auf:
+**Bewahren Sie dies vor Ihrer Reise auf:**
 - Machen Sie einen Screenshot des QR-Codes (speichern Sie ihn auf dem Telefon und in der Cloud)
 - Kopieren Sie die SM-DP+ Adresse und den Aktivierungscode in Ihre Notizen-App
 - Speichern Sie die Support-Kontaktinformationen des Anbieters
 - Notieren Sie die Gültigkeitsdaten Ihres Tarifs
 
-### Welche Tarifgröße sollten Sie basierend auf der Reisedauer wählen?
-
+**Welche Tarifgröße sollten Sie basierend auf der Reisedauer wählen?**
 | Reisedauer | Empfohlenes Datenvolumen | Warum |
 |:------------|:----------------|:-----|
 | Wochenende (2-3 Tage) | 1-3 GB | Karten, Nachrichten, soziale Medien |
@@ -241,8 +232,7 @@ Befolgen Sie diese **USA eSIM-Installations-Checkliste vor der Abreise**, um Las
 
 Haken Sie jeden Punkt vor der Abreise ab. Diese Checkliste deckt jeden wichtigen Schritt für die Installation einer USA eSIM vor der Abreise ab.
 
-### Warum jeder Checklisten-Schritt wichtig ist
-
+**Warum jeder Checklisten-Schritt wichtig ist**
 | Schritt | Was passiert, wenn übersprungen | Wie vermeiden |
 |:-----|:--------------------------|:----------------|
 | 1 (Telefonkompatibilität) | Kaufen eines Tarifs, der nicht installiert werden kann | `*#06#` vor dem Kauf wählen |
@@ -262,8 +252,7 @@ Haken Sie jeden Punkt vor der Abreise ab. Diese Checkliste deckt jeden wichtigen
 
 Dies ist der Kern der **USA eSIM-Aktivierung auf dem iPhone** und der Android-QR-Code-Installationsanleitung. Führen Sie dies vor Ihrer Abreise durch, während Sie mit Ihrem heimischen WLAN verbunden sind. Der Tarif beginnt erst mit der Zählung, wenn Sie sich mit einem US-Netzwerk verbinden.
 
-### Wie installiere ich eine USA eSIM auf dem iPhone? (iOS 18)
-
+**Wie installiere ich eine USA eSIM auf dem iPhone? (iOS 18)**
 1. Öffnen Sie **Einstellungen -> Mobilfunk -> eSIM hinzufügen**
 2. Tippen Sie auf **QR-Code verwenden** und scannen Sie den Code aus Ihrer E-Mail oder der App des Anbieters
 3. Wenn das Scannen nicht funktioniert, tippen Sie auf **Details manuell eingeben** und geben Sie die SM-DP+ Adresse und den Aktivierungscode aus Ihrer Bestätigungs-E-Mail ein
@@ -271,21 +260,18 @@ Dies ist der Kern der **USA eSIM-Aktivierung auf dem iPhone** und der Android-QR
 5. Stellen Sie Ihre Standard-Sprachleitung auf Ihre heimische SIM und Ihre Standard-Datenleitung auf die neue eSIM ein
 6. Das Profil wird automatisch installiert
 
-### Wie aktiviere ich eine USA eSIM auf Android? (Samsung Galaxy)
-
+**Wie aktiviere ich eine USA eSIM auf Android? (Samsung Galaxy)**
 1. Öffnen Sie **Einstellungen -> Verbindungen -> SIM-Karten-Manager -> eSIM hinzufügen**
 2. Tippen Sie auf **QR-Code scannen** und richten Sie die Kamera auf den Code
 3. Samsung-Telefone bieten möglicherweise auch eine direkte Installation über die App des Anbieters an
 4. Benennen Sie die eSIM und legen Sie sie als bevorzugte SIM für mobile Daten fest
 
-### Wie aktiviere ich eine USA eSIM auf Android? (Google Pixel)
-
+**Wie aktiviere ich eine USA eSIM auf Android? (Google Pixel)**
 1. Öffnen Sie **Einstellungen -> Netzwerk & Internet -> SIMs -> eSIM hinzufügen**
 2. Tippen Sie auf **Stattdessen eine SIM herunterladen?** oder **QR-Code scannen**
 3. Folgen Sie den Anweisungen auf dem Bildschirm
 
-### iPhonespezifische Installationstipps
-
+**iPhonespezifische Installationstipps**
 iOS 18 führt einige Änderungen am eSIM-Installationsprozess ein:
 
 | iOS-Version | Installationsmethode | Anmerkungen |
@@ -294,14 +280,13 @@ iOS 18 führt einige Änderungen am eSIM-Installationsprozess ein:
 | iOS 17 | Einstellungen -> Mobilfunk -> eSIM hinzufügen | Gleicher Prozess |
 | iOS 16 | Einstellungen -> Mobilfunk -> eSIM hinzufügen | Geringfügige UI-Unterschiede |
 
-### iPhone-Installationstipps:
+**iPhone-Installationstipps:**
 - Wenn das Scannen des QR-Codes fehlschlägt, erhöhen Sie die Bildschirmhelligkeit auf dem Gerät, das den QR-Code anzeigt
 - Für iPhone 14 und neuer (US-Modelle) gibt es keinen physischen SIM-Slot – eSIM ist die einzige Option
 - iPhone 15 Pro und neuer unterstützen die Installation von bis zu 8 eSIM-Profilen mit 2 gleichzeitig aktiven
 - Wenn Sie „eSIM kann nicht hinzugefügt werden“ sehen, überprüfen Sie, ob Ihr iPhone nicht anbietergesperrt ist
 
-### Samsung Galaxy-spezifische Installationstipps
-
+**Samsung Galaxy-spezifische Installationstipps**
 Samsung-Telefone haben je nach One-UI-Version leicht unterschiedliche eSIM-Menüs:
 
 | One UI-Version | Menüpfad | Anmerkungen |
@@ -310,14 +295,13 @@ Samsung-Telefone haben je nach One-UI-Version leicht unterschiedliche eSIM-Menü
 | One UI 5.x (Android 13) | Einstellungen -> Verbindungen -> SIM-Karten-Manager -> eSIM hinzufügen | Ähnlich |
 | One UI 4.x (Android 12) | Einstellungen -> Verbindungen -> SIM-Karten-Manager -> eSIM hinzufügen | Funktioniert gleich |
 
-### Samsung-Installationstipps:
+**Samsung-Installationstipps:**
 - Einige Samsung-Modelle (S20, Note 20) benötigen ein Software-Update, um eSIM zu aktivieren
 - Wenn „eSIM hinzufügen“ ausgegraut ist, unterstützt Ihr Samsung möglicherweise kein eSIM in Ihrer Region
 - Samsung-Telefone zeigen den eSIM-Status unter Einstellungen -> Telefoninfo -> Status -> SIM-Kartenstatus an
 - Die Galaxy S24-Serie unterstützt zwei gleichzeitig aktive eSIMs
 
-### Google Pixel-spezifische Installationstipps
-
+**Google Pixel-spezifische Installationstipps**
 Pixel-Telefone haben den saubersten eSIM-Installationsprozess:
 
 | Pixel-Modell | eSIM-Kapazität | Anmerkungen |
@@ -328,7 +312,7 @@ Pixel-Telefone haben den saubersten eSIM-Installationsprozess:
 | Pixel 6 | 5+ Profile, 2 aktiv | Volle eSIM-Unterstützung |
 | Pixel 5 und früher | 1 aktive eSIM | Nur einzelne eSIM |
 
-### Kann ich USA eSIM ohne WLAN installieren?
+**Kann ich USA eSIM ohne WLAN installieren?**
 
 **Kann ich USA eSIM ohne WLAN installieren?** Ja, aber Sie benötigen eine alternative Internetverbindung:
 
@@ -341,14 +325,13 @@ Pixel-Telefone haben den saubersten eSIM-Installationsprozess:
 
 Wenn Sie zu Hause kein WLAN haben, installieren Sie es an einem beliebigen Ort mit kostenlosem WLAN vor der Abreise. Der QR-Code ist klein – ein Screenshot des Codes funktioniert, wenn Sie das Original nicht scannen können.
 
-### Kann ich USA eSIM vor meiner Reise installieren?
+**Kann ich USA eSIM vor meiner Reise installieren?**
 
 **Kann ich USA eSIM vor meiner Reise installieren?** Absolut – und Sie **sollten** es tun. Die Installation des eSIM-Profils vor der Abreise ist die empfohlene Vorgehensweise. Der Tarif beginnt erst mit der Zählung, wenn Sie sich mit einem US-Netzwerk verbinden, es gibt also keinen Nachteil, frühzeitig zu installieren. Tatsächlich vermeidet die Installation vor der Reise potenzielle Konnektivitätsprobleme am Flughafen und stellt sicher, dass Sie sofort bei der Ankunft Dienst haben.
 
 **Schritt-für-Schritt:** Kaufen Sie den Tarif, speichern Sie den QR-Code, scannen Sie ihn zu Hause im WLAN, benennen Sie die Linie – und fertig. Das Profil verbleibt inaktiv auf Ihrem Telefon, bis Sie ankommen und das Datenroaming aktivieren.
 
-### Wie die eSIM-Aktivierungszeiten funktionieren
-
+**Wie die eSIM-Aktivierungszeiten funktionieren**
 Zu verstehen, wann die Tarifuhr zu ticken beginnt, ist wichtig:
 
 | Anbieter | Aktivierungsauslöser | Best Practice |
@@ -368,32 +351,31 @@ Zu verstehen, wann die Tarifuhr zu ticken beginnt, ist wichtig:
 
 Dies ist der Teil, den die meisten Leute falsch machen. Die eSIM übernimmt die Daten – Ihre heimische SIM übernimmt Anrufe und SMS. So richten Sie das ein.
 
-### Auf dem iPhone:
+**Auf dem iPhone:**
 - Gehen Sie zu **Einstellungen -> Mobilfunk**
 - Wählen Sie unter **Standard-Sprachleitung** Ihre heimische SIM aus
 - Wählen Sie unter **Mobilfunkdaten** die USA eSIM aus
 - Schalten Sie **Datenroaming EIN** für die eSIM-Linie (erforderlich für Reise-eSIMs)
 - Schalten Sie **Datenroaming AUS** für Ihre heimische SIM (verhindert Überraschungskosten)
 
-### Muss ich für die USA eSIM das Datenroaming aktivieren?
+**Muss ich für die USA eSIM das Datenroaming aktivieren?**
 
 **Muss ich für die USA eSIM das Datenroaming aktivieren?** Ja – das ist die wichtigste Einstellung überhaupt. Reise-eSIMs benötigen Datenroaming, um zu funktionieren. Ohne sie leitet Ihr Telefon keine Daten über die eSIM. Die Einstellung ist sicher zu aktivieren, da Sie einen lokalen Datentarif nutzen, nicht das internationale Roaming Ihres Heimanbieters.
 
-### Auf Android (Samsung):
+**Auf Android (Samsung):**
 - Gehen Sie zu **Einstellungen -> Verbindungen -> SIM-Karten-Manager**
 - Stellen Sie **Mobile Daten** auf die USA eSIM ein
 - Stellen Sie **Anrufe** und **SMS** auf Ihre heimische SIM ein
 - Aktivieren Sie **Datenroaming** nur für die USA eSIM
 
-### Auf Android (Google Pixel):
+**Auf Android (Google Pixel):**
 - Gehen Sie zu **Einstellungen -> Netzwerk & Internet -> SIMs**
 - Tippen Sie auf die USA eSIM und aktivieren Sie **Datenroaming**
 - Stellen Sie sicher, dass mobile Daten auf die eSIM-Linie eingestellt sind
 
 Eine detailliertere Anleitung mit Screenshots finden Sie im [USA eSIM-Dual-SIM-Setup-Leitfaden](/blog/usa-esim-dual-sim-setup/) mit gerätespezifischen Anweisungen für jedes Telefonmodell. Wenn Sie nach einem Anbieter suchen, der den Netzwerkwechselprozess vereinfacht, kann eine [USA eSIM](/united-states-esim/) mit automatischer Netzwerkauswahl dies im Hintergrund für Sie erledigen.
 
-### Dual-SIM-Konfiguration nach Anwendungsfall
-
+**Dual-SIM-Konfiguration nach Anwendungsfall**
 Verschiedene Reiseszenarien erfordern unterschiedliche Dual-SIM-Konfigurationen:
 
 | Anwendungsfall | Datenleitung | Sprachleitung | SMS-Leitung | iMessage/Facetime |
@@ -404,7 +386,7 @@ Verschiedene Reiseszenarien erfordern unterschiedliche Dual-SIM-Konfigurationen:
 | Familie teilt Hotspot | USA eSIM (Haupttelefon) | Heimische SIM | Heimische SIM | Heimatnummer |
 | Remote-Arbeiter mit Laptop-Tethering | USA eSIM | Heimische SIM | Heimische SIM | Heimatnummer + E-Mail |
 
-### Dual-SIM-Setup für Geschäftsreisende (zwei eSIMs):
+**Dual-SIM-Setup für Geschäftsreisende (zwei eSIMs):**
 Wenn Sie zwei eSIMs verwenden (z.B. Ubigi für Daten und Tello für eine US-Nummer), konfigurieren Sie wie folgt:
 
 1. Primäre Daten: Stellen Sie die USA eSIM als Datenleitung ein
@@ -415,8 +397,7 @@ Wenn Sie zwei eSIMs verwenden (z.B. Ubigi für Daten und Tello für eine US-Numm
 
 Dieses Setup ermöglicht es Ihnen, Anrufe auf Ihrer US-Nummer zu empfangen, während Sie Daten von einem günstigeren eSIM-Anbieter nutzen.
 
-### Vermeidung von versehentlichen Roaming-Gebühren
-
+**Vermeidung von versehentlichen Roaming-Gebühren**
 Das größte finanzielle Risiko bei Dual-SIM-Reisen ist die versehentliche Nutzung Ihrer heimischen SIM für Daten. So verhindern Sie es:
 
 | Telefon | Einstellung zur Überprüfung | Prüfen Sie dies |
@@ -429,8 +410,7 @@ Das größte finanzielle Risiko bei Dual-SIM-Reisen ist die versehentliche Nutzu
 
 **Vor der Abreise noch einmal prüfen:** Versetzen Sie Ihr Telefon vor der Abreise in den Flugmodus, schalten Sie es aus, entfernen Sie Ihre heimische physische SIM (falls vorhanden), starten Sie neu und bestätigen Sie, dass die eSIM die einzige aktive Datenquelle ist. Setzen Sie dann Ihre heimische SIM wieder ein und überprüfen Sie die Einstellungen erneut.
 
-### Was tun, wenn das Telefon die eSIM nach der Konfiguration nicht erkennt?
-
+**Was tun, wenn das Telefon die eSIM nach der Konfiguration nicht erkennt?**
 Wenn Ihr Telefon die eSIM nach Befolgung der Installationsschritte nicht erkennt:
 
 1. **Starten Sie Ihr Telefon neu** – dies löst 80 % der Erkennungsprobleme
@@ -463,8 +443,7 @@ Die meisten Anbieter konfigurieren den APN automatisch. Wenn nicht, funktioniere
 
 Nach der Eingabe des APN starten Sie Ihr Telefon neu. Die Daten funktionieren normalerweise innerhalb von 30 Sekunden. Wenn Sie immer noch Probleme haben, lesen Sie den [USA eSIM-Fehlerbehebungsleitfaden](/blog/usa-esim-troubleshooting/) für erweiterte Lösungen. [TechRadars eSIM-Fehlerbehebungsleitfaden](https://www.techradar.com/how-to/esim-troubleshooting-guide) deckt auch häufige APN-Probleme bei verschiedenen Geräten ab.
 
-### Wann der APN nicht automatisch konfiguriert wird
-
+**Wann der APN nicht automatisch konfiguriert wird**
 Die automatische APN-Konfiguration schlägt in folgenden Szenarien fehl:
 
 | Szenario | Warum es passiert | Lösung |
@@ -476,8 +455,7 @@ Die automatische APN-Konfiguration schlägt in folgenden Szenarien fehl:
 
 Wenn Ihre Daten nach der Installation nicht funktionieren und Sie bestätigt haben, dass das Datenroaming EIN ist, ist die manuelle Eingabe des APN aus der obigen Tabelle die wahrscheinlichste Lösung.
 
-### Überprüfen der APN-Einstellungen nach der Installation
-
+**Überprüfen der APN-Einstellungen nach der Installation**
 Um zu bestätigen, dass Ihre APN-Einstellungen korrekt sind:
 
 1. Öffnen Sie einen Browser und versuchen Sie, eine beliebige Website zu laden
@@ -499,8 +477,7 @@ Wenn Ihr Flugzeug in den USA landet:
 3. Öffnen Sie Safari oder Chrome und laden Sie eine beliebige Seite
 4. Versuchen Sie Google Maps – wenn die Karte geladen wird, sind Sie verbunden
 
-### Kurzer Konnektivitätstest bei der Ankunft
-
+**Kurzer Konnektivitätstest bei der Ankunft**
 Verwenden Sie diese 30-Sekunden-Testsequenz, um zu bestätigen, dass Ihre eSIM funktioniert:
 
 | Test | Erwartetes Ergebnis | Wenn es fehlschlägt |
@@ -511,26 +488,22 @@ Verwenden Sie diese 30-Sekunden-Testsequenz, um zu bestätigen, dass Ihre eSIM f
 | Google Maps öffnen | Karte wird mit Ihrem Standort geladen | Datenroaming-Einstellung prüfen |
 | iMessage/WhatsApp senden | Nachricht wird erfolgreich gesendet | Dual-SIM-Konfiguration bestätigen |
 
-### Wann sollte ich meine USA eSIM aktivieren?
+**Wann sollte ich meine USA eSIM aktivieren?**
 
 **Wann sollte ich meine USA eSIM aktivieren?** Hier ist die klare Antwort: **Aktivieren Sie sie sofort nach der Landung in den USA.** Sie sollten das eSIM-Profil vor der Abreise installieren, aber es ausgeschaltet lassen, bis Sie ankommen. Die Aktivierung zum Zeitpunkt der Landung maximiert die Gültigkeitsdauer Ihres Tarifs.
 
 Wenn Sie spät in der Nacht (nach 22 Uhr) ankommen, überlegen Sie, ob Sie vor dem Morgen Daten nutzen werden. Einige Tarife verwenden 24-Stunden-Aktivierungszyklen – die Aktivierung um Mitternacht bedeutet, dass Tag 1 um Mitternacht endet. Für den besten Wert aktivieren Sie morgens nach der Ankunft. Die meisten Anbieter, einschließlich Airalo und Ubigi, starten die Uhr, wenn Sie sich zum ersten Mal mit dem Netzwerk verbinden.
 
-### Flugmodus und Inlandsflüge
-
+**Flugmodus und Inlandsflüge**
 Ihre eSIM stellt über 10.000 Fuß keine Mobilfunkverbindung her. Wenn Sie das WLAN an Bord kaufen, schalten Sie den Flugmodus ein und verbinden Sie sich wie gewohnt mit dem WLAN.
 
-### Aktivieren Ihrer eSIM in verschiedenen US-Zeitzonen
-
+**Aktivieren Ihrer eSIM in verschiedenen US-Zeitzonen**
 Einige eSIM-Tarife verwenden 24-Stunden-Aktivierungszyklen, was bedeutet, dass, wenn Sie um 18 Uhr EST aktivieren, Ihr erster „Tag“ um Mitternacht EST endet – nur 6 Stunden Nutzung. Das ist wichtig, wenn Sie spät am Tag an der Westküste ankommen, aber Ihr Tarif nach der Ostküstenzeit läuft. Um den größten Nutzen zu erzielen, aktivieren Sie Ihre eSIM morgens und nicht spät abends, unabhängig davon, wann Sie landen. Die meisten Anbieter verwenden US-Zeitzonen; überprüfen Sie die Tarifbedingungen, um zu verstehen, wie Tage gezählt werden.
 
-### Nutzung Ihrer eSIM während Inlandsflügen in den USA
-
+**Nutzung Ihrer eSIM während Inlandsflügen in den USA**
 Die meisten US-Fluggesellschaften bieten jetzt WLAN an Bord zum Kauf an, aber Ihre eSIM stellt über 10.000 Fuß keine Verbindung zu Mobilfunknetzen her. Wenn Sie das WLAN der Fluggesellschaft kaufen, schalten Sie den Flugmodus ein und verbinden Sie sich wie gewohnt mit dem WLAN-Netzwerk – Ihre eSIM ist an diesem Prozess nicht beteiligt. Einige Fluggesellschaften wie Delta und JetBlue bieten kostenloses Messaging über das WLAN an Bord an. Für Surfen und Streaming liegen die Preise für kostenpflichtige WLAN-Tarife je nach Fluggesellschaft und Route zwischen $5 und $20 pro Flug.
 
-### Was tun, wenn Ihr Telefon „Anbietergesperrt“ oder „SIM-gesperrt“ anzeigt?
-
+**Was tun, wenn Ihr Telefon „Anbietergesperrt“ oder „SIM-gesperrt“ anzeigt?**
 Wenn beim Versuch, eine USA eSIM zu installieren, eine Anbietersperrnachricht angezeigt wird, ist Ihr Telefon für einen bestimmten Anbieter gesperrt. Kontaktieren Sie Ihren Heimanbieter, um eine Entsperrung zu beantragen. Nach den FCC-Regeln entsperren die meisten US-Anbieter Telefone auf Anfrage, wenn sie abbezahlt sind. Für nicht-US-Anbieter variieren die Entsperrungsrichtlinien. Der Entsperrungsprozess dauert in der Regel 24-72 Stunden nach der Anfrage. Beantragen Sie ihn mindestens eine Woche vor Ihrer Reise.
 
 ---
@@ -548,7 +521,7 @@ Wenn Ihnen während Ihrer Reise das Datenvolumen ausgeht, hängt **wie Sie USA e
 | **Tello** | App -> Tarif verwalten -> Daten hinzufügen | 1 GB | Ja |
 | **USA eSIM** | App -> Daten hinzufügen | 1 GB | Ja |
 
-### Schritt-für-Schritt-Aufladeprozess (die meisten Anbieter):
+**Schritt-für-Schritt-Aufladeprozess (die meisten Anbieter):**
 1. Öffnen Sie die App des Anbieters
 2. Gehen Sie zu „Meine Tarife“ oder „Meine eSIMs“
 3. Wählen Sie Ihren aktiven Tarif
@@ -559,8 +532,7 @@ Wenn Ihnen während Ihrer Reise das Datenvolumen ausgeht, hängt **wie Sie USA e
 
 **Wichtiger Hinweis:** Wenn Ihr Tarif abgelaufen ist, müssen Sie möglicherweise einen neuen Tarif kaufen, anstatt aufzuladen. Überprüfen Sie immer den Gültigkeitszeitraum, bevor Sie aufladen. Die meisten Anbieter erlauben Aufladungen nur, solange der Tarif noch aktiv ist.
 
-### Was tun, wenn das Aufladen fehlschlägt
-
+**Was tun, wenn das Aufladen fehlschlägt**
 Wenn Ihr Aufladeversuch fehlschlägt, finden Sie hier die häufigsten Ursachen und Lösungen:
 
 | Problem | Wahrscheinliche Ursache | Lösung |
@@ -573,8 +545,7 @@ Wenn Ihr Aufladeversuch fehlschlägt, finden Sie hier die häufigsten Ursachen u
 
 **Vorbeugung:** Laden Sie auf, wenn Sie noch 20 % Restdaten haben, nicht wenn Sie 0 % erreicht haben. Das gibt Zeit, um Zahlungsprobleme zu lösen, bevor Sie die Konnektivität verlieren. Eine [USA eSIM](/united-states-esim/) mit Nutzungsalarmen kann Sie benachrichtigen, bevor das Volumen aufgebraucht ist.
 
-### Datenüberwachung während Ihrer Reise
-
+**Datenüberwachung während Ihrer Reise**
 Behalten Sie Ihren Datenverbrauch im Auge, um unerwartete Erschöpfung zu vermeiden:
 
 | Methode | Wie überprüfen | Am besten für |
@@ -608,8 +579,7 @@ Sobald Sie ein eSIM-Profil von Ihrem Telefon löschen, ist der QR-Code nur einma
 
 **Wenn Sie löschen müssen:** Kontaktieren Sie den Support, bevor Sie löschen. Einige Anbieter können einen neuen QR-Code generieren, wenn Sie noch Ihre Bestellnummer und Aktivierungsdetails haben. Der Prozess kann 24-48 Stunden dauern.
 
-### So verwalten Sie mehrere eSIM-Profile sicher
-
+**So verwalten Sie mehrere eSIM-Profile sicher**
 Wenn Sie mehrere eSIM-Profile installiert haben, benennen Sie sie klar, um Verwirrung zu vermeiden:
 
 | Namensvorschlag | Welche Leitung | Zweck |
@@ -619,13 +589,13 @@ Wenn Sie mehrere eSIM-Profile installiert haben, benennen Sie sie klar, um Verwi
 | „Tello US-Nummer“ | Sekundäre Sprache | US-Telefonnummer |
 | „Nomad Backup“ | Backup-Daten | Notfallabdeckung auf dem Land |
 
-### Verwalten mehrerer Profile auf dem iPhone:
+**Verwalten mehrerer Profile auf dem iPhone:**
 - Einstellungen -> Mobilfunk -> [Profilname] -> Diese Leitung ein-/ausschalten
 - Sie können 8+ eSIM-Profile speichern, aber nur 2 gleichzeitig aktiv haben
 - Benennen Sie jedes Profil bei der Installation klar
 - Schalten Sie nicht verwendete Profile aus, um versehentliche Datenkosten zu vermeiden
 
-### Verwalten mehrerer Profile auf Android (Samsung):
+**Verwalten mehrerer Profile auf Android (Samsung):**
 - Einstellungen -> Verbindungen -> SIM-Karten-Manager
 - eSIM-Linien nach Bedarf ein- und ausschalten
 - Samsung unterstützt 5+ gespeicherte eSIM-Profile mit 2 aktiven
@@ -648,11 +618,10 @@ Wenn Sie mehrere eSIM-Profile installiert haben, benennen Sie sie klar, um Verwi
 
 Für detailliertere Fehlerbehebung ist [Reddits r/eSIM-Community](https://www.reddit.com/r/eSIM/) eine nützliche Ressource, wo Reisende reale Lösungen für häufige Installationsprobleme teilen.
 
-### Erweiterte Fehlerbehebung: manuelle Netzwerkauswahl
-
+**Erweiterte Fehlerbehebung: manuelle Netzwerkauswahl**
 Wenn Ihre eSIM installiert ist und das Datenroaming eingeschaltet ist, aber Sie immer noch kein Signal haben, versuchen Sie, manuell ein Netzwerk auszuwählen:
 
-### Auf dem iPhone:
+**Auf dem iPhone:**
 1. Gehen Sie zu Einstellungen -> Mobilfunk -> [USA eSIM] -> Netzwerkauswahl
 2. Schalten Sie „Automatisch“ AUS
 3. Warten Sie, bis die Liste der verfügbaren Netzwerke erscheint
@@ -660,7 +629,7 @@ Wenn Ihre eSIM installiert ist und das Datenroaming eingeschaltet ist, aber Sie 
 5. Wenn das ausgewählte Netzwerk „Kein Dienst“ anzeigt, versuchen Sie ein anderes
 6. Sobald verbunden, können Sie „Automatisch“ wieder einschalten
 
-### Auf Android (Samsung):
+**Auf Android (Samsung):**
 1. Gehen Sie zu Einstellungen -> Verbindungen -> Mobile Netzwerke -> Netzbetreiber
 2. Tippen Sie auf „Netzwerke suchen“
 3. Wählen Sie ein Netzwerk aus der Liste (T-Mobile, AT&T oder Verizon)
@@ -668,8 +637,7 @@ Wenn Ihre eSIM installiert ist und das Datenroaming eingeschaltet ist, aber Sie 
 
 **Warum manuelle Auswahl hilft:** Einige Telefone haben Probleme mit der automatischen Netzwerkauswahl bei Verwendung einer eSIM von einem Anbieter, der mehrere Betreibernetze weiterverkauft (wie Airalo, Nomad oder KnowRoaming). Die manuelle Auswahl zwingt Ihr Telefon, sich mit dem stärksten verfügbaren Netzwerk zu verbinden.
 
-### Behebung von „eSIM nicht unterstützt“-Fehlern bei bestimmten Telefonmodellen
-
+**Behebung von „eSIM nicht unterstützt“-Fehlern bei bestimmten Telefonmodellen**
 | Telefonmodell | Bekanntes Problem | Lösung |
 |:------------|:------------|:-----|
 | iPhone 14 (USA) | Kein physischer SIM-Slot | Nur eSIM – sicherstellen, dass der Anbieter eSIM unterstützt |
@@ -679,8 +647,7 @@ Wenn Ihre eSIM installiert ist und das Datenroaming eingeschaltet ist, aber Sie 
 | Google Pixel 3 (nicht-XL) | Kein eSIM außerhalb Japans | Kann eSIM außerhalb Japans nicht verwenden |
 | OnePlus 11 (China-ROM) | eSIM deaktiviert | Kann eSIM nicht verwenden – globales ROM verwenden |
 
-### Wann Sie den Support kontaktieren sollten
-
+**Wann Sie den Support kontaktieren sollten**
 Wenn Sie alle Fehlerbehebungsschritte ausprobiert haben und immer noch keine Konnektivität haben, kontaktieren Sie den Support des Anbieters mit diesen bereitgehaltenen Informationen:
 
 | Benötigte Informationen | Wo zu finden |
@@ -709,8 +676,7 @@ Wenn Sie diese Informationen bereithalten, verkürzt sich die Support-Lösungsze
 
 **Vergessen, das Datenroaming der heimischen SIM auszuschalten.** Schalten Sie das Datenroaming auf Ihrer heimischen SIM AUS, um internationale Roaming-Gebühren zu vermeiden.
 
-### Zusätzliche Fehler, die Geld kosten
-
+**Zusätzliche Fehler, die Geld kosten**
 | Fehler | Kostenauswirkung | Wie vermeiden |
 |:--------|:------------|:-------------|
 | Kauf von mehr Daten als nötig | $10-50 zu viel ausgegeben | Datenrechner im Preisvergleich verwenden |
@@ -723,31 +689,31 @@ Wenn Sie diese Informationen bereithalten, verkürzt sich die Support-Lösungsze
 
 ## Häufig gestellte Fragen zur USA eSIM-Installation
 
-### Wie installiere ich eine USA eSIM auf dem iPhone?
+**Wie installiere ich eine USA eSIM auf dem iPhone?**
 Öffnen Sie Einstellungen -> Mobilfunk -> eSIM hinzufügen -> QR-Code scannen -> Linie benennen -> Daten auf eSIM, Sprache auf heimische SIM einstellen. Vollständige Installation vor der Abreise im WLAN durchführen.
 
-### Wie aktiviere ich eine USA eSIM auf Android?
+**Wie aktiviere ich eine USA eSIM auf Android?**
 Für Samsung: Einstellungen -> Verbindungen -> SIM-Karten-Manager -> eSIM hinzufügen -> QR-Code scannen. Für Google Pixel: Einstellungen -> Netzwerk & Internet -> SIMs -> eSIM hinzufügen -> QR-Code scannen.
 
-### Kann ich USA eSIM vor meiner Reise installieren?
+**Kann ich USA eSIM vor meiner Reise installieren?**
 Ja – und Sie sollten es tun. Installieren Sie das Profil vor der Abreise zu Hause im WLAN. Der Tarif beginnt erst mit der Zählung, wenn Sie sich mit einem US-Netzwerk verbinden. Dies ist einer der Hauptvorteile einer [USA eSIM](/united-states-esim/) gegenüber physischen SIM-Karten – Sie können alles vor der Abreise einrichten.
 
-### Wann sollte ich meine USA eSIM aktivieren?
+**Wann sollte ich meine USA eSIM aktivieren?**
 Bei der Landung in den USA aktivieren. Installieren Sie das Profil vor der Abreise, aber lassen Sie es ausgeschaltet, bis Sie ankommen. Für den besten Wert bei 24-Stunden-Zyklus-Tarifen aktivieren Sie morgens und nicht spät abends.
 
-### Wie prüfe ich, ob mein Telefon eSIM für die USA unterstützt?
+**Wie prüfe ich, ob mein Telefon eSIM für die USA unterstützt?**
 Wählen Sie `*#06#` auf Ihrem Telefon. Wenn Sie eine EID-Nummer zusammen mit der IMEI sehen, unterstützt Ihr Telefon eSIM. Die meisten iPhones ab XS (außer China/HK/Macau), Samsung Galaxy S20 aufwärts und Google Pixel 3 aufwärts unterstützen eSIM.
 
-### Kann ich USA eSIM ohne WLAN vor dem Flug installieren?
+**Kann ich USA eSIM ohne WLAN vor dem Flug installieren?**
 Ja. Verwenden Sie das Telefon eines Freundes als Hotspot, verbinden Sie sich mit dem Flughafen-WLAN oder verwenden Sie die manuelle Eingabe mit der SM-DP+ Adresse und dem Aktivierungscode aus Ihrer Bestätigungs-E-Mail.
 
-### Muss ich für die USA eSIM das Datenroaming aktivieren?
+**Muss ich für die USA eSIM das Datenroaming aktivieren?**
 Ja. Reise-eSIMs benötigen Datenroaming, um zu funktionieren. Schalten Sie das Datenroaming für die eSIM-Linie EIN und für Ihre heimische SIM AUS, um internationale Gebühren zu vermeiden.
 
-### Kann ich meine USA eSIM neu installieren, wenn ich sie lösche?
+**Kann ich meine USA eSIM neu installieren, wenn ich sie lösche?**
 Nein. Der QR-Code ist nur einmal verwendbar. Wenn Sie das Profil löschen, können Sie es nicht mit demselben QR-Code neu installieren. Kontaktieren Sie den Support – dieser kann möglicherweise ein neues Profil generieren. Beste Praxis: Löschen Sie das Profil niemals während der Fehlerbehebung.
 
-### Woher weiß ich, mit welchem Netzwerk meine eSIM verbunden ist?
+**Woher weiß ich, mit welchem Netzwerk meine eSIM verbunden ist?**
 
 **Auf dem iPhone:** Einstellungen -> Mobilfunk -> [eSIM-Linie] -> Sehen Sie das Feld „Anbieter“ oder „Netzwerk“. Dies zeigt den aktuellen Netzwerknamen (T-Mobile, AT&T, Verizon oder ein Partnernetzwerk).
 
@@ -757,12 +723,10 @@ Nein. Der QR-Code ist nur einmal verwendbar. Wenn Sie das Profil löschen, könn
 
 Zu wissen, mit welchem Netzwerk Sie verbunden sind, hilft bei der Fehlerbehebung von Konnektivitätsproblemen. Wenn Sie mit einem Netzwerk verbunden sind, das in Ihrer Gegend bekanntermaßen schwache Abdeckung hat, kann das manuelle Umschalten auf ein anderes Netzwerk die Leistung verbessern.
 
-### Kann ich meine USA eSIM in einem Telefon ohne physischen SIM-Slot verwenden?
-
+**Kann ich meine USA eSIM in einem Telefon ohne physischen SIM-Slot verwenden?**
 Ja – die meisten modernen eSIM-Anbieter unterstützen Telefone ohne physischen SIM-Slot. Die iPhone 14 und neueren Modelle, die in den USA verkauft werden, haben keinen physischen SIM-Slot und sind vollständig auf eSIM angewiesen. Alle großen eSIM-Anbieter (Ubigi, Airalo, Holafly, Nomad, Tello) unterstützen diese Geräte. Für Reisende mit einem iPhone 14 oder neuer aus den USA ist eSIM die einzige Konnektivitätsoption – es gibt keine physische SIM-Alternative.
 
-### Was passiert, wenn ich während meiner Reise das Telefon wechsle?
-
+**Was passiert, wenn ich während meiner Reise das Telefon wechsle?**
 Wenn Sie während Ihres Aufenthalts in den USA das Telefon wechseln (z.B. wenn Ihr Haupttelefon kaputt geht), ist Ihre eSIM an das ursprüngliche Gerät gebunden. Sie müssen Ihren Anbieter kontaktieren, um die eSIM auf das neue Telefon zu übertragen. Einige Anbieter (Tello, Google Fi) erlauben selbständige Übertragungen über ihre App. Andere (Airalo, Ubigi) erfordern möglicherweise den Kauf eines neuen Tarifs. Bewahren Sie immer Ihren QR-Code-Screenshot und den Aktivierungscode auf, falls Sie auf einem anderen Gerät neu installieren müssen.
 
 ---

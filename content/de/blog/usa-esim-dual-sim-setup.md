@@ -1,4 +1,4 @@
----
+﻿---
 title: "USA eSIM Dual-SIM: Heimatnummer aktiv halten"
 description: "USA eSIM Dual-SIM: Heimatnummer behalten, US-Daten nutzen. Schritt für Schritt für iPhone & Android. Roami unterstützt Multi-Geräte. Jetzt einrichten!"
 keywords: ["USA eSIM Dual-SIM", "Dual-SIM Einrichtung USA eSIM", "Heim-SIM mit eSIM aktiv halten", "iPhone Dual-SIM eSIM", "Android Dual-SIM eSIM Einrichtung"]
@@ -96,14 +96,12 @@ Bei zwei aktiven SIMs:
 
 Nicht alle Telefone unterstützen Dual-SIM mit eSIM. Wenn Sie sich bei Ihrem Telefonmodell nicht sicher sind, finden Sie im [USA eSIM Komplettleitfaden](/blog/usa-esim-complete-guide/) eine vollständige Kompatibilitätsliste.
 
-### Warum Dual-SIM heute wichtiger denn je ist
-
+**Warum Dual-SIM heute wichtiger denn je ist**
 Die zunehmende Verbreitung von SMS-basierter Zwei-Faktor-Authentifizierung (2FA) für Banken, soziale Medien und Behördendienste bedeutet, dass der Verlust des Zugangs zu Ihrer Heimatnummer während der Reise Sie von wichtigen Konten ausschließen kann. Laut einer Umfrage der GSMA sind weltweit etwa 78 % der Online-Banking-Plattformen immer noch auf SMS-2FA als primäre oder Backup-Verifizierungsmethode angewiesen. Dies macht die Aufrechterhaltung des Zugangs zu Ihrer Heimat-Telefonnummer während internationaler Reisen zu einer Sicherheitsnotwendigkeit, nicht nur zu einer Annehmlichkeit.
 
 Dual-SIM mit eSIM löst auch das WhatsApp-Verifizierungsproblem. Wenn WhatsApp Ihre Heim-SIM erkennt, verwendet es weiterhin Ihre vorhandene Nummer, ohne eine erneute Verifizierung zu verlangen. Wenn Sie Ihre Heim-SIM entfernen und stattdessen eine lokale US-SIM einlegen, kann WhatsApp Ihr Konto deaktivieren oder eine SMS-Verifizierung verlangen – die Sie auf einer US-Nummer nicht empfangen können. Mit Dual-SIM bleibt WhatsApp aktiv, weil Ihre Heimatnummer im Netzwerk registriert bleibt.
 
-### Telefonkompatibilität: Was funktioniert und was nicht
-
+**Telefonkompatibilität: Was funktioniert und was nicht**
 Nicht alle Telefone handhaben Dual-SIM auf die gleiche Weise. Hier ist eine Kompatibilitätsübersicht nach Telefontyp:
 
 | Telefontyp | Konfiguration | Dual-SIM-Unterstützung |
@@ -135,13 +133,13 @@ Nicht alle Telefone handhaben Dual-SIM auf die gleiche Weise. Hier ist eine Komp
 6. Tippen Sie auf Ihre USA eSIM-Leitung → schalten Sie **Datenroaming EIN**. Die meisten Reise-eSIMs benötigen dies, um zu funktionieren
 7. Tippen Sie auf **iMessage & FaceTime** → wählen Sie Ihre Heimat-Telefonnummer (optional – beide SIMs können ausgewählt werden)
 
-### So überprüfen Sie, ob alles funktioniert:
+**So überprüfen Sie, ob alles funktioniert:**
 - Überprüfen Sie bei iPhone Dual-SIM-eSIM die Statusleiste: Sie sollten zwei Signalindikatoren sehen – einen für jede Leitung
 - Der primäre Indikator zeigt das Signal Ihrer Heim-SIM (für Anrufe/SMS)
 - Der sekundäre Indikator zeigt das Signal Ihrer eSIM (für Daten)
 - Öffnen Sie Safari und laden Sie eine Seite – die Daten sollten über die eSIM geleitet werden
 
-### iPhone-spezifische Einstellungen, die Sie überprüfen sollten
+**iPhone-spezifische Einstellungen, die Sie überprüfen sollten**
 
 **Mobilfunk-Datenumschaltung zulassen (iPhone XS und neuer):** Diese Funktion, zu finden unter Einstellungen → Mobilfunk → Mobilfunk-Daten → Mobilfunk-Datenumschaltung zulassen, ermöglicht es Ihrem iPhone, automatisch Daten von Ihrer Heim-SIM zu nutzen, wenn die Datenverbindung der eSIM abbricht. Obwohl dies die Zuverlässigkeit verbessert, kann es bei aktivierter Funktion zu Datenroaming-Gebühren auf Ihrer Heim-SIM führen. Empfehlung: Schalten Sie dies AUS, es sei denn, Sie haben ein Datenroaming-Paket auf Ihrer Heim-SIM.
 
@@ -149,8 +147,7 @@ Nicht alle Telefone handhaben Dual-SIM auf die gleiche Weise. Hier ist eine Komp
 
 **iMessage-Aktivierungsprobleme:** Wenn sich iMessage nach dem Wechsel zu Dual-SIM nicht aktiviert, gehen Sie zu Einstellungen → Nachrichten → Senden & Empfangen → stellen Sie sicher, dass Ihre Heimat-Telefonnummer ausgewählt ist. Wenn „Warten auf Aktivierung“ angezeigt wird, schalten Sie iMessage AUS, starten Sie das Telefon neu und schalten Sie es wieder EIN. Die Aktivierung dauert in der Regel 1-5 Minuten über die Datenverbindung der eSIM.
 
-### iPhone Dual-eSIM-Einrichtung (keine physische SIM)
-
+**iPhone Dual-eSIM-Einrichtung (keine physische SIM)**
 Wenn Ihr Telefon Dual-eSIM unterstützt (iPhone 13 und neuer) und Ihr Heimatbetreiber eSIM anbietet, können Sie zwei eSIMs gleichzeitig ohne physische SIM betreiben:
 
 1. Einstellungen → Mobilfunk → Mobilfunk-Tarif hinzufügen → scannen Sie den QR-Code Ihrer Heim-eSIM (oder laden Sie ihn über die Betreiber-App herunter)
@@ -169,7 +166,7 @@ Wenn Ihr Telefon Dual-eSIM unterstützt (iPhone 13 und neuer) und Ihr Heimatbetr
 
 ## Wie richte ich Dual-SIM mit Heim-SIM und USA eSIM auf Android ein?
 
-### Samsung Galaxy Android Dual-SIM-eSIM-Einrichtung (One UI 6+)
+**Samsung Galaxy Android Dual-SIM-eSIM-Einrichtung (One UI 6+)**
 1. Öffnen Sie **Einstellungen → Verbindungen → SIM-Karten-Manager**
 2. Unter **SIM-Karten** sehen Sie sowohl Ihre physische SIM als auch die eSIM aufgelistet
 3. Tippen Sie auf **Mobile Daten** → wählen Sie Ihre USA eSIM
@@ -178,7 +175,7 @@ Wenn Ihr Telefon Dual-eSIM unterstützt (iPhone 13 und neuer) und Ihr Heimatbetr
 6. Tippen Sie auf Ihre USA eSIM → aktivieren Sie **Datenroaming**
 7. Tippen Sie auf Ihre Heim-SIM → deaktivieren Sie **Datenroaming**
 
-### Google Pixel (Android 14+)
+**Google Pixel (Android 14+)**
 1. Öffnen Sie **Einstellungen → Netzwerk & Internet → SIMs**
 2. Tippen Sie auf Ihre USA eSIM → aktivieren Sie **Datenroaming**
 3. Tippen Sie auf Ihre Heim-SIM → deaktivieren Sie **Datenroaming**
@@ -186,7 +183,7 @@ Wenn Ihr Telefon Dual-eSIM unterstützt (iPhone 13 und neuer) und Ihr Heimatbetr
 5. Stellen Sie sicher, dass die USA eSIM als aktive Datenleitung ausgewählt ist
 6. Tippen Sie auf **Anrufe & SMS** → wählen Sie Ihre Heim-SIM als Standard
 
-### OnePlus Dual-SIM-eSIM-Einrichtung (OxygenOS 14+)
+**OnePlus Dual-SIM-eSIM-Einrichtung (OxygenOS 14+)**
 1. Öffnen Sie **Einstellungen → WLAN & Netzwerk → SIM & Netzwerk**
 2. Sie sehen Ihre physische SIM und eSIM aufgelistet
 3. Tippen Sie auf **Daten** → wählen Sie Ihre USA eSIM
@@ -195,7 +192,7 @@ Wenn Ihr Telefon Dual-eSIM unterstützt (iPhone 13 und neuer) und Ihr Heimatbetr
 6. Tippen Sie auf Ihre USA eSIM → schalten Sie **Datenroaming** EIN
 7. Tippen Sie auf Ihre Heim-SIM → schalten Sie **Datenroaming** AUS
 
-### Xiaomi Dual-SIM-eSIM-Einrichtung (HyperOS)
+**Xiaomi Dual-SIM-eSIM-Einrichtung (HyperOS)**
 1. Öffnen Sie **Einstellungen → SIM-Karten & Mobilfunknetze**
 2. Sie sehen beide SIMs aufgelistet
 3. Tippen Sie auf **Standard-SIM für Daten** → wählen Sie Ihre USA eSIM
@@ -204,8 +201,7 @@ Wenn Ihr Telefon Dual-eSIM unterstützt (iPhone 13 und neuer) und Ihr Heimatbetr
 6. Tippen Sie auf Ihre USA eSIM → aktivieren Sie **Datenroaming**
 7. Tippen Sie auf Ihre Heim-SIM → deaktivieren Sie **Datenroaming**
 
-### Android-Schnelleinstellungen zum Umschalten von Daten
-
+**Android-Schnelleinstellungen zum Umschalten von Daten**
 Alle Android-Telefone mit Android 12 oder neuer ermöglichen es Ihnen, Datenleitungen über das Schnelleinstellungs-Panel zu wechseln, ohne in das Einstellungsmenü eintauchen zu müssen:
 
 1. Wischen Sie zweimal von oben auf dem Bildschirm nach unten
@@ -221,12 +217,12 @@ Dies ist nützlich, wenn Sie vorübergehend Ihre Heim-SIM für Daten nutzen müs
 
 **So wechseln Sie zwischen eSIM und Heim-SIM USA** – wenn Sie vorübergehend die Daten wieder auf Ihre Heim-SIM umschalten müssen (z. B. wenn Sie einen Roaming-Tarif haben, der Ihnen für einen Tag kostenlose Daten bietet):
 
-### Auf dem iPhone:
+**Auf dem iPhone:**
 1. Einstellungen → Mobilfunk → Mobilfunk-Daten
 2. Tippen Sie auf Ihre Heim-SIM, um sie als Datenleitung auszuwählen
 3. Wenn Sie zurückschalten möchten, wiederholen Sie den Vorgang und wählen Sie die USA eSIM
 
-### Auf Android (Samsung):
+**Auf Android (Samsung):**
 1. Einstellungen → Verbindungen → SIM-Karten-Manager
 2. Tippen Sie auf Mobile Daten → wählen Sie die Leitung, die Sie verwenden möchten
 3. Zum Zurückschalten wiederholen Sie den Vorgang und wählen die andere Leitung
@@ -255,7 +251,7 @@ Im Detail: Leitet den gesamten Internetverkehr an die ausgewählte SIM. Stellen 
 
 **iMessage & FaceTime (iPhone):** Kann auf eine der beiden SIMs eingestellt werden. Wenn es auf Ihre Heimat-Telefonnummer eingestellt ist, funktioniert iMessage über die Datenverbindung der eSIM ohne zusätzliche Gebühren.
 
-### Erweiterte Einstellungen erklärt
+**Erweiterte Einstellungen erklärt**
 
 **Netzauswahl (automatisch vs. manuell):** Standardmäßig wählt Ihr Telefon automatisch das beste verfügbare Netzwerk aus. In Gebieten mit schwacher Abdeckung kann es helfen, die automatische Auswahl auszuschalten und manuell einen Betreiber zu wählen. Auf dem iPhone: Einstellungen → Mobilfunk → Netzauswahl → AUS → T-Mobile, AT&T oder Verizon wählen. Auf Android: Einstellungen → Verbindungen → SIM-Karten-Manager → tippen Sie auf Ihre eSIM → Netzbetreiber → Netze suchen → eines auswählen. Dies ist nützlich, wenn Ihr Telefon das Netzwerk an Ihrem Standort nicht automatisch finden kann.
 
@@ -281,7 +277,7 @@ Im Detail: Leitet den gesamten Internetverkehr an die ausgewählte SIM. Stellen 
 
 Mit einem Dual-SIM-Setup übernimmt Ihre Heim-SIM weiterhin Anrufe und SMS, sodass Sie Nachrichten auf Ihrer regulären Nummer empfangen. Wenn Sie speziell eine US-Nummer benötigen, benötigen Sie einen eSIM-Tarif, der eine enthält – Tello und Prepaid-Tarife der Betreiber bieten dies an. Für die meisten Reisenden ist es alles, was Sie brauchen, Ihre Heimatnummer mit einer Nur-Daten-USA eSIM aktiv zu halten.
 
-### Wann eine US-Nummer die zusätzlichen Kosten wert ist
+**Wann eine US-Nummer die zusätzlichen Kosten wert ist**
 
 **Fahrdienst- und Lieferdienste:** Uber, Lyft, DoorDash und ähnliche Dienste ermöglichen die Fahrer-Fahrgast-Kommunikation über ihre In-App-Chat-Funktionen, daher ist eine US-Nummer nicht unbedingt erforderlich. Wenn ein Fahrer Sie jedoch direkt anrufen muss und Sie von Ihrer Heimatnummer aus antworten, könnte er abweisen, wenn er eine internationale Nummer sieht. In der Praxis nutzen die meisten Fahrer den In-App-Chat, und die wenigen Fälle, in denen Sie einen Sprachanruf benötigen, sind handhabbar.
 
@@ -306,8 +302,7 @@ Mit einem Dual-SIM-Setup übernimmt Ihre Heim-SIM weiterhin Anrufe und SMS, soda
 
 **Wichtig:** Datenroaming auf Ihrer Heim-SIM muss AUS sein, um Datengebühren zu verhindern. Die Heim-SIM sollte nur Anrufe und SMS verarbeiten, was im Allgemeinen günstiger und oft in Roaming-Paketen enthalten ist. Während des Roamings getätigte Anrufe können je nach den internationalen Anruftarifen Ihres Heimatbetreibers Gebühren verursachen. Prüfen Sie Ihren Tarif vor der Reise.
 
-### Wie Anrufe im Dual-SIM-Modus geleitet werden
-
+**Wie Anrufe im Dual-SIM-Modus geleitet werden**
 Das Verständnis der Anrufweiterleitung hilft, unerwartete Gebühren zu vermeiden:
 
 **Eingehende Anrufe auf Ihre Heimatnummer:** Diese kommen über die Roaming-Verbindung Ihrer Heim-SIM zu ihrem Heimatnetz. Ihr Heimatbetreiber leitet den Anruf an das US-Partnernetz weiter, mit dem Ihre Heim-SIM verbunden ist. Sie nehmen den Anruf normal an. Die meisten Betreiber berechnen Gebühren für den Empfang von Anrufen im Roaming, wobei die Tarife stark variieren.
@@ -322,7 +317,7 @@ Das Verständnis der Anrufweiterleitung hilft, unerwartete Gebühren zu vermeide
 
 ## Häufige eSIM-Dual-SIM-Probleme und Lösungen
 
-### USA eSIM Fehlerbehebung bei fehlendem Service
+**USA eSIM Fehlerbehebung bei fehlendem Service**
 
 **USA eSIM Fehlerbehebung bei fehlendem Service** – wenn Ihre eSIM in den USA „Kein Dienst“ oder „Nur SOS“ anzeigt:
 
@@ -334,7 +329,7 @@ Das Verständnis der Anrufweiterleitung hilft, unerwartete Gebühren zu vermeide
 | eSIM funktionierte, dann hörte sie auf | Flugmodus umgeschaltet | Telefon neu starten, prüfen, ob Datenroaming noch EIN ist |
 | "Aktivierung nicht möglich"-Fehler | Aktivierung erfordert US-Netz | Versuchen Sie die Aktivierung nach der Landung – einige eSIMs benötigen eine US-Turmverbindung |
 
-### Schritt-für-Schritt-Lösung bei fehlendem Service:
+**Schritt-für-Schritt-Lösung bei fehlendem Service:**
 1. Gehen Sie zu Einstellungen → Mobilfunk → tippen Sie auf Ihre eSIM-Leitung → stellen Sie sicher, dass Datenroaming EIN ist
 2. Schalten Sie den Flugmodus für 10 Sekunden EIN, dann AUS
 3. Starten Sie Ihr Telefon vollständig neu
@@ -343,19 +338,19 @@ Das Verständnis der Anrufweiterleitung hilft, unerwartete Gebühren zu vermeide
 
 Anbieter mit echtem menschlichen Support, wie [**USA eSIM**](/united-states-esim/), können No-Service-Probleme oft schneller lösen als Chatbot-basierte Support-Systeme. Wenn Ihr Telefon nach diesen Schritten immer noch „Kein Dienst“ anzeigt, überprüfen Sie den [USA eSIM Fehlerbehebungsleitfaden](/blog/usa-esim-troubleshooting/) für detaillierte Lösungen.
 
-### USA eSIM kann kein SMS-OTP empfangen
+**USA eSIM kann kein SMS-OTP empfangen**
 
 **USA eSIM kann kein SMS-OTP empfangen** – dies ist ein häufiges Problem. Hier ist, was Sie überprüfen sollten:
 
-### Szenario A: Sie verwenden eine Nur-Daten-eSIM (Airalo, Ubigi, Holafly)
+**Szenario A: Sie verwenden eine Nur-Daten-eSIM (Airalo, Ubigi, Holafly)**
 - **Können Sie SMS empfangen?** Nein – Nur-Daten-eSIMs haben keine Telefonnummer. Sie können überhaupt keine SMS empfangen.
 - **Was tun:** Verwenden Sie app-basierte 2FA (Google Authenticator, Authy) anstelle von SMS. Oder halten Sie Ihre Heim-SIM für SMS aktiv.
 
-### Szenario B: Sie verwenden eine eSIM mit US-Nummer (Tello, Google Fi, Betreiber-Prepaid)
+**Szenario B: Sie verwenden eine eSIM mit US-Nummer (Tello, Google Fi, Betreiber-Prepaid)**
 - **Können Sie SMS empfangen?** Ja – aber Ihre SMS kommen auf Ihre US-Nummer, nicht auf Ihre Heimatnummer.
 - **Was tun:** Wenn Sie SMS auf Ihrer US-Nummer benötigen, überprüfen Sie, ob die Sprachleitung der eSIM als Standard für SMS eingestellt ist.
 
-### Szenario C: Sie verwenden eine USA eSIM mit aktiver Heim-SIM (Dual-SIM-Setup)
+**Szenario C: Sie verwenden eine USA eSIM mit aktiver Heim-SIM (Dual-SIM-Setup)**
 - **Können Sie SMS auf Ihre Heimatnummer empfangen?** Ja – SMS treffen wie gewohnt auf Ihrer Heim-SIM ein.
 - **Warum könnte SMS fehlschlagen?** Hier sind die häufigsten Gründe:
 
@@ -367,22 +362,21 @@ Anbieter mit echtem menschlichen Support, wie [**USA eSIM**](/united-states-esim
 | Schlechtes Roaming-Signal des Heimatbetreibers | Bewegen Sie sich in ein Gebiet mit besserem Signal oder starten Sie das Telefon neu |
 | Heimatbetreiber berechnet Gebühren für Roaming-SMS | Einige Betreiber blockieren eingehende SMS, es sei denn, Sie haben ein Roaming-Paket. Kontaktieren Sie Ihren Betreiber |
 
-### Wenn Ihre Bank oder Ihr Dienst SMS-Verifizierung verlangt:
+**Wenn Ihre Bank oder Ihr Dienst SMS-Verifizierung verlangt:**
 1. Behalten Sie Ihre Heim-SIM im Telefon aktiv (deaktivieren Sie sie nicht)
 2. Stellen Sie sicher, dass die Heim-SIM-Leitung EIN ist
 3. Vergewissern Sie sich, dass das Telefon nicht im Flugmodus ist
 4. Überprüfen Sie, ob Ihr Heimatbetreiber den Empfang von SMS im Roaming erlaubt (die meisten tun dies, aber bestätigen Sie es vor Ihrer Reise)
 5. Wenn Sie immer noch keine SMS empfangen, rufen Sie Ihren Heimatbetreiber an, um zu bestätigen, dass SMS-Roaming auf Ihrem Konto aktiviert ist
 
-### APN-Einstellungen: Wann Sie sie manuell konfigurieren müssen
-
+**APN-Einstellungen: Wann Sie sie manuell konfigurieren müssen**
 Die meisten eSIMs konfigurieren die APN-Einstellungen (Access Point Name) während der Installation automatisch. Einige Anbieter erfordern jedoch eine manuelle APN-Konfiguration. Wenn Ihre eSIM installiert ist, aber die Daten nicht funktionieren, sind die APN-Einstellungen eine häufige Ursache:
 
 **iPhone:** Einstellungen → Mobilfunk → tippen Sie auf Ihre eSIM-Leitung → Mobiles Datennetz → geben Sie den von Ihrem eSIM-Anbieter bereitgestellten APN ein (typischerweise etwas wie "data" oder "internet"). Wenn dieses Feld ausgegraut ist, enthält das eSIM-Profil bereits eingebettete APN-Einstellungen und dies ist nicht das Problem.
 
 **Android:** Einstellungen → Verbindungen → Mobile Netzwerke → Zugangspunkte → tippen Sie auf "+" → geben Sie die APN-Details von Ihrem Anbieter ein. Beachten Sie, dass einige Android-Telefone die APN-Bearbeitung einschränken, wenn mehrere SIMs aktiv sind – Sie müssen möglicherweise vorübergehend Ihre Heim-SIM deaktivieren, um den APN der eSIM zu konfigurieren.
 
-### Häufige APN-Werte nach Anbieter:
+**Häufige APN-Werte nach Anbieter:**
 - Airalo: APN = "airalo.com"
 - Holafly: APN = "holafly"
 - Ubigi: APN = "data"
@@ -402,15 +396,15 @@ Wenn Sie Ihre Heim-SIM für einen bestimmten Zeitraum deaktivieren möchten (um 
 
 **Android:** Einstellungen → Verbindungen → SIM-Karten-Manager → tippen Sie auf Ihre Heim-SIM → schalten Sie AUS. Bei Bedarf umkehren.
 
-### Wann Sie Ihre Heim-SIM deaktivieren sollten
+**Wann Sie Ihre Heim-SIM deaktivieren sollten**
 
-### Gute Gründe zum Deaktivieren:
+**Gute Gründe zum Deaktivieren:**
 - Ihr Heimatbetreiber verlangt hohe Gebühren für den Empfang von SMS im Roaming
 - Sie möchten eine versehentliche Datennutzung auf Ihrer Heim-SIM ausschließen
 - Sie befinden sich in einem sehr abgelegenen Gebiet und möchten Batterie sparen, indem Sie nur eine Netzwerkverbindung aufrechterhalten
 - Ihr Telefon hat Schwierigkeiten, gleichzeitig Verbindungen zu beiden Netzwerken aufrechtzuerhalten (selten, aber bei älteren Telefonen möglich)
 
-### Schlechte Gründe zum Deaktivieren:
+**Schlechte Gründe zum Deaktivieren:**
 - Sie denken, es spart viel Batterie (der Unterschied liegt bei etwa 10-15 % über einen ganzen Tag – normalerweise nicht den Verlust des SMS-Zugangs wert)
 - Sie machen sich Sorgen wegen Spam-Anrufen (unbekannte Anrufer stummschalten ist zielgerichteter)
 - Sie möchten nicht gestört werden (der Nicht-Stören-Modus erreicht dies, ohne die Leitung zu deaktivieren)
@@ -425,28 +419,27 @@ Bestätigen Sie vor Ihrer Reise mit Ihrem Heimatbetreiber, dass:
 - Ihr Tarif keine automatischen internationalen Roaming-Add-ons hat
 - Sie wissen, wie Sie Ihre Nutzung online überprüfen können
 
-### Betreiberspezifischer Roaming-Leitfaden
-
+**Betreiberspezifischer Roaming-Leitfaden**
 Verschiedene Heimatbetreiber haben unterschiedliche Roaming-Richtlinien, die sich auf Dual-SIM-Setups auswirken:
 
-### UK-Betreiber:
+**UK-Betreiber:**
 - Three UK: "Go Roam" ist in den meisten Tarifen enthalten – kostenlose Daten, Anrufe und SMS in den USA. Wenn Sie dies haben, benötigen Sie möglicherweise keine USA eSIM für Anrufe/SMS, möchten aber möglicherweise eine für zusätzliche Daten.
 - EE: Roaming-Gebühren fallen für die meisten Tarife an, es sei denn, Sie haben einen "Roam Abroad"-Pass. Tagespass kostet 2,46 £/Tag. SMS-Empfang ist kostenlos.
 - Vodafone UK: "Roaming" ist in einigen Tarifen enthalten, bei anderen kostenpflichtig. Für viele Verbrauchertarife fällt eine Gebühr von 2,28 £/Tag an.
 - O2: O2 Travel kostet 3,49 £/Tag für unbegrenzte Daten, Anrufe und SMS. Ohne dieses werden Daten blockiert, aber Anrufe und SMS werden pro Nutzung berechnet.
 
-### Europäische Betreiber:
+**Europäische Betreiber:**
 - Deutsche Telekom (Deutschland): "Roaming & Data" innerhalb der EU enthalten, für die USA separat berechnet. Die Datenkosten variieren je nach Tarif.
 - Orange (Frankreich): Die US-Roaming-Kosten variieren. Einige Geschäftstarife enthalten US-Daten. Verbrauchertarife berechnen in der Regel pro MB.
 - TIM (Italien): US-Roaming-Pässe erhältlich, typischerweise 10-20 EUR für 5-10 GB Daten.
 - Movistar (Spanien): US-Roaming kostet etwa 10 EUR/GB ohne spezifischen Pass.
 
-### Australische Betreiber:
+**Australische Betreiber:**
 - Telstra: Internationale Roaming-Pässe ab 5 $/Tag für begrenzte Daten.
 - Optus: Roaming-Pässe ab 5 $/Tag (200 MB) bis 20 $/Tag (2 GB).
 - Vodafone AU: 5 $-Roaming-Pass deckt die USA in einigen Tarifen ab.
 
-### Asiatische Betreiber:
+**Asiatische Betreiber:**
 - Singtel (Singapur): "DataRoam"-Pässe ab 5 $ für 1 GB, gültig in den USA.
 - NTT Docomo (Japan): "World Rental"- oder "World Data"-Pässe für US-Roaming erforderlich.
 - KT (Südkorea): US-Roaming-Pässe ab etwa 10.000 KRW/Tag für 1 GB.
@@ -462,8 +455,7 @@ Wenn Sie Ihr Dual-SIM-Setup vor Ihrer Reise risikofrei testen möchten, bietet [
 
 Verschiedene Arten von Heimatbetreibern interagieren im Dual-SIM-Modus unterschiedlich mit einer US-eSIM. Das Verständnis Ihres Heimatbetreibertyps hilft Ihnen, mögliche Probleme vorherzusehen:
 
-### Europäische Betreiber (EU-Roaming in den USA)
-
+**Europäische Betreiber (EU-Roaming in den USA)**
 Europäische Betreiber haben aufgrund der von der EU regulierten Großhandels-Roaming-Tarife im Allgemeinen großzügige Roaming-Vereinbarungen mit US-Netzen. Die meisten EU-Betreiber beinhalten US-Roaming in ihren Tarifen, allerdings typischerweise mit reduzierten Geschwindigkeiten oder Datenobergrenzen:
 
 - **Three UK:** "Go Roam" beinhaltet die USA mit kostenlosen Daten, Anrufen und SMS. Im Dual-SIM-Modus stellen Sie Three als Sprachleitung und Ihre USA eSIM als Datenleitung ein. Schalten Sie Datenroaming auf Three AUS, um zu verhindern, dass dessen Daten anstelle der eSIM verwendet werden. Die Daten von Three in den USA sind in der Regel auf 20 GB begrenzt und auf 5 Mbit/s gedrosselt.
@@ -471,8 +463,7 @@ Europäische Betreiber haben aufgrund der von der EU regulierten Großhandels-Ro
 - **Orange (Frankreich):** Orange Holiday-Tarife beinhalten US-Daten mit täglichen Grenzen. Im Dual-SIM-Modus übernimmt die Orange-SIM Anrufe und SMS, während die USA eSIM Daten bereitstellt. Das US-Roaming von Orange läuft im Netzwerk von AT&T, sodass Ihre Heim-SIM und eSIM um die AT&T-Turmkapazität konkurrieren können.
 - **T-Mobile (Deutschland/Niederlande/Österreich):** Als Muttergesellschaft von T-Mobile US bieten T-Mobile-EU-Tarife exzellentes US-Roaming. Viele Tarife beinhalten unbegrenzte US-Daten mit reduzierten Geschwindigkeiten. Im Dual-SIM-Modus verbindet sich Ihre T-Mobile-EU-SIM ohne zusätzliche Konfiguration mit T-Mobile US.
 
-### Asiatische Betreiber (Roaming in den USA)
-
+**Asiatische Betreiber (Roaming in den USA)**
 Asiatische Betreiber haben in der Regel restriktivere Roaming-Richtlinien und höhere Kosten für US-Roaming:
 
 - **NTT Docomo (Japan):** US-Roaming erfordert einen "World Data"-Pass (ab 1.000 Yen/Tag für 1 GB). Ohne Pass werden Daten vollständig blockiert. Im Dual-SIM-Modus stellen Sie Docomo als Sprachleitung mit Datenroaming AUS ein. Die US-Roaming-Partner von Docomo sind AT&T und T-Mobile.
@@ -481,19 +472,16 @@ Asiatische Betreiber haben in der Regel restriktivere Roaming-Richtlinien und h�
 - **Singtel (Singapur):** "DataRoam"-Pässe ab 5 SGD für 1 GB in den USA. Ohne Pass werden Daten mit 10 SGD/MB berechnet – extrem teuer. Im Dual-SIM-Setup muss AUS sein.
 - **Airtel/Jio (Indien):** US-Roaming-Pakete ab 499-999 £ für 5-20 GB. Diese können als Ihre primäre Datenverbindung genutzt werden, wenn Sie genug Daten kaufen, aber der Preis pro GB ist höher als bei einer USA eSIM. Im Dual-SIM-Modus verwenden Sie die indische SIM für SMS (2FA von indischen Banken) und die USA eSIM für Daten.
 
-### Australische und ozeanische Betreiber
-
+**Australische und ozeanische Betreiber**
 - **Telstra (Australien):** "International Roaming"-Pässe ab 5 AUD/Tag für 200 MB oder 35 AUD für 5 GB. Das US-Roaming von Telstra nutzt AT&T- und T-Mobile-Netze. SMS-Empfang ist kostenlos. Die Roaming-Daten von Telstra sind aufgrund direkter Partnerschaften schneller als die meisten Betreiber.
 - **Optus (Australien):** Roaming-Pässe ab 5 AUD/Tag. Das US-Roaming von Optus nutzt hauptsächlich T-Mobile. Die Datengeschwindigkeiten sind standardmäßig auf 5 Mbit/s beim Roaming begrenzt.
 - **Spark (Neuseeland):** "Roaming Pass" ab 9 NZD/Tag für 1 GB in den USA. Ohne Pass werden Daten blockiert und SMS kosten 0,50 NZD pro empfangener Nachricht.
 
-### Betreiber aus dem Nahen Osten und Afrika
-
+**Betreiber aus dem Nahen Osten und Afrika**
 - **Etisalat (VAE):** US-Roaming-Pässe ab 50 AED für 500 MB. Nur-Daten-Pässe verfügbar. Das US-Roaming von Etisalat läuft auf AT&T. SMS-Empfang wird separat berechnet.
 - **MTN (Südafrika):** US-Roaming ab 150 R/Tag für 500 MB. Für die USA gelten die MTN-Zone-3-Roaming-Tarife. Die MTN-SIM übernimmt Sprache, während die USA eSIM Daten übernimmt.
 
-### Betreiberspezifische Checkliste vor Ihrer Abreise
-
+**Betreiberspezifische Checkliste vor Ihrer Abreise**
 Unabhängig von Ihrem Heimatbetreiber bestätigen Sie diese drei Dinge vor Ihrer Reise:
 
 1. **Ist Ihr Telefon entsperrt?** Ein netzbetreibergesperrtes Telefon akzeptiert keine USA eSIM von einem anderen Betreiber. Kontaktieren Sie Ihren Heimatbetreiber, um eine Entsperrung zu beantragen. Die meisten Betreiber entsperren Telefone automatisch nach Ablauf der Vertragslaufzeit.
@@ -551,52 +539,52 @@ Die schlimmste Zeit, um ein Konfigurationsproblem zu entdecken, ist nach der Lan
 
 ## Häufig gestellte Fragen
 
-### Wie richte ich Dual-SIM mit eSIM und meiner Heim-SIM ein?
+**Wie richte ich Dual-SIM mit eSIM und meiner Heim-SIM ein?**
 Legen Sie Ihre USA eSIM als Datenleitung (Mobilfunk-Daten) und Ihre Heim-SIM als Sprachleitung (Standard-Sprachleitung) fest. Schalten Sie Datenroaming für die eSIM EIN und für Ihre Heim-SIM AUS. Vollständige Anweisungen oben für iPhone, Samsung Galaxy und Google Pixel.
 
-### Kann ich meine Heimat-Telefonnummer mit USA eSIM verwenden?
+**Kann ich meine Heimat-Telefonnummer mit USA eSIM verwenden?**
 Ja. Mit Dual-SIM-Einrichtung übernimmt Ihre Heim-SIM Anrufe und SMS auf Ihrer regulären Nummer. Die USA eSIM übernimmt Daten. Eingehende und ausgehende Anrufe zeigen Ihre Heimatnummer. Dies ist der Hauptvorteil der Verwendung einer eSIM anstelle einer physischen Touristen-SIM.
 
-### Brauche ich eine US-Telefonnummer für eSIM?
+**Brauche ich eine US-Telefonnummer für eSIM?**
 Nein, die meisten Reisenden brauchen keine US-Nummer. Sie brauchen nur eine, wenn Sie lokale Unternehmen anrufen möchten, SMS-Verifizierung für US-Dienste benötigen oder eine lokale Nummer für Fahrdienste benötigen. WhatsApp, iMessage und andere Messaging-Apps funktionieren über Daten ohne US-Nummer. Mit Dual-SIM bleibt Ihre Heimatnummer für Anrufe und SMS aktiv.
 
-### Warum kann ich mit meiner USA eSIM keine SMS empfangen?
+**Warum kann ich mit meiner USA eSIM keine SMS empfangen?**
 Wenn Sie eine Nur-Daten-eSIM (Airalo, Ubigi, Holafly) verwenden, können Sie keine SMS empfangen, weil Nur-Daten-eSIMs keine Telefonnummer haben. Bei Dual-SIM-Einrichtung mit Ihrer Heim-SIM sollten SMS auf Ihre Heimatnummer ankommen – überprüfen Sie, ob die Heim-SIM-Leitung aktiviert ist, der Flugmodus AUS ist und Ihr Heimatbetreiber Roaming-SMS erlaubt. Wenn Sie SMS auf einer US-Nummer benötigen, wählen Sie Tello, Google Fi oder einen Betreiber-Prepaid-Tarif.
 
-### Entlädt Dual-SIM die Batterie schneller?
+**Entlädt Dual-SIM die Batterie schneller?**
 Ja, der Betrieb von zwei SIMs gleichzeitig verbraucht mehr Batterie als eine SIM. Der Unterschied beträgt etwa 10-15 % mehr Batterieverbrauch über einen ganzen Tag, weil Ihr Telefon Verbindungen zu zwei separaten Mobilfunknetzen aufrechterhält. Wenn die Batterielaufzeit ein Problem darstellt, deaktivieren Sie Ihre Heim-SIM-Leitung, wenn Sie keine Anrufe oder SMS auf Ihrer regulären Nummer empfangen müssen.
 
-### Kann ich WLAN-Calling mit einer USA eSIM nutzen?
+**Kann ich WLAN-Calling mit einer USA eSIM nutzen?**
 WLAN-Calling funktioniert mit Tello und Google Fi auf deren eSIM-Tarifen. T-Mobile-, AT&T- und Verizon-Prepaid-eSIMs unterstützen ebenfalls WLAN-Calling. Internationale Anbieter wie Airalo, Holafly, Ubigi und Saily sind Nur-Daten und unterstützen kein WLAN-Calling.
 
-### Was passiert mit WhatsApp und iMessage bei Dual-SIM?
+**Was passiert mit WhatsApp und iMessage bei Dual-SIM?**
 WhatsApp und iMessage funktionieren über Daten. Da Ihre Heimatnummer auf Ihrer Heim-SIM weiterhin aktiv ist, funktionieren WhatsApp und iMessage wie zu Hause – Sie müssen nichts neu konfigurieren.
 
-### Kann ich zwei eSIMs gleichzeitig verwenden?
+**Kann ich zwei eSIMs gleichzeitig verwenden?**
 Die meisten Telefone unterstützen eine physische SIM und eine eSIM gleichzeitig. Einige neuere Telefone (iPhone 13 und neuer, Samsung S22 und neuer, Google Pixel 7 und neuer) unterstützen Dual-eSIM – zwei eSIMs gleichzeitig aktiv. Überprüfen Sie die Spezifikationen Ihres Telefons. Die Einrichtungsschritte sind dieselben wie bei eSIM + physischer SIM; Sie konfigurieren beide Leitungen einfach als eSIMs in denselben Menüs.
 
-### Wird meine Heim-SIM für Anrufe funktionieren, während ich in den USA bin?
+**Wird meine Heim-SIM für Anrufe funktionieren, während ich in den USA bin?**
 Ja. Ihre Heim-SIM übernimmt Anrufe und SMS normal. Eingehende Anrufe auf Ihre Heimatnummer werden klingeln. Ausgehende Anrufe zeigen Ihre Heimatnummer. Stellen Sie nur sicher, dass Datenroaming auf Ihrer Heim-SIM AUS ist.
 
-### Kann ich SMS auf meine Heim-SIM empfangen, während ich eine USA eSIM verwende?
+**Kann ich SMS auf meine Heim-SIM empfangen, während ich eine USA eSIM verwende?**
 Ja. SMS-Nachrichten treffen normal auf Ihrer Heim-SIM ein. Ihr Heimatbetreiber kann Gebühren für den Empfang von SMS im Roaming verlangen – prüfen Sie die internationalen Tarife Ihres Tarifs.
 
-### Was soll ich tun, wenn meine eSIM nach der Landung keine Verbindung zu einem US-Netzwerk herstellt?
+**Was soll ich tun, wenn meine eSIM nach der Landung keine Verbindung zu einem US-Netzwerk herstellt?**
 Versuchen Sie, die automatische Netzauswahl auszuschalten und manuell eine Verbindung zu T-Mobile, AT&T oder Verizon herzustellen. Dies funktioniert oft, wenn das Telefon das richtige Netzwerk nicht automatisch finden kann. Gehen Sie zu Einstellungen → Mobilfunk → Netzauswahl → schalten Sie Automatisch AUS → versuchen Sie jeden Betreiber einzeln. Wenn keiner funktioniert, kontaktieren Sie den Support Ihres eSIM-Anbieters.
 
-### Beeinflusst Dual-SIM die 5G-Leistung?
+**Beeinflusst Dual-SIM die 5G-Leistung?**
 In den meisten Fällen nicht. Ihre eSIM sollte die gleichen 5G-Geschwindigkeiten erhalten wie als Einzel-SIM. Bei einigen Telefonen (insbesondere älteren Modellen) kann der Betrieb von zwei SIMs 5G auf eine einzelne SIM beschränken oder die sekundäre SIM auf 4G LTE umschalten. Dies ist eine Hardwareeinschränkung, kein Einstellungsproblem. iPhone 13 und neuer, Samsung Galaxy S22 und neuer sowie Google Pixel 7 und neuer behalten alle volle 5G auf beiden SIMs gleichzeitig bei.
 
-### Kann ich für jede SIM unterschiedliche Klingeltöne einstellen?
+**Kann ich für jede SIM unterschiedliche Klingeltöne einstellen?**
 Ja. Auf dem iPhone: Einstellungen → Töne & Haptik → Klingelton → (oben) wählen Sie, welche Leitung angepasst werden soll. Auf Android (Samsung): Einstellungen → Töne und Vibration → SIM-Karten-Klingelton. Dies hilft Ihnen zu erkennen, welche Leitung klingelt, bevor Sie antworten.
 
-### Wie erkenne ich, welche Leitung einen Anruf empfängt?
+**Wie erkenne ich, welche Leitung einen Anruf empfängt?**
 Das iPhone zeigt die SIM-Bezeichnung (z.B. "Heim" oder "Persönlich") auf dem eingehenden Anruf-Bildschirm an. Android-Telefone zeigen die SIM-Bezeichnung ähnlich in der eingehenden Anrufbenachrichtigung an. Wenn Sie Ihre SIMs klar beschriftet haben (siehe "Erweiterte Einstellungen erklärt" oben), wissen Sie immer, welche Leitung klingelt.
 
-### Was ist die beste Dual-SIM-Strategie für einen langen US-Aufenthalt (3+ Monate)?
+**Was ist die beste Dual-SIM-Strategie für einen langen US-Aufenthalt (3+ Monate)?**
 Bei Aufenthalten von 3 Monaten oder mehr sollten Sie einen US-Betreiber-Prepaid-Tarif (T-Mobile Connect, AT&T Prepaid oder Verizon Prepaid) als Ihre primäre Daten-SIM in Betracht ziehen und Ihre Heim-SIM für internationale Anrufe und SMS aktiv halten. Dies gibt Ihnen volle US-Abdeckung mit einer US-Nummer, während Sie Ihre Heimatnummer behalten. Tellos 10-GB-Tarif für 15 $/Monat ist für diese Strategie die kostengünstigste Option.
 
-### Funktioniert Dual-SIM, wenn mein Telefon netzbetreibergesperrt ist?
+**Funktioniert Dual-SIM, wenn mein Telefon netzbetreibergesperrt ist?**
 Nein. Ein netzbetreibergesperrtes Telefon funktioniert nur mit SIMs des sperrenden Betreibers. Wenn Ihr Telefon an einen Betreiber außerhalb der USA gebunden ist, können Sie keine USA eSIM in einem US-Netzwerk verwenden. Sie müssen Ihr Telefon vor der Reise entsperren. Kontaktieren Sie Ihren Heimatbetreiber, um eine Entsperrung zu beantragen. Die meisten Betreiber entsperren Ihr Telefon, wenn Sie Ihren Vertrag erfüllt oder das Gerät abbezahlt haben.
 
 ---
