@@ -17,7 +17,7 @@ faq_schema:
 
 # Page header
 header:
-  title: "List of eSIM Compatible Phones (2026)"
+  title: "eSIM Compatible Devices List | 300+ Phones"
   subtitle: "Find out which smartphones, including the latest iPhone, Samsung and Google Pixel models, support global eSIM connectivity with Roami. Stay connected in over 200 countries. Here you'll find eSIM phones: from iPhone 17 to Samsung Galaxy S25 and Google Pixel 10 – plus answers to common questions like \"is my iPhone 11 eSIM compatible?\", \"does Samsung S20 support eSIM?\", and \"which phones work with Airalo or Visible?\"."
   search_placeholder: "E.g.: iPhone 17, Samsung S25 Ultra, Xiaomi 15T Pro, Google Pixel 10"
 
