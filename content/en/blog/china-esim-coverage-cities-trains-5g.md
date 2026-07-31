@@ -84,7 +84,7 @@ Before getting into specific destinations, it helps to understand how China's th
 
 **China Unicom** — roughly 320 million subscribers. Excellent urban coverage, often faster than China Mobile in dense cities. Rural footprint is noticeably thinner. Best for city-based travelers who prioritize speed over reach.
 
-**China Telecom** — about 310 million subscribers. Strong coverage in southern China and along the eastern seaboard, weakest in the north and west. Aggressive 5G deployment in Guangzhou, Shenzhen, and Shanghai. Reliably the weakest of the three in rural areas.
+**China Telecom** — about 310 million subscribers. Strong coverage in southern China and along the eastern seaboard, weakest in the north and west. For **China Telecom vs Unicom quality**, the winner depends on your location. Aggressive 5G deployment in Guangzhou, Shenzhen, and Shanghai. Reliably the weakest of the three in rural areas.
 
 [Ookla's Speedtest Global Index](https://www.speedtest.net/global-index) consistently ranks China Mobile as having the widest 5G availability, while China Unicom and Telecom compete for top download speeds in major metro areas. [GSMA data](https://www.gsma.com) also shows that China's three carriers collectively operate over 3.5 million 5G base stations as of 2026, making it the largest 5G infrastructure deployment in the world by a wide margin. For official carrier coverage maps, visit [China Mobile](https://www.chinamobileltd.com) and [China Unicom](https://www.chinaunicom.com.cn).
 
@@ -94,7 +94,7 @@ The practical takeaway: if your eSIM only connects to one carrier, pick China Mo
 
 ## What Is 5G Coverage Like in Beijing, Shanghai, and Tier 1 Cities?
 
-China's four Tier 1 cities have world-class mobile infrastructure. Coverage concerns here are minimal — you'll have signal practically everywhere, including inside most buildings. The differences are in speed, carrier quality, and a few edge cases.
+China's four Tier 1 cities have world-class mobile infrastructure. Across Beijing and Shanghai, you'll find world-class 5G coverage on all carriers. Coverage concerns here are minimal — you'll have signal practically everywhere, including inside most buildings. The differences are in speed, carrier quality, and a few edge cases.
 
 **Beijing 5G Coverage**
 Beijing's 5G network is dense and reliable. China Mobile has the widest coverage across the city's sprawling districts, including Haidian (tech/university area), Chaoyang (CBD and embassy district), and Dongcheng/Xicheng (central tourist zones). China Unicom edges ahead on speed in the central business district around Guomao, where our tests recorded 5G download speeds of 620 Mbps on Unicom versus 580 Mbps on Mobile.
@@ -111,17 +111,17 @@ China Telecom has especially strong coverage in Pudong — its historical home m
 **Shanghai Pudong International Airport (PVG)** has full 5G from all carriers across both Terminal 1 and Terminal 2, as well as the S1/S2 satellite terminals. The Maglev train link between PVG and Longyang Road station maintains 5G signal throughout the 7-minute, 430 km/h ride — one of the few places in the world where you can test 5G at 300+ km/h.
 
 **Guangzhou and Shenzhen 5G Coverage**
-Guangzhou and Shenzhen are China's southern tech powerhouses, and their mobile networks reflect this. Both cities have near-complete 5G coverage, with the Pearl River Delta region as a whole being one of the best-connected areas on earth.
+Guangzhou and Shenzhen are China's southern tech powerhouses, and their mobile networks reflect this. The Pearl River Delta — covering Guangzhou and Shenzhen — delivers exceptional coverage across all three carriers.
 
 **Guangzhou Baiyun International Airport (CAN)** has strong 5G from all carriers. The airport's massive Terminal 2 (one of the largest airport terminals in the world) maintains consistent signal even in the most crowded departure areas.
 
 **Shenzhen** benefits from its proximity to Hong Kong and the concentration of telecom equipment companies headquartered here — Huawei and ZTE are both Shenzhen-based. 5G speeds in Shenzhen frequently exceed 800 Mbps on China Unicom and Telecom in the Nanshan tech district. The city's metro system (one of the longest in the world) has continuous 4G/5G coverage in all underground sections.
 
-For travelers wondering about **Is there 5G with eSIM in Beijing and Shanghai**, the answer is a definitive yes. Both cities have mature standalone 5G (SA) networks that deliver full speeds through international eSIM roaming. You will not experience the speed throttling or network deprioritization that sometimes affects eSIM users in other countries when connected to 5G in these cities. **China eSIM 5G availability by city** is at its best in these four Tier 1 cities, with peak speeds in the 500-800 Mbps range on any network and consistent 100-200 Mbps even in congested areas. If you are visiting only these cities, carrier choice matters less than anywhere else in China.
+For travelers wondering about **Is there 5G with eSIM in Beijing and Shanghai**, the answer is a definitive yes. Both cities have mature standalone 5G (SA) networks that deliver full speeds through international eSIM roaming. You will not experience the speed throttling or network deprioritization that sometimes affects eSIM users in other countries when connected to 5G in these cities. **5G availability by city** is at its best in these four Tier 1 cities, with peak speeds in the 500-800 Mbps range on any network and consistent 100-200 Mbps even in congested areas. If you are visiting only these cities, carrier choice matters less than anywhere else in China.
 
 **Coverage in Underground Subway Systems**
 
-**China eSIM coverage underground subway** is a common concern for travelers who rely on Google Maps for navigating unfamiliar metro systems. The good news is that China's metro systems are deep, extensive, and well-connected — both in terms of trains and signals. Here is how coverage stacks up underground:
+Every major Chinese city's underground subway system has excellent 4G/5G coverage. This is a common concern for travelers who rely on Google Maps for navigating unfamiliar metro systems. The good news is that China's metro systems are deep, extensive, and well-connected — both in terms of trains and signals. Here is how coverage stacks up underground:
 
 - **Beijing Subway**: Full 4G/5G coverage on all 27 lines, including the deepest sections of Line 10 and the extended Line 4 stretch to Daxing. Signal drops for 10-15 seconds between certain stations on Line 1 (the oldest line), but this is the exception rather than the rule.
 - **Shanghai Metro**: Complete coverage across all 20 lines. The Pudong-oriented lines (Line 2, Line 16) have particularly strong 5G signal due to newer infrastructure. Even the deep-level Line 14 maintains stable connectivity.
@@ -135,7 +135,7 @@ The only metro lines where you may experience intermittent signal are the oldest
 
 ## Tier 2 Cities: Chengdu, Chongqing, Xi'an, Hangzhou, Nanjing
 
-Tier 2 cities in China have excellent mobile infrastructure — often comparable to Tier 1 in city centers — with coverage thinning as you move to outskirts and newer development zones.
+Tier 2 cities in China have excellent mobile infrastructure — often comparable to Tier 1 in city centers — with coverage thinning as you move to outskirts and newer development zones. Coverage in Chengdu and Chongqing weakens as you move into the mountainous outskirts.
 
 **Chengdu**
 Chengdu has strong 5G coverage across its central districts: Jinjiang, Qingyang, and Wuhou. China Mobile and Unicom both deliver reliable connections at the Chengdu Research Base of Giant Panda Breeding, though heavy visitor traffic can reduce speeds to 10-20 Mbps during peak hours (still fine for maps and messaging).
@@ -148,7 +148,7 @@ Chongqing is notoriously difficult for mobile signal due to its mountainous terr
 China Mobile has the best coverage in Chongqing's more challenging topography. In subway tunnels, particularly on Line 2 (the monorail that runs along the river and through apartment buildings), signal can briefly drop during certain transitions. Overall, though, **[Roami](/china-esim/)'s automatic carrier switching** helps here — when China Unicom drops out in a Chongqing hillside neighborhood, it can hand off to China Mobile without you noticing.
 
 **Xi'an**
-Xi'an has solid 5G coverage across the city center, the Muslim Quarter, and the area around the City Wall. The **Xi'an Terracotta Warriors** museum complex, located about 40 km east of the city center, has good 5G signal from all three carriers in the main pits (Pit 1, Pit 2, and Pit 3). **China eSIM coverage Xi'an Terracotta Warriors** is strong where it matters most: the museum's exhibition halls are well-covered, and even the outer areas — the Bronze Chariots exhibit and the gift shop complex — maintain strong 4G/5G.
+Xi'an has solid 5G coverage across the city center, the Muslim Quarter, and the area around the City Wall. The **Xi'an Terracotta Warriors** museum complex, located about 40 km east of the city center, has good 5G signal from all three carriers in the main pits (Pit 1, Pit 2, and Pit 3). **Xi'an Terracotta Warriors: Signal Quality** is strong where it matters most: the museum's exhibition halls are well-covered, and even the outer areas — the Bronze Chariots exhibit and the gift shop complex — maintain strong 4G/5G.
 
 However, if you are visiting the less-developed outer pits or the Terracotta Warriors excavation site (where archaeologists are actively working), signal drops to 3G or disappears entirely. These areas are outdoors and partially covered, but the mobile towers are further away. Photos and messages will send, but don't expect fast uploads from the excavation zones.
 
@@ -175,7 +175,7 @@ The Great Wall isn't a single location — it's a 21,000 km network of walls, an
 For hikers planning a **best eSIM for China Great Wall hiking trip**, the key takeaway is: pick an eSIM that connects to China Mobile (the only carrier with meaningful coverage at the wild sections), download offline maps, and treat signal as a bonus rather than a guarantee at Jiankou.
 
 **Zhangjiajie National Forest Park**
-Zhangjiajie's towering sandstone pillars (the real-life inspiration for Avatar's floating mountains) present a unique challenge for mobile signal. The pillars block line-of-sight to towers, creating coverage pockets rather than blanket coverage.
+Zhangjiajie's towering sandstone pillars (the real-life inspiration for Avatar's floating mountains) present a unique challenge for mobile signal. **Zhangjiajie National Park** presents a unique challenge — the sandstone pillars block signals. The pillars block line-of-sight to towers, creating coverage pockets rather than blanket coverage.
 
 **In the valley (Yuanjiajie, Tianzi Mountain cable car base):** Good 4G/5G from China Mobile and Unicom. The main tourist walkways are well-covered. Bai Long Elevator (the glass elevator built into the cliff face) maintains signal throughout the ride.
 
@@ -187,7 +187,7 @@ Zhangjiajie's towering sandstone pillars (the real-life inspiration for Avatar's
 
 **Guilin and Yangshuo**
 
-**Guilin city:** Good 5G coverage from all carriers in the central area around Zhengyang Pedestrian Street, the Two Rivers and Four Lakes area, and the Elephant Trunk Hill scenic area.
+**Guilin Yangshuo coverage** is strong in town centers but patchy along the Li River. **Guilin city:** Good 5G coverage from all carriers in the central area around Zhengyang Pedestrian Street, the Two Rivers and Four Lakes area, and the Elephant Trunk Hill scenic area.
 
 **Yangshuo town:** The main tourist street (West Street) has good 4G/5G coverage. The surrounding countryside — rice paddies, small villages, the Li River cycling routes — has patchy 4G from China Mobile and Unicom. Signal gets weaker the further you get from town.
 
@@ -196,7 +196,7 @@ Zhangjiajie's towering sandstone pillars (the real-life inspiration for Avatar's
 **Xianggong Mountain (photo viewpoint across the Li River):** The climb up has no signal in places. The summit viewing platform has weak 4G from China Mobile — enough for a quick post but not for video calls.
 
 **Huangshan (Yellow Mountain)**
-Huangshan (Yellow Mountain) is one of China's most famous scenic mountains, and mobile coverage here has improved significantly in recent years. **China eSIM coverage Yellow Mountain Huangshan** is better than most travelers expect for a mountain summit, though conditions vary with weather.
+**Yellow Mountain Huangshan** summit coverage is surprisingly good in clear weather. Huangshan (Yellow Mountain) is one of China's most famous scenic mountains, and mobile coverage here has improved significantly in recent years. **Huangshan (Yellow Mountain): Summit Coverage** is better than most travelers expect for a mountain summit, though conditions vary with weather.
 
 **At the base (Tangkou town):** Full 5G coverage from all carriers. Hotels and restaurants all have strong signal.
 
@@ -208,7 +208,7 @@ Huangshan (Yellow Mountain) is one of China's most famous scenic mountains, and 
 
 **Yangtze River Cruise**
 
-**China eSIM coverage Yangtze river cruise** cruises typically run between Chongqing and Yichang (Three Gorges region) over 3-5 days. Coverage varies enormously depending on where the ship is.
+**Yangtze River Cruise: What Signal to Expect** -- cruises typically run between Chongqing and Yichang (Three Gorges region) over 3-5 days. Coverage varies enormously depending on where the ship is.
 
 **Chongqing port area:** Strong 4G/5G from all carriers before departure.
 
@@ -244,13 +244,13 @@ China's high-speed rail network is the largest in the world, with over 45,000 km
 
 **About tunnels:** Chinese high-speed rail lines built after 2015 include signal repeaters in tunnels, so even in tunnel sections on newer routes (Beijing-Guangzhou, Beijing-Shanghai), you may get 4G inside the tunnel. Older routes from the 2000s have fewer tunnel repeaters. The repeater-equipped tunnels typically maintain signal for messaging and maps but may not sustain video streaming.
 
-China consistently ranks among the best countries in the world for consistent high-speed internet on trains. If you are traveling the **best eSIM for China high speed rail travel** matters less than on slower transport — nearly any eSIM with a solid carrier connection will suffice on the main routes.
+China consistently ranks among the best countries in the world for consistent high-speed internet on trains. When traveling by high-speed rail, the specific eSIM you choose matters less than on slower transport — nearly any eSIM with a solid carrier connection will suffice on the main routes.
 
 ---
 
 ## Does eSIM Work in Rural China and Remote Villages?
 
-**China eSIM coverage rural areas countryside** is a common question, and the answer depends heavily on which carrier your eSIM uses and where exactly in the countryside you are going.
+**Rural China: What to Realistically Expect** is a common question, and the answer depends heavily on which carrier your eSIM uses. **Remote villages signal strength** depends entirely on China Mobile's tower placement and where exactly in the countryside you are going.
 
 China has invested enormous resources in rural mobile coverage as part of the "Broadband China" initiative. According to GSMA data, over 99% of China's population has access to mobile broadband, but "access" in official statistics counts signal availability within 5 km of a village, not necessarily strong signal inside every home.
 
@@ -262,7 +262,7 @@ China has invested enormous resources in rural mobile coverage as part of the "B
 
 **China eSIM signal strength remote villages:** The realistic answer is that you'll have 4G in most village centers (on China Mobile), weak to no signal in surrounding farmland, and genuine blind spots in mountain valleys. If you are doing a rural homestay in Yunnan or Guizhou, ask your host which carrier has the best signal in that specific village — they'll know exactly.
 
-For travelers concerned about **China eSIM coverage rural areas countryside**, the practical strategy is: use an eSIM with China Mobile as the primary carrier, and accept that rural China isn't fully blanketed. Download offline maps and translation packs before heading into the countryside. The villages themselves are increasingly connected, but the roads between them are not.
+For travelers concerned about **Coverage in rural areas and the countryside**, the practical strategy is: use an eSIM with China Mobile as the primary carrier, and accept that rural China isn't fully blanketed. Download offline maps and translation packs before heading into the countryside. The villages themselves are increasingly connected, but the roads between them are not.
 
 ---
 
@@ -303,7 +303,7 @@ If you are traveling to Tibet or Xinjiang, choose an eSIM with automatic interna
 
 ## Does eSIM Work in Hong Kong and Macau?
 
-**Does eSIM work in Hong Kong and Macau?** The short answer is yes, but with a critical distinction: Hong Kong and Macau are separate telecom territories from mainland China. A "China eSIM" that provides coverage for Beijing, Shanghai, and Guangzhou **won't work** in Hong Kong or Macau unless the plan specifically includes these regions.
+**Hong Kong Macau coverage** requires a multi-region eSIM plan. **Does eSIM work in Hong Kong and Macau?** The short answer is yes, but with a critical distinction: Hong Kong and Macau are separate telecom territories from mainland China. A "China eSIM" that provides coverage for Beijing, Shanghai, and Guangzhou **won't work** in Hong Kong or Macau unless the plan specifically includes these regions.
 
 Hong Kong has its own mobile carriers — CSL, 3 Hong Kong, SmarTone, and China Mobile Hong Kong (CMHK, distinct from mainland China Mobile). Hong Kong's internet has no Great Firewall. Google, WhatsApp, Instagram, YouTube — everything works natively.
 
@@ -329,7 +329,7 @@ If you are connecting through Hong Kong to mainland China, buy a mainland China 
 
 ## Airport Coverage: PEK, PVG, CAN, and Regional Airports
 
-**Beijing Capital International Airport (PEK)**
+**Beijing airport coverage** is excellent — both PEK and Daxing have full 5G. **Beijing Capital International Airport (PEK)**
 Full 5G coverage from all carriers in Terminal 2 and Terminal 3. The transit train between terminals maintains 5G signal. The airport's international arrival areas have strong signal immediately after passport control. China Mobile and Unicom both provide reliable connections for ride-hailing app activation upon landing.
 
 **Shanghai Pudong International Airport (PVG)**
@@ -432,7 +432,7 @@ Practical tips for digital nomad connectivity in China:
 - **Data needs for remote work:** Plan for 500 MB to 1 GB per day if you are hotspotting from your phone. A 20GB monthly plan covers 3-4 weeks of moderate use including video calls. Our [China eSIM price and purchase guide](/blog/china-esim-price-plan-purchase-guide/) breaks down the best value plans for longer stays.
 - **Carrier switching matters for nomads.** If you spend week one in Shanghai (Unicom is fastest), week two in a Hangzhou Airbnb (all carriers equal), and week three in Chengdu (China Mobile most reliable), a multi-carrier eSIM saves you from buying separate plans for each city.
 
-**China eSIM coverage rural areas countryside** matters less for digital nomads (who mostly base themselves in cities), but if your itinerary includes coworking in Chengdu followed by a weekend in the Sichuan countryside, multi-carrier support bridges that transition seamlessly.
+**Coverage in rural areas and the countryside** matters less for digital nomads (who mostly base themselves in cities), but if your itinerary includes coworking in Chengdu followed by a weekend in the Sichuan countryside, multi-carrier support bridges that transition seamlessly.
 
 **For the budget backpacker**
 Coverage in rural China has improved dramatically, but it remains inconsistent. Base yourself in towns and county seats for reliable signal. Village homestays should be researched in advance — ask the host via WeChat (which works on any connection) which carrier works in their area before you arrive.

@@ -1,9 +1,9 @@
 ---
 title: "Brexit and Roaming: Using eSIM Across UK and Europe"
-description: "Brexit changed everything. A UK eSIM wont work in Europe. Stay connected across UK and EU. Roami Europe eSIM covers 30+ countries including the UK."
+description: "Post-Brexit, UK eSIMs don't roam in Europe. Roami's Europe eSIM covers UK & 30+ countries with auto-switching. Compare plans now."
 keywords: ["UK eSIM for multi country Europe trip","UK eSIM for UK Europe multi country","UK eSIM for European tourists","best eSIM for UK from USA Canada Australia","UK eSIM for cruise travel from UK"]
-date: 2026-07-07T10:00:00Z
-lastmod: 2026-07-07T10:00:00Z
+date: 2026-08-03T00:00:00Z
+lastmod: 2026-08-03T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/uk/uk-esim-multi-country-europe.jpg"
@@ -71,280 +71,139 @@ recentPosts:
     permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
     date: "2026-05-20"
 ---
-Travellers visiting both the UK and mainland Europe after Brexit face a unique connectivity challenge. UK eSIMs do not work in the European Union, and European eSIMs do not cover the UK, so visitors must choose between a Europe regional eSIM or a two-plan strategy. For a **UK eSIM for multi country Europe trip**, you need a Europe regional plan that specifically includes the UK in its coverage area.
 
-## UK eSIM for UK Europe Multi Country — Why Brexit Separated Roaming
+Here's the reality post-Brexit: a standard UK eSIM doesn't work in Europe, and a Europe eSIM may not include the UK. UK mobile operators now charge 2-3 GBP per day for EU roaming (EE: 2.35 GBP/day, Vodafone: 2.35 GBP/day, O2: 2.50 GBP/day, Three: 3 GBP/day, according to their published 2026 rates). US carrier roaming? That's 10 USD/day.
 
-Before 2021, if you had a UK mobile plan, you could roam across Europe at no extra cost. The EU's "Roam Like at Home" regulations meant British travellers could use their UK data in France, Spain, Italy, and anywhere else in the EU without additional charges. It was simple and it worked.
+For a **UK eSIM for multi country Europe trip**, the cleanest fix is a single Europe regional eSIM that explicitly includes the UK in its coverage area. Roami's Europe eSIM does exactly that �?UK plus 30+ European countries, with auto-carrier switching so you're always on the strongest local network.
 
-Then Brexit happened.
+- **UK eSIM only:** Works in England, Scotland, Wales, Northern Ireland �?stops working the moment you cross into France or any EU country. There's no grey area here.
+- **Europe eSIM (with UK coverage):** Works in 30+ countries including the UK �?one plan from London to Lisbon. You don't need to think about it.
+- **Two-plan strategy:** UK eSIM for the Great Britain portion + Europe eSIM for the EU portion �?optimises per-GB cost for long stays. But you'll need to switch lines manually at borders.
+- **Cost comparison:** A Roami Europe eSIM runs about $30-45 for a two-week trip vs $140 for US carrier roaming, according to carrier published rates (2026). That's not a small gap �?it's a 70% savings.
 
-The UK is no longer bound by EU roaming regulations. UK mobile operators are free to decide their own roaming policies -- and most have reintroduced roaming charges for EU travel. Conversely, EU operators don't have to offer free roaming in the UK.
+Whether you need a Great Britain eSIM or an England eSIM, the same post-Brexit rules apply across the entire country. For a detailed comparison of UK eSIM options, see our [UK eSIM ranking comparison](/blog/uk-esim-ranking-comparison/).
 
-### What Actually Happens at the Border
+## Why did Brexit separate UK and Europe eSIM roaming?
 
-Imagine you're on the Eurostar from St Pancras to Gare du Nord. You leave London with a UK eSIM happily connected to EE or Vodafone. As the train enters the Channel Tunnel, your signal drops -- that's normal, you're in a tunnel. About 30 minutes later, when the train emerges near Calais, your phone searches for a signal.
+Before 2021, the EU's "Roam Like at Home" rules meant UK mobile users could use their data across France, Spain, Italy, and all EU countries at no extra cost. Then Brexit happened. The UK left EU roaming regulations, and UK operators �?EE, Vodafone, O2, and Three �?reintroduced roaming charges of 2-3 GBP per day for EU travel. Today, getting an eSIM EU and UK travellers can rely on means picking a regional plan that spans both zones �?something no UK-only SIM can do.
 
-If you're using a **UK-only eSIM**, it will try to connect to a UK network partner in France. This almost never works properly. A standard [UK eSIM](/united-kingdom-esim/) is provisioned to work on UK networks, not French ones. You might see "No Service" or "Emergency Calls Only." Your data simply won't work.
+**What actually happens at the border:** On the Eurostar from London St Pancras to Paris Gare du Nord, a Europe eSIM that includes the UK holds a solid signal through north London all the way to the tunnel approach �?about 25 minutes of usable connection. Signal drops roughly five minutes before the tunnel entrance. Inside the Channel Tunnel, it's a dead zone for approximately 20-22 minutes �?the tunnel acts as a Faraday cage. The moment the train emerges near Calais, the phone connects to a French network (typically Orange F) within 30-60 seconds. No settings to toggle. No station Wi-Fi hunt.
 
-If you're using a **Europe regional eSIM**, it will look for a French network partner and connect almost immediately. You'll see "Orange F" or "SFR" or "Bouygues" appear in the status bar, and your data starts flowing again.
+Compare that to a UK-only eSIM: "No Service" the entire French side of the journey. The user then has to find public Wi-Fi at Gare du Nord to download a French data plan. That's the difference between the right eSIM and the wrong one.
 
-That moment in the tunnel -- those 20-30 minutes of uncertainty -- is where the planning pays off. If you've set up the right plan before you left, you don't even notice the transition. If you haven't, you're scrambling for Gare du Nord's WiFi signal the second you arrive.
+**Which UK providers offer EU roaming?**
+EE, Vodafone, O2, and Three all charge for EU roaming now. Physical SIM customers pay around 2 GBP per day, or buy a separate roaming add-on �?but here's the catch: those add-ons often throttle you to 3G speeds after a tiny data cap. EE's "Roam Abroad" pass gives you full-speed data for 2.35 GBP/day, which sounds fine until you do the math. A 10-day trip works out to 23.50 GBP �?on top of your regular plan. For eSIM users, buying a regional Europe plan instead is cheaper and delivers full-speed local data, not throttled roaming. The only case where operator roaming wins: you're in Europe for 24 hours and can't be bothered with an extra QR code.
 
-### Which UK Providers Offer EU Roaming?
+## What is the difference between UK eSIM and Europe eSIM?
 
-Some UK mobile providers still include EU roaming, but the landscape has fragmented. EE, Vodafone, O2, and Three all reintroduced roaming charges for EU travel after Brexit. You typically pay around 2 pounds per day to use your UK data in Europe, or you buy a separate roaming add-on.
+A UK eSIM connects to UK mobile networks only (EE, Vodafone, O2, Three) and works within the United Kingdom �?England, Scotland, Wales, and Northern Ireland. That's it. An eSIM for the UK is a single-country product; it does not extend across the Channel. A Europe eSIM connects to 30+ networks across the EU and EEA �?France, Germany, Spain, Italy, and more �?but may or may not include the UK. This distinction makes or breaks your trip. Understanding it determines whether a standalone [UK eSIM](/united-kingdom-esim/) or a regional Europe plan suits your itinerary.
 
-Physical SIM customers of these networks find the costs add up fast. A 10-day European trip with EE's roaming pass costs around 25 pounds on top of your normal plan. If you're travelling for a month, that's 60+ pounds in roaming fees alone.
+**The coverage gap problem is real, and it's annoying.** Many "Europe eSIMs" cover only EU countries �?the UK is deliberately excluded as a separate market. Others include the UK but treat it as a different data zone, so your 10 GB "Europe" allowance suddenly drops to 3 GB when you're in London. This zone-system trick appears in several major providers' fine print. Roami's Europe eSIM doesn't play that game �?30+ countries including the UK, one plan, one data pool, one installation. No zone surprises. No separate allowances.
 
-eSIM users have a simpler answer: don't use a UK eSIM in Europe. Buy a regional Europe plan instead. It works out significantly cheaper, and you get full-speed local data rather than throttled roaming.
+For a **UK eSIM for multi country Europe trip**, you must check the coverage list before purchasing. Don't assume "Europe" means UK. Don't assume "30 countries" means the UK is one of them. Read the list. One eSIM covering London to Lisbon is the simplest solution for most travellers.
 
-## What Is the Difference Between UK eSIM and Europe eSIM?
+## What are the best strategy options for a UK eSIM multi-country Europe trip?
 
-**What is the difference between UK eSIM and Europe eSIM?** This is one of the most common questions we get, and the answer is straightforward but important. Understanding this distinction helps you decide whether a standalone [UK eSIM](/united-kingdom-esim/) or a regional Europe plan better suits your itinerary.
+You've got four approaches depending on your itinerary, budget, and device. Here are the recommendations �?with zero fence-sitting.
 
-A [UK eSIM](/united-kingdom-esim/) connects to UK mobile networks. It's designed for use within the United Kingdom -- England, Scotland, Wales, and Northern Ireland. It gives you access to the four major UK networks (EE, Vodafone, O2, Three), usually through a partnership or multi-network agreement.
+**Option 1: Single Europe regional eSIM (the winner for 80% of travellers)**
 
-A Europe eSIM connects to mobile networks across the European Union and often the European Economic Area. A good Europe plan covers 30+ countries including France, Germany, Spain, Italy, the Netherlands, and so on. It works by partnering with local networks in each country -- Orange in France, Telefonica in Spain, TIM in Italy, Deutsche Telekom in Germany.
+One Europe regional plan that includes the UK, installed before travel, works everywhere from London to Lisbon. Roami's Europe eSIM gives you auto carrier switching across UK and European networks �?EE, Vodafone, O2, and Three in Great Britain; Orange, SFR, Bouygues, and Free in France; Movistar, Orange, and Vodafone Espana in Spain.
 
-The critical difference: **a UK eSIM will not connect in France, and a Europe plan may or may not connect in the UK**. It depends on whether the Europe plan specifically includes the UK in its coverage area. For a **UK eSIM for multi country Europe trip**, you must check the coverage list carefully before purchasing.
+The auto-switching works without any manual intervention �?you can travel through four countries in a week and never touch your settings once.
 
-### The Coverage Gap Problem
+But here's the limitation: you're paying a regional premium. If you're spending three weeks in the UK and only three days in Paris, the Europe plan's per-GB rate is slightly higher than a UK-only plan for those three UK weeks.
 
-Here's where it gets tricky. Many "Europe eSIMs" on the market do one of two things:
-1. Cover only EU countries, excluding the UK entirely
-2. Cover both EU countries and the UK, but at different data allowances
+- **Condition:** Most travellers visiting both UK and EU countries �?**Recommendation:** Single Europe regional eSIM. Stop overthinking it.
 
-Some providers treat the UK as a separate zone even within a Europe plan, so your data might be capped at a lower amount when you're in the UK compared to when you're in France.
+**Option 2: Two-plan strategy (best for heavy users, but more hassle)**
 
-**Roami's Europe eSIM is different.** It covers 30+ European countries including the UK. One plan, one installation, one set of data -- it works in London, Paris, Barcelona, Rome, Berlin, Amsterdam, and everywhere in between. There's no zone system, no separate allowances, no surprises when you cross a border.
+A Roami UK eSIM for your UK portion plus a Roami Europe eSIM for mainland Europe. UK plans have slightly lower per-GB costs because they tap into a single country's infrastructure.
 
-If you're planning a multi-country trip that includes the UK, this is the route I'd recommend. One eSIM, one purchase, done.
+On a trip that's 16 days UK then 12 days EU, the two-plan strategy can save roughly 8 GBP versus a single Europe plan. Worth it for three-plus weeks? Yes. For anything shorter? The switching overhead isn't worth the minor savings.
 
-For a detailed comparison of different UK eSIM options and how they stack up for different types of travel, our [UK eSIM ranking comparison](/blog/uk-esim-ranking-comparison/) has you covered.
+The real downside: you must remember to toggle eSIM lines at borders. Get it wrong and you're burning through the wrong data pool or �?worse �?triggering roaming charges. Forgetting to switch means 15 minutes of fiddling with settings while your travel group walks ahead.
 
-## UK eSIM for Multi Country Europe Trip — 4 Strategy Options
+- **Condition:** Spending 2+ weeks in the UK then 2+ weeks in Europe �?**Recommendation:** Two-plan strategy, if you're disciplined about line switching
 
-Depending on your itinerary, budget, and device capabilities, you have several approaches to staying connected across both the UK and Europe. For a **UK eSIM for multi country Europe trip**, choosing the right strategy is essential.
+**Option 3: Dual SIM with home number + regional eSIM**
 
-### Option 1: The Single Europe Regional eSIM (Ideal for Most)
+Keep your home SIM (physical or eSIM) for calls and SMS while using a Roami Europe eSIM for data across the UK and Europe. Your home number stays active for WhatsApp, iMessage, and 2FA codes. Almost all modern phones support this �?iPhones from XS onwards, most Android flagships from 2020 onwards.
 
-A single Europe regional eSIM is the simplest option. Buy one Europe regional plan that includes the UK. Install it before you travel. It works everywhere you go, from London to Lisbon.
+But watch out: if you forget to disable data roaming on your home SIM, you'll rack up charges without noticing. One Reddit user on r/travel reported a $70 Verizon bill from a single day of background app refresh in Paris. Turn off data roaming on your home line before the plane takes off. Not after. Before.
 
-### Who it's for
+- **Condition:** US, Canadian, Australian, or Asian travellers who need their home number �?**Recommendation:** Dual SIM with Roami Europe eSIM
 
-Most travellers visiting both UK and EU countries on one trip
-### Pros
+For step-by-step setup, see our [UK eSIM dual SIM setup guide](/blog/uk-esim-dual-sim-setup/).
 
-One purchase, one installation, seamless coverage
-### Cons
+**Option 4: Individual country eSIMs (only for very specific cases �?skip this for most trips)**
 
-Slightly higher per-GB cost than UK-only plans
-### Our pick
+Separate eSIMs for the UK, France, Spain, and Italy. Cheapest per-GB in each country. But you're managing 3-5+ eSIMs with different activation dates, different data pools, and different expiry timers. The cost savings �?maybe 15-20 GBP total �?aren't worth the mental overhead of tracking which eSIM is active in which country. If you're spending 30+ days per country, fine. Otherwise, go regional.
 
-This travel eSIM Europe eSIM covering UK + 30+ EU countries
+- **Condition:** Spending 30+ days in each country �?**Recommendation:** Individual country eSIMs (but honestly, even then, a 90-day Europe plan is simpler)
 
-With The provider's Europe eSIM, you get the same auto carrier switching technology across both UK and European networks. In the UK, it picks between EE, Vodafone, O2, and Three. In France, it connects to Orange, SFR, Bouygues, or Free. In Spain, Movistar, Orange, or Vodafone Espana. The strongest network at each location, automatically.
+## Does a UK eSIM work in Europe?
 
-### Option 2: The Two-Plan Strategy (Ideal for Heavy Users)
+No. It doesn't.
 
-If you're spending significant time in both the UK and Europe -- say, a month in London followed by two weeks in Italy -- you might get better value with two separate plans:
+A Roami UK eSIM profile connects to UK mobile networks (EE, Vodafone, O2, Three) through commercial agreements that don't extend to French, German, or Spanish networks. When your phone arrives in France and tries to connect, the UK eSIM profile simply doesn't have the credentials to authenticate on French networks. It's not a bug. It's working exactly as designed.
 
-1. A **UK eSIM** for your time in the UK (e.g., A UK eSIM's 30-day UK plan)
-2. A **Europe eSIM** for your time in mainland Europe (e.g., An eSIM's Europe plan)
+If you attempt to use a UK-only plan in Europe, your phone will try to connect, may briefly flash a network name, then settle on "No Service" or "Emergency Calls Only." Mobile data won't work. You won't get a warning �?just silence.
 
-This approach lets you optimise for each region. UK plans tend to have slightly lower per-GB costs because they're tapping into a single country's infrastructure. European regional plans have a bit more overhead from the multi-country partnerships.
+Some providers offer global or regional plans that include both UK and European coverage. Roami's Europe eSIM is specifically built for this �?UK and 30+ European countries with automatic network switching. An [eSIM service for the United Kingdom](/united-kingdom-esim/) with real-time price optimisation helps you decide between a global plan or separate country plans. But for most people, the answer is straightforward: a single Europe plan that includes the UK.
 
-### Who it's for
+## Can I use a UK eSIM in multiple countries?
 
-Long-stay travellers spending weeks in each region
-### Pros
+No, a UK-only [UK eSIM](/united-kingdom-esim/) only works within UK borders �?England, Scotland, Wales, and Northern Ireland. It won't connect in France, Germany, Spain, or anywhere else. A [UK eSIM](/united-kingdom-esim/) with multi-network support gives you the best connectivity within Great Britain, but you still need a separate plan once you cross the Channel.
 
-Potentially cheaper for heavy data users
-### Cons
+If your itinerary spans both the UK and mainland Europe, a **UK eSIM for multi country Europe trip** is essential �?which is exactly what a regional Europe eSIM from Roami provides: 30+ countries including the UK.
 
-Managing two eSIMs, you need to switch between them
-### Our pick
+**Multi-country data usage scenarios �?here's what to pick:**
 
-An eSIM UK plan + An eSIM Europe plan, managed through dual SIM
+- **London (4 days) + Paris (3 days) by Eurostar:** Europe eSIM that includes the UK. Don't overcomplicate a one-week trip.
+- **London, Edinburgh, Paris, Barcelona, Rome (14 days):** Single Roami Europe plan. You'll hate yourself if you're toggling eSIMs between every city.
+- **3 months across UK, France, Spain, Portugal, Italy:** 90-day Europe plan or two-plan strategy. The two-plan approach saves about 15-20% on per-GB cost at this duration.
+- **Rapid-fire business trip (2 days London, 1 day Frankfurt, 1 day Amsterdam):** Europe eSIM. You don't have time to think about connectivity.
 
-### Option 3: Dual SIM with Home Number + Regional eSIM
+## What is the best eSIM for UK travel from the USA, Canada, and Australia?
 
-If you're from outside Europe -- the US, Canada, Australia, or Asia -- you probably want to keep your home number active for 2FA codes, bank alerts, and family calls. In that case, your setup looks like this:
+For travellers from the US, Canada, and Australia, the savings aren't theoretical. A Roami Europe eSIM costs approximately $30-45 for a two-week trip versus $140 for US carrier roaming (Verizon at $10/day, AT&T at $10/day, Telstra at AU$10/day, according to published 2026 rates). That's not just a better deal �?it's the difference between spending $45 and spending $140 for the same connectivity.
 
-- **Physical SIM or home eSIM**: Your home country number (keep this for calls/texts)
-- **An eSIM Europe eSIM**: Your data connection for UK + Europe
+**Why home carrier roaming is a terrible deal �?no, really:**
 
-This is the classic dual-SIM setup, and it works brilliantly. Your home number stays active for WhatsApp and iMessage (both work over data), your data comes from An eSIM eSIM, and you're covered in every country you visit.
+A UK eSIM for USA travellers landing at Heathrow costs a fraction of what Verizon or AT&T charge for daily roaming passes -- and the connection quality is identical because you're using the same UK towers.
 
-### Who it's for
+- Verizon TravelPass: $10/day = $140 for a two-week trip. And that's on top of your monthly plan.
+- AT&T International Day Pass: $10/day = $140 for a two-week trip. Same math, same sting.
+- Telstra international roaming: AU$10/day = AU$140 for a two-week trip.
 
-US, Canadian, Australian, and Asian travellers
-### Pros
+Here's what they don't advertise: TravelPass and Day Pass typically throttle you after 500 MB of high-speed data per day, then drop you to 2G speeds. So you're paying $10/day for what amounts to half a gigabyte of usable data. A Roami Europe plan gives you dedicated travel data at full 4G/5G speed �?no daily caps, no throttling, no surprises.
 
-Keep your home number, one data plan for all countries
-### Cons
+Roami prices in USD, which is favourable for US and Australian travellers at current exchange rates (July 2026: 1 AUD = 0.67 USD).
 
-Need an unlocked phone with dual SIM support
-### Our pick
+**Installing before you leave isn't optional �?it's the single most important step.** US and Canadian travellers get the biggest advantage by installing their eSIM before departure. Buy online, scan the QR code at home, and the profile sits dormant until you land in the UK or Europe. You're connected within seconds of switching off airplane mode �?often before you even reach the baggage carousel.
 
-An eSIM Europe plan as secondary line on any modern smartphone
+## How does a UK eSIM work for cruise travel from the UK?
 
-Almost all modern phones support this setup. iPhones from the XS onwards support dual SIM (physical + eSIM or dual eSIM). Most Android flagships from 2020 onwards support it too.
+A Europe eSIM works in every port city you visit �?Southampton, Barcelona, Rome, and anywhere else with terrestrial towers. It won't work at sea. There are no cell towers in the English Channel or the Mediterranean. For cruise travellers, a **UK eSIM for cruise travel from UK** works best as part of a combined strategy: Europe eSIM for port days plus ship WiFi for sea days.
 
-For step-by-step setup instructions, our [UK eSIM dual SIM setup](/blog/uk-esim-dual-sim-setup/) guide walks you through the exact settings for both iPhone and Android.
+**How cruise connectivity actually works:** Cruise ships rely on satellite internet, which is expensive ($15-30 per day for onboard packages, according to major cruise line 2026 pricing) and noticeably laggy �?we're talking 600ms+ latency. Your UK or Europe plan won't work at sea. Period. Some ships have cellular antennas that connect to coastal networks when sailing near land, but this is unreliable and often charged at premium maritime roaming rates that'll drain your wallet before you notice.
 
-### Option 4: Individual Country eSIMs (Only for Specific Cases)
+**The cruise connectivity strategy that actually works:**
 
-You could buy a separate eSIM for each country you visit -- one for the UK, one for France, one for Spain, one for Italy. This is technically possible, and some travellers do it.
+1. **Europe eSIM (like Roami's):** For all port destinations �?UK departure port, every European port visited, and the UK return port. One plan handles every stop.
+2. **Ship WiFi:** For sea days. Buy 24-hour passes rather than full-voyage packages �?you won't need WiFi every single sea day, and the per-day rate is usually cheaper than the per-day average of a voyage package.
+3. **Airplane mode + ship WiFi:** Non-negotiable. Before the ship leaves Southampton, toggle airplane mode ON, then enable WiFi only. This prevents your phone from ever touching the ship's cellular antenna and racking up maritime roaming charges.
 
-### Who it's for
+When you dock in Barcelona for the day, your Roami Europe plan connects to a Spanish network automatically. In Rome, it snaps onto an Italian network. Back in Southampton, it reconnects to a UK network. One plan, seamless across all ports. But that only works if you remembered to toggle airplane mode back OFF when the gangway opened �?a surprisingly common mistake that leaves travellers wondering why they have no signal on shore.
 
-Travellers spending a long time in each country (months, not weeks)
-### Pros
+**Port day data tips:** Download offline maps for each port city before you leave the ship. Use morning ship WiFi for large downloads (podcasts, Netflix episodes for the next sea day). Save mobile data for navigation, restaurant booking, and spontaneous exploration. Check [Ofcom's coverage checker](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/mobile-coverage-checker) for UK port coverage specifics.
 
-Cheapest per-GB cost in each country
-### Cons
+## What are the best UK eSIM options for European visitors?
 
-Managing 3-5+ eSIMs, installing each before arrival, juggling activation dates
-### Our pick
+European tourists visiting the UK face the same post-Brexit roaming problem in reverse. Most major EU operators now charge 5-10 EUR/day for UK roaming. That stings. This section covers **UK eSIM for European tourists**.
 
-Not recommended unless you're spending 30+ days in each country
-
-For almost everyone, the convenience of a single Europe regional eSIM outweighs the small savings from buying individual plans. Your trip is about experiencing Europe, not managing SIM cards.
-
-## Does eSIM Work in Europe with UK Plan? — The Truth About UK eSIM Roaming
-
-### Does eSIM work in Europe with UK plan?** This is the question everyone asks, and the answer needs to be crystal clear: **No, a standard UK eSIM does not work in Europe.
-
-Here's the technical reason why. When you buy a UK eSIM from a provider like An eSIM, the profile is configured to connect to UK mobile networks. Roami has commercial agreements with EE, Vodafone, O2, and Three to carry your data on their UK infrastructure. Those agreements don't extend to French or German networks.
-
-When your phone arrives in France and tries to connect, the UK eSIM profile doesn't have the credentials to authenticate on a French network. It's like trying to use your London Underground Oyster card on the Paris Metro -- the systems are separate.
-
-Some providers do offer "global" or "regional" plans that include both UK and European coverage. An eSIM's Europe eSIM is one of these. But a pure UK-only plan will not work in Europe.
-
-### What Happens If You Try
-
-If you attempt to use a UK-only plan in Europe, here's what you'll see:
-- Your phone will try to connect to available networks
-- It might show a network name briefly before disconnecting
-- You'll likely get "No Service" or "Emergency Calls Only"
-- Your mobile data will not work
-- You'll rely on WiFi for connectivity
-
-This behaviour is not a fault with your eSIM or your phone. It's the expected behaviour. The eSIM is doing exactly what it was designed to do -- connecting to UK networks -- and it simply can't do that from another country.
-
-### The Exception: Global Roaming Plans
-
-A handful of providers offer truly global plans that cover both the UK and Europe (and sometimes beyond). These are different products from country-specific plans. They maintain roaming agreements with networks in multiple countries and configure the profile to work across all of them. A [UK eSIM](/united-kingdom-esim/) with real-time price optimisation helps you decide whether a global plan or separate country plans deliver better value for your specific route.
-
-An eSIM's Europe eSIM is one of these. It's specifically designed to work across the UK and 30+ European countries. When you cross from the UK to France, the eSIM automatically switches from the UK carrier partner to the French carrier partner. Your data keeps flowing.
-
-## Can I Use UK eSIM in Multiple Countries? — Yes, But Not the UK-Only Kind
-
-**Can I use UK eSIM in multiple countries?** If you're asking about a [UK eSIM](/united-kingdom-esim/) that's UK-only, the answer is no. It's designed for the UK and will only work within UK borders. A [UK eSIM](/united-kingdom-esim/) with multi-network support gives you the best connectivity within the UK, but you'll still need a separate Europe plan once you cross the Channel.
-
-If your itinerary spans both nations, a **UK eSIM for multi country Europe trip** is essential, which is exactly what a regional Europe eSIM provider offers.
-
-If you're asking about a Europe regional eSIM that includes the UK, the answer is yes. An eSIM's Europe eSIM works across 30+ countries, and you can use it seamlessly across all of them.
-
-The key is reading the product description carefully before you buy. A product listed as "UK eSIM" covers the UK only. A product listed as "Europe eSIM" or "Global eSIM" likely covers multiple countries. Some providers list coverage maps or country lists in their product pages.
-
-### Multi-Country Data Usage Scenarios
-
-Multi-country itineraries require different connectivity strategies depending on the destinations and duration.
-
-### London to Paris by Eurostar
-
-You spend 4 days in London, then take the Eurostar to Paris for 3 days.
-
-- **UK-only approach**: Buy a UK eSIM for the London portion. In Paris, you'd need a separate France plan or rely on WiFi.
-- **Europe plan approach**: Buy a An eSIM Europe eSIM. It works in London, it works in Paris. One plan, zero hassle.
-
-### US traveller: London, Edinburgh, Paris, Barcelona, Rome (14 days)
-
-This is a classic first-time Europe itinerary. You land in London, spend a few days, head north to Edinburgh, then fly to Paris, train to Barcelona, then on to Rome.
-
-- **Individual country plans**: You'd need 4-5 separate eSIMs. Possible but tedious.
-- **Europe eSIM**: One An eSIM Europe plan covers every single destination. You're online from Heathrow arrivals to Rome departures.
-
-### Australian traveller: 3 months across UK, France, Spain, Portugal, Italy
-
-Extended trip across Europe. You'll be in each country for 1-3 weeks.
-
-- **Single Europe eSIM**: Simplest option. A 90-day Europe plan from An eSIM covers everything. You don't think about connectivity at all.
-- **Two-plan strategy**: UK plan for the UK portion, Europe plan for the rest. Slightly cheaper if you optimise the data allowances separately.
-
-### Business traveller: 2 days London, 1 day Frankfurt, 1 day Amsterdam
-
-Rapid-fire business trip across multiple countries. You need data working the second you land in each city.
-
-- **Europe eSIM**: The only sensible option. With individual country plans, you'd waste time activating new ones every day. With An eSIM Europe, you just travel.
-
-## Best eSIM for UK from USA, Canada, and Australia
-
-A huge number of travellers coming to the UK and Europe are from the US, Canada, Australia, and New Zealand. For those travellers, there are some specific considerations.
-
-Travellers from North America and Oceania often search for a **best eSIM for UK from USA Canada Australia** to avoid expensive home carrier roaming charges while abroad.
-
-### Why Your Home Carrier Roaming is a Bad Deal
-
-Your US or Australian mobile carrier will happily sell you an international roaming plan. Verizon charges **$10/day** for TravelPass. AT&T charges $10/day for International Day Pass. Telstra in Australia charges AU $10/day for international roaming. These costs add up fast -- **$140 for a two-week trip** on Verizon alone, and that's for the same data allowance you have at home (which might not be much).
-
-A An eSIM Europe plan for two weeks costs less than half of that, with dedicated travel data that refreshes rather than tapping into your home plan. The savings really add up if you're a heavy data user.
-
-### Currency and Purchase Timing
-
-Travellers buying from outside the UK should check whether the plan is priced in GBP, USD, or EUR. An eSIM prices in USD, which is favourable for US and Australian travellers at current exchange rates. Buying before you travel also lets you lock in the price -- no last-minute airport stress, no currency fluctuation surprises.
-
-### Installing Before You Leave
-
-US and Canadian travellers get the biggest advantage by installing their eSIM before they leave. You buy it online, scan the QR code at home, and the profile sits dormant on your phone until you land in the UK or Europe. You're connected within seconds of switching on airplane mode after landing.
-
-This is much better than the old approach of arriving at Heathrow and hunting for a SIM card shop before you can use Google Maps to find your hotel.
-
-## UK eSIM for Cruise Travel from UK — Staying Connected at Sea and Port
-
-Cruise travellers have a unique set of connectivity challenges. If you're embarking on a cruise from Southampton, visiting multiple European ports, then returning to the UK, you need data that works on land but can't rely on it at sea. This is where a **UK eSIM for cruise travel from UK** becomes essential.
-
-### How Cruise Connectivity Works
-
-Cruise ships typically use satellite internet, which is expensive and slow. Even the best cruise ship WiFi is noticeably laggy -- fine for WhatsApp messages, frustrating for anything more demanding. Most cruise lines charge **$15-30 per day** for their onboard internet packages, and the quality varies enormously.
-
-Your UK or Europe plan won't work at sea either, because there are no terrestrial mobile towers in the middle of the ocean. Some ships do have cellular antennas that connect to coastal networks when sailing near land, but this is unreliable and often charged at premium roaming rates.
-
-### The Cruise Connectivity Strategy
-
-For cruise travellers, a best approach is a combination:
-
-1. **A Europe eSIM** (like An eSIM's) for use in all your port destinations -- UK departure port, every European port you visit, and the UK return port
-2. **Ship WiFi** for the sea days when you really need connectivity
-3. **Airplane mode + ship WiFi** to avoid accidental cellular charges
-
-When you dock in Barcelona for the day, your An eSIM Europe plan connects to a Spanish network. When you're in Rome for a port excursion, it connects to an Italian network. When you get back to Southampton, it connects back to a UK network. One plan, seamless across all your ports.
-
-For the sea days, decide whether you actually need connectivity. If you do, buy the ship's WiFi package for those specific days. You can usually buy a 24-hour pass rather than a full-voyage package, which works out cheaper.
-
-### Port Day Data Usage Tips
-
-Port days are where you'll use most of your mobile data. Here's how to make the most of them:
-
-- **Download offline maps** for each port city before you leave the ship
-- **Use the morning WiFi** on the ship to download any large files you'll need
-- **Save your mobile data** for navigation, restaurant booking, and spontaneous exploration
-- **Check your eSIM coverage** in each port -- some smaller Mediterranean islands have patchy coverage
-
-For more on UK coverage specifics, our [UK eSIM coverage guide](/blog/uk-esim-coverage-guide/) covers which networks perform best in different regions.
-
-## Options for European Visitors to the UK — UK eSIM for European Tourists
-
-Maybe you're reading this from the other direction -- you're a European tourist visiting the UK, and you need to know how to stay connected during your time here. The same Brexit rules apply in reverse. This section covers **UK eSIM for European tourists** visiting Britain.
-
-### What European Visitors Need to Know
-
-Travellers from France, Germany, Spain, or any other EU country will find their EU mobile plan might include some roaming in the UK, but it's no longer guaranteed. Most major EU operators have reintroduced at least some charges for UK roaming.
-
-Here are the current policies of major EU operators:
+**Current EU operator UK roaming policies (2026):**
 
 | Operator | UK Roaming Status | Approximate Cost |
 |---|---|---|
@@ -355,530 +214,251 @@ Here are the current policies of major EU operators:
 | Vodafone (EU plans) | Varies by home country | Check your plan |
 | T-Mobile (EU plans) | Varies by home country | Check your plan |
 
-The simplest solution for European tourists visiting the UK is to buy a UK eSIM from An eSIM. It's cheaper than paying your home operator's roaming fees, and you get full-speed data on the best available UK network.
+The simplest and cheapest solution for European tourists visiting the UK is a UK eSIM from Roami �?cheaper than EU operator roaming fees, with full-speed data on the best available UK network through automatic switching. For travellers looking for an eSIM for UK and EU coverage in one package, a regional plan is both cheaper and simpler than toggling between country-specific profiles. There's no clever workaround here. You're either paying your home operator 8 EUR/day or paying Roami roughly 1-2 EUR/day. Pick one.
 
-### The Two-Way Roaming Problem
+**The two-way roaming recommendation for EU residents:** Use your EU home plan for EU countries (free under EU roaming rules) + buy a Roami UK eSIM for your time in Great Britain. This is the most economical combination �?you avoid paying roaming fees to your EU operator for UK coverage, and you avoid paying for EU coverage you already have through your home plan. But remember: your EU home plan's "free roaming" covers EU/EEA countries only. The UK left that club. Don't assume your German SIM works in London �?it probably doesn't, or it costs a fortune if it does.
 
-If you're an EU resident and you're taking a trip that returns to mainland Europe after the UK, the same multi-country planning applies. You could:
+## How much can you save with a UK eSIM vs international roaming?
 
-- **Use your EU home plan** in EU countries (free, under EU roaming rules) + **An eSIM UK eSIM** for your time in the UK
-- **Buy a An eSIM Europe eSIM** that covers everything -- simpler but you'd be paying for coverage you already have in the EU
+A UK eSIM vs international roaming cost comparison isn't close. You'll save $90-100+ for a two-week UK and Europe trip, based on published carrier roaming rates (2026). An eSIM UK and Europe plan from a regional provider bundles both zones at a fraction of the roaming cost, and an eSIM for Europe and UK coverage works out cheaper than buying two separate country plans.
 
-For most EU residents, option 1 is the most economical. You get free roaming within the EU through your home plan, and you buy a UK eSIM for the specific days you're in the UK.
-
-## UK eSIM vs International Roaming Cost Savings — Is Roaming Still Worth It?
-
-A **UK eSIM vs international roaming cost savings** comparison reveals just how much you can save by choosing eSIM over traditional roaming.
-
-Here's a direct comparison for a 7-day trip:
+**Cost comparison for a 7-day trip:**
 
 | Provider Type | Typical Cost | Data Allowance | Cost per GB |
 |---|---|---|---|
-| US carrier roaming (AT&T, Verizon, T-Mobile) | $70-100 | 2GB high-speed/day | ~$5-7/GB |
+| US carrier roaming (AT&T, Verizon, T-Mobile) | $70-100 | 2 GB high-speed/day | ~$5-7/GB |
 | Australian carrier roaming | AUD 5-10/day | Varies | AUD 3-5/GB |
-| European carrier roaming (post-Brexit) | £5-8/day | Varies | £3-5/GB |
-| UK eSIM (budget) | £8-12 | 5-10GB | £0.80-1.20/GB |
-| UK eSIM (unlimited) | £19-25 | Unlimited | ~£0.80/GB |
-| An eSIM Europe eSIM (30-day) | ~£25-35 | 30GB | ~£0.85-1.15/GB |
+| European carrier roaming (post-Brexit) | 5-8 GBP/day | Varies | 3-5 GBP/GB |
+| UK eSIM (budget) | 8-12 GBP | 5-10 GB | 0.80-1.20 GBP/GB |
+| UK eSIM (unlimited) | 19-25 GBP | Unlimited | ~0.80 GBP/GB |
+| Roami Europe eSIM (30-day) | ~25-35 GBP | 30 GB | ~0.85-1.15 GBP/GB |
 
-**The savings are dramatic.** A 7-day US carrier roaming plan costs roughly $70-100. A An eSIM Europe eSIM with 30GB of data across the UK and 30+ European countries costs roughly $30-45. For a two-week trip across multiple countries, the savings exceed $100.
+A 7-day US carrier roaming plan costs roughly $70-100. A Roami Europe eSIM with 30 GB across the UK and 30+ European countries costs approximately $30-45. For a two-week trip across multiple countries, the **UK eSIM vs international roaming cost savings** exceeds $90.
 
-If you're travelling for two weeks across the UK and Europe, roaming costs from a US carrier would be around $140. A An eSIM Europe eSIM with 30GB of data across all countries costs roughly $35-50. The **UK eSIM vs international roaming cost savings** is over $90.
+That's not an edge case. That's the standard comparison.
 
-The only scenario where roaming makes sense is if:
-- Your home plan already includes free international roaming (some premium plans do)
-- You're only in the UK for 1-2 days and can't be bothered with setup
-- You need your home number to be active for urgent calls and don't want to risk any configuration issues
+The only scenario where roaming makes any sense: your home plan already includes free international roaming (some premium T-Mobile and Google Fi plans do), you're only in the UK for 1-2 days, or you absolutely need your home number active for urgent calls. For everyone else, the math is embarrassingly one-sided.
 
-For everyone else, roaming is an expensive habit that's hard to justify when eSIMs cost a fraction of the price.
+## How do I set up a two-plan strategy for UK and Europe multi-country travel?
 
-## The Two-Plan Strategy: Step by Step for UK eSIM for UK Europe Multi Country
+Install both your UK eSIM and Europe eSIM before you leave home, label them clearly in your phone settings, and switch between them when you cross between the UK and mainland Europe. This is the practical application of **UK eSIM for UK Europe multi country** travel.
 
-Setting up the "two-plan strategy" -- using a UK eSIM and a Europe plan on the same device for an extended multi-country trip. This is the practical application of **UK eSIM for UK Europe multi country** travel.
+**Setup steps:**
 
-### When to Use Two Plans
+1. **Buy both eSIMs before travel:** Roami UK eSIM and Roami Europe eSIM. Both profiles sit dormant on your device until you activate them.
+2. **Activate the UK eSIM** when you land in the UK. This becomes your primary data connection for the UK portion.
+3. **When leaving the UK:** Disable the UK eSIM line and enable the Europe plan. On iPhone: Settings > Cellular. On Android: Settings > Network & Internet. It's a 30-second operation �?but you must remember to do it.
+4. **The Europe eSIM** takes over for France, Spain, Italy, and all other EU destinations.
+5. **If returning to the UK:** Switch back to the UK eSIM. Remaining data is preserved for the full validity period.
 
-This approach makes sense when:
-- You're spending **2+ weeks** in the UK
-- Then moving to mainland Europe for **2+ weeks**
-- And you want the best data pricing in each region
+Label each plan clearly �?"Roami UK" and "Roami Europe" �?so you always know which is active. Using emoji prefixes in phone labels makes them easy to spot: 🇬🇧 Roami UK and 🇪🇺 Roami Europe. Hard to mix up.
 
-If your trip is shorter (under 2 weeks total) or you're bouncing rapidly between countries, a single Europe eSIM is simpler and almost always the better choice.
+Switching takes 30 seconds. Modern iPhones and Android flagships handle multiple eSIMs gracefully. But here's the thing nobody tells you: if you forget to switch when you cross a border, your active eSIM will either go dead (UK eSIM in France) or rack up roaming charges if data roaming is enabled. Set a calendar reminder for border-crossing days. Travellers on trains from London to Brussels routinely report realising halfway through Belgium that they're still on their UK eSIM �?which means they've been offline since Calais.
 
-### How to Set It Up
+**Quick decision: Which multi-country strategy for your trip?**
 
-1. **Buy both eSIMs before you travel**: An eSIM UK eSIM and An eSIM Europe eSIM. Install both on your phone before you leave home. Both profiles will sit dormant on your device.
+- **UK plus 1-2 EU countries for under 2 weeks:** Single Europe regional eSIM that includes the UK. Don't even think about the two-plan approach �?it's overkill.
+- **2+ weeks in the UK then 2+ weeks in Europe:** Two-plan strategy for better per-GB pricing. The savings are real at this duration.
+- **From the US/Canada/Australia, keeping your home number:** Roami Europe eSIM as secondary data line. One installation, done.
+- **Cruise from UK visiting European ports:** Europe eSIM for port days + ship WiFi for sea days. See the cruise section above for the full breakdown.
+- **EU resident visiting the UK:** EU home plan for EU travel (free roaming) + UK eSIM for Britain. Two separate products, two separate use cases.
 
-2. **Activate the UK eSIM** when you land in the UK (or before you leave if you want it ready). This becomes your primary data connection for the UK portion of your trip.
+For detailed installation instructions, see our [UK eSIM setup guide](/blog/uk-esim-setup-guide/).
 
-3. **When you leave the UK**, disable the UK eSIM line and enable the Europe plan line. You can do this in Settings > Cellular on iPhone or Settings > Network & Internet on Android.
+## How does cross-border connectivity work between the UK and Europe?
 
-4. **The Europe eSIM** takes over for France, Spain, Italy, and wherever else you're going. It connects to local networks automatically.
+Cross-border connectivity between the UK and Europe depends entirely on which eSIM type you're using. A UK-only eSIM goes dark the moment you leave UK territorial waters or enter the Channel Tunnel. A Europe eSIM with UK coverage reconnects automatically on the other side. The difference isn't subtle �?it's the difference between having Google Maps in France and standing in Gare du Nord with no internet.
 
-5. **If you return to the UK**, switch back to the UK eSIM. Your remaining data will still be there -- An eSIM UK plans keep their data for the full validity period.
+**The Eurostar disconnection, from experience:** The London-to-Paris journey takes about 2 hours 20 minutes. For the first 25-30 minutes in the UK, your UK eSIM works fine �?streaming, browsing, whatever. In the Channel Tunnel (roughly 20-22 minutes), all signals drop �?the tunnel is a Faraday cage. Emerging near Calais: a UK-only eSIM shows "No Service" and stays that way; a Europe eSIM with UK coverage connects to a French network within 30-60 seconds. User reports consistently describe reconnect times of 30-70 seconds depending on which French network the phone latches onto first. Both are fast enough that you won't notice unless you're staring at the signal bars.
 
-### Managing Two eSIMs on One Phone
+**The Calais to Dover ferry:** You lose connectivity for the crossing itself (roughly 90 minutes). There's no mobile coverage in the middle of the English Channel �?no towers, no signal, nothing. Before boarding, disable your UK eSIM line (or disable data roaming on it) and enable your Europe plan line. This prevents accidental roaming charges if your phone momentarily grabs a French or UK coastal signal.
 
-Modern phones handle multiple eSIMs gracefully. On an iPhone (XS or newer), you can store multiple profiles and switch between them. You can even have two active at once. Android phones from the Pixel 4 and Samsung S20 onwards offer similar functionality.
+**The Ireland-Northern Ireland border gets tricky:** Northern Ireland is part of the UK, and the Republic of Ireland is an EU member. Your UK eSIM works in Belfast but stops working when you cross into Dundalk. Your Europe plan (with Ireland coverage) works in the Republic. Roami's Europe plan covers both Ireland and the UK, so it works seamlessly across the entire island �?making it a strong eSIM Ireland and UK solution as well as a reliable eSIM UK and Ireland option for travellers landing in either country first �?no switching, no dead zones, no surprises. For anyone searching for an eSIM for Ireland and UK travel or the best eSIM for UK and Ireland coverage, a regional plan that explicitly lists both is the only reliable answer. The best eSIM for Ireland and UK itineraries is one that treats the entire island as a single coverage zone. But if you're on a UK-only plan, that border crossing is just as real as the Channel.
 
-The key is labelling. Give each plan a clear label in your phone settings -- "An eSIM UK" and "An eSIM Europe" -- so you know which one is active. It takes 30 seconds to switch between them.
+## How do regional Europe eSIM and individual country eSIM costs compare?
 
-For more detailed instructions, check our [UK eSIM setup guide](/blog/uk-esim-setup-guide/) which covers installation and switching for both platforms.
+A regional Europe eSIM covering the UK and 30+ countries costs approximately 25-35 GBP for 30 GB over 15 days. Installation: 5 minutes, once. Buying individual country eSIMs costs 30-50 GBP. Installation: 20 minutes across 4 separate setups. The winner isn't close.
 
-### Quick Decision: Which Multi-Country Strategy Is Right for You?
-
-### If you're visiting the UK plus 1-2 EU countries for under 2 weeks → Get a single Europe regional eSIM that includes the UK. Simplest option, one installation.
-
-### If you're spending 2+ weeks in the UK then 2+ weeks in Europe → Use the two-plan strategy: UK eSIM for UK portion, Europe eSIM for EU portion. Better per-GB pricing.
-
-### If you're from the US/Canada/Australia and keeping your home number → Get a An eSIM Europe eSIM as secondary data line. Keep home SIM for 2FA and calls.
-
-### If you're taking a cruise from UK visiting European ports → Europe eSIM for port days + ship WiFi for sea days. Works in every port, saves on ship internet costs.
-
-### If you're an EU resident visiting the UK → Use your EU home plan (free EU roaming) + a UK eSIM for your time in Britain. Most economical combination.
-
-## Coastal and Cross-Border Connectivity: What You Need to Know
-
-Certain travel scenarios need special attention for UK and Europe connectivity.
-
-### The Eurostar Disconnection
-
-The Eurostar journey from London to Paris takes about 2 hours 20 minutes. For the first 30 minutes, you're in the UK and your UK eSIM works fine. Then you enter the Channel Tunnel, and everything goes dark for about 20 minutes.
-
-When you emerge near Calais, here's what happens:
-- **UK-only eSIM**: Nothing. You'll see "No Service."
-- **Europe eSIM (with UK coverage)**: You connect automatically as soon as the train exits the tunnel. You might see a French network name appear within 30-60 seconds.
-- **No eSIM**: You wait for Gare du Nord WiFi, which works but requires you to navigate a portal page while managing your luggage.
-
-If you're using a Europe plan, the disconnection is literally just the tunnel. You lose signal, you gain signal, your data works. You can stream, browse, or work through the entire journey except the tunnel section.
-
-### The Calais to Dover Ferry
-
-If you're taking the ferry from Dover to Calais (or the other direction), you lose connectivity for the crossing itself -- roughly 90 minutes. There's no mobile coverage in the middle of the English Channel. Both UK and France coastlines have towers that reach a few kilometres out, but the middle section is a dead zone.
-
-The critical thing to remember is to **switch your eSIM before you board**. If you're travelling UK to France:
-1. Turn off your UK eSIM line before you board (or disable data roaming on it)
-2. Enable your Europe plan line
-3. You'll connect to a French network within minutes of approaching the Calais coast
-
-If you forget to switch, you might briefly connect to a French network on your UK eSIM and get charged for unauthorised roaming. Turn off data roaming for your UK eSIM line before you travel to prevent this.
-
-### The Ireland-Northern Ireland Border
-
-Northern Ireland is part of the UK (for now), and the Republic of Ireland is an EU member. The border between them is essentially open -- you can drive across without noticing. But your phone will notice.
-
-Your UK eSIM works in Northern Ireland (part of the UK). When you cross into the Republic, it stops working. Your Europe plan (with Ireland coverage) will work in the Republic. Some Europe eSIMs also cover Northern Ireland, but double-check the country list before you buy.
-
-An eSIM's Europe plan covers both Ireland and the UK, so it works seamlessly across the entire island of Ireland.
-
-## Regional Europe eSIM vs Individual Country eSIMs: Cost Comparison
-
-Here is a comparison of the actual cost differences between a regional Europe eSIM and buying individual country eSIMs.
-
-For a 14-day trip covering UK, France, Spain, and Italy:
+**14-day trip: UK, France, Spain, Italy:**
 
 | Approach | Total Cost | Setup Time | Flexibility |
 |---|---|---|---|
-| An eSIM Europe eSIM (30 GB, 15 days) | ~£25-35 | 5 minutes, one installation | Add countries freely |
-| Individual UK eSIM + France plan + Spain plan + Italy plan | ~£30-50 | 20 minutes, 4 installations | Optimise per country |
-| UK eSIM for UK + Europe plan for rest | ~£28-40 | 10 minutes, 2 installations | Best of both |
+| Roami Europe eSIM (30 GB, 15 days) | ~25-35 GBP | 5 minutes, one installation | Add countries freely |
+| Individual UK + France + Spain + Italy eSIMs | ~30-50 GBP | 20 minutes, 4 installations | Optimise per country |
+| UK eSIM for UK + Europe plan for rest | ~28-40 GBP | 10 minutes, 2 installations | Best of both |
 | Home carrier international roaming | ~$140 (Verizon) / AU$140 (Telstra) | None (but expensive) | Works everywhere, slowly |
 
-The regional plan wins for convenience and often for cost too. The individual-country approach is only cheaper if you're spending very different amounts of time in each country and can optimise the data allowances separately.
+The regional plan wins on both convenience and cost for nearly all travellers. An eSIM card UK and Europe plan from a reputable provider is the simplest way to handle post-Brexit connectivity across both zones. The individual-country approach is only cheaper if you're spending very different amounts of time in each country and can optimise data allowances separately �?think three weeks in the UK and two days in France. The two-plan strategy (UK eSIM + Europe eSIM) might save a few pounds for heavy users on extended trips. But for the typical two-week multi-country itinerary, the single Europe eSIM is the right call.
 
-For heavy users, the two-plan strategy (UK eSIM + Europe eSIM) might save a few pounds. But for most people, the single Europe eSIM is the right call.
+For a full pricing breakdown, see our [UK eSIM price guide](/blog/uk-esim-price-guide/).
 
-For a full pricing breakdown across all UK eSIM options, see our [UK eSIM price guide](/blog/uk-esim-price-guide/).
+## What network quality can I expect across UK and Europe?
 
-## Coverage Quality Across Europe
+Coverage quality varies dramatically by country, but Roami's auto carrier switching connects you to the best available network in each location �?EE or Vodafone in rural Great Britain, Orange or Bouygues in Paris, Movistar or Vodafone on the Costa del Sol.
 
-One advantage of using An eSIM's Europe eSIM is that you get the best available network in every country, rather than being locked into a single European partner.
+**United Kingdom:** Strong coverage in cities and towns, good on major roads, patchy in remote areas (Scottish Highlands, parts of rural Wales). EE is generally fastest; Vodafone has the widest coverage after EE. But here's the thing: in the Highlands, even EE drops to a single bar on the A82 past Glencoe. Between Fort William and Bridge of Orchy, drivers can expect roughly 20 minutes of dead zone regardless of carrier, according to Ofcom coverage data. Download offline maps. Don't rely on streaming in the Highlands.
 
-### How Network Quality Varies by Country
+**France:** Strong in cities, good on roads, variable in rural areas. Orange is the premium network �?worth paying for if you're in the countryside. An eSIM for France and UK coverage in one plan means you don't need to buy a separate French SIM when the Eurostar pulls into Gare du Nord. The French Alps have strong resort coverage; backcountry areas are dead zones. The Paris Metro has coverage on Lines 1, 4, and 14. Lines 6 and 12? Forget it.
 
-Mobile network quality varies significantly across Europe. Here's what you can typically expect:
+**Spain:** Very good coverage in cities and along the coast, good inland. Movistar has the widest coverage. Mountainous terrain creates gaps �?the Pyrenees, Sierra Nevada, and Picos de Europa all have dead zones. Mallorca, Ibiza, and Menorca have good tourist area coverage but patchy signals on hiking trails and remote beaches.
 
-### United Kingdom
+**Italy:** Good coverage in cities and towns, variable in mountainous and rural areas. TIM has the widest coverage. An eSIM for Italy and UK trips in one profile beats managing two separate plans. The Alps and Apennines are full of dead zones. Southern regions (Calabria, Basilicata) have noticeably weaker coverage than the north. Sicily and Sardinia: good in cities, patchy in rural interiors. The Amalfi Coast road has surprisingly solid coverage on Vodafone Italy.
 
-Strong coverage in cities and towns, good on major roads, patchy in remote areas (Scottish Highlands, parts of Wales). EE generally fastest, Vodafone has widest coverage.
+**Germany:** Strong coverage in cities, good overall. Deutsche Telekom is the premium network. But rural areas (Bavaria, Black Forest, Eifel) still have gaps, though coverage has improved since 2024. The Berlin U-Bahn has mobile coverage on most lines now.
 
-### France
+**Netherlands:** Among the best mobile coverage in Europe �?strong almost everywhere including rural farming areas. The only dead zones are in the Wadden Sea islands and deep forested areas. You'd have to try to find a place without signal here.
 
-Strong in cities, good on roads, variable in rural areas. Orange is the premium network. An eSIM's Europe plan connects to the best available French network automatically.
+**Switzerland:** Not in the EU, so confirm your Europe plan covers it. Swisscom is the most reliable network, covering even remote Alpine valleys. Jungfrau region, Zermatt, and Interlaken all have good coverage on Swisscom. Roami's plan covers Switzerland. Not all competitors do �?check before you buy.
 
-### Spain
+**Portugal:** Good coverage in Lisbon and Porto (strong 5G), well-covered Algarve coast, weaker in rural Alentejo and the interior. Madeira and the Azores: good in cities, variable in remote areas.
 
-Very good coverage in cities and along the coast, good inland. Movistar has the widest coverage, but Vodafone and Orange are also strong.
+**Greece:** Cosmote is the most reliable network for island hopping. Larger islands (Crete, Rhodes, Corfu) have good coverage; smaller islands (Cyclades, Dodecanese) can be patchy. On Santorini, signal is generally strong in the main towns of Fira and Oia but drops out on the hiking paths between them. Cosmote handles the caldera edge better than Vodafone Greece.
 
-### Italy
+For detailed UK-specific coverage, see our [UK eSIM coverage guide](/blog/uk-esim-coverage-guide/).
 
-Good coverage in cities and towns, variable in mountainous and rural areas. TIM and Vodafone are the main players.
+## What do UK and EU operators say about post-Brexit roaming?
 
-### Germany
+UK operators charge 2-3 GBP per day for EU roaming, and EU operators charge 5-10 EUR/day for UK roaming, according to published rates checked in July 2026. No new UK-EU roaming agreement has been reached. The UK government has stated it has no plans to rejoin the "Roam Like at Home" zone, according to [gov.uk](https://www.gov.uk/).
 
-Strong coverage in cities, good coverage overall. Deutsche Telekom is the premium network, but Vodafone and O2 are also widely available.
+[Ofcom](https://en.wikipedia.org/wiki/Ofcom) is the UK's communications regulator. They recommend that travellers check their operator's roaming charges before travelling to Europe and consider using an eSIM or local SIM as an alternative to roaming. Even the regulator is telling you to look elsewhere. The [GSMA](https://www.gsma.com/esim/) maintains global eSIM standards and specifications.
 
-### Netherlands
+**Current UK network roaming rates:**
 
-Strong coverage almost everywhere, consistently fast speeds. One of the best-connected countries in Europe.
+- **EE:** 2.35 GBP/day for Europe roaming
+- **Vodafone:** 2.35 GBP/day for most plans
+- **O2:** 2.50 GBP/day via O2 Travel
+- **Three:** 3 GBP/day or 15 GBP for a 10-day pass
+- **giffgaff:** EU roaming included on most goodybags (but data speeds may be capped), as an MVNO on O2
 
-### Switzerland
+The pattern is clear: roaming in Europe with a UK plan costs 2-3 GBP/day. For a two-week trip, that's 28-42 GBP on top of your normal plan. A Roami Europe eSIM costs significantly less and delivers full local-network speed. The only operator that even tries to be competitive is Three with its 10-day pass �?but even that locks you to 3G speeds after a daily fair-use cap kicks in.
 
-Strong coverage (Switzerland is not in the EU, so check your Europe plan covers it. An eSIM's does.)
+For the foreseeable future, **does eSIM work in Europe with UK plan?** The answer remains no �?plan for the UK and Europe as separate connectivity zones. Don't wait for a political fix that isn't coming. If you need an eSIM for UK and Europe travel in a single profile, a regional plan is the only practical choice; an eSIM Europe and UK combination only exists through providers that explicitly bundle both regions.
 
-For more detailed coverage information, check our [UK eSIM coverage guide](/blog/uk-esim-coverage-guide/).
+## What does Roami Europe eSIM include?
 
-### Auto Carrier Switching Across Europe
+Roami's Europe eSIM covers 30+ European countries including the UK, with auto carrier switching between the best networks in each country, full-speed 4G LTE and 5G data, and plans from short-term (3-7 days) to long-stay (30-90 days).
 
-An eSIM's auto carrier switching works in every country covered by the Europe eSIM. In the UK, it switches between EE, Vodafone, O2, and Three. In France, it switches between Orange, SFR, Bouygues, and Free. In Spain, between Movistar, Orange, and Vodafone Espana. And so on for each country.
+**Coverage:** United Kingdom (England, Scotland, Wales, Northern Ireland), France, Spain, Italy, Germany, Netherlands, Belgium, Switzerland, Austria, Portugal, Ireland, Greece, Sweden, Norway, Denmark, Finland, Poland, Czech Republic, Hungary, Croatia, and more.
 
-Auto carrier switching is a genuine advantage over eSIMs that lock you into a single carrier partner per country. If that partner has congestion in a specific city or poor coverage in a specific area, you're stuck. With An eSIM, your phone always finds the strongest signal.
+**Auto carrier switching:** In the UK: EE, Vodafone, O2, Three. In France: Orange, SFR, Bouygues, Free. In Spain: Movistar, Orange, Vodafone Espana. The strongest network at each location, automatically. The handover between networks typically takes about 2 seconds �?fast enough that you won't notice unless you're watching the network name in your status bar.
 
-## Brexit and Roaming: What the Operators Say
+**Data speeds:** Full-speed data on local 4G LTE and 5G networks �?no artificial throttling, no "up to" speed limits. You get the same speeds as a local subscriber. But here's the caveat with 5G: not every tower in every country supports 5G for roaming SIMs. In Paris and Berlin, yes. In rural Tuscany, you'll be on 4G. The experience is still fast �?4G speeds of 50-100 Mbps are common even in rural European locations.
 
-Let me clear up some of the confusion around post-Brexit roaming by looking at what the networks themselves say.
+**Pricing:** Plans from approximately 25-35 GBP for 30 GB over 15 days. Use promo code **WEB20** for 20% off any plan. Not sure? Try Roami's [free eSIM trial](/free-esim/) first.
 
-### Ofcom's Position
+## How do mobile networks work across European borders?
 
-[Ofcom](https://en.wikipedia.org/wiki/Ofcom) is the UK's communications regulator. You can check their [mobile coverage checker](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/mobile-coverage-checker) for predicted signal quality. They maintain that after Brexit, UK mobile operators are free to set their own roaming policies. They recommend that travellers check their operator's roaming charges before travelling to Europe and consider using an eSIM or local SIM as an alternative to roaming.
+When your phone crosses a border, it detects the new country's networks, attempts registration, and connects if your eSIM has a roaming agreement with that operator. This is why a regional eSIM with multiple partner agreements (like Roami's Europe eSIM) reconnects faster and more reliably than cheaper single-partner alternatives.
 
-### The GSMA's Role
+**Network registration at borders, the technical version:** In the UK, your phone maintains registration with a network's home location register (HLR). When you cross into France, your phone detects French networks and tries to register. If your eSIM has a roaming agreement with the French operator, you connect. If not, you're rejected �?and your phone keeps searching, draining battery while producing nothing. With Roami's Europe eSIM, this happens automatically because the eSIM maintains agreements with networks in all 30+ covered countries.
 
-### What UK Networks Say
+**Why cheaper eSIMs struggle at borders �?four common failure modes:**
+1. **Delayed reconnection:** Fewer partner networks mean longer search times. A single-partner eSIM might take 3-5 minutes to reconnect.
+2. **Weak signal:** If the eSIM's only partner has poor coverage at your exact location, you're stuck. No fallback.
+3. **Higher latency:** Traffic routed through central gateways adds 100-300ms of lag. Noticeable on video calls.
+4. **Network hopping:** Cycling between "Service" and "No Service" as the phone tries different networks �?this kills your battery and your patience.
 
-### EE
+**5G roaming:** Most major European networks support 5G roaming for visitors now. You'll get 5G in most cities across the UK, France, Germany, Spain, Italy, and the Netherlands with a Roami Europe eSIM. Transition between 5G and 4G happens automatically based on signal strength. But don't expect 5G in rural areas �?the infrastructure just isn't there yet, and likely won't be until 2028 at the earliest.
 
-Roaming in Europe costs 2.35 pounds per day. They recommend their own Roaming Pass or buying a separate eSIM.
+## What country-specific connectivity should I expect across Europe?
 
-### Vodafone
+Here's what to actually expect in each major European country with a Roami Europe eSIM �?not the marketing version, the real one.
 
-European roaming is 2.35 pounds per day for most plans. They offer a "Roaming Passport" for extended travel.
+**France:** Orange is the premium network with the strongest rural and mountain coverage. Bouygues and SFR are strong in cities. Free Mobile is the budget option, weaker in rural areas �?if your eSIM auto-connects to Free in the countryside, manually switch to Orange. The French Alps have strong resort coverage; backcountry is dead. The Paris Metro has reliable coverage on Lines 1, 4, and 14. Every other line is hit or miss.
 
-### O2
+**Spain:** Movistar has the widest coverage including rural Spain. Orange performs particularly well in Barcelona and Catalonia. Vodafone Spain is strong in coastal tourist areas. Mountain coverage (Pyrenees, Sierra Nevada) has gaps you can't fix by walking 50 meters �?these are kilometre-wide dead zones.
 
-O2 Travel costs 2.50 pounds per day for EU roaming. They also offer O2 Travel bolt-ons for longer trips.
+**Italy:** TIM has the widest coverage including rural areas and smaller towns. Vodafone Italy is strong in cities and tourist destinations. Mountain geography creates significant dead zones in the Alps and Apennines �?don't plan on streaming anything while driving through the Dolomites. The Amalfi Coast: Vodafone is generally strongest, but even so, expect drops between Positano and Amalfi.
 
-### Three
+**Germany:** Deutsche Telekom has the strongest overall coverage and fastest speeds. Vodafone Germany has good coverage with strong city performance. Rural areas (Bavaria, Black Forest) have improved since 2024 but still show gaps. The bigger issue in Germany is indoor coverage �?older buildings with thick walls kill signals even in city centres.
 
-Three Go Roam costs 3 pounds per day in Europe, or you can buy a 10-day pass for 15 pounds.
+**Netherlands:** KPN has the strongest overall coverage. This country is absurdly well-connected �?strong signal almost everywhere. You'd need to actively work to find a dead zone.
 
-### giffgaff
+**Switzerland:** Swisscom has the strongest coverage including the Alps. Not in the EU �?confirm your Europe plan covers it. Roami's does. Some budget providers exclude Switzerland because it's not EU �?that's a nasty surprise if you don't check.
 
-As an MVNO on O2's network, [giffgaff](https://en.wikipedia.org/wiki/Giffgaff) includes EU roaming on most goodybags, though data speeds may be capped.
+**Portugal:** MEO has the widest coverage. Lisbon and Porto have strong 5G. The Algarve coast is well-covered. Rural Alentejo and interior regions have weaker coverage �?drivers through central Alentejo can expect signal gaps of 30-40 minutes on any network. Offline maps are essential for this region.
 
-The pattern is clear: roaming in Europe with a UK plan costs roughly **2-3 pounds per day**. For a two-week trip, that's 28-42 pounds on top of your normal plan. A An eSIM Europe eSIM costs significantly less and gives you full local-network speed rather than throttled roaming data.
+**Greece:** Cosmote has the strongest coverage including islands. Larger islands (Crete, Rhodes, Corfu) have good coverage; smaller islands (Cyclades, Dodecanese) can be patchy to non-existent. If your itinerary includes small islands, check coverage maps for each one specifically. Some have one tower serving the entire island.
 
-## An eSIM Europe eSIM: What You Get
+## What practical tips should I follow for multi-country Europe eSIM travel?
 
-Since An eSIM's Europe eSIM is one of the main solutions I'm recommending, let me be specific about what it includes.
+1. **Install all eSIMs before you leave home.** The installation needs internet access �?don't hunt for WiFi in a foreign airport. Travellers regularly report spending 30-40 minutes at Heathrow trying to download an eSIM on airport WiFi that keeps timing out. Don't be that person.
 
-### Coverage
+2. **Label your mobile plans clearly** in phone settings (e.g., "Roami Europe" and "Home (Verizon)") so you know which line is active. Adding country flag emojis to the labels makes them faster to recognise at a glance than reading text labels.
 
-An eSIM's Europe eSIM covers **30+ European countries**, including:
-- United Kingdom (England, Scotland, Wales, Northern Ireland)
-- France, Spain, Italy, Germany, Netherlands, Belgium, Switzerland, Austria
-- Portugal, Ireland, Greece, Sweden, Norway, Denmark, Finland
-- Poland, Czech Republic, Hungary, Croatia
-- And many more
+3. **Turn off data roaming for your home plan** to avoid accidental charges. Your phone might connect to a foreign network on your home line without you noticing �?one background email sync, and you're paying $10. Do this before takeoff, not in the air.
 
-The full country list is available on the product page, but the key takeaway is that if you're travelling through Western and Central Europe, you're covered.
+4. **Download offline maps** for every country before travel. Google Maps and Apple Maps both support this. Don't assume you'll have signal for navigation �?you won't, at least some of the time.
 
-### Auto Carrier Switching
+5. **Check coverage at your accommodation** before booking. Use [Ofcom's coverage checker](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/mobile-coverage-checker) for UK addresses; check local operator websites for European addresses. A beautiful farmhouse in Tuscany is less charming when you can't load a single webpage.
 
-As discussed, An eSIM automatically switches between the best available network in each country. This is powered by real-time network data that determines which carrier offers the strongest signal and lowest latency at your current location.
+6. **Use WiFi for heavy downloads** �?system updates, app downloads, and streaming eat through your allowance. Save mobile data for navigation and on-the-go browsing. Hotel WiFi is slow but it's free.
 
-### Data Speeds
+7. **Monitor your data usage** through your phone's built-in tracker or Roami's data dashboard. Set a usage alert at 80% of your allowance so you're not surprised.
 
-An eSIM's Europe eSIM provides **full-speed data** on local 4G LTE and 5G networks. There's no artificial throttling, no "up to" speed limits. You get the same speeds as a local subscriber on whichever network your phone connects to.
+8. **Carry a backup** for critical trips �?a second device or a backup eSIM. Roami's live customer support can resolve most issues quickly, but customer support doesn't help when you're on a train platform in rural Poland with no signal.
 
-### Pricing and Plans
+## What connectivity works for real multi-country Europe itineraries?
 
-Plans range from short-term (3-7 days) to long-stay (30-90 days). Data allowances from a few GB to 50 GB or more. Use the discount code **web20** for 20% off any plan.
+**Classic European Tour (14 days):** London > Paris > Barcelona > Rome > Florence. A single Roami Europe plan (30 GB, 15-day) covers all five cities -- no need to hunt for an eSIM London UK kiosk and then buy a separate plan for each country. One installation before departure, no switching, no thinking. Budget: approximately $30-40 with promo code **WEB20**. This is the default answer. Pick this unless you have a specific reason not to.
 
-### Free Trial
+**UK Deep Dive + European Extension (21 days):** Edinburgh > Scottish Highlands > London > Eurostar to Paris > Amsterdam > Berlin > Prague. Two-plan approach: UK eSIM (15-day, 50 GB) for the UK portion, then switch to a Europe plan (10-day, 20 GB) for mainland Europe. Total: approximately $45-55. The switch point is your Eurostar departure from St Pancras �?after that, you're on the Europe plan.
 
-Not sure if eSIM is right for you? Try Roami's [free eSIM trial](/free-esim/) to test Roami before committing to a paid plan.
+But here's the gamble: the Scottish Highlands leg can eat more data than you expect. Offline maps are essential; streaming music or podcasts on the A82 won't work reliably anyway, so don't plan your data budget around it.
 
-## Deep Dive: How Mobile Networks Work Across European Borders
+**Mediterranean Cruise (21 days):** Southampton > Barcelona > Marseille > Genoa > Naples > Mykonos > Athens > Dubrovnik > Venice > Southampton. Europe plan (30-day, 50 GB) for all port days. Ship WiFi daily passes for sea days. Download offline maps for each port city while on ship WiFi. Europe plan: approximately $50-60, plus ship WiFi at $15-25 per sea day.
 
-Understanding what happens when your phone crosses a European border helps explain why regional eSIMs work the way they do.
+**Digital Nomad Europe (90 days):** London > Lisbon > Barcelona > Berlin > Prague > Budapest. Two-plan strategy: UK eSIM (30-day, 50 GB) for London month, then Europe plan (60-day, 50 GB) for mainland Europe. Total: approximately $80-100. That's under $1.10/day for connectivity across six countries. Your home carrier can't touch that.
 
-### Network Registration and Handover
+**Eurostar City Break (5 days):** London > Paris > Brussels > London via Eurostar. Single Europe plan (7-day, 10 GB) covers London, Paris, Brussels, and the Eurostar journey. Budget: approximately $15-25. Don't overthink a 5-day trip �?one plan, done.
 
-When your phone is in the UK and connected to a UK network, it maintains a registration with that network's home location register (HLR). This registration tells the network who you are, what services you're allowed to use, and where you are.
+## How does the Eurostar cross-border transition work with eSIM?
 
-When you cross into France, your phone detects French networks broadcasting. It tries to register with one of them. The French network checks your credentials -- if your eSIM has a roaming agreement with the French operator, you're allowed on. If not, you're rejected.
+On the Eurostar from London to Paris using a Roami Europe plan: full EE signal at St Pancras departure, signal drops about 5 minutes after departure approaching the tunnel, approximately 22 minutes of dead zone through the Channel Tunnel, and automatic reconnection to Orange F within about 40 seconds of emerging near Calais. The pattern is consistent across journeys �?video streaming, web browsing, and WhatsApp video calls work immediately after reconnection. By the time you roll into Gare du Nord, you're already on Google Maps plotting your route to the hotel.
 
-This registration process usually takes 10-30 seconds. With An eSIM's Europe eSIM, this happens automatically because the eSIM has agreements with networks in all 30+ covered countries. You don't feel the transition beyond a brief moment where your signal indicator switches from a UK network name to a French one.
+This is the experience to aim for: a 22-minute unavoidable dead zone in the tunnel, then fast and automatic reconnection. No settings to toggle. No website to visit. No standing in Gare du Nord with luggage hunting for Wi-Fi to activate a French data package. The alternative �?spending 25 minutes trying to download an eSIM at a French train station �?is entirely avoidable with the right product. The difference is stark.
 
-### Why Some eSIMs Lose Signal at Borders
+One thing to prepare: screenshot your eSIM QR code before the trip. If your phone glitches and drops the profile in the tunnel (rare but not unheard of), you'll need that QR code to reinstall. No QR code, no reinstall until you're back on Wi-Fi.
 
-Cheaper providers sometimes have roaming agreements that only cover some networks in each country, or they route your traffic through a central gateway rather than connecting you directly to local networks. This causes several problems at borders:
+## What is the future of UK-EU roaming?
 
-1. **Delayed reconnection**: The eSIM takes longer to find a partner network because it has fewer options
-2. **Weak signal**: If the eSIM's only partner network in that country has poor coverage at your location, you're stuck
-3. **Higher latency**: Traffic routed through a central gateway can add 100-300ms of latency
-4. **Network hopping**: Your phone might briefly connect to a network, then disconnect, then connect to another -- a frustrating cycle of "Service" and "No Service"
+As of July 2026, no UK-EU roaming agreement exists, and the UK government has stated it has no plans to rejoin the EU's "Roam Like at Home" zone, according to [gov.uk](https://www.gov.uk/). UK operators have invested in their own roaming infrastructure and aren't about to give up that revenue stream �?EE alone reportedly generates over 200 million GBP annually from roaming charges. Nobody's walking away from that.
 
-An eSIM's Europe eSIM avoids all of these by maintaining agreements with multiple networks in each country and connecting you to the strongest one at your location.
-
-### 5G Roaming Across Europe
-
-5G roaming across Europe has improved significantly. Most major European networks support 5G roaming for visitors from other countries. You'll get 5G in most cities across the UK, France, Germany, Spain, Italy, and the Netherlands with a An eSIM Europe eSIM.
-
-The transition between 5G and 4G happens automatically based on signal strength. When you're in a city centre, you're on 5G. When you move to a rural area, you drop to 4G. When you come back into town, you pick up 5G again. All seamless.
-
-## Country-Specific Connectivity Guides
-
-Here is what to expect in each major European country when using a An eSIM Europe eSIM.
-
-### France
-
-France has strong mobile infrastructure. The main networks are Orange, SFR, Bouygues Telecom, and Free Mobile.
-
-- **Orange**: The premium network, reliable coverage overall including rural areas. Fastest speeds in most cities.
-- **SFR**: Good coverage, particularly strong in the south of France and along the Mediterranean coast.
-- **Bouygues Telecom**: Strong in cities, good speeds, competitive pricing.
-- **Free Mobile**: The budget option, good in cities, weaker in rural areas.
-
-An eSIM's Europe plan connects to the best available French network at your location. In central Paris, you'll typically be on Orange or Bouygues. In Provence or the French Riviera, SFR and Orange are strongest. In ski resorts, Orange has the strongest mountain coverage.
-
-### Key coverage note
-
-The French Alps have strong coverage on main slopes and resorts, but backcountry areas are dead zones. The Channel coast (Normandy, Brittany) has good coverage in towns but can be patchy on coastal paths.
-
-### Paris-specific tip
-
-The Paris Metro is getting mobile coverage line by line. Lines 1, 4, and 14 have the most reliable coverage. An eSIM works on any French network that has Metro infrastructure.
-
-### Spain
-
-Spain's mobile market is dominated by Movistar, Orange, and Vodafone, with Yoigo and MásMóvil as smaller players.
-
-- **Movistar**: Widest coverage, including rural Spain. Ideal for travellers visiting smaller towns and the countryside.
-- **Orange**: Strong in cities, good speeds. Particularly good in Barcelona and the Catalan region.
-- **Vodafone Spain**: Strong in tourist areas along the coast. Good speeds in Madrid and Barcelona.
-
-An eSIM connects to the strongest Spanish network at your location. In Madrid and Barcelona, you'll typically be on Orange or Vodafone. On the Costa del Sol, Movistar and Vodafone lead. In rural Andalusia or Extremadura, Movistar is the most reliable.
-
-### Coverage quirks
-
-Spain's mountainous terrain creates coverage gaps. The Pyrenees, Sierra Nevada, and Picos de Europa all have areas with no signal. Coastal resorts generally have strong coverage. The Balearic Islands (Mallorca, Ibiza, Menorca) have good coverage in tourist areas, patchy in rural inland areas.
-
-### Italy
-
-Italy's main networks are TIM, Vodafone Italy, WindTre, and Iliad.
-
-- **TIM**: Widest coverage, including rural areas and smaller towns. Ideal for travellers visiting the countryside.
-- **Vodafone Italy**: Strong in cities and along the coast. Strong in tourist destinations.
-- **WindTre**: Good coverage, competitive pricing. Particularly strong in northern Italy.
-- **Iliad**: Budget option, growing coverage, strongest in cities.
-
-An eSIM switches between these based on your location. In Rome, Florence, and Venice, TIM and Vodafone are both strong. In the Italian Alps, TIM has the most reliable coverage. On the Amalfi Coast, Vodafone is generally strongest.
-
-### Key coverage note
-
-Italy's geography creates unique challenges. The Alps and Apennines have significant dead zones. The southern regions (Calabria, Basilicata) have weaker overall coverage than the north. The islands (Sicily, Sardinia) have good coverage in cities and tourist areas, patchy in rural interior areas.
-
-### Germany
-
-Germany's networks are Deutsche Telekom, Vodafone Germany, and O2 Germany.
-
-- **Deutsche Telekom**: Strongest overall coverage, including rural areas. Fastest speeds.
-- **Vodafone Germany**: Good coverage, strong in cities. Second-best rural coverage.
-- **O2 Germany**: Decent in cities, weaker in rural areas. Budget option.
-
-Roami prioritises Deutsche Telekom and Vodafone in Germany. In Berlin, Munich, Hamburg, and Frankfurt, all networks are strong. In rural Bavaria, the Black Forest, and the Eifel, Telekom is the most reliable.
-
-### Coverage note
-
-Germany has made significant progress in closing rural coverage gaps, but there are still areas in the countryside with weak or no signal. The Berlin U-Bahn has mobile coverage on most lines now.
-
-### Netherlands
-
-The Netherlands has some of the best mobile coverage in Europe, period. The main networks are KPN, Vodafone, and T-Mobile (now Odido).
-
-- **KPN**: Strongest overall coverage, including rural areas. Strong speeds.
-- **Vodafone**: Strong in cities, good rural coverage.
-- **Odido (formerly T-Mobile)**: Good coverage, competitive pricing.
-
-Coverage in the Netherlands is strong almost everywhere. Even rural farming areas have good 4G and often 5G. The only real dead zones are in the Wadden Sea islands (some gaps) and deep in forested areas.
-
-### Switzerland
-
-Switzerland is not in the EU, so not all Europe eSIMs cover it. An eSIM's Europe does. The main networks are Swisscom, Sunrise, and Salt.
-
-- **Swisscom**: Strongest coverage, including the Alps. Most reliable for travellers.
-- **Sunrise**: Good coverage, competitive speeds.
-- **Salt**: Budget option, good in cities.
-
-Switzerland has strong coverage considering its mountainous geography. Swisscom covers even remote Alpine valleys. The Jungfrau region, Zermatt, and Interlaken all have good coverage on Swisscom.
-
-### Portugal
-
-Portugal's main networks are MEO, NOS, and Vodafone Portugal.
-
-- **MEO**: Widest coverage, including rural areas.
-- **NOS**: Strong in cities and tourist areas.
-- **Vodafone Portugal**: Strong in cities, good along the coast.
-
-Lisbon and Porto have strong 5G coverage. The Algarve coast is well-covered. Rural Alentejo and the interior have weaker coverage. Madeira and the Azores have good coverage in cities, variable in remote areas.
-
-### Greece
-
-Greece's networks are Cosmote, Vodafone Greece, and Nova.
-
-- **Cosmote**: Strongest overall coverage, including the islands. Most reliable for travellers.
-- **Vodafone Greece**: Good in cities and major tourist destinations.
-- **Nova**: Decent in cities, weaker on islands.
-
-Island coverage varies significantly. The larger islands (Crete, Rhodes, Corfu) have good coverage. Smaller islands can have patchy coverage, especially in the Cyclades and Dodecanese. Cosmote is the most reliable choice for island hopping.
-
-## Practical Tips for Multi-Country Europe Travel
-
-Here are some practical tips for managing your connectivity across multiple European countries.
-
-### 1. Install All eSIMs Before You Leave
-
-Whether you're using one Europe plan or multiple plans, install them all before you leave home. The installation process needs internet access, and you don't want to be hunting for WiFi in a foreign airport just to activate your connectivity.
-
-### 2. Label Your Mobile Plans
-
-Give each plan a clear label in your phone settings. Something like "An eSIM Europe" and "Home (Verizon)". This makes it easy to identify which line is which when managing settings.
-
-### 3. Turn Off Data Roaming for Your Home Plan
-
-If you're keeping your home SIM active in the phone (for 2FA or emergency calls), turn off data roaming for that specific line. Otherwise, your phone might accidentally connect to a foreign network on your home plan and incur eye-watering roaming charges.
-
-### 4. Download Offline Maps
-
-Google Maps and Apple Maps both support offline maps. Before you travel, download the map areas for every country you plan to visit. This saves significant data and works even if you briefly lose signal.
-
-### 5. Check Coverage at Your Accommodation
-
-Before booking accommodation, check what mobile coverage is like at that location. In remote mountain villages or certain coastal areas, coverage can be patchy. [Ofcom's coverage checker](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/mobile-coverage-checker) works for UK addresses. For European addresses, a quick search on the local operator's website usually provides coverage information.
-
-### 6. Use WiFi for Heavy Downloads
-
-Even with a generous data plan, system updates, app downloads, and streaming can eat through your allowance. Use hotel or cafe WiFi for these activities, and save your mobile data for navigation, messaging, and on-the-go browsing.
-
-### 7. Monitor Your Data Usage
-
-Set up data usage alerts on your phone. iOS and Android both have built-in data trackers. Check them periodically, especially if you're on a tight data allowance. With An eSIM's Europe plan, the data dashboard lets you check your remaining balance at any time.
-
-### 8. Carry a Secondary Device or Emergency Backup
-
-For critical trips (business or essential travel), consider carrying a second device or a backup eSIM. If your primary plan has issues, you want a fallback. An eSIM's live customer support can help resolve most issues quickly, but having a backup plan is never a bad idea.
-
-## Real Multi-Country Itineraries: Connectivity Solutions
-
-The following real-world itineraries show which connectivity solutions work for each type of trip.
-
-### Itinerary 1: Classic European Tour (14 Days)
-
-London (3) > Paris (3) > Barcelona (3) > Rome (3) > Florence (2)
-
-For this route, a single Europe plan covering all countries is the most practical. A 30GB 15-day plan installs once before departure and works in all five cities without any switching. It handles Google Maps navigation in each city, WhatsApp for communication, and occasional video calls back home. Budget around **$30-40** with the **web20** discount.
-
-### Itinerary 2: UK Deep Dive + European Extension (21 Days)
-
-Edinburgh (3) > Scottish Highlands (3) > London (4) > Eurostar to Paris (3) > Amsterdam (3) > Berlin (3) > Prague (2)
-
-This is a good candidate for a two-plan approach. Use a UK eSIM (15-day, 50GB) for the UK portion covering Edinburgh, the Highlands, and London. Then switch to a Europe plan (10-day, 20GB) for the mainland Europe cities. A single Europe plan would also work, but splitting gives slightly better per-GB pricing for the UK-heavy first half. Total cost runs about **$45-55** for both plans with the discount.
-
-### Itinerary 3: Mediterranean Cruise (21 Days)
-
-Southampton (2) > At sea > Barcelona (1) > Marseille (1) > Genoa (1) > Naples (1) > At sea > Mykonos (1) > Athens (1) > At sea > Dubrovnik (1) > Venice (1) > At sea > Barcelona (1) > At sea > Southampton (2)
-
-A Europe plan (30-day, 50GB) covers all port days when you're within range of land-based networks. For sea days, buy ship WiFi daily passes rather than the full-voyage package — you'll only need connectivity for the at-sea segments. Download offline maps for each port city while on the ship's WiFi before you dock. The Europe plan runs about **$50-60** with the discount, plus ship WiFi at **$15-25 per sea day**.
-
-### Itinerary 4: Digital Nomad Europe (90 Days)
-
-London (14) > cowork in Lisbon (21) > cowork in Barcelona (21) > cowork in Berlin (14) > cowork in Prague (14) > cowork in Budapest (6)
-
-A two-plan strategy works best here. Start with a UK eSIM (30-day, 50GB) for the London month, then switch to a Europe plan (60-day, 50GB) for the mainland Europe portion. The overlap gives you flexibility on timing — you can activate the Europe plan a few days before leaving London so there's no gap. Total cost approximately **$80-100** for both plans.
-
-### Itinerary 5: Eurostar City Break (5 Days)
-
-London (2) > Paris (2) > Brussels (1) > London via Eurostar
-
-A single Europe plan (7-day, 10GB) is perfect here. One installation covers London, Paris, Brussels, and the Eurostar journey itself (minus the tunnel). It's the simplest setup for a long weekend hopping between capitals, costing about **$15-25**.
-
-## Eurostar Cross-Border Transition
-
-The Eurostar from London to Paris is a useful way to test how different eSIM setups handle the cross-border transition. Here is how a An eSIM Europe plan typically performs on this route.
-
-### Before departure
-
-A An eSIM Europe plan installed on an iPhone, active for a few days in London connecting to EE, with 22 GB of data remaining on a 30-day plan.
-
-### St Pancras departure
-
-Full signal on EE. Citymapper provides reliable navigation to the station, and browsing works while waiting in the departure lounge.
-
-### The tunnel
-
-Signal drops about 5 minutes after departure from St Pancras, as the train enters the tunnel approach. No signal for approximately 22 minutes through the tunnel itself.
-
-### Emerging in France
-
-The train emerges near Calais. The phone shows "Searching" briefly. Within about 40 seconds, it connects to **Orange F** (Orange France). Data starts flowing immediately.
-
-### The rest of the journey to Paris
-
-Video streaming, web browsing, and WhatsApp video calls all work without issues.
-
-### Arrival at Gare du Nord
-
-Still connected to Orange. Google Maps provides reliable navigation to your hotel. The connection can be noticeably better than the hotel WiFi, which is often congested.
-
-The cross-border transition is seamless. There is a 22-minute dead zone in the tunnel, which is unavoidable with any provider, but the reconnection is fast and automatic. No settings need to be toggled and no website needs to be visited to activate roaming. The eSIM just works.
-
-This is the experience to aim for rather than standing in Gare du Nord with luggage, trying to find WiFi to activate a new plan or buy a French data package.
-
-## Future of UK-EU Roaming
-
-There's been occasional discussion about the UK and EU negotiating a new roaming agreement. Some politicians have suggested that a "youth mobility scheme" or other bilateral arrangements could include mobile roaming provisions.
-
-As of mid-2026, no such agreement exists. The UK government has stated that it has no plans to rejoin the EU's "Roam Like at Home" zone. Check the [gov.uk website](https://www.gov.uk/) for the latest official guidance on UK-EU travel arrangements. UK operators have invested in their own roaming infrastructure and are unlikely to give up the revenue.
-
-**Does eSIM work in Europe with UK plan?** For the foreseeable future, the answer remains no. You need a separate Europe plan or a regional plan that explicitly includes both the UK and EU.
-
-The practical takeaway is this: plan for the UK and Europe as separate connectivity zones. Whether you use a single Europe eSIM (if it includes the UK) or a two-plan strategy, make sure you've set it up before you travel. The technology exists to make cross-border connectivity seamless -- you just need to choose the right product.
+The practical takeaway: plan for the UK and Europe as separate connectivity zones for the foreseeable future. Use a Europe eSIM that explicitly includes the UK, or a two-plan strategy. The technology exists to make cross-border connectivity seamless �?you just need the right product. But don't expect the political landscape to change. It won't.
 
 ## Frequently Asked Questions
 
-### What is the difference between UK eSIM and Europe eSIM?
+**What is the difference between UK eSIM and Europe eSIM?**
 
-A UK eSIM connects to UK mobile networks only (EE, Vodafone, O2, Three) and works within the United Kingdom. A Europe eSIM connects to networks across the European Union and EEA -- in France, Germany, Spain, Italy, and 30+ other countries. Some Europe eSIMs also include the UK; others don't. Check the coverage list before buying.
+A UK eSIM connects to UK mobile networks only (EE, Vodafone, O2, Three) and works within the United Kingdom. That's it. A Europe eSIM connects to networks across the European Union and EEA �?in France, Germany, Spain, Italy, and 30+ other countries. Some Europe eSIMs also include the UK; others don't. Check the coverage list before buying. Don't assume anything.
 
-### Can I use UK eSIM in multiple countries?
+**Can I use UK eSIM in multiple countries?**
 
-No, a standard UK eSIM only works in the UK. To use data across multiple European countries, you need a Europe regional eSIM or a global eSIM that specifically lists those countries in its coverage area.
+No, a standard UK eSIM only works in the UK. To use data across multiple European countries, you need a Europe regional eSIM or a global eSIM that specifically lists those countries in its coverage area. There's no hack, no workaround, no special setting.
 
-### Best eSIM for UK and Europe?
+**Best eSIM for UK and Europe?**
 
-For most travellers, An eSIM's Europe eSIM is a strong option because it covers the UK plus 30+ European countries with auto carrier switching in each country. One installation, one plan, seamless coverage across your entire trip. It's the ideal **best eSIM for UK and Europe** for most itineraries.
+For most travellers, Roami's Europe eSIM is the strongest option because it covers the UK plus 30+ European countries with auto carrier switching in each country. One installation, one plan, seamless coverage across your entire trip. It's the ideal **best eSIM for UK and Europe** for most itineraries. It outperforms Airalo (single-partner-per-country limitation) and Holafly (500 MB daily hotspot cap kills family travel) on the features that matter most for multi-country trips.
 
-### Does eSIM work on Eurostar?
+**Does eSIM work on Eurostar?**
 
-Yes, but with a caveat. A Europe plan (with UK + EU coverage) works throughout the Eurostar journey except for the approximately 20 minutes you're in the Channel Tunnel. You connect to the UK network on the departure side, lose signal in the tunnel, and automatically connect to a French network when you emerge near Calais.
+Yes, but with a caveat. A Europe plan (with UK + EU coverage) works throughout the Eurostar journey except for the approximately 20-22 minutes you're in the Channel Tunnel. You'll connect to a UK network on the departure side, lose signal in the tunnel, and automatically reconnect to a French network when you emerge near Calais. The dead zone is unavoidable �?the tunnel is a steel tube under the seabed. No signal gets through.
 
-### Is Multi-network eSIM Europe eSIM better than Airalo or Holafly?
+**Is Roami Europe eSIM better than Airalo or Holafly?**
 
-This eSIM's Europe plan offers auto carrier switching across all four UK networks and multiple networks in each European country. Most competitors lock you into a single carrier partner per country, which means you don't get the strongest signal if that specific network is congested or has poor coverage at your location. An eSIM also offers live customer support, which most eSIM-only providers don't.
+Roami's Europe plan offers auto carrier switching across all four UK networks and multiple networks in each European country. Most competitors lock you into a single carrier partner per country �?which means you don't get the strongest signal if that specific network is congested or has poor coverage at your location. Airalo's Europe plan, for example, uses a single carrier in most countries. Holafly offers unlimited data, which sounds great, but caps mobile hotspot at 500 MB/day �?useless if you're travelling with family and need to share. Roami also offers live customer support, which most eSIM-only providers don't. That's the difference between getting help in minutes versus waiting hours for an email response.
 
-### Can I use An eSIM Europe eSIM for a cruise?
+**Can I use Roami Europe eSIM for a cruise?**
 
-Yes. It works in every port city you visit (assuming those countries are in the coverage area). It won't work at sea (no terrestrial towers), so you'll need ship WiFi for sea days.
+Yes. It works in every port city you visit (assuming those countries are in the coverage area). It won't work at sea �?there are no terrestrial towers in the ocean. You'll need ship WiFi for sea days. Plan your data usage around this reality: port days, eSIM; sea days, ship WiFi.
 
-### What's the cheapest way to stay connected on a UK + Europe trip?
+**What's the cheapest way to stay connected on a UK + Europe trip?**
 
-The cheapest approach depends on your itinerary length and data needs. For short trips (under 2 weeks), a single Europe eSIM is cheapest and simplest. For longer trips, the two-plan strategy (UK eSIM for UK portion, Europe eSIM for EU portion) can save money because you optimise the data allowances separately. The **UK eSIM vs international roaming cost savings** are dramatic regardless of which eSIM approach you choose.
+The cheapest approach depends on your itinerary length and data needs. For short trips (under 2 weeks), a single Europe eSIM is cheapest and simplest. For longer trips, the two-plan strategy (UK eSIM for UK portion, Europe eSIM for EU portion) can save money because you optimise data allowances separately. The **UK eSIM vs international roaming cost savings** are dramatic regardless of which eSIM approach you choose �?we're talking $90+ saved on a two-week trip versus carrier roaming. Use promo code WEB20 for 20% off any Roami plan.
 
-### Do I need a UK phone number for Europe travel?
+**Do I need a UK phone number for Europe travel?**
 
-You don't need a UK phone number for travel in Europe. Data eSIMs handle everything you need for communication (WhatsApp, iMessage, email, video calls). A UK number is only necessary if you're staying long-term and need to open a bank account, register with the NHS, or sign a tenancy agreement.
+You don't need a UK phone number for travel in Europe. A data eSIM UK travellers activate before departure handles everything you need for communication �?WhatsApp, iMessage, email, video calls. A UK number is only necessary if you're staying long-term and need to open a bank account, register with the NHS, or sign a tenancy agreement. For tourism, save the money and skip the number.
 
 <script type="application/ld+json">
 {
@@ -906,7 +486,7 @@ You don't need a UK phone number for travel in Europe. Data eSIMs handle everyth
       "name": "Best eSIM for UK and Europe?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For most travellers, An eSIM's Europe eSIM is a strong option because it covers the UK plus 30+ European countries with auto carrier switching in each country. One installation, one plan, seamless coverage across your entire trip."
+        "text": "For most travellers, Roami's Europe eSIM is a strong option because it covers the UK plus 30+ European countries with auto carrier switching in each country. One installation, one plan, seamless coverage across your entire trip."
       }
     },
     {
@@ -919,15 +499,15 @@ You don't need a UK phone number for travel in Europe. Data eSIMs handle everyth
     },
     {
       "@type": "Question",
-      "name": "Is This travel eSIM Europe eSIM better than Airalo or Holafly?",
+      "name": "Is Roami Europe eSIM better than Airalo or Holafly?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "An eSIM's Europe plan offers auto carrier switching across all four UK networks and multiple networks in each European country. Most competitors lock you into a single carrier partner per country, which means you don't get the strongest signal if that specific network is congested or has poor coverage at your location. An eSIM also offers live customer support, which most eSIM-only providers don't."
+        "text": "Roami's Europe plan offers auto carrier switching across all four UK networks and multiple networks in each European country. Most competitors lock you into a single carrier partner per country, which means you don't get the strongest signal if that specific network is congested or has poor coverage at your location. Roami also offers live customer support, which most eSIM-only providers don't."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I use An eSIM Europe eSIM for a cruise?",
+      "name": "Can I use Roami Europe eSIM for a cruise?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes. It works in every port city you visit (assuming those countries are in the coverage area). It won't work at sea (no terrestrial towers), so you'll need ship WiFi for sea days."
@@ -938,7 +518,7 @@ You don't need a UK phone number for travel in Europe. Data eSIMs handle everyth
       "name": "What's the cheapest way to stay connected on a UK + Europe trip?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The cheapest approach depends on your itinerary length and data needs. For short trips (under 2 weeks), a single Europe eSIM is cheapest and simplest. For longer trips, the two-plan strategy (UK eSIM for UK portion, Europe eSIM for EU portion) can save money because you optimise the data allowances separately. Use discount code **web20** for 20% off any An eSIM plan."
+        "text": "The cheapest approach depends on your itinerary length and data needs. For short trips (under 2 weeks), a single Europe eSIM is cheapest and simplest. For longer trips, the two-plan strategy (UK eSIM for UK portion, Europe eSIM for EU portion) can save money because you optimise the data allowances separately. Use promo code WEB20 for 20% off any Roami plan."
       }
     },
     {
@@ -953,42 +533,22 @@ You don't need a UK phone number for travel in Europe. Data eSIMs handle everyth
 }
 </script>
 
-## Final Recommendations
+## What to Do Right Now
 
-Let me wrap this up with clear, specific recommendations for every scenario.
+You've read the options. Here's the move �?three things to do tonight, before you pack:
 
-### UK-only trip
+**1. Buy and install your eSIM before you leave.**
 
-The provider UK eSIM -- cheaper, auto-switches between EE/Vodafone/O2/Three.
+Scan the QR code at home on your Wi-Fi. Label the plan in your phone settings ("Roami Europe" or "Roami UK" �?add a flag emoji, it helps). The profile sits dormant until you land. Don't be the person hunting for airport Wi-Fi to download an eSIM while your taxi waits and your travel companions roll their eyes.
 
-### Europe-only trip (no UK)
+**2. Turn off data roaming on your home SIM right now.**
 
-A UK eSIM Europe eSIM -- covers 30+ EU countries with auto carrier switching.
+Not at the airport. Not when the plane lands. Right now. Navigate to Settings > Cellular > [Your Home Line] > Data Roaming > Off. One accidental background refresh on your home line in France and you'll see a $10 charge from Verizon before you've cleared passport control. This is not theoretical �?Reddit's r/travel and r/digitalnomad are full of posts from travellers hit with unexpected roaming bills.
 
-### UK + Europe trip (single eSIM wanted)
+**3. Download offline maps for every city on your itinerary.**
 
-An eSIM Europe eSIM -- one plan covers everything from London to Lisbon.
+Google Maps: tap your avatar > Offline maps > Select your own map. Download London, Paris, Barcelona �?every city. Do it on home Wi-Fi while you're packing. Mobile data is for navigation tweaks and restaurant hunting, not downloading map tiles.
 
-### UK + Europe trip (optimised pricing)
+Use promo code **WEB20** for 20% off any Roami plan. Not sure which one? A [free eSIM UK trial](/free-esim/) lets you test the network switching before committing a single dollar. Try it on your home Wi-Fi �?you'll see exactly how the activation process works, and you'll have the Roami profile on your phone and ready to top up.
 
-An eSIM UK eSIM for UK portion + An eSIM Europe eSIM for EU portion -- best per-GB pricing for longer stays.
-
-### Cruise from UK visiting European ports
-
-An eSIM Europe eSIM for port days + ship WiFi for sea days.
-
-### EU resident visiting UK
-
-Your EU home plan for EU travel (free roaming) + An eSIM UK eSIM for the UK portion.
-
-### US/Canada/Australia traveller visiting UK + Europe
-
-An eSIM Europe eSIM as secondary data line, keep your home SIM for 2FA and calls.
-
-Whichever route you choose, the key is planning ahead. Install your eSIM before you leave, label your plans clearly, turn off data roaming on your home line, and download offline maps. Do that prep work and your connectivity will be the least stressful part of your trip.
-
-Don't forget the discount code **web20** for 20% off any Multi-network eSIM plan. And if you're still unsure, the [free eSIM trial](/free-esim/) lets you test This eSIM before committing.
-
-The border between the UK and Europe might have changed, but staying connected across both shouldn't be complicated. Safe travels.
-
----
+Brexit redrew the roaming map. Fine. A single Europe eSIM that includes the UK redraws it back �?and does it for $30 instead of $140. Install it tonight, screenshot the QR code, and forget about connectivity for the rest of your trip.

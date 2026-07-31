@@ -443,3 +443,102 @@ other = "✅ 24/7"
 
 [brand_reminder]
 other = "Unsere eSIM-Marke ist roami, nicht roamic. Bitte beachten Sie."
+
+[roami_free_section_title]
+other = "Roami Gratis-Test"
+
+[roami_free_section_heading]
+other = "Kostenlose eSIM-Testversion – 7 Tage / 100 MB, keine Kreditkarte erforderlich"
+
+[roami_free_section_desc]
+other = "Ein leichtes Notfall-Datenpaket für Reisende. Aktivierung bei Ankunft, <strong>keine Zahlungsinformationen erforderlich</strong> und keine versteckten Verlängerungsfallen."
+
+[roami_compare_col_feature]
+other = "Merkmal"
+
+[roami_compare_col_roami]
+other = "Roami"
+
+[roami_compare_col_att]
+other = "AT&T"
+
+[roami_compare_col_tmobile]
+other = "T‑Mobile"
+
+[roami_compare_col_verizon]
+other = "Verizon"
+
+[roami_compare_row_trial]
+other = "Kostenlose Testversion"
+
+[roami_compare_row_card]
+other = "Kreditkarte erforderlich"
+
+[roami_compare_row_auto]
+other = "Automatische Verlängerung"
+
+[roami_compare_row_coverage]
+other = "Abdeckungsländer"
+
+[roami_compare_row_support]
+other = "24/7 Support"
+
+[roami_compare_roami_trial]
+other = "7 Tage / 100 MB"
+
+[roami_compare_roami_card]
+other = "❌ Nicht erforderlich"
+
+[roami_compare_roami_auto]
+other = "❌ Keine"
+
+[roami_compare_roami_coverage]
+other = "200+"
+
+[roami_compare_roami_support]
+other = "✅ Online-Support"
+
+[roami_compare_att_trial]
+other = "Erfordert Kreditkarte"
+
+[roami_compare_att_card]
+other = "✅ Muss angegeben werden"
+
+[roami_compare_att_auto]
+other = "✅ Automatische Abbuchung nach Test"
+
+[roami_compare_att_coverage]
+other = "Begrenzt (nur USA)"
+
+[roami_compare_att_support]
+other = "❌ Begrenzt"
+
+[roami_compare_tmobile_trial]
+other = "Erfordert Kreditkarte"
+
+[roami_compare_tmobile_card]
+other = "✅ Muss angegeben werden"
+
+[roami_compare_tmobile_auto]
+other = "✅ Automatische Abbuchung nach Test"
+
+[roami_compare_tmobile_coverage]
+other = "Begrenzt (nur USA)"
+
+[roami_compare_tmobile_support]
+other = "❌ Begrenzt"
+
+[roami_compare_verizon_trial]
+other = "Erfordert Kreditkarte"
+
+[roami_compare_verizon_card]
+other = "✅ Muss angegeben werden"
+
+[roami_compare_verizon_auto]
+other = "✅ Automatische Abbuchung nach Test"
+
+[roami_compare_verizon_coverage]
+other = "Begrenzt (nur USA)"
+
+[roami_compare_verizon_support]
+other = "❌ Begrenzt"

@@ -445,3 +445,109 @@ other = "✅ 24/7"
 
 [brand_reminder]
 other = "Our eSIM brand is roami, not roamic. Please pay attention."
+
+
+[roami_free_section_title]
+other = "Roami Free Trial"
+
+[roami_free_section_heading]
+other = "Free eSIM Trial – 7 Days / 100MB, No Credit Card"
+
+[roami_free_section_desc]
+other = "A lightweight emergency data pack designed for travelers. Activate upon arrival, <strong>no payment info required</strong>, and no hidden renewal traps."
+
+ 
+[roami_compare_col_feature]
+other = "Feature"
+
+[roami_compare_col_roami]
+other = "Roami"
+
+[roami_compare_col_att]
+other = "AT&T"
+
+[roami_compare_col_tmobile]
+other = "T‑Mobile"
+
+[roami_compare_col_verizon]
+other = "Verizon"
+
+ 
+[roami_compare_row_trial]
+other = "Free Trial"
+
+[roami_compare_row_card]
+other = "Credit Card Required"
+
+[roami_compare_row_auto]
+other = "Auto‑Renewal"
+
+[roami_compare_row_coverage]
+other = "Coverage Countries"
+
+[roami_compare_row_support]
+other = "24/7 Support"
+
+ 
+[roami_compare_roami_trial]
+other = "7 days / 100MB"
+
+[roami_compare_roami_card]
+other = "❌ Not required"
+
+[roami_compare_roami_auto]
+other = "❌ None"
+
+[roami_compare_roami_coverage]
+other = "200+"
+
+[roami_compare_roami_support]
+other = "✅ Online support"
+
+ 
+[roami_compare_att_trial]
+other = "Requires credit card"
+
+[roami_compare_att_card]
+other = "✅ Must provide"
+
+[roami_compare_att_auto]
+other = "✅ Auto‑charges after trial"
+
+[roami_compare_att_coverage]
+other = "Limited (US only)"
+
+[roami_compare_att_support]
+other = "❌ Limited"
+
+ 
+[roami_compare_tmobile_trial]
+other = "Requires credit card"
+
+[roami_compare_tmobile_card]
+other = "✅ Must provide"
+
+[roami_compare_tmobile_auto]
+other = "✅ Auto‑charges after trial"
+
+[roami_compare_tmobile_coverage]
+other = "Limited (US only)"
+
+[roami_compare_tmobile_support]
+other = "❌ Limited"
+
+ 
+[roami_compare_verizon_trial]
+other = "Requires credit card"
+
+[roami_compare_verizon_card]
+other = "✅ Must provide"
+
+[roami_compare_verizon_auto]
+other = "✅ Auto‑charges after trial"
+
+[roami_compare_verizon_coverage]
+other = "Limited (US only)"
+
+[roami_compare_verizon_support]
+other = "❌ Limited"

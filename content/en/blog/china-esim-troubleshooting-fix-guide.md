@@ -1,7 +1,7 @@
 ﻿---
 title: "China eSIM Troubleshooting: Fix Common Problems Fast"
 description: "No signal after landing? Activation failed? Google blocked? Roami troubleshooting guide provides step-by-step fixes for every common China eSIM issue."
-keywords: ["China eSIM not working", "China eSIM troubleshooting", "China eSIM no signal", "China eSIM activation failed", "China eSIM VPN not working"]
+keywords: ["China eSIM not working", "China eSIM no signal", "China eSIM troubleshooting", "China eSIM activation failed", "China eSIM VPN not working", "China eSIM slow data", "China eSIM APN settings", "China eSIM dual SIM"]
 date: 2026-08-04T00:00:00Z
 lastmod: 2026-08-04T00:00:00Z
 author: "Roami Team"
@@ -58,7 +58,7 @@ recentPosts:
 ---
 Your eSIM finally activates, you land in China, and... nothing works. No signal. No data. Google returns an error. WhatsApp spins forever. you're not alone, and there is a fix for every single one of these problems.
 
-This guide covers every common China eSIM issue in a direct problem-cause-solution format. Scroll to your problem or read through for complete troubleshooting. For official device compatibility information, see [Apple's eSIM support page](https://support.apple.com/en-us/HT212780). For carrier network status and coverage data, visit [China Mobile](https://www.chinamobileltd.com).
+This guide covers every common China eSIM issue in a direct problem-cause-solution format. Before troubleshooting, check your provider's **China eSIM coverage** map to confirm your area has signal. Scroll to your problem or read through for complete troubleshooting. For official device compatibility information, see [Apple's eSIM support page](https://support.apple.com/en-us/HT212780). For carrier network status and coverage data, visit [China Mobile](https://www.chinamobileltd.com).
 
 **Need help right now?** [Roami](/china-esim/) offers 24/7 live customer support —real humans, not chatbots. Use code **WEB20** for a discount, or try the [free eSIM trial](/free-esim/) before you travel.
 
@@ -84,11 +84,12 @@ This guide covers every common China eSIM issue in a direct problem-cause-soluti
 
 ## 1. No Signal or No Service After Arrival
 
-**Problem:** You land in Beijing, Shanghai, or Guangzhou, and your phone shows "No Service," "SOS Only," or "Searching..." Your China eSIM is not connecting to the network.
+**Problem:** You land in Beijing, Shanghai, or Guangzhou, and your phone shows "No Service," "SOS Only," or "Searching..." If your China eSIM shows no signal after landing, it's almost always caused by automatic network selection failing. If your eSIM is **not connecting to network**, try manual network selection first.
 
 **Cause:** When your phone connects to a Chinese tower for the first time, automatic network selection often fails. The phone may try to register on a carrier your eSIM doesn't support, or the international roaming handshake between your eSIM provider and the local carrier stalls.
 
 **Fix: Manual Network Selection (iOS)**
+The most reliable fix is manually selecting China Mobile -- go to Settings > Cellular > Network Selection, turn off Automatic, and pick China Mobile from the list.
 1. Open **Settings** > **Cellular** > select your China eSIM line.
 2. Tap **Network Selection**.
 3. Turn **Automatic OFF**. Your phone scans for available networks.
@@ -112,7 +113,7 @@ This guide covers every common China eSIM issue in a direct problem-cause-soluti
 
 ## 2. China eSIM Activation Failed or Stuck on Activating
 
-**Problem:** You scan the QR code or enter the activation details, and the process hangs at "Activating..." for minutes. Or you get "China eSIM activation failed error" immediately. Some users see "Unable to activate on China Unicom" as the error message.
+**Problem:** You scan the QR code or enter the activation details, and the process hangs at "Activating..." for minutes. Or you get "China eSIM activation failed error" immediately. Some users see "Unable to activate on China Unicom" as the error message. **China Unicom activation** can fail if the eSIM profile doesn't have the correct APN configured.
 
 **Cause:** Activation requires an internet connection to download the eSIM profile. If you're trying to activate on airport Wi-Fi (which often blocks connection or requires SMS verification you can't receive), the process stalls. The Great Firewall can also interrupt the profile download if the provider's activation server is outside China.
 
@@ -263,7 +264,7 @@ Note: DNS changes on cellular data require a VPN or a DNS-over-HTTPS app like Cl
 
 ## 6. Google, WhatsApp, Instagram, Facebook Blocked
 
-**Problem:** Google Maps returns no data. WhatsApp messages show a single check mark (sent but not delivered). Instagram and Facebook feeds don't refresh. This is the single most common frustration for travelers using a China eSIM.
+**Problem:** Google Maps returns no data. WhatsApp messages show a single check mark (sent but not delivered). Instagram and Facebook feeds don't refresh. If Instagram and Facebook are blocked, your eSIM is routing through a local carrier instead of the international gateway. This is the single most common frustration for travelers using a China eSIM.
 
 **Cause:** The Great Firewall of China blocks Google, WhatsApp, Instagram, Facebook, and hundreds of other foreign services at the network level. Your China eSIM connects to the internet through a Chinese carrier (China Mobile, China Unicom, or China Telecom), which means all traffic routes through the Great Firewall. Your home carrier's roaming would face the same blocks —this is not an eSIM problem, it is China's internet policy.
 
@@ -517,7 +518,7 @@ If neither method works, contact provider support with your order number. They c
 
 ## 12. Hong Kong and Macau Cross-Border Not Working
 
-**Problem:** You bought a China eSIM, took the high-speed rail from Shenzhen to Hong Kong West Kowloon station, and the eSIM stopped working. Your Hong Kong eSIM not working cross border into mainland China, or vice versa.
+**Problem:** You bought a China eSIM, took the high-speed rail from Shenzhen to Hong Kong West Kowloon station, and the eSIM stopped working. If your China eSIM stops working at the Hong Kong border, don't worry -- Hong Kong is a separate telecom territory.
 
 **Cause:** China, Hong Kong, and Macau are separate telecom territories. A China mainland eSIM will not work in Hong Kong or Macau, and a Hong Kong eSIM will not work in mainland China. This is not a bug —it is how Chinese telecom regulation works.
 

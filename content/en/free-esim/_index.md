@@ -97,6 +97,9 @@ popular_esims:
   - name: "United Kingdom"
     code: "GB"
     slug: "united-kingdom"
+  - name: "France"
+    code: "FR"
+    slug: "france"
 
 countries:
   - name: "Japan"
@@ -723,22 +726,30 @@ seo_features:
 faq:
   heading: "Free eSIM Frequently Asked Questions"
   items:
-    - question: "Is the free eSIM really free?"
-      answer: "Yes, our free eSIM trial plan is completely free. You don't need to link a credit card, and there are no hidden fees. We hope this allows you to experience our premium network service before purchasing a larger data plan."
-    - question: "Which countries does the free eSIM support?"
-      answer: "Currently, our free eSIM supports multiple popular global travel and business destinations, including the United States, Japan, South Korea, various European countries, and Southeast Asia. You can find your desired destination in the list above."
-    - question: "How much data does the free eSIM come with?"
-      answer: "The free trial plan typically includes 100MB of high-speed data, designed specifically for you to contact family, book a ride, or check maps as soon as you arrive at your destination."
-    - question: "How long is the free eSIM valid for?"
-      answer: "The validity of the free eSIM is 7 days after activation. If you enjoy the network experience, you can seamlessly upgrade to a long-term, high-capacity plan on our platform at any time."
-    - question: "How do I install the free eSIM?"
-      answer: "After successfully claiming it on the App Store, you will receive an email containing a QR code. Simply go to your phone's 'Settings' > 'Cellular/Mobile Data' > 'Add eSIM', and scan the QR code to complete the installation. The whole process takes just 1 minute."
-    - question: "Does the free eSIM support mobile hotspot sharing?"
-      answer: "Yes. You can share your free eSIM data via your phone's mobile hotspot with your other devices (like tablets, laptops) or travel companions."
-    - question: "Can the free eSIM be used for phone calls and SMS?"
-      answer: "The free eSIM only provides data services and does not include traditional voice calls or SMS. However, you can easily use network-based apps like WhatsApp, Skype, FaceTime, or WeChat for voice and video calls."
-    - question: "What if my device is not compatible?"
-      answer: "Before claiming, please ensure your phone supports eSIM functionality (most newer models like iPhone 17, iPhone 16, Samsung Galaxy, and Google Pixel are supported). You can click to view our <a href='/compatibility/' class='text-blue-600 font-medium hover:underline'>Device Compatibility List</a>. If your device is not supported, you will not be able to install and use this service."
-    - question: "Can the free eSIM be upgraded to a paid plan?"
-      answer: "Absolutely! When your free data is depleted or expires, you don't need to install a new physical SIM. Simply purchase a data package for the corresponding country on our website, and it will be directly recharged to your existing digital SIM for continued use."
+    - question: "Is the free eSIM trial really free?"
+      answer: "Yes, our free eSIM trial plan is completely free — no credit card is required, and there are no hidden fees. We want you to experience our premium network service before committing to a larger data plan, making it one of the best free eSIM trial options available."
+
+    - question: "Which countries does the free trial eSIM support?"
+      answer: "Currently, our free trial eSIM covers many popular travel and business destinations worldwide, including the United States, Japan, South Korea, various European countries, and Southeast Asia. You can find your desired country in the list above."
+
+    - question: "How much data does the free eSIM trial include?"
+      answer: "The free trial eSIM includes 100MB of high-speed data — perfect for contacting family, booking a ride, or checking maps upon arrival. If you need unlimited data later, you can easily upgrade to one of our paid plans with larger allowances."
+
+    - question: "How long is the free eSIM trial valid for?"
+      answer: "Your free eSIM trial is valid for 7 days after activation. If you enjoy the service, you can seamlessly extend it by choosing a long-term, high‑capacity plan on our platform at any time."
+
+    - question: "How do I install the free eSIM trial?"
+      answer: "After successfully claiming your free trial eSIM, you’ll receive an email with a QR code. Go to your phone's 'Settings' > 'Cellular/Mobile Data' > 'Add eSIM', scan the code, and the installation finishes in about a minute. The whole process is quick and easy."
+
+    - question: "Does the free eSIM trial support mobile hotspot sharing?"
+      answer: "Yes. You can share the data from your free trial eSIM via your phone’s hotspot with other devices, such as tablets or laptops, or even with travel companions."
+
+    - question: "Can the free eSIM trial be used for phone calls and SMS?"
+      answer: "The free eSIM trial is data‑only and does not include traditional voice calls or SMS. However, you can easily use apps like WhatsApp, Skype, FaceTime, or WeChat for voice and video calls over the data connection."
+
+    - question: "What if my device is not compatible with the free eSIM trial?"
+      answer: "Before claiming your free trial, please make sure your phone supports eSIM (most newer models like iPhone 17, iPhone 16, Samsung Galaxy, and Google Pixel do). You can check our <a href='/compatibility/' class='text-blue-600 font-medium hover:underline'>Device Compatibility List</a>. If your device isn’t compatible, you won’t be able to install and use the service."
+
+    - question: "Can the free eSIM trial be upgraded to a paid plan?"
+      answer: "Absolutely! When your free trial data runs out or expires, you don’t need to install a new SIM — just purchase a paid data package for your destination on our website, and the data will be added directly to your existing eSIM, so you can continue enjoying uninterrupted connectivity."
 ---

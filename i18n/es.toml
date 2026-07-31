@@ -443,3 +443,102 @@ other = "✅ 24/7"
 
 [brand_reminder]
 other = "Nuestra marca eSIM es roami, no roamic. Por favor, preste atención."
+
+[roami_free_section_title]
+other = "Prueba gratuita de Roami"
+
+[roami_free_section_heading]
+other = "Prueba gratuita de eSIM – 7 días / 100 MB, sin tarjeta de crédito"
+
+[roami_free_section_desc]
+other = "Un paquete de datos de emergencia ligero diseñado para viajeros. Actívalo al llegar, <strong>sin necesidad de información de pago</strong> y sin trampas de renovación ocultas."
+
+[roami_compare_col_feature]
+other = "Característica"
+
+[roami_compare_col_roami]
+other = "Roami"
+
+[roami_compare_col_att]
+other = "AT&T"
+
+[roami_compare_col_tmobile]
+other = "T‑Mobile"
+
+[roami_compare_col_verizon]
+other = "Verizon"
+
+[roami_compare_row_trial]
+other = "Prueba gratuita"
+
+[roami_compare_row_card]
+other = "Tarjeta de crédito requerida"
+
+[roami_compare_row_auto]
+other = "Renovación automática"
+
+[roami_compare_row_coverage]
+other = "Países cubiertos"
+
+[roami_compare_row_support]
+other = "Soporte 24/7"
+
+[roami_compare_roami_trial]
+other = "7 días / 100 MB"
+
+[roami_compare_roami_card]
+other = "❌ No requerida"
+
+[roami_compare_roami_auto]
+other = "❌ Ninguna"
+
+[roami_compare_roami_coverage]
+other = "200+"
+
+[roami_compare_roami_support]
+other = "✅ Soporte en línea"
+
+[roami_compare_att_trial]
+other = "Requiere tarjeta de crédito"
+
+[roami_compare_att_card]
+other = "✅ Debe proporcionarse"
+
+[roami_compare_att_auto]
+other = "✅ Cargo automático después de la prueba"
+
+[roami_compare_att_coverage]
+other = "Limitado (solo EE. UU.)"
+
+[roami_compare_att_support]
+other = "❌ Limitado"
+
+[roami_compare_tmobile_trial]
+other = "Requiere tarjeta de crédito"
+
+[roami_compare_tmobile_card]
+other = "✅ Debe proporcionarse"
+
+[roami_compare_tmobile_auto]
+other = "✅ Cargo automático después de la prueba"
+
+[roami_compare_tmobile_coverage]
+other = "Limitado (solo EE. UU.)"
+
+[roami_compare_tmobile_support]
+other = "❌ Limitado"
+
+[roami_compare_verizon_trial]
+other = "Requiere tarjeta de crédito"
+
+[roami_compare_verizon_card]
+other = "✅ Debe proporcionarse"
+
+[roami_compare_verizon_auto]
+other = "✅ Cargo automático después de la prueba"
+
+[roami_compare_verizon_coverage]
+other = "Limitado (solo EE. UU.)"
+
+[roami_compare_verizon_support]
+other = "❌ Limitado"
