@@ -13,7 +13,7 @@ ui:
   schema:
     list_name: "Free eSIM Supported Countries List"
     list_desc: "List of 50+ countries providing free eSIM services"
-    item_name_prefix: "Free eSIM for "
+    item_name_prefix: "Free eSIM trial  "
     item_desc_prefix: "Free travel eSIM trial plan for "
   popular_section:
     title: "Popular Free eSIM Destinations"
@@ -24,7 +24,7 @@ ui:
     no_results_text: "Sorry, no matching plans found."
     no_results_link: "Please check all plans"
   card:
-    title_prefix: "Free eSIM for "
+    title_prefix: "Free eSIM trial  "
     network: "Network: 5G/4G/LTE"
     price: "$0.00"
     btn_popular: "View Details & Claim"
@@ -82,7 +82,7 @@ value_props:
     icon: "🚀"
 
 search:
-  placeholder: "Search destinations (e.g., Free eSIM for Japan)..."
+  placeholder: "Search destinations (e.g., Free eSIM trial Japan)..."
 
 popular_esims:
   - name: "Japan"
