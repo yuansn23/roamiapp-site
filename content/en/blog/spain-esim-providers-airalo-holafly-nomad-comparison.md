@@ -2,8 +2,8 @@
 title: "Best Spain eSIM : Airalo vs Holafly vs Nomad Compared"
 description: "Compare Airalo, Holafly, Nomad and Saily for Spain eSIM travel. Roami automatically switches between Movistar, Orange, Vodafone and Yoigo networks for you."
 keywords: ["Spain eSIM providers", "Airalo vs Holafly Spain", "best Spain eSIM", "Spain eSIM comparison", "Spain eSIM plans"]
-date: 2026-07-26T00:00:00Z
-lastmod: 2026-07-26T00:00:00Z
+date: 2026-08-04T00:00:00Z
+lastmod: 2026-08-04T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/spain/spain-esim-providers-airalo-holafly-nomad-comparison.jpg"

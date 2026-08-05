@@ -2,8 +2,8 @@
 title: "Spain Prepaid eSIM: Local vs International Guide"
 description: "Compare Spain prepaid eSIM: Movistar, Orange, Vodafone and Yoigo for tourists. Roami offers international eSIM with automatic network switching when you travel."
 keywords: ["Spain prepaid eSIM", "Movistar prepaid eSIM", "Orange Spain prepaid eSIM", "Spain eSIM for tourists", "Spain local SIM vs eSIM"]
-date: 2026-07-22T00:00:00Z
-lastmod: 2026-07-22T00:00:00Z
+date: 2026-08-04T00:00:00Z
+lastmod: 2026-08-04T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/spain/spain-esim-local-carriers-prepaid-guide.jpg"

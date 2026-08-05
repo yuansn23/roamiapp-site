@@ -2,8 +2,8 @@
 title: "Spain Unlimited Data eSIM: 5G Plans Compared"
 description: "Compare the best Spain unlimited data eSIM plans with 5G in 2026. Holafly, Airalo, Orange, and Vodafone options—fair usage policies, hotspot support, and pricing side by side."
 keywords: ["Spain unlimited data eSIM", "Spain eSIM 5G", "Spain eSIM unlimited plans", "Spain eSIM hotspot", "best unlimited Spain eSIM", "Spain eSIM with phone number", "Airalo Spain eSIM", "Holafly Spain eSIM", "Orange Spain eSIM", "esim spain unlimited data"]
-date: 2026-07-28T00:00:00Z
-lastmod: 2026-07-28T00:00:00Z
+date: 2026-08-04T00:00:00Z
+lastmod: 2026-08-04T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/spain/spain-esim-unlimited-data-5g-plans.jpg"

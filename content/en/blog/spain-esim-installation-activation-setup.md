@@ -2,8 +2,8 @@
 title: "Spain eSIM Setup: iPhone & Android Installation Guide"
 description: "Step-by-step Spain eSIM installation guide for iPhone and Android with APN settings. Roami offers 24/7 customer support if you need help during setup."
 keywords: ["Spain eSIM setup", "Spain eSIM installation", "Spain eSIM iPhone", "Spain eSIM APN settings", "Spain eSIM Android"]
-date: 2026-07-21T00:00:00Z
-lastmod: 2026-07-21T00:00:00Z
+date: 2026-08-04T00:00:00Z
+lastmod: 2026-08-04T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/spain/spain-esim-installation-activation-setup.jpg"

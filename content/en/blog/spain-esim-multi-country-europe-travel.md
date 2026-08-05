@@ -2,8 +2,8 @@
 title: "Spain Multi-Country eSIM: Europe Travel Guide 2026"
 description: "Multi-country eSIM for Spain and Europe covering Portugal, France and Morocco. Roami offers seamless cross-border connectivity with auto network switching."
 keywords: ["Spain multi-country eSIM", "Spain Portugal eSIM", "Spain France eSIM", "Europe travel eSIM Spain", "cross-border eSIM Spain"]
-date: 2026-07-24T00:00:00Z
-lastmod: 2026-07-24T00:00:00Z
+date: 2026-08-04T00:00:00Z
+lastmod: 2026-08-04T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/spain/spain-esim-multi-country-europe-travel.jpg"
