@@ -1,9 +1,9 @@
 ---
-title: "France eSIM Price Guide: Plans from 3 USD to 80 USD"
+title: "France eSIM Guide: Plans, Networks & Coverage​"
 description: "France eSIM guide covers cheapest plans from $3, 7-day tourist pricing, 30-day costs, unlimited 5G. Roami promo codes and free trial included for savings."
 keywords: ["France eSIM price", "cheapest France eSIM", "France eSIM 5G plans", "France eSIM promo code", "France eSIM cost per GB"]
-date: 2026-07-14T00:00:00Z
-lastmod: 2026-07-14T00:00:00Z
+date: 2026-08-09T00:00:00Z
+lastmod: 2026-08-09T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/france/france-esim-price-purchase-guide.jpg"
@@ -13,7 +13,7 @@ readingTime: 20
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "France eSIM Price Guide: Cheapest Plans, Data Costs and Promo Codes"
+h1title: "France eSIM Price Guide 2026: Cheapest Plans, Data Costs & Promo Codes"
 productsTitle: "Popular eSIM Plans"
 hotPostsTitle: "Hot Articles"
 recentPostsTitle: "Recent Posts"
@@ -56,9 +56,9 @@ recentPosts:
     permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
     date: "2026-05-20"
 ---
-France eSIM prices range from $3 for 1GB to $80 for unlimited 30-day data. The cheapest 1GB plan costs $3 (Ubigi), the cheapest 5GB plan costs $10 (Ubigi on Bouygues), and the cheapest unlimited plan costs $20 for 7 days (Holafly on Bouygues/SFR). By comparison, AT&T charges $10 per day for international roaming, meaning a 7-day trip costs $70 with AT&T versus $10-20 with an eSIM �?savings of 70-85%. The lowest price per GB on a 30-day plan is under $2 per GB (Ubigi 25GB at $35), while premium carrier plans like Orange Travel cost over $5 per GB.
+France eSIM prices range from $3 for 1GB to $80 for unlimited 30-day data. The cheapest 1GB plan costs $3 (Ubigi), the cheapest 5GB plan costs $10 (Ubigi on Bouygues), and the cheapest unlimited plan costs $20 for 7 days (Holafly on Bouygues/SFR). By comparison, AT&T charges $10 per day for international roaming, meaning a 7-day trip costs $70 with AT&T versus $10-20 with an eSIM — savings of 70-85%. The lowest price per GB on a 30-day plan is under $2 per GB (Ubigi 25GB at $35), while premium carrier plans like Orange Travel cost over $5 per GB.
 
-This guide covers every France eSIM pricing detail: cheapest plans by data amount and duration, US carrier roaming vs eSIM cost comparison, the CDG airport physical SIM trap, promo codes including WEB20, and a decision matrix to find the best plan for your specific trip.
+This guide covers every France eSIM pricing detail: cheapest plans by data amount and duration, US carrier roaming vs eSIM cost comparison, the CDG airport physical SIM trap, promo codes including WEB20, and a decision matrix to find the best plan for your specific trip. Whether you need a cheap France eSIM for a weekend in Paris or a long-term data plan for a month in Provence, this price comparison helps you find the most affordable option for your travel style.
 
 The aggregate table below covers all major eSIM providers serving France, including Airalo, Holafly, Ubigi, Orange Travel, Nomad, Saily, and aloSIM. For a broader comparison of network quality across providers, see our [France eSIM provider ranking](/blog/france-esim-provider-ranking/). According to the [GSMA](https://www.gsma.com/), the global mobile industry association, eSIM adoption in Europe has more than doubled since 2023, with France ranking among the top markets for eSIM-compatible devices.
 
@@ -72,7 +72,7 @@ The following table compares prices across all major France eSIM providers and p
 |----------|-----|-----|-----|------|------|-------|-----------|---------|
 | Airalo | $4.50 | $7.50 | $12.00 | $19.00 | $35.00 | - | - | Orange |
 | Holafly | - | - | - | - | - | - | $20 (7d) / $39 (15d) / $69 (30d) | Bouygues / SFR |
-| Ubigi | $3.00 | $9.00 | $10.00 | $17.00 | - | $35 (25GB) / $45 (50GB/30d) | - | Bouygues |
+| Ubigi | $3.00 | $8.99 | $10.00 | $17.00 | - | $35 (25GB) / $45 (50GB/30d) | - | Bouygues |
 | Orange Travel | 10 euro ($11) | - | 25 euro ($27) | 35 euro ($38) | - | 50 euro ($54/25GB) | - | Orange |
 | Nomad | $4.50 | $8.00 | $12.50 | $18.00 | $30.00 | $55 (50GB) | - | Orange / Free |
 | Saily | $5.00 | $9.00 | $14.00 | $20.00 | $32.00 | - | - | Orange |
@@ -118,13 +118,13 @@ This section identifies the absolute cheapest plan for each data allowance, usef
 
 ### Cheapest 1GB France eSIM
 
-**Ubigi at $3** is the cheapest 1GB plan. It runs on Bouygues network with 7-day validity. Airalo's 1GB on Orange costs $4.50 �?50% more. For a weekend trip where you only need email, messaging, and light navigation, the Ubigi 1GB at $3 is the best value option.
+**Ubigi at $3** is the cheapest 1GB plan. It runs on Bouygues network with 7-day validity. Airalo's 1GB on Orange costs $4.50 — 50% more. For a weekend trip where you only need email, messaging, and light navigation, the Ubigi 1GB at $3 is the best value option.
 
 Runner-up: Multi-network option at $3.50 with 7-day validity.
 
 ### Cheapest 3GB France eSIM
 
-**Airalo at $7.50** takes the lead for 3GB, running on Orange network with 15-day validity. Ubigi's 3GB at $9 costs slightly more but offers Bouygues network. Nomad's 3GB at $8 sits between them.
+**Airalo at $7.50** takes the lead for 3GB, running on Orange network with 15-day validity. Ubigi's 3GB at $8.99 costs slightly more but offers Bouygues network. Nomad's 3GB at $8 sits between them.
 
 For a 3-4 day city trip, 3GB supports Google Maps navigation, WhatsApp messaging, social media scrolling, and occasional photo uploads. Most travelers find 3GB sufficient for short Paris weekends.
 
@@ -132,7 +132,7 @@ For a 3-4 day city trip, 3GB supports Google Maps navigation, WhatsApp messaging
 
 **Ubigi at $10** is the cheapest 5GB plan by a clear margin. Airalo is $12 for 5GB on Orange. Nomad is $12.50. Saily is $14.
 
-Ubigi's 5GB at $10 offers 30-day validity, making it the best value for week-long trips. The Bouygues network provides excellent coverage in Paris, Lyon, Marseille, and along TGV routes. For most 7-day France trips, this is the price benchmark �?$10 for sufficient data on a reliable network.
+Ubigi's 5GB at $10 offers 30-day validity, making it the best value for week-long trips. The Bouygues network provides excellent coverage in Paris, Lyon, Marseille, and along TGV routes. For most 7-day France trips, this is the price benchmark — $10 for sufficient data on a reliable network.
 
 ### Cheapest 10GB France eSIM
 
@@ -142,7 +142,7 @@ For 10-14 day trips, 10GB provides comfortable headroom for maps, messaging, soc
 
 ### Cheapest 20GB France eSIM
 
-**Nomad at $30** and **Airalo at $35** compete for 20GB. Nomad uses Orange or Free network; Airalo uses Orange. The gap is $5 �?Nomad's 20GB on Orange is the cheapest at this tier.
+**Nomad at $30** and **Airalo at $35** compete for 20GB. Nomad uses Orange or Free network; Airalo uses Orange. The gap is $5 — Nomad's 20GB on Orange is the cheapest at this tier.
 
 For heavy data users, remote workers, or travelers spending 2+ weeks in France, 20GB covers everything including regular video calls, HD streaming, and hotspot tethering.
 
@@ -156,7 +156,7 @@ For long stays of 3-4 weeks with heavy data usage, 50GB at $45 from Ubigi delive
 
 **Holafly at $20** for 7 days unlimited is the cheapest unlimited plan. For 15 days, Holafly is $39. For 30 days, Holafly is $69. Multi-network unlimited plans start at $25 for 7 days.
 
-Unlimited plans are worth considering if you consume large amounts of video content daily or want the peace of mind of never tracking data usage. The practical limitation is hotspot caps �?Holafly limits daily tethering to 500MB, and speeds may be throttled after heavy usage thresholds on some providers.
+Unlimited plans are worth considering if you consume large amounts of video content daily or want the peace of mind of never tracking data usage. The practical limitation is hotspot caps — Holafly limits daily tethering to 500MB, and speeds may be throttled after heavy usage thresholds on some providers.
 
 For a detailed look at which provider works best for specific trip lengths and data needs, see our [France eSIM destination guides](/blog/france-esim-destination-guides/).
 
@@ -195,13 +195,13 @@ For help resolving common eSIM issues that may arise after purchase, see our [Fr
 
 ---
 
-## US Carrier Multi-network eSIMng vs France eSIM: Cost Comparison
+## US Carrier Roaming vs France eSIM: Cost Comparison
 
 For US travelers, the cost difference between carrier roaming and an eSIM is the single most impactful financial decision for a France trip.
 
 ### US carrier international roaming rates (2026):
 
-| US Carrier | Daily Multi-network eSIMng Fee | Data Allowance | Weekly Cost (7 days) | Monthly Cost (30 days) |
+| US Carrier | Daily Roaming Fee | Data Allowance | Weekly Cost (7 days) | Monthly Cost (30 days) |
 |-----------|------------------|---------------|---------------------|----------------------|
 | AT&T | $10/day | Unlimited 2G/3G, 5GB high-speed | $70 | $300 |
 | T-Mobile | $5/day | 5GB high-speed (countries) or included 2G (simple global) | $35 | $150 |
@@ -211,7 +211,7 @@ For US travelers, the cost difference between carrier roaming and an eSIM is the
 
 ### France eSIM equivalent cost:
 
-| Data Need | eSIM Cost | Carrier Multi-network eSIMng Cost | Savings |
+| Data Need | eSIM Cost | Carrier Roaming Cost | Savings |
 |-----------|----------|-------------------|---------|
 | 3GB / 7 days (weekend) | $7.50 (Airalo) | $35-84 (varies by carrier) | 75-91% |
 | 5GB / 7 days (week trip) | $10-12 (Ubigi/Airalo) | $70 (AT&T) | 83-86% |
@@ -233,21 +233,21 @@ With a France eSIM (Ubigi 5GB at $10 or Airalo 5GB at $12):
 - Hotspot: Usually included
 - Additional: Keep your home SIM active for calls and SMS
 
-Net savings: $58-60 on a single 7-day trip. For a family of four, the savings multiply �?four AT&T lines at $70 each = $280, versus four eSIMs at $10-12 each = $40-48.
+Net savings: $58-60 on a single 7-day trip. For a family of four, the savings multiply — four AT&T lines at $70 each = $280, versus four eSIMs at $10-12 each = $40-48.
 
 ### The practical impact:
 
 US carrier roaming is convenient. Your phone works exactly as it does at home. No eSIM setup, no APN configuration, no dual SIM management. For some travelers, this convenience justifies the cost. But the numbers are stark: a two-week family trip to France with AT&T roaming costs over $500 for a family of four. The same trip with eSIMs costs roughly $80.
 
-According to [AT&T's international roaming page](https://www.att.com/travel/), their Travel Pass covers unlimited talk and text with 5GB of high-speed data per month pass. T-Mobile's [International Multi-network eSIMng](https://www.t-mobile.com/travel) offers comparable rates for their high-speed data passes.
+According to [AT&T's international roaming page](https://www.att.com/travel/), their Travel Pass covers unlimited talk and text with 5GB of high-speed data per month pass. T-Mobile's [International Roaming](https://www.t-mobile.com/travel) offers comparable rates for their high-speed data passes.
 
 For the best [france esim](/france-esim/) for US travelers, prioritize providers with USD pricing, immediate email delivery, and network partnerships with Orange or Bouygues for reliable coverage.
 
-### UK Carrier Multi-network eSIMng vs France eSIM
+### UK Carrier Roaming vs France eSIM
 
 For UK travelers, the economics are different because UK carriers have more competitive EU roaming packages due to historical EU "roam like at home" regulations ([European Commission: Roaming](https://digital-strategy.ec.europa.eu/en/policies/roaming)). Although the UK has left the EU, most major UK carriers still include EU roaming in their plans.
 
-| UK Carrier | EU Multi-network eSIMng | Weekly Multi-network eSIMng Cost | France eSIM Equivalent | Savings with eSIM |
+| UK Carrier | EU Roaming | Weekly Roaming Cost | France eSIM Equivalent | Savings with eSIM |
 |-----------|-----------|-------------------|----------------------|-------------------|
 | Vodafone | EU roaming included in many plans | 0 - included | $10-12 for 5GB | $0 if included, $10-12 otherwise |
 | EE | 25GB EU roaming with most plans | 0 - included | $10-12 for 5GB | $0 if included |
@@ -265,11 +265,11 @@ For UK travelers, an eSIM for France only makes financial sense if your UK plan 
 
 For UK travelers who do need an eSIM, Ubigi's pricing in GBP is competitive, and providers like Airalo and Holafly also accept GBP payment.
 
-### Canadian Carrier Multi-network eSIMng vs France eSIM
+### Canadian Carrier Roaming vs France eSIM
 
 Canadian carriers have the highest international roaming rates among English-speaking countries, making eSIMs particularly valuable for Canadian travelers.
 
-| Canadian Carrier | Daily Multi-network eSIMng Fee | Data Allowance | Weekly Cost (7 days) |
+| Canadian Carrier | Daily Roaming Fee | Data Allowance | Weekly Cost (7 days) |
 |-----------------|------------------|---------------|---------------------|
 | Rogers | $15 CAD/day | 1GB high-speed, then throttled | $105 CAD |
 | Bell | $16 CAD/day | 500MB high-speed, then throttled | $112 CAD |
@@ -282,9 +282,9 @@ A France eSIM at $10-12 USD ($13-16 CAD) saves approximately $90-100 CAD per wee
 
 ## France eSIM Plans by Duration
 
-Different trip lengths require different plan structures. This section breaks down the cheapest and best-value options by trip duration.
+Different trip lengths require different plan structures. This section breaks down the cheapest and best-value options by trip duration. For an affordable France eSIM, these options represent the best value at each duration tier.
 
-### France eSIM 3-Day Weekend Plan
+### 3-Day Weekend in Paris — Best eSIM Plans
 
 | Provider | Data | Price | Cost per Day |
 |----------|------|-------|-------------|
@@ -293,7 +293,7 @@ Different trip lengths require different plan structures. This section breaks do
 
 For a weekend trip to Paris, Ubigi's 1GB at $3 is the cheapest option. Light usage (Google Maps, WhatsApp, email) consumes approximately 200-300MB per day, so 1GB covers a weekend comfortably.
 
-### France eSIM 7-Day Tourist Plan
+### 7-Day Tourist Plan — Best Value France eSIM
 
 | Provider | Data | Price | Cost per Day |
 |----------|------|-------|-------------|
@@ -307,9 +307,9 @@ For a weekend trip to Paris, Ubigi's 1GB at $3 is the cheapest option. Light usa
 
 For a standard 7-day tourist trip, 5GB is the sweet spot. It covers maps, messaging, social media, photo uploads, and light video streaming. Ubigi at $10 is the cheapest option. Holafly at $20 provides unlimited data for heavy users.
 
-Airalo on the Orange network at $12 is the recommended middle ground �?Orange's wider coverage provides better reliability in mixed urban and rural areas, and the price is still under $2 per day.
+Airalo on the Orange network at $12 is the recommended middle ground — Orange's wider coverage provides better reliability in mixed urban and rural areas, and the price is still under $2 per day.
 
-### France eSIM 14-Day Plan
+### 14-Day France eSIM Cost Comparison
 
 | Provider | Data | Price | Cost per Day |
 |----------|------|-------|-------------|
@@ -321,7 +321,7 @@ Airalo on the Orange network at $12 is the recommended middle ground �?Orange'
 
 For two-week trips, 10GB is the recommended data allowance. Ubigi at $17 is the cheapest. Holafly's unlimited at $39 is worth considering if you plan to stream video or use hotspot regularly.
 
-### France eSIM 30-Day Prepaid Plan Cost
+### 30-Day Prepaid Plan Cost for Long Stays
 
 | Provider | Data | Price | Cost per Day | Price per GB |
 |----------|------|-------|-------------|-------------|
@@ -385,7 +385,7 @@ All major France eSIM providers support 5G, but the speed tiers and pricing vary
 | Orange Travel | Yes (Orange 5G) | 10 euro ($11) for 1GB | Orange network priority, full 5G speeds |
 | Multi-network eSIM | Yes | $3.50 (1GB) | Automatic switching across carriers |
 
-Orange's 5G network covers approximately 90% of the French population as of 2026. Bouygues covers approximately 85%. Both provide 5G in all major cities including Paris, Lyon, Marseille, Toulouse, Nice, Bordeaux, and Lille. France's mobile market is served by four major operators �?Orange, SFR, Bouygues Telecom, and Free Mobile �?making it one of Europe's most competitive telecom markets ([Wikipedia: Telecommunications in France](https://en.wikipedia.org/wiki/Telecommunications_in_France)).
+Orange's 5G network covers approximately 90% of the French population as of 2026. Bouygues covers approximately 85%. Both provide 5G in all major cities including Paris, Lyon, Marseille, Toulouse, Nice, Bordeaux, and Lille. France's mobile market is served by four major operators — Orange, SFR, Bouygues Telecom, and Free Mobile — making it one of Europe's most competitive telecom markets ([Wikipedia: Telecommunications in France](https://en.wikipedia.org/wiki/Telecommunications_in_France)).
 
 For travelers who specifically need 5G speeds, any provider on the Orange network (Airalo, Saily, Nomad) or Bouygues network (Ubigi) delivers 5G on compatible devices. The cheapest 5G-compatible France eSIM is Ubigi's 1GB at $3.
 
@@ -430,7 +430,7 @@ Physical SIMs at CDG include retail markup, store rent, and staffing costs. Airp
 
 ### The better approach:
 
-Purchase an eSIM online before your flight. Install the QR code at home on WiFi. When you land at CDG, your eSIM activates automatically as soon as you connect to a French network �?no queueing at the Orange store, no inflated prices, no passport registration.
+Purchase an eSIM online before your flight. Install the QR code at home on WiFi. When you land at CDG, your eSIM activates automatically as soon as you connect to a French network — no queueing at the Orange store, no inflated prices, no passport registration.
 
 For travelers with phones that do not support eSIM, the Orange Holiday physical SIM at CDG is the best airport option at 40 euro for 14GB. Avoid the Relay newsstand tourist SIMs, which typically offer worse value.
 
@@ -460,7 +460,7 @@ Several France eSIM providers offer promo codes, referral discounts, and first-p
 2. Stack referral credits: Many providers offer $3-5 credit when a friend signs up via your referral link
 3. Buy larger plans: 50GB plans offer the best per-GB pricing (Ubigi 50GB at $45 = $0.90/GB)
 4. Multi-country plans: If visiting multiple European countries, a regional plan may be cheaper than separate France plans
-5. Try a **[free eSIM trial](/free-esim/)** to test network compatibility before purchasing a full plan �?Multi-network eSIM offers this for first-time users
+5. Try a **[free eSIM trial](/free-esim/)** to test network compatibility before purchasing a full plan — Multi-network eSIM offers this for first-time users
 
 ### How the discount works in practice:
 
@@ -517,7 +517,7 @@ For travelers staying a month or longer, the calculation changes. Short-term pri
 - **Best with French number:** Orange Travel 25GB at $54. The French number justifies the premium for long stays.
 - **Best unlimited:** Holafly at $69. Unlimited data for heavy streamers, with the hotspot cap as the main limitation.
 
-For a 30-day stay in France �?whether work trip, study abroad, or extended vacation �?Ubigi's 50GB at $45 is the price leader.
+For a 30-day stay in France — whether work trip, study abroad, or extended vacation — Ubigi's 50GB at $45 is the price leader.
 
 ---
 
@@ -765,7 +765,7 @@ Ubigi is the price leader across most data tiers, with Airalo offering the best 
 
 The bottom line: any France eSIM costs 70-90% less than US carrier roaming. Even the most expensive eSIM option (Orange Travel at 25 euro for 5GB) saves approximately 60% compared to a week of AT&T roaming at $70. There is no scenario where carrier roaming is cheaper than a [france esim](/france-esim/) for France trips.
 
-For additional guidance on choosing the right France eSIM, see our [France eSIM complete guide](/blog/france-esim-complete-guide/):
+For additional guidance on choosing the right France eSIM, see our [France eSIM complete guide](/blog/france-esim-complete-guide/).
 
 ---
 
