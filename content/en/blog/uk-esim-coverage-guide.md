@@ -486,7 +486,7 @@ A single-network UK eSIM connects to only one carrier (e.g., Airalo on EE 4G, No
 
 **Do I need a separate eSIM for England, Scotland, Wales, and Northern Ireland?**
 
-No, a single Great Britain eSIM works across all of England, Scotland, Wales, and Northern Ireland �?so an England eSIM, a Scotland eSIM, and a UK eSIM are all functionally the same thing. You do not need separate plans for each country. The UK's four mobile networks (EE, Vodafone, O2, and Three) all operate across the entire United Kingdom, and any eSIM connecting to these networks provides coverage throughout Great Britain. For travellers also visiting the Republic of Ireland, a Europe-wide eSIM plan or a separate Ireland eSIM is recommended since the Republic of Ireland is a different country with its own mobile networks.
+No, a single Great Britain eSIM works across all of England, Scotland, Wales, and Northern Ireland ?so an England eSIM, a Scotland eSIM, and a UK eSIM are all functionally the same thing. You do not need separate plans for each country. The UK's four mobile networks (EE, Vodafone, O2, and Three) all operate across the entire United Kingdom, and any eSIM connecting to these networks provides coverage throughout Great Britain. For travellers also visiting the Republic of Ireland, a Europe-wide eSIM plan or a separate Ireland eSIM is recommended since the Republic of Ireland is a different country with its own mobile networks.
 
 <script type="application/ld+json">
 {

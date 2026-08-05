@@ -13,7 +13,7 @@ readingTime: 20
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "eSIM UK: EE vs Vodafone vs O2 vs Three �?Which Network is Best for Tourists?"
+h1title: "eSIM UK: EE vs Vodafone vs O2 vs Three ?Which Network is Best for Tourists?"
 productsTitle: "Popular eSIM Plans"
 hotPostsTitle: "Hot Articles"
 recentPostsTitle: "Recent Posts"
@@ -72,7 +72,7 @@ recentPosts:
     date: "2026-05-20"
 ---
 
-The UK has four physical mobile networks that own infrastructure: EE (88% 4G landmass coverage), Vodafone (82%), O2 (78%), and Three (68%), according to [Ofcom](https://www.ofcom.org.uk) (2026). If you're a tourist picking a UK eSIM �?whether a Great Britain eSIM for a multi-city tour or a simple data plan for London �?here's what actually matters: EE dominates rural areas and Scotland, Three is fastest in cities but weakest in the countryside, Vodafone offers strong city coverage but sells no prepaid eSIM to tourists, and O2 includes valuable free EU roaming.
+The UK has four physical mobile networks that own infrastructure: EE (88% 4G landmass coverage), Vodafone (82%), O2 (78%), and Three (68%), according to [Ofcom](https://www.ofcom.org.uk) (2026). If you're a tourist picking a UK eSIM ?whether a Great Britain eSIM for a multi-city tour or a simple data plan for London ?here's what actually matters: EE dominates rural areas and Scotland, Three is fastest in cities but weakest in the countryside, Vodafone offers strong city coverage but sells no prepaid eSIM to tourists, and O2 includes valuable free EU roaming.
 
 - **EE:** Best rural and Scotland coverage, prepaid eSIM available from 10 GBP for 10 GB
 - **Vodafone:** Strong city coverage, no prepaid eSIM for tourists -- use Roami or an MVNO instead

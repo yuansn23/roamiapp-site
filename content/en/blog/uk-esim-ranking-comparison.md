@@ -537,7 +537,7 @@ Yes. A Great Britain eSIM works across England, Scotland, Wales, and Northern Ir
       "name": "Can I use a Great Britain eSIM in Scotland, Wales, and Northern Ireland?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. A Great Britain eSIM works across England, Scotland, Wales, and Northern Ireland. The same UK eSIM plan covers the entire United Kingdom �?there's no need to buy separate eSIMs for different UK nations."
+        "text": "Yes. A Great Britain eSIM works across England, Scotland, Wales, and Northern Ireland. The same UK eSIM plan covers the entire United Kingdom ?there's no need to buy separate eSIMs for different UK nations."
       }
     }
   ]

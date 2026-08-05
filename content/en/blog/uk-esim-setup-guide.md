@@ -73,7 +73,7 @@ recentPosts:
 ---
 Installing a UK eSIM before your trip takes under five minutes and gets you connected the moment you land anywhere in Great Britain. Having the eSIM pre-installed is the difference between walking straight through to the Uber pickup and fumbling with airport WiFi for 20 minutes. This guide covers every step: check device compatibility, buy a plan online, scan the QR code, configure APN settings, enable data roaming, and troubleshoot common issues. Whether you need a UK eSIM for a weekend in London, a Great Britain eSIM for a road trip through the Cotswolds, or an England eSIM for hiking in the Lake District, the installation process is the same across iPhone and Android.
 
-But here's what nobody tells you: the single biggest factor in a smooth arrival isn't which provider you pick or which network you're on. It's whether you install the eSIM at home before you fly. Airport WiFi can be unreliable �?at busy terminals like Heathrow, free WiFi often drops or slows to a crawl under heavy passenger load. At home on a stable connection, the same install takes under 4 minutes. Don't be the person doing this at baggage claim.
+But here's what nobody tells you: the single biggest factor in a smooth arrival isn't which provider you pick or which network you're on. It's whether you install the eSIM at home before you fly. Airport WiFi can be unreliable ?at busy terminals like Heathrow, free WiFi often drops or slows to a crawl under heavy passenger load. At home on a stable connection, the same install takes under 4 minutes. Don't be the person doing this at baggage claim.
 
 - UK eSIM installation time: 2-3 minutes (plus prep)
 - Compatible phones: iPhone XS and newer (2018+), Samsung Galaxy S20 and newer (2020+), Google Pixel 2 and newer
@@ -190,7 +190,7 @@ Some providers -- including Roami, Airalo, and Ubigi -- have apps that handle th
 
 The app method is slightly faster than QR code scanning and harder to mess up, because the app handles the codes in the background.
 
-But not all provider apps are created equal. Some apps handle installation more reliably than others �?community reports note occasional crashes on certain providers' apps during the QR scan step. Test your app at home, not at the airport.
+But not all provider apps are created equal. Some apps handle installation more reliably than others ?community reports note occasional crashes on certain providers' apps during the QR scan step. Test your app at home, not at the airport.
 
 **Method 3: Manual Installation (iPhone)**
 If you can't scan the QR code and don't have an app, you can enter the details manually.
@@ -246,7 +246,7 @@ Samsung phones occasionally need a bit of extra coaxing with eSIMs. If you follo
 2. Restart your phone and try again.
 3. If it still fails, check that your phone isn't carrier-locked. A locked phone can only use eSIMs from specific carriers. Contact your home carrier to unlock it.
 
-Samsung's eSIM support has improved noticeably in the S24 generation �?newer Galaxy models typically install eSIM profiles in under 2 minutes on the first attempt. Older models like the S23 sometimes need a restart before they will recognise the QR code.
+Samsung's eSIM support has improved noticeably in the S24 generation ?newer Galaxy models typically install eSIM profiles in under 2 minutes on the first attempt. Older models like the S23 sometimes need a restart before they will recognise the QR code.
 
 **Google Pixel-Specific Notes**
 Pixels handle eSIM installation very smoothly. One thing to watch: after installation, go to Settings > Network & Internet > SIMs > [your eSIM] and make sure "Use eSIM" is toggled on. Pixels sometimes download the profile but don't activate it automatically.
@@ -263,7 +263,7 @@ For most providers, including Roami, this is exactly how it works. You buy the p
 
 **Check your provider's policy.** A few providers start the clock at the time of purchase, not activation. This is less common, but it exists. Read the terms before you buy. If your provider does this, don't install until the day you travel.
 
-This is a real gotcha. Some budget providers start the clock at purchase time �?buy a 7-day plan on Tuesday, install Thursday, land Saturday, and 5 of your 7 days may already be gone. The terms are often buried in a long FAQ dropdown. Read the fine print.
+This is a real gotcha. Some budget providers start the clock at purchase time ?buy a 7-day plan on Tuesday, install Thursday, land Saturday, and 5 of your 7 days may already be gone. The terms are often buried in a long FAQ dropdown. Read the fine print.
 
 **What about connecting at the airport?** If you arrive at a UK airport and haven't installed the plan yet, connect to the free airport WiFi first. All major UK airports -- Heathrow, Gatwick, Manchester, Stansted, Luton, Edinburgh, Glasgow, Birmingham -- offer free WiFi. Install the profile while connected, then activate it. You'll be online within two minutes of walking through the arrivals gate.
 
@@ -539,7 +539,7 @@ After setup, your UK eSIM connects to one of the four major UK networks, and you
 
 **If your eSIM profile connects to a single network**, you'll see that network's name at the top of your screen. Your coverage depends entirely on that network's reach. [EE](https://ee.co.uk) has the best overall coverage across the UK, according to [Ofcom's latest Connected Nations report](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/mobile-coverage-checker). [Three](https://www.three.co.uk) has the fastest city speeds but more rural gaps. [Vodafone](https://www.vodafone.co.uk) and [O2](https://www.o2.co.uk) sit somewhere in between.
 
-But coverage maps lie. Ofcom's "88% landmass" for EE sounds great until you're in a Lake District valley where that remaining 12% is all that matters. Routes through valleys like Windermere to Wasdale Head can have multiple dead zones on any single network �?a multi-network plan that switches to whichever carrier has signal through each valley is the only way to maintain continuous coverage.
+But coverage maps lie. Ofcom's "88% landmass" for EE sounds great until you're in a Lake District valley where that remaining 12% is all that matters. Routes through valleys like Windermere to Wasdale Head can have multiple dead zones on any single network ?a multi-network plan that switches to whichever carrier has signal through each valley is the only way to maintain continuous coverage.
 
 **If your eSIM profile has multi-network switching** (like Roami), your phone will automatically switch between carriers to maintain the strongest signal. You might see the carrier name change at the top of your screen as you move around -- that's normal and means the system is working. In UK cities you'll probably stay on EE or Three. In rural Great Britain you might switch to Vodafone or O2. A [UK eSIM](/united-kingdom-esim/) with automatic carrier switching handles these transitions without you needing to manually reconfigure anything.
 

@@ -268,7 +268,7 @@ Look at your status bar. Do you see the network name for your UK eSIM? Icons sho
 **Typical experience**
 Within 30 seconds of turning off aeroplane mode, both lines should register. Your WhatsApp messages flood in. Google Maps loads to show you how to get to your hotel. Your home SMS messages arrive. Everything works.
 
-Except when it doesn't. A UK eSIM with multi-network switching can take a few minutes to register on arrival because it's negotiating with multiple carriers to find the best one. The home SIM usually connects in seconds because it has no decision to make �?it just grabs whatever roaming partner is available. Once the multi-network eSIM picks the optimal carrier, everything runs smoothly. That brief gap between connections is worth knowing about so you don't panic.
+Except when it doesn't. A UK eSIM with multi-network switching can take a few minutes to register on arrival because it's negotiating with multiple carriers to find the best one. The home SIM usually connects in seconds because it has no decision to make ?it just grabs whatever roaming partner is available. Once the multi-network eSIM picks the optimal carrier, everything runs smoothly. That brief gap between connections is worth knowing about so you don't panic.
 
 **Ordering an Uber**
 You need a ride from your hotel to a meeting in Canary Wharf.
@@ -305,7 +305,7 @@ Midway through your Zoom call, your phone buzzes with an incoming call on your h
 **Quality note**
 If your UK eSIM has strong signal and adequate data allowance, the video call quality should be strong. If you're in a weak signal area, you may see quality drops. This is where auto carrier switching (Roami's speciality) makes a real difference -- it keeps you on the strongest available network.
 
-But here's a reality check: in basements and underground spaces �?co-working spots, Tube stations, lower-ground-floor hotel rooms �?all four UK networks struggle. No amount of auto-switching fixes being physically below ground level.
+But here's a reality check: in basements and underground spaces ?co-working spots, Tube stations, lower-ground-floor hotel rooms ?all four UK networks struggle. No amount of auto-switching fixes being physically below ground level.
 
 **Navigating the Scottish Highlands**
 You've driven up to the Highlands. The scenery is spectacular. Your data signal is... not.
@@ -336,7 +336,7 @@ On Android, the behaviour is similar. The dialler shows which line you're callin
 **Important note on roaming charges**
 If your home SIM doesn't include UK roaming, receiving calls on your home number while in the UK may incur charges. Check with your home provider about their international roaming rates for both incoming and outgoing calls.
 
-This catches travellers constantly. T-Mobile's international plans, for example, charge $0.25/minute for incoming calls in the UK �?four short family calls can add $8 to a bill unexpectedly. Switch to WhatsApp calling for anything non-urgent.
+This catches travellers constantly. T-Mobile's international plans, for example, charge $0.25/minute for incoming calls in the UK ?four short family calls can add $8 to a bill unexpectedly. Switch to WhatsApp calling for anything non-urgent.
 
 **Receiving Calls**
 Calls to either number will ring on your phone simultaneously. You'll see which line is ringing (labelled "Home" or "UK Data" or whatever you named them), and you can answer accordingly.
@@ -371,7 +371,7 @@ With this setup, iMessage on your phone will receive messages sent to either num
 
 If iMessage activation gets stuck, go to Settings > Messages > Toggle iMessage OFF, wait 30 seconds, toggle ON. This forces a re-activation attempt.
 
-But here's a warning: iMessage activation times vary significantly by carrier. Lebara users have reported activations taking 36 hours or more due to shortcode verification issues �?the Lebara support team acknowledges this as a known problem. giffgaff typically activates within an hour. If iMessage on your UK number matters, giffgaff is the safer bet.
+But here's a warning: iMessage activation times vary significantly by carrier. Lebara users have reported activations taking 36 hours or more due to shortcode verification issues ?the Lebara support team acknowledges this as a known problem. giffgaff typically activates within an hour. If iMessage on your UK number matters, giffgaff is the safer bet.
 
 **FaceTime with Dual SIM**
 Same principle as iMessage:

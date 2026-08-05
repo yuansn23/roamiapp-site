@@ -96,7 +96,7 @@ Here's what catches travellers out: the gap between "outdoor coverage" maps and 
 
 Before you travel, check that your phone supports an eSIM. The [GSMA](https://www.gsma.com/) device database lists compatible models from every manufacturer. For iPhone users, [Apple support documentation](https://support.apple.com/en-us/118670) confirms all models from the iPhone XS onwards work with a UK eSIM.
 
-A regular UK SIM from one of the big networks gives you whatever that network offers. A multi-network UK eSIM with automatic carrier switching can keep you connected by hopping between EE, Vodafone, O2, and Three as needed. That's a real advantage in the countryside �?the difference between staying on the road with live navigation and driving blind through a dead zone.
+A regular UK SIM from one of the big networks gives you whatever that network offers. A multi-network UK eSIM with automatic carrier switching can keep you connected by hopping between EE, Vodafone, O2, and Three as needed. That's a real advantage in the countryside ?the difference between staying on the road with live navigation and driving blind through a dead zone.
 
 ## Does an eSIM work in the Scottish Highlands?
 
@@ -108,7 +108,7 @@ The Scottish Highlands are stunning. No question about it. But they're also one 
 
 Those using a standard single-network data plan tied to just O2 or Three will probably lose signal fairly often in the Highlands. If you're on an EE-based service, you'll be connected much more of the time. And those on a multi-network option like Roami that can switch between all four networks automatically get the benefit of all of them. That means hanging onto EE where it works, jumping to O2 or Three when they have a stronger signal, and generally staying online longer.
 
-On the NC500, the difference between networks is stark. On EE, you'll have signal in places where someone on O2 has nothing for miles. In Applecross, on the famous Bealach na Ba pass, EE users can send messages while Three users are completely cut off. That's the reality of the Highlands. At locations like the Applecross viewpoint, EE and multi-network eSIMs hold a usable signal while O2 and Three show "No Service" �?Ofcom's coverage maps confirm this pattern.
+On the NC500, the difference between networks is stark. On EE, you'll have signal in places where someone on O2 has nothing for miles. In Applecross, on the famous Bealach na Ba pass, EE users can send messages while Three users are completely cut off. That's the reality of the Highlands. At locations like the Applecross viewpoint, EE and multi-network eSIMs hold a usable signal while O2 and Three show "No Service" ?Ofcom's coverage maps confirm this pattern.
 
 ## Which UK network has the best coverage for eSIM in rural areas?
 
@@ -127,7 +127,7 @@ Here's how the four major UK networks compare for rural coverage:
 
 Coverage data sourced from [Ofcom's Connected Nations report (2025)](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/mobile-coverage-checker) and [EE's coverage page](https://ee.co.uk/).
 
-No single network covers everything. Even EE has dead zones, especially in the deepest valleys and the most remote parts of northwest Scotland. That's why a multi-network setup makes sense. A provider that can switch between networks gives you the strongest possible signal wherever you are. The data from Ofcom's coverage maps consistently backs this up �?no single carrier covers every glen and valley.
+No single network covers everything. Even EE has dead zones, especially in the deepest valleys and the most remote parts of northwest Scotland. That's why a multi-network setup makes sense. A provider that can switch between networks gives you the strongest possible signal wherever you are. The data from Ofcom's coverage maps consistently backs this up ?no single carrier covers every glen and valley.
 
 **What about 5G in rural areas?**
 5G is mostly an urban story in the UK. You'll get it in cities, on some motorway stretches, and in larger towns. But in the countryside? Not so much. The UK 5G rollout has been slower than many hoped, and rural areas are last on the list. For a road trip in 2026, plan on 4G being your main connection outside cities. You may even encounter 3G in some very remote spots like Glen Etive or the road to Cape Wrath, where network infrastructure is minimal.
@@ -143,11 +143,11 @@ The NC500 is Scotland's answer to Route 66. It's a 516-mile loop that starts and
 **Where you will have signal on the NC500**
 **Good signal areas:** Inverness (all networks), Dingwall, Tain, Brora, Golspie, Helmsdale, Wick, Thurso, Ullapool, Gairloch, Torridon, Kyle of Lochalsh, Fort Augustus. Any town of reasonable size along the route will have 4G from at least one network.
 
-**Patchy signal areas:** The A9 between Inverness and Thurso has reasonable coverage from EE most of the way, but the other networks come and go. The A832 through the Highlands is a mixed bag. The A890 from Stromeferry to Auchtertyre is famously patchy �?the only consistent thing about it is the inconsistency.
+**Patchy signal areas:** The A9 between Inverness and Thurso has reasonable coverage from EE most of the way, but the other networks come and go. The A832 through the Highlands is a mixed bag. The A890 from Stromeferry to Auchtertyre is famously patchy ?the only consistent thing about it is the inconsistency.
 
 **Dead zones to plan for:**
 - The Bealach na Ba pass (Applecross): zero signal on all networks for the entire pass. Plan for 25-30 minutes of complete disconnection.
-- Large stretches of the A838 from Lairg to Tongue �?signal can drop for 45 minutes straight on this section.
+- Large stretches of the A838 from Lairg to Tongue ?signal can drop for 45 minutes straight on this section.
 - The road to Cape Wrath (though you need a ferry and military permission anyway)
 - Parts of the A894 between Scourie and Kylesku
 - The Glenshiel area around the A87
@@ -160,7 +160,7 @@ For the NC500 specifically, you want an eSIM that either runs on EE or can switc
 
 But here's an honest caveat: even Roami can't work miracles. On the Bealach na Ba, there is zero signal on all four networks. When there's no mast within range, auto-switching can't conjure one out of thin air. The multi-network advantage is real, but it's not magic.
 
-Roami [UK eSIM with multi-network switching](/united-kingdom-esim/) uses all four UK networks with automatic switching. In practice, on the NC500, that means it stays on EE most of the time but can jump to Vodafone or O2 in places where they have better local coverage. The automatic switching happens in the background without you having to think about it �?typical handover takes just a few seconds between networks.
+Roami [UK eSIM with multi-network switching](/united-kingdom-esim/) uses all four UK networks with automatic switching. In practice, on the NC500, that means it stays on EE most of the time but can jump to Vodafone or O2 in places where they have better local coverage. The automatic switching happens in the background without you having to think about it ?typical handover takes just a few seconds between networks.
 
 **UK eSIM for Scotland road trip campervan**
 Campervan travellers on the NC500 will appreciate being able to check campsite availability on the go, especially in summer when sites fill up fast. Arriving at a site after a six-hour drive only to find a "no vacancies" sign is crushing. With reliable network access, you can call ahead or check online booking systems while you're still on the road.
@@ -180,17 +180,17 @@ A multi-network UK eSIM with EE as the primary network gives you the best chance
 The Lake District is England's most popular national park, attracting over 16 million visitors each year according to the Lake District National Park Authority. It's also challenging for phone signal. A Great Britain eSIM that covers England, Scotland, and Wales is essential here -- the combination of steep valleys, deep lakes, and relatively sparse mast coverage means you'll find plenty of dead zones, especially if you're hiking away from the main tourist hubs. A [multi-network UK eSIM](/united-kingdom-esim/) with EE as its primary network gives you the best chance of staying connected in the Lakes.
 
 **Coverage in the Lake District by area**
-**Keswick and Derwentwater:** Good 4G from EE and Vodafone in the town itself. Once you get on the water or up the surrounding fells, it drops off. Catbells has signal at the summit on EE but not on other networks �?EE typically delivers usable data speeds at the summit, while Vodafone flickers and O2 and Three drop out from about 200 metres up.
+**Keswick and Derwentwater:** Good 4G from EE and Vodafone in the town itself. Once you get on the water or up the surrounding fells, it drops off. Catbells has signal at the summit on EE but not on other networks ?EE typically delivers usable data speeds at the summit, while Vodafone flickers and O2 and Three drop out from about 200 metres up.
 
 **Windermere and Bowness:** You'll get 4G in the towns and along the lake shore from most networks. Out on the lake itself, it depends. EE users generally stay connected. Others lose it in the middle. At the centre of Windermere, EE is often the only network still holding a usable signal.
 
 **Ambleside, Grasmere, and Rydal:** Decent coverage in the villages. The A591 corridor is well served by EE. But take even a short walk up Loughrigg Fell or into the valleys around Grasmere, and you'll lose signal quickly. On Loughrigg, EE typically lasts about 60% of the way up before dropping. Other networks rarely make it past the 30% mark.
 
-**Wasdale Head and Scafell:** One of the most signal-poor areas in the national park. Don't rely on having any connectivity at all if you're hiking Scafell Pike or staying at Wasdale Head. EE has a mast at Wasdale Head, but coverage is temperamental �?you may get enough signal for a text message near the Wasdale Head Inn, but nothing on the approach to Scafell.
+**Wasdale Head and Scafell:** One of the most signal-poor areas in the national park. Don't rely on having any connectivity at all if you're hiking Scafell Pike or staying at Wasdale Head. EE has a mast at Wasdale Head, but coverage is temperamental ?you may get enough signal for a text message near the Wasdale Head Inn, but nothing on the approach to Scafell.
 
 **Haweswater and the eastern fells:** Very poor coverage from all networks. If you're walking the Kentmere horseshoe or visiting Haweswater, plan to be offline for the entire duration.
 
-**Honister Pass and Buttermere:** Patchy at best. Honister Slate Mine has some signal but the pass itself is a dead zone for everyone �?zero bars on every network through the pass.
+**Honister Pass and Buttermere:** Patchy at best. Honister Slate Mine has some signal but the pass itself is a dead zone for everyone ?zero bars on every network through the pass.
 
 **Coniston and the Old Man:** Reasonable coverage on the lower slopes via EE. Above 400 metres, it varies wildly.
 
@@ -216,7 +216,7 @@ Snowdonia, or Eryri to use the national park's preferred Welsh name, is Wales' m
 
 **Capel Curig:** Patchy. EE works, others less so.
 
-**The Ogwen Valley and Glyderau:** Very poor. The A5 has sporadic EE coverage but the valley floors and mountainsides are largely offline. The Ogwen Valley viewpoint offers spectacular views �?and zero bars on every network.
+**The Ogwen Valley and Glyderau:** Very poor. The A5 has sporadic EE coverage but the valley floors and mountainsides are largely offline. The Ogwen Valley viewpoint offers spectacular views ?and zero bars on every network.
 
 **Cadair Idris:** Poor coverage on all networks. Plan to be offline the entire hike.
 
@@ -227,14 +227,14 @@ Climbing Yr Wyddfa (Snowdon) is on most visitors' lists. The summit is a busy pl
 
 The best approach for Eryri is the same as the Lakes: download everything you need before you arrive, carry a power bank (mountain rescue teams say phones dying is one of the most common issues they deal with), and don't assume you'll have signal for emergencies. That said, having reliable mobile data means you can check weather forecasts on the go. This is crucial in Snowdonia where conditions change fast. You can also call accommodation and navigate with confidence. An EE-based or multi-network data plan is the recommended approach here.
 
-But know this: Snowdonia's weather turns in minutes. You can set off under blue skies and be in cloud by the halfway point. The Met Office app can provide crucial advance warning of incoming weather �?but only if you have signal on the lower slopes to receive the alert. Without that warning, you could find yourself on the summit in zero visibility. Connectivity isn't just about Instagram -- it's a safety tool.
+But know this: Snowdonia's weather turns in minutes. You can set off under blue skies and be in cloud by the halfway point. The Met Office app can provide crucial advance warning of incoming weather ?but only if you have signal on the lower slopes to receive the alert. Without that warning, you could find yourself on the summit in zero visibility. Connectivity isn't just about Instagram -- it's a safety tool.
 
 ## What is the best eSIM for Cornwall?
 
 A multi-network UK eSIM with automatic carrier switching is the best option for Cornwall because it can hop to a less congested network when tourist-heavy coastal areas like St Ives and Newquay overload EE during summer. Cornwall's coverage challenges are different from mountainous regions. It's not obstructed by terrain in the same way, but smaller coves with high cliffs and network congestion in peak season create their own problems.
 
 **Coverage across Cornwall**
-**Major towns (Truro, Falmouth, Penzance, Newquay, St Ives, Bodmin):** Good 4G from all networks. You'll get 5G in some of these locations �?EE delivers speeds exceeding 100 Mbps in Truro city centre.
+**Major towns (Truro, Falmouth, Penzance, Newquay, St Ives, Bodmin):** Good 4G from all networks. You'll get 5G in some of these locations ?EE delivers speeds exceeding 100 Mbps in Truro city centre.
 
 **The A30 corridor:** This is the main road through Cornwall, and coverage along it is generally good from all networks. EE is strongest, but Vodafone and O2 also hold up well. The entire length of the A30 from Exeter to Penzance has consistent coverage on EE.
 
@@ -244,12 +244,12 @@ A multi-network UK eSIM with automatic carrier switching is the best option for 
 
 **Land's End and the Penwith Peninsula:** Signal is actually okay at the Land's End complex itself. The coastal paths around Penwith are patchy -- good coverage on clifftops, poor coverage in coves. On the coastal path from Land's End toward Sennen, EE holds signal on the clifftops, but every descent into a cove kills connectivity on all networks.
 
-**Dartmoor (on the way):** Speaking of poor signal, Dartmoor is notorious. If you're driving through Devon to get to Cornwall, expect large stretches of the A30 across Dartmoor to have no mobile data at all on any network. Download your music and maps in advance �?you can lose signal for 20 minutes straight crossing Dartmoor on the A30.
+**Dartmoor (on the way):** Speaking of poor signal, Dartmoor is notorious. If you're driving through Devon to get to Cornwall, expect large stretches of the A30 across Dartmoor to have no mobile data at all on any network. Download your music and maps in advance ?you can lose signal for 20 minutes straight crossing Dartmoor on the A30.
 
 **Cornwall-specific tips**
 Cornwall's tourism boom means the networks can be congested in summer. Even if you have signal, data speeds can slow to a crawl in places like St Ives, Newquay, and Padstow during August. A multi-network data plan helps here because it can hop to a less congested network. A [UK travel eSIM](/united-kingdom-esim/) with automatic carrier switching is particularly useful in tourist-heavy coastal areas where network congestion varies throughout the day. For anyone comparing travel eSIM UK options, the ability to jump between carriers is what separates a working connection from a frustrating one.
 
-The automatic switching feature comes into its own in these scenarios. When EE gets bogged down by crowds uploading photos from Fistral Beach, the connection can switch to Vodafone or O2 where they might have spare capacity. A multi-network eSIM can jump from a congested tower delivering single-digit Mbps to an uncongested one delivering 30+ Mbps �?while sitting on the same beach.
+The automatic switching feature comes into its own in these scenarios. When EE gets bogged down by crowds uploading photos from Fistral Beach, the connection can switch to Vodafone or O2 where they might have spare capacity. A multi-network eSIM can jump from a congested tower delivering single-digit Mbps to an uncongested one delivering 30+ Mbps ?while sitting on the same beach.
 
 Also worth noting: if you're surfing, keep your phone in a waterproof pouch. Phones and salt water don't mix well.
 
@@ -315,9 +315,9 @@ For a Scotland hiking trip, you need an EE-based or multi-network eSIM because E
 
 **Cape Wrath Trail:** This is a serious wilderness hike. Connectivity is minimal for most of the route. Don't rely on having mobile signal at all. Hikers who've completed it report having signal on roughly 3 out of 14 days. Plan accordingly.
 
-**Skye Trail:** Signal in Broadford and Portree, but the Cuillin Ridge is a dead zone for all networks. There's a spot on the Bla Bheinn summit where EE sometimes has a signal, but don't count on it �?it may flicker for 30 seconds, enough for a single text message, and then disappear. No other network registers at all.
+**Skye Trail:** Signal in Broadford and Portree, but the Cuillin Ridge is a dead zone for all networks. There's a spot on the Bla Bheinn summit where EE sometimes has a signal, but don't count on it ?it may flicker for 30 seconds, enough for a single text message, and then disappear. No other network registers at all.
 
-**Cairngorm Plateau:** Very poor signal from all networks. The high plateau is too remote for masts. EE has some coverage on summits but it's unreliable. From the Cairngorm ski centre toward Ben Macdui, signal typically lasts until about 900 metres on EE, then drops completely �?potentially nothing for the next 4 hours of walking.
+**Cairngorm Plateau:** Very poor signal from all networks. The high plateau is too remote for masts. EE has some coverage on summits but it's unreliable. From the Cairngorm ski centre toward Ben Macdui, signal typically lasts until about 900 metres on EE, then drops completely ?potentially nothing for the next 4 hours of walking.
 
 For any **UK eSIM for Scotland hiking trip**, your data plan is a safety tool, not just a convenience:
 - Share your route with someone before you set off. If you lose signal, they need to know where you planned to be. This isn't optional.
@@ -339,7 +339,7 @@ Here's the reality check for rural coverage across the four UK networks:
 
 If you want the best chance of staying connected in remote areas, choose a multi-network eSIM that can switch between all four networks automatically. This is why Roami is a popular choice for rural travel -- it uses EE, Vodafone, O2, and Three with automatic switching.
 
-**The bottom line:** You'll have signal in most rural areas on EE. You'll have patchy signal on Vodafone and O2. You'll often have no signal on Three. A multi-network plan gives you the best of all four. This pattern holds consistently �?Ofcom's coverage data confirms it, as does feedback from thousands of road trippers on travel forums.
+**The bottom line:** You'll have signal in most rural areas on EE. You'll have patchy signal on Vodafone and O2. You'll often have no signal on Three. A multi-network plan gives you the best of all four. This pattern holds consistently ?Ofcom's coverage data confirms it, as does feedback from thousands of road trippers on travel forums.
 
 ## Which UK eSIM plan should I choose for my road trip?
 
@@ -364,7 +364,7 @@ This road trip is the classic grand tour. You might start in Edinburgh, drive th
 
 For a trip like this, a multi-network data plan is strongly recommended. You'll pass through areas where each of the four networks has the edge at different times. A single-network SIM would leave you with frustrating gaps. A multi-network service like Roami handles the switching automatically and gives you the best possible connection everywhere.
 
-Don't forget to get a data allowance that matches your trip length. For a three-week trip covering all these regions, you'll probably use 20 to 40 GB depending on your habits �?moderate social media use and evening video streaming typically consume around 30-35 GB over three weeks.
+Don't forget to get a data allowance that matches your trip length. For a three-week trip covering all these regions, you'll probably use 20 to 40 GB depending on your habits ?moderate social media use and evening video streaming typically consume around 30-35 GB over three weeks.
 
 **Quick Decision: Which eSIM Plan Works for Your Scotland Adventure?**
 - **Driving the NC500 or visiting remote Highlands:** Choose a multi-network eSIM with EE access. Single-network plans on Three will leave you without signal for long stretches.
@@ -412,7 +412,7 @@ Offline maps are not optional for a UK road trip. They're essential.
 
 Download Google Maps offline areas for entire regions. Download Scotland, northern England, and Wales before you fly. Google Maps offline includes driving directions and points of interest, but not real-time traffic or alternative routes. For hiking, OS Maps is far ahead of Google Maps. The 1:25,000 scale maps show every footpath, bridleway, and contour line. Download the areas you'll be hiking in advance.
 
-What3Words works offline if you've downloaded the map data. It divides the world into three-metre squares, each with a unique three-word address. Mountain rescue teams across the UK use it �?it can give rescuers your exact location even without mobile signal. Park4Night or Searchforsites are invaluable for finding wild camping spots, cheap campsites, and overnight parking. Download the offline databases before you go.
+What3Words works offline if you've downloaded the map data. It divides the world into three-metre squares, each with a unique three-word address. Mountain rescue teams across the UK use it ?it can give rescuers your exact location even without mobile signal. Park4Night or Searchforsites are invaluable for finding wild camping spots, cheap campsites, and overnight parking. Download the offline databases before you go.
 
 Download a good weather app. The Met Office app is the most reliable for the UK. Check the forecast when you have signal. The weather in the UK mountains can change from sunshine to blizzard in an hour.
 
@@ -444,11 +444,11 @@ Roami is the best UK eSIM for road trips because it automatically switches betwe
 
 Roami [UK eSIM plan](/united-kingdom-esim/) connects to all four UK networks and automatically picks the strongest signal wherever you are. This is genuinely useful for road trips because you're constantly moving between areas where different networks perform best.
 
-The features that make a difference on the road include automatic carrier switching. In the Highlands, you might start a drive on EE, lose it in a glen, pick up O2 on the other side, and switch back to EE when you reach a town. Your connectivity solution handles this automatically with Roami �?it's not marketing fluff, it's a real engineering feature.
+The features that make a difference on the road include automatic carrier switching. In the Highlands, you might start a drive on EE, lose it in a glen, pick up O2 on the other side, and switch back to EE when you reach a town. Your connectivity solution handles this automatically with Roami ?it's not marketing fluff, it's a real engineering feature.
 
 Live customer support is available if something goes wrong with your connection while you're miles from anywhere. Roami offers live chat support, which is more than some providers offer. Users report connecting to support chat within seconds and getting answers in minutes, even from remote laybys in the Highlands.
 
-Easy top-ups mean that if you run out of data halfway through the NC500, you don't need to faff around. Topping up is done through the app and takes about 30 seconds �?quick enough to do from a pub while waiting for fish and chips.
+Easy top-ups mean that if you run out of data halfway through the NC500, you don't need to faff around. Topping up is done through the app and takes about 30 seconds ?quick enough to do from a pub while waiting for fish and chips.
 
 Anyone wanting to try Roami before committing to a longer trip can use the [free trial available](/free-esim/). A free eSIM UK trial lets you test the connectivity first-hand. Test it on a weekend trip first. Make sure it works for your specific phone, your specific destinations. Don't discover a compatibility issue 200 miles into the NC500.
 
@@ -490,14 +490,14 @@ Check your route on the map at your last point of signal. Make sure you know the
 Don't panic. You'll come back into coverage eventually. Keep driving or stay put. Signal often returns on higher ground or near settlements. Try higher ground if you really need to send a message. Walk up a hill if you can safely do so. Use your offline maps that you prepared in advance. You did prepare them, right?
 
 **Emergency situations**
-If you genuinely need help and have no signal, remember that mobile phones in the UK can always dial 999 on any available network, even without a SIM card or credit. If any network has a signal in the area, your phone will use it for emergency calls. Try texting 999. Sometimes a text can get through when a voice call cannot because it uses less bandwidth. Use SOS via satellite if you have an iPhone 14 or later. Look for a phone box. The UK still has many working phone boxes in rural areas -- they're the red ones. Calls to 999 from any phone box are free. Flag down another vehicle. Other drivers might have a different network with coverage �?a passing Land Rover driver on a different network might be your best connectivity option in a remote glen.
+If you genuinely need help and have no signal, remember that mobile phones in the UK can always dial 999 on any available network, even without a SIM card or credit. If any network has a signal in the area, your phone will use it for emergency calls. Try texting 999. Sometimes a text can get through when a voice call cannot because it uses less bandwidth. Use SOS via satellite if you have an iPhone 14 or later. Look for a phone box. The UK still has many working phone boxes in rural areas -- they're the red ones. Calls to 999 from any phone box are free. Flag down another vehicle. Other drivers might have a different network with coverage ?a passing Land Rover driver on a different network might be your best connectivity option in a remote glen.
 
 **Practical tips for using your eSIM on a UK road trip**
 Install your eSIM at home while you have WiFi. Don't wait until you land. Scanning a QR code in a busy arrivals hall is stressful and error-prone. Test Roami before you go. Most providers offer a grace period. Make sure it works. Download offline maps of the areas you'll visit. This isn't optional for a road trip. Tell your provider your travel dates. Some plans need to be activated within a window. Check your phone is unlocked. If you bought your phone from a US carrier, verify it's unlocked for international use. This catches more people than you'd think.
 
 At the airport, connect to airport WiFi and verify your data plan is active. Test data by loading a website before you leave the terminal. Set your data roaming to on for the eSIM. This catches a lot of people out. If you have issues, most UK airport arrivals halls now have SIM vending machines and shops. Heathrow, Gatwick, Manchester, and Edinburgh all have shops for EE, Vodafone, and O2.
 
-On the road, restart your phone if you lose signal in an area where you should have it. Sometimes the phone just needs to re-register on the network. Try airplane mode for 10 seconds and then turn it off. This forces a fresh network search and often fixes temporary connection issues �?it works more often than not. Check your APN settings. Most eSIMs set these automatically, but if you can't get data, manual APN configuration might be needed. Use Signal or WhatsApp for messaging. These work over data and don't need SMS, which your plan might not support. Keep your home SIM active for iMessage activation and two-factor authentication texts.
+On the road, restart your phone if you lose signal in an area where you should have it. Sometimes the phone just needs to re-register on the network. Try airplane mode for 10 seconds and then turn it off. This forces a fresh network search and often fixes temporary connection issues ?it works more often than not. Check your APN settings. Most eSIMs set these automatically, but if you can't get data, manual APN configuration might be needed. Use Signal or WhatsApp for messaging. These work over data and don't need SMS, which your plan might not support. Keep your home SIM active for iMessage activation and two-factor authentication texts.
 
 **When things go wrong**
 If you lose all connectivity and can't fix it, check you have data roaming on for Roami. Check your APN settings match what Roami specified. Try manual network selection. Go to Settings, then Mobile Network, then Network Operator and search manually. Select EE manually if your plan supports multiple networks. Contact your provider support. Roami has live chat. Other providers vary.
@@ -507,7 +507,7 @@ Anyone still stuck after that will find the UK has free WiFi in many public plac
 For more detailed troubleshooting, see the [troubleshooting guide](/blog/uk-esim-troubleshooting/) which covers common issues and their fixes.
 
 **Weather and signal: a surprising connection**
-UK weather affects mobile signal. Heavy rain, thick cloud, and especially snow can degrade signal quality. This is more noticeable in rural areas where you're already at the edge of coverage. In practice, a marginal signal at one bar in clear weather might disappear entirely in heavy rain. The Lakes and Snowdonia, which get a lot of rain, have more bad-signal days than you might expect. Storm-force winds can damage masts, and repair times in remote areas can be long. Cold weather drains phone batteries faster, and a phone struggling for signal in the cold will drain even faster. A signal showing 2 bars in sunshine can drop to zero when thick cloud rolls in �?same spot, same phone, different weather.
+UK weather affects mobile signal. Heavy rain, thick cloud, and especially snow can degrade signal quality. This is more noticeable in rural areas where you're already at the edge of coverage. In practice, a marginal signal at one bar in clear weather might disappear entirely in heavy rain. The Lakes and Snowdonia, which get a lot of rain, have more bad-signal days than you might expect. Storm-force winds can damage masts, and repair times in remote areas can be long. Cold weather drains phone batteries faster, and a phone struggling for signal in the cold will drain even faster. A signal showing 2 bars in sunshine can drop to zero when thick cloud rolls in ?same spot, same phone, different weather.
 
 These weather effects don't mean you need a different service. It means you should be realistic about expectations. A signal you can just about use on a sunny day may not be there in a downpour.
 
@@ -517,7 +517,7 @@ This advice sounds extreme, but it can be useful if connectivity is critical for
 For example, on the NC500, you might plan to stay overnight in places with reliable signal: Inverness, Tain, Golspie, Helmsdale, Wick, Thurso, Ullapool, Gairloch, Torridon, or Kyle of Lochalsh. If you wild camp, pick spots near these towns if you need connectivity in the evening.
 
 **The Scottish Highlands: deeper coverage analysis**
-The A9 from Perth to Inverness: EE with the strongest coverage. Vodafone and O2 have reasonable coverage most of the way but drop out in the Drumochter Pass. Three has the weakest coverage, with notable gaps between Dalwhinnie and Newtonmore. The results are consistent �?Ofcom data confirms this route hierarchy.
+The A9 from Perth to Inverness: EE with the strongest coverage. Vodafone and O2 have reasonable coverage most of the way but drop out in the Drumochter Pass. Three has the weakest coverage, with notable gaps between Dalwhinnie and Newtonmore. The results are consistent ?Ofcom data confirms this route hierarchy.
 
 The A82 from Glasgow to Inverness via Glen Coe and Fort William is one of Scotland's most scenic drives. Coverage from EE is surprisingly good for much of it. The Glen Coe area is patchy because those steep glens block everything. Fort William is well covered. The stretch between Fort William and Inverness through the Great Glen is good, with EE leading.
 
@@ -527,7 +527,7 @@ The A835 from Inverness to Ullapool offers reasonable coverage from EE most of t
 
 The A890 from Stromeferry to Auchtertyre is a famous poor-coverage road. The single-track section along the loch is a dead zone. EE sometimes has a faint signal, but don't rely on it.
 
-The A894 from Lairg to Scourie is very patchy. The area around Loch Shin is largely uncovered. EE has some coverage near Lairg and Scourie but the middle section is a dead zone �?travellers can lose signal for 45 minutes or more. No network. No bars. Just the road, the lochs, and the occasional sheep.
+The A894 from Lairg to Scourie is very patchy. The area around Loch Shin is largely uncovered. EE has some coverage near Lairg and Scourie but the middle section is a dead zone ?travellers can lose signal for 45 minutes or more. No network. No bars. Just the road, the lochs, and the occasional sheep.
 
 **The Cairngorms**
 The Cairngorms National Park has better coverage than the northwest Highlands in general, largely because it's more accessible and has towns like Aviemore. But the high plateau and the remote glens are still a challenge.

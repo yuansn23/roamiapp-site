@@ -75,7 +75,7 @@ recentPosts:
 
 Most common UK eSIM problems can be resolved quickly without contacting customer support. Whether you're using a data eSIM for the UK on a short city break or a full-service plan for an extended trip, the troubleshooting steps are the same. Over 50% of issues are caused by data roaming being switched off, and most other problems resolve within minutes through manual network selection, APN configuration, a phone restart, or toggling aeroplane mode.
 
-Common eSIM troubleshooting scenarios logged across community forums and support databases show that the average fix takes under 5 minutes. The longest fixes involve carrier-locked phones (requiring a call to the home carrier for an unlock �?typically 30-40 minutes). The shortest is toggling data roaming �?10 seconds or less. You'll fix most problems faster than it takes to read this guide.
+Common eSIM troubleshooting scenarios logged across community forums and support databases show that the average fix takes under 5 minutes. The longest fixes involve carrier-locked phones (requiring a call to the home carrier for an unlock ?typically 30-40 minutes). The shortest is toggling data roaming ?10 seconds or less. You'll fix most problems faster than it takes to read this guide.
 
 If you're experiencing **UK eSIM not working after arrival**, the first thing to check is data roaming -- it's the single most common cause.
 
@@ -297,7 +297,7 @@ So you're connected, but everything feels sluggish. Web pages take forever to lo
 **How Roami Handles Speed**
 Roami's auto carrier switching is specifically designed to address the network congestion problem. Instead of being locked to one network, Roami automatically switches between EE, Vodafone, O2, and Three to find the fastest available connection at your location. If EE is congested in your area, you'd automatically switch to Three or Vodafone without any manual intervention.
 
-But auto-switching has a warm-up period. When a multi-network eSIM first connects at your arrival airport, it takes 30-60 seconds to test all available networks and pick the fastest one. During that window, you might be on a suboptimal network. Give it a minute before you start troubleshooting. The initial network selected at connection is the best available only about 40% of the time �?after 60 seconds of switching, the optimal network is selected over 90% of the time.
+But auto-switching has a warm-up period. When a multi-network eSIM first connects at your arrival airport, it takes 30-60 seconds to test all available networks and pick the fastest one. During that window, you might be on a suboptimal network. Give it a minute before you start troubleshooting. The initial network selected at connection is the best available only about 40% of the time ?after 60 seconds of switching, the optimal network is selected over 90% of the time.
 
 This is particularly valuable if you're moving around the UK -- network performance varies dramatically between cities and even between neighbourhoods. A single-network plan can't adapt; Roami's can.
 
@@ -550,7 +550,7 @@ Yes, in most cases -- but it depends on your provider. Some providers let you re
 
 **If the QR code doesn't work:** Contact your provider's support. They can generate a new QR code for you. Most providers, including Roami, offer live support for this.
 
-But here's a caution: most eSIM QR codes have a reuse limit �?typically two reactivations per code. After that, the original QR code stops working and you'll need to request a new one from support. Plan accordingly if you anticipate needing to reinstall multiple times.
+But here's a caution: most eSIM QR codes have a reuse limit ?typically two reactivations per code. After that, the original QR code stops working and you'll need to request a new one from support. Plan accordingly if you anticipate needing to reinstall multiple times.
 
 **When to Delete and Reinstall**
 - Activation is stuck for more than 30 minutes
@@ -768,7 +768,7 @@ If these don't work, check your Roami account dashboard for the specific APN det
 **Roami Live Support**
 Anyone who has tried everything and still cannot connect will find that Roami offers live customer support. Contact us through the website or app. Have your order number and a description of what you've tried ready. Our team can check your eSIM's activation status, reissue a QR code if needed, and walk you through device-specific configuration. A [travel eSIM for the UK](/united-kingdom-esim/) provider with 24/7 live support can resolve most issues within minutes, which is invaluable when you're troubleshooting in a foreign country.
 
-Roami's support benchmark illustrates what good service looks like: live chat responses in under 5 minutes, with most issues resolved within 10 minutes of the first message �?including late nights and weekends. That's the bar for travel eSIM support.
+Roami's support benchmark illustrates what good service looks like: live chat responses in under 5 minutes, with most issues resolved within 10 minutes of the first message ?including late nights and weekends. That's the bar for travel eSIM support.
 
 ## Quick Fix Summary: The 5-Step Recovery Plan
 

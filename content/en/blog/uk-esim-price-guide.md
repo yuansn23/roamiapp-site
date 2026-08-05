@@ -718,7 +718,7 @@ Yes, most mid-range and premium England eSIM plans include 5G access at no extra
       "name": "Can I use a Great Britain eSIM in Scotland and Wales?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. A Great Britain eSIM works across England, Scotland, Wales, and Northern Ireland. The same plan covers the entire United Kingdom �?there's no need to buy separate plans for different UK nations."
+        "text": "Yes. A Great Britain eSIM works across England, Scotland, Wales, and Northern Ireland. The same plan covers the entire United Kingdom ?there's no need to buy separate plans for different UK nations."
       }
     },
     {
