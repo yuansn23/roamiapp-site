@@ -2,8 +2,8 @@
 title: "Orange Travel vs Airalo: Which France eSIM Is Better?"
 description: "Orange Travel vs Airalo, Holafly, and Ubigi for France. Roami compares carrier eSIMs with French phone number, Orange priority, and travel eSIM savings."
 keywords: ["Orange Travel France eSIM", "Orange Travel vs Airalo", "France eSIM with French number", "Orange eSIM for tourists", "carrier eSIM vs travel eSIM France"]
-date: 2026-08-08T00:00:00Z
-lastmod: 2026-08-08T00:00:00Z
+date: 2026-08-04T00:00:00Z
+lastmod: 2026-08-04T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/france/france-esim-orange-travel-comparison.jpg"

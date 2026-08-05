@@ -2,8 +2,8 @@
 title: "Best France eSIM Providers Compared: Top Travel Picks"
 description: "Compare 7 France eSIM providers: Airalo, Holafly, Ubigi, Saily, Nomad, and Orange Travel. Roami compares prices, coverage, and reviews to help you choose."
 keywords: ["France eSIM providers", "best France eSIM", "France eSIM Airalo", "France eSIM Holafly", "France eSIM Ubigi"]
-date: 2026-08-09T00:00:00Z
-lastmod: 2026-08-09T00:00:00Z
+date: 2026-08-04T00:00:00Z
+lastmod: 2026-08-04T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/france/france-esim-provider-ranking.jpg"

@@ -2,8 +2,8 @@
 title: "France eSIM Setup: Dual SIM and Phone Number Guide"
 description: "Complete France eSIM setup guide for 2026. Install and activate a France eSIM on iPhone and Android, configure dual SIM, and understand French number options."
 keywords: ["France eSIM setup", "France eSIM installation", "France eSIM iPhone", "France eSIM dual SIM", "France eSIM phone number", "France eSIM activation", "Orange eSIM setup", "eSIM installation guide"]
-date: 2026-08-10T00:00:00Z
-lastmod: 2026-08-10T00:00:00Z
+date: 2026-08-04T00:00:00Z
+lastmod: 2026-08-04T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/france/france-esim-setup-dual-sim-number.jpg"

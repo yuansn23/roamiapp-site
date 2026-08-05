@@ -2,8 +2,8 @@
 title: "France eSIM: Paris vs. South of France"
 description: "France eSIM by destination and travel type: Paris, French Riviera, Disneyland—plus business, family, solo, backpacking, and digital nomad plans. Compare data needs, coverage, and costs for your France trip."
 keywords: ["France eSIM by destination", "Paris eSIM guide", "French Riviera eSIM", "Disneyland Paris eSIM", "France eSIM travel type", "best France eSIM for families"]
-date: 2026-08-07T00:00:00Z
-lastmod: 2026-08-07T00:00:00Z
+date: 2026-08-04T00:00:00Z
+lastmod: 2026-08-04T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/france/france-esim-destination-guides.jpg"

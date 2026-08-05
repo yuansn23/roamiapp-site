@@ -2,8 +2,8 @@
 title: "A Step-by-Step UK eSIM Setup for iPhone and Android"
 description: "Install your UK eSIM in 5 min. Step-by-step for iPhone & Android: QR code, APN, data roaming. Roami with live support. Get connected now."
 keywords: ["how to install UK eSIM iPhone Android","UK eSIM QR code setup guide","check phone eSIM compatibility UK","UK eSIM APN settings configuration","UK eSIM install before departure","how to activate UK eSIM before travel","UK eSIM compatible phones guide","UK eSIM self installation"]
-date: 2026-08-06T00:00:00Z
-lastmod: 2026-08-06T00:00:00Z
+date: 2026-08-04T00:00:00Z
+lastmod: 2026-08-04T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travellers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/uk/uk-esim-setup-guide.jpg"

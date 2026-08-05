@@ -2,8 +2,8 @@
 title: "France eSIM vs SIM vs Roaming: Which Saves More?"
 description: "Compare France eSIM vs physical SIM vs roaming costs. Roami shows how eSIM saves 60-85% over carrier roaming with Orange Holiday analysis and traveler tips."
 keywords: ["France eSIM vs physical SIM", "France eSIM vs roaming", "France eSIM cost savings", "Orange Holiday France eSIM", "France travel connectivity"]
-date: 2026-08-11T00:00:00Z
-lastmod: 2026-08-11T00:00:00Z
+date: 2026-08-04T00:00:00Z
+lastmod: 2026-08-04T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/france/france-esim-vs-physical-sim-roaming.jpg"

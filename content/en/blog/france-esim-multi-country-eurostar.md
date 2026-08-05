@@ -2,8 +2,8 @@
 title: "France eSIM for Europe Rail: Best Multi-Country Picks"
 description: "Guide to France eSIM for multi-country Europe rail travel. Roami covers Eurostar, TGV cross-border lines, and multi-country eSIM plans for Europe travel."
 keywords: ["France eSIM multi-country", "Eurostar eSIM France", "TGV cross-border eSIM", "Europe rail eSIM", "multi-country Europe eSIM plan"]
-date: 2026-08-07T00:00:00Z
-lastmod: 2026-08-07T00:00:00Z
+date: 2026-08-04T00:00:00Z
+lastmod: 2026-08-04T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/france/france-esim-multi-country-eurostar.jpg"

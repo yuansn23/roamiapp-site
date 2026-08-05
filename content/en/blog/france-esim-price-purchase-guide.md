@@ -2,8 +2,8 @@
 title: "France eSIM Guide: Plans, Networks & Coverage​"
 description: "France eSIM guide covers cheapest plans from $3, 7-day tourist pricing, 30-day costs, unlimited 5G. Roami promo codes and free trial included for savings."
 keywords: ["France eSIM price", "cheapest France eSIM", "France eSIM 5G plans", "France eSIM promo code", "France eSIM cost per GB"]
-date: 2026-08-09T00:00:00Z
-lastmod: 2026-08-09T00:00:00Z
+date: 2026-08-04T00:00:00Z
+lastmod: 2026-08-04T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/france/france-esim-price-purchase-guide.jpg"

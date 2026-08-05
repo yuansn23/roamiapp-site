@@ -2,8 +2,8 @@
 title: "France eSIM Coverage: 5G, Rural Areas and High-Speed Rail"
 description: "Complete France eSIM coverage guide for 2026. Paris 5G, TGV routes, rural Provence, Corsica, and CDG airport—compare Orange, SFR, Bouygues, and Free networks."
 keywords: ["France eSIM coverage", "Paris 5G coverage eSIM", "France TGV mobile coverage", "rural France eSIM coverage", "Corsica eSIM coverage", "best eSIM for France travel"]
-date: 2026-08-06T00:00:00Z
-lastmod: 2026-08-06T00:00:00Z
+date: 2026-08-04T00:00:00Z
+lastmod: 2026-08-04T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/france/france-esim-coverage-guide.jpg"

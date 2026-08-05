@@ -2,8 +2,8 @@
 title: "Orange, Free, SFR or Bouygues: Best France eSIM Network?"
 description: "Complete Orange vs Free vs SFR vs Bouygues France eSIM network comparison for 2026. Coverage, speeds, prepaid plans, and which carrier is best for tourists."
 keywords: ["Orange vs Free vs SFR vs Bouygues France", "France mobile network comparison", "France eSIM Orange coverage", "Free Mobile France eSIM", "France eSIM carrier comparison", "best network for France travel"]
-date: 2026-08-08T00:00:00Z
-lastmod: 2026-08-08T00:00:00Z
+date: 2026-08-04T00:00:00Z
+lastmod: 2026-08-04T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/france/france-esim-network-comparison.jpg"
