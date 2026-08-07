@@ -3,8 +3,8 @@ title: "Holafly eSIM Portugal: Dados Ilimitados sem Surpresas"
 h1_title: "Holafly eSIM Portugal 2026: Vale a Pena? Preços, Cobertura e Comparação"
 description: "Guia completo do Holafly eSIM para Portugal em 2026. Dados ilimitados sem throttling, preços a partir de $3.90/dia, cobertura MEO/NOS/Vodafone 5G. Compare com Airalo e Ubigi."
 keywords: ["holafly esim", "holafly esim portugal", "holafly portugal", "holafly eSIM preço", "holafly dados ilimitados", "holafly vs airalo", "holafly cobertura portugal", "holafly como ativar", "esim ilimitado portugal", "holafly 5g portugal", "melhor esim portugal holafly", "holafly hotspot", "holafly avaliação", "holafly vale a pena", "esim portugal holafly", "holafly lisboa", "holafly porto", "holafly algarve"]
-date: 2026-08-07T10:00:00Z
-lastmod: 2026-08-07T19:30:00Z
+date: 2026-08-06T10:00:00Z
+lastmod: 2026-08-06T19:30:00Z
 tags: ["Holafly", "eSIM", "Portugal", "Dados Ilimitados", "5G", "Comparação", "Airalo", "Ubigi", "Viagem"]
 toc: true
 

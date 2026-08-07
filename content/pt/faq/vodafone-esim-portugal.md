@@ -3,8 +3,8 @@ title: "Vodafone eSIM: Preços e Como Ativar em Portugal"
 h1_title: "Vodafone eSIM em Portugal 2026: Guia Completo de Preços, Ativação e Alternativas"
 description: "Guia completo do Vodafone eSIM em Portugal 2026. Preços atualizados, como ativar, dispositivos compatíveis e comparação com MEO, NOS, Digi, Airalo e Holafly."
 keywords: ["esim vodafone", "vodafone esim", "vodafone esim portugal", "ativar esim vodafone", "vodafone esim preço", "esim vodafone como ativar", "vodafone esim android", "vodafone esim iphone", "vodafone portugal esim", "yorn esim", "vodafone esim viagem", "esim portugal vodafone", "vodafone esim configuração", "vodafone esim plano", "vodafone esim 2026", "meo esim", "nos esim", "digi esim", "comparação esim portugal", "holafly esim", "airalo esim"]
-date: 2026-08-07T10:00:00Z
-lastmod: 2026-08-07T16:00:00Z
+date: 2026-08-06T10:00:00Z
+lastmod: 2026-08-06T16:00:00Z
 tags: ["Vodafone", "eSIM", "Portugal", "Ativação", "Planos", "Roaming", "Comparação", "MEO", "NOS", "Digi", "Airalo", "Holafly"]
 toc: true
 
@@ -31,7 +31,7 @@ sidebar_popular:
   item_suffix: "eSIM"
   items:
     - name: "Portugal eSIM"
-      flag: "/img/flags.svg"
+      flag: "/img/flags/pt.svg"
       price: "$1.99"
       url: "/portugal-esim/"
       badge: "5G"
