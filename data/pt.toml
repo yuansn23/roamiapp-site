@@ -1,0 +1,121 @@
+[related_products]
+title = "Planos eSIM Semelhantes"
+
+[[related_products.items]]
+name = "eSIM USA"
+flag = "img/flags/us.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "united-states-esim"
+
+[[related_products.items]]
+name = "eSIM China"
+flag = "img/flags/cn.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "china-esim"
+
+[[related_products.items]]
+name = "eSIM Alemanha"
+flag = "img/flags/de.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "germany-esim"
+
+[[related_products.items]]
+name = "eSIM Japão"
+flag = "img/flags/jp.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "japan-esim"
+
+[[related_products.items]]
+name = "eSIM Índia"
+flag = "img/flags/in.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "india-esim"
+
+[[related_products.items]]
+name = "eSIM UK"
+flag = "img/flags/gb.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "united-kingdom-esim"
+
+[[related_products.items]]
+name = "eSIM França"
+flag = "img/flags/fr.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "france-esim"
+
+[[related_products.items]]
+name = "eSIM Itália"
+flag = "img/flags/it.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "italy-esim"
+
+[[related_products.items]]
+name = "eSIM Canadá"
+flag = "img/flags/ca.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "canada-esim"
+
+[[related_products.items]]
+name = "eSIM Brasil"
+flag = "img/flags/br.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "brazil-esim"
+
+[[related_products.items]]
+name = "eSIM Espanha"
+flag = "img/flags/es.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "spain-esim"
+
+[[related_products.items]]
+name = "eSIM Coreia do Sul"
+flag = "img/flags/kr.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "south-korea-esim"
+
+[[related_products.items]]
+name = "eSIM Austrália"
+flag = "img/flags/au.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "australia-esim"
+
+[[related_products.items]]
+name = "eSIM Turquia"
+flag = "img/flags/tr.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "turkey-esim"
+
+[[related_products.items]]
+name = "eSIM Taiwan"
+flag = "img/flags/tw.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "taiwan-esim"
+
+[[related_products.items]]
+name = "eSIM UAE"
+flag = "img/flags/ae.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "united-arab-emirates-esim"
+
+[[related_products.items]]
+name = "eSIM Áustria"
+flag = "img/flags/at.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "austria-esim"

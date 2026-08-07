@@ -1,0 +1,544 @@
+# 通用按钮与标签
+[download_on_the]
+other = "Baixe no"
+
+[app_store]
+other = "App Store"
+
+[get_it_on]
+other = "Obtenha no"
+
+[google_play]
+other = "Google Play"
+
+[visit_our]
+other = "Visite nosso"
+
+[official_website]
+other = "Site Oficial"
+
+[view_plans]
+other = "Ver Planos"
+
+[web]
+other = "Web"
+
+[android]
+other = "Android"
+
+[404_page_not_found]
+other = "404 – Página não encontrada"
+
+[404_message]
+other = "Não conseguimos encontrar a página que você está procurando. Ela pode ter sido movida ou não existe mais. Não se preocupe — vamos levá-lo de volta à sua jornada de viagem."
+
+[404_back_home]
+other = "Voltar para o início"
+
+[404_promo_title]
+other = "Oferta Exclusiva para Você"
+
+[404_promo_desc]
+other = "20% de desconto na sua primeira compra de eSIM"
+
+[404_promo_code]
+other = "web20"
+
+[404_promo_cta]
+other = "Resgatar seu desconto"
+
+[404_promo_note]
+other = "Sem necessidade de registro. Válido para novos usuários."
+
+# 弹窗相关
+[friendly_reminder]
+other = "Serviço Atualizado"
+
+[modal_upgrade_desc]
+other = "Nossos serviços foram atualizados. Obtenha seu código promocional: web20 em nosso site oficial ou aplicativo."
+
+[cancel]
+other = "Cancelar"
+
+[proceed]
+other = "Continuar"
+
+# 悬浮按钮文本
+[get_esim_discount]
+other = "Obter 20% de desconto em eSIM"
+
+# FAQ 标题和描述
+[faq_title]
+other = "Perguntas Frequentes"
+
+[faq_desc]
+other = "Tudo o que você precisa saber sobre nosso serviço global de eSIM."
+
+# 以下为可选（原有但未使用）
+[modal_title_ios]
+other = "Serviço Atualizado"
+
+[modal_text_ios]
+other = "Você será redirecionado para o aplicativo oficial para obter o código de desconto."
+
+[tldr_summary_title]
+other = "Resumo Rápido para Viajantes"
+
+[modal_cancel]
+other = "Cancelar"
+
+[modal_continue]
+other = "Continuar"
+
+[global_connectivity_expert]
+other = "Especialista em Conectividade Global"
+
+[structured_data_org_description]
+other = "Provedor profissional de serviços eSIM globais oferecendo roaming de dados de alta velocidade em 200 países."
+
+[structured_data_product_description]
+other = "Planos de eSIM pré-pagos para mais de 200 países com ativação instantânea e internet 5G/4G de alta velocidade."
+
+[structured_data_faq1_question]
+other = "Como comprar um eSIM para os EUA?"
+
+[structured_data_faq1_answer]
+other = "Para comprar um eSIM para os EUA, basta baixar o aplicativo Roami, selecionar Estados Unidos como destino, escolher um plano de dados adequado às suas necessidades e concluir a compra. A ativação é instantânea."
+
+[structured_data_faq2_question]
+other = "Como comprar um eSIM para o Japão online?"
+
+[structured_data_faq2_answer]
+other = "Comprar um eSIM para o Japão é fácil com a Roami. Pesquise por Japão em nosso aplicativo, selecione seu pacote de dados 5G/4G preferido e instale via código QR ou ativação com um clique antes da viagem."
+
+[structured_data_faq3_question]
+other = "Como obter um eSIM para Europa, Reino Unido ou França?"
+
+[structured_data_faq3_answer]
+other = "A Roami oferece eSIMs regionais para a Europa, bem como planos locais para Reino Unido, França, Itália, Alemanha e Espanha. Basta selecionar seu destino no aplicativo para se conectar instantaneamente sem taxas de roaming."
+
+[structured_data_faq4_question]
+other = "Por que escolher a Roami em vez de Airalo, Nomad, Holafly ou Ubigi?"
+
+[structured_data_faq4_answer]
+other = "Embora Airalo, Nomad eSIM, Holafly, Saily eSIM, Yesim, MobiMatter e GigSky sejam opções, a Roami oferece preços altamente competitivos a partir de $1,99, suporte humano 24/7 e uma política de reembolso sem preocupações para mais de 200 países."
+
+[software_description]
+other = "Provedor global de eSIM para conectividade de viagem de alta velocidade."
+
+[last_updated]
+other = "Última Atualização"
+
+[select_language]
+other = "Selecionar Idioma"
+
+[language]
+other = "Idioma"
+
+[close]
+other = "Fechar"
+
+[fifa_title_line1]
+other = "Conectividade Perfeita"
+
+[fifa_title_line2]
+other = "Copa do Mundo FIFA™ 2026"
+
+[fifa_desc]
+other = "eSIM de viagem global capacitando sua jornada por todas as cidades-sede. Conecte-se, compartilhe cada momento."
+
+[fifa_guide_text]
+other = "✈️ Viaje sem fronteiras — obtenha seu eSIM agora"
+
+[fifa_card1_title]
+other = "Sem Roaming"
+
+[fifa_card1_desc]
+other = "Pague tarifas locais"
+
+[fifa_card2_title]
+other = "Um SIM, 3 Países"
+
+[fifa_card2_desc]
+other = "EUA · Canadá · México"
+
+[fifa_card3_title]
+other = "Ativação Instantânea"
+
+[fifa_card3_desc]
+other = "Pronto antes de voar"
+
+[fifa_country_canada]
+other = "🇨🇦 Canadá"
+
+[fifa_country_mexico]
+other = "🇲🇽 México"
+
+[fifa_country_usa]
+other = "🇺🇸 EUA"
+
+[fifa_5g]
+other = "⚡ Pronto para 5G"
+
+[fifa_button]
+other = "Obter eSIM da Copa"
+
+[premium_coverage]
+other = "Cobertura Premium"
+
+[regional_plans_title]
+other = "Planos Regionais e Globais"
+
+[regional_subtitle]
+other = "Viaje por vários países com um único eSIM — sem trocar de SIM, ativação instantânea e economia de 30% em comparação com roaming."
+
+[faq_title2]
+other = "Perguntas Frequentes sobre Compatibilidade de eSIM"
+
+[breadcrumb_home]
+other = "Início"
+
+[breadcrumb_blog]
+other = "Blog"
+
+[breadcrumb_separator]
+other = "/"
+
+[minutes_read]
+other = "min de leitura"
+
+[table_of_contents]
+other = "📑 Índice"
+
+[you_might_also_like]
+other = "🔗 Você também pode gostar"
+
+[popular_destinations]
+other = "Destinos populares para eSIM"
+
+[promo_limited_offer]
+other = "🔥 Oferta Limitada 🔥"
+
+[promo_use_code]
+other = "Use o código"
+
+[promo_checkout]
+other = "⭐ Insira o código no checkout para resgatar seu desconto ⭐"
+
+[promo_stats_text]
+other = "Junte-se a mais de 1 milhão de viajantes que migraram para a Roami. 5G em {{ .Countries }} países. Planos a partir de ${{ .Price }}. Ativação instantânea."
+
+[region_country_title]
+other = "O eSIM {{ .RegionName }} funciona em {{ .TotalCountries }} países"
+
+[coverage_stats_text]
+other = """
+Um único eSIM conecta-se automaticamente à rede local mais forte em cada país.
+<strong class="text-orange-600">{{ .FiveGCount }} países têm 5G</strong>,
+{{ .FourGCount }} têm 4G/LTE confiável.
+Toque em qualquer país para ver guias de configuração e detalhes das operadoras.
+"""
+
+[powered_by_operators]
+other = "Alimentado pelas maiores operadoras móveis de {{ .RegionName }}"
+
+[auto_switch_carriers]
+other = """
+Seu eSIM Roami alterna automaticamente entre <strong class="text-orange-600">{{ .CarrierCount }}+ operadoras</strong> para obter o melhor sinal.
+"""
+
+[network_partners_label]
+other = "Parceiros de Rede"
+
+[premium_carrier_partners_title]
+other = "{{ .Count }}+ Parceiros de Operadoras Premium"
+
+[network_partners_description]
+other = "Seu eSIM Roami conecta-se automaticamente às melhores redes locais. Sem necessidade de alternância manual."
+
+[esim_auto_connect]
+other = "Uma das maiores operadoras de {{ .HQ }}. Seu eSIM conecta-se automaticamente{{ .CountriesSuffix }}."
+
+[carrier_roaming_title]
+other = "Roaming da sua operadora"
+
+[carrier_roaming_badge]
+other = "Taxas ocultas"
+
+[carrier_roaming_estimate]
+other = "estimado para uma viagem de 2 semanas"
+
+[roami_title]
+other = "eSIM Roami {{ .RegionName }}"
+
+[roami_badge]
+other = "Melhor Custo-Benefício"
+
+[roami_price_label]
+other = "A partir de $1,99"
+
+[roami_plan_description]
+other = "planos pré-pagos a partir de $5 para toda a viagem"
+
+[esim_vs_carrier_roaming]
+other = "eSIM {{ .RegionName }} vs. roaming da operadora"
+
+[heading_beyond_region]
+other = "Indo além de {{ .RegionName }}?"
+
+[try_free_button]
+other = "Experimente eSIM Grátis"
+
+[regionQuestionsTitle]
+other = "eSIM {{ .RegionName }}: perguntas que os viajantes fazem"
+
+[stats]
+countries = "Países"
+carriers = "Operadoras"
+coverage_5g = "Cobertura 5G"
+
+[home]
+other = "Início"
+
+[carriers]
+other = "Operadoras eSIM"
+
+[banner_official]
+other = "Oficial"
+
+[banner_discount_desc]
+other = "20% OFF em Dados Globais"
+
+[banner_rating]
+other = "4,8 (2,1k avaliações)"
+
+[banner_cta]
+other = "Obter Agora"
+
+[discount_title]
+other = "Oferta por Tempo Limitado"
+
+[discount_code_label]
+other = "Código Promocional"
+
+[discount_new_user]
+other = "20% OFF para Novos Usuários"
+
+[discount_today]
+other = "Resgatado Hoje"
+
+[discount_today_num]
+other = "500 - 1000"
+
+[discount_remaining]
+other = "Restante"
+
+[discount_remaining_num]
+other = "5 - 10"
+
+[discount_cancel]
+other = "Cancelar"
+
+[discount_claim]
+other = "Resgatar Agora"
+
+[vp_5g_badge]
+other = "5G"
+
+[vp_same]
+other = "Mesma"
+
+[vp_network]
+other = "Rede 5G"
+
+[vp_compare]
+other = ", até"
+
+[vp_cheaper]
+other = "mais barato que outros eSIMs"
+
+[vp_percent]
+other = "30%"
+
+[vp_save_tag]
+other = "🔥 Economize Mais"
+
+[compare_title]
+other = "Comparação Gratuita de eSIM: Roami vs Airalo vs Holafly – Quem Oferece a Melhor Avaliação Grátis?"
+
+[compare_subtitle]
+other = "Comparação honesta — veja por que os viajantes escolhem a Roami para seu teste gratuito de eSIM"
+
+[compare_col_feature]
+other = "Recurso"
+
+[compare_col_roami]
+other = "Roami"
+
+[compare_col_airalo]
+other = "Airalo"
+
+[compare_col_holafly]
+other = "Holafly"
+
+[compare_row_trial]
+other = "Teste Grátis"
+
+[compare_roami_trial]
+other = "✅ 100MB"
+
+[compare_airalo_trial]
+other = "❌"
+
+[compare_holafly_trial]
+other = "❌"
+
+[compare_row_card]
+other = "Cartão de Crédito Exigido"
+
+[compare_roami_card]
+other = "✅ Não"
+
+[compare_airalo_card]
+other = "Sim"
+
+[compare_holafly_card]
+other = "Sim"
+
+[compare_row_coverage]
+other = "Cobertura"
+
+[compare_roami_coverage]
+other = "200+ países"
+
+[compare_airalo_coverage]
+other = "200+ países"
+
+[compare_holafly_coverage]
+other = "200+ países"
+
+[compare_row_paid]
+other = "Planos Pagos a partir de"
+
+[compare_roami_paid]
+other = "$1,99"
+
+[compare_airalo_paid]
+other = "$4,50"
+
+[compare_holafly_paid]
+other = "$5,90"
+
+[compare_row_support]
+other = "Suporte ao Vivo"
+
+[compare_roami_support]
+other = "✅ 24/7"
+
+[compare_airalo_support]
+other = "—"
+
+[compare_holafly_support]
+other = "✅ 24/7"
+
+[brand_reminder]
+other = "Nossa marca de eSIM é roami, não roamic. Por favor, preste atenção."
+
+[roami_free_section_title]
+other = "Teste Grátis da Roami"
+
+[roami_free_section_heading]
+other = "Teste Grátis de eSIM – 7 Dias / 100MB, Sem Cartão de Crédito"
+
+[roami_free_section_desc]
+other = "Um pacote de dados de emergência leve projetado para viajantes. Ative na chegada, <strong>sem necessidade de informações de pagamento</strong> e sem armadilhas de renovação oculta."
+
+[roami_compare_col_feature]
+other = "Recurso"
+
+[roami_compare_col_roami]
+other = "Roami"
+
+[roami_compare_col_att]
+other = "AT&T"
+
+[roami_compare_col_tmobile]
+other = "T‑Mobile"
+
+[roami_compare_col_verizon]
+other = "Verizon"
+
+[roami_compare_row_trial]
+other = "Teste Grátis"
+
+[roami_compare_row_card]
+other = "Cartão de Crédito Exigido"
+
+[roami_compare_row_auto]
+other = "Renovação Automática"
+
+[roami_compare_row_coverage]
+other = "Países com Cobertura"
+
+[roami_compare_row_support]
+other = "Suporte 24/7"
+
+[roami_compare_roami_trial]
+other = "7 dias / 100MB"
+
+[roami_compare_roami_card]
+other = "❌ Não obrigatório"
+
+[roami_compare_roami_auto]
+other = "❌ Nenhum"
+
+[roami_compare_roami_coverage]
+other = "200+"
+
+[roami_compare_roami_support]
+other = "✅ Suporte online"
+
+[roami_compare_att_trial]
+other = "Exige cartão de crédito"
+
+[roami_compare_att_card]
+other = "✅ Deve fornecer"
+
+[roami_compare_att_auto]
+other = "✅ Cobrança automática após o teste"
+
+[roami_compare_att_coverage]
+other = "Limitado (apenas EUA)"
+
+[roami_compare_att_support]
+other = "❌ Limitado"
+
+[roami_compare_tmobile_trial]
+other = "Exige cartão de crédito"
+
+[roami_compare_tmobile_card]
+other = "✅ Deve fornecer"
+
+[roami_compare_tmobile_auto]
+other = "✅ Cobrança automática após o teste"
+
+[roami_compare_tmobile_coverage]
+other = "Limitado (apenas EUA)"
+
+[roami_compare_tmobile_support]
+other = "❌ Limitado"
+
+[roami_compare_verizon_trial]
+other = "Exige cartão de crédito"
+
+[roami_compare_verizon_card]
+other = "✅ Deve fornecer"
+
+[roami_compare_verizon_auto]
+other = "✅ Cobrança automática após o teste"
+
+[roami_compare_verizon_coverage]
+other = "Limitado (apenas EUA)"
+
+[roami_compare_verizon_support]
+other = "❌ Limitado"

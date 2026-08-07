@@ -494,3 +494,62 @@ footer_slogan = "グローバルeSIMサービス専門プロバイダー | グ�
 modal_title = "お知らせ"
 modal_cancel = "キャンセル"
 modal_confirm = "今すぐ行く"
+
+# Configuração em Português
+    [languages.pt]
+    languageName = "Português"
+    contentDir = "content/pt"  # Diz ao Hugo onde está o conteúdo em português
+    weight = 9
+	
+    [languages.pt.params]
+    # Textos da barra de navegação
+    nav_links = [
+      { name = "Início", url = "/" },
+      { name = "Comprar eSIM", url = "/plans/" },
+      { name = "Compatibilidade com eSIM", url = "/compatibility/" },
+      { name = "eSIM Grátis", url = "/free-esim/" },
+      { name = "App Roami", url = "/app/" },
+      { name = "FAQ", url = "/faq/" }
+    ]
+    
+
+# Textos do rodapé
+    footer_desc = "Oferecendo serviços premium de eSIM em mais de 200 países e regiões, mantendo você conectado onde quer que viaje."
+    
+    footer_col1_title = "Principais Destinos"
+    # Otimização: alterado de texto puro para objetos com links e usando caminhos absolutos
+    footer_col1_links = [
+{name="Ásia eSIM", url="/asia-esim/"}, 
+{name="Europa eSIM", url="/europe-esim/"}, 
+{name="África eSIM", url="/africa-esim/"}, 
+{name="América do Sul eSIM", url="/south-america-esim/"}, 
+{name="América do Norte eSIM", url="/north-america-esim/"}, 
+{name="Oriente Médio eSIM", url="/middle-east-esim/"}
+    ]
+    
+    footer_col2_title = "Suporte ao Cliente"
+    # Otimização: adicionado "/" na frente e sugerido remover .html para URL limpa
+    footer_col2_links = [
+  { name = "FAQ", url = "/faq/" }, 
+  { name = "Compatibilidade com eSIM", url = "/compatibility/" },
+     { name = "Baixar Roami", url = "/app/" }
+]
+    
+    footer_col3_title = "Informações da Empresa"
+    # Otimização: adicionado "/" na frente para garantir que, de qualquer página, o clique volte à raiz
+    footer_col3_links = [
+      {name="Sobre Nós", url="/about-us/"}, 
+	  {name="eSIM Grátis", url="/free-esim/"}, 
+	  {name="Política de Reembolso", url="/refund/"}, 
+	  {name="Contate-nos", url="/contact/"}, 
+      {name="Política de Privacidade", url="/privacy/"}, 
+      {name="Termos de Serviço", url="/terms/"}
+    ]
+    
+    footer_copyright = "© 2026 Roami. Todos os direitos reservados."
+    footer_slogan = "Provedor profissional de serviços eSIM globais | Especialista em roaming de dados eSIM global"
+
+    # Textos do modal (pop-up)
+    modal_title = "Aviso"
+    modal_cancel = "Cancelar"
+    modal_confirm = "Ir agora"

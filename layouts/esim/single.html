@@ -681,56 +681,6 @@
             </section>
             {{ end }}
 			 
-			 <!-- 运营商-->
-			
-			{{/* 获取当前页面的完整路径（去掉首尾斜杠） */}}
-{{ $path := strings.TrimPrefix "/" (strings.TrimSuffix "/" .RelPermalink) }}
-{{/* 按斜杠分割，取最后一段（如 de/turkey-esim -> turkey-esim） */}}
-{{ $segments := split $path "/" }}
-{{ $lastSegment := index $segments (sub (len $segments) 1) }}
-{{/* 去掉 -esim 后缀得到国家代码 */}}
-{{ $countryCode := $lastSegment }}
-{{ if hasSuffix $lastSegment "-esim" }}
-  {{ $countryCode = strings.TrimSuffix "-esim" $lastSegment }}
-{{ end }}
-
-{{/* 获取当前页面的语言代码 */}}
-{{ $lang := .Site.Language.Lang }}
-{{/* 读取运营商数据 */}}
-{{ $carrierData := index (index .Site.Data.carriers $lang) $countryCode }}
-
-{{ if $carrierData }}
-{{/* 构建多语言按钮链接：默认语言（en）不加前缀，其他语言添加 /$lang 前缀 */}}
-{{ $btnUrl := $carrierData.btn_url }}
-{{ if ne $lang "en" }}
-  {{ $btnUrl = printf "/%s%s" $lang $btnUrl }}
-{{ end }}
-
-<div class="bg-gradient-to-r from-blue-600 to-indigo-600 rounded-3xl p-6 shadow-lg text-white relative overflow-hidden">
-  <div class="relative z-10 flex flex-col h-full">
-    <!-- 左侧内容（图标+标题+描述） -->
-    <div class="flex items-center gap-4">
-      <div class="bg-white/20 p-3 rounded-full flex-shrink-0">
-        <i data-lucide="ticket" class="w-8 h-8 text-white"></i>
-      </div>
-      <div>
-        <h3 class="text-2xl font-extrabold text-white mb-1">{{ $carrierData.title }}</h3>
-        <p class="text-blue-50 text-base md:text-lg">{{ $carrierData.desc_html | safeHTML }}</p>
-      </div>
-    </div>
-    <!-- 按钮放置在右下角 -->
-    <div class="flex justify-end mt-4">
-      <a href="{{ $btnUrl | safeURL }}" 
-         class="bg-white text-blue-600 font-semibold text-sm py-2 px-4 rounded-xl shadow-md hover:bg-slate-50 transition-colors flex items-center gap-1.5">
-        {{ $carrierData.btn_text }} <i data-lucide="arrow-right" class="w-4 h-4"></i>
-      </a>
-    </div>
-  </div>
-</div>
-{{ end }}
-
-
-
 <section>
     {{ $faqData := .Params.faq_section }}
     {{ if not $faqData }}{{ $faqData = .Params.faq_section1 }}{{ end }}
@@ -751,9 +701,15 @@
                 {{ range $general }}
                 <ul class="list-none p-0 m-0 space-y-6">
                     {{ range .questions }}
-                    {{/* 直接处理答案：将 Markdown 链接转换为带样式的 HTML 链接，无任何条件判断 */}}
+                    {{/* 修改开始：动态语言前缀 */}}
+                    {{ $langPrefix := "" }}
+                    {{ if ne $.Site.Language.Lang "en" }}
+                      {{ $langPrefix = printf "/%s" $.Site.Language.Lang }}
+                    {{ end }}
                     {{ $linkStyle := "color: #1a73e8; font-weight: 600; text-decoration: underline; text-underline-offset: 2px;" }}
-                    {{ $answer := .a | replaceRE `\[([^\]]+)\]\(([^)]+)\)` (printf `<a href="$2" style="%s">$1</a>` $linkStyle) | markdownify }}
+                    {{ $replacePattern := printf `<a href="%s/$2" style="%s">$1</a>` $langPrefix $linkStyle }}
+                    {{ $answer := .a | replaceRE `\[([^\]]+)\]\(/([^)]+)\)` $replacePattern | markdownify }}
+                    {{/* 修改结束 */}}
                     <li class="bg-white rounded-xl border border-slate-200 shadow-sm p-6">
                         <h3 class="text-lg font-semibold text-slate-900 mb-2 flex items-start gap-2">
                             <span style="color: #1a73e8; flex-shrink: 0; margin-top: 0.125rem;">✦</span>
