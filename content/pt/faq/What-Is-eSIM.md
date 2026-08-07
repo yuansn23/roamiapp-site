@@ -32,7 +32,7 @@ sidebar_popular:
   title: "eSIMs Populares"
   item_suffix: "eSIM"
   items:
-    - name: "eSIM EUA"
+    - name: "eSIM USA"
       flag: "/img/flags/us.svg"
       price: "$1,99"
       url: "/united-states-esim/"
@@ -192,17 +192,17 @@ De acordo com a documentação oficial da Apple, o eSIM é suportado em uma ampl
 
 | Modelo | Suporte eSIM | Dual eSIM? | Bandeja SIM Físico? |
 |-------|--------------|------------|--------------------|
-| iPhone 17, 17 Pro, Pro Max (EUA) | ✅ apenas eSIM | Sim | Não |
+| iPhone 17, 17 Pro, Pro Max (USA) | ✅ apenas eSIM | Sim | Não |
 | iPhone 17, 17 Pro, Pro Max (Internacional) | ✅ eSIM | Sim | Sim (1 nano‑SIM) |
 | iPhone 17 Air (Global) | ✅ apenas eSIM | Sim | Não |
-| iPhone 16 todos os modelos | ✅ eSIM | Sim (EUA: apenas eSIM; Intl: +bandeja SIM) | Varia |
+| iPhone 16 todos os modelos | ✅ eSIM | Sim (USA: apenas eSIM; Intl: +bandeja SIM) | Varia |
 | iPhone 15 todos os modelos | ✅ eSIM | Sim | Varia |
 | iPhone 14 todos os modelos | ✅ eSIM | Sim | Varia |
 | iPhone 13 todos os modelos | ✅ eSIM | Sim | Sim |
 | iPhone 12 todos os modelos | ✅ eSIM | Não (um único eSIM) | Sim |
 | iPhone 11, XS, XR, SE (2ª e 3ª geração) | ✅ eSIM | Não | Sim |
 
-> **Nota:** Os modelos dos EUA a partir do iPhone 14 não têm **bandeja SIM física** – são apenas eSIM.
+> **Nota:** Os modelos dos USA a partir do iPhone 14 não têm **bandeja SIM física** – são apenas eSIM.
 > **Pergunta comum:** "Quais iPhones suportam eSIM?" – Qualquer iPhone XS ou mais novo funciona.
 > **Para telefones mais antigos:** Se você tem um iPhone 8 ou anterior, não pode usar eSIM; precisará de um SIM físico.
 
@@ -311,7 +311,7 @@ R: O "melhor" depende das suas necessidades – volume de dados, velocidade e pr
 
 ## 9. O Futuro: Dispositivos Apenas com eSIM
 
-A Apple já migrou para **apenas eSIM** nos modelos de iPhone dos EUA (14, 15, 16 e 17). O iPhone 17 Air é o primeiro dispositivo Apple **sem bandeja SIM em nenhum lugar do mundo**, incluindo a China. Essa tendência continuará – os slots para SIM físico estão desaparecendo.
+A Apple já migrou para **apenas eSIM** nos modelos de iPhone dos USA (14, 15, 16 e 17). O iPhone 17 Air é o primeiro dispositivo Apple **sem bandeja SIM em nenhum lugar do mundo**, incluindo a China. Essa tendência continuará – os slots para SIM físico estão desaparecendo.
 
 O que isso significa para iniciantes?
 - Você não precisa mais de uma ferramenta de extração de SIM.
@@ -339,11 +339,11 @@ Se você ainda está usando um chip SIM físico, está perdendo:
 
 Muitos usuários perguntam: "O que é dual eSIM e como pode me ajudar durante viagens?" Vamos percorrer um exemplo típico.
 
-Você mora na Alemanha e tem um eSIM alemão da Telekom (seu número principal). Você está voando para os EUA por duas semanas. Em vez de pagar €10/dia em roaming, você compra um **eSIM de viagem para os EUA** da Roami por $1,99 com dados 5G. Você o instala antes do voo. Na chegada, você:
+Você mora na Alemanha e tem um eSIM alemão da Telekom (seu número principal). Você está voando para os USA por duas semanas. Em vez de pagar €10/dia em roaming, você compra um **eSIM de viagem para os USA** da Roami por $1,99 com dados 5G. Você o instala antes do voo. Na chegada, você:
 
-- Define o eSIM dos EUA como sua **linha de dados principal**.
+- Define o eSIM dos USA como sua **linha de dados principal**.
 - Mantém seu eSIM alemão ativo para **chamadas e SMS** (para que amigos ainda possam te contatar).
-- Seu telefone usa automaticamente os dados baratos dos EUA para tudo – mapas, iMessage, WhatsApp, redes sociais.
+- Seu telefone usa automaticamente os dados baratos dos USA para tudo – mapas, iMessage, WhatsApp, redes sociais.
 
 Isso é o **dual eSIM** em ação. Você não precisa remover ou desativar seu SIM pessoal. O mesmo funciona com um SIM físico + eSIM em iPhones mais antigos. A flexibilidade é incomparável.
 

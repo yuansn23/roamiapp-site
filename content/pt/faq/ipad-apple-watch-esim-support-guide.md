@@ -32,7 +32,7 @@ sidebar_popular:
   title: "eSIMs Populares"
   item_suffix: "eSIM"
   items:
-    - name: "EUA eSIM"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/pt/united-states-esim/"
@@ -225,7 +225,7 @@ Recomendamos começar com um **eSIM de teste gratuito** da [Roami](/pt/free-esim
 - A **Configuração Familiar** requer uma operadora que suporte planos de relógio independentes.
 
 ### Quais Operadoras Suportam eSIM no Apple Watch?
-- **EUA:** Verizon, T‑Mobile, AT&T suportam planos padrão. T‑Mobile e Verizon também suportam Configuração Familiar.
+- **USA:** Verizon, T‑Mobile, AT&T suportam planos padrão. T‑Mobile e Verizon também suportam Configuração Familiar.
 - **Reino Unido:** EE, O2, Vodafone, Three.
 - **Canadá:** Bell, Rogers, Telus.
 - **Austrália:** Telstra, Optus, Vodafone.

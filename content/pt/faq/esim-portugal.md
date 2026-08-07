@@ -3,10 +3,9 @@ title: "eSIM Portugal: Guia Completo para Viajantes e Residentes"
 h1_title: "eSIM Portugal 2026: Como Escolher, Ativar e Comparar os Melhores Planos"
 description: "Guia completo do eSIM em Portugal 2026. Compare MEO, NOS, Vodafone, Digi e provedores internacionais como Airalo e Holafly. Preços, cobertura 5G e como ativar."
 keywords: ["esim portugal", "melhor esim portugal", "comprar esim portugal", "esim para viajar portugal", "esim portugal preço", "esim portugal 2026", "meo esim", "nos esim", "vodafone esim portugal", "digi esim portugal", "airalo portugal", "holafly portugal", "esim lisboa", "esim porto", "esim algarve", "como ativar esim portugal", "esim com número português", "5g esim portugal", "esim ilimitado portugal", "esim barato portugal", "esim portugal comparação"]
-date: 2026-08-07T10:00:00Z
-lastmod: 2026-08-07T18:30:00Z
+date: 2026-08-06T10:00:00Z
+lastmod: 2026-08-06T10:00:00Z
 tags: ["eSIM", "Portugal", "MEO", "NOS", "Vodafone", "Digi", "Airalo", "Holafly", "5G", "Viagem", "Comparação"]
-slug: "esim-portugal-guia-completo"
 toc: true
 
 # Site & SEO

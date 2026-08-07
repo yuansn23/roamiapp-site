@@ -6,7 +6,6 @@ keywords: ["holafly esim", "holafly esim portugal", "holafly portugal", "holafly
 date: 2026-08-07T10:00:00Z
 lastmod: 2026-08-07T19:30:00Z
 tags: ["Holafly", "eSIM", "Portugal", "Dados Ilimitados", "5G", "Comparação", "Airalo", "Ubigi", "Viagem"]
-slug: "holafly-esim-portugal"
 toc: true
 
 # Site & SEO

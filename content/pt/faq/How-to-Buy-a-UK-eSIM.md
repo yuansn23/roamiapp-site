@@ -33,7 +33,7 @@ sidebar_popular:
   title: "eSIMs Populares"
   item_suffix: "eSIM"
   items:
-    - name: "eSIM EUA"
+    - name: "eSIM USA"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
@@ -103,7 +103,7 @@ sidebar_questions:
 
 A maneira mais rápida e confiável de comprar um [eSIM Reino Unido](/united-kingdom-esim/) resume-se a três passos simples:
 
-1. **Verifique a Compatibilidade**: Disque `*#06#` no seu telefone. Se você vir um número **EID**, seu telefone suporta eSIM. (Nota: os modelos iPhone 14/15/16 dos EUA são apenas eSIM). Para a lista completa de **telefones compatíveis com eSIM no Reino Unido**, consulte nossa **[lista completa de compatibilidade](/compatibility/)**.
+1. **Verifique a Compatibilidade**: Disque `*#06#` no seu telefone. Se você vir um número **EID**, seu telefone suporta eSIM. (Nota: os modelos iPhone 14/15/16 dos USA são apenas eSIM). Para a lista completa de **telefones compatíveis com eSIM no Reino Unido**, consulte nossa **[lista completa de compatibilidade](/compatibility/)**.
 2. **Escolha Seu Plano**: Para viagens curtas ou tours pela Europa com vários países (1-30 dias), compre um **eSIM de viagem Reino Unido** diretamente—sem necessidade de identificação, pronto instantaneamente. Para estadias longas (1 mês+), opte por um plano local **UK eSIM pay as you go** da EE ou Lebara.
 3. **Escaneie e Vá**: Escaneie o código QR do seu e-mail antes do voo. Ative o **Roaming de Dados** ao pousar em Heathrow e você estará conectado.
 
@@ -130,7 +130,7 @@ Antes de comprar qualquer eSIM do Reino Unido, verifique se seu dispositivo é c
 | iPhone XS, XS Max, XR | ✅ Sim | Primeiros iPhones com eSIM |
 | iPhone 11, 11 Pro, 11 Pro Max | ✅ Sim | |
 | iPhone SE (2020, 2022) | ✅ Sim | |
-| Série iPhone 12, 13, 14, 15, 16, 17 | ✅ Sim | Modelos dos EUA (14+) são apenas eSIM |
+| Série iPhone 12, 13, 14, 15, 16, 17 | ✅ Sim | Modelos dos USA (14+) são apenas eSIM |
 | iPhone 8, 8 Plus, iPhone X | ❌ Não | Sem hardware eSIM |
 | Modelos da China (qualquer) | ❌ Não | Apenas dois SIMs físicos |
 
@@ -141,7 +141,7 @@ Antes de comprar qualquer eSIM do Reino Unido, verifique se seu dispositivo é c
 | Galaxy S20, S21, S22, S23, S24, S25 | ✅ Sim | Versões Global/Exynos |
 | Galaxy Z Fold, Z Flip (todas as gerações) | ✅ Sim | |
 | Galaxy A55, A54, A53 (regiões selecionadas) | ✅ Sim | Verifique a variante do modelo |
-| Galaxy S20 FE (operadora dos EUA) | ❌ Não | eSIM desativado em muitas versões de operadoras |
+| Galaxy S20 FE (operadora dos USA) | ❌ Não | eSIM desativado em muitas versões de operadoras |
 
 ### Modelos Google Pixel
 

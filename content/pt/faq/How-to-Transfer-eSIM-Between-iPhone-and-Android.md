@@ -32,7 +32,7 @@ sidebar_popular:
   title: "eSIMs Populares"
   item_suffix: "eSIM"
   items:
-    - name: "eSIM EUA"
+    - name: "eSIM USA"
       flag: "/img/flags/us.svg"
       price: "$1,99"
       url: "/united-states-esim/"
@@ -313,7 +313,7 @@ Para uma análise mais aprofundada do comportamento específico do eSIM por disp
 
 | País | Operadoras Confirmadas | Notas |
 |---------|--------------------|-------|
-| EUA | AT&T, FirstNet, T‑Mobile, Verizon | Todas suportadas a partir de 2026 |
+| USA | AT&T, FirstNet, T‑Mobile, Verizon | Todas suportadas a partir de 2026 |
 | Canadá | Bell, Koodo, Lucky Mobile, Telus | |
 | França | **Orange, SFR** | Free e Bouygues não suportados |
 | Alemanha | Deutsche Telekom (Telekom) | Primeira operadora europeia a oferecer isso |
@@ -350,7 +350,7 @@ Se sua operadora não estiver na lista, ou você vir um **erro de transferência
 ### Opção 2: Transferência pelo aplicativo da operadora
 - **Orange França**: App Orange → "Meu espaço eSIM" → "Transferir para novo dispositivo".
 - **SFR França**: App SFR & Moi → "Gerenciar meu SIM" → "Transferir eSIM".
-- **T‑Mobile (EUA)**: App T‑Mobile → "Gerenciar eSIM" → "Transferir para novo dispositivo".
+- **T‑Mobile (USA)**: App T‑Mobile → "Gerenciar eSIM" → "Transferir para novo dispositivo".
 - **Verizon**: App "My Verizon" → "Ativar ou trocar dispositivo" → siga as instruções.
 - **EE Reino Unido**: App EE → "Plano" → "transferência eSIM".
 
@@ -388,9 +388,9 @@ Se após a **transferência de eSIM** você tiver **eSIM sem serviço**, configu
 | **SFR** | sl2sfr | (em branco) | (em branco) |
 | **Free** | free | (em branco) | (em branco) |
 | **Bouygues** | ebouygtel.com | (em branco) | (em branco) |
-| **T‑Mobile (EUA)** | fast.t-mobile.com | (em branco) | (em branco) |
-| **AT&T (EUA)** | nxgen | (em branco) | (em branco) |
-| **Verizon (EUA)** | vzwinternet | (em branco) | (em branco) |
+| **T‑Mobile (USA)** | fast.t-mobile.com | (em branco) | (em branco) |
+| **AT&T (USA)** | nxgen | (em branco) | (em branco) |
+| **Verizon (USA)** | vzwinternet | (em branco) | (em branco) |
 | **Telekom (DE)** | internet.telekom | (em branco) | (em branco) |
 
 ### Ainda preso?

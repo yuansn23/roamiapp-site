@@ -6,7 +6,6 @@ keywords: ["esim vodafone", "vodafone esim", "vodafone esim portugal", "ativar e
 date: 2026-08-07T10:00:00Z
 lastmod: 2026-08-07T16:00:00Z
 tags: ["Vodafone", "eSIM", "Portugal", "Ativação", "Planos", "Roaming", "Comparação", "MEO", "NOS", "Digi", "Airalo", "Holafly"]
-slug: "vodafone-esim-portugal"
 toc: true
 
 # Site & SEO

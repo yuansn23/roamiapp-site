@@ -32,7 +32,7 @@ sidebar_popular:
   title: "eSIMs Populares"
   item_suffix: "eSIM"
   items:
-    - name: "eSIM EUA"
+    - name: "eSIM USA"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
@@ -136,7 +136,7 @@ Sua configuração de **dual eSIM** depende do modelo do iPhone e da região:
 
 Para uma lista completa de iPhones compatíveis, [verifique a compatibilidade de dual eSIM do seu iPhone](/compatibility/).
 
-> 📱 **iPhone 17 Air e série iPhone 17 dos EUA**: Sem bandeja SIM física – apenas dual eSIM. Se você encontrar problemas de ativação nesses modelos, consulte nosso **[Guia de Solução de Problemas Avançada de eSIM (16 casos reais)](/faq/esim-deep-troubleshooting-guide-2026/)** para correções avançadas.
+> 📱 **iPhone 17 Air e série iPhone 17 dos USA**: Sem bandeja SIM física – apenas dual eSIM. Se você encontrar problemas de ativação nesses modelos, consulte nosso **[Guia de Solução de Problemas Avançada de eSIM (16 casos reais)](/faq/esim-deep-troubleshooting-guide-2026/)** para correções avançadas.
 
 ---
 
@@ -150,7 +150,7 @@ As redes CDMA usam uma tecnologia de fallback de voz diferente (1xRTT). O baseba
 **Em termos simples:** Pense no modem celular do seu iPhone como uma estrada. Uma linha CDMA é um caminhão grande que bloqueia toda a estrada. A voz de nenhuma outra linha pode passar até que o caminhão saia.
 
 ### Quais operadoras são CDMA?
-- **eSIM EUA**: Verizon (planos antigos), US Cellular, algumas MVNOs.
+- **eSIM USA**: Verizon (planos antigos), US Cellular, algumas MVNOs.
 - **Japão**: au (KDDI) (CDMA descontinuado, mas planos legados existem)
 - **Outras**: A maior parte do mundo usa GSM/UMTS/LTE (sem problema)
 
@@ -160,7 +160,7 @@ As redes CDMA usam uma tecnologia de fallback de voz diferente (1xRTT). O baseba
 - ⚠️ **Solução alternativa**: Troque qual linha é a principal. Se você precisar manter CDMA, coloque-a como o segundo eSIM – mas então o primeiro eSIM pode perder voz.
 - ❌ **Nenhuma correção completa** – você pode precisar manter um SIM físico para voz CDMA e usar eSIM apenas para dados.
 
-Para uma comparação mais aprofundada das redes de operadoras dos EUA, consulte nosso **[comparação de redes de operadoras dos EUA](/carriers/united-states-esim-carrier-guide/)**.
+Para uma comparação mais aprofundada das redes de operadoras dos USA, consulte nosso **[comparação de redes de operadoras dos USA](/carriers/united-states-esim-carrier-guide/)**.
 
 ---
 
@@ -207,7 +207,7 @@ Se você não puder adicionar um segundo eSIM ou SIM físico:
 - Para verificar: `Configurações > Geral > Sobre` → role até **Bloqueio de Operadora**. Deve dizer “Sem restrições de SIM”.
 
 ### O que fazer se estiver bloqueado:
-- Entre em contato com sua operadora para solicitar o desbloqueio. As operadoras dos EUA devem desbloquear após o dispositivo ser pago.
+- Entre em contato com sua operadora para solicitar o desbloqueio. As operadoras dos USA devem desbloquear após o dispositivo ser pago.
 - Se desbloqueado mas ainda não funcionar, você pode precisar redefinir as configurações de rede: `Configurações > Geral > Transferir ou Redefinir iPhone > Redefinir > Redefinir Configurações de Rede`. (Aviso: isso apaga senhas de Wi‑Fi.)
 
 Uma vez desbloqueado, você também pode mover seu eSIM entre iPhone e Android – veja nosso **[guia de Transferência de eSIM entre Plataformas 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** para instruções passo a passo.

@@ -30,7 +30,7 @@ sidebar_popular:
   title: "eSIMs Populares"
   item_suffix: "eSIM"
   items:
-    - name: "EUA eSIM"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/pt/united-states-esim/"
@@ -212,7 +212,7 @@ Antes de comprar qualquer **eSIM**, certifique-se de que seu dispositivo é comp
 - Séries Galaxy S20, S21, S22, S23, S24, S25
 - Séries Galaxy Z Fold e Z Flip (todas as gerações)
 - Galaxy A54, A55 e modelos A-série mais novos
-- **Nota:** Modelos dos EUA podem ter eSIM desativado; verifique seu código CSC.
+- **Nota:** Modelos dos USA podem ter eSIM desativado; verifique seu código CSC.
 
 ### Google Pixel (compatível com Reino Unido eSIM)
 - Pixel 3, 3a e mais novos (séries 4, 5, 6, 7, 8, 9)

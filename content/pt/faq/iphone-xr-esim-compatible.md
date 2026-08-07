@@ -32,7 +32,7 @@ sidebar_popular:
   title: "eSIMs Populares"
   item_suffix: "eSIM"
   items:
-    - name: "EUA eSIM"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/pt/united-states-esim/"
@@ -181,7 +181,7 @@ Seu iPhone XR funciona com todos os provedores eSIM do mundo:
 | Google Fi | Sim | Ative através do aplicativo Google Fi |
 | Verizon | Sim | Planos eSIM pós-pagos e pré-pagos funcionam |
 | US Mobile | Sim | Funciona com seus eSIM Warp 5G ou GSM |
-| T-Mobile (EUA) | Sim | Suporta ativação eSIM via aplicativo ou QR |
+| T-Mobile (USA) | Sim | Suporta ativação eSIM via aplicativo ou QR |
 | Orange (França) | Sim | iPhone XR é totalmente compatível |
 | Free Mobile (França) | Sim | iPhone XR funciona com eSIM Free |
 | SFR (França) | Sim | SFR eSIM compatível com iPhone XR |
@@ -200,7 +200,7 @@ Se você pesquisou por “téléphone compatible esim free” ou “mobile compa
 | iPhone SE (2020, 2022) | Sim | Sim |
 | iPhone 12, 12 mini, 12 Pro, 12 Pro Max | Sim | Sim |
 | iPhone 13, 13 mini, 13 Pro, 13 Pro Max | Sim | Sim |
-| iPhone 14, 14 Plus, 14 Pro, 14 Pro Max | Sim | Modelos EUA: apenas eSIM |
+| iPhone 14, 14 Plus, 14 Pro, 14 Pro Max | Sim | Modelos USA: apenas eSIM |
 | iPhone 15, 15 Plus, 15 Pro, 15 Pro Max | Sim | Mesmo que 14 |
 | Séries iPhone 16, 17 | Sim | Apenas eSIM em algumas regiões |
 

@@ -34,7 +34,7 @@ sidebar_popular:
   title: "eSIMs Populares"
   item_suffix: "eSIM"
   items:
-    - name: "EUA eSIM"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/pt/united-states-esim/"
@@ -122,7 +122,7 @@ Primeiro, certifique-se de que seu iPhone suporta a tecnologia eSIM. A Apple int
 - Séries iPhone 11, 12, 13, 14, 15, 16 e 17
 - iPhone SE (2ª e 3ª geração)
 
-*Dica Pro: Se você comprou um iPhone 14, 15, 16 ou 17 nos EUA, seu telefone é apenas eSIM e não tem bandeja de cartão SIM físico.*
+*Dica Pro: Se você comprou um iPhone 14, 15, 16 ou 17 nos USA, seu telefone é apenas eSIM e não tem bandeja de cartão SIM físico.*
 
 ### Certifique-se de que seu iPhone está desbloqueado
 Se você está tentando instalar um eSIM de viagem, seu telefone deve estar desbloqueado.
@@ -292,7 +292,7 @@ Um **eSIM de viagem** é um eSIM apenas dados projetado para viagens internacion
 
 Aprender **como usar um eSIM em um iPhone** abre um mundo de conectividade sem complicações. Sem mais esperar em filas em quiosques de aeroporto ou pagar taxas de roaming exorbitantes.
 
-Para viajantes com destino a locais específicos, confira nossos guias de destino: **[eSIM para os EUA](/pt/united-states-esim/)**, **[eSIM para o Japão](/pt/japan-esim/)**, **[eSIM para a Europa](/pt/europe-esim/)** ou **[eSIM para o Reino Unido](/pt/united-kingdom-esim/)**.
+Para viajantes com destino a locais específicos, confira nossos guias de destino: **[eSIM para os USA](/pt/united-states-esim/)**, **[eSIM para o Japão](/pt/japan-esim/)**, **[eSIM para a Europa](/pt/europe-esim/)** ou **[eSIM para o Reino Unido](/pt/united-kingdom-esim/)**.
 
 *Pronto para sua próxima viagem? Navegue pelos nossos planos eSIM globais e mantenha-se conectado em qualquer lugar do mundo com entrega instantânea e configuração fácil!*
 

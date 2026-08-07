@@ -32,7 +32,7 @@ sidebar_popular:
   title: "eSIMs Populares"
   item_suffix: "eSIM"
   items:
-    - name: "EUA eSIM"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/pt/united-states-esim/"
@@ -240,7 +240,7 @@ A Apple adicionou essa capacidade no **iOS 19.3** (lançado no início de 2026).
 
 | País | Operadoras Confirmadas |
 |---------|--------------------|
-| EUA | AT&T, FirstNet, T‑Mobile, Verizon |
+| USA | AT&T, FirstNet, T‑Mobile, Verizon |
 | Canadá | Bell, Koodo, Lucky Mobile, Telus |
 | França | Orange, SFR |
 | Alemanha | Deutsche Telekom (Telekom) |
@@ -274,7 +274,7 @@ Se sua operadora não estiver na lista, ou se você vir um erro, use uma destas 
 **Dica**: Algumas operadoras cobram uma pequena taxa (ex: $2–$5) para reemitir um eSIM.
 
 ### Opção 2: Transferência pelo aplicativo da operadora
-- **T‑Mobile (EUA)**: Use o aplicativo T‑Mobile → “Gerenciar eSIM” → “Transferir para novo dispositivo”. Funciona multiplataforma mesmo sem iOS 19.
+- **T‑Mobile (USA)**: Use o aplicativo T‑Mobile → “Gerenciar eSIM” → “Transferir para novo dispositivo”. Funciona multiplataforma mesmo sem iOS 19.
 - **Verizon**: Aplicativo “My Verizon” → “Ativar ou trocar dispositivo” → siga as instruções. Funciona para Android ↔ iPhone.
 - **EE UK**: Aplicativo EE → “Plano” → “Transferência eSIM” – suporta cross‑OS mas apenas para planos pós‑pagos.
 

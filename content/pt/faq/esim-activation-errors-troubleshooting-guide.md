@@ -30,7 +30,7 @@ sidebar_popular:
   title: "eSIMs Populares"
   item_suffix: "eSIM"
   items:
-    - name: "eSIM EUA"
+    - name: "eSIM USA"
       flag: "/img/flags/us.svg"
       price: "$1,99"
       url: "/united-states-esim/"
@@ -137,7 +137,7 @@ Os iPhones vendidos na China continental **não têm hardware eSIM** (dual SIM f
 
 ### C. Seu iPhone Está Bloqueado por Operadora
 
-Algumas operadoras (especialmente nos EUA) bloqueiam iPhones em sua rede. Se você tentar ativar um eSIM de um provedor diferente (ex., um eSIM de viagem), verá **"eSIM não suportado"** ou uma mensagem de erro dizendo que a operadora não suporta eSIM. Observe que algumas operadoras bloqueiam apenas o slot de SIM físico, deixando o eSIM desbloqueado – mas muitas bloqueiam ambos.
+Algumas operadoras (especialmente nos USA) bloqueiam iPhones em sua rede. Se você tentar ativar um eSIM de um provedor diferente (ex., um eSIM de viagem), verá **"eSIM não suportado"** ou uma mensagem de erro dizendo que a operadora não suporta eSIM. Observe que algumas operadoras bloqueiam apenas o slot de SIM físico, deixando o eSIM desbloqueado – mas muitas bloqueiam ambos.
 
 **Como verificar:** **Configurações > Geral > Sobre > Bloqueio de Operadora**. Deve dizer "Sem restrições de SIM". Se disser "SIM bloqueado", entre em contato com sua operadora para solicitar o desbloqueio.
 
@@ -319,7 +319,7 @@ Para ajuda adicional com erros **esim não compatível iphone**, consulte nosso 
 
 Às vezes, os usuários pesquisam **"meu telefone não suporta esim"** depois de comprar um telefone que acreditavam ter eSIM. Isso geralmente acontece com:
 
-- **Samsung Galaxy S20 FE** – Muitas variantes regionais não têm eSIM. A Samsung desativou o eSIM nas versões bloqueadas por operadora dos EUA do S20 FE para reduzir custos. Consulte nosso [guia de compatibilidade eSIM para Samsung](/faq/samsung-s20-esim-compatible/) para detalhes.
+- **Samsung Galaxy S20 FE** – Muitas variantes regionais não têm eSIM. A Samsung desativou o eSIM nas versões bloqueadas por operadora dos USA do S20 FE para reduzir custos. Consulte nosso [guia de compatibilidade eSIM para Samsung](/faq/samsung-s20-esim-compatible/) para detalhes.
 - **Google Pixel 4a (versões do Japão)** – Os modelos de operadoras japonesas desativam o eSIM devido a acordos com operadoras locais. Consulte nosso [guia de compatibilidade eSIM para Pixel](/faq/google-pixel-6-esim-compatible/) para detalhes.
 - **Série Xiaomi Redmi Note** – Nenhum tem eSIM, apesar dos rumores online. A Xiaomi reserva o eSIM apenas para seus modelos topo de linha.
 - **iPhone 8 / X** – Hardware antigo. A Apple só adicionou chips eUICC a partir da geração XS/XR.
@@ -339,7 +339,7 @@ Os usuários Samsung frequentemente encontram erros de **samsung esim não funci
 
 **Problemas comuns com eSIM na Samsung:**
 
-- **S20 FE e série A** – Muitas variantes regionais não têm eSIM. Se você vir **"samsung esim não funciona"** em um S20 FE, verifique seu número de modelo. As versões de operadoras dos EUA geralmente têm eSIM desativado.
+- **S20 FE e série A** – Muitas variantes regionais não têm eSIM. Se você vir **"samsung esim não funciona"** em um S20 FE, verifique seu número de modelo. As versões de operadoras dos USA geralmente têm eSIM desativado.
 - **Telefones Samsung bloqueados por operadora** – Mesmo que o hardware suporte eSIM, a AT&T e a T‑Mobile frequentemente o desativam em seus dispositivos Samsung com marca. Você precisará solicitar um desbloqueio de SIM.
 - **Versão Android** – O suporte a eSIM melhorou com o OneUI 4.0 (Android 12). Se você estiver em uma versão mais antiga, atualize primeiro.
 
@@ -548,7 +548,7 @@ Solicite um novo código QR do seu provedor. Os códigos QR expiram após 30–9
 Verifique se seu plano permite o uso de hotspot. Alguns eSIMs de viagem restringem o compartilhamento de hotspot. Verifique também as configurações de APN e reinicie o telefone.
 
 **O que causa "esim não funciona android" em dispositivos Samsung?**
-Causas comuns incluem dispositivos bloqueados por operadora, variantes regionais (como versões de operadoras dos EUA) ou versões Android desatualizadas. Verifique com `*#06#` para presença de EID.
+Causas comuns incluem dispositivos bloqueados por operadora, variantes regionais (como versões de operadoras dos USA) ou versões Android desatualizadas. Verifique com `*#06#` para presença de EID.
 
 **Por que "iMessage esim não funciona" após a ativação?**
 O iMessage pode precisar ser reativado. Vá em Configurações > Mensagens > desative e ative o iMessage novamente. Verifique também se seu número de telefone está selecionado em Enviar e Receber.

@@ -32,7 +32,7 @@ sidebar_popular:
   title: "eSIMs Populares"
   item_suffix: "eSIM"
   items:
-    - name: "eSIM EUA"
+    - name: "eSIM USA"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
@@ -129,7 +129,7 @@ A [página de suporte oficial do Google para eSIM no Pixel](https://support.goog
 | Pixel 2, 2 XL | ❌ Não | Não | Sem hardware eSIM |
 | Pixel 1, 1 XL | ❌ Não | Não | Sem hardware eSIM |
 
-> **O que significa "variante de operadora japonesa"?** Telefones vendidos pela SoftBank, au (KDDI) e outras operadoras japonesas geralmente têm o eSIM desativado no nível do firmware. Mesmo modelos Pixel 6 e mais novos podem ser bloqueados se adquiridos como dispositivo contratado por operadora no Japão. **As versões internacionais, dos EUA e europeias não têm tais restrições.**
+> **O que significa "variante de operadora japonesa"?** Telefones vendidos pela SoftBank, au (KDDI) e outras operadoras japonesas geralmente têm o eSIM desativado no nível do firmware. Mesmo modelos Pixel 6 e mais novos podem ser bloqueados se adquiridos como dispositivo contratado por operadora no Japão. **As versões internacionais, dos USA e europeias não têm tais restrições.**
 
 Para a lista completa de **telefones compatíveis com eSIM** de todas as marcas, consulte nossa **[lista completa de compatibilidade](/compatibility/)**.
 
@@ -149,7 +149,7 @@ Nem todos os telefones Pixel são iguais quando se trata de disponibilidade de e
 
 **Solução alternativa:** Nenhuma. Você não pode reativar o eSIM nesses dispositivos. Se você precisa de eSIM, deve comprar uma versão internacional (diretamente da Google Store) ou um dispositivo usado vendido originalmente fora do Japão.
 
-### 🇺🇸 EUA (Verizon, AT&T, T-Mobile e desbloqueados)
+### 🇺🇸 USA (Verizon, AT&T, T-Mobile e desbloqueados)
 
 **Status:** Pixels bloqueados por operadora variam; Pixels desbloqueados têm acesso total ao eSIM.
 
@@ -324,7 +324,7 @@ Mesmo em Pixels compatíveis, a ativação do eSIM pode falhar às vezes. Aqui e
 **Causa:** Seu Pixel está bloqueado por operadora (ex.: para AT&T, T-Mobile ou uma operadora japonesa) e a operadora original restringe o uso de eSIM para perfis não aprovados.
 
 **Solução:**
-- **Para bloqueios de operadoras dos EUA:** Assim que o dispositivo for pago, solicite um desbloqueio permanente de SIM da sua operadora. Após o desbloqueio, eSIM de qualquer provedor deve funcionar.
+- **Para bloqueios de operadoras dos USA:** Assim que o dispositivo for pago, solicite um desbloqueio permanente de SIM da sua operadora. Após o desbloqueio, eSIM de qualquer provedor deve funcionar.
 - **Para bloqueios de operadoras japonesas:** Como observado anteriormente, o eSIM é permanentemente desativado no nível do firmware; o desbloqueio de SIM não ajuda.
 - **Para outras regiões:** Contate sua operadora para perguntar se eles permitem eSIM em dispositivos bloqueados.
 
@@ -384,7 +384,7 @@ A série Pixel 2 não possui hardware eSIM. Nenhuma atualização de software ou
 
 ### Pixel 3 / 3 XL / 3a / 3a XL (Suporte Limitado)
 
-Estes foram os primeiros telefones do Google com capacidade eSIM. **A maioria das variantes internacionais, dos EUA e europeias funciona perfeitamente**, mas há uma grande exceção:
+Estes foram os primeiros telefones do Google com capacidade eSIM. **A maioria das variantes internacionais, dos USA e europeias funciona perfeitamente**, mas há uma grande exceção:
 
 - **Modelos japoneses** (SoftBank, au) têm eSIM desativado no nível do firmware pela operadora.
 - Como verificar: Disque `*#06#`. Se você vir um **EID** (número de 32 dígitos), o eSIM está disponível. Se apenas números IMEI aparecerem, está bloqueado.
@@ -393,7 +393,7 @@ Se seu Pixel 3 suporta eSIM, ele funciona com todos os principais provedores de 
 
 ### Pixel 4 / 4 XL / 4a / 4a 5G (Suporte Limitado)
 
-Mesma situação do Pixel 3: **versões internacionais, dos EUA e europeias suportam eSIM; versões de operadoras japonesas são bloqueadas.**
+Mesma situação do Pixel 3: **versões internacionais, dos USA e europeias suportam eSIM; versões de operadoras japonesas são bloqueadas.**
 
 - O Pixel 4a é uma escolha popular de orçamento para viajantes – muitos usuários preocupados com o orçamento procuram dispositivos **pixel 4a esim compatível**.
 - O Pixel 4a 5G é **pixel 4a 5g esim compatível** e adiciona suporte a 5G (embora a função eSIM seja idêntica à do 4a).
@@ -450,7 +450,7 @@ A ativação leva menos de 2 minutos. **Faça antes de voar** – você só prec
 
 #### 🧠 Gerenciamento Avançado de eSIM no Pixel 6
 
-- **Baixar vários eSIMs:** Armazene vários perfis (ex.: um para os EUA, um para a Europa, um para o Japão). Vá em **Rede e Internet → Rede Móvel → +** para adicionar mais.
+- **Baixar vários eSIMs:** Armazene vários perfis (ex.: um para os USA, um para a Europa, um para o Japão). Vá em **Rede e Internet → Rede Móvel → +** para adicionar mais.
 - **Alternar entre eSIMs:** Vá em **Rede Móvel → Escolher qual SIM usar para dados** – alterne entre SIM físico e qualquer eSIM baixado.
 - **Excluir um perfil eSIM:** Vá nas configurações do eSIM → **Apagar SIM** (remove o perfil; você pode reinstalar com o mesmo QR code se salvo).
 - **Rotule seus eSIMs:** Após a ativação, toque no ícone de engrenagem ao lado do eSIM e renomeie-o (ex.: "Japão Viagem") para fácil identificação.
@@ -503,10 +503,10 @@ A tabela a seguir mostra quais provedores de eSIM funcionam em quais gerações 
 | **Airalo** | ✅ Sim | ✅ Sim | eSIM de viagem mais popular |
 | **Holafly** | ✅ Sim | ✅ Sim | Planos de dados ilimitados |
 | **Nomad** | ✅ Sim | ✅ Sim | Preços competitivos na Ásia-Pacífico |
-| **Visible** | ⚠️ Pixel 5+ apenas | ✅ Sim | Plano ilimitado apenas nos EUA |
+| **Visible** | ⚠️ Pixel 5+ apenas | ✅ Sim | Plano ilimitado apenas nos USA |
 | **Google Fi** | ✅ Sim | ✅ Sim | Integração nativa; veja [Google Fi telefones compatíveis](https://fi.google.com/about/compatible-phones) |
 | **US Mobile** | ✅ Pixel 4+ | ✅ Sim | Planos personalizáveis |
-| **T-Mobile (EUA)** | ✅ Pixel 4+ | ✅ Sim | eSIM pré-pago via aplicativo |
+| **T-Mobile (USA)** | ✅ Pixel 4+ | ✅ Sim | eSIM pré-pago via aplicativo |
 | **Verizon** | ⚠️ Pixel 5+ apenas | ✅ Sim | Pós-pago exige atendimento ao cliente |
 | **Jio (Índia)** | ❌ Não | ✅ Sim | Requer conta pós-pago indiana |
 
@@ -520,7 +520,7 @@ A tabela a seguir mostra quais provedores de eSIM funcionam em quais gerações 
 Não. A série Pixel 2 não possui o hardware necessário.
 
 **O Pixel 3 suporta eSIM?**
-Sim, mas apenas em versões não japonesas. Dispositivos **Pixel 3 esim compatível** (dos EUA, internacionais) funcionam. As versões japonesas da SoftBank/au são bloqueadas.
+Sim, mas apenas em versões não japonesas. Dispositivos **Pixel 3 esim compatível** (dos USA, internacionais) funcionam. As versões japonesas da SoftBank/au são bloqueadas.
 
 **O Pixel 4a suporta eSIM?**
 Sim (versões não japonesas). Muitos viajantes econômicos procuram telefones **pixel 4a esim compatível**. Disque `*#06#` para confirmar o EID.
@@ -551,7 +551,7 @@ Algumas operadoras exigem que você libere o eSIM do dispositivo antigo via apli
 O **Pixel 6a** oferece o melhor custo-benefício: barato, suporte total a eSIM, 5G e boa duração de bateria. Segunda escolha: **Pixel 5** (não japonês) se encontrado a um preço mais baixo.
 
 **Posso usar um eSIM de um país diferente daquele onde comprei meu Pixel?**
-Sim. O eSIM é independente de região. Um Pixel 6 comprado nos EUA pode instalar e usar um eSIM japonês, um eSIM europeu ou qualquer outro eSIM global, desde que o provedor suporte o dispositivo.
+Sim. O eSIM é independente de região. Um Pixel 6 comprado nos USA pode instalar e usar um eSIM japonês, um eSIM europeu ou qualquer outro eSIM global, desde que o provedor suporte o dispositivo.
 
 **O Pixel funciona com eSIM na China?**
 Sim – provedores internacionais de eSIM oferecem eSIMs para a China que funcionam no Pixel 6 e mais novos. As operadoras locais chinesas não oferecem eSIM para turistas.

@@ -30,7 +30,7 @@ sidebar_popular:
   title: "eSIMs Populares"
   item_suffix: "eSIM"
   items:
-    - name: "EUA eSIM"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/pt/united-states-esim/"
@@ -159,14 +159,14 @@ A Motorola adotou o eSIM tardiamente. Apenas modelos recentes das linhas Razr e 
 
 **✅ Modelos com suporte a eSIM:**
 - **Motorola Razr (2019, 2022, 2023, 2024)** — Todas as gerações do dobrável Razr incluem **motorola razr esim** na maioria das versões globais.
-- **Motorola Edge (2022, 2023, 2024, 2025)** — Modelos como Edge 30 Ultra, Edge 40 Pro e Edge 50 Ultra suportam eSIM. **Atenção:** versões bloqueadas por operadoras nos EUA (AT&T, Verizon, T-Mobile) podem ter o eSIM desativado.
+- **Motorola Edge (2022, 2023, 2024, 2025)** — Modelos como Edge 30 Ultra, Edge 40 Pro e Edge 50 Ultra suportam eSIM. **Atenção:** versões bloqueadas por operadoras nos USA (AT&T, Verizon, T-Mobile) podem ter o eSIM desativado.
 - **Motorola Edge+ (2022, 2023)** — Suporte presente em versões desbloqueadas.
 
 **❌ Modelos SEM eSIM — o que fazer:**
 - **Série Moto G (G Play, G Power, G Stylus, G54, G84)** — Esses telefones foram projetados sem hardware eSIM para reduzir custos. **Moto g play tem esim?** Não. **Moto g power tem esim?** Também não. **Solução:** use um chip físico de viagem. Muitos provedores de eSIM também vendem chips físicos enviados para sua casa.
 - **Série Moto E e modelos antigos (G7, G8)** — Não têm eSIM. **Solução:** atualize para um Motorola Edge 2022 usado (encontrado por menos de $150) ou considere um Google Pixel 6a.
 
-**📱 Versões bloqueadas por operadora:** Mesmo que o hardware suporte, operadoras dos EUA frequentemente desativam o eSIM. **Solução:** solicite um desbloqueio SIM da sua operadora. Após o desbloqueio, o eSIM *pode* aparecer, mas não é garantido. Para segurança, compre um modelo desbloqueado de fábrica.
+**📱 Versões bloqueadas por operadora:** Mesmo que o hardware suporte, operadoras dos USA frequentemente desativam o eSIM. **Solução:** solicite um desbloqueio SIM da sua operadora. Após o desbloqueio, o eSIM *pode* aparecer, mas não é garantido. Para segurança, compre um modelo desbloqueado de fábrica.
 
 ---
 
@@ -176,15 +176,15 @@ A OnePlus começou a incluir eSIM a partir do OnePlus 11. Se você pesquisa **on
 
 **✅ Modelos com suporte a eSIM:**
 - **OnePlus 13** — **Oneplus 13 esim** totalmente suportado em versões globais desbloqueadas.
-- **OnePlus 12** — **Oneplus 12 esim** funciona em modelos globais. Versões T-Mobile dos EUA podem ter eSIM desativado.
+- **OnePlus 12** — **Oneplus 12 esim** funciona em modelos globais. Versões T-Mobile dos USA podem ter eSIM desativado.
 - **OnePlus 11** — **Oneplus 11 esim** disponível na maioria das unidades globais.
-- **OnePlus 10 Pro** — **Oneplus 10 pro esim** suportado apenas em versões Europa e Índia. Versão T-Mobile EUA **não** tem.
+- **OnePlus 10 Pro** — **Oneplus 10 pro esim** suportado apenas em versões Europa e Índia. Versão T-Mobile USA **não** tem.
 
 **❌ Modelos SEM eSIM — o que fazer:**
 - **Série OnePlus Nord (N20, N30, CE)** — Não têm hardware eSIM. **Solução:** use chip físico. Considere um OnePlus 11 usado se o eSIM for essencial.
 - **OnePlus 9 e mais antigos, 10R, 10T** — Sem eSIM. **Solução:** apenas chip físico.
 
-**📱 Variações regionais:** A OnePlus desativa o eSIM em modelos bloqueados por operadoras dos EUA. **Solução:** compre sempre uma versão global desbloqueada de fábrica no site oficial da OnePlus.
+**📱 Variações regionais:** A OnePlus desativa o eSIM em modelos bloqueados por operadoras dos USA. **Solução:** compre sempre uma versão global desbloqueada de fábrica no site oficial da OnePlus.
 
 ---
 
@@ -209,7 +209,7 @@ A Xiaomi tem suporte a eSIM extremamente limitado e dependente da região. A mai
 
 ### Huawei: A Huawei Tem eSIM?
 
-A Huawei foi uma das primeiras a adotar o eSIM, mas sanções dos EUA afetaram os serviços Google. Se você pesquisa **huawei tem esim**, depende do modelo e região.
+A Huawei foi uma das primeiras a adotar o eSIM, mas sanções dos USA afetaram os serviços Google. Se você pesquisa **huawei tem esim**, depende do modelo e região.
 
 **✅ Modelos com suporte a eSIM:**
 - **Huawei P40, P40 Pro (global)** — **Huawei p40 esim** funciona em versões globais.
@@ -228,7 +228,7 @@ A Huawei foi uma das primeiras a adotar o eSIM, mas sanções dos EUA afetaram o
 A LG saiu do mercado em 2021, mas alguns modelos finais têm eSIM. Se você pesquisa **lg tem esim**, a resposta é limitada.
 
 **✅ Modelos com suporte a eSIM:**
-- **LG Wing (desbloqueado)** — **Lg wing esim** presente em modelos desbloqueados dos EUA.
+- **LG Wing (desbloqueado)** — **Lg wing esim** presente em modelos desbloqueados dos USA.
 - **LG Velvet (desbloqueado)** — **Lg velvet esim** em unidades desbloqueadas.
 - **LG V60 ThinQ (desbloqueado)** — **Lg v60 esim** disponível.
 
@@ -246,7 +246,7 @@ A LG saiu do mercado em 2021, mas alguns modelos finais têm eSIM. Se você pesq
 
 **❌ Modelos SEM eSIM — o que fazer:**
 - **Xperia 1 III e mais antigos, série Xperia 10** — Sem eSIM. **Solução:** chip físico.
-- **Versões de operadoras japonesas (Docomo, au, SoftBank)** — Desativam o eSIM. **Solução:** compre versão global (Amazon EUA ou Europa).
+- **Versões de operadoras japonesas (Docomo, au, SoftBank)** — Desativam o eSIM. **Solução:** compre versão global (Amazon USA ou Europa).
 
 ---
 

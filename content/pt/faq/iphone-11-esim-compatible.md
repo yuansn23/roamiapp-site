@@ -1,7 +1,7 @@
 ﻿---
 title: "iPhone eSIM: Compatibilidade e Configuração Completa"
 h1_title: "O Guia Completo para Compatibilidade e Configuração de eSIM no iPhone"
-description: "Verifique compatibilidade eSIM no iPhone via EID. Guia de configuração, dual SIM, diferenças China/EUA e recursos do iPhone 13+. Tabelas incluídas."
+description: "Verifique compatibilidade eSIM no iPhone via EID. Guia de configuração, dual SIM, diferenças China/USA e recursos do iPhone 13+. Tabelas incluídas."
 keywords: ["iphone esim", "esim iphone", "quais iphones suportam esim", "quais iphones têm esim", "quais modelos de iphone suportam esim", "que iphones suportam esim", "o iphone 11 tem esim", "o iphone 12 tem esim", "o iphone 13 tem esim", "o iphone 14 tem esim", "o iphone 15 tem esim", "o iphone 16 tem esim", "o iphone 17 tem esim", "o iphone 11 suporta esim", "o iphone 12 suporta esim", "o iphone 13 suporta esim", "o iphone 14 suporta esim", "o iphone 15 suporta esim", "o iphone 16 suporta esim", "o iphone 17 suporta esim", "o iphone se tem esim", "o iphone se suporta esim", "o iphone xr tem esim", "o iphone xr suporta esim", "o iphone xs tem esim", "o iphone xs max tem esim", "o iphone 8 tem esim", "o iphone 7 tem esim", "iphone 11 esim", "iphone 12 esim", "iphone 13 esim", "iphone 14 esim", "iphone 15 esim", "iphone 16 esim", "iphone 17 esim", "iphone se esim", "iphone xr esim", "iphone xs esim", "iphone 8 esim", "iphone 11 pro esim", "iphone 12 pro esim", "iphone 13 pro esim", "iphone 14 pro esim", "iphone 15 pro esim", "iphone 16 pro esim", "iphone 17 pro esim", "iphone 14 apenas esim", "iphone 15 esim ou sim fisico", "iphone 16 apenas esim", "iphone 17 apenas esim", "iphone 17 air apenas esim", "iphone 13 dual esim", "iphone 14 dual esim", "iphone 15 dual esim", "iphone 16 dual esim", "iphone 17 dual esim", "primeiro iphone com esim", "quando os iphones mudaram para esim", "quando o iphone começou a usar esim", "iphone esim compatível", "iphones com esim", "iphones compatíveis com esim"]
 date: 2026-08-06T10:00:00Z
 lastmod: 2026-08-06T10:00:00Z
@@ -30,7 +30,7 @@ sidebar_popular:
   title: "eSIMs Populares"
   item_suffix: "eSIM"
   items:
-    - name: "eSIM EUA"
+    - name: "eSIM USA"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
@@ -105,10 +105,10 @@ sidebar_questions:
 - **iPhone SE (2ª geração 2020, 3ª geração 2022):** ✅ Suporte a eSIM
 - **iPhone 12, 12 mini, 12 Pro, 12 Pro Max:** ✅ eSIM + primeiro suporte a 5G
 - **iPhone 13, 13 mini, 13 Pro, 13 Pro Max:** ✅ eSIM + recursos aprimorados de dual‑eSIM
-- **iPhone 14, 14 Plus, 14 Pro, 14 Pro Max:** ✅ Modelos dos EUA são **apenas eSIM** (sem bandeja de SIM físico); outras regiões têm SIM físico + eSIM
-- **iPhone 15, 15 Plus, 15 Pro, 15 Pro Max:** ✅ Mesmo que o iPhone 14 – EUA apenas eSIM, global SIM físico + eSIM
-- **iPhone 16, 16 Plus, 16 Pro, 16 Pro Max:** ✅ Suporte a eSIM continua; EUA permanece apenas eSIM
-- **iPhone 17, 17 Pro, 17 Pro Max, 17 Air:** ✅ Suporte total a eSIM esperado; modelos dos EUA provavelmente apenas eSIM
+- **iPhone 14, 14 Plus, 14 Pro, 14 Pro Max:** ✅ Modelos dos USA são **apenas eSIM** (sem bandeja de SIM físico); outras regiões têm SIM físico + eSIM
+- **iPhone 15, 15 Plus, 15 Pro, 15 Pro Max:** ✅ Mesmo que o iPhone 14 – USA apenas eSIM, global SIM físico + eSIM
+- **iPhone 16, 16 Plus, 16 Pro, 16 Pro Max:** ✅ Suporte a eSIM continua; USA permanece apenas eSIM
+- **iPhone 17, 17 Pro, 17 Pro Max, 17 Air:** ✅ Suporte total a eSIM esperado; modelos dos USA provavelmente apenas eSIM
 
 > **O iPhone 8, 8 Plus e iPhone X (2017) NÃO suportam eSIM** – usam apenas SIM físico. Se você possui um deles, não pode usar nenhum serviço eSIM.
 
@@ -128,10 +128,10 @@ Para a lista completa de **telefones compatíveis com eSIM** de todas as marcas,
 | **iPhone SE (2ª & 3ª geração)** | ✅ Sim | Físico + eSIM | Opção econômica com eSIM |
 | **iPhone 12, 12 mini, 12 Pro, 12 Pro Max** | ✅ Sim | Físico + eSIM | Primeiros iPhones 5G com eSIM |
 | **iPhone 13, 13 mini, 13 Pro, 13 Pro Max** | ✅ Sim | Físico + eSIM (ou dual eSIM) | Suporta **dual eSIM** (dois eSIMs ativos) |
-| **iPhone 14, 14 Plus, 14 Pro, 14 Pro Max** | ✅ Sim | EUA: apenas eSIM; global: físico + eSIM | **iPhone 14 apenas esim** nos EUA |
-| **iPhone 15, 15 Plus, 15 Pro, 15 Pro Max** | ✅ Sim | EUA: apenas eSIM; global: físico + eSIM | **iPhone 15 esim ou sim fisico** depende da região |
-| **iPhone 16, 16 Plus, 16 Pro, 16 Pro Max** | ✅ Sim | EUA: apenas eSIM; global: físico + eSIM | **iPhone 16 apenas esim** nos EUA |
-| **iPhone 17 (todos os modelos)** | ✅ Sim | Esperado: EUA apenas eSIM; global físico + eSIM | **iPhone 17 apenas esim** provável; **iPhone 17 air apenas esim** provável |
+| **iPhone 14, 14 Plus, 14 Pro, 14 Pro Max** | ✅ Sim | USA: apenas eSIM; global: físico + eSIM | **iPhone 14 apenas esim** nos USA |
+| **iPhone 15, 15 Plus, 15 Pro, 15 Pro Max** | ✅ Sim | USA: apenas eSIM; global: físico + eSIM | **iPhone 15 esim ou sim fisico** depende da região |
+| **iPhone 16, 16 Plus, 16 Pro, 16 Pro Max** | ✅ Sim | USA: apenas eSIM; global: físico + eSIM | **iPhone 16 apenas esim** nos USA |
+| **iPhone 17 (todos os modelos)** | ✅ Sim | Esperado: USA apenas eSIM; global físico + eSIM | **iPhone 17 apenas esim** provável; **iPhone 17 air apenas esim** provável |
 
 ---
 
@@ -142,8 +142,8 @@ Para a lista completa de **telefones compatíveis com eSIM** de todas as marcas,
 - **2019 (série iPhone 11)** – Mesma funcionalidade eSIM dos modelos de 2018; China continental recebe dois SIMs físicos em vez disso.
 - **2020 (iPhone SE 2ª geração, série iPhone 12)** – eSIM continua; iPhone 12 adiciona 5G no eSIM.
 - **2021 (série iPhone 13)** – Primeiro suporte para **dois eSIMs ativos** (dual eSIM) em algumas operadoras.
-- **2022 (iPhone SE 3ª geração, série iPhone 14)** – Modelos dos EUA se tornam **apenas eSIM** (sem bandeja de SIM físico).
-- **2023 (série iPhone 15)** – EUA continua apenas eSIM; global mantém SIM físico + eSIM.
+- **2022 (iPhone SE 3ª geração, série iPhone 14)** – Modelos dos USA se tornam **apenas eSIM** (sem bandeja de SIM físico).
+- **2023 (série iPhone 15)** – USA continua apenas eSIM; global mantém SIM físico + eSIM.
 - **2024 (série iPhone 16)** – Mesmo que o iPhone 15.
 - **2025/2026 (série iPhone 17)** – Espera-se a mesma divisão regional; **iPhone 17 air apenas esim** provável.
 
@@ -188,13 +188,13 @@ O **iPhone 12, 12 mini, 12 Pro e 12 Pro Max** suportam eSIM. Foram os primeiros 
 A **série iPhone 13** (incluindo mini, Pro, Pro Max) suporta eSIM e introduz a capacidade **dual eSIM** – você pode ter dois eSIMs ativos simultaneamente (sem necessidade de SIM físico). Esta também é a primeira geração onde o **iPhone 13 dual esim** se tornou um recurso padrão.
 
 ### Série iPhone 14 (2022)
-Todos os **modelos iPhone 14** suportam eSIM, mas com uma mudança importante: os modelos dos EUA são **apenas eSIM** – eles não têm bandeja de SIM físico. Os modelos globais ainda oferecem um slot SIM físico mais eSIM. **iPhone 14 apenas esim** é a realidade para clientes dos EUA.
+Todos os **modelos iPhone 14** suportam eSIM, mas com uma mudança importante: os modelos dos USA são **apenas eSIM** – eles não têm bandeja de SIM físico. Os modelos globais ainda oferecem um slot SIM físico mais eSIM. **iPhone 14 apenas esim** é a realidade para clientes dos USA.
 
 ### Série iPhone 15 (2023)
-A **série iPhone 15** segue a mesma divisão regional: modelos dos EUA são apenas eSIM; modelos globais têm SIM físico + eSIM. Então **iPhone 15 esim ou sim fisico** depende inteiramente de onde você o compra.
+A **série iPhone 15** segue a mesma divisão regional: modelos dos USA são apenas eSIM; modelos globais têm SIM físico + eSIM. Então **iPhone 15 esim ou sim fisico** depende inteiramente de onde você o compra.
 
 ### Série iPhone 16 (2024)
-A **série iPhone 16** continua o mesmo padrão. Modelos dos EUA são **iPhone 16 apenas esim**; versões internacionais mantêm o slot SIM físico.
+A **série iPhone 16** continua o mesmo padrão. Modelos dos USA são **iPhone 16 apenas esim**; versões internacionais mantêm o slot SIM físico.
 
 ### Série iPhone 17 (2025/2026)
 Espera-se que continue a mesma divisão regional. O novo ultrafino **iPhone 17 Air** pode ser **apenas eSIM** em todo o mundo. **iPhone 17 dual esim** será padrão em toda a linha.
@@ -214,7 +214,7 @@ Para detalhes completos de ativação em todos os modelos de iPhone, consulte no
 6. No seu destino, vá em **Configurações > Celular > [seu plano eSIM]** e ative o **Roaming de Dados**.
 
 ### Ativando um eSIM de operadora (ex.: Verizon, T‑Mobile, Jio)
-- Operadoras dos EUA: Use o aplicativo para converter seu SIM físico em eSIM.
+- Operadoras dos USA: Use o aplicativo para converter seu SIM físico em eSIM.
 - Jio (Índia): Visite uma loja Jio para verificação presencial e um código QR.
 - Google Fi: Instale o aplicativo Fi e siga “Ativar eSIM”.
 
@@ -224,7 +224,7 @@ Para detalhes completos de ativação em todos os modelos de iPhone, consulte no
 
 ## Usando SIM físico e eSIM juntos (dual SIM)
 
-Todos os iPhones do XR ao 13 (global) e 14–17 globais suportam **um SIM físico + um eSIM** ativos ao mesmo tempo. Modelos dos EUA apenas eSIM (14–17) usam **dual eSIM** em vez disso.
+Todos os iPhones do XR ao 13 (global) e 14–17 globais suportam **um SIM físico + um eSIM** ativos ao mesmo tempo. Modelos dos USA apenas eSIM (14–17) usam **dual eSIM** em vez disso.
 
 ### Como Configurar Dual SIM
 1. Insira seu SIM físico (ou tenha seu primeiro eSIM ativo).
@@ -234,25 +234,25 @@ Todos os iPhones do XR ao 13 (global) e 14–17 globais suportam **um SIM físic
    - **Linha de Dados Padrão** – qual linha usa internet móvel
    - **Alternância de Dados Celulares** – permitir alternância automática se a linha de dados principal perder sinal (use com cuidado no exterior para evitar cobranças de roaming)
 
-### Exemplo: Viajando dos EUA para o Japão
-- Mantenha seu SIM físico dos EUA (ou eSIM doméstico) para chamadas/SMS.
+### Exemplo: Viajando dos USA para o Japão
+- Mantenha seu SIM físico dos USA (ou eSIM doméstico) para chamadas/SMS.
 - Compre um eSIM de viagem para o Japão para dados.
 - Defina o eSIM do Japão como **Linha de Dados Padrão** e ative o **Roaming de Dados** para essa linha.
 
 ---
 
-## Diferenças regionais: China, Hong Kong, EUA e global
+## Diferenças regionais: China, Hong Kong, USA e global
 
 - **Modelos da China continental** (número do modelo termina com CH/A): Sem eSIM – dois SIMs físicos em vez disso.
 - **Modelos de Hong Kong e Macau**: Tipicamente SIM físico + eSIM (mesmo que global).
-- **Modelos dos EUA (iPhone 14–17)**: Apenas eSIM – sem bandeja de SIM físico.
+- **Modelos dos USA (iPhone 14–17)**: Apenas eSIM – sem bandeja de SIM físico.
 - **Modelos globais (Europa, Ásia não China, etc.)**: SIM físico + eSIM.
 
-Se você viaja com frequência, uma **versão global** (físico + eSIM) oferece mais flexibilidade do que um modelo dos EUA apenas eSIM.
+Se você viaja com frequência, uma **versão global** (físico + eSIM) oferece mais flexibilidade do que um modelo dos USA apenas eSIM.
 
 ---
 
-## Casos especiais: iPhones apenas eSIM (modelos dos EUA 14–17)
+## Casos especiais: iPhones apenas eSIM (modelos dos USA 14–17)
 
 ### O que significa “apenas eSIM”
 - Sem slot SIM físico.
@@ -291,7 +291,7 @@ Você não pode inserir um SIM físico como backup. Suas opções:
 - Modelos da China continental (CH/A) – sem eSIM.
 - iPhone 8, X – sem eSIM.
 - iPhones bloqueados por operadora – arriscado para eSIM de viagem.
-- Modelos dos EUA apenas eSIM como telefone de backup (sem slot SIM físico).
+- Modelos dos USA apenas eSIM como telefone de backup (sem slot SIM físico).
 
 Para alternativas Android, consulte nosso **[guia de compatibilidade eSIM Samsung Galaxy](/faq/samsung-galaxy-esim-compatible/)** e **[guia de compatibilidade eSIM Google Pixel](/faq/google-pixel-6-esim-compatible/)**.
 
@@ -327,10 +327,10 @@ Sim. Todos os modelos iPhone 12 (versões globais) permitem um SIM físico e um 
 **O iPhone 13 tem capacidade dual eSIM?**
 Sim. A série iPhone 13 (incluindo Pro e Pro Max) suporta dois eSIMs ativos simultaneamente. Isso significa que você pode usar dois eSIMs de viagem ou um eSIM doméstico mais um eSIM de viagem sem nenhum cartão SIM físico.
 
-**O iPhone 14 (modelo dos EUA) tem slot SIM físico?**
-Não. Os modelos dos EUA do iPhone 14, 15, 16 e 17 são **apenas eSIM**. Eles não têm bandeja de SIM físico. Os modelos globais ainda incluem um slot SIM físico junto com eSIM.
+**O iPhone 14 (modelo dos USA) tem slot SIM físico?**
+Não. Os modelos dos USA do iPhone 14, 15, 16 e 17 são **apenas eSIM**. Eles não têm bandeja de SIM físico. Os modelos globais ainda incluem um slot SIM físico junto com eSIM.
 
-**Posso viajar para a China com um iPhone dos EUA apenas eSIM?**
+**Posso viajar para a China com um iPhone dos USA apenas eSIM?**
 Sim, mas você não pode usar o eSIM de uma operadora local chinesa (eles não oferecem eSIM para turistas). Você deve comprar um eSIM de viagem internacional antes de ir. Instale-o no Wi‑Fi e ative o Roaming de Dados quando chegar – funcionará em parceiros de roaming como a China Unicom.
 
 **Qual é o primeiro iPhone com eSIM?**

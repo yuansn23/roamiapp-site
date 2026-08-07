@@ -1,7 +1,7 @@
 ﻿---
 title: "FAQ eSIM: Configuração, Compatibilidade e Suporte"
 date: '2026-08-06T00:00:00+00:00'
-description: "Respostas rápidas sobre eSIM: ativação, compatibilidade e solução de problemas. Solicite testes gratuitos para EUA, Reino Unido, Japão e mais."
+description: "Respostas rápidas sobre eSIM: ativação, compatibilidade e solução de problemas. Solicite testes gratuitos para USA, Reino Unido, Japão e mais."
 outputs:
   - HTML
   - sitemap

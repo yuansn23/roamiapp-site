@@ -32,7 +32,7 @@ sidebar_popular:
   title: "eSIMs Populares"
   item_suffix: "eSIM"
   items:
-    - name: "eSIM EUA"
+    - name: "eSIM USA"
       flag: "/img/flags/us.svg"
       price: "$1,99"
       url: "/united-states-esim/"
@@ -122,7 +122,7 @@ Para uma lista completa de todos os dispositivos compatíveis com eSIM entre mar
 | Modelo | Ano | Suporte eSIM | Dual SIM | Notas |
 |-------|------|--------------|----------|-------|
 | iPhone SE (1ª geração) | 2016 | ❌ Não | Não | Modelos A1723, A1662, A1724 – sem hardware eSIM |
-| iPhone SE (2ª geração) | 2020 | ✅ Sim | Sim (nano‑SIM + eSIM) | Modelos: A2275 (global), A2296 (EUA), A2298 (Japão) – **iphone se 2ª geração esim compatível** |
+| iPhone SE (2ª geração) | 2020 | ✅ Sim | Sim (nano‑SIM + eSIM) | Modelos: A2275 (global), A2296 (USA), A2298 (Japão) – **iphone se 2ª geração esim compatível** |
 | iPhone SE (3ª geração) | 2022 | ✅ Sim | Sim (nano‑SIM + eSIM) | Modelos: A2783, A2784, A2785 – **iphone se 3ª geração esim** com 5G |
 
 **Importante:** iPhones vendidos na **China continental** (incluindo alguns modelos de Hong Kong) **não** suportam eSIM – independentemente da geração. Se você comprou seu SE na China, assuma que não tem eSIM. Isso se deve a regulamentações locais que exigem suporte a dual SIM físico para dispositivos do mercado doméstico.
@@ -154,7 +154,7 @@ Se você está comparando modelos ou pesquisando por **"lista de iphones que sup
 | **iPhone SE (2020, 2022)** | ✅ Sim | Sim | 2ª/3ª geração – **esim iphone se 2020** confirmado |
 | iPhone 12, 12 mini, 12 Pro, 12 Pro Max | ✅ Sim | Sim | |
 | iPhone 13, 13 mini, 13 Pro, 13 Pro Max | ✅ Sim | Sim | |
-| iPhone 14, 14 Plus, 14 Pro, 14 Pro Max | ✅ Sim | Modelos EUA: apenas eSIM; outros: físico + eSIM | |
+| iPhone 14, 14 Plus, 14 Pro, 14 Pro Max | ✅ Sim | Modelos USA: apenas eSIM; outros: físico + eSIM | |
 | iPhone 15, 15 Plus, 15 Pro, 15 Pro Max | ✅ Sim | Mesmo que o 14 | |
 | Séries iPhone 16, 17 | ✅ Sim | Apenas eSIM em algumas regiões | |
 | **iPhone 6s, 6s Plus, 7, 7 Plus, 8, 8 Plus, iPhone X** | ❌ Não | Não | Sem hardware eSIM – apenas SIM físico |
@@ -245,7 +245,7 @@ Seu iPhone SE (2020/2022) funciona com **todos os provedores de eSIM** do mundo.
 | **Google Fi** | ✅ Sim | Ative via aplicativo Google Fi |
 | **Verizon** | ✅ Sim | Planos eSIM pós‑pagos e pré‑pagos funcionam. Para **compatibilidade esim verizon**, iPhone SE 2020/2022 são totalmente suportados (deve estar desbloqueado ou dispositivo Verizon). |
 | **US Mobile** | ✅ Sim | Funciona com eSIM Warp 5G e GSM – um dos **dispositivos compatíveis com us mobile esim** |
-| **T‑Mobile (EUA)** | ✅ Sim | Suporta ativação eSIM via aplicativo ou QR |
+| **T‑Mobile (USA)** | ✅ Sim | Suporta ativação eSIM via aplicativo ou QR |
 | **Holafly** | ✅ Sim | Totalmente compatível – um dos principais **telefones compatíveis com holafly** |
 | **Jio (Índia)** | ✅ Sim | O eSIM Jio funciona no iPhone SE 2020/2022 – um dos **telefones compatíveis com jio esim** (exige conexão Jio pós‑paga e verificação presencial na Índia) |
 | **Roami** | ✅ Sim | Suporte total para eSIMs de viagem com comutação multi‑operadora |

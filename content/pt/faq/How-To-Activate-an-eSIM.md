@@ -33,7 +33,7 @@ sidebar_popular:
   title: "eSIMs Populares"
   item_suffix: "eSIM"
   items:
-    - name: "eSIM EUA"
+    - name: "eSIM USA"
       flag: "/img/flags/us.svg"
       price: "$1,99"
       url: "/united-states-esim/"
@@ -111,7 +111,7 @@ Não digitalize seu código QR até ter verificado estes quatro requisitos. Não
 1. **Seu Telefone Deve Estar Desbloqueado por Operadora:** Se você comprou seu telefone através de um contrato de operadora (como AT&T ou Verizon), ele pode estar bloqueado para a rede deles. 
    - *Verificação no iPhone:* Vá em **Configurações > Geral > Sobre**. Role para baixo até **Bloqueio de Operadora**. Deve dizer **Sem restrições de SIM**. A página [Apple Support – eSIM no iPhone](https://support.apple.com/pt-br/118670) fornece a lista oficial de compatibilidade.
    - *Verificação no Android:* Vá em **Configurações > Conexões > Redes Móveis > Operadoras de rede**. Se apenas uma rede aparecer ao escanear, seu telefone pode ainda estar bloqueado.
-   - Se estiver bloqueado, entre em contato com sua operadora para solicitar o desbloqueio. As operadoras dos EUA são legalmente obrigadas a desbloquear dispositivos após serem quitados. O processo de desbloqueio geralmente leva de 1 a 3 dias úteis.
+   - Se estiver bloqueado, entre em contato com sua operadora para solicitar o desbloqueio. As operadoras dos USA são legalmente obrigadas a desbloquear dispositivos após serem quitados. O processo de desbloqueio geralmente leva de 1 a 3 dias úteis.
 
 2. **Você Precisa de uma Conexão Wi‑Fi Estável:** Um eSIM é um download digital. Você não pode ativá‑lo usando seus dados celulares regulares porque o telefone precisa de uma conexão com a internet para se comunicar com o servidor SM‑DP+ seguro da operadora. Evite Wi‑Fi público — uma conexão interrompida durante a fase de download pode corromper a **instalação do eSIM**.
 
@@ -135,7 +135,7 @@ A Apple simplificou o processo de **configuração de eSIM no iPhone** nas atual
 Se você não puder digitalizar o código (ex., o código QR está no telefone que você está usando), toque em **Inserir Detalhes Manualmente** na parte inferior da tela de digitalização. Cole o **Endereço SM‑DP+** e o **Código de Ativação** fornecidos no e‑mail da sua operadora. Este método de **entrada manual de eSIM** contorna completamente o código QR e é um backup confiável quando a digitalização do **código QR do eSIM** falha — é a alternativa mais comum para **como ativar um eSIM** quando a câmera não coopera.
 
 **Após a instalação, configure estas configurações críticas:**
-- Rotule o eSIM claramente (ex., "Viagem", "Trabalho", "Viagem aos EUA")
+- Rotule o eSIM claramente (ex., "Viagem", "Trabalho", "Viagem aos USA")
 - Defina sua linha padrão para voz/SMS (geralmente mantenha seu SIM principal como padrão)
 - Defina o eSIM de viagem como a linha de **Dados Celulares**
 - Desative **Permitir Alternância de Dados Celulares** para evitar cobranças acidentais de roaming
@@ -367,7 +367,7 @@ Se estas correções não resolverem seu problema, consulte nosso [Guia de Solu�
 
 **Preciso ativar o Roaming de Dados para o eSIM funcionar?** Sim — para a maioria dos eSIMs de viagem, o Roaming de Dados deve estar ATIVADO para a linha de eSIM. Este é um requisito técnico porque os eSIMs de viagem se conectam através de redes parceiras. Você não será cobrado por taxas de roaming; é apenas como a tecnologia funciona.
 
-**Posso usar um eSIM de viagem sem ter um SIM físico instalado?** Sim — se seu telefone suporta eSIM, você pode usá‑lo sem um SIM físico. Isso é especialmente útil para modelos de iPhone dos EUA (14 e mais novos) que não têm slot para SIM físico.
+**Posso usar um eSIM de viagem sem ter um SIM físico instalado?** Sim — se seu telefone suporta eSIM, você pode usá‑lo sem um SIM físico. Isso é especialmente útil para modelos de iPhone dos USA (14 e mais novos) que não têm slot para SIM físico.
 
 **Por que meu eSIM está mostrando "Ativando" por muito tempo?** O servidor de ativação pode estar ocupado, ou sua conexão Wi‑Fi está instável. Aguarde até 10 minutos. Se ainda estiver travado, ative e desative o Modo Avião. Se isso não funcionar, reinicie o telefone e tente novamente.
 
