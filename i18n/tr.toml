@@ -1,0 +1,544 @@
+# 通用按钮与标签
+[download_on_the]
+other = "İndir"
+
+[app_store]
+other = "App Store"
+
+[get_it_on]
+other = "Şuradan alın"
+
+[google_play]
+other = "Google Play"
+
+[visit_our]
+other = "Ziyaret et"
+
+[official_website]
+other = "Resmi Web Sitesi"
+
+[view_plans]
+other = "Planları Görüntüle"
+
+[web]
+other = "Web"
+
+[android]
+other = "Android"
+
+[404_page_not_found]
+other = "404 – Sayfa bulunamadı"
+
+[404_message]
+other = "Aradığınız sayfayı bulamadık. Taşınmış veya artık mevcut olmayabilir. Endişelenmeyin — sizi seyahat rotanıza geri götüreceğiz."
+
+[404_back_home]
+other = "Ana Sayfaya Dön"
+
+[404_promo_title]
+other = "Size Özel Teklif"
+
+[404_promo_desc]
+other = "İlk eSIM satın alımınızda %20 indirim"
+
+[404_promo_code]
+other = "web20"
+
+[404_promo_cta]
+other = "İndiriminizi Kullanın"
+
+[404_promo_note]
+other = "Kayıt gerekmez. Yeni kullanıcılar için geçerlidir."
+
+# 弹窗相关
+[friendly_reminder]
+other = "Hizmet Güncellendi"
+
+[modal_upgrade_desc]
+other = "Hizmetlerimiz güncellendi. Promosyon kodunuzu alın: web20 resmi web sitemizden veya uygulamamızdan."
+
+[cancel]
+other = "İptal"
+
+[proceed]
+other = "Devam Et"
+
+# 悬浮按钮文本
+[get_esim_discount]
+other = "eSIM'de %20 indirim kazanın"
+
+# FAQ 标题和描述
+[faq_title]
+other = "Sık Sorulan Sorular"
+
+[faq_desc]
+other = "Küresel eSIM hizmetimiz hakkında bilmeniz gereken her şey."
+
+# 以下为可选（原有但未使用）
+[modal_title_ios]
+other = "Hizmet Güncellendi"
+
+[modal_text_ios]
+other = "İndirim kodunu almak için resmi uygulamaya yönlendirileceksiniz."
+
+[tldr_summary_title]
+other = "Seyahatçiler için Hızlı Özet"
+
+[modal_cancel]
+other = "İptal"
+
+[modal_continue]
+other = "Devam Et"
+
+[global_connectivity_expert]
+other = "Küresel Bağlantı Uzmanı"
+
+[structured_data_org_description]
+other = "200 ülkede yüksek hızlı veri dolaşımı sunan profesyonel küresel eSIM hizmet sağlayıcısı."
+
+[structured_data_product_description]
+other = "200'den fazla ülke için anında etkinleştirme ve yüksek hızlı 5G/4G internet ile ön ödemeli eSIM planları."
+
+[structured_data_faq1_question]
+other = "ABD için eSIM nasıl satın alınır?"
+
+[structured_data_faq1_answer]
+other = "ABD için eSIM satın almak için Roami uygulamasını indirin, hedef olarak Amerika Birleşik Devletleri'ni seçin, ihtiyaçlarınıza uygun bir veri planı seçin ve satın alma işlemini tamamlayın. Etkinleştirme anındadır."
+
+[structured_data_faq2_question]
+other = "Japonya için eSIM çevrimiçi nasıl satın alınır?"
+
+[structured_data_faq2_answer]
+other = "Roami ile Japonya için eSIM satın almak kolaydır. Uygulamamızda Japonya'yı arayın, tercih ettiğiniz 5G/4G veri paketini seçin ve seyahatten önce QR kod veya tek tıkla etkinleştirme ile kurun."
+
+[structured_data_faq3_question]
+other = "Avrupa, Birleşik Krallık veya Fransa için eSIM nasıl alınır?"
+
+[structured_data_faq3_answer]
+other = "Roami, Avrupa için bölgesel eSIM'lerin yanı sıra Birleşik Krallık, Fransa, İtalya, Almanya ve İspanya için yerel planlar sunar. Dolaşım ücreti olmadan anında bağlanmak için uygulamada hedefinizi seçmeniz yeterlidir."
+
+[structured_data_faq4_question]
+other = "Neden Airalo, Nomad, Holafly veya Ubigi yerine Roami'yi tercih etmelisiniz?"
+
+[structured_data_faq4_answer]
+other = "Airalo, Nomad eSIM, Holafly, Saily eSIM, Yesim, MobiMatter ve GigSky seçenek olsa da, Roami 1,99$'dan başlayan son derece rekabetçi fiyatlar, 7/24 insan destek ve 200'den fazla ülke için endişesiz iade politikası sunar."
+
+[software_description]
+other = "Yüksek hızlı seyahat bağlantısı için küresel eSIM sağlayıcısı."
+
+[last_updated]
+other = "Son Güncelleme"
+
+[select_language]
+other = "Dil Seçin"
+
+[language]
+other = "Dil"
+
+[close]
+other = "Kapat"
+
+[fifa_title_line1]
+other = "Kusursuz Bağlantı"
+
+[fifa_title_line2]
+other = "FIFA Dünya Kupası™ 2026"
+
+[fifa_desc]
+other = "Tüm ev sahibi şehirlerde yolculuğunuzu güçlendiren küresel seyahat eSIM'i. Bağlanın, her anı paylaşın."
+
+[fifa_guide_text]
+other = "✈️ Sınırsız seyahat — eSIM'inizi şimdi alın"
+
+[fifa_card1_title]
+other = "Dolaşım Yok"
+
+[fifa_card1_desc]
+other = "Yerel ücretler ödeyin"
+
+[fifa_card2_title]
+other = "Tek SIM, 3 Ülke"
+
+[fifa_card2_desc]
+other = "ABD · Kanada · Meksika"
+
+[fifa_card3_title]
+other = "Anında Etkinleştirme"
+
+[fifa_card3_desc]
+other = "Uçuştan önce hazır"
+
+[fifa_country_canada]
+other = "🇨🇦 Kanada"
+
+[fifa_country_mexico]
+other = "🇲🇽 Meksika"
+
+[fifa_country_usa]
+other = "🇺🇸 ABD"
+
+[fifa_5g]
+other = "⚡ 5G'ye Hazır"
+
+[fifa_button]
+other = "Dünya Kupası eSIM'ini Alın"
+
+[premium_coverage]
+other = "Premium Kapsama"
+
+[regional_plans_title]
+other = "Bölgesel ve Küresel Planlar"
+
+[regional_subtitle]
+other = "Tek bir eSIM ile birden fazla ülkede seyahat edin — SIM değiştirmeye gerek yok, anında etkinleştirme ve dolaşıma kıyasla %30 tasarruf."
+
+[faq_title2]
+other = "eSIM Uyumluluğu Hakkında Sık Sorulan Sorular"
+
+[breadcrumb_home]
+other = "Ana Sayfa"
+
+[breadcrumb_blog]
+other = "Blog"
+
+[breadcrumb_separator]
+other = "/"
+
+[minutes_read]
+other = "dk okuma"
+
+[table_of_contents]
+other = "📑 İçindekiler"
+
+[you_might_also_like]
+other = "🔗 Bunlar da ilginizi çekebilir"
+
+[popular_destinations]
+other = "eSIM için Popüler Destinasyonlar"
+
+[promo_limited_offer]
+other = "🔥 Sınırlı Teklif 🔥"
+
+[promo_use_code]
+other = "Kodu kullanın"
+
+[promo_checkout]
+other = "⭐ İndiriminizi kullanmak için ödeme sırasında kodu girin ⭐"
+
+[promo_stats_text]
+other = "Roami'ye geçen 1 milyondan fazla gezgine katılın. {{ .Countries }} ülkede 5G. {{ .Price }}'dan başlayan planlar. Anında etkinleştirme."
+
+[region_country_title]
+other = "{{ .RegionName }} eSIM'i {{ .TotalCountries }} ülkede çalışır"
+
+[coverage_stats_text]
+other = """
+Tek bir eSIM, her ülkede otomatik olarak en güçlü yerel ağa bağlanır.
+<strong class="text-orange-600">{{ .FiveGCount }} ülkede 5G</strong> mevcuttur,
+{{ .FourGCount }} ülkede güvenilir 4G/LTE bulunur.
+Kurulum kılavuzları ve operatör ayrıntılarını görmek için herhangi bir ülkeye dokunun.
+"""
+
+[powered_by_operators]
+other = "{{ .RegionName }}'nin en büyük mobil operatörleri tarafından desteklenmektedir"
+
+[auto_switch_carriers]
+other = """
+Roami eSIM'iniz en iyi sinyali almak için <strong class="text-orange-600">{{ .CarrierCount }}+ operatör</strong> arasında otomatik olarak geçiş yapar.
+"""
+
+[network_partners_label]
+other = "Ağ Ortakları"
+
+[premium_carrier_partners_title]
+other = "{{ .Count }}+ Premium Operatör Ortağı"
+
+[network_partners_description]
+other = "Roami eSIM'iniz otomatik olarak en iyi yerel ağlara bağlanır. Manuel geçiş gerekmez."
+
+[esim_auto_connect]
+other = "{{ .HQ }}'nin en büyük operatörlerinden biri. eSIM'iniz otomatik olarak bağlanır{{ .CountriesSuffix }}."
+
+[carrier_roaming_title]
+other = "Operatör dolaşımı"
+
+[carrier_roaming_badge]
+other = "Gizli ücretler"
+
+[carrier_roaming_estimate]
+other = "2 haftalık seyahat için tahmini"
+
+[roami_title]
+other = "{{ .RegionName }} Roami eSIM"
+
+[roami_badge]
+other = "En İyi Fiyat-Performans"
+
+[roami_price_label]
+other = "1,99$'dan başlayan fiyatlarla"
+
+[roami_plan_description]
+other = "tüm seyahat için 5$'dan başlayan ön ödemeli planlar"
+
+[esim_vs_carrier_roaming]
+other = "{{ .RegionName }} eSIM vs. operatör dolaşımı"
+
+[heading_beyond_region]
+other = "{{ .RegionName }} dışına mı çıkıyorsunuz?"
+
+[try_free_button]
+other = "Ücretsiz eSIM Deneyin"
+
+[regionQuestionsTitle]
+other = "{{ .RegionName }} eSIM: gezginlerin sorduğu sorular"
+
+[stats]
+countries = "Ülkeler"
+carriers = "Operatörler"
+coverage_5g = "5G Kapsama"
+
+[home]
+other = "Ana Sayfa"
+
+[carriers]
+other = "eSIM Operatörleri"
+
+[banner_official]
+other = "Resmi"
+
+[banner_discount_desc]
+other = "Küresel Veride %20 İNDİRİM"
+
+[banner_rating]
+other = "4,8 (2,1k değerlendirme)"
+
+[banner_cta]
+other = "Şimdi Al"
+
+[discount_title]
+other = "Sınırlı Süreli Teklif"
+
+[discount_code_label]
+other = "Promosyon Kodu"
+
+[discount_new_user]
+other = "Yeni Kullanıcılara %20 İNDİRİM"
+
+[discount_today]
+other = "Bugün Kullanıldı"
+
+[discount_today_num]
+other = "500 - 1000"
+
+[discount_remaining]
+other = "Kalan"
+
+[discount_remaining_num]
+other = "5 - 10"
+
+[discount_cancel]
+other = "İptal"
+
+[discount_claim]
+other = "Şimdi Kullan"
+
+[vp_5g_badge]
+other = "5G"
+
+[vp_same]
+other = "Aynı"
+
+[vp_network]
+other = "5G Ağı"
+
+[vp_compare]
+other = ", kadar"
+
+[vp_cheaper]
+other = "diğer eSIM'lerden daha ucuz"
+
+[vp_percent]
+other = "30%"
+
+[vp_save_tag]
+other = "🔥 Daha Fazla Tasarruf Et"
+
+[compare_title]
+other = "Ücretsiz eSIM Karşılaştırması: Roami vs Airalo vs Holafly – Kim En İyi Ücretsiz Değerlendirmeyi Sunar?"
+
+[compare_subtitle]
+other = "Dürüst karşılaştırma — gezginlerin neden ücretsiz eSIM denemesi için Roami'yi seçtiğini görün"
+
+[compare_col_feature]
+other = "Özellik"
+
+[compare_col_roami]
+other = "Roami"
+
+[compare_col_airalo]
+other = "Airalo"
+
+[compare_col_holafly]
+other = "Holafly"
+
+[compare_row_trial]
+other = "Ücretsiz Deneme"
+
+[compare_roami_trial]
+other = "✅ 100MB"
+
+[compare_airalo_trial]
+other = "❌"
+
+[compare_holafly_trial]
+other = "❌"
+
+[compare_row_card]
+other = "Kredi Kartı Gerekiyor mu?"
+
+[compare_roami_card]
+other = "✅ Hayır"
+
+[compare_airalo_card]
+other = "Evet"
+
+[compare_holafly_card]
+other = "Evet"
+
+[compare_row_coverage]
+other = "Kapsama"
+
+[compare_roami_coverage]
+other = "200+ ülke"
+
+[compare_airalo_coverage]
+other = "200+ ülke"
+
+[compare_holafly_coverage]
+other = "200+ ülke"
+
+[compare_row_paid]
+other = "Ücretli Planlar başlangıç fiyatı"
+
+[compare_roami_paid]
+other = "$1,99"
+
+[compare_airalo_paid]
+other = "$4,50"
+
+[compare_holafly_paid]
+other = "$5,90"
+
+[compare_row_support]
+other = "Canlı Destek"
+
+[compare_roami_support]
+other = "✅ 7/24"
+
+[compare_airalo_support]
+other = "—"
+
+[compare_holafly_support]
+other = "✅ 7/24"
+
+[brand_reminder]
+other = "eSIM markamız roami'dir, roamic değil. Lütfen dikkat edin."
+
+[roami_free_section_title]
+other = "Roami Ücretsiz Deneme"
+
+[roami_free_section_heading]
+other = "Ücretsiz eSIM Denemesi – 7 Gün / 100MB, Kredi Kartı Gerekmez"
+
+[roami_free_section_desc]
+other = "Gezginler için tasarlanmış hafif bir acil durum veri paketi. Varışta etkinleştirin, <strong>ödeme bilgilerine gerek yok</strong> ve gizli yenileme tuzağı yok."
+
+[roami_compare_col_feature]
+other = "Özellik"
+
+[roami_compare_col_roami]
+other = "Roami"
+
+[roami_compare_col_att]
+other = "AT&T"
+
+[roami_compare_col_tmobile]
+other = "T‑Mobile"
+
+[roami_compare_col_verizon]
+other = "Verizon"
+
+[roami_compare_row_trial]
+other = "Ücretsiz Deneme"
+
+[roami_compare_row_card]
+other = "Kredi Kartı Gerekli mi?"
+
+[roami_compare_row_auto]
+other = "Otomatik Yenileme"
+
+[roami_compare_row_coverage]
+other = "Kapsama Alanındaki Ülkeler"
+
+[roami_compare_row_support]
+other = "7/24 Destek"
+
+[roami_compare_roami_trial]
+other = "7 gün / 100MB"
+
+[roami_compare_roami_card]
+other = "❌ Gerekli değil"
+
+[roami_compare_roami_auto]
+other = "❌ Yok"
+
+[roami_compare_roami_coverage]
+other = "200+"
+
+[roami_compare_roami_support]
+other = "✅ Çevrimiçi destek"
+
+[roami_compare_att_trial]
+other = "Kredi kartı gerektirir"
+
+[roami_compare_att_card]
+other = "✅ Vermek zorunlu"
+
+[roami_compare_att_auto]
+other = "✅ Denemeden sonra otomatik tahsilat"
+
+[roami_compare_att_coverage]
+other = "Sınırlı (sadece ABD)"
+
+[roami_compare_att_support]
+other = "❌ Sınırlı"
+
+[roami_compare_tmobile_trial]
+other = "Kredi kartı gerektirir"
+
+[roami_compare_tmobile_card]
+other = "✅ Vermek zorunlu"
+
+[roami_compare_tmobile_auto]
+other = "✅ Denemeden sonra otomatik tahsilat"
+
+[roami_compare_tmobile_coverage]
+other = "Sınırlı (sadece ABD)"
+
+[roami_compare_tmobile_support]
+other = "❌ Sınırlı"
+
+[roami_compare_verizon_trial]
+other = "Kredi kartı gerektirir"
+
+[roami_compare_verizon_card]
+other = "✅ Vermek zorunlu"
+
+[roami_compare_verizon_auto]
+other = "✅ Denemeden sonra otomatik tahsilat"
+
+[roami_compare_verizon_coverage]
+other = "Sınırlı (sadece ABD)"
+
+[roami_compare_verizon_support]
+other = "❌ Sınırlı"
