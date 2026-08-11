@@ -1,0 +1,71 @@
+[related_products]
+title = "Benzer eSIM Planları"
+[[related_products.items]]
+name = "Almanya eSIM"
+flag = "img/flags/de.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "germany-esim"
+
+[[related_products.items]]
+name = "Mısır eSIM"
+flag = "img/flags/eg.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "egypt-esim"
+
+[[related_products.items]]
+name = "Yunanistan eSIM"
+flag = "img/flags/gr.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "greece-esim"
+
+[[related_products.items]]
+name = "İtalya eSIM"
+flag = "img/flags/it.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "italy-esim"
+
+[[related_products.items]]
+name = "İspanya eSIM"
+flag = "img/flags/es.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "spain-esim"
+
+[[related_products.items]]
+name = "Fransa eSIM"
+flag = "img/flags/fr.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "france-esim"
+
+[[related_products.items]]
+name = "Avusturya eSIM"
+flag = "img/flags/at.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "austria-esim"
+
+[[related_products.items]]
+name = "Belçika eSIM"
+flag = "img/flags/be.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "belgium-esim"
+
+[[related_products.items]]
+name = "Gürcistan eSIM"
+flag = "img/flags/ge.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "georgia-esim"
+
+[[related_products.items]]
+name = "Bulgaristan eSIM"
+flag = "img/flags/bg.svg"
+price = "From $1.99"
+is_highlight = false
+slug = "bulgaria-esim"

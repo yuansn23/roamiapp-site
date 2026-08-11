@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Vodafone eSIM: Preços e Como Ativar em Portugal"
 h1_title: "Vodafone eSIM em Portugal 2026: Guia Completo de Preços, Ativação e Alternativas"
 description: "Guia completo do Vodafone eSIM em Portugal 2026. Preços atualizados, como ativar, dispositivos compatíveis e comparação com MEO, NOS, Digi, Airalo e Holafly."
 keywords: ["esim vodafone", "vodafone esim", "vodafone esim portugal", "ativar esim vodafone", "vodafone esim preço", "esim vodafone como ativar", "vodafone esim android", "vodafone esim iphone", "vodafone portugal esim", "yorn esim", "vodafone esim viagem", "esim portugal vodafone", "vodafone esim configuração", "vodafone esim plano", "vodafone esim 2026", "meo esim", "nos esim", "digi esim", "comparação esim portugal", "holafly esim", "airalo esim"]
-date: 2026-08-06T10:00:00Z
-lastmod: 2026-08-06T16:00:00Z
+date: 2026-08-10T10:00:00Z
+lastmod: 2026-08-10T16:00:00Z
 tags: ["Vodafone", "eSIM", "Portugal", "Ativação", "Planos", "Roaming", "Comparação", "MEO", "NOS", "Digi", "Airalo", "Holafly"]
 toc: true
 
@@ -24,7 +24,7 @@ breadcrumbs:
     url: "/"
   parent:
     text: "eSIM por Operadora"
-    url: "/operadoras/"
+    url: "/faq/"
 
 sidebar_popular:
   title: "eSIMs Populares"
@@ -58,7 +58,7 @@ sidebar_free:
   item_subtitle: "Teste Agora"
   items:
     - name: "eSIM Grátis Portugal"
-      flag: "/img/flags.svg"
+      flag: "/img/flags/pt.svg"
       url: "/free-esim/"
     - name: "eSIM Grátis Europa"
       flag: "/img/flags/eu.svg"
@@ -309,7 +309,7 @@ A Vodafone tem um plano especial para jovens até 25 anos chamado **Yorn**. Este
 - **Yorn X** (até 25 anos): preços reduzidos com dados, redes sociais ilimitadas e chamadas gratuitas
 - **Yorn Y** (até 25 anos): mais dados e vantagens
 
-Para ativar o Yorn eSIM, o processo é o mesmo: através do aplicativo My Vodafone, definições do telefone ou numa loja. Muitos jovens procuram por **"yorn esim"** e esta secção responde diretamente a essa pesquisa.
+Para ativar o Yorn eSIM, o processo é o mesmo: através do aplicativo My Vodafone, definições do telefone ou numa loja. O Yorn é a marca jovem da Vodafone — e sim, o Yorn também oferece eSIM.
 
 
 ## Vale a Pena Usar o Vodafone eSIM?

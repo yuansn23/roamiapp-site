@@ -1,10 +1,10 @@
-﻿---
-title: "Solução de Problemas eSIM 2026: Guia Passo a Passo"
-h1_title: "Como Corrigir Falhas de Ativação e Transferência eSIM em 2026 (iPhone e Android)"
-description: "Guia completo 2026: corrija falhas de ativação eSIM, erros de transferência e problemas de código QR no iPhone e Android. Soluções passo a passo."
-keywords: ["solução de problemas eSIM", "falha na ativação eSIM", "eSIM sem serviço", "erro de transferência eSIM", "Apple eSIM", "iOS 19 eSIM", "iPad eSIM não funciona", "configurações APN eSIM", "código de confirmação eSIM", "perfil eSIM expirado", "eSIM vinculado a outro dispositivo", "problema de sinal dual eSIM", "erro DFU eSIM 53", "bloqueio de operadora eSIM", "transferência eSIM multiplataforma"]
-date: 2026-08-06T10:00:00Z
-lastmod: 2026-08-06T10:00:00Z
+---
+title: "Solução de Problemas eSIM: Guia Passo a Passo (Arquivado - iOS 19)"
+h1_title: "Como Corrigir Falhas de Ativação e Transferência eSIM (Arquivado - Consulte a Versão iOS 26)"
+description: "⚠️ Esta versão para iOS 19 foi substituída. Consulte o guia atualizado para iOS 26 com instruções completas de transferência entre plataformas."
+keywords: ["transferência eSIM entre plataformas", "migrar eSIM iPhone para Android", "migrar eSIM Android para iPhone", "erro transferência eSIM", "eSIM vinculado a outro dispositivo", "código de confirmação eSIM", "configurações APN eSIM", "perfil eSIM expirado", "bloqueio de operadora eSIM", "solução de problemas eSIM", "iOS 26 eSIM", "transferência eSIM multiplataforma", "SGP.22 eSIM", "problema de sinal dual eSIM", "erro DFU eSIM 53"]
+date: 2026-08-10T10:00:00Z
+lastmod: 2026-08-10T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Solução de Problemas", "Configuração de Viagem"]
 toc: true
 
@@ -97,7 +97,9 @@ sidebar_questions:
       url: "/pt/compatibility/"
 ---
 
-📅 **Última atualização: 6 de agosto de 2026**
+> ⚠️ **Este guia foi arquivado.** Esta versão cobre o iOS 19 e foi substituída pelo **[Guia de Transferência de eSIM para iOS 26](/pt/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** com instruções atualizadas. Recomendamos consultar a nova versão.
+
+📅 **Última atualização: 6 de agosto de 2026 (versão arquivada)**
 
 Por anos, as transferências de eSIM foram bloqueadas dentro do mesmo ecossistema – você podia mover de iPhone para iPhone, ou entre alguns telefones Android, mas cruzar a divisa iOS‑Android exigia uma visita à sua operadora. **O iOS 19 e o Android 16 mudam isso completamente.** Este guia orienta você por cada método suportado, requisito de operadora e passo de solução de problemas para transferir seu eSIM perfeitamente. Para ajuda geral com ativação, consulte nosso **[guia de ativação para iPhone 17](/pt/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**.
 

@@ -640,20 +640,21 @@
             {{ end }}
 
             <!-- 最近更新 -->
-            {{ $recentPosts := .Params.recentPosts }}
-            {{ $recentPostsTitle := .Params.recentPostsTitle }}
-            {{ if and $recentPosts $recentPostsTitle }}
-            <div class="sidebar-card">
-                <div class="sidebar-title">{{ $recentPostsTitle }}</div>
-                <ul class="sidebar-list">
-                    {{ range first 5 $recentPosts }}
-                    <li>
-                        <a href="{{ .permalink | relLangURL }}">{{ .title }}</a>
-                    </li>
-                    {{ end }}
-                </ul>
-            </div>
-            {{ end }}
+          <!-- 最近更新 -->
+{{ $recentPosts := .Params.recentPosts }}
+{{ $recentPostsTitle := .Params.recentPostsTitle }}
+{{ if and $recentPosts $recentPostsTitle }}
+<div class="sidebar-card">
+    <div class="sidebar-title">{{ $recentPostsTitle }}</div>
+    <ul class="sidebar-list">
+        {{ range first 5 $recentPosts }}
+        <li>
+            <a href="{{ .permalink | lower | relLangURL }}">{{ .title }}</a>
+        </li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}
         </aside>
     </div>
 

@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Dual eSIM Não Funciona? 12 Correções para iPhone"
 h1_title: "Como Corrigir Dual eSIM Não Funcionando no iPhone: 12 Soluções"
 description: "Dual eSIM com problemas? 12 correções para iPhone: erros CDMA, cache T-ADS, bateria e bloqueio. Guia passo a passo para iPhone 16 e 17."
-keywords: ["solução de problemas eSIM", "falha na ativação do eSIM", "eSIM sem serviço", "erro de transferência eSIM", "Apple eSIM", "iOS 19 eSIM", "eSIM iPad não funciona", "configurações APN eSIM", "código de confirmação eSIM", "perfil eSIM expirado", "eSIM vinculado a outro dispositivo", "problema de sinal dual eSIM", "erro DFU eSIM 53", "bloqueio de operadora eSIM", "transferência entre plataformas eSIM", "dual eSIM não funciona", "iPhone dual SIM sem serviço"]
-date: 2026-08-06T10:00:00Z
-lastmod: 2026-08-06T10:00:00Z
+keywords: ["dual eSIM não funciona", "iPhone dual SIM sem serviço", "dual SIM iPhone problemas", "eSIM secundário não ativa", "dois eSIMs iPhone", "CDMA eSIM conflito", "T-ADS cache eSIM", "dual SIM iPhone configuração", "eSIM sem serviço iPhone", "iPhone duas linhas eSIM", "DSDS iPhone", "solução dual eSIM", "VoNR eSIM", "5G dual SIM iPhone", "bloqueio de operadora dual eSIM"]
+date: 2026-08-10T10:00:00Z
+lastmod: 2026-08-10T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Solução de problemas", "Configuração de viagem"]
 toc: true
 
@@ -295,7 +295,7 @@ Muitos usuários mantêm um **número de trabalho** (eSIM) e um **número pessoa
 | Dois eSIMs mas ambos mostram “Sem Serviço” | Ative/desative Modo Avião > verifique bloqueio de operadora | Redefina configurações de rede |
 | Trocou as linhas e agora FaceTime/iMessage não ativam | Vá em `Configurações > Mensagens > Enviar e Receber` – selecione manualmente os números | Saia do Apple ID e entre novamente |
 
-Para problemas adicionais como “eSIM vinculado a outro dispositivo” ou “erro de restauração DFU 53”, consulte nossa **[biblioteca completa de 16 casos de solução de problemas](/faq/esim-deep-troubleshooting-guide-2026/)**.
+Para problemas adicionais como “eSIM vinculado a outro dispositivo” ou “**erro DFU eSIM 53**” (erro de restauração), consulte nossa **[biblioteca completa de 16 casos de solução de problemas](/faq/esim-deep-troubleshooting-guide-2026/)**.
 
 ---
 
@@ -340,6 +340,7 @@ Se seu eSIM mostrar barras de sinal, mas não tiver conexão de dados, as defini
 2. Preencha os campos APN – verifique o site do seu provedor eSIM para valores corretos.
 3. Valores comuns de APN: `roami` (Roami), `airalo` (Airalo), `global` (Nomad).
 4. Salve e reinicie o iPhone.
+5. Se o problema persistir, verifique se o **código de confirmação eSIM** (enviado junto com o QR code de ativação) foi inserido corretamente durante a configuração inicial.
 
 ---
 

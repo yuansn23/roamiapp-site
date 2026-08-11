@@ -553,3 +553,58 @@ modal_confirm = "今すぐ行く"
     modal_title = "Aviso"
     modal_cancel = "Cancelar"
     modal_confirm = "Ir agora"
+	
+# Configuração em Turco
+[languages.tr]
+languageName = "Türkçe"
+contentDir = "content/tr"  # Hugo'ya Türkçe içeriğin nerede olduğunu söyler
+weight = 10
+
+[languages.tr.params]
+# Gezinme çubuğu metinleri
+nav_links = [
+  { name = "Ana Sayfa", url = "/" },
+  { name = "eSIM Satın Al", url = "/plans/" },
+  { name = "eSIM Uyumluluğu", url = "/compatibility/" },
+  { name = "Ücretsiz eSIM", url = "/free-esim/" },
+  { name = "Roami Uygulaması", url = "/app/" },
+  { name = "SSS", url = "/faq/" }
+]
+
+# Altbilgi metinleri
+footer_desc = "200'den fazla ülke ve bölgede premium eSIM hizmetleri sunarak, nereye seyahat ederseniz edin bağlı kalmanızı sağlar."
+
+footer_col1_title = "Başlıca Destinasyonlar"
+footer_col1_links = [
+  { name = "Asya eSIM", url = "/asia-esim/" },
+  { name = "Avrupa eSIM", url = "/europe-esim/" },
+  { name = "Afrika eSIM", url = "/africa-esim/" },
+  { name = "Güney Amerika eSIM", url = "/south-america-esim/" },
+  { name = "Kuzey Amerika eSIM", url = "/north-america-esim/" },
+  { name = "Orta Doğu eSIM", url = "/middle-east-esim/" }
+]
+
+footer_col2_title = "Müşteri Desteği"
+footer_col2_links = [
+  { name = "SSS", url = "/faq/" },
+  { name = "eSIM Uyumluluğu", url = "/compatibility/" },
+  { name = "Roami'yi İndir", url = "/app/" }
+]
+
+footer_col3_title = "Şirket Bilgileri"
+footer_col3_links = [
+  { name = "Hakkımızda", url = "/about-us/" },
+  { name = "Ücretsiz eSIM", url = "/free-esim/" },
+  { name = "İade Politikası", url = "/refund/" },
+  { name = "Bize Ulaşın", url = "/contact/" },
+  { name = "Gizlilik Politikası", url = "/privacy/" },
+  { name = "Hizmet Şartları", url = "/terms/" }
+]
+
+footer_copyright = "© 2026 Roami. Tüm hakları saklıdır."
+footer_slogan = "Profesyonel küresel eSIM hizmet sağlayıcısı | Küresel eSIM veri dolaşım uzmanı"
+
+# Açılır pencere (modal) metinleri
+modal_title = "Uyarı"
+modal_cancel = "İptal"
+modal_confirm = "Şimdi Git"

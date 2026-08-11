@@ -1,80 +1,85 @@
 ---
-title: "ボリビアeSIM 2026：プラン＆カバレッジガイド | Roami"
-date: '2026-06-26T00:00:00+00:00'
+title: 'Bolivia eSIM 2026: Plan & Coverage Guide | Roami'
+date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: ボリビアeSIM
-  scenario_keywords: ウユニ塩湖ツアー、アマゾン熱帯雨林トレッキング、チチカカ湖訪問、アンデス文化探訪、植民地時代の都市旅行
+  core_keyword: Bolivia eSIM
+  scenario_keywords: Salar de Uyuni tour, Amazon rainforest trek, Lake Titicaca visit, Andean culture exploration, colonial
+    city travel
   operators: Entel, Tigo, Viva
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
-  main_cities: ラパス、サンタクルス、コチャバンバ、スクレ、エルアルト
-  main_packages: 3/7/15/30日、データ無制限
+  main_cities: La Paz, Santa Cruz, Cochabamba, Sucre, El Alto
+  main_packages: 3/7/15/30 Days, Unlimited Data
 modal:
-  title: サービスアップグレードのお知らせ！
-  btn_text: 続行
-  text_default: 当社のeSIMサービスは <strong>PhoneSIMGo</strong> にアップグレードされました。<br>新規のお客様はプロモーションコード <strong>web20</strong> で20%オフ！
-  text_android: 当社のeSIMサービスは <strong>PhoneSIM</strong> にアップグレードされました。<br>新規のお客様はプロモーションコード <strong>web20</strong> で20%オフ！
+  title: Service Upgraded!
+  btn_text: Continue
+  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount,
+    promo code:web20
+  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
+    code:web20
 seo:
-  title: eSIM ボリビア | ストリーミング動画も快適に楽しめる高速通信プラン
-  description: ボリビアを含む複数国旅行に便利なリージョナルeSIMはRoami。近隣諸国への移動でも追加設定不要で自動ネットワーク切替。国境を越えるたびにSIMを買い替える必要なく1枚のeSIMで旅全体をカバー。
-  keywords: ボリビアeSIM, ボリビアeSIM購入, 最適なボリビアeSIM, ボリビア旅行eSIM, Entel ボリビア, Tigo ボリビア, Viva ボリビア, ラパスeSIM, サンタクルスeSIM, コチャバンバeSIM, ボリビアプリペイドeSIM, 5GボリビアeSIM
+  title: Bolivia eSIM | Top Prepaid Travel eSIM Plan
+  description: Explore Bolivia with Roami's best prepaid travel eSIM. Unlimited 5G data. Covers La Paz, Santa Cruz & Cochabamba.
+    Instant activation Buy your plan online today.
+  keywords: Bolivia eSIM, buy Bolivia eSIM, best Bolivia eSIM, Bolivia travel eSIM, Entel Bolivia, Tigo Bolivia, Viva Bolivia,
+    La Paz eSIM, Santa Cruz eSIM, Cochabamba eSIM, Bolivia prepaid eSIM, 5G Bolivia eSIM
   low_price: 1.99
   high_price: 39.9
 order_summary:
-  title: 選択したプラン
-  label_data: データ容量
-  label_validity: 有効期間
-  label_daily: 1日あたりの平均
-  label_total: 合計価格
-  btn_primary: 20%割引を適用
-  btn_secondary: 'コード: web20'
+  title: Selected Plan
+  label_data: Data Included
+  label_validity: Validity
+  label_daily: Daily Average
+  label_total: Total Price
+  btn_primary: Claim 20% Off
+  btn_secondary: 'Code: web20'
 breadcrumbs:
-- label: ホーム
+- label: Home
   url: /
-- label: ボリビアeSIM
+- label: Bolivia eSIM
 banner:
   image: img/esim/esim-travel.jpg
-  alt: ボリビア向け最適なeSIM
-  title: ボリビア eSIM，海外旅行上网无忧
+  alt: Best eSIM for Bolivia
+  title: Best eSIM for Bolivia
 hero:
   flag_image: img/flags/bo.svg
-  flag_alt: ボリビアの国旗
-  title: 'ボリビアeSIM：旅行者のための信頼性の高いネットワークとカバレッジ'
-  subtitle: ボリビア旅行者向け最適なプリペイドeSIM - 高速5G、即時アクティベーション、24時間サポート
+  flag_alt: Bolivia Flag
+  title: 'Bolivia eSIM: Reliable Network & Coverage for Travelers'
+  subtitle: Best prepaid eSIM for Bolivia travelers - fast 5G, instant activation, 24/7 support
 features:
-  title: 'ボリビア旅行者がRoamiを選ぶ理由：速度、カバレッジ、サポート'
+  title: 'Why Bolivia Travelers Choose Roami: Speed, Coverage & Support'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: 即時QRコード
-    desc: ボリビアeSIMのQRコードを5分以内にメールで受信
+    title: Instant QR Code
+    desc: Get your Bolivia eSIM QR code via email in 5 minutes
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24時間サポート
-    desc: ボリビア旅行中の24時間サポート - ボットではなく実際の人間
+    title: 24/7 Support
+    desc: 24/7 support for your Bolivia trip - real humans, not bots
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: 返金保証
-    desc: ボリビアeSIMがアクティベーションできない場合は100%返金
+    title: Not Available
+    desc: 100% refund if your Bolivia eSIM doesn't activate
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: テザリング対応
-    desc: ボリビアのデータを旅行仲間と共有、制限なし
+    title: Hotspot Supported
+    desc: Share your Bolivia data with travel companions, no limits
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: 契約なし
-    desc: 契約なし、いつでもキャンセル可能 - ボリビア旅行に最適
+    title: No Contracts
+    desc: No contracts, cancel anytime - perfect for Bolivia trips
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: 自動切り替え
-    desc: ボリビアの主要キャリアに自動接続し最適な信号を確保
-plans_title: 'ボリビアeSIMを購入：旅行期間別プラン'
+    title: Auto-Switch
+    desc: Auto-connects to top Bolivia carriers for the best signal
+plans_title: 'Buy Bolivia eSIM: Plans for Every Trip Duration'
 plans_data:
   7 Days:
   - spec: 1GB
-    data: 高速5G/4G/LTE
-    desc: 短期出張に最適
+    data: High-Speed 5G/4G/LTE
+    desc: Perfect for short business trips
     price: '11.99'
     oldPrice: '17.98'
     tag: ''
@@ -82,8 +87,8 @@ plans_data:
     daily: '1.71'
   15 Days:
   - spec: 3GB
-    data: 高速5G/4G/LTE
-    desc: 観光に最適
+    data: High-Speed 5G/4G/LTE
+    desc: Perfect for sightseeing
     price: '34.99'
     oldPrice: '52.48'
     tag: ''
@@ -92,24 +97,24 @@ plans_data:
     tagIcon: star
   30 Days:
   - spec: 20GB
-    data: 高速5G/4G/LTE
-    desc: 旅行に最適
+    data: High-Speed 5G/4G/LTE
+    desc: Perfect for your trip
     price: '209.99'
     oldPrice: '314.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '7.00'
   - spec: 10GB
-    data: 高速5G/4G/LTE
-    desc: じっくり旅行に最適
+    data: High-Speed 5G/4G/LTE
+    desc: Perfect for in-depth travel
     price: '30.99'
     oldPrice: '46.48'
-    tag: お得な価格
+    tag: Great Value
     tagColor: bg-emerald-500
     daily: '1.03'
   - spec: 3GB
-    data: 高速5G/4G/LTE
-    desc: 観光に最適
+    data: High-Speed 5G/4G/LTE
+    desc: Perfect for sightseeing
     price: '24.99'
     oldPrice: '37.48'
     tag: ''
@@ -117,264 +122,287 @@ plans_data:
     daily: '0.83'
     tagIcon: star
   - spec: 5GB
-    data: 高速5G/4G/LTE
-    desc: じっくり旅行に最適
+    data: High-Speed 5G/4G/LTE
+    desc: Perfect for in-depth travel
     price: '37.99'
     oldPrice: '56.98'
-    tag: お得な価格
+    tag: Great Value
     tagColor: bg-emerald-500
     daily: '1.27'
   - spec: 10GB
-    data: 高速5G/4G/LTE
-    desc: じっくり旅行に最適
+    data: High-Speed 5G/4G/LTE
+    desc: Perfect for in-depth travel
     price: '69.99'
     oldPrice: '104.98'
-    tag: お得な価格
+    tag: Great Value
     tagColor: bg-emerald-500
     daily: '2.33'
 discount_banner:
-  title: ボリビア eSIMの格安プラン
-  desc_html: チェックアウト時にプロモーションコード <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span> を使用して <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20%オフ</span>！ お得なボリビアeSIMプランを手に入れましょう。
-  btn_text: 割引を適用
-  validity: '有効期限：3日間'
+  title: Special Discount on Bolivia eSIM Plans
+  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span>
+    at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
+    your order! Get the cheapest eSIM plan Bolivia for your trip.
+  btn_text: Claim Discount
+  validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'ボリビアeSIMカバレッジ：現地ネットワーク完全ガイド'
-  supports_text: '対応：'
+  title: 'Bolivia eSIM Coverage: Complete Guide to Local Networks'
+  supports_text: 'Supports:'
   service_details:
-    title: サービス詳細
+    title: Service Details
     items:
     - icon: map
       color: text-brand-500
-      title: カバレッジ
-      desc: ラパス（4G）、サンタクルス（4G）、コチャバンバ（4G）、スクレ（4G）を含むボリビア全域で包括的なネットワークカバレッジを提供。お客様のeSIMはEntel、Tigo、Vivaの堅牢なネットワークに接続し、都市部、観光地、主要交通ルート沿いで安定した信号を確保します。
+      title: Coverage
+      desc: Enjoy comprehensive network coverage across Bolivia, including La Paz (4G), Santa Cruz (4G), Cochabamba (4G),
+        Sucre (4G). Your eSIM connects to the robust networks of Entel, Tigo, Viva, ensuring stable signals in urban centers,
+        tourist hotspots, and along major transportation routes.
     - icon: zap
       color: text-amber-500
-      title: 配信時間
-      desc: 購入後即時配信。
+      title: Delivery Time
+      desc: Immediate delivery after purchase.
     - icon: wifi
       color: text-emerald-500
-      title: テザリング
-      desc: テザリングの制限や制約はありません。
+      title: Hotspot
+      desc: No hotspot limits or constraints.
   carriers:
-    title: 'Entel、Tigo、Viva：ボリビアeSIMキャリアカバレッジ'
-    badge: 公式パートナー
+    title: 'Entel, Tigo & Viva: Bolivia eSIM Carrier Coverage'
+    badge: Official Partner
     items:
     - name: Entel
-      coverage: 総合的に最高のカバレッジ
-      network: 5G/4G/LTEネットワーク
+      coverage: Best overall coverage
+      network: 5G/4G/LTE Network
     - name: Tigo
-      coverage: 都市部で高速5G
-      network: 5G/4G/LTEネットワーク
+      coverage: Fast 5G in cities
+      network: 5G/4G/LTE Network
     - name: Viva
-      coverage: 都市部で良好なカバレッジ
-      network: 5G/4G/LTEネットワーク
+      coverage: Good urban coverage
+      network: 5G/4G/LTE Network
 reminders:
-  title: 'ボリビアeSIM設定のヒント：出発前に知っておくべきこと'
+  title: 'Bolivia eSIM Setup Tips: What to Know Before You Go'
   items:
   - icon: 📱
-    html: 購入前にスマートフォンが<a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM対応</a>であることを確認してください。
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
+      font-bold transition-colors">eSIM compatible</a> before buying.
   - icon: ✈️
-    html: ボリビア到着後に回線を有効にすることをお勧めします。
+    html: We recommend turning on the line after arriving in Bolivia.
   - icon: ⏰
-    html: 有効期間は対応ネットワークに接続した時点で開始されます。
+    html: Validity starts upon connection to a supported network.
   - icon: 📧
-    html: QRコードはメールで送付されます。
+    html: The QR code will be sent to your email.
   - icon: 🔄
-    html: 複数のeSIMを同時にインストールできます。
+    html: You can install multiple eSIMs simultaneously.
   compatibility_check:
-    title: 互換性クイックチェック
-    desc: スマートフォンがeSIMに対応しているかどうか、今すぐ簡単に確認できます：
-    instruction: '電話のキーパッドでダイヤル：'
+    title: Quick Compatibility Check
+    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
+    instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: 画面に <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> 番号が表示されれば、お使いのデバイスは対応しています！
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
+      number appears on your screen, your device is supported!
 activation_steps:
-  title: 'ボリビアeSIMのインストール方法：3つの簡単なステップ'
+  title: 'How to Install Bolivia eSIM: 3 Simple Steps'
   steps:
   - num: '1'
-    title: 'ステップ1：QRコードを受信'
-    desc: 決済後、5分以内にQRコードとアクティベーションガイドがメールで送信されます。届かない場合は迷惑メールフォルダもご確認ください。
+    title: 'Step 1: Receive QR Code'
+    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
+      folder if you don't see it.
     is_list: false
   - num: '2'
-    title: 'ステップ2：スマートフォンにeSIMを追加'
+    title: 'Step 2: Add eSIM to Phone'
     is_list: true
     list_items:
-    - 設定 > モバイル通信（またはデータ通信）に移動
-    - 「モバイル通信プランを追加」または「eSIMを追加」をタップ
-    - カメラでQRコードをスキャン
-    - 指示に従ってセットアップを完了
+    - Go to Settings > Cellular (or Mobile Data)
+    - Tap "Add Cellular Plan" or "Add eSIM"
+    - Scan the QR code with your camera
+    - Follow the prompts to complete setup
   - num: '3'
-    title: 'ステップ3：ボリビアでアクティベーション'
-    desc: ボリビアに到着後、設定でボリビアeSIMを有効にしてデータ利用を開始します。初期アクティベーション時はWi-Fiに接続することをお勧めします。
+    title: 'Step 3: Activate in Bolivia'
+    desc: Upon arriving in Bolivia, enable your Bolivia eSIM in settings to start using data. We recommend connecting to WiFi
+      during the initial activation.
     is_list: false
 faq_section:
-  title: "ボリビア旅行者向けeSIM -- ネットワーク速度、カバレッジ、ヒント"
-  desc: ボリビアで使える格安データ通信eSIMのすべて。キャリア別の通信品質比較、観光地での速度実測データ、長期滞在向けの無制限プラン、ビジネス利用に最適な高速プランまで幅広くカバー。ボリビアではEntelのネットワークに対応。
+  title: "eSIM for Travelers in Bolivia -- Network Speeds, Coverage and Tips"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Bolivia. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: 一般
-    title: ボリビアeSIM FAQ
+    tab_title: General
+    title: Bolivia eSIM FAQs
     questions:
     - q: |
-        ボリビアで旅行者に最適なネットワークはどれですか — Tigo、Entel、それともViva？
+        Which network in Bolivia has the best coverage for travelers — Tigo, Entel, or Viva?
       a: |
-        ボリビアにはTigo、Entel、Vivaの3つの主要キャリアがあります。Tigoは4G/5Gで人口の約95%をカバーしています。Entelは約90%をカバーしていますが、農村部での到達範囲がより広いです。Vivaは競争力のある価格設定を提供し、Tigoより15-20%安いことが多いです。ボリビアは主に4Gで、主要都市でカバレッジがあります。Roamiはお客様の現在地で最も強いネットワークに自動接続します。 海外旅行eSIMならRoamiの地域別プランで周遊もスムーズです。
+        Bolivia has three main carriers: Tigo, Entel, and Viva. Tigo reaches about 95% of the population with 4G/5G. Entel covers roughly 90% but has stronger rural reach. Viva offers competitive pricing, often 15-20% cheaper than Tigo. Bolivia is primarily 4G with coverage in major cities. Roami automatically connects you to whichever is strongest at your location.
     - q: |
-        ボリビアでのeSIMに関してRoamiはAiraloと比べてどうですか？
+        How does Roami compare to Airalo for eSIM in Bolivia?
       a: |
-        RoamiはボリビアeSIMで一般的により良い価値を提供します。なぜなら直接販売しているため — マーケットプレイスのマークアップがありません。価格は通常Airaloより10-20%安いです。また、24時間直接サポートも提供しています。プランはプリペイドで自動更新がないため、旅行終了後に請求されることはありません。
+        Roami typically offers better value for Bolivia eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
     - q: |
-        ボリビアでの一般的な旅行者の1日あたりの実際のデータ使用量はどのくらいですか？
+        How much data does a typical traveler actually use per day in Bolivia?
       a: |
-        ほとんどの観光客の平均的な1日使用量：マップとメッセージングで300-500MB、SNSを頻繁に利用する場合は最大1GB。1週間の旅行には5GBで快適です。2週間なら10GBにしましょう。Roamiはデータが不足した場合の追加チャージも簡単です。
-        Roamiなら1GB/$1.99からの格安プランでボリビアの5G高速通信を利用可能。24時間日本語サポート付きで初めての海外eSIMも安心です。
+        Average daily usage for most tourists: 300-500MB for maps and messaging, up to 1GB if you're on social media heavily. For a one-week trip, 5GB is comfortable. For two weeks, go with 10GB. Roami makes it easy to top up if you run low.
     - q: |
-        ボリビアeSIMは空港でインストールできますか、それとも出発前に自宅で行うべきですか？
+        Can I install my Bolivia eSIM at the airport, or should I do it before leaving home?
       a: |
-        出発前にやっておいてください — インストールにはインターネット接続が必要で、約2分かかります。eSIMのQRコードは購入後5分以内にメールで届きます。ボリビアの空港ではデータローミングを有効にすれば、60秒以内にオンラインになります。
+        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Bolivia's airport, enable Data Roaming and you'll be online in under 60 seconds.
     - q: |
-        ボリビア旅行用にスマートフォンに保存できるeSIMプロファイルはいくつですか？
+        How many eSIM profiles can I store on my phone for traveling to Bolivia?
       a: |
-        ほとんどのスマートフォンは5〜10個のeSIMプロファイルを保存できます。ボリビアeSIMを自国SIMや他の国のプロファイルと一緒に保存できます。必要なものをアクティベーションし、他は非アクティブにするだけです。切り替えはスマートフォン設定で約10秒で完了します。
+        Most phones store 5-10 eSIM profiles. You can keep your Bolivia eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
     - q: |
-        ボリビアでプランの有効期限前にデータを使い切った場合はどうなりますか？
+        What happens if I use all my data in Bolivia before my plan expires?
       a: |
-        Roamiアプリから追加チャージできます。新しいデータは即時アクティベーション — 新しいQRコードも再インストールも不要です。中断を避けるため、残量が約20%になった時点でのチャージをお勧めします。
+        Top up from the Roami app. New data activates immediately — no new QR code, no reinstalling. We recommend topping up when you have about 20% left to avoid any interruption.
     - q: |
-        ボリビアeSIMをソーシャルメディアや家族との写真共有に使用できますか？
+        Can I use my Bolivia eSIM for social media and sharing photos with family?
       a: |
-        もちろんです。Instagram、WhatsApp、Facebook、その他のSNSアプリはすべてeSIM接続で動作します。Tigoのアップロード速度は写真を数秒で、短い動画も簡単に処理します。
-
+        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Tigo handle photos in seconds and short videos easily.
     - q: |
-        RoamiからボリビアeSIMを購入するために必要な書類は何ですか？
+        What documents do I need to buy a Bolivia eSIM from Roami?
       a: |
-        有効な支払い方法 — クレジットカード、PayPal、Apple Pay、Google Payのみです。パスポートのアップロード、住所確認、契約は不要です。オンラインで購入し、数分以内にQRコードをメールで受信し、スマートフォンに直接インストールしてください。
+        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
 related_products:
-  title: 関連ボリビアeSIMプラン
+  title: Related Bolivia eSIM Plans
   items:
-  - name: アメリカeSIM
+  - name: united states eSIM
     flag: img/flags/us.svg
-    price: $1.99から
+    price: From $1.99
     is_highlight: false
-  - name: イギリスeSIM
+  - name: United-Kingdom
     flag: img/flags/gb.svg
-    price: $1.99から
+    price: From $1.99
     is_highlight: false
-  - name: ヨーロッパeSIM
+  - name: Europe eSIM
     flag: img/flags/eu.svg
-    price: $1.99から
+    price: From $1.99
     is_highlight: true
-  - name: カナダeSIM
+  - name: Canada eSIM
     flag: img/flags/ca.svg
-    price: $1.99から
+    price: From $1.99
     is_highlight: false
-  - name: トルコeSIM
+  - name: Turkey eSIM
     flag: img/flags/tr.svg
-    price: $1.99から
+    price: From $1.99
     is_highlight: false
-  - name: 中国eSIM
+  - name: China eSIM
     flag: img/flags/cn.svg
-    price: $1.99から
+    price: From $1.99
     is_highlight: false
-  - name: 日本eSIM
+  - name: Japan eSIM
     flag: img/flags/jp.svg
-    price: $1.99から
+    price: From $1.99
     is_highlight: false
-  - name: 香港eSIM
+  - name: Hong Kong eSIM
     flag: img/flags/hk.svg
-    price: $1.99から
+    price: From $1.99
     is_highlight: false
-  - name: フランスeSIM
+  - name: France eSIM
     flag: img/flags/fr.svg
-    price: $1.99から
+    price: From $1.99
     is_highlight: false
-  - name: スペインeSIM
+  - name: Spain eSIM
     flag: img/flags/es.svg
-    price: $1.99から
+    price: From $1.99
     is_highlight: false
-  - name: ドイツeSIM
+  - name: Germany eSIM
     flag: img/flags/de.svg
-    price: $1.99から
+    price: From $1.99
     is_highlight: false
-  - name: オーストラリアeSIM
+  - name: Australia eSIM
     flag: img/flags/au.svg
-    price: $1.99から
+    price: From $1.99
     is_highlight: false
 market_analysis:
-  title: "ボリビアeSIM vs 現地プリペイドSIM：どちらがより便利か？"
-  subtitle: "ボリビア現地プリペイドSIM vs eSIMソリューション（2024/2025年ベンチマーク）"
+  title: 'Bolivia eSIM vs Local Prepaid SIM: Which Is More Convenient?'
+  subtitle: Bolivia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: "データソース：Prepaid Data SIM Card Wiki（ボリビア）+ 現地事業者サイト"
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Bolivia) + Local Operator Sites'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Bolivia
   table_headers:
-  - 比較項目
-  - 現地プリペイドSIM（市場データ）
-  - RoamiボリビアeSIM
+  - Comparison Matrix
+  - Local Prepaid SIM (Market Data)
+  - Roami Bolivia eSIM
   table_rows:
   - icon: store
-    title: 入手・<br>アクティベーション
+    title: Acquisition &<br>Activation
     prepaid_title: ''
-    prepaid_desc: 最初の購入と登録のためにパスポートを持って店舗を訪問する必要あり。Tigoは5日以内に*108#（スペイン語案内）で登録が必要。
-    esim_title: 即時デジタル配信
-    esim_desc: EntelやTigoの店舗の行列やパスポートチェックをスキップ。ラパス到着前にオンラインでRoami eSIMを1分以内でアクティベーション。
+    prepaid_desc: Must visit a store with passport for initial purchase and registration; Tigo requires registration within
+      5 days via *108# (Spanish instructions).
+    esim_title: Instant Digital Delivery
+    esim_desc: Skip Entel or Tigo store queues and passport checks. Activate Roami eSIM online within 1 minute before landing
+      in La Paz.
   - icon: id-card
-    title: KYC・実名<br>登録
+    title: KYC & Real-Name<br>Registration
     prepaid_title: ''
-    prepaid_desc: パスポートによる強制SIM登録。Tigoは5日以内に*108#またはオンラインで登録が必要、さもなければサービス停止。
-    esim_title: パスポート不要
-    esim_desc: Tigoのスペイン語*108#コードによる5日以内の強制登録を回避。Roami eSIMはゼロKYCで即時アクティベーション。
+    prepaid_desc: Mandatory SIM registration with passport; Tigo requires registration within 5 days via *108# or online,
+      otherwise service suspension.
+    esim_title: No Passport Required
+    esim_desc: Avoid Tigo's mandatory registration within 5 days via Spanish *108# code. Roami eSIM activates instantly with
+      zero KYC.
   - icon: globe
-    title: 国際<br>ローミング
+    title: International<br>Roaming
     prepaid_title: ''
-    prepaid_desc: コロンビア、ペルー、エクアドルとのCANローミング協定あり。ただしFUP（フェアユースポリシー）が不明確で速度制限のリスクあり。CAN圏外は高額な国際ローミング料金。
-    esim_title: グローバルローミング対応
-    esim_desc: EntelのCANローミングはFUP制限が不明確ですが、Roamiは100カ国以上で透明なデータプランを提供し、速度制限のリスクなし。
+    prepaid_desc: CAN roaming agreement exists with Colombia, Peru, Ecuador but fair use policy (FUP) is unclear, posing risk
+      of throttling; outside CAN, international roaming rates are expensive.
+    esim_title: Global Roaming Ready
+    esim_desc: Unlike Entel's CAN roaming with unclear FUP limits, Roami offers transparent data plans in over 100 countries
+      without throttling risks.
   - icon: calendar-xmark
-    title: 請求サイクルと<br>サンクコスト
+    title: Billing Cycle &<br>Sunk Cost
     prepaid_title: ''
-    prepaid_desc: Entelは30日プラン（例：1GB Bs 40）と日次プランを提供。Tigoは7日（1.2GB Bs 35）と30日プラン。Vivaは自動更新（キャンセルしない限り）。
-    esim_title: 柔軟な短期プラン
-    esim_desc: Tigoの30日プラン（1GB Bs 55）やVivaの自動更新7日プランと異なり、Roamiは7日プランを$1.99/GBから提供し、サンクコストを排除。
+    prepaid_desc: Entel offers 30-day plans (e.g., 1GB for Bs 40) and daily plans; Tigo offers 7-day (1.2GB for Bs 35) and
+      30-day plans; Viva auto-renews plans unless cancelled.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Unlike Tigo's 30-day plan (1GB for Bs 55) or Viva's auto-renewing 7-day plan, Roami offers 7-day plans starting
+      from $1.99/GB, eliminating sunk cost.
   - icon: wifi
-    title: テザリングと<br>速度ポリシー
+    title: Hotspot &<br>Speed Policies
     prepaid_title: ''
-    prepaid_desc: この項目の情報はデータソースにありません。市場知識に基づくと、テザリングは一般的に許可されているが、一部のプランで制限される可能性あり。
-    esim_title: 制限なしテザリング
-    esim_desc: Roamiはフルスピードのホットスポット共有を許可。一部の現地プランでテザリングが制限される場合があるのとは異なります。任意のデバイスでデータを使用可能。
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge, tethering is generally allowed
+      but may be restricted on some plans.
+    esim_title: Unrestricted Tethering
+    esim_desc: Roami allows full-speed hotspot sharing, unlike some local plans that may restrict tethering. Use your data
+      on any device.
   - icon: credit-card
-    title: チャージ支払い
+    title: Top-up Payments
     prepaid_title: ''
-    prepaid_desc: Pago Express（最低 Bs 5）またはスクラッチカード（最低 Bs 10）でチャージ。国際クレジットカードでのオンライン決済は拒否される場合あり。
-    esim_title: グローバル決済対応
-    esim_desc: Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPalで支払い可能。Pago Expressキオスクを探したり、拒否される国際カードに対処する必要なし。
+    prepaid_desc: Top-up via Pago Express (minimum Bs 5) or scratch cards (minimum Bs 10); online payment with international
+      credit cards may be rejected.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need to find Pago Express kiosks or deal
+      with rejected international cards.
   - icon: headset
-    title: カスタマーサポート
+    title: Customer Support
     prepaid_title: ''
-    prepaid_desc: この項目の情報はデータソースにありません。市場知識に基づくと、サポートは主にスペイン語で、英語対応は限定的。
-    esim_title: 24時間英語サポート
-    esim_desc: 現地事業者が営業時間内に主にスペイン語のみのサポートを提供するのに対し、Roamiは24時間英語でのサポートを提供。
+    prepaid_desc: No specific data in source for this dimension. Based on market knowledge, support is primarily in Spanish,
+      with limited English assistance.
+    esim_title: 24/7 English Support
+    esim_desc: Get round-the-clock support in English, unlike local operators that primarily offer Spanish-only assistance
+      during business hours.
   expert_verdict:
-    title: "ボリビアeSIM vs プリペイドSIM：どちらがお金と手間を節約できるか？"
+    title: 'Bolivia eSIM vs Prepaid SIM: Which One Saves You Money and Hassle?'
     cards:
     - icon: tower-observation
       icon_bg: bg-rose-100
       icon_color: text-rose-600
-      title: CANローミングの速度制限リスクを回避
-      desc: EntelのCANローミング（コロンビア、ペルー、エクアドル）はFUP制限が不明確で、数GB後に速度制限のリスクあり。Roamiは<b>透明なデータ</b>を隠れた制限なしで提供。
+      title: Avoid CAN Roaming Throttling Risks
+      desc: Entel's CAN roaming (Colombia, Peru, Ecuador) has unclear FUP limits, risking throttling after a few GB. Roami
+        offers <b>transparent data</b> with no hidden caps.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
-      title: グローバルカードで支払い、現地の手間なし
-      desc: Pago Expressやスクラッチカード（最低 Bs 10）での現地チャージは外国クレジットカードを拒否することが多い。Roamiは<b>Visa、Mastercard、AMEX、Apple Pay、Google Pay、PayPal</b>に対応。
+      title: Pay with Global Cards, No Local Hassles
+      desc: Local top-up via Pago Express or scratch cards (min Bs 10) often rejects foreign credit cards. Roami accepts <b>Visa,
+        Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b>.
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600
-      title: ボリビアの厳格なSIMパスポート要件を回避
-      desc: EntelとTigoは店舗またはスペイン語コードでのパスポート登録が必要。Roami eSIMは<b>KYC不要</b>で即時アクティベーションされ、書類手続きの15〜30分を節約。
+      title: Bypass Bolivia's Strict SIM Passport Requirements
+      desc: Entel and Tigo require passport registration in-store or via Spanish codes. Roami eSIM activates instantly with
+        <b>no KYC</b>, saving 15-30 minutes of paperwork.
     - icon: hourglass-empty
       icon_bg: bg-amber-100
       icon_color: text-amber-600
-      title: 30日プランのサンクコストを排除
-      desc: Tigoの30日1GBプランはBs 55ですが、7日間の旅行者はプランの77%を無駄にします。Roamiの7日プランは<b>$1.99/GB</b>からで、旅行期間に正確に合致。
+      title: Eliminate Sunk Cost from 30-Day Plans
+      desc: Tigo's 30-day 1GB plan costs Bs 55, but a 7-day tourist wastes 77% of the plan. Roami's 7-day plan from <b>$1.99/GB</b>
+        matches your trip length exactly.
 ---
-        RoamiのeSIMは格安料金で、5G対応の高速通信を提供しています。1GB/$1.99からのお得なプランを用意。24時間サポートで旅行中も安心です。

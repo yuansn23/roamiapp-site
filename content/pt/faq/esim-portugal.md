@@ -1,10 +1,10 @@
-﻿---
+---
 title: "eSIM Portugal: Guia Completo para Viajantes e Residentes"
 h1_title: "eSIM Portugal 2026: Como Escolher, Ativar e Comparar os Melhores Planos"
 description: "Guia completo do eSIM em Portugal 2026. Compare MEO, NOS, Vodafone, Digi e provedores internacionais como Airalo e Holafly. Preços, cobertura 5G e como ativar."
 keywords: ["esim portugal", "melhor esim portugal", "comprar esim portugal", "esim para viajar portugal", "esim portugal preço", "esim portugal 2026", "meo esim", "nos esim", "vodafone esim portugal", "digi esim portugal", "airalo portugal", "holafly portugal", "esim lisboa", "esim porto", "esim algarve", "como ativar esim portugal", "esim com número português", "5g esim portugal", "esim ilimitado portugal", "esim barato portugal", "esim portugal comparação"]
-date: 2026-08-06T10:00:00Z
-lastmod: 2026-08-06T10:00:00Z
+date: 2026-08-10T10:00:00Z
+lastmod: 2026-08-10T10:00:00Z
 tags: ["eSIM", "Portugal", "MEO", "NOS", "Vodafone", "Digi", "Airalo", "Holafly", "5G", "Viagem", "Comparação"]
 toc: true
 
@@ -31,7 +31,7 @@ sidebar_popular:
   item_suffix: "eSIM"
   items:
     - name: "Portugal eSIM"
-      flag: "/img/flags.svg"
+      flag: "/img/flags/pt.svg"
       price: "$1.99"
       url: "/portugal-esim/"
       badge: "5G"
@@ -58,7 +58,7 @@ sidebar_free:
   item_subtitle: "Teste Agora"
   items:
     - name: "eSIM Grátis Portugal"
-      flag: "/img/flags.svg"
+      flag: "/img/flags/pt.svg"
       url: "/free-esim/"
     - name: "eSIM Grátis Europa"
       flag: "/img/flags/eu.svg"
@@ -361,9 +361,9 @@ Os testes da DECO PROteste também avaliaram a experiência do utilizador:
 
 ### Cobertura em Áreas Específicas
 
-- **Lisboa (esim lisboa):** Velocidade média de 302,73 Mbps. O Metro de Lisboa, com 53 das 56 estações já com 5G, garante conectividade mesmo no subsolo.
-- **Porto (esim porto):** Velocidade média de 260,63 Mbps. Boa cobertura em toda a zona histórica e nas margens do Douro.
-- **Algarve (esim algarve):** Faro atinge 329,22 Mbps, sendo uma das regiões mais rápidas do país — ideal para quem trabalha remotamente à beira‑mar.
+- **Lisboa:** Velocidade média de 302,73 Mbps. O Metro de Lisboa, com 53 das 56 estações já com 5G, garante conectividade mesmo no subsolo. Um eSIM em Lisboa garante acesso imediato à melhor rede disponível.
+- **Porto:** Velocidade média de 260,63 Mbps. Boa cobertura em toda a zona histórica e nas margens do Douro. Um eSIM no Porto cobre toda a região metropolitana com 5G.
+- **Algarve:** Faro atinge 329,22 Mbps, sendo uma das regiões mais rápidas do país — ideal para quem trabalha remotamente à beira‑mar. Um eSIM no Algarve mantém você conectado em todas as praias e vilas da região.
 - **Madeira e Açores:** Velocidades mais baixas (≈100 Mbps), mas com cobertura 4G/5G nas principais cidades e estradas. Em zonas remotas, pode cair para 3G, pelo que se recomenda ter um plano que inclua roaming com outras redes.
 
 

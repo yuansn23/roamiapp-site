@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Como Ativar eSIM no iPhone: Guia Passo a Passo 2026"
 h1_title: "Como Ativar eSIM no iPhone em 2026 – Guia Completo"
 description: "Guia 2026: ative eSIM no iOS e Android sem ligar para operadora. Passos simples com QR code, app Ajustes ou app da operadora. Rápido e gratuito."
 keywords: ["ativação eSIM", "como ativar eSIM", "configuração eSIM iPhone", "Android eSIM", "QR code eSIM", "eSIM de viagem", "solução de problemas eSIM"]
-date: 2026-08-06T10:00:00Z
-lastmod: 2026-08-06T10:00:00Z
+date: 2026-08-10T10:00:00Z
+lastmod: 2026-08-10T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Solução de Problemas", "Configuração de Viagem"]
 toc: true
 image: "/images/esim-activation-guide.jpg"

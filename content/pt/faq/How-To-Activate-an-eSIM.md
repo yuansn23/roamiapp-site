@@ -1,10 +1,10 @@
-﻿---
+---
 title: "eSIM Não Ativa? Corrija Erros no iOS e Android Já"
 h1_title: "Como Corrigir Erros de Ativação de eSIM no iOS e Android"
 description: "Preso na configuração do eSIM? Aprenda a digitalizar QR, inserir dados manuais e corrigir erros de ativação no iPhone e Android. Conecte-se rápido."
-keywords: ["ativação esim", "como ativar esim", "ativar esim iphone", "configuração esim iphone", "esim android", "código qr esim", "esim viagem", "solução de problemas esim", "como ativar um esim", "falha na ativação esim", "adicionar esim ao iphone", "esim não ativando", "configurar esim iphone", "ativar esim android", "instalação esim", "código qr esim", "endereço SM-DP+", "entrada manual esim", "ativação esim ipad", "configuração esim apple watch", "transferir esim para novo telefone", "configuração esim dual sim"]
-date: 2026-08-06T10:00:00Z
-lastmod: 2026-08-06T10:00:00Z
+keywords: ["ativação esim", "como ativar esim", "como ativar um esim", "ativar esim iphone", "configuração esim iphone", "ativar esim android", "código qr esim", "esim viagem", "solução de problemas esim", "falha na ativação esim", "adicionar esim ao iphone", "esim não ativando", "endereço SM-DP+", "entrada manual esim", "transferir esim para novo telefone"]
+date: 2026-08-10T10:00:00Z
+lastmod: 2026-08-10T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Solução de Problemas", "Configuração de Viagem"]
 toc: true
 image: "/images/esim-activation-guide.jpg"

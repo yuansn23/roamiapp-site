@@ -1,10 +1,10 @@
-﻿---
+---
 title: "O iPhone XR Suporta eSIM? Guia de Compatibilidade"
 h1_title: "O iPhone XR Suporta eSIM? Um Guia Completo para 2026"
 description: "iPhone XR suporta eSIM? Sim, verifique com *#06#. Guia de ativação, modelos da China sem eSIM, compatibilidade com iPhone 8/X e mais."
-keywords: ["iphone xr esim compatible", "iphone xr esim support", "airalo compatible phones", "visible esim compatible phones", "google fi esim compatible phones", "verizon esim compatibility", "dual sim compatible", "lista de iphones que suportam esim", "telefones compatíveis com esim", "téléphone compatible esim free"]
-date: 2026-08-06T10:00:00Z
-lastmod: 2026-08-06T10:00:00Z
+keywords: ["iphone xr compatível com esim", "suporte esim iphone xr", "telefones compatíveis com airalo", "telefones compatíveis com visible esim", "telefones compatíveis com google fi esim", "compatibilidade esim verizon", "dual sim compatible", "lista de iphones que suportam esim", "telefones compatíveis com esim", "telefone compatível com esim free"]
+date: 2026-08-10T10:00:00Z
+lastmod: 2026-08-10T10:00:00Z
 tags: ["iPhone", "eSIM", "Compatibilidade", "iPhone XR"]
 toc: true
 
@@ -187,7 +187,7 @@ Seu iPhone XR funciona com todos os provedores eSIM do mundo:
 | SFR (França) | Sim | SFR eSIM compatível com iPhone XR |
 | Bouygues (França) | Sim | Bouygues eSIM funciona no iPhone XR |
 
-Se você pesquisou por “téléphone compatible esim free” ou “mobile compatible esim orange” – o iPhone XR é totalmente compatível com operadoras francesas. Para “verizon esim compatibility”, o iPhone XR é suportado desde que esteja desbloqueado ou seja um dispositivo Verizon. Para uma visão mais ampla de outras marcas – incluindo Samsung, Xiaomi e Huawei – veja nosso guia completo de **[compatibilidade eSIM](/pt/compatibility/)**.
+O iPhone XR é totalmente compatível com operadoras francesas como Free e Orange. Para a rede Verizon, o iPhone XR é suportado desde que esteja desbloqueado ou seja um dispositivo Verizon. Para uma visão mais ampla de outras marcas – incluindo Samsung, Xiaomi e Huawei – veja nosso guia completo de **[compatibilidade eSIM](/pt/compatibility/)**.
 
 ---
 

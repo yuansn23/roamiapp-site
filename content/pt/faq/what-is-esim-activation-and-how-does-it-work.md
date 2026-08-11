@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Ative o eSIM em 2 Minutos: Guia para iPhone e Android"
 h1_title: "Como Ativar o eSIM em 2 Minutos: Um Guia para iPhone e Android"
 description: "Ative seu eSIM em 2 minutos no iOS 19 ou Android 16. Verifique IMEI, escaneie QR e corrija erros. Conecte-se rapidamente e sem complicações."
-keywords: ["ativação eSIM", "como ativar eSIM", "configuração eSIM iPhone", "Android eSIM", "código QR eSIM", "eSIM de viagem", "solução de problemas eSIM", "como verificar esim no iphone", "como verificar esim no iphone", "como encontrar esim no iphone", "onde fica o esim no iphone", "como verificar se meu telefone é compatível com esim", "como verificar compatibilidade esim", "como saber se meu telefone é compatível com esim", "verificar compatibilidade esim", "verificador de compatibilidade esim", "verificação de compatibilidade esim", "imei esim", "gerador imei esim", "esim imei", "verificação imei esim", "como verificar se o esim é compatível", "como verificar se o telefone é compatível com esim", "meu telefone tem esim", "meu telefone suporta esim", "o que é ativação esim", "como encontrar código qr esim", "como obter código qr esim"]
-date: 2026-08-06T10:00:00Z
-lastmod: 2026-08-06T10:00:00Z
+keywords: ["ativação eSIM", "como ativar eSIM", "o que é ativação esim", "código qr esim", "configuração esim iphone", "android esim", "como verificar compatibilidade esim", "como verificar esim no iphone", "meu telefone suporta esim", "esim de viagem", "como encontrar código qr esim", "onde fica o esim no iphone", "imei esim", "verificar compatibilidade esim"]
+date: 2026-08-10T10:00:00Z
+lastmod: 2026-08-10T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Solução de problemas", "Configuração de viagem", "Compatibilidade"]
 toc: true
 image: "/images/esim-activation-guide.jpg"

@@ -1,10 +1,10 @@
-﻿---
+---
 title: "iPhone eSIM: Compatibilidade e Configuração Completa"
 h1_title: "O Guia Completo para Compatibilidade e Configuração de eSIM no iPhone"
 description: "Verifique compatibilidade eSIM no iPhone via EID. Guia de configuração, dual SIM, diferenças China/USA e recursos do iPhone 13+. Tabelas incluídas."
-keywords: ["iphone esim", "esim iphone", "quais iphones suportam esim", "quais iphones têm esim", "quais modelos de iphone suportam esim", "que iphones suportam esim", "o iphone 11 tem esim", "o iphone 12 tem esim", "o iphone 13 tem esim", "o iphone 14 tem esim", "o iphone 15 tem esim", "o iphone 16 tem esim", "o iphone 17 tem esim", "o iphone 11 suporta esim", "o iphone 12 suporta esim", "o iphone 13 suporta esim", "o iphone 14 suporta esim", "o iphone 15 suporta esim", "o iphone 16 suporta esim", "o iphone 17 suporta esim", "o iphone se tem esim", "o iphone se suporta esim", "o iphone xr tem esim", "o iphone xr suporta esim", "o iphone xs tem esim", "o iphone xs max tem esim", "o iphone 8 tem esim", "o iphone 7 tem esim", "iphone 11 esim", "iphone 12 esim", "iphone 13 esim", "iphone 14 esim", "iphone 15 esim", "iphone 16 esim", "iphone 17 esim", "iphone se esim", "iphone xr esim", "iphone xs esim", "iphone 8 esim", "iphone 11 pro esim", "iphone 12 pro esim", "iphone 13 pro esim", "iphone 14 pro esim", "iphone 15 pro esim", "iphone 16 pro esim", "iphone 17 pro esim", "iphone 14 apenas esim", "iphone 15 esim ou sim fisico", "iphone 16 apenas esim", "iphone 17 apenas esim", "iphone 17 air apenas esim", "iphone 13 dual esim", "iphone 14 dual esim", "iphone 15 dual esim", "iphone 16 dual esim", "iphone 17 dual esim", "primeiro iphone com esim", "quando os iphones mudaram para esim", "quando o iphone começou a usar esim", "iphone esim compatível", "iphones com esim", "iphones compatíveis com esim"]
-date: 2026-08-06T10:00:00Z
-lastmod: 2026-08-06T10:00:00Z
+keywords: ["iphone esim", "quais iphones suportam esim", "iphone 11 esim", "iphone 12 esim", "iphone 13 esim", "iphone 14 esim", "iphone 15 esim", "iphone 16 esim", "iphone 17 esim", "iphone se esim", "iphone xr esim", "iphone xs esim", "iphone 14 apenas esim", "iphone 13 dual esim", "primeiro iphone com esim"]
+date: 2026-08-10T10:00:00Z
+lastmod: 2026-08-10T10:00:00Z
 tags: ["iPhone", "eSIM", "Dual SIM", "Ativação", "Compatibilidade"]
 toc: true
 
@@ -128,10 +128,10 @@ Para a lista completa de **telefones compatíveis com eSIM** de todas as marcas,
 | **iPhone SE (2ª & 3ª geração)** | ✅ Sim | Físico + eSIM | Opção econômica com eSIM |
 | **iPhone 12, 12 mini, 12 Pro, 12 Pro Max** | ✅ Sim | Físico + eSIM | Primeiros iPhones 5G com eSIM |
 | **iPhone 13, 13 mini, 13 Pro, 13 Pro Max** | ✅ Sim | Físico + eSIM (ou dual eSIM) | Suporta **dual eSIM** (dois eSIMs ativos) |
-| **iPhone 14, 14 Plus, 14 Pro, 14 Pro Max** | ✅ Sim | USA: apenas eSIM; global: físico + eSIM | **iPhone 14 apenas esim** nos USA |
-| **iPhone 15, 15 Plus, 15 Pro, 15 Pro Max** | ✅ Sim | USA: apenas eSIM; global: físico + eSIM | **iPhone 15 esim ou sim fisico** depende da região |
-| **iPhone 16, 16 Plus, 16 Pro, 16 Pro Max** | ✅ Sim | USA: apenas eSIM; global: físico + eSIM | **iPhone 16 apenas esim** nos USA |
-| **iPhone 17 (todos os modelos)** | ✅ Sim | Esperado: USA apenas eSIM; global físico + eSIM | **iPhone 17 apenas esim** provável; **iPhone 17 air apenas esim** provável |
+| **iPhone 14, 14 Plus, 14 Pro, 14 Pro Max** | ✅ Sim | USA: apenas eSIM; global: físico + eSIM | Apenas eSIM (sem bandeja SIM física) nos USA |
+| **iPhone 15, 15 Plus, 15 Pro, 15 Pro Max** | ✅ Sim | USA: apenas eSIM; global: físico + eSIM | eSIM + SIM físico ou apenas eSIM, dependendo da região |
+| **iPhone 16, 16 Plus, 16 Pro, 16 Pro Max** | ✅ Sim | USA: apenas eSIM; global: físico + eSIM | Apenas eSIM nos USA (sem bandeja SIM física) |
+| **iPhone 17 (todos os modelos)** | ✅ Sim | Esperado: USA apenas eSIM; global físico + eSIM | Apenas eSIM esperado nos USA; iPhone 17 Air somente eSIM |
 
 ---
 
