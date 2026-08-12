@@ -102,7 +102,7 @@ Eine umfassendere Übersicht über alle Anbieter finden Sie im [USA eSIM-Ranking
 | **Küsten-Highway** | Ubigi oder Nomad | Abdeckung entlang der Küsten gut |
 | **Nur Interstate** | Ubigi | Am günstigsten, funktioniert auf den wichtigsten Autobahnen |
 
-Für automatischen Netzbetreiberwechsel über alle drei Netze während eines Roadtrips wählen Sie eine Multi-Netzwerk-[usa esim](/usa-esim/), die sich mit dem jeweils stärksten Signal verbindet – nützlich, wenn Sie durch Gebiete fahren, in denen die Abdeckung zwischen den Betreibern wechselt.
+Für automatischen Netzbetreiberwechsel über alle drei Netze während eines Roadtrips wählen Sie eine Multi-Netzwerk-[usa esim](/united-states-esim/), die sich mit dem jeweils stärksten Signal verbindet – nützlich, wenn Sie durch Gebiete fahren, in denen die Abdeckung zwischen den Betreibern wechselt.
 
 ---
 
@@ -568,7 +568,7 @@ Ja, laden Sie aber als Backup Offline-Karten herunter. Der Handyempfang ist auf 
 Der [USA eSIM-Preisvergleich](/blog/usa-esim-price-guide/) zeigt, welche Anbieter die besten Datenpakete für verschiedene Roadtrip-Längen bieten.
 
 **Ist T-Mobile für einen Roadtrip geeignet? T-Mobile funktioniert gut, wenn Sie auf großen Interstates in der Nähe von Städten bleiben. Sobald Sie das Interstate-System verlassen oder durch ländliche Gebiete fahren, verlieren Sie früher das Signal als AT&T- oder Verizon-Kunden. Wenn Ihr Roadtrip Nationalparks oder Kleinstädte umfasst, wählen Sie stattdessen einen Anbieter mit AT&T- oder Verizon-Zugang.**
-Ein Anbieter wie Roami bietet eine [usa esim](/usa-esim/) mit Multi-Netz-Zugang für bessere Abdeckung.
+Ein Anbieter wie Roami bietet eine [usa esim](/united-states-esim/) mit Multi-Netz-Zugang für bessere Abdeckung.
 
 **Was ist die beste Offline-Kartenstrategie für einen USA-Roadtrip? Google Maps ermöglicht es Ihnen, Bundesstaaten oder Regionen für die Offline-Nutzung herunterzuladen. Gehen Sie in der Google-Maps-App auf Ihr Profilbild, tippen Sie auf Offline-Karten und wählen Sie den gewünschten Bereich aus. Jede Bundesstaatskarte benötigt 200–500 MB Speicherplatz.**
 Für eine Fahrt quer durch die USA laden Sie Karten für jeden Bundesstaat auf Ihrer Route herunter – insgesamt werden es 3–8 GB sein. Apple Maps bietet auf iOS 18 und neuer ähnliche Offline-Funktionen. Laden Sie diese vor Ihrer Abreise oder bei Hotel-WLAN herunter. Offline-Karten verlieren einige Funktionen – Verkehrsdaten in Echtzeit, Alternativrouten und Öffnungszeiten werden ohne Datenverbindung nicht aktualisiert.
@@ -621,7 +621,7 @@ Die Hotspot-Lösung ist am einfachsten für die gelegentliche Nutzung des Laptop
 
 ---
 
-Roamis [usa esim](/usa-esim/) bietet automatischen Netzbetreiberwechsel – nützlich für Roadtrips, bei denen Sie Gebiete mit unterschiedlichen Netzstärken durchfahren. Eine [kostenlose eSIM-Testversion](/free-esim/) ermöglicht es Ihnen, die Einrichtung vor der Reise zu testen. Mit dem Code **WEB20** erhalten Sie 20 % Rabatt auf jeden Tarif.
+Roamis [usa esim](/united-states-esim/) bietet automatischen Netzbetreiberwechsel – nützlich für Roadtrips, bei denen Sie Gebiete mit unterschiedlichen Netzstärken durchfahren. Eine [kostenlose eSIM-Testversion](/free-esim/) ermöglicht es Ihnen, die Einrichtung vor der Reise zu testen. Mit dem Code **WEB20** erhalten Sie 20 % Rabatt auf jeden Tarif.
 
 <script type="application/ld+json">
 {

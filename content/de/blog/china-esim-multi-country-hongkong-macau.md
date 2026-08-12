@@ -104,7 +104,7 @@ Dies geschieht, obwohl CMHK (China Mobile Hongkong) denselben Markennamen wie se
 - Eine separate Hongkong-eSIM, die Sie bei Grenzübertritt aktivieren
 - Einen Anbieter, der automatischen Wechsel zwischen Festland- und Hongkonger Netzen bietet, wie Roami
 
-[Roami](/china-esim/) ist einer der Anbieter, der diesen Wechsel nativ unterstützt – ihre Multiregionen-Tarife beinhalten Festlandchina, Hongkong und Macau in einem einzigen Profil, sodass kein manueller Wechsel oder separater Kauf erforderlich ist. Wir behandeln dies im folgenden Abschnitt zum grenzüberschreitenden Verkehr ausführlicher.
+[Roami](/)  ist einer der Anbieter, der diesen Wechsel nativ unterstützt – ihre Multiregionen-Tarife beinhalten Festlandchina, Hongkong und Macau in einem einzigen Profil, sodass kein manueller Wechsel oder separater Kauf erforderlich ist. Wir behandeln dies im folgenden Abschnitt zum grenzüberschreitenden Verkehr ausführlicher.
 
 Weitere Fehlerbehebung zu diesem spezifischen Problem finden Sie in unserem [China eSIM-Fehlerbehebungsleitfaden](/blog/china-esim-troubleshooting-fix-guide/), der einen eigenen Abschnitt zu grenzüberschreitenden Hongkong-Verbindungsproblemen enthält.
 

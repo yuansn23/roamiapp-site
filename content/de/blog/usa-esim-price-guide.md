@@ -86,7 +86,7 @@ Wer eine **USA eSIM günstig kaufen** möchte, findet in diesem Leitfaden die g�
 
 Wenn Sie sich noch nicht für einen Anbieter entschieden haben, vergleicht der [USA eSIM Ranking-Vergleich](/blog/usa-esim-ranking-comparison-2026/) Funktionen, Geschwindigkeit und Abdeckung nebeneinander. Für einen breiteren Überblick darüber, wie die Preisgestaltung in das Gesamtbild passt, deckt der [USA eSIM Komplettleitfaden](/blog/usa-esim-complete-guide/) alles von der Kompatibilität bis zur Aktivierung ab.
 
-Für Reisende, die Preisgestaltung und Konnektivität vor dem Kauf testen möchten, bietet eine [USA eSIM](/usa-esim/) eine [kostenlose Testversion](/free-esim/) mit dem Code **WEB20** für 20 % Rabatt auf jeden Tarif.
+Für Reisende, die Preisgestaltung und Konnektivität vor dem Kauf testen möchten, bietet eine [USA eSIM](/united-states-esim/) eine [kostenlose Testversion](/free-esim/) mit dem Code **WEB20** für 20 % Rabatt auf jeden Tarif.
 
 ---
 
@@ -215,7 +215,7 @@ Der Kauf eines 30-Tage-Tarifs für eine 7-tägige Reise ist üblich und oft kost
 
 ## USA eSIM 30-Tage-Prepaid-Tarif Kosten — Bestes Preis-Leistungs-Verhältnis für längere Aufenthalte
 
-Ein **USA eSIM 30 Tage Tarif** eignet sich ideal für längere Aufenthalte, wobei die Kosten je nach Anbieter und Datenvolumen stark variieren. Die **[USA eSIM](/usa-esim/) 30-Tage-Prepaid-Tarif Kosten** variieren stark je nach Anbieter. Hier sind die Kosten für einen 30-Tage-Tarif bei den großen Anbietern:
+Ein **USA eSIM 30 Tage Tarif** eignet sich ideal für längere Aufenthalte, wobei die Kosten je nach Anbieter und Datenvolumen stark variieren. Die **[USA eSIM](/united-states-esim/) 30-Tage-Prepaid-Tarif Kosten** variieren stark je nach Anbieter. Hier sind die Kosten für einen 30-Tage-Tarif bei den großen Anbietern:
 
 | Anbieter | Daten | Preis | Pro GB | US-Nummer |
 |:---------|:----:|:-----:|:------:|:---------:|
@@ -314,7 +314,7 @@ Bei den Stufen 25-30 GB erreicht T-Mobile Prepaid einen niedrigeren Preis pro GB
 
 ## USA eSIM 5G-Hochgeschwindigkeitstarif Preis — Was 5G kostet
 
-Der **[USA eSIM](/usa-esim/) 5G-Hochgeschwindigkeitstarif Preis** – die meisten Anbieter beinhalten 5G ohne Aufpreis. Hier ist, was Sie für 5G-Zugang zahlen:
+Der **[USA eSIM](/united-states-esim/) 5G-Hochgeschwindigkeitstarif Preis** – die meisten Anbieter beinhalten 5G ohne Aufpreis. Hier ist, was Sie für 5G-Zugang zahlen:
 
 | Anbieter | 5G-Zugang | Preis für 10 GB | 5G enthalten? |
 |:---------|:---------:|:--------------:|:------------:|

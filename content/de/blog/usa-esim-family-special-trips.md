@@ -84,7 +84,7 @@ Roami bietet USA eSIM Gruppenreisen. Die Planung einer USA eSIM Familienreise be
 
 Dieser Leitfaden deckt die besten eSIM-Strategien für häufige Reiseszenarien ab – Familien, USA eSIM für Rucksacktouristen, Themenparks, Kreuzfahrten, Skireisen und mehr. Die [GSMA](https://www.gsma.com/esim/) stellt die technischen Spezifikationen bereit, die eSIMs über verschiedene US-Betreiber hinweg funktionieren lassen und so die Kompatibilität für alle Reisearten gewährleisten. Wenn Sie nach der günstigsten Option für eine unkomplizierte Reise suchen, finden Sie im [USA eSIM Preis-Leitfaden](/blog/usa-esim-price-guide/) die besten Angebote auf jeder Datenstufe.
 
-Für Reisende, die mehrere Reiseziele besuchen, hilft eine [USA eSIM](/usa-esim/) mit automatischem Netzwerkwechsel, in verschiedenen Regionen verbunden zu bleiben, ohne die Betreibereinstellungen manuell ändern zu müssen. Egal, ob Sie eine [USA eSIM](/usa-esim/) für Themenparks oder Nationalparks benötigen, die Wahl der richtigen Abdeckung ist entscheidend.
+Für Reisende, die mehrere Reiseziele besuchen, hilft eine [USA eSIM](/united-states-esim/) mit automatischem Netzwerkwechsel, in verschiedenen Regionen verbunden zu bleiben, ohne die Betreibereinstellungen manuell ändern zu müssen. Egal, ob Sie eine [USA eSIM](/united-states-esim/) für Themenparks oder Nationalparks benötigen, die Wahl der richtigen Abdeckung ist entscheidend.
 
 ---
 
@@ -112,7 +112,7 @@ Für Reisende, die mehrere Reiseziele besuchen, hilft eine [USA eSIM](/usa-esim/
 
 ## Wie verwalte ich eine USA eSIM für die ganze Familie auf einer Gruppenreise?
 
-**[USA eSIM](/usa-esim/) für Familienurlaubsgruppen** erfordert ein Gleichgewicht zwischen Kosten und Flexibilität. Bei Reisen mit der Familie gibt es bei [USA eSIM](/usa-esim/) Gruppenreisen zwei Optionen: individuelle eSIMs für jede Person oder ein Pocket-WiFi-Gerät, das von allen geteilt wird.
+**[USA eSIM](/united-states-esim/) für Familienurlaubsgruppen** erfordert ein Gleichgewicht zwischen Kosten und Flexibilität. Bei Reisen mit der Familie gibt es bei [USA eSIM](/united-states-esim/) Gruppenreisen zwei Optionen: individuelle eSIMs für jede Person oder ein Pocket-WiFi-Gerät, das von allen geteilt wird.
 
 **Individuelle eSIMs:** Jede Person hat ihre eigenen Daten. Alle können sich tagsüber aufteilen und haben trotzdem Internet. Kosten: 12-20 $ pro Person für eine Woche. Die Gruppentarife von Google Fi können die Kosten pro Person senken, wenn sich alle Geräte auf einem Konto befinden. Die Einrichtung dauert 5 Minuten pro Gerät vor der Abreise.
 
@@ -179,7 +179,7 @@ Wenn Sie mit Kindern reisen, die eigene Handys haben, sollten Sie Folgendes beac
 
 Für Reisende auf Mehrtländerreisen bedeutet Airalos Abdeckung in über 200 Ländern, dass eine eSIM in den USA, Kanada, Mexiko und darüber hinaus funktioniert – kein Kauf neuer Tarife an jeder Grenze. Tellos 5-GB-Tarif für 10 $ mit einer US-Telefonnummer ist auch eine gute Wahl für Rucksacktouristen, die lokale Anrufe für Hostel-Buchungen oder Fahrdienste tätigen müssen.
 
-Wenn Sie planen, mehrere Regionen mit unterschiedlicher Netzabdeckung zu besuchen, kann eine [USA eSIM](/usa-esim/), die automatisch die Betreiber wechselt, Sie davor bewahren, die Einstellungen zwischen den Zielen manuell umzuschalten.
+Wenn Sie planen, mehrere Regionen mit unterschiedlicher Netzabdeckung zu besuchen, kann eine [USA eSIM](/united-states-esim/), die automatisch die Betreiber wechselt, Sie davor bewahren, die Einstellungen zwischen den Zielen manuell umzuschalten.
 
 **Vergleich der Budgetreise-Daten: Kosten pro GB nach Anbieter**
 Für Rucksacktouristen mit strengem Budget macht die Wahl des günstigsten Anbieters pro GB über eine mehrtägige Reise einen erheblichen Unterschied:
@@ -639,7 +639,7 @@ Für eine detaillierte Aufschlüsselung der AT&T-, T-Mobile- und Verizon-Prepaid
 
 ---
 
-Für Reisende, die zuverlässige Konnektivität über verschiedene Reisearten hinweg benötigen, bietet [Roami](/united-states-esim/) automatischen Netzwerkwechsel, sodass Sie die Betreibereinstellungen nicht manuell zwischen Regionen ändern müssen. Eine [kostenlose eSIM-Testversion](/free-esim/) ermöglicht es Ihnen, die Einrichtung vor dem Kauf zu testen. Der Code **WEB20** gewährt 20 % Rabatt auf jeden Tarif.
+Für Reisende, die zuverlässige Konnektivität über verschiedene Reisearten hinweg benötigen, bietet [Roami](/)  automatischen Netzwerkwechsel, sodass Sie die Betreibereinstellungen nicht manuell zwischen Regionen ändern müssen. Eine [kostenlose eSIM-Testversion](/free-esim/) ermöglicht es Ihnen, die Einrichtung vor dem Kauf zu testen. Der Code **WEB20** gewährt 20 % Rabatt auf jeden Tarif.
 
 <script type="application/ld+json">
 {

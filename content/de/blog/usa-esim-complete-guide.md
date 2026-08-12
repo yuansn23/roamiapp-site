@@ -107,7 +107,7 @@ Für die meisten Reisenden liegen die Vorteile auf der Hand. Die einzigen Situat
 
 ## Was ist eine eSIM und wie funktioniert sie für USA-Reisen?
 
-**Wie man eine eSIM in den USA bekommt** – die kurze Antwort: Sie müssen nicht in den USA sein, um eine zu bekommen. Eine **eSIM Karte USA** funktioniert als digitale SIM-Karte, die in die Hardware Ihres Telefons eingebaut ist, und ersetzt die herkömmliche Plastik-SIM vollständig. Eine [usa esim](/usa-esim/) für Reisende ist eine digitale SIM-Karte, die in die Hardware Ihres Telefons eingebaut ist.
+**Wie man eine eSIM in den USA bekommt** – die kurze Antwort: Sie müssen nicht in den USA sein, um eine zu bekommen. Eine **eSIM Karte USA** funktioniert als digitale SIM-Karte, die in die Hardware Ihres Telefons eingebaut ist, und ersetzt die herkömmliche Plastik-SIM vollständig. Eine [usa esim](/united-states-esim/) für Reisende ist eine digitale SIM-Karte, die in die Hardware Ihres Telefons eingebaut ist.
 
 Anstatt bei Ihrer Ankunft in den USA eine physische Plastik-SIM-Karte einzulegen, kaufen Sie vor Ihrer Abreise online einen Tarif, scannen einen QR-Code, und Ihr Telefon verbindet sich automatisch mit dem US-Mobilfunknetz. Kein Flughafen-Kiosk, kein SIM-Tausch, keine Passregistrierung in einem Anbieter-Geschäft.
 
@@ -117,7 +117,7 @@ Apples [Dual-SIM-Support-Seite](https://support.apple.com/en-us/HT212780) listet
 
 **Das Wichtigste, was eSIM anders macht:** Es funktioniert neben Ihrer vorhandenen physischen SIM. Ihre heimische Telefonnummer bleibt für WhatsApp, iMessage und SMS von Ihrer Bank aktiv. Die eSIM übernimmt alle Ihre US-Daten. Dies ist die Funktion, die eSIM bequemer macht als eine Touristen-SIM-Karte, bei der Sie Ihre heimische SIM entfernen und den Zugang zu Ihrer regulären Nummer verlieren müssen.
 
-**Um zu überprüfen, ob Ihr Telefon [usa esim](/usa-esim/) unterstützt:** Wählen Sie `*#06#`. Wenn Sie eine EID-Nummer (normalerweise 32-stellig) zusammen mit der IMEI sehen, ist Ihr Telefon eSIM-kompatibel. Wenn Sie keine EID sehen, unterstützt Ihr Telefon entweder kein eSIM oder die Funktion wurde von Ihrem Anbieter deaktiviert.
+**Um zu überprüfen, ob Ihr Telefon [usa esim](/united-states-esim/) unterstützt:** Wählen Sie `*#06#`. Wenn Sie eine EID-Nummer (normalerweise 32-stellig) zusammen mit der IMEI sehen, ist Ihr Telefon eSIM-kompatibel. Wenn Sie keine EID sehen, unterstützt Ihr Telefon entweder kein eSIM oder die Funktion wurde von Ihrem Anbieter deaktiviert.
 
 Für Reisende mit älteren oder nicht kompatiblen Telefonen ist der beste Weg, um Internet in den USA zu bekommen, entweder eine physische SIM oder ein Pocket WiFi. Eine Schritt-für-Schritt-Anleitung für iPhone, Samsung Galaxy und Google Pixel-Installationen finden Sie im [USA eSIM-Setup-Leitfaden](/blog/usa-esim-setup-guide/) mit gerätespezifischen Anweisungen und Screenshots.
 
@@ -336,7 +336,7 @@ Laut [Trustpilot](https://www.trustpilot.com/categories/esim_provider)-Bewertung
 
 ## eSIM vs. physische SIM vs. Pocket WiFi: Bester Weg, um Internet in den USA zu bekommen
 
-Es gibt drei Möglichkeiten, in den USA mit [usa esim](/usa-esim/) Internet zu bekommen. Hier erfahren Sie, wann welche sinnvoll ist. Dies ist der Kern der Frage, wie man in den USA eine eSIM bekommt, für die meisten Reisenden.
+Es gibt drei Möglichkeiten, in den USA mit [usa esim](/united-states-esim/) Internet zu bekommen. Hier erfahren Sie, wann welche sinnvoll ist. Dies ist der Kern der Frage, wie man in den USA eine eSIM bekommt, für die meisten Reisenden.
 
 **eSIM** ist für die meisten Reisenden am besten. Sie ist günstiger als Pocket WiFi, bequemer als physische SIMs und hält Ihre Heimatnummer aktiv. Die Einrichtung dauert 5 Minuten vor der Abreise, und Sie müssen kein Geschäft aufsuchen oder am Flughafen anstehen. Für Alleinreisende auf kurzen bis mittleren Reisen (unter 30 Tagen) ist dies die Standardwahl.
 
@@ -413,7 +413,7 @@ Eine eSIM mit dem gleichen Datenvolumen würde $60-120 kosten, aber eine mit US-
 
 ## Wie wähle ich den richtigen USA eSIM-Datentarif?
 
-Die meisten [usa esim](/usa-esim/)-Anbieter bieten Tarife von 1 GB bis unbegrenzt an. Hier erfahren Sie, wie Sie die richtige Menge basierend auf der tatsächlichen Nutzung Ihres Telefons auswählen. Dies ist ein wesentlicher Bestandteil der USA eSIM-Tarife und Preise.
+Die meisten [usa esim](/united-states-esim/)-Anbieter bieten Tarife von 1 GB bis unbegrenzt an. Hier erfahren Sie, wie Sie die richtige Menge basierend auf der tatsächlichen Nutzung Ihres Telefons auswählen. Dies ist ein wesentlicher Bestandteil der USA eSIM-Tarife und Preise.
 
 | Dauer | Leichte Nutzung | Mäßige Nutzung | Starke Nutzung |
 |:---------|:---------|:------------|:----------|

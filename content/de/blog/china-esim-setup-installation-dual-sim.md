@@ -723,7 +723,7 @@ Technisch gesehen ja, aber es wird dringend davon abgeraten. Hier ist der Grund:
 Wenn Sie eine China eSIM mit VPN wünschen, die sowohl Konnektivität als auch Firewall-Umgehung übernimmt, wählen Sie einen Anbieter, der ein integriertes VPN-Routing beinhaltet.
 
 **Anbieter mit integriertem VPN**
-- **[Roami](/china-esim/):** Automatischer Carrier-Wechsel plus VPN-Routing inklusive. Roami überwacht in Echtzeit die Netzwerkbedingungen bei China Mobile, China Unicom und China Telecom und wählt den stärksten Carrier. Das VPN-Routing stellt sicher, dass Google, WhatsApp und Instagram ohne separate App funktionieren. Wenn Sie während der Installation Hilfe benötigen, bietet Roami 24/7 Live-Kundendienst mit echten Menschen, die die Besonderheiten des chinesischen Netzes verstehen.
+- **[Roami](/) :** Automatischer Carrier-Wechsel plus VPN-Routing inklusive. Roami überwacht in Echtzeit die Netzwerkbedingungen bei China Mobile, China Unicom und China Telecom und wählt den stärksten Carrier. Das VPN-Routing stellt sicher, dass Google, WhatsApp und Instagram ohne separate App funktionieren. Wenn Sie während der Installation Hilfe benötigen, bietet Roami 24/7 Live-Kundendienst mit echten Menschen, die die Besonderheiten des chinesischen Netzes verstehen.
 
 - **Saily:** Unterstützt von der NordVPN-Infrastruktur. Das VPN-Routing ist transparent – Sie installieren die eSIM, und der Verkehr wird über Nord-Server geleitet, ohne dass Sie eine separate App öffnen müssen.
 

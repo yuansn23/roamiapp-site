@@ -85,7 +85,7 @@ Dieser Leitfaden vergleicht die besten internationalen eSIM-Anbieter für Reisen
 
 In diesem Leitfaden werden die besten internationalen eSIMs für USA-Reisen verglichen: Airalo, Holafly, Ubigi, Saily, Nomad und KnowRoaming. Weitere Optionen wie eine **USA eSIM simly kaufen** ergänzen das Angebot für Reisende, die einen weiteren Anbieter in Betracht ziehen möchten. Jeder Anbieter verbindet sich anders mit den US-Netzen, hat unterschiedliche Preise und eignet sich für verschiedene Reisestile. Für einen breiteren Überblick über alle Anbieter lesen Sie den [USA eSIM Ranking-Vergleich](/blog/usa-esim-ranking-comparison-2026/), der 10 Anbieter vergleicht. Wenn Sie sehen möchten, wie sie im Vergleich zu US-Betreiber-Prepaid-Tarifen abschneiden, lesen Sie den [USA eSIM Betreiber-Tarifvergleich](/blog/usa-esim-carrier-plans/), der T-Mobile, AT&T und Verizon behandelt.
 
-Wenn Sie eine internationale eSIM vor dem Kauf testen möchten, bietet [USA eSIM](/usa-esim/) automatischen Netzwerkwechsel und eine [kostenlose Testversion](/free-esim/). Der Code **WEB20** gibt 20 % Rabatt auf jeden Tarif.
+Wenn Sie eine internationale eSIM vor dem Kauf testen möchten, bietet [USA eSIM](/united-states-esim/) automatischen Netzwerkwechsel und eine [kostenlose Testversion](/free-esim/). Der Code **WEB20** gibt 20 % Rabatt auf jeden Tarif.
 
 ---
 
@@ -149,7 +149,7 @@ Airalo verbindet sich je nach Standort und Signalstärke entweder mit T-Mobile o
 | Nationalpark | Verizon LTE | T-Mobile-Abdeckung oft nicht vorhanden |
 | Große Gebäude (innen) | T-Mobile | Bessere Gebäudedurchdringung auf 600 MHz |
 
-Airalo erlaubt keine manuelle Netzwerkauswahl – Ihr Telefon wählt automatisch zwischen T-Mobile und Verizon. Wenn Sie sich an einem Ort mit überlastetem Netzwerk befinden, können Sie nicht manuell wechseln. Dies ist eine Einschränkung gegenüber Anbietern mit automatischem Netzwerkwechsel wie [eSIM USA](/usa-esim/).
+Airalo erlaubt keine manuelle Netzwerkauswahl – Ihr Telefon wählt automatisch zwischen T-Mobile und Verizon. Wenn Sie sich an einem Ort mit überlastetem Netzwerk befinden, können Sie nicht manuell wechseln. Dies ist eine Einschränkung gegenüber Anbietern mit automatischem Netzwerkwechsel wie [eSIM USA](/united-states-esim/).
 
 **Airalo Vor- und Nachteile**
 | Vorteile | Nachteile |
@@ -560,7 +560,7 @@ Ubigi ist 60-70% günstiger als Holafly für vergleichbare Datenmengen. Holaflys
 - **Vielnutzern -> Holafly.** Unbegrenzte Daten, 24/7 Support.
 - **Datenschutzbewussten -> Saily.** Integriertes VPN.
 
-Für Reisende, die Flexibilität durch automatischen Netzwerkwechsel und Live-Support wünschen, bietet [eSIM USA](/usa-esim/) einen anderen Ansatz – statt einen Betreiber zu wählen, verbindet sie sich mit dem stärksten Signal.
+Für Reisende, die Flexibilität durch automatischen Netzwerkwechsel und Live-Support wünschen, bietet [eSIM USA](/united-states-esim/) einen anderen Ansatz – statt einen Betreiber zu wählen, verbindet sie sich mit dem stärksten Signal.
 
 **Schnelle Entscheidungsmatrix**
 | Wenn Ihre Reise... | Und Sie brauchen... | Wählen Sie |
@@ -757,7 +757,7 @@ Moderne Smartphones unterstützen mehrere eSIM-Profile:
 
 ---
 
-[Roami](/united-states-esim/) kombiniert automatischen Netzwerkwechsel und Live-Support – ideal für Reisende, die einen Anbieter für verschiedene Reisearten wünschen. Eine [kostenlose Testversion](/free-esim/) ermöglicht das Testen der Einrichtung vor dem Kauf. Der Code **WEB20** gewährt 20 % Rabatt auf jeden Tarif.
+[Roami](/)  kombiniert automatischen Netzwerkwechsel und Live-Support – ideal für Reisende, die einen Anbieter für verschiedene Reisearten wünschen. Eine [kostenlose Testversion](/free-esim/) ermöglicht das Testen der Einrichtung vor dem Kauf. Der Code **WEB20** gewährt 20 % Rabatt auf jeden Tarif.
 
 Jeder **USA eSIM Anbieter** hat seine eigenen Stärken, und die Unterschiede sind feiner als nur der Preis. Die Netzwerkpartnerschaft bestimmt Ihr tatsächliches Nutzungserlebnis – die Abdeckungsrecherche ist daher ebenso wichtig wie der Preisvergleich.
 

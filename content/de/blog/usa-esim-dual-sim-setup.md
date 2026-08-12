@@ -82,7 +82,7 @@ Die Dual-SIM-Einrichtung mit einer USA eSIM ermöglicht es Ihnen, Ihre Heimatnum
 
 Dieser Dual-SIM-Einrichtungsleitfaden für die USA eSIM führt Sie durch die korrekte Einrichtung für iPhone und Android, erklärt, was jede Einstellung bewirkt, und behandelt die häufigsten Konfigurationsfehler. Informationen zur Abdeckung in US-Städten finden Sie in unserem [USA eSIM Abdeckungsleitfaden](/blog/usa-esim-coverage-guide/). Die [GSMA](https://www.gsma.com/esim/) stellt die technischen Spezifikationen bereit, die Dual-SIM-eSIM-Konfigurationen auf verschiedenen Geräten ermöglichen. Wenn Sie Ihre eSIM noch nicht installiert haben, finden Sie die Installationsschritte zuerst im [USA eSIM Einrichtungsleitfaden](/blog/usa-esim-setup-guide/).
 
-Für Reisende, die Anbieterbindungen vermeiden möchten, bietet eine [USA eSIM](/usa-esim/) mit automatischem Wechsel zwischen T-Mobile, AT&T und Verizon das beste verfügbare Netzwerk, wo immer Sie sich befinden. Die korrekte Einrichtung Ihrer [USA eSIM](/usa-esim/) mit Dual-SIM vermeidet überraschende Roaming-Gebühren.
+Für Reisende, die Anbieterbindungen vermeiden möchten, bietet eine [USA eSIM](/united-states-esim/) mit automatischem Wechsel zwischen T-Mobile, AT&T und Verizon das beste verfügbare Netzwerk, wo immer Sie sich befinden. Die korrekte Einrichtung Ihrer [USA eSIM](/united-states-esim/) mit Dual-SIM vermeidet überraschende Roaming-Gebühren.
 
 ---
 
@@ -589,7 +589,7 @@ Nein. Ein netzbetreibergesperrtes Telefon funktioniert nur mit SIMs des sperrend
 
 ---
 
-[Roami](/united-states-esim/) bietet automatischen Netzwerkwechsel zwischen Betreibern und Live-Kundensupport, falls Sie Dual-SIM-Einrichtungsprobleme haben. Mit einer [kostenlosen eSIM-Testversion](/free-esim/) können Sie die vollständige Einrichtung üben. Der Code **WEB20** gewährt 20 % Rabatt auf jeden Tarif.
+[Roami](/)  bietet automatischen Netzwerkwechsel zwischen Betreibern und Live-Kundensupport, falls Sie Dual-SIM-Einrichtungsprobleme haben. Mit einer [kostenlosen eSIM-Testversion](/free-esim/) können Sie die vollständige Einrichtung üben. Der Code **WEB20** gewährt 20 % Rabatt auf jeden Tarif.
 
 <script type="application/ld+json">
 {

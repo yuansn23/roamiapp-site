@@ -65,7 +65,7 @@ Ihre eSIM wird endlich aktiviert, Sie landen in China, und... nichts funktionier
 
 Dieser Leitfaden behandelt jedes häufige China eSIM-Problem in einem direkten Problem-Ursache-Lösungs-Format. Scrollen Sie zu Ihrem Problem oder lesen Sie den gesamten Leitfaden für eine vollständige Fehlerbehebung. Informationen zur offiziellen Gerätekompatibilität finden Sie auf [Apple's eSIM-Support-Seite](https://support.apple.com/en-us/HT212780).
 
-**Brauchen Sie sofort Hilfe?** [Roami](/china-esim/) bietet 24/7 Live-Kundensupport – echte Menschen, keine Chatbots. Verwenden Sie den Gutscheincode **WEB20** für einen Rabatt, oder testen Sie die [kostenlose eSIM-Testversion](/free-esim/) vor Ihrer Reise.
+**Brauchen Sie sofort Hilfe?** [Roami](/)  bietet 24/7 Live-Kundensupport – echte Menschen, keine Chatbots. Verwenden Sie den Gutscheincode **WEB20** für einen Rabatt, oder testen Sie die [kostenlose eSIM-Testversion](/free-esim/) vor Ihrer Reise.
 
 ---
 

@@ -86,7 +86,7 @@ Dieser Leitfaden vergleicht alle Anbieter, die eine US-Nummer in ihren eSIM-Tari
 
 ## Warum ist eine US-Telefonnummer für meine USA eSIM nützlich?
 
-Nicht jeder Reisende braucht eine US-Nummer. Für 80 % der Touristen sind reine Datentarife von Anbietern wie [**Roami**](/usa-esim/), Airalo oder Ubigi völlig ausreichend. Eine US-Nummer wird erst in diesen Situationen wichtig:
+Nicht jeder Reisende braucht eine US-Nummer. Für 80 % der Touristen sind reine Datentarife von Anbietern wie [**Roami**](/) , Airalo oder Ubigi völlig ausreichend. Eine US-Nummer wird erst in diesen Situationen wichtig:
 
 - **Bank-Bestätigungscodes:** US-Banken und Finanzdienste senden SMS-Verifizierungscodes an Ihre hinterlegte Nummer
 - **Hotel- und Restaurantanrufe:** Reservierungen, Änderungen oder Nachfragen per Telefon
@@ -231,14 +231,14 @@ Für detaillierte Dual-SIM-Anleitungen siehe unseren [Dual-eSIM Einrichtungsleit
 | Nationalpark-Roadtrip | Visible oder US Mobile (Verizon) | Unbegrenzt | $25 |
 | Minimales Budget, nur SMS | Tello | 1 GB + 100 Min. | $6 |
 
-Für Reisende, die keine US-Nummer benötigen, bietet [**Roami**](/united-states-esim/) flexible Datentarife mit automatischem Wechsel zwischen T-Mobile, AT&T und Verizon – ideal für Roadtrips und Gebiete mit wechselnder Abdeckung.
+Für Reisende, die keine US-Nummer benötigen, bietet [**Roami**](/)  flexible Datentarife mit automatischem Wechsel zwischen T-Mobile, AT&T und Verizon – ideal für Roadtrips und Gebiete mit wechselnder Abdeckung.
 
 ---
 
 ## Häufig gestellte Fragen
 
 **Brauche ich eine US-Telefonnummer für meine USA eSIM?**
-Für die meisten Reisenden: nein. Reine Datentarife von [**Roami**](/usa-esim/), Airalo oder Holafly funktionieren perfekt für WhatsApp, Google Maps, Uber und Social Media. Eine US-Nummer brauchen Sie nur, wenn Sie SMS-Bestätigungscodes empfangen, US-Dienste registrieren oder lokale Anrufe tätigen müssen.
+Für die meisten Reisenden: nein. Reine Datentarife von [**Roami**](/) , Airalo oder Holafly funktionieren perfekt für WhatsApp, Google Maps, Uber und Social Media. Eine US-Nummer brauchen Sie nur, wenn Sie SMS-Bestätigungscodes empfangen, US-Dienste registrieren oder lokale Anrufe tätigen müssen.
 
 **Kann ich mit einer USA eSIM telefonieren?**
 Ja – wenn Ihr Tarif Sprachunterstützung beinhaltet. Tello, Google Fi und die Prepaid-Tarife der drei großen US-Anbieter unterstützen alle Anrufe mit einer US-Nummer. Reine Daten-eSIMs unterstützen nur VoIP-Anrufe (WhatsApp, FaceTime, Skype).

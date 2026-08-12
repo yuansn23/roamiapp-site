@@ -66,7 +66,7 @@ recentPosts:
     permalink: "/faq/esim-vs-physical-sim-pros-cons/"
     date: "2026-06-29"
   - title: "最新のeSIM互換性リスト"
-    permalink: "/faq/compatibility/"
+    permalink: "/compatibility/"
     date: "2026-06-29"
 ---
 

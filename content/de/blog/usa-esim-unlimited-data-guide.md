@@ -93,9 +93,9 @@ Einige Unlimited-Tarife bieten Ihnen wirklich unbegrenztes Highspeed-Datenvolume
 
 Für USA eSIM-Preise siehe unseren [USA eSIM-Preisleitfaden](/blog/usa-esim-price-guide/). Für Abdeckungsdetails siehe unseren [USA eSIM-Abdeckungsleitfaden](/blog/usa-esim-coverage-guide/).
 
-Dieser Leitfaden vergleicht jeden Unlimited-[USA eSIM](/usa-esim/)-Tarif auf dem Markt, erklärt das Kleingedruckte und sagt Ihnen, welcher tatsächlich liefert. [Trustpilot-Bewertungen](https://www.trustpilot.com/) heben immer wieder die Lücke zwischen beworbenen Unlimited-Tarifen und tatsächlichen Hotspot-Einschränkungen hervor. Wenn Sie stattdessen Tarife mit festem Datenvolumen vergleichen, schlüsselt der [USA eSIM-Preisleitfaden](/blog/usa-esim-price-guide/) die Preise auf jeder Datenstufe auf.
+Dieser Leitfaden vergleicht jeden Unlimited-[USA eSIM](/united-states-esim/)-Tarif auf dem Markt, erklärt das Kleingedruckte und sagt Ihnen, welcher tatsächlich liefert. [Trustpilot-Bewertungen](https://www.trustpilot.com/) heben immer wieder die Lücke zwischen beworbenen Unlimited-Tarifen und tatsächlichen Hotspot-Einschränkungen hervor. Wenn Sie stattdessen Tarife mit festem Datenvolumen vergleichen, schlüsselt der [USA eSIM-Preisleitfaden](/blog/usa-esim-price-guide/) die Preise auf jeder Datenstufe auf.
 
-Wenn Sie einen Anbieter in Betracht ziehen, der automatischen Netzwechsel und Live-Support zusammen mit seinen Tarifen anbietet, lohnt es sich, eine [USA eSIM](/usa-esim/) vor der Entscheidung für einen Unlimited-Tarif zu prüfen.
+Wenn Sie einen Anbieter in Betracht ziehen, der automatischen Netzwechsel und Live-Support zusammen mit seinen Tarifen anbietet, lohnt es sich, eine [USA eSIM](/united-states-esim/) vor der Entscheidung für einen Unlimited-Tarif zu prüfen.
 
 ---
 
@@ -142,7 +142,7 @@ Jeder Unlimited-Tarif hat Einschränkungen, die in den Allgemeinen Geschäftsbed
 | Visible | $25/Monat | Keins (wirklich unbegrenzt) | Unbegrenzt (5 Mbit/s) | Verizon | Abgelegene Gebiete |
 | Google Fi | $65/Monat | Keins (wirklich unbegrenzt) | Volle Geschwindigkeit | T-Mobile | Mehrere Geräte |
 
-Für Reisende, die einen Anbieter wünschen, der automatisch zwischen Carriern wechselt – besonders wenn Sie mehrere Regionen mit unterschiedlicher Netzabdeckung besuchen – kann eine [USA eSIM](/usa-esim/) mit automatischem Netzwechsel die oben genannten Unlimited-Data-Angebote ergänzen.
+Für Reisende, die einen Anbieter wünschen, der automatisch zwischen Carriern wechselt – besonders wenn Sie mehrere Regionen mit unterschiedlicher Netzabdeckung besuchen – kann eine [USA eSIM](/united-states-esim/) mit automatischem Netzwechsel die oben genannten Unlimited-Data-Angebote ergänzen.
 
 **Weitere Unlimited- und High-Data-Tarife, die erwägenswert sind**
 
@@ -489,7 +489,7 @@ Der Unterschied zwischen 480p und 1080p ist auf einem Telefonbildschirm erheblic
 | Mit der Familie reisen | Google Fi | Multi-Geräte-Freigabe |
 | Ländliche Gebiete besuchen | Visible (Verizon) | Verizons LTE erreicht überall |
 
-Für Reisende, die die Flexibilität wünschen, zwischen Unlimited- und Festdaten-Tarifen nach Bedarf zu wechseln, oder die einen Anbieter bevorzugen, der die Netzauswahl automatisch verwaltet, ist eine [USA eSIM](/usa-esim/) mit flexiblen Tarifoptionen eine Überlegung wert.
+Für Reisende, die die Flexibilität wünschen, zwischen Unlimited- und Festdaten-Tarifen nach Bedarf zu wechseln, oder die einen Anbieter bevorzugen, der die Netzauswahl automatisch verwaltet, ist eine [USA eSIM](/united-states-esim/) mit flexiblen Tarifoptionen eine Überlegung wert.
 
 ---
 
@@ -610,7 +610,7 @@ Für unbegrenzte Daten in Alaska ist Visible (Verizon) die beste Option. Verizon
 
 ---
 
-[Roami](/united-states-esim/) bietet automatischen Netzwechsel zwischen Carriern und Live-Kundensupport, falls Sie Probleme mit Ihrem Datentarif haben. Eine [kostenlose eSIM-Testversion](/free-esim/) ermöglicht es Ihnen, die Einrichtung vor der Entscheidung zu testen. Der Code **WEB20** gewährt 20 % Rabatt auf jeden Tarif.
+[Roami](/)  bietet automatischen Netzwechsel zwischen Carriern und Live-Kundensupport, falls Sie Probleme mit Ihrem Datentarif haben. Eine [kostenlose eSIM-Testversion](/free-esim/) ermöglicht es Ihnen, die Einrichtung vor der Entscheidung zu testen. Der Code **WEB20** gewährt 20 % Rabatt auf jeden Tarif.
 
 Für USA eSIM-Anbietervergleiche siehe unser [USA eSIM-Anbieter-Ranking](/blog/usa-esim-ranking-comparison-2026/).
 

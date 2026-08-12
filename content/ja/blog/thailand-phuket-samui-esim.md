@@ -65,7 +65,7 @@ recentPosts:
     permalink: "/faq/esim-vs-physical-sim-pros-cons/"
     date: "2026-07-01"
   - title: "最新のeSIM互換性リスト"
-    permalink: "/faq/compatibility/"
+    permalink: "/compatibility/"
     date: "2026-07-01"
 ---
 
@@ -162,7 +162,7 @@ OpenSignalの[タイ・モバイルネットワーク体験レポート](https:/
 
 ## 滞在日数別・離島でのデータ容量目安
 
-プーケットやサムイ島での滞在日数に応じた推奨容量をまとめた。より細かい試算は[タイeSIMデータ容量計算機](/thailand-esim-data-calculator/)を参照。
+プーケットやサムイ島での滞在日数に応じた推奨容量をまとめた。より細かい試算は[タイeSIMデータ容量計算機](/blog/thailand-esim-data-calculator/)を参照。
 
 | 滞在期間 | 滞在先 | おすすめ容量 | 想定利用シーン | 料金目安 |
 |---------|-------|------------|--------------|---------|

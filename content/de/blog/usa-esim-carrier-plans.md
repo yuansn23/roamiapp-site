@@ -148,7 +148,7 @@ Die T-Mobile-Touristen-eSIM hat den schnellsten Aktivierungsprozess unter den dr
 
 ---
 
-## Welches US-Netz ist das beste – T-Mobile, AT&T oder Verizon für [usa esim](/usa-esim/)?
+## Welches US-Netz ist das beste – T-Mobile, AT&T oder Verizon für [usa esim](/united-states-esim/)?
 
 | Netzwerk | Stadt-Geschwindigkeit | Ländliche Abdeckung | Prepaid-eSIM | Preis (Einstieg) | Am besten für |
 |:--------|:----------:|:--------------:|:-----------:|:------------:|:---------|
@@ -346,7 +346,7 @@ Die Aktivierung einer Verizon-Prepaid-eSIM als Nicht-US-Bürger erfordert folgen
 
 MVNOs (Mobile Virtual Network Operator) mieten Kapazitäten bei den großen drei Netzen und verkaufen sie günstiger. Sie sind eine gute Option, wenn Sie keinen physischen Store-Support benötigen.
 
-**Tello [usa esim](/usa-esim/) mit Telefonnummer – Bewertung**
+**Tello [usa esim](/united-states-esim/) mit Telefonnummer – Bewertung**
 Tello nutzt das Netz von T-Mobile und ist einer der beliebtesten MVNOs für Reisende. Die Pay-as-you-go-Tarife sind einfach: Wählen Sie Datenmenge und Gültigkeitsdauer.
 
 **Tarife:**
@@ -444,7 +444,7 @@ Für Fehlerbehebung siehe unseren [USA eSIM-Troubleshooting-Leitfaden](/blog/usa
 
 **Wählen Sie einen Carrier-Tarif, wenn:** Sie in sehr abgelegene Gebiete fahren. Sie die Möglichkeit haben möchten, in eine Filiale zu gehen, um Hilfe zu bekommen. Sie eine US-Telefonnummer benötigen und bereit sind, dafür mehr zu bezahlen.
 
-**Wählen Sie eine internationale eSIM, wenn:** Sie ein begrenztes Budget haben. Ihre Reise auf Städte beschränkt ist. Sie keine US-Nummer benötigen. Wenn Sie zwischen einem Carrier-Tarif und einer [usa esim](/usa-esim/) abwägen, bedenken Sie, dass letztere automatischen Netzwechsel und Live-Support ohne ID-Überprüfung bietet.
+**Wählen Sie eine internationale eSIM, wenn:** Sie ein begrenztes Budget haben. Ihre Reise auf Städte beschränkt ist. Sie keine US-Nummer benötigen. Wenn Sie zwischen einem Carrier-Tarif und einer [usa esim](/united-states-esim/) abwägen, bedenken Sie, dass letztere automatischen Netzwechsel und Live-Support ohne ID-Überprüfung bietet.
 
 **Wählen Sie einen MVNO, wenn:** Sie eine US-Nummer ohne Carrier-Aufschlag wünschen. Ihr Aufenthalt lang genug ist, um einen 30-Tage-Tarif zu rechtfertigen.
 

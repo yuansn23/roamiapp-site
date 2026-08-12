@@ -82,7 +82,7 @@ Die Wahl der besten eSIM für eine Geschäftsreise in die USA beginnt mit Ihrem 
 
 T-Mobile versorgt 330 Millionen Menschen mit 5G, aber Verizon hat die bessere Abdeckung in ländlichen Gebieten. Dieser Leitfaden vergleicht die besten USA eSIM-Tarife für Remote-Arbeit, lange Aufenthalte und Geschäftsreisen.
 
-Wenn Sie eine [usa esim](/usa-esim/) für die geschäftliche Nutzung vor der endgültigen Entscheidung testen möchten, können Sie eine [kostenlose eSIM-Testversion](/free-esim/) nutzen, die Sie durch den gesamten Einrichtungsprozess führt. Der Code **WEB20** gewährt 20 % Rabatt auf jeden Tarif.
+Wenn Sie eine [usa esim](/united-states-esim/) für die geschäftliche Nutzung vor der endgültigen Entscheidung testen möchten, können Sie eine [kostenlose eSIM-Testversion](/free-esim/) nutzen, die Sie durch den gesamten Einrichtungsprozess führt. Der Code **WEB20** gewährt 20 % Rabatt auf jeden Tarif.
 
 ---
 
@@ -169,9 +169,9 @@ Die **beste eSIM für USA-Geschäftsreisen** hängt von Ihren spezifischen Anfor
 | Google Fi | Volle Geschwindigkeit | Ja | $65 unbegrenzt | Multi-Geräte-Reisende |
 | AT&T Prepaid | Enthalten | Ja | $30 (30 GB) | Benötigt ländliche Abdeckung |
 | Saily | Unbegrenzt | Nein | $27 (10 GB) | Datenschutz + Hotspot |
-| [**USA eSIM**](/usa-esim/) | **Unbegrenzt** | **Nein** | **Variiert je nach Tarif** | **Automatischer Netzwerkwechsel + echter Support** |
+| [**USA eSIM**](/united-states-esim/) | **Unbegrenzt** | **Nein** | **Variiert je nach Tarif** | **Automatischer Netzwerkwechsel + echter Support** |
 
-Für Geschäftsreisende, die Zuverlässigkeit über alles stellen, verbindet sich eine [usa esim](/usa-esim/) mit automatischem Netzwerkwechsel mit dem stärksten verfügbaren Signal – ob in einem Hochhaus in Manhattan, einem Kongresszentrum in Las Vegas oder einem ländlichen Kundengelände. Die Tarife beinhalten unbegrenzten Hotspot mit echtem menschlichem Support rund um die Uhr.
+Für Geschäftsreisende, die Zuverlässigkeit über alles stellen, verbindet sich eine [usa esim](/united-states-esim/) mit automatischem Netzwerkwechsel mit dem stärksten verfügbaren Signal – ob in einem Hochhaus in Manhattan, einem Kongresszentrum in Las Vegas oder einem ländlichen Kundengelände. Die Tarife beinhalten unbegrenzten Hotspot mit echtem menschlichem Support rund um die Uhr.
 
 **Realer Geschwindigkeitsvergleich nach US-Geschäftsstädten**
 Die Netzwerkgeschwindigkeiten variieren erheblich von Stadt zu Stadt. So schneiden die drei großen US-Anbieter in wichtigen Geschäftszielen ab, basierend auf [OpenSignals US Mobile Network Experience Report](https://www.opensignal.com/reports):
@@ -296,7 +296,7 @@ Das Verständnis der Verlängerungsrichtlinien verhindert unerwartete Dienstunte
 
 Für eine 5-tägige Konferenz bieten **Ubigis 10 GB für $12** oder **Tellos 10 GB für $15** beide genügend Daten mit unterschiedlichen Funktionen (Tello fügt eine US-Nummer hinzu).
 
-Für Konferenzen, bei denen das WLAN vor Ort unzuverlässig ist und mehrere Netzbetreiber wichtig sind, ist eine [usa esim](/usa-esim/) mit automatischem Netzwerkwechsel eine starke Alternative – die Möglichkeit, zwischen Netzwerken zu wechseln, bedeutet, dass die Überlastung eines Anbieters Sie nicht offline hält.
+Für Konferenzen, bei denen das WLAN vor Ort unzuverlässig ist und mehrere Netzbetreiber wichtig sind, ist eine [usa esim](/united-states-esim/) mit automatischem Netzwerkwechsel eine starke Alternative – die Möglichkeit, zwischen Netzwerken zu wechseln, bedeutet, dass die Überlastung eines Anbieters Sie nicht offline hält.
 
 **WLAN im Kongresszentrum vs. eSIM: Leistung in der Praxis**
 Das WLAN in Kongresszentren wie dem Las Vegas Convention Center (LVCC), McCormick Place und Javits Center ist während der Hauptveranstaltungszeiten bekanntermaßen unzuverlässig. Laut [Ooklas Speedtest Intelligence](https://www.speedtest.net/global-index) können die WLAN-Geschwindigkeiten in Kongresszentren während der Keynotes auf unter 1 Mbit/s fallen, wenn Tausende von Teilnehmern gleichzeitig verbunden sind.
@@ -349,7 +349,7 @@ Moderne Konferenzen sind stark auf mobile Apps für Networking angewiesen. Hier 
 
 **Fazit:** Für die meisten Geschäftsreisenden mit einer 5-Tage-Woche deckt **Ubigis 10 GB für $12** E-Mail, Nachrichten und mäßige Videoanrufe ab. Für Vielnutzer von Videoanrufen sind **Tellos 10 GB für $15** oder **Ubigis 25 GB für $24** sicherer.
 
-Eine [usa esim](/usa-esim/) mit automatischem Netzbetreiberwechsel ist besonders nützlich für Remote-Arbeiter, die zwischen verschiedenen Städten reisen und eine konsistente Roami-Abdeckung über mehrere Netzwerke benötigen.
+Eine [usa esim](/united-states-esim/) mit automatischem Netzbetreiberwechsel ist besonders nützlich für Remote-Arbeiter, die zwischen verschiedenen Städten reisen und eine konsistente Roami-Abdeckung über mehrere Netzwerke benötigen.
 
 **Auswirkung der VPN-Nutzung auf den Datenverbrauch**
 Für Geschäftsreisende, die ein VPN nutzen (empfohlen für die Sicherheit in öffentlichen WLANs), hier ist, wie sich der VPN-Overhead auf den Datenverbrauch auswirkt:
@@ -469,13 +469,13 @@ Die [IRS Publication 463](https://www.irs.gov/publications/p463) (Reise-, Gesche
 
 **Tello und Ubigi:** Beide unterstützen Hotspot-Tethering, sodass Sie die Datenverbindung Ihres Telefons mit Ihrem Laptop oder Tablet teilen können. Ubigi bietet unbegrenzten Hotspot ohne Drosselung – perfekt für die Laptop-Arbeit. Tellos Hotspot nutzt die Daten Ihres Tarifs (unbegrenzter Tarif für $35 ist am besten für starke Nutzung).
 
-Eine [usa esim](/usa-esim/) mit unbegrenztem Hotspot ist ebenfalls eine gute Wahl für Reisende, die häufig Geräte tethern, ohne sich um Grenzen sorgen zu müssen.
+Eine [usa esim](/united-states-esim/) mit unbegrenztem Hotspot ist ebenfalls eine gute Wahl für Reisende, die häufig Geräte tethern, ohne sich um Grenzen sorgen zu müssen.
 
 **Multi-Geräte-Empfehlung:**
 - Google Fi: Am besten für Reisende mit 3+ Geräten (Telefon + Tablet + Laptop)
 - Ubigi 25 GB + Hotspot: Am besten für datenintensive Laptop-Arbeit
 - Tello unbegrenzt + Hotspot: Am besten für Laptop-Arbeit + US-Telefonnummer
-- [usa esim](/usa-esim/): Am besten für Reisende, die Netzwerkzuverlässigkeit in mehreren Städten priorisieren
+- [usa esim](/united-states-esim/): Am besten für Reisende, die Netzwerkzuverlässigkeit in mehreren Städten priorisieren
 
 **Hotspot-Akkuverbrauch für ganztägige Arbeit**
 Die Nutzung Ihres Telefons als Hotspot entlädt den Akku erheblich. Hier ist der zu erwartende Akkuverbrauch:
@@ -513,7 +513,7 @@ Für Geschäftsreisende, die täglich 4+ Stunden Hotspot nutzen, ist eine Powerb
 
 **Ubigis 10-GB-Nordamerika-Tarif für $12** ist das beste Preis-Leistungs-Verhältnis für Reisende, die mehrere Länder besuchen. Tello bietet Kanada- und Mexiko-Roaming als Zusatzoption an, aber es ist günstiger, einen Nordamerika-Tarif von Ubigi oder Airalo zu kaufen, wenn Sie wissen, dass Sie Grenzen überqueren werden.
 
-Eine [usa esim](/usa-esim/) mit automatischem Wechsel bedeutet, dass Sie sich keine Sorgen um die manuelle Netzwerkauswahl machen müssen, wenn Sie zwischen den USA, Kanada und Mexiko wechseln.
+Eine [usa esim](/united-states-esim/) mit automatischem Wechsel bedeutet, dass Sie sich keine Sorgen um die manuelle Netzwerkauswahl machen müssen, wenn Sie zwischen den USA, Kanada und Mexiko wechseln.
 
 **Google Fis Simply Unlimited** beinhaltet Kanada und Mexiko ohne zusätzliche Kosten, was es zu einer guten Wahl für Reisende mit Mehrländer-Reiserouten macht.
 
@@ -562,7 +562,7 @@ Laut den [Roaming-Richtlinien der GSMA](https://www.gsma.com/esim/) sind eSIMs s
 
 **Fazit:** Google Fi ist am besten für häufige USA-Besucher geeignet, die mehrere Geräte nutzen. Für Einzeltelefon-Reisende bieten Tello oder Ubigi einen besseren Wert.
 
-Für Reisende, die zuverlässige Abdeckung in verschiedenen US-Regionen priorisieren, bietet eine [usa esim](/usa-esim/) mit automatischem Wechsel ein anderes Wertversprechen – es geht nicht um Multi-Geräte-Unterstützung, sondern um Netzwerkverfügbarkeit.
+Für Reisende, die zuverlässige Abdeckung in verschiedenen US-Regionen priorisieren, bietet eine [usa esim](/united-states-esim/) mit automatischem Wechsel ein anderes Wertversprechen – es geht nicht um Multi-Geräte-Unterstützung, sondern um Netzwerkverfügbarkeit.
 
 **Google Fi Daten-only-SIMs für Tablets und Laptops**
 Für Geschäftsreisende, die ein Tablet oder einen Laptop ohne Hotspot-Tethering verbinden möchten, bietet Google Fi Daten-only-SIMs an:
@@ -608,7 +608,7 @@ Für Geschäftsreisende, die ein Tablet oder einen Laptop ohne Hotspot-Tethering
 - Google Fi: Nahtlos, kein Hotspot-Aufwand
 - Ubigi + Hotspot: Günstiger ($24 für 25 GB), erfordert aber, dass Ihr Telefon in der Nähe bleibt
 - Tello + Hotspot: Am besten, wenn Sie eine US-Nummer benötigen ($35 für unbegrenzt)
-- [usa esim](/usa-esim/) + Hotspot: Am besten, wenn Sie automatischen Netzwerkwechsel und unbegrenzten Hotspot wünschen
+- [usa esim](/united-states-esim/) + Hotspot: Am besten, wenn Sie automatischen Netzwerkwechsel und unbegrenzten Hotspot wünschen
 
 **eSIM-Wechsel zwischen Telefonen**
 Wenn Sie während einer Reise das Telefon wechseln (z. B. wenn der Akku Ihres Haupttelefons leer ist), hier ist, wie die eSIM-Portabilität bei den Anbietern funktioniert:
@@ -723,7 +723,7 @@ Für Windows-Laptops, die eine Verbindung zu einem Telefon-Hotspot herstellen:
 ## Häufig gestellte Fragen
 
 **Was ist die beste eSIM für eine US-Geschäftsreise? Tello bietet Ihnen eine US-Telefonnummer für Kundenanrufe und das beste Preis-Leistungs-Verhältnis pro GB unter den Anbietern mit Sprachunterstützung. Für datenintensive Arbeit ohne Anrufe bietet Ubigi unbegrenzten Hotspot zum niedrigsten Preis pro GB. Für Multi-Geräte-Reisende funktioniert Google Fis Simply Unlimited auf Telefonen, Tablets und Laptops.**
-Für Reisende, die die zuverlässigste Abdeckung in verschiedenen US-Regionen benötigen, ist eine [usa esim](/usa-esim/) mit automatischem Netzwerkwechsel eine gute Wahl. Eine vollständige [USA eSIM-Rangliste](/blog/usa-esim-ranking-comparison-2026/) aller Anbieter finden Sie in unserer detaillierten Übersicht.
+Für Reisende, die die zuverlässigste Abdeckung in verschiedenen US-Regionen benötigen, ist eine [usa esim](/united-states-esim/) mit automatischem Netzwerkwechsel eine gute Wahl. Eine vollständige [USA eSIM-Rangliste](/blog/usa-esim-ranking-comparison-2026/) aller Anbieter finden Sie in unserer detaillierten Übersicht.
 
 **Benötige ich eine US-Telefonnummer für eine Geschäftsreise in die USA?**
 Wenn Sie lokale Anrufe tätigen, SMS-Bestätigungen empfangen oder Kunden eine Nummer geben müssen, ja. Wenn die gesamte Kommunikation über E-Mail, Slack oder WhatsApp läuft, ist reine Daten ausreichend. Tello bietet das beste Preis-Leistungs-Verhältnis für Reisende, die sowohl Daten als auch eine US-Nummer benötigen.
@@ -738,7 +738,7 @@ Es kommt darauf an. Ja, wenn Sie mit mehreren Geräten (Telefon, Tablet, Laptop)
 Direkt (ohne Hotspot): nur Google Fi unterstützt dies. Indirekt: alle Anbieter erlauben Hotspot-Sharing von Ihrem Telefon zu Ihrem Laptop oder Tablet. Google Fi ist der einzige Anbieter, der es Ihnen ermöglicht, denselben eSIM-Tarif auf mehreren Geräten ohne Tethering zu nutzen.
 
 **Was ist die beste eSIM für einen einmonatigen Aufenthalt? Tellos unbegrenzter Tarif für $35 mit US-Nummer ist das beste Preis-Leistungs-Verhältnis für lange Aufenthalte. Wenn Sie AT&T- oder Verizon-Abdeckung für ländliche Reisen benötigen, ist AT&T Prepaid für $30 für 30 GB eine gute Alternative. Für digitale Nomaden, die nur Daten benötigen, ist Ubigis 25-GB-Tarif für $24 die günstigste Option pro GB.**
-Für Reisende, die die breiteste Abdeckung über mehrere Netzbetreiber benötigen, bietet eine [usa esim](/usa-esim/) mit automatischem Wechsel eine Zuverlässigkeit, die Einzelanbieter-Tarife nicht bieten können.
+Für Reisende, die die breiteste Abdeckung über mehrere Netzbetreiber benötigen, bietet eine [usa esim](/united-states-esim/) mit automatischem Wechsel eine Zuverlässigkeit, die Einzelanbieter-Tarife nicht bieten können.
 
 **Wie viel Hotspot-Daten benötige ich für Remote-Arbeit?**
 Ein typischer Remote-Arbeitstag verbraucht 2-5 GB mit Videoanrufen, Cloud-Synchronisation und VPN. Ubigis 25-GB-Tarif für $24 deckt 5-12 Arbeitstage ab. Tellos unbegrenzter Tarif für $35 deckt einen ganzen Monat ab. Planen Sie mindestens 10 GB pro Woche für Remote-Arbeit ein.
@@ -776,7 +776,7 @@ Die meisten Anbieter senden sofort nach dem Kauf Belege per E-Mail. Für Unterne
 | **Nordamerika-Regional** | Ubigi | 10 GB/$12 | USA + Kanada + Mexiko |
 | **50GB+ Vielnutzer** | T-Mobile Prepaid | 50 GB/$35 | Meiste Daten, US-Nummer enthalten |
 | **Ländliche Abdeckung benötigt** | AT&T Prepaid | 30 GB/$30 | AT&T-Netzwerk beste ländliche Abdeckung |
-| **Netzwerkzuverlässigkeit fokussiert** | [**USA eSIM**](/usa-esim/) | Flexibel | Automatischer Wechsel zwischen T-Mobile, AT&T und Verizon |
+| **Netzwerkzuverlässigkeit fokussiert** | [**USA eSIM**](/united-states-esim/) | Flexibel | Automatischer Wechsel zwischen T-Mobile, AT&T und Verizon |
 
 **Abschließende Empfehlungen nach Art der Geschäftsreise:**
 | Art der Geschäftsreise | Beste Lösung | Geschätzte monatliche Kosten |
@@ -790,7 +790,7 @@ Die meisten Anbieter senden sofort nach dem Kauf Belege per E-Mail. Für Unterne
 
 ---
 
-Eine [usa esim](/usa-esim/) mit automatischem Netzwerkwechsel ist ideal für Reisende, die auf Geschäftsreisen zuverlässige Konnektivität benötigen. Eine [kostenlose eSIM-Testversion](/free-esim/) ermöglicht es Ihnen, das Setup vor der endgültigen Entscheidung zu testen. Der Code **WEB20** gewährt 20 % Rabatt auf jeden Tarif.
+Eine [usa esim](/united-states-esim/) mit automatischem Netzwerkwechsel ist ideal für Reisende, die auf Geschäftsreisen zuverlässige Konnektivität benötigen. Eine [kostenlose eSIM-Testversion](/free-esim/) ermöglicht es Ihnen, das Setup vor der endgültigen Entscheidung zu testen. Der Code **WEB20** gewährt 20 % Rabatt auf jeden Tarif.
 
 <script type="application/ld+json">
 {

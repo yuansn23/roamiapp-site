@@ -65,7 +65,7 @@ regions:
         url: "/singapore-esim/"
       - name: "ОАЭ"
         slug: "uae"
-        url: "/uae-esim/"
+        url: "/united-arab-emirates-esim/"
       - name: "Индия"
         slug: "india"
         url: "/india-esim/"

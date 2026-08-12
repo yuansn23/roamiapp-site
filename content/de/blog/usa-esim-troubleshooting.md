@@ -78,7 +78,7 @@ recentPosts:
 
 Eine USA eSIM sollte Ihre Reise einfacher machen – nicht komplizierter. Doch selbst bei bester Vorbereitung können technische Probleme auftreten: Der QR-Code wird nicht erkannt, die Verbindung bricht in ländlichen Gebieten ab, oder die Aktivierung schlägt nach der Landung fehl.
 
-Dieser Leitfaden deckt die häufigsten USA eSIM Probleme ab und bietet konkrete Lösungen für jede Situation. Egal ob Sie [**USA eSIM**](/usa-esim/) von Roami, Airalo, Holafly, Ubigi oder einem anderen Anbieter nutzen – die Fehlerbehebungsmethoden sind weitgehend übertragbar. Aktuelle Netzabdeckungsdaten und Geschwindigkeitstests finden Sie bei [OpenSignal](https://www.opensignal.com/).
+Dieser Leitfaden deckt die häufigsten USA eSIM Probleme ab und bietet konkrete Lösungen für jede Situation. Egal ob Sie [**USA eSIM**](/united-states-esim/) von Roami, Airalo, Holafly, Ubigi oder einem anderen Anbieter nutzen – die Fehlerbehebungsmethoden sind weitgehend übertragbar. Aktuelle Netzabdeckungsdaten und Geschwindigkeitstests finden Sie bei [OpenSignal](https://www.opensignal.com/).
 
 Die [GSMA eSIM-Spezifikationen](https://www.gsma.com/esim/) definieren die technischen Standards, die allen eSIM-Anbietern zugrunde liegen. Wenn Sie verstehen, wie das System funktioniert, können Sie die meisten Probleme selbst lösen.
 
@@ -144,7 +144,7 @@ Dies ist besonders relevant für Roadtrips und Nationalpark-Besuche. Kein einzel
 - Verizon erreicht viele ländliche Gebiete, aber nicht alle
 
 **Lösungen:**
-1. **Multi-Netzwerk-eSIM wählen:** Anbieter wie [**Roami**](/usa-esim/) wechseln automatisch zwischen T-Mobile, AT&T und Verizon. Wenn ein Netzwerk ausfällt, übernimmt das nächste – ohne manuellen Eingriff.
+1. **Multi-Netzwerk-eSIM wählen:** Anbieter wie [**Roami**](/)  wechseln automatisch zwischen T-Mobile, AT&T und Verizon. Wenn ein Netzwerk ausfällt, übernimmt das nächste – ohne manuellen Eingriff.
 2. **Manuelle Netzwerkauswahl:** Wenn Ihre eSIM auf einen Anbieter beschränkt ist, versuchen Sie manuell ein anderes Netzwerk auszuwählen (falls Ihr Tarif dies erlaubt).
 3. **Offline-Karten:** Laden Sie Google Maps für Ihre Zielregion herunter, bevor Sie in Gebiete mit schwachem Empfang fahren.
 4. **Netzwerkabdeckung vor der Reise prüfen:** Die [FCC Breitbandkarte](https://broadbandmap.fcc.gov/home) zeigt die Mobilfunkabdeckung für jeden US-Anbieter.
@@ -194,7 +194,7 @@ Airalo hat eine strikte Richtlinie: Wenn Sie ein eSIM-Profil löschen, ist es da
 Holaflys "unbegrenzte" Tarife drosseln nach etwa 2-5 GB pro Tag auf 128 kbit/s. Dies ist keine Fehlfunktion, sondern die Fair-Use-Policy. Die Geschwindigkeit wird um Mitternacht zurückgesetzt.
 
 **Roami: Netzwerkwechsel als Lösung**
-Im Gegensatz zu Anbietern, die auf ein einzelnes Netz beschränkt sind, wechselt [**Roami**](/united-states-esim/) automatisch zwischen T-Mobile, AT&T und Verizon. Wenn Sie Verbindungsprobleme haben, versucht die eSIM automatisch alternative Netze – Sie müssen nichts tun. Der 24/7-Support antwortet in unter 10 Sekunden.
+Im Gegensatz zu Anbietern, die auf ein einzelnes Netz beschränkt sind, wechselt [**Roami**](/)  automatisch zwischen T-Mobile, AT&T und Verizon. Wenn Sie Verbindungsprobleme haben, versucht die eSIM automatisch alternative Netze – Sie müssen nichts tun. Der 24/7-Support antwortet in unter 10 Sekunden.
 
 ---
 
@@ -244,10 +244,10 @@ Selbst mit der besten Vorbereitung sollten Sie ein Backup haben:
 Die häufigsten Ursachen sind: Datenroaming ist nicht aktiviert, die eSIM ist nicht als Datenleitung konfiguriert, oder die erste Netzwerkregistrierung ist noch nicht abgeschlossen. Aktivieren Sie Datenroaming für die eSIM-Leitung, schalten Sie den Flugmodus für 30 Sekunden ein und aus, und warten Sie 5-10 Minuten.
 
 **Kann ich meine eSIM neu installieren, wenn ich sie versehentlich lösche?**
-Das hängt vom Anbieter ab. Airalo erlaubt keine Neuinstallation – das Profil ist dauerhaft verloren. Holafly und Ubigi können das Profil neu ausstellen. [**Roami**](/usa-esim/) bietet volle Neuinstallationsunterstützung. Kontaktieren Sie immer zuerst den Support, bevor Sie ein Profil löschen.
+Das hängt vom Anbieter ab. Airalo erlaubt keine Neuinstallation – das Profil ist dauerhaft verloren. Holafly und Ubigi können das Profil neu ausstellen. [**Roami**](/)  bietet volle Neuinstallationsunterstützung. Kontaktieren Sie immer zuerst den Support, bevor Sie ein Profil löschen.
 
 **Was mache ich, wenn meine eSIM in Nationalparks nicht funktioniert?**
-Nationalparks haben generell schwachen Mobilfunkempfang. Eine Multi-Netzwerk-eSIM wie [**Roami**](/united-states-esim/), die zwischen T-Mobile, AT&T und Verizon wechselt, bietet die beste Abdeckung. Laden Sie Offline-Karten herunter, bevor Sie Parks betreten. Verizon hat generell die beste ländliche und Nationalpark-Abdeckung.
+Nationalparks haben generell schwachen Mobilfunkempfang. Eine Multi-Netzwerk-eSIM wie [**Roami**](/) , die zwischen T-Mobile, AT&T und Verizon wechselt, bietet die beste Abdeckung. Laden Sie Offline-Karten herunter, bevor Sie Parks betreten. Verizon hat generell die beste ländliche und Nationalpark-Abdeckung.
 
 **Mein Telefon sagt, dass die eSIM nicht unterstützt wird?**
 Prüfen Sie drei Dinge: 1) Wählen Sie `*#06#` – erscheint eine 32-stellige EID? 2) Ist Ihr Telefon vom Heimanbieter entsperrt? 3) Ist Ihr Telefonmodell eSIM-kompatibel (iPhone XS+, Samsung S20+, Pixel 3+)? Geräte aus China und Hongkong haben oft eingeschränkte eSIM-Unterstützung.

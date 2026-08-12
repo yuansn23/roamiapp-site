@@ -84,7 +84,7 @@ Mit dieser Anleitung zur Einrichtung einer USA eSIM sind die meisten Nutzer in e
 
 Diese Anleitung führt durch jeden Schritt: Überprüfen der Telefonkompatibilität, Kauf des richtigen Tarifs, Installation des eSIM-Profils, Konfiguration der Dual-SIM-Einstellungen und Behebung häufiger Probleme, falls etwas nicht funktioniert. Falls Sie noch keinen Anbieter gewählt haben, hilft Ihnen der [USA eSIM-Ranking-Vergleich](/blog/usa-esim-ranking-comparison-2026/) bei der Auswahl.
 
-Für Reisende, die eine einfachere Einrichtung wünschen, kann eine [usa esim](/usa-esim/) mit automatischem Netzbetreiberwechsel die Netzwerkauswahl für Sie übernehmen – kein manuelles Umschalten zwischen T-Mobile, AT&T oder Verizon mehr.
+Für Reisende, die eine einfachere Einrichtung wünschen, kann eine [usa esim](/united-states-esim/) mit automatischem Netzbetreiberwechsel die Netzwerkauswahl für Sie übernehmen – kein manuelles Umschalten zwischen T-Mobile, AT&T oder Verizon mehr.
 
 Alle Anweisungen basieren auf iOS 18 und Android 15. Ältere Versionen können leicht abweichende Menünamen haben.
 
@@ -182,7 +182,7 @@ Die meisten Anbieter bieten Tarife von 1 GB bis zu unbegrenztem Datenvolumen an.
 | Tello | $5 für 1 GB | Benötigen Sie eine US-Telefonnummer | T-Mobile |
 | Nomad | $5.50 für 1 GB | Roadtrips, Nationalparks | AT&T + Verizon |
 | Holafly | $19.50 für 5 Tage | Unbegrenztes Datenvolumen | AT&T |
-| [usa esim](/usa-esim/) | $4.50 für 1 GB | Automatischer Netzwerkwechsel | T-Mobile + AT&T |
+| [usa esim](/united-states-esim/) | $4.50 für 1 GB | Automatischer Netzwerkwechsel | T-Mobile + AT&T |
 
 Der Kauf ist einfach: Gehen Sie auf die Website oder in die App des Anbieters, wählen Sie Ihren Tarif und zahlen Sie. Der QR-Code wird innerhalb weniger Minuten per E-Mail zugesandt. Der [USA eSIM-Preisvergleich](/blog/usa-esim-price-guide/) bietet eine vollständige Aufschlüsselung der Kosten aller Anbieter auf jeder Datenstufe.
 
@@ -733,7 +733,7 @@ Wenn Sie während Ihres Aufenthalts in den USA das Telefon wechseln (z.B. wenn I
 
 Eine USA eSIM ist in 5 Minuten installiert: QR-Code vom Anbieter scannen, Profil herunterladen, Datenroaming aktivieren — fertig. Dieser Leitfaden führt Sie Schritt für Schritt durch die Einrichtung auf iPhone und Android, inklusive manueller SM-DP+-Eingabe für den Fall dass der QR-Code nicht funktioniert.
 
-Eine [usa esim](/usa-esim/) mit automatischem Netzbetreiberwechsel hilft Ihnen, in Verbindung zu bleiben, ohne manuell Netzwerke auswählen zu müssen. Eine [kostenlose eSIM-Testversion](/free-esim/) ermöglicht es Ihnen, den gesamten Installationsprozess vor Ihrer Reise zu üben. Der Code **WEB20** gewährt 20 % Rabatt auf jeden Tarif.
+Eine [usa esim](/united-states-esim/) mit automatischem Netzbetreiberwechsel hilft Ihnen, in Verbindung zu bleiben, ohne manuell Netzwerke auswählen zu müssen. Eine [kostenlose eSIM-Testversion](/free-esim/) ermöglicht es Ihnen, den gesamten Installationsprozess vor Ihrer Reise zu üben. Der Code **WEB20** gewährt 20 % Rabatt auf jeden Tarif.
 
 <script type="application/ld+json">
 {
