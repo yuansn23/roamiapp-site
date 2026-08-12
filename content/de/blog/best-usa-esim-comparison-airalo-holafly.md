@@ -3,8 +3,8 @@ title: "Bester USA eSIM: Airalo vs. Holafly Vergleich"
 description: "Bester USA eSIM: Airalo vs. Holafly Vergleich. Preise und Netze im Test. Roami mit automatischem Wechsel zwischen allen US-Netzen."
 keywords: ["USA eSIM Vergleich", "Airalo vs Holafly", "beste USA eSIM", "USA eSIM Anbieter", "eSIM USA Test"]
 url: "/blog/best-usa-esim-comparison-airalo-holafly/"
-date: 2026-08-14T00:00:00Z
-lastmod: 2026-08-14T00:00:00Z
+date: 2026-08-11T00:00:00Z
+lastmod: 2026-08-11T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden mit einfachen eSIM-Tarifen, verbunden zu bleiben."
 image: "/img/blog/usa/best-usa-esim-comparison-airalo-holafly.jpg"

@@ -1,12 +1,11 @@
 ---
 title: "Transfert eSIM entre Android et iPhone – Guide 2026"
 h1_title: "Comment transférer votre eSIM entre Android et iPhone en 60 secondes (2026)"
-description: "Le guide 2026 de Roami pour transférer une eSIM entre iOS et Android en 60s. QR code, opérateurs compatibles, transfert cross-platform, sans attendre au téléphone."
-keywords: ["transfert eSIM multiplateforme", "eSIM Android vers iPhone", "eSIM iPhone vers Android", "transfert eSIM 2026", "Orange eSIM transfert", "SFR eSIM transfert", "Telekom eSIM transfert", "activation eSIM échouée", "eSIM pas de service", "erreur de transfert eSIM", "Apple eSIM", "eSIM voyage", "double eSIM", "verrouillage opérateur eSIM"]
-date: 2026-06-22T10:00:00Z
-lastmod: 2026-06-22T10:00:00Z
-tags: ["eSIM", "iOS", "Android", "Transfert", "Dépannage"]
+description: "Transférer une eSIM entre iPhone et Android en 2026 : QR code, saisie SM-DP+, migration opérateur. Guide iOS 26/Android 16 avec liste des opérateurs compatibles et dépannage."
+keywords: ["transfert eSIM multiplateforme", "eSIM Android vers iPhone", "eSIM iPhone vers Android", "transfert eSIM 2026", "Telekom eSIM transfert", "activation eSIM échouée", "eSIM pas de service", "erreur de transfert eSIM"]
 toc: true
+date: 2026-08-11T10:00:00Z
+lastmod: 2026-08-11T10:00:00Z
 
 # Configuration de base du site & SEO
 site_name: "Roami"
@@ -267,7 +266,7 @@ Apple a ajouté cette capacité dans **iOS 26.3** (sorti au début 2026). Le pro
 
 | Pays | Opérateurs confirmés | Remarques |
 |------|----------------------|-----------|
-| USA eSIM | AT&T, FirstNet, T‑Mobile, Verizon | Tous pris en charge en 2026 |
+| États-Unis | AT&T, FirstNet, T‑Mobile, Verizon | Tous pris en charge en 2026 |
 | Canada | Bell, Koodo, Lucky Mobile, Telus | |
 | France | **Orange, SFR** | Free et Bouygues : non pris en charge |
 | Allemagne | Deutsche Telekom (Telekom) | Premier opérateur européen à proposer la fonction |
@@ -420,6 +419,18 @@ R : WhatsApp utilise votre numéro de téléphone – il détectera le changemen
 **Q5 : Puis-je transférer la même eSIM plusieurs fois ?**  
 R : Oui, mais chaque transfert nécessite le même processus. Certains opérateurs limitent les transferts à 3–5 fois par an.
 
+**Q6 : Le transfert eSIM est-il sécurisé ?**
+Oui. Le protocole de transfert utilise le Bluetooth pour l'appairage initial et le Wi-Fi Direct pour le transfert des données. La connexion est chiffrée de bout en bout. Le profil eSIM est protégé par la puce **eUICC** et le standard **GSMA SGP.22**. Le processus exige une confirmation physique sur l'ancien appareil — personne ne peut transférer votre eSIM à distance sans votre consentement.
+
+**Q7 : Comment transférer une eSIM Orange, SFR, Free ou Bouygues vers un nouvel iPhone ?**
+Pour Orange et SFR : utilisez le transfert natif (iOS > Ajouter eSIM > Transférer depuis un iPhone à proximité). Pour Free et Bouygues : le transfert natif n'est généralement pas supporté — connectez-vous à votre espace client, demandez un nouveau QR code eSIM, puis scannez-le sur le nouvel iPhone. Contactez le service client si l'option n'est pas disponible en ligne.
+
+**Q8 : Comment transférer une eSIM de voyage (Airalo, Holafly, Nomad, Roami) ?**
+Les eSIM de voyage ne sont généralement PAS transférables. Elles sont conçues pour un usage unique sur un seul appareil. Solutions :
+- Avant de changer de téléphone, achetez le forfait eSIM sur le nouvel appareil.
+- Si vous avez déjà changé de téléphone, contactez le support du fournisseur — certains (Roami) peuvent réémettre le forfait sur le nouvel EID.
+- Pour les voyageurs fréquents, privilégiez les fournisseurs qui proposent la gestion multi-appareils.
+
 **Q6 : Qu'en est-il des configurations double SIM eSIM + carte SIM physique ?**  
 R : Le transfert ne déplace que l'eSIM. La carte SIM physique reste dans l'appareil source. Consultez notre article **[Double eSIM ne fonctionne pas ? 12 solutions pour iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** pour optimiser la double SIM.
 
@@ -443,5 +454,25 @@ La possibilité de transférer des eSIM entre iPhone et Android sans interventio
 **Rappelez-vous** : Si votre opérateur n'est pas pris en charge, la solution de repli du code QR fonctionne toujours. Et pour les eSIM de voyage, traitez-les comme à usage unique.
 
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "inLanguage": "fr",
+  "mainEntity": [
+    {"@type": "Question", "name": "Puis-je transférer une eSIM données uniquement (comme une eSIM de voyage) ?", "acceptedAnswer": {"@type": "Answer", "text": "Non. La plupart des eSIM de voyage (Airalo, Holafly, Roami, etc.) ne prennent pas en charge le transfert multiplateforme. Elles sont conçues pour être installées une fois par appareil."}},
+    {"@type": "Question", "name": "Le transfert fonctionne-t-il entre un iPhone 11 et un Samsung S24 ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, tant que les deux répondent aux exigences de l'OS. L'iPhone 11 prend en charge iOS 26 et le Samsung S24 prend en charge Android 16. Seule la version de l'OS compte."}},
+    {"@type": "Question", "name": "Mon Android n'a pas l'option « Appairer avec iPhone ou iPad ». Pourquoi ?", "acceptedAnswer": {"@type": "Answer", "text": "Ce menu fait partie des Services Google et n'apparaît que sur Android 16+ avec Google Play Services à jour. Si votre version est antérieure, mettez à jour votre téléphone."}},
+    {"@type": "Question", "name": "Mon WhatsApp / iMessage / codes 2FA fonctionneront-ils après le transfert ?", "acceptedAnswer": {"@type": "Answer", "text": "WhatsApp utilise votre numéro de téléphone — il détectera le changement et pourra demander une revérification. iMessage se réactive en une minute. Le numéro n'a pas changé, donc les SMS 2FA fonctionneront normalement."}},
+    {"@type": "Question", "name": "Puis-je transférer la même eSIM plusieurs fois ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, mais chaque transfert nécessite le même processus. Certains opérateurs limitent les transferts à 3-5 fois par an."}},
+    {"@type": "Question", "name": "Le transfert eSIM est-il sécurisé ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. Le protocole utilise le Bluetooth pour l'appairage et le Wi-Fi Direct pour le transfert des données. La connexion est chiffrée de bout en bout via le standard GSMA SGP.22. Une confirmation physique sur l'ancien appareil est exigée."}},
+    {"@type": "Question", "name": "Comment transférer une eSIM Orange, SFR, Free ou Bouygues vers un nouvel iPhone ?", "acceptedAnswer": {"@type": "Answer", "text": "Pour Orange et SFR, utilisez le transfert natif (iOS > Ajouter eSIM > Transférer depuis un iPhone à proximité). Pour Free et Bouygues, le transfert natif n'est pas supporté — demandez un nouveau QR code depuis votre espace client."}},
+    {"@type": "Question", "name": "Comment transférer une eSIM de voyage (Airalo, Holafly, Nomad, Roami) ?", "acceptedAnswer": {"@type": "Answer", "text": "Les eSIM de voyage ne sont généralement pas transférables, conçues pour un usage unique. Avant de changer de téléphone, achetez le forfait sur le nouvel appareil. Certains fournisseurs peuvent réémettre le forfait sur le nouvel EID."}},
+    {"@type": "Question", "name": "Qu'en est-il des configurations double SIM eSIM + carte SIM physique ?", "acceptedAnswer": {"@type": "Answer", "text": "Le transfert ne déplace que l'eSIM. La carte SIM physique reste dans l'appareil source et doit être déplacée manuellement si nécessaire."}},
+    {"@type": "Question", "name": "Puis-je transférer une eSIM Orange vers un téléphone non Orange ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, si votre téléphone est déverrouillé et que votre forfait Orange le permet. Le transfert eSIM Orange est pris en charge via l'application Orange ou le transfert natif iOS/Android."}}
+  ]
+}
+</script>
 
 *Informations basées sur la documentation officielle d'Apple iOS 26 et d'Android 16, tests d'opérateurs en avril 2026. Les fonctionnalités et la prise en charge par les opérateurs sont sujettes à changement.*

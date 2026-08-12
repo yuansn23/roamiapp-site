@@ -1,10 +1,12 @@
 ---
 title: "Qué es una eSIM y cómo funciona: guía para principiantes"
 h1_title: "Qué es una eSIM y cómo funciona esta tecnología en tu móvil"
-description: "Descubre qué es una eSIM con Roami y cómo funciona. Guía para principiantes: ventajas frente a la SIM física, compatibilidad en iPhone y Android y activación."
-date: 2026-06-22T10:00:00Z
-lastmod: 2026-06-22T10:00:00Z
-tags: ["eSIM", "iOS", "Android", "Solución de problemas", "Configuración de viaje", "iPhone 17"]
+description: "¿Qué es una eSIM y cómo funciona? Guía para principiantes: diferencia con la SIM física, seguridad, compatibilidad en iPhone y Android, y ventajas para viajeros."
+canonical: ""
+image: "/img/esim-activation-guide.jpg"
+date: 2026-08-11T10:00:00Z
+lastmod: 2026-08-11T10:00:00Z
+tags: ["eSIM", "SIM digital", "Principiantes", "Seguridad", "iPhone", "Android"]
 toc: true
 
 # Configuración base del sitio y SEO
@@ -95,6 +97,20 @@ sidebar_questions:
     - question: "Lista de Compatibilidad eSIM más reciente"
       url: "/compatibility/"
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type": "Question", "name": "¿Qué es una eSIM?", "acceptedAnswer": {"@type": "Answer", "text": "Una eSIM (embedded SIM) es una SIM digital integrada directamente en la placa base de tu dispositivo, sin necesidad de tarjeta física."}},
+    {"@type": "Question", "name": "¿Cómo funciona una eSIM?", "acceptedAnswer": {"@type": "Answer", "text": "La eSIM almacena múltiples perfiles de operador en un chip eUICC y se activa escaneando un código QR o usando la aplicación del operador."}},
+    {"@type": "Question", "name": "¿La eSIM es compatible con mi teléfono?", "acceptedAnswer": {"@type": "Answer", "text": "La mayoría de iPhones desde XS/XR, Samsung Galaxy S20+, Google Pixel 3+ y otros Android modernos son compatibles con eSIM. Marca *#06# para verificar."}},
+    {"@type": "Question", "name": "¿Es segura la eSIM?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, la eSIM es más segura que una SIM física. No se puede extraer ni clonar, y los perfiles se transmiten encriptados según el estándar GSMA SGP.22."}},
+    {"@type": "Question", "name": "¿Puedo usar eSIM y SIM física a la vez?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, la mayoría de teléfonos permiten usar eSIM dual o eSIM + SIM física simultáneamente para mantener dos líneas activas."}}
+  ]
+}
+</script>
 
 > Si has comprado un nuevo iPhone o iPad recientemente, o estás planeando tu próximo viaje internacional, probablemente hayas oído el término **eSIM**. Pero, ¿qué es realmente una eSIM? Aunque pueda sonar muy técnico, en realidad es una actualización simple y poderosa de las tarjetas SIM de plástico que hemos usado durante décadas. Esta guía para principiantes explica todo lo que necesitas saber, desde la definición básica hasta cómo funciona en tu dispositivo, basándose directamente en la documentación oficial de Apple. Sin jerga, sin confusiones. Si buscas las mejores opciones para viajar, consulta nuestra [guía de eSIM de viaje](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/).
 
@@ -302,9 +318,9 @@ Configurar eSIM es sorprendentemente simple. Para aprender **como activar eSIM e
 
 ### Método 3: Aplicación del operador (ej., Roami)
 - Descarga la aplicación de tu operador (Roami, T‑Mobile, Verizon, etc.).
-- Compra un plan y toca "Instalar eSIM" – la aplicación lo instala automáticamente. Puedes **comprar eSIM** para destinos como **eSIM USA**, **eSIM Japón**, **eSIM España**, **eSIM México** o **eSIM UK**.
+- Compra un plan y toca "Instalar eSIM" – la aplicación lo instala automáticamente. Puedes **comprar eSIM** para destinos como **eSIM USA**, **eSIM Japón**, **eSIM España**, **eSIM México**, **eSIM UK**, **eSIM Marruecos**, **eSIM Tailandia** o **eSIM Andorra**.
 
-### Método 4: Transferencia desde Android (iOS 26+)
+### Método 4: Transferencia desde Android (iOS 19+)
 - Si cambias de un teléfono Android, ahora puedes transferir tu eSIM directamente – sin necesidad de llamar a tu operador. Consulta la guía **[Transferencia eSIM Multiplataforma 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** para instrucciones paso a paso.
 
 ---
@@ -312,13 +328,13 @@ Configurar eSIM es sorprendentemente simple. Para aprender **como activar eSIM e
 ## 7. Principales razones para cambiar a eSIM
 
 ### 7.1 Conectividad instantánea en viajes
-No más buscar un quiosco de tarjetas SIM en el aeropuerto. Antes incluso de salir de casa, puedes comprar una **eSIM de viaje** o **eSIM prepago** para tu destino y activarla cuando aterrices. Servicios como Roami ofrecen planes desde $1.99 en más de 190 países. Si buscas la **mejor eSIM para viajar**, los proveedores globales como Roami, Airalo y Holafly ofrecen opciones para todos los presupuestos.
+No más buscar un quiosco de tarjetas SIM en el aeropuerto. Antes incluso de salir de casa, puedes comprar una **eSIM de viaje** o **eSIM prepago** para tu destino y activarla cuando aterrices. Servicios como Roami ofrecen planes desde $1.99 en más de 190 países. Si buscas la **mejor eSIM para viajar**, los proveedores globales como Roami, Airalo y Holafly ofrecen opciones para todos los presupuestos. Si viajas a España, operadores como **Movistar, Vodafone y Orange** ofrecen eSIM prepago con cobertura nacional; para **Andorra**, **Andorra Telecom** tiene planes eSIM específicos; y para **Marruecos**, **Maroc Telecom** es la opción local más fiable para **eSIM Marruecos**.
 
 ### 7.2 Mantén tu número local activo
-Con la eSIM dual, puedes mantener tu operador local activo para llamadas y SMS mientras usas una **eSIM barata** para datos en el extranjero. iOS 26 incluso tiene un **asistente de viaje inteligente** que te sugiere activar tu eSIM de viaje al llegar y cambia automáticamente cuando regresas a casa.
+Con la eSIM dual, puedes mantener tu operador local activo para llamadas y SMS mientras usas una **eSIM barata** para datos en el extranjero. iOS 19 incluso tiene un **asistente de viaje inteligente** que te sugiere activar tu eSIM de viaje al llegar y cambia automáticamente cuando regresas a casa.
 
 ### 7.3 No más sorpresas de roaming
-Las eSIM de viaje tienen precios claros y transparentes – sin "cargos de roaming diarios" ni limitaciones de "uso justo" que a menudo acompañan al roaming internacional de tu operador local. Si necesitas grandes volúmenes de datos, existen planes con **eSIM datos ilimitados**.
+Las eSIM de viaje tienen precios claros y transparentes – sin "cargos de roaming (itinerancia) diarios" ni limitaciones de "uso justo" que a menudo acompañan al roaming internacional de tu operador local. Si necesitas grandes volúmenes de datos, existen planes con **eSIM datos ilimitados**.
 
 ### 7.4 Funciona en la mayoría de los países, incluida China
 Una pregunta que muchos viajeros hacen: "¿Funciona la eSIM en China?" – Sí, funciona. Los proveedores internacionales de eSIM (como Roami, Airalo, etc.) utilizan operadores asociados que hacen roaming en las redes de China (China Unicom, China Telecom). Sin embargo, ten en cuenta que los operadores chinos locales (China Mobile, China Unicom) solo ofrecen eSIM a titulares de identificación local; como visitante, usarás una eSIM de viaje global que funciona al llegar.
@@ -418,3 +434,18 @@ Vives en Alemania y tienes una eSIM alemana de Telekom (tu número principal). V
 Esto es la **eSIM dual** en acción. No necesitas extraer ni deshabilitar tu SIM local. Lo mismo funciona con SIM física + eSIM en iPhones más antiguos. La flexibilidad es inigualable.
 
 Y si te preguntas "qué es una eSIM global" – es simplemente una eSIM de viaje que funciona en muchos países (ej., plan para toda Europa o toda Asia). Roami ofrece **eSIM Europa**, **eSIM Asia** y planes regionales y globales, todos gestionados digitalmente. Si necesitas una **eSIM con número** local para llamadas y SMS, la opción de operador local puede ser más adecuada para estancias largas.
+
+---
+
+## Referencias y fuentes oficiales
+
+Este artículo se basa en las siguientes fuentes autorizadas:
+
+- **[GSMA — eSIM Specification](https://www.gsma.com/esim/)** — Estándar global SGP.21 (arquitectura) y SGP.22 (aprovisionamiento remoto) que define la tecnología eSIM.
+- **[Apple — Usar la eSIM en el iPhone](https://support.apple.com/es-es/HT209044)** — Documentación oficial de Apple sobre activación y gestión de eSIM en iPhone.
+- **[Apple — Usar la eSIM cuando viajas al extranjero](https://support.apple.com/es-es/HT212780)** — Guía oficial de Apple para viajeros internacionales.
+- **[Android Open Source Project — eSIM Overview](https://source.android.google.cn/docs/core/connect/esim-overview)** — APIs nativas de Android (desde Android 9) para la gestión de perfiles eSIM.
+- **[Roami — Guía de compatibilidad eSIM](/compatibility/)** — Lista actualizada de dispositivos compatibles con eSIM.
+- **[Roami — Solución de problemas eSIM](/faq/esim-deep-troubleshooting-guide-2026/)** — 16 casos reales de errores de activación y sus soluciones.
+
+> **Compromiso editorial:** Este contenido se revisa y actualiza periódicamente para reflejar los últimos cambios en estándares, dispositivos y operadores. Última revisión: agosto de 2026.

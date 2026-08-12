@@ -1,14 +1,14 @@
 ---
 title: "Centre d’aide Roami – FAQ eSIM, activation et compatibilité"
-date: '2026-06-23T00:00:00+00:00'
-description: "Besoin d'aide pour votre eSIM ? Retrouvez nos guides de configuration, compatibilité iPhone/Android, activation, dépannage et essais gratuits eSIM pour les USA eSIM, Royaume-Uni, Japon et plus encore."
+date: '2026-08-11T00:00:00+00:00'
+description: "Besoin d'aide pour votre eSIM ? Retrouvez nos guides de configuration, compatibilité iPhone/Android, activation, dépannage et essais gratuits eSIM pour les États-Unis, Royaume-Uni, Japon et plus encore."
 outputs:
   - HTML
   - sitemap
 
 seo:
   title: "FAQ Roami eSIM | Activation, compatibilité et guides de voyage 2026"
-  description: "Trouvez des réponses étape par étape pour la configuration des eSIM, le dépannage, les guides de compatibilité et les essais gratuits eSIM pour les USA eSIM, Royaume-Uni, Japon, Chine et plus encore. Assistance instantanée Roami."
+  description: "Trouvez des réponses étape par étape pour la configuration des eSIM, le dépannage, les guides de compatibilité et les essais gratuits eSIM pour les États-Unis, Royaume-Uni, Japon, Chine et plus encore. Assistance instantanée Roami."
   keywords: "eSIM, eSIM de voyage, eSIM gratuite, essai eSIM gratuit, eSIM gratuite USA, eSIM gratuite Japon, configuration eSIM, compatibilité iPhone, centre d'aide, Roami, guide eSIM 2026"
 
 hero:
@@ -194,7 +194,7 @@ categories:
         snippet: "Modèles Moto G Power 2023+ avec Android 13+ prennent en charge l’eSIM. Modèles 2020/2021 : non compatibles. Vérifiez votre canal logiciel."
         url: "/faq/moto-g-power-esim-compatible/"
   - name: "Principes de base de l’eSIM"
-    description: "Les fondamentaux de la technologie eSIM et le processus d'activation universel – pour bien débuter avec Roami."
+    description: "Les fondamentaux de la technologie eSIM et le processus d'activation universel – pour bien débuter."
     icon: "book-open"
     questions:
       - q: "Qu’est‑ce que l’activation eSIM et comment fonctionne‑t‑elle ?"
@@ -223,7 +223,7 @@ categories:
         snippet: "iPhone 17 eSIM : activation mondiale avec iOS 19 (Push-to-Install, Quick Transfer, QR). Guide complet Roami pour les modèles mondiaux et le dépannage."
         url: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
   - name: "Activation par appareil"
-    description: "Guides étape par étape pour activer les eSIM sur iPhone, Samsung, Google Pixel et autres appareils compatibles – avec Roami."
+    description: "Guides étape par étape pour activer les eSIM sur iPhone, Samsung, Google Pixel et autres appareils compatibles."
     icon: "smartphone"
     questions:
       - q: "Comment activer une eSIM sur iPhone (tous les modèles) ?"

@@ -1,9 +1,11 @@
 ---
 title: "iPhone 11 compatible con eSIM: guía de configuración"
 h1_title: "Guía completa de compatibilidad y configuración eSIM en iPhone 11"
-description: "El iPhone 11 es compatible con eSIM. Con Roami puedes activar un plan de viaje al instante. Guía de configuración, verificación y solución de problemas."
-date: 2026-06-22T10:00:00Z
-lastmod: 2026-06-22T10:00:00Z
+description: "iPhone 11 compatible con eSIM: guía de configuración 2026. Verifica la compatibilidad, activa tu plan de viaje y soluciona problemas paso a paso."
+canonical: ""
+image: "/img/esim-activation-guide.jpg"
+date: 2026-08-11T10:00:00Z
+lastmod: 2026-08-11T10:00:00Z
 tags: ["iPhone", "eSIM", "Doble SIM", "Activación", "Compatibilidad"]
 toc: true
 

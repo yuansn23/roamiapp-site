@@ -1,10 +1,9 @@
 ---
 title: "Avrupa eSIM | 40+ Ülke İçin En İyi Ön Ödemeli Plan"
-description: "Roami'den tek bir ön ödemeli seyahat eSIM'i ile Avrupa'da seyahat edin. 40+ ülkede sınırsız 5G veri. SIM değiştirme yok, dolaşım yok. Planınızı çevrimiçi satın alın."
-date: '2026-08-10T00:00:00+00:00'
+description: "Roami ile tek bir ön ödemeli seyahat eSIM'i ile Avrupa'da seyahat edin. 40+ ülkede sınırsız 5G veri. SIM kart değiştirme yok, dolaşım yok. Planınızı çevrimiçi satın alın."
+date: '2026-06-11T00:00:00+00:00'
 lastmod: 2026-06-08
 type: regional-esim
-url: /europe-esim/
 breadcrumbs:
 - name: Ana Sayfa
   url: /
@@ -13,12 +12,13 @@ breadcrumbs:
 region:
   name: Avrupa
   country_count: 47
-  coverage_note: 47 ülkede sorunsuz sınır ötesi geçiş ile 5G kapsama
+  coverage_note: 47 ülkede kesintisiz sınır ötesi geçiş ile 5G kapsama alanı
   url: /europe-esim/
 hero:
   h1_line1: Avrupa eSIM
   h1_line2: 40+ Ülke, Tek Plan
-  description: SIM kart değiştirmeden Avrupa'da seyahat edin. Tek bir Roami eSIM size tüm AB ülkelerinde, ayrıca İngiltere, İsviçre, Norveç ve daha fazlasında sınırsız 5G veri sunar. Sınırları sorunsuz geçin — dolaşım ücreti yok, zahmet yok.
+  description: Avrupa'da SIM kart değiştirmeden seyahat edin. Tek bir Roami eSIM'i size tüm AB ülkelerinde, ayrıca İngiltere, İsviçre, Norveç ve daha fazlasında sınırsız 5G veri sunar. Sınırları kesintisiz geçin — dolaşım
+    ücreti yok, sorun yok.
   image: /img/esim/region/europe-esim-hero.jpg
   image_alt: 47 Avrupa ülkesinde 5G bağlantısını gösteren Avrupa eSIM kapsama haritası
   primary_cta_url: /plans/
@@ -28,27 +28,27 @@ hero:
   trust_badges:
   - 47 ülke
   - 5G hızları
-  - 1,99$'dan başlayan planlar
+  - Planlar $1.99'dan başlıyor
   - Anında aktivasyon
 why_section:
-  title: Neden Bölgesel Bir Avrupa eSIM Tercih Etmelisiniz?
-  subtitle: Tek bir bölgesel plan size para, zaman ve birden fazla SIM kartla uğraşma zahmetinden tasarruf ettirir.
+  title: Neden Bölgesel Bir Avrupa eSIM'i Tercih Etmelisiniz?
+  subtitle: tek bir bölgesel plan size para, zaman ve birden fazla SIM kartı yönetmenin getirdiği hayal kırıklığını kazandırır.
   cards:
   - icon: globe
     color: blue
-    title: Sınır Dolaşımı Yok
-    description: Fransa'dan Almanya'ya veya İtalya'dan İsviçre'ye geçin — veriniz kesintisiz çalışmaya devam eder. AB dolaşım düzenlemeleri ve operatör ortaklıklarımız sayesinde her sınırda sıfır ücret.
+    title: Sınırlarda Dolaşım Yok
+    description: Fransa'dan Almanya'ya veya İtalya'dan İsviçre'ye geçin — veriniz kesintisiz çalışmaya devam eder. AB dolaşım düzenlemeleri ve taşıyıcı ortaklıklarımız sayesinde her sınırdaki ekstra ücretlerden kurtulun.
   - icon: currency
     color: green
-    title: Ülke Bazlı Planlara Kıyasla %40-60 Tasarruf
-    description: Fransa, İtalya, İspanya ve Almanya için ayrı eSIM'ler satın almak 30$+'a mal olabilir. Tek bir bölgesel plan yalnızca 5$ kadar düşük bir fiyata başlar — ve her yerde çalışır. Neden daha fazla ödeyesiniz?
+    title: Ülke Bazlı Planlara Göre %40-60 Tasarruf
+    description: Fransa, İtalya, İspanya ve Almanya için ayrı eSIM'ler satın almak 30$'dan fazlaya mal olabilir. Tek bir bölgesel plan yalnızca 5$ gibi düşük bir fiyata başlar — ve her yerde çalışır. Neden daha fazla ödeyesiniz?
   - icon: lightning
     color: purple
     title: Bir Kez Etkinleştirin, Her Yerde Seyahat Edin
-    description: Ayrılmadan önce kurun, varışta etkinleştirin ve seyahatinizin geri kalanında bağlantıyı unutun. Tek QR kodu. Tek kurulum. 47 ülke. 2 dakikadan kısa sürede.
+    description: Yola çıkmadan önce yükleyin, varışta etkinleştirin ve seyahatinizin geri kalanında bağlantı sorununu unutun. Tek bir QR kodu. Tek bir kurulum. 47 ülke. 2 dakikadan kısa sürede.
 country_section:
   title: Kapsanan 47 Avrupa Ülkesinin Tamamı
-  subtitle: Ayrıntılı operatör bilgileri, 5G hızları ve yerel fiyatlandırmayı görmek için herhangi bir ülkeye tıklayın.
+  subtitle: Ayrıntılı taşıyıcı bilgileri, 5G hızları ve yerel fiyatlandırmayı görmek için herhangi bir ülkeye tıklayın.
   subregions:
   - key: western_europe
     title: Batı Avrupa
@@ -69,66 +69,66 @@ country_section:
     title: Kafkasya
     color: orange
 carrier_section:
-  title: En İyi Avrupa Operatör Ortakları
-  subtitle: Roami, Avrupa genelinde 50'den fazla yerel operatörle ortaktır. eSIM'iniz her ülkede otomatik olarak mevcut en güçlü ağa bağlanır.
-  footnote: '* Gerçek ağ hızları konumunuza, günün saatine ve ağ yoğunluğuna bağlıdır. 5G kullanılabilirliği ülkeye ve operatöre göre değişir.'
+  title: En İyi Avrupa Taşıyıcı Ortaklarımız
+  subtitle: Roami, Avrupa genelinde 50'den fazla yerel taşıyıcı ile ortaklık yapmaktadır. eSIM'iniz her ülkede otomatik olarak mevcut en güçlü ağa bağlanır.
+  footnote: '* Gerçek ağ hızları konumunuza, günün saatine ve ağ yoğunluğuna bağlıdır. 5G kullanılabilirliği ülkeye ve taşıyıcıya göre değişir.'
 vs_roaming:
-  title: Neden Dolaşım Yerine Avrupa eSIM
-  subtitle: Avrupa'da ev operatörünüzün uluslararası dolaşımını kullanıyorsanız, neredeyse kesinlikle fazla ödeme yapıyorsunuzdur. İşte karşılaştırmaları.
+  title: Neden Dolaşım Yerine Avrupa eSIM'i
+  subtitle: Avrupa'da ev operatörünüzün uluslararası dolaşımını kullanıyorsanız, neredeyse kesinlikle fazla ödeme yapıyorsunuzdur. İşte karşılaştırması.
   rows:
   - label: Günlük maliyet
-    roami: 0,33$ - 2,00$/gün
-    carrier: 10$ - 15$/gün
+    roami: $0.33 - $2.00/gün
+    carrier: $10 - $15/gün
     highlight: true
-  - label: 14 günlük gezi (3 ülke)
-    roami: 15$
-    carrier: 140$ - 210$
+  - label: 14 günlük seyahat (3 ülke)
+    roami: $15
+    carrier: $140 - $210
     highlight: true
   - label: 5G hızı
     roami: Tam yerel 5G hızı
-    carrier: Genellikle 3G veya 4G'ye düşürülür
+    carrier: Genellikle 3G veya 4G'ye kısıtlanır
     highlight: false
-  - label: Veri sınırı
+  - label: Veri limiti
     roami: Sınırsız veriye kadar
-    carrier: Genellikle günde 0,5-2GB ile sınırlı
+    carrier: Genellikle günde 0.5-2GB ile sınırlıdır
     highlight: false
   - label: Birden fazla ülke
     roami: 47 ülke, ekstra ücret yok
-    carrier: Ülke başına 10$/gün (değişebilir)
+    carrier: Ülke başına $10/gün (değişebilir)
     highlight: false
-  - label: Sıcak nokta paylaşımı
+  - label: Sıcak nokta (Hotspot) bağlantı paylaşımı
     roami: Ücretsiz dahil
-    carrier: Genellikle kısıtlı veya ekstra ücretli
+    carrier: Genellikle kısıtlıdır veya ekstra ücrete tabidir
     highlight: false
   - label: Kurulum süresi
     roami: 2 dakika (QR kodu)
-    carrier: Zaten aktif (ama pahalı)
+    carrier: Zaten aktif (ancak pahalı)
     highlight: false
-  saving_callout: 3 Avrupa ülkesine 14 günlük bir gezi Roami ile yalnızca <strong>15$</strong> — operatör dolaşımıyla <strong>140$-210$</strong> arası. Bu <strong>%90 tasarruf</strong> demektir.
+  saving_callout: 3 Avrupa ülkesine yapılan 14 günlük bir seyahat Roami ile yalnızca <strong>$15</strong> tutuyor — oysa operatör dolaşımı ile <strong>$140-$210</strong>. Bu <strong>%90 tasarruf</strong> demektir.
   promo_code: WEB20
   promo_discount: %20 İNDİRİM
   promo_text: Ödeme sırasında <strong>WEB20</strong> kodunu kullanarak Avrupa eSIM'inizde ekstra %20 indirim kazanın. Bu indirim tüm ön ödemeli planlar için geçerlidir.
 faq_section:
   subtitle: Avrupa eSIM kullanımı hakkında bilmeniz gereken her şey.
 faq:
-- question: Tek bir Roami eSIM tüm Avrupa ülkelerinde çalışır mı?
-  answer: Evet. Tek bir Roami Avrupa eSIM, 40'tan fazla Avrupa ülkesini sorunsuz sınır ötesi 5G ile kapsar. Fransa'dan Almanya'ya veya İspanya'dan Portekiz'e geçerken SIM değiştirmeniz veya yeni bir plan satın almanız gerekmez. Seyahat ederken veriniz otomatik olarak çalışmaya devam eder. Ön ödemeli Avrupa eSIM ile bağlantıda kalmak zahmetsizdir.
-- question: Avrupa eSIM'in maliyeti ne kadardır?
-  answer: Roami Avrupa eSIM planları kısa geziler için yalnızca 5$'dan başlar ve uzun konaklamalar için sınırsız veri ile 59$'a kadar çıkar. ABD operatörlerinin dolaşım ücretleriyle (10-15$/gün) karşılaştırıldığında, tek bir gezi kendi maliyetini saatler içinde çıkarır. İlk satın alımınızda %20 indirim için WEB20 kodunu kullanın. Ön ödemeli ile bağlantıda kalmak zahmetsizdir. Sözleşme yok, bağlantıda kalmak zahmetsizdir. Bu, Avrupa seyahati için en iyi eSIM'dir — ön ödemeli, uygun fiyatlı, 47 ülkeyi kapsar ve QR kodu ile anında aktivasyon. Tüm fiyatlandırma seçenekleri için [1,99$'dan başlayan Avrupa eSIM planlarına](/plans/) göz atın.
+- question: Tek bir Roami eSIM'i tüm Avrupa ülkelerinde çalışır mı?
+  answer: Evet. Tek bir Roami Avrupa eSIM'i, kesintisiz sınır ötesi 5G ile 40'tan fazla Avrupa ülkesini kapsar. Fransa'dan Almanya'ya veya İspanya'dan Portekiz'e geçerken SIM kartları değiştirmenize veya yeni bir plan satın almanıza gerek yoktur. Seyahat ederken veriniz otomatik olarak çalışmaya devam eder. Ön ödemeli Avrupa eSIM ile bağlantıda kalmak zahmetsizdir.
+- question: Bir Avrupa eSIM'in maliyeti nedir?
+  answer: Roami Avrupa eSIM planları kısa seyahatler için yalnızca $5'ten başlar ve uzun süreli konaklamalarda sınırsız veri için $59'a kadar çıkar. ABD'li operatörlerin dolaşım ücretleriyle ($10-$15/gün) karşılaştırıldığında, tek bir seyahat masrafını saatler içinde çıkarır. İlk satın alımınızda %20 indirim için WEB20 kodunu kullanın. Ön ödemeli ile bağlantıda kalmak zahmetsizdir. Sözleşmesiz ile bağlantıda kalmak zahmetsizdir. 47 ülkeyi kapsayan, anında QR kod ile aktivasyon sunan, Avrupa seyahati için en iyi eSIM'dir — ön ödemeli, uygun fiyatlı. Tüm fiyatlandırma seçenekleri için [Avrupa eSIM planlarına $1.99'dan başlayan fiyatlarla](/plans/) göz atın.
 - question: Hangi Avrupa ülkeleri kapsanıyor?
-  answer: Avrupa eSIM'imiz, tüm AB üye devletleri artı İngiltere, İsviçre, Norveç, İzlanda ve birkaç mikro devlet dahil olmak üzere 47 ülkeyi kapsar. Kapsama, Deutsche Telekom, Orange, Vodafone, TIM ve daha fazlası ile 50'den fazla yerel operatör ortaklığı tarafından sağlanmaktadır.
+  answer: Avrupa eSIM'imiz tüm AB üye devletlerinin yanı sıra İngiltere, İsviçre, Norveç, İzlanda ve birkaç mikro devlet dahil olmak üzere 47 ülkeyi kapsar. Kapsama alanı, Deutsche Telekom, Orange, Vodafone, TIM ve daha fazlası ile 50'den fazla yerel taşıyıcı ortaklığı tarafından sağlanmaktadır.
 - question: 5G Avrupa genelinde mevcut mu?
-  answer: Evet. Roami, tüm büyük Avrupa şehirlerinde ve kasabalarında 5G hızları sunmak için en iyi yerel operatörlerle ortaktır. Uzak Alp veya kırsal alanlarda, bağlantınız sorunsuz bir şekilde 4G/LTE'ye geçerek her zaman hizmet almanızı sağlar. En iyi Avrupa seyahat eSIM'i için, [Avrupa eSIM planları](/plans/) sayfasındaki ön ödemeli planlara göz atın veya seyahatinizden önce yerel ağ hızlarını test etmek için [ücretsiz deneme](/free-esim/) alın.
-- question: Avrupa eSIM'imi sıcak nokta paylaşımı için kullanabilir miyim?
-  answer: Kesinlikle. Tüm Roami Avrupa eSIM planları, ekstra ücret ödemeden sıcak nokta paylaşımı içerir. Bağlantınızı dizüstü bilgisayarınız, tabletiniz veya seyahat arkadaşlarınızla paylaşın.
+  answer: Evet. Roami, Avrupa'daki hemen hemen tüm büyük şehir ve kasabalarda 5G hızları sunmak için en iyi yerel taşıyıcılarla ortaklık yapmaktadır. Uzak Alp veya kırsal bölgelerde, bağlantınız her zaman hizmet alabilmeniz için kesintisiz olarak 4G/LTE'ye geçer. En iyi Avrupa seyahat eSIM'i için, [Avrupa eSIM planları](/plans/) sayfasındaki ön ödemeli planlara göz atın veya seyahatinizden önce yerel ağ hızlarını test etmek için [ücretsiz deneme](/free-esim/) alın.
+- question: Avrupa eSIM'imi sıcak nokta (hotspot) bağlantı paylaşımı için kullanabilir miyim?
+  answer: Kesinlikle. Tüm Roami Avrupa eSIM planları ekstra ücret ödemeden sıcak nokta bağlantı paylaşımı içerir. Bağlantınızı dizüstü bilgisayarınız, tabletiniz veya seyahat arkadaşlarınızla paylaşın.
 - question: Avrupa eSIM'imi nasıl etkinleştiririm?
-  answer: Kurulum 2 dakikadan az sürer. Satın aldıktan sonra, e-postanıza gönderilen QR kodunu tarayın veya Roami uygulaması aracılığıyla tek bir dokunuşla etkinleştirin. Ayrılmadan önce kurmanızı ve ilk Avrupa destinasyonunuza varışta etkinleştirmenizi öneririz. Avrupa seyahati ile bağlantıda kalmak zahmetsizdir.
+  answer: Kurulum 2 dakikadan kısa sürer. Satın alma işleminden sonra, e-postanıza gönderilen QR kodunu tarayın veya Roami uygulaması üzerinden tek dokunuşla etkinleştirin. Yola çıkmadan önce kurulum yapmanızı ve ilk Avrupa varış noktanıza vardığınızda etkinleştirmenizi öneririz. Avrupa seyahati ile bağlantıda kalmak zahmetsizdir.
 - question: İngiltere ve İsviçre için ayrı bir eSIM'e ihtiyacım var mı?
-  answer: Hayır. Avrupa planımız, AB ülkelerinin yanı sıra İngiltere ve İsviçre'yi de içerir. Londra'dan Paris'e ve Zürih'e aynı eSIM ile hiçbir değişiklik yapmadan seyahat edebilirsiniz. Dolaşım ücreti yok, SIM değiştirme yok. Roami, anında aktivasyon, yerel ağ hızları ve sıcak nokta paylaşımı ile Avrupa seyahati için en iyi eSIM'i sunar. Daha fazla ipucu için Avrupa destinasyon rehberleri için [seyahat blogumuza](/blog/) göz atın.
+  answer: Hayır. Avrupa planımız AB ülkelerinin yanı sıra İngiltere ve İsviçre'yi de içerir. Aynı eSIM ile Londra'dan Paris'e ve Zürih'e hiçbir değişiklik yapmadan seyahat edebilirsiniz. Dolaşım ücreti yok, SIM kart değiştirme yok. Roami, anında aktivasyon, yerel ağ hızları ve sıcak nokta bağlantı paylaşımı ile Avrupa seyahati için en iyi eSIM'i sunar. Daha fazla ipucu için Avrupa destinasyon rehberleri için [seyahat blogumuzu](/blog/) okuyun.
 - question: Bu, ülke başına ayrı eSIM satın almaya kıyasla nasıldır?
-  answer: Bölgesel bir Avrupa eSIM, bireysel ülke planları satın almaktan önemli ölçüde daha ucuz ve daha kullanışlıdır. 5-10 ayrı eSIM'i yönetmek ve 30$+ harcamak yerine, tek bir Avrupa planı her şeyi kapsar. Ayrıca her sınırda yeni bir eSIM etkinleştirme zahmetinden de kurtulursunuz.
-- question: Avrupa eSIM'imi normal SIM'imle birlikte kullanabilir miyim (çift SIM)?
-  answer: Evet. Çoğu modern iPhone ve Android telefon, çift SIM'i destekler — ev numaranız için bir fiziksel SIM ve veri için bir eSIM. Roami Avrupa eSIM'iniz 47 ülkedeki tüm ön ödemeli verilerinizi yönetirken, normal SIM'iniz arama ve metinler için ev numaranızı aktif tutar. Mevcut operatörünüzle sözleşme değişikliği gerekmez.
+  answer: Bölgesel bir Avrupa eSIM'i, bireysel ülke planları satın almaktan önemli ölçüde daha ucuz ve daha kullanışlıdır. 5-10 ayrı eSIM'i yönetmek ve 30$+ harcamak yerine, tek bir Avrupa planı her şeyi kapsar. Ayrıca her sınırdaki yeni bir eSIM'i etkinleştirme zahmetinden de kurtulursunuz.
+- question: Avrupa eSIM'imi normal SIM kartımla birlikte (çift SIM) kullanabilir miyim?
+  answer: Evet. Çoğu modern iPhone ve Android telefon çift SIM'i destekler — ev numaranız için bir fiziksel SIM ve veri için bir eSIM. Roami Avrupa eSIM'iniz 47 ülke genelinde tüm ön ödemeli verilerinizi yönetirken, normal SIM kartınız arama ve mesajlar için ev numaranızı aktif tutar. Mevcut operatörünüzle herhangi bir sözleşme değişikliğine gerek yoktur.
 cross_region_links:
 - title: Asya eSIM
   url: /asia-esim/
@@ -138,18 +138,18 @@ cross_region_links:
   note: Türkiye, BAE veya ötesine mi gidiyorsunuz?
 - title: Afrika eSIM
   url: /africa-esim/
-  note: Fas veya Mısır'a doğru güneye devam mı?
+  note: Fas veya Mısır'a doğru devam mı?
 featured_carriers:
 - name: Deutsche Telekom
   hq: Almanya
   speed: Mükemmel 5G/4G
   rating: Mükemmel
-  countries: Almanya, Avusturya, Polonya, Çek Cumhuriyeti, Macaristan, Hırvatistan, Slovakya, Hollanda, Yunanistan, Romanya
+  countries: Almanya, Avusturya, Polonya, Çekya, Macaristan, Hırvatistan, Slovakya, Hollanda, Yunanistan, Romanya
 - name: Vodafone
   hq: Birleşik Krallık
   speed: Mükemmel 5G/4G
   rating: Mükemmel
-  countries: İngiltere, Almanya, İtalya, İspanya, Portekiz, İrlanda, Yunanistan, Hollanda, Romanya, Arnavutluk, Çek Cumhuriyeti, Macaristan, Malta, Türkiye
+  countries: İngiltere, Almanya, İtalya, İspanya, Portekiz, İrlanda, Yunanistan, Hollanda, Romanya, Arnavutluk, Çekya, Macaristan, Malta, Türkiye
 - name: Orange
   hq: Fransa
   speed: Mükemmel 5G/4G
@@ -359,7 +359,7 @@ countries:
     is_popular: false
     flag_image: /img/flags/pl.svg
     network: 5G
-  - name: Çek Cumhuriyeti
+  - name: Çekya
     url: /czech-republic-esim/
     flag: 🇨🇿
     carriers: O2, T-Mobile, Vodafone

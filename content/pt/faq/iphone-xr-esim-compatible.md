@@ -25,7 +25,7 @@ breadcrumbs:
     url: "/"
   parent:
     text: "Compatibilidade eSIM"
-    url: "/pt/compatibility/"
+    url: "/compatibility/"
 
 # Barra lateral: eSIMs populares
 sidebar_popular:
@@ -94,7 +94,7 @@ sidebar_questions:
     - question: "Como ativar eSIM no iPhone (Todos os Modelos)?"
       url: "/pt/faq/how-to-activate-esim-on-iphone/"
     - question: "Lista de Compatibilidade eSIM Mais Recente"
-      url: "/pt/compatibility/"
+      url: "/compatibility/"
 ---
 
 
@@ -108,7 +108,7 @@ Aqui está o que você precisa saber em 10 segundos:
 2. Verifique com `*#06#`: Disque este código. Se um EID de 32 dígitos aparecer, seu telefone está pronto para eSIM.
 3. Ative em minutos: Escaneie um QR code de qualquer provedor antes de viajar. Ative o Roaming de Dados ao pousar.
 
-Dica pro: Embora o iPhone XR seja mais antigo, seu eSIM funciona exatamente como os iPhones mais recentes – sem limitações de velocidade ou recursos. Para uma lista completa de **telefones compatíveis com esim** de todas as marcas, veja nosso **[guia de compatibilidade completo](/pt/compatibility/)**.
+Dica pro: Embora o iPhone XR seja mais antigo, seu eSIM funciona exatamente como os iPhones mais recentes – sem limitações de velocidade ou recursos. Para uma lista completa de **telefones compatíveis com esim** de todas as marcas, veja nosso **[guia de compatibilidade completo](/compatibility/)**.
 
 ---
 
@@ -187,7 +187,7 @@ Seu iPhone XR funciona com todos os provedores eSIM do mundo:
 | SFR (França) | Sim | SFR eSIM compatível com iPhone XR |
 | Bouygues (França) | Sim | Bouygues eSIM funciona no iPhone XR |
 
-O iPhone XR é totalmente compatível com operadoras francesas como Free e Orange. Para a rede Verizon, o iPhone XR é suportado desde que esteja desbloqueado ou seja um dispositivo Verizon. Para uma visão mais ampla de outras marcas – incluindo Samsung, Xiaomi e Huawei – veja nosso guia completo de **[compatibilidade eSIM](/pt/compatibility/)**.
+O iPhone XR é totalmente compatível com operadoras francesas como Free e Orange. Para a rede Verizon, o iPhone XR é suportado desde que esteja desbloqueado ou seja um dispositivo Verizon. Para uma visão mais ampla de outras marcas – incluindo Samsung, Xiaomi e Huawei – veja nosso guia completo de **[compatibilidade eSIM](/compatibility/)**.
 
 ---
 
@@ -253,7 +253,7 @@ Muitos usuários perguntam sobre Samsung Galaxy S20 FE, Xiaomi 11T Pro ou Huawei
 - Xiaomi – modelos compatíveis com eSIM incluem: 11T Pro, 13T Pro, 14T Pro, 15T Pro e Redmi Note 11 Pro 5G.
 - Huawei – versões internacionais do P30 Pro, P40 Pro, Mate 40 Pro e Pura 70 suportam eSIM.
 
-Para uma lista completa, veja nosso guia completo de **[compatibilidade eSIM](/pt/compatibility/)**. E lembre-se: telefones compatíveis com dual SIM permitem usar um SIM físico e um eSIM ao mesmo tempo.
+Para uma lista completa, veja nosso guia completo de **[compatibilidade eSIM](/compatibility/)**. E lembre-se: telefones compatíveis com dual SIM permitem usar um SIM físico e um eSIM ao mesmo tempo.
 
 ---
 

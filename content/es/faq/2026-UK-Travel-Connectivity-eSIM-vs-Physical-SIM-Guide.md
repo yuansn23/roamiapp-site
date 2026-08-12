@@ -1,12 +1,13 @@
 ---
 title: "eSIM vs SIM física para viajar a UK: guía 2026"
 h1_title: "eSIM vs SIM física: guía completa para viajar a UK"
-description: "¿eSIM o SIM física para UK? Roami te ayuda a elegir. Compara ventajas, precios y cobertura. La eSIM de viaje gana en comodidad y ahorro. Guía actualizada."
-date: 2026-06-22T10:00:00Z
-lastmod: 2026-06-22T10:00:00Z
-tags: ["eSIM", "iOS", "Android", "Solución de problemas", "Configuración de viaje", "Vodafone"]
+description: "eSIM vs SIM física para viajar a Reino Unido en 2026. Comparativa de ventajas, precios, cobertura 5G y comodidad. Elige la mejor opción para tu viaje."
+canonical: ""
+image: "/img/esim-activation-guide.jpg"
+date: 2026-08-11T10:00:00Z
+lastmod: 2026-08-11T10:00:00Z
+tags: ["eSIM", "Reino Unido", "Viajes", "5G", "SIM física", "Comparativa"]
 toc: true
-image: "/images/esim-activation-guide.jpg"
 
 site_name: "Roami"
 author: "Roami"

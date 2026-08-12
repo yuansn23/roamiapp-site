@@ -2,8 +2,8 @@
 title: "Spanien eSIM mit Telefonnummer: Tarife für Anrufe"
 description: "Spanien eSIM mit echter Telefonnummer: Tarifvergleich für Anrufe und SMS. Roami bietet flexible Datenstufen mit automatischem Netzwechsel zwischen vier Anbietern."
 keywords: ["Spanien eSIM Telefonnummer", "Spanien eSIM mit Anrufen", "Spanien eSIM SMS", "Spanische Nummer eSIM", "Spanien eSIM Daten vs. Sprache"]
-date: 2026-08-13T00:00:00Z
-lastmod: 2026-08-13T00:00:00Z
+date: 2026-08-11T00:00:00Z
+lastmod: 2026-08-11T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden, mit zuverlässigen eSIM-Tarifen und automatischem Carrier-Wechsel zwischen lokalen Netzen weltweit verbunden zu bleiben."
 image: "/img/esim/spain/spain-esim-with-phone-number.jpg"

@@ -94,7 +94,7 @@ sidebar_questions:
     - question: "Como ativar eSIM no iPhone (Todos os Modelos)?"
       url: "/pt/faq/how-to-activate-esim-on-iphone/"
     - question: "Lista de Compatibilidade eSIM Mais Recente"
-      url: "/pt/compatibility/"
+      url: "/compatibility/"
 ---
 
 > ⚠️ **Este guia foi arquivado.** Esta versão cobre o iOS 19 e foi substituída pelo **[Guia de Transferência de eSIM para iOS 26](/pt/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** com instruções atualizadas. Recomendamos consultar a nova versão.

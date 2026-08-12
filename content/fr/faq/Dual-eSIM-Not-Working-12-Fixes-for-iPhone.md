@@ -1,12 +1,11 @@
 ---
 title: "Double eSIM sans service ? 12 solutions iPhone"
 h1_title: "Double eSIM sans service : 12 solutions pour iPhone"
-description: "Double eSIM iPhone en panne ? No Service, appels en messagerie. Avec Roami, solutions CDMA, T-ADS, verrouillage. Compatible iPhone 17/16/iOS 26 et opérateurs françai"
-keywords: ["double eSIM ne fonctionne pas", "problème double SIM iPhone", "eSIM pas de service", "deuxième eSIM pas reconnue", "activer deux eSIM iPhone", "commutateur eSIM", "eSIM prioritaire", "iMessage double SIM", "paramètres APN double SIM", "eSIM Orange", "eSIM SFR", "eSIM Bouygues", "eSIM Free", "réinitialiser réseau eSIM", "double eSIM Apple Watch", "changer eSIM iPhone", "eSIM pas activée", "transfert eSIM multiplateforme"]
-date: 2026-06-22T10:00:00Z
-lastmod: 2026-06-22T10:00:00Z
-tags: ["eSIM", "iOS", "Dépannage", "Double SIM", "Configuration voyage"]
+description: "Double eSIM iPhone ne fonctionne pas ? 12 correctifs : résoudre eSIM pas de service, conflits CDMA/GSM, T-ADS, iMessage/FaceTime, batterie. Guide iOS 26 pour iPhone 17, 16 et antérieurs."
+keywords: ["double eSIM ne fonctionne pas", "problème double SIM iPhone", "eSIM pas de service", "deuxième eSIM pas reconnue", "activer deux eSIM iPhone", "commutateur eSIM", "eSIM prioritaire", "iMessage double SIM"]
 toc: true
+date: 2026-08-11T10:00:00Z
+lastmod: 2026-08-11T10:00:00Z
 
 # Configuration de base du site & SEO
 site_name: "Roami"
@@ -173,7 +172,7 @@ Si votre ligne principale est sur un **opérateur CDMA** (Verizon, ancien Sprint
 Les réseaux CDMA utilisent une technologie de repli vocal différente (1xRTT). La bande de base de l'iPhone ne peut gérer qu'**un seul canal vocal CDMA** à la fois. Lorsque la première eSIM est CDMA, elle verrouille la bande de base en mode CDMA, ne laissant aucune ressource pour la voix de la deuxième ligne. La deuxième ligne peut encore recevoir des données LTE/5G, mais **ne peut pas émettre ni recevoir d'appels**.
 
 ### Quels opérateurs sont CDMA ?
-- **USA eSIM** : Verizon (anciens forfaits), US Cellular, certains MVNO
+- **États-Unis** : Verizon (anciens forfaits), US Cellular, certains MVNO
 - **Japon** : au (KDDI) (CDMA progressivement abandonné, mais des forfaits hérités existent)
 - **France et Europe** : Aucun – tous les opérateurs français (Orange, SFR, Bouygues, Free) utilisent GSM/UMTS/LTE, donc pas de problème !
 
@@ -228,7 +227,7 @@ Une fois déverrouillé, vous pouvez également transférer votre eSIM entre iPh
 
 ## 7. Drain de batterie en double SIM : Comment le réduire
 
-L'utilisation de deux lignes augmente la consommation de batterie de 5 à 15 %. Voici comment minimiser :
+L'utilisation de deux lignes augmente la consommation de batterie — Apple confirme que la double SIM consomme davantage d'énergie car les deux lignes maintiennent une connexion active avec leurs réseaux respectifs. Voici comment minimiser l'impact :
 
 | Stratégie | Effet |
 |----------|--------|
@@ -361,13 +360,107 @@ Oui. L'Apple Watch peut refléter **une** des lignes de l'iPhone. Choisissez la 
 
 ---
 
-## 13. Conseils professionnels finaux
+## 13. Cas concrets de double SIM
+
+### Scénario 1 : Sophie, indépendante — ligne pro et ligne perso sur le même iPhone 15
+
+Sophie a deux eSIM : Orange (pro) et Free (perso). Elle configure son iPhone 15 :
+- Données cellulaires : eSIM Orange (100 Go pro)
+- Ligne par défaut : eSIM Free (appels personnels)
+- Contact "Client Dupont" : toujours utiliser l'eSIM Orange
+- Automatisation : en semaine de 9h à 18h, ligne par défaut = Orange (via Raccourcis)
+
+**Résultat :** Un seul téléphone, deux vies séparées, zéro confusion.
+
+### Scénario 2 : Julien, voyageur fréquent — SIM Free + eSIM de voyage
+
+Julien garde sa SIM Free physique pour les appels/SMS français (Wi-Fi Calling via les données de l'eSIM) et utilise une eSIM de voyage pour les données à l'étranger.
+
+**Configuration clé :**
+- Données cellulaires : eSIM de voyage
+- Ligne par défaut : SIM Free
+- Itinérance : désactivée sur Free, activée sur l'eSIM
+- Basculement des données : désactivé
+
+**Piège évité :** Sans la désactivation du basculement des données, l'iPhone bascule automatiquement sur la SIM Free quand le signal eSIM faiblit, générant des frais de roaming.
+
+### Scénario 3 : Marie, expatriée — eSIM locale + eSIM française
+
+Marie vit à Berlin avec une eSIM Telekom Allemagne et conserve son eSIM Bouygues pour les retours en France.
+
+**Astuce :** Elle définit des sonneries différentes pour chaque ligne — la sonnerie française pour les appels urgents de la famille. Elle utilise FaceTime Audio via les données de Telekom pour appeler ses proches en France sans frais internationaux.
+
+---
+
+## 14. Conseils professionnels finaux
 
 - **Étiquetez vos lignes** immédiatement après la configuration – cela évite des confusions infinies.
 - **Définissez des sonneries différentes** pour chaque ligne : `Réglages > Sons et vibrations > Sonnerie` → faites défiler vers le bas, vous pouvez attribuer par ligne.
 - **Utilisez l'automatisation des raccourcis** pour changer la ligne vocale par défaut en fonction de l'heure (par exemple, heures de travail = ligne professionnelle ; soirées = personnel).
+
+---
+
+## 15. Comprendre la double eSIM : technologie et limites
+
+La double eSIM repose sur une architecture technique précise qu'il est utile de comprendre pour diagnostiquer les problèmes.
+
+### Comment fonctionne la double eSIM techniquement
+
+L'iPhone intègre une puce **eUICC** (embedded Universal Integrated Circuit Card) conforme au standard **GSMA SGP.22**. Cette puce peut stocker plusieurs profils opérateur simultanément. Sur iPhone 13 et plus récents, deux profils peuvent être **actifs en même temps** grâce à la fonction DSDS (Dual SIM Dual Standby).
+
+Contrairement à une SIM physique qui occupe un emplacement mécanique, chaque profil eSIM est un conteneur logiciel chiffré dans l'eUICC. La commutation entre profils est quasi instantanée.
+
+### Limites techniques à connaître
+
+- **Double veille, pas double actif :** Pendant un appel sur une ligne, l'autre ligne n'est pas joignable (sauf si l'appelant utilise un autre numéro configuré pour le renvoi).
+- **Une seule connexion de données à la fois :** Les deux lignes peuvent être en veille, mais une seule peut être la ligne de données active. Le basculement entre lignes de données prend 2-5 secondes.
+- **Bandes 5G partagées :** Les deux lignes partagent les mêmes antennes. Si les deux opérateurs utilisent des bandes différentes, la commutation est transparente. Si un seul opérateur a la 5G dans une zone, l'autre ligne bascule en 4G.
+- **Impact sur l'autonomie :** Deux lignes actives consomment 5-10 % de batterie en plus qu'une seule ligne, particulièrement en zone de signal faible.
+
+### Problèmes de compatibilité opérateur
+
+Certains opérateurs (notamment les petits MVNO et les opérateurs CDMA) ont des restrictions spécifiques pour la double eSIM :
+
+- **Verizon (CDMA)** : Certains forfaits Verizon ne supportent pas la double SIM.
+- **Free Mobile** : La double SIM fonctionne, mais le Wi-Fi Calling peut nécessiter une réactivation après chaque mise à jour iOS.
+- **eSIM de voyage data-only** : Certaines eSIM de voyage n'incluent pas de numéro de téléphone — l'iPhone peut les utiliser pour les données seulement.
+
+---
+
+## 16. FAQ étendue — Double eSIM
+
+**Q9 : Puis-je utiliser FaceTime et iMessage avec deux eSIM ?**
+Oui. iMessage et FaceTime sont liés à votre identifiant Apple, pas à votre carte SIM. Vous pouvez associer les deux numéros dans Réglages > Messages > Envoyer & Recevoir. Les deux numéros apparaîtront comme options pour iMessage et FaceTime.
+
+**Q10 : Comment transférer mes deux eSIM vers un nouvel iPhone ?**
+Avec iOS 19, vous pouvez transférer les deux eSIM simultanément pendant la configuration du nouvel iPhone. Placez les deux appareils à proximité, suivez les instructions. Si le transfert échoue, contactez chaque opérateur pour obtenir de nouveaux QR codes.
+
+**Q11 : La double eSIM est-elle plus sécurisée que eSIM + SIM physique ?**
+Oui. Comme il n'y a pas de carte physique à retirer, un voleur ne peut pas désactiver les deux lignes en éjectant une carte SIM. Les deux eSIM restent actives après un vol — « Localiser mon iPhone » continue de fonctionner sur les deux lignes. C'est la configuration recommandée pour la sécurité en voyage.
+
+**Q12 : Puis-je avoir une eSIM Orange et une eSIM Bouygues en double SIM ?**
+Oui, à condition que les deux opérateurs autorisent l'eSIM sur votre compte. La configuration est identique à n'importe quelle double SIM : une ligne pour les données, l'autre pour les appels/SMS.
 - **Avant de vendre votre appareil** : Allez dans `Réglages > Données cellulaires`, supprimez **toutes** les eSIM et retirez la carte SIM physique. Pour un guide détaillé sur la suppression des eSIM et l'annulation des forfaits, consultez le **[Correctif #9 dans notre guide de dépannage](/faq/esim-deep-troubleshooting-guide-2026/#9-after-deleting-esim-carrier-still-charges--cannot-reactivate)**.
 
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "inLanguage": "fr",
+  "mainEntity": [
+    {"@type": "Question", "name": "Puis-je utiliser deux eSIM du même opérateur français ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, à condition que votre opérateur autorise plusieurs profils eSIM sur un seul compte. Orange, SFR, Bouygues et Free permettent généralement deux eSIM sur le même iPhone. Vérifiez les conditions dans votre espace client."}},
+    {"@type": "Question", "name": "Les deux lignes prendront-elles en charge la 5G simultanément ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, sur iPhone 13 et plus récents (y compris iPhone 17), les deux lignes peuvent être en 5G en double veille. Cependant, une seule ligne peut utiliser les données 5G à la fois, l'autre utilise la 5G pour le repli vocal uniquement."}},
+    {"@type": "Question", "name": "Ma deuxième ligne fonctionne mais la première a cessé de fonctionner après l'avoir ajoutée, que s'est-il passé ?", "acceptedAnswer": {"@type": "Answer", "text": "Vous avez peut-être accidentellement échangé les paramètres de ligne principale. Allez dans Réglages > Données cellulaires > Ligne vocale par défaut et rétablissez la ligne souhaitée."}},
+    {"@type": "Question", "name": "La double eSIM décharge-t-elle plus la batterie que eSIM + SIM physique ?", "acceptedAnswer": {"@type": "Answer", "text": "Généralement, la double eSIM consomme légèrement moins d'énergie puisqu'il n'y a pas de lecteur de carte physique. Mais la différence est négligeable, de l'ordre de 2 à 3 %."}},
+    {"@type": "Question", "name": "Puis-je utiliser une eSIM locale pour les données et conserver mon eSIM française pour les appels en voyage ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, c'est la meilleure pratique. Définissez l'eSIM locale comme ligne de données cellulaires, conservez l'eSIM française comme ligne vocale par défaut, et désactivez l'itinérance des données sur l'eSIM française pour éviter des frais élevés."}},
+    {"@type": "Question", "name": "Pourquoi la deuxième eSIM disparaît-elle parfois après une mise à jour iOS ?", "acceptedAnswer": {"@type": "Answer", "text": "Il s'agit d'un bogue rare. Allez dans Réglages > Données cellulaires : si la ligne manque mais apparaît sous « SIM disponibles », appuyez dessus et réactivez-la. Sinon, contactez l'opérateur pour renvoyer le profil."}},
+    {"@type": "Question", "name": "Puis-je utiliser une configuration double SIM avec une Apple Watch ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. L'Apple Watch peut refléter une des lignes de l'iPhone. Choisissez la ligne que vous souhaitez associer à la montre lors de la configuration initiale."}},
+    {"@type": "Question", "name": "Que faire si l'activation de la double eSIM chez Orange, SFR, Bouygues ou Free échoue ?", "acceptedAnswer": {"@type": "Answer", "text": "Vérifiez que votre forfait est éligible à l'eSIM et que votre iPhone est débloqué dans Réglages > Général > Informations. Contactez le support de votre opérateur pour qu'il génère un nouveau QR code ou réinitialise votre profil eSIM."}},
+    {"@type": "Question", "name": "Puis-je utiliser FaceTime et iMessage avec deux eSIM ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. iMessage et FaceTime sont liés à votre identifiant Apple, pas à votre carte SIM. Vous pouvez associer les deux numéros dans Réglages > Messages > Envoi et réception. Les deux numéros apparaîtront comme options."}},
+    {"@type": "Question", "name": "Comment transférer mes deux eSIM vers un nouvel iPhone ?", "acceptedAnswer": {"@type": "Answer", "text": "Avec iOS 19, vous pouvez transférer les deux eSIM simultanément pendant la configuration du nouvel iPhone. Placez les deux appareils à proximité et suivez les instructions. Si le transfert échoue, contactez chaque opérateur pour de nouveaux QR codes."}}
+  ]
+}
+</script>
 *Basé sur les documents de support Apple, le comportement d'iOS 19 et les tests d'opérateurs en juin 2026. L'expérience réelle peut varier selon l'opérateur, la région et le modèle d'appareil.*

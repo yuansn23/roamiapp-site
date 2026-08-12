@@ -1,9 +1,11 @@
 ---
 title: "Samsung Galaxy compatible con eSIM: guía para series S/A/Z"
 h1_title: "Guía completa de Samsung Galaxy eSIM para las series S, A y Z"
-description: "Los Samsung Galaxy S20 y posteriores son compatibles con eSIM. Roami te guía en la activación para que viajes conectado sin necesidad de SIM física."
-date: 2026-06-22T10:00:00Z
-lastmod: 2026-06-22T10:00:00Z
+description: "Samsung Galaxy compatible con eSIM: guía series S, A y Z. Modelos desde el S20, activación paso a paso y verificación de compatibilidad por región."
+canonical: ""
+image: "/img/esim-activation-guide.jpg"
+date: 2026-08-11T10:00:00Z
+lastmod: 2026-08-11T10:00:00Z
 tags: ["Samsung", "eSIM", "Compatibilidad", "Galaxy S21", "Galaxy S22", "Galaxy S23", "Galaxy S24", "Galaxy S25", "Serie Galaxy A", "Serie Galaxy Z"]
 toc: true
 

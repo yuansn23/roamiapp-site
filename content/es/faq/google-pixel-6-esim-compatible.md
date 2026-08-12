@@ -1,9 +1,11 @@
 ---
 title: "Google Pixel compatible con eSIM: modelos Pixel 2 a 10"
 h1_title: "Compatibilidad eSIM en Google Pixel: desde Pixel 2 hasta Pixel 10"
-description: "¿Tu Google Pixel tiene eSIM? Roami te confirma la compatibilidad de Pixel 2 a 10. Actívala fácilmente y disfruta de internet en tus viajes sin cambiar de SIM."
-date: 2026-06-22T10:00:00Z
-lastmod: 2026-06-22T10:00:00Z
+description: "Google Pixel compatible con eSIM: todos los modelos del 2 al 10. Verificación, activación y consejos para usar tu eSIM en viajes internacionales."
+canonical: ""
+image: "/img/esim-activation-guide.jpg"
+date: 2026-08-11T10:00:00Z
+lastmod: 2026-08-11T10:00:00Z
 tags: ["Google Pixel", "eSIM", "Compatibilidad", "Pixel 6", "Pixel 7", "Pixel 8", "Pixel 9", "Pixel 10"]
 toc: true
 

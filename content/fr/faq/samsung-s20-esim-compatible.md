@@ -1,12 +1,11 @@
 ---
 title: "Galaxy S20 eSIM : compatible ? Guide complet 2026"
 h1_title: "Le guide complet de la compatibilité eSIM du Galaxy S20 en 2026"
-description: "Avec Roami, seules les versions Exynos internationales du Galaxy S20 sont compatibles eSIM (modèles USA non). Vérifiez votre EID. S10/S9/série A : limité."
-keywords: ["S20 compatible eSIM", "Samsung S20 eSIM compatible", "Galaxy S20 eSIM compatible", "Samsung S20 Plus eSIM", "S20 Ultra eSIM", "Airalo Samsung S20", "Visible Samsung S20", "Samsung S10 eSIM compatible", "Galaxy S10 eSIM compatible", "Samsung S9 eSIM compatible", "Samsung A13 eSIM compatible", "Samsung A51 eSIM compatible", "Samsung A52s eSIM compatible", "téléphone compatible eSIM", "Samsung compatible eSIM", "eSIM Samsung compatible", "Samsung esim compatible", "Verizon eSIM compatibility", "US Mobile eSIM compatible devices", "Holafly compatible phones", "iPhone compatible esim"]
-date: 2026-06-22T10:00:00Z
-lastmod: 2026-06-22T10:00:00Z
-tags: ["Samsung", "eSIM", "Compatibilité", "Galaxy S20"]
+description: "Seules les versions Exynos internationales du Galaxy S20 sont compatibles eSIM (modèles USA non). Vérifiez votre EID. S10/S9/série A : limité."
+keywords: ["S20 compatible eSIM", "Samsung S20 eSIM compatible", "Galaxy S20 eSIM compatible", "Samsung S20 Plus eSIM", "S20 Ultra eSIM", "Samsung S10 eSIM compatible", "Galaxy S10 eSIM compatible", "Samsung S9 eSIM compatible"]
 toc: true
+date: 2026-08-11T10:00:00Z
+lastmod: 2026-08-11T10:00:00Z
 
 # Configuration hardcodée du site & SEO
 site_name: "Roami"
@@ -104,6 +103,16 @@ La technologie eSIM est régie par le [standard GSMA SGP.22](https://www.gsma.co
 
 ---
 
+## 📌 Résumé : Galaxy S20 eSIM en bref
+
+1. **Uniquement modèles Exynos internationaux** — Les S20 européens (SM-G980F/G985F/G988B) supportent l'eSIM. Les modèles américains Snapdragon (U/U1) : NON.
+2. **Vérifiez avec `*#06#`** — si un EID de 32 chiffres apparaît, votre S20 est prêt pour l'eSIM.
+3. **One UI 3.1 minimum** — Android 11 ou supérieur requis pour l'activation eSIM.
+4. **S20 FE exclu** — Le Galaxy S20 FE ne supporte PAS l'eSIM, quelle que soit la région.
+5. **5G disponible** — Les modèles S20 5G supportent la 5G SA/NSA, un avantage par rapport aux iPhone de la même génération.
+
+---
+
 ## 1. Quels modèles Galaxy S20 sont compatibles eSIM ?
 
 | Modèle | Région / Processeur | Support eSIM | Remarques |
@@ -111,13 +120,13 @@ La technologie eSIM est régie par le [standard GSMA SGP.22](https://www.gsma.co
 | S20 (SM-G980F) | Global (Exynos 990) | Oui | One UI 3.1 (Android 11) ou supérieur |
 | S20+ (SM-G985F) | Global (Exynos 990) | Oui | One UI 3.1 (Android 11) ou supérieur |
 | S20 Ultra (SM-G988B) | Global (Exynos 990) | Oui | One UI 3.1 (Android 11) ou supérieur |
-| S20 (SM-G981U/U1) | USA eSIM (Snapdragon 865) | Non | Désactivé par Samsung |
-| S20+ (SM-G986U/U1) | USA eSIM (Snapdragon 865) | Non | Désactivé par Samsung |
-| S20 Ultra (SM-G988U/U1) | USA eSIM (Snapdragon 865) | Non | Désactivé par Samsung |
+| S20 (SM-G981U/U1) | États-Unis (Snapdragon 865) | Non | Désactivé par Samsung |
+| S20+ (SM-G986U/U1) | États-Unis (Snapdragon 865) | Non | Désactivé par Samsung |
+| S20 Ultra (SM-G988U/U1) | États-Unis (Snapdragon 865) | Non | Désactivé par Samsung |
 | S20 (Canada) | Canada (Snapdragon 865) | Limité | Certains modèles supportent eSIM après mise à jour |
 | S20 FE (toutes régions) | Toutes | Non | Pas de matériel eSIM |
 
-**Pourquoi les modèles américains n'ont-ils pas d'eSIM ?** Samsung a désactivé l'eSIM dans le firmware américain pour deux raisons : les opérateurs américains (Verizon, AT&T, T-Mobile) voulaient lier les ventes d'appareils à leurs réseaux, et l'eSIM n'était pas encore répandue aux USA eSIM au moment du lancement du S20. En revanche, les modèles plus récents (S21, S22, S23, S24, S25) supportent l'eSIM dans toutes les régions.
+**Pourquoi les modèles américains n'ont-ils pas d'eSIM ?** Samsung a désactivé l'eSIM dans le firmware américain pour deux raisons : les opérateurs américains (Verizon, AT&T, T-Mobile) voulaient lier les ventes d'appareils à leurs réseaux, et l'eSIM n'était pas encore répandue aux États-Unis au moment du lancement du S20. En revanche, les modèles plus récents (S21, S22, S23, S24, S25) supportent l'eSIM dans toutes les régions.
 
 Pour les utilisateurs canadiens : le support est mitigé – certains modèles S20 canadiens (en particulier de Rogers et Bell) ont reçu l'eSIM après une mise à jour, d'autres non. La méthode la plus fiable est la vérification EID (voir section 3).
 
@@ -262,7 +271,55 @@ Les utilisateurs avertis peuvent tenter de remplacer le firmware américain par 
 
 ---
 
-## 9. Questions fréquentes sur l'eSIM du Galaxy S20
+## 9. Cas concrets d'utilisation du Galaxy S20 avec eSIM
+
+### Scénario 1 : Nicolas, voyage à Tokyo (S20 international)
+
+Nicolas possède un S20 (SM-G980F) acheté en France. Avant son voyage au Japon, il achète une eSIM Japon 10 Go / 30 jours.
+
+1. Vérification : `*#06#` → EID présent ✅
+2. Installation : Paramètres > Connexions > Gestionnaire de carte SIM > Ajouter eSIM > scan QR code.
+3. Configuration : eSIM pour les données, SIM Free pour les appels/SMS.
+4. À l'arrivée : activation de l'itinérance des données sur l'eSIM.
+5. Résultat : connexion 5G dans Tokyo, économie de 40 € par rapport au roaming.
+
+### Scénario 2 : Sarah, S20 américain — l'alternative SIM physique
+
+Sarah a un S20 (SM-G981U) acheté aux États-Unis. `*#06#` n'affiche pas d'EID.
+
+**Solution :** Elle achète une carte SIM physique de voyage (compatible avec tous les S20 déverrouillés) pour son voyage en Europe. Même fonctionnalité que l'eSIM, mais nécessite l'insertion physique de la carte.
+
+### Scénario 3 : Marc, double SIM pro/perso (S20 international)
+
+Marc utilise son S20 avec une SIM physique Bouygues (personnelle) et une eSIM Orange (professionnelle).
+
+Configuration dans le Gestionnaire de carte SIM :
+- Données mobiles : eSIM Orange (forfait pro avec 100 Go)
+- Appels : SIM Bouygues par défaut
+- SMS : SIM Bouygues par défaut
+- Données pendant les appels : activé
+
+Résultat : deux lignes actives, une seule facture pro pour les données, interruption minimale.
+
+---
+
+## 10. Galaxy S20 vs modèles récents : l'évolution de l'eSIM chez Samsung
+
+| Critère | S20 (2020) | S21 (2021) | S23 (2023) | S25 (2025) |
+|---------|:---:|:---:|:---:|:---:|
+| **eSIM USA** | ❌ | ✅ | ✅ | ✅ |
+| **eSIM Global** | ✅ (Exynos) | ✅ | ✅ | ✅ |
+| **Double eSIM actif** | ❌ | ❌ | ✅ | ✅ |
+| **Profils eSIM stockables** | 5 | 5 | 8+ | 10+ |
+| **5G SA** | ✅ | ✅ | ✅ | ✅ |
+| **One UI** | 5.1 (dernière) | 6.1 | 6.1 | 7.0 |
+| **Sécurité Knox** | ✅ | ✅ | ✅ | ✅ |
+
+**Conclusion :** Le S20 international reste un excellent choix économique pour l'eSIM en 2026. Si vous avez un modèle américain ou un S20 FE, le passage à un S21 ou plus récent débloque l'eSIM dans toutes les régions.
+
+---
+
+## 11. Questions fréquentes sur l'eSIM du Galaxy S20
 
 **Q1 : Puis-je utiliser l'eSIM d'Airalo avec mon S20 américain ?**
 Non. Les modèles S20 américains (SM-G981U/U1) n'ont pas de matériel eSIM – quel que soit le fournisseur.
@@ -271,7 +328,7 @@ Non. Les modèles S20 américains (SM-G981U/U1) n'ont pas de matériel eSIM – 
 Non. Le S20 FE n'a pas de matériel eSIM dans aucune région – il ne supporte que les cartes SIM physiques.
 
 **Q3 : Mon S20 international n'affiche pas l'option eSIM après la mise à jour. Que faire ?**
-Assurez-vous d'avoir installé One UI 3.1 ou supérieur. Si l'option est absente, effectuez la vérification EID (`*#06#`) – si aucun EID n'apparaît, votre appareil pourrait ne pas supporter l'eSIM (rare exception).
+Assurez-vous d'avoir installé One UI 3.1 ou supérieur. Si l'option est absente, effectuez la vérification EID (`*#06#`) – si aucun EID n'apparaît, votre appareil pourrait ne pas prendre en charge l'eSIM (rare exception).
 
 **Q4 : Puis-je transférer mon numéro Orange sur l'eSIM du S20 ?**
 Oui, si votre S20 est un modèle international. Demandez la conversion via le portail client Orange – vous recevrez un code QR à scanner sous "Ajouter une eSIM".
@@ -281,14 +338,183 @@ Vérifiez le numéro de modèle dans **Paramètres > À propos du téléphone > 
 - Se terminant par F ou B → Modèle international (compatible eSIM)
 - Se terminant par U ou U1 → Modèle américain (pas d'eSIM)
 
-**Q6 : Le Galaxy S21 supporte-t-il l'eSIM aux USA eSIM ?**
-Oui. Contrairement au S20, Samsung a activé l'eSIM sur la série S21 également aux USA eSIM. Tous les modèles S21, S22, S23, S24 et S25 supportent l'eSIM dans toutes les régions.
+**Q6 : Le Galaxy S21 supporte-t-il l'eSIM aux États-Unis ?**
+Oui. Contrairement au S20, Samsung a activé l'eSIM sur la série S21 également aux États-Unis. Tous les modèles S21, S22, S23, S24 et S25 supportent l'eSIM dans toutes les régions.
 
 **Q7 : Puis-je utiliser l'eSIM Holafly sur le Galaxy S20 ?**
 Oui – Holafly fonctionne parfaitement sur les modèles S20 internationaux. Les modèles américains ne peuvent pas utiliser Holafly en raison de l'absence de matériel eSIM.
 
 **Q8 : Quelle est la différence entre l'eSIM et la SIM physique sur le S20 ?**
-Les deux offrent la même fonctionnalité – la différence est la flexibilité. Avec l'eSIM, vous pouvez activer, désactiver ou supprimer des profils sans changer de carte physique. C'est particulièrement pratique pour les voyages : vous pouvez ajouter une eSIM locale, l'utiliser, et la supprimer après votre retour.
+Les deux offrent la même fonctionnalité. Avec l'eSIM, vous pouvez activer, désactiver ou supprimer des profils sans changer de carte physique. C'est particulièrement pratique pour les voyages.
+
+**Q9 : Le S20 avec eSIM fonctionne-t-il avec les eSIM de voyage (Airalo, Holafly, Nomad) ?**
+Oui, tous les fournisseurs d'eSIM de voyage sont compatibles avec le S20 international. L'installation se fait via le Gestionnaire de carte SIM > Ajouter eSIM > Scanner le QR code.
+
+**Q10 : Puis-je transférer mon eSIM d'un S20 vers un nouveau téléphone ?**
+Le transfert direct d'eSIM entre appareils Samsung n'est supporté que depuis One UI 5.0 (Android 13), disponible sur S21 et plus récents. Pour le S20 (One UI 5.1 maximum), contactez votre opérateur pour un nouveau QR code.
+
+**Q11 : L'eSIM consomme-t-elle plus de batterie sur le S20 ?**
+Non. La consommation est identique à celle d'une SIM physique (moins de 1 %). En revanche, l'utilisation de deux lignes (double SIM) en zone de signal faible peut augmenter la consommation de 5 à 10 %.
 
 ---
-*Basé sur la documentation Samsung, les standards GSMA et les informations des opérateurs. Mis à jour : juin 2026.*
+
+## 12. Forfaits eSIM recommandés pour le Galaxy S20 international
+
+Si votre S20 (Exynos) est compatible eSIM, voici nos recommandations par type d'usage.
+
+### Tableau comparatif par usage
+
+| Profil voyageur | Type de forfait | Données | Durée | Prix indicatif | Fournisseur recommandé |
+|----------------|----------------|---------|------|---------------|----------------------|
+| **Week-end Europe** | eSIM économique | 3-5 Go | 7 jours | 5-10 € | Airalo, Roami |
+| **Semaine Europe** | eSIM standard | 5-10 Go | 15 jours | 10-20 € | Holafly, Nomad |
+| **USA / Canada** | eSIM Amérique | 10-20 Go | 30 jours | 15-35 € | T-Mobile via eSIM |
+| **Asie (Japon, Corée)** | eSIM Asie | 5-15 Go | 15-30 jours | 8-25 € | Ubigi, Airalo |
+| **Tour du monde** | eSIM global | 20-50 Go | 30 jours | 30-70 € | Flexiroam, Airalo |
+| **Expatriation** | eSIM local | Variable | Mensuel | 10-30 €/mois | Opérateur local |
+
+### Pourquoi le S20 Exynos est parfait pour les forfaits eSIM
+
+Le S20 international supporte la **5G SA/NSA**, ce qui vous permet d'utiliser les forfaits eSIM 5G à leur plein potentiel — contrairement à l'iPhone 11 ou l'iPhone XR de la même génération qui sont limités à la 4G LTE. Avec un forfait eSIM 5G sur le réseau partenaire local, vous bénéficiez de débits typiques de 150 à 500 Mbps en zone urbaine.
+
+**Recommandation :** Si vous cherchez un **forfait eSIM pas cher** pour le S20, les forfaits 3-5 Go à 5-7 € sont parfaits pour les courts séjours. Pour les longs séjours, privilégiez un forfait avec un quota clair (20-50 Go) plutôt qu'un « illimité » avec FUP qui bride le débit après 30-50 Go.
+
+### Tester avec une eSIM gratuite
+
+Avant d'acheter un forfait payant, testez la compatibilité de votre S20 avec une **[eSIM d'essai gratuite](/free-esim/)** (100-500 Mo). Cela vous permet de confirmer que l'eSIM fonctionne et d'évaluer la qualité du signal sur votre appareil.
+
+---
+
+## 13. Samsung Knox et la sécurité eSIM sur Galaxy S20
+
+La sécurité de l'eSIM sur le Galaxy S20 est assurée par deux couches de protection complémentaires.
+
+### La puce eUICC et le standard GSMA SGP.22
+
+La puce eUICC du S20 Exynos est conforme au standard **GSMA SGP.22**, qui définit :
+- Le protocole de téléchargement sécurisé des profils depuis le SM-DP+
+- L'authentification mutuelle entre le serveur et l'eUICC
+- Le chiffrement de bout en bout du profil pendant le transfert
+- L'isolation des profils : chaque profil est stocké dans un conteneur séparé et ne peut pas interagir avec les autres
+
+### Samsung Knox
+
+**Samsung Knox** est une plateforme de sécurité matérielle intégrée à tous les Galaxy S depuis le S6. Pour l'eSIM, Knox assure :
+- Le stockage chiffré du profil eSIM dans un conteneur Knox isolé
+- La vérification d'intégrité au démarrage : si le système a été modifié (root, custom ROM), l'eSIM est automatiquement désactivée
+- La protection contre l'extraction de profil, même avec un accès physique au téléphone
+
+### Bonnes pratiques de sécurité
+
+- N'activez votre eSIM que via un Wi-Fi sécurisé (domestique ou VPN d'entreprise)
+- Scannez UNIQUEMENT les QR codes de fournisseurs eSIM reconnus
+- En cas de perte/vol : utilisez **Find My Mobile** (Samsung) pour localiser l'appareil — l'eSIM reste active
+- Mettez à jour One UI régulièrement : les correctifs de sécurité mensuels corrigent les vulnérabilités potentielles
+
+---
+
+## Conclusion
+
+Le Samsung Galaxy S20 est un appareil compétent pour l'eSIM, à condition d'avoir un modèle international Exynos. Cette particularité régionale est le principal point de vigilance.
+
+**Ce qu'il faut retenir :**
+- Les S20, S20+ et S20 Ultra internationaux (Exynos) supportent l'eSIM avec One UI 3.1+
+- Les modèles américains (Snapdragon, U/U1) n'ont PAS d'eSIM
+- Le S20 FE n'a pas d'eSIM, quelle que soit la région
+- La vérification EID (`*#06#`) est la méthode de diagnostic la plus fiable
+- Les S21 et plus récents supportent l'eSIM dans TOUTES les régions
+
+Pour approfondir, consultez nos guides sur le **[Google Pixel 6 eSIM](/faq/google-pixel-6-esim-compatible/)**, l'**[iPhone 11 eSIM](/faq/iphone-11-esim-compatible/)** ou notre **[guide d'activation eSIM](/faq/how-to-activate-an-esim/)**.
+
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "inLanguage": "fr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Puis-je utiliser l'eSIM d'Airalo avec mon S20 américain ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non. Les modèles S20 américains (SM-G981U/U1) n'ont pas de puce eUICC — le matériel eSIM est absent, quel que soit le fournisseur. Seuls les modèles internationaux avec processeur Exynos supportent l'eSIM."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Le Galaxy S20 FE prend-il en charge l'eSIM ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non. Le S20 FE n'intègre pas de matériel eSIM, quelle que soit la région d'achat. Il ne supporte que les cartes SIM physiques. Pour l'eSIM, il faut un S20, S20+ ou S20 Ultra international."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Mon S20 international n'affiche pas l'option eSIM après la mise à jour. Que faire ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vérifiez que One UI 3.1 ou supérieur est installé dans Paramètres > À propos du téléphone > Informations logicielles. Composez *#06# — si aucun EID n'apparaît, votre appareil peut ne pas prendre en charge l'eSIM (exception rare)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Puis-je transférer mon numéro Orange sur l'eSIM du S20 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, sur un S20 international (Exynos). Demandez la conversion eSIM via le portail client Orange — vous recevrez un QR code à scanner dans Gestionnaire de carte SIM > Ajouter une eSIM."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment savoir si mon S20 est un modèle américain ou international ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Allez dans Paramètres > À propos du téléphone. Numéro de modèle se terminant par F ou B : international (compatible eSIM). Se terminant par U ou U1 : américain (pas d'eSIM)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Le Galaxy S21 supporte-t-il l'eSIM aux États-Unis ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui. Contrairement au S20, Samsung a activé l'eSIM sur tous les S21, y compris les modèles américains. Les séries S21, S22, S23, S24 et S25 supportent l'eSIM dans toutes les régions sans exception."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Puis-je utiliser l'eSIM Holafly sur le Galaxy S20 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, Holafly fonctionne sur les S20 internationaux (processeur Exynos). Les modèles américains (Snapdragon) ne peuvent pas utiliser Holafly ni aucun autre fournisseur eSIM en raison de l'absence de matériel eUICC."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle est la différence entre l'eSIM et la SIM physique sur le S20 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les deux offrent des fonctionnalités identiques. L'eSIM permet d'activer, désactiver ou supprimer des profils sans changer de carte physique — particulièrement pratique pour les voyages et la gestion multi-lignes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Le S20 avec eSIM fonctionne-t-il avec les eSIM de voyage (Airalo, Holafly, Nomad) ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, tous les fournisseurs d'eSIM de voyage sont compatibles avec le S20 international (Exynos). L'installation se fait via Gestionnaire de carte SIM > Ajouter eSIM > Scanner le QR code fourni."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "L'eSIM consomme-t-elle plus de batterie sur le S20 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non, la consommation est identique à celle d'une SIM physique (moins de 1 %). L'utilisation de deux lignes simultanées en zone de signal faible peut augmenter la consommation de 5 à 10 %."
+      }
+    }
+  ]
+}
+</script>
+
+*Basé sur la documentation Samsung, les standards GSMA SGP.22 et les informations des opérateurs. Dernière révision : août 2026.*

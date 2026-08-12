@@ -3,8 +3,8 @@ title: "Beste eSIM für USA-Roadtrips und Nationalparks"
 description: "Beste USA eSIM für Roadtrips: volle Abdeckung auf Highways und in Nationalparks. Roami mit automatischem Netzwechsel. Jetzt vergleichen!"
 keywords: ["beste eSIM für USA-Roadtrip", "USA eSIM Nationalparks", "USA eSIM ländliche Abdeckung", "Nomad USA Roadtrip eSIM", "beste eSIM für Fahrten quer durch die USA"]
 url: "/blog/usa-esim-road-trip-guide/"
-date: 2026-08-19T00:00:00Z
-lastmod: 2026-08-19T00:00:00Z
+date: 2026-08-11T00:00:00Z
+lastmod: 2026-08-11T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden, mit einfachen eSIM-Tarifen in Verbindung zu bleiben."
 image: "/img/blog/usa/usa-esim-road-trip-guide.jpg"

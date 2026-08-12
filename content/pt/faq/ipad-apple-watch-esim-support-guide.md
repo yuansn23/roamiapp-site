@@ -25,7 +25,7 @@ breadcrumbs:
     url: "/"
   parent:
     text: "Compatibilidade eSIM"
-    url: "/pt/compatibility/"
+    url: "/compatibility/"
 
 # Barra lateral: eSIMs populares
 sidebar_popular:
@@ -92,7 +92,7 @@ sidebar_questions:
     - question: "Como ativar eSIM no iPhone (Todos os Modelos)?"
       url: "/pt/faq/how-to-activate-esim-on-iphone/"
     - question: "Lista de Compatibilidade eSIM Mais Recente"
-      url: "/pt/compatibility/"
+      url: "/compatibility/"
 ---
 
 
@@ -106,7 +106,7 @@ sidebar_questions:
 
 > **Importante:** Mesmo que seu iPad tenha um slot SIM físico, ele também contém um chip eSIM embutido. Você pode usar qualquer um – ou ambos em modo dual‑SIM.
 
-A [página de suporte oficial da Apple para eSIM no iPad](https://support.apple.com/en-us/108072) fornece detalhes adicionais sobre modelos compatíveis. A tecnologia por trás do eSIM é regida pelo [padrão GSMA SGP.22](https://www.gsma.com/esim/). Para a lista completa de **telefones compatíveis com esim** e dispositivos de todas as marcas, veja nossa **[lista de compatibilidade completa](/pt/compatibility/)**.
+A [página de suporte oficial da Apple para eSIM no iPad](https://support.apple.com/en-us/108072) fornece detalhes adicionais sobre modelos compatíveis. A tecnologia por trás do eSIM é regida pelo [padrão GSMA SGP.22](https://www.gsma.com/esim/). Para a lista completa de **telefones compatíveis com esim** e dispositivos de todas as marcas, veja nossa **[lista de compatibilidade completa](/compatibility/)**.
 
 ---
 

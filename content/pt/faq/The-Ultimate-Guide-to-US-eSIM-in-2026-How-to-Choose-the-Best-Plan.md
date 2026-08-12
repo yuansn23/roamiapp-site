@@ -95,7 +95,7 @@ sidebar_questions:
     - question: "Como ativar eSIM no iPhone (Todos os Modelos)?"
       url: "/pt/faq/how-to-activate-esim-on-iphone/"
     - question: "Lista de Compatibilidade eSIM Mais Recente"
-      url: "/pt/compatibility/"
+      url: "/compatibility/"
 ---
 
 
@@ -112,7 +112,7 @@ Para economizar seu tempo, aqui estão recomendações rápidas para 2026 com ba
 | **Parques Nacionais / Viagens Rodoviárias** | Plano de Dados Fixo Grande | AT&T ou Verizon | $20 - $45 |
 | **Multi-País (USA/CAN/MEX)** | Regional América do Norte | Comutação automática | $15 - $50 |
 
-Agora que você sabe o que precisa, vamos detalhar exatamente como evitar zonas mortas, verificar o hardware do seu telefone e ativar seu eSIM sem conhecimento técnico. Para uma lista completa de **telefones compatíveis com esim**, veja nosso **[guia de compatibilidade completo](/pt/compatibility/)**.
+Agora que você sabe o que precisa, vamos detalhar exatamente como evitar zonas mortas, verificar o hardware do seu telefone e ativar seu eSIM sem conhecimento técnico. Para uma lista completa de **telefones compatíveis com esim**, veja nosso **[guia de compatibilidade completo](/compatibility/)**.
 
 ---
 
@@ -166,7 +166,7 @@ Se você está visitando Vancouver ou Cancún durante sua viagem aos USA, compre
 
 ## Leitura obrigatória antes de comprar: seu telefone suporta eSIM?
 
-É aqui que a maioria dos viajantes falha. Você deve verificar se o hardware do seu telefone suporta eSIM antes de pagar. Para ver a lista completa de dispositivos compatíveis, consulte o **[banco de dados de compatibilidade 2026](/pt/compatibility/)** da Roami.
+É aqui que a maioria dos viajantes falha. Você deve verificar se o hardware do seu telefone suporta eSIM antes de pagar. Para ver a lista completa de dispositivos compatíveis, consulte o **[banco de dados de compatibilidade 2026](/compatibility/)** da Roami.
 
 A verificação universal mais rápida: Abra o discador do telefone e digite `*#06#`. Se um longo código de barras rotulado **EID** aparecer na tela, seu telefone suporta eSIM.
 
@@ -254,7 +254,7 @@ Se após a ativação nenhuma rede de dados estiver disponível, as configuraç�
 ## Perguntas frequentes sobre eSIM dos USA
 
 **A Airalo ou a Roami são mais baratas para os USA?**
-A Roami é geralmente mais barata para planos com muitos dados, e a Roami oferece comutação multi-operadora (T-Mobile, AT&T, Verizon) enquanto a Airalo normalmente usa uma única rede. Para planos unlimited data us esim, a Roami frequentemente tem melhor custo-benefício. Leia nossa **[comparação completa Airalo vs Holafly](/pt/blog/2026-USA-eSIM-Ultimate-Guide-Airalo-vs-Holafly-vs-Roami-Which-is-the-Best-Choice/)**.
+A Roami é geralmente mais barata para planos com muitos dados, e a Roami oferece comutação multi-operadora (T-Mobile, AT&T, Verizon) enquanto a Airalo normalmente usa uma única rede. Para planos unlimited data us esim, a Roami frequentemente tem melhor custo-benefício. Leia nossa **[comparação completa Airalo vs Holafly](/blog/2026-USA-eSIM-Ultimate-Guide-Airalo-vs-Holafly-vs-Roami-Which-is-the-Best-Choice/)**.
 
 **Um eSIM dos USA inclui um número de telefone?**
 A maioria dos eSIMs de viagem são apenas dados. Se você precisa de um número dos USA para chamadas ou códigos de verificação SMS, procure um plano **us esim with phone number** (como Airalo Discover+).

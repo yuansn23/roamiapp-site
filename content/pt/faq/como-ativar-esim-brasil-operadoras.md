@@ -96,7 +96,7 @@ sidebar_questions:
     - question: "Como ativar eSIM no iPhone (Todos os Modelos)?"
       url: "/pt/faq/how-to-activate-esim-on-iphone/"
     - question: "Lista de Compatibilidade eSIM Mais Recente"
-      url: "/pt/compatibility/"
+      url: "/compatibility/"
 ---
 
 **A Resposta Curta:**

@@ -24,7 +24,7 @@ breadcrumbs:
     url: "/"
   parent:
     text: "Compatibilidade eSIM"
-    url: "/pt/compatibility/"
+    url: "/compatibility/"
 
 sidebar_popular:
   title: "eSIMs Populares"
@@ -80,7 +80,7 @@ sidebar_questions:
     - question: "Como ativar um eSIM no Android?"
       url: "/pt/faq/how-to-activate-an-esim/"
     - question: "Quais telefones têm suporte a eSIM?"
-      url: "/pt/compatibility/"
+      url: "/compatibility/"
     - question: "eSIM funciona em Portugal?"
       url: "/pt/portugal-esim/"
     - question: "Vodafone tem eSIM?"

@@ -90,7 +90,7 @@ sidebar_questions:
     - question: "Como ativar eSIM no iPhone (Todos os Modelos)?"
       url: "/pt/faq/how-to-activate-esim-on-iphone/"
     - question: "Lista de Compatibilidade eSIM Mais Recente"
-      url: "/pt/compatibility/"
+      url: "/compatibility/"
 ---
 
 
@@ -124,7 +124,7 @@ A distinção chave: um **travel esim UK** de um provedor global é projetado pa
 **Aqui está um pequeno segredo: a maioria das pessoas não tem ideia do que é um eSIM.** Pesquisas mostram que mais da metade dos viajantes ainda não sabe que o eSIM existe. Essa falta de conhecimento custa dinheiro real quando você precisa de **dados móveis no Reino Unido**.
 
 - **Taxa de aeroporto:** Compre um SIM físico em Heathrow ou Gatwick, e você pagará 30-50% a mais do que o preço normal pelos seus **dados móveis no Reino Unido**. Por quê? Porque eles sabem que você está desesperado.
-- **Confusão sobre seu telefone:** "Suporta eSIM" nem sempre significa "funciona para você". Alguns iPhones mais antigos precisam de atualizações da operadora; alguns Androids têm bloqueios regionais. Verifique nossa [ferramenta de compatibilidade](/pt/compatibility/) antes de viajar.
+- **Confusão sobre seu telefone:** "Suporta eSIM" nem sempre significa "funciona para você". Alguns iPhones mais antigos precisam de atualizações da operadora; alguns Androids têm bloqueios regionais. Verifique nossa [ferramenta de compatibilidade](/compatibility/) antes de viajar.
 - **Armadilha da marca:** Você vê "Vodafone" – um nome que confia do seu país de origem – e assume que pode simplesmente pegar um **Vodafone UK eSIM** no aeroporto. **Isso é um erro.** Explicaremos por quê mais tarde.
 
 **Dois mundos diferentes: locais vs. turistas**
@@ -225,7 +225,7 @@ Antes de comprar qualquer **eSIM**, certifique-se de que seu dispositivo é comp
    - EID aparece → seu telefone suporta eSIM.
    - Apenas números IMEI aparecem → seu telefone NÃO suporta eSIM.
 
-Para uma lista completa, veja nossa [lista de compatibilidade completa](/pt/compatibility/).
+Para uma lista completa, veja nossa [lista de compatibilidade completa](/compatibility/).
 
 
 ## A Verdade Sobre o Vodafone UK eSIM (Pare de Perder Tempo)
@@ -341,7 +341,7 @@ Se ainda tiver problemas, veja nosso [guia de solução de problemas eSIM](/pt/f
 
 **Antes do voo (pelo menos 48 horas antes)**
 
-1. Verifique se seu telefone realmente suporta eSIM. Use nossa [ferramenta de compatibilidade](/pt/compatibility/) – não adivinhe.
+1. Verifique se seu telefone realmente suporta eSIM. Use nossa [ferramenta de compatibilidade](/compatibility/) – não adivinhe.
 2. Decida se você precisa de um **travel eSIM UK** (viagens curtas) ou um plano local pós-pago (estadas longas).
 3. Leia a "política de uso justo" de qualquer **eSIM** que esteja considerando. Procure por cortes de velocidade ou limites de hotspot.
 4. Baixe mapas offline do Google Maps para as áreas que visitará. Apenas por precaução.
@@ -371,7 +371,7 @@ Para instruções detalhadas de ativação, veja nosso [guia de como ativar um e
 Porque você pagará 30-50% a mais do que o preço normal pelos seus **dados móveis no Reino Unido**. Os aeroportos sabem que você é um cliente cativo. Compre um **eSIM** online antes de sair. Esta é a principal razão para **comprar um eSIM online** com antecedência.
 
 **P2: Como sei se meu telefone funciona com um Reino Unido eSIM?**  
-Não assuma. Use nossa [ferramenta de compatibilidade](/pt/compatibility/) – ela verifica seu modelo exato e região. Ou disque `*#06#` – se um EID aparecer, seu telefone é compatível.
+Não assuma. Use nossa [ferramenta de compatibilidade](/compatibility/) – ela verifica seu modelo exato e região. Ou disque `*#06#` – se um EID aparecer, seu telefone é compatível.
 
 **P3: Por que tenho barras cheias mas sem internet em ambientes internos?**  
 Edifícios antigos do Reino Unido têm paredes grossas que bloqueiam o 5G de alta velocidade. Um bom **eSIM** (como o da Roami) muda automaticamente para um sinal mais lento, mas mais confiável, que consegue atravessar. A O2 tem a melhor penetração interna.

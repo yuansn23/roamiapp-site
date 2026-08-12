@@ -96,7 +96,7 @@ sidebar_questions:
     - question: "Como ativar eSIM no iPhone (Todos os Modelos)?"
       url: "/pt/faq/how-to-activate-esim-on-iphone/"
     - question: "Lista de Compatibilidade eSIM Mais Recente"
-      url: "/pt/compatibility/"
+      url: "/compatibility/"
 ---
 
 **A Resposta Curta:**
@@ -148,7 +148,7 @@ Antes de comprar um plano eSIM, você deve verificar se seu dispositivo tem o ha
 1. Vá em **Ajustes** > **Geral** > **Sobre**.
 2. Role para baixo – se você vir **SIM Digital** ou **SIM Disponível** com um número EID, seu dispositivo está pronto para eSIM.
 
-Para a lista completa de **telefones compatíveis com esim**, veja nossa **[lista de compatibilidade completa](/pt/compatibility/)**.
+Para a lista completa de **telefones compatíveis com esim**, veja nossa **[lista de compatibilidade completa](/compatibility/)**.
 
 ---
 

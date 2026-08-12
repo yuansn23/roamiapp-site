@@ -3,8 +3,8 @@ title: "USA eSIM Dual-SIM: Heimatnummer aktiv halten"
 description: "USA eSIM Dual-SIM: Heimatnummer behalten, US-Daten nutzen. Schritt für Schritt für iPhone & Android. Roami unterstützt Multi-Geräte. Jetzt einrichten!"
 keywords: ["USA eSIM Dual-SIM", "Dual-SIM Einrichtung USA eSIM", "Heim-SIM mit eSIM aktiv halten", "iPhone Dual-SIM eSIM", "Android Dual-SIM eSIM Einrichtung"]
 url: "/blog/usa-esim-dual-sim-setup/"
-date: 2026-08-16T00:00:00Z
-lastmod: 2026-08-16T00:00:00Z
+date: 2026-08-11T00:00:00Z
+lastmod: 2026-08-11T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami hilft Reisenden, mit einfachen eSIM-Tarifen verbunden zu bleiben."
 image: "/img/blog/usa/usa-esim-dual-sim-setup.jpg"

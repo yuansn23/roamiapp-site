@@ -1,10 +1,12 @@
 ---
 title: "Doble eSIM no funciona en iPhone: 12 soluciones efectivas"
 h1_title: "12 soluciones para cuando la doble eSIM no funciona en iPhone"
-description: "¿Tu doble eSIM no funciona en iPhone? Roami te ofrece 12 soluciones probadas. Desde errores de activación hasta problemas de señal. Recupera tu conexión en minutos."
-date: 2026-06-22T10:00:00Z
-lastmod: 2026-06-22T10:00:00Z
-tags: ["eSIM", "iOS", "Android", "Solución de problemas", "Configuración de viaje"]
+description: "¿Doble eSIM no funciona? 12 soluciones efectivas para iPhone. Errores de activación, problemas de señal y consumo de batería. Compatible con iOS 19."
+canonical: ""
+image: "/img/esim-activation-guide.jpg"
+date: 2026-08-11T10:00:00Z
+lastmod: 2026-08-11T10:00:00Z
+tags: ["eSIM", "Doble eSIM", "iPhone", "Solución de problemas", "iOS"]
 toc: true
 
 # Configuración del sitio y SEO básico (codificado)
@@ -96,10 +98,28 @@ sidebar_questions:
       url: "/compatibility/"
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type": "Question", "name": "¿Puedo usar dos eSIM del mismo operador?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, siempre que tu operador permita múltiples perfiles eSIM en una misma cuenta. T-Mobile US admite hasta dos eSIM en un mismo iPhone."}},
+    {"@type": "Question", "name": "¿Ambas líneas admitirán 5G simultáneamente?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, en iPhone 13 y posteriores ambas líneas pueden estar en 5G (doble espera 5G), aunque solo una usa datos 5G a la vez."}},
+    {"@type": "Question", "name": "Mi segunda línea funciona pero la primera dejó de funcionar — ¿qué pasó?", "acceptedAnswer": {"@type": "Answer", "text": "Puede que hayas intercambiado la configuración de línea principal. Ve a Ajustes > Datos Móviles > Línea de voz predeterminada y restablécelo."}},
+    {"@type": "Question", "name": "¿La doble eSIM consume más batería que eSIM + SIM física?", "acceptedAnswer": {"@type": "Answer", "text": "La doble eSIM consume ligeramente menos potencia al no haber lector de tarjeta física. La diferencia es insignificante (2-3%)."}},
+    {"@type": "Question", "name": "¿Puedo usar una eSIM local para datos y mi eSIM habitual para llamadas durante un viaje?", "acceptedAnswer": {"@type": "Answer", "text": "Sí. Configura la eSIM local como Datos Móviles, mantén la habitual como Voz predeterminada y desactiva Roaming de Datos en la habitual."}},
+    {"@type": "Question", "name": "¿Por qué la segunda eSIM desaparece a veces después de una actualización de iOS?", "acceptedAnswer": {"@type": "Answer", "text": "Error poco común. Ve a Ajustes > Datos Móviles: si la línea aparece en 'SIM disponibles', tócala para reactivarla. Si no, contacta al operador."}},
+    {"@type": "Question", "name": "¿Puedo usar una configuración de doble SIM con un Apple Watch?", "acceptedAnswer": {"@type": "Answer", "text": "Sí. El Apple Watch puede reflejar una de las líneas del iPhone. Elige qué línea usar en el reloj durante la configuración."}},
+    {"@type": "Question", "name": "¿Dónde encuentro documentación oficial de Apple para doble eSIM?", "acceptedAnswer": {"@type": "Answer", "text": "Apple proporciona las guías 'Acerca de eSIM en iPhone' y 'Usar doble SIM con una eSIM' en su sitio de soporte. El estándar técnico es GSMA SGP.22 V3.1."}}
+  ]
+}
+</script>
+
 > **Conclusiones Clave**  
 > - **Los operadores CDMA** (Verizon, US Cellular) pueden impedir la funcionalidad de voz en doble eSIM – cambia a un plan GSM.  
 > - **Los errores de caché T‑ADS** provocan fallos en llamadas entrantes – activa/desactiva Wi‑Fi Calling para solucionarlo.  
-> - Los iPhone son **doble espera, no doble activo** – que la otra línea muestre "Sin servicio" durante llamadas es normal.  
+> - ¿Problemas más complejos? Consulta nuestra [guía avanzada de solución de problemas eSIM](/faq/esim-deep-troubleshooting-guide-2026/) con 16 casos reales.
+> - Los iPhone son **DSDS (Dual SIM Dual Standby, doble espera), no doble activo** – que la otra línea muestre "Sin servicio" durante llamadas es normal.  
 > - Comprueba el **Bloqueo de operador** en Ajustes (`Sin restricciones SIM`) si no puedes añadir una segunda eSIM.  
 > - El consumo de batería por **doble eSIM** se puede reducir desactivando 5G en la línea con señal más débil. Si estos pasos no resuelven el problema, nuestra [guía avanzada de solución de problemas eSIM](/faq/esim-deep-troubleshooting-guide-2026/) cubre casos más complejos.
 
@@ -107,7 +127,7 @@ sidebar_questions:
 > **❓ ¿Cómo solucionar que la doble eSIM no funcione en iPhone?**  
 > Soluciona problemas de doble eSIM comprobando el estado de bloqueo del operador, activando/desactivando Wi‑Fi Calling para limpiar la caché T‑ADS y cambiando planes CDMA a GSM/solo 5G. Si una línea muestra "Sin servicio", puede ser el comportamiento normal de doble espera durante llamadas.
 
-Usar dos números de teléfono en un mismo iPhone es increíblemente cómodo – pero conlleva trampas ocultas. Desde conflictos CDMA vs GSM hasta fallos en el enrutamiento de llamadas entrantes (T‑ADS), esta guía cubre todo lo que necesitas saber para que la **doble eSIM** o **eSIM + SIM física** funcione perfectamente en iPhone 17, 16 y modelos anteriores con iOS 26. Para un recorrido completo de la configuración básica de eSIM, consulta nuestra **[Guía completa de iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**. Esta guía de solución de problemas de doble eSIM sigue las últimas [especificaciones GSMA eSIM](https://www.gsma.com/esim/) y ha sido probada en iOS 26.
+Usar dos números de teléfono en un mismo iPhone es increíblemente cómodo – pero conlleva trampas ocultas. Desde conflictos CDMA vs GSM hasta fallos en el enrutamiento de llamadas entrantes (T‑ADS), esta guía cubre todo lo que necesitas saber para que la **doble eSIM** o **eSIM + SIM física** funcione perfectamente en iPhone 17, 16 y modelos anteriores con iOS 19. Para un recorrido completo de la configuración básica de eSIM, consulta nuestra **[Guía completa de iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**. Esta guía de solución de problemas de doble eSIM sigue las últimas [especificaciones GSMA eSIM](https://www.gsma.com/esim/) y ha sido probada en iOS 19.
 
 ---
 
