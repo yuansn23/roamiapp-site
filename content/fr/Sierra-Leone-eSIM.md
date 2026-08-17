@@ -13,8 +13,8 @@ country_meta:
 modal:
   title: Service mis à niveau !
   btn_text: Continuer
-  text_default: Notre service eSIM a été amélioré vers <strong>PhoneSIMGo</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
-  text_android: Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
+  text_default: "Notre service eSIM a été amélioré vers <strong>PhoneSIMGo</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20"
+  text_android: "Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20"
 seo:
   title: 'eSIM Sierra Leone 2026 : Guide des couvertures Africell & Sierratel | Meilleur eSIM voyage'
   description: Comparez les forfaits eSIM Sierra Leone avec 5G rapide à Freetown, Bo, Kenema. Guide des couvertures Africell, Sierratel et Orange SL pour touristes et voyageurs. Activation QR instantanée à partir de 1,99 $.

@@ -93,7 +93,7 @@ vs_roaming:
     highlight: false
   saving_callout: BAE ve Suudi Arabistan'a bir haftalık iş seyahati Roami ile yalnızca <strong>$5</strong> — operatör dolaşımı ile <strong>$105-$140</strong> arası. Bu <strong>%95 tasarruf</strong> demektir.
   promo_code: WEB20
-  promo_discount: %20 İNDİRİM
+  promo_discount: "%20 İNDİRİM"
   promo_text: Ödeme sırasında <strong>WEB20</strong> kodunu kullanarak Orta Doğu eSIM'inizde ekstra %20 indirim kazanın. Bu indirim tüm ön ödemeli planlar için geçerlidir.
 faq_section:
   subtitle: Orta Doğu eSIM kullanımı hakkında bilmeniz gereken her şey.

@@ -13,8 +13,8 @@ country_meta:
 modal:
   title: Service amélioré !
   btn_text: Continuer
-  text_default: Notre service eSIM a été amélioré vers <strong>PhoneSIMGo</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
-  text_android: Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
+  text_default: "Notre service eSIM a été amélioré vers <strong>PhoneSIMGo</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20"
+  text_android: "Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20"
 seo:
   title: eSIM Serbie | Meilleur forfait eSIM pour les touristes
   description: Restez connecté en Serbie avec la meilleure eSIM de voyage prépayée de Roami. Données 5G illimitées dans tout le pays. Activation QR instantanée. Couvre Belgrade, Novi Sad et Niš.

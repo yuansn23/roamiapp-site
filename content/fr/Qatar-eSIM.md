@@ -13,8 +13,8 @@ country_meta:
 modal:
   title: Service mis à niveau !
   btn_text: Continuer
-  text_default: Notre service eSIM a été amélioré vers <strong>PhoneSIMGo</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
-  text_android: Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
+  text_default: "Notre service eSIM a été amélioré vers <strong>PhoneSIMGo</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20"
+  text_android: "Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20"
 seo:
   title: 'eSIM Qatar à partir de 1,99 $ : roaming dans la région du Golfe'
   description: Comparez les forfaits eSIM Qatar avec 5G rapide à Doha, Al Wakrah, Al Khor. Guide des couvertures Ooredoo, Vodafone Qatar et Orange Qatar pour touristes et voyageurs. Activation QR instantanée à partir de 1,99 $.

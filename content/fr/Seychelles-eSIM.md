@@ -13,8 +13,8 @@ country_meta:
 modal:
   title: Service amélioré !
   btn_text: Continuer
-  text_default: Notre service eSIM a été amélioré vers <strong>PhoneSIMGo</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
-  text_android: Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
+  text_default: "Notre service eSIM a été amélioré vers <strong>PhoneSIMGo</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20"
+  text_android: "Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20"
 seo:
   title: eSIM Seychelles | Meilleure eSIM de voyage pour votre séjour
   description: Profitez d'une data 5G illimitée aux Seychelles avec la meilleure eSIM de voyage prépayée de Roami. Couvre Mahé, Praslin et La Digue. Activation instantanée. Achetez votre forfait en ligne dès aujourd'hui.

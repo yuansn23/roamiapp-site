@@ -31,7 +31,7 @@ order_summary:
   label_validity: Geçerlilik Süresi
   label_daily: Günlük Ortalama
   label_total: Toplam Fiyat
-  btn_primary: %20 İndirim Talep Et
+  btn_primary: "%20 İndirim Talep Et"
   btn_secondary: 'Kod: web20'
 breadcrumbs:
 - label: Ana Sayfa

@@ -100,7 +100,7 @@ vs_roaming:
     highlight: false
   saving_callout: Japonya, Kore ve Tayland'a 14 günlük bir gezi Roami ile yalnızca <strong>$15</strong> — operatör dolaşımı ile <strong>$140-$210</strong> arası. Bu <strong>%90 tasarruf</strong> demek.
   promo_code: WEB20
-  promo_discount: %20 İNDİRİM
+  promo_discount: "%20 İNDİRİM"
   promo_text: Asya eSIM'inizde ekstra %20 indirim için ödeme sırasında <strong>WEB20</strong> kodunu kullanın. Bu indirim tüm ön ödemeli planlar için geçerlidir
 faq_section:
   subtitle: Asya eSIM kullanımı hakkında bilmeniz gereken her şey.

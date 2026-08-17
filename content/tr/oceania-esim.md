@@ -90,7 +90,7 @@ vs_roaming:
     highlight: false
   saving_callout: Roami ile 15 günlük Avustralya ve Yeni Zelanda gezisi sadece <strong>$15</strong> tutar — operatör dolaşımı ile <strong>$150-$225</strong> arası. Bu <strong>%90 tasarruf</strong> demektir.
   promo_code: WEB20
-  promo_discount: %20 İNDİRİM
+  promo_discount: "%20 İNDİRİM"
   promo_text: Ödeme sırasında <strong>WEB20</strong> kodunu kullanarak Okyanusya eSIM'inizde ekstra %20 indirim kazanın. Bu indirim tüm ön ödemeli planlar için geçerlidir.
 faq_section:
   subtitle: Okyanusya eSIM kullanımı hakkında bilmeniz gereken her şey.

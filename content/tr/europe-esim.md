@@ -106,7 +106,7 @@ vs_roaming:
     highlight: false
   saving_callout: 3 Avrupa ülkesine yapılan 14 günlük bir seyahat Roami ile yalnızca <strong>$15</strong> tutuyor — oysa operatör dolaşımı ile <strong>$140-$210</strong>. Bu <strong>%90 tasarruf</strong> demektir.
   promo_code: WEB20
-  promo_discount: %20 İNDİRİM
+  promo_discount: "%20 İNDİRİM"
   promo_text: Ödeme sırasında <strong>WEB20</strong> kodunu kullanarak Avrupa eSIM'inizde ekstra %20 indirim kazanın. Bu indirim tüm ön ödemeli planlar için geçerlidir.
 faq_section:
   subtitle: Avrupa eSIM kullanımı hakkında bilmeniz gereken her şey.

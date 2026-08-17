@@ -29,7 +29,7 @@ order_summary:
   label_validity: Geçerlilik Süresi
   label_daily: Günlük Ortalama
   label_total: Toplam Fiyat
-  btn_primary: %20 İndirim Kazan
+  btn_primary: "%20 İndirim Kazan"
   btn_secondary: 'Kod: web20'
 breadcrumbs:
 - label: Ana Sayfa
@@ -450,5 +450,5 @@ market_analysis:
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
       title: Visa, Mastercard, Apple Pay ile Ödeme Yapın
-      desc: %16 gizli vergiden ve kontur kartı dolandırıcılıklarından kaçının. Roami Visa, Mastercard, AMEX, Apple Pay, Google Pay ve PayPal kabul eder.
+      desc: "%16 gizli vergiden ve kontur kartı dolandırıcılıklarından kaçının. Roami Visa, Mastercard, AMEX, Apple Pay, Google Pay ve PayPal kabul eder."
 ---

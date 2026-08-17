@@ -13,8 +13,8 @@ country_meta:
 modal:
   title: Service mis à niveau !
   btn_text: Continuer
-  text_default: Notre service eSIM a été amélioré vers <strong>PhoneSIMGo</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
-  text_android: Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
+  text_default: "Notre service eSIM a été amélioré vers <strong>PhoneSIMGo</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20"
+  text_android: "Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20"
 seo:
   title: eSIM Slovaquie | Meilleur eSIM voyage pour votre périple
   description: Voyagez en Slovaquie avec le meilleur eSIM prépayé de Roami. Données 5G illimitées sur tout le territoire. Activation instantanée. Couvre Bratislava, Košice et les Tatras.

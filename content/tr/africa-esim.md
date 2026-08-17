@@ -99,7 +99,7 @@ vs_roaming:
     highlight: false
   saving_callout: Kenya ve Tanzanya'da 10 günlük bir safari Roami ile yalnızca <strong>15$</strong> — operatör dolaşımıyla <strong>150$-250$</strong> arası. Bu <strong>%90 tasarruf</strong> demektir.
   promo_code: WEB20
-  promo_discount: %20 İNDİRİM
+  promo_discount: "%20 İNDİRİM"
   promo_text: Ödeme sırasında <strong>WEB20</strong> kodunu kullanarak Afrika eSIM'inizde ekstra %20 indirim kazanın. Bu indirim tüm ön ödemeli planlar için geçerlidir.
 faq_section:
   subtitle: Afrika eSIM kullanımı hakkında bilmeniz gereken her şey.

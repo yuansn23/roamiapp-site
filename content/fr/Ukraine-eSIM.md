@@ -13,8 +13,8 @@ country_meta:
 modal:
   title: Service mis à niveau !
   btn_text: Continuer
-  text_default: Notre service eSIM a été amélioré vers <strong>PhoneSIMGo</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
-  text_android: Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
+  text_default: "Notre service eSIM a été amélioré vers <strong>PhoneSIMGo</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20"
+  text_android: "Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20"
 seo:
   title: eSIM Ukraine | Meilleur forfait de données voyage pour les explorateurs
   description: Voyagez en Ukraine avec le meilleur eSIM prépayé de Roami. Données 5G illimitées sur les meilleurs réseaux. Couvre Kyiv, Lviv et Odessa. Activation instantanée.

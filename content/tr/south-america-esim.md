@@ -98,7 +98,7 @@ vs_roaming:
   saving_callout: Brezilya, Arjantin, Şili ve Peru'dan geçen 14 günlük bir seyahat Roami ile yalnızca <strong>$15</strong>
     — operatör dolaşımı ile <strong>$140-$210</strong> arası. Bu <strong>%90 tasarruf</strong> demektir.
   promo_code: WEB20
-  promo_discount: %20 İNDİRİM
+  promo_discount: "%20 İNDİRİM"
   promo_text: Ödeme sırasında <strong>WEB20</strong> kodunu kullanarak Güney Amerika eSIM'inizde ekstra %20 indirim kazanın.
     Bu indirim tüm ön ödemeli planlar için geçerlidir.
 faq_section:
