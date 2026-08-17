@@ -13,8 +13,8 @@ country_meta:
 modal:
   title: Service amélioré !
   btn_text: Continuer
-  text_default: Notre service eSIM a été amélioré vers <strong>PhoneSIMGo</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
-  text_android: Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20
+  text_default: "Notre service eSIM a été amélioré vers <strong>PhoneSIMGo</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20"
+  text_android: "Notre service eSIM a été amélioré vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient d'une réduction de 20 %, code promo : web20"
 seo:
   title: 'eSIM Oman à partir de 1,99 $ : 5G illimitée dans tout Oman'
   description: Comparez les forfaits eSIM pour Oman avec 5G rapide à Mascate, Salalah, Nizwa. Guide de couverture Omantel, Ooredoo et Vodafone pour touristes et voyageurs. Activation QR instantanée à partir de 1,99 $.
