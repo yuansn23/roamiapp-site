@@ -2,18 +2,18 @@
 title: "Does iPhone SE Support eSIM? Full Guide (Update)"
 h1_title: "Does the iPhone SE Support eSIM? A Complete Guide (Updated)"
 description: "iPhone SE (2020/2022) support eSIM – original 2016 SE does not. Verify with *#06#. Works with major carriers and global eSIM providers."
-keywords: ["iphone se esim compatible", "iphone se 2020 esim compatible", "iphone se 2nd gen esim", "iphone se 3rd gen esim", "iphone se 2nd generation esim compatible", "airalo compatible phones", "visible esim compatible phones", "verizon esim compatibility", "us mobile esim compatible devices", "holafly compatible phones", "jio esim compatible phones", "dual sim compatible", "list of iphones that support esim", "esim capable iphones", "iphone esim compatible", "esim iphone compatibility", "iphone 6s esim compatible", "iphone 7 esim compatible", "iphone 8 esim compatible", "iphone se compatible with esim", "does iphone se have esim", "iphone se 3rd gen esim support", "iphone se 2020 esim capable", "esim iphone se 2020"]
+keywords: ["iphone se esim", "iphone se esim compatible", "does iphone se have esim", "iphone se 2020 esim", "iphone se 3rd gen esim", "esim capable iphones", "iphone se dual sim", "list of iphones that support esim", "iphone se esim setup", "esim iphone se"]
 date: 2026-06-23T10:00:00Z
 lastmod: 2026-06-23T10:00:00Z
 tags: ["iPhone", "eSIM", "Compatibility", "iPhone SE"]
 toc: true
 
-# 站点 & SEO 基础硬编码配置
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI 文本翻译/硬编码配置 (支持多语言化)
+# UI text translations
 ui_text:
   updated_on: "Updated on"
   min_read: "min read"
@@ -27,7 +27,7 @@ breadcrumbs:
     text: "eSIM Compatibility"
     url: "/compatibility/"
 
-# 右侧：热门 eSIM 配置 (6个国家，1.99美金)
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "Popular eSIMs"
   item_suffix: "eSIM"
@@ -63,7 +63,7 @@ sidebar_popular:
       url: "/china-esim/"
       badge: "5G"
 
-# 右侧：免费 eSIM 配置 (4个国家)
+# Sidebar: Free eSIM offers
 sidebar_free:
   title: "Claim Free eSIM"
   icon: "🎁"
@@ -83,14 +83,14 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# 右侧：热门问题配置 (5个问题)
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Popular Questions"
   items:
     - question: "What is eSIM activation and how does it work?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "How to activate an eSIM?"
-      url: "/faq/how-to-activate-an-esim//"
+      url: "/faq/how-to-activate-an-esim/"
     - question: "How to activate eSIM on iPhone (All Models)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Latest eSIM Compatibility List"
@@ -112,9 +112,9 @@ Here's what you need to know in 10 seconds:
 2. **Verify with *#06#:** Dial this code. If a 32‑digit EID appears, your phone is eSIM‑ready.
 3. **Activate in minutes:** Scan a QR code from any provider before you travel.
 
-The iPhone SE (2020) and (2022) use the same eSIM hardware as iPhone 11/12 – no compromises. The **iphone se 2020 esim capable** feature is identical to the iPhone 11, and the **iphone se 3rd gen esim support** includes 5G connectivity on top of eSIM.
+The iPhone SE (2020) and (2022) use the same eSIM hardware as iPhone 11/12 – no compromises. The **iphone se 2020 eSIM capable** feature is identical to the iPhone 11, and the **iphone se 3rd gen eSIM support** includes 5G connectivity on top of eSIM.
 
-For a complete list of all eSIM‑compatible devices across brands, see our [full compatibility guide](/compatibility/). If you're new to eSIM, our [What is eSIM? guide](/faq/What-Is-eSIM/) covers the basics.
+For a complete list of all eSIM‑compatible devices across brands, see our [full compatibility guide](/compatibility/). If you're new to eSIM, our [What is eSIM? guide](/faq/what-is-esim/) covers the basics.
 
 
 ## iPhone SE eSIM Compatibility by Generation
@@ -122,12 +122,12 @@ For a complete list of all eSIM‑compatible devices across brands, see our [ful
 | Model | Year | eSIM Support | Dual SIM | Notes |
 |-------|------|--------------|----------|-------|
 | iPhone SE (1st gen) | 2016 | ❌ No | No | Models A1723, A1662, A1724 – no eSIM hardware |
-| iPhone SE (2nd gen) | 2020 | ✅ Yes | Yes (nano‑SIM + eSIM) | Models: A2275 (global), A2296 (US), A2298 (Japan) – **iphone se 2nd gen esim compatible** |
-| iPhone SE (3rd gen) | 2022 | ✅ Yes | Yes (nano‑SIM + eSIM) | Models: A2783, A2784, A2785 – **iphone se 3rd gen esim** with 5G |
+| iPhone SE (2nd gen) | 2020 | ✅ Yes | Yes (nano‑SIM + eSIM) | Models: A2275 (global), A2296 (US), A2298 (Japan) – **iphone se 2nd gen eSIM compatible** |
+| iPhone SE (3rd gen) | 2022 | ✅ Yes | Yes (nano‑SIM + eSIM) | Models: A2783, A2784, A2785 – **iphone se 3rd gen eSIM** with 5G |
 
 **Important:** iPhones sold in **mainland China** (including some Hong Kong models) do **not** support eSIM – regardless of generation. If you bought your SE in China, assume no eSIM. This is due to local regulations requiring dual physical SIM support for domestic market devices.
 
-The [Apple Support – eSIM on iPhone](https://support.apple.com/en-us/118670) page confirms eSIM compatibility for all iPhone SE models from 2020 onward. For the **iphone se 2nd generation esim compatible** question, Apple's official documentation confirms full support.
+The [Apple Support – eSIM on iPhone](https://support.apple.com/en-us/118670) page confirms eSIM compatibility for all iPhone SE models from 2020 onward. For the **iphone se 2nd generation eSIM compatible** question, Apple's official documentation confirms full support.
 
 
 ## Why iPhone SE 2020/2022 Support eSIM (and 2016 Doesn't)
@@ -151,7 +151,7 @@ If you're comparing models or searching for **"list of iphones that support esim
 |--------------|--------------|----------------------------|-------|
 | iPhone XR, XS, XS Max | ✅ Yes | Yes | First iPhones with eSIM |
 | iPhone 11, 11 Pro, 11 Pro Max | ✅ Yes | Yes | |
-| **iPhone SE (2020, 2022)** | ✅ Yes | Yes | 2nd/3rd gen – **esim iphone se 2020** confirmed |
+| **iPhone SE (2020, 2022)** | ✅ Yes | Yes | 2nd/3rd gen – **eSIM iphone se 2020** confirmed |
 | iPhone 12, 12 mini, 12 Pro, 12 Pro Max | ✅ Yes | Yes | |
 | iPhone 13, 13 mini, 13 Pro, 13 Pro Max | ✅ Yes | Yes | |
 | iPhone 14, 14 Plus, 14 Pro, 14 Pro Max | ✅ Yes | US models: eSIM only; others: physical + eSIM | |
@@ -210,12 +210,12 @@ For complete compatibility details, see our [iPhone eSIM guide](/faq/iphone-11-e
    - **Only IMEI numbers appear** → ❌ No eSIM (either 1st gen or China model).
 
 ### Method 2: Check in Settings
-Go to **Settings > General > About**. Scroll down. If you see an **EID** under "Available SIM" or "Digital SIM", eSIM is supported. This is the quickest way to confirm **iphone se compatible with esim**.
+Go to **Settings > General > About**. Scroll down. If you see an **EID** under "Available SIM" or "Digital SIM", eSIM is supported. This is the quickest way to confirm **iphone se compatible with eSIM**.
 
 ### Method 3: Look for "Add Cellular Plan"
 Go to **Settings > Cellular**. If you see **"Add Cellular Plan"** as an option, your phone supports eSIM. If missing, it does not.
 
-If your phone passes these checks but you're still having trouble, see our [eSIM troubleshooting guide](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) for advanced fixes.
+If your phone passes these checks but you're still having trouble, see our [eSIM troubleshooting guide](/faq/esim-deep-troubleshooting-guide-2026/) for advanced fixes.
 
 
 ## How to Activate eSIM on iPhone SE (2020/2022)
@@ -241,13 +241,13 @@ Your iPhone SE (2020/2022) works with **every eSIM provider** worldwide. Below a
 | Provider | Compatible? | Notes |
 |----------|-------------|-------|
 | **Airalo** | ✅ Fully compatible | Works on 2020/2022 SE – one of the **airalo compatible phones** |
-| **Visible** | ✅ Yes | Requires iOS 15+ (update your SE). Works with Visible eSIM activation via their app – one of the **visible esim compatible phones** |
+| **Visible** | ✅ Yes | Requires iOS 15+ (update your SE). Works with Visible eSIM activation via their app – one of the **visible eSIM compatible phones** |
 | **Google Fi** | ✅ Yes | Activate via the Google Fi app |
 | **Verizon** | ✅ Yes | Postpaid and prepaid eSIM plans work. For **Verizon eSIM compatibility**, iPhone SE 2020/2022 are fully supported (must be unlocked or Verizon device). |
-| **US Mobile** | ✅ Yes | Works with both Warp 5G and GSM eSIM – one of the **us mobile esim compatible devices** |
+| **US Mobile** | ✅ Yes | Works with both Warp 5G and GSM eSIM – one of the **us mobile eSIM compatible devices** |
 | **T-Mobile (US)** | ✅ Yes | Supports eSIM activation via app or QR |
 | **Holafly** | ✅ Yes | Fully compatible – one of the top **holafly compatible phones** |
-| **Jio (India)** | ✅ Yes | Jio eSIM works on iPhone SE 2020/2022 – one of the **jio esim compatible phones** (requires postpaid Jio connection and in‑person verification in India) |
+| **Jio (India)** | ✅ Yes | Jio eSIM works on iPhone SE 2020/2022 – one of the **jio eSIM compatible phones** (requires postpaid Jio connection and in‑person verification in India) |
 | **Roami** | ✅ Yes | Full support for travel eSIMs with multi‑carrier switching |
 
 The iPhone SE 2020/2022 supports **dual sim compatible** functionality – you can use one physical SIM and one eSIM simultaneously, which is ideal for travelers who want to keep their home number active while using a local data plan.
@@ -262,7 +262,7 @@ This applies to:
 **What can you do?**
 
 - **Use a physical travel SIM** – Many eSIM providers also offer physical SIM cards shipped worldwide.
-- **Upgrade to a newer iPhone** – The [iPhone XR](/faq/iphone-xr-esim-compatible/), [iPhone 11](/faq/iphone-11-esim-compatible/), or a newer [iPhone SE](/faq/iphone-se-esim-compatible/) are affordable eSIM options.
+- **Upgrade to a newer iPhone** – The [iPhone XR](/faq/iphone-xr-esim-compatible/) or [iPhone 11](/faq/iphone-11-esim-compatible/) are affordable eSIM options.
 - **Switch to another brand** – The [Samsung S20](/faq/samsung-s20-esim-compatible/) or [Google Pixel 6](/faq/google-pixel-6-esim-compatible/) are also excellent eSIM‑capable alternatives.
 - **Check if you actually have a 2nd/3rd gen** – Many people confuse the original SE with the 2020 model. The 2020 SE has no headphone jack and a larger screen (4.7″ vs 4″).
 
@@ -289,10 +289,10 @@ If your iPhone SE supports eSIM, you have a choice. Here's how they compare for 
 ## Frequently Asked Questions
 
 **Does iPhone SE 2020 support eSIM?**
-Yes – fully compatible. The 2nd generation iPhone SE (2020) supports eSIM exactly like the iPhone 11. The **iphone se 2020 esim compatible** question is answered with a definitive yes.
+Yes – fully compatible. The 2nd generation iPhone SE (2020) supports eSIM exactly like the iPhone 11. The **iphone se 2020 eSIM compatible** question is answered with a definitive yes.
 
 **Does iPhone SE 2022 support eSIM?**
-Yes – fully compatible. The 3rd generation iPhone SE (2022) supports eSIM and 5G. The **iphone se 3rd gen esim support** includes both technologies.
+Yes – fully compatible. The 3rd generation iPhone SE (2022) supports eSIM and 5G. The **iphone se 3rd gen eSIM support** includes both technologies.
 
 **Does original iPhone SE (2016) support eSIM?**
 No – the first‑generation iPhone SE does not have eSIM hardware. You need a physical SIM.
@@ -304,26 +304,31 @@ Yes – you can use one physical SIM + one eSIM simultaneously. This is a true *
 Yes – the 2022 SE supports 5G on both physical SIM and eSIM. The 2020 model is 4G LTE only.
 
 **Does iPhone 6s / 7 / 8 support eSIM?**
-No. iPhone 6s, 7, 8, 8 Plus, and iPhone X do not have eSIM hardware. If you searched for **"iphone 6s esim compatible"** or **"iphone 8 esim compatible"**, the answer is no – you need iPhone XR or newer (or SE 2020/2022). The **iphone 7 esim compatible** question also gets a negative answer.
+No. iPhone 6s, 7, 8, 8 Plus, and iPhone X do not have eSIM hardware. If you searched for **"iphone 6s esim compatible"** or **"iphone 8 esim compatible"**, the answer is no – you need iPhone XR or newer (or SE 2020/2022). The **iphone 7 eSIM compatible** question also gets a negative answer.
 
 **What about Jio eSIM on iPhone SE?**
 Yes – Jio (India) offers eSIM for iPhone SE 2020/2022. You need a postpaid Jio connection and visit a Jio store for verification. After that, you can convert your physical Jio SIM to eSIM via SMS or MyJio app.
 
 **My iPhone SE shows "Cellular Plan Cannot Be Added" – what's wrong?**
-Remove old eSIM profiles in **Settings > Cellular**, restart your phone, and try again. If the problem persists, check your carrier lock status. For more help, see our [eSIM troubleshooting guide](/faq/eSIM-Deep-Troubleshooting-Guide-2026/).
+Remove old eSIM profiles in **Settings > Cellular**, restart your phone, and try again. If the problem persists, check your carrier lock status. For more help, see our [eSIM troubleshooting guide](/faq/esim-deep-troubleshooting-guide-2026/).
 
 **How do I know if my iPhone SE is compatible with eSIM?**
-Dial `*#06#`. If an EID appears, your phone is compatible. This is the definitive answer for **iphone se compatible with esim**.
+Dial `*#06#`. If an EID appears, your phone is compatible. This is the definitive answer for **iphone se compatible with eSIM**.
 
 **Can I use an eSIM on iPhone SE while traveling?**
-Yes – the **esim iphone se 2020** and **iphone se 2020 esim capable** features make it an excellent travel companion. You can install a travel eSIM before departure and activate it upon arrival.
+Yes – the **eSIM iphone se 2020** and **iphone se 2020 eSIM capable** features make it an excellent travel companion. You can install a travel eSIM before departure and activate it upon arrival.
 
 **How many eSIMs can I store on iPhone SE?**
 The iPhone SE can store up to 8 or more eSIM profiles, but only one eSIM (or one physical SIM + one eSIM) can be active at a time.
 
 **Is iPhone SE 2022 eSIM compatible with European carriers?**
-Yes – European carriers like Orange, Vodafone, O2, and EE support eSIM on iPhone SE 2022. The **iphone se 3rd gen esim** works with all major European networks.
+Yes – European carriers like Orange, Vodafone, O2, and EE support eSIM on iPhone SE 2022. The **iphone se 3rd gen eSIM** works with all major European networks.
 
 ---
 
 *Based on Apple support documentation and GSMA standards. Updated: June 2026.*
+## Sources
+
+- [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
+- [Apple Support — eSIM on iPhone](https://support.apple.com/en-us/108072)
+- [Apple Support — About eSIM on iPhone](https://support.apple.com/en-us/HT209044)

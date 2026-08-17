@@ -2,19 +2,19 @@
 title: "eSIM Not Activating? Fix iOS & Android Errors Fast"
 h1_title: "How to Fix eSIM Activation Errors on iOS and Android"
 description: "Stuck on eSIM setup? Learn how to scan QR codes, enter details manually, and fix \"Activation Failed\" errors on iPhone & Android. Get connected in 2 mins."
-keywords: ["eSIM activation", "how to activate eSIM", "activate eSIM iPhone", "iPhone eSIM setup", "Android eSIM", "eSIM QR code", "travel eSIM", "eSIM troubleshooting", "how to activate an eSIM", "esim activation failed", "add eSIM to iPhone", "eSIM not activating", "eSIM setup iPhone", "activate eSIM Android", "eSIM installation", "QR code eSIM", "SM-DP+ address", "eSIM manual entry", "iPad eSIM activation", "Apple Watch eSIM setup", "transfer eSIM to new phone", "dual SIM eSIM setup"]
+keywords: ["eSIM activation", "how to activate eSIM", "activate eSIM iPhone", "Android eSIM", "eSIM QR code", "eSIM manual entry", "eSIM troubleshooting", "travel eSIM", "eSIM setup iPhone", "add eSIM to iPhone"]
 date: 2026-06-23T10:00:00Z
 lastmod: 2026-06-23T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
 image: "/images/esim-activation-guide.jpg"
 
-# 站点 & SEO 基础硬编码配置
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI 文本翻译/硬编码配置 (支持多语言化)
+# UI text translations
 ui_text:
   updated_on: "Updated on"
   min_read: "min read"
@@ -28,7 +28,7 @@ breadcrumbs:
     text: "Help Center"
     url: "/faq/"
  
-# 右侧：热门 eSIM 配置 (6个国家，1.99美金)
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "Popular eSIMs"
   item_suffix: "eSIM"
@@ -64,7 +64,7 @@ sidebar_popular:
       url: "/china-esim/"
       badge: "5G"
 
-# 右侧：免费 eSIM 配置 (4个国家)
+# Sidebar: Free eSIM offers
 sidebar_free:
   title: "Claim Free eSIM"
   icon: "🎁"
@@ -84,14 +84,14 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# 右侧：热门问题配置 (5个问题)
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Popular Questions"
   items:
     - question: "What is eSIM activation and how does it work?"
-      url: "faq/what-is-esim-activation-and-how-does-it-work/"
+      url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "How to activate an eSIM?"
-      url: "/faq/how-to-activate-an-esim//"
+      url: "/faq/how-to-activate-an-esim/"
     - question: "How to activate eSIM on iPhone (All Models)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Latest eSIM Compatibility List"
@@ -99,9 +99,9 @@ sidebar_questions:
 ---
 
 
-**The Bottom Line Up Front:** To activate an eSIM, you need a carrier-unlocked phone, a stable Wi-Fi connection, and an eSIM QR code from your provider. Navigate to your phone's cellular settings, select "Add eSIM" or "Add Data Plan," scan the QR code, and wait 1-2 minutes for the digital profile to download and install. If you run into **esim activation failed** errors, this guide covers every fix.
+**The Bottom Line Up Front:** To activate an eSIM, you need a carrier-unlocked phone, a stable Wi-Fi connection, and an eSIM QR code from your provider. Navigate to your phone's cellular settings, select "Add eSIM" or "Add Data Plan," scan the QR code, and wait 1-2 minutes for the digital profile to download and install. If you run into **eSIM activation failed** errors, this guide covers every fix.
 
-For a general introduction to eSIM technology, see our [What is eSIM? guide](/faq/What-Is-eSIM/). If you're still having trouble after following this guide, our [eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/) covers advanced scenarios.
+For a general introduction to eSIM technology, see our [What is eSIM? guide](/faq/what-is-esim/). If you're still having trouble after following this guide, our [eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/) covers advanced scenarios.
 
 
 ## Crucial Checks Before You Start Your eSIM Activation
@@ -165,7 +165,7 @@ Android menus vary slightly depending on your device manufacturer. Here are the 
 4. **Step 4:** Tap **Next** and scan your QR code when prompted.
 5. **Step 5:** Wait for the **eSIM profile download** to complete. Once done, go to **Mobile network** settings to configure which SIM handles data and calls.
 
-The [Google Support – eSIM on Pixel](https://support.google.com/pixel/answer/9912709) page provides additional details for Pixel users. For Samsung users, the [Samsung Support – eSIM](https://www.samsung.com/us/support/) page offers model-specific guidance.
+The [Google Support – eSIM on Pixel](https://support.google.com/pixelphone/answer/7086887) page provides additional details for Pixel users. For Samsung users, the [Samsung Support – eSIM](https://www.samsung.com/us/support/) page offers model-specific guidance.
 
 ### For Other Android Devices (OnePlus, Xiaomi, Motorola, etc.):
 
@@ -283,7 +283,7 @@ Transferring **eSIM between iPhone and Android** is rarely supported. Most carri
 1. Contact your carrier to request a new eSIM QR code for the new device.
 2. Or, if using a travel eSIM, purchase a new plan for the new device.
 
-For detailed cross-platform transfer instructions, see [How to Transfer eSIM Between iPhone and Android](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/).
+For detailed cross-platform transfer instructions, see [How to Transfer eSIM Between iPhone and Android](/faq/how-to-transfer-esim-between-iphone-and-android/).
 
 
 ## Using Dual SIM with eSIM and Physical SIM – Best Practices
@@ -317,7 +317,7 @@ Your phone supports **Dual SIM Dual Standby (DSDS)**. Both lines remain active a
 - **Calls going to the wrong line:** Check your Default Voice Line setting.
 - **Accidental roaming charges:** Ensure Data Roaming is OFF on your home SIM.
 
-For more dual SIM troubleshooting, see our [Dual eSIM Not Working? 12 Fixes for iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/) guide.
+For more dual SIM troubleshooting, see our [Dual eSIM Not Working? 12 Fixes for iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/) guide.
 
 
 ## Troubleshooting eSIM Activation Failed Errors – Common Fixes
@@ -329,7 +329,7 @@ If your eSIM fails to activate or connect, do not panic. Try these technical fix
 - **Additional check:** Remove old, unused eSIM profiles from Settings > Cellular. Too many stored profiles can sometimes prevent new ones from being added.
 
 ### Error 2: "Invalid QR Code" or Code Won't Scan
-- **The Fix:** The QR code might be expired (most have a 72-hour validity window), damaged, or your camera cannot focus. Make sure you are scanning in a well-lit area and the screen displaying the code is at maximum brightness. If it still fails, tap **"Enter Details Manually"** and type in the **SM-DP+ Address** and **Activation Code** provided by your carrier. This completely bypasses the QR code — a reliable workaround for **esim activation failed** errors.
+- **The Fix:** The QR code might be expired (most have a 72-hour validity window), damaged, or your camera cannot focus. Make sure you are scanning in a well-lit area and the screen displaying the code is at maximum brightness. If it still fails, tap **"Enter Details Manually"** and type in the **SM-DP+ Address** and **Activation Code** provided by your carrier. This completely bypasses the QR code — a reliable workaround for **eSIM activation failed** errors.
 
 ### Issue 1: The eSIM is Installed, but Shows "No Service"
 - **The Fix:** The profile downloaded, but your phone hasn't registered with the local cell tower. First, ensure the eSIM line is toggled **ON** in your settings. Next, turn on **Airplane Mode** for 30 seconds, then turn it off. This forces your phone's antenna to reboot and search for a signal.
@@ -346,7 +346,7 @@ If your eSIM fails to activate or connect, do not panic. Try these technical fix
 
 > **CRITICAL WARNING:** Never tap **Delete eSIM** or **Remove Data Plan** if you are trying to fix a connection issue. Deleting the eSIM permanently destroys the digital profile, and you will have to purchase a new one. Only delete an eSIM when you are absolutely sure the plan is expired and you will never need it again. If you delete an active **travel eSIM** mid-trip, you cannot recover it.
 
-If these fixes don't resolve your issue, consult our [eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/) for more advanced scenarios like **esim activation failed** on carrier-locked devices or regional restrictions.
+If these fixes don't resolve your issue, consult our [eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/) for more advanced scenarios like **eSIM activation failed** on carrier-locked devices or regional restrictions.
 
 
 ## Frequently Asked Questions
@@ -380,3 +380,9 @@ If these fixes don't resolve your issue, consult our [eSIM Deep Troubleshooting 
 ---
 
 *Based on Apple, Google, and GSMA documentation. Updated: June 2026.*
+## Sources
+
+- [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
+- [Apple Support — eSIM on iPhone](https://support.apple.com/en-us/108072)
+- [Google Support — Set up an eSIM](https://support.google.com/pixelphone/answer/14853135)
+- [Google Support — Android eSIM](https://support.google.com/android/answer/11241215)

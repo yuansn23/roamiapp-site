@@ -9,18 +9,18 @@ tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
 image: "/images/esim-activation-guide.jpg"
 
-# 站点 & SEO 基础硬编码配置
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI 文本翻译/硬编码配置 (支持多语言化)
+# UI text translations
 ui_text:
   updated_on: "Updated on"
   min_read: "min read"
   toc: "Table of Contents"
 
-# 面包屑导航
+# Breadcrumbs
 breadcrumbs:
   home:
     text: "Home"
@@ -29,7 +29,7 @@ breadcrumbs:
     text: "Help Center"
     url: "/faq/"
 
-# 右侧：热门 eSIM 配置
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "Popular eSIMs"
   item_suffix: "eSIM"
@@ -65,7 +65,7 @@ sidebar_popular:
       url: "/china-esim/"
       badge: "5G"
 
-# 右侧：免费 eSIM 配置
+# Sidebar: Free eSIM offers
 sidebar_free:
   title: "Claim Free eSIM"
   icon: "🎁"
@@ -85,14 +85,14 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# 右侧：热门问题配置
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Popular Questions"
   items:
     - question: "What is eSIM activation and how does it work?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "How to activate an eSIM?"
-      url: "/faq/how-to-activate-an-esim//"
+      url: "/faq/how-to-activate-an-esim/"
     - question: "How to activate eSIM on iPhone (All Models)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Latest eSIM Compatibility List"
@@ -108,7 +108,7 @@ eSIM activation is the process of securely downloading a digital carrier profile
 
 Gone are the days of fumbling with tiny paperclips and microscopic plastic SIM cards. Whether you are switching to a new local carrier or buying a travel data plan for your next international trip, using an eSIM is the most convenient way to stay connected.
 
-However, if it's your first time doing an **iPhone eSIM setup**, the process might seem a bit daunting. Don't worry! In this comprehensive guide, we will show you exactly **how to activate an eSIM on your iPhone** using a QR code, manual entry, or a carrier app. This guide covers all compatible models, including the eSIM-only iPhone 14, 15, 16, and 17 series. For a complete walkthrough of iPhone 17 specifically, see our **[iPhone 17 eSIM Complete Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**.
+However, if it's your first time doing an **iPhone eSIM setup**, the process might seem a bit daunting. Don't worry! In this comprehensive guide, we will show you exactly **how to activate an eSIM on your iPhone** using a QR code, manual entry, or a carrier app. This guide covers all compatible models, including the eSIM-only iPhone 14, 15, 16, and 17 series. For a complete walkthrough of iPhone 17 specifically, see our **[iPhone 17 eSIM Complete Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)**.
 
 ---
 
@@ -122,7 +122,7 @@ First, ensure your iPhone supports eSIM technology. Apple introduced eSIMs start
 - iPhone 11, 12, 13, 14, 15, 16, and 17 series
 - iPhone SE (2nd and 3rd generation)
 
-*Pro Tip: If you purchased an iPhone 14, 15, 16, or 17 in the USA eSIM, your phone is eSIM-only and does not have a physical SIM card tray.*
+*Pro Tip: If you purchased an iPhone 14, 15, 16, or 17 in the USA, your phone is eSIM-only and does not have a physical SIM card tray.*
 
 ### Ensure your iPhone is carrier-unlocked
 If you are trying to install a travel eSIM, your phone must be unlocked.
@@ -131,7 +131,7 @@ If you are trying to install a travel eSIM, your phone must be unlocked.
 3. If it says **"No SIM restrictions"**, your iPhone is unlocked and ready for a new eSIM!
 
 ### Connect to a stable Wi-Fi network
-You **must** have a stable internet connection (Wi-Fi is highly recommended) to download the eSIM profile to your phone. For more in-depth troubleshooting if your carrier lock persists, check our **[Dual eSIM Not Working? 12 Fixes for iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** guide.
+You **must** have a stable internet connection (Wi-Fi is highly recommended) to download the eSIM profile to your phone. For more in-depth troubleshooting if your carrier lock persists, check our **[Dual eSIM Not Working? 12 Fixes for iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** guide.
 
 ---
 
@@ -148,7 +148,7 @@ Before buying an eSIM plan, you should verify your device has the required hardw
 1. Go to **Settings** > **General** > **About**.
 2. Scroll down – if you see **Digital SIM** or **Available SIM** with an EID number, your device is eSIM-ready.
 
-For the complete list of **esim compatible phones**, see our **[full compatibility list](/compatibility/)**.
+For the complete list of **eSIM compatible phones**, see our **[full compatibility list](/compatibility/)**.
 
 ---
 
@@ -206,27 +206,22 @@ If your eSIM shows signal bars but no data connection, APN settings may need adj
 
 1. Go to **Settings** > **Cellular** > **Cellular Data Network**.
 2. Fill in the APN fields – check your eSIM provider's website for correct values.
-3. Common APN values: `roami` (Roami), `airalo` (Airalo), `global` (Nomad).
+3. Common APN values: `globaldata` (Airalo). Most travel eSIMs auto-configure the APN, so check your provider's website for the exact value.
 4. Save and restart your iPhone.
 
 ---
 
-## What's new in iOS 19 for eSIM users? – 2026 features
+## eSIM features on recent iOS versions
 
-With iOS 19, Apple introduced several improvements specifically for eSIM users:
-
-### Smart Travel eSIM Management
-- **Before departure:** After purchasing a travel eSIM, the system asks "Do you intend to use this eSIM in your home country or while traveling?"
-- **Upon arrival:** Automatically pops up "Enable Travel eSIM" notification.
-- **After returning home:** iPhone automatically turns off the travel eSIM and re-enables your home country number.
+Apple has steadily improved eSIM support across recent iOS releases:
 
 ### eSIM Quick Transfer (iPhone to iPhone)
-With iOS 19, Apple has made it even easier to transfer your eSIM. Using **eSIM Quick Transfer** via Bluetooth:
+With eSIM Quick Transfer, you can move your eSIM between iPhones over Bluetooth:
 
 Simply place your old iPhone near your new one, go to **Settings > Cellular > Add eSIM** on the new phone, and select **Transfer from Nearby iPhone**. Follow the prompts, and your number will seamlessly move to the new device without needing a new QR code.
 
-### Cross-platform transfer (iOS 19 ↔ Android 16)
-You can now transfer eSIMs between iPhone and Android directly – no carrier call required. See our **[eSIM Cross-Platform Transfer 2026 guide](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** for detailed steps.
+### Cross-platform transfer
+To move an eSIM between iPhone and Android, see our **[eSIM Cross-Platform Transfer guide](/faq/how-to-transfer-esim-between-iphone-and-android/)** for detailed steps.
 
 ---
 
@@ -250,12 +245,12 @@ Running into issues? Here are the most common errors and how to fix them:
 | **"Cellular Plan Cannot Be Added"** | iPhone is carrier-locked, or QR code already used | Check Carrier Lock under `Settings > General > About`. If unlocked, contact your provider for a new QR code. |
 | **Stuck on "Activating..."** | Weak Wi-Fi or carrier network congestion | Restart iPhone. Turn Airplane Mode on for 30 seconds, then off. Wait 5-10 minutes. |
 | **No Service After Activation** | Data Roaming not turned on, or eSIM line not active | Double-check **Data Roaming** is ON for the eSIM line. Ensure the eSIM is toggled ON in `Settings > Cellular`. |
-| **QR code says "Invalid" or "Expired"** | QR code has a time limit (24-72 hours) | Contact carrier for a new QR code. |
+| **QR code says "Invalid" or "Expired"** | QR code may have expired | Contact carrier for a new QR code. |
 | **eSIM profile not supported error** | Carrier eSIM requires features your phone lacks | Update to the latest iOS version. Contact provider to confirm compatibility. |
 | **No data connection after activation** | APN settings missing or incorrect | Manually configure APN settings (see section above). |
 | **eSIM bound to another device** | Profile not released from old device | On the old device, delete the eSIM if still visible. If not, contact carrier for profile release. |
 
-For more advanced troubleshooting covering 16 real-world cases, see our **[eSIM Deep Troubleshooting Guide 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)**.
+For more advanced troubleshooting covering 16 real-world cases, see our **[eSIM Deep Troubleshooting Guide 2026](/faq/esim-deep-troubleshooting-guide-2026/)**.
 
 ---
 
@@ -281,7 +276,7 @@ An eSIM is a digital SIM that cannot be physically removed. It offers the same f
 Dial `*#06#` – if an EID appears, your phone supports eSIM. Or check **Settings > General > About** for a Digital SIM or EID entry. If you're using an iPhone and still unsure, the official [Apple support page for eSIM](https://support.apple.com/en-us/108072) provides a detailed list of compatible models.
 
 **Can I transfer my eSIM from one phone to another?**
-Yes – using iOS 19 Quick Transfer (iPhone to iPhone) or cross-platform transfer (iPhone ↔ Android). See our **[eSIM Cross-Platform Transfer 2026 guide](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** for step-by-step instructions.
+Yes – using iOS 26 Quick Transfer (iPhone to iPhone) or cross-platform transfer (iPhone ↔ Android). See our **[eSIM Cross-Platform Transfer 2026 guide](/faq/how-to-transfer-esim-between-iphone-and-android/)** for step-by-step instructions.
 
 **What is a travel eSIM?**
 A **travel eSIM** is a data-only eSIM designed for international trips. You buy it before departure, install it at home, and activate it upon arrival – no roaming fees, no airport SIM kiosks.
@@ -298,3 +293,8 @@ For travelers heading to specific destinations, check our destination guides: **
 
 ---
 *Based on Apple official documentation, GSMA standards, and carrier testing. Updated: June 2026.*
+## Sources
+
+- [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
+- [Apple Support — eSIM on iPhone](https://support.apple.com/en-us/108072)
+- [Apple Support — About eSIM on iPhone](https://support.apple.com/en-us/HT209044)

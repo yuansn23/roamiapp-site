@@ -2,7 +2,7 @@
 title: "iPhone eSIM: Full Compatibility & Setup Guide"
 h1_title: "The Complete Guide to iPhone eSIM Compatibility and Setup"
 description: "Check iPhone eSIM compatibility (EID method) and setup steps. Covers dual SIM, iPhone 13+ features, and China/US model differences. Includes tables."
-keywords: ["iphone esim", "esim iphone", "which iphones support esim", "which iphones have esim", "which iphone models support esim", "what iphones support esim", "does iphone 11 have esim", "does iphone 12 have esim", "does iphone 13 have esim", "does iphone 14 have esim", "does iphone 15 have esim", "does iphone 16 have esim", "does iphone 17 have esim", "does iphone 11 support esim", "does iphone 12 support esim", "does iphone 13 support esim", "does iphone 14 support esim", "does iphone 15 support esim", "does iphone 16 support esim", "does iphone 17 support esim", "does iphone se have esim", "does iphone se support esim", "does iphone xr have esim", "does iphone xr support esim", "does iphone xs have esim", "does iphone xs max have esim", "does iphone 8 have esim", "does iphone 7 have esim", "iphone 11 esim", "iphone 12 esim", "iphone 13 esim", "iphone 14 esim", "iphone 15 esim", "iphone 16 esim", "iphone 17 esim", "iphone se esim", "iphone xr esim", "iphone xs esim", "iphone 8 esim", "iphone 11 pro esim", "iphone 12 pro esim", "iphone 13 pro esim", "iphone 14 pro esim", "iphone 15 pro esim", "iphone 16 pro esim", "iphone 17 pro esim", "iphone 14 esim only", "iphone 15 esim or physical sim", "iphone 16 esim only", "iphone 17 esim only", "iphone 17 air esim only", "iphone 13 dual esim", "iphone 14 dual esim", "iphone 15 dual esim", "iphone 16 dual esim", "iphone 17 dual esim", "first iphone with esim", "when did iphones switch to esim", "when did iphone start using esim", "iphone esim compatible", "iphones with esim", "iphones esim compatible"]
+keywords: ["iphone esim", "esim iphone", "which iphones support esim", "iphone esim compatible", "does iphone 11 have esim", "iphone esim only", "iphone dual esim", "first iphone with esim", "iphones with esim", "iphone esim setup"]
 date: 2026-06-23T10:00:00Z
 lastmod: 2026-06-23T10:00:00Z
 tags: ["iPhone", "eSIM", "Dual SIM", "Activation", "Compatibility"]
@@ -92,7 +92,7 @@ sidebar_questions:
     - question: "Latest eSIM Compatibility List"
       url: "/compatibility/"
     - question: "How to use dual SIM on iPhone (physical + eSIM)?"
-      url: "/faq/iphone-dual-sim-dual-standby/"
+      url: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
 ---
 
 
@@ -114,7 +114,7 @@ sidebar_questions:
 
 The [official Apple eSIM support page](https://support.apple.com/en-us/108072) provides additional details on compatible models. The technology behind eSIM is governed by the [GSMA standard SGP.22](https://www.gsma.com/esim/), ensuring global interoperability across devices and carriers.
 
-For the complete list of **esim compatible phones** across all brands, see our **[full compatibility list](/compatibility/)**.
+For the complete list of **eSIM compatible phones** across all brands, see our **[full compatibility list](/compatibility/)**.
 
 ---
 
@@ -128,10 +128,10 @@ For the complete list of **esim compatible phones** across all brands, see our *
 | **iPhone SE (2nd & 3rd gen)** | ✅ Yes | Physical + eSIM | Budget eSIM option |
 | **iPhone 12, 12 mini, 12 Pro, 12 Pro Max** | ✅ Yes | Physical + eSIM | First 5G eSIM iPhones |
 | **iPhone 13, 13 mini, 13 Pro, 13 Pro Max** | ✅ Yes | Physical + eSIM (or dual eSIM) | Supports **dual eSIM** (two active eSIMs) |
-| **iPhone 14, 14 Plus, 14 Pro, 14 Pro Max** | ✅ Yes | US: eSIM only; global: physical + eSIM | **iPhone 14 esim only** in US |
-| **iPhone 15, 15 Plus, 15 Pro, 15 Pro Max** | ✅ Yes | US: eSIM only; global: physical + eSIM | **iPhone 15 esim or physical sim** depends on region |
-| **iPhone 16, 16 Plus, 16 Pro, 16 Pro Max** | ✅ Yes | US: eSIM only; global: physical + eSIM | **iPhone 16 esim only** in US |
-| **iPhone 17 (all models)** | ✅ Yes | Expected: US eSIM only; global physical + eSIM | **iPhone 17 esim only** likely; **iPhone 17 air esim only** |
+| **iPhone 14, 14 Plus, 14 Pro, 14 Pro Max** | ✅ Yes | US: eSIM only; global: physical + eSIM | **iPhone 14 eSIM only** in US |
+| **iPhone 15, 15 Plus, 15 Pro, 15 Pro Max** | ✅ Yes | US: eSIM only; global: physical + eSIM | **iPhone 15 eSIM or physical sim** depends on region |
+| **iPhone 16, 16 Plus, 16 Pro, 16 Pro Max** | ✅ Yes | US: eSIM only; global: physical + eSIM | **iPhone 16 eSIM only** in US |
+| **iPhone 17 (all models)** | ✅ Yes | US: eSIM only; global: physical + eSIM | **iPhone 17 eSIM only** in US; **iPhone 17 air eSIM only** worldwide |
 
 ---
 
@@ -145,9 +145,9 @@ For the complete list of **esim compatible phones** across all brands, see our *
 - **2022 (iPhone SE 3rd gen, iPhone 14 series)** – US models become **eSIM only** (no physical SIM tray).
 - **2023 (iPhone 15 series)** – US continues eSIM only; global retains physical SIM + eSIM.
 - **2024 (iPhone 16 series)** – Same as iPhone 15.
-- **2025/2026 (iPhone 17 series)** – Expected same regional split; **iPhone 17 air esim only** likely.
+- **2025 (iPhone 17 series)** – US models are eSIM only; the **iPhone 17 Air** is eSIM only worldwide.
 
-So the **first iphone with esim** was the iPhone XR/XS in September 2018. That's **when iphone started using esim**.
+So the **first iphone with eSIM** was the iPhone XR/XS in September 2018. That's **when iphone started using eSIM**.
 
 ---
 
@@ -185,19 +185,19 @@ Both generations of the **iPhone SE** support eSIM. They are excellent budget op
 The **iPhone 12, 12 mini, 12 Pro, and 12 Pro Max** all support eSIM. They were the first iPhones to offer 5G connectivity on eSIM. Dual SIM works as one physical SIM + one eSIM.
 
 ### iPhone 13 series (2021)
-**iPhone 13 series** (including mini, Pro, Pro Max) supports eSIM and introduces **dual eSIM** capability – you can have two active eSIMs simultaneously (no physical SIM needed). This is also the first generation where **iPhone 13 dual esim** became a standard feature.
+**iPhone 13 series** (including mini, Pro, Pro Max) supports eSIM and introduces **dual eSIM** capability – you can have two active eSIMs simultaneously (no physical SIM needed). This is also the first generation where **iPhone 13 dual eSIM** became a standard feature.
 
 ### iPhone 14 series (2022)
-All **iPhone 14 models** support eSIM, but with a major change: US models are **eSIM only** – they have no physical SIM tray. Global models still offer a physical SIM slot plus eSIM. **iPhone 14 esim only** is the reality for US customers.
+All **iPhone 14 models** support eSIM, but with a major change: US models are **eSIM only** – they have no physical SIM tray. Global models still offer a physical SIM slot plus eSIM. **iPhone 14 eSIM only** is the reality for US customers.
 
 ### iPhone 15 series (2023)
-**iPhone 15 series** follows the same regional split: US models are eSIM only; global models have physical SIM + eSIM. So **iPhone 15 esim or physical sim** depends entirely on where you buy it.
+**iPhone 15 series** follows the same regional split: US models are eSIM only; global models have physical SIM + eSIM. So **iPhone 15 eSIM or physical sim** depends entirely on where you buy it.
 
 ### iPhone 16 series (2024)
-**iPhone 16 series** continues the same pattern. US models are **iPhone 16 esim only**; international versions retain the physical SIM slot.
+**iPhone 16 series** continues the same pattern. US models are **iPhone 16 eSIM only**; international versions retain the physical SIM slot.
 
-### iPhone 17 series (2025/2026)
-Expected to continue the same regional split. The new ultra‑thin **iPhone 17 Air** may be **eSIM only** worldwide. **iPhone 17 dual esim** will be standard across the lineup.
+### iPhone 17 series (2025)
+The **iPhone 17 series** follows the same regional split: US models are eSIM only, while international versions keep a physical SIM slot. The ultra‑thin **iPhone 17 Air** is **eSIM only** worldwide. **iPhone 17 dual eSIM** is standard across the lineup.
 
 ---
 
@@ -293,7 +293,7 @@ You cannot insert a physical SIM as a backup. Your options:
 - Carrier‑locked iPhones – risky for travel eSIM.
 - US eSIM‑only models as a backup phone (no physical SIM slot).
 
-For Android alternatives, see our **[Samsung Galaxy eSIM compatibility guide](/faq/samsung-galaxy-esim-compatible/)** and **[Google Pixel eSIM compatibility guide](/faq/google-pixel-6-esim-compatible/)**.
+For Android alternatives, see our **[Samsung Galaxy eSIM compatibility guide](/faq/samsung-s20-esim-compatible/)** and **[Google Pixel eSIM compatibility guide](/faq/google-pixel-6-esim-compatible/)**.
 
 ### How to verify before buying
 1. Check model number (avoid CH/A).
@@ -312,7 +312,7 @@ For Android alternatives, see our **[Samsung Galaxy eSIM compatibility guide](/f
 | “No SIM” after activation | Corrupted profile | Delete and re‑install |
 | Works on iPhone 12 but not iPhone 14 | Old profile incompatible with eSIM‑only | Request new profile |
 
-For more advanced troubleshooting covering 16 real-world cases, see our **[eSIM Deep Troubleshooting Guide 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** .
+For more advanced troubleshooting covering 16 real-world cases, see our **[eSIM Deep Troubleshooting Guide 2026](/faq/esim-deep-troubleshooting-guide-2026/)** .
 
 ---
 
@@ -352,3 +352,8 @@ The most reliable way to confirm your iPhone's eSIM compatibility is to install 
 
 ---
 *Based on Apple official documentation, GSMA standards, and carrier information. Updated: June 2026.*
+## Sources
+
+- [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
+- [Apple Support — eSIM on iPhone](https://support.apple.com/en-us/108072)
+- [Apple Support — About eSIM on iPhone](https://support.apple.com/en-us/HT209044)

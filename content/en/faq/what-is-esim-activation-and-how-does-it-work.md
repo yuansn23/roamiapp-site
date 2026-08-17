@@ -1,20 +1,20 @@
 ---
 title: "Activate eSIM in 2 Minutes: iPhone & Android Guide"
 h1_title: "How to Activate eSIM in 2 Minutes: A Guide for iPhone and Android"
-description: "Need data now? Activate your eSIM on iOS 19 or Android 16 in under 2 minutes. Check compatibility via IMEI, scan QR, and fix errors instantly. Get online fast."
-keywords: ["eSIM activation", "how to activate eSIM", "iPhone eSIM setup", "Android eSIM", "eSIM QR code", "travel eSIM", "eSIM troubleshooting", "how to check esim on iphone", "how to check esim in iphone", "how to find esim on iphone", "where is esim on iphone", "how to check if my phone is esim compatible", "how to check esim compatibility", "how to know if my phone is esim compatible", "check esim compatibility", "esim compatibility checker", "esim compatibility check", "imei esim", "imei generator esim", "esim imei", "esim imei check", "how to check if esim is compatible", "how to check phone is esim compatible", "does my phone have esim", "does my phone support esim", "what is esim activation", "how to find esim qr code", "how to get esim qr code"]
+description: "Need data now? Activate your eSIM on iOS 26 or Android 16 in under 2 minutes. Check compatibility via IMEI, scan QR, and fix errors instantly. Get online fast."
+keywords: ["eSIM activation", "how to activate eSIM", "how to check esim compatibility", "does my phone support esim", "esim compatibility check", "iPhone eSIM setup", "Android eSIM", "eSIM QR code", "travel eSIM", "eSIM troubleshooting"]
 date: 2026-06-23T10:00:00Z
 lastmod: 2026-06-23T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup", "Compatibility"]
 toc: true
 image: "/images/esim-activation-guide.jpg"
 
-# 站点 & SEO 基础硬编码配置
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI 文本翻译/硬编码配置 (支持多语言化)
+# UI text translations
 ui_text:
   updated_on: "Updated on"
   min_read: "min read"
@@ -28,7 +28,7 @@ breadcrumbs:
     text: "Help Center"
     url: "/faq/" 
 
-# 右侧：热门 eSIM 配置 (6个国家，1.99美金)
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "Popular eSIMs"
   item_suffix: "eSIM"
@@ -64,7 +64,7 @@ sidebar_popular:
       url: "/china-esim/"
       badge: "5G"
 
-# 右侧：免费 eSIM 配置 (4个国家)
+# Sidebar: Free eSIM offers
 sidebar_free:
   title: "Claim Free eSIM"
   icon: "🎁"
@@ -84,14 +84,14 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# 右侧：热门问题配置 (5个问题)
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Popular Questions"
   items:
     - question: "What is eSIM activation and how does it work?"
       url: "faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "How to activate an eSIM?"
-      url: "/faq/how-to-activate-an-esim//"
+      url: "/faq/how-to-activate-an-esim/"
     - question: "How to activate eSIM on iPhone (All Models)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Latest eSIM Compatibility List"
@@ -163,11 +163,11 @@ Many modern carriers allow you to activate directly through their app with a sin
 
 ## How to check if your phone supports eSIM – compatibility checker guide
 
-Before you even try to activate an eSIM, you need to confirm that your phone actually has the required hardware. The last thing you want is to buy a travel eSIM only to discover your phone doesn't support it. Here are several reliable methods to **check eSIM compatibility**, ranging from the universal `*#06#` dialer code to digging into your phone's settings. For the full list of **esim compatible phones**, see our **[complete compatibility list](/compatibility/)**.
+Before you even try to activate an eSIM, you need to confirm that your phone actually has the required hardware. The last thing you want is to buy a travel eSIM only to discover your phone doesn't support it. Here are several reliable methods to **check eSIM compatibility**, ranging from the universal `*#06#` dialer code to digging into your phone's settings. For the full list of **eSIM compatible phones**, see our **[complete compatibility list](/compatibility/)**.
 
 ### Method 1: The universal EID check (works on almost every phone)
 
-This is the fastest and most reliable way to answer **“does my phone have esim”** or **“does my phone support esim”**.
+This is the fastest and most reliable way to answer **“does my phone have eSIM”** or **“does my phone support eSIM”**.
 
 1. Open your phone's **dialer** (the app you use to make phone calls).
 2. Dial `*#06#` (just like a phone number) and press call.
@@ -175,9 +175,9 @@ This is the fastest and most reliable way to answer **“does my phone have esim
    - **If you see an EID:** Congratulations – your phone has eSIM hardware. You can proceed with activation.
    - **If you only see IMEI numbers (IMEI1, IMEI2) and no EID:** Your phone does **not** support eSIM. You must use a physical SIM.
 
-This method works on iPhones (all models with eSIM) and almost every Android phone, including Samsung, Google Pixel, OnePlus, Motorola, and Xiaomi. It's the most direct **esim compatibility check** available.
+This method works on iPhones (all models with eSIM) and almost every Android phone, including Samsung, Google Pixel, OnePlus, Motorola, and Xiaomi. It's the most direct **eSIM compatibility check** available.
 
-> 💡 **Pro Tip:** If you have an iPhone and want to **how to check esim on iphone**, this is the exact same code. On iPhones, you can also find the EID in **Settings > General > About** – scroll down to the **Digital SIM** or **Available SIM** section.
+> 💡 **Pro Tip:** If you have an iPhone and want to **how to check eSIM on iphone**, this is the exact same code. On iPhones, you can also find the EID in **Settings > General > About** – scroll down to the **Digital SIM** or **Available SIM** section.
 
 ### Method 2: Checking via settings (detailed path for each OS)
 
@@ -186,7 +186,7 @@ If you prefer not to dial codes, or if `*#06#` doesn't work on your device (rare
 #### On iPhone (iOS):
 - Go to **Settings > General > About**.
 - Scroll down until you see **Digital SIM** or **Available SIM**.
-- You will find your **EID** listed there. This is also **where is esim on iphone** – it lives in that section.
+- You will find your **EID** listed there. This is also **where is eSIM on iphone** – it lives in that section.
 - Additionally, you can go to **Settings > Cellular** and look for the **Add eSIM** or **Add Cellular Plan** option. If it's grayed out or missing, your iPhone may be a mainland China model (which has no eSIM) or carrier‑locked.
 
 #### On Samsung (One UI):
@@ -201,19 +201,19 @@ If you prefer not to dial codes, or if `*#06#` doesn't work on your device (rare
 
 #### On OnePlus, Xiaomi, Motorola (Android):
 - The path varies slightly, but generally: **Settings > Network & Internet > Mobile Network > Advanced > Add eSIM**.
-- To **how to check esim in iphone** style on Android, dial `*#06#` – it's universal.
+- To **how to check eSIM in iphone** style on Android, dial `*#06#` – it's universal.
 
 ### Method 3: Using IMEI to check eSIM compatibility (online tools)
 
-If you don't have access to your phone (e.g., you're buying a used device online), you can use the phone's IMEI number to check eSIM support. Here's **how to check if my phone is esim compatible** remotely:
+If you don't have access to your phone (e.g., you're buying a used device online), you can use the phone's IMEI number to check eSIM support. Here's **how to check if my phone is eSIM compatible** remotely:
 
 1. Find the IMEI number – dial `*#06#` on the device, or look under **Settings > About Phone**.
-2. Go to an online **esim compatibility checker** (many eSIM providers offer a free IMEI lookup tool).
+2. Go to an online **eSIM compatibility checker** (many eSIM providers offer a free IMEI lookup tool).
 3. Enter the IMEI. The tool will tell you whether that specific device model supports eSIM.
 
-> Important: **imei esim** is not a direct number – the IMEI alone doesn't contain eSIM info, but it identifies your exact phone model. Tools cross‑reference IMEI against manufacturer databases. If you search for **“esim imei check”**, you'll find these services.
+> Important: **imei eSIM** is not a direct number – the IMEI alone doesn't contain eSIM info, but it identifies your exact phone model. Tools cross‑reference IMEI against manufacturer databases. If you search for **“eSIM imei check”**, you'll find these services.
 
-Some carriers also allow **esim imei** registration – when you sign up for an eSIM plan, they ask for your IMEI or EID to ensure compatibility. This is especially common with postpaid carrier eSIMs.
+Some carriers also allow **eSIM imei** registration – when you sign up for an eSIM plan, they ask for your IMEI or EID to ensure compatibility. This is especially common with postpaid carrier eSIMs.
 
 ### Method 4: Physical inspection (for iPhones and some Androids)
 
@@ -221,13 +221,13 @@ This is less reliable but quick: On iPhones, if your device has a physical SIM t
 
 ### What if your phone is not eSIM compatible?
 
-If you've gone through all these **how to check if esim is compatible** steps and found no EID or eSIM menu, your phone cannot use eSIM. **What does this mean for you?** You have three options:
+If you've gone through all these **how to check if eSIM is compatible** steps and found no EID or eSIM menu, your phone cannot use eSIM. **What does this mean for you?** You have three options:
 
 - **Use a physical travel SIM** – many eSIM providers also ship physical SIM cards.
 - **Buy a local SIM at your destination** – still works on any phone.
 - **Upgrade to a newer phone** – consider a Google Pixel 6a, Samsung Galaxy S21 or newer, or an iPhone XR or newer (excluding mainland China models).
 
-> **For those asking “how to find esim qr code” or “how to get esim qr code” –** you don't need to check compatibility to get the QR code; you can buy an eSIM plan first, then verify your phone supports it. However, if your phone isn't compatible, the QR code won't work, and you may need a refund. So always **check esim compatibility** before purchasing.
+> **For those asking “how to find eSIM qr code” or “how to get eSIM qr code” –** you don't need to check compatibility to get the QR code; you can buy an eSIM plan first, then verify your phone supports it. However, if your phone isn't compatible, the QR code won't work, and you may need a refund. So always **check eSIM compatibility** before purchasing.
 
 ---
 
@@ -252,7 +252,7 @@ Before you attempt to activate an eSIM, ensure you check these two critical boxe
 * **Why it happens:** Your Wi-Fi connection dropped, or the carrier's network in your current location is weak.
 * **The Fix:** Do not delete the eSIM. Turn on **Airplane Mode** for 30 seconds, then turn it off. If it's still stuck, restart your phone. The activation will usually resume and complete in the background.
 
-> **Need more advanced help?** For deeper troubleshooting covering dual‑eSIM issues, activation loops, and carrier‑specific errors, see our **[eSIM Deep Troubleshooting Guide 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)**. If you're facing dual‑eSIM problems specifically on iPhones, check **[iPhone Dual eSIM Not Working? 12 Fixes](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** – many of those fixes apply to other devices too.
+> **Need more advanced help?** For deeper troubleshooting covering dual‑eSIM issues, activation loops, and carrier‑specific errors, see our **[eSIM Deep Troubleshooting Guide 2026](/faq/esim-deep-troubleshooting-guide-2026/)**. If you're facing dual‑eSIM problems specifically on iPhones, check **[iPhone Dual eSIM Not Working? 12 Fixes](/faq/dual-esim-not-working-12-fixes-for-iphone/)** – many of those fixes apply to other devices too.
 
 ---
 
@@ -271,18 +271,24 @@ Normally, the download and activation process takes less than 2 minutes. However
 On iPhone, go to **Settings > General > About** and scroll to the **Digital SIM** section. On Android, dial `*#06#` – the EID will appear alongside IMEI numbers.
 
 **Can I check eSIM compatibility using IMEI before buying a used phone?**
-Yes. Many online **esim compatibility checker** tools accept an IMEI number. You can also check the manufacturer's official specifications for that model. This is especially useful when buying a phone from eBay or a secondhand marketplace.
+Yes. Many online **eSIM compatibility checker** tools accept an IMEI number. You can also check the manufacturer's official specifications for that model. This is especially useful when buying a phone from eBay or a secondhand marketplace.
 
 **Can I transfer my eSIM from my old phone to a new one?**
-Yes – but the method depends on your carrier and phone models. For step‑by‑step instructions covering both platforms, see **[How to Transfer eSIM Between iPhone and Android](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+Yes – but the method depends on your carrier and phone models. For step‑by‑step instructions covering both platforms, see **[How to Transfer eSIM Between iPhone and Android](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 ---
 
 ## Conclusion
 
-eSIM technology has completely revolutionized how we connect to mobile networks, stripping away the hassle of plastic cards, paperclips, and long lines at carrier stores. By understanding how the activation process works—downloading a digital profile via a secure server—you can easily troubleshoot any minor hiccups along the way. And before you even start, knowing **how to check if my phone is esim compatible** using `*#06#` or your settings will save you time and frustration.
+eSIM technology has completely revolutionized how we connect to mobile networks, stripping away the hassle of plastic cards, paperclips, and long lines at carrier stores. By understanding how the activation process works—downloading a digital profile via a secure server—you can easily troubleshoot any minor hiccups along the way. And before you even start, knowing **how to check if my phone is eSIM compatible** using `*#06#` or your settings will save you time and frustration.
 
 If you are planning an international trip and want to experience the magic of instant connectivity, **Roami eSIM** offers seamless, high-speed data plans in over 200+ countries. Skip the roaming fees, download your profile in seconds, and stay connected the moment your plane lands.
 
 ---
 *Based on Apple official documentation, GSMA standards, and Android support pages. Updated: June 2026.*
+## Sources
+
+- [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
+- [Apple Support — eSIM on iPhone](https://support.apple.com/en-us/108072)
+- [Google Support — Set up an eSIM](https://support.google.com/pixelphone/answer/14853135)
+- [Google Support — Android eSIM](https://support.google.com/android/answer/11241215)

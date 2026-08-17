@@ -2,18 +2,18 @@
 title: "What is eSIM? Say Goodbye to Lost SIM Cards"
 h1_title: "What Is eSIM and Why It Eliminates the Need for a Physical SIM Card"
 description: "Tired of fiddling with tiny SIM cards? Learn how eSIM technology works on iPhone & Android. Discover why it's safer, easier, and the future of travel connectivity."
-keywords: ["what is eSIM", "eSIM definition", "how does eSIM work", "eSIM vs physical SIM", "Apple eSIM support", "eSIM benefits", "embedded SIM card", "eSIM beginner guide", "dual eSIM", "global eSIM", "eSIM for travel"]
+keywords: ["what is eSIM", "how does eSIM work", "eSIM vs physical SIM", "eSIM definition", "eSIM benefits", "embedded SIM card", "eSIM beginner guide", "dual eSIM", "global eSIM", "eSIM for travel"]
 date: 2026-06-23T10:00:00Z
 lastmod: 2026-06-23T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup", "iPhone 17"]
 toc: true
 
-# 站点 & SEO 基础硬编码配置
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI 文本翻译/硬编码配置 (支持多语言化)
+# UI text translations
 ui_text:
   updated_on: "Updated on"
   min_read: "min read"
@@ -27,7 +27,7 @@ breadcrumbs:
     text: "Help Center"
     url: "/faq/"
 
-# 右侧：热门 eSIM 配置 (6个国家，1.99美金)
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "Popular eSIMs"
   item_suffix: "eSIM"
@@ -63,7 +63,7 @@ sidebar_popular:
       url: "/china-esim/"
       badge: "5G"
 
-# 右侧：免费 eSIM 配置 (4个国家)
+# Sidebar: Free eSIM offers
 sidebar_free:
   title: "Claim Free eSIM"
   icon: "🎁"
@@ -83,7 +83,7 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# 右侧：热门问题配置 (5个问题)
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Popular Questions"
   items:
@@ -176,7 +176,7 @@ If you're considering making the switch, it helps to see exactly how the new dig
 | **Multiple numbers** | One per SIM; swap cards | Store 8+ profiles, switch in Settings |
 | **Dual active lines** | Requires two SIM slots | Supported with dual eSIM (iPhone 13+) |
 | **Loss/theft risk** | SIM can be removed to disable tracking | Cannot be removed; still trackable |
-| **Clone/tamper risk** | Possible (SIM swapping attacks) | Impossible (GSMA SGP.21 standard) |
+| **Clone/tamper risk** | Possible (SIM swapping attacks) | Impossible (GSMA SGP.22 standard) |
 | **Environmental impact** | Plastic, packaging, shipping | Zero physical waste |
 | **International travel** | Buy local SIM at airport or order ahead | Buy online before departure, activate instantly |
 
@@ -206,7 +206,7 @@ According to Apple's official documentation, eSIM is supported on a wide range o
 > **Common question:** "What iPhones support eSIM?" – Any iPhone XS or newer works.
 > **For older phones:** If you have an iPhone 8 or earlier, you cannot use eSIM; you'll need a physical SIM.
 
-> 📱 **Upgrading to an iPhone 17?** Our **[iPhone 17 eSIM Complete Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** walks you through activation step by step.
+> 📱 **Upgrading to an iPhone 17?** Our **[iPhone 17 eSIM Complete Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** walks you through activation step by step.
 
 ### iPads with eSIM Support (Cellular models)
 - 13" and 11" iPad Pro (M4, M5) – eSIM only, no SIM tray
@@ -225,12 +225,12 @@ Beyond just travel, the technology is heavily used to drastically improve consum
 With a physical SIM card, a thief can pop it out of your lost or stolen phone, insert it into their own device, and receive your SMS verification codes (including 2FA codes). **eSIM cannot be physically removed** – your number stays tied to your device, and "Find My" remains active.
 
 ### 5.2 No Cloning or Tampering
-The GSMA's eSIM technical specification **SGP.21** was designed to prevent exporting a profile from one eUICC to another. Unlike older SIM cards that can be cloned with cheap hardware, eSIM is virtually impossible to clone or modify.
+The GSMA's eSIM technical specification **SGP.22** was designed to prevent exporting a profile from one eUICC to another. Unlike older SIM cards that can be cloned with cheap hardware, eSIM is virtually impossible to clone or modify.
 
 ### 5.3 Enterprise Control
 Using device management (MDM), companies can prevent users from adding or removing eSIMs (`AllowESIMModification` restriction). This ensures that a corporate phone number stays on the device and cannot be accidentally transferred.
 
-For advanced dual‑SIM security issues, check out our **[Dual eSIM Not Working? 12 Fixes for iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** guide.
+For advanced dual‑SIM security issues, check out our **[Dual eSIM Not Working? 12 Fixes for iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** guide.
 
 ---
 
@@ -252,8 +252,8 @@ Setting up eSIM is surprisingly simple. Here are the most common methods:
 - Download your carrier's app (Roami, T‑Mobile, Verizon, etc.).
 - Buy a plan and tap "Install eSIM" – the app installs it automatically.
 
-### Method 4: Transfer from Android (iOS 19+)
-- If you're switching from an Android phone, you can now transfer your eSIM directly – no need to call your carrier. See the **[eSIM Cross‑Platform Transfer 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** guide for step‑by‑step instructions.
+### Method 4: Transfer from Android (iOS 26+)
+- If you're switching from an Android phone, you can now transfer your eSIM directly – no need to call your carrier. See the **[eSIM Cross‑Platform Transfer 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)** guide for step‑by‑step instructions.
 
 ---
 
@@ -263,7 +263,7 @@ Setting up eSIM is surprisingly simple. Here are the most common methods:
 No more hunting for a SIM card kiosk at the airport. Before you even leave home, you can purchase a local data eSIM for your destination and activate it when you land. Services like Roami offer plans for 190+ countries.
 
 ### 7.2 Keep Your Home Number Active
-With dual eSIM, you can keep your home carrier active for calls and SMS while using a cheap travel eSIM for data. iOS 19 even has a **smart travel assistant** that prompts you to enable your travel eSIM upon arrival and automatically switches back when you return home.
+With dual eSIM, you can keep your home carrier active for calls and SMS while using a cheap travel eSIM for data.
 
 ### 7.3 No More Roaming Surprises
 Travel eSIMs have clear, upfront pricing – no "daily roaming charges" or "fair usage" throttling that often comes with international roaming from your home carrier.
@@ -339,7 +339,7 @@ If you're still using a physical SIM card, you're missing out on:
 
 Many users ask: "What is dual eSIM and how can it help me while traveling?" Let's walk through a typical example.
 
-You live in Germany and have a German eSIM from Telekom (your main number). You're flying to the USA eSIM for two weeks. Instead of paying €10/day roaming, you buy a **US travel eSIM** from Roami for $1.99 with 5G data. You install it before your flight. On arrival, you:
+You live in Germany and have a German eSIM from Telekom (your main number). You're flying to the USA for two weeks. Instead of paying €10/day roaming, you buy a **US travel eSIM** from Roami for $1.99 with 5G data. You install it before your flight. On arrival, you:
 
 - Set the US eSIM as your **primary data line**.
 - Keep your German eSIM active for **calls and SMS** (so friends can still reach you).
@@ -349,8 +349,14 @@ This is **dual eSIM** in action. You don't need to remove or disable your home S
 
 And if you're wondering "what is a global eSIM" – it's simply a travel eSIM that works across many countries (e.g., Europe‑wide or Asia‑wide plan). Roami offers regional and global plans, all managed digitally.
 
-If you're experiencing issues with dual eSIM, our **[Dual eSIM Not Working? 12 Fixes for iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** guide covers common problems and solutions.
+If you're experiencing issues with dual eSIM, our **[Dual eSIM Not Working? 12 Fixes for iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** guide covers common problems and solutions.
 
 ---
 
 *Based on Apple official technical documentation (2025–2026). eSIM compatibility may vary by carrier and region.*
+## Sources
+
+- [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
+- [Apple Support — eSIM on iPhone](https://support.apple.com/en-us/108072)
+- [Google Support — Set up an eSIM](https://support.google.com/pixelphone/answer/14853135)
+- [Google Support — Android eSIM](https://support.google.com/android/answer/11241215)

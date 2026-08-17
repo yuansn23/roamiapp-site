@@ -43,7 +43,7 @@
 {{ end }}
 
 <!-- ═══════════ Language & Canonical ═══════════ -->
-<link rel="canonical" href="{{ .Permalink }}">
+<link rel="canonical" href="{{ with .Params.canonical }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}">
 
 {{ if .IsTranslated }}
     {{ range .AllTranslations }}

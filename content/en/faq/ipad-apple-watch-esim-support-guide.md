@@ -1,8 +1,8 @@
 ---
 title: "eSIM on iPad & Apple Watch: Complete Guide"
 h1_title: "The Complete Guide to Using eSIM on iPad and Apple Watch"
-description: "Which iPads & Apple Watches support eSIM? Full list: iPad Pro, Air (M3/M4), mini (6th), 10th gen; Watch Series 9, Ultra, SE. Activate, find plans & troubleshoot."
-keywords: ["ipad esim", "ipad pro esim", "ipad air esim", "ipad mini esim", "ipad 10th gen esim", "does ipad have esim", "ipad with esim", "ipad esim plans", "apple watch esim", "apple watch series 9 esim", "apple watch ultra esim", "apple watch se esim", "apple watch cellular esim", "smartwatch with esim", "flip phones with esim", "flip phone with esim", "ipad pro 11 esim", "ipad pro 12.9 esim", "ipad air m3 esim", "ipad air m4 esim", "ipad mini 6 esim", "apple watch esim plan", "apple watch esim plans"]
+description: "Which iPads & Apple Watches support eSIM? Full list: iPad Pro, Air (M2/M3), mini (6th/7th), 10th gen; Watch Series 10, Series 9, Ultra, SE. Activate, find plans & troubleshoot."
+keywords: ["ipad esim", "does ipad have esim", "ipad with esim", "ipad esim plans", "apple watch esim", "apple watch cellular esim", "apple watch esim plan", "smartwatch with esim", "flip phones with esim", "ipad pro esim"]
 date: 2026-06-23T10:00:00Z
 lastmod: 2026-06-23T10:00:00Z
 tags: ["iPad", "Apple Watch", "eSIM", "Cellular", "Compatibility"]
@@ -88,7 +88,7 @@ sidebar_questions:
     - question: "What is eSIM activation and how does it work?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "How to activate an eSIM?"
-      url: "/faq/how-to-activate-an-esim//"
+      url: "/faq/how-to-activate-an-esim/"
     - question: "How to activate eSIM on iPhone (All Models)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Latest eSIM Compatibility List"
@@ -106,7 +106,7 @@ sidebar_questions:
 
 > **Important:** Even if your iPad has a physical SIM slot, it also contains an embedded eSIM chip. You can use either – or both in dual‑SIM mode.
 
-The [official Apple support page for eSIM on iPad](https://support.apple.com/en-us/108072) provides additional details on compatible models. The technology behind eSIM is governed by the [GSMA standard SGP.22](https://www.gsma.com/esim/). For the complete list of **esim compatible phones** and devices across all brands, see our **[full compatibility list](/compatibility/)**.
+The [official Apple support page for eSIM on iPad](https://support.apple.com/en-us/108072) provides additional details on compatible models. The technology behind eSIM is governed by the [GSMA standard SGP.22](https://www.gsma.com/esim/). For the complete list of **eSIM compatible phones** and devices across all brands, see our **[full compatibility list](/compatibility/)**.
 
 ---
 
@@ -116,13 +116,13 @@ The [official Apple support page for eSIM on iPad](https://support.apple.com/en-
 |------------|--------------|-------|
 | **iPad Pro 11‑inch (all generations)** | ✅ Yes | Cellular models only |
 | **iPad Pro 12.9‑inch (all generations)** | ✅ Yes | Cellular models only |
-| **iPad Air (3rd gen and newer)** | ✅ Yes | Includes **iPad Air M3** and **iPad Air M4** |
-| **iPad mini (5th gen and newer)** | ✅ Yes | **iPad mini 6th gen** fully supports eSIM |
+| **iPad Air (3rd gen and newer)** | ✅ Yes | Includes **iPad Air M2** and **iPad Air M3** |
+| **iPad mini (5th gen and newer)** | ✅ Yes | **iPad mini 6th gen** and **iPad mini 7 (A17 Pro)** support eSIM |
 | **iPad (7th gen and newer)** | ✅ Yes | Including **iPad 10th gen** |
 | iPad (6th gen and older) | ❌ No | Wi‑Fi + Cellular models exist but no eSIM |
 | Any Wi‑Fi only iPad | ❌ No | No cellular hardware at all |
 
-> The question **“does ipad have esim”** is answered above: cellular iPads do; Wi‑Fi only iPads do not. If you own an **ipad with esim**, you can use travel eSIMs just like on an iPhone.
+> The question **“does ipad have eSIM”** is answered above: cellular iPads do; Wi‑Fi only iPads do not. If you own an **ipad with eSIM**, you can use travel eSIMs just like on an iPhone.
 
 ---
 
@@ -131,13 +131,14 @@ The [official Apple support page for eSIM on iPad](https://support.apple.com/en-
 | Apple Watch Model | eSIM Support | Notes |
 |-------------------|--------------|-------|
 | **Apple Watch Ultra 2 / Ultra** | ✅ Yes | Requires iPhone 8 or newer |
-| **Apple Watch Series 9** | ✅ Yes | Full **apple watch series 9 esim** support |
+| **Apple Watch Series 10** | ✅ Yes | Full **apple watch series 10 eSIM** support |
+| **Apple Watch Series 9** | ✅ Yes | Full **apple watch series 9 eSIM** support |
 | **Apple Watch Series 8, 7, 6, 5, 4** | ✅ Yes | All GPS + Cellular models |
-| **Apple Watch SE (1st & 2nd gen)** | ✅ Yes | **Apple Watch SE esim** works |
+| **Apple Watch SE (1st & 2nd gen)** | ✅ Yes | **Apple Watch SE eSIM** works |
 | **Apple Watch Series 3** | ✅ Yes | Limited carrier support |
 | **Apple Watch GPS only (no Cellular)** | ❌ No | No eSIM hardware |
 
-> An **apple watch cellular esim** is not a standalone eSIM – it is a “companion” eSIM that shares your iPhone’s phone number (or can be set up independently via Family Setup). You need an **apple watch esim plan** from your carrier. The [official Apple support page for Apple Watch cellular](https://support.apple.com/en-us/HT205739) provides additional details on setup and carrier compatibility.
+> An **apple watch cellular eSIM** is not a standalone eSIM – it is a “companion” eSIM that shares your iPhone’s phone number (or can be set up independently via Family Setup). You need an **apple watch eSIM plan** from your carrier. The [official Apple support page for Apple Watch cellular](https://support.apple.com/en-us/HT205739) provides additional details on setup and carrier compatibility.
 
 ---
 
@@ -148,7 +149,7 @@ The [official Apple support page for eSIM on iPad](https://support.apple.com/en-
 
 ### Method 2: Check for an EID (Embedded Identity Document)
 - Go to **Settings > General > About** and scroll down. If you see a **Digital SIM** section or a **32‑digit EID** number, your iPad has eSIM.
-- For **ipad pro 11 esim** or **ipad pro 12.9 esim** owners, the EID will be present on all cellular models.
+- For **ipad pro 11 eSIM** or **ipad pro 12.9 eSIM** owners, the EID will be present on all cellular models.
 
 ### Method 3: Look for “Add eSIM” in Settings
 - Go to **Settings > Cellular Data** (or **Mobile Data**). If you see **“Add eSIM”** or **“Add Cellular Plan”**, your iPad supports eSIM.
@@ -167,7 +168,7 @@ The [official Apple support page for eSIM on iPad](https://support.apple.com/en-
 
 Activation is very similar to iPhone:
 
-1. **Purchase an eSIM data plan** from a provider (many offer **ipad esim plans** specifically for tablets). We recommend [Roami eSIM](/free-esim/) for a free trial.
+1. **Purchase an eSIM data plan** from a provider (many offer **ipad eSIM plans** specifically for tablets). We recommend [Roami eSIM](/free-esim/) for a free trial.
 2. On your iPad, go to **Settings > Cellular Data > Add eSIM**.
 3. Scan the QR code provided by your eSIM carrier, or enter the activation code manually.
 4. Label your plan (e.g., “Travel Japan”) and set it as default for data if needed.
@@ -193,11 +194,11 @@ Activation differs because the Apple Watch does not have its own QR code scanner
 1. On your iPhone, open the **Watch app**.
 2. Tap **Cellular** > **Set Up Cellular**.
 3. Follow your carrier’s instructions – usually you log in to your carrier account and assign a plan to the watch.
-4. The **apple watch esim plan** will be downloaded to the watch automatically (it may take a few minutes).
+4. The **apple watch eSIM plan** will be downloaded to the watch automatically (it may take a few minutes).
 
 ### Apple Watch Family Setup (Standalone watch for a child or family member)
 - If you want a watch with its own phone number (not tied to your iPhone), set up **Family Setup**.
-- You’ll need a carrier that supports standalone **apple watch esim plans**.
+- You’ll need a carrier that supports standalone **apple watch eSIM plans**.
 - **How to set up Family Setup in detail:**
   1. On the parent’s iPhone (running iOS 16 or later), open the Watch app.
   2. Tap **All Watches** > **Add Watch**.
@@ -206,7 +207,7 @@ Activation differs because the Apple Watch does not have its own QR code scanner
   5. Follow prompts to add a cellular plan for the watch – you’ll need the watch’s EID (shown on the watch screen) and your carrier’s support.
   6. Once set up, the watch works independently for calls, texts, and data – no iPhone needed nearby.
 
-> **Note:** An **apple watch cellular esim** cannot be used independently for data without a paired iPhone (except for a few limited functions like emergency calls). The watch is designed to complement your phone.
+> **Note:** An **apple watch cellular eSIM** cannot be used independently for data without a paired iPhone (except for a few limited functions like emergency calls). The watch is designed to complement your phone.
 
 ---
 
@@ -231,7 +232,7 @@ We recommend starting with a **free trial eSIM** from [Roami](/free-esim/) to te
 - **Australia:** Telstra, Optus, Vodafone.
 - **Europe:** Many carriers (Deutsche Telekom, Orange, TIM, etc.) support watch eSIM – check with your local provider.
 
-> **Important:** Before buying an Apple Watch, verify that your carrier offers an **apple watch esim plan** and supports your specific watch model.
+> **Important:** Before buying an Apple Watch, verify that your carrier offers an **apple watch eSIM plan** and supports your specific watch model.
 
 ---
 
@@ -286,27 +287,26 @@ We recommend starting with a **free trial eSIM** from [Roami](/free-esim/) to te
 3. **Reset network settings** – On iPad: Settings > General > Transfer or Reset iPad > Reset > Reset Network Settings. (This does not delete eSIM profiles but resets Wi‑Fi and Bluetooth.)
 4. **Check for carrier settings update** – On iPad: Settings > General > About – if an update is available, a pop‑up will appear.
 
-For deeper troubleshooting (including dual‑eSIM issues on iPhone/iPad), see our **[eSIM Deep Troubleshooting Guide 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** and **[iPhone Dual eSIM Not Working? 12 Fixes](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** – many principles apply to iPad as well.
+For deeper troubleshooting (including dual‑eSIM issues on iPhone/iPad), see our **[eSIM Deep Troubleshooting Guide 2026](/faq/esim-deep-troubleshooting-guide-2026/)** and **[iPhone Dual eSIM Not Working? 12 Fixes](/faq/dual-esim-not-working-12-fixes-for-iphone/)** – many principles apply to iPad as well.
 
 ---
 
 ## Other devices: smartwatches and flip phones with eSIM
 
 ### Smartwatches with eSIM (Non‑Apple)
-- **Samsung Galaxy Watch (5/6/7, Ultra)** – support eSIM (standalone or paired). See our **[Samsung Galaxy eSIM compatibility guide](/faq/samsung-galaxy-esim-compatible/)** for more details.
+- **Samsung Galaxy Watch (5/6/7, Ultra)** – support eSIM (standalone or paired). See our **[Samsung Galaxy eSIM compatibility guide](/faq/samsung-s20-esim-compatible/)** for more details.
 - **Google Pixel Watch (1/2/3)** – support eSIM (requires paired Android phone). See our **[Google Pixel eSIM compatibility guide](/faq/google-pixel-6-esim-compatible/)**.
-- **Garmin Venu 2 Plus** – limited eSIM support.
 - **Xiaomi Watch 2 Pro** – eSIM available in some regions.
 
-If you own a **smartwatch with esim**, activation is usually done via the manufacturer’s companion app on your phone. The process varies by brand – check the watch’s settings under “Mobile Network” or “Cellular.”
+If you own a **smartwatch with eSIM**, activation is usually done via the manufacturer’s companion app on your phone. The process varies by brand – check the watch’s settings under “Mobile Network” or “Cellular.”
 
 ### Flip Phones with eSIM
 Yes – several modern flip phones (foldable or clamshell) support eSIM:
-- **Samsung Galaxy Z Flip3, Flip4, Flip5, Flip6, Flip7** – all support eSIM (same as other Galaxy flagships). These are **flip phones with esim** that give you a compact foldable design with full eSIM capability.
+- **Samsung Galaxy Z Flip3, Flip4, Flip5, Flip6, Flip7** – all support eSIM (same as other Galaxy flagships). These are **flip phones with eSIM** that give you a compact foldable design with full eSIM capability.
 - **Motorola Razr (2022, 2023, 2024)** – supports eSIM on the Razr+ models.
 - **TCL Flip 2** – does NOT support eSIM (only physical SIM).
 
-> If you’re searching for a **flip phone with esim**, the Galaxy Z Flip series is your best bet. They are true smartphones that fold, not the old‑style feature phones.
+> If you’re searching for a **flip phone with eSIM**, the Galaxy Z Flip series is your best bet. They are true smartphones that fold, not the old‑style feature phones.
 
 ---
 
@@ -316,22 +316,27 @@ Yes – several modern flip phones (foldable or clamshell) support eSIM:
 Yes – all cellular iPad models from the 7th generation onward, including the iPad Pro, iPad Air, iPad mini, and iPad 10th generation, have built‑in eSIM.
 
 **Does the iPad Pro 11‑inch have eSIM?**
-Yes. The **ipad pro 11 esim** works on all cellular versions. The same is true for the **ipad pro 12.9 esim**.
+Yes. The **ipad pro 11 eSIM** works on all cellular versions. The same is true for the **ipad pro 12.9 eSIM**.
 
-**Does the iPad Air M3 or M4 have eSIM?**
-Yes. Both the **ipad air m3 esim** and **ipad air m4 esim** are fully supported on cellular models.
+**Does the iPad Air M2 or M3 have eSIM?**
+Yes. Both the **ipad air m2 eSIM** and **ipad air m3 eSIM** are fully supported on cellular models.
 
 **Does the iPad mini 6th gen have eSIM?**
-Yes. The **ipad mini 6 esim** works without any issues.
+Yes. The **ipad mini 6 eSIM** works without any issues.
 
+
+**Does the iPad mini 7 (A17 Pro) have eSIM?**
+Yes. The **ipad mini 7 eSIM** works out of the box – the cellular model is **eSIM‑only** (no physical SIM tray).
 **Does the iPad 10th generation support eSIM?**
-Yes. The **ipad 10th gen esim** is present on cellular models.
+Yes. The **ipad 10th gen eSIM** is present on cellular models.
 
+**Does Apple Watch Series 10 have eSIM?**
+Yes. The **apple watch series 10 eSIM** is standard on the GPS + Cellular model.
 **Does Apple Watch Series 9 have eSIM?**
-Yes. The **apple watch series 9 esim** is a standard feature on the GPS + Cellular version.
+Yes. The **apple watch series 9 eSIM** is a standard feature on the GPS + Cellular version.
 
 **Does Apple Watch Ultra have eSIM?**
-Yes. The **apple watch ultra esim** works just like other cellular Apple Watches.
+Yes. The **apple watch ultra eSIM** works just like other cellular Apple Watches.
 
 **Can I use the same eSIM on my iPhone and iPad?**
 No – eSIM profiles are tied to a single device’s EID. You need a separate plan for each device. Some carriers offer “multi‑device” plans, but those are rare.
@@ -361,3 +366,8 @@ If your iPad is a cellular model, you can test its eSIM functionality with a **f
 
 ---
 *Based on Apple official documentation, GSMA standards, and carrier information. Updated: June 2026.*
+## Sources
+
+- [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
+- [Apple Support — eSIM on iPhone](https://support.apple.com/en-us/108072)
+- [Apple Support — About eSIM on iPhone](https://support.apple.com/en-us/HT209044)

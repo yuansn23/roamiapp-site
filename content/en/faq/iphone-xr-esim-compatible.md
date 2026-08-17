@@ -2,18 +2,18 @@
 title: "Does iPhone XR Support eSIM? Full Guide 2026"
 h1_title: "Does the iPhone XR Support eSIM? A Complete Guide for 2026"
 description: "iPhone XR supports eSIM – verify with *#06#. Activate on major carriers. China models: no eSIM. Also covers iPhone 8/X and eSIM iPhones."
-keywords: ["iphone xr esim compatible", "iphone xr esim support", "airalo compatible phones", "visible esim compatible phones", "google fi esim compatible phones", "verizon esim compatibility", "dual sim compatible", "list of iphones that support esim", "esim compatible phones", "téléphone compatible esim free"]
+keywords: ["iphone xr esim compatible", "iphone xr esim support", "esim compatible phones", "list of iphones that support esim", "airalo compatible phones", "google fi esim compatible phones", "verizon esim compatibility", "dual sim compatible", "iphone xr dual sim", "iphone xr esim"]
 date: 2026-06-23T10:00:00Z
 lastmod: 2026-06-23T10:00:00Z
 tags: ["iPhone", "eSIM", "Compatibility", "iPhone XR"]
 toc: true
 
-# 站点 & SEO 基础硬编码配置
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI 文本翻译/硬编码配置 (支持多语言化)
+# UI text translations
 ui_text:
   updated_on: "Updated on"
   min_read: "min read"
@@ -27,7 +27,7 @@ breadcrumbs:
     text: "eSIM Compatibility"
     url: "/compatibility/"
 
-# 右侧：热门 eSIM 配置 (6个国家，1.99美金)
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "Popular eSIMs"
   item_suffix: "eSIM"
@@ -63,7 +63,7 @@ sidebar_popular:
       url: "/china-esim/"
       badge: "5G"
 
-# 右侧：免费 eSIM 配置 (4个国家)
+# Sidebar: Free eSIM offers
 sidebar_free:
   title: "Claim Free eSIM"
   icon: "🎁"
@@ -83,14 +83,14 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# 右侧：热门问题配置 (5个问题)
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Popular Questions"
   items:
     - question: "What is eSIM activation and how does it work?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "How to activate an eSIM?"
-      url: "/faq/how-to-activate-an-esim//"
+      url: "/faq/how-to-activate-an-esim/"
     - question: "How to activate eSIM on iPhone (All Models)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Latest eSIM Compatibility List"
@@ -108,7 +108,7 @@ Here's what you need to know in 10 seconds:
 2. Verify with `*#06#`: Dial this code. If a 32‑digit EID appears, your phone is eSIM‑ready.
 3. Activate in minutes: Scan a QR code from any provider before you travel. Turn on Data Roaming upon landing.
 
-Pro tip: Even though the iPhone XR is older, its eSIM works exactly like the latest iPhones – no speed or feature limitations. For a complete list of **esim compatible phones** across all brands, see our **[full compatibility guide](/compatibility/)**.
+Pro tip: Even though the iPhone XR is older, its eSIM works exactly like the latest iPhones – no speed or feature limitations. For a complete list of **eSIM compatible phones** across all brands, see our **[full compatibility guide](/compatibility/)**.
 
 ---
 
@@ -166,7 +166,7 @@ If after activation no data network is available, APN settings may need adjustme
 2. Fill in the APN fields – check your eSIM provider's website for correct values.
 3. Save and restart your iPhone.
 
-Common APN values: Airalo = `airalo`, Holafly = `holafly`, Nomad = `global`.
+Common APN values: `globaldata` (Airalo). Most travel eSIMs auto-configure the APN, so check your provider's website for the exact value. if data doesn't work.
 
 ---
 
@@ -187,7 +187,7 @@ Your iPhone XR works with every eSIM provider worldwide:
 | SFR (France) | Yes | SFR eSIM compatible with iPhone XR |
 | Bouygues (France) | Yes | Bouygues eSIM works on iPhone XR |
 
-If you searched for “téléphone compatible esim free” or “mobile compatible esim orange” – iPhone XR is fully compatible with French carriers. For “verizon esim compatibility”, iPhone XR is supported as long as it's unlocked or a Verizon device. For a broader look at other brands – including Samsung, Xiaomi, and Huawei – see our full **[eSIM compatibility guide](/compatibility/)**.
+If you searched for “eSIM compatible phones” or “Orange eSIM compatible phones” – the iPhone XR is fully compatible with French carriers. For “verizon eSIM compatibility”, iPhone XR is supported as long as it's unlocked or a Verizon device. For a broader look at other brands – including Samsung, Xiaomi, and Huawei – see our full **[eSIM compatibility guide](/compatibility/)**.
 
 ---
 
@@ -249,9 +249,9 @@ No. iPhone 8 and 8 Plus are physical SIM only. They do not support eSIM.
 **What about other phone brands? Is my Samsung / Xiaomi / Huawei eSIM compatible?**
 Many users ask about Samsung Galaxy S20 FE, Xiaomi 11T Pro, or Huawei P30 Pro. The answer depends on the region and model:
 
-- Samsung – most global Galaxy S20/S21/S22/S23/S24/S25 series support eSIM, as well as A series: A22, A33, A52s, A51, A53. The S20 FE depends on region.
-- Xiaomi – eSIM compatible models include: 11T Pro, 13T Pro, 14T Pro, 15T Pro, and Redmi Note 11 Pro 5G.
-- Huawei – international versions of P30 Pro, P40 Pro, Mate 40 Pro, and Pura 70 support eSIM.
+- Samsung – most global Galaxy S20/S21/S22/S23/S24/S25 series support eSIM. Some Galaxy A-series 5G models (such as the A33, A52s, and A53) also support it, while the S20 FE does not support eSIM in most regions.
+- Xiaomi – eSIM-compatible models include the 12T Pro, 13/13 Pro, 13T/13T Pro, and 14/14 Pro. The 11T Pro and Redmi Note 11 Pro 5G do not support eSIM.
+- Huawei – some international models such as the P40, P40 Pro, Mate 40 Pro, and Pura 70 support eSIM. The P30 Pro does not.
 
 For a complete list, see our full **[eSIM compatibility guide](/compatibility/)**. And remember: dual SIM compatible phones let you use a physical SIM and an eSIM at the same time.
 
@@ -265,3 +265,8 @@ The best way to confirm compatibility is to install a free trial eSIM. It costs 
 
 ---
 *Based on Apple official documentation, GSMA standards, and carrier information. Updated: June 2026.*
+## Sources
+
+- [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
+- [Apple Support — eSIM on iPhone](https://support.apple.com/en-us/108072)
+- [Apple Support — About eSIM on iPhone](https://support.apple.com/en-us/HT209044)

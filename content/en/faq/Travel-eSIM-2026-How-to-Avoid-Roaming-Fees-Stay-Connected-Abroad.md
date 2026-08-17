@@ -2,18 +2,18 @@
 title: "Travel eSIM 2026: Slash Roaming Fees by 90%"
 h1_title: "Travel eSIM in 2026: How to Cut Roaming Fees by 90%"
 description: "Never hunt for local SIMs again. Roami global eSIM auto-switches between top networks worldwide. 5G ready, instant activation, 24/7 support. Free trial."
-keywords: ["travel eSIM", "international roaming", "iOS 26 travel eSIM", "buy eSIM for travel", "eSIM for tourists", "cheap roaming", "iPhone travel eSIM", "eSIM vs roaming", "best travel esim", "eSIM for international travel", "how to get an esim", "esim activation", "data only esim", "unlimited data esim", "esim europe", "europe esim", "esim japan", "japan esim", "esim usa", "global esim", "international esim card", "esim vs physical sim", "travel esim providers", "esim plans for international travel"]
+keywords: ["travel eSIM", "international roaming", "eSIM for travel", "buy eSIM for travel", "best travel esim", "cheap roaming", "eSIM for international travel", "data only esim", "unlimited data esim", "eSIM vs roaming"]
 date: 2026-06-23T10:00:00Z
 lastmod: 2026-06-23T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup", "iPhone 17"]
 toc: true
 
-# 站点 & SEO 基础硬编码配置
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI 文本翻译/硬编码配置 (支持多语言化)
+# UI text translations
 ui_text:
   updated_on: "Updated on"
   min_read: "min read"
@@ -27,7 +27,7 @@ breadcrumbs:
     text: "Help Center"
     url: "/faq/"
 
-# 右侧：热门 eSIM 配置 (6个国家，1.99美金)
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "Popular eSIMs"
   item_suffix: "eSIM"
@@ -63,7 +63,7 @@ sidebar_popular:
       url: "/china-esim/"
       badge: "5G"
 
-# 右侧：免费 eSIM 配置 (4个国家)
+# Sidebar: Free eSIM offers
 sidebar_free:
   title: "Claim Free eSIM"
   icon: "🎁"
@@ -83,7 +83,7 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# 右侧：热门问题配置 (5个问题)
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Popular Questions"
   items:
@@ -100,7 +100,7 @@ sidebar_questions:
 
 > International roaming is expensive. Airport SIM kiosks are a rip-off. And juggling multiple physical SIM cards is a headache. **Enter the travel eSIM** – a digital SIM that lets you buy local data plans from anywhere in the world, installed before you leave home, and activated the moment you land. This guide gives you the ultimate strategy for staying connected abroad while saving up to 90% on roaming fees.
 
-The [GSMA](https://www.gsma.com/esim/) defines the technical standards that make travel eSIMs globally interoperable. Whether you're looking for a **best travel esim** or a reliable **eSIM for international travel**, this guide covers everything you need to know.
+The [GSMA](https://www.gsma.com/esim/) defines the technical standards that make travel eSIMs globally interoperable. Whether you're looking for a **best travel eSIM** or a reliable **eSIM for international travel**, this guide covers everything you need to know.
 
 ---
 
@@ -108,17 +108,17 @@ The [GSMA](https://www.gsma.com/esim/) defines the technical standards that make
 
 - **Three options:** Existing carrier roaming / Local travel eSIM / Global provider data eSIM.
 - **Cheapest & most flexible:** Buy a data‑only **travel eSIM** from a global provider (covers 190+ countries).
-- **iOS 26 smart feature:** iPhone now asks if you want to use a **travel eSIM** before departure and auto‑enables it upon arrival.
+- **Plan ahead:** Set your data line before you fly and keep your home line's roaming off to avoid surprise charges.
 - **Key requirement:** Your iPhone must be **unlocked** (no carrier lock). Check in `Settings > General > About`.
 - **Device support:** iPhone XS or newer, many iPads with cellular. US models from 14 onward are eSIM‑only.
 
-A complete list of **eSIM compatible phones** is available in our [compatibility guide](/compatibility/). For a detailed walkthrough on **how to get an esim** and activate it, see our [activation guide](/faq/how-to-activate-an-esim/).
+A complete list of **eSIM compatible phones** is available in our [compatibility guide](/compatibility/). For a detailed walkthrough on **how to get an eSIM** and activate it, see our [activation guide](/faq/how-to-activate-an-esim/).
 
 ---
 
 ## 1. Travel eSIM vs International Roaming – Which Option Saves You the Most?
 
-When planning your **international travel esim** strategy, you have three options. Here's how they compare so you can make the right choice for **cheap roaming** and reliable connectivity:
+When planning your **international travel eSIM** strategy, you have three options. Here's how they compare so you can make the right choice for **cheap roaming** and reliable connectivity:
 
 | Option | How It Works | Cost | Best For | Hidden Pitfalls |
 |--------|--------------|------|----------|------------------|
@@ -149,13 +149,13 @@ All iPhone models from **iPhone XS, XR, and later** support eSIM. That includes 
 - **US models (iPhone 14 and newer):** eSIM only – no physical SIM tray. Perfect for travel – you must use eSIM anyway.
 - **International models:** Usually have one physical SIM + eSIM. You can keep your home physical SIM for calls and use an eSIM for data.
 
-> 📱 **Upgrading before a trip?** Our **[iPhone 17 eSIM Complete Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** shows how to activate any eSIM on the latest hardware.
+> 📱 **Upgrading before a trip?** Our **[iPhone 17 eSIM Complete Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** shows how to activate any eSIM on the latest hardware.
 
 ---
 
 ## 3. Best Travel eSIM Providers Compared – Roami, Airalo, Holafly & More
 
-Choosing the right **travel esim providers** can be overwhelming. Here's a comparison of the top options for **best travel esim** based on price, coverage, and features:
+Choosing the right **travel eSIM providers** can be overwhelming. Here's a comparison of the top options for **best travel eSIM** based on price, coverage, and features:
 
 | Provider | Coverage | Starting Price | Data Plans | Key Feature |
 |----------|----------|---------------|------------|-------------|
@@ -165,7 +165,7 @@ Choosing the right **travel esim providers** can be overwhelming. Here's a compa
 | **Nomad** | 100+ countries | $4.00 (1GB/7 days) | 1GB–20GB | Good for Asia, promo codes available |
 | **Ubigi** | 190+ countries | $4.00 (1GB/7 days) | 1GB–50GB | Strong in Japan, good for business travelers |
 
-When evaluating **esim plans for international travel**, consider not just price but also network quality, coverage depth, and support availability. For US travel, a **[USA eSIM](/united-states-esim/)** with multi-carrier switching offers the best reliability.
+When evaluating **eSIM plans for international travel**, consider not just price but also network quality, coverage depth, and support availability. For US travel, a **[USA eSIM](/united-states-esim/)** with multi-carrier switching offers the best reliability.
 
 For more details on specific providers, check out our [USA eSIM comparison guide](/blog/best-usa-esim-comparison-airalo-holafly/).
 
@@ -173,52 +173,38 @@ For more details on specific providers, check out our [USA eSIM comparison guide
 
 ## 4. Travel eSIM Data Plans: How Much Data Do You Actually Need?
 
-Choosing the right **data only esim** or **unlimited data esim** depends on your usage habits. Here's a quick guide to help you decide:
+Choosing the right **data only eSIM** or **unlimited data eSIM** depends on your usage habits. Here's a quick guide to help you decide:
 
 | Usage Type | Daily Data | Recommended Plan (7-day trip) | Best Provider |
 |------------|------------|-------------------------------|---------------|
 | **Light** (maps, WhatsApp, occasional browsing) | 200–500MB | 1–3GB | Roami ($1.99–$4.99) |
 | **Moderate** (social media, music streaming, photo uploads) | 500MB–1.5GB | 5–10GB | Roami ($6.99–$9.99) |
 | **Heavy** (video calls, Netflix, hotspot for laptop) | 1.5–3GB | 10–20GB | Roami ($9.99–$15.99) |
-| **Extreme** (constant streaming, large file transfers) | 3–5GB+ | Unlimited | Holafly ($27.30/7 days) or Roami unlimited |
+| **Extreme** (constant streaming, large file transfers) | 3–5GB+ | Unlimited | Holafly unlimited (from ~$6.90/day) or Roami unlimited |
 
-For most travelers, a **data only eSIM** with a fixed data plan offers better value than unlimited plans, which often throttle speeds after a daily limit. If you're traveling for work and need to share your connection, make sure your **esim data plans** allow hotspot/tethering – Roami supports this fully.
+For most travelers, a **data only eSIM** with a fixed data plan offers better value than unlimited plans, which often throttle speeds after a daily limit. If you're traveling for work and need to share your connection, make sure your **eSIM data plans** allow hotspot/tethering – Roami supports this fully.
 
 When selecting a **travel eSIM** for a specific region, consider regional plans like **eSIM Europe** or **Europe eSIM** that cover multiple countries with a single purchase, or country-specific options like **eSIM Japan** or **Japan eSIM** for dedicated coverage.
 
 ---
 
-## 5. iOS 26 Smart Travel eSIM Assistant (Game‑Changer)
+## 5. Managing Your Travel eSIM While Abroad
 
-Apple’s iOS 26 introduces a feature designed specifically for travel eSIM users. It automates two annoying manual steps:
+A travel eSIM works alongside your home SIM as a second line. A few simple habits keep costs under control:
 
-### Before Departure
-When you purchase a travel eSIM (from any provider that supports iOS integration), the system will ask:
-> **“Do you intend to use this eSIM in your home country or while traveling?”**
-- Answer “Traveling” – the iPhone marks it as a **travel eSIM** plan.
-
-### Upon Arrival
-As soon as you land in your destination country and your phone connects to a local network, a notification pops up:
-> **“Enable Travel eSIM?”**
-- **Tap “Enable Travel eSIM”** → You’ll see two options:
-  - **“Use Travel eSIM Only”** – Your home eSIM is temporarily disabled, preventing accidental roaming charges.
-  - **“Use Both”** – Both lines stay active; travel eSIM handles data, home line can receive calls (roaming charges may still apply for home calls/SMS).
-
-### After Returning Home
-When you land back in your home country, iOS 26 will automatically:
-- Turn off the travel eSIM (or prompt you to disable it).
-- Re‑enable your home carrier eSIM.
-
-> 💡 **Pro tip:** Even with the smart assistant, you can manually control your data line anytime: `Settings` > `Cellular` > `Cellular Data` → pick which eSIM to use for internet.
+- **Set your data line before you fly**: `Settings > Cellular > Cellular Data` → select your travel eSIM.
+- **Turn off data roaming on your home line**: `Settings > Cellular > [home line]` → Data Roaming OFF, so you don't get charged while your travel eSIM handles data.
+- **Turn on data roaming for the travel eSIM line** so it can connect to local networks.
+- **When you return home**, switch your data line back to your home carrier. You can delete the travel eSIM once the plan expires.
 
 ---
 
 ## 6. How to Get and Activate a Travel eSIM Before Your Trip
 
-Do this **before** you leave home (while you still have Wi‑Fi). This covers **how to get an esim** and **esim activation** in one go:
+Do this **before** you leave home (while you still have Wi‑Fi). This covers **how to get an eSIM** and **eSIM activation** in one go:
 
 1. **Purchase your travel eSIM** from your chosen provider (app or website).
-2. **Install the eSIM profile** – usually by scanning a **esim qr code** or tapping an “Install” link.
+2. **Install the eSIM profile** – usually by scanning a **eSIM qr code** or tapping an “Install” link.
    - To scan QR: `Settings` > `Cellular` > `Add eSIM` > `Use QR Code`.
 3. **Label the eSIM** – give it a name like “Japan Travel” so you don’t confuse it with your home line.
 4. **Turn off “Cellular Data” for this eSIM until you arrive** – to avoid accidentally using it before departure.
@@ -231,7 +217,7 @@ Upon arrival at your destination:
 
 > ⚠️ **If you have an eSIM‑only iPhone (US model):** Your home eSIM might still try to roam. To avoid charges, turn off **Data Roaming** for the home line and/or disable “Allow Cellular Data Switching.”
 
-If you encounter issues, consult our [eSIM troubleshooting guide](/faq/eSIM-Deep-Troubleshooting-Guide-2026/).
+If you encounter issues, consult our [eSIM troubleshooting guide](/faq/esim-deep-troubleshooting-guide-2026/).
 
 ---
 
@@ -282,7 +268,7 @@ For best results:
 - Enable **Allow Cellular Data Switching** – the phone can use the travel eSIM’s data for your home line’s Wi‑Fi Calling.
 - Disable **“Send as SMS”** for iMessage if your home plan has expensive SMS.
 
-> 📖 **Dual SIM not behaving?** Check our **[Dual eSIM Not Working? 12 Fixes for iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** for CDMA conflicts, T‑ADS errors, and battery drain fixes.
+> 📖 **Dual SIM not behaving?** Check our **[Dual eSIM Not Working? 12 Fixes for iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** for call routing issues, VoLTE setup, and battery drain fixes.
 
 ---
 
@@ -298,7 +284,7 @@ Apple’s documentation includes region‑specific restrictions:
 ### Hong Kong & Macau
 - Many models support **eSIM + physical SIM** or dual physical SIM. Check your specific model before buying a travel eSIM.
 
-> **Important:** You cannot use a mainland China carrier’s eSIM on a device purchased outside China. **International esim card** or **global esim card** options from providers like Roami and Airalo are the only reliable solution for foreign visitors.
+> **Important:** You cannot use a mainland China carrier’s eSIM on a device purchased outside China. **International eSIM card** or **global eSIM card** options from providers like Roami and Airalo are the only reliable solution for foreign visitors.
 
 ---
 
@@ -330,7 +316,7 @@ If no connection after 2 minutes:
 - Restart your iPhone.
 - Manually select a network: `Settings` > `Cellular` > travel eSIM > `Network Selection` → turn off Automatic → pick a local carrier manually.
 
-> 🔄 **Switching phones during travel?** You may need to **[transfer your eSIM](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** – our guide covers moving between iPhone and Android cross‑platform.
+> 🔄 **Switching phones during travel?** You may need to **[transfer your eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/)** – our guide covers moving between iPhone and Android cross‑platform.
 
 ---
 
@@ -350,7 +336,7 @@ Yes – iMessage and FaceTime are tied to your Apple ID and the phone number reg
 - Moderate (social media, music streaming, some video): 3–5GB  
 - Heavy (video calls, streaming Netflix, hotspot for laptop): 10GB+  
 
-Choose your **esim plans for international travel** accordingly.
+Choose your **eSIM plans for international travel** accordingly.
 
 **Q5: Can I use a travel eSIM on a cruise ship?**  
 Most cruise ship cellular is not covered by standard travel eSIMs. You’ll need the ship’s Wi‑Fi or a maritime roaming plan.
@@ -359,7 +345,7 @@ Most cruise ship cellular is not covered by standard travel eSIMs. You’ll need
 Most providers let you top up through their app instantly – no new QR code needed. Just buy an additional data pack.
 
 **Q7: Is eSIM safe? Can someone hack it?**  
-eSIMs are more secure than physical SIMs. They comply with the GSMA’s SGP.21 standard, which prevents cloning or extraction. See the **[eSIM security overview in our iPhone 17 guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/#5-esim-security-advantages-why-more-reliable-than-physical-sim)**.
+eSIMs are more secure than physical SIMs. They comply with the GSMA’s SGP.22 standard, which prevents cloning or extraction. See the **[eSIM security overview in our iPhone 17 guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/#5-esim-security-advantages-why-more-reliable-than-physical-sim)**.
 
 **Q8: What is the best travel eSIM for Europe?**  
 For most travelers, Roami or Airalo Europe regional plans offer the best value. **eSIM Europe** or **Europe eSIM** plans typically cover 30+ countries.
@@ -370,14 +356,14 @@ Ubigi and Roami are top choices. **eSIM Japan** or **Japan eSIM** plans are avai
 **Q10: What is the best travel eSIM for USA?**  
 Roami (multi-carrier T‑Mobile/AT&T/Verizon) offers the most reliable coverage. For a US number, Airalo Discover+ is the best option. See our [USA eSIM guide](/united-states-esim/) for details.
 
-**Q11: Can I get a free esim trial?**  
+**Q11: Can I get a free eSIM trial?**  
 Yes! Roami offers a [free eSIM trial](/free-esim/) so you can test the service before buying a full plan.
 
-**Q12: What is an international esim card?**  
-An **international esim card** is a digital SIM that works across multiple countries. Providers like Roami and Airalo offer **global esim card** options that cover 190+ countries with a single purchase.
+**Q12: What is an international eSIM card?**  
+An **international eSIM card** is a digital SIM that works across multiple countries. Providers like Roami and Airalo offer **global eSIM card** options that cover 190+ countries with a single purchase.
 
-**Q13: How do I get an esim for travel?**  
-Simply download your provider's app, purchase a plan, and install the eSIM profile via QR code. See our **[how to get an esim](/faq/how-to-activate-an-esim/)** guide for detailed steps.
+**Q13: How do I get an eSIM for travel?**  
+Simply download your provider's app, purchase a plan, and install the eSIM profile via QR code. See our **[how to get an eSIM](/faq/how-to-activate-an-esim/)** guide for detailed steps.
 
 ---
 
@@ -391,8 +377,14 @@ Simply download your provider's app, purchase a plan, and install the eSIM profi
 - **During trip:** Use travel eSIM for all data; keep home eSIM for iMessage and occasional calls (over Wi‑Fi Calling).
 - **After return:** Disable travel eSIM (or keep it for next trip).
 
-Whether you need an **eSIM for international travel**, a **global esim**, or a **cheap roaming** solution, the right travel eSIM can transform your connectivity experience. Start with a **[free eSIM trial](/free-esim/)** to test the service.
+Whether you need an **eSIM for international travel**, a **global eSIM**, or a **cheap roaming** solution, the right travel eSIM can transform your connectivity experience. Start with a **[free eSIM trial](/free-esim/)** to test the service.
 
 ---
 
 *Based on Apple official documentation (2025–2026) and real‑world testing. Carrier policies and eSIM compatibility may change. Always verify with your provider before traveling.*
+## Sources
+
+- [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
+- [Apple Support — eSIM on iPhone](https://support.apple.com/en-us/108072)
+- [Google Support — Set up an eSIM](https://support.google.com/pixelphone/answer/14853135)
+- [Google Support — Android eSIM](https://support.google.com/android/answer/11241215)

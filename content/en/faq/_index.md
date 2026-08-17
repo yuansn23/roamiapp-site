@@ -9,7 +9,7 @@ outputs:
 seo:
   title: "Roami eSIM FAQ | Activation, Compatibility & Free eSIM Trials 2026"
   description: "Step-by-step guides for eSIM activation, device compatibility (iPhone, Samsung, Google Pixel, Moto G Power), troubleshooting, and free eSIM trials for USA, UK, Japan, China, and more. Instant support."
-  keywords: "eSIM, travel eSIM, free eSIM, free eSIM trial, free USA eSIM, free Japan eSIM, eSIM setup, UK eSIM, help center, Roami, 2026 eSIM guide, eSIM activation, eSIM troubleshooting, eSIM compatibility"
+  keywords: "eSIM, travel eSIM, free eSIM, free eSIM trial, eSIM setup, UK eSIM, eSIM activation, eSIM troubleshooting, eSIM compatibility, Roami"
 hero:
   title: "eSIM FAQs & Setup Guide | Free Trials & Device Compatibility Check"
   subtitle: "Find activation guides for iPhone, Samsung, Google Pixel, and Moto G Power. Learn how to claim free global eSIM trials and fix travel internet issues."
@@ -107,12 +107,12 @@ related_products:
   title: "Related eSIM Plans – Roami"
   subtitle: "Stay connected with our most popular local and regional eSIM plans. Instant delivery, zero roaming fees – choose your destination."
   items:
-  - name: USA eSIM eSIM
+  - name: USA eSIM
     slug: united-states-esim
     flag: /img/flags/us.svg
     price: From $1.99
     is_highlight: false
-  - name: UK eSIM eSIM
+  - name: UK eSIM
     slug: united-kingdom-esim
     flag: /img/flags/gb.svg
     price: From $1.99
@@ -205,28 +205,28 @@ categories:
       - q: "What is eSIM activation and how does it work?"
         expanded: true
         snippet: "eSIM activation downloads a digital SIM profile to your phone – no physical SIM card needed. With Roami, activate in under 2 minutes."
-        url: "/faq/What-is-eSIM-activation-and-how-does-it-work/"
+        url: "/faq/what-is-esim-activation-and-how-does-it-work/"
       - q: "What is an eSIM? A Beginner's Guide to Embedded SIM Cards"
         snippet: "New to eSIM? This beginner guide explains embedded SIMs, how they work on iPhone/iPad, security benefits, compatibility, and simple setup. Based on Apple's official documentation."
-        url: "/faq/What-Is-eSIM/"
+        url: "/faq/what-is-esim/"
       - q: "How to activate an eSIM? (General Step-by-Step Guide)"
         snippet: "To activate an eSIM, go to your phone's cellular settings, select 'Add Data Plan', and scan the QR code from your provider or Roami."
         url: "/faq/how-to-activate-an-esim/"
       - q: "Travel eSIM 2026: How to Avoid Roaming Fees & Stay Connected Abroad"
         snippet: "Traveling abroad? Use a travel eSIM with iOS 26 smart assistant. Compare roaming vs local eSIM vs global data plans. Step-by-step activation, unlock check. Save up to 90% on roaming."
-        url: "/faq/Travel-eSIM-2026-How-to-Avoid-Roaming-Fees-Stay-Connected-Abroad/"
+        url: "/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/"
       - q: "How to transfer an eSIM between iPhone and Android?"
         snippet: "Three proven methods: QR code transfer, manual SM-DP+ entry, and carrier app migration. Works for AT&T, T-Mobile, Verizon, EE, Orange, Telekom, Bell, Telus, au, Swisscom."
-        url: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+        url: "/faq/how-to-transfer-esim-between-iphone-and-android/"
       - q: "eSIM Troubleshooting: 16 Fixes for iPhone & iPad (iOS 26)"
         snippet: "Struggling with activation failures, no service, transfer errors, dual SIM conflicts or iMessage issues? 16 in-depth troubleshooting scenarios with symptoms, causes and fixes."
-        url: "/faq/eSIM-Deep-Troubleshooting-Guide-2026/"
+        url: "/faq/esim-deep-troubleshooting-guide-2026/"
       - q: "Dual eSIM Not Working? 12 Fixes for iPhone"
-        snippet: "Second eSIM showing 'No Service'? Incoming calls go to voicemail? Covers CDMA, T-ADS cache, battery drain and carrier lock checks. Works for iPhone 17, 16 and iOS 26."
-        url: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+        snippet: "Second eSIM showing 'No Service'? Incoming calls go to voicemail? Covers call routing, VoLTE setup, battery drain and carrier lock checks. Works for iPhone 17, 16 and iOS 26."
+        url: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
       - q: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-        snippet: "The complete guide to iPhone 17 eSIM activation – global model distribution, iOS 19 features, Push-to-Install, Quick Transfer, QR scanning, and troubleshooting."
-        url: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+        snippet: "The complete guide to iPhone 17 eSIM activation – global model distribution, iOS 26 features, Push-to-Install, Quick Transfer, QR scanning, and troubleshooting."
+        url: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
   - name: "Device-Specific Activation"
     description: "Step-by-step activation guides for iPhone, Samsung Galaxy, Google Pixel and other eSIM‑compatible devices."
     icon: "smartphone"
@@ -242,14 +242,11 @@ categories:
       - q: "The Ultimate Guide to US eSIM in 2026: How to Choose the Best Plan?"
         expanded: true
         snippet: "Trip to the US in 2026? Choose the best eSIM plan with Roami – 5G on T-Mobile, AT&T and Verizon. Compare Airalo, Holafly and Roami for the best value."
-        url: "/faq/The-Ultimate-Guide-to-US-eSIM-in-2026-How-to-Choose-the-Best-Plan/"
+        url: "/faq/the-ultimate-guide-to-us-esim-in-2026-how-to-choose-the-best-plan/"
       - q: "How to Buy a UK eSIM (2026 Update)"
         snippet: "UK eSIM buying guide: compare data, prices, coverage on EE, Vodafone, O2 and Three. Buy online with Roami, activate in 2 minutes."
-        url: "/faq/How-to-Buy-a-UK-eSIM/"
-      - q: "2026 Best Network Solutions for US Travel (Best eSIM USA)"
-        snippet: "Unlimited data eSIM USA or the cheapest plan? 5G architecture, FUP truth, and how to avoid roaming traps. Complete guide with Airalo, Holafly and Roami comparison."
-        url: "/faq/2026-Best-eSIM-Options-for-the-USA/"
+        url: "/faq/how-to-buy-a-uk-esim/"
       - q: "2026 UK Travel Connectivity: eSIM vs Physical SIM Guide"
         snippet: "The hidden truth about UK eSIMs. Avoid Heathrow markups, understand EE/Vodafone/O2/Three coverage, and find the best connectivity for your UK trip with Roami."
-        url: "/faq/2026-UK-Travel-Connectivity-eSIM-vs-Physical-SIM-Guide/"
+        url: "/faq/2026-uk-travel-connectivity-esim-vs-physical-sim-guide/"
 ---

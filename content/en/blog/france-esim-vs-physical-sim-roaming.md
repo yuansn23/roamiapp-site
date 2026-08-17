@@ -2,8 +2,8 @@
 title: "France eSIM vs SIM vs Roaming: Which Saves More?"
 description: "Compare France eSIM vs physical SIM vs roaming costs. Roami shows how eSIM saves 60-85% over carrier roaming with Orange Holiday analysis and traveler tips."
 keywords: ["France eSIM vs physical SIM", "France eSIM vs roaming", "France eSIM cost savings", "Orange Holiday France eSIM", "France travel connectivity"]
-date: 2026-08-04T00:00:00Z
-lastmod: 2026-08-04T00:00:00Z
+date: 2026-08-16T00:00:00Z
+lastmod: 2026-08-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/france/france-esim-vs-physical-sim-roaming.jpg"
@@ -63,7 +63,7 @@ A France eSIM costs $12 for 5GB over 30 days. Cost comparison:
 - **Orange physical SIM at CDG:** $25 for 5GB
 - **Pocket WiFi rental:** $48-80/week
 
-Bottom line: A France eSIM saves US travelers 60-85% compared to carrier roaming. The France eSIM vs physical SIM vs roaming comparison comes down to one number: a France eSIM saves US travelers 60-85% compared to carrier roaming, costs half what a physical SIM at the airport costs, and eliminates the hassle of device rental or SIM swapping.
+Bottom line: a France eSIM typically saves US travelers 60-85% versus carrier roaming, costs about half what a physical SIM at the airport costs, and removes the hassle of device rental or SIM swapping.
 
 This guide breaks down every connectivity option for France travel — eSIM, physical SIM, international roaming, pocket WiFi, and the unique Orange Holiday SIM — with detailed cost scenarios for 3-day, 7-day, and 14-day trips. The goal is to give you the exact dollar figure for each option so you can decide which one fits your trip without guesswork.
 
@@ -178,11 +178,10 @@ T-Mobile customers with included 5GB high-speed data in their plan pay nothing e
 | France eSIM (Airalo 10GB) | $20.00 | 10GB, 30-day validity |
 | France eSIM (Ubigi 10GB) | $18.99 | 10GB, 30-day validity |
 | France eSIM (Holafly Unlimited 15d) | $40.00 | Unlimited, 15 days |
-| France eSIM (Orange Travel 20GB) | $40.00 | 20GB, 30-day, includes
+| France eSIM (Orange Travel 10GB) | $38.00 | 10GB, 21-day, includes French number |
+| Physical SIM (Orange Travel airport) | $38.00 | 10GB, 21-day, French number |
 
 For pricing across all providers, see our [France eSIM price guide](/blog/france-esim-price-purchase-guide/).
- French number |
-| Physical SIM (Orange Travel airport) | $40.00 | 20GB, 30-day, French number |
 | Pocket WiFi rental (14 days) | $96.00 | 4G hotspot |
 
 ### Winner: France eSIM at $19-$20.
@@ -365,9 +364,9 @@ To put these choices in perspective, here is what your total connectivity cost l
 
 ### Weekend in Paris (3 days, 2 nights)
 
-### Cheapest setup:** Ubigi 3GB eSIM at $7.99, keep home SIM active for WhatsApp and 2FA. Total: **$7.99
+**Cheapest setup:** Ubigi 3GB eSIM at $7.99, keep home SIM active for WhatsApp and 2FA. Total: **$7.99**
 
-### Most expensive setup:** Verizon TravelPass at $12/day for 3 days. Total: **$36.00
+**Most expensive setup:** Verizon TravelPass at $12/day for 3 days. Total: **$36.00**
 
 **Savings with eSIM:** $28.01 (78% less)
 
@@ -375,11 +374,11 @@ To put these choices in perspective, here is what your total connectivity cost l
 
 ### Classic France Trip (7 days, Paris + Nice + TGV)
 
-### Cheapest setup:** Airalo 5GB eSIM at $12.00, home SIM active for calls. Total: **$12.00
+**Cheapest setup:** Airalo 5GB eSIM at $12.00, home SIM active for calls. Total: **$12.00**
 
-### Mid-range setup:** Orange Travel 5GB eSIM with French number at $25.00, useful for SNCF and Navigo. Total: **$25.00
+**Mid-range setup:** Orange Travel 5GB eSIM with French number at $25.00, useful for SNCF and Navigo. Total: **$25.00**
 
-### Most expensive setup:** AT&T International Day Pass at $10/day for 7 days. Total: **$70.00
+**Most expensive setup:** AT&T International Day Pass at $10/day for 7 days. Total: **$70.00**
 
 **Savings with eSIM:** $58.00 (83% less compared to AT&T roaming)
 
@@ -387,11 +386,11 @@ To put these choices in perspective, here is what your total connectivity cost l
 
 ### Two-Week Family Trip (14 days, Paris + Riviera + Disneyland)
 
-### Cheapest setup:** One 20GB France eSIM for the primary adult (hotspot to children's devices) at $35.00. Total: **$35.00
+**Cheapest setup:** One 20GB France eSIM for the primary adult (hotspot to children's devices) at $35.00. Total: **$35.00**
 
-### Mid-range setup:** Separate eSIMs for each adult (two 10GB plans at $20 each) plus pocket WiFi for kids at $96. Total: **$136.00
+**Mid-range setup:** Separate eSIMs for each adult (two 10GB plans at $20 each) plus pocket WiFi for kids at $96. Total: **$136.00**
 
-### Most expensive setup:** Verizon TravelPass for two adults at $12/day/person for 14 days. Total: **$336.00
+**Most expensive setup:** Verizon TravelPass for two adults at $12/day/person for 14 days. Total: **$336.00**
 
 **Savings with eSIM:** $301.00 (90% less compared to Verizon roaming for two lines)
 
@@ -451,7 +450,7 @@ US travelers face specific considerations that make the France eSIM vs physical 
 
 **iPhone 14 and later US models have no physical SIM tray.** If you bought an iPhone 14, 15, 16, or 17 in the United States, your phone is eSIM-only. A physical French SIM card is not an option. You must use either a France eSIM or international roaming. (See [Apple's eSIM support page](https://support.apple.com/en-us/105112) for full compatibility details.)
 
-**Carrier-locked phones:** US phones purchased from AT&T, Verizon, or T-Mobile may be locked to that carrier for a period (typically 60 days for Verizon, 60 days for AT&T after device payment, 40 days for T-Mobile). A locked phone can only use eSIMs from its home carrier. If you have a locked phone, you will need to request an unlock before travel or use your carrier's international roaming.
+**Carrier-locked phones:** a phone locked to AT&T, Verizon, or T-Mobile can't use a third-party eSIM until you request an unlock. For unlock timelines and the full compatibility list, see our [France eSIM setup guide](/blog/france-esim-setup-dual-sim-number/).
 
 **Dual SIM with US number:** US travelers benefit from keeping their home eSIM active for 2FA codes, bank alerts, and WhatsApp calls. A France eSIM as the secondary data line is the ideal setup for US travelers.
 
@@ -492,7 +491,7 @@ Selecting the right data amount is one of the most common questions travelers fa
 - 7 days: 2-4GB
 - 14 days: 4-7GB
 
-**Best option:** Ubigi 3GB at $7.99 for a short trip, Airalo 5GB at $12 for a week. A [france esim](/france-esim/) with 3-5GB is sufficient and costs under $12.
+**Best option:** Ubigi 3GB at $7.99 for a short trip, Airalo 5GB at $12 for a week. A [France eSIM](/france-esim/) with 3-5GB is sufficient and costs under $12.
 
 **Typical daily usage breakdown:** 10 minutes Google Maps (50MB), 20 minutes social media (60MB), 50 WhatsApp messages (30MB), 15 minutes web browsing (30MB), email syncing (20MB).
 
@@ -536,7 +535,7 @@ Selecting the right data amount is one of the most common questions travelers fa
 
 If you are unsure which category you fall into, check your phone's data usage from a typical day at home. Settings > Cellular (iPhone) or Settings > Connections > Data Usage (Android) shows your average daily consumption. Multiply by 1.5 for France travel — you will likely use more data for maps and navigation than you do at home.
 
-Once you know your estimated usage, add 20% buffer. It is better to have leftover data than to run out mid-trip. Most eSIM providers allow top-ups, but the process takes a few minutes and requires an internet connection. If you are traveling with a group, consider hotspot sharing from a single [france esim](/france-esim/) with generous data allowance, as most providers allow tethering at full speed.
+Once you know your estimated usage, add 20% buffer. It is better to have leftover data than to run out mid-trip. Most eSIM providers allow top-ups, but the process takes a few minutes and requires an internet connection. If you are traveling with a group, consider hotspot sharing from a single [France eSIM](/france-esim/) with generous data allowance, as most providers allow tethering at full speed.
 
 ### France eSIM vs Physical SIM for Families and Groups
 
@@ -593,7 +592,7 @@ Every connectivity option involves tradeoffs. Here is what you lose with each ap
 | Business trip, employer pays | Carrier roaming (simplest) | France eSIM (cheapest) | Physical SIM |
 | Budget travel, absolutely lowest cost | France eSIM (Ubigi $3.99/GB or Airalo $4.50/GB) | Free Mobile physical SIM ($10) | Carrier roaming |
 | Light data user (<2GB for the trip) | France eSIM ($4-$8) | T-Mobile included 256kbps (free) | AT&T/Verizon roaming ($30-36 for 3 days) |
-| Heavy data user (>10GB) | France eSIM (Airalo 20GB $35 or Holafly Unlimited) | A [france esim](/france-esim/) with multi-network switching for best coverage | Carrier roaming (capped and expensive) |
+| Heavy data user (>10GB) | France eSIM (Airalo 20GB $35 or Holafly Unlimited) | A [France eSIM](/france-esim/) with multi-network switching for best coverage | Carrier roaming (capped and expensive) |
 | Multi-country Europe trip | Europe regional eSIM | France eSIM + separate SIMs | Per-country physical SIMs |
 | Phone is carrier-locked | Carrier roaming | Physical SIM (if compatible) | France eSIM (won't work) |
 | Multi-region trip (Paris + Riviera + Normandy) | Multi-network eSIM like Roami | Orange Travel (single network) | Single-network eSIM |

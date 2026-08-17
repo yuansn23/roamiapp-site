@@ -1074,7 +1074,7 @@ countries:
     btn_details_text: "Details zu Türkei eSIM-Anbietern"
     btn_details_url: "/carriers/turkiye-esim-carrier-guide/"
     btn_buy_text: "Türkei eSIM kaufen"
-    btn_buy_url: "/turkiye-esim/"
+    btn_buy_url: "/turkey-esim/"
     Carriers:
       - name: "Turkcell"
         color: "text-blue-600"

@@ -2,8 +2,8 @@
 title: "France eSIM Setup: Dual SIM and Phone Number Guide"
 description: "Complete France eSIM setup guide for 2026. Install and activate a France eSIM on iPhone and Android, configure dual SIM, and understand French number options."
 keywords: ["France eSIM setup", "France eSIM installation", "France eSIM iPhone", "France eSIM dual SIM", "France eSIM phone number", "France eSIM activation", "Orange eSIM setup", "eSIM installation guide"]
-date: 2026-08-04T00:00:00Z
-lastmod: 2026-08-04T00:00:00Z
+date: 2026-08-16T00:00:00Z
+lastmod: 2026-08-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/france/france-esim-setup-dual-sim-number.jpg"
@@ -394,7 +394,7 @@ When your home SIM is set as the default voice line:
 - **Incoming calls** arrive on the line they were placed to. Both lines ring independently.
 - **Voicemail** is handled per line. Your home number voicemail remains unchanged.
 
-A [france esim](/france-esim/) configured as the data line with your home SIM handling calls is the optimal setup for most travelers. It keeps your regular number active for banking verification codes, two-factor authentication, and family calls while all internet traffic routes through the French network.
+A [France eSIM](/france-esim/) configured as the data line with your home SIM handling calls is the optimal setup for most travelers. It keeps your regular number active for banking verification codes, two-factor authentication, and family calls while all internet traffic routes through the French network.
 
 ---
 
@@ -445,7 +445,7 @@ The following table lists the APN values for each French carrier. These are netw
 |---------|-----|----------|----------|-------|
 | Orange (network) | orange | (blank) | (blank) | Standard Orange network APN |
 | Orange Travel | orange.ovh | orange | (blank) | Orange Travel eSIM specific |
-| SFR | sfr | (blank) | (blank) | Works on SFR and SFR-wholesale |
+| SFR | sl2sfr | (blank) | (blank) | Works on SFR and SFR-wholesale |
 | Bouygues | bouyguestelecom | (blank) | (blank) | Not "bgtel" — use full name |
 | Free | free | (blank) | (blank) | Simple, one-word APN |
 
@@ -455,7 +455,7 @@ If you are using a travel eSIM provider, use the provider's APN rather than the 
 
 | Provider | APN | Username | Password |
 |----------|-----|----------|----------|
-| Airalo | airalofo | (blank) | (blank) |
+| Airalo | globaldata | (blank) | (blank) |
 | Holafly | hola | (blank) | (blank) |
 | Ubigi | ubigi | (blank) | (blank) |
 | Nomad | nomad | (blank) | (blank) |
@@ -505,10 +505,9 @@ Orange Travel is the only eSIM product from a French carrier that includes a gen
 
 | Plan | Data | Validity | French Number | Price |
 |------|------|----------|---------------|-------|
-| Travel 7GB | 7GB | 7 days | Yes | €19.99 |
-| Travel 15GB | 15GB | 14 days | Yes | €34.99 |
-| Travel 25GB | 25GB | 21 days | Yes | €49.99 |
-| Travel 35GB | 35GB | 28 days | Yes | €59.99 |
+| Travel 5GB | 5GB | 14 days | Yes | €25 |
+| Travel 10GB | 10GB | 21 days | Yes | €35 |
+| Travel 25GB | 25GB | 30 days | Yes | €50 |
 
 Each plan includes unlimited calls and SMS within France and to EU countries, plus roaming data within the EU.
 
@@ -1097,7 +1096,7 @@ Most travelers do not need a French phone number. Data-only eSIMs work with What
 Yes, if you installed the eSIM before departure. When your plane lands in France, turn on the eSIM and enable data roaming. The eSIM connects to a French network (Orange, SFR, Bouygues, or Free) within 30-60 seconds. Your **France eSIM activation** completes automatically upon first network connection.
 
 ### What APN settings do I need for my France eSIM?
-Most eSIMs configure APN settings automatically. If you need manual entry, use the provider's APN (e.g., "airalo" for Airalo, "hola" for Holafly, "ubigi" for Ubigi). For Orange network eSIMs, use "orange" as the APN. Orange Travel eSIMs use "orange.ovh" with username "orange."
+Most eSIMs configure APN settings automatically. If you need manual entry, use the provider's APN (e.g., "globaldata" for Airalo, "hola" for Holafly, "ubigi" for Ubigi). For Orange network eSIMs, use "orange" as the APN. Orange Travel eSIMs use "orange.ovh" with username "orange."
 
 ### Why is my France eSIM not connecting?
 If your **France eSIM not connecting**, check that data roaming is enabled for the eSIM, APN settings are correct, and you are in a coverage area. Try toggling Airplane Mode on and off, or manually select Orange or another network in Network Selection. Restart your phone if the issue persists.

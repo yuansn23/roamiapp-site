@@ -1,9 +1,9 @@
 ---
-title: "France eSIM Guide: Plans, Networks & Coverage​"
+title: "France eSIM Prices: Cheapest Plans & How to Buy"
 description: "France eSIM guide covers cheapest plans from $3, 7-day tourist pricing, 30-day costs, unlimited 5G. Roami promo codes and free trial included for savings."
 keywords: ["France eSIM price", "cheapest France eSIM", "France eSIM 5G plans", "France eSIM promo code", "France eSIM cost per GB"]
-date: 2026-08-04T00:00:00Z
-lastmod: 2026-08-04T00:00:00Z
+date: 2026-08-16T00:00:00Z
+lastmod: 2026-08-16T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/france/france-esim-price-purchase-guide.jpg"
@@ -148,7 +148,7 @@ For heavy data users, remote workers, or travelers spending 2+ weeks in France, 
 
 ### Cheapest 50GB+ France eSIM
 
-**Ubigi at $45** for 50GB over 30 days is the cheapest large-data plan. Nomad offers 50GB at $55. Multi-network plans with Roami offers automatic carrier switching are also available in this range.
+**Ubigi at $45** for 50GB over 30 days is the cheapest large-data plan. Nomad offers 50GB at $55. Multi-network plans with automatic carrier switching are also available in this range.
 
 For long stays of 3-4 weeks with heavy data usage, 50GB at $45 from Ubigi delivers the best price per GB at under $0.90 per GB.
 
@@ -241,7 +241,7 @@ US carrier roaming is convenient. Your phone works exactly as it does at home. N
 
 According to [AT&T's international roaming page](https://www.att.com/travel/), their Travel Pass covers unlimited talk and text with 5GB of high-speed data per month pass. T-Mobile's [International Roaming](https://www.t-mobile.com/travel) offers comparable rates for their high-speed data passes.
 
-For the best [france esim](/france-esim/) for US travelers, prioritize providers with USD pricing, immediate email delivery, and network partnerships with Orange or Bouygues for reliable coverage.
+For the best [France eSIM](/france-esim/) for US travelers, prioritize providers with USD pricing, immediate email delivery, and network partnerships with Orange or Bouygues for reliable coverage.
 
 ### UK Carrier Roaming vs France eSIM
 
@@ -337,7 +337,7 @@ For long-stay visitors who need a French phone number and the ability to recharg
 
 According to [ARCEP's mobile market report](https://www.arcep.fr/en/), the French telecom regulator, mobile data usage in France averages approximately 12GB per month per subscriber as of 2026, making 10-20GB plans the appropriate choice for most long-stay visitors.
 
-For a detailed breakdown of which plan suits different trip lengths and travel styles, see our [France eSIM vs physical SIM comparison](/blog/france-esim-vs-physical-sim-roaming/). For travelers who want automatic carrier switching across all four French networks, a [france esim](/france-esim/) with multi-network support provides the best coverage flexibility.
+For a detailed breakdown of which plan suits different trip lengths and travel styles, see our [France eSIM vs physical SIM comparison](/blog/france-esim-vs-physical-sim-roaming/). For travelers who want automatic carrier switching across all four French networks, a [France eSIM](/france-esim/) with multi-network support provides the best coverage flexibility.
 
 ---
 
@@ -385,13 +385,13 @@ All major France eSIM providers support 5G, but the speed tiers and pricing vary
 | Orange Travel | Yes (Orange 5G) | 10 euro ($11) for 1GB | Orange network priority, full 5G speeds |
 | Multi-network eSIM | Yes | $3.50 (1GB) | Automatic switching across carriers |
 
-Orange's 5G network covers approximately 90% of the French population as of 2026. Bouygues covers approximately 85%. Both provide 5G in all major cities including Paris, Lyon, Marseille, Toulouse, Nice, Bordeaux, and Lille. France's mobile market is served by four major operators — Orange, SFR, Bouygues Telecom, and Free Mobile — making it one of Europe's most competitive telecom markets ([Wikipedia: Telecommunications in France](https://en.wikipedia.org/wiki/Telecommunications_in_France)).
+Orange's 5G network reaches roughly 90% of the French population, with Bouygues close behind at ~85%. For a carrier-by-carrier look at 5G coverage, speeds, and which network wins in each region, see our [France network comparison guide](/blog/france-esim-network-comparison/).
 
 For travelers who specifically need 5G speeds, any provider on the Orange network (Airalo, Saily, Nomad) or Bouygues network (Ubigi) delivers 5G on compatible devices. The cheapest 5G-compatible France eSIM is Ubigi's 1GB at $3.
 
 For the cheapest unlimited 5G eSIM in France, Holafly at $20 for 7 days offers unlimited 5G data on Bouygues and SFR networks. The hotspot cap (500MB/day) is the main constraint.
 
-According to [Ookla's Speedtest Global Index](https://www.speedtest.net/global-index/france), Orange ranks as France's fastest mobile network with median 5G download speeds of approximately 250 Mbps, followed by Bouygues at 220 Mbps.
+For a speed comparison of France's four networks (Orange leads at roughly 250 Mbps median 5G), see our [France network comparison guide](/blog/france-esim-network-comparison/).
 
 ---
 
@@ -763,7 +763,7 @@ For a complete comparison of network quality and coverage across all providers, 
 
 Ubigi is the price leader across most data tiers, with Airalo offering the best value on the Orange network for travelers who prioritize coverage breadth. For automatic carrier switching across all four French networks, Roami offers competitive pricing. For French number needs, Orange Travel is the only eSIM option.
 
-The bottom line: any France eSIM costs 70-90% less than US carrier roaming. Even the most expensive eSIM option (Orange Travel at 25 euro for 5GB) saves approximately 60% compared to a week of AT&T roaming at $70. There is no scenario where carrier roaming is cheaper than a [france esim](/france-esim/) for France trips.
+The bottom line: any France eSIM costs 70-90% less than US carrier roaming. Even the most expensive eSIM option (Orange Travel at 25 euro for 5GB) saves approximately 60% compared to a week of AT&T roaming at $70. There is no scenario where carrier roaming is cheaper than a [France eSIM](/france-esim/) for France trips.
 
 For additional guidance on choosing the right France eSIM, see our [France eSIM complete guide](/blog/france-esim-complete-guide/).
 

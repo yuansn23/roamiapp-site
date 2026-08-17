@@ -2,19 +2,19 @@
 title: "UK eSIM 2026: How to Buy Best Plans & Activate"
 h1_title: "How to Buy the Best UK eSIM Plans and Activate Them in 2026"
 description: "Looking to buy a UK eSIM for travel or work? Compare best plans for data, price, and coverage. Learn to buy online instantly and activate on iPhone/Android."
-keywords: ["UK eSIM", "buy eSIM online UK eSIM", "travel eSIM UK", "EE eSIM", "O2 eSIM", "Vodafone eSIM", "Three eSIM", "best UK eSIM", "cheapest UK eSIM", "eSIM compatible phones UK", "UK eSIM for tourists", "UK eSIM pay as you go", "UK eSIM with phone number", "eSIM activation", "eSIM troubleshooting", "APN settings UK"]
+keywords: ["UK eSIM", "buy eSIM online UK", "travel eSIM UK", "best UK eSIM", "UK eSIM for tourists", "UK eSIM pay as you go", "EE eSIM", "O2 eSIM", "Vodafone eSIM", "UK eSIM with phone number"]
 date: 2026-06-23T10:00:00Z
 lastmod: 2026-06-23T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
 image: "/images/esim-activation-guide.jpg"
 
-# 站点 & SEO 基础硬编码配置
+# Site & SEO
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
 
-# UI 文本翻译/硬编码配置 (支持多语言化)
+# UI text translations
 ui_text:
   updated_on: "Updated on"
   min_read: "min read"
@@ -28,7 +28,7 @@ breadcrumbs:
     text: "Help Center"
     url: "/faq/"
 
-# 右侧：热门 eSIM 配置 (6个国家，1.99美金)
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "Popular eSIMs"
   item_suffix: "eSIM"
@@ -64,7 +64,7 @@ sidebar_popular:
       url: "/china-esim/"
       badge: "5G"
 
-# 右侧：免费 eSIM 配置 (4个国家)
+# Sidebar: Free eSIM offers
 sidebar_free:
   title: "Claim Free eSIM"
   icon: "🎁"
@@ -84,14 +84,14 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# 右侧：热门问题配置 (5个问题)
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Popular Questions"
   items:
     - question: "What is eSIM activation and how does it work?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "How to activate an eSIM?"
-      url: "/faq/how-to-activate-an-esim//"
+      url: "/faq/how-to-activate-an-esim/"
     - question: "How to activate eSIM on iPhone (All Models)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Latest eSIM Compatibility List"
@@ -107,7 +107,7 @@ The fastest and most reliable way to buy a [UK eSIM](/united-kingdom-esim/) come
 2. **Choose Your Plan**: For short trips or multi-country Euro tours (1-30 days), buy a **travel eSIM UK** directly—no ID required, ready instantly. For long-term residency (1 month+), opt for a local **UK eSIM pay as you go** plan from EE or Lebara.
 3. **Scan & Go**: Scan the QR code from your email before your flight. Turn on **Data Roaming** when you land at Heathrow, and you're connected.
 
-The technology behind eSIM is governed by the [GSMA standard SGP.22](https://www.gsma.com/esim/), ensuring global interoperability across devices and carriers. The [official Apple support page for eSIM](https://support.apple.com/en-us/108072) provides detailed information on compatible iPhone models. If you're new to eSIM technology, our [What is eSIM? guide](/faq/What-Is-eSIM/) covers the basics.
+The technology behind eSIM is governed by the [GSMA standard SGP.22](https://www.gsma.com/esim/), ensuring global interoperability across devices and carriers. The [official Apple support page for eSIM](https://support.apple.com/en-us/108072) provides detailed information on compatible iPhone models. If you're new to eSIM technology, our [What is eSIM? guide](/faq/what-is-esim/) covers the basics.
 
 ![Simple infographic showing the core steps: Check Compatibility -> Buy Travel eSIM Online -> Scan to Install -> Activate upon Landing](/img/uk-esim/1.jpg)
 
@@ -150,7 +150,7 @@ Before buying any UK eSIM, verify your device is compatible. This saves you from
 | Pixel 3, 3a and newer | ✅ Yes | Most regions |
 | Pixel 4a (Japan carrier) | ❌ No | Carrier locked |
 
-The [Google Support – eSIM on Pixel](https://support.google.com/pixel/answer/9912709) page provides additional details for Pixel users. For a complete list of all eSIM‑compatible devices, see our **[full compatibility list](/compatibility/)**.
+The [Google Support – eSIM on Pixel](https://support.google.com/pixelphone/answer/7086887) page provides additional details for Pixel users. For a complete list of all eSIM‑compatible devices, see our **[full compatibility list](/compatibility/)**.
 
 
 ## Travel eSIM vs Local UK eSIM – Which Should You Buy?
@@ -254,7 +254,7 @@ Many American and international tourists visit the UK as part of a larger Europe
 
 ## UK eSIM Installation Guide – Activate in 3 Steps
 
-Installing an eSIM is now as easy as adding a boarding pass to your digital wallet. You no longer need to mess with tiny SIM ejector tools. For a complete walkthrough on iPhones, see our **[iPhone 17 eSIM Complete Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**.
+Installing an eSIM is now as easy as adding a boarding pass to your digital wallet. You no longer need to mess with tiny SIM ejector tools. For a complete walkthrough on iPhones, see our **[iPhone 17 eSIM Complete Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)**.
 
 1. **Purchase & Receive:** Buy your **UK eSIM** online and receive a QR code via email.
 2. **Scan to Install:** While connected to Wi-Fi (ideally before your flight), go to your phone's **Settings > Cellular (or Mobile Data) > Add eSIM**, and scan the QR code.
@@ -307,14 +307,14 @@ If after **eSIM activation** no data network is available, APN settings may need
 
 | Provider | APN | Username | Password |
 |----------|-----|----------|----------|
-| **Roami** | roami | (blank) | (blank) |
-| **Airalo** | airalo | (blank) | (blank) |
+| **Roami** | internet | (blank) | (blank) |
+| **Airalo** | globaldata | (blank) | (blank) |
 | **EE** | everywhere | (blank) | (blank) |
 | **O2** | mobile.o2.co.uk | web | web |
 | **Vodafone** | internet | (blank) | (blank) |
 | **Three** | three.co.uk | (blank) | (blank) |
 
-For more advanced troubleshooting, see our **[eSIM Deep Troubleshooting Guide 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** and **[Dual eSIM Not Working? 12 Fixes for iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+For more advanced troubleshooting, see our **[eSIM Deep Troubleshooting Guide 2026](/faq/esim-deep-troubleshooting-guide-2026/)** and **[Dual eSIM Not Working? 12 Fixes for iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
 
 ## How to Avoid UK eSIM Buyer Traps – Hidden Fees and Fake Unlimited Plans
@@ -366,7 +366,7 @@ Pure travel eSIMs are "Data-only" and **do not include** a phone number. However
 You can easily top up online. Simply log into the website or app where you purchased the eSIM, buy an add-on package, and the data will be credited automatically—no need to scan a new QR code.
 
 **Can I transfer my UK eSIM to a new phone?**
-Most travel eSIMs are one-time install and cannot be transferred. For postpaid carrier eSIMs (EE, Vodafone, etc.), contact your carrier. For detailed steps on transferring eSIMs between devices, see our **[eSIM Cross-Platform Transfer 2026 guide](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+Most travel eSIMs are one-time install and cannot be transferred. For postpaid carrier eSIMs (EE, Vodafone, etc.), contact your carrier. For detailed steps on transferring eSIMs between devices, see our **[eSIM Cross-Platform Transfer 2026 guide](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 **Why is my eSIM showing "No Service" after landing in the UK?**
 Most commonly, Data Roaming is not turned ON, or the phone is still using your home SIM for data. Double-check both settings. Also, ensure your phone is set to automatically select the network.
@@ -388,3 +388,9 @@ If you're still unsure about compatibility or want to test before buying, try a 
 ---
 
 *Based on Apple official documentation, GSMA standards, and carrier information. Updated: June 2026.*
+## Sources
+
+- [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
+- [Apple Support — eSIM on iPhone](https://support.apple.com/en-us/108072)
+- [Google Support — Set up an eSIM](https://support.google.com/pixelphone/answer/14853135)
+- [Google Support — Android eSIM](https://support.google.com/android/answer/11241215)
