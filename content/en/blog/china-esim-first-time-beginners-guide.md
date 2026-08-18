@@ -56,13 +56,13 @@ recentPosts:
     permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
     date: "2026-05-20"
 ---
-If this is your first time using an eSIM for China, don't worry -- the process is simpler than it sounds. This beginner's guide walks you through everything from compatibility to setup, with no prior knowledge assumed. An eSIM is a programmable chip inside your phone that connects to mobile networks without a physical SIM card. For China travel, an international eSIM with Hong Kong routing provides data access that bypasses the Great Firewall -- Google, WhatsApp, and Instagram work normally. This beginner's guide covers phone compatibility, step-by-step setup, common mistakes, free trials, and customer support contacts for first-time eSIM users.
+If this is your first time using an eSIM for China, don't worry — the process is simpler than it sounds. This beginner's guide walks you through everything from compatibility to setup, with no prior knowledge assumed. An eSIM is a programmable chip inside your phone that connects to mobile networks without a physical SIM card. For China travel, an international eSIM with Hong Kong routing provides data access that bypasses the Great Firewall — Google, WhatsApp, and Instagram work normally. This beginner's guide covers phone compatibility, step-by-step setup, common mistakes, free trials, and customer support contacts for first-time eSIM users.
 
 ---
 
 ## What is an eSIM? A Simple Explanation for Complete Beginners
 
-Let's start with the basic concepts travelers need before buying a China eSIM. An eSIM stands for **embedded SIM**. It is a tiny programmable chip soldered inside your phone that does exactly what a physical SIM card does — it connects your phone to a mobile network — but without the plastic card.
+Here are the basic concepts travelers need before buying an eSIM for China. An eSIM stands for **embedded SIM**. It is a tiny programmable chip soldered inside your phone that does exactly what a physical SIM card does — it connects your phone to a mobile network — but without the plastic card.
 
 **Physical SIM vs eSIM Analogy**
 Think of a physical SIM card like a hotel key card. You walk in, they hand you the card, you insert it into your phone, and now your phone is "registered" with that hotel's network. If you want to switch to a different hotel, you need to go back, return the card, and get a new one.
@@ -74,11 +74,11 @@ The "e" in eSIM does not stand for "electronic" — it stands for "embedded," be
 **Why This Matters for China Travel**
 A China eSIM is particularly useful because of how internet access works in the country. China's Great Firewall blocks Google, Gmail, WhatsApp, Instagram, Facebook, YouTube, and hundreds of other sites and services. If you buy a local physical SIM card from China Mobile or China Unicom at the airport, your data goes through Chinese servers, and those sites remain blocked.
 
-Many international travel eSIMs for China work differently. They connect to a Chinese carrier's network on the backend, but they route your internet traffic through servers outside China — typically Hong Kong or Singapore. This means the Great Firewall never touches your data. You land in Shanghai, turn on your eSIM, and Google Maps, WhatsApp, and Instagram work exactly as they do at home. A [china eSIM](/china-esim/) with automatic carrier switching ensures you connect to the strongest available network — China Mobile, Unicom, or Telecom — as you move through different areas, maintaining reliable speeds for all these apps.
+Many international travel eSIMs for China work differently. They connect to a Chinese carrier's network on the backend, but they route your internet traffic through servers outside China — typically Hong Kong or Singapore. This means the Great Firewall never touches your data. You land in Shanghai, turn on your eSIM, and Google Maps, WhatsApp, and Instagram work exactly as they do at home. A [China eSIM](/china-esim/) with automatic carrier switching ensures you connect to the strongest available network — China Mobile, Unicom, or Telecom — as you move through different areas, maintaining reliable speeds for all these apps.
 
 This is the main reason travelers choose eSIM over local physical SIM cards. It is not just about convenience — it is about actually being able to use the apps you rely on.
 
-[GSMA](https://www.gsma.com), the global trade body that standardized eSIM technology, reports that eSIM adoption in Asia-Pacific grew over 340% between 2023 and 2026. China travel eSIMs specifically have seen explosive growth as more travelers discover they can bypass the firewall without configuring a separate VPN.
+[GSMA](https://www.gsma.com), the global trade body that standardized eSIM technology, tracks eSIM adoption across Asia-Pacific, where growth has been strong. China travel eSIMs specifically have seen explosive growth as more travelers discover they can bypass the firewall without configuring a separate VPN.
 
 **How eSIM Technology Actually Works**
 Here is a slightly more technical explanation without getting too deep.
@@ -105,7 +105,7 @@ A few honest limitations before you get excited:
 
 - **Most China eSIMs are data-only.** You get mobile data, but you can't make voice calls or send SMS through the eSIM number. Your regular home SIM card still handles calls and texts.
 - **You can't receive SMS verification codes** on a data-only eSIM. This matters for banking apps and two-factor authentication. The workaround is to keep your home SIM active in a dual-SIM setup so it receives SMS while the eSIM provides data.
-- **Some phones are not compatible.** We cover this in the next section.
+- **Some phones are not compatible.** This is covered in the next section.
 
 ---
 
@@ -183,7 +183,7 @@ To check if your phone is unlocked: try inserting a SIM card from a different ca
 
 ---
 
-## How Do I Set Up a China eSIM? First-Time Checklist from Zero
+## How Do I Set Up an eSIM for China? First-Time Checklist from Zero
 
 This section walks you through everything from buying to connecting. Learning **how to use eSIM in China** starts with installing the profile before your flight. Follow these steps in order and you'll have a working China eSIM before you board the plane.
 
@@ -197,11 +197,11 @@ The major China eSIM providers for travelers in 2026 are:
 - **Ubigi** — Reliable coverage on China Telecom's network. Good pricing on smaller data tiers.
 - **Saily** — Built on NordVPN infrastructure. Built-in VPN included.
 
-**Our pick for first-timers:** Roami, because it handles the two things beginners struggle with most — automatic carrier switching (you never touch network settings) and 24/7 live human support (you get a real person, not a chatbot, when something goes wrong). The free trial also means you can test everything before committing a cent, which matters when you've never used an eSIM before. Saily is our runner-up for the VPN crowd — the NordVPN backbone means Google and WhatsApp work out of the box with zero configuration.
+**Best for first-timers:** Roami, because it handles the two things beginners struggle with most — automatic carrier switching (you never touch network settings) and 24/7 live human support (you get a real person, not a chatbot, when something goes wrong). The free trial also means you can test everything before committing a cent, which matters when you've never used an eSIM before. Saily is the runner-up for the VPN crowd — the NordVPN backbone means Google and WhatsApp work out of the box with zero configuration.
 
 If you want the simplest possible experience as a first-time user, look for a provider that offers **automatic carrier switching** (so you don't need to manually choose a network after landing) and **24/7 live support** (so someone can help if you get stuck). Roami is one example that handles both — the app automatically switches between China Mobile, China Unicom, and China Telecom based on signal strength, and you can reach a live human via in-app chat at any hour.
 
-Our [China eSIM provider ranking and comparison guide](/blog/china-esim-provider-ranking-comparison/) breaks down every option in detail, including speed tests and real user reviews for each provider.
+The [China eSIM provider ranking and comparison guide](/blog/china-esim-provider-ranking-comparison/) breaks down every option in detail, including speed tests and real user reviews for each provider.
 
 **Step 2: Buy Your eSIM Plan (Before You Travel)**
 Buy your eSIM **before** you leave for China. Here is why:
@@ -276,7 +276,7 @@ If you need to set APN manually:
 **Samsung:** Settings → Connections → Mobile networks → Access Point Names → tap **+** and enter the APN
 
 **Google Pixel:** Settings → Network & internet → SIMs → your China eSIM → Access Point Names → tap **+**
-If your provider uses automatic carrier switching, you can skip this step entirely. a China eSIM is one example that handles APN configuration automatically on most devices.
+If your provider uses automatic carrier switching, you can skip this step entirely. Roami is one example that handles APN configuration automatically on most devices.
 
 **Step 6: Test Before You Depart**
 After installation, your eSIM should show a signal indicator. If you are still in your home country, the eSIM may show "No Service" because it only connects to Chinese networks. This is normal.
@@ -306,13 +306,13 @@ When your plane lands in China:
 
 **Important:** When you first land, your phone might connect to a very weak signal because the network is still detecting your location. Within 2-3 minutes, it typically stabilizes on the strongest available tower.
 
-If nothing works after 5 minutes, our [China eSIM troubleshooting guide](/blog/china-esim-troubleshooting-fix-guide/) covers every possible problem and solution.
+If nothing works after 5 minutes, the [China eSIM troubleshooting guide](/blog/china-esim-troubleshooting-fix-guide/) covers every possible problem and solution.
 
 ---
 
 ## What Mistakes Do Beginners Make with China eSIM? (And How to Avoid Them)
 
-After reading through hundreds of Reddit threads and support tickets, these are the most common mistakes first-time China eSIM users make.
+These are the most common mistakes first-time China eSIM users make.
 
 **Mistake 1: Buying After Arrival**
 The biggest mistake. You land at Beijing Capital International Airport, pull out your phone, and try to buy and download an eSIM. But you need internet access to download the profile, and you don't have internet access because that is what you are trying to fix. Some airports offer free WiFi, but connecting often requires an SMS verification code — which you can't receive on a data-only eSIM.
@@ -320,7 +320,7 @@ The biggest mistake. You land at Beijing Capital International Airport, pull out
 **How to avoid:** Buy and install your eSIM before you leave home. The profile downloads over your home WiFi. It activates automatically when it detects a Chinese network.
 
 **Mistake 2: Not Enabling Data Roaming**
-This is the single most common reason a China eSIM doesn't work after landing. Data roaming is disabled by default on most phones. Your eSIM needs it enabled to connect to a foreign network.
+This is the single most common reason an eSIM for China doesn't work after landing. Data roaming is disabled by default on most phones. Your eSIM needs it enabled to connect to a foreign network.
 
 **How to avoid:** Before you depart, go into your eSIM settings and toggle Data Roaming ON. Write it on a sticky note if you have to.
 
@@ -352,7 +352,7 @@ When using dual SIM (your home SIM + China eSIM), some phones get confused about
 **Mistake 8: Assuming All eSIMs Bypass the Firewall**
 Not all China eSIMs work the same way. Some route traffic through international gateways (bypassing the firewall automatically). Others connect directly to Chinese networks and require you to use a separate VPN.
 
-**How to avoid:** Before buying, check whether the eSIM includes built-in firewall bypass. Providers like Holafly, Saily, and a China eSIM route their traffic internationally, so Google and WhatsApp work out of the box. Cheaper eSIMs may connect directly to Chinese carriers, meaning you still need a VPN.
+**How to avoid:** Before buying, check whether the eSIM includes built-in firewall bypass. Providers like Holafly, Saily, and Roami route their traffic internationally, so Google and WhatsApp work out of the box. Cheaper eSIMs may connect directly to Chinese carriers, meaning you still need a VPN.
 
 **Mistake 9: Carrier-Locked Phone**
 Travelers from the US are most affected by this. A phone locked to Verizon, AT&T, or T-Mobile will reject any non-approved eSIM.
@@ -364,36 +364,36 @@ Some users accidentally delete their eSIM profile while cleaning up their SIM li
 
 **How to avoid:** Do not delete your eSIM profile until your trip is over. If you need to remove it, read the "Can you delete and reinstall" section below first.
 
-### What We'd Do Differently (After Watching Beginners Make These Mistakes)
+### The One Change That Prevents Most Headaches
 
-Having seen hundreds of first-timers go through this process, here's the single change that would prevent most headaches: **buy and install your eSIM at least 3 days before departure, not the night before.** The extra 48 hours gives you time to catch a carrier-locked phone, an incompatible Chinese iPhone, or a QR code delivery delay — all things that are trivial to fix from home and borderline impossible to fix after you've landed. We'd also tell every beginner to screenshot their QR code and save it to their photo library immediately. There's no downside to having a backup, and if you accidentally delete your eSIM profile mid-trip, that screenshot is the difference between a 30-second fix and a multi-hour support ordeal.
+The single change that prevents most beginner mistakes: **buy and install your eSIM at least 3 days before departure, not the night before.** The extra 48 hours gives you time to catch a carrier-locked phone, an incompatible Chinese iPhone, or a QR code delivery delay — all things that are trivial to fix from home and borderline impossible to fix after you've landed. It also pays to screenshot the QR code and save it to your photo library immediately. There's no downside to having a backup, and if you accidentally delete your eSIM profile mid-trip, that screenshot is the difference between a 30-second fix and a multi-hour support ordeal.
 
 ---
 
-## What Do Reddit Users Say About China eSIM? Community Tips
+## Community-Proven Tips for First-Time Users
 
-Reddit communities like r/ChinaTravel, r/eSIM, r/travelchina, and r/China have extensive discussions about China eSIM experiences. Here are the most consistent tips that come up across hundreds of threads.
+These are the tips that come up consistently in traveler communities and support channels.
 
 | Tip | Key Details |
 |-----|-------------|
-| **"Buy before you fly"** | Users who installed before departure report smooth experiences; those who bought after arrival struggle with airport WiFi requiring SMS verification and slow connections. Multiple users shared stories of being stuck in arrival halls unable to call a Didi. |
-| **APN settings fix most issues** | When eSIM does not work, checking APN settings is the most common fix, especially on Android. Dedicated threads list correct APN values for every major provider serving China. |
-| **Keep your physical SIM for SMS** | Banking apps, WhatsApp, Didi, Alipay, and restaurant platforms all send SMS codes. A data-only eSIM can't receive these. Dual-SIM (home SIM for SMS, eSIM for data) is the most recommended configuration. |
+| **Buy before you fly** | Installing the profile before departure means a smooth landing; buying after arrival often means struggling with airport WiFi that requires SMS verification. |
+| **APN settings fix most issues** | When an eSIM does not work, checking APN settings is the most common fix, especially on Android. |
+| **Keep your physical SIM for SMS** | Banking apps, WhatsApp, Didi, Alipay, and restaurant platforms all send SMS codes. A data-only eSIM can't receive these. Dual-SIM (home SIM for SMS, eSIM for data) is the most reliable configuration. |
 | **Not all eSIMs bypass the firewall** | Cheap eSIMs from lesser-known providers may leave Google, WhatsApp, and Instagram blocked. The fix is an international roaming eSIM, not a domestic Chinese carrier eSIM. |
-| **Automatic switching saves time** | Multiple threads mention automatic carrier switching as a time-saver. First-time users often struggle with manual network selection after landing, and automatic switching removes that step entirely. |
+| **Automatic switching saves time** | Automatic carrier switching removes the need to manually select a network after landing. |
 | **China Mobile has the widest coverage** | China Mobile has the best 4G/5G coverage across Chinese cities and on high-speed trains. If manually selecting a network, choose China Mobile for the strongest signal. |
-| **"Unlimited" plans have fair-use caps** | Most "unlimited" plans throttle to 128-256 kbps after roughly 1 GB/day at full speed. Fine for messaging and maps but not video streaming. Set-data plans (10 GB, 20 GB) are often more reliable. |
-| **Dual SIM configuration tips** | Set eSIM as default data line, home SIM as default voice line. On iPhone, ensure iMessage and FaceTime use your home SIM number so SMS verification codes arrive correctly. |
+| **"Unlimited" plans have fair-use caps** | Most "unlimited" plans throttle to 128-256 kbps after roughly 1 GB/day at full speed — fine for messaging and maps but not video streaming. Set-data plans (10 GB, 20 GB) are often more reliable. |
+| **Dual SIM configuration tips** | Set the eSIM as the default data line and the home SIM as the default voice line. On iPhone, ensure iMessage and FaceTime use your home SIM number so SMS verification codes arrive correctly. |
 | **Pre-trip prep matters** | Save the QR code (single-use for some providers), keep your home SIM for banking apps, and have a phone number for airport pickup drivers who call to confirm location. |
-| **Always have a backup** | Bring a physical SIM as fallback or keep a screenshot of your provider's support contact saved on your phone. Digital nomads often carry both an eSIM and a physical SIM for redundancy. |
+| **Always have a backup** | Bring a physical SIM as a fallback or keep a screenshot of your provider's support contact saved on your phone. | |
 
 ---
 
-## Can I Test a China eSIM for Free? Trials and Money-Back Guarantees
+## Can I Test an eSIM for China for Free? Trials and Money-Back Guarantees
 
 For first-time eSIM users, the ability to test before committing is valuable. Here is what each major provider offers.
 
-**a China eSIM Free Trial**
+**Roami Free Trial**
 Roami offers a [free China eSIM trial](/free-esim/) that lets you test the service before buying a full plan. This is particularly useful for first-time users who want to verify compatibility and connectivity before committing money. The trial gives you a small amount of free data to test on the China network. You can install it before your trip, confirm the eSIM works on your phone, and then upgrade to a paid plan when you are ready.
 
 For money-back guarantees on China eSIM plans, Roami offers a 30-day refund policy on most plans. If the eSIM doesn't work for you, you can request a full refund within 30 days of purchase.
@@ -416,14 +416,14 @@ Saily offers a 14-day refund policy on unused plans.
 **Summary Table**
 | Provider | Free Trial | Refund Window | Refund Condition |
 |---|---|---|---|
-| a China eSIM | Yes (free trial available) | 30 days | Most plans, including used |
+| Roami | Yes (free trial available) | 30 days | Most plans, including used |
 | Holafly | No | 7 days | Unused only |
 | Airalo | No | 30 days | Uninstalled only |
 | Nomad | No | 30 days | Uninstalled only |
 | Ubigi | No | 14 days | Unactivated only |
 | Saily | No | 14 days | Unused only |
 
-If you want to test a China eSIM risk-free, a China eSIM's free trial and 30-day money-back guarantee provide the most flexibility for beginners.
+If you want to test an eSIM for China risk-free, Roami's free trial and 30-day money-back guarantee provide the most flexibility for beginners.
 
 ---
 
@@ -468,9 +468,9 @@ Looking for a **China eSIM promo code**? Here are the verified discounts for Chi
 
 ---
 
-## Can You Delete and Reinstall a China eSIM?
+## Can You Delete and Reinstall an eSIM for China?
 
-**Short answer: Yes, in most cases you can reinstall a China eSIM if you delete it.** If you accidentally deleted your profile, reinstalling your China eSIM is possible if you kept the QR code.
+**Short answer: Yes, in most cases you can reinstall an eSIM for China if you delete it.** If you accidentally deleted your profile, reinstalling your China eSIM is possible if you kept the QR code.
 The process depends on your provider and how they deliver eSIM profiles.
 
 **How Deleting an eSIM Works**
@@ -487,7 +487,7 @@ Most eSIM providers have a mobile app that stores your purchased plans. If you d
 4. Tap "Reinstall" or "Download Again"
 5. Follow the installation prompts
 
-This works with a China eSIM, Airalo, Holafly, Nomad, and most app-based providers.
+This works with Roami, Airalo, Holafly, Nomad, and most app-based providers.
 
 **Method 2: Use the original QR code**
 If you saved the original QR code (or if it is in your email), you can scan it again:
@@ -509,7 +509,7 @@ If neither method works:
 **Which Providers Allow Easy Reinstallation?**
 | Provider | Reinstall via App | Reuse Original QR | New QR Code Fee |
 |---|---|---|---|
-| a China eSIM | Yes | Yes | Free |
+| Roami | Yes | Yes | Free |
 | Airalo | Yes | Yes | Free |
 | Holafly | Yes | Yes | Free |
 | Nomad | Yes | No (single-use QR) | Free on request |
@@ -536,8 +536,8 @@ If all else fails and you can't recover the profile, you may need to purchase a 
 
 When something goes wrong with your China eSIM, fast customer support makes the difference between a minor inconvenience and a ruined day of sightseeing.
 
-**a China eSIM**
-a China eSIM offers **24/7 live human support** — not chatbots. This is a meaningful difference for first-time eSIM users who may need hand-holding through installation.
+**an eSIM for China**
+Roami offers **24/7 live human support** — not chatbots. This is a meaningful difference for first-time eSIM users who may need hand-holding through installation.
 
 - **In-app live chat:** Available 24/7, response typically within 1-2 minutes
 - **Email:** support@roami.com (response within 2-4 hours)
@@ -595,13 +595,13 @@ Yes, in most cases. If you delete your eSIM profile from your phone, the plan re
 
 The only scenario where you can't reinstall is if the plan has already expired or if you have used up all the data. In those cases, you would need to purchase a new plan anyway.
 
-For detailed steps, see the "Can You Delete and Reinstall a China eSIM?" section above.
+For detailed steps, see the "Can You Delete and Reinstall an eSIM for China?" section above.
 
 **Can I top up China eSIM plan?**
 It depends on the provider.
 
 **Providers that allow top-ups:**
-- **a China eSIM:** Yes, you can add more data to an existing active plan through the app. Top-ups are available in 1GB, 3GB, 5GB, and 10GB increments. The top-up data inherits the same validity period as your original plan.
+- **Roami:** Yes, you can add more data to an existing active plan through the app. Top-ups are available in 1GB, 3GB, 5GB, and 10GB increments. The top-up data inherits the same validity period as your original plan.
 - **Airalo:** Yes, you can top up data on most China plans through the app.
 - **Nomad:** Yes, top-up data packages are available for active plans.
 - **Ubigi:** Yes, top-ups available through the app or website.
@@ -627,13 +627,13 @@ The cheapest China eSIM depends on how much data you need.
 
 **Cheapest for hassle-free purchase (1GB):** Ubigi at $3.00 for 1GB. Instant delivery, English-language support, no ID verification.
 
-**Cheapest for 1-week trip (5GB):** Ubigi at $10.00 for 5GB, or a China eSIM at $11.00 for 5GB.
+**Cheapest for 1-week trip (5GB):** Ubigi at $10.00 for 5GB, or Roami at $11.00 for 5GB.
 
-**Cheapest for 2-week trip (10GB):** a China eSIM at $16.00 for 10GB, tied with CMHK direct.
+**Cheapest for 2-week trip (10GB):** Roami at $16.00 for 10GB, tied with CMHK direct.
 
-**Cheapest for 30-day trip (20GB+):** a China eSIM at $26.00 for 20GB, or Nomad at $29.00 for 20GB.
+**Cheapest for 30-day trip (20GB+):** Roami at $26.00 for 20GB, or Nomad at $29.00 for 20GB.
 
-**Cheapest unlimited:** a China eSIM at $26.00 for 7 days unlimited, or Holafly at $30.00 for 7 days unlimited.
+**Cheapest unlimited:** Roami at $26.00 for 7 days unlimited, or Holafly at $30.00 for 7 days unlimited.
 
 For a comprehensive price comparison across all providers and data tiers, see the [China eSIM price and purchase guide](/blog/china-esim-price-plan-purchase-guide/).
 
@@ -642,9 +642,9 @@ If you buy an international roaming eSIM that routes traffic through an external
 
 If you buy a direct China carrier eSIM, you'll need a separate VPN to access blocked services. Some eSIM providers (Holafly, Saily) include built-in VPN functionality. Others require you to configure your own.
 
-For more detail, see our guide on [China eSIM and VPN firewall bypass](/blog/china-esim-vpn-firewall-guide/).
+For more detail, see the guide on [China eSIM and VPN firewall bypass](/blog/china-esim-vpn-firewall-guide/).
 
-**Can I make voice calls with a China eSIM?**
+**Can I make voice calls with an eSIM for China?**
 Most China travel eSIMs are data-only. You can't make or receive voice calls through the eSIM number. Your regular home SIM still handles calls and texts. If you need a Chinese phone number for calling (for restaurant reservations, Didi pickup confirmations, etc.), you need a separate service like a Chinese SIM card or a VoIP app.
 
 **Will my home SIM still work?**
@@ -668,12 +668,12 @@ Try these steps in order:
 5. **Toggle airplane mode** — Turn it on, wait 10 seconds, turn it off
 6. **Contact support** — If nothing works, reach out to your provider's customer service
 
-Our [China eSIM troubleshooting guide](/blog/china-esim-troubleshooting-fix-guide/) covers every possible issue in detail.
+The [China eSIM troubleshooting guide](/blog/china-esim-troubleshooting-fix-guide/) covers every possible issue in detail.
 
 **Can I get a refund if my China eSIM does not work?**
 Refund policies vary by provider:
 
-- **a China eSIM:** 30-day money-back guarantee on most plans
+- **Roami:** 30-day money-back guarantee on most plans
 - **Holafly:** 7-day refund on unused plans
 - **Airalo:** 30-day refund on uninstalled plans
 - **Nomad:** 30-day refund on uninstalled plans
@@ -682,7 +682,7 @@ Refund policies vary by provider:
 
 To request a refund, contact the provider's customer service with your order number and the reason for the refund. If you have technical issues, most providers will ask you to try troubleshooting steps first.
 
-**Should I get a China eSIM or a physical SIM?**
+**Should I get an eSIM for China or a physical SIM?**
 For most travelers, an eSIM is the better choice:
 
 - **Install before you leave** — No hunting for a SIM kiosk at the airport
@@ -712,7 +712,7 @@ A physical SIM makes sense if:
 **Can I use my China eSIM as a hotspot?**
 It depends on the provider. Some China eSIMs support tethering (sharing your data connection with a laptop or tablet), while others block it.
 
-**Providers that allow hotspot/tethering:** a China eSIM, Airalo (most plans), Nomad, Ubigi, Saily. a China eSIM explicitly supports hotspot on all its China plans, which is useful if you need to connect a laptop for work.
+**Providers that allow hotspot/tethering:** Roami, Airalo (most plans), Nomad, Ubigi, Saily. Roami explicitly supports hotspot on all its China plans, which is useful if you need to connect a laptop for work.
 
 **Providers that block hotspot:** Holafly blocks tethering on its China unlimited plans. This is stated in their terms of service. If you need to share your connection, choose a provider that allows it.
 
@@ -736,7 +736,7 @@ If in doubt, buy 5GB for a week or 10GB for two weeks. Most providers offer top-
 You now know everything you need to go from "I have never used an eSIM" to "I have a working China eSIM ready for my trip." Here is your action plan:
 
 1. **Check phone compatibility** using the methods in the compatibility section
-2. **Choose a provider** — a China eSIM offers automatic carrier switching and live support for beginners; Airalo and Holafly are also solid options
+2. **Choose a provider** — Roami offers automatic carrier switching and live support for beginners; Airalo and Holafly are also solid options
 3. **Buy your plan** before you leave, selecting the right data amount for your trip length
 4. **Install the eSIM** using the step-by-step instructions above
 5. **Enable data roaming** — seriously, don't forget this
@@ -744,9 +744,50 @@ You now know everything you need to go from "I have never used an eSIM" to "I ha
 7. **Save your QR code** as a screenshot and in the provider's app
 8. **Note your provider's support contact** in case you need help after landing
 
-The [China eSIM complete guide](/blog/china-esim-complete-guide/) serves as the pillar page for everything else, linking together all the China eSIM content on this site.
+The [China eSIM complete guide](/blog/china-esim-complete-guide/) serves as the pillar page for everything else, linking together all the related eSIM content on this site.
 
 Safe travels, and enjoy being connected in China.
 
 
 See [Apple Support](https://support.apple.com/en-us/HT212780) for eSIM-compatible devices. The [GSMA](https://www.gsma.com) defines global eSIM standards.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An eSIM is a digital SIM embedded in your phone. Instead of inserting a physical card, you activate it by scanning a QR code or installing a profile from your provider's app. It works alongside your existing SIM so you can keep your home number active."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know if my phone supports eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "iPhone XS, XR, and newer support eSIM, as do most recent Android flagships. Check Settings for an Add eSIM or Add Cellular Plan option, or confirm with your phone's manufacturer. The phone must also be carrier-unlocked."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use a China eSIM if my phone is carrier-locked?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. A carrier-locked phone will not accept another provider's eSIM. Confirm your device is unlocked with your carrier before buying an eSIM."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should I install my China eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Install it before you leave, ideally a few days before departure. This gives you time to catch a locked phone, an incompatible device, or a QR code delivery delay while you still have home WiFi and support access."
+      }
+    }
+  ]
+}
+</script>

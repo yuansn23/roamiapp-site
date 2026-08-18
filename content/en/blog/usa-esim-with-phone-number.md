@@ -1,9 +1,9 @@
 ---
 title: "USA eSIM with Phone Number: Best Plans for Calls"
-description: "Need a US phone number with your eSIM? Plans that include calls SMS and OTP verification compared. "
+description: "Need a US phone number with your eSIM? Plans that include calls, SMS, and OTP verification compared. Roami offers auto network switching and live support."
 keywords: ["USA eSIM with phone number", "best USA eSIM with phone number", "USA eSIM calls and SMS", "Tello eSIM US number", "Google Fi eSIM number"]
-date: 2026-07-07T10:00:00Z
-lastmod: 2026-07-07T10:00:00Z
+date: 2026-08-17T10:00:00Z
+lastmod: 2026-08-17T10:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected with simple eSIM plans."
 image: "/img/esim/usa/usa-esim-with-phone-number.jpg"
@@ -77,164 +77,6 @@ recentPosts:
     permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
     date: "2026-05-20"
 ---
-﻿---
-title: "[USA eSIM](/usa-esim/) with Phone Number: Best Plans for Calls"
-description: "Need a US phone number with your eSIM? Plans that include calls SMS and OTP verification compared. "
-keywords: ["[usa esim](/usa-esim/) with phone number", "best USA eSIM with phone number", "USA eSIM calls and SMS", "Tello eSIM US number", "Google Fi eSIM number"]
-date: 2026-07-02T10:00:00Z
-lastmod: 2026-07-02T10:00:00Z
-author: "Roami (with automatic switching across AT&T, Verizon and T-Mobile) Team"
-authorBio: "Roami helps travelers stay connected with simple eSIM plans."
-image: "/img/esim/usa/usa-esim-with-phone-number.jpg"
-categories: ["eSIM", "Travel", "USA"]
-tags: ["USA eSIM"]
-readingTime: 17
-draft: false
-authorAvatar: "/img/logo.png"
-authorPostsLink: "/blog/"
-h1title: "USA eSIM with Phone Number 2026: Best Plans for Calls, SMS and OTP"
-
-## Sidebar module titles
-productsTitle: "Popular eSIM Plans"
-hotPostsTitle: "Hot Articles"
-recentPostsTitle: "Recent Posts"
-
-## Right sidebar products (6 items)
-products:
-  - name: "USA eSIM"
-    flag: "/img/flags/us.svg"
-    price: "From $1.99"
-    is_highlight: false
-    slug: "united-states"
-  - name: "Japan eSIM"
-    flag: "/img/flags/jp.svg"
-    price: "From $1.99"
-    is_highlight: false
-    slug: "japan"
-  - name: "Europe eSIM"
-    flag: "/img/flags/eu.svg"
-    price: "From $1.99"
-    is_highlight: true
-    slug: "europe"
-  - name: "South Korea eSIM"
-    flag: "/img/flags/kr.svg"
-    price: "From $1.99"
-    is_highlight: false
-    slug: "south-korea"
-  - name: "Thailand eSIM"
-    flag: "/img/flags/th.svg"
-    price: "From $1.99"
-    is_highlight: false
-    slug: "thailand"
-  - name: "Hong Kong eSIM"
-    flag: "/img/flags/hk.svg"
-    price: "From $1.99"
-    is_highlight: false
-    slug: "hong-kong"
-
-## Recent posts (sidebar)
-recentPosts:
-  - title: "eSIM Deep Troubleshooting Guide (16 Real Cases)"
-    permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
-    date: "2026-05-26"
-  - title: "2026 Cross-Platform eSIM Transfer"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
-    date: "2026-05-25"
-  - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
-    date: "2026-05-24"
-  - title: "Smartwatch eSIM Compatibility Complete List"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
-  - title: "iPhone SE eSIM Compatibility Guide"
-    permalink: "/faq/iphone-se-esim-compatible/"
-    date: "2026-05-22"
-  - title: "iPhone 11 eSIM Complete Setup Guide"
-    permalink: "/faq/iphone-11-esim-compatible/"
-    date: "2026-05-21"
-  - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
-    date: "2026-05-20"
----
-﻿---
-title: "[USA eSIM](/usa-esim/) with Phone Number: Best Plans for Calls"
-description: "Need a US phone number with your eSIM? Plans that include calls SMS and OTP verification compared. "
-keywords: ["USA eSIM with phone number", "best USA eSIM with phone number", "USA eSIM calls and SMS", "Tello eSIM US number", "Google Fi eSIM number"]
-date: 2026-07-02T10:00:00Z
-lastmod: 2026-07-02T10:00:00Z
-author: "Roami Team"
-authorBio: "Roami helps travelers stay connected with simple eSIM plans."
-image: "/img/esim/usa/usa-esim-with-phone-number.jpg"
-categories: ["eSIM", "Travel", "USA"]
-tags: ["USA eSIM"]
-readingTime: 17
-draft: false
-authorAvatar: "/img/logo.png"
-authorPostsLink: "/blog/"
-h1title: "USA eSIM with Phone Number 2026: Best Plans for Calls, SMS and OTP"
-
-## Sidebar module titles
-productsTitle: "Popular eSIM Plans"
-hotPostsTitle: "Hot Articles"
-recentPostsTitle: "Recent Posts"
-
-## Right sidebar products (6 items)
-products:
-  - name: "USA eSIM"
-    flag: "/img/flags/us.svg"
-    price: "From $1.99"
-    is_highlight: false
-    slug: "united-states"
-  - name: "Japan eSIM"
-    flag: "/img/flags/jp.svg"
-    price: "From $1.99"
-    is_highlight: false
-    slug: "japan"
-  - name: "Europe eSIM"
-    flag: "/img/flags/eu.svg"
-    price: "From $1.99"
-    is_highlight: true
-    slug: "europe"
-  - name: "South Korea eSIM"
-    flag: "/img/flags/kr.svg"
-    price: "From $1.99"
-    is_highlight: false
-    slug: "south-korea"
-  - name: "Thailand eSIM"
-    flag: "/img/flags/th.svg"
-    price: "From $1.99"
-    is_highlight: false
-    slug: "thailand"
-  - name: "Hong Kong eSIM"
-    flag: "/img/flags/hk.svg"
-    price: "From $1.99"
-    is_highlight: false
-    slug: "hong-kong"
-
-## Recent posts (sidebar)
-recentPosts:
-  - title: "eSIM Deep Troubleshooting Guide (16 Real Cases)"
-    permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
-    date: "2026-05-26"
-  - title: "2026 Cross-Platform eSIM Transfer"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
-    date: "2026-05-25"
-  - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
-    date: "2026-05-24"
-  - title: "Smartwatch eSIM Compatibility Complete List"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
-  - title: "iPhone SE eSIM Compatibility Guide"
-    permalink: "/faq/iphone-se-esim-compatible/"
-    date: "2026-05-22"
-  - title: "iPhone 11 eSIM Complete Setup Guide"
-    permalink: "/faq/iphone-11-esim-compatible/"
-    date: "2026-05-21"
-  - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
-    date: "2026-05-20"
----
 Most travel eSIMs are data-only — you get internet but no US phone number for calls or SMS. Tello offers a US eSIM with unlimited talk and text for $25/month on T-Mobile's network. Google Fi gives a US number plus data in 200+ countries.
 
 You can't call a hotel to confirm a reservation. You can't receive SMS verification codes from Airbnb, Delta, or your bank. You can't give a local number to a ride-share driver who can't find you. If any of these apply to your trip, you need an eSIM that includes a real US number.
@@ -257,7 +99,7 @@ All five include a real US phone number with voice and SMS capabilities. The key
 
 ### How these providers compare on 5G availability
 
-According to [OpenSignal's June 2026 report](https://www.opensignal.com/reports), T-Mobile's native network offers the widest 5G availability at 89% of measured locations, compared to AT&T at 72% and Verizon at 68%. This directly impacts how your eSIM performs in real-world conditions. Tello and Google Fi, as MVNOs on T-Mobile's network, inherit the same 5G access but may experience deprioritization during peak hours.
+T-Mobile's native network offers the widest 5G availability among the major carriers, followed by AT&T and Verizon. This directly impacts how your eSIM performs in real-world conditions. Tello and Google Fi, as MVNOs on T-Mobile's network, inherit the same 5G access but may experience deprioritization during peak hours.
 
 ### Which carriers support Wi-Fi calling with a US number
 
@@ -274,7 +116,7 @@ Wi-Fi calling is available on Tello, Google Fi, T-Mobile Prepaid, AT&T Prepaid, 
 | Instagram/TikTok browsing | 4 MB/min | 7.2 GB |
 | Email (no attachments) | 0.1 MB per email | 60 MB |
 
-Source: [GSMA Mobile Data Usage Guidelines](https://www.gsma.com/). Use this table to estimate what data tier fits your travel habits.
+Use this table to estimate what data tier fits your travel habits.
 
 ### International dialing rates comparison
 
@@ -286,7 +128,7 @@ Source: [GSMA Mobile Data Usage Guidelines](https://www.gsma.com/). Use this tab
 | AT&T Prepaid | $0.35 | $0.35 | $0.35 |
 | Verizon Prepaid | $0.35 | $0.35 | $0.35 |
 
-Tello and Google Fi offer significantly cheaper international rates. Tello charges $0.02/min to most European and Asian destinations, while carrier prepaid plans charge $0.25–$0.35/min. Source: respective carrier rate cards as of June 2026.
+Tello and Google Fi offer significantly cheaper international calling rates than carrier prepaid plans.
 
 ---
 
@@ -330,7 +172,7 @@ A digital nomad spending two weeks in New York and one week in Los Angeles can u
 
 ### Getting a US number as a non-resident with Tello
 
-Tello is the most straightforward option for non-US residents. You do not need a Social Security number, a US credit card, or a US address. A hotel address or the address of your first Airbnb is accepted during registration. ID verification is handled entirely through the app using a passport photo — no in-person visit required. According to Tello's support documentation, activation succeeds for travelers from over 190 countries.
+Tello is the most straightforward option for non-US residents. You do not need a Social Security number, a US credit card, or a US address. A hotel address or the address of your first Airbnb is accepted during registration. ID verification is handled entirely through the app using a passport photo — no in-person visit required. Tello supports activation for travelers from most countries.
 
 ---
 
@@ -355,7 +197,7 @@ Google Fi supports up to six data-only SIMs (physical or eSIM) on a single accou
 
 ### Google Fi international roaming details
 
-Google Fi's international roaming covers 200+ countries at no extra charge for data. Voice calls cost $0.02/min to most destinations. This is particularly useful for travelers visiting the US as part of a broader trip covering Canada, Mexico, or Europe. The same US number works everywhere, and texts are free from any country.
+Google Fi's international roaming covers 200+ countries at no extra charge for data. Voice calls to most destinations carry a low per-minute charge. This is particularly useful for travelers visiting the US as part of a broader trip covering Canada, Mexico, or Europe. The same US number works everywhere, and texts are free from any country.
 
 ### Google Fi pros and cons
 
@@ -400,7 +242,7 @@ For a side-by-side comparison of these carrier plans against international eSIM 
 
 ### Native network priority vs MVNO deprioritization
 
-One key advantage of carrier prepaid over Tello is network priority. According to [OpenSignal's 2026 mobile experience report](https://www.opensignal.com/reports), T-Mobile prepaid users experience 14% faster median download speeds than T-Mobile MVNO users during peak hours. In crowded venues like stadiums, airports, and convention centers, the difference can be more pronounced — a native carrier user may see 50 Mbps while an MVNO user on the same tower sees 5 Mbps or less.
+One key advantage of carrier prepaid over Tello is network priority. T-Mobile prepaid users experience faster median download speeds than T-Mobile MVNO users during peak hours, because MVNO traffic is deprioritized during congestion. In crowded venues like stadiums, airports, and convention centers, the difference can be more pronounced.
 
 ### In-store support and troubleshooting options
 
@@ -686,10 +528,10 @@ Cellular voice calls use dedicated channels that maintain quality even during ne
 If you plan to call home while in the US:
 
 - **Tello:** Free international calling to 60+ countries (including UK, Canada, Mexico, China, India)
-- **Google Fi:** $0.02/min to most destinations
-- **T-Mobile Prepaid:** $0.25/min for international calls, or add an international calling pack
-- **AT&T Prepaid:** $0.35/min, or $15/mo international calling add-on
-- **Verizon Prepaid:** $0.35/min, or $15/mo international calling add-on
+- **Google Fi:** low per-minute rates to most destinations
+- **T-Mobile Prepaid:** per-minute rates for international calls, or add an international calling pack
+- **AT&T Prepaid:** per-minute rates, or an international calling add-on
+- **Verizon Prepaid:** per-minute rates, or an international calling add-on
 
 For frequent calls home, Tello's free international calling is a significant cost advantage. Tello's free calling list includes landlines and mobile numbers in most European countries, Canada, Mexico, India, China, and more.
 
@@ -812,7 +654,7 @@ Travelers who skip a US number should prepare workarounds:
 
 If you run into any issues during installation or activation, the [USA eSIM troubleshooting guide](/blog/usa-esim-troubleshooting/) covers the most common problems and how to resolve them.
 
-For travelers who prefer a data-only solution with automatic network switching — especially those covering multiple regions in one trip — a [usa esim](/usa-esim/) offers built-in price comparison across carriers and live support, all without the need for ID verification.
+For travelers who prefer a data-only solution with automatic network switching — especially those covering multiple regions in one trip — a [usa esim](/united-states-esim/) offers built-in price comparison across carriers and live support, all without the need for ID verification.
 
 ### Why the FCC requires ID verification
 
@@ -957,6 +799,17 @@ If your phone supports dual eSIM (iPhone XS and newer, most Android flagships fr
 ---
 
 [This eSIM](/united-states-esim/) offers data-only plans with automatic network switching. For travelers who want to test a USA eSIM without committing to a phone number plan, a [free eSIM trial](/free-esim/) is available. Code **WEB20** takes 20% off any plan.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "USA eSIM with Phone Number: Best Plans for Calls",
+  "datePublished": "2026-08-17",
+  "dateModified": "2026-08-17",
+  "author": { "@type": "Organization", "name": "Roami Team" }
+}
+</script>
 
 *Last updated July 2026.*
 

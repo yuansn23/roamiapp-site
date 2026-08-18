@@ -542,3 +542,6 @@ other = "Sınırlı (sadece ABD)"
 
 [roami_compare_verizon_support]
 other = "❌ Sınırlı"
+
+[esim_free_trial]
+other = "eSIM ücretsiz deneme"

@@ -75,13 +75,13 @@ recentPosts:
 
 **How to set up dual SIM with home SIM and UK eSIM** is the most common question from travellers who want the best of both worlds. Here's the straightforward answer: install your UK eSIM, set it as your data line, keep your home SIM for calls and SMS, and turn off data roaming on your home SIM. That's it. Five minutes of settings and you're done.
 
-But don't skip the details. Mess up one setting -- like leaving data roaming on for your home SIM -- and you'll burn through your roaming allowance in a single afternoon of background app refreshes. This is one of the most common complaints on travel forums: travellers who left home SIM roaming on and got hit with surprise charges for push notifications they never saw.
+But don't skip the details. Mess up one setting — like leaving data roaming on for your home SIM — and you'll burn through your roaming allowance in a single afternoon of background app refreshes. This is one of the most common complaints travellers make: leaving home SIM roaming on and getting hit with surprise charges for push notifications they never saw.
 
-An England eSIM works across all of Great Britain -- England, Scotland, Wales, and Northern Ireland -- so the setup below applies wherever you're headed.
+An England eSIM works across all of Great Britain — England, Scotland, Wales, and Northern Ireland — so the setup below applies wherever you're headed.
 
 ## What Dual SIM Actually Means for Your UK Trip
 
-Before we get into the settings, let's be clear about what dual SIM can and can't do for you.
+Before getting into the settings, let's be clear about what dual SIM can and can't do for you.
 
 With dual SIM active, your phone can:
 
@@ -93,30 +93,30 @@ With dual SIM active, your phone can:
 
 What it can't do:
 
-- **Combine data from both SIMs** -- data comes from one line at a time (though iPhone's Cellular Data Switching comes close, more on that below)
-- **Use both SIMs for voice simultaneously** -- if you're on a call on one line and another call comes in on the second, it goes to voicemail
-- **Guarantee SMS delivery on both lines** -- some configurations can block incoming SMS on one line
+- **Combine data from both SIMs** — data comes from one line at a time (though iPhone's Cellular Data Switching comes close, more on that below)
+- **Use both SIMs for voice simultaneously** — if you're on a call on one line and another call comes in on the second, it goes to voicemail
+- **Guarantee SMS delivery on both lines** — some configurations can block incoming SMS on one line
 
 That last one is a common pitfall. Missed bank verification codes can happen when iMessage intercepts the SMS routing on the travel eSIM. The fix requires adjusting Settings > Messages > Send & Receive. More on that below.
 
 **What You Need**
 To run dual SIM with an [eSIM plan for the UK](/united-kingdom-esim/), you need:
 
-1. **A phone that supports dual SIM with eSIM** (following the [GSMA](https://www.gsma.com) standard for remote SIM provisioning) -- all iPhone models from the iPhone XS onwards support this, as do most Android flagships from 2020 onwards (Samsung Galaxy S20+, Google Pixel 4+, and newer)
-2. **An unlocked phone** -- carrier-locked phones may restrict dual SIM functionality
+1. **A phone that supports dual SIM with eSIM** (following the [GSMA](https://www.gsma.com) standard for remote SIM provisioning) — all iPhone models from the iPhone XS onwards support this, as do most Android flagships from 2020 onwards (Samsung Galaxy S20+, Google Pixel 4+, and newer)
+2. **An unlocked phone** — carrier-locked phones may restrict dual SIM functionality
 3. **Your home SIM** (physical or eSIM) active and working
 4. **A UK eSIM** installed and ready to use
 
-Getting a UK eSIM card installed on your phone is the first step in setting up a dual SIM configuration -- once it's on your device, you can run both lines simultaneously without any physical swapping.
+Getting a UK eSIM card installed on your phone is the first step in setting up a dual SIM configuration — once it's on your device, you can run both lines simultaneously without any physical swapping.
 
-If you're not sure whether your phone supports this setup, check our [UK eSIM setup guide](/blog/uk-esim-setup-guide/) for a full compatibility list. Apple's official [dual SIM support page](https://support.apple.com/en-us/HT212780) lists every compatible iPhone model.
+If you're not sure whether your phone supports this setup, check the [UK eSIM setup guide](/blog/uk-esim-setup-guide/) for a full compatibility list. Apple's official [dual SIM support page](https://support.apple.com/en-us/HT212780) lists every compatible iPhone model.
 
 ## Setting Up Dual SIM on iPhone
 
 Let's start with iPhone, since it's the most common device for eSIM users and has the most refined dual SIM implementation.
 
 **Step 1: Install Your UK eSIM**
-Before you can set up dual SIM, you need the eSIM installed. Your provider should have given you a QR code or an app-based installation method. **UK eSIM install before departure** is the golden rule -- do this at home on WiFi, not at the airport.
+Before you can set up dual SIM, you need the eSIM installed. Your provider should have given you a QR code or an app-based installation method. **UK eSIM install before departure** is the golden rule — do this at home on WiFi, not at the airport.
 
 The difference is stark. A home install on stable WiFi typically takes under 5 minutes and works on the first try. An airport install on free terminal WiFi can drag on for 20+ minutes because of slow connections, screen glare on the QR code, and the general stress of doing tech setup at baggage claim. Do it at home. Seriously.
 
@@ -162,7 +162,7 @@ When running a UK eSIM with home SIM data roaming disabled, you ensure all inter
 2. Toggle "Data Roaming" OFF for your home SIM
 
 **Step 5: Turn On Data Roaming on Your UK eSIM**
-And equally critical -- your UK eSIM needs data roaming ON to work:
+And equally critical — your UK eSIM needs data roaming ON to work:
 
 1. Settings > Mobile Data > Tap your UK eSIM
 2. Toggle "Data Roaming" ON
@@ -177,7 +177,7 @@ Cellular Data Switching is a feature that makes dual SIM much smoother. When ena
 
 What this means in practice: if you're in a location where your UK eSIM has no data coverage but your home SIM has a roaming data connection, your phone seamlessly switches data to the home line. It's a backup that helps prevent connectivity gaps.
 
-The catch? If data roaming is off on your home SIM (which it should be), Cellular Data Switching won't work for UK connections -- your home SIM won't have a data connection to fall back to. So in most cases, this setting is more useful for home-country use than in the UK. Still, turn it on; it doesn't hurt.
+The catch? If data roaming is off on your home SIM (which it should be), Cellular Data Switching won't work for UK connections — your home SIM won't have a data connection to fall back to. So in most cases, this setting is more useful for home-country use than in the UK. Still, turn it on; it doesn't hurt.
 
 **Step 7: Configure Default Line for Calls and Messages**
 By default, your iPhone uses one line for all voice calls and SMS. You can set this to your home SIM so calls and texts always come from your familiar number.
@@ -187,7 +187,7 @@ By default, your iPhone uses one line for all voice calls and SMS. You can set t
 
 You can still choose which line to use for individual calls by tapping the line button in the Phone app before dialling.
 
-For SMS, go to Settings > Messages > Send & Receive and make sure your home number is selected for both sending and receiving. We'll cover iMessage configuration in more detail below.
+For SMS, go to Settings > Messages > Send & Receive and make sure your home number is selected for both sending and receiving. iMessage configuration is covered configuration in more detail below.
 
 ## Setting Up Dual SIM on Android
 
@@ -268,7 +268,7 @@ Look at your status bar. Do you see the network name for your UK eSIM? Icons sho
 **Typical experience**
 Within 30 seconds of turning off aeroplane mode, both lines should register. Your WhatsApp messages flood in. Google Maps loads to show you how to get to your hotel. Your home SMS messages arrive. Everything works.
 
-Except when it doesn't. A UK eSIM with multi-network switching can take a few minutes to register on arrival because it's negotiating with multiple carriers to find the best one. The home SIM usually connects in seconds because it has no decision to make ?it just grabs whatever roaming partner is available. Once the multi-network eSIM picks the optimal carrier, everything runs smoothly. That brief gap between connections is worth knowing about so you don't panic.
+Except when it doesn't. A UK eSIM with multi-network switching can take a few minutes to register on arrival because it's negotiating with multiple carriers to find the best one. The home SIM usually connects in seconds because it has no decision to make — it just grabs whatever roaming partner is available. Once the multi-network eSIM picks the optimal carrier, everything runs smoothly. That brief gap between connections is worth knowing about so you don't panic.
 
 **Ordering an Uber**
 You need a ride from your hotel to a meeting in Canary Wharf.
@@ -291,7 +291,7 @@ Your banking app opens over your UK eSIM's data. You tap "Send verification code
 **The critical detail**
 The SMS arrived on your home line, not your UK line. This worked because your home SIM was set as the default for SMS, and your home number is the one registered with your bank. If you'd set the UK eSIM as the default SMS line, the code wouldn't have arrived on your home number.
 
-**What if your bank uses your UK number?** If you've changed your bank's contact number to your UK number, make sure your UK eSIM is set as the default SMS line -- or manually switch before requesting the code.
+**What if your bank uses your UK number?** If you've changed your bank's contact number to your UK number, make sure your UK eSIM is set as the default SMS line — or manually switch before requesting the code.
 
 **Video Call for Work**
 You have a Zoom meeting with your office back home.
@@ -303,9 +303,9 @@ Zoom opens. It uses data from your UK eSIM. The call connects. Your video and au
 Midway through your Zoom call, your phone buzzes with an incoming call on your home line. Does Zoom drop? No. Your iPhone or Android handles data and voice separately. The Zoom call continues on data while you decide whether to answer the voice call.
 
 **Quality note**
-If your UK eSIM has strong signal and adequate data allowance, the video call quality should be strong. If you're in a weak signal area, you may see quality drops. This is where auto carrier switching (Roami's speciality) makes a real difference -- it keeps you on the strongest available network.
+If your UK eSIM has strong signal and adequate data allowance, the video call quality should be strong. If you're in a weak signal area, you may see quality drops. This is where auto carrier switching (Roami's speciality) makes a real difference — it keeps you on the strongest available network.
 
-But here's a reality check: in basements and underground spaces ?co-working spots, Tube stations, lower-ground-floor hotel rooms ?all four UK networks struggle. No amount of auto-switching fixes being physically below ground level.
+But here's a reality check: in basements and underground spaces — co-working spots, Tube stations, lower-ground-floor hotel rooms — all four UK networks struggle. No amount of auto-switching fixes being physically below ground level.
 
 **Navigating the Scottish Highlands**
 You've driven up to the Highlands. The scenery is spectacular. Your data signal is... not.
@@ -320,7 +320,7 @@ Your phone automatically switches data to whichever SIM has the stronger connect
 Your UK eSIM is your only data source. If it drops, you lose data until you reconnect. Pre-downloading offline maps (Google Maps lets you download UK regions) is your best friend.
 
 **The Roami advantage**
-Because Roami's eSIM auto-switches between EE, Vodafone, O2, and Three, you have a much better chance of maintaining a signal in rural areas than with a single-network plan. The switching happens at the network level, giving you access to multiple towers from different operators. According to [RootMetrics](https://www.rootmetrics.com), rural coverage in Great Britain can vary by 40% between carriers -- so multi-network access matters.
+Because Roami's eSIM auto-switches between EE, Vodafone, O2, and Three, you have a much better chance of maintaining a signal in rural areas than with a single-network plan. The switching happens at the network level, giving you access to multiple towers from different operators. According to [RootMetrics](https://www.rootmetrics.com), rural coverage in Great Britain can vary by 40% between carriers — so multi-network access matters.
 
 Independent coverage data from RootMetrics shows that on routes like Glasgow to Fort William, multi-network eSIMs maintain signal for over 90% of the journey, while single-network SIMs (especially those on O2 or Three) can drop out for 20-30 minutes across multiple stretches. The difference is real.
 
@@ -336,7 +336,7 @@ On Android, the behaviour is similar. The dialler shows which line you're callin
 **Important note on roaming charges**
 If your home SIM doesn't include UK roaming, receiving calls on your home number while in the UK may incur charges. Check with your home provider about their international roaming rates for both incoming and outgoing calls.
 
-This catches travellers constantly. T-Mobile's international plans, for example, charge $0.25/minute for incoming calls in the UK ?four short family calls can add $8 to a bill unexpectedly. Switch to WhatsApp calling for anything non-urgent.
+This catches travellers constantly. T-Mobile's international plans, for example, charge $0.25/minute for incoming calls in the UK — four short family calls can add $8 to a bill unexpectedly. Switch to WhatsApp calling for anything non-urgent.
 
 **Receiving Calls**
 Calls to either number will ring on your phone simultaneously. You'll see which line is ringing (labelled "Home" or "UK Data" or whatever you named them), and you can answer accordingly.
@@ -349,7 +349,7 @@ On iPhone, SMS messages default to your chosen voice line. You can change the li
 On Android, SMS apps typically show which SIM will send the message. On Samsung's Messages app, there's a SIM button above the send button that lets you switch lines.
 
 **Data Usage**
-All your data -- browsing, streaming, maps, app updates, email -- goes through the UK eSIM. Your home SIM uses zero data. This is the whole point of the dual SIM setup: you enjoy everything the UK data network offers without touching your expensive home roaming data.
+All your data — browsing, streaming, maps, app updates, email — goes through the UK eSIM. Your home SIM uses zero data. This is the whole point of the dual SIM setup: you enjoy everything the UK data network offers without touching your expensive home roaming data.
 
 ## Configuring iMessage and FaceTime for Dual SIM
 
@@ -367,11 +367,11 @@ On iPhone with two active SIMs, iMessage can send and receive from either your p
 
 With this setup, iMessage on your phone will receive messages sent to either number, but new messages will come from your home number. This is the ideal configuration for most travellers.
 
-**What about iMessage activation?** When you add a new SIM (your UK eSIM), iMessage may try to activate with the new number. This can cause a brief "Waiting for activation" message. Just leave it -- iMessage will activate within 24 hours, and in the meantime, your existing iMessage setup continues working.
+**What about iMessage activation?** When you add a new SIM (your UK eSIM), iMessage may try to activate with the new number. This can cause a brief "Waiting for activation" message. Just leave it — iMessage will activate within 24 hours, and in the meantime, your existing iMessage setup continues working.
 
 If iMessage activation gets stuck, go to Settings > Messages > Toggle iMessage OFF, wait 30 seconds, toggle ON. This forces a re-activation attempt.
 
-But here's a warning: iMessage activation times vary significantly by carrier. Lebara users have reported activations taking 36 hours or more due to shortcode verification issues ?the Lebara support team acknowledges this as a known problem. giffgaff typically activates within an hour. If iMessage on your UK number matters, giffgaff is the safer bet.
+But here's a warning: iMessage activation times vary significantly by carrier. Lebara activations can take 36 hours or more due to shortcode verification issues — the Lebara support team acknowledges this as a known problem. giffgaff typically activates within an hour. If iMessage on your UK number matters, giffgaff is the safer bet.
 
 **FaceTime with Dual SIM**
 Same principle as iMessage:
@@ -387,9 +387,9 @@ FaceTime calls will ring on your phone regardless of which SIM they're addressed
 WhatsApp is slightly different because it's tied to a single phone number. Here's how to handle it with a dual SIM setup.
 
 **If WhatsApp Is on Your Home Number**
-WhatsApp using your home number works perfectly with a UK eSIM. All WhatsApp traffic goes over the UK eSIM's data connection, so you're not using roaming data. Calls and messages work exactly as they do at home.
+WhatsApp using your home number works perfectly with a UK eSIM. All WhatsApp traffic goes over your eSIM's data connection, so you're not using roaming data. Calls and messages work exactly as they do at home.
 
-**Can I use WhatsApp with UK eSIM?** Yes -- WhatsApp runs over your data connection, which in a dual SIM setup is your UK eSIM. WhatsApp will continue working as normal, using whichever number it's registered to (usually your home number). You don't need a UK number to use WhatsApp in the UK.
+**Can I use WhatsApp with UK eSIM?** Yes — WhatsApp runs over your data connection, which in a dual SIM setup is your UK eSIM. WhatsApp will continue working as normal, using whichever number it's registered to (usually your home number). You don't need a UK number to use WhatsApp in the UK.
 
 The only catch: if WhatsApp needs to re-verify your number (for example, if you reinstall WhatsApp or switch phones), you'll need to receive an SMS on your home number. If your home number can't receive SMS while roaming, you'll be stuck.
 
@@ -411,7 +411,7 @@ A better approach for most people: keep WhatsApp on your home number and use the
 This is one of the most common concerns about dual SIM setups. Here's exactly how it works.
 
 **SMS Codes to Your Home Number**
-If your bank, Google account, or any other service sends 2FA codes via SMS to your home number, those codes will arrive normally while you're in the UK -- as long as your home SIM is active and connected to a network.
+If your bank, Google account, or any other service sends 2FA codes via SMS to your home number, those codes will arrive normally while you're in the UK — as long as your home SIM is active and connected to a network.
 
 **Important caveats:**
 - Your home provider may charge for incoming SMS while roaming. Check this before you travel.
@@ -419,17 +419,17 @@ If your bank, Google account, or any other service sends 2FA codes via SMS to yo
 - SMS delivery can be delayed while roaming. Codes usually arrive within a few seconds, but occasionally take longer.
 
 **SMS Codes to Your UK Number**
-If you're using 2FA codes from UK services (like a UK bank account), those codes will arrive on your UK eSIM number just fine. Just make sure your UK eSIM is set as the default voice line for SMS, or manually switch to it when expecting a code.
+If you're using 2FA codes from UK services (like a UK bank account), those codes will arrive on your UK eSIM number just fine. Just make sure it's set as the default voice line for SMS, or manually switch to it when expecting a code.
 
 **What If You're Not Receiving SMS?**
 If SMS codes aren't arriving on either line, check:
 
 1. The SIM you're expecting the code on is set as the default for SMS
 2. "Send & Receive" in iMessage settings includes that number
-3. Your phone has good signal (not just data signal -- SMS uses the voice network)
+3. Your phone has good signal (not just data signal — SMS uses the voice network)
 4. Your provider supports SMS roaming (for home SIM) or SMS from shortcodes (for UK eSIM)
 
-We've covered SMS troubleshooting in more detail in our [UK eSIM troubleshooting guide](/blog/uk-esim-troubleshooting/), including what to do if your UK eSIM can't receive SMS verification codes.
+SMS troubleshooting was covered above in more detail in the [UK eSIM troubleshooting guide](/blog/uk-esim-troubleshooting/), including what to do if your UK eSIM can't receive SMS verification codes.
 
 ## Cellular Data Switching Explained
 
@@ -439,7 +439,7 @@ This feature deserves its own section because it's misunderstood by a lot of peo
 Cellular Data Switching (iPhone) or Auto Data Switching (Samsung) is a feature that automatically switches your data connection between SIMs when one connection is weak or unavailable.
 
 **How It Works**
-Imagine you're on a train from London to Edinburgh. Your UK eSIM is connected to an O2 network, which has good coverage in London. As you move north, O2's signal weakens. Your phone sees this and automatically switches data to your home SIM -- only if your home SIM has data roaming enabled and has coverage on a different network at your location.
+Imagine you're on a train from London to Edinburgh. Your UK eSIM is connected to an O2 network, which has good coverage in London. As you move north, O2's signal weakens. Your phone sees this and automatically switches data to your home SIM — only if your home SIM has data roaming enabled and has coverage on a different network at your location.
 
 **Why This Matters for Travellers**
 In theory, Cellular Data Switching means you never lose connectivity. In practice, there are two important limitations:
@@ -471,14 +471,14 @@ Running dual SIM mode typically adds roughly 10-15% extra battery drain compared
 - **Data usage**: Heavy data use on the UK eSIM generates more heat and battery drain regardless of dual SIM
 
 **Battery Management Tips**
-1. **Turn off 5G on the SIM you don't need for data** -- if your home SIM is only used for calls and SMS, set it to 4G/LTE only. Your UK eSIM can stay on 5G.
+1. **Turn off 5G on the SIM you don't need for data** — if your home SIM is only used for calls and SMS, set it to 4G/LTE only. Your UK eSIM can stay on 5G.
 2. **Disable "Allow Cellular Data Switching"** when you don't need it. This feature periodically checks both connections, consuming extra battery.
 3. **Use low power mode** when battery is getting low.
-4. **Consider disabling the home SIM at night** -- if your home SIM doesn't need to be reachable while you sleep, you can temporarily disable it in Settings > Mobile Data.
-5. **Carry a power bank** -- it's a cheap safety net. A 10,000mAh power bank gives you 2-3 full charges and costs under GBP 20.
+4. **Consider disabling the home SIM at night** — if your home SIM doesn't need to be reachable while you sleep, you can temporarily disable it in Settings > Mobile Data.
+5. **Carry a power bank** — it's a cheap safety net. A 10,000mAh power bank gives you 2-3 full charges and costs under GBP 20.
 
 **Real-World Battery Performance**
-In a typical day of use in London -- moderate data usage, some calls on both lines, iMessage and WhatsApp running -- expect your phone to last roughly 80-85% of its normal single-SIM battery life. An iPhone 16 Pro that normally lasts a full day might need a top-up by 8pm instead of 10pm.
+In a typical day of use in London — moderate data usage, some calls on both lines, iMessage and WhatsApp running — expect your phone to last roughly 80-85% of its normal single-SIM battery life. An iPhone 16 Pro that normally lasts a full day might need a top-up by 8pm instead of 10pm.
 
 For heavy users (lots of hotspot tethering, video calls, navigation), the difference is more noticeable. Plan for mid-day charging if you're a power user with dual SIM.
 
@@ -489,8 +489,8 @@ Even with perfectly configured setup, dual SIM can throw up occasional issues. A
 **One SIM Shows "No Service"**
 If one of your SIMs suddenly shows "No Service" while the other works fine:
 
-1. **Toggle the affected SIM off and on** -- Settings > Mobile Data > Tap the SIM > Toggle "Turn On This Line" OFF and ON
-2. **Check for carrier settings update** -- Settings > General > About (wait for prompt)
+1. **Toggle the affected SIM off and on** — Settings > Mobile Data > Tap the SIM > Toggle "Turn On This Line" OFF and ON
+2. **Check for carrier settings update** — Settings > General > About (wait for prompt)
 3. **Try manual network selection** for the affected line
 4. **Restart your phone**
 5. **Remove and re-add the eSIM** if it's the eSIM that's failing
@@ -522,14 +522,14 @@ If your UK eSIM has signal but no data flowing:
 5. Switch to 4G only and test
 6. Restart the phone
 
-For a complete walkthrough of data issues, see our [UK eSIM troubleshooting guide](/blog/uk-esim-troubleshooting/).
+For a complete walkthrough of data issues, see the [UK eSIM troubleshooting guide](/blog/uk-esim-troubleshooting/).
 
 ## Advanced Dual SIM Configurations
 
 Once you've mastered the basics, here are some more advanced setups for specific scenarios.
 
 **Dual eSIM (No Physical SIM)**
-More recent phones support dual eSIM -- two eSIMs active simultaneously with no physical SIM. This applies to:
+More recent phones support dual eSIM — two eSIMs active simultaneously with no physical SIM. This applies to:
 
 - iPhone 13 and later (iPhone 13, 14, 15, 16, 17)
 - Samsung Galaxy S24 and later (some models)
@@ -565,7 +565,7 @@ If you're doing a multi-country trip (UK + Europe), you can set up multiple eSIM
 - Add Roami's multi-country Europe eSIM (covers UK + EU)
 - Add country-specific eSIMs as needed for other destinations
 
-For more on multi-country setups, see our guide to [UK eSIM for multi-country Europe travel](/blog/uk-esim-multi-country-europe/).
+For more on multi-country setups, see the guide to [UK eSIM for multi-country Europe travel](/blog/uk-esim-multi-country-europe/).
 
 ## Frequent Traveller: Managing Your UK eSIM Across Multiple Trips
 
@@ -596,7 +596,7 @@ A smarter approach is to treat your UK eSIM as a permanent fixture on your phone
 |----------|-------------------------------|-------------------|------------------|
 | New eSIM each trip | GBP 15 x 3 = GBP 45 | 10 min x 3 = 30 min | 30 min |
 | Permanent profile + data packs | GBP 12 x 3 = GBP 36 | 0 min | 0 min |
-| **Savings with permanent profile** | **GBP 9 + 30 minutes** | -- | -- |
+| **Savings with permanent profile** | **GBP 9 + 30 minutes** | — | — |
 
 **Which Providers Support This Approach**
 Not all eSIM providers let you keep a profile active between trips. Some deactivate profiles after a period of inactivity. Roami keeps your profile active, so you can top up and go whenever you return to the UK. This makes it the ideal **UK eSIM for frequent traveler annual** use case.
@@ -616,7 +616,7 @@ Roami is ideal for frequent travellers because:
 
 ## Pre-Travel Dual SIM Checklist (UK eSIM Install Before Departure)
 
-Here's a checklist to go through before you leave for the UK. **UK eSIM install before departure** is the golden rule -- doing this at home on WiFi eliminates 90% of airport connectivity issues.
+Here's a checklist to go through before you leave for the UK. **UK eSIM install before departure** is the golden rule — doing this at home on WiFi eliminates 90% of airport connectivity issues.
 
 **Two Weeks Before**
 [ ] Confirm your phone is carrier-unlocked
@@ -650,7 +650,7 @@ Here's a checklist to go through before you leave for the UK. **UK eSIM install 
 **After Landing**
 [ ] Turn off aeroplane mode
 [ ] Wait for both lines to register (30-60 seconds)
-[ ] Check your status bar -- you should see both signal indicators
+[ ] Check your status bar — you should see both signal indicators
 [ ] Open Safari/Chrome to confirm data is flowing
 [ ] Send a test SMS on your home line to confirm SMS works
 [ ] If data isn't working, toggle data roaming OFF and ON for the UK eSIM
@@ -733,7 +733,7 @@ For most travellers visiting the UK, a dual SIM setup with a data eSIM profile i
 
 The setup takes about five minutes, costs nothing beyond the plan itself, and eliminates the two biggest headaches of international travel: losing access to your home number and paying outrageous roaming charges.
 
-If you're using Roami as your data plan, you get the added benefit of auto carrier switching across EE, Vodafone, O2, and Three, which means you're always on the strongest available network. That matters a lot more in a dual SIM setup because your data performance depends entirely on the eSIM -- your home SIM can't bail you out with a better connection (and if it could, you'd pay roaming rates for the privilege).
+If you're using Roami as your data plan, you get the added benefit of auto carrier switching across EE, Vodafone, O2, and Three, which means you're always on the strongest available network. That matters a lot more in a dual SIM setup because your data performance depends entirely on the eSIM — your home SIM can't bail you out with a better connection (and if it could, you'd pay roaming rates for the privilege).
 
 **Quick Decision Guide**
 Still unsure about the right setup? Here's a cheat sheet.
@@ -788,11 +788,11 @@ The bottom line: the right setup depends on your specific needs. Here's the hone
 
 Use **promo code WEB20** for 20% off Roami's UK plans (or try with a [free UK eSIM trial](/free-esim/) first), and make sure to follow the setup steps in this guide before you leave.
 
-Install it tonight. Label the lines clearly. Turn off data roaming on your home SIM. Then stop thinking about it -- the whole point of dual SIM is that it fades into the background.
+Install it tonight. Label the lines clearly. Turn off data roaming on your home SIM. Then stop thinking about it — the whole point of dual SIM is that it fades into the background.
 
 ---
 
-For a complete UK eSIM overview, see our [UK eSIM complete guide](/blog/uk-esim-complete-guide/). For pricing across all providers, see our [UK eSIM price guide](/blog/uk-esim-price-guide/). For telecom standards, the [GSMA](https://www.gsma.com) defines eSIM specifications for international roaming. Check mobile network operator details at [Wikipedia](https://en.wikipedia.org/wiki/Mobile_network_operator). For UK telecom market data, visit [Ofcom](https://www.ofcom.org.uk).
+For a complete UK eSIM overview, see the [UK eSIM complete guide](/blog/uk-esim-complete-guide/). For pricing across all providers, see the [UK eSIM price guide](/blog/uk-esim-price-guide/). For telecom standards, the [GSMA](https://www.gsma.com) defines eSIM specifications for international roaming. Check mobile network operator details at [Wikipedia](https://en.wikipedia.org/wiki/Mobile_network_operator). For UK telecom market data, visit [Ofcom](https://www.ofcom.org.uk).
 
 ## Frequently Asked Questions
 
@@ -800,7 +800,7 @@ For a complete UK eSIM overview, see our [UK eSIM complete guide](/blog/uk-esim-
 Yes. With dual SIM active, your phone uses the UK eSIM for data while your home SIM handles calls and SMS simultaneously. Both lines appear in your status bar and work independently. You can receive calls and texts on either number at any time.
 
 **Will I get charged roaming fees on my home SIM if dual SIM is active?**
-Not for data -- as long as you've set your UK eSIM as the data line and turned off data roaming on your home SIM, your home SIM won't use any data. That said, receiving calls and SMS on your home number while in the UK may incur roaming charges depending on your home provider's plan. Check with them before you travel.
+Not for data — as long as you've set your UK eSIM as the data line and turned off data roaming on your home SIM, your home SIM won't use any data. That said, receiving calls and SMS on your home number while in the UK may incur roaming charges depending on your home provider's plan. Check with them before you travel.
 
 **Does dual SIM drain my battery faster?**
 Yes, running two SIMs uses about 10-15% more battery than a single SIM. The exact impact depends on signal strength and whether you're using 5G on both lines. You can reduce drain by setting your home SIM to 4G-only and disabling Cellular Data Switching when not needed.
@@ -809,7 +809,7 @@ Yes, running two SIMs uses about 10-15% more battery than a single SIM. The exac
 Yes. You can choose which line to use for each outgoing call in your Phone app. Incoming calls to either number will ring through. For calls back home, using your home SIM may be more convenient since your contacts already recognise that number. For local UK calls, using your UK eSIM number avoids international rates.
 
 **What happens to WhatsApp when I use dual SIM with a UK eSIM?**
-WhatsApp continues working exactly as before -- it's tied to your original phone number and uses whichever data connection is active (your UK eSIM). You don't need to change your WhatsApp number or reconfigure anything. All your chats, calls, and media work normally over the UK eSIM's data connection.
+WhatsApp continues working exactly as before — it's tied to your original phone number and uses whichever data connection is active (your UK eSIM). You don't need to change your WhatsApp number or reconfigure anything. All your chats, calls, and media work normally over the UK eSIM's data connection.
 
 **Do I need to unlock my phone to use dual SIM with a UK eSIM?**
 Yes. Carrier-locked phones often restrict dual SIM functionality, even if the phone technically supports eSIM. Contact your home carrier to unlock your phone before travelling. Most carriers will unlock your device for free once your contract is complete, or for a small fee if you're still under contract.
@@ -832,7 +832,7 @@ Yes. Carrier-locked phones often restrict dual SIM functionality, even if the ph
       "name": "Will I get charged roaming fees on my home SIM if dual SIM is active?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Not for data -- as long as you've set your UK eSIM as the data line and turned off data roaming on your home SIM, your home SIM won't use any data. However, receiving calls and SMS on your home number while in the UK may incur roaming charges depending on your home provider's plan."
+        "text": "Not for data — as long as you've set your UK eSIM as the data line and turned off data roaming on your home SIM, your home SIM won't use any data. However, receiving calls and SMS on your home number while in the UK may incur roaming charges depending on your home provider's plan."
       }
     },
     {
@@ -856,7 +856,7 @@ Yes. Carrier-locked phones often restrict dual SIM functionality, even if the ph
       "name": "What happens to WhatsApp when I use dual SIM with a UK eSIM?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "WhatsApp continues working exactly as before -- it's tied to your original phone number and uses whichever data connection is active (your UK eSIM). All your chats, calls, and media work normally over the UK eSIM's data connection."
+        "text": "WhatsApp continues working exactly as before — it's tied to your original phone number and uses whichever data connection is active (your UK eSIM). All your chats, calls, and media work normally over the UK eSIM's data connection."
       }
     },
     {

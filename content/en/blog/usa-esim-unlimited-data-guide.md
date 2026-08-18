@@ -1,9 +1,9 @@
 ---
 title: "USA eSIM Unlimited Data Plans: What Is Truly Unlimited?"
-description: "Need unlimited data for your US trip? We compare every unlimited USA eSIM plan with real speed caps and hotspot limits. Roami offers auto carrier switching."
+description: "Need unlimited data for your US trip? A comparison of every unlimited USA eSIM plan with speed caps and hotspot limits. Roami offers auto carrier switching."
 keywords: ["USA eSIM unlimited data", "best unlimited data eSIM USA", "USA eSIM unlimited hotspot", "Holafly USA unlimited", "USA eSIM no data cap"]
-date: 2026-07-07T10:00:00Z
-lastmod: 2026-07-07T10:00:00Z
+date: 2026-08-17T10:00:00Z
+lastmod: 2026-08-17T10:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected with simple eSIM plans."
 image: "/img/esim/usa/usa-esim-unlimited-data-guide.jpg"
@@ -76,17 +76,18 @@ recentPosts:
   - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
     permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
     date: "2026-05-20"
----For USA eSIM pricing, see our [USA eSIM price guide](/blog/usa-esim-price-guide/).
+---
+For US eSIM pricing, see the [USA eSIM price guide](/blog/usa-esim-price-guide/).
 
-For coverage details, see our [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/).
+For coverage details, see the [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/).
 
-Holafly's unlimited USA eSIM starts at $19 for 5 days but blocks hotspot tethering after 500 MB per day. Visible by Verizon offers truly unlimited hotspot at $45/month but requires identity verification. No single 'unlimited' plan delivers unlimited high-speed 5G with tethering 鈥?tradeoffs exist with every option.
+Holafly's unlimited USA eSIM starts at $19 for 5 days but blocks hotspot tethering after 500 MB per day. Visible by Verizon offers truly unlimited hotspot at $45/month but requires identity verification. No single 'unlimited' plan delivers unlimited high-speed 5G with tethering —tradeoffs exist with every option.
 
-Some unlimited plans truly give you unlimited high-speed data. Others cap you at a certain amount per day and then slow you down. The difference matters 鈥?especially if you plan to stream video, join video calls, or use your phone as a hotspot.
+Some unlimited plans truly give you unlimited high-speed data. Others cap you at a certain amount per day and then slow you down. The difference matters —especially if you plan to stream video, join video calls, or use your phone as a hotspot.
 
-This guide compares every unlimited [usa esim](/usa-esim/) plan on the market, explains the fine print, and tells you which one actually delivers. [Trustpilot reviews](https://www.trustpilot.com/) consistently highlight the gap between advertised unlimited plans and real-world hotspot restrictions. If you're comparing fixed-data plans instead, the [USA eSIM price guide](/blog/usa-esim-price-guide/) breaks down pricing at every data tier.
+This guide compares every unlimited [usa esim](/united-states-esim/) plan on the market, explains the fine print, and tells you which one actually delivers. The gap between advertised unlimited plans and real-world hotspot restrictions is a common source of frustration. If you're comparing fixed-data plans instead, the [USA eSIM price guide](/blog/usa-esim-price-guide/) breaks down pricing at every data tier.
 
-If you're considering a provider that offers automatic network switching and live support alongside its plans, a [usa esim](/usa-esim/) is worth checking out before committing to an unlimited plan.
+If you're considering a provider that offers automatic network switching and live support alongside its plans, a [usa esim](/united-states-esim/) is worth checking out before committing to an unlimited plan.
 
 ---
 
@@ -94,7 +95,7 @@ If you're considering a provider that offers automatic network switching and liv
 
 All unlimited plans have limits. The question is what kind. [GSMA's eSIM technical specifications](https://www.gsma.com/esim/) confirm that data management policies like FUP are set by providers, not by the technology itself.
 
-**Fair usage policy (FUP) limits:** Most unlimited plans give you a certain amount of high-speed data per day (typically 2-5GB). Once you exceed that, your speed drops to 128-512 kbps 鈥?enough for messaging and maps, but not for video streaming or video calls. The plan is still technically "unlimited" 鈥?you can keep using data 鈥?but the experience changes dramatically.
+**Fair usage policy (FUP) limits:** Most unlimited plans give you a certain amount of high-speed data per day (typically 2-5GB). Once you exceed that, your speed drops to 128-512 kbps —enough for messaging and maps, but not for video streaming or video calls. The plan is still technically "unlimited" —you can keep using data —but the experience changes dramatically.
 
 **Hotspot limits:** Some unlimited plans restrict hotspot sharing. Holafly caps hotspot at 500MB per day. Others allow unlimited hotspot but count it against your fair usage cap.
 
@@ -104,13 +105,13 @@ All unlimited plans have limits. The question is what kind. [GSMA's eSIM technic
 
 Every unlimited plan has restrictions buried in its terms of service. Here's what to look for when evaluating a plan:
 
-**Daily high-speed caps:** The most common restriction on travel eSIM unlimited plans. Providers allocate a set amount of high-speed data per day (often 2-5GB, though some are higher). After you exceed this amount, speeds are reduced for the remainder of the day. The cap resets at midnight. On a 7-day plan with a 3GB daily cap, you get 21GB of high-speed data total 鈥?not unlimited.
+**Daily high-speed caps:** The most common restriction on travel eSIM unlimited plans. Providers allocate a set amount of high-speed data per day (often 2-5GB, though some are higher). After you exceed this amount, speeds are reduced for the remainder of the day. The cap resets at midnight. On a 7-day plan with a 3GB daily cap, you get 21GB of high-speed data total —not unlimited.
 
 **Monthly high-speed caps:** Common on US carrier prepaid unlimited plans. Tello gives you 25GB at full speed before throttling to 500kbps. Visible gives you truly unlimited data but caps hotspot at 5Mbps. Ubigi's unlimited plan has approximately a 60GB total soft cap.
 
 **Video streaming restrictions:** Some plans restrict video streaming quality to 480p or 720p, even when you have full-speed data available. This is common on US carrier prepaid plans (Tello, Visible) but less common on international travel eSIMs.
 
-**Deprioritization:** During network congestion, some plans are "deprioritized" 鈥?your data traffic is slowed down to prioritize traffic from the carrier's direct customers. This is common on MVNO plans (Tello, Visible, Google Fi) and some travel eSIMs. Deprioritization doesn't cap your data but can make speeds unusable in crowded areas like stadiums, airports, and convention centers.
+**Deprioritization:** During network congestion, some plans are "deprioritized" —your data traffic is slowed down to prioritize traffic from the carrier's direct customers. This is common on MVNO plans (Tello, Visible, Google Fi) and some travel eSIMs. Deprioritization doesn't cap your data but can make speeds unusable in crowded areas like stadiums, airports, and convention centers.
 
 **Zero-rating:** Some carriers exempt certain data types from your usage cap. For example, T-Mobile's "Binge On" and AT&T's "Stream Saver" don't count certain streaming services toward your data limit. These programs change frequently and are rarely available on travel eSIMs.
 
@@ -134,7 +135,7 @@ Every unlimited plan has restrictions buried in its terms of service. Here's wha
 | Visible | $25/mo | None (truly unlimited) | Unlimited (5Mbps) | Verizon | Remote areas |
 | Google Fi | $65/mo | None (truly unlimited) | Full speed | T-Mobile | Multi-device |
 
-For travelers who want a provider that automatically switches between carriers 鈥?especially if you're visiting multiple regions where network coverage varies 鈥?a [USA eSIM](/united-states-esim/) with auto network switching can complement the unlimited data offerings above.
+For travelers who want a provider that automatically switches between carriers —especially if you're visiting multiple regions where network coverage varies —a [US eSIM](/united-states-esim/) with auto network switching can complement the unlimited data offerings above.
 
 ### Additional unlimited and high-data plans worth considering
 
@@ -167,7 +168,7 @@ For travelers who want a provider that automatically switches between carriers �
 
 ---
 
-## What is cheapest unlimited data eSIM USA? 鈥?30-day price comparison
+## What is cheapest unlimited data eSIM USA? —30-day price comparison
 
 If you're staying a month or more, the math changes entirely. Here's how the cheapest unlimited data eSIM USA 30-day options stack up.
 
@@ -179,7 +180,7 @@ If you're staying a month or more, the math changes entirely. Here's how the che
 | **Holafly** | $74.90/mo | None (truly unlimited) | 500MB/day | No |
 | **Google Fi** | $65/mo | None (truly unlimited) | Full speed | Yes |
 
-**Visible at $25/month** is the cheapest unlimited data eSIM USA 30-day option for travelers who can use Verizon's network. It's a full US mobile carrier, not a travel eSIM, which means setup requires a US address and slightly more effort. But for $25 with truly unlimited data and hotspot included, it's hard to beat. For a deeper comparison of Verizon's network coverage against other carriers, [OpenSignal's 2026 US mobile network report](https://www.opensignal.com/reports) shows where Verizon's rural LTE footprint outperforms T-Mobile and AT&T.
+**Visible at $25/month** is the cheapest unlimited data eSIM USA 30-day option for travelers who can use Verizon's network. It's a full US mobile carrier, not a travel eSIM, which means setup requires a US address and slightly more effort. But for $25 with truly unlimited data and hotspot included, it's hard to beat. For a deeper comparison of Verizon's network coverage against other carriers, Verizon's rural LTE footprint outperforms T-Mobile and AT&T in many areas.
 
 **Tello at $35/month** is the cheapest prepaid plan that includes a US phone number, with 25GB of high-speed data before throttling. For a 30-day trip, Tello offers the best balance of price, data, and features among travel-oriented options.
 
@@ -208,7 +209,7 @@ The decision between unlimited and fixed-data plans depends on how much data you
 
 ---
 
-## USA eSIM unlimited data plan price 2026 鈥?daily breakdown
+## USA eSIM unlimited data plan price 2026 —daily breakdown
 
 For shorter trips, the daily price matters more than the monthly total. Here's the USA eSIM unlimited data plan price 2026 broken down by day.
 
@@ -222,7 +223,7 @@ For shorter trips, the daily price matters more than the monthly total. Here's t
 | Ubigi | 7 days | $22.00 | $3.14 |
 | Ubigi | 30 days | $44.00 | $1.47 |
 
-Holafly's per-day rate drops as you buy longer plans. At 30 days, it's $2.50/day 鈥?cheaper than Ubigi's 7-day rate but more expensive than Ubigi's 30-day rate ($1.47/day) if you consider that Ubigi has a ~60GB soft cap.
+Holafly's per-day rate drops as you buy longer plans. At 30 days, it's $2.50/day —cheaper than Ubigi's 7-day rate but more expensive than Ubigi's 30-day rate ($1.47/day) if you consider that Ubigi has a ~60GB soft cap.
 
 **The pricing takeaway:** For trips under 7 days, Ubigi is slightly cheaper per day. For trips over 15 days, Holafly's per-day rate becomes competitive if you truly need unlimited data without any cap.
 
@@ -244,21 +245,21 @@ Fixed-data plans consistently offer lower per-GB costs than unlimited plans. The
 
 ---
 
-## Does USA eSIM support hotspot and tethering? 鈥?A provider-by-provider answer
+## Does USA eSIM support hotspot and tethering? —A provider-by-provider answer
 
 Hotspot support varies widely across providers. If you need to connect a laptop, tablet, or share your connection with a travel companion, this is the most important question.
 
 | Provider | Hotspot support | Limitations |
 |:---------|:---------------:|:------------|
-| **Holafly** | Yes | **500MB/day** 鈥?enough for one 45-minute Zoom call or 30 minutes of HD streaming |
-| **Ubigi** | Yes | **Unlimited** 鈥?no extra charge, counts against your ~60GB soft cap |
-| **Tello** | Yes | **Unlimited** 鈥?uses your plan data (25GB at full speed, then throttled) |
-| **Visible** | Yes | **Unlimited** 鈥?capped at 5Mbps, enough for browsing and email but not HD streaming |
-| **Google Fi** | Yes | **Full speed** 鈥?no hotspot limitations |
+| **Holafly** | Yes | **500MB/day** —enough for one 45-minute Zoom call or 30 minutes of HD streaming |
+| **Ubigi** | Yes | **Unlimited** —no extra charge, counts against your ~60GB soft cap |
+| **Tello** | Yes | **Unlimited** —uses your plan data (25GB at full speed, then throttled) |
+| **Visible** | Yes | **Unlimited** —capped at 5Mbps, enough for browsing and email but not HD streaming |
+| **Google Fi** | Yes | **Full speed** —no hotspot limitations |
 
 **Does USA eSIM support hotspot and tethering?** Yes, every major provider does. The real question is **how much** hotspot data you get and **how fast** it will be.
 
-If USA eSIM unlimited hotspot is your priority, Ubigi's unlimited plan is the best balance 鈥?unlimited hotspot at no extra charge with a generous soft cap. If you only need occasional laptop access, Holafly's 500MB/day may be enough. If you're visiting rural areas and need reliable hotspot for work, Visible on Verizon's network is your best option.
+If USA eSIM unlimited hotspot is your priority, Ubigi's unlimited plan is the best balance —unlimited hotspot at no extra charge with a generous soft cap. If you only need occasional laptop access, Holafly's 500MB/day may be enough. If you're visiting rural areas and need reliable hotspot for work, Visible on Verizon's network is your best option.
 
 For travelers who prioritize seamless connectivity across multiple devices, a [USA eSIM](/united-states-esim/) with automatic network switching can help maintain a stable connection for hotspot tethering even when moving between different carrier coverage zones.
 
@@ -266,11 +267,11 @@ For travelers who prioritize seamless connectivity across multiple devices, a [U
 
 Lab conditions and real-world hotspot performance often differ. Here's what travelers report for each provider:
 
-**Holafly hotspot (500MB/day cap, AT&T):** At the start of each day, hotspot speeds match the phone's data speed (typically 20-100 Mbps on AT&T LTE/5G). After 500MB of hotspot usage, hotspot is blocked entirely (not slowed 鈥?blocked). You cannot reconnect your laptop until the next calendar day. This is the strictest hotspot policy of any major provider.
+**Holafly hotspot (500MB/day cap, AT&T):** At the start of each day, hotspot speeds match the phone's data speed. After 500MB of hotspot usage, hotspot is blocked entirely (not slowed —blocked). You cannot reconnect your laptop until the next calendar day. This is the strictest hotspot policy of any major provider.
 
-**Ubigi hotspot (unlimited, T-Mobile):** Hotspot speeds match phone data speeds (typically 50-200 Mbps on T-Mobile 5G in cities). There is no separate hotspot cap. The ~60GB total soft cap applies to combined phone + hotspot usage. In real-world tests, travelers report hotspot speeds of 20-80 Mbps on highways and 5-20 Mbps in rural areas.
+**Ubigi hotspot (unlimited, T-Mobile):** Hotspot speeds match phone data speeds. There is no separate hotspot cap. The ~60GB total soft cap applies to combined phone + hotspot usage. Hotspot speeds are generally strong on highways and more limited in rural areas.
 
-**Tello hotspot (uses plan data, T-Mobile):** Hotspot is treated the same as on-phone data. At full speed (before the 25GB cap), hotspot typically performs at 10-50 Mbps depending on location and congestion. After the 25GB cap, hotspot slows to 500 kbps along with on-phone data 鈥?enough for email but not video or large file transfers.
+**Tello hotspot (uses plan data, T-Mobile):** Hotspot is treated the same as on-phone data. At full speed (before the 25GB cap), hotspot typically performs well depending on location and congestion. After the 25GB cap, hotspot slows to 500 kbps along with on-phone data —enough for email but not video or large file transfers.
 
 **Visible hotspot (unlimited, 5Mbps cap, Verizon):** Despite the 5Mbps cap, Visible hotspot is surprisingly usable. At 5Mbps, you can: browse websites, send emails with attachments, use Google Maps, make VoIP calls (WhatsApp, Skype), and stream music. You cannot: stream HD video, download large files quickly, or join high-quality video calls. The 5Mbps cap is consistent regardless of your phone's signal strength.
 
@@ -278,13 +279,13 @@ Lab conditions and real-world hotspot performance often differ. Here's what trav
 
 ---
 
-## Visible USA eSIM prepaid unlimited 鈥?the Verizon option
+## Visible USA eSIM prepaid unlimited —the Verizon option
 
 Visible is worth a closer look because it's often overlooked by travelers. Unlike the other options in this guide, Visible is a full US mobile carrier (Verizon MVNO), not a travel eSIM provider.
 
-**Visible USA eSIM prepaid unlimited** plan features:
-- **Price:** $25/month 鈥?the cheapest unlimited option
-- **Network:** Verizon 鈥?the best rural coverage in the US
+**Visible US eSIM prepaid unlimited** plan features:
+- **Price:** $25/month —the cheapest unlimited option
+- **Network:** Verizon —the best rural coverage in the US
 - **Data:** Truly unlimited, no daily or monthly cap
 - **Hotspot:** Unlimited but capped at 5Mbps
 - **US phone number:** Yes
@@ -296,15 +297,15 @@ Visible is worth a closer look because it's often overlooked by travelers. Unlik
 - eSIM activation through the Visible app (requires working data)
 - A US phone number for account verification (you can use a friend's number)
 
-For a 30+ day stay, Visible is the best value in this entire comparison. For a 7-day trip, the setup overhead isn't worth it 鈥?stick with Holafly or Ubigi.
+For a 30+ day stay, Visible is the best value in this entire comparison. For a 7-day trip, the setup overhead isn't worth it —stick with Holafly or Ubigi.
 
-[CNET's guide to Visible and other MVNOs](https://www.cnet.com/tech/mobile/best-prepaid-phone-plans/) offers additional context on how Visible compares to other prepaid carriers for short-term visitors.
+Independent prepaid plan comparisons offer additional context on how Visible compares to other prepaid carriers for short-term visitors.
 
 ### Common Visible setup issues and workarounds
 
 Travelers who try Visible often encounter specific setup hurdles:
 
-**Issue 1: No US billing address.** If you don't have a US address you can use, consider: using a friend's US address, using a hotel address (some hotels accept mail for guests), or using a virtual mailbox service. Never use a randomly generated address 鈥?Visible may verify your address against credit databases.
+**Issue 1: No US billing address.** If you don't have a US address you can use, consider: using a friend's US address, using a hotel address (some hotels accept mail for guests), or using a virtual mailbox service. Never use a randomly generated address —Visible may verify your address against credit databases.
 
 **Issue 2: eSIM activation without a working phone.** The Visible app requires an internet connection to activate the eSIM. If you land in the US without any data connection, you won't be able to activate Visible. Solution: install the Visible eSIM and start activation while on WiFi at the airport, before leaving the arrivals area. Most US airports have free WiFi.
 
@@ -326,37 +327,37 @@ Holafly is the only provider that offers a USA eSIM no data cap, with truly unli
 | 15 days | $50.90 | $3.39 |
 | 30 days | $74.90 | $2.50 |
 
-Runs on AT&T's network, which has solid rural coverage. Customer support is 24/7 live chat 鈥?the best in the industry.
+Runs on AT&T's network, which has solid rural coverage. Customer support is 24/7 live chat —the best in the industry.
 
-**The hotspot catch:** Holafly caps hotspot at 500MB per day. That's roughly one 45-minute Zoom call or 30 minutes of HD streaming through a laptop. Trustpilot reviews consistently flag this as the most common frustration. If you need laptop tethering, you may want to supplement with a fixed-data plan for hotspot use, or choose a different provider.
+**The hotspot catch:** Holafly caps hotspot at 500MB per day. That's roughly one 45-minute Zoom call or 30 minutes of HD streaming through a laptop. This is the most common frustration among heavy data users. If you need laptop tethering, you may want to supplement with a fixed-data plan for hotspot use, or choose a different provider.
 
 **Best for:** Heavy phone users who stream, upload, and don't want to track anything. For travelers seeking the **best unlimited data eSIM USA** for streaming-heavy trips, Holafly is the top choice.
 
 **Not ideal for:** Light users who would pay less with a fixed-data plan. Anyone who needs reliable laptop hotspot.
 
-### Holafly speed tests and real-world performance
+### Holafly real-world performance
 
-Independent tests of Holafly's unlimited plan on AT&T's network show:
+Holafly's unlimited plan runs on AT&T's network. Typical performance by location:
 
-- **Urban areas (New York, Chicago, LA):** 20-60 Mbps average download speeds. Enough for HD streaming, video calls, and fast downloads.
-- **Suburban areas:** 15-40 Mbps average. Reliable for all typical travel use.
-- **Rural areas and highways:** 5-20 Mbps average. Adequate for maps, music streaming, and messaging. Marginal for video calls.
-- **Congested areas (stadiums, conventions):** 2-10 Mbps during peak usage. Deprioritization is noticeable.
+- **Urban areas (New York, Chicago, LA):** strong download speeds — enough for HD streaming, video calls, and fast downloads.
+- **Suburban areas:** reliable speeds for all typical travel use.
+- **Rural areas and highways:** adequate for maps, music streaming, and messaging, but marginal for video calls.
+- **Congested areas (stadiums, conventions):** slower during peak usage, when deprioritization becomes noticeable.
 
 Holafly's speed is generally sufficient for any phone-based activity. The primary limitation is the hotspot cap, not the connection speed.
 
 ---
 
-## Ubigi unlimited plan 鈥?the hotspot-friendly alternative
+## Ubigi unlimited plan —the hotspot-friendly alternative
 
-Ubigi's unlimited plan works differently. Rather than a daily cap, it gives you approximately 60GB of high-speed data before throttling kicks in. For typical travel usage, 60GB over 7 days is effectively unlimited 鈥?you'd have to work hard to hit that cap.
+Ubigi's unlimited plan works differently. Rather than a daily cap, it gives you approximately 60GB of high-speed data before throttling kicks in. For typical travel usage, 60GB over 7 days is effectively unlimited —you'd have to work hard to hit that cap.
 
 | Duration | Price | Per day |
 |:---------|:-----|:-------:|
 | 7 days | $22.00 | $3.14 |
 | 30 days | $44.00 | $1.47 |
 
-Runs on T-Mobile. Hotspot is unlimited and included at no extra charge 鈥?a significant advantage over Holafly.
+Runs on T-Mobile. Hotspot is unlimited and included at no extra charge —a significant advantage over Holafly.
 
 **The trade-off:** T-Mobile's network is excellent in cities but weak in rural areas. If you're staying in urban areas, this is the best value unlimited option. It's the best **USA eSIM with unlimited hotspot tethering** for city travelers.
 
@@ -364,12 +365,12 @@ Runs on T-Mobile. Hotspot is unlimited and included at no extra charge 鈥?a sig
 
 **Not i
 
-For USA eSIM pricing comparisons, see our [USA eSIM price guide](/blog/usa-esim-price-guide/).
-deal for:** Rural travel or national park visits. If your trip includes both cities and rural areas, a [USA eSIM](/united-states-esim/) with Unlike Airalo which uses T-Mobile only, Roami offers multi-network switching across AT&T, Verizon and T-Mobile automatic carrier switching might be a better fit since it can handle network changes between regions.
+For USA eSIM pricing comparisons, see the [USA eSIM price guide](/blog/usa-esim-price-guide/).
+deal for:** Rural travel or national park visits. If your trip includes both cities and rural areas, a [US eSIM](/united-states-esim/) with Unlike Airalo which uses T-Mobile only, Roami offers multi-network switching across AT&T, Verizon and T-Mobile automatic carrier switching might be a better fit since it can handle network changes between regions.
 
 ---
 
-## Tello Unlimited 鈥?the budget long-stay plan
+## Tello Unlimited —the budget long-stay plan
 
 Tello's unlimited plan is priced for long stays. At $35 for 30 days with a US phone number included, it's the best value for anyone staying a month or more.
 
@@ -377,7 +378,7 @@ Tello's unlimited plan is priced for long stays. At $35 for 30 days with a US ph
 |:----|:---------|:-----:|:---------:|
 | Unlimited | 30 days | $35.00 | Yes |
 
-The first 25GB are at full speed. After that, data drops to 500kbps 鈥?usable for messaging and maps, but not for streaming.
+The first 25GB are at full speed. After that, data drops to 500kbps —usable for messaging and maps, but not for streaming.
 
 **The trade-off:** T-Mobile MVNO, so coverage in rural areas is limited. The US number is useful but may not matter for all travelers.
 
@@ -385,7 +386,7 @@ The first 25GB are at full speed. After that, data drops to 500kbps 鈥?usable f
 
 One of Tello's most useful features for travelers is plan customization:
 
-**Build-your-own plan:** Tello allows you to customize data and minutes separately. You can choose 1GB to unlimited data and 0 to unlimited minutes. This flexibility is useful if you need lots of data but few voice minutes, or vice versa. A 10GB plan with unlimited minutes costs $20/month 鈥?cheaper than the unlimited data version if you don't need 25GB+.
+**Build-your-own plan:** Tello allows you to customize data and minutes separately. You can choose 1GB to unlimited data and 0 to unlimited minutes. This flexibility is useful if you need lots of data but few voice minutes, or vice versa. A 10GB plan with unlimited minutes costs $20/month —cheaper than the unlimited data version if you don't need 25GB+.
 
 **Data rollover:** If you manually renew your plan before the current billing period ends, unused data rolls over. This is useful for long-stay travelers whose data usage varies from month to month. You can build up a data reserve during low-usage months for use during travel-heavy months.
 
@@ -393,9 +394,9 @@ One of Tello's most useful features for travelers is plan customization:
 
 ---
 
-## Google Fi Simply Unlimited 鈥?the family plan
+## Google Fi Simply Unlimited —the family plan
 
-Google Fi's Simply Unlimited plan costs $65/month and includes full-speed hotspot, a US phone number, and coverage across 200+ countries. It works on phones, tablets, and select laptops 鈥?unusual for a mobile plan.
+Google Fi's Simply Unlimited plan costs $65/month and includes full-speed hotspot, a US phone number, and coverage across 200+ countries. It works on phones, tablets, and select laptops —unusual for a mobile plan.
 
 For a family of three sharing the plan, it works out to roughly $22/person. For solo travelers on short trips, the monthly minimum makes it expensive.
 
@@ -415,7 +416,7 @@ What sets Google Fi apart from other unlimited options is its support for tablet
 
 ## Unlimited vs fixed-data USA eSIM: which is better value?
 
-Let's compare a 7-day trip across unlimited and fixed-data options.
+Comparing a 7-day trip across unlimited and fixed-data options.
 
 | Provider | Type | Price | What you get |
 |:---------|:----|:-----:|:-------------|
@@ -427,7 +428,7 @@ Let's compare a 7-day trip across unlimited and fixed-data options.
 
 For light to moderate users (under 5GB per week), fixed-data plans are significantly cheaper. Unlimited plans only make financial sense if you consistently use more than 10GB per week.
 
-[Reddit's r/eSIM community](https://www.reddit.com/r/eSIM/) has extensive discussions on whether unlimited plans are worth it for US travel 鈥?most frequent travelers agree that fixed-data plans are better value for stays under 2 weeks.
+[Reddit's r/eSIM community](https://www.reddit.com/r/eSIM/) has extensive discussions on whether unlimited plans are worth it for US travel —most frequent travelers agree that fixed-data plans are better value for stays under 2 weeks.
 
 ### How to estimate your daily data usage
 
@@ -449,7 +450,7 @@ Not sure how much data you'll actually use? Here's a typical breakdown by activi
 | Short video upload (TikTok/Reels) | 10-50MB | Per video |
 | Email (text only) | <1MB | Per email |
 | Email with attachments | 1-5MB | Per email |
-| App updates | 100-500MB | Per update 鈥?do on WiFi |
+| App updates | 100-500MB | Per update —do on WiFi |
 | WhatsApp voice call | 1MB | Per minute |
 | WhatsApp video call | 10-20MB | Per minute |
 
@@ -464,9 +465,9 @@ Not sure how much data you'll actually use? Here's a typical breakdown by activi
 
 **Weather and geography affect unlimited data speeds** more than many travelers realize.
 
-Heavy rain and snow can reduce cellular speeds on all unlimited plans. Rain attenuates cellular signals at higher frequencies like 5G C-band and mmWave 鈥?speeds can drop by 20-40% during storms regardless of your provider. Mountain valleys, dense forests, and urban canyons between tall buildings also reduce signal strength. These are physical limitations of cellular technology, not provider throttling. Switching from 5G to 4G LTE provides more stable connectivity during adverse weather conditions.
+Heavy rain and snow can reduce cellular speeds on all unlimited plans. Rain attenuates cellular signals at higher frequencies like 5G C-band and mmWave —speeds can drop by 20-40% during storms regardless of your provider. Mountain valleys, dense forests, and urban canyons between tall buildings also reduce signal strength. These are physical limitations of cellular technology, not provider throttling. Switching from 5G to 4G LTE provides more stable connectivity during adverse weather conditions.
 
-**When unlimited plans get you flagged:** Providers monitor for excessive usage, even on "unlimited" plans. Using more than 100GB in a billing cycle on a travel unlimited plan may trigger a fair use review. Activities that consume this much data in a short period include: downloading large files for work, streaming 4K video for hours daily, or running a personal hotspot as a home internet replacement. For typical travel usage 鈥?maps, social media, messaging, occasional streaming 鈥?no unlimited plan will flag your account.
+**When unlimited plans get you flagged:** Providers monitor for excessive usage, even on "unlimited" plans. Using more than 100GB in a billing cycle on a travel unlimited plan may trigger a fair use review. Activities that consume this much data in a short period include: downloading large files for work, streaming 4K video for hours daily, or running a personal hotspot as a home internet replacement. For typical travel usage —maps, social media, messaging, occasional streaming —no unlimited plan will flag your account.
 
 ### Video streaming quality by plan
 
@@ -494,7 +495,7 @@ The difference between 480p and 1080p is significant on a phone screen. At 480p,
 | Traveling with family | Google Fi | Multi-device sharing |
 | Visiting rural areas | Visible (Verizon) | Verizon's LTE reaches everywhere |
 
-For travelers who want the flexibility to switch between unlimited and fixed-data plans as needed, or who prefer a provider that manages network selection automatically, a [usa esim](/usa-esim/) with flexible plan options is worth keeping in mind.
+For travelers who want the flexibility to switch between unlimited and fixed-data plans as needed, or who prefer a provider that manages network selection automatically, a [usa esim](/united-states-esim/) with flexible plan options is worth keeping in mind.
 
 ---
 
@@ -502,25 +503,25 @@ For travelers who want the flexibility to switch between unlimited and fixed-dat
 
 Unlimited plan speeds vary by provider, network, and location. Here's what travelers report in real-world usage across major US cities:
 
-| Provider | Typical 5G download (urban) | Typical 5G download (suburban) | Typical 4G LTE download |
-|:---------|:--------------------------:|:------------------------------:|:-----------------------:|
-| Holafly (AT&T) | 20-80 Mbps | 15-40 Mbps | 10-25 Mbps |
-| Ubigi (T-Mobile) | 50-200 Mbps | 20-80 Mbps | 15-40 Mbps |
-| Tello (T-Mobile) | 50-150 Mbps (deprioritized) | 15-60 Mbps (deprioritized) | 10-30 Mbps (deprioritized) |
-| Visible (Verizon) | 10-50 Mbps (deprioritized) | 10-30 Mbps (deprioritized) | 5-20 Mbps (deprioritized) |
-| Google Fi (T-Mobile) | 50-200 Mbps | 20-80 Mbps | 15-40 Mbps |
+| Provider | 5G download (urban) | 5G download (suburban) | 4G LTE download |
+|:---------|:-------------------:|:----------------------:|:----------------:|
+| Holafly (AT&T) | Moderate | Moderate | Moderate |
+| Ubigi (T-Mobile) | Fastest | Fast | Fast |
+| Tello (T-Mobile) | Fast (deprioritized) | Moderate (deprioritized) | Moderate (deprioritized) |
+| Visible (Verizon) | Moderate (deprioritized) | Moderate (deprioritized) | Slow (deprioritized) |
+| Google Fi (T-Mobile) | Fastest | Fast | Fast |
 
-### Key observations from real-world speed tests:
+### Key observations:
 
-**Holafly (AT&T)** delivers the most consistent speeds but rarely the fastest. AT&T's network prioritizes stability over peak speed. In congested areas like airports and stadiums, Holafly's speeds can drop to 5-10 Mbps but rarely fail entirely. For travelers who need reliable connectivity rather than extreme speed, Holafly's consistency is an advantage.
+**Holafly (AT&T)** delivers the most consistent speeds but rarely the fastest. AT&T's network prioritizes stability over peak speed. In congested areas like airports and stadiums, Holafly's speeds can drop but rarely fail entirely. For travelers who need reliable connectivity rather than extreme speed, Holafly's consistency is an advantage.
 
-**Ubigi (T-Mobile)** delivers the fastest peak speeds but with more variability. In downtown areas with strong T-Mobile 5G, Ubigi regularly exceeds 100 Mbps. In areas between cell towers, speeds can fluctuate dramatically from 100 Mbps to 5 Mbps within a few blocks. T-Mobile's 5G network prioritizes speed over consistency.
+**Ubigi (T-Mobile)** delivers the fastest peak speeds but with more variability. In downtown areas with strong T-Mobile 5G, Ubigi regularly delivers fast speeds. In areas between cell towers, speeds can fluctuate dramatically within a few blocks. T-Mobile's 5G network prioritizes speed over consistency.
 
-**Tello (T-Mobile)** is deprioritized behind T-Mobile's own customers and Google Fi users. During normal hours in most locations, deprioritization is not noticeable. During peak hours in crowded areas (4-7 PM in downtown areas, during events), Tello speeds can drop to 1-5 Mbps while Ubigi maintains 20+ Mbps. For travelers who need reliable daytime speeds, the deprioritization difference between Tello and Ubigi is worth the price premium.
+**Tello (T-Mobile)** is deprioritized behind T-Mobile's own customers and Google Fi users. During normal hours in most locations, deprioritization is not noticeable. During peak hours in crowded areas (4-7 PM in downtown areas, during events), Tello speeds can drop significantly while Ubigi maintains faster speeds. For travelers who need reliable daytime speeds, the deprioritization difference between Tello and Ubigi is worth the price premium.
 
-**Visible (Verizon)** faces the most aggressive deprioritization. In rural areas where Verizon's network is not congested, Visible performs well (10-30 Mbps). In urban areas during peak hours, Visible speeds can drop below 1 Mbps. The 5Mbps hotspot cap further limits Visible's utility for power users.
+**Visible (Verizon)** faces the most aggressive deprioritization. In rural areas where Verizon's network is not congested, Visible performs well. In urban areas during peak hours, Visible speeds can drop significantly. The 5Mbps hotspot cap further limits Visible's utility for power users.
 
-**Google Fi (T-Mobile)** is not deprioritized as heavily as Tello, because Google Fi pays T-Mobile for higher priority data. In speed tests, Google Fi typically matches Ubigi's performance on T-Mobile's network, making it the fastest unlimited option among those tested for city travel.
+**Google Fi (T-Mobile)** is not deprioritized as heavily as Tello, because Google Fi pays T-Mobile for higher priority data. Google Fi's performance on T-Mobile's network is comparable to Ubigi's, making it among the fastest unlimited options for city travel.
 
 ## Unlimited plan stacking: combining plans for maximum value
 
@@ -571,7 +572,7 @@ Making the final choice between unlimited plans comes down to answering three ke
 
 **Question 2: Do you need hotspot?** If you must connect a laptop or tablet regularly, choose Ubigi (unlimited hotspot) or Google Fi (full-speed hotspot) over Holafly (500MB/day cap) or Visible (5Mbps cap). If you only need occasional hotspot for emergency laptop use, Holafly's 500MB/day is usually sufficient for email and basic browsing. For heavy hotspot users, Ubigi's unlimited plan is the best balance of price and capability.
 
-**Question 3: How long are you staying?** For trips under 14 days, Ubigi's 7-day unlimited at $22 or Holafly's 7-day at $27 are the best options. For 30+ day stays, Visible at $25/month or Tello at $35/month are significantly cheaper than travel eSIM unlimited plans. The break-even point between travel eSIMs and US carrier prepaid plans is approximately 21 days 鈥?beyond that, US carrier plans are consistently more cost-effective.
+**Question 3: How long are you staying?** For trips under 14 days, Ubigi's 7-day unlimited at $22 or Holafly's 7-day at $27 are the best options. For 30+ day stays, Visible at $25/month or Tello at $35/month are significantly cheaper than travel eSIM unlimited plans. The break-even point between travel eSIMs and US carrier prepaid plans is approximately 21 days —beyond that, US carrier plans are consistently more cost-effective.
 
 ---
 
@@ -587,7 +588,7 @@ Yes, all major providers support hotspot. The differences are in how much you ca
 Holafly and Visible are the closest to truly unlimited. Most other providers have fair usage caps (typically 25-60GB) or throttle after a daily limit. Always check the fine print before buying.
 
 ### Can I use an unlimited eSIM as a hotspot?
-Holafly caps hotspot at 500MB/day. Ubigi's unlimited plan includes full hotspot. Visible caps hotspot at 5Mbps. Fixed-data plans generally allow unlimited hotspot 鈥?the [USA eSIM price guide](/blog/usa-esim-price-guide/) has the details for each provider.
+Holafly caps hotspot at 500MB/day. Ubigi's unlimited plan includes full hotspot. Visible caps hotspot at 5Mbps. Fixed-data plans generally allow unlimited hotspot —the [USA eSIM price guide](/blog/usa-esim-price-guide/) has the details for each provider.
 
 ### What is the cheapest unlimited USA eSIM with a phone number?
 Tello at $35/month with 25GB high-speed data is the cheapest that includes a real US number. Visible at $25/month is cheaper but may require more setup effort.
@@ -599,7 +600,7 @@ Yes. Tello unlimited at $35/month and Google Fi Simply Unlimited at $65/month bo
 Even on unlimited plans, tracking your data usage helps avoid unexpected throttling. iPhone users can check Settings -> Cellular -> Current Period. Android users go to Settings -> Network & Internet -> Data Usage. Holafly users can check usage through the app. Ubigi's unlimited plan tracks against the 60GB soft cap through its app. Setting a data usage alert on your phone at 20GB for a 7-day trip or 40GB for a 30-day trip gives you a warning well before any throttling kicks in.
 
 ### What about weather and geography?
-Heavy rain, snow, and storms can reduce cellular speeds on all unlimited plans. Rain attenuates cellular signals 鈥?especially at higher frequencies like 5G mmWave. During storms, speeds can drop by 20-40% regardless of your provider. Mountain valleys, dense forests, and urban canyons also reduce signal strength. Switching from 5G to 4G LTE provides more stable connectivity during adverse weather conditions.
+Heavy rain, snow, and storms can reduce cellular speeds on all unlimited plans. Rain attenuates cellular signals —especially at higher frequencies like 5G mmWave. During storms, speeds can drop by 20-40% regardless of your provider. Mountain valleys, dense forests, and urban canyons also reduce signal strength. Switching from 5G to 4G LTE provides more stable connectivity during adverse weather conditions.
 
 ### What happens if I exceed my unlimited plan's fair usage cap?
 Once you exceed the cap, speeds are reduced to 128-512 kbps depending on the provider. At 128 kbps, you can: send text messages (WhatsApp, iMessage, SMS), use text-based email, browse simple websites (with images disabled), and navigate with maps (though map tiles will load slowly). You cannot: stream video or music, make video calls, load image-heavy websites, or use social media apps. At 512 kbps, you can additionally: stream low-quality music, make VoIP calls, and load most websites (slowly).
@@ -617,7 +618,18 @@ For unlimited data in Alaska, Visible (Verizon) is the best option. Verizon has 
 
 [Roami](/united-states-esim/) offers automatic network switching between carriers and live customer support if you run into issues with your data plan. A [free eSIM trial](/free-esim/) lets you test the setup before committing. Code **WEB20** takes 20% off any plan.
 
-For USA eSIM provider comparisons, see our [USA eSIM provider ranking](/blog/usa-esim-ranking-comparison-2026/).
+For USA eSIM provider comparisons, see the [USA eSIM provider ranking](/blog/usa-esim-ranking-comparison-2026/).
 
-For a complete USA eSIM overview, see our [USA eSIM complete guide](/blog/usa-esim-complete-guide/).
-. For network comparisons, see our [USA eSIM provider comparison](/blog/usa-esim-provider-comparison/).
+For a complete USA eSIM overview, see the [USA eSIM complete guide](/blog/usa-esim-complete-guide/).
+. For network comparisons, see the [USA eSIM provider comparison](/blog/usa-esim-provider-comparison/).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "USA eSIM Unlimited Data Plans: What Is Truly Unlimited?",
+  "datePublished": "2026-08-17",
+  "dateModified": "2026-08-17",
+  "author": { "@type": "Organization", "name": "Roami Team" }
+}
+</script>

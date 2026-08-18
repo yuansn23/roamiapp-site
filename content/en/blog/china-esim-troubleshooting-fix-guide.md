@@ -89,7 +89,7 @@ This guide covers every common China eSIM issue in a direct problem-cause-soluti
 **Cause:** When your phone connects to a Chinese tower for the first time, automatic network selection often fails. The phone may try to register on a carrier your eSIM doesn't support, or the international roaming handshake between your eSIM provider and the local carrier stalls.
 
 **Fix: Manual Network Selection (iOS)**
-The most reliable fix is manually selecting China Mobile -- go to Settings > Cellular > Network Selection, turn off Automatic, and pick China Mobile from the list.
+The most reliable fix is manually selecting China Mobile — go to Settings > Cellular > Network Selection, turn off Automatic, and pick China Mobile from the list.
 1. Open **Settings** > **Cellular** > select your China eSIM line.
 2. Tap **Network Selection**.
 3. Turn **Automatic OFF**. Your phone scans for available networks.
@@ -103,7 +103,7 @@ The most reliable fix is manually selecting China Mobile -- go to Settings > Cel
 4. Turn off **Select Automatically**.
 5. Wait for the scan, then pick **China Mobile**.
 
-**Why China Mobile first:** China Mobile owns the largest 4G/LTE and 5G infrastructure in the country. A quality **[china eSIM](/china-esim/)** like Roami with automatic carrier switching will try China Mobile first, then fall back to China Unicom or China Telecom depending on which tower has the strongest signal at your location. If China Mobile doesn't work, try **China Unicom** next. China Telecom is a distant third for roaming eSIM compatibility.
+**Why China Mobile first:** China Mobile owns the largest 4G/LTE and 5G infrastructure in the country. A quality **[China eSIM](/china-esim/)** like Roami with automatic carrier switching will try China Mobile first, then fall back to China Unicom or China Telecom depending on which tower has the strongest signal at your location. If China Mobile doesn't work, try **China Unicom** next. China Telecom is a distant third for roaming eSIM compatibility.
 
 **If manual selection shows no networks:** Your phone may be in an area with weak coverage (airport parking structures, underground train stations). Move to an open area near a window and try again. If you just cleared customs, give the network 5-10 minutes to register your device.
 
@@ -126,7 +126,7 @@ The most reliable fix is manually selecting China Mobile -- go to Settings > Cel
 
 3. **Restart your phone.** This clears the stuck activation state.
 
-4. **Activate with the provider's app instead of QR code.** Many providers (a China eSIM, Airalo, Holafly) let you install the eSIM directly from their app. This bypasses QR code scanner issues and usually has better error handling.
+4. **Activate with the provider's app instead of QR code.** Many providers (Roami, Airalo, Holafly) let you install the eSIM directly from their app. This bypasses QR code scanner issues and usually has better error handling.
 
 5. **Manually enter the activation details.** Every eSIM comes with an SM-DP+ address and activation code. Enter these manually instead of scanning:
    - **iOS:** Settings > Cellular > Add eSIM > Enter Details Manually.
@@ -188,7 +188,7 @@ Every eSIM QR code encodes exactly three pieces of data:
 **Common APN values by provider:**
 | Provider | APN | Username | Password |
 |---|---|---|---|
-| a China eSIM | `roami` | (blank) | (blank) |
+| Roami | `roami` | (blank) | (blank) |
 | Airalo | `airalo.com` | (blank) | (blank) |
 | Holafly | `holafly` | (blank) | (blank) |
 | Nomad | `nomad` | (blank) | (blank) |
@@ -202,7 +202,7 @@ The frustrating reality: iOS doesn't expose APN settings for eSIM lines in the m
 4. Leave Username and Password blank unless specified.
 
 **If "Cellular Data Network" doesn't appear:**
-- Download and install your provider's APN configuration profile (Airalo and a China eSIM both offer these on their help pages).
+- Download and install your provider's APN configuration profile (Airalo and Roami both offer these on their help pages).
 - **iOS:** Settings > General > VPN & Device Management > install the APN profile.
 - **Android:** Settings > Connections > Mobile Networks > Access Point Names > tap + or Add > enter the APN > Save > select it as active.
 
@@ -226,7 +226,7 @@ The frustrating reality: iOS doesn't expose APN settings for eSIM lines in the m
 
 ## 5. Slow Data Speed
 
-**Problem:** Your China eSIM works, but China eSIM slow data speed makes apps unusable. Web pages take 30+ seconds to load. Videos buffer endlessly. Speed tests show under 1 Mbps.
+**Problem:** Your China eSIM works, but slow data speed makes apps unusable. Web pages take 30+ seconds to load. Videos buffer endlessly. Speed tests show under 1 Mbps.
 
 **Cause:** Three possible causes:
 1. **Carrier congestion** —China Mobile towers in tourist-heavy areas get overloaded.
@@ -250,7 +250,7 @@ Some China eSIMs default to 4G/LTE to save battery.
 **Fix 3: Use a VPN for International Traffic**
 Counterintuitive but effective —a VPN often improves perceived speed for international browsing in China. The VPN compresses certain traffic and routes it through optimized servers instead of the Great Firewall's high-latency inspection path.
 
-For specific VPN recommendations, see our [China eSIM VPN and Firewall Guide](/blog/china-esim-vpn-firewall-guide/).
+For specific VPN recommendations, see the [China eSIM VPN and Firewall Guide](/blog/china-esim-vpn-firewall-guide/).
 
 **Fix 4: Change DNS**
 The Great Firewall also performs DNS poisoning —resolving google.com to a wrong IP that simply times out.
@@ -264,7 +264,7 @@ Note: DNS changes on cellular data require a VPN or a DNS-over-HTTPS app like Cl
 
 ## 6. Google, WhatsApp, Instagram, Facebook Blocked
 
-**Problem:** Google Maps returns no data. WhatsApp messages show a single check mark (sent but not delivered). Instagram and Facebook feeds don't refresh. If Instagram and Facebook are blocked, your eSIM is routing through a local carrier instead of the international gateway. This is the single most common frustration for travelers using a China eSIM.
+**Problem:** Google Maps returns no data. WhatsApp messages show a single check mark (sent but not delivered). Instagram and Facebook feeds don't refresh. If Instagram and Facebook are blocked, your eSIM is routing through a local carrier instead of the international gateway. This is the single most common frustration for travelers using an eSIM for China.
 
 **Cause:** The Great Firewall of China blocks Google, WhatsApp, Instagram, Facebook, and hundreds of other foreign services at the network level. Your China eSIM connects to the internet through a Chinese carrier (China Mobile, China Unicom, or China Telecom), which means all traffic routes through the Great Firewall. Your home carrier's roaming would face the same blocks —this is not an eSIM problem, it is China's internet policy.
 
@@ -293,7 +293,7 @@ A VPN (often called a "blocker app" in China travel circles) encrypts your traff
 - Both require a VPN in China. No exceptions.
 - **Alternative:** Xiaohongshu ("Little Red Book") is China's Instagram equivalent. Search in English for travel tips —the Chinese user base posts extensively in English for international audiences.
 
-**Fix 3: Use a China eSIM's Built-In VPN**
+**Fix 3: Use Roami's Built-In VPN**
 Some [China eSIM providers like Roami](/china-esim/) include a built-in VPN with automatic carrier switching that routes traffic through their international gateways, bypassing the Great Firewall entirely. This means Google, WhatsApp, Instagram, and Facebook work without a separate VPN subscription. Check your provider's features before buying —it saves significant hassle.
 
 ---
@@ -337,9 +337,9 @@ In some cases, unstable VPN connections are caused by aggressive packet inspecti
 - China Unicom tends to be less aggressive with DPI than China Mobile.
 
 **Fix 6: Use a Provider with Built-in Unblocking**
-This is the simplest solution. Rather than fighting with VPN disconnects on top of eSIM connectivity issues, use a [China eSIM](/china-esim/) provider that handles the unblocking layer for you. a China eSIM's service includes optimized routing that keeps Google and social apps accessible without a separate VPN maintaining a constant connection.
+This is the simplest solution. Rather than fighting with VPN disconnects on top of eSIM connectivity issues, use a [China eSIM](/china-esim/) provider that handles the unblocking layer for you. Roami's service includes optimized routing that keeps Google and social apps accessible without a separate VPN maintaining a constant connection.
 
-For a full comparison of VPN strategies in China, read our [China eSIM VPN and Firewall Guide](/blog/china-esim-vpn-firewall-guide/).
+For a full comparison of VPN strategies in China, read the [China eSIM VPN and Firewall Guide](/blog/china-esim-vpn-firewall-guide/).
 
 ---
 
@@ -444,7 +444,7 @@ If you have installed the eSIM on a phone you previously used in China with a di
 
 **Problem:** You insert or activate the China eSIM, but the phone immediately says "SIM Not Supported" or "Invalid SIM" or "This iPhone cannot be used with this carrier."
 
-**Cause: China eSIM carrier locked phone issue.** If you bought your phone from a carrier like AT&T, Verizon, T-Mobile, Vodafone, or any carrier that locks devices to their network, the phone rejects any SIM or eSIM from a different provider. The lock is enforced at the hardware/firmware level —no amount of settings changes bypasses it.
+**Cause:** A carrier-locked phone. If you bought your phone from a carrier like AT&T, Verizon, T-Mobile, Vodafone, or any carrier that locks devices to their network, the phone rejects any SIM or eSIM from a different provider. The lock is enforced at the hardware/firmware level —no amount of settings changes bypasses it.
 
 **Fix 1: Check if Your Phone Is Carrier Locked**
 - **iOS:** Settings > General > About > look for **Carrier Lock**. If it says "No SIM restrictions," your phone is unlocked. If it says "SIM locked," it is locked.
@@ -497,7 +497,7 @@ Without these, you may not be able to reinstall and will need to buy a new eSIM.
 **Step-by-Step: Reinstall the eSIM**
 
 **Method A: Provider App (Easiest)**
-1. Open your provider's app (a China eSIM, Airalo, Holafly, etc.).
+1. Open your provider's app (Roami, Airalo, Holafly, etc.).
 2. Go to **My eSIMs** or **My Plans**.
 3. Find your China plan and tap **Install Again** or **Reinstall**.
 4. Follow the on-screen prompts.
@@ -518,7 +518,7 @@ If neither method works, contact provider support with your order number. They c
 
 ## 12. Hong Kong and Macau Cross-Border Not Working
 
-**Problem:** You bought a China eSIM, took the high-speed rail from Shenzhen to Hong Kong West Kowloon station, and the eSIM stopped working. If your China eSIM stops working at the Hong Kong border, don't worry -- Hong Kong is a separate telecom territory.
+**Problem:** You bought Roami, took the high-speed rail from Shenzhen to Hong Kong West Kowloon station, and the eSIM stopped working. If your China eSIM stops working at the Hong Kong border, don't worry — Hong Kong is a separate telecom territory.
 
 **Cause:** China, Hong Kong, and Macau are separate telecom territories. A China mainland eSIM will not work in Hong Kong or Macau, and a Hong Kong eSIM will not work in mainland China. This is not a bug —it is how Chinese telecom regulation works.
 
@@ -532,7 +532,7 @@ If neither method works, contact provider support with your order number. They c
 **Solution 1: Buy a Multi-Country Plan**
 Many providers offer **China + Hong Kong + Macau** combined plans. These typically include:
 
-- a China eSIM: China/Hong Kong/Macau multi-country eSIM.
+- Roami: China/Hong Kong/Macau multi-country eSIM.
 - Airalo: Asia Link or China + Hong Kong regional plans.
 - Holafly: China + Hong Kong + Macau unlimited plans.
 
@@ -547,7 +547,7 @@ If you already have a mainland-only China eSIM, you can buy a separate Hong Kong
 3. **iOS:** Settings > Cellular > Cellular Data > select the correct eSIM.
 4. **Android:** Settings > Connections > SIM Manager > Mobile Data > select the correct eSIM.
 
-For details on managing multi-country eSIM travel, read our guide on [China eSIM multi-country setup for Hong Kong and Macau](/blog/china-esim-multi-country-hongkong-macau/).
+For details on managing multi-country eSIM travel, read the guide on [China eSIM multi-country setup for Hong Kong and Macau](/blog/china-esim-multi-country-hongkong-macau/).
 
 ---
 
@@ -558,7 +558,7 @@ For details on managing multi-country eSIM travel, read our guide on [China eSIM
 **Reference Table: Provider Support Contacts**
 | Provider | Support Type | Contact Method | Availability |
 |---|---|---|---|
-| a China eSIM | Live chat, 24/7 live support | In-app chat, support@roami.com | 24/7 —real humans |
+| Roami | Live chat, 24/7 live support | In-app chat, support@roami.com | 24/7 —real humans |
 | Airalo | Chatbot + email | In-app chat, support@airalo.com, airalo.com/help | Chatbot 24/7, email 12-48h |
 | Holafly | Chat + WhatsApp | In-app chat, WhatsApp (+57 300 123 4567), hola@holafly.com | Usually 24/7 |
 | Nomad | Chat + email | In-app chat, support@getnomad.app | Chatbot + agent, 6-24h |
@@ -574,9 +574,9 @@ For details on managing multi-country eSIM travel, read our guide on [China eSIM
 **Why Support Response Time Matters in China:**
 If your China eSIM is not working, you're stuck without internet in a country where almost everything (payments, maps, restaurant ordering, train tickets, taxi hailing) requires an internet connection. A 24-48 hour email turnaround means you effectively lose 1-2 days of your trip.
 
-This is why [a China eSIM's 24/7 live customer support](/china-esim/) is a real differentiator —they have real people responding within minutes, not chatbots cycling through scripted answers. When your data is down, you need a human who can push a carrier-side reset or verify your APN values in real time.
+This is why [Roami's 24/7 live customer support](/china-esim/) is a real differentiator —they have real people responding within minutes, not chatbots cycling through scripted answers. When your data is down, you need a human who can push a carrier-side reset or verify your APN values in real time.
 
-For a full comparison of all providers and their support quality, see our [China eSIM provider ranking and comparison guide](/blog/china-esim-provider-ranking-comparison/).
+For a full comparison of all providers and their support quality, see the [China eSIM provider ranking and comparison guide](/blog/china-esim-provider-ranking-comparison/).
 
 ---
 
@@ -604,7 +604,7 @@ Most China eSIM problems trace back to three things you can fix before your flig
 
 1. **Install the eSIM before you leave home.** Activation on your home Wi-Fi eliminates firewall-related profile download issues. The eSIM activates but doesn't start counting data until you connect to a Chinese network. This is the single best preventive step —it avoids 90% of activation failures.
 
-2. **Install a VPN app before you arrive.** Download the app, create an account, and test it while on your home network. The Chinese app stores block VPN app searches, and you can't download new apps without one. We recommend installing at least two VPN apps as backups in case one gets blocked between your download and your trip.
+2. **Install a VPN app before you arrive.** Download the app, create an account, and test it while on your home network. The Chinese app stores block VPN app searches, and you can't download new apps without one. Install at least two VPN apps as backups in case one gets blocked between your download and your trip.
 
 3. **Save offline maps.** Open Google Maps, select your Chinese cities, and download offline maps. These work without internet and continue working even while the live map struggles through the firewall. Download maps for Beijing, Shanghai, Guangzhou, Shenzhen, and any other cities you plan to visit —each city map is 200-800 MB.
 
@@ -616,7 +616,7 @@ Most China eSIM problems trace back to three things you can fix before your flig
 
 7. **Test the eSIM before departure.** Install your China eSIM while still at home. It activates in an idle state. You can verify the profile is installed correctly (Settings > Cellular > you should see the China eSIM listed even if it shows "No Service" because it has not connected to a Chinese tower yet). This lets you catch QR code or SM-DP+ errors while you still have full internet access to contact support.
 
-For complete pre-travel setup instructions, see our [China eSIM setup and installation guide](/blog/china-esim-setup-installation-dual-sim/).
+For complete pre-travel setup instructions, see the [China eSIM setup and installation guide](/blog/china-esim-setup-installation-dual-sim/).
 
 ---
 
@@ -656,11 +656,11 @@ Not all phones work equally well with China eSIMs. Here is a detailed compatibil
 **Apple iPhones:**
 - **iPhone XS, XR, 11, 12, 13 series** —excellent compatibility. These models support dual SIM (physical + eSIM) and work with all three Chinese carriers. Note that iPhone 13 and earlier support only one active eSIM at a time.
 - **iPhone 14, 15, 16 series** —excellent compatibility. US models are eSIM-only (no physical SIM slot) but support dual active eSIMs. You can run your China eSIM alongside your home eSIM simultaneously.
-- **China-market iPhones (sold in mainland China)** —do NOT have eSIM hardware. Chinese regulations require physical SIM slots for domestic phones, and Apple removes the eSIM chip from iPhones sold in China, Hong Kong, and Macau. If you bought your iPhone in China, you can't use a China eSIM. You need a physical SIM from China Mobile or China Unicom instead.
+- **China-market iPhones (sold in mainland China)** —do NOT have eSIM hardware. Chinese regulations require physical SIM slots for domestic phones, and Apple removes the eSIM chip from iPhones sold in China, Hong Kong, and Macau. If you bought your iPhone in China, you can't use an eSIM for China. You need a physical SIM from China Mobile or China Unicom instead.
 - **Hong Kong/Macau-market iPhones** —these include both a physical SIM slot and eSIM capability, but dual-SIM functionality (physical + eSIM) is disabled on some Hong Kong models. Test before relying on it.
 
 **Google Pixel Phones:**
-- **Pixel 4, 5, 6, 7, 8, 9 series** —good compatibility. Pixel phones support eSIM natively and work with China Mobile and China Unicom. Some users report 5G band gaps on Pixel 7 and earlier —the phone may fall back to 4G in areas where Chinese phones maintain 5G.
+- **Pixel 4, 5, 6, 7, 8, 9 series** —good compatibility. Pixel phones support eSIM natively and work with China Mobile and China Unicom. Pixel 7 and earlier may have 5G band gaps — the phone may fall back to 4G in areas where Chinese phones maintain 5G.
 - **Pixel 6a and older** —may not support all Chinese 4G LTE bands (particularly Band 40 used by China Mobile). If your phone drops to 3G frequently, this is likely the cause.
 
 **Samsung Galaxy Phones:**
@@ -684,8 +684,8 @@ If your phone doesn't support n79, you'll get 5G on China Unicom but may fall ba
 If you have gone through every fix in this guide and your China eSIM still doesn't work:
 
 1. **Buy a backup pocket Wi-Fi** at the airport. China Mobile's airport counters can rent you a MiFi device with same-day data. It costs $3-5/day and works immediately.
-2. **Use your provider's 24/7 support.** This is where live support matters. A **[china eSIM](/china-esim/)** provider with 24/7 human support —like a China eSIM —can push carrier-side fixes, reset your profile server-side, or issue a new eSIM within minutes.
-3. **Use the free trial.** If you're between plans, [a China eSIM's free eSIM trial](/free-esim/) gives you a working connection while you sort out the paid plan.
+2. **Use your provider's 24/7 support.** This is where live support matters. A **[China eSIM](/china-esim/)** provider with 24/7 human support —like Roami —can push carrier-side fixes, reset your profile server-side, or issue a new eSIM within minutes.
+3. **Use the free trial.** If you're between plans, [Roami's free eSIM trial](/free-esim/) gives you a working connection while you sort out the paid plan.
 4. **Hotel Wi-Fi works.** Almost every Chinese hotel provides free in-room Wi-Fi. It is filtered by the Great Firewall too, but it gets you online for contacting support. Business hotels (Hilton, Marriott, Shangri-La) typically have the most reliable connections.
 
 ---
@@ -708,7 +708,7 @@ If your VPN keeps disconnecting, switch protocols. OpenVPN over TCP port 443 (di
 Yes, with some limits. Most providers allow 3-5 reinstallations per plan. You need your SM-DP+ address and activation code from the original purchase email, or you can use the provider's app to trigger a reinstallation. If you can't find these details, contact support with your order number. The eSIM can only be active on one device at a time.
 
 **How to fix Google not working with China eSIM?**
-Google is blocked by the Great Firewall at the network level. Your China eSIM routes through Chinese carriers, which enforce this block. A VPN is the only solution. Install a VPN app before arriving in China, connect to a server outside China, and all Google services (Maps, Search, Gmail, Drive) will work. Some eSIM providers like a China eSIM include built-in unblocking that bypasses the firewall without a separate VPN app.
+Google is blocked by the Great Firewall at the network level. Your China eSIM routes through Chinese carriers, which enforce this block. A VPN is the only solution. Install a VPN app before arriving in China, connect to a server outside China, and all Google services (Maps, Search, Gmail, Drive) will work. Some eSIM providers like Roami include built-in unblocking that bypasses the firewall without a separate VPN app.
 
 ---
 
@@ -716,9 +716,42 @@ Google is blocked by the Great Firewall at the network level. Your China eSIM ro
 
 ---
 
-*Last updated: July 7, 2026. This guide is regularly updated as Chinese network conditions and the Great Firewall evolve. If you found a fix that isn't listed here, let us know.*
+*Last updated: July 7, 2026. This guide is regularly updated as Chinese network conditions and the Great Firewall evolve. If you found a fix that isn't listed here, please share it.*
 
 For device compatibility, check [Apple Support](https://support.apple.com/en-us/HT212780). The [GSMA](https://www.gsma.com) provides eSIM technical standards.
 
 
-For a complete overview, see our [China eSIM complete guide](/blog/china-esim-complete-guide/). For device compatibility, check [Apple Support](https://support.apple.com/en-us/HT212780).
+For a complete overview, see the [China eSIM complete guide](/blog/china-esim-complete-guide/). For device compatibility, check [Apple Support](https://support.apple.com/en-us/HT212780).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does my China eSIM show no signal after landing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common causes are an incorrect APN, roaming not enabled on the eSIM line, or automatic network selection failing. Try toggling airplane mode, enabling data roaming for the eSIM, selecting a network manually, and checking the APN settings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why are Google and WhatsApp blocked on my China eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A local Chinese eSIM assigns a mainland IP address, so the Great Firewall blocks Google and WhatsApp. Switch to a Hong Kong routing eSIM or add a VPN to restore access."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is my China eSIM slow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You may have hit a fair-use throttle on an unlimited plan, the APN may be wrong, or the current network may be congested. Check the APN, switch networks manually, and confirm whether your plan throttles after a daily data cap."
+      }
+    }
+  ]
+}
+</script>

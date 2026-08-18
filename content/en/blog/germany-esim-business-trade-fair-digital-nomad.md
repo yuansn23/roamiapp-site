@@ -91,7 +91,7 @@ A business traveler who relies on a single carrier risks losing connectivity whe
 
 ### Compliance and activation requirements
 
-German telecommunications law (TKG) requires identity verification for all SIM activations, including eSIMs. The [Bundesnetzagentur](https://www.bundesnetzagentur.de), Germany's Federal Network Agency, enforces this regulation. International data-only eSIMs from providers outside Germany often operate under their home country's regulatory framework, which means faster activation but no German phone number. Understanding this distinction before you travel prevents surprises at the airport when a quick activation does not go as planned. For a detailed comparison of how the three German carriers perform in different scenarios, our [Telekom vs Vodafone vs O2 comparison guide](/blog/germany-esim-telekom-vodafone-o2-comparison/) explains the practical differences.
+German telecommunications law (TKG) requires identity verification for all SIM activations, including eSIMs. The [Bundesnetzagentur](https://www.bundesnetzagentur.de), Germany's Federal Network Agency, enforces this regulation. International data-only eSIMs from providers outside Germany often operate under their home country's regulatory framework, which means faster activation but no German phone number. Understanding this distinction before you travel prevents surprises at the airport when a quick activation does not go as planned. For a detailed comparison of how the three German carriers perform in different scenarios, the [Telekom vs Vodafone vs O2 comparison guide](/blog/germany-esim-telekom-vodafone-o2-comparison/) explains the practical differences.
 
 ### The full picture
 
@@ -335,7 +335,7 @@ Maintaining access to your home phone number while using a German data plan is s
 - Use the German eSIM for data.
 - This keeps your regular number reachable for verification codes, banking alerts, and family calls without incurring roaming data charges.
 
-Our [dual SIM guide for Germany](/blog/germany-esim-dual-sim-multi-device/) provides step-by-step setup instructions for both iPhone and Android.
+The [dual SIM guide for Germany](/blog/germany-esim-dual-sim-multi-device/) provides step-by-step setup instructions for both iPhone and Android.
 
 ## Choosing the Right eSIM for Your Germany Trip
 
@@ -362,7 +362,7 @@ Choose a plan with 30-50% more data than your estimated needs to provide a comfo
 
 ### Evaluate the importance of a German number
 
-A German phone number is valuable if local contacts need to reach you by voice call, or if you plan to use German services that require SMS verification. The [DB Navigator](https://www.bahn.de) app, local restaurant reservation systems, and some business services work more smoothly with a German number. If your communication flows primarily through WhatsApp, email, and scheduled video calls, a data-only plan supplemented by a VoIP virtual number is usually sufficient. For travelers who need both data and voice capabilities, comparing options across providers in our [Germany eSIM provider comparison](/blog/germany-esim-providers-airalo-holafly-ubigi-comparison/) breaks down which services include voice capabilities.
+A German phone number is valuable if local contacts need to reach you by voice call, or if you plan to use German services that require SMS verification. The [DB Navigator](https://www.bahn.de) app, local restaurant reservation systems, and some business services work more smoothly with a German number. If your communication flows primarily through WhatsApp, email, and scheduled video calls, a data-only plan supplemented by a VoIP virtual number is usually sufficient. For travelers who need both data and voice capabilities, comparing options across providers in the [Germany eSIM provider comparison](/blog/germany-esim-providers-airalo-holafly-ubigi-comparison/) breaks down which services include voice capabilities.
 
 ### Match the plan to your device setup
 
@@ -393,7 +393,7 @@ Before purchasing any eSIM, confirm that your phone supports eSIM technology and
 
 ### Test the service before committing
 
-Roami offers a free UK eSIM trial at [/free-esim/](/free-esim/) that lets you test the service and network switching experience before committing to a paid plan. Use discount code "web20" for 20 percent off your first purchase. This is useful for verifying that your device handles eSIM profiles correctly and understanding how automatic network selection works in practice. The trial requires no payment information and provides a risk-free introduction to the eSIM workflow.
+Roami offers a [free UK eSIM trial](/free-esim/) that lets you test the service and network switching experience before committing to a paid plan. Use discount code "web20" for 20 percent off your first purchase. This is useful for verifying that your device handles eSIM profiles correctly and understanding how automatic network selection works in practice. The trial requires no payment information and provides a risk-free introduction to the eSIM workflow.
 
 ## Closing Thoughts
 

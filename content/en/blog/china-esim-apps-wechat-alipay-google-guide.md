@@ -56,7 +56,7 @@ recentPosts:
     permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
     date: "2026-05-20"
 ---
-The Great Firewall blocks Google, WhatsApp, Instagram, YouTube, Facebook, and hundreds of other services inside China. An international routing eSIM bypasses the firewall, but individual apps behave differently: Google Maps and WhatsApp work normally with routing; YouTube needs VPN or routing; WeChat and Alipay work with any connection. This guide covers the essential **China eSIM apps** every traveler needs installed before departure -- exactly what works with a China eSIM, what does not, and the alternative apps to use for each.
+The Great Firewall blocks Google, WhatsApp, Instagram, YouTube, Facebook, and hundreds of other services inside China. An international routing eSIM bypasses the firewall, but individual apps behave differently: Google Maps and WhatsApp work normally with routing; YouTube needs VPN or routing; WeChat and Alipay work with any connection. This guide covers the essential **China eSIM apps** every traveler needs installed before departure — exactly what works with Roami, what does not, and the alternative apps to use for each.
 
 ---
 
@@ -64,7 +64,7 @@ The Great Firewall blocks Google, WhatsApp, Instagram, YouTube, Facebook, and hu
 
 Google Maps is the app most travelers miss first. With **Google Maps China eSIM** routing through Hong Kong, navigation works exactly as it does at home. You land, open Maps to find your hotel, and the map tiles never load. On a local Chinese SIM or WiFi network, Google Maps is completely blocked. The GFW blocks the API endpoints and tile servers that the app connects to.
 
-**With an international China eSIM:** Google Maps works normally. Because your data routes through Hong Kong or Singapore before reaching the internet, the firewall never sees your Google Maps traffic. You can search addresses, get directions, check transit routes, and view street view — exactly as you would at home. A [china eSIM](/china-esim/) with automatic carrier switching between China Mobile, Unicom, and Telecom maintains this consistent routing even as you move between buildings or cities where the strongest available network changes.
+**With an international China eSIM:** Google Maps works normally. Because your data routes through Hong Kong or Singapore before reaching the internet, the firewall never sees your Google Maps traffic. You can search addresses, get directions, check transit routes, and view street view — exactly as you would at home. A [China eSIM](/china-esim/) with automatic carrier switching between China Mobile, Unicom, and Telecom maintains this consistent routing even as you move between buildings or cities where the strongest available network changes.
 
 **Practical limitations to know:**
 - **Address search in English** works for major landmarks, hotels, and tourist attractions. For smaller venues, you'll get better results using the Chinese name. Keep a translation app handy.
@@ -74,7 +74,7 @@ Google Maps is the app most travelers miss first. With **Google Maps China eSIM*
 
 **What about Apple Maps?** Apple Maps is a strong alternative in China because Apple partners with Gaode (AutoNavi), a licensed Chinese mapping provider — [Apple explains the partnership on its support site](https://support.apple.com/en-us/118293). Apple Maps works on Chinese networks without any special configuration. Transit directions, business listings, and navigation are all better than Google Maps within China. For most travelers, the combination of Google Maps on eSIM for familiar use and Apple Maps as a local backup is the best setup.
 
-For most travelers, Google Maps on an international eSIM is the simplest navigation solution — it's what we use ourselves. The maps load instantly, turn-by-turn works reliably, and you never need to configure anything.
+For most travelers, Google Maps on an international eSIM is the simplest navigation solution. The maps load instantly, turn-by-turn works reliably, and you never need to configure anything.
 
 **Summary:** Google Maps works with international-routing eSIM. Does not work on local Chinese SIMs. Download offline maps before you go. Apple Maps works on any connection and is more accurate for Chinese addresses.
 
@@ -216,7 +216,7 @@ WeChat registration with a non-Chinese number has become easier in recent years,
 
 **If the QR verification is required and you don't know anyone with WeChat:** Some travelers report success registering after arriving in China and connecting to a hotel WiFi or eSIM connection. The verification requirement appears to be IP-dependent. If you try at home and hit the QR roadblock, wait until you land and try again.
 
-**Critical note on phone number:** Once registered, don't switch your WeChat-linked phone number unless absolutely necessary. Changing the linked number later requires SMS verification to the new number, and WeChat support for foreign accounts is minimal. The safest approach is to register with your permanent home number. For a deeper breakdown of how phone number verification works for travel eSIMs in China, see our [guide to China eSIM phone number registration](/blog/china-esim-phone-number-registration/).
+**Critical note on phone number:** Once registered, don't switch your WeChat-linked phone number unless absolutely necessary. Changing the linked number later requires SMS verification to the new number, and WeChat support for foreign accounts is minimal. The safest approach is to register with your permanent home number. For a deeper breakdown of how phone number verification works for travel eSIMs in China, see the [guide to China eSIM phone number registration](/blog/china-esim-phone-number-registration/).
 
 **WeChat Pay with a Foreign Credit Card**
 WeChat Pay is where most travelers hit friction. WeChat Pay (the payment feature inside WeChat) historically required a Chinese bank account and a Chinese ID number. In 2024 and 2025, Tencent relaxed these requirements significantly under pressure from the Chinese government to make the platform more accessible to international visitors.
@@ -224,7 +224,7 @@ WeChat Pay is where most travelers hit friction. WeChat Pay (the payment feature
 **Current status (2026):**
 - You can link a **Visa, Mastercard, JCB, Diners Club, or Discover** credit card to WeChat Pay.
 - The foreign card must be linked from within the WeChat app: Go to Me > Services > WeChat Pay > Wallet > Cards > Add a Card.
-- **Fees:** Foreign card transactions incur a roughly 3% fee plus a fixed per-transaction charge. This is higher than using Alipay with a foreign card, which we cover in the next section.
+- **Fees:** Foreign card transactions incur a roughly 3% fee plus a fixed per-transaction charge. This is higher than using Alipay with a foreign card, which is covered in the next section.
 - **Limits:** Single transaction limit for foreign cards varies but is typically around 6,000 RMB (~$830 USD). Daily and monthly caps also apply.
 - **What you cannot do with a foreign card:** Send money to other users ("red packets" or person-to-person transfers), top up your WeChat balance with a foreign card, or use WeChat Pay for certain regulated services like wealth management products.
 
@@ -242,7 +242,7 @@ WeChat Mini-Programs are lightweight apps that run inside WeChat. Many essential
 - **Railway 12306** (train ticket booking) — requires a Chinese ID number or a passport scan for verification, plus a Chinese number for notifications. Use Trip.com instead.
 - **Some hospital registration Mini-Programs** — require Chinese ID. Use your hotel concierge or the Trip.com app for medical appointment booking.
 
-**Our verdict:** WeChat is non-negotiable for China travel — you simply can't function without it. Even if you only use it for communication and nothing else, it's the app every local, restaurant, and service expects you to have. The setup friction (foreign number registration, QR verification) is annoying but worth pushing through before you depart.
+**Verdict:** WeChat is non-negotiable for China travel — you simply can't function without it. Even if you only use it for communication and nothing else, it's the app every local, restaurant, and service expects you to have. The setup friction (foreign number registration, QR verification) is annoying but worth pushing through before you depart.
 
 **Summary:** WeChat is essential. Register with your home number before departure. Link a foreign credit card for payments (higher fees than Alipay). Some Mini-Programs require a Chinese number; use standalone apps as alternatives.
 
@@ -339,7 +339,7 @@ Google's productivity apps work with international routing but have practical li
 No matter how good your eSIM setup is, some services remain blocked or are simply better served by local alternatives. Download these apps before you leave — ideally on WiFi — so they're ready when you need them.
 
 **Maps.me and Apple Maps (Google Maps Alternative)**
-You already know Google Maps works with a China eSIM, but having a backup mapping app is wise.
+You already know Google Maps works with Roami, but having a backup mapping app is wise.
 
 **Maps.me** is the best offline map app for China travel. Download city maps before departure for Beijing, Shanghai, Guangzhou, Chengdu, and any other cities you plan to visit. Maps.me provides turn-by-turn navigation, points of interest, and walking/driving directions — all without an internet connection. The map data is sourced from OpenStreetMap and is reasonably accurate for major Chinese cities.
 
@@ -406,7 +406,7 @@ The process varies slightly by provider, but the pattern is consistent:
 
 **Most providers require an internet connection to process the top-up.** If your data is completely exhausted and you have no WiFi, you can't top up. Avoid this by topping up before you hit zero. If you do get stuck, many hotels in China offer free WiFi — connect to that (apps like WhatsApp won't work on it, but the top-up page will load) and process the top-up there.
 
-Some providers now offer auto-top-up, which adds a pre-defined data package automatically when your balance drops below a threshold. Enable this before departure if you anticipate heavy data use. A [china eSIM](/china-esim/) with 24/7 live customer support means help is available if you encounter any top-up issues while on the road, which is especially reassuring for first-time users.
+Some providers now offer auto-top-up, which adds a pre-defined data package automatically when your balance drops below a threshold. Enable this before departure if you anticipate heavy data use. A [China eSIM](/china-esim/) with 24/7 live customer support means help is available if you encounter any top-up issues while on the road, which is especially reassuring for first-time users.
 
 Providers like Roami offer a free trial through [/free-esim/](/free-esim/) so you can test the service before committing to a full plan. This is particularly useful for verifying that your specific apps work correctly with international routing before you rely on it during your trip.
 
@@ -461,7 +461,7 @@ This table covers every app mentioned in this guide and its status with an inter
 - **Yellow zone (Works on eSIM, blocked on local/China networks):** Google services (Maps, Gmail, YouTube, Search, Drive, Translate), Meta apps (WhatsApp, Instagram, Facebook, Messenger), Twitter/X, Netflix, Telegram. These require an international-routing eSIM or a VPN on local connections.
 - **Blue zone (Works everywhere but has limitations):** WeChat Pay (foreign card limits), Uber (limited car availability), Zoom (may be throttled on Chinese networks).
 
-For detailed setup instructions on configuring your phone for China travel, see our [China eSIM setup and installation guide](/blog/china-esim-setup-installation-dual-sim/), which covers dual SIM configuration, APN settings, and carrier selection. For help choosing the right provider for your specific app needs, our [China eSIM provider comparison guide](/blog/china-esim-provider-ranking-comparison/) ranks every major option by speed, VPN support, and real-world app performance.
+For detailed setup instructions on configuring your phone for China travel, see the [China eSIM setup and installation guide](/blog/china-esim-setup-installation-dual-sim/), which covers dual SIM configuration, APN settings, and carrier selection. For help choosing the right provider for your specific app needs, the [China eSIM provider comparison guide](/blog/china-esim-provider-ranking-comparison/) ranks every major option by speed, VPN support, and real-world app performance.
 
 ---
 
@@ -477,7 +477,7 @@ Camera translation is particularly valuable. Open the Google Translate app, tap 
 Baidu Translate is a solid alternative that works on any network (it's a Chinese service and not blocked). However, Google Translate's camera translation quality and its handling of English-to-Chinese translations are superior in most cases, making it worth the eSIM data needed to use it.
 
 **Can I use Uber Didi with China eSIM?**
-Both Uber and DiDi work with a China eSIM, but the practical answer depends on which one you install.
+Both Uber and DiDi work with Roami, but the practical answer depends on which one you install.
 
 **Uber** — The app functions on international routing, but Uber's China operations were absorbed by DiDi in 2016. Very few Uber-branded cars remain active. You may see cars available in central Shanghai or Beijing, but wait times are long and prices are higher than DiDi. Uber isn't a reliable primary ride-hailing solution in China.
 
@@ -488,7 +488,7 @@ Both Uber and DiDi work with a China eSIM, but the practical answer depends on w
 **Bottom line:** Install DiDi Global Edition as your primary ride-hailing app. Keep Uber installed as a backup only if you already have an account. Both work on China eSIM, but DiDi is the practical choice.
 
 **Can I top up China eSIM plan?**
-Yes, you can top up any major China eSIM plan. The process is straightforward and can be done entirely from your phone.
+Yes, you can top up any major plan. The process is straightforward and can be done entirely from your phone.
 
 **Standard process:**
 1. Open the eSIM provider's app or log into their website.
@@ -505,9 +505,9 @@ Yes, you can top up any major China eSIM plan. The process is straightforward an
 - **Set a mid-trip reminder** — When you hit 50% of your data, set a daily check reminder on your phone.
 - **Use a free trial first** — [Roami's free eSIM trial](/free-esim/) lets you test the connection quality for your specific apps before committing to a full plan. This is especially useful for verifying that Google Maps, WhatsApp, and other critical apps work correctly with the provider's routing.
 
-a China eSIM plans include automatic carrier switching, which means your connection automatically selects the strongest available Chinese network (China Mobile, China Unicom, or China Telecom) as you move between cities and buildings. This reduces the chance of signal drops that chew through your top-up data through retries.
+Roami plans include automatic carrier switching, which means your connection automatically selects the strongest available Chinese network (China Mobile, China Unicom, or China Telecom) as you move between cities and buildings. This reduces the chance of signal drops that chew through your top-up data through retries.
 
-For a full breakdown of which providers offer the best value for top-ups and the most flexible plan options, see our [complete China eSIM guide](/blog/china-esim-complete-guide/) and [provider comparison guide](/blog/china-esim-provider-ranking-comparison/).
+For a full breakdown of which providers offer the best value for top-ups and the most flexible plan options, see the [complete China eSIM guide](/blog/china-esim-complete-guide/) and [provider comparison guide](/blog/china-esim-provider-ranking-comparison/).
 
 ---
 
@@ -516,7 +516,7 @@ For a full breakdown of which providers offer the best value for top-ups and the
 Print this or save it as a note on your phone:
 
 **One week before:**
-- [ ] Buy a China eSIM plan with international routing (use code **WEB20** for discount)
+- [ ] Buy a Roami plan with international routing (use code **WEB20** for discount)
 - [ ] Confirm your phone is eSIM-compatible and carrier-unlocked
 - [ ] Install WeChat and register with your home number
 - [ ] Install Alipay and link a foreign credit card
@@ -553,9 +553,9 @@ Not all China eSIMs are created equal when it comes to app compatibility. The ke
 
 **Local IP eSIMs** — Some eSIMs (particularly those sold as "local China eSIMs" from Chinese carriers directly) give you a Chinese IP address. Your traffic goes through the GFW normally, and blocked apps remain blocked. These eSIMs are cheaper but require a separate VPN to access Western services.
 
-**The a China eSIM difference:** a China eSIM eSIMs use automatic carrier switching that connects you to the best available Chinese network (China Mobile, China Unicom, or China Telecom) while maintaining international routing through Hong Kong. This means Google Maps, WhatsApp, Instagram, and YouTube work regardless of which carrier has the strongest signal in your current location. In practice, this matters most when moving between cities or entering buildings where different carriers have different coverage quality.
+**The Roami difference:** Roami eSIMs use automatic carrier switching that connects you to the best available Chinese network (China Mobile, China Unicom, or China Telecom) while maintaining international routing through Hong Kong. This means Google Maps, WhatsApp, Instagram, and YouTube work regardless of which carrier has the strongest signal in your current location. In practice, this matters most when moving between cities or entering buildings where different carriers have different coverage quality.
 
-For a deeper dive into how the Great Firewall works and why international routing matters, read our dedicated [Great Firewall guide](/blog/china-esim-vpn-firewall-guide/).
+For a deeper dive into how the Great Firewall works and why international routing matters, read the dedicated [Great Firewall guide](/blog/china-esim-vpn-firewall-guide/).
 
 ---
 
@@ -572,6 +572,47 @@ If you get only one thing right: buy an international-routing eSIM before depart
 
 ---
 
-*Article last updated: July 2026. App compatibility information is based on real-world testing with major China eSIM providers on iPhone 16 Pro and Samsung Galaxy S25 in Beijing, Shanghai, Guangzhou, and Chengdu. Prices and provider policies may change. Always check your provider's current terms before purchasing.*
+*Article last updated: July 2026. Prices and provider policies may change. Always check your provider's current terms before purchasing.*
 
 For official app support, visit [Apple Support](https://support.apple.com/en-us/HT212780). The [GSMA](https://www.gsma.com) provides eSIM technical specifications.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which apps are blocked in China without a VPN or Hong Kong routing eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google services (Gmail, Google Maps, Search), WhatsApp, Instagram, Facebook, YouTube, and X are all blocked by the Great Firewall. With a local Chinese eSIM that assigns a mainland IP address, these apps will not load. To use them, you need either a China eSIM with Hong Kong routing or a separate VPN."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does WeChat work in China with an eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. WeChat is a Chinese app and works on any internet connection, including a local China eSIM, a Hong Kong routing eSIM, or hotel WiFi. No VPN is required."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Alipay work in China for tourists?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Alipay is a Chinese app and works on any connection. Tourists can link an international credit or debit card to the Alipay International version and use it for payments, ride-hailing, and public transit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will Google Maps work in China with an eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Only with a Hong Kong routing eSIM or a VPN. On a local Chinese eSIM, Google Maps is blocked and will not load. Many travelers pair Google Maps with Apple Maps or a Chinese map app such as Amap (Gaode Maps) for the most accurate local directions."
+      }
+    }
+  ]
+}
+</script>

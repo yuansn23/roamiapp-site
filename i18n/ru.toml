@@ -443,3 +443,6 @@ other = "✅ 24/7"
 
 [brand_reminder]
 other = "Наш бренд eSIM — roami, а не roamic. Пожалуйста, обратите внимание."
+
+[esim_free_trial]
+other = "бесплатный пробный eSIM"

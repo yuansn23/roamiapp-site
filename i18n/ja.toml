@@ -435,3 +435,6 @@ other = "✅ 24/7"
 
 [brand_reminder]
 other = "当社のeSIMブランドはroamiです。roamicではありませんので、ご注意ください。"
+
+[esim_free_trial]
+other = "eSIM 無料トライアル"

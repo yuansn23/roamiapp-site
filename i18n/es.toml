@@ -542,3 +542,6 @@ other = "Limitado (solo EE. UU.)"
 
 [roami_compare_verizon_support]
 other = "❌ Limitado"
+
+[esim_free_trial]
+other = "eSIM de prueba gratuita"

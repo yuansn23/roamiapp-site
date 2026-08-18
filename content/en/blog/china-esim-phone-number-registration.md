@@ -13,7 +13,7 @@ readingTime: 20
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "China eSIM Phone Number Registration: Do You Need a Chinese Number"
+h1title: "China eSIM Phone Number: Do You Need a Chinese Number?"
 productsTitle: "Popular eSIM Plans"
 hotPostsTitle: "Hot Articles"
 recentPostsTitle: "Recent Posts"
@@ -64,7 +64,7 @@ But that doesn't mean you're stuck. This guide covers every angle: why you might
 
 If you just want the big picture on how eSIMs work in China before diving into the phone number question, start with the [China eSIM complete guide](/blog/china-esim-complete-guide/). If you already know you need a number and want to compare providers that offer one, jump to section three.
 
-**Here's the bottom line: most travelers don't need a Chinese phone number.** A data-only eSIM handles 90% of what you'll actually do -- Google Maps, WhatsApp, Instagram, and basic WeChat messaging all run on data alone. The scenarios where a Chinese number truly matters are specific and limited: booking 12306 train tickets yourself, ordering food delivery, or using bike-sharing apps. For everyone else, a data eSIM plus your home SIM for SMS verification is the simpler, cheaper path.
+**Here's the bottom line: most travelers don't need a Chinese phone number.** A data-only eSIM handles 90% of what you'll actually do — Google Maps, WhatsApp, Instagram, and basic WeChat messaging all run on data alone. The scenarios where a Chinese number truly matters are specific and limited: booking 12306 train tickets yourself, ordering food delivery, or using bike-sharing apps. For everyone else, a data eSIM plus your home SIM for SMS verification is the simpler, cheaper path.
 
 ---
 
@@ -73,7 +73,7 @@ If you just want the big picture on how eSIMs work in China before diving into t
 The most important distinction to understand before buying anything is that the China eSIM market is split into two entirely different product categories. Mixing them up leads to buying the wrong plan and discovering only after landing that you can't receive the SMS code you need to activate your bank card.
 
 **International Travel eSIMs (Data-Only)**
-These are the eSIMs you see advertised on travel blogs, YouTube sponsorships, and flight comparison sites. Brands like Airalo, Holafly, Saily, Yesim, Nomad, Jetpac, a China eSIMfy, and Ubigi all offer China eSIM plans. Every single one of them is data-only for China.
+These are the eSIMs you see advertised on travel blogs, YouTube sponsorships, and flight comparison sites. Brands like Airalo, Holafly, Saily, Yesim, Nomad, Jetpac, Roamify, and Ubigi all offer China eSIM plans. Every single one of them is data-only for China.
 
 Here is what they give you:
 - Mobile data (3G/4G/5G depending on your plan and location)
@@ -118,7 +118,7 @@ WeChat is essential for travel in China — payments, communication with hotels,
 
 If you already have WeChat Pay set up before your trip, you're set. If you need to set it up for the first time in China, a Chinese number simplifies the SMS verification significantly.
 
-For a complete walkthrough of setting up WeChat with various number types, see our [China eSIM and essential apps guide](/blog/china-esim-apps-wechat-alipay-google-guide/).
+For a complete walkthrough of setting up WeChat with various number types, see the [China eSIM and essential apps guide](/blog/china-esim-apps-wechat-alipay-google-guide/).
 
 **12306 Train Ticket Registration**
 China's official railway booking platform, 12306, is infamous among travelers. Every foreign visitor who wants to book a high-speed train ticket independently must register for a 12306 account. The registration process explicitly requires a Chinese phone number or a Hong Kong/Macau number.
@@ -148,7 +148,7 @@ If you want food delivery in China without a Chinese number, your options are:
 **Ride-Hailing: Didi**
 Didi is China's equivalent of Uber. It is the dominant ride-hailing platform and operates in every major Chinese city. Like Meituan and Ele.me, Didi requires a Chinese phone number for registration.
 
-Didi does offer an international version called "DiDi Chuxing" that can be used by travelers. The international version works with foreign phone numbers and foreign credit cards. However, it isn't as fully featured as the domestic app. Some users report difficulty finding drivers in smaller cities through the international version, and the English-language interface sometimes fails to load properly after app updates.
+Didi does offer an international version called "DiDi Chuxing" that can be used by travelers. The international version works with foreign phone numbers and foreign credit cards. However, it isn't as fully featured as the domestic app. Finding drivers in smaller cities through the international version can be difficult, and the English-language interface sometimes fails to load properly after app updates.
 
 If you're staying in tier-1 cities (Beijing, Shanghai, Guangzhou, Shenzhen), the international version of Didi works reasonably well with a foreign phone number. If you plan to visit second- or third-tier cities, having a Chinese number to use the full Didi app is significantly more reliable.
 
@@ -160,7 +160,7 @@ Unlike ride-hailing or food delivery, there's no international version of these 
 **Banking and Payment Card Registration**
 If you plan to open a Chinese bank account — during a long-term stay, for work, or for study — you need a Chinese phone number. Chinese banks require a local number for account registration, SMS transaction alerts, and online banking verification. This isn't optional.
 
-Let's be honest: if your China trip involves Google Maps, WhatsApp, Instagram, and the occasional WeChat message, you're overthinking the phone number question. You don't need one. The friction of visiting a carrier store, handing over your passport, and managing a second SIM isn't worth it for what amounts to food delivery and bike-sharing access. We say this as people who've done it both ways -- the difference between having a Chinese number and not having one is smaller than most guides make it sound.
+To be clear: if your China trip involves Google Maps, WhatsApp, Instagram, and the occasional WeChat message, you're overthinking the phone number question. You don't need one. The friction of visiting a carrier store, handing over your passport, and managing a second SIM isn't worth it for what amounts to food delivery and bike-sharing access. The difference between having a Chinese number and not having one is smaller than most guides make it sound.
 
 **Short Summary: Who Really Needs a Chinese Number**
 | Scenario | Chinese Number Required? | Workaround Available? |
@@ -521,7 +521,7 @@ This configuration covers most of what a typical traveler needs:
 
 The only things missing are Chinese-specific services like 12306, Meituan, and bike sharing.
 
-Our take: this dual-SIM setup is the sweet spot for 80% of travelers. Unless you're staying longer than three weeks or you genuinely need to book your own 12306 tickets, adding a Chinese physical SIM on top of this creates more complexity than it solves.
+Bottom line: this dual-SIM setup is the sweet spot for 80% of travelers. Unless you're staying longer than three weeks or you genuinely need to book your own 12306 tickets, adding a Chinese physical SIM on top of this creates more complexity than it solves.
 
 **When to Add a Third Option (Chinese Physical SIM)**
 If your trip involves any of the following, consider adding a Chinese physical SIM from China Mobile or China Unicom alongside your data-only eSIM:
@@ -709,7 +709,7 @@ Write down your Chinese phone number and store it somewhere you can access easil
 **Top Up Online**
 Most Chinese carrier prepaid plans can be recharged online via WeChat, Alipay, or the carrier's own app. China Mobile uses the "China Mobile" app. China Unicom uses the "China Unicom" app. The interfaces are in Chinese, but the recharge flow is straightforward if you can translate the buttons.
 
-If you need help recharging, a China eSIM's [China eSIM](/china-esim/) support (available via their free trial at [/free-esim/](/free-esim/)) provides setup guidance even though Roami plans are data-only.
+If you need help recharging, Roami's [China eSIM](/china-esim/) support (available via their free trial at [/free-esim/](/free-esim/)) provides setup guidance even though Roami plans are data-only.
 
 **What to Do with Your Chinese SIM After Leaving China**
 Unless you return to China frequently, there isn't much reason to keep the SIM active. Chinese prepaid SIMs typically expire after 90-180 days of no top-up, after which the number is recycled.
@@ -769,7 +769,7 @@ A [China eSIM](/china-esim/) from Roami covers the first part reliably — data-
 
 The landscape may shift as Chinese carriers evolve their eSIM policies for foreign visitors. But as of 2026, this is the state of play: data-only eSIMs are excellent for internet, and getting a Chinese number still requires a visit to a carrier store with your passport. Plan accordingly, and your trip will go smoothly.
 
-**What we recommend:**
+**What to choose:**
 
 - **Weekend trip (1-3 days, major cities):** Don't bother with a Chinese number. Grab a data-only eSIM like Saily (5GB/$14.99) or Roami (5GB/$11.00 with VPN included). Your home SIM handles any SMS verification. You won't miss anything.
 
@@ -785,3 +785,36 @@ For official information on telecom regulations, visit [Wikipedia](https://en.wi
 
 
 For official device compatibility, visit [Apple Support](https://support.apple.com/en-us/HT212780). The [Ookla Speedtest Global Index](https://www.speedtest.net/global-index) provides China network performance data.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do China travel eSIMs include a phone number?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most are data-only and include no phone number, which means no SMS or voice calls. A few providers, such as CMHK, include a Hong Kong number that can receive SMS verification codes. Check the plan details before buying."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a Chinese phone number as a tourist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most travelers, no. A data-only eSIM plus your home number (kept active via dual SIM for SMS) covers navigation, messaging, and payments. A local number mainly helps with local calls, ride-hailing driver contact, and some restaurant or delivery registrations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to register with my passport to buy a China eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you buy a travel eSIM online before departure, no passport registration is required. Buying a physical local SIM inside mainland China does require passport registration under real-name rules."
+      }
+    }
+  ]
+}
+</script>

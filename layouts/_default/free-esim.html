@@ -547,8 +547,8 @@
                         <div class="w-16 h-12 mb-3 rounded-md overflow-hidden border border-slate-100 shadow-sm">
                             <img src="/img/flags/{{ .code | lower }}.svg" alt="Flag of {{ .name }}" loading="lazy" class="w-full h-full object-cover">
                         </div>
-                        <h3 class="text-base font-bold text-slate-900 mb-1">{{ $.Params.ui.card.title_prefix }}{{ .name }}</h3>
-                        <p class="text-[11px] text-slate-500 mb-1">{{ $.Params.ui.card.network }}</p>
+                         <h3 class="text-base font-bold text-slate-900 mb-1">{{ .name }} eSIM free trial</h3>
+						<p class="text-[11px] text-slate-500 mb-1">{{ $.Params.ui.card.network }}</p>
                         <div class="mt-auto mb-2">
                             <span class="text-xl font-black text-emerald-600">{{ $.Params.ui.card.price }}</span>
                         </div>
@@ -584,9 +584,9 @@
                     <div class="flex flex-col items-center text-center flex-grow">
                         <div class="w-16 h-12 mb-3 rounded-md overflow-hidden border border-slate-100 shadow-sm">
                             <img src="/img/flags/{{ .code | lower }}.svg" alt="Flag of {{ .name }}" loading="lazy" class="w-full h-full object-cover">
-                        </div>
-                        <h3 class="text-base font-bold text-slate-900 mb-1">{{ $.Params.ui.card.title_prefix }}{{ .name }}</h3>
-                        <p class="text-[11px] text-slate-500 mb-1">{{ $.Params.ui.card.network }}</p>
+                        </div> 
+					   <h3 class="text-base font-bold text-slate-900 mb-1">{{ .name }} {{ i18n "esim_free_trial" }}</h3>
+					   <p class="text-[11px] text-slate-500 mb-1">{{ $.Params.ui.card.network }}</p>
                         <div class="mt-auto mb-2">
                             <span class="text-xl font-black text-emerald-600">{{ $.Params.ui.card.price }}</span>
                         </div>

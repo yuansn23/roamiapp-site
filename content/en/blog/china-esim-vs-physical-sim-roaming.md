@@ -13,7 +13,7 @@ readingTime: 20
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "China eSIM vs Physical SIM vs Home Carrier Roaming: Which Should You Choose?"
+h1title: "China eSIM vs Physical SIM: Which Should You Choose?"
 productsTitle: "Popular eSIM Plans"
 hotPostsTitle: "Hot Articles"
 recentPostsTitle: "Recent Posts"
@@ -89,7 +89,7 @@ If your eSIM uses international routing (Hong Kong or Singapore gateway), you do
 
 If your eSIM connects directly to a Chinese carrier without international routing —some budget eSIMs do this to keep prices low —then yes, you need a VPN. The eSIM is essentially functioning as a local Chinese SIM at that point.
 
-The safest approach is to choose an eSIM provider that explicitly advertises "Hong Kong routing," "built-in VPN," or "firewall bypass" for their China plans. If you want to be doubly sure, see our [China eSIM complete guide](/blog/china-esim-complete-guide/) for providers that include VPN functionality.
+The safest approach is to choose an eSIM provider that explicitly advertises "Hong Kong routing," "built-in VPN," or "firewall bypass" for their China plans. If you want to be doubly sure, see the [China eSIM complete guide](/blog/china-esim-complete-guide/) for providers that include VPN functionality.
 
 For travelers using a physical Chinese SIM: yes, you absolutely need a VPN for Google, WhatsApp, Instagram, and any blocked service. There is no way around this —a local Chinese SIM routes through the Great Firewall by design.
 
@@ -99,7 +99,7 @@ For travelers using a physical Chinese SIM: yes, you absolutely need a VPN for G
 
 Before diving into the comparison, here is a plain-language summary of what each option actually is.
 
-**China eSIM (international travel eSIM):** A digital SIM profile you buy online before departure from providers like Airalo, Holafly, Saily, or a China eSIM. You scan a QR code, install the profile, and activate when you land. These eSIMs connect to Chinese cell towers (typically China Mobile or China Unicom) on the backend, but route your internet traffic through servers in Hong Kong or Singapore before reaching the open internet. This routing path means the Great Firewall never touches your data —Google, WhatsApp, and Instagram work without a separate VPN. Most travel eSIMs are data-only: no Chinese phone number, no SMS.
+**China eSIM (international travel eSIM):** A digital SIM profile you buy online before departure from providers like Airalo, Holafly, Saily, or Roami. You scan a QR code, install the profile, and activate when you land. These eSIMs connect to Chinese cell towers (typically China Mobile or China Unicom) on the backend, but route your internet traffic through servers in Hong Kong or Singapore before reaching the open internet. This routing path means the Great Firewall never touches your data —Google, WhatsApp, and Instagram work without a separate VPN. Most travel eSIMs are data-only: no Chinese phone number, no SMS.
 
 **Physical Chinese SIM card:** A physical SIM you buy in China from China Mobile, China Unicom, or China Telecom at an airport kiosk, carrier store, or convenience shop. You get a Chinese phone number, local data rates, and access to Chinese apps like WeChat Pay and Alipay. The tradeoff is that all traffic passes through the Great Firewall —Google, WhatsApp, YouTube, and Instagram are blocked unless you install a separate VPN. Registration requires your passport and a face scan under China's real-name system.
 
@@ -122,7 +122,7 @@ This table covers the key decision factors at a glance. Each is examined in deta
 | **7-day cost (moderate data)** | $11~$27 | $6~$15 + VPN ($5~$12) | $35~$80 |
 | **14-day cost (moderate data)** | $16~$47 | $6~$15 + VPN ($5~$12) | $60~$160 |
 | **30-day cost (heavy data)** | $26~$85 | $15~$30 + VPN ($5~$12) | $100~$300+ |
-| **Speed (typical)** | 30-85 Mbps (5G) | 30-150 Mbps (5G) | 5-30 Mbps (often throttled) |
+| **Speed (typical)** | Fast 5G | Fastest 5G | Slow, often throttled |
 | **Hotspot tethering** | Most providers allow it | Yes | Usually throttled or blocked |
 | **Number of active SIMs** | Works alongside home SIM (dual SIM) | Replaces or shares SIM slot | Uses your single home SIM |
 | **Best for** | Tourists wanting Google access, short trips, business travelers | Long stays, WeChat Pay users, budget travelers with VPN | Short business trips where keeping home number is critical |
@@ -145,7 +145,7 @@ Most travel eSIMs are data-only. You get a pool of gigabytes (or unlimited data 
 - **Banking SMS:** Two-factor authentication codes from your home bank will not arrive on the eSIM. You need your home SIM active in a dual-SIM configuration to receive those.
 - **Ride-hailing and food delivery:** Apps like Didi and Meituan can work with an international number, but some features require a Chinese number.
 
-The exception is that some newer eSIM providers have begun offering "data + number" packages in partnership with Chinese carriers. These are still rare and cost significantly more than data-only plans. For a deep dive on this topic, see our guide on [China eSIM phone number registration](/blog/china-esim-phone-number-registration/).
+The exception is that some newer eSIM providers have begun offering "data + number" packages in partnership with Chinese carriers. These are still rare and cost significantly more than data-only plans. For a deep dive on this topic, see the guide on [China eSIM phone number registration](/blog/china-esim-phone-number-registration/).
 
 **Pros of China eSIM**
 
@@ -155,7 +155,7 @@ The exception is that some newer eSIM providers have begun offering "data + numb
 
 **No real-name registration.** China [requires real-name registration for all domestic SIM cards](https://www.reuters.com/article/china-telecoms-idUSL4N0ZF2C820150630/) under MIIT regulations. For a travel eSIM, no passport, no visa, and no face scan is needed. Your privacy is preserved and there is zero paperwork.
 
-**Works alongside your home SIM (dual SIM).** Most modern phones support dual SIM with one physical SIM and one eSIM active simultaneously, or two active eSIMs. You keep your home SIM active for SMS from your bank and two-factor authentication while the China eSIM handles all data traffic. Our [China eSIM setup and dual SIM installation guide](/blog/china-esim-setup-installation-dual-sim/) walks through this configuration step by step.
+**Works alongside your home SIM (dual SIM).** Most modern phones support dual SIM with one physical SIM and one eSIM active simultaneously, or two active eSIMs. You keep your home SIM active for SMS from your bank and two-factor authentication while the China eSIM handles all data traffic. The [China eSIM setup and dual SIM installation guide](/blog/china-esim-setup-installation-dual-sim/) walks through this configuration step by step.
 
 **No contract, no commitment.** You buy a plan for exactly your trip duration —7 days, 15 days, or 30 days —and it expires automatically. No need to cancel, no recurring billing, no SIM to dispose of.
 
@@ -167,9 +167,9 @@ The exception is that some newer eSIM providers have begun offering "data + numb
 
 **Costs more than a local SIM on a per-GB basis.** A 5GB China travel eSIM costs roughly $11-$18 depending on the provider. A physical 5GB SIM from China Unicom bought at the airport costs about $6-$9. The eSIM premium is $5-$9 for the convenience and firewall bypass.
 
-**Some providers have variable quality.** Not all eSIM providers maintain reliable Hong Kong routing. In some regions of China —particularly western provinces like Xinjiang or Tibet, or rural areas —the routing may drop to a local Chinese carrier connection, which means Google stops working. Choosing a [China eSIM](/china-esim/) provider with automatic carrier switching and real-time routing optimization mitigates this risk. a China eSIM's automatic carrier switching handles this by monitoring signal strength across Chinese carrier networks and routing your data through the optimal path at any given location.
+**Some providers have variable quality.** Not all eSIM providers maintain reliable Hong Kong routing. In some regions of China —particularly western provinces like Xinjiang or Tibet, or rural areas —the routing may drop to a local Chinese carrier connection, which means Google stops working. Choosing a [China eSIM](/china-esim/) provider with automatic carrier switching and real-time routing optimization mitigates this risk. Roami's automatic carrier switching handles this by monitoring signal strength across Chinese carrier networks and routing your data through the optimal path at any given location.
 
-**APN configuration can trip up first-time users.** Some eSIMs require manual APN settings. If you install the profile but don't configure the APN, you'll have a signal but no data. This is a common support ticket for every provider. Our setup guide covers the APN values for each provider.
+**APN configuration can trip up first-time users.** Some eSIMs require manual APN settings. If you install the profile but don't configure the APN, you'll have a signal but no data. This is a common support ticket for every provider. The setup guide covers the APN values for each provider.
 
 ---
 
@@ -186,7 +186,7 @@ Your phone receives a Chinese phone number (11 digits, starting with 1). You cho
 
 **What a Physical Chinese SIM Includes**
 - **A Chinese phone number** —This is the single most important feature that eSIMs and roaming don't offer. With a local number you can register for WeChat Pay, use Alipay, order Didi rides, book train tickets through 12306, and register for hotel Wi-Fi networks (many Chinese hotels require a local number for Wi-Fi login).
-- **Local data at local prices** —Chinese mobile data is among the cheapest in the world on a per-GB basis. China Mobile's 5G network covers over 99% of the population and delivers speeds of 100-300 Mbps in major cities.
+- **Local data at local prices** —Chinese mobile data is among the cheapest in the world on a per-GB basis. China Mobile's 5G network covers over 99% of the population and delivers strong 5G speeds in major cities.
 - **Full access to Chinese internet** —WeChat, Douyin (Chinese TikTok), Baidu, Alipay, Didi, Meituan, and every other Chinese service works perfectly. These don't require a VPN.
 
 **The Great Firewall Problem**
@@ -220,7 +220,7 @@ This registration system means your identity is linked to your SIM in a governme
 
 **You get a Chinese phone number.** This unlocks WeChat Pay, Alipay, Didi, Meituan, and dozens of other Chinese services that require SMS verification from a mainland Chinese number. For anyone staying more than two weeks, this is a significant advantage.
 
-**High speeds on local networks.** Physical SIMs connect directly to the carrier's network without intermediate routing. In Beijing and Shanghai, China Mobile 5G delivers 150-300 Mbps consistently. The Hong Kong routing used by travel eSIMs adds 35-80 ms of latency and caps speeds at 60-85 Mbps in most cases.
+**High speeds on local networks.** Physical SIMs connect directly to the carrier's network without intermediate routing. In Beijing and Shanghai, China Mobile 5G delivers consistently high speeds. The Hong Kong routing used by travel eSIMs adds 35-80 ms of latency in most cases.
 
 **Recharge and top-up are easy.** You can buy additional data at any convenience store (7-Eleven, FamilyMart, Lawson) or through WeChat/Alipay. Tourist SIMs can also be recharged online through the carrier's website.
 
@@ -273,7 +273,7 @@ European and Australian carriers are somewhat better. EE UK's 30 GB roaming pass
 **The Great Firewall and Roaming**
 This is where home carrier roaming gets tricky. When your phone roams onto China Mobile or China Unicom, your traffic passes through the Great Firewall —just like a physical Chinese SIM. Google, WhatsApp, and Instagram are blocked.
 
-For pricing and plan comparisons, see our [China eSIM price guide](/blog/china-esim-price-plan-purchase-guide/).
+For pricing and plan comparisons, see the [China eSIM price guide](/blog/china-esim-price-plan-purchase-guide/).
 
 Some carriers have negotiated "direct internet breakout" agreements where your traffic routes back through your home country before reaching the open internet. This avoids the firewall. In practice:
 
@@ -314,7 +314,7 @@ Real numbers make the decision clearer. The following scenarios use moderate dat
 **Scenario 1: 7-Day Tourist Trip (5-7 GB data)**
 | Option | SIM/Plan Cost | VPN Cost (if needed) | Total |
 |---|---|---|---|
-| China eSIM (5GB, e.g. a China eSIM) | $11.00 | $0 (built-in) | **$11.00** |
+| China eSIM (5GB, e.g. Roami) | $11.00 | $0 (built-in) | **$11.00** |
 | Physical China Unicom 5GB | $8.00 | $8.00 (1-month VPN) | **$16.00** |
 | Home Carrier Roaming (T-Mobile Data Pass 15GB) | $50.00 | $0 | **$50.00** |
 | Home Carrier Roaming (Verizon TravelPass) | $84.00 | $0 | **$84.00** |
@@ -324,7 +324,7 @@ For a 7-day trip, the eSIM is the cheapest option at $11, and it includes built-
 **Scenario 2: 14-Day Business Trip (10-15 GB data)**
 | Option | Plan Cost | VPN Cost (if needed) | Total |
 |---|---|---|---|
-| China eSIM (10GB, e.g. a China eSIM) | $16.00 | $0 (built-in) | **$16.00** |
+| China eSIM (10GB, e.g. Roami) | $16.00 | $0 (built-in) | **$16.00** |
 | Physical China Mobile 10GB | $12.00 | $12.00 (1-month VPN) | **$24.00** |
 | Home Carrier Roaming (AT&T Day Pass) | $168.00 | $0 | **$168.00** |
 | Home Carrier Roaming (T-Mobile Data Pass 15GB) | $50.00 | $0 | **$50.00** |
@@ -346,7 +346,7 @@ Physical Chinese SIMs sold at airport kiosks are marked up 30-100% compared to o
 eSIM pricing is transparent and identical regardless of where you buy it. There is no airport markup.
 
 **Discount Code: Roami WEB20**
-a China eSIM offers a 20% discount on all China eSIM plans using the code **WEB20** at checkout. This brings the 7-day 5GB plan from $11.00 to $8.80, the 14-day 10GB plan from $16.00 to $12.80, and the 30-day 20GB plan from $26.00 to $20.80. At these prices, the eSIM is competitive with the raw SIM cost of a physical Chinese SIM —while including firewall bypass that the physical SIM does not.
+Roami offers a 20% discount on all China eSIM plans using the code **WEB20** at checkout. This brings the 7-day 5GB plan from $11.00 to $8.80, the 14-day 10GB plan from $16.00 to $12.80, and the 30-day 20GB plan from $26.00 to $20.80. At these prices, the eSIM is competitive with the raw SIM cost of a physical Chinese SIM —while including firewall bypass that the physical SIM does not.
 
 Roami also offers a [free eSIM trial](/free-esim/) for first-time users, letting you test compatibility and activation flow before committing to a paid plan.
 
@@ -359,7 +359,7 @@ Access to Google services and WhatsApp is the single most important differentiat
 **China eSIM**
 International travel eSIMs route traffic through Hong Kong or Singapore servers, which means the Great Firewall never inspects your data. Google Maps loads navigation routes. WhatsApp sends and receives messages, photos, and voice notes. YouTube streams video. Instagram loads feeds and Stories. Gmail sends and receives.
 
-**The caveat:** Not all eSIM providers maintain consistent Hong Kong routing. Some providers' plans connect directly to China Mobile's network without the Hong Kong detour in certain regions. This is where provider quality matters. Providers like a China eSIM that implement automatic carrier switching actively monitor whether your traffic is routing correctly and switch between carrier networks (China Mobile vs China Unicom vs China Telecom) to maintain the Hong Kong routing path. If one carrier's connection starts routing locally, the eSIM automatically switches to a carrier whose connection routes through Hong Kong.
+**The caveat:** Not all eSIM providers maintain consistent Hong Kong routing. Some providers' plans connect directly to China Mobile's network without the Hong Kong detour in certain regions. This is where provider quality matters. Providers like Roami that implement automatic carrier switching actively monitor whether your traffic is routing correctly and switch between carrier networks (China Mobile vs China Unicom vs China Telecom) to maintain the Hong Kong routing path. If one carrier's connection starts routing locally, the eSIM automatically switches to a carrier whose connection routes through Hong Kong.
 
 **Physical Chinese SIM**
 Without a VPN, a physical Chinese SIM cannot access any Google service, WhatsApp, Instagram, Facebook, YouTube, or Twitter/X. The Great Firewall blocks these at the network level.
@@ -413,9 +413,9 @@ The only scenario where a physical SIM makes financial sense is if you don't nee
 
 Use this decision tree to find your optimal option.
 
-**Choose a China eSIM — Our Strongest Recommendation**
+**Choose Roami — The Strongest Recommendation**
 
-Let's be direct: this is the option we recommend for almost everyone. Here's when it makes the most sense:
+The short answer: this is the option most travelers should choose. Here's when it makes the most sense:
 - You want Google Maps, WhatsApp, Instagram, and YouTube to work immediately with no additional configuration
 - you're visiting for 30 days or less
 - You prefer to handle connectivity before departure rather than after arrival
@@ -436,7 +436,7 @@ The physical SIM makes sense in exactly one scenario: you genuinely need a mainl
 
 **Choose home carrier roaming — Honestly, Don't**
 
-We struggle to recommend this for anyone. It costs 3-10x more than an eSIM, your data gets throttled, and Google still won't work on most carriers. The only narrow exceptions:
+This is hard to recommend for anyone. It costs 3-10x more than an eSIM, your data gets throttled, and Google still won't work on most carriers. The only narrow exceptions:
 - Keeping your home phone number active with no configuration changes is critical
 - Your trip is very short (1-3 days) and the convenience premium is justified
 - Your employer covers roaming charges and cost is not a concern
@@ -456,7 +456,7 @@ We struggle to recommend this for anyone. It costs 3-10x more than an eSIM, your
 
 **Transit passenger with 24 hours in Hong Kong and a train to Shenzhen:** China eSIM. you won't have time to find a carrier store.
 
-**Family of four visiting for 14 days:** Each adult gets a China eSIM for their phone. Children's devices can use hotspot tethering from one parent's eSIM. No need to queue at four separate kiosks.
+**Family of four visiting for 14 days:** Each adult gets a Roami eSIM for their phone. Children's devices can use hotspot tethering from one parent's eSIM. No need to queue at four separate kiosks.
 
 ---
 
@@ -477,7 +477,7 @@ China Unicom is the second-largest carrier in China with approximately 330 milli
 
 **China Unicom eSIM:** China Unicom offers eSIM directly to Chinese citizens, but foreign visitors cannot easily obtain a China Unicom eSIM without a Chinese ID. The international arm, China Unicom Global, offers roaming eSIMs to travelers from other countries, but these are sold through their Hong Kong subsidiary and are functionally identical to third-party travel eSIMs.
 
-For travelers who manage to get a China Unicom physical SIM, the network provides strong 5G coverage in all major cities with typical speeds of 100-200 Mbps. The [Wikipedia article on China Unicom](https://en.wikipedia.org/wiki/China_Unicom) provides a full corporate overview.
+For travelers who manage to get a China Unicom physical SIM, the network provides strong 5G coverage in all major cities with typically strong 5G speeds. The [Wikipedia article on China Unicom](https://en.wikipedia.org/wiki/China_Unicom) provides a full corporate overview.
 
 **China Mobile eSIM Prepaid Tourist Plans**
 China Mobile is the world's largest mobile carrier with over 970 million subscribers. Its network has the widest geographic coverage in China —essential if you're traveling outside major cities.
@@ -518,7 +518,7 @@ All kiosks accept major credit cards, WeChat Pay, and Alipay. Cash is accepted b
 
 This is one of the most frequent questions from travelers considering an eSIM. The answer depends on the type of eSIM.
 
-**Standard travel eSIM:** Data-only. No Chinese phone number. These are the most common type sold by Airalo, Holafly, Saily, Nomad, and a China eSIM. They provide mobile data only.
+**Standard travel eSIM:** Data-only. No Chinese phone number. These are the most common type sold by Airalo, Holafly, Saily, Nomad, and Roami. They provide mobile data only.
 
 **Hybrid eSIM (rare):** A small number of providers offer eSIM plans that include a Hong Kong or UK phone number alongside China data. These numbers are not mainland Chinese numbers —they are international numbers that work in China through roaming. A Hong Kong number (+852) can receive SMS in China, which is useful for account verification, but it is not a mainland Chinese number for WeChat Pay registration purposes.
 
@@ -526,7 +526,7 @@ This is one of the most frequent questions from travelers considering an eSIM. T
 
 The practical implication: if you need a Chinese phone number for WeChat Pay, Alipay, Didi, or 12306, you must get a physical Chinese SIM. An eSIM alone will not meet this requirement.
 
-That said, many travelers operate successfully with a dual-SIM setup: a physical Chinese SIM for the local number and a travel eSIM for data with firewall bypass. Your phone's "primary data" setting can be pointed to the eSIM, while calls and SMS route through the physical Chinese SIM. This is the optimal configuration for travelers who need both a local number and unfettered internet access. Our guide on [China eSIM phone number and registration](/blog/china-esim-phone-number-registration/) covers the detailed setup.
+That said, many travelers operate successfully with a dual-SIM setup: a physical Chinese SIM for the local number and a travel eSIM for data with firewall bypass. Your phone's "primary data" setting can be pointed to the eSIM, while calls and SMS route through the physical Chinese SIM. This is the optimal configuration for travelers who need both a local number and unfettered internet access. The guide on [China eSIM phone number and registration](/blog/china-esim-phone-number-registration/) covers the detailed setup.
 
 ---
 
@@ -542,7 +542,7 @@ The optimal connectivity strategy for China is not choosing one option —it is 
 
 **Setup:** On iPhone, go to Settings > Cellular > select your home SIM > set "Data Roaming" to off. Select the eSIM > set "Data Roaming" to on. Under "Cellular Data," select the eSIM as the default line for data. On Android, the equivalent is Settings > Connections > SIM Manager > set eSIM as the preferred SIM for mobile data.
 
-Our [China eSIM dual SIM setup and installation guide](/blog/china-esim-setup-installation-dual-sim/) has step-by-step instructions with screenshots for iPhone and every major Android brand.
+The [China eSIM dual SIM setup and installation guide](/blog/china-esim-setup-installation-dual-sim/) has step-by-step instructions with screenshots for iPhone and every major Android brand.
 
 **Configuration 2: Chinese Physical SIM + China eSIM (When You Need a Local Number)**
 - **Physical SIM slot:** China Mobile or China Unicom SIM (for local number, WeChat Pay SMS, Didi registration)
@@ -568,7 +568,7 @@ iPhone models from the iPhone 13 onward support dual active eSIMs. Samsung Galax
 
 Here is the shortest possible decision framework:
 
-1. **If you want Google, WhatsApp, and Instagram to work immediately:** Choose a China eSIM. it's the only option that comes with built-in firewall bypass and requires no additional configuration.
+1. **If you want Google, WhatsApp, and Instagram to work immediately:** Choose Roami. it's the only option that comes with built-in firewall bypass and requires no additional configuration.
 
 2. **If you need a Chinese phone number:** You need a physical Chinese SIM. Pair it with a travel eSIM for data if you want Google access too.
 
@@ -580,13 +580,13 @@ Here is the shortest possible decision framework:
 
 The **china esim vs physical sim** decision ultimately comes down to one question: do you need Google Maps and WhatsApp? If yes, the eSIM is the right choice. If no, the physical SIM saves a few dollars but requires a VPN if your needs change mid-trip.
 
-For a comprehensive overview of everything related to China eSIM, see our [China eSIM complete guide](/blog/china-esim-complete-guide/), which covers compatibility, providers, pricing, setup, and troubleshooting end to end.
+For a comprehensive overview of everything related to China eSIM, see the [China eSIM complete guide](/blog/china-esim-complete-guide/), which covers compatibility, providers, pricing, setup, and troubleshooting end to end.
 
 ---
 
 *Price data sourced from carrier and eSIM provider websites, airport kiosk listings, and GSMA market intelligence as of July 2026. Prices in USD unless otherwise noted. Carrier roaming prices sourced from Verizon, AT&T, T-Mobile, Vodafone, EE, Optus, and Telstra published rates as of June-July 2026.*
 
-For step-by-step setup, see our [China eSIM installation guide](/blog/china-esim-setup-installation-dual-sim/). For coverage across Chinese cities, see our [China eSIM coverage guide](/blog/china-esim-coverage-cities-trains-5g/).
+For step-by-step setup, see the [China eSIM installation guide](/blog/china-esim-setup-installation-dual-sim/). For coverage across Chinese cities, see the [China eSIM coverage guide](/blog/china-esim-coverage-cities-trains-5g/).
 
 <script type="application/ld+json">
 {
