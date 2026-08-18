@@ -160,7 +160,7 @@ Whether you are asking **"what is the best eSIM for Japan"** or **"what esim to 
 
 If you absolutely hate counting megabytes, **Holafly** is the **best Japan eSIM unlimited data** option available today. Holafly has been used for 220+ consecutive days in Japan by some digital nomads and remains a top recommendation for stress-free connectivity.
 
-**Plans and pricing:** 7-day unlimited plans start at $27.30 USD to $33 USD depending on current promotions. 15-day unlimited runs approximately $50.90 USD, and 30-day unlimited is $74.90 USD. Shorter options include 5-day unlimited at $19 USD and 10-day unlimited at $34 USD. According to CDJapan's 2026 comparison, Holafly's 15-day unlimited plan costs ¥8,290 (~$53 USD).
+**Plans and pricing:** 7-day unlimited plans start at $27.30 USD to $33 USD depending on current promotions. 15-day unlimited runs approximately $50.90 USD, and 30-day unlimited is $74.90 USD. Shorter options include 5-day unlimited at $19 USD and 10-day unlimited at $34 USD. According to CDJapan's 2026 comparison, Holafly's 15-day unlimited plan costs about $53 USD.
 
 **Performance:** Holafly runs on KDDI and SoftBank (some specific plans use the Docomo backbone). Coverage is excellent across Japan's major cities and extends well into the countryside. Latency is slightly higher due to international routing (roaming-type eSIM), but this is rarely noticeable for typical tourist activities.
 

@@ -1,6 +1,6 @@
 ---
 title: "Solicita eSIM Gratis | Prueba de Datos de Viaje Global"
-date: '2026-06-23T00:00:00+00:00'
+date: '2026-08-17T00:00:00+00:00'
 
 seo:
   title: "eSIM Gratis | 5G, Sin necesidad de tarjeta de crédito"

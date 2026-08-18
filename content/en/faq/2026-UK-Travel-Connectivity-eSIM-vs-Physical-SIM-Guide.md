@@ -4,7 +4,7 @@ h1_title: "UK Travel 2026: eSIM vs Physical SIM – The Complete Guide"
 description: "Planning a UK trip? Confused about eSIM vs physical SIM? Plain‑English guide covers Vodafone UK eSIM, Roami, Airalo, and more. No tech jargon."
 keywords: ["UK eSIM", "travel eSIM UK", "buy eSIM online UK", "eSIM vs physical SIM UK", "Vodafone UK eSIM", "best eSIM for UK travel", "UK mobile data", "cheapest UK eSIM", "UK eSIM activation", "EE eSIM UK"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-06-23T10:00:00Z
+lastmod: 2026-08-18T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup", "Vodafone"]
 toc: true
 image: "/images/esim-activation-guide.jpg"
@@ -241,7 +241,7 @@ If you've used Vodafone in Germany, Italy, or Spain, you might think the UK is t
 - A credit check
 - A 12‑ or 24‑month contract
 
-None of that is possible for a tourist. **Vodafone's Pay As You Go (prepaid) does NOT include eSIM.** If you walk into a Vodafone store, they'll sell you a physical SIM – not an eSIM. So when you search for **"vodafone esim uk"** or **"vodafone uk esim"** as a tourist, you're searching for something that doesn't exist.
+None of that is possible for a tourist. **Vodafone's Pay As You Go (prepaid) does NOT include eSIM.** If you walk into a Vodafone store, they'll sell you a physical SIM – not an eSIM. So a tourist looking for a Vodafone UK eSIM won't find one.
 
 **So why is this so confusing?**
 

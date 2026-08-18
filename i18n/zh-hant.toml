@@ -446,3 +446,38 @@ other = "我們esim品牌是roami， 不是roamic，  請注意辨別。"
 
 [esim_free_trial]
 other = "eSIM 免費試用"
+
+# ===== 三步指南 =====
+[steps_title]
+other = "如何透過3個簡單步驟獲取您的免費eSIM"
+
+[steps_desc]
+other = "無需信用卡，無需承諾 – 只需一個免費的eSIM QR碼，即可立即開始測試。"
+
+[step1_title]
+other = "選擇您的國家"
+
+[step1_desc]
+other = "從下方列表中選擇您的目的地 – 我們為超過200個國家提供免費eSIM試用。"
+
+[step2_title]
+other = "索取免費試用"
+
+[step2_desc]
+other = "點擊「索取免費試用」– 無需信用卡。我們將立即發送您的免費eSIM QR碼。"
+
+[step3_title]
+other = "掃描並連線"
+
+[step3_desc]
+other = "使用手機相機掃描QR碼，按照設定步驟操作，即可享受100MB的免費數據。"
+
+# ===== 為什麼選擇Roami =====
+[why_title]
+other = "為什麼Roami是2026年最佳的免費eSIM供應商"
+
+[why_p1]
+other = '''當您在尋找<strong>免費eSIM</strong>時，您會想要一個可靠、快速且真正免費的選項。Roami正是提供這樣的服務 – 包含<strong>100MB數據</strong>的<strong>免費eSIM試用</strong>，<strong>無需信用卡</strong>，並覆蓋<strong>超過200個國家</strong>。與許多競爭對手不同，我們不會將您鎖定在訂閱方案中，也不會事先要求付款資訊。'''
+
+[why_p2]
+other = '''我們的<strong>免費eSIM QR碼</strong>會即時生成並發送到您的電子郵件，因此您可以在幾分鐘內設定好您的裝置。無論您是經常旅行的旅客，還是只是想測試eSIM技術，Roami都能提供<strong>最佳的免費eSIM體驗</strong>，具備4G/5G速度、24/7客戶支援，以及如果您需要更多數據，則提供透明的付費方案定價。'''

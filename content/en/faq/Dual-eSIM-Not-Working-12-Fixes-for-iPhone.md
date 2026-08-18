@@ -1,10 +1,10 @@
 ---
 title: "Dual eSIM Not Working? 12 iPhone Fixes"
 h1_title: "How to Fix Dual eSIM Not Working on iPhone: 12 Solutions"
-description: "Dual eSIM not working? Fix 12 iPhone issues: incoming call routing, VoLTE setup, battery drain, and carrier lock checks. Step-by-step guide for iPhone 17, 16."
-keywords: ["dual eSIM not working", "iPhone dual SIM no service", "dual eSIM signal issue", "eSIM carrier lock", "eSIM troubleshooting", "eSIM activation failed", "iOS 26 eSIM", "eSIM APN settings", "eSIM confirmation code", "eSIM no service"]
+description: "Dual eSIM not working? Fix 12 iPhone issues: incoming call routing, VoLTE setup, battery drain, and carrier lock checks. Step-by-step guide for iPhone 16, 16."
+keywords: ["dual eSIM not working", "iPhone dual SIM no service", "dual eSIM signal issue", "eSIM carrier lock", "eSIM troubleshooting", "eSIM activation failed", "iOS 18 eSIM", "eSIM APN settings", "eSIM confirmation code", "eSIM no service"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-06-23T10:00:00Z
+lastmod: 2026-08-18T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
 
@@ -104,11 +104,11 @@ sidebar_questions:
 > - Check **Carrier Lock** in Settings (`No SIM restrictions`) if you can’t add a second eSIM.  
 > - **Dual eSIM** battery drain can be reduced by disabling 5G on the weaker signal line.
 
-Using two phone numbers on one iPhone is incredibly convenient – but it comes with hidden pitfalls. From VoLTE and line-ordering issues to incoming call routing failures, this guide covers everything you need to know to run **dual eSIM** or **eSIM + physical SIM** flawlessly on iPhone 17, 16, and earlier models with iOS 26. For a complete walkthrough of basic eSIM setup, see our **[iPhone 17 eSIM Complete Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)**. This dual eSIM troubleshooting guide follows the latest [GSMA eSIM specifications](https://www.gsma.com/esim/) and has been tested on iOS 26. Apple's official [About eSIM on iPhone](https://support.apple.com/en-us/HT209044) documentation provides additional background on compatibility.
+Using two phone numbers on one iPhone is incredibly convenient – but it comes with hidden pitfalls. From VoLTE and line-ordering issues to incoming call routing failures, this guide covers everything you need to know to run **dual eSIM** or **eSIM + physical SIM** flawlessly on iPhone 16 and earlier models with iOS 18. For a complete walkthrough of basic eSIM setup, see our **[iPhone 16 eSIM Complete Guide](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)**. This dual eSIM troubleshooting guide follows the latest [GSMA eSIM specifications](https://www.gsma.com/esim/) and has been tested on iOS 18. Apple's official [About eSIM on iPhone](https://support.apple.com/en-us/HT209044) documentation provides additional background on compatibility.
 
 ---
 
-## 📌 Quick Diagnostic Index (Dual eSIM Specific)
+## Quick Diagnostic Index (Dual eSIM Specific)
 
 | Symptom | Most Likely Cause | Fix Section |
 |---------|-------------------|--------------|
@@ -123,20 +123,20 @@ Using two phone numbers on one iPhone is incredibly convenient – but it comes 
 
 ## 1. What Are Your Dual eSIM Options on iPhone?
 
-Starting with iPhone XS, XR and all newer models (including iPhone 17), Apple supports dual eSIM (two eSIMs active simultaneously) on iPhone 13 and later. Non‑US models also support one eSIM plus one physical nano‑SIM. Mainland China dual‑physical‑SIM models have no eSIM support except the iPhone 17 Air.
+Starting with iPhone XS, XR and all newer models (including iPhone 16), Apple supports dual eSIM (two eSIMs active simultaneously) on iPhone 13 and later. Non‑US models also support one eSIM plus one physical nano‑SIM. Mainland China dual‑physical‑SIM models have no eSIM support except the iPhone 16.
 
 Your **dual eSIM** configuration depends on your iPhone model and region:
 
 | Configuration | Supported Models | Max Active Lines |
 |---------------|------------------|------------------|
-| **Dual eSIM** | iPhone 13 and newer (including all iPhone 17 models) | 2 |
+| **Dual eSIM** | iPhone 13 and newer (including all iPhone 16 models) | 2 |
 | **1 eSIM + 1 physical nano‑SIM** | All iPhones with SIM tray (non‑US models, and US models before iPhone 14) | 2 |
 | **1 physical SIM only** | Older iPhones (pre‑XS) | 1 |
-| **2 physical SIMs** | Mainland China, Hong Kong, Macau specific dual‑SIM tray models (e.g., iPhone 17 China version) | 2 |
+| **2 physical SIMs** | Mainland China, Hong Kong, Macau specific dual‑SIM tray models (e.g., iPhone 16 China version) | 2 |
 
 For a complete list of compatible iPhones, [check your iPhone's dual eSIM compatibility](/compatibility/).
 
-> 📱 **iPhone 17 Air & US iPhone 17 series**: No physical SIM tray – only dual eSIM. If you run into activation problems on these models, check our **[eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/)** for advanced fixes.
+> 📱 **iPhone 16 & US iPhone 16 series**: No physical SIM tray – only dual eSIM. If you run into activation problems on these models, check our **[eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/)** for advanced fixes.
 
 ---
 
@@ -242,23 +242,23 @@ To disable a line: `Settings > Cellular` → tap the line → toggle off **Turn 
 4. If still not recognized, try the SIM in another phone – if it works, your iPhone's SIM reader may be faulty.
 5. Replace SIM card at carrier store (free for most postpaid plans).
 
-If you plan to switch entirely to eSIM, refer to our **[iPhone 17 eSIM guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** for activation methods.
+If you plan to switch entirely to eSIM, refer to our **[iPhone 16 eSIM guide](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)** for activation methods.
 
 ---
 
 ## 8. Special Regional Cases: China, Hong Kong, Macau
 
-Mainland China iPhones (except iPhone 17 Air) have two physical nano‑SIM slots and **no eSIM support at all**. Hong Kong and Macau models typically support eSIM + physical SIM. If you buy a mainland China dual‑physical‑SIM iPhone, you cannot install any eSIM, including international travel eSIMs – this is a hardware limitation.
+Mainland China iPhones (except iPhone 16) have two physical nano‑SIM slots and **no eSIM support at all**. Hong Kong and Macau models typically support eSIM + physical SIM. If you buy a mainland China dual‑physical‑SIM iPhone, you cannot install any eSIM, including international travel eSIMs – this is a hardware limitation.
 
 Apple sells specific dual‑physical‑SIM models in **mainland China**:
-- iPhone 17, 17 Pro, 17 Pro Max: **two physical nano‑SIM slots** (no eSIM except Air).
-- iPhone 17 Air: **eSIM only** (global, including China).
+- iPhone 16, 17 Pro, 17 Pro Max: **two physical nano‑SIM slots** (no eSIM except Air).
+- iPhone 16: **eSIM only** (global, including China).
 
 **Hong Kong and Macau** models:
 - Support **eSIM + physical SIM** (like international models) or dual physical SIM depending on model.
 - Always verify before buying if you plan to use eSIM travel plans.
 
-> ⚠️ **Important**: If you buy a mainland China dual‑physical‑SIM iPhone, you **cannot install any eSIM** (including international travel eSIMs) – except the iPhone 17 Air. This is a hardware limitation, not a software block.
+> ⚠️ **Important**: If you buy a mainland China dual‑physical‑SIM iPhone, you **cannot install any eSIM** (including international travel eSIMs) – except the iPhone 16. This is a hardware limitation, not a software block.
 
 ---
 
@@ -298,10 +298,10 @@ For additional problems like “eSIM bound to another device” or “restore er
 ## 11. Frequently Asked Questions
 
 **Q1: Can I use two eSIMs from the same carrier?**  
-Yes, as long as your carrier allows multiple eSIM profiles on one account. For example, T‑Mobile US supports up to two eSIMs on the same iPhone. For a full list of compatible iPhone models, check the **[iPhone 17 compatibility table](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/#2-global-iphone-17-models--esim-compatibility-table)**.
+Yes, as long as your carrier allows multiple eSIM profiles on one account. For example, T‑Mobile US supports up to two eSIMs on the same iPhone. For a full list of compatible iPhone models, check the **[iPhone 16 compatibility table](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)**.
 
 **Q2: Will both lines support 5G simultaneously?**  
-Yes, on iPhone 13 and newer (including iPhone 17), both lines can be on 5G (dual 5G standby). However, only one line can use 5G data at a time; the other uses 5G for voice fallback (VoNR).
+Yes, on iPhone 13 and newer (including iPhone 16), both lines can be on 5G (dual 5G standby). However, only one line can use 5G data at a time; the other uses 5G for voice fallback (VoNR).
 
 **Q3: My second line works but the first one stopped working after adding it – what happened?**  
 You may have accidentally swapped the primary line settings. Go to `Settings > Cellular > Default Voice Line` and set it back.

@@ -545,3 +545,38 @@ other = "❌ Limitado"
 
 [esim_free_trial]
 other = "eSIM de teste gratuito"
+
+# ===== Guia em 3 passos =====
+[steps_title]
+other = "Como obter seu eSIM gratuito em 3 passos simples"
+
+[steps_desc]
+other = "Sem cartão de crédito, sem compromisso – apenas um código QR eSIM gratuito para começar a testar instantaneamente."
+
+[step1_title]
+other = "Escolha seu país"
+
+[step1_desc]
+other = "Selecione seu destino na lista abaixo – oferecemos testes gratuitos de eSIM em mais de 200 países."
+
+[step2_title]
+other = "Solicite seu teste gratuito"
+
+[step2_desc]
+other = "Clique em \"Solicitar teste gratuito\" – nenhum cartão de crédito é necessário. Enviaremos instantaneamente seu código QR eSIM gratuito."
+
+[step3_title]
+other = "Escaneie e conecte-se"
+
+[step3_desc]
+other = "Escaneie o código QR com a câmera do seu telefone, siga a configuração e desfrute de 100 MB de dados gratuitos."
+
+# ===== Por que a Roami =====
+[why_title]
+other = "Por que a Roami é a melhor provedora de eSIM gratuito em 2026"
+
+[why_p1]
+other = '''Ao procurar um <strong>eSIM gratuito</strong>, você deseja uma opção confiável, rápida e verdadeiramente sem custos. A Roami oferece exatamente isso – com um <strong>teste gratuito de eSIM</strong> que inclui <strong>100 MB de dados</strong>, <strong>sem necessidade de cartão de crédito</strong> e cobertura em <strong>mais de 200 países</strong>. Ao contrário de muitos concorrentes, não o prendemos a uma assinatura nem solicitamos dados de pagamento antecipadamente.'''
+
+[why_p2]
+other = '''Nosso <strong>código QR eSIM gratuito</strong> é gerado instantaneamente e enviado para seu e-mail, para que você possa configurar seu dispositivo em minutos. Seja você um viajante frequente ou apenas queira testar a tecnologia eSIM, a Roami oferece a <strong>melhor experiência em eSIM gratuito</strong> com velocidades 4G/5G, suporte 24/7 e preços transparentes para planos pagos, caso precise de mais dados.'''

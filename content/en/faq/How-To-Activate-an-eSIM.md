@@ -1,10 +1,10 @@
 ---
-title: "eSIM Not Activating? Fix iOS & Android Errors Fast"
-h1_title: "How to Fix eSIM Activation Errors on iOS and Android"
-description: "Stuck on eSIM setup? Learn how to scan QR codes, enter details manually, and fix \"Activation Failed\" errors on iPhone & Android. Get connected in 2 mins."
+title: "How to Activate an eSIM on iOS and Android"
+h1_title: "How to Activate an eSIM on iOS and Android (Step-by-Step)"
+description: "Step-by-step guide to activate an eSIM on iPhone and Android. Scan a QR code, enter details manually, or use a carrier app, plus fixes for activation failures."
 keywords: ["eSIM activation", "how to activate eSIM", "activate eSIM iPhone", "Android eSIM", "eSIM QR code", "eSIM manual entry", "eSIM troubleshooting", "travel eSIM", "eSIM setup iPhone", "add eSIM to iPhone"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-06-23T10:00:00Z
+lastmod: 2026-08-18T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
 image: "/images/esim-activation-guide.jpg"

@@ -1,10 +1,10 @@
 ---
-title: "Switch to iPhone 16? Move eSIM in 60 Sec (No Carrier Call)"
-h1_title: "How to Switch to iPhone 16 and Move Your eSIM in 60 Seconds Without Calling Your Carrier"
-description: 'Changing from Android to iPhone? Transfer your eSIM in 60 seconds without calling your carrier. Fix "transfer failed" errors. Supports iOS 26 & Android 16.'
-keywords: ["eSIM cross-platform transfer", "eSIM transfer error", "iOS 26 eSIM", "eSIM carrier lock", "eSIM confirmation code", "eSIM no service", "eSIM APN settings", "eSIM troubleshooting", "eSIM activation failed", "transfer eSIM between iPhone and Android"]
+title: "How to Transfer eSIM Between iPhone and Android"
+h1_title: "How to Transfer an eSIM Between iPhone and Android"
+description: "Move your eSIM between iPhone and Android with a carrier app or re-issued QR code. Step-by-step for both directions, plus fixes for common transfer errors."
+keywords: ["eSIM cross-platform transfer", "eSIM transfer error", "iOS 18 eSIM", "eSIM carrier lock", "eSIM confirmation code", "eSIM no service", "eSIM APN settings", "eSIM troubleshooting", "eSIM activation failed", "transfer eSIM between iPhone and Android"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-06-23T10:00:00Z
+lastmod: 2026-08-18T10:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
 
@@ -98,41 +98,40 @@ sidebar_questions:
 ---
 
 
-For years, **eSIM transfers** were locked inside the same ecosystem – you could move from iPhone to iPhone, or between some Android phones, but crossing the iOS‑Android divide required a trip to your carrier. **iOS 26 and Android 16 change that completely.** This guide walks you through every supported method, carrier requirement, and troubleshooting step to complete a **cross‑platform eSIM transfer** seamlessly.
+For years, **eSIM transfers** were locked inside the same ecosystem – you could move from iPhone to iPhone, or between some Android phones, but crossing the iOS‑Android divide required a trip to your carrier. **There is no built‑in iOS‑to‑Android eSIM transfer, so this guide focuses on the methods that actually work: your carrier's app and a carrier‑issued QR code.** This guide walks you through every supported method, carrier requirement, and troubleshooting step to complete a **cross‑platform eSIM transfer** seamlessly.
 
-If you're new to eSIM technology, our [What is eSIM? guide](/faq/what-is-esim/) covers the basics. For more advanced **eSIM troubleshooting** scenarios, check our **[eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/)**. For general activation help, see our **[iPhone 17 eSIM Complete Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)**.
+If you're new to eSIM technology, our [What is eSIM? guide](/faq/what-is-esim/) covers the basics. For more advanced **eSIM troubleshooting** scenarios, check our **[eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/)**. For general activation help, see our **[iPhone 16 eSIM Complete Guide](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)**.
 
 
 ## Quick Summary: eSIM Transfer Between iPhone and Android
 
 | From | To | Minimum OS | Method |
 |------|-----|------------|--------|
-| iPhone (iOS 26) | Android (16+) | iOS 26 / Android 16 | QR code + manual pairing |
-| Android (16+) | iPhone (iOS 26) | iOS 26 / Android 16 | QR code scan (iPhone generates) |
-| iPhone (iOS 18 and earlier) | Any | – | Not directly supported – use carrier QR code |
-| Android (15 or older) | Any | – | Not supported – upgrade OS or contact carrier |
+| iPhone | Android | iOS 18 / Android 16 | Carrier app or carrier‑issued QR code |
+| Android | iPhone | iOS 18 / Android 16 | Carrier app or carrier‑issued QR code |
+| Any | Any | – | No native cross‑platform transfer – use your carrier |
 
-**Supported carriers** for **cross-platform eSIM transfer** vary by carrier and country. Major carriers such as AT&T, T-Mobile, Verizon, Orange, SFR, Deutsche Telekom, EE, and Swisscom are enabling the feature gradually. Check your carrier's website or app for the current status.
+**Supported carriers** for **cross-platform eSIM transfer** vary by carrier and country. Most major carriers such as AT&T, T-Mobile, Verizon, Orange, SFR, Deutsche Telekom, EE, and Swisscom let you move an eSIM between devices through their app or by re‑issuing a QR code. Check your carrier's website or app for the current status.
 
-*If your carrier has not enabled it, the transfer option won't appear. Use the QR code method provided by your carrier instead. For a complete reference of supported devices, see our [eSIM compatibility list](/compatibility/).*
+*If your carrier doesn't offer app‑based transfer, use the QR code method provided by your carrier instead. For a complete reference of supported devices, see our [eSIM compatibility list](/compatibility/).*
 
 
-## Why Cross‑Platform eSIM Transfer Changes Everything
+## Why Cross‑Platform eSIM Transfer Works the Way It Does
 
-Before iOS 26, moving an eSIM from an Android phone to an iPhone meant:
-- Calling your carrier (often waiting on hold)
+Moving an eSIM from an Android phone to an iPhone (or the other way) means:
+- Calling or messaging your carrier (or using their app)
 - Providing the new device's EID and IMEI
 - Waiting minutes or hours for a new QR code
 
-Now, with **native cross‑platform eSIM transfer**, the process is fully self‑service and takes less than 60 seconds. You no longer need to contact your carrier – the transfer happens directly between devices.
+There is no built‑in iOS‑to‑Android eSIM transfer, so the process is handled by your carrier. Some carriers let you complete it yourself through their app; others re‑issue a QR code you scan on the new device.
 
 ### What makes it possible?
 
-- **iOS 26** introduced the `Transfer from Android` feature inside Settings.
-- **Android 16** added a reciprocal `Pair with iPhone or iPad` menu under Google Services.
-- Both OS versions implement the GSMA's **consumer eSIM transfer specification (SGP.22)**, allowing secure peer‑to‑peer profile migration.
+- Your **carrier** controls the transfer through its app or website, or by re‑issuing your eSIM as a new QR code.
+- Both iOS and Android store the eSIM profile on a secure chip that implements the GSMA's **consumer eSIM specification (SGP.22)**.
+- The new device downloads the profile from the carrier's SM‑DP+ server after the carrier approves the transfer.
 
-The [GSMA](https://www.gsma.com/esim/) defines these technical standards that make **eSIM cross‑platform transfer** possible. [According to official Telekom announcements](https://www.telekom.com/en/media/media-information/archive/esim-transfer-1097076), the **Telekom eSIM** was the first in Europe to support this feature – Telekom customers can now transfer their eSIM between iOS and Android without any additional app. The [Apple Support – eSIM on iPhone](https://support.apple.com/en-us/118670) page also confirms the compatibility requirements for iOS devices.
+The [GSMA](https://www.gsma.com/esim/) defines the technical standards that make **eSIM activation and profile download** work securely across devices. The [Apple Support – eSIM on iPhone](https://support.apple.com/en-us/118670) page confirms the compatibility requirements for iOS devices.
 
 > 🔒 Security note: The transfer is encrypted end‑to‑end and requires both devices to be in close proximity with Bluetooth enabled. The old eSIM is automatically deactivated the moment the new device activates it. If you later need to fix any dual‑SIM quirks after **eSIM transfer**, our **[Dual eSIM Not Working? 12 Fixes for iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** is a helpful resource.
 
@@ -148,11 +147,11 @@ The [GSMA](https://www.gsma.com/esim/) defines these technical standards that ma
 - Your **eSIM profile** is not **expired** – some profiles have limited validity dates.
 
 **For Android → iPhone:**
-- iPhone must be on **iOS 26 or later**.
+- iPhone must be on **iOS 18 or later**.
 - Android must be on **Android 16 or later**.
 
 **For iPhone → Android:**
-- iPhone must be on **iOS 26 or later** (the Android‑directed transfer feature arrived in iOS 26).
+- iPhone must be on **iOS 18 or later**.
 - Android must be on **Android 16 or later**.
 
 > 🚨 If your device is on an older OS, the menu option will simply not appear. Update first. If you're dealing with an **expired eSIM profile**, contact your carrier for a new QR code before starting the transfer.
@@ -191,70 +190,59 @@ Both are essential – the transfer won't work without either one.
 The [GSMA](https://www.gsma.com/esim/) defines these technical standards that ensure **eSIM activation** and **eSIM profile download** work securely across devices and carriers worldwide.
 
 
-## Method A: eSIM Transfer from Android to iPhone (iOS 26+)
+## Method A: eSIM Transfer from Android to iPhone (Carrier App)
 
-This is the most common scenario – switching from a Samsung, Pixel, or other Android to a new iPhone. For a successful **eSIM from Android to iPhone** transfer, follow these steps:
+This is the most common scenario – switching from a Samsung, Pixel, or other Android to a new iPhone. The most reliable way to move your number is through your carrier's app. Here's how:
 
 ### Step‑by‑step
 
-**On your Android (source device):**
-1. Unlock the phone and enable Bluetooth.
-2. Keep it next to the iPhone (within 10 cm).
+**Before you start:**
+- Have your carrier's app installed on the new iPhone (or be ready to sign in on the carrier's website).
+- Know your account PIN or login credentials.
 
 **On your iPhone (target):**
-1. Go to `Settings` → `Cellular` → `Add eSIM`.
-2. Tap `Transfer from Android`. A QR code will appear on the iPhone screen.
-   - *If you don't see this option, update to iOS 26.*
-3. On your Android phone, open the **camera** app.
-4. Scan the QR code shown on the iPhone.
-5. A notification will appear: "eSIM transfer detected". Tap it.
-6. Select the phone number (eSIM profile) you want to transfer.
-7. Tap `Transfer`. The Android will show "Preparing transfer…"
-8. On the iPhone, a confirmation popup appears – tap `Continue`.
-9. Wait 10–30 seconds. The iPhone will say "Activation complete".
-10. The Android will show "eSIM removed" – this is normal.
+1. Install and open your carrier's app (for example, the T‑Mobile, Verizon, or AT&T app).
+2. Sign in and look for an option such as "Activate eSIM", "Change device", or "Transfer to new device".
+3. Follow the prompts to enter your new iPhone's **EID** and **IMEI** (shown under `Settings` → `General` → `About`).
+4. The carrier pushes your eSIM profile to the new iPhone, or generates a QR code for you to scan.
+5. On the iPhone, go to `Settings` → `Cellular` → `Add eSIM` and scan the QR code if one was generated.
+6. Wait for "Activation complete". Your number is now active on the iPhone.
 
-✅ **Done.** Your number is now active on the iPhone. The Android's eSIM is automatically deactivated and cannot be used again. This is the cleanest way to perform an **eSIM from Android to iPhone** transfer.
+✅ **Done.** Your number is now active on the iPhone. If your carrier doesn't offer an app, contact them to re‑issue your eSIM as a new QR code (see the fallback methods below).
 
-### What if the camera scan doesn't work?
+### What if the app transfer doesn't work?
 
-Use the **manual pairing fallback**:
+Use the **carrier QR code fallback**:
 
-- On the iPhone, after tapping `Transfer from Android`, choose `Other options` below the QR code.
-- The iPhone shows a **session ID** and a **6‑digit pairing code**.
-- On the Android: `Settings` → `Google services` → `All services` → `Pair with iPhone or iPad` → `Transfer eSIM`.
-- Enter the session ID and pairing code manually.
-- Proceed with the transfer.
+- Contact your carrier (chat, phone, or website).
+- Tell them you're switching devices and ask them to **re‑issue your eSIM as a new QR code**.
+- Scan the new QR code on the iPhone: `Settings` → `Cellular` → `Add eSIM`.
+- Complete activation.
 
 If you see an **"unable to activate esim"** error during this process, check your Wi‑Fi connection and try again. For more help, see our [eSIM troubleshooting guide](/faq/esim-deep-troubleshooting-guide-2026/).
 
 
-## Method B: eSIM Transfer from iPhone to Android (iOS 26+)
+## Method B: eSIM Transfer from iPhone to Android (Carrier QR Code)
 
-Apple added this capability in **iOS 26** (September 2025). The process is similar but initiated from the iPhone. This is the method for **eSIM from iPhone to Android** transfer.
+There is no built‑in "Transfer to Android" option on iPhone. The reliable method is to have your carrier re‑issue your eSIM. Here's how:
 
 ### Pre‑requisites
-- iPhone on **iOS 26 or later**
-- Android on **Android 16 or later**
-- Both devices on same Wi‑Fi or Bluetooth on
+- Your new Android phone is **unlocked**.
+- You can contact your carrier (or sign in to their app/website).
+- Your Android is on **Android 16 or later**.
 
 ### Steps
 
-**On your iPhone (source):**
-1. Go to `Settings` → `Cellular`.
-2. Tap the eSIM you want to transfer.
-3. Scroll down and tap `Transfer to Android` (or `Transfer eSIM` under a new "Transfer to Android" section – exact wording varies by carrier).
-   - *If you don't see this, either your carrier doesn't support it or you need iOS 26.*
-4. A QR code appears. Keep this screen on.
+**Contact your carrier (or use their app):**
+1. Tell them you're moving your eSIM from an iPhone to an Android phone.
+2. Provide the new Android device's **EID** and **IMEI** (under `Settings` → `About phone`).
+3. Your carrier re‑issues your eSIM as a new QR code (or pushes it through their app).
 
 **On your Android (target):**
-1. Go to `Settings` → `Google services` → `All services` → `Pair with iPhone or iPad`.
-2. Tap `Transfer eSIM`.
-3. Scan the QR code displayed on the iPhone.
-4. Select the number (if multiple eSIMs are present on the iPhone).
-5. Tap `Transfer`.
-6. On the iPhone, double‑click the side button to confirm the transfer (biometric authentication required).
-7. Wait for activation on Android. The iPhone will show "eSIM removed" after completion.
+1. Go to `Settings` → `Network & internet` → `SIMs` → `Add eSIM` (wording varies by brand).
+2. Scan the QR code the carrier provided.
+3. Follow the prompts to download and activate the profile.
+4. Wait for activation to complete. Your old iPhone's eSIM is deactivated once the number moves over.
 
 ✅ Done. Your number now lives on the Android phone. This completes the **eSIM from iPhone to Android** transfer.
 
@@ -298,7 +286,7 @@ Android transfer methods vary by brand:
 | **Carrier dependence** | Higher | Lower (Apple/Google handle it) |
 | **Success rate** | Varies by carrier | Generally high |
 
-For a deeper dive into device‑specific eSIM behavior, see our **[iPhone 17 eSIM Complete Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** (also applicable to many older models).
+For a deeper dive into device‑specific eSIM behavior, see our **[iPhone 16 eSIM Complete Guide](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)** (also applicable to many older models).
 
 
 ## Supported Carriers for Cross-Platform eSIM Transfer (Detailed)
@@ -309,9 +297,8 @@ Cross-platform eSIM transfer is still new, and carrier support is rolling out gr
 - Prepaid and data-only travel eSIMs (such as Airalo, Holafly, and Nomad) are typically tied to a single device and cannot be transferred - you buy a new plan on the new device.
 - Some carriers use their own transfer tools instead of the cross-platform standard.
 
-👉 **How to check if your carrier supports it on iPhone?**
-Try the steps in Method A or B. If the "Transfer from Android" or "Transfer to Android" option is missing, your carrier does not support it. You'll need to use the fallback methods below.
-Try the steps in Method A or B. If the "Transfer from Android" or "Transfer to Android" option is missing, your carrier does not support it. You'll need to use the fallback methods below.
+👉 **How to check if your carrier supports it?**
+Try the steps in Method A or B. If your carrier doesn’t offer app‑based transfer or a new QR code, use the fallback methods below.
 
 
 ## Fallback Methods When Cross‑Platform eSIM Transfer Isn't Supported
@@ -343,7 +330,7 @@ If your carrier gives you an **activation code** and **SM‑DP+ address**, you c
 
 ## Troubleshooting: Why Did My eSIM Transfer Fail?
 
-Based on real user cases and Apple's internal documentation, here are the most common failure reasons and fixes for **eSIM troubleshooting**:
+Here are the most common failure reasons and fixes for **eSIM troubleshooting**:
 
 | Error / Symptom | Most Likely Cause | Fix |
 |----------------|-------------------|-----|
@@ -433,7 +420,7 @@ For more help with app migration after **eSIM transfer**, see our [eSIM setup gu
 
 ✅ **Before transferring:**
 - Check carrier support (try the menu – if it's there, it's supported).
-- Update both phones to the latest OS (iOS 26 / Android 16).
+- Update both phones to the latest OS (iOS 18 / Android 16).
 - Charge both phones above 30%.
 - Disable VPN and ad‑blockers temporarily.
 - Verify your **eSIM profile** is not **expired**.
@@ -489,10 +476,10 @@ For more on using eSIMs while traveling, see our [Travel eSIM 2026 guide](/faq/t
 No. Most travel eSIMs (Airalo, Holafly, Nomad, etc.) do not support cross‑platform transfer. They are designed to be installed once per device. You'll need to buy a new plan on your new phone.
 
 **Q2: Does the transfer work between iPhone 11 and a Samsung S24?**  
-Yes – as long as both meet the OS requirements. iPhone 11 supports iOS 26 (it runs up to iOS 26). Samsung S24 supports Android 16. Hardware generation does not matter; only OS version matters.
+Yes – as long as both meet the OS requirements. iPhone 11 supports iOS 18 (it runs up to iOS 18). Samsung S24 supports Android 16. Hardware generation does not matter; only OS version matters.
 
-**Q3: I tried the steps but my Android doesn't have "Pair with iPhone or iPad". What gives?**  
-That menu is part of Google Services and only appears on Android 16+ with Google Play Services updated. Go to `Settings > About phone > Android version`. If it's 15 or older, upgrade your phone or use the fallback method (carrier QR code).
+**Q3: My carrier's app doesn't offer an eSIM transfer. What gives?**  
+Not every carrier supports app‑based eSIM transfer. If your carrier doesn't offer it, use the carrier QR code fallback: contact your carrier and ask them to re‑issue your eSIM as a new QR code.
 
 **Q4: Will my WhatsApp / iMessage / 2FA codes still work after transfer?**  
 WhatsApp uses your phone number – it will detect the SIM change and may ask to re‑verify (usually automatic). iMessage on iPhone uses the eSIM number and should reactivate within a minute. For 2FA, services that send SMS to your number will work normally – the number hasn't changed. See Section 10 for detailed migration steps.
@@ -533,7 +520,7 @@ The ability to transfer eSIMs between iPhone and Android without carrier interve
 
 ---
 
-*Information based on Apple iOS 26 & Android 16 official documentation, GSMA standards, and carrier testing as of June 2026. Features and carrier support are subject to change.*
+*Information based on Apple and Android official documentation, GSMA standards, and carrier guidance as of June 2026. Features and carrier support are subject to change.*
 ## Sources
 
 - [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)

@@ -1,6 +1,6 @@
 ---
 title: "Ücretsiz eSIM Al | Küresel Seyahat Veri Denemesi"
-date: '2026-08-10T00:00:00+00:00'
+date: '2026-08-17T00:00:00+00:00'
 
 seo:
   title: "Ücretsiz eSIM | 5G, Kredi Kartı Gerekmez - Roami"

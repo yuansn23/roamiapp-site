@@ -455,7 +455,7 @@ T-Mobile USA does not offer a travel eSIM for inbound visitors. T-Mobile's netwo
 
 ### Orange Travel vs Singtel (Singapore), Telstra (Australia), NTT Docomo (Japan):
 
-Asian and Australian carriers that offer prepaid eSIMs for visitors tend to price them closer to local prepaid rates than Orange Travel does. Singtel's prepaid eSIM in Singapore costs approximately SGD 12 ($9) for 5GB over 7 days with a local number. NTT Docomo's Japan prepaid eSIM costs approximately JPY 3,000 ($20) for 5GB over 7 days. These products occupy a middle ground between Orange Travel's high pricing and travel eSIM low pricing.
+Asian and Australian carriers that offer prepaid eSIMs for visitors tend to price them closer to local prepaid rates than Orange Travel does. Singtel's prepaid eSIM in Singapore costs approximately SGD 12 ($9) for 5GB over 7 days with a local number. NTT Docomo's Japan prepaid eSIM costs approximately $20 for 5GB over 7 days. These products occupy a middle ground between Orange Travel's high pricing and travel eSIM low pricing.
 
 ### The global pattern:
 

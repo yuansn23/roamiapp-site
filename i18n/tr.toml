@@ -545,3 +545,38 @@ other = "❌ Sınırlı"
 
 [esim_free_trial]
 other = "eSIM ücretsiz deneme"
+
+# ===== 3 Adımda Kılavuz =====
+[steps_title]
+other = "Ücretsiz eSIM'inizi 3 Basit Adımda Nasıl Alırsınız"
+
+[steps_desc]
+other = "Kredi kartı gerekmez, taahhüt yok – hemen test etmeye başlamak için yalnızca ücretsiz bir eSIM QR kodu."
+
+[step1_title]
+other = "Ülkenizi Seçin"
+
+[step1_desc]
+other = "Aşağıdaki listeden hedefinizi seçin – 200'den fazla ülkede ücretsiz eSIM denemeleri sunuyoruz."
+
+[step2_title]
+other = "Ücretsiz Denemenizi Talep Edin"
+
+[step2_desc]
+other = "\"Ücretsiz Denemeyi Talep Et\" düğmesine tıklayın – kredi kartı gerekmez. Ücretsiz eSIM QR kodunuzu anında göndereceğiz."
+
+[step3_title]
+other = "Tarayın ve Bağlanın"
+
+[step3_desc]
+other = "QR kodunu telefonunuzun kamerasıyla tarayın, kurulumu takip edin ve 100 MB ücretsiz verinin keyfini çıkarın."
+
+# ===== Roami Neden En İyi =====
+[why_title]
+other = "2026'da Roami Neden En İyi Ücretsiz eSIM Sağlayıcısıdır"
+
+[why_p1]
+other = '''<strong>Ücretsiz eSIM</strong> ararken, güvenilir, hızlı ve gerçekten maliyetsiz bir seçenek istersiniz. Roami tam olarak bunu sunar – <strong>100 MB veri</strong> içeren <strong>ücretsiz eSIM denemesi</strong>, <strong>kredi kartı gerektirmez</strong> ve <strong>200'den fazla ülkede</strong> kapsama alanı sağlar. Birçok rakibin aksine, sizi bir aboneliğe kilitlemeyiz veya önceden ödeme bilgileri talep etmeyiz.'''
+
+[why_p2]
+other = '''<strong>Ücretsiz eSIM QR kodumuz</strong> anında oluşturulur ve e-postanıza gönderilir, böylece cihazınızı dakikalar içinde kurabilirsiniz. İster sık seyahat eden biri olun, ister sadece eSIM teknolojisini test etmek isteyin, Roami 4G/5G hızları, 7/24 destek ve daha fazla veriye ihtiyacınız varsa ücretli planlar için şeffaf fiyatlandırma ile <strong>en iyi ücretsiz eSIM deneyimini</strong> sunar.'''

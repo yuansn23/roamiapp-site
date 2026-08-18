@@ -1,6 +1,6 @@
 ---
 title: "Claim Free eSIM | Global Travel Data Trial"
-date: '2026-06-10T00:00:00+00:00'
+date: '2026-08-17T00:00:00+00:00'
 
 seo:
   title: "Free eSIM | 5G, No Credit Card Required  -Roami"
@@ -58,10 +58,10 @@ ui:
     alert_redirect: "Redirecting to the claim page..."
 
 hero:
-  title: "Claim Your Free Global Travel eSIM"
-  subtitle: "Get your free digital SIM data instantly with no credit card required. Say goodbye to expensive roaming fees and stay connected worldwide via a simple QR code."
+  title: "Get Your Free eSIM Trial – 100MB Data, No Credit Card"
+  subtitle: "Instantly get a free eSIM QR code with 100MB data – no credit card, no hidden fees. Enjoy 4G/5G connectivity in 200+ countries. Perfect for testing eSIM before you travel."
   trust_badges: 
-    - "🌍 Global Coverage"
+    - "🌍 No Credit Card"
     - "⚡ 5G/4G High-Speed Network"
     - "💰 100% Free / $0.00"
   cta_primary: "Claim Free eSIM Now"

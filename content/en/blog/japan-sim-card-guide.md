@@ -98,7 +98,7 @@ Data-only SIM cards provide mobile internet access without a phone number. They'
 
 **Best for:** Most tourists, short-term visitors, and anyone who doesn't need a Japanese phone number.
 
-**Price range:** ¥1,500–¥4,000 ($10–$27 USD) for 7–30 days
+**Price range:** $10–$27 USD for 7–30 days
 
 ### Voice + Data SIM Cards
 
@@ -106,7 +106,7 @@ These SIM cards include a Japanese phone number, allowing you to make and receiv
 
 **Best for:** Long-term travelers, expats, business travelers, and anyone who needs a Japanese phone number.
 
-**Price range:** ¥3,000–¥10,000+ ($20–$70+ USD), depending on data allowance
+**Price range:** $20–$70+ USD, depending on data allowance
 
 ### Unlimited Data SIM Cards
 
@@ -114,7 +114,7 @@ Some providers offer "unlimited" data plans. However, as with eSIMs, "unlimited"
 
 **Best for:** Heavy data users, streamers, and remote workers.
 
-**Price range:** ¥4,500–¥15,000 ($30–$100+ USD)
+**Price range:** $30–$100+ USD
 
 ---
 
@@ -127,7 +127,7 @@ Major international airports in Japan have multiple SIM card counters in the arr
 **Narita Airport (NRT):**
 - SoftBank counters in Terminals 1 and 2
 - BIC Camera in Terminal 2 arrivals
-- JAL ABC counter (data SIMs from about ¥3,000 for 3 GB)
+- JAL ABC counter (data SIMs from about $20 for 3 GB)
 
 **Haneda Airport (HND):**
 - BIC Camera in Terminal 3 (7:00–22:00)
@@ -192,17 +192,17 @@ Some airports and hotels now have vending machines selling prepaid SIM cards. Th
 
 Here are the most popular physical SIM card providers for tourists in Japan, based on publicly available pricing.
 
-| Provider | Data | Duration | Price (JPY) | Voice | Network | Best For |
+| Provider | Data | Duration | Price (USD) | Voice | Network | Best For |
 |----------|------|----------|-------------|-------|---------|----------|
-| **b-mobile** | 5GB | 10 days | ¥1,980 | ❌ | NTT Docomo | Budget short trips |
-| **b-mobile** | 7GB | 21 days | ¥1,980 | ❌ | NTT Docomo | Budget longer stays |
-| **IIJmio (BIC SIM)** | 3GB | 30 days | ¥2,480 | ❌ | NTT Docomo | Budget travelers |
+| **b-mobile** | 5GB | 10 days | $13 | ❌ | NTT Docomo | Budget short trips |
+| **b-mobile** | 7GB | 21 days | $13 | ❌ | NTT Docomo | Budget longer stays |
+| **IIJmio (BIC SIM)** | 3GB | 30 days | $16.50 | ❌ | NTT Docomo | Budget travelers |
 | **IIJmio (BIC SIM)** | 15GB | 30 days | — | ❌ | NTT Docomo | Moderate data users |
-| **Mobal** | 7GB | 8 days | ¥4,730 | ✅ | SoftBank | Need Japanese phone number |
-| **Sakura Mobile** | Unlimited | 8 days | ¥4,950 | ❌ | NTT Docomo / au | Heavy data, first-timers |
-| **Sakura Mobile** | Unlimited | 15 days | ¥8,250 | ❌ | NTT Docomo / au | Extended trips |
-| **Sakura Mobile** | Unlimited | 30 days | ¥14,850 | ❌ | NTT Docomo / au | Long stays |
-| **NTT Com** | 100MB/day | 7 days | ¥2,980 | ❌ | NTT Docomo | Light users |
+| **Mobal** | 7GB | 8 days | $31.50 | ✅ | SoftBank | Need Japanese phone number |
+| **Sakura Mobile** | Unlimited | 8 days | $33 | ❌ | NTT Docomo / au | Heavy data, first-timers |
+| **Sakura Mobile** | Unlimited | 15 days | $55 | ❌ | NTT Docomo / au | Extended trips |
+| **Sakura Mobile** | Unlimited | 30 days | $99 | ❌ | NTT Docomo / au | Long stays |
+| **NTT Com** | 100MB/day | 7 days | $20 | ❌ | NTT Docomo | Light users |
 | **NTT Com** | 100MB/day | 14 days | — | ❌ | NTT Docomo | Light users |
 
 *Prices verified August 2026. Data compiled from provider websites and publicly available travel resources. USD conversions approximate. Check provider websites for current rates.*
@@ -211,7 +211,7 @@ Here are the most popular physical SIM card providers for tourists in Japan, bas
 
 #### b-mobile — Best Budget Option
 
-b-mobile offers some of the cheapest prepaid SIM cards in Japan, with plans starting at ¥1,980 for 5GB over 10 days. Their SIMs run on NTT Docomo's network, which provides the most extensive coverage in Japan.
+b-mobile offers some of the cheapest prepaid SIM cards in Japan, with plans starting at $13 for 5GB over 10 days. Their SIMs run on NTT Docomo's network, which provides the most extensive coverage in Japan.
 
 **Best for:** Budget travelers who need basic data for navigation and messaging.
 
@@ -220,7 +220,7 @@ b-mobile offers some of the cheapest prepaid SIM cards in Japan, with plans star
 
 #### IIJmio / BIC SIM — Best Value for Moderate Users
 
-IIJmio's BIC SIM is sold at BIC Camera stores and offers solid value for moderate data users. The 3GB/30-day plan at ¥2,480 is a popular choice for tourists staying around two weeks.
+IIJmio's BIC SIM is sold at BIC Camera stores and offers solid value for moderate data users. The 3GB/30-day plan at $16.50 is a popular choice for tourists staying around two weeks.
 
 **Best for:** Travelers who need moderate data for a 1-2 week trip.
 
@@ -361,9 +361,9 @@ Yes. Major airports including Narita, Haneda, Kansai, Chubu, Fukuoka, and Naha a
 ### How much does a Japan SIM card cost?
 
 **Japan SIM card price** ranges from:
-- ¥1,500–¥4,000 ($10–$27 USD) for 7-30 days
-- ¥3,000–¥10,000+ ($20–$70+ USD) for voice + data plans
-- ¥4,500–¥15,000 ($30–$100+ USD) for unlimited data plans
+- $10–$27 USD for 7-30 days
+- $20–$70+ USD for voice + data plans
+- $30–$100+ USD for unlimited data plans
 
 ### Do I need a passport to buy a SIM card in Japan?
 
@@ -380,7 +380,7 @@ You can buy a Japan SIM card in Tokyo at:
 ### What's the best SIM card for Japan?
 
 The best SIM card depends on your needs:
-- **Best budget:** b-mobile (¥1,980 for 5GB/10 days)
+- **Best budget:** b-mobile ($13 for 5GB/10 days)
 - **Best value for moderate data:** IIJmio BIC SIM
 - **Best with phone number:** Mobal
 - **Best unlimited data:** Sakura Mobile
@@ -427,7 +427,7 @@ Tourist SIMs are prepaid, require no contract, and don't require a Japanese addr
 - [ ] Configure **APN settings** (follow the instructions in the package)
 - [ ] Test your connection
 
-**The bottom line:** Physical SIM cards are still a reliable option for Japan travel in 2026. They're available at airports, electronics stores, and convenience stores across the country. Prices start as low as ¥1,980 for budget plans, and you can find options for every trip length and data need.
+**The bottom line:** Physical SIM cards are still a reliable option for Japan travel in 2026. They're available at airports, electronics stores, and convenience stores across the country. Prices start as low as $13 for budget plans, and you can find options for every trip length and data need.
 
 But if your phone supports eSIM, you might find it more convenient. Check our [Japan eSIM installation guide](/japan-esim-installation-guide/) for setup instructions, or compare prices in our [Japan eSIM price comparison](/japan-esim-price-comparison-2026/).
 
@@ -456,7 +456,7 @@ But if your phone supports eSIM, you might find it more convenient. Check our [J
       "name": "How much does a Japan SIM card cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Japan SIM card price ranges from ¥1,500–¥4,000 ($10–$27 USD) for 7-30 days, ¥3,000–¥10,000+ ($20–$70+ USD) for voice + data plans, and ¥4,500–¥15,000 ($30–$100+ USD) for unlimited data plans."
+        "text": "Japan SIM card price ranges from $10–$27 USD for 7-30 days, $20–$70+ USD for voice + data plans, and $30–$100+ USD for unlimited data plans."
       }
     },
     {
@@ -480,7 +480,7 @@ But if your phone supports eSIM, you might find it more convenient. Check our [J
       "name": "What's the best SIM card for Japan?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The best SIM card depends on your needs. Best budget: b-mobile (¥1,980 for 5GB/10 days). Best value for moderate data: IIJmio BIC SIM. Best with phone number: Mobal. Best unlimited data: Sakura Mobile."
+        "text": "The best SIM card depends on your needs. Best budget: b-mobile ($13 for 5GB/10 days). Best value for moderate data: IIJmio BIC SIM. Best with phone number: Mobal. Best unlimited data: Sakura Mobile."
       }
     },
     {

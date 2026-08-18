@@ -10,6 +10,11 @@
     <meta name="keywords" content="{{ .Params.seo.keywords }}">
     {{ end }}
     
+    <!-- ===== 【新增】技术 SEO 标签 ===== -->
+    <meta name="robots" content="index, follow">
+<meta name="last-modified" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+
+
    <link rel="canonical" href="{{ .Permalink | replaceRE "\\?.*$" "" }}">
     
     {{ if .IsTranslated }}
@@ -265,6 +270,20 @@
     }
 }
 
+        /* ===== 【新增】步骤数字样式 ===== */
+        .step-number {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 2.5rem;
+            height: 2.5rem;
+            border-radius: 9999px;
+            background: #2563eb;
+            color: white;
+            font-weight: 700;
+            font-size: 1.25rem;
+            flex-shrink: 0;
+        }
     </style>
 
     <!-- ===== Product/Offer Schema ===== -->
@@ -361,6 +380,36 @@
         }
         {{ end }}
         {{ end }}
+      ]
+    }
+    </script>
+
+    <!-- ===== 【新增】HowTo Schema（硬编码） ===== -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "HowTo",
+      "name": "How to Get Your Free eSIM in 3 Simple Steps",
+      "description": "Claim your free eSIM trial with no credit card and get instant QR code delivery.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Choose Your Country",
+          "text": "Select your destination from the country list below. Roami offers free eSIM trials for 200+ countries."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Claim Your Free Trial",
+          "text": "Click 'Claim Free Trial' – no credit card required. Receive your free eSIM QR code instantly via email."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Scan & Connect",
+          "text": "Scan the QR code with your phone's camera, follow the setup, and enjoy 100MB of free 4G/5G data."
+        }
       ]
     }
     </script>
@@ -499,7 +548,55 @@
     </div>
 </section>
 		
-		
+		<!-- ============================================================ -->
+<!-- 【i18n】3步指南                                                 -->
+<!-- ============================================================ -->
+<section class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <h2 class="text-2xl sm:text-3xl font-extrabold text-slate-900 text-center mb-4">
+        {{ i18n "steps_title" }}
+    </h2>
+    <p class="text-center text-slate-600 mb-10 max-w-2xl mx-auto">
+        {{ i18n "steps_desc" }}
+    </p>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div class="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm text-center">
+            <div class="step-number mx-auto mb-4">1</div>
+            <h3 class="text-lg font-bold text-slate-900 mb-2">{{ i18n "step1_title" }}</h3>
+            <p class="text-slate-600 text-sm">{{ i18n "step1_desc" }}</p>
+        </div>
+        <div class="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm text-center">
+            <div class="step-number mx-auto mb-4">2</div>
+            <h3 class="text-lg font-bold text-slate-900 mb-2">{{ i18n "step2_title" }}</h3>
+            <p class="text-slate-600 text-sm">{{ i18n "step2_desc" }}</p>
+        </div>
+        <div class="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm text-center">
+            <div class="step-number mx-auto mb-4">3</div>
+            <h3 class="text-lg font-bold text-slate-900 mb-2">{{ i18n "step3_title" }}</h3>
+            <p class="text-slate-600 text-sm">{{ i18n "step3_desc" }}</p>
+        </div>
+    </div>
+</section>
+
+    <!-- ============================================================ -->
+    <!-- 【硬编码新增】Why Roami – 深度内容 (已在模板中)              -->
+    <!-- ============================================================ -->
+  
+  <!-- ============================================================ -->
+<!-- 【i18n】Why Roami – 深度内容                                    -->
+<!-- ============================================================ -->
+<section class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+    <div class="bg-white rounded-2xl p-6 sm:p-8 border border-slate-200 shadow-sm">
+        <h2 class="text-2xl sm:text-3xl font-extrabold text-slate-900 mb-4">
+            {{ i18n "why_title" }}
+        </h2>
+        <div class="space-y-4 text-slate-700 text-base leading-relaxed">
+            <p>{{ i18n "why_p1" | safeHTML }}</p>
+            <p>{{ i18n "why_p2" | safeHTML }}</p>
+        </div>
+    </div>
+</section>
+ 
+
 	    <!-- 价值主张 – 视觉化设计（斜杆删除线）                            -->
     <!-- ============================================================ -->
 <section class="value-claim-visual py-3 md:py-4">
@@ -545,7 +642,8 @@
                     <div class="absolute top-0 right-0 bg-orange-500 text-white text-[10px] font-bold px-2 py-0.5 rounded-bl-lg rounded-tr-xl z-10">{{ $.Params.ui.popular_section.hot_badge }}</div>
                     <div class="flex flex-col items-center text-center flex-grow">
                         <div class="w-16 h-12 mb-3 rounded-md overflow-hidden border border-slate-100 shadow-sm">
-                            <img src="/img/flags/{{ .code | lower }}.svg" alt="Flag of {{ .name }}" loading="lazy" class="w-full h-full object-cover">
+                            <!-- ===== 【优化】加入图片宽高属性，防止CLS ===== -->
+                            <img src="/img/flags/{{ .code | lower }}.svg" alt="Flag of {{ .name }}" loading="lazy" width="64" height="48" class="w-full h-full object-cover" style="aspect-ratio:4/3;">
                         </div>
                          <h3 class="text-base font-bold text-slate-900 mb-1">{{ .name }} eSIM free trial</h3>
 						<p class="text-[11px] text-slate-500 mb-1">{{ $.Params.ui.card.network }}</p>
@@ -583,7 +681,8 @@
                 <article class="country-card group flex flex-col bg-white rounded-2xl p-4 border border-slate-200 shadow-sm hover:shadow-lg hover:border-blue-300 transition-all duration-300 cursor-pointer" data-name="{{ .name }}" data-initial="{{ .initial }}" onclick="openModal('{{ .slug }}')" role="listitem" aria-label="{{ .name }} Free Trial">
                     <div class="flex flex-col items-center text-center flex-grow">
                         <div class="w-16 h-12 mb-3 rounded-md overflow-hidden border border-slate-100 shadow-sm">
-                            <img src="/img/flags/{{ .code | lower }}.svg" alt="Flag of {{ .name }}" loading="lazy" class="w-full h-full object-cover">
+                            <!-- ===== 【优化】加入图片宽高属性，防止CLS ===== -->
+                            <img src="/img/flags/{{ .code | lower }}.svg" alt="Flag of {{ .name }}" loading="lazy" width="64" height="48" class="w-full h-full object-cover" style="aspect-ratio:4/3;">
                         </div> 
 					   <h3 class="text-base font-bold text-slate-900 mb-1">{{ .name }} {{ i18n "esim_free_trial" }}</h3>
 					   <p class="text-[11px] text-slate-500 mb-1">{{ $.Params.ui.card.network }}</p>
@@ -653,6 +752,8 @@
                 {{ end }}
             </div>
         </section>
+
+ 
 
     </div>
 </main>

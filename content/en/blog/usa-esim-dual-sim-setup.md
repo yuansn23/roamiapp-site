@@ -470,8 +470,8 @@ European carriers generally have generous roaming agreements with US networks du
 
 Asian carriers typically have more restrictive roaming policies and higher costs for US roaming:
 
-- **NTT Docomo (Japan):** US roaming requires a "World Data" pass (from 1,000 yen/day for 1GB). Without a pass, data is blocked entirely. In dual SIM mode, set Docomo as voice line with data roaming OFF. Docomo's US roaming partners include AT&T and T-Mobile.
-- **SoftBank (Japan):** SoftBank's "America Ready" plan includes US data at no extra charge for some premium plans. For most plans, US roaming costs 1,000-2,000 yen/day. SoftBank's US roaming uses T-Mobile's network.
+- **NTT Docomo (Japan):** US roaming requires a "World Data" pass (from $7/day for 1GB). Without a pass, data is blocked entirely. In dual SIM mode, set Docomo as voice line with data roaming OFF. Docomo's US roaming partners include AT&T and T-Mobile.
+- **SoftBank (Japan):** SoftBank's "America Ready" plan includes US data at no extra charge for some premium plans. For most plans, US roaming costs $7–$13/day. SoftBank's US roaming uses T-Mobile's network.
 - **KT/SKT (South Korea):** Korean carriers offer "US roaming passes" from 5,000-10,000 won/day for 500MB-2GB. Without a pass, data is blocked. Voice and SMS roaming are charged separately. Set your Korean SIM as voice line with data roaming OFF.
 - **Singtel (Singapore):** "DataRoam" passes from $5 SGD for 1GB in the US. Without a pass, data is charged at $10 SGD/MB —extremely expensive. Must be OFF in dual SIM setup.
 - **Airtel/Jio (India):** US roaming packs from ₹499-999 for 5-20GB. These can be used as your primary data connection if you buy enough data, but the price per GB is higher than a USA eSIM. In dual SIM mode, use the Indian SIM for SMS (2FA from Indian banks) and the USA eSIM for data.

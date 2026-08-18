@@ -254,7 +254,7 @@ Many American and international tourists visit the UK as part of a larger Europe
 
 ## UK eSIM Installation Guide – Activate in 3 Steps
 
-Installing an eSIM is now as easy as adding a boarding pass to your digital wallet. You no longer need to mess with tiny SIM ejector tools. For a complete walkthrough on iPhones, see our **[iPhone 17 eSIM Complete Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)**.
+Installing an eSIM is now as easy as adding a boarding pass to your digital wallet. You no longer need to mess with tiny SIM ejector tools. For a complete walkthrough on iPhones, see our **[iPhone 16 eSIM Complete Guide](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)**.
 
 1. **Purchase & Receive:** Buy your **UK eSIM** online and receive a QR code via email.
 2. **Scan to Install:** While connected to Wi-Fi (ideally before your flight), go to your phone's **Settings > Cellular (or Mobile Data) > Add eSIM**, and scan the QR code.

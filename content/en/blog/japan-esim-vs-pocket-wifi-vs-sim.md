@@ -327,15 +327,15 @@ For Google Maps, social media, and messaging, the difference isn't noticeable. F
 
 ### Pocket WiFi Hidden Costs
 
-**Shipping fees:** Hotel delivery costs ¥1,000–¥2,000 ($6.50–$13).
+**Shipping fees:** Hotel delivery costs $6.50–$13.
 
-**Late return penalties:** Return the device late and you'll be charged an extra day's rental (¥500–¥2,000). Return it extremely late and pay ¥3,000+ in penalties.
+**Late return penalties:** Return the device late and you'll be charged an extra day's rental ($3.50–$14). Return it extremely late and pay $20+ in penalties.
 
 **Battery replacement fees:** If the battery dies and the device won't power on for return inspection, you'll be charged replacement fees.
 
 **5G surcharge:** 5G-capable routers cost extra. Standard 4G routers are cheaper but slower.
 
-**Insurance:** Some providers offer damage insurance for ¥200–¥500/day. Skip it and you're liable for the full device cost (~¥30,000 / $200).
+**Insurance:** Some providers offer damage insurance for $1.50–$3.50/day. Skip it and you're liable for the full device cost (about $200).
 
 ### Physical SIM Hidden Costs
 

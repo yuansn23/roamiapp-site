@@ -441,19 +441,19 @@ For a deeper look at the cost differences, see the detailed [China eSIM vs physi
 If you do decide to buy at the airport, here is what you need to know about China's three busiest international airports.
 
 **Beijing Capital International Airport (PEK)**
-- **Terminal 3 arrivals hall**: China Mobile and China Unicom kiosks, both offering tourist SIMs and eSIM QR codes. Prices: 7-day 5GB around ¥128 (~$18 USD).
+- **Terminal 3 arrivals hall**: China Mobile and China Unicom kiosks, both offering tourist SIMs and eSIM QR codes. Prices: 7-day 5GB around $18 USD.
 - **Opening hours**: 7:00 AM – 11:00 PM daily.
 - **Language support**: Some English at the main China Mobile desk. Bring your passport.
 
 **Shanghai Pudong International Airport (PVG)**
 - **Terminal 1 and 2 arrivals**: Multiple carrier kiosks. China Telecom also has a presence here.
-- **7-day tourist plan**: ¥98 (~$14 USD) for 3GB from China Unicom; ¥128 (~$18 USD) for 5GB from China Mobile.
+- **7-day tourist plan**: $14 USD for 3GB from China Unicom; $18 USD for 5GB from China Mobile.
 - **Opening hours**: 6:00 AM – midnight.
 - **Best option at PVG**: The China Unicom desk in T2 arrivals has English-speaking staff and offers the widest plan selection.
 
 **Guangzhou Baiyun International Airport (CAN)**
 - **Arrivals hall**: China Mobile and China Unicom kiosks. Smaller selection than PEK or PVG.
-- **Pricing**: Slightly higher than city carrier stores. 7-day 3GB around ¥108 (~$15 USD).
+- **Pricing**: Slightly higher than city carrier stores. 7-day 3GB around $15 USD.
 - **Opening hours**: 8:00 AM – 10:00 PM.
 
 Airport pricing in China carries a 20–40% markup over buying online. The convenience is real — you walk off the plane and walk out with a working connection — but you pay for it. The same 5GB China Unicom plan that costs $9.00 online is $18 at PEK.

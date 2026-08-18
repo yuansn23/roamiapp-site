@@ -108,7 +108,7 @@ eSIM activation is the process of securely downloading a digital carrier profile
 
 Gone are the days of fumbling with tiny paperclips and microscopic plastic SIM cards. Whether you are switching to a new local carrier or buying a travel data plan for your next international trip, using an eSIM is the most convenient way to stay connected.
 
-However, if it's your first time doing an **iPhone eSIM setup**, the process might seem a bit daunting. Don't worry! In this comprehensive guide, we will show you exactly **how to activate an eSIM on your iPhone** using a QR code, manual entry, or a carrier app. This guide covers all compatible models, including the eSIM-only iPhone 14, 15, 16, and 17 series. For a complete walkthrough of iPhone 17 specifically, see our **[iPhone 17 eSIM Complete Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)**.
+However, if it's your first time doing an **iPhone eSIM setup**, the process might seem a bit daunting. Don't worry! In this comprehensive guide, we will show you exactly **how to activate an eSIM on your iPhone** using a QR code, manual entry, or a carrier app. This guide covers all compatible models, including the eSIM-only iPhone 14, 15, 16, and 17 series. For a complete walkthrough of iPhone 16 specifically, see our **[iPhone 16 eSIM Complete Guide](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)**.
 
 ---
 
@@ -276,7 +276,7 @@ An eSIM is a digital SIM that cannot be physically removed. It offers the same f
 Dial `*#06#` – if an EID appears, your phone supports eSIM. Or check **Settings > General > About** for a Digital SIM or EID entry. If you're using an iPhone and still unsure, the official [Apple support page for eSIM](https://support.apple.com/en-us/108072) provides a detailed list of compatible models.
 
 **Can I transfer my eSIM from one phone to another?**
-Yes – using iOS 26 Quick Transfer (iPhone to iPhone) or cross-platform transfer (iPhone ↔ Android). See our **[eSIM Cross-Platform Transfer 2026 guide](/faq/how-to-transfer-esim-between-iphone-and-android/)** for step-by-step instructions.
+Yes – using Quick Transfer (iPhone to iPhone) or cross-platform transfer via your carrier (iPhone ↔ Android). See our **[eSIM Cross-Platform Transfer 2026 guide](/faq/how-to-transfer-esim-between-iphone-and-android/)** for step-by-step instructions.
 
 **What is a travel eSIM?**
 A **travel eSIM** is a data-only eSIM designed for international trips. You buy it before departure, install it at home, and activate it upon arrival – no roaming fees, no airport SIM kiosks.

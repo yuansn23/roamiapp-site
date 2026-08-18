@@ -1,6 +1,6 @@
 ﻿---
 title: "Solicite seu eSIM Grátis | Teste de Dados de Viagem Global"
-date: '2026-08-06T00:00:00+00:00'
+date: '2026-08-17T00:00:00+00:00'
 
 seo:
   title: "eSIM Grátis | 5G, sem necessidade de cartão de crédito - Roami"

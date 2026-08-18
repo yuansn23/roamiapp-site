@@ -81,7 +81,7 @@ recentPosts:
 ## 2026 Japan eSIM Complete Guide: Why Pocket Wi-Fi Is Becoming Obsolete
 
 > **Key Takeaways**
-> - **Pocket Wi-Fi is the most expensive and outdated habit for Japan travel** — renting a pocket Wi-Fi at Narita costs ¥500-800 ($4-6) per day, totaling $28-42 for 7 days, plus nightly charging, carrying an extra device, and queuing to return it. In 2026, an eSIM starts at $1.99 ($1.59 after discount code web20) — zero extra device, zero return, zero charging anxiety.
+> - **Pocket Wi-Fi is the most expensive and outdated habit for Japan travel** — renting a pocket Wi-Fi at Narita costs $4-6 per day, totaling $28-42 for 7 days, plus nightly charging, carrying an extra device, and queuing to return it. In 2026, an eSIM starts at $1.99 ($1.59 after discount code web20) — zero extra device, zero return, zero charging anxiety.
 > - **Japan is one of the most complex markets for eSIM device compatibility** — iPhones sold in mainland China, Hong Kong, and Macau (dual physical SIM) **cannot use eSIM at all**. This is a hardware limitation, not software. Check `*#06#` before departure to confirm an EID exists.
 > - **No single carrier covers a typical Japan travel itinerary** — SoftBank is fastest in Shibuya, au (KDDI) is the only carrier with coverage in rural Hokkaido, and NTT Docomo is most stable along the Shinkansen line. A 15-day classic route passes through the strong zones of all three carriers – only multi‑carrier smart switching keeps you connected the whole way.
 > - **Roami Japan eSIM starts at $1.99 for 100MB/7 days, with 10GB just $7.99 after discount code web20**, featuring smart switching across SoftBank, au, and NTT Docomo. Use discount code **web20** for 20% off.
@@ -92,11 +92,11 @@ The technology behind eSIM is governed by the [GSMA standard SGP.22](https://www
 
 ## Pocket Wi-Fi vs eSIM for Japan travel – which is better?
 
-For over a decade, renting a pocket Wi‑Fi device after landing at Narita, Haneda, or Kansai Airport was the standard procedure for Japan travel. You queue at the counter, fill out forms, leave a deposit (usually ¥10,000-15,000, about $70-100), receive a plastic box that needs nightly charging, carry an extra 200g device through your entire trip, and then queue again to return it before departure.
+For over a decade, renting a pocket Wi‑Fi device after landing at Narita, Haneda, or Kansai Airport was the standard procedure for Japan travel. You queue at the counter, fill out forms, leave a deposit (usually about $70-100), receive a plastic box that needs nightly charging, carry an extra 200g device through your entire trip, and then queue again to return it before departure.
 
 **In 2026, this model is being abandoned outright. The reasons are simple:**
 
-**Cost:** Pocket Wi‑Fi costs about ¥3,500-5,600 ($25-40) for 7 days. An eSIM costs ¥870 (about $5.99) for 7 days 5GB, or even less with discounts. Savings of 70-85%.
+**Cost:** Pocket Wi‑Fi costs about $25-40 for 7 days. An eSIM costs about $5.99 for 7 days 5GB, or even less with discounts. Savings of 70-85%.
 
 **Convenience:** Pocket Wi‑Fi requires an extra device – charging, carrying, keeping track of it, returning it. An eSIM lives inside your phone – zero extra devices. Your phone is your Wi‑Fi hotspot. Understanding [how eSIM works](/faq/What-Is-eSIM/) reveals the nature of this generational shift.
 

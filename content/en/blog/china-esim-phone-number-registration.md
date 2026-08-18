@@ -188,9 +188,9 @@ China Mobile is China's largest carrier with over 900 million subscribers. For t
 **What you get:** A 11-digit Chinese phone number (starting with 134-139, 150-152, 157-158, 188, or 198) with SMS and voice capabilities. Data plans are available as add-ons.
 
 **Pricing:**
-- SIM card fee: 10-30 RMB ($1.50-$4.50)
-- Tourist SIM plans: typically 100 RMB ($14) for 10 GB over 7 days, or 200 RMB ($28) for 30 GB over 30 days
-- Monthly prepaid plans: 58 RMB ($8) for 5 GB up to 298 RMB ($42) for 60 GB
+- SIM card fee: $1.50-$4.50
+- Tourist SIM plans: typically $14 for 10 GB over 7 days, or $28 for 30 GB over 30 days
+- Monthly prepaid plans: $8 for 5 GB up to $42 for 60 GB
 
 **Where to buy:**
 - Beijing Capital International Airport (Terminal 3, arrivals hall — look for the China Mobile kiosk)
@@ -218,8 +218,8 @@ China Unicom is the second-largest carrier. Their physical SIM offering for trav
 **What you get:** An 11-digit Chinese phone number (starting with 130-132, 155-156, 185-186) with SMS and voice.
 
 **Pricing:**
-- SIM card fee: 10-30 RMB ($1.50-$4.50)
-- Tourist SIM: 100 RMB ($14) for 8 GB over 7 days, or 160 RMB ($22) for 20 GB over 15 days
+- SIM card fee: $1.50-$4.50
+- Tourist SIM: $14 for 8 GB over 7 days, or $22 for 20 GB over 15 days
 - Monthly: comparable to China Mobile
 
 **Where to buy:**
@@ -234,7 +234,7 @@ China Telecom is the third player. Their coverage in rural and remote areas is t
 
 **What you get:** An 11-digit Chinese phone number (starting with 133, 153, 180-181, 189) with SMS and voice.
 
-**Pricing:** Slightly cheaper than China Mobile and Unicom in some regions, slightly more expensive in others. Around 50-200 RMB ($7-$28) for tourist plans.
+**Pricing:** Slightly cheaper than China Mobile and Unicom in some regions, slightly more expensive in others. Around $7-$28 for tourist plans.
 
 **Where to buy:** Airport kiosks (less common than Mobile and Unicom), China Telecom stores, some convenience stores.
 
@@ -714,7 +714,7 @@ If you need help recharging, Roami's [China eSIM](/china-esim/) support (availab
 **What to Do with Your Chinese SIM After Leaving China**
 Unless you return to China frequently, there isn't much reason to keep the SIM active. Chinese prepaid SIMs typically expire after 90-180 days of no top-up, after which the number is recycled.
 
-If you travel to China multiple times per year, consider maintaining the SIM by recharging the minimum amount (typically 10-30 RMB or $1.50-$4.50) every few months. This keeps the number active and avoids re-registration each visit.
+If you travel to China multiple times per year, consider maintaining the SIM by recharging the minimum amount (typically $1.50-$4.50) every few months. This keeps the number active and avoids re-registration each visit.
 
 ---
 
@@ -736,7 +736,7 @@ Yes. WeChat works over any internet connection, including a data-only travel eSI
 No. Data-only travel eSIMs purchased from international providers don't require any registration with Chinese authorities. You buy the eSIM online, install it, and use it. There's no real-name registration requirement for international roaming eSIMs because they are not issued by Chinese carriers. The carrier stores don't know you're using it.
 
 **How much does a Chinese phone number cost?**
-A Chinese phone number from China Mobile or China Unicom costs 10-30 RMB ($1.50-$4.50) for the SIM card, plus the cost of your chosen plan. Tourist plans range from 100-200 RMB ($14-$28) for 7-30 days of data with voice and SMS. The per-month cost after the initial plan varies from 58-298 RMB ($8-$42) depending on data allowance.
+A Chinese phone number from China Mobile or China Unicom costs $1.50-$4.50 for the SIM card, plus the cost of your chosen plan. Tourist plans range from $14-$28 for 7-30 days of data with voice and SMS. The per-month cost after the initial plan varies from $8-$42 depending on data allowance.
 
 **Can I keep my Chinese number after leaving China?**
 Your number remains active as long as you top up the SIM periodically. Most prepaid plans have a 90-180 day validity window. If you recharge within that window, the number stays active. If you let it expire, the number goes back into the carrier's pool for reassignment.
@@ -775,7 +775,7 @@ The landscape may shift as Chinese carriers evolve their eSIM policies for forei
 
 - **One-week tourist trip (tier-1 cities):** Still skip the Chinese number. The data eSIM + home SIM dual-SIM setup covers everything except food delivery and bike sharing. Trip.com handles train bookings without a Chinese number. The time you'd spend at a carrier store is better spent exploring.
 
-- **Two-week trip with mixed cities:** This is where the decision gets real. If you're exclusively in Beijing, Shanghai, and Guangzhou, stick with data-only. If you're spending significant time in smaller cities where Didi international is unreliable, a China Mobile physical SIM (about 100 RMB/$14 for 10GB/7 days) is worth the 15-minute airport detour.
+- **Two-week trip with mixed cities:** This is where the decision gets real. If you're exclusively in Beijing, Shanghai, and Guangzhou, stick with data-only. If you're spending significant time in smaller cities where Didi international is unreliable, a China Mobile physical SIM (about $14 for 10GB/7 days) is worth the 15-minute airport detour.
 
 - **Month-long stay or work trip:** Get the Chinese physical SIM. You'll want food delivery, you'll probably book trains on 12306, and you'll appreciate having a local number for hotels and services. Pair it with a data-only eSIM for firewall-bypassed internet on Google and WhatsApp.
 

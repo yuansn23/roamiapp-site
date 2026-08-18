@@ -271,7 +271,7 @@ CDJapan is a Japan-based company offering direct docomo network connection with 
 
 ### KKday eSIM
 
-KKday's eSIM is emerging as a strong all-round choice for 2026. It runs on SoftBank's network with plans in the ¥1,200–¥2,400 range for a week, with responsive support in English and Chinese.
+KKday's eSIM is emerging as a strong all-round choice for 2026. It runs on SoftBank's network with plans in the $8–$16 range for a week, with responsive support in English and Chinese.
 
 ### MobiMatter
 

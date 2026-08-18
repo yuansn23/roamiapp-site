@@ -1,7 +1,7 @@
 ---
 title: "領取免費eSIM | 全球旅行數據試用"
 layout: "free-esim-list"
-date: '2026-06-10T00:00:00+00:00'
+date: '2026-08-17T00:00:00+00:00'
 
 seo:
   title: "免費eSIM | 免信用卡 | 零漫遊費 "

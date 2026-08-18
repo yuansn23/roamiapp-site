@@ -1,6 +1,6 @@
 ---
 title: "Ottieni eSIM gratuita | Prova dati di viaggio globali"
-date: '2026-06-10T08:51:42+00:00'
+date: '2026-08-17T08:51:42+00:00'
 layout: "free-esim-list"
 
 seo:

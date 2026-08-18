@@ -1,6 +1,7 @@
 ---
 title: "Obtenez votre eSIM gratuite | Essai de données de voyage mondial"
 layout: "free-esim-list"
+date: '2026-08-17T00:00:00+00:00'
 
 seo:
   title: "eSIM gratuite | Aucune carte de crédit requise"

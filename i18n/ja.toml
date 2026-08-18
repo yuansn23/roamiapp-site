@@ -438,3 +438,38 @@ other = "当社のeSIMブランドはroamiです。roamicではありません�
 
 [esim_free_trial]
 other = "eSIM 無料トライアル"
+
+# ===== 3つの簡単なステップ =====
+[steps_title]
+other = "無料eSIMを3つの簡単なステップで入手する方法"
+
+[steps_desc]
+other = "クレジットカード不要、契約不要 – 無料のeSIM QRコードですぐにテストを開始できます。"
+
+[step1_title]
+other = "国を選択"
+
+[step1_desc]
+other = "下のリストから目的地を選択 – 200以上の国で無料eSIMトライアルを提供しています。"
+
+[step2_title]
+other = "無料トライアルを申し込む"
+
+[step2_desc]
+other = "「無料トライアルを申し込む」をクリック – クレジットカードは不要です。無料のeSIM QRコードをすぐにお送りします。"
+
+[step3_title]
+other = "スキャンして接続"
+
+[step3_desc]
+other = "スマートフォンのカメラでQRコードをスキャンし、セットアップに従って、100MBの無料データをお楽しみください。"
+
+# ===== Roamiが選ばれる理由 =====
+[why_title]
+other = "2026年にRoamiが最高の無料eSIMプロバイダーである理由"
+
+[why_p1]
+other = '''<strong>無料eSIM</strong>をお探しの際は、信頼性が高く、高速で、本当にコストがかからないオプションをお求めでしょう。Roamiはまさにそれを提供します – <strong>100MBのデータ</strong>を含む<strong>無料eSIMトライアル</strong>、<strong>クレジットカード不要</strong>、<strong>200以上の国</strong>でカバーされています。多くの競合他社とは異なり、サブスクリプションに縛ったり、事前に支払い情報を要求したりしません。'''
+
+[why_p2]
+other = '''当社の<strong>無料eSIM QRコード</strong>は即座に生成され、メールで送信されるため、数分でデバイスを設定できます。頻繁に旅行される方でも、eSIMテクノロジーをテストしたいだけでも、Roamiは4G/5G速度、24時間サポート、さらなるデータが必要な場合の有料プランの透明な価格設定を備えた<strong>最高の無料eSIM体験</strong>を提供します。'''

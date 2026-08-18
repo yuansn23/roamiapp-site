@@ -545,3 +545,38 @@ other = "❌ Begrenzt"
 
 [esim_free_trial]
 other = "eSIM kostenlose Testversion"
+
+# ===== 3-Schritte-Anleitung =====
+[steps_title]
+other = "So erhalten Sie Ihre kostenlose eSIM in 3 einfachen Schritten"
+
+[steps_desc]
+other = "Keine Kreditkarte, keine Verpflichtung – nur ein kostenloser eSIM-QR-Code, um sofort mit dem Testen zu beginnen."
+
+[step1_title]
+other = "Wählen Sie Ihr Land"
+
+[step1_desc]
+other = "Wählen Sie Ihr Reiseziel aus der Liste unten – wir bieten kostenlose eSIM-Tests für über 200 Länder an."
+
+[step2_title]
+other = "Fordern Sie Ihre kostenlose Testversion an"
+
+[step2_desc]
+other = "Klicken Sie auf \"Kostenlose Testversion anfordern\" – keine Kreditkarte erforderlich. Wir senden Ihnen sofort Ihren kostenlosen eSIM-QR-Code."
+
+[step3_title]
+other = "Scannen und verbinden"
+
+[step3_desc]
+other = "Scannen Sie den QR-Code mit der Kamera Ihres Telefons, folgen Sie der Einrichtung und genießen Sie 100 MB kostenloses Datenvolumen."
+
+# ===== Warum Roami =====
+[why_title]
+other = "Warum Roami der beste Anbieter für kostenlose eSIM im Jahr 2026 ist"
+
+[why_p1]
+other = '''Wenn Sie nach einer <strong>kostenlosen eSIM</strong> suchen, möchten Sie eine zuverlässige, schnelle und wirklich kostenlose Option. Roami bietet genau das – mit einer <strong>kostenlosen eSIM-Testversion</strong>, die <strong>100 MB Datenvolumen</strong> umfasst, <strong>keine Kreditkarte</strong> erfordert und in <strong>über 200 Ländern</strong> verfügbar ist. Im Gegensatz zu vielen Mitbewerbern binden wir Sie nicht an ein Abonnement oder verlangen im Voraus Zahlungsinformationen.'''
+
+[why_p2]
+other = '''Unser <strong>kostenloser eSIM-QR-Code</strong> wird sofort generiert und an Ihre E-Mail gesendet, sodass Sie Ihr Gerät in wenigen Minuten einrichten können. Ob Sie viel reisen oder einfach nur die eSIM-Technologie testen möchten, Roami bietet das <strong>beste kostenlose eSIM-Erlebnis</strong> mit 4G/5G-Geschwindigkeiten, 24/7-Support und transparenten Preisen für kostenpflichtige Tarife, falls Sie mehr Daten benötigen.'''

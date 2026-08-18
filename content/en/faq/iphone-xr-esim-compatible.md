@@ -4,7 +4,7 @@ h1_title: "Does the iPhone XR Support eSIM? A Complete Guide for 2026"
 description: "iPhone XR supports eSIM – verify with *#06#. Activate on major carriers. China models: no eSIM. Also covers iPhone 8/X and eSIM iPhones."
 keywords: ["iphone xr esim compatible", "iphone xr esim support", "esim compatible phones", "list of iphones that support esim", "airalo compatible phones", "google fi esim compatible phones", "verizon esim compatibility", "dual sim compatible", "iphone xr dual sim", "iphone xr esim"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-06-23T10:00:00Z
+lastmod: 2026-08-18T10:00:00Z
 tags: ["iPhone", "eSIM", "Compatibility", "iPhone XR"]
 toc: true
 
@@ -187,7 +187,7 @@ Your iPhone XR works with every eSIM provider worldwide:
 | SFR (France) | Yes | SFR eSIM compatible with iPhone XR |
 | Bouygues (France) | Yes | Bouygues eSIM works on iPhone XR |
 
-If you searched for “eSIM compatible phones” or “Orange eSIM compatible phones” – the iPhone XR is fully compatible with French carriers. For “verizon eSIM compatibility”, iPhone XR is supported as long as it's unlocked or a Verizon device. For a broader look at other brands – including Samsung, Xiaomi, and Huawei – see our full **[eSIM compatibility guide](/compatibility/)**.
+The iPhone XR is fully compatible with French carriers, including Orange. For Verizon, it works as long as the device is unlocked or was purchased from Verizon. For a broader look at other brands – including Samsung, Xiaomi, and Huawei – see our full **[eSIM compatibility guide](/compatibility/)**.
 
 ---
 
@@ -247,7 +247,7 @@ No. The iPhone X (released 2017) does not have eSIM hardware. The first iPhones 
 No. iPhone 8 and 8 Plus are physical SIM only. They do not support eSIM.
 
 **What about other phone brands? Is my Samsung / Xiaomi / Huawei eSIM compatible?**
-Many users ask about Samsung Galaxy S20 FE, Xiaomi 11T Pro, or Huawei P30 Pro. The answer depends on the region and model:
+Samsung Galaxy S20 FE, Xiaomi 11T Pro, and Huawei P30 Pro support eSIM depending on the region and model:
 
 - Samsung – most global Galaxy S20/S21/S22/S23/S24/S25 series support eSIM. Some Galaxy A-series 5G models (such as the A33, A52s, and A53) also support it, while the S20 FE does not support eSIM in most regions.
 - Xiaomi – eSIM-compatible models include the 12T Pro, 13/13 Pro, 13T/13T Pro, and 14/14 Pro. The 11T Pro and Redmi Note 11 Pro 5G do not support eSIM.

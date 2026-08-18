@@ -546,3 +546,38 @@ other = "❌ Limité"
 
 [esim_free_trial]
 other = "eSIM d'essai gratuit"
+
+# ===== Guide en 3 étapes =====
+[steps_title]
+other = "Comment obtenir votre eSIM gratuite en 3 étapes simples"
+
+[steps_desc]
+other = "Pas de carte de crédit, pas d'engagement – juste un code QR eSIM gratuit pour commencer à tester immédiatement."
+
+[step1_title]
+other = "Choisissez votre pays"
+
+[step1_desc]
+other = "Sélectionnez votre destination dans la liste ci-dessous – nous proposons des essais gratuits d'eSIM dans plus de 200 pays."
+
+[step2_title]
+other = "Réclamez votre essai gratuit"
+
+[step2_desc]
+other = "Cliquez sur \"Réclamer l'essai gratuit\" – aucune carte de crédit requise. Nous vous enverrons instantanément votre code QR eSIM gratuit."
+
+[step3_title]
+other = "Scannez et connectez-vous"
+
+[step3_desc]
+other = "Scannez le code QR avec l'appareil photo de votre téléphone, suivez la configuration et profitez de 100 Mo de données gratuites."
+
+# ===== Pourquoi Roami =====
+[why_title]
+other = "Pourquoi Roami est le meilleur fournisseur d'eSIM gratuit en 2026"
+
+[why_p1]
+other = '''Lorsque vous recherchez une <strong>eSIM gratuite</strong>, vous voulez une option fiable, rapide et véritablement sans frais. Roami offre exactement cela – avec un <strong>essai eSIM gratuit</strong> qui comprend <strong>100 Mo de données</strong>, <strong>aucune carte de crédit</strong> requise, et une couverture dans <strong>plus de 200 pays</strong>. Contrairement à de nombreux concurrents, nous ne vous enfermons pas dans un abonnement ni ne vous demandons de coordonnées de paiement à l'avance.'''
+
+[why_p2]
+other = '''Notre <strong>code QR eSIM gratuit</strong> est généré instantanément et envoyé à votre adresse e-mail, afin que vous puissiez configurer votre appareil en quelques minutes. Que vous soyez un voyageur fréquent ou que vous souhaitiez simplement tester la technologie eSIM, Roami offre la <strong>meilleure expérience eSIM gratuite</strong> avec des vitesses 4G/5G, un support 24/7 et des tarifs transparents pour les forfaits payants si vous avez besoin de plus de données.'''

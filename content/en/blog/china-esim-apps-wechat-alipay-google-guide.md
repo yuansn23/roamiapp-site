@@ -225,7 +225,7 @@ WeChat Pay is where most travelers hit friction. WeChat Pay (the payment feature
 - You can link a **Visa, Mastercard, JCB, Diners Club, or Discover** credit card to WeChat Pay.
 - The foreign card must be linked from within the WeChat app: Go to Me > Services > WeChat Pay > Wallet > Cards > Add a Card.
 - **Fees:** Foreign card transactions incur a roughly 3% fee plus a fixed per-transaction charge. This is higher than using Alipay with a foreign card, which is covered in the next section.
-- **Limits:** Single transaction limit for foreign cards varies but is typically around 6,000 RMB (~$830 USD). Daily and monthly caps also apply.
+- **Limits:** Single transaction limit for foreign cards varies but is typically around $830 USD. Daily and monthly caps also apply.
 - **What you cannot do with a foreign card:** Send money to other users ("red packets" or person-to-person transfers), top up your WeChat balance with a foreign card, or use WeChat Pay for certain regulated services like wealth management products.
 
 **Practical advice:** Use WeChat Pay for small transactions — convenience stores, street food, taxi fares. Use Alipay for larger purchases and restaurant bills, as Alipay's foreign card integration is more mature and charges lower fees.
@@ -279,7 +279,7 @@ The Tour Card is Alipay's best feature for international travelers. It is a prep
 4. Spend the Tour Card balance at any merchant that accepts Alipay. There are no per-transaction foreign fees because you are spending from the prepaid balance, not directly from your foreign card.
 5. Unused balance can be transferred back to your foreign card when you leave, minus a small fee (typically 2-5 USD).
 
-**Tour Card limits (2026):** Minimum top-up is roughly 200 RMB (~$28). Maximum balance is 10,000 RMB (~$1,380). You can top up multiple times.
+**Tour Card limits (2026):** Minimum top-up is roughly $28. Maximum balance is about $1,380. You can top up multiple times.
 
 **Why use Tour Card over direct card linking:** The Tour Card eliminates per-transaction foreign fees. If you plan to make many small purchases (coffees, street food, metro tickets), the savings add up quickly. For large purchases like hotel bills or train tickets, direct card linking is more convenient because you don't need to pre-load funds.
 
@@ -307,7 +307,7 @@ DiDi Chuxing is China's dominant ride-hailing platform, operating in over 400 ci
 5. Confirm the fare and request the ride.
 6. When the driver accepts, you see their plate number, car model, and estimated arrival time.
 
-**Pricing:** DiDi in China is significantly cheaper than Uber in most Western countries. A 15-minute ride in central Beijing typically costs 20-40 RMB ($3-6 USD). During surge pricing (rain, rush hour, late night), prices can double but remain reasonable by Western standards.
+**Pricing:** DiDi in China is significantly cheaper than Uber in most Western countries. A 15-minute ride in central Beijing typically costs $3-6 USD. During surge pricing (rain, rush hour, late night), prices can double but remain reasonable by Western standards.
 
 **Uber with International Routing**
 The Uber app technically works in China with an international-routing eSIM. You can open the app, set a pickup location, and see available cars. However, because Uber China was absorbed into DiDi, there are very few Uber-branded cars actually active. In major cities like Shanghai, you might find a handful of Uber vehicles operating, but wait times are long and prices are higher than DiDi.

@@ -554,3 +554,38 @@ other = "❌ Limited"
 
 [esim_free_trial]
 other = "eSIM free trial"
+
+# ===== 3步指南 =====
+[steps_title]
+other = "How to Get Your Free eSIM in 3 Simple Steps"
+
+[steps_desc]
+other = "No credit card, no commitment – just a free eSIM QR code to start testing instantly."
+
+[step1_title]
+other = "Choose Your Country"
+
+[step1_desc]
+other = "Select your destination from the list below – we offer free eSIM trials for 200+ countries."
+
+[step2_title]
+other = "Claim Your Free Trial"
+
+[step2_desc]
+other = "Click \"Claim Free Trial\" – no credit card required. We'll instantly send your free eSIM QR code."
+
+[step3_title]
+other = "Scan & Connect"
+
+[step3_desc]
+other = "Scan the QR code with your phone's camera, follow the setup, and enjoy 100MB of free data."
+
+# ===== Why Roami 区块 =====
+[why_title]
+other = "Why Roami is the Best Free eSIM Provider in 2026"
+
+[why_p1]
+other = '''When searching for a <strong>free eSIM</strong>, you want a reliable, fast, and truly cost-free option. Roami delivers exactly that – with a <strong>free eSIM trial</strong> that includes <strong>100MB of data</strong>, <strong>no credit card</strong> required, and coverage in <strong>over 200 countries</strong>. Unlike many competitors, we don't lock you into a subscription or ask for payment details upfront.'''
+
+[why_p2]
+other = '''Our <strong>free eSIM QR code</strong> is generated instantly and sent to your email, so you can set up your device in minutes. Whether you're a frequent traveler or just want to test eSIM technology, Roami offers the <strong>best free eSIM experience</strong> with 4G/5G speeds, 24/7 support, and transparent pricing for paid plans if you need more data.'''
