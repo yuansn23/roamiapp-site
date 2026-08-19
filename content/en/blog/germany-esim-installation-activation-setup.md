@@ -2,8 +2,8 @@
 title: "How to Install & Activate a Germany eSIM: Step-by-Step Setup"
 description: "Step-by-step Germany eSIM installation for iPhone, Samsung and Google Pixel. Scan the QR code, configure APN settings, and activate data in minutes."
 keywords: ["Germany eSIM installation", "Germany eSIM activation", "Germany eSIM setup", "how to install Germany eSIM", "Germany eSIM QR code"]
-date: 2026-07-07T10:00:00Z
-lastmod: 2026-07-07T10:00:00Z
+date: 2026-08-18T00:00:00Z
+lastmod: 2026-08-18T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/germany/germany-esim-coverage-cities-trains-alps.jpg"

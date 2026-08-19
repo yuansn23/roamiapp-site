@@ -2,8 +2,8 @@
 title: "Airalo vs Holafly vs Ubigi vs Saily: Best Germany eSIM"
 description: "Compare Airalo, Holafly, Ubigi and Saily Germany eSIM plans on coverage, pricing, data caps and tethering. See which provider fits your trip."
 keywords: ["Germany eSIM providers", "Airalo Germany eSIM", "Holafly Germany eSIM", "Ubigi Germany eSIM", "Saily Germany eSIM", "best eSIM Germany"]
-date: 2026-07-07T10:00:00Z
-lastmod: 2026-07-07T10:00:00Z
+date: 2026-08-18T00:00:00Z
+lastmod: 2026-08-18T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/germany/germany-esim-coverage-cities-trains-alps.jpg"

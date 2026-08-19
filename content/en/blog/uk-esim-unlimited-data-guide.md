@@ -2,8 +2,8 @@
 title: "Unlimited UK eSIM Data Plans: What You Need to Know"
 description: "UK unlimited eSIM plans: real speed caps, fair use & hotspot limits exposed. Roami auto-switches all four UK networks. Choose your plan now."
 keywords: ["best unlimited data eSIM UK","UK eSIM unlimited data plan price","UK eSIM with unlimited hotspot tethering","cheapest unlimited 5G eSIM UK"]
-date: 2026-08-04T00:00:00Z
-lastmod: 2026-08-04T00:00:00Z
+date: 2026-08-18T00:00:00Z
+lastmod: 2026-08-18T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/uk/uk-esim-unlimited-data-guide.jpg"

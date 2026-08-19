@@ -2,8 +2,8 @@
 title: "Complete Germany eSIM Guide: Networks, Plans & Setup"
 description: "New to Germany eSIM? This guide covers network choice, passport rules, pricing and setup. Roami compares Telekom, Vodafone and O2 in one plan."
 keywords: ["Germany eSIM", "eSIM Germany", "Germany travel eSIM", "best eSIM Germany", "Germany eSIM plans", "Germany eSIM for tourists", "German eSIM"]
-date: 2026-07-07T10:00:00Z
-lastmod: 2026-07-07T10:00:00Z
+date: 2026-08-18T00:00:00Z
+lastmod: 2026-08-18T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/germany/germany-esim-complete-travel-guide.jpg"

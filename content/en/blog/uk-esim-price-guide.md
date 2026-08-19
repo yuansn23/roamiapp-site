@@ -2,8 +2,8 @@
 title: "How Much Does a UK eSIM Cost? Full Price Breakdown"
 description: "UK eSIM prices compared: per-GB breakdowns from GBP 2-50, Heathrow trap exposed. Roami multi-network switching. Find your plan now."
 keywords: ["cheapest UK eSIM 1GB 3GB 5GB 10GB","UK eSIM 30 day prepaid plan cost","UK eSIM 7 day tourist plan price","UK eSIM 5G high speed plan cost","UK eSIM for 2 week vacation budget","UK eSIM price per GB comparison","best value UK eSIM for 30 days","UK eSIM promo code discount voucher"]
-date: 2026-08-04T00:00:00Z
-lastmod: 2026-08-04T00:00:00Z
+date: 2026-08-18T00:00:00Z
+lastmod: 2026-08-18T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/uk/uk-esim-price-guide.jpg"

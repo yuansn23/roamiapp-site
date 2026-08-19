@@ -2,8 +2,8 @@
 title: "Getting a UK eSIM with a Phone Number for Calls and SMS"
 description: "UK eSIM with phone number for calls, SMS & 2FA. Roami data eSIM plus cheap giffgaff voice SIM hybrid approach. Find your plan now."
 keywords: ["best UK eSIM with phone number","how to get a UK phone number with eSIM","UK eSIM data only vs with calling plan","UK eSIM for Uber and public transport apps","UK eSIM cannot receive SMS verification","UK eSIM for multiple device laptop iPad","Great Britain eSIM","England eSIM"]
-date: 2026-08-04T00:00:00Z
-lastmod: 2026-08-04T00:00:00Z
+date: 2026-08-18T00:00:00Z
+lastmod: 2026-08-18T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/uk/uk-esim-with-phone-number.jpg"

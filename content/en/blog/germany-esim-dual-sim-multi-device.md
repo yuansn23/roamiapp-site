@@ -2,8 +2,8 @@
 title: "How to Use Dual SIM in Germany with eSIM: Full Guide"
 description: "Set up dual SIM in Germany with your home number and a Germany eSIM. Roami supports WhatsApp, DB Navigator, hotspot sharing and multi-device use."
 keywords: ["Germany eSIM dual SIM", "Germany eSIM for tourists", "how to set up dual SIM with home SIM and Germany eSIM", "Germany eSIM dual SIM conflict", "Germany eSIM for multiple devices"]
-date: 2026-07-07T10:00:00Z
-lastmod: 2026-07-07T10:00:00Z
+date: 2026-08-18T00:00:00Z
+lastmod: 2026-08-18T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/germany/germany-esim-dual-sim-multi-device.jpg"

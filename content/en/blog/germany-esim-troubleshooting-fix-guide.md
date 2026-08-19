@@ -2,8 +2,8 @@
 title: "Germany eSIM Not Working? Fixes for Common Issues"
 description: "No signal after landing? QR code won't scan? APN not working? This guide fixes common Germany eSIM problems. Roami support available 24/7."
 keywords: ["Germany eSIM troubleshooting"]
-date: 2026-07-07T10:00:00Z
-lastmod: 2026-07-07T10:00:00Z
+date: 2026-08-18T00:00:00Z
+lastmod: 2026-08-18T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/germany/germany-esim-troubleshooting-fix-guide.jpg"

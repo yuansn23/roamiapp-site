@@ -2,8 +2,8 @@
 title: "Do I Need a Passport for eSIM in Germany? Full Guide"
 description: "You need a passport for German-licensed eSIMs but not international ones. Roami eSIM requires no ID upload — activate before your trip."
 keywords: ["Germany eSIM with phone number", "eSIM Germany", "German eSIM"]
-date: 2026-07-07T10:00:00Z
-lastmod: 2026-07-07T10:00:00Z
+date: 2026-08-18T00:00:00Z
+lastmod: 2026-08-18T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/germany/germany-esim-passport-registration-requirements.jpg"

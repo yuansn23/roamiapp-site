@@ -2,8 +2,8 @@
 title: "Germany eSIM for Families, Students & Extended Stays"
 description: "Germany eSIM guide for families, students and solo travelers. Roami covers Telekom, Vodafone and O2 networks for reliable data wherever you stay."
 keywords: ["Germany eSIM", "best eSIM Germany", "Germany travel eSIM", "Germany eSIM for families", "Germany eSIM for students"]
-date: 2026-07-07T10:00:00Z
-lastmod: 2026-07-07T10:00:00Z
+date: 2026-08-18T00:00:00Z
+lastmod: 2026-08-18T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/germany/germany-esim-families-students-special-travel.jpg"

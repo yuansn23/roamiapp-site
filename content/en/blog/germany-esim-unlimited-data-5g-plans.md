@@ -2,8 +2,8 @@
 title: "Best Unlimited Data eSIM for Germany with 5G Plans"
 description: "Unlimited data eSIM plans for Germany rarely mean unlimited. Compare fair usage caps and hotspot policies here. Roami includes tethering with clear terms."
 keywords: ["Germany eSIM unlimited data", "Germany eSIM 5G", "Germany eSIM plans", "Germany mobile data tourist"]
-date: 2026-07-07T10:00:00Z
-lastmod: 2026-07-07T10:00:00Z
+date: 2026-08-18T00:00:00Z
+lastmod: 2026-08-18T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/germany/germany-esim-unlimited-data-5g-plans.jpg"

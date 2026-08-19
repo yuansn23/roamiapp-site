@@ -2,8 +2,8 @@
 title: "Germany eSIM vs Local Carriers: Prepaid SIM Guide"
 description: "Compare Telekom, Vodafone and O2 prepaid SIMs with Germany eSIM plans. CallYa, Aldi Talk and Lidl Connect pricing, coverage and ID requirements."
 keywords: ["Germany eSIM vs local SIM", "German prepaid eSIM", "Vodafone CallYa", "Telekom prepaid", "best eSIM Germany"]
-date: 2026-07-07T10:00:00Z
-lastmod: 2026-07-07T10:00:00Z
+date: 2026-08-18T00:00:00Z
+lastmod: 2026-08-18T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/germany/germany-esim-coverage-cities-trains-alps.jpg"

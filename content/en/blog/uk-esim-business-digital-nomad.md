@@ -2,8 +2,8 @@
 title: "Business-Focused UK eSIM Plans for Remote Workers"
 description: "UK eSIM for business & nomads: long-stay plans with hotspot tethering. Roami auto-switches all four UK networks. Find your plan now."
 keywords: ["UK eSIM for business trip London","eSIM for UK digital nomad remote work","UK eSIM for student study abroad","UK eSIM for frequent traveler annual","UK eSIM for multiple device laptop iPad","UK eSIM 50GB long stay plan","UK eSIM for family vacation group","UK eSIM for backpacker budget travel"]
-date: 2026-08-01T00:00:00Z
-lastmod: 2026-08-01T00:00:00Z
+date: 2026-08-18T00:00:00Z
+lastmod: 2026-08-18T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travellers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/uk/uk-esim-business-digital-nomad.jpg"

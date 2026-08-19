@@ -2,8 +2,8 @@
 title: "Traveller's Guide to UK eSIM Plans for Your UK Trip"
 description: "UK eSIM complete guide: costs, networks & setup for every trip type. Roami auto-switches EE, Vodafone, O2 & Three. Find your plan now."
 keywords: ["UK eSIM complete guide","UK eSIM for tourists","UK eSIM how it works","best way to get internet in UK","UK mobile data for tourists"]
-date: 2026-08-01T00:00:00Z
-lastmod: 2026-08-01T00:00:00Z
+date: 2026-08-18T00:00:00Z
+lastmod: 2026-08-18T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travellers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/uk/uk-esim-complete-guide.jpg"

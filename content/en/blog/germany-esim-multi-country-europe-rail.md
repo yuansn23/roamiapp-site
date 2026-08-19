@@ -2,8 +2,8 @@
 title: "Best eSIM for Multi-Country Europe Travel from Germany"
 description: "Multi-country eSIM for Germany and Europe covering cross-border rail travel. Roami offers seamless connectivity across borders without switching SIMs."
 keywords: ["Germany travel eSIM", "Germany eSIM"]
-date: 2026-07-07T10:00:00Z
-lastmod: 2026-07-07T10:00:00Z
+date: 2026-08-18T00:00:00Z
+lastmod: 2026-08-18T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/germany/germany-esim-multi-country-europe-rail.jpg"

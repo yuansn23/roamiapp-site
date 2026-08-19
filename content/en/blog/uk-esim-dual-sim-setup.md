@@ -2,8 +2,8 @@
 title: "UK eSIM Dual SIM: Keep Your Home Number"
 description: "Dual SIM with UK eSIM: keep your home number for 2FA & calls while using UK data. Roami auto-switches networks. Get your plan now."
 keywords: ["UK eSIM dual SIM setup","dual SIM UK travel","UK eSIM keep home number","iPhone dual SIM UK eSIM","Android dual SIM UK eSIM","UK eSIM data roaming","dual SIM 2FA travel","Great Britain eSIM"]
-date: 2026-08-02T00:00:00Z
-lastmod: 2026-08-02T00:00:00Z
+date: 2026-08-18T00:00:00Z
+lastmod: 2026-08-18T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/uk/uk-esim-dual-sim-setup.jpg"

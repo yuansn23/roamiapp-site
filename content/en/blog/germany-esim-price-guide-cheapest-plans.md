@@ -2,8 +2,8 @@
 title: "Cheapest Germany eSIM Plans: Complete Price Guide"
 description: "Germany eSIM prices range from EUR 3 for 1GB to EUR 50 for 50GB. Compare plans and find the best value. Roami rates include auto network switching."
 keywords: ["cheapest Germany eSIM", "Germany eSIM price", "Germany eSIM plans", "Germany eSIM for tourists", "Germany mobile data tourist", "Germany travel eSIM"]
-date: 2026-07-07T10:00:00Z
-lastmod: 2026-07-07T10:00:00Z
+date: 2026-08-18T00:00:00Z
+lastmod: 2026-08-18T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/germany/germany-esim-price-guide-cheapest-plans.jpg"
