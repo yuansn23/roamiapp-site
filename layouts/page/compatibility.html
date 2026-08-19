@@ -3,10 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {{ partial "head.html" . }} 
+    {{ partial "head.html" . }}
     {{ with .Params.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
-   
-   
 
     <meta property="og:title" content="{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}">
     <meta property="og:description" content="{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Description }}{{ end }}">
@@ -23,43 +21,48 @@
 
     {{ if .Params.faq_schema }}
     <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {{ $len := len .Params.faq_schema }}
-        {{ range $index, $element := .Params.faq_schema }}
         {
-          "@type": "Question",
-          "name": "{{ .question }}",
-          "acceptedAnswer": { "@type": "Answer", "text": "{{ .answer | plainify }}" }
-        }{{ if ne (add $index 1) $len }},{{ end }}
-        {{ end }}
-      ]
-    }
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {{ $len := len .Params.faq_schema }}
+                {{ range $index, $element := .Params.faq_schema }}
+                {
+                    "@type": "Question",
+                    "name": "{{ .question }}",
+                    "acceptedAnswer": { "@type": "Answer", "text": "{{ .answer | plainify }}" }
+                }{{ if ne (add $index 1) $len }},{{ end }}
+                {{ end }}
+            ]
+        }
     </script>
     {{ end }}
- 
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebPage",
-      "name": "{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}",
-      "description": "{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Description }}{{ end }}",
-      "url": "{{ .Permalink }}"
-    }
-    </script>
-    
 
-<link href="/css/tailwind-compiled.css" rel="stylesheet">
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}",
+            "description": "{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Description }}{{ end }}",
+            "url": "{{ .Permalink }}"
+        }
+    </script>
+
+
+    <link href="/css/tailwind-compiled.css" rel="stylesheet">
 
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
-        body { font-family: 'Inter', system-ui, sans-serif; }
-        /* 移除自定义滚动条样式，因为不再需要内部滚动 */
-        .device-item { transition: opacity 0.2s ease-in-out; }
-        .hidden-item { display: none !important; }
-        
+        body {
+            font-family: 'Inter', system-ui, sans-serif;
+        }
+        .device-item {
+            transition: opacity 0.2s ease-in-out;
+        }
+        .hidden-item {
+            display: none !important;
+        }
+
         /* 品牌导航栏样式 - 移动端可滑动 */
         .brand-tabs-container {
             scrollbar-width: thin;
@@ -73,227 +76,306 @@
             background-color: #2563eb;
             color: white;
             border-color: #2563eb;
-            box-shadow: 0 4px 8px rgba(37,99,235,0.2);
+            box-shadow: 0 4px 8px rgba(37, 99, 235, 0.2);
         }
         .brand-card-highlight {
             transition: all 0.3s cubic-bezier(0.2, 0.9, 0.4, 1.1);
-            box-shadow: 0 0 0 3px #3b82f6, 0 10px 25px -5px rgba(0,0,0,0.1);
+            box-shadow: 0 0 0 3px #3b82f6, 0 10px 25px -5px rgba(0, 0, 0, 0.1);
             background-color: #f8fafc;
         }
         /* 滚动平滑 */
         html {
             scroll-behavior: smooth;
         }
-		
-		.value-claim-visual {
-    background: linear-gradient(135deg, #eff6ff 0%, #e0f2fe 100%);
-    border-top: 2px solid #93c5fd;
-    border-bottom: 2px solid #93c5fd;
-}
-.value-claim-visual .claim-item {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.25rem;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-.value-claim-visual .badge-5g {
-    background: #2563eb;
-    color: white;
-    font-weight: 700;
-    padding: 0.2rem 0.8rem;
-    border-radius: 9999px;
-    font-size: 0.75rem;
-    display: inline-flex;
-    align-items: center;
-    gap: 0.25rem;
-    letter-spacing: 0.025em;
-    box-shadow: 0 2px 6px rgba(37, 99, 235, 0.3);
-}
-.value-claim-visual .badge-5g svg {
-    width: 1rem;
-    height: 1rem;
-    fill: none;
-    stroke: currentColor;
-    stroke-width: 2.5;
-    stroke-linecap: round;
-    stroke-linejoin: round;
-}
-.value-claim-visual .competitor {
-    position: relative;
-    display: inline-block;
-    color: #94a3b8;
-    font-weight: 500;
-    padding: 0 0.1em;
-}
-.value-claim-visual .competitor::after {
-    content: '';
-    position: absolute;
-    top: 50%;
-    left: -3px;
-    width: calc(100% + 6px);
-    height: 2.5px;
-    background: #ef4444;
-    transform: rotate(-18deg);
-    transform-origin: center center;
-    border-radius: 3px;
-    box-shadow: 0 1px 3px rgba(239, 68, 68, 0.25);
-}
-.value-claim-visual .discount-number {
-    color: #dc2626;
-    font-weight: 900;
-    font-size: 2rem;
-    line-height: 1;
-    background: white;
-    padding: 0 0.5rem;
-    border-radius: 0.5rem;
-    box-shadow: 0 2px 8px rgba(220, 38, 38, 0.15);
-    display: inline-block;
-}
-.value-claim-visual .save-tag {
-    background: #dc2626;
-    color: white;
-    font-weight: 700;
-    padding: 0.2rem 0.8rem;
-    border-radius: 9999px;
-    font-size: 0.65rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    box-shadow: 0 2px 6px rgba(220, 38, 38, 0.3);
-    margin-left: 0.25rem;
-}
-@media (min-width: 640px) {
-    .value-claim-visual .discount-number {
-        font-size: 2.5rem;
-    }
-}
-@media (min-width: 1024px) {
-    .value-claim-visual .discount-number {
-        font-size: 3rem;
-    }
-}
 
+        .value-claim-visual {
+            background: linear-gradient(135deg, #eff6ff 0%, #e0f2fe 100%);
+            border-top: 2px solid #93c5fd;
+            border-bottom: 2px solid #93c5fd;
+        }
+        .value-claim-visual .claim-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.25rem;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .value-claim-visual .badge-5g {
+            background: #2563eb;
+            color: white;
+            font-weight: 700;
+            padding: 0.2rem 0.8rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.25rem;
+            letter-spacing: 0.025em;
+            box-shadow: 0 2px 6px rgba(37, 99, 235, 0.3);
+        }
+        .value-claim-visual .badge-5g svg {
+            width: 1rem;
+            height: 1rem;
+            fill: none;
+            stroke: currentColor;
+            stroke-width: 2.5;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+        }
+        .value-claim-visual .competitor {
+            position: relative;
+            display: inline-block;
+            color: #94a3b8;
+            font-weight: 500;
+            padding: 0 0.1em;
+        }
+        .value-claim-visual .competitor::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: -3px;
+            width: calc(100% + 6px);
+            height: 2.5px;
+            background: #ef4444;
+            transform: rotate(-18deg);
+            transform-origin: center center;
+            border-radius: 3px;
+            box-shadow: 0 1px 3px rgba(239, 68, 68, 0.25);
+        }
+        .value-claim-visual .discount-number {
+            color: #dc2626;
+            font-weight: 900;
+            font-size: 2rem;
+            line-height: 1;
+            background: white;
+            padding: 0 0.5rem;
+            border-radius: 0.5rem;
+            box-shadow: 0 2px 8px rgba(220, 38, 38, 0.15);
+            display: inline-block;
+        }
+        .value-claim-visual .save-tag {
+            background: #dc2626;
+            color: white;
+            font-weight: 700;
+            padding: 0.2rem 0.8rem;
+            border-radius: 9999px;
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            box-shadow: 0 2px 6px rgba(220, 38, 38, 0.3);
+            margin-left: 0.25rem;
+        }
+        @media (min-width: 640px) {
+            .value-claim-visual .discount-number {
+                font-size: 2.5rem;
+            }
+        }
+        @media (min-width: 1024px) {
+            .value-claim-visual .discount-number {
+                font-size: 3rem;
+            }
+        }
+
+        /* ---------- 新增表格样式（源自第二份文件，适配浅色主题） ---------- */
+        .device-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.875rem;
+            background: white;
+            border-radius: 0.5rem;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+        .device-table thead th {
+            text-align: left;
+            padding: 0.6rem 0.75rem;
+            font-size: 0.7rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: #64748b;
+            background: #f8fafc;
+            border-bottom: 2px solid #e2e8f0;
+        }
+        .device-table tbody td {
+            padding: 0.6rem 0.75rem;
+            border-bottom: 1px solid #f1f5f9;
+            color: #1e293b;
+        }
+        .device-table tbody tr:last-child td {
+            border-bottom: none;
+        }
+        .device-table tbody tr:hover {
+            background: #f8fafc;
+        }
+        .device-table .model-name {
+            font-weight: 500;
+            color: #0f172a;
+        }
+
+        /* ---------- 折叠功能 ---------- */
+        .brand-card .brand-header {
+            cursor: pointer;
+            user-select: none;
+        }
+        .brand-card .brand-header .arrow-icon {
+            transition: transform 0.25s ease;
+            display: inline-block;
+            margin-left: auto;
+            color: #94a3b8;
+            font-size: 0.8rem;
+        }
+        .brand-card.brand-collapsed .brand-header .arrow-icon {
+            transform: rotate(0deg);
+        }
+        .brand-card:not(.brand-collapsed) .brand-header .arrow-icon {
+            transform: rotate(90deg);
+        }
+        .brand-card .brand-content {
+            transition: all 0.25s ease;
+            overflow: hidden;
+        }
+        .brand-card.brand-collapsed .brand-content {
+            display: none;
+        }
+        /* 分组标题保留 */
+        .group-title {
+            font-weight: 600;
+            color: #475569;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin: 1rem 0 0.5rem 0;
+            padding: 0 0.25rem;
+        }
+        .group-title:first-of-type {
+            margin-top: 0;
+        }
+
+        /* 右侧 aside 内部区块间距 */
+        .aside-block+.aside-block {
+            margin-top: 1.5rem;
+        }
     </style>
 </head>
 <body class="bg-slate-50 text-slate-900 antialiased flex flex-col min-h-screen">
 
-{{ partial "header.html" . }}
+    {{ partial "header.html" . }}
 
-<main class="flex-grow">
-    <header class="bg-white border-b border-slate-200 py-6 lg:py-8 relative z-10 shadow-sm">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex flex-col md:flex-row md:items-center justify-between gap-4">
-                <div>
-                    <h1 class="text-2xl md:text-3xl font-extrabold text-slate-900">{{ .Params.header.title }}</h1>
-                    <p class="text-slate-500 text-sm mt-1">{{ .Params.header.subtitle }}</p>
-                    
-                    <!-- 2.1 热门设备快速跳转 (popular_devices) -->
-                    {{ with .Params.popular_devices }}
-                    <div class="mt-4 flex flex-wrap gap-2 items-center">
-                        <span class="text-xs font-semibold text-slate-500 uppercase tracking-wide mr-1">⚡ Популярные устройства:</span>
-                        {{ range .devices }}
-                        <a href="{{ .url | relLangURL }}" class="text-xs bg-slate-100 hover:bg-slate-200 text-slate-700 px-3 py-1.5 rounded-full transition-colors" title="{{ .name }} eSIM support">
-                            {{ .name }}
-                        </a>
+    <main class="flex-grow">
+        <header class="bg-white border-b border-slate-200 py-6 lg:py-8 relative z-10 shadow-sm">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="flex flex-col md:flex-row md:items-center justify-between gap-4">
+                    <div>
+                        <h1 class="text-2xl md:text-3xl font-extrabold text-slate-900">{{ .Params.header.title }}</h1>
+                        <p class="text-slate-500 text-sm mt-1">{{ .Params.header.subtitle }}</p>
+
+                        <!-- 2.1 热门设备快速跳转 (popular_devices) -->
+                        {{ with .Params.popular_devices }}
+                        <div class="mt-4 flex flex-wrap gap-2 items-center">
+                            <span class="text-xs font-semibold text-slate-500 uppercase tracking-wide mr-1">⚡ Популярные устройства:</span>
+                            {{ range .devices }}
+                            <a href="{{ .url | relLangURL }}" class="text-xs bg-slate-100 hover:bg-slate-200 text-slate-700 px-3 py-1.5 rounded-full transition-colors" title="{{ .name }} eSIM support">
+                                {{ .name }}
+                            </a>
+                            {{ end }}
+                        </div>
                         {{ end }}
                     </div>
+
+                    <form role="search" onsubmit="event.preventDefault();" class="w-full md:w-96 relative shrink-0">
+                        <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                            <i data-lucide="search" class="w-5 h-5 text-slate-400" aria-hidden="true"></i>
+                        </div>
+                        <input type="search" id="device-search" aria-label="Search supported devices" class="block w-full pl-10 pr-4 py-2.5 bg-slate-100 border-transparent focus:bg-white border focus:border-blue-500 rounded-xl text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all" placeholder="{{ default "Search your phone model..." .Params.header.search_placeholder }}">
+                    </form>
+                </div>
+            </div>
+        </header>
+
+        <!-- 价值主张 – 视觉化设计（斜杆删除线）                            -->
+        <!-- ============================================================ -->
+        <section class="value-claim-visual py-3 md:py-4">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="flex flex-wrap items-center justify-center gap-1 sm:gap-2 md:gap-4 text-center">
+
+                    <!-- 5G 徽章 -->
+                    <span class="badge-5g">
+                        {{ i18n "vp_5g_badge" }}
+                    </span>
+
+                    <span class="text-base sm:text-lg md:text-xl font-semibold text-slate-800">{{ i18n "vp_same" }}</span>
+                    <span class="text-base sm:text-lg md:text-xl font-bold text-blue-600">{{ i18n "vp_network" }}</span>
+                    <span class="text-base sm:text-lg md:text-xl font-semibold text-slate-800">{{ i18n "vp_compare" }}</span>
+
+                    <span class="text-base sm:text-lg md:text-xl font-semibold text-slate-800">{{ i18n "vp_cheaper" }}</span>
+
+                    <!-- 突出的 30% -->
+                    <span class="discount-number">{{ i18n "vp_percent" }}</span>
+
+                    <!-- 小标签 -->
+                    <span class="save-tag">{{ i18n "vp_save_tag" }}</span>
+                </div>
+            </div>
+        </section>
+
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+            <!-- ========= 新增：品牌快速导航栏（Tab切换效果） ========= -->
+            {{ if .Params.brands }}
+            <div class="mb-8 bg-white rounded-xl border border-slate-200 shadow-sm overflow-hidden">
+                <div class="bg-gradient-to-r from-slate-50 to-white px-4 py-3 border-b border-slate-100">
+                </div>
+                <div class="brand-tabs-container px-3 py-3 flex flex-wrap gap-2">
+                    {{ range .Params.brands }}
+                    {{ $brandSlug := .name | urlize }}
+                    <button class="brand-tab-btn flex-shrink-0 bg-white hover:bg-blue-50 text-slate-700 border border-slate-200 px-4 py-2 rounded-full text-xs font-medium transition-all" data-brand-target="brand-{{ $brandSlug }}">
+                        {{ if .icon }}<i data-lucide="{{ .icon }}" class="inline w-3.5 h-3.5 mr-1 -mt-0.5"></i>{{ end }}
+                        {{ .name }}
+                    </button>
                     {{ end }}
                 </div>
-                
-                <form role="search" onsubmit="event.preventDefault();" class="w-full md:w-96 relative shrink-0">
-                    <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                        <i data-lucide="search" class="w-5 h-5 text-slate-400" aria-hidden="true"></i>
-                    </div>
-                    <input type="search" id="device-search" aria-label="Search supported devices" class="block w-full pl-10 pr-4 py-2.5 bg-slate-100 border-transparent focus:bg-white border focus:border-blue-500 rounded-xl text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all" placeholder="{{ default "Search your phone model..." .Params.header.search_placeholder }}">
-                </form>
             </div>
-        </div>
-    </header>
+            {{ end }}
 
-    <!-- 价值主张 – 视觉化设计（斜杆删除线）                            -->
-    <!-- ============================================================ -->
-<section class="value-claim-visual py-3 md:py-4">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="flex flex-wrap items-center justify-center gap-1 sm:gap-2 md:gap-4 text-center">
+            <div class="flex flex-col lg:flex-row gap-8">
 
-            <!-- 5G 徽章 -->
-            <span class="badge-5g">
-                {{ i18n "vp_5g_badge" }}
-            </span>
+                <div class="flex-1">
 
-            <span class="text-base sm:text-lg md:text-xl font-semibold text-slate-800">{{ i18n "vp_same" }}</span>
-            <span class="text-base sm:text-lg md:text-xl font-bold text-blue-600">{{ i18n "vp_network" }}</span>
-            <span class="text-base sm:text-lg md:text-xl font-semibold text-slate-800">{{ i18n "vp_compare" }}</span>
-
-            <span class="text-base sm:text-lg md:text-xl font-semibold text-slate-800">{{ i18n "vp_cheaper" }}</span>
-
-            <!-- 突出的 30% -->
-            <span class="discount-number">{{ i18n "vp_percent" }}</span>
-
-            <!-- 小标签 -->
-            <span class="save-tag">{{ i18n "vp_save_tag" }}</span>
-        </div>
-    </div>
-</section>
-
-
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-      <!-- ========= 新增：品牌快速导航栏（Tab切换效果） ========= -->
-{{ if .Params.brands }}
-<div class="mb-8 bg-white rounded-xl border border-slate-200 shadow-sm overflow-hidden">
-    <div class="bg-gradient-to-r from-slate-50 to-white px-4 py-3 border-b border-slate-100">
-    </div>
-    <div class="brand-tabs-container px-3 py-3 flex flex-wrap gap-2">
-        <!-- 删除了 overflow-x-auto 和 flex-nowrap，改为 flex-wrap -->
-        {{ range .Params.brands }}
-        {{ $brandSlug := .name | urlize }}
-        <button class="brand-tab-btn flex-shrink-0 bg-white hover:bg-blue-50 text-slate-700 border border-slate-200 px-4 py-2 rounded-full text-xs font-medium transition-all" data-brand-target="brand-{{ $brandSlug }}">
-            {{ if .icon }}<i data-lucide="{{ .icon }}" class="inline w-3.5 h-3.5 mr-1 -mt-0.5"></i>{{ end }}
-            {{ .name }}
-        </button>
-        {{ end }}
-    </div>
-</div>
-{{ end }}
-        
-        <div class="flex flex-col lg:flex-row gap-8">
-            
-            <div class="flex-1">
-                
-                {{ with .Params.free_esim_banner }}
-                <section aria-label="Promotional Offer" class="mb-6 bg-gradient-to-r from-blue-50 to-indigo-50 border border-blue-100 rounded-xl p-5 shadow-sm">
-                    <div class="flex items-center gap-2 mb-2">
-                        <i data-lucide="gift" class="w-5 h-5 text-blue-600" aria-hidden="true"></i>
-                        <h2 class="font-bold text-slate-900 text-lg">{{ .title }}</h2>
-                    </div>
-                    {{ if .description }}
-                    <p class="text-sm text-slate-600 mb-4 leading-relaxed">
-                        {{ .description | safeHTML }}
-                    </p>
-                    {{ end }}
-                    <div class="flex flex-wrap gap-2">
-                        {{ range .links }}
-                        <a href="{{ .url | relLangURL }}" title="{{ .title }}" class="text-xs font-medium bg-white border border-blue-200 text-blue-700 hover:bg-blue-50 hover:text-blue-800 hover:border-blue-300 px-3 py-1.5 rounded-md transition-colors shadow-sm">
-                            {{ .text }}
-                        </a>
+                    {{ with .Params.free_esim_banner }}
+                    <section aria-label="Promotional Offer" class="mb-6 bg-gradient-to-r from-blue-50 to-indigo-50 border border-blue-100 rounded-xl p-5 shadow-sm">
+                        <div class="flex items-center gap-2 mb-2">
+                            <i data-lucide="gift" class="w-5 h-5 text-blue-600" aria-hidden="true"></i>
+                            <h2 class="font-bold text-slate-900 text-lg">{{ .title }}</h2>
+                        </div>
+                        {{ if .description }}
+                        <p class="text-sm text-slate-600 mb-4 leading-relaxed">
+                            {{ .description | safeHTML }}
+                        </p>
                         {{ end }}
-                    </div>
-                </section>
-                {{ end }}
-
-                <!-- Quick compatibility guides (optimized layout) -->
-                {{ with .Params.quick_guides }}
-                <section class="mb-6 bg-white rounded-xl border border-slate-200 shadow-sm overflow-hidden transition-all hover:shadow-md">
-                    <div class="bg-gradient-to-r from-amber-500 to-orange-600 px-5 py-3 flex items-center gap-2">
-                        <i data-lucide="compass" class="w-5 h-5 text-white" aria-hidden="true"></i>
-                        <h2 class="text-lg font-bold text-white tracking-tight">{{ .title }}</h2>
-                    </div>
-                    <div class="p-5">
-                        <p class="text-sm text-slate-600 mb-5 leading-relaxed">{{ .description }}</p>
-                        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                        <div class="flex flex-wrap gap-2">
                             {{ range .links }}
-                            <a href="{{ .url | relLangURL }}" 
-                               class="group flex items-center gap-3 bg-slate-50 hover:bg-blue-50 border border-slate-100 hover:border-blue-200 rounded-xl px-4 py-3 transition-all duration-200 shadow-sm hover:shadow">
+                            <a href="{{ .url | relLangURL }}" title="{{ .title }}" class="text-xs font-medium bg-white border border-blue-200 text-blue-700 hover:bg-blue-50 hover:text-blue-800 hover:border-blue-300 px-3 py-1.5 rounded-md transition-colors shadow-sm">
+                                {{ .text }}
+                            </a>
+                            {{ end }}
+                        </div>
+                    </section>
+                    {{ end }}
+
+                    <!-- Quick compatibility guides (optimized layout) -->
+                    {{ with .Params.quick_guides }}
+                    <section class="mb-6 bg-white rounded-xl border border-slate-200 shadow-sm overflow-hidden transition-all hover:shadow-md">
+                        <div class="bg-gradient-to-r from-amber-500 to-orange-600 px-5 py-3 flex items-center gap-2">
+                            <i data-lucide="compass" class="w-5 h-5 text-white" aria-hidden="true"></i>
+                            <h2 class="text-lg font-bold text-white tracking-tight">{{ .title }}</h2>
+                        </div>
+                        <div class="p-5">
+                            <p class="text-sm text-slate-600 mb-5 leading-relaxed">{{ .description }}</p>
+                            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                                {{ range .links }}
+                                <a href="{{ .url | relLangURL }}"
+                                class="group flex items-center gap-3 bg-slate-50 hover:bg-blue-50 border border-slate-100 hover:border-blue-200 rounded-xl px-4 py-3 transition-all duration-200 shadow-sm hover:shadow">
                                 <span class="text-sm font-medium text-slate-700 group-hover:text-blue-700">{{ .text }}</span>
                                 <i data-lucide="arrow-right" class="w-4 h-4 ml-auto text-slate-400 group-hover:text-blue-500 transition-transform group-hover:translate-x-0.5"></i>
                             </a>
@@ -302,7 +384,7 @@
                     </div>
                 </section>
                 {{ end }}
-                
+
                 <!-- 2.2 热门设备推荐卡片区 (popular_devices) -->
                 {{ with .Params.popular_devices }}
                 <section class="mb-8 bg-white rounded-xl border border-slate-200 shadow-sm overflow-hidden">
@@ -324,61 +406,67 @@
                     </div>
                 </section>
                 {{ end }}
-                
+
+                <!-- ========== 重构：设备展示区（表格 + 折叠） ========== -->
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-6" id="brands-container" aria-label="Supported Devices by Brand">
                     {{ range .Params.brands }}
                     {{ $brandSlug := .name | urlize }}
-                    {{/* 🔧 关键修正：使用不带前导斜杠的相对路径，relLangURL 会自动添加语言前缀 */}}
                     {{ $brandURL := printf "brands/%s/" $brandSlug | relLangURL }}
                     <article id="brand-{{ $brandSlug }}" class="brand-card bg-white rounded-xl p-5 border border-slate-200 shadow-sm flex flex-col h-full transition-all duration-200" aria-labelledby="brand-{{ $brandSlug }}-title">
-                        <div class="flex items-center gap-3 mb-4 border-b border-slate-100 pb-3">
+                        <!-- 品牌头部（点击折叠） -->
+                        <div class="brand-header flex items-center gap-3 mb-4 border-b border-slate-100 pb-3" onclick="toggleBrand(this)">
                             <div class="{{ .bg_color }} text-white p-1.5 rounded-md" aria-hidden="true">
                                 <i data-lucide="{{ .icon }}" class="w-5 h-5"></i>
                             </div>
                             <h3 id="brand-{{ $brandSlug }}-title" class="text-lg font-bold text-slate-900">{{ .name }}</h3>
+                            <span class="arrow-icon ml-auto">▶</span>
                         </div>
-                        
-                       {{ with .description }}
-{{ $fixedDesc := . }}
-{{/* 如果当前语言不是默认语言（假设默认是英文，根路径），则自动为 href="/..." 添加语言前缀 */}}
-{{ if ne $.Site.Language.Lang "en" }}
-    {{ $fixedDesc = replaceRE `href="/` (printf `href="/%s/` $.Site.Language.Lang) $fixedDesc }}
-{{ end }}
-<p class="text-xs text-slate-500 mb-3 leading-relaxed">{{ $fixedDesc | safeHTML }}</p>
-{{ end }}
 
-                        <!-- 优化点：移除 overflow-hidden 让设备列表完全展开，不再需要内部滚动 -->
-                        <div class="flex-grow">
-                            {{ range .groups }}
-                                {{ if .sub_title }}
-                                    <h4 class="font-semibold text-slate-700 text-xs uppercase tracking-wider mb-2 mt-2">{{ .sub_title }}</h4>
-                                {{ end }}
-                                <!-- 修改：去掉所有高度限制、overflow、滚动条类，完整显示所有设备型号 -->
-                                <ul class="device-list space-y-1.5 text-sm text-slate-600 w-full {{ if .sub_title }}mb-3{{ end }}">
-                                    {{ range .devices }}
-                                    <li class="device-item flex items-start gap-2">
-                                        <span class="w-1 h-1 rounded-full bg-slate-300 mt-2 shrink-0" aria-hidden="true"></span>
-                                        <span>{{ . | safeHTML }}</span>
-                                    </li>
-                                    {{ end }}
-                                </ul>
+                        <!-- 品牌内容区（折叠控制） -->
+                        <div class="brand-content">
+                            {{ with .description }}
+                            {{ $fixedDesc := . }}
+                            {{ if ne $.Site.Language.Lang "en" }}
+                            {{ $fixedDesc = replaceRE `href="/` (printf `href="/%s/` $.Site.Language.Lang) $fixedDesc }}
                             {{ end }}
-                        </div>
+                            <p class="text-xs text-slate-500 mb-3 leading-relaxed">{{ $fixedDesc | safeHTML }}</p>
+                            {{ end }}
 
-                        {{ if .note }}
-                        <div class="mt-3 p-2.5 rounded-lg bg-slate-50 border border-slate-100 text-xs text-slate-500 {{ .note_class }}">
-                            {{ .note | safeHTML }}
-                        </div>
-                        {{ end }}
+                            {{ range .groups }}
+                            {{ if .sub_title }}
+                            <h4 class="group-title">{{ .sub_title }}</h4>
+                            {{ end }}
+                            <table class="device-table">
+                                <thead>
+                                    <tr>
+                                        <th>Модель</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {{ range .devices }}
+                                    <tr class="device-item">
+                                        <td class="model-name">{{ . | safeHTML }}</td>
+                                    </tr>
+                                    {{ end }}
+                                </tbody>
+                            </table>
+                            {{ end }}
+
+                            {{ if .note }}
+                            <div class="mt-3 p-2.5 rounded-lg bg-slate-50 border border-slate-100 text-xs text-slate-500 {{ .note_class }}">
+                                {{ .note | safeHTML }}
+                            </div>
+                            {{ end }}
+                        </div><!-- /.brand-content -->
                     </article>
                     {{ end }}
                 </div>
-                
+
                 {{ with .Params.no_results }}
                 <div id="no-results" aria-live="polite" class="hidden text-center py-12 sm:py-16 bg-white rounded-xl border border-slate-200 mt-6 shadow-sm">
                     <h3 class="text-xl font-bold text-slate-900">{{ .title }}</h3>
                     <p class="text-slate-500 mt-2 mb-6 max-w-md mx-auto px-4">{{ .description }}</p>
-                    
+
                     <div class="bg-blue-50 border border-blue-100 rounded-xl p-5 max-w-md mx-auto text-left mx-4 sm:mx-auto">
                         <h4 class="font-bold text-slate-900 flex items-center gap-2 mb-2">
                             <i data-lucide="lightbulb" class="w-5 h-5 text-amber-500" aria-hidden="true"></i> {{ .box_title }}
@@ -392,61 +480,67 @@
                 {{ end }}
             </div>
 
-            <aside class="w-full lg:w-80 shrink-0">
-                <div class="sticky top-28 space-y-6">
-                    
-                    <div class="bg-blue-50 border border-blue-100 rounded-xl p-6" itemscope itemtype="https://schema.org/HowTo">
-                        <h2 itemprop="name" class="text-lg font-bold text-slate-900 mb-2">{{ .Params.how_to_check.title }}</h2>
-                        <p itemprop="description" class="text-sm text-slate-600 mb-4">{{ .Params.how_to_check.description }}</p>
-                        <ul class="space-y-3 text-sm text-slate-700 font-medium">
-                            {{ range .Params.how_to_check.steps }}
-                            <li itemprop="step" itemscope itemtype="https://schema.org/HowToStep" class="flex items-start gap-2">
-                                <i data-lucide="check-circle-2" class="w-4 h-4 text-blue-600 mt-0.5 shrink-0" aria-hidden="true"></i> 
-                                <span itemprop="text" class="leading-tight">{{ . | safeHTML }}</span>
-                            </li>
-                            {{ end }}
-                        </ul>
-                    </div>
-
-                    <div class="bg-white p-6 rounded-xl shadow-sm border border-slate-200 text-center">
-                        <div class="w-10 h-10 bg-slate-50 rounded-full flex items-center justify-center mx-auto mb-3" aria-hidden="true">
-                            <i data-lucide="smartphone" class="w-5 h-5 text-slate-600"></i>
-                        </div>
-                        <h3 class="font-bold text-slate-900 text-sm">{{ .Params.how_to_check.side_box.title }}</h3>
-                        <p class="text-xs text-slate-500 mt-2 leading-relaxed">{{ .Params.how_to_check.side_box.desc }}</p>
-                    </div>
-
-                    <!-- 2.4 快速问题列表 -->
-                    {{ with .Params.quick_questions }}
-                    <div class="bg-white p-5 rounded-xl shadow-sm border border-slate-200">
-                        <h3 class="font-bold text-slate-900 text-sm flex items-center gap-2 mb-3">
-                            <i data-lucide="help-circle" class="w-4 h-4 text-blue-500"></i> {{ .title }}
-                        </h3>
-                        <ul class="space-y-2 text-xs text-slate-600">
-                            {{ range .questions }}
-                            <li><a href="#{{ .anchor }}" class="hover:text-blue-600 transition-colors">{{ .text }}</a></li>
-                            {{ end }}
-                        </ul>
-                    </div>
-                    {{ end }}
-
-                    {{ with .Params.sidebar_promo }}
-                    <div class="bg-gradient-to-br from-slate-900 to-slate-800 rounded-xl p-6 text-white shadow-lg border border-slate-700" aria-label="Special Promotion">
-                        <div class="flex items-center gap-2 mb-3">
-                            <i data-lucide="sparkles" class="w-5 h-5 text-yellow-400" aria-hidden="true"></i>
-                            <h3 class="font-bold text-lg">{{ .title }}</h3>
-                        </div>
-                        <p class="text-slate-300 text-sm mb-5 leading-relaxed">
-                            {{ .description }}
-                        </p>
-                        <a href="{{ .button_url | relLangURL }}" class="flex items-center justify-center w-full py-2.5 bg-blue-600 hover:bg-blue-500 text-white text-sm font-bold rounded-lg transition-colors shadow-sm">
-                            {{ .button_text }}
-                        </a>
-                    </div>
-                    {{ end }}
-
+            <!-- ========================================================= -->
+            <!-- 右侧边栏 – 已移除 sticky top-28，随页面自然滚动              -->
+            <!-- ========================================================= -->
+            <aside class="w-full lg:w-80 shrink-0 space-y-6">
+                <!-- 区块1: How to check -->
+                <div class="bg-blue-50 border border-blue-100 rounded-xl p-6" itemscope itemtype="https://schema.org/HowTo">
+                    <h2 itemprop="name" class="text-lg font-bold text-slate-900 mb-2">{{ .Params.how_to_check.title }}</h2>
+                    <p itemprop="description" class="text-sm text-slate-600 mb-4">{{ .Params.how_to_check.description }}</p>
+                    <ul class="space-y-3 text-sm text-slate-700 font-medium">
+                        {{ range .Params.how_to_check.steps }}
+                        <li itemprop="step" itemscope itemtype="https://schema.org/HowToStep" class="flex items-start gap-2">
+                            <i data-lucide="check-circle-2" class="w-4 h-4 text-blue-600 mt-0.5 shrink-0" aria-hidden="true"></i>
+                            <span itemprop="text" class="leading-tight">{{ . | safeHTML }}</span>
+                        </li>
+                        {{ end }}
+                    </ul>
                 </div>
+
+                <!-- 区块2: Side box -->
+                <div class="bg-white p-6 rounded-xl shadow-sm border border-slate-200 text-center">
+                    <div class="w-10 h-10 bg-slate-50 rounded-full flex items-center justify-center mx-auto mb-3" aria-hidden="true">
+                        <i data-lucide="smartphone" class="w-5 h-5 text-slate-600"></i>
+                    </div>
+                    <h3 class="font-bold text-slate-900 text-sm">{{ .Params.how_to_check.side_box.title }}</h3>
+                    <p class="text-xs text-slate-500 mt-2 leading-relaxed">{{ .Params.how_to_check.side_box.desc }}</p>
+                </div>
+
+                <!-- 区块3: 快速问题列表 -->
+                {{ with .Params.quick_questions }}
+                <div class="bg-white p-5 rounded-xl shadow-sm border border-slate-200">
+                    <h3 class="font-bold text-slate-900 text-sm flex items-center gap-2 mb-3">
+                        <i data-lucide="help-circle" class="w-4 h-4 text-blue-500"></i> {{ .title }}
+                    </h3>
+                    <ul class="space-y-2 text-xs text-slate-600">
+                        {{ range .questions }}
+                        <li><a href="#{{ .anchor }}" class="hover:text-blue-600 transition-colors">{{ .text }}</a></li>
+                        {{ end }}
+                    </ul>
+                </div>
+                {{ end }}
+
+                <!-- 区块4: 侧边促销 -->
+                {{ with .Params.sidebar_promo }}
+                <div class="bg-gradient-to-br from-slate-900 to-slate-800 rounded-xl p-6 text-white shadow-lg border border-slate-700" aria-label="Special Promotion">
+                    <div class="flex items-center gap-2 mb-3">
+                        <i data-lucide="sparkles" class="w-5 h-5 text-yellow-400" aria-hidden="true"></i>
+                        <h3 class="font-bold text-lg">{{ .title }}</h3>
+                    </div>
+                    <p class="text-slate-300 text-sm mb-5 leading-relaxed">
+                        {{ .description }}
+                    </p>
+                    <a href="{{ .button_url | relLangURL }}" class="flex items-center justify-center w-full py-2.5 bg-blue-600 hover:bg-blue-500 text-white text-sm font-bold rounded-lg transition-colors shadow-sm">
+                        {{ .button_text }}
+                    </a>
+                </div>
+                {{ end }}
+
             </aside>
+            <!-- ========================================================= -->
+            <!-- 右侧边栏结束                                               -->
+            <!-- ========================================================= -->
 
         </div>
     </div>
@@ -459,27 +553,26 @@
         </div>
         <ul class="grid grid-cols-2 lg:grid-cols-5 gap-4 list-none p-0 m-0">
             {{ range first 10 (shuffle .items) }}
-                {{ $slugBase := .slug | default (.name | urlize) }}
-                {{ $slugWithSuffix := $slugBase }}
-                {{ if not (hasSuffix $slugBase "-esim") }}
-                    {{ $slugWithSuffix = printf "%s-esim" $slugBase }}
-                {{ end }}
-                {{/* 🔧 关键修正：使用不带前导斜杠的相对路径，由 relLangURL 自动添加语言前缀 */}}
-                {{ $targetUrl := printf "%s/" $slugWithSuffix | relLangURL }}
-                <li class="h-full">
-                    <a href="{{ $targetUrl }}" class="{{ if .is_highlight }}bg-brand-50 border-brand-200{{ else }}bg-white border-slate-200{{ end }} border rounded-2xl p-4 hover:border-brand-50 hover:shadow-md transition-all group h-full flex flex-col justify-center">
-                        {{ $imgPath := or .image .icon .img .flag "" }}
-                        {{ if $imgPath }}
-                            <img src="/{{ trim $imgPath "/" }}" loading="lazy" class="w-12 h-8 object-cover rounded-md shadow-sm mb-3" alt="{{ .name }}">
-                        {{ else }}
-                            <div class="w-12 h-8 rounded-md shadow-sm mb-3 bg-slate-100 flex items-center justify-center text-slate-400">
-                                <i data-lucide="globe" class="w-5 h-5"></i>
-                            </div>
-                        {{ end }}
-                        <h3 class="font-bold {{ if .is_highlight }}text-brand-700{{ else }}text-slate-900{{ end }} mb-1">{{ .name }}</h3>
-                        <p class="text-sm {{ if .is_highlight }}text-brand-600 font-medium{{ else }}text-slate-500{{ end }}">{{ .price }}</p>
-                    </a>
-                </li>
+            {{ $slugBase := .slug | default (.name | urlize) }}
+            {{ $slugWithSuffix := $slugBase }}
+            {{ if not (hasSuffix $slugBase "-esim") }}
+            {{ $slugWithSuffix = printf "%s-esim" $slugBase }}
+            {{ end }}
+            {{ $targetUrl := printf "%s/" $slugWithSuffix | relLangURL }}
+            <li class="h-full">
+                <a href="{{ $targetUrl }}" class="{{ if .is_highlight }}bg-brand-50 border-brand-200{{ else }}bg-white border-slate-200{{ end }} border rounded-2xl p-4 hover:border-brand-50 hover:shadow-md transition-all group h-full flex flex-col justify-center">
+                    {{ $imgPath := or .image .icon .img .flag "" }}
+                    {{ if $imgPath }}
+                    <img src="/{{ trim $imgPath "/" }}" loading="lazy" class="w-12 h-8 object-cover rounded-md shadow-sm mb-3" alt="{{ .name }}">
+                    {{ else }}
+                    <div class="w-12 h-8 rounded-md shadow-sm mb-3 bg-slate-100 flex items-center justify-center text-slate-400">
+                        <i data-lucide="globe" class="w-5 h-5"></i>
+                    </div>
+                    {{ end }}
+                    <h3 class="font-bold {{ if .is_highlight }}text-brand-700{{ else }}text-slate-900{{ end }} mb-1">{{ .name }}</h3>
+                    <p class="text-sm {{ if .is_highlight }}text-brand-600 font-medium{{ else }}text-slate-500{{ end }}">{{ .price }}</p>
+                </a>
+            </li>
             {{ end }}
         </ul>
     </section>
@@ -489,17 +582,17 @@
     {{ with .Params.extended_faq }}
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 border-t border-slate-200 mt-8">
         <div class="bg-white rounded-xl border border-slate-200 p-6">
-         
-		 <h2 class="text-xl font-bold text-slate-900 mb-4 flex items-center gap-2">
-    <i data-lucide="message-circle-question" class="w-5 h-5 text-blue-600"></i> 
-    {{ i18n "faq_title2" }}
-</h2>
+
+            <h2 class="text-xl font-bold text-slate-900 mb-4 flex items-center gap-2">
+                <i data-lucide="message-circle-question" class="w-5 h-5 text-blue-600"></i>
+                {{ i18n "faq_title2" }}
+            </h2>
 
             <div class="divide-y divide-slate-100">
                 {{ range . }}
                 <div id="{{ .anchor }}" class="py-4 first:pt-0 scroll-mt-24">
                     <h3 class="font-semibold text-slate-800 text-base">{{ .question }}</h3>
-                    <p class="text-slate-600 text-sm mt-1 leading-relaxed">{{ .answer | safeHTML }}</p>
+					<p class="text-slate-600 text-sm mt-1 leading-relaxed">{{ .answer | markdownify }}</p>
                 </div>
                 {{ end }}
             </div>
@@ -518,7 +611,7 @@
         const brandCards = document.querySelectorAll('.brand-card');
         const noResultsDiv = document.getElementById('no-results');
         const brandTabs = document.querySelectorAll('.brand-tab-btn');
-        
+
         // 1. 品牌Tab快速滚动 + 高亮 + 智能联动（不清除搜索但自动聚焦）
         function activateBrandTab(targetId) {
             // 更新按钮样式
@@ -532,55 +625,50 @@
                     btn.classList.add('bg-white', 'text-slate-700', 'border-slate-200');
                 }
             });
-            
+
             if (targetId === 'all') {
-                // 显示全部品牌卡片，清除搜索框高亮限制
                 if (searchInput) searchInput.value = '';
-                // 强制显示所有卡片和设备项
                 brandCards.forEach(card => {
                     card.classList.remove('hidden-item');
+                    // 展开所有卡片
+                    card.classList.remove('brand-collapsed');
                     const devices = card.querySelectorAll('.device-item');
                     devices.forEach(dev => dev.classList.remove('hidden-item'));
                 });
                 if (noResultsDiv) noResultsDiv.classList.add('hidden');
-                // 平滑滚动到容器顶部
                 const container = document.getElementById('brands-container');
-                if(container) {
+                if (container) {
                     const yOffset = -100;
                     const y = container.getBoundingClientRect().top + window.pageYOffset + yOffset;
                     window.scrollTo({ top: y, behavior: 'smooth' });
                 }
                 return;
             }
-            
-            // 定位目标卡片
+
             const targetCard = document.getElementById(targetId);
             if (targetCard) {
-                // 如果存在搜索词，先清空搜索以保证卡片可见
                 if (searchInput && searchInput.value.trim() !== '') {
                     searchInput.value = '';
-                    // 触发搜索过滤事件以重置所有卡片
                     const inputEvent = new Event('input', { bubbles: true });
                     searchInput.dispatchEvent(inputEvent);
                 } else {
-                    // 确保当前卡片未被隐藏（比如之前搜索隐藏了）
                     brandCards.forEach(card => card.classList.remove('hidden-item'));
                     const allDevices = document.querySelectorAll('.device-item');
                     allDevices.forEach(dev => dev.classList.remove('hidden-item'));
                     if (noResultsDiv) noResultsDiv.classList.add('hidden');
                 }
-                // 滚动到卡片位置
+                // 展开目标卡片
+                targetCard.classList.remove('brand-collapsed');
                 const yOffset = -90;
                 const y = targetCard.getBoundingClientRect().top + window.pageYOffset + yOffset;
                 window.scrollTo({ top: y, behavior: 'smooth' });
-                // 添加临时高亮效果
                 targetCard.classList.add('brand-card-highlight');
                 setTimeout(() => {
                     targetCard.classList.remove('brand-card-highlight');
                 }, 1200);
             }
         }
-        
+
         // 绑定品牌Tab事件
         brandTabs.forEach(btn => {
             btn.addEventListener('click', function(e) {
@@ -591,18 +679,18 @@
                 }
             });
         });
-        
+
         // 2. 搜索功能增强：实时过滤 + 联动品牌高亮（若有匹配结果，自动高亮第一个可见品牌）
         if (searchInput) {
             searchInput.addEventListener('input', function(e) {
                 const term = e.target.value.toLowerCase().trim();
                 let anyCardVisible = false;
                 let firstVisibleCardId = null;
-                
+
                 brandCards.forEach(card => {
                     const devices = card.querySelectorAll('.device-item');
                     let hasVisibleDevice = false;
-                    
+
                     devices.forEach(device => {
                         const text = device.textContent.toLowerCase();
                         if (text.includes(term)) {
@@ -612,21 +700,23 @@
                             device.classList.add('hidden-item');
                         }
                     });
-                    
+
                     if (hasVisibleDevice || term === '') {
                         card.classList.remove('hidden-item');
                         anyCardVisible = true;
                         if (!firstVisibleCardId && hasVisibleDevice) firstVisibleCardId = card.id;
+                        // 如果卡片当前折叠，展开它以便显示匹配项
+                        if (hasVisibleDevice && card.classList.contains('brand-collapsed')) {
+                            card.classList.remove('brand-collapsed');
+                        }
                     } else {
                         card.classList.add('hidden-item');
                     }
                 });
-                
+
                 if (anyCardVisible) {
                     if (noResultsDiv) noResultsDiv.classList.add('hidden');
-                    // 如果搜索结果只有部分品牌，保持品牌tab高亮与可见品牌对应（非精确但提升体验）
                     if (firstVisibleCardId && term !== '') {
-                        // 自动激活对应的品牌tab高亮（但不滚动，避免打断浏览）
                         brandTabs.forEach(btn => {
                             const btnTarget = btn.getAttribute('data-brand-target');
                             if (btnTarget === firstVisibleCardId) {
@@ -636,13 +726,11 @@
                                 btn.classList.remove('active', 'bg-blue-600', 'text-white', 'border-blue-600');
                                 btn.classList.add('bg-white', 'text-slate-700', 'border-slate-200');
                             } else {
-                                // all按钮: 仅当没有任何品牌匹配时不激活，此处如果存在可见品牌 all不应该激活
                                 btn.classList.remove('active', 'bg-blue-600', 'text-white', 'border-blue-600');
                                 btn.classList.add('bg-white', 'text-slate-700', 'border-slate-200');
                             }
                         });
                     } else if (term === '') {
-                        // 恢复全部高亮为全部品牌模式
                         brandTabs.forEach(btn => {
                             if (btn.getAttribute('data-brand-target') === 'all') {
                                 btn.classList.add('active', 'bg-blue-600', 'text-white', 'border-blue-600');
@@ -655,7 +743,6 @@
                     }
                 } else {
                     if (noResultsDiv) noResultsDiv.classList.remove('hidden');
-                    // 无结果时 全部品牌tab高亮保持
                     brandTabs.forEach(btn => {
                         if (btn.getAttribute('data-brand-target') === 'all') {
                             btn.classList.add('active', 'bg-blue-600', 'text-white', 'border-blue-600');
@@ -668,20 +755,27 @@
                 }
             });
         }
-        
-        // 3. 处理URL hash锚点 (扩展faq或者品牌锚点)
+
+        // 3. 折叠功能
+        window.toggleBrand = function(headerElement) {
+            const card = headerElement.closest('.brand-card');
+            if (card) {
+                card.classList.toggle('brand-collapsed');
+            }
+        };
+
+        // 4. 处理URL hash锚点 (扩展faq或者品牌锚点)
         if (window.location.hash) {
             const hash = window.location.hash.substring(1);
             const targetElement = document.getElementById(hash);
             if (targetElement && targetElement.classList && targetElement.classList.contains('brand-card')) {
-                // 品牌卡片滚动
                 setTimeout(() => {
+                    targetElement.classList.remove('brand-collapsed');
                     const yOffset = -90;
                     const y = targetElement.getBoundingClientRect().top + window.pageYOffset + yOffset;
                     window.scrollTo({ top: y, behavior: 'smooth' });
                     targetElement.classList.add('brand-card-highlight');
                     setTimeout(() => targetElement.classList.remove('brand-card-highlight'), 1500);
-                    // 激活对应tab
                     brandTabs.forEach(btn => {
                         if (btn.getAttribute('data-brand-target') === targetElement.id) {
                             btn.click();
@@ -696,37 +790,39 @@
                 }, 100);
             }
         }
-        
-        // 4. 初始化lucide图标（如果全局lucide存在）
+
+        // 5. 初始化lucide图标
         if (typeof lucide !== 'undefined' && lucide.createIcons) {
             lucide.createIcons();
         } else {
-            // 确保图标库加载后运行，等待一下
             window.addEventListener('load', function() {
                 if (typeof lucide !== 'undefined' && lucide.createIcons) {
                     lucide.createIcons();
                 }
             });
         }
-        
-        // 5. 额外增加 返回顶部/优雅滚动 细节: 当点击品牌导航时，如果搜索框不为空，自动清空并刷新展示 (已在activateBrandTab中实现部分)
-        // 确保所有品牌卡片初始状态可见
+
+        // 6. 初始状态：所有卡片展开，设备可见
         const initDisplay = function() {
-            brandCards.forEach(card => card.classList.remove('hidden-item'));
+            brandCards.forEach(card => {
+                card.classList.remove('hidden-item', 'brand-collapsed');
+            });
             const allItems = document.querySelectorAll('.device-item');
             allItems.forEach(item => item.classList.remove('hidden-item'));
             if (noResultsDiv) noResultsDiv.classList.add('hidden');
         };
         initDisplay();
-        
-        // 解决部分情况因缓存导致样式错乱
         window.addEventListener('pageshow', initDisplay);
     })();
 </script>
 
 <!-- 后备：确保即便lucide未全局定义也不会影响功能 -->
 <noscript>
-    <style>.brand-tab-btn { cursor: pointer; }</style>
+    <style>
+        .brand-tab-btn {
+            cursor: pointer;
+        }
+    </style>
 </noscript>
 </body>
 </html>
