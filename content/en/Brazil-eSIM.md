@@ -1,12 +1,11 @@
 ---
-title: 'Brazil eSIM 2026: Connection & Speed Guide | Roami'
-date: '2026-06-17T00:00:00+00:00'
+title: 'Brazil eSIM - 5G in Rio & São Paulo | No CPF Needed | Roami'
+date: '2026-08-18T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: Brazil eSIM
-  scenario_keywords: Rio de Janeiro sightseeing, São Paulo business travel, Amazon rainforest tour, Iguazu Falls visit, Carnaval
-    festival
+  scenario_keywords: Rio de Janeiro sightseeing, São Paulo business travel, Iguazu Falls visit, Copacabana beach, Christ the Redeemer, Salvador historic center
   operators: Claro, Vivo, TIM
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: São Paulo, Rio de Janeiro, Brasília, Salvador, Fortaleza
@@ -19,11 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Brazil eSIM | Unlimited Data Plan for Travelers
-  description: Get ready for Brazil with Roami's best prepaid travel eSIM. Unlimited 5G data on top networks. Covers Rio,
-    Sao Paulo & all major cities. Instant activation.
-  keywords: Brazil eSIM, buy Brazil eSIM, best Brazil eSIM, Brazil travel eSIM, Claro Brazil, Vivo Brazil, TIM Brazil, São
-    Paulo eSIM, Rio de Janeiro eSIM, Brasília eSIM, Brazil prepaid eSIM, 5G Brazil eSIM
+  title: Brazil eSIM - 5G in Rio & São Paulo | No CPF Needed
+  description: Get the best Brazil eSIM with 5G on Claro, Vivo & TIM. No CPF or passport needed — skip Portuguese phone activation. Covers Rio, São Paulo & Brasília. Plans from $1.99.
+  keywords: Brazil eSIM, buy Brazil eSIM, best Brazil eSIM, Brazil travel eSIM, Claro Brazil, Vivo Brazil, TIM Brazil, São Paulo eSIM, Rio de Janeiro eSIM, Brasília eSIM, Brazil prepaid eSIM, 5G Brazil eSIM, Brazil eSIM no CPF
   low_price: 1.99
   high_price: 39.9
 order_summary:
@@ -45,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/br.svg
   flag_alt: Brazil Flag
-  title: 'Brazil eSIM: Instant Connectivity for Worry-Free Travel'
-  subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for Brazil
+  title: 'Brazil eSIM: 5G in Rio, São Paulo & Beyond — No CPF, No Portuguese Needed'
+  subtitle: 5G on Claro, Vivo & TIM | No CPF/passport registration | Skip phone activation
 features:
-  title: 'Why Brazil Travelers Choose Roami: Plans, Network & Support'
+  title: 'Why Brazil Travelers Choose Roami: Coverage, Convenience & No CPF'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -60,118 +57,38 @@ features:
     desc: 24/7 support for your Brazil trip - real humans, not bots
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: 100% refund if your Brazil eSIM doesn't activate
+    title: 100% Refund
+    desc: Full refund if your Brazil eSIM doesn't activate
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: Hotspot Supported
     desc: Share your Brazil data with travel companions, no limits
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: No contracts, cancel anytime - perfect for Brazil trips
+    title: No CPF Required
+    desc: Brazil requires CPF (tax ID) for SIMs — Roami needs zero ID, no CPF, no passport
   - icon: radio-tower
     color: from-blue-400 to-blue-600
     title: Auto-Switch
-    desc: Auto-connects to top Brazil carriers for the best signal
+    desc: Auto-connects to Claro, Vivo & TIM for the best 5G/4G signal
+  - icon: globe
+    color: from-emerald-400 to-emerald-600
+    title: Regional Roaming Ready
+    desc: Local SIMs lose signal outside Brazil — Roami works across South America
 plans_title: 'Buy Brazil eSIM: Plans for Every Trip Duration'
 plans_data:
-  30 Days:
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
-    price: '14.99'
-    oldPrice: '22.48'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '0.50'
-    tagIcon: star
-  - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '19.99'
-    oldPrice: '29.98'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '0.67'
-  - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
-    price: '47.99'
-    oldPrice: '71.98'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '1.60'
-  - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
-    price: '30.99'
-    oldPrice: '46.48'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '1.03'
-  - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
-    price: '86.99'
-    oldPrice: '130.48'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '2.90'
-  - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '29.99'
-    oldPrice: '44.98'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '1.00'
-  15 Days:
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
-    price: '13.99'
-    oldPrice: '20.98'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '0.93'
-    tagIcon: star
-  - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
-    price: '83.99'
-    oldPrice: '125.98'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '5.60'
-  - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '16.99'
-    oldPrice: '25.48'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '1.13'
-  - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '23.99'
-    oldPrice: '35.98'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '1.60'
-  - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
-    price: '57.99'
-    oldPrice: '86.98'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '3.87'
   3 Days:
+  - spec: 1GB
+    data: High-Speed 5G/4G/LTE
+    desc: Ideal for light browsing, maps & messaging
+    price: '4.99'
+    oldPrice: '7.49'
+    tag: ''
+    tagColor: bg-slate-800
+    daily: '1.66'
   - spec: 3GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    desc: Great for daily navigation & social media
     price: '8.99'
     oldPrice: '13.48'
     tag: ''
@@ -180,7 +97,7 @@ plans_data:
     tagIcon: star
   - spec: 5GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Perfect for sharing Copacabana & Christ the Redeemer photos
     price: '15.99'
     oldPrice: '23.98'
     tag: Great Value
@@ -188,7 +105,7 @@ plans_data:
     daily: '5.33'
   - spec: 10GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Excellent for video calls & hotspot
     price: '24.99'
     oldPrice: '37.48'
     tag: Great Value
@@ -196,24 +113,24 @@ plans_data:
     daily: '8.33'
   - spec: Unlimited
     data: Unlimited High-Speed
-    desc: Worry-free data usage
+    desc: Worry-free data for everything — maps, social, work
     price: '32.99'
     oldPrice: '49.48'
     tag: Premium
     tagColor: bg-purple-600
     daily: '11.00'
+  7 Days:
   - spec: 1GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
-    price: '4.99'
-    oldPrice: '7.49'
+    desc: Ideal for light browsing, maps & messaging
+    price: '7.99'
+    oldPrice: '11.98'
     tag: ''
     tagColor: bg-slate-800
-    daily: '1.66'
-  7 Days:
+    daily: '1.14'
   - spec: 3GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    desc: Great for daily navigation & social media
     price: '9.99'
     oldPrice: '14.98'
     tag: ''
@@ -222,7 +139,7 @@ plans_data:
     tagIcon: star
   - spec: 5GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Perfect for sharing Copacabana & Christ the Redeemer photos
     price: '14.99'
     oldPrice: '22.48'
     tag: Great Value
@@ -230,7 +147,7 @@ plans_data:
     daily: '2.14'
   - spec: 10GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Excellent for video calls & hotspot
     price: '22.99'
     oldPrice: '34.48'
     tag: Great Value
@@ -238,28 +155,104 @@ plans_data:
     daily: '3.28'
   - spec: 20GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    desc: Best for remote work & heavy usage
     price: '50.99'
     oldPrice: '76.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '7.28'
-  - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
-    price: '7.99'
-    oldPrice: '11.98'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '1.14'
   - spec: Unlimited
     data: Unlimited High-Speed
-    desc: Worry-free data usage
+    desc: Worry-free data for everything — maps, social, work
     price: '66.99'
     oldPrice: '100.48'
     tag: Premium
     tagColor: bg-purple-600
     daily: '9.57'
+  15 Days:
+  - spec: 3GB
+    data: High-Speed 5G/4G/LTE
+    desc: Great for daily navigation & social media
+    price: '13.99'
+    oldPrice: '20.98'
+    tag: ''
+    tagColor: bg-orange-500
+    daily: '0.93'
+    tagIcon: star
+  - spec: 5GB
+    data: High-Speed 5G/4G/LTE
+    desc: Perfect for sharing Copacabana & Christ the Redeemer photos
+    price: '16.99'
+    oldPrice: '25.48'
+    tag: Great Value
+    tagColor: bg-emerald-500
+    daily: '1.13'
+  - spec: 10GB
+    data: High-Speed 5G/4G/LTE
+    desc: Excellent for video calls & hotspot
+    price: '23.99'
+    oldPrice: '35.98'
+    tag: Great Value
+    tagColor: bg-emerald-500
+    daily: '1.60'
+  - spec: 20GB
+    data: High-Speed 5G/4G/LTE
+    desc: Best for remote work & heavy usage
+    price: '57.99'
+    oldPrice: '86.98'
+    tag: ''
+    tagColor: bg-slate-800
+    daily: '3.87'
+  - spec: 30GB
+    data: High-Speed 5G/4G/LTE
+    desc: Ideal for long stays & high data needs
+    price: '83.99'
+    oldPrice: '125.98'
+    tag: ''
+    tagColor: bg-slate-800
+    daily: '5.60'
+  30 Days:
+  - spec: 3GB
+    data: High-Speed 5G/4G/LTE
+    desc: Great for daily navigation & social media
+    price: '14.99'
+    oldPrice: '22.48'
+    tag: ''
+    tagColor: bg-orange-500
+    daily: '0.50'
+    tagIcon: star
+  - spec: 5GB
+    data: High-Speed 5G/4G/LTE
+    desc: Perfect for sharing Copacabana & Christ the Redeemer photos
+    price: '19.99'
+    oldPrice: '29.98'
+    tag: Great Value
+    tagColor: bg-emerald-500
+    daily: '0.67'
+  - spec: 10GB
+    data: High-Speed 5G/4G/LTE
+    desc: Excellent for video calls & hotspot
+    price: '29.99'
+    oldPrice: '44.98'
+    tag: Great Value
+    tagColor: bg-emerald-500
+    daily: '1.00'
+  - spec: 20GB
+    data: High-Speed 5G/4G/LTE
+    desc: Best for remote work & heavy usage
+    price: '30.99'
+    oldPrice: '46.48'
+    tag: ''
+    tagColor: bg-slate-800
+    daily: '1.03'
+  - spec: 30GB
+    data: High-Speed 5G/4G/LTE
+    desc: Ideal for long stays & high data needs
+    price: '86.99'
+    oldPrice: '130.48'
+    tag: ''
+    tagColor: bg-slate-800
+    daily: '2.90'
 discount_banner:
   title: Special Discount on Brazil eSIM Plans
   desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span>
@@ -268,7 +261,7 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Brazil eSIM Coverage: Mobile Network Operator Guide'
+  title: 'Brazil eSIM Coverage: Claro, Vivo & TIM 5G/4G Guide'
   supports_text: 'Supports:'
   service_details:
     title: Service Details
@@ -276,9 +269,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Coverage
-      desc: Enjoy comprehensive network coverage across Brazil, including São Paulo (4G), Rio de Janeiro (4G), Brasília (4G),
-        Salvador (4G). Your eSIM connects to the robust networks of Claro, Vivo, TIM, ensuring stable signals in urban centers,
-        tourist hotspots, and along major transportation routes.
+      desc: Enjoy 5G coverage in Brazil's major cities — São Paulo (5G), Rio de Janeiro (5G), Brasília (5G), Salvador (4G/5G), Fortaleza (4G/5G). Stay connected at Christ the Redeemer, Copacabana and Ipanema beaches, Sugarloaf Mountain, and São Paulo's Paulista Avenue. 4G coverage extends to smaller cities and towns. Your eSIM auto-connects to Claro, Vivo, and TIM for the strongest signal. 5G is expanding rapidly — expect faster speeds in city centers and tourist areas.
     - icon: zap
       color: text-amber-500
       title: Delivery Time
@@ -304,8 +295,7 @@ reminders:
   title: 'Brazil eSIM Setup Tips: What to Know Before You Go'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Brazil.
   - icon: ⏰
@@ -314,20 +304,24 @@ reminders:
     html: The QR code will be sent to your email.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 🆔
+    html: <span class="font-medium">No CPF needed:</span> Brazil requires CPF (tax ID) for local SIMs. Roami needs <span class="font-bold">zero ID</span> — no CPF, no passport, no hassle.
+  - icon: 💬
+    html: <span class="font-medium">Local tip:</span> Brazilians use <span class="font-medium">WhatsApp</span> for everything — messaging, calls, restaurant reservations. Your eSIM data keeps you connected on WhatsApp everywhere.
+  - icon: 🏖️
+    html: <span class="font-medium">Beach tip:</span> Copacabana, Ipanema and all Rio beaches have strong 4G/5G coverage — perfect for sharing sunset photos instantly.
   compatibility_check:
     title: Quick Compatibility Check
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
-      number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
   title: 'How to Install Brazil eSIM: 3 Simple Steps'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -339,12 +333,11 @@ activation_steps:
     - Follow the prompts to complete setup
   - num: '3'
     title: 'Step 3: Activate in Brazil'
-    desc: Upon arriving in Brazil, enable your Brazil eSIM in settings to start using data. We recommend connecting to WiFi
-      during the initial activation.
+    desc: Upon arriving in Brazil, enable your Brazil eSIM in settings to start using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "How Fast is eSIM Internet in Brazil? Speeds and Coverage for Travelers"
-  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Brazil. Find out what speeds to expect and where eSIM works best."
+  title: "Brazil eSIM Guide: 5G, CPF-Free & Travel Tips"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Brazil. Find out what speeds to expect and how to avoid CPF registration hassles."
   categories:
   - id: faq-general
     icon: help-circle
@@ -352,37 +345,45 @@ faq_section:
     title: Brazil eSIM FAQs
     questions:
     - q: |
-        Can I get an eSIM for Brazil without spending too much?
+        What is CPF and why can't I buy a local SIM without it?
       a: |
-        Absolutely. Roami's Brazil eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+        CPF (Cadastro de Pessoas Físicas) is Brazil's individual tax ID number — similar to a Social Security number in the US. <strong>All Brazilian operators (Vivo, TIM, Claro) require a CPF to register a prepaid SIM card</strong>. Foreign tourists don't have one. Vivo stores in Rio were reported in early 2024 refusing to sell SIMs to foreigners without CPF. TIM requires you to call their *144 hotline (in Portuguese) and navigate through menus. <strong>Roami requires no CPF, no passport, no registration — just buy and go.</strong>
     - q: |
-        How does Roami compare to Holafly for eSIM in Brazil?
+        Does Brazil have 5G? How fast is it in Rio and São Paulo?
       a: |
-        Roami typically offers better value for Brazil eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Holafly. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Yes — Brazil's 5G network has been rolling out since 2022. <strong>São Paulo, Rio de Janeiro, Brasília, and other state capitals have 5G coverage</strong> with typical speeds of 80-250 Mbps. At Christ the Redeemer, Copacabana, Ipanema, and Paulista Avenue, you'll get strong 5G signals. In smaller cities and rural areas, 4G is standard with speeds of 10-40 Mbps — still perfectly fine for maps, messaging, and social media. Roami auto-connects to the best available network.
     - q: |
-        Can I use my Brazil eSIM for social media and sharing photos with family?
+        Do I need to speak Portuguese to activate a local SIM in Brazil?
       a: |
-        Absolutely. Instagram, WhatsApp, Facebook, and other social apps all work over the eSIM connection. Upload speeds from Vivo handle photos in seconds and short videos easily.
+        Probably yes — and it's a major hassle. TIM's activation requires calling <strong>*144</strong> hotline, pressing 3 then 3 to reach an English-speaking agent (if available). Vivo's app 'Meu TIM' is in Portuguese and requires CPF. Claro stores often have limited English. <strong>Roami requires zero Portuguese</strong> — buy online in English, scan QR, done. No phone calls, no language barriers.
     - q: |
-        What documents do I need to buy a Brazil eSIM from Roami?
+        Will my eSIM work at Copacabana and Ipanema beaches?
       a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+        Yes — all Rio beaches have excellent 4G/5G coverage. Claro, Vivo, and TIM all have dense infrastructure along the beachfront. You can post photos, stream music, video call family — all without issues. Even during busy weekends and holidays, the networks handle the crowds well. If one carrier is congested, Roami auto-switches to the strongest signal.
     - q: |
-        I need internet access for just a couple of days in Brazil. What's the minimum I can buy?
+        Can I use my Brazil eSIM in Argentina, Chile, or other South American countries?
       a: |
-        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
+        Yes — Roami offers regional plans covering South America. This is a <strong>huge advantage</strong> over Brazilian local SIMs: Vivo, TIM, and Claro prepaid SIMs <strong>do not support Mercosur (South American) roaming</strong>. Leave Brazil and you lose signal immediately. Roami keeps you connected across Argentina, Chile, Uruguay, and more — no need to buy a new SIM at each border.
     - q: |
-        Can I use navigation apps like Google Maps with eSIM in Brazil?
+        Will the eSIM work during Carnival and large events in Rio?
       a: |
-        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Brazil (about 200-500MB per city) before you go as a backup.
+        Generally yes — but with a note. During Carnival, millions of people gather in Rio, and mobile networks can become congested. Claro and Vivo deploy temporary mobile towers (COWs) for the event. For the best experience: (1) install your eSIM before Carnival, (2) use 4G instead of 5G if 5G feels slow (5G towers saturate faster in crowds), (3) use WhatsApp for messaging instead of SMS. Roami auto-switches carriers to give you the best available signal.
     - q: |
-        Does the Brazil eSIM work in rural areas and smaller towns?
+        Is hotel WiFi in Brazil reliable? Do I really need an eSIM?
       a: |
-        Coverage in Brazil reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
+        Hotel WiFi in Brazil is <strong>notoriously unreliable</strong>. Even in 4-star hotels in Rio and São Paulo, speeds slow down in the evenings when everyone is streaming. Many hotels also block VoIP (WhatsApp calls, Zoom) or require daily login codes. An eSIM gives you <strong>reliable connectivity everywhere</strong> — at the beach, on the street, in a restaurant, or on a day trip to Sugarloaf. For the price of a caipirinha, you get data wherever you go.
     - q: |
-        Can I keep my home SIM in my phone while using eSIM in Brazil?
+        I'm traveling to São Paulo for business — is the eSIM suitable for work?
       a: |
-        Yes — your home SIM stays in slot 1 for SMS (bank codes, 2FA logins). The eSIM handles data in slot 2. Disable data roaming on your home SIM to avoid fees of up to $10-15 per MB.
+        Absolutely. São Paulo has excellent 5G coverage with speeds of 100-250 Mbps — more than enough for Zoom, Teams, Google Meet, and large file transfers. The eSIM supports hotspot sharing for your laptop, and latency is low (20-40ms) for responsive video calls. For business travelers, we recommend a 10GB or 20GB plan. Plus, <strong>no CPF, no Portuguese phone activation, no store visit</strong> — you can set it up in 5 minutes at the airport.
+    - q: |
+        What if I accidentally delete my Brazil eSIM before my trip?
+      a: |
+        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+    - q: |
+        When does the validity period of my Brazil eSIM start?
+      a: |
+        The plan validity starts when you connect to a local network in Brazil, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
 related_products:
   title: Related Brazil eSIM Plans
   items:
@@ -435,7 +436,7 @@ related_products:
     price: From $1.99
     is_highlight: false
 market_analysis:
-  title: 'Brazil eSIM or SIM Card for Tourists: Which Should You Choose?'
+  title: 'Brazil eSIM vs Local Prepaid SIM: CPF-Free Convenience'
   subtitle: Brazil Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
     text: 'Data Source: Prepaid Data SIM Card Wiki (Brazil) + Local Operator Sites'
@@ -448,84 +449,66 @@ market_analysis:
   - icon: store
     title: Acquisition &<br>Activation
     prepaid_title: ''
-    prepaid_desc: Vivo stores in Rio de Janeiro refused to sell SIM cards to foreigners without CPF in January 2024; TIM requires
-      calling a hotline (*144, press 3 then 3 for English) to activate with passport and address.
+    prepaid_desc: Vivo stores in Rio refused to sell SIM cards to foreigners without CPF in Jan 2024. TIM requires calling *144 hotline (press 3 then 3 for English) to activate with passport and address.
     esim_title: Instant Digital Delivery
-    esim_desc: Skip Vivo store queues and TIM's phone activation. Roami eSIM activates online within 1 minute after landing
-      in Brazil, no passport or CPF needed.
+    esim_desc: Skip Vivo store queues and TIM's phone activation. Roami eSIM activates online within 5 minutes — no CPF, no phone call.
   - icon: id-card
     title: KYC & Real-Name<br>Registration
     prepaid_title: ''
-    prepaid_desc: TIM's app 'Meu TIM' mandates CPF input, rejecting passport numbers; Vivo's app is non-functional without
-      CPF.
-    esim_title: No Passport or CPF Required
-    esim_desc: Unlike Vivo and TIM which demand CPF or passport registration, Roami eSIM requires zero personal ID – just
-      purchase and activate instantly.
+    prepaid_desc: TIM's app 'Meu TIM' mandates CPF input, rejecting passport numbers. Vivo's app is non-functional without CPF. In-store passport registration can take 20+ minutes.
+    esim_title: No CPF or Passport Required
+    esim_desc: Unlike Vivo and TIM which demand CPF or passport registration, Roami eSIM requires zero personal ID — just purchase and activate instantly.
   - icon: globe
     title: International<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Brazilian operators (Vivo, TIM, Claro) do not offer Mercosur roaming or 'Roam Like at Home' for prepaid
-      users; leaving Brazil results in immediate loss of signal.
+    prepaid_desc: Brazilian operators (Vivo, TIM, Claro) do not offer Mercosur roaming for prepaid users. Leaving Brazil results in immediate loss of signal.
     esim_title: Seamless South America Roaming
-    esim_desc: While Vivo/TIM/Claro prepaid SIMs lose signal outside Brazil, Roami eSIM offers regional plans covering Mercosur
-      countries, ensuring connectivity across borders.
+    esim_desc: While Vivo/TIM/Claro prepaid SIMs lose signal outside Brazil, Roami eSIM offers regional plans covering Argentina, Chile, Uruguay, and more.
   - icon: calendar-xmark
     title: Billing Cycle &<br>Sunk Cost
     prepaid_title: ''
-    prepaid_desc: TIM's cheapest plan costs R$15 for only 1.42GB with a 9-day validity; Vivo's R$17 plan offers 4GB for 15
-      days; a 7-day trip wastes up to 50% of the plan's value.
-    esim_title: Flexible Daily Plans
-    esim_desc: Avoid TIM's 9-day minimum (R$15) waste. Roami offers 7-day plans starting from $1.99/GB, saving up to 50% on
-      unused days compared to local SIMs.
+    prepaid_desc: TIM's cheapest plan costs R$15 for only 1.42GB with a 9-day validity. Vivo's R$17 plan offers 4GB for 15 days. A 7-day trip wastes up to 2 days.
+    esim_title: Flexible Short-Term Plans
+    esim_desc: Avoid TIM's 9-day minimum (R$15) waste. Roami offers 7-day plans starting from $1.99/GB — pay only for your actual trip length.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on market knowledge, Brazilian prepaid SIMs generally
-      allow tethering but may throttle speeds after a daily limit (e.g., Claro's daily 250MB cap).
+    prepaid_desc: Claro has a daily 250MB cap that throttles hotspot speeds after exceeded. Vivo and TIM may also throttle after FUP limits.
     esim_title: Unrestricted Tethering
-    esim_desc: Unlike Claro's daily 250MB cap that throttles hotspot, Roami eSIM allows full-speed tethering with no daily
-      limits, perfect for sharing data across devices.
+    esim_desc: Unlike Claro's daily 250MB cap, Roami allows full-speed hotspot sharing with no daily limits — connect your laptop or travel companions.
   - icon: credit-card
     title: Top-up Payments
     prepaid_title: ''
-    prepaid_desc: Online top-up for Vivo requires receiving a verification SMS, which is impossible when the account is suspended;
-      international credit cards often incur fees and fraud risks on third-party platforms.
+    prepaid_desc: Online top-up for Vivo requires receiving a verification SMS — impossible when account is suspended. International credit cards often rejected on third-party platforms.
     esim_title: Global Payment Accepted
-    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local CPF or risky third-party
-      top-up platforms.
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No local CPF, no SMS verification, no rejected cards.
   - icon: headset
     title: Customer Support
     prepaid_title: ''
-    prepaid_desc: TIM's customer support for activation requires calling *144 and navigating to English-speaking agents; Vivo's
-      app is unusable without CPF, limiting self-service options.
-    esim_title: 24/7 Multilingual Support
-    esim_desc: Forget TIM's complex *144 hotline. Roami provides 24/7 live chat and email support in English, with no CPF
-      or phone tree navigation.
+    prepaid_desc: TIM requires calling *144 and navigating Portuguese menus to reach English agents. Vivo's app is unusable without CPF.
+    esim_title: 24/7 English Support
+    esim_desc: Forget TIM's complex *144 hotline. Roami provides 24/7 live chat support in English — no phone tree, no Portuguese needed.
   expert_verdict:
-    title: 'Brazil eSIM vs Physical SIM: Which Is Better for Travel?'
+    title: 'Brazil eSIM vs Local SIM: Which Should You Choose?'
     cards:
-    - icon: hourglass-empty
-      icon_bg: bg-amber-100
-      icon_color: text-amber-600
-      title: Eliminate Sunk Cost from Short Validity
-      desc: TIM's cheapest plan costs R$15 for only 1.42GB with a 9-day validity. A 7-day tourist wastes 2 days (22% of plan).
-        Roami offers 7-day plans from $1.99/GB, matching your exact trip length.
-    - icon: headset
+    - icon: id-card
+      icon_bg: bg-blue-100
+      icon_color: text-blue-600
+      title: No CPF, No Rejection
+      desc: Vivo stores in Rio <b>refused to sell SIMs to foreigners without CPF</b> in Jan 2024. TIM requires CPF for app activation. Roami requires <b>zero ID</b> — no rejection, no CPF.
+    - icon: clock
       icon_bg: bg-indigo-100
       icon_color: text-indigo-600
-      title: 24/7 Support in English
-      desc: TIM's support hotline *144 is complex and only offers English after multiple menu selections. Roami provides 24/7
-        live chat and email support in English, with quick response times.
-    - icon: shield
-      icon_bg: bg-teal-100
-      icon_color: text-teal-600
-      title: Keep Your Home SIM Active
-      desc: Using a local SIM requires removing your home SIM, risking loss and missing bank OTPs. Roami eSIM works alongside
-        your home SIM, ensuring you never lose connectivity to your primary number.
-    - icon: tower-observation
+      title: Skip the Phone Activation
+      desc: TIM requires calling <b>*144</b> and navigating Portuguese menus. Vivo requires in-store queuing. Roami activates in <b>5 minutes online</b> — no phone calls.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Stay Connected Across South America
+      desc: Brazilian prepaid SIMs <b>lose signal immediately</b> outside Brazil. Roami works across Argentina, Chile, Uruguay — your data travels with you.
+    - icon: wifi
       icon_bg: bg-rose-100
       icon_color: text-rose-600
-      title: Avoid Roaming Blackout Outside Brazil
-      desc: Vivo, TIM, and Claro prepaid SIMs do not support Mercosur roaming. Leaving Brazil means instant disconnection.
-        Roami eSIM offers regional plans covering Argentina, Chile, and more, keeping you connected across borders.
+      title: No Daily Hotspot Caps
+      desc: Claro imposes a <b>250MB daily cap</b> on hotspot tethering. Roami allows <b>unlimited hotspot</b> at full speed — connect all your devices.
 ---

@@ -1,11 +1,11 @@
 ---
-title: 'New Zealand eSIM 2026: Travel & Network Guide | Roami'
-date: '2026-06-17T00:00:00+00:00'
+title: 'New Zealand eSIM - 5G in Auckland & Queenstown | No 30-Day Waste | Roami'
+date: '2026-08-18T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: New Zealand eSIM
-  scenario_keywords: Auckland sightseeing, Milford Sound cruise, Hobbiton tour, skydiving in Queenstown, geothermal hot springs
+  scenario_keywords: Auckland sightseeing, Milford Sound cruise, Hobbiton movie set tour, Rotorua geothermal springs, Queenstown lake cruise, Wellington museum visit
   operators: Spark, Vodafone NZ, 2degrees
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Auckland, Wellington, Christchurch, Queenstown, Hamilton
@@ -18,12 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: New Zealand eSIM | Ultimate Travel Data Plan
-  description: Travel to New Zealand with Roami's best prepaid travel eSIM. Unlimited 5G data on both islands. Instant activation.
-    Covers Auckland, Queenstown & Christchurch.
-  keywords: New Zealand eSIM, buy New Zealand eSIM, best New Zealand eSIM, New Zealand travel eSIM, Spark New Zealand, Vodafone
-    NZ New Zealand, 2degrees New Zealand, Auckland eSIM, Wellington eSIM, Christchurch eSIM, New Zealand prepaid eSIM, 5G
-    New Zealand eSIM
+  title: New Zealand eSIM - 5G in Auckland & Queenstown
+  description: Get the best New Zealand eSIM with 5G on Spark, Vodafone & 2degrees. No 30-day forced plans — local SIMs waste 70%+ on short trips. Covers Auckland, Queenstown & Hobbiton. Plans from $1.99.
+  keywords: New Zealand eSIM, buy New Zealand eSIM, best New Zealand eSIM, New Zealand travel eSIM, Spark New Zealand, Vodafone NZ New Zealand, 2degrees New Zealand, Auckland eSIM, Wellington eSIM, Queenstown eSIM, New Zealand prepaid eSIM, 5G New Zealand eSIM, Hobbiton eSIM
   low_price: 1.99
   high_price: 39.9
 order_summary:
@@ -45,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/nz.svg
   flag_alt: New Zealand Flag
-  title: 'New Zealand eSIM: Reliable Network & Coverage for Travelers'
-  subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for New Zealand
+  title: 'New Zealand eSIM: 5G in Auckland, Queenstown & Beyond — No 30-Day Waste'
+  subtitle: 5G on Spark, Vodafone & 2degrees | No 30-day forced plans| Instant QR delivery
 features:
-  title: 'Why New Zealand Travelers Choose Roami: Network, Plans & Value'
+  title: 'Why New Zealand Travelers Choose Roami: Coverage, Flexibility & No 30-Day Trap'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -60,158 +57,80 @@ features:
     desc: 24/7 support for your New Zealand trip - real humans, not bots
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: 100% refund if your New Zealand eSIM doesn't activate
+    title: 100% Refund
+    desc: Full refund if your New Zealand eSIM doesn't activate
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: Hotspot Supported
     desc: Share your New Zealand data with travel companions, no limits
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: No contracts, cancel anytime - perfect for New Zealand trips
+    title: No 30-Day Trap
+    desc: One NZ forces 30-day plans ($29/2GB) — Roami offers 3/7/15/30-day plans, no waste
   - icon: radio-tower
     color: from-blue-400 to-blue-600
     title: Auto-Switch
-    desc: Auto-connects to top New Zealand carriers for the best signal
+    desc: Auto-connects to Spark, Vodafone & 2degrees for the best 5G signal
+  - icon: compass
+    color: from-emerald-400 to-emerald-600
+    title: Both Islands Ready
+    desc: 4G/5G across North & South Islands — from Auckland to Queenstown and Milford Sound
 plans_title: 'Buy New Zealand eSIM: Plans for Every Trip Duration'
 plans_data:
-  30 Days:
-  - spec: 5GB
+  3 Days:
+  - spec: 1GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '9.99'
-    oldPrice: '14.98'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '0.33'
+    desc: Ideal for light browsing, maps & messaging
+    price: '3.99'
+    oldPrice: '5.99'
+    tag: ''
+    tagColor: bg-slate-800
+    daily: '1.33'
   - spec: 3GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
-    price: '7.99'
-    oldPrice: '11.98'
+    desc: Great for daily navigation & social media
+    price: '4.99'
+    oldPrice: '7.49'
     tag: ''
     tagColor: bg-orange-500
-    daily: '0.27'
+    daily: '1.66'
     tagIcon: star
-  - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
-    price: '29.99'
-    oldPrice: '44.98'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '1.00'
-  - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
-    price: '99.99'
-    oldPrice: '149.98'
-    tag: Premium
-    tagColor: bg-purple-600
-    daily: '3.33'
-  - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '12.99'
-    oldPrice: '19.48'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '0.43'
-  - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
-    price: '22.99'
-    oldPrice: '34.48'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '0.77'
-  - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
-    price: '32.99'
-    oldPrice: '49.48'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '1.10'
-  15 Days:
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
-    price: '7.99'
-    oldPrice: '11.98'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '0.53'
-    tagIcon: star
-  - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
-    price: '49.99'
-    oldPrice: '74.98'
-    tag: Premium
-    tagColor: bg-purple-600
-    daily: '3.33'
   - spec: 5GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '9.99'
-    oldPrice: '14.98'
+    desc: Perfect for sharing Hobbiton & Milford Sound photos
+    price: '5.99'
+    oldPrice: '8.98'
     tag: Great Value
     tagColor: bg-emerald-500
-    daily: '0.67'
+    daily: '2.00'
   - spec: 10GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '12.99'
-    oldPrice: '19.48'
+    desc: Excellent for video calls & hotspot
+    price: '8.99'
+    oldPrice: '13.48'
     tag: Great Value
     tagColor: bg-emerald-500
-    daily: '0.87'
-  - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
-    price: '21.99'
-    oldPrice: '32.98'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '1.47'
-  - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
-    price: '31.99'
-    oldPrice: '47.98'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '2.13'
+    daily: '3.00'
+  - spec: Unlimited
+    data: Unlimited High-Speed
+    desc: Worry-free data for everything — maps, social, sharing
+    price: '12.99'
+    oldPrice: '19.48'
+    tag: Premium
+    tagColor: bg-purple-600
+    daily: '4.33'
   7 Days:
   - spec: 1GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    desc: Ideal for light browsing, maps & messaging
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.57'
-  - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
-    price: '26.99'
-    oldPrice: '40.48'
-    tag: Premium
-    tagColor: bg-purple-600
-    daily: '3.86'
-  - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
-    price: '15.99'
-    oldPrice: '23.98'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '2.28'
   - spec: 3GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    desc: Great for daily navigation & social media
     price: '4.99'
     oldPrice: '7.49'
     tag: ''
@@ -220,7 +139,7 @@ plans_data:
     tagIcon: star
   - spec: 5GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Perfect for sharing Hobbiton & Milford Sound photos
     price: '6.99'
     oldPrice: '10.48'
     tag: Great Value
@@ -228,54 +147,128 @@ plans_data:
     daily: '1.00'
   - spec: 10GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Excellent for video calls & hotspot
     price: '10.99'
     oldPrice: '16.48'
     tag: Great Value
     tagColor: bg-emerald-500
     daily: '1.57'
-  3 Days:
-  - spec: 5GB
+  - spec: 20GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '5.99'
-    oldPrice: '8.98'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '2.00'
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
-    price: '4.99'
-    oldPrice: '7.49'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '1.66'
-    tagIcon: star
-  - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '8.99'
-    oldPrice: '13.48'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '3.00'
-  - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
-    price: '12.99'
-    oldPrice: '19.48'
-    tag: Premium
-    tagColor: bg-purple-600
-    daily: '4.33'
-  - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
-    price: '3.99'
-    oldPrice: '5.99'
+    desc: Best for remote work & heavy usage
+    price: '15.99'
+    oldPrice: '23.98'
     tag: ''
     tagColor: bg-slate-800
-    daily: '1.33'
+    daily: '2.28'
+  - spec: Unlimited
+    data: Unlimited High-Speed
+    desc: Worry-free data for everything — maps, social, sharing
+    price: '26.99'
+    oldPrice: '40.48'
+    tag: Premium
+    tagColor: bg-purple-600
+    daily: '3.86'
+  15 Days:
+  - spec: 3GB
+    data: High-Speed 5G/4G/LTE
+    desc: Great for daily navigation & social media
+    price: '7.99'
+    oldPrice: '11.98'
+    tag: ''
+    tagColor: bg-orange-500
+    daily: '0.53'
+    tagIcon: star
+  - spec: 5GB
+    data: High-Speed 5G/4G/LTE
+    desc: Perfect for sharing Hobbiton & Milford Sound photos
+    price: '9.99'
+    oldPrice: '14.98'
+    tag: Great Value
+    tagColor: bg-emerald-500
+    daily: '0.67'
+  - spec: 10GB
+    data: High-Speed 5G/4G/LTE
+    desc: Excellent for video calls & hotspot
+    price: '12.99'
+    oldPrice: '19.48'
+    tag: Great Value
+    tagColor: bg-emerald-500
+    daily: '0.87'
+  - spec: 20GB
+    data: High-Speed 5G/4G/LTE
+    desc: Best for remote work & heavy usage
+    price: '21.99'
+    oldPrice: '32.98'
+    tag: ''
+    tagColor: bg-slate-800
+    daily: '1.47'
+  - spec: 30GB
+    data: High-Speed 5G/4G/LTE
+    desc: Ideal for long stays & high data needs
+    price: '31.99'
+    oldPrice: '47.98'
+    tag: ''
+    tagColor: bg-slate-800
+    daily: '2.13'
+  - spec: Unlimited
+    data: Unlimited High-Speed
+    desc: Worry-free data for everything — maps, social, sharing
+    price: '49.99'
+    oldPrice: '74.98'
+    tag: Premium
+    tagColor: bg-purple-600
+    daily: '3.33'
+  30 Days:
+  - spec: 3GB
+    data: High-Speed 5G/4G/LTE
+    desc: Great for daily navigation & social media
+    price: '7.99'
+    oldPrice: '11.98'
+    tag: ''
+    tagColor: bg-orange-500
+    daily: '0.27'
+    tagIcon: star
+  - spec: 5GB
+    data: High-Speed 5G/4G/LTE
+    desc: Perfect for sharing Hobbiton & Milford Sound photos
+    price: '9.99'
+    oldPrice: '14.98'
+    tag: Great Value
+    tagColor: bg-emerald-500
+    daily: '0.33'
+  - spec: 10GB
+    data: High-Speed 5G/4G/LTE
+    desc: Excellent for video calls & hotspot
+    price: '12.99'
+    oldPrice: '19.48'
+    tag: Great Value
+    tagColor: bg-emerald-500
+    daily: '0.43'
+  - spec: 20GB
+    data: High-Speed 5G/4G/LTE
+    desc: Best for remote work & heavy usage
+    price: '22.99'
+    oldPrice: '34.48'
+    tag: ''
+    tagColor: bg-slate-800
+    daily: '0.77'
+  - spec: 30GB
+    data: High-Speed 5G/4G/LTE
+    desc: Ideal for long stays & high data needs
+    price: '32.99'
+    oldPrice: '49.48'
+    tag: ''
+    tagColor: bg-slate-800
+    daily: '1.10'
+  - spec: Unlimited
+    data: Unlimited High-Speed
+    desc: Worry-free data for everything — maps, social, sharing
+    price: '99.99'
+    oldPrice: '149.98'
+    tag: Premium
+    tagColor: bg-purple-600
+    daily: '3.33'
 discount_banner:
   title: Special Discount on New Zealand eSIM Plans
   desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span>
@@ -284,7 +277,7 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'New Zealand eSIM Coverage: Network Coverage & Operator Comparison'
+  title: 'New Zealand eSIM Coverage: Spark, Vodafone & 2degrees 5G Guide — North & South Islands'
   supports_text: 'Supports:'
   service_details:
     title: Service Details
@@ -292,9 +285,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Coverage
-      desc: Enjoy comprehensive network coverage across New Zealand, including Auckland (4G), Wellington (4G), Christchurch
-        (4G), Queenstown (4G). Your eSIM connects to the robust networks of Spark, Vodafone NZ, 2degrees, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation routes.
+      desc: Enjoy comprehensive 5G/4G coverage across New Zealand's North and South Islands — Auckland (5G), Wellington (5G), Christchurch (5G), Queenstown (4G/5G), Hamilton (5G), and Rotorua (4G/5G). Stay connected at the Hobbiton movie set, Milford Sound, Rotorua's geothermal parks, Lake Wakatipu, Te Papa Museum, and along the State Highway 1 route. Spark covers 97% of the population, with Vodafone and 2degrees also providing strong coverage in tourist areas. Your eSIM auto-connects to the strongest carrier. In remote areas like Fiordland and the Southern Alps, coverage can be patchy — download offline maps for long drives.
     - icon: zap
       color: text-amber-500
       title: Delivery Time
@@ -320,8 +311,7 @@ reminders:
   title: 'New Zealand eSIM Setup Tips: What to Know Before You Go'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in New Zealand.
   - icon: ⏰
@@ -330,20 +320,24 @@ reminders:
     html: The QR code will be sent to your email.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 📅
+    html: <span class="font-medium">No 30-day waste:</span> One NZ forces <span class="font-bold">30-day plans ($29/2GB)</span> — a 7-day trip wastes 70%+. Roami offers exact-day plans.
+  - icon: 🏔️
+    html: <span class="font-medium">South Island coverage:</span> Queenstown, Milford Sound and major tourist routes have good 4G. Remote areas may have patchy signal — <span class="font-medium">download offline maps</span> before long drives.
+  - icon: 🎬
+    html: <span class="font-medium">Local tip:</span> Download the <span class="font-medium">Google Translate</span> app (English is spoken, but Māori phrases are everywhere). Download <span class="font-medium">NZ Transport Agency</span> app for real-time road updates.
   compatibility_check:
     title: Quick Compatibility Check
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
-      number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
   title: 'How to Install New Zealand eSIM: 3 Simple Steps'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -355,12 +349,11 @@ activation_steps:
     - Follow the prompts to complete setup
   - num: '3'
     title: 'Step 3: Activate in New Zealand'
-    desc: Upon arriving in New Zealand, enable your New Zealand eSIM in settings to start using data. We recommend connecting
-      to WiFi during the initial activation.
+    desc: Upon arriving in New Zealand, enable your New Zealand eSIM in settings to start using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Getting Online in New Zealand -- eSIM Network Quality and Speed Guide"
-  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in New Zealand. Find out what speeds to expect and where eSIM works best."
+  title: "New Zealand eSIM Guide: 5G, 30-Day Waste & Travel Tips"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in New Zealand. Find out what speeds to expect in Auckland, Queenstown and at Hobbiton — and how to avoid the 30-day SIM trap."
   categories:
   - id: faq-general
     icon: help-circle
@@ -368,37 +361,37 @@ faq_section:
     title: New Zealand eSIM FAQs
     questions:
     - q: |
-        Can I get an eSIM for New Zealand without spending too much?
+        Why is buying a local SIM in New Zealand such a waste of money for short trips?
       a: |
-        Absolutely. Roami's New Zealand eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+        New Zealand's prepaid SIM market has a <strong>major flaw for tourists</strong>. One NZ Travel SIM has a <strong>30-day minimum duration</strong> — $29 NZD for just 2GB of data over 30 days. For a 7-day trip, you're paying for <strong>23 days you don't use (over 70% waste)</strong>. Skinny Holiday SIM is only available at <strong>two specific airport shops</strong> (Christchurch Hub Convenience and Queenstown Paper Plus) — if you land in Auckland, you can't buy it. Roami offers <strong>3, 7, 15, and 30-day plans</strong> starting from $1.99 — no 30-day forced commitment, no waste.
     - q: |
-        Which network in New Zealand has the best coverage for travelers — Spark, 2degrees, or Vodafone?
+        Does New Zealand have 5G? How fast is it in Auckland and Queenstown?
       a: |
-        New Zealand has three main carriers: Spark, 2degrees, and Vodafone. Spark reaches about 95% of the population with 4G/5G. 2degrees covers roughly 90% but has stronger rural reach. Vodafone offers competitive pricing, often 15-20% cheaper than Spark. New Zealand uses 5G on n78 band with good coverage in m Roami automatically connects you to whichever is strongest at your location.
+        Yes — New Zealand's 5G network is well-established in major cities. <strong>Auckland, Wellington, Christchurch, and Queenstown have 5G coverage</strong> with typical speeds of 100-300 Mbps from Spark and Vodafone. At Hobbiton (Matamata), Rotorua, and along the main highways, you'll get 4G/5G. In remote areas like Milford Sound and the Southern Alps, 4G coverage is available in tourist areas but patchy on the drive — download offline maps for road trips. Roami auto-connects to the strongest carrier.
     - q: |
-        How does Roami compare to Airalo for eSIM in New Zealand?
+        Which carrier is best in New Zealand — Spark, Vodafone, or 2degrees?
       a: |
-        Roami typically offers better value for New Zealand eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        <strong>Spark</strong> covers 97% of the population with the best overall coverage, especially in rural areas and the South Island. <strong>Vodafone NZ</strong> has strong 5G in cities and competitive prepaid options — but forces 30-day plans. <strong>2degrees</strong> is strong in urban areas and often has better pricing for locals, but less rural coverage. With Roami, you don't choose — your eSIM <strong>auto-switches</strong> to whichever carrier has the strongest signal at your location.
+    - q: |
+        Can I use my New Zealand eSIM in Australia or other countries?
+      a: |
+        Yes — Roami eSIM works across the region. Many travelers visit New Zealand and Australia together, or stop over in Fiji or Singapore. Roami's regional plans cover <strong>New Zealand, Australia, and the Pacific</strong> seamlessly. Local New Zealand SIMs (Spark, Vodafone, 2degrees) <strong>do not include international roaming</strong> — you lose signal as soon as you leave the country.
+    - q: |
+        Is it true that some New Zealand SIMs ban hotspot sharing?
+      a: |
+        Yes — <strong>One NZ Passes strictly prohibit tethering</strong> for zero-rated data (social media, streaming). Spark Travel Pack does not allow hotspot sharing after data depletion. This means if you buy a local SIM with "unlimited social media", you <strong>cannot share that data</strong> with your travel companions. Roami allows <strong>full-speed hotspot sharing</strong> with no bans and no restrictions — share your data with family and friends.
+    - q: |
+        Why is the Skinny Holiday SIM so hard to find? I heard it's cheap.
+      a: |
+        Skinny (owned by Spark) offers a Holiday SIM at a good price, but there's a catch: it's <strong>only available at Christchurch Airport Hub Convenience and Queenstown Airport Paper Plus</strong>. If you fly into Auckland (where most international flights arrive), <strong>you cannot buy it</strong>. This is a known frustration for travelers. Roami is <strong>available instantly online</strong> — no matter which airport you arrive at, your eSIM is ready before you land.
+    - q: |
+        What if I accidentally delete my New Zealand eSIM before my trip?
+      a: |
+        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
     - q: |
         When does the validity period of my New Zealand eSIM start?
       a: |
         The plan validity starts when you connect to a local network in New Zealand, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
-    - q: |
-        What's included when I buy a New Zealand eSIM from Roami?
-      a: |
-        QR code delivery within 5 minutes, access to Spark's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
-    - q: |
-        Can I check how much data I've used on my New Zealand eSIM?
-      a: |
-        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
-    - q: |
-        What do I do if my New Zealand eSIM doesn't connect when I arrive?
-      a: |
-        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Spark in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
-    - q: |
-        What's the difference between a 5GB plan and an unlimited plan for New Zealand?
-      a: |
-        A 5GB plan gives you a fixed amount of high-speed data (5GB total). Once used up, you top up or buy a new plan. An unlimited plan continues providing data, but speeds may reduce after 30GB in a day under fair usage policy. For most travelers doing maps, messaging, and social media, a 5GB plan is perfectly sufficient.
 related_products:
   title: Related New Zealand eSIM Plans
   items:
@@ -451,97 +444,79 @@ related_products:
     price: From $1.99
     is_highlight: false
 market_analysis:
-  title: 'New-Zealand eSIM vs Local SIM Card: Which One Saves You More?'
+  title: 'New Zealand eSIM vs Local SIM: No 30-Day Waste, No Hotspot Ban'
   subtitle: New Zealand Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: 'Data Source: Prepaid Data SIM Card Wiki (New-Zealand) + Local Operator Sites'
+    text: 'Data Source: Prepaid Data SIM Card Wiki (New Zealand) + Local Operator Sites'
     url: https://prepaid-data-sim-card.fandom.com/wiki/New-Zealand
   table_headers:
   - Comparison Matrix
   - Local Prepaid SIM (Market Data)
-  - Roami New-Zealand eSIM
+  - Roami New Zealand eSIM
   table_rows:
   - icon: store
     title: Acquisition &<br>Activation
     prepaid_title: ''
-    prepaid_desc: Skinny NZ Holiday SIM is only available at Christchurch Airport Hub Convenience and Queenstown Airport Paper
-      Plus, with extremely limited purchase channels.
+    prepaid_desc: Skinny NZ Holiday SIM is only available at <strong>Christchurch Airport Hub Convenience</strong> and <strong>Queenstown Airport Paper Plus</strong> — not available at Auckland Airport where most tourists arrive.
     esim_title: Instant Digital Delivery
-    esim_desc: Skip the hassle of finding limited retail outlets like Christchurch Airport Hub Convenience. Activate your
-      Roami eSIM online within 1 minute after landing in Auckland.
+    esim_desc: Skip the limited retail hunt. Activate online within 5 minutes — <strong>available at any airport</strong>, including Auckland, no store required.
   - icon: id-card
     title: KYC & Real-Name<br>Registration
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on market knowledge, New Zealand does not require real-name
-      registration for prepaid SIMs; purchase is anonymous.
-    esim_title: No Passport Required
-    esim_desc: New Zealand prepaid SIMs are anonymous, but Roami eSIM requires no ID at all. Purchase and activate instantly
-      with just an email.
+    prepaid_desc: New Zealand prepaid SIMs are anonymous — no passport registration required. However, you still need to find a physical store to buy one.
+    esim_title: No ID Needed
+    esim_desc: Roami requires <strong>no ID verification</strong> — just purchase online and activate. No passport, no forms, no store visit.
   - icon: globe
     title: International<br>Roaming
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on market knowledge, New Zealand prepaid SIMs generally
-      do not include international roaming; roaming add-ons are expensive or unavailable.
-    esim_title: Global Roaming Included
-    esim_desc: Unlike local SIMs that lack roaming, Roami eSIM offers plans with global coverage. Stay connected in 190+ countries
-      without buying add-ons.
+    prepaid_desc: New Zealand prepaid SIMs are <strong>domestic-only</strong>. No international roaming included — separate expensive add-ons required, if available at all.
+    esim_title: Global Roaming Ready
+    esim_desc: Roami works across <strong>New Zealand, Australia, and the Pacific</strong> with no extra fees — seamless coverage for multi-country trips.
   - icon: calendar-xmark
     title: Billing Cycle &<br>Sunk Cost
     prepaid_title: ''
-    prepaid_desc: One NZ Travel SIM minimum duration is 30 days ($29/2 GB), forcing tourists to pay for a full month even
-      for a 5-7 day trip, wasting over 70% of the plan's value.
-    esim_title: Flexible Short-Term Plans
-    esim_desc: Avoid One NZ Travel SIM's 30-day minimum ($29/2 GB). Roami offers 7-day plans starting from $1.99/GB, saving
-      over 70% waste for short trips.
+    prepaid_desc: One NZ Travel SIM forces <strong>30-day minimum</strong> ($29 NZD for 2GB). Skinny Holiday SIM forces 30-day validity. A 7-day tourist wastes <strong>over 70%</strong> of the plan's value.
+    esim_title: Flexible Short Plans
+    esim_desc: Roami offers <strong>3/7/15/30-day plans</strong> starting from $1.99 — pay only for your actual trip length. No 30-day forced commitment, no waste.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
-    prepaid_desc: One NZ Passes strictly prohibit tethering for zero-rated data; Spark Travel Pack does not allow hotspot
-      sharing after data depletion.
+    prepaid_desc: One NZ Passes <strong>strictly prohibit tethering</strong> for zero-rated data. Spark Travel Pack does not allow hotspot after data depletion. Some plans ban hotspot entirely.
     esim_title: Unrestricted Tethering
-    esim_desc: One NZ Passes block hotspot for zero-rated data. Roami eSIM allows full-speed tethering on all data, perfect
-      for sharing with travel companions.
+    esim_desc: Roami allows <strong>full-speed hotspot sharing</strong> with no bans and no restrictions — share with travel companions or connect your laptop.
   - icon: credit-card
     title: Top-up Payments
     prepaid_title: ''
-    prepaid_desc: Warehouse Mobile online top-up requires a local New Zealand card or international Visa card; other operators
-      accept Visa/Mastercard in stores.
-    esim_title: Global Payment Methods
-    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for a local New Zealand card like
-      Warehouse Mobile requires.
+    prepaid_desc: Warehouse Mobile online top-up requires a <strong>local New Zealand card</strong> or international Visa (may be rejected). Other operators accept cards in-store.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. <strong>No local card needed</strong>, no rejection.
   - icon: headset
     title: Customer Support
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on market knowledge, customer support for prepaid is
-      typically limited to business hours and local language.
-    esim_title: 24/7 Multilingual Support
-    esim_desc: Local prepaid support is limited. Roami offers 24/7 live chat and email support in English, ensuring help whenever
-      you need it.
+    prepaid_desc: Prepaid support is typically limited to <strong>business hours</strong> and local language. No 24/7 live chat for prepaid users.
+    esim_title: 24/7 English Support
+    esim_desc: Get <strong>round-the-clock support in English</strong> via live chat — no business hours, no time zone issues.
   expert_verdict:
-    title: 'New-Zealand eSIM vs Physical SIM Card: Activation and Setup Compared'
+    title: 'New Zealand eSIM vs Local SIM: Which Should You Choose for Your Kiwi Trip?'
     cards:
-    - icon: globe
-      icon_bg: bg-purple-100
-      icon_color: text-purple-600
-      title: Multi-Network Coverage in New Zealand
-      desc: Roami eSIM connects to Spark, One NZ, and 2degrees networks, ensuring the best signal. Spark covers <b>97%</b>
-        of the population, while One NZ leads in <b>5G</b> coverage.
-    - icon: wifi
-      icon_bg: bg-green-100
-      icon_color: text-green-600
-      title: Unrestricted Hotspot Sharing
-      desc: One NZ Passes <b>strictly prohibit tethering</b> for zero-rated data. Roami eSIM allows full-speed hotspot on
-        all data, perfect for sharing with friends.
     - icon: hourglass-empty
       icon_bg: bg-amber-100
       icon_color: text-amber-600
-      title: Eliminate Sunk Cost from Long Billing Cycles
-      desc: One NZ Travel SIM forces a <b>30-day</b> minimum ($29/2 GB). For a 7-day trip, <b>over 70%</b> of the plan is
-        wasted. Roami offers <b>7-day</b> plans from <b>$1.99/GB</b>, matching your exact stay.
-    - icon: credit-card
-      icon_bg: bg-emerald-100
-      icon_color: text-emerald-600
-      title: Global Payment Methods Accepted
-      desc: Warehouse Mobile online top-up requires a local New Zealand card or international Visa. Roami accepts <b>Visa,
-        Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b> – no local card needed.
+      title: No 30-Day Sunk Cost Waste
+      desc: One NZ forces a <b>30-day minimum ($29/2GB)</b>. A 7-day trip wastes <b>over 70%</b>. Roami offers <b>7-day plans from $1.99/GB</b> — no waste, no overpaying.
+    - icon: store
+      icon_bg: bg-indigo-100
+      icon_color: text-indigo-600
+      title: Available at Any Airport
+      desc: Skinny Holiday SIM is only sold at <b>Christchurch</b> and <b>Queenstown</b> airports — not at Auckland. Roami is <b>available online instantly</b> — no matter where you land.
+    - icon: wifi
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: No Hotspot Ban
+      desc: One NZ Passes <b>prohibit tethering</b> for zero-rated data. Spark blocks hotspot after data depletion. Roami allows <b>unlimited hotspot</b> at full speed.
+    - icon: globe
+      icon_bg: bg-purple-100
+      icon_color: text-purple-600
+      title: Regional Travel Ready
+      desc: Local SIMs are <b>domestic-only</b> and lose signal outside NZ. Roami works across <b>Australia and the Pacific</b> — perfect for multi-country trips.
 ---

@@ -1,11 +1,11 @@
 ---
-title: 'Saudi Arabia eSIM 2026: Local Carrier Guide | Roami'
-date: '2026-06-17T00:00:00+00:00'
+title: 'Saudi Arabia eSIM - 5G in Riyadh & Jeddah | No Fingerprint KYC | Roami'
+date: '2026-08-18T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: Saudi Arabia eSIM
-  scenario_keywords: Umrah travel, business trip to Riyadh, sightseeing in Jeddah, desert safari, Red Sea diving
+  scenario_keywords: Umrah pilgrimage, Riyadh business travel, Jeddah city sightseeing, Mecca religious visit, Medina mosque tour, Dammam city break
   operators: STC, Mobily, Zain
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Riyadh, Jeddah, Mecca, Medina, Dammam
@@ -18,12 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Saudi Arabia eSIM | Best Prepaid Plan for Travel
-  description: Enjoy unlimited 5G data in Saudi Arabia with the best prepaid travel eSIM from Roami. Instant activation. Covers
-    Riyadh, Jeddah & Dammam Buy your plan online today.
-  keywords: Saudi Arabia eSIM, buy Saudi Arabia eSIM, best Saudi Arabia eSIM, Saudi Arabia travel eSIM, STC Saudi Arabia,
-    Mobily Saudi Arabia, Zain Saudi Arabia, Riyadh eSIM, Jeddah eSIM, Mecca eSIM, Saudi Arabia prepaid eSIM, 5G Saudi Arabia
-    eSIM
+  title: Saudi Arabia eSIM - 5G in Riyadh & Jeddah | Roami
+  description: Get the best Saudi Arabia eSIM with 5G on STC, Mobily & Zain. No passport/fingerprint registration — local SIMs require biometric KYC. Covers Riyadh, Jeddah, Mecca & Medina. Plans from $1.99.
+  keywords: Saudi Arabia eSIM, buy Saudi Arabia eSIM, best Saudi Arabia eSIM, Saudi Arabia travel eSIM, STC Saudi Arabia, Mobily Saudi Arabia, Zain Saudi Arabia, Riyadh eSIM, Jeddah eSIM, Mecca eSIM, Saudi Arabia prepaid eSIM, 5G Saudi Arabia eSIM, Umrah eSIM, Saudi eSIM no fingerprint
   low_price: 1.99
   high_price: 39.9
 order_summary:
@@ -45,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/sa.svg
   flag_alt: Saudi Arabia Flag
-  title: 'Saudi Arabia eSIM: Stay Connected Everywhere You Go'
-  subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Saudi Arabia travelers
+  title: 'Saudi Arabia eSIM: 5G in Riyadh, Jeddah & Beyond — No Passport, No Fingerprint KYC'
+  subtitle: 5G on STC, Mobily & Zain | No passport/fingerprint registration| 24/7 support
 features:
-  title: 'Why Saudi Arabia Travelers Choose Roami: Coverage, Speed & Service'
+  title: 'Why Saudi Arabia Travelers Choose Roami: Coverage, Convenience & No Biometric KYC'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -60,26 +57,47 @@ features:
     desc: 24/7 support for your Saudi Arabia trip - real humans, not bots
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: 100% refund if your Saudi Arabia eSIM doesn't activate
+    title: 100% Refund
+    desc: Full refund if your Saudi Arabia eSIM doesn't activate
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: Hotspot Supported
     desc: Share your Saudi Arabia data with travel companions, no limits
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: No contracts, cancel anytime - perfect for Saudi Arabia trips
+    title: No Fingerprint KYC
+    desc: Saudi requires passport + fingerprints for local SIMs — Roami needs zero ID
   - icon: radio-tower
     color: from-blue-400 to-blue-600
     title: Auto-Switch
-    desc: Auto-connects to top Saudi Arabia carriers for the best signal
+    desc: Auto-connects to STC, Mobily & Zain for the best 5G signal
+  - icon: mosque
+    color: from-emerald-400 to-emerald-600
+    title: Holy Cities Ready
+    desc: 4G/5G coverage in Mecca, Medina, Jeddah and Riyadh — stay connected for Umrah & sightseeing
 plans_title: 'Buy Saudi Arabia eSIM: Plans for Every Trip Duration'
 plans_data:
   3 Days:
+  - spec: 1GB
+    data: High-Speed 5G/4G/LTE
+    desc: Ideal for light browsing, maps & messaging
+    price: '3.99'
+    oldPrice: '5.99'
+    tag: ''
+    tagColor: bg-slate-800
+    daily: '1.33'
+  - spec: 3GB
+    data: High-Speed 5G/4G/LTE
+    desc: Great for daily navigation & social media
+    price: '5.99'
+    oldPrice: '8.98'
+    tag: ''
+    tagColor: bg-orange-500
+    daily: '2.00'
+    tagIcon: star
   - spec: 5GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Perfect for sharing mosque & city photos
     price: '9.99'
     oldPrice: '14.98'
     tag: Great Value
@@ -87,41 +105,41 @@ plans_data:
     daily: '3.33'
   - spec: 10GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Excellent for video calls & hotspot
     price: '14.99'
     oldPrice: '22.48'
     tag: Great Value
     tagColor: bg-emerald-500
     daily: '5.00'
-  - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
-    price: '3.99'
-    oldPrice: '5.99'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '1.33'
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
-    price: '5.99'
-    oldPrice: '8.98'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '2.00'
-    tagIcon: star
   - spec: Unlimited
     data: Unlimited High-Speed
-    desc: Worry-free data usage
+    desc: Worry-free data for everything — maps, social, sharing
     price: '18.99'
     oldPrice: '28.48'
     tag: Premium
     tagColor: bg-purple-600
     daily: '6.33'
   7 Days:
+  - spec: 1GB
+    data: High-Speed 5G/4G/LTE
+    desc: Ideal for light browsing, maps & messaging
+    price: '3.99'
+    oldPrice: '5.99'
+    tag: ''
+    tagColor: bg-slate-800
+    daily: '0.57'
+  - spec: 3GB
+    data: High-Speed 5G/4G/LTE
+    desc: Great for daily navigation & social media
+    price: '6.99'
+    oldPrice: '10.48'
+    tag: ''
+    tagColor: bg-orange-500
+    daily: '1.00'
+    tagIcon: star
   - spec: 5GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Perfect for sharing mosque & city photos
     price: '10.99'
     oldPrice: '16.48'
     tag: Great Value
@@ -129,7 +147,7 @@ plans_data:
     daily: '1.57'
   - spec: 10GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Excellent for video calls & hotspot
     price: '17.99'
     oldPrice: '26.98'
     tag: Great Value
@@ -137,41 +155,33 @@ plans_data:
     daily: '2.57'
   - spec: 20GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    desc: Best for remote work & heavy usage
     price: '34.99'
     oldPrice: '52.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '5.00'
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
-    price: '6.99'
-    oldPrice: '10.48'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '1.00'
-    tagIcon: star
-  - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
-    price: '3.99'
-    oldPrice: '5.99'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '0.57'
   - spec: Unlimited
     data: Unlimited High-Speed
-    desc: Worry-free data usage
+    desc: Worry-free data for everything — maps, social, sharing
     price: '46.99'
     oldPrice: '70.48'
     tag: Premium
     tagColor: bg-purple-600
     daily: '6.71'
   15 Days:
+  - spec: 3GB
+    data: High-Speed 5G/4G/LTE
+    desc: Great for daily navigation & social media
+    price: '7.99'
+    oldPrice: '11.98'
+    tag: ''
+    tagColor: bg-orange-500
+    daily: '0.53'
+    tagIcon: star
   - spec: 5GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Perfect for sharing mosque & city photos
     price: '11.99'
     oldPrice: '17.98'
     tag: Great Value
@@ -179,7 +189,7 @@ plans_data:
     daily: '0.80'
   - spec: 10GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Excellent for video calls & hotspot
     price: '20.99'
     oldPrice: '31.48'
     tag: Great Value
@@ -187,41 +197,41 @@ plans_data:
     daily: '1.40'
   - spec: 20GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    desc: Best for remote work & heavy usage
     price: '37.99'
     oldPrice: '56.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.53'
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
-    price: '7.99'
-    oldPrice: '11.98'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '0.53'
-    tagIcon: star
-  - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
-    price: '96.99'
-    oldPrice: '145.48'
-    tag: Premium
-    tagColor: bg-purple-600
-    daily: '6.47'
   - spec: 30GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    desc: Ideal for long stays & high data needs
     price: '54.99'
     oldPrice: '82.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.67'
+  - spec: Unlimited
+    data: Unlimited High-Speed
+    desc: Worry-free data for everything — maps, social, sharing
+    price: '96.99'
+    oldPrice: '145.48'
+    tag: Premium
+    tagColor: bg-purple-600
+    daily: '6.47'
   30 Days:
+  - spec: 3GB
+    data: High-Speed 5G/4G/LTE
+    desc: Great for daily navigation & social media
+    price: '8.99'
+    oldPrice: '13.48'
+    tag: ''
+    tagColor: bg-orange-500
+    daily: '0.30'
+    tagIcon: star
   - spec: 5GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Perfect for sharing mosque & city photos
     price: '12.99'
     oldPrice: '19.48'
     tag: Great Value
@@ -229,7 +239,7 @@ plans_data:
     daily: '0.43'
   - spec: 10GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Excellent for video calls & hotspot
     price: '21.99'
     oldPrice: '32.98'
     tag: Great Value
@@ -237,32 +247,15 @@ plans_data:
     daily: '0.73'
   - spec: 20GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    desc: Best for remote work & heavy usage
     price: '38.99'
     oldPrice: '58.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.30'
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
-    price: '8.99'
-    oldPrice: '13.48'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '0.30'
-    tagIcon: star
-  - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
-    price: '39.99'
-    oldPrice: '59.98'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '1.33'
   - spec: 30GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    desc: Ideal for long stays & high data needs
     price: '56.99'
     oldPrice: '85.48'
     tag: ''
@@ -276,7 +269,7 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Saudi Arabia eSIM Coverage: Carrier Guide & Coverage Map'
+  title: 'Saudi Arabia eSIM Coverage: STC, Mobily & Zain 5G Guide — Riyadh to Mecca'
   supports_text: 'Supports:'
   service_details:
     title: Service Details
@@ -284,9 +277,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Coverage
-      desc: Enjoy comprehensive network coverage across Saudi Arabia, including Riyadh (4G), Jeddah (4G), Mecca (4G), Medina
-        (4G). Your eSIM connects to the robust networks of STC, Mobily, Zain, ensuring stable signals in urban centers, tourist
-        hotspots, and along major transportation routes.
+      desc: Enjoy comprehensive 5G/4G coverage across Saudi Arabia's most visited cities — Riyadh (5G), Jeddah (5G), Mecca (5G), Medina (5G), Dammam (5G), and along the Haramain High-Speed Railway route. Stay connected at the Grand Mosque (Al-Masjid al-Haram) in Mecca, the Prophet's Mosque (Al-Masjid an-Nabawi) in Medina, the King Abdullah Financial District in Riyadh, the Corniche in Jeddah, and the historic Al-Balad district. STC has the widest overall coverage, followed by Mobily and Zain. Your eSIM auto-connects to the strongest carrier. 5G is widely available in all major cities, with 4G filling in along highways and rural areas.
     - icon: zap
       color: text-amber-500
       title: Delivery Time
@@ -312,8 +303,7 @@ reminders:
   title: 'Saudi Arabia eSIM Setup Tips: What to Know Before You Go'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Saudi Arabia.
   - icon: ⏰
@@ -322,20 +312,26 @@ reminders:
     html: The QR code will be sent to your email.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 🛂
+    html: <span class="font-medium">No fingerprint KYC:</span> Saudi Arabia requires <span class="font-bold">passport + fingerprint</span> for local SIMs. Roami needs <span class="font-bold">zero ID</span> — no biometrics, no store visit.
+  - icon: 🕌
+    html: <span class="font-medium">Holy cities coverage:</span> Strong 5G at the Grand Mosque (Mecca) and Prophet's Mosque (Medina) — perfect for live streaming and sharing Umrah moments.
+  - icon: ⚖️
+    html: <span class="font-medium">Warning:</span> Street SIMs in Saudi are <span class="font-bold">illegal</span> and may be shut down. Roami is a fully legitimate digital SIM — <span class="font-medium">no compliance risks</span>.
+  - icon: 🇸🇦
+    html: <span class="font-medium">Local tip:</span> Download the <span class="font-medium">Tawakkalna</span> app (Saudi health and services app) and <span class="font-medium">Google Translate</span> with Arabic offline pack.
   compatibility_check:
     title: Quick Compatibility Check
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
-      number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
   title: 'How to Install Saudi Arabia eSIM: 3 Simple Steps'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -347,12 +343,11 @@ activation_steps:
     - Follow the prompts to complete setup
   - num: '3'
     title: 'Step 3: Activate in Saudi Arabia'
-    desc: Upon arriving in Saudi Arabia, enable your Saudi Arabia eSIM in settings to start using data. We recommend connecting
-      to WiFi during the initial activation.
+    desc: Upon arriving in Saudi Arabia, enable your Saudi Arabia eSIM in settings to start using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Will eSIM Work Well in Saudi Arabia? A Traveler Guide to Internet Quality"
-  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Saudi Arabia. Find out what speeds to expect and where eSIM works best."
+  title: "Saudi Arabia eSIM Guide: 5G, Fingerprint KYC & Travel Tips"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Saudi Arabia. Find out what speeds to expect in Riyadh, Jeddah and Mecca — and how to avoid the fingerprint registration hassle."
   categories:
   - id: faq-general
     icon: help-circle
@@ -360,37 +355,41 @@ faq_section:
     title: Saudi Arabia eSIM FAQs
     questions:
     - q: |
-        What are the cheapest eSIM options for a trip to Saudi Arabia?
+        Why do I need to give my fingerprints to buy a SIM card in Saudi Arabia?
       a: |
-        Roami Saudi Arabia eSIM plans start at $1.99 (7 days, 1GB) and go up to $59.99 (30 days unlimited). For a typical 5-7 day trip, the 5GB plan at $9.99 is the sweet spot — enough for maps, messaging, and checking social media. Need to stream video or work remotely? Go with 10GB or unlimited. Thanks to STC's 5G network, streaming and video calls work great. Airport SIM kiosks charge 30-50% more, and you have to wait in line. Not sure about your data needs? Start small and top up through the app without changing your eSIM.
+        Saudi Arabia has one of the strictest SIM registration systems in the world. All local operators (STC, Mobily, Zain) require <strong>passport, visa, and fingerprint biometrics</strong> for prepaid SIM activation. You must: (1) visit a physical store; (2) present your passport and visa; (3) scan your passport; (4) provide fingerprints on a biometric scanner; (5) wait for the system to process (10-20 minutes). <strong>Roami requires none of this</strong> — no passport, no fingerprints, no store visit. Buy online, scan QR, and you're connected instantly.
     - q: |
-        Do I need a passport or ID to use eSIM in Saudi Arabia? How does the verification work?
+        Is it true that street SIM cards in Saudi Arabia are illegal?
       a: |
-        Yes, Saudi Arabia requires identity verification for eSIM. Saudi Arabia requires KYC verification for prepaid SIM cards. Passport required. Many travelers learn this only after arriving, then struggle with airport WiFi while waiting for approval. Complete verification before you go — it takes about 5-10 minutes. Also, some phones work better with STC's network than others — check our [eSIM compatibility](/compatibility/) page.
+        Yes — this is an <strong>important warning for travelers</strong>. Street SIMs (sold by unauthorized vendors, often registered on someone else's name) are <strong>illegal in Saudi Arabia</strong>. If the telecom authority (CITC) detects them, they can be <strong>shut down immediately</strong> — leaving you without data mid-trip. Vendors may also charge inflated prices. <strong>Roami is a fully legitimate digital SIM</strong> — no street vendor, no legal risk, no chance of being shut down.
     - q: |
-        How does Roami compare to Nomad for eSIM in Saudi Arabia?
+        Does Saudi Arabia have 5G? How fast is it in Riyadh, Jeddah and Mecca?
       a: |
-        Roami typically offers better value for Saudi Arabia eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Nomad. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        Yes — Saudi Arabia has one of the world's most advanced 5G networks. <strong>Riyadh, Jeddah, Mecca, Medina, and Dammam have extensive 5G coverage</strong> with typical speeds of 150-400 Mbps from STC and Mobily. At the Grand Mosque in Mecca, the Prophet's Mosque in Medina, the Riyadh Financial District, and Jeddah's Corniche, you'll get strong 5G. On the Haramain High-Speed Railway between Mecca, Jeddah and Medina, 5G works for most of the journey. Roami auto-connects to the strongest carrier.
     - q: |
-        I need internet access for just a couple of days in Saudi Arabia. What's the minimum I can buy?
+        Which carrier is best in Saudi Arabia — STC, Mobily, or Zain?
       a: |
-        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
+        <strong>STC</strong> is the national carrier with the widest coverage — the best choice for travelers visiting multiple cities, especially for Umrah between Mecca and Medina. <strong>Mobily</strong> has strong 5G in Riyadh and Jeddah with competitive pricing. <strong>Zain</strong> offers good urban coverage and GCC roaming packs (though expensive). With Roami, you don't choose — your eSIM <strong>auto-switches</strong> to whichever carrier has the strongest signal at your location.
     - q: |
-        Does the Saudi Arabia eSIM work in rural areas and smaller towns?
+        Why do Saudi SIMs have 28-day cycles? Is that a waste for short trips?
       a: |
-        Coverage in Saudi Arabia reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
+        Yes — it's a major waste. Most Saudi operators use <strong>28-day billing cycles</strong> (STC, Zain, Mobily). STC's 'Like' plan costs 65 SAR (~$17 USD) for 2GB/28 days. A 5-day tourist wastes <strong>23 days (82% of the plan's value)</strong>. Roami offers <strong>3, 7, 15, and 30-day plans</strong> starting from $1.99 — you <strong>pay only for your actual trip length</strong>. No 28-day waste, no overpaying.
     - q: |
-        What's included when I buy a Saudi Arabia eSIM from Roami?
+        Can I use my Saudi eSIM in the UAE, Bahrain, or other Gulf countries?
       a: |
-        QR code delivery within 5 minutes, access to STC's network, 24/7 customer support, and free hotspot for up to 5 devices. Plans start at $1.99. No contracts, no hidden fees, no auto-renewal.
+        Yes — Roami eSIM works across the GCC. This is a <strong>major advantage</strong> over Saudi local SIMs: Zain charges <strong>179 SAR (~$48 USD) for 3-day unlimited GCC roaming</strong>. Mobily charges <strong>99 SAR for 2GB/3 days</strong> or <strong>199 SAR for 7GB/7 days</strong>. Saudi local plan data <strong>cannot be used abroad</strong> at all. Roami offers <strong>transparent regional coverage</strong> across the GCC with no expensive add-ons.
     - q: |
-        What documents do I need to buy a Saudi Arabia eSIM from Roami?
+        Will my eSIM work at the Grand Mosque in Mecca and Prophet's Mosque in Medina?
       a: |
-        Just a valid payment method — credit card, PayPal, Apple Pay, or Google Pay. No passport uploads, no address verification, no contracts. Purchase online, receive your QR code by email within minutes, and install directly on your phone.
+        Yes — both holy sites have excellent 5G coverage. STC and Mobily have dedicated infrastructure around the Grand Mosque and the Prophet's Mosque to handle the millions of pilgrims. You can live stream, share photos, navigate, and use translation apps seamlessly. Roami auto-connects to the strongest carrier in both cities.
     - q: |
-        Will my eSIM in Saudi Arabia work for video calls and remote work?
+        What if I accidentally delete my Saudi Arabia eSIM before my trip?
       a: |
-        Absolutely. STC networks provide stable connections for Zoom, Teams, and Google Meet. For remote work, a 10GB or unlimited plan is recommended. The eSIM also supports hotspot sharing for your laptop.
+        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+    - q: |
+        When does the validity period of my Saudi Arabia eSIM start?
+      a: |
+        The plan validity starts when you connect to a local network in Saudi Arabia, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
 related_products:
   title: Related Saudi Arabia eSIM Plans
   items:
@@ -443,93 +442,79 @@ related_products:
     price: From $1.99
     is_highlight: false
 market_analysis:
-  title: 'Saudi-Arabia eSIM vs SIM Card Plans: Which One Fits Your Needs?'
+  title: 'Saudi Arabia eSIM vs Local SIM: No Fingerprints, No 28-Day Waste, No Illegal SIMs'
   subtitle: Saudi Arabia Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
-    text: 'Data Source: Prepaid Data SIM Card Wiki (Saudi-Arabia) + Local Operator Sites'
+    text: 'Data Source: Prepaid Data SIM Card Wiki (Saudi Arabia) + Local Operator Sites'
     url: https://prepaid-data-sim-card.fandom.com/wiki/Saudi-Arabia
   table_headers:
   - Comparison Matrix
   - Local Prepaid SIM (Market Data)
-  - Roami Saudi-Arabia eSIM
+  - Roami Saudi Arabia eSIM
   table_rows:
   - icon: store
     title: Acquisition &<br>Activation
     prepaid_title: ''
-    prepaid_desc: Must visit operator store (e.g., STC store locator) with passport and visa, and provide fingerprints for
-      KYC; airport kiosks have long queues and higher prices.
+    prepaid_desc: Must visit STC/Mobily/Zain store with <strong>passport and visa</strong>. Provide <strong>fingerprint biometrics</strong> for KYC. Airport kiosks have long queues and higher prices. Registration takes 15-30 minutes.
     esim_title: Instant Digital Delivery
-    esim_desc: Skip STC store queues and fingerprint registration. Activate online within 1 minute after landing in Riyadh.
+    esim_desc: Skip store queues and biometric registration. Activate online within 5 minutes — <strong>no store, no fingerprints</strong>.
   - icon: id-card
     title: KYC & Real-Name<br>Registration
     prepaid_title: ''
-    prepaid_desc: All operators require photo ID, visa, and fingerprint registration; street SIMs registered on someone else's
-      name are illegal and may be shut down.
+    prepaid_desc: All operators require <strong>passport, visa, and fingerprint registration</strong>. Street SIMs registered on others' names are <strong>illegal</strong> and may be shut down by CITC.
     esim_title: No Passport or Fingerprints
-    esim_desc: Avoid Saudi Arabia's strict KYC requiring passport, visa, and fingerprints. Roami eSIM activates without any
-      personal ID.
+    esim_desc: Bypass Saudi Arabia's strict <strong>biometric KYC</strong> requirement. Roami eSIM activates instantly with <strong>zero ID verification</strong> — no fingerprints, no passport.
   - icon: globe
     title: International<br>Roaming
     prepaid_title: ''
-    prepaid_desc: 'Zain offers GCC roaming packs: 3-day unlimited data for 179 SAR; Mobily offers 2GB/3 days for 99 SAR and
-      7GB/7 days for 199 SAR; local plan data cannot be used abroad.'
-    esim_title: Seamless Multi-Country Roaming
-    esim_desc: Unlike Zain's GCC roaming pack (179 SAR for 3 days unlimited), Roami offers multi-country plans at $1.99/GB,
-      usable across GCC without extra fees.
+    prepaid_desc: Zain GCC roaming pack costs <strong>179 SAR (~$48 USD) for 3 days unlimited</strong>. Mobily charges <strong>99 SAR for 2GB/3 days</strong> or <strong>199 SAR for 7GB/7 days</strong>. Local plan data cannot be used abroad.
+    esim_title: GCC Roaming Ready
+    esim_desc: Unlike expensive GCC roaming add-ons (179 SAR for 3 days), Roami offers <strong>transparent regional coverage</strong> across Saudi, UAE, Bahrain, Qatar and Kuwait.
   - icon: calendar-xmark
     title: Billing Cycle &<br>Sunk Cost
     prepaid_title: ''
-    prepaid_desc: Most prepaid plans have 28-day or 30-day cycles; e.g., STC 'Like' 65 SAR for 28 days, Zain 'Visitor 55'
-      55 SAR for 28 days; a 5-day trip wastes 23 days (82% of plan value).
-    esim_title: Flexible Short-Term Plans
-    esim_desc: Unlike STC's 28-day cycle (65 SAR for 2GB), Roami offers 7-day plans starting from $1.99/GB, saving up to 82%
-      waste for short trips.
+    prepaid_desc: All operators use <strong>28-day billing cycles</strong>. STC 'Like' costs 65 SAR (~$17 USD) for 2GB/28 days. A 5-day tourist wastes <strong>23 days (82% waste)</strong>.
+    esim_title: Flexible Short Plans
+    esim_desc: Roami offers <strong>3/7/15/30-day plans</strong> starting from $1.99 — pay only for your actual trip length. No 28-day forced commitment, no 82% waste.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on market knowledge, tethering is generally allowed
-      but may be restricted on social media data packages.
+    prepaid_desc: Tethering is generally allowed on Saudi SIMs. However, <strong>social media data packages</strong> may restrict hotspot sharing to specific apps. Some plans may throttle after FUP limits.
     esim_title: Unrestricted Tethering
-    esim_desc: Unlike local SIMs that restrict social media data to specific apps, Roami allows full-speed hotspot on all
-      data.
+    esim_desc: Roami allows <strong>full-speed hotspot sharing</strong> with no restrictions — unlike local SIMs that restrict social media data to specific apps.
   - icon: credit-card
     title: Top-up Payments
     prepaid_title: ''
-    prepaid_desc: Top-ups require 5% VAT since 2018; online top-up may reject foreign cards; physical vouchers available at
-      kiosks.
-    esim_title: Global Payment Methods
-    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local currency or 5% VAT.
+    prepaid_desc: Top-ups incur <strong>5% VAT</strong> (since 2018). Online top-up may reject international cards. Physical vouchers available at kiosks but require cash.
+    esim_title: Global Payment Accepted
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. <strong>No 5% VAT</strong>, no card rejection, no cash required.
   - icon: headset
     title: Customer Support
     prepaid_title: ''
-    prepaid_desc: Phone support in Arabic and English, but limited hours; no live chat for prepaid customers.
-    esim_title: 24/7 Multilingual Support
-    esim_desc: Get round-the-clock support in English and Arabic via live chat, unlike local operators with limited phone
-      hours.
+    prepaid_desc: Phone support in Arabic and English, but <strong>limited hours</strong>. No live chat for prepaid customers. Store visits required for most issues.
+    esim_title: 24/7 English & Arabic Support
+    esim_desc: Get <strong>round-the-clock support in English and Arabic</strong> via live chat — no store visits, no limited hours.
   expert_verdict:
-    title: 'Saudi-Arabia eSIM vs Local Prepaid SIM: Which Is More Convenient?'
+    title: 'Saudi Arabia eSIM vs Local SIM: Which Should You Choose?'
     cards:
     - icon: passport
       icon_bg: bg-blue-100
       icon_color: text-blue-600
-      title: Bypass Saudi Arabia's Strict SIM Passport Requirements
-      desc: All local operators (STC, Mobily, Zain) require passport, visa, and <b>fingerprint registration</b>. Roami eSIM
-        activates instantly without any ID.
-    - icon: clock
+      title: No Fingerprint Registration
+      desc: Saudi SIMs require <b>passport, visa and fingerprint biometrics</b> in-store (15-30 mins). Roami activates in <b>5 minutes</b> with <b>zero ID</b> — no fingerprints.
+    - icon: globe
       icon_bg: bg-purple-100
       icon_color: text-purple-600
-      title: Instant Activation, No Queues
-      desc: Buying a local SIM requires visiting a store (e.g., STC) and waiting for fingerprint registration. Roami activates
-        online in <b>1 minute</b>.
-    - icon: headset
-      icon_bg: bg-teal-100
-      icon_color: text-teal-600
-      title: 24/7 Multilingual Customer Support
-      desc: Local operators have limited phone hours. Roami offers <b>24/7 live chat</b> in English and Arabic.
+      title: No 179 SAR GCC Roaming
+      desc: Zain charges <b>179 SAR (~$48 USD)</b> for 3-day GCC roaming. Roami offers <b>transparent regional coverage</b> across the GCC — no expensive add-ons.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: No 28-Day Sunk Cost Waste
+      desc: STC/Mobily/Zain force <b>28-day plans</b> (65 SAR/2GB). A 5-day trip wastes <b>82%</b>. Roami offers <b>3-day plans from $1.99/GB</b> — no waste.
     - icon: shield
-      icon_bg: bg-indigo-100
-      icon_color: text-indigo-600
-      title: Avoid Illegal Street SIM Risks
-      desc: Street SIMs registered on someone else's name are illegal and may be shut down. Roami is a legitimate digital
-        SIM with no compliance risks.
+      icon_bg: bg-emerald-100
+      icon_color: text-emerald-600
+      title: No Illegal Street SIM Risks
+      desc: Street SIMs in Saudi are <b>illegal</b> and may be shut down. Roami is a <b>fully legitimate digital SIM</b> — no legal risk, no shutdown.
 ---

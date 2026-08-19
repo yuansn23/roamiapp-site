@@ -1,11 +1,11 @@
 ---
-title: 'India eSIM 2026: Operator & Coverage Guide | Roami'
-date: '2026-06-17T00:00:00+00:00'
+title: 'India eSIM 2026 - Best 5G Plan for Delhi & Taj Mahal | Roami'
+date: '2026-08-18T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: India eSIM
-  scenario_keywords: Delhi sightseeing, Mumbai local travel, Taj Mahal visit, Rajasthan desert tour, Kerala backwaters
+  scenario_keywords: Delhi sightseeing, Taj Mahal visit, Rajasthan desert tour, Kerala backwaters, Mumbai local travel
   operators: Airtel, Jio, Vi
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Delhi, Mumbai, Bangalore, Chennai, Kolkata
@@ -18,11 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: India eSIM | Buy Fast Prepaid Data Plan
-  description: Travel to India with Roami's best prepaid travel eSIM. Unlimited 5G data with no local ID required. Instant
-    activation. Buy your plan from $1.99.
-  keywords: India eSIM, buy India eSIM, best India eSIM, India travel eSIM, Airtel India, Jio India, Vi India, Delhi eSIM,
-    Mumbai eSIM, Bangalore eSIM, India prepaid eSIM, 5G India eSIM
+  title: India eSIM - Best 5G Plan for Delhi & Taj Mahal | Roami
+  description: Get the best India prepaid eSIM with 5G on Airtel, Jio & Vi. No KYC or passport needed — instant QR activation. No 28-day waste. From $1.99.
+  keywords: India eSIM, buy India eSIM, best India eSIM, India travel eSIM, Airtel India, Jio India, Vi India, Delhi eSIM, Mumbai eSIM, Bangalore eSIM, India prepaid eSIM, 5G India eSIM, Taj Mahal eSIM, Jaipur eSIM, Kerala eSIM
   low_price: 1.99
   high_price: 39.9
 order_summary:
@@ -44,8 +42,8 @@ banner:
 hero:
   flag_image: img/flags/in.svg
   flag_alt: India Flag
-  title: 'India eSIM: Stay Connected Everywhere You Go'
-  subtitle: Fast 5G | Instant QR delivery | 24/7 human support - the best prepaid eSIM for India
+  title: 'India eSIM: 5G in Delhi, Mumbai & Beyond — No KYC Needed'
+  subtitle: No KYC/No passport required | 5G on Airtel, Jio & Vi | No 28-day waste | Instant QR delivery
 features:
   title: 'Why India Travelers Choose Roami: Plans, Network & Support'
   items:
@@ -59,26 +57,76 @@ features:
     desc: 24/7 support for your India trip - real humans, not bots
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: 100% refund if your India eSIM doesn't activate
+    title: 100% Refund
+    desc: Full refund if your India eSIM doesn't activate
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: Hotspot Supported
     desc: Share your India data with travel companions, no limits
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: No contracts, cancel anytime - perfect for India trips
+    title: No KYC Required
+    desc: No passport or ID needed — bypass India's mandatory KYC that requires passport copies, photos & hotel proof
   - icon: radio-tower
     color: from-blue-400 to-blue-600
     title: Auto-Switch
-    desc: Auto-connects to top India carriers for the best signal
+    desc: Auto-connects to Airtel, Jio & Vi for the best signal across India
 plans_title: 'Buy India eSIM: Plans for Every Trip Duration'
 plans_data:
-  7 Days:
+  3 Days:
+  - spec: 1GB
+    data: High-Speed 5G/4G/LTE
+    desc: Ideal for light browsing, maps & messaging
+    price: '3.99'
+    oldPrice: '5.99'
+    tag: ''
+    tagColor: bg-slate-800
+    daily: '1.33'
   - spec: 3GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    desc: Great for daily navigation & social media
+    price: '6.99'
+    oldPrice: '10.48'
+    tag: ''
+    tagColor: bg-orange-500
+    daily: '2.33'
+    tagIcon: star
+  - spec: 5GB
+    data: High-Speed 5G/4G/LTE
+    desc: Perfect for sharing Taj Mahal & Delhi photos
+    price: '10.99'
+    oldPrice: '16.48'
+    tag: Great Value
+    tagColor: bg-emerald-500
+    daily: '3.66'
+  - spec: 10GB
+    data: High-Speed 5G/4G/LTE
+    desc: Excellent for streaming & trip navigation
+    price: '18.99'
+    oldPrice: '28.48'
+    tag: Great Value
+    tagColor: bg-emerald-500
+    daily: '6.33'
+  - spec: Unlimited
+    data: Unlimited High-Speed
+    desc: Worry-free high-speed data for everything
+    price: '17.99'
+    oldPrice: '26.98'
+    tag: Premium
+    tagColor: bg-purple-600
+    daily: '6.00'
+  7 Days:
+  - spec: 1GB
+    data: High-Speed 5G/4G/LTE
+    desc: Ideal for light browsing, maps & messaging
+    price: '4.99'
+    oldPrice: '7.49'
+    tag: ''
+    tagColor: bg-slate-800
+    daily: '0.71'
+  - spec: 3GB
+    data: High-Speed 5G/4G/LTE
+    desc: Great for daily navigation & social media
     price: '7.99'
     oldPrice: '11.98'
     tag: ''
@@ -87,7 +135,7 @@ plans_data:
     tagIcon: star
   - spec: 5GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Perfect for sharing Taj Mahal & Delhi photos
     price: '10.99'
     oldPrice: '16.48'
     tag: Great Value
@@ -95,23 +143,15 @@ plans_data:
     daily: '1.57'
   - spec: 10GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Excellent for streaming & trip navigation
     price: '19.99'
     oldPrice: '29.98'
     tag: Great Value
     tagColor: bg-emerald-500
     daily: '2.86'
-  - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
-    price: '4.99'
-    oldPrice: '7.49'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '0.71'
   - spec: 20GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    desc: Best for remote work & heavy usage
     price: '35.99'
     oldPrice: '53.98'
     tag: ''
@@ -119,7 +159,7 @@ plans_data:
     daily: '5.14'
   - spec: Unlimited
     data: Unlimited High-Speed
-    desc: Worry-free data usage
+    desc: Worry-free high-speed data for everything
     price: '37.99'
     oldPrice: '56.98'
     tag: Premium
@@ -128,7 +168,7 @@ plans_data:
   15 Days:
   - spec: 3GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    desc: Great for daily navigation & social media
     price: '9.99'
     oldPrice: '14.98'
     tag: ''
@@ -137,7 +177,7 @@ plans_data:
     tagIcon: star
   - spec: 5GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Perfect for sharing Taj Mahal & Delhi photos
     price: '11.99'
     oldPrice: '17.98'
     tag: Great Value
@@ -145,7 +185,7 @@ plans_data:
     daily: '0.80'
   - spec: 10GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Excellent for streaming & trip navigation
     price: '20.99'
     oldPrice: '31.48'
     tag: Great Value
@@ -153,120 +193,78 @@ plans_data:
     daily: '1.40'
   - spec: 20GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    desc: Best for remote work & heavy usage
     price: '33.99'
     oldPrice: '50.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.27'
-  - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
-    price: '94.99'
-    oldPrice: '142.48'
-    tag: Premium
-    tagColor: bg-purple-600
-    daily: '6.33'
   - spec: 30GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    desc: Ideal for long stays & high data needs
     price: '58.99'
     oldPrice: '88.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.93'
+  - spec: Unlimited
+    data: Unlimited High-Speed
+    desc: Worry-free high-speed data for everything
+    price: '94.99'
+    oldPrice: '142.48'
+    tag: Premium
+    tagColor: bg-purple-600
+    daily: '6.33'
   30 Days:
-  - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '19.99'
-    oldPrice: '29.98'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '0.67'
-  - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '12.99'
-    oldPrice: '19.48'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '0.43'
   - spec: 3GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    desc: Great for daily navigation & social media
     price: '9.99'
     oldPrice: '14.98'
     tag: ''
     tagColor: bg-orange-500
     daily: '0.33'
     tagIcon: star
+  - spec: 5GB
+    data: High-Speed 5G/4G/LTE
+    desc: Perfect for sharing Taj Mahal & Delhi photos
+    price: '12.99'
+    oldPrice: '19.48'
+    tag: Great Value
+    tagColor: bg-emerald-500
+    daily: '0.43'
+  - spec: 10GB
+    data: High-Speed 5G/4G/LTE
+    desc: Excellent for streaming & trip navigation
+    price: '19.99'
+    oldPrice: '29.98'
+    tag: Great Value
+    tagColor: bg-emerald-500
+    daily: '0.67'
   - spec: 20GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    desc: Best for remote work & heavy usage
     price: '30.99'
     oldPrice: '46.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '1.03'
-  - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
-    price: '35.99'
-    oldPrice: '53.98'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '1.20'
   - spec: 30GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    desc: Ideal for long stays & high data needs
     price: '59.99'
     oldPrice: '89.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.00'
-  3 Days:
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
-    price: '6.99'
-    oldPrice: '10.48'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '2.33'
-    tagIcon: star
   - spec: Unlimited
     data: Unlimited High-Speed
-    desc: Worry-free data usage
-    price: '17.99'
-    oldPrice: '26.98'
+    desc: Worry-free high-speed data for everything
+    price: '99.99'
+    oldPrice: '149.98'
     tag: Premium
     tagColor: bg-purple-600
-    daily: '6.00'
-  - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
-    price: '3.99'
-    oldPrice: '5.99'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '1.33'
-  - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '10.99'
-    oldPrice: '16.48'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '3.66'
-  - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '18.99'
-    oldPrice: '28.48'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '6.33'
+    daily: '3.33'
 discount_banner:
   title: Special Discount on India eSIM Plans
   desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span>
@@ -275,7 +273,7 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'India eSIM Coverage: Mobile Network Operator Guide'
+  title: 'India eSIM Coverage: Airtel, Jio & Vi Network Guide'
   supports_text: 'Supports:'
   service_details:
     title: Service Details
@@ -283,9 +281,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Coverage
-      desc: Enjoy comprehensive network coverage across India, including Delhi (4G), Mumbai (4G), Bangalore (4G), Chennai
-        (4G). Your eSIM connects to the robust networks of Airtel, Jio, Vi, ensuring stable signals in urban centers, tourist
-        hotspots, and along major transportation routes.
+      desc: Enjoy comprehensive network coverage across India, including Delhi (5G/4G), Mumbai (5G/4G), Bangalore (4G), Chennai (4G), and Kolkata (4G). Stay connected at the Taj Mahal, Red Fort, Jaipur's Pink City, and Kerala's backwaters. Your eSIM connects to Airtel, Jio, and Vi networks — automatically switching for the best signal.
     - icon: zap
       color: text-amber-500
       title: Delivery Time
@@ -311,8 +307,7 @@ reminders:
   title: 'India eSIM Setup Tips: What to Know Before You Go'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in India.
   - icon: ⏰
@@ -321,20 +316,20 @@ reminders:
     html: The QR code will be sent to your email.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 📅
+    html: <span class="font-medium">No 28-day waste:</span> Indian prepaid SIMs (Airtel/Jio/Vi) use 28-day cycles — a 5-day tourist wastes 75%+. Roami offers flexible durations with zero wasted days.
   compatibility_check:
     title: Quick Compatibility Check
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
-      number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
   title: 'How to Install India eSIM: 3 Simple Steps'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -346,11 +341,10 @@ activation_steps:
     - Follow the prompts to complete setup
   - num: '3'
     title: 'Step 3: Activate in India'
-    desc: Upon arriving in India, enable your India eSIM in settings to start using data. We recommend connecting to WiFi
-      during the initial activation.
+    desc: Upon arriving in India, enable your India eSIM in settings to start using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Getting Online in India -- eSIM Network Quality and Speed Guide"
+  title: "India eSIM Guide: Speeds, Coverage, and Travel Tips for India"
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in India. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
@@ -359,37 +353,41 @@ faq_section:
     title: India eSIM FAQs
     questions:
     - q: |
-        How do Airtel, Jio, and Vi compare for a tourist visiting India?
+        What is India's mandatory KYC — and do I need to do it for Roami?
       a: |
-        In India, Airtel leads with the fastest urban 5G speeds (up to 1 Gbps in tests). Jio covers about 85% of the country including most rural areas. Vi is the budget option, often bundling data at lower per-GB rates. Tourists visiting cities get excellent service from all three. India uses 5G on n78 band with coverage in major cities Roami picks the best one automatically as you move around.
+        India has one of the strictest SIM registration processes in the world. To buy a local prepaid SIM from Airtel, Jio, or Vi, you must provide: passport original + copy, visa copy, passport photo, hotel address proof, and a local reference number for OTP verification — and activation can take anywhere from 1 to 24 hours. Roami eSIM is a data-only travel plan that bypasses India's KYC requirements entirely. No passport copies, no visa copies, no hotel proof, no waiting. Just buy online, scan the QR code, and you're connected within 2 minutes of landing.
     - q: |
-        Can I get an eSIM for India without spending too much?
+        I've seen Indian SIMs with huge data allowances — but is there a catch?
       a: |
-        Absolutely. Roami's India eSIM plans start from as low as $1.99. The 5GB/15 day option ($9.99) is the most popular among travelers — it comfortably handles maps, WhatsApp, Instagram, and email. If you're a heavy data user, the 10GB ($14.99) or unlimited ($59.99) plans give you peace of mind. Skipping the airport SIM counter saves you 30-50% and the hassle of queuing. Need to adjust? You can top up anytime from the Roami app.
+        Yes — there are two major catches. First, all Indian prepaid plans use 28-day billing cycles (Vi ₹549/3.5GB/day, Airtel ₹349/3GB/day, Jio ₹149/1.5GB/day). If you're visiting for 5-7 days, you waste over 75% of what you paid. Second, most plans have daily Fair Usage Policy (FUP) limits — once you hit the daily cap, your speed drops to 64 kbps, which is barely usable for messaging, let alone maps or social media. Roami has no 28-day waste and no daily FUP throttling. You get full-speed data for exactly the days you need.
     - q: |
-        How does Roami compare to Airalo for eSIM in India?
+        I heard some Indian SIMs limit daily data and slow down after a cap — does Roami have this?
       a: |
-        Roami typically offers better value for India eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Airalo. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        No — Roami has no daily data caps and no speed throttling. Indian local SIMs like Jio throttle your speed to 64 kbps once you exceed your daily FUP limit (e.g., Jio's ₹149/1.5GB/day plan — after 1.5GB, you're slowed to 64 kbps for the rest of the day, making video calls and social media practically unusable). Airtel and Vi have similar policies. Roami gives you full-speed data all day, every day. No "fair usage" slowdowns, no daily limits, no surprises.
     - q: |
-        How do I know if my India eSIM plan is active and ready to use?
+        If I buy a SIM in Ladakh or Jammu & Kashmir, will it work elsewhere in India?
       a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in India — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+        No — and this is a common tourist trap. SIM cards purchased in Ladakh and Jammu & Kashmir have no signal outside those regions. Tourists often buy a SIM locally and later find they have zero connectivity once they travel to Delhi or Rajasthan. Roami works nationwide across India with no regional restrictions. You can travel from Leh to Kerala without worrying about your SIM becoming useless.
     - q: |
-        What if I accidentally delete my India eSIM before my trip?
+        Is eSIM cheaper than international roaming for India?
       a: |
-        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for India costs $10.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
     - q: |
-        What's the easiest way to stay connected in India without dealing with airport SIM kiosks?
+        I'm arriving in India late at night. Will I be able to get online immediately?
       a: |
-        eSIM is your answer. Buy online, get QR code by email, install in 2 minutes. Skip the airport queue. Roami connects to Airtel for reliable coverage. Your home SIM stays active for SMS. It's the simplest way to stay connected.
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing at Delhi or Mumbai airports. Enable Data Roaming, and your phone picks up Airtel automatically. No queues, no KYC forms — especially valuable since many SIM counters close by 10pm and can't process registrations after hours.
     - q: |
-        How many eSIM profiles can I store on my phone for traveling to India?
+        Can I buy an India eSIM at the last minute, right before my flight?
       a: |
-        Most phones store 5-10 eSIM profiles. You can keep your India eSIM alongside your home SIM and other country profiles. Just activate the one you need and deactivate others. Switching between them takes about 10 seconds in your phone settings.
+        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in India, just enable Data Roaming and you'll be online immediately.
     - q: |
-        Does WhatsApp and FaceTime work with eSIM in India?
+        When does the validity period of my India eSIM start?
       a: |
-        Yes — all data-based apps work perfectly over eSIM. WhatsApp calls use about 1MB per minute for audio and 5-8MB per minute for video. FaceTime, Zoom, Google Maps, Instagram — everything runs over the eSIM data connection with no restrictions. Airtel's network handles video calls smoothly. A 5GB plan provides roughly 500 hours of WhatsApp audio calls or 10 hours of FaceTime video.
+        The plan validity starts when you connect to a local network in India, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
+    - q: |
+        Can I top up my India eSIM if I run out of data?
+      a: |
+        Yes — you can top up through your Roami account at any time. Unlike Indian prepaid SIMs that require local recharge platforms (SwiftRecharge.com often has high surcharges for foreign cards), Roami accepts global payment methods with no extra fees.
 related_products:
   title: Related India eSIM Plans
   items:
@@ -457,37 +455,29 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Airport SIM cards cost ₹500-1000, including ₹100-500 vendor premium; activation takes 1-24 hours.
     esim_title: Instant Digital Delivery
-    esim_desc: Skip airport queues and ₹100-500 vendor premium. Activate online within 1 minute after landing in Delhi or
-      Mumbai.
+    esim_desc: Skip airport queues and ₹100-500 vendor premium. Activate online within 1 minute after landing in Delhi or Mumbai.
   - icon: id-card
     title: KYC & Real-Name<br>Registration
     prepaid_title: ''
-    prepaid_desc: Mandatory KYC requires passport original and copy, visa copy, passport photo, hotel proof, and a local reference
-      number for OTP.
-    esim_title: No Passport Required
-    esim_desc: Avoid handing over passport copies and hotel proof. Roami eSIM activates without KYC, unlike Airtel's 1-24
-      hour verification.
+    prepaid_desc: Mandatory KYC requires passport original and copy, visa copy, passport photo, hotel proof, and a local reference number for OTP.
+    esim_title: No KYC Required
+    esim_desc: Avoid handing over passport copies and hotel proof. Roami eSIM activates without KYC, unlike Airtel's 1-24 hour verification.
   - icon: globe
     title: International<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Jio SIMs cannot fall back to 2G/3G; Vi and Airtel SMS limited to 100/day FUP; SIMs from Ladakh and J&K have
-      no signal outside those regions.
+    prepaid_desc: Jio SIMs cannot fall back to 2G/3G; Vi and Airtel SMS limited to 100/day FUP; SIMs from Ladakh and J&K have no signal outside those regions.
     esim_title: Global Roaming Ready
-    esim_desc: Stay connected across India and beyond. Unlike Jio's 64 kbps throttle after FUP, Roami offers high-speed data
-      with no daily caps.
+    esim_desc: Stay connected across India and beyond. Unlike Jio's 64 kbps throttle after FUP, Roami offers high-speed data with no daily caps.
   - icon: calendar-xmark
     title: Billing Cycle &<br>Sunk Cost
     prepaid_title: ''
-    prepaid_desc: Mainstream plans are 28-day cycles (e.g., Vi ₹549 for 3.5GB/day, Airtel ₹349 for 3GB/day, Jio ₹149 for 1.5GB/day);
-      a 5-7 day trip wastes over 75% of the plan's value.
+    prepaid_desc: Mainstream plans are 28-day cycles (e.g., Vi ₹549 for 3.5GB/day, Airtel ₹349 for 3GB/day, Jio ₹149 for 1.5GB/day); a 5-7 day trip wastes over 75% of the plan's value.
     esim_title: Flexible Short Plans
-    esim_desc: Avoid 28-day waste. Roami offers 7-day plans from $1.99/GB, saving over 75% compared to Vi's ₹549/28-day plan
-      for a 5-day trip.
+    esim_desc: Avoid 28-day waste. Roami offers 7-day plans from $1.99/GB, saving over 75% compared to Vi's ₹549/28-day plan for a 5-day trip.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on market knowledge, most Indian prepaid SIMs allow
-      tethering but throttle to 64 kbps after daily FUP limit (e.g., Jio).
+    prepaid_desc: Most Indian prepaid SIMs throttle to 64 kbps after daily FUP limit (e.g., Jio). Tethering allowed but speed-limited.
     esim_title: Unrestricted Tethering
     esim_desc: Share data freely. Unlike Jio's 64 kbps throttle after daily FUP, Roami allows full-speed hotspot without limits.
   - icon: credit-card
@@ -495,16 +485,13 @@ market_analysis:
     prepaid_title: ''
     prepaid_desc: Top-up requires local channels or platforms like SwiftRecharge.com; foreign cards often face higher surcharges.
     esim_title: Global Payment Accepted
-    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local recharge platforms like
-      SwiftRecharge.
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for local recharge platforms like SwiftRecharge.
   - icon: headset
     title: Customer Support
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on market knowledge, customer support is primarily
-      in Hindi/English via phone or store, with limited 24/7 availability.
-    esim_title: 24/7 Multilingual Support
-    esim_desc: Get help in English anytime. Unlike local SIM support limited to Hindi/English store hours, Roami offers 24/7
-      live chat.
+    prepaid_desc: Customer support is primarily in Hindi/English via phone or store, with limited 24/7 availability.
+    esim_title: 24/7 English Support
+    esim_desc: Get help in English anytime. Unlike local SIM support limited to Hindi/English store hours, Roami offers 24/7 live chat.
   expert_verdict:
     title: 'India eSIM vs Physical SIM: Travel, Cost, and Setup Compared'
     cards:
@@ -512,24 +499,20 @@ market_analysis:
       icon_bg: bg-purple-100
       icon_color: text-purple-600
       title: Stay Connected Across India and Beyond
-      desc: SIMs from Ladakh and J&K have <b>no signal outside those regions</b>. Roami works nationwide and offers global
-        roaming without regional restrictions.
+      desc: SIMs from Ladakh and J&K have <b>no signal outside those regions</b>. Roami works nationwide and offers global roaming without regional restrictions.
     - icon: wifi
       icon_bg: bg-green-100
       icon_color: text-green-600
       title: Unrestricted Hotspot for All Your Devices
-      desc: Indian SIMs often throttle hotspot speed after daily FUP (e.g., Jio to <b>64 kbps</b>). Roami allows full-speed
-        tethering with no restrictions.
+      desc: Indian SIMs often throttle hotspot speed after daily FUP (e.g., Jio to <b>64 kbps</b>). Roami allows full-speed tethering with no restrictions.
     - icon: hourglass-empty
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Escape 28-Day Billing Cycles That Waste 75% of Your Money
-      desc: Mainstream plans like Vi <b>₹549/28-day</b> or Airtel <b>₹349/28-day</b> force you to pay for 3+ weeks you don't
-        use. Roami's <b>7-day plans from $1.99/GB</b> match your trip length.
+      desc: Mainstream plans like Vi <b>₹549/28-day</b> or Airtel <b>₹349/28-day</b> force you to pay for 3+ weeks you don't use. Roami's <b>7-day plans from $1.99/GB</b> match your trip length.
     - icon: shield
       icon_bg: bg-teal-100
       icon_color: text-teal-600
       title: Keep Your Home SIM Safe – No Physical Swap Needed
-      desc: Frequent SIM swapping risks losing your home SIM. Roami eSIM works alongside your physical SIM, so you never miss
-        OTPs from your bank or apps.
+      desc: Frequent SIM swapping risks losing your home SIM. Roami eSIM works alongside your physical SIM, so you never miss OTPs from your bank or apps.
 ---

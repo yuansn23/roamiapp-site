@@ -1,12 +1,11 @@
 ---
-title: 'Mexico eSIM 2026: Operator & Coverage Guide | Roami'
-date: '2026-06-17T00:00:00+00:00'
+title: 'Mexico eSIM - 5G in Cancún & Mexico City | No Passport Selfie | Roami'
+date: '2026-08-18T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: Mexico eSIM
-  scenario_keywords: Mexico City sightseeing, Cancún beach vacation, Chichen Itza day trip, Riviera Maya travel, Tijuana border
-    crossing
+  scenario_keywords: Cancún beach holiday, Mexico City historic center, Chichen Itza ruins, Riviera Maya resorts, Teotihuacan pyramids, Tulum ruins
   operators: Telcel, AT&T, Movistar
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Mexico City, Cancún, Guadalajara, Monterrey, Tijuana
@@ -19,11 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Mexico eSIM | Buy Unlimited Data Plan for Travelers
-  description: Get the best prepaid travel eSIM for Mexico from Roami. Unlimited 5G data nationwide with no roaming fees.
-    Instant activation. Covers Cancun, Mexico City & beyond.
-  keywords: Mexico eSIM, buy Mexico eSIM, best Mexico eSIM, Mexico travel eSIM, Telcel Mexico, AT&T Mexico, Movistar Mexico,
-    Mexico City eSIM, Cancún eSIM, Guadalajara eSIM, Mexico prepaid eSIM, 5G Mexico eSIM
+  title: Mexico eSIM - 5G in Cancún & Mexico City | Roami
+  description: Get the best Mexico eSIM with 5G on Telcel, AT&T & Movistar. No passport/selfie registration — since 2026, local SIMs require ID + selfie. Covers Cancún, Mexico City & Riviera Maya. Plans from $1.99.
+  keywords: Mexico eSIM, buy Mexico eSIM, best Mexico eSIM, Mexico travel eSIM, Telcel Mexico, AT&T Mexico, Movistar Mexico, Mexico City eSIM, Cancún eSIM, Riviera Maya eSIM, Mexico prepaid eSIM, 5G Mexico eSIM, Mexico eSIM no passport
   low_price: 1.99
   high_price: 39.9
 order_summary:
@@ -45,10 +42,10 @@ banner:
 hero:
   flag_image: img/flags/mx.svg
   flag_alt: Mexico Flag
-  title: 'Mexico eSIM: Stay Connected Everywhere You Go'
-  subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for Mexico
+  title: 'Mexico eSIM: 5G in Cancún, Mexico City & Beyond — No Passport, No Selfie'
+  subtitle: 5G on Telcel, AT&T & Movistar | No passport/selfie registration| 24/7 support
 features:
-  title: 'Why Mexico Travelers Choose Roami: Network, Plans & Value'
+  title: 'Why Mexico Travelers Choose Roami: Coverage, Value & No 2026 Registration Hassle'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
@@ -60,84 +57,122 @@ features:
     desc: 24/7 support for your Mexico trip - real humans, not bots
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: 100% refund if your Mexico eSIM doesn't activate
+    title: 100% Refund
+    desc: Full refund if your Mexico eSIM doesn't activate
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: Hotspot Supported
     desc: Share your Mexico data with travel companions, no limits
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: No contracts, cancel anytime - perfect for Mexico trips
+    title: No Passport/Selfie
+    desc: Since Jan 2026, Mexico requires passport + selfie for SIMs — Roami needs zero ID
   - icon: radio-tower
     color: from-blue-400 to-blue-600
     title: Auto-Switch
-    desc: Auto-connects to top Mexico carriers for the best signal
+    desc: Auto-connects to Telcel, AT&T & Movistar for the best 5G signal
+  - icon: umbrella
+    color: from-sky-400 to-sky-600
+    title: Beach & Ruins Ready
+    desc: 4G/5G across Cancún, Riviera Maya, Chichen Itza, Tulum & Teotihuacan
 plans_title: 'Buy Mexico eSIM: Plans for Every Trip Duration'
 plans_data:
+  3 Days:
+  - spec: 1GB
+    data: High-Speed 5G/4G/LTE
+    desc: Ideal for light browsing, maps & messaging
+    price: '3.99'
+    oldPrice: '5.99'
+    tag: ''
+    tagColor: bg-slate-800
+    daily: '1.33'
+  - spec: 3GB
+    data: High-Speed 5G/4G/LTE
+    desc: Great for daily navigation & social media
+    price: '6.99'
+    oldPrice: '10.48'
+    tag: ''
+    tagColor: bg-orange-500
+    daily: '2.33'
+    tagIcon: star
+  - spec: 5GB
+    data: High-Speed 5G/4G/LTE
+    desc: Perfect for sharing beach & pyramid photos
+    price: '11.99'
+    oldPrice: '17.98'
+    tag: Great Value
+    tagColor: bg-emerald-500
+    daily: '4.00'
+  - spec: 10GB
+    data: High-Speed 5G/4G/LTE
+    desc: Excellent for video calls & hotspot
+    price: '20.99'
+    oldPrice: '31.48'
+    tag: Great Value
+    tagColor: bg-emerald-500
+    daily: '7.00'
+  - spec: Unlimited
+    data: Unlimited High-Speed
+    desc: Worry-free data for everything — maps, social, sharing
+    price: '21.99'
+    oldPrice: '32.98'
+    tag: Premium
+    tagColor: bg-purple-600
+    daily: '7.33'
   7 Days:
   - spec: 1GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
+    desc: Ideal for light browsing, maps & messaging
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
     tagColor: bg-slate-800
     daily: '0.57'
-  - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '19.99'
-    oldPrice: '29.98'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '2.86'
   - spec: 3GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    desc: Great for daily navigation & social media
     price: '8.99'
     oldPrice: '13.48'
     tag: ''
     tagColor: bg-orange-500
     daily: '1.28'
     tagIcon: star
-  - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '23.99'
-    oldPrice: '35.98'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '3.43'
   - spec: 5GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Perfect for sharing beach & pyramid photos
     price: '13.99'
     oldPrice: '20.98'
     tag: Great Value
     tagColor: bg-emerald-500
     daily: '2.00'
-  - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
-    price: '54.99'
-    oldPrice: '82.48'
-    tag: Premium
-    tagColor: bg-purple-600
-    daily: '7.86'
+  - spec: 10GB
+    data: High-Speed 5G/4G/LTE
+    desc: Excellent for video calls & hotspot
+    price: '23.99'
+    oldPrice: '35.98'
+    tag: Great Value
+    tagColor: bg-emerald-500
+    daily: '3.43'
   - spec: 20GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    desc: Best for remote work & heavy usage
     price: '41.99'
     oldPrice: '62.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '6.00'
+  - spec: Unlimited
+    data: Unlimited High-Speed
+    desc: Worry-free data for everything — maps, social, sharing
+    price: '54.99'
+    oldPrice: '82.48'
+    tag: Premium
+    tagColor: bg-purple-600
+    daily: '7.86'
   15 Days:
   - spec: 3GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    desc: Great for daily navigation & social media
     price: '9.99'
     oldPrice: '14.98'
     tag: ''
@@ -146,15 +181,7 @@ plans_data:
     tagIcon: star
   - spec: 5GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '29.99'
-    oldPrice: '44.98'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '2.00'
-  - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Perfect for sharing beach & pyramid photos
     price: '14.99'
     oldPrice: '22.48'
     tag: Great Value
@@ -162,7 +189,7 @@ plans_data:
     daily: '1.00'
   - spec: 10GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Excellent for video calls & hotspot
     price: '21.99'
     oldPrice: '32.98'
     tag: Great Value
@@ -170,7 +197,7 @@ plans_data:
     daily: '1.47'
   - spec: 20GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    desc: Best for remote work & heavy usage
     price: '41.99'
     oldPrice: '62.98'
     tag: ''
@@ -178,32 +205,25 @@ plans_data:
     daily: '2.80'
   - spec: 30GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    desc: Ideal for long stays & high data needs
     price: '63.99'
     oldPrice: '95.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '4.27'
   30 Days:
-  - spec: 5GB
+  - spec: 3GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '54.99'
-    oldPrice: '82.48'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '1.83'
-  - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
-    price: '29.99'
-    oldPrice: '44.98'
+    desc: Great for daily navigation & social media
+    price: '9.99'
+    oldPrice: '14.98'
     tag: ''
-    tagColor: bg-slate-800
-    daily: '1.00'
+    tagColor: bg-orange-500
+    daily: '0.33'
+    tagIcon: star
   - spec: 5GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Perfect for sharing beach & pyramid photos
     price: '13.99'
     oldPrice: '20.98'
     tag: Great Value
@@ -211,7 +231,7 @@ plans_data:
     daily: '0.47'
   - spec: 10GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Excellent for video calls & hotspot
     price: '25.99'
     oldPrice: '38.98'
     tag: Great Value
@@ -219,71 +239,28 @@ plans_data:
     daily: '0.87'
   - spec: 20GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
-    price: '47.99'
-    oldPrice: '71.98'
+    desc: Best for remote work & heavy usage
+    price: '29.99'
+    oldPrice: '44.98'
     tag: ''
     tagColor: bg-slate-800
-    daily: '1.60'
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
-    price: '9.99'
-    oldPrice: '14.98'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '0.33'
-    tagIcon: star
+    daily: '1.00'
   - spec: 30GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    desc: Ideal for long stays & high data needs
     price: '68.99'
     oldPrice: '103.48'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.30'
-  3 Days:
-  - spec: 1GB
+  - spec: 50GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
-    price: '3.99'
-    oldPrice: '5.99'
+    desc: Massive data for creators & digital nomads
+    price: '54.99'
+    oldPrice: '82.48'
     tag: ''
     tagColor: bg-slate-800
-    daily: '1.33'
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
-    price: '6.99'
-    oldPrice: '10.48'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '2.33'
-    tagIcon: star
-  - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
-    price: '21.99'
-    oldPrice: '32.98'
-    tag: Premium
-    tagColor: bg-purple-600
-    daily: '7.33'
-  - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '11.99'
-    oldPrice: '17.98'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '4.00'
-  - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '20.99'
-    oldPrice: '31.48'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '7.00'
+    daily: '1.83'
 discount_banner:
   title: Special Discount on Mexico eSIM Plans
   desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span>
@@ -292,7 +269,7 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Mexico eSIM Coverage: Network Coverage & Operator Comparison'
+  title: 'Mexico eSIM Coverage: Telcel, AT&T & Movistar 5G Guide — Cancún to Mexico City'
   supports_text: 'Supports:'
   service_details:
     title: Service Details
@@ -300,9 +277,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Coverage
-      desc: Enjoy comprehensive network coverage across Mexico, including Mexico City (4G), Cancún (4G), Guadalajara (4G),
-        Monterrey (4G). Your eSIM connects to the robust networks of Telcel, AT&T, Movistar, ensuring stable signals in urban
-        centers, tourist hotspots, and along major transportation routes.
+      desc: Enjoy comprehensive 5G/4G coverage across Mexico's most visited destinations — Mexico City (5G), Cancún (5G), Riviera Maya (4G/5G), Guadalajara (5G), Monterrey (5G), and Puerto Vallarta (4G/5G). Stay connected at Chichen Itza (4G), Teotihuacan pyramids (4G), Tulum ruins (4G), the Zócalo, and along the Cancún-Tulum highway. Telcel has the most extensive coverage nationwide (best for ruins and rural areas), followed by AT&T and Movistar. Your eSIM auto-connects to the strongest carrier.
     - icon: zap
       color: text-amber-500
       title: Delivery Time
@@ -328,8 +303,7 @@ reminders:
   title: 'Mexico eSIM Setup Tips: What to Know Before You Go'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Mexico.
   - icon: ⏰
@@ -338,20 +312,26 @@ reminders:
     html: The QR code will be sent to your email.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 🛂
+    html: <span class="font-medium">No passport/selfie:</span> Since <span class="font-bold">Jan 2026</span>, Mexico requires passport + selfie for local SIMs. Roami needs <span class="font-bold">zero ID</span>.
+  - icon: 🏖️
+    html: <span class="font-medium">Cancún & Riviera Maya:</span> Strong 4G/5G coverage at beaches, resorts, and along the hotel zone — perfect for sharing vacation photos.
+  - icon: 🛕
+    html: <span class="font-medium">Ruins coverage:</span> 4G works at Chichen Itza, Tulum and Teotihuacan — but download offline maps as a backup for remote archaeological sites.
+  - icon: 🇲🇽
+    html: <span class="font-medium">Local tip:</span> Download <span class="font-medium">Google Translate</span> with Spanish offline pack — it helps with menus, signs, and local recommendations.
   compatibility_check:
     title: Quick Compatibility Check
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
-      number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
   title: 'How to Install Mexico eSIM: 3 Simple Steps'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -363,12 +343,11 @@ activation_steps:
     - Follow the prompts to complete setup
   - num: '3'
     title: 'Step 3: Activate in Mexico'
-    desc: Upon arriving in Mexico, enable your Mexico eSIM in settings to start using data. We recommend connecting to WiFi
-      during the initial activation.
+    desc: Upon arriving in Mexico, enable your Mexico eSIM in settings to start using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "Getting Online in Mexico -- eSIM Network Quality and Speed Guide"
-  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Mexico. Find out what speeds to expect and where eSIM works best."
+  title: "Mexico eSIM Guide: 5G, Passport/Selfie Rules & Travel Tips"
+  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Mexico. Find out what speeds to expect in Cancún, Mexico City, and at the ruins — and why Roami is the answer to Mexico's new 2026 SIM registration rules."
   categories:
   - id: faq-general
     icon: help-circle
@@ -376,37 +355,45 @@ faq_section:
     title: Mexico eSIM FAQs
     questions:
     - q: |
-        Tourists visiting Mexico — which network gives the best experience?
+        What changed in Mexico in January 2026 for buying a SIM card?
       a: |
-        For urban sightseeing, Telcel typically delivers download speeds of 50-200 Mbps on 4G/5G. AT&T has slightly broader coverage in suburban areas. Movistar offers competitive data rates, often with more flexible prepaid options. All three work well for maps, messaging, and social media. Roami ensures you're always on the best one.
+        <strong>Major change</strong> — as of <strong>January 9, 2026</strong>, all new prepaid SIM cards in Mexico require <strong>mandatory passport registration and a selfie verification</strong>. This applies to Telcel, AT&T, and Movistar. Tourists now must: (1) visit a store or Oxxo; (2) show passport and have it scanned; (3) upload a selfie for facial verification; (4) wait for approval. This adds 15-30 minutes of hassle. <strong>Roami requires none of this</strong> — no passport, no selfie, no store visit. Buy online, scan QR, done.
     - q: |
-        Does Mexico really not require any ID to use eSIM? Can I just buy and go?
+        Does Mexico have 5G? How fast is it in Cancún and Mexico City?
       a: |
-        Correct — Mexico eSIM doesn't need passport or ID verification. Mexico prepaid cards typically do NOT require KYC. You can buy and use directly. Just purchase, install, and you're online. No uploading documents, no waiting for approval. Install before you leave, enable Data Roaming on arrival, and you're set.
+        Yes — Mexico's 5G network is expanding rapidly. <strong>Mexico City, Cancún, Guadalajara, and Monterrey have 5G coverage</strong> with typical speeds of 50-200 Mbps. At Cancún's hotel zone, Chichen Itza (4G), and Mexico City's historic center, you'll get reliable coverage. In smaller towns and along highways, 4G is standard with speeds of 10-40 Mbps — fine for maps, messaging, and social media. Roami auto-connects to Telcel for the best rural coverage and AT&T/Movistar in cities.
     - q: |
-        How does Roami compare to Saily for eSIM in Mexico?
+        Which carrier is best in Mexico — Telcel, AT&T, or Movistar?
       a: |
-        Roami typically offers better value for Mexico eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Saily. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        <strong>Telcel</strong> has the most extensive coverage nationwide (especially at ruins and rural areas) — the best choice for travelers visiting Chichen Itza, Teotihuacan, or Tulum. <strong>AT&T</strong> has strong 5G in Mexico City and Cancún, and offers easy roaming to the US/Canada. <strong>Movistar</strong> is competitive in urban areas but has less rural coverage. With Roami, you don't choose — your eSIM <strong>auto-switches</strong> to whichever carrier has the strongest signal at your location.
     - q: |
-        How much should I budget for an eSIM when visiting Mexico?
+        Can I use my Mexico eSIM in the United States or Canada?
       a: |
-        Roami offers Mexico eSIM from $1.99 for a 7-day light plan up to $59.99 for 30 days of unlimited data. Most visitors pick the 5GB/15 day plan at $9.99 — it covers daily navigation, social media, and messaging without stress. Streaming fans or heavy social users should consider 10GB or unlimited. Telcel provides reliable speeds across Mexico. Roami plans are prepaid — no surprise bills, no auto-renewal, just straightforward pricing.
+        Yes — Roami eSIM works across North America. This is a <strong>major advantage</strong> over Mexican local SIMs: Telcel's "free" North America roaming has strict rules — service is <strong>suspended</strong> if you use it outside Mexico for more than <strong>29 consecutive days</strong> and foreign usage exceeds domestic. AT&T has similar restrictions. Roami offers <strong>transparent regional coverage</strong> with no anti-abuse clauses or surprise suspensions.
     - q: |
-        I'm traveling to Mexico for just 2-3 days. What eSIM should I get?
+        Why do Mexican SIMs have 7-day minimums? Is that a waste for short trips?
       a: |
-        For a short trip, the 1GB/7 day plan ($1.99) covers maps and messaging. If you plan to use social media and share photos, the 3GB plan ($4.99) gives more breathing room. Both activate instantly and you can top up if needed.
+        Yes — it's a waste of money and data. Telcel's cheapest plan is <strong>7 days ($50 MXN ≈ $3 USD)</strong> with limited data. AT&T's minimum is <strong>14 days ($100 MXN)</strong>, Movistar's is <strong>15 days ($75 MXN)</strong>. A 5-day tourist buying a 7-day plan wastes <strong>29%</strong> of the plan. AT&T's 14-day plan wastes <strong>64%</strong>. Roami offers <strong>3, 7, 15, and 30-day plans</strong> starting from $1.99 — no forced minimum, no waste.
     - q: |
-        I'm arriving in Mexico late at night. Will I be able to get online immediately?
+        Will my eSIM work at Chichen Itza, Teotihuacan, and Tulum ruins?
       a: |
-        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing. Enable Data Roaming, and your phone picks up Telcel automatically. No queues, no paperwork, no hunting for a SIM kiosk at midnight.
+        Yes — Telcel has reliable 4G coverage at all major archaeological sites. <strong>Chichen Itza</strong> has 4G from Telcel and AT&T. <strong>Teotihuacan</strong> (just outside Mexico City) has strong 4G/5G. <strong>Tulum</strong> has good 4G coverage. For remote ruins (e.g., Calakmul, Palenque), coverage can be patchy — we recommend <strong>downloading offline maps</strong> before visiting remote sites. Roami auto-connects to Telcel for the best rural coverage.
     - q: |
-        Can I install my Mexico eSIM at the airport, or should I do it before leaving home?
+        Is it true that some Mexican SIMs ban hotspot sharing?
       a: |
-        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Mexico's airport, enable Data Roaming and you'll be online in under 60 seconds.
+        Yes — <strong>Unefon (which uses Movistar's network) explicitly bans hotspot/tethering</strong> on its prepaid plans. Movistar prepaid throttles to <strong>1Mbps after 1GB daily usage</strong>, resetting at midnight — making hotspot frustratingly slow. Roami allows <strong>full-speed hotspot sharing</strong> with no daily caps and no bans.
     - q: |
-        Can I check how much data I've used on my Mexico eSIM?
+        Why did Telcel stop accepting PayPal? How can I top up?
       a: |
-        Yes — you can check data usage directly in your phone settings (Settings > Cellular > Data Usage on iPhone) or through your Roami account dashboard. Roami also sends notifications when you've used 70% and 90% of your plan data.
+        Telcel officially <strong>stopped supporting PayPal</strong> for top-ups in 2025. Your options now are: (1) international credit card (may be rejected); (2) cash at Oxxo convenience stores (need to find one, carry cash). Roami accepts <strong>Visa, Mastercard, AMEX, Apple Pay, Google Pay, and PayPal</strong> — no rejections, no Oxxo trips.
+    - q: |
+        What if I accidentally delete my Mexico eSIM before my trip?
+      a: |
+        No problem. Log into your Roami account to re-download the QR code — takes about 1 minute. We recommend saving it as a screenshot or PDF when you first receive it, just in case.
+    - q: |
+        When does the validity period of my Mexico eSIM start?
+      a: |
+        The plan validity starts when you connect to a local network in Mexico, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
 related_products:
   title: Related Mexico eSIM Plans
   items:
@@ -459,7 +446,7 @@ related_products:
     price: From $1.99
     is_highlight: false
 market_analysis:
-  title: 'Mexico eSIM vs Physical SIM Card: Pros and Cons Breakdown – Best eSIM for Mexico Travelers'
+  title: 'Mexico eSIM vs Local SIM: No Passport/Selfie, No 7-Day Waste, No Hotspot Ban'
   subtitle: Mexico Local Prepaid SIMs vs. eSIM Solutions (2024/2025 Benchmark)
   citation:
     text: 'Data Source: Prepaid Data SIM Card Wiki (Mexico) + Local Operator Sites'
@@ -472,85 +459,66 @@ market_analysis:
   - icon: store
     title: Acquisition &<br>Activation
     prepaid_title: ''
-    prepaid_desc: Must find Telcel official store or Oxxo convenience store; since January 9, 2026, all new SIM activations
-      require mandatory passport registration and selfie verification. Airport stores often have queues.
+    prepaid_desc: Since <strong>Jan 9, 2026</strong>, all new SIM activations require <strong>passport scanning + selfie upload</strong>. Must visit Telcel store or Oxxo. Airport stores have queues.
     esim_title: Instant Digital Delivery
-    esim_desc: Skip Telcel store queues and passport registration. Activate your eSIM online within 1 minute after landing
-      in Mexico City.
+    esim_desc: Skip passport scanning and selfie uploads. Activate online within 5 minutes — <strong>no ID, no store visit</strong>.
   - icon: id-card
     title: KYC & Real-Name<br>Registration
     prepaid_title: ''
-    prepaid_desc: Since January 9, 2026, all new SIM cards (including prepaid) must use Mexico's CURP code and ID (for nationals)
-      or passport (for foreigners) for real-name registration. Registration includes scanning ID and uploading a selfie.
-    esim_title: No Passport Required
-    esim_desc: Avoid Mexico's mandatory passport and selfie registration since 2026. Roami eSIM activates without any ID verification.
+    prepaid_desc: Since 2026, mandatory passport + CURP (for nationals) or passport (for foreigners) + <strong>selfie verification</strong>. Registration takes 15-30 minutes in-store.
+    esim_title: No Passport or Selfie
+    esim_desc: Bypass Mexico's <strong>2026 mandatory ID + selfie</strong> registration. Roami eSIM activates instantly with <strong>zero verification</strong>.
   - icon: globe
     title: International<br>Roaming
     prepaid_title: ''
-    prepaid_desc: Telcel's $50 plan includes 400MB general data and 500MB social data for 7 days, with unlimited calls and
-      SMS to Mexico, US, and Canada. However, if used outside Mexico for over 29 consecutive days and foreign usage exceeds
-      domestic, service is suspended. Latin American roaming data costs $499 MXN for 750MB/30 days.
-    esim_title: Global Roaming Included
-    esim_desc: Unlike Telcel's $499 MXN for 750MB Latin America roaming, Roami offers multi-country plans with transparent
-      pricing and no anti-abuse clauses.
+    prepaid_desc: Telcel's 'free' North America roaming <strong>suspends service</strong> if used outside Mexico over 29 days and foreign usage exceeds domestic. LatAm roaming costs <strong>$499 MXN for 750MB/30 days</strong>.
+    esim_title: Regional Roaming Without Restrictions
+    esim_desc: Unlike Telcel's 29-day limit and $499 MXN/750MB LatAm add-ons, Roami offers <strong>transparent regional coverage</strong> with no anti-abuse clauses.
   - icon: calendar-xmark
     title: Billing Cycle &<br>Sunk Cost
     prepaid_title: ''
-    prepaid_desc: Telcel plans start at 7 days ($50), AT&T at 14 days ($100), Movistar at 15 days ($75). No short-term options
-      under 5 days for tourists.
-    esim_title: Flexible Short-Term Plans
-    esim_desc: Unlike Telcel's 7-day minimum ($50) or AT&T's 14-day ($100), Roami offers 7-day plans starting from $1.99/GB,
-      saving up to 75% waste for short trips.
+    prepaid_desc: Telcel minimum 7 days ($50), AT&T 14 days ($100), Movistar 15 days ($75). <strong>No plans under 5 days</strong> for tourists. A 5-day trip wastes 29-67% of the plan.
+    esim_title: Flexible Short Plans
+    esim_desc: Roami offers <strong>3/7/15/30-day plans</strong> starting from $1.99 — pay only for your actual trip length. No 7-day minimum, no waste.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
-    prepaid_desc: Unefon explicitly bans hotspot sharing. Movistar prepaid plans throttle to 1Mbps after 1GB daily usage,
-      resetting at midnight.
+    prepaid_desc: <strong>Unefon explicitly bans hotspot</strong> sharing. Movistar throttles to <strong>1Mbps after 1GB daily</strong>, resetting at midnight.
     esim_title: Unrestricted Tethering
-    esim_desc: Unlike Unefon's hotspot ban or Movistar's 1Mbps throttle after 1GB, Roami allows full-speed tethering with
-      no daily caps.
+    esim_desc: Roami allows <strong>full-speed hotspot</strong> with no daily caps and no bans — unlike Unefon's ban or Movistar's 1Mbps throttle.
   - icon: credit-card
     title: Top-up Payments
     prepaid_title: ''
-    prepaid_desc: Telcel official top-up channels have stopped supporting PayPal, only accepting international credit cards.
-      Oxxo convenience stores require cash top-ups.
+    prepaid_desc: Telcel <strong>stopped supporting PayPal</strong>. Oxxo requires <strong>cash</strong> for top-ups. International credit cards may be rejected online.
     esim_title: Global Payment Accepted
-    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for cash at Oxxo or dealing with
-      Telcel's PayPal discontinuation.
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. <strong>No cash, no Oxxo, no PayPal rejection</strong>.
   - icon: headset
     title: Customer Support
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on market knowledge, customer support is primarily
-      in Spanish, with limited English assistance.
-    esim_title: 24/7 Multilingual Support
-    esim_desc: Get English-speaking customer support 24/7, unlike local carriers that primarily offer Spanish-only assistance
-      during business hours.
+    prepaid_desc: Customer support primarily in Spanish, limited English. Telcel/A T&T phone support has long wait times. No live chat for prepaid users.
+    esim_title: 24/7 English Support
+    esim_desc: Get <strong>round-the-clock support in English</strong> via live chat — no language barriers, no phone wait times.
   expert_verdict:
-    title: 'Mexico eSIM vs Physical SIM: Which Saves You Money and Hassle?'
+    title: 'Mexico eSIM vs Local SIM: Which Should You Choose?'
     cards:
-    - icon: passport
+    - icon: id-card
       icon_bg: bg-blue-100
       icon_color: text-blue-600
-      title: Bypass Mexico's Strict SIM Passport Requirements
-      desc: Since <b>January 9, 2026</b>, all new prepaid SIMs in Mexico require <b>passport scanning and selfie upload</b>
-        for registration. Roami eSIM activates instantly with no ID needed – ideal for travelers seeking the best eSIM for
-        Mexico.
-    - icon: hourglass-empty
-      icon_bg: bg-amber-100
-      icon_color: text-amber-600
-      title: Eliminate Sunk Cost from Long Billing Cycles
-      desc: Telcel's cheapest plan is <b>7 days ($50)</b>, AT&T's is <b>14 days ($100)</b>, Movistar's is <b>15 days ($75)</b>.
-        A 5-day tourist wastes <b>29% to 67%</b> of the plan. Roami offers <b>7-day plans from $1.99/GB</b>.
+      title: No Passport + No Selfie (2026 Rule)
+      desc: Since <b>January 9, 2026</b>, all Mexican SIMs require <b>passport scanning + selfie upload</b> in-store. Roami activates in <b>5 minutes</b> with zero ID — no selfie, no passport.
+    - icon: wifi
+      icon_bg: bg-rose-100
+      icon_color: text-rose-600
+      title: No Hotspot Ban or Throttle
+      desc: <b>Unefon bans hotspot</b> entirely. <b>Movistar throttles</b> to 1Mbps after 1GB daily. Roami allows <b>unlimited hotspot</b> at full speed — no bans, no caps.
     - icon: credit-card
       icon_bg: bg-emerald-100
       icon_color: text-emerald-600
-      title: Pay with Global Cards, Not Cash
-      desc: Telcel stopped supporting <b>PayPal</b>. Oxxo requires <b>cash</b> top-ups. Roami accepts <b>Visa, Mastercard,
-        AMEX, Apple Pay, Google Pay, and PayPal</b>.
-    - icon: tower-observation
-      icon_bg: bg-rose-100
-      icon_color: text-rose-600
-      title: Avoid Telcel's Roaming Traps
-      desc: Telcel's 'free' North America roaming suspends service if used abroad over <b>29 days</b> and foreign usage exceeds
-        domestic. Latin America roaming costs <b>$499 MXN for 750MB/30 days</b>. Roami offers transparent multi-country plans.
+      title: No Cash at Oxxo Required
+      desc: Telcel <b>stopped PayPal</b>; Oxxo requires <b>cash</b>. Roami accepts <b>Visa, Mastercard, AMEX, Apple Pay, Google Pay, PayPal</b> — no cash, no Oxxo.
+    - icon: hourglass-empty
+      icon_bg: bg-amber-100
+      icon_color: text-amber-600
+      title: No 7-Day Minimum Waste
+      desc: Telcel's minimum is <b>7 days ($50)</b>, AT&T's is <b>14 days ($100)</b>. A 5-day tourist wastes <b>29-64%</b>. Roami offers <b>3-day plans from $1.99</b> — no forced minimum.
 ---

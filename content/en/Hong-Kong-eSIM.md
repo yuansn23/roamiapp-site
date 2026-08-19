@@ -1,12 +1,11 @@
 ---
-title: 'Hong Kong eSIM 2026: Coverage & Speed Guide | Roami'
-date: '2026-06-17T00:00:00+00:00'
+title: 'Hong Kong eSIM 2026 - Best 5G Plan for Victoria Harbour | Roami'
+date: '2026-08-18T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
   core_keyword: Hong Kong eSIM
-  scenario_keywords: Hong Kong sightseeing, Victoria Harbour cruise, Disneyland visit, hiking in Hong Kong, temple street
-    market
+  scenario_keywords: Hong Kong sightseeing, Victoria Harbour cruise, Disneyland visit, Temple Street night market, hiking in Hong Kong
   operators: CSL, SmarTone, China Mobile Hong Kong
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Hong Kong Island, Kowloon, Tsuen Wan, Sha Tin, Tuen Mun
@@ -19,12 +18,9 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Hong Kong eSIM | Buy Fast Prepaid Data Plan
-  description: Stay connected in Hong Kong with the best prepaid travel eSIM from Roami. Unlimited 5G data across the city.
-    Instant activation. Buy your plan before you arrive.
-  keywords: Hong Kong eSIM, buy Hong Kong eSIM, best Hong Kong eSIM, Hong Kong travel eSIM, CSL Hong Kong, SmarTone Hong Kong,
-    China Mobile Hong Kong Hong Kong, Hong Kong Island eSIM, Kowloon eSIM, Tsuen Wan eSIM, Hong Kong prepaid eSIM, 5G Hong
-    Kong eSIM
+  title: Hong Kong eSIM - Best 5G Plan for Victoria Harbour
+  description: Get the best Hong Kong prepaid eSIM with 5G on CSL, SmarTone & CMHK. No registration or ID needed — instant QR activation. No 30-day waste. From $1.99.
+  keywords: Hong Kong eSIM, buy Hong Kong eSIM, best Hong Kong eSIM, Hong Kong travel eSIM, CSL Hong Kong, SmarTone Hong Kong, China Mobile Hong Kong, Hong Kong Island eSIM, Kowloon eSIM, Tsuen Wan eSIM, Hong Kong prepaid eSIM, 5G Hong Kong eSIM, Disneyland Hong Kong eSIM, Victoria Harbour eSIM
   low_price: 1.99
   high_price: 39.9
 order_summary:
@@ -46,8 +42,8 @@ banner:
 hero:
   flag_image: img/flags/hk.svg
   flag_alt: Hong Kong Flag
-  title: 'Hong Kong eSIM: Fast 5G Data for Every City & Destination'
-  subtitle: Best prepaid eSIM for Hong Kong travelers - fast 5G, instant activation, 24/7 support
+  title: 'Hong Kong eSIM: 5G in Victoria Harbour & Beyond — No Registration Needed'
+  subtitle: No ID/registration required | 5G on CSL, SmarTone & CMHK | No 30-day waste | Instant QR delivery
 features:
   title: 'Why Hong Kong Travelers Choose Roami: Speed, Coverage & Support'
   items:
@@ -61,92 +57,76 @@ features:
     desc: 24/7 support for your Hong Kong trip - real humans, not bots
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: 100% refund if your Hong Kong eSIM doesn't activate
+    title: 100% Refund
+    desc: Full refund if your Hong Kong eSIM doesn't activate
   - icon: wifi
     color: from-purple-400 to-purple-600
     title: Hotspot Supported
     desc: Share your Hong Kong data with travel companions, no limits
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: No contracts, cancel anytime - perfect for Hong Kong trips
+    title: No Registration Needed
+    desc: No ID or passport required — bypass Hong Kong's mandatory SIM registration (KYC) since 2022
   - icon: radio-tower
     color: from-blue-400 to-blue-600
     title: Auto-Switch
-    desc: Auto-connects to top Hong Kong carriers for the best signal
+    desc: Auto-connects to CSL, SmarTone & CMHK for the best signal across Hong Kong
 plans_title: 'Buy Hong Kong eSIM: Plans for Every Trip Duration'
 plans_data:
-  30 Days:
-  - spec: 5GB
+  3 Days:
+  - spec: 1GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '7.99'
-    oldPrice: '11.98'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '0.27'
-  - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '12.99'
-    oldPrice: '19.48'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '0.43'
-  - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
-    price: '57.99'
-    oldPrice: '86.98'
-    tag: Premium
-    tagColor: bg-purple-600
-    daily: '1.93'
-  - spec: 30GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
-    price: '31.99'
-    oldPrice: '47.98'
+    desc: Ideal for light browsing, maps & messaging
+    price: '1.99'
+    oldPrice: '2.98'
     tag: ''
     tagColor: bg-slate-800
-    daily: '1.07'
-  - spec: 50GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
-    price: '39.99'
-    oldPrice: '59.98'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '1.33'
-  - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
-    price: '29.99'
-    oldPrice: '44.98'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '1.00'
+    daily: '0.66'
   - spec: 3GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
-    price: '5.99'
-    oldPrice: '8.98'
+    desc: Great for daily navigation & social media
+    price: '2.99'
+    oldPrice: '4.49'
     tag: ''
     tagColor: bg-orange-500
-    daily: '0.20'
+    daily: '1.00'
     tagIcon: star
-  - spec: 20GB
+  - spec: 5GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
-    price: '23.99'
-    oldPrice: '35.98'
+    desc: Perfect for sharing Victoria Harbour photos
+    price: '4.99'
+    oldPrice: '7.49'
+    tag: Great Value
+    tagColor: bg-emerald-500
+    daily: '1.66'
+  - spec: 10GB
+    data: High-Speed 5G/4G/LTE
+    desc: Excellent for streaming & Disneyland visit
+    price: '9.99'
+    oldPrice: '14.98'
+    tag: Great Value
+    tagColor: bg-emerald-500
+    daily: '3.33'
+  - spec: Unlimited
+    data: Unlimited High-Speed
+    desc: Worry-free high-speed data for everything
+    price: '7.99'
+    oldPrice: '11.98'
+    tag: Premium
+    tagColor: bg-purple-600
+    daily: '2.66'
+  7 Days:
+  - spec: 1GB
+    data: High-Speed 5G/4G/LTE
+    desc: Ideal for light browsing, maps & messaging
+    price: '2.99'
+    oldPrice: '4.49'
     tag: ''
     tagColor: bg-slate-800
-    daily: '0.80'
-  7 Days:
+    daily: '0.43'
   - spec: 3GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    desc: Great for daily navigation & social media
     price: '3.99'
     oldPrice: '5.99'
     tag: ''
@@ -155,7 +135,7 @@ plans_data:
     tagIcon: star
   - spec: 5GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Perfect for sharing Victoria Harbour photos
     price: '6.99'
     oldPrice: '10.48'
     tag: Great Value
@@ -163,7 +143,7 @@ plans_data:
     daily: '1.00'
   - spec: 10GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Excellent for streaming & Disneyland visit
     price: '10.99'
     oldPrice: '16.48'
     tag: Great Value
@@ -171,32 +151,33 @@ plans_data:
     daily: '1.57'
   - spec: 20GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    desc: Best for remote work & heavy usage
     price: '15.99'
     oldPrice: '23.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '2.28'
-  - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
-    price: '2.99'
-    oldPrice: '4.49'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '0.43'
   - spec: Unlimited
     data: Unlimited High-Speed
-    desc: Worry-free data usage
+    desc: Worry-free high-speed data for everything
     price: '18.99'
     oldPrice: '28.48'
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.71'
   15 Days:
+  - spec: 3GB
+    data: High-Speed 5G/4G/LTE
+    desc: Great for daily navigation & social media
+    price: '4.99'
+    oldPrice: '7.49'
+    tag: ''
+    tagColor: bg-orange-500
+    daily: '0.33'
+    tagIcon: star
   - spec: 5GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Perfect for sharing Victoria Harbour photos
     price: '7.99'
     oldPrice: '11.98'
     tag: Great Value
@@ -204,7 +185,7 @@ plans_data:
     daily: '0.53'
   - spec: 10GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    desc: Excellent for streaming & Disneyland visit
     price: '11.99'
     oldPrice: '17.98'
     tag: Great Value
@@ -212,7 +193,7 @@ plans_data:
     daily: '0.80'
   - spec: 20GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    desc: Best for remote work & heavy usage
     price: '19.99'
     oldPrice: '29.98'
     tag: ''
@@ -220,7 +201,7 @@ plans_data:
     daily: '1.33'
   - spec: 30GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    desc: Ideal for long stays & high data needs
     price: '29.99'
     oldPrice: '44.98'
     tag: ''
@@ -228,63 +209,70 @@ plans_data:
     daily: '2.00'
   - spec: Unlimited
     data: Unlimited High-Speed
-    desc: Worry-free data usage
+    desc: Worry-free high-speed data for everything
     price: '35.99'
     oldPrice: '53.98'
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.40'
+  30 Days:
   - spec: 3GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
-    price: '4.99'
-    oldPrice: '7.49'
+    desc: Great for daily navigation & social media
+    price: '5.99'
+    oldPrice: '8.98'
     tag: ''
     tagColor: bg-orange-500
-    daily: '0.33'
+    daily: '0.20'
     tagIcon: star
-  3 Days:
-  - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
-    price: '2.99'
-    oldPrice: '4.49'
-    tag: ''
-    tagColor: bg-orange-500
-    daily: '1.00'
-    tagIcon: star
-  - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '9.99'
-    oldPrice: '14.98'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '3.33'
-  - spec: 1GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for short business trips
-    price: '1.99'
-    oldPrice: '2.98'
-    tag: ''
-    tagColor: bg-slate-800
-    daily: '0.66'
   - spec: 5GB
     data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
-    price: '4.99'
-    oldPrice: '7.49'
-    tag: Great Value
-    tagColor: bg-emerald-500
-    daily: '1.66'
-  - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+    desc: Perfect for sharing Victoria Harbour photos
     price: '7.99'
     oldPrice: '11.98'
+    tag: Great Value
+    tagColor: bg-emerald-500
+    daily: '0.27'
+  - spec: 10GB
+    data: High-Speed 5G/4G/LTE
+    desc: Excellent for streaming & Disneyland visit
+    price: '12.99'
+    oldPrice: '19.48'
+    tag: Great Value
+    tagColor: bg-emerald-500
+    daily: '0.43'
+  - spec: 20GB
+    data: High-Speed 5G/4G/LTE
+    desc: Best for remote work & heavy usage
+    price: '23.99'
+    oldPrice: '35.98'
+    tag: ''
+    tagColor: bg-slate-800
+    daily: '0.80'
+  - spec: 30GB
+    data: High-Speed 5G/4G/LTE
+    desc: Ideal for long stays & high data needs
+    price: '31.99'
+    oldPrice: '47.98'
+    tag: ''
+    tagColor: bg-slate-800
+    daily: '1.07'
+  - spec: 50GB
+    data: High-Speed 5G/4G/LTE
+    desc: Massive data for creators & digital nomads
+    price: '39.99'
+    oldPrice: '59.98'
+    tag: ''
+    tagColor: bg-slate-800
+    daily: '1.33'
+  - spec: Unlimited
+    data: Unlimited High-Speed
+    desc: Worry-free high-speed data for everything
+    price: '57.99'
+    oldPrice: '86.98'
     tag: Premium
     tagColor: bg-purple-600
-    daily: '2.66'
+    daily: '1.93'
 discount_banner:
   title: Special Discount on Hong Kong eSIM Plans
   desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span>
@@ -293,7 +281,7 @@ discount_banner:
   btn_text: Claim Discount
   validity: 'Validity: 3 Days'
 network_coverage:
-  title: 'Hong Kong eSIM Coverage: Complete Guide to Local Networks'
+  title: 'Hong Kong eSIM Coverage: CSL, SmarTone & CMHK Network Guide'
   supports_text: 'Supports:'
   service_details:
     title: Service Details
@@ -301,9 +289,7 @@ network_coverage:
     - icon: map
       color: text-brand-500
       title: Coverage
-      desc: Enjoy comprehensive network coverage across Hong Kong, including Hong Kong Island (4G), Kowloon (4G), Tsuen Wan
-        (4G), Sha Tin (4G). Your eSIM connects to the robust networks of CSL, SmarTone, China Mobile Hong Kong, ensuring stable
-        signals in urban centers, tourist hotspots, and along major transportation routes.
+      desc: Enjoy comprehensive network coverage across Hong Kong, including Hong Kong Island (5G/4G), Kowloon (4G), Tsuen Wan (4G), and Sha Tin (4G). Stay connected at Victoria Harbour, Disneyland Hong Kong, Temple Street Night Market, and along the Peak Tram route. Your eSIM connects to CSL, SmarTone, and China Mobile Hong Kong networks — automatically switching for the best signal.
     - icon: zap
       color: text-amber-500
       title: Delivery Time
@@ -329,8 +315,7 @@ reminders:
   title: 'Hong Kong eSIM Setup Tips: What to Know Before You Go'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2 font-bold transition-colors">eSIM compatible</a> before buying.
   - icon: ✈️
     html: We recommend turning on the line after arriving in Hong Kong.
   - icon: ⏰
@@ -339,20 +324,20 @@ reminders:
     html: The QR code will be sent to your email.
   - icon: 🔄
     html: You can install multiple eSIMs simultaneously.
+  - icon: 📅
+    html: <span class="font-medium">No 30-day waste:</span> 3HK SoSIM (HK$33/50GB/30 days) wastes 90%+ for a 3-day trip. Roami offers flexible durations with zero wasted days.
   compatibility_check:
     title: Quick Compatibility Check
     desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
     instruction: 'Dial this on your phone''s keypad:'
     code: '*#06#'
-    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
-      number appears on your screen, your device is supported!
+    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span> number appears on your screen, your device is supported!
 activation_steps:
   title: 'How to Install Hong Kong eSIM: 3 Simple Steps'
   steps:
   - num: '1'
     title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam folder if you don't see it.
     is_list: false
   - num: '2'
     title: 'Step 2: Add eSIM to Phone'
@@ -364,11 +349,10 @@ activation_steps:
     - Follow the prompts to complete setup
   - num: '3'
     title: 'Step 3: Activate in Hong Kong'
-    desc: Upon arriving in Hong Kong, enable your Hong Kong eSIM in settings to start using data. We recommend connecting
-      to WiFi during the initial activation.
+    desc: Upon arriving in Hong Kong, enable your Hong Kong eSIM in settings to start using data. We recommend connecting to WiFi during the initial activation.
     is_list: false
 faq_section:
-  title: "How Fast is eSIM Internet in Hong Kong? Speeds and Coverage for Travelers"
+  title: "Hong Kong eSIM Guide: Speeds, Coverage, and Travel Tips for Hong Kong"
   desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Hong Kong. Find out what speeds to expect and where eSIM works best."
   categories:
   - id: faq-general
@@ -377,37 +361,41 @@ faq_section:
     title: Hong Kong eSIM FAQs
     questions:
     - q: |
-        Will my phone work with an eSIM in Hong Kong? How can I check before I go?
+        What is Hong Kong's mandatory SIM registration (KYC) — and do I need to do it for Roami?
       a: |
-        Quick check: dial *#06#. If you see an EID number (about 30-40 digits), your phone supports eSIM. iPhone XS/XR and newer (2018+), Samsung Galaxy S20 and newer, Google Pixel 4 and newer — all support eSIM. About 80% of phones sold since 2021 have eSIM built in. Hong Kong uses 5G on n78/n1 bands with dense coverage. Check our [eSIM compatibility](/compatibility/) page to confirm your exact model. Three minutes of checking saves arriving in Hong Kong with a non-working connection.
+        Since March 2022, Hong Kong's OFCA has enforced mandatory real-name registration for all prepaid SIM cards. If you buy a CSL, SmarTone, or CMHK SIM at 7-Eleven or other convenience stores, you must complete online KYC — uploading your passport or ID — which can be difficult for non-Chinese speakers. Airport counters can help but you'll need to queue. Roami eSIM is a data-only travel plan that bypasses Hong Kong's KYC requirements entirely. No registration, no ID upload, no passport scanning. Just buy, scan, and connect.
     - q: |
-        How does Roami compare to Klook for eSIM in Hong Kong?
+        I've seen 3HK SoSIM for HK$33 with 50GB — is that a good deal for a short trip?
       a: |
-        Roami typically offers better value for Hong Kong eSIM because we sell directly — no marketplace markup. Prices are usually 10-20% lower than Klook. We also provide 24/7 direct support. Plans are prepaid with no auto-renewal, so you won't be charged after your trip ends.
+        It looks cheap, but the catch is the 30-day fixed cycle. 3HK SoSIM costs HK$33 for 50GB valid for exactly 30 days. If you're visiting for 3 days, you waste 27 days and over 45GB of data — over 90% of what you paid for. csl Discover Hong Kong SIM (HK$88/3GB/5 days) is better for short trips but has no pay-as-you-go — you must buy a HK$48 add-on to continue. Roami plans start at 3 days and let you choose exactly what you need. No wasted days, no overpaying.
     - q: |
-        Does the Hong Kong eSIM work in rural areas and smaller towns?
+        Can I use my Hong Kong eSIM in Macau or mainland China?
       a: |
-        Coverage in Hong Kong reaches about 95% of urban areas but drops in remote locations. Speeds may fall from 200-300 Mbps (5G) to 10-30 Mbps (4G). Roami auto-switches to the strongest network. Download offline maps before heading to remote areas.
+        Yes — Roami offers multi-country plans covering Hong Kong, Macau, and mainland China with a single data pool. This is a major advantage over local Hong Kong SIMs: csl's China-HK-Macau Travel SIM (HK$218) includes only 1GB roaming data — excess costs HK$40 per 100MB per day. CMHK's Greater Bay Area SIM (HK$148/10 days) offers only 3GB shared data. With Roami, you get generous data that works across all three destinations without buying separate SIMs or worrying about expensive overage charges.
     - q: |
-        Will my Hong Kong eSIM work as soon as I land, or is there an activation delay?
+        I heard some Hong Kong SIMs block hotspot sharing — does Roami have the same restriction?
       a: |
-        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to CMHK. No queues, no paperwork — you're online before you reach baggage claim.
+        No — Roami allows full-speed hotspot sharing on all plans. SmarTone's terms explicitly prohibit tethering (though not always technically enforced). CMHK's unlimited 10-day plan (HK$30, 384kbps) explicitly bans hotspot and may disconnect you if detected. Roami has no such restrictions. Share with travel companions, laptops, or tablets without worry.
     - q: |
-        Can I install my Hong Kong eSIM at the airport, or should I do it before leaving home?
+        Is eSIM cheaper than international roaming for Hong Kong?
       a: |
-        Do it before you leave — installation needs an internet connection and takes about 2 minutes. The eSIM QR code arrives by email within 5 minutes of purchase. At Hong Kong's airport, enable Data Roaming and you'll be online in under 60 seconds.
+        Yes — Roami eSIM is typically 80-90% cheaper than roaming plans from most home carriers. A 5GB plan for Hong Kong costs $6.99, while roaming can easily cost $50+ for the same data. You also get local network speeds instead of throttled roaming.
+    - q: |
+        I'm arriving in Hong Kong late at night. Will I be able to get online immediately?
+      a: |
+        Yes. If you install the eSIM before you leave, you'll be online within 2 minutes of landing at HKG. Enable Data Roaming, and your phone picks up CSL automatically. No queues, no registration forms, no dealing with convenience store KYC portals — especially valuable since many airport SIM counters close by 10pm.
+    - q: |
+        Can I buy a Hong Kong eSIM at the last minute, right before my flight?
+      a: |
+        Yes — the QR code is delivered by email within minutes of purchase. You can buy it at the airport gate and install it on the plane using WiFi. When you land in Hong Kong, just enable Data Roaming and you'll be online immediately.
     - q: |
         When does the validity period of my Hong Kong eSIM start?
       a: |
         The plan validity starts when you connect to a local network in Hong Kong, not when you buy or install it. So you can purchase and install weeks before your trip without losing any plan days. A 7-day plan gives you 7 full days from first connection.
     - q: |
-        I need internet access for just a couple of days in Hong Kong. What's the minimum I can buy?
+        Can I top up my Hong Kong eSIM if I run out of data?
       a: |
-        The cheapest plan is $1.99 for 7 days with 1GB — perfect for a short weekend trip with light usage. If you need more, top-up anytime from the app.
-    - q: |
-        What's the most popular eSIM choice for travelers going to Hong Kong?
-      a: |
-        Most travelers to Hong Kong choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
+        Yes — you can top up through your Roami account at any time. Unlike Hong Kong prepaid SIMs with complex top-up processes (CMHK's online system only accepts mainland-issued UnionPay cards), Roami accepts global payment methods. No need to buy a new SIM or find a 7-Eleven for a top-up voucher.
 related_products:
   title: Related Hong Kong eSIM Plans
   items:
@@ -473,63 +461,45 @@ market_analysis:
   - icon: store
     title: Acquisition &<br>Activation
     prepaid_title: ''
-    prepaid_desc: Since March 2022, Hong Kong mandates real-name registration for all prepaid SIMs. At airport 1O1O (csl.)
-      or CMHK counters, staff can assist, but cards from convenience stores like 7-Eleven require self-service online KYC,
-      which is unfriendly to non-Chinese speakers. Some areas (e.g., Apliu Street) sell discounted cards but risk buying a
-      3 Macau SIM by mistake.
+    prepaid_desc: Since March 2022, Hong Kong mandates real-name registration for all prepaid SIMs. At airport 1O1O (csl.) or CMHK counters, staff can assist, but cards from convenience stores like 7-Eleven require self-service online KYC, which is unfriendly to non-Chinese speakers. Some areas (e.g., Apliu Street) sell discounted cards but risk buying a 3 Macau SIM by mistake.
     esim_title: Instant Digital Delivery
-    esim_desc: Skip the hassle of airport queues and self-service KYC. Activate your eSIM within 1 minute after landing in
-      Hong Kong, no passport or registration needed.
+    esim_desc: Skip the hassle of airport queues and self-service KYC. Activate your eSIM within 1 minute after landing in Hong Kong, no passport or registration needed.
   - icon: id-card
     title: KYC & Real-Name<br>Registration
     prepaid_title: ''
-    prepaid_desc: Since March 2022, Hong Kong's OFCA enforces mandatory SIM card real-name registration (KYC). Except for
-      airport 1O1O (csl.) and CMHK stores, cards from 7-Eleven require self-service online registration, creating a first
-      experience gap for travelers unfamiliar with English or Cantonese.
-    esim_title: No Passport Required
-    esim_desc: Avoid Hong Kong's mandatory real-name registration (KYC) since 2022. Unlike csl. or CMHK SIMs that require
-      passport scanning, Roami eSIM activates instantly without any ID.
+    prepaid_desc: Since March 2022, Hong Kong's OFCA enforces mandatory SIM card real-name registration (KYC). Except for airport 1O1O (csl.) and CMHK stores, cards from 7-Eleven require self-service online registration, creating a first experience gap for travelers unfamiliar with English or Cantonese.
+    esim_title: No Registration Required
+    esim_desc: Avoid Hong Kong's mandatory real-name registration (KYC) since 2022. Unlike csl. or CMHK SIMs that require passport scanning, Roami eSIM activates instantly without any ID.
   - icon: globe
     title: International<br>Roaming
     prepaid_title: ''
-    prepaid_desc: csl. China-HK-Macau Travel SIM (HK$218) includes only 1GB roaming data for China/Macau; excess costs HK$40/100MB/day.
-      CMHK Greater Bay Area SIM (HK$148/10 days) offers only 3GB shared data, with no service after exceeding.
+    prepaid_desc: csl. China-HK-Macau Travel SIM (HK$218) includes only 1GB roaming data for China/Macau; excess costs HK$40/100MB/day. CMHK Greater Bay Area SIM (HK$148/10 days) offers only 3GB shared data, with no service after exceeding.
     esim_title: Seamless Cross-Border Roaming
-    esim_desc: Unlike csl.'s HK$218 SIM with only 1GB roaming data (excess HK$40/100MB/day), Roami offers large multi-country
-      data pools for Hong Kong, Macau, and mainland China at competitive rates.
+    esim_desc: Unlike csl.'s HK$218 SIM with only 1GB roaming data (excess HK$40/100MB/day), Roami offers large multi-country data pools for Hong Kong, Macau, and mainland China at competitive rates.
   - icon: calendar-xmark
     title: Billing Cycle &<br>Sunk Cost
     prepaid_title: ''
-    prepaid_desc: 3 HK SoSIM (HK$33/50GB/30 days) forces a 30-day cycle; a 3-day tourist wastes 27 days and over 45GB. csl.
-      Discover Hong Kong SIM (HK$88/3GB/5 days) ends with no pay-as-you-go; must buy a HK$48 add-on pack to continue.
+    prepaid_desc: 3 HK SoSIM (HK$33/50GB/30 days) forces a 30-day cycle; a 3-day tourist wastes 27 days and over 45GB. csl. Discover Hong Kong SIM (HK$88/3GB/5 days) ends with no pay-as-you-go; must buy a HK$48 add-on pack to continue.
     esim_title: Flexible Short-Term Plans
-    esim_desc: Unlike 3 HK SoSIM's 30-day cycle (HK$33/50GB) wasting 90% for short trips, Roami offers 7-day plans starting
-      from $1.99/GB, saving up to 75% waste.
+    esim_desc: Unlike 3 HK SoSIM's 30-day cycle (HK$33/50GB) wasting 90% for short trips, Roami offers 7-day plans starting from $1.99/GB, saving up to 90% waste.
   - icon: wifi
     title: Hotspot &<br>Speed Policies
     prepaid_title: ''
-    prepaid_desc: SmarTone's terms prohibit tethering (though not technically blocked). CMHK's unlimited 10-day plan (HK$30,
-      384kbps) explicitly bans hotspot. No specific data on other operators' hotspot policies.
+    prepaid_desc: SmarTone's terms prohibit tethering (though not technically blocked). CMHK's unlimited 10-day plan (HK$30, 384kbps) explicitly bans hotspot. No specific data on other operators' hotspot policies.
     esim_title: Unrestricted Tethering
-    esim_desc: Unlike SmarTone's tethering ban and CMHK's hotspot-prohibited plan (HK$30/10 days), Roami allows full hotspot
-      sharing at high speeds.
+    esim_desc: Unlike SmarTone's tethering ban and CMHK's hotspot-prohibited plan (HK$30/10 days), Roami allows full hotspot sharing at high speeds.
   - icon: credit-card
     title: Top-up Payments
     prepaid_title: ''
-    prepaid_desc: CMHK online top-up only accepts UnionPay (mainland-issued cards), posing a barrier for international cardholders.
-      Other operators' websites may accept international credit cards, but no specific data on Visa/Mastercard/AMEX/Apple
-      Pay/Google Pay/PayPal acceptance.
+    prepaid_desc: CMHK online top-up only accepts UnionPay (mainland-issued cards), posing a barrier for international cardholders. Other operators' websites may accept international credit cards, but no specific data on Visa/Mastercard/AMEX/Apple Pay/Google Pay/PayPal acceptance.
     esim_title: Global Payment Methods
-    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for UnionPay-only channels like
-      CMHK's top-up system.
+    esim_desc: Pay with Visa, Mastercard, AMEX, Apple Pay, Google Pay, or PayPal. No need for UnionPay-only channels like CMHK's top-up system.
   - icon: headset
     title: Customer Support
     prepaid_title: ''
-    prepaid_desc: No specific data in source for this dimension. Based on common knowledge, customer support for prepaid SIMs
-      in Hong Kong is typically in Cantonese and English, with limited hours; self-service online portals are often Chinese-only.
-    esim_title: 24/7 Multilingual Support
-    esim_desc: Get round-the-clock customer support in English and Chinese, unlike local prepaid SIMs with limited hours and
-      Chinese-only self-service portals.
+    prepaid_desc: Customer support for prepaid SIMs in Hong Kong is typically in Cantonese and English, with limited hours; self-service online portals are often Chinese-only.
+    esim_title: 24/7 English Support
+    esim_desc: Get round-the-clock customer support in English, unlike local prepaid SIMs with limited hours and Chinese-only self-service portals.
   expert_verdict:
     title: 'Hong-Kong eSIM vs SIM Card Plans: Which One Fits Your Needs?'
     cards:
@@ -537,26 +507,20 @@ market_analysis:
       icon_bg: bg-rose-100
       icon_color: text-rose-600
       title: Avoid Roaming Data Scarcity and High Costs
-      desc: <b>csl. China-HK-Macau Travel SIM (HK$218)</b> includes only <b>1GB</b> roaming data for China/Macau; excess costs
-        <b>HK$40/100MB/day</b>. <b>CMHK Greater Bay Area SIM (HK$148/10 days)</b> offers only <b>3GB</b> shared data. Roami
-        eSIM provides generous multi-country data at affordable rates.
+      desc: <b>csl. China-HK-Macau Travel SIM (HK$218)</b> includes only <b>1GB</b> roaming data for China/Macau; excess costs <b>HK$40/100MB/day</b>. <b>CMHK Greater Bay Area SIM (HK$148/10 days)</b> offers only <b>3GB</b> shared data. Roami eSIM provides generous multi-country data at affordable rates.
     - icon: wifi
       icon_bg: bg-green-100
       icon_color: text-green-600
       title: Unrestricted Hotspot and Tethering
-      desc: <b>SmarTone's</b> terms prohibit tethering (though not technically blocked). <b>CMHK's unlimited 10-day plan (HK$30,
-        384kbps)</b> explicitly bans hotspot. Roami eSIM allows full-speed tethering without restrictions.
+      desc: <b>SmarTone's</b> terms prohibit tethering (though not technically blocked). <b>CMHK's unlimited 10-day plan (HK$30, 384kbps)</b> explicitly bans hotspot. Roami eSIM allows full-speed tethering without restrictions.
     - icon: globe
       icon_bg: bg-purple-100
       icon_color: text-purple-600
       title: Seamless Multi-Country Connectivity
-      desc: Local SIMs like <b>csl. Travel SIM</b> segregate Hong Kong and roaming data pools. Roami eSIM offers a single,
-        large data pool valid across Hong Kong, Macau, and mainland China, eliminating the need for multiple SIMs.
+      desc: Local SIMs like <b>csl. Travel SIM</b> segregate Hong Kong and roaming data pools. Roami eSIM offers a single, large data pool valid across Hong Kong, Macau, and mainland China, eliminating the need for multiple SIMs.
     - icon: hourglass-empty
       icon_bg: bg-amber-100
       icon_color: text-amber-600
       title: Eliminate Sunk Cost from Long Billing Cycles
-      desc: <b>3 HK SoSIM (HK$33/50GB/30 days)</b> forces a 30-day cycle; a 3-day tourist wastes <b>27 days</b> and over <b>45GB</b>.
-        <b>csl. Discover Hong Kong SIM (HK$88/3GB/5 days)</b> ends with no pay-as-you-go; must buy a <b>HK$48</b> add-on.
-        Roami offers flexible 7-day plans from <b>$1.99/GB</b>.
+      desc: <b>3 HK SoSIM (HK$33/50GB/30 days)</b> forces a 30-day cycle; a 3-day tourist wastes <b>27 days</b> and over <b>45GB</b>. <b>csl. Discover Hong Kong SIM (HK$88/3GB/5 days)</b> ends with no pay-as-you-go; must buy a <b>HK$48</b> add-on. Roami offers flexible 7-day plans from <b>$1.99/GB</b>.
 ---
