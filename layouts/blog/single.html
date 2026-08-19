@@ -3,7 +3,7 @@
 <head>
     {{ partial "head.html" . }}
     <link rel="canonical" href="{{ .Permalink }}">
-    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Open Graph / Twitter Card -->
     <meta property="og:title" content="{{ .Title }}">
     <meta property="og:description" content="{{ .Description | default (.Summary | plainify | truncate 160) }}">
@@ -446,6 +446,12 @@
             align-items: start;
         }
 
+        /* 关键修复：grid 子项默认 min-width:auto 会让宽表格（如 11 列价格对比表）
+           把正文列撑开、整页变宽；设为 0 后正文列可收缩，宽表格由自身 overflow-x:auto 横向滚动 */
+        .two-columns > * {
+            min-width: 0;
+        }
+
         @media (max-width: 1024px) {
             .two-columns {
                 grid-template-columns: 1fr;
@@ -673,14 +679,19 @@
         </h3>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {{ range $randomPosts }}
+            {{/* 兼容：数据里的 url 字段可能不带语言前缀，这里统一按当前语言补全 */}}
+            {{ $relatedLink := .RelPermalink }}
+            {{ if and (ne $.Site.LanguagePrefix "") (not (hasPrefix $relatedLink $.Site.LanguagePrefix)) }}
+                {{ $relatedLink = printf "%s%s" $.Site.LanguagePrefix $relatedLink }}
+            {{ end }}
             <div class="related-card bg-white rounded-xl overflow-hidden shadow-sm border border-slate-200 hover:shadow-md transition">
                 {{ if .Params.image }}
-                <a href="{{ .Permalink }}">
+                <a href="{{ $relatedLink }}">
                     <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-full h-40 object-cover">
                 </a>
                 {{ end }}
                 <div class="p-4">
-                    <h4 class="text-lg font-bold text-slate-900 line-clamp-2"><a href="{{ .Permalink }}" class="hover:text-blue-600">{{ .Title }}</a></h4>
+                    <h4 class="text-lg font-bold text-slate-900 line-clamp-2"><a href="{{ $relatedLink }}" class="hover:text-blue-600">{{ .Title }}</a></h4>
                 </div>
             </div>
             {{ end }}

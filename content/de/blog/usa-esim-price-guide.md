@@ -2,7 +2,7 @@
 title: "USA eSIM Preis-Leitfaden: Tarife & Kosten vergleichen"
 description: "USA eSIM Preise von 3-80 USD vergleichen. Günstige Pakete für jede Reisedauer. Mit Roami automatisch sparen. Jetzt vergleichen!"
 keywords: ["USA eSIM Preis-Leitfaden", "günstigste eSIM für USA-Reisen", "USA eSIM unbegrenzter Datentarif", "USA eSIM Kostenvergleich", "USA eSIM Rabattcode"]
-url: "/blog/usa-esim-price-guide/"
+
 date: 2026-08-11T00:00:00Z
 lastmod: 2026-08-11T00:00:00Z
 author: "Roami Team"

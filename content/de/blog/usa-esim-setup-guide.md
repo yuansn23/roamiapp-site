@@ -2,7 +2,6 @@
 title: "USA eSIM Installation: Anleitung für iPhone und Android"
 description: "USA eSIM auf iPhone & Android einrichten per QR-Code oder manuell. In 2 Min. aktiviert mit Roami. Jetzt einrichten!"
 keywords: ["USA eSIM Setup-Anleitung", "Wie installiere ich eine USA eSIM", "USA eSIM Aktivierung iPhone", "USA eSIM kompatible Geräte", "USA eSIM APN Einstellungen"]
-url: "/blog/usa-esim-setup-guide/"
 date: 2026-08-11T00:00:00Z
 lastmod: 2026-08-11T00:00:00Z
 author: "Roami Team"

@@ -2,7 +2,6 @@
 title: "USA eSIM mit Telefonnummer: Anbieter und Tarife"
 description: "USA eSIM mit Telefonnummer: Anbieter für Anrufe & SMS im Vergleich. Roami mit US-Nummern-Option. Günstige Tarife. Jetzt vergleichen!"
 keywords: ["USA eSIM mit Telefonnummer", "USA eSIM Telefonnummer", "US Nummer eSIM", "USA eSIM mit Rufnummer", "eSIM USA mit US Nummer"]
-url: "/blog/usa-esim-with-phone-number/"
 date: 2026-08-11T00:00:00Z
 lastmod: 2026-08-11T00:00:00Z
 author: "Roami Team"

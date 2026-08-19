@@ -2,7 +2,6 @@
 title: "Beste USA eSIM im Vergleich: Welche wirklich kaufen?"
 description: "USA eSIM Anbieter im Ranking: Airalo, Holafly, Nomad und Roami vergleichen. Netze, Preise und Bewertungen. Finden Sie den Testsieger."
 keywords: ["beste eSIM für USA-Reisen", "USA eSIM Vergleich", "günstigste eSIM für USA-Reisen", "beste unbegrenzte Daten-eSIM USA", "USA eSIM Reddit Empfehlungen"]
-url: "/blog/usa-esim-ranking-comparison-2026/"
 date: 2026-08-11T00:00:00Z
 lastmod: 2026-08-11T00:00:00Z
 author: "Roami Team"

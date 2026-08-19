@@ -2,7 +2,6 @@
 title: "USA eSIM vs. Physische SIM: Der große Vergleich"
 description: "USA eSIM vs. SIM-Karte vs. WiFi vs. Roaming: Kosten und Abdeckung im Vergleich. Roami wechselt automatisch zwischen allen US-Netzen."
 keywords: ["USA eSIM vs physische SIM", "beste eSIM für USA-Reisen", "eSIM vs physische SIM USA", "USA eSIM Vergleich", "USA eSIM für Touristen"]
-url: "/blog/usa-esim-vs-physical-sim/"
 date: 2026-08-11T00:00:00Z
 lastmod: 2026-08-11T00:00:00Z
 author: "Roami Team"

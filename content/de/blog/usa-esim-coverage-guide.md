@@ -2,7 +2,6 @@
 title: "USA eSIM-Abdeckung: Stadt-für-Stadt-Netzvergleich"
 description: "USA eSIM Abdeckung: Stadt-für-Stadt-Netzvergleich mit AT&T, T-Mobile & Verizon. Roami wählt das beste Netz. Jetzt Abdeckung prüfen!"
 keywords: ["USA eSIM Abdeckung", "USA eSIM Netzwerkvergleich", "beste eSIM für New York", "T-Mobile vs AT&T vs Verizon Abdeckung", "USA eSIM ländliche Abdeckung"]
-url: "/blog/usa-esim-coverage-guide/"
 date: 2026-08-11T00:00:00Z
 lastmod: 2026-08-11T00:00:00Z
 author: "Roami Team"

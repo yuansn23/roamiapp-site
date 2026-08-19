@@ -2,7 +2,6 @@
 title: "Airalo vs Holafly vs Ubigi: USA eSIM Vergleich"
 description: "Airalo vs Holafly vs Ubigi: USA eSIM im Test. Preise und Netze vergleichen. Roami mit automatischem Wechsel zwischen AT&T und T-Mobile."
 keywords: ["Airalo vs Holafly USA", "Ubigi USA eSIM Test", "Nomad vs Ubigi USA", "Saily USA eSIM Test", "beste internationale eSIM für USA"]
-url: "/blog/usa-esim-provider-comparison/"
 date: 2026-08-11T00:00:00Z
 lastmod: 2026-08-11T00:00:00Z
 author: "Roami Team"
