@@ -4,7 +4,7 @@ h1_title: "How to Fix Dual eSIM Not Working on iPhone: 12 Solutions"
 description: "Dual eSIM not working? Fix 12 iPhone issues: incoming call routing, VoLTE setup, battery drain, and carrier lock checks. Step-by-step guide for iPhone 16, 16."
 keywords: ["dual eSIM not working", "iPhone dual SIM no service", "dual eSIM signal issue", "eSIM carrier lock", "eSIM troubleshooting", "eSIM activation failed", "iOS 18 eSIM", "eSIM APN settings", "eSIM confirmation code", "eSIM no service"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-18T10:00:00Z
+lastmod: 2026-08-20T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
 
@@ -97,29 +97,59 @@ sidebar_questions:
       url: "/compatibility/"
 ---
 
-> **Key Takeaways**  
-> - **VoLTE or plan limits** are the most common reason a line can't make or receive calls in 2026.  
-> - **Incoming call routing issues** are often fixed by toggling Wi‑Fi Calling off and back on.  
-> - iPhones are **dual standby, not dual active** – “No Service” on the other line during calls is normal.  
-> - Check **Carrier Lock** in Settings (`No SIM restrictions`) if you can’t add a second eSIM.  
-> - **Dual eSIM** battery drain can be reduced by disabling 5G on the weaker signal line.
 
-Using two phone numbers on one iPhone is incredibly convenient – but it comes with hidden pitfalls. From VoLTE and line-ordering issues to incoming call routing failures, this guide covers everything you need to know to run **dual eSIM** or **eSIM + physical SIM** flawlessly on iPhone 16 and earlier models with iOS 18. For a complete walkthrough of basic eSIM setup, see our **[iPhone 16 eSIM Complete Guide](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)**. This dual eSIM troubleshooting guide follows the latest [GSMA eSIM specifications](https://www.gsma.com/esim/) and has been tested on iOS 18. Apple's official [About eSIM on iPhone](https://support.apple.com/en-us/HT209044) documentation provides additional background on compatibility.
+> **Editor's Note:** Roami is the brand behind this guide. All troubleshooting steps are based on Apple's official documentation, GSMA standards, and our team's testing on iOS 18. We focus on real-world fixes that actually work – not theoretical solutions.
+> 
+> **Key Takeaways:** VoLTE or plan limits are the most common reason a line can't make or receive calls. Incoming call routing issues are often fixed by toggling Wi‑Fi Calling off and back on. iPhones are dual standby, not dual active – "No Service" on the other line during calls is normal. Check Carrier Lock in Settings (`No SIM restrictions`) if you can't add a second eSIM. Dual eSIM battery drain can be reduced by disabling 5G on the weaker signal line.
 
----
+
+## Dual eSIM Not Working? 10‑Second Quick Diagnosis
+
+**Your phone has dual eSIM problems. Which one is it?**
+
+| Your Symptom | Jump to Fix |
+|--------------|-------------|
+| **Second eSIM shows "No Service"** but first works | [Fix #2](#2-dual-esim-why-one-line-shows-no-service-while-the-other-works) |
+| **Can call out but CANNOT receive calls** | [Fix #3](#3-dual-esim-one-number-can-call-out-but-cannot-receive-incoming-calls) |
+| **During a call, the other line says "No Service"** | [Fix #4](#4-dual-esim-during-a-call-the-other-line-shows-no-service--this-is-normal) – this is normal! |
+| **Can't add second eSIM – "Carrier lock" error** | [Fix #5](#5-dual-esim-not-working-check-carrier-lock-first) |
+| **Battery drains faster with two lines** | [Fix #6](#6-dual-esim-battery-drain-how-to-reduce) |
+| **Physical SIM not recognized** | [Fix #7](#7-esim--physical-sim-conflicts-and-tray-issues) |
+| **iPhone from China – no eSIM option at all** | [Fix #8](#8-special-regional-cases-china-hong-kong-macau) – hardware limitation |
+| **Data works but no internet (APN issue)** | [Fix #11](#11-how-to-configure-apn-settings-if-your-esim-has-no-data) – APN config |
+| **eSIM deleted by accident** | [FAQ #9](#q9-how-do-i-recover-a-deleted-esim) – depends on provider |
+| **Not sure – something else** | [Full troubleshooting table](#10-troubleshooting-table--dual-esim-scenarios) |
+
+> 💡 **Key Insight:** If you're using **two lines on one iPhone**, iPhones are **dual standby, not dual active** – when you're on a call, the other line will temporarily say "No Service". This is **normal behavior** (see Fix #4). Don't waste time trying to "fix" it.
+
+For a complete walkthrough of basic eSIM setup, see our **[iPhone 16 eSIM Complete Guide](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)**. For advanced issues not covered here, our **[eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/)** has more solutions.
+
+
+## Complete Dual eSIM Troubleshooting Journey – From Symptom to Fix
+
+Here's the path most iPhone users follow when dual eSIM isn't working. Use this to track where you are.
+
+| Step | What's Happening | What to Do | Where to Find It |
+| :--- | :--- | :--- | :--- |
+| **1. Identify the symptom** | "My second eSIM has no signal." / "I can't receive calls." / "Battery is draining fast." | Match your symptom to the Quick Diagnosis table above. | [10‑Second Quick Diagnosis](#dual-esim-not-working-10second-quick-diagnosis) |
+| **2. Check if it's normal behavior** | "During a call, my other line shows No Service." | This is **normal** for dual standby iPhones. Skip to Fix #4. | [Fix #4](#4-dual-esim-during-a-call-the-other-line-shows-no-service--this-is-normal) |
+| **3. Rule out carrier lock** | "I can't add a second eSIM at all." | Check Carrier Lock in Settings. Must say "No SIM restrictions." | [Fix #5](#5-dual-esim-not-working-check-carrier-lock-first) |
+| **4. Apply the fix** | Follow the specific fix for your symptom. | One of the 12 fixes below will resolve your issue. | [Fixes #1‑#12](#1-what-are-your-dual-esim-options-on-iphone) |
+| **5. Still not working?** | "None of the fixes worked." | Use the fallback options in the troubleshooting table. | [Troubleshooting table](#10-troubleshooting-table--dual-esim-scenarios) |
+
 
 ## Quick Diagnostic Index (Dual eSIM Specific)
 
 | Symptom | Most Likely Cause | Fix Section |
 |---------|-------------------|--------------|
-| Second eSIM shows “No Service” but first works | VoLTE or line-ordering issue | #2 |
-| One number can call out but cannot receive calls | Incoming call routing mismatch | #3 |
-| During a call, the other line says “No Service” | iPhone uses one data network at a time | #4 |
-| Can’t add second eSIM – “Carrier lock” error | Device locked to first carrier | #5 |
-| Dual eSIM works but drains battery faster | Both lines actively searching | #6 |
-| eSIM + physical SIM: physical SIM not recognized | SIM tray issue or incompatible card | #7 |
+| Second eSIM shows "No Service" but first works | VoLTE or line-ordering issue | [#2](#2-dual-esim-why-one-line-shows-no-service-while-the-other-works) |
+| One number can call out but cannot receive calls | Incoming call routing mismatch | [#3](#3-dual-esim-one-number-can-call-out-but-cannot-receive-incoming-calls) |
+| During a call, the other line says "No Service" | iPhone uses one data network at a time (normal) | [#4](#4-dual-esim-during-a-call-the-other-line-shows-no-service--this-is-normal) |
+| Can't add second eSIM – "Carrier lock" error | Device locked to first carrier | [#5](#5-dual-esim-not-working-check-carrier-lock-first) |
+| Dual eSIM works but drains battery faster | Both lines actively searching | [#6](#6-dual-esim-battery-drain-how-to-reduce) |
+| eSIM + physical SIM: physical SIM not recognized | SIM tray issue or incompatible card | [#7](#7-esim--physical-sim-conflicts-and-tray-issues) |
+| Data shows signal bars but no internet | APN settings missing or incorrect | [#11](#11-how-to-configure-apn-settings-if-your-esim-has-no-data) |
 
----
 
 ## 1. What Are Your Dual eSIM Options on iPhone?
 
@@ -138,15 +168,14 @@ For a complete list of compatible iPhones, [check your iPhone's dual eSIM compat
 
 > 📱 **iPhone 16 & US iPhone 16 series**: No physical SIM tray – only dual eSIM. If you run into activation problems on these models, check our **[eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/)** for advanced fixes.
 
----
 
-## 2. Why One eSIM Line Shows "No Service" for Calls
+## 2. Dual eSIM: Why One Line Shows "No Service" While the Other Works
 
-If one of your dual eSIM lines can use data but cannot make or receive calls, the most common causes in 2026 are:
+If one of your dual eSIM lines can use data but cannot make or receive calls — **or shows "No Service" entirely** — the most common causes in 2026 are:
 
-- **VoLTE / VoNR is not enabled** for that line. Some carriers disable voice-over-data roaming on eSIM plans, which leaves the line data-only.
+- **VoLTE / VoNR is not enabled** for that line. Some carriers disable voice-over-data roaming on eSIM plans, which leaves the line data-only. (Simple way to check: if you can use data but can't call out, this is likely the issue.)
 - **Line ordering**. iOS routes voice to your *default voice line*; a secondary line set to data-only cannot place or receive calls.
-- **The plan does not include talk**. Some travel eSIMs are data-only by design and have no voice service at all.
+- **The plan does not include talk**. Some travel eSIMs are data-only by design and have no voice service at all. If this is the case, you'll see signal bars but attempting to call will fail.
 
 > **Note:** Legacy 3G/CDMA networks have been retired in the US and Japan. Verizon and US Cellular shut down CDMA in 2022-2024, and au/KDDI ended 3G in 2022. In 2026, a line with "no service for voice" is almost always a VoLTE, plan, or line-ordering issue - not CDMA.
 
@@ -158,11 +187,10 @@ If one of your dual eSIM lines can use data but cannot make or receive calls, th
 
 For a deeper comparison of US carrier networks, see our **[US carrier network comparison](/carriers/united-states-esim-carrier-guide/)**.
 
----
 
-## 3. One Number Can Call Out but Not Receive – Call Routing Issue
+## 3. Dual eSIM: One Number Can Call Out but Cannot Receive Incoming Calls
 
-**Symptom**: Line A works fine. Line B can make outgoing calls, but incoming calls to B go straight to voicemail or ring as “unavailable”.
+**Symptom**: Line A works fine. Line B can make outgoing calls, but incoming calls to B go straight to voicemail or ring as "unavailable".
 
 **Root cause**: A network call-routing mismatch. When Line B recently switched between 5G and LTE, or used Wi-Fi Calling, the carrier's network can still try to route incoming calls through the wrong path.
 
@@ -180,27 +208,25 @@ Ask your carrier to **reset call routing** or **refresh the line** for this numb
 - Avoid rapidly switching between 5G/LTE (keep one mode for at least a few hours).
 - If you travel frequently, keep **Data Roaming** OFF for the line that doesn't need data.
 
----
 
-## 4. During a Call, the Other Line Says “No Service” – Normal Behavior
+## 4. Dual eSIM: During a Call, the Other Line Shows "No Service" – This Is Normal
 
-**Symptom**: You're on a call using Line A. When you check, Line B shows “No Service”.
+**Symptom**: You're on a call using Line A. When you check, Line B shows "No Service".
 
-**Explanation**: iPhones are **dual standby, not dual active**. Only one line can maintain a cellular connection at a time. While on a call, the other line is temporarily unreachable. As soon as the call ends, both lines reconnect. This is **not a dual eSIM failure** – it's by design.
+**Explanation**: iPhones are **dual standby, not dual active** (this is also known as DSDS – Dual SIM Dual Standby). Only one line can maintain a cellular connection at a time. While on a call, the other line is temporarily unreachable. As soon as the call ends, both lines reconnect. This is **not a dual eSIM failure** – it's by design.
 
 ### What you can do:
 - **Enable Wi‑Fi Calling on both lines** – then the idle line may use Wi‑Fi to receive calls while you're on the other line. Apple's [dual standby documentation](https://support.apple.com/guide/iphone/iph22f1a8af1/ios) explains this in more detail.
-- **Enable “Allow Cellular Data Switching”** – under `Settings > Cellular > Cellular Data`. This lets the non‑data line use the data line's connection for Wi‑Fi Calling.
+- **Enable "Allow Cellular Data Switching"** – under `Settings > Cellular > Cellular Data`. This lets the non‑data line use the data line's connection for Wi‑Fi Calling.
 
 > 📌 Note: Some carriers do not support Wi‑Fi Calling simultaneously on both lines. Check with your carrier.
 
----
 
 ## 5. Dual eSIM Not Working? Check Carrier Lock First
 
 If you cannot add a second eSIM or physical SIM:
 - Your iPhone might be **carrier‑locked** to the first carrier.
-- To check: `Settings > General > About` → scroll to **Carrier Lock**. It must say “No SIM restrictions”.
+- To check: `Settings > General > About` → scroll to **Carrier Lock**. It must say "No SIM restrictions".
 
 ### What to do if locked:
 - Contact your carrier to request an unlock. US carriers must unlock after device paid off.
@@ -208,7 +234,6 @@ If you cannot add a second eSIM or physical SIM:
 
 Once unlocked, you can also move your eSIM between iPhone and Android – see our **[eSIM Cross‑Platform Transfer 2026 guide](/faq/how-to-transfer-esim-between-iphone-and-android/)** for step‑by‑step instructions.
 
----
 
 ## 6. Dual eSIM Battery Drain: How to Reduce
 
@@ -224,16 +249,16 @@ Running **dual eSIM** or even eSIM + physical SIM can increase battery consumpti
 
 To disable a line: `Settings > Cellular` → tap the line → toggle off **Turn On This Line**. If you frequently travel internationally, [try Roami's free eSIM trial](/free-esim/) as a battery‑efficient alternative.
 
----
 
-## 7. Physical SIM Not Recognized (Tray Issues)
+## 7. eSIM + Physical SIM Conflicts and Tray Issues
 
-**Symptom**: Your nano‑SIM works in another phone but not in your iPhone.
+**Symptom**: Your nano‑SIM works in another phone but not in your iPhone. Or, your eSIM works fine but the physical SIM isn't recognized when both are installed.
 
 **Common causes**:
 - The iPhone is **carrier‑locked** to a different network.
 - SIM tray not fully inserted or damaged.
 - SIM card is **too old** (pre‑4G) or bent.
+- **Physical SIM conflict**: On some iPhones, inserting a physical SIM can temporarily disable the eSIM slot if the device is carrier-locked.
 
 **Fixes**:
 1. Remove tray, clean contacts with a soft cloth.
@@ -242,9 +267,10 @@ To disable a line: `Settings > Cellular` → tap the line → toggle off **Turn 
 4. If still not recognized, try the SIM in another phone – if it works, your iPhone's SIM reader may be faulty.
 5. Replace SIM card at carrier store (free for most postpaid plans).
 
+> **If your eSIM disappears after inserting a physical SIM:** Some carrier-locked iPhones disable the eSIM slot when a physical SIM from a different carrier is inserted. Remove the physical SIM, restart, and your eSIM should reappear. Then contact your carrier to unlock the device.
+
 If you plan to switch entirely to eSIM, refer to our **[iPhone 16 eSIM guide](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)** for activation methods.
 
----
 
 ## 8. Special Regional Cases: China, Hong Kong, Macau
 
@@ -260,14 +286,13 @@ Apple sells specific dual‑physical‑SIM models in **mainland China**:
 
 > ⚠️ **Important**: If you buy a mainland China dual‑physical‑SIM iPhone, you **cannot install any eSIM** (including international travel eSIMs) – except the iPhone 16. This is a hardware limitation, not a software block.
 
----
 
 ## 9. Dual eSIM for Work & Personal: Best Practices
 
 Many users keep a **work number** (eSIM) and **personal number** (second eSIM or physical SIM). Here's how to set up your **dual eSIM** configuration cleanly:
 
 ### Label lines clearly
-`Settings > Cellular` → tap a line → `Cellular Plan Label` → choose “Business” or “Personal”, or create custom label.
+`Settings > Cellular` → tap a line → `Cellular Plan Label` → choose "Business" or "Personal", or create custom label.
 
 ### Choose default voice & data
 - **Default Voice Line**: Which line to use when you dial from the native Phone app (you can still choose per call).
@@ -279,23 +304,69 @@ Many users keep a **work number** (eSIM) and **personal number** (second eSIM or
 ### Prevent accidental roaming
 - Turn off **Data Roaming** for the work line if it has expensive international rates.
 
----
 
 ## 10. Troubleshooting Table – Dual eSIM Scenarios
 
-| Problem | Immediate Step | Long‑Term Fix |
-|---------|----------------|----------------|
-| Second eSIM never gets signal | Restart iPhone, then toggle off/on line | Confirm the plan is active and the line is enabled |
-| Calls go straight to voicemail (no ring) | Disable “Silence Unknown Callers” and call forwarding | Contact carrier to reset call routing |
-| Can't receive SMS on second line | Send a test SMS from that line to any number | Ensure line is not data‑only; carrier may need to enable SMS |
-| Two eSIMs but both show “No Service” | Airplane mode on/off > check carrier lock | Restore network settings |
-| Switched lines and now FaceTime/iMessage won't activate | Go to `Settings > Messages > Send & Receive` – manually select numbers | Sign out of Apple ID and back in |
+| Problem | Immediate Step | Long‑Term Fix | If Still Not Working |
+|---------|----------------|----------------|----------------------|
+| Second eSIM never gets signal | Restart iPhone, then toggle off/on line | Confirm the plan is active and the line is enabled | Contact carrier to reprovision the eSIM |
+| Calls go straight to voicemail (no ring) | Disable "Silence Unknown Callers" and call forwarding | Contact carrier to reset call routing | Reset network settings |
+| Can't receive SMS on second line | Send a test SMS from that line to any number | Ensure line is not data‑only; carrier may need to enable SMS | Use carrier app to resync line |
+| Two eSIMs but both show "No Service" | Airplane mode on/off > check carrier lock | Restore network settings | Check if carrier has outage in your area |
+| Switched lines and now FaceTime/iMessage won't activate | Go to `Settings > Messages > Send & Receive` – manually select numbers | Sign out of Apple ID and back in | Contact Apple Support |
+| Data shows signal but no internet | Check APN settings (see Fix #11) | Configure APN manually | Contact eSIM provider for correct APN |
+| eSIM deleted accidentally | Check if provider allows re‑download | Contact carrier for new QR code | Travel eSIMs: buy a new plan |
+| Physical SIM inserted, eSIM disappears | Carrier-locked phone disables eSIM with foreign SIM | Remove physical SIM, restart, eSIM reappears | Contact carrier to unlock device |
 
-For additional problems like “eSIM bound to another device” or “restore error 4013”, see our **[full 16‑case troubleshooting library](/faq/esim-deep-troubleshooting-guide-2026/)** .
+For additional problems like "eSIM bound to another device" or "restore error 4013", see our **[full 16‑case troubleshooting library](/faq/esim-deep-troubleshooting-guide-2026/)** .
 
----
 
-## 11. Frequently Asked Questions
+## 11. How to Configure APN Settings If Your eSIM Has No Data
+
+**Symptom**: Your eSIM shows full signal bars (or "No Service") but you have no internet connection – websites won't load, apps say "no connection".
+
+**Root cause**: The eSIM profile was installed correctly, but the Access Point Name (APN) settings are missing or incorrect. Some eSIM providers auto‑configure APN; others require manual entry.
+
+### How to configure APN on iPhone
+
+1. Go to **Settings > Cellular**.
+2. Tap on the eSIM line that has no data.
+3. Tap **Cellular Data Network** (if you don't see this option, the APN is auto‑configured by your carrier – skip this fix).
+4. Under **Cellular Data** section, fill in the **APN** field.
+5. Leave **Username** and **Password** blank unless your provider specifies otherwise.
+6. Go back, toggle Airplane Mode on/off, and test data.
+
+### Common APN values for travel eSIMs
+
+| Provider | APN | Username | Password |
+|----------|-----|----------|----------|
+| **Roami** | internet | (blank) | (blank) |
+| **Airalo** | globaldata | (blank) | (blank) |
+| **Holafly** | hola | (blank) | (blank) |
+| **Nomad** | nbdata | (blank) | (blank) |
+| **T‑Mobile (US)** | fast.t-mobile.com | (blank) | (blank) |
+| **AT&T (US)** | nxgen | (blank) | (blank) |
+| **Verizon (US)** | vzwinternet | (blank) | (blank) |
+| **EE (UK)** | everywhere | (blank) | (blank) |
+| **O2 (UK)** | mobile.o2.co.uk | web | web |
+| **Vodafone (UK)** | internet | (blank) | (blank) |
+| **Three (UK)** | three.co.uk | (blank) | (blank) |
+| **Orange (France)** | orange.fr | (blank) | (blank) |
+
+> **If the APN field is grayed out:** Your carrier has locked the APN settings. This is common with postpaid carrier eSIMs (Verizon, T‑Mobile, AT&T). Contact your carrier for assistance – you cannot manually change it.
+
+> **If APN is correct but still no data:** Restart your iPhone, toggle Airplane Mode, or check if Data Roaming is enabled (Settings > Cellular > [line] > Data Roaming ON).
+
+
+## 12. Final Pro Tips for Dual eSIM Users
+
+- **Label your lines** immediately after setting up – it saves endless confusion.
+- **Set different ringtones** for each line: `Settings > Sounds & Haptics > Ringtone` → scroll down, you can assign per line.
+- **Use Shortcuts automation** to change default voice line based on time (e.g., work hours = business line; evenings = personal).
+- **Before selling your device**: Go to `Settings > Cellular`, delete **all** eSIMs, and remove the physical SIM. Then erase all content and settings. For a detailed walkthrough of deleting eSIMs and canceling plans, refer to **[Fix #9 in our troubleshooting guide](/faq/esim-deep-troubleshooting-guide-2026/#9-after-deleting-esim-carrier-still-charges--cannot-reactivate)**.
+
+
+## Frequently Asked Questions
 
 **Q1: Can I use two eSIMs from the same carrier?**  
 Yes, as long as your carrier allows multiple eSIM profiles on one account. For example, T‑Mobile US supports up to two eSIMs on the same iPhone. For a full list of compatible iPhone models, check the **[iPhone 16 compatibility table](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)**.
@@ -319,10 +390,10 @@ Yes, best practice:
 If you frequently switch between devices while traveling, the **[eSIM cross‑platform transfer guide](/faq/how-to-transfer-esim-between-iphone-and-android/)** will help you move your number seamlessly.
 
 **Q6: Why does the second eSIM sometimes disappear after an iOS update?**  
-Rare bug. Go to `Settings > Cellular` → if the line is missing but still shows under “Available SIMs”, tap it and re‑activate. If not, contact carrier to re‑push the profile.
+Rare bug. Go to `Settings > Cellular` → if the line is missing but still shows under "Available SIMs", tap it and re‑activate. If not, contact carrier to re‑push the profile.
 
 **Q7: Can I use a dual‑SIM setup with an Apple Watch?**  
-Yes. Apple Watch can mirror **one** of the iPhone's lines. Choose which line you want on the watch during setup.
+Yes. Apple Watch can mirror **one** of the iPhone's lines. Choose which line you want on the watch during setup. Note that the watch cannot use both lines simultaneously – it mirrors only the selected line.
 
 **Q8: Where can I find official Apple documentation for dual eSIM?**  
 Apple provides two key resources: [About eSIM on iPhone](https://support.apple.com/en-us/HT209044) and [Use Dual SIM with an eSIM](https://support.apple.com/en-us/HT209086). These cover basic compatibility and setup.
@@ -330,24 +401,24 @@ Apple provides two key resources: [About eSIM on iPhone](https://support.apple.c
 **Q9: How do I recover a deleted eSIM?**  
 If you've deleted an eSIM profile, recovery depends on your carrier. For travel eSIMs (Roami, Airalo, etc.), deletion is usually permanent – you'll need to purchase a new plan. For postpaid carrier eSIMs (like Verizon, T‑Mobile, AT&T), contact your carrier – they can often re‑issue a new QR code. Always keep a backup of your original activation email and QR code.
 
-**Q10: How do I configure APN settings if my eSIM has no data?**  
-If your eSIM shows signal bars but no data connection, APN settings may need adjustment:
-1. Go to **Settings > Cellular > Cellular Data Network**.
-2. Fill in the APN fields – check your eSIM provider's website for correct values.
-3. Common APN values: `globaldata` (Airalo). Most travel eSIMs auto-configure the APN, so check your provider's website for the exact value.
-4. Save and restart your iPhone.
+**Q10: Why does my eSIM have signal bars but no data connection?**  
+This is almost always an APN issue. See Fix #11 above for step‑by‑step configuration.
+
+**Q11: What does "eSIM confirmation code" mean and where do I find it?**  
+Some eSIM profiles require a confirmation code (4‑8 digits) during activation. Look for it in your carrier's email or activation instructions. If not found, contact your carrier.
+
+**Q12: Can I have two active eSIMs plus a physical SIM on iPhone?**  
+No. iPhone supports a maximum of **two active lines** at any time – either two eSIMs OR one eSIM + one physical SIM. You cannot have three active lines simultaneously.
+
+**Q13: My dual eSIM 5G isn't working on one line – what should I check?**  
+First, ensure 5G is enabled for both lines: Settings > Cellular > [line] > Voice & Data > select 5G Auto or 5G On. If one line still shows LTE only, check with your carrier – some carriers restrict 5G to the primary data line only.
+
+**Q14: I inserted a physical SIM and my eSIM disappeared – how do I get it back?**  
+This is a known behavior on carrier-locked iPhones. Remove the physical SIM, restart your iPhone, and the eSIM should reappear in Settings > Cellular. Then contact your carrier to unlock your device so both can work simultaneously.
 
 ---
 
-## 12. Final Pro Tips for Dual eSIM Users
-
-- **Label your lines** immediately after setting up – it saves endless confusion.
-- **Set different ringtones** for each line: `Settings > Sounds & Haptics > Ringtone` → scroll down, you can assign per line.
-- **Use Shortcuts automation** to change default voice line based on time (e.g., work hours = business line; evenings = personal).
-- **Before selling your device**: Go to `Settings > Cellular`, delete **all** eSIMs, and remove the physical SIM. Then erase all content and settings. For a detailed walkthrough of deleting eSIMs and canceling plans, refer to **[Fix #9 in our troubleshooting guide](/faq/esim-deep-troubleshooting-guide-2026/#9-after-deleting-esim-carrier-still-charges--cannot-reactivate)**.
-
----
-*Based on Apple official documentation, GSMA standards, and carrier testing. Updated: June 2026.*
+*Based on Apple official documentation, GSMA standards, and carrier testing as of August 2026.*
 ## Sources
 
 - [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)

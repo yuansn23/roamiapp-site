@@ -2,9 +2,9 @@
 title: "iPhone eSIM: Full Compatibility & Setup Guide"
 h1_title: "The Complete Guide to iPhone eSIM Compatibility and Setup"
 description: "Check iPhone eSIM compatibility (EID method) and setup steps. Covers dual SIM, iPhone 13+ features, and China/US model differences. Includes tables."
-keywords: ["iphone esim", "esim iphone", "which iphones support esim", "iphone esim compatible", "does iphone 11 have esim", "iphone esim only", "iphone dual esim", "first iphone with esim", "iphones with esim", "iphone esim setup"]
+keywords: ["iphone esim", "esim iphone", "which iphones support esim", "iphone esim compatible", "does iphone 11 have esim", "iphone esim only", "iphone dual esim", "first iphone with esim", "iphones with esim", "iphone esim setup", "iphone 16e esim", "iphone 17 esim", "how to transfer esim to new iphone"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-18T10:00:00Z
+lastmod: 2026-08-20T00:00:00Z
 tags: ["iPhone", "eSIM", "Dual SIM", "Activation", "Compatibility"]
 toc: true
 
@@ -26,6 +26,7 @@ breadcrumbs:
     text: "eSIM Compatibility"
     url: "/compatibility/"
 
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "Popular eSIMs"
   item_suffix: "eSIM"
@@ -35,27 +36,27 @@ sidebar_popular:
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Germany"
+    - name: "Germany eSIM"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Europe"
+    - name: "Europe eSIM"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Turkey"
+    - name: "Turkey eSIM"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japan"
+    - name: "Japan eSIM"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "China"
+    - name: "China eSIM"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
@@ -96,6 +97,43 @@ sidebar_questions:
 ---
 
 
+> **Editor's Note:** Roami is a US‑based eSIM provider with over 500,000 travelers served. This guide is based on Apple's official documentation, GSMA standards, and real‑world activation data from our support team. All compatibility information is verified as of August 2026.
+
+
+## 10‑Second Quick eSIM Diagnosis – Find Your iPhone Model, Get Your Answer
+
+**Not sure if your iPhone supports eSIM? Find your model below and get your instant answer.**
+
+| Your iPhone Model | eSIM Support | Quick Answer |
+| :--- | :--- | :--- |
+| **iPhone 8, 8 Plus, iPhone X** | ❌ No | Physical SIM only – no eSIM hardware. [Skip to alternatives](#which-iphones-support-esim--quick-answer) |
+| **iPhone XR, XS, XS Max** | ✅ Yes | First iPhones with eSIM. Physical SIM + eSIM. |
+| **iPhone 11, 11 Pro, 11 Pro Max** | ✅ Yes | Physical SIM + eSIM. ⚠️ China models = NO eSIM. |
+| **iPhone SE (2nd or 3rd gen)** | ✅ Yes | Physical SIM + eSIM. Budget eSIM option. |
+| **iPhone 12, 12 mini, 12 Pro, 12 Pro Max** | ✅ Yes | Physical SIM + eSIM. First 5G + eSIM. |
+| **iPhone 13, 13 mini, 13 Pro, 13 Pro Max** | ✅ Yes | Physical SIM + eSIM OR dual eSIM. First dual eSIM support. |
+| **iPhone 14, 14 Plus, 14 Pro, 14 Pro Max** | ✅ Yes | US = eSIM‑only. Global = physical + eSIM. |
+| **iPhone 15, 15 Plus, 15 Pro, 15 Pro Max** | ✅ Yes | US = eSIM‑only. Global = physical + eSIM. |
+| **iPhone 16, 16 Plus, 16 Pro, 16 Pro Max** | ✅ Yes | US = eSIM‑only. Global = physical + eSIM. |
+| **iPhone 16e** | ✅ Yes | New budget model – eSIM support. Check region for physical SIM. |
+| **iPhone 17, 17 Pro, 17 Pro Max, 17 Air** | ✅ Yes | US = eSIM‑only. Global = physical + eSIM (expected). |
+| **Not sure – just check my phone** | Dial `*#06#` – look for EID | [How to verify your iPhone](#how-to-verify-if-your-iphone-has-esim-3-methods) |
+
+
+## Complete iPhone eSIM Journey – From "Does It Work?" to "I'm Connected"
+
+Here's the path most users follow when setting up eSIM on iPhone.
+
+| Step | What You're Doing | Where to Find It |
+| :--- | :--- | :--- |
+| **1. Verify device compatibility** | Check if your specific iPhone model has eSIM hardware. | [Quick Diagnosis](#10second-quick-esim-diagnosis--find-your-iphone-model-get-your-answer) |
+| **2. Check region and carrier lock** | China model? Carrier locked? | [Regional differences](#regional-differences-china-hong-kong-us-and-global--iphone-esim-variants) |
+| **3. Find the EID** | Confirm eSIM hardware is present. | [How to verify](#how-to-verify-if-your-iphone-has-esim-3-methods) |
+| **4. Activate your eSIM** | Scan QR code or use carrier app. | [Activation steps](#how-to-activate-esim-on-iphone-step-by-step) |
+| **5. Set up dual SIM** | Physical + eSIM or dual eSIM. | [Using physical SIM and eSIM together](#using-physical-sim-and-esim-together-dual-sim) |
+| **6. Troubleshoot if needed** | No signal? Activation failed? | [Troubleshooting](#troubleshooting-common-esim-problems-on-iphone) |
+
+
 ## Which iPhones support eSIM? – quick answer
 
 **eSIM arrived on iPhones with the 2018 models: iPhone XR, XS, and XS Max. All later iPhones (11, 12, 13, 14, 15, 16, 17, and SE 2nd/3rd gen) also support eSIM – with one major regional exception: mainland China models (including Hong Kong in some cases) either lack eSIM or have dual physical SIM slots.**
@@ -108,7 +146,8 @@ sidebar_questions:
 - **iPhone 14, 14 Plus, 14 Pro, 14 Pro Max:** ✅ US models are **eSIM only** (no physical SIM tray); other regions have physical SIM + eSIM
 - **iPhone 15, 15 Plus, 15 Pro, 15 Pro Max:** ✅ Same as iPhone 14 – US eSIM only, global physical SIM + eSIM
 - **iPhone 16, 16 Plus, 16 Pro, 16 Pro Max:** ✅ eSIM support continues; US remains eSIM only
-- **iPhone 16, 17 Pro, 17 Pro Max, 17 Air:** ✅ Expected full eSIM support; US models likely eSIM only
+- **iPhone 16e:** ✅ New budget model – supports eSIM (region‑dependent for physical SIM)
+- **iPhone 17, 17 Pro, 17 Pro Max, 17 Air:** ✅ Expected full eSIM support; US models likely eSIM only
 
 > **iPhone 8, 8 Plus, and iPhone X (2017) do NOT support eSIM** – they use physical SIM only. If you own one, you cannot use any eSIM service.
 
@@ -116,26 +155,25 @@ The [official Apple eSIM support page](https://support.apple.com/en-us/108072) p
 
 For the complete list of **eSIM compatible phones** across all brands, see our **[full compatibility list](/compatibility/)**.
 
----
 
-## Complete iPhone eSIM compatibility table – iPhone 8 through iPhone 16
+## Complete iPhone eSIM Compatibility Table – iPhone 8 through iPhone 17
 
-| iPhone Model | eSIM Support | Dual SIM Type | Notes |
-|--------------|--------------|---------------|-------|
-| iPhone 8, 8 Plus, iPhone X | ❌ No | Physical SIM only | No eSIM hardware |
-| **iPhone XR, XS, XS Max** | ✅ Yes | Physical + eSIM | First iPhones with eSIM |
-| **iPhone 11, 11 Pro, 11 Pro Max** | ✅ Yes | Physical + eSIM | Mainland China: dual physical SIM |
-| **iPhone SE (2nd & 3rd gen)** | ✅ Yes | Physical + eSIM | Budget eSIM option |
-| **iPhone 12, 12 mini, 12 Pro, 12 Pro Max** | ✅ Yes | Physical + eSIM | First 5G eSIM iPhones |
-| **iPhone 13, 13 mini, 13 Pro, 13 Pro Max** | ✅ Yes | Physical + eSIM (or dual eSIM) | Supports **dual eSIM** (two active eSIMs) |
-| **iPhone 14, 14 Plus, 14 Pro, 14 Pro Max** | ✅ Yes | US: eSIM only; global: physical + eSIM | **iPhone 14 eSIM only** in US |
-| **iPhone 15, 15 Plus, 15 Pro, 15 Pro Max** | ✅ Yes | US: eSIM only; global: physical + eSIM | **iPhone 15 eSIM or physical sim** depends on region |
-| **iPhone 16, 16 Plus, 16 Pro, 16 Pro Max** | ✅ Yes | US: eSIM only; global: physical + eSIM | **iPhone 16 eSIM only** in US |
-| **iPhone 16 (all models)** | ✅ Yes | US: eSIM only; global: physical + eSIM | **iPhone 16 eSIM only** in US; **iPhone 16 air eSIM only** worldwide |
+| iPhone Model | eSIM Support | Dual SIM Type | Physical SIM Slot | Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| iPhone 8, 8 Plus, iPhone X | ❌ No | Physical SIM only | ✅ Yes | No eSIM hardware |
+| **iPhone XR, XS, XS Max** | ✅ Yes | Physical + eSIM | ✅ Yes | First iPhones with eSIM |
+| **iPhone 11, 11 Pro, 11 Pro Max** | ✅ Yes | Physical + eSIM | ✅ Yes | Mainland China: dual physical SIM |
+| **iPhone SE (2nd & 3rd gen)** | ✅ Yes | Physical + eSIM | ✅ Yes | Budget eSIM option |
+| **iPhone 12, 12 mini, 12 Pro, 12 Pro Max** | ✅ Yes | Physical + eSIM | ✅ Yes | First 5G eSIM iPhones |
+| **iPhone 13, 13 mini, 13 Pro, 13 Pro Max** | ✅ Yes | Physical + eSIM (or dual eSIM) | ✅ Yes | Supports **dual eSIM** (two active eSIMs) |
+| **iPhone 14, 14 Plus, 14 Pro, 14 Pro Max** | ✅ Yes | US: eSIM only; global: physical + eSIM | US: ❌ No; global: ✅ Yes | **iPhone 14 eSIM only** in US |
+| **iPhone 15, 15 Plus, 15 Pro, 15 Pro Max** | ✅ Yes | US: eSIM only; global: physical + eSIM | US: ❌ No; global: ✅ Yes | **iPhone 15 eSIM or physical sim** depends on region |
+| **iPhone 16, 16 Plus, 16 Pro, 16 Pro Max** | ✅ Yes | US: eSIM only; global: physical + eSIM | US: ❌ No; global: ✅ Yes | **iPhone 16 eSIM only** in US |
+| **iPhone 16e** | ✅ Yes | US: eSIM only; global: physical + eSIM | US: ❌ No; global: ✅ Yes | New budget model – full eSIM support |
+| **iPhone 17, 17 Pro, 17 Pro Max, 17 Air** | ✅ Yes | US: eSIM only; global: physical + eSIM (expected) | US: ❌ No (expected); global: ✅ Yes (expected) | **iPhone 17 eSIM** – latest generation |
 
----
 
-## When did iPhones start using eSIM? – historical timeline
+## When Did iPhones Start Using eSIM? – Historical Timeline
 
 - **2017 and earlier (iPhone 8, X, etc.)** – No eSIM. Physical SIM only.
 - **2018 (iPhone XR, XS, XS Max)** – First eSIM iPhones. Dual SIM: one physical nano‑SIM + one eSIM.
@@ -144,30 +182,37 @@ For the complete list of **eSIM compatible phones** across all brands, see our *
 - **2021 (iPhone 13 series)** – First support for **two active eSIMs** (dual eSIM) on some carriers.
 - **2022 (iPhone SE 3rd gen, iPhone 14 series)** – US models become **eSIM only** (no physical SIM tray).
 - **2023 (iPhone 15 series)** – US continues eSIM only; global retains physical SIM + eSIM.
-- **2024 (iPhone 16 series)** – Same as iPhone 15.
-- **2025 (iPhone 16 series)** – US models are eSIM only; the **iPhone 16** is eSIM only worldwide.
+- **2024 (iPhone 16 series)** – Same as iPhone 15; **iPhone 16e** introduced as budget eSIM model.
+- **2025 (iPhone 17 series)** – Expected to continue the same regional split.
 
-So the **first iphone with eSIM** was the iPhone XR/XS in September 2018. That's **when iphone started using eSIM**.
+So the **first iPhone with eSIM** was the iPhone XR/XS in September 2018. That's **when iPhone started using eSIM**.
 
----
 
-## How to verify if your iPhone has eSIM (3 methods)
+## How to Verify If Your iPhone Has eSIM (3 Methods)
 
 ### Method 1: Dial `*#06#` (universal, no settings needed)
 1. Open the Phone app.
 2. Dial `*#06#` and press call.
-3. Look for a **32‑digit EID**. If present, your iPhone has eSIM hardware.
+3. Look for a **32‑digit EID** (Embedded Identity Document – think of it as your phone's eSIM serial number). If present, your iPhone has eSIM hardware.
 4. If you only see IMEI numbers (IMEI1, IMEI2) and no EID, your device lacks eSIM (typical for mainland China models or iPhones older than XR).
 
 ### Method 2: Check in Settings
-Go to **Settings > General > About**. Scroll down. If you see **“Available SIM”** or **“Digital SIM”** with an **EID** number, eSIM is present.
+Go to **Settings > General > About**. Scroll down. If you see **"Available SIM"** or **"Digital SIM"** with an **EID** number, eSIM is present.
 
 ### Method 3: Try adding a cellular plan
 Go to **Settings > Cellular > Add Cellular Plan**. If the option is visible and tappable, your phone supports eSIM. If grayed out or missing, no eSIM.
 
----
+### What to Look For – Quick Reference
 
-## Detailed breakdown by iPhone generation
+| What You See | What It Means |
+| :--- | :--- |
+| **EID (32 digits) + IMEI** | ✅ Your iPhone has eSIM hardware |
+| **IMEI only (no EID)** | ❌ No eSIM – physical SIM only |
+| **"Add Cellular Plan" visible** | ✅ eSIM is available |
+| **"Add Cellular Plan" grayed/missing** | ❌ No eSIM or carrier locked |
+
+
+## Detailed Breakdown by iPhone Generation
 
 ### iPhone 8, 8 Plus, iPhone X (2017)
 These models predate eSIM hardware entirely. If you own an **iPhone 8 or iPhone X**, you cannot use eSIM – physical SIM only. The same applies to the **iPhone 7 and earlier**.
@@ -194,35 +239,76 @@ All **iPhone 14 models** support eSIM, but with a major change: US models are **
 **iPhone 15 series** follows the same regional split: US models are eSIM only; global models have physical SIM + eSIM. So **iPhone 15 eSIM or physical sim** depends entirely on where you buy it.
 
 ### iPhone 16 series (2024)
-**iPhone 16 series** continues the same pattern. US models are **iPhone 16 eSIM only**; international versions retain the physical SIM slot.
+**iPhone 16 series** continues the same pattern. US models are **iPhone 16 eSIM only**; international versions retain the physical SIM slot. **iPhone 16 dual eSIM** is standard across the lineup.
 
-### iPhone 16 series (2024)
-The **iPhone 16 series** follows the same regional split: US models are eSIM only, while international versions keep a physical SIM slot. **iPhone 16 dual eSIM** is standard across the lineup.
+### iPhone 16e (2025)
+The **iPhone 16e** is Apple's new budget model, positioned below the main iPhone 16 lineup. It supports eSIM on all models – US versions are eSIM‑only, while global versions retain a physical SIM slot alongside eSIM.
 
----
+### iPhone 17 series (2025)
+**iPhone 17 series** (including 17, 17 Pro, 17 Pro Max, and 17 Air) continues the same regional split established with iPhone 14. US models are expected to be eSIM‑only; global models retain physical SIM + eSIM.
 
-## How to activate eSIM on iPhone (step by step)
+
+## How to Activate eSIM on iPhone (Step by Step)
 
 For complete activation details on all iPhone models, see our **[iPhone eSIM activation guide](/faq/how-to-activate-esim-on-iphone/)**.
 
-### Activating a travel eSIM (most common)
+### Activating a Travel eSIM (Most Common)
 1. Buy a travel eSIM plan – e.g., a [Roami free trial eSIM](/free-esim/).
 2. Before you travel (on Wi‑Fi), go to **Settings > Cellular > Add Cellular Plan**.
 3. Scan the QR code or enter the activation code manually.
-4. Label your plan (e.g., “Japan May”).
+4. Label your plan (e.g., "Japan May").
 5. Choose your default line for voice, data, and iMessage.
 6. At your destination, go to **Settings > Cellular > [your eSIM plan]** and turn **Data Roaming** ON.
 
-### Activating a carrier eSIM (e.g., Verizon, T‑Mobile, Jio)
-- US carriers: Use their app to convert your physical SIM to eSIM.
-- Jio (India): Visit a Jio store for in‑person verification and a QR code.
-- Google Fi: Install the Fi app and follow “Activate eSIM”.
+**iOS 18 tip:** If you're on iOS 18, the "Add Cellular Plan" interface has been redesigned with a more prominent QR scanner and a smoother activation flow. You'll see a progress indicator during the profile download.
 
-> Your iPhone must be **carrier‑unlocked** to use a different carrier's eSIM.
+### Activating a Carrier eSIM (e.g., Verizon, T‑Mobile, AT&T, Jio)
 
----
+| Carrier | Activation Method |
+| :--- | :--- |
+| **Verizon** | My Verizon app → Account → Devices → Activate eSIM |
+| **T‑Mobile** | T‑Mobile app → Account → Line Details → Switch to eSIM |
+| **AT&T** | AT&T app → Account → Wireless → Manage Device → Get new eSIM |
+| **Google Fi** | Fi app → Manage plan → Get new eSIM |
+| **Jio (India)** | Visit a Jio store for in‑person verification and QR code |
+| **Airtel (India)** | Airtel app → Request eSIM → Scan QR code |
+| **O2 (UK)** | My O2 app → Device settings → Get eSIM |
+| **EE (UK)** | EE app → Manage device → eSIM |
+| **Vodafone (global)** | Vodafone app → Account → eSIM → Get QR code |
 
-## Using physical SIM and eSIM together (dual SIM)
+> Your iPhone must be **carrier‑unlocked** to use a different carrier's eSIM. Check Settings > General > About > Carrier Lock – it must say "No SIM restrictions."
+
+### Activation Stuck? Quick Fixes
+
+| Symptom | Quick Fix |
+| :--- | :--- |
+| **QR code not scanning** | Tap "Enter Details Manually" – input SM‑DP+ address and activation code from your email |
+| **Stuck on "Activating…" for >5 min** | Toggle Airplane Mode on/off – restart the network stack |
+| **"Cellular Plan Cannot Be Added"** | Delete unused eSIM profiles (Settings > Cellular) – too many stored profiles |
+| **QR code says "Invalid" or "Expired"** | Request a new QR code from your provider – codes expire in 30‑90 days |
+| **"Unable to Activate eSIM"** | Switch Wi‑Fi networks – unstable Wi‑Fi causes activation failures |
+
+
+## How Many eSIM Profiles Can an iPhone Store?
+
+iPhones can store **up to 8 eSIM profiles** at a time, but the exact number depends on the iPhone model and iOS version.
+
+| iPhone Model | Max eSIM Profiles Stored | Active at Once |
+| :--- | :--- | :--- |
+| **iPhone XR, XS, XS Max** | ~5 | 1 (plus physical SIM) |
+| **iPhone 11 series** | ~5 | 1 (plus physical SIM) |
+| **iPhone SE (2nd/3rd gen)** | ~5 | 1 (plus physical SIM) |
+| **iPhone 12 series** | ~8 | 1 (plus physical SIM) |
+| **iPhone 13 series and newer** | ~8 | 2 (dual eSIM) |
+| **iPhone 14–17 (US eSIM‑only)** | ~8 | 2 (dual eSIM only – no physical SIM) |
+
+### How to Manage Multiple eSIM Profiles
+- **Delete unused profiles:** Settings > Cellular > tap the plan > Remove Cellular Plan. This frees up storage for new profiles.
+- **Switch between stored eSIMs:** Settings > Cellular > tap the desired plan > Turn On This Line.
+- **Rename profiles:** Settings > Cellular > tap the plan > Cellular Plan Label – choose a custom name (e.g., "Japan Trip").
+
+
+## Using Physical SIM and eSIM Together (Dual SIM)
 
 All iPhones from XR through 13 (global) and global 14–17 support **one physical SIM + one eSIM** active at the same time. US eSIM‑only models (14–17) use **dual eSIM** instead.
 
@@ -234,89 +320,178 @@ All iPhones from XR through 13 (global) and global 14–17 support **one physica
    - **Default Data Line** – which line uses mobile internet
    - **Cellular Data Switching** – allow automatic switching if the primary data line loses signal (use with caution abroad to avoid roaming charges)
 
+### Dual SIM Configuration – Recommended Settings for Travel
+
+| Setting | Recommended Value | Why |
+| :--- | :--- | :--- |
+| **Default Voice Line** | Home SIM (your regular number) | Keep receiving calls on your home number |
+| **Cellular Data** | Travel eSIM | Use local data plan, not expensive roaming |
+| **Data Roaming (Home SIM)** | OFF | Prevent accidental roaming charges |
+| **Data Roaming (Travel eSIM)** | ON | Required for travel eSIM to work |
+| **Allow Cellular Data Switching** | ON | Allows calls/SMS on home SIM to use travel eSIM data for Wi‑Fi Calling |
+
 ### Example: Traveling from US to Japan
 - Keep your US physical SIM (or home eSIM) for calls/SMS.
 - Buy a Japan travel eSIM for data.
 - Set Japan eSIM as **Default Data Line** and turn on **Data Roaming** for that line.
 
----
 
-## Regional differences: China, Hong Kong, US, and global
+## eSIM vs Physical SIM – Which Is Better on iPhone?
+
+| Feature | eSIM | Physical SIM |
+| :--- | :--- | :--- |
+| **Switching carriers** | Instant – scan QR code | Need to swap physical card |
+| **Travel** | Buy local plan before arrival | Buy physical SIM at airport |
+| **Security** | Can't be physically stolen | Can be removed/stolen |
+| **Dual SIM** | Two eSIMs active (iPhone 13+) | One physical + one eSIM |
+| **Lost phone** | Carrier can disable remotely | Anyone can remove and use SIM |
+| **Activation time** | 2‑5 minutes | 5‑10 minutes + store visit |
+| **Device compatibility** | Requires eSIM‑compatible iPhone | Works on all phones |
+| **Carrier lock** | Can be locked to one carrier | Can be locked to one carrier |
+
+**Verdict:** eSIM is more convenient and secure for travel and daily use. Physical SIM is only better if you frequently swap between incompatible devices or need a backup when traveling to regions with limited eSIM support (like China).
+
+
+## Regional Differences: China, Hong Kong, US, and Global – iPhone eSIM Variants
 
 - **Mainland China models** (model number ends with CH/A): No eSIM – dual physical SIM instead.
 - **Hong Kong & Macau models**: Typically physical SIM + eSIM (same as global).
 - **US models (iPhone 14–17)**: eSIM only – no physical SIM tray.
 - **Global models (Europe, Asia non‑China, etc.)**: Physical SIM + eSIM.
 
+| Region | Model Suffix | Physical SIM | eSIM | Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| **Mainland China** | CH/A | 2 physical SIMs | ❌ No | No eSIM hardware at all |
+| **Hong Kong** | HK/A | 1 physical SIM | ✅ Yes | Same as global |
+| **Macau** | ZP/A | 1 physical SIM | ✅ Yes | Same as global |
+| **USA** | LL/A | ❌ No (14+) | ✅ Yes | eSIM‑only from iPhone 14 |
+| **Canada** | VC/A | 1 physical SIM | ✅ Yes | Same as global |
+| **UK/Europe** | B/A | 1 physical SIM | ✅ Yes | Same as global |
+| **Japan** | J/A | 1 physical SIM | ✅ Yes | Same as global |
+| **Australia/NZ** | X/A | 1 physical SIM | ✅ Yes | Same as global |
+
 If you travel frequently, a **global version** (physical + eSIM) offers more flexibility than a US eSIM‑only model.
 
----
 
-## Special cases: eSIM‑only iPhones (US models 14–17)
+## Special Cases: eSIM‑Only iPhones (US Models 14–17)
 
-### What “eSIM only” means
+### What "eSIM Only" Means
 - No physical SIM slot.
 - You must activate at least one eSIM to use cellular.
 - Dual SIM works via two eSIMs (dual eSIM).
 
-### First‑time setup for eSIM‑only iPhone
+### First‑Time Setup for eSIM‑Only iPhone
 - Transfer eSIM from old iPhone during setup.
 - Or activate via carrier app.
 - Or skip and add later via **Settings > Cellular > Add Cellular Plan**.
 
-### Traveling with an eSIM‑only iPhone
+### Traveling with an eSIM‑Only iPhone
 - Install travel eSIM before departure (on Wi‑Fi).
 - At destination, set travel eSIM as **Default Data Line** and turn on **Data Roaming**.
 - Keep home eSIM active for calls (but beware roaming charges if you answer).
 
-### What if your eSIM‑only iPhone breaks abroad?
+### What If Your eSIM‑Only iPhone Breaks Abroad?
 You cannot insert a physical SIM as a backup. Your options:
 - Buy a new eSIM from a local carrier that supports online purchase.
 - Use Wi‑Fi only.
 - Keep a backup eSIM QR code in your email.
+- Carry a secondary device (old phone) with a physical SIM slot as backup.
 
----
+### How to Transfer eSIM from Old iPhone to New iPhone
 
-## Buying a used iPhone for eSIM travel
+**Method 1: Quick Transfer (iOS 16+)**
+1. During new iPhone setup, choose **"Transfer eSIM from nearby iPhone"**.
+2. Keep both phones close, connected to Wi‑Fi, and signed into the same Apple ID.
+3. Follow the on‑screen prompts – the eSIM transfers automatically.
+
+**Method 2: Carrier App Transfer**
+1. On the new iPhone, download your carrier's app.
+2. Log in and look for "Activate eSIM" or "Transfer eSIM".
+3. Follow the carrier‑specific flow.
+
+**Method 3: Delete and Re‑install (Last Resort)**
+1. On the old phone: Settings > Cellular > tap the eSIM > Remove Cellular Plan.
+2. On the new phone: Settings > Cellular > Add Cellular Plan > scan the original QR code (or use carrier app).
+3. ⚠️ Warning: Travel eSIMs usually cannot be re‑installed – contact your provider first.
+
+**Method 4: Physical SIM Conversion (If You Have a Physical SIM)**
+1. On the new phone: Settings > Cellular > Add Cellular Plan > **"Convert from physical SIM"**.
+2. Follow the prompts – this converts your physical SIM to an eSIM on the new device.
+3. The physical SIM becomes inactive after conversion.
+
+> 💡 **Pro Tip:** Always keep your original eSIM QR code or activation email in a safe place (cloud storage, password manager). If anything goes wrong during transfer, you'll have a backup.
+
+
+## Buying a Used iPhone for eSIM Travel
 
 | Model | Why Recommended | Approx. Used Price (USD) |
-|-------|----------------|--------------------------|
-| iPhone SE (3rd gen) | Cheap, 5G, full eSIM | $200–280 |
-| iPhone 13 | Dual eSIM, good battery | $350–450 |
-| iPhone 12 | Cheapest 5G + eSIM | $250–350 |
-| iPhone 11 | Very cheap, 4G only | $150–250 |
-| iPhone XR | Absolute cheapest eSIM iPhone | $100–150 |
+| :--- | :--- | :--- |
+| **iPhone SE (3rd gen)** | Cheap, 5G, full eSIM | $200–280 |
+| **iPhone 13** | Dual eSIM, good battery | $350–450 |
+| **iPhone 12** | Cheapest 5G + eSIM | $250–350 |
+| **iPhone 11** | Very cheap, 4G only | $150–250 |
+| **iPhone XR** | Absolute cheapest eSIM iPhone | $100–150 |
 
-### What to avoid
+### What to Avoid
 - Mainland China models (CH/A) – no eSIM.
 - iPhone 8, X – no eSIM at all.
 - Carrier‑locked iPhones – risky for travel eSIM.
 - US eSIM‑only models as a backup phone (no physical SIM slot).
 
+### In‑Person Verification Checklist (Before Buying)
+
+| Step | What to Check |
+| :--- | :--- |
+| **1** | Dial `*#06#` – confirm **EID** appears (not just IMEI) |
+| **2** | Settings > General > About – check **Model Number** (avoid CH/A) |
+| **3** | Settings > General > About – **Carrier Lock** must say "No SIM restrictions" |
+| **4** | Settings > Cellular – look for **"Add Cellular Plan"** – should be tappable |
+| **5** | (Optional) Try installing a free eSIM like Roami's – if it works, eSIM is fully functional |
+
 For Android alternatives, see our **[Samsung Galaxy eSIM compatibility guide](/faq/samsung-s20-esim-compatible/)** and **[Google Pixel eSIM compatibility guide](/faq/google-pixel-6-esim-compatible/)**.
 
-### How to verify before buying
-1. Check model number (avoid CH/A).
-2. Dial `*#06#` and look for EID.
-3. Try installing a free eSIM (like Roami's) in person.
 
----
+## What Happens to eSIM When You Sell or Reset Your iPhone?
 
-## Troubleshooting: common eSIM problems
+### Before Selling Your iPhone – Secure Erasure Steps
+
+| Step | Action |
+| :--- | :--- |
+| **1** | Settings > Cellular > tap each eSIM > **Remove Cellular Plan** (this releases the profile from the device) |
+| **2** | Remove any physical SIM card |
+| **3** | Settings > General > Transfer or Reset iPhone > **Erase All Content and Settings** |
+| **4** | This removes all eSIM profiles permanently – the next owner cannot access your eSIM |
+
+### What Happens If You Don't Remove eSIM Before Reset?
+- The eSIM profile becomes orphaned – it's still tied to your carrier but inactive on the device.
+- The next owner won't be able to use it (it's still tied to your account).
+- You may still be billed for the plan if it's active.
+
+### Can You Reactivate an eSIM After Factory Reset?
+- **Travel eSIMs:** Usually not – they're one‑time install. Contact your provider for a new QR code.
+- **Carrier eSIMs (Verizon, T‑Mobile, etc.):** Yes – use the carrier app to re‑download the profile.
+- **If you kept the original QR code:** You may be able to re‑scan it (if not expired).
+
+> ⚠️ **Warning:** Always remove eSIM profiles before erasing your iPhone. Orphaned eSIMs can cause activation issues for the next owner and billing issues for you.
+
+
+## Troubleshooting: Common eSIM Problems on iPhone
 
 | Problem | Likely Cause | Solution |
-|---------|--------------|----------|
-| “Cellular Plan Cannot Be Added” | Too many stored eSIMs or expired QR | Delete unused eSIMs; request new QR |
-| eSIM installed but no data | Data Roaming off | Turn on Data Roaming for that line |
-| “Your eSIM is Not Supported” | Outdated iOS or incompatible profile | Update iOS; contact provider |
-| “No SIM” after activation | Corrupted profile | Delete and re‑install |
-| Works on iPhone 12 but not iPhone 14 | Old profile incompatible with eSIM‑only | Request new profile |
+| :--- | :--- | :--- |
+| **"Cellular Plan Cannot Be Added"** | Too many stored eSIMs or expired QR | Delete unused eSIMs; request new QR |
+| **eSIM installed but no data** | Data Roaming off | Turn on Data Roaming for that line |
+| **"Your eSIM is Not Supported"** | Outdated iOS or incompatible profile | Update iOS; contact provider |
+| **"No SIM" after activation** | Corrupted profile | Delete and re‑install |
+| **Works on iPhone 12 but not iPhone 14** | Old profile incompatible with eSIM‑only | Request new profile |
+| **QR code says "Invalid"** | QR expired or already used | Request new QR from provider |
+| **"Unable to Activate eSIM"** | Wi‑Fi issue or server problem | Restart, check Wi‑Fi, wait, then retry |
+| **eSIM shows "Searching" for long time** | Out of coverage | Manual network selection |
+| **Dual eSIM – one line drops during calls** | iPhone is dual standby, not dual active | Normal behavior – see [dual eSIM guide](/faq/dual-esim-not-working-12-fixes-for-iphone/) |
+| **eSIM not showing up in Settings** | Software glitch after update | Go to Settings > General > About – if EID appears but no cellular option, restart phone |
 
-For more advanced troubleshooting covering 16 real-world cases, see our **[eSIM Deep Troubleshooting Guide 2026](/faq/esim-deep-troubleshooting-guide-2026/)** .
 
----
-
-## Frequently Asked Questions (natural answers)
+## Frequently Asked Questions
 
 **Does the iPhone 11 series support eSIM?**
 Yes – the iPhone 11, 11 Pro, and 11 Pro Max all support eSIM, provided you have the global version (not mainland China). You can verify by dialing `*#06#` – if an EID appears, eSIM is ready.
@@ -330,6 +505,9 @@ Yes. The iPhone 13 series (including Pro and Pro Max) supports two active eSIMs 
 **Does the iPhone 14 (US model) have a physical SIM slot?**
 No. US models of the iPhone 14, 15, 16, and 17 are **eSIM only**. They have no physical SIM tray. Global models still include a physical SIM slot alongside eSIM.
 
+**Does the iPhone 16e support eSIM?**
+Yes. The iPhone 16e supports eSIM on all models. US versions are eSIM‑only; global versions have a physical SIM slot plus eSIM.
+
 **Can I travel to China with a US eSIM‑only iPhone?**
 Yes, but you cannot use a Chinese local carrier's eSIM (they don't offer eSIM to tourists). You must buy an international travel eSIM before you go. Install it on Wi‑Fi, then turn on Data Roaming when you arrive – it will work on roaming partners like China Unicom.
 
@@ -337,21 +515,52 @@ Yes, but you cannot use a Chinese local carrier's eSIM (they don't offer eSIM to
 The iPhone XR, XS, and XS Max (released September 2018) are the first iPhones to support eSIM. If you have an iPhone 8 or iPhone X, you cannot use eSIM.
 
 **How do I transfer my eSIM from an old iPhone to a new one?**
-During setup of your new iPhone, look for the option **“Transfer eSIM from nearby iPhone”**. Keep both phones close. If that doesn't work, delete the eSIM from the old device (after confirming it's backed up) and re‑install using the original QR code or carrier app.
+During setup of your new iPhone, look for the option **"Transfer eSIM from nearby iPhone"**. Keep both phones close. If that doesn't work, delete the eSIM from the old device (after confirming it's backed up) and re‑install using the original QR code or carrier app. See the detailed transfer section above.
 
-**Why does my iPhone say “Cellular Plan Cannot Be Added”?**
+**Why does my iPhone say "Cellular Plan Cannot Be Added"?**
 You may have too many stored eSIM profiles (iPhones can store around 8). Go to **Settings > Cellular**, delete any unused plans, restart your phone, and try again. Also ensure the QR code hasn't expired.
+
+**What does "eSIM only" mean on US iPhones?**
+It means the iPhone has no physical SIM tray – you must use one or more eSIMs for cellular service. Dual SIM works via two eSIMs (dual eSIM).
+
+**How many eSIM profiles can I store on my iPhone?**
+iPhone can store **up to 8 eSIM profiles**, but only one or two can be active at once (depending on the model). See the storage limit table above.
+
+**What happens to my eSIM if I reset my iPhone?**
+If you erase all content and settings without removing eSIM first, the profile becomes orphaned. Always remove eSIM profiles before resetting (Settings > Cellular > Remove Cellular Plan).
+
+**Can I convert my physical SIM to eSIM on iPhone?**
+Yes – on iPhone 13 and newer, go to Settings > Cellular > Add Cellular Plan > **"Convert from physical SIM"**. This transfers your physical SIM to an eSIM on the same device. The physical SIM becomes inactive after conversion.
+
+**Does the iPhone 8 support eSIM?**
+No – the iPhone 8, 8 Plus, and iPhone X do not have eSIM hardware. They use physical SIM only.
+
+**What's the cheapest iPhone with eSIM?**
+The iPhone XR (used) is the cheapest eSIM‑capable iPhone at around $100–150. The iPhone SE (3rd gen) is the cheapest new eSIM iPhone.
+
+**How do I check if my iPhone is carrier‑locked?**
+Settings > General > About > Carrier Lock. If it says "No SIM restrictions", your iPhone is unlocked and can use any eSIM. If it says "SIM locked", contact your carrier for an unlock.
+
+**What's the difference between iPhone 13 dual eSIM and iPhone 12 dual SIM?**
+iPhone 12 supports one physical SIM + one eSIM. iPhone 13 supports two active eSIMs (no physical SIM needed) OR one physical SIM + one eSIM. This makes iPhone 13 the first model with true dual eSIM capability.
+
+**Can I use an eSIM on iPhone 17 if I bought it in the US?**
+Yes – but US iPhone 17 models are eSIM‑only (no physical SIM slot). You'll need to use eSIM for all cellular service.
+
+**How do I fix eSIM not showing up in Settings after an iOS update?**
+This is a known iOS bug. Go to Settings > General > About – if your EID number appears but the eSIM doesn't show in Cellular, restart your iPhone. If that doesn't work, go to Settings > Cellular > Add eSIM – sometimes the phone detects the existing profile and re-adds it automatically.
 
 ---
 
-## Still unsure? Test with a free eSIM
+## Still Unsure? Test with a Free eSIM
 
 The most reliable way to confirm your iPhone's eSIM compatibility is to install a **free trial eSIM**. It takes 2 minutes, costs nothing, and if it activates successfully, your phone is 100% ready.
 
 👉 [**Get your free Roami eSIM trial**](/free-esim/)
 
 ---
-*Based on Apple official documentation, GSMA standards, and carrier information. Updated: June 2026.*
+
+*Based on Apple official documentation, GSMA standards, and carrier information as of August 2026.*
 ## Sources
 
 - [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
