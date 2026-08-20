@@ -2,8 +2,8 @@
 title: "Spain eSIM Guide: Plans, Networks & Travel Tips"
 description: "Compare the best Spain eSIM plans for 2026 with our complete guide. Movistar, Orange, and Vodafone networks compared with pricing, setup steps, and travel tips for Spain."
 keywords: ["Spain eSIM guide", "Spain eSIM plans", "Movistar Orange Vodafone Spain", "Spain travel eSIM", "best eSIM for Spain travel", "Spain eSIM prepaid", "Spain eSIM with phone number"]
-date: 2026-08-04T00:00:00Z
-lastmod: 2026-08-04T00:00:00Z
+date: 2026-08-19T00:00:00Z
+lastmod: 2026-08-19T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/spain/spain-esim-complete-travel-guide.jpg"

@@ -45,7 +45,7 @@ banner:
 hero:
   flag_image: img/flags/us.svg
   flag_alt: USA Flag
-  title: 'Top-Rated USA eSIM: 5G Coverage & Best Prepaid Plans for Travelers'
+  title: 'USA eSIM: 5G Coverage & Best Prepaid Plans for Travelers'
   subtitle: Instant activation | Top-rated 5G coverage | 24/7 support - the best prepaid eSIM for USA
 features:
   title: 'Why USA Travelers Choose Roami: Network, Plans & Value'

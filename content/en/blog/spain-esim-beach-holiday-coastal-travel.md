@@ -2,8 +2,8 @@
 title: "Spain Beach eSIM Guide: Costa del Sol & Islands 2026"
 description: "Compare the best Spain travel eSIM for beach holidays on Costa del Sol, Canary Islands, and Balearic Islands. Coverage guides, data plans, and auto network switching for coastal travel."
 keywords: ["Spain eSIM beach holiday", "Costa del Sol eSIM", "Canary Islands eSIM", "Balearic Islands eSIM", "Spain coastal eSIM", "best Spain eSIM for beach holidays", "Spain travel eSIM", "Spain eSIM for travel"]
-date: 2026-08-04T00:00:00Z
-lastmod: 2026-08-04T00:00:00Z
+date: 2026-08-19T00:00:00Z
+lastmod: 2026-08-19T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/spain/spain-esim-beach-holiday-coastal-travel.jpg"

@@ -2,8 +2,8 @@
 title: "Spain eSIM for Business Travel and Digital Nomads"
 description: "Find a Spain eSIM for business trips and remote work. Reliable data for video calls, meetings and multi-device setups. Roami offers auto network switching."
 keywords: ["Spain eSIM business", "Spain eSIM digital nomad", "Spain eSIM remote work", "Spain eSIM video calls", "Spain eSIM for work"]
-date: 2026-08-04T00:00:00Z
-lastmod: 2026-08-04T00:00:00Z
+date: 2026-08-19T00:00:00Z
+lastmod: 2026-08-19T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/spain/spain-esim-business-digital-nomad.jpg"

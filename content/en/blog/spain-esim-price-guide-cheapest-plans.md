@@ -2,8 +2,8 @@
 title: "Spain eSIM Price Guide: Cheapest Plans Compared"
 description: "Compare the cheapest Spain eSIM plans for 2026 from 1GB to 50GB. Find the best value for your trip—local carriers vs international providers with per-GB pricing."
 keywords: ["cheapest Spain eSIM", "Spain eSIM price", "Spain eSIM plans comparison", "Spain eSIM cost per GB", "budget Spain eSIM", "best value Spain eSIM", "Spain eSIM prepaid", "Spain eSIM 30-day"]
-date: 2026-08-04T00:00:00Z
-lastmod: 2026-08-04T00:00:00Z
+date: 2026-08-19T00:00:00Z
+lastmod: 2026-08-19T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/spain/spain-esim-price-guide-cheapest-plans.jpg"

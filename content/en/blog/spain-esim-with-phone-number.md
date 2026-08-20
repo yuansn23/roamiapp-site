@@ -2,8 +2,8 @@
 title: "Spain eSIM with Phone Number: How to Get a Spanish +34 Number"
 description: "How to get a Spain eSIM with a Spanish phone number for Renfe, Cabify and local app verification. Compare Orange Holiday, Vodafone Travel, Movistar Turista and prepaid carriers."
 keywords: ["Spain eSIM with phone number", "Spain eSIM phone number", "Spain eSIM +34 number", "Spain eSIM voice calls", "Spain eSIM local number", "Orange Holiday Spain eSIM", "Spain eSIM prepaid number"]
-date: 2026-08-04T00:00:00Z
-lastmod: 2026-08-04T00:00:00Z
+date: 2026-08-19T00:00:00Z
+lastmod: 2026-08-19T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/spain/spain-esim-with-phone-number.jpg"
