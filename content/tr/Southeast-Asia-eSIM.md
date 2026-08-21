@@ -71,7 +71,7 @@ features:
     desc: 'En iyi sinyal için Güneydoğu Asya''nın en iyi operatörlerine otomatik bağlanır'
 plans_title: 'Güneydoğu Asya eSIM Satın Alın: Her Seyahat Süresi için Planlar'
 plans_data:
-  7 Days:
+  7 Gün:
   - spec: 3GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Gezmek için ideal'
@@ -113,7 +113,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.43'
-  30 Days:
+  30 Gün:
   - spec: 3GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Gezmek için ideal'
@@ -155,7 +155,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '0.93'
-  15 Days:
+  15 Gün:
   - spec: 3GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Gezmek için ideal'

@@ -105,7 +105,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
-  - spec: Unlimited
+  - spec: Безлимит
     data: Безлимитные высокоскоростные данные
     desc: Беззаботное использование данных
     price: '8.99'
@@ -155,7 +155,7 @@ plans_data:
     tag: Лучшее соотношение цены и качества
     tagColor: bg-emerald-500
     daily: '1.00'
-  - spec: Unlimited
+  - spec: Безлимит
     data: Безлимитные высокоскоростные данные
     desc: Беззаботное использование данных
     price: '24.99'
@@ -172,7 +172,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.27'
-  - spec: Unlimited
+  - spec: Безлимит
     data: Безлимитные высокоскоростные данные
     desc: Беззаботное использование данных
     price: '61.99'
@@ -230,7 +230,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '1.00'
   15 дней:
-  - spec: Unlimited
+  - spec: Безлимит
     data: Безлимитные высокоскоростные данные
     desc: Беззаботное использование данных
     price: '31.99'

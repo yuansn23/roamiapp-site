@@ -18,140 +18,201 @@
     <meta name="twitter:description" content="{{ .Params.seo.description }}">
     <meta name="twitter:image" content="{{ .Params.seo.image }}">
     
-   
-
+    <!-- ============================================================ -->
+    <!-- 结构化数据 - 包含 Product ItemList -->
+    <!-- ============================================================ -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@graph": [
         {
           "@type": "WebSite",
-          "@id": "{{ .Site.BaseURL }}#website",
-          "name": "{{ .Site.Title }}",
-          "url": "{{ .Site.BaseURL }}",
+          "@id": {{ printf "%s#website" .Site.BaseURL | jsonify }},
+          "name": {{ .Site.Title | jsonify }},
+          "url": {{ .Site.BaseURL | jsonify }},
           "potentialAction": {
             "@type": "SearchAction",
-            "target": "{{ .Permalink }}?search={search_term_string}",
+            "target": {{ printf "%s?search={search_term_string}" .Permalink | jsonify }},
             "query-input": "required name=search_term_string"
           }
         },
         {
           "@type": "Organization",
-          "@id": "{{ .Site.BaseURL }}#organization",
-          "name": "{{ .Site.Title }}",
-          "url": "{{ .Site.BaseURL }}"
-        }
-        {{ if .Params.top_countries }},
+          "@id": {{ printf "%s#organization" .Site.BaseURL | jsonify }},
+          "name": {{ .Site.Title | jsonify }},
+          "url": {{ .Site.BaseURL | jsonify }},
+          "logo": {{ printf "%simg/logo.png" .Site.BaseURL | absLangURL | jsonify }},
+          "sameAs": [
+            "https://www.facebook.com/roami",
+            "https://www.instagram.com/roami",
+            "https://www.twitter.com/roami"
+          ]
+        },
+        {{ if .Params.top_countries }}
         {
           "@type": "ItemList",
-          "name": "{{ .Params.ui.schema_top_dest_name | default "Top eSIM Destinations" }}",
+          "name": {{ .Params.ui.schema_top_dest_name | default "Top eSIM Destinations" | jsonify }},
+          "description": {{ .Params.ui.schema_top_dest_desc | default "Most popular eSIM destinations for travelers" | jsonify }},
           "itemListElement": [
             {{ range $index, $item := .Params.top_countries }}
             {{ if gt $index 0 }},{{ end }}
             {
               "@type": "ListItem",
               "position": {{ add $index 1 }},
-              "name": "{{ .name }} {{ $.Params.ui.schema_esim_suffix | default "eSIM" }}",
-              "url": "{{ if .slug }}{{ printf "/%s-esim/" (.slug | lower) | absLangURL }}{{ else }}{{ printf "/%s-esim/" ((.name | urlize) | lower) | absLangURL }}{{ end }}"
+              "name": {{ printf "%s %s" $item.name ($.Params.ui.schema_esim_suffix | default "eSIM") | jsonify }},
+              "url": {{ if $item.slug }}{{ printf "/%s-esim/" ($item.slug | lower) | absLangURL | jsonify }}{{ else }}{{ printf "/%s-esim/" (($item.name | urlize) | lower) | absLangURL | jsonify }}{{ end }}
+            }
+            {{ end }}
+          ]
+        },
+        {{ end }}
+        {
+          "@type": "ItemList",
+          "name": {{ .Params.ui.schema_product_list_name | default "eSIM Data Plans for Global Travel" | jsonify }},
+          "description": {{ .Params.ui.schema_product_list_desc | default "Browse our selection of eSIM data plans for countries worldwide. Instant activation, 5G/4G coverage." | jsonify }},
+          "numberOfItems": {{ add (len .Params.top_countries) (len .Params.all_countries) }},
+          "itemListElement": [
+            {{ $allProducts := slice }}
+            {{ $allProducts = $allProducts | append .Params.top_countries }}
+            {{ $allProducts = $allProducts | append .Params.all_countries }}
+            {{ range $index, $item := $allProducts }}
+            {{ if gt $index 0 }},{{ end }}
+            {{ $priceValue := $.Params.ui.schema_price_value | default "1.99" }}
+            {{ $priceHigh := $.Params.ui.schema_price_high_value | default "49.99" }}
+            {{ $currency := $.Params.ui.schema_price_currency | default "USD" }}
+            {{ $destName := $item.name }}
+            {{ $destSlug := $item.slug | default ($destName | urlize) }}
+            {{ $destURL := printf "/%s-esim/" ($destSlug | lower) | absLangURL }}
+            {{ $flagURL := printf "/img/flags/%s.svg" $item.code | absLangURL }}
+            {
+              "@type": "ListItem",
+              "position": {{ add $index 1 }},
+              "item": {
+                "@type": "Product",
+                "name": {{ printf "%s %s" $destName ($.Params.ui.schema_esim_suffix | default "eSIM") | jsonify }},
+                "description": {{ printf "%s %s" $destName ($.Params.ui.schema_product_desc_suffix | default "travel eSIM data plan with 5G/4G coverage. Stay connected instantly with local rates.") | jsonify }},
+                "image": {{ $flagURL | jsonify }},
+                "brand": {
+                  "@type": "Brand",
+                  "name": "Roami"
+                },
+                "category": "eSIM Data Plan",
+                "offers": {
+                  "@type": "AggregateOffer",
+                  "lowPrice": {{ $priceValue | jsonify }},
+                  "highPrice": {{ $priceHigh | jsonify }},
+                  "priceCurrency": {{ $currency | jsonify }},
+                  "offerCount": "1",
+                  "availability": "https://schema.org/InStock",
+                  "url": {{ $destURL | jsonify }},
+                  "eligibleRegion": {
+                    "@type": "Country",
+                    "name": {{ $destName | jsonify }}
+                  },
+                  "seller": {
+                    "@type": "Organization",
+                    "name": "Roami"
+                  }
+                }
+              }
             }
             {{ end }}
           ]
         }
-        {{ end }}
       ]
     }
     </script>
+
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     
     <style>
-	
-	.value-claim-visual {
-    background: linear-gradient(135deg, #eff6ff 0%, #e0f2fe 100%);
-    border-top: 2px solid #93c5fd;
-    border-bottom: 2px solid #93c5fd;
-}
-.value-claim-visual .claim-item {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.25rem;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-.value-claim-visual .badge-5g {
-    background: #2563eb;
-    color: white;
-    font-weight: 700;
-    padding: 0.2rem 0.8rem;
-    border-radius: 9999px;
-    font-size: 0.75rem;
-    display: inline-flex;
-    align-items: center;
-    gap: 0.25rem;
-    letter-spacing: 0.025em;
-    box-shadow: 0 2px 6px rgba(37, 99, 235, 0.3);
-}
-.value-claim-visual .badge-5g svg {
-    width: 1rem;
-    height: 1rem;
-    fill: none;
-    stroke: currentColor;
-    stroke-width: 2.5;
-    stroke-linecap: round;
-    stroke-linejoin: round;
-}
-.value-claim-visual .competitor {
-    position: relative;
-    display: inline-block;
-    color: #94a3b8;
-    font-weight: 500;
-    padding: 0 0.1em;
-}
-.value-claim-visual .competitor::after {
-    content: '';
-    position: absolute;
-    top: 50%;
-    left: -3px;
-    width: calc(100% + 6px);
-    height: 2.5px;
-    background: #ef4444;
-    transform: rotate(-18deg);
-    transform-origin: center center;
-    border-radius: 3px;
-    box-shadow: 0 1px 3px rgba(239, 68, 68, 0.25);
-}
-.value-claim-visual .discount-number {
-    color: #dc2626;
-    font-weight: 900;
-    font-size: 2rem;
-    line-height: 1;
-    background: white;
-    padding: 0 0.5rem;
-    border-radius: 0.5rem;
-    box-shadow: 0 2px 8px rgba(220, 38, 38, 0.15);
-    display: inline-block;
-}
-.value-claim-visual .save-tag {
-    background: #dc2626;
-    color: white;
-    font-weight: 700;
-    padding: 0.2rem 0.8rem;
-    border-radius: 9999px;
-    font-size: 0.65rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    box-shadow: 0 2px 6px rgba(220, 38, 38, 0.3);
-    margin-left: 0.25rem;
-}
-@media (min-width: 640px) {
-    .value-claim-visual .discount-number {
-        font-size: 2.5rem;
-    }
-}
-@media (min-width: 1024px) {
-    .value-claim-visual .discount-number {
-        font-size: 3rem;
-    }
-}
+        .value-claim-visual {
+            background: linear-gradient(135deg, #eff6ff 0%, #e0f2fe 100%);
+            border-top: 2px solid #93c5fd;
+            border-bottom: 2px solid #93c5fd;
+        }
+        .value-claim-visual .claim-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.25rem;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .value-claim-visual .badge-5g {
+            background: #2563eb;
+            color: white;
+            font-weight: 700;
+            padding: 0.2rem 0.8rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.25rem;
+            letter-spacing: 0.025em;
+            box-shadow: 0 2px 6px rgba(37, 99, 235, 0.3);
+        }
+        .value-claim-visual .badge-5g svg {
+            width: 1rem;
+            height: 1rem;
+            fill: none;
+            stroke: currentColor;
+            stroke-width: 2.5;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+        }
+        .value-claim-visual .competitor {
+            position: relative;
+            display: inline-block;
+            color: #94a3b8;
+            font-weight: 500;
+            padding: 0 0.1em;
+        }
+        .value-claim-visual .competitor::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: -3px;
+            width: calc(100% + 6px);
+            height: 2.5px;
+            background: #ef4444;
+            transform: rotate(-18deg);
+            transform-origin: center center;
+            border-radius: 3px;
+            box-shadow: 0 1px 3px rgba(239, 68, 68, 0.25);
+        }
+        .value-claim-visual .discount-number {
+            color: #dc2626;
+            font-weight: 900;
+            font-size: 2rem;
+            line-height: 1;
+            background: white;
+            padding: 0 0.5rem;
+            border-radius: 0.5rem;
+            box-shadow: 0 2px 8px rgba(220, 38, 38, 0.15);
+            display: inline-block;
+        }
+        .value-claim-visual .save-tag {
+            background: #dc2626;
+            color: white;
+            font-weight: 700;
+            padding: 0.2rem 0.8rem;
+            border-radius: 9999px;
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            box-shadow: 0 2px 6px rgba(220, 38, 38, 0.3);
+            margin-left: 0.25rem;
+        }
+        @media (min-width: 640px) {
+            .value-claim-visual .discount-number {
+                font-size: 2.5rem;
+            }
+        }
+        @media (min-width: 1024px) {
+            .value-claim-visual .discount-number {
+                font-size: 3rem;
+            }
+        }
 
         body { font-family: 'Inter', system-ui, sans-serif; }
         .dest-card { transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease; box-shadow: 0 2px 8px rgba(0,0,0,.04); }
@@ -208,8 +269,6 @@
         <p class="text-lg md:text-xl text-slate-300 mb-8 max-w-2xl mx-auto">
             {{ .Params.hero.subtitle }}
         </p>
-
-         
         </div>
         <div class="max-w-2xl mx-auto relative">
             <form role="search" onsubmit="event.preventDefault();" class="search-wrapper flex items-center bg-white rounded-2xl p-2 shadow-2xl transition-all duration-300 border-2 border-transparent">
@@ -232,31 +291,24 @@
     </div>
 </header>
 
-  <!-- ============================================================ -->
+<!-- ============================================================ -->
+<!-- Value Claim Section -->
+<!-- ============================================================ -->
 <section class="value-claim-visual py-3 md:py-4">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex flex-wrap items-center justify-center gap-1 sm:gap-2 md:gap-4 text-center">
-
-            <!-- 5G 徽章 -->
             <span class="badge-5g">
                 {{ i18n "vp_5g_badge" }}
             </span>
-
             <span class="text-base sm:text-lg md:text-xl font-semibold text-slate-800">{{ i18n "vp_same" }}</span>
             <span class="text-base sm:text-lg md:text-xl font-bold text-blue-600">{{ i18n "vp_network" }}</span>
             <span class="text-base sm:text-lg md:text-xl font-semibold text-slate-800">{{ i18n "vp_compare" }}</span>
-
             <span class="text-base sm:text-lg md:text-xl font-semibold text-slate-800">{{ i18n "vp_cheaper" }}</span>
-
-            <!-- 突出的 30% -->
             <span class="discount-number">{{ i18n "vp_percent" }}</span>
-
-            <!-- 小标签 -->
             <span class="save-tag">{{ i18n "vp_save_tag" }}</span>
         </div>
     </div>
 </section>
-
 
 <section class="py-16 flex-grow relative">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -310,22 +362,22 @@
             <div class="absolute top-0 right-0 -mt-10 -mr-10 text-blue-500 opacity-5 pointer-events-none" aria-hidden="true">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-64 h-64"><path d="M22 12A10 10 0 1 1 12 2a10 10 0 0 1 10 10z"></path><path d="M2 12h20"></path><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
             </div>
-        <div class="relative z-10 flex flex-col md:flex-row md:items-end justify-between mb-10 gap-4">
-    <div>
-        <div class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-blue-100/80 text-blue-700 text-xs font-bold tracking-wide uppercase mb-4 shadow-sm">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 h-3.5" aria-hidden="true">
-                <path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"></path>
-            </svg>
-            {{ i18n "premium_coverage" }}
-        </div>
-        <h2 class="text-3xl md:text-4xl font-extrabold text-slate-900 tracking-tight">
-            {{ i18n "regional_plans_title" }}
-        </h2>
-        <p class="text-slate-500 mt-3 text-base max-w-xl leading-relaxed">
-            {{ i18n "regional_subtitle" }}
-        </p>
-    </div>
-</div>
+            <div class="relative z-10 flex flex-col md:flex-row md:items-end justify-between mb-10 gap-4">
+                <div>
+                    <div class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-blue-100/80 text-blue-700 text-xs font-bold tracking-wide uppercase mb-4 shadow-sm">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 h-3.5" aria-hidden="true">
+                            <path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"></path>
+                        </svg>
+                        {{ i18n "premium_coverage" }}
+                    </div>
+                    <h2 class="text-3xl md:text-4xl font-extrabold text-slate-900 tracking-tight">
+                        {{ i18n "regional_plans_title" }}
+                    </h2>
+                    <p class="text-slate-500 mt-3 text-base max-w-xl leading-relaxed">
+                        {{ i18n "regional_subtitle" }}
+                    </p>
+                </div>
+            </div>
             
             <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative z-10 list-none p-0 m-0" id="regionalPlansGrid">
                 {{ range .Params.regional_plans }}
@@ -407,9 +459,6 @@
         </div>
     </div>
 </section>
-
- 
-
 
 {{ partial "footer.html" . }}
 

@@ -76,7 +76,7 @@ features:
     desc: Connexion auto aux meilleurs opérateurs Laos pour le signal le plus fort
 plans_title: 'Acheter eSIM Laos: Forfaits pour Tout Voyage'
 plans_data:
-  30 Days:
+  30 jours:
   - spec: 20GB
     data: Haut débit 5G/4G/LTE
     desc: Parfait pour votre voyage
@@ -126,7 +126,7 @@ plans_data:
     tag: Grande valeur
     tagColor: bg-emerald-500
     daily: '0.80'
-  7 Days:
+  7 jours:
   - spec: 1GB
     data: Haut débit 5G/4G/LTE
     desc: Parfait pour les courts voyages d'affaires
@@ -135,7 +135,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '0.71'
-  - spec: Unlimited
+  - spec: Illimité
     data: Haut débit illimité
     desc: Utilisation des données sans souci
     price: '46.99'
@@ -184,7 +184,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '5.00'
-  10 Days:
+  10 jours:
   - spec: 15GB
     data: Haut débit 5G/4G/LTE
     desc: Parfait pour un voyage approfondi
@@ -193,7 +193,7 @@ plans_data:
     tag: Grande valeur
     tagColor: bg-emerald-500
     daily: '1.10'
-  15 Days:
+  15 jours:
   - spec: 3GB
     data: Haut débit 5G/4G/LTE
     desc: Parfait pour les visites touristiques
@@ -203,7 +203,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '0.87'
     tagIcon: star
-  - spec: Unlimited
+  - spec: Illimité
     data: Haut débit illimité
     desc: Utilisation des données sans souci
     price: '98.99'
@@ -243,8 +243,8 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '3.60'
-  3 Days:
-  - spec: Unlimited
+  3 jours:
+  - spec: Illimité
     data: Haut débit illimité
     desc: Utilisation des données sans souci
     price: '20.99'

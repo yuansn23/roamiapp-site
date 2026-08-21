@@ -71,7 +71,7 @@ features:
     desc: 'En iyi sinyal için Tunus''un en iyi taşıyıcılarına otomatik bağlanır'
 plans_title: 'Tunus eSIM Satın Alın: Her Seyahat Süresi için Planlar'
 plans_data:
-  7 Days:
+  7 Gün:
   - spec: '3GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Şehir gezileri için mükemmel'
@@ -121,7 +121,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '4.14'
-  15 Days:
+  15 Gün:
   - spec: '3GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Şehir gezileri için mükemmel'
@@ -171,7 +171,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.93'
-  30 Days:
+  30 Gün:
   - spec: '5GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Derinlemesine seyahat için mükemmel'
@@ -221,7 +221,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.03'
-  3 Days:
+  3 Gün:
   - spec: 'Sınırsız'
     data: 'Sınırsız Yüksek Hız'
     desc: 'Endişesiz veri kullanımı'

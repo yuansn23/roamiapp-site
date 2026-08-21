@@ -82,7 +82,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.71'
-  - spec: Unlimited
+  - spec: Illimité
     data: Données haut débit illimitées
     desc: Utilisation des données sans souci
     price: '19.99'
@@ -132,7 +132,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '0.66'
-  - spec: Unlimited
+  - spec: Illimité
     data: Données haut débit illimitées
     desc: Utilisation des données sans souci
     price: '9.99'
@@ -231,7 +231,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '0.77'
-  - spec: Unlimited
+  - spec: Illimité
     data: Données haut débit illimitées
     desc: Utilisation des données sans souci
     price: '77.99'
@@ -240,7 +240,7 @@ plans_data:
     tagColor: bg-purple-600
     daily: '2.60'
   15 jours:
-  - spec: Unlimited
+  - spec: Illimité
     data: Données haut débit illimitées
     desc: Utilisation des données sans souci
     price: '39.99'

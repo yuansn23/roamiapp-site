@@ -131,7 +131,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
-  - spec: Unlimited
+  - spec: Unbegrenzt
     data: Unbegrenzte Hochgeschwindigkeitsdaten
     desc: Sorgenfreie Datennutzung
     price: '69.99'
@@ -148,7 +148,7 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '0.27'
   7 Tage:
-  - spec: Unlimited
+  - spec: Unbegrenzt
     data: Unbegrenzte Hochgeschwindigkeitsdaten
     desc: Sorgenfreie Datennutzung
     price: '17.99'
@@ -198,7 +198,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '2.14'
   15 Tage:
-  - spec: Unlimited
+  - spec: Unbegrenzt
     data: Unbegrenzte Hochgeschwindigkeitsdaten
     desc: Sorgenfreie Datennutzung
     price: '37.99'
@@ -264,7 +264,7 @@ plans_data:
     tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '2.33'
-  - spec: Unlimited
+  - spec: Unbegrenzt
     data: Unbegrenzte Hochgeschwindigkeitsdaten
     desc: Sorgenfreie Datennutzung
     price: '9.99'

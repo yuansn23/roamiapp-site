@@ -71,7 +71,7 @@ features:
 plans_title: 購買薩爾瓦多 eSIM：適合各種旅程的方案
 plans_data:
   3 天:
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速數據
     desc: 無憂使用數據
     price: '49.99'
@@ -97,7 +97,7 @@ plans_data:
     tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '5.00'
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速數據
     desc: 無憂使用數據
     price: '84.99'

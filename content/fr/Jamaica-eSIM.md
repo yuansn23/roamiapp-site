@@ -134,7 +134,7 @@ plans_data:
     daily: '0.90'
     tagIcon: star
   3 jours:
-  - spec: Unlimited
+  - spec: Illimité
     data: Données haut débit illimitées
     desc: Utilisation des données sans souci
     price: '52.99'

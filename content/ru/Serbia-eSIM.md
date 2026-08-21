@@ -72,7 +72,7 @@ features:
 plans_title: 'Купить eSIM Сербия: Тарифы для Любой Поездки'
 plans_data:
   7 дней:
-  - spec: Unlimited
+  - spec: Безлимит
     data: Безлимитные высокоскоростные данные
     desc: Беззаботное использование данных
     price: '45.99'
@@ -130,7 +130,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '2.14'
   15 дней:
-  - spec: Unlimited
+  - spec: Безлимит
     data: Безлимитные высокоскоростные данные
     desc: Беззаботное использование данных
     price: '89.99'
@@ -229,7 +229,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
-  - spec: Unlimited
+  - spec: Безлимит
     data: Безлимитные высокоскоростные данные
     desc: Беззаботное использование данных
     price: '78.99'
@@ -238,7 +238,7 @@ plans_data:
     tagColor: bg-purple-600
     daily: '2.63'
   3 дней:
-  - spec: Unlimited
+  - spec: Безлимит
     data: Безлимитные высокоскоростные данные
     desc: Беззаботное использование данных
     price: '9.99'

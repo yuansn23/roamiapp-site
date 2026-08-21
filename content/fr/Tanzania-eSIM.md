@@ -75,7 +75,7 @@ features:
     desc: Connexion auto aux meilleurs opérateurs Tanzanie pour le signal le plus fort
 plans_title: 'Acheter eSIM Tanzanie: Forfaits pour Tout Voyage'
 plans_data:
-  7 Days:
+  7 jours:
   - spec: 1GB
     data: Haut débit 5G/4G/LTE
     desc: Parfait pour les courts voyages d'affaires
@@ -117,8 +117,8 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '9.28'
-  3 Days:
-  - spec: Unlimited
+  3 jours:
+  - spec: Illimité
     data: Haut débit illimité
     desc: Utilisation des données sans souci
     price: '52.99'
@@ -159,7 +159,7 @@ plans_data:
     tag: Grande valeur
     tagColor: bg-emerald-500
     daily: '11.00'
-  30 Days:
+  30 jours:
   - spec: 30GB
     data: Haut débit 5G/4G/LTE
     desc: Parfait pour votre voyage
@@ -201,7 +201,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '0.63'
     tagIcon: star
-  15 Days:
+  15 jours:
   - spec: 20GB
     data: Haut débit 5G/4G/LTE
     desc: Parfait pour votre voyage

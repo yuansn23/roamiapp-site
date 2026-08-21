@@ -116,7 +116,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '7.28'
-  - spec: Unlimited
+  - spec: Illimité
     data: Données haut débit illimitées
     desc: Utilisation des données sans souci
     price: '67.99'

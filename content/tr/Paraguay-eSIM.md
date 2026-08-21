@@ -71,7 +71,7 @@ features:
     desc: 'En iyi sinyal için Paraguay''ın en iyi taşıyıcılarına otomatik bağlanır'
 plans_title: 'Paraguay eSIM Satın Alın: Her Seyahat Süresi için Planlar'
 plans_data:
-  7 Days:
+  7 Gün:
   - spec: '1GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Kısa iş seyahatleri için mükemmel'
@@ -80,7 +80,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '3.28'
-  15 Days:
+  15 Gün:
   - spec: '3GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Şehir gezileri için mükemmel'
@@ -90,7 +90,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '3.67'
     tagIcon: star
-  30 Days:
+  30 Gün:
   - spec: '15GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Derinlemesine seyahat için mükemmel'
@@ -99,7 +99,7 @@ plans_data:
     tag: 'Harika Değer'
     tagColor: bg-emerald-500
     daily: '1.03'
-  3 Days:
+  3 Gün:
   - spec: 'Sınırsız'
     data: 'Sınırsız Yüksek Hız'
     desc: 'Endişesiz veri kullanımı'

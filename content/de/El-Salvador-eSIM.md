@@ -75,7 +75,7 @@ features:
 plans_title: 'El Salvador eSIM kaufen: Tarife fuer jeden Reisezeitraum'
 plans_data:
   3 Tage:
-  - spec: Unlimited
+  - spec: Unbegrenzt
     data: Unbegrenzte Hochgeschwindigkeitsdaten
     desc: Sorgenfreie Datennutzung
     price: '49.99'
@@ -101,7 +101,7 @@ plans_data:
     tag: Bestes Preis-Leistungs-Verhältnis
     tagColor: bg-emerald-500
     daily: '5.00'
-  - spec: Unlimited
+  - spec: Unbegrenzt
     data: Unbegrenzte Hochgeschwindigkeitsdaten
     desc: Sorgenfreie Datennutzung
     price: '84.99'

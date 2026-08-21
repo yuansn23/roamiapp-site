@@ -75,7 +75,7 @@ features:
     desc: En iyi sinyal için Kırgızistan''ın önde gelen operatörlerine otomatik bağlanır
 plans_title: 'Kırgızistan eSIM Satın Alın: Her Seyahat Süresi İçin Planlar'
 plans_data:
-  7 Days:
+  7 Gün:
   - spec: 3GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Gezinti için ideal
@@ -109,7 +109,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.57'
-  15 Days:
+  15 Gün:
   - spec: 3GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Gezinti için ideal
@@ -143,7 +143,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.27'
-  30 Days:
+  30 Gün:
   - spec: 3GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Gezinti için ideal
@@ -193,7 +193,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.23'
-  3 Days:
+  3 Gün:
   - spec: Sınırsız
     data: Sınırsız Yüksek Hız
     desc: Endişesiz veri kullanımı

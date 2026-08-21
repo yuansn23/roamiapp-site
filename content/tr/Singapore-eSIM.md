@@ -71,7 +71,7 @@ features:
     desc: 'En iyi sinyal için Singapur''un en iyi taşıyıcılarına otomatik bağlanır'
 plans_title: 'Singapur eSIM Satın Alın: Her Seyahat Süresi için Planlar'
 plans_data:
-  30 Days:
+  30 Gün:
   - spec: '30GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Seyahatiniz için mükemmel'
@@ -137,7 +137,7 @@ plans_data:
     tag: 'Premium'
     tagColor: bg-purple-600
     daily: '2.20'
-  15 Days:
+  15 Gün:
   - spec: '3GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Şehir gezileri için mükemmel'
@@ -187,7 +187,7 @@ plans_data:
     tag: 'Premium'
     tagColor: bg-purple-600
     daily: '2.40'
-  7 Days:
+  7 Gün:
   - spec: '1GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Kısa iş seyahatleri için mükemmel'
@@ -237,7 +237,7 @@ plans_data:
     tag: 'Premium'
     tagColor: bg-purple-600
     daily: '3.57'
-  3 Days:
+  3 Gün:
   - spec: '1GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Kısa iş seyahatleri için mükemmel'

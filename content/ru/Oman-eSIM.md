@@ -155,7 +155,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '1.43'
     tagIcon: star
-  - spec: Unlimited
+  - spec: Безлимит
     data: Безлимитные высокоскоростные данные
     desc: Беззаботное использование данных
     price: '57.99'
@@ -231,7 +231,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '2.66'
     tagIcon: star
-  - spec: Unlimited
+  - spec: Безлимит
     data: Безлимитные высокоскоростные данные
     desc: Беззаботное использование данных
     price: '23.99'

@@ -75,7 +75,7 @@ features:
     desc: En iyi sinyal için Azerbaycan''ın önde gelen operatörlerine otomatik bağlanır
 plans_title: 'Azerbaycan eSIM Satın Alın: Her Seyahat Süresi İçin Planlar'
 plans_data:
-  7 Days:
+  7 Gün:
   - spec: 3GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Gezinti için ideal
@@ -109,7 +109,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '5.43'
-  15 Days:
+  15 Gün:
   - spec: 3GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Gezinti için ideal
@@ -151,7 +151,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '6.33'
-  30 Days:
+  30 Gün:
   - spec: 3GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Gezinti için ideal
@@ -201,7 +201,7 @@ plans_data:
     tag: Harika Değer
     tagColor: bg-emerald-500
     daily: '1.03'
-  3 Days:
+  3 Gün:
   - spec: 3GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Gezinti için ideal

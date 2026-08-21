@@ -102,9 +102,9 @@
     {
       "@context": "https://schema.org/",
       "@type": "Product",
-      "name": "{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}",
-      "image": "{{ site.Home.Permalink }}img/home3.png",
-      "description": "{{ .Params.seo.description }}",
+      "name": {{ with .Params.seo.title }}{{ . | jsonify }}{{ else }}{{ .Title | jsonify }}{{ end }},
+      "image": {{ printf "%simg/home3.png" site.Home.Permalink | jsonify }},
+      "description": {{ .Params.seo.description | jsonify }},
       "brand": {
         "@type": "Brand",
         "name": "Roami"
@@ -118,16 +118,16 @@
     {
       "@context": "https://schema.org",
       "@type": "HowTo",
-      "name": "How to activate {{ .Params.hero.title }}",
-      "description": "Step by step guide to activate your {{ .Params.hero.title }} eSIM.",
+      "name": {{ printf "How to activate %s" .Params.hero.title | jsonify }},
+      "description": {{ printf "Step by step guide to activate your %s eSIM." .Params.hero.title | jsonify }},
       "step": [
         {{ $len := len .Params.activation_steps.steps }}
         {{ range $index, $step := .Params.activation_steps.steps }}
         {
           "@type": "HowToStep",
-          "name": "{{ .title }}",
+          "name": {{ .title | jsonify }},
           "text": {{ or .desc .title | plainify | jsonify }},
-          "url": "{{ $.Permalink }}#step-{{ .num }}"
+          "url": {{ printf "%s#step-%s" $.Permalink .num | jsonify }}
         }{{ if ne (add $index 1) $len }},{{ end }}
         {{ end }}
       ]
@@ -1123,10 +1123,10 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "{{ .Site.Title }}",
-  "url": "{{ .Site.BaseURL }}",
-  "logo": "{{ (site.Home.Permalink) }}img/logo.png",
-  "description": "{{ .Site.Params.description | default "Roami – global eSIM provider for travelers" }}",
+  "name": {{ .Site.Title | jsonify }},
+  "url": {{ .Site.BaseURL | jsonify }},
+  "logo": {{ printf "%simg/logo.png" site.Home.Permalink | jsonify }},
+  "description": {{ .Site.Params.description | default "Roami – global eSIM provider for travelers" | jsonify }},
   "sameAs": [
     "https://www.facebook.com/profile.php?id=61552827344440",
     "https://www.youtube.com/@RoamiAPP",
@@ -1141,12 +1141,12 @@
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "name": "{{ .Site.Title }}",
-  "url": "{{ .Site.BaseURL }}",
-  "description": "{{ .Site.Params.description | default "Global eSIM provider for seamless travel connectivity" }}",
+  "name": {{ .Site.Title | jsonify }},
+  "url": {{ .Site.BaseURL | jsonify }},
+  "description": {{ .Site.Params.description | default "Global eSIM provider for seamless travel connectivity" | jsonify }},
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "{{ .Site.BaseURL }}/search?q={search_term_string}",
+    "target": {{ printf "%s/search?q={search_term_string}" .Site.BaseURL | jsonify }},
     "query-input": "required name=search_term_string"
   }
 }

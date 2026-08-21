@@ -72,7 +72,7 @@ features:
     desc: 自動連線紐西蘭最佳電信商，取得最強訊號
 plans_title: 購買紐西蘭 eSIM：適合各種旅程的方案
 plans_data:
-  30 Days:
+  30 天:
   - spec: 5GB
     data: 高速 5G/4G/LTE
     desc: 非常適合深度旅遊
@@ -98,7 +98,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速流量
     desc: 無憂數據使用體驗
     price: '99.99'
@@ -130,7 +130,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.10'
-  15 Days:
+  15 天:
   - spec: 3GB
     data: 高速 5G/4G/LTE
     desc: 非常適合觀光行程
@@ -140,7 +140,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '0.53'
     tagIcon: star
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速流量
     desc: 無憂數據使用體驗
     price: '49.99'
@@ -180,7 +180,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.13'
-  7 Days:
+  7 天:
   - spec: 1GB
     data: 高速 5G/4G/LTE
     desc: 非常適合短期出差
@@ -189,7 +189,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '0.57'
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速流量
     desc: 無憂數據使用體驗
     price: '26.99'
@@ -230,7 +230,7 @@ plans_data:
     tag: 超值首選
     tagColor: bg-emerald-500
     daily: '1.57'
-  3 Days:
+  3 天:
   - spec: 5GB
     data: 高速 5G/4G/LTE
     desc: 非常適合深度旅遊
@@ -256,7 +256,7 @@ plans_data:
     tag: 超值首選
     tagColor: bg-emerald-500
     daily: '3.00'
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速流量
     desc: 無憂數據使用體驗
     price: '12.99'

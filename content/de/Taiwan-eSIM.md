@@ -118,7 +118,7 @@ plans_data:
     tag: Bestes Angebot
     tagColor: bg-emerald-500
     daily: '1.57'
-  - spec: Unlimited traffic
+  - spec: Unbegrenztes Datenvolumen
     data: Unbegrenztes Highspeed-Volumen
     desc: Sorgenfreie Datennutzung
     price: '20.99'
@@ -160,7 +160,7 @@ plans_data:
     tag: Bestes Angebot
     tagColor: bg-emerald-500
     daily: '0.43'
-  - spec: Unlimited traffic
+  - spec: Unbegrenztes Datenvolumen
     data: Unbegrenztes Highspeed-Volumen
     desc: Sorgenfreie Datennutzung
     price: '69.99'
@@ -210,7 +210,7 @@ plans_data:
     tag: Bestes Angebot
     tagColor: bg-emerald-500
     daily: '0.87'
-  - spec: Unlimited
+  - spec: Unbegrenzt
     data: Unbegrenztes Highspeed-Volumen
     desc: Sorgenfreie Datennutzung
     price: '42.99'
@@ -268,7 +268,7 @@ plans_data:
     tag: Bestes Angebot
     tagColor: bg-emerald-500
     daily: '3.00'
-  - spec: Unlimited
+  - spec: Unbegrenzt
     data: Unbegrenztes Highspeed-Volumen
     desc: Sorgenfreie Datennutzung
     price: '9.99'

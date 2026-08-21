@@ -587,15 +587,15 @@
   {
     "@context": "https://schema.org",
     "@type": "Article",
-    "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ .Permalink }}" },
-    "headline": "{{ .Title }}",
-    "description": "{{ .Description }}",
-    "image": "{{ if .Params.image }}{{ .Params.image | absURL }}{{ else }}{{ "/img/logo.png" | absLangURL }}{{ end }}",
-    "author": { "@type": "Organization", "name": "{{ .Params.brand_name }}" },
+    "mainEntityOfPage": { "@type": "WebPage", "@id": {{ .Permalink | jsonify }} },
+    "headline": {{ .Title | jsonify }},
+    "description": {{ .Description | jsonify }},
+    "image": {{ if .Params.image }}{{ .Params.image | absURL | jsonify }}{{ else }}{{ "/img/logo.png" | absLangURL | jsonify }}{{ end }},
+    "author": { "@type": "Organization", "name": {{ .Params.brand_name | jsonify }} },
     "publisher": { 
         "@type": "Organization", 
-        "name": "{{ .Params.brand_name }}", 
-        "logo": { "@type": "ImageObject", "url": "{{ "/img/logo.png" | absLangURL }}" } 
+        "name": {{ .Params.brand_name | jsonify }},
+        "logo": { "@type": "ImageObject", "url": {{ "/img/logo.png" | absLangURL | jsonify }} }
     }
   },
   {{ if .Params.breadcrumb_items }}
@@ -609,7 +609,7 @@
           "@type": "ListItem",
           "position": {{ add $index 1 }},
           "name": {{ $item.name | jsonify }},
-          "item": "{{ if $item.url }}{{ if or (hasPrefix $item.url "http") (hasPrefix $item.url "#") }}{{ $item.url | safeURL }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" $item.url)) }}{{ end }}{{ else }}{{ $.Permalink }}{{ end }}"
+          "item": {{ if $item.url }}{{ if or (hasPrefix $item.url "http") (hasPrefix $item.url "#") }}{{ $item.url | safeURL | jsonify }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" $item.url)) | jsonify }}{{ end }}{{ else }}{{ $.Permalink | jsonify }}{{ end }}
         }{{ if lt (add $index 1) $len }},{{ end }}
       {{ end }}
     ]

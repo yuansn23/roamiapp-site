@@ -72,7 +72,7 @@ features:
 plans_title: 'Compra eSIM Ciudad del Vaticano: Planes para cada duración de viaje'
 plans_data:
   3 Days:
-  - spec: Unlimited
+  - spec: Ilimitado
     data: Ilimitada alta velocidad
     desc: Uso de datos sin preocupaciones
     price: '10.99'
@@ -81,7 +81,7 @@ plans_data:
     tagColor: bg-purple-600
     daily: '3.66'
   7 Days:
-  - spec: Unlimited
+  - spec: Ilimitado
     data: Ilimitada alta velocidad
     desc: Uso de datos sin preocupaciones
     price: '20.99'
@@ -90,7 +90,7 @@ plans_data:
     tagColor: bg-purple-600
     daily: '3.00'
   15 Days:
-  - spec: Unlimited
+  - spec: Ilimitado
     data: Ilimitada alta velocidad
     desc: Uso de datos sin preocupaciones
     price: '42.99'
@@ -99,7 +99,7 @@ plans_data:
     tagColor: bg-purple-600
     daily: '2.87'
   30 Days:
-  - spec: Unlimited
+  - spec: Ilimitado
     data: Ilimitada alta velocidad
     desc: Uso de datos sin preocupaciones
     price: '78.99'

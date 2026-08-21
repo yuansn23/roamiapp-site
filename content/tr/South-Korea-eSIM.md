@@ -71,7 +71,7 @@ features:
     desc: 'En iyi sinyal için Güney Kore''nin en iyi taşıyıcılarına otomatik bağlanır'
 plans_title: 'Güney Kore eSIM Satın Alın: Her Seyahat Süresi için Planlar'
 plans_data:
-  3 Days:
+  3 Gün:
   - spec: '5GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Derinlemesine seyahat için mükemmel'
@@ -113,7 +113,7 @@ plans_data:
     tag: 'Premium'
     tagColor: bg-purple-600
     daily: '3.00'
-  7 Days:
+  7 Gün:
   - spec: '20GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Seyahatiniz için mükemmel'
@@ -163,7 +163,7 @@ plans_data:
     tag: 'Premium'
     tagColor: bg-purple-600
     daily: '3.57'
-  30 Days:
+  30 Gün:
   - spec: '50GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Seyahatiniz için mükemmel'
@@ -229,7 +229,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
-  15 Days:
+  15 Gün:
   - spec: 'Sınırsız'
     data: 'Sınırsız Yüksek Hız'
     desc: 'Endişesiz veri kullanımı'

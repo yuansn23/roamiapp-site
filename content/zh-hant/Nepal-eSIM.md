@@ -71,7 +71,7 @@ features:
 plans_title: 購買尼泊爾 eSIM：適合各種旅程的方案
 plans_data:
   3 天:
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速數據
     desc: 無憂使用數據
     price: '52.99'

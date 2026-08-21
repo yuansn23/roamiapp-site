@@ -301,16 +301,16 @@
   {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    "name": "{{ .Title }}",
-    "description": "{{ .Description }}",
+    "name": {{ .Title | jsonify }},
+    "description": {{ .Description | jsonify }},
     "itemListElement": [
       {{ range $index, $element := .Params.countries }}
       {{ if $index }},{{ end }}
       { 
         "@type": "ListItem", 
         "position": {{ add $index 1 }}, 
-        "name": "{{ .name }}", 
-        "url": "{{ .btn_buy_url | absLangURL }}" 
+        "name": {{ .name | jsonify }},
+        "url": {{ .btn_buy_url | absLangURL | jsonify }}
       }
       {{ end }}
     ]
@@ -323,10 +323,10 @@
       {{ if $index }},{{ end }}
       {
         "@type": "Question",
-        "name": "{{ .q }}",
+        "name": {{ .q | jsonify }},
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "{{ .a }}"
+          "text": {{ .a | jsonify }}
         }
       }
       {{ end }}

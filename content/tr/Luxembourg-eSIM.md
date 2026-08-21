@@ -76,7 +76,7 @@ features:
     desc: En iyi sinyal için Lüksemburg''un önde gelen operatörlerine otomatik bağlanır
 plans_title: 'Lüksemburg eSIM Satın Alın: Her Seyahat Süresi İçin Planlar'
 plans_data:
-  30 Days:
+  30 Gün:
   - spec: 20GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Seyahatiniz için ideal
@@ -150,7 +150,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.60'
-  7 Days:
+  7 Gün:
   - spec: 1GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Kısa iş seyahatleri için ideal
@@ -200,7 +200,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.00'
-  15 Days:
+  15 Gün:
   - spec: 30GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Seyahatiniz için ideal
@@ -250,7 +250,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.87'
-  3 Days:
+  3 Gün:
   - spec: 1GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Kısa iş seyahatleri için ideal

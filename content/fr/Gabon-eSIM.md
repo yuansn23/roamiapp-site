@@ -168,7 +168,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '1.03'
   3 jours:
-  - spec: Unlimited
+  - spec: Illimité
     data: Données haut débit illimitées
     desc: Utilisation des données sans souci
     price: '52.99'

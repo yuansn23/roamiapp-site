@@ -71,7 +71,7 @@ features:
     desc: 'En iyi sinyal için BAE''nin en iyi taşıyıcılarına otomatik bağlanır'
 plans_title: 'BAE eSIM Satın Alın: Her Seyahat Süresi için Planlar'
 plans_data:
-  3 Days:
+  3 Gün:
   - spec: '3GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Şehir gezileri için mükemmel'
@@ -113,7 +113,7 @@ plans_data:
     tag: 'Harika Değer'
     tagColor: bg-emerald-500
     daily: '5.66'
-  7 Days:
+  7 Gün:
   - spec: '3GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Şehir gezileri için mükemmel'
@@ -163,7 +163,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '5.00'
-  15 Days:
+  15 Gün:
   - spec: '3GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Şehir gezileri için mükemmel'
@@ -205,7 +205,7 @@ plans_data:
     tag: 'Premium'
     tagColor: bg-purple-600
     daily: '6.67'
-  30 Days:
+  30 Gün:
   - spec: '3GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Şehir gezileri için mükemmel'

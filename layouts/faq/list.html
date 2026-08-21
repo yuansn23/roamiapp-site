@@ -43,11 +43,11 @@
       "@graph": [
         {
           "@type": "WebSite",
-          "name": "{{ .Site.Title }}",
-          "url": "{{ .Site.BaseURL | lower | strings.TrimSuffix "/" }}/",
+          "name": {{ .Site.Title | jsonify }},
+          "url": {{ printf "%s/" (.Site.BaseURL | lower | strings.TrimSuffix "/") | jsonify }},
           "potentialAction": {
             "@type": "SearchAction",
-            "target": "{{ .Permalink | lower | strings.TrimSuffix "/" }}/?search={search_term_string}",
+            "target": {{ printf "%s/?search={search_term_string}" (.Permalink | lower | strings.TrimSuffix "/") | jsonify }},
             "query-input": "required name=search_term_string"
           }
         }
@@ -63,14 +63,14 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "{{ .Params.ui.breadcrumb_home }}",
-          "item": "{{ "/" | absLangURL | lower | strings.TrimSuffix "/" }}/"
+          "name": {{ .Params.ui.breadcrumb_home | jsonify }},
+          "item": {{ printf "%s/" ("/" | absLangURL | lower | strings.TrimSuffix "/") | jsonify }}
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "{{ .Params.ui.breadcrumb_current }}",
-          "item": "{{ .Permalink | lower | strings.TrimSuffix "/" }}/"
+          "name": {{ .Params.ui.breadcrumb_current | jsonify }},
+          "item": {{ printf "%s/" (.Permalink | lower | strings.TrimSuffix "/") | jsonify }}
         }
       ]
     }
@@ -88,10 +88,10 @@
             {{- if not $first -}},{{- end -}}
             {
               "@type": "Question",
-              "name": "{{ $.Params.free_esim_promo.question }}",
+              "name": {{ $.Params.free_esim_promo.question | jsonify }},
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "{{ $.Params.free_esim_promo.schema_answer }}"
+                "text": {{ $.Params.free_esim_promo.schema_answer | jsonify }}
               }
             }
             {{- $first = false -}}

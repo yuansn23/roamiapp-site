@@ -1,84 +1,84 @@
 ---
-title: 'Niger eSIM 2026: Complete Travel Guide | Roami'
+title: 'eSIM Niger 2026 : Guide de voyage complet | Roami'
 date: '2026-06-17T00:00:00+00:00'
 draft: false
 type: esim
 country_meta:
-  core_keyword: Niger eSIM
-  scenario_keywords: Sahara Desert trip, W National Park safari, Niamey city tour, River Niger cruise, Agadez exploration
+  core_keyword: eSIM Niger
+  scenario_keywords: voyage dans le désert du Sahara, safari au parc national du W, visite de la ville de Niamey, croisière sur le fleuve Niger, exploration d'Agadez
   operators: Airtel Niger, Niger Telecom, Moov
   competitors: Airalo, Holafly, Nomad, Ubigi, Yesim
   main_cities: Niamey, Zinder, Maradi, Tahoua, Agadez
-  main_packages: 3/7/15/30 Days, Unlimited Data
+  main_packages: 3/7/15/30 jours, données illimitées
 modal:
-  title: Service Upgraded!
-  btn_text: Continue
-  text_default: Our eSIM service has been upgraded to <strong>PhoneSIMGo</strong>.<br>New customers enjoy a 20% discount,
-    promo code:web20
-  text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
-    code:web20
+  title: Mise à jour du service !
+  btn_text: Continuer
+  text_default: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIMGo</strong>.<br>Les nouveaux clients bénéficient
+    de 20% de réduction avec le code : web20'
+  text_android: 'Notre service eSIM a été mis à jour vers <strong>PhoneSIM</strong>.<br>Les nouveaux clients bénéficient de
+    20% de réduction avec le code : web20'
 seo:
-  title: 'Niger eSIM: Airtel & Niger Telecom 5G – Full Coverage'
-  description: Compare Niger eSIM plans with fast 5G in Niamey, Zinder, Maradi. Airtel Niger & Niger Telecom & Moov coverage
-    guide for tourists & travelers. Instant QR activation from $1.99.
-  keywords: Niger eSIM, buy Niger eSIM, best Niger eSIM, Niger travel eSIM, Airtel Niger Niger, Niger Telecom Niger, Moov
-    Niger, Niamey eSIM, Zinder eSIM, Maradi eSIM, Niger prepaid eSIM, 5G Niger eSIM
+  title: 'eSIM Niger : Airtel & Niger Telecom 5G – Couverture complète'
+  description: Comparez les forfaits eSIM Niger avec la 5G rapide à Niamey, Zinder et Maradi. Guide de couverture Airtel Niger,
+    Niger Telecom et Moov pour les touristes et les voyageurs. Activation par code QR instantanée à partir de 1,99 $.
+  keywords: eSIM Niger, acheter eSIM Niger, meilleure eSIM Niger, eSIM voyage Niger, Airtel Niger, Niger Telecom, Moov Niger,
+    eSIM Niamey, eSIM Zinder, eSIM Maradi, eSIM prépayée Niger, 5G Niger eSIM
   low_price: 1.99
   high_price: 39.9
 order_summary:
-  title: Selected Plan
-  label_data: Data Included
-  label_validity: Validity
-  label_daily: Daily Average
-  label_total: Total Price
-  btn_primary: Claim 20% Off
-  btn_secondary: 'Code: web20'
+  title: Forfait sélectionné
+  label_data: Volume de données
+  label_validity: Validité
+  label_daily: Prix par jour
+  label_total: Prix total
+  btn_primary: Obtenir 20% de réduction
+  btn_secondary: 'Code : web20'
 breadcrumbs:
-- label: Home
+- label: Accueil
   url: /
-- label: Niger eSIM
+- label: eSIM Niger
 banner:
   image: img/esim/esim-travel.jpg
-  alt: Best eSIM for Niger
-  title: Best eSIM for Niger
+  alt: Meilleure eSIM pour Niger
+  title: Meilleure eSIM pour Niger
 hero:
   flag_image: img/flags/ni.svg
-  flag_alt: Niger Flag
-  title: 'Niger eSIM: Complete Data Solutions for Your Trip'
-  subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Niger travelers
+  flag_alt: Drapeau Niger
+  title: 'eSIM Niger : solutions de données complètes pour votre voyage'
+  subtitle: Sans frais cachés | Internet sans souci | Support 24/7 - la meilleure eSIM prépayée pour les voyageurs au Niger
 features:
-  title: 'Why Niger Travelers Choose Roami: Coverage, Speed & Service'
+  title: 'Pourquoi les voyageurs choisissent Roami pour Niger: Couverture, Vitesse & Service'
   items:
   - icon: zap
     color: from-brand-400 to-brand-600
-    title: Instant QR Code
-    desc: Get your Niger eSIM QR code via email in 5 minutes
+    title: Code QR instantané
+    desc: Recevez votre code QR eSIM Niger par email en 5 minutes
   - icon: headset
     color: from-emerald-400 to-emerald-600
-    title: 24/7 Support
-    desc: 24/7 support for your Niger trip - real humans, not bots
+    title: Support 24/7
+    desc: Support 24/7 pour votre voyage au Niger - de vrais humains, pas des bots
   - icon: shield-check
     color: from-amber-400 to-amber-600
-    title: Not Available
-    desc: 100% refund if your Niger eSIM doesn't activate
+    title: Garantie
+    desc: Remboursement 100% si votre eSIM Niger ne s'active pas
   - icon: wifi
     color: from-purple-400 to-purple-600
-    title: Hotspot Supported
-    desc: Share your Niger data with travel companions, no limits
+    title: Point d'accès
+    desc: Partagez vos données Niger avec vos compagnons de voyage, sans limite
   - icon: file-x
     color: from-rose-400 to-rose-600
-    title: No Contracts
-    desc: No contracts, cancel anytime - perfect for Niger trips
+    title: Sans contrat
+    desc: Sans engagement, annulable à tout moment - parfait pour les voyages au Niger
   - icon: radio-tower
     color: from-blue-400 to-blue-600
-    title: Auto-Switch
-    desc: Auto-connects to top Niger carriers for the best signal
-plans_title: 'Buy Niger eSIM: Plans for Every Trip Duration'
+    title: Sélection auto
+    desc: Connexion auto aux meilleurs opérateurs du Niger pour le signal le plus fort
+plans_title: 'Acheter eSIM Niger: Forfaits pour Tout Voyage'
 plans_data:
-  7 Days:
+  7 jours:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour visiter les attractions
     price: '23.99'
     oldPrice: '35.98'
     tag: ''
@@ -86,17 +86,17 @@ plans_data:
     daily: '3.43'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Haut débit 5G/4G/LTE
+    desc: Adapté aux longs séjours
     price: '34.99'
     oldPrice: '52.48'
-    tag: Great Value
+    tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '5.00'
-  15 Days:
+  15 jours:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour visiter les attractions
     price: '25.99'
     oldPrice: '38.98'
     tag: ''
@@ -104,25 +104,25 @@ plans_data:
     daily: '1.73'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Haut débit 5G/4G/LTE
+    desc: Adapté aux longs séjours
     price: '37.99'
     oldPrice: '56.98'
-    tag: Great Value
+    tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '2.53'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Haut débit 5G/4G/LTE
+    desc: Adapté aux longs séjours
     price: '64.99'
     oldPrice: '97.48'
-    tag: Great Value
+    tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '4.33'
-  30 Days:
+  30 jours:
   - spec: 3GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for sightseeing
+    data: Haut débit 5G/4G/LTE
+    desc: Parfait pour visiter les attractions
     price: '26.99'
     oldPrice: '40.48'
     tag: ''
@@ -130,210 +130,210 @@ plans_data:
     daily: '0.90'
     tagIcon: star
   - spec: 5GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Haut débit 5G/4G/LTE
+    desc: Adapté aux longs séjours
     price: '39.99'
     oldPrice: '59.98'
-    tag: Great Value
+    tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '1.33'
   - spec: 10GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for in-depth travel
+    data: Haut débit 5G/4G/LTE
+    desc: Adapté aux longs séjours
     price: '74.99'
     oldPrice: '112.48'
-    tag: Great Value
+    tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '2.50'
   - spec: 20GB
-    data: High-Speed 5G/4G/LTE
-    desc: Perfect for your trip
+    data: Haut débit 5G/4G/LTE
+    desc: Idéal pour votre voyage
     price: '99.99'
     oldPrice: '149.98'
     tag: ''
     tagColor: bg-slate-800
     daily: '3.33'
-  3 Days:
-  - spec: Unlimited
-    data: Unlimited High-Speed
-    desc: Worry-free data usage
+  3 jours:
+  - spec: Illimité
+    data: Haut débit illimité
+    desc: Utilisation des données sans souci
     price: '52.99'
     oldPrice: '79.48'
     tag: Premium
     tagColor: bg-purple-600
     daily: '17.66'
 discount_banner:
-  title: Niger eSIM Special Discount!
-  desc_html: Use promo code <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span>
-    at checkout to get <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20% OFF</span>
-    your order!
-  btn_text: Claim Discount
-  validity: 'Validity: 3 Days'
+  title: Réduction spéciale eSIM Niger !
+  desc_html: Utilisez le code promo <span class="font-mono bg-white text-blue-600 px-2 py-0.5 rounded font-bold mx-1">web20</span>
+    lors du paiement pour obtenir <span class="font-bold underline decoration-wavy decoration-white underline-offset-4">20%
+    DE RÉDUCTION</span> sur votre commande !
+  btn_text: Profiter de la réduction
+  validity: 'Valable : 3 jours'
 network_coverage:
-  title: 'Niger eSIM Coverage: Carrier Guide & Coverage Map'
-  supports_text: 'Supports:'
+  title: 'Couverture eSIM Niger : guide des opérateurs et carte de couverture'
+  supports_text: 'Prend en charge :'
   service_details:
-    title: Service Details
+    title: Détails du service
     items:
     - icon: map
       color: text-brand-500
-      title: Coverage
-      desc: Enjoy comprehensive network coverage across Niger, including Niamey (4G), Zinder (4G), Maradi (4G), Tahoua (4G).
-        Your eSIM connects to the robust networks of Airtel Niger, Niger Telecom, Moov, ensuring stable signals in urban centers,
-        tourist hotspots, and along major transportation routes.
+      title: Couverture
+      desc: Profitez d'une couverture réseau complète dans tout le Niger, y compris Niamey (4G), Zinder (4G), Maradi (4G)
+        et Tahoua (4G). Votre eSIM se connecte aux réseaux robustes de Airtel Niger, Niger Telecom et Moov, garantissant
+        des signaux stables dans les centres urbains, les sites touristiques et le long des principaux axes de transport.
     - icon: zap
       color: text-amber-500
-      title: Delivery Time
-      desc: Immediate delivery after purchase.
+      title: Délai de livraison
+      desc: Livraison immédiate après l'achat.
     - icon: wifi
       color: text-emerald-500
-      title: Hotspot
-      desc: No hotspot limits or constraints.
+      title: Point d'accès
+      desc: Aucune limite de partage de connexion.
   carriers:
-    title: 'Airtel Niger, Niger Telecom & Moov: Niger eSIM Carrier Coverage'
-    badge: Official Partner
+    title: 'Airtel Niger, Niger Telecom & Moov : couverture eSIM Niger'
+    badge: Partenaire officiel
     items:
     - name: Airtel Niger
-      coverage: Best overall coverage
-      network: 5G/4G/LTE Network
+      coverage: Meilleure couverture globale
+      network: Réseau 5G/4G/LTE
     - name: Niger Telecom
-      coverage: Fast 5G in cities
-      network: 5G/4G/LTE Network
+      coverage: 5G rapide dans les villes
+      network: Réseau 5G/4G/LTE
     - name: Moov
-      coverage: Good urban coverage
-      network: 5G/4G/LTE Network
+      coverage: Bonne couverture urbaine
+      network: Réseau 5G/4G/LTE
 reminders:
-  title: 'Niger eSIM Setup Tips: What to Know Before You Go'
+  title: 'Conseils eSIM Niger: Avant de Partir'
   items:
   - icon: 📱
-    html: Ensure your phone is <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
-      font-bold transition-colors">eSIM compatible</a> before buying.
+    html: Avant d'acheter, vérifiez la <a href="/compatibility/" class="text-brand-600 hover:text-brand-700 underline underline-offset-2
+      font-bold transition-colors">compatibilité eSIM</a> de votre téléphone.
   - icon: ✈️
-    html: We recommend turning on the line after arriving in Niger.
+    html: Nous recommandons d'activer l'eSIM uniquement après votre arrivée au Niger.
   - icon: ⏰
-    html: Validity starts upon connection to a supported network.
+    html: La validité commence lors de la connexion au réseau partenaire.
   - icon: 📧
-    html: The QR code will be sent to your email.
+    html: Le code QR sera envoyé à votre adresse e-mail.
   - icon: 🔄
-    html: You can install multiple eSIMs simultaneously.
+    html: Vous pouvez installer plusieurs eSIM simultanément.
   compatibility_check:
-    title: Quick Compatibility Check
-    desc: 'Not sure if your phone supports eSIM? You can easily check it yourself right now:'
-    instruction: 'Dial this on your phone''s keypad:'
+    title: Vérification rapide de compatibilité
+    desc: 'Votre téléphone est-il compatible eSIM ? Vérifiez-le vous-même en quelques secondes :'
+    instruction: 'Composez ce code sur le clavier de votre téléphone :'
     code: '*#06#'
-    result_html: If an <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
-      number appears on your screen, your device is supported!
+    result_html: Si un numéro <span class="bg-slate-100 px-2 py-0.5 rounded text-slate-900 border border-slate-200 font-bold">EID</span>
+      apparaît à l'écran, votre appareil est compatible !
 activation_steps:
-  title: 'How to Install Niger eSIM: 3 Simple Steps'
+  title: 'Comment installer l''eSIM Niger : 3 étapes simples'
   steps:
   - num: '1'
-    title: 'Step 1: Receive QR Code'
-    desc: After payment, a QR code and activation guide will be sent to your email within 5 minutes. Please check your spam
-      folder if you don't see it.
+    title: 'Étape 1 : Recevoir le code QR'
+    desc: Après le paiement, un code QR et un guide d'activation vous seront envoyés par e-mail dans les 5 minutes. Veuillez
+      vérifier votre dossier spam si vous ne le voyez pas.
     is_list: false
   - num: '2'
-    title: 'Step 2: Add eSIM to Phone'
+    title: 'Étape 2 : Ajouter l''eSIM au téléphone'
     is_list: true
     list_items:
-    - Go to Settings > Cellular (or Mobile Data)
-    - Tap "Add Cellular Plan" or "Add eSIM"
-    - Scan the QR code with your camera
-    - Follow the prompts to complete setup
+    - Allez dans Réglages > Données cellulaires (ou Données mobiles)
+    - Appuyez sur « Ajouter un forfait cellulaire » ou « Ajouter une eSIM »
+    - Scannez le code QR avec votre appareil photo
+    - Suivez les instructions pour terminer la configuration
   - num: '3'
-    title: 'Step 3: Activate in Niger'
-    desc: Upon arriving in Niger, enable your Niger eSIM in settings to start using data. We recommend connecting to WiFi
-      during the initial activation.
+    title: 'Étape 3 : Activer au Niger'
+    desc: À votre arrivée au Niger, activez votre eSIM Niger dans les réglages pour commencer à utiliser les données. Nous
+      recommandons de vous connecter au WiFi lors de l'activation initiale.
     is_list: false
 faq_section:
-  title: "Getting Online in Niger -- eSIM Network Quality and Speed Guide"
-  desc: "Complete guide to eSIM internet speeds, network coverage, and connection quality for travelers in Niger. Find out what speeds to expect and where eSIM works best."
+  title: "Se connecter au Niger : guide de la vitesse et de la qualité du réseau eSIM"
+  desc: "Guide complet des vitesses Internet eSIM, de la couverture réseau et de la qualité de connexion pour les voyageurs au Niger. Découvrez les vitesses attendues et où l'eSIM fonctionne le mieux."
   categories:
   - id: faq-general
     icon: help-circle
-    tab_title: General
-    title: Niger eSIM FAQs
+    tab_title: Général
+    title: "Questions fréquentes sur l'eSIM pour le Niger"
     questions:
     - q: |
-        Will my Niger eSIM work as soon as I land, or is there an activation delay?
+        Mon eSIM Niger fonctionnera-t-elle dès mon atterrissage, ou y a-t-il un délai d'activation ?
       a: |
-        If you installed the eSIM before departure, it activates within 1-2 minutes of landing. Just turn off Airplane Mode and enable Data Roaming. Your phone automatically connects to Orange. No queues, no paperwork — you're online before you reach baggage claim.
+        Si vous avez installé l'eSIM avant le départ, elle s'active dans les 1 à 2 minutes suivant l'atterrissage. Désactivez simplement le mode Avion et activez l'itinérance des données. Votre téléphone se connecte automatiquement à Airtel Niger. Pas de files d'attente, pas de paperasse — vous êtes en ligne avant même de récupérer vos bagages.
     - q: |
-        What happens if my Niger eSIM stops working mid-trip?
+        Que se passe-t-il si mon eSIM Niger cesse de fonctionner en plein voyage ?
       a: |
-        First, try restarting your phone and enabling Data Roaming. Most issues resolve within 2 minutes. If not, manually select a carrier in network settings. Roami 24/7 support can help if problems persist.
+        Tout d'abord, essayez de redémarrer votre téléphone et d'activer l'itinérance des données. La plupart des problèmes se résolvent en 2 minutes. Sinon, sélectionnez manuellement un opérateur dans les réglages réseau. Le support Roami 24/7 peut vous aider si les problèmes persistent.
     - q: |
-        How do I know if my Niger eSIM plan is active and ready to use?
+        Comment savoir si mon forfait eSIM Niger est actif et prêt à l'emploi ?
       a: |
-        After purchasing, you'll receive the QR code within minutes. Install it before your trip. The plan activates automatically when your phone connects to a network in Niger — you'll see a carrier name in your status bar. You can verify by opening any webpage or checking your Roami account. If nothing happens after 2 minutes, enable Data Roaming or restart your phone.
+        Après l'achat, vous recevrez le code QR en quelques minutes. Installez-le avant votre voyage. Le forfait s'active automatiquement lorsque votre téléphone se connecte à un réseau au Niger — vous verrez le nom de l'opérateur dans votre barre d'état. Vous pouvez vérifier en ouvrant n'importe quelle page web ou en consultant votre compte Roami. Si rien ne se passe après 2 minutes, activez l'itinérance des données ou redémarrez votre téléphone.
     - q: |
-        Can I use navigation apps like Google Maps with eSIM in Niger?
+        Puis-je utiliser des applications de navigation comme Google Maps avec l'eSIM au Niger ?
       a: |
-        Yes — Google Maps uses about 5MB per hour for navigation with real-time traffic. Download offline maps for Niger (about 200-500MB per city) before you go as a backup.
+        Oui — Google Maps consomme environ 5 Mo par heure pour la navigation avec trafic en temps réel. Téléchargez les cartes hors ligne du Niger (environ 200 à 500 Mo par ville) avant de partir, en guise de secours.
     - q: |
-        What do I do if my Niger eSIM doesn't connect when I arrive?
+        Que faire si mon eSIM Niger ne se connecte pas à mon arrivée ?
       a: |
-        Three quick checks taking about 30 seconds each: 1) Is Data Roaming turned on? 2) Can you manually select Orange in network settings? 3) Try restarting your phone. About 90% of connection issues resolve with one of these steps. If not, Roami 24/7 support can help.
+        Trois vérifications rapides d'environ 30 secondes chacune : 1) L'itinérance des données est-elle activée ? 2) Pouvez-vous sélectionner manuellement Airtel Niger dans les réglages réseau ? 3) Essayez de redémarrer votre téléphone. Environ 90 % des problèmes de connexion se résolvent avec l'une de ces étapes. Sinon, le support Roami 24/7 peut vous aider.
     - q: |
-        How does eSIM compare to pocket WiFi for Niger travel?
+        Comment l'eSIM se compare-t-elle au pocket WiFi pour un voyage au Niger ?
       a: |
-        eSIM wins on convenience. No device to carry, charge, or return at the end of your trip — saves about $3-5 per day compared to pocket WiFi rental. Pocket WiFi works for groups of 3+, but you're tied to one device and need to keep it charged for 6-8 hours. With eSIM, your phone is your hotspot. All Roami plans include free hotspot sharing for up to 5 devices.
+        L'eSIM l'emporte sur la commodité. Aucun appareil à transporter, à charger ou à rendre à la fin de votre voyage — vous économisez environ 3 à 5 $ par jour par rapport à la location d'un pocket WiFi. Le pocket WiFi convient aux groupes de 3 personnes ou plus, mais vous êtes lié à un seul appareil et devez le garder chargé pendant 6 à 8 heures. Avec l'eSIM, votre téléphone devient votre point d'accès. Tous les forfaits Roami incluent le partage de connexion gratuit pour jusqu'à 5 appareils.
     - q: |
-        How far in advance should I buy my Niger eSIM?
+        Combien de temps à l'avance dois-je acheter mon eSIM Niger ?
       a: |
-        You can buy anytime — even at the gate. The QR code arrives within minutes. We recommend buying a few days before so you can install on WiFi at home. The plan only activates when you connect in Niger, so buying early doesn't waste your plan days.
+        Vous pouvez acheter à tout moment — même à la porte d'embarquement. Le code QR arrive en quelques minutes. Nous recommandons d'acheter quelques jours avant afin de pouvoir installer sur le WiFi à la maison. Le forfait ne s'active que lorsque vous vous connectez au Niger, donc acheter tôt ne gaspille pas vos jours de forfait.
     - q: |
-        What's the most popular eSIM choice for travelers going to Niger?
+        Quel est le choix d'eSIM le plus populaire pour les voyageurs se rendant au Niger ?
       a: |
-        Most travelers to Niger choose the 5GB/15 day plan ($9.99). It's enough for daily navigation, social media, and messaging. For longer stays or heavier use, the 10GB ($14.99) or unlimited ($59.99) plans are great options. All plans activate in minutes and include 24/7 support.
+        La plupart des voyageurs se rendant au Niger choisissent le forfait 5 Go / 15 jours (9,99 $). Il suffit pour la navigation quotidienne, les réseaux sociaux et la messagerie. Pour les séjours plus longs ou une utilisation plus intensive, les forfaits 10 Go (14,99 $) ou illimité (59,99 $) sont d'excellentes options. Tous les forfaits s'activent en quelques minutes et incluent le support 24/7.
 related_products:
-  title: Related eSIM Plans
+  title: Forfaits eSIM associés
   items:
-  - name: united states eSIM
+  - name: eSIM États-Unis
     flag: img/flags/us.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: United-Kingdom
+  - name: eSIM Royaume-Uni
     flag: img/flags/gb.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Europe eSIM
+  - name: eSIM Europe
     flag: img/flags/eu.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: true
-  - name: Canada eSIM
+  - name: eSIM Canada
     flag: img/flags/ca.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Turkey eSIM
+  - name: eSIM Turquie
     flag: img/flags/tr.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: China eSIM
+  - name: eSIM Chine
     flag: img/flags/cn.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Japan eSIM
+  - name: eSIM Japon
     flag: img/flags/jp.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Hong Kong eSIM
+  - name: eSIM Hong Kong
     flag: img/flags/hk.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: France eSIM
+  - name: eSIM France
     flag: img/flags/fr.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Spain eSIM
+  - name: eSIM Espagne
     flag: img/flags/es.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Germany eSIM
+  - name: eSIM Allemagne
     flag: img/flags/de.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
-  - name: Australia eSIM
+  - name: eSIM Australie
     flag: img/flags/au.svg
-    price: From $1.99
+    price: À partir de 1,99 $
     is_highlight: false
 ---

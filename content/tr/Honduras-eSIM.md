@@ -76,7 +76,7 @@ features:
     desc: En iyi sinyal için Honduras''ın önde gelen operatörlerine otomatik bağlanır
 plans_title: 'Honduras eSIM Satın Alın: Her Seyahat Süresi İçin Planlar'
 plans_data:
-  7 Days:
+  7 Gün:
   - spec: 1GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Kısa iş seyahatleri için ideal
@@ -85,7 +85,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
-  15 Days:
+  15 Gün:
   - spec: 3GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Gezinti için ideal
@@ -95,7 +95,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '1.47'
     tagIcon: star
-  30 Days:
+  30 Gün:
   - spec: 10GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Derinlemesine seyahat için ideal

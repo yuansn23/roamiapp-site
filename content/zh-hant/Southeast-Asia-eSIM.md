@@ -73,7 +73,7 @@ features:
     desc: 連接至頂級電信商
 plans_title: 選擇您的方案
 plans_data:
-  7 Days:
+  7 天:
   - spec: 3GB
     data: 高速 5G/4G/LTE
     desc: 非常適合觀光行程
@@ -115,7 +115,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.43'
-  30 Days:
+  30 天:
   - spec: 3GB
     data: 高速 5G/4G/LTE
     desc: 非常適合觀光行程
@@ -157,7 +157,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '0.93'
-  15 Days:
+  15 天:
   - spec: 3GB
     data: 高速 5G/4G/LTE
     desc: 非常適合觀光行程

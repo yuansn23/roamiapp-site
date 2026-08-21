@@ -103,7 +103,7 @@ plans_data:
     tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '3.86'
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速數據
     desc: 無憂使用數據
     price: '39.99'
@@ -187,7 +187,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '2.66'
     tagIcon: star
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速數據
     desc: 無憂使用數據
     price: '18.99'
@@ -253,7 +253,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '3.93'
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速數據
     desc: 無憂使用數據
     price: '94.99'

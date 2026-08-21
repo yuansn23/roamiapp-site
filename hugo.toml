@@ -608,3 +608,57 @@ footer_slogan = "Profesyonel küresel eSIM hizmet sağlayıcısı | Küresel eSI
 modal_title = "Uyarı"
 modal_cancel = "İptal"
 modal_confirm = "Şimdi Git"
+
+[languages.ko]
+languageName = "한국어"
+contentDir = "content/ko"   # Hugo에게 한국어 콘텐츠 위치를 알려줌
+weight = 10
+
+[languages.ko.params]
+# 내비게이션 바 메뉴
+nav_links = [
+  { name = "홈", url = "/" },
+  { name = "eSIM 구매", url = "/plans/" },
+  { name = "eSIM 호환성", url = "/compatibility/" },
+  { name = "무료 eSIM", url = "/free-esim/" },
+  { name = "Roami 앱", url = "/app/" },
+  { name = "자주 묻는 질문", url = "/faq/" }
+]
+
+# 푸터 텍스트
+footer_desc = "200개 이상의 국가와 지역에서 프리미엄 eSIM 서비스를 제공하여, 어디를 여행하든 연결 상태를 유지하실 수 있습니다."
+
+footer_col1_title = "주요 여행지"
+footer_col1_links = [
+  { name = "아시아 eSIM", url = "/asia-esim/" },
+  { name = "유럽 eSIM", url = "/europe-esim/" },
+  { name = "아프리카 eSIM", url = "/africa-esim/" },
+  { name = "남아메리카 eSIM", url = "/south-america-esim/" },
+  { name = "북아메리카 eSIM", url = "/north-america-esim/" },
+  { name = "중동 eSIM", url = "/middle-east-esim/" }
+]
+
+footer_col2_title = "고객 지원"
+footer_col2_links = [
+  { name = "자주 묻는 질문", url = "/faq/" },
+  { name = "eSIM 호환성", url = "/compatibility/" },
+  { name = "Roami 다운로드", url = "/app/" }
+]
+
+footer_col3_title = "회사 정보"
+footer_col3_links = [
+  { name = "회사 소개", url = "/about-us/" },
+  { name = "무료 eSIM", url = "/free-esim/" },
+  { name = "환불 정책", url = "/refund/" },
+  { name = "문의하기", url = "/contact/" },
+  { name = "개인정보처리방침", url = "/privacy/" },
+  { name = "이용약관", url = "/terms/" }
+]
+
+footer_copyright = "© 2026 Roami. 모든 권리 보유."
+footer_slogan = "전문 글로벌 eSIM 서비스 제공업체 | 글로벌 eSIM 데이터 로밍 전문가"
+
+# 모달(팝업) 텍스트
+modal_title = "알림"
+modal_cancel = "취소"
+modal_confirm = "지금 이동"

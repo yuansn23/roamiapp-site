@@ -105,7 +105,7 @@ plans_data:
     tag: Excelente relación calidad-precio
     tagColor: bg-emerald-500
     daily: '3.43'
-  - spec: Unlimited
+  - spec: Ilimitado
     data: Ilimitada alta velocidad
     desc: Uso de datos sin preocupaciones
     price: '57.99'
@@ -215,7 +215,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '2.66'
     tagIcon: star
-  - spec: Unlimited
+  - spec: Ilimitado
     data: Ilimitada alta velocidad
     desc: Uso de datos sin preocupaciones
     price: '23.99'

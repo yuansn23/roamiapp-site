@@ -315,9 +315,9 @@
     {
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "{{ .Params.seo.title }}",
-      "description": "{{ .Params.seo.description }}",
-      "url": "{{ .Permalink }}"
+      "name": {{ .Params.seo.title | jsonify }},
+      "description": {{ .Params.seo.description | jsonify }},
+      "url": {{ .Permalink | jsonify }}
     }
     </script>
 
@@ -326,8 +326,8 @@
     {
       "@context": "https://schema.org",
       "@type": "ItemList",
-      "name": "{{ .Params.ui.schema.list_name }}",
-      "description": "{{ .Params.ui.schema.list_desc }}",
+      "name": {{ .Params.ui.schema.list_name | jsonify }},
+      "description": {{ .Params.ui.schema.list_desc | jsonify }},
       "numberOfItems": {{ len .Params.countries }},
       "itemListElement": [
         {{ range $index, $country := .Params.countries }}
@@ -337,12 +337,12 @@
           "position": {{ add $index 1 }},
           "item": {
             "@type": "Service",
-            "name": "{{ $.Params.ui.schema.item_name_prefix }}{{ $country.name }}",
-            "description": "{{ $.Params.ui.schema.item_desc_prefix }}{{ $country.name }}",
-            "url": "{{ (printf "/%s-esim/" $country.slug) | relLangURL | absURL }}",
+            "name": {{ printf "%s%s" $.Params.ui.schema.item_name_prefix $country.name | jsonify }},
+            "description": {{ printf "%s%s" $.Params.ui.schema.item_desc_prefix $country.name | jsonify }},
+            "url": {{ (printf "/%s-esim/" $country.slug) | relLangURL | absURL | jsonify }},
             "areaServed": {
               "@type": "Country",
-              "name": "{{ $country.name }}"
+              "name": {{ $country.name | jsonify }}
             }
           }
         }

@@ -157,7 +157,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '3.33'
   3 天:
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速數據
     desc: 無憂使用數據
     price: '52.99'

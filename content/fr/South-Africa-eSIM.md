@@ -149,7 +149,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.80'
-  - spec: Unlimited
+  - spec: Illimité
     data: Données haut débit illimitées
     desc: Utilisation des données sans souci
     price: '94.99'
@@ -208,7 +208,7 @@ plans_data:
     tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '2.71'
-  - spec: Unlimited
+  - spec: Illimité
     data: Données haut débit illimitées
     desc: Utilisation des données sans souci
     price: '43.99'
@@ -225,7 +225,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '5.28'
   3 jours:
-  - spec: Unlimited
+  - spec: Illimité
     data: Données haut débit illimitées
     desc: Utilisation des données sans souci
     price: '21.99'

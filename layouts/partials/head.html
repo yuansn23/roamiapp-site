@@ -165,8 +165,8 @@
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "Roami",
-    "url": "{{ .Site.BaseURL }}",
-    "logo": "{{ "img/logo.png" | absURL }}",
+    "url": {{ .Site.BaseURL | jsonify }},
+    "logo": {{ "img/logo.png" | absURL | jsonify }},
     "description": {{ $orgDesc | jsonify }},
     "sameAs": [
       "https://apps.apple.com/app/id6747127122",

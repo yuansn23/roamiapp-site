@@ -172,7 +172,7 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '0.87'
   3 天:
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速數據
     desc: 無憂使用數據
     price: '52.99'

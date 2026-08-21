@@ -71,7 +71,7 @@ features:
     desc: 'En iyi operatörlere bağlanın'
 plans_title: 'Planınızı Seçin'
 plans_data:
-  30 Days:
+  30 Gün:
   - spec: 30GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Seyahatiniz için ideal'
@@ -121,7 +121,7 @@ plans_data:
     tag: 'Premium'
     tagColor: bg-purple-600
     daily: '2.63'
-  15 Days:
+  15 Gün:
   - spec: 30GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Seyahatiniz için ideal'
@@ -171,7 +171,7 @@ plans_data:
     tag: 'Premium'
     tagColor: bg-purple-600
     daily: '2.87'
-  3 Days:
+  3 Gün:
   - spec: 1GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Kısa iş gezileri için ideal'
@@ -213,7 +213,7 @@ plans_data:
     tag: 'Premium'
     tagColor: bg-purple-600
     daily: '3.33'
-  7 Days:
+  7 Gün:
   - spec: 1GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Kısa iş gezileri için ideal'

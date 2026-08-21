@@ -23,9 +23,9 @@ modal:
 
     '
 seo:
-  title: SE Asia eSIM | Best Travel Plan for 10 Countries
-  description: Backpack Southeast Asia with Roami's best prepaid travel eSIM. Unlimited 5G data in Thailand, Vietnam, Malaysia
-    & 7 more. One plan, no border fees.
+  title: eSIM Asie du Sud-Est | Meilleur forfait de voyage pour 10 pays
+  description: Voyagez en sac à dos en Asie du Sud-Est avec la meilleure eSIM de voyage prépayée de Roami. Données 5G illimitées
+    en Thaïlande, au Vietnam, en Malaisie et 7 autres pays. Un seul forfait, sans frais de frontière.
   keywords: eSIM Asie du Sud-Est, forfait eSIM Asie du Sud-Est, meilleure eSIM Asie du Sud-Est, Asie du Sud-Est data, Singtel
     Asie du Sud-Est, AIS Asie du Sud-Est, Telkomsel Asie du Sud-Est, eSIM Bangkok, eSIM Singapour, eSIM Kuala Lumpur, internet
     mobile Asie du Sud-Est, 5G Asie du Sud-Est

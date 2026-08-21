@@ -71,7 +71,7 @@ features:
 plans_title: 購買塞爾維亞 eSIM：適合各種旅程的方案
 plans_data:
   7 天:
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速數據
     desc: 無憂使用數據
     price: '45.99'
@@ -129,7 +129,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '2.14'
   15 天:
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速數據
     desc: 無憂使用數據
     price: '89.99'
@@ -228,7 +228,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速數據
     desc: 無憂使用數據
     price: '78.99'
@@ -237,7 +237,7 @@ plans_data:
     tagColor: bg-purple-600
     daily: '2.63'
   3 天:
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速數據
     desc: 無憂使用數據
     price: '9.99'

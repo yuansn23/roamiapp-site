@@ -71,7 +71,7 @@ features:
     desc: 'En iyi sinyal için Nepal''in en iyi operatörlerine otomatik bağlanır'
 plans_title: 'Nepal eSIM Satın Alın: Her Seyahat Süresi için Planlar'
 plans_data:
-  7 Days:
+  7 Gün:
   - spec: 3GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Gezmek için ideal'
@@ -105,7 +105,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.57'
-  15 Days:
+  15 Gün:
   - spec: 3GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Gezmek için ideal'
@@ -139,7 +139,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '8.33'
-  30 Days:
+  30 Gün:
   - spec: 3GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Gezmek için ideal'
@@ -173,7 +173,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '3.33'
-  3 Days:
+  3 Gün:
   - spec: Sınırsız
     data: 'Sınırsız Yüksek Hız'
     desc: 'Endişesiz veri kullanımı'

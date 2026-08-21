@@ -71,7 +71,7 @@ features:
     desc: 'En iyi sinyal için Moğolistan''ın en iyi taşıyıcılarına otomatik bağlanır'
 plans_title: 'Moğolistan eSIM Satın Alın: Her Seyahat Süresi için Planlar'
 plans_data:
-  7 Days:
+  7 Gün:
   - spec: '1GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Kısa iş seyahatleri için mükemmel'
@@ -97,7 +97,7 @@ plans_data:
     tag: 'Harika Değer'
     tagColor: bg-emerald-500
     daily: '5.14'
-  15 Days:
+  15 Gün:
   - spec: '3GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Şehir gezileri için mükemmel'
@@ -107,7 +107,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '1.27'
     tagIcon: star
-  3 Days:
+  3 Gün:
   - spec: '10GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Derinlemesine seyahat için mükemmel'
@@ -124,7 +124,7 @@ plans_data:
     tag: 'Premium'
     tagColor: bg-purple-600
     daily: '17.66'
-  30 Days:
+  30 Gün:
   - spec: '10GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Derinlemesine seyahat için mükemmel'
@@ -356,7 +356,7 @@ features:
     desc: 'En iyi sinyal için Moğolistan''ın en iyi taşıyıcılarına otomatik bağlanır'
 plans_title: 'Moğolistan eSIM Satın Alın: Her Seyahat Süresi için Planlar'
 plans_data:
-  7 Days:
+  7 Gün:
   - spec: '1GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Kısa iş seyahatleri için mükemmel'
@@ -382,7 +382,7 @@ plans_data:
     tag: 'Harika Değer'
     tagColor: bg-emerald-500
     daily: '5.14'
-  15 Days:
+  15 Gün:
   - spec: '3GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Şehir gezileri için mükemmel'
@@ -392,7 +392,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '1.27'
     tagIcon: star
-  3 Days:
+  3 Gün:
   - spec: '10GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Derinlemesine seyahat için mükemmel'
@@ -409,7 +409,7 @@ plans_data:
     tag: 'Premium'
     tagColor: bg-purple-600
     daily: '17.66'
-  30 Days:
+  30 Gün:
   - spec: '10GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Derinlemesine seyahat için mükemmel'

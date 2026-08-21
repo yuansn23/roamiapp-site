@@ -71,7 +71,7 @@ features:
     desc: 'En iyi sinyal için Tayland''ın en iyi taşıyıcılarına otomatik bağlanır'
 plans_title: 'Tayland eSIM Satın Alın: Her Seyahat Süresi için Planlar'
 plans_data:
-  30 Days:
+  30 Gün:
   - spec: '50GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Seyahatiniz için mükemmel'
@@ -137,7 +137,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '0.67'
-  3 Days:
+  3 Gün:
   - spec: '1GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Kısa iş seyahatleri için mükemmel'
@@ -179,7 +179,7 @@ plans_data:
     tag: 'Premium'
     tagColor: bg-purple-600
     daily: '3.00'
-  7 Days:
+  7 Gün:
   - spec: '1GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Kısa iş seyahatleri için mükemmel'
@@ -229,7 +229,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.57'
-  15 Days:
+  15 Gün:
   - spec: '3GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Şehir gezileri için mükemmel'

@@ -188,7 +188,7 @@ plans_data:
     tag: 最佳性價比
     tagColor: bg-emerald-500
     daily: '7.00'
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速數據
     desc: 無憂使用數據
     price: '30.99'

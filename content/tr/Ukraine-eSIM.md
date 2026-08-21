@@ -71,7 +71,7 @@ features:
     desc: 'En iyi sinyal için Ukrayna''nın en iyi taşıyıcılarına otomatik bağlanır'
 plans_title: 'Ukrayna eSIM Satın Alın: Her Seyahat Süresi için Planlar'
 plans_data:
-  7 Days:
+  7 Gün:
   - spec: '1GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Kısa iş seyahatleri için mükemmel'
@@ -121,7 +121,7 @@ plans_data:
     tag: 'Premium'
     tagColor: bg-purple-600
     daily: '3.00'
-  30 Days:
+  30 Gün:
   - spec: '30GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Seyahatiniz için mükemmel'
@@ -171,7 +171,7 @@ plans_data:
     tag: 'Premium'
     tagColor: bg-purple-600
     daily: '2.63'
-  15 Days:
+  15 Gün:
   - spec: '30GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Seyahatiniz için mükemmel'
@@ -221,7 +221,7 @@ plans_data:
     tag: 'Premium'
     tagColor: bg-purple-600
     daily: '2.87'
-  3 Days:
+  3 Gün:
   - spec: '1GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Kısa iş seyahatleri için mükemmel'

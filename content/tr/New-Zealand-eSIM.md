@@ -71,7 +71,7 @@ features:
     desc: 'En iyi sinyal için Yeni Zelanda''nın en iyi taşıyıcılarına otomatik bağlanır'
 plans_title: 'Yeni Zelanda eSIM Satın Alın: Her Seyahat Süresi için Planlar'
 plans_data:
-  30 Days:
+  30 Gün:
   - spec: '5GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Derinlemesine seyahat için mükemmel'
@@ -129,7 +129,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.10'
-  15 Days:
+  15 Gün:
   - spec: '3GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Şehir gezileri için mükemmel'
@@ -179,7 +179,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.13'
-  7 Days:
+  7 Gün:
   - spec: '1GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Kısa iş seyahatleri için mükemmel'
@@ -229,7 +229,7 @@ plans_data:
     tag: 'Harika Değer'
     tagColor: bg-emerald-500
     daily: '1.57'
-  3 Days:
+  3 Gün:
   - spec: '5GB'
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Derinlemesine seyahat için mükemmel'

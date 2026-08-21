@@ -75,7 +75,7 @@ features:
     desc: En iyi sinyal için Kamboçya''nın önde gelen operatörlerine otomatik bağlanır
 plans_title: 'Kamboçya eSIM Satın Alın: Her Seyahat Süresi İçin Planlar'
 plans_data:
-  30 Days:
+  30 Gün:
   - spec: 20GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Seyahatiniz için ideal
@@ -133,7 +133,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
-  7 Days:
+  7 Gün:
   - spec: 1GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Kısa iş seyahatleri için ideal
@@ -183,7 +183,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.57'
-  3 Days:
+  3 Gün:
   - spec: Sınırsız
     data: Sınırsız Yüksek Hız
     desc: Endişesiz veri kullanımı
@@ -225,7 +225,7 @@ plans_data:
     tag: Harika Değer
     tagColor: bg-emerald-500
     daily: '3.33'
-  15 Days:
+  15 Gün:
   - spec: Sınırsız
     data: Sınırsız Yüksek Hız
     desc: Endişesiz veri kullanımı

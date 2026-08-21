@@ -71,7 +71,7 @@ features:
     desc: 'En iyi sinyal için Katar''ın en iyi operatörlerine otomatik bağlanır'
 plans_title: 'Katar eSIM Satın Alın: Her Seyahat Süresi için Planlar'
 plans_data:
-  7 Days:
+  7 Gün:
   - spec: 1GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Kısa iş gezileri için ideal'
@@ -129,7 +129,7 @@ plans_data:
     tag: 'Premium'
     tagColor: bg-purple-600
     daily: '6.43'
-  15 Days:
+  15 Gün:
   - spec: 3GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Gezmek için ideal'
@@ -179,7 +179,7 @@ plans_data:
     tag: 'Premium'
     tagColor: bg-purple-600
     daily: '6.33'
-  30 Days:
+  30 Gün:
   - spec: 3GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Gezmek için ideal'
@@ -221,7 +221,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.67'
-  3 Days:
+  3 Gün:
   - spec: 3GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Gezmek için ideal'

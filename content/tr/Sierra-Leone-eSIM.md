@@ -71,7 +71,7 @@ features:
     desc: 'En iyi sinyal için Sierra Leone''nin en iyi operatörlerine otomatik bağlanır'
 plans_title: 'Sierra Leone eSIM Satın Alın: Her Seyahat Süresi için Planlar'
 plans_data:
-  30 Days:
+  30 Gün:
   - spec: 5GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Derinlemesine seyahat için ideal'
@@ -89,7 +89,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '1.13'
     tagIcon: star
-  7 Days:
+  7 Gün:
   - spec: 1GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Kısa iş gezileri için ideal'

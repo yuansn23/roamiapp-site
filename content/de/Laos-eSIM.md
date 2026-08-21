@@ -135,7 +135,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '0.71'
-  - spec: Unlimited
+  - spec: Unbegrenzt
     data: Unbegrenztes Highspeed-Volumen
     desc: Sorgenfreie Datennutzung
     price: '46.99'
@@ -203,7 +203,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '0.87'
     tagIcon: star
-  - spec: Unlimited
+  - spec: Unbegrenzt
     data: Unbegrenztes Highspeed-Volumen
     desc: Sorgenfreie Datennutzung
     price: '98.99'
@@ -244,7 +244,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '3.60'
   3 Tage:
-  - spec: Unlimited
+  - spec: Unbegrenzt
     data: Unbegrenztes Highspeed-Volumen
     desc: Sorgenfreie Datennutzung
     price: '20.99'

@@ -1,0 +1,88 @@
+related_products:
+  title: 유사 eSIM 요금제
+  items:
+    - name: 미국 eSIM
+      flag: img/flags/us.svg
+      price: $1.99부터
+      is_highlight: false
+      slug: united-states-esim
+    - name: 중국 eSIM
+      flag: img/flags/cn.svg
+      price: $1.99부터
+      is_highlight: false
+      slug: china-esim
+    - name: 독일 eSIM
+      flag: img/flags/de.svg
+      price: $1.99부터
+      is_highlight: false
+      slug: germany-esim
+    - name: 일본 eSIM
+      flag: img/flags/jp.svg
+      price: $1.99부터
+      is_highlight: false
+      slug: japan-esim
+    - name: 인도 eSIM
+      flag: img/flags/in.svg
+      price: $1.99부터
+      is_highlight: false
+      slug: india-esim
+    - name: 영국 eSIM
+      flag: img/flags/gb.svg
+      price: $1.99부터
+      is_highlight: false
+      slug: united-kingdom-esim
+    - name: 프랑스 eSIM
+      flag: img/flags/fr.svg
+      price: $1.99부터
+      is_highlight: false
+      slug: france-esim
+    - name: 이탈리아 eSIM
+      flag: img/flags/it.svg
+      price: $1.99부터
+      is_highlight: false
+      slug: italy-esim
+    - name: 캐나다 eSIM
+      flag: img/flags/ca.svg
+      price: $1.99부터
+      is_highlight: false
+      slug: canada-esim
+    - name: 브라질 eSIM
+      flag: img/flags/br.svg
+      price: $1.99부터
+      is_highlight: false
+      slug: brazil-esim
+    - name: 스페인 eSIM
+      flag: img/flags/es.svg
+      price: $1.99부터
+      is_highlight: false
+      slug: spain-esim
+    - name: 대한민국 eSIM
+      flag: img/flags/kr.svg
+      price: $1.99부터
+      is_highlight: false
+      slug: south-korea-esim
+    - name: 호주 eSIM
+      flag: img/flags/au.svg
+      price: $1.99부터
+      is_highlight: false
+      slug: australia-esim
+    - name: 터키 eSIM
+      flag: img/flags/tr.svg
+      price: $1.99부터
+      is_highlight: false
+      slug: turkey-esim
+    - name: 대만 eSIM
+      flag: img/flags/tw.svg
+      price: $1.99부터
+      is_highlight: false
+      slug: taiwan-esim
+    - name: 아랍에미리트 eSIM
+      flag: img/flags/ae.svg
+      price: $1.99부터
+      is_highlight: false
+      slug: united-arab-emirates-esim
+    - name: 오스트리아 eSIM
+      flag: img/flags/at.svg
+      price: $1.99부터
+      is_highlight: false
+      slug: austria-esim

@@ -158,7 +158,7 @@ plans_data:
     tagColor: bg-slate-800
     daily: '3.33'
   3 дней:
-  - spec: Unlimited
+  - spec: Безлимит
     data: Безлимитные высокоскоростные данные
     desc: Беззаботное использование данных
     price: '52.99'

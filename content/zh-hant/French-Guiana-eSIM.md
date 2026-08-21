@@ -138,7 +138,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '0.57'
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速數據
     desc: 無憂使用數據
     price: '66.99'
@@ -147,7 +147,7 @@ plans_data:
     tagColor: bg-purple-600
     daily: '9.57'
   3 天:
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速數據
     desc: 無憂使用數據
     price: '30.99'
@@ -155,7 +155,7 @@ plans_data:
     tag: 高級
     tagColor: bg-purple-600
     daily: '10.33'
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速數據
     desc: 無憂使用數據
     price: '52.99'

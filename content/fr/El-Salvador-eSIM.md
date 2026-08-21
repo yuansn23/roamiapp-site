@@ -75,7 +75,7 @@ features:
 plans_title: 'Acheter eSIM Salvador: Forfaits pour Tout Voyage'
 plans_data:
   3 jours:
-  - spec: Unlimited
+  - spec: Illimité
     data: Données haut débit illimitées
     desc: Utilisation des données sans souci
     price: '49.99'
@@ -101,7 +101,7 @@ plans_data:
     tag: Meilleur rapport qualité-prix
     tagColor: bg-emerald-500
     daily: '5.00'
-  - spec: Unlimited
+  - spec: Illimité
     data: Données haut débit illimitées
     desc: Utilisation des données sans souci
     price: '84.99'

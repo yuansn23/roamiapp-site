@@ -132,7 +132,7 @@ plans_data:
     daily: '0.90'
     tagIcon: star
   3 дней:
-  - spec: Unlimited
+  - spec: Безлимит
     data: Безлимитные высокоскоростные данные
     desc: Беззаботное использование данных
     price: '52.99'

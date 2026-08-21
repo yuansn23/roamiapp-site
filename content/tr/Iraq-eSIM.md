@@ -75,7 +75,7 @@ features:
     desc: En iyi sinyal için Irak''ın önde gelen operatörlerine otomatik bağlanır
 plans_title: 'Irak eSIM Satın Alın: Her Seyahat Süresi İçin Planlar'
 plans_data:
-  7 Days:
+  7 Gün:
   - spec: 3GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Gezinti için ideal
@@ -93,7 +93,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '9.57'
-  15 Days:
+  15 Gün:
   - spec: 5GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Derinlemesine seyahat için ideal
@@ -110,7 +110,7 @@ plans_data:
     tag: Harika Değer
     tagColor: bg-emerald-500
     daily: '4.33'
-  30 Days:
+  30 Gün:
   - spec: 20GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Seyahatiniz için ideal
@@ -127,7 +127,7 @@ plans_data:
     tag: Harika Değer
     tagColor: bg-emerald-500
     daily: '2.17'
-  3 Days:
+  3 Gün:
   - spec: Sınırsız
     data: Sınırsız Yüksek Hız
     desc: Endişesiz veri kullanımı

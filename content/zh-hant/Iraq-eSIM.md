@@ -80,7 +80,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '3.14'
     tagIcon: star
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速數據
     desc: 無憂使用數據
     price: '66.99'
@@ -123,7 +123,7 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '2.17'
   3 天:
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速數據
     desc: 無憂使用數據
     price: '30.99'

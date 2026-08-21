@@ -75,7 +75,7 @@ features:
     desc: En iyi sinyal için Bahreyn''in önde gelen operatörlerine otomatik bağlanır
 plans_title: 'Bahreyn eSIM Satın Alın: Her Seyahat Süresi İçin Planlar'
 plans_data:
-  7 Days:
+  7 Gün:
   - spec: 1GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Kısa iş seyahatleri için ideal
@@ -109,7 +109,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '6.43'
-  30 Days:
+  30 Gün:
   - spec: 3GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Gezinti için ideal
@@ -151,7 +151,7 @@ plans_data:
     tag: Harika Değer
     tagColor: bg-emerald-500
     daily: '1.03'
-  15 Days:
+  15 Gün:
   - spec: 3GB
     data: Yüksek Hızlı 5G/4G/LTE
     desc: Gezinti için ideal
@@ -185,7 +185,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '6.33'
-  3 Days:
+  3 Gün:
   - spec: Sınırsız
     data: Sınırsız Yüksek Hız
     desc: Endişesiz veri kullanımı

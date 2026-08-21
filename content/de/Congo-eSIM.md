@@ -168,7 +168,7 @@ plans_data:
     tagColor: bg-emerald-500
     daily: '2.93'
   3 Tage:
-  - spec: Unlimited Data
+  - spec: Unbegrenzte Daten
     data: Unbegrenzte Hochgeschwindigkeitsdaten
     desc: Sorgenfreie Datennutzung
     price: '52.99'

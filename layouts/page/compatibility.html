@@ -29,8 +29,8 @@
                 {{ range $index, $element := .Params.faq_schema }}
                 {
                     "@type": "Question",
-                    "name": "{{ .question }}",
-                    "acceptedAnswer": { "@type": "Answer", "text": "{{ .answer | plainify }}" }
+                    "name": {{ .question | jsonify }},
+                    "acceptedAnswer": { "@type": "Answer", "text": {{ .answer | plainify | jsonify }} }
                 }{{ if ne (add $index 1) $len }},{{ end }}
                 {{ end }}
             ]
@@ -42,9 +42,9 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": "{{ with .Params.seo.title }}{{ . }}{{ else }}{{ .Title }}{{ end }}",
-            "description": "{{ with .Params.seo.description }}{{ . }}{{ else }}{{ .Description }}{{ end }}",
-            "url": "{{ .Permalink }}"
+            "name": {{ with .Params.seo.title }}{{ . | jsonify }}{{ else }}{{ .Title | jsonify }}{{ end }},
+            "description": {{ with .Params.seo.description }}{{ . | jsonify }}{{ else }}{{ .Description | jsonify }}{{ end }},
+            "url": {{ .Permalink | jsonify }}
         }
     </script>
 

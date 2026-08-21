@@ -71,7 +71,7 @@ features:
     desc: 'En iyi sinyal için Portekiz''in en iyi operatörlerine otomatik bağlanır'
 plans_title: 'Portekiz eSIM Satın Alın: Her Seyahat Süresi için Planlar'
 plans_data:
-  30 Days:
+  30 Gün:
   - spec: 20GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Seyahatiniz için ideal'
@@ -153,7 +153,7 @@ plans_data:
     tag: 'Premium'
     tagColor: bg-purple-600
     daily: '2.40'
-  15 Days:
+  15 Gün:
   - spec: 30GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Seyahatiniz için ideal'
@@ -203,7 +203,7 @@ plans_data:
     tag: 'Premium'
     tagColor: bg-purple-600
     daily: '2.53'
-  3 Days:
+  3 Gün:
   - spec: 1GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Kısa iş gezileri için ideal'
@@ -245,7 +245,7 @@ plans_data:
     tag: 'Premium'
     tagColor: bg-purple-600
     daily: '3.33'
-  7 Days:
+  7 Gün:
   - spec: 1GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Kısa iş gezileri için ideal'

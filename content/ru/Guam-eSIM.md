@@ -106,7 +106,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.43'
-  - spec: Unlimited
+  - spec: Безлимит
     data: Безлимитные высокоскоростные данные
     desc: Беззаботное использование данных
     price: '42.99'
@@ -115,7 +115,7 @@ plans_data:
     tagColor: bg-purple-600
     daily: '6.14'
   3 дней:
-  - spec: Unlimited
+  - spec: Безлимит
     data: Безлимитные высокоскоростные данные
     desc: Беззаботное использование данных
     price: '18.99'
@@ -124,7 +124,7 @@ plans_data:
     tagColor: bg-purple-600
     daily: '6.33'
   15 дней:
-  - spec: Unlimited
+  - spec: Безлимит
     data: Безлимитные высокоскоростные данные
     desc: Беззаботное использование данных
     price: '88.99'

@@ -71,7 +71,7 @@ features:
     desc: 'En iyi sinyal için Filipinler''in en iyi operatörlerine otomatik bağlanır'
 plans_title: 'Filipinler eSIM Satın Alın: Her Seyahat Süresi için Planlar'
 plans_data:
-  15 Days:
+  15 Gün:
   - spec: 3GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Gezmek için ideal'
@@ -121,7 +121,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.87'
-  30 Days:
+  30 Gün:
   - spec: 3GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Gezmek için ideal'
@@ -187,7 +187,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
-  7 Days:
+  7 Gün:
   - spec: 5GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Derinlemesine seyahat için ideal'
@@ -237,7 +237,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.57'
-  3 Days:
+  3 Gün:
   - spec: 1GB
     data: 'Yüksek Hızlı 5G/4G/LTE'
     desc: 'Kısa iş gezileri için ideal'

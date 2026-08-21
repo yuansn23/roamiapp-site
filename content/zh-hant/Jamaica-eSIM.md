@@ -131,7 +131,7 @@ plans_data:
     daily: '0.90'
     tagIcon: star
   3 天:
-  - spec: Unlimited
+  - spec: 無限
     data: 無限高速數據
     desc: 無憂使用數據
     price: '52.99'
