@@ -1,5 +1,5 @@
 ---
-title: "Spain eSIM with Spanish Number : Calls & SMS"
+title: "Spain eSIM with Phone Number : Calls & SMS"
 description: "Spain eSIM with +34 Spanish number for 2026. Get local calls & SMS for Renfe, Cabify & app verification. Compare Orange Holiday, Vodafone Travel & Movistar Turista plans."
 keywords: ["Spain eSIM with phone number", "buy Spain eSIM with number", "Spain eSIM +34 number", "temporary Spanish number", "Spain eSIM voice calls", "Spain eSIM SMS verification", "tourist eSIM with phone number", "Orange Holiday Spain eSIM", "Spain eSIM prepaid number"]
 date: 2026-08-19T00:00:00Z
@@ -516,6 +516,17 @@ Buy Orange Holiday or Vodafone Travel online immediately – you'll get the QR c
 
 **Why isn't my SMS verification code arriving?**  
 Wait 2-3 minutes, check your phone's SMS filter settings, ensure your number is fully active, and try manual network selection. See the full troubleshooting section above for details.
+
+---
+
+## Related Spain eSIM Guides
+
+- **[Spain eSIM complete guide](/blog/spain-esim-complete-travel-guide/)** — the full overview of plans, pricing, and networks.
+- **[Local carrier prepaid guide](/blog/spain-esim-local-carriers-prepaid-guide/)** — in-store prepaid plans for Movistar, Orange, Vodafone & Yoigo.
+- **[Movistar vs Orange vs Vodafone comparison](/blog/spain-esim-movistar-orange-vodafone-comparison/)** — each network's coverage strengths.
+- **[Airalo vs Holafly vs Nomad comparison](/blog/spain-esim-providers-airalo-holafly-nomad-comparison/)** — data-only provider ranking.
+- **[Spain eSIM dual SIM guide](/blog/spain-esim-dual-sim-multi-device/)** — keep your home number while using Spanish data.
+- **[Multi-country Europe eSIM guide](/blog/spain-esim-multi-country-europe-travel/)** — Orange Holiday Europe's 30-country roaming in detail.
 
 ---
 

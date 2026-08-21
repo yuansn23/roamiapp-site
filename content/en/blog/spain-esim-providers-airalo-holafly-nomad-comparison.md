@@ -1,7 +1,7 @@
 ---
 title: "Spain eSIM Compared: Airalo vs Holafly vs Nomad"
 description: "Compare Airalo, Holafly, Nomad, Saily & Orange Holiday Europe for Spain. We test pricing, networks, hotspot, Spanish numbers & real-world speeds to find the best eSIM for your 2026 trip"
-keywords: ["Spain eSIM providers", "Airalo vs Holafly Spain", "best Spain eSIM", "Spain eSIM comparison", "Spain eSIM plans", "Spain eSIM with phone number", "cheapest Spain eSIM", "Spain travel eSIM", "eSIM card Spain", "Spain data plan", "travel internet Spain"]
+keywords: ["Spain eSIM providers", "Airalo vs Holafly Spain", "best Spain eSIM", "Spain eSIM comparison", "eSIM card Spain", "Spain data plan", "travel internet Spain"]
 date: 2026-08-19T00:00:00Z
 lastmod: 2026-08-19T00:00:00Z
 author: "Roami Team"
@@ -72,7 +72,7 @@ Choosing the right connectivity solution for Spain starts with understanding wha
 - What is your data budget and usage pattern?
 - How long are you staying?
 
-The table below summarizes the major players at a glance. For a deeper dive into carrier network strengths, see our [guide to Spanish mobile networks](/blog/spain-esim-movistar-orange-vodafone-comparison/).
+The table below summarizes the major players at a glance. For a deeper dive into carrier network strengths, see our [guide to Spanish mobile networks](/blog/spain-esim-movistar-orange-vodafone-comparison/). For a complete overview of Spain eSIM options, see our [Spain eSIM complete guide](/blog/spain-esim-complete-travel-guide/).
 
 | Provider | Starting Price | Best Per‑GB | Primary Network | Hotspot | Spanish Number | Best For |
 |---|---|---|---|---|---|---|

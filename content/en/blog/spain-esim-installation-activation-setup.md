@@ -1,7 +1,7 @@
 ---
-title: "Spain eSIM Setup : iPhone & Android Guide"
+title: "Spain eSIM Setup: iPhone & Android Guide"
 description: "Step-by-step Spain eSIM installation for iPhone & Android. Fix APN settings and activate your travel eSIM before departure with our 2026 guide"
-keywords: ["Spain eSIM setup", "Spain eSIM installation", "Spain eSIM iPhone", "Spain eSIM APN settings", "Spain eSIM Android", "install Spain eSIM before travel", "Spain travel eSIM activation", "best Spain eSIM for iPhone", "Spain eSIM dual SIM setup"]
+keywords: ["Spain eSIM setup", "Spain eSIM installation", "Spain eSIM iPhone", "Spain eSIM APN settings", "Spain eSIM Android", "install Spain eSIM before travel", "Spain travel eSIM activation", "best Spain eSIM for iPhone"]
 date: 2026-08-19T00:00:00Z
 lastmod: 2026-08-20T00:00:00Z
 author: "Roami Team"
@@ -93,7 +93,7 @@ Not all phones support eSIM, and some carriers impose additional restrictions on
 | iPhone SE (2nd gen) | Yes | No | One eSIM + one physical SIM |
 | iPhone SE (3rd gen) | Yes | Yes | Dual active eSIM |
 
-All iPhone models from the XR onward include eSIM support, but dual active eSIM — running two eSIMs simultaneously — is only available on iPhone 13 and newer. US iPhone 14, 15, and 16 models lack a physical SIM slot entirely, making eSIM the only option for cellular connectivity. For detailed instructions specific to Apple devices, see our [Spain eSIM iPhone setup guide](/blog/spain-esim-iphone-setup-guide/).
+All iPhone models from the XR onward include eSIM support, but dual active eSIM — running two eSIMs simultaneously — is only available on iPhone 13 and newer. US iPhone 14, 15, and 16 models lack a physical SIM slot entirely, making eSIM the only option for cellular connectivity. For detailed instructions specific to Apple devices, see the iPhone steps in the section below.
 
 ### Android models with eSIM support for Spain:
 
@@ -112,7 +112,7 @@ All iPhone models from the XR onward include eSIM support, but dual active eSIM 
 | Honor | Magic 4 Pro+, Magic 5 Pro, Magic 6 Pro, Magic 7 Pro | Single eSIM |
 | ASUS | Zenfone 9, Zenfone 10, Zenfone 11 | Single eSIM |
 
-For Samsung and Pixel users, we have dedicated guides covering [Spain eSIM setup for Samsung Galaxy](/blog/spain-esim-samsung-galaxy-setup-guide/) and [Spain eSIM setup for Google Pixel](/blog/spain-esim-google-pixel-setup-guide/).
+For Samsung and Pixel users, the Android steps below work identically across Samsung Galaxy and Google Pixel devices.
 
 ### Tablet and wearable eSIM support for Spain:
 
@@ -528,7 +528,7 @@ International eSIM APN settings typically do not require username or password. E
 
 ## Configuring Dual SIM: Home Line for Calls, eSIM for Data
 
-The most common Spain eSIM configuration keeps your home SIM active for calls and SMS while the eSIM handles all mobile data. This setup requires specific configuration on both iPhone and Android to ensure you avoid roaming charges while maintaining access to your home number. For a deeper dive into this topic, see our [Spain eSIM dual SIM guide for iOS and Android](/blog/spain-esim-dual-sim-guide/).
+The most common Spain eSIM configuration keeps your home SIM active for calls and SMS while the eSIM handles all mobile data. This setup requires specific configuration on both iPhone and Android to ensure you avoid roaming charges while maintaining access to your home number. For a deeper dive into this topic, see our [Spain eSIM dual SIM guide for iOS and Android](/blog/spain-esim-dual-sim-multi-device/).
 
 ### Dual SIM configuration goals:
 
@@ -989,7 +989,7 @@ All Spain eSIMs work on iPhone XS and newer. For iPhone users, Airalo and Roami 
 
 ### How do I set up dual SIM on my phone for Spain?
 
-Set your home SIM as the default for voice and SMS, and set the Spain eSIM as the default for data. On iPhone: Settings > Cellular > Default Voice Line (home SIM) > Cellular Data (Spain eSIM). On Samsung: Settings > Connections > SIM Card Manager > Preferred SIMs. This keeps your home number active for calls and 2FA while using Spanish data. See our [Spain eSIM dual SIM setup guide](/blog/spain-esim-dual-sim-guide/) for complete instructions.
+Set your home SIM as the default for voice and SMS, and set the Spain eSIM as the default for data. On iPhone: Settings > Cellular > Default Voice Line (home SIM) > Cellular Data (Spain eSIM). On Samsung: Settings > Connections > SIM Card Manager > Preferred SIMs. This keeps your home number active for calls and 2FA while using Spanish data. See our [Spain eSIM dual SIM setup guide](/blog/spain-esim-dual-sim-multi-device/) for complete instructions.
 
 ### How long does it take for a Spain eSIM to activate?
 

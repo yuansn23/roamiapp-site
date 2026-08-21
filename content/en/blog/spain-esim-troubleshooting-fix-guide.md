@@ -428,7 +428,7 @@ This guide was written by the **Roami Team**, a licensed MVNO with direct carrie
 
 We update this guide regularly (last updated: August 2026). For official coverage maps, check the websites of Movistar, Orange, Vodafone, and Yoigo. For device compatibility, consult the [GSMA eSIM list](https://www.gsma.com/esim/) or your device manufacturer's support pages.
 
-For more on choosing the right eSIM, see our [Spain eSIM provider comparison](/blog/spain-esim-providers-airalo-holafly-nomad-comparison/). For coverage expectations, see our [Spain coverage guide](/blog/spain-esim-coverage-cities-ave-beaches-islands/). For pricing, see our [Spain eSIM price guide](/blog/spain-esim-price-guide-cheapest-plans/).
+For more on choosing the right eSIM, see our [Spain eSIM provider comparison](/blog/spain-esim-providers-airalo-holafly-nomad-comparison/). For coverage expectations, see our [Spain coverage guide](/blog/spain-esim-coverage-cities-ave-beaches-islands/). For pricing, see our [Spain eSIM price guide](/blog/spain-esim-price-guide-cheapest-plans/). For a complete overview, see our [Spain eSIM guide](/blog/spain-esim-complete-travel-guide/).
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Best Spain eSIM : Family & Long-Stay Plans"
+title: "Spain eSIM for Families & Long Stays 2026"
 description: "Spain eSIM guide for families, students & language learners. Get reliable, long-stay connectivity with Roami on Movistar, Orange, Vodafone & Yoigo networks"
 keywords: ["Spain eSIM for families", "Spain eSIM for students", "Spain eSIM long stay", "Spain eSIM language learners", "Spain eSIM group travel"]
 date: 2026-08-19T00:00:00Z
