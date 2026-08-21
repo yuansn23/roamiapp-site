@@ -38,9 +38,7 @@ Allow: /
 User-agent: Perplexity-User
 Allow: /
 
-Disallow: /*/img/
-Disallow: /*/css/
-Disallow: /*/js/
+
 
 {{- /* 收集所有唯一的 sitemap URL */}}
 {{- $sitemaps := slice }}
