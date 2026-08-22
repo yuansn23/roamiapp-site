@@ -872,7 +872,7 @@ Note: This diagnostic menu may not be available on all Android skins. Samsung an
 7. **Try manual network selection** — pick each available Spanish carrier one at a time
 8. **Contact provider support** with screenshots of your settings pages for faster diagnosis
 
-Having a backup connectivity source during the verification process is wise. Airport WiFi, a downloaded offline map, or a portable hotspot can serve as internet access while troubleshooting. Before leaving for Spain, download offline Google Maps for your destination cities as a safety net. See our [eSIM installation and activation guide](/esim-installation-activation-setup/) for general setup help that applies across all destinations.
+Having a backup connectivity source during the verification process is wise. Airport WiFi, a downloaded offline map, or a portable hotspot can serve as internet access while troubleshooting. Before leaving for Spain, download offline Google Maps for your destination cities as a safety net. See our [eSIM installation and activation guide](/blog/spain-esim-installation-activation-setup/) for general setup help that applies across all destinations.
 
 ---
 

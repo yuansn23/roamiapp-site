@@ -106,7 +106,7 @@ After comparing all major providers (you can [see our detailed comparison](/blog
 
 > **Our Recommendation:** For most 7‑day beach holidays, choose Roami’s **20 GB plan** (€29.99) for moderate use, or **30 GB** (€39.99) if you plan to stream or work remotely. For longer stays or family sharing, consider the **50 GB** option.
 
-👉 **[Get Your Spain Beach eSIM Now](https://roami.com/spain-esim)** – Use code **web20** for 20% off your first purchase.
+👉 **[Get Your Spain Beach eSIM Now](/spain-esim/)** – Use code **web20** for 20% off your first purchase.
 
 Still unsure? Check our [price guide](/blog/spain-esim-price-guide-cheapest-plans/) for budget comparisons, or the [troubleshooting guide](/blog/spain-esim-troubleshooting-fix-guide/) if you run into issues.
 
@@ -300,7 +300,7 @@ We update this guide regularly (last updated: August 2026) to reflect the latest
 
 *Device compatibility and plan details verified as of August 2026. Prices and plan details are subject to change. Always verify current pricing and setup instructions on the provider’s official website before purchasing.*
 
-**Ready for your beach holiday?** [Get your Spain eSIM now](https://roami.com/spain-esim) and stay connected from the Costa del Sol to the Canary Islands – with auto‑switching, 24/7 support, and no hidden throttling. Use code **web20** for 20% off.
+**Ready for your beach holiday?** [Get your Spain eSIM now](/spain-esim/) and stay connected from the Costa del Sol to the Canary Islands – with auto‑switching, 24/7 support, and no hidden throttling. Use code **web20** for 20% off.
 
 ---
 

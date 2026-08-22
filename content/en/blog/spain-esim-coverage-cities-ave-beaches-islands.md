@@ -79,7 +79,7 @@ Not sure where to start? Use this table to match your itinerary to the best carr
 
 > **If you're visiting more than two of these destinations**, a single‑carrier plan will leave you with coverage gaps. Multi‑network eSIMs with automatic switching are the practical choice for multi‑region Spain travel.
 
-For a deeper dive into carrier strengths by region, see our [network comparison guide](/blog/spain-esim-movistar-orange-vodafone-comparison/). For a complete overview of Spain eSIM options, start with our [Spain eSIM complete guide](/blog/spain-esim-complete-travel-guide/).
+For a deeper dive into carrier strengths by region, see our [network comparison guide](/blog/spain-esim-movistar-orange-vodafone-comparison/). For a complete overview of Spain eSIM options, start with our [Spain eSIM complete guide](/blog/spain-esim-complete-travel-guide/). For island and coastal trips, see our [beach holiday eSIM guide](/blog/spain-esim-beach-holiday-coastal-travel/).
 
 ---
 
@@ -399,6 +399,8 @@ Most modern smartphones support eSIM activation before departure. Install the pr
 - EU roaming: Spain eSIMs work in Portugal and France without additional charges
 - Andorra (not EU): Requires separate plan or add‑on data
 - Morocco (outside Europe): Requires separate purchase
+
+For a full guide to using one eSIM across Spain, Portugal, France, and beyond, see our [multi-country Europe eSIM guide](/blog/spain-esim-multi-country-europe-travel/).
 
 ### Building a Complete Connectivity Strategy
 

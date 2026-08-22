@@ -1,9 +1,9 @@
 ---
-title: "How to Buy and Install a Japan eSIM: Complete Step-by-Step Tutorial 2026"
-description: "Complete guide to buying and installing a Japan eSIM in 2026. Step-by-step tutorials for iPhone, Samsung, Google Pixel. Where to buy, how to install before departure, and activate on arrival."
+title: "How to Buy and Install a Japan eSIM: Step-by-Step Tutorial"
+description: "How to buy and install a Japan eSIM in 2026. Step-by-step for iPhone, Samsung and Pixel, plus where to buy, install before departure and activate on arrival."
 keywords: ["buy esim japan", "how to buy esim in japan", "where to buy esim in japan", "how to get esim in japan", "how to install esim japan", "how to use esim in japan", "esim japan setup", "japan esim installation", "how does esim work in japan", "buy esim for japan", "where to get esim for japan", "japan esim activation", "install esim before travel japan"]
 date: 2026-08-07T10:00:00Z
-lastmod: 2026-08-10T00:00:00Z
+lastmod: 2026-08-21T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/japan/japan-esim-installation-guide.jpg"

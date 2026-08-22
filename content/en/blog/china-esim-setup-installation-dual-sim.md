@@ -58,7 +58,7 @@ recentPosts:
 ---
 This guide covers **how to install eSIM for China** in about 10 minutes — but you need to do it before your flight. After you **activate China eSIM** on landing, data starts flowing within 60 seconds. Start by purchasing a plan online, then scan the QR code on your iPhone or Android. Set up dual SIM mode to keep your home number active for SMS while the eSIM handles data. This guide walks you through compatibility checks, iPhone and Android setup, APN configuration, hotspot tethering, and common troubleshooting fixes. For official device lists, visit [Apple Support](https://support.apple.com/en-us/HT212780). The [GSMA](https://www.gsma.com) maintains eSIM technical specifications.
 
-If you're new to eSIM technology entirely, [Wikipedia's eSIM overview](https://en.wikipedia.org/wiki/eSIM) explains the specification —a SIM profile embedded in your device's chip that can be rewritten over the air without swapping physical cards.
+If you're new to eSIM technology entirely, [Wikipedia's eSIM overview](https://en.wikipedia.org/wiki/eSIM) explains the specification —a SIM profile embedded in your device's chip that can be rewritten over the air without swapping physical cards. If this is your first time using a travel eSIM, start with the [China eSIM first-time beginners guide](/blog/china-esim-first-time-beginners-guide/) before you dive into setup.
 
 ---
 

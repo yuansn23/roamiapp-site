@@ -1,12 +1,12 @@
 ---
-title: "Japan Korea Taiwan China eSIM: Best Multi-Country Plans for East Asia (2026)"
-description: "Planning a multi-country East Asia trip? Compare the best eSIM for Japan and Korea, Taiwan and Japan, China and Japan, and Australia and Japan. One eSIM for multiple countries."
-keywords: ["esim japan and korea", "best esim for japan and korea", "esim taiwan and japan", "china and japan esim", "esim for australia and japan", "asia multi-country eSIM", "east asia eSIM"]
+title: "Japan Korea Taiwan China eSIM: Best Multi-Country Plans"
+description: "Planning an East Asia trip? Compare the best eSIM for Japan and Korea, Taiwan and Japan, China and Japan, and Australia and Japan in one plan."
+keywords: ["esim japan and korea", "best esim for japan and korea", "esim taiwan and japan", "china and japan esim", "esim for australia and japan", "asia multi-country eSIM", "east asia eSIM", "esim asia", "asia esim", "esim for asia", "best esim for asia", "best esim for asia travel"]
 date: 2026-08-10T00:00:00Z
-lastmod: 2026-08-10T00:00:00Z
+lastmod: 2026-08-21T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
-image: "/img/esim/asia/asia-multi-country-esim-guide.jpg"
+image: "/img/esim/japan/asia-multi-country-esim-guide.jpg"
 categories: ["Japan", "Korea", "Taiwan", "China", "eSIM", "Travel"]
 tags: ["Japan eSIM", "Korea eSIM", "Taiwan eSIM", "China eSIM", "Multi-country eSIM"]
 readingTime: 16
@@ -433,8 +433,8 @@ For multi-country trips with very short stays in each country, the economics cha
 
 **Further Reading:**
 
-- [Best eSIM for Japan 2026: TOP 10 Picks Tested & Compared](/blog/best-esim-for-japan-top10-guide/) – Detailed rankings of the best eSIM providers with real speed test data.
-- [Japan eSIM vs Pocket WiFi vs SIM Card: Which Is Best for You? (2026)](/blog/japan-esim-vs-pocket-wifi-or-sim-card/) – Complete comparison of Japan internet options.
+- [Best eSIM for Japan 2026: TOP 10 Picks Tested & Compared](/blog/best-esim-for-japan-2026-top10-guide/) – Our ranked top 10 list with real speed test data.
+- [Japan eSIM vs Pocket WiFi vs SIM Card: Which Is Best for You? (2026)](/blog/japan-esim-vs-pocket-wifi-vs-sim/) – Complete comparison of Japan internet options.
 
 ---
 

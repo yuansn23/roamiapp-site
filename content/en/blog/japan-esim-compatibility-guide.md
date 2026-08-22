@@ -1,9 +1,9 @@
 ---
-title: "Japan eSIM Compatibility Guide 2026: Complete List of Supported Phones"
-description: "Complete Japan eSIM compatibility guide 2026. Check if your iPhone, Samsung, Google Pixel, Xiaomi, or OnePlus supports eSIM in Japan. Includes China model restrictions and carrier lock info."
-keywords: ["esim japan iphone", "japan esim iphone", "is esim available in japan", "do i need an esim for japan", "5g esim japan", "japan esim with phone number", "esim compatible phones japan", "iphone esim japan", "japan esim android", "samsung esim japan", "google pixel esim japan", "china iphone esim japan"]
+title: "Japan eSIM Compatibility Guide 2026: Supported Phones"
+description: "Japan eSIM compatibility guide 2026. Check if your iPhone, Samsung, Pixel, Xiaomi or OnePlus supports eSIM in Japan, plus China model and carrier lock notes."
+keywords: ["esim japan iphone", "japan esim iphone", "is esim available in japan", "do i need an esim for japan", "japan esim with phone number", "esim compatible phones japan", "iphone esim japan", "japan esim android", "samsung esim japan", "google pixel esim japan", "china iphone esim japan"]
 date: 2026-08-10T00:00:00Z
-lastmod: 2026-08-10T00:00:00Z
+lastmod: 2026-08-21T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/japan/japan-esim-compatibility-guide.jpg"
@@ -73,7 +73,7 @@ Here's the honest truth: even if your phone model supports eSIM in theory, compa
 
 The good news is that **checking compatibility takes less than 60 seconds**. This guide walks you through exactly what works, what doesn't, and how to verify your specific device.
 
-If your phone doesn't support eSIM, don't panic — we'll also cover your alternatives at the end. For a complete overview of choosing a Japan eSIM, see our [Japan eSIM Ultimate Guide](/japan-esim-ultimate-guide/).
+If your phone doesn't support eSIM, don't panic — we'll also cover your alternatives at the end. For a complete overview of choosing a Japan eSIM, see our [Japan eSIM Ultimate Guide](/blog/japan-esim-ultimate-guide/).
 
 ---
 
@@ -359,7 +359,7 @@ Look at your phone's box or Settings → About Phone. The model suffix can indic
 
 ## Part 7: What If Your Phone Doesn't Support eSIM?
 
-If your phone fails the `*#06#` test or is carrier-locked, don't worry — you still have options for staying connected in Japan. For a detailed comparison of all options, see our [eSIM vs Pocket WiFi vs SIM Card guide](/japan-esim-vs-pocket-wifi-guide/).
+If your phone fails the `*#06#` test or is carrier-locked, don't worry — you still have options for staying connected in Japan. For a detailed comparison of all options, see our [Japan eSIM vs Pocket WiFi vs SIM Card guide](/blog/japan-esim-vs-pocket-wifi-vs-sim/).
 
 ### Option 1: Physical SIM Card (Recommended)
 
@@ -444,7 +444,7 @@ The `*#06#` test is the most reliable method. If an EID number appears, your pho
 
 **The bottom line:** Most phones from 2018 onward support eSIM — but regional variations matter more than the model itself. A 5-minute check with `*#06#` saves you from disappointment at the airport.
 
-For more information on choosing a Japan eSIM, see our [Best Japan eSIM guide](/best-japan-esim-guide/).
+For more information on choosing a Japan eSIM, see our [Best Japan eSIM guide](/blog/best-japan-esim-guide/).
 
 ---
 

@@ -468,6 +468,8 @@ This is the most common multi-territory itinerary, especially for travelers flyi
 - **3HK China + HK plan** — Hong Kong-based, strong coverage in both territories. The 10 GB / 8-day plan at ~$25 is a good fit for a 1-2 week trip.
 - **Separate eSIMs** — A China eSIM (Saily or Holafly) for mainland + a Hong Kong eSIM (Airalo HK for $4.50) is the cheapest option at around $20 for moderate data users.
 
+If Hong Kong is your only destination on the trip, the **best eSIM for Hong Kong** is a standalone Hong Kong plan rather than a Greater China bundle — you'll avoid paying for mainland coverage you won't use. The China + Hong Kong combo options above only make sense when you're actually crossing the border into mainland China.
+
 **Key consideration:** If you're flying into Hong Kong and then crossing to mainland China, you need an eSIM that activates on Hong Kong's network first. 3HK and CMHK both require initial activation in Hong Kong. If you prefer to install and activate everything before you leave home, choose a global eSIM provider.
 
 **China + Hong Kong + Macau Trip**

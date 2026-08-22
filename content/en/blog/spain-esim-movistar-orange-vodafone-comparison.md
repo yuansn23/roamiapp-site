@@ -244,7 +244,7 @@ Current Yoigo prepaid pricing for comparison:
 
 In urban areas where Yoigo operates its own infrastructure (Madrid, Barcelona, Valencia, Seville, Bilbao, Zaragoza, Málaga, and Alicante among others), download speeds average 65 Mbps — slower than the big three but perfectly usable for maps, messaging, social media, video streaming at 1080p, and video calls.
 
-Yoigo also offers competitive EU roaming options on its prepaid plans, with most plans including 5–10 GB of data usable across EU countries. This makes it a cost-effective option for multi-country European trips where Spain is the primary destination. For a full breakdown of the cheapest Spain eSIM options, including Yoigo and other budget providers, see our [Spain eSIM price guide](/blog/spain-esim-price-guide-cheapest-plans/).
+Yoigo also offers competitive EU roaming options on its prepaid plans, with most plans including 5–10 GB of data usable across EU countries. This makes it a cost-effective option for multi-country European trips where Spain is the primary destination. For a full breakdown of the cheapest Spain eSIM options, including Yoigo and other budget providers, see our [Spain eSIM price guide](/blog/spain-esim-price-guide-cheapest-plans/). For unlimited data options with 5G speeds and fair-use details, see our [unlimited eSIM guide](/blog/spain-esim-unlimited-data-5g-plans/).
 
 ### Where Yoigo Falls Short
 

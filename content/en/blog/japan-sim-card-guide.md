@@ -1,9 +1,9 @@
 ---
-title: "Japan SIM Card Guide 2026: Where to Buy, Prices, and Best Plans"
-description: "Complete Japan SIM card guide 2026. Where to buy prepaid SIM cards at airports, BIC Camera, and convenience stores. Compare IIJmio, Mobal, Sakura Mobile, and b-mobile plans."
+title: "Japan SIM Card Guide 2026: Where to Buy & Best Plans"
+description: "Japan SIM card guide 2026. Where to buy prepaid SIMs at airports, BIC Camera and convenience stores. Compare IIJmio, Mobal, Sakura Mobile and b-mobile."
 keywords: ["japan sim card", "sim card japan", "japan travel sim", "buy sim card japan", "japan prepaid sim", "japan data sim", "japanese sim card", "sim card for japan travel", "japan sim card price", "japan sim card cost", "best sim card for japan", "international sim card japan", "japan tourist sim", "japan unlimited sim", "japan sim card iphone", "where to buy sim card japan"]
 date: 2026-08-10T00:00:00Z
-lastmod: 2026-08-10T00:00:00Z
+lastmod: 2026-08-21T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/japan/japan-sim-card-guide.jpg"
@@ -73,7 +73,7 @@ In 2026, eSIM has become the default choice for most travelers with modern smart
 
 This guide covers everything you need to know about buying a **Japan SIM card** in 2026: where to find them, how much they cost, which providers offer the best value, and how to set one up when you arrive.
 
-If your phone does support eSIM, you might want to check our [Japan eSIM Ultimate Guide](/japan-esim-ultimate-guide/) instead. But if you need a physical SIM — or just want to know your options — read on.
+If your phone does support eSIM, you might want to check our [Japan eSIM Ultimate Guide](/blog/japan-esim-ultimate-guide/) instead. But if you need a physical SIM — or just want to know your options — read on.
 
 ---
 
@@ -429,7 +429,7 @@ Tourist SIMs are prepaid, require no contract, and don't require a Japanese addr
 
 **The bottom line:** Physical SIM cards are still a reliable option for Japan travel in 2026. They're available at airports, electronics stores, and convenience stores across the country. Prices start as low as $13 for budget plans, and you can find options for every trip length and data need.
 
-But if your phone supports eSIM, you might find it more convenient. Check our [Japan eSIM installation guide](/japan-esim-installation-guide/) for setup instructions, or compare prices in our [Japan eSIM price comparison](/japan-esim-price-comparison-2026/).
+But if your phone supports eSIM, you might find it more convenient. Check our [Japan eSIM installation guide](/blog/japan-esim-installation-guide/) for setup instructions, or compare prices in our [Japan eSIM providers comparison guide](/blog/japan-esim-providers-comparison-guide/).
 
 ---
 

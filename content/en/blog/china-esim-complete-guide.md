@@ -204,7 +204,7 @@ If you choose a provider without built-in VPN (like Airalo or Roamify), add $5-$
 For a complete price comparison including per-GB analysis across all providers, promo codes, and hidden fees, see the [China eSIM price and purchase guide](/blog/china-esim-price-plan-purchase-guide/).
 
 **Where to Buy China eSIM**
-The most common purchase channels are the provider's own app or website, and third-party platforms like Klook and Trip.com. Provider-direct purchases usually offer the best customer support and easiest reinstallation if issues arise. Third-party platforms occasionally offer lower prices through promotions and bundled deals.
+The most common purchase channels are the provider's own app or website, and third-party platforms like Klook and Trip.com. Provider-direct purchases usually offer the best customer support and easiest reinstallation if issues arise. Third-party platforms occasionally offer lower prices through promotions and bundled deals. Trip.com in particular now sells its own **data-only China eSIM** with built-in firewall bypass — its Hong Kong-exit routing lets Google, WhatsApp, and Instagram work without a separate VPN, though it does not include a Chinese phone number.
 
 Airalo and Saily are best purchased through their respective mobile apps. Holafly's website offers the most plan options. Klook frequently runs promotions that undercut direct prices by 10-20%, particularly for Airalo and Holafly plans, making it worth checking before you buy direct.
 

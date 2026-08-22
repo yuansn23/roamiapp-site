@@ -102,7 +102,7 @@ The key insight: all data-dependent services work through the eSIM, while voice 
 
 ### Who benefits most from dual SIM in Spain:
 
-1. Business travelers who must maintain availability on their work number
+1. [Business travelers](/blog/spain-esim-business-digital-nomad/) who must maintain availability on their work number
 2. Anyone using SMS-based two-factor authentication for bank accounts
 3. Travelers with family members who might need to reach them via regular calls
 4. Digital nomads keeping a home country presence while working remotely

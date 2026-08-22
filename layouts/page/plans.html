@@ -77,9 +77,10 @@
             {{ $allProducts = $allProducts | append .Params.all_countries }}
             {{ range $index, $item := $allProducts }}
             {{ if gt $index 0 }},{{ end }}
-            {{ $priceValue := $.Params.ui.schema_price_value | default "1.99" }}
-            {{ $priceHigh := $.Params.ui.schema_price_high_value | default "49.99" }}
-            {{ $currency := $.Params.ui.schema_price_currency | default "USD" }}
+            {{- /* ===== 关键修复：使用 or 并确保大写 ===== */ -}}
+            {{- $priceValue := $.Params.ui.schema_price_value | or "1.99" -}}
+            {{- $priceHigh := $.Params.ui.schema_price_high_value | or "49.99" -}}
+            {{- $currency := $.Params.ui.schema_price_currency | or "USD" | strings.ToUpper -}}
             {{ $destName := $item.name }}
             {{ $destSlug := $item.slug | default ($destName | urlize) }}
             {{ $destURL := printf "/%s-esim/" ($destSlug | lower) | absLangURL }}

@@ -248,6 +248,8 @@ International resellers source data from Spanish carriers via wholesale agreemen
 
 ## Family & Group Sharing Strategies
 
+For a full guide to the best plans for families, students, and long stays, see our [families & long-stay eSIM guide](/blog/spain-esim-families-students-long-stay/).
+
 Instead of buying individual plans for everyone, buy **one high‑data plan with hotspot** and share. This approach cuts costs by 20–44%.
 
 | Group | Individual Plans | Shared Hotspot | Savings |

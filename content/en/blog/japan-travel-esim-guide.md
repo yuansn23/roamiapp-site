@@ -1,9 +1,9 @@
 ---
-title: "Japan Travel eSIM Complete Guide 2026: Tourist-Friendly Plans for Every Trip"
-description: "Complete Japan travel eSIM guide for tourists in 2026. Find the best eSIM for short trips, long stays, Tokyo, Kyoto, Osaka, Hokkaido and Okinawa. Compare plans by travel style."
+title: "Japan Travel eSIM Complete Guide 2026: Plans for Every Trip"
+description: "Japan travel eSIM guide for tourists in 2026. Find the best eSIM for short trips, long stays, Tokyo, Kyoto, Osaka, Hokkaido and Okinawa."
 keywords: ["esim japan travel", "esim for japan travel", "japan travel esim", "travel esim japan", "japan esim for tourist", "japan esim tourist", "japan tourist esim", "esim card for japan travel", "best japan esim for tourist", "esim travel japan", "esim to use in japan", "journey japan esim"]
 date: 2026-08-10T00:00:00Z
-lastmod: 2026-08-10T00:00:00Z
+lastmod: 2026-08-21T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
 image: "/img/esim/japan/japan-travel-esim-guide.jpg"
@@ -441,7 +441,7 @@ Data-only eSIMs don't support traditional calls, but you can use WhatsApp, LINE,
 
 **The bottom line for tourists:** A Japan travel eSIM is the simplest, most affordable way to stay connected in 2026. Install it before you leave, activate it when you land, and enjoy your trip without worrying about internet access.
 
-For more detailed setup instructions, see our [Japan eSIM installation guide](/japan-esim-installation-guide/).
+For more detailed setup instructions, see our [Japan eSIM installation guide](/blog/japan-esim-installation-guide/).
 
 ---
 

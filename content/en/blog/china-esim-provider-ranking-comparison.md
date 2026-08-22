@@ -77,6 +77,7 @@ Prices are for plans available at time of writing and may shift. The "VPN" colum
 | **Roamify** | 7.8/10 | $4.00 (1GB) | No | China Mobile | Budget long stays |
 | **3HK** | 7.5/10 | ~$18 (10GB Asia) | Yes (HK routing) | CMHK roaming | Multi-country Asia trips |
 | **CMHK** | 7.3/10 | ~$15 (5GB/30d) | Yes (HK routing) | China Mobile | Hong Kong cross-border |
+| **Trip.com** | 8.4/10 | $3.90 (1GB/7d) | Yes (HK-exit routing) | China Mobile/Unicom | Budget daily plans & booking ecosystem |
 
 **Note on ratings:** These scores weigh firewall bypass reliability (40%), price-to-data value (25%), connection speed (15%), customer support (10%), and extra features (10%). A provider scoring 9+ is a confident recommendation for most travelers. Providers below 8.0 have meaningful tradeoffs worth understanding before buying.
 
