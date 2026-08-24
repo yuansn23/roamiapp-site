@@ -2,9 +2,10 @@
 title: "Does iPhone SE Support eSIM? Full Guide (Update)"
 h1_title: "Does the iPhone SE Support eSIM? A Complete Guide (Updated)"
 description: "iPhone SE (2020/2022) support eSIM – original 2016 SE does not. Verify with *#06#. Works with major carriers and global eSIM providers."
+image: "/img/esim/esim-travel.jpg"
 keywords: ["iphone se esim", "iphone se esim compatible", "does iphone se have esim", "iphone se 2020 esim", "iphone se 3rd gen esim", "esim capable iphones", "iphone se dual sim", "list of iphones that support esim", "iphone se esim setup", "esim iphone se", "iphone se esim not working", "iphone se carrier unlock"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-20T00:00:00Z
+lastmod: 2026-08-23T00:00:00Z
 tags: ["iPhone", "eSIM", "Compatibility", "iPhone SE"]
 toc: true
 
@@ -270,8 +271,6 @@ Your provider will send you a QR code via email. Make sure you can access it (op
 ### 5. Check That You Actually Have an eSIM‑Compatible iPhone SE
 
 Dial `*#06#`. If a 32‑digit EID appears, you're good. If only IMEI numbers appear, your phone does not support eSIM.
-
-For complete compatibility details, see our [iPhone eSIM guide](/faq/iphone-11-esim-compatible/).
 
 
 ## Carrier Unlock Policies by US Carrier
@@ -579,7 +578,7 @@ Yes – Jio (India) offers eSIM for iPhone SE 2020/2022. You need a postpaid Jio
 Yes – Airtel (India) also offers eSIM for iPhone SE 2020/2022. Similar to Jio, you need a postpaid Airtel connection and visit an Airtel store for in‑person verification. Airtel supports eSIM activation via QR code after verification.
 
 **My iPhone SE shows "Cellular Plan Cannot Be Added" – what's wrong?**
-Remove old eSIM profiles in **Settings > Cellular**, restart your phone, and try again. If the problem persists, check your carrier lock status. For more help, see our [eSIM troubleshooting guide](/faq/esim-deep-troubleshooting-guide-2026/).
+Remove old eSIM profiles in **Settings > Cellular**, restart your phone, and try again. If the problem persists, check your carrier lock status.
 
 **How do I know if my iPhone SE is compatible with eSIM?**
 Dial `*#06#`. If an EID appears, your phone is compatible. This is the definitive answer for **iphone se compatible with eSIM**.
@@ -613,6 +612,8 @@ Yes – if your carrier offers family or shared data plans, you can add your iPh
 
 **Does eSIM on iPhone SE support personal hotspot?**
 Yes – if your eSIM plan allows hotspot usage. Some travel eSIMs (especially unlimited plans) may restrict hotspot. Check your plan's Fair Usage Policy.
+
+👉 **Planning a trip?** See [eSIM for the USA](/united-states-esim/) or [eSIM for Europe](/europe-esim/).
 
 ---
 

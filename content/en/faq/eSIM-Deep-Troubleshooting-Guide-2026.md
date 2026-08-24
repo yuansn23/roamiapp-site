@@ -1,10 +1,11 @@
 ---
 title: "eSIM Deep Troubleshooting Guide 2026"
 h1_title: "The Complete Guide to eSIM Troubleshooting in 2026 – 18 Real-World Fixes"
-description: "Deep eSIM troubleshooting guide 2026. Fix activation failures, transfer errors, no service, and QR code scan issues on iPhone & Android. Step-by-step solutions."
-keywords: ["eSIM troubleshooting", "eSIM activation failed", "eSIM no service", "eSIM transfer error", "eSIM cross-platform transfer", "iOS 18 eSIM", "eSIM APN settings", "eSIM confirmation code", "eSIM carrier lock", "dual eSIM signal issue"]
+description: "Fix eSIM activation failures, transfer errors, no service, and QR scan issues on iPhone and Android with this 2026 troubleshooting guide."
+image: "/img/esim/esim-troubleshooting-guide.jpg"
+keywords: ["eSIM troubleshooting", "eSIM activation failed", "eSIM no service", "eSIM transfer error", "eSIM cross-platform transfer", "iOS 18 eSIM", "eSIM APN settings", "eSIM confirmation code", "eSIM carrier lock", "eSIM stuck on activating"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-20T00:00:00Z
+lastmod: 2026-08-23T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
 
@@ -243,8 +244,8 @@ Use this decision map to immediately jump to the right fix. No need to read ever
 |----------|-----|----------|----------|
 | Roami | internet | (blank) | (blank) |
 | Airalo | globaldata | (blank) | (blank) |
-| Holafly | holafly | (blank) | (blank) |
-| Nomad | nomad | (blank) | (blank) |
+| Holafly | hola | (blank) | (blank) |
+| Nomad | nbdata | (blank) | (blank) |
 | Ubigi | ubigi | (blank) | (blank) |
 | Google Fi | h2g2 | (blank) | (blank) |
 | T-Mobile (US) | fast.t-mobile.com | (blank) | (blank) |
@@ -646,6 +647,8 @@ This is a known carrier-lock issue on some devices. Remove the physical SIM, res
 
 **Q20: My Apple Watch eSIM isn't connecting – is this a phone issue or carrier issue?**
 It could be both. First, check that your carrier supports Apple Watch eSIM. Then, unpair and re-pair the watch. If it still doesn't work, contact your carrier and provide them with the watch's EID and IMEI. See Section 20 for the full walkthrough.
+
+👉 **Troubleshooting done?** Pick a [USA eSIM plan](/united-states-esim/) or [Europe eSIM plan](/europe-esim/) to get back online.
 
 ---
 

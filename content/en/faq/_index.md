@@ -7,7 +7,7 @@ outputs:
   - sitemap
 
 seo:
-  title: "Roami eSIM FAQ | Activation, Compatibility & Free eSIM Trials 2026"
+  title: "Roami eSIM FAQ | Activation, Compatibility & Trials 2026"
   description: "Step-by-step guides for eSIM activation, device compatibility (iPhone, Samsung, Google Pixel, Moto G Power), troubleshooting, and free eSIM trials for USA, UK, Japan, China, and more. Instant support."
   keywords: "eSIM, travel eSIM, free eSIM, free eSIM trial, eSIM setup, UK eSIM, eSIM activation, eSIM troubleshooting, eSIM compatibility, Roami"
 hero:

@@ -2,9 +2,10 @@
 title: "iPhone eSIM: Full Compatibility & Setup Guide"
 h1_title: "The Complete Guide to iPhone eSIM Compatibility and Setup"
 description: "Check iPhone eSIM compatibility (EID method) and setup steps. Covers dual SIM, iPhone 13+ features, and China/US model differences. Includes tables."
+image: "/img/esim/esim-travel.jpg"
 keywords: ["iphone esim", "esim iphone", "which iphones support esim", "iphone esim compatible", "does iphone 11 have esim", "iphone esim only", "iphone dual esim", "first iphone with esim", "iphones with esim", "iphone esim setup", "iphone 16e esim", "iphone 17 esim", "how to transfer esim to new iphone"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-20T00:00:00Z
+lastmod: 2026-08-23T00:00:00Z
 tags: ["iPhone", "eSIM", "Dual SIM", "Activation", "Compatibility"]
 toc: true
 
@@ -549,6 +550,8 @@ Yes – but US iPhone 17 models are eSIM‑only (no physical SIM slot). You'll n
 
 **How do I fix eSIM not showing up in Settings after an iOS update?**
 This is a known iOS bug. Go to Settings > General > About – if your EID number appears but the eSIM doesn't show in Cellular, restart your iPhone. If that doesn't work, go to Settings > Cellular > Add eSIM – sometimes the phone detects the existing profile and re-adds it automatically.
+
+👉 **Ready to travel with your iPhone 11?** Get an [eSIM for the USA](/united-states-esim/) or [eSIM for Japan](/japan-esim/).
 
 ---
 

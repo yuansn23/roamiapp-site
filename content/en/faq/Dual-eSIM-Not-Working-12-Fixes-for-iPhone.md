@@ -1,10 +1,11 @@
 ---
 title: "Dual eSIM Not Working? 12 iPhone Fixes"
 h1_title: "How to Fix Dual eSIM Not Working on iPhone: 12 Solutions"
-description: "Dual eSIM not working? Fix 12 iPhone issues: incoming call routing, VoLTE setup, battery drain, and carrier lock checks. Step-by-step guide for iPhone 16, 16."
-keywords: ["dual eSIM not working", "iPhone dual SIM no service", "dual eSIM signal issue", "eSIM carrier lock", "eSIM troubleshooting", "eSIM activation failed", "iOS 18 eSIM", "eSIM APN settings", "eSIM confirmation code", "eSIM no service"]
+description: "Dual eSIM not working? Fix 12 iPhone issues: call routing, VoLTE setup, battery drain, and carrier lock checks for iPhone 16 and iOS 18."
+image: "/img/esim/usa/usa-esim-dual-sim-setup.jpg"
+keywords: ["dual eSIM not working", "iPhone dual SIM no service", "dual eSIM signal issue", "eSIM carrier lock", "dual eSIM troubleshooting", "dual eSIM activation failed", "iOS 18 eSIM", "eSIM APN settings", "eSIM confirmation code", "dual eSIM no service"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-20T00:00:00Z
+lastmod: 2026-08-23T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
 
@@ -166,8 +167,6 @@ Your **dual eSIM** configuration depends on your iPhone model and region:
 
 For a complete list of compatible iPhones, [check your iPhone's dual eSIM compatibility](/compatibility/).
 
-> 📱 **iPhone 16 & US iPhone 16 series**: No physical SIM tray – only dual eSIM. If you run into activation problems on these models, check our **[eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/)** for advanced fixes.
-
 
 ## 2. Dual eSIM: Why One Line Shows "No Service" While the Other Works
 
@@ -318,8 +317,6 @@ Many users keep a **work number** (eSIM) and **personal number** (second eSIM or
 | eSIM deleted accidentally | Check if provider allows re‑download | Contact carrier for new QR code | Travel eSIMs: buy a new plan |
 | Physical SIM inserted, eSIM disappears | Carrier-locked phone disables eSIM with foreign SIM | Remove physical SIM, restart, eSIM reappears | Contact carrier to unlock device |
 
-For additional problems like "eSIM bound to another device" or "restore error 4013", see our **[full 16‑case troubleshooting library](/faq/esim-deep-troubleshooting-guide-2026/)** .
-
 
 ## 11. How to Configure APN Settings If Your eSIM Has No Data
 
@@ -369,7 +366,7 @@ For additional problems like "eSIM bound to another device" or "restore error 40
 ## Frequently Asked Questions
 
 **Q1: Can I use two eSIMs from the same carrier?**  
-Yes, as long as your carrier allows multiple eSIM profiles on one account. For example, T‑Mobile US supports up to two eSIMs on the same iPhone. For a full list of compatible iPhone models, check the **[iPhone 16 compatibility table](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)**.
+Yes, as long as your carrier allows multiple eSIM profiles on one account. For example, T‑Mobile US supports up to two eSIMs on the same iPhone.
 
 **Q2: Will both lines support 5G simultaneously?**  
 Yes, on iPhone 13 and newer (including iPhone 16), both lines can be on 5G (dual 5G standby). However, only one line can use 5G data at a time; the other uses 5G for voice fallback (VoNR).
@@ -415,6 +412,8 @@ First, ensure 5G is enabled for both lines: Settings > Cellular > [line] > Voice
 
 **Q14: I inserted a physical SIM and my eSIM disappeared – how do I get it back?**  
 This is a known behavior on carrier-locked iPhones. Remove the physical SIM, restart your iPhone, and the eSIM should reappear in Settings > Cellular. Then contact your carrier to unlock your device so both can work simultaneously.
+
+👉 **Setting up dual eSIM for travel?** Browse [eSIM plans for the USA](/united-states-esim/) or [eSIM for Japan](/japan-esim/) — both support dual eSIM on modern iPhones.
 
 ---
 

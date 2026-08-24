@@ -1,10 +1,11 @@
 ---
 title: "Does Moto G Power Support eSIM? Full Guide"
 h1_title: "Does the Moto G Power Support eSIM? A Complete Guide for 2026"
-description: "Moto G Power (2024) and Moto G Stylus (2024) support eSIM. Older models (2020-2023) do not. Verify with *#06#. Also covers Edge, Razr, and other Moto eSIM phones."
+description: "Moto G Power and Moto G Stylus (2024) support eSIM; older 2020-2023 models do not. Verify with *#06#. Also covers Edge and Razr."
+image: "/img/esim/esim-travel.jpg"
 keywords: ["moto g power esim", "moto g power esim compatible", "moto g stylus esim", "motorola esim compatible phones", "moto g power 2024 esim", "motorola edge esim", "motorola razr esim", "moto g power esim activation", "moto g power esim not working", "motorola esim setup", "moto g power esim qr code", "moto g power dual sim", "motorola esim supported devices"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-20T10:00:00Z
+lastmod: 2026-08-23T10:00:00Z
 tags: ["Motorola", "eSIM", "Compatibility", "Moto G Power"]
 toc: true
 
@@ -163,7 +164,7 @@ Here's what you need to know in 10 seconds:
 
 > **Pro tip:** Other **motorola eSIM compatible phones** include the Edge series (Edge 40/50/60), Razr foldables, and some Moto G 5G models (G53, G54, G55). Always run the EID test.
 
-For a complete list of compatible devices across all brands, see our [full compatibility list](/compatibility/). If you are planning to travel with your Moto G Power, check out [Roami eSIM plans](/united-states-esim/) for affordable global connectivity.
+For a complete list of compatible devices across all brands, see our [full compatibility list](/compatibility/). If you are planning to travel with your Moto G Power, check out [Roami eSIM plans](/united-states-esim/) for affordable connectivity, or [eSIM for Japan](/japan-esim/) if you're headed there.
 
 
 ## Quick Decision Flow: Find Your Moto G Power eSIM Scenario

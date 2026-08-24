@@ -2,9 +2,10 @@
 title: "Does iPhone XR Support eSIM? Full Guide 2026"
 h1_title: "Does the iPhone XR Support eSIM? A Complete Guide for 2026"
 description: "iPhone XR supports eSIM – verify with *#06#. Activate on major carriers. China models: no eSIM. Also covers iPhone 8/X and eSIM iPhones."
+image: "/img/esim/esim-travel.jpg"
 keywords: ["iphone xr esim compatible", "iphone xr esim support", "esim compatible phones", "list of iphones that support esim", "airalo compatible phones", "google fi esim compatible phones", "verizon esim compatibility", "dual sim compatible", "iphone xr dual sim", "iphone xr esim"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-20T00:00:00Z
+lastmod: 2026-08-23T00:00:00Z
 tags: ["iPhone", "eSIM", "Compatibility", "iPhone XR"]
 toc: true
 
@@ -482,6 +483,8 @@ This is normal behavior. The XR is dual standby, not dual active – only one li
 **What about other phone brands? Is my Samsung / Xiaomi / Huawei eSIM compatible?**
 Samsung Galaxy S20 FE, Xiaomi 11T Pro, and Huawei P30 Pro support eSIM depending on the region and model. For a complete list, see our full **[eSIM compatibility guide](/compatibility/)** .
 
+
+👉 **Traveling soon?** See [eSIM for the USA](/united-states-esim/) or [eSIM for Europe](/europe-esim/) for your iPhone XR.
 
 ## Still Unsure? Try a Free eSIM
 

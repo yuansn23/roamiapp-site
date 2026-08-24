@@ -2,9 +2,10 @@
 title: "Travel eSIM 2026: Slash Roaming Fees by 90%"
 h1_title: "Travel eSIM in 2026: How to Cut Roaming Fees by 90%"
 description: "Never hunt for local SIMs again. Roami global eSIM auto-switches between top networks worldwide. 5G ready, instant activation, 24/7 support. Free trial."
+image: "/img/esim/esim-travel.jpg"
 keywords: ["travel eSIM", "international roaming", "eSIM for travel", "buy eSIM for travel", "best travel esim", "cheap roaming", "eSIM for international travel", "data only esim", "unlimited data esim", "eSIM vs roaming", "what is travel eSIM", "cheapest travel eSIM", "global eSIM", "eSIM travel app"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-20T00:00:00Z
+lastmod: 2026-08-23T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup", "iPhone 16"]
 toc: true
 
@@ -628,7 +629,7 @@ You have two options:
 - **During trip:** Use travel eSIM for all data; keep home eSIM for iMessage and occasional calls (over Wi‑Fi Calling).
 - **After return:** Disable travel eSIMs (or keep them for next trip – they stay stored on your phone).
 
-Whether you need an **eSIM for international travel**, a **global eSIM**, or a **cheap roaming** solution, the right travel eSIM can transform your connectivity experience. Start with a **[free eSIM trial](/free-esim/)** to test the service.
+Whether you need an **eSIM for international travel**, a **global eSIM**, or a **cheap roaming** solution, the right travel eSIM can transform your connectivity experience. Explore [eSIM for Europe](/europe-esim/), [eSIM for Japan](/japan-esim/), or [eSIM for Australia](/australia-esim/) for your next destination. Start with a **[free eSIM trial](/free-esim/)** to test the service.
 
 ---
 

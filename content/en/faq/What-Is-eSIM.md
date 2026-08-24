@@ -1,10 +1,11 @@
 ---
 title: "What is eSIM? Say Goodbye to Lost SIM Cards"
 h1_title: "What Is eSIM and Why It Eliminates the Need for a Physical SIM Card"
-description: "Tired of fiddling with tiny SIM cards? Learn how eSIM technology works on iPhone & Android. Discover why it's safer, easier, and the future of travel connectivity."
+description: "Tired of tiny SIM cards? Learn how eSIM works on iPhone and Android, and why it is safer, easier, and the future of travel connectivity."
+image: "/img/esim/esim-travel.jpg"
 keywords: ["what is eSIM", "how does eSIM work", "eSIM vs physical SIM", "eSIM definition", "eSIM benefits", "embedded SIM card", "eSIM beginner guide", "dual eSIM", "global eSIM", "eSIM for travel", "eSIM pros and cons", "esim for beginners", "eSIM technology explained"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-20T00:00:00Z
+lastmod: 2026-08-23T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup", "iPhone 16"]
 toc: true
 
@@ -515,7 +516,7 @@ You live in Germany and have a German eSIM from Telekom (your main number). You'
 
 This is **dual eSIM** in action. You don't need to remove or disable your home SIM. The same works with a physical SIM + eSIM on older iPhones. The flexibility is unmatched.
 
-A global eSIM is simply a travel eSIM that works across many countries (e.g., a Europe-wide or Asia-wide plan). Roami offers regional and global plans, all managed digitally.
+A global eSIM is simply a travel eSIM that works across many countries (e.g., a Europe-wide or Asia-wide plan). Roami offers regional and global plans, all managed digitally. See our [Europe eSIM guide](/europe-esim/) for a regional plan, or [USA eSIM plans](/united-states-esim/) for a single-country trip.
 
 If you're experiencing issues with dual eSIM, our **[Dual eSIM Not Working? 12 Fixes for iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** guide covers common problems and solutions.
 

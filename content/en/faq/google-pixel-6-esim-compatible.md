@@ -2,9 +2,10 @@
 title: "Google Pixel eSIM Compatibility: Pixel 2–10"
 h1_title: "Google Pixel eSIM Compatibility: Complete Guide for Pixel 2-10"
 description: "Which Google Pixels support eSIM? Full list Pixel 2–10. Includes verification (*#06#), carriers, Japanese restrictions, dual eSIM, and troubleshooting."
+image: "/img/esim/esim-travel.jpg"
 keywords: ["google pixel esim compatible", "pixel 6 esim", "pixel 7 esim", "pixel 8 esim", "pixel esim travel", "pixel dual sim", "pixel esim support", "google fi esim compatible phones", "esim compatible phones", "pixel 9 esim", "pixel 4a esim", "pixel 5 esim"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-20T00:00:00Z
+lastmod: 2026-08-23T00:00:00Z
 tags: ["Google Pixel", "eSIM", "Compatibility", "Pixel 6", "Pixel 7", "Pixel 8", "Pixel 9", "Pixel 10"]
 toc: true
 
@@ -728,6 +729,8 @@ The following table shows which providers work on which Pixel generations:
 
 > **For travelers going to China:** Chinese local carriers do not offer eSIM to tourists. You must use international providers. Pixel 6 and newer work reliably with these plans.
 
+**Not a Pixel?** For other Android brands — OnePlus, Xiaomi, Motorola, Sony, and more — see our [Android eSIM guide for other brands](/faq/android-esim-other-brands-deep-guide/).
+
 
 ## Frequently Asked Questions
 
@@ -812,6 +815,8 @@ This is usually one of three issues:
 
 **What is the SM-DP+ address?**
 The SM-DP+ (Subscription Manager Data Preparation) address is the server that delivers your carrier profile. Most users don't need to know it – scanning the QR code automatically fills it. If you're entering details manually, you'll need the SM-DP+ address and activation code from your provider.
+
+👉 **Planning to travel with your Pixel?** See [eSIM for Japan](/japan-esim/) or [eSIM for the USA](/united-states-esim/). For which phones work on Japanese networks, read our [Japan eSIM compatibility guide](/blog/japan-esim-compatibility-guide/).
 
 
 ## Try a free eSIM on your Pixel – zero risk

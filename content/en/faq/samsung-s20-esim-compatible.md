@@ -2,9 +2,10 @@
 title: "Samsung Galaxy eSIM: S/A/Z Series Guide"
 h1_title: "The Complete Guide to Samsung Galaxy eSIM for the S, A, and Z Series"
 description: "Full Samsung eSIM support: S21-S25 (yes), S20 (global only), A54/A55/A35 (yes), A15/A16/A32 (no), Z series (yes). Verify, activate & carrier list."
+image: "/img/esim/esim-travel.jpg"
 keywords: ["samsung esim", "samsung phones with esim", "samsung esim compatible phones", "samsung galaxy esim", "does samsung have esim", "samsung s21 esim", "samsung esim activation", "samsung a series esim", "samsung dual esim", "samsung esim phones list", "samsung esim not working", "samsung esim qr code", "samsung esim usa", "samsung s20 esim"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-20T00:00:00Z
+lastmod: 2026-08-23T00:00:00Z
 tags: ["Samsung", "eSIM", "Compatibility", "Galaxy S21", "Galaxy S22", "Galaxy S23", "Galaxy S24", "Galaxy S25", "Galaxy A series", "Galaxy Z series"]
 toc: true
 
@@ -670,6 +671,8 @@ This usually means your phone has a CSC (region code) that doesn't support eSIM.
 **Why is the "Add eSIM" option grayed out on my Samsung?**
 This is almost always carrier firmware restriction. AT&T-branded Samsung phones frequently have this issue. Contact your carrier or buy an unlocked phone.
 
+
+👉 **Planning to travel with your Samsung?** See [eSIM for the USA](/united-states-esim/) or [eSIM for Japan](/japan-esim/).
 
 ## Test with a Free eSIM
 

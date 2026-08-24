@@ -1,14 +1,13 @@
 ---
 title: "How to Activate an eSIM on iOS and Android"
 h1_title: "How to Activate an eSIM on iOS and Android (Step-by-Step)"
-description: "Step-by-step guide to activate an eSIM on iPhone and Android. Scan a QR code, enter details manually, or use a carrier app, plus fixes for activation failures."
+description: "Step-by-step guide to activate an eSIM on iPhone and Android: QR code, manual entry, or carrier app, plus fixes for activation failures."
 keywords: ["eSIM activation", "how to activate eSIM", "activate eSIM iPhone", "Android eSIM", "eSIM QR code", "eSIM manual entry", "eSIM troubleshooting", "travel eSIM", "eSIM setup iPhone", "add eSIM to iPhone"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-20T00:00:00Z
+lastmod: 2026-08-23T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
-image: "/images/esim-activation-guide.jpg"
-
+image: "/img/esim/germany/germany-esim-installation-activation-setup.jpg"
 # Site & SEO
 site_name: "Roami"
 author: "Roami"
@@ -103,7 +102,7 @@ sidebar_questions:
 
 **The Bottom Line Up Front:** To activate an eSIM, you need a carrier-unlocked phone, a stable Wi-Fi connection, and an eSIM QR code from your provider. Navigate to your phone's cellular settings, select "Add eSIM" or "Add Data Plan," scan the QR code, and wait 1-2 minutes for the digital profile to download and install. If you run into **eSIM activation failed** errors, this guide covers every fix.
 
-For a general introduction to eSIM technology, see our [What is eSIM? guide](/faq/what-is-esim/). If you're still having trouble after following this guide, our [eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/) covers advanced scenarios.
+For a general introduction to eSIM technology, see our [What is eSIM? guide](/faq/what-is-esim/). New to activation and want to understand what actually happens when you scan that QR code? Read [What is eSIM Activation?](/faq/what-is-esim-activation-and-how-does-it-work/). If you're still having trouble after following this guide, our [eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/) covers advanced scenarios.
 
 
 ## 10-Second Quick Check – Does Your Phone Support eSIM?
@@ -499,6 +498,8 @@ If your eSIM fails to activate or connect, do not panic. Try these technical fix
 
 If these fixes don't resolve your issue, consult our [eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/) for more advanced scenarios like **eSIM activation failed** on carrier-locked devices or regional restrictions.
 
+For a complete error-by-error reference — from **eSIM not supported** to **profile expired** — see our [eSIM activation errors troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/).
+
 
 ## Frequently Asked Questions
 
@@ -512,7 +513,7 @@ If these fixes don't resolve your issue, consult our [eSIM Deep Troubleshooting 
 
 **Can I use my physical SIM and eSIM at the same time?** Yes — most modern smartphones support Dual SIM Dual Standby (DSDS). You can keep your physical SIM active for calls and texts from home, while using your **travel eSIM** purely for local cellular data. This is the recommended setup for international travelers who need to receive SMS verification codes.
 
-**What if my eSIM activation fails repeatedly?** First, confirm your phone is unlocked (Settings > General > About > Carrier Lock). Second, try on a different Wi-Fi network. Third, ask your eSIM provider to resend the QR code — sometimes the first code is defective. If all else fails, try the **eSIM manual entry** method with the **SM-DP+ address**. For more advanced issues, see our [eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/).
+**What if my eSIM activation fails repeatedly?** First, confirm your phone is unlocked (Settings > General > About > Carrier Lock). Second, try on a different Wi-Fi network. Third, ask your eSIM provider to resend the QR code — sometimes the first code is defective. If all else fails, try the **eSIM manual entry** method with the **SM-DP+ address**.
 
 **What's the difference between eSIM QR code and manual entry?** QR code scanning is the standard method — it's faster and less error-prone. **eSIM manual entry** (using the SM-DP+ address and activation code) is a backup when scanning fails. Manual entry works on both iPhone and Android and bypasses the camera entirely, making it the most reliable **how to activate an eSIM** method when QR codes won't scan.
 
@@ -541,6 +542,8 @@ If these fixes don't resolve your issue, consult our [eSIM Deep Troubleshooting 
 **Can I have two eSIMs from different countries active at the same time?** On iPhone 13 and newer, yes — you can have two eSIMs active simultaneously (dual eSIM). On older iPhones and most Android devices, you can have one eSIM and one physical SIM active, but not two eSIMs. Check your device's specifications.
 
 **What does "eSIM SM-DP+ address" mean?** SM-DP+ (Subscription Manager - Data Preparation Plus) is the secure server address that delivers your eSIM profile to your phone. When you do manual entry, this address tells your phone where to download the profile from. Your carrier provides this address along with the activation code.
+
+👉 **Ready to travel after activating?** See [eSIM for the USA](/united-states-esim/), [eSIM for Japan](/japan-esim/), or [eSIM for Europe](/europe-esim/).
 
 ---
 

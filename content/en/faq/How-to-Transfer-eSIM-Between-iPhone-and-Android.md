@@ -2,9 +2,10 @@
 title: "How to Transfer eSIM Between iPhone and Android"
 h1_title: "How to Transfer an eSIM Between iPhone and Android"
 description: "Move your eSIM between iPhone and Android with a carrier app or re-issued QR code. Step-by-step for both directions, plus fixes for common transfer errors."
+image: "/img/esim/esim-travel.jpg"
 keywords: ["eSIM cross-platform transfer", "eSIM transfer error", "iOS 18 eSIM", "eSIM carrier lock", "eSIM confirmation code", "eSIM no service", "eSIM APN settings", "eSIM troubleshooting", "eSIM activation failed", "transfer eSIM between iPhone and Android", "can't transfer eSIM to new iPhone", "Orange eSIM transfer"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-20T00:00:00Z
+lastmod: 2026-08-23T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
 
@@ -239,7 +240,7 @@ Use the **carrier QR code fallback**:
 - Scan the new QR code on the iPhone: `Settings` → `Cellular` → `Add eSIM`.
 - Complete activation.
 
-If you see an **"unable to activate esim"** error during this process, check your Wi‑Fi connection and try again. For more help, see our [eSIM troubleshooting guide](/faq/esim-deep-troubleshooting-guide-2026/).
+If you see an **"unable to activate esim"** error during this process, check your Wi‑Fi connection and try again.
 
 
 ## Method B: eSIM Transfer from iPhone to Android (Carrier QR Code)
@@ -269,8 +270,6 @@ There is no built‑in "Transfer to Android" option on iPhone. The reliable meth
 ✅ Done. Your number now lives on the Android phone.
 
 > ⚠️ **Important**: Once the transfer completes, the eSIM is **permanently removed** from the iPhone. You cannot revert without your carrier. Make sure you have another active line or Wi‑Fi before transferring.
-
-For deeper troubleshooting after a transfer, see our **[eSIM Deep Troubleshooting Guide](/faq/esim-deep-troubleshooting-guide-2026/)**.
 
 
 ## Transfer eSIM to New iPhone or Samsung – Intra-Platform eSIM Transfers
@@ -599,7 +598,7 @@ Some eSIM profiles have a mandatory **eSIM confirmation code** – typically 4�
 This usually means your carrier doesn't support transfer, the QR code expired, the old eSIM is still active, or the new device is carrier‑locked. Delete the old eSIM first (if still visible), then try again. See Section 7 for the full troubleshooting table.
 
 **Q13: How do I fix "eSIM activation failed" after transfer?**
-Check your Wi‑Fi connection, restart both devices, and try again. If it still fails, use the manual entry method with the SM‑DP+ address from your carrier email. For more help, see our [eSIM Deep Troubleshooting Guide](/faq/esim-deep-troubleshooting-guide-2026/).
+Check your Wi‑Fi connection, restart both devices, and try again. If it still fails, use the manual entry method with the SM‑DP+ address from your carrier email.
 
 **Q14: Does transferring my eSIM cancel my plan?**
 No – transferring the eSIM just moves the SIM profile to a new device. Your plan (and billing) continues as before. To cancel your plan, you must contact your carrier separately.
@@ -636,6 +635,8 @@ The ability to transfer eSIMs between iPhone and Android without carrier interve
 - Some carriers limit transfers per year – check before you start.
 
 If you encounter persistent **eSIM transfer error** messages, our **[eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/)** covers advanced solutions.
+
+👉 **Transferring to a travel plan?** See [eSIM for the USA](/united-states-esim/) or [eSIM for Europe](/europe-esim/) once your transfer completes.
 
 👉 **Not sure if your new phone supports eSIM?** Check our **[complete compatibility list](/compatibility/)** before you start.
 

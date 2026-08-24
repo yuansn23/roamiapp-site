@@ -4,11 +4,10 @@ h1_title: "How to Activate eSIM on iPhone in 2026 – Complete Step-by-Step Guid
 description: "Complete iOS eSIM activation guide 2026. No need to call your carrier. Follow simple instructions for QR code, Settings app, or carrier app. Fast & free."
 keywords: ["eSIM activation", "how to activate eSIM iPhone", "iPhone eSIM setup", "add eSIM to iPhone", "eSIM QR code iPhone", "travel eSIM iPhone", "iPhone eSIM troubleshooting", "transfer eSIM to new iPhone", "eSIM activation failed iPhone", "eSIM no service iPhone", "eSIM stuck on activating"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-20T00:00:00Z
+lastmod: 2026-08-23T00:00:00Z
 tags: ["eSIM", "iOS", "Troubleshooting", "Travel Setup"]
 toc: true
-image: "/images/esim-activation-guide.jpg"
-
+image: "/img/esim/esim-travel.jpg"
 # Site & SEO
 site_name: "Roami"
 author: "Roami"
