@@ -1,0 +1,83 @@
+related_products:
+  title: Paket eSIM Serupa
+  items:
+    - name: eSIM USA
+      flag: img/flags/us.svg
+      price: Mulai Rp 1.99
+      is_highlight: false
+      slug: united-states-esim
+    - name: eSIM China
+      flag: img/flags/cn.svg
+      price: Mulai Rp 1.99
+      is_highlight: false
+      slug: china-esim
+    - name: eSIM Jerman
+      flag: img/flags/de.svg
+      price: Mulai Rp 1.99
+      is_highlight: false
+      slug: germany-esim
+    - name: eSIM Jepang
+      flag: img/flags/jp.svg
+      price: Mulai Rp 1.99
+      is_highlight: false
+      slug: japan-esim
+    - name: eSIM Inggris
+      flag: img/flags/gb.svg
+      price: Mulai Rp 1.99
+      is_highlight: false
+      slug: united-kingdom-esim
+    - name: eSIM Prancis
+      flag: img/flags/fr.svg
+      price: Mulai Rp 1.99
+      is_highlight: false
+      slug: france-esim
+    - name: eSIM Italia
+      flag: img/flags/it.svg
+      price: Mulai Rp 1.99
+      is_highlight: false
+      slug: italy-esim
+    - name: eSIM Kanada
+      flag: img/flags/ca.svg
+      price: Mulai Rp 1.99
+      is_highlight: false
+      slug: canada-esim
+    - name: eSIM Brasil
+      flag: img/flags/br.svg
+      price: Mulai Rp 1.99
+      is_highlight: false
+      slug: brazil-esim
+    - name: eSIM Spanyol
+      flag: img/flags/es.svg
+      price: Mulai Rp 1.99
+      is_highlight: false
+      slug: spain-esim
+    - name: eSIM Korea Selatan
+      flag: img/flags/kr.svg
+      price: Mulai Rp 1.99
+      is_highlight: false
+      slug: south-korea-esim
+    - name: eSIM Australia
+      flag: img/flags/au.svg
+      price: Mulai Rp 1.99
+      is_highlight: false
+      slug: australia-esim
+    - name: eSIM Turki
+      flag: img/flags/tr.svg
+      price: Mulai Rp 1.99
+      is_highlight: false
+      slug: turkey-esim
+    - name: eSIM Taiwan
+      flag: img/flags/tw.svg
+      price: Mulai Rp 1.99
+      is_highlight: false
+      slug: taiwan-esim
+    - name: eSIM UEA
+      flag: img/flags/ae.svg
+      price: Mulai Rp 1.99
+      is_highlight: false
+      slug: united-arab-emirates-esim
+    - name: eSIM Austria
+      flag: img/flags/at.svg
+      price: Mulai Rp 1.99
+      is_highlight: false
+      slug: austria-esim

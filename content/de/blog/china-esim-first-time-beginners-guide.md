@@ -1,112 +1,110 @@
 ﻿---
-title: "China eSIM für Einsteiger: Schnellstart-Anleitung"
-description: "Neu bei eSIM? Roami erklärt China eSIM Grundlagen, Kompatibilität und Installation. Jetzt Anfängerleitfaden lesen und loslegen."
-keywords: ["China eSIM Einsteiger", "eSIM Grundlagen", "China eSIM Installation", "China eSIM Kompatibilität", "eSIM erste Schritte", "China eSIM Roami"]
-date: 2026-07-30T00:00:00Z
-lastmod: 2026-07-30T00:00:00Z
+title: "China eSIM für Einsteiger: Kurzanleitung und Tipps"
+description: "China eSIM für Einsteiger: Grundlagen, Telefonkompatibilität und Installation Schritt für Schritt, um Fehler zu vermeiden."
+keywords: ["China eSIM Einsteiger", "erste eSIM China", "eSIM Grundlagen China", "China eSIM für neue Nutzer", "wie man eSIM in China nutzt", "China eSIM kostenlose Testversion", "China eSIM Promo-Code", "China eSIM neu installieren"]
+date: 2026-08-24T00:00:00Z
+lastmod: 2026-08-24T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami hilft Reisenden, mit zuverlässigen eSIM-Tarifen und automatischem Carrier-Wechsel zwischen lokalen Netzen weltweit verbunden zu bleiben."
+authorBio: "Roami hilft Reisenden, mit zuverlässigen eSIM-Plänen und automatischem Carrier-Switching zwischen lokalen Netzen weltweit verbunden zu bleiben."
 image: "/img/esim/china/china-esim-first-time-beginners-guide.jpg"
 categories: ["China", "eSIM", "Reisen"]
-tags: ["China eSIM", "Reise eSIM"]
-readingTime: 20
+tags: ["China eSIM", "Reise-eSIM"]
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "China eSIM Erstanwender-Leitfaden"
-productsTitle: "Beliebte eSIM-Tarife"
-hotPostsTitle: "Top-Artikel"
-recentPostsTitle: "Neueste Beiträge"
+h1title: "China eSIM Einsteigerleitfaden"
+productsTitle: "Beliebte eSIM-Pläne"
+hotPostsTitle: "Beliebte Artikel"
+recentPostsTitle: "Aktuelle Beiträge"
 products:
   - name: "Europa eSIM"
     flag: "/img/flags/eu.svg"
-    price: "Ab $1.99"
+    price: "Ab $1,99"
     is_highlight: false
     slug: "europe"
   - name: "USA eSIM"
     flag: "/img/flags/us.svg"
-    price: "Ab $1.99"
+    price: "Ab $1,99"
     is_highlight: false
     slug: "united-states"
   - name: "Japan eSIM"
     flag: "/img/flags/jp.svg"
-    price: "Ab $1.99"
+    price: "Ab $1,99"
     is_highlight: false
     slug: "japan"
 recentPosts:
-  - title: "Liste eSIM-kompatibler Geräte"
+  - title: "eSIM-kompatible Geräteliste"
     permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "2026 Plattformübergreifende eSIM-Übertragung"
+  - title: "2026 plattformübergreifende eSIM-Übertragung"
     permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
     date: "2026-05-25"
-  - title: "Dual-eSIM funktioniert nicht? 12 Lösungen für iPhone"
+  - title: "Dual-eSIM funktioniert nicht? 12 Behebungen für iPhone"
     permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
     date: "2026-05-24"
-  - title: "Smartwatch-eSIM-Kompatibilitäts-Complete-Liste"
+  - title: "Smartwatch-eSIM-Kompatibilität – vollständige Liste"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
     date: "2026-05-23"
-  - title: "iPhone SE eSIM-Kompatibilitätsleitfaden"
+  - title: "iPhone SE eSIM-Kompatibilitätsguide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "iPhone 11 eSIM – Vollständiger Einrichtungsleitfaden"
+  - title: "iPhone 11 eSIM – vollständiger Einrichtungsguide"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "Ultimativer Leitfaden 2026: iPhone 17 eSIM-Aktivierungslösungen"
+  - title: "2026 Ultimate Guide: iPhone 17 eSIM-Aktivierungslösungen"
     permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
     date: "2026-05-20"
 ---
-
-Eine eSIM ist ein programmierbarer Chip in Ihrem Telefon, der eine Verbindung zu Mobilfunknetzen herstellt, ohne dass eine physische SIM-Karte erforderlich ist. Eine China eSIM für Deutsche bietet Datenzugang mit Hongkong-Routing, der die Firewall umgeht – Google, WhatsApp und Instagram funktionieren normal. Dieser Leitfaden deckt die Telefonkompatibilität, die Schritt-für-Schritt-Einrichtung, häufige Fehler, kostenlose Testversionen und Kundenservice-Kontakte für erstmalige eSIM-Nutzer ab.
+Wenn dies dein erstes Mal ist, dass du eine eSIM für China verwendest, mach dir keine Sorgen – der Prozess ist einfacher, als es klingt. Dieser Einsteigerleitfaden führt dich durch alles von der Kompatibilität bis zur Einrichtung, ohne dass Vorkenntnisse vorausgesetzt werden. Eine eSIM ist ein programmierbarer Chip in deinem Telefon, der eine Verbindung zu Mobilfunknetzen herstellt, ohne dass eine physische SIM-Karte erforderlich ist. Für China-Reisen bietet eine internationale eSIM mit Hongkong-Routing Datenzugriff, der die Große Firewall umgeht – Google, WhatsApp und Instagram funktionieren normal. Dieser Einsteigerleitfaden behandelt Telefonkompatibilität, Schritt-für-Schritt-Einrichtung, häufige Fehler, kostenlose Testversionen und Kundensupport-Kontakte für Erstnutzer von eSIMs.
 
 ---
 
 ## Was ist eine eSIM? Eine einfache Erklärung für absolute Anfänger
 
-Eine eSIM steht für **embedded SIM** (eingebaute SIM). Es ist ein winziger programmierbarer Chip, der in Ihr Telefon eingelötet ist und genau das tut, was eine physische SIM-Karte tut – sie verbindet Ihr Telefon mit einem Mobilfunknetz – aber ohne die Plastikkarte.
+Hier sind die grundlegenden Konzepte, die Reisende kennen müssen, bevor sie eine eSIM für China kaufen. eSIM steht für **embedded SIM** (eingebettete SIM). Es ist ein winziger programmierbarer Chip, der in dein Telefon eingelötet ist und genau das tut, was eine physische SIM-Karte tut – sie verbindet dein Telefon mit einem Mobilfunknetz – aber ohne die Plastikkarte.
 
-**Physische SIM oder eSIM Analogie**
-Stellen Sie sich eine physische SIM-Karte wie eine Hotelzimmerkarte vor. Sie kommen an, man gibt Ihnen die Karte, Sie stecken sie in Ihr Telefon, und jetzt ist Ihr Telefon im Netzwerk dieses Hotels "registriert". Wenn Sie zu einem anderen Hotel wechseln möchten, müssen Sie zurückgehen, die Karte abgeben und eine neue holen.
+**Analogie zwischen physischer SIM und eSIM**
+Stell dir eine physische SIM-Karte wie eine Hotelzimmerkarte vor. Du gehst hinein, sie geben dir die Karte, du steckst sie in dein Telefon, und jetzt ist dein Telefon bei diesem Netzwerk "registriert". Wenn du zu einem anderen Hotel wechseln möchtest, musst du zurückgehen, die Karte zurückgeben und eine neue holen.
 
-Eine eSIM ist wie eine digitale Mitgliedskarte, die in einer App auf Ihrem Telefon gespeichert ist. Sie registrieren sich online, der Anbieter sendet Ihnen ein digitales Profil, Ihr Telefon lädt es herunter, und Sie sind verbunden. Wenn Sie den Anbieter wechseln möchten, löschen Sie das alte digitale Profil und laden ein neues herunter. Kein Warten auf eine Karte per Post. Kein winziges Fach und keine Büroklammer.
+Eine eSIM ist wie eine digitale Mitgliedskarte, die in einer App auf deinem Telefon gespeichert ist. Du meldest dich online an, der Anbieter sendet dir ein digitales Profil, dein Telefon lädt es herunter, und du bist verbunden. Wenn du den Anbieter wechseln möchtest, löschst du das alte digitale Profil und lädst ein neues herunter. Kein Warten auf eine Karte, die per Post ankommt. Kein kleines Fach und keine Büroklammer.
 
-Das "e" in eSIM steht nicht für "elektronisch" – es steht für "embedded" (eingebaut), weil der Chip während der Herstellung in die Hauptplatine des Telefons eingebettet wird. Aber praktisch gesehen bedeutet es, dass Sie Carrier wechseln können, ohne irgendeine Hardware zu berühren.
+Das "e" in eSIM steht nicht für "elektronisch" – es steht für "embedded" (eingebettet), weil der Chip während der Herstellung in die Hauptplatine des Telefons eingebettet wird. Aber praktisch bedeutet es, dass du den Anbieter wechseln kannst, ohne irgendwelche Hardware zu berühren.
 
 **Warum das für China-Reisen wichtig ist**
-Eine eSIM China ist besonders nützlich aufgrund der Art und Weise, wie der Internetzugang im Land funktioniert. Die chinesische Firewall blockiert Google, Gmail, WhatsApp, Instagram, Facebook, YouTube und Hunderte andere Websites und Dienste. Wenn Sie eine lokale physische SIM-Karte von China Mobile oder China Unicom am Flughafen kaufen, gehen Ihre Daten über chinesische Server, und diese Seiten bleiben blockiert.
+Eine China-eSIM ist besonders nützlich wegen der Art und Weise, wie der Internetzugang in dem Land funktioniert. Die Große Firewall Chinas blockiert Google, Gmail, WhatsApp, Instagram, Facebook, YouTube und Hunderte anderer Websites und Dienste. Wenn du am Flughafen eine lokale physische SIM-Karte von China Mobile oder China Unicom kaufst, gehen deine Daten über chinesische Server, und diese Websites bleiben blockiert.
 
-Viele internationale Reise-eSIMs für China funktionieren anders. Sie verbinden sich im Hintergrund mit dem Netz eines chinesischen Carriers, leiten Ihren Internetverkehr jedoch über Server außerhalb Chinas – typischerweise Hongkong oder Singapur. Das bedeutet, dass die Firewall Ihre Daten nie berührt. Sie landen in Shanghai, schalten Ihre eSIM ein, und Google Maps, WhatsApp und Instagram funktionieren genau wie zu Hause. Eine [China eSIM](/china-esim/) mit automatischem Carrier-Wechsel stellt sicher, dass Sie sich mit dem stärksten verfügbaren Netzwerk verbinden – China Mobile, Unicom oder Telecom – während Sie sich durch verschiedene Gebiete bewegen, und so zuverlässige Geschwindigkeiten für all diese Apps aufrechterhalten.
+Viele internationale Reise-eSIMs für China funktionieren anders. Sie verbinden sich zwar mit dem Netz eines chinesischen Carriers, leiten deinen Internetverkehr aber über Server außerhalb Chinas – typischerweise Hongkong oder Singapur. Das bedeutet, dass die Große Firewall deine Daten nie berührt. Du landest in Shanghai, schaltest deine eSIM ein, und Google Maps, WhatsApp und Instagram funktionieren genauso wie zu Hause. Ein [China-eSIM-Tarif](/china-esim/) mit automatischem Carrier-Switching stellt sicher, dass du dich mit dem stärksten verfügbaren Netz verbindest – China Mobile, Unicom oder Telecom – während du dich durch verschiedene Gebiete bewegst, und so zuverlässige Geschwindigkeiten für all diese Apps aufrechterhält.
 
-Dies ist der Hauptgrund, warum Reisende eSIM gegenüber lokalen physischen SIM-Karten bevorzugen. Es geht nicht nur um Komfort – es geht darum, die Apps, auf die Sie sich verlassen, tatsächlich nutzen zu können.
+Das ist der Hauptgrund, warum Reisende eSIMs lokalen physischen SIM-Karten vorziehen. Es geht nicht nur um Bequemlichkeit – es geht darum, die Apps, auf die du angewiesen bist, tatsächlich nutzen zu können.
 
-Die [GSMA](https://www.gsma.com), der globale Handelsverband, der die eSIM-Technologie standardisiert hat, berichtet, dass die eSIM-Einführung im asiatisch-pazifischen Raum zwischen 2023 und 2026 um über 340 % gewachsen ist. Speziell China-Reise-eSIMs haben ein explosives Wachstum erlebt, da immer mehr Reisende entdecken, dass sie die Firewall umgehen können, ohne ein separates VPN zu konfigurieren.
+Die [GSMA](https://www.gsma.com), der globale Branchenverband, der die eSIM-Technologie standardisiert hat, verfolgt die eSIM-Einführung im asiatisch-pazifischen Raum, wo das Wachstum stark war. China-Reise-eSIMs haben insbesondere ein explosives Wachstum erlebt, da immer mehr Reisende entdecken, dass sie die Firewall umgehen können, ohne ein separates VPN konfigurieren zu müssen.
 
 **Wie die eSIM-Technologie tatsächlich funktioniert**
-Hier ist eine etwas technischere Erklärung, ohne zu sehr ins Detail zu gehen.
+Hier ist eine etwas technischere Erklärung, ohne zu tief einzusteigen.
 
-Ihr Telefon enthält einen kleinen manipulationssicheren Chip namens eUICC (embedded Universal Integrated Circuit Card). Dieser Chip speichert ein oder mehrere eSIM-Profile. Jedes Profil ist ein kleines Softwarepaket, das Ihren Authentifizierungsschlüssel, die Details des Netzbetreibers und Konfigurationseinstellungen wie APN-Informationen enthält.
+Dein Telefon enthält einen kleinen manipulationssicheren Chip namens eUICC (embedded Universal Integrated Circuit Card). Dieser Chip speichert ein oder mehrere eSIM-Profile. Jedes Profil ist ein kleines Softwarepaket, das deinen Authentifizierungsschlüssel, die Details des Netzbetreibers und Konfigurationseinstellungen wie APN-Informationen enthält.
 
-Wenn Sie einen QR-Code von einem eSIM-Anbieter scannen, lädt Ihr Telefon ein verschlüsseltes Profil auf diesen Chip herunter. Das Profil kommuniziert mit dem Mobilfunknetz, um Sie zu authentifizieren, genau wie es eine physische SIM tun würde. Der Unterschied ist, dass Sie mehrere Profile speichern können (acht oder mehr auf neueren iPhones) und zwischen ihnen wechseln können, ohne irgendwelche Hardware zu berühren.
+Wenn du einen QR-Code von einem eSIM-Anbieter scannst, lädt dein Telefon ein verschlüsseltes Profil auf diesen Chip herunter. Das Profil kommuniziert mit dem Mobilfunknetz, um dich zu authentifizieren, genau wie eine physische SIM. Der Unterschied ist, dass du mehrere Profile (acht oder mehr auf neueren iPhones) speichern und zwischen ihnen wechseln kannst, ohne irgendwelche Hardware zu berühren.
 
-[Wikipedias Artikel über eSIM-Technologie](https://en.wikipedia.org/wiki/ESIM) bietet einen gründlichen technischen Überblick über die Funktionsweise der Remote-SIM-Provisionierung.
+[Der Wikipedia-Artikel zur eSIM-Technologie](https://en.wikipedia.org/wiki/ESIM) bietet einen ausführlichen technischen Überblick über die Funktionsweise der Remote-SIM-Bereitstellung.
 
-**eSIM oder physische SIM: Kurzvergleich**
+**eSIM vs physische SIM: Kurzvergleich**
 | Funktion | Physische SIM | eSIM |
 |---|---|---|
-| Installation | Karte in das Fach einlegen | Digitales Profil herunterladen |
-| Carrier-Wechsel | Physische Karte tauschen | Profil in den Einstellungen wechseln |
+| Installation | Karte ins Fach legen | Digitales Profil herunterladen |
+| Anbieterwechsel | Physische Karte tauschen | Profil in den Einstellungen wechseln |
 | Karte verloren | Neue kaufen müssen | Profil erneut herunterladen |
 | Mehrere Leitungen | Dual-SIM-Fach (max. 2 Karten) | Bis zu 8 Profile, 2 aktiv |
 | Einrichtung vor der Reise | Muss am Zielort gekauft werden | Vor dem Flug installieren |
 | Firewall-Umgehung | Benötigt separates VPN | Bei vielen Anbietern integriert |
 | Verlustrisiko | Kleine Karte kann herausfallen | Nichts Physisches zu verlieren |
 
-**Was eSIM nicht kann**
-Einige ehrliche Einschränkungen, bevor Sie sich zu sehr freuen:
+**Was eine eSIM nicht kann**
+Ein paar ehrliche Einschränkungen, bevor du dich zu sehr freust:
 
-- **Die meisten China eSIMs sind reine Daten-eSIMs.** Sie erhalten mobile Daten, aber Sie können keine Sprachanrufe tätigen oder SMS über die eSIM-Nummer senden. Ihre reguläre Heim-SIM-Karte übernimmt weiterhin Anrufe und Texte.
-- **Sie können keine SMS-Verifizierungscodes** auf einer reinen Daten-eSIM empfangen. Das ist wichtig für Bank-Apps und Zwei-Faktor-Authentifizierung. Die Lösung besteht darin, Ihre Heim-SIM in einem Dual-SIM-Setup aktiv zu halten, damit sie SMS empfängt, während die eSIM Daten bereitstellt.
-- **Einige Telefone sind nicht kompatibel.** Das behandeln wir im nächsten Abschnitt.
+- **Die meisten China-eSIMs sind reine Daten-eSIMs.** Du bekommst mobile Daten, aber du kannst keine Sprachanrufe tätigen oder SMS über die eSIM-Nummer senden. Deine normale Heim-SIM-Karte übernimmt weiterhin Anrufe und Textnachrichten.
+- **Du kannst keine SMS-Verifizierungscodes** auf einer reinen Daten-eSIM empfangen. Das ist wichtig für Banking-Apps und Zwei-Faktor-Authentifizierung. Die Lösung besteht darin, deine Heim-SIM in einem Dual-SIM-Setup aktiv zu halten, damit sie SMS empfängt, während die eSIM die Daten bereitstellt.
+- **Einige Telefone sind nicht kompatibel.** Das wird im nächsten Abschnitt behandelt.
 
 ---
 
@@ -125,14 +123,14 @@ Alle iPhone-Modelle ab dem **iPhone XS, XS Max und XR** (veröffentlicht 2018) u
 - iPhone 15, 15 Plus, 15 Pro, 15 Pro Max
 - iPhone 16, 16 Plus, 16 Pro, 16 Pro Max
 - iPhone 17, 17 Plus, 17 Pro, 17 Pro Max
-- iPhone SE (2. Generation und später)
+- iPhone SE (2. Generation und neuer)
 
-**Kritische Ausnahme für China-Reisende:** In Festlandchina, Hongkong und Macau gekaufte iPhones haben die eSIM-Funktion auf Hardware-Ebene deaktiviert. Wenn Sie Ihr iPhone in einem Apple Store in Peking, Shanghai oder Hongkong gekauft haben, unterstützt es keine eSIM, egal was Sie tun. Sie benötigen eine physische SIM-Karte oder ein tragbares WLAN-Gerät.
+**Wichtige Ausnahme für China-Reisende:** In Festlandchina verkaufte iPhones verwenden traditionell zwei nano-SIM-Slots ohne eSIM-Unterstützung, die meisten akzeptieren daher keine eSIM. Die Ausnahmen sind das iPhone Air (nur eSIM) und das iPhone 17e, die eSIM unterstützen. In Hongkong und Macau haben die iPhone-16-Generation und frühere ebenfalls kein eSIM (zwei nano-SIMs), während die iPhone-17-Generation eSIM zusammen mit einem nano-SIM-Slot hinzufügt. Wenn du ein Festland-iPhone gekauft hast, wirst du wahrscheinlich eine physische SIM-Karte oder ein Pocket-WiFi-Gerät benötigen.
 
-[Apples offizielle eSIM-Support-Seite](https://support.apple.com/en-us/HT212780) enthält die vollständige Kompatibilitätsliste.
+[Die offizielle eSIM-Support-Seite von Apple](https://support.apple.com/en-us/HT212780) enthält die vollständige Kompatibilitätsliste.
 
 **Samsung Galaxy**
-Samsung führte die eSIM-Unterstützung mit der **Galaxy S20-Serie** im Jahr 2020 ein. Kompatible Modelle umfassen:
+Samsung führte die eSIM-Unterstützung mit der **Galaxy S20-Serie** im Jahr 2020 ein. Kompatible Modelle sind:
 
 - Galaxy S20, S20+, S20 Ultra, S20 FE
 - Galaxy S21, S21+, S21 Ultra, S21 FE
@@ -143,9 +141,9 @@ Samsung führte die eSIM-Unterstützung mit der **Galaxy S20-Serie** im Jahr 202
 - Galaxy Z Fold (alle Generationen), Z Flip (alle Generationen)
 - Galaxy Note 20, Note 20 Ultra
 
-**Wichtig:** Einige US-Carrier-gebundene Samsung-Telefone (Verizon, AT&T, T-Mobile) unterstützen eSIM nicht, selbst wenn die Hardware dazu in der Lage ist. Wenn Ihr Samsung-Telefon von einem US-Carrier stammt, erkundigen Sie sich dort, bevor Sie kaufen.
+**Wichtig:** Einige US-Carrier-gebundene Samsung-Telefone (Verizon, AT&T, T-Mobile) unterstützen eSIM nicht, selbst wenn die Hardware dazu in der Lage ist. Wenn dein Samsung-Telefon von einem US-Carrier stammt, frage dort nach, bevor du kaufst.
 
-[Samsungs eSIM-Support-Dokumentation](https://www.samsung.com/us/support/answer/ANS00087235/) deckt modellspezifische Details ab.
+[Samsungs eSIM-Support-Dokumentation](https://www.samsung.com/us/support/answer/ANS00087235/) enthält modellspezifische Details.
 
 **Google Pixel**
 Google Pixel-Telefone unterstützen eSIM seit dem **Pixel 4** (veröffentlicht 2019). Alle neueren Modelle funktionieren:
@@ -158,258 +156,264 @@ Google Pixel-Telefone unterstützen eSIM seit dem **Pixel 4** (veröffentlicht 2
 - Pixel 9, 9 Pro, 9 XL, 9a
 - Pixel 10, 10 Pro
 
-[Googles eSIM-Hilfeseite](https://support.google.com/pixel/answer/10107112) enthält die vollständige Liste.
+[Die eSIM-Hilfeseite von Google](https://support.google.com/pixel/answer/10107112) enthält die vollständige Liste.
 
 **Andere Android-Telefone**
 - **OnePlus:** Modelle ab dem OnePlus 11 unterstützen eSIM. Frühere Modelle nicht.
-- **Xiaomi, Oppo, Vivo:** Internationale Modelle (nicht-chinesisch) unterstützen im Allgemeinen eSIM. Chinesische Inlandsmodelle im Allgemeinen nicht.
+- **Xiaomi, Oppo, Vivo:** Internationale Modelle (nicht-chinesisch) unterstützen eSIM in der Regel. Chinesische Inlandsmodelle in der Regel nicht.
 - **Huawei:** Huawei-Telefone ab dem P40 haben eSIM-Hardware, aber US-Sanktionen verhindern, dass sie einfach eSIM-Profile installieren können. Workarounds existieren, sind aber nicht zuverlässig genug, um sich während der Reise darauf zu verlassen.
 - **Sony Xperia:** Ausgewählte Modelle (Xperia 1 IV, 1 V, 5 IV, 5 V) unterstützen eSIM.
 
-**So prüfen Sie, ob Ihr Telefon eSIM unterstützt**
-Die schnellste Methode:
+**So prüfst du, ob dein Telefon eSIM unterstützt**
+Schnellste Methode:
 
-**iPhone:** Einstellungen → Mobilfunk → eSIM hinzufügen. Wenn Sie diese Option sehen, unterstützt Ihr Telefon eSIM.
+**iPhone:** Einstellungen → Mobilfunk → eSIM hinzufügen. Wenn du diese Option siehst, unterstützt dein Telefon eSIM.
 
-**Samsung:** Einstellungen → Verbindungen → SIM-Karten-Manager → eSIM hinzufügen. Wenn Sie diese Option sehen, unterstützt Ihr Telefon eSIM.
+**Samsung:** Einstellungen → Verbindungen → SIM-Kartenmanager → eSIM hinzufügen. Wenn du diese Option siehst, unterstützt dein Telefon eSIM.
 
 **Google Pixel:** Einstellungen → Netzwerk & Internet → SIMs → eSIM hinzufügen.
 
-**Allgemein:** Wählen Sie `*#06#` auf Ihrem Telefon. Wenn Sie eine EID-Nummer (ein 32-stelliger Code) sehen, verfügt Ihr Telefon über eSIM-Hardware.
+**Allgemein:** Wähle `*#06#` auf deinem Telefon. Wenn du eine EID-Nummer (ein 32-stelliger Code) siehst, hat dein Telefon eSIM-Hardware.
 
 **Ein Hinweis zu Carrier-gebundenen Telefonen**
-Wenn Ihr Telefon an einen bestimmten Carrier gebunden ist (z. B. ein Verizon-gebundenes iPhone oder ein AT&T-gebundenes Samsung), können Sie möglicherweise keine ausländische eSIM hinzufügen. Carrier-Sperren verhindern die Nutzung anderer Netze. Sie benötigen ein **entsperrtes Telefon**, damit eine China-Reise-eSIM funktioniert.
+Wenn dein Telefon an einen bestimmten Carrier gebunden ist (z.B. ein Verizon-gebundenes iPhone oder ein AT&T-gebundenes Samsung), kannst du möglicherweise keine ausländische eSIM hinzufügen. Carrier-Sperren verhindern, dass du andere Netze nutzen kannst. Du benötigst ein **netzunabhängiges Telefon**, damit eine China-Reise-eSIM funktioniert.
 
-Um zu prüfen, ob Ihr Telefon entsperrt ist: Versuchen Sie, eine SIM-Karte eines anderen Carriers einzulegen. Wenn sie funktioniert, ist Ihr Telefon entsperrt.
+Um zu prüfen, ob dein Telefon netzunabhängig ist: Versuche, eine SIM-Karte eines anderen Carriers einzulegen. Wenn sie funktioniert, ist dein Telefon netzunabhängig.
 
 ---
 
-## Wie richte ich eine China eSIM ein? Erstanwender-Checkliste von Null
+## Wie richte ich eine eSIM für China ein? Checkliste für Erstnutzer von Null an
 
-So richten Sie Ihre eSIM Karte China Schritt für Schritt ein: Kaufen Sie den Tarif vor der Abreise, installieren Sie das Profil über den QR-Code, aktivieren Sie Datenroaming und testen Sie die Verbindung vor dem Flug. Befolgen Sie diese Schritte der Reihenfolge nach, und Sie haben eine funktionierende China eSIM mit deutscher Anleitung eingerichtet, bevor Sie ins Flugzeug steigen.
+Dieser Abschnitt führt dich durch alles vom Kauf bis zur Verbindung. Zu lernen, wie man eSIM in China nutzt, beginnt mit der Installation des Profils vor dem Flug. Befolge diese Schritte der Reihe nach, und du hast eine funktionierende China-eSIM, bevor du ins Flugzeug steigst.
 
-**Schritt 1: Wählen Sie einen Anbieter**
-Die wichtigsten China eSIM Anbieter für Reisende im Jahr 2026 sind:
+**Schritt 1: Anbieter wählen**
+Die wichtigsten China-eSIM-Anbieter für Reisende im Jahr 2026 sind:
 
-- **Airalo** — Der größte eSIM-Marktplatz. Große Auswahl, aber kein integriertes VPN.
-- **Holafly** — Unbegrenzte Datentarife mit integriertem VPN. Beliebt bei Touristen.
-- **Roami** — Automatischer Carrier-Wechsel (Sie müssen kein Netzwerk manuell auswählen), 24/7 Live-Mensch-Support und eine kostenlose Testversion. Besonders anfängerfreundlich, weil auf den meisten Geräten keine APN-Konfiguration erforderlich ist. Wenn Sie eine zuverlässige [China eSIM](/china-esim/) möchten, die bei der Landung einfach funktioniert, ist dies eine Überlegung wert.
-- **Nomad** — Wettbewerbsfähige Preise mit großen Datenstufen (bis zu 50 GB). Nutzt routing-basierte Firewall-Umgehung.
-- **Ubigi** — Zuverlässige Abdeckung im China Telecom-Netz. Gute Preise für kleinere Datenstufen.
-- **Saily** — Auf NordVPN-Infrastruktur aufgebaut. Integriertes VPN inklusive.
+- **Airalo** – Der größte eSIM-Marktplatz. Große Auswahl, aber kein integriertes VPN.
+- **Holafly** – Unbegrenzte Datentarife mit integriertem VPN. Beliebt bei Touristen.
+- **Roami** – Automatisches Carrier-Switching (du musst kein Netz manuell auswählen), 24/7 Live-Kundensupport und eine kostenlose Testversion. Besonders anfängerfreundlich, da auf den meisten Geräten keine APN-Konfiguration erforderlich ist. Wenn du eine zuverlässige [eSIM für China](/china-esim/) suchst, die bei der Landung einfach funktioniert, ist das eine Überlegung wert.
+- **Nomad** – Wettbewerbsfähige Preise mit großen Datenstufen (bis zu 50 GB). Verwendet routing-basierte Firewall-Umgehung.
+- **Ubigi** – Zuverlässige Abdeckung im Netz von China Telecom. Gute Preise für kleinere Datenstufen.
+- **Saily** – Basiert auf der NordVPN-Infrastruktur mit Virtual-Location-Routing (keine separate VPN-App erforderlich).
 
-Wenn Sie als Erstnutzer die einfachste Erfahrung wünschen, suchen Sie nach einem Anbieter, der **automatischen Carrier-Wechsel** bietet (damit Sie nach der Landung kein Netzwerk manuell wählen müssen) und **24/7 Live-Support** (damit Ihnen jemand helfen kann, wenn Sie nicht weiterkommen). Roami bietet beides – die App wechselt automatisch zwischen China Mobile, China Unicom und China Telecom basierend auf der Signalstärke, und Sie können jederzeit über den In-App-Chat einen echten Menschen erreichen.
+**Am besten für Erstnutzer:** Roami, weil es die beiden Dinge übernimmt, mit denen Anfänger am meisten kämpfen – automatisches Carrier-Switching (du musst nie Netzwerkeinstellungen berühren) und 24/7 Live-Kundensupport (du bekommst eine echte Person, keinen Chatbot, wenn etwas schiefgeht). Die kostenlose Testversion bedeutet auch, dass du alles testen kannst, bevor du auch nur einen Cent ausgibst, was wichtig ist, wenn du noch nie eine eSIM verwendet hast. Saily ist der Zweitplatzierte für die VPN-Gemeinde – die NordVPN-Backbone bedeutet, dass Google und WhatsApp out of the box mit null Konfiguration funktionieren.
 
-Unser [China eSIM Anbieter-Ranking- und Vergleichsleitfaden](/blog/china-esim-provider-ranking-comparison/) schlüsselt jede Option im Detail auf, einschließlich Geschwindigkeitstests und echten Nutzerbewertungen für jeden Anbieter.
+Wenn du als Erstnutzer die einfachste Erfahrung möchtest, suche nach einem Anbieter, der **automatisches Carrier-Switching** (damit du nach der Landung kein Netz manuell wählen musst) und **24/7 Live-Support** (damit dir jemand helfen kann, wenn du stecken bleibst) bietet. Roami ist ein Beispiel, das beides kann – die App wechselt automatisch zwischen China Mobile, China Unicom und China Telecom basierend auf der Signalstärke, und du kannst jederzeit über den In-App-Chat eine echte Person erreichen.
 
-**Schritt 2: Kaufen Sie Ihren eSIM-Tarif (Vor Ihrer Reise)**
-Eine China eSIM kaufen sollten Sie **bevor** Sie nach China reisen. Hier ist der Grund:
+Der [China-eSIM-Anbieter-Vergleichs- und Bewertungsleitfaden](/blog/china-esim-provider-ranking-comparison/) schlüsselt jede Option im Detail auf, einschließlich Geschwindigkeitstests und echten Nutzerbewertungen für jeden Anbieter.
 
-- Sie benötigen Internetzugang, um das eSIM-Profil herunterzuladen. Wenn Sie bis zur Landung warten, haben Sie möglicherweise kein WLAN, um die Installation abzuschließen.
-- Die meisten eSIM-Profile werden aktiviert, wenn sie sich erstmals mit einem unterstützten Netz verbinden. Wenn Sie sie vor der Abreise installieren, beginnt der Tarif bei der Landung.
-- Wenn etwas schiefgeht, möchten Sie von zu Hause aus Fehler beheben können, wo Sie vollen Internetzugang haben.
+**Schritt 2: Kaufe deinen eSIM-Tarif (vor deiner Reise)**
+Kaufe deine eSIM **bevor** du nach China abreist. Hier ist der Grund:
 
-Besuchen Sie die Website Ihres gewählten Anbieters oder laden Sie seine App herunter. Wählen Sie China als Ziel. Wählen Sie eine Datenmenge basierend auf der Länge Ihrer Reise:
+- Du benötigst Internetzugang, um das eSIM-Profil herunterzuladen. Wenn du bis zur Landung wartest, hast du möglicherweise kein WLAN, um die Installation abzuschließen.
+- Die meisten eSIM-Profile aktivieren sich, wenn sie sich erstmals mit einem unterstützten Netz verbinden. Wenn du sie vor der Abreise installierst, beginnt der Tarif bei der Landung.
+- Wenn etwas schiefgeht, möchtest du von zu Hause aus Fehler beheben können, wo du vollen Internetzugang hast.
 
-| Reisedauer | Empfohlenes Datenvolumen | Gut für |
+Gehe auf die Website deines gewählten Anbieters oder lade seine App herunter. Wähle China als Reiseziel. Wähle eine Datenmenge basierend auf deiner Reisedauer:
+
+| Reisedauer | Empfohlenes Datenvolumen | Geeignet für |
 |---|---|---|
 | 2-3 Tage (Transit/Visumlauf) | 1-3 GB | Karten, WeChat, leichtes Surfen |
 | 3-5 Tage (kurze Städtereise) | 3 GB | Navigation, soziale Apps, Nachrichten |
 | 1 Woche (typische Touristenreise) | 5 GB | Karten, soziale Medien, gelegentliche Videos |
-| 2 Wochen (längerer Aufenthalt) | 10 GB | Alles oben Genannte plus Streamen |
-| 1 Monat (Geschäft/digitaler Nomade) | 20 GB+ oder unbegrenzt | Intensive Nutzung, Hotspot-Freigabe |
+| 2 Wochen (längerer Aufenthalt) | 10 GB | Alles oben Genannte plus Streaming |
+| 1 Monat (Geschäft/digitaler Nomade) | 20 GB+ oder unbegrenzt | Starke Nutzung, Hotspot-Sharing |
 
-**Zahlungsmethoden:** Die meisten Anbieter akzeptieren Visa, Mastercard, American Express und PayPal. Einige akzeptieren auch Apple Pay und Google Pay. Chinesische Zahlungsmethoden wie Alipay und WeChat Pay werden auf internationalen eSIM-Storefronts selten akzeptiert, halten Sie also eine internationale Karte bereit.
+**Zahlungsmethoden:** Die meisten Anbieter akzeptieren Visa, Mastercard, American Express und PayPal. Einige akzeptieren auch Apple Pay und Google Pay. Chinesische Zahlungsmethoden wie Alipay und WeChat Pay werden auf internationalen eSIM-Webshops selten akzeptiert. Halte also eine internationale Karte bereit.
 
-**Bestätigung und Lieferung:** Nach der Zahlung erhalten Sie eine E-Mail mit einem QR-Code und Installationsanweisungen. Der QR-Code ist Ihr eSIM-Profil. Es kann 1-5 Minuten dauern, bis er ankommt. Wenn er nicht ankommt, überprüfen Sie Ihren Spam-Ordner, bevor Sie den Support kontaktieren.
+**Bestätigung und Zustellung:** Nach der Zahlung erhältst du eine E-Mail mit einem QR-Code und Installationsanweisungen. Der QR-Code ist dein eSIM-Profil. Es kann 1-5 Minuten dauern, bis er ankommt. Wenn er nicht ankommt, überprüfe deinen Spam-Ordner, bevor du den Support kontaktierst.
 
-Eine detaillierte Aufschlüsselung der Kosten jedes Tarifs und welcher Anbieter auf jeder Datenstufe den besten Wert bietet, finden Sie im [China eSIM Preis- und Kaufleitfaden](/blog/china-esim-price-plan-purchase-guide/).
+Eine detaillierte Aufschlüsselung der Kosten jedes Tarifs und welcher Anbieter auf jeder Datenstufe das beste Preis-Leistungs-Verhältnis bietet, findest du unter [China eSIM Preise](/blog/china-esim-price-plan-purchase-guide/).
 
-**Schritt 3: Installieren Sie das eSIM-Profil**
-Nach dem Kauf erhalten Sie einen QR-Code per E-Mail oder in der App des Anbieters. Einige Anbieter erlauben es Ihnen auch, direkt auf Ihrem Telefon auf einen Link zu tippen, der den QR-Scan-Schritt vollständig überspringt.
+**Schritt 3: Installiere das eSIM-Profil**
+Nach dem Kauf erhältst du einen QR-Code per E-Mail oder in der App des Anbieters. Einige Anbieter ermöglichen es dir auch, direkt auf deinem Telefon auf einen Link zu tippen, was den QR-Scan-Schritt vollständig überspringt.
 
 **Auf dem iPhone:**
-1. Gehen Sie zu **Einstellungen → Mobilfunk** (in einigen Regionen als **Mobiler Dienst** bezeichnet)
-2. Tippen Sie auf **eSIM hinzufügen**
-3. Tippen Sie auf **QR-Code verwenden**
-4. Scannen Sie den QR-Code von Ihrem Anbieter (wenn Sie ihn auf demselben Telefon lesen, machen Sie zuerst einen Bildschirmfoto und scannen Sie ihn dann aus Ihrer Fotobibliothek – oder verwenden Sie ein zweites Gerät, um den Code anzuzeigen)
-5. Wenn Sie dazu aufgefordert werden, beschriften Sie den Tarif (z. B. "China Daten") – dies hilft, ihn von Ihrer Heim-SIM zu unterscheiden, wenn Sie mehrere Leitungen verwenden
-6. Wählen Sie eine Standardleitung für Anrufe und Nachrichten – Sie können hier Ihre Heim-SIM behalten; legen Sie die China eSIM als Ihre **Datenleitung** fest
-7. Tippen Sie auf **Fertig**
+1. Gehe zu **Einstellungen → Mobilfunk** (in einigen Regionen als **Mobile Service** bezeichnet)
+2. Tippe auf **eSIM hinzufügen**
+3. Tippe auf **QR-Code verwenden**
+4. Scanne den QR-Code von deinem Anbieter (wenn du ihn auf demselben Telefon liest, mache zuerst einen Screenshot und scanne ihn dann aus deiner Fotomediathek – oder verwende ein zweites Gerät, um den Code anzuzeigen)
+5. Wenn du dazu aufgefordert wirst, benenne den Tarif (z.B. "China Daten") – das hilft, ihn von deiner Heim-SIM zu unterscheiden, wenn du mehrere Leitungen verwendest
+6. Wähle eine Standardleitung für Anrufe und Nachrichten – du kannst hier deine Heim-SIM behalten; lege die China-eSIM als deine **Datenleitung** fest
+7. Tippe auf **Fertig**
 
-**Was tun, wenn der QR-Code nicht gescannt wird:** Erhöhen Sie die Bildschirmhelligkeit des Geräts, das den Code anzeigt. Wenn Sie von einem Computermonitor scannen, bewegen Sie sich näher heran oder zoomen Sie hinein. Wenn es immer noch nicht funktioniert, bieten die meisten Anbieter-Apps eine Option zur "manuellen Eingabe", bei der Sie die SM-DP+-Adresse und den Aktivierungscode anstelle des Scannens eingeben können.
+**Was tun, wenn der QR-Code nicht scannt:** Erhöhe die Bildschirmhelligkeit auf dem Gerät, das den Code anzeigt. Wenn du von einem Computermonitor scannst, rücke näher oder zoome hinein. Wenn es immer noch fehlschlägt, bieten die meisten Anbieter-Apps eine Option zur "manuellen Eingabe", bei der du die SM-DP+-Adresse und den Aktivierungscode eingeben kannst, anstatt zu scannen.
 
-**Auf Samsung Galaxy:**
-1. Gehen Sie zu **Einstellungen → Verbindungen → SIM-Karten-Manager**
-2. Tippen Sie auf **eSIM hinzufügen**
-3. Tippen Sie auf **QR-Code vom Dienstanbieter scannen**
-4. Scannen Sie den QR-Code von Ihrem Anbieter
-5. Folgen Sie den Anweisungen auf dem Bildschirm, um die Installation abzuschließen
-6. Tippen Sie nach der Installation auf die eSIM und stellen Sie sicher, dass **Mobile Daten** für diese SIM EIN geschaltet ist
+**Auf dem Samsung Galaxy:**
+1. Gehe zu **Einstellungen → Verbindungen → SIM-Kartenmanager**
+2. Tippe auf **eSIM hinzufügen**
+3. Tippe auf **QR-Code vom Dienstanbieter scannen**
+4. Scanne den QR-Code von deinem Anbieter
+5. Folge den Bildschirmanweisungen, um die Installation abzuschließen
+6. Tippe nach der Installation auf die eSIM und stelle sicher, dass **Mobile Daten** für diese SIM auf EIN geschaltet ist
 
-**Auf Google Pixel:**
-1. Gehen Sie zu **Einstellungen → Netzwerk & Internet → SIMs**
-2. Tippen Sie auf **SIM hinzufügen → Stattdessen eine SIM herunterladen?**
-3. Tippen Sie auf **Weiter → QR-Code scannen**
-4. Scannen Sie den QR-Code von Ihrem Anbieter
-5. Bestätigen Sie die Installation, wenn Sie dazu aufgefordert werden
+**Auf dem Google Pixel:**
+1. Gehe zu **Einstellungen → Netzwerk & Internet → SIMs**
+2. Tippe auf **SIM hinzufügen → Stattdessen eine SIM herunterladen?**
+3. Tippe auf **Weiter → QR-Code scannen**
+4. Scanne den QR-Code von deinem Anbieter
+5. Bestätige die Installation, wenn du dazu aufgefordert wirst
 
-**Wie die Installation visuell aussieht:** Nach dem Scannen verarbeitet Ihr Telefon das Profil 10-30 Sekunden lang. Sie sehen einen Ladekreis oder eine Nachricht "eSIM wird eingerichtet". Wenn es fertig ist, erscheint die neue eSIM in Ihrer SIM-Liste. Sie zeigt möglicherweise "Kein Dienst" an, wenn Sie sich außerhalb Chinas befinden – das ist normal und zu erwarten.
+**Wie die Installation visuell aussieht:** Nach dem Scannen verarbeitet dein Telefon das Profil 10-30 Sekunden lang. Du siehst einen Ladekreis oder eine Meldung "eSIM wird eingerichtet". Wenn es fertig ist, erscheint die neue eSIM in deiner SIM-Liste. Es kann "Kein Dienst" anzeigen, wenn du dich außerhalb Chinas befindest – das ist normal und zu erwarten.
 
-**Schritt 4: Datenroaming aktivieren**
-Dies ist der häufigste Schritt, den Anfänger übersehen. Ihre eSIM muss Datenroaming aktiviert haben, um in China zu funktionieren.
+**Schritt 4: Daten-Roaming aktivieren**
+Das ist der häufigste Schritt, den Anfänger übersehen. Deine eSIM benötigt aktiviertes Daten-Roaming, um in China zu funktionieren.
 
-**iPhone:** Einstellungen → Mobilfunk → tippen Sie auf Ihre China eSIM → schalten Sie **Datenroaming** EIN
+**iPhone:** Einstellungen → Mobilfunk → tippe auf deine China-eSIM → schalte **Daten-Roaming** EIN
 
-**Samsung:** Einstellungen → Verbindungen → SIM-Karten-Manager → tippen Sie auf Ihre China eSIM → schalten Sie **Datenroaming** EIN
+**Samsung:** Einstellungen → Verbindungen → SIM-Kartenmanager → tippe auf deine China-eSIM → schalte **Daten-Roaming** EIN
 
-**Google Pixel:** Einstellungen → Netzwerk & Internet → SIMs → tippen Sie auf Ihre China eSIM → schalten Sie **Roaming** EIN
+**Google Pixel:** Einstellungen → Netzwerk & Internet → SIMs → tippe auf deine China-eSIM → schalte **Roaming** EIN
 
 **Schritt 5: APN-Einstellungen konfigurieren (falls erforderlich)**
-Einige Anbieter verlangen, dass Sie APN-Einstellungen (Access Point Name) manuell eingeben. Andere konfigurieren dies automatisch. Überprüfen Sie die Anweisungen Ihres Anbieters.
+Einige Anbieter verlangen, dass du die APN-Einstellungen (Access Point Name) manuell eingibst. Andere konfigurieren dies automatisch. Überprüfe die Anweisungen deines Anbieters.
 
-Wenn Sie APN manuell einstellen müssen:
+Wenn du die APN manuell einstellen musst:
 
-**iPhone:** Einstellungen → Mobilfunk → Mobilfunk-Datennetz → geben Sie das von Ihrem eSIM-Anbieter bereitgestellte APN ein
+**iPhone:** Einstellungen → Mobilfunk → Mobilfunk-Datennetz → gib den von deinem eSIM-Anbieter bereitgestellten APN ein
 
-**Samsung:** Einstellungen → Verbindungen → Mobilfunknetze → Zugangspunkte → tippen Sie auf **+** und geben Sie das APN ein
+**Samsung:** Einstellungen → Verbindungen → Mobile Netze → Zugangspunkte → tippe auf **+** und gib den APN ein
 
-**Google Pixel:** Einstellungen → Netzwerk & Internet → SIMs → Ihre China eSIM → Zugangspunkte → tippen Sie auf **+**
+**Google Pixel:** Einstellungen → Netzwerk & Internet → SIMs → deine China-eSIM → Zugangspunkte → tippe auf **+**
 
-Wenn Ihr Anbieter automatischen Carrier-Wechsel verwendet, können Sie diesen Schritt vollständig überspringen. Roami übernimmt die APN-Konfiguration auf den meisten Geräten automatisch.
+Wenn dein Anbieter automatisches Carrier-Switching verwendet, kannst du diesen Schritt vollständig überspringen. Roami ist ein Beispiel, das die APN-Konfiguration auf den meisten Geräten automatisch übernimmt.
 
 **Schritt 6: Vor der Abreise testen**
-Nach der Installation sollte Ihre eSIM eine Signalanzeige zeigen. Wenn Sie sich noch in Ihrem Heimatland befinden, zeigt die eSIM möglicherweise "Kein Dienst" an, weil sie sich nur mit chinesischen Netzen verbindet. Das ist normal.
+Nach der Installation sollte deine eSIM einen Signalindikator anzeigen. Wenn du dich noch in deinem Heimatland befindest, zeigt die eSIM möglicherweise "Kein Dienst" an, weil sie sich nur mit chinesischen Netzen verbindet. Das ist normal.
 
-Wenn Ihr Anbieter es erlaubt, verbinden Sie sich mit einem WLAN-Netzwerk und versuchen Sie, eine Website mit Ihrer eSIM als aktiver Datenleitung zu laden. Einige Anbieter bieten einen "Test"-Modus. Andere aktivieren nur, wenn sie ein chinesisches Netz erkennen.
+Wenn es dein Anbieter erlaubt, verbinde dich mit einem WLAN-Netzwerk und versuche, eine Website mit deiner eSIM als aktiver Datenleitung zu laden. Einige Anbieter bieten einen "Test"-Modus an. Andere aktivieren sich erst, wenn sie ein chinesisches Netz erkennen.
 
 Um zu bestätigen, dass das eSIM-Profil korrekt installiert wurde:
 
-- Gehen Sie zu **Einstellungen → Mobilfunk** (iPhone) oder **Einstellungen → Verbindungen → SIM-Karten-Manager** (Samsung)
-- Überprüfen Sie, ob die China eSIM in Ihrer SIM-Liste erscheint
+- Gehe zu **Einstellungen → Mobilfunk** (iPhone) oder **Einstellungen → Verbindungen → SIM-Kartenmanager** (Samsung)
+- Vergewissere dich, dass die China-eSIM in deiner Liste der SIMs erscheint
 - Das Profil selbst ist korrekt installiert, auch wenn es außerhalb Chinas "Kein Dienst" anzeigt
 
 **Schritt 7: Nach der Landung verbinden**
-Wenn Ihr Flug in China landet:
+Wenn dein Flugzeug in China landet:
 
-1. **Schalten Sie den Flugmodus aus**, sobald das Flugzeug das Gate erreicht
-2. **Warten Sie 30-60 Sekunden**, bis das Telefon scannt und sich mit einem chinesischen Netz verbindet. Sie sehen möglicherweise kurz "Suche..." oder "Kein Dienst" – das ist normal, während sich das Telefon im neuen Netz registriert
-3. Wenn sich die eSIM nicht automatisch verbindet, gehen Sie zu **Einstellungen → Mobilfunk → Netzauswahl** (iPhone) oder **Einstellungen → Verbindungen → Mobilfunknetze → Netzbetreiber** (Samsung). Deaktivieren Sie **Automatisch**, warten Sie, bis die Liste der verfügbaren Netze erscheint, und wählen Sie dann **China Mobile**. Die meisten eSIM-Anbieter arbeiten mit China Mobile für die weiteste 4G/5G-Abdeckung zusammen
-4. **Öffnen Sie Google Maps oder Safari**, um die Konnektivität zu bestätigen. Versuchen Sie, google.com oder maps.google.com zu laden – wenn die Seite lädt, funktioniert Ihre eSIM und die Firewall wird umgangen
-5. **Überprüfen Sie WhatsApp**, indem Sie eine kurze Nachricht senden, um zu bestätigen, dass Messaging-Apps funktionieren
+1. **Schalte den Flugmodus aus**, sobald das Flugzeug am Gate ankommt
+2. **Warte 30-60 Sekunden**, bis das Telefon scannt und sich mit einem chinesischen Netz verbindet. Du siehst vielleicht kurz "Suchen..." oder "Kein Dienst" – das ist normal, während sich das Telefon im neuen Netz registriert
+3. Wenn sich die eSIM nicht automatisch verbindet, gehe zu **Einstellungen → Mobilfunk → Netzauswahl** (iPhone) oder **Einstellungen → Verbindungen → Mobile Netze → Netzbetreiber** (Samsung). Deaktiviere **Automatisch**, warte, bis die Liste der verfügbaren Netze erscheint, und wähle dann **China Mobile**. Die meisten eSIM-Anbieter arbeiten mit China Mobile für die breiteste 4G/5G-Abdeckung zusammen
+4. **Öffne Google Maps oder Safari**, um die Verbindung zu bestätigen. Versuche, google.com oder maps.google.com zu laden – wenn die Seite lädt, funktioniert deine eSIM und die Firewall wird umgangen
+5. **Überprüfe WhatsApp**, indem du eine kurze Nachricht sendest, um zu bestätigen, dass Messaging-Apps funktionieren
 
-**Was tun, wenn sofort kein Signal vorhanden ist:**
-- Schalten Sie den Flugmodus EIN, warten Sie 10 Sekunden, schalten Sie ihn AUS
-- Starten Sie Ihr Telefon neu – dies erzwingt eine frische Netzwerkregistrierung
-- Überprüfen Sie, ob Datenroaming speziell für die eSIM-Leitung aktiviert ist (nicht nur für Ihre primäre Leitung)
-- Wenn Sie sich noch unterirdisch befinden (U-Bahn, Tunnel), warten Sie, bis Sie über der Erde sind
+**Was sofort zu tun ist, wenn kein Signal vorhanden ist:**
+- Schalte den Flugmodus EIN, warte 10 Sekunden, schalte AUS
+- Starte dein Telefon neu – das erzwingt eine neue Netzwerkregistrierung
+- Überprüfe, ob Daten-Roaming für die eSIM-Leitung aktiviert ist (nicht nur für deine Hauptleitung)
+- Wenn du dich noch unter der Erde befindest (U-Bahn, Tunnel), warte, bis du über der Erde bist
 
-**Wichtig:** Bei der ersten Landung verbindet sich Ihr Telefon möglicherweise mit einem sehr schwachen Signal, weil das Netz Ihren Standort noch erkennt. Innerhalb von 2-3 Minuten stabilisiert es sich typischerweise auf dem stärksten verfügbaren Sendemasten.
+**Wichtig:** Wenn du zum ersten Mal landest, verbindet sich dein Telefon möglicherweise mit einem sehr schwachen Signal, weil das Netz deinen Standort noch erkennt. Innerhalb von 2-3 Minuten stabilisiert es sich in der Regel auf dem stärksten verfügbaren Mast.
 
-Wenn nach 5 Minuten nichts funktioniert, deckt unser [China eSIM-Fehlerbehebungsleitfaden](/blog/china-esim-troubleshooting-fix-guide/) jedes mögliche Problem und jede Lösung ab.
+Wenn nach 5 Minuten nichts funktioniert, behandelt die [China-eSIM-Fehlerbehebung](/blog/china-esim-troubleshooting-fix-guide/) jedes mögliche Problem und jede Lösung.
 
 ---
 
-## Welche Fehler machen Anfänger mit China eSIM? (Und wie man sie vermeidet)
+## Welche Fehler machen Anfänger mit China-eSIM? (Und wie man sie vermeidet)
 
-Die zehn häufigsten Fehler von China eSIM-Erstnutzern sind: Kauf nach der Ankunft, nicht aktiviertes Datenroaming, Nutzung eines chinesischen iPhones, falsches eSIM-Profil, fehlende APN-Einstellungen, kein Test vor der Abreise, Dual-SIM-Konflikte, falsche Annahmen zur Firewall-Umgehung, Carrier-gebundenes Telefon und vorzeitiges Löschen des Profils.
+Das sind die häufigsten Fehler von Erstnutzern von China-eSIMs.
 
 **Fehler 1: Kauf nach der Ankunft**
-Der größte Fehler. Sie landen am Flughafen Peking Capital, holen Ihr Telefon heraus und versuchen, eine eSIM zu kaufen und herunterzuladen. Aber Sie benötigen Internetzugang, um das Profil herunterzuladen, und Sie haben keinen Internetzugang, weil Sie genau das beheben möchten. Einige Flughäfen bieten kostenloses WLAN, aber für die Verbindung ist oft ein SMS-Verifizierungscode erforderlich – den Sie auf einer reinen Daten-eSIM nicht empfangen können.
+Der größte Fehler. Du landest am Flughafen Peking Capital, holst dein Telefon heraus und versuchst, eine eSIM zu kaufen und herunterzuladen. Aber du brauchst Internetzugang, um das Profil herunterzuladen, und du hast keinen Internetzugang, weil das das Problem ist, das du beheben willst. Einige Flughäfen bieten kostenloses WLAN, aber die Verbindung erfordert oft einen SMS-Verifizierungscode – den du auf einer reinen Daten-eSIM nicht empfangen kannst.
 
-**So vermeiden Sie es:** Kaufen und installieren Sie Ihre eSIM, bevor Sie das Haus verlassen. Das Profil wird über Ihr Heim-WLAN heruntergeladen. Es wird automatisch aktiviert, wenn es ein chinesisches Netz erkennt.
+**Wie man es vermeidet:** Kaufe und installiere deine eSIM, bevor du dein Zuhause verlässt. Das Profil wird über dein Heim-WLAN heruntergeladen. Es aktiviert sich automatisch, wenn es ein chinesisches Netz erkennt.
 
-**Fehler 2: Datenroaming nicht aktiviert**
-Das ist der häufigste Grund, warum eine China eSIM nach der Landung nicht funktioniert. Datenroaming ist auf den meisten Telefonen standardmäßig deaktiviert. Ihre eSIM benötigt es aktiviert, um sich mit einem fremden Netz zu verbinden.
+**Fehler 2: Daten-Roaming nicht aktiviert**
+Das ist der häufigste Grund, warum eine eSIM für China nach der Landung nicht funktioniert. Daten-Roaming ist auf den meisten Telefonen standardmäßig deaktiviert. Deine eSIM benötigt es aktiviert, um sich mit einem ausländischen Netz zu verbinden.
 
-**So vermeiden Sie es:** Gehen Sie vor Ihrer Abreise in Ihre eSIM-Einstellungen und schalten Sie Datenroaming EIN. Schreiben Sie es sich auf einen Haftzettel, wenn es sein muss.
+**Wie man es vermeidet:** Gehe vor deiner Abreise in deine eSIM-Einstellungen und schalte Daten-Roaming EIN. Schreibe es auf einen Haftnotizzettel, wenn es sein muss.
 
 **Fehler 3: Verwendung eines chinesischen iPhones**
-Wie im Kompatibilitätsabschnitt beschrieben, unterstützen in Festlandchina, Hongkong oder Macau gekaufte iPhones eSIM auf Hardware-Ebene nicht. Das überrascht viele Reisende, besonders diejenigen, die ein chinesisches iPhone gekauft haben, weil es günstiger war.
+Wie im Kompatibilitätsabschnitt beschrieben, verwenden die meisten in Festlandchina verkauften iPhones zwei nano-SIM-Slots ohne eSIM-Unterstützung, funktionieren also nicht mit einer eSIM. Das überrascht viele Reisende, besonders diejenigen, die ein Festland-iPhone gekauft haben, weil es günstiger war.
 
-**So vermeiden Sie es:** Überprüfen Sie, wo Ihr iPhone gekauft wurde, bevor Sie eine eSIM kaufen. Wenn Sie ein chinesisches iPhone haben, sind Ihre Optionen eine physische Reise-SIM oder ein tragbares WLAN-Gerät.
+**Wie man es vermeidet:** Überprüfe, wo dein iPhone gekauft wurde, bevor du eine eSIM kaufst. Wenn du ein chinesisches iPhone hast, sind deine Optionen eine physische Reise-SIM oder ein Pocket-WiFi-Gerät.
 
 **Fehler 4: Installation des falschen eSIM-Profils**
-Einige Anbieter bieten mehrere eSIM-Profile in einem einzigen Kauf an – zum Beispiel ein Profil für Festlandchina und ein anderes für Hongkong oder Macau. Die Installation des falschen bedeutet, dass Sie keine Konnektivität haben, wenn Sie sie brauchen.
+Einige Anbieter bieten mehrere eSIM-Profile in einem einzigen Kauf an – zum Beispiel ein Profil für Festlandchina und ein anderes für Hongkong oder Macau. Die Installation des falschen bedeutet keine Konnektivität, wenn du sie brauchst.
 
-**So vermeiden Sie es:** Lesen Sie die Anweisungen, die Ihrem eSIM-Kauf beiliegen, sorgfältig durch. Stellen Sie sicher, dass Sie den QR-Code scannen, der speziell für Festlandchina gekennzeichnet ist. Wenn Ihre Reiseroute Hongkong oder Macau umfasst, installieren Sie diese Profile separat, wenn Sie die Grenze überqueren. Beschriften Sie jede eSIM während der Installation klar, damit Sie wissen, welche welche ist.
+**Wie man es vermeidet:** Lies die Anweisungen, die deinem eSIM-Kauf beiliegen, sorgfältig durch. Stelle sicher, dass du den QR-Code scannst, der speziell für Festlandchina gekennzeichnet ist. Wenn deine Reiseroute Hongkong oder Macau einschließt, installiere diese Profile separat, wenn du die Grenze überquerst. Beschrifte jede eSIM während der Installation eindeutig, damit du weißt, welche welche ist.
 
 **Fehler 5: APN-Einstellungen vergessen**
-Einige eSIM-Anbieter erfordern eine manuelle APN-Konfiguration. Wenn Ihre Daten nach der Installation nicht funktionieren, sind fehlende APN-Einstellungen oft die Ursache.
+Einige eSIM-Anbieter erfordern eine manuelle APN-Konfiguration. Wenn deine Daten nach der Installation nicht funktionieren, sind fehlende APN-Einstellungen oft die Ursache.
 
-**So vermeiden Sie es:** Prüfen Sie vor Ihrer Abreise, ob Ihr Anbieter APN-Änderungen erfordert. Speichern Sie die APN-Informationen in Ihrer Notizen-App, damit Sie bei Bedarf offline darauf zugreifen können. Oder wählen Sie einen Anbieter, der APN automatisch verarbeitet.
+**Wie man es vermeidet:** Überprüfe vor deiner Abreise, ob dein Anbieter APN-Änderungen erfordert. Speichere die APN-Informationen in deiner Notizen-App, damit du bei Bedarf offline darauf zugreifen kannst. Oder wähle einen Anbieter, der die APN automatisch verwaltet.
 
 **Fehler 6: Nicht vor der Abreise testen**
-Eine erhebliche Anzahl von eSIM-Problemen wird vor der Reise entdeckt – falsches Profil, inkompatibles Telefon, Carrier-Sperre. Aber nur, wenn Sie testen.
+Eine beträchtliche Anzahl von eSIM-Problemen wird vor der Reise entdeckt – falsches Profil, inkompatibles Telefon, Carrier-Sperre. Aber nur, wenn du testest.
 
-**So vermeiden Sie es:** Installieren Sie die eSIM mindestens 2-3 Tage vor Ihrer Reise. Überprüfen Sie, ob das Profil in Ihrer SIM-Liste erscheint. Wenn Sie einen Fehler erhalten, haben Sie Zeit, den Support zu kontaktieren.
+**Wie man es vermeidet:** Installiere die eSIM mindestens 2-3 Tage vor deiner Reise. Überprüfe, ob das Profil in deiner SIM-Liste erscheint. Wenn du einen Fehler erhältst, hast du Zeit, den Support zu kontaktieren.
 
 **Fehler 7: Dual-SIM-Konflikte**
-Bei Verwendung von Dual-SIM (Ihre Heim-SIM + China eSIM) werden einige Telefone verwirrt, welche Leitung sie für Daten verwenden sollen. Ihre Daten könnten über Ihre Heim-SIM routen, während Sie denken, sie seien auf der eSIM, was zu teuren Roaming-Gebühren führt.
+Bei Verwendung von Dual-SIM (deine Heim-SIM + China-eSIM) sind einige Telefone verwirrt, welche Leitung für Daten verwendet werden soll. Deine Daten könnten über deine Heim-SIM geroutet werden, während du denkst, dass sie auf der eSIM sind, was zu teuren Roaming-Gebühren führt.
 
-**So vermeiden Sie es:** Legen Sie die China eSIM explizit als Ihre **Datenleitung** fest. Auf dem iPhone: Einstellungen → Mobilfunk → Mobilfunkdaten → wählen Sie Ihre China eSIM aus. Auf Android: Einstellungen → Verbindungen → SIM-Karten-Manager → Mobile Daten → wählen Sie Ihre China eSIM aus.
+**Wie man es vermeidet:** Lege die China-eSIM explizit als deine **Datenleitung** fest. Auf dem iPhone: Einstellungen → Mobilfunk → Mobilfunkdaten → wähle deine China-eSIM. Auf Android: Einstellungen → Verbindungen → SIM-Kartenmanager → Mobile Daten → wähle deine China-eSIM.
 
 **Fehler 8: Annahme, dass alle eSIMs die Firewall umgehen**
-Nicht alle China eSIMs funktionieren gleich. Einige leiten den Verkehr über internationale Gateways (umgehen die Firewall automatisch). Andere verbinden sich direkt mit chinesischen Netzen und erfordern, dass Sie ein separates VPN verwenden.
+Nicht alle China-eSIMs funktionieren gleich. Einige routen den Verkehr über internationale Gateways (umgehen die Firewall automatisch). Andere verbinden sich direkt mit chinesischen Netzen und erfordern, dass du ein separates VPN verwendest.
 
-**So vermeiden Sie es:** Überprüfen Sie vor dem Kauf, ob die eSIM eine integrierte Firewall-Umgehung beinhaltet. Anbieter wie Holafly, Saily und Roami leiten ihren Verkehr international, sodass Google und WhatsApp sofort funktionieren. Günstigere eSIMs können sich direkt mit chinesischen Carriern verbinden, was bedeutet, dass Sie immer noch ein VPN benötigen.
+**Wie man es vermeidet:** Überprüfe vor dem Kauf, ob die eSIM eine integrierte Firewall-Umgehung enthält. Anbieter wie Holafly, Saily und Roami routen ihren Verkehr international, sodass Google und WhatsApp out of the box funktionieren. Günstigere eSIMs können sich direkt mit chinesischen Carriern verbinden, was bedeutet, dass du trotzdem ein VPN benötigst.
 
 **Fehler 9: Carrier-gebundenes Telefon**
-Reisende aus den USA sind davon am häufigsten betroffen. Ein an Verizon, AT&T oder T-Mobile gebundenes Telefon wird jede nicht genehmigte eSIM ablehnen.
+Reisende aus den USA sind davon am meisten betroffen. Ein an Verizon, AT&T oder T-Mobile gebundenes Telefon wird jede nicht genehmigte eSIM ablehnen.
 
-**So vermeiden Sie es:** Erkundigen Sie sich vor dem Kauf bei Ihrem Carrier. Wenn Ihr Telefon gesperrt ist, beantragen Sie eine Entsperrung – US-Carrier sind verpflichtet, Telefone auf Anfrage zu entsperren, wenn sie abbezahlt sind.
+**Wie man es vermeidet:** Erkundige dich vor dem Kauf bei deinem Carrier. Wenn dein Telefon gebunden ist, beantrage eine Entsperrung – US-Carrier sind verpflichtet, Telefone auf Anfrage zu entsperren, wenn sie abbezahlt sind.
 
-**Fehler 10: Löschen der eSIM vor Reiseende**
-Einige Benutzer löschen versehentlich ihr eSIM-Profil, während sie ihre SIM-Liste aufräumen. Normalerweise können Sie es neu installieren, aber einige Anbieter erheben eine Gebühr für einen neuen QR-Code.
+**Fehler 10: Löschen der eSIM vor Ende der Reise**
+Einige Nutzer löschen versehentlich ihr eSIM-Profil, während sie ihre SIM-Liste bereinigen. Normalerweise kannst du es neu installieren, aber einige Anbieter erheben eine Gebühr für einen neuen QR-Code.
 
-**So vermeiden Sie es:** Löschen Sie Ihr eSIM-Profil nicht, bis Ihre Reise beendet ist. Wenn Sie es entfernen müssen, lesen Sie zuerst den Abschnitt "Können Sie löschen und neu installieren" unten.
+**Wie man es vermeidet:** Lösche dein eSIM-Profil erst, wenn deine Reise beendet ist. Wenn du es entfernen musst, lies zuerst den Abschnitt "Kann ich löschen und neu installieren" unten.
+
+### Die eine Änderung, die die meisten Kopfschmerzen verhindert
+
+Die eine Änderung, die die meisten Anfängerfehler verhindert: **kaufe und installiere deine eSIM mindestens 3 Tage vor der Abreise, nicht am Abend davor.** Die zusätzlichen 48 Stunden geben dir Zeit, ein Carrier-gebundenes Telefon, ein inkompatibles chinesisches iPhone oder eine Verzögerung bei der QR-Code-Zustellung zu erkennen – alles Dinge, die von zu Hause aus trivial zu beheben und nach der Landung nahezu unmöglich zu beheben sind. Es lohnt sich auch, den QR-Code sofort zu screenshoten und in deiner Fotomediathek zu speichern. Ein Backup zu haben, hat keine Nachteile, und wenn du dein eSIM-Profil versehentlich während der Reise löschst, ist dieser Screenshot der Unterschied zwischen einer 30-Sekunden-Behebung und einer mehrstündigen Support-Ordalie.
 
 ---
 
-## Was sagen Reddit-Nutzer über China eSIM? Community-Tipps
+## Von der Community bewährte Tipps für Erstnutzer
 
-Reddit-Communities wie r/ChinaTravel, r/eSIM, r/travelchina und r/China haben ausführliche Diskussionen über China eSIM-Erfahrungen. Hier sind die konsistentesten Tipps, die in Hunderten von Threads auftauchen.
+Das sind die Tipps, die in Reisenden-Communities und Support-Kanälen immer wieder auftauchen.
 
 | Tipp | Wichtige Details |
 |-----|-------------|
-| **"Kaufen Sie vor dem Flug"** | Nutzer, die vor der Abreise installiert haben, berichten von reibungslosen Erfahrungen; diejenigen, die nach der Ankunft kaufen, kämpfen mit Flughafen-WLAN, das SMS-Verifizierung erfordert, und langsamen Verbindungen. Mehrere Nutzer berichteten, dass sie in Ankunftshallen festsaßen und keinen Didi rufen konnten. |
-| **APN-Einstellungen beheben die meisten Probleme** | Wenn die eSIM nicht funktioniert, ist die Überprüfung der APN-Einstellungen die häufigste Lösung, besonders auf Android. Dedizierte Threads listen korrekte APN-Werte für jeden großen Anbieter in China auf. |
-| **Behalten Sie Ihre physische SIM für SMS** | Bank-Apps, WhatsApp, Didi, Alipay und Restaurantplattformen senden alle SMS-Codes. Eine reine Daten-eSIM kann diese nicht empfangen. Dual-SIM (Heim-SIM für SMS, eSIM für Daten) ist die am meisten empfohlene Konfiguration. |
-| **Nicht alle eSIMs umgehen die Firewall** | Billige eSIMs von weniger bekannten Anbietern lassen möglicherweise Google, WhatsApp und Instagram blockiert. Die Lösung ist eine internationale Roaming-eSIM, keine eSIM eines chinesischen Inlandscarriers. |
-| **Automatischer Wechsel spart Zeit** | Mehrere Threads erwähnen den automatischen Carrier-Wechsel als Zeitersparnis. Erstnutzer kämpfen oft mit der manuellen Netzauswahl nach der Landung, und der automatische Wechsel eliminiert diesen Schritt vollständig. |
-| **China Mobile hat die weiteste Abdeckung** | China Mobile hat die beste 4G/5G-Abdeckung in chinesischen Städten und in Hochgeschwindigkeitszügen. Wenn Sie manuell ein Netz auswählen, wählen Sie China Mobile für das stärkste Signal. |
-| **"Unbegrenzte" Tarife haben Nutzungsbegrenzung** | Die meisten "unbegrenzten" Tarife drosseln nach etwa 1 GB/Tag bei voller Geschwindigkeit auf 128-256 kbit/s. Gut für Nachrichten und Karten, aber nicht für Video-Streamen. Tarife mit festem Datenvolumen (10 GB, 20 GB) sind oft zuverlässiger. |
-| **Tipps zur Dual-SIM-Konfiguration** | eSIM als Standard-Datenleitung einstellen, Heim-SIM als Standard-Sprachleitung. Auf dem iPhone sicherstellen, dass iMessage und FaceTime Ihre Heim-SIM-Nummer verwenden, damit SMS-Verifizierungscodes korrekt ankommen. |
-| **Vorbereitung vor der Reise ist wichtig** | Speichern Sie den QR-Code (bei einigen Anbietern einmalig verwendbar), behalten Sie Ihre Heim-SIM für Bank-Apps und haben Sie eine Telefonnummer für Flughafen-Abholfahrer, die anrufen, um den Standort zu bestätigen. |
-| **Immer eine Sicherung haben** | Bringen Sie eine physische SIM als Fallback mit oder speichern Sie einen Bildschirmfoto des Support-Kontakts Ihres Anbieters auf Ihrem Telefon. Digitale Nomaden führen oft sowohl eine eSIM als auch eine physische SIM für Redundanz. |
+| **Kaufe vor dem Flug** | Die Installation des Profils vor der Abreise bedeutet eine reibungslose Landung; der Kauf nach der Ankunft bedeutet oft, mit Flughafen-WLAN zu kämpfen, das SMS-Verifizierung erfordert. |
+| **APN-Einstellungen beheben die meisten Probleme** | Wenn eine eSIM nicht funktioniert, ist die Überprüfung der APN-Einstellungen die häufigste Behebung, besonders auf Android. |
+| **Behalte deine physische SIM für SMS** | Banking-Apps, WhatsApp, Didi, Alipay und Restaurantplattformen senden alle SMS-Codes. Eine reine Daten-eSIM kann diese nicht empfangen. Dual-SIM (Heim-SIM für SMS, eSIM für Daten) ist die zuverlässigste Konfiguration. |
+| **Nicht alle eSIMs umgehen die Firewall** | Günstige eSIMs von weniger bekannten Anbietern lassen Google, WhatsApp und Instagram möglicherweise blockiert. Die Lösung ist eine internationale Roaming-eSIM, keine inländische chinesische Carrier-eSIM. |
+| **Automatisches Switching spart Zeit** | Automatisches Carrier-Switching macht die manuelle Netzauswahl nach der Landung überflüssig. |
+| **China Mobile hat die breiteste Abdeckung** | China Mobile hat die beste 4G/5G-Abdeckung in chinesischen Städten und in Hochgeschwindigkeitszügen. Wenn du ein Netz manuell auswählst, wähle China Mobile für das stärkste Signal. |
+| **"Unbegrenzte" Tarife haben Fair-Use-Grenzen** | Die meisten "unbegrenzten" Tarife drosseln auf 128-256 kbps nach etwa 1 GB/Tag bei voller Geschwindigkeit – gut für Messaging und Karten, aber nicht für Videostreaming. Feste Datentarife (10 GB, 20 GB) sind oft zuverlässiger. |
+| **Tipps zur Dual-SIM-Konfiguration** | Lege die eSIM als standardmäßige Datenleitung und die Heim-SIM als standardmäßige Sprachleitung fest. Stelle auf dem iPhone sicher, dass iMessage und FaceTime deine Heim-SIM-Nummer verwenden, damit SMS-Verifizierungscodes korrekt ankommen. |
+| **Vorbereitung vor der Reise ist wichtig** | Speichere den QR-Code (bei einigen Anbietern nur einmal verwendbar), behalte deine Heim-SIM für Banking-Apps und habe eine Telefonnummer für Flughafenabholfahrer, die anrufen, um den Standort zu bestätigen. |
+| **Habe immer ein Backup** | Bringe eine physische SIM als Fallback mit oder speichere einen Screenshot des Support-Kontakts deines Anbieters auf deinem Telefon. |
 
 ---
 
-## Kann ich eine China eSIM kostenlos testen? Testversionen und Geld-zurück-Garantien
+## Kann ich eine eSIM für China kostenlos testen? Testversionen und Geld-zurück-Garantien
 
-Für Erstnutzer von eSIM ist die Möglichkeit, vor der Entscheidung zu testen, wertvoll. Hier ist, was die einzelnen großen Anbieter bieten.
+Für Erstnutzer von eSIMs ist die Möglichkeit, vor dem Kauf zu testen, wertvoll. Hier ist, was jeder größere Anbieter bietet.
 
-**Kostenlose Testversion von Roami**
-Roami bietet eine [kostenlose China eSIM Testversion](/free-esim/) an, mit der Sie den Dienst testen können, bevor Sie einen vollständigen Tarif kaufen. Dies ist besonders nützlich für Erstnutzer, die Kompatibilität und Konnektivität vor der Zahlung überprüfen möchten. Die Testversion gibt Ihnen eine kleine Menge kostenloser Daten, um das chinesische Netz zu testen. Sie können sie vor Ihrer Reise installieren, bestätigen, dass die eSIM auf Ihrem Telefon funktioniert, und dann zu einem kostenpflichtigen Tarif upgraden, wenn Sie bereit sind.
+**Roami Kostenlose Testversion**
+Roami bietet eine [kostenlose China-eSIM-Testversion](/free-esim/) an, mit der du den Dienst testen kannst, bevor du einen vollständigen Tarif kaufst. Das ist besonders nützlich für Erstnutzer, die Kompatibilität und Konnektivität vor dem Kauf überprüfen möchten. Die Testversion gibt dir eine kleine Menge kostenloser Daten, um das China-Netz zu testen. Du kannst sie vor deiner Reise installieren, bestätigen, dass die eSIM auf deinem Telefon funktioniert, und dann zu einem kostenpflichtigen Tarif upgraden, wenn du bereit bist.
 
-Roami bietet außerdem eine **30-tägige Geld-zurück-Garantie** auf die meisten Tarife. Wenn die eSIM für Sie nicht funktioniert, können Sie innerhalb von 30 Tagen nach dem Kauf eine vollständige Rückerstattung beantragen.
+Für Geld-zurück-Garantien bei China-eSIM-Tarifen bietet Roami eine 30-tägige Rückgaberecht auf die meisten Tarife. Wenn die eSIM für dich nicht funktioniert, kannst du innerhalb von 30 Tagen nach dem Kauf eine vollständige Rückerstattung beantragen.
 
 **Holafly**
-Holafly bietet eine 7-tägige Geld-zurück-Garantie auf ungenutzte Tarife. Wenn Sie einen Tarif kaufen, aber noch nicht aktiviert haben, können Sie eine vollständige Rückerstattung erhalten. Teilerstattungen sind nicht verfügbar, sobald der Tarif aktiviert wurde.
+Holafly bietet eine 7-tägige Geld-zurück-Garantie auf ungenutzte Tarife. Wenn du einen Tarif kaufst, ihn aber noch nicht aktiviert hast, kannst du eine vollständige Rückerstattung erhalten. Teilerstattungen sind nicht verfügbar, sobald der Tarif aktiviert wurde.
 
 **Airalo**
-Airalo bietet keine kostenlosen Testversionen. Ihre Rückgaberichtlinie erlaubt Rücksendungen innerhalb von 30 Tagen nach dem Kauf nur, wenn die eSIM nicht installiert oder genutzt wurde. Sobald sie installiert oder verbunden ist, sind Rückerstattungen im Allgemeinen nicht verfügbar.
+Airalo bietet keine kostenlosen Testversionen. Die Rückgaberecht erlaubt Rückgaben innerhalb von 30 Tagen nach dem Kauf nur, wenn die eSIM nicht installiert oder genutzt wurde. Nach der Installation oder Verbindung sind Rückerstattungen in der Regel nicht verfügbar.
 
 **Nomad**
-Nomad bietet Rückerstattungen für nicht installierte eSIMs innerhalb von 30 Tagen. Wenn Sie die eSIM installiert und genutzt haben, werden Rückerstattungen von Fall zu Fall behandelt.
+Nomad bietet Rückerstattungen für nicht installierte eSIMs innerhalb von 30 Tagen. Wenn du die eSIM installiert und genutzt hast, werden Rückerstattungen von Fall zu Fall behandelt.
 
 **Ubigi**
 Ubigi bietet keine kostenlosen Testversionen. Rückerstattungen sind innerhalb von 14 Tagen nach dem Kauf verfügbar, wenn die eSIM nicht aktiviert wurde.
 
 **Saily**
-Saily bietet eine 14-tägige Rückgaberichtlinie für ungenutzte Tarife.
+Saily bietet eine 14-tägige Rückgaberecht auf ungenutzte Tarife.
 
-**Zusammenfassungstabelle**
+**Übersichtstabelle**
 | Anbieter | Kostenlose Testversion | Rückgabefenster | Rückgabebedingung |
 |---|---|---|---|
 | Roami | Ja (kostenlose Testversion verfügbar) | 30 Tage | Die meisten Tarife, auch genutzte |
@@ -419,90 +423,90 @@ Saily bietet eine 14-tägige Rückgaberichtlinie für ungenutzte Tarife.
 | Ubigi | Nein | 14 Tage | Nur nicht aktiviert |
 | Saily | Nein | 14 Tage | Nur ungenutzt |
 
-Wenn Sie eine China eSIM risikofrei testen möchten, bieten Roamis kostenlose Testversion und die 30-tägige Geld-zurück-Garantie die meiste Flexibilität für Anfänger.
+Wenn du eine eSIM für China risikofrei testen möchtest, bieten die kostenlose Testversion von Roami und die 30-tägige Geld-zurück-Garantie die größte Flexibilität für Anfänger.
 
 ---
 
-## Gibt es Aktionscodes und Rabatte für China eSIM im Jahr 2026?
+## Gibt es Promo-Codes und Rabatte für China-eSIM?
 
-Hier sind verifizierte Aktionscodes und Rabatte für China eSIM Tarife im Jahr 2026.
+Suchst du einen China-eSIM-Promo-Code? Hier sind die verifizierten Rabatte für China-eSIM-Tarife im Jahr 2026.
 
-**Roami Aktionscode**
-- **Code: WEB20** — Erhalten Sie einen Rabatt auf Ihren [China eSIM](/china-esim/)-Tarif
+**Roami Promo-Code**
+- **Code: WEB20** – Erhalte einen Rabatt auf deinen [China-Reise-eSIM](/china-esim/)-Tarif
 - Verfügbar für alle China-Datentarife
-- Kombinierbar mit der kostenlosen Testversion, um vor der Entscheidung zu testen
+- Kombinierbar mit der kostenlosen Testversion, um vor dem Kauf zu testen
 - In einigen Fällen mit Neukundenangeboten kombinierbar
 
-**Airalo-Rabatte**
-- Neukunden: 10 % Rabatt auf den ersten Kauf über Empfehlungslinks
-- Empfehlungsprogramm: Teilen Sie Ihren Code, erhalten Sie $3 Guthaben pro Empfehlung
-- Saisonale Angebote: Überprüfen Sie die Airalo-App auf Blitzangebote (typischerweise chinesisches Neujahr, Sommer, Singles' Day)
+**Airalo Rabatte**
+- Neue Nutzer: 10 % Rabatt auf den ersten Einkauf über Empfehlungslinks
+- Empfehlungsprogramm: Teile deinen Code, erhalte 3 $ Guthaben pro Empfehlung
+- Saisonale Angebote: Überprüfe die Airalo-App auf Blitzangebote (typischerweise chinesisches Neujahr, Sommer, Singles' Day)
 
-**Holafly-Rabatte**
-- Neukunden: 5 % Rabatt auf den ersten Kauf (variiert je nach Region)
+**Holafly Rabatte**
+- Neue Nutzer: 5 % Rabatt auf den ersten Einkauf (variiert je nach Region)
 - E-Mail-Newsletter: 10 % Rabatt bei Anmeldung
 - Gelegentliche 15-20 % Blitzangebote in sozialen Medien
 
-**Nomad-Rabatte**
-- Empfehlungsprogramm: $3 Guthaben pro erfolgreicher Empfehlung
-- Erster Kauf: 10 % Rabatt mit ausgewählten Empfehlungscodes
+**Nomad Rabatte**
+- Empfehlungsprogramm: 3 $ Guthaben pro erfolgreicher Empfehlung
+- Erster Einkauf: 10 % Rabatt mit ausgewählten Empfehlungscodes
 - Bündelrabatte für Mehrländer-Tarife
 
-**Ubigi-Aktionen**
-- Neukunden: 10 % Rabatt auf den ersten Kauf mit Empfehlungscodes
-- Treuerabatte: 5 % Rabatt auf Wiederholungskäufe in einigen Regionen
+**Ubigi Promos**
+- Neue Nutzer: 10 % Rabatt auf den ersten Einkauf mit Empfehlungscodes
+- Treuerabatte: 5 % Rabatt auf Wiederholungskäufe für einige Regionen
 
-**Saily-Rabatte**
-- Neukunden: Einführungspreise auf den ersten Kauf
+**Saily Rabatte**
+- Neue Nutzer: Einführungspreise für den ersten Einkauf
 - Empfehlungsguthaben verfügbar
 
-**So finden Sie das beste Angebot**
-1. Überprüfen Sie die App des Anbieters auf exklusive In-App-Angebote
-2. Suchen Sie vor dem Bezahlen nach aktuellen Aktionscodes
-3. Ziehen Sie den Kauf eines etwas größeren Datenpakets in Betracht – der Preis pro GB sinkt bei höheren Stufen erheblich
-4. Mehrländer-Tarife (China + Hongkong + Japan, zum Beispiel) kosten oft weniger als der Kauf separater Tarife für jedes Land
+**So findest du das beste Angebot**
+1. Überprüfe die App des Anbieters auf exklusive In-App-Angebote
+2. Suche vor dem Checkout nach aktuellen Promo-Codes
+3. Ziehe in Betracht, ein etwas größeres Datenpaket zu kaufen – der Preis pro GB sinkt auf höheren Stufen erheblich
+4. Mehrländer-Tarife (China + Hongkong + Japan zum Beispiel) kosten oft weniger als der Kauf separater Tarife für jedes Land
 
 ---
 
-## Können Sie eine China eSIM löschen und neu installieren?
+## Kann ich eine eSIM für China löschen und neu installieren?
 
-**Kurze Antwort: Ja, in den meisten Fällen können Sie eine China eSIM neu installieren, wenn Sie sie löschen.**
-Der Prozess hängt von Ihrem Anbieter und der Art und Weise ab, wie er eSIM-Profile bereitstellt.
+**Kurze Antwort: Ja, in den meisten Fällen kannst du eine eSIM für China neu installieren, wenn du sie löschst.** Wenn du dein Profil versehentlich gelöscht hast, ist eine Neuinstallation deiner China-eSIM möglich, wenn du den QR-Code aufbewahrt hast.
+Der Prozess hängt von deinem Anbieter ab und wie er eSIM-Profile bereitstellt.
 
 **Wie das Löschen einer eSIM funktioniert**
-Wenn Sie ein eSIM-Profil von Ihrem Telefon löschen, entfernen Sie das digitale Zertifikat, das Sie beim Netz authentifiziert. Der Tarif selbst bleibt im System des Anbieters aktiv, solange er nicht abgelaufen ist. Das Löschen des Profils kündigt Ihren Tarif nicht.
+Wenn du ein eSIM-Profil von deinem Telefon löschst, entfernst du das digitale Zertifikat, das dich beim Netz authentifiziert. Der Tarif selbst bleibt im System des Anbieters aktiv, solange er nicht abgelaufen ist. Das Löschen des Profils kündigt deinen Tarif nicht.
 
 **Wie man neu installiert**
 
-**Methode 1: Aus der App des Anbieters erneut herunterladen (am einfachsten)**
-Die meisten eSIM-Anbieter haben eine mobile App, die Ihre gekauften Tarife speichert. Wenn Sie das Profil löschen:
+**Methode 1: Erneuter Download aus der App des Anbieters (am einfachsten)**
+Die meisten eSIM-Anbieter haben eine mobile App, die deine gekauften Tarife speichert. Wenn du das Profil löschst:
 
-1. Öffnen Sie die App des Anbieters
-2. Gehen Sie zu "Meine eSIMs" oder "Aktive Tarife"
-3. Finden Sie Ihren China-Tarif
-4. Tippen Sie auf "Neu installieren" oder "Erneut herunterladen"
-5. Folgen Sie den Installationsanweisungen
+1. Öffne die App des Anbieters
+2. Gehe zu "Meine eSIMs" oder "Aktive Tarife"
+3. Finde deinen China-Tarif
+4. Tippe auf "Neu installieren" oder "Erneut herunterladen"
+5. Folge den Installationsanweisungen
 
-Dies funktioniert mit Roami, Airalo, Holafly, Nomad und den meisten app-basierten Anbietern.
+Das funktioniert bei Roami, Airalo, Holafly, Nomad und den meisten app-basierten Anbietern.
 
-**Methode 2: Verwenden Sie den ursprünglichen QR-Code**
-Wenn Sie den ursprünglichen QR-Code gespeichert haben (oder er sich in Ihrer E-Mail befindet), können Sie ihn erneut scannen:
+**Methode 2: Verwende den ursprünglichen QR-Code**
+Wenn du den ursprünglichen QR-Code gespeichert hast (oder er in deiner E-Mail ist), kannst du ihn erneut scannen:
 
-1. Öffnen Sie den QR-Code auf einem anderen Gerät oder drucken Sie ihn aus
-2. Gehen Sie zu Einstellungen → Mobilfunk → eSIM hinzufügen → QR-Code scannen
-3. Scannen Sie denselben QR-Code, den Sie beim ersten Mal verwendet haben
+1. Öffne den QR-Code auf einem anderen Gerät oder drucke ihn aus
+2. Gehe zu Einstellungen → Mobilfunk → eSIM hinzufügen → QR-Code scannen
+3. Scanne denselben QR-Code, den du beim ersten Mal verwendet hast
 
-**Wichtig:** Einige Anbieter generieren einen einmalig verwendbaren QR-Code. Wenn Sie ihn bereits gescannt haben, funktioniert ein zweiter Scan möglicherweise nicht. In diesem Fall verwenden Sie Methode 1 oder Methode 3.
+**Wichtig:** Einige Anbieter generieren einen einmalig verwendbaren QR-Code. Wenn du ihn bereits gescannt hast, funktioniert ein zweiter Scan möglicherweise nicht. Verwende in diesem Fall Methode 1 oder Methode 3.
 
-**Methode 3: Kontaktieren Sie den Support für einen neuen QR-Code**
+**Methode 3: Kontaktiere den Support für einen neuen QR-Code**
 Wenn keine der Methoden funktioniert:
 
-- Kontaktieren Sie den Kundenservice des Anbieters
-- Erklären Sie, dass Sie das eSIM-Profil gelöscht haben und eine Neuausstellung benötigen
+- Kontaktiere den Kundenservice des Anbieters
+- Erkläre, dass du das eSIM-Profil gelöscht hast und eine Neuausstellung benötigst
 - Die meisten Anbieter senden kostenlos einen neuen QR-Code
-- Einige erheben möglicherweise eine kleine Verwaltungsgebühr (typischerweise $1-3)
+- Einige erheben möglicherweise eine kleine Verwaltungsgebühr (typischerweise 1-3 $)
 
-**Welche Anbieter ermöglichen eine einfache Neuinstallation?**
+**Welche Anbieter eine einfache Neuinstallation ermöglichen?**
 | Anbieter | Neuinstallation über App | Ursprünglichen QR wiederverwenden | Gebühr für neuen QR-Code |
 |---|---|---|---|
 | Roami | Ja | Ja | Kostenlos |
@@ -512,38 +516,38 @@ Wenn keine der Methoden funktioniert:
 | Ubigi | Ja | Ja | Kostenlos |
 | Saily | Ja | Ja | Kostenlos |
 
-**Was tun, wenn Sie nicht neu installieren können?**
-Wenn Sie Ihre eSIM löschen und nicht neu installieren können:
+**Was, wenn du nicht neu installieren kannst?**
+Wenn du deine eSIM löschst und sie nicht neu installieren kannst:
 
-1. **Überprüfen Sie Ihre E-Mail:** Die ursprüngliche Kaufbestätigung enthält normalerweise den QR-Code oder Installationsanweisungen
-2. **Überprüfen Sie die Website des Anbieters:** Die meisten haben einen Bereich "Meine Bestellungen", in dem Sie frühere Käufe abrufen können
-3. **Kontaktieren Sie den Support:** Geben Sie Ihre Bestellnummer an, und sie werden helfen
+1. **Überprüfe deine E-Mail:** Die ursprüngliche Kaufbestätigung enthält normalerweise den QR-Code oder Installationsanweisungen
+2. **Überprüfe die Website des Anbieters:** Die meisten haben einen Bereich "Meine Bestellungen", in dem du frühere Käufe abrufen kannst
+3. **Kontaktiere den Support:** Gib deine Bestellnummer an, und sie werden dir helfen
 
-Wenn alles andere fehlschlägt und Sie das Profil nicht wiederherstellen können, müssen Sie möglicherweise einen neuen Tarif kaufen. Das ist selten, aber es ist gut, es im Voraus zu wissen.
+Wenn alles andere fehlschlägt und du das Profil nicht wiederherstellen kannst, musst du möglicherweise einen neuen Tarif kaufen. Das ist selten, aber es lohnt sich, es im Voraus zu wissen.
 
 **Vorbeugende Tipps**
-- Speichern Sie einen Bildschirmfoto des QR-Codes in Ihrer Fotobibliothek, bevor Sie etwas löschen
-- Machen Sie ein Foto des QR-Codes mit einem zweiten Gerät
-- Laden Sie die App des Anbieters vor Ihrer Reise herunter – sie speichert Ihren Tarif und macht die Neuinstallation zu einem Ein-Klick-Prozess
+- Speichere einen Screenshot des QR-Codes in deiner Fotomediathek, bevor du etwas löschst
+- Mache ein Foto des QR-Codes mit einem zweiten Gerät
+- Lade die App des Anbieters vor deiner Reise herunter – sie speichert deinen Tarif und macht die Neuinstallation zu einem Ein-Klick-Prozess
 
 ---
 
-## Wie kontaktiere ich den China eSIM-Kundenservice? Anbieter-Kontakte
+## Wie kontaktiere ich den China-eSIM-Kundenservice? Anbieter-Kontakte
 
-Bei Problemen mit Ihrer China eSIM erreichen Sie die meisten Anbieter per In-App-Chat, E-Mail oder WhatsApp – Roami bietet als einziger 24/7 Live-Mensch-Support ohne Chatbot.
+Wenn mit deiner China-eSIM etwas schiefgeht, macht schneller Kundensupport den Unterschied zwischen einer kleinen Unannehmlichkeit und einem verdorbenen Sightseeing-Tag.
 
 **Roami**
-Roami bietet **24/7 Live-Mensch-Support** – keine Chatbots. Das ist ein bedeutender Unterschied für Erstnutzer von eSIM, die möglicherweise Unterstützung bei der Installation benötigen.
+Roami bietet **24/7 Live-Kundensupport** – keine Chatbots. Das ist ein bedeutender Unterschied für Erstnutzer von eSIMs, die möglicherweise Unterstützung bei der Installation benötigen.
 
-- **In-App-Live-Chat:** 24/7 verfügbar, Antwort typischerweise innerhalb von 1-2 Minuten
+- **In-App-Live-Chat:** 24/7 verfügbar, Antwort normalerweise innerhalb von 1-2 Minuten
 - **E-Mail:** support@roami.com (Antwort innerhalb von 2-4 Stunden)
 - **Wissensdatenbank:** In-App-Hilfezentrum mit Schritt-für-Schritt-Anleitungen
 - **Sprachen:** Englisch, Chinesisch
 
-Am besten für: Anfänger, die möchten, dass jemand sie in Echtzeit durch die Einrichtung führt.
+Am besten für: Anfänger, die jemanden möchten, der sie in Echtzeit durch die Einrichtung führt.
 
 **Airalo**
-- **In-App-Chat:** 24/7 verfügbar, aber hauptsächlich ein Chatbot. Eskalation zu einem menschlichen Agenten dauert zu Stoßzeiten 10-30 Minuten.
+- **In-App-Chat:** 24/7 verfügbar, aber hauptsächlich ein Chatbot. Die Eskalation zu einem menschlichen Agenten dauert zu Stoßzeiten 10-30 Minuten.
 - **E-Mail:** support@airalo.com (Antwort innerhalb von 24 Stunden)
 - **Hilfezentrum:** Umfangreiche FAQ- und Fehlerbehebungsartikel
 
@@ -558,8 +562,8 @@ Am besten für: Anfänger, die möchten, dass jemand sie in Echtzeit durch die E
 - **Hilfezentrum:** Ja
 
 **Ubigi**
-- **E-Mail/Ticketsystem:** Über die Website (Antwort innerhalb von 24-48 Stunden)
-- **FAQ:** Umfangreicher Selbsthilfebereich
+- **E-Mail/Ticket-System:** Über die Website (Antwort innerhalb von 24-48 Stunden)
+- **FAQ:** Umfangreicher Selbsthilfe-Bereich
 - **Kein Live-Chat:** Der Support von Ubigi ist hauptsächlich E-Mail-basiert
 
 **Saily**
@@ -567,106 +571,106 @@ Am besten für: Anfänger, die möchten, dass jemand sie in Echtzeit durch die E
 - **In-App-Chat:** Während der Geschäftszeiten verfügbar
 - **Hilfezentrum:** Ja
 
-**China Unicom / CMHK Direkt**
-- **WeChat:** Kundenservice über das WeChat Official Account
-- **Vor Ort:** Physische Geschäfte in Großstädten
+**China Unicom / CMHK Direct**
+- **WeChat:** Kundenservice über den WeChat Official Account
+- **Im Geschäft:** Physische Geschäfte in großen Städten
 - **Telefon:** Hotline-Nummern variieren je nach Region
 - **E-Mail:** Begrenzter englischsprachiger Support
 
 **Tipps für schnellere Hilfe**
-1. **Fügen Sie Ihre Bestellnummer** zu jeder Support-Nachricht hinzu
-2. **Machen Sie Bildschirmfotos** von Fehlermeldungen, bevor Sie den Support kontaktieren
-3. **Seien Sie spezifisch:** "Ich habe den QR-Code auf meinem iPhone 16 Pro gescannt und bei Schritt 3 den Fehler 'Aktivierung nicht möglich' erhalten" ist viel hilfreicher als "meine eSIM funktioniert nicht"
-4. **Überprüfen Sie zuerst die FAQ des Anbieters** – die meisten häufigen Probleme haben dokumentierte Lösungen
-5. **Kontaktieren Sie den Support vor Ihrer Reise**, wenn möglich. Support-Teams sind an Wochentagen morgens weniger ausgelastet
+1. **Gib deine Bestellnummer** in jeder Support-Nachricht an
+2. **Mache Screenshots** von Fehlermeldungen, bevor du den Support kontaktierst
+3. **Sei konkret:** "Ich habe den QR-Code auf meinem iPhone 16 Pro gescannt und bei Schritt 3 den Fehler 'Aktivierung nicht möglich' erhalten" ist viel hilfreicher als "meine eSIM funktioniert nicht"
+4. **Überprüfe zuerst die FAQ des Anbieters** – die meisten häufigen Probleme haben dokumentierte Lösungen
+5. **Kontaktiere den Support vor deiner Reise**, wenn möglich. Die Support-Teams sind an Wochentagen morgens weniger ausgelastet
 
 ---
 
-## Häufige Fragen
+## FAQs für Erstnutzer von eSIMs in China
 
-**Kann ich eine China eSIM neu installieren, wenn ich sie lösche?**
-Ja, in den meisten Fällen. Wenn Sie Ihr eSIM-Profil von Ihrem Telefon löschen, bleibt der Tarif im System des Anbieters aktiv. Sie können ihn neu installieren, indem Sie die App des Anbieters öffnen und auf "Neu installieren" tippen oder den ursprünglichen QR-Code erneut scannen. Die meisten Anbieter bieten eine kostenlose Neuinstallation an. Einige erfordern, dass Sie den Support für einen neuen QR-Code kontaktieren, aber sie berechnen dafür normalerweise nichts.
+**Kann ich die China-eSIM neu installieren, wenn ich sie lösche?**
+Ja, in den meisten Fällen. Wenn du dein eSIM-Profil von deinem Telefon löschst, bleibt der Tarif im System des Anbieters aktiv. Du kannst neu installieren, indem du die App des Anbieters öffnest und auf "Neu installieren" tippst oder den ursprünglichen QR-Code erneut scannst. Die meisten Anbieter bieten eine kostenlose Neuinstallation an. Einige verlangen, dass du den Support kontaktierst, um einen neuen QR-Code zu erhalten, aber sie berechnen in der Regel nichts dafür.
 
-**Was ist, wenn ich mein Telefon auf die Werkseinstellungen zurücksetze?** Ein Zurücksetzen auf die Werkseinstellungen löscht Ihr eSIM-Profil in den meisten Fällen nicht. Auf dem iPhone wird das eSIM-Profil auf dem eUICC-Chip gespeichert, der bei einem standardmäßigen Zurücksetzen auf die Werkseinstellungen nicht gelöscht wird. Wenn Sie jedoch "Alle Inhalte und Einstellungen löschen" wählen und speziell die Entfernung von eSIM-Profilen auswählen, werden sie gelöscht. Bei Samsung bleiben eSIM-Profile beim Zurücksetzen auf die Werkseinstellungen ebenfalls standardmäßig erhalten, aber einige systemweite Zurücksetzungen können sie entfernen. In beiden Fällen können Sie mit den oben genannten Methoden neu installieren.
+**Was ist, wenn ich mein Telefon auf die Werkseinstellungen zurücksetze?** Ein Werksreset löscht dein eSIM-Profil in den meisten Fällen nicht. Auf dem iPhone wird das eSIM-Profil auf dem eUICC-Chip gespeichert, der bei einem standardmäßigen Werksreset nicht gelöscht wird. Wenn du jedoch "Alle Inhalte und Einstellungen löschen" wählst und speziell die Option wählst, eSIM-Profile zu entfernen, werden sie gelöscht. Bei Samsung bewahrt der Werksreset eSIM-Profile standardmäßig ebenfalls auf, aber einige systemweite Resets können sie entfernen. In beiden Fällen kannst du mit den oben genannten Methoden neu installieren.
 
-Das einzige Szenario, in dem Sie nicht neu installieren können, ist, wenn der Tarif bereits abgelaufen ist oder Sie das gesamte Datenvolumen aufgebraucht haben. In diesen Fällen müssten Sie sowieso einen neuen Tarif kaufen.
+Das einzige Szenario, in dem du nicht neu installieren kannst, ist, wenn der Tarif bereits abgelaufen ist oder du alle Daten aufgebraucht hast. In diesen Fällen müsstest du ohnehin einen neuen Tarif kaufen.
 
-Für detaillierte Schritte siehe den Abschnitt "Können Sie eine China eSIM löschen und neu installieren?" oben.
+Für detaillierte Schritte siehe den Abschnitt "Kann ich eine eSIM für China löschen und neu installieren?" oben.
 
-**Kann ich einen China eSIM-Tarif aufladen?**
-Das hängt vom Anbieter ab.
+**Kann ich meinen China-eSIM-Tarif aufladen?**
+Es hängt vom Anbieter ab.
 
 **Anbieter, die Aufladungen erlauben:**
-- **Roami:** Ja, Sie können einem vorhandenen aktiven Tarif über die App mehr Daten hinzufügen. Aufladungen sind in 1GB-, 3GB-, 5GB- und 10GB-Schritten verfügbar. Die aufgeladenen Daten übernehmen denselben Gültigkeitszeitraum wie Ihr ursprünglicher Tarif.
-- **Airalo:** Ja, Sie können bei den meisten China-Tarifen Daten über die App aufladen.
-- **Nomad:** Ja, Nachkauf-Datenpakete sind für aktive Tarife verfügbar.
+- **Roami:** Ja, du kannst einem bestehenden aktiven Tarif über die App mehr Daten hinzufügen. Aufladungen sind in 1GB-, 3GB-, 5GB- und 10GB-Schritten verfügbar. Die aufgeladenen Daten übernehmen denselben Gültigkeitszeitraum wie dein ursprünglicher Tarif.
+- **Airalo:** Ja, du kannst bei den meisten China-Tarifen Daten über die App aufladen.
+- **Nomad:** Ja, Aufladepakete sind für aktive Tarife verfügbar.
 - **Ubigi:** Ja, Aufladungen über die App oder Website verfügbar.
 - **Saily:** Ja, über die App.
 
 **Anbieter, die KEINE Aufladungen erlauben:**
-- **Holafly:** Nein. Holafly-China-Tarife sind fest – Sie kaufen den Tarif für eine festgelegte Dauer und Datenmenge. Wenn er aufgebraucht ist, müssen Sie einen neuen Tarif kaufen. Das ist eine ihrer Hauptbeschränkungen.
+- **Holafly:** Nein. Holafly-China-Tarife sind fest – du kaufst den Tarif für eine festgelegte Dauer und Datenmenge. Wenn er aufgebraucht ist, musst du einen neuen Tarif kaufen. Das ist eine ihrer Hauptbeschränkungen.
 
 **Wie Aufladungen funktionieren:**
-1. Öffnen Sie die App des Anbieters
-2. Gehen Sie zu "Meine Tarife" oder "Aktive eSIMs"
-3. Tippen Sie auf Ihre China eSIM
-4. Wählen Sie "Aufladen" oder "Daten hinzufügen"
-5. Wählen Sie die Datenmenge und bezahlen Sie
-6. Die zusätzlichen Daten werden sofort auf Ihrer vorhandenen eSIM aktiviert – keine Installation eines neuen Profils erforderlich
+1. Öffne die App des Anbieters
+2. Gehe zu "Meine Tarife" oder "Aktive eSIMs"
+3. Tippe auf deine China-eSIM
+4. Wähle "Aufladen" oder "Daten hinzufügen"
+5. Wähle die Datenmenge und bezahle
+6. Die zusätzlichen Daten werden sofort auf deiner bestehenden eSIM aktiviert – keine Installation eines neuen Profils erforderlich
 
-**Praktischer Tipp:** Wenn Sie sich nicht sicher sind, wie viel Daten Sie benötigen, beginnen Sie mit einem kleineren Tarif bei einem Anbieter, der Aufladungen anbietet. Sie können jederzeit mehr Daten hinzufügen, wenn Ihnen welche ausgehen. Das ist günstiger, als einen großen Tarif im Voraus zu kaufen, den Sie möglicherweise nicht vollständig nutzen.
+**Praktischer Tipp:** Wenn du dir nicht sicher bist, wie viel Daten du brauchst, beginne mit einem kleineren Tarif bei einem Anbieter, der Aufladungen anbietet. Du kannst jederzeit mehr Daten hinzufügen, wenn dir welche ausgehen. Das ist günstiger, als gleich einen großen Tarif zu kaufen, den du möglicherweise nicht vollständig nutzt.
 
 **Was ist die günstigste eSIM für eine China-Reise?**
-Die günstigste China eSIM hängt davon ab, wie viele Daten Sie benötigen.
+Die günstigste China-eSIM hängt davon ab, wie viel Daten du benötigst.
 
-**Günstigste insgesamt (jegliche Daten):** China Unicom direkt für $2.80 für 1GB. Der direkte Kauf bei chinesischen Carriern erfordert jedoch in einigen Fällen eine chinesische ID-Verifizierung und bietet begrenzten englischsprachigen Support.
+**Am günstigsten insgesamt (jegliche Daten):** China Unicom direct für 2,80 $ für 1 GB. Der direkte Kauf bei chinesischen Carriern erfordert jedoch in einigen Fällen eine chinesische ID-Verifizierung und begrenzten englischsprachigen Support.
 
-**Günstigste für problemlosen Kauf (1GB):** Ubigi für $3.00 für 1GB. Sofortige Lieferung, englischsprachiger Support, keine ID-Verifizierung.
+**Am günstigsten für problemlosen Kauf (1 GB):** Ubigi für 3,00 $ für 1 GB. Sofortige Zustellung, englischsprachiger Support, keine ID-Verifizierung.
 
-**Günstigste für 1-wöchige Reise (5GB):** Ubigi für $10.00 für 5GB, oder Roami für $11.00 für 5GB.
+**Am günstigsten für 1-Woche-Reise (5 GB):** Ubigi für 10,00 $ für 5 GB, oder Roami für 11,00 $ für 5 GB.
 
-**Günstigste für 2-wöchige Reise (10GB):** Roami für $16.00 für 10GB, gleichauf mit CMHK direkt.
+**Am günstigsten für 2-Wochen-Reise (10 GB):** Roami für 16,00 $ für 10 GB, gleichauf mit CMHK direct.
 
-**Günstigste für 30-tägige Reise (20GB+):** Roami für $26.00 für 20GB, oder Nomad für $29.00 für 20GB.
+**Am günstigsten für 30-Tage-Reise (20 GB+):** Roami für 26,00 $ für 20 GB, oder Nomad für 29,00 $ für 20 GB.
 
-**Günstigste unbegrenzt:** Roami für $26.00 für 7 Tage unbegrenzt, oder Holafly für $30.00 für 7 Tage unbegrenzt.
+**Am günstigsten unbegrenzt:** Roami für 26,00 $ für 7 Tage unbegrenzt, oder Holafly für 30,00 $ für 7 Tage unbegrenzt.
 
-Einen umfassenden Preisvergleich aller Anbieter und Datenstufen finden Sie im [China eSIM Preis- und Kaufleitfaden](/blog/china-esim-price-plan-purchase-guide/).
+Für einen umfassenden Preisvergleich aller Anbieter und Datenstufen siehe den [China-eSIM-Preisvergleich](/blog/china-esim-price-plan-purchase-guide/).
 
-**Funktioniert China eSIM mit VPN?**
-Wenn Sie eine internationale Roaming-eSIM kaufen, die den Verkehr über ein externes Gateway (Hongkong, Singapur) leitet, benötigen Sie wahrscheinlich kein separates VPN – Google, WhatsApp und Instagram funktionieren automatisch.
+**Funktioniert China-eSIM mit VPN?**
+Wenn du eine internationale Roaming-eSIM kaufst, die den Verkehr über ein externes Gateway (Hongkong, Singapur) routet, benötigst du wahrscheinlich kein separates VPN – Google, WhatsApp und Instagram funktionieren automatisch.
 
-Wenn Sie eine direkte China-Carrier-eSIM kaufen, benötigen Sie ein separates VPN, um auf blockierte Dienste zuzugreifen. Einige eSIM-Anbieter (Holafly, Saily) beinhalten integrierte VPN-Funktionalität. Andere erfordern, dass Sie Ihr eigenes konfigurieren.
+Wenn du eine direkte China-Carrier-eSIM kaufst, benötigst du ein separates VPN, um auf blockierte Dienste zuzugreifen. Einige eSIM-Anbieter bündeln eine Umgehung in den Tarif ein – Sailys Virtual-Location-Routing und Jetpacs integriertes VPN sind zwei Beispiele. Andere erfordern, dass du dein eigenes VPN konfigurierst.
 
-Weitere Details finden Sie in unserem Leitfaden zu [China eSIM und VPN-Firewall-Umgehung](/blog/china-esim-vpn-firewall-guide/).
+Weitere Details finden sich im Leitfaden zur [China-eSIM und VPN-Firewall-Umgehung](/blog/china-esim-vpn-firewall-guide/).
 
-**Kann ich mit einer China eSIM Sprachanrufe tätigen?**
-Die meisten China-Reise-eSIMs sind reine Daten-eSIMs. Sie können keine Sprachanrufe über die eSIM-Nummer tätigen oder empfangen. Ihre reguläre Heim-SIM übernimmt weiterhin Anrufe und Texte. Wenn Sie eine chinesische Telefonnummer für Anrufe benötigen (für Restaurantreservierungen, Didi-Abholbestätigungen usw.), benötigen Sie einen separaten Dienst wie eine chinesische SIM-Karte oder eine VoIP-App.
+**Kann ich mit einer eSIM für China Sprachanrufe tätigen?**
+Die meisten China-Reise-eSIMs sind reine Daten-eSIMs. Du kannst keine Sprachanrufe über die eSIM-Nummer tätigen oder empfangen. Deine normale Heim-SIM übernimmt weiterhin Anrufe und Textnachrichten. Wenn du eine chinesische Telefonnummer für Anrufe benötigst (für Restaurantreservierungen, Didi-Abholbestätigungen usw.), benötigst du einen separaten Dienst wie eine chinesische SIM-Karte oder eine VoIP-App.
 
 **Funktioniert meine Heim-SIM weiterhin?**
-Ja, wenn Ihr Telefon Dual-SIM unterstützt. Sie können Ihre Heim-SIM für Anrufe und SMS aktiv halten, während Sie die China eSIM für Daten verwenden. Auf dem iPhone (XS und neuer) und den meisten modernen Android-Telefonen funktionieren beide SIMs gleichzeitig.
+Ja, wenn dein Telefon Dual-SIM unterstützt. Du kannst deine Heim-SIM für Anrufe und SMS aktiv halten, während du die China-eSIM für Daten verwendest. Auf dem iPhone (XS und neuer) und den meisten modernen Android-Telefonen funktionieren beide SIMs gleichzeitig.
 
-So richten Sie es ein:
+So richtest du das ein:
 
-1. Installieren Sie die China eSIM
-2. Gehen Sie zu Ihren Mobilfunkeinstellungen
-3. Legen Sie die China eSIM als **Datenleitung** fest
-4. Behalten Sie Ihre Heim-SIM als **Sprachleitung**
-5. Ihre Heim-SIM empfängt weiterhin SMS für Authentifizierungscodes
+1. Installiere die China-eSIM
+2. Gehe zu deinen Mobilfunkeinstellungen
+3. Lege die China-eSIM als **Datenleitung** fest
+4. Behalte deine Heim-SIM als **Sprachleitung**
+5. Deine Heim-SIM empfängt weiterhin SMS für Authentifizierungscodes
 
-**Was ist, wenn meine eSIM nach der Ankunft nicht funktioniert?**
-Versuchen Sie diese Schritte der Reihe nach:
+**Was, wenn meine eSIM nach der Ankunft nicht funktioniert?**
+Versuche diese Schritte der Reihe nach:
 
-1. **Aktivieren Sie Datenroaming** – Das behebt die meisten Fälle
-2. **Wählen Sie manuell ein Netz** – Einstellungen → Mobilfunk → Netzauswahl → Automatisch deaktivieren → China Mobile auswählen
-3. **Überprüfen Sie die APN-Einstellungen** – Stellen Sie sicher, dass das APN mit den Anweisungen Ihres Anbieters übereinstimmt
-4. **Starten Sie Ihr Telefon neu** – Ein frischer Netzscan löst oft Verbindungsprobleme
-5. **Schalten Sie den Flugmodus ein und aus** – 10 Sekunden ein, dann aus
-6. **Kontaktieren Sie den Support** – Wenn nichts funktioniert, wenden Sie sich an den Kundenservice Ihres Anbieters
+1. **Aktiviere Daten-Roaming** – Das behebt die meisten Fälle
+2. **Wähle ein Netz manuell aus** – Einstellungen → Mobilfunk → Netzauswahl → Automatisch deaktivieren → China Mobile auswählen
+3. **Überprüfe die APN-Einstellungen** – Stelle sicher, dass der APN mit den Anweisungen deines Anbieters übereinstimmt
+4. **Starte dein Telefon neu** – Ein frischer Netzwerkscan löst oft Verbindungsprobleme
+5. **Schalte den Flugmodus um** – Schalte ihn ein, warte 10 Sekunden, schalte ihn aus
+6. **Kontaktiere den Support** – Wenn nichts funktioniert, wende dich an den Kundenservice deines Anbieters
 
-Unser [China eSIM-Fehlerbehebungsleitfaden](/blog/china-esim-troubleshooting-fix-guide/) deckt jedes mögliche Problem im Detail ab.
+Die [China-eSIM-Fehlerbehebungsanleitung](/blog/china-esim-troubleshooting-fix-guide/) behandelt jedes mögliche Problem im Detail.
 
-**Kann ich eine Rückerstattung erhalten, wenn meine China eSIM nicht funktioniert?**
+**Kann ich eine Rückerstattung erhalten, wenn meine China-eSIM nicht funktioniert?**
 Die Rückgaberichtlinien variieren je nach Anbieter:
 
 - **Roami:** 30-tägige Geld-zurück-Garantie auf die meisten Tarife
@@ -676,177 +680,72 @@ Die Rückgaberichtlinien variieren je nach Anbieter:
 - **Ubigi:** 14-tägige Rückerstattung auf nicht aktivierte Tarife
 - **Saily:** 14-tägige Rückerstattung auf ungenutzte Tarife
 
-Um eine Rückerstattung zu beantragen, kontaktieren Sie den Kundenservice des Anbieters mit Ihrer Bestellnummer und dem Grund für die Rückerstattung. Bei technischen Problemen werden die meisten Anbieter Sie bitten, zuerst Fehlerbehebungsschritte zu versuchen.
+Um eine Rückerstattung zu beantragen, kontaktiere den Kundenservice des Anbieters mit deiner Bestellnummer und dem Grund für die Rückerstattung. Bei technischen Problemen werden die meisten Anbieter dich bitten, zuerst Fehlerbehebungsschritte zu versuchen.
 
-**Sollte ich eine China eSIM oder eine physische SIM nehmen?**
+**Sollte ich eine eSIM für China oder eine physische SIM nehmen?**
 Für die meisten Reisenden ist eine eSIM die bessere Wahl:
 
-- **Installation vor der Abreise** – Keine Suche nach einem SIM-Kiosk am Flughafen
-- **Behalten Sie Ihre Heim-SIM** – Kein Entfernen Ihrer aktuellen SIM-Karte
-- **Firewall-Umgehung** – Die meisten Reise-eSIMs leiten Daten international
-- **Kein Risiko, winzige SIM-Karten zu verlieren** – Eine Sache weniger, die Sie im Auge behalten müssen
+- **Installation vor der Abreise** – Kein Suchen nach einem SIM-Kiosk am Flughafen
+- **Behalte deine Heim-SIM** – Kein Entfernen deiner aktuellen SIM-Karte
+- **Firewall-Umgehung** – Die meisten Reise-eSIMs routen Daten international
+- **Kein Risiko, winzige SIM-Karten zu verlieren** – Eine Sache weniger, die du im Auge behalten musst
 
 Eine physische SIM ist sinnvoll, wenn:
 
-- Ihr Telefon keine eSIM unterstützt (besonders chinesische Markt-iPhones)
-- Sie eine chinesische Telefonnummer für Sprachanrufe benötigen
-- Sie den absolut niedrigsten Preis wünschen (direkte Carrier-SIMs sind etwas günstiger)
-- Sie ein Carrier-gebundenes Telefon haben
+- Dein Telefon keine eSIM unterstützt (insbesondere chinesische Markt-iPhones)
+- Du eine chinesische Telefonnummer für Sprachanrufe benötigst
+- Du den absolut günstigsten Preis möchtest (direkte Carrier-SIMs sind etwas günstiger)
+- Du ein Carrier-gebundenes Telefon hast
 
 **Kurzvergleich:**
 | Faktor | eSIM | Physische SIM |
 |---|---|---|
 | Einrichtung | Vor der Abreise über App | Am Flughafen-Kiosk oder im Geschäft |
-| Firewall-Umgehung | Bei den meisten Reise-eSIMs integriert | Erfordert separates VPN |
-| Telefonnummer | Keine (nur Daten) | Lokale chinesische Nummer |
+| Firewall-Umgehung | In den meisten Reise-eSIMs integriert | Erfordert separates VPN |
+| Telefonnummer | Keine (reine Daten) | Lokale chinesische Nummer |
 | Sprachanrufe | Nicht unterstützt | Ja |
 | Wiederverwendbarkeit | Nächste Reise, neuen Tarif kaufen | Nächste Reise, neue SIM kaufen |
-| Kosten pro GB | $2.80 - $4.50 | $2.00 - $3.50 |
-| Englisch-Support | Ja (die meisten Anbieter) | Begrenzt |
+| Kosten pro GB | 2,80 $ - 4,50 $ | 2,00 $ - 3,50 $ |
+| Englischsprachiger Support | Ja (die meisten Anbieter) | Begrenzt |
 | Installationszeit | 2-5 Minuten | 10-30 Minuten am Flughafen |
 
-**Kann ich meine China eSIM als Hotspot nutzen?**
-Das hängt vom Anbieter ab. Einige China eSIMs unterstützen Tethering (Freigabe Ihrer Datenverbindung für einen Laptop oder ein Tablet), während andere es blockieren.
+**Kann ich meine China-eSIM als Hotspot nutzen?**
+Das hängt vom Anbieter ab. Einige China-eSIMs unterstützen Tethering (das Teilen deiner Datenverbindung mit einem Laptop oder Tablet), während andere es blockieren.
 
-**Anbieter, die Hotspot/Tethering erlauben:** Roami, Airalo (die meisten Tarife), Nomad, Ubigi, Saily. Roami unterstützt Hotspot ausdrücklich auf allen seinen China-Tarifen, was nützlich ist, wenn Sie für die Arbeit einen Laptop verbinden müssen.
+**Anbieter, die Hotspot/Tethering erlauben:** Roami, Airalo (die meisten Tarife), Nomad, Ubigi, Saily. Roami unterstützt Hotspot explizit auf allen seinen China-Tarifen, was nützlich ist, wenn du einen Laptop für die Arbeit verbinden musst.
 
-**Anbieter, die Hotspot blockieren:** Holafly blockiert Tethering auf seinen China-Unbegrenzt-Tarifen. Dies wird in ihren Allgemeinen Geschäftsbedingungen festgehalten. Wenn Sie Ihre Verbindung teilen müssen, wählen Sie einen Anbieter, der dies erlaubt.
+**Anbieter, die Hotspot blockieren:** Holafly blockiert Tethering auf seinen China-Unlimited-Tarifen. Das wird in ihren Allgemeinen Geschäftsbedingungen angegeben. Wenn du deine Verbindung teilen musst, wähle einen Anbieter, der es erlaubt.
 
-**So richten Sie Hotspot ein:** Auf dem iPhone: Einstellungen → Mobilfunk → Persönlicher Hotspot → Anderen erlauben beizutreten. Auf Android: Einstellungen → Verbindungen → Mobiler Hotspot und Tethering. Stellen Sie sicher, dass Hotspot speziell für die eSIM-Leitung aktiviert ist, nicht für Ihre Heim-SIM.
+**So richtest du Hotspot ein:** Auf dem iPhone: Einstellungen → Mobilfunk → Persönlicher Hotspot → Anderen erlauben beizutreten. Auf Android: Einstellungen → Verbindungen → Mobiler Hotspot und Tethering. Stelle sicher, dass Hotspot speziell für die eSIM-Leitung aktiviert ist, nicht für deine Heim-SIM.
 
-**Wie viele Daten brauche ich für eine China-Reise?**
+**Wie viel Datenvolumen brauche ich für eine China-Reise?**
 Hier ist eine grobe Richtlinie basierend auf häufigen Nutzungsmustern:
 
-| Nutzungsmuster | Tägliche Daten | Wochensumme |
+| Nutzungsmuster | Tägliches Datenvolumen | Wöchentliche Gesamtmenge |
 |---|---|---|
-| Leicht (Google Maps, WeChat, gelegentliches Surfen) | 300-500 MB | 3-5 GB |
-| Mäßig (plus Social-Media-Scrolling, YouTube-Kurzclips) | 500 MB - 1 GB | 5-10 GB |
-| Stark (Videoanrufe, Streamen, Hotspot-Freigabe) | 1-2 GB+ | 10-20 GB+ |
+| Gering (Google Maps, WeChat, gelegentliches Surfen) | 300-500 MB | 3-5 GB |
+| Mäßig (zusätzlich soziale Medien, YouTube-Kurzvideos) | 500 MB - 1 GB | 5-10 GB |
+| Stark (Videoanrufe, Streaming, Hotspot-Sharing) | 1-2 GB+ | 10-20 GB+ |
 
-Im Zweifelsfall kaufen Sie 5 GB für eine Woche oder 10 GB für zwei Wochen. Die meisten Anbieter bieten Aufladungen an, wenn Ihnen die Daten ausgehen.
+Im Zweifelsfall kaufe 5 GB für eine Woche oder 10 GB für zwei Wochen. Die meisten Anbieter bieten Aufladungen an, wenn dir Daten ausgehen.
 
 ---
 
-## Ihre nächsten Schritte
+## Deine nächsten Schritte
 
-Sie wissen jetzt alles, was Sie brauchen, um von "Ich habe noch nie eine eSIM verwendet" zu "Ich habe eine funktionierende China eSIM für meine Reise bereit" zu gelangen. Hier ist Ihr Aktionsplan:
+Du weißt jetzt alles, was du brauchst, um von "Ich habe noch nie eine eSIM verwendet" zu "Ich habe eine funktionierende China-eSIM, die für meine Reise bereit ist" zu gelangen. Hier ist dein Aktionsplan:
 
-1. **Überprüfen Sie die Telefonkompatibilität** mit den Methoden im Kompatibilitätsabschnitt
-2. **Wählen Sie einen Anbieter** – Roami bietet automatischen Carrier-Wechsel und Live-Support für Anfänger; Airalo und Holafly sind ebenfalls solide Optionen
-3. **Kaufen Sie Ihren Tarif** vor Ihrer Abreise und wählen Sie die richtige Datenmenge für Ihre Reisedauer
-4. **Installieren Sie die eSIM** mit den oben beschriebenen Schritt-für-Schritt-Anweisungen
-5. **Aktivieren Sie Datenroaming** – ernsthaft, vergessen Sie das nicht
-6. **Testen Sie vor der Abreise**, um Probleme noch zu Hause zu erkennen
-7. **Speichern Sie Ihren QR-Code** als Bildschirmfoto und in der App des Anbieters
-8. **Notieren Sie den Support-Kontakt Ihres Anbieters**, falls Sie nach der Landung Hilfe benötigen
+1. **Überprüfe die Telefonkompatibilität** mit den Methoden im Kompatibilitätsabschnitt
+2. **Wähle einen Anbieter** – Roami bietet automatisches Carrier-Switching und Live-Support für Anfänger; Airalo und Holafly sind ebenfalls solide Optionen
+3. **Kaufe deinen Tarif** vor deiner Abreise und wähle die richtige Datenmenge für deine Reisedauer
+4. **Installiere die eSIM** mit den obigen Schritt-für-Schritt-Anweisungen5. **Aktiviere Daten-Roaming** – ernsthaft, vergiss das nicht
+6. **Teste vor der Abreise**, um eventuelle Probleme zu Hause zu erkennen
+7. **Speichere deinen QR-Code** als Screenshot und in der App des Anbieters
+8. **Notiere den Support-Kontakt deines Anbieters**, falls du nach der Landung Hilfe benötigst
 
-Der [China eSIM-Komplettleitfaden](/blog/china-esim-complete-guide/) dient als Säulen-Seite für alles andere und verknüpft alle China eSIM-Inhalte auf dieser Website.
+Der [China-eSIM-Komplettleitfaden](/blog/china-esim-complete-guide/) dient als zentrale Seite für alles andere und verknüpft alle zusammenhängenden eSIM-Inhalte auf dieser Website.
 
-Gute Reise und genießen Sie die Verbindung in China.
+Gute Reise und genieße es, in China verbunden zu sein.
+
 
 Siehe [Apple Support](https://support.apple.com/en-us/HT212780) für eSIM-kompatible Geräte. Die [GSMA](https://www.gsma.com) definiert globale eSIM-Standards.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Kann ich eine China eSIM neu installieren, wenn ich sie lösche?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ja, in den meisten Fällen. Ihr Tarif bleibt im System des Anbieters aktiv. Sie können ihn über die App des Anbieters oder durch erneutes Scannen des QR-Codes neu installieren."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Was ist, wenn ich mein Telefon auf die Werkseinstellungen zurücksetze?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ein Zurücksetzen auf die Werkseinstellungen löscht Ihr eSIM-Profil in den meisten Fällen nicht. Auf dem iPhone und Samsung bleibt das eSIM-Profil standardmäßig erhalten. Sie können es bei Verlust mit den üblichen Methoden neu installieren."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Kann ich einen China eSIM-Tarif aufladen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Das hängt vom Anbieter ab. Roami, Airalo, Nomad, Ubigi und Saily erlauben Aufladungen über ihre App. Holafly bietet keine Aufladungen an – bei Holafly müssen Sie einen neuen Tarif kaufen, wenn Ihre Daten aufgebraucht sind."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Was ist die günstigste eSIM für eine China-Reise?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Die günstigste Option hängt vom Datenvolumen ab. Für 1 GB ist Ubigi mit etwa 3,00 USD am günstigsten. Für 5 GB bietet Roami einen Tarif für etwa 11,00 USD. Für 10 GB ist Roami mit etwa 16,00 USD eine der günstigsten Optionen."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Funktioniert China eSIM mit VPN?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Bei einer internationalen Roaming-eSIM mit Routing über Hongkong oder Singapur benötigen Sie kein separates VPN. Bei einer direkten China-Carrier-eSIM ist ein separates VPN erforderlich. Anbieter wie Holafly und Saily haben VPN-Funktionalität integriert."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Kann ich mit einer China eSIM Sprachanrufe tätigen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Die meisten China-Reise-eSIMs sind reine Daten-eSIMs. Sie können keine Sprachanrufe über die eSIM-Nummer tätigen oder empfangen. Ihre Heim-SIM übernimmt weiterhin Anrufe und SMS. Für Anrufe benötigen Sie eine separate chinesische SIM-Karte oder eine VoIP-App."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Funktioniert meine Heim-SIM weiterhin?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ja, wenn Ihr Telefon Dual-SIM unterstützt. Sie können Ihre Heim-SIM für Anrufe und SMS aktiv halten, während die China eSIM für Daten verwendet wird. Legen Sie die China eSIM als Datenleitung und Ihre Heim-SIM als Sprachleitung fest."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Was ist, wenn meine eSIM nach der Ankunft nicht funktioniert?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Aktivieren Sie zuerst Datenroaming für die eSIM-Leitung. Wählen Sie dann manuell ein Netz (China Mobile). Prüfen Sie die APN-Einstellungen, starten Sie Ihr Telefon neu und schalten Sie den Flugmodus ein und aus. Wenn nichts hilft, kontaktieren Sie den Kundenservice Ihres Anbieters."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Kann ich eine Rückerstattung erhalten, wenn meine China eSIM nicht funktioniert?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Die Rückgaberichtlinien variieren je nach Anbieter. Roami bietet eine 30-tägige Geld-zurück-Garantie. Holafly erstattet ungenutzte Tarife innerhalb von 7 Tagen. Airalo, Nomad und Ubigi erstatten nur nicht installierte oder nicht aktivierte Tarife."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Sollte ich eine China eSIM oder eine physische SIM nehmen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Für die meisten Reisenden ist eine eSIM die bessere Wahl: Installation vor der Abreise, Firewall-Umgehung integriert, kein Risiko, SIM-Karten zu verlieren. Eine physische SIM ist sinnvoll, wenn Ihr Telefon kein eSIM unterstützt oder Sie eine chinesische Telefonnummer für Sprachanrufe benötigen."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Kann ich meine China eSIM als Hotspot nutzen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Das hängt vom Anbieter ab. Roami, Airalo, Nomad, Ubigi und Saily erlauben Hotspot/Tethering auf ihren China-Tarifen. Holafly blockiert Tethering auf seinen unbegrenzten Tarifen. Prüfen Sie die AGB Ihres Anbieters vor dem Kauf."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Wie viele Daten brauche ich für eine China-Reise?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Bei leichter Nutzung (Maps, WeChat) rechnen Sie mit 300-500 MB pro Tag. Bei mäßiger Nutzung mit Social Media etwa 500 MB bis 1 GB pro Tag. Bei starker Nutzung mit Videoanrufen und Streaming 1-2 GB pro Tag. Für eine Woche sind 5 GB für die meisten Nutzer ausreichend."
-      }
-    }
-  ]
-}
-</script>

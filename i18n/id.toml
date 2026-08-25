@@ -1,0 +1,586 @@
+# 通用按钮与标签
+[download_on_the]
+other = "Unduh di"
+
+[app_store]
+other = "App Store"
+
+[get_it_on]
+other = "Dapatkan di"
+
+[google_play]
+other = "Google Play"
+
+[visit_our]
+other = "Kunjungi"
+
+[official_website]
+other = "Situs Resmi"
+
+[view_plans]
+other = "Lihat Paket"
+
+[web]
+other = "Web"
+
+[android]
+other = "Android"
+
+[404_page_not_found]
+other = "404 – Halaman tidak ditemukan"
+
+[404_message]
+other = "Kami tidak dapat menemukan halaman yang Anda cari. Mungkin telah dipindahkan atau tidak lagi tersedia. Jangan khawatir — mari kita kembali ke perjalanan Anda."
+
+[404_back_home]
+other = "Kembali ke Beranda"
+
+[404_promo_title]
+other = "Penawaran Eksklusif untuk Anda"
+
+[404_promo_desc]
+other = "Diskon 20% untuk pembelian eSIM pertama Anda"
+
+[404_promo_code]
+other = "web20"
+
+[404_promo_cta]
+other = "Klaim Diskon Anda"
+
+[404_promo_note]
+other = "Tidak perlu registrasi. Berlaku untuk pengguna baru."
+
+# 弹窗相关
+[friendly_reminder]
+other = "Layanan Diperbarui"
+
+[modal_upgrade_desc]
+other = "Layanan kami telah ditingkatkan. Dapatkan kode promo: web20 di situs resmi atau aplikasi kami."
+
+[cancel]
+other = "Batal"
+
+[proceed]
+other = "Lanjutkan"
+
+# 悬浮按钮文本
+[get_esim_discount]
+other = "Dapatkan Diskon eSIM 20%"
+
+# FAQ 标题和描述
+[faq_title]
+other = "Pertanyaan yang Sering Diajukan"
+
+[faq_desc]
+other = "Semua yang perlu Anda ketahui tentang layanan eSIM global kami."
+
+# 以下是您原有但可能未使用的，保留不影响（可选）
+[modal_title_ios]
+other = "Layanan Diperbarui"
+
+[modal_text_ios]
+other = "Anda akan dialihkan ke aplikasi resmi untuk mendapatkan kode diskon."
+
+[tldr_summary_title]
+other = "Ringkasan Singkat untuk Wisatawan"
+
+[modal_cancel]
+other = "Batal"
+
+[modal_continue]
+other = "Lanjutkan"
+
+[global_connectivity_expert]
+other = "Ahli Konektivitas Global"
+
+[structured_data_org_description]
+other = "Penyedia Layanan eSIM Global Profesional yang menawarkan roaming data berkecepatan tinggi di 200 negara."
+
+[structured_data_product_description]
+other = "Paket eSIM perjalanan prabayar untuk 200+ negara dengan aktivasi instan dan internet berkecepatan tinggi 5G/4G."
+
+[structured_data_faq1_question]
+other = "Bagaimana cara membeli eSIM AS?"
+
+[structured_data_faq1_answer]
+other = "Untuk membeli eSIM AS, cukup unduh aplikasi Roami, pilih Amerika Serikat sebagai tujuan, pilih paket data yang sesuai dengan kebutuhan Anda, dan selesaikan pembelian. Aktivasi instan."
+
+[structured_data_faq2_question]
+other = "Bagaimana cara membeli eSIM Jepang secara online?"
+
+[structured_data_faq2_answer]
+other = "Membeli eSIM Jepang mudah dengan Roami. Cari Jepang di aplikasi kami, pilih paket data 5G/4G yang Anda inginkan, dan instal melalui kode QR atau aktivasi satu klik sebelum perjalanan Anda."
+
+[structured_data_faq3_question]
+other = "Bagaimana cara mendapatkan eSIM untuk Eropa, Inggris, atau Prancis?"
+
+[structured_data_faq3_answer]
+other = "Roami menawarkan eSIM regional Eropa serta paket lokal untuk Inggris, Prancis, Italia, Jerman, dan Spanyol. Cukup pilih tujuan Anda di aplikasi untuk terhubung secara instan tanpa biaya roaming."
+
+[structured_data_faq4_question]
+other = "Mengapa memilih Roami daripada Airalo, Nomad, Holafly, atau Ubigi?"
+
+[structured_data_faq4_answer]
+other = "Meskipun Airalo, Nomad eSIM, Holafly, Saily eSIM, Yesim, MobiMatter, dan GigSky adalah pilihan, Roami menawarkan harga yang sangat kompetitif mulai dari $1,99, dukungan manusia 24/7, dan kebijakan pengembalian dana tanpa khawatir untuk 200+ negara."
+
+[software_description]
+other = "Penyedia eSIM global untuk konektivitas perjalanan berkecepatan tinggi."
+
+[last_updated]
+other = "Terakhir Diperbarui"
+
+[select_language]
+other = "Pilih Bahasa"
+
+[language]
+other = "Bahasa"
+
+[close]
+other = "Tutup"
+
+[fifa_title_line1]
+other = "Konektivitas Tanpa Batas"
+
+[fifa_title_line2]
+other = "Piala Dunia FIFA 2026™"
+
+[fifa_desc]
+other = "eSIM perjalanan global yang memberdayakan perjalanan Anda di semua kota tuan rumah. Tetap terhubung, bagikan setiap momen."
+
+[fifa_guide_text]
+other = "✈️ Bepergian tanpa batas — dapatkan eSIM Anda sekarang"
+
+[fifa_card1_title]
+other = "Tanpa Roaming"
+
+[fifa_card1_desc]
+other = "Bayar tarif lokal"
+
+[fifa_card2_title]
+other = "Satu SIM, 3 Negara"
+
+[fifa_card2_desc]
+other = "AS · Kanada · Meksiko"
+
+[fifa_card3_title]
+other = "Aktivasi Instan"
+
+[fifa_card3_desc]
+other = "Siap sebelum terbang"
+
+[fifa_country_canada]
+other = "🇨🇦 Kanada"
+
+[fifa_country_mexico]
+other = "🇲🇽 Meksiko"
+
+[fifa_country_usa]
+other = "🇺🇸 AS"
+
+[fifa_5g]
+other = "⚡ Siap 5G"
+
+[fifa_button]
+other = "Dapatkan eSIM Piala Dunia"
+
+[premium_coverage]
+other = "Cakupan Premium"
+
+[regional_plans_title]
+other = "Paket Regional & Global"
+
+[regional_subtitle]
+other = "Bepergian melintasi banyak negara dengan satu eSIM — tanpa pergantian SIM, aktivasi instan, dan hemat 30% dibandingkan roaming."
+
+[faq_title2]
+other = "Pertanyaan yang Sering Diajukan tentang Kompatibilitas eSIM"
+
+[breadcrumb_home]
+other = "Beranda"
+
+[breadcrumb_blog]
+other = "Blog"
+
+[breadcrumb_separator]
+other = "/"
+
+[minutes_read]
+other = "menit baca"
+
+[table_of_contents]
+other = "📑 Daftar Isi"
+
+[you_might_also_like]
+other = "🔗 Anda mungkin juga menyukai"
+
+[popular_destinations]
+other = "Destinasi eSIM Populer"
+
+[promo_limited_offer]
+other = "🔥 Penawaran Terbatas 🔥"
+
+[promo_use_code]
+other = "Gunakan kode"
+
+[promo_checkout]
+other = "⭐ Masukkan kode saat checkout untuk klaim diskon ⭐"
+
+[promo_stats_text]
+other = "Bergabunglah dengan 1M+ wisatawan yang beralih ke Roami. 5G di {{ .Countries }} negara. Paket mulai dari ${{ .Price }}. Aktivasi instan."
+
+[region_country_title]
+other = "eSIM {{ .RegionName }} berfungsi di {{ .TotalCountries }} negara"
+
+[coverage_stats_text]
+other = """
+Satu eSIM terhubung secara otomatis ke jaringan lokal terkuat di setiap negara. 
+<strong class="text-orange-600">{{ .FiveGCount }} negara memiliki 5G</strong>, 
+{{ .FourGCount }} memiliki 4G/LTE yang andal. 
+Ketuk negara mana pun untuk panduan pengaturan dan detail operator.
+"""
+
+[powered_by_operators]
+other = "Didukung oleh operator seluler terbesar {{ .RegionName }}"
+
+[auto_switch_carriers]
+other = """
+eSIM Roami Anda beralih secara otomatis antara <strong class="text-orange-600">{{ .CarrierCount }}+ operator</strong> untuk sinyal terbaik.
+"""
+
+[network_partners_label]
+other = "Mitra Jaringan"
+
+[premium_carrier_partners_title]
+other = "{{ .Count }}+ Mitra Operator Premium"
+
+[network_partners_description]
+other = "eSIM Roami Anda terhubung ke jaringan lokal terbaik secara otomatis. Tidak perlu peralihan manual."
+
+[esim_auto_connect]
+other = "Salah satu operator terbesar {{ .HQ }}. eSIM Anda terhubung secara otomatis{{ .CountriesSuffix }}."
+
+[carrier_roaming_title]
+other = "Roaming Operator Anda"
+
+[carrier_roaming_badge]
+other = "Biaya Tersembunyi"
+
+[carrier_roaming_estimate]
+other = "diperkirakan untuk perjalanan 2 minggu"
+
+[roami_title]
+other = "eSIM Roami {{ .RegionName }}"
+
+[roami_badge]
+other = "Nilai Terbaik"
+
+[roami_price_label]
+other = "Mulai $1,99"
+
+[roami_plan_description]
+other = "paket prabayar mulai dari $5 untuk perjalanan penuh"
+
+[esim_vs_carrier_roaming]
+other = "eSIM {{ .RegionName }} vs. roaming operator"
+
+[heading_beyond_region]
+other = "Menuju ke luar {{ .RegionName }}?"
+
+[try_free_button]
+other = "Coba eSIM Gratis"
+
+[regionQuestionsTitle]
+other = "eSIM {{ .RegionName }}: pertanyaan yang ditanyakan wisatawan"
+
+[stats]
+countries = "Negara"
+carriers = "Operator"
+coverage_5g = "Cakupan 5G"
+
+[home]
+other = "Beranda"
+
+[carriers]
+other = "Operator eSIM"
+
+[banner_official]
+other = "Resmi"
+
+[banner_discount_desc]
+other = "Diskon 20% Data Global"
+
+[banner_rating]
+other = "4,8 (2,1k ulasan)"
+
+[banner_cta]
+other = "Dapatkan Sekarang"
+
+[discount_title]
+other = "Penawaran Terbatas"
+
+[discount_code_label]
+other = "Kode Promo"
+
+[discount_new_user]
+other = "Diskon 20% untuk Pengguna Baru"
+
+[discount_today]
+other = "Diklaim Hari Ini"
+
+[discount_today_num]
+other = "500 - 1000"
+
+[discount_remaining]
+other = "Sisa"
+
+[discount_remaining_num]
+other = "5 - 10"
+
+[discount_cancel]
+other = "Batal"
+
+[discount_claim]
+other = "Klaim Sekarang"
+
+[vp_5g_badge]
+other = "5G"
+
+[vp_same]
+other = "Sama"
+
+[vp_network]
+other = "Jaringan 5G"
+
+[vp_compare]
+other = ", hingga"
+
+[vp_cheaper]
+other = "lebih murah daripada eSIM lainnya"
+
+[vp_percent]
+other = "30%"
+
+[vp_save_tag]
+other = "🔥 Hemat Lebih"
+
+[compare_title]
+other = "Perbandingan eSIM Gratis: Roami vs Airalo vs Holafly – Siapa yang Menawarkan Uji Coba Gratis Terbaik?"
+
+[compare_subtitle]
+other = "Perbandingan jujur — lihat mengapa wisatawan memilih Roami untuk uji coba eSIM gratis mereka"
+
+[compare_col_feature]
+other = "Fitur"
+
+[compare_col_roami]
+other = "Roami"
+
+[compare_col_airalo]
+other = "Airalo"
+
+[compare_col_holafly]
+other = "Holafly"
+
+[compare_row_trial]
+other = "Uji Coba Gratis"
+
+[compare_roami_trial]
+other = "✅ 100MB"
+
+[compare_airalo_trial]
+other = "❌"
+
+[compare_holafly_trial]
+other = "❌"
+
+[compare_row_card]
+other = "Kartu Kredit Diperlukan"
+
+[compare_roami_card]
+other = "✅ Tidak"
+
+[compare_airalo_card]
+other = "Ya"
+
+[compare_holafly_card]
+other = "Ya"
+
+[compare_row_coverage]
+other = "Cakupan"
+
+[compare_roami_coverage]
+other = "200+ negara"
+
+[compare_airalo_coverage]
+other = "200+ negara"
+
+[compare_holafly_coverage]
+other = "200+ negara"
+
+[compare_row_paid]
+other = "Paket Berbayar mulai dari"
+
+[compare_roami_paid]
+other = "$1,99"
+
+[compare_airalo_paid]
+other = "$4,50"
+
+[compare_holafly_paid]
+other = "$5,90"
+
+[compare_row_support]
+other = "Dukungan Langsung"
+
+[compare_roami_support]
+other = "✅ 24/7"
+
+[compare_airalo_support]
+other = "—"
+
+[compare_holafly_support]
+other = "✅ 24/7"
+
+[brand_reminder]
+other = "Merek eSIM kami adalah roami, bukan roamic. Harap perhatikan."
+
+[roami_free_section_title]
+other = "Uji Coba Gratis Roami"
+
+[roami_free_section_heading]
+other = "Uji Coba eSIM Gratis – 7 Hari / 100MB, Tanpa Kartu Kredit"
+
+[roami_free_section_desc]
+other = "Paket data darurat ringan yang dirancang untuk wisatawan. Aktifkan saat kedatangan, <strong>tidak diperlukan informasi pembayaran</strong>, dan tidak ada jebakan perpanjangan tersembunyi."
+
+[roami_compare_col_feature]
+other = "Fitur"
+
+[roami_compare_col_roami]
+other = "Roami"
+
+[roami_compare_col_att]
+other = "AT&T"
+
+[roami_compare_col_tmobile]
+other = "T‑Mobile"
+
+[roami_compare_col_verizon]
+other = "Verizon"
+
+[roami_compare_row_trial]
+other = "Uji Coba Gratis"
+
+[roami_compare_row_card]
+other = "Kartu Kredit Diperlukan"
+
+[roami_compare_row_auto]
+other = "Perpanjangan Otomatis"
+
+[roami_compare_row_coverage]
+other = "Negara Cakupan"
+
+[roami_compare_row_support]
+other = "Dukungan 24/7"
+
+[roami_compare_roami_trial]
+other = "7 hari / 100MB"
+
+[roami_compare_roami_card]
+other = "❌ Tidak diperlukan"
+
+[roami_compare_roami_auto]
+other = "❌ Tidak ada"
+
+[roami_compare_roami_coverage]
+other = "200+"
+
+[roami_compare_roami_support]
+other = "✅ Dukungan online"
+
+[roami_compare_att_trial]
+other = "Memerlukan kartu kredit"
+
+[roami_compare_att_card]
+other = "✅ Harus memberikan"
+
+[roami_compare_att_auto]
+other = "✅ Otomatis ditagih setelah uji coba"
+
+[roami_compare_att_coverage]
+other = "Terbatas (AS saja)"
+
+[roami_compare_att_support]
+other = "❌ Terbatas"
+
+[roami_compare_tmobile_trial]
+other = "Memerlukan kartu kredit"
+
+[roami_compare_tmobile_card]
+other = "✅ Harus memberikan"
+
+[roami_compare_tmobile_auto]
+other = "✅ Otomatis ditagih setelah uji coba"
+
+[roami_compare_tmobile_coverage]
+other = "Terbatas (AS saja)"
+
+[roami_compare_tmobile_support]
+other = "❌ Terbatas"
+
+[roami_compare_verizon_trial]
+other = "Memerlukan kartu kredit"
+
+[roami_compare_verizon_card]
+other = "✅ Harus memberikan"
+
+[roami_compare_verizon_auto]
+other = "✅ Otomatis ditagih setelah uji coba"
+
+[roami_compare_verizon_coverage]
+other = "Terbatas (AS saja)"
+
+[roami_compare_verizon_support]
+other = "❌ Terbatas"
+
+[esim_free_trial]
+other = "uji coba eSIM gratis"
+
+# ===== 3步指南 =====
+[steps_title]
+other = "Cara Mendapatkan eSIM Gratis Anda dalam 3 Langkah Mudah"
+
+[steps_desc]
+other = "Tanpa kartu kredit, tanpa komitmen – hanya kode QR eSIM gratis untuk mulai menguji secara instan."
+
+[step1_title]
+other = "Pilih Negara Anda"
+
+[step1_desc]
+other = "Pilih tujuan Anda dari daftar di bawah – kami menawarkan uji coba eSIM gratis untuk 200+ negara."
+
+[step2_title]
+other = "Klaim Uji Coba Gratis Anda"
+
+[step2_desc]
+other = "Klik \"Klaim Uji Coba Gratis\" – tidak perlu kartu kredit. Kami akan segera mengirimkan kode QR eSIM gratis Anda."
+
+[step3_title]
+other = "Pindai & Hubungkan"
+
+[step3_desc]
+other = "Pindai kode QR dengan kamera ponsel Anda, ikuti pengaturan, dan nikmati 100MB data gratis."
+
+# ===== Why Roami 区块 =====
+[why_title]
+other = "Mengapa Roami adalah Penyedia eSIM Gratis Terbaik di tahun 2026"
+
+[why_p1]
+other = """
+Saat mencari <strong>eSIM gratis</strong>, Anda menginginkan opsi yang andal, cepat, dan benar-benar gratis. Roami memberikan itu – dengan <strong>uji coba eSIM gratis</strong> yang mencakup <strong>100MB data</strong>, <strong>tanpa kartu kredit</strong>, dan cakupan di <strong>lebih dari 200 negara</strong>. Tidak seperti banyak pesaing, kami tidak mengunci Anda dalam langganan atau meminta detail pembayaran di muka.
+"""
+
+[why_p2]
+other = """
+<strong>Kode QR eSIM gratis</strong> kami dihasilkan secara instan dan dikirim ke email Anda, sehingga Anda dapat mengatur perangkat dalam hitungan menit. Baik Anda seorang pelancong sering atau hanya ingin menguji teknologi eSIM, Roami menawarkan <strong>pengalaman eSIM gratis terbaik</strong> dengan kecepatan 4G/5G, dukungan 24/7, dan harga transparan untuk paket berbayar jika Anda membutuhkan lebih banyak data.
+"""

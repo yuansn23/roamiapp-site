@@ -1,26 +1,26 @@
-﻿---
-title: "T-Mobile vs AT&T vs Verizon: USA eSIM-Tarife"
-description: "T-Mobile, AT&T, Verizon: Prepaid-eSIM-Vergleich mit Preisen und Netzabdeckung für Touristen. Roami bietet automatischen Netzwechsel."
+---
+title: "T-Mobile vs AT&T vs Verizon eSIM: Bester Vergleich"
+description: "Prepaid-eSIM-Tarife von T-Mobile, AT&T und Verizon: Preise und Abdeckung im Vergleich – Roami mit automatischem Netzwechsel."
 keywords: ["T-Mobile vs AT&T vs Verizon eSIM", "USA Prepaid eSIM Tarife", "T-Mobile Touristen eSIM", "AT&T Prepaid eSIM Bewertung", "Verizon eSIM für Reisende"]
-date: 2026-08-11T00:00:00Z
-lastmod: 2026-08-11T00:00:00Z
+date: 2026-08-24T00:00:00Z
+lastmod: 2026-08-24T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami hilft Reisenden, mit einfachen eSIM-Tarifen in Verbindung zu bleiben."
-image: "/img/blog/usa/usa-esim-carrier-plans.jpg"
+authorBio: "Roami hilft Reisenden, mit einfachen eSIM-Tarifen verbunden zu bleiben."
+image: "/img/esim/usa/usa-esim-carrier-plans.jpg"
 categories: ["eSIM", "Reisen", "USA"]
 tags: ["USA eSIM"]
 readingTime: 15
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "T-Mobile vs AT&T vs Verizon eSIM: Die besten US-Carrier-Tarife für Reisende"
+h1title: "T-Mobile vs AT&T vs Verizon eSIM: Die besten US-Anbietertarife"
 
-# Titel der Seitenleisten-Module
+# Sidebar-Modultitel
 productsTitle: "Beliebte eSIM-Tarife"
 hotPostsTitle: "Top-Artikel"
 recentPostsTitle: "Neueste Beiträge"
 
-# Produkte in der rechten Seitenleiste (6 Elemente)
+# Rechte Sidebar Produkte (6 Einträge)
 products:
   - name: "USA eSIM"
     flag: "/img/flags/us.svg"
@@ -53,219 +53,228 @@ products:
     is_highlight: false
     slug: "hong-kong"
 
-# Neueste Beiträge (Seitenleiste)
+# Neueste Beiträge (Sidebar)
 recentPosts:
-  - title: "eSIM-Tiefen-Fehlerbehebungsleitfaden (16 echte Fälle)"
+  - title: "eSIM-Fehlerbehebung für Fortgeschrittene (16 reale Fälle)"
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
-  - title: "Plattformübergreifende eSIM-Übertragung"
+  - title: "2026 Plattformübergreifende eSIM-Übertragung"
     permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
     date: "2026-05-25"
   - title: "Dual-eSIM funktioniert nicht? 12 Lösungen für iPhone"
     permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
     date: "2026-05-24"
-  - title: "Smartwatch-eSIM-Kompatibilitätsliste (vollständig)"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
+  - title: "iPad & Apple Watch eSIM: Vollständiger Leitfaden"
+    permalink: "/faq/ipad-apple-watch-esim-support-guide/"
     date: "2026-05-23"
   - title: "iPhone SE eSIM-Kompatibilitätsleitfaden"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "iPhone 11 eSIM – Vollständiger Einrichtungsleitfaden"
+  - title: "iPhone 11 eSIM Einrichtungsleitfaden"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "Ultimativer Leitfaden: iPhone 17 eSIM-Aktivierungslösungen"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+  - title: "Ultimativer Leitfaden 2026: iPhone 16 eSIM-Aktivierungslösungen"
+    permalink: "/faq/2026-Ultimate-Guide-iPhone-16-eSIM-Activation-Solutions/"
     date: "2026-05-20"
 ---
+Für eine vollständige USA-eSIM-Übersicht siehe den [vollständigen USA-eSIM-Leitfaden](/blog/usa-esim-complete-guide/).
 
-T-Mobile, AT&T und Verizon dominieren den US-Mobilfunkmarkt mit jeweils unterschiedlichen Stärken: T-Mobile bietet die schnellsten 5G-Geschwindigkeiten in Städten (über 300 Mbit/s), AT&T deckt Vororte und Autobahnen am ausgewogensten ab, und Verizon erreicht als einziges Netz 94 % der ländlichen Fläche. Dieser Vergleich analysiert die Prepaid-eSIM-Tarife aller drei Carrier für Touristen — mit konkreten Preisen, Netzabdeckung und Empfehlungen je nach Reiseroute.
+Beim Vergleich von USA-Prepaid-eSIM-Tarifen decken T-Mobile, AT&T und Verizon die überwiegende Mehrheit der Amerikaner mit 4G LTE ab, wobei Verizon in ländlichen Gebieten dominiert. Für Touristen hängt die Wahl zwischen einer anbieterbasierten eSIM und einem internationalen Anbieter von der Reiseroute, dem Datenbedarf und dem Budget ab.
 
-Beim Vergleich von Prepaid-eSIM-Tarifen in den USA deckt T-Mobile 99 % der Amerikaner mit 4G LTE ab, AT&T 95 % und Verizon 92 %, dominiert aber ländliche Gebiete. Für Touristen hängt die Wahl zwischen einer carrier-basierten eSIM und einem internationalen Anbieter von Reiseroute, Datenbedarf und Budget ab.
+Diese Anbietertarife haben zwei Vorteile, die internationale Anbieter nicht bieten können: native Netzwerkpriorität und physische Filialunterstützung. Der Nachteil sind höhere Kosten pro GB und ein aufwändigerer Einrichtungsprozess.
 
-Diese Carrier-Tarife haben zwei Vorteile, die internationale Anbieter nicht bieten können: native Netzwerkpriorität und physische Store-Unterstützung. Der Nachteil sind höhere Kosten pro GB und ein aufwändigerer Einrichtungsprozess.
+Dieser Leitfaden vergleicht die Prepaid-eSIM-Optionen aller drei Anbieter, erklärt, wann sie sich gegenüber internationalen Anbietern lohnen, und führt durch die erforderlichen Schritte zur Anmeldung. Die [GSMA](https://www.gsma.com/esim/) stellt den technischen Rahmen bereit, der eSIMs über Anbieternetze hinweg funktionsfähig macht. Für einen breiteren Vergleich, der auch internationale Anbieter einschließt, deckt der [USA-eSIM-Anbietervergleich](/blog/usa-esim-provider-comparison/) beide Kategorien nebeneinander ab.
 
-Dieser Leitfaden vergleicht die Prepaid-eSIM-Optionen aller drei Carrier, erklärt, wann sie sich lohnen, und führt durch die erforderlichen Schritte zur Anmeldung. Eine **eSIM USA T-Mobile AT&T Verizon** bietet Ihnen Zugang zu den drei großen Netzen des Landes, je nachdem, welcher Carrier an Ihrem Standort das beste Signal liefert. Die [GSMA](https://www.gsma.com/esim/) liefert den technischen Rahmen, der eSIMs über Carriernetzwerke hinweg ermöglicht. Für einen breiteren Vergleich, der auch internationale Anbieter einschließt, siehe den [USA eSIM-Anbietervergleich](/blog/usa-esim-provider-comparison/).
+Wenn Sie einen längeren Aufenthalt planen oder eine US-Telefonnummer ohne den Anbieteraufschlag wünschen, bieten MVNOs wie Tello, Mint Mobile und Ultra Mobile günstigere Alternativen, die weiter unten behandelt werden.
 
-Wenn Sie länger bleiben oder eine US-Telefonnummer ohne den Carrier-Aufschlag möchten, bieten MVNOs wie Tello, Mint Mobile und Ultra Mobile günstigere Alternativen – wir gehen auch darauf ein.
-
-Wenn Sie eine einfachere Einrichtung ohne ID-Überprüfung oder Store-Besuche bevorzugen, kann eine reine Daten-[USA eSIM](/united-states-esim/) in wenigen Minuten installiert werden und funktioniert parallel zu Ihrer Heim-SIM – eine Alternative, die Sie in Betracht ziehen sollten, bevor Sie sich für einen Carrier-Tarif entscheiden.
+Wenn Sie eine einfachere Einrichtung ohne Ausweisprüfung oder Ladenbesuche bevorzugen, kann eine reine Daten-[USA-Daten-eSIM](/united-states-esim/) in wenigen Minuten installiert werden und funktioniert parallel zu Ihrer Heim-SIM — eine Alternative, die es zu erwägen gilt, bevor Sie sich für einen Anbieter-Datentarif entscheiden.
 
 ---
 
-## Kurzvergleich: Prepaid-eSIM-Tarife der Carrier
+## Kurzvergleich: Prepaid-eSIM-Tarife der Anbieter
 
-| Carrier | 7-Tage-Preis | 15-Tage-Preis | 30-Tage-Preis | US-Nummer | Hotspot |
+> **Die wichtigsten Erkenntnisse:** Kein einzelnes Netz gewinnt überall — T-Mobile Prepaid bietet das schnellste 5G in Städten (ab 5GB für $10), AT&T Prepaid ist die sicherste Wahl für ausgewogene und ländliche Abdeckung (30GB für $30), und Verizon Prepaid erreicht die abgelegensten Gebiete (5GB für $12). Für eine preisgünstige US-Nummer beginnt der MVNO Tello bei 5GB für $10, während Twise das AT&T-Netz für $14 für 5GB anbietet. Anbietertarife kosten mehr pro GB und erfordern eine Ausweisprüfung sowie einen längeren Einrichtungsvorgang als internationale eSIMs. Der wichtigste Vorbehalt ist, dass alle drei Anbieter Prepaid-Daten bei Überlastung herabstufen, was in belebten Stadtzentren zu langsameren Geschwindigkeiten führen kann.
+
+| Anbieter | 7-Tage-Preis | 15-Tage-Preis | 30-Tage-Preis | US-Nummer | Hotspot |
 |:--------|:----------:|:-----------:|:-----------:|:---------:|:-------:|
 | T-Mobile | 5GB/$10 | 15GB/$15 | 30GB/$25 | Ja | Inklusive |
 | AT&T | 5GB/$10 | 15GB/$15 | 30GB/$30 | Ja | Inklusive |
 | Verizon | 5GB/$12 | 15GB/$18 | 25GB/$30 | Ja | Inklusive |
-| Tello | N/A | N/A | 5GB/$15 | Ja | Inklusive |
+| Tello | N/A | N/A | 5GB/$10 | Ja | Inklusive |
 | Mint Mobile | N/A | N/A | 5GB/$15 | Ja | Inklusive |
 | Ultra Mobile | N/A | N/A | 10GB/$20 | Ja | Inklusive |
 | Twise | N/A | N/A | 5GB/$14 | Nein | Inklusive |
 | BazTel | N/A | N/A | 5GB/$12 | Nein | Inklusive |
 
-Alle Carrier beinhalten eine echte US-Telefonnummer (außer Twise und BazTel), 5G-Zugang (sofern verfügbar) und die Möglichkeit, in eine physische Filiale zu gehen, um Hilfe zu erhalten.
+Alle Anbieter beinhalten eine echte US-Telefonnummer (außer Twise und BazTel), 5G-Zugang (wo verfügbar) und die Möglichkeit, zur Hilfe eine physische Filiale aufzusuchen.
 
-**5G-Geschwindigkeitsvergleich der Carrier-Prepaid-Tarife**
-Ein **USA eSIM 5G Netz** liefert in den meisten Großstädten beeindruckende Geschwindigkeiten, wobei die tatsächliche Leistung jedoch stark vom jeweiligen Carrier abhängt. Während alle drei Carrier 5G in ihren Prepaid-Tarifen anbieten, variieren die tatsächlichen Geschwindigkeiten erheblich. Nachfolgend die medianen 5G-Download-Geschwindigkeiten basierend auf dem [OpenSignal US Mobile Network Experience Report](https://www.opensignal.com/reports) und dem [Ookla Speedtest Global Index](https://www.speedtest.net/global-index):
+### 5G-Geschwindigkeitsvergleich der Prepaid-Tarife der Anbieter
 
-| Carrier | Medianer 5G-Download | Spitzen-5G-Download | Medianer 5G-Upload | 5G-Verfügbarkeit |
-|:--------|:------------------:|:-----------------:|:----------------:|:---------------:|
-| T-Mobile | 187 Mbit/s | 412 Mbit/s | 24 Mbit/s | 62 % der Zeit |
-| AT&T | 98 Mbit/s | 235 Mbit/s | 14 Mbit/s | 38 % der Zeit |
-| Verizon | 112 Mbit/s | 298 Mbit/s | 16 Mbit/s | 35 % der Zeit |
+Obwohl alle drei Anbieter 5G in ihren Prepaid-Tarifen enthalten, variieren die tatsächlichen Geschwindigkeiten und die Verfügbarkeit erheblich. So schneiden die drei Anbieter ab:
 
-**Wichtige Erkenntnis:** T-Mobile führt sowohl bei der Geschwindigkeit als auch bei der 5G-Verfügbarkeit mit deutlichem Abstand. Die Geschwindigkeit ist jedoch nur ein Faktor – die Abdeckung ist in ländlichen Gebieten wichtiger, wo 5G möglicherweise gar nicht verfügbar ist. Laut [OpenSignal](https://www.opensignal.com/reports) erleben T-Mobile-Prepaid-Nutzer dieselben 5G-Geschwindigkeiten wie T-Mobile-Postpaid-Nutzer, während AT&T- und Verizon-Prepaid-Nutzer bei Netzüberlastung gedrosselt werden können.
+| Anbieter | 5G-Geschwindigkeit | 5G-Verfügbarkeit |
+|:--------|:--------:|:---------------:|
+| T-Mobile | Am schnellsten | Am höchsten |
+| AT&T | Mäßig | Mäßig |
+| Verizon | Schnell | Variiert je nach Region |
 
-**Vergleich der Prepaid-Tarif-Funktionen**
-Neben Preis und Datenvolumen hier ein Vergleich der für Reisende wichtigen Funktionen:
+**Wichtige Erkenntnis:** T-Mobile führt sowohl bei der Geschwindigkeit als auch bei der 5G-Verfügbarkeit mit deutlichem Abstand. Die Geschwindigkeit ist jedoch nur ein Faktor — die Abdeckung ist in ländlichen Gebieten wichtiger, wo 5G möglicherweise überhaupt nicht verfügbar ist. T-Mobile-Prepaid-Nutzer erleben im Allgemeinen die gleichen 5G-Geschwindigkeiten wie T-Mobile-Postpaid-Nutzer, während AT&T- und Verizon-Prepaid-Nutzer bei Netzüberlastung mit einer Herabstufung rechnen müssen.
+
+### Vergleich der Prepaid-Tariffunktionen
+
+Über den Preis und das Datenvolumen hinaus zeigen die folgenden Tabellen, wie sich die Prepaid-Tarife der Anbieter in Bezug auf für Reisende wichtige Funktionen unterscheiden:
 
 | Funktion | T-Mobile Prepaid | AT&T Prepaid | Verizon Prepaid |
 |:--------|:----------------:|:------------:|:---------------:|
-| 5G-Zugang | Volle Geschwindigkeit | Drosselung nach 50 GB | Drosselung nach 25 GB |
-| Hotspot-Daten | Wie Tarif-Daten | Wie Tarif-Daten | Wie Tarif-Daten |
-| Kanada/Mexiko-Roaming | Bei den meisten Tarifen inkl. | Bei den meisten Tarifen inkl. | Bei den meisten Tarifen inkl. |
+| 5G-Zugang | Volle Geschwindigkeit | Nach 50GB herabgestuft | Nach 25GB herabgestuft |
+| Hotspot-Daten | Wie Tarifdaten | Wie Tarifdaten | Wie Tarifdaten |
+| Kanada/Mexiko-Roaming | Bei den meisten Tarifen inklusive | Bei den meisten Tarifen inklusive | Bei den meisten Tarifen inklusive |
 | Internationales SMS | Inklusive | Inklusive | Inklusive |
 | Visuelle Voicemail | Ja | Ja | Ja |
-| WiFi-Calling | Ja | Ja | Ja |
+| WiFi Calling | Ja | Ja | Ja |
 | eSIM-Aktivierung | App-basiert | Webbasiert | App-basiert |
 | App zur Kontoverwaltung | T-Mobile Prepaid | myAT&T | My Verizon |
-| Rabatt bei automatischer Zahlung | Ja (5 $/Monat) | Ja (5 $/Monat) | Ja (5 $/Monat) |
+| Autopay-Rabatt | Ja ($5/Monat) | Ja ($5/Monat) | Ja ($5/Monat) |
 
-**Vergleich der eSIM-Aktivierungsgeschwindigkeit der Carrier**
-So lange braucht jeder Carrier, um Sie online zu bringen:
+### Vergleich der eSIM-Aktivierungsgeschwindigkeit der Anbieter
 
-| Carrier | App-Download | ID-Überprüfung | eSIM-Bereitstellung | Gesamtzeit |
+Wie lange jeder Anbieter benötigt, um Sie online zu bringen:
+
+| Anbieter | App-Download | Ausweisprüfung | eSIM-Bereitstellung | Gesamtzeit |
 |:--------|:------------:|:---------------:|:-------------:|:----------:|
-| T-Mobile | 1 Minute | 3–5 Minuten | Sofort | 4–6 Minuten |
-| AT&T | 2 Minuten | 5–8 Minuten | 1–5 Minuten | 8–15 Minuten |
-| Verizon | 2 Minuten | 5–8 Minuten | Sofort | 7–10 Minuten |
-| Tello (MVNO) | 1 Minute | 1–2 Minuten | Sofort | 2–3 Minuten |
+| T-Mobile | 1 Minute | 3-5 Minuten | Sofort | 4-6 Minuten |
+| AT&T | 2 Minuten | 5-8 Minuten | 1-5 Minuten | 8-15 Minuten |
+| Verizon | 2 Minuten | 5-8 Minuten | Sofort | 7-10 Minuten |
+| Tello (MVNO) | 1 Minute | 1-2 Minuten | Sofort | 2-3 Minuten |
 
-Die T-Mobile-Touristen-eSIM hat den schnellsten Aktivierungsprozess unter den drei großen Carriern. Alle Carrier-Aktivierungen dauern jedoch länger als bei internationalen eSIMs (die in unter 2 Minuten ohne ID-Überprüfung installiert werden können). Wenn die Einrichtungsgeschwindigkeit Ihre Priorität ist, sind eine internationale eSIM oder ein MVNO die bessere Wahl.
+Die T-Mobile-Touristen-eSIM hat den schnellsten Aktivierungsprozess unter den drei großen Anbietern. Alle Anbieteraktivierungen dauern jedoch länger als internationale eSIMs (die in unter 2 Minuten ohne Ausweisprüfung installiert werden können). Wenn die Geschwindigkeit der Einrichtung Ihre Priorität ist, ist eine internationale eSIM oder ein MVNO die bessere Wahl.
 
 ---
 
-## Welches US-Netz ist das beste – T-Mobile, AT&T oder Verizon für [usa esim](/united-states-esim/)?
+## Welches US-Netz ist am besten: T-Mobile, AT&T oder Verizon?
 
-| Netzwerk | Stadt-Geschwindigkeit | Ländliche Abdeckung | Prepaid-eSIM | Preis (Einstieg) | Am besten für |
+| Netzwerk | Stadtgeschwindigkeit | Ländliche Abdeckung | Prepaid-eSIM | Preis (Einstieg) | Am besten für |
 |:--------|:----------:|:--------------:|:-----------:|:------------:|:---------|
-| **T-Mobile** | Hervorragend | Unterdurchschnittlich | Ja | 10 $/Monat | Stadtbesucher |
-| **AT&T** | Sehr gut | Sehr gut | Ja | 10 $/Monat | Ausgewogene Abdeckung |
-| **Verizon** | Gut | Hervorragend | Ja | 12 $/Monat | Nationalparks & ländliche Gegenden |
+| **T-Mobile** | Hervorragend | Unterdurchschnittlich | Ja | $10/Monat | Städtereisende |
+| **AT&T** | Sehr gut | Sehr gut | Ja | $10/Monat | Ausgewogene Abdeckung |
+| **Verizon** | Gut | Hervorragend | Ja | $12/Monat | Nationalparks & ländliche Gebiete |
 
-Es gibt kein einziges "bestes" Netz – die richtige Wahl hängt ganz von Ihrer Reiseroute ab. Hier eine kurze Übersicht:
+Es gibt kein einziges "bestes" Netzwerk — die richtige Wahl hängt vollständig von Ihrer Reiseroute ab. Hier ist eine kurze Aufschlüsselung:
 
-**T-Mobile** punktet mit Geschwindigkeit in Städten. Download-Geschwindigkeiten in New York, LA und Chicago übersteigen auf 5G durchgängig 200 Mbit/s. Die Abdeckung außerhalb von Ballungsräumen fällt jedoch stark ab. Der aktuelle [OpenSignal-Bericht](https://www.opensignal.com/reports) bestätigt, dass T-Mobile bei der 5G-Verfügbarkeit führend ist, aber bei der ländlichen Reichweite zurückliegt. Prüfen Sie die [Abdeckungskarte von T-Mobile](https://www.t-mobile.com/coverage) für bestimmte Stadt- und Autobahnstrecken.
+**T-Mobile** gewinnt bei der Geschwindigkeit in Städten. Die Download-Geschwindigkeiten in New York, LA und Chicago sind auf 5G durchweg schnell. Aber die Abdeckung außerhalb städtischer Gebiete nimmt stark ab. T-Mobile führt bei der 5G-Verfügbarkeit, hinkt aber bei der ländlichen Reichweite hinterher. Sie können die [Abdeckungskarte von T-Mobile](https://www.t-mobile.com/coverage) für bestimmte Stadt- und Autobahnstrecken überprüfen.
 
-**AT&T** bietet die beste Balance. Es ist nicht das schnellste in Städten, aber es funktioniert fast überall – einschließlich Kleinstädten, Nationalparks und entlang von Autobahnen. Für einen Roadtrip, bei dem Sie nicht wissen, wo Sie landen werden, ist AT&T die sicherste Wahl. Siehe [AT&T-Abdeckungskarte](https://www.att.com/maps/wireless-coverage.html) für detaillierte ländliche Verfügbarkeit.
+**AT&T** bietet die beste Balance. Es ist nicht das schnellste in Städten, aber es funktioniert fast überall — einschließlich Kleinstädten, Nationalparks und entlang von Autobahnen. Für eine Roadtrip, bei dem Sie nicht wissen, wo Sie landen werden, ist AT&T die sicherste Wahl. Siehe [AT&Ts Abdeckungskarte](https://www.att.com/maps/wireless-coverage.html) für detaillierte ländliche Verfügbarkeit.
 
-**Verizon** hat die größte LTE-Reichweite in abgelegenen Gebieten. Wenn Ihre Reise in sehr ländliche Ziele führt – im Inneren Alaskas, in die Backcountry von Utah, in die Ebenen Montanas – ist Verizon oft der einzige Carrier, der dort empfangbar ist. Der Nachteil sind geringere Geschwindigkeiten in Städten.
+**Verizon** hat den größten LTE-Fußabdruck in abgelegenen Gebieten. Wenn Ihre Reise zu sehr ländlichen Zielen führt — im Landesinneren Alaskas, im Hinterland Utahs, in den Ebenen Montanas — ist Verizon oft der einzige Anbieter, der dort empfangen wird. Der Nachteil sind langsamere Geschwindigkeiten in Städten.
 
-**Netzleistung nach Bundesstaat und Region**
-Welcher Carrier am besten funktioniert, variiert je nach Reiseziel. Hier eine regionale Aufschlüsselung:
+### Netzleistung nach Bundesstaat und Region
 
-| Region | Bester Carrier | Zweiter | Anmerkungen |
+Welcher Anbieter am besten funktioniert, variiert je nachdem, wohin Sie reisen. Hier ist eine regionale Aufschlüsselung:
+
+| Region | Bester Anbieter | Zweitbester | Anmerkungen |
 |:-------|:------------|:----------|:------|
-| **Nordosten** (NY, MA, CT, PA) | T-Mobile | Verizon | Hervorragende Abdeckung von allen dreien |
-| **Mittlerer Westen** (IL, OH, MI, IN) | T-Mobile | AT&T | T-Mobile stark in Städten, AT&T ländlich |
+| **Nordosten** (NY, MA, CT, PA) | T-Mobile | Verizon | Hervorragende Abdeckung von allen drei |
+| **Mittlerer Westen** (IL, OH, MI, IN) | T-Mobile | AT&T | T-Mobile stark in Städten, AT&T im ländlichen Raum |
 | **Südosten** (FL, GA, NC, SC) | AT&T | T-Mobile | AT&T dominiert ländliche und Küstengebiete |
 | **Südwesten** (TX, AZ, NM) | AT&T | T-Mobile | AT&T am besten für Autobahnfahrten |
 | **Westküste** (CA, OR, WA) | T-Mobile | Verizon | T-Mobile am schnellsten in Küstenstädten |
-| **Rocky Mountains** (CO, UT, MT, WY) | Verizon | AT&T | Verizon erreicht abgelegene Berggebiete |
-| **Alaska** | Verizon | (keiner) | Nur Verizon deckt den Großteil des Staates ab |
-| **Hawaii** | T-Mobile | AT&T | Auf den Hauptinseln gute Abdeckung von allen |
+| **Mountain West** (CO, UT, MT, WY) | Verizon | AT&T | Verizon erreicht abgelegene Berggebiete |
+| **Alaska** | Verizon | (keiner) | Nur Verizon deckt den Großteil des Bundesstaates ab |
+| **Hawaii** | T-Mobile | AT&T | Gute Abdeckung von allen drei auf den Hauptinseln |
 
-**Für Reisende, die mehrere Regionen besuchen:** AT&T bietet das konsistenteste Erlebnis über das größte geografische Gebiet. Wenn Ihr Roadtrip sich über drei oder mehr Bundesstaaten erstreckt, ist AT&T Prepaid die sicherste Ein-Carrier-Wahl. Alternativ bietet eine [USA eSIM](/united-states-esim/) mit automatischem Netzwechsel die Verbindung zu dem Carrier, der an Ihrem aktuellen Ort das stärkste Signal hat.
+**Für Reisende, die mehrere Regionen besuchen:** AT&T bietet das beständigste Erlebnis im größten geografischen Gebiet. Wenn Ihr Roadtrip drei oder mehr Bundesstaaten umfasst, ist AT&T Prepaid die sicherste Wahl für einen einzelnen Anbieter. Alternativ verbindet sich eine [USA-eSIM](/united-states-esim/) mit automatischem Netzwechsel mit dem Anbieter, der an Ihrem aktuellen Standort das stärkste Signal hat.
 
-**Welcher Carrier hat das beste Prepaid-5G für Reisende?**
-| Carrier | 5G-Frequenzbänder | Reichweite | Geschwindigkeit | Am besten für |
+### Welcher Anbieter hat das beste Prepaid-5G für Reisende?
+
+| Anbieter | 5G-Frequenzbänder | Reichweite | Geschwindigkeit | Am besten für |
 |:--------|:------------------:|:----:|:----:|:---------|
-| T-Mobile | n41 (2,5 GHz), n71 (600 MHz) | Gute Reichweite, gute Geschwindigkeit | 150–400 Mbit/s | Städte, Vororte |
-| AT&T | n5 (850 MHz), n77 (3,7 GHz) | Hervorragende Reichweite, mäßige Geschwindigkeit | 50–150 Mbit/s | Ländlich, Autobahnen |
-| Verizon | n77 (3,7 GHz), mmWave (28/39 GHz) | Begrenzte Reichweite (mmWave), gut (n77) | 40–200 Mbit/s | Dichte Stadtbereiche |
+| T-Mobile | n41 (2,5 GHz), n71 (600 MHz) | Gute Reichweite, gute Geschwindigkeit | Schnell | Städte, Vororte |
+| AT&T | n5 (850 MHz), n77 (3,7 GHz) | Hervorragende Reichweite, mäßige Geschwindigkeit | Mäßig | Ländliche Gebiete, Autobahnen |
+| Verizon | n77 (3,7 GHz), mmWave (28/39 GHz) | Begrenzte Reichweite (mmWave), gut (n77) | Schnell | Dichte städtische Gebiete |
 
-T-Mobiles 5G nutzt das 600-MHz-Band (n71), das eine bessere Reichweite und Gebäudedurchdringung bietet als die höheren Frequenzbänder von AT&T und Verizon. Das bedeutet, dass T-Mobile-5G in Städten gut in Innenräumen funktioniert – nützlich im Hotel, Kongresszentrum oder Flughafen. Verizons mmWave-5G bietet extrem hohe Geschwindigkeiten (bis zu 1–4 Gbit/s), funktioniert aber nur in Sichtlinie zu einem mmWave-Sendemast, was den praktischen Wert für Reisende einschränkt.
+T-Mobiles 5G nutzt das 600-MHz-Band (n71), das eine bessere Reichweite und Gebäudedurchdringung bietet als die von AT&T und Verizon verwendeten höherfrequenten Bänder. Das bedeutet, dass T-Mobiles 5G in Städten gut in Innenräumen funktioniert — nützlich, wenn Sie sich in einem Hotel, Kongresszentrum oder Flughafen befinden. Verizons mmWave-5G bietet extrem schnelle Geschwindigkeiten, funktioniert aber nur in Sichtlinie zu einem mmWave-Sendemast, was den praktischen Wert für Reisende einschränkt.
 
 ---
 
 ## T-Mobile Prepaid eSIM
 
-[Ooklas Speedtest Global Index](https://www.speedtest.net/global-index) bestätigt, dass T-Mobile der schnellste US-Carrier für 5G-Download-Geschwindigkeiten ist. Die T-Mobile-Touristen-eSIM-Tarife sind wettbewerbsfähig bepreist und enthalten eine US-Nummer.
+T-Mobile ist weithin als der schnellste US-Anbieter für 5G-Download-Geschwindigkeiten bekannt. Die T-Mobile-Touristen-eSIM-Tarife sind wettbewerbsfähig bepreist und enthalten eine US-Nummer.
 
-**Tarife:**
+### Tarife:
 | Daten | Gültigkeit | Preis |
 |:----|:---------|:-----|
-| 5 GB | 7 Tage | 10,00 $ |
-| 15 GB | 15 Tage | 15,00 $ |
-| 30 GB | 30 Tage | 25,00 $ |
-| 50 GB | 30 Tage | 35,00 $ |
+| 5 GB | 7 Tage | $10.00 |
+| 15 GB | 15 Tage | $15.00 |
+| 30 GB | 30 Tage | $25.00 |
+| 50 GB | 30 Tage | $35.00 |
 
-**Einrichtung:** Laden Sie die T-Mobile-Prepaid-App herunter, wählen Sie einen Tarif und schließen Sie die ID-Überprüfung mit Ihrem Reisepass ab. Die eSIM wird automatisch installiert.
+**Einrichtung:** Laden Sie die T-Mobile-Prepaid-App herunter, wählen Sie einen Tarif und führen Sie die Ausweisprüfung mit Ihrem Reisepass durch. Die eSIM wird automatisch installiert.
 
-**Stärken:** Schnellste 5G-Geschwindigkeiten in Städten. Bundesweite Filialen. US-Telefonnummer.
+**Stärken:** Schnellste 5G-Geschwindigkeiten in Städten. Physische Filialen landesweit. US-Telefonnummer.
 
-**Schwächen:** Teurer pro GB als internationale Anbieter. T-Mobile-Abdeckung fällt in ländlichen Gebieten ab. Die Einrichtung erfordert App-Download und Kontoerstellung.
+**Schwächen:** Teurer pro GB als internationale Anbieter. Die T-Mobile-Abdeckung fällt in ländlichen Gebieten ab. Die Einrichtung erfordert das Herunterladen einer App und die Erstellung eines Kontos.
 
-**Am besten für:** Stadtbesucher, die die höchstmögliche Geschwindigkeit wünschen und Wert auf eine Filiale für Support legen.
+**Am besten für:** Städtereisende, die die schnellstmöglichen Geschwindigkeiten wünschen und Wert darauf legen, für Support eine Filiale aufsuchen zu können.
 
-**T-Mobile Prepaid – Abdeckungsdetails**
-Das Netz von T-Mobile deckt etwa 330 Millionen Menschen in den USA ab (99 % der Bevölkerung) mit 4G LTE. Allerdings unterscheiden sich „Bevölkerungsabdeckung“ und „geografische Abdeckung“:
+### Details zur T-Mobile Prepaid-Abdeckung
+
+Das T-Mobile-Netz deckt die überwiegende Mehrheit der US-Bevölkerung mit 4G LTE ab. "Bevölkerungsabdeckung" und "geografische Abdeckung" sind jedoch unterschiedliche Kennzahlen:
 
 | Abdeckungstyp | T-Mobile | AT&T | Verizon |
 |:--------------|:--------:|:----:|:-------:|
-| Bevölkerungsabdeckung (4G) | 99 % | 95 % | 92 % |
-| Geografische Abdeckung (4G) | ~60 % | ~70 % | ~70 % |
-| 5G-Bevölkerungsabdeckung | 95 % | 70 % | 65 % |
-| Abdeckung entlang Interstate-Highways | Gut | Hervorragend | Hervorragend |
+| Bevölkerungsabdeckung (4G) | Größtenteils | Größtenteils | Größtenteils |
+| Geografische Abdeckung (4G) | Geringste | Hoch | Hoch |
+| 5G-Bevölkerungsabdeckung | Höchste | Hoch | Hoch |
+| Abdeckung auf Interstate-Highways | Gut | Hervorragend | Hervorragend |
 
-Das 5G-Netz von T-Mobile erreicht 95 % der US-Bevölkerung, aber nur etwa 60 % der Landesfläche. Das heißt, während die meisten Menschen dort, wo sie wohnen und arbeiten, versorgt sind, werden Reisende auf Fahrten zwischen Städten auf T-Mobile mehr Funklöcher erleben als auf AT&T oder Verizon.
+T-Mobiles 5G-Netz erreicht den Großteil der US-Bevölkerung, deckt aber einen kleineren Teil der Landfläche des Landes ab. Das bedeutet, dass die meisten Menschen dort, wo sie leben und arbeiten, abgedeckt sind, aber Reisende, die zwischen Städten fahren, auf T-Mobile mehr Funklöcher erleben werden als auf AT&T oder Verizon.
 
-**T-Mobile Prepaid eSIM für internationale Besucher**
-T-Mobile bietet spezielle "International Visitor"-Tarife für Nicht-US-Bürger an:
+### T-Mobile Prepaid eSIM für internationale Besucher
 
-| Merkmal | Details |
+T-Mobile bietet spezielle "International Visitor"-Tarife an, die für Nicht-US-Bürger konzipiert sind:
+
+| Funktion | Details |
 |:--------|:--------|
-| Erforderlicher Ausweis | Reisepass (kein US-Führerschein) |
-| US-Adresse erforderlich? | Nein |
-| Ausländische Kreditkarte | Akzeptiert |
-| Tarifaktivierung | Über die T-Mobile-Prepaid-App |
-| Store-Support | Betreten Sie jede T-Mobile-Filiale |
-| Tarifaufladung | Über App oder vor Ort |
+| Erforderlicher Ausweis | Reisepass (nicht US-Führerschein) |
+| US-Adresse benötigt | Nein |
+| Ausländische Kreditkarte | Wird akzeptiert |
+| Tarifaktivierung | Über die T-Mobile Prepaid App |
+| Filialunterstützung | Betreten Sie eine beliebige T-Mobile-Filiale |
+| Tarifaufladung | Über App oder in der Filiale |
 
-T-Mobile ist von den drei großen Carriern am ausländertouristenfreundlichsten. Die Prepaid-App unterstützt mehrere Sprachen, und die International-Visitor-Tarife benötigen keine US-Rechnungsadresse. Das macht T-Mobile zum einfachsten Carrier für Touristen, die eine US-Telefonnummer mit Store-Support wünschen.
+T-Mobile ist von den drei großen Anbietern der ausländertouristenfreundlichste. Die Prepaid-App unterstützt mehrere Sprachen, und die International Visitor-Tarife erfordern keine US-Rechnungsadresse. Dies macht T-Mobile zum einfachsten Anbieter für Touristen, die eine US-Telefonnummer mit Filialunterstützung wünschen.
 
 ---
 
 ## AT&T Prepaid eSIM
 
-Diese AT&T-Prepaid-eSIM-Bewertung bestätigt, dass sie die beste ländliche Abdeckung aller US-Carrier bietet. Wenn Ihre Reise Nationalparks, Kleinstädte oder lange Autobahnfahrten umfasst, ist der AT&T-Prepaid-Tarif Ihre zuverlässigste native Carrier-Option.
+Diese AT&T Prepaid eSIM Bewertung bestätigt, dass sie die beste ländliche Abdeckung aller US-Anbieter hat. Wenn Ihre Reise Nationalparks, Kleinstädte oder lange Autobahnfahrten umfasst, ist der Prepaid-Tarif von AT&T Ihre zuverlässigste Option unter den nativen Anbietern.
 
-**Tarife:**
+### Tarife:
 | Daten | Gültigkeit | Preis |
 |:----|:---------|:-----|
-| 5 GB | 7 Tage | 10,00 $ |
-| 15 GB | 15 Tage | 15,00 $ |
-| 30 GB | 30 Tage | 30,00 $ |
+| 5 GB | 7 Tage | $10.00 |
+| 15 GB | 15 Tage | $15.00 |
+| 30 GB | 30 Tage | $30.00 |
 
-**Einrichtung:** Erfordert ID-Überprüfung (Reisepass-Upload) und Kontoerstellung. Mehr Schritte als bei internationalen eSIMs.
+**Einrichtung:** Erfordert eine Ausweisprüfung (Pass-Upload) und die Erstellung eines Kontos. Mehr Schritte als bei internationalen eSIMs.
 
-**Stärken:** Beste ländliche Abdeckung. US-Telefonnummer. Bundesweite Filialen.
+**Stärken:** Beste ländliche Abdeckung. US-Telefonnummer. Physische Filialen landesweit.
 
-**Schwächen:** Einrichtung dauert länger. Geschwindigkeiten sind in Städten langsamer als bei T-Mobile. Kein unbegrenzter Prepaid-Tarif.
+**Schwächen:** Die Einrichtung dauert länger. Die Geschwindigkeiten sind in Städten langsamer als bei T-Mobile. Keine unbegrenzte Prepaid-Option.
 
-**Am besten für:** Reisende im ländlichen Raum und Besucher von Nationalparks. Alle, die außerhalb von Stadtgrenzen zuverlässiges Signal benötigen.
+**Am besten für:** Reisende in ländliche Gebiete und Nationalparkbesucher. Jeder, der außerhalb der Stadtgrenzen ein zuverlässiges Signal benötigt.
 
-**AT&T Prepaid-Abdeckung in Nationalparks**
-Das AT&T-Netz erreicht mehr US-Nationalparks als jeder andere Carrier. Hier die Abdeckung in beliebten Parkzielen:
+### AT&T Prepaid-Abdeckung in Nationalparks
+
+Das AT&T-Netz erreicht mehr US-Nationalparks als jeder andere Anbieter. Hier ist die Abdeckung in beliebten Parkzielen:
 
 | Nationalpark | AT&T-Abdeckung | Verizon-Abdeckung | T-Mobile-Abdeckung |
 |:--------------|:-------------:|:---------------:|:-----------------:|
 | Great Smoky Mountains | Gut (Hauptstraßen) | Gut (Hauptstraßen) | Begrenzt |
 | Grand Canyon (South Rim) | Gut | Gut | Begrenzt |
-| Yellowstone | Gut (erschlossene Bereiche) | Gut (erschlossene Bereiche) | Spärlich |
-| Yosemite | Gut (Talbereich) | Gut (Talbereich) | Begrenzt |
+| Yellowstone | Gut (erschlossene Gebiete) | Gut (erschlossene Gebiete) | Spärlich |
+| Yosemite | Gut (Tal) | Gut (Tal) | Begrenzt |
 | Zion | Gut (Hauptschlucht) | Gut (Hauptschlucht) | Spärlich |
 | Rocky Mountain | Gut (Ostseite) | Gut (Ostseite) | Begrenzt |
 | Grand Teton | Gut (Hauptstraße) | Gut (Hauptstraße) | Spärlich |
@@ -273,240 +282,253 @@ Das AT&T-Netz erreicht mehr US-Nationalparks als jeder andere Carrier. Hier die 
 | Glacier | Begrenzt (Westseite) | Begrenzt | Sehr begrenzt |
 | Arches | Gut (Besucherzentrum) | Gut (Besucherzentrum) | Spärlich |
 
-Für Roadtrips durch Nationalparks sind AT&T und Verizon die einzig zuverlässigen Optionen. Die Abdeckung von T-Mobile in den meisten Nationalparks beschränkt sich auf erschlossene Bereiche in der Nähe von Besucherzentren. Wenn Ihre Reiseroute mehrere Nationalparks umfasst, wird AT&T Prepaid oder eine [USA eSIM](/united-states-esim/) mit Roami-Multinetzzugang dringend empfohlen.
+Für Roadtrips durch Nationalparks sind AT&T und Verizon die einzigen zuverlässigen Optionen. Die Abdeckung von T-Mobile in den meisten Nationalparks ist auf erschlossene Gebiete in der Nähe von Besucherzentren beschränkt. Wenn Ihre Reiseroute mehrere Nationalparks umfasst, werden AT&T Prepaid oder eine [USA-eSIM](/united-states-esim/) mit Multi-Netzwerk-Zugang dringend empfohlen.
 
-**AT&T Prepaid-Tarif-Einschränkungen für Reisende**
+### Einschränkungen der AT&T Prepaid-Tarife für Reisende
+
 Die Prepaid-Tarife von AT&T haben spezifische Einschränkungen, die Reisende kennen sollten:
 
 | Einschränkung | Detail | Auswirkung auf Reisende |
 |:-----------|:-------|:-------------------|
-| Kein unbegrenzter Prepaid-Tarif | Harte Datengrenze bei allen Tarifen | Verbrauch überwachen |
-| Video-Streaming-Drosselung | Max. 1,5 Mbit/s (480p) | Betrifft YouTube, Netflix |
-| Hotspot = Tarifdaten | Kein separates Hotspot-Kontingent | Wie bei Mitbewerbern |
-| Kein internationales Telefonieren | Nur USA | Für Auslandsgespräche VoIP nutzen |
-| 30-Tage-Verfall der Daten | Daten verfallen | Ungenutzte Daten verloren |
+| Keine unbegrenzte Prepaid-Option | Feste Datenobergrenze bei allen Tarifen | Muss die Nutzung überwachen |
+| Drosselung von Video-Streaming | 480p-Video | Betrifft YouTube, Netflix |
+| Hotspot wie Tarifdaten | Kein separates Hotspot-Kontingent | Wie bei Mitbewerbern |
+| Keine internationalen Anrufe | Nur USA | Muss VoIP für internationale Anrufe nutzen |
+| 30-tägige Gültigkeit der Daten | Daten verfallen nicht | Verlieren ungenutzte Daten |
 
-Die 480p-Video-Drosselung bei AT&T-Prepaid-Tarifen ist eine nennenswerte Einschränkung für Reisende, die Videos auf dem Handy streamen. Dies gilt nicht für Videoanrufe (Zoom, FaceTime, Teams) – nur für Streaming-Dienste. Die Prepaid-Tarife von T-Mobile drosseln Video-Streaming nicht.
+Die 480p-Videodrosselung bei AT&T-Prepaid-Tarifen ist eine bemerkenswerte Einschränkung für Reisende, die Videos auf ihrem Telefon streamen. Dies gilt nicht für Videoanrufe (Zoom, FaceTime, Teams) — nur für Streaming-Videodienste. Die Prepaid-Tarife von T-Mobile drosseln das Video-Streaming nicht.
 
 ---
 
 ## Verizon Prepaid eSIM
 
-Die Verizon-eSIM für Reisende bietet die größte 4G-LTE-Fläche in den USA. Für sehr abgelegene Ziele – im Inneren Alaskas, in der Backcountry von Utah, in den Ebenen Montanas – ist Verizon oft der einzige Carrier, der funktioniert.
+Die Verizon-eSIM für Reisende bietet den größten 4G-LTE-Fußabdruck in den USA. Für sehr abgelegene Reiseziele — im Landesinneren Alaskas, im Hinterland Utahs, in den Ebenen Montanas — ist Verizon oft der einzige Anbieter, der funktioniert.
 
-**Tarife:**
+### Tarife:
 | Daten | Gültigkeit | Preis |
 |:----|:---------|:-----|
-| 5 GB | 7 Tage | 12,00 $ |
-| 15 GB | 15 Tage | 18,00 $ |
-| 25 GB | 30 Tage | 30,00 $ |
+| 5 GB | 7 Tage | $12.00 |
+| 15 GB | 15 Tage | $18.00 |
+| 25 GB | 30 Tage | $30.00 |
 
-**Stärken:** Größte LTE-Abdeckungsfläche. US-Telefonnummer. Physische Filialen.
+**Stärken:** Größter LTE-Abdeckungsfußabdruck. US-Telefonnummer. Physische Filialen.
 
-**Schwächen:** Am teuersten pro GB. Einrichtung erfordert mehr Schritte. 5G-Geschwindigkeiten außerhalb von Städten inkonsistent.
+**Schwächen:** Am teuersten pro GB. Die Einrichtung erfordert mehr Schritte. Die 5G-Geschwindigkeiten sind außerhalb der Städte uneinheitlich.
 
 **Am besten für:** Reisende, die sehr abgelegene Gebiete besuchen, in denen nur Verizon empfangbar ist.
 
-**Verizon Prepaid-Abdeckung in abgelegenen Zielen**
-Der Netzvorteil von Verizon zeigt sich am deutlichsten in abgelegenen und abseits gelegenen Destinationen:
+### Verizon Prepaid-Abdeckung an abgelegenen Zielen
+
+Der Abdeckungsvorteil von Verizon zeigt sich am deutlichsten in abgelegenen und weniger bekannten Reisezielen:
 
 | Abgelegenes Ziel | Verizon-Abdeckung | AT&T-Abdeckung | T-Mobile-Abdeckung |
 |:-------------------|:---------------:|:-------------:|:-----------------:|
 | Denali-Nationalpark (Alaska) | Begrenzt (Eingangsbereich) | Sehr begrenzt | Keine |
 | Death Valley (Kalifornien) | Gut (Hauptstraße) | Begrenzt | Keine |
-| Die Great Plains (ländliche Autobahnen) | Gut | Gut | Spärlich |
+| The Great Plains (ländliche Autobahnen) | Gut | Gut | Spärlich |
 | Outer Banks (North Carolina) | Gut | Gut | Begrenzt |
 | Big Bend (Texas) | Begrenzt | Sehr begrenzt | Keine |
 | Obere Halbinsel (Michigan) | Gut | Gut | Begrenzt |
 | Olympic-Halbinsel (Washington) | Gut | Gut | Begrenzt |
 
-Für Reisende, deren Route diese abgelegenen Gebiete einschließt, bietet Verizon Prepaid die beste Chance, verbunden zu bleiben. Selbst Verizon hat jedoch in den entlegensten Regionen Abdeckungslücken. Laden Sie Offline-Karten und Reiseinformationen herunter, bevor Sie in Gebiete mit eingeschränkter oder keiner Mobilfunkabdeckung fahren.
+Für Reisende, deren Reiseroute diese abgelegenen Gebiete umfasst, bietet Verizon Prepaid die besten Chancen, verbunden zu bleiben. Allerdings hat selbst Verizon in den entlegensten Regionen Abdeckungslücken. Laden Sie Offline-Karten und Reiseinformationen herunter, bevor Sie sich in Gebiete mit begrenzter oder keiner Mobilfunkabdeckung begeben.
 
-**Verizon Prepaid eSIM – Aktivierungsschritte für Touristen**
-Die Aktivierung einer Verizon-Prepaid-eSIM als Nicht-US-Bürger erfordert folgende Schritte:
+### Schritte zur Aktivierung der Verizon Prepaid eSIM für Touristen
 
-1. **Laden Sie die My Verizon App** aus dem App Store oder Google Play herunter.
-2. **Wählen Sie „Bring Your Own Phone“** während der Einrichtung.
-3. **Wählen Sie „Prepaid“** als Kontotyp.
-4. **Schließen Sie die ID-Überprüfung ab** – laden Sie ein klares Foto Ihres Reisepasses hoch.
-5. **Geben Sie Ihre aktuelle Adresse ein** – eine Hoteladresse ist akzeptabel.
-6. **Wählen und kaufen Sie Ihren Tarif** – 5GB/7d (12 $), 15GB/15d (18 $) oder 25GB/30d (30 $).
-7. **Installieren Sie das eSIM-Profil** – die App führt Sie durch die Installation.
-8. **Starten Sie Ihr iPhone oder Android-Gerät neu**, um die Aktivierung abzuschließen.
+Die Aktivierung einer Verizon Prepaid eSIM als Nicht-US-Bürger erfordert die folgenden Schritte:
 
-**Häufige Probleme bei der Verizon-Prepaid-eSIM-Aktivierung:**
-- Ausländische Kreditkarten können abgelehnt werden – versuchen Sie PayPal oder eine Prepaid-Visa-Karte.
-- Die ID-Überprüfung kann fehlschlagen, wenn das Reisepassfoto unscharf ist – verwenden Sie gutes Licht.
-- Bei einigen Android-Geräten ist nach der Installation eine manuelle APN-Konfiguration erforderlich (APN: `vzwinternet`).
+1. **Laden Sie die My Verizon App** aus dem App Store oder Google Play herunter
+2. **Wählen Sie "Eigenes Telefon mitbringen"** während der Einrichtung
+3. **Wählen Sie "Prepaid"** als Kontotyp
+4. **Führen Sie die Ausweisprüfung durch** — laden Sie ein klares Foto Ihres Reisepasses hoch
+5. **Geben Sie Ihre aktuelle Adresse ein** — eine Hoteladresse ist akzeptabel
+6. **Wählen Sie Ihren Tarif und kaufen Sie ihn** — 5GB/7d ($12), 15GB/15d ($18) oder 25GB/30d ($30)
+7. **Installieren Sie das eSIM-Profil** — die App führt Sie durch die Installation
+8. **Starten Sie Ihr iPhone oder Android-Gerät neu**, um die Aktivierung abzuschließen
+
+### Häufige Probleme bei der Verizon Prepaid eSIM-Aktivierung:
+- Ausländische Kreditkarten können abgelehnt werden — versuchen Sie PayPal oder eine Prepaid-Visa-Karte
+- Die Ausweisprüfung kann fehlschlagen, wenn das Passfoto unscharf ist — verwenden Sie gutes Licht
+- Einige Android-Telefone müssen nach der Installation möglicherweise manuell APN-konfiguriert werden (APN: `vzwinternet`)
 
 ---
 
-## Welche MVNO-Alternativen bieten günstigere Carrier-Netz-eSIMs?
+## MVNO-Alternativen: Günstigere eSIMs über Anbieternetze
 
-MVNOs (Mobile Virtual Network Operator) mieten Kapazitäten bei den großen drei Netzen und verkaufen sie günstiger. Sie sind eine gute Option, wenn Sie keinen physischen Store-Support benötigen.
+MVNOs (Mobile Virtual Network Operators) mieten Platz in den Netzen der großen Drei und verkaufen ihn günstiger. Sie sind eine gute Option, wenn Sie keine physische Filialunterstützung benötigen.
 
-**Tello [usa esim](/united-states-esim/) mit Telefonnummer – Bewertung**
-Tello nutzt das Netz von T-Mobile und ist einer der beliebtesten MVNOs für Reisende. Die Pay-as-you-go-Tarife sind einfach: Wählen Sie Datenmenge und Gültigkeitsdauer.
+### Tello mit Telefonnummer Bewertung
 
-**Tarife:**
+Tello nutzt das T-Mobile-Netz und ist einer der beliebtesten MVNOs für Reisende. Die Prepaid-Tarife sind einfach: Wählen Sie Ihr Datenvolumen und den Gültigkeitszeitraum.
+
+### Tarife:
 | Daten | Gültigkeit | Preis | US-Nummer |
 |:----|:---------|:-----:|:---------:|
-| 1 GB | 30 Tage | 7,00 $ | Ja |
-| 2 GB | 30 Tage | 10,00 $ | Ja |
-| 5 GB | 30 Tage | 15,00 $ | Ja |
-| 10 GB | 30 Tage | 22,00 $ | Ja |
-| 25 GB | 30 Tage | 35,00 $ | Ja |
+| 1 GB | 30 Tage | $5.00 | Ja |
+| 5 GB | 30 Tage | $10.00 | Ja |
+| 10 GB | 30 Tage | $15.00 | Ja |
+| 25 GB | 30 Tage | $25.00 | Ja |
+| Unbegrenzt | 30 Tage | $35.00 | Ja |
 
-**Tello USA eSIM mit Telefonnummer – Bewertung** – was Nutzer tatsächlich sagen: Der Einrichtungsprozess ist über die Tello-App unkompliziert. Die US-Nummer funktioniert für SMS und Anrufe. Die Datengeschwindigkeiten entsprechen der T-Mobile-Netzleistung. Der Hauptnachteil ist die ländliche Abdeckung, was die Netzlimits von T-Mobile widerspiegelt.
+**Tello US eSIM mit Telefonnummer Bewertung** — was Nutzer tatsächlich sagen: Der Einrichtungsprozess über die Tello-App ist unkompliziert. Die US-Nummer funktioniert für SMS und Anrufe. Die Datengeschwindigkeiten entsprechen der Netzleistung von T-Mobile. Der Hauptnachteil ist die Abdeckung in ländlichen Gebieten, was die Netzwerkbeschränkungen von T-Mobile widerspiegelt.
 
-**Am besten für:** Reisende, die eine US-Telefonnummer zu einem günstigen Preis wünschen. Längere Aufenthalte, bei denen Sie mehr Daten benötigen als ein Touristentarif bietet.
+**Am besten für:** Reisende, die eine US-Telefonnummer mit kleinem Budget wünschen. Längere Aufenthalte, bei denen Sie mehr Daten benötigen, als ein Touristentarif bietet.
 
-**Mint Mobile USA eSIM Touristentarif**
-Mint Mobile nutzt das T-Mobile-Netz und ist bekannt für aggressive Preise bei längeren Tarifen. Die Einschränkung: Sie müssen in 3-Monats-Blöcken kaufen, was sich nur bei längeren Aufenthalten lohnt.
+### Mint Mobile USA eSIM Touristentarif
 
-**Tarife:**
+Mint Mobile nutzt das T-Mobile-Netz und ist bekannt für seine aggressiven Preise bei längeren Tarifen. Der Haken: Sie müssen in 3-Monats-Blöcken kaufen, was nur bei längeren Aufenthalten sinnvoll ist.
+
+### Tarife:
 | Daten | Gültigkeit | Preis | US-Nummer |
 |:----|:---------|:-----:|:---------:|
-| 5 GB | 3 Monate | 45,00 $ | Ja |
-| 15 GB | 3 Monate | 60,00 $ | Ja |
-| 20 GB | 3 Monate | 75,00 $ | Ja |
+| 5 GB | 3 Monate | $45.00 | Ja |
+| 15 GB | 3 Monate | $60.00 | Ja |
+| 20 GB | 3 Monate | $75.00 | Ja |
 
-**Mint Mobile USA eSIM Touristentarif** ist am besten für Aufenthalte von 2–3 Monaten. Der monatliche Preis sinkt auf 15–25 $ und liegt damit unter den meisten Prepaid-Tarifen.
+**Mint Mobile USA eSIM Touristentarif** ist am besten für Aufenthalte von 2-3 Monaten geeignet. Die monatlichen Kosten sinken auf $15-25 und schlagen damit die meisten Prepaid-Tarife.
 
-**Am besten für:** Reisende, die 2–3 Monate bleiben, eine US-Nummer wünschen und keinen Sammelkauf scheuen.
+**Am besten für:** Reisende, die 2-3 Monate bleiben, eine US-Nummer wünschen und nichts gegen einen Großeinkauf haben.
 
-**Ultra Mobile eSIM USA Tourist**
-Ultra Mobile (ebenfalls im T-Mobile-Netz) bietet flexible Prepaid-Tarife mit US-Nummer und internationalen Telefonoptionen.
+### Ultra Mobile eSIM USA Tourist
 
-**Tarife:**
+Ultra Mobile (ebenfalls im T-Mobile-Netz) bietet flexible Prepaid-Tarife mit US-Nummern und internationalen Telefonoptionen.
+
+### Tarife:
 | Daten | Gültigkeit | Preis | US-Nummer |
 |:----|:---------|:-----:|:---------:|
-| 3 GB | 30 Tage | 15,00 $ | Ja |
-| 10 GB | 30 Tage | 20,00 $ | Ja |
-| 30 GB | 30 Tage | 30,00 $ | Ja |
+| 3 GB | 30 Tage | $15.00 | Ja |
+| 10 GB | 30 Tage | $20.00 | Ja |
+| 30 GB | 30 Tage | $30.00 | Ja |
 
-**Ultra Mobile eSIM USA Tourist**-Tarife beinhalten unbegrenzte Inlandsanrufe und -SMS, was in dieser Preisklasse selten ist. Der 10-GB-Tarif für 20 $ ist ein guter Mittelweg für längere Stadtaufenthalte.
+**Ultra Mobile eSIM USA Tourist**-Tarife beinhalten unbegrenzte nationale Anrufe und SMS, was zu diesem Preis selten ist. Der 10GB-Tarif für $20 ist ein guter Mittelweg für längere Städteaufenthalte.
 
-**Am besten für:** Reisende, die zusätzlich zu Daten auch unbegrenztes Inlandstelefonieren benötigen.
+**Am besten für:** Reisende, die zusätzlich zu den Daten auch unbegrenzte nationale Telefonie benötigen.
 
-**Twise USA eSIM AT&T-Netz – Bewertung**
+### Twise USA eSIM AT&T Netzwerk Bewertung
+
 Twise nutzt das AT&T-Netz und bietet Prepaid-eSIMs mit Fokus auf ländliche Abdeckung.
 
-**Tarife:**
+### Tarife:
 | Daten | Gültigkeit | Preis | US-Nummer |
 |:----|:---------|:-----:|:---------:|
-| 5 GB | 30 Tage | 14,00 $ | Nein |
-| 10 GB | 30 Tage | 22,00 $ | Nein |
-| 20 GB | 30 Tage | 34,00 $ | Nein |
+| 5 GB | 30 Tage | $14.00 | Nein |
+| 10 GB | 30 Tage | $22.00 | Nein |
+| 20 GB | 30 Tage | $34.00 | Nein |
 
-**Twise USA eSIM AT&T-Netz – Bewertung** – Die wichtigsten Vorteile: AT&T-ländliche Abdeckung ohne den Carrier-Aufschlag von 30 $/Monat. Die Einrichtung ist einfacher als der eigene Prepaid-Prozess von AT&T. Der Nachteil ist keine US-Telefonnummer – reine Daten.
+**Twise USA eSIM AT&T Netzwerk Bewertung** — Highlights: Der größte Vorteil ist die ländliche Abdeckung von AT&T ohne den Aufschlag von $30/Monat des Anbieters. Die Einrichtung ist einfacher als der eigene Prepaid-Prozess von AT&T. Der Nachteil ist, dass es keine US-Telefonnummer gibt — es ist reines Datenvolumen.
 
-**Am besten für:** Reisende im ländlichen Raum, die keine US-Nummer benötigen und AT&T-Abdeckung zu einem niedrigeren Preis wünschen.
+**Am besten für:** Ländliche Reisende, die keine US-Telefonnummer benötigen und AT&T-Abdeckung zu einem niedrigeren Preis wünschen.
 
-**BazTel USA eSIM – günstige Tarife**
-BazTel ist einer der günstigsten MVNOs und nutzt das T-Mobile-Netz mit sehr aggressiver Preisgestaltung.
+### BazTel USA eSIM günstige Tarife
 
-**Tarife:**
+BazTel ist eine der günstigsten MVNO-Optionen und nutzt das T-Mobile-Netz mit sehr aggressiven Preisen.
+
+### Tarife:
 | Daten | Gültigkeit | Preis | US-Nummer |
 |:----|:---------|:-----:|:---------:|
-| 3 GB | 30 Tage | 10,00 $ | Nein |
-| 5 GB | 30 Tage | 12,00 $ | Nein |
-| 10 GB | 30 Tage | 18,00 $ | Nein |
+| 3 GB | 30 Tage | $10.00 | Nein |
+| 5 GB | 30 Tage | $12.00 | Nein |
+| 10 GB | 30 Tage | $18.00 | Nein |
 
-**BazTel USA eSIM – günstige Tarife** sind die preiswerteste Option für Reisende, die nur Daten brauchen und keine US-Nummer benötigen. Der 5-GB-Tarif für 12 $ kostet nur halb so viel wie die Carrier-Tarife für dasselbe Datenvolumen.
+**BazTel USA eSIM günstige Tarife** sind die günstigste Option für Reisende, die nur Daten benötigen und keine US-Nummer benötigen. Der 5GB-Tarif für $12 kostet halb so viel wie die Anbietertarife für die gleiche Datenmenge.
 
-**Am besten für:** Preisbewusste Reisende, die nur Daten benötigen und sich in städtischen Gebieten aufhalten.
+**Am besten für:** Preisbewusste Reisende, die nur Daten benötigen und in städtischen Gebieten unterwegs sind.
 
-**MVNO-Vergleich im Überblick**
-| MVNO | Netz | Einstiegspreis | US-Nummer | Am besten für |
+### MVNO-Vergleichszusammenfassung
+
+| MVNO | Netzwerk | Startpreis | US-Nummer | Am besten für |
 |:-----|:--------|:-------------:|:---------:|:---------|
-| Tello | T-Mobile | 7 $/Monat | Ja | Budget + Telefonnummer |
-| Mint Mobile | T-Mobile | 15 $/Monat (3 Mo) | Ja | Längere Aufenthalte |
-| Ultra Mobile | T-Mobile | 15 $/Monat | Ja | Internationales Telefonieren |
-| Twise | AT&T | 14 $/Monat | Nein | Ländlich, Daten-only |
-| BazTel | T-Mobile | 10 $/Monat | Nein | Günstigste Daten |
+| Tello | T-Mobile | $5/Monat | Ja | Budget + Telefonnummer |
+| Mint Mobile | T-Mobile | $15/Monat (3 Mo) | Ja | Längere Aufenthalte |
+| Ultra Mobile | T-Mobile | $15/Monat | Ja | Internationale Telefonie |
+| Twise | AT&T | $14/Monat | Nein | Ländlich, reines Daten |
+| BazTel | T-Mobile | $10/Monat | Nein | Günstigste Daten |
 
-Für Fehlerbehebung siehe unseren [USA eSIM-Troubleshooting-Leitfaden](/blog/usa-esim-troubleshooting/).
+Informationen zur Fehlerbehebung finden Sie unter [USA eSIM Fehlerbehebung](/blog/usa-esim-troubleshooting/).
 
 ---
 
-## Carrier-Tarife vs. internationale eSIMs vs. MVNOs: Wann wählen Sie was?
+## Anbietertarife vs. internationale eSIMs vs. MVNOs: Wann wählen
 
-| Faktor | Carrier Prepaid | Internationale eSIM | MVNO |
+| Faktor | Anbieter Prepaid | Internationale eSIM | MVNO |
 |:-------|:--------------:|:------------------:|:----:|
 | Preis pro GB | Höher | Am niedrigsten | Niedrig |
-| Einrichtungsschritte | Mehr | Wenigste | Mittel |
-| US-Telefonnummer | Inklusive | Nur Daten | Die meisten inkl. |
-| Ländliche Abdeckung | Am besten (AT&T, Verizon) | Variiert | Variiert je nach Netz |
-| Store-Support | Ja | Nein | Nein |
-| Tarifflexibilität | Begrenzt | Große Vielfalt | Mittel |
+| Einrichtungsschritte | Mehr | Wenigste | Mäßig |
+| US-Telefonnummer | Inklusive | Nur Daten | Die meisten inklusive |
+| Ländliche Abdeckung | Am besten (AT&T, Verizon) | Variiert | Variiert je nach Netzwerk |
+| Filialunterstützung | Ja | Nein | Nein |
+| Tarifflexibilität | Begrenzt | Große Auswahl | Mittel |
 
-**Wählen Sie einen Carrier-Tarif, wenn:** Sie in sehr abgelegene Gebiete fahren. Sie die Möglichkeit haben möchten, in eine Filiale zu gehen, um Hilfe zu bekommen. Sie eine US-Telefonnummer benötigen und bereit sind, dafür mehr zu bezahlen.
+**Wählen Sie einen Anbietertarif, wenn:** Sie an einen sehr abgelegenen Ort reisen. Sie die Möglichkeit haben möchten, für Hilfe eine Filiale aufzusuchen. Sie eine US-Telefonnummer benötigen und bereit sind, dafür mehr zu bezahlen.
 
-**Wählen Sie eine internationale eSIM, wenn:** Sie ein begrenztes Budget haben. Ihre Reise auf Städte beschränkt ist. Sie keine US-Nummer benötigen. Wenn Sie zwischen einem Carrier-Tarif und einer [usa esim](/united-states-esim/) abwägen, bedenken Sie, dass letztere automatischen Netzwechsel und Live-Support ohne ID-Überprüfung bietet.
+**Wählen Sie eine internationale eSIM, wenn:** Sie ein begrenztes Budget haben. Ihre Reise auf Städte beschränkt ist. Sie keine US-Nummer benötigen. Wenn Sie sich zwischen einem Anbietertarif und einer [USA-eSIM](/united-states-esim/) entscheiden, bedenken Sie, dass letztere automatischen Netzwechsel und Live-Support ohne Ausweisprüfung bietet.
 
-**Wählen Sie einen MVNO, wenn:** Sie eine US-Nummer ohne Carrier-Aufschlag wünschen. Ihr Aufenthalt lang genug ist, um einen 30-Tage-Tarif zu rechtfertigen.
+**Wählen Sie einen MVNO, wenn:** Sie eine US-Nummer ohne den Anbieteraufschlag wünschen. Ihr Aufenthalt lang genug ist, um einen 30-Tage-Tarif zu rechtfertigen.
 
-**Preisvergleich: Carrier vs. MVNO vs. internationale eSIM**
-Hier die tatsächlichen Kostenunterschiede zwischen den drei Kategorien bei gängigen Datenstufen:
+### Preisvergleich: Anbieter vs. MVNO vs. internationale eSIM
 
-| Datenstufe | Carrier Prepaid | MVNO | Internationale eSIM | Ersparnis (Carrier → intl) |
+Hier ist der tatsächliche Kostenunterschied zwischen den drei Kategorien bei gängigen Datenmengen:
+
+| Datenmenge | Anbieter Prepaid | MVNO | Internationale eSIM | Ersparnis (Anbieter → intl) |
 |:----------|:--------------:|:----:|:------------------:|:------------------------:|
-| 5GB/7 Tage | 10 $ (T-Mo) | N/A | 8 $ (Airalo) | 2 $ (20 %) |
-| 10GB/30 Tage | 25 $ (T-Mo) | 18 $ (BazTel) | 12 $ (Ubigi) | 13 $ (52 %) |
-| 25GB/30 Tage | 25 $ (T-Mo 30GB) | 22 $ (Tello 25GB) | 24 $ (Ubigi 25GB) | Vergleichbar |
-| 50GB/30 Tage | 35 $ (T-Mo 50GB) | N/A | N/A | N/A |
+| 5GB/7 Tage | $10 (T-Mo) | N/A | $8 (Airalo) | $2 (20%) |
+| 10GB/30 Tage | $25 (T-Mo) | $18 (BazTel) | $12 (Ubigi) | $13 (52%) |
+| 25GB/30 Tage | $25 (T-Mo 30GB) | $25 (Tello 25GB) | $24 (Ubigi 25GB) | Vergleichbar |
+| 50GB/30 Tage | $35 (T-Mo 50GB) | N/A | N/A | N/A |
 
-**Ersparnisanalyse:** Für kurzfristigen Datenbedarf (unter 10 GB) bieten internationale eSIMs erhebliche Einsparungen gegenüber Carrier-Prepaid-Tarifen – bis zu 52 % bei einem 10-GB-Tarif. Bei hohem Datenvolumen (25 GB+) schrumpft die Preislücke deutlich. Der 30-GB-Prepaid-Tarif von T-Mobile für 25 $ ist sogar günstiger als die meisten MVNO- und internationalen Optionen bei gleicher Datenstufe.
+**Ersparnisanalyse:** Für kurzfristigen Datenbedarf (unter 10GB) bieten internationale eSIMs erhebliche Einsparungen gegenüber Anbieter-Prepaid-Tarifen — bis zu 52% bei einem 10GB-Tarif. Für Vielnutzer (25GB+) schrumpft die Preislücke erheblich. T-Mobiles 30GB-Prepaid-Tarif für $25 ist tatsächlich günstiger als die meisten MVNO- und internationalen Optionen auf derselben Datenstufe.
 
-**Wann die Carrier-Drosselung wichtig wird**
-Die Prepaid-Tarife aller drei Carrier unterliegen einer Drosselung – das heißt, Ihre Datengeschwindigkeit kann bei Netzüberlastung reduziert werden, wenn Postpaid-Kunden denselben Sendemasten nutzen:
+### Wann die Herabstufung durch den Anbieter wichtig wird
 
-| Carrier | Drosselungsschwelle | Auswirkung zu Stoßzeiten |
+Prepaid-Tarife aller drei Anbieter unterliegen einer Herabstufung — das bedeutet, dass Ihre Datengeschwindigkeit bei Netzüberlastung reduziert werden kann, wenn Postpaid-Kunden denselben Sendemasten nutzen:
+
+| Anbieter | Herabstufungsschwelle | Auswirkung während der Hauptverkehrszeiten |
 |:--------|:--------------------------:|:------------------------:|
-| T-Mobile | Nach 50 GB bei einigen Tarifen | Mäßige Geschwindigkeitsreduzierung |
-| AT&T | Sofort bei den meisten Prepaid | Deutliche Geschwindigkeitsreduzierung |
-| Verizon | Nach 25 GB bei Prepaid | Mäßige Geschwindigkeitsreduzierung |
+| T-Mobile | Nach 50GB bei einigen Tarifen | Mäßige Geschwindigkeitsreduzierung |
+| AT&T | Sofort bei den meisten Prepaid | Erhebliche Geschwindigkeitsreduzierung |
+| Verizon | Nach 25GB bei Prepaid | Mäßige Geschwindigkeitsreduzierung |
 
-**Auswirkung in der Praxis:** In belebten Stadtzentren oder bei Großveranstaltungen (Sportspiele, Konzerte, Konferenzen) können gedrosselte Prepaid-Tarife während der Spitzenlast auf unter 1 Mbit/s sinken. Internationale eSIMs und MVNOs sind gleich oder stärker von Drosselung betroffen, da sie in der Netzpriorität weiter unten stehen. Wenn Sie an einer großen Konferenz teilnehmen, ist die Carrier-Drosselung ein echtes Problem – ein Backup-Zugang oder ein nativer Tarif ohne Drosselung ist dann wichtig.
+**Auswirkung in der Praxis:** In belebten Stadtzentren oder bei großen Veranstaltungen (Sportspiele, Konzerte, Konferenzen) können herabgestufte Prepaid-Tarife während der Hauptverkehrszeiten auf unter nutzbare Geschwindigkeiten abfallen. Internationale eSIMs und MVNOs sind mit derselben oder einer schlimmeren Herabstufung konfrontiert, da sie in der Netzwerk-Hierarchie weiter unten angesiedelt sind. Wenn Sie an einer großen Konferenz teilnehmen, ist die Herabstufung durch den Anbieter eine echte Sorge — ein Backup-Verbindungsmethode oder ein nativer Tarif ohne Herabstufung ist wichtig.
 
 ---
 
-## Welcher Carrier-Tarif ist am besten für Roadtrips?
+## Welcher Anbietertarif ist am besten für Roadtrips?
 
-Wenn Ihr Roadtrip durch Kleinstädte, Nationalparks oder den ländlichen Südwesten führt, ist **AT&T Prepaid** Ihre beste Option unter den Carrier-Tarifen. AT&T hat eine deutlich bessere ländliche Abdeckung als T-Mobile und in den meisten Gebieten eine vergleichbare Reichweite wie Verizon. Für sehr abgelegene Ziele wie Alaska oder die Backcountry von Utah ist **Verizon Prepaid** die sicherste Wahl. T-Mobile Prepaid ist am besten für stadtzentrierte Roadtrips geeignet, bei denen Sie die höchsten 5G-Geschwindigkeiten wünschen.
+Wenn Ihr Roadtrip durch Kleinstädte, Nationalparks oder den ländlichen Südwesten führt, ist **AT&T Prepaid** Ihre beste Option unter den Anbietertarifen. AT&T hat eine deutlich bessere ländliche Abdeckung als T-Mobile und eine vergleichbare Reichweite wie Verizon in den meisten Gebieten. Für sehr abgelegene Ziele wie Alaska oder das Hinterland Utahs ist **Verizon Prepaid** die sicherste Wahl. T-Mobile Prepaid ist am besten für stadtzentrierte Roadtrips geeignet, bei denen Sie die schnellsten 5G-Geschwindigkeiten wünschen.
 
-Für Reisende, die AT&T-Abdeckung ohne den Carrier-Preis wünschen, ist **Twise USA eSIM AT&T-Netz** für 14 $ (5 GB) ein besseres Preis-Leistungs-Verhältnis als der eigene AT&T-Prepaid-Tarif für 30 $.
+Für Reisende, die AT&T-Abdeckung ohne den Anbieterpreis wünschen, ist **Twise US eSIM AT&T Netzwerk** mit $14 für 5GB ein besseres Preis-Leistungs-Verhältnis als AT&Ts eigener $30-Prepaid-Tarif.
 
-**Abdeckung auf Interstate-Highways**
-So schneiden die Carrier auf den wichtigsten US-Interstates ab:
+### Roadtrip-Abdeckung auf Interstate-Highways
 
-| Interstate-Route | Bester Carrier | Anmerkungen |
+So schneiden die Anbieter auf wichtigen US-Interstate-Highways ab:
+
+| Interstate-Route | Bester Anbieter | Anmerkungen |
 |:-----------------|:-------------|:------|
-| I-95 (Ostküste) | T-Mobile oder AT&T | Dichte Abdeckung von allen Carriern |
-| I-5 (Westküste) | T-Mobile oder AT&T | Gute Abdeckung von allen Carriern |
-| I-10 (Süd → West) | AT&T | Am besten durch Texas, Arizona-Wüste |
-| I-40 (Ost → West) | AT&T | Am besten durch den ländlichen Südwesten |
-| I-80 (NY → CA) | AT&T oder Verizon | Lange Abschnitte mit eingeschränkter Abdeckung |
-| I-90 (Ost → West) | Verizon | Am besten durch Montana, Dakotas |
-| I-70 (Ost → West) | AT&T | Am besten durch die Colorado-Berge |
+| I-95 (Ostküste) | T-Mobile oder AT&T | Dichte Abdeckung von allen Anbietern |
+| I-5 (Westküste) | T-Mobile oder AT&T | Gute Abdeckung von allen Anbietern |
+| I-10 (Süden → Westen) | AT&T | Am besten durch Texas, Arizona-Wüste |
+| I-40 (Osten → Westen) | AT&T | Am besten durch den ländlichen Südwesten |
+| I-80 (NY → CA) | AT&T oder Verizon | Lange Abschnitte mit begrenzter Abdeckung |
+| I-90 (Osten → Westen) | Verizon | Am besten durch Montana, Dakotas |
+| I-70 (Osten → Westen) | AT&T | Am besten durch die Colorado-Berge |
 
-Für transkontinentale Roadtrips bietet AT&T die konsistenteste Interstate-Abdeckung. Verizon ist die beste Wahl für nördliche Routen durch Montana und die Dakotas. T-Mobile ist entlang der Ost- und Westküste zuverlässig, hat aber auf transkontinentalen Strecken erhebliche Lücken.
+Für landesweite Roadtrips bietet AT&T die beständigste Interstate-Abdeckung. Verizon ist die beste Wahl für nördliche Routen durch Montana und die Dakotas. T-Mobile ist entlang der Ost- und Westküste zuverlässig, hat aber auf landesweiten Routen erhebliche Lücken.
 
 ---
 
-## Welcher Carrier ist für Geschäftsreisende geeignet?
+## Welchen Anbieter sollten Geschäftsreisende wählen?
 
-Geschäftsreisende, die die USA für Konferenzen oder Meetings besuchen, sollten für Städtereisen T-Mobile Prepaid in Betracht ziehen. Die 5G-Geschwindigkeiten in Kongresszentren und Innenstädten sind unübertroffen.
+Geschäftsreisende, die die USA für Konferenzen oder Meetings besuchen, sollten für Städtereisen T-Mobile Prepaid in Betracht ziehen. Die 5G-Geschwindigkeiten in Kongresszentren und Innenstadtbereichen sind unübertroffen.
 
-Für Reisende, die zwischen Städten unterwegs sind, bietet AT&T Prepaid die konsistenteste Abdeckung auf Autobahnen und in kleineren Städten. Verizon Prepaid ist am besten für Besuche abgelegener Projektstandorte oder ländlicher Produktionsstätten geeignet.
+Für Vielreisende, die zwischen Städten unterwegs sind, bietet AT&T Prepaid die beständigste Abdeckung auf Autobahnen und in kleineren Städten. Verizon Prepaid ist am besten für diejenigen geeignet, die abgelegene Projektstandorte oder ländliche Produktionsstätten besuchen.
 
-Alle drei beinhalten eine US-Telefonnummer, die für Anrufe bei Kunden und SMS-Verifizierungen unerlässlich ist. Für Reisende, die automatischen Netzwechsel ohne ID-Überprüfung wünschen, bieten internationale Anbieter wie Ubigi oder Tello eine schnellere Einrichtung mit wettbewerbsfähiger Abdeckung in städtischen Gebieten.
+Alle drei enthalten eine US-Telefonnummer, die für Kundenanrufe und SMS-Verifizierung unerlässlich ist. Für Reisende, die automatischen Netzwechsel ohne Ausweisprüfung wünschen, bieten internationale Anbieter wie Airalo oder Nomad eine schnellere Einrichtung mit wettbewerbsfähiger Abdeckung in städtischen Gebieten.
 
-**Geschäftsausgabenabrechnung mit Carrier-Tarifen**
-Carrier-Prepaid-Tarife erstellen Rechnungen, die sich für die Geschäftsausgabenabrechnung eignen:
+### Abrechnung von Geschäftsausgaben mit Anbietertarifen
 
-| Carrier | Rechnungsformat | Vergangene Rechnungen herunterladbar? | Für Spesenabrechnung geeignet? |
+Prepaid-Tarife der Anbieter generieren Rechnungen, die sich für die Abrechnung von Geschäftsausgaben eignen:
+
+| Anbieter | Rechnungsformat | Frühere Rechnungen herunterladbar? | Geeignet für Spesenabrechnungen? |
 |:--------|:--------------|:--------------------------:|:-----------------------------:|
 | T-Mobile | PDF über App | Ja | Ja |
 | AT&T | PDF über Website | Ja | Ja |
@@ -515,13 +537,13 @@ Carrier-Prepaid-Tarife erstellen Rechnungen, die sich für die Geschäftsausgabe
 | Mint Mobile | E-Mail-Quittung | Begrenzt | Ja |
 | Twise | E-Mail-Quittung | Begrenzt | Ja |
 
-Alle drei großen Carrier stellen herunterladbare Rechnungen zur Verfügung, die den Tarifnamen, das Kaufdatum und den gezahlten Betrag enthalten – ausreichend für Unternehmensrichtlinien und Steuerabzüge.
+Alle drei großen Anbieter stellen herunterladbare Rechnungen zur Verfügung, die den Tarifnamen, das Kaufdatum und den gezahlten Betrag enthalten — ausreichende Dokumentation für Unternehmensrichtlinien zu Spesen und Steuerabzügen.
 
 ---
 
 ## Brauche ich eine US-Adresse für Prepaid-eSIM?
 
-**Brauche ich eine US-Adresse für Prepaid-eSIM?** Die Antwort hängt vom gewählten Carrier oder MVNO ab:
+**Brauche ich eine US-Adresse für Prepaid-eSIM?** Die Antwort hängt davon ab, welchen Anbieter oder MVNO Sie wählen:
 
 | Anbieter | US-Adresse erforderlich? | Alternative |
 |:---------|:--------------------:|:------------|
@@ -534,239 +556,209 @@ Alle drei großen Carrier stellen herunterladbare Rechnungen zur Verfügung, die
 | Twise | Nein | Nur E-Mail |
 | BazTel | Nein | Nur E-Mail |
 
-Die International-Visitor-Tarife von T-Mobile benötigen keine US-Adresse. AT&T und Verizon fragen möglicherweise danach – eine Hoteladresse ist akzeptabel. Die meisten MVNOs (Tello, Mint, Ultra) akzeptieren die Reisepass-Überprüfung und eine ausländische Adresse.
+Die internationalen Besuchertarife von T-Mobile erfordern keine US-Adresse. AT&T und Verizon fragen möglicherweise danach — eine Hoteladresse funktioniert. Die meisten MVNOs (Tello, Mint, Ultra) akzeptieren die Reisepassprüfung und eine ausländische Adresse.
 
-**Was tun, wenn die ID-Überprüfung fehlschlägt?**
-Wenn Ihre Reisepass-Überprüfung bei der Carrier-eSIM-Einrichtung fehlschlägt, hier häufige Ursachen und Lösungen:
+### Was tun, wenn die Ausweisprüfung fehlschlägt?
 
-| Problem | Warum passiert es | Lösung |
+Wenn Ihre Reisepassprüfung bei der Einrichtung der Anbieter-eSIM fehlschlägt, finden Sie hier die häufigsten Ursachen und Lösungen:
+
+| Problem | Warum es passiert | Lösung |
 |:------|:---------------|:---------|
-| Unscharfes Reisepassfoto | Kamera-Fokus oder Beleuchtung | Bei gutem Licht neu aufnehmen, auf ebener Fläche |
-| Reflexion auf dem Reisepass | Überkopflicht | Handyhülle entfernen, direktes Licht vermeiden |
-| Namensabweichung | Zweitname oder Suffix | Mit/ohne Zweitnamen versuchen |
-| Abgelaufener Reisepass | Gültigkeit | Nur aktuellen Reisepass verwenden |
-| Systemfehler | Server-seitiges Problem | Nach 1 Stunde erneut versuchen oder anderes Gerät |
+| Unscharfes Passfoto | Kamera-Fokus oder Beleuchtung | Erneut bei gutem Licht aufnehmen, ebene Fläche verwenden |
+| Blendung auf dem Pass | Reflexion von Deckenlicht | Handyhülle entfernen, direktes Licht vermeiden |
+| Namensabweichung | Zweitname oder Namenszusatz | Mit/ohne Zweitnamen versuchen |
+| Abgelaufener Reisepass | Gültigkeit des Passes | Nur aktuellen Reisepass verwenden |
+| Systemfehler | Problem auf Serverseite | Nach 1 Stunde erneut versuchen oder anderes Gerät verwenden |
 
-Wenn die Überprüfung wiederholt fehlschlägt, besuchen Sie eine Carrier-Filiale (T-Mobile, AT&T, Verizon), wo das Personal Ihren Reisepass manuell prüfen und die Aktivierung abschließen kann. Dies ist ein Vorteil von Carrier-Tarifen, den internationale eSIMs nicht bieten können.
+Wenn die Prüfung wiederholt fehlschlägt, besuchen Sie eine Filiale des Anbieters (T-Mobile, AT&T, Verizon), wo das Personal Ihren Reisepass manuell überprüfen und die Aktivierung abschließen kann. Dies ist einer der Vorteile von Anbietertarifen, die internationale eSIMs nicht bieten können.
 
 ---
 
-## Wie richte ich als Tourist eine Carrier-Prepaid-eSIM ein?
+## So richten Sie als Tourist eine Prepaid-eSIM eines Anbieters ein
 
-Der Einrichtungsprozess unterscheidet sich von internationalen eSIMs, weil die Carrier eine ID-Überprüfung verlangen.
+Der Einrichtungsprozess unterscheidet sich von internationalen eSIMs, da die Anbieter eine Ausweisprüfung verlangen.
 
-**T-Mobile:** Laden Sie die T-Mobile-Prepaid-App herunter, wählen Sie „International Visitor“ oder „Prepaid eSIM“, laden Sie Ihren Reisepass zur Überprüfung hoch und kaufen Sie. Die eSIM wird über die App installiert.
+**T-Mobile:** Laden Sie die T-Mobile-Prepaid-App herunter, wählen Sie "International Visitor" oder "Prepaid eSIM", laden Sie Ihren Reisepass zur Prüfung hoch und kaufen Sie. Die eSIM wird über die App installiert.
 
-**AT&T:** Gehen Sie auf die AT&T-Prepaid-Aktivierungsseite, wählen Sie „Bring Your Own Phone“, schließen Sie die ID-Überprüfung mit Reisepass-Upload ab und bezahlen Sie. Der QR-Code wird per E-Mail gesendet.
+**AT&T:** Rufen Sie die Prepaid-Aktivierungsseite von AT&T auf, wählen Sie "Bring Your Own Phone", führen Sie die Ausweisprüfung mit Pass-Upload durch und bezahlen Sie. Der QR-Code wird per E-Mail gesendet.
 
-**Verizon:** Laden Sie die My Verizon App herunter, wählen Sie „Activate Prepaid eSIM“, schließen Sie die ID-Überprüfung ab und installieren Sie.
+**Verizon:** Laden Sie die My Verizon App herunter, wählen Sie "Activate Prepaid eSIM", führen Sie die Ausweisprüfung durch und installieren Sie.
 
-**MVNOs (Tello, Mint, Ultra, Twise, BazTel):** Laden Sie die App des Anbieters herunter, wählen Sie Ihren Tarif, schließen Sie die Überprüfung ab und installieren Sie. Die meisten MVNOs haben eine einfachere Einrichtung als die großen drei.
+**MVNOs (Tello, Mint, Ultra, Twise, BazTel):** Laden Sie die App des Anbieters herunter, wählen Sie Ihren Tarif, schließen Sie die Prüfung ab und installieren Sie. Die meisten MVNOs haben eine einfachere Einrichtung als die großen Drei.
 
-In allen Fällen sollten Sie mit 10–15 Minuten rechnen – länger als das Scannen eines internationalen eSIM-QR-Codes, aber Sie erhalten dafür eine US-Telefonnummer und Store-Support.
+In allen Fällen sollten Sie mit einer Bearbeitungszeit von 10-15 Minuten rechnen — länger als das Scannen eines internationalen eSIM-QR-Codes, aber Sie erhalten dafür eine US-Telefonnummer und Filialunterstützung.
 
-Wenn Sie eine Einrichtung bevorzugen, die 5 Minuten dauert, keinen Reisepass-Upload erfordert und den Netzwechsel automatisch übernimmt, ist eine reine Daten-[USA eSIM](/united-states-esim/) eine unkomplizierte Alternative.
+Wenn Sie eine Einrichtung bevorzugen, die 5 Minuten dauert, keinen Pass-Upload erfordert und den Netzwechsel automatisch übernimmt, ist eine reine Daten-[USA-eSIM mit 5G](/united-states-esim/) eine unkomplizierte Alternative, die es zu erwägen gilt.
 
-**Detaillierte Einrichtung: T-Mobile Prepaid eSIM für internationale Besucher**
-Schritt-für-Schritt-Einrichtung der T-Mobile-Prepaid-eSIM:
+### Detaillierte Einrichtung: T-Mobile Prepaid eSIM für internationale Besucher
 
-1. **Laden Sie die T-Mobile Prepaid App** aus dem App Store oder Google Play herunter.
-2. **Öffnen Sie die App und wählen Sie „International Visitor“** – dies ist die Option für Nicht-US-Bürger.
-3. **Wählen Sie Ihren Tarif** – 5GB/7d (10 $), 15GB/15d (15 $), 30GB/30d (25 $) oder 50GB/30d (35 $).
-4. **Erstellen Sie ein Konto** – geben Sie Namen, E-Mail und ein Passwort ein.
-5. **Laden Sie Ihren Reisepass hoch** – machen Sie ein klares Foto der Passseite.
-6. **Schließen Sie die Überprüfung ab** – dauert in der Regel 2–5 Minuten.
-7. **Installieren Sie die eSIM** – die App fordert Sie zur Installation des eSIM-Profils auf.
-8. **Starten Sie Ihr Telefon neu** – erforderlich, um die Aktivierung abzuschließen.
-9. **Aktivieren Sie Datenroaming** – gehen Sie zu den Einstellungen und aktivieren Sie Datenroaming für die neue T-Mobile-Leitung.
+Schritt-für-Schritt-Einrichtung der T-Mobile Prepaid eSIM:
 
-**Tipps für eine reibungslose T-Mobile-Prepaid-Einrichtung:**
-- Führen Sie dies über WLAN durch, um während der Einrichtung keine Mobilfunkdaten zu verbrauchen.
-- Halten Sie Ihren Reisepass vor Beginn bereit.
-- Wenn die App die eSIM nicht installieren kann, fordern Sie einen QR-Code für die manuelle Installation an.
-- Rufen Sie nach der Aktivierung *144# an, um Ihr verbleibendes Datenvolumen zu prüfen.
+1. **Laden Sie die T-Mobile Prepaid App** aus dem App Store oder Google Play herunter
+2. **Öffnen Sie die App und wählen Sie "International Visitor"** — dies ist die Option für Nicht-US-Bürger
+3. **Wählen Sie Ihren Tarif** — 5GB/7d ($10), 15GB/15d ($15), 30GB/30d ($25) oder 50GB/30d ($35)
+4. **Erstellen Sie ein Konto** — geben Sie Ihren Namen, Ihre E-Mail und ein Passwort ein
+5. **Laden Sie Ihren Reisepass hoch** — machen Sie ein klares Foto der Passseite mit dem Foto
+6. **Schließen Sie die Prüfung ab** — dies dauert typischerweise 2-5 Minuten
+7. **Installieren Sie die eSIM** — die App fordert Sie auf, das eSIM-Profil zu installieren
+8. **Starten Sie Ihr Telefon neu** — erforderlich, um die Aktivierung abzuschließen
+9. **Schalten Sie Datenroaming ein** — gehen Sie zu den Einstellungen und aktivieren Sie Datenroaming für die neue T-Mobile-Leitung
 
-**Detaillierte Einrichtung: AT&T Prepaid eSIM-Aktivierung**
-Schritt-für-Schritt-AT&T-Prepaid-eSIM-Aktivierung:
+### Tipps für eine reibungslose T-Mobile Prepaid-Einrichtung:
+- Führen Sie dies über WLAN durch, um während der Einrichtung keine mobilen Daten zu verbrauchen
+- Halten Sie Ihren Reisepass bereit, bevor Sie beginnen
+- Wenn die App die eSIM nicht installiert, fordern Sie einen QR-Code für die manuelle Installation an
+- Rufen Sie nach der Aktivierung *144# an, um Ihr verbleibendes Datenvolumen zu prüfen
 
-1. **Gehen Sie auf die AT&T-Prepaid-Aktivierungsseite** auf Ihrem Telefon oder Laptop.
-2. **Wählen Sie „Bring Your Own Phone“** und geben Sie Ihre IMEI-Nummer ein.
-3. **Wählen Sie „Prepaid eSIM“** als SIM-Typ.
-4. **Schließen Sie die ID-Überprüfung ab** – laden Sie Ihren Reisepass hoch.
-5. **Wählen Sie Ihren Tarif** – 5GB/7d (10 $), 15GB/15d (15 $) oder 30GB/30d (30 $).
-6. **Geben Sie die Rechnungsinformationen ein** – eine Hoteladresse ist für das Adressfeld akzeptabel.
-7. **Schließen Sie die Zahlung ab** – AT&T akzeptiert die meisten internationalen Visa- und Mastercard-Karten.
-8. **Prüfen Sie Ihre E-Mails** – der QR-Code kommt innerhalb von 1–5 Minuten an.
-9. **Scannen Sie den QR-Code** – Einstellungen -> Mobilfunk -> eSIM hinzufügen -> QR-Code scannen.
-10. **Starten Sie Ihr Telefon neu.**
+### Detaillierte Einrichtung: AT&T Prepaid eSIM-Aktivierung
 
-**Hinweis:** Die AT&T-Prepaid-Aktivierung hat eine höhere Fehlerquote bei Nicht-US-Kreditkarten als T-Mobile. Wenn Ihre Karte abgelehnt wird, versuchen Sie es mit PayPal oder kaufen Sie bei einem Drittanbieter eine AT&T-Prepaid-Aufladekarte.
+Schritt-für-Schritt-AT&T Prepaid eSIM-Aktivierung:
 
-**Detaillierte Einrichtung: Verizon Prepaid eSIM-Aktivierung**
-Schritt-für-Schritt-Verizon-Prepaid-eSIM-Aktivierung:
+1. **Rufen Sie die Prepaid-Aktivierungsseite von AT&T** auf Ihrem Telefon oder Laptop auf
+2. **Wählen Sie "Bring Your Own Phone"** und geben Sie die IMEI-Nummer Ihres Telefons ein
+3. **Wählen Sie "Prepaid eSIM"** als SIM-Typ
+4. **Führen Sie die Ausweisprüfung durch** — laden Sie Ihren Reisepass hoch
+5. **Wählen Sie Ihren Tarif** — 5GB/7d ($10), 15GB/15d ($15) oder 30GB/30d ($30)
+6. **Geben Sie die Zahlungsinformationen ein** — eine Hoteladresse funktioniert für das Adressfeld
+7. **Schließen Sie die Zahlung ab** — AT&T akzeptiert die meisten internationalen Visa- und Mastercard-Karten
+8. **Überprüfen Sie Ihre E-Mails** — der QR-Code wird innerhalb von 1-5 Minuten eintreffen
+9. **Scannen Sie den QR-Code** — gehen Sie zu Einstellungen -> Mobilfunk -> eSIM hinzufügen -> QR-Code scannen
+10. **Starten Sie Ihr Telefon neu**
 
-1. **Laden Sie die My Verizon App** herunter.
-2. **Wählen Sie „Activate a Device“** aus dem Menü.
-3. **Wählen Sie „Bring Your Own Device“** und geben Sie Ihre IMEI ein.
-4. **Wählen Sie „Prepaid“** als Tariftyp.
-5. **Erstellen Sie ein My Verizon-Konto** mit Ihrer E-Mail-Adresse.
-6. **Laden Sie Ihren Reisepass** für die ID-Überprüfung hoch.
-7. **Wählen Sie Ihren Tarif** aus den verfügbaren Prepaid-Optionen.
-8. **Geben Sie die Zahlungsinformationen ein** – Verizon hat die meisten Probleme mit ausländischen Karten.
-9. **Installieren Sie die eSIM**, wenn Sie von der App dazu aufgefordert werden.
-10. **Starten Sie Ihr Gerät neu.**
+**Hinweis:** Die Prepaid-Aktivierung von AT&T hat eine höhere Fehlerquote bei nicht-US-Kreditkarten als T-Mobile. Wenn Ihre Karte abgelehnt wird, versuchen Sie es mit PayPal oder kaufen Sie bei einem Drittanbieter eine AT&T-Prepaid-Aufladekarte.
 
-**Häufige Verizon-Aktivierungsfallen:**
-- Die My Verizon App funktioniert möglicherweise nicht außerhalb der USA – installieren Sie das Profil vor der Reise, wenn möglich.
-- Einige internationale Telefonmodelle sind nicht in der IMEI-Datenbank von Verizon enthalten und werden möglicherweise abgelehnt.
-- Wenn die eSIM-Installation fehlschlägt, besuchen Sie eine Verizon-Filiale für persönliche Unterstützung.
+### Detaillierte Einrichtung: Verizon Prepaid eSIM-Aktivierung
+
+Schritt-für-Schritt-Verizon Prepaid eSIM-Aktivierung:
+
+1. **Laden Sie die My Verizon App herunter**
+2. **Wählen Sie "Activate a Device"** aus dem Menü
+3. **Wählen Sie "Bring Your Own Device"** und geben Sie Ihre IMEI ein
+4. **Wählen Sie "Prepaid"** als Tariftyp
+5. **Erstellen Sie ein My Verizon-Konto** mit Ihrer E-Mail-Adresse
+6. **Laden Sie Ihren Reisepass** zur Ausweisprüfung hoch
+7. **Wählen Sie Ihren Tarif** aus den verfügbaren Prepaid-Optionen
+8. **Geben Sie die Zahlungsinformationen ein** — Verizon hat die meisten Probleme mit ausländischen Karten
+9. **Installieren Sie die eSIM**, wenn Sie von der App dazu aufgefordert werden
+10. **Starten Sie Ihr Gerät neu**
+
+### Häufige Fallstricke bei der Verizon-Aktivierung:
+- Die My Verizon App funktioniert möglicherweise außerhalb der USA nicht richtig — installieren Sie das Profil wenn möglich vor der Reise
+- Einige internationale Telefonmodelle befinden sich nicht in Verizons IMEI-Datenbank und können abgelehnt werden
+- Wenn die eSIM-Installation fehlschlägt, besuchen Sie eine Verizon-Filiale für persönliche Unterstützung
 
 ---
 
 ## Häufig gestellte Fragen
 
-**Welches US-Netz ist am besten – T-Mobile, AT&T oder Verizon für eSIM?**
-Das hängt von Ihrer Reiseroute ab. Für Stadtbesuche ist T-Mobile am schnellsten. Für ausgewogene Abdeckung ist AT&T die sicherste Wahl. Für abgelegene ländliche Gebiete erreicht Verizon die meisten Orte. Wenn Sie nicht sicher sind, wohin Sie reisen, ist AT&T der beste Kompromiss. Für preisbewusste Reisende, die AT&T-ländliche Abdeckung wünschen, bietet Twise USA eSIM AT&T-Netz dasselbe Netz zum halben Carrier-Preis.
+### Welches US-Netz ist am besten T-Mobile AT&T oder Verizon für eSIM?
+Es hängt von Ihrer Reiseroute ab. Für Städtereisen ist T-Mobile am schnellsten. Für eine ausgewogene Abdeckung ist AT&T die sicherste Wahl. Für abgelegene ländliche Gebiete erreicht Verizon die meisten Orte. Wenn Sie sich nicht sicher sind, wohin Sie reisen werden, ist AT&T der beste Kompromiss. Für preisbewusste Reisende, die die ländliche Abdeckung von AT&T wünschen, bietet Twise USA eSIM AT&T Netzwerk dasselbe Netz zum halben Anbieterpreis.
 
-**Brauche ich eine US-Adresse für Prepaid-eSIM?**
-Die International-Visitor-Tarife von T-Mobile benötigen keine US-Adresse. AT&T und Verizon fragen möglicherweise danach – eine Hoteladresse funktioniert. Die meisten MVNOs wie Tello, Mint Mobile und Ultra Mobile akzeptieren die Reisepass-Überprüfung und benötigen keine US-Adresse. Twise und BazTel benötigen überhaupt keine US-Adresse.
+### Brauche ich eine US-Adresse für Prepaid-eSIM?
+Die internationalen Besuchertarife von T-Mobile erfordern keine US-Adresse. AT&T und Verizon fragen möglicherweise danach — eine Hoteladresse funktioniert. Die meisten MVNOs einschließlich Tello, Mint Mobile und Ultra Mobile akzeptieren die Reisepassprüfung und erfordern keine US-Adresse. Twise und BazTel erfordern überhaupt keine US-Adresse.
 
-**Welcher Carrier verlangt die niedrigsten Steuern und Gebühren?**
-T-Mobile fügt bei Prepaid-Tarifen die niedrigsten Steuern und Gebühren hinzu, typischerweise 8–12 % auf den ausgewiesenen Preis. AT&T fügt 12–18 % hinzu. Verizon fügt 15–25 % hinzu. Diese variieren je nach Bundesstaat – New York und Kalifornien haben die höchsten Telekommunikationssteuern. Texas und Florida sind moderat. Wenn Sie ein knappes Budget haben, kalkulieren Sie mindestens 15 % für jeden Carrier-Prepaid-Tarif ein.
+### Welcher Anbieter berechnet die wenigsten Steuern und Gebühren?
+T-Mobile erhebt die niedrigsten Steuern und Gebühren bei Prepaid-Tarifen, typischerweise 8-12% zusätzlich zum ausgewiesenen Preis. AT&T erhebt 12-18%. Verizon erhebt 15-25%. Diese variieren je nach Bundesstaat — New York und Kalifornien haben die höchsten Telekommunikationssteuern. Texas und Florida sind moderat. Wenn Sie ein knappes Budget haben, kalkulieren Sie mindestens 15% für jeden Prepaid-Tarif eines Anbieters ein.
 
-**Kann ich einen Carrier-Prepaid-eSIM mit einer ausländischen Kreditkarte kaufen?**
-T-Mobile Prepaid akzeptiert ausländische Kreditkarten. AT&T Prepaid akzeptiert ebenfalls die meisten internationalen Karten. Verizon Prepaid kann Probleme mit Nicht-US-Karten haben. Wenn Ihre Karte abgelehnt wird, versuchen Sie PayPal (wo verfügbar) oder kaufen Sie eine Prepaid-Kreditkarte. Tello und Mint Mobile akzeptieren internationale Karten ohne Probleme.
+### Kann ich eine Prepaid-eSIM eines Anbieters mit einer ausländischen Kreditkarte kaufen?
+T-Mobile Prepaid akzeptiert ausländische Kreditkarten. AT&T Prepaid akzeptiert ebenfalls die meisten internationalen Karten. Verizon Prepaid kann Probleme mit nicht-US-Karten haben. Wenn Ihre Karte abgelehnt wird, versuchen Sie PayPal (wo verfügbar) oder kaufen Sie eine Prepaid-Kreditkarte. Tello und Mint Mobile akzeptieren internationale Karten ohne Probleme.
 
-**Wie handhaben Carrier-Prepaid-Tarife 5G-Roaming?**
-Alle drei Carrier beinhalten 5G-Zugang in ihren Prepaid-Tarifen ohne Aufpreis. T-Mobile gewährt Prepaid-Kunden denselben 5G-Zugang wie Postpaid-Kunden. AT&T und Verizon können den Prepaid-Verkehr bei Netzüberlastung drosseln, was zu langsameren Geschwindigkeiten zu Stoßzeiten führen kann.
+### Wie handhaben Prepaid-Tarife der Anbieter 5G-Roaming?
+Alle drei Anbieter beinhalten 5G-Zugang in ihren Prepaid-Tarifen ohne zusätzliche Kosten. T-Mobile gewährt Prepaid-Kunden denselben 5G-Zugang wie Postpaid-Kunden. AT&T und Verizon können den Prepaid-Verkehr bei Netzüberlastung herabstufen, was zu langsameren Geschwindigkeiten während der Hauptverkehrszeiten führen kann.
 
-**Welcher Carrier-Tarif ist am besten für Reisen nach Alaska?**
-Verizon Prepaid ist die zuverlässigste Option für Reisen nach Alaska. Verizon hat erheblich in die zelluläre Infrastruktur Alaskas investiert, insbesondere rund um Anchorage, Fairbanks und Juneau. AT&T funktioniert in Bevölkerungszentren, fällt aber außerhalb der Stadtgrenzen schnell ab. Die T-Mobile-Abdeckung in Alaska ist begrenzt und sollte nicht für Reiserouten außerhalb größerer Städte in Betracht gezogen werden. Für Besucher des Denali-Nationalparks oder anderer abgelegener Ziele Alaskas ist Verizon die einzige realistische Wahl.
+### Welcher Anbietertarif ist am besten für Reisen nach Alaska?
+Verizon Prepaid ist die zuverlässigste Option für Reisen nach Alaska. Verizon hat erheblich in die zellulare Infrastruktur Alaskas investiert, insbesondere rund um Anchorage, Fairbanks und Juneau. AT&T funktioniert in Bevölkerungszentren, fällt aber außerhalb der Stadtgrenzen schnell ab. Die T-Mobile-Abdeckung in Alaska ist begrenzt und sollte für keine Reiseroute, die über größere Städte hinausgeht, als verlässlich angesehen werden. Für Besucher des Denali-Nationalparks oder anderer abgelegener Ziele in Alaska ist Verizon die einzig realistische Wahl.
 
-**Kann ich eine Carrier-Prepaid-eSIM für einen Kurztrip am Wochenende nutzen?**
-Ja, aber es ist normalerweise nicht das beste Preis-Leistungs-Verhältnis. Carrier-Prepaid-Tarife beginnen bei 5 GB für 10 $ für 7 Tage. Für ein 3-Tage-Wochenende, an dem Sie hauptsächlich Karten und Nachrichten nutzen, kostet ein Airalo-Tarif für 4,50 $ oder ein Ubigi-Tarif für 4 $ weniger als die Hälfte des Carrier-Preises. Carrier-Prepaid-Tarife lohnen sich finanziell eher für Reisen von zwei Wochen oder länger.
+### Kann ich eine Prepaid-eSIM eines Anbieters für einen langen Wochenendtrip nutzen?
+Das können Sie, aber es ist normalerweise nicht das beste Preis-Leistungs-Verhältnis. Prepaid-Tarife der Anbieter beginnen bei 5GB für $10 für 7 Tage. Für ein 3-tägiges Wochenende, an dem Sie hauptsächlich Karten und Nachrichten nutzen, kostet ein $4.50-Airalo-Tarif oder ein $4-Ubigi-Tarif weniger als die Hälfte des Anbieterpreises. Prepaid-Tarife der Anbieter sind finanziell eher für Reisen von zwei Wochen oder länger sinnvoll.
 
-**Wie schneidet Carrier-Prepaid-5G zwischen den drei Netzen ab?**
-T-Mobile führt bei den 5G-Geschwindigkeiten in den meisten US-Städten mit medianen Download-Geschwindigkeiten von 150–300 Mbit/s in städtischen Gebieten. Das 5G-Netz von AT&T liefert 50–120 Mbit/s an den meisten Standorten. Die 5G-Geschwindigkeiten von Verizon variieren stärker, von 40–200 Mbit/s, je nachdem, ob Sie sich im mmWave-Netz (sehr schnell, aber begrenzte Reichweite) oder im landesweiten 5G (langsamer, aber breitere Abdeckung) befinden. Für Stadtbesuche ist T-Mobile am schnellsten. In ländlichen Gebieten ist die konsistente Abdeckung von AT&T wertvoller als die Spitzengeschwindigkeit.
+### Wie schneidet Prepaid-5G der Anbieter im Vergleich der drei Netze ab?
+T-Mobile führt bei den 5G-Geschwindigkeiten in den meisten US-Städten. Das 5G-Netz von AT&T liefert an den meisten Standorten konstante Geschwindigkeiten. Die 5G-Geschwindigkeiten von Verizon variieren stärker, je nachdem, ob Sie sich in ihrem mmWave-Netz (sehr schnell, aber begrenzte Reichweite) oder ihrem landesweiten 5G (langsamer, aber breitere Reichweite) befinden. Für Städtereisen ist T-Mobile am schnellsten. In ländlichen Gebieten ist die konstante Abdeckung von AT&T wertvoller als die Spitzengeschwindigkeit.
 
-**Kann ich während meiner Reise zwischen Carrier-Tarifen wechseln?**
-Nein, Prepaid-eSIM-Tarife sind als Einzelkäufe konzipiert. Wenn Ihr Datenvolumen aufgebraucht ist, müssen Sie einen neuen Tarif kaufen oder über die App des Carriers aufladen. T-Mobile ermöglicht Aufladungen in der App. AT&T und Verizon unterstützen ebenfalls Nachfüllungen über ihre Apps oder Websites.
+### Kann ich während meiner Reise zwischen den Anbietertarifen wechseln?
+Nein, Prepaid-eSIM-Tarife sind als Einzelkäufe konzipiert. Wenn Ihr Datenvolumen aufgebraucht ist, müssten Sie einen neuen Tarif kaufen oder über die App des Anbieters aufladen. T-Mobile ermöglicht In-App-Aufladungen. AT&T und Verizon unterstützen ebenfalls Aufladungen über ihre Apps oder Websites.
 
-**Unterstützen Carrier-Prepaid-Tarife Hotspot?**
-Ja, alle drei Carrier beinhalten Hotspot in ihren Prepaid-Tarifen. T-Mobile Prepaid beinhaltet Hotspot ohne Aufpreis. AT&T und Verizon unterstützen ebenfalls Hotspot auf ihren Prepaid-eSIM-Tarifen. Der Hotspot verbraucht Ihr Tarif-Datenvolumen. Für Geschäftsreisende, die eine Laptop-Konnektivität benötigen, ist der Hotspot-Support der Carrier zuverlässig und konsistent.
+### Unterstützen Prepaid-Tarife der Anbieter Hotspot?
+Ja, alle drei Anbieter beinhalten Hotspot in ihren Prepaid-Tarifen. T-Mobile Prepaid beinhaltet Hotspot ohne zusätzliche Kosten. AT&T und Verizon unterstützen ebenfalls Hotspot auf ihren Prepaid-eSIM-Tarifen. Der Hotspot nutzt das Datenvolumen Ihres Tarifs. Für Geschäftsreisende, die eine Laptop-Konnektivität benötigen, ist der Hotspot-Support der Anbieter zuverlässig und konsistent.
 
-**Kann ich eine Rückerstattung erhalten, wenn meine Carrier-eSIM nicht funktioniert?**
-Die Rückerstattungsrichtlinien variieren. Die meisten erfordern eine Aktivierung innerhalb von 30 Tagen und gewähren Rückerstattungen für nicht genutzte Dienstleistungen. Prüfen Sie vor dem Kauf die Bedingungen des jeweiligen Carriers.
+### Kann ich eine Rückerstattung erhalten, wenn meine Anbieter-eSIM nicht funktioniert?
+Die Rückerstattungsrichtlinien variieren. Die meisten erfordern eine Aktivierung innerhalb von 30 Tagen und gewähren Rückerstattungen für nicht genutzte Dienste. Überprüfen Sie vor dem Kauf die Bedingungen der einzelnen Anbieter.
 
-**Welcher Carrier-Tarif ist am besten für Themenparks und Touristenattraktionen?**
-Für Reisende, die US-Themenparks besuchen (Disney World, Universal Studios, Six Flags), ist die zelluläre Überlastung die größte Herausforderung:
+### Welcher Anbietertarif ist am besten für Themenparks und Touristenattraktionen?
 
-| Attraktion | Bester Carrier | Warum |
+Für Reisende, die US-Themenparks besuchen (Disney World, Universal Studios, Six Flags), ist die zellulare Überlastung die größte Herausforderung:
+
+| Attraktion | Bester Anbieter | Warum |
 |:-----------|:-------------|:-----|
-| Walt Disney World (Orlando) | AT&T oder Verizon | Beste Abdeckung im weitläufigen Resort |
-| Universal Studios (Orlando) | AT&T oder Verizon | Zuverlässige Abdeckung im Park |
-| Disneyland (Anaheim) | T-Mobile | Hervorragende städtische Abdeckung |
+| Walt Disney World (Orlando) | AT&T oder Verizon | Beste Abdeckung über das weitläufige Resort |
+| Universal Studios (Orlando) | AT&T oder Verizon | Zuverlässige Parkabdeckung |
+| Disneyland (Anaheim) | T-Mobile | Hervorragende Innenstadt-Abdeckung |
 | Universal Studios (Hollywood) | T-Mobile | Gute Abdeckung in Los Angeles |
-| Six Flags (verschiedene Standorte) | Variiert nach Park | Prüfen Sie die lokale Abdeckung |
+| Six Flags (verschiedene Standorte) | Variiert je nach Park | Lokale Abdeckung prüfen |
 
-**Tipps zur Konnektivität in Themenparks:**
-- Das WLAN im Park ist zu Stoßzeiten in der Regel unzuverlässig.
-- Laden Sie die App des Parks vor Ankunft herunter (Disney World-App verbraucht etwa 100–200 MB pro Tag).
-- Nutzen Sie die Wartezeiten-Apps sparsam über Mobilfunk – sie aktualisieren häufig und verbrauchen Daten.
-- Die meisten Parks bieten kostenloses WLAN in Restaurants und Geschäften, das aber zur Mittagszeit langsamer wird.
-- Für eine vierköpfige Familie, die Daten teilt, ist ein T-Mobile-Prepaid-30GB-Tarif für 25 $ mit Hotspot-Freigabe kostengünstig.
+### Tipps zur Konnektivität in Themenparks:
+- Das Park-WLAN ist zu Stoßzeiten im Allgemeinen unzuverlässig
+- Laden Sie die App des Parks herunter, bevor Sie ankommen (Disney World App verbraucht ~100-200MB pro Tag)
+- Nutzen Sie die Apps für Wartezeiten sparsam über Mobilfunk — sie aktualisieren häufig und verbrauchen Daten
+- Die meisten Parks bieten kostenloses WLAN in Restaurants und Geschäften, aber es wird während der Mittagszeit langsamer
+- Für eine vierköpfige Familie, die Daten teilt, ist ein T-Mobile Prepaid 30GB-Tarif für $25 mit Hotspot-Sharing kosteneffektiv
 
-Für Reisende, die mehrere Themenparks oder Touristenattraktionen in verschiedenen Bundesstaaten besuchen, bietet eine [USA eSIM](/united-states-esim/) mit automatischem Netzwechsel die Flexibilität, sich mit dem Carrier zu verbinden, der an jedem Ort am besten funktioniert – ohne manuelle Konfiguration.
+Für Reisende, die mehrere Themenparks oder Touristenattraktionen in verschiedenen Bundesstaaten besuchen, bietet eine [USA-eSIM](/united-states-esim/) mit automatischem Netzwechsel die Flexibilität, sich mit dem Anbieter zu verbinden, der an jedem Standort die beste Leistung bietet, ohne manuelle Konfiguration.
 
-**Albtraumszenario: Was tun, wenn Ihre Carrier-eSIM nicht aktiviert wird?**
-Trotz aller Schritte kann die Carrier-eSIM-Aktivierung fehlschlagen. Hier eine Eskalationsstrategie zur Fehlerbehebung:
+### Albtraumszenario: Was tun, wenn Ihre Anbieter-eSIM nicht aktiviert wird?
 
-**Schritt 1: Warten und erneut versuchen (innerhalb von 30 Minuten)**
-- Einige Carrier-Aktivierungen erfordern eine manuelle Prüfung und dauern 10–30 Minuten.
-- Prüfen Sie Ihre E-Mails auf Statusaktualisierungen.
-- Löschen Sie nicht die App und schließen Sie nicht die Aktivierungsseite.
+Trotz aller Schritte kann die Aktivierung der Anbieter-eSIM fehlschlagen. Hier ist ein Eskalationspfad zur Fehlerbehebung:
 
-**Schritt 2: Manuelle Eingabe versuchen**
-- Wenn die QR-Code-Methode fehlschlägt, fordern Sie einen manuellen Aktivierungscode an.
-- Geben Sie die SM-DP+-Adresse und den Aktivierungscode in Einstellungen -> Mobilfunk -> eSIM hinzufügen -> Details manuell eingeben ein.
+### Schritt 1: Warten und erneut versuchen (innerhalb von 30 Minuten)
+- Einige Anbieteraktivierungen erfordern eine manuelle Überprüfung und dauern 10-30 Minuten
+- Überprüfen Sie Ihre E-Mails auf Statusaktualisierungen
+- Löschen Sie die App nicht und schließen Sie die Aktivierungsseite nicht
 
-**Schritt 3: Carrier-Support kontaktieren**
-- T-Mobile: Rufen Sie 1-877-778-2107 (Prepaid-Support) an oder besuchen Sie eine Filiale.
-- AT&T: Rufen Sie 1-800-331-0500 (Prepaid-Support) an.
-- Verizon: Rufen Sie 1-800-225-5499 (Prepaid-Support) an.
-- Besuchen Sie eine physische Filiale für persönliche Aktivierungshilfe.
+### Schritt 2: Manuelle Eingabe versuchen
+- Wenn die QR-Code-Methode fehlschlägt, fordern Sie einen manuellen Aktivierungscode an
+- Geben Sie die SM-DP+-Adresse und den Aktivierungscode in Einstellungen -> Mobilfunk -> eSIM hinzufügen -> Details manuell eingeben ein
 
-**Schritt 4: Einen Backup-Tarif kaufen**
-- Wenn die Aktivierung länger als 2 Stunden dauert, kaufen Sie eine internationale eSIM als temporäres Backup.
-- Ubigi, Airalo und Roami bieten alle eine sofortige Aktivierung innerhalb von 2 Minuten.
-- Nutzen Sie die Backup-eSIM, während Sie auf die Carrier-Aktivierung warten.
-- Sobald der Carrier-Tarif aktiv ist, wechseln Sie die Datenleitung in den Telefoneinstellungen.
+### Schritt 3: Kontaktieren Sie den Anbieter-Support
+- T-Mobile: Rufen Sie 1-877-778-2107 an (Prepaid-Support) oder besuchen Sie eine Filiale
+- AT&T: Rufen Sie 1-800-331-0500 an (Prepaid-Support)
+- Verizon: Rufen Sie 1-800-225-5499 an (Prepaid-Support)
+- Besuchen Sie eine physische Filiale für persönliche Aktivierungshilfe
 
-**Schritt 5: Rückerstattung beantragen**
-- Wenn die Carrier-eSIM nie aktiviert wird, beantragen Sie eine Rückerstattung innerhalb des Rückerstattungszeitraums des Carriers.
-- T-Mobile und AT&T erstatten in der Regel nicht genutzte Prepaid-Tarife innerhalb von 30 Tagen.
-- Die Rückerstattungsrichtlinie von Verizon ist weniger flexibel – prüfen Sie die Bedingungen vor dem Kauf.
+### Schritt 4: Einen Backup-Tarif kaufen
+- Wenn die Aktivierung länger als 2 Stunden dauert, kaufen Sie eine internationale eSIM als temporären Backup
+- Ubigi, Airalo und Roami bieten alle eine sofortige Aktivierung innerhalb von 2 Minuten
+- Nutzen Sie die Backup-eSIM, während Sie auf die Aktivierung des Anbietertarifs warten
+- Sobald der Anbietertarif aktiv ist, wechseln Sie die Datenleitung in den Telefoneinstellungen
 
-Aus diesem Grund wird empfohlen, vor Ihrer Reise eine Backup-internationale-eSIM zu installieren, wenn Sie bei der Ankunft garantiert verbunden sein müssen. Eine [USA eSIM](/united-states-esim/) mit sofortiger Aktivierung ist eine hervorragende Backup-Abdeckung.
+### Schritt 5: Rückerstattung beantragen
+- Wenn die Anbieter-eSIM nie aktiviert wird, beantragen Sie eine Rückerstattung innerhalb des Rückerstattungszeitraums des Anbieters
+- T-Mobile und AT&T erstatten in der Regel nicht genutzte Prepaid-Tarife innerhalb von 30 Tagen
+- Die Rückerstattungsrichtlinie von Verizon ist weniger flexibel — überprüfen Sie vor dem Kauf die Bedingungen
 
-**Kann ich meine Carrier-Prepaid-Nummer zwischen Reisen behalten?**
-Für Reisende, die regelmäßig die USA besuchen und dieselbe US-Nummer behalten möchten:
+Aus diesem Grund wird Reisenden, die bei der Ankunft garantierte Konnektivität benötigen, empfohlen, vor der Reise eine Backup-internationale-eSIM zu installieren. Ein [USA-eSIM-Tarif](/united-states-esim/) mit sofortiger Aktivierung dient als hervorragende Backup-Abdeckung.
 
-| Anbieter | Nummernerhaltung | Mindestkosten für Beibehaltung | Wie pausieren |
+### Kann ich meine Prepaid-Nummer des Anbieters zwischen Reisen behalten?
+
+Für Reisende, die regelmäßig in die USA reisen und dieselbe US-Nummer behalten möchten:
+
+| Anbieter | Nummernaufbewahrung | Mindestkosten zur Aufbewahrung | Wie pausieren |
 |:---------|:----------------|:--------------------:|:-------------|
-| T-Mobile | Mit aktivem Tarif behalten | 10 $/Monat (5GB) | Monatlich zahlen oder Nummer verlieren |
-| AT&T | Mit aktivem Tarif behalten | 10 $/Monat (5GB) | Monatlich zahlen oder Nummer verlieren |
-| Verizon | Mit aktivem Tarif behalten | 12 $/Monat (5GB) | Monatlich zahlen oder Nummer verlieren |
-| Tello | Mit aktivem Tarif behalten | 7 $/Monat (1GB) | Tarif pausieren, später fortsetzen |
+| T-Mobile | Behalten mit aktivem Tarif | $10/Monat (5GB) | Monatlich zahlen oder Nummer verlieren |
+| AT&T | Behalten mit aktivem Tarif | $10/Monat (5GB) | Monatlich zahlen oder Nummer verlieren |
+| Verizon | Behalten mit aktivem Tarif | $12/Monat (5GB) | Monatlich zahlen oder Nummer verlieren |
+| Tello | Behalten mit aktivem Tarif | $5/Monat (1GB) | Tarif pausieren, später fortsetzen |
 
-Tello ist der einzige Anbieter, der es ermöglicht, den Tarif (und die Nummernerhaltung) zwischen Reisen zu pausieren, ohne für Monate zu zahlen, in denen Sie den Dienst nicht nutzen. Das macht Tello zur besten Wahl für Reisende, die die USA mehrmals im Jahr besuchen, aber keine ganzjährige US-Dienstleistung benötigen.
+Tello ist der einzige Anbieter, der es Ihnen erlaubt, Ihren Tarif (und die Nummernaufbewahrung) zwischen Reisen zu pausieren, ohne für Monate zu zahlen, in denen Sie den Dienst nicht nutzen. Dies macht Tello zur besten Wahl für Reisende, die die USA ein paar Mal im Jahr besuchen, aber keinen ganzjährigen US-Dienst benötigen.
 
 ---
 
-[Roami USA eSIM](/united-states-esim/) bietet eine [kostenlose eSIM-Testversion](/free-esim/) an, wenn Sie testen möchten, wie eSIMs funktionieren, bevor Sie sich für einen Carrier-Tarif entscheiden. Der Code **WEB20** gewährt 20 % Rabatt auf jeden Tarif.
+[USA-eSIM-Tarife](/united-states-esim/) bieten einen [kostenlosen eSIM-Start](/free-esim/), wenn Sie testen möchten, wie eSIMs funktionieren, bevor Sie sich für einen Anbietertarif entscheiden. Der Code **WEB20** gewährt 20% Rabatt auf jeden Tarif.
 
-*Letzte Aktualisierung: Juli.*
 
-Die Wahl zwischen carrier-basierten und internationalen eSIM-Tarifen für die USA hängt letztlich von Ihren spezifischen Reisebedürfnissen ab. Wenn Sie eine US-Telefonnummer für Anrufe und SMS benötigen, sind Carrier-Tarife von T-Mobile oder Verizon die bessere Wahl. Wenn Sie nur Daten benötigen und den Komfort der sofortigen Aktivierung vor der Abreise wünschen, bieten internationale eSIM-Anbieter wettbewerbsfähige Preise und Flexibilität. Der beste Tarif ist der, der Ihren Reiseverlauf, Ihre Datengewohnheiten und die Kompatibilität Ihres Geräts berücksichtigt, um eine nahtlose Konnektivität während Ihres Besuchs in den USA zu gewährleisten.
+*Zuletzt aktualisiert August 2026.*
 
-Für eine vollständige Übersicht über die USA eSIM siehe unseren [USA eSIM-Komplettleitfaden](/blog/usa-esim-complete-guide/). Für die Einrichtung von Dual-SIM siehe unseren [USA eSIM-Dual-SIM-Leitfaden](/blog/usa-esim-dual-sim-setup/). Für Preise siehe unseren [USA eSIM-Preisleitfaden](/blog/usa-esim-price-guide/).
+Die Wahl zwischen anbieterbasierten und internationalen eSIM-Tarifen für die USA hängt letztendlich von Ihren spezifischen Reisebedürfnissen ab. Wenn Sie eine US-Telefonnummer für Anrufe und SMS benötigen, sind Anbietertarife von T-Mobile oder Verizon die bessere Wahl. Wenn Sie nur Daten benötigen und die Bequemlichkeit einer sofortigen Aktivierung vor der Abreise wünschen, bieten internationale eSIM-Anbieter wettbewerbsfähige Preise und Flexibilität. Der beste Tarif ist derjenige, der zu Ihrer Reiseroute, Ihren Datengewohnheiten und den Kompatibilitätsanforderungen Ihres Geräts passt und eine nahtlose Konnektivität während Ihres gesamten Besuchs in den Vereinigten Staaten gewährleistet.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "T-Mobile vs AT&T vs Verizon eSIM: Die besten US-Carrier-Tarife für Reisende",
-  "description": "T-Mobile, AT&T, Verizon: Prepaid-eSIM-Vergleich mit Preisen und Netzabdeckung für Touristen. Roami bietet automatischen Netzwechsel.",
-  "author": { "@type": "Organization", "name": "Roami" },
-  "datePublished": "2026-07-27",
-  "dateModified": "2026-07-27",
-  "image": "/img/blog/usa/usa-esim-carrier-plans.jpg",
-  "publisher": { "@type": "Organization", "name": "Roami", "logo": { "@type": "ImageObject", "url": "/img/logo.png" } }
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "/" },
-    { "@type": "ListItem", "position": 2, "name": "Blog", "item": "/blog/" },
-    { "@type": "ListItem", "position": 3, "name": "T-Mobile vs AT&T vs Verizon eSIM", "item": "/blog/usa-esim-carrier-plans/" }
-  ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    { "@type": "Question", "name": "Welches US-Netz ist am besten – T-Mobile, AT&T oder Verizon für eSIM?", "acceptedAnswer": { "@type": "Answer", "text": "Das hängt von Ihrer Reiseroute ab. Für Stadtbesuche ist T-Mobile am schnellsten. Für ausgewogene Abdeckung ist AT&T die sicherste Wahl. Für abgelegene ländliche Gebiete erreicht Verizon die meisten Orte." } },
-    { "@type": "Question", "name": "Brauche ich eine US-Adresse für Prepaid-eSIM?", "acceptedAnswer": { "@type": "Answer", "text": "Die International-Visitor-Tarife von T-Mobile benötigen keine US-Adresse. AT&T und Verizon fragen möglicherweise danach – eine Hoteladresse funktioniert. Die meisten MVNOs akzeptieren die Reisepass-Überprüfung." } },
-    { "@type": "Question", "name": "Welcher Carrier verlangt die niedrigsten Steuern und Gebühren?", "acceptedAnswer": { "@type": "Answer", "text": "T-Mobile fügt bei Prepaid-Tarifen die niedrigsten Steuern und Gebühren hinzu, typischerweise 8-12 % auf den ausgewiesenen Preis. AT&T fügt 12-18 % hinzu. Verizon fügt 15-25 % hinzu." } },
-    { "@type": "Question", "name": "Kann ich einen Carrier-Prepaid-eSIM mit einer ausländischen Kreditkarte kaufen?", "acceptedAnswer": { "@type": "Answer", "text": "T-Mobile Prepaid akzeptiert ausländische Kreditkarten. AT&T Prepaid akzeptiert ebenfalls die meisten internationalen Karten. Verizon Prepaid kann Probleme mit Nicht-US-Karten haben." } },
-    { "@type": "Question", "name": "Welcher Carrier-Tarif ist am besten für Roadtrips?", "acceptedAnswer": { "@type": "Answer", "text": "AT&T Prepaid ist die beste Option unter den Carrier-Tarifen für Roadtrips. AT&T hat eine deutlich bessere ländliche Abdeckung als T-Mobile und in den meisten Gebieten eine vergleichbare Reichweite wie Verizon." } }
-  ]
-}
-</script>
+Für eine vollständige USA-eSIM-Übersicht siehe den [USA-eSIM-Leitfaden](/blog/usa-esim-complete-guide/).
+Für die Dual-SIM-Konfiguration siehe den [USA-eSIM-Dual-SIM-Leitfaden](/blog/usa-esim-dual-sim-setup/).
+Für USA-eSIM-Preise siehe den [USA-eSIM-Preisvergleich](/blog/usa-esim-price-guide/).

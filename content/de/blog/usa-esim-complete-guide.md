@@ -1,27 +1,26 @@
-﻿---
-title: "USA eSIM: Vollständiger Leitfaden für Reisende"
-description: "USA eSIM im Überblick: Funktionsweise, Anbietervergleich und Preise für Ihre Reise. Roami mit automatischem Netzbetreiberwechsel."
-keywords: ["USA eSIM Leitfaden", "beste eSIM für USA-Reisen", "USA eSIM wie es funktioniert", "USA eSIM für Touristen", "USA eSIM Vergleich", "USA eSIM für Reisende", "wie man eSIM in den USA bekommt", "USA eSIM für Ausländer", "USA eSIM Tarife und Preise", "bester Weg, um Internet in den USA zu bekommen", "USA mobile Daten für Touristen", "USA Reise eSIM"]
-
-date: 2026-08-11T00:00:00Z
-lastmod: 2026-08-11T00:00:00Z
+---
+title: "USA-eSIM Vollständiger Leitfaden für alle Reisende"
+description: "USA-eSIM vollständiger Leitfaden: Funktionsweise, Anbieter, Preise und Einrichtung für Ihre USA-Reise – mit Live-Support."
+keywords: ["USA-eSIM vollständiger Leitfaden", "USA-eSIM wie es funktioniert", "USA-eSIM Tarife und Preise", "wie man eSIM in den USA bekommt", "USA-eSIM für Reisende"]
+date: 2026-08-24T00:00:00Z
+lastmod: 2026-08-24T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami hilft Reisenden, mit einfachen eSIM-Tarifen in Verbindung zu bleiben."
-image: "/img/blog/usa/usa-esim-complete-guide.jpg"
+authorBio: "Roami hilft Reisenden, mit einfachen eSIM-Tarifen verbunden zu bleiben."
+image: "/img/esim/usa/usa-esim-complete-guide.jpg"
 categories: ["eSIM", "Reisen", "USA"]
 tags: ["USA eSIM"]
 readingTime: 20
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "USA eSIM: Vollständiger Leitfaden für Reisende"
+h1title: "USA-eSIM Vollständiger Leitfaden 2026: Alles, was Reisende wissen müssen"
 
-# Titel für Seitenleisten-Module
+# Titel der Seitenleisten-Module
 productsTitle: "Beliebte eSIM-Tarife"
 hotPostsTitle: "Top-Artikel"
 recentPostsTitle: "Neueste Beiträge"
 
-# Produkte für die rechte Seitenleiste (6 Artikel)
+# Rechte Seitenleiste Produkte (6 Einträge)
 products:
   - name: "USA eSIM"
     flag: "/img/flags/us.svg"
@@ -56,801 +55,665 @@ products:
 
 # Neueste Beiträge (Seitenleiste)
 recentPosts:
-  - title: "eSIM-Tiefen-Fehlerbehebungsleitfaden (16 reale Fälle)"
+  - title: "eSIM-Tiefen-Fehlerbehebungsleitfaden (16 echte Fälle)"
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
-  - title: "Plattformübergreifende eSIM-Übertragung"
+  - title: "Plattformübergreifende eSIM-Übertragung 2026"
     permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
     date: "2026-05-25"
-  - title: "Duale eSIM funktioniert nicht? 12 Lösungen für das iPhone"
+  - title: "Duale eSIM funktioniert nicht? 12 Korrekturen für iPhone"
     permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
     date: "2026-05-24"
-  - title: "Smartwatch-eSIM-Kompatibilitätsliste (vollständig)"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
+  - title: "iPad & Apple Watch eSIM: Vollständiger Leitfaden"
+    permalink: "/faq/ipad-apple-watch-esim-support-guide/"
     date: "2026-05-23"
   - title: "iPhone SE eSIM-Kompatibilitätsleitfaden"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
-  - title: "iPhone 11 eSIM - Vollständiger Setup-Leitfaden"
+  - title: "iPhone 11 eSIM – Vollständiger Einrichtungsleitfaden"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "Ultimativer Leitfaden: iPhone 17 eSIM-Aktivierungslösungen"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+  - title: "Ultimativer Leitfaden 2026: iPhone 16 eSIM-Aktivierungslösungen"
+    permalink: "/faq/2026-Ultimate-Guide-iPhone-16-eSIM-Activation-Solutions/"
     date: "2026-05-20"
 ---
-Eine USA eSIM ist die einfachste und günstigste Lösung für mobiles Internet auf Ihrer USA-Reise. Ob Städtereise nach New York, Roadtrip durch Kalifornien oder Nationalpark-Abenteuer – mit der richtigen eSIM sparen Sie bis zu 500 % gegenüber Flughafen-Kiosken und bleiben vom ersten Moment an verbunden. Die USA haben drei große Mobilfunknetze – T-Mobile, AT&T und Verizon – die jeweils zwischen 60 und 99 % der Bevölkerung abdecken, je nach Region.
 
-Die Wahl des falschen Anbieters kann bedeuten, dass Sie in Nationalparks kein Signal haben oder in überfüllten Städten langsame Datenverbindungen haben. Dieser Leitfaden erklärt, wie eine **eSIM USA** funktioniert, welchen Anbieter Sie wählen sollten und was Sie bezahlen werden.
+Die richtige US-eSIM für Touristen hängt von Ihrer Reiseroute ab. Die USA haben drei große Mobilfunknetze – T-Mobile, AT&T und Verizon – die jeweils den Großteil der Bevölkerung abdecken. Die Wahl des falschen kann bedeuten, kein Signal in Nationalparks oder langsame Daten in überfüllten Städten. Dieser Leitfaden behandelt, wie die USA-eSIM funktioniert, welchen Anbieter Sie wählen sollten und was Sie zahlen werden. Wenn Sie bereits wissen, wonach Sie suchen, finden Sie im [USA-eSIM-Vergleich](/blog/usa-esim-ranking-comparison-2026/) einen direkten Vergleich von 10 Anbietern.
 
-Dieser USA eSIM-Komplettleitfaden deckt die Grundlagen der USA eSIM ab und verweist auf ausführlichere Artikel, wenn Sie sie benötigen. Wenn Sie bereits wissen, wonach Sie suchen, vergleicht der [USA eSIM-Vergleich](/blog/usa-esim-ranking-comparison-2026/) 10 Anbieter nebeneinander.
+Für USA-eSIM-Preise lesen Sie den [USA-eSIM-Kostenleitfaden](/blog/usa-esim-price-guide/). Für Abdeckungsdetails lesen Sie den [USA-eSIM-Abdeckungsleitfaden](/blog/usa-esim-coverage-guide/).
 
-**Das Wachstum der eSIM-Technologie**
-Der eSIM-Markt hat sich in den letzten Jahren rasant entwickelt. Laut [Juniper Research](https://www.juniperresearch.com/) überstieg die Zahl der eSIM-Verbindungen weltweit die 1,5-Milliarden-Marke, gegenüber nur 300 Millionen wenige Jahre zuvor. Die GSMA prognostiziert, dass eSIM bis 2027 in über 90 % aller ausgelieferten Smartphones verbaut sein wird.
+## Das Wachstum der eSIM-Technologie im Jahr 2026
 
-Für Ihre **USA eSIM Reise** bedeutet dieses Wachstum mehr Anbieter, bessere Preise und verbesserte Abdeckungsoptionen jedes Jahr. Eine Umfrage von Skift ergab, dass 68 % der internationalen USA-Reisenden mit der eSIM-Technologie vertraut waren und 42 % bereits eine **Amerika eSIM** auf ihrer Reise genutzt hatten – gegenüber 18 % wenige Jahre zuvor.
+> **Die wichtigsten Erkenntnisse:** Ubigi bietet die niedrigsten Kosten pro GB auf der 10-GB-Stufe, mit 10 GB für $12 ($1,20/GB) im T-Mobile-Netz. Tello ist das beste Preis-Leistungs-Verhältnis, wenn Sie eine US-Telefonnummer benötigen, mit $15 für 10 GB inklusive Sprache und SMS. Nomad ist die sicherste Wahl für Reisen aufs Land, mit AT&T- und Verizon-Zugang für zuverlässige Abdeckung in Nationalparks und Kleinstädten. Der wichtigste Vorbehalt: eSIM ist die günstigste Option für Reisen unter 30 Tagen, aber eine physische SIM oder ein Prepaid-Tarif eines Betreibers wird für Aufenthalte von 30+ Tagen bei höheren Datenmengen günstiger.
 
-Der Hauptgrund ist der Komfort: kein Geschäft mehr finden müssen, keine physische Karte mehr verlieren und sofortige Aktivierung bei der Ankunft.
+Der eSIM-Markt hat sich in den letzten Jahren rasant entwickelt, und Branchenprognosen gehen von einem anhaltenden Wachstum der eSIM-Nutzung aus.
 
-**Hauptvorteile der Nutzung einer eSIM für USA-Reisen**
-- **Sofortige Aktivierung**: Kaufen und installieren Sie vor der Abreise – verbinden Sie sich sofort nach der Landung ohne Warteschlangen oder Papierkram
-- **Dual-SIM-Fähigkeit**: Behalten Sie Ihre Heimatnummer für WhatsApp, iMessage und Bank-SMS aktiv, während die eSIM die US-Daten übernimmt
+Für US-Reisen im Speziellen bedeutet dieses Wachstum jedes Jahr mehr Anbieter, bessere Preise und verbesserte Abdeckungsoptionen. Das Bewusstsein für und die Nutzung von eSIM-Technologie unter internationalen Reisenden in die USA nehmen weiter zu. Der Hauptgrund ist der Komfort: keine Notwendigkeit, ein Geschäft zu finden, keine physische Karte, die verloren gehen kann, und sofortige Aktivierung bei der Ankunft.
 
+## Wichtigste Vorteile der Nutzung einer eSIM für US-Reisen
+
+- **Sofortige Aktivierung**: Kaufen und installieren Sie sie vor Ihrer Abreise – verbinden Sie sich sofort nach der Landung, ohne Schlangen oder Papierkram
+- **Dual-SIM-Fähigkeit**: Behalten Sie Ihre Heimnummer für WhatsApp, iMessage und Bank-SMS aktiv, während die eSIM die US-Daten übernimmt
 - **Keine physische Karte zum Verlieren**: Das Profil wird in der Hardware Ihres Telefons gespeichert, nicht auf einer zerbrechlichen Plastik-SIM
-- **Umweltfreundlich**: Kein Plastik, keine Verpackung und kein Versand erforderlich – die GSMA schätzt, dass die eSIM-Einführung jährlich über 20.000 Tonnen Plastikmüll einsparen wird
-
+- **Umweltfreundlich**: Kein Plastik, keine Verpackung und kein Versand erforderlich – eSIM entfernt den physischen Abfall von Plastik-SIMs vollständig
 - **Flexible Tarifoptionen**: Wählen Sie aus Kurzzeit-, Langzeit- oder unbegrenzten Tarifen von Dutzenden von Anbietern
+- **Kein Ausweis oder US-Adresse erforderlich**: Internationale Anbieter akzeptieren ausländische Kreditkarten, ohne eine US-Rechnungsadresse zu benötigen
 
-- **Kein Ausweis oder US-Adresse erforderlich**: Internationale Anbieter akzeptieren ausländische Kreditkarten, ohne dass eine US-Rechnungsadresse erforderlich ist
-Für die meisten Reisenden liegen die Vorteile auf der Hand. Die einzigen Situationen, in denen eSIM nicht ideal sein könnte, sind, wenn Ihr Telefon älter als 2019 ist oder wenn Sie die absolut günstigsten Tarife für einen Aufenthalt von 30+ Tagen benötigen.
+Für die meisten Reisenden sind die Vorteile klar. Die einzigen Situationen, in denen eSIM möglicherweise nicht ideal ist, sind, wenn Ihr Telefon älter als 2019 ist oder wenn Sie die absolut günstigsten Preise für einen Aufenthalt von 30+ Tagen benötigen.
 
----
+## Was ist eine eSIM und wie funktioniert sie für US-Reisen?
 
-## Was ist eine eSIM und wie funktioniert sie für USA-Reisen?
+**Wie man eine eSIM in den USA bekommt** – die kurze Antwort: Sie müssen nicht in den USA sein, um eine zu bekommen. Eine [eSIM für die USA](/united-states-esim/) für Reisende ist eine digitale SIM-Karte, die in die Hardware Ihres Telefons eingebaut ist. Anstatt bei Ihrer Ankunft in den USA eine physische Plastik-SIM-Karte einzulegen, kaufen Sie vor Ihrer Abreise online einen Tarif, scannen einen QR-Code, und Ihr Telefon verbindet sich automatisch mit dem US-Mobilfunknetz. Kein Kiosk am Flughafen, kein SIM-Karten-Wechsel, keine Passregistrierung in einem Laden des Betreibers.
 
-**Wie man eine eSIM in den USA bekommt** – die kurze Antwort: Sie müssen nicht in den USA sein, um eine zu bekommen. Eine **eSIM Karte USA** funktioniert als digitale SIM-Karte, die in die Hardware Ihres Telefons eingebaut ist, und ersetzt die herkömmliche Plastik-SIM vollständig. Eine [usa esim](/united-states-esim/) für Reisende ist eine digitale SIM-Karte, die in die Hardware Ihres Telefons eingebaut ist.
+Die [eSIM-Spezifikationen der GSMA](https://www.gsma.com/esim/) bestätigen, dass die Technologie heute auf den meisten Flaggschiff-Telefonen, die nach 2020 veröffentlicht wurden, Standard ist. Apples [Dual-SIM-Supportseite](https://support.apple.com/en-us/HT212780) listet kompatible iPhone-Modelle auf – im Wesentlichen jedes Modell ab dem XS, mit Ausnahme von Geräten, die in China, Hongkong und Macau verkauft werden. Auf der Android-Seite unterstützen Samsung Galaxy S20 und neuer, Google Pixel 3 und neuer sowie die meisten neueren Flaggschiffe von OnePlus und Xiaomi eSIM.
 
-Anstatt bei Ihrer Ankunft in den USA eine physische Plastik-SIM-Karte einzulegen, kaufen Sie vor Ihrer Abreise online einen Tarif, scannen einen QR-Code, und Ihr Telefon verbindet sich automatisch mit dem US-Mobilfunknetz. Kein Flughafen-Kiosk, kein SIM-Tausch, keine Passregistrierung in einem Anbieter-Geschäft.
+**Das Wichtigste, was eSIM anders macht:** Es funktioniert neben Ihrer vorhandenen physischen SIM. Ihre Heim-Telefonnummer bleibt für WhatsApp, iMessage und SMS von Ihrer Bank aktiv. Die eSIM übernimmt all Ihre US-Daten. Das ist die Funktion, die eSIM bequemer macht als eine Touristen-SIM-Karte, die erfordert, dass Sie Ihre Heim-SIM entfernen und den Zugang zu Ihrer regulären Nummer verlieren.
 
-Die [eSIM-Spezifikationen der GSMA](https://www.gsma.com/esim/) bestätigen, dass die Technologie mittlerweile auf den meisten Flaggschiff-Telefonen, die nach 2020 auf den Markt kamen, Standard ist.
+**Um zu prüfen, ob Ihr Telefon [USA-Reise-eSIM](/united-states-esim/) unterstützt:** Wählen Sie `*#06#`. Wenn Sie eine EID-Nummer (normalerweise 32-stellig) zusammen mit der IMEI sehen, ist Ihr Telefon eSIM-kompatibel. Wenn Sie keine EID sehen, unterstützt Ihr Telefon entweder kein eSIM oder die Funktion wurde von Ihrem Betreiber deaktiviert. Für Reisende mit älteren oder nicht kompatiblen Telefonen ist der beste Weg, um in den USA Internet zu bekommen, entweder eine physische SIM oder mobiles WLAN (Pocket WiFi).
 
-Apples [Dual-SIM-Support-Seite](https://support.apple.com/en-us/HT212780) listet kompatible iPhone-Modelle auf – im Wesentlichen jedes Modell ab dem XS, mit Ausnahme von Geräten, die in China, Hongkong und Macau verkauft werden. Auf der Android-Seite unterstützen das Samsung Galaxy S20 und neuere, das Google Pixel 3 und neuere sowie die meisten aktuellen Flaggschiffe von OnePlus und Xiaomi eSIM.
+Für eine Schritt-für-Schritt-Anleitung, die iPhone-, Samsung Galaxy- und Google Pixel-Installationen abdeckt, finden Sie im [USA-eSIM-Einrichtungsleitfaden](/blog/usa-esim-setup-guide/) gerätespezifische Anweisungen mit Screenshots.
 
-**Das Wichtigste, was eSIM anders macht:** Es funktioniert neben Ihrer vorhandenen physischen SIM. Ihre heimische Telefonnummer bleibt für WhatsApp, iMessage und SMS von Ihrer Bank aktiv. Die eSIM übernimmt alle Ihre US-Daten. Dies ist die Funktion, die eSIM bequemer macht als eine Touristen-SIM-Karte, bei der Sie Ihre heimische SIM entfernen und den Zugang zu Ihrer regulären Nummer verlieren müssen.
+## Wie eSIM-Technologie auf Hardware-Ebene funktioniert
 
-**Um zu überprüfen, ob Ihr Telefon [usa esim](/united-states-esim/) unterstützt:** Wählen Sie `*#06#`. Wenn Sie eine EID-Nummer (normalerweise 32-stellig) zusammen mit der IMEI sehen, ist Ihr Telefon eSIM-kompatibel. Wenn Sie keine EID sehen, unterstützt Ihr Telefon entweder kein eSIM oder die Funktion wurde von Ihrem Anbieter deaktiviert.
+Eine eSIM (eingebettete SIM) ist ein kleiner Chip, der während der Herstellung direkt auf die Hauptplatine Ihres Telefons gelötet wird. Im Gegensatz zu einer physischen SIM kann sie nicht entfernt oder ausgetauscht werden – aber sie kann ferngesteuert neu programmiert werden. Wenn Sie einen Reise-eSIM-Tarif kaufen, sendet der Anbieter ein Profil an Ihr Telefon, das die Netzwerk-Authentifizierungsschlüssel enthält. Der eSIM-Chip Ihres Telefons speichert dieses Profil und präsentiert es dem Mobilfunknetz, wenn Sie sich verbinden, genauso wie es eine physische SIM tun würde.
 
-Für Reisende mit älteren oder nicht kompatiblen Telefonen ist der beste Weg, um Internet in den USA zu bekommen, entweder eine physische SIM oder ein Pocket WiFi. Eine Schritt-für-Schritt-Anleitung für iPhone, Samsung Galaxy und Google Pixel-Installationen finden Sie im [USA eSIM-Setup-Leitfaden](/blog/usa-esim-setup-guide/) mit gerätespezifischen Anweisungen und Screenshots.
+Die GSMA definiert den eSIM-Standard durch ihre Remote SIM Provisioning (RSP)-Spezifikation. Der technische Rahmen umfasst drei Schlüsselkomponenten: die eUICC (der Chip selbst), den SM-DP+ (den Remote-Server, der Profile sicher bereitstellt) und den LPA (Local Profile Assistant – die Software auf Ihrem Telefon, die installierte Profile verwaltet). Das Verständnis dieser Komponenten hilft bei der Fehlerbehebung bei Aktivierungsproblemen, da Probleme auf jeder Ebene auftreten können.
 
-**Wie die eSIM-Technologie auf Hardware-Ebene funktioniert**
-Eine eSIM (embedded SIM) ist ein kleiner Chip, der während der Herstellung direkt auf das Motherboard Ihres Telefons gelötet wird. Anders als eine physische SIM kann sie nicht entfernt oder getauscht werden – aber sie kann ferngesteuert neu programmiert werden.
+## eSIM-Nutzung nach Gerätetyp
 
-Wenn Sie einen Reise-eSIM-Tarif kaufen, sendet der Anbieter ein Profil an Ihr Telefon, das die Netzwerk-Authentifizierungsschlüssel enthält. Der eSIM-Chip Ihres Telefons speichert dieses Profil und präsentiert es dem Mobilfunknetz, wenn Sie sich verbinden, genau wie eine physische SIM.
+| Gerätekategorie | eSIM-Unterstützungsrate (2026) | Hinweise |
+| :-------------- | :----------------------------: | :------- |
+| iPhone (XS und neuer) | 100 % | Ohne China/HK/Macau-Modelle |
+| Samsung Galaxy (S20 und neuer) | Die meisten | Bei einigen netzgesperrten Modellen ist eSIM deaktiviert |
+| Google Pixel (3 und neuer) | Alle | Volle eSIM-Unterstützung bei allen Modellen |
+| OnePlus (8 und neuer) | Die meisten | Variiert erheblich nach Region und Betreiber |
+| Xiaomi-Flaggschiffe | Einige | Nur auf höherwertigen Modellen verfügbar |
+| iPads (Cellular-Modelle) | Alle | Seit iPad Pro 2018 und iPad der 7. Generation |
+| Windows-Laptops | Einige | Ausgewählte Surface Pro- und Surface Go-Modelle |
 
-Die GSMA definiert den eSIM-Standard durch ihre Remote SIM Provisioning (RSP)-Spezifikation. Das technische Framework umfasst drei Hauptkomponenten: die eUICC (der Chip selbst), den SM-DP+ (den entfernten Server, der Profile sicher bereitstellt) und den LPA (Local Profile Assistant – die Software auf Ihrem Telefon, die installierte Profile verwaltet).
+## Regionale Sperrungen und eSIM-Kompatibilität
 
-Das Verständnis dieser Komponenten hilft bei der Fehlerbehebung bei Aktivierungsproblemen, da Probleme auf jeder Ebene auftreten können.
+Ein kritischer Punkt für Reisende: eSIM funktioniert nicht auf netzgesperrten Telefonen. Wenn Ihr Telefon an einen bestimmten Betreiber in Ihrem Heimatland gebunden ist – üblich bei Vertragstelefonen in den USA, Kanada, Japan und Teilen Europas – können Sie keine Reise-eSIM hinzufügen, bis das Telefon entsperrt ist. Die [Entsperrregeln der FCC](https://www.fcc.gov/consumer-governmental-affairs/consumer-topics/cell-phone-unlocking) verlangen von US-Betreibern, Telefone auf Anfrage zu entsperren, nachdem die Vertragsbedingungen erfüllt sind, aber internationale Betreiber haben unterschiedliche Richtlinien.
 
-**eSIM-Einführung nach Gerätetyp**
-| Gerätekategorie | eSIM-Unterstützungsrate | Anmerkungen |
-|:---------------|:------------------------:|:------|
-| iPhone (XS und neuer) | 100 % | Ausgenommen China/HK/Macau-Modelle |
-| Samsung Galaxy (S20 und neuer) | 95 % | Einige anbietergesperrte Modelle haben eSIM deaktiviert |
-| Google Pixel (3 und neuer) | 100 % | Volle eSIM-Unterstützung für alle Modelle |
-| OnePlus (8 und neuer) | 80 % | Variiert erheblich nach Region und Anbieter |
-| Xiaomi Flaggschiffe | 60 % | Nur auf höherwertigen Modellen verfügbar |
-| iPads (Mobilfunkmodelle) | 100 % | Seit iPad Pro 2018 und iPad 7. Generation |
-| Windows-Laptops | 30 % | Ausgewählte Surface Pro- und Surface Go-Modelle |
-Quelle: [GSMA Device Database](https://www.gsma.com/esim/device-database/)
+Überprüfen Sie immer den Entsperrstatus Ihres Telefons, bevor Sie eine USA-eSIM kaufen. Um zu prüfen, ob Ihr Telefon gesperrt ist: Legen Sie eine SIM-Karte eines anderen Betreibers ein und starten Sie neu. Wenn nach einem Entsperrcode gefragt wird, ist Ihr Telefon gesperrt. Kontaktieren Sie Ihren Betreiber, um eine Entsperrung zu beantragen – dies ist in den meisten Fällen kostenlos und kann oft innerhalb von 24 Stunden bearbeitet werden.
 
-**Regionsgesperrte Telefone und eSIM-Kompatibilität**
-Ein entscheidender Punkt für Reisende: eSIM funktioniert nicht auf anbietergesperrten Telefonen. Wenn Ihr Telefon für einen bestimmten Anbieter in Ihrem Heimatland gesperrt ist – was bei Vertragstelefonen in den USA, Kanada, Japan und Teilen Europas üblich ist – können Sie keine Reise-eSIM hinzufügen, bis das Telefon entsperrt ist.
+## Häufige eSIM-Mythen widerlegt
 
-Die [Entsperrungsregeln der FCC](https://www.fcc.gov/consumer-governmental-affairs/consumer-topics/cell-phone-unlocking) verlangen von US-Anbietern, Telefone auf Anfrage zu entsperren, nachdem die Vertragsbedingungen erfüllt sind, aber internationale Anbieter haben unterschiedliche Richtlinien. Überprüfen Sie immer den Entsperrstatus Ihres Telefons, bevor Sie eine USA eSIM kaufen.
-
-Um zu überprüfen, ob Ihr Telefon gesperrt ist: Legen Sie eine SIM-Karte eines anderen Anbieters ein und starten Sie neu. Wenn nach einem Entsperrcode gefragt wird, ist Ihr Telefon gesperrt. Kontaktieren Sie Ihren Anbieter, um eine Entsperrung zu beantragen – dies ist in den meisten Fällen kostenlos und kann oft innerhalb von 24 Stunden bearbeitet werden.
-
-**Häufige eSIM-Mythen entkräftet**
 | Mythos | Realität |
-|:-----|:--------|
-| eSIMs benötigen eine Internetverbindung zur Installation | Der QR-Code installiert das Profil lokal – es wird keine aktive Internetverbindung benötigt |
-| eSIMs entladen den Akku schneller | eSIM-Chips verbrauchen die gleiche Energie wie physische SIMs; es gibt keinen messbaren Unterschied |
+| :----- | :------- |
+| eSIMs benötigen eine Internetverbindung zur Installation | Der QR-Code installiert das Profil lokal – keine aktive Internetverbindung ist erforderlich |
+| eSIMs entladen Ihren Akku schneller | eSIM-Chips verbrauchen die gleiche Energie wie physische SIMs; es gibt keinen messbaren Unterschied |
 | eSIMs sind weniger sicher als physische SIMs | eSIMs sind manipulationssicherer, da sie nicht physisch aus dem Gerät entfernt werden können |
 | Sie können immer nur eine eSIM gleichzeitig haben | Die meisten Telefone unterstützen 5-10 gespeicherte eSIM-Profile, wobei 2 gleichzeitig aktiv sein können |
-| eSIMs sind teurer als physische SIMs | Bei der 10-GB-Stufe sind eSIMs ($12-20) günstiger als die meisten Touristen-SIMs ($25+) |
-| eSIMs funktionieren nicht mehr, wenn Sie Ihr Telefon zurücksetzen | Das eSIM-Profil überlebt Werksreset auf den meisten modernen Telefonen |
+| eSIMs sind teurer als physische SIMs | Auf der 10-GB-Stufe sind eSIMs ($12-20) günstiger als die meisten Touristen-SIMs ($25+) |
+| eSIMs funktionieren nicht mehr, wenn Sie Ihr Telefon zurücksetzen | Das eSIM-Profil überlebt das Zurücksetzen auf die Werkseinstellungen bei den meisten modernen Telefonen |
 
----
+## Wie US-Mobilfunknetze funktionieren
 
-## Wie funktionieren die US-Mobilfunknetze für eSIM-Reisende?
+Die USA haben drei große Mobilfunknetze. Ihre eSIM verbindet sich je nach gewähltem Anbieter mit einem oder zwei davon. Das ist wichtig, weil die Abdeckung je nach Reiseziel erheblich variiert. Das Verständnis dessen ist für jeden USA-eSIM-Vergleich unerlässlich.
 
-Die USA haben drei große Mobilfunknetze. Ihre eSIM verbindet sich mit einem oder zwei davon, je nachdem, welchen Anbieter Sie wählen. Dies ist wichtig, weil die Abdeckung je nach Reiseziel erheblich variiert. Das Verständnis dessen ist für jeden USA eSIM-Vergleich und jede **USA Reise Internet eSIM** unerlässlich.
+**T-Mobile** hat die schnellsten 5G-Geschwindigkeiten in Städten – es ist führend bei der 5G-Verfügbarkeit in Städten und den mittleren Download-Geschwindigkeiten. In der Innenstadt von Manhattan oder Chicagos Loop sind die 5G-Download-Geschwindigkeiten schnell. Aber sein 4G-LTE-Fallback ist merklich schwächer als bei AT&T oder Verizon. Fahren Sie 30 Minuten außerhalb einer mittelgroßen Stadt, und das Signal fällt oft ab. T-Mobiles Abdeckung ist stark auf Ballungsräume ausgerichtet. Nationalparks, Kleinstädte und ländliche Autobahnen sind die Schwachstellen von T-Mobile.
 
-**T-Mobile** hat die schnellsten 5G-Geschwindigkeiten in Städten – [OpenSignal](https://www.opensignal.com/reports) bestätigt, dass es in der städtischen 5G-Verfügbarkeit und den medianen Download-Geschwindigkeiten führend ist. In der Innenstadt von Manhattan oder Chicagos Loop erreichen Sie auf 5G Download-Geschwindigkeiten von über 300 Mbit/s.
+**AT&T** deckt mehr von Amerika ab als T-Mobile. Wenn Ihre Reise Nationalparks oder Kleinstädte umfasst, sind Anbieter mit AT&T-Unterstützung die sicherere Wahl für US-Mobildaten für Touristen. Die ländliche LTE-Abdeckung von AT&T reicht erheblich weiter als die von T-Mobile, insbesondere im Südwesten, im Mittleren Westen und in den Mountain States. Das 5G-Netz von AT&T wächst, hinkt aber in der städtischen Dichte immer noch hinter T-Mobile her.
 
-Aber sein 4G-LTE-Fallback ist merklich schwächer als bei AT&T oder Verizon. Fahren Sie 30 Minuten außerhalb jeder mittelgroßen Stadt und das Signal bricht oft ab. T-Mobile deckt etwa 300 Millionen Amerikaner ab, aber die Abdeckung konzentriert sich stark auf Ballungsräume. Nationalparks, Kleinstädte und ländliche Autobahnen sind die Bereiche, in denen T-Mobile schwächelt.
+**Verizon** hat den größten 4G-LTE-Fußabdruck insgesamt. An sehr abgelegenen Orten – im Landesinneren von Alaska, im Hinterland von Utah, in den Ebenen von Montana – ist es oft der einzige Betreiber, der funktioniert. Verizon hat im letzten Jahrzehnt stark in die ländliche Infrastruktur investiert, und das zeigt sich in den Abdeckungskarten. Sein 5G-Netz verwendet in einigen Städten mmWave-Technologie, die extrem schnelle Geschwindigkeiten, aber eine begrenzte Reichweite bietet – Sie sehen es in der Innenstadt, aber einen Block weiter verlieren Sie es.
 
-**AT&T** deckt mehr von Amerika außerhalb der Städte ab als T-Mobile. Wenn Ihre Reise Nationalparks oder Kleinstädte umfasst, sind Anbieter, die auf AT&T setzen, eine sicherere Wahl für USA-mobile-Daten für Touristen. [Ooklas Speedtest Global Index](https://www.speedtest.net/global-index) zeigt, dass die ländliche LTE-Abdeckung von AT&T deutlich weiter reicht als die von T-Mobile, insbesondere im Südwesten, Mittleren Westen und den Mountain States.
+Für Städtereisen (New York, Chicago, Los Angeles, Miami) funktioniert jedes Netz gut. Für Roadtrips oder Nationalparkbesuche ist das Netz, das Ihre eSIM verwendet, wichtiger als der Anbietername. Ein Anbieter, der nur auf T-Mobile setzt, fühlt sich in Manhattan hervorragend an, ist aber am Grand Canyon nutzlos. Ein Anbieter, der eine Verbindung zu AT&T und Verizon herstellt (wie Nomad), wird an beiden Orten Signal halten. Einige neuere Anbieter, wie [USA-Daten-eSIM](/united-states-esim/), wechseln automatisch zwischen T-Mobile, AT&T und Verizon, um Sie unabhängig von Ihrem Standort verbunden zu halten.
 
-AT&Ts 5G-Netz wächst, hinkt T-Mobile aber in der städtischen Dichte immer noch hinterher.
+Der [USA-eSIM-Abdeckungsleitfaden](/blog/usa-esim-coverage-guide/) enthält detaillierte Karten und Geschwindigkeitstestdaten für jedes große US-Reiseziel.
 
-**Verizon** hat den größten 4G-LTE-Fußabdruck insgesamt. An sehr abgelegenen Orten – im Landesinneren Alaskas, im Hinterland von Utah, den Ebenen Montanas – ist es oft der einzige Anbieter, der funktioniert. Verizon hat im letzten Jahrzehnt massiv in die ländliche Infrastruktur investiert, und das zeigt sich in den Abdeckungskarten.
+## 5G-Abdeckung und Leistung nach Betreiber
 
-Sein 5G-Netz verwendet in einigen Städten mmWave-Technologie, die extrem schnelle Geschwindigkeiten, aber eine begrenzte Reichweite bietet – Sie sehen es in der Innenstadt, aber verlieren es einen Block weiter.
-
-Für Städtereisen (New York, Chicago, Los Angeles, Miami) funktioniert jedes Netzwerk gut. Für Roadtrips oder Nationalparkbesuche ist das Netzwerk, das Ihre eSIM nutzt, wichtiger als der Name des Anbieters. Ein Anbieter, der nur auf T-Mobile setzt, fühlt sich in Manhattan hervorragend an, ist aber am Grand Canyon nutzlos.
-
-Ein Anbieter, der sich mit AT&T und Verizon verbindet (wie Nomad), wird an beiden Orten Signal haben. Einige neuere Anbieter, wie [**USA eSIM**](/united-states-esim/), wechseln automatisch zwischen T-Mobile, AT&T und Verizon, um Sie unabhängig von Ihrem Aufenthaltsort verbunden zu halten.
-
-Der [USA eSIM-Abdeckungsleitfaden](/blog/usa-esim-coverage-guide/) enthält detaillierte Karten und Geschwindigkeitstestdaten für jedes große US-Reiseziel.
-
-**5G-Abdeckung und -Leistung nach Anbieter**
-Laut [OpenSignals Mobile Network Experience Report vom Februar](https://www.opensignal.com/reports) führt T-Mobile bei der 5G-Verfügbarkeit mit 62 % – das bedeutet, dass Nutzer mit 5G-fähigen Geräten fast zwei Drittel ihrer Zeit mit einem 5G-Signal verbunden sind. AT&T folgt mit 34 %, Verizon mit 29 %.
-
-Die 5G-Download-Geschwindigkeiten von Verizon liegen jedoch mit durchschnittlich 220 Mbit/s deutlich über denen von AT&T (148 Mbit/s) und knapp über T-Mobile (187 Mbit/s) in städtischen Gebieten.
+T-Mobile ist führend bei der 5G-Verfügbarkeit, was bedeutet, dass Nutzer mit 5G-fähigen Geräten mehr Zeit mit einer 5G-Verbindung verbringen als AT&T- oder Verizon-Nutzer. Die 5G-Download-Geschwindigkeiten von Verizon sind in städtischen Gebieten am schnellsten, dicht gefolgt von AT&T und T-Mobile.
 
 | Kennzahl | T-Mobile | AT&T | Verizon |
-|:-------|:--------:|:----:|:-------:|
-| 5G-Verfügbarkeit | 62 % | 34 % | 29 % |
-| Median 5G-Download-Geschwindigkeit | 187 Mbit/s | 148 Mbit/s | 220 Mbit/s |
-| 5G-Upload-Geschwindigkeit | 18 Mbit/s | 12 Mbit/s | 16 Mbit/s |
-| 4G-LTE-Abdeckung (Bevölkerung) | 62 % | 70 % | 71 % |
-| Qualität der ländlichen Abdeckung | Mäßig | Gut | Am besten |
-| Städtische 5G-Spitzengeschwindigkeit | 300+ Mbit/s | 200 Mbit/s | 1 Gbit/s (mmWave) |
-Quelle: [OpenSignal US Mobile Network Experience Report](https://www.opensignal.com/reports), Februar
+| :------- | :------: | :--: | :-----: |
+| 5G-Verfügbarkeit | Am höchsten | Mäßig | Niedriger |
+| Mittlere 5G-Download-Geschwindigkeit | Schnell | Schnell | Am schnellsten |
+| 4G-LTE-Abdeckung (Bevölkerung) | Hoch | Hoch | Hoch |
+| Qualität der ländlichen Abdeckung | Ausreichend | Gut | Am besten |
+| Städtische 5G-Spitzengeschwindigkeit | Sehr schnell | Schnell | Am schnellsten (mmWave) |
 
-**Regionale Abdeckungsübersicht**
-Der beste Anbieter für Ihre USA eSIM hängt stark davon ab, wohin Sie reisen:
+## Regionale Abdeckungsübersicht
 
-- **Nordosten (NYC, Boston, Washington DC, Philadelphia)**: Alle drei Anbieter schneiden gut ab. T-Mobile bietet die schnellsten städtischen Geschwindigkeiten. Verizon hat die beste Gebäudedurchdringung in dichten Bürovierteln.
+Der beste Betreiber für Ihre USA-eSIM hängt stark davon ab, wohin Sie reisen:
 
-- **Westküste (Los Angeles, San Francisco, Seattle, Portland)**: T-Mobile führt bei den Geschwindigkeitskennzahlen; Verizon führt bei der Zuverlässigkeit und Gebäudedurchdringung. AT&T ist eine starke Mittelklasse-Option.
+- **Nordosten (NYC, Boston, Washington DC, Philadelphia)**: Alle drei Betreiber schneiden gut ab. T-Mobile bietet die schnellsten städtischen Geschwindigkeiten. Verizon hat die beste Gebäudepenetration in dichten Bürovierteln.
 
-- **Südwesten (Arizona, New Mexico, Texas, Nevada)**: AT&T und Verizon dominieren außerhalb der Stadtzentren. T-Mobile fällt in ländlichen Gebieten und entlang der Autobahnen zwischen den Städten deutlich ab.
+- **Westküste (Los Angeles, San Francisco, Seattle, Portland)**: T-Mobile ist führend bei den Geschwindigkeitskennzahlen; Verizon ist führend bei Zuverlässigkeit und Gebäudepenetration. AT&T ist eine starke Mittelweg-Option.
 
-- **Mountain States (Colorado, Utah, Montana, Wyoming, Idaho)**: Verizon ist der zuverlässigste Anbieter, insbesondere in Skigebieten und Nationalparks. AT&T ist eine solide zweite Wahl in den meisten Bergstädten.
+- **Südwesten (Arizona, New Mexico, Texas, Nevada)**: AT&T und Verizon dominieren außerhalb der Stadtzentren. T-Mobile fällt in ländlichen Gebieten und auf Interstate-Autobahnen zwischen den Städten erheblich ab.
 
-- **Mittlerer Westen (Chicago, Detroit, Cleveland, Minneapolis)**: T-Mobile ist in Chicago und den wichtigsten Ballungsräumen ausgezeichnet. AT&T und Verizon sind in ländlichen Gebieten des Mittleren Westens und entlang der Autobahnkorridore die stärkeren Optionen.
+- **Bergstaaten (Colorado, Utah, Montana, Wyoming, Idaho)**: Verizon ist der zuverlässigste Betreiber, insbesondere in Skigebieten und Nationalparks. AT&T ist eine solide zweite Wahl in den meisten Bergstädten.
 
-- **Südosten (Florida, Georgia, North Carolina, Tennessee)**: AT&T hat die breiteste Abdeckung, insbesondere in den Smoky Mountains und in Küstengebieten. Verizon ist in Florida stark. T-Mobile schneidet in Atlanta, Miami und Charlotte gut ab, aber in den Gebieten dazwischen wird es schwächer.
+- **Mittlerer Westen (Chicago, Detroit, Cleveland, Minneapolis)**: T-Mobile ist in Chicago und größeren Metropolregionen hervorragend. AT&T und Verizon sind stärkere Optionen im ländlichen Mittleren Westen und entlang von Interstate-Korridoren.
 
-- **Alaska und Hawaii**: Anbieter, die auf Verizon setzen, übertreffen durchweg andere Anbieter. In Alaska ist die Abdeckung unabhängig vom Anbieter weitgehend auf bewohnte Gebiete beschränkt.
+- **Südosten (Florida, Georgia, North Carolina, Tennessee)**: AT&T hat die breiteste Abdeckung, insbesondere in den Smoky Mountains und Küstengebieten. Verizon ist in Florida stark. T-Mobile schneidet in Atlanta, Miami und Charlotte gut ab, wird aber dazwischen schwächer.
 
-**Wie der automatische Netzwerkwechsel Ihre Verbindung verbessert**
-Herkömmliche Reise-eSIMs sperren Sie auf ein einziges Anbieternetz. Wenn dieses Netzwerk an Ihrem Standort eine schwache Abdeckung hat, bleiben Sie mit langsamen oder keinen Daten zurück.
+- **Alaska und Hawaii**: Verizon-basierte Anbieter übertreffen andere Betreiber durchweg. In Alaska ist die Abdeckung unabhängig vom Betreiber weitgehend auf besiedelte Gebiete beschränkt.
 
-Neuere Anbieter wie [**USA eSIM**](/united-states-esim/) verwenden Multi-IMSI-Technologie (International Mobile Subscriber Identity), um je nach Signalstärke und Netzwerkbedingungen in Echtzeit zwischen T-Mobile, AT&T und Verizon zu wechseln.
+## Wie der automatische Netzwerkwechsel Ihre Verbindung verbessert
 
-Dieser automatische Wechsel löst das größte Problem von USA-Reise-eSIMs: die Ungewissheit der Abdeckung. Ob Sie sich in einem Bürogebäude in der Innenstadt befinden, wo die Gebäudedurchdringung von Verizon hervorragend ist, oder durch eine abgelegene Autobahn fahren, wo die ländliche Abdeckung von AT&T stärker ist – eine Multi-Netzwerk-eSIM findet das beste verfügbare Netzwerk ohne manuellen Eingriff.
+Traditionelle Reise-eSIMs binden Sie an ein einziges Betreibernetz. Wenn dieses Netz an Ihrem Standort eine schwache Abdeckung hat, bleiben Sie mit langsamen oder keinen Daten stecken. Neuere Anbieter wie [USA-eSIM kaufen](/united-states-esim/) verwenden Multi-IMSI-Technologie (International Mobile Subscriber Identity), um basierend auf Echtzeit-Signalstärke und Netzwerkbedingungen zwischen T-Mobile, AT&T und Verizon zu wechseln.
 
-Für eine detaillierte Analyse, wie Multi-Netzwerk-eSIMs im Vergleich zu Einzelnetzwerk-Anbietern abschneiden, enthält der [USA eSIM-Ranking-Vergleich](/blog/usa-esim-ranking-comparison-2026/) den Netzwerkwechsel als wichtiges Bewertungskriterium.
+Dieser automatische Wechsel löst das größte Problem von USA-Reise-eSIMs: die Unsicherheit der Abdeckung. Ob Sie sich in einem Bürogebäude in der Innenstadt befinden, wo die Gebäudepenetration von Verizon hervorragend ist, oder durch eine abgelegene Autobahn fahren, wo die ländliche Abdeckung von AT&T stärker ist – eine Multi-Netz-eSIM findet das beste verfügbare Netzwerk ohne manuellen Eingriff. Für eine detaillierte Analyse, wie sich Multi-Netz-eSIMs mit Single-Netz-Anbietern vergleichen, enthält der [USA-eSIM-Ranglistenleitfaden](/blog/usa-esim-ranking-comparison-2026/) den Netzwerkwechsel als wichtiges Bewertungskriterium.
 
-**Vor- und Nachteile der einzelnen Anbieter für eSIM-Nutzer**
+## Vor- und Nachteile der einzelnen Betreiber für eSIM-Nutzer
 
-**T-Mobile**
-- Vorteile: Schnellste 5G-Geschwindigkeiten in Städten, beste städtische Verfügbarkeit mit 62 %, von den meisten internationalen eSIM-Anbietern weitgehend unterstützt
-- Nachteile: Schwache ländliche Abdeckung, schlechteres 4G-LTE-Fallback, eingeschränkte Konnektivität in Nationalparks und Kleinstädten
+### T-Mobile
+- **Vorteile**: Schnellste 5G-Geschwindigkeiten in Städten, beste städtische Verfügbarkeit bei 62 %, von den meisten internationalen eSIM-Anbietern weitgehend unterstützt
+- **Nachteile**: Schwache ländliche Abdeckung, schlechtes 4G-LTE-Fallback, eingeschränkte Konnektivität in Nationalparks und Kleinstädten
 
-**AT&T**
-- Vorteile: Bessere ländliche Abdeckung als T-Mobile, solide Leistung im Südwesten und Mittleren Westen, wachsender 5G-Fußabdruck
-- Nachteile: Langsamere 5G-Geschwindigkeiten als T-Mobile (148 Mbit/s vs. 187 Mbit/s), weniger eSIM-Anbieter nutzen ausschließlich AT&T
+### AT&T
+- **Vorteile**: Bessere ländliche Abdeckung als T-Mobile, solide Leistung im Südwesten und Mittleren Westen, wachsender 5G-Fußabdruck
+- **Nachteile**: Langsamere 5G-Geschwindigkeiten als T-Mobile, weniger eSIM-Anbieter nutzen ausschließlich AT&T
 
-**Verizon**
-- Vorteile: Bester 4G-LTE-Fußabdruck insgesamt, am stärksten in abgelegenen Gebieten und Nationalparks, ausgezeichnete Gebäudedurchdringung in Städten
-- Nachteile: Geringere 5G-Verfügbarkeit mit 29 %, mmWave-5G auf kleine Innenstadtbereiche beschränkt, weniger günstige eSIM-Optionen im Verizon-Netzwerk
+### Verizon
+- **Vorteile**: Bester 4G-LTE-Gesamtfußabdruck, am stärksten in abgelegenen Gebieten und Nationalparks, ausgezeichnete Gebäudepenetration in Städten
+- **Nachteile**: Geringere 5G-Verfügbarkeit bei 29 %, mmWave-5G auf kleine Innenstadtbereiche beschränkt, weniger Budget-eSIM-Optionen im Verizon-Netz
 
----
+## Welche USA-eSIM sollten Sie für Ihre Reise wählen?
 
-## Welche USA eSIM sollten Sie für Ihre Reise wählen? – Tarife und Preise
+**USA-eSIM-Tarife und Preise** variieren erheblich je nach Anbieter. Hier ist ein kurzer Leitfaden für die beste eSIM für USA-Reisen basierend auf Ihrem Reistyp:
 
-**USA eSIM-Tarife und Preise** variieren erheblich je nach Anbieter. Hier ist eine kurze Übersicht über die beste eSIM für USA-Reisen basierend auf Ihrem Reistyp:
+| Was für eine Reise | Wählen Sie dies | Startpreis | Am besten für |
+| :----------------- | :-------------- | :--------: | :------------ |
+| Städtereise (NYC, Chicago, LA, San Francisco) | **Ubigi** | $4 für 1 GB | $1,20 pro GB |
+| Benötigen eine US-Telefonnummer für Anrufe und SMS | **Tello** | $5 für 1 GB | $1,50 pro GB bei 10 GB |
+| Fahrt durch Nationalparks und Kleinstädte | **Nomad** | $5,50 für 1 GB | $2,00 pro GB bei 10 GB |
+| Wollen unbegrenzte Daten, keine Nutzungsüberwachung | **Holafly** | $19,50 für 5 Tage | Wirklich unbegrenzt (Telefon) |
+| Kurzer Wochenendausflug, günstigste Option | **Airalo** | $4,50 für 1 GB | $1,80 pro GB bei 10 GB |
+| Suche nach einem wettbewerbsfähigen USA-eSIM-Tarif | **USA eSIM** | $1,99 für 1 GB | $10,99 für 10 GB |
 
-| Welche Art von Reise | Wählen Sie dies | Startpreis | Am besten für |
-|:-----------------|:----------|:--------------|:---------|
-| Städtereise (NYC, LA, Chicago, San Francisco) | Ubigi | $4 für 1 GB | Bestes Preis-Leistungs-Verhältnis |
-| Benötigen eine US-Telefonnummer für Anrufe und SMS | Tello | $5 für 1 GB | Sprache + Daten |
-| Fahrt durch Nationalparks und Kleinstädte | Nomad | $5.50 für 1 GB | Ländliche Abdeckung |
-| Unbegrenzte Daten, keine Nutzungsverfolgung gewünscht | Holafly | $19.50 für 5 Tage | Vielnutzer |
-| Kurzer Wochenendtrip, günstigste Option | Airalo | $4.50 für 1 GB | Preisbewusste Reisende |
-| Möchten vor dem Kauf testen | Roami | [Kostenlose Testversion](/free-esim/), Code **WEB20** für 20 % Rabatt | Erstnutzer |
+Ubigi bietet die niedrigsten Kosten pro GB auf der 10-GB-Stufe. Tello ist das beste Preis-Leistungs-Verhältnis, wenn Sie eine US-Telefonnummer benötigen. Nomad ist die sicherste Wahl für Reisen aufs Land. Für Reisende, die die Flexibilität eines automatischen Netzwerkwechsels über alle drei großen Betreiber wünschen, bietet [USA-eSIM kaufen](/united-states-esim/) Abdeckung, die sich an Ihren Standort anpasst – ob Sie sich in einer Stadt oder einem Nationalpark befinden.
 
-**USA eSIM für Ausländer** – alle internationalen Anbieter akzeptieren ausländische Kreditkarten und verlangen für die Anmeldung keine US-Adresse. Eine **USA eSIM für Deutsche** ist somit ohne bürokratische Hürden direkt online erhältlich – das macht sie für jeden Besucher zugänglich.
+Für einen tiefergehenden USA-eSIM-Vergleich, der alle 10 Anbieter in Bezug auf Geschwindigkeit, Abdeckung, Preise und Funktionen abdeckt, finden Sie die vollständige Nebeneinanderanalyse im [USA-eSIM-Anbieterranking](/blog/usa-esim-ranking-comparison-2026/).
 
-Die wichtigste Ausnahme sind die Prepaid-Tarife der Anbieter (T-Mobile, AT&T, Verizon), die eine ID-Überprüfung erfordern und möglicherweise eine US-Rechnungsadresse benötigen.
+## Preisvergleich über alle Datenstufen hinweg
 
-**USA eSIM-Tarife und Preise** auf der 10-GB-Stufe:
-
-| Anbieter | 10-GB-Preis | Pro GB | US-Nummer | Netzwerk |
-|:---------|:----------:|:------:|:---------:|:--------|
-| Ubigi | $12.00 | $1.20 | Nein | T-Mobile |
-| Airalo | $18.00 | $1.80 | Nein | T-Mobile + Verizon |
-| Tello | $15.00 | $1.50 | Ja | T-Mobile |
-| Nomad | $20.00 | $2.00 | Nein | AT&T + Verizon |
-| Saily | $26.99 | $2.70 | Nein | T-Mobile |
-
-Ubigi bietet die niedrigsten Kosten pro GB auf der 10-GB-Stufe. Tello ist das beste Preis-Leistungs-Verhältnis, wenn Sie eine US-Telefonnummer benötigen. Nomad ist die sicherste Wahl für ländliche Reisen.
-
-Für Reisende, die die Flexibilität eines automatischen Netzwerkwechsels über alle drei großen Anbieter hinweg wünschen, bietet [**USA eSIM**](/united-states-esim/) eine Abdeckung, die sich an Ihren Standort anpasst – ob Sie sich in einer Stadt oder in einem Nationalpark befinden.
-
-Für einen tiefergehenden USA eSIM-Vergleich, der alle 10 Anbieter in Bezug auf Geschwindigkeit, Abdeckung, Preise und Funktionen abdeckt, finden Sie im [USA eSIM-Ranking-Vergleich](/blog/usa-esim-ranking-comparison-2026/) die vollständige Gegenüberstellung.
-
-**Preisvergleich über alle Datenstufen hinweg**
-Wie die USA eSIM-Preise von 1 GB bis unbegrenzt bei den wichtigsten Anbietern skaliert werden:
+Wie die USA-eSIM-Preise von 1 GB bis unbegrenzt bei großen Anbietern skalieren:
 
 | Anbieter | 1 GB | 5 GB | 10 GB | 20 GB | Unbegrenzt |
-|:---------|:---:|:---:|:----:|:----:|:---------:|
-| Airalo | $4.50 | $14.00 | $18.00 | $35.00 | — |
-| Ubigi | $4.00 | $9.00 | $12.00 | $22.00 | — |
-| Tello | $5.00 | $10.00 | $15.00 | $25.00 | $35.00 |
-| Nomad | $5.50 | $12.00 | $20.00 | $34.00 | — |
-| Holafly | — | — | — | — | $19.50 (5 Tage) |
-| Saily | — | $16.99 | $26.99 | $44.99 | — |
-| **USA eSIM** | $1.99 | $5.99 | $10.99 | $19.99 | $29.99 (30 Tage) |
+| :------- | :--: | :--: | :---: | :---: | :--------: |
+| Airalo | $4,50 | $11,00 | $18,00 | $35,00 | — |
+| Ubigi | $4,00 | — | $12,00 | — | — |
+| Tello | $5,00 | $10,00 | $15,00 | $25,00 | $35,00 |
+| Nomad | $5,50 | $12,00 | $20,00 | $35,00 | — |
+| Holafly | — | — | — | — | $19,50 (5 Tage) |
+| Saily | $4,49 | $15,99 | $26,99 | — | — |
+| **USA eSIM** | $1,99 | $5,99 | $10,99 | $19,99 | $29,99 (30 Tage) |
 
-*Unbegrenzte Tarife haben oft Fair-Use-Richtlinien (in der Regel 10-30 GB vor der Drosselung). Überprüfen Sie die Fair-Use-Bedingungen jedes Anbieters vor dem Kauf.*
+## Funktionsvergleich der Anbieter
 
-*Preise von den offiziellen Anbieter-Websites überprüft, Juli.*
-
-Der deutlichste Trend: Die Preise pro GB sinken dramatisch, wenn Sie in höhere Stufen aufsteigen. Ubigis 25-GB-Tarif kostet effektiv $0.96/GB – der günstigste Tarif eines internationalen Anbieters. Der 20-GB-Tarif der **USA eSIM** für $19.99 ($1.00/GB) ist ebenfalls wettbewerbsfähig für Reisende, die größere Datenpakete benötigen.
-
-**Funktionsvergleich der Anbieter**
 | Funktion | Airalo | Ubigi | Tello | Nomad | Holafly | **USA eSIM** |
-|:--------|:-----:|:----:|:-----:|:-----:|:-------:|:-----------:|
+| :------- | :----: | :---: | :---: | :---: | :-----: | :----------: |
 | US-Telefonnummer | Nein | Nein | Ja | Nein | Nein | Nein |
-| Multi-Netzwerk-Wechsel | 2 Anbieter | 1 Anbieter | 1 Anbieter | 2 Anbieter | 1 Anbieter | 3 Anbieter |
+| Multi-Netz-Wechsel | 2 Betreiber | 1 Betreiber | 1 Betreiber | 2 Betreiber | 1 Betreiber | 3 Betreiber |
 | Live-Kundensupport | Chatbot | Chatbot | E-Mail | E-Mail + Chat | Chatbot | Echte Menschen |
-| Hotspot enthalten | Ja | Ja | Ja | Ja | Begrenzt (500 MB/Tag) | Ja |
+| Hotspot inklusive | Ja | Ja | Ja | Ja | Begrenzt (500 MB/Tag) | Ja |
 | App-Verwaltung | iOS + Android | iOS + Android | iOS + Android | iOS + Android | iOS + Android | iOS + Android |
-| Aufladung verfügbar | Ja | Ja | Ja | Ja | Nein | Ja |
-| Rückerstattungsfrist | 30 Tage | 14 Tage | 7 Tage | 7 Tage | 24 Stunden | 14 Tage |
-| Mehrländer-Tarife | Ja | Ja | Nein | Ja | Ja | Nein |
+| Nachbuchung verfügbar | Ja | Ja | Ja | Ja | Nein | Ja |
+| Rückerstattungsfenster | 30 Tage | 14 Tage | 7 Tage | 7 Tage | 24 Stunden | 14 Tage |
+| Multiländer-Tarife | Ja | Ja | Nein | Ja | Ja | Nein |
 
-*Die Verfügbarkeit von Funktionen kann je nach spezifischem Tarif variieren. Überprüfen Sie vor dem Kauf immer die aktuellen Funktionen auf der offiziellen Website des Anbieters.*
+## Nutzerzufriedenheit und Leistung in der Praxis
 
-**Nutzerzufriedenheit und Leistung in der Praxis**
-Laut [Trustpilot](https://www.trustpilot.com/categories/esim_provider)-Bewertungen und Community-Feedback auf [Reddits r/eSIM](https://www.reddit.com/r/eSIM/) variiert die Nutzerzufriedenheit erheblich:
+Die Nutzerzufriedenheit variiert je nach Anbieter:
 
-- **Ubigi**: Bewertet mit 4.5/5. Nutzer loben die wettbewerbsfähigen Preise und die zuverlässige T-Mobile-Konnektivität. Einige berichten von Schwierigkeiten mit der APN-Konfiguration auf Android-Geräten. Empfohlen für preisbewusste Reisende.
+- **Ubigi**: Nutzer loben wettbewerbsfähige Preise und zuverlässige T-Mobile-Konnektivität. Einige berichten von Schwierigkeiten mit der APN-Konfiguration auf Android-Geräten. Empfohlen für preisbewusste Reisende.
 
-- **Airalo**: Bewertet mit 4.3/5. Weltweit bekannt. Nutzer schätzen die intuitive App-Oberfläche, stellen jedoch fest, dass die Reaktionszeiten des Kundensupports in Hauptreisezeiten langsam sein können.
+- **Airalo**: Weltweit bekannt. Nutzer schätzen die intuitive App-Oberfläche, stellen jedoch fest, dass die Antwortzeiten des Kundensupports in Hauptreisezeiten langsam sein können.
 
-- **Tello**: Bewertet mit 4.4/5. Sehr empfehlenswert für Nutzer, die eine US-Telefonnummer benötigen. Einige Nutzer stellen fest, dass die Verwaltung von internationalen Roaming-Add-ons und Tarifverlängerungen verwirrend sein kann.
+- **Tello**: Wärmstens empfohlen für Nutzer, die eine US-Telefonnummer benötigen. Einige Nutzer stellen fest, dass internationale Roaming-Zusätze und Tarifverlängerungen verwirrend zu verwalten sein können.
 
-- **Nomad**: Bewertet mit 4.2/5. Geschätzt für den Zugang zu AT&T- und Verizon-Netzwerken. Reisende im Südwesten und in den Rocky-Mountain-Staaten berichten durchweg von einer besseren ländlichen Abdeckung im Vergleich zu T-Mobile-only-Anbietern.
+- **Nomad**: Geschätzt für den Zugang zu AT&T- und Verizon-Netzen. Reisende im Südwesten und in den Rocky Mountain States berichten durchweg von besserer ländlicher Abdeckung im Vergleich zu T-Mobile-only-Anbietern.
 
-- **Holafly**: Bewertet mit 4.1/5. Beliebt für den Komfort unbegrenzter Daten. Nutzer nennen häufig die 500-MB/Tag-Hotspot-Begrenzung als erheblichen Nachteil für Laptop-Nutzer.
+- **Holafly**: Beliebt für den Komfort unbegrenzter Daten. Nutzer nennen die Hotspot-Obergrenze von 500 MB/Tag häufig als erhebliche Einschränkung für Laptop-Nutzer.
 
-- [**USA eSIM**](/united-states-esim/): Bewertet mit 4.6/5. Nutzer heben den automatischen Drei-Anbieter-Wechsel und den reaktionsschnellen Live-Support als wichtige Unterscheidungsmerkmale hervor. Besonders empfehlenswert für Reisende, die mehrere Regionen besuchen.
+- [Beste USA-eSIM](/united-states-esim/): Nutzer heben den automatischen Drei-Betreiber-Wechsel und den reaktionsschnellen Live-Support als wichtige Unterscheidungsmerkmale hervor. Besonders empfohlen für Reisende, die mehrere Regionen besuchen.
 
-**Beste Preis-Leistungs-Empfehlungen nach Reiseart**
+## Beste Preis-Leistungs-Empfehlungen nach Reistyp
+
 | Reiseszenario | Empfohlener Anbieter | Warum |
-|:-------------|:-------------------|:----|
+| :------------ | :------------------- | :---- |
 | Wochenend-Städtereise (2-3 Tage, 1-3 GB) | Airalo oder Ubigi | Niedrigster Einstiegspreis, beide unter $5 für 1 GB |
 | Einwöchiger Urlaub (7 Tage, 5-10 GB) | Ubigi | $9-12 für 5-10 GB – bestes Preis-Leistungs-Verhältnis pro GB auf dieser Stufe |
-| Geschäftsreise mit US-Anrufen (7 Tage) | Tello mit US-Nummer | $15 für 10 GB mit Sprache und SMS inklusive |
-| Nationalpark-Roadtrip (10-14 Tage) | Nomad oder **USA eSIM** | AT&T/Verizon-Zugang für zuverlässige ländliche Abdeckung |
-| Familie mit 4 (7 Tage, mäßige Nutzung) | Ubigi (4 Tarife x 5 GB) | $36 Gesamtkosten – wettbewerbsfähig mit einem einzigen Pocket WiFi |
-| Unbegrenztes Streaming (7+ Tage) | Holafly oder **USA eSIM** unbegrenzt | Keine Datenverfolgungssorgen, beide unter $30 |
-| Erstnutzer von eSIM | **USA eSIM** oder Roami | Live-Support und kostenlose Testversion zum Ausprobieren verfügbar |
+| Geschäftsreise mit US-Anrufen (7 Tage) | Tello mit US-Nummer | $15 für 10 GB inklusive Sprache und SMS |
+| Nationalparks Roadtrip (10-14 Tage) | Nomad oder **USA eSIM** | AT&T/Verizon-Zugang für zuverlässige ländliche Abdeckung |
+| Vierköpfige Familie (7 Tage, moderate Nutzung) | Ubigi (4 Tarife x 5 GB) | $36 insgesamt – wettbewerbsfähig mit einem einzigen Pocket WiFi |
+| Unbegrenztes Streaming (7+ Tage) | Holafly oder **USA eSIM** unbegrenzt | Keine Datenüberwachungssorgen, beide unter $30 |
+| Erstmaliger eSIM-Nutzer | **USA eSIM** oder Roami | Live-Support und kostenlose Testversion verfügbar |
 
----
+## eSIM vs. physische SIM vs. Pocket WiFi
 
-## eSIM vs. physische SIM vs. Pocket WiFi: Bester Weg, um Internet in den USA zu bekommen
+Es gibt drei Möglichkeiten, in den USA Internet zu bekommen, mit einer [USA-eSIM mit 5G](/united-states-esim/). Hier erfahren Sie, wann welche sinnvoll ist. Das ist der Kern der Frage, wie man in den USA eine eSIM für die meisten Reisenden bekommt.
 
-Es gibt drei Möglichkeiten, in den USA mit [usa esim](/united-states-esim/) Internet zu bekommen. Hier erfahren Sie, wann welche sinnvoll ist. Dies ist der Kern der Frage, wie man in den USA eine eSIM bekommt, für die meisten Reisenden.
+**eSIM** ist für die meisten Reisenden am besten. Es ist günstiger als Pocket WiFi, bequemer als physische SIMs und behält Ihre Heimnummer aktiv. Die Einrichtung dauert 5 Minuten vor Ihrer Abreise, und Sie müssen kein Geschäft aufsuchen oder am Flughafen anstehen. Für Alleinreisende auf kurzen bis mittleren Reisen (unter 30 Tagen) ist dies die Standardwahl. Die Tarife beginnen bei $4,50 für 1 GB von Airalo, und Ubigi bietet 10 GB für $12 – etwa ein Viertel der Kosten für Pocket WiFi für denselben Zeitraum. Dies ist der beste Weg, um in den USA für die meisten Besucher Internet zu bekommen.
 
-**eSIM** ist für die meisten Reisenden am besten. Sie ist günstiger als Pocket WiFi, bequemer als physische SIMs und hält Ihre Heimatnummer aktiv. Die Einrichtung dauert 5 Minuten vor der Abreise, und Sie müssen kein Geschäft aufsuchen oder am Flughafen anstehen. Für Alleinreisende auf kurzen bis mittleren Reisen (unter 30 Tagen) ist dies die Standardwahl.
+**Physische SIM** ist sinnvoll, wenn Ihr Telefon überhaupt kein eSIM unterstützt oder wenn Sie 30+ Tage bleiben und die besten lokalen Tarife wünschen. Eine T-Mobile Prepaid-SIM für $25 für 30 GB schlägt oft internationale eSIM-Preise bei diesem Volumen. Der Kompromiss ist, dass Sie ein Geschäft finden (oder am Flughafen anstehen), Ihre Heim-SIM austauschen und den Zugang zu Ihrer regulären Nummer verlieren müssen, es sei denn, Ihr Telefon unterstützt duale physische SIMs. Der [USA-eSIM-Betreiber-Tarifleitfaden](/blog/usa-esim-carrier-plans/) vergleicht Prepaid-Optionen von T-Mobile, AT&T und Verizon.
 
-Die Tarife beginnen bei $4.50 für 1 GB von Airalo, und Ubigi bietet 10 GB für $12 – etwa ein Viertel dessen, was Pocket WiFi für den gleichen Zeitraum kostet. Dies ist der beste Weg, um in den USA für die meisten Besucher Internet zu bekommen.
+**Pocket WiFi** ist ein Mietgerät, das ein tragbares WLAN-Netzwerk erstellt. Es funktioniert am besten für Gruppen von 3 oder mehr Personen, die eine Verbindung teilen. Für eine 7-tägige Reise kostet Pocket WiFi etwa $50-70 – verglichen mit $12-20 für eine eSIM. Bei 3-4 Personen gleichen sich die Kosten an, aber Sie müssen trotzdem ein zusätzliches Gerät mit sich führen, aufladen und zurückgeben. Pocket WiFi-Vermietungen werden oft wegen der Akkulaufzeit und der Rückgabelogistik als Hauptnachteile genannt.
 
-**Physische SIM** ist sinnvoll, wenn Ihr Telefon überhaupt kein eSIM unterstützt oder wenn Sie 30+ Tage bleiben und die besten lokalen Tarife wünschen. Eine T-Mobile-Prepaid-SIM für $25 für 30 GB schlägt oft das internationale eSIM-Pricing bei diesem Volumen.
+Technologiepublikationen stufen eSIM für die meisten Reisenden als erste Wahl ein, mit Verweis auf sofortige Aktivierung und Dual-SIM-Unterstützung. Der [US-eSIM vs. physische SIM-Leitfaden](/blog/usa-esim-vs-physical-sim/) enthält eine vollständige Kostenaufschlüsselung für jedes Reiseszenario.
 
-Der Nachteil ist, dass Sie ein Geschäft finden müssen (oder am Flughafen anstehen), Ihre heimische SIM austauschen und den Zugang zu Ihrer regulären Nummer verlieren, es sei denn, Ihr Telefon unterstützt zwei physische SIMs. Der [USA eSIM-Anbietertarif-Leitfaden](/blog/usa-esim-carrier-plans/) vergleicht Prepaid-Optionen von T-Mobile, AT&T und Verizon.
+## Detaillierter Kostenvergleich nach Reisedauer
 
-**Pocket WiFi** ist ein Mietgerät, das ein tragbares WLAN-Netzwerk erstellt. Es funktioniert am besten für Gruppen von 3 oder mehr Personen, die eine Verbindung teilen. Für eine 7-tägige Reise kostet Pocket WiFi etwa $50-70 – verglichen mit $12-20 für eine eSIM.
-
-Bei 3-4 Personen gleichen sich die Kosten an, aber Sie müssen immer noch ein zusätzliches Gerät mitführen, aufladen und zurückgeben. [Trustpilot-Bewertungen von Mietdiensten](https://www.trustpilot.com/categories/pocket_wifi_rental) nennen durchgängig die Akkulaufzeit und die Rückgabelogistik als die größten Nachteile.
-
-Gizmodos [bester Reise-eSIM-Leitfaden](https://gizmodo.com/best-esim-provider/international-travel) stuft eSIM ebenfalls als beste Wahl für die meisten Reisenden ein, mit Verweis auf die sofortige Aktivierung und die Dual-SIM-Unterstützung. Der [USA eSIM-vs.-physische-SIM-Leitfaden](/blog/usa-esim-vs-physical-sim/) enthält eine vollständige Kostenaufschlüsselung für jedes Reiseszenario.
-
-**Detaillierter Kostenvergleich nach Reisedauer**
-| Reisedauer | eSIM-Kosten | Physische SIM-Kosten | Pocket WiFi-Kosten | Bestes Preis-Leistungs-Verhältnis |
-|:------------|:---------:|:-----------------:|:----------------:|:-----------|
+| Reisedauer | eSIM-Kosten | Kosten physische SIM | Kosten Pocket WiFi | Bestes Preis-Leistungs-Verhältnis |
+| :--------- | :---------- | :------------------- | :----------------- | :------------------------------- |
 | 3 Tage (2 GB) | $5-8 | $10-15 | $30-40 | eSIM |
 | 7 Tage (5 GB) | $9-14 | $20-30 | $50-70 | eSIM |
 | 14 Tage (10 GB) | $12-20 | $30-45 | $80-120 | eSIM |
-| 30 Tage (20 GB) | $22-35 | $25-35 (Anbieter Prepaid) | $150-200 | Unentschieden – Physische SIM oder eSIM |
-| 60 Tage (50 GB) | $50-80 | $25-40 (Anbieter Prepaid) | $300+ | Physische SIM |
+| 30 Tage (20 GB) | $22-35 | $25-35 (Prepaid Betreiber) | $150-200 | Unentschieden – physische SIM oder eSIM |
+| 60 Tage (50 GB) | $50-80 | $25-40 (Prepaid Betreiber) | $300+ | Physische SIM |
 
-*Physische SIM-Kosten basieren auf T-Mobile- und AT&T-Prepaid-Preisen. Pocket WiFi basiert auf durchschnittlichen Mietpreisen großer Anbieter. Alle Preise in USD, überprüft Juli.*
+## Vergleich der Umweltauswirkungen
 
-Der Punkt, an dem physische SIMs günstiger werden als eSIMs, liegt typischerweise bei etwa 30 Tagen bei mäßiger bis starker Datennutzung. Für Aufenthalte unter 30 Tagen sind eSIMs durchgängig deutlich günstiger. Für längere Aufenthalte von 60+ Tagen ist eine T-Mobile- oder Verizon-Prepaid-SIM ($25-40 für 30-50 GB) die kostengünstigste Option.
-
-**Umweltauswirkungen im Vergleich**
-eSIMs bieten im Vergleich zu physischen Alternativen erhebliche Umweltvorteile. Laut GSMA-Nachhaltigkeitsforschung verursacht die Herstellung einer einzigen physischen SIM-Karte etwa 4,5 g CO2 und verwendet 0,5 g Plastik. Bei über 4,5 Milliarden jährlich weltweit produzierten SIM-Karten könnte die weltweite Umstellung auf eSIM über 20.000 Tonnen Plastikmüll und 20 Millionen kg CO2-Emissionen pro Jahr einsparen.
+eSIMs bieten im Vergleich zu physischen Alternativen bedeutende Umweltvorteile. Durch den Wegfall physischer SIM-Karten, Verpackungen und Versand reduzieren eSIMs Plastikmüll und die Emissionen, die mit der Herstellung und dem Vertrieb physischer SIMs verbunden sind.
 
 | Umweltfaktor | eSIM | Physische SIM | Pocket WiFi |
-|:-------------------|:----:|:------------:|:-----------:|
-| Verwendetes Plastik | 0 g | 0,5 g pro Karte | 150 g+ pro Geräteeinheit |
-| CO2 pro Transaktion | ~1 g (Datenübertragung) | ~4,5 g (Herstellung + Versand) | ~500 g (Gerät + Versand + Rückgabe) |
-| Verpackungsmüll | Keiner | Karte + Plastiktablett + Verpackung | Karton + Kabel + Rückumschlag |
-| Versandemissionen | Keine (digitale Lieferung) | Versand an Einzelhandelsgeschäfte | Kurierlieferung und Rückversand |
+| :----------- | :--: | :-----------: | :---------: |
+| Verwendetes Plastik | Keines | Eine kleine Karte | Erhebliches Gerät |
+| CO2 pro Transaktion | Minimal (Datenübertragung) | Gering (Herstellung + Versand) | Groß (Gerät + Versand + Rückgabe) |
+| Verpackungsmüll | Keiner | Karte + Plastikschale + Verpackung | Box + Kabel + Rückumschlag |
+| Versandemissionen | Keine (digitale Lieferung) | Versand an Einzelhandelsgeschäft | Kurierlieferung und Rücksendung |
 | Abfall am Ende der Lebensdauer | Keiner (bleibt im Telefon) | Nicht biologisch abbaubarer Kunststoff | Elektroschrott (Batterien, Elektronik) |
 
-Für umweltbewusste Reisende ist eSIM eindeutig die nachhaltigste Option. Pocket WiFi hat die höchsten Umweltkosten aufgrund der Geräte-Hardware, der Batterieherstellung und des Hin- und Rückversands.
+## Zusammenfassung der Vor- und Nachteile auf einen Blick
 
-**Zusammenfassung der Vor- und Nachteile auf einen Blick**
+### eSIM
+- **Vorteile**: Sofortige digitale Einrichtung, Behalten Sie Ihre Heimnummer aktiv, keine physische Karte zum Verlieren, günstigste Option für Reisen unter 30 Tagen, umweltfreundlich, kein Ausweis erforderlich
+- **Nachteile**: Erfordert ein kompatibles und entsperrtes Telefon, QR-Codes sind einmalig, einige Tarife haben komplexe Rückerstattungsrichtlinien
 
-**eSIM**
-- Vorteile: Sofortige digitale Einrichtung, Heimatnummer bleibt aktiv, keine physische Karte zum Verlieren, günstigste Option für Reisen unter 30 Tagen, umweltfreundlich, kein Ausweis erforderlich
-- Nachteile: Erfordert ein kompatibles und entsperrtes Telefon, QR-Codes sind einmalig, einige Tarife haben komplexe Rückerstattungsrichtlinien
+### Physische SIM
+- **Vorteile**: Günstiger für Aufenthalte von 30+ Tagen bei höheren Datenmengen, funktioniert auf jedem entsperrten Telefon, einschließlich älterer Modelle, keine App oder QR-Code erforderlich
+- **Nachteile**: Erfordert das Auffinden eines Geschäfts oder Kiosks am Flughafen, verlieren den Zugang zu Ihrer Heimnummer, SIM-Karte kann verloren gehen oder beschädigt werden, nicht umweltfreundlich, kann Ausweis und US-Adresse erfordern
 
-**Physische SIM**
-- Vorteile: Günstiger für Aufenthalte von 30+ Tagen bei höheren Datenmengen, funktioniert mit jedem entsperrten Telefon, auch älteren Modellen, keine App oder QR-Code erforderlich
-- Nachteile: Erfordert das Aufsuchen eines Geschäfts oder Flughafen-Kiosks, Zugang zur Heimatnummer geht verloren, SIM-Karte kann verloren gehen oder beschädigt werden, nicht umweltfreundlich, kann Ausweis und US-Adresse erfordern
+### Pocket WiFi
+- **Vorteile**: Funktioniert mit jedem WLAN-fähigen Gerät, mit einer Gruppe teilbar, keine Telefonkompatibilitätsprobleme, keine Installation erforderlich
+- **Nachteile**: Insgesamt teuerste Option, zusätzliches Gerät zum Mitführen und Aufladen, Anstehen für Abholung und Rückgabe, Einschränkungen der Akkulaufzeit
 
-**Pocket WiFi**
-- Vorteile: Funktioniert mit jedem WLAN-fähigen Gerät, mit einer Gruppe teilbar, keine Telefonkompatibilitätsprobleme, keine Installation erforderlich
-- Nachteile: Insgesamt teuerste Option, zusätzliches Gerät zum Mitführen und Aufladen, muss für Abholung und Rückgabe anstehen, auf Trustpilot berichtete Akkulaufzeitprobleme
+## Reale Reisenden-Szenarien
 
-**Reale Reiseszenarien**
+### Szenario 1: Alleinreisender Backpacker besucht NYC für 5 Tage
+Maria aus Brasilien besucht zum ersten Mal New York. Sie nutzt WhatsApp für die Kommunikation und Google Maps für die Navigation. Sie kauft vor ihrer Abreise einen 5-GB-Ubigi-Tarif für $9 und installiert ihn in 3 Minuten. Gesamtkosten für die Konnektivität: $9. Sie behält ihre brasilianische Nummer für Bank-SMS und WhatsApp aktiv. Eine physische SIM hätte $20-30 gekostet und das Auffinden eines Geschäfts erfordert. Fazit: eSIM ist die offensichtliche Wahl.
 
-**Szenario 1: Alleinreisender Rucksacktourist besucht NYC für 5 Tage**
-Maria aus Brasilien besucht zum ersten Mal New York. Sie nutzt WhatsApp für die Kommunikation und Google Maps für die Navigation. Sie kauft vor der Abreise einen 5-GB-Ubigi-Tarif für $9 und installiert ihn in 3 Minuten. Gesamtkosten für die Konnektivität: $9. Sie behält ihre brasilianische Nummer für Bank-SMS und WhatsApp aktiv.
+### Szenario 2: Vierköpfige Familie auf einem 2-wöchigen Roadtrip durch Kalifornien
+Die Familie Chen aus Singapur fährt von San Francisco nach Los Angeles über den Pacific Coast Highway mit Zwischenstopps in den Yosemite- und Sequoia-Nationalparks. Sie entscheiden sich für Nomad wegen der AT&T- + Verizon-Abdeckung (entscheidend in Nationalparks) und kaufen vier einzelne 10-GB-Tarife für jeweils $20 = insgesamt $80. Ohne eSIMs hätten sie ein einziges Pocket WiFi für $100-120 für 14 Tage gemietet. Während Pocket WiFi etwas günstiger gewesen wäre, würde jedes Familienmitglied das Internet verlieren, wenn sie getrennt werden – in einem Besucherzentrum eines Nationalparks bedeutet das, den Kontakt zueinander zu verlieren. Fazit: Einzelne eSIMs bieten mehr Freiheit und Sicherheit.
 
-Eine physische SIM hätte $20-30 gekostet und erfordert, ein Geschäft zu finden. Fazit: eSIM ist die offensichtliche Wahl.
+### Szenario 3: Student, der 3 Monate für ein Semesterprogramm bleibt
+Pierre aus Frankreich verbringt ein Semester an der UCLA. Für einen 90-tägigen Aufenthalt benötigt er zuverlässige Daten und eine US-Telefonnummer für die Campus-Kommunikation. Er kauft eine T-Mobile Prepaid-Physische-SIM für $25 für 30 GB, lädt dann für Monat zwei $25 und für Monat drei $40 auf. Insgesamt: $90 für 90 Tage, mit einer US-Nummer inklusive. Eine eSIM mit dem gleichen Datenvolumen würde $60-120 kosten, aber eine mit US-Nummer zu finden ist schwieriger. Fazit: Für Aufenthalte von 90+ Tagen setzt sich ein Prepaid-Tarif eines Betreibers mit physischer SIM gegenüber eSIMs durch, wenn eine US-Nummer benötigt wird.
 
-**Szenario 2: Familie mit 4 auf einem 2-wöchigen Kalifornien-Roadtrip**
-Die Familie Chen aus Singapur fährt von San Francisco nach Los Angeles entlang der Pazifikküste mit Zwischenstopps in Yosemite und Sequoia Nationalparks. Sie wählen Nomad für AT&T + Verizon-Abdeckung (entscheidend in Nationalparks) und kaufen vier einzelne 10-GB-Tarife für je $20 = $80 insgesamt.
+## So wählen Sie den richtigen USA-eSIM-Datentarif
 
-Ohne eSIMs hätten sie ein einziges Pocket WiFi für $100-120 für 14 Tage gemietet. Während Pocket WiFi etwas günstiger gewesen wäre, würde jedes Familienmitglied bei Trennung das Internet verlieren – in einem Nationalpark-Besucherzentrum bedeutet das, sich aus den Augen zu verlieren. Fazit: Einzelne eSIMs bieten mehr Freiheit und Sicherheit.
-
-**Szenario 3: Student mit 3-monatigem Studienaufenthalt**
-Pierre aus Frankreich verbringt ein Semester an der UCLA. Für einen 90-tägigen Aufenthalt benötigt er zuverlässige Daten und eine US-Telefonnummer für die Campus-Kommunikation. Er kauft eine T-Mobile-Prepaid-SIM für $25 für 30 GB und lädt für den zweiten Monat $25 und für den dritten Monat $40 nach. Gesamt: $90 für 90 Tage, mit einer US-Nummer inklusive.
-
-Eine eSIM mit dem gleichen Datenvolumen würde $60-120 kosten, aber eine mit US-Nummer zu finden ist schwieriger. Fazit: Für Aufenthalte von 90+ Tagen setzt sich ein Anbieter-Prepaid-Tarif mit physischer SIM knapp gegen eSIMs durch, wenn eine US-Nummer benötigt wird.
-
----
-
-## Wie wähle ich den richtigen USA eSIM-Datentarif?
-
-Die meisten [usa esim](/united-states-esim/)-Anbieter bieten Tarife von 1 GB bis unbegrenzt an. Hier erfahren Sie, wie Sie die richtige Menge basierend auf der tatsächlichen Nutzung Ihres Telefons auswählen. Dies ist ein wesentlicher Bestandteil der USA eSIM-Tarife und Preise.
+Die meisten [USA-eSIM](/united-states-esim/)-Anbieter bieten Tarife von 1 GB bis unbegrenzt an. Hier erfahren Sie, wie Sie die richtige Menge basierend auf der tatsächlichen Nutzung Ihres Telefons auswählen. Dies ist ein wesentlicher Bestandteil der USA-eSIM-Tarife und Preise.
 
 | Dauer | Leichte Nutzung | Mäßige Nutzung | Starke Nutzung |
-|:---------|:---------|:------------|:----------|
+| :---- | :-------------- | :------------- | :------------- |
 | 3-4 Tage | 1-3 GB | 3-5 GB | 5-10 GB |
 | 7 Tage | 3 GB | 5 GB | 10 GB |
 | 14 Tage | 5 GB | 10 GB | 20 GB |
 | 30 Tage | 10 GB | 20 GB | 50 GB oder unbegrenzt |
 
-Ein typischer Tag mit mäßiger Telefonnutzung setzt sich wie folgt zusammen: Google Maps-Navigation (50 MB), Instagram und TikTok (150 MB), WhatsApp-Nachrichten und -Anrufe (30 MB), Internetrecherche (70 MB), Uber oder Lyft (20 MB pro Fahrt). Das summiert sich auf etwa 320 MB pro Tag – etwa 2,5 GB für eine 7-tägige Reise. Fügen Sie YouTube- oder Netflix-Streaming hinzu und Sie benötigen 5-10 GB.
+**Preisvergleich pro GB (auf der 10-GB-Stufe):** Wie viel Sie pro Gigabyte zahlen, variiert erheblich zwischen den Anbietern. Ubigi bietet 10 GB für $12 – das sind $1,20/GB. Airalo berechnet $18 für die gleiche Menge, oder $1,80/GB. Tello beinhaltet eine US-Telefonnummer für $15 für 10 GB ($1,50/GB mit inkludierter Nummer). Nomads $20 für 10 GB entsprechen $2/GB, geben Ihnen aber Zugang zu AT&T- und Verizon-Netzen anstelle von nur T-Mobile. Für Vielnutzer senkt Ubigis 25-GB-Tarif den Preis pro GB auf $0,96 – der günstigste Preis, der von jedem internationalen Anbieter verfügbar ist.
 
-**Preisvergleich pro GB (auf der 10-GB-Stufe):**
-Wie viel Sie pro Gigabyte bezahlen, variiert erheblich zwischen den Anbietern. Ubigi bietet 10 GB für $12 – das sind $1.20/GB. Airalo verlangt $18 für die gleiche Menge, also $1.80/GB. Tello beinhaltet eine US-Telefonnummer für $15 für 10 GB ($1.50/GB mit einer Nummer inklusive).
+**Hotspot und Tethering:** Die meisten Festdaten-eSIMs erlauben unbegrenztes Hotspot-Sharing – Sie können einen Laptop oder ein Tablet verbinden, ohne zusätzliche Daten über Ihren Tarif hinaus zu verbrauchen. Die Ausnahme sind unbegrenzte Tarife. Holafly begrenzt den Hotspot auf 500 MB pro Tag, was das Laptop-Tethering auf etwa einen Videoanruf beschränkt. Wenn Hotspot für Sie wichtig ist, wählen Sie einen Festdatentarif anstelle eines unbegrenzten.
 
-Nomads $20 für 10 GB entsprechen $2/GB, geben Ihnen aber Zugang zu AT&T- und Verizon-Netzen anstelle von nur T-Mobile. Für Vielnutzer senkt Ubigis 25-GB-Tarif den Preis pro GB auf $0.96 – den günstigsten Preis, den ein internationaler Anbieter bietet.
+Für einen vollständigen Vergleich der USA-eSIM-Tarife und Preise jedes Anbieters nach Datenstufe finden Sie im [USA-eSIM-Preisleitfaden](/blog/usa-esim-price-guide/) eine Aufschlüsselung der Kosten pro GB und die besten Preis-Leistungs-Verhältnisse auf jeder Stufe.
 
-**USA mobiles Internet eSIM**-Tarife bieten Ihnen unterwegs schnellen Netzzugang, und die meisten Festdaten-eSIMs erlauben unbegrenztes Hotspot-Sharing – Sie können einen Laptop oder ein Tablet verbinden, ohne zusätzliche Daten über Ihren Tarif hinaus zu verbrauchen. Die Ausnahme sind unbegrenzte Tarife.
+Wenn Sie ein Vielnutzer sind, der unbegrenzt ohne Nutzungsüberwachung wünscht, finden Sie im [USA-eSIM-unbegrenzter-Datenleitfaden](/blog/usa-esim-unlimited-data-guide/) Informationen zu Fair-Use-Richtlinien, Hotspot-Obergrenzen und welche unbegrenzten Tarife tatsächlich liefern, was sie versprechen.
 
-Holafly begrenzt den Hotspot auf 500 MB pro Tag, was das Tethering mit einem Laptop auf etwa einen Videoanruf beschränkt. Wenn Hotspot für Sie wichtig ist, wählen Sie einen Festdatentarif gegenüber einem unbegrenzten Tarif.
+## Datenverbrauch nach App-Typ
 
-Eine vollständige Übersicht über die USA eSIM-Tarife und Preise aller Anbieter nach Datenstufen finden Sie im [USA eSIM-Preisvergleich](/blog/usa-esim-price-guide/), der die Kosten pro GB aufschlüsselt und das beste Preis-Leistungs-Verhältnis auf jeder Stufe hervorhebt.
+Zu wissen, wie viel Daten beliebte Apps verbrauchen, hilft Ihnen, den richtigen Tarif zu wählen, ohne zu viel zu bezahlen:
 
-Wenn Sie ein Vielnutzer sind, der unbegrenztes Datenvolumen ohne Nutzungsverfolgung wünscht, deckt der [USA eSIM-Unbegrenzt-Daten-Leitfaden](/blog/usa-esim-unlimited-data-guide/) Fair-Use-Richtlinien, Hotspot-Begrenzungen und welche unbegrenzten Tarife tatsächlich liefern, ab.
-
-**Datenverbrauch nach App-Typ**
-Zu wissen, wie viel Daten beliebte Apps tatsächlich verbrauchen, hilft Ihnen, den richtigen Tarif zu wählen, ohne zu viel zu bezahlen:
-
-| App / Aktivität | Daten pro Stunde | Anmerkungen |
-|:---------------|:-------------:|:------|
-| Google Maps-Navigation | 5-10 MB | Laden Sie vor Ihrer Reise Offline-Karten herunter, um Daten zu sparen |
-| Spotify (normale Qualität) | 40 MB | Laden Sie vor der Abreise Playlists über WLAN herunter |
+| App / Aktivität | Daten pro Stunde | Hinweise |
+| :-------------- | :--------------: | :------- |
+| Google Maps Navigation | 5-10 MB | Laden Sie Offline-Karten vor Ihrer Reise herunter, um Daten zu sparen |
+| Spotify (normale Qualität) | 40 MB | Laden Sie Playlists vor der Abreise über WLAN herunter |
 | Spotify (hohe Qualität) | 150 MB | Am besten auf mobilen Daten vermeiden |
 | YouTube (480p) | 250 MB | Akzeptable Qualität auf einem Telefonbildschirm |
 | YouTube (720p) | 750 MB | Verbraucht 3x mehr Daten als 480p |
-| YouTube (1080p) | 1,5 GB | Nur über WLAN empfohlen |
+| YouTube (1080p) | 1,5 GB | Nur auf WLAN empfohlen |
 | Netflix (Standardqualität) | 700 MB | Gut genug für Telefonbildschirme |
 | Netflix (HD) | 3 GB | Verbraucht einen 10-GB-Tarif in etwas mehr als 3 Stunden |
-| Zoom / Google Meet | 500 MB - 1 GB | Variiert je nach Videoauflösung und Anzahl der Teilnehmer |
-| Instagram / TikTok scrollen | 150-300 MB | Automatisch abgespielte Videos sind die Hauptverbraucher |
+| Zoom / Google Meet | 500 MB - 1 GB | Variiert je nach Videoauflösung und Teilnehmerzahl |
+| Instagram / TikTok scrollen | 150-300 MB | Automatisch abgespielte Videos sind der Hauptdatenverbraucher |
 | WhatsApp-Audioanruf | 30 MB | Sehr dateneffizient |
 | WhatsApp-Videoanruf | 150-250 MB | Qualität hängt von der Verbindungsgeschwindigkeit ab |
-| Uber / Lyft-Fahrt | 2-5 MB pro Fahrt | Minimaler Datenverbrauch für Kartenladen und Buchung |
+| Uber / Lyft Fahrt | 2-5 MB pro Fahrt | Minimaler Datenverbrauch für Kartenladen und Buchung |
 | E-Mail (ohne Anhänge) | 1-2 MB pro 100 Nachrichten | Vernachlässigbarer Datenverbrauch |
-| Internetrecherche | 60-80 MB pro Stunde | Variiert je nach Komplexität der Website und Anzahl der Bilder |
+| Webbrowsing | 60-80 MB pro Stunde | Variiert je nach Komplexität der Website und Anzahl der Bilder |
 
-Quellen: [Google Fi Datenverbrauchsleitfaden](https://fi.google.com/), [Netflix Bandbreitenempfehlungen](https://help.netflix.com/en/node/87), interne Tests
+## Tipps zur Reduzierung des Datenverbrauchs auf Reisen
 
-**Tipps zur Reduzierung des Datenverbrauchs auf Reisen**
-1. **Laden Sie Offline-Google Maps** für Ihr gesamtes Zielgebiet vor der Abreise herunter. Die GPS-Navigation funktioniert ohne mobile Daten – die Karten werden aus dem Speicher Ihres Telefons geladen. Das allein kann auf einer einwöchigen Reise 500 MB bis 1 GB einsparen.
+1. **Laden Sie Offline-Google Maps** für Ihr gesamtes Reiseziel vor der Abreise herunter. Die GPS-Navigation funktioniert ohne mobile Daten – die Karten werden aus dem Speicher Ihres Telefons geladen. Dies allein kann auf einer einwöchigen Reise 500 MB bis 1 GB einsparen.
 
 2. **Laden Sie Netflix-, YouTube- und Spotify-Inhalte** vor Ihrer Reise oder in Ihrem Hotel über WLAN herunter. Die meisten Streaming-Apps ermöglichen Offline-Wiedergabe für heruntergeladene Inhalte.
 
-3. **Deaktivieren Sie die Hintergrundaktualisierung von Apps** für nicht wesentliche Apps. Soziale Medien-Apps aktualisieren häufig Inhalte im Hintergrund, ohne dass Sie es merken, und verbrauchen so über eine Woche erhebliche Datenmengen.
+3. **Deaktivieren Sie die Hintergrundaktualisierung von Apps** für nicht essentielle Apps. Soziale Medien-Apps aktualisieren häufig Inhalte im Hintergrund, ohne dass Sie es merken, und verbrauchen so über eine Woche erhebliche Datenmengen.
 
-4. **Nutzen Sie Hotel- und Café-WLAN**, wann immer verfügbar. US-Hotels, Coffeeshops (Starbucks, Dunkin') und Flughäfen bieten in der Regel kostenloses WLAN. Nutzen Sie es für große Downloads und Streaming, und sparen Sie Ihr eSIM-Datenvolumen für Navigation und unterwegs.
+4. **Nutzen Sie Hotel- und Café-WLAN**, wann immer verfügbar. US-Hotels, Coffeeshops (Starbucks, Dunkin') und Flughäfen bieten in der Regel kostenloses WLAN an. Nutzen Sie es für große Downloads und Streaming und sparen Sie Ihre eSIM-Daten für Navigation und unterwegs.
 
-5. **Senken Sie die Streaming-Qualität** in den App-Einstellungen. Spotify normale Qualität verbraucht 40 MB/Stunde gegenüber 150 MB/Stunde in hoher Qualität. YouTube 480p verbraucht ein Drittel der Daten von 720p bei akzeptabler Qualität auf Telefonbildschirmen.
+5. **Senken Sie die Streaming-Qualität** in den App-Einstellungen. Spotify normale Qualität verbraucht 40 MB/Stunde gegenüber 150 MB/Stunde bei hoher Qualität. YouTube 480p verbraucht ein Drittel der Daten von 720p bei akzeptabler Qualität auf Telefonbildschirmen.
 
-6. **Aktivieren Sie den Datensparmodus** in Ihren Telefoneinstellungen. Sowohl iOS als auch Android haben integrierte Datensparfunktionen, die die Hintergrunddatennutzung begrenzen und die Bildqualität in Apps reduzieren.
+6. **Aktivieren Sie den Datensparmodus** in den Telefoneinstellungen. Sowohl iOS als auch Android haben integrierte Datensparfunktionen, die die Hintergrunddatenutzung begrenzen und die Bildqualität in Apps reduzieren.
 
 7. **Laden Sie Fotos und Videos nur über WLAN hoch.** Ein einziges hochauflösendes Foto benötigt 3-5 MB. Wenn Sie täglich 50 Fotos machen, sind das 250 MB pro Tag – das Hochladen über WLAN anstelle von mobilen Daten spart über eine Reise erhebliche Bandbreite.
 
-**Streaming-Qualität und Datenverbrauch**
+## Streaming-Qualität und Datenverbrauch
+
 | Streaming-Dienst | Niedrige Qualität | Mittlere Qualität | Hohe Qualität |
-|:-----------------|:-----------:|:--------------:|:------------:|
+| :--------------- | :---------------: | :---------------: | :-----------: |
 | YouTube | 150 MB/Std. (360p) | 250 MB/Std. (480p) | 750 MB/Std. (720p) |
 | Netflix | 300 MB/Std. | 700 MB/Std. | 3 GB/Std. (HD) |
 | Spotify | 20 MB/Std. | 40 MB/Std. | 150 MB/Std. |
 | Apple Music | 15 MB/Std. | 60 MB/Std. | 150 MB/Std. |
 | Disney+ | 300 MB/Std. | 700 MB/Std. | 2 GB/Std. (HD) |
 
-**Wann unbegrenzte Datentarife tatsächlich sinnvoll sind**
-Unbegrenzte Datentarife sind verlockend, aber oft nicht das beste Preis-Leistungs-Verhältnis für typische Reisende. Basierend auf OpenSignal-Nutzungsdaten verbraucht der durchschnittliche Reisende 300-500 MB pro Tag. Bei einer 7-tägigen Reise sind das 2,1-3,5 GB.
+## Wann unbegrenzte Datentarife tatsächlich sinnvoll sind
 
-Ein unbegrenzter Tarif für $19.50 (Holafly 5-Tage-Tarif) kostet mehr als ein 10-GB-Ubigi-Tarif für $12 – und die meisten Reisenden verbrauchen weniger als die Hälfte dieser Kapazität.
+Unbegrenzte Datentarife sind verlockend, aber oft nicht das beste Preis-Leistungs-Verhältnis für typische Reisende. Der durchschnittliche Reisende verbraucht etwa 300-500 MB pro Tag. Bei einer 7-tägigen Reise sind das 2,1-3,5 GB. Ein unbegrenzter Tarif für $19,50 (Holafly 5-Tage-Tarif) kostet mehr als ein 10-GB-Ubigi-Tarif für $12 – und die meisten Reisenden verbrauchen weniger als die Hälfte dieser Kapazität.
 
 Unbegrenzte Tarife sind in diesen spezifischen Szenarien sinnvoll:
-
 - **Remote-Arbeit unterwegs**: Tägliche Videoanrufe, Cloud-Datei-Uploads und Kollaborationstools können leicht 2-5 GB pro Tag verbrauchen
-- **Hotspot-Sharing in der Gruppe**: Wenn Sie einen Laptop tethern und mit einem Reisebegleiter teilen, vervielfacht sich der Verbrauch schnell
-
-- **Kein zuverlässiges WLAN in der Unterkunft**: Wenn Ihr Hotel oder Airbnb langsames oder kostenpflichtiges WLAN hat, wird Ihre eSIM zur primären Internetverbindung
-- **Starke Nutzung sozialer Medien und Streaming**: Live-Streaming, TikTok, Instagram Reels und tägliche Videoanrufe summieren sich schnell – und überschreiten leicht 10 GB pro Woche
-
+- **Hotspot-Freigabe in der Gruppe**: Wenn Sie einen Laptop tethern und mit einem Reisebegleiter teilen, vervielfacht sich der Verbrauch schnell
+- **Kein zuverlässiges WLAN in der Unterkunft**: Wenn Ihr Hotel oder Airbnb langsames oder kostenpflichtiges WLAN hat, wird Ihre eSIM zu Ihrer primären Internetverbindung
+- **Intensive Nutzung sozialer Medien und Streaming**: Live-Streaming, TikTok, Instagram Reels und tägliche Videoanrufe summieren sich schnell – und überschreiten leicht 10 GB pro Woche
 - **Seelenfrieden**: Manche Reisende zahlen lieber einen festen Preis und denken nie wieder über den Datenverbrauch nach, auch wenn sie weniger verbrauchen, als der Tarif erlaubt
 
----
+## Wahl der USA-eSIM für Reisende nach Reiseart
 
-## Auswahl einer USA eSIM für Reisende nach Reiseart
+Der Anbieter, der für einen Reisenden funktioniert, könnte für einen anderen die falsche Wahl sein. Hier erfahren Sie, wie Sie es basierend auf dem, wie Ihre Reise tatsächlich aussieht, eingrenzen können. Deshalb ist ein USA-eSIM-Vergleich vor dem Kauf unerlässlich.
 
-Der Anbieter, der für einen Reisenden funktioniert, könnte für einen anderen die falsche Wahl sein. So grenzen Sie ein, was Ihre Reise tatsächlich erfordert. Aus diesem Grund ist ein USA eSIM-Vergleich vor dem Kauf unerlässlich.
+**Roadtrips und Nationalparks.** Die meisten eSIMs laufen auf T-Mobile, dem schwächsten Betreiber im ländlichen Amerika. Wenn Ihre Reiseroute Yellowstone, den Grand Canyon, Zion oder eine Durchquerung des Südwestens beinhaltet, benötigen Sie einen Anbieter, der eine Verbindung zu AT&T oder Verizon herstellt. Nomad ist der einzige internationale Anbieter, der direkt mit beiden verbindet – das ist der Grund, warum Reisende, die durch Montana oder Utah fahren, durchweg von besserem Signal berichten als Freunde, die T-Mobile-basierte eSIMs verwenden. Für eine vollständige Aufschlüsselung finden Sie im [USA-eSIM-Roadtrip-Leitfaden](/blog/usa-esim-road-trip-guide/) detaillierte Informationen zur Abdeckung in Nationalparks und zur Leistung auf Autobahnen.
 
-**Roadtrips und Nationalparks.** Die meisten eSIMs laufen auf T-Mobile, dem schwächsten Anbieter im ländlichen Amerika. Wenn Ihre Reiseroute Yellowstone, den Grand Canyon, Zion oder eine Durchquerung des Südwestens beinhaltet, benötigen Sie einen Anbieter, der sich mit AT&T oder Verizon verbindet.
+**Geschäftsreisen und Remote-Arbeit.** Wenn Sie geschäftlich reisen und von Ihrem Telefon aus Kundenanrufe tätigen müssen, reicht eine Nur-Daten-eSIM nicht aus. Sie benötigen einen Anbieter, der eine echte US-Telefonnummer enthält – Tello bietet unter diesen Optionen das beste Preis-Leistungs-Verhältnis pro GB mit Sprachunterstützung. Wenn Sie mit mehreren Geräten arbeiten (Telefon, Tablet, Laptop), ermöglichen Ihnen die Multi-Geräte-Tarife von Google Fi, dieselben Daten auf allen zu nutzen, ohne separate Tarife kaufen zu müssen. Der [USA-eSIM für Geschäftsreisende und digitale Nomaden-Leitfaden](/blog/usa-esim-business-digital-nomad/) vergleicht Hotspot-Geschwindigkeiten, Multi-Geräte-Unterstützung und Preise für längere Aufenthalte.
 
-Nomad ist der einzige internationale Anbieter, der sich direkt mit beiden verbindet – deshalb berichten Reisende, die durch Montana oder Utah fahren, durchweg von besserem Signal als Freunde, die T-Mobile-basierte eSIMs nutzen.
+**Familienreisen und Gruppenreisen.** Die Rechnung ändert sich, wenn Sie mit mehreren Personen reisen. Für eine vierköpfige Familie kosten vier separate eSIMs zu je $12 insgesamt $48 – etwa der gleiche Preis wie eine Pocket WiFi-Miete. Der Vorteil einzelner eSIMs ist, dass jeder seinen eigenen Weg gehen kann, ohne das Internet zu verlieren. Die Gruppentarife von Google Fi können die Kosten pro Person ebenfalls senken, wenn alle Geräte auf einem Konto sind. Der [USA-eSIM für Familien und spezielle Reisen-Leitfaden](/blog/usa-esim-family-special-trips/) vergleicht Optionen für gemeinsame Daten gegenüber einzelnen Tarifen für jede Gruppengröße.
 
-Eine vollständige Aufschlüsselung finden Sie im [USA eSIM-Roadtrip-Leitfaden](/blog/usa-esim-road-trip-guide/), der die Abdeckung in Nationalparks und die Leistung auf Autobahnen detailliert behandelt.
+**Multiländer-Reisen (Kanada und Mexiko).** Wenn Ihre Reise US-Grenzen überschreitet, ist der Kauf separater eSIMs in jedem Land teuer und umständlich. Nomad und Airalo bieten beide regionale Nordamerika-Tarife an, die die USA, Kanada und Mexiko auf einer einzigen eSIM abdecken – Sie überqueren die Grenze und es funktioniert einfach weiter. Der [USA-eSIM-Anbieterleitfaden](/blog/usa-esim-provider-comparison/) listet auf, welche Anbieter Multiländer-Abdeckung enthalten und welche dafür extra berechnen.
 
-**Geschäftsreisen und Remote-Arbeit.** Wenn Sie geschäftlich reisen und von Ihrem Telefon aus Kundenanrufe tätigen müssen, reicht eine reine Daten-eSIM nicht aus. Sie benötigen einen Anbieter, der eine echte US-Telefonnummer beinhaltet – Tello bietet das beste Preis-Leistungs-Verhältnis pro GB mit Sprachunterstützung unter diesen Optionen.
+## Alleinreisende und Backpacker
 
-Wenn Sie auf mehreren Geräten arbeiten (Telefon, Tablet, Laptop), ermöglichen die Multi-Geräte-Tarife von Google Fi die Nutzung derselben Daten auf allen Geräten, ohne separate Tarife kaufen zu müssen. Der [USA eSIM-für-Geschäftsreisende-und-digitale-Nomaden-Leitfaden](/blog/usa-esim-business-digital-nomad/) vergleicht Hotspot-Geschwindigkeiten, Multi-Geräte-Unterstützung und Preise für lange Aufenthalte.
+Für Alleinreisende mit kleinem Budget steht die Suche nach der günstigsten zuverlässigen Option im Vordergrund. Airalos $4,50 1-GB-Tarif deckt ein Wochenende mit Karten und Nachrichten ab. Für längere Backpacking-Reisen von 2-4 Wochen ist Ubigis 10-GB-Tarif für $12 das beste Preis-Leistungs-Verhältnis pro Gigabyte. Alleinreisende sollten auch einen [USA-eSIM-Tarif](/united-states-esim/) in Betracht ziehen, um den Seelenfrieden zu haben, den der automatische Betreiberwechsel bietet – wenn Sie alleine reisen, haben Sie keinen Hotspot einer anderen Person, auf den Sie zurückgreifen können, wenn Ihr Signal ausfällt.
 
-**Familienreisen und Gruppenreisen.** Die Rechnung ändert sich, wenn Sie mit mehreren Personen reisen. Für eine vierköpfige Familie kosten vier separate eSIMs zu je $12 insgesamt $48 – etwa das gleiche wie eine Pocket-WiFi-Miete. Der Vorteil von individuellen eSIMs ist, dass jeder seinen eigenen Weg gehen kann, ohne das Internet zu verlieren.
-
-Die Gruppentarife von Google Fi können auch die Kosten pro Person senken, wenn alle Geräte auf einem Konto sind. Der [USA eSIM-für-Familien-und-spezielle-Reisen-Leitfaden](/blog/usa-esim-family-special-trips/) vergleicht Optionen für geteilte Daten gegenüber individuellen Tarifen für jede Gruppengröße.
-
-**Mehrländerreisen (Kanada und Mexiko).** Wenn Ihre Reise die US-Grenzen überschreitet, ist der Kauf separater eSIMs in jedem Land teuer und umständlich. Nomad und Airalo bieten beide regionale Nordamerika-Tarife an, die die USA, Kanada und Mexiko mit einer einzigen eSIM abdecken – Sie überqueren die Grenze und es funktioniert einfach weiter.
-
-Der [USA eSIM-Anbietervergleich](/blog/usa-esim-provider-comparison/) listet auf, welche Anbieter Mehrländer-Abdeckung beinhalten und welche dafür extra berechnen.
-
-**Alleinreisende und Rucksacktouristen**
-Für preisbewusste Alleinreisende steht die Suche nach der günstigsten zuverlässigen Option im Vordergrund. Airalos $4.50 1-GB-Tarif deckt ein Wochenende mit Karten und Nachrichten ab. Für längere Rucksackreisen von 2-4 Wochen ist Ubigis 10-GB-Tarif für $12 das beste Preis-Leistungs-Verhältnis pro Gigabyte.
-
-Alleinreisende sollten auch [**USA eSIM**](/united-states-esim/) für die Sicherheit in Betracht ziehen, die der automatische Anbieterwechsel bietet – wenn Sie allein reisen, haben Sie keinen Hotspot eines anderen, auf den Sie zurückgreifen können, wenn Ihr Signal ausfällt.
-
-**Empfohlenes Setup für Rucksacktouristen:**
+### Empfohlene Einrichtung für Alleinreisende Backpacker:
 - Unter 7 Tagen: Airalo oder Ubigi, 3-5 GB ($9-14)
 - 7-14 Tage: Ubigi, 10 GB ($12)
-- 14-30 Tage: Ubigi 25 GB oder Tello 20 GB mit Sprache ($22-25)
-- Profi-Tipp: Laden Sie Offline-Karten und Streaming-Inhalte über das WLAN von Hostels oder Hotels herunter, um Ihr eSIM-Datenvolumen zu schonen
+- 14-30 Tage: Ubigi 25 GB oder Tello 25 GB mit Sprache ($25)
+- Profi-Tipp: Laden Sie Offline-Karten und Streaming-Inhalte über das WLAN der Herberge oder des Hotels herunter, um Ihre eSIM-Daten zu schonen
 
-**Luxus- und Premium-Reisende**
-Wenn das Budget nicht Ihre Hauptsorge ist, verschieben sich die besten Entscheidungen hin zu Premium-Support und uneingeschränktem Komfort. Reisende, die in Luxushotels übernachten, haben in der Regel zuverlässiges WLAN im Zimmer, wodurch sich ihr eSIM-Bedarf auf Navigation unterwegs, Fahrdienste und Restaurantrecherchen zwischen den Standorten reduziert.
+## Luxus- und Premium-Reisende
 
-**Empfohlenes Setup für Premium-Reisende:**
-- Jede Reiselänge: Holafly unbegrenzt ($3.90-5.50/Tag) oder **USA eSIM** unbegrenzt ($29.99/30 Tage)
+Wenn das Budget nicht Ihr Hauptanliegen ist, verschieben sich die besten Entscheidungen hin zu Premium-Support und unbegrenztem Komfort. Reisende, die in Luxushotels übernachten, haben in der Regel zuverlässiges WLAN im Zimmer, wodurch sich ihr eSIM-Bedarf auf Navigation unterwegs, Fahrdienste und Restaurantrecherche zwischen den Standorten reduziert.
+
+### Empfohlene Einrichtung für Premium-Reisende:
+- Jede Reiselänge: Holafly unbegrenzt ($3,90-5,50/Tag) oder **USA eSIM** unbegrenzt ($29,99/30 Tage)
 - Der Komfort, den Datenverbrauch nie überprüfen zu müssen, ist für diesen Reisestil den Aufpreis wert
+- Wenn Sie eine US-Nummer für Restaurantreservierungen, Anrufe bei der Hotel-Concierge oder lokale Dienste benötigen, bietet Tello mit einer US-Nummer ($15/10 GB) plus einem unbegrenzten Daten-Zusatz eine elegante Kombination
+- Für Geschäftsreisende, die mehrere kurze US-Reisen pro Jahr unternehmen, erspart die Aufbewahrung eines einzigen **US-eSIM**-Profils mit Nachbuchungsmöglichkeit den Aufwand, jedes Mal neue Tarife kaufen zu müssen
 
-- Wenn Sie eine US-Nummer für Restaurantreservierungen, Anrufe an die Hotelrezeption oder lokale Dienste benötigen, bietet Tello mit einer US-Nummer ($15/10 GB) plus ein unbegrenztes Daten-Add-on eine elegante Kombination
+## Digitale Nomaden und Langzeitreisende
 
-- Für Geschäftsreisende, die mehrere kurze USA-Reisen pro Jahr unternehmen, erspart die Beibehaltung eines einzigen **USA eSIM**-Profils mit Aufladefunktion den Aufwand, jedes Mal neue Tarife kaufen zu müssen
+Für Aufenthalte von 30-90 Tagen verlagert sich die Konnektivitätsstrategie von kurzfristigem Komfort hin zu Kosteneffizienz über Volumen.
 
-**Digitale Nomaden und Langzeitreisende**
-Bei Aufenthalten von 30-90 Tagen verlagert sich die Konnektivitätsstrategie von kurzfristigem Komfort hin zu Kosteneffizienz über das Volumen.
-
-| Dauer | Beste Option | Geschätzte Kosten | Anmerkungen |
-|:---------|:------------|:--------------:|:------|
-| 1 Monat (30 GB) | T-Mobile Prepaid oder Tello | $25-35 | US-Nummer enthalten, solide städtische Abdeckung |
-| 2 Monate (60 GB) | T-Mobile Prepaid + Aufladung | $50-70 | Günstiger pro GB als Reise-eSIMs |
+| Dauer | Beste Option | Geschätzte Kosten | Hinweise |
+| :---- | :----------- | :---------------: | :------- |
+| 1 Monat (30 GB) | T-Mobile Prepaid oder Tello | $25-35 | US-Nummer inklusive, solide städtische Abdeckung |
+| 2 Monate (60 GB) | T-Mobile Prepaid + Nachbuchung | $50-70 | Günstiger pro GB als Reise-eSIMs |
 | 3 Monate (90 GB) | AT&T Prepaid oder Tello | $75-100 | Bessere ländliche Abdeckung als T-Mobile |
-| 6 Monate+ | Google Fi (flexibler Tarif) | $30-80/Monat | Multi-Geräte-Unterstützung, pausiert bei Nichtgebrauch |
+| 6 Monate+ | Google Fi (flexibler Tarif) | $30-80/Monat | Multi-Geräte-Unterstützung, pausiert bei Nichtnutzung |
 
-Für digitale Nomaden, die für Kundenanrufe und Verifizierungscodes eine US-Nummer benötigen, sind Tello ($15/10 GB mit Sprache) oder Google Fi ($30-80/Monat für unbegrenzt) die besten Optionen. Die Multi-Geräte-Unterstützung von Google Fi ist besonders wertvoll für Nomaden, die auf Telefon, Tablet und Laptop arbeiten – ein Tarif deckt alle Geräte ab.
+## Kreuzfahrt- und Resort-Reisende
 
-Wenn Sie in Großstädten bleiben und keine US-Nummer benötigen, ist Ubigis 25-GB-Tarif ($24) die günstigste Option pro GB und kann monatlich aufgeladen werden.
+Kreuzfahrtpassagiere stehen vor einer besonderen Konnektivitätsherausforderung: Die meisten eSIMs verbinden sich mit US-Mobilfunknetzen, aber Kreuzfahrtschiffe nutzen maritime Satellitennetze, die nicht von Standard-Reise-eSIM-Tarifen abgedeckt werden.
 
-**Kreuzfahrt- und Resort-Reisende**
-Kreuzfahrtpassagiere stehen vor einer besonderen Herausforderung: Die meisten eSIMs verbinden sich mit US-Mobilfunknetzen, aber Kreuzfahrtschiffe nutzen maritime Satellitennetze, die nicht von Standard-Reise-eSIM-Tarifen abgedeckt werden.
-
-**Wichtige Überlegungen für Kreuzfahrtreisende:**
+### Wichtige Überlegungen für Kreuzfahrtreisende:
 - Auf See: Standard-eSIMs funktionieren nicht. Sie benötigen das WLAN-Paket des Kreuzfahrtschiffs für die Konnektivität während der Fahrt.
+- Im Hafen: Ihre eSIM verbindet sich mit dem lokalen US-Netz, wenn das Schiff in der Nähe einer US-Stadt anlegt. Für Alaska-Kreuzfahrten sind Verizon-basierte eSIMs in den Häfen Alaskas und auf Küstenpassagen am zuverlässigsten.
+- Resort-WLAN: Die meisten US-Resorts und All-Inclusive-Anlagen bieten kostenloses WLAN in den Zimmern und Gemeinschaftsbereichen, wodurch Ihr eSIM-Datenbedarf erheblich reduziert wird.
+- Hafentage: Laden Sie Offline-Karten jedes Hafens vor der Abreise herunter. Die Navigation zwischen dem Schiff und den Ausflugszielen ist der Ort, an dem Sie den größten Teil Ihrer eSIM-Daten verbrauchen werden.
 
-- Im Hafen: Ihre eSIM verbindet sich mit dem lokalen US-Netzwerk, wenn das Schiff in der Nähe einer US-Stadt anlegt. Bei Alaska-Kreuzfahrten sind Verizon-basierte eSIMs in den alaskischen Häfen und Küstenabschnitten am zuverlässigsten.
-- Resort-WLAN: Die meisten US-Resorts und All-Inclusive-Anlagen bieten kostenloses WLAN in den Zimmern und öffentlichen Bereichen, wodurch Ihr eSIM-Datenbedarf erheblich reduziert wird.
-
-- Hafentage: Laden Sie vor der Abreise Offline-Karten für jeden Hafen herunter. Die Navigation zwischen dem Schiff und den Ausflugszielen ist der Ort, an dem Sie den größten Teil Ihres eSIM-Datenvolumens verbrauchen werden.
-
-**Empfohlenes Setup:**
+### Empfohlene Einrichtung:
 - Kleiner eSIM-Tarif (3-5 GB für eine 7-tägige Kreuzfahrt) für Hafentage und Ausflüge an Land
-- WLAN-Paket des Schiffs für die Konnektivität auf See (separat von der Kreuzfahrtlinie zu kaufen)
+- Schiffs-WLAN-Paket für Konnektivität auf See (separat von der Kreuzfahrtlinie zu kaufen)
 - Laden Sie Offline-Karten jeder Hafenstadt vor der Abreise herunter
 
-**Studenten und Austauschbesucher**
-Internationale Studenten, die ein Semester oder ein akademisches Jahr in den USA studieren, benötigen einen anderen Ansatz als Kurzzeitreisende. Die meisten Studenten verbringen viel Zeit im Campus-WLAN, wodurch ihr mobiler Datenbedarf im Vergleich zu Touristen sinkt.
+## Studenten und Austauschbesucher
 
-Sie benötigen jedoch eine US-Telefonnummer für die Universitätskommunikation, die Einrichtung von Bankkonten und lokale Dienste.
+Internationale Studenten, die für ein Semester oder ein akademisches Jahr in den USA studieren, benötigen einen anderen Ansatz als Kurzzeitreisende. Die meisten Studenten verbringen viel Zeit im Campus-WLAN, wodurch ihr mobiler Datenbedarf im Vergleich zu Touristen geringer ist. Sie benötigen jedoch eine US-Telefonnummer für die Universitätskommunikation, die Einrichtung von Bankkonten und lokale Dienste.
 
-**Empfohlenes Setup für Studenten:**
-- Erste 30 Tage: Tello mit einer US-Nummer ($5-15/Monat für 1-10 GB) – flexibel, ohne Vertrag, internationale Kreditkarte akzeptiert
+### Empfohlene Einrichtung für Studenten:
+- Erste 30 Tage: Tello mit einer US-Nummer ($5-15/Monat für 1-10 GB) – flexibel, kein Vertrag, internationale Kreditkarten akzeptiert
 - Nach 30 Tagen: Wechsel zu einem T-Mobile- oder AT&T-Prepaid-Tarif für bessere Langzeitpreise ($25-40/Monat für 30-50 GB)
-- Alternative: Google Fi für Studenten, die zwischen den USA und ihrem Heimatland pendeln, da es in 200+ Ländern funktioniert
-
+- Alternative: Google Fi für Studenten, die zwischen den USA und ihrem Heimatland hin- und herreisen, da es in 200+ Ländern funktioniert
 - Für Sommer- und Winterferien: Die meisten Anbieter erlauben das Pausieren oder Reduzieren von Tarifen, sodass Sie nicht für Daten bezahlen, die Sie während der Reise nach Hause nicht nutzen
 
----
+## Wie man eine eSIM in den USA bekommt: Installation und Aktivierung
 
-## Wie man in den USA eine eSIM bekommt: Installation und Aktivierung
+Die Installation dauert etwa 5 Minuten und sollte vor Ihrer Abreise erledigt werden. Hier erfahren Sie, **wie Sie eine eSIM in den USA bekommen**, ohne den Stress am Flughafen.
 
-Die Installation dauert etwa 5 Minuten und sollte vor Ihrer Abreise von zu Hause aus durchgeführt werden. Hier erfahren Sie, **wie Sie in den USA eine eSIM bekommen**, ohne den Flughafen-Stress.
+1. **Kaufen Sie Ihren Tarif** auf der Website oder in der App des Anbieters. Der QR-Code kommt innerhalb von Minuten per E-Mail. Die meisten Tarife beginnen mit der Zeitzählung ab dem Moment, in dem Sie sich zum ersten Mal mit einem US-Netz verbinden, nicht beim Kauf oder der Installation – ein früher Kauf ist also unbedenklich.
 
-1. **Kaufen Sie Ihren Tarif** auf der Website oder in der App des Anbieters. Der QR-Code wird innerhalb weniger Minuten per E-Mail zugesandt. Die meisten Tarife beginnen mit der Zählung ab dem Zeitpunkt der ersten Verbindung mit einem US-Netzwerk, nicht beim Kauf oder der Installation – ein früher Kauf ist also unbedenklich.
+2. **Scannen Sie den QR-Code.** Auf dem iPhone gehen Sie zu **Einstellungen → Mobiles Netz → eSIM hinzufügen**. Auf Android gehen Sie zu **Einstellungen → Netzwerk & Internet → SIMs → eSIM hinzufügen**. Wenn der QR-Code nicht gescannt werden kann, können Sie die Details normalerweise manuell mit der SM-DP+-Adresse und dem Aktivierungscode aus Ihrer Bestätigungs-E-Mail eingeben.
 
-2. **Scannen Sie den QR-Code.** Auf dem iPhone gehen Sie zu **Einstellungen → Mobilfunk → eSIM hinzufügen**. Auf Android zu **Einstellungen → Netzwerk & Internet → SIMs → eSIM hinzufügen**. Wenn der QR-Code nicht gescannt werden kann, können Sie die Details in der Regel manuell eingeben, indem Sie die SM-DP+-Adresse und den Aktivierungscode aus Ihrer Bestätigungs-E-Mail verwenden.
+3. **Benennen Sie die Leitung** mit etwas, das Sie erkennen – "US-Daten" oder "USA eSIM" –, damit Sie sie von Ihrer Heim-SIM unterscheiden können.
 
-3. **Benennen Sie die Leitung** mit einem erkennbaren Namen – "US-Daten" oder "USA eSIM" – damit Sie sie von Ihrer heimischen SIM unterscheiden können.
-4. **Legen Sie die eSIM als Datenleitung fest.** Behalten Sie Ihre heimische SIM als Standard-Sprachleitung, wenn Sie Anrufe auf Ihrer regulären Nummer empfangen möchten.
+4. **Legen Sie die eSIM als Ihre Datenleitung fest.** Behalten Sie Ihre Heim-SIM als Standard-Sprachleitung, wenn Sie Anrufe auf Ihrer regulären Nummer empfangen möchten.
 
-5. **Schalten Sie das Datenroaming auf Ihrer heimischen SIM aus.** Dies verhindert Überraschungsgebühren. Schalten Sie das Datenroaming für die eSIM-Linie ein – die meisten Reise-eSIMs benötigen dies, um zu funktionieren, auch wenn Sie sich mit einem lokalen Netzwerk verbinden.
+5. **Deaktivieren Sie Datenroaming auf Ihrer Heim-SIM.** Dies verhindert Überraschungsgebühren. Aktivieren Sie Datenroaming für die eSIM-Leitung – die meisten Reise-eSIMs benötigen dies, um zu funktionieren, auch wenn Sie sich mit einem lokalen Netz verbinden.
 
-**APN-Einstellungen als Referenz:** Die meisten Anbieter konfigurieren den APN automatisch. Wenn nicht, hier sind die gängigen Werte:
+**APN-Einstellungen als Referenz:** Die meisten Anbieter konfigurieren APN automatisch. Wenn nicht, sind hier die üblichen Werte:
 - Airalo: `airalovpn`
 - Holafly: `holafly`
 - Ubigi, Saily, Nomad: normalerweise automatisch konfiguriert
 - T-Mobile, AT&T, Verizon Prepaid: `internet` oder `fast.t-mobile.com`
 
-Wenn die Daten nach der Installation nicht funktionieren, überprüfen Sie, ob der APN in den mobilen Netzwerkeinstellungen Ihres Telefons korrekt eingestellt ist.
+Wenn die Daten nach der Installation nicht funktionieren, überprüfen Sie, ob die APN in den mobilen Netzwerkeinstellungen Ihres Telefons korrekt eingestellt ist.
 
-**Wenn Sie in den USA landen:**
-- Schalten Sie den Flugmodus ein und aus, um eine neue Netzwerkverbindung zu erzwingen
+### Wenn Sie in den USA landen:
+- Schalten Sie den Flugmodus ein und wieder aus, um eine frische Netzwerkverbindung zu erzwingen
 - Öffnen Sie Google Maps oder Safari, um zu bestätigen, dass es funktioniert
-- Wenn es sich nicht automatisch verbindet, gehen Sie zu den Netzwerkeinstellungen und wählen Sie manuell einen Anbieter aus (versuchen Sie T-Mobile, AT&T oder Verizon)
-
+- Wenn es sich nicht automatisch verbindet, gehen Sie zu den Netzwerkeinstellungen und wählen Sie manuell einen Betreiber aus (versuchen Sie T-Mobile, AT&T oder Verizon)
 - Die meisten eSIMs aktivieren sich innerhalb von 1-2 Minuten nach der Verbindung mit einem US-Sendemast. Einige Anbieter senden eine Bestätigungs-SMS – löschen Sie diese Nachricht nicht, da sie nützliche Tarifinformationen enthalten kann
 
-**Häufige Aktivierungsfehler, die Sie vermeiden sollten:**
-- Das eSIM-Profil installieren, aber vergessen, das Datenroaming einzuschalten – das ist der häufigste Grund, warum eSIMs nach der Landung nicht funktionieren
-- Die eSIM vor der Ankunft einschalten – einige Tarife beginnen mit der Zählung ab der Aktivierung und nicht ab der ersten Netzwerkverbindung, was Tage verschwendet
+### Häufige Aktivierungsfehler, die Sie vermeiden sollten:
+- Installation des eSIM-Profils, aber Vergessen, Datenroaming zu aktivieren – das ist der häufigste Grund, warum eSIMs nach der Landung nicht funktionieren
+- Aktivieren der eSIM vor der Ankunft – einige Tarife beginnen mit der Zeitzählung ab Aktivierung anstatt ab der ersten Netzwerkverbindung, was Tage verschwendet
+- Löschen des eSIM-Profils während der Fehlerbehebung – QR-Codes sind einmalig, und einmal gelöscht, müssen Sie den Support um einen Ersatz bitten
+- Nichtüberprüfen der Telefonkompatibilität vor dem Kauf – wenn Ihr Telefon an einen Nicht-US-Betreiber gebunden ist, funktionieren USA-eSIMs nicht
 
-- Das eSIM-Profil während der Fehlerbehebung löschen – QR-Codes sind einmalig verwendbar, und einmal gelöscht, müssen Sie den Support für einen Ersatz kontaktieren
-- Die Telefonkompatibilität vor dem Kauf nicht prüfen – wenn Ihr Telefon für einen nicht-US-Anbieter gesperrt ist, funktionieren USA eSIMs nicht
+**Wenn Sie den gesamten Prozess üben möchten, bevor Sie sich für einen Tarif entscheiden,** gibt es eine [kostenlose eSIM-Testversion](/free-esim/), die Sie durch die gleichen Schritte führt. Es ist nützlich für jeden, der dies noch nie gemacht hat – Sie können den gesamten Installationsablauf risikofrei durchgehen. Der Code **WEB20** gewährt 20 % Rabatt auf jeden zukünftigen Tarif.
 
-**Wenn Sie den gesamten Prozess vor der endgültigen Entscheidung üben möchten,** bietet [Roami eine kostenlose eSIM](/free-esim/) an, die Sie durch die gleichen Schritte führt. Es ist nützlich für alle, die dies noch nie gemacht haben – Sie können den gesamten Installationsworkflow risikofrei durchlaufen. Der Code **WEB20** gewährt 20 % Rabatt auf jeden zukünftigen Tarif.
+Für gerätespezifische Anweisungen mit Screenshots für iPhone, Samsung Galaxy und Google Pixel finden Sie die vollständige Aufschlüsselung im [USA-eSIM-Einrichtungsleitfaden](/blog/usa-esim-setup-guide/). Wenn Sie planen, Ihre Heimnummer neben der eSIM aktiv zu halten, finden Sie im [USA-eSIM-Dual-SIM-Leitfaden](/blog/usa-esim-dual-sim-setup/) die besten Konfigurationen für iOS und Android.
 
-Für gerätespezifische Anweisungen mit Screenshots für iPhone, Samsung Galaxy und Google Pixel finden Sie im [USA eSIM-Setup-Leitfaden](/blog/usa-esim-setup-guide/) die vollständige Aufschlüsselung. Wenn Sie planen, Ihre Heimatnummer neben der eSIM aktiv zu halten, führt der [USA eSIM-Dual-SIM-Setup-Leitfaden](/blog/usa-esim-dual-sim-setup/) durch die besten Konfigurationen für iOS und Android.
+## Checkliste vor der Reise
 
-**Checkliste vor der Reise**
 Führen Sie diese Schritte vor Ihrer Abreise durch, um eine reibungslose Aktivierung bei der Ankunft zu gewährleisten:
 
-1. **Telefonkompatibilität prüfen**: Wählen Sie `*#06#` und suchen Sie nach einer EID-Nummer. Bestätigen Sie, dass Ihr Telefon entsperrt ist, indem Sie eine SIM-Karte eines anderen Anbieters testen.
-2. **Anbieter recherchieren**: Vergleichen Sie Tarife basierend auf Ihrer Reiseroute, Ihrem Datenbedarf und Ihrem Budget. Lesen Sie aktuelle Bewertungen auf Trustpilot und Reddit.
+1. **Überprüfen Sie die Telefonkompatibilität**: Wählen Sie `*#06#` und suchen Sie nach einer EID-Nummer. Bestätigen Sie, dass Ihr Telefon entsperrt ist, indem Sie eine SIM eines anderen Betreibers testen.
 
-3. **Kaufen und installieren**: Kaufen Sie Ihren eSIM-Tarif und scannen Sie den QR-Code vor der Abreise. Warten Sie nicht bis zur Landung – instabiles Flughafen-WLAN ist der falsche Zeitpunkt für die Fehlerbehebung bei der Installation.
-4. **Die eSIM benennen**: Benennen Sie sie in den Telefoneinstellungen in "US-Daten" um, damit Sie sie leicht neben Ihrer heimischen SIM identifizieren können.
+2. **Recherchieren Sie Anbieter**: Vergleichen Sie Tarife basierend auf Ihrer Reiseroute, Ihrem Datenbedarf und Ihrem Budget. Lesen Sie aktuelle Bewertungen auf Trustpilot und Reddit.
 
-5. **Standardleitungen konfigurieren**: Legen Sie Ihre heimische SIM als Standard-Sprachleitung und die eSIM als Datenleitung fest.
-6. **Datenroaming auf Ihrer heimischen SIM ausschalten**: Dies verhindert Überraschungsgebühren Ihres Heimanbieters.
-7. **Datenroaming für die eSIM einschalten**: Die meisten Reise-eSIMs benötigen diese Einstellung, auch wenn sie sich mit einem lokalen US-Netzwerk verbinden.
+3. **Kaufen und installieren Sie**: Kaufen Sie Ihren eSIM-Tarif und scannen Sie den QR-Code vor der Abreise. Warten Sie nicht, bis Sie landen – instabiles WLAN am Flughafen ist der falsche Zeitpunkt, um die Installation zu troubleshooten.
 
-8. **Offline-Google-Maps herunterladen**: Laden Sie vor der Abreise über WLAN Karten Ihrer Zielstädte und -routen herunter.
-9. **Kontaktinformationen des Anbieters speichern**: Notieren Sie die Support-E-Mail, die Website-URL und alle Kontoreferenznummern Ihres Anbieters.
+4. **Benennen Sie die eSIM**: Benennen Sie sie in den Telefoneinstellungen in "US-Daten" um, damit Sie sie leicht neben Ihrer Heim-SIM identifizieren können.
 
-10. **Wichtige Apps herunterladen**: Installieren Sie Uber, Lyft, Google Maps und die Verwaltungs-App Ihres eSIM-Anbieters vor der Abreise (alle funktionieren für die Ersteinrichtung über WLAN).
+5. **Konfigurieren Sie die Standardleitungen**: Legen Sie Ihre Heim-SIM als Standard-Sprachleitung und die eSIM als Datenleitung fest.
 
-**Schritt-für-Schritt: iPhone-Installation**
-1. **Kaufen Sie Ihren Tarif** auf der Website oder in der App des Anbieters. Der QR-Code wird innerhalb weniger Minuten per E-Mail zugesandt.
-2. Öffnen Sie **Einstellungen → Mobilfunk → eSIM hinzufügen**.
+6. **Deaktivieren Sie Datenroaming auf Ihrer Heim-SIM**: Dies verhindert Überraschungsgebühren von Ihrem Heimatbetreiber.
+
+7. **Aktivieren Sie Datenroaming für die eSIM**: Die meisten Reise-eSIMs benötigen diese Einstellung, auch wenn sie sich mit einem lokalen US-Netz verbinden.
+
+8. **Laden Sie Offline-Google Maps herunter**: Laden Sie vor der Abreise Karten Ihrer Zielstädte und Routen über WLAN herunter.
+
+9. **Speichern Sie die Kontaktinformationen des Anbieters**: Notieren Sie die Support-E-Mail, die Website-URL und alle Kontoreferenznummern Ihres Anbieters.
+
+10. **Laden Sie wichtige Apps herunter**: Installieren Sie Uber, Lyft, Google Maps und die Verwaltungs-App Ihres eSIM-Anbieters vor der Abreise (alle funktionieren über WLAN für die erste Einrichtung).
+
+## Schritt-für-Schritt: iPhone-Installation
+
+1. **Kaufen Sie Ihren Tarif** auf der Website oder in der App des Anbieters. Der QR-Code kommt innerhalb von Minuten per E-Mail.
+2. Öffnen Sie **Einstellungen → Mobiles Netz → eSIM hinzufügen**.
 3. **Scannen Sie den QR-Code**, der auf einem anderen Gerät angezeigt oder ausgedruckt wurde.
-4. Tippen Sie auf **Mobilfunktarif hinzufügen**, wenn die Aufforderung erscheint.
-
-5. **Benennen Sie den Tarif** "US-Daten" oder "USA-Reise", damit Sie ihn von Ihrer heimischen SIM unterscheiden können.
-6. Legen Sie **Standard-Sprachleitung** auf Ihre heimische SIM fest.
+4. Tippen Sie auf **Mobilfunk-Tarif hinzufügen**, wenn die Eingabeaufforderung erscheint.
+5. **Benennen Sie den Tarif** "US-Daten" oder "USA-Reise", damit Sie ihn von Ihrer Heim-SIM unterscheiden können.
+6. Legen Sie **Standard-Sprachleitung** auf Ihre Heim-SIM fest.
 7. Legen Sie **Standard-Datenleitung** auf die neue eSIM fest.
-8. **Schalten Sie das Datenroaming** auf Ihrer heimischen SIM-Linie aus.
+8. **Deaktivieren Sie Datenroaming** auf Ihrer Heim-SIM-Leitung.
+9. **Aktivieren Sie Datenroaming** auf der eSIM-Leitung.
+10. Schalten Sie **Mobilfunk-Datenwechsel zulassen** EIN – dies ermöglicht es Ihrem Telefon, automatisch zwischen den Leitungen für optimale Datenkonnektivität zu wechseln.
 
-9. **Schalten Sie das Datenroaming** auf der eSIM-Linie ein.
-10. Schalten Sie **Mobilfunkdatenwechsel zulassen** EIN – dies ermöglicht es Ihrem Telefon, für eine optimale Datenkonnektivität automatisch zwischen den Leitungen zu wechseln.
+Für iPhone 14 und neuere Modelle, die in den USA verkauft werden (die überhaupt keinen physischen SIM-Slot haben), können Sie mehrere eSIMs speichern und zwei gleichzeitig aktiv haben. Dies ist besonders nützlich, wenn Sie eine Backup-eSIM von einem anderen Anbieter mitführen möchten. Die [USA-eSIM-Dual-SIM-Anleitung](/blog/usa-esim-dual-sim-setup/) behandelt erweiterte Konfigurationen für US-Modelle iPhones.
 
-Für iPhone 14 und neuere Modelle, die in den USA verkauft werden (die über keinen physischen SIM-Schacht verfügen), können Sie mehrere eSIMs speichern und zwei gleichzeitig aktiv haben. Dies ist besonders nützlich, wenn Sie eine Backup-eSIM von einem anderen Anbieter mitführen möchten.
+## Schritt-für-Schritt: Android-Installation
 
-Der [USA eSIM-Dual-SIM-Setup-Leitfaden](/blog/usa-esim-dual-sim-setup/) deckt erweiterte Konfigurationen für US-Modelle des iPhones ab.
+### Für Samsung Galaxy-Telefone:
+1. Kaufen Sie Ihren Tarif und erhalten Sie den QR-Code per E-Mail.
+2. Gehen Sie zu **Einstellungen → Verbindungen → SIM-Kartenverwaltung → eSIM hinzufügen**.
+3. Tippen Sie auf **QR-Code scannen** und richten Sie Ihr Telefon auf den auf einem anderen Bildschirm angezeigten Code.
+4. Folgen Sie den Anweisungen auf dem Bildschirm, um die Installation abzuschließen.
+5. Legen Sie in der **SIM-Kartenverwaltung** die eSIM als Ihre **Bevorzugte SIM für mobile Daten** fest.
+6. Behalten Sie Ihre Heim-SIM als **Bevorzugte SIM für Anrufe**.
+7. Aktivieren Sie **Datenroaming** nur für die eSIM-Leitung.
+8. Stellen Sie sicher, dass das Datenroaming auf Ihrer Heim-SIM DEAKTIVIERT ist, um internationale Gebühren zu vermeiden.
 
-**Schritt-für-Schritt: Android-Installation**
-
-**Für Samsung Galaxy-Telefone:**
-1. Kaufen Sie Ihren Tarif und erhalten Sie den QR-Code per E-Mail. 2. Gehen Sie zu **Einstellungen → Verbindungen → SIM-Karten-Manager → eSIM hinzufügen**. 3. Tippen Sie auf **QR-Code scannen** und richten Sie Ihr Telefon auf den Code, der auf einem anderen Bildschirm angezeigt wird. 4. Folgen Sie den Anweisungen auf dem Bildschirm, um die Installation abzuschließen. 5.
-
-Legen Sie im **SIM-Karten-Manager** die eSIM als **Bevorzugte SIM für mobile Daten** fest. 6. Behalten Sie Ihre heimische SIM als **Bevorzugte SIM für Anrufe**. 7. Aktivieren Sie **Datenroaming** nur für die eSIM-Linie. 8. Stellen Sie sicher, dass das Datenroaming auf Ihrer heimischen SIM AUS ist, um internationale Gebühren zu vermeiden.
-
-**Für Google Pixel-Telefone:**
-1. Gehen Sie zu **Einstellungen → Netzwerk & Internet → SIMs → SIM hinzufügen → Stattdessen eine SIM herunterladen**. 2. Folgen Sie den Anweisungen auf dem Bildschirm (einige Pixel-Modelle können eine eSIM ohne QR-Code per direktem Download vom Anbieter installieren). 3. Tippen Sie in den **SIMs**-Einstellungen auf die neue eSIM und aktivieren Sie **SIM verwenden** und **Datenroaming**.
-
+### Für Google Pixel-Telefone:
+1. Gehen Sie zu **Einstellungen → Netzwerk & Internet → SIMs → SIM hinzufügen → Stattdessen eine SIM herunterladen**.
+2. Folgen Sie den Anweisungen auf dem Bildschirm (einige Pixel-Modelle können eine eSIM ohne QR-Code per Direktdownload vom Anbieter installieren).
+3. Tippen Sie in den **SIMs**-Einstellungen auf die neue eSIM und aktivieren Sie **SIM verwenden** und **Datenroaming**.
 4. Legen Sie die eSIM als Standard für mobile Daten fest.
 
-**Hinweis zu Samsung-Geräten:** Einige Samsung-Telefone, die über bestimmte Anbieter verkauft werden (insbesondere in Japan, Südkorea und den USA), haben die eSIM-Funktionalität in der Firmware deaktiviert. Überprüfen Sie die eSIM-Kompatibilität mit Ihrem Anbieter, bevor Sie einen Tarif kaufen.
+**Hinweis zu Samsung-Geräten:** Einige Samsung-Telefone, die über bestimmte Betreiber verkauft werden (insbesondere in Japan, Südkorea und den USA), haben die eSIM-Funktionalität in der Firmware deaktiviert. Überprüfen Sie die eSIM-Kompatibilität mit Ihrem Betreiber, bevor Sie einen Tarif kaufen.
 
-**Effektive Verwaltung von Dual-SIMs**
-Sobald Ihre eSIM neben Ihrer heimischen SIM installiert ist, konfigurieren Sie, welche Leitung wofür zuständig ist:
+## Effektive Verwaltung von Dual-SIMs
+
+Nachdem Ihre eSIM neben Ihrer Heim-SIM installiert ist, konfigurieren Sie, welche Leitung wofür zuständig ist:
 
 | Funktion | Empfohlene Einstellung | Warum |
-|:---------|:-------------------|:----|
+| :------- | :--------------------- | :---- |
 | Mobile Daten | eSIM (US-Datenleitung) | Der gesamte US-Internetverkehr läuft über die eSIM |
-| Sprachanrufe | Heimische SIM (Standard) | Anrufe auf Ihrer regulären Nummer empfangen |
-| SMS / Textnachrichten | Heimische SIM (Standard) | Bankverifizierungen und 2FA-Codes empfangen |
-| iMessage / FaceTime | Beide Leitungen | Auf beiden Nummern erreichbar sein |
+| Sprachanrufe | Heim-SIM (Standard) | Empfangen Sie Anrufe auf Ihrer regulären Nummer |
+| SMS / Textnachrichten | Heim-SIM (Standard) | Empfangen Sie Bankverifizierungen und 2FA-Codes |
+| iMessage / FaceTime | Beide Leitungen | Aktivieren Sie auf beiden, um Sie auf beiden Nummern zu erreichen |
 | WhatsApp / WeChat | Daten über eSIM | Messaging-Apps funktionieren über die eSIM-Datenverbindung |
 
-**Warum dieses Setup am besten funktioniert:** Ihre Heimatnummer bleibt aktiv für den Empfang von Zwei-Faktor-Authentifizierungscodes von Ihrer Bank, Ihrem Kreditkartenunternehmen und Online-Diensten.
+## Behebung von Problemen bei der QR-Code-Installation
 
-Der gesamte US-Datenverkehr – Google Maps, Uber, Internetrecherche – nutzt die eSIM-Verbindung. iMessage und WhatsApp funktionieren über Daten, funktionieren also unabhängig davon, welche SIM die Anrufe abwickelt, normal.
-
-**Behebung von Problemen bei der QR-Code-Installation**
 Wenn der QR-Code nicht gescannt werden kann, versuchen Sie diese Lösungen der Reihe nach:
 
-1. **Erhöhen Sie die Bildschirmhelligkeit** auf dem Gerät, das den QR-Code anzeigt – zu dunkle Bildschirme sind für Telefonkameras schwer zu lesen.
+1. **Erhöhen Sie die Bildschirmhelligkeit** auf dem Gerät, das den QR-Code anzeigt – dunkle Bildschirme sind für Handykameras schwer zu lesen.
+
 2. **Halten Sie das Telefon 15-20 cm entfernt** – zu nah oder zu weit entfernt verhindert, dass die Kamera das Codemuster fokussieren kann.
 
-3. **Verwenden Sie die manuelle Eingabe** – die Bestätigungs-E-Mail Ihres Anbieters enthält eine SM-DP+-Adresse und einen Aktivierungscode. Tippen Sie auf dem iPhone auf "Details manuell eingeben" anstelle des Scannens. Tippen Sie auf Samsung am unteren Rand des QR-Scanner-Bildschirms auf "Aktivierungscode eingeben".
+3. **Verwenden Sie die manuelle Eingabe** – Ihre Bestätigungs-E-Mail des Anbieters enthält eine SM-DP+-Adresse und einen Aktivierungscode. Tippen Sie auf dem iPhone auf "Details manuell eingeben", anstatt zu scannen. Tippen Sie auf Samsung am unteren Rand des QR-Scanner-Bildschirms auf "Aktivierungscode eingeben".
 
-4. **Machen Sie einen Screenshot des QR-Codes** und scannen Sie ihn aus Ihrer Fotomediathek, wenn das direkte Scannen von einem anderen Bildschirm fehlschlägt.
-5. **Fordern Sie einen neuen QR-Code** vom Support-Team Ihres Anbieters an, wenn weder das Scannen noch die manuelle Eingabe funktioniert. Die meisten Anbieter generieren innerhalb weniger Minuten Ersatzcodes.
+4. **Machen Sie einen Screenshot des QR-Codes** und scannen Sie von Ihrer Fotobibliothek, wenn das direkte Scannen von einem anderen Bildschirm fehlschlägt.
 
-6. **Versuchen Sie die App des Anbieters** – einige Anbieter (Airalo, Ubigi, **USA eSIM**) ermöglichen die direkte Installation über ihre mobile App ohne Scannen eines QR-Codes.
+5. **Fordern Sie einen neuen QR-Code** vom Support-Team Ihres Anbieters an, wenn weder Scannen noch manuelle Eingabe funktionieren. Die meisten Anbieter generieren innerhalb von Minuten Ersatzcodes.
 
----
+6. **Versuchen Sie die App des Anbieters** – einige Anbieter (Airalo, Ubigi, **USA eSIM**) erlauben die direkte Installation über ihre mobile App ohne Scannen eines QR-Codes.
 
-## USA-mobile-Daten für Touristen: Was tun, wenn es nicht funktioniert?
+## US-Mobildaten für Touristen: Was tun, wenn es nicht funktioniert?
 
-Die meisten Aktivierungsprobleme lassen sich einfach beheben. Versuchen Sie diese Lösungen der Reihe nach.
+Die meisten Aktivierungsprobleme sind einfach zu beheben. Versuchen Sie diese der Reihe nach.
 
-**Schnelle Lösungen (jeweils unter einer Minute):**
-- Flugmodus ein- und ausschalten
-- Datenroaming speziell für die eSIM-Linie einschalten – das ist die häufigste Lösung
-- Telefon komplett neu starten
-- In den Netzwerkeinstellungen manuell einen Anbieter auswählen (T-Mobile, AT&T und Verizon nacheinander ausprobieren)
+### Schnelle Lösungen (jeweils unter einer Minute):
+- Schalten Sie den Flugmodus ein und wieder aus
+- Aktivieren Sie Datenroaming speziell für die eSIM-Leitung – dies ist die häufigste Lösung
+- Starten Sie Ihr Telefon vollständig neu
+- Gehen Sie zu den Netzwerkeinstellungen und wählen Sie manuell einen Betreiber aus (versuchen Sie nacheinander T-Mobile, AT&T und Verizon)
 
-**Wenn das nicht funktioniert:**
-- Überprüfen Sie Ihre APN-Einstellungen. Einige Anbieter erfordern einen bestimmten APN wie "internet" oder "airalovpn". Die Bestätigungs-E-Mail Ihres Anbieters sollte den richtigen Wert enthalten.
-- Kontaktieren Sie den Support des Anbieters, bevor Sie das eSIM-Profil löschen.
+### Wenn das nicht funktioniert:
+- Überprüfen Sie Ihre APN-Einstellungen. Einige Anbieter erfordern einen bestimmten APN wie "internet" oder "airalovpn". Ihre Bestätigungs-E-Mail des Anbieters sollte den richtigen Wert auflisten.
+- Kontaktieren Sie den Support des Anbieters, bevor Sie das eSIM-Profil löschen. QR-Codes sind einmalig – sobald das Profil entfernt ist, benötigen Sie einen neuen QR-Code zur Neuinstallation.
 
-QR-Codes sind einmalig – sobald das Profil entfernt ist, benötigen Sie einen neuen QR-Code für die Neuinstallation. Anbieter wie [**USA eSIM**](/united-states-esim/) bieten Live-Kundensupport mit echten Menschen anstelle von Chatbots, was die Fehlerbehebung erheblich beschleunigen kann, wenn Sie in einer Notlage sind.
+Anbieter wie [USA-eSIM-Tarife](/united-states-esim/) bieten Live-Kundensupport mit echten Menschen anstelle von Chatbots, was die Fehlerbehebung erheblich beschleunigen kann, wenn Sie in einer Notlage sind. Für eine vollständige Liste von Lösungen, die Aktivierungsfehler, langsame Geschwindigkeiten, Dual-SIM-Konflikte und die Kontaktinformationen des Supports jedes Anbieters abdecken, finden Sie in der [USA-eSIM-Fehlerbehebungsanleitung](/blog/usa-esim-troubleshooting/) eine schrittweise Behandlung jedes häufigen Problems.
 
-Eine vollständige Liste der Lösungen für Aktivierungsfehler, langsame Geschwindigkeiten, Dual-SIM-Konflikte und die Support-Kontaktdaten jedes Anbieters finden Sie im [USA eSIM-Fehlerbehebungsleitfaden](/blog/usa-esim-troubleshooting/), der Schritt für Schritt durch jedes häufige Problem führt.
+## Diagnose der Ursache von Konnektivitätsproblemen
 
-**Die Ursache von Konnektivitätsproblemen diagnostizieren**
 Wenn Ihre eSIM nicht funktioniert, liegt das Problem normalerweise in einer dieser Kategorien:
 
 | Symptom | Wahrscheinliche Ursache | Lösung |
-|:--------|:------------|:---------|
-| Überhaupt kein Signal auf der eSIM-Linie | Datenroaming auf der eSIM-Linie ist AUS | Schalten Sie das Datenroaming für die eSIM in den mobilen Netzwerkeinstellungen ein |
-| "Kein Dienst" oder "Nur SOS" wird angezeigt | Telefon verbindet sich nicht mit dem US-Netzwerk | Wählen Sie manuell einen Anbieter in den Netzwerkeinstellungen aus (versuchen Sie T-Mobile, AT&T, Verizon) |
-| Sehr langsame Datengeschwindigkeiten | Netzwerküberlastung oder schwaches Signal an Ihrem Standort | Wechseln Sie den Standort oder wechseln Sie manuell den Anbieter |
-| Bildnachrichten (MMS) können nicht gesendet werden | APN-Einstellungen sind falsch oder fehlen | Überprüfen Sie, ob die APN-Werte den Konfigurationsanforderungen Ihres Anbieters entsprechen |
-| Das eSIM-Profil ist aus den Einstellungen verschwunden | Profilbeschädigung oder versehentliches Löschen | Kontaktieren Sie den Support Ihres Anbieters für einen Ersatz-QR-Code |
-| Anrufe auf der eSIM funktionieren nicht | Datentarif ohne Sprachunterstützung | Nutzen Sie WhatsApp, Skype oder Google Voice für Anrufe; oder kaufen Sie einen Tarif mit Sprachunterstützung |
-| Die heimische SIM zeigt kein Signal | Datenroaming auf der heimischen SIM-Linie ausgeschaltet | Schalten Sie das Datenroaming für die heimische SIM ein, wenn Ihr Heimanbieter dies unterstützt |
-| Fehler "Mobilfunktarif nicht bereit" | eSIM-Profil-Aktivierung läuft noch | Schalten Sie den Flugmodus ein und aus oder starten Sie das Telefon neu, um die Verbindung zu erzwingen |
+| :------ | :---------------------- | :----- |
+| Überhaupt kein Signal auf der eSIM-Leitung | Datenroaming ist auf der eSIM-Leitung AUS | Aktivieren Sie Datenroaming für die eSIM in den mobilen Netzwerkeinstellungen |
+| "Kein Dienst" oder "Nur Notrufe" wird angezeigt | Telefon verbindet sich nicht mit dem US-Netz | Wählen Sie manuell einen Betreiber in den Netzwerkeinstellungen aus (versuchen Sie T-Mobile, AT&T, Verizon) |
+| Sehr langsame Datengeschwindigkeiten | Überlastung des Betreibers oder schwaches Signal an Ihrem Standort | Wechseln Sie zu einem anderen Standort oder wechseln Sie manuell den Betreiber |
+| Bildnachrichten (MMS) können nicht gesendet werden | APN-Einstellungen sind falsch oder fehlen | Überprüfen Sie, ob die APN-Werte mit den Konfigurationsanforderungen Ihres Anbieters übereinstimmen |
+| eSIM-Profil ist aus den Einstellungen verschwunden | Profilbeschädigung oder versehentliches Löschen | Kontaktieren Sie den Support Ihres Anbieters für einen Ersatz-QR-Code |
+| Anrufe auf der eSIM funktionieren nicht | Nur-Daten-Tarif ohne Sprachunterstützung | Verwenden Sie WhatsApp, Skype oder Google Voice für Anrufe; oder kaufen Sie einen sprachaktivierten Tarif |
+| Heim-SIM zeigt kein Signal | Datenroaming auf der Heim-SIM-Leitung deaktiviert | Aktivieren Sie Datenroaming für die Heim-SIM, wenn Ihr Heimatbetreiber dies unterstützt |
+| Fehler "Mobilfunktarif nicht bereit" | eSIM-Profilaktivierung steht aus | Schalten Sie den Flugmodus ein/aus oder starten Sie das Telefon neu, um die Neuverbindung zu erzwingen |
 
-**Vergleich der Support-Qualität der Anbieter**
+## Vergleich der Supportqualität der Anbieter
+
 Wenn Sie Hilfe benötigen, variiert die Qualität des Kundensupports erheblich zwischen den Anbietern:
 
-| Anbieter | Support-Kanäle | Typische Reaktionszeit | Nutzerbewertung |
-|:---------|:----------------|:--------------------:|:------------------:|
-| Airalo | E-Mail, Chatbot | 2-12 Stunden | 3.5/5 |
+| Anbieter | Support-Kanäle | Typische Antwortzeit | Bewertung der Nutzerqualität |
+| :------- | :------------- | :------------------: | :--------------------------: |
+| Airalo | E-Mail, Chatbot | 2-12 Stunden | 3,5/5 |
 | Ubigi | E-Mail, Chatbot | 1-6 Stunden | 4/5 |
 | Tello | E-Mail, Telefon | 1-4 Stunden | 4/5 |
 | Nomad | E-Mail, Live-Chat | 1-2 Stunden | 4/5 |
-| Holafly | E-Mail, WhatsApp | 2-8 Stunden | 3.5/5 |
+| Holafly | E-Mail, WhatsApp | 2-8 Stunden | 3,5/5 |
 | Saily | Nur E-Mail | 4-24 Stunden | 3/5 |
-| Google Fi | E-Mail, Telefon, Chat | <30 Minuten | 4.5/5 |
-| **USA eSIM** | Live-Chat, E-Mail | <15 Minuten | 4.6/5 |
+| Google Fi | E-Mail, Telefon, Chat | <30 Minuten | 4,5/5 |
+| **USA eSIM** | Live-Chat, E-Mail | <15 Minuten | 4,6/5 |
 
-*Bewertungen basierend auf Trustpilot-Bewertungen und Nutzerberichten aus Reddits r/eSIM-Community. Reaktionszeiten sind Schätzungen und können je nach Tageszeit und Saison variieren.*
+## Notfall-Backup-Optionen, falls Ihre eSIM vollständig ausfällt
 
-Ein wichtiger Punkt: Wenn Sie über mehrere Zeitzonen reisen, ist die Verfügbarkeit des Supports entscheidend. Anbieter mit 24/7-Live-Chat (Nomad, **USA eSIM**) sind bessere Optionen für Reisende, die Zeitzonen überqueren oder spätabends ankommen.
-
-**Notfall-Backup-Optionen, wenn Ihre eSIM vollständig ausfällt**
 Wenn Ihre eSIM nicht mehr funktioniert und Sie dringend Internetzugang benötigen:
 
-1. **Kostenloses öffentliches WLAN**: Die meisten US-Flughäfen, Hotels, Coffeeshops (Starbucks, McDonald's), öffentlichen Bibliotheken und Einkaufszentren bieten kostenloses WLAN. Verbinden Sie sich und kontaktieren Sie das Support-Team Ihres eSIM-Anbieters.
+1. **Kostenloses öffentliches WLAN**: Die meisten US-Flughäfen, Hotels, Coffeeshops (Starbucks, McDonald's), öffentlichen Bibliotheken und Einkaufszentren bieten kostenloses WLAN an. Verbinden Sie sich und kontaktieren Sie das Support-Team Ihres eSIM-Anbieters.
 
-2. **Kaufen Sie eine Prepaid-SIM am Flughafen**: Flughafen-Kioske und Elektronikgeschäfte verkaufen T-Mobile-, AT&T- und Verizon-Prepaid-SIMs. Rechnen Sie mit $25-50 für ein Starterkit mit Daten. Dies ist die teuerste Option, bietet aber sofortige Konnektivität.
+2. **Kaufen Sie eine Prepaid-SIM am Flughafen**: Convenience-Stores und Elektronikgeschäfte am Flughafen verkaufen T-Mobile-, AT&T- und Verizon-Prepaid-SIMs. Rechnen Sie mit $25-50 für ein Starter-Kit mit Daten. Dies ist die teuerste Option, bietet aber sofortige Konnektivität.
 
-3. **Roami kostenlose Testversion**: Wenn Sie sie noch nicht genutzt haben, bietet [Roamis kostenlose eSIM](/free-esim/) eine kostenlose Backup-Option, die in US-Netzen funktioniert. Sie ist ein nützlicher Notfall-Backup, während Sie Probleme mit Ihrer primären eSIM lösen.
+3. **Roami-Kostenlose-Testversion**: Wenn Sie sie noch nicht genutzt haben, bietet der [kostenlose eSIM-Tarif](/free-esim/) eine kostenlose Backup-Option, die in US-Netzen funktioniert. Es ist ein nützlicher Notfall-Fallback, während Sie Probleme mit Ihrer primären eSIM lösen.
 
-4. **Temporäre Pocket-WiFi-Miete**: An Flughafen-Kiosken für $15-25/Tag erhältlich. Nützlich als letzte Option, wenn Ihr Telefon Hardwareprobleme mit eSIM hat.
-5. **Fragen Sie an der Hotelrezeption**: Die meisten US-Hotelrezeptionen können in Notfällen einen temporären WLAN-Code bereitstellen oder eine lokale SIM-Karte ausleihen.
+4. **Temporäre Pocket WiFi-Miete**: An Kiosken am Flughafen für $15-25/Tag erhältlich. Nützlich als letzte Option, wenn Ihr Telefon Hardwareprobleme mit eSIM hat.
 
-**Tipps zur Geschwindigkeitsoptimierung**
+5. **Fragen Sie an der Rezeption Ihres Hotels**: Die meisten Hotelrezeptionen in den USA können ein temporäres WLAN-Passwort bereitstellen oder im Notfall eine lokale SIM-Karte ausleihen.
+
+## Tipps zur Geschwindigkeitsoptimierung
+
 Wenn Ihre eSIM verbunden ist, aber langsam erscheint:
 
-1. **Wechseln Sie manuell den Anbieter**: Gehen Sie zu den Netzwerkeinstellungen und probieren Sie nacheinander jeden verfügbaren Anbieter aus. Selbst bei einer Einzelanbieter-eSIM können verschiedene Sendemasten bessere Geschwindigkeiten bieten.
+1. **Wechseln Sie manuell den Betreiber**: Gehen Sie zu den Netzwerkeinstellungen und probieren Sie nacheinander jeden verfügbaren Betreiber aus. Selbst bei einer Einzelbetreiber-eSIM können verschiedene Sendemasten bessere Geschwindigkeiten bieten.
 
-2. **Wechseln Sie den Standort**: Baumaterialien (Beton, Stahl), unterirdische Positionen (U-Bahnen, Keller) und dichte Stadtgebiete beeinflussen die Signalstärke. Ein Umzug von 50 Metern kann einen erheblichen Unterschied machen.
+2. **Wechseln Sie zu einem anderen Standort**: Baumaterialien (Beton, Stahl), unterirdische Positionen (U-Bahnen, Keller) und dichte Stadtgebiete beeinflussen alle die Signalstärke. Eine Bewegung von 50 Metern kann einen erheblichen Unterschied machen.
 
-3. **Schalten Sie 5G aus**: Auf einigen Telefonen bietet die erzwungene Nutzung von 4G LTE eine stabilere Verbindung als 5G, insbesondere in Gebieten mit teilweiser oder schwacher 5G-Abdeckung. Gehen Sie zu **Einstellungen → Mobilfunk → Sprache & Daten** und wählen Sie **LTE**.
+3. **Schalten Sie 5G aus**: Auf einigen Telefonen bietet die erzwungene Nutzung von 4G LTE eine stabilere Verbindung als 5G, insbesondere in Gebieten, in denen die 5G-Abdeckung teilweise oder schwach ist. Gehen Sie zu **Einstellungen → Mobiles Netz → Sprache & Daten** und wählen Sie **LTE**.
 
-4. **Netzwerkeinstellungen zurücksetzen**: Auf dem iPhone gehen Sie zu **Einstellungen → Allgemein → iPhone übertragen/zurücksetzen → Zurücksetzen → Netzwerkeinstellungen zurücksetzen**. Auf Samsung zu **Einstellungen → Allgemeine Verwaltung → Zurücksetzen → Netzwerkeinstellungen zurücksetzen**. Dies löscht zwischengespeicherte Netzwerkkonfigurationen, ohne eSIM-Profile zu löschen.
+4. **Setzen Sie die Netzwerkeinstellungen zurück**: Auf dem iPhone gehen Sie zu **Einstellungen → Allgemein → iPhone übertragen/zurücksetzen → Zurücksetzen → Netzwerkeinstellungen zurücksetzen**. Auf Samsung gehen Sie zu **Einstellungen → Allgemeine Verwaltung → Zurücksetzen → Netzwerkeinstellungen zurücksetzen**. Dies löscht zwischengespeicherte Netzwerkkonfigurationen, ohne eSIM-Profile zu löschen.
 
-5. **Überprüfen Sie auf Datenlimit-Warnungen**: Einige unbegrenzte Tarife drosseln die Geschwindigkeit nach einer bestimmten Nutzungsschwelle. Überprüfen Sie die Fair-Use-Richtlinie Ihres Tarifs und Ihren aktuellen Verbrauch in der App des Anbieters.
+5. **Überprüfen Sie auf Datenobergrenzen-Warnungen**: Einige unbegrenzte Tarife drosseln die Geschwindigkeiten nach einem bestimmten Verbrauchsschwellenwert. Überprüfen Sie die Fair-Use-Policy Ihres Tarifs und Ihren aktuellen Verbrauch in der App des Anbieters.
 
-6. **Starten Sie Ihr Telefon vollständig neu**: Ein vollständiger Neustart löscht den temporären Netzwerk-Cache und erzwingt eine neue Verbindung zum nächsten Sendemasten.
+6. **Starten Sie Ihr Telefon vollständig neu**: Ein vollständiger Neustart löscht den temporären Netzwerk-Cache und erzwingt eine frische Verbindung zum nächsten Sendemasten.
 
-**Wann Sie eine physische SIM als Backup kaufen sollten**
-Das Mitführen einer physischen SIM als Backup ist für die meisten Reisenden selten notwendig, aber in bestimmten Situationen sinnvoll:
+## Wann Sie eine physische SIM als Backup kaufen sollten
 
-- **Reisen in extrem abgelegene Gebiete** (Landesinneres Alaskas, Appalachian Trail, Death Valley, Montana-Hinterland), wo selbst Multi-Netzwerk-eSIMs Probleme haben können
-- **Besuch großer Veranstaltungen** (Burning Man, Coachella, Super Bowl, politische Konventionen), bei denen Netzwerküberlastung alle Anbieter betrifft – eine zweite Netzwerkoption bietet Redundanz
+Das Mitführen einer physischen SIM als Backup ist für die meisten Reisenden selten notwendig, macht aber in bestimmten Situationen Sinn:
 
-- **Längere Aufenthalte über 60 Tage**, bei denen eine lokale Prepaid-SIM deutlich günstiger ist als eSIM-Aufladungen
+- **Reisen in extrem abgelegene Gebiete** (Landesinneres von Alaska, Appalachian Trail, Death Valley, Montana Backcountry), wo selbst Multi-Netz-eSIMs Schwierigkeiten haben können
+- **Besuch großer Veranstaltungen** (Burning Man, Coachella, Super Bowl, politische Parteitage), bei denen Netzüberlastungen alle Betreiber betreffen – eine zweite Netzoption bietet Redundanz
+- **Längere Aufenthalte über 60 Tage**, wo eine lokale Prepaid-SIM deutlich günstiger ist als eSIM-Nachbuchungen
 - **Hardware-Ausfall der eSIM des Telefons** – selten, aber möglich, insbesondere bei älteren Telefonen oder nach Wasserschäden
 
-Für 95 % der Reisenden, die US-Städte und beliebte Touristenziele besuchen, ist eine gut gewählte eSIM mit Multi-Netzwerk-Unterstützung ohne Backup ausreichend.
+Für 95 % der Reisenden, die US-Städte und beliebte Touristenziele besuchen, ist eine gut gewählte eSIM mit Multi-Netz-Unterstützung ohne Backup ausreichend.
+
+## Welche USA-eSIM-Anbieter bieten eine Telefonnummer?
+
+Die meisten Reise-eSIMs sind reine Daten-eSIMs. Sie erhalten Internet, aber keine US-Telefonnummer für Anrufe und SMS. Für die meisten Reisenden ist das in Ordnung – WhatsApp, Google Maps und Uber funktionieren alle über Daten. Dieses Verständnis ist wichtig für **USA-eSIM für Ausländer**, die möglicherweise Sprachunterstützung erwarten.
+
+Aber wenn Sie eine US-Nummer benötigen, um Hotels anzurufen, SMS-Verifizierungscodes von Airbnb oder Delta zu empfangen oder eine lokale Nummer an Kunden zu geben, benötigen Sie einen Anbieter, der eine enthält. Die Optionen sind: Tello, Google Fi, T-Mobile Prepaid, AT&T Prepaid und Verizon Prepaid.
+
+Für **USA-eSIM für Ausländer** ist Tello die zugänglichste Option, da es keine US-Adresse erfordert und internationale Kreditkarten akzeptiert. Google Fi funktioniert auch gut für Reisende aus den meisten Ländern. Prepaid-Tarife von Betreibern (T-Mobile, AT&T, Verizon) erfordern eine Ausweisprüfung und benötigen möglicherweise eine US-Rechnungsadresse – eine Hoteladresse funktioniert normalerweise, aber es erhöht die Komplexität.
+
+Der [USA-eSIM mit Telefonnummer](/blog/usa-esim-with-phone-number/) vergleicht, welcher Anbieter auf jeder Datenstufe das beste Preis-Leistungs-Verhältnis bietet und erklärt, wann eine US-Nummer tatsächlich notwendig ist und wann Nur-Daten ausreichend ist.
+
+## Tello: Bestes Preis-Leistungs-Verhältnis mit einer US-Telefonnummer
+
+Tello ist unter reiseorientierten Anbietern einzigartig: Es bietet echte US-Telefonnummern mit Sprach- und SMS-Funktionen, nicht nur Daten. Die Tarife beginnen bei $5 für 1 GB mit unbegrenzten SMS und steigen bis zu 10 GB für $15 und unbegrenzt für $35. Es läuft im T-Mobile-Netz, daher ist die Abdeckung in Städten hervorragend, aber in ländlichen Gebieten begrenzt. Tello akzeptiert internationale Kreditkarten und erfordert keine US-Adresse für die Anmeldung, was es zur zugänglichsten Telefonnummer-eSIM für Ausländer macht.
 
 ---
 
-## Welche USA eSIM-Anbieter bieten eine Telefonnummer? – USA eSIM für Ausländer
-
-Die meisten Reise-eSIMs sind reine Daten-eSIMs. Sie erhalten Internet, aber keine US-Telefonnummer für Anrufe und SMS. Für die meisten Reisenden ist das in Ordnung – WhatsApp, Google Maps und Uber funktionieren alle mit Daten. Das Verständnis dessen ist wichtig für **USA eSIM für Ausländer**, die möglicherweise Sprachunterstützung erwarten.
-
-Aber wenn Sie eine US-Nummer benötigen, um Hotels anzurufen, SMS-Bestätigungscodes von Airbnb oder Delta zu empfangen oder Kunden eine lokale Nummer zu geben, benötigen Sie einen Anbieter, der eine solche beinhaltet. Die Optionen sind: Tello, Google Fi, T-Mobile Prepaid, AT&T Prepaid und Verizon Prepaid.
-
-Für **USA eSIM für Ausländer** ist Tello die zugänglichste Option, da sie keine US-Adresse erfordert und internationale Kreditkarten akzeptiert. Google Fi funktioniert auch gut für Reisende aus den meisten Ländern.
-
-Prepaid-Tarife der Anbieter (T-Mobile, AT&T, Verizon) erfordern eine ID-Überprüfung und möglicherweise eine US-Rechnungsadresse – eine Hoteladresse funktioniert normalerweise, aber es erhöht die Komplexität.
-
-Der [USA eSIM-mit-Telefonnummer-Leitfaden](/blog/usa-esim-with-phone-number/) vergleicht, welcher Anbieter auf jeder Datenstufe das beste Preis-Leistungs-Verhältnis bietet und erklärt, wann eine US-Nummer tatsächlich notwendig ist im Vergleich zu wann reine Daten ausreichen.
-
-**Tello: Bestes Preis-Leistungs-Verhältnis mit US-Telefonnummer**
-Tello ist unter den reiseorientierten Anbietern einzigartig: Es bietet echte US-Telefonnummern mit Sprach- und SMS-Funktionen, nicht nur Daten. Die Tarife beginnen bei $5 für 1 GB mit unbegrenzten Textnachrichten, steigern sich auf
-
-*Preise und Verfügbarkeit Stand aktuell. Überprüfen Sie immer die aktuellen Tarife auf den Anbieter-Websites.*
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "USA eSIM: Vollständiger Leitfaden für Reisende",
-  "description": "USA eSIM im Überblick: Funktionsweise, Anbietervergleich und Preise für Ihre Reise. Roami mit automatischem Netzbetreiberwechsel.",
-  "author": { "@type": "Organization", "name": "Roami" },
-  "datePublished": "2026-07-27",
-  "dateModified": "2026-07-27",
-  "image": "/img/blog/usa/usa-esim-complete-guide.jpg",
-  "publisher": { "@type": "Organization", "name": "Roami", "logo": { "@type": "ImageObject", "url": "/img/logo.png" } }
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "/" },
-    { "@type": "ListItem", "position": 2, "name": "Blog", "item": "/blog/" },
-    { "@type": "ListItem", "position": 3, "name": "USA eSIM Komplettleitfaden", "item": "/blog/usa-esim-complete-guide/" }
-  ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    { "@type": "Question", "name": "Was ist eine eSIM und wie funktioniert sie für USA-Reisen?", "acceptedAnswer": { "@type": "Answer", "text": "Eine eSIM Karte USA funktioniert als digitale SIM-Karte, die in die Hardware Ihres Telefons eingebaut ist, und ersetzt die herkömmliche Plastik-SIM vollständig. Sie kaufen vor Ihrer Abreise online einen Tarif, scannen einen QR-Code, und Ihr Telefon verbindet sich automatisch mit dem US-Mobilfunknetz." } },
-    { "@type": "Question", "name": "Welche USA eSIM sollten Sie für Ihre Reise wählen?", "acceptedAnswer": { "@type": "Answer", "text": "Die Wahl hängt von Ihrem Reistyp ab: Für Städtereisen ist Ubigi am günstigsten (ab 4 $ für 1 GB). Für Roadtrips durch Nationalparks ist Nomad (AT&T+Verizon) die sicherste Wahl. Wenn Sie eine US-Telefonnummer benötigen, wählen Sie Tello." } },
-    { "@type": "Question", "name": "Wie viel Daten brauche ich für eine USA-Reise?", "acceptedAnswer": { "@type": "Answer", "text": "Ein typischer Tag mit mäßiger Telefonnutzung verbraucht etwa 320 MB: Google Maps (50 MB), Instagram/TikTok (150 MB), WhatsApp (30 MB), Internetrecherche (70 MB). Für eine 7-tägige Reise sind 3-5 GB ausreichend." } },
-    { "@type": "Question", "name": "eSIM vs. physische SIM vs. Pocket WiFi: Was ist am besten?", "acceptedAnswer": { "@type": "Answer", "text": "eSIM ist für die meisten Reisenden am besten – günstiger als Pocket WiFi, bequemer als physische SIMs und hält Ihre Heimatnummer aktiv. Physische SIM ist sinnvoll bei Aufenthalten von 30+ Tagen. Pocket WiFi funktioniert am besten für Gruppen von 3+ Personen." } },
-    { "@type": "Question", "name": "Welche USA eSIM-Anbieter bieten eine Telefonnummer?", "acceptedAnswer": { "@type": "Answer", "text": "Die meisten Reise-eSIMs sind reine Daten-eSIMs. Für eine US-Nummer benötigen Sie: Tello, Google Fi, T-Mobile Prepaid, AT&T Prepaid oder Verizon Prepaid. Tello ist die zugänglichste Option für Ausländer." } }
-  ]
-}
-</script>

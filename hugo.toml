@@ -662,3 +662,58 @@ footer_slogan = "전문 글로벌 eSIM 서비스 제공업체 | 글로벌 eSIM �
 modal_title = "알림"
 modal_cancel = "취소"
 modal_confirm = "지금 이동"
+
+# 印尼语配置
+[languages.id]
+languageName = "Bahasa Indonesia"
+contentDir = "content/id"  # 告诉 Hugo 印尼语内容在这个文件夹
+weight = 11
+
+[languages.id.params]
+    # 导航栏文案
+    nav_links = [
+      { name = "Beranda", url = "/" },
+      { name = "Beli eSIM", url = "/plans/" },
+      { name = "Kompatibilitas eSIM", url = "/compatibility/" },
+      { name = "eSIM Gratis", url = "/free-esim/" },
+      { name = "Aplikasi Roami", url = "/app/" },
+      { name = "Tanya Jawab", url = "/faq/" }
+    ]
+
+    # 页脚文案
+    footer_desc = "Menyediakan layanan eSIM premium di 200+ negara dan wilayah, membuat Anda tetap terhubung di mana pun Anda bepergian."
+
+    footer_col1_title = "Destinasi Populer"
+    footer_col1_links = [
+      { name = "eSIM Asia", url = "/asia-esim/" },
+      { name = "eSIM Eropa", url = "/europe-esim/" },
+      { name = "eSIM Afrika", url = "/africa-esim/" },
+      { name = "eSIM Amerika Selatan", url = "/south-america-esim/" },
+      { name = "eSIM Amerika Utara", url = "/north-america-esim/" },
+      { name = "eSIM Timur Tengah", url = "/middle-east-esim/" }
+    ]
+
+    footer_col2_title = "Dukungan Pelanggan"
+    footer_col2_links = [
+      { name = "Tanya Jawab", url = "/faq/" },
+      { name = "Kompatibilitas eSIM", url = "/compatibility/" },
+      { name = "Unduh Roami", url = "/app/" }
+    ]
+
+    footer_col3_title = "Tentang Perusahaan"
+    footer_col3_links = [
+      { name = "Tentang Kami", url = "/about-us/" },
+      { name = "eSIM Gratis", url = "/free-esim/" },
+      { name = "Kebijakan Pengembalian", url = "/refund/" },
+      { name = "Hubungi Kami", url = "/contact/" },
+      { name = "Kebijakan Privasi", url = "/privacy/" },
+      { name = "Syarat & Ketentuan", url = "/terms/" }
+    ]
+
+    footer_copyright = "© 2026 Roami. Semua hak dilindungi."
+    footer_slogan = "Penyedia Layanan eSIM Global Profesional | Ahli Roaming Data eSIM Global"
+
+    # 弹窗文案
+    modal_title = "Pemberitahuan"
+    modal_cancel = "Batal"
+    modal_confirm = "Buka sekarang"
