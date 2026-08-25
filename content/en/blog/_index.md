@@ -1,8 +1,8 @@
 ---
 title: "Roami Blog – eSIM Travel Guides & Tips"
 description: "Latest eSIM technology, travel connectivity, and destination eSIM guides."
-date: 2026-07-23T00:00:00Z
-lastmod: 2026-07-23T00:00:00Z
+date: 2026-08-24T00:00:00Z
+lastmod: 2026-08-24T00:00:00Z
 hero:
   badge: "eSIM Blog"
   title: "eSIM knowledge for <span class=\"text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400\">global travellers</span>"

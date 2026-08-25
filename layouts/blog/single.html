@@ -458,15 +458,20 @@
                 gap: 1.5rem;
             }
             .sidebar {
-                position: static;
+                position: static !important;
                 order: 2;
             }
         }
 
+        /* ===== 侧边栏固定行为（仅当文章完全填满屏幕时固定） ===== */
         .sidebar {
+            position: relative;
+            align-self: start;
+        }
+        .sidebar.is-sticky {
             position: sticky;
             top: 2rem;
-            align-self: start;
+            /* 不加任何高度和滚动限制，让内容自然高度显示 */
         }
 
         .category-cloud a {
@@ -533,10 +538,12 @@
                         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
                         <span>{{ .Date.Format "2. January 2006" }}</span>
                     </div>
-                    <div class="flex items-center gap-1">
-                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                        <span>{{ .ReadingTime }} {{ i18n "minutes_read" }}</span>
-                    </div>
+                   <div class="flex items-center gap-1">
+    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+    </svg>
+    <span>{{ or .Params.readingTime .ReadingTime }} {{ i18n "minutes_read" }}</span>
+</div>
                 </div>
             </header>
 
@@ -597,8 +604,8 @@
             </div>
         </article>
 
-        <!-- ====== 右侧边栏（Sticky） ====== -->
-        <aside class="sidebar">
+        <!-- ====== 右侧边栏 ====== -->
+        <aside class="sidebar" id="sidebar">
             <!-- 热门 eSIM 产品模块 -->
             {{ $products := .Params.products }}
             {{ $productsTitle := .Params.productsTitle }}
@@ -646,7 +653,6 @@
             {{ end }}
 
             <!-- 最近更新 -->
-          <!-- 最近更新 -->
 {{ $recentPosts := .Params.recentPosts }}
 {{ $recentPostsTitle := .Params.recentPostsTitle }}
 {{ if and $recentPosts $recentPostsTitle }}
@@ -709,7 +715,29 @@
 
 <!-- ========== JavaScript ========== -->
 <script>
-    // 阅读进度条
+    // ===== 侧边栏固定控制：仅当文章内容完全覆盖视口时固定 =====
+    (function() {
+        const sidebar = document.getElementById('sidebar');
+        const article = document.querySelector('article');
+        if (sidebar && article) {
+            let lastSticky = false;
+            function updateSidebarSticky() {
+                const rect = article.getBoundingClientRect();
+                // 固定条件：文章顶部在视口顶部之上（或刚好），且文章底部在视口底部之下
+                // 即：文章内容完全填满了整个可视区域
+                const shouldSticky = rect.top <= 0 && rect.bottom >= window.innerHeight;
+                if (shouldSticky !== lastSticky) {
+                    lastSticky = shouldSticky;
+                    sidebar.classList.toggle('is-sticky', shouldSticky);
+                }
+            }
+            window.addEventListener('scroll', updateSidebarSticky, { passive: true });
+            // 初始调用一次，确保状态正确
+            updateSidebarSticky();
+        }
+    })();
+
+    // ===== 阅读进度条 =====
     const progressBar = document.getElementById('readingProgressBar');
     window.addEventListener('scroll', () => {
         const winScroll = document.documentElement.scrollTop;
@@ -718,7 +746,7 @@
         progressBar.style.width = scrolled + '%';
     });
 
-    // 回到顶部
+    // ===== 回到顶部 =====
     const backToTopBtn = document.getElementById('backToTopBtn');
     window.addEventListener('scroll', () => {
         if (window.scrollY > 500) {
@@ -731,7 +759,7 @@
     });
     backToTopBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
 
-    // 平滑滚动到目录锚点
+    // ===== 平滑滚动到目录锚点 =====
     document.querySelectorAll('.toc-content a').forEach(anchor => {
         anchor.addEventListener('click', function(e) {
             e.preventDefault();

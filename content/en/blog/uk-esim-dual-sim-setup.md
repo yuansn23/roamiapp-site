@@ -1,11 +1,11 @@
 ---
-title: "UK eSIM Dual SIM: Keep Your Home Number"
+title: "UK eSIM Setup: Keep Home Number Active"
 description: "Dual SIM with UK eSIM: keep your home number for 2FA & calls while using UK data. Roami auto-switches networks. Get your plan now."
 keywords: ["UK eSIM dual SIM setup","dual SIM UK travel","UK eSIM keep home number","iPhone dual SIM UK eSIM","Android dual SIM UK eSIM","UK eSIM data roaming","dual SIM 2FA travel"]
-date: 2026-08-18T00:00:00Z
-lastmod: 2026-08-21T00:00:00Z
+date: 2026-08-24T00:00:00Z
+lastmod: 2026-08-24T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
+authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/uk/uk-esim-dual-sim-setup.jpg"
 categories: ["UK", "eSIM", "Travel"]
 tags: ["UK eSIM", "Travel eSIM"]
@@ -72,6 +72,8 @@ recentPosts:
     date: "2026-05-20"
 ---
 ## Why Dual SIM Is the Best Way to Travel with a UK eSIM
+
+> **Key takeaways:** The ideal dual SIM setup is to install your UK eSIM, set it as your data line, keep your home SIM for calls and SMS, and turn off data roaming on your home SIM — a five-minute job that costs nothing beyond the plan itself. The most important setting is turning data roaming ON for the UK eSIM while keeping it OFF on your home SIM, otherwise you risk burning through your home roaming allowance. A data eSIM like Roami that auto-switches across EE, Vodafone, O2, and Three keeps you on the strongest available network, since your data performance depends entirely on the eSIM. Expect roughly 10-15% extra battery drain from running two SIMs at once.
 
 **How to set up dual SIM with home SIM and UK eSIM** is the most common question from travellers who want the best of both worlds. Here's the straightforward answer: install your UK eSIM, set it as your data line, keep your home SIM for calls and SMS, and turn off data roaming on your home SIM. That's it. Five minutes of settings and you're done.
 
@@ -429,7 +431,7 @@ If SMS codes aren't arriving on either line, check:
 3. Your phone has good signal (not just data signal — SMS uses the voice network)
 4. Your provider supports SMS roaming (for home SIM) or SMS from shortcodes (for UK eSIM)
 
-SMS troubleshooting was covered above in more detail in the [UK eSIM troubleshooting guide](/blog/uk-esim-troubleshooting/), including what to do if your UK eSIM can't receive SMS verification codes.
+SMS troubleshooting was covered above in more detail in the [UK eSIM troubleshooting](/blog/uk-esim-troubleshooting/), including what to do if your UK eSIM can't receive SMS verification codes.
 
 ## Cellular Data Switching Explained
 
@@ -522,7 +524,7 @@ If your UK eSIM has signal but no data flowing:
 5. Switch to 4G only and test
 6. Restart the phone
 
-For a complete walkthrough of data issues, see the [UK eSIM troubleshooting guide](/blog/uk-esim-troubleshooting/).
+For a complete walkthrough of data issues, see the [UK eSIM troubleshooting walkthrough](/blog/uk-esim-troubleshooting/).
 
 ## Advanced Dual SIM Configurations
 
@@ -792,7 +794,7 @@ Install it tonight. Label the lines clearly. Turn off data roaming on your home 
 
 ---
 
-For a complete UK eSIM overview, see the [UK eSIM complete guide](/blog/uk-esim-complete-guide/). For pricing across all providers, see the [UK eSIM price guide](/blog/uk-esim-price-guide/). For telecom standards, the [GSMA](https://www.gsma.com) defines eSIM specifications for international roaming. Check mobile network operator details at [Wikipedia](https://en.wikipedia.org/wiki/Mobile_network_operator). For UK telecom market data, visit [Ofcom](https://www.ofcom.org.uk).
+For a complete UK eSIM overview, see the [UK eSIM guide](/blog/uk-esim-complete-guide/). For pricing across all providers, see the [UK eSIM cost](/blog/uk-esim-price-guide/). For telecom standards, the [GSMA](https://www.gsma.com) defines eSIM specifications for international roaming. Check mobile network operator details at [Wikipedia](https://en.wikipedia.org/wiki/Mobile_network_operator). For UK telecom market data, visit [Ofcom](https://www.ofcom.org.uk).
 
 ## Frequently Asked Questions
 

@@ -1,11 +1,11 @@
 ---
-title: "How to Buy and Install a Japan eSIM: Step-by-Step Tutorial"
-description: "How to buy and install a Japan eSIM in 2026. Step-by-step for iPhone, Samsung and Pixel, plus where to buy, install before departure and activate on arrival."
+title: "How to Buy and Install a Japan eSIM: Step-by-Step"
+description: "How to buy and install a Japan eSIM. Steps for iPhone, Samsung and Pixel, where to buy, install before departure and activate."
 keywords: ["buy esim japan", "how to buy esim in japan", "where to buy esim in japan", "how to get esim in japan", "how to install esim japan", "how to use esim in japan", "esim japan setup", "japan esim installation", "how does esim work in japan", "buy esim for japan", "where to get esim for japan", "japan esim activation", "install esim before travel japan"]
-date: 2026-08-07T10:00:00Z
-lastmod: 2026-08-21T00:00:00Z
+date: 2026-08-24T00:00:00Z
+lastmod: 2026-08-24T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
+authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/japan-esim-installation-guide.jpg"
 categories: ["Japan", "eSIM", "Travel", "Tutorial"]
 tags: ["Japan eSIM", "Installation", "Tutorial", "Travel"]
@@ -60,12 +60,13 @@ recentPosts:
 ---
 
 
-# How to Buy and Install a Japan eSIM: Complete Step-by-Step Tutorial 2026
 
 **Last Updated:** August 8, 2026 | Reading time: 16 minutes
 
 
 ## Introduction: Your 5-Minute Path to Japan Connectivity
+
+> **Key takeaways:** Buying and installing a Japan eSIM takes under five minutes, and you should complete it before you leave home. Purchase your plan 1–3 days before departure, install it on stable WiFi, and keep data roaming OFF until you land in Japan. First confirm your phone supports eSIM by dialing *#06# and that it's carrier-unlocked; on arrival, turn on the eSIM, enable data roaming, set it as your data line, and turn off your home SIM's data roaming.
 
 Picture this: you've just landed at Narita Airport after a 12-hour flight. You're tired, you need to find your hotel, and you want to message your family that you've arrived safely. The last thing you want to do is hunt for a SIM card vending machine, stand in line at an airport counter, or figure out how to set up pocket WiFi.
 

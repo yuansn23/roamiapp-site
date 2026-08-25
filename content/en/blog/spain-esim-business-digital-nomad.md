@@ -1,11 +1,11 @@
 ---
-title: "Spain eSIM for Business & Digital Nomads 2026"
-description: "Spain eSIM for business travel & digital nomads 2026. Reliable data for video calls, multi-device setups, AVE trains. Auto network switching across Movistar, Orange, Vodafone & Yoigo"
+title: "Spain eSIM for Business and Digital Nomad Travel"
+description: "Spain eSIM for business travel and digital nomads. Reliable data for video calls and AVE trains with auto network switching."
 keywords: ["Spain eSIM business", "Spain eSIM digital nomad", "Spain eSIM remote work", "Spain eSIM video calls", "Spain eSIM for work", "Spain eSIM for business travel", "Spain eSIM for remote work", "Spain eSIM with hotspot", "Spain eSIM for AVE trains"]
-date: 2026-08-19T00:00:00Z
-lastmod: 2026-08-19T00:00:00Z
+date: 2026-08-24T00:00:00Z
+lastmod: 2026-08-24T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami is a licensed MVNO with direct carrier agreements in Spain, serving over 200,000 travelers annually. Our multi‑network eSIM automatically switches between Movistar, Orange, Vodafone, and Yoigo for the best coverage."
+authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/spain/spain-esim-business-digital-nomad.jpg"
 categories: ["Spain", "eSIM", "Travel", "Business"]
 tags: ["Spain eSIM", "Travel eSIM", "Business Travel", "Digital Nomad"]

@@ -1,11 +1,11 @@
 ---
-title: "Japan eSIM Ultimate Guide 2026: Everything You Need to Know"
-description: "Complete Japan eSIM guide 2026. Compare the best eSIM for Japan travel, plans from $4, 5G coverage, iPhone/Android compatibility, and pocket WiFi vs eSIM."
+title: "Japan eSIM Ultimate Guide: Everything You Need to Know"
+description: "Complete Japan eSIM guide. Compare the best eSIM for Japan travel, plans from $4, 5G coverage and iPhone/Android compatibility."
 keywords: ["japan esim", "esim japan", "japanese esim", "japan esim card", "japan esim plans", "japan esim price", "japan esim cost", "japan data esim", "esim japan prepaid", "japan prepaid esim", "5g esim japan", "japan esim unlimited data", "cheapest esim japan", "japan esim deals", "esim japan best"]
-date: 2026-08-07T10:00:00Z
-lastmod: 2026-08-21T00:00:00Z
+date: 2026-08-24T00:00:00Z
+lastmod: 2026-08-24T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
+authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/japan-esim-ultimate-guide.jpg"
 categories: ["Japan", "eSIM", "Travel"]
 tags: ["Japan eSIM", "Travel eSIM", "Japan Travel"]

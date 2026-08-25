@@ -1,15 +1,14 @@
 ﻿---
 title: "Bypass China Firewall: eSIM VPN Guide for Travel"
-description: "The Great Firewall blocks Google, WhatsApp, and Instagram. Roami explains how eSIMs with Hong Kong routing or built-in VPNs bypass these restrictions."
+description: "The Great Firewall blocks Google, WhatsApp, and Instagram. eSIMs with Hong Kong routing or built-in VPNs bypass restrictions."
 keywords: ["China firewall bypass eSIM", "Great Firewall eSIM", "China VPN eSIM", "Hong Kong routing eSIM", "China internet access eSIM"]
-date: 2026-08-04T00:00:00Z
-lastmod: 2026-08-04T00:00:00Z
+date: 2026-08-24T00:00:00Z
+lastmod: 2026-08-24T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
+authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/china/china-esim-vpn-firewall-guide.jpg"
 categories: ["China", "eSIM", "Travel"]
 tags: ["China eSIM", "Travel eSIM"]
-readingTime: 20
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
@@ -56,13 +55,15 @@ recentPosts:
     permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
     date: "2026-05-20"
 ---
-The Great Firewall of China blocks Google, WhatsApp, Instagram, YouTube, Facebook, Twitter, and hundreds of other services on Chinese networks. An eSIM with international routing (Hong Kong or Singapore) bypasses these blocks automatically — no VPN configuration needed. A **China firewall bypass eSIM** routes data through Hong Kong servers, avoiding Chinese inspection entirely. For unrestricted **China internet access, eSIM** plans with Hong Kong routing are the simplest option. Many travelers search for an eSIM solution for accessing Google in China specifically to keep Maps and Gmail accessible throughout their trip. Roami provides this type of built-in routing with automatic switching across all three Chinese carriers — China Mobile, Unicom, and Telecom. This guide covers how the firewall works, which eSIM strategies bypass it reliably, and step-by-step setup instructions. According to [Wikipedia](https://en.wikipedia.org/wiki/Great_Firewall), the firewall uses multiple inspection techniques. For eSIM device compatibility, visit [Apple Support](https://support.apple.com/en-us/HT212780). For independent speed test data, see [Ookla](https://www.speedtest.net/global-index).
+
+The Great Firewall of China blocks Google, WhatsApp, Instagram, YouTube, Facebook, Twitter, and hundreds of other services on Chinese networks. An eSIM with international routing (Hong Kong or Singapore) bypasses these blocks automatically — no VPN configuration needed. An eSIM that bypasses the China firewall routes data through Hong Kong servers, avoiding Chinese inspection entirely. For unrestricted China internet access, an eSIM plan with Hong Kong routing is the simplest option. Many travelers search for an eSIM solution for accessing Google in China specifically to keep Maps and Gmail accessible throughout their trip. Roami provides this type of built-in routing with automatic switching across all three Chinese carriers — China Mobile, Unicom, and Telecom. This guide covers how the firewall works, which eSIM strategies bypass it reliably, and step-by-step setup instructions. According to [Wikipedia](https://en.wikipedia.org/wiki/Great_Firewall), the firewall uses multiple inspection techniques. For eSIM device compatibility, visit [Apple Support](https://support.apple.com/en-us/HT212780). For independent speed test data, see [Ookla](https://www.speedtest.net/global-index).
+
 
 ---
 
 ## 1. How the Great Firewall Works and What It Actually Blocks
 
-The Great Firewall of China is not a single wall. It's a layered system of censorship, traffic inspection, and blocking that operates at multiple levels of China's internet infrastructure. Understanding how it works is the first step to figuring out how to bypass it — The **Great Firewall eSIM** bypass mechanism operates at the infrastructure level, not the app level.
+The Great Firewall of China is not a single wall. It's a layered system of censorship, traffic inspection, and blocking that operates at multiple levels of China's internet infrastructure. Understanding how it works is the first step to figuring out how to bypass it — the eSIM bypass mechanism operates at the infrastructure level, not the app level.
 
 **Deep Packet Inspection (DPI)**
 Chinese law requires internet service providers — China Mobile, China Unicom, and China Telecom — to run deep packet inspection on all traffic crossing their networks. According to the [Wikipedia article on the Great Firewall](https://en.wikipedia.org/wiki/Great_Firewall), the system operates at international gateway nodes where traffic enters and leaves China.
@@ -106,7 +107,7 @@ Blocking is not always instantaneous. Some travelers find that a VPN or service 
 
 ## 2. International Routing eSIM vs. Local Chinese eSIM — The Key Difference
 
-Not all eSIMs are created equal when it comes to China. A **China VPN eSIM** combines connectivity and firewall bypass in a single purchase. The critical difference lies in where your internet traffic enters and exits.
+Not all eSIMs are created equal when it comes to China. A China VPN eSIM combines connectivity and firewall bypass in a single purchase. The critical difference lies in where your internet traffic enters and exits.
 
 **Local Chinese eSIM (Local Carrier Partnership)**
 Some eSIM providers partner directly with Chinese carriers — China Mobile, China Unicom, or China Telecom. When you use one of these eSIMs, your device connects to a Chinese cell tower, and your traffic enters the Chinese internet directly through that carrier's infrastructure.
@@ -155,7 +156,7 @@ If your eSIM routes traffic through Hong Kong, you do not need a VPN to access b
 2. **Consistency** — If your eSIM occasionally drops the Hong Kong route (which happens during tower handoffs), a VPN provides a fallback.
 3. **Work requirements** — If you handle sensitive work data, a VPN is good practice regardless of location.
 
-The [china esim](/china-esim/) plans from providers that use Hong Kong routing are designed specifically to give travelers unfettered internet access without needing to configure additional software.
+The [China eSIM](/china-esim/) plans from providers that use Hong Kong routing are designed specifically to give travelers unfettered internet access without needing to configure additional software.
 
 **Scenario B: You Have a Local Chinese eSIM (Direct Carrier Connection)**
 If your eSIM connects you directly to China Mobile or China Unicom with a mainland Chinese IP address, you absolutely need a VPN. Your traffic passes through the GFW, and blocked services will not load without one.
@@ -168,7 +169,7 @@ The challenge here is VPN reliability in China. Standard protocols like OpenVPN 
 **Realistic expectation:** Even the best VPNs get blocked in China periodically. Expect to spend time reconnecting, switching protocols, or changing server locations.
 
 **Scenario C: Your eSIM Has a Built-in VPN**
-Some eSIM providers now offer integrated VPN functionality as part of their China package. An esim with vpn China routing means single-purchase convenience — the eSIM handles both connectivity and firewall bypass in a single solution.
+Some eSIM providers now offer integrated VPN functionality as part of their China package. An eSIM with China VPN routing means single-purchase convenience — the eSIM handles both connectivity and firewall bypass in a single solution.
 
 **The Bottom Line**
 If you choose an eSIM with Hong Kong routing, you can skip the separate VPN for basic browsing and social media. If you choose a local Chinese eSIM, you must have a VPN. If you want maximum reliability with minimal configuration, a provider that offers both Hong Kong routing and built‑in VPN is the strongest option.
@@ -178,15 +179,6 @@ If you choose an eSIM with Hong Kong routing, you can skip the separate VPN for 
 ## 4. Hong Kong Routing Explained — How It Bypasses the Firewall
 
 Hong Kong routing is the technical foundation of most effective China eSIM strategies. Here's how it actually works.
-
-**The Technical Architecture**
-When you use a Hong Kong‑routed eSIM in mainland China, your connection follows this path:
-
-```
-Your phone → China tower (4G/5G) → HK gateway server → Global internet
-                                    ↓
-                              GFW not applied
-```
 
 The Chinese carrier provides the last‑mile cellular connection — your phone connects to their tower and gets data service. But instead of routing your traffic through the carrier's mainland internet backbone (where the GFW inspects everything), the carrier hands off your traffic to a gateway server in Hong Kong.
 
@@ -200,7 +192,7 @@ Hong Kong is the preferred routing point for several reasons:
 3. **Major internet exchange** — Hong Kong is one of Asia's largest internet exchange hubs, with direct connections to global backbones.
 4. **Carrier infrastructure** — China Mobile, China Unicom, and China Telecom all have extensive Hong Kong operations and peering arrangements.
 
-For travelers researching which **eSIM China Hong Kong routing providers** offer the best service, the key differentiators are network reliability, Hong Kong gateway capacity, and pricing.
+For travelers researching which eSIM providers offer Hong Kong routing for China, the key differentiators are network reliability, Hong Kong gateway capacity, and pricing.
 
 **Latency Impact**
 Users sometimes worry that Hong Kong routing adds noticeable delay. In practice, the impact is minimal:
@@ -226,65 +218,65 @@ Some eSIM providers route China traffic through Singapore or Japan instead of Ho
 
 ## 5. Provider Deep-Dive: Saily, Yesim, and Nomad
 
-Three providers are frequently discussed in the context of China eSIM and firewall bypass, and finding the best eSIM for China with VPN built in depends on your priorities. Here's how each one actually performs in 2026. If you're comparing the **best China eSIM with VPN built in**, these options represent the current market leaders.
+Three providers are frequently discussed in the context of China eSIM and firewall bypass, and finding the best eSIM for China with VPN built in depends on your priorities. Here's how each one actually performs in 2026. If you're comparing the best China eSIM with a VPN built in, these options represent the current market leaders.
 
-**Saily China eSIM Built-in VPN Review**
-Saily is a newer entrant that has gained attention for its integrated VPN approach. The Saily China eSIM plan includes built-in VPN functionality that activates automatically when you connect in China.
+**Saily China eSIM Virtual Location Review**
+Saily is a newer entrant that has gained attention for its integrated firewall-bypass approach. The Saily China eSIM plan includes NordVPN-powered Virtual Location routing that activates automatically when you connect in China.
 
-**How it works:** Saily's eSIM connects to a local Chinese carrier network, then routes traffic through Saily's own VPN infrastructure. The VPN is pre-configured on the eSIM profile — you don't install separate VPN software or manage credentials.
+**How it works:** Saily's eSIM connects to a local Chinese carrier network, then routes traffic through NordVPN's server infrastructure. Virtual Location is pre-configured on the eSIM profile — you don't install separate VPN software or manage credentials.
 
 **Performance findings:**
-- **Setup:** Easy. Install the eSIM before arrival, and it activates when you land. The VPN component works without any configuration, which makes learning **how to activate China eSIM with VPN** as simple as turning on your phone.
-- **Speed:** Saily's China eSIM VPN delivers download speeds that are sufficient for HD video streaming, video calls, and all social media.
-- **Reliability:** The VPN connection holds up well during normal use. Brief drops can occur during subway tunnel transitions in Shanghai, but reconnection is automatic within 15–20 seconds.
-- **App access:** Google Maps, WhatsApp, Instagram, YouTube, and Netflix all worked consistently. The Saily China eSIM built-in VPN functionality handled firewall bypass effectively.
+- **Setup:** Easy. Install the eSIM before arrival, and it activates when you land. The Virtual Location component works without any configuration, which makes learning how to activate a China eSIM with VPN as simple as turning on your phone.
+- **Speed:** Saily's China eSIM Virtual Location delivers download speeds that are sufficient for HD video streaming, video calls, and all social media.
+- **Reliability:** The Virtual Location connection holds up well during normal use. Brief drops can occur during subway tunnel transitions in Shanghai, but reconnection is automatic within 15–20 seconds.
+- **App access:** Google Maps, WhatsApp, Instagram, YouTube, and Netflix all worked consistently. The Saily China eSIM Virtual Location feature handled firewall bypass effectively.
 
-**Caveats:** Saily's pricing is on the higher end of the market. The built-in VPN also means slightly higher battery consumption compared to a standard routing-only eSIM.
+**Caveats:** Saily's pricing is on the higher end of the market. Virtual Location also means slightly higher battery consumption compared to a standard routing-only eSIM.
 
 **Best for:** Travelers who want a single‑purchase solution and don't want to manage a separate VPN provider.
 
-**Yesim China eSIM Dual VPN Review**
-Yesim takes a different approach, offering what they call "dual VPN" — two VPN layers active simultaneously on the eSIM connection.
+**Yesim China eSIM VPN Review**
+Yesim takes a different approach, offering a built-in VPN for iOS users on the eSIM connection.
 
-**How it works:** Yesim's China plan uses a multi-hop connection. Traffic travels from your phone → Chinese carrier → Yesim VPN server 1 (Hong Kong) → Yesim VPN server 2 (exit location of your choice) → destination. This means traffic is double‑encrypted and exits from a location you select.
+**How it works:** Yesim's China plan uses a single VPN tunnel. Traffic travels from your phone → Chinese carrier → Yesim VPN server (exit location of your choice) → destination. This means traffic is encrypted and exits from a location you select.
 
 **Performance findings:**
-- **Setup:** Moderate complexity. You install the Yesim app, purchase the China eSIM with dual VPN, and select your desired exit location. The VPN configuration is handled through the app.
-- **Speed:** The double encryption affects throughput. Double encryption reduces throughput, but it's still sufficient for streaming and calls.
-- **Reliability:** The dual encryption appears to make traffic particularly difficult for DPI systems to classify, which is the point of the multi-hop design.
+- **Setup:** Moderate complexity. You install the Yesim app, purchase the China eSIM with built-in VPN, and select your desired exit location. The VPN configuration is handled through the app.
+- **Speed:** The VPN encryption affects throughput slightly, but it's still sufficient for streaming and calls.
+- **Reliability:** The encryption appears to make traffic difficult for DPI systems to classify, which is the point of the VPN design.
 - **App access:** All blocked services worked. WhatsApp calls were clear. YouTube streaming at 1080p was consistent.
 
-**Caveats:** The speed reduction from the dual VPN is noticeable, though most users won't feel it in normal use. The app‑based configuration also means Android users need to allow VPN permission, and iOS users need to trust the configuration profile.
+**Caveats:** The VPN is iOS-only, so Android users must bring their own VPN. The app-based configuration also means iOS users need to trust the configuration profile.
 
 **Best for:** Security‑conscious travelers and anyone who wants maximum assurance against VPN blocking.
 
-**Nomad China eSIM Great Firewall Bypass**
+**Nomad China eSIM Routing Review**
 Nomad has been offering China eSIMs longer than most competitors and has refined its approach over several years.
 
-**How it works:** Nomad uses Hong Kong routing for its China data plans. Your data routes through Hong Kong servers without an additional VPN layer. This is the pure "international routing" approach.
+**How it works:** Nomad uses Singapore exit routing for its China data plans. Your data routes through Singapore servers without an additional VPN layer. This is the pure "international routing" approach.
 
 **Performance findings:**
 - **Setup:** Simple. Purchase the eSIM, install the profile, activate on arrival. No additional apps or configurations needed.
-- **Speed:** Nomad consistently delivers the highest raw speeds of the three providers. The Hong Kong routing adds minimal overhead, keeping raw speeds high.
-- **Reliability:** Nomad's Hong Kong routing is mature and stable, with no blocking events reported. However, because there's no VPN layer, the traffic is less protected against potential future GFW changes that might target Hong Kong routing specifically.
-- **App access:** Google, WhatsApp, Instagram, YouTube — all work natively. The Nomad China eSIM Great Firewall bypass relies entirely on the Hong Kong route, and it works effectively.
+- **Speed:** Nomad consistently delivers the highest raw speeds of the three providers. The Singapore routing adds minimal overhead, keeping raw speeds high.
+- **Reliability:** Nomad's Singapore routing is mature and stable, with no blocking events reported. However, because there's no VPN layer, the traffic is less protected against potential future GFW changes that might target routing-based bypass specifically.
+- **App access:** Google, WhatsApp, Instagram, YouTube — all work natively. The Nomad China eSIM firewall bypass relies entirely on the Singapore route, and it works effectively.
 
-**Caveats:** Without a VPN layer, some users may feel exposed. Nomad also isn't transparent about exactly which carrier partners it uses in China, which makes it harder to predict performance in less connected cities.
+**Caveats:** Without a VPN layer, some users may feel exposed. Nomad uses China Unicom and China Telecom, which can make performance harder to predict in less connected cities.
 
 **Best for:** Users who prioritize speed and simplicity and are comfortable with routing‑based bypass.
 
 **Quick Comparison**
 | Provider | Bypass Method | Speed (4G) | Speed (5G) | Setup | Best For |
-|---|---|---|---|---|
-| Saily | Built-in VPN | Fast | Very fast | Easy | All‑in‑one solution |
-| Yesim | Dual VPN (multi-hop) | Moderate | Fast | Moderate | Maximum bypass reliability |
-| Nomad | Hong Kong routing | Very fast | Fastest | Easy | Speed and simplicity |
+|---|---|---|---|---|---|
+| Saily | Virtual Location | Fast | Very fast | Easy | All‑in‑one solution |
+| Yesim | Built-in VPN (iOS only) | Moderate | Fast | Moderate | Maximum bypass reliability |
+| Nomad | Singapore routing | Very fast | Fastest | Easy | Speed and simplicity |
 
 ---
 
 ## 6. Step-by-Step: VPN Setup Before Arriving in China
 
-If you're using an eSIM that requires a separate VPN, or you want a backup VPN alongside your Hong Kong routing eSIM, configuration must happen **before** you enter China. Setting up an **eSIM China VPN** configuration before arrival is critical — this is the single most important step you can take for a smooth trip. Chinese networks actively block VPN installation and configuration traffic, making post-arrival setup nearly impossible.
+If you're using an eSIM that requires a separate VPN, or you want a backup VPN alongside your Hong Kong routing eSIM, configuration must happen **before** you enter China. Setting up your China eSIM VPN configuration before arrival is critical — this is the single most important step you can take for a smooth trip. Chinese networks actively block VPN installation and configuration traffic, making post-arrival setup nearly impossible.
 
 **Step 1: Choose a VPN That Works in China (2026)**
 Not all VPNs work in China. Here are the VPNs with the strongest track record in China:
@@ -357,7 +349,7 @@ If you land in China and your VPN won't connect:
 
 ## 7. Hong Kong Routing Plans — Pricing Comparison
 
-Hong Kong routing plans are generally more expensive than standard local carrier plans because the provider pays for both the Chinese carrier connection and the Hong Kong server infrastructure. For a broader look at **China eSIM Hong Kong routing plan price** comparisons and data costs across multiple providers, the [China eSIM price and plan purchase guide](/blog/china-esim-price-plan-purchase-guide/) includes a comparison across 15+ providers. Here's a detailed pricing breakdown as of mid-2026.
+Hong Kong routing plans are generally more expensive than standard local carrier plans because the provider pays for both the Chinese carrier connection and the Hong Kong server infrastructure. For a broader look at China eSIM Hong Kong routing plan prices and data costs across multiple providers, the [China eSIM cost](/blog/china-esim-price-plan-purchase-guide/) includes a comparison across 15+ providers. Here's a detailed pricing breakdown as of mid-2026.
 
 **Hong Kong Routing Plan Price Comparison**
 | Provider | Plan Duration | Data Allowance | Price (USD) | Price per GB | Routing Type |
@@ -365,15 +357,15 @@ Hong Kong routing plans are generally more expensive than standard local carrier
 | Roami | 7 days | 1GB | $9.99 | $9.99 | Hong Kong routing + auto carrier |
 | Roami | 15 days | 3GB | $19.99 | $6.66 | Hong Kong routing + auto carrier |
 | Roami | 30 days | 5GB | $29.99 | $6.00 | Hong Kong routing + auto carrier |
-| Nomad | 7 days | 1GB | $8.99 | $8.99 | Hong Kong routing |
-| Nomad | 15 days | 3GB | $17.99 | $6.00 | Hong Kong routing |
-| Nomad | 30 days | 5GB | $29.99 | $6.00 | Hong Kong routing |
-| Saily | 7 days | 1GB | $11.99 | $11.99 | Built-in VPN (local carrier + VPN) |
-| Saily | 15 days | 3GB | $23.99 | $8.00 | Built-in VPN (local carrier + VPN) |
-| Saily | 30 days | 5GB | $39.99 | $8.00 | Built-in VPN (local carrier + VPN) |
-| Yesim | 7 days | 1GB | $12.99 | $12.99 | Dual VPN (multi-hop) |
-| Yesim | 15 days | 3GB | $24.99 | $8.33 | Dual VPN (multi-hop) |
-| Yesim | 30 days | 5GB | $39.99 | $8.00 | Dual VPN (multi-hop) |
+| Nomad | 7 days | 1GB | $8.99 | $8.99 | Singapore routing |
+| Nomad | 15 days | 3GB | $17.99 | $6.00 | Singapore routing |
+| Nomad | 30 days | 5GB | $29.99 | $6.00 | Singapore routing |
+| Saily | 7 days | 1GB | $11.99 | $11.99 | Virtual Location (NordVPN routing) |
+| Saily | 15 days | 3GB | $23.99 | $8.00 | Virtual Location (NordVPN routing) |
+| Saily | 30 days | 5GB | $39.99 | $8.00 | Virtual Location (NordVPN routing) |
+| Yesim | 7 days | 1GB | $12.99 | $12.99 | Built-in VPN (iOS only) |
+| Yesim | 15 days | 3GB | $24.99 | $8.33 | Built-in VPN (iOS only) |
+| Yesim | 30 days | 5GB | $39.99 | $8.00 | Built-in VPN (iOS only) |
 
 **What the Prices Actually Mean for Travelers**
 
@@ -386,7 +378,7 @@ Hong Kong routing plans are generally more expensive than standard local carrier
 **Where Roami Fits Into the Pricing Landscape**
 Roami's China eSIM plans use Hong Kong routing combined with automatic carrier switching. When you travel between cities in China, the eSIM automatically picks the strongest local carrier (China Mobile, China Unicom, or China Telecom) while maintaining the Hong Kong routing path. This is particularly useful in less central areas where carrier coverage varies significantly.
 
-For travelers on a budget, Roami also offers a [free esim](/free-esim/) option, which lets you test the service and confirm compatibility with your device before purchasing a full plan. This is especially valuable for China travel — eSIM activation issues are one of the most common problems travelers face, and testing before you buy eliminates that risk.
+For travelers on a budget, Roami also offers a [free eSIM trial](/free-esim/) option, which lets you test the service and confirm compatibility with your device before purchasing a full plan. This is especially valuable for China travel — eSIM activation issues are one of the most common problems travelers face, and testing before you buy eliminates that risk.
 
 Use code **WEB20** for 20% off any China eSIM plan, which brings the 15‑day 3GB plan to approximately $15.99.
 
@@ -404,17 +396,17 @@ Use code **WEB20** for 20% off any China eSIM plan, which brings the 15‑day 3G
 
 Speed is often the deciding factor for travelers choosing between an all-in-one VPN eSIM and a separate eSIM + VPN combination. The difference comes down to how much overhead each approach adds.
 
-**How VPN encryption affects throughput.** Routing data through a VPN adds an encryption hop, which reduces throughput by roughly 25-40% even with efficient protocols. An eSIM that uses Hong Kong routing without a VPN (such as Nomad or Roami) avoids that overhead and generally delivers the fastest raw speeds. An all-in-one VPN eSIM (such as Saily or Yesim) trades some speed for the convenience of a single setup.
+**How VPN encryption affects throughput.** Routing data through a VPN adds an encryption hop, which reduces throughput by roughly 25-40% even with efficient protocols. An eSIM that uses international routing without a VPN (such as Nomad or Roami) avoids that overhead and generally delivers the fastest raw speeds. An all-in-one eSIM with built-in bypass (such as Saily or Yesim) trades some speed for the convenience of a single setup.
 
-**How latency compounds.** Cross-border eSIM traffic is typically routed through Hong Kong, adding roughly 40-70 ms of latency versus a local SIM. Each additional VPN hop — especially a dual-VPN setup — adds further delay. For video calls, staying under roughly 300 ms round-trip time keeps the connection smooth; routing-only setups tend to stay well below this, while multi-hop VPNs come closest to the threshold.
+**How latency compounds.** Cross-border eSIM traffic is typically routed through Hong Kong, adding roughly 40-70 ms of latency versus a local SIM. Each additional VPN hop — especially a multi-hop VPN setup — adds further delay. For video calls, staying under roughly 300 ms round-trip time keeps the connection smooth; routing-only setups tend to stay well below this, while multi-hop VPNs come closest to the threshold.
 
 **What this means in practice.**
 
-- **Video calls (Zoom, Google Meet, WhatsApp):** routing-only eSIMs provide the smoothest experience; built-in and dual VPNs still handle voice and video calls but with more latency.
+- **Video calls (Zoom, Google Meet, WhatsApp):** routing-only eSIMs provide the smoothest experience; VPN-based and Virtual Location eSIMs still handle voice and video calls but with more latency.
 - **Streaming (YouTube, Netflix):** raw download speed matters most, so routing-only options are the safest bet for 4K. VPN-based plans may need to drop to 1080p during peak hours.
 - **Messaging (WhatsApp, WeChat, iMessage):** latency differences are imperceptible in day-to-day use.
 
-**The verdict.** If raw speed is your priority, Hong Kong routing without an additional VPN is the fastest option. If you want a single setup with built-in firewall bypass, a VPN eSIM is worth the modest speed trade-off.
+**The verdict.** If raw speed is your priority, international routing without an additional VPN is the fastest option. If you want a single setup with built-in firewall bypass, a VPN eSIM is worth the modest speed trade-off.
 
 ---
 
@@ -435,7 +427,7 @@ WhatsApp will not work at all. The app may appear to connect initially, but mess
 Chinese residents primarily use WeChat for messaging. While WhatsApp works with the right eSIM setup, you should also install WeChat for communicating with hotels, restaurants, tour guides, and local contacts in China. Many businesses communicate exclusively through WeChat.
 
 **Best eSIM for China with WhatsApp Access**
-For WhatsApp reliability specifically, the best choice is any eSIM with guaranteed Hong Kong routing. The [china esim](/china-esim/) plans with Hong Kong routing provide consistent WhatsApp access across Chinese cities, and the automatic carrier switching means you maintain connectivity between urban centers.
+For WhatsApp reliability specifically, the best choice is any eSIM with guaranteed Hong Kong routing. The [China eSIM](/china-esim/) plans with Hong Kong routing provide consistent WhatsApp access across Chinese cities, and the automatic carrier switching means you maintain connectivity between urban centers.
 
 ---
 
@@ -445,13 +437,13 @@ For WhatsApp reliability specifically, the best choice is any eSIM with guarante
 It depends on the eSIM. A China eSIM with **Hong Kong routing** bypasses the Great Firewall because your traffic exits through Hong Kong's internet infrastructure, which is not subject to the GFW. A local Chinese eSIM that connects you directly to China Mobile or China Unicom **does not** bypass the firewall — you see the same restrictions as any local internet user. Before purchasing, check whether the eSIM provider explicitly states "Hong Kong routing," "international routing," or "global routing" for China plans. If the provider doesn't mention routing, assume the traffic goes through mainland Chinese infrastructure.
 
 **Do I still need a VPN with China eSIM?**
-Not always. If your eSIM uses Hong Kong routing, you can access blocked services without a VPN. However, many travelers add a VPN anyway for encryption and backup protection. If your eSIM connects you to a local Chinese carrier (mainland IP address), you absolutely need a VPN. Some eSIMs like Saily include VPN functionality built in, so separate VPN software is unnecessary. The decision ultimately depends on your routing choice and your personal security requirements.
+Not always. If your eSIM uses Hong Kong routing, you can access blocked services without a VPN. However, many travelers add a VPN anyway for encryption and backup protection. If your eSIM connects you to a local Chinese carrier (mainland IP address), you absolutely need a VPN. Some eSIMs like Saily include Virtual Location routing built in, so separate VPN software is unnecessary. The decision ultimately depends on your routing choice and your personal security requirements.
 
 **Which China eSIM has built-in VPN?**
-Saily offers a plan with built-in VPN functionality. The VPN activates automatically when you connect in China, requiring no manual configuration or additional app installation. This is the most straightforward option if you want VPN protection without managing two separate services. Yesim offers a "dual VPN" feature that adds two VPN layers to your connection, though this requires the Yesim app for configuration. Among established travel eSIM brands, Saily is currently the primary option with native VPN integration for China plans.
+Saily offers a plan with NordVPN-powered Virtual Location routing. It activates automatically when you connect in China, requiring no manual configuration or additional app installation. This is the most straightforward option if you want firewall bypass without managing two separate services. Yesim offers a built-in VPN (iOS only) that adds a VPN layer to your connection, though this requires the Yesim app for configuration. Among established travel eSIM brands, Saily is currently the primary option with native Virtual Location integration for China plans.
 
 **Will Google Maps work with China eSIM?**
-Google Maps is blocked in China, so it won't work with a local Chinese eSIM. Choosing the right **eSIM China Google** access strategy means confirming your traffic routes through Hong Kong. With a Hong Kong routing eSIM, Google Maps works normally — you can search for locations, get directions, read reviews, and use navigation features. In practice, many travelers use both Google Maps and Apple Maps (which has better local China data through its partnership with AutoNavi/Amap). If you're navigating in Chinese cities, also consider downloading Amap (Gaode Maps) or Baidu Maps, which have more accurate transit data and real-time traffic information for Chinese cities. These Chinese map apps should be installed before you arrive, as downloading them from foreign app stores can be slow in China.
+Google Maps is blocked in China, so it won't work with a local Chinese eSIM. Choosing the right eSIM access strategy for Google in China means confirming your traffic routes through Hong Kong. With a Hong Kong routing eSIM, Google Maps works normally — you can search for locations, get directions, read reviews, and use navigation features. In practice, many travelers use both Google Maps and Apple Maps (which has better local China data through its partnership with AutoNavi/Amap). If you're navigating in Chinese cities, also consider downloading Amap (Gaode Maps) or Baidu Maps, which have more accurate transit data and real-time traffic information for Chinese cities. These Chinese map apps should be installed before you arrive, as downloading them from foreign app stores can be slow in China.
 
 **Can I use WhatsApp with China eSIM?**
 Yes, if your eSIM uses Hong Kong routing or includes a built-in VPN. With either of these approaches, WhatsApp messaging and calling work normally. WhatsApp is fully blocked in China, so a local Chinese eSIM without VPN will not work. For WhatsApp calls, a Hong Kong routing eSIM provides the best voice quality and lowest latency. WhatsApp calls occasionally experience brief drops in quality during VPN reconnection events, but these are typically resolved within a few seconds.
@@ -475,7 +467,7 @@ Here is how the major VPNs compare:
 | **Astrill VPN** | Most reliable | Proprietary OpenWeb and StealthVPN protocols that the GFW has difficulty identifying. Widely considered the gold standard among expats and frequent China travelers. |
 | **ExpressVPN** | Good with obfuscation | Lightway protocol works well; use Hong Kong or Singapore servers for best results. Experienced a significant blocking event in late 2025 but has since updated its infrastructure. |
 | **NordVPN** | Works with proper setup | Obfuscated servers work reasonably well. Avoid standard WireGuard connections and use NordLynx with obfuscation enabled. |
-| **Saily (built-in VPN)** | Simplest option | Eliminates the need to choose a separate VPN provider. Premium pricing but maximum convenience for travelers. |
+| **Saily (Virtual Location)** | Simplest option | Eliminates the need to choose a separate VPN provider. Premium pricing but maximum convenience for travelers. |
 
 **VPNs that are NOT recommended for China in 2026:** Free VPNs (blocked almost immediately), ProtonVPN free tier, TunnelBear, and any VPN that doesn't explicitly advertise obfuscation or stealth protocols.
 
@@ -487,7 +479,7 @@ With multiple viable options available, here's how to narrow down your choice ba
 
 **For Short Business Trips (3–5 Days)**
 
-**Best option:** Saily built-in VPN eSIM or Roami Hong Kong routing eSIM.
+**Best option:** Saily Virtual Location eSIM or Roami Hong Kong routing eSIM.
 
 A 1GB or 3GB plan covers maps, messaging, email, and light social media for a short trip. The install-and-forget nature of these solutions is ideal when you don't want to troubleshoot connectivity issues during a busy work trip. Set it up before you fly, and it activates when you land.
 
@@ -495,27 +487,27 @@ A 1GB or 3GB plan covers maps, messaging, email, and light social media for a sh
 
 **For Digital Nomads and Remote Workers (2–4 Weeks)**
 
-**Best option:** Nomad Hong Kong routing eSIM + separate VPN (Astrill or ExpressVPN).
+**Best option:** Nomad Singapore routing eSIM + separate VPN (Astrill or ExpressVPN).
 
-The dual approach gives you speed when you need it (Nomad's fast HK routing for general browsing) and encrypted protection when you need it (VPN for work-related traffic). A 5GB eSIM plan paired with hotel WiFi is usually sufficient for a month of work. VPN costs run $10–$15/month, bringing total connectivity costs to approximately $35–$55/month.
+The dual approach gives you speed when you need it (Nomad's fast Singapore routing for general browsing) and encrypted protection when you need it (VPN for work-related traffic). A 5GB eSIM plan paired with hotel WiFi is usually sufficient for a month of work. VPN costs run $10–$15/month, bringing total connectivity costs to approximately $35–$55/month.
 
 **Backup:** Install WeChat for communicating with Chinese contacts and co-working spaces.
 
 **For First-Time China Travelers**
 
-**Best option:** Saily built-in VPN eSIM.
+**Best option:** Saily Virtual Location eSIM.
 
-The simplicity advantage is real. First-time visitors already have enough to manage — language barriers, unfamiliar apps, navigating public transit. Worrying about whether your VPN is working shouldn't be one of them. Saily's built-in VPN ensures you have unfettered internet access from the moment you land.
+The simplicity advantage is real. First-time visitors already have enough to manage — language barriers, unfamiliar apps, navigating public transit. Worrying about whether your VPN is working shouldn't be one of them. Saily's Virtual Location ensures you have unfettered internet access from the moment you land.
 
 **Backup:** Before departure, confirm your phone supports eSIM, and install essential China apps (WeChat, Alipay, DiDi, a translation app).
 
 **For Budget-Conscious Travelers**
 
-**Best option:** Roami or Nomad Hong Kong routing plan + use the WEB20 discount code.
+**Best option:** Roami (Hong Kong routing) or Nomad (Singapore routing) plan + use the WEB20 discount code.
 
-Stick to 1GB plans for short stays and rely on hotel WiFi for heavy usage. A 7‑day Hong Kong routing plan costs around $8–$10, which is reasonable for a week of unrestricted internet access. The [china esim](/china-esim/) options at the lower data tiers offer the best value for light users who primarily need maps and messaging on the go.
+Stick to 1GB plans for short stays and rely on hotel WiFi for heavy usage. A 7‑day Hong Kong routing plan costs around $8–$10, which is reasonable for a week of unrestricted internet access. The [China eSIM](/china-esim/) options at the lower data tiers offer the best value for light users who primarily need maps and messaging on the go.
 
-**Backup:** If you're staying longer than two weeks and have a compatible phone, consider buying a local China Unicorn tourist SIM at the airport after arrival. These cost approximately $15–$25 for a month with 10–20GB of data. Pair it with a reliable VPN like Astrill for a more cost‑effective long‑stay solution.
+**Backup:** If you're staying longer than two weeks and have a compatible phone, consider buying a local China Unicom tourist SIM at the airport after arrival. These cost approximately $15–$25 for a month with 10–20GB of data. Pair it with a reliable VPN like Astrill for a more cost‑effective long‑stay solution.
 
 **For Group Travelers**
 If you're traveling with a family or group, purchasing individual eSIM plans for each person adds up quickly. Consider:
@@ -532,7 +524,7 @@ This checklist consolidates everything covered in this guide into actionable ste
 
 **Two weeks before departure:**
 - [ ] Check if your phone supports eSIM (most iPhone XS and newer, Google Pixel 3 and newer, Samsung Galaxy S20 and newer)
-- [ ] Research [china esim](/china-esim/) providers with Hong Kong routing or built-in VPN
+- [ ] Research [China eSIM with 5G](/china-esim/) providers with Hong Kong routing or built-in VPN
 - [ ] Compare pricing for your trip duration and data needs
 - [ ] Read the [complete China eSIM guide](/blog/china-esim-complete-guide/) for full context on eSIM technology
 
@@ -575,80 +567,8 @@ For EU roaming context, visit [Europa.eu](https://europa.eu/youreurope/citizens/
 The [GSMA](https://www.gsma.com) defines eSIM roaming standards that enable international routing in China.
 
 
-For a complete China eSIM overview, see the [China eSIM complete guide](/blog/china-esim-complete-guide/). Official [Apple Support](https://support.apple.com/en-us/HT212780) lists eSIM compatible devices.
+For a complete China eSIM overview, see the [China eSIM 101](/blog/china-esim-complete-guide/). Official [Apple Support](https://support.apple.com/en-us/HT212780) lists eSIM compatible devices.
 
 
 For Chinese telecom regulations, see [Wikipedia](https://en.wikipedia.org/wiki/Telecommunications_in_China).
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does China eSIM bypass the Great Firewall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It depends on the eSIM. A China eSIM with Hong Kong routing bypasses the Great Firewall because your traffic exits through Hong Kong's internet infrastructure, which is not subject to the GFW. A local Chinese eSIM that connects you directly to China Mobile or China Unicom does not bypass the firewall — you see the same restrictions as any local internet user. Before purchasing, check whether the eSIM provider explicitly states Hong Kong routing, international routing, or global routing for China plans. If the provider doesn't mention routing, assume the traffic goes through mainland Chinese infrastructure."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do I still need a VPN with China eSIM?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Not always. If your eSIM uses Hong Kong routing, you can access blocked services without a VPN. However, many travelers add a VPN anyway for encryption and backup protection. If your eSIM connects you to a local Chinese carrier (mainland IP address), you absolutely need a VPN. Some eSIMs like Saily include VPN functionality built in, so separate VPN software is unnecessary. The decision ultimately depends on your routing choice and your personal security requirements."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Which China eSIM has built-in VPN?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Saily offers a plan with built-in VPN functionality. The VPN activates automatically when you connect in China, requiring no manual configuration or additional app installation. This is the most straightforward option if you want VPN protection without managing two separate services. Yesim offers a dual VPN feature that adds two VPN layers to your connection, though this requires the Yesim app for configuration. Among established travel eSIM brands, Saily is currently the primary option with native VPN integration for China plans."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Will Google Maps work with China eSIM?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Google Maps is blocked in China, so it won't work with a local Chinese eSIM. With a Hong Kong routing eSIM, Google Maps works normally — you can search for locations, get directions, read reviews, and use navigation features. In practice, many travelers use both Google Maps and Apple Maps (which has better local China data through its partnership with AutoNavi/Amap). If you're navigating in Chinese cities, also consider downloading Amap (Gaode Maps) or Baidu Maps, which have more accurate transit data and real-time traffic information for Chinese cities. These Chinese map apps should be installed before you arrive, as downloading them from foreign app stores can be slow in China."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I use WhatsApp with China eSIM?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, if your eSIM uses Hong Kong routing or includes a built-in VPN. With either of these approaches, WhatsApp messaging and calling work normally. WhatsApp is fully blocked in China, so a local Chinese eSIM without VPN will not work. For WhatsApp calls, a Hong Kong routing eSIM provides the best voice quality and lowest latency. WhatsApp calls occasionally experience brief drops in quality during VPN reconnection events, but these are typically resolved within a few seconds."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Will Instagram and Facebook work in China with eSIM?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Both Instagram and Facebook are blocked by the Great Firewall and will not work with a local Chinese eSIM. With a Hong Kong routing eSIM, both platforms work normally. Feed loading, story uploads, post creation, messaging, and live streaming all function as expected. The Hong Kong routing provides enough bandwidth for Instagram Reels and Facebook video content without buffering. Users should note that Instagram's live location features may still show incorrect locations since GPS positioning is handled separately from the eSIM data connection."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is YouTube accessible with China eSIM?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "YouTube is blocked in China and requires firewall bypass. With a Hong Kong routing eSIM, YouTube is fully accessible. All features work: browsing, searching, comments, subscriptions, live streams, and uploads. 1080p streaming works reliably with any Hong Kong routing plan. 4K streaming requires at least 20 Mbps sustained speed, achievable on 5G connections but less consistent on 4G. YouTube Music and YouTube Kids also work normally with Hong Kong routing. On a local Chinese eSIM, YouTube is inaccessible without a VPN."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Which VPN works best in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Astrill VPN is the most reliable with proprietary OpenWeb and StealthVPN protocols that the GFW has difficulty identifying. ExpressVPN is good with obfuscation — Lightway protocol works well; use Hong Kong or Singapore servers for best results. NordVPN works with proper setup — obfuscated servers work reasonably well, avoid standard WireGuard connections and use NordLynx with obfuscation enabled. Saily (built-in VPN) is the simplest option that eliminates the need to choose a separate VPN provider. Free VPNs are not recommended for China."
-      }
-    }
-  ]
-}
-</script>

@@ -1,15 +1,14 @@
 ﻿---
 title: "China eSIM Multi-Country Guide: Hong Kong and Asia"
-description: "China, Hong Kong, and Macau are separate telecom territories. Roami compares 3HK, CMHK, and regional eSIM plans for multi-country Asia travel across borders."
+description: "China, Hong Kong, and Macau are separate telecom territories. Roami compares 3HK, CMHK, and regional eSIM plans for Asia travel."
 keywords: ["China Macau eSIM", "China Hong Kong eSIM", "multi-country Asia eSIM", "3HK eSIM China", "CMHK eSIM China"]
-date: 2026-08-01T00:00:00Z
-lastmod: 2026-08-01T00:00:00Z
+date: 2026-08-24T00:00:00Z
+lastmod: 2026-08-24T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
+authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/china/china-esim-multi-country-hongkong-macau.jpg"
 categories: ["China", "eSIM", "Travel"]
 tags: ["China eSIM", "Travel eSIM"]
-readingTime: 20
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
@@ -56,7 +55,7 @@ recentPosts:
     permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
     date: "2026-05-20"
 ---
-China, Hong Kong, and Macau are three separate telecom territories. A single **China Hong Kong Macau eSIM** handles all three territories, but a China-only eSIM stops working at the Hong Kong border. A Hong Kong eSIM doesn't work in mainland China. Multi-country options include 3HK (8GB/365 days for $18, covers Asia), CMHK (5GB/30 days with HK phone number for $15), and Airalo Asia regional plans. This guide covers the technical differences. According to [GSMA](https://www.gsma.com), eSIM roaming across regions requires specific carrier agreements. For device compatibility, visit [Apple Support](https://support.apple.com/en-us/HT212780). This guide provides multi-country plan comparisons with pricing, cross-border switching solutions, and recommendations by itinerary type. [Ookla](https://www.speedtest.net/global-index) provides independent network performance data across Asian markets.
+China, Hong Kong, and Macau are three separate telecom territories. A single China Hong Kong Macau eSIM handles all three territories, but a China-only eSIM stops working at the Hong Kong border. A Hong Kong eSIM doesn't work in mainland China. Multi-country options include 3HK (8GB/365 days for $18, covers Asia), CMHK (5GB/30 days with HK phone number for $15), and Airalo Asia regional plans. This guide covers the technical differences. According to [GSMA](https://www.gsma.com), eSIM roaming across regions requires specific carrier agreements. For device compatibility, visit [Apple Support](https://support.apple.com/en-us/HT212780). This guide provides multi-country plan comparisons with pricing, cross-border switching solutions, and recommendations by itinerary type. [Ookla](https://www.speedtest.net/global-index) provides independent network performance data across Asian markets.
 
 ---
 
@@ -74,7 +73,7 @@ The single most important thing to understand about multi-country travel across 
 
 The [GSMA's embedded SIM specification](https://www.gsma.com/solutions-and-impact/technologies/esim/) defines how eSIM profiles are managed, but the actual coverage is determined by the roaming agreements each provider has with local carriers in each territory. A provider needs separate roaming agreements with Chinese carriers, Hong Kong carriers, and Macau carriers to offer service in all three. Many travel eSIM providers only have agreements with mainland Chinese carriers, which explains the gap.
 
-This is also why the question **"Does eSIM work in Hong Kong and Macau?"** doesn't have a simple yes or no answer. It depends entirely on whether your specific eSIM plan includes those territories. A [China eSIM](/china-esim/) purchased for a mainland-only trip won't work in either Hong Kong or Macau. You need either a multi-region plan that explicitly covers all three, or separate eSIMs for each destination.
+This is also why the question **"Does eSIM work in Hong Kong and Macau?"** doesn't have a simple yes or no answer. It depends entirely on whether your specific eSIM plan includes those territories. A [China data eSIM](/china-esim/) purchased for a mainland-only trip won't work in either Hong Kong or Macau. You need either a multi-region plan that explicitly covers all three, or separate eSIMs for each destination.
 
 ---
 
@@ -104,32 +103,20 @@ This happens even though CMHK (China Mobile Hong Kong) shares the same brand nam
 - A separate Hong Kong eSIM to activate when you cross the border
 - A provider that offers automatic switching between mainland and Hong Kong networks like Roami
 
-[Roami](/china-esim/) is one of the providers that handles this switching natively — their multi-region plans include mainland China, Hong Kong, and Macau in a single profile, so no manual switching or separate purchase is needed. This is covered in more detail in the cross-border section below.
+[buy a China eSIM](/china-esim/) is one of the providers that handles this switching natively — their multi-region plans include mainland China, Hong Kong, and Macau in a single profile, so no manual switching or separate purchase is needed. This is covered in more detail in the cross-border section below.
 
-For more troubleshooting on this specific issue, see the [China eSIM troubleshooting guide](/blog/china-esim-troubleshooting-fix-guide/), which includes a dedicated section on cross-border Hong Kong connection problems.
+For more troubleshooting on this specific issue, see the [China eSIM fix guide](/blog/china-esim-troubleshooting-fix-guide/), which includes a dedicated section on cross-border Hong Kong connection problems.
 
 ---
 
 ## Multi-Country eSIM Options for China + Hong Kong + Macau + Asia
 
-There are three categories of eSIM plans that cover multiple destinations in Greater China and beyond. A **China eSIM multi country Asia** plan covers mainland China, Hong Kong, Macau, and often Japan, Korea, and Southeast Asia. The categories include: Hong Kong-based carriers with roaming into China, regional Asia plans from global eSIM providers, and multi-country plans that bundle specific territories. Each has different strengths depending on your exact itinerary.
+There are three categories of eSIM plans that cover multiple destinations in Greater China and beyond. A China eSIM multi country Asia plan covers mainland China, Hong Kong, Macau, and often Japan, Korea, and Southeast Asia. The categories include: Hong Kong-based carriers with roaming into China, regional Asia plans from global eSIM providers, and multi-country plans that bundle specific territories. Each has different strengths depending on your exact itinerary.
 
 **3HK — China + Hong Kong + Macau + Asia Multi-Country Plans**
-3HK (Three Hong Kong) is one of the strongest options for multi-country Asia travel because they offer plans that bundle mainland China, Hong Kong, Macau, and additional Asian countries into a single eSIM package. **3HK China eSIM multi country Asia** plans offer 365-day validity. These are prepaid roaming plans sold on 3HK's website and through their app, and they don't require a Hong Kong address or ID to purchase, making them accessible to foreign travelers.
+3HK (Three Hong Kong) is one of the strongest options for multi-country Asia travel because they offer plans that bundle mainland China, Hong Kong, Macau, and additional Asian countries into a single eSIM package. 3HK China eSIM multi country Asia plans offer 365-day validity. These are prepaid roaming plans sold on 3HK's website and through their app, and they don't require a Hong Kong address or ID to purchase, making them accessible to foreign travelers.
 
-**3HK China + Hong Kong + Macau Plan:**
-| Data | Validity | Price | Coverage |
-|------|----------|-------|----------|
-| 10 GB | 8 days | HKD 198 (~$25) | China + HK + Macau |
-| 20 GB | 15 days | HKD 298 (~$38) | China + HK + Macau |
-| 50 GB | 30 days | HKD 488 (~$62) | China + HK + Macau |
-
-**3HK Asia Multi-Country Plan:**
-| Data | Validity | Price | Coverage |
-|------|----------|-------|----------|
-| 10 GB | 8 days | HKD 298 (~$38) | China + HK + Macau + Japan + Taiwan + Singapore + Malaysia + Thailand + South Korea |
-| 20 GB | 15 days | HKD 398 (~$51) | Same 9 destinations |
-| 50 GB | 30 days | HKD 688 (~$88) | Same 9 destinations |
+**3HK plan pricing:** 3HK bundles mainland China, Hong Kong, and Macau into single eSIM packages. Their China + Hong Kong + Macau plan runs from about $25 for 10 GB (8 days) up to $62 for 50 GB (30 days), while the broader Asia multi-country plan covers nine destinations starting around $38 for 10 GB. See the [China eSIM price comparison](/blog/china-esim-price-plan-purchase-guide/) for current tier-by-tier pricing.
 
 **Network partners in China:** 3HK roams on China Mobile's network in mainland China. In Hong Kong, it uses 3HK's own network. In Macau, it roams on CTM. Coverage is reliable across all three territories.
 
@@ -153,24 +140,9 @@ If your trip includes Japan or South Korea alongside China and Hong Kong, the As
 The [3HK official website](https://www.three.com.hk) lists all current prepaid roaming eSIM plans with full coverage details and terms.
 
 **CMHK — China Mobile Hong Kong Roaming eSIM Plans**
-CMHK (China Mobile Hong Kong) is the Hong Kong subsidiary of China Mobile. **CMHK China eSIM roaming** leverages China Mobile's mainland network. Despite sharing the parent company, CMHK operates its own network in Hong Kong and has separate roaming agreements for mainland China. Their eSIM plans are designed for Hong Kong residents traveling to China, but they are available to foreign travelers as well.
+CMHK (China Mobile Hong Kong) is the Hong Kong subsidiary of China Mobile. CMHK China eSIM roaming leverages China Mobile's mainland network. Despite sharing the parent company, CMHK operates its own network in Hong Kong and has separate roaming agreements for mainland China. Their eSIM plans are designed for Hong Kong residents traveling to China, but they are available to foreign travelers as well.
 
-**CMHK ChinRoaming Plan:**
-| Data | Validity | Price | Coverage |
-|------|----------|-------|----------|
-| 5 GB | 30 days | HKD 128 (~$16) | China + Hong Kong |
-| 10 GB | 30 days | HKD 198 (~$25) | China + Hong Kong |
-| 20 GB | 30 days | HKD 298 (~$38) | China + Hong Kong |
-| 40 GB | 30 days | HKD 498 (~$64) | China + Hong Kong |
-
-**CMHK Multi-Country Asia Plan:**
-CMHK also offers "Asia Pacific" roaming bundles that add Japan, South Korea, Taiwan, Singapore, Malaysia, Thailand, and the Philippines to the base China + Hong Kong coverage:
-
-| Data | Validity | Price | Coverage |
-|------|----------|-------|----------|
-| 10 GB | 10 days | HKD 268 (~$34) | China + HK + 8 Asia destinations |
-| 20 GB | 15 days | HKD 358 (~$46) | Same expanded coverage |
-| 30 GB | 30 days | HKD 498 (~$64) | Same expanded coverage |
+**CMHK China Roaming plan pricing:** CMHK's base China + Hong Kong roaming plan ranges from about $16 for 5 GB (30 days) up to $64 for 40 GB, with "Asia Pacific" bundles adding eight more destinations from about $34 for 10 GB. See the [China eSIM cost](/blog/china-esim-price-plan-purchase-guide/) for current tier-by-tier pricing.
 
 **Network partners in China:** CMHK roams on the mainland China Mobile network, which gives it the widest coverage footprint of any roaming option. This is the same China Mobile network that covers 99% of China's population, including rural areas and smaller cities.
 
@@ -196,14 +168,7 @@ The [CMHK official website](https://www.hk.chinamobile.com) lists current plans 
 **Airalo Asia Regional Plan**
 Airalo's Asia regional plan is one of the most popular multi-country eSIM options for travelers covering multiple Asian destinations. The plan covers 22 countries across Asia including China, Hong Kong, Macau, Japan, South Korea, Taiwan, Thailand, Vietnam, Singapore, Malaysia, Indonesia, and the Philippines.
 
-**Airalo Asia Regional Pricing:**
-| Data | Validity | Price | Covered Destinations |
-|------|----------|-------|---------------------|
-| 1 GB | 7 days | $5.00 | 22 Asian countries |
-| 3 GB | 30 days | $11.00 | 22 Asian countries |
-| 5 GB | 30 days | $17.00 | 22 Asian countries |
-| 10 GB | 30 days | $28.00 | 22 Asian countries |
-| 20 GB | 30 days | $49.00 | 22 Asian countries |
+**Airalo Asia Regional pricing:** Airalo's Asia plan spans 22 countries with data tiers from $5 for 1 GB (7 days) up to $49 for 20 GB (30 days). See the [China eSIM plan pricing](/blog/china-esim-price-plan-purchase-guide/) for current tier-by-tier pricing.
 
 **Network partners in China:** Airalo's Asia plan connects to China Unicom in mainland China, CMHK in Hong Kong, and CTM in Macau. China Unicom has good coverage in major cities and along the eastern coast but is weaker than China Mobile in rural areas.
 
@@ -225,17 +190,7 @@ Airalo's Asia regional plan is one of the most popular multi-country eSIM option
 **Holafly Asia Plan**
 Holafly's Asia plan takes a different approach from Airalo — it offers unlimited data with a built-in VPN, which solves the Great Firewall problem automatically. The tradeoff is higher daily pricing and a shorter list of covered countries.
 
-**Holafly Asia Pricing:**
-| Duration | Price | Coverage |
-|----------|-------|----------|
-| 5 days | $27.00 | 16 Asian countries |
-| 7 days | $34.00 | 16 Asian countries |
-| 10 days | $44.00 | 16 Asian countries |
-| 15 days | $57.00 | 16 Asian countries |
-| 20 days | $65.00 | 16 Asian countries |
-| 30 days | $79.00 | 16 Asian countries |
-| 60 days | $119.00 | 16 Asian countries |
-| 90 days | $149.00 | 16 Asian countries |
+**Holafly Asia pricing:** Holafly offers unlimited data across 16 Asian countries, priced by duration from $27 for 5 days up to $149 for 90 days. See the [China eSIM purchase guide](/blog/china-esim-price-plan-purchase-guide/) for current pricing.
 
 **Covered countries include:** China, Hong Kong, Macau, Japan, South Korea, Taiwan, Thailand, Vietnam, Singapore, Malaysia, Indonesia, Philippines, Cambodia, Laos, Myanmar, and Brunei.
 
@@ -267,7 +222,7 @@ Beyond the four major options above, several other providers offer multi-country
 
 **Saily Global Plan:** Saily (Nord Security's eSIM arm) offers a global roaming plan that covers China, Hong Kong, and Macau along with over 100 other destinations. The global plan includes Saily's Virtual Location feature (powered by NordVPN infrastructure), which provides built-in firewall bypass in China. The 10 GB global plan is $34.99 for 30 days. Saily is the strongest option if you want a single plan for a world trip that includes China, because the VPN infrastructure is baked into the eSIM connection itself.
 
-**Roami Multi-Region Plans:** Roami offers multi-country plans that cover mainland China, Hong Kong, and Macau in a single eSIM profile with automatic network switching. When you cross from mainland China into Hong Kong, the eSIM automatically registers on the local Hong Kong network without requiring a separate profile or manual intervention. Pricing starts at $4.00 for 1 GB and scales up to 20 GB for longer trips. All plans include automatic carrier switching between China Mobile, Unicom, and Telecom in mainland China, plus CMHK in Hong Kong and CTM in Macau. You can test the experience first with a [free trial](/free-esim/) to confirm compatibility with your device before purchasing a full plan. Use code **WEB20** at checkout for a discount on your first multi-country plan.
+**Roami Multi-Region Plans:** Roami offers multi-country plans that cover mainland China, Hong Kong, and Macau in a single eSIM profile with automatic network switching. When you cross from mainland China into Hong Kong, the eSIM automatically registers on the local Hong Kong network without requiring a separate profile or manual intervention. Pricing starts at $4.00 for 1 GB and scales up to 20 GB for longer trips. All plans include automatic carrier switching between China Mobile, Unicom, and Telecom in mainland China, plus CMHK in Hong Kong and CTM in Macau. You can test the experience first with a [free eSIM plan](/free-esim/) to confirm compatibility with your device before purchasing a full plan. Use code **WEB20** at checkout for a discount on your first multi-country plan.
 
 Roami's automatic cross-border switching addresses the most common problem travelers face when moving between these territories — the connection drop at the border that requires manual network selection or re-activation. For a [China eSIM](/china-esim/) that handles the China-Hong Kong-Macau corridor without manual intervention, Roami is worth serious consideration.
 
@@ -372,7 +327,7 @@ A traveler flying into Hong Kong, spending 2 days there, taking the ferry to Mac
 |----------|------|-------|----------|
 | 3HK | 10 GB / 8 days | ~$25 | China, HK, Macau only |
 | Holafly | 10 days unlimited | $44 | 16 Asia countries including China, HK, Macau |
-| an eSIM for China | 10 GB / 30 days | ~$28 | China, HK, Macau with auto-switching |
+| Roami | 10 GB / 30 days | ~$28 | China, HK, Macau with auto-switching |
 | Airalo Asia | 10 GB / 30 days | $28 | 22 Asia countries (no VPN in China) |
 | **Best: Roami 10 GB** | | **~$28** | |
 
@@ -435,7 +390,7 @@ A traveler covering five destinations across three weeks.
 **Summary Table**
 | Trip Type | Best Single eSIM | Single Price | Separate Price | Winner |
 |-----------|-----------------|-------------|---------------|--------|
-| China + HK + Macau (10 days) | an eSIM for China 10 GB | ~$28 | ~$24 | Separate (but multi-country is worth the $4) |
+| China + HK + Macau (10 days) | Roami 10 GB | ~$28 | ~$24 | Separate (but multi-country is worth the $4) |
 | Japan + China + HK (14 days) | Airalo Asia 10 GB | $28 | ~$40 | Single (Airalo Asia) |
 | China + Japan + Thailand + Singapore (21 days) | Airalo Asia 20 GB | $49 | ~$55 | Single (Airalo Asia) |
 | China + HK + Macau + 5+ Asia (21+ days) | Holafly Asia 20 days | $65 | ~$65+ | Single (convenience) |
@@ -450,15 +405,15 @@ Every itinerary has a different optimal eSIM strategy. Here is how the recommend
 If your trip is entirely within mainland China — no Hong Kong, no Macau, no other Asian countries — the decision is straightforward. Use a China-specific eSIM that includes built-in firewall bypass.
 
 **Best options:**
-- **Saily** — Best overall for firewall bypass (NordVPN infrastructure built in), automatic carrier switching across all three Chinese networks. Pricing from $4.49 for 1 GB.
+- **Saily** — Best overall for firewall bypass (NordVPN-powered Virtual Location), carrier switching across China Unicom and China Mobile. Pricing from $4.49 for 1 GB.
 - **Holafly** — Best for unlimited data with included VPN. From $3.90/day.
-- **Roami** — Strong option with multi-carrier support for the [China eSIM](/china-esim/) use case. Auto-switches between China Mobile, Unicom, and Telecom.
+- **Roami** — Strong option with multi-carrier support for the [China eSIM with 5G](/china-esim/) use case. Auto-switches between China Mobile, Unicom, and Telecom.
 
 **Why not a regional plan:** A China-only eSIM at $14.99 for 5 GB (Saily) is significantly cheaper than a regional Asia plan that covers China plus 21 other countries you won't visit. You are not paying for unused coverage.
 
 **When to reconsider:** If you have any chance of a last-minute side trip to Hong Kong or Macau, the multi-country option is worth the small premium. It is easier to add coverage proactively than to buy and install a Hong Kong eSIM while already in China.
 
-For the full China-only recommendation, see the [China eSIM travel type guide](/blog/china-esim-travel-type-guide/).
+For the full China-only recommendation, see the [China eSIM traveler guide](/blog/china-esim-travel-type-guide/).
 
 **China + Hong Kong Trip (No Macau)**
 This is the most common multi-territory itinerary, especially for travelers flying into Hong Kong International Airport and crossing into mainland China.
@@ -468,7 +423,7 @@ This is the most common multi-territory itinerary, especially for travelers flyi
 - **3HK China + HK plan** — Hong Kong-based, strong coverage in both territories. The 10 GB / 8-day plan at ~$25 is a good fit for a 1-2 week trip.
 - **Separate eSIMs** — A China eSIM (Saily or Holafly) for mainland + a Hong Kong eSIM (Airalo HK for $4.50) is the cheapest option at around $20 for moderate data users.
 
-If Hong Kong is your only destination on the trip, the **best eSIM for Hong Kong** is a standalone Hong Kong plan rather than a Greater China bundle — you'll avoid paying for mainland coverage you won't use. The China + Hong Kong combo options above only make sense when you're actually crossing the border into mainland China.
+If Hong Kong is your only destination on the trip, the best eSIM for Hong Kong is a standalone Hong Kong plan rather than a Greater China bundle — you'll avoid paying for mainland coverage you won't use. The China + Hong Kong combo options above only make sense when you're actually crossing the border into mainland China.
 
 **Key consideration:** If you're flying into Hong Kong and then crossing to mainland China, you need an eSIM that activates on Hong Kong's network first. 3HK and CMHK both require initial activation in Hong Kong. If you prefer to install and activate everything before you leave home, choose a global eSIM provider.
 
@@ -518,13 +473,13 @@ The internet environment changes dramatically between mainland China, Hong Kong,
 
 **Advice:** If your trip includes both mainland China and open-internet territories, choose an eSIM that has been specifically tested for cross-border China use. The cheapest regional plan may save money but cause frustration at the border. Providers like Roami and 3HK that are based in Hong Kong generally handle the cross-border routing better than global providers that treat China as just another destination in a 100-country list.
 
-For a more detailed explanation of how eSIMs handle the Great Firewall, see the [China eSIM VPN and firewall guide](/blog/china-esim-vpn-firewall-guide/).
+For a more detailed explanation of how eSIMs handle the Great Firewall, see the [China eSIM VPN guide](/blog/china-esim-vpn-firewall-guide/).
 
 ---
 
 ## eSIM Coverage Across Hong Kong and Macau
 
-**Hong Kong Macau coverage** is comprehensive with all local carriers. If you're using a multi-country eSIM that covers Hong Kong and Macau, here is what to expect for signal quality in each territory.
+Hong Kong Macau coverage is comprehensive with all local carriers. If you're using a multi-country eSIM that covers Hong Kong and Macau, here is what to expect for signal quality in each territory.
 
 **Hong Kong Coverage**
 Hong Kong has excellent mobile infrastructure across all carriers. CMHK, 3HK, SmarTone, and CSL all provide comprehensive 4G and 5G coverage across the territory, including:
@@ -547,7 +502,7 @@ Macau is smaller than Hong Kong and has less complex geography, which makes mobi
 
 CTM is Macau's dominant carrier with the widest coverage. Most regional eSIMs connect to CTM in Macau. Speed is generally good, though Macau's crowded casino areas can slow data during peak hours — expect slower speeds in dense casino crowds than elsewhere.
 
-For a full breakdown of eSIM coverage across all three territories, see the [China eSIM coverage guide](/blog/china-esim-coverage-cities-trains-5g/), which includes specific signal assessments for Hong Kong and Macau.
+For a full breakdown of eSIM coverage across all three territories, see the [China eSIM coverage](/blog/china-esim-coverage-cities-trains-5g/), which includes specific signal assessments for Hong Kong and Macau.
 
 ---
 
@@ -635,7 +590,7 @@ For a trip covering all three territories, the recommendation is:
 
 For the full breakdown of how these providers compare on price, speed, and coverage, see the [China eSIM provider ranking and comparison](/blog/china-esim-provider-ranking-comparison/).
 
-If you're starting from the [China eSIM complete guide](/blog/china-esim-complete-guide/) and need the multi-country specifics, this article serves as the deep-dive companion for multi-destination itineraries.
+If you're starting from the [China eSIM guide](/blog/china-esim-complete-guide/) and need the multi-country specifics, this article serves as the deep-dive companion for multi-destination itineraries.
 
 ---
 
@@ -643,7 +598,7 @@ If you're starting from the [China eSIM complete guide](/blog/china-esim-complet
 
 After comparing every provider, every pricing tier, and every cross-border scenario, here is the bottom-line recommendation by traveler type.
 
-**For the convenience-focused traveler visiting China + Hong Kong + Macau:** Get a single [China eSIM](/china-esim/) that handles all three territories, like Roami or 3HK. The ~$28-30 price for 10 GB is a small premium over separate eSIMs for the enormous convenience of automatic cross-border switching. You land, you turn on data, and it works in all three territories without touching settings again. Use code **WEB20** for a discount on Roami's multi-country plans, and if you're unsure about device compatibility, take advantage of their [free trial](/free-esim/) to test before committing.
+**For the convenience-focused traveler visiting China + Hong Kong + Macau:** Get a single [China eSIM plan](/china-esim/) that handles all three territories, like Roami or 3HK. The ~$28-30 price for 10 GB is a small premium over separate eSIMs for the enormous convenience of automatic cross-border switching. You land, you turn on data, and it works in all three territories without touching settings again. Use code **WEB20** for a discount on Roami's multi-country plans, and if you're unsure about device compatibility, take advantage of their [free eSIM data](/free-esim/) to test before committing.
 
 **For the budget traveler visiting China + Hong Kong + Macau:** Buy a China-only eSIM (Saily at $14.99 for 5 GB) and a Hong Kong/Macau eSIM (Airalo at $4.50 each). Total: ~$24 for 7 GB across all three territories. The savings are modest ($4-6), but every dollar counts for budget travel. Just be prepared to manually switch between eSIM profiles at each border.
 
@@ -651,42 +606,9 @@ After comparing every provider, every pricing tier, and every cross-border scena
 
 **For the long-term traveler visiting Asia for 30+ days:** Holafly's 90-day unlimited Asia plan at $149 is the most cost-effective option for a multi-month trip. The built-in VPN in China, unlimited data across 16 countries, and single-profile convenience justify the price for extended travel.
 
-**For the business traveler crossing between Hong Kong and mainland China frequently:** A [China eSIM](/china-esim/) with automatic network switching, like Roami's multi-region plan, is worth the investment. The ability to maintain connectivity during border crossings, along with the automatic carrier switching in mainland China (China Mobile, Unicom, Telecom), means you're never in a situation where you need to troubleshoot network settings before an important call.
+**For the business traveler crossing between Hong Kong and mainland China frequently:** A [China eSIM plan](/china-esim/) with automatic network switching, like Roami's multi-region plan, is worth the investment. The ability to maintain connectivity during border crossings, along with the automatic carrier switching in mainland China (China Mobile, Unicom, Telecom), means you're never in a situation where you need to troubleshoot network settings before an important call.
 
 The most important rule for any multi-country China trip: **do not assume your eSIM will work across borders.** Verify coverage for each destination before purchasing, install all profiles before you leave home, and always have a backup plan for the first hour after crossing into a new territory.
 
 
 See [Apple Support](https://support.apple.com/en-us/HT212780) for eSIM-compatible devices. The [GSMA](https://www.gsma.com) defines global eSIM standards.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does a China eSIM work in Hong Kong and Macau?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Not automatically. Mainland China, Hong Kong, and Macau are separate telecom territories with separate regulators. A mainland-only China eSIM will not roam into Hong Kong or Macau. For cross-border trips, choose a multi-country or regional Asia plan that explicitly lists all three territories."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Which eSIM covers China, Hong Kong, and Macau together?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Regional and multi-country plans such as 3HK and CMHK cover China, Hong Kong, and Macau in a single plan. Check the plan's country list before buying, since not all regional plans include all three."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does a Hong Kong eSIM bypass the Great Firewall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. A Hong Kong-routed eSIM exits your traffic through Hong Kong's internet infrastructure, which is not subject to the Great Firewall, so blocked services load normally without a separate VPN."
-      }
-    }
-  ]
-}
-</script>

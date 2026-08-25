@@ -1,11 +1,11 @@
 ---
-title: "Japan SIM Card Guide 2026: Where to Buy & Best Plans"
-description: "Japan SIM card guide 2026. Where to buy prepaid SIMs at airports, BIC Camera and convenience stores. Compare IIJmio, Mobal, Sakura Mobile and b-mobile."
+title: "Japan SIM Card Guide: Where to Buy and Best Plans"
+description: "Japan SIM card guide. Where to buy prepaid SIMs at airports, BIC Camera and convenience stores. Compare IIJmio, Mobal and Sakura."
 keywords: ["japan sim card", "sim card japan", "japan travel sim", "buy sim card japan", "japan prepaid sim", "japan data sim", "japanese sim card", "sim card for japan travel", "japan sim card price", "japan sim card cost", "best sim card for japan", "international sim card japan", "japan tourist sim", "japan unlimited sim", "japan sim card iphone", "where to buy sim card japan"]
-date: 2026-08-10T00:00:00Z
-lastmod: 2026-08-21T00:00:00Z
+date: 2026-08-24T00:00:00Z
+lastmod: 2026-08-24T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
+authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/japan-sim-card-guide.jpg"
 categories: ["Japan", "SIM Card", "Travel", "Guide"]
 tags: ["Japan SIM", "Physical SIM", "Travel", "Guide"]
@@ -60,12 +60,9 @@ recentPosts:
 ---
 
 
-# Japan SIM Card Guide 2026: Where to Buy, Prices, and Best Plans
-
-**Last Updated:** August 8, 2026 | Reading time: 14 minutes
-
-
 ## Introduction: Why a Physical SIM Still Matters in 2026
+
+> **Key takeaways:** Physical SIM cards remain a reliable option in Japan, with b-mobile the budget pick at $13 for 5GB over 10 days and IIJmio's BIC SIM the best value for moderate users at $16.50 for 3GB over 30 days. Choose Mobal if you need a Japanese phone number or Sakura Mobile for unlimited data. Since April 2026, Japan requires a passport or residence card for every SIM and eSIM purchase, so keep your physical passport with you when you buy.
 
 In 2026, eSIM has become the default choice for most travelers with modern smartphones. It's faster, more convenient, and often cheaper. But what if your phone doesn't support eSIM? What if you're traveling with an older device, or you simply prefer the familiarity of a physical card?
 

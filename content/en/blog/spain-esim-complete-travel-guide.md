@@ -1,11 +1,11 @@
 ---
-title: "Spain eSIM Guide: Plans, Pricing & Setup"
-description: "Spain eSIM Guide 2026: Compare Movistar, Orange & Vodafone plans, pricing, and setup. Get travel tips and find the best network coverage for your trip"
+title: "Spain eSIM Travel Guide: Plans, Pricing and Setup"
+description: "Spain eSIM guide: compare Movistar, Orange and Vodafone plans, pricing and setup. Find the best network coverage and travel tips."
 keywords: ["Spain eSIM guide", "Spain travel eSIM", "Spain eSIM plans"]
-date: 2026-08-19T00:00:00Z
-lastmod: 2026-08-19T00:00:00Z
+date: 2026-08-24T00:00:00Z
+lastmod: 2026-08-24T00:00:00Z
 author: "Roami Team"
-authorBio: "Our multi‑network eSIM automatically switches between Movistar, Orange, Vodafone, and Yoigo for the best coverage."
+authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/spain/spain-esim-complete-travel-guide.jpg"
 categories: ["Spain", "eSIM", "Travel"]
 tags: ["Spain eSIM", "Travel eSIM", "Guide"]
@@ -279,12 +279,12 @@ Multi-network 10GB plan (USD 22) offers the best balance of data, coverage, and 
 
 We maintain a full library of Spain eSIM guides, each focused on a specific traveler need. Follow the links below to go deeper on any topic:
 
-- **[Spain eSIM coverage guide](/blog/spain-esim-coverage-cities-ave-beaches-islands/)** — carrier performance across 18 cities, AVE routes, beaches, and the Canary & Balearic Islands.
+- **[Spain eSIM coverage](/blog/spain-esim-coverage-cities-ave-beaches-islands/)** — carrier performance across 18 cities, AVE routes, beaches, and the Canary & Balearic Islands.
 - **[Movistar vs Orange vs Vodafone comparison](/blog/spain-esim-movistar-orange-vodafone-comparison/)** — a deep dive into each network's strengths and weaknesses.
 - **[Cheapest Spain eSIM price guide](/blog/spain-esim-price-guide-cheapest-plans/)** — per-GB pricing across local carriers and international providers.
 - **[Airalo vs Holafly vs Nomad comparison](/blog/spain-esim-providers-airalo-holafly-nomad-comparison/)** — a side-by-side provider ranking.
 - **[Spain unlimited data eSIM guide](/blog/spain-esim-unlimited-data-5g-plans/)** — fair-usage policies and 5G speeds explained.
-- **[Spain eSIM with phone number guide](/blog/spain-esim-with-phone-number/)** — how to get a Spanish +34 number for calls and SMS.
+- **[Spain eSIM with phone number](/blog/spain-esim-with-phone-number/)** — how to get a Spanish +34 number for calls and SMS.
 - **[Spain eSIM installation & activation guide](/blog/spain-esim-installation-activation-setup/)** — step-by-step setup for iPhone and Android.
 - **[Spain eSIM dual SIM guide](/blog/spain-esim-dual-sim-multi-device/)** — keep your home number while using Spanish data.
 - **[Spain eSIM troubleshooting guide](/blog/spain-esim-troubleshooting-fix-guide/)** — fix no-signal, APN, and activation issues.

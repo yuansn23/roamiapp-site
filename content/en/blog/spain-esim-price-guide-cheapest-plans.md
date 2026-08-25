@@ -1,11 +1,11 @@
 ---
-title: "Cheapest Spain eSIM: Per-GB Price Comparison"
-description: "Find the cheapest Spain eSIM plans. Compare 1–50GB options and per-GB costs for Movistar, Orange & Vodafone vs Airalo, Holafly & Nomad."
+title: "Cheapest Spain eSIM: Per-GB Price Comparison Guide"
+description: "Find the cheapest Spain eSIM. Compare 1-50GB plans and per-GB cost for Movistar, Orange and Vodafone vs Airalo, Holafly and Nomad."
 keywords: ["cheapest Spain eSIM", "Spain eSIM price", "Spain eSIM plans comparison", "Spain eSIM cost per GB", "budget Spain eSIM", "best value Spain eSIM", "Spain eSIM 30-day", "Spain eSIM 7-day", "Spain eSIM deals"]
-date: 2026-08-19T00:00:00Z
-lastmod: 2026-08-19T00:00:00Z
+date: 2026-08-24T00:00:00Z
+lastmod: 2026-08-24T00:00:00Z
 author: "Roami Team"
-authorBio: "Our multi‑network eSIM automatically switches between Movistar, Orange, Vodafone, and Yoigo for the best coverage."
+authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/spain/spain-esim-price-guide-cheapest-plans.jpg"
 categories: ["Spain", "eSIM", "Travel"]
 tags: ["Spain eSIM", "Travel eSIM", "Price Comparison"]
@@ -373,7 +373,7 @@ This guide was written by the **Roami Team**, a licensed MVNO with direct carrie
 
 We update this guide regularly (last updated: August 2026). For official coverage maps, check the websites of Movistar, Orange, Vodafone, and Yoigo. For EU roaming rules, refer to the official [EU Roaming](https://europa.eu/youreurope/citizens/travel/consumer-rights/roaming-tariffs/index_en.htm) information. For device compatibility, consult the [GSMA](https://www.gsma.com/esim/) eSIM list.
 
-For more detailed coverage information, see our [Spain coverage guide](/blog/spain-esim-coverage-cities-ave-beaches-islands/). For setup instructions, see our [Spain eSIM installation guide](/blog/spain-esim-installation-activation-setup/). For troubleshooting, see our [Spain eSIM troubleshooting guide](/blog/spain-esim-troubleshooting-fix-guide/). For a full provider comparison, see our [Spain eSIM comparison table](/blog/spain-esim-providers-airalo-holafly-nomad-comparison/). For a complete overview of Spain eSIM plans, start with our [Spain eSIM guide](/blog/spain-esim-complete-travel-guide/).
+For more detailed coverage information, see our [Spain coverage guide](/blog/spain-esim-coverage-cities-ave-beaches-islands/). For setup instructions, see our [Spain eSIM installation guide](/blog/spain-esim-installation-activation-setup/). For troubleshooting, see our [Spain eSIM troubleshooting guide](/blog/spain-esim-troubleshooting-fix-guide/). For a full provider comparison, see our [Spain eSIM comparison table](/blog/spain-esim-providers-airalo-holafly-nomad-comparison/). For a complete overview of Spain eSIM plans, start with our [Spain eSIM overview](/blog/spain-esim-complete-travel-guide/).
 
 ---
 

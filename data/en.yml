@@ -21,11 +21,6 @@ related_products:
       price: From $1.99
       is_highlight: false
       slug: japan-esim
-    - name: India eSIM
-      flag: img/flags/in.svg
-      price: From $1.99
-      is_highlight: false
-      slug: india-esim
     - name: UK eSIM
       flag: img/flags/gb.svg
       price: From $1.99

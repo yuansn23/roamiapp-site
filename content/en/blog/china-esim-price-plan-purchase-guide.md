@@ -1,19 +1,18 @@
 ﻿---
 title: "China eSIM Prices: Cheapest Plans Compared for Travel"
-description: "From $3 for 1GB to $85 for unlimited 30-day plans, China eSIM pricing varies. Roami compares provider rates, 5G costs, promo codes, and value options."
+description: "Compare China eSIM prices by provider, data tier, and trip length, from 1GB to unlimited plans, plus 5G costs and promo codes."
 keywords: ["China eSIM price", "cheapest China eSIM", "China eSIM unlimited", "China eSIM promo code", "China eSIM 5G", "China eSIM prepaid", "China eSIM Hong Kong routing", "China eSIM data plan"]
-date: 2026-08-02T00:00:00Z
-lastmod: 2026-08-02T00:00:00Z
+date: 2026-08-24T00:00:00Z
+lastmod: 2026-08-24T00:00:00Z
 author: "Roami Team"
-authorBio: "Roami helps travelers stay connected globally with reliable eSIM plans featuring auto carrier switching across local networks."
+authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/china/china-esim-price-plan-purchase-guide.jpg"
 categories: ["China", "eSIM", "Travel"]
 tags: ["China eSIM", "Travel eSIM"]
-readingTime: 20
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "China eSIM Price and Purchase Guide"
+h1title: "China eSIM Prices: Cheapest Plans Compared for Travel"
 productsTitle: "Popular eSIM Plans"
 hotPostsTitle: "Hot Articles"
 recentPostsTitle: "Recent Posts"
@@ -68,7 +67,7 @@ Pricing overview for a Chinese eSIM or China eSIM plan:
 
 This guide provides a full price comparison table across all major providers, cheapest plans by data amount and duration, and 5G pricing and network performance data.
 
-This guide covers pricing per provider, per data tier, and per trip duration, plus where to buy (retailer versus direct), whether to buy before arrival or at the airport, and what promos and discounts are available right now. For a broader overview of how eSIMs work in China, see the [China eSIM complete guide](/blog/china-esim-complete-guide/).
+This guide covers pricing per provider, per data tier, and per trip duration, plus where to buy (retailer versus direct), whether to buy before arrival or at the airport, and what promos and discounts are available right now. For a broader overview of how eSIMs work in China, see the [China eSIM 101](/blog/china-esim-complete-guide/).
 
 ---
 
@@ -83,13 +82,14 @@ The table below covers every major eSIM provider offering China data plans in 20
 | **Airalo** | $4.50 | $9.00 | $13.00 | $20.00 | $34.00 | — | $32.00 | $52.00 | $85.00 | 30 days |
 | **Holafly** | — | — | — | — | — | — | $30.00 | $49.00 | $75.00 | Fixed |
 | **Nomad** | $3.50 | $8.00 | $12.50 | $18.00 | $29.00 | — | $28.00 | — | $69.00 | 30 days |
+| **Saily** | $4.49 | $9.99 | $14.99 | $24.99 | $42.99 | — | $29.99 | $49.99 | — | 30 days |
 | **Roami** | $4.00 | $7.50 | $11.00 | $16.00 | $26.00 | $5.99 | $26.00 | $45.00 | $65.00 | 30 days |
 | **Ubigi** | $3.00 | $7.00 | $10.00 | $17.00 | $30.00 | — | $25.00 | — | $60.00 | 30 days |
 | **China Unicom (Direct)** | $2.80 | $6.00 | $9.00 | $15.00 | $25.00 | — | — | — | $55.00 | 30 days |
 | **CMHK (Direct)** | $3.00 | $6.50 | $9.50 | $16.00 | $27.00 | — | — | — | $58.00 | 30 days |
 | **Klook** | $4.00 | $8.50 | $12.00 | $19.00 | $31.00 | — | $29.00 | $48.00 | $72.00 | 30 days |
 
-A few things stand out from this comparison. **China eSIM prepaid** plans from mainland carriers directly (China Unicom, CMHK) are consistently the cheapest on a per-GB basis, but they require Chinese ID verification for activation in some cases, which can be a hurdle for foreign tourists. Reseller platforms like Airalo and Holafly charge a markup but offer instant delivery and English-language support.
+A few things stand out from this comparison. Prepaid plans from mainland carriers directly (China Unicom, CMHK) are consistently the cheapest on a per-GB basis, but they require Chinese ID verification for activation in some cases, which can be a hurdle for foreign tourists. Reseller platforms like Airalo and Holafly charge a markup but offer instant delivery and English-language support.
 
 For most travelers, the sweet spot is a reseller that partners with Hong Kong–routed carriers. These give you mainland China network access (China Mobile, China Unicom, China Telecom) without the ID verification requirement, and prices are competitive.
 
@@ -116,7 +116,7 @@ For the lightest users — travelers making a quick visa run from Hong Kong, or 
 | Airalo | $4.50 | $4.50/GB | 30 days |
 | Klook | $4.00 | $4.00/GB | 30 days |
 
-The **cheapest China eSIM 1GB** comes from China Unicom direct at $2.80, but availability for non-Chinese residents varies by region. For hassle-free purchase, Ubigi at $3.00 is the best balance of low price and easy activation.
+The cheapest China eSIM 1GB plan comes from China Unicom direct at $2.80, but availability for non-Chinese residents varies by region. For hassle-free purchase, Ubigi at $3.00 is the best balance of low price and easy activation.
 
 **Cheapest China eSIM 3GB**
 Three gigabytes suits a 3–5 day city trip where you use navigation, social apps, and occasional video calls.
@@ -132,7 +132,7 @@ Three gigabytes suits a 3–5 day city trip where you use navigation, social app
 | Airalo | $9.00 | $3.00/GB | 30 days |
 
 **Cheapest China eSIM 5GB**
-Five gigabytes is the most commonly purchased tier for a one-week tourist trip. It provides enough data for maps, social media, messaging, and light video streaming. For a more detailed look at which plan fits your travel style, the [china esim](/china-esim/) plan finder breaks down recommendations by trip duration, data habits, and budget range.
+Five gigabytes is the most commonly purchased tier for a one-week tourist trip. It provides enough data for maps, social media, messaging, and light video streaming. For a more detailed look at which plan fits your travel style, the [China eSIM](/china-esim/) plan finder breaks down recommendations by trip duration, data habits, and budget range.
 
 | Provider | Price | Price per GB | Validity |
 |---|---|---|---|
@@ -158,7 +158,7 @@ Five gigabytes is the most commonly purchased tier for a one-week tourist trip. 
 At 10GB, Roami and Ubigi become very competitive with the direct carrier options, especially when you factor in the convenience of instant English-language activation.
 
 **Cheapest Unlimited 5G eSIM China**
-Unlimited data plans come in two flavors: daily unlimited passes and multi-day tourist unlimited plans. For a Roami unlimited experience at the best price, compare Holafly and Roami plans. **Cheapest unlimited 5G eSIM China** prices break down as follows:
+Unlimited data plans come in two flavors: daily unlimited passes and multi-day tourist unlimited plans. For a Roami unlimited experience at the best price, compare Holafly and Roami plans. Unlimited 5G eSIM prices break down as follows:
 
 | Provider | Plan | Price | Speed Cap | Hotspot |
 |---|---|---|---|---|
@@ -171,7 +171,7 @@ Unlimited data plans come in two flavors: daily unlimited passes and multi-day t
 | Airalo | 7 Days Unlimited | $32.00 | Unlimited (throttled after 1GB high-speed/day) | No |
 | Roami | 30 Days Unlimited | $65.00 | Unlimited (throttled after 1GB high-speed/day) | Yes |
 
-A major differentiator at the unlimited tier is hotspot support. Holafly explicitly blocks hotspot/tethering on its unlimited China plans. If you need a **China eSIM with unlimited hotspot tethering**, Roami and some Airalo plans support it, which matters if you want to share connectivity with a laptop or tablet.
+A major differentiator at the unlimited tier is hotspot support. Holafly explicitly blocks hotspot/tethering on its unlimited China plans. If you need a China eSIM with unlimited hotspot tethering, Roami and some Airalo plans support it, which matters if you want to share connectivity with a laptop or tablet.
 
 For the "unlimited but throttled" plans, the typical fair-use cap is 1GB per day at full speed, then reduced to approximately 128–256 kbps — enough for messaging and text-based navigation, but not for video.
 
@@ -189,7 +189,7 @@ Trip length dictates which plan gives you the best value. Buying a 30-day plan f
 | Roami Unlimited Daily (3 days) | $17.97 | $5.99/day | Unlimited (1GB high-speed/day) |
 | Nomad 3GB 30d | $8.00 | $2.67 | 3GB total |
 
-For a 2–3 day trip where you just need basic connectivity, the **best eSIM for China short trip** is a small fixed-data plan like Ubigi's 3GB at $7.00. You won't use 1GB per day on a short city visit, so the unlimited daily plans are overkill.
+For a 2–3 day trip where you just need basic connectivity, the best eSIM for a China short trip is a small fixed-data plan like Ubigi's 3GB at $7.00. You won't use 1GB per day on a short city visit, so the unlimited daily plans are overkill.
 
 **China eSIM 7 Day Tourist Plan Price**
 The 7-day tier is the most competitive segment in the market. Nearly every provider offers a dedicated 7-day plan.
@@ -204,7 +204,7 @@ The 7-day tier is the most competitive segment in the market. Nearly every provi
 | Holafly | 7 Days Unlimited | $30.00 | $4.29 | Unlimited (throttled) |
 | Klook | 7 Days Unlimited | $29.00 | $4.14 | Unlimited (throttled) |
 
-The **China eSIM 7 day tourist plan price** ranges from $10.00 (Ubigi 5GB) to $32.00 (Airalo unlimited). For most tourists, a fixed 5GB plan at $10–12 is the better call — you get enough data for a week without paying for "unlimited" that you won't fully use at throttled speeds. **Best for 7-day trips: Roami's 5GB at $11.00.** The built-in VPN routing means Google Maps and WhatsApp work from the moment you land — Ubigi's $10 plan is cheaper on the sticker but leaves you needing a separate VPN, which erases the dollar difference.
+China eSIM 7-day tourist plan prices range from $10.00 (Ubigi 5GB) to $32.00 (Airalo unlimited). For most tourists, a fixed 5GB plan at $10–12 is the better call — you get enough data for a week without paying for "unlimited" that you won't fully use at throttled speeds. **Best for 7-day trips: Roami's 5GB at $11.00.** Roami's Hong Kong routing means Google Maps and WhatsApp work from the moment you land — Ubigi's $10 plan is cheaper on the sticker but leaves you needing a separate VPN, which erases the dollar difference.
 
 **China eSIM for 2 Week Vacation Budget**
 Two-week trips benefit from plans that offer 10GB+ of data or 15-day unlimited windows.
@@ -218,7 +218,7 @@ Two-week trips benefit from plans that offer 10GB+ of data or 15-day unlimited w
 | Airalo 10GB 30d | $20.00 | $1.43 | 10GB |
 | Klook 15 Days Unlimited | $48.00 | $3.20 | Unlimited (throttled) |
 
-If you're budgeting for a **China eSIM for 2 week vacation budget**, a 10GB fixed plan at $16–17 is usually sufficient and costs about half of an unlimited 15-day plan. If you plan to hotspot or stream video, the Roami 15 Days Unlimited at $45.00 (with hotspot support) becomes the better value.
+If you're budgeting for a China eSIM for a two-week vacation, a 10GB fixed plan at $16–17 is usually sufficient and costs about half of an unlimited 15-day plan. If you plan to hotspot or stream video, the Roami 15 Days Unlimited at $45.00 (with hotspot support) becomes the better value.
 
 **Best Value China eSIM for 30 Days**
 For stays of a month or longer, the cost of a 30-day prepaid plan varies significantly by provider.
@@ -232,7 +232,7 @@ For stays of a month or longer, the cost of a 30-day prepaid plan varies signifi
 | Holafly 30d Unlimited | $75.00 | $2.50 | Unlimited (throttled) |
 | Nomad 30d 10GB | $69.00 | $2.30 | 10GB |
 
-The **best value China eSIM for 30 days** for most travelers is Roami's 30-day unlimited at $65 (with hotspot) or Ubigi's at $60. For lighter users, a Nomad 10GB at $18 (30-day validity) is actually the cheapest option by far — $0.60 per day — but 10GB over 30 days requires discipline.
+The best-value China eSIM for 30 days for most travelers is Roami's 30-day unlimited at $65 (with hotspot) or Ubigi's at $60. For lighter users, a Nomad 10GB at $18 (30-day validity) is actually the cheapest option by far — $0.60 per day — but 10GB over 30 days requires discipline.
 
 ---
 
@@ -242,20 +242,20 @@ All major eSIM providers for China route through carriers that support 5G. Howev
 
 | Provider | Network | 5G Support | Max Speed | Throttle Policy | Price (5GB) |
 |---|---|---|---|---|---|
-| Airalo | China Mobile | Yes | Fast | After data cap | $13.00 |
-| Holafly | China Unicom | Yes | Fast | 1GB/day fair use | $30.00 (unl. 7d) |
-| Nomad | China Mobile | Yes | Fast | After data cap | $12.50 |
-| Roami | China Mobile/Unicom | Yes | Very fast | 1GB/day high-speed on unlimited | $11.00 |
-| Ubigi | China Mobile | Yes | Very fast | After data cap | $10.00 |
+| Airalo | China Unicom | Yes | Fast | After data cap | $13.00 |
+| Holafly | China Mobile | Yes | Fast | 1GB/day fair use | $30.00 (unl. 7d) |
+| Nomad | China Unicom/Telecom | Yes | Fast | After data cap | $12.50 |
+| Roami | China Mobile/Unicom/Telecom | Yes | Very fast | 1GB/day high-speed on unlimited | $11.00 |
+| Ubigi | China Telecom | Yes | Very fast | After data cap | $10.00 |
 | China Unicom Direct | China Unicom | Yes | Fastest | After data cap | $9.00 |
 
-The **China eSIM 5G high speed plan cost** doesn't vary dramatically between providers at the same data tier. However, the speed experience once you exceed a fair-use threshold varies significantly.
+China eSIM 5G plan costs don't vary dramatically between providers at the same data tier. However, the speed experience once you exceed a fair-use threshold varies significantly.
 
 - **Fixed-data plans** (Nomad, Ubigi, Roami fixed tiers): full 5G speed until you consume all purchased data, then zero (or top-up).
 - **Unlimited plans with fair use** (Holafly, Airalo, Roami unlimited): 5G speed for the first ~1GB per day, then throttled to around 128 kbps.
 - **Direct carrier plans**: generally offer the highest peak speeds because there's no intermediate routing.
 
-A note on **China eSIM Hong Kong routing plan price**: many eSIMs for China route through Hong Kong carriers (CMHK, China Unicom HK). These plans connect to mainland towers via roaming agreements. Speed with Hong Kong–routed plans is typically fast, which is ample for video calls, HD streaming, and social media. Direct carrier plans are faster still in major cities like Shanghai and Beijing. For most travelers, the difference is indistinguishable from full-speed 5G in daily use.
+A note on China eSIM Hong Kong routing plan prices: many eSIMs for China route through Hong Kong carriers (CMHK, China Unicom HK). These plans connect to mainland towers via roaming agreements. Speed with Hong Kong–routed plans is typically fast, which is ample for video calls, HD streaming, and social media. Direct carrier plans are faster still in major cities like Shanghai and Beijing. For most travelers, the difference is indistinguishable from full-speed 5G in daily use.
 
 ---
 
@@ -263,23 +263,26 @@ A note on **China eSIM Hong Kong routing plan price**: many eSIMs for China rout
 
 China's Great Firewall blocks Google, Facebook, Instagram, WhatsApp, and many other Western services. Every traveler to China needs a VPN to access these services. Some eSIM providers now bundle VPN functionality directly into the plan.
 
-**Providers with Built-in VPN**
-| Provider | VPN Included? | VPN Method | Price Premium vs Non-VPN |
-|---|---|---|---|
-| Roami | Yes | Built-in routing (automatic) | $0 — included at no extra cost |
-| Holafly | No | N/A | N/A |
-| Airalo | No | N/A | N/A |
-| Nomad | No | N/A | N/A |
-| Ubigi | No | N/A | N/A |
+**Providers with Built-in VPN or Firewall Bypass**
+| Provider | VPN / Bypass | Method |
+|---|---|---|
+| Roami | Yes | Hong Kong routing + auto carrier switching |
+| Jetpac | Yes | Built-in VPN (China eSIM only) |
+| Yesim | Yes (iOS only) | Built-in VPN |
+| Saily | Yes | Virtual Location (NordVPN-powered routing) |
+| Holafly | Partial | China Mobile partnership — bypass can be hit-or-miss |
+| Airalo | No (routing) | Routes via Hong Kong/international gateway |
+| Nomad | No (routing) | Routes via Singapore exit |
+| Ubigi | No | Does not bypass the firewall — separate VPN needed |
 
-Roami is currently the only major China eSIM provider that includes VPN routing at the network level — no app download, no configuration. Your traffic is routed through their Hong Kong gateway, which means Google, WhatsApp, and Instagram work out of the box.
+Not all China eSIMs bypass the Great Firewall the same way. Roami and Airalo rely on Hong Kong or international routing so Google, WhatsApp, and Instagram work without a VPN app. Jetpac and Yesim (iOS) bundle a true VPN into the plan, and Saily offers its NordVPN-powered Virtual Location feature. Ubigi does not bypass the firewall at all, so you would still need a separate VPN.
 
-The **China eSIM with built in VPN price** is effectively the same as Roami's standard plans. A 5GB plan at $11.00 includes VPN routing. Compare this to buying a standalone VPN:
+A China eSIM with built-in firewall bypass costs about the same as Roami's standard plans. A 5GB plan at $11.00 includes Hong Kong routing. Compare this to buying a standalone VPN:
 
 | Scenario | Cost |
 |---|---|
 | Cheapest standalone VPN (monthly) | $5.00–$12.00 |
-| Cheapest **china esim** with VPN (5GB) | $11.00 |
+| Cheapest China eSIM with bypass (5GB) | $11.00 |
 | Separately: cheapest 5GB eSIM + VPN | $3.50 + $5.00 = $8.50 minimum |
 
 If you already have a VPN subscription, buying any eSIM and layering your own VPN on top is slightly cheaper ($8.50 combined). If you don't have a VPN, buying a plan with built-in VPN saves you the hassle of setting up a separate VPN that works inside China — and many consumer VPNs have unreliable performance behind the firewall.
@@ -298,7 +301,7 @@ For stays exceeding two weeks, the economics shift. Daily unlimited plans become
 | CMHK Direct | 50GB | $75.00 | $1.50/GB | 30 days | ID verification needed |
 | Roami | 20GB | $26.00 | $1.30/GB | 30 days | Includes VPN, hotspot |
 
-For a **China eSIM 50GB long stay plan**, the direct carrier options are cheapest but hard for non-residents to purchase. Among reseller plans, Roami's 50GB at $80 is the best value when you factor in included VPN routing and hotspot support.
+For a China eSIM 50GB long-stay plan, the direct carrier options are cheapest but hard for non-residents to purchase. Among reseller plans, Roami's 50GB at $80 is the best value when you factor in included VPN routing and hotspot support.
 
 If you're staying 30+ days and willing to top up mid-stay, buying two 20GB or 25GB plans can be cheaper than a single 50GB plan. For example, two Roami 20GB plans cost $52.00 total (vs $80 for 50GB) and give you 40GB — enough for most users.
 
@@ -328,7 +331,7 @@ A common question for travelers in groups: can one eSIM plan be shared across mu
 | Klook | Varies | 1–5 devices | Depends on underlying carrier |
 | China Unicom Direct | Yes | 1 device | Standard single-device |
 
-There is no true multi-device eSIM plan specifically labeled as a **China eSIM family group plan share** product. However, using hotspot functionality on a plan that supports it effectively achieves the same result. If you're traveling with family:
+There is no true multi-device eSIM plan sold specifically as a China eSIM family group-share product. However, using hotspot functionality on a plan that supports it effectively achieves the same result. If you're traveling with family:
 
 - **One tethering-capable plan + hotspot**: Buy a single plan with hotspot (Roami or Airalo), install it on one phone, and share via Wi-Fi hotspot. This is the most cost-effective approach for families.
 - **Individual plans**: If your group frequently splits up during the day, individual plans are better. Use a promo code to lower the per-person cost.
@@ -350,7 +353,7 @@ The one caveat with hotspot sharing: battery drain on the host phone is signific
 
 ## 8. Where to Buy China eSIM Online — Airalo vs Klook vs Provider Direct Price Differences
 
-The **best place to buy China eSIM online** depends on whether you prioritize lowest price, instant activation, or customer support. Here is how the major sales channels compare.
+The best place to buy a China eSIM online depends on whether you prioritize lowest price, instant activation, or customer support. Here is how the major sales channels compare.
 
 **Provider Direct (China Unicom, CMHK)**
 - **Price**: Lowest of all channels. A 5GB plan costs $9.00–$9.50.
@@ -432,7 +435,7 @@ The price difference between the cheapest and most expensive channel for the sam
 
 **Verdict: Buy before travel.** The advantages are clear — lower prices, no queuing, and the comfort of setting everything up on your home Wi-Fi. The only scenario where airport purchase makes sense is if your flight lands late and you need connectivity within minutes, or if you're unsure about phone compatibility and want to confirm with a human before paying.
 
-For a deeper look at the cost differences, see the detailed [China eSIM vs physical SIM roaming](/blog/china-esim-vs-physical-sim-roaming/) comparison, which breaks down the numbers across all three options. Before you travel, make sure your device is compatible — the [china esim](/china-esim/) setup guide includes a device compatibility checker and step-by-step installation instructions for both iOS and Android.
+For a deeper look at the cost differences, see the detailed [China eSIM vs physical SIM roaming](/blog/china-esim-vs-physical-sim-roaming/) comparison, which breaks down the numbers across all three options. Before you travel, make sure your device is compatible — the [China eSIM](/china-esim/) setup guide includes a device compatibility checker and step-by-step installation instructions for both iOS and Android.
 
 ---
 
@@ -483,7 +486,7 @@ Several China eSIM providers run ongoing promotions. Here are the active discoun
 | Holafly | 5% off banner promos | 5% off | Unlimited plans | Seasonal, check site |
 | Klook | MERRO5P | 5% off | Select plans | Platform-wide promo |
 
-If you're looking for a **China eSIM promo code discount**, the strongest single discount available is the Roami **WEB20** code for 20% off any plan. Applied to a 30-day unlimited plan at $65, that brings it to $52 — undercutting the direct carrier price for the same validity period.
+If you're looking for a China eSIM promo code, the strongest single discount available is the Roami **WEB20** code for 20% off any plan. Applied to a 30-day unlimited plan at $65, that brings it to $52 — undercutting the direct carrier price for the same validity period.
 
 For first-time eSIM users, stacking a new-user discount can yield additional savings. Note that most promo codes exclude unlimited plans or have maximum discount caps, so check the terms before applying.
 
@@ -502,7 +505,7 @@ Very few China eSIM providers offer true free trials. Here is the landscape:
 | Ubigi | No | No refund | No refunds on China-specific plans |
 | Klook | No | Varies by partner | Depends on the specific plan's underlying carrier policy |
 
-The Roami **China eSIM free trial test** is the only meaningful free trial option in the China eSIM market as of 2026. It gives you a small amount of data to test connectivity and speeds before committing to a paid plan. Given how variable network performance can be across different Chinese cities and carriers, testing before buying is a genuine advantage.
+The Roami China eSIM free trial is the only meaningful free trial option in the China eSIM market as of 2026. It gives you a small amount of data to test connectivity and speeds before committing to a paid plan. Given how variable network performance can be across different Chinese cities and carriers, testing before buying is a genuine advantage.
 
 For money-back guarantees, the safest option is the Roami 30-day policy: if the service doesn't work as expected within the first 30 days, you can get a full refund. Most other providers only refund unused data, and some (Holafly, Ubigi) offer no refunds at all.
 
@@ -536,14 +539,14 @@ For travelers who want to maximize data per dollar, here is the true cost-per-GB
 | 9 | Airalo | 10GB 30d | $20.00 | $2.00/GB |
 | 10 | Holafly | 7d Unlimited | $30.00 | ~$1.79/GB (est.) |
 
-Note that the **China eSIM price per GB comparison** flips depending on plan size. At the 1GB tier, Ubigi ($3.00/GB) beats everyone. At the 10GB tier, Roami ($1.60/GB) leads among resellers. At the 50GB tier, direct carriers are cheapest but less accessible.
+Note that the China eSIM price-per-GB comparison flips depending on plan size. At the 1GB tier, Ubigi ($3.00/GB) beats everyone. At the 10GB tier, Roami ($1.60/GB) leads among resellers. At the 50GB tier, direct carriers are cheapest but less accessible.
 
-For the average traveler buying a mid-tier plan (5–10GB), the **China eSIM cost** per GB ranges from $1.60 to $2.60. The spread is wider at small data tiers and narrows at larger ones.
+For the average traveler buying a mid-tier plan (5–10GB), China eSIM cost per GB ranges from $1.60 to $2.60. The spread is wider at small data tiers and narrows at larger ones.
 
 **China eSIM vs International Roaming Savings**
-How does buying a **China eSIM data plan** compare to using your home carrier's international roaming?
+How does buying a China eSIM data plan compare to using your home carrier's international roaming?
 
-| Carrier | Typical ChinRoaming | Cost per GB | 5GB Cost | 10GB Cost |
+| Carrier | Typical China Roaming | Cost per GB | 5GB Cost | 10GB Cost |
 |---|---|---|---|---|
 | T-Mobile (USA) | 256 kbps throttled included | Free (slow) | $0 (throttled) | $0 (throttled) |
 | T-Mobile (USA) | High-speed pass | $25/GB | $125.00 | $250.00 |
@@ -553,7 +556,7 @@ How does buying a **China eSIM data plan** compare to using your home carrier's 
 | Optus (AU) | Data roaming | ~$10/GB | $50.00 | $100.00 |
 | **eSIM (this guide)** | **Best reseller 5GB** | **~$2.00/GB** | **$10.00** | **$16.00** |
 
-The savings from using a **China eSIM vs international roaming** are dramatic. A 10GB trip costs $16–20 via eSIM versus $80–250 via carrier roaming. This is the single strongest argument for buying a dedicated eSIM for China travel. When weighing **eSIM China international roaming vs local SIM** options, the eSIM wins on both price and convenience for the vast majority of travelers — you get roaming-level connectivity at local-SIM pricing.
+The savings from using a China eSIM versus international roaming are dramatic. A 10GB trip costs $16–20 via eSIM versus $80–250 via carrier roaming. This is the single strongest argument for buying a dedicated eSIM for China travel. When weighing an eSIM against international roaming or a local SIM, the eSIM wins on both price and convenience for the vast majority of travelers — you get roaming-level connectivity at local-SIM pricing.
 
 For a full breakdown, read the [China eSIM vs physical SIM roaming](/blog/china-esim-vs-physical-sim-roaming/) article, which models costs for trips of 3, 7, 14, and 30 days across all three connectivity options.
 
@@ -565,20 +568,20 @@ For a full breakdown, read the [China eSIM vs physical SIM roaming](/blog/china-
 |---|---|---|---|
 | China Unicom (Direct / HK) | $2.80 – $55 | Cheapest raw data pricing; HK route avoids ID check | Passport (direct); none (HK route) |
 | China Mobile (CMHK) | $3.00 – $58 | Best rural coverage and high-speed rail performance | Passport (direct) |
-| Roami | $4.00 – $65 | Automatic switching between China Mobile/Unicom; built-in VPN; hotspot | None needed |
+| Roami | $4.00 – $65 | Automatic switching across all three carriers; Hong Kong routing; hotspot | None needed |
 
-China Unicom's tourist eSIM is available at major airports and through China Unicom HK. The direct route requires a passport scan and sometimes a Chinese phone number, but the Hong Kong–routed version avoids the ID requirement at a slightly higher cost. China Mobile's eSIM (via CMHK) offers marginally better coverage in rural areas and along high-speed rail corridors compared to China Unicom. Roami combines access to both networks with automatic switching, built-in VPN routing, and free hotspot — see the [Roami china esim](/china-esim/) product page for current pricing and the WEB20 promo code.
+China Unicom's tourist eSIM is available at major airports and through China Unicom HK. The direct route requires a passport scan and sometimes a Chinese phone number, but the Hong Kong–routed version avoids the ID requirement at a slightly higher cost. China Mobile's eSIM (via CMHK) offers marginally better coverage in rural areas and along high-speed rail corridors compared to China Unicom. Roami combines access to all three networks with automatic switching, Hong Kong routing, and free hotspot — see the [China eSIM](/china-esim/) product page for current pricing and the WEB20 promo code.
 
 **Best eSIM for China Business Trip**
-For business travelers, reliability and speed matter more than absolute lowest price. The **best eSIM for China business trip** typically has three requirements: 5G speeds, VPN included (for Google Workspace, Slack, Microsoft Teams), and hotspot support for laptop tethering.
+For business travelers, reliability and speed matter more than absolute lowest price. The best eSIM for a China business trip typically has three requirements: 5G speeds, firewall bypass (for Google Workspace, Slack, Microsoft Teams), and hotspot support for laptop tethering.
 
 | Priority | Recommended Provider | Why |
 |---|---|---|
-| Overall best | Roami | Built-in VPN, hotspot, 5G, $11 for 5GB |
+| Overall best | Roami | Hong Kong routing, hotspot, 5G, $11 for 5GB |
 | Budget business | Ubigi | $10 for 5GB, reliable China Mobile network |
 | Premium | Airalo | $13 for 5GB, best support, 30-day validity |
 
-If your business trip includes video conferencing, the built-in VPN of Roami ensures Google Meet and Zoom work without additional setup — no need to configure proxy settings, install third-party VPN apps, or troubleshoot blocked connections. This alone can save 30–60 minutes of setup time that would otherwise be spent finding a VPN that works inside China.
+If your business trip includes video conferencing, Roami's Hong Kong routing ensures Google Meet and Zoom work without additional setup — no need to configure proxy settings, install third-party VPN apps, or troubleshoot blocked connections. This alone can save 30–60 minutes of setup time that would otherwise be spent finding a VPN that works inside China.
 
 For business travelers staying 2–3 weeks, the 10GB fixed plan from Roami at $16 provides enough data for daily email, messaging, maps, and roughly 5–8 hours of video calls. Heavier users who need to tether a laptop should opt for the 15-day unlimited plan at $45, which supports hotspot sharing across devices.
 
@@ -586,29 +589,29 @@ For tips on configuring dual-SIM with your work number (keeping your home SIM ac
 
 **Cheapest eSIM for China Trip — Final Verdict**
 
-**What is the cheapest eSIM for China trip?** The answer depends on your trip length and data needs:
+What is the cheapest eSIM for a China trip? The answer depends on your trip length and data needs:
 
 - **1–3 days, minimal data**: Ubigi 1GB at $3.00 — $1.00/day.
-- **3–5 days, moderate data**: Roami 3GB at $7.50 ($2.50/day) with free VPN.
+- **3–5 days, moderate data**: Roami 3GB at $7.50 ($2.50/day) with Hong Kong routing.
 - **7 days, standard tourist use**: Ubigi 5GB at $10.00 ($1.43/day).
 - **14 days, heavy use**: Roami 10GB at $16.00 ($1.14/day).
 - **30 days, unlimited**: Roami 30-day unlimited at $65 ($2.17/day) — or $52 with code WEB20.
 
-**Best value, no question:** For the standard 7-day tourist trip, Roami's 5GB plan at $11.00 wins. It's not the absolute cheapest sticker price — Ubigi beats it by a dollar — but when you factor in the included VPN (which you will absolutely need in China, and which costs $5-12/month separately), Roami is the cheapest all-in solution by a meaningful margin. Use code **WEB20** and it drops to $8.80, undercutting everything else on the market.
+**Best value, no question:** For the standard 7-day tourist trip, Roami's 5GB plan at $11.00 wins. It's not the absolute cheapest sticker price — Ubigi beats it by a dollar — but when you factor in the included firewall bypass (which you will absolutely need in China, and which costs $5-12/month separately), Roami is the cheapest all-in solution by a meaningful margin. Use code **WEB20** and it drops to $8.80, undercutting everything else on the market.
 
 ---
 
 ## 15. China eSIM vs Local SIM with VPN Cost
 
-Some travelers debate whether to buy a local Chinese physical SIM and add a VPN separately versus using an eSIM with built-in VPN routing. Here is the cost breakdown.
+Some travelers debate whether to buy a local Chinese physical SIM and add a VPN separately versus using an eSIM with built-in firewall bypass. Here is the cost breakdown.
 
 | Option | Cost (5GB, 7 days) | Setup Effort | Google/WhatsApp Access |
 |---|---|---|---|
 | Local SIM + standalone VPN | $9.00 (SIM) + $5.00 (VPN monthly) = $14.00 | High — need to visit carrier store, install VPN, configure both | Yes (manual VPN setup) |
-| eSIM with built-in VPN | $11.00 (Roami 5GB) | Low — install app, done | Yes (automatic) |
+| eSIM with built-in bypass | $11.00 (Roami 5GB) | Low — install app, done | Yes (automatic) |
 | eSIM + your own VPN | $10.00 (Ubigi 5GB) + $0 (VPN you already have) = $10.00 | Medium — install eSIM + connect VPN | Yes (manual) |
 
-The **China eSIM vs local SIM with VPN cost** comparison shows that eSIM is both cheaper and less effort. The local SIM has one advantage: if you plan to open a Chinese bank account, register for Alipay with a Chinese number, or use services that require a mainland mobile number, a local SIM is necessary. For pure data needs, eSIM is the better option.
+The China eSIM versus local SIM with VPN cost comparison shows that eSIM is both cheaper and less effort. The local SIM has one advantage: if you plan to open a Chinese bank account, register for Alipay with a Chinese number, or use services that require a mainland mobile number, a local SIM is necessary. For pure data needs, eSIM is the better option.
 
 For more on this comparison, visit the [China eSIM travel type guide](/blog/china-esim-travel-type-guide/) which maps plan types to specific travel scenarios.
 
@@ -616,9 +619,9 @@ For more on this comparison, visit the [China eSIM travel type guide](/blog/chin
 
 ## 16. Device Compatibility and Activation Checklist
 
-Before purchasing any **eSIM China prepaid** plan, confirm your phone supports eSIM. According to [Apple's eSIM support documentation](https://support.apple.com/en-us/HT212780), the following devices are compatible:
+Before purchasing any prepaid eSIM for China, confirm your phone supports eSIM. According to [Apple's eSIM support documentation](https://support.apple.com/en-us/HT212780), the following devices are compatible:
 
-- **iPhone**: XS and newer (all models sold in mainland China since 2023 also support eSIM)
+- **iPhone**: XS and newer. Note: most mainland-China iPhones are dual nano-SIM with no eSIM (models ending CH/A); the iPhone Air and iPhone 17e are the eSIM-capable exceptions.
 - **Samsung**: Galaxy S20 and newer, Z Flip/Fold series
 - **Google**: Pixel 4 and newer
 - **Huawei**: Select models (P40, Mate 40 and newer; note: many Chinese-market Huawei phones lack eSIM due to US sanctions)
@@ -632,7 +635,7 @@ Before purchasing any **eSIM China prepaid** plan, confirm your phone supports e
 5. **Configure dual SIM** if keeping your home SIM active — detailed steps in the [China eSIM setup installation dual SIM](/blog/china-esim-setup-installation-dual-sim/) guide
 6. **Test connectivity before leaving home** if the plan allows pre-activation
 
-For comprehensive background, see the [China eSIM complete guide](/blog/china-esim-complete-guide/), which covers everything from compatibility to troubleshooting.
+For comprehensive background, see the [China eSIM guide](/blog/china-esim-complete-guide/), which covers everything from compatibility to troubleshooting.
 
 ---
 
@@ -642,11 +645,11 @@ For comprehensive background, see the [China eSIM complete guide](/blog/china-es
 The cheapest eSIM for a China trip depends on your data needs:
 
 - **Minimum data (1GB)**: Ubigi at $3.00 — cheapest entry point.
-- **Standard week (5GB)**: Ubigi 5GB at $10.00 or Roami 5GB at $11.00 (includes VPN).
-- **Best overall value**: Roami 10GB at $16.00 — $1.60/GB with VPN included.
+- **Standard week (5GB)**: Ubigi 5GB at $10.00 or Roami 5GB at $11.00 (includes Hong Kong routing).
+- **Best overall value**: Roami 10GB at $16.00 — $1.60/GB with Hong Kong routing included.
 - **Unlimited data**: Roami 7-day unlimited at $26.00 with hotspot support.
 
-If you factor in the cost of a separate VPN (which you will need in China), Roami's included VPN routing makes it the cheapest all-in solution despite not having the absolute lowest sticker price at every tier.
+If you factor in the cost of a separate VPN (which you will need in China), Roami's included Hong Kong routing makes it the cheapest all-in solution despite not having the absolute lowest sticker price at every tier.
 
 **Should I buy China eSIM before travel or at airport?**
 Buy before travel. Airport prices at PEK, PVG, and CAN are 20–40% higher than online prices. You also avoid queuing at airport kiosks and can set up the eSIM on your home Wi-Fi where troubleshooting is easier. The only scenario where airport purchase makes sense is if you land late and need immediate connectivity, or if you're unsure whether your phone supports eSIM and want to confirm in person.
@@ -660,12 +663,12 @@ For a full analysis of connectivity options, see the [China eSIM vs physical SIM
 | Your Trip Profile | Best Provider | Best Plan | Price | Why |
 |---|---|---|---|---|
 | Weekend trip (1–3 days) | Ubigi | 1GB | $3.00 | Cheapest for light use |
-| Short business trip (3–5 days) | Roami | 3GB | $7.50 | VPN included for work apps |
+| Short business trip (3–5 days) | Roami | 3GB | $7.50 | Hong Kong routing for work apps |
 | One week tourist (7 days) | Ubigi | 5GB | $10.00 | Lowest price at common tier |
-| One week heavy user | Roami | 7d Unlimited | $26.00 | Hotspot, VPN, unlimited |
-| Two week vacation | Roami | 10GB | $16.00 | $1.14/day, VPN included |
+| One week heavy user | Roami | 7d Unlimited | $26.00 | Hotspot, Hong Kong routing, unlimited |
+| Two week vacation | Roami | 10GB | $16.00 | $1.14/day, Hong Kong routing included |
 | Two week heavy user | Roami | 15d Unlimited | $45.00 | Best unlimited value at 2 weeks |
-| One month long stay | Roami | 30d Unlimited | $65.00 | $52 with WEB20, hotspot+VPN |
+| One month long stay | Roami | 30d Unlimited | $65.00 | $52 with WEB20, hotspot + Hong Kong routing |
 | Family of 4, 1 week | Roami | 7d Unlimited (shared) | $26.00 | ~$6.50/person via hotspot |
 | Budget max (any duration) | Ubigi | Fixed data tier | Varies | Lowest prices across fixed tiers |
 
@@ -673,42 +676,17 @@ For a full analysis of connectivity options, see the [China eSIM vs physical SIM
 
 ## Key Takeaways
 
-- **China eSIM prepaid** plans range from $3.00 (1GB) to $85.00 (30-day unlimited) depending on provider and channel.
+- China eSIM prepaid plans range from $3.00 (1GB) to $85.00 (30-day unlimited) depending on provider and channel.
 - **Price per GB** ranges from $1.30 to $4.50; best value is at the 10–20GB tiers.
 - **Roami** consistently ranks as the best overall value when you include built-in VPN routing and hotspot support. Use code **WEB20** for 20% off.
 - **Buy before travel** — airport markup is 20–40% at PEK, PVG, and CAN.
 - **eSIM saves 60–90%** compared to home carrier international roaming.
 - **Free trial**: test connectivity via the Roami /free-esim/ program before committing.
 - For detailed provider reviews beyond pricing, see the [China eSIM provider ranking comparison](/blog/china-esim-provider-ranking-comparison/).
-- For the full picture of China connectivity, start with the [China eSIM complete guide](/blog/china-esim-complete-guide/).
+- For the full picture of China connectivity, start with the [China eSIM overview](/blog/china-esim-complete-guide/).
 
 ---
 
 *Last updated: July 2026. Prices and provider details are subject to change. Always verify plan details on the provider's website before purchasing.*
 
-For setup instructions, see the [China eSIM installation guide](/blog/china-esim-setup-installation-dual-sim/). For coverage data, see the [China eSIM coverage guide](/blog/china-esim-coverage-cities-trains-5g/). For device compatibility, check [Apple Support](https://support.apple.com/en-us/HT212780). The [Wikipedia article on Telecommunications in China](https://en.wikipedia.org/wiki/Telecommunications_in_China) provides telecom market background. Official carrier information: [China Mobile](https://www.chinamobileltd.com), [China Unicom](http://www.chinaunicom.com). The [GSMA](https://www.gsma.com) tracks global eSIM adoption.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the cheapest eSIM for China trip?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cheapest eSIM for a China trip depends on your data needs. Minimum data (1GB): Ubigi at $3.00 — cheapest entry point. Standard week (5GB): Ubigi 5GB at $10.00 or Roami 5GB at $11.00 (includes VPN). Best overall value: Roami 10GB at $16.00 — $1.60/GB with VPN included. Unlimited data: Roami 7-day unlimited at $26.00 with hotspot support. If you factor in the cost of a separate VPN (which you will need in China), Roami's included VPN routing makes it the cheapest all-in solution despite not having the absolute lowest sticker price at every tier."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Should I buy China eSIM before travel or at airport?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Buy before travel. Airport prices at PEK, PVG, and CAN are 20-40% higher than online prices. You also avoid queuing at airport kiosks and can set up the eSIM on your home Wi-Fi where troubleshooting is easier. The only scenario where airport purchase makes sense is if you land late and need immediate connectivity, or if you're unsure whether your phone supports eSIM and want to confirm in person."
-      }
-    }
-  ]
-}
-</script>
+For setup instructions, see the [China eSIM installation guide](/blog/china-esim-setup-installation-dual-sim/). For coverage data, see the [China eSIM network coverage](/blog/china-esim-coverage-cities-trains-5g/). For device compatibility, check [Apple Support](https://support.apple.com/en-us/HT212780). The [Wikipedia article on Telecommunications in China](https://en.wikipedia.org/wiki/Telecommunications_in_China) provides telecom market background. Official carrier information: [China Mobile](https://www.chinamobileltd.com), [China Unicom](http://www.chinaunicom.com). The [GSMA](https://www.gsma.com) tracks global eSIM adoption.

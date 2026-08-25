@@ -1,11 +1,11 @@
 ---
-title: "Spain eSIM with Phone Number : Calls & SMS"
-description: "Spain eSIM with +34 Spanish number for 2026. Get local calls & SMS for Renfe, Cabify & app verification. Compare Orange Holiday, Vodafone Travel & Movistar Turista plans."
+title: "Spain eSIM with Phone Number: Calls and SMS Plans"
+description: "Spain eSIM with +34 Spanish number. Get local calls and SMS for Renfe and Cabify. Compare Orange Holiday and Vodafone plans."
 keywords: ["Spain eSIM with phone number", "buy Spain eSIM with number", "Spain eSIM +34 number", "temporary Spanish number", "Spain eSIM voice calls", "Spain eSIM SMS verification", "tourist eSIM with phone number", "Orange Holiday Spain eSIM", "Spain eSIM prepaid number"]
-date: 2026-08-19T00:00:00Z
-lastmod: 2026-08-19T00:00:00Z
+date: 2026-08-24T00:00:00Z
+lastmod: 2026-08-24T00:00:00Z
 author: "Roami Team"
-authorBio: "Our multi‑network eSIM automatically switches between Movistar, Orange, Vodafone, and Yoigo for the best coverage."
+authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/spain/spain-esim-with-phone-number.jpg"
 categories: ["Spain", "eSIM", "Travel"]
 tags: ["Spain eSIM", "Travel eSIM", "Phone Number"]
@@ -521,7 +521,7 @@ Wait 2-3 minutes, check your phone's SMS filter settings, ensure your number is 
 
 ## Related Spain eSIM Guides
 
-- **[Spain eSIM complete guide](/blog/spain-esim-complete-travel-guide/)** — the full overview of plans, pricing, and networks.
+- **[Spain eSIM 101](/blog/spain-esim-complete-travel-guide/)** — the full overview of plans, pricing, and networks.
 - **[Local carrier prepaid guide](/blog/spain-esim-local-carriers-prepaid-guide/)** — in-store prepaid plans for Movistar, Orange, Vodafone & Yoigo.
 - **[Movistar vs Orange vs Vodafone comparison](/blog/spain-esim-movistar-orange-vodafone-comparison/)** — each network's coverage strengths.
 - **[Airalo vs Holafly vs Nomad comparison](/blog/spain-esim-providers-airalo-holafly-nomad-comparison/)** — data-only provider ranking.
