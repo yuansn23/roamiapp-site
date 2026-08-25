@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: 'Macau eSIM: 5G High-Speed Unlimited Data Plan'
+  title: 'Macau eSIM: Best 5G High-Speed Unlimited Data Plan'
   description: Compare Macao eSIM plans with fast 5G in Macau Peninsula, Taipa, Coloane. CTM & 3 Macau & SmarTone coverage
     guide for tourists & travelers. Instant QR activation from $1.99.
   keywords: Macao eSIM, buy Macao eSIM, best Macao eSIM, Macao travel eSIM, CTM Macao, 3 Macau Macao, SmarTone Macao, Macau

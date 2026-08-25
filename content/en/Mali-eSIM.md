@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: 'Mali 5G eSIM: Unlimited Data, No Roaming Fees'
+  title: 'Mali eSIM: Unlimited 5G Data, No Roaming Charges'
   description: Compare Mali eSIM plans with fast 5G in Bamako, Segou, Mopti. Sotelma-Malitel & Orange Mali & Moov Africa coverage
     guide for tourists & travelers. Instant QR activation from $1.99.
   keywords: Mali eSIM, buy Mali eSIM, best Mali eSIM, Mali travel eSIM, Sotelma-Malitel Mali, Orange Mali Mali, Moov Africa

@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Pakistan eSIM | Top Prepaid Travel eSIM Plan
+  title: Pakistan eSIM | Best 5G Prepaid Plan for Travelers
   description: Stay connected in Pakistan with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Karachi,
     Lahore & Islamabad. Instant activation.
   keywords: Pakistan eSIM, buy Pakistan eSIM, best Pakistan eSIM, Pakistan travel eSIM, Jazz Pakistan, Telenor Pakistan, Zong

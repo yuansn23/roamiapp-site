@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Australia eSIM - Best 5G Plan for Sydney & Melbourne
+  title: Australia eSIM - Best 5G Data Plan for Your Journey
   description: Get the best Australia prepaid eSIM with 5G on Telstra, Optus & TPG. No address or ID needed — instant QR activation. No 28-day contract waste. From $1.99.
   keywords: Australia eSIM, buy Australia eSIM, best Australia eSIM, Australia travel eSIM, Telstra Australia, Optus Australia, TPG Telecom Australia, Sydney eSIM, Melbourne eSIM, Brisbane eSIM, Australia prepaid eSIM, 5G Australia eSIM, Great Ocean Road eSIM
   low_price: 1.99

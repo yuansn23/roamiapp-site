@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Botswana eSIM | Best Prepaid eSIM for Travelers
+  title: Botswana eSIM | Best 5G Prepaid Data for Tourists
   description: Stay connected in Botswana. Unlimited 5G data with instant activation. Covers Gaborone, Francistown & Maun.
     Instant activation Buy your plan online today.
   keywords: Botswana eSIM, buy Botswana eSIM, best Botswana eSIM, Botswana travel eSIM, Mascom Botswana, Orange Botswana,

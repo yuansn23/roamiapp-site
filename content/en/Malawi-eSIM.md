@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: 'Malawi eSIM: 5G High-Speed Unlimited Data Plan'
+  title: 'Malawi eSIM: Best 5G High-Speed Unlimited Data Plan'
   description: Compare Malawi eSIM plans with fast 5G in Lilongwe, Blantyre, Mzuzu. Airtel Malawi & TNM (Telekom Networks
     Malawi) & Malawi Telecom coverage guide for tourists & travelers. Instant QR activation from $1.99.
   keywords: Malawi eSIM, buy Malawi eSIM, best Malawi eSIM, Malawi travel eSIM, Airtel Malawi Malawi, TNM (Telekom Networks

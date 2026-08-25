@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Argentina eSIM | Buy Prepaid eSIM for Travelers
+  title: Argentina eSIM | Best 5G Data Plan for Explorers
   description: Travel to Argentina with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant activation.
     Covers Buenos Aires, Cordoba & Mendoza.
   keywords: Argentina eSIM, buy Argentina eSIM, best Argentina eSIM, Argentina travel eSIM, Movistar Argentina, Claro Argentina,

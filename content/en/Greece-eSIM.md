@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Greece eSIM - 5G in Athens & Santorini | No Airport Hunt
+  title: Greece eSIM - Best Unlimited Data Plan for Nomads
   description: Get the best Greece eSIM with 5G on Vodafone, Cosmote & Wind. No SIM hunt at Athens airport — instant QR delivery. Covers Athens, Santorini, Mykonos & all islands. Plans from $1.99.
   keywords: Greece eSIM, buy Greece eSIM, best Greece eSIM, Greece travel eSIM, Vodafone Greece, Cosmote Greece, Wind Greece, Athens eSIM, Thessaloniki eSIM, Santorini eSIM, Greece prepaid eSIM, 5G Greece eSIM, Greek islands eSIM
   low_price: 1.99

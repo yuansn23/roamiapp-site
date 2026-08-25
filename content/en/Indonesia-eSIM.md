@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Indonesia eSIM - 5G in Bali & Jakarta | No IMEI Tax
+  title: Indonesia eSIM - Best 5G Prepaid Plan | No IMEI Tax
   description: Get the best Indonesia eSIM with 5G on Telkomsel, Indosat & XL. No IMEI registration or 40% tax — skip airport price gouging. Covers Bali, Jakarta & Yogyakarta. Plans from $1.99.
   keywords: Indonesia eSIM, buy Indonesia eSIM, best Indonesia eSIM, Indonesia travel eSIM, Telkomsel Indonesia, Indosat Ooredoo Indonesia, XL Axiata Indonesia, Jakarta eSIM, Bali eSIM, Yogyakarta eSIM, Indonesia prepaid eSIM, 5G Indonesia eSIM, Indonesia eSIM no IMEI
   low_price: 1.99

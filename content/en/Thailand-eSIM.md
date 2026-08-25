@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Thailand eSIM - Best 5G Plan for Bangkok & Phuket
+  title: Thailand eSIM - Best 5G Prepaid Plan for Your Journey
   description: Get the best Thailand prepaid eSIM with 5G on AIS, TrueMove & dtac. No biometrics, no face scan, no ID needed — instant QR activation. Skip airport queues. From $1.99.
   keywords: Thailand eSIM, buy Thailand eSIM, best Thailand eSIM, Thailand travel eSIM, AIS Thailand, TrueMove Thailand, dtac Thailand, Bangkok eSIM, Chiang Mai eSIM, Phuket eSIM, Thailand prepaid eSIM, 5G Thailand eSIM, eSIM for Songkran, Phi Phi Islands eSIM, Krabi eSIM
   low_price: 1.99

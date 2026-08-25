@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: France eSIM - Best 5G Plan for Paris & Provence | Roami
+  title: France eSIM - Best Unlimited Data Plan for Explorers
   description: Get the best France prepaid eSIM with 5G on Orange, SFR & Bouygues. No ID needed — instant QR activation. No 31-day contract waste. From $1.99.
   keywords: France eSIM, buy France eSIM, best France eSIM, France travel eSIM, Orange France, SFR France, Bouygues Telecom France, Paris eSIM, Marseille eSIM, Lyon eSIM, France prepaid eSIM, 5G France eSIM, Provence eSIM, French Riviera eSIM
   low_price: 1.99

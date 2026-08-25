@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: 'Burkina Faso eSIM from $1.99: Fast 5G Data for Travelers'
+  title: 'Burkina Faso eSIM: Fast 5G Data Plan for Travelers'
   description: Compare Burkina Faso eSIM plans with fast 5G in Ouagadougou, Bobo-Dioulasso, Koudougou. Orange & Telecel &
     Moov Africa coverage guide for tourists & travelers. Instant QR activation from $1.99.
   keywords: Burkina Faso eSIM, buy Burkina Faso eSIM, best Burkina Faso eSIM, Burkina Faso travel eSIM, Orange Burkina Faso,

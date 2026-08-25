@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Italy eSIM - 5G in Rome & Venice | No Codice Fiscale
+  title: Italy eSIM - Best 5G Prepaid Plan | No Codice Fiscale
   description: Get the best Italy eSIM with 5G on TIM, Vodafone & Wind Tre. No Codice Fiscale or passport needed — skip TIM store rejections. Covers Rome, Venice, Florence & Milan. Plans from $1.99.
   keywords: Italy eSIM, buy Italy eSIM, best Italy eSIM, Italy travel eSIM, TIM Italy, Vodafone Italia Italy, Wind Tre Italy, Rome eSIM, Milan eSIM, Venice eSIM, Italy prepaid eSIM, 5G Italy eSIM, Italy eSIM no tax code
   low_price: 1.99

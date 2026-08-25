@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Paraguay eSIM | Best Prepaid Plan for Travel
+  title: Paraguay eSIM | Best 5G Prepaid Plan for Visitors
   description: Stay connected in Paraguay with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Asuncion,
     Ciudad del Este. Instant activation.
   keywords: Paraguay eSIM, buy Paraguay eSIM, best Paraguay eSIM, Paraguay travel eSIM, Tigo Paraguay, Claro Paraguay, Personal

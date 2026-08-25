@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Uganda eSIM | Best Prepaid Plan for Travel
+  title: Uganda eSIM | Unlimited Prepaid Data for Visitors
   description: Travel to Uganda with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Covers Kampala,
     Jinja & Gulu. Instant activation.
   keywords: Uganda eSIM, buy Uganda eSIM, best Uganda eSIM, Uganda travel eSIM, MTN Uganda Uganda, Airtel Uganda Uganda, Uganda

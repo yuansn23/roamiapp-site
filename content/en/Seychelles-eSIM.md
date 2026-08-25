@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Seychelles eSIM - Best 5G Plan for Mahe & Praslin
+  title: Seychelles eSIM - Best 5G Coverage for Your Stay
   description: Get the best Seychelles prepaid eSIM with 5G on Airtel, Cable & Wireless & Intelvision. No ID needed — instant QR activation. Island-hopping ready across Mahe, Praslin & La Digue. From $1.99.
   keywords: Seychelles eSIM, buy Seychelles eSIM, best Seychelles eSIM, Seychelles travel eSIM, Airtel Seychelles, Cable & Wireless Seychelles, Intelvision Seychelles, Victoria eSIM, Beau Vallon eSIM, Anse Royale eSIM, Seychelles prepaid eSIM, 5G Seychelles eSIM, Mahe eSIM, Praslin eSIM, La Digue eSIM
   low_price: 1.99

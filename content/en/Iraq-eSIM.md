@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Iraq eSIM - Best 5G Plan for Erbil & Baghdad | Roami
+  title: Iraq eSIM - Fast Prepaid Data Plan for Your Trip
   description: Get the best Iraq prepaid eSIM with 5G on Zain, Asiacell & Korek. No ID needed — instant QR activation. No store visit required. From $1.99.
   keywords: Iraq eSIM, buy Iraq eSIM, best Iraq eSIM, Iraq travel eSIM, Zain Iraq, Asiacell Iraq, Korek Telecom Iraq, Baghdad eSIM, Basra eSIM, Mosul eSIM, Iraq prepaid eSIM, 5G Iraq eSIM, Erbil eSIM, Iraqi Kurdistan eSIM
   low_price: 1.99

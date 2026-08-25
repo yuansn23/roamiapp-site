@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: 'Moldova eSIM: 5G High-Speed Unlimited Data Plan'
+  title: 'Moldova eSIM: Best 5G High-Speed Unlimited Data Plan'
   description: Compare Moldova eSIM plans with fast 5G in Chișinău, Bălți, Tiraspol. Orange Moldova & Moldcell & Moldtelecom
     coverage guide for tourists & travelers. Instant QR activation from $1.99.
   keywords: Moldova eSIM, buy Moldova eSIM, best Moldova eSIM, Moldova travel eSIM, Orange Moldova Moldova, Moldcell Moldova,

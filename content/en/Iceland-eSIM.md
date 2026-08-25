@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Iceland eSIM - 5G in Reykjavik & Golden Circle 
+  title: Iceland eSIM - Best Prepaid Data Plan for Explorers 
   description: Get the best Iceland eSIM with 5G on Síminn, Vodafone & Telenor. No passport registration — instant QR delivery. Covers Reykjavik, Golden Circle & Ring Road. Plans from $1.99.
   keywords: Iceland eSIM, buy Iceland eSIM, best Iceland eSIM, Iceland travel eSIM, Síminn Iceland, Vodafone Iceland, Telenor Iceland, Reykjavik eSIM, Akureyri eSIM, Golden Circle eSIM, Iceland prepaid eSIM, 5G Iceland eSIM, Ring Road eSIM
   low_price: 1.99

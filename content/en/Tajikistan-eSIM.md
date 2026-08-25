@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: 'Tajikistan eSIM 2026: Tcell & MegaFon Tajikistan Coverage Guide | Best Travel eSIM'
+  title: 'Tajikistan eSIM: Tcell & MegaFon 5G Coverage Guide'
   description: Compare Tajikistan eSIM plans with fast 5G in Dushanbe, Khujand, Bokhtar. Tcell & MegaFon Tajikistan & Beeline
     Tajikistan coverage guide for tourists & travelers. Instant QR activation from $1.99.
   keywords: Tajikistan eSIM, buy Tajikistan eSIM, best Tajikistan eSIM, Tajikistan travel eSIM, Tcell Tajikistan, MegaFon

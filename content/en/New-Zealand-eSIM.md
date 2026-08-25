@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: New Zealand eSIM - 5G in Auckland & Queenstown
+  title: New Zealand eSIM - 5G Prepaid Data Plan for Tourists
   description: Get the best New Zealand eSIM with 5G on Spark, Vodafone & 2degrees. No 30-day forced plans — local SIMs waste 70%+ on short trips. Covers Auckland, Queenstown & Hobbiton. Plans from $1.99.
   keywords: New Zealand eSIM, buy New Zealand eSIM, best New Zealand eSIM, New Zealand travel eSIM, Spark New Zealand, Vodafone NZ New Zealand, 2degrees New Zealand, Auckland eSIM, Wellington eSIM, Queenstown eSIM, New Zealand prepaid eSIM, 5G New Zealand eSIM, Hobbiton eSIM
   low_price: 1.99

@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Finland eSIM | Unlimited Data Plan for Travelers
+  title: Finland eSIM | Best Prepaid 5G Data for Visitors
   description: Need a prepaid travel eSIM for Finland? Roami offers unlimited 5G data nationwide. Instant QR activation. Covers
     Helsinki, Rovaniemi & all regions.
   keywords: Finland eSIM, buy Finland eSIM, best Finland eSIM, Finland travel eSIM, Elisa Finland, DNA Finland, Telia Finland,

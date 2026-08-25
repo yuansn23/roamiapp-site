@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: El Salvador eSIM | Best Travel eSIM for Your Journey
+  title: El Salvador eSIM | 5G Prepaid Data Plan for Explorers
   description: Enjoy fast 5G data in El Salvador. Unlimited 5G data with instant activation. Covers San Salvador, Santa Ana
     & San Miguel. Instant activation.
   keywords: El Salvador eSIM, buy El Salvador eSIM, best El Salvador eSIM, El Salvador travel eSIM, Tigo El Salvador, Claro

@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: 'Eswatini eSIM: 5G Unlimited Data – MTN & Eswatini Mobile'
+  title: 'Eswatini eSIM: 5G Unlimited Data, MTN & Mobile Plans'
   description: Compare Eswatini eSIM plans with fast 5G in Mbabane, Manzini, Big Bend. MTN & Eswatini Mobile & Swazi Telekom
     coverage guide for tourists & travelers. Instant QR activation from $1.99.
   keywords: Eswatini eSIM, buy Eswatini eSIM, best Eswatini eSIM, Eswatini travel eSIM, MTN Eswatini, Eswatini Mobile Eswatini,

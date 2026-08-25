@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: 'Gabon 5G eSIM: High-Speed Internet for Business & Leisure'
+  title: 'Gabon eSIM: Best 5G High-Speed Data for Travelers'
   description: Compare Gabon eSIM plans with fast 5G in Libreville, Port-Gentil, Franceville. Airtel & Moov Africa & Gabon
     Telecom coverage guide for tourists & travelers. Instant QR activation from $1.99.
   keywords: Gabon eSIM, buy Gabon eSIM, best Gabon eSIM, Gabon travel eSIM, Airtel Gabon, Moov Africa Gabon, Gabon Telecom

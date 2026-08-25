@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: UAE eSIM - Best 5G Prepaid Plan for Dubai & Abu Dhabi
+  title: UAE eSIM - Best 5G Prepaid Data Plan for Travelers
   description: Get the best UAE prepaid eSIM with 5G on Etisalat, du & Virgin Mobile. No ID, instant QR, no contracts. Perfect for Dubai shopping & desert safari. From $1.99.
   keywords: UAE eSIM, buy UAE eSIM, best UAE eSIM, UAE travel eSIM, Etisalat UAE, du UAE, Virgin Mobile UAE, Dubai eSIM, Abu Dhabi eSIM, Sharjah eSIM, UAE prepaid eSIM, 5G UAE eSIM
   low_price: 1.99

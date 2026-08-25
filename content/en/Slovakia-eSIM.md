@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Slovakia eSIM | Best Travel eSIM for Your Journey
+  title: Slovakia eSIM | Best 5G Prepaid Plan for Your Stay
   description: Travel to Slovakia with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant activation.
     Covers Bratislava, Kosice & the Tatras.
   keywords: Slovakia eSIM, buy Slovakia eSIM, best Slovakia eSIM, Slovakia travel eSIM, Orange Slovensko Slovakia, Slovak

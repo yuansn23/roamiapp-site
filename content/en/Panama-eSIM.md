@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Panama eSIM | Best eSIM Plan for Tourists
+  title: Panama eSIM | Best Unlimited Data Plan for Your Stay
   description: Explore Panama with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Covers Panama City,
     David & Colon. Instant activation.
   keywords: Panama eSIM, buy Panama eSIM, best Panama eSIM, Panama travel eSIM, +Movil Panama, Digicel Panama, Cable & Wireless

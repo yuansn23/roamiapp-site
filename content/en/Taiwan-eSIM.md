@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Taiwan eSIM - Best 5G Plan for Taipei & Night Markets
+  title: Taiwan eSIM - Unlimited Prepaid Data for Travelers
   description: Get the best Taiwan prepaid eSIM with 5G on Chunghwa, FarEasTone & Taiwan Mobile. No passport or ID needed — instant QR activation. Skip airport queues. From $1.99.
   keywords: Taiwan eSIM, buy Taiwan eSIM, best Taiwan eSIM, Taiwan travel eSIM, Chunghwa Telecom Taiwan, FarEasTone Taiwan, Taiwan Mobile Taiwan, Taipei eSIM, New Taipei City eSIM, Taichung eSIM, Taiwan prepaid eSIM, 5G Taiwan eSIM, eSIM for Taiwan night markets, Shilin night market eSIM, THSR eSIM, Taipei 101 eSIM
   low_price: 1.99

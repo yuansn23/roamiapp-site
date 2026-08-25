@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Hong Kong eSIM - Best 5G Plan for Victoria Harbour
+  title: Hong Kong eSIM - Best 5G Data Plan for Your Trip
   description: Get the best Hong Kong prepaid eSIM with 5G on CSL, SmarTone & CMHK. No registration or ID needed — instant QR activation. No 30-day waste. From $1.99.
   keywords: Hong Kong eSIM, buy Hong Kong eSIM, best Hong Kong eSIM, Hong Kong travel eSIM, CSL Hong Kong, SmarTone Hong Kong, China Mobile Hong Kong, Hong Kong Island eSIM, Kowloon eSIM, Tsuen Wan eSIM, Hong Kong prepaid eSIM, 5G Hong Kong eSIM, Disneyland Hong Kong eSIM, Victoria Harbour eSIM
   low_price: 1.99

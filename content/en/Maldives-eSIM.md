@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Maldives eSIM | Best Prepaid eSIM for Travelers
+  title: Maldives eSIM | Best 5G Prepaid Plan for Explorers
   description: Escape to the Maldives with Roami's best prepaid travel eSIM. Unlimited 5G data across the atolls. Instant
     QR activation. Covers Male & all resort islands.
   keywords: Maldives eSIM, buy Maldives eSIM, best Maldives eSIM, Maldives travel eSIM, Dhiraagu Maldives, Ooredoo Maldives,

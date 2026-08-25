@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Russia eSIM | Top Prepaid Travel eSIM Plan
+  title: Russia eSIM | Best Unlimited Data for Your Journey
   description: Stay connected in Russia with Roami's best prepaid travel eSIM. Unlimited 5G data on top networks. Covers Moscow,
     St Petersburg & Kazan. Instant activation.
   keywords: Russia eSIM, buy Russia eSIM, best Russia eSIM, Russia travel eSIM, MegaFon Russia, MTS Russia, Beeline Russia,

@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Spain eSIM 2026 - Best 5G Plan for Madrid & Barcelona | Roami
+  title: Spain eSIM - Fast Prepaid Data Plan for Your Journey
   description: Get the best Spain prepaid eSIM with 5G on Movistar, Orange & Vodafone. No passport or ID needed — instant QR activation. Includes EU roaming. From $1.99.
   keywords: Spain eSIM, buy Spain eSIM, best Spain eSIM, Spain travel eSIM, Movistar Spain, Orange Spain, Vodafone Spain, Madrid eSIM, Barcelona eSIM, Valencia eSIM, Spain prepaid eSIM, 5G Spain eSIM, eSIM for Camino de Santiago, Canary Islands eSIM
   low_price: 1.99

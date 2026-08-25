@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Fiji eSIM | Prepaid Data Plan for Your Trip
+  title: Fiji eSIM | Best Unlimited Data Plan for Your Journey
   description: Stay connected in Fiji with the best prepaid travel eSIM from Roami. Unlimited 5G data on main islands & beyond.
     Covers Suva, Nadi & the Mamanucas.
   keywords: Fiji eSIM, buy Fiji eSIM, best Fiji eSIM, Fiji travel eSIM, Vodafone Fiji Fiji, Digicel Fiji Fiji, Telecom Fiji

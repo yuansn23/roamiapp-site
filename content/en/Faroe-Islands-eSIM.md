@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: 'Faroe Islands eSIM from $1.99: Fast 5G Data for Travelers'
+  title: 'Faroe Islands eSIM: Fast 5G Data Plan for Travelers'
   description: Compare Faroe Islands eSIM plans with fast 5G in Tórshavn, Klaksvík, Runavík. Faroese Telecom & Vodafone Faroe
     Islands & Hey coverage guide for tourists & travelers. Instant QR activation from $1.99.
   keywords: Faroe Islands eSIM, buy Faroe Islands eSIM, best Faroe Islands eSIM, Faroe Islands travel eSIM, Faroese Telecom

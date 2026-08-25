@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: UK eSIM - Best 5G Plan for London & Edinburgh
+  title: UK eSIM - Best 5G Prepaid Data Plan for Travelers
   description: Get the best UK prepaid eSIM with 5G on EE, Vodafone & O2. No passport or ID needed — instant QR activation. Includes EU roaming. Plans from $1.99.
   keywords: UK eSIM, buy UK eSIM, best UK eSIM, UK travel eSIM, Vodafone United Kingdom, EE UK, O2 UK, London eSIM, Manchester eSIM, Birmingham eSIM, UK prepaid eSIM, 5G UK eSIM, UK eSIM no ID, eSIM for London Underground, Great Britain eSIM, England eSIM
   low_price: 1.99

@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Mongolia eSIM | Best Travel eSIM for Your Journey
+  title: Mongolia eSIM | Best 5G Prepaid Plan for Tourists
   description: Need a prepaid travel eSIM for Mongolia? Roami offers unlimited 5G data. Covers Ulaanbaatar, Darkhan & Erdenet.
     Instant activation Buy your plan online today.
   keywords: Mongolia eSIM, buy Mongolia eSIM, best Mongolia eSIM, Mongolia travel eSIM, Mobicom Mongolia, Unitel Mongolia,

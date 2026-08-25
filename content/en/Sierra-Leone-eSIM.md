@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: 'Sierra Leone eSIM 2026: Africell & Sierratel Coverage Guide | Best Travel eSIM'
+  title: 'Sierra Leone eSIM: Africell & Sierratel Coverage'
   description: Compare Sierra Leone eSIM plans with fast 5G in Freetown, Bo, Kenema. Africell & Sierratel & Orange SL coverage
     guide for tourists & travelers. Instant QR activation from $1.99.
   keywords: Sierra Leone eSIM, buy Sierra Leone eSIM, best Sierra Leone eSIM, Sierra Leone travel eSIM, Africell Sierra Leone,

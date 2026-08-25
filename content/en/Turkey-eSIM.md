@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Turkey eSIM - 5G in Istanbul| No Passport Needed
+  title: Turkey eSIM - Best 5G Data Plan | No Passport Needed
   description: Get the best Turkey eSIM with 5G on Turkcell, Vodafone & Türk Telekom. No passport or ID needed — bypass Turkey's internet blocks automatically. Skip Istanbul airport price gouging. Plans from $1.99.
   keywords: Turkey eSIM, buy Turkey eSIM, best Turkey eSIM, Turkey travel eSIM, Turkcell Turkey, Vodafone Turkey, Türk Telekom Turkey, Istanbul eSIM, Ankara eSIM, Izmir eSIM, Turkey prepaid eSIM, 5G Turkey eSIM, Turkey eSIM no passport, eSIM for Cappadocia
   low_price: 1.99

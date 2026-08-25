@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: 'Liechtenstein eSIM: Unlimited 5G Data for Alpine Travel'
+  title: 'Liechtenstein eSIM: Unlimited 5G Data for the Alps'
   description: Compare Liechtenstein eSIM plans with fast 5G in Vaduz, Schaan, Balzers. Swisscom & Telecom Liechtenstein &
     Salt coverage guide for tourists & travelers. Instant QR activation from $1.99.
   keywords: Liechtenstein eSIM, buy Liechtenstein eSIM, best Liechtenstein eSIM, Liechtenstein travel eSIM, Swisscom Liechtenstein,

@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: 'French Guiana 5G eSIM: Fast Internet for Business & Travel'
+  title: 'French Guiana eSIM: Fast 5G Data Plan for Travelers'
   description: Compare French Guiana eSIM plans with fast 5G in Cayenne, Kourou, Saint-Laurent-du-Maroni. Digicel & Orange
     & Free coverage guide for tourists & travelers. Instant QR activation from $1.99.
   keywords: French Guiana eSIM, buy French Guiana eSIM, best French Guiana eSIM, French Guiana travel eSIM, Digicel French

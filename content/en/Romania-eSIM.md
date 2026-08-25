@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Romania eSIM | Best Prepaid eSIM for Travelers
+  title: Romania eSIM | Best Prepaid Data Plan for Visitors
   description: Planning a trip to Romania? Get Roami's best prepaid travel eSIM with unlimited 5G data. Instant QR activation.
     Covers Bucharest, Cluj & Transylvania.
   keywords: Romania eSIM, buy Romania eSIM, best Romania eSIM, Romania travel eSIM, Orange Romania, Vodafone Romania, Telekom

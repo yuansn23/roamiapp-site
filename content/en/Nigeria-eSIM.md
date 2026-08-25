@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Nigeria eSIM | Unlimited Data Plan for Travelers
+  title: Nigeria eSIM | Best Prepaid Data Plan for Travelers
   description: Get the best prepaid travel eSIM for Nigeria from Roami. Unlimited 5G data on top networks. Covers Lagos, Abuja
     & Port Harcourt. Instant activation.
   keywords: Nigeria eSIM, buy Nigeria eSIM, best Nigeria eSIM, Nigeria travel eSIM, MTN Nigeria, Glo Nigeria, Airtel Nigeria,

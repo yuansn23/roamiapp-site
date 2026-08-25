@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Denmark eSIM - Best 5G Plan for Copenhagen & Aarhus
+  title: Denmark eSIM - Best Prepaid 5G Data for Explorers
   description: Get the best Denmark prepaid eSIM with 5G on TDC, Telenor & Telia. No ID needed — instant QR activation. No 30-day contract waste. From $1.99.
   keywords: Denmark eSIM, buy Denmark eSIM, best Denmark eSIM, Denmark travel eSIM, TDC Denmark, Telenor Denmark, Telia Denmark, Copenhagen eSIM, Aarhus eSIM, Odense eSIM, Denmark prepaid eSIM, 5G Denmark eSIM, Legoland eSIM, Tivoli Gardens eSIM
   low_price: 1.99

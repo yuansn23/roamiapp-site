@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Egypt eSIM - 4G/5G in Cairo & Luxor | Roami
+  title: Egypt eSIM - Unlimited Prepaid Data for Your Trip
   description: Get the best Egypt eSIM with 4G/5G on Orange, Vodafone & Etisalat. No passport or hotel address needed — skip airport SIM scams. Covers Cairo, Giza & Luxor. Plans from $1.99.
   keywords: Egypt eSIM, buy Egypt eSIM, best Egypt eSIM, Egypt travel eSIM, Orange Egypt, Vodafone Egypt, Etisalat Egypt, Cairo eSIM, Alexandria eSIM, Luxor eSIM, Egypt prepaid eSIM, Giza Pyramids eSIM, Egypt eSIM no passport
   low_price: 1.99

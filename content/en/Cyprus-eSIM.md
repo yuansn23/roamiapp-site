@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Cyprus eSIM | Best eSIM Plan for Tourists
+  title: Cyprus eSIM | Best Prepaid Data Plan for Your Journey
   description: Enjoy unlimited 5G data in Cyprus with Roami's best prepaid travel eSIM. Island-wide coverage. Covers Nicosia,
     Limassol & Paphos. Instant activation.
   keywords: Cyprus eSIM, buy Cyprus eSIM, best Cyprus eSIM, Cyprus travel eSIM, Cyta Cyprus, PrimeTel Cyprus, Epic Cyprus,

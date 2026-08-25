@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Ireland eSIM | Best Travel Data Plan for Explorers
+  title: Ireland eSIM | Best Prepaid Data Plan for Nomads
   description: Stay connected in Ireland with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Instant QR activation.
     Covers Dublin, Cork & Galway.
   keywords: Ireland eSIM, buy Ireland eSIM, best Ireland eSIM, Ireland travel eSIM, Vodafone Ireland, Three Ireland, Eir Ireland,

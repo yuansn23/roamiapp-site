@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Dominican Rep eSIM | Fast & Reliable Prepaid Data Plan
+  title: Dominican Rep eSIM | Fast & Reliable Prepaid Plan
   description: Travel to Dominican Republic with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Punta
     Cana, Santo Domingo & Puerto Plata.
   keywords: Dominican Republic eSIM, buy Dominican Republic eSIM, best Dominican Republic eSIM, Dominican Republic travel

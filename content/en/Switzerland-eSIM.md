@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Switzerland eSIM - Alpine 5G Coverage & EU Roaming | Roami
+  title: Switzerland eSIM - Alpine 5G Coverage & EU Roaming
   description: Get the best Switzerland eSIM with 5G on Swisscom, Sunrise & Salt — from Jungfraujoch to Geneva. Includes EU roaming at no extra cost. Skip Zurich airport queues. Plans from $1.99.
   keywords: Switzerland eSIM, buy Switzerland eSIM, best Switzerland eSIM, Switzerland travel eSIM, Swisscom Switzerland, Sunrise Switzerland, Salt Switzerland, Zurich eSIM, Geneva eSIM, Basel eSIM, Switzerland prepaid eSIM, 5G Switzerland eSIM, Swiss Alps eSIM, Jungfraujoch eSIM, Switzerland eSIM EU roaming
   low_price: 1.99

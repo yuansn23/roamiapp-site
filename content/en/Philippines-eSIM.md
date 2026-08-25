@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Philippines eSIM - Best 5G Plan for Manila & Cebu
+  title: Philippines eSIM - 5G Prepaid Data Plan for Travel
   description: Get the best Philippines prepaid eSIM with 5G on Globe, Smart & DITO. No ID or selfie needed — instant QR activation. Bypass RA 11934 registration. From $1.99.
   keywords: Philippines eSIM, buy Philippines eSIM, best Philippines eSIM, Philippines travel eSIM, Globe Philippines, Smart Philippines, DITO Philippines, Manila eSIM, Cebu eSIM, Davao eSIM, Philippines prepaid eSIM, 5G Philippines eSIM, Boracay eSIM, Palawan eSIM
   low_price: 1.99

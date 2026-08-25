@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Netherlands eSIM - Best 5G Plan for Amsterdam 
+  title: Netherlands eSIM - 5G Prepaid Data Plan for Nomads 
   description: Get the best Netherlands prepaid eSIM with 5G on KPN, Vodafone & T-Mobile. No ID needed — instant QR activation. Full-speed EU roaming with no caps. From $1.99.
   keywords: Netherlands eSIM, buy Netherlands eSIM, best Netherlands eSIM, Netherlands travel eSIM, KPN Netherlands, Vodafone Netherlands, T-Mobile Netherlands, Amsterdam eSIM, Rotterdam eSIM, The Hague eSIM, Netherlands prepaid eSIM, 5G Netherlands eSIM, Keukenhof eSIM, tulip fields eSIM
   low_price: 1.99

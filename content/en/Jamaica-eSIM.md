@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Jamaica eSIM | Best Travel eSIM for Your Journey
+  title: Jamaica eSIM | Best Prepaid Data Plan for Tourists
   description: Need a prepaid travel eSIM for Jamaica? Roami offers unlimited 5G data island-wide. Covers Kingston, Montego
     Bay & Negril. Instant activation.
   keywords: Jamaica eSIM, buy Jamaica eSIM, best Jamaica eSIM, Jamaica travel eSIM, Digicel Jamaica, Flow Jamaica, Lime Jamaica,

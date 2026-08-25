@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Croatia eSIM | Best Travel eSIM for Your Journey
+  title: Croatia eSIM | Best 5G Unlimited Data for Your Trip
   description: Need a prepaid travel eSIM for Croatia? Roami offers unlimited 5G data along the coast & inland. Instant activation.
     Covers Dubrovnik, Split & Zagreb.
   keywords: Croatia eSIM, buy Croatia eSIM, best Croatia eSIM, Croatia travel eSIM, Hrvatski Telekom Croatia, A1 Hrvatska

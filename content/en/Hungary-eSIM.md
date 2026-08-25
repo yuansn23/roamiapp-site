@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Hungary eSIM | Best Travel Data Plan for Explorers
+  title: Hungary eSIM | Best Prepaid 5G Data for Your Trip
   description: Get the best prepaid travel eSIM for Hungary from Roami. Unlimited 5G data nationwide. Instant activation.
     Covers Budapest, Debrecen & Pecs.
   keywords: Hungary eSIM, buy Hungary eSIM, best Hungary eSIM, Hungary travel eSIM, Magyar Telekom Hungary, Telenor Hungary

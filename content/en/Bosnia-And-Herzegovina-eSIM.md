@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: 'Bosnia eSIM: Unlimited 5G, No Contracts or Hidden Fees'
+  title: 'Bosnia eSIM: Unlimited 5G Data, No Hidden Charges'
   description: Compare Bosnia and Herzegovina eSIM plans with fast 5G in Sarajevo, Mostar, Banja Luka. BH Telecom & HT Mostar
     & m:tel coverage guide for tourists & travelers. Instant QR activation from $1.99.
   keywords: Bosnia and Herzegovina eSIM, buy Bosnia and Herzegovina eSIM, best Bosnia and Herzegovina eSIM, Bosnia and Herzegovina

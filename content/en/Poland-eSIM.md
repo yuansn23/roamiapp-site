@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Poland eSIM - 5G in Warsaw & Krakow | Roami
+  title: Poland eSIM - Best Unlimited Data Plan for Your Trip
   description: Get the best Poland eSIM with 5G on Play, Orange & T-Mobile. No passport registration needed — tourists can't register online with Polish SIMs. Covers Warsaw, Krakow & Gdansk. Plans from $1.99.
   keywords: Poland eSIM, buy Poland eSIM, best Poland eSIM, Poland travel eSIM, Play Poland, Orange Poland, T-Mobile Poland, Warsaw eSIM, Krakow eSIM, Gdansk eSIM, Poland prepaid eSIM, 5G Poland eSIM, Poland eSIM no passport
   low_price: 1.99
@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/pl.svg
   flag_alt: Poland Flag
-  title: 'Poland eSIM: 5G in Warsaw, Krakow & Beyond — No Passport, No Store Visit'
+  title: 'Poland eSIM: 5G in Warsaw, Krakow & Beyond — No Passport'
   subtitle: 5G on Play, Orange & T-Mobile | No passport registration | 24/7 support
 features:
   title: 'Why Poland Travelers Choose Roami: Coverage, Savings & No KYC Hassle'

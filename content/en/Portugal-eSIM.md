@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Portugal eSIM - Best 5G Plan for Lisbon & Algarve
+  title: Portugal eSIM - Best 5G Prepaid Plan for Your Journey
   description: Get the best Portugal prepaid eSIM with 5G on Vodafone, MEO & NOS. No ID needed — instant QR activation. Global payment accepted — no local card restrictions. From $1.99.
   keywords: Portugal eSIM, buy Portugal eSIM, best Portugal eSIM, Portugal travel eSIM, Vodafone Portugal, MEO Portugal, NOS Portugal, Lisbon eSIM, Porto eSIM, Faro eSIM, Portugal prepaid eSIM, 5G Portugal eSIM, Algarve eSIM, Douro Valley eSIM, Sintra eSIM
   low_price: 1.99

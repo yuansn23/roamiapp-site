@@ -19,7 +19,7 @@ modal:
   text_android: |-
     Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo code:web20
 seo:
-  title: "Slovenia eSIM | Prepaid Data Plan for Your Trip"
+  title: "Slovenia eSIM | Best 5G Unlimited Data for Explorers"
   description: "Get ready for Slovenia with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant activation. Covers Ljubljana, Bled & Maribor."
   keywords: Slovenia eSIM, eSIM Slovenia, cheap eSIM Slovenia, travel internet Slovenia,
     A1 Slovenia, Telekom Slovenije, instant eSIM, no roaming charges

@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Chile eSIM | Buy Travel Data Plan for Your Trip
+  title: Chile eSIM | Unlimited Prepaid Data for Your Stay
   description: Stay connected in Chile with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Instant activation.
     Covers Santiago, Valparaiso & Concepcion.
   keywords: Chile eSIM, buy Chile eSIM, best Chile eSIM, Chile travel eSIM, Entel Chile, Movistar Chile, Claro Chile, Santiago

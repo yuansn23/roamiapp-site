@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Estonia eSIM | Unlimited Data Plan for Travelers
+  title: Estonia eSIM | Best Prepaid 5G Data for Travelers
   description: Stay connected in Estonia with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant
     activation. Covers Tallinn & Tartu.
   keywords: Estonia eSIM, buy Estonia eSIM, best Estonia eSIM, Estonia travel eSIM, Telia Estonia, Elisa Estonia, Tele2 Estonia,

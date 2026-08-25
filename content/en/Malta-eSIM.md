@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Malta eSIM | Ultimate Travel Data Plan
+  title: Malta eSIM | Fast Prepaid Data Plan for Travelers
   description: Explore Malta with the best prepaid travel eSIM from Roami. Unlimited 5G data on all three islands. Covers
     Valletta, Gozo & Comino. Instant activation.
   keywords: Malta eSIM, buy Malta eSIM, best Malta eSIM, Malta travel eSIM, GO Malta, Melita Malta, Epic Malta, Valletta eSIM,

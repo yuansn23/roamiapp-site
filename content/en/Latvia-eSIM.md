@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Latvia eSIM | Best Prepaid Plan for Travel
+  title: Latvia eSIM | Best Unlimited Data Plan for Tourists
   description: Explore Latvia with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Instant QR activation.
     Covers Riga, Daugavpils & Jurmala.
   keywords: Latvia eSIM, buy Latvia eSIM, best Latvia eSIM, Latvia travel eSIM, LMT Latvia, Tele2 Latvia, Bite Latvia, Riga

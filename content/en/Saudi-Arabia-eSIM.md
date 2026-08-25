@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Saudi Arabia eSIM - 5G in Riyadh & Jeddah | Roami
+  title: Saudi Arabia eSIM | Best 5G Data Plan for Travelers
   description: Get the best Saudi Arabia eSIM with 5G on STC, Mobily & Zain. No passport/fingerprint registration — local SIMs require biometric KYC. Covers Riyadh, Jeddah, Mecca & Medina. Plans from $1.99.
   keywords: Saudi Arabia eSIM, buy Saudi Arabia eSIM, best Saudi Arabia eSIM, Saudi Arabia travel eSIM, STC Saudi Arabia, Mobily Saudi Arabia, Zain Saudi Arabia, Riyadh eSIM, Jeddah eSIM, Mecca eSIM, Saudi Arabia prepaid eSIM, 5G Saudi Arabia eSIM, Umrah eSIM, Saudi eSIM no fingerprint
   low_price: 1.99
@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/sa.svg
   flag_alt: Saudi Arabia Flag
-  title: 'Saudi Arabia eSIM: 5G in Riyadh, Jeddah & Beyond — No Passport, No Fingerprint KYC'
+  title: 'Saudi Arabia eSIM: 5G in Riyadh, Jeddah & Beyond — No Passport'
   subtitle: 5G on STC, Mobily & Zain | No passport/fingerprint registration| 24/7 support
 features:
   title: 'Why Saudi Arabia Travelers Choose Roami: Coverage, Convenience & No Biometric KYC'

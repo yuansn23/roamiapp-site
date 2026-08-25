@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Mexico eSIM - 5G in Cancún & Mexico City | Roami
+  title: Mexico eSIM - Best Unlimited Data Plan for Travel
   description: Get the best Mexico eSIM with 5G on Telcel, AT&T & Movistar. No passport/selfie registration — since 2026, local SIMs require ID + selfie. Covers Cancún, Mexico City & Riviera Maya. Plans from $1.99.
   keywords: Mexico eSIM, buy Mexico eSIM, best Mexico eSIM, Mexico travel eSIM, Telcel Mexico, AT&T Mexico, Movistar Mexico, Mexico City eSIM, Cancún eSIM, Riviera Maya eSIM, Mexico prepaid eSIM, 5G Mexico eSIM, Mexico eSIM no passport
   low_price: 1.99
@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/mx.svg
   flag_alt: Mexico Flag
-  title: 'Mexico eSIM: 5G in Cancún, Mexico City & Beyond — No Passport, No Selfie'
+  title: 'Mexico eSIM: 5G in Cancún, Mexico City & Beyond — No Passport'
   subtitle: 5G on Telcel, AT&T & Movistar | No passport/selfie registration| 24/7 support
 features:
   title: 'Why Mexico Travelers Choose Roami: Coverage, Value & No 2026 Registration Hassle'

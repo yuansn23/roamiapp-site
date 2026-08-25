@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Bahamas eSIM | Best Prepaid Plan for Travel
+  title: Bahamas eSIM | Best 5G Unlimited Data for Travelers
   description: Get the best prepaid travel eSIM for the Bahamas from Roami. Unlimited 5G data across 700+ islands. Covers
     Nassau, Freeport & Exuma. Instant activation.
   keywords: Bahamas eSIM, buy Bahamas eSIM, best Bahamas eSIM, Bahamas travel eSIM, BTC Bahamas, Aliv Bahamas, Cable Bahamas

@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Dominica eSIM | Best Prepaid eSIM for Travelers
+  title: Dominica eSIM | Best 5G Prepaid Data for Your Stay
   description: Planning a trip to Dominica? Get Roami's best prepaid travel eSIM with unlimited 5G data. Covers Roseau & all
     parishes. Instant activation.
   keywords: Dominica eSIM, buy Dominica eSIM, best Dominica eSIM, Dominica travel eSIM, Digicel Dominica, Flow Dominica, Orange

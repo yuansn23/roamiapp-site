@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Brunei eSIM | Ultimate Travel Data Plan
+  title: Brunei eSIM | Best 5G Unlimited Data for Your Journey
   description: Get ready for Brunei with Roami's best prepaid travel eSIM. Unlimited 5G data across the sultanate. Covers
     Bandar Seri Begawan. Instant activation.
   keywords: Brunei eSIM, buy Brunei eSIM, best Brunei eSIM, Brunei travel eSIM, DST Brunei, Progresif Brunei, imagine Brunei,

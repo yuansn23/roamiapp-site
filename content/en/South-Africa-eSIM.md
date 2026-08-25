@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: South Africa eSIM | Prepaid Data Plan for Your Trip
+  title: South Africa eSIM | 5G Coverage, No Roaming Fees
   description: Travel to South Africa with the best prepaid travel eSIM from Roami. Unlimited 5G data on top networks. Instant
     activation. Covers Cape Town & Johannesburg.
   keywords: South Africa eSIM, buy South Africa eSIM, best South Africa eSIM, South Africa travel eSIM, Vodacom South Africa,

@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: USA eSIM - Best 5G Prepaid Plan for Travelers | Roami
+  title: USA eSIM - Best 5G Prepaid Data Plan for Travelers
   description: Get the best USA prepaid eSIM with 5G coverage on T-Mobile, AT&T & Verizon. No ID or registration needed. Instant activation. Plans from $1.99.
   keywords: USA eSIM, buy USA eSIM, best USA eSIM, USA travel eSIM, T-Mobile United
     States, AT&T USA, Verizon USA, New York eSIM, Los Angeles eSIM, Chicago eSIM, USA prepaid

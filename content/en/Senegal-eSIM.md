@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: 'Senegal eSIM 2026: Unlimited 5G Data for West Africa Travel'
+  title: 'Senegal eSIM: Unlimited 5G Data for West Africa Trips'
   description: Compare Senegal eSIM plans with fast 5G in Dakar, Saint-Louis, Thiès. Orange & Free & Tigo coverage guide for
     tourists & travelers. Instant QR activation from $1.99.
   keywords: Senegal eSIM, buy Senegal eSIM, best Senegal eSIM, Senegal travel eSIM, Orange Senegal, Free Senegal, Tigo Senegal,

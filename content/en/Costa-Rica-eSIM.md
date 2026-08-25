@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Costa Rica eSIM | Buy Unlimited Data Plan for Travelers
+  title: Costa Rica eSIM | Best 5G Coverage for Explorers
   description: Explore Costa Rica with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Instant activation.
     Covers San Jose, Liberia & all regions.
   keywords: Costa Rica eSIM, buy Costa Rica eSIM, best Costa Rica eSIM, Costa Rica travel eSIM, Liberty Costa Rica, Claro

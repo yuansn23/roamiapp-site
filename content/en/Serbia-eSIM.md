@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Serbia eSIM | Best eSIM Plan for Tourists
+  title: Serbia eSIM | Unlimited Prepaid Data for Explorers
   description: Stay connected in Serbia with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Instant QR activation.
     Covers Belgrade, Novi Sad & Nis.
   keywords: Serbia eSIM, buy Serbia eSIM, best Serbia eSIM, Serbia travel eSIM, Telenor Serbia Serbia, Telekom Srbija Serbia,

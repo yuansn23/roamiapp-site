@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Belgium eSIM | Fast & Reliable Prepaid Data Plan
+  title: Belgium eSIM | Best 5G Unlimited Data for Visitors
   description: Get ready for Belgium with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Instant QR activation.
     Covers Brussels, Bruges & Antwerp.
   keywords: Belgium eSIM, buy Belgium eSIM, best Belgium eSIM, Belgium travel eSIM, Proximus Belgium, Orange Belgium Belgium,

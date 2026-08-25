@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Bangladesh eSIM | Unlimited Data Plan for Travelers
+  title: Bangladesh eSIM | 5G Prepaid Data Plan for Your Trip
   description: The best way to stay connected in Bangladesh. Unlimited 5G data with instant activation. Covers Dhaka, Chittagong
     & Sylhet. Instant activation.
   keywords: Bangladesh eSIM, buy Bangladesh eSIM, best Bangladesh eSIM, Bangladesh travel eSIM, Grameenphone Bangladesh, Robi

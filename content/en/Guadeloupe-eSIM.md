@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: 'Guadeloupe eSIM: 5G Coverage, No ID Verification Required'
+  title: 'Guadeloupe eSIM: 5G Coverage, No ID Verification'
   description: Compare Guadeloupe eSIM plans with fast 5G in Pointe-à-Pitre, Basse-Terre, Le Gosier. Orange & SFR & Free Mobile
     coverage guide for tourists & travelers. Instant QR activation from $1.99.
   keywords: Guadeloupe eSIM, buy Guadeloupe eSIM, best Guadeloupe eSIM, Guadeloupe travel eSIM, Orange Guadeloupe, SFR Guadeloupe,

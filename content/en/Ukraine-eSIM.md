@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Ukraine eSIM | Best Travel Data Plan for Explorers
+  title: Ukraine eSIM | Best Prepaid Data Plan for Your Trip
   description: Travel to Ukraine with the best prepaid travel eSIM from Roami. Unlimited 5G data on top networks. Covers Kyiv,
     Lviv & Odessa. Instant activation.
   keywords: Ukraine eSIM, buy Ukraine eSIM, best Ukraine eSIM, Ukraine travel eSIM, Kyivstar Ukraine, Vodafone Ukraine Ukraine,

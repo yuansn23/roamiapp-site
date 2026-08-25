@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: South Korea eSIM - 5G in Seoul & Busan | Skip the Queue
+  title: South Korea eSIM - 5G Prepaid Data Plan for Visitors 
   description: Get the best South Korea eSIM with the world's fastest 5G on SK Telecom, KT & LG U+. No airport queues — instant QR activation. Plans from $1.99. Perfect for Seoul, Busan & Jeju.
   keywords: South Korea eSIM, buy South Korea eSIM, best South Korea eSIM, South Korea travel eSIM, SK Telecom South Korea, KT South Korea, LG U+ South Korea, Seoul eSIM, Busan eSIM, Incheon eSIM, South Korea prepaid eSIM, 5G South Korea eSIM, fastest 5G South Korea, eSIM for K-pop concert
   low_price: 1.99

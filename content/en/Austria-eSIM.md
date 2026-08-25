@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Austria eSIM | Best Travel eSIM for Your Journey
+  title: Austria eSIM | Best 5G Unlimited Data for Travel
   description: Enjoy unlimited data in Austria with the best prepaid travel eSIM from Roami. Instant activation. Covers Vienna,
     Salzburg & Innsbruck. Plans from $1.99.
   keywords: Austria eSIM, buy Austria eSIM, best Austria eSIM, Austria travel eSIM, A1 Telekom Austria, T-Mobile Austria,

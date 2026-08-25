@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Luxembourg eSIM | Top Prepaid Travel eSIM Plan
+  title: Luxembourg eSIM | Best 5G Coverage for Your Journey
   description: Need a prepaid travel eSIM for Luxembourg? Roami offers unlimited 5G data across the country. Instant activation.
     Covers Luxembourg City Buy your plan online today.
   keywords: Luxembourg eSIM, buy Luxembourg eSIM, best Luxembourg eSIM, Luxembourg travel eSIM, POST Luxembourg Luxembourg,

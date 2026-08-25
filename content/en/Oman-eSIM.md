@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Oman eSIM - 5G in Muscat & Nizwa | Roami
+  title: Oman eSIM - Prepaid 5G Data Plan for Your Journey
   description: Get the best Oman eSIM with 5G on Omantel, Ooredoo & Vodafone. No passport registration needed — skip airport queues. Covers Muscat, Nizwa & Salalah. Plans from $1.99.
   keywords: Oman eSIM, buy Oman eSIM, best Oman eSIM, Oman travel eSIM, Omantel Oman, Ooredoo Oman, Vodafone Oman, Muscat eSIM, Salalah eSIM, Nizwa eSIM, Oman prepaid eSIM, 5G Oman eSIM, Oman eSIM no passport
   low_price: 1.99

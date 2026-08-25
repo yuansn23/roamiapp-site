@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Japan eSIM - Best 5G Plan for Tokyo & Kyoto | Roami
+  title: Japan eSIM - Fast Prepaid Data Plan for Explorers
   description: Get the best Japan prepaid eSIM with 5G on NTT Docomo, SoftBank & KDDI. No ID needed — instant QR activation, 24/7. No activation time windows. From $1.99.
   keywords: Japan eSIM, buy Japan eSIM, best Japan eSIM, Japan travel eSIM, NTT Docomo Japan, SoftBank Japan, KDDI Japan, Tokyo eSIM, Osaka eSIM, Kyoto eSIM, Japan prepaid eSIM, 5G Japan eSIM, Shinkansen eSIM, onsen eSIM
   low_price: 1.99

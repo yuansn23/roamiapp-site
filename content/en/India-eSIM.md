@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: India eSIM - Best 5G Plan for Delhi & Taj Mahal | Roami
+  title: India eSIM - Fast 5G Prepaid Data for Your Journey
   description: Get the best India prepaid eSIM with 5G on Airtel, Jio & Vi. No KYC or passport needed — instant QR activation. No 28-day waste. From $1.99.
   keywords: India eSIM, buy India eSIM, best India eSIM, India travel eSIM, Airtel India, Jio India, Vi India, Delhi eSIM, Mumbai eSIM, Bangalore eSIM, India prepaid eSIM, 5G India eSIM, Taj Mahal eSIM, Jaipur eSIM, Kerala eSIM
   low_price: 1.99

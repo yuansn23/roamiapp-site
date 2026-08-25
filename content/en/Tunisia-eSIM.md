@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Tunisia eSIM - 4G/5G in Tunis & Sousse | Roami
+  title: Tunisia eSIM - Best Prepaid Data Plan for Your Stay
   description: Get the best Tunisia eSIM with 4G/5G on Tunisie Telecom, Orange & Ooredoo. No airport queues, no passport photocopying — instant QR delivery. Covers Tunis, Sousse, Carthage & Hammamet. Plans from $1.99.
   keywords: Tunisia eSIM, buy Tunisia eSIM, best Tunisia eSIM, Tunisia travel eSIM, Tunisie Telecom Tunisia, Orange Tunisie Tunisia, Ooredoo Tunisie Tunisia, Tunis eSIM, Sfax eSIM, Sousse eSIM, Tunisia prepaid eSIM, Carthage eSIM, Hammamet eSIM
   low_price: 1.99
@@ -42,7 +42,7 @@ banner:
 hero:
   flag_image: img/flags/tn.svg
   flag_alt: Tunisia Flag
-  title: 'Tunisia eSIM: 4G/5G in Tunis, Sousse & Beyond '
+  title: 'Tunisia eSIM: 4G/5G in Tunis, Sousse & Beyond'
   subtitle: 4G/5G on Tunisie Telecom, Orange & Ooredoo | No passport photocopying | Instant QR delivery
 features:
   title: 'Why Tunisia Travelers Choose Roami: Coverage, Convenience & Support'

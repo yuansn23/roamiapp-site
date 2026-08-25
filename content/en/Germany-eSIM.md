@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Germany eSIM - 5G in Berlin & Munich | No PostIdent
+  title: Germany eSIM - Best 5G Prepaid Plan | No PostIdent
   description: Get the best Germany eSIM with 5G on Deutsche Telekom, Vodafone & O2. No PostIdent/VideoIdent required — skip Germany's strict SIM registration. Covers Berlin, Munich & beyond. Plans from $1.99.
   keywords: Germany eSIM, buy Germany eSIM, best Germany eSIM, Germany travel eSIM, Deutsche Telekom Germany, Vodafone Germany, O2 Germany, Berlin eSIM, Munich eSIM, Hamburg eSIM, Germany prepaid eSIM, 5G Germany eSIM, Germany eSIM no registration
   low_price: 1.99

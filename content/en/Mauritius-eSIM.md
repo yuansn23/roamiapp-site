@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Mauritius eSIM | Prepaid Data Plan for Your Trip
+  title: Mauritius eSIM | Best 5G Prepaid Data for Nomads
   description: Roami's best prepaid travel eSIM for Mauritius. Unlimited 5G data with instant activation. Covers Port Louis,
     Curepipe. Instant activation.
   keywords: Mauritius eSIM, buy Mauritius eSIM, best Mauritius eSIM, Mauritius travel eSIM, Emtel Mauritius, my.t Mauritius,

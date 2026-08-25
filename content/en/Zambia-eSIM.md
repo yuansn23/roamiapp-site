@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Zambia eSIM | Ultimate Travel Data Plan
+  title: Zambia eSIM | Unlimited Prepaid Data for Your Journey
   description: Travel to Zambia with Roami's best prepaid travel eSIM. Unlimited 5G data nationwide. Covers Lusaka, Kitwe
     & Ndola. Instant activation Buy your plan online today.
   keywords: Zambia eSIM, buy Zambia eSIM, best Zambia eSIM, Zambia travel eSIM, Airtel Zambia Zambia, MTN Zambia Zambia, Zamtel

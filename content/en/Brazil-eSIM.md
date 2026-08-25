@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Brazil eSIM - 5G in Rio & São Paulo | No CPF Needed
+  title: Brazil eSIM - Best 5G Prepaid Plan | No CPF Needed
   description: Get the best Brazil eSIM with 5G on Claro, Vivo & TIM. No CPF or passport needed — skip Portuguese phone activation. Covers Rio, São Paulo & Brasília. Plans from $1.99.
   keywords: Brazil eSIM, buy Brazil eSIM, best Brazil eSIM, Brazil travel eSIM, Claro Brazil, Vivo Brazil, TIM Brazil, São Paulo eSIM, Rio de Janeiro eSIM, Brasília eSIM, Brazil prepaid eSIM, 5G Brazil eSIM, Brazil eSIM no CPF
   low_price: 1.99

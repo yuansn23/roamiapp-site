@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Guam eSIM | Best Prepaid eSIM for Travelers
+  title: Guam eSIM | Fast Prepaid Data Plan for Your Stay
   description: Get online instantly in Guam. Unlimited 5G data with instant activation. Covers Hagatna, Tumon & Dededo. Instant
     activation Buy your plan online today.
   keywords: Guam eSIM, buy Guam eSIM, best Guam eSIM, Guam travel eSIM, DOCOMO Pacific Guam, IT&E Guam, GTA Guam, Hagåtña

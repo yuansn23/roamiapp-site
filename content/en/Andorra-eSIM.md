@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: "\tAndorra eSIM 2026: Best Travel eSIM & Coverage Guide"
+  title: "Andorra eSIM: Best Travel eSIM & 5G Coverage Guide"
   description: Compare Andorra eSIM plans with fast 5G in Andorra la Vella, Escaldes-Engordany, Encamp. Andorra Telecom coverage
     guide for tourists & travelers. Instant QR activation from $1.99.
   keywords: Andorra eSIM, buy Andorra eSIM, best Andorra eSIM, Andorra travel eSIM, Andorra Telecom Andorra, Andorra la Vella

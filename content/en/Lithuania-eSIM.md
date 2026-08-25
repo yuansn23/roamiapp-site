@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Lithuania eSIM | Fast & Reliable Prepaid Data Plan
+  title: Lithuania eSIM | Best 5G Prepaid Data for Explorers
   description: Travel smart with a prepaid eSIM for Lithuania. Unlimited 5G data with instant activation. Covers Vilnius,
     Kaunas & Klaipeda Buy your plan online today.
   keywords: Lithuania eSIM, buy Lithuania eSIM, best Lithuania eSIM, Lithuania travel eSIM, Tele2 Lithuania, Telia Lithuania,

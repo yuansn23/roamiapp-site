@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Singapore eSIM - 5G Island-Wide Coverage 
+  title: Singapore eSIM - Best 5G Prepaid Plan Island-Wide 
   description: Get the best Singapore eSIM with 5G island-wide on Singtel, StarHub & M1. No passport queues at Changi — instant QR delivery. Perfect for Marina Bay, Sentosa & Orchard Road. Plans from $1.99.
   keywords: Singapore eSIM, buy Singapore eSIM, best Singapore eSIM, Singapore travel eSIM, Singtel Singapore, StarHub Singapore, M1 Singapore, Singapore City eSIM, Jurong East eSIM, Tampines eSIM, Singapore prepaid eSIM, 5G Singapore eSIM, Marina Bay eSIM, Sentosa eSIM
   low_price: 1.99

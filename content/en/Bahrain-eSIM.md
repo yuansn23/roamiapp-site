@@ -19,7 +19,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: 'Bahrain eSIM 2026: 5G Unlimited Data for Middle East Travel'
+  title: 'Bahrain eSIM: Unlimited 5G Data for Gulf Travelers'
   description: Compare Bahrain eSIM plans with fast 5G in Manama, Riffa, Muharraq. Zain & Batelco & STC coverage guide for
     tourists & travelers. Instant QR activation from $1.99.
   keywords: Bahrain eSIM, buy Bahrain eSIM, best Bahrain eSIM, Bahrain travel eSIM, Zain Bahrain, Batelco Bahrain, STC Bahrain,

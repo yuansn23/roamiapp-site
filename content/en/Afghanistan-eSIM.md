@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: 'Afghanistan 5G eSIM: High-Speed Internet for Business & Travel'
+  title: 'Afghanistan eSIM: 5G High-Speed Data for Travelers'
   description: Compare Afghanistan eSIM plans with fast 5G in Kabul, Kandahar, Herat. Afghan Wireless & MTN & Roshan coverage
     guide for tourists & travelers. Instant QR activation from $1.99.
   keywords: Afghanistan eSIM, buy Afghanistan eSIM, best Afghanistan eSIM, Afghanistan travel eSIM, Afghan Wireless Afghanistan,

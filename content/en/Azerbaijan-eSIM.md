@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Azerbaijan eSIM | Ultimate Travel Data Plan
+  title: Azerbaijan eSIM | 5G Prepaid Data Plan for Your Stay
   description: Travel to Azerbaijan with the best prepaid travel eSIM from Roami. Unlimited 5G data nationwide. Covers Baku,
     Ganja & Sheki. Instant activation.
   keywords: Azerbaijan eSIM, buy Azerbaijan eSIM, best Azerbaijan eSIM, Azerbaijan travel eSIM, Azercell Azerbaijan, Bakcell

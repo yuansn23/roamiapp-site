@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Sweden eSIM 2026 - Best 5G Plan for Stockholm & Lapland | Roami
+  title: Sweden eSIM - Unlimited Prepaid Data for Tourists
   description: Get the best Sweden prepaid eSIM with 5G on Telia, Telenor & Tele2. No passport or ID needed — instant QR activation. EU roaming included. No Swedish card required. From $1.99.
   keywords: Sweden eSIM, buy Sweden eSIM, best Sweden eSIM, Sweden travel eSIM, Telia Sweden, Telenor Sweden, Tele2 Sweden, Stockholm eSIM, Gothenburg eSIM, Malmö eSIM, Sweden prepaid eSIM, 5G Sweden eSIM, eSIM for Northern Lights, Abisko eSIM, Kiruna eSIM
   low_price: 1.99

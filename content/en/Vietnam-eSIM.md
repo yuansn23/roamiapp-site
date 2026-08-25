@@ -18,7 +18,7 @@ modal:
   text_android: Our eSIM service has been upgraded to <strong>PhoneSIM</strong>.<br>New customers enjoy a 20% discount, promo
     code:web20
 seo:
-  title: Vietnam eSIM | Buy Fast Prepaid Data Plan
+  title: Vietnam eSIM | Unlimited 5G Data for Your Journey
   description: Travel to Vietnam with the best prepaid travel eSIM from Roami. Unlimited 5G data on top networks. Instant
     activation. Covers Hanoi, Ho Chi Minh City & Da Nang.
   keywords: Vietnam eSIM, buy Vietnam eSIM, best Vietnam eSIM, Vietnam travel eSIM, Viettel Vietnam, Mobifone Vietnam, Vinaphone
