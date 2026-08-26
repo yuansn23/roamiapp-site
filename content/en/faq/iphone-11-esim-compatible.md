@@ -261,6 +261,8 @@ For complete activation details on all iPhone models, see our **[iPhone eSIM act
 5. Choose your default line for voice, data, and iMessage.
 6. At your destination, go to **Settings > Cellular > [your eSIM plan]** and turn **Data Roaming** ON.
 
+**Choosing a plan for your iPhone:** when you search for **eSIM plans for iPhone**, you'll find two broad kinds. *Data‑only* plans (what most travel eSIMs are) are the cheapest option if you only need internet abroad. If you want a phone number too, look for a **global SIM card for iPhone** – a full service that includes calls and SMS as well as data. Either one installs the same way as any other **eSIM card for iPhone**: scan the QR code or tap the carrier's install link. For most short trips, the data‑only plan is the better value.
+
 **iOS 18 tip:** If you're on iOS 18, the "Add Cellular Plan" interface has been redesigned with a more prominent QR scanner and a smoother activation flow. You'll see a progress indicator during the profile download.
 
 ### Activating a Carrier eSIM (e.g., Verizon, T‑Mobile, AT&T, Jio)

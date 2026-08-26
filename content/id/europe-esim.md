@@ -4,7 +4,7 @@ description: "Internet 5G di Inggris, Prancis, Italia & 40+ negara Eropa. Aktiva
 date: '2026-08-24T00:00:00+00:00'
 lastmod: 2026-08-24
 type: regional-esim
-url: /europe-esim/
+
 breadcrumbs:
 - name: Beranda
   url: /

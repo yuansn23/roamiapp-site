@@ -118,7 +118,7 @@ sidebar_questions:
 
 If you're heading to the UK, you have three options for staying online: pay your home carrier's roaming fees (expensive), hunt for a physical SIM at the airport (time‑consuming and marked up), or buy a digital plan before you leave.
 
-**The smart choice is obvious:** buy a digital plan online, install it on your phone, and you're connected the moment you land. No queues at Heathrow, no overpriced airport SIMs, no language barriers.
+**The smart choice is obvious:** buy a digital plan online, install it on your phone, and you're connected the moment you land. No queues at Heathrow, no overpriced airport SIMs, no language barriers. These days, the ability to **buy eSIM online** means there's rarely a reason to pay airport prices or carry a physical card at all – you complete the whole purchase from your phone while still at home.
 
 Here's how to get set up in three steps:
 

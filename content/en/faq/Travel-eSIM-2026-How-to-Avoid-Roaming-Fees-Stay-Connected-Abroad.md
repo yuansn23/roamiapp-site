@@ -288,7 +288,9 @@ All iPhone models from **iPhone XS, XR, and later** support eSIM. That includes 
 
 ## Best Travel eSIM Providers Compared – Roami, Airalo, Holafly & More
 
-Choosing the right **travel eSIM providers** can be overwhelming. Here's a comparison of the top options for **best travel eSIM** based on price, coverage, and features:
+Choosing the right **travel eSIM providers** can be overwhelming. Here's a comparison of the top options for **best travel eSIM** based on price, coverage, and features.
+
+*Before the table, a quick note on naming:* you'll see "travel eSIM," "**international eSIM**," and "**eSIM for international travel**" used almost interchangeably across the web. They describe the same thing – a digital SIM you buy from a global provider instead of a local carrier. The words just emphasize different angles: "travel eSIM" stresses the use case, while "**international eSIM**" (or "**eSIM international**") stresses the multi-country coverage. For shoppers searching for the most **affordable eSIM for international travel**, all three lead to the same type of product.
 
 | Provider | Coverage | Starting Price | Data Plans | Key Feature |
 |----------|----------|---------------|------------|-------------|
@@ -480,6 +482,8 @@ If you're traveling to Japan, Korea, or Europe, you might have heard of **Pocket
 
 **Verdict:** Travel eSIM wins in every category except one – if you're traveling with a **family of 4+** and everyone needs data, one Pocket Wi‑Fi might be cheaper than buying 4 individual eSIMs. But even then, you can just buy one eSIM and use your phone as a hotspot for the family.
 
+*A note for travelers who still reach for a physical card:* if you're weighing a travel eSIM against a traditional **international travel SIM** (a physical SIM you buy for use abroad), the tradeoff is the same as any **eSIM for travel** versus plastic – a physical **international data** SIM must be sourced after you land, whereas an eSIM is installed before you fly. For most short trips, the eSIM simply wins on convenience.
+
 > 💡 **Pro tip:** If you're traveling with a group, buy **one travel eSIM** on one person's phone and enable **Personal Hotspot** – everyone connects to that phone. One plan, one cost, no extra device to carry.
 
 
@@ -587,6 +591,9 @@ Yes! Roami offers a [free eSIM trial](/free-esim/) so you can test the service b
 
 **Q13: What is an international eSIM card?**
 An **international eSIM card** is a digital SIM that works across multiple countries. Providers like Roami and Airalo offer **global eSIM card** options that cover 190+ countries with a single purchase.
+
+**Q13b: Is an "international eSIM" the same as a "travel eSIM"?**
+Yes. They are two names for the same product, and you'll also see it written as an **international travel SIM** or a **global travel SIM** (or "**global travel SIM card**"). All of them mean a prepaid, data-focused SIM you buy before your trip so you don't have to hunt for a physical SIM abroad. The only real distinction is scope: an "international" or "global" plan spans multiple countries, while a "travel" plan is usually tied to one country or region. Choose based on your itinerary, not the label.
 
 **Q14: How do I get an eSIM for travel?**
 Simply download your provider's app, purchase a plan, and install the eSIM profile via QR code. See our **[how to get an eSIM](/faq/how-to-activate-an-esim/)** guide for detailed steps.

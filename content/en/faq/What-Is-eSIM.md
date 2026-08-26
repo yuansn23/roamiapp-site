@@ -201,6 +201,8 @@ The 'e' simply stands for 'embedded'. It does the exact same job as the physical
 
 While people often refer to it as an "eSIM card," that terminology is slightly misleading because there is no physical card handed to you. Instead, it is an industry-standard digital profile.
 
+**A quick note on spelling** – you'll see this technology written several ways online: `eSIM`, `e-SIM`, `e-sim`, `e.sim`, or even `esim` in lowercase. They all mean the exact same embedded SIM; the differences are just styling. The hyphenated `e-sim` and dotted `e.sim` forms come from how people type the "e" prefix, and the plural `eSIMs` (sometimes `e-sims`) simply refers to multiple digital profiles stored on one device. People even say "eSIM cards" or "e sim cards" when talking about several profiles at once – but remember, there's still no physical card involved, just a set of digital profiles on your phone. (If you ever spot "esmis," that's just a typo for "eSIMs" – not a separate technology.) None of these is a different product.
+
 *(Note for international travelers: The technology remains universal across the globe, offering a borderless, digital-first approach to connectivity. A global eSIM is the same embedded chip, but with a plan designed to work across dozens of countries.)*
 
 ### The Old Way: Physical SIM
@@ -245,7 +247,7 @@ When you hear "eSIM activation", it simply means the process of downloading and 
 
 ## 3. eSIM vs physical SIM – the complete comparison table
 
-If you're considering making the switch, it helps to see exactly how the new digital standard compares to the traditional plastic cards you already know. Here is the breakdown:
+If you're considering making the switch, it helps to see exactly how the new digital standard compares to the traditional plastic cards you already know. You'll also hear eSIM described as a **digital SIM card**, a **virtual SIM card**, or even a "**sim card virtual**" (the same phrase, just worded differently) – all are descriptive nicknames for the same thing, because the SIM exists as data rather than as a removable piece of plastic. Here is the breakdown:
 
 | Feature | Physical SIM Card | eSIM |
 |---------|-------------------|------|

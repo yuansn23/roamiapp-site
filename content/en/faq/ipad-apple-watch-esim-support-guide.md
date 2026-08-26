@@ -346,6 +346,8 @@ You have two options:
 - **Travel eSIMs** – Perfect for short trips. You buy a plan for a specific country or region, install it on your iPad, and get data immediately.
 - **Monthly or prepaid data plans** – Some carriers offer recurring data plans for tablets.
 
+Either way, once the plan is installed, the iPad gets its own **eSIM internet** connection – full mobile data independent of Wi‑Fi or your phone. That's what makes a cellular iPad worth it for travel: you're not stuck hunting for café Wi‑Fi to check maps, email, or streaming on a larger screen.
+
 We recommend starting with a **free trial eSIM** from [Roami](/free-esim/) to test your iPad's eSIM functionality at zero cost.
 
 ### For Apple Watch (Companion Plan)

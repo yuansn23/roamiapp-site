@@ -89,7 +89,7 @@ This guide ranks seven providers based on five criteria: price per GB, network q
 
 ## Airalo Review: Best Budget eSIM on Orange Network for France
 
-### Airalo France eSIM plans start at $4.50 for 1GB over 7 days. The 5GB plan costs $12.00 and the 10GB plan costs $20.00, both valid for 30 days.
+**Airalo France eSIM plans start at $4.50 for 1GB over 7 days. The 5GB plan costs $12.00 and the 10GB plan costs $20.00, both valid for 30 days.**
 
 Airalo is the most widely recognized eSIM brand in the travel space, and its France offering delivers solid value for a specific reason: it runs on Orange, France's largest and most reliable network. For travelers who want Orange coverage without paying Orange Travel prices, Airalo is the most straightforward option.
 
@@ -124,7 +124,7 @@ No unlimited data plans. If you are a heavy data user or plan to hotspot for a l
 
 ## Holafly Review: Best Unlimited Data eSIM for France
 
-### Holafly France unlimited eSIM plans start at $25 for 7 days, $45 for 15 days, and $69 for 30 days. Holafly does not offer fixed-data plans below 5GB.
+**Holafly France unlimited eSIM plans start at $25 for 7 days, $45 for 15 days, and $69 for 30 days. Holafly does not offer fixed-data plans below 5GB.**
 
 Holafly occupies a unique position in the France eSIM market as the only major provider offering true unlimited data. If your primary concern is running out of data — whether for Google Maps navigation, social media uploads, video calls, or just the peace of mind of never checking a data counter — Holafly is the default choice.
 
@@ -163,7 +163,7 @@ For pricing across all providers, see our [France eSIM price guide](/blog/france
 
 ## Ubigi Review: Best Value and Speed on Bouygues for France eSIM
 
-### Ubigi France eSIM plans start at $3.99 for 1GB over 7 days. The 5GB plan costs $11.99 and the 10GB plan costs $18.99, both valid for 30 days.
+**Ubigi France eSIM plans start at $3.99 for 1GB over 7 days. The 5GB plan costs $11.99 and the 10GB plan costs $18.99, both valid for 30 days.**
 
 Ubigi has carved out a reputation as the speed-focused eSIM provider in Europe, and its France offering on the Bouygues network delivers on that promise. In speed tests across Paris and Lyon using [Ookla Speedtest](https://www.speedtest.net/), Ubigi delivered strong download speeds on 5G in central Paris. Bouygues has invested heavily in 5G infrastructure, and [Bouygues Telecom's official site](https://www.bouyguestelecom.fr/) provides coverage details for their network.
 
@@ -197,7 +197,7 @@ No unlimited data plans. Like Airalo, Ubigi only offers fixed-data plans. Heavy 
 
 ## Saily Review: Budget Alternative with Solid Coverage
 
-### Saily France eSIM plans start at $4.99 for 1GB over 7 days. The 5GB plan costs $13.99 and the 10GB plan costs $23.99, both valid for 30 days.
+**Saily France eSIM plans start at $4.99 for 1GB over 7 days. The 5GB plan costs $13.99 and the 10GB plan costs $23.99, both valid for 30 days.**
 
 Saily is a relatively new entrant to the travel eSIM space, launched by the team behind NordVPN. Its France offering connects to Orange and SFR networks, giving it broader coverage flexibility than single-network providers.
 
@@ -231,7 +231,7 @@ Customer support is email-only. Nord's support infrastructure is strong for VPN 
 
 ## Nomad Review: Multi-Network Flexibility with Caveats
 
-### Nomad France eSIM plans start at $4.50 for 1GB over 7 days. The 5GB plan costs $12.50 and the 10GB plan costs $21.00, both valid for 30 days.
+**Nomad France eSIM plans start at $4.50 for 1GB over 7 days. The 5GB plan costs $12.50 and the 10GB plan costs $21.00, both valid for 30 days.**
 
 Nomad positions itself as a flexible eSIM provider and its France offering connects to Orange and Free networks. The dual-network approach gives travelers options, but the Free network component has significant coverage limitations.
 
@@ -265,7 +265,7 @@ Customer support is app-based chat with variable response times. Some users repo
 
 ## Orange Travel Review: The Only eSIM for France with a Local Phone Number
 
-### Orange Travel eSIM plans start at $8.50 for 1GB over 7 days. The 5GB 14-day plan costs $25.00, the 20GB 30-day plan costs $40.00, and the Unlimited 30-day plan costs $45.00.
+**Orange Travel eSIM plans start at $8.50 for 1GB over 7 days. The 5GB 14-day plan costs $25.00, the 20GB 30-day plan costs $40.00, and the Unlimited 30-day plan costs $45.00.**
 
 Orange Travel is fundamentally different from every other eSIM in this ranking. It is a carrier-branded product sold directly by Orange France, the country's largest mobile network operator. Most importantly, it is the only **eSIM for France with a phone number** that includes a genuine French mobile number with voice and SMS capability.
 
@@ -306,7 +306,7 @@ No top-up on all plans. Some Orange Travel plans cannot be topped up; you must b
 
 ## aloSIM Review: Simple Transparent Pricing
 
-### aloSIM France eSIM plans start at $5.00 for 1GB over 7 days. The 5GB plan costs $15.00 and the 10GB plan costs $25.00, both valid for 30 days.
+**aloSIM France eSIM plans start at $5.00 for 1GB over 7 days. The 5GB plan costs $15.00 and the 10GB plan costs $25.00, both valid for 30 days.**
 
 aloSIM is a Canadian-based eSIM provider that has built a reputation for straightforward pricing without hidden conditions. Its France eSIM connects to Orange and SFR networks.
 
