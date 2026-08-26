@@ -1,5 +1,3 @@
-```markdown
----
 title: "USA eSIM mit Telefonnummer: Beste Tarife für Anrufe"
 description: "USA-eSIM mit US-Nummer: Tarife für Anrufe, SMS und OTP – Roami bietet automatischen Netzwerkwechsel und 24/7 Live-Support."
 keywords: ["USA eSIM mit Telefonnummer", "beste USA eSIM mit Telefonnummer", "USA eSIM Anrufe und SMS", "Tello eSIM US-Nummer", "Google Fi eSIM Nummer"]
@@ -802,9 +800,3 @@ Wenn Ihr Telefon Dual-eSIM unterstützt (iPhone XS und neuer, die meisten Androi
 ---
 
 [USA eSIM Tarife](/united-states-esim/) bietet reine Daten-Tarife mit automatischem Netzwerkwechsel. Für Reisende, die eine USA eSIM testen möchten, ohne sich auf einen Tarif mit Telefonnummer festzulegen, ist eine [kostenlose eSIM-Option](/free-esim/) verfügbar. Der Code **WEB20** gewährt 20 % Rabatt auf jeden Tarif.
-
-
-*Zuletzt aktualisiert August 2026.*
-
-Für US-Telekommunikationsvorschriften besuchen Sie [FCC](https://www.fcc.gov). Die [GSMA](https://www.gsma.com) definiert eSIM-Standards.
-```
