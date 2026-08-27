@@ -4,7 +4,7 @@ h1_title: "How to Activate an eSIM on iOS and Android (Step-by-Step)"
 description: "Step-by-step guide to activate an eSIM on iPhone and Android: QR code, manual entry, or carrier app, plus fixes for activation failures."
 keywords: ["eSIM activation", "how to activate eSIM", "activate eSIM iPhone", "Android eSIM", "eSIM QR code", "eSIM manual entry", "eSIM troubleshooting", "travel eSIM", "eSIM setup iPhone", "add eSIM to iPhone"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-23T00:00:00Z
+lastmod: 2026-08-26T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
 image: "/img/esim/germany/germany-esim-installation-activation-setup.jpg"
@@ -98,452 +98,251 @@ sidebar_questions:
 ---
 
 
-> **Editor's Note:** Roami is the brand behind this guide. We've activated eSIMs on thousands of devices across every major brand and 40+ countries. Every step in this guide has been tested on real hardware running iOS 17/18 and Android 13/14/15. We focus on what actually works — not theory.
+> **Editor's Note:** Roami is the brand behind this guide. We activate eSIMs on iPhones and Android phones every day across 40+ countries, and the steps below are the exact ones our support team uses — tested on iOS 17/18 and Android 13/14/15.
 
-**The Bottom Line Up Front:** To activate an eSIM, you need a carrier-unlocked phone, a stable Wi-Fi connection, and an eSIM QR code from your provider. Navigate to your phone's cellular settings, select "Add eSIM" or "Add Data Plan," scan the QR code, and wait 1-2 minutes for the digital profile to download and install. If you run into **eSIM activation failed** errors, this guide covers every fix.
+**The Bottom Line Up Front:** Activating an eSIM means downloading a digital carrier profile onto your phone. Whatever brand you own, the recipe is the same: an unlocked phone, a stable Wi-Fi connection, and a QR code (or its manual-entry details) from your provider. Open your cellular settings, tap "Add eSIM," scan or type, and wait about two minutes.
 
-For a general introduction to eSIM technology, see our [What is eSIM? guide](/faq/what-is-esim/). New to activation and want to understand what actually happens when you scan that QR code? Read [What is eSIM Activation?](/faq/what-is-esim-activation-and-how-does-it-work/). If you're still having trouble after following this guide, our [eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/) covers advanced scenarios.
+If this is your first time, our [What is eSIM?](/faq/what-is-esim/) guide explains the technology, and [What is eSIM activation?](/faq/what-is-esim-activation-and-how-does-it-work/) explains what actually happens under the hood when you scan.
 
+> **On an iPhone?** This page covers both platforms, but the iOS walkthrough goes deeper. For iOS version differences, Quick Transfer, and iMessage/FaceTime re-registration, read [How to Activate eSIM on iPhone](/faq/how-to-activate-esim-on-iphone/). Using an iPhone 16 and seeing "Unable to Activate"? See the [iPhone 16 eSIM guide](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/).
 
-## 10-Second Quick Check – Does Your Phone Support eSIM?
+## Does your phone even support eSIM?
 
-Before you start, verify your device supports eSIM. Here's how — it takes 10 seconds.
+A 10-second check: dial `*#06#` and look for a 32-digit **EID**. If it's there, you're ready. For the full device-by-device list — every Android brand and older iPhone — see the [complete eSIM compatibility list](/compatibility/).
 
-| Device Brand | How to Check | eSIM Support Verdict |
-|--------------|--------------|---------------------|
-| **iPhone** | Dial `*#06#` — look for **EID** number | EID present = ✅ eSIM ready. No EID = ❌ no eSIM (iPhone X or older, or China model) |
-| **Samsung Galaxy** | Settings > Connections > SIM Manager — look for **Add eSIM** | Option visible = ✅ eSIM ready. S20 and newer (global models) support eSIM |
-| **Google Pixel** | Settings > Network & Internet > SIMs — look for **+** icon | Option visible = ✅ eSIM ready. Pixel 3 and newer support eSIM |
-| **OnePlus** | Settings > Wi-Fi & Network > SIM & Network — look for **Add eSIM** | Option visible = ✅ eSIM ready. Nord, 9, 10, 11 series support eSIM |
-| **Xiaomi** | Settings > SIM Cards & Mobile Networks — look for **Add eSIM** | Option visible = ✅ eSIM ready. 12, 13, 14 series support eSIM |
-| **Motorola** | Settings > Network & Internet > Mobile Network — look for **Add Carrier** | Option visible = ✅ eSIM ready. Edge series and newer support eSIM |
-| **iPad (Cellular)** | Settings > Cellular Data — look for **Add Cellular Plan** | Option visible = ✅ eSIM ready. Pro (3rd gen+), Air (3rd gen+), mini (6th gen+) |
-| **Apple Watch** | Watch app > My Watch > Cellular — look for **Set Up Cellular** | Option visible = ✅ eSIM ready. Series 4+ (cellular models) support eSIM |
+## The 60-second pre-flight checklist
 
-**If your device doesn't show an EID or eSIM option:** It lacks eSIM hardware. You'll need to use a physical SIM instead. For a complete list, check the [full eSIM compatible devices list](/compatibility/).
+Most activation failures are preventable before you scan anything. Run these six checks first.
 
+| Check | Pass when |
+|---|---|
+| Phone unlocked | iPhone: Settings > General > About > Carrier Lock says "No SIM restrictions" |
+| Wi-Fi stable | Connected to home or office Wi-Fi, not airport or hotel |
+| Passcode known | You can type your lock-screen passcode on demand |
+| QR reachable | The email is open on a laptop, tablet, or printed page |
+| Screen bright | The device showing the QR is at 100% brightness |
+| EID present | `*#06#` returns an EID |
 
-## Quick Activation Decision Flow – Which eSIM Method Matches Your Situation?
+Skip any of these and you'll likely land in the troubleshooting queue. The three most common causes of failure, in order: a carrier-locked phone, weak Wi-Fi mid-download, and scanning with the Camera app instead of through Settings.
 
-Not sure which activation method applies to you? Use this decision map to find the right path in seconds.
+## Before you activate: your prep checklist
 
-| Your Situation | What You Need | Jump To |
-|----------------|---------------|---------|
-| **"I have a QR code from my carrier – what do I do?"** | QR code scanning | [iPhone QR scan](#how-to-activate-an-esim-on-iphone-ios) or [Android QR scan](#how-to-activate-an-esim-on-android) |
-| **"I can't scan the QR code – it's on the same phone I'm using"** | Manual entry (SM-DP+ address) | [Manual entry section](#how-to-activate-an-esim-on-iphone-ios) (iPhone) or [Manual entry section](#how-to-activate-an-esim-on-android) (Android) |
-| **"I bought my eSIM through an app – no QR code"** | In-app activation | [Activate via carrier app](#activate-esim-via-a-carrier-app--an-alternative-to-qr-code) |
-| **"I'm setting up a new iPhone – can I move my eSIM?"** | Quick Transfer | [Transfer eSIM to new phone](#how-to-transfer-esim-to-a-new-phone-ios--android) |
-| **"I just installed it but there's no signal"** | Post-activation troubleshooting | [Troubleshooting](#troubleshooting-esim-activation-failed-errors--common-fixes) |
-| **"I'm switching from Android to iPhone (or vice versa)"** | Cross-platform transfer | [Cross-platform transfer](#cross-platform-transfer-iphone--android) |
-| **"I want to use my home SIM and travel eSIM together"** | Dual SIM setup | [Using Dual SIM with eSIM and Physical SIM](#using-dual-sim-with-esim-and-physical-sim--best-practices) |
+The table above is about *checks*. This list is about *actions* — things worth doing before you tap "Add eSIM" so you never have to scramble mid-setup.
 
+1. **Save the QR code to Photos.** Screenshot it or download the image, so you can use "Choose Photo" instead of aiming your camera at another screen. If the code is in an email, this also means you aren't re-opening your inbox on the spot.
+2. **Screenshot the SM-DP+ address and activation code.** These two strings are your offline fallback. With them saved, a broken QR code can't stop you.
+3. **Download the provider's app and log in.** Roami, Airalo, and Holafly all offer one-tap install from inside their app — but only if you're already signed in before you leave decent Wi-Fi.
+4. **Charge the phone above 50%.** A profile download is tiny, but a phone that dies mid-install can leave a half-written profile you then have to remove and re-add.
+5. **Know your lock-screen passcode.** iOS and Android both prompt for it to authorize the install. If you've been using Face ID or a fingerprint forever, type the passcode once first to be sure you remember it.
+6. **Confirm the phone is unlocked.** On iPhone: Settings > General > About > Carrier Lock. On Android: ask your carrier, or test a friend's SIM from another network.
+7. **Install on home Wi-Fi, not airport Wi-Fi.** You can install weeks before your trip; the plan stays inactive until your phone connects to a network in the destination.
+8. **Decide which line does what.** If you're keeping your home SIM, plan now: travel eSIM handles data, home SIM handles calls and texts. We cover this below.
 
-## Activation 60-Second Pre-Flight Checklist – Don't Skip These 6 Checks
+## Activate on iPhone (iOS) — universal steps
 
-**Before you scan that QR code, run through this checklist. It takes 60 seconds and will save you from the most common activation failures.**
+Every iPhone since the XS follows one path. Go to **Settings > Cellular**, tap **Add eSIM** (or **Add Data Plan**), choose **Use QR Code**, and hold the phone steady about 15 cm from the code. When "Cellular Setup Complete" appears, you're done — the download usually takes 30–60 seconds.
 
-| Check | How to Verify | Pass/Fail |
-|-------|---------------|-----------|
-| **Carrier unlocked?** | iPhone: Settings > General > About > Carrier Lock → must say "No SIM restrictions" | ☐ |
-| **Wi-Fi connected?** | Connect to a stable Wi-Fi network. Avoid public/hotel Wi-Fi. | ☐ |
-| **Know your passcode?** | iOS will prompt for your lock screen passcode during installation. | ☐ |
-| **QR code accessible?** | Open the email with the QR code on a laptop, tablet, or printed copy. | ☐ |
-| **QR code brightness max?** | If scanning from a screen, set brightness to 100%. | ☐ |
-| **EID present?** | Dial `*#06#` — EID = eSIM-ready. No EID = use physical SIM. | ☐ |
+No camera? Tap **Enter Details Manually** and paste the SM-DP+ address and activation code from your provider's email.
 
-**If all boxes are checked, you're ready to activate.** If any box is unchecked, fix that issue first before proceeding.
+For iOS 18's redesigned flow, Quick Transfer between iPhones, and re-registering iMessage/FaceTime after switching lines, see [How to Activate eSIM on iPhone](/faq/how-to-activate-esim-on-iphone/).
 
----
+## Activate on Android — universal steps
 
-**Why these checks matter:** The #1 cause of **eSIM activation failed** errors is a carrier-locked phone. The #2 cause is trying to activate without a stable Wi-Fi connection. The #3 cause is scanning the QR code with the Camera app instead of through Settings. Run this checklist and you'll avoid 90% of activation failures.
+The menu label changes by brand, but every Android eSIM path is "open settings, find Add eSIM, scan or type."
 
----
+| Brand | Path to "Add eSIM" |
+|---|---|
+| Samsung Galaxy (One UI 5–7) | Settings > Connections > SIM Manager > Add eSIM |
+| Google Pixel (Android 13–15) | Settings > Network & internet > + next to SIMs > Download a SIM instead? |
+| OnePlus (OxygenOS 13–14) | Settings > Wi-Fi & Network > SIM & Network > Add eSIM |
+| Xiaomi (MIUI/HyperOS) | Settings > SIM Cards & Mobile Networks > Add eSIM |
+| Motorola | Settings > Network & Internet > Mobile Network > Add Carrier |
+| Other brands | Search "eSIM" in Settings |
 
-## How to Activate an eSIM on iPhone (iOS)
+If the option is missing, your model likely lacks eSIM hardware — confirm with the [compatibility list](/compatibility/).
 
-Apple has streamlined the **iPhone eSIM setup** process in recent iOS updates. Follow these exact steps to install your eSIM profile and complete your **add eSIM to iPhone** process.
+### Manual entry on Android
 
-1. **Step 1:** Go to **Settings > Cellular** (or **Mobile Data** depending on your region).
-2. **Step 2:** Tap **Add eSIM** (or **Add Data Plan** on older iOS versions). If this option is grayed out, your iPhone may be carrier-locked.
-3. **Step 3:** Tap **Use QR Code** at the bottom of the screen.
-4. **Step 4:** Position the **eSIM QR code** within the camera frame. Hold the phone steady at about 15cm distance. Make sure the QR code is well-lit and the screen displaying it is at full brightness (if the QR code is displayed on another screen).
-5. **Step 5:** Once recognized, tap **Continue** and wait for the "Cellular Setup Complete" message. The **eSIM profile download** typically takes 30-60 seconds.
+When the QR won't scan, look for "Enter activation code manually" or "Need help?" in the Add eSIM screen, then type the SM-DP+ address and activation code. This works on every Android eSIM phone and is the most reliable fallback.
 
-**iOS 18 specific:** If you're on iOS 18, the "Add eSIM" interface has been redesigned with a more prominent manual entry button at the bottom of the scanning screen. The activation flow is smoother — you'll see a progress indicator during the profile download.
+### Android menu paths, brand by brand
 
-If you cannot scan the code (e.g., the QR code is on the phone you are using), tap **Enter Details Manually** at the bottom of the scanning screen. Paste the **SM-DP+ Address** and **Activation Code** provided in your carrier's email. This **eSIM manual entry** method bypasses the QR code entirely and is a reliable backup for when **eSIM QR code** scanning fails — it's the most common fallback for **how to activate an eSIM** when the camera won't cooperate.
+The table above gets you there; this is the detail underneath it. Each brand names the same feature slightly differently, and the path moves a little between software versions.
 
-**After installation, configure these critical settings:**
-- Label the eSIM clearly (e.g., "Travel", "Work", "US Trip")
-- Set your default line for voice/SMS (usually keep your primary SIM as default)
-- Set the travel eSIM as the **Cellular Data** line
-- Turn OFF **Allow Cellular Data Switching** to prevent accidental roaming charges
-- Keep Data Roaming OFF on the eSIM until you arrive at your destination, then toggle it ON
+| Brand & software | Exact path | Note |
+|---|---|---|
+| Samsung (One UI 7) | Settings > Connections > SIM Manager > **Add eSIM** | One UI 6.0 moved "SIM card manager" to "SIM Manager"; older One UI 5.x still says "SIM card manager." |
+| Samsung (One UI 5) | Settings > Connections > **SIM card manager** > Add mobile plan | The label flips to "Add mobile plan" rather than "Add eSIM." |
+| Google Pixel (Android 15) | Settings > Network & internet > **SIMs** > Add SIM > Download a SIM instead? > Next | Pixel is the most consistent brand — the path barely changed since Android 12. |
+| Google Pixel (Android 12) | Settings > Network & internet > Mobile network > **Add eSIM** | Older Pixels used the simpler "Add eSIM" label before the SIMs screen arrived. |
+| Xiaomi / Redmi / POCO (HyperOS) | Settings > **SIM cards & mobile networks** > eSIM > Add eSIM | eSIM is only on specific global models (Xiaomi 13/13T, 14/14T, 15); most Redmi/POCO units skip eSIM hardware. |
+| OnePlus (OxygenOS 14) | Settings > Mobile network > **SIM & network** > Add eSIM | OxygenOS 13 tucked it under "Wi-Fi & network"; 14 cleaned it up to "Mobile network." |
+| Motorola | Settings > Network & internet > Mobile network > **Add carrier** | Only select models (razr and some Edge units) carry eSIM; many Moto G models don't. |
+| Honor / Oppo / Vivo / Realme | Search "eSIM" in Settings | Support is patchy and model-specific — check the [compatibility list](/compatibility/) before assuming it's there. |
 
-> 💡 **Traveler Tip:** You can install your **travel eSIM** at home while you still have reliable Wi-Fi. The eSIM profile sits inactive on your phone until you arrive at your destination and turn on Data Roaming for that line. This way, you step off the plane already connected.
+If you don't see any of these, search "eSIM" in the Settings search bar. If nothing surfaces, the phone almost certainly lacks eSIM hardware — full model-level detail is in the [Android eSIM brands guide](/faq/android-esim-other-brands-deep-guide/) and the [compatibility list](/compatibility/).
 
+## Where to find the SM-DP+ address and activation code
 
-## How to Activate an eSIM on Android
+Manual entry needs two strings that live in your confirmation email or provider app.
 
-Android menus vary slightly depending on your device manufacturer. Here are the exact paths for the most popular Android brands, along with general instructions for **activate eSIM Android**.
+| Provider | Where to look |
+|---|---|
+| Roami | Confirmation email — "Manual installation details" / "SM-DP+ Address" |
+| Airalo | App: plan > Details > Manual installation |
+| Holafly | Confirmation email — "Manual installation" |
+| Nomad | App: eSIM details > Manual install |
+| Google Fi | Manual entry not supported — use the Fi app |
+| US Mobile | App: Account > eSIM > Manual activation code |
+| T-Mobile (US) | Confirmation email or T-Mobile app |
 
-### For Samsung Galaxy Devices (One UI 5, 6, 6.1, 7):
+Screenshot these before you fly — with no Wi-Fi on landing, you can't look them up.
 
-1. **Step 1:** Go to **Settings > Connections**.
-2. **Step 2:** Tap **SIM Manager**.
-3. **Step 3:** Select **Add eSIM** (may also appear as "Add mobile plan").
-4. **Step 4:** Tap **Scan QR code from service provider**.
-5. **Step 5:** Position the **eSIM QR code** in the camera frame. Once scanned, tap **Add** when prompted.
-6. **Step 6:** Follow the on-screen prompts to complete the download. Label your eSIM and set your preferences for data and calls.
+## How each major provider delivers your eSIM
 
-### For Google Pixel Devices (Android 13, 14, 15):
+"Activate" means slightly different things depending on who sold you the plan. Here's what to expect from the five most common travel-eSIM providers, so you know exactly what's in your inbox and how you'll install it.
 
-1. **Step 1:** Go to **Settings > Network & internet**.
-2. **Step 2:** Tap the **+ (plus icon)** next to **SIMs**.
-3. **Step 3:** Tap **Download a SIM instead?** at the bottom of the screen.
-4. **Step 4:** Tap **Next** and scan your QR code when prompted.
-5. **Step 5:** Wait for the **eSIM profile download** to complete. Once done, go to **Mobile network** settings to configure which SIM handles data and calls.
+| Provider | Install method | What arrives in the email | Typical delivery time |
+|---|---|---|---|
+| Roami | App one-tap **or** QR code / manual entry | QR code plus a "manual installation" block (SM-DP+ address + activation code) | Instantly — usually under 2 minutes |
+| Airalo | App one-tap **or** QR from inside the app | Order receipt + install instructions; the QR itself lives in the app under My eSIMs > Details | Instant (QR is generated on the plan screen) |
+| Holafly | App one-tap **or** QR in the email | QR code plus your unlimited-data plan details | Instant; many plans auto-activate the moment you connect to a partner network |
+| Nomad | App one-tap **or** QR / manual entry | QR code + activation code | Instant, with some plans that only start their validity clock on first use |
+| Saily | App-only install (Saily app) | Receipt + a link to open the Saily app | Instant — the profile is pushed through the app, not a QR |
 
-The [Google Support – eSIM on Pixel](https://support.google.com/pixelphone/answer/7086887) page provides additional details for Pixel users. For Samsung users, the [Samsung Support – eSIM](https://www.samsung.com/us/support/) page offers model-specific guidance.
+The pattern: all five deliver the QR or the profile almost immediately, and the fastest install is always the provider's own app. Where they differ is *where* the QR lives (email vs app) and *when* the plan's clock starts (at install vs at first connection). If you're on the fence, Roami's email includes both the QR and the manual-entry strings, which is the most forgiving setup for a first-timer.
 
-### For OnePlus Devices (Oxygen OS 13, 14):
+## Activate via a carrier app
 
-1. **Step 1:** Go to **Settings > Wi-Fi & Network**.
-2. **Step 2:** Tap **SIM & Network**.
-3. **Step 3:** Tap **Add eSIM**.
-4. **Step 4:** Scan your QR code or enter details manually.
+Providers like Roami, Airalo, and Holafly let you skip the QR entirely. Download the app, open your purchased plan, tap **Install** or **Activate**, and allow the phone to add the cellular plan. It's identical on iPhone and Android, and it's the cleanest route for first-timers because the app can't scan its own screen.
 
-**OnePlus eSIM troubleshooting:** If you don't see "Add eSIM," check for an Oxygen OS update — older versions hid the eSIM option for some regions. Go to Settings > System > System Update.
+## QR code, carrier app, or manual entry — which should you use?
 
-### For Xiaomi Devices (MIUI / HyperOS):
+You have three ways in, and they aren't interchangeable in every situation. Pick by context.
 
-1. **Step 1:** Go to **Settings > SIM Cards & Mobile Networks**.
-2. **Step 2:** Tap **Add eSIM**.
-3. **Step 3:** Scan your QR code or enter details manually.
+| Method | Best when | Watch out |
+|---|---|---|
+| Carrier app (one-tap) | You're a first-timer who wants zero fiddling | Needs the app installed and logged in before you leave good Wi-Fi |
+| QR code | The code is on another device or a printed page | Can't scan a code on the same phone's screen; low light hurts |
+| Manual entry | The QR is damaged, or it's on the phone you're activating | The SM-DP+ string is long and case-sensitive — paste, don't retype |
 
-**Xiaomi eSIM troubleshooting:** Xiaomi phones sold in mainland China lack eSIM hardware. If you bought your Xiaomi in China, eSIM will not work regardless of settings.
+Our advice: use the provider's one-tap app route for your first eSIM, and keep a screenshot of *both* the QR and the manual-entry strings as a backup. The app is fastest, but the manual strings are the one thing that can't let you down if everything else goes sideways.
 
-### For Motorola Devices:
+## How to confirm activation succeeded
 
-1. **Step 1:** Go to **Settings > Network & Internet**.
-2. **Step 2:** Tap **Mobile Network**.
-3. **Step 3:** Tap **Add Carrier**.
-4. **Step 4:** Scan your QR code or enter details manually.
+Don't trust the "Cellular Setup Complete" message alone. Verify three things:
 
-### For Other Android Devices (general path):
+1. **Status bar** — you see signal bars (and a second set if both lines are on).
+2. **Settings** — the eSIM line reads "On" or "Active," not "No Service."
+3. **Real test** — turn off Wi-Fi, set the eSIM as your data line, and load a webpage.
 
-If your brand isn't listed above, try these general paths:
-- **Settings > Network & Internet > Mobile Network > Advanced > Carrier > Add Carrier**
-- **Settings > SIM cards & mobile networks > Add eSIM**
-- Search for "eSIM" in the Settings search bar
+Give it up to two minutes to register on the local network. If it still says "Searching," see the troubleshooting pointer below.
 
-If no result appears, your phone model may not support eSIM. Always check your device's specifications or dial `*#06#` to verify.
+## How long does activation actually take?
 
-The [GSMA](https://www.gsma.com/esim/) provides the technical standards that make eSIM activation work across all these different Android brands.
+Short version: the *download* takes under two minutes, but the *first connection* can take up to 15 minutes after you land. They're two different things, and people confuse them.
 
-### Manual Entry on Android – When QR Scanning Fails
+| Stage | What's happening | Typical time |
+|---|---|---|
+| Delivery of the QR / profile | The provider's system generates your eSIM and emails it | Seconds to ~15 minutes under heavy load |
+| Profile download | Your phone pulls the profile from the SM-DP+ server | 30–60 seconds, up to 2 minutes |
+| First network registration | On arrival, your phone scans local networks and negotiates with a partner carrier | 2–15 minutes, usually under 5 |
+| Data flows | You load a page with Data Roaming ON | Immediate once registered |
 
-Just like on iPhone, Android supports **eSIM manual entry** as a backup:
+Why are some carriers slower to register than others? Three reasons. **Smaller carriers provision in batches** — your profile is technically "pending" until their system processes it on the backend. **The partner network is congested** — landing at a busy airport at 6 p.m. means your phone is one of thousands registering at once. And **some plans only start their clock at first connection**, so the network handshake is deliberately delayed until the first data session. None of this is a fault — it's just the difference between "installed" and "live."
 
-1. In the "Add eSIM" screen, look for **"Enter activation code manually"** or **"Need help?"** at the bottom.
-2. Enter the **SM-DP+ Address** and **Activation Code** provided in your carrier's email.
-3. Tap **Next** and wait for the profile to download.
+## 7 mistakes that break eSIM activation
 
-Manual entry works on all Android devices that support eSIM and is the most reliable fallback when QR scanning fails.
+| Mistake | Why it breaks | Fix |
+|---|---|---|
+| Scanning with the Camera app | Recognizes the code, installs nothing | Go through Settings > Add eSIM first |
+| Activating on weak Wi-Fi | Download cuts out and corrupts the profile | Install at home before the airport |
+| Deleting the eSIM to "refresh" | Permanently destroys the profile and any remaining data | Never delete unless the plan is expired |
+| Waiting until landing to install | No Wi-Fi to download the profile | Install before departure; it stays inactive until you arrive |
+| Leaving Data Roaming off | Full bars, zero internet | Toggle Data Roaming ON for the travel eSIM after landing |
+| Forgetting your passcode | Install stalls mid-way | Confirm your passcode before you start |
+| Scanning a code on your own screen | Can't aim the camera at itself | Save to Photos and use "Choose Photo," or use manual entry |
 
-### Where to Find the SM-DP+ Address and Activation Code
+## Activation stuck? Quick fixes
 
-If you're doing manual entry, here's where to find these details:
+If you're sitting at "Activating…" or "Searching," work this ladder top to bottom — it resolves the large majority of stuck activations without touching support.
 
-| Provider | Where to Find Manual Entry Details |
-|----------|-------------------------------------|
-| **Roami** | In the confirmation email — look for "Manual installation details" or "SM-DP+ Address" |
-| **Airalo** | In the app: tap the eSIM plan → "Details" → "Manual installation" |
-| **Holafly** | In the confirmation email — "Manual installation" section |
-| **Nomad** | In the app: eSIM details → "Manual install" option |
-| **Google Fi** | Manual entry is not supported — use the Fi app |
-| **US Mobile** | In the app: Account → eSIM → "Manual activation code" |
-| **T-Mobile (US)** | In the confirmation email or T-Mobile app — "eSIM activation details" |
+1. **Restart the phone.** Sounds too simple, but a clean boot re-triggers the network handshake and clears a stuck profile half the time.
+2. **Toggle Airplane Mode for 30 seconds, then off.** This forces the phone to re-scan local networks from scratch.
+3. **Re-scan the QR.** Delete the *pending* (not yet active) profile and add it again on a stronger network. Never delete an active plan that's already working.
+4. **Re-type the SM-DP+ address exactly.** Manual entry is case-sensitive and space-sensitive — one stray character sends the phone to a dead server. Paste, don't retype.
+5. **Turn Data Roaming ON for the travel eSIM.** "No Service" with full signal bars is almost always this.
+6. **Move to stable Wi-Fi.** If the download kept stalling, you may have a half-written profile that only re-installs cleanly on a good connection.
 
-**Pro tip:** Screenshot or save these details before you travel. If you land and have no Wi-Fi, you won't be able to look them up online.
+If the error is a specific code — "Invalid QR code," "Cellular Plan Cannot Be Added," an APN problem — that's error-by-error territory, and the fixes (with APN values) live in the [eSIM Deep Troubleshooting Guide](/faq/esim-deep-troubleshooting-guide-2026/).
 
+## Activate on an Android tablet or portable hotspot
 
-## Activate eSIM via a Carrier App – An Alternative to QR Code
+eSIM isn't just for phones. **Cellular Android tablets** — like the Samsung Galaxy Tab S-series or a cellular Lenovo — use the exact same path as their phone siblings: Settings > Connections (or Network & internet) > SIM Manager > Add eSIM. If your tablet has an EID from `*#06#`, it can take an eSIM.
 
-Many travel eSIM providers (like Roami, Airalo, or Holafly) and major domestic carriers offer in-app activation. This bypasses the QR code entirely and is often the fastest way to complete **eSIM activation**.
+**Portable hotspots (MiFi)** are more mixed. Most travel hotspots still take a physical SIM card, but a handful of premium units — like the Netgear Nighthawk M6 series and some ZTE and GlocalMe models — support eSIM. If you're tethering a whole family, a hotspot eSIM can be a tidy solution, though you'll usually get more flexibility (and cheaper plans) by putting the eSIM on one phone and sharing its hotspot instead.
 
-1. Download your provider's official app from the App Store or Google Play Store.
-2. Log into your account and locate your purchased plan under "My eSIMs" or "My Plans."
-3. Tap the **Activate** or **Install eSIM** button.
-4. Your phone will prompt you for permission to allow the app to install a cellular plan. Tap **Allow** or **Continue**.
-5. The app automatically communicates with your phone's settings to install the profile — no QR scanning needed.
+Apple's cellular **iPad and Apple Watch** follow their own rules — the Watch mirrors a phone line rather than taking a travel eSIM directly. That's covered in the [iPad & Apple Watch eSIM guide](/faq/ipad-apple-watch-esim-support-guide/).
 
-This method is recommended when you receive the **eSIM QR code** on the same phone you are activating, as it avoids the "can't scan your own screen" dilemma entirely.
+## eSIM activation myths, busted
 
-> 💡 **Transition tip:** If you're using a carrier app for activation, the process is the same on both iPhone and Android — the app handles the installation directly through your phone's settings. This is often the smoothest method for first-time users.
+A few things people believe about activation that just aren't true:
 
+- **"I need to call my carrier to activate."** No — installing a profile needs no call. You only contact a carrier to *re-issue* a profile after you delete it or change phones.
+- **"I have to be in my destination to activate."** You install at home; the plan only becomes live when your phone connects to a network in the destination.
+- **"Deleting the eSIM resets my plan."** Deleting destroys the profile permanently — and QR codes are single-use, so you'd need a brand-new plan.
+- **"I can share one eSIM across two phones."** No — a profile lives on one device at a time. You can often *move* it between phones, but you can't run the same profile on two at once.
+- **"eSIMs are slower than a physical SIM."** The credential is identical; there's no speed difference. Your data speeds come from the network and the plan, not the SIM format.
 
-## iPad and Apple Watch eSIM Activation – Device-Specific Setup
+## Everything else lives on its own page
 
-eSIM isn't just for iPhones. Here's how to set it up on other Apple devices for **iPad eSIM activation** and **Apple Watch eSIM setup**.
+To keep this guide focused, these related topics have dedicated walkthroughs:
 
-### Activating eSIM on iPad (Cellular Models)
-
-Only cellular iPad models support eSIM — Wi-Fi only iPads do not.
-
-**Step-by-step for iPad:**
-1. Go to **Settings > Cellular Data**.
-2. Tap **Add Cellular Plan**.
-3. Scan your **eSIM QR code** using the iPad's camera.
-4. Follow the prompts to complete the **eSIM profile download**.
-5. Label your plan and configure your settings.
-
-**Which iPads support eSIM?**
-- iPad Pro (3rd generation and newer)
-- iPad Air (3rd generation and newer)
-- iPad (10th generation and newer)
-- iPad mini (6th generation and newer)
-
-**iPad eSIM troubleshooting:**
-- If you don't see "Add Cellular Plan," your iPad may be carrier-locked or a Wi-Fi-only model.
-- Restart your iPad after installation if the eSIM doesn't connect.
-- Ensure Data Roaming is ON for the eSIM line.
-
-### Activating eSIM on Apple Watch (Cellular Models)
-
-Apple Watch eSIM is set up through the Watch app on your iPhone — you cannot activate it directly on the watch.
-
-**Step-by-step for Apple Watch:**
-1. Open the **Watch app** on your iPhone.
-2. Tap **My Watch** > **Cellular**.
-3. Tap **Set Up Cellular**.
-4. Follow the on-screen prompts to add your eSIM plan.
-5. Your carrier may send a verification code — enter it when prompted.
-
-**Which Apple Watches support eSIM?**
-- Apple Watch Ultra (all models)
-- Apple Watch Series 4 and newer (cellular models)
-- Apple Watch SE (cellular models)
-
-**Apple Watch eSIM troubleshooting:**
-- Only cellular models (GPS + Cellular) support eSIM — GPS-only models do not.
-- Your carrier must support Apple Watch eSIM — not all carriers do.
-- Ensure your iPhone is nearby with a stable Wi-Fi connection during setup.
-- Restart both devices if the eSIM doesn't appear.
-
-If your carrier isn't listed in the Watch app, contact them directly to add an Apple Watch plan to your account. For more iPad and Apple Watch eSIM guidance, see our [iPad and Apple Watch eSIM guide](/faq/ipad-apple-watch-esim-support-guide/).
-
-
-## How to Transfer eSIM to a New Phone (iOS & Android)
-
-If you're upgrading to a new device, you may need to **transfer eSIM to a new phone**. Here's how it works on each platform.
-
-### iOS to iOS (iPhone to iPhone)
-
-Apple's built-in Quick Transfer is the easiest method:
-
-1. During setup of your new iPhone, choose "Transfer eSIM from nearby iPhone" when prompted.
-2. Keep both phones close with Bluetooth and Wi-Fi enabled.
-3. Confirm the transfer on your old iPhone.
-4. Wait 1-2 minutes for the **eSIM profile download** to complete on the new device.
-
-**If Quick Transfer doesn't work:** Go to Settings > Cellular on your new iPhone > Add eSIM > Transfer from nearby iPhone.
-
-**If Quick Transfer fails:** Delete the eSIM from the old iPhone first (Settings > Cellular > [eSIM] > Delete eSIM), then restart the new iPhone and try again. Some carriers require the old profile to be removed before the new one will activate.
-
-### Android to Android
-
-Android transfer methods vary by brand, but Samsung and Google Pixel offer similar options:
-
-**Samsung:** Settings > Connections > SIM Manager > Add eSIM > Transfer eSIM from old device (follow on-screen prompts).
-
-**Google Pixel:** During setup, you may be prompted to transfer your eSIM. Alternatively, use the carrier app or request a new QR code.
-
-**If Android transfer fails:** Contact your carrier to request a new QR code for the new device. Most travel eSIMs cannot be transferred between Android devices — you'll need to purchase a new plan.
-
-### Cross-Platform Transfer (iPhone ↔ Android)
-
-Transferring **eSIM between iPhone and Android** is rarely supported. Most carriers and travel eSIM providers do not allow cross-platform transfers because the eSIM profile is bound to the original device's EID.
-
-**What to do instead:**
-1. Contact your carrier to request a new eSIM QR code for the new device.
-2. Or, if using a travel eSIM, purchase a new plan for the new device.
-
-**Exception:** Some carriers (like Google Fi, US Mobile) allow you to download a new QR code from their app after deactivating the old device. Check your carrier's policy before assuming you need a new plan.
-
-For detailed cross-platform transfer instructions, see [How to Transfer eSIM Between iPhone and Android](/faq/how-to-transfer-esim-between-iphone-and-android/).
-
-
-## Using Dual SIM with eSIM and Physical SIM – Best Practices
-
-Many modern smartphones support **dual SIM** with one physical SIM and one eSIM active simultaneously. Here's how to configure **dual SIM eSIM setup** for travel.
-
-### How Dual SIM Works (DSDS Explained)
-
-Your phone supports **Dual SIM Dual Standby (DSDS)**. Both lines remain active and can receive calls/texts, but only one line can use data at a time. When you're on a call on one line, the other line is temporarily unavailable. This is normal behavior — not a defect.
-
-### Best Practices for International Travelers (Physical SIM + eSIM)
-
-**Keep your home SIM for calls/SMS:** Set your physical SIM as the default line for voice and SMS. Turn off Data Roaming on this line to avoid high charges.
-
-**Use the travel eSIM for data:** Set your **travel eSIM** as the default line for Cellular Data. Keep Data Roaming ON for this line.
-
-**Configuration for iPhone:**
-1. Settings > Cellular > Cellular Data > select your travel eSIM.
-2. Settings > Cellular > Default Voice Line > select your home SIM.
-3. Turn OFF Allow Cellular Data Switching.
-
-**Configuration for Android (Samsung):**
-1. Settings > Connections > SIM Manager.
-2. Set your travel eSIM as the data SIM.
-3. Set your home physical SIM as the call/SMS SIM.
-4. Turn off data roaming on the home SIM.
-
-### Best Practices for Dual eSIM (No Physical SIM – iPhone 14+ US Models)
-
-If you're using an eSIM-only iPhone (US iPhone 14 and newer), here's how to configure two active eSIMs:
-
-**Configuration for iPhone (dual eSIM):**
-1. Settings > Cellular > Cellular Data > select your travel eSIM.
-2. Settings > Cellular > Default Voice Line > select your home eSIM.
-3. Turn OFF Allow Cellular Data Switching.
-4. Turn OFF Data Roaming on the home eSIM.
-5. Turn ON Data Roaming on the travel eSIM.
-
-**When to use each configuration:**
-- **At home:** Home eSIM = data + voice. Travel eSIM = turned OFF.
-- **Traveling:** Travel eSIM = data. Home eSIM = voice only (with Data Roaming OFF).
-- **Transit countries:** If you're transiting through a country and want data, activate that country's travel eSIM and switch data to it.
-
-### Common Dual SIM Issues and Fixes
-
-| Issue | Likely Cause | Fix |
-|-------|--------------|-----|
-| **No data on the eSIM** | Cellular Data assigned to wrong line | Check Settings > Cellular > Cellular Data |
-| **Calls going to the wrong line** | Default Voice Line misconfigured | Check Settings > Cellular > Default Voice Line |
-| **Accidental roaming charges** | Data Roaming ON on home SIM | Turn OFF Data Roaming on home SIM |
-| **"No Service" on one line during calls** | DSDS limitation (normal behavior) | Enable Wi-Fi Calling on both lines |
-| **Both eSIMs show "No Service"** | Airplane mode or network issue | Toggle Airplane Mode, restart phone |
-
-For more dual SIM troubleshooting, see our [Dual eSIM Not Working? 12 Fixes for iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/) guide.
-
-
-## How to Confirm Your eSIM Activation is Successful
-
-Once you have completed the steps above, here is how you verify that your new eSIM is ready to use:
-
-- **Check the Status Bar:** Look at the top right corner of your screen. If you have both your physical SIM and eSIM turned on, you should see two separate sets of cellular signal bars. On iPhone, the primary line shows at the top with the secondary line slightly below.
-- **Check the Settings Menu:** Go to your Cellular/Network settings. You should see both lines listed, and your newly added eSIM status should say **"On"** or **"Active"**. If it says "No Service," make sure Data Roaming is toggled ON for that eSIM line.
-- **Wait for network registration:** After installation, it can take **30-60 seconds** for the eSIM to register on the local network. In some cases, it may take up to **2 minutes**. Be patient before troubleshooting.
-- **The Real-World Test:** Turn off your Wi-Fi, switch your primary Cellular Data to the new eSIM line, and try to load a webpage or open an app. If it connects smoothly, your **eSIM activation** is 100% successful!
-- **Check Network Name:** The eSIM should display the name of the local network it's connected to (e.g., "T-Mobile", "EE", "SoftBank") rather than staying on "Searching" or "No Service."
-
-> 💡 **Transition tip:** If your eSIM shows "Searching" for more than 2 minutes, don't panic — skip to the Troubleshooting section below for the exact steps to resolve it.
-
-
-## 7 Critical Mistakes That Break eSIM Activation – And How to Avoid Them
-
-*Targeting the most common user failures based on real support tickets.*
-
-| Mistake | What Happens | How to Avoid |
-|---------|--------------|--------------|
-| **Scanning the QR code with the Camera app instead of Settings** | The camera recognizes the code but does nothing — no profile installs | Always open Settings > Cellular > Add eSIM first — **never** use the standalone Camera app for eSIM |
-| **Activating at the airport with weak Wi-Fi** | Download cuts out mid-install, corrupting the profile | Install at home on your own stable Wi-Fi network before you leave for the airport |
-| **Deleting the eSIM to "fix" a connection issue** | The eSIM is permanently destroyed — you lose all remaining data and must buy a new plan | **Never tap Delete eSIM** unless the plan is expired. Delete only removes the profile — it does not "refresh" it |
-| **Waiting until you land to install** | You arrive with no Wi-Fi and can't download the profile | Install the profile before departure (it sits inactive until you arrive). You only need Wi-Fi for the initial download |
-| **Forgetting to turn on Data Roaming for the eSIM line** | Full signal bars but zero internet connection | After landing, go to Settings > Cellular > [your eSIM] and toggle Data Roaming ON. This is mandatory for **all** travel eSIMs |
-| **Not knowing your iPhone passcode before starting** | Installation stalls and asks for passcode — you're stuck | Ensure you know your lock screen passcode before beginning eSIM installation |
-| **Trying to scan a QR code from your own phone screen** | Can't scan the code on the same device | Save the QR code to Photos, then use "Choose Photo" during activation, or use manual entry |
-
-
-## Troubleshooting eSIM Activation Failed Errors – Common Fixes
-
-If your eSIM fails to activate or connect, do not panic. Try these technical fixes before contacting customer support. These steps address the most common **eSIM troubleshooting** scenarios.
-
-### Error 1: "Cellular Plan Cannot Be Added"
-- **The Fix:** This usually means your phone is carrier-locked, or the QR code has already been scanned. QR codes are strictly single-use for security reasons. If your phone is unlocked and you get this error, you must contact your provider to generate a fresh QR code. First verify: Settings > General > About > Carrier Lock must say "No SIM restrictions."
-- **Additional check:** Remove old, unused eSIM profiles from Settings > Cellular. Too many stored profiles can sometimes prevent new ones from being added.
-
-### Error 2: "Invalid QR Code" or Code Won't Scan
-- **The Fix:** The QR code might be expired (most have a 72-hour validity window), damaged, or your camera cannot focus. Make sure you are scanning in a well-lit area and the screen displaying the code is at maximum brightness. If it still fails, tap **"Enter Details Manually"** and type in the **SM-DP+ Address** and **Activation Code** provided by your carrier. This completely bypasses the QR code — a reliable workaround for **eSIM activation failed** errors.
-
-### Issue 1: The eSIM is Installed, but Shows "No Service"
-- **The Fix:** The profile downloaded, but your phone hasn't registered with the local cell tower. First, ensure the eSIM line is toggled **ON** in your settings. Next, turn on **Airplane Mode** for 30 seconds, then turn it off. This forces your phone's antenna to reboot and search for a signal.
-- **If still no service:** Check Settings > Cellular > [your eSIM] > Network Selection. Turn OFF "Automatic" and manually select a network from the list. Sometimes the phone needs to be told explicitly which network to use.
-
-### Issue 2: Activated Successfully, But No Internet Connection
-- **The Fix:** If you have signal bars but pages won't load, check three things:
-  1. **Turn on Data Roaming:** Go to your eSIM settings and ensure the "Data Roaming" toggle is ON (this is mandatory for most travel eSIMs — many travelers miss this step).
-  2. **Check the APN Settings:** Find the **APN (Access Point Name)** menu in your cellular settings. Ask your provider for the correct APN details and type them in manually. *(This step is especially common for Android devices).* Common travel APN values are "globaldata" or "internet" — check with your specific provider.
-  3. **Verify Data Line:** Double-check that your phone's primary "Cellular Data" is actually assigned to the new eSIM, not your home SIM.
-
-### Issue 3: eSIM Profile Corrupted During Download
-- **The Fix:** If your Wi-Fi connection dropped mid-download, the **eSIM installation** may be incomplete or corrupted. First, delete any partial eSIM: Settings > Cellular > tap the incomplete eSIM > Delete eSIM. Then restart your phone and re-scan the QR code (you may need a fresh code from your provider). This time, ensure you are on a fast, stable Wi-Fi connection throughout the entire download.
-
-### Issue 4: eSIM Installed but Not Showing in Settings
-- **The Fix:** This is a software glitch on iOS or Android. 
-  1. **iPhone:** Go to Settings > General > About and scroll to "Available SIM" or "Digital SIM." If the eSIM appears there but not in Cellular, restart the phone.
-  2. **Android:** Go to Settings > Network & Internet > SIMs — the eSIM may show as "Inactive." Tap it and toggle it on.
-  3. If restarting doesn't work, go to Settings > Cellular > Add eSIM. Sometimes the phone will detect the existing profile and offer to re-add it without a new QR code.
-
-### Issue 5: eSIM Shows "Searching" for More Than 2 Minutes
-- **The Fix:** This is different from "No Service." "Searching" means the phone is actively looking for a network. Try these steps in order:
-  1. Toggle Airplane Mode on for 10 seconds, then off.
-  2. Go to Network Selection and manually pick a network (see Issue 1 above).
-  3. If the eSIM is for travel, check that you've landed in the correct country — some eSIMs only activate in specific regions.
-  4. Restart your phone.
-  5. If still "Searching" after 5 minutes, contact your eSIM provider — there may be a network agreement issue in your current location.
-
-> **CRITICAL WARNING:** Never tap **Delete eSIM** or **Remove Data Plan** if you are trying to fix a connection issue. Deleting the eSIM permanently destroys the digital profile, and you will have to purchase a new one. Only delete an eSIM when you are absolutely sure the plan is expired and you will never need it again. If you delete an active **travel eSIM** mid-trip, you cannot recover it.
-
-If these fixes don't resolve your issue, consult our [eSIM Deep Troubleshooting Guide (16 real cases)](/faq/esim-deep-troubleshooting-guide-2026/) for more advanced scenarios like **eSIM activation failed** on carrier-locked devices or regional restrictions.
-
-For a complete error-by-error reference — from **eSIM not supported** to **profile expired** — see our [eSIM activation errors troubleshooting guide](/faq/esim-activation-errors-troubleshooting-guide/).
-
+- **Troubleshooting specific errors** ("Invalid QR code," stuck "Activating," "No Service," APN settings) → [eSIM Deep Troubleshooting Guide](/faq/esim-deep-troubleshooting-guide-2026/)
+- **Transferring an eSIM to a new phone** (iOS-to-iOS, Android-to-Android, cross-platform) → [Transfer eSIM between iPhone and Android](/faq/how-to-transfer-esim-between-iphone-and-android/)
+- **Using two lines at once** (dual SIM / DSDS) → [iPhone eSIM compatibility hub](/faq/iphone-11-esim-compatible/)
+- **iPad and Apple Watch eSIM** → [iPad & Apple Watch eSIM guide](/faq/ipad-apple-watch-esim-support-guide/)
+- **Which carriers and devices support eSIM** → [full compatibility list](/compatibility/)
 
 ## Frequently Asked Questions
 
-**Is there a fee to activate an eSIM?** No, carriers do not charge an "activation fee" just to scan and install an eSIM profile. You only pay for the actual data plan or cellular package you purchased. If a carrier tries to charge an activation fee for eSIM, it is not standard practice.
+**Is there a fee to activate an eSIM?**
+No. Carriers don't charge to scan and install a profile — you only pay for the data plan itself. Anyone charging an "activation fee" is outside normal practice.
 
-**Can I activate my eSIM before I travel?** Yes, and it is highly recommended. You should install the eSIM at home while you have reliable Wi-Fi. The data plan will simply remain inactive (or "searching") until you land in your destination country and your phone connects to the local supported network. Just remember to toggle Data Roaming ON after arrival.
+**Can I activate my eSIM before I travel?**
+Yes, and you should. Install at home on reliable Wi-Fi; the plan stays inactive until your phone connects to a network in your destination. Just remember to switch Data Roaming on after landing.
 
-**How do I switch between my physical SIM and my eSIM?** Go to your cellular settings. You will see both lines listed. You can tap on your physical SIM to turn it off, or set your physical SIM as the default for Voice/SMS, and the eSIM as the default for Cellular Data. For iPhone: Settings > Cellular > Cellular Data > select the line you want for internet.
+**How long does eSIM activation take?**
+The profile download takes under two minutes. First-time connection to the local network can take up to 10–15 minutes depending on signal. Beyond that, restart the phone.
 
-**How long does eSIM activation take?** Normally, the **eSIM profile download** and activation process takes less than 2 minutes. However, connecting to the local network for the first time can sometimes take up to 10-15 minutes depending on signal strength and network registration. If it's been longer than 15 minutes, restart your phone.
+**Do I need Wi-Fi to activate an eSIM?**
+For the initial profile download, yes — the profile comes from your provider's secure SM-DP+ server, and a weak cellular signal won't reliably pull it. Install on home Wi-Fi before you leave, and the plan stays dormant until you land.
 
-**Can I use my physical SIM and eSIM at the same time?** Yes — most modern smartphones support Dual SIM Dual Standby (DSDS). You can keep your physical SIM active for calls and texts from home, while using your **travel eSIM** purely for local cellular data. This is the recommended setup for international travelers who need to receive SMS verification codes.
+**How many eSIMs can I keep on my phone, and can I switch between them?**
+Most modern phones store eight or more eSIM profiles, though only one or two can be *active* at a time. You can switch which profile is active from the same Settings screen you used to add them — handy for a multi-country trip.
 
-**What if my eSIM activation fails repeatedly?** First, confirm your phone is unlocked (Settings > General > About > Carrier Lock). Second, try on a different Wi-Fi network. Third, ask your eSIM provider to resend the QR code — sometimes the first code is defective. If all else fails, try the **eSIM manual entry** method with the **SM-DP+ address**.
+**What's the difference between QR code and manual entry?**
+QR scanning is the standard route — faster and harder to mistype. Manual entry (SM-DP+ address + activation code) is the backup that works when the camera or the code fails.
 
-**What's the difference between eSIM QR code and manual entry?** QR code scanning is the standard method — it's faster and less error-prone. **eSIM manual entry** (using the SM-DP+ address and activation code) is a backup when scanning fails. Manual entry works on both iPhone and Android and bypasses the camera entirely, making it the most reliable **how to activate an eSIM** method when QR codes won't scan.
+**Can I make calls and texts with a data-only eSIM?**
+A data-only travel eSIM carries internet but no phone number, so it won't make traditional calls or SMS. You stay reachable on your home number (via Wi-Fi Calling) while the travel eSIM handles data — that's how most travelers run it.
 
-**Do I need Data Roaming turned on for eSIM to work?** Yes — for most travel eSIMs, Data Roaming must be turned ON for the eSIM line. This is a technical requirement because travel eSIMs connect through partner networks. You won't be charged roaming fees; it's just how the technology works.
+**My eSIM is stuck on "Activating" — how long should I wait?**
+Up to 10–15 minutes on arrival, especially at a busy airport. If it's still stuck after that, restart the phone, toggle Airplane Mode for 30 seconds, or delete the pending profile and re-scan on stronger Wi-Fi.
 
-**Can I use a travel eSIM without a physical SIM installed?** Yes — if your phone supports eSIM, you can use it without a physical SIM. This is especially useful for US iPhone models (14 and newer) which have no physical SIM slot.
+**Do I need Data Roaming on for a travel eSIM?**
+Yes — travel eSIMs reach the network through partner carriers, so Data Roaming must be ON for that line. This doesn't incur roaming charges; it's just how the connection works.
 
-**Why is my eSIM showing "Activating" for a long time?** The activation server might be busy, or your Wi-Fi connection is unstable. Wait up to 10 minutes. If still stuck, toggle Airplane Mode on and off. If that doesn't work, restart your phone and try again.
+**What does the SM-DP+ address mean?**
+SM-DP+ (Subscription Manager – Data Preparation Plus) is the secure server that delivers your eSIM profile. In manual entry, it tells your phone where to download the profile from.
 
-**Can I transfer eSIM to a new phone myself?** Yes, but it depends on your carrier. Apple's Quick Transfer works for iPhone-to-iPhone. Android has similar options. For cross-platform transfers, you'll need a new QR code from your carrier. See the **How to Transfer eSIM to a New Phone** section above.
+**Can I use my travel eSIM with Wi-Fi Calling?**
+Yes — Wi-Fi Calling belongs to your *home* line, not the travel eSIM. Keep Wi-Fi Calling on for your home number and it will work over the travel eSIM's data (or any Wi-Fi), so you stay reachable without roaming fees.
 
-**Does iPad support eSIM?** Only cellular iPad models support eSIM. Wi-Fi only iPads do not. Check your iPad model in Settings > General > About — if it shows "Cellular Data" in the menu, it supports eSIM.
+**What if I have no signal at all after activation?**
+No bars at all usually means you're outside the partner network's coverage, or the phone hasn't registered yet. Toggle Airplane Mode for 30 seconds, confirm Data Roaming is ON for the travel eSIM, and step outside if you're indoors. Persistent "No Service" is an APN or provisioning issue — see the [deep troubleshooting guide](/faq/esim-deep-troubleshooting-guide-2026/).
 
-**Does Apple Watch support eSIM?** Only cellular Apple Watch models (GPS + Cellular) support eSIM. Check the back of your watch — if it has a red ring around the Digital Crown, it's a cellular model.
-
-**What's the most common reason for eSIM activation failure?** Two reasons: (1) the phone is carrier-locked, or (2) Data Roaming wasn't turned ON after installation. Both are covered in the troubleshooting section above.
-
-**Can I scan the QR code from my laptop screen?** Yes — make sure the screen is at full brightness and the code is clean. Hold your phone about 15cm away. If it doesn't scan, use manual entry (SM-DP+ address + activation code).
-
-**What if my eSIM works on Wi-Fi but not on cellular?** This is almost always an APN or Data Roaming issue. Check that Data Roaming is ON for the eSIM, and verify the APN settings are correct. See the troubleshooting section above for detailed steps.
-
-**What if I installed the eSIM but it's not showing up in Settings at all?** This can happen after a restart or iOS/Android update. Go to Settings > General > About (iPhone) or Settings > Network & Internet > SIMs (Android) — the eSIM may be listed as inactive or hidden. If it's not there, contact your carrier — the profile may need to be re-issued.
-
-**What's the difference between turning off an eSIM and deleting it?** Turning off an eSIM keeps the profile on your phone but disables the line — you can turn it back on anytime. Deleting an eSIM permanently removes the profile — you cannot recover it without a new QR code. Only delete when the plan is fully expired.
-
-**Can I have two eSIMs from different countries active at the same time?** On iPhone 13 and newer, yes — you can have two eSIMs active simultaneously (dual eSIM). On older iPhones and most Android devices, you can have one eSIM and one physical SIM active, but not two eSIMs. Check your device's specifications.
-
-**What does "eSIM SM-DP+ address" mean?** SM-DP+ (Subscription Manager - Data Preparation Plus) is the secure server address that delivers your eSIM profile to your phone. When you do manual entry, this address tells your phone where to download the profile from. Your carrier provides this address along with the activation code.
-
-👉 **Ready to travel after activating?** See [eSIM for the USA](/united-states-esim/), [eSIM for Japan](/japan-esim/), or [eSIM for Europe](/europe-esim/).
+👉 **Ready to try it yourself?** Grab a [free eSIM](/free-esim/) and run through these steps risk-free. Then explore [eSIM for the USA](/united-states-esim/), [Japan](/japan-esim/), or [Europe](/europe-esim/).
 
 ---
 

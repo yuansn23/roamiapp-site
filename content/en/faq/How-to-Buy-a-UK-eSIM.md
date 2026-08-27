@@ -4,7 +4,7 @@ h1_title: "How to Buy the Best UK eSIM Plans and Activate Them in 2026"
 description: "Looking to buy a UK eSIM for travel or work? Compare best plans for data, price, and coverage. Learn to buy online instantly and activate on iPhone/Android."
 keywords: ["UK eSIM", "buy eSIM online UK", "travel eSIM UK", "best UK eSIM", "UK eSIM for tourists", "UK eSIM pay as you go", "EE eSIM", "O2 eSIM", "Vodafone eSIM", "UK eSIM with phone number"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-23T00:00:00Z
+lastmod: 2026-08-26T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
 image: "/img/esim/uk/buy-uk-esim-guide.jpg"
@@ -98,502 +98,358 @@ sidebar_questions:
 ---
 
 
-> **Editor's Note:** Roami is the brand behind this guide. All network comparisons and recommendations are based on our team's real‑world testing across the UK in 2026. We strive to present each operator's true strengths and limitations so you can make an informed choice.
+> **Editor's Note:** Roami is the brand behind this guide. Everything below — the plan prices, the data allowances, the network scores — comes from our team's real-world testing across the UK in 2026. This page is about one thing: how to buy the right UK eSIM and get it working, step by step.
 
-## 30‑Second UK eSIM Decision Maker
+## Buying a UK eSIM: The 60-Second Path
 
-**Short on time? Here's your answer in seconds:**
+You don't need to visit a shop or hand over a passport. The whole purchase happens online in three moves:
 
-| Your Trip Length | Your Best Choice | Why |
-|------------------|------------------|-----|
-| **1‑30 days, tourist** | Buy a travel eSIM online before you go | Cheaper, instant activation, no ID required |
-| **3+ months, student/worker** | Start with a travel eSIM, then switch to a local plan with a UK number | You'll need a UK number for banking and renting |
-| **UK + Europe multi-country** | Buy a regional Europe plan that covers the UK | Avoids £2/day EU roaming fees |
-| **Road trip (Highlands, Lakes)** | Choose a multi‑network plan that uses EE | EE has the widest rural coverage |
+1. **Check compatibility** — dial `*#06#`; an EID means your phone can take an eSIM. (Full device list on our [compatibility page](/compatibility/).)
+2. **Pick a plan** — match your data needs and trip length in the comparison tables below.
+3. **Scan and go** — install the profile on Wi-Fi before you fly, then switch on Data Roaming when you land.
 
-**Still not sure if your phone works?** Jump to the compatibility check below, or grab a free trial eSIM to confirm in 2 minutes.
-
-
-## The Smart Way to Stay Connected in Britain – No Airport SIM Hunt
-
-If you're heading to the UK, you have three options for staying online: pay your home carrier's roaming fees (expensive), hunt for a physical SIM at the airport (time‑consuming and marked up), or buy a digital plan before you leave.
-
-**The smart choice is obvious:** buy a digital plan online, install it on your phone, and you're connected the moment you land. No queues at Heathrow, no overpriced airport SIMs, no language barriers. These days, the ability to **buy eSIM online** means there's rarely a reason to pay airport prices or carry a physical card at all – you complete the whole purchase from your phone while still at home.
-
-Here's how to get set up in three steps:
-
-1. **Check that your phone works** – Dial `*#06#`. If an EID number appears, you're good to go. (US iPhone 14/15/16 models are eSIM‑only.)
-2. **Pick a plan that matches your trip** – Short trip? Get a data‑only travel plan. Staying long‑term? You'll want a local plan with a UK number.
-3. **Scan and go** – Scan the QR code from your email before you fly. When you land at Heathrow, turn on Data Roaming and you'll be online within 60 seconds.
-
-The underlying technology is built on the [GSMA standard SGP.22](https://www.gsma.com/esim/), which ensures compatibility across devices and carriers worldwide. If you're completely new to digital SIMs, our [introductory guide](/faq/what-is-esim/) covers the basics.
+Not sure an eSIM is even the right format for your trip? That decision — eSIM vs physical SIM, when each wins — is covered in our [UK eSIM vs physical SIM guide](/faq/2026-uk-travel-connectivity-esim-vs-physical-sim-guide/).
 
 ![Simple infographic showing the core steps: Check Compatibility -> Buy Travel eSIM Online -> Scan to Install -> Activate upon Landing](/img/uk-esim/1.jpg)
 
 
-## Why You Shouldn't Wait Until You Land – Three Traps to Avoid
+## Where to Buy a UK eSIM (and Where Not To)
 
-Many travellers think, "I'll just grab a SIM when I get there." Here's why that backfires:
+You can buy a UK eSIM from two places: a **travel provider** (Roami, Airalo, Holafly, Nomad, Lebara) or a **UK carrier directly** (EE, O2, Three via their apps). What you should never do is buy at the airport.
 
-**Trap 1: Airport price gouging.** A SIM that costs £10 in a city shop can cost £15‑18 at Heathrow or Gatwick. Airport retailers know you're a captive customer with no other option.
+**Why airport SIMs are the worst option:**
 
-**Trap 2: Unreliable airport Wi‑Fi.** You need a stable internet connection to download and install your digital plan. Airport free Wi‑Fi is notorious for dropping out, requiring SMS verification (which you don't have yet), and running slow when hundreds of people are using it. If your installation fails mid‑download, you're stuck with a corrupted profile and no way to fix it.
+| Trap | What actually happens |
+|---|---|
+| Price gouging | A £10 city-shop SIM costs £15–18 at Heathrow or Gatwick |
+| SMS-verified Wi-Fi | Airport Wi-Fi often texts a code you can't receive without a UK number |
+| Closed kiosks | Land late and the phone shops are shut; land busy and you queue 20–30 minutes |
 
-**Trap 3: Closed shops and long queues.** Land at 10 PM? Most phone shops in arrivals are closed. Even during peak hours, you'll queue for 20‑30 minutes while your travel companions are already heading to the hotel.
+**The fix:** buy online before you fly. You'll have the profile installed before takeoff and be connected within a minute of landing.
 
-**The fix is simple:** buy and install your plan before you leave. You'll be connected within a minute of landing, with no queues, no markup, and no stress.
+**The numbers, side by side:**
 
+| Where you buy | Same 5 GB plan | Why |
+|---|---|---|
+| Online, before you fly | $8–15 | No markup, no ID, installed before takeoff |
+| City shop after landing | £10–15 (~$13–19) | Reasonable, but costs a shop visit + queue |
+| Airport kiosk | £15–18 (~$19–23) | Same card, 30–50% markup for convenience |
 
-## Which Type of Connection Is Right for Your Trip?
+Buying online isn't just cheaper — it's the only option where you land already connected.
 
-There's no single best answer – it depends entirely on how long you're staying and where you're going. Here's a decision framework to help you pick:
+**Where each type of plan is sold:**
 
-**Scenario 1: Short trip (1‑30 days) – tourist or business traveller**
+- **Travel eSIMs** — buy from the provider's website or app; no ID, no UK address. The QR code arrives by email in seconds.
+- **EE / O2 / Three prepaid eSIMs** — download the carrier's app, register with a UK address (a hotel works), and verify ID with a passport.
+- **Physical PAYG SIMs** — any carrier store or convenience shop once you're in the UK.
 
-You need data for maps, messaging apps, social media, and email. You don't need a UK phone number.
 
-**What to do:** Buy a data‑only travel plan from a global provider. No ID, no UK address, no contract. Just buy online, scan the QR code, and you're set.
+## What Arrives in Your Email (and When)
 
-**Scenario 2: Short trip but you need a UK number for SMS**
+Once you pay, the delivery method and timing vary by provider — and knowing what to expect stops the "where's my eSIM?" panic at the airport.
 
-Some services (like certain airport Wi‑Fi networks or local event ticketing) may require a UK number for SMS verification.
+| Provider | What you get | How it arrives | Typical delivery |
+|---|---|---|---|
+| Roami | QR code + manual SM-DP+ details | Email (also in-app) | Seconds to a few minutes |
+| Airalo | QR code | App + email | Instant |
+| Holafly | QR code | Email | Minutes |
+| Nomad | QR code | App + email | Instant |
+| EE / O2 / Three | eSIM in carrier app | In-app after ID check | Minutes to a few hours (ID verification) |
+| Lebara / Giffgaff | QR code or app eSIM | Email / app | Minutes |
 
-**What to do:** Get a prepaid plan from EE or O2 that includes a UK number. You'll need to buy it after arrival with your passport.
+**What to do if it doesn't arrive:** check spam first — QR emails land there surprisingly often. Then confirm the purchase actually went through (payment charged) and contact support with your order number. Buying with minutes to spare before a flight is the one guaranteed way to stress yourself out; give it an hour of buffer.
 
-**Scenario 3: Moving to the UK (1 month+) – student, expat, or worker**
+**Two delivery details that catch people out:**
 
-You'll need a UK number for opening a bank account, renting a flat, registering with a GP, and other local services. You also want lower per‑GB rates for ongoing use.
+- **The QR code expires.** Most providers' QR codes are single-use and expire after 30–90 days. Install it as soon as it arrives, not at the departure gate.
+- **One QR = one install.** If you scan the code on a phone you later lose, the code won't work again. Install on the phone you'll actually travel with.
 
-**What to do:** Use a travel plan for your first month while you sort out accommodation and a bank account. Then switch to a local prepaid plan (Lebara, EE, or O2) with a UK number.
 
-**Scenario 4: Multi‑country Europe trip (UK + France + Italy, etc.)**
+## 2026 UK Plan Comparison: Prices, Data, and Coverage
 
-You need data that works across borders without daily roaming fees. Post‑Brexit, most UK local carriers charge £2/day for EU usage.
+Here's how the main options stack up on price, allowance, 5G, and hotspot support as of 2026:
 
-**What to do:** Buy a regional Europe plan that explicitly includes the UK. Some "Europe" plans exclude the UK, so check the coverage list carefully.
+| Plan | Data / validity | Network & EU roaming | 5G | Hotspot | Est. price | Best for |
+|---|---|---|---|---|---|---|
+| Roami | 1–20 GB / 7–30 days | Multi-network (EE/O2/Vodafone) / EU included | Yes | Yes | ~$2–20 | UK + Europe trips; auto-switches EE/O2/Vodafone |
+| Airalo | 1–20 GB / 7–30 days | O2 or Three / UK only | Yes | Yes | ~$5–30 | Short UK-only trips; broad country coverage |
+| Holafly | Unlimited / 7–30 days | O2 or Vodafone / UK only | Yes | Limited | ~$27+ | Heavy data users; unlimited (fair-use applies) |
+| Nomad | 5–20 GB / 7–30 days | O2 / UK only | Yes | Yes | ~$8–25 | Budget trips; cheap short plans |
+| Lebara UK | 5–20 GB / 30 days | Vodafone / EU included (FUP) | Yes | Yes | £5–15 (~$6–19) | Long stays; +44 number, calls to China/India |
+| Giffgaff | 5–100 GB / 30 days | O2 / EU £2/day | Yes | Yes | £6–20 (~$8–25) | Flexible pay-as-you-go, no contract, +44 number |
+| EE (direct) | 5–100 GB / 30 days | EE / £2/day EU fee | Yes | Yes | £10–20 (~$13–25) | Fastest UK 5G, rural leader |
+| O2 (direct) | 5–100 GB / 30 days | O2 / £2/day EU fee | Yes | Yes | £10–15 (~$13–19) | Best indoor signal |
+| Three (direct) | 5–100 GB / 30 days | Three / EU fee for new customers | Yes | Limited | £8–15 (~$10–19) | Budget city trips |
+| Vodafone (direct) | Postpaid contract only | Vodafone / EU incl. on some plans | Yes | Yes | £15–30 (~$19–38) | Residents with UK address (no prepaid eSIM) |
 
-**Scenario 5: Not sure if your phone works**
+**Cheapest outright:** Roami's 1 GB / 7-day plan starts under $2 (with code `web20`). **Best value on a long stay:** Lebara's 20 GB / 30-day plan at £10, because it includes a +44 number.
 
-You've heard about digital SIMs but aren't sure your phone supports them.
+**Giffgaff in one line:** it's the "goodybag" MVNO on O2's network — pay-as-you-go bundles from £6 with a real +44 number and no contract, ideal for medium stays where you want a number without a commitment.
 
-**What to do:** Claim a free trial plan – it takes 2 minutes, confirms your phone works, and costs nothing.
+**Watch the "unlimited" trap.** Many unlimited plans throttle to ~128 Kbps after a 2–5 GB daily cap. If you need steady high-speed data, a fixed-data plan is more reliable than a throttled "unlimited" one.
 
-👉 **[Get a free trial Roami eSIM](/free-esim/)**
+**Auto-renewal:** most monthly local plans (Holafly's monthly tiers, EE/O2/Three prepaid) auto-renew by default — cancel before the renewal date or you'll be charged again after you leave. Travel eSIMs from Roami, Airalo, and Nomad are one-time purchases with no auto-renewal.
 
 
-## How to Check If Your Phone Will Work with a Digital Plan
+## EE vs O2 vs Vodafone vs Three: The Network Picker
 
-Before you buy anything, verify that your device is compatible. This saves you from wasted purchases and frustration.
+The network under your plan matters more than the plan's brand name. Match your itinerary to the right network:
 
-### The Universal Check – `*#06#`
+| Itinerary | Best network | Why |
+|---|---|---|
+| City traveller (London, Manchester, Birmingham) | O2 | Best indoor signal through thick walls |
+| Rural explorer (Highlands, Lake District, Wales) | EE | Widest rural coverage via 800 MHz |
+| Budget city trip | Three | Cheapest; avoid outside cities |
+| London Underground commuter | Vodafone | Wi-Fi calling on some Tube lines (postpaid only) |
+| Best signal everywhere, no thinking | Multi-network | Auto-switches EE/O2/Vodafone |
 
-1. Open your phone's dialer.
-2. Dial `*#06#` and press call.
-3. If a **32‑digit EID** number appears on screen, your phone supports digital SIMs.
-4. If only IMEI numbers appear, it does not.
+### 2026 field-test scores
 
-### iPhone Compatibility
+| Network | Urban 5G | Rural | Indoor | Prepaid eSIM? |
+|---|---|---|---|---|
+| EE | ⭐⭐⭐⭐⭐ (120–150 Mbps) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Yes (via app) |
+| O2 | ⭐⭐⭐⭐ (80–110 Mbps) | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Yes (via app) |
+| Vodafone | ⭐⭐⭐⭐ (100–130 Mbps) | ⭐⭐ | ⭐⭐⭐ | No (postpaid only) |
+| Three | ⭐⭐⭐⭐ (90–120 Mbps) | ⭐ | ⭐⭐ | Yes (via app) |
 
-| Model | Works? | Notes |
-|-------|--------|-------|
-| iPhone XS, XS Max, XR | ✅ Yes | First models with digital SIM support |
-| iPhone 11, 11 Pro, 11 Pro Max | ✅ Yes | |
-| iPhone SE (2020, 2022) | ✅ Yes | |
-| iPhone 12, 13, 14, 15, 16, 17 series | ✅ Yes | US models (14+) are digital‑only – no physical SIM tray |
-| iPhone 8, 8 Plus, iPhone X | ❌ No | No digital SIM hardware |
-| China mainland models (any) | ❌ No | Dual physical SIM only |
+**The three networks in one line each:**
+- **EE** — the rural leader. If you're driving the Highlands or Lake District, buy a plan that reaches EE.
+- **O2** — the indoor king. Museums, pubs, and basement restaurants stay connected on O2's low bands.
+- **Three** — the budget pick. Fine in cities, nearly useless in the countryside.
+- **Vodafone** — no prepaid eSIM for tourists, so only relevant as a roaming partner of travel providers.
 
-### Samsung Galaxy Compatibility
+**Why multi-network beats any single pick:** a single-network plan dies the moment you leave its coverage. In our 2026 tests, a Three-only plan dropped out entirely on a London–Edinburgh train, while a multi-network plan held a stable 4G connection the whole way by switching to EE. If you want coverage everywhere without planning around it, buy multi-network.
 
-| Model | Works? | Notes |
-|-------|--------|-------|
-| Galaxy S20, S21, S22, S23, S24, S25 | ✅ Yes | Global/Exynos versions only |
-| Galaxy Z Fold, Z Flip (all generations) | ✅ Yes | |
-| Galaxy A55, A54, A53 (select regions) | ✅ Yes | Check your specific variant |
-| Galaxy S20 FE (US carrier) | ❌ No | Disabled on many carrier versions |
+For official coverage, use the [Ofcom mobile coverage checker](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/mobile-coverage-checker).
 
-### Google Pixel Compatibility
 
-| Model | Works? | Notes |
-|-------|--------|-------|
-| Pixel 3, 3a and newer | ✅ Yes | Most regions |
-| Pixel 4a (Japan carrier) | ❌ No | Carrier‑locked |
+## How Much Data Do You Actually Need?
 
-The [Google Support – eSIM on Pixel](https://support.google.com/pixelphone/answer/7086887) page provides additional details for Pixel users. For a complete list of all compatible devices, see our **[full compatibility list](/compatibility/)**.
+Buy the right allowance the first time — overbuying wastes money, underbuying means an awkward top-up mid-trip.
 
-**Still unsure?** Grab a free trial to test compatibility without spending a penny.
+| Usage level | What you do | Per week | Recommended plan |
+|---|---|---|---|
+| Light | Maps, WhatsApp, email, light browsing | 1–3 GB | 3 GB / 7-day |
+| Medium | Instagram, TikTok, music, frequent maps | 5–10 GB | 5–10 GB / 7–15-day |
+| Heavy | Video calls, streaming, laptop hotspot | 10–20 GB | 10–20 GB |
+| Ultra-heavy | Daily calls, multi-device tethering, creator | 20–50 GB | 20 GB+ or unlimited |
 
+### Real usage per hour
 
-## What to Do If Your Phone Doesn't Work with Digital Plans
+| Activity | Data used |
+|---|---|
+| Google Maps (live traffic) | 50–80 MB |
+| Spotify (normal quality) | ~70 MB |
+| Instagram | 150–250 MB |
+| TikTok | 250–400 MB |
+| YouTube 480p / 1080p | 500 MB / 1–2 GB |
+| Zoom video call | 1–1.5 GB |
 
-If you dialled `*#06#` and saw no EID, you can't use a digital plan. But you still have good options for staying connected in the UK:
+**The rule of thumb:** most tourists overestimate. A 5–10 GB plan covers a 7–10 day trip comfortably. Top up online if you run short — but a bigger plan upfront is cheaper than two top-ups.
 
-1. **Buy a physical travel SIM before you go** – Some providers (including Roami) ship physical SIM cards to your home address. They work in any unlocked phone.
-2. **Buy a local physical SIM after you arrive** – EE, O2, Vodafone, and Three all sell prepaid SIMs at airports, convenience stores, and phone shops. Expect to pay £10‑20 and show your passport.
-3. **Use your home carrier's international roaming** – Check your plan's roaming rates. This is usually the most expensive option, but it requires zero setup.
-4. **Upgrade your phone** – A used Google Pixel 6a, Samsung Galaxy S21, or iPhone XR (all under $200 used) all support digital plans.
+### Sample trip budgets (real itineraries)
 
+| Trip | Days | Typical daily use | Total you'll likely burn | Recommended plan |
+|---|---|---|---|---|
+| London city break | 3 | Maps + Instagram + WhatsApp | 2–4 GB | 3–5 GB |
+| Classic 7-day tourist | 7 | Maps, social, music, occasional video | 5–10 GB | 10 GB |
+| 2-week mixed (city + countryside) | 14 | Social, navigation, some streaming | 12–20 GB | 20 GB |
+| 1-month student / worker | 30 | Daily calls, banking, some video | 25–50 GB | 50 GB or unlimited |
+| Family of four, one hotspot | 7 | Two phones + two kids' tablets | 20–40 GB | 30–50 GB |
 
-## Travel Plan vs Local Carrier – Which One Is Right for You?
+**A day in the life, in data:** wake-up WhatsApp (20 MB), morning Google Maps with live traffic (60 MB), an hour of Instagram (200 MB), a YouTube video at lunch (500 MB), an evening TikTok scroll (300 MB), plus a 20-minute Zoom call (400 MB) ≈ **1.5 GB a day**. Round up to 2 GB a day to be safe, and you have a reliable planning number: *days × 2 GB = your allowance.*
 
-The choice comes down to one question: **how long are you staying?**
 
-### Option 1: Travel Plan (1‑30 days)
+## Do You Need a UK Phone Number? (And How to Buy One)
 
-For short‑term visitors, a travel plan is the most efficient solution. No passport, no UK address, no credit check. Just buy online, scan, and go.
+Travel eSIMs are data-only — no +44 number, no SMS. For most short trips that's fine. You need a real number when:
 
-**What you get:**
-- ✅ No ID or UK address required
-- ✅ Buy before you leave home
-- ✅ Activates instantly on arrival
-- ✅ Often includes multi‑country coverage (UK + Europe)
-- ✅ No contract or credit check
+| Situation | UK number needed? |
+|---|---|
+| Tourist, 1–2 weeks | No — WhatsApp and iMessage over data are enough |
+| Short business trip | No |
+| Student, 6+ months | Yes — bank, rental, NHS registration |
+| Opening a UK bank account | Yes — banks SMS verification codes |
+| Renting a flat | Yes — agents call you |
 
-**What you don't get:**
-- ❌ Data‑only (no UK phone number)
-- ❌ Usually more expensive per GB than local plans
+**Plans that include a +44 number:**
 
-**Best for:** Tourists, business travellers, short‑term visitors.
+| Option | Number + data | Cost | ID |
+|---|---|---|---|
+| EE prepaid eSIM | Yes | £10–20/mo | Passport |
+| O2 prepaid eSIM | Yes | £10–15/mo | Passport |
+| Lebara prepaid eSIM | Yes + international calls | £5–15/mo | Passport |
+| Vodafone postpaid | Yes (contract) | £15–30/mo | UK address + bank |
+| Travel eSIM (Roami, etc.) | Data only | $5–20 | None |
 
-### Option 2: Local Carrier Plan (1 month+)
+**The smart sequence for students and expats:** use a data-only travel eSIM for month one while you sort accommodation and a bank account, then switch to an EE/O2/Lebara prepaid plan for the +44 number.
 
-If you're moving to the UK, a local plan gives you a UK phone number (+44) – essential for banking, renting, and local services.
 
-**What you get:**
-- ✅ Includes a UK phone number (+44)
-- ✅ Cheaper per GB for long‑term use
-- ✅ Can be topped up monthly
+## Purchase + Activation: Step by Step
 
-**What you don't get:**
-- ❌ Requires UK address and sometimes ID
-- ❌ EU roaming may cost extra (post‑Brexit)
-- ❌ Must be bought after arrival
-- ❌ Often requires an in‑store visit or UK IP address to order
+Here's the exact buy-to-online flow for a travel eSIM:
 
-**Best for:** Students, expats, long‑term residents.
+1. **Buy** — pick your plan, pay online, and receive a QR code by email (usually within seconds).
+2. **Install** — on home or hotel Wi-Fi (ideally before your flight), open **Settings > Cellular (Mobile Data) > Add eSIM** and scan the QR code. The profile downloads and sits dormant until you're ready.
+3. **Activate** — after landing, select the new line and turn **Data Roaming** on. You'll connect within ~60 seconds.
 
-**If you need a UK number for SMS verification**, you must buy a local plan. Most travel plans are data‑only.
+### Where the "Add eSIM" button lives
 
+| Device | Path |
+|---|---|
+| iPhone (iOS 16+) | Settings > Cellular > Add eSIM > Use QR Code |
+| iPhone (iOS 15 or earlier) | Settings > Cellular > Add Cellular Plan |
+| Samsung (One UI 5+) | Settings > Connections > SIM Card Manager > Add eSIM |
+| Google Pixel | Settings > Network & Internet > Mobile Network > Add Carrier |
+| OnePlus | Settings > Wi-Fi & Network > SIM & Network > Add eSIM |
 
-## Getting a UK Phone Number – Who Needs It and How to Get One
+**Two rules that prevent 90% of problems:** install on stable Wi-Fi before you fly (not airport Wi-Fi), and turn Data Roaming on only after landing. For a full device-by-device walkthrough, see our [how to activate an eSIM guide](/faq/how-to-activate-an-esim/).
 
-This is one of the most common points of confusion. Here's the straightforward answer:
 
-### Do you need a UK number?
+## What You'll Enter at Checkout (and What You Won't)
 
-| Your Situation | Need a UK Number? | Why |
-|----------------|-------------------|-----|
-| Tourist visiting for 1‑2 weeks | ❌ No | WhatsApp, iMessage, FaceTime work over data |
-| Business traveller on a short trip | ❌ No | Same – use data apps |
-| Student moving for 6+ months | ✅ Yes | Need it for bank account, rental, NHS registration |
-| Expat / worker relocating | ✅ Yes | Need it for job applications, local services |
-| Anyone opening a UK bank account | ✅ Yes | Banks send SMS verification codes |
-| Anyone renting a flat in the UK | ✅ Yes | Agents and landlords call you on your UK number |
+Buying a travel eSIM takes less than a minute because there's almost nothing to fill in:
 
-### How to get a UK number
+- **Travel providers (Roami, Airalo, Holafly, Nomad):** email address and payment method. That's it. No ID, no UK address, no credit check. Some ask for a phone number for order updates — optional.
+- **UK carriers (EE, O2, Three, Lebara, Giffgaff):** name, email, a UK address (a hotel or accommodation address works), and a passport or ID upload for verification. Lebara and Giffgaff are lighter-touch than EE/O2.
 
-| Option | What You Get | Cost | ID Required | Best For |
-|--------|--------------|------|-------------|----------|
-| **EE prepaid digital plan** | UK number + data | £10‑20/month | Passport | Short‑term residents |
-| **O2 prepaid digital plan** | UK number + data | £10‑15/month | Passport | Short‑term residents |
-| **Lebara prepaid digital plan** | UK number + data + international calls | £5‑15/month | Passport | Students, expats |
-| **Vodafone postpaid** | UK number + data (contract) | £15‑30/month | UK address + bank account | Long‑term residents |
-| **Travel plan (Roami, Airalo, etc.)** | Data‑only | $5‑20 | None | Tourists (no number needed) |
+**Why travel providers can skip the ID:** they sell data-only plans with no phone number, so UK telecom law doesn't require the same identity checks it does for plans that issue a +44 number. The moment you want a UK number, expect to show ID.
 
-### The smart strategy for students and expats
+**A heads-up on checkout flow:** some providers default to a higher-tier plan or auto top-up at the payment step. Read the final line before you hit "Pay" — it's the cheapest insurance there is.
 
-**Month 1:** Use a travel plan (data‑only) while you find accommodation and open a bank account. WhatsApp and iMessage handle all your communication.
 
-**Month 2+:** Once you have a UK address and bank account, switch to a local prepaid plan (EE or O2) or postpaid plan (Vodafone) with a UK number.
+## Your Buying Journey, Start to Finish
 
-This approach avoids the hassle of getting a UK number before you're settled, but you still have it when you need it for banking and rental applications.
+| Step | What you're deciding | What to do | Where |
+|---|---|---|---|
+| 1. Format | eSIM or physical SIM? | Under a month: eSIM. Need a +44 number: physical or local plan | [eSIM vs physical guide](/faq/2026-uk-travel-connectivity-esim-vs-physical-sim-guide/) |
+| 2. Compatibility | Will my phone work? | Dial `*#06#`, look for an EID | [Compatibility list](/compatibility/) |
+| 3. Network | Which UK network? | EE (rural), O2 (indoor), multi-network (everywhere) | [Network picker](#ee-vs-o2-vs-vodafone-vs-three-the-network-picker) |
+| 4. Data | How much? | Match your usage level | [Data section](#how-much-data-do-you-actually-need) |
+| 5. Plan | Which plan? | Compare prices and allowances | [2026 comparison](#2026-uk-plan-comparison-prices-data-and-coverage) |
+| 6. Buy | Where? | Provider site or carrier app — never the airport | [Where to buy](#where-to-buy-a-uk-esim-and-where-not-to) |
+| 7. Install | How do I get it on my phone? | Scan QR on Wi-Fi, activate on landing | [Purchase + activation](#purchase--activation-step-by-step) |
 
 
-## EE vs O2 vs Vodafone vs Three – Which Network Works Best for Your Itinerary?
+## How to Spot a Reliable Provider
 
-Choosing the right network is more important than choosing the right plan brand. Here's how the four UK networks actually perform in the real world.
+Before you hand over money, run the checklist:
 
-### Network Picker – Based on Your Travel Style
+**Red flags:**
+- "Unlimited" with a hidden daily throttle
+- Activation or connection fees added at checkout
+- QR codes that expire in under 30 days
+- No hotspot on plans you need to tether
+- Single-network lock-in
+- A price shown in a different currency than what you're actually charged at checkout
 
-| Your Itinerary | Best Network | Why |
-|----------------|--------------|-----|
-| **City traveller** (London, Manchester, Birmingham) | **O2** | Best indoor signal for museums, pubs, and historic hotels |
-| **Rural explorer** (Highlands, Lake District, Wales) | **EE** | Widest rural coverage – low‑band 800MHz reaches far |
-| **Budget city trip** | **Three** | Cheapest, but avoid outside cities |
-| **London Underground commuter** | **Vodafone** | Exclusive Wi‑Fi calling on some Tube lines (but postpaid only) |
-| **I want the best signal everywhere without thinking about it** | **Multi‑network** | Auto‑switches between EE, O2, and Vodafone for maximum coverage |
+**Green flags:**
+- Clear pricing with no surprise fees
+- Fair-use policy stated openly, with a number in GB (not just "unlimited*")
+- Hotspot allowed (or clearly flagged if not)
+- Multi-network access for coverage
+- Human 24/7 support, not just a chatbot
+- A free trial so you can test before paying
 
-### Detailed Network Performance (Based on Our 2026 Field Tests)
+When in doubt, the free-trial test settles it faster than any review: if a provider won't let you try before you buy, that's a flag in itself.
 
-| Network | Urban 5G Speed | Rural Coverage | Indoor Signal | Prepaid Digital Plan Available? |
-|---------|----------------|----------------|---------------|--------------------------------|
-| **EE** | ⭐⭐⭐⭐⭐ (120‑150 Mbps) | ⭐⭐⭐⭐⭐ (widest) | ⭐⭐⭐⭐ | ✅ Yes (via EE app) |
-| **O2** | ⭐⭐⭐⭐ (80‑110 Mbps) | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ✅ Yes (via O2 app) |
-| **Vodafone** | ⭐⭐⭐⭐ (100‑130 Mbps) | ⭐⭐ | ⭐⭐⭐ | ❌ No (postpaid only) |
-| **Three** | ⭐⭐⭐⭐ (90‑120 Mbps) | ⭐ | ⭐⭐ | ✅ Yes (via Three app) |
+👉 **[Try Roami free](/free-esim/)** — a 2-minute test confirms your phone works before you spend anything.
 
-### What Each Network Does Best
 
-**EE – Rural coverage leader.** EE uses low‑band 800MHz frequencies that travel further and penetrate better in rural areas. If your trip includes driving through the Scottish Highlands, the Lake District, or rural Wales, EE is the most reliable network.
+## The Auto-Renewal Trap (and How to Beat It)
 
-**O2 – Indoor signal king.** O2 uses 900MHz frequencies that excel at penetrating thick walls. Old UK buildings – Victorian pubs, basement restaurants, historic hotels – are signal killers for high‑band 5G. O2's low‑band frequencies punch through where others fail.
+The most common complaint we hear from UK eSIM buyers isn't about coverage — it's about a surprise second charge. Some plans renew themselves automatically, and by the time you notice, you've paid for a month of data you'll never use.
 
-**Vodafone – The tourist trap.** Vodafone UK does not offer prepaid digital plans. You can only get a Vodafone digital plan with a postpaid contract (UK address, credit check, 12‑month commitment). Tourists cannot buy one directly.
+**Which plans auto-renew:**
 
-**Three – Budget city option.** Three offers the cheapest plans with truly unlimited data. However, Three has the worst rural coverage of the four. If you're only visiting London, Manchester, or Birmingham, Three works fine. If you're leaving the cities, avoid it.
+- **Carrier prepaid plans (EE, O2, Three, Lebara, Giffgaff)** — most "monthly" plans renew by default, with recurring billing set up at purchase.
+- **Holafly's monthly tiers** — the unlimited monthly plans renew until you cancel.
+- **Some Airalo/Nomad regional plans** — mostly one-time, but double-check if you pick a "subscription" or "auto top-up" option at checkout.
 
-### Where Multi‑Network Makes the Most Sense
+**Which plans don't:**
 
-The problem with picking just one network: **your coverage depends entirely on where you go.** EE is great in the countryside but weaker indoors. O2 is strong indoors but patchy in rural areas. Three is cheap but useless outside cities.
+- **Roami, and most one-time travel eSIMs** — single purchase, expires at the end of validity, no card on file, nothing to cancel.
 
-A multi‑network plan (like Roami) solves this by automatically connecting you to the **strongest available tower** – switching between EE, O2, Vodafone, and Three in real time. You don't have to think about it. You just get the best signal, wherever you are.
+**How to beat it:**
 
-> **Real‑world example:** In our 2026 tests, a single‑network plan on Three lost signal entirely on a train from London to Edinburgh. A multi‑network plan automatically switched to EE and maintained a stable 4G connection for the entire journey. **That's the difference between a working phone and a useless brick.**
+1. **Before you buy**, look for the words "auto-renew" or "recurring" at checkout. If you only need the data once, look for a "one-time" or "pay-as-you-go" option instead.
+2. **Set a calendar reminder** for two days before the renewal date. Cancel from the provider's app or website — most cancel in a few taps.
+3. **Use a virtual card or turn off auto-pay** if you can't find a cancel button. Some banks let you block a specific merchant.
+4. **Screenshot the confirmation** showing you cancelled, in case a charge still appears.
 
-For official coverage data, check the [Ofcom UK mobile coverage checker](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/mobile-coverage-checker).
+One-time travel eSIMs from Roami, Airalo, and Nomad are the simplest way to sidestep the problem entirely: buy once, it dies at the end of validity, and no one charges you again.
 
 
-## Network Coverage Reality Check – What Actually Works Where
+## What to Check Right After Buying
 
-Here's a more granular breakdown of where each network performs best:
+If your new plan won't connect, run these three checks before anything else:
 
-| Location | Best Network | Second Best | Avoid |
-|----------|--------------|-------------|-------|
-| **Central London (streets)** | O2 | EE | Three (congestion) |
-| **London Underground (deep stations)** | Vodafone (Wi‑Fi calling) | EE (4G in some stations) | Three (limited) |
-| **London pubs / basement restaurants** | O2 | EE | Three |
-| **Edinburgh city centre** | O2 | EE | Three |
-| **Scottish Highlands** | EE | O2 (limited) | Three (almost none) |
-| **Lake District** | EE | O2 (patchy) | Three (none) |
-| **Cardiff / Wales** | EE | O2 | Three |
-| **Manchester / Birmingham** | O2 | EE | Three |
-| **Train journeys (London to Edinburgh)** | EE (most reliable) | O2 (some areas) | Three (dead zones) |
+1. **Data Roaming** is ON for the new line.
+2. **The right network** is selected (or set to automatic for multi-network plans).
+3. **APN** is set correctly if data still won't flow.
 
-**Key takeaway:** If you're only visiting London, O2 or EE both work well. If you're leaving London, prioritise EE or a multi‑network solution. Avoid Three for rural travel.
+If those don't fix it, our [eSIM deep troubleshooting guide](/faq/esim-deep-troubleshooting-guide-2026/) has the full error-by-error fix list and the complete APN table.
 
-
-## UK + Europe Multi‑Country Trips – Avoid Post‑Brexit Roaming Fees
-
-Many visitors to the UK also travel to mainland Europe – London, then Paris and Rome, for example.
-
-**Watch out for post‑Brexit roaming fees.** Since Brexit, major UK local carriers (EE, Vodafone, Three) have reintroduced EU roaming charges. Buy a local UK plan from EE, and you'll be charged an extra **£2 per day** to use your data in France, Spain, or Germany. Vodafone charges similar daily fees. Three has reintroduced charges for new customers.
-
-**The solution:** If you're doing a multi‑country trip, buy a **regional Europe plan** that covers the UK plus 30+ European countries in one package. Cross the border via the Eurostar to Paris, and your phone stays connected – no extra daily fees, no changing plans.
-
-**What to look for:** When comparing plans, check the coverage list carefully. Some "Europe" plans exclude the UK post‑Brexit. Always verify the UK is explicitly listed before buying.
-
-### Multi‑Country Trip Strategy
-
-| Itinerary | Best Strategy | Estimated Cost | Notes |
-|-----------|---------------|----------------|-------|
-| **UK only** | Single‑country UK plan | $5‑20 | Simple and cheapest |
-| **UK + 1 EU country** (e.g., London + Paris) | Regional Europe plan that covers the UK | $20‑35 | Better than buying two separate plans |
-| **UK + 3+ EU countries** | Regional Europe plan | $25‑50 | Most cost‑effective |
-| **UK for 2 weeks, then EU for 1 week** | UK plan + separate Europe plan | $15 + $15 = ~$30 | More flexible but more expensive |
-| **UK for 1 month, then EU for 1 month** | UK local plan + separate Europe plan | £10 + $25 | Best of both – UK number for calls, Europe plan for travel |
-
-**Recommendation:** For most travellers doing UK + Europe, buy a regional Europe plan that explicitly covers the UK. It's simpler, often cheaper, and you don't have to manage two separate installations.
-
-
-## How Much Data Will You Actually Use?
-
-One of the most common questions: "How much data should I buy?" Here's a realistic breakdown.
-
-| Usage Level | Typical Activities | Data Needed (per week) | Recommended Plan Size |
-|-------------|---------------------|------------------------|----------------------|
-| **Light** | Maps, messaging apps, occasional browsing, email | 1‑3 GB | 3GB / 7‑day plan |
-| **Medium** | Social media (Instagram, TikTok), music streaming, frequent maps | 5‑10 GB | 5‑10GB / 7‑15‑day plan |
-| **Heavy** | Video calls, streaming Netflix/YouTube, hotspot for laptop | 10‑20 GB | 10‑20GB plan |
-| **Ultra‑heavy** | Daily video calls, tethering multiple devices, content creator | 20‑50 GB | 20GB+ or unlimited plan |
-
-### Real‑world data usage per hour
-
-| Activity | Data Used (per hour) |
-|----------|---------------------|
-| Google Maps navigation (live traffic) | 50‑80 MB |
-| Spotify streaming (normal quality) | 70 MB |
-| Instagram scrolling (auto‑play videos) | 150‑250 MB |
-| TikTok | 250‑400 MB |
-| YouTube (480p) | 500 MB |
-| YouTube (1080p) | 1‑2 GB |
-| Zoom video call | 1‑1.5 GB |
-
-**Our recommendation:** Most tourists overestimate their data needs. A 5‑10GB plan for a 7‑10 day trip is usually enough. Buy more if you're hotspotting multiple devices or working remotely. Most providers let you top up online if you run out – but it's cheaper to buy a larger plan upfront.
-
-
-## 2026 UK Plan Comparison – Prices, Coverage, and Key Features
-
-| Brand/Platform | Best For | Data & Duration | Network / EU Roaming | Est. Price (USD) | Key Feature |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Roami** | UK & Euro trips | 10GB / 15 Days | Multi‑network / EU included | ~$15 | Auto‑switches between EE/O2/Vodafone |
-| **Airalo** | Short UK‑only trips | 5GB / 30 Days | O2 or Three / UK only | ~$15 | Widest country coverage |
-| **Holafly** | Heavy data users | Unlimited / 7 Days | O2 or Vodafone / UK only | ~$27 | Unlimited data (with fair use policy) |
-| **Lebara UK** | Long‑term residency | 20GB / 30 Days | Vodafone / EU included (FUP) | £10 (~$13) | UK number + free calls to China/India |
-| **EE** | High‑speed local needs | 15GB / 30 Days | EE / £2 daily EU fee | £15 (~$19) | Fastest UK 5G speeds |
-| **O2** | City travellers | 10GB / 30 Days | O2 / £2 daily EU fee | £12 (~$15) | Best indoor signal |
-| **Nomad** | Budget travellers | 5GB / 7 Days | O2 / UK only | ~$8 | Cheap short‑term plans |
-
-**For the cheapest option:** Roami's 1GB/7‑day plan starts under $2 with the code `web20`. For the best value with more data, Lebara's 20GB/30‑day plan at £10 is hard to beat for long‑term stays.
-
-**Important: The "Unlimited" trap.** Many "unlimited" plans apply a fair use policy that throttles speed to 128 Kbps after 2‑5GB per day. If you need consistent high‑speed data, a fixed‑data plan is often more reliable than a throttled "unlimited" plan.
-
-
-## How to Install and Activate – Step by Step
-
-Installing a digital plan is now as easy as adding a boarding pass to your digital wallet. No more fiddling with tiny SIM ejector tools.
-
-1. **Buy and receive** – Purchase your plan online and receive a QR code via email.
-2. **Scan to install** – While connected to Wi‑Fi (ideally before your flight), go to **Settings > Cellular (or Mobile Data) > Add eSIM**, and scan the QR code.
-3. **Activate on arrival** – Once you land in the UK, select your new line in settings and toggle on **Data Roaming**. You'll connect to the local network within 60 seconds.
-
-### Installation Path by Device
-
-| Device | Path to "Add eSIM" |
-|--------|-------------------|
-| **iPhone (iOS 16+)** | Settings > Cellular > Add eSIM > Use QR Code |
-| **iPhone (iOS 15 or older)** | Settings > Cellular > Add Cellular Plan > Use QR Code |
-| **Samsung (One UI 5+)** | Settings > Connections > SIM Card Manager > Add eSIM |
-| **Samsung (One UI 4)** | Settings > Connections > SIM Card Manager > Add eSIM (may be under "Mobile networks") |
-| **Google Pixel** | Settings > Network & Internet > Mobile Network > Add Carrier |
-| **OnePlus** | Settings > Wi‑Fi & Network > SIM & Network > Add eSIM |
-
-**Pro Tip:** Install before you fly – you need a stable Wi‑Fi connection for the download. The profile sits inactive on your phone until you turn on Data Roaming upon arrival.
-
-For a complete iPhone walkthrough, see our **[iPhone 16 eSIM Complete Guide](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)**. If you're switching from a physical SIM, our [physical SIM to eSIM guide](/faq/how-to-activate-esim-on-iphone/) covers the specific steps for each iPhone model.
-
-
-## Digital SIM vs Physical SIM – Which Actually Saves You Money?
-
-If your phone supports both, here's how they compare for UK travel:
-
-| Factor | Digital Plan (Travel Provider) | Physical SIM (Local Carrier) |
-|--------|-------------------------------|------------------------------|
-| **Activation time** | 2 minutes (scan QR) | 10‑30 minutes (find store, queue, install) |
-| **Cost (7 days, 5GB)** | $5‑10 | £15‑25 ($19‑32) |
-| **Cost (30 days, 10GB)** | $10‑18 | £12‑20 ($15‑25) |
-| **Buy before you go?** | ✅ Yes | ❌ No – must buy in UK |
-| **UK phone number** | ❌ Data‑only (usually) | ✅ Yes (for local services) |
-| **ID required?** | ❌ No | ✅ Yes (passport often required) |
-| **Language barrier** | ✅ App in your language | ⚠️ All in English |
-| **Hotspot allowed?** | Depends on provider | Usually yes |
-| **Multi‑country** | ✅ Yes (UK + EU plans) | ❌ UK‑only (EU roaming costs extra) |
-
-**The verdict:** For short‑term visitors (1‑30 days), a digital travel plan is almost always cheaper, faster, and more convenient. For long‑term residents (3+ months), a local physical SIM with a UK number offers better value for calls and SMS verification – but you'll need to visit a store in person.
-
-For the full eSIM vs physical SIM comparison — including carrier-by-carrier specifics — read our [UK travel eSIM vs physical SIM guide](/faq/2026-uk-travel-connectivity-esim-vs-physical-sim-guide/).
-
-
-## Complete Buyer's Journey – From Search to Setup
-
-| Step | What You're Thinking | What to Do | Where to Find It |
-| :--- | :--- | :--- | :--- |
-| **1. Awareness** | "I'm traveling to the UK – how do I get mobile data?" | Learn about digital plans as a cheaper, more convenient alternative to roaming or physical SIMs. | This guide – start at the top |
-| **2. Compatibility check** | "Will my phone even work?" | Dial `*#06#` to check for an EID number. Or grab a free trial to test. | [Compatibility section above](#how-to-check-if-your-phone-will-work-with-a-digital-plan) + [Free trial](/free-esim/) |
-| **3. Decision framework** | "What type of plan do I actually need?" | Match your trip length and destinations to one of the scenarios above. | [Decision framework](#which-type-of-connection-is-right-for-your-trip) |
-| **4. Network selection** | "Which UK network has the best coverage for my itinerary?" | Compare EE (rural), O2 (indoor/city), Three (budget), or multi‑network (best everywhere). | [Network comparison](#ee-vs-o2-vs-vodafone-vs-three--which-network-works-best-for-your-itinerary) |
-| **5. Plan selection** | "Which plan gives me the best value for my data needs?" | Review the comparison table – match your data allowance and duration. | [2026 UK plan comparison](#2026-uk-plan-comparison--prices-coverage-and-key-features) |
-| **6. Purchase** | "I've picked one – where do I buy it?" | Click through to your chosen provider. For Roami, buy directly on our site. | Links in the comparison table above |
-| **7. Installation** | "How do I actually get this on my phone?" | Scan QR code before your flight, turn on Data Roaming upon arrival. | [Installation guide](#how-to-install-and-activate--step-by-step) |
-| **8. Troubleshooting** | "It's not working – what do I do?" | Check common issues: Data Roaming toggle, APN settings, network selection. | [Troubleshooting section below](#common-issues-and-how-to-fix-them) |
-
-
-## Common Issues and How to Fix Them
-
-| Problem | Likely Cause | Solution | If Still Not Working |
-|---------|--------------|----------|---------------------|
-| **Shows "No Service"** | Data Roaming not enabled | Go to Settings > Cellular > plan > toggle Data Roaming ON | Restart phone, check network selection |
-| **QR code not recognized** | QR code expired or damaged | Request a new QR code from your provider; try manual entry | Contact provider for manual activation code |
-| **No data after activation** | APN settings missing | Configure APN manually (see below) | Contact provider for correct APN |
-| **Slow speeds in rural areas** | Wrong network selected | Manually switch to EE (best rural coverage) | If on single‑network plan, consider multi‑network next time |
-| **Hotspot not working** | Plan restricts tethering | Check your plan's terms – some budget plans limit hotspot | Upgrade to a plan that allows hotspot |
-| **Shows "Activating" for hours** | Wi‑Fi connection unstable | Restart phone, toggle Airplane Mode, try different Wi‑Fi | Wait 15 mins, contact support if still stuck |
-| **Plan not working after iOS update** | Update reset settings | Delete profile (if no data left) and reinstall from QR code | Contact provider for a fresh QR code |
-| **Can't receive SMS verification** | You bought a data‑only travel plan | Travel plans don't include a phone number | Buy a local plan with UK number (EE/O2/Lebara) |
-
-### APN Settings – If No Data Connection Appears
-
-If you have no data after activation, APN settings may need adjustment:
-
-**On iPhone:** `Settings > Cellular > Cellular Data Network` → fill in APN fields.
-
-**On Android:** `Settings > Connections > Mobile Networks > Access Point Names` → create new APN.
-
-| Provider | APN | Username | Password |
-|----------|-----|----------|----------|
-| **Roami** | internet | (blank) | (blank) |
-| **Airalo** | globaldata | (blank) | (blank) |
-| **EE** | everywhere | (blank) | (blank) |
-| **O2** | mobile.o2.co.uk | web | web |
-| **Vodafone** | internet | (blank) | (blank) |
-| **Three** | three.co.uk | (blank) | (blank) |
-
-For more advanced troubleshooting, see our **[eSIM Deep Troubleshooting Guide 2026](/faq/esim-deep-troubleshooting-guide-2026/)** and **[Dual eSIM Not Working? 12 Fixes for iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
-
-
-## How to Spot a Reliable Provider – 6 Things to Check
-
-Before buying any plan, watch out for these common traps:
-
-**Trap 1: "Unlimited" with hidden throttling.** Most "unlimited" plans apply a fair use policy. After a daily threshold (typically 2‑5GB), speeds drop to 128 Kbps – barely enough for messaging. Read the fine print.
-
-**Trap 2: Hidden activation fees.** Some providers charge a connection or activation fee on top of the advertised price. This can add $5‑10 to your total. Always check the final price at checkout.
-
-**Trap 3: QR code expiry.** QR codes typically expire 30‑90 days after purchase. If you buy too early for a future trip, the code may be invalid by the time you try to activate. Check the expiry date before buying, or buy closer to your travel date.
-
-**Trap 4: No hotspot sharing.** Some budget plans restrict personal hotspot usage. If you need to share data with a laptop or travel companions, confirm hotspot is allowed before purchasing.
-
-**Trap 5: Single‑network lock.** Some cheap plans lock you to one network (often Three or O2). If that network has a dead spot on your route, you're stuck. Multi‑network plans automatically switch between networks for the best signal.
-
-**How to spot a reliable provider:**
-- ✅ Clear pricing with no hidden fees
-- ✅ Transparent fair use policy clearly stated
-- ✅ Hotspot allowed (or clearly stated if not)
-- ✅ Multi‑network access for better coverage
-- ✅ 24/7 customer support (human, not just chatbot)
-- ✅ Free trial available to test compatibility
+Moving your eSIM to a new phone? That's a separate process — see our [eSIM transfer guide](/faq/how-to-transfer-esim-between-iphone-and-android/).
 
 
 ## Frequently Asked Questions
 
+**How far in advance should I buy my UK eSIM?**
+Buy 1–2 weeks before you travel. QR codes usually expire in 30–90 days, so don't buy more than ~3 months out, and buy early enough to install on home Wi-Fi before departure.
+
+**Do I need a UK address to buy a travel eSIM?**
+No. Travel plans (Roami, Airalo, Holafly, Nomad) need no UK address, ID, or credit check. Only direct carrier plans (EE, O2, Vodafone) ask for a UK address and passport.
+
+**What's the cheapest UK eSIM right now?**
+Roami's 1 GB / 7-day plan starts under $2 with code `web20`. For long stays, Lebara's 20 GB / 30-day plan at £10 includes a +44 number and is hard to beat per gigabyte.
+
+**Can I buy a UK eSIM that works in Europe too?**
+Yes — buy a regional Europe plan that explicitly lists the UK. Post-Brexit, verify the UK is in the coverage list; a UK-only plan won't roam the EU for free.
+
 **Will my plan work on the London Underground?**
-Historically, the Tube has had zero cellular signal deep underground. However, as of 2025/2026, 4G and 5G coverage is rapidly expanding across the Jubilee, Central, and Northern lines. For stations without cellular service, most offer Wi‑Fi. Vodafone has exclusive Wi‑Fi calling on some Tube lines.
+4G/5G is rolling out across the Jubilee, Central, and Northern lines through 2025–2026. In stations without signal, most offer Wi-Fi; Vodafone has exclusive Wi-Fi calling on some lines (postpaid only).
 
 **Can I use my plan as a personal hotspot?**
-Yes. The vast majority of travel plans support Personal Hotspot. Check your plan's terms to be sure – some budget plans restrict it.
-
-**Does a travel plan include a UK phone number?**
-No. Travel plans are data‑only. You can still use WhatsApp, FaceTime, iMessage, and Skype seamlessly. If you absolutely need SMS verification from a UK bank, buy a local plan with a +44 number.
+On most plans, yes. A few budget or "unlimited" plans restrict tethering — check the terms before you buy if you plan to share data.
 
 **What if I run out of data?**
-You can top up online. Log into the website or app where you bought the plan, buy an add‑on, and the data is credited automatically – no need to scan a new QR code.
+Top up online from the provider's site or app; the extra data is credited automatically, no new QR code needed.
 
 **Can I transfer my plan to a new phone?**
-Most travel plans are one‑time install and cannot be transferred. For postpaid carrier plans (EE, Vodafone), contact your carrier. For detailed steps on transferring between devices, see our **[eSIM Cross‑Platform Transfer 2026 guide](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
+Most travel eSIMs are one-time installs and can't be moved. For carrier plans, contact the carrier — full steps are in our [eSIM transfer guide](/faq/how-to-transfer-esim-between-iphone-and-android/).
 
-**Why does my plan show "No Service" after landing in the UK?**
-Most commonly, Data Roaming is not turned ON, or your phone is still using your home SIM for data. Double‑check both settings. Also ensure your phone is set to automatically select the network.
+**Does my China-market phone work with a UK eSIM?**
+Usually not — mainland China iPhones and many Android models omit eSIM hardware. Dial `*#06#`; no EID means no eSIM.
 
-**Can I use a UK plan in other European countries?**
-Only if your plan includes EU roaming. Travel plans like Roami often include EU roaming, while local UK plans (EE, O2, Vodafone) typically charge £2/day for EU usage. Check your plan's terms before travelling.
+**How do I get a refund if it doesn't work?**
+Contact the provider's support with your order number and a description of the issue; most reputable providers refund if the problem is on their side within a short window.
 
-**What's the cheapest option available?**
-Prices vary, but Roami's 5GB/7‑day plan starts under $7 with a free trial available. For longer stays, Lebara UK offers 20GB/30 days for £10. Always compare total cost including any activation fees.
+**Do I pay VAT or hidden fees on a UK eSIM?**
+Reputable travel providers include all taxes in the listed price — what you see at checkout is what you pay. Watch for "activation fees" or "connection fees" added at the last step; those are the mark of a provider to avoid. Direct UK carrier plans include VAT in the advertised price.
 
-**Why is my plan showing "Activating" for more than 10 minutes?**
-The carrier's activation server may be busy, or your Wi‑Fi is unstable. Wait up to 15 minutes. If still stuck, toggle Airplane Mode on and off. If that doesn't work, restart your phone and try scanning the QR code again.
+**Can I pay in US dollars or my home currency?**
+Yes. Travel providers (Roami, Airalo, Holafly, Nomad) let you pay in USD, EUR, and other major currencies, with Apple Pay, Google Pay, and cards. Your card issuer may add a small foreign-transaction fee if you buy from a UK carrier in GBP — check your card's policy.
 
-**Can I use a UK plan with a phone bought in China?**
-Most iPhones and Android phones bought in mainland China do NOT support digital SIMs due to local regulations requiring dual physical SIM support. Check with `*#06#` – if no EID appears, your phone cannot use any digital plan.
+**Is Giffgaff a good eSIM option?**
+For flexible pay-as-you-go, yes. Giffgaff runs on O2's network (great indoor signal) and sells "goodybag" bundles from £6 with a real +44 number and no contract. It's a solid middle ground between a data-only travel eSIM and a full EE/O2 contract — ideal for medium stays where you want a number but not a commitment.
 
-**How far in advance should I buy?**
-Buy 1‑2 weeks before your trip. QR codes typically expire in 30‑90 days, so don't buy more than 90 days in advance. Buying too early risks an expired code; buying too late risks not having stable Wi‑Fi to install before departure.
+**Should I buy from Roami or directly from EE?**
+They solve different problems. Roami (and similar travel providers) sell instant data-only eSIMs with no ID, no UK address, and multi-network coverage — best for trips under a month. EE direct gives you a +44 number and the fastest UK 5G, but you'll register with a UK address and passport and pay more per gigabyte. Most short-stay travellers start with a travel eSIM; long-stay residents graduate to EE/O2/Lebara. This decision is covered in full in our [eSIM vs physical SIM guide](/faq/2026-uk-travel-connectivity-esim-vs-physical-sim-guide/).
 
-**Do I need a UK address to buy a travel plan?**
-No. Travel plans (Roami, Airalo, Holafly) require no UK address, no ID, and no credit check. Only local carrier plans (EE, O2, Vodafone) require UK address and ID.
+**Can I buy a UK eSIM for someone else?**
+Yes. With travel providers you just buy a plan and forward the QR email to the recipient — the plan activates on whichever phone installs the code first. With UK carriers, the ID check ties the plan to the named person, so the buyer usually needs to register in the traveller's name.
 
-👉 **Ready to pick a plan?** Compare [UK eSIM plans](/united-kingdom-esim/) or grab a [Europe eSIM](/europe-esim/) if your trip continues into the EU. For a provider-by-provider breakdown, read our [UK eSIM buying guide](/blog/buy-uk-esim-guide/).
 
-Still unsure about compatibility or want to test before buying? Try a **[free trial eSIM](/free-esim/)** first – it takes 2 minutes and confirms your phone is ready.
+## Ready to Buy?
+
+You now know the prices, the networks, the data math, and the exact steps. Here's the quickest way to act:
+
+👉 **Compare and buy a [UK eSIM plan](/united-kingdom-esim/)**, or grab a [Europe eSIM](/europe-esim/) if your trip continues into the EU.
+
+👉 **Still deciding eSIM vs physical SIM?** See our [UK eSIM vs physical SIM guide](/faq/2026-uk-travel-connectivity-esim-vs-physical-sim-guide/).
+
+👉 **Test before you commit** with a [free trial eSIM](/free-esim/).
 
 ---
 

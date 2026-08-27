@@ -5,7 +5,7 @@ description: "Check iPhone eSIM compatibility (EID method) and setup steps. Cove
 image: "/img/esim/esim-travel.jpg"
 keywords: ["iphone esim", "esim iphone", "which iphones support esim", "iphone esim compatible", "does iphone 11 have esim", "iphone esim only", "iphone dual esim", "first iphone with esim", "iphones with esim", "iphone esim setup", "iphone 16e esim", "iphone 17 esim", "how to transfer esim to new iphone"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-23T00:00:00Z
+lastmod: 2026-08-26T00:00:00Z
 tags: ["iPhone", "eSIM", "Dual SIM", "Activation", "Compatibility"]
 toc: true
 
@@ -219,13 +219,13 @@ Go to **Settings > Cellular > Add Cellular Plan**. If the option is visible and 
 These models predate eSIM hardware entirely. If you own an **iPhone 8 or iPhone X**, you cannot use eSIM – physical SIM only. The same applies to the **iPhone 7 and earlier**.
 
 ### iPhone XR, XS, XS Max (2018)
-The **iPhone XR, XS, and XS Max** are the first iPhones with eSIM support. All three models work with one physical SIM and one eSIM simultaneously (dual SIM dual standby). They do not support 5G.
+The **iPhone XR, XS, and XS Max** are the first iPhones with eSIM support. All three models work with one physical SIM and one eSIM simultaneously (dual SIM dual standby). They do not support 5G. For the XR's exact model numbers (A2105–A2109) and a used‑buying checklist, see our dedicated **[iPhone XR eSIM guide](/faq/iphone-xr-esim-compatible/)**.
 
 ### iPhone 11, 11 Pro, 11 Pro Max (2019)
 **iPhone 11 series** (including the Pro and Pro Max) supports eSIM globally. However, mainland China versions have dual physical SIM slots and no eSIM. If you have a global **iPhone 11**, you can use eSIM for 4G LTE data.
 
 ### iPhone SE (2nd gen 2020, 3rd gen 2022)
-Both generations of the **iPhone SE** support eSIM. They are excellent budget options for eSIM users, offering the same eSIM functionality as the flagship models at a lower price.
+Both generations of the **iPhone SE** support eSIM. They are excellent budget options for eSIM users, offering the same eSIM functionality as the flagship models at a lower price. For the SE's generation‑by‑generation breakdown, model numbers, and carrier‑unlock policies, see our dedicated **[iPhone SE eSIM guide](/faq/iphone-se-esim-compatible/)**.
 
 ### iPhone 12 series (2020)
 The **iPhone 12, 12 mini, 12 Pro, and 12 Pro Max** all support eSIM. They were the first iPhones to offer 5G connectivity on eSIM. Dual SIM works as one physical SIM + one eSIM.
@@ -251,45 +251,9 @@ The **iPhone 16e** is Apple's new budget model, positioned below the main iPhone
 
 ## How to Activate eSIM on iPhone (Step by Step)
 
-For complete activation details on all iPhone models, see our **[iPhone eSIM activation guide](/faq/how-to-activate-esim-on-iphone/)**.
+Once you've confirmed your iPhone is compatible (an EID shows under `*#06#`) and carrier‑unlocked, activation itself takes about two minutes. In short: buy a plan — a [Roami free trial eSIM](/free-esim/) is the fastest way to test — then, on Wi‑Fi, go to **Settings > Cellular > Add Cellular Plan** and scan the QR code. Turn on **Data Roaming** for that plan after you land.
 
-### Activating a Travel eSIM (Most Common)
-1. Buy a travel eSIM plan – e.g., a [Roami free trial eSIM](/free-esim/).
-2. Before you travel (on Wi‑Fi), go to **Settings > Cellular > Add Cellular Plan**.
-3. Scan the QR code or enter the activation code manually.
-4. Label your plan (e.g., "Japan May").
-5. Choose your default line for voice, data, and iMessage.
-6. At your destination, go to **Settings > Cellular > [your eSIM plan]** and turn **Data Roaming** ON.
-
-**Choosing a plan for your iPhone:** when you search for **eSIM plans for iPhone**, you'll find two broad kinds. *Data‑only* plans (what most travel eSIMs are) are the cheapest option if you only need internet abroad. If you want a phone number too, look for a **global SIM card for iPhone** – a full service that includes calls and SMS as well as data. Either one installs the same way as any other **eSIM card for iPhone**: scan the QR code or tap the carrier's install link. For most short trips, the data‑only plan is the better value.
-
-**iOS 18 tip:** If you're on iOS 18, the "Add Cellular Plan" interface has been redesigned with a more prominent QR scanner and a smoother activation flow. You'll see a progress indicator during the profile download.
-
-### Activating a Carrier eSIM (e.g., Verizon, T‑Mobile, AT&T, Jio)
-
-| Carrier | Activation Method |
-| :--- | :--- |
-| **Verizon** | My Verizon app → Account → Devices → Activate eSIM |
-| **T‑Mobile** | T‑Mobile app → Account → Line Details → Switch to eSIM |
-| **AT&T** | AT&T app → Account → Wireless → Manage Device → Get new eSIM |
-| **Google Fi** | Fi app → Manage plan → Get new eSIM |
-| **Jio (India)** | Visit a Jio store for in‑person verification and QR code |
-| **Airtel (India)** | Airtel app → Request eSIM → Scan QR code |
-| **O2 (UK)** | My O2 app → Device settings → Get eSIM |
-| **EE (UK)** | EE app → Manage device → eSIM |
-| **Vodafone (global)** | Vodafone app → Account → eSIM → Get QR code |
-
-> Your iPhone must be **carrier‑unlocked** to use a different carrier's eSIM. Check Settings > General > About > Carrier Lock – it must say "No SIM restrictions."
-
-### Activation Stuck? Quick Fixes
-
-| Symptom | Quick Fix |
-| :--- | :--- |
-| **QR code not scanning** | Tap "Enter Details Manually" – input SM‑DP+ address and activation code from your email |
-| **Stuck on "Activating…" for >5 min** | Toggle Airplane Mode on/off – restart the network stack |
-| **"Cellular Plan Cannot Be Added"** | Delete unused eSIM profiles (Settings > Cellular) – too many stored profiles |
-| **QR code says "Invalid" or "Expired"** | Request a new QR code from your provider – codes expire in 30‑90 days |
-| **"Unable to Activate eSIM"** | Switch Wi‑Fi networks – unstable Wi‑Fi causes activation failures |
+For the complete, step‑by‑step walkthrough — including the iOS 18 redesigned flow, Quick Transfer, and re‑registering iMessage/FaceTime — see our **[iPhone eSIM activation guide](/faq/how-to-activate-esim-on-iphone/)**. For carrier‑specific activation methods (Verizon, T‑Mobile, AT&T, and international providers), see our **[carrier compatibility list](/compatibility/)**.
 
 
 ## How Many eSIM Profiles Can an iPhone Store?
@@ -339,20 +303,9 @@ All iPhones from XR through 13 (global) and global 14–17 support **one physica
 - Set Japan eSIM as **Default Data Line** and turn on **Data Roaming** for that line.
 
 
-## eSIM vs Physical SIM – Which Is Better on iPhone?
+## eSIM vs Physical SIM – Quick Take
 
-| Feature | eSIM | Physical SIM |
-| :--- | :--- | :--- |
-| **Switching carriers** | Instant – scan QR code | Need to swap physical card |
-| **Travel** | Buy local plan before arrival | Buy physical SIM at airport |
-| **Security** | Can't be physically stolen | Can be removed/stolen |
-| **Dual SIM** | Two eSIMs active (iPhone 13+) | One physical + one eSIM |
-| **Lost phone** | Carrier can disable remotely | Anyone can remove and use SIM |
-| **Activation time** | 2‑5 minutes | 5‑10 minutes + store visit |
-| **Device compatibility** | Requires eSIM‑compatible iPhone | Works on all phones |
-| **Carrier lock** | Can be locked to one carrier | Can be locked to one carrier |
-
-**Verdict:** eSIM is more convenient and secure for travel and daily use. Physical SIM is only better if you frequently swap between incompatible devices or need a backup when traveling to regions with limited eSIM support (like China).
+The short version: eSIM swaps carriers instantly and can't be physically stolen; a physical SIM works on every phone and doubles as a backup in regions with limited eSIM support. For a full feature‑by‑feature comparison, see our **[What is eSIM? guide](/faq/what-is-esim/)**.
 
 
 ## Regional Differences: China, Hong Kong, US, and Global – iPhone eSIM Variants
@@ -400,29 +353,9 @@ You cannot insert a physical SIM as a backup. Your options:
 - Keep a backup eSIM QR code in your email.
 - Carry a secondary device (old phone) with a physical SIM slot as backup.
 
-### How to Transfer eSIM from Old iPhone to New iPhone
+### Transferring eSIM to a New iPhone
 
-**Method 1: Quick Transfer (iOS 16+)**
-1. During new iPhone setup, choose **"Transfer eSIM from nearby iPhone"**.
-2. Keep both phones close, connected to Wi‑Fi, and signed into the same Apple ID.
-3. Follow the on‑screen prompts – the eSIM transfers automatically.
-
-**Method 2: Carrier App Transfer**
-1. On the new iPhone, download your carrier's app.
-2. Log in and look for "Activate eSIM" or "Transfer eSIM".
-3. Follow the carrier‑specific flow.
-
-**Method 3: Delete and Re‑install (Last Resort)**
-1. On the old phone: Settings > Cellular > tap the eSIM > Remove Cellular Plan.
-2. On the new phone: Settings > Cellular > Add Cellular Plan > scan the original QR code (or use carrier app).
-3. ⚠️ Warning: Travel eSIMs usually cannot be re‑installed – contact your provider first.
-
-**Method 4: Physical SIM Conversion (If You Have a Physical SIM)**
-1. On the new phone: Settings > Cellular > Add Cellular Plan > **"Convert from physical SIM"**.
-2. Follow the prompts – this converts your physical SIM to an eSIM on the new device.
-3. The physical SIM becomes inactive after conversion.
-
-> 💡 **Pro Tip:** Always keep your original eSIM QR code or activation email in a safe place (cloud storage, password manager). If anything goes wrong during transfer, you'll have a backup.
+Moving an eSIM to a new iPhone usually happens automatically via Quick Transfer during setup (iOS 16+), or through your carrier's app. Travel eSIMs are often one‑time installs, so keep your original QR code. Full methods — including physical‑SIM conversion and the delete‑and‑reinstall fallback — are covered in our **[eSIM transfer guide](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 
 ## Buying a Used iPhone for eSIM Travel
@@ -517,9 +450,6 @@ Yes, but you cannot use a Chinese local carrier's eSIM (they don't offer eSIM to
 **What is the first iPhone with eSIM?**
 The iPhone XR, XS, and XS Max (released September 2018) are the first iPhones to support eSIM. If you have an iPhone 8 or iPhone X, you cannot use eSIM.
 
-**How do I transfer my eSIM from an old iPhone to a new one?**
-During setup of your new iPhone, look for the option **"Transfer eSIM from nearby iPhone"**. Keep both phones close. If that doesn't work, delete the eSIM from the old device (after confirming it's backed up) and re‑install using the original QR code or carrier app. See the detailed transfer section above.
-
 **Why does my iPhone say "Cellular Plan Cannot Be Added"?**
 You may have too many stored eSIM profiles (iPhones can store around 8). Go to **Settings > Cellular**, delete any unused plans, restart your phone, and try again. Also ensure the QR code hasn't expired.
 
@@ -532,17 +462,11 @@ iPhone can store **up to 8 eSIM profiles**, but only one or two can be active at
 **What happens to my eSIM if I reset my iPhone?**
 If you erase all content and settings without removing eSIM first, the profile becomes orphaned. Always remove eSIM profiles before resetting (Settings > Cellular > Remove Cellular Plan).
 
-**Can I convert my physical SIM to eSIM on iPhone?**
-Yes – on iPhone 13 and newer, go to Settings > Cellular > Add Cellular Plan > **"Convert from physical SIM"**. This transfers your physical SIM to an eSIM on the same device. The physical SIM becomes inactive after conversion.
-
 **Does the iPhone 8 support eSIM?**
 No – the iPhone 8, 8 Plus, and iPhone X do not have eSIM hardware. They use physical SIM only.
 
 **What's the cheapest iPhone with eSIM?**
-The iPhone XR (used) is the cheapest eSIM‑capable iPhone at around $100–150. The iPhone SE (3rd gen) is the cheapest new eSIM iPhone.
-
-**How do I check if my iPhone is carrier‑locked?**
-Settings > General > About > Carrier Lock. If it says "No SIM restrictions", your iPhone is unlocked and can use any eSIM. If it says "SIM locked", contact your carrier for an unlock.
+The iPhone XR (used) is the cheapest eSIM‑capable iPhone at around $100–150. The iPhone SE (3rd gen) is the cheapest new eSIM iPhone. See our [iPhone XR eSIM guide](/faq/iphone-xr-esim-compatible/) and [iPhone SE eSIM guide](/faq/iphone-se-esim-compatible/) for the full breakdown.
 
 **What's the difference between iPhone 13 dual eSIM and iPhone 12 dual SIM?**
 iPhone 12 supports one physical SIM + one eSIM. iPhone 13 supports two active eSIMs (no physical SIM needed) OR one physical SIM + one eSIM. This makes iPhone 13 the first model with true dual eSIM capability.

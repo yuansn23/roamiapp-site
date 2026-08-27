@@ -5,7 +5,7 @@ description: "Fix eSIM activation failures, transfer errors, no service, and QR 
 image: "/img/esim/esim-troubleshooting-guide.jpg"
 keywords: ["eSIM troubleshooting", "eSIM activation failed", "eSIM no service", "eSIM transfer error", "eSIM cross-platform transfer", "iOS 18 eSIM", "eSIM APN settings", "eSIM confirmation code", "eSIM carrier lock", "eSIM stuck on activating"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-23T00:00:00Z
+lastmod: 2026-08-26T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
 
@@ -99,11 +99,13 @@ sidebar_questions:
 ---
 
 
-> **Editor's Note:** Roami is the brand behind this guide. We've diagnosed and resolved thousands of eSIM issues across 40+ countries and every major device brand. This guide is based on real-world troubleshooting — not theory. If you've tried the quick fixes and still have problems, this is where you find the real solution.
+> **Editor's Note:** Roami runs the support desk behind this reference. When a traveler hits a specific on-screen error — "Activation failed," "No Service," "Cellular Plan Cannot Be Added," restore error 4013/4014 — this is the page our own team opens to decode it. Every entry below maps one exact error message to its real cause and a concrete fix, tested across iOS 18 and Android 14/15 as of August 2026.
 
-## Quick Diagnostic Flow – Find Your Problem in 10 Seconds
+> **Wrong page?** If your question is "does my phone even support eSIM" — China/Hong Kong model, carrier lock, missing EID — that's a hardware question, not an error. Head to our [eSIM compatibility error guide](/faq/esim-activation-errors-troubleshooting-guide/) instead. This page assumes your phone can use eSIM and the problem is a specific error message.
 
-Use this decision map to immediately jump to the right fix. No need to read everything.
+## Quick Diagnostic Flow – Find Your Error in 10 Seconds
+
+Use this decision map to jump straight to the fix for the exact message on your screen.
 
 | What you see / experience | What's likely broken | Urgency | Jump to fix |
 |---------------------------|----------------------|---------|-------------|
@@ -164,7 +166,7 @@ Use this decision map to immediately jump to the right fix. No need to read ever
 2. Toggle Airplane Mode on and off to refresh the baseband.
 3. If the error repeats, delete the pending eSIM under `Settings > Cellular`, restart, and scan the QR code again.
 
-**iOS 18 specific:** If you're on iOS 18, the error message may appear as "Unable to Complete Activation" with a Retry button. Tap Retry first — iOS 18's improved activation flow often resolves the issue without a full reinstall.
+**iOS 18 specific:** On iOS 18 the message may read "Unable to Complete Activation" with a Retry button. Tap Retry first — iOS 18's improved activation flow often resolves the issue without a full reinstall.
 
 ---
 
@@ -204,7 +206,7 @@ Use this decision map to immediately jump to the right fix. No need to read ever
 
 **Cause:** The phone has reached its limit of stored eSIM profiles (typically 8–10, depending on the model), or the device is a mainland-China model without eSIM hardware.
 
-**Fix:** Remove unused eSIMs under `Settings > Cellular`, then add the new one. If your device was bought in mainland China, it uses two physical SIM slots and cannot add an eSIM.
+**Fix:** Remove unused eSIMs under `Settings > Cellular`, then add the new one. If your device was bought in mainland China, it uses two physical SIM slots and cannot add an eSIM — for how to identify a China or Hong Kong model and confirm your phone has the hardware, see our [eSIM compatibility error guide](/faq/esim-activation-errors-troubleshooting-guide/).
 
 ---
 
@@ -225,7 +227,7 @@ Use this decision map to immediately jump to the right fix. No need to read ever
 
 **Cause:** The phone is locked to another carrier and cannot accept a profile from a different provider.
 
-**Fix:** Check `Settings > General > About > Carrier Lock`. If it does not say "No SIM restrictions", contact your home carrier to request an unlock.
+**Fix:** Check `Settings > General > About > Carrier Lock`. If it does not say "No SIM restrictions", contact your home carrier to request an unlock. For a full walkthrough of carrier locks — how to check status, US carrier unlock policies, and how to get the device unlocked — see our [hardware & compatibility guide](/faq/esim-activation-errors-troubleshooting-guide/).
 
 ---
 
@@ -385,20 +387,31 @@ Use this decision map to immediately jump to the right fix. No need to read ever
 
 **Symptom:** You've set up cellular on your Apple Watch, but it shows "No Service" or "Searching" — or the eSIM plan isn't appearing in the Watch app at all.
 
-**Cause:** Apple Watch eSIM activation requires carrier support for the watch's specific plan type. Not all carriers support Apple Watch eSIM, and the setup process requires your iPhone to be nearby with a stable internet connection.
+**Cause:** Apple Watch eSIM activation requires carrier support for the watch's specific plan type, and setup requires your iPhone to be nearby with a stable internet connection.
 
-**Fix:**
-1. **Check carrier support:** Ensure your carrier specifically supports Apple Watch eSIM — not all carriers do. Check your carrier's website or call them.
-2. **Re-pair the watch:** Unpair your Apple Watch from your iPhone (this backs up the watch), then re-pair it. During setup, you'll be prompted to set up cellular again.
-3. **Check iPhone proximity:** Keep your iPhone nearby with a stable Wi-Fi or cellular connection during the entire setup process.
-4. **Restart both devices:** Restart your iPhone and Apple Watch, then try again.
-5. **Contact carrier:** If the eSIM still doesn't activate, contact your carrier and provide them with the watch's **EID** and **IMEI** — they may need to provision the eSIM manually from their side.
-
-**Apple Watch-specific limitations:**
-- Only one line can be active on the watch at a time — you cannot use both iPhone lines on the watch.
-- The watch mirrors the line you select during setup. To change it, you'll need to unpair and re-pair the watch.
+**Fix:** Check that your carrier supports Apple Watch eSIM, then unpair and re-pair the watch, keeping your iPhone nearby throughout. If it still won't activate, contact your carrier with the watch's **EID** and **IMEI** so they can provision it manually. For a full walkthrough — including which iPad and Apple Watch models support eSIM — see our [iPad and Apple Watch eSIM guide](/faq/ipad-apple-watch-esim-support-guide/).
 
 ---
+
+## Error Code Reference – What Do These Numbers Mean?
+
+| Error Code | Platform | Meaning | Fix |
+|------------|----------|---------|-----|
+| **4013** | iPhone (restore) | Hardware/firmware failure during restore | Change cable, USB port, update macOS/iTunes |
+| **4014** | iPhone (restore) | Similar to 4013; usually a USB communication issue | Same as above |
+| **-8** | Android (activation) | Network timeout | Wait and retry, or switch Wi‑Fi |
+| **-100** | Android (QR scan) | QR code format unsupported | Use manual entry |
+| **0xE8000001** | iPhone (activation) | Carrier server unreachable | Retry after 5 minutes or use manual entry |
+| **"eSIM configuration not supported"** | Android (Samsung) | Carrier does not support eSIM on that model | Check with carrier |
+| **"Invalid SM‑DP+ address"** | Both | Manual entry address is wrong | Double‑check the address from your provider |
+| **"LPA error -1"** | Android | Generic LPA (Local Profile Assistant) error | Restart phone, retry. If persists, use a different eSIM app. |
+| **"EID mismatch"** | Both | The profile is tied to a different device | Contact carrier to release the profile (Section 4) |
+| **"No EID" when dialing `*#06#`** | Both | Device doesn't support eSIM | Your phone lacks eSIM hardware — see our [compatibility guide](/faq/esim-activation-errors-troubleshooting-guide/) |
+| **"eSIM management not available"** | Android (OnePlus) | Oxygen OS bug | Update to latest Oxygen OS version |
+| **"Profile cannot be deleted"** | iPhone | eSIM stuck in pending state | Restart iPhone, then try deleting again. If stuck, contact carrier. |
+| **-1** | Both | Generic activation failure | Restart phone, ensure network connectivity, try again |
+| **-2** | Android | Invalid activation code | Re-enter the code or request a new one from carrier |
+
 
 ## 7 Deadly Mistakes That Break Your eSIM – And How to Avoid Them
 
@@ -430,12 +443,12 @@ Sometimes you don't have just one issue — you have two or three at once. Here'
 **General rule:** Fix **network issues first** (Wi-Fi, Data Roaming, APN), then **profile issues** (QR code, activation), then **device-specific issues** (carrier lock, MDM). Don't try to fix everything at once — work through the symptoms one at a time.
 
 
-## Device‑Specific Quirks – iPhone vs. Samsung vs. Pixel
+## Device‑Specific Menu Paths – Where "Add eSIM" Lives on Each Phone
 
-Not all phones behave the same way. Here are common device‑specific issues.
+The fix for most errors is the same, but the menu path to reach the eSIM controls varies by brand. Here are the exact paths plus the error quirks that only show up on specific devices.
 
 ### iPhone (iOS 16–18)
-- **"Add eSIM" grayed out** – your iPhone may be carrier‑locked. Check Settings > General > About > Carrier Lock.
+- **"Add eSIM" grayed out** – your iPhone may be carrier‑locked. Check Settings > General > About > Carrier Lock; for the full carrier-lock fix, see our [compatibility guide](/faq/esim-activation-errors-troubleshooting-guide/).
 - **Quick Transfer fails** – make sure both phones are on the same Apple ID, have Bluetooth on, and are within 10cm of each other.
 - **After iOS update, eSIM shows "No Service"** – go to Settings > Cellular > tap the eSIM > toggle "Turn On This Line" off and back on. Also check that Data Roaming is still ON.
 - **eSIM disappeared after iOS update** – see Section 17. This is more common on iOS than Android after major updates.
@@ -448,7 +461,6 @@ Not all phones behave the same way. Here are common device‑specific issues.
   - **One UI 7 (Android 15):** Settings > Connections > SIM Manager > Add Mobile Plan
 - **QR code scan fails** – try manual entry (tap "Enter activation code manually"). Samsung often requires the SM‑DP+ address and activation code separately.
 - **Dual SIM conflict** – if you have a physical SIM and eSIM, check that the eSIM is set as the data SIM in SIM Manager.
-- **"eSIM not supported" on Samsung A-series** – A-series phones (A23, A33, A53, etc.) do not support eSIM in all regions. Check your specific model before buying a travel eSIM.
 
 ### Google Pixel (Android 13/14/15)
 - **"Download a SIM instead?"** – this option appears at the bottom of the SIM settings screen. If you don't see it, your Pixel may be carrier‑locked.
@@ -466,78 +478,12 @@ Not all phones behave the same way. Here are common device‑specific issues.
 
 ### Xiaomi (MIUI/HyperOS)
 - **Menu path:** Settings > SIM Cards & Mobile Networks > Add eSIM
-- **Common issue:** Xiaomi phones sold in China lack eSIM hardware. If bought in China, eSIM will not work.
 - **APN settings:** Located under Settings > SIM Cards & Mobile Networks > [eSIM] > Access Point Names.
 
 ### Oppo/Realme (ColorOS)
 - **Menu path:** Settings > Mobile Network > Add eSIM
-- **Common issue:** Some ColorOS versions hide the eSIM option if the device is carrier-locked.
 
-### Huawei (HarmonyOS)
-- **eSIM support:** Limited to specific models (P40, Mate 40, and newer). Many Huawei phones sold after 2020 do not support eSIM due to US sanctions.
-- **Check:** Go to Settings > Mobile Network > eSIM. If the option is missing, eSIM is not supported.
-
-
-## Special Regional Cases – China, Hong Kong, Macau
-
-### Mainland China
-- **All iPhones sold in China** (except iPhone 16 series) have dual physical SIM and no eSIM.
-- **Chinese Android phones** (Xiaomi, Oppo, Vivo, Huawei) sold in China typically also lack eSIM hardware.
-- **If you have an international phone in China:** It will work with international travel eSIMs, but local Chinese carriers do not offer eSIM to tourists.
-
-### Hong Kong
-- **iPhone models:** Hong Kong iPhones usually support **eSIM + physical SIM** (one of each) OR dual physical SIM depending on the model. Check your specific model.
-- **Some Hong Kong carriers** (CMHK, 1010, Smartone) offer eSIM to postpaid customers, but prepaid eSIM is rare.
-- **Travelers:** An international travel eSIM is easier and more reliable than trying to get a local Hong Kong eSIM.
-
-### Macau
-- **Similar to Hong Kong:** Most Macau iPhones are imported from Hong Kong and support eSIM + physical SIM.
-- **CTM** (Macau's main carrier) offers eSIM to postpaid customers but not to tourists.
-
-
-## Carrier‑Specific Issues (US, UK, EU)
-
-### AT&T (US)
-- **Prepaid eSIM** – AT&T prepaid does not support eSIM on all plans. Postpaid is required. If you have prepaid, consider a travel eSIM instead.
-- **Unlock policy** – AT&T requires the device to be fully paid off and active for 60 days before unlocking. Contact them to unlock.
-
-### Verizon (US)
-- **eSIM activation** – Verizon supports eSIM on most postpaid and prepaid plans. Use the Verizon app for the easiest setup.
-- **Device compatibility** – some Verizon‑branded Android phones have eSIM disabled at the software level even if the hardware supports it. You may need to flash the unlocked firmware.
-
-### T‑Mobile (US)
-- **eSIM transfer** – T‑Mobile allows eSIM transfer via the T‑Mobile app under "SIM card" settings.
-- **Prepaid eSIM** – T‑Mobile prepaid supports eSIM on most plans. You can activate online.
-
-### EE, O2, Vodafone, Three (UK)
-- **EE** – offers prepaid eSIM via the EE app. Requires a UK address for prepaid.
-- **O2** – prepaid eSIM available through the O2 app. Works well indoors.
-- **Vodafone** – prepaid eSIM is not available; only postpaid contracts.
-- **Three** – prepaid eSIM available but limited to city coverage.
-
-### Orange, Vodafone, etc. (Europe)
-- **EU roaming** – local eSIMs often include EU roaming by law, but check the fine print for FUP (Fair Usage Policy) limits.
-- **ID requirements** – many European carriers require a local address and ID to issue a postpaid eSIM. Travel eSIMs are easier for short visits.
-
-
-## Error Code Reference – What Do These Numbers Mean?
-
-| Error Code | Platform | Meaning | Fix |
-|------------|----------|---------|-----|
-| **4013** | iPhone (restore) | Hardware/firmware failure during restore | Change cable, USB port, update macOS/iTunes |
-| **4014** | iPhone (restore) | Similar to 4013; usually a USB communication issue | Same as above |
-| **-8** | Android (activation) | Network timeout | Wait and retry, or switch Wi‑Fi |
-| **-100** | Android (QR scan) | QR code format unsupported | Use manual entry |
-| **0xE8000001** | iPhone (activation) | Carrier server unreachable | Retry after 5 minutes or use manual entry |
-| **"eSIM configuration not supported"** | Android (Samsung) | Carrier does not support eSIM on that model | Check with carrier |
-| **"Invalid SM‑DP+ address"** | Both | Manual entry address is wrong | Double‑check the address from your provider |
-| **"LPA error -1"** | Android | Generic LPA (Local Profile Assistant) error | Restart phone, retry. If persists, use a different eSIM app. |
-| **"EID mismatch"** | Both | The profile is tied to a different device | Contact carrier to release the profile (Section 4) |
-| **"No EID" when dialing `*#06#`** | Both | Device doesn't support eSIM | Your phone lacks eSIM hardware — use physical SIM |
-| **"eSIM management not available"** | Android (OnePlus) | Oxygen OS bug | Update to latest Oxygen OS version |
-| **"Profile cannot be deleted"** | iPhone | eSIM stuck in pending state | Restart iPhone, then try deleting again. If stuck, contact carrier. |
-| **-1** | Both | Generic activation failure | Restart phone, ensure network connectivity, try again |
-| **-2** | Android | Invalid activation code | Re-enter the code or request a new one from carrier |
+**Not sure whether your exact model has eSIM hardware at all** (China-market Xiaomi, Huawei, carrier-disabled Samsung A-series)? That's a compatibility question — see our [hardware & compatibility guide](/faq/esim-activation-errors-troubleshooting-guide/), which covers model-by-model support.
 
 
 ## Advanced Scenario: eSIM Works at Home but Not Abroad
@@ -586,67 +532,52 @@ If this still doesn't work, contact your provider — your eSIM plan may not act
 | Apple Watch eSIM not connecting | Carrier (for provisioning) or Apple Support (for pairing issues) |
 
 
-## Frequently Asked Questions (Expanded)
+## Frequently Asked Questions
 
-**Q1: How do I know if my phone supports eSIM?**
-Dial `*#06#`. If an **EID** number appears, your phone supports eSIM. If no EID appears, it does not.
-
-**Q2: Will deleting an eSIM cancel my plan?**
+**Q1: Will deleting an eSIM cancel my plan?**
 No. Deleting the eSIM only removes the profile from the phone. You must contact the carrier separately to cancel the plan.
 
-**Q3: Can I recover a deleted eSIM?**
+**Q2: Can I recover a deleted eSIM?**
 For postpaid carrier eSIMs, yes — the carrier can re-issue the profile. For travel eSIMs, deletion is usually permanent and requires a new purchase.
 
-**Q4: Why does my eSIM work on Wi-Fi but not on cellular?**
+**Q3: Why does my eSIM work on Wi-Fi but not on cellular?**
 This is almost always an APN or Data Roaming issue. Follow Section 8 and Section 14.
 
-**Q5: Does an eSIM drain my battery faster?**
+**Q4: Does an eSIM drain my battery faster?**
 No. Running two active lines at once can use slightly more power, but a single eSIM does not drain the battery.
 
-**Q6: How many eSIMs can I store on my phone?**
+**Q5: How many eSIMs can I store on my phone?**
 Typically 8–10 profiles on iPhone and most Android devices. You can store many more but only have two active at a time (dual‑SIM).
 
-**Q7: Why does my eSIM keep losing signal?**
+**Q6: Why does my eSIM keep losing signal?**
 This can be due to network congestion, weak coverage, or a software glitch. Try toggling Airplane Mode, restarting, or manually selecting a network.
 
-**Q8: Can I use an eSIM from one carrier while my physical SIM is from another?**
-Yes – that's the whole point of dual‑SIM. Set the eSIM for data and the physical SIM for calls/SMS.
-
-**Q9: I see "Activation Required" on my eSIM after a restart – what does that mean?**
+**Q7: I see "Activation Required" on my eSIM after a restart – what does that mean?**
 The phone lost the connection to the carrier's activation server. Reboot the phone and ensure you have a network connection. If it persists, delete and re‑install the eSIM.
 
-**Q10: What if my carrier says they don't support eSIM?**
+**Q8: What if my carrier says they don't support eSIM?**
 You can still use travel eSIM providers like Roami, Airalo, or Holafly — they work independently of your home carrier and don't require carrier support.
 
-**Q11: My eSIM transferred to my new iPhone but I can't make calls – only data works.**
+**Q9: My eSIM transferred to my new iPhone but I can't make calls – only data works.**
 Check that the eSIM is set as the Default Voice Line. Also, ensure your carrier supports VoLTE for that line.
 
-**Q12: The QR code scan works but the download takes forever – is that normal?**
+**Q10: The QR code scan works but the download takes forever – is that normal?**
 No. It should take 1–2 minutes. If it takes longer, your Wi‑Fi is too slow. Switch networks or use manual entry.
 
-**Q13: I'm on a Samsung phone and the eSIM option is missing entirely.**
-Samsung sometimes hides the eSIM menu if the device is carrier‑locked or if the firmware is a regional variant that doesn't support eSIM. Check with your carrier and consider flashing the unlocked firmware.
-
-**Q14: My eSIM is active but I can't send or receive SMS.**
+**Q11: My eSIM is active but I can't send or receive SMS.**
 Some travel eSIMs are data‑only and do not support SMS. If you need SMS, buy a plan that explicitly includes a phone number.
 
-**Q15: I accidentally reset my network settings – now my eSIM is gone.**
+**Q12: I accidentally reset my network settings – now my eSIM is gone.**
 Network settings reset does not delete eSIM profiles. Your eSIM should still be there. Go to Settings > Cellular and re‑enable the line. If it's gone, you may have accidentally deleted it — then see Section 15.
 
-**Q16: What's the difference between deleting an eSIM and turning it off?**
+**Q13: What's the difference between deleting an eSIM and turning it off?**
 Turning off an eSIM keeps the profile on the phone but disables the line. You can turn it back on anytime. Deleting an eSIM permanently removes the profile — you cannot recover it without a new QR code. Only delete when the plan is fully expired.
 
-**Q17: Can a VPN interfere with eSIM activation?**
+**Q14: Can a VPN interfere with eSIM activation?**
 Yes — VPNs can interfere with the activation server connection. Turn off your VPN before activating an eSIM.
 
-**Q18: My eSIM plan says "unlimited" but I have no data after using 5GB.**
+**Q15: My eSIM plan says "unlimited" but I have no data after using 5GB.**
 Many "unlimited" plans have a Fair Usage Policy (FUP) that throttles speeds after a certain data threshold. Check your provider's terms — you may need to buy a top-up plan for more high-speed data.
-
-**Q19: I inserted a physical SIM and my eSIM stopped working – what should I do?**
-This is a known carrier-lock issue on some devices. Remove the physical SIM, restart your phone, and the eSIM should reappear. Then contact your carrier to unlock your device. See Section 19 for full details.
-
-**Q20: My Apple Watch eSIM isn't connecting – is this a phone issue or carrier issue?**
-It could be both. First, check that your carrier supports Apple Watch eSIM. Then, unpair and re-pair the watch. If it still doesn't work, contact your carrier and provide them with the watch's EID and IMEI. See Section 20 for the full walkthrough.
 
 👉 **Troubleshooting done?** Pick a [USA eSIM plan](/united-states-esim/) or [Europe eSIM plan](/europe-esim/) to get back online.
 

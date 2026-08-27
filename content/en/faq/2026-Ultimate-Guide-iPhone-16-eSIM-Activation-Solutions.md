@@ -5,7 +5,7 @@ description: "Activate Roami eSIM on iPhone 16 in under 30 seconds. Quick Transf
 image: "/img/esim/esim-travel.jpg"
 keywords: ["iPhone 16 eSIM", "iPhone 16 compatibility", "activate eSIM iPhone 16", "Roami 5G", "eSIM battery life", "eSIM vs physical SIM", "dual eSIM iPhone"]
 date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-23T00:00:00Z
+lastmod: 2026-08-26T00:00:00Z
 tags: ["eSIM", "iOS", "Troubleshooting", "Travel Setup", "iPhone 16"]
 toc: true
 aliases:
@@ -99,340 +99,211 @@ sidebar_questions:
 ---
 
 
-> **Editor's Note:** Roami is the brand behind this guide. We've activated and tested eSIMs on every iPhone 16 model — US, European, and international variants — across 40+ countries. Every step in this guide has been verified on real devices running iOS 18.
+> **Editor's Note:** Roami is the brand behind this guide. We've tested eSIM activation on every iPhone 16 variant — US, European, and international models — across 40+ countries, all running iOS 18.
 
-With the release of the iPhone 16 series, eSIM technology has entered a phase of full adoption. US models completely eliminate the physical SIM tray, while international models fully support dual eSIM active simultaneously. This guide covers compatibility, security, activation, travel, enterprise management, and cross-platform transfer.
+The iPhone 16 is the first iPhone where eSIM isn't just an option — for many buyers it's the only option. US models ship without any physical SIM tray, and the whole lineup supports two active eSIMs at once. This guide is specific to the 16: what changed, what breaks, and how to fix it.
 
-The technology behind eSIM is governed by the [GSMA standard SGP.22](https://www.gsma.com/esim/). The [official Apple support page for eSIM](https://support.apple.com/en-us/108072) provides detailed information on compatible iPhone models.
+For the step-by-step activation menus (the same on iPhone 16 as any other iPhone), see the [iPhone eSIM activation guide](/faq/how-to-activate-esim-on-iphone/). For older iPhone models, start at the [iPhone compatibility hub](/faq/iphone-11-esim-compatible/).
 
-If you plan to use two lines simultaneously – for example, keeping your home number active while using a travel eSIM for data – our **[Dual eSIM Not Working? 12 Fixes for iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** guide covers common configuration issues and solutions.
+## Does the iPhone 16 support eSIM?
 
+Yes — every model in the lineup (iPhone 16, 16 Plus, 16 Pro, 16 Pro Max) supports eSIM. What differs is the physical SIM:
 
-## Quick Decision Flow – Which Section Answers Your Question?
+| Purchase region | Configuration | What it means |
+|---|---|---|
+| US, Canada, Japan, UAE | eSIM only, no tray | Every carrier must be an eSIM |
+| Europe, UK, Southeast Asia, Australia | 1 nano-SIM + eSIM | Hybrid: home SIM + travel eSIM together |
+| Mainland China | Dual nano-SIM, no eSIM | No eSIM hardware at all |
 
-Use this decision map to jump directly to the part that solves your specific issue.
+Traveling to China with a US-model iPhone 16? Local carriers won't sell you an eSIM, so grab a global travel eSIM (like Roami) before departure — it reaches Chinese networks by roaming.
 
-| Your Question | Go To |
-|---------------|-------|
-| **Does iPhone 16 support eSIM?** | [Section 1](#1-does-the-iphone-16-support-esim--compatibility-explained) |
-| **I bought my iPhone in the US / Europe / China – what's different?** | [Section 2](#2-iphone-16-esim-compatibility--global-models-compared) |
-| **How do I activate eSIM on my iPhone 16?** | [Section 4](#4-how-to-activate-esim-on-iphone-16--3-simple-ways) |
-| **Activation is stuck / not working** | [Section 10 FAQ](#10-frequently-asked-questions--troubleshooting-iphone-16-specific) – look for your error |
-| **Can I use two eSIMs at the same time?** | [Section 8](#8-dual-esim-on-iphone-16--how-to-use-two-active-lines) |
-| **How do I move my eSIM from Android to iPhone?** | [Section 9](#9-esim-cross-platform-transfer--iphone-to-android-and-back) |
-| **I'm an IT admin – how do I deploy eSIMs to my team?** | [Section 7](#7-enterprise-deployment--management-for-mdm-admins) |
-| **Is eSIM safer than physical SIM?** | [Section 5](#5-esim-security-advantages-why-more-reliable-than-physical-sim) |
-| **I'm traveling – should I use eSIM or physical SIM?** | [Section 6](#6-esim-vs-physical-sim--which-is-better-for-travel) |
-| **What's new in iOS 18 for eSIM?** | [Section 3](#3-whats-new-in-ios-18-for-esim-management) |
+## Which iPhone 16 models still have a SIM tray?
 
+The shortest possible answer: **the model number decides, not the size or color.** Apple ships three hardware configurations of the iPhone 16 worldwide, and the tray's fate is baked in at the factory. Here's the full map, with the model numbers to look up in Settings > General > About > Model Number.
 
-## 1. Does the iPhone 16 support eSIM? – compatibility explained
+| Configuration | Regions | Model numbers | SIM situation |
+|---|---|---|---|
+| eSIM only | US, Canada, Mexico, Japan, Saudi Arabia, UAE, Puerto Rico, US Virgin Islands, Guam | iPhone 16: A3286, A3287 · Plus: A3290, A3291 · Pro: A3294, A3295 · Pro Max: A3298, A3299 | No physical tray at all — two active eSIMs is the only path |
+| Hybrid (nano-SIM + eSIM) | Europe, UK, Southeast Asia, Australia, most of the world | iPhone 16: A3288 · Plus: A3292 · Pro: A3296 · Pro Max: A3300 | One physical SIM slot plus eSIM, so a home SIM and travel eSIM live together |
+| Dual nano-SIM, no eSIM | Mainland China, Hong Kong, Macau | iPhone 16: A3289 · Plus: A3293 · Pro: A3297 · Pro Max: A3301 | Two physical SIM cards, zero eSIM hardware |
 
-**Direct Answer: Yes** – every model in the iPhone 16 lineup – the standard iPhone 16, iPhone 16 Plus, Pro, and Pro Max – fully supports eSIM technology.
+The nuance that trips people up: **Canada and Japan joined the US in dropping the tray on the 16.** If you bought an iPhone 16 in Toronto or Tokyo and still expect a SIM slot, it isn't there — those are now eSIM-only markets. The A3287/A3291/A3295/A3299 models (Japan) and the US A3286/A3290/A3294/A3298 models are both tray-less.
 
-Since the iPhone 14, Apple has been phasing out physical SIM slots in select markets. With the 16th generation, this digital‑first approach has expanded:
+To confirm yours in ten seconds: dial `*#06#`. An **EID** on screen means eSIM is present. A tray you can pop with a pin means it's the hybrid model. Both a tray *and* no EID means it's the China/HK dual-nano variant — eSIM won't work on it.
 
-- **North America & UAE:** Models are completely SIM‑less (eSIM only).
-- **International markets (EU, UK, Australia):** Most models support **dual eSIM** or a hybrid setup (1 Nano‑SIM + 1 eSIM).
-- **Mainland China:** Models use **dual physical Nano‑SIM** instead of eSIM.
+## Why Apple removed the SIM tray
 
-**Bottom line:** If you bought your iPhone 16 in the US, you have **no physical SIM slot** – eSIM is your only option. If you bought it in Europe or the UK, you have both options. If you bought it in mainland China, you cannot use eSIM at all on that device.
+Dropping the tray, reader, and spring mechanism frees internal space for a larger battery and cuts a potential point of failure. A fully digital line also removes the power overhead of driving a physical SIM reader, and users report 5–10% better battery life on eSIM-only iPhone 16 models. Security improves too: the eSIM lives on a dedicated eUICC chip, so a stolen phone can't have its number swapped out to defeat Find My.
 
-For a complete list of eSIM‑compatible devices across all brands, see our **[full compatibility guide](/compatibility/)**.
+## What's new in iOS 18 for the iPhone 16
 
+- **More reliable Quick Transfer** between iPhones, with clearer progress.
+- **A cleaner dual-eSIM view** that shows which line handles data, voice, and SMS at a glance.
+- **Background carrier updates** — no restart needed.
+- **A redesigned Add eSIM screen** with better low-light guidance and a more obvious manual-entry button.
+- **Battery optimization** for the A18 chip when two eSIMs are active.
 
-## 2. iPhone 16 eSIM compatibility – global models compared
+## Activating eSIM on iPhone 16
 
-To ensure a seamless connection, verify your device configuration based on purchase region:
+The menus are the same as any recent iPhone, so the full walkthrough lives in the [iPhone eSIM activation guide](/faq/how-to-activate-esim-on-iphone/). The iPhone 16 shortcuts that matter most:
 
-| Model Name | Purchase Region | Cellular Configuration | What This Means for You |
-| :--- | :--- | :--- | :--- |
-| **iPhone 16 / Pro / Max** | US, Canada, Japan, UAE | **eSIM only** (no SIM tray) | You must use eSIM for all carriers. Activate instantly after unboxing. No physical SIM card can be inserted. |
-| **iPhone 16 / Pro / Max** | Europe, UK, Southeast Asia, Australia | **1 physical Nano‑SIM + eSIM** | Hybrid mode: Keep your home country number on physical SIM, use eSIM for affordable travel data. Both work simultaneously. |
-| **iPhone 16 / Pro / Max** | Mainland China | **dual physical Nano‑SIM** | Hardware limitation: eSIM is **not available** on these models. You cannot install any eSIM profile, including travel eSIMs. |
+- **Carrier app is fastest** — in Roami, Airalo, or a carrier app, tap "Install to this device" and the profile lands in under 30 seconds.
+- **Quick Transfer** moves your existing eSIM from an old iPhone during setup — no carrier contact needed.
+- **QR or manual entry** still works via Settings > Cellular > Add eSIM.
 
-> **For US model users traveling to China:** You cannot use a local Chinese carrier's eSIM because local carriers require a Chinese ID. Instead, purchase a **global travel eSIM** (like Roami or Airalo) before departure – it connects to Chinese networks via roaming and works on your eSIM‑only iPhone 16.
+## "Unable to Activate" and other iPhone 16 errors
 
+iPhone 16 owners most often hit **"Unable to Activate"** or a stuck **"Activating…"** screen. In order, try:
 
-## 3. What's new in iOS 18 for eSIM management?
+1. Confirm Settings > General > About > Carrier Lock says "No SIM restrictions."
+2. Make sure you're on stable Wi-Fi, not cellular or airport Wi-Fi.
+3. Toggle Airplane Mode for 30 seconds, then off.
+4. If it's still stuck, remove the pending profile and re-scan on a better network.
 
-The iPhone 16 ships with **iOS 18**, which introduces several improvements for eSIM users. Here's what's new and how it affects your **iPhone 16 eSIM setup**:
+Full error-by-error coverage — including APN values for "signal but no data" — is in the [eSIM Deep Troubleshooting Guide](/faq/esim-deep-troubleshooting-guide-2026/).
 
-### New in iOS 18:
-- **Enhanced eSIM Quick Transfer:** iOS 18 improves the reliability of transferring eSIMs between iPhones, with better error handling and progress indicators.
-- **Simplified Dual eSIM Interface:** The Cellular settings page now more clearly shows which line is active for data, voice, and SMS, making it easier to manage **dual eSIM** configurations.
-- **Faster Carrier Profile Updates:** iOS 18 can update carrier settings in the background without requiring a restart, meaning eSIM profiles can be refreshed more quickly.
-- **Improved "Add eSIM" Flow:** The QR code scanning interface now includes better low‑light guidance and a more prominent "Enter Details Manually" option.
-- **eSIM Battery Optimization:** iOS 18 includes optimizations for the A18 chip that reduce battery drain when two eSIMs are active simultaneously.
+## "Unable to Activate" on iPhone 16: the full fix ladder
 
-### What hasn't changed:
-- Cross‑platform transfer (iPhone ↔ Android) still requires a new QR code from your carrier.
-- China models still lack eSIM hardware.
-- Carrier lock restrictions still apply.
+The four steps above solve most cases. When they don't, keep climbing — here's the complete ladder our support team actually works through.
 
+1. **Carrier Lock check** — Settings > General > About > Carrier Lock must say "No SIM restrictions."
+2. **Stable Wi-Fi** — move off cellular, airport, and hotel Wi-Fi; use home or office.
+3. **Airplane Mode 30 seconds**, then off.
+4. **Remove the pending profile and re-scan** — only the stuck, non-active profile.
+5. **Check for a duplicate profile** — Settings > Cellular and look for the same plan listed twice. Two half-installed copies fight each other; delete the older one.
+6. **Install a carrier settings update** — Settings > General > About will pop the prompt if one is pending. An outdated carrier bundle is a common "Unable to Activate" trigger.
+7. **Update iOS** — Settings > General > Software Update. Early iOS 18 builds had known eSIM-registration bugs that later point releases fixed.
+8. **Reset network settings** — Settings > General > Transfer or Reset iPhone > Reset > Reset Network Settings. This wipes Wi-Fi passwords but clears a corrupted cellular stack. Reconnect Wi-Fi afterward and retry.
+9. **Confirm the eSIM hasn't expired** — a plan that's past its validity window, or a QR code already used once, will never activate.
+10. **Contact the provider** — if all nine steps fail, the issue is on the carrier's SM-DP+ server, and they can re-push the profile.
 
-## 4. Technical Deep Dive: Why the iPhone 16 Ditched the SIM Slot
+If a specific error code appears ("Cellular Plan Cannot Be Added," "Invalid QR code," an APN problem), the error-by-error fixes are in the [eSIM Deep Troubleshooting Guide](/faq/esim-deep-troubleshooting-guide-2026/).
 
-### 4.1 Why Apple removed the SIM slot
-Physical SIM components – tray, reader, and spring mechanism – consume valuable internal space that could otherwise go to other hardware. By removing them on eSIM‑only models, Apple engineers reclaimed space for a larger battery and other components.
+## Setting up dual eSIM on iPhone 16 (step-by-step)
 
-**Technical benefit**: A seamless, hole‑less design reduces electromagnetic interference and leaves fewer points of failure.
+The 16 keeps two eSIMs active at once — and on a US model there's no physical SIM to fall back on, so both lines are eSIMs by default. This is how most travelers run a home line plus a data eSIM.
 
-### 4.2 Baseband Efficiency and Battery Life
-Maintaining a connection with a physical SIM chip requires constant power delivery to the reader. On the iPhone 16, a fully digital connection eliminates the overhead of driving a physical SIM reader, which can reduce baseband standby power draw and extend battery life. For the power‑constrained iPhone 16, this can add meaningful battery life during active data usage. This is a key factor for travelers who rely on their phones for navigation and communication throughout the day.
+1. **Install the home line first.** Use your carrier's app, their QR code, or eSIM Carrier Activation (sign in with your carrier account during setup and the profile appears automatically).
+2. **Install the travel eSIM second.** Open Roami (or your provider's app), tap **Install to this device**, and allow the prompt. Or scan the QR from your confirmation email.
+3. **Label both lines.** Settings > Cellular, tap each line, and use "Cellular Plan Label" to name them "Home" and "Roami Travel."
+4. **Point Cellular Data at the travel eSIM.** Settings > Cellular > Cellular Data.
+5. **Point Default Voice Line at home.** This keeps calls, iMessage, and FaceTime on your regular number.
+6. **Data Roaming ON for the travel line, OFF for home.** The travel eSIM needs roaming to reach partner networks; the home line doesn't, and leaving it off prevents accidental fees.
+7. **Keep Allow Cellular Data Switching OFF.** A brief signal dip could flip data to the wrong line and trigger a charge.
 
-**Real‑world impact:** Users report 5‑10% better battery life on eSIM‑only iPhone 16 models compared to equivalent physical SIM usage on older devices.
+That's it — two active eSIMs, one phone, no tray.
 
-### 4.3 Security: Anti‑Tampering and eUICC
-Unlike physical SIMs that can be swapped or cloned, the iPhone 16 eSIM is stored on a dedicated **eUICC** chip. Even if your device is stolen, your eSIM number cannot be removed without biometric authentication, ensuring "Find My" remains operational 24/7.
+## Dual eSIM on iPhone 16
 
+The 16 keeps two eSIMs active at once, which is how most travelers run a home line plus a data eSIM. Set **Cellular Data** to your travel eSIM, **Default Voice Line** to your home number, turn **Data Roaming ON** for the travel line (OFF for home), and keep **Allow Cellular Data Switching OFF** so a signal dip never flips data to the wrong line.
 
-## 5. How to activate eSIM on iPhone 16 – 3 simple ways
+## Transferring your eSIM to iPhone 16 during setup
 
-There are three frictionless activation paths for iPhone 16 users. For a complete walkthrough, see our **[iPhone eSIM activation guide](/faq/how-to-activate-esim-on-iphone/)**.
+Upgrading to a 16 and want your old eSIM to come with you? Do it during the initial setup, before you've finished configuring the phone.
 
-### Method 1: Carrier App Installation (Fastest)
-1. Choose your plan in your carrier's app (Roami, Airalo, T‑Mobile, etc.).
-2. After purchase, tap **"Install to this device"**.
-3. Your iPhone 16 automatically detects the configuration; when the system notification appears, tap **"Allow"**.
-4. The profile downloads and activates in under 30 seconds.
+1. Turn on the new iPhone 16 and bring it near your old iPhone (both running iOS 16+).
+2. When the **Quick Start** screen appears on the old phone, follow the prompts to set up the new device.
+3. On the new phone, when you reach the cellular step, choose **Transfer eSIM from nearby iPhone**.
+4. Keep both phones close, with Bluetooth and Wi-Fi on, until the transfer finishes — usually one to two minutes per line.
 
-**Best for:** Travel eSIMs and carriers with app‑based activation. No QR code needed.
+A few notes specific to the 16. If you skipped it during setup, you can still do it later: Settings > Cellular > Add eSIM > **Transfer from Nearby iPhone**. If the old iPhone is **sold, lost, or reset**, Quick Transfer can't run — contact your carrier to re-issue the eSIM instead. And if the transfer lands but shows "No Service," delete the profile from the old phone first, because some carriers require the old copy to be released. Cross-platform moves (Android → iPhone) go through your carrier, not the Settings app — see the [transfer guide](/faq/how-to-transfer-esim-between-iphone-and-android/).
 
-### Method 2: Quick Transfer (When upgrading from an old iPhone)
-- When setting up your new iPhone 16, place it near your old iPhone.
-- During setup, you'll see a prompt: **"Transfer eSIM from nearby iPhone"**.
-- Follow the on‑screen prompts – the eSIM moves wirelessly to your new device.
-- No carrier contact needed.
-
-**Best for:** Users upgrading from iPhone 12/13/14/15 to iPhone 16.
-
-### Method 3: QR Code or Manual Entry
-1. Go to **Settings** > **Cellular** > **Add eSIM**.
-2. Scan the high‑resolution QR code sent to your email.
-3. If scanning isn't possible, choose **"Enter Details Manually"** and paste the provided **SM‑DP+ address** and **Activation Code**.
-
-**Best for:** Carriers that email QR codes instead of using apps.
-
-> **After activation:** Label your eSIM (e.g., "Travel" or "Work") and set your default lines – see [Section 8](#8-dual-esim-on-iphone-16--how-to-use-two-active-lines) for dual‑SIM configuration.
-
-
-## 6. eSIM Security Advantages: Why More Reliable Than Physical SIM
-
-| Security Feature | Physical SIM | eSIM |
-|------------------|--------------|------|
-| Anti‑physical theft | Can be removed to receive SMS verification codes | Cannot be removed; even if device stolen, number can't be used |
-| Anti‑clone/tamper | Can be copied (some older tech) | Complies with GSMA SGP.22, cannot be cloned or modified |
-| Enterprise remote control | Requires physical swap | Remote add/delete/restrict via MDM |
-| Tracking after loss | Offline after SIM removal | Cannot go offline (eSIM‑only models) |
-
-**Enterprise protection**: MDM can enable `AllowESIMModification` restriction to prevent users from adding or removing eSIMs, avoiding accidental transfer of company numbers.
-
-
-## 7. eSIM vs physical SIM – which is better for travel?
-
-| Comparison | Physical SIM | eSIM |
-|------------|--------------|------|
-| Instant connectivity | Need to buy at airport or wait for shipping | Install immediately after purchase |
-| Cost | Expensive roaming fees or queuing for local SIMs | Real‑time comparison, pay as needed |
-| Multiple profiles | Swap cards every time | Store 8‑10 profiles, switch with one tap |
-| Physical risk | Easy to lose or damage tray | Zero physical risk |
-
-For travelers, eSIM is the clear winner – especially when visiting multiple countries. For a comprehensive comparison of providers, see our **[best US eSIM options for 2026](/faq/the-ultimate-guide-to-us-esim-in-2026-how-to-choose-the-best-plan/)**.
-
-
-## 8. Enterprise Deployment & Management (For MDM Admins)
-
-For IT administrators, eSIM greatly simplifies large‑scale device deployment.
-
-> **Who this section is for:** IT admins, procurement managers, and enterprise mobility teams deploying iPhone 16 devices to employees.
-
-### Key Questions When Choosing a Carrier
-- How long does it take to create and provision eSIMs after signing an agreement?
-- Does the carrier support **eSIM Carrier Activation** (out‑of‑box automatic installation)?
-- Does the carrier allow users to transfer eSIMs between iPhone/iPad?
-- Provide the **SM‑DP+ server URL** (ensure firewall access).
-- Is there a limit on simultaneous queuing for eSIM provisioning?
-
-### Apple School Manager / Business Manager Automatic Enrollment
-When devices join MDM via DEP (Automatic Device Enrollment), if the carrier supports it, eSIMs can be **automatically installed** during setup – no user interaction required.
-
-### MDM Remote Management Capabilities
-- Remote eSIM installation
-- Remote carrier change
-- Restrict user modifications (`AllowESIMModification`)
-- Refresh cellular plans (`RefreshCellularPlansCommand`)
-
-**Troubleshooting for MDM admins:** If users report they can't add eSIMs, check that your `AllowESIMModification` restriction is not blocking it. If users report "Activation stuck", verify that your corporate firewall allows outbound connections to the carrier's SM‑DP+ server.
-
-
-## 9. Dual eSIM on iPhone 16 – how to use two active lines
-
-The iPhone 16 supports **two active eSIMs simultaneously**. Here's how to configure them for travel:
-
-### Step 1: Set your default lines
-- **Cellular Data:** Select your travel eSIM (this is where internet comes from).
-- **Default Voice Line:** Select your home SIM (this is where calls and SMS come from).
-
-### Step 2: Configure Data Roaming
-- **On your travel eSIM:** Data Roaming = ON (required to connect to local networks).
-- **On your home SIM:** Data Roaming = OFF (prevents accidental roaming charges).
-
-### Step 3: Turn OFF "Allow Cellular Data Switching"
-This prevents your iPhone from automatically switching to your home SIM for data when the travel eSIM signal is weak – which could trigger roaming charges.
-
-### Common dual‑SIM issues on iPhone 16
-
-| Issue | Fix |
-|-------|-----|
-| One line shows "No Service" | Toggle each line off and back on in Settings > Cellular |
-| Calls going to the wrong line | Check Default Voice Line setting |
-| No data on the travel eSIM | Check that Cellular Data is set to the travel eSIM |
-| Data Roaming won't turn on | Some carriers restrict roaming – check your plan terms |
-
-
-## 10. eSIM cross-platform transfer – iPhone to Android and back
-
-There is no built‑in iOS‑to‑Android eSIM transfer. To move an eSIM across platforms, use your carrier's app or ask the carrier to re‑issue your eSIM as a new QR code. For the full walkthrough, see our **[eSIM cross‑platform transfer guide](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
-
-### From Android to iPhone
-1. Contact your carrier (or open their app) and request an eSIM transfer to your new iPhone.
-2. Provide the iPhone's **EID** and **IMEI**, or scan the QR code the carrier sends.
-3. The number activates on the iPhone and is deactivated on the Android.
-
-### From iPhone to Android
-1. Contact your carrier (or open their app) and request an eSIM transfer to your new Android phone.
-2. Provide the Android's **EID** and **IMEI**, or scan the QR code the carrier sends.
-3. The number activates on the Android and is deactivated on the iPhone.
-
-> **Note**: Cross‑platform transfer is only supported by certain carriers (e.g., US: AT&T, T‑Mobile, Verizon; UK: EE; JP: KDDI). If not supported, contact your carrier for a new QR code. For detailed steps and troubleshooting, visit our dedicated **[eSIM Cross‑Platform Transfer 2026 guide](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
-
-
-## 11. iPhone 16 vs iPhone 15 eSIM – what changed?
-
-If you're upgrading from an iPhone 15 to an iPhone 16, here's what's different for eSIM users:
+## iPhone 16 vs iPhone 15: what changed for eSIM
 
 | Feature | iPhone 15 | iPhone 16 |
-|---------|-----------|-----------|
-| **eSIM support** | Yes | Yes |
-| **Dual eSIM active** | Yes | Yes (improved stability) |
-| **eSIM-only (US)** | Yes | Yes |
-| **Physical SIM (global)** | Yes | Yes |
-| **Quick Transfer** | Yes | Improved in iOS 18 |
-| **Carrier profile updates** | Requires restart | Background updates in iOS 18 |
-| **Battery efficiency** | Good | Better (A18 chip optimizations) |
-| **Security** | eUICC | eUICC + enhanced anti‑tampering |
+|---|---|---|
+| eSIM support | Yes | Yes |
+| Dual active eSIM | Yes | Yes (more stable) |
+| US eSIM-only | Yes | Yes |
+| Quick Transfer | Yes | Improved in iOS 18 |
+| Carrier updates | Restart needed | Background |
+| Battery | Good | Better (A18 optimizations) |
+| Security | eUICC | eUICC + enhanced anti-tampering |
 
-**Bottom line:** If you're already using eSIM on an iPhone 15, the transition to iPhone 16 will be seamless. Your existing eSIM profiles will transfer via Quick Transfer during setup.
+Upgrading from a 15 is seamless — your existing eSIMs move over with Quick Transfer during setup.
 
+## iPhone 16 vs 15 vs 14: the eSIM differences
 
-## 12. Frequently Asked Questions & Troubleshooting (iPhone 16 Specific)
+If you're coming from an older phone, here's how the last three generations stack up on the eSIM-specific points.
 
-### Activation Issues
+| Feature | iPhone 14 | iPhone 15 | iPhone 16 |
+|---|---|---|---|
+| eSIM support | Yes | Yes | Yes |
+| Two active eSIMs | Yes (iPhone 13+) | Yes | Yes |
+| US model tray | eSIM only | eSIM only | eSIM only |
+| Other eSIM-only markets | — | — | Canada, Japan, Mexico, UAE, Saudi Arabia |
+| SIM tray elsewhere | Kept | Kept | Kept (hybrid) |
+| Quick Transfer | Yes (iOS 16) | Yes | Yes, improved in iOS 18 |
+| Carrier updates | Restart needed | Restart needed | Background |
+| 5G / mmWave | Yes | Yes | Yes (A18, more efficient) |
+| Battery with dual eSIM | Good | Good | Better (A18 optimizations) |
 
-**Q: Why is my eSIM stuck on "Activating" for more than 10 minutes?**
-A: This is usually caused by an unstable Wi‑Fi connection or a busy activation server.
-- Ensure you're on a stable Wi‑Fi network.
-- Toggle Airplane Mode on for 30 seconds, then off.
-- If it stays stuck, delete the pending eSIM (`Settings > Cellular > tap the eSIM > Delete`), restart your iPhone, and try again.
+The headline: eSIM capability has been mature since the 14, but the 16 is where eSIM-only stopped being a US quirk and became a global default. If you're moving up from a 14 or 15, the *only* real change to plan around is that more markets now drop the physical tray — so check your region before assuming you can still pop in a local SIM.
 
-**Q: QR code says "Invalid" or "Expired" after scanning?**
-A: eSIM QR codes are single‑use and time‑limited (typically 30‑90 days). Contact your carrier to re‑issue a new QR code, then activate it promptly.
+## eSIM + 5G / mmWave on iPhone 16
 
-**Q: "Cellular Plan Cannot Be Added" – what does this mean?**
-A: Your iPhone may be carrier‑locked, or you may have too many stored eSIM profiles. Check `Settings > General > About > Carrier Lock` – it must say "No SIM restrictions." If locked, contact your carrier. If unlocked, remove unused eSIM profiles under `Settings > Cellular`.
+A common worry: does going eSIM-only cost you 5G? No. The eSIM is just the credential — it has zero effect on which radio the phone uses. Every iPhone 16 model supports 5G, and the US models additionally support **mmWave**, and both work fine over eSIM.
 
-**Q: "iPhone 16 eSIM activation failed" – what should I try first?**
-A: The most common fix is to ensure your iPhone is carrier‑unlocked and you're on a stable Wi‑Fi network. Then restart your iPhone and try the manual entry method (SM‑DP+ address) if the QR code continues to fail.
+What actually matters for 5G roaming:
 
-### Connection Issues
+- **Your provider must offer 5G in your destination.** Roami and the major travel-eSIM brands offer 5G in a growing list of countries; in others you'll connect on LTE, which is still fast enough for anything but 4K streaming.
+- **The local network must support it.** Some partner networks restrict 5G roaming to their own subscribers.
+- **Your settings must allow it.** Settings > Cellular > Cellular Data Options > Voice & Data, and choose **5G Auto** or **5G On**. There's also a **5G Standalone** toggle that some carriers enable.
+- **mmWave is a US-model feature**, and even then it's mostly a US-deployment technology — abroad you'll be on sub-6 GHz 5G or LTE, which is why roaming mmWave almost never comes up.
 
-**Q: eSIM shows "No Service" – what can I do?**
-A: This usually means Data Roaming is off, or the phone hasn't registered with the local network.
-- Go to `Settings > Cellular` > tap the eSIM > turn **Data Roaming ON**.
-- If still no service, go to `Network Selection`, turn off "Automatic", manually select a carrier, wait for it to fail, then switch back to "Automatic" to force re‑registration.
+One trade-off to know: 5G mmWave runs hotter and draws more battery than LTE, though the A18 chip handles it more efficiently than the 15 did. For most travelers, leaving Voice & Data on **5G Auto** is the right call — it uses 5G when it's fast and drops to LTE to save battery when it isn't.
 
-**Q: Full signal bars but no internet connection?**
-A: This is almost always an APN issue. Go to `Settings > Cellular > Cellular Data Network` and enter your provider's APN settings. Common values:
-- Roami: `internet`
-- Airalo: `globaldata`
-- Holafly: `holafly`
-- Nomad: `nomad`
+## Enterprise and MDM deployment
 
-**Q: My eSIM works at home but not when I travel abroad?**
-A: Your eSIM plan may not include the country you're visiting, or there may be a roaming agreement issue. Contact your provider to confirm coverage. Also ensure Data Roaming is ON for that line after you land.
+For IT teams rolling out iPhone 16 fleets, eSIM removes the SIM-swap grunt work. Confirm your carrier supports **eSIM Carrier Activation** (zero-touch install during DEP/Apple Business Manager enrollment), ask for the **SM-DP+ URL** and provisioning capacity up front, and use MDM to push profiles remotely. The `AllowESIMModification` restriction blocks users from adding or removing eSIMs, and `RefreshCellularPlansCommand` re-syncs plans. If activation stalls on a managed device, check that the corporate firewall allows outbound traffic to the carrier's SM-DP+ server.
 
-**Q: iPhone 16 eSIM 5G roaming not working?**
-A: Ensure that 5G is enabled in Settings > Cellular > Cellular Data Options > Voice & Data > select 5G Auto or 5G On. Also confirm that your eSIM provider supports 5G roaming in your destination country.
+Two iPhone 16-specific points for admins. First, **A18 + iOS 18 makes dual eSIM the norm** — a US-model fleet has no physical SIM at all, so budget for two eSIMs per device (a carrier line plus a fallback data eSIM) from day one. Second, **iOS 18 added more granular cellular-management commands**, so pin your MDM server to the latest release before deploying — older MDM profiles that predate iOS 18 sometimes fail to push eSIMs to a 16 out of the box.
 
-### Deletion and Recovery
+## What this page doesn't cover
 
-**Q: Does deleting an eSIM cancel my plan?**
-A: **No.** Deleting the eSIM only removes the profile from your phone. You must contact your carrier separately to cancel the plan. For travel eSIMs, the plan runs until the data is used up or the validity period ends – deleting the profile doesn't refund unused data.
+- **eSIM vs physical SIM** as a general concept → [What is eSIM?](/faq/what-is-esim/)
+- **Cross-platform transfer** (iPhone ↔ Android) → [eSIM transfer guide](/faq/how-to-transfer-esim-between-iphone-and-android/)
+- **Full eSIM device and carrier lists** → [compatibility list](/compatibility/)
 
-**Q: Can I recover a deleted eSIM?**
-A: For postpaid carrier eSIMs, yes – contact your carrier and they can usually re‑issue a new QR code. For travel eSIMs (Roami, Airalo, etc.), deletion is usually permanent – you'll need to purchase a new plan. Always keep a backup of your original activation email and QR code.
+## Frequently Asked Questions (iPhone 16)
 
-**Q: Still being charged after deleting eSIM?**
-A: Deleting eSIM does **not** cancel your plan. First contact your carrier to cancel the number/plan, then delete the eSIM. If you already deleted it, provide your EID and ask for a profile re‑issue.
+**Why is my iPhone 16 stuck on "Activating"?**
+Usually unstable Wi-Fi or a busy activation server. Airplane Mode for 30 seconds, then off; if still stuck, delete the pending eSIM and retry on a stronger network. Don't delete an active plan mid-trip.
 
-### US Model‑Specific Questions
+**I have a US-model iPhone 16. Can I use a physical SIM with an adapter?**
+No — the US model has no SIM tray hardware at all. eSIM is the only path.
 
-**Q: I have a US‑model iPhone 16 (eSIM‑only). How do I use it in China?**
-A: Purchase a **global travel eSIM** (like Roami) before departure – it connects to Chinese networks via roaming. Local Chinese carriers (China Mobile, China Unicom) do not offer eSIM to foreign visitors, so a travel eSIM is your only option.
+**I have a US-model iPhone 16 and I'm traveling to China. What do I do?**
+Buy a global travel eSIM (like Roami) before you leave. Chinese carriers don't issue eSIMs to foreign visitors, so a roaming travel eSIM is your only option.
 
-**Q: I have a US‑model iPhone 16. Can I use a physical SIM with an adapter?**
-A: No. The US model has no physical SIM tray hardware. Physical SIMs cannot be used at all on this device.
+**Is iPhone 16 5G roaming not working?**
+Check Settings > Cellular > Cellular Data Options > Voice & Data is on 5G Auto or 5G On, and confirm your eSIM provider offers 5G roaming in your destination.
 
-### Restore Errors
+**Does deleting an eSIM cancel my plan?**
+No — it only removes the profile from the phone. Cancel the plan with your carrier separately. Travel eSIMs aren't refunded for unused data.
 
-**Q: Restore error 4013 or 4014?**
-A: Restore errors 4013 and 4014 usually indicate a hardware or firmware problem during a software restore, **not** an eSIM issue. Try a different cable and USB port, update your Mac or iTunes, then contact Apple Support if the error persists.
+**Do restore errors 4013/4014 mean my eSIM is broken?**
+No — 4013 and 4014 are hardware/firmware restore errors, not eSIM issues. Try another cable and port, update your Mac or iTunes, then contact Apple if it persists.
 
-### Battery and Performance
+**Does dual eSIM drain the iPhone 16 battery faster?**
+Minimally. Two active lines use a bit more power, but the A18 chip is optimized for dual-SIM, and a single eSIM draws slightly less than a physical SIM (no reader to power).
 
-**Q: Does dual eSIM drain battery faster?**
-A: Running two active lines can use slightly more power, but the difference is minimal. The iPhone 16's A18 chip is optimized for dual‑SIM operation. A single eSIM actually consumes slightly less power than a physical SIM because there's no physical card reader to power.
+**Does my iPhone 16 support personal hotspot on a travel eSIM?**
+Most travel eSIM plans include hotspot, and the A18 chip keeps tethering cooler. Check your plan — some budget options restrict it.
 
-**Q: How does iOS 18 improve eSIM battery life?**
-A: iOS 18 includes optimizations for the A18 chip that reduce background scanning when two eSIMs are active, resulting in 5‑10% better battery life compared to iOS 17 on the same hardware.
+**Which iPhone 16 models still have a physical SIM tray?**
+The hybrid models sold in Europe, the UK, Southeast Asia, Australia, and most of the world keep one nano-SIM slot. The US, Canada, Mexico, Japan, Saudi Arabia, and UAE models are eSIM-only, and China/Hong Kong models have dual nano-SIM with no eSIM. Check your model number in Settings > General > About.
 
-### Travel eSIM Questions
+**Can I run two travel eSIMs at once on my iPhone 16?**
+Yes — the 16 supports two active eSIMs simultaneously, so you can keep a home eSIM and a travel eSIM, or two travel eSIMs for a multi-country trip. Switch which one carries data in Settings > Cellular > Cellular Data.
 
-**Q: Can I use a travel eSIM and my home SIM at the same time on iPhone 16?**
-A: Yes – iPhone 16 supports dual active eSIMs. Set your home eSIM for voice/SMS and the travel eSIM for data. See [Section 8](#8-dual-esim-on-iphone-16--how-to-use-two-active-lines) for configuration.
+**Does mmWave work on a travel eSIM?**
+On a US-model iPhone 16, mmWave works regardless of eSIM, but mmWave is a US-deployment technology — abroad you'll connect on sub-6 GHz 5G or LTE, which is normal and expected.
 
-**Q: Does my eSIM support personal hotspot sharing on iPhone 16?**
-A: Most travel eSIM plans include full personal hotspot support, optimized for the A18 chip to minimize heat generation during tethering. Check your plan's terms – some budget plans restrict hotspot.
-
-**Q: What if I run out of data on my travel eSIM?**
-A: You can top up directly in your carrier's app (Roami, Airalo, etc.) – the additional data is credited automatically without scanning a new QR code.
-
-**Q: Is my iPhone 16 carrier‑locked?**
-A: Go to `Settings` > `General` > `About` and scroll down to **Carrier Lock**. It should say "No SIM restrictions." If locked, contact your home carrier to request an unlock. US carriers are legally required to unlock devices once they are fully paid off.
-
-**Q: How do I check my iPhone 16 EID for eSIM compatibility?**
-A: Dial `*#06#` in the Phone app. If a 32‑digit EID number appears, your iPhone 16 supports eSIM. If only IMEI numbers appear, your model does not support eSIM (China model).
-
-**Q: What's the difference between deleting an eSIM and turning it off on iPhone 16?**
-A: Turning off an eSIM keeps the profile on your phone but disables the line – you can turn it back on anytime. Deleting an eSIM permanently removes the profile – you cannot recover it without a new QR code. Only delete when the plan is fully expired.
-
-
-## 13. Conclusion & Best Practices
-
-The iPhone 16 series makes eSIM the standard – not just an option. Whether you are a personal user or an enterprise IT administrator, follow these best practices:
-
-- **Before buying a device**: Confirm your carrier supports eSIM and cross‑platform transfer. If you buy a US model, understand that it's eSIM‑only.
-- **When upgrading devices**: Use eSIM Quick Transfer – no need to contact customer support.
-- **Before traveling abroad**: Purchase a data eSIM in advance, install it at home on Wi‑Fi, and activate it upon arrival by turning on Data Roaming.
-- **For enterprise deployment**: Communicate with your carrier about SM‑DP+ address and provisioning capacity, then use MDM for zero‑touch activation.
-- **Security reminder**: Before selling or giving away your iPhone, delete all eSIMs under `Settings` > `Cellular` and notify your carrier to cancel associated plans.
-
-👉 **Need a plan for your iPhone 16?** Get an [eSIM for the USA](/united-states-esim/), [eSIM for Japan](/japan-esim/), or [eSIM for Europe](/europe-esim/) with instant delivery.
-
-**The future is here**: eSIM is not only a technological evolution but also a revolution in digital identity management. The iPhone 16 series and global eSIM providers are ready to provide seamless connectivity worldwide.
+👉 **Want to test it on your iPhone 16?** Claim a [free eSIM](/free-esim/) and try the whole flow. Then browse [eSIM for the USA](/united-states-esim/), [Japan](/japan-esim/), or [Europe](/europe-esim/).
 
 ---
+
 *Based on Apple and GSMA documentation. Actual features may vary depending on carrier policies, region, and device model.*
 
 ## Sources
