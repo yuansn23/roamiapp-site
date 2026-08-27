@@ -58,10 +58,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "Transfert eSIM multiplateforme 2026"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Double eSIM ne fonctionne pas ? 12 solutions pour iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Liste complète de compatibilité eSIM pour montres connectées"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -73,7 +73,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "Guide ultime 2026 : Solutions d'activation eSIM pour iPhone 17"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -101,7 +101,7 @@ Le marché allemand des télécoms présente trois caractéristiques uniques qui
 
 La loi allemande (Loi sur les télécommunications §111) exige que chaque utilisateur de service mobile prépayé et postpayé effectue une vérification d'identité avant l'activation. Le processus s'appelle **Postident** ou **Video-Ident** – vous devez montrer votre passeport devant une caméra lors d'un appel vidéo.
 
-**Comment l'eSIM brise le piège :** Les fournisseurs d'eSIM (comme Roami, Airalo, Holafly) ont leurs serveurs et leur enregistrement en dehors de l'Allemagne. L'Ausweispflicht ne s'applique pas aux services basés hors d'Allemagne. Votre eSIM s'active en 2 minutes – zéro vérification d'identité, zéro connaissance de l'allemand. Comprendre [comment fonctionne l'eSIM](/faq/What-Is-eSIM/) vous aide à voir pourquoi elle peut sauter ces réglementations.
+**Comment l'eSIM brise le piège :** Les fournisseurs d'eSIM (comme Roami, Airalo, Holafly) ont leurs serveurs et leur enregistrement en dehors de l'Allemagne. L'Ausweispflicht ne s'applique pas aux services basés hors d'Allemagne. Votre eSIM s'active en 2 minutes – zéro vérification d'identité, zéro connaissance de l'allemand. Comprendre [comment fonctionne l'eSIM](/faq/what-is-esim/) vous aide à voir pourquoi elle peut sauter ces réglementations.
 
 ### Défi 2 : Trains ICE à grande vitesse – L'environnement de connectivité mobile le plus difficile
 
@@ -178,7 +178,7 @@ Voici les tarifs officiels de Roami pour l'eSIM Allemagne en juin 2026. Tous les
 | 50 Go | 39,99 $ | **31,99 $** | — | — |
 | Illimité | 70,99 $ | **56,79 $** | — | 74,90 $ (30j illimité) |
 
-**L'eSIM Allemagne d'Airalo utilise typiquement uniquement Telekom** – pas de basculement. Roami couvre les trois réseaux. Les nouveaux utilisateurs peuvent commencer par un **[essai eSIM gratuit](/free-esim/)**. Pour l'installation, consultez le [guide d'activation iPhone](/faq/how-to-activate-esim-on-iphone/) ou le [guide général d'installation](/faq/How-To-Activate-an-eSIM/).
+**L'eSIM Allemagne d'Airalo utilise typiquement uniquement Telekom** – pas de basculement. Roami couvre les trois réseaux. Les nouveaux utilisateurs peuvent commencer par un **[essai eSIM gratuit](/free-esim/)**. Pour l'installation, consultez le [guide d'activation iPhone](/faq/how-to-activate-esim-on-iphone/) ou le [guide général d'installation](/faq/how-to-activate-an-esim/).
 
 ---
 
@@ -259,7 +259,7 @@ Si après l'activation de l'eSIM, aucun réseau de données n'est disponible :
 | **Signal faible en zone rurale** | Funkloch | Aucune solution – les cartes hors ligne sont essentielles |
 | **QR code non reconnu** | Code expiré ou mauvais scan | Demandez un nouveau code ; essayez la saisie manuelle |
 
-Pour des problèmes plus complexes, consultez notre **[guide de dépannage eSIM avec 16 cas pratiques](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)**.
+Pour des problèmes plus complexes, consultez notre **[guide de dépannage eSIM avec 16 cas pratiques](/faq/esim-deep-troubleshooting-guide-2026/)**.
 
 ---
 

@@ -114,7 +114,7 @@ Aqui está o que você precisa saber em 10 segundos:
 
 O iPhone SE (2020) e (2022) usam o mesmo hardware de eSIM do iPhone 11/12 – sem compromissos. O recurso **iphone se 2020 com capacidade esim** é idêntico ao do iPhone 11, e o **suporte esim iphone se 3ª geração** inclui conectividade 5G além do eSIM.
 
-Para uma lista completa de todos os dispositivos compatíveis com eSIM entre marcas, consulte nosso [guia de compatibilidade completo](/compatibility/). Se você é novo no eSIM, nosso [guia O que é eSIM?](/faq/What-Is-eSIM/) cobre o básico.
+Para uma lista completa de todos os dispositivos compatíveis com eSIM entre marcas, consulte nosso [guia de compatibilidade completo](/compatibility/). Se você é novo no eSIM, nosso [guia O que é eSIM?](/faq/what-is-esim/) cobre o básico.
 
 
 ## Compatibilidade eSIM do iPhone SE por Geração
@@ -215,7 +215,7 @@ Vá em **Configurações > Geral > Sobre**. Role para baixo. Se você vir um **E
 ### Método 3: Procure por "Adicionar Plano Celular"
 Vá em **Configurações > Celular**. Se você vir **"Adicionar Plano Celular"** como uma opção, seu telefone suporta eSIM. Se estiver faltando, não suporta.
 
-Se seu telefone passar nestas verificações, mas você ainda estiver tendo problemas, consulte nosso [guia de solução de problemas de eSIM](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) para correções avançadas.
+Se seu telefone passar nestas verificações, mas você ainda estiver tendo problemas, consulte nosso [guia de solução de problemas de eSIM](/faq/esim-deep-troubleshooting-guide-2026/) para correções avançadas.
 
 
 ## Como Ativar eSIM no iPhone SE (2020/2022)
@@ -310,7 +310,7 @@ Não. iPhone 6s, 7, 8, 8 Plus e iPhone X não têm hardware eSIM — você preci
 Sim – a Jio (Índia) oferece eSIM para iPhone SE 2020/2022. Você precisa de uma conexão Jio pós‑paga e visitar uma loja Jio para verificação. Após isso, você pode converter seu SIM físico Jio para eSIM via SMS ou aplicativo MyJio.
 
 **Meu iPhone SE mostra "Não É Possível Adicionar Plano Celular" – o que há de errado?**
-Remova perfis de eSIM antigos em **Configurações > Celular**, reinicie seu telefone e tente novamente. Se o problema persistir, verifique o status de bloqueio da sua operadora. Para mais ajuda, consulte nosso [guia de solução de problemas de eSIM](/faq/eSIM-Deep-Troubleshooting-Guide-2026/).
+Remova perfis de eSIM antigos em **Configurações > Celular**, reinicie seu telefone e tente novamente. Se o problema persistir, verifique o status de bloqueio da sua operadora. Para mais ajuda, consulte nosso [guia de solução de problemas de eSIM](/faq/esim-deep-troubleshooting-guide-2026/).
 
 **Como sei se meu iPhone SE é compatível com eSIM?**
 Disque `*#06#`. Se um EID aparecer, seu telefone é compatível. Esta é a resposta definitiva para **iphone se compatível com esim**.

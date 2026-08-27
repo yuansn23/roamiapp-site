@@ -59,10 +59,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "2026 Plattformübergreifende eSIM-Übertragung"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Duale eSIM funktioniert nicht? 12 Lösungen für iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Smartwatch-eSIM-Kompatibilitätsliste vollständig"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -74,7 +74,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 Ultimativer Leitfaden: iPhone 17 eSIM-Aktivierungslösungen"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -86,7 +86,7 @@ recentPosts:
 > - **Heathrow-Flughafen-SIMs sind die teuerste Option für UK-Reisende** – £20-30 ($25-38) für 5 GB, das sind 400-600 % mehr als bei einem Online-Vorkauf. Vermeiden Sie diese **Heathrow-SIM-Falle**, indem Sie eine **Reise-eSIM UK** online kaufen.
 > - **Die Roami UK-eSIM 7 Tage 5 GB kostet 5,59 $ nach Rabattcode web20**, mit intelligentem Wechsel zwischen EE, Vodafone, O2 und Three. Verwenden Sie den Rabattcode **web20** für 20 % Rabatt. Kostenlose Testversion verfügbar.
 
-Wenn Sie für Ihre Reise eine **UK-eSIM** suchen, ist es unerlässlich, die Post-Brexit-Roaming-Regeln zu verstehen. Eine vollständige Einführung in die eSIM-Technologie finden Sie in unserem [Was ist eSIM?-Leitfaden](/faq/What-Is-eSIM/). Hilfe zur Aktivierung finden Sie in unserem [eSIM-Aktivierungsleitfaden](/faq/how-to-activate-an-esim/).
+Wenn Sie für Ihre Reise eine **UK-eSIM** suchen, ist es unerlässlich, die Post-Brexit-Roaming-Regeln zu verstehen. Eine vollständige Einführung in die eSIM-Technologie finden Sie in unserem [Was ist eSIM?-Leitfaden](/faq/what-is-esim/). Hilfe zur Aktivierung finden Sie in unserem [eSIM-Aktivierungsleitfaden](/faq/how-to-activate-an-esim/).
 
 Die [GSMA](https://www.gsma.com/esim/) definiert die technischen Standards, die **Reise-eSIM-UK**-Tarife über verschiedene Netze hinweg ermöglichen. Die Seite [Apple Support – eSIM auf dem iPhone](https://support.apple.com/en-us/118670) bestätigt die eSIM-Kompatibilität für alle iPhone-Modelle ab XS/XR, einschließlich aller aktuellen iPhone-15-, 16- und 17-Serien.
 
@@ -176,7 +176,7 @@ Wenn Ihr Telefon beides unterstützt, hier ein Vergleich zwischen einer **Reise-
 
 **Das Fazit:** Für Kurzzeitbesucher (1-30 Tage) ist eine **UK-eSIM** fast immer günstiger, schneller und bequemer. Für Langzeitbewohner (3+ Monate) bietet eine lokale physische SIM mit UK-Rufnummer einen besseren Wert für Anrufe und SMS-Verifizierung – aber Sie müssen persönlich ein Geschäft aufsuchen.
 
-Weitere Informationen zur Wahl zwischen eSIM und physischer SIM für Reisen finden Sie in unserem [eSIM vs. physische SIM-Leitfaden](/faq/Travel-eSIM-2026-How-to-Avoid-Roaming-Fees-Stay-Connected-Abroad/).
+Weitere Informationen zur Wahl zwischen eSIM und physischer SIM für Reisen finden Sie in unserem [eSIM vs. physische SIM-Leitfaden](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/).
 
 
 ## Roami UK-eSIM vs. Airalo vs. Holafly – Preis- & Abdeckungsvergleich
@@ -234,7 +234,7 @@ Erstnutzer können mit einem [kostenlosen eSIM-Dienst](/free-esim/) starten, um 
 
 **Empfohlene eSIM:** Roami UK-eSIM 3 GB/7-Tage-Tarif, 3,99 $ nach Rabattcode web20. Über der Erde ist die 4G/5G-Abdeckung in großen britischen Städten nahezu 100 % – jedes Netzwerk funktioniert. Auf tiefen U-Bahn-Linien **laden Sie Offline-Karten in Navigations-Apps herunter** – kein Betreibersignal erreicht die unterirdischen Tunnel.
 
-Wenn Sie auf Installations- oder Verbindungsprobleme mit der eSIM stoßen, lesen Sie den [iPhone-eSIM-Aktivierungsleitfaden](/faq/how-to-activate-esim-on-iphone/) oder den [allgemeinen Einrichtungsleitfaden](/faq/How-To-Activate-an-eSIM/).
+Wenn Sie auf Installations- oder Verbindungsprobleme mit der eSIM stoßen, lesen Sie den [iPhone-eSIM-Aktivierungsleitfaden](/faq/how-to-activate-esim-on-iphone/) oder den [allgemeinen Einrichtungsleitfaden](/faq/how-to-activate-an-esim/).
 
 ### Szenario 2: Ländlicher Roadtrip (z. B. Schottisches Hochland, 7-10 Tage)
 
@@ -270,7 +270,7 @@ Wenn Sie auf Installations- oder Verbindungsprobleme mit der eSIM stoßen, lesen
 
 **Empfohlene eSIM: Hybrider Ansatz.** Nutzen Sie die Roami UK-eSIM 100 GB/30-Tage-Tarif (43,99 $ nach Rabatt) als primäre Datenquelle – der Vier-Netz-Wechsel gewährleistet Konnektivität auf dem Campus, bei der Arbeit oder an Wochenendausflügen. Kaufen Sie separat einen kostengünstigen Sprach+SMS-Tarif in einer EE- oder Vodafone-Filiale (etwa £5-10/Monat) – dieser dient nur für lokale Anrufe und SMS, ein Bedarf, den reine Daten-eSIMs nicht decken können, da britische Banken und Gesundheitsverifizierungssysteme in der Regel eine lokale britische Mobilfunknummer erfordern.
 
-Weitere detaillierte Anleitungen zu Reise-eSIMs finden Sie in unserem [Reise-eSIM-2026-Leitfaden](/faq/Travel-eSIM-2026-How-to-Avoid-Roaming-Fees-Stay-Connected-Abroad/).
+Weitere detaillierte Anleitungen zu Reise-eSIMs finden Sie in unserem [Reise-eSIM-2026-Leitfaden](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/).
 
 
 ## So aktivieren Sie Ihre UK-eSIM – 4 einfache Schritte
@@ -286,7 +286,7 @@ Die Aktivierung dauert weniger als 2 Minuten. Führen Sie sie **vor dem Abflug**
 
 **Wichtig:** Installieren Sie die eSIM vor dem Abflug – Sie benötigen eine stabile WLAN-Verbindung für den Download. Löschen Sie während der Reise kein aktives eSIM-Profil. Wenn „Kein Dienst“ angezeigt wird, schalten Sie den Flugmodus ein/aus oder starten Sie das Telefon neu – löschen Sie nicht das Profil.
 
-Detaillierte Anweisungen für das iPhone finden Sie in unserem [iPhone-17-eSIM-Vollständiger Leitfaden](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/). Wenn Sie auf Probleme stoßen, überprüfen Sie die [Gerätekompatibilität](/compatibility/), um zu bestätigen, dass Ihr Telefon eSIM unterstützt.
+Detaillierte Anweisungen für das iPhone finden Sie in unserem [iPhone-17-eSIM-Vollständiger Leitfaden](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/). Wenn Sie auf Probleme stoßen, überprüfen Sie die [Gerätekompatibilität](/compatibility/), um zu bestätigen, dass Ihr Telefon eSIM unterstützt.
 
 
 ## UK-eSIM funktioniert nicht? Häufige Probleme und schnelle Lösungen
@@ -315,7 +315,7 @@ Wenn Sie nach der Aktivierung keine Daten haben, konfigurieren Sie die APN manue
 | **Vodafone** | internet | (leer) | (leer) |
 | **Three** | three.co.uk | (leer) | (leer) |
 
-Wenn weiterhin Probleme auftreten, lesen Sie unseren [eSIM-Detaillierten Fehlerbehebungsleitfaden (16 echte Fälle)](/faq/esim-deep-troubleshooting-guide-2026/) für fortgeschrittene Lösungen. Bei Konflikten mit dualer SIM nach der Aktivierung deckt unser Leitfaden [Duale eSIM funktioniert nicht? 12 Lösungen für iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/) CDMA-Konflikte und Akkuprobleme ab.
+Wenn weiterhin Probleme auftreten, lesen Sie unseren [eSIM-Detaillierten Fehlerbehebungsleitfaden (16 echte Fälle)](/faq/esim-deep-troubleshooting-guide-2026/) für fortgeschrittene Lösungen. Bei Konflikten mit dualer SIM nach der Aktivierung deckt unser Leitfaden [Duale eSIM funktioniert nicht? 12 Lösungen für iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/) CDMA-Konflikte und Akkuprobleme ab.
 
 
 ## Datenverbrauchsrichtlinien für Reisen nach Großbritannien
@@ -362,7 +362,7 @@ Roamis 1-GB/7-Tage-Tarif startet bei 2,39 $ nach Rabatt. Für mehr Daten kostet 
 Ja – die meisten Reise-eSIMs unterstützen die Hotspot-Freigabe. Überprüfen Sie die Tarifbedingungen, um sicherzugehen. Roami unterstützt die vollständige Hotspot-Freigabe für alle Tarife.
 
 **Wie übertrage ich meine UK-eSIM auf ein neues Telefon?**
-Die meisten Reise-eSIMs sind für die einmalige Installation bestimmt und können nicht übertragen werden. Bei Postpaid-Anbieter-eSIMs (EE, Vodafone usw.) wenden Sie sich an Ihren Anbieter. Detaillierte Schritte zur Übertragung von eSIMs zwischen Geräten finden Sie in unserem [eSIM-Plattformübergreifender Transfer-2026-Leitfaden](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/).
+Die meisten Reise-eSIMs sind für die einmalige Installation bestimmt und können nicht übertragen werden. Bei Postpaid-Anbieter-eSIMs (EE, Vodafone usw.) wenden Sie sich an Ihren Anbieter. Detaillierte Schritte zur Übertragung von eSIMs zwischen Geräten finden Sie in unserem [eSIM-Plattformübergreifender Transfer-2026-Leitfaden](/faq/how-to-transfer-esim-between-iphone-and-android/).
 
 ---
 

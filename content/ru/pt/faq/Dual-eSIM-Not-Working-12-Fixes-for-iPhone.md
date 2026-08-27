@@ -104,7 +104,7 @@ sidebar_questions:
 > - Verifique o **Bloqueio de Operadora** em Configurações (`Sem restrições de SIM`) se não conseguir adicionar um segundo eSIM.  
 > - O consumo de bateria com **dual eSIM** pode ser reduzido desativando o 5G na linha com sinal mais fraco.
 
-Usar dois números de telefone em um iPhone é extremamente conveniente – mas traz armadilhas ocultas. De conflitos CDMA vs GSM a falhas no roteamento de chamadas recebidas (T‑ADS), este guia cobre tudo o que você precisa saber para executar **dual eSIM** ou **eSIM + SIM físico** perfeitamente no iPhone 17, 16 e modelos anteriores com iOS 19. Para um tutorial completo de configuração básica de eSIM, consulte nosso **[Guia Completo do iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**. Este guia de solução de problemas de dual eSIM segue as mais recentes [especificações GSMA eSIM](https://www.gsma.com/esim/) e foi testado no iOS 19. A documentação oficial da Apple [Sobre eSIM no iPhone](https://support.apple.com/en-us/HT209044) fornece informações adicionais sobre compatibilidade.
+Usar dois números de telefone em um iPhone é extremamente conveniente – mas traz armadilhas ocultas. De conflitos CDMA vs GSM a falhas no roteamento de chamadas recebidas (T‑ADS), este guia cobre tudo o que você precisa saber para executar **dual eSIM** ou **eSIM + SIM físico** perfeitamente no iPhone 17, 16 e modelos anteriores com iOS 19. Para um tutorial completo de configuração básica de eSIM, consulte nosso **[Guia Completo do iPhone 17 eSIM](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)**. Este guia de solução de problemas de dual eSIM segue as mais recentes [especificações GSMA eSIM](https://www.gsma.com/esim/) e foi testado no iOS 19. A documentação oficial da Apple [Sobre eSIM no iPhone](https://support.apple.com/en-us/HT209044) fornece informações adicionais sobre compatibilidade.
 
 ---
 
@@ -210,7 +210,7 @@ Se você não puder adicionar um segundo eSIM ou SIM físico:
 - Entre em contato com sua operadora para solicitar o desbloqueio. As operadoras dos USA devem desbloquear após o dispositivo ser pago.
 - Se desbloqueado mas ainda não funcionar, você pode precisar redefinir as configurações de rede: `Configurações > Geral > Transferir ou Redefinir iPhone > Redefinir > Redefinir Configurações de Rede`. (Aviso: isso apaga senhas de Wi‑Fi.)
 
-Uma vez desbloqueado, você também pode mover seu eSIM entre iPhone e Android – veja nosso **[guia de Transferência de eSIM entre Plataformas 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** para instruções passo a passo.
+Uma vez desbloqueado, você também pode mover seu eSIM entre iPhone e Android – veja nosso **[guia de Transferência de eSIM entre Plataformas 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)** para instruções passo a passo.
 
 ---
 
@@ -246,7 +246,7 @@ Para desativar uma linha: `Configurações > Celular` → toque na linha → des
 4. Se ainda não for reconhecido, teste o SIM em outro telefone – se funcionar, o leitor de SIM do seu iPhone pode estar com defeito.
 5. Substitua o cartão SIM na loja da operadora (gratuito para a maioria dos planos pós-pagos).
 
-Se você planeja mudar completamente para eSIM, consulte nosso **[guia do iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** para métodos de ativação.
+Se você planeja mudar completamente para eSIM, consulte nosso **[guia do iPhone 17 eSIM](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** para métodos de ativação.
 
 ---
 
@@ -302,7 +302,7 @@ Para problemas adicionais como “eSIM vinculado a outro dispositivo” ou “**
 ## 11. Perguntas Frequentes
 
 **P1: Posso usar dois eSIMs da mesma operadora?**  
-Sim, desde que sua operadora permita múltiplos perfis eSIM em uma conta. Por exemplo, a T‑Mobile US suporta até dois eSIMs no mesmo iPhone. Para uma lista completa de modelos de iPhone compatíveis, verifique a **[tabela de compatibilidade do iPhone 17](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/#2-global-iphone-17-models--esim-compatibility-table)**.
+Sim, desde que sua operadora permita múltiplos perfis eSIM em uma conta. Por exemplo, a T‑Mobile US suporta até dois eSIMs no mesmo iPhone. Para uma lista completa de modelos de iPhone compatíveis, verifique a **[tabela de compatibilidade do iPhone 17](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/#2-global-iphone-17-models--esim-compatibility-table)**.
 
 **P2: Ambas as linhas suportarão 5G simultaneamente?**  
 Sim, no iPhone 13 e mais novos (incluindo iPhone 17), ambas as linhas podem estar em 5G (dual 5G standby). No entanto, apenas uma linha pode usar dados 5G por vez; a outra usa 5G para fallback de voz (VoNR).
@@ -320,7 +320,7 @@ Sim, melhor prática:
 - Desative **Roaming de Dados** no eSIM doméstico para evitar cobranças altas.  
 - Ative **Permitir Alternância de Dados Celulares** para que sua linha doméstica possa usar os dados do eSIM local para Wi‑Fi Calling e MMS.
 
-Se você alterna frequentemente entre dispositivos durante viagens, o **[guia de transferência entre plataformas eSIM](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** ajudará você a mover seu número perfeitamente.
+Se você alterna frequentemente entre dispositivos durante viagens, o **[guia de transferência entre plataformas eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/)** ajudará você a mover seu número perfeitamente.
 
 **P6: Por que o segundo eSIM às vezes desaparece após uma atualização do iOS?**  
 Erro raro. Vá em `Configurações > Celular` → se a linha estiver faltando mas ainda aparecer em “SIMs Disponíveis”, toque nela e reative. Se não, contate a operadora para reenviar o perfil.

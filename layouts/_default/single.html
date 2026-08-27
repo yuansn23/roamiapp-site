@@ -72,23 +72,23 @@
         {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": {{ $seoTitle | jsonify }},
-        "image": {{ $seoImage | jsonify }},
+        "headline": {{ $seoTitle | jsonify | safeJS }},
+        "image": {{ $seoImage | jsonify | safeJS }},
         "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
         "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
         "author": {
         "@type": "Organization",
-        "name": {{ .Params.author | default $siteName | jsonify }}
+        "name": {{ .Params.author | default $siteName | jsonify | safeJS }}
         },
         "publisher": {
         "@type": "Organization",
-        "name": {{ .Params.author | default $siteName | jsonify }},
+        "name": {{ .Params.author | default $siteName | jsonify | safeJS }},
         "logo": {
         "@type": "ImageObject",
-        "url": {{ .Params.publisher_logo | absURL | jsonify }}
+        "url": {{ .Params.publisher_logo | absURL | jsonify | safeJS }}
         }
         },
-        "description": {{ $seoDescription | jsonify }}
+        "description": {{ $seoDescription | jsonify | safeJS }}
         }{{ if $faqItems }},
         {
         "@context": "https://schema.org",
@@ -98,10 +98,10 @@
         {{ if $index }},{{ end }}
         {
         "@type": "Question",
-        "name": {{ $item.question | jsonify }},
+        "name": {{ $item.question | jsonify | safeJS }},
         "acceptedAnswer": {
         "@type": "Answer",
-        "text": {{ $item.answer | jsonify }}
+        "text": {{ $item.answer | jsonify | safeJS }}
         }
         }
         {{ end }}

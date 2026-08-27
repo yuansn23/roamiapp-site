@@ -58,10 +58,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "2026 跨平台 eSIM 轉移"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "雙 eSIM 無法運作？12 個 iPhone 解決方法"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "智慧手錶 eSIM 相容性完整列表"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -73,7 +73,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 終極指南：iPhone 17 eSIM 啟用解決方案"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -237,7 +237,7 @@ recentPosts:
 | **網路限制** | 無特殊限制（可正常使用 Google） | 嚴格防火長牆，需 VPN |
 | **費用（每日）** | 約 HK$5~15 | 約 10~20 元人民幣 |
 
-> 如果你遇到 eSIM 啟用後無法連線的情況，請先確認是否已開啟數據漫遊，並參考 [2026 跨平台 eSIM 轉移](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/) 中的故障排除章節。
+> 如果你遇到 eSIM 啟用後無法連線的情況，請先確認是否已開啟數據漫遊，並參考 [2026 跨平台 eSIM 轉移](/faq/how-to-transfer-esim-between-iphone-and-android/) 中的故障排除章節。
 
 ---
 
@@ -309,7 +309,7 @@ recentPosts:
 ### 4.4 使用國際 eSIM 時常見問題
 
 - **Q：為什麼我買了國際 eSIM 還是無法上網？**  
-  請確認已開啟數據漫遊，並手動選擇網路（中國聯通或中國移動）。若仍失敗，請參考 [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)。
+  請確認已開啟數據漫遊，並手動選擇網路（中國聯通或中國移動）。若仍失敗，請參考 [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/dual-esim-not-working-12-fixes-for-iphone/)。
 
 - **Q：國際 eSIM 可以熱點分享嗎？**  
   多數可以，但部分平價方案會限制熱點分享功能。購買前請仔細閱讀說明。
@@ -350,13 +350,13 @@ recentPosts:
 部分三地共用方案（如 CMHK）可以。單獨香港方案則不行。
 
 **Q3：大陸 eSIM 支援 iPhone 17 嗎？**  
-支援。但建議先確認 iOS 版本，並參考 [2026 終極指南：iPhone 17 eSIM 啟用解決方案](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)。
+支援。但建議先確認 iOS 版本，並參考 [2026 終極指南：iPhone 17 eSIM 啟用解決方案](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)。
 
 **Q4：我的手機是大陸版 iPhone，可以裝香港 eSIM 嗎？**  
 大陸版 iPhone 硬體**不支援 eSIM**，無論哪個地區的 eSIM 都無法使用。
 
 **Q5：我想把大陸門號的 eSIM 轉移到新手機，怎麼做？**  
-需重新掃描原本的 QR 碼。若已遺失，請持台胞證到門市補發（費用 10 元人民幣）。也可參考 [2026 跨平台 eSIM 轉移](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)。
+需重新掃描原本的 QR 碼。若已遺失，請持台胞證到門市補發（費用 10 元人民幣）。也可參考 [2026 跨平台 eSIM 轉移](/faq/how-to-transfer-esim-between-iphone-and-android/)。
 
 **Q6：抵達大陸後才發現 eSIM 無法啟用，怎麼辦？**  
 先切換飛航模式再關閉，重啟手機。若仍失敗，請前往當地電信營業廳求助。出國前建議先閱讀 [eSIM 深度故障排除完整指南（16 個真實案例）](/faq/esim-deep-troubleshooting-guide-2026/)。
@@ -388,12 +388,12 @@ recentPosts:
 ## 🔗 延伸閱讀
 
 - [eSIM 深度故障排除完整指南（16 個真實案例）](/faq/esim-deep-troubleshooting-guide-2026/)
-- [2026 跨平台 eSIM 轉移](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
-- [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+- [2026 跨平台 eSIM 轉移](/faq/how-to-transfer-esim-between-iphone-and-android/)
+- [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/dual-esim-not-working-12-fixes-for-iphone/)
 - [智慧手錶 eSIM 相容性完整列表](/faq/smartwatch-esim-compatibility-list-2026/)
 - [iPhone SE eSIM 相容性指南](/faq/iphone-se-esim-compatible/)
 - [iPhone 11 eSIM 完整設定指南](/faq/iphone-11-esim-compatible/)
-- [2026 終極指南：iPhone 17 eSIM 啟用解決方案](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)
+- [2026 終極指南：iPhone 17 eSIM 啟用解決方案](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)
 - [eSIM 啟用原理](/faq/what-is-esim-activation-and-how-does-it-work/)
 - [Samsung S20 eSIM 相容性問題](/faq/samsung-s20-esim-compatible/)
 - [如何在 iPhone 上啟用 eSIM（所有型號）](/faq/how-to-activate-esim-on-iphone/)

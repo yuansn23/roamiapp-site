@@ -202,9 +202,9 @@ Android 的選單會因裝置製造商而略有不同。以下是兩個最受歡
   3. **檢查數據線路：** 確認你手機的主要「行動數據傳輸」確實指定給新的 eSIM，而不是你的本國 SIM 卡。
 
 如果你遇到更複雜的故障（例如雙 eSIM 同時使用異常，或需要跨平台轉移方案），我們也準備了以下深入資源：
-- [iPhone 雙 eSIM 無法運作？12 種修復方法](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
-- [如何在 iPhone 與 Android 之間轉移 eSIM](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
-- [eSIM 深度故障排除指南 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)
+- [iPhone 雙 eSIM 無法運作？12 種修復方法](/faq/dual-esim-not-working-12-fixes-for-iphone/)
+- [如何在 iPhone 與 Android 之間轉移 eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/)
+- [eSIM 深度故障排除指南 2026](/faq/esim-deep-troubleshooting-guide-2026/)
 
 > **重要警告：** 如果你正在嘗試解決連線問題，**絕對不要**點擊「刪除 eSIM」或「刪除方案」。刪除 eSIM 會永久銷毀數位設定檔，你將需要購買新的。如果你需要暫時停用 eSIM，只需在設定中關閉該線路的開關即可。
 
@@ -220,7 +220,7 @@ Android 的選單會因裝置製造商而略有不同。以下是兩個最受歡
 前往行動網路設定。你會看到兩條線路。你可以點擊實體 SIM 將其關閉，或者將實體 SIM 設為語音/SMS 的主要線路，而將 eSIM 設為行動數據的主要線路。
 
 **可以在手機上安裝多少個 eSIM？**  
-大多數現代智慧型手機（iPhone、Samsung、Pixel）允許儲存多達 10-20 個 eSIM 設定檔，但同時只能啟用 1-2 個。例如，iPhone 17 支援多達 8 個 eSIM 並同時啟用 2 個。**可以同時使用兩個 eSIM 嗎？** 可以，從 iPhone 13 及更新機型開始，以及許多 Android 旗艦機都支援。如果你使用的是 iPhone 17，可參考 [2026 終極指南：iPhone 17 eSIM 啟用解決方案](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)。
+大多數現代智慧型手機（iPhone、Samsung、Pixel）允許儲存多達 10-20 個 eSIM 設定檔，但同時只能啟用 1-2 個。例如，iPhone 17 支援多達 8 個 eSIM 並同時啟用 2 個。**可以同時使用兩個 eSIM 嗎？** 可以，從 iPhone 13 及更新機型開始，以及許多 Android 旗艦機都支援。如果你使用的是 iPhone 17，可參考 [2026 終極指南：iPhone 17 eSIM 啟用解決方案](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)。
 
 **如果我的手機不支援 eSIM 怎麼辦？**  
 請查閱我們的[最新相容性列表](/compatibility/)。如果列表中沒有你的型號，請嘗試撥打 `*#06#` – 如果出現 32 位元的 EID，則表示支援 eSIM。否則，你需要使用實體 SIM 卡或更換裝置。
@@ -237,8 +237,8 @@ Android 的選單會因裝置製造商而略有不同。以下是兩個最受歡
 
 > 📎 **本網站的相關資源：**
 > - [eSIM 深度故障排除完整指南（16 個真實案例）](/faq/esim-deep-troubleshooting-guide-2026/)
-> - [2026 跨平台 eSIM 轉移](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
-> - [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+> - [2026 跨平台 eSIM 轉移](/faq/how-to-transfer-esim-between-iphone-and-android/)
+> - [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/dual-esim-not-working-12-fixes-for-iphone/)
 > - [最新的 eSIM 相容手機列表](/compatibility/)
 > - [eSIM 啟用原理](/faq/what-is-esim-activation-and-how-does-it-work/)
 > - [Samsung S20 eSIM 相容性問題](/faq/samsung-s20-esim-compatible/)
@@ -246,7 +246,7 @@ Android 的選單會因裝置製造商而略有不同。以下是兩個最受歡
 > - [智慧手錶 eSIM 相容性完整列表](/faq/smartwatch-esim-compatibility-list-2026/)
 > - [iPhone SE eSIM 相容性指南](/faq/iphone-se-esim-compatible/)
 > - [iPhone 11 eSIM 完整設定指南](/faq/iphone-11-esim-compatible/)
-> - [2026 終極指南：iPhone 17 eSIM 啟用解決方案](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)
+> - [2026 終極指南：iPhone 17 eSIM 啟用解決方案](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)
 
 ---
 

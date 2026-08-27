@@ -58,10 +58,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "Trasferimento eSIM multipiattaforma 2026"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "La doppia eSIM non funziona? 12 correzioni per iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Elenco completo di compatibilità eSIM per smartwatch"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -73,7 +73,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "Guida ultima 2026: Soluzioni di attivazione eSIM per iPhone 17"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -95,7 +95,7 @@ Per più di un decennio, noleggiare un dispositivo pocket Wi‑Fi dopo l'atterra
 
 **Costo:** Il pocket Wi‑Fi costa circa 3.500‑5.600 ¥ (25‑40 $) per 7 giorni. Un'eSIM costa 870 ¥ (circa 5,99 $) per 7 giorni 5 GB, o anche meno con sconti. Risparmi del 70‑85%.
 
-**Comodità:** Il pocket Wi‑Fi richiede un dispositivo aggiuntivo – ricaricarlo, trasportarlo, non perderlo, restituirlo. Un'eSIM vive all'interno del vostro telefono – zero dispositivi aggiuntivi. Il vostro telefono è il vostro hotspot Wi‑Fi. Capire [come funziona l'eSIM](/faq/What-Is-eSIM/) rivela la natura di questo cambiamento generazionale.
+**Comodità:** Il pocket Wi‑Fi richiede un dispositivo aggiuntivo – ricaricarlo, trasportarlo, non perderlo, restituirlo. Un'eSIM vive all'interno del vostro telefono – zero dispositivi aggiuntivi. Il vostro telefono è il vostro hotspot Wi‑Fi. Capire [come funziona l'eSIM](/faq/what-is-esim/) rivela la natura di questo cambiamento generazionale.
 
 **Affidabilità:** Il pocket Wi‑Fi si scarica (generalmente 6‑8 ore, non sufficienti per un'intera giornata di visite). Un'eSIM non si scarica – condivide la batteria del vostro telefono, che già caricate ogni notte.
 
@@ -233,7 +233,7 @@ I nuovi utenti possono iniziare con una [prova gratuita dell'eSIM](/free-esim/) 
 
 **Migliore eSIM:** Piano Roami Giappone 5 GB / 3 giorni, 4,79 $ dopo sconto. Su questo itinerario, la commutazione multi-rete serve soprattutto come copertura di riserva negli spazi sotterranei. Nei quartieri di grattacieli come Shinjuku e Roppongi, diverse reti possono avere diverse intensità di segnale a diversi piani.
 
-Se state usando un iPhone e installate un'eSIM per la prima volta, consultate il [tutorial di attivazione eSIM per iPhone](/faq/how-to-activate-esim-on-iphone/). Se incontrate problemi di connessione, la [guida alla risoluzione dei problemi eSIM](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) può aiutarvi a diagnosticare rapidamente.
+Se state usando un iPhone e installate un'eSIM per la prima volta, consultate il [tutorial di attivazione eSIM per iPhone](/faq/how-to-activate-esim-on-iphone/). Se incontrate problemi di connessione, la [guida alla risoluzione dei problemi eSIM](/faq/esim-deep-troubleshooting-guide-2026/) può aiutarvi a diagnosticare rapidamente.
 
 ### Scenario 4: Escursione nelle Alpi giapponesi (Rotta alpina Tateyama Kurobe, 4-5 giorni)
 

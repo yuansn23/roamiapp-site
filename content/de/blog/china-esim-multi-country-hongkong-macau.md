@@ -37,10 +37,10 @@ recentPosts:
     permalink: "/compatibility/"
     date: "2026-05-26"
   - title: "2026 Plattformübergreifende eSIM-Übertragung"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Dual-eSIM funktioniert nicht? 12 Behebungen für iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Vollständige Liste der Smartwatch-eSIM-Kompatibilität"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -52,7 +52,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 Ultimativer Leitfaden: iPhone 17 eSIM-Aktivierungslösungen"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 China, Hongkong und Macau sind drei separate Telekommunikationsgebiete. Eine einzige China-Hongkong-Macau-eSIM deckt alle drei Gebiete ab, aber eine China-only-eSIM stellt an der Hongkong-Grenze ihren Dienst ein. Eine Hongkong-eSIM funktioniert nicht im chinesischen Festland. Multi-Land-Optionen umfassen 3HK (8GB/365 Tage für $18, deckt Asien ab), CMHK (5GB/30 Tage mit HK-Telefonnummer für $15) und Airalo-Asien-Regionaltarife. Dieser Leitfaden behandelt die technischen Unterschiede. Laut [GSMA](https://www.gsma.com) erfordert eSIM-Roaming über Regionen hinweg spezifische Carrier-Vereinbarungen. Informationen zur Gerätekompatibilität finden Sie unter [Apple Support](https://support.apple.com/en-us/HT212780). Dieser Leitfaden bietet Multi-Land-Tarifvergleiche mit Preisen, Lösungen für grenzüberschreitendes Switching und Empfehlungen nach Reiseart. [Ookla](https://www.speedtest.net/global-index) liefert unabhängige Netzwerkleistungsdaten für asiatische Märkte.

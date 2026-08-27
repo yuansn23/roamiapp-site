@@ -38,10 +38,10 @@ recentPosts:
     permalink: "/compatibility/"
     date: "2026-05-26"
   - title: "Plattformübergreifende eSIM-Übertragung 2026"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Dual-eSIM funktioniert nicht? 12 Lösungen für iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Smartwatch-eSIM-Kompatibilitätsliste (vollständig)"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -53,7 +53,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "Ultimativer Leitfaden 2026: iPhone 17 eSIM-Aktivierungslösungen"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 Eine vierköpfige Familie verbraucht während einer zweiwöchigen Deutschlandreise 30-50 GB Daten auf ihren Geräten. Ein Student kann 40-70 % sparen, indem er einen lokalen Prepaid-Tarif wie Aldi Talk (EUR 10-13/Monat für 10 GB) einem internationalen eSIM-Tarif (EUR 18-30) vorzieht. Jeder Reisetyp – Familien, Studenten, Rucksacktouristen, Sprachschüler und medizinische Besucher – benötigt ein anderes Datenvolumen, eine andere Tariflaufzeit und ein anderes Budget. Die falsche Wahl kostet entweder Geld oder Konnektivität in dem Moment, in dem Sie sie am meisten brauchen.

@@ -149,7 +149,7 @@ Todos os modelos de iPhone a partir do **iPhone XS, XR e posteriores** suportam 
 - **Modelos dos USA (iPhone 14 e mais novos):** Apenas eSIM – sem bandeja de SIM físico. Perfeito para viagens – você deve usar eSIM de qualquer forma.
 - **Modelos internacionais:** Geralmente têm um SIM físico + eSIM. Você pode manter seu SIM físico doméstico para chamadas e usar um eSIM para dados.
 
-> 📱 **Atualizando antes de uma viagem?** Nosso **[Guia Completo do iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** mostra como ativar qualquer eSIM no hardware mais recente.
+> 📱 **Atualizando antes de uma viagem?** Nosso **[Guia Completo do iPhone 17 eSIM](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** mostra como ativar qualquer eSIM no hardware mais recente.
 
 ---
 
@@ -231,7 +231,7 @@ Ao chegar ao seu destino:
 
 > ⚠️ **Se você tem um iPhone apenas eSIM (modelo dos USA):** Seu eSIM doméstico pode tentar fazer roaming. Para evitar cobranças, desative o **Roaming de Dados** para a linha doméstica e/ou desative “Permitir Alternância de Dados Celulares.”
 
-Se você encontrar problemas, consulte nosso [guia de solução de problemas eSIM](/faq/eSIM-Deep-Troubleshooting-Guide-2026/).
+Se você encontrar problemas, consulte nosso [guia de solução de problemas eSIM](/faq/esim-deep-troubleshooting-guide-2026/).
 
 ---
 
@@ -282,7 +282,7 @@ Para melhores resultados:
 - Ative **Permitir Alternância de Dados Celulares** – o telefone pode usar os dados do eSIM de viagem para o Wi-Fi Calling da sua linha doméstica.
 - Desative **“Enviar como SMS”** para iMessage se seu plano doméstico tiver SMS caro.
 
-> 📖 **Dual SIM não está se comportando?** Consulte nosso **[Dual eSIM Não Funciona? 12 Correções para iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** para conflitos CDMA, erros T‑ADS e correções de drenagem de bateria.
+> 📖 **Dual SIM não está se comportando?** Consulte nosso **[Dual eSIM Não Funciona? 12 Correções para iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** para conflitos CDMA, erros T‑ADS e correções de drenagem de bateria.
 
 ---
 
@@ -330,7 +330,7 @@ Se não houver conexão após 2 minutos:
 - Reinicie seu iPhone.
 - Selecione manualmente uma rede: `Configurações` > `Celular` > eSIM de viagem > `Seleção de Rede` → desative Automático → escolha uma operadora local manualmente.
 
-> 🔄 **Trocando de telefone durante a viagem?** Você pode precisar **[transferir seu eSIM](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** – nosso guia cobre a transferência entre iPhone e Android entre plataformas.
+> 🔄 **Trocando de telefone durante a viagem?** Você pode precisar **[transferir seu eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/)** – nosso guia cobre a transferência entre iPhone e Android entre plataformas.
 
 ---
 
@@ -359,7 +359,7 @@ A maioria das redes celulares de navios de cruzeiro não é coberta por eSIMs de
 A maioria dos provedores permite recarga instantânea pelo aplicativo – sem necessidade de novo código QR. Basta comprar um pacote de dados adicional.
 
 **P7: O eSIM é seguro? Alguém pode hackeá-lo?**  
-Os eSIMs são mais seguros que os SIMs físicos. Eles estão em conformidade com o padrão SGP.21 da GSMA, que previne clonagem ou extração. Consulte a **[visão geral de segurança eSIM em nosso guia do iPhone 17](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/#5-esim-security-advantages-why-more-reliable-than-physical-sim)**.
+Os eSIMs são mais seguros que os SIMs físicos. Eles estão em conformidade com o padrão SGP.21 da GSMA, que previne clonagem ou extração. Consulte a **[visão geral de segurança eSIM em nosso guia do iPhone 17](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/#5-esim-security-advantages-why-more-reliable-than-physical-sim)**.
 
 **P8: Qual é o melhor eSIM de viagem para a Europa?**  
 Para a maioria dos viajantes, os planos regionais Europa da Roami ou Airalo oferecem o melhor custo-benefício. Planos **eSIM Europa** normalmente cobrem mais de 30 países.

@@ -252,7 +252,7 @@ eSIM etkinleştirmeyi denemeden önce, şu iki kritik kutuyu işaretlediğinizde
 * **Neden olur:** Wi-Fi bağlantınız koptu veya bulunduğunuz konumdaki operatör ağı zayıf.
 * **Çözüm:** eSIM'i silmeyin. 30 saniyeliğine **Uçak Modu**'nu açın, ardından kapatın. Hala takılıysa, telefonunuzu yeniden başlatın. Etkinleştirme genellikle arka planda devam eder ve tamamlanır.
 
-> **Daha ileri düzey yardıma mı ihtiyacınız var?** Çift eSIM sorunları, etkinleştirme döngüleri ve operatöre özel hataları kapsayan derinlemesine sorun giderme için **[eSIM Derinlemesine Sorun Giderme Rehberi 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)**'ne bakın. Özellikle iPhone'larda çift eSIM sorunları yaşıyorsanız, **[iPhone Çift eSIM Çalışmıyor mu? 12 Çözüm](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**'u inceleyin – bu çözümlerin çoğu diğer cihazlar için de geçerlidir.
+> **Daha ileri düzey yardıma mı ihtiyacınız var?** Çift eSIM sorunları, etkinleştirme döngüleri ve operatöre özel hataları kapsayan derinlemesine sorun giderme için **[eSIM Derinlemesine Sorun Giderme Rehberi 2026](/faq/esim-deep-troubleshooting-guide-2026/)**'ne bakın. Özellikle iPhone'larda çift eSIM sorunları yaşıyorsanız, **[iPhone Çift eSIM Çalışmıyor mu? 12 Çözüm](/faq/dual-esim-not-working-12-fixes-for-iphone/)**'u inceleyin – bu çözümlerin çoğu diğer cihazlar için de geçerlidir.
 
 ---
 
@@ -274,7 +274,7 @@ iPhone'da, **Ayarlar > Genel > Hakkında**'ya gidin ve **Dijital SIM** bölümü
 Evet. Birçok çevrimiçi **esim uyumluluk denetleyicisi** aracı IMEI numarasını kabul eder. Ayrıca o modelin üretici resmi özelliklerini de kontrol edebilirsiniz. Bu, özellikle eBay veya ikinci el pazaryerlerinden telefon satın alırken kullanışlıdır.
 
 **eSIM'imi eski telefonumdan yeni birine aktarabilir miyim?**
-Evet – ancak yöntem operatörünüze ve telefon modellerine bağlıdır. Her iki platform için adım adım talimatlar için **[eSIM iPhone ve Android Arasında Nasıl Aktarılır](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** bölümüne bakın.
+Evet – ancak yöntem operatörünüze ve telefon modellerine bağlıdır. Her iki platform için adım adım talimatlar için **[eSIM iPhone ve Android Arasında Nasıl Aktarılır](/faq/how-to-transfer-esim-between-iphone-and-android/)** bölümüne bakın.
 
 ---
 

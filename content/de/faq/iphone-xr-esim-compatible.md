@@ -159,7 +159,7 @@ Die **iphone xr esim aktivieren** dauert weniger als 2 Minuten. Führen Sie sie 
 
 Gehen Sie nach der Landung zu Einstellungen > Mobilfunk > eSIM und schalten Sie Datenroaming ein. Ohne dies wird Ihre eSIM keine Verbindung herstellen – das ist die häufigste Ursache für **eSIM kein Netz** nach der Aktivierung.
 
-Die **iphone xr esim einrichten** ist damit abgeschlossen. Für detaillierte Aktivierungsanleitungen auf anderen Geräten besuchen Sie unseren [iPhone 17 eSIM Komplett-Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/) – die Grundlagen gelten analog für das iPhone XR.
+Die **iphone xr esim einrichten** ist damit abgeschlossen. Für detaillierte Aktivierungsanleitungen auf anderen Geräten besuchen Sie unseren [iPhone 17 eSIM Komplett-Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/) – die Grundlagen gelten analog für das iPhone XR.
 
 
 ## Welche Anbieter funktionieren mit der iPhone XR eSIM?
@@ -270,7 +270,7 @@ Für die [Türkei eSIM](/turkey-esim/) gilt das gleiche Prinzip: Vor der Abreise
 
 Das iPhone XR unterstützt **Dual-SIM** mit einer aktiven physischen SIM und einer aktiven eSIM gleichzeitig. So vermeiden Sie teure Roaming-Gebühren und bleiben trotzdem erreichbar.
 
-Wenn Sie nach der Reise Ihr Gerät wechseln möchten, ist die [plattformübergreifende eSIM-Übertragung](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/) ab iOS 18 möglich – das iPhone XR unterstützt diese Funktion mit iOS 18 und neuer.
+Wenn Sie nach der Reise Ihr Gerät wechseln möchten, ist die [plattformübergreifende eSIM-Übertragung](/faq/how-to-transfer-esim-between-iphone-and-android/) ab iOS 18 möglich – das iPhone XR unterstützt diese Funktion mit iOS 18 und neuer.
 
 
 ## Liste der iPhones, die eSIM unterstützen – vollständige Modellübersicht
@@ -332,7 +332,7 @@ Nein. Das iPhone X (veröffentlicht 2017) hat keine eSIM-Hardware. Die ersten iP
 Nein. iPhone 8 und 8 Plus (2017) sind nur mit physischer SIM erhältlich. Sie unterstützen keine eSIM. Wenn Sie irgendwo **iphone 8 esim kompatibel** gesehen haben, ist das falsch. Nur iPhone XR und neuer (außer China-Modelle) haben eSIM.
 
 **Kann ich eine eSIM vom iPhone XR auf ein neues iPhone übertragen?**
-Ja – ab iOS 18 ist die eSIM-Schnellübertragung zwischen iPhones möglich. Legen Sie einfach Ihr altes iPhone XR neben Ihr neues iPhone und folgen Sie den Anweisungen. Bei Problemen hilft unser **[eSIM Cross-Platform Transfer Guide](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+Ja – ab iOS 18 ist die eSIM-Schnellübertragung zwischen iPhones möglich. Legen Sie einfach Ihr altes iPhone XR neben Ihr neues iPhone und folgen Sie den Anweisungen. Bei Problemen hilft unser **[eSIM Cross-Platform Transfer Guide](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 ---
 *Basierend auf Apple Support-Dokumenten, GSMA-Standards und Anbieterinformationen Stand Juni 2026. Die eSIM-Kompatibilität kann je nach Region und Anbieter variieren.*

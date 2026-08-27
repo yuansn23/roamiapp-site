@@ -286,7 +286,7 @@ Recomendamos começar com um **eSIM de teste gratuito** da [Roami](/pt/free-esim
 3. **Redefina as configurações de rede** – No iPad: Ajustes > Geral > Transferir ou Redefinir iPad > Redefinir > Redefinir Configurações de Rede. (Isso não exclui perfis eSIM, mas redefine Wi‑Fi e Bluetooth.)
 4. **Verifique se há atualização das configurações da operadora** – No iPad: Ajustes > Geral > Sobre – se uma atualização estiver disponível, um pop‑up aparecerá.
 
-Para solução de problemas mais aprofundada (incluindo problemas de dual‑eSIM no iPhone/iPad), veja nosso **[Guia de Solução de Problemas eSIM 2026](/pt/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** e **[Dual eSIM no iPhone Não Funciona? 12 Correções](/pt/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** – muitos princípios se aplicam também ao iPad.
+Para solução de problemas mais aprofundada (incluindo problemas de dual‑eSIM no iPhone/iPad), veja nosso **[Guia de Solução de Problemas eSIM 2026](/pt/faq/esim-deep-troubleshooting-guide-2026/)** e **[Dual eSIM no iPhone Não Funciona? 12 Correções](/pt/faq/dual-esim-not-working-12-fixes-for-iphone/)** – muitos princípios se aplicam também ao iPad.
 
 ---
 

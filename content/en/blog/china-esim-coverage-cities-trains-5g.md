@@ -37,10 +37,10 @@ recentPosts:
     permalink: "/compatibility/"
     date: "2026-05-26"
   - title: "2026 Cross-Platform eSIM Transfer"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Smartwatch eSIM Compatibility Complete List"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -52,7 +52,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 China Mobile covers over 99% of the population and is the primary network for most international eSIMs. Beijing, Shanghai, Guangzhou, and Shenzhen have full 5G coverage across all carriers. High-speed rail routes (Beijing-Shanghai, Beijing-Guangzhou) maintain 4G/5G for the vast majority of the journey. Rural villages have 3G/4G but slower speeds. Tibet, Xinjiang, Hong Kong, and Macau have specific limitations. This guide provides location-by-location coverage data, carrier comparisons, and practical signal assessments.

@@ -39,7 +39,7 @@ banner:
   alt: 우크라이나 최고의 eSIM
   title: 우크라이나 최고의 eSIM
 hero:
-  flag_image: img/flags/uk.svg
+  flag_image: img/flags/ua.svg
   flag_alt: 우크라이나 국기
   title: '우크라이나 eSIM: 어디서나 연결 상태 유지'
   subtitle: 숨겨진 수수료 없음 | 걱정 없는 인터넷 | 24/7 지원 - 우크라이나 여행객을 위한 최고의 선불 eSIM

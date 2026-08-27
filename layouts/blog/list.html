@@ -116,9 +116,9 @@
 {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    "name": {{ .Params.hero.title | default .Title | jsonify }},
-    "description": {{ .Params.hero.subtitle | default .Site.Params.description | jsonify }},
-    "url": {{ .Permalink | jsonify }},
+    "name": {{ .Params.hero.title | default .Title | jsonify | safeJS }},
+    "description": {{ .Params.hero.subtitle | default .Site.Params.description | jsonify | safeJS }},
+    "url": {{ .Permalink | jsonify | safeJS }},
     "mainEntity": {
         "@type": "ItemList",
         "itemListElement": [
@@ -134,19 +134,19 @@
                 "position": {{ add $idx 1 }},
                 "item": {
                     "@type": "Article",
-                    "headline": {{ $post.title | jsonify }},
-                    "url": {{ $postURL | jsonify }},
-                    "description": {{ $post.description | jsonify }},
-                    "datePublished": {{ $postDateISO | jsonify }},
-                    "dateModified": {{ $postDateISO | jsonify }},
+                    "headline": {{ $post.title | jsonify | safeJS }},
+                    "url": {{ $postURL | jsonify | safeJS }},
+                    "description": {{ $post.description | jsonify | safeJS }},
+                    "datePublished": {{ $postDateISO | jsonify | safeJS }},
+                    "dateModified": {{ $postDateISO | jsonify | safeJS }},
                     "author": {
                         "@type": "Person",
-                        "name": {{ $post.author | default "Unknown" | jsonify }}
+                        "name": {{ $post.author | default "Unknown" | jsonify | safeJS }}
                     },
                     {{- if $post.image }}
-                    "image": {{ $imageURL | jsonify }},
+                    "image": {{ $imageURL | jsonify | safeJS }},
                     {{- end }}
-                    "mainEntityOfPage": {{ $postURL | jsonify }}
+                    "mainEntityOfPage": {{ $postURL | jsonify | safeJS }}
                 }
             }{{- if lt $idx (sub $len 1) }},{{- end }}
         {{- end }}
@@ -240,7 +240,7 @@
    <h2 class="text-xl font-bold text-slate-900 mb-6 text-center">{{ i18n "popular_destinations" }}</h2>
     <div class="country-grid">
         {{ range .Params.featured_products }}
-        {{ $productSlug := .slug | default (urlize .name) }}
+        {{ $productSlug := .slug | default (urlize .name) | lower }}
         {{/* 构建链接：语言前缀 + slug + "-esim/" */}}
         {{ $esimLink := printf "%s/%s-esim/" $.Site.LanguagePrefix $productSlug }}
         <a href="{{ $esimLink }}" class="country-card group bg-white rounded-xl border border-slate-200 p-4 text-center hover:shadow-md transition hover:border-blue-300 block">
@@ -307,11 +307,11 @@
 <script>
     // 从 Hugo front matter 中读取分页文案，注入到 JavaScript
     const paginationTexts = {
-        prev: {{ .Params.pagination.prev | default "← Back" | jsonify }},
-        next: {{ .Params.pagination.next | default "Next →" | jsonify }},
-        showingLabel: {{ .Params.pagination.showingLabel | default "Showing posts" | jsonify }},
-        ofLabel: {{ .Params.pagination.ofLabel | default "of" | jsonify }},
-        totalLabel: {{ .Params.pagination.totalLabel | default "total" | jsonify }}
+        prev: {{ .Params.pagination.prev | default "← Back" | jsonify | safeJS }},
+        next: {{ .Params.pagination.next | default "Next →" | jsonify | safeJS }},
+        showingLabel: {{ .Params.pagination.showingLabel | default "Showing posts" | jsonify | safeJS }},
+        ofLabel: {{ .Params.pagination.ofLabel | default "of" | jsonify | safeJS }},
+        totalLabel: {{ .Params.pagination.totalLabel | default "total" | jsonify | safeJS }}
     };
     
     // 配置

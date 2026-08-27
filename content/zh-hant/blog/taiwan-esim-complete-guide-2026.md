@@ -59,10 +59,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "2026 跨平台 eSIM 轉移"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "雙 eSIM 無法運作？12 個 iPhone 解決方法"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "智慧手錶 eSIM 相容性完整列表"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -74,7 +74,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 終極指南：iPhone 17 eSIM 啟用解決方案"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -180,7 +180,7 @@ recentPosts:
 | **台灣預付卡支援** | 僅中華、台哥大機場方案 | 三大電信全支援 |
 
 **建議**：若您使用非中國版 iPhone 或近年 Android 旗艦機，且希望保留原 SIM 卡槽（例如原門號漫遊），eSIM 最佳。否則實體 SIM 同樣方便。  
-若您遇到雙卡雙 eSIM 的相關問題（例如 iPhone 同時使用兩個 eSIM），可參考 [iPhone 雙 eSIM 無法運作？12 種修復方法](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)。
+若您遇到雙卡雙 eSIM 的相關問題（例如 iPhone 同時使用兩個 eSIM），可參考 [iPhone 雙 eSIM 無法運作？12 種修復方法](/faq/dual-esim-not-working-12-fixes-for-iphone/)。
 
 
 ## 常見問題（實戰導向）
@@ -199,10 +199,10 @@ recentPosts:
 
 **Q5：eSIM 安裝失敗怎麼辦？**
 確認手機已連線 Wi-Fi、QR 碼未過期（通常 7 天）。重新開機後再試。若仍失敗，請回機場或門市重新產生 QR 碼。  
-如果您想深入解決各種 eSIM 問題，可以閱讀 [eSIM 深度故障排除指南 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)，或參考 [如何在 iPhone 與 Android 之間轉移 eSIM](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)。
+如果您想深入解決各種 eSIM 問題，可以閱讀 [eSIM 深度故障排除指南 2026](/faq/esim-deep-troubleshooting-guide-2026/)，或參考 [如何在 iPhone 與 Android 之間轉移 eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/)。
 
 **Q6：換新手機時，eSIM 如何轉移？**
-若保留原 QR 碼，可直接在新手機重新掃描。若已遺失，需向電信商申請補發（費用約 NT$300）。iPhone 在 iOS 17.4 以上支援近距離快速轉移；Android 部分機種（如 Pixel）也支援轉移。詳細步驟請參考 [2026 跨平台 eSIM 轉移](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)。
+若保留原 QR 碼，可直接在新手機重新掃描。若已遺失，需向電信商申請補發（費用約 NT$300）。iPhone 在 iOS 17.4 以上支援近距離快速轉移；Android 部分機種（如 Pixel）也支援轉移。詳細步驟請參考 [2026 跨平台 eSIM 轉移](/faq/how-to-transfer-esim-between-iphone-and-android/)。
 
 
 ## 總結：依需求選擇

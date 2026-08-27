@@ -642,7 +642,7 @@
   "@type": "FAQPage",
   "mainEntity": [
     {{ range $i, $f := $faq }}
-    {"@type":"Question","name":{{ $f.question | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ $f.answer | jsonify }}}}{{ if lt $i (sub (len $faq) 1) }},{{ end }}
+    {"@type":"Question","name":{{ $f.question | jsonify | safeJS }},"acceptedAnswer":{"@type":"Answer","text":{{ $f.answer | jsonify | safeJS }}}}{{ if lt $i (sub (len $faq) 1) }},{{ end }}
     {{ end }}
   ]
 }

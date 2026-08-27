@@ -27,21 +27,21 @@
       "@graph": [
         {
           "@type": "WebSite",
-          "@id": {{ printf "%s#website" .Site.BaseURL | jsonify }},
-          "name": {{ .Site.Title | jsonify }},
-          "url": {{ .Site.BaseURL | jsonify }},
+          "@id": {{ printf "%s#website" .Site.BaseURL | jsonify | safeJS }},
+          "name": {{ .Site.Title | jsonify | safeJS }},
+          "url": {{ .Site.BaseURL | jsonify | safeJS }},
           "potentialAction": {
             "@type": "SearchAction",
-            "target": {{ printf "%s?search={search_term_string}" .Permalink | jsonify }},
+            "target": {{ printf "%s?search={search_term_string}" .Permalink | jsonify | safeJS }},
             "query-input": "required name=search_term_string"
           }
         },
         {
           "@type": "Organization",
-          "@id": {{ printf "%s#organization" .Site.BaseURL | jsonify }},
-          "name": {{ .Site.Title | jsonify }},
-          "url": {{ .Site.BaseURL | jsonify }},
-          "logo": {{ printf "%simg/logo.png" .Site.BaseURL | absLangURL | jsonify }},
+          "@id": {{ printf "%s#organization" .Site.BaseURL | jsonify | safeJS }},
+          "name": {{ .Site.Title | jsonify | safeJS }},
+          "url": {{ .Site.BaseURL | jsonify | safeJS }},
+          "logo": {{ "img/logo.png" | absURL | jsonify | safeJS }},
           "sameAs": [
             "https://www.facebook.com/roami",
             "https://www.instagram.com/roami",
@@ -51,16 +51,16 @@
         {{ if .Params.top_countries }}
         {
           "@type": "ItemList",
-          "name": {{ .Params.ui.schema_top_dest_name | default "Top eSIM Destinations" | jsonify }},
-          "description": {{ .Params.ui.schema_top_dest_desc | default "Most popular eSIM destinations for travelers" | jsonify }},
+          "name": {{ .Params.ui.schema_top_dest_name | default "Top eSIM Destinations" | jsonify | safeJS }},
+          "description": {{ .Params.ui.schema_top_dest_desc | default "Most popular eSIM destinations for travelers" | jsonify | safeJS }},
           "itemListElement": [
             {{ range $index, $item := .Params.top_countries }}
             {{ if gt $index 0 }},{{ end }}
             {
               "@type": "ListItem",
               "position": {{ add $index 1 }},
-              "name": {{ printf "%s %s" $item.name ($.Params.ui.schema_esim_suffix | default "eSIM") | jsonify }},
-              "url": {{ if $item.slug }}{{ printf "/%s-esim/" ($item.slug | lower) | absLangURL | jsonify }}{{ else }}{{ printf "/%s-esim/" (($item.name | urlize) | lower) | absLangURL | jsonify }}{{ end }}
+              "name": {{ printf "%s %s" $item.name ($.Params.ui.schema_esim_suffix | default "eSIM") | jsonify | safeJS }},
+              "url": {{ if $item.slug }}{{ printf "/%s-esim/" ($item.slug | lower) | absLangURL | jsonify | safeJS }}{{ else }}{{ printf "/%s-esim/" (($item.name | urlize) | lower) | absLangURL | jsonify | safeJS }}{{ end }}
             }
             {{ end }}
           ]
@@ -68,8 +68,8 @@
         {{ end }}
         {
           "@type": "ItemList",
-          "name": {{ .Params.ui.schema_product_list_name | default "eSIM Data Plans for Global Travel" | jsonify }},
-          "description": {{ .Params.ui.schema_product_list_desc | default "Browse our selection of eSIM data plans for countries worldwide. Instant activation, 5G/4G coverage." | jsonify }},
+          "name": {{ .Params.ui.schema_product_list_name | default "eSIM Data Plans for Global Travel" | jsonify | safeJS }},
+          "description": {{ .Params.ui.schema_product_list_desc | default "Browse our selection of eSIM data plans for countries worldwide. Instant activation, 5G/4G coverage." | jsonify | safeJS }},
           "numberOfItems": {{ add (len .Params.top_countries) (len .Params.all_countries) }},
           "itemListElement": [
             {{ $allProducts := slice }}
@@ -84,15 +84,15 @@
             {{ $destName := $item.name }}
             {{ $destSlug := $item.slug | default ($destName | urlize) }}
             {{ $destURL := printf "/%s-esim/" ($destSlug | lower) | absLangURL }}
-            {{ $flagURL := printf "/img/flags/%s.svg" $item.code | absLangURL }}
+            {{ $flagURL := printf "/img/flags/%s.svg" $item.code | absURL }}
             {
               "@type": "ListItem",
               "position": {{ add $index 1 }},
               "item": {
                 "@type": "Product",
-                "name": {{ printf "%s %s" $destName ($.Params.ui.schema_esim_suffix | default "eSIM") | jsonify }},
-                "description": {{ printf "%s %s" $destName ($.Params.ui.schema_product_desc_suffix | default "travel eSIM data plan with 5G/4G coverage. Stay connected instantly with local rates.") | jsonify }},
-                "image": {{ $flagURL | jsonify }},
+                "name": {{ printf "%s %s" $destName ($.Params.ui.schema_esim_suffix | default "eSIM") | jsonify | safeJS }},
+                "description": {{ printf "%s %s" $destName ($.Params.ui.schema_product_desc_suffix | default "travel eSIM data plan with 5G/4G coverage. Stay connected instantly with local rates.") | jsonify | safeJS }},
+                "image": {{ $flagURL | jsonify | safeJS }},
                 "brand": {
                   "@type": "Brand",
                   "name": "Roami"
@@ -100,15 +100,15 @@
                 "category": "eSIM Data Plan",
                 "offers": {
                   "@type": "AggregateOffer",
-                  "lowPrice": {{ $priceValue | jsonify }},
-                  "highPrice": {{ $priceHigh | jsonify }},
-                  "priceCurrency": {{ $currency | jsonify }},
+                  "lowPrice": {{ $priceValue | jsonify | safeJS }},
+                  "highPrice": {{ $priceHigh | jsonify | safeJS }},
+                  "priceCurrency": {{ $currency | jsonify | safeJS }},
                   "offerCount": "1",
                   "availability": "https://schema.org/InStock",
-                  "url": {{ $destURL | jsonify }},
+                  "url": {{ $destURL | jsonify | safeJS }},
                   "eligibleRegion": {
                     "@type": "Country",
-                    "name": {{ $destName | jsonify }}
+                    "name": {{ $destName | jsonify | safeJS }}
                   },
                   "seller": {
                     "@type": "Organization",

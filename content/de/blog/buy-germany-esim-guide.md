@@ -59,10 +59,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "2026 plattformübergreifende eSIM-Übertragung"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Dual-eSIM funktioniert nicht? 12 Behebungen für iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Smartwatch-eSIM-Kompatibilität – vollständige Liste"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -74,7 +74,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 Ultimate Guide: iPhone 17 eSIM-Aktivierungslösungen"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -86,7 +86,7 @@ recentPosts:
 > - **Deutschland hat „Funklöcher“** – das Wort ist in den deutschen Alltagssprachgebrauch eingegangen. Fährst du 20 km außerhalb einer Stadt, brechen einige Netze – insbesondere O2 – dramatisch ein. Die Telekom hat die beste ICE- + ländliche Abdeckung; Vodafone ist in Bayern am stärksten.
 > - **Die Roami Deutschland eSIM 7-Tage 10GB kostet nur 7,99 $ nach Rabattcode web20**, mit intelligentem Switching zwischen Telekom, Vodafone und O2. Verwende den Rabattcode **web20** für 20 % Rabatt. Kostenlose Testversion verfügbar.
 
-Bei der Planung deiner Reise nach Deutschland ist die Wahl der richtigen **Deutschland eSIM** entscheidend. Eine vollständige Einführung in die eSIM-Technologie findest du in unserem [Was ist eSIM? Leitfaden](/faq/What-Is-eSIM/). Hilfe zur Aktivierung findest du in unserem [eSIM-Aktivierungsleitfaden](/faq/how-to-activate-an-esim/).
+Bei der Planung deiner Reise nach Deutschland ist die Wahl der richtigen **Deutschland eSIM** entscheidend. Eine vollständige Einführung in die eSIM-Technologie findest du in unserem [Was ist eSIM? Leitfaden](/faq/what-is-esim/). Hilfe zur Aktivierung findest du in unserem [eSIM-Aktivierungsleitfaden](/faq/how-to-activate-an-esim/).
 
 ---
 
@@ -209,7 +209,7 @@ Nachfolgend sind die offiziellen **Deutschland eSIM**-Preise von Roami für Juni
 
 **Airalos Deutschland eSIM** verwendet typischerweise nur das Telekom-Einzelnetz – kein Wechsel zu Vodafone oder O2. In der Hochgeschwindigkeits-Übergabeumgebung von ICE-Zügen und ländlichen Funkloch-Gebieten schneidet eine Einzelnetz-eSIM weitaus schlechter ab als ein Multi-Netzwerk. Holafly verwendet normalerweise entweder Vodafone oder Telekom.
 
-**Roami** deckt alle drei Netze ab und wechselt automatisch. Erstnutzer können mit einem [kostenlosen eSIM-Angebot](/free-esim/) starten, um die reale Abdeckung der drei deutschen Netze zu testen. Bei Installationsproblemen siehe den [iPhone-Aktivierungsleitfaden](/faq/how-to-activate-esim-on-iphone/) oder den [allgemeinen Einrichtungsleitfaden](/faq/How-To-Activate-an-eSIM/).
+**Roami** deckt alle drei Netze ab und wechselt automatisch. Erstnutzer können mit einem [kostenlosen eSIM-Angebot](/free-esim/) starten, um die reale Abdeckung der drei deutschen Netze zu testen. Bei Installationsproblemen siehe den [iPhone-Aktivierungsleitfaden](/faq/how-to-activate-esim-on-iphone/) oder den [allgemeinen Einrichtungsleitfaden](/faq/how-to-activate-an-esim/).
 
 ---
 
@@ -253,7 +253,7 @@ Nachfolgend sind die offiziellen **Deutschland eSIM**-Preise von Roami für Juni
 
 **Beste eSIM:** Roami Deutschland eSIM 30GB/15-Tage-Plan, 20,79 $ nach Rabatt. In einer so extrem überlasteten Umgebung wie dem Messegelände ist kein einziges Netz zuverlässig. Drei-Netz-Switching, das auf verschiedenen Netzen nach verfügbarer Bandbreite sucht, ist die optimale Strategie. Wenn das Budget nicht im Vordergrund steht, lässt der Unlimited-Plan (31,99 $ nach Rabatt) Geschäftsnutzer Datenlimits vergessen. Wenn Hotspot-Sharing benötigt wird, unterstützt Roami vollen Hotspot (anders als Holafly mit 500 MB/Tag-Limit).
 
-Weitere detaillierte Reise-eSIM-Anleitungen findest du in unserem [Reise-eSIM 2026 Leitfaden](/faq/Travel-eSIM-2026-How-to-Avoid-Roaming-Fees-Stay-Connected-Abroad/).
+Weitere detaillierte Reise-eSIM-Anleitungen findest du in unserem [Reise-eSIM 2026 Leitfaden](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/).
 
 ---
 
@@ -267,7 +267,7 @@ Weitere detaillierte Reise-eSIM-Anleitungen findest du in unserem [Reise-eSIM 20
 4. **Benenne deine eSIM** – Nenne sie z.B. „Deutschland-Reise“ zur leichteren Identifizierung.
 5. **Aktiviere bei Ankunft** – Wenn du in Deutschland landest, gehe zu Einstellungen > Mobilfunk > [deine eSIM] > aktiviere Daten-Roaming.
 
-**Wichtig:** Installiere die eSIM vor deinem Abflug – du benötigst eine stabile WLAN-Verbindung für den Download. Detaillierte iPhone-Anleitungen findest du in unserem [iPhone 17 eSIM Komplettguide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/). Bei Problemen prüfe die [Gerätekompatibilität](/compatibility/), um sicherzustellen, dass dein Telefon eSIM unterstützt.
+**Wichtig:** Installiere die eSIM vor deinem Abflug – du benötigst eine stabile WLAN-Verbindung für den Download. Detaillierte iPhone-Anleitungen findest du in unserem [iPhone 17 eSIM Komplettguide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/). Bei Problemen prüfe die [Gerätekompatibilität](/compatibility/), um sicherzustellen, dass dein Telefon eSIM unterstützt.
 
 ---
 
@@ -307,7 +307,7 @@ Wenn weiterhin Probleme auftreten, siehe unseren [eSIM Deep Troubleshooting Guid
 
 **Offline-Google-Maps-Backup ist auf dem Land in Deutschland obligatorisch.** In einem Funkloch kannst du nichts aus irgendeiner App laden. Lade vor deiner Abfahrt Offline-Google-Karten für alle Gebiete herunter, die du durchfahren wirst.
 
-Wenn du in Deutschland zwei eSIMs gleichzeitig verwendest, deckt unser [Dual-eSIM funktioniert nicht? 12 Behebungen für iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)-Leitfaden CDMA-Konflikte, T-ADS-Fehler und Akkuentladungsbehebungen ab. Informationen zur Übertragung deiner eSIM auf ein neues Gerät findest du in unserem [eSIM-Plattformübergreifender Übertragungsleitfaden](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/).
+Wenn du in Deutschland zwei eSIMs gleichzeitig verwendest, deckt unser [Dual-eSIM funktioniert nicht? 12 Behebungen für iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)-Leitfaden CDMA-Konflikte, T-ADS-Fehler und Akkuentladungsbehebungen ab. Informationen zur Übertragung deiner eSIM auf ein neues Gerät findest du in unserem [eSIM-Plattformübergreifender Übertragungsleitfaden](/faq/how-to-transfer-esim-between-iphone-and-android/).
 
 ---
 

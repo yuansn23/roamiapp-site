@@ -167,7 +167,7 @@ Die **pixel 6 esim aktivieren** dauert weniger als 2 Minuten. Führen Sie sie **
 
 Für Google Fi-Nutzer: Das Pixel 6 ist eines der besten Telefone für **Google Fi eSIM** – installieren Sie einfach die Fi-App und aktivieren Sie es. Das Pixel 6 gehört zu den **google fi esim kompatiblen Telefonen**.
 
-Die **pixel 6 esim einrichten** ist damit abgeschlossen. Für detaillierte Aktivierungsanleitungen auf anderen Geräten besuchen Sie unseren [iPhone 17 eSIM Komplett-Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/) – die Grundlagen gelten analog für Android.
+Die **pixel 6 esim einrichten** ist damit abgeschlossen. Für detaillierte Aktivierungsanleitungen auf anderen Geräten besuchen Sie unseren [iPhone 17 eSIM Komplett-Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/) – die Grundlagen gelten analog für Android.
 
 
 ## Welche Anbieter funktionieren mit der Pixel 6 eSIM?
@@ -271,7 +271,7 @@ Für die [Türkei eSIM](/turkey-esim/) gilt das gleiche Prinzip: Vor der Abreise
 
 Das Pixel 6 unterstützt **Dual-SIM** mit einer aktiven physischen SIM und einer aktiven eSIM gleichzeitig. So vermeiden Sie teure Roaming-Gebühren und bleiben trotzdem erreichbar.
 
-Wenn Sie nach der Reise Ihr Gerät wechseln möchten, ist die [plattformübergreifende eSIM-Übertragung](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/) ab Android 15 möglich – das Pixel 6 erhält mit Android 15 diese Funktion.
+Wenn Sie nach der Reise Ihr Gerät wechseln möchten, ist die [plattformübergreifende eSIM-Übertragung](/faq/how-to-transfer-esim-between-iphone-and-android/) ab Android 15 möglich – das Pixel 6 erhält mit Android 15 diese Funktion.
 
 
 ## Was tun, wenn Ihr Pixel 6 keine eSIM anzeigt? (Sehr selten)

@@ -58,10 +58,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "Transfert eSIM multiplateforme 2026"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "La double eSIM ne fonctionne pas ? 12 correctifs pour iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Liste complète de compatibilité eSIM pour montres connectées"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -73,7 +73,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "Guide ultime 2026 : Solutions d'activation eSIM pour iPhone 17"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -97,7 +97,7 @@ Pendant plus d'une décennie, louer un appareil pocket Wi‑Fi après l'atterris
 
 **Coût :** Le pocket Wi‑Fi coûte environ 3 500‑5 600 ¥ (25‑40 $) pour 7 jours. Une eSIM coûte 870 ¥ (environ 5,99 $) pour 7 jours 5 Go, ou même moins avec des réductions. Économies de 70‑85 %.
 
-**Commodité :** Le pocket Wi‑Fi nécessite un appareil supplémentaire – le recharger, le transporter, ne pas le perdre, le retourner. Une eSIM vit à l'intérieur de votre téléphone – zéro appareil supplémentaire. Comprendre [le fonctionnement de l'eSIM](/faq/What-Is-eSIM/) révèle la nature de ce changement générationnel.
+**Commodité :** Le pocket Wi‑Fi nécessite un appareil supplémentaire – le recharger, le transporter, ne pas le perdre, le retourner. Une eSIM vit à l'intérieur de votre téléphone – zéro appareil supplémentaire. Comprendre [le fonctionnement de l'eSIM](/faq/what-is-esim/) révèle la nature de ce changement générationnel.
 
 **Fiabilité :** Le pocket Wi‑Fi tombe en panne de batterie (généralement 6‑8 heures). Une eSIM partage la batterie de votre téléphone, que vous rechargez déjà chaque nuit.
 
@@ -215,7 +215,7 @@ Vous trouverez ci-dessous les tarifs officiels de Roami pour l'eSIM Japon en jui
 
 **Meilleure eSIM :** Forfait Roami Japon 5 Go / 3 jours, 4,79 $ après réduction.
 
-Si vous utilisez un iPhone, consultez le [tutoriel d'activation eSIM pour iPhone](/faq/how-to-activate-esim-on-iphone/). Pour les problèmes de connexion, le [guide de dépannage eSIM](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) peut aider.
+Si vous utilisez un iPhone, consultez le [tutoriel d'activation eSIM pour iPhone](/faq/how-to-activate-esim-on-iphone/). Pour les problèmes de connexion, le [guide de dépannage eSIM](/faq/esim-deep-troubleshooting-guide-2026/) peut aider.
 
 ### Scénario 4 : Randonnée dans les Alpes japonaises (4-5 jours)
 
@@ -268,7 +268,7 @@ Si après l'activation de l'eSIM, aucun réseau de données n'est disponible :
 | **QR code non reconnu** | Code expiré ou mauvais scan | Demandez un nouveau code ; essayez la saisie manuelle |
 | **Hotspot ne fonctionne pas** | Forfait limite le partage | Vérifiez les conditions de votre forfait |
 
-Pour des problèmes plus complexes, consultez notre **[guide de dépannage eSIM avec 16 cas pratiques](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)**.
+Pour des problèmes plus complexes, consultez notre **[guide de dépannage eSIM avec 16 cas pratiques](/faq/esim-deep-troubleshooting-guide-2026/)**.
 
 ---
 

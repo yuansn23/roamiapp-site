@@ -42,7 +42,7 @@ banner:
   alt: Best eSIM for Ukraine
   title: Best eSIM for Ukraine
 hero:
-  flag_image: img/flags/uk.svg
+  flag_image: img/flags/ua.svg
   flag_alt: Ukraine Flag
   title: 'Ukraine eSIM: Stay Connected Everywhere You Go'
   subtitle: No hidden fees | Worry-free internet | 24/7 support - the best prepaid eSIM for Ukraine travelers

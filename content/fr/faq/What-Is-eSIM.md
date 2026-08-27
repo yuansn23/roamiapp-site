@@ -384,7 +384,7 @@ En choisissant une eSIM plutôt qu'une carte plastique, vous faites un geste con
 
 ## 10. Pourquoi utiliser une eSIM pour voyager ?
 
-> **📖 Pour un guide voyage complet :** Cette section donne un aperçu. Pour un **[guide détaillé sur les eSIM de voyage en 2026](/faq/Travel-eSIM-2026-How-to-Avoid-Roaming-Fees-Stay-Connected-Abroad/)** (destinations, prix, astuces anti-roaming), consultez notre article dédié.
+> **📖 Pour un guide voyage complet :** Cette section donne un aperçu. Pour un **[guide détaillé sur les eSIM de voyage en 2026](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/)** (destinations, prix, astuces anti-roaming), consultez notre article dédié.
 
 Cette technologie est l'outil idéal pour les voyageurs. Voici pourquoi :
 
@@ -481,7 +481,7 @@ La configuration d'une eSIM est conçue pour être simple et rapide. Voici les m
 Dans la plupart des cas, l'**APN** (Access Point Name) se configure automatiquement lors de l'installation du profil eSIM. Si ce n'est pas le cas et que vos données mobiles ne fonctionnent pas :
 1. Allez dans **Réglages** → **Données cellulaires** → sélectionnez votre eSIM → **Réseau de données cellulaires**.
 2. Saisissez l'APN fourni par votre opérateur (par exemple, `orange.fr` pour Orange, `sl2sfr` pour SFR).
-3. Pour un dépannage approfondi, consultez notre **[guide de dépannage eSIM avec 16 cas pratiques](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)**.
+3. Pour un dépannage approfondi, consultez notre **[guide de dépannage eSIM avec 16 cas pratiques](/faq/esim-deep-troubleshooting-guide-2026/)**.
 
 ### Sauvegarder son eSIM avant de changer de téléphone
 
@@ -491,7 +491,7 @@ Bonne nouvelle : avec iOS 19 et Android 15+, vos profils eSIM sont sauvegardés 
 
 ## 13. Où et comment acheter une eSIM ?
 
-> **📖 Guides d'achat par pays :** Pour des guides d'achat détaillés, consultez nos articles par destination : **[acheter un eSIM UK](/faq/How-to-Buy-a-UK-eSIM/)** ou notre **[sélection des meilleures eSIM USA](/faq/2026-Best-eSIM-Options-for-the-USA/)**.
+> **📖 Guides d'achat par pays :** Pour des guides d'achat détaillés, consultez nos articles par destination : **[acheter un eSIM UK](/faq/how-to-buy-a-uk-esim/)** ou notre **[sélection des meilleures eSIM USA](/faq/2026-best-esim-options-for-the-usa/)**.
 
 ### Option 1 : Via votre opérateur français
 Orange, SFR, Bouygues et Free proposent tous l'eSIM pour leurs forfaits, y compris leurs marques low-cost (Sosh, Red by SFR, B&YOU). Commandez via l'application ou l'espace client. C'est la solution idéale pour votre ligne principale en France.
@@ -530,7 +530,7 @@ Oui, absolument. Votre profil eSIM est stocké chez votre opérateur, sur son se
 Oui — Orange, SFR, Bouygues et Free proposent tous l'eSIM, y compris leurs marques à bas prix (Sosh, Red by SFR, B&YOU). Vérifiez que votre forfait est éligible dans votre espace client. Les opérateurs virtuels (MVNO) commencent également à proposer l'eSIM.
 
 **Q6 : Puis-je avoir deux eSIM actives en même temps sur mon iPhone ?**
-Oui, sur iPhone 13 et modèles plus récents, vous pouvez avoir deux eSIM actives simultanément — par exemple votre numéro français et une eSIM de voyage. Consultez notre guide **[Double eSIM ne fonctionne pas ? 12 solutions pour iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** pour résoudre les éventuels problèmes.
+Oui, sur iPhone 13 et modèles plus récents, vous pouvez avoir deux eSIM actives simultanément — par exemple votre numéro français et une eSIM de voyage. Consultez notre guide **[Double eSIM ne fonctionne pas ? 12 solutions pour iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** pour résoudre les éventuels problèmes.
 
 **Q7 : Une eSIM de voyage inclut-elle un numéro de téléphone pour les appels ?**
 La plupart des eSIM de voyage sont « données uniquement » (data-only). Elles n'incluent pas de numéro de téléphone pour les appels classiques. Vous pouvez parfaitement utiliser WhatsApp, FaceTime, iMessage, Telegram ou Skype pour communiquer via les données mobiles. Si vous avez besoin d'un numéro local, achetez une eSIM d'un opérateur local.
@@ -554,7 +554,7 @@ Sur iOS 19+ et Android 15+, vos profils eSIM sont sauvegardés automatiquement d
 C'est très simple. La plupart des opérateurs français proposent la **conversion de SIM physique en eSIM** sans changement de numéro. La procédure se fait généralement depuis l'application mobile de l'opérateur (option « Passer en eSIM ») et prend moins d'une heure. Vous recevez un QR code par email, vous le scannez, et votre numéro est transféré sur le nouveau profil eSIM. L'ancienne carte SIM physique est automatiquement désactivée.
 
 **Q14 : Quel est le meilleur eSIM pour voyager ?**
-Il n'existe pas de « meilleur eSIM » universel — tout dépend de votre destination, de la durée de votre séjour et de votre consommation de données. Pour un comparatif détaillé, consultez notre **[guide des meilleures eSIM pour les États-Unis](/faq/2026-Best-eSIM-Options-for-the-USA/)** ou notre **[sélection d'eSIM pour le Royaume-Uni](/faq/How-to-Buy-a-UK-eSIM/)**. En règle générale, comparez le prix au gigaoctet, la durée de validité et la qualité du réseau partenaire dans le pays visité. Les eSIM multi-réseaux (qui basculent automatiquement sur le meilleur signal disponible) offrent généralement la meilleure expérience.
+Il n'existe pas de « meilleur eSIM » universel — tout dépend de votre destination, de la durée de votre séjour et de votre consommation de données. Pour un comparatif détaillé, consultez notre **[guide des meilleures eSIM pour les États-Unis](/faq/2026-best-esim-options-for-the-usa/)** ou notre **[sélection d'eSIM pour le Royaume-Uni](/faq/how-to-buy-a-uk-esim/)**. En règle générale, comparez le prix au gigaoctet, la durée de validité et la qualité du réseau partenaire dans le pays visité. Les eSIM multi-réseaux (qui basculent automatiquement sur le meilleur signal disponible) offrent généralement la meilleure expérience.
 
 ---
 
@@ -595,7 +595,7 @@ Si vous utilisez encore une carte SIM physique, vous passez à côté de :
 3. Ou testez la technologie sans risque avec une **[eSIM gratuite](/free-esim/)** — vous verrez à quel point c'est simple.
 4. Pour approfondir, consultez notre **[guide complet d'activation eSIM](/faq/how-to-activate-an-esim/)**.
 
-**Besoin d'aide pour une destination spécifique ?** Consultez nos guides eSIM par pays : **[eSIM États-Unis](/united-states-esim/)** et bien d'autres destinations disponibles. Et si vous rencontrez des difficultés techniques, notre **[guide de dépannage eSIM avec 16 solutions concrètes](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** est là pour vous aider.
+**Besoin d'aide pour une destination spécifique ?** Consultez nos guides eSIM par pays : **[eSIM États-Unis](/united-states-esim/)** et bien d'autres destinations disponibles. Et si vous rencontrez des difficultés techniques, notre **[guide de dépannage eSIM avec 16 solutions concrètes](/faq/esim-deep-troubleshooting-guide-2026/)** est là pour vous aider.
 
 ---
 <script type="application/ld+json">

@@ -59,10 +59,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "2026 Cross-Platform eSIM Transfer"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Smartwatch eSIM Compatibility Complete List"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -74,7 +74,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -86,7 +86,7 @@ recentPosts:
 > - **Germany has "Funkloch" – signal holes** – the word has entered everyday German language. Drive 20km outside a city, and some networks – especially O2 – drop dramatically. Telekom has the best ICE + rural coverage; Vodafone is strongest in Bavaria.
 > - **Roami Germany eSIM 7-day 10GB is just $7.99 after discount code web20**, with smart switching across Telekom, Vodafone and O2. Use discount code **web20** for 20% off. Free trial available.
 
-When planning your trip to Germany, choosing the right **Germany eSIM** is essential. For a complete introduction to eSIM technology, see our [What is eSIM? guide](/faq/What-Is-eSIM/). For activation help, visit our [eSIM activation guide](/faq/how-to-activate-an-esim/).
+When planning your trip to Germany, choosing the right **Germany eSIM** is essential. For a complete introduction to eSIM technology, see our [What is eSIM? guide](/faq/what-is-esim/). For activation help, visit our [eSIM activation guide](/faq/how-to-activate-an-esim/).
 
 ---
 
@@ -209,7 +209,7 @@ Below are Roami's official **Germany eSIM** prices for June 2026. All Roami pric
 
 **Airalo's Germany eSIM** typically uses only the Telekom single network – no switching to Vodafone or O2. In the high-speed handover environment of ICE trains and rural Funkloch areas, a single-network eSIM performs far worse than multi-network. Holafly usually uses either Vodafone or Telekom.
 
-**Roami** covers all three networks and switches automatically. First-time users can start with a [free eSIM offer](/free-esim/) to test real-world coverage of Germany's three networks. If you encounter installation issues, see the [iPhone activation guide](/faq/how-to-activate-esim-on-iphone/) or [general setup guide](/faq/How-To-Activate-an-eSIM/).
+**Roami** covers all three networks and switches automatically. First-time users can start with a [free eSIM offer](/free-esim/) to test real-world coverage of Germany's three networks. If you encounter installation issues, see the [iPhone activation guide](/faq/how-to-activate-esim-on-iphone/) or [general setup guide](/faq/how-to-activate-an-esim/).
 
 ---
 
@@ -253,7 +253,7 @@ Below are Roami's official **Germany eSIM** prices for June 2026. All Roami pric
 
 **Best eSIM:** Roami Germany eSIM 30GB/15-day plan, $20.79 after discount. In such an extremely congested environment as the Messe, no single network is reliable. Three-network switching, seeking available bandwidth across different networks, is the optimal strategy. If budget is not the primary concern, the unlimited plan ($31.99 after discount) lets business users forget about data caps. When hotspot sharing is needed, Roami supports full hotspot (unlike Holafly's 500MB/day limit).
 
-For more detailed travel eSIM guidance, see our [Travel eSIM 2026 guide](/faq/Travel-eSIM-2026-How-to-Avoid-Roaming-Fees-Stay-Connected-Abroad/).
+For more detailed travel eSIM guidance, see our [Travel eSIM 2026 guide](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/).
 
 ---
 
@@ -267,7 +267,7 @@ For more detailed travel eSIM guidance, see our [Travel eSIM 2026 guide](/faq/Tr
 4. **Label your eSIM** – Name it "Germany Travel" for easy identification.
 5. **Activate on arrival** – When you land in Germany, go to Settings > Cellular > [your eSIM] > turn on Data Roaming.
 
-**Important:** Install the eSIM before you fly – you need a stable Wi-Fi connection for the download. For detailed iPhone instructions, see our [iPhone 17 eSIM Complete Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/). If you encounter issues, check [device compatibility](/compatibility/) to confirm your phone supports eSIM.
+**Important:** Install the eSIM before you fly – you need a stable Wi-Fi connection for the download. For detailed iPhone instructions, see our [iPhone 17 eSIM Complete Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/). If you encounter issues, check [device compatibility](/compatibility/) to confirm your phone supports eSIM.
 
 ---
 
@@ -307,7 +307,7 @@ If you continue to experience issues, see our [eSIM Deep Troubleshooting Guide (
 
 **Offline Google Maps backup is mandatory in rural Germany.** In a Funkloch, you cannot load anything from any app. Download offline Google Maps for all areas you will drive through before you leave.
 
-If you're using two eSIMs simultaneously in Germany, our [Dual eSIM Not Working? 12 Fixes for iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/) guide covers CDMA conflicts, T-ADS errors, and battery drain fixes. For transferring your eSIM to a new device, see our [eSIM Cross-Platform Transfer Guide](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/).
+If you're using two eSIMs simultaneously in Germany, our [Dual eSIM Not Working? 12 Fixes for iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/) guide covers CDMA conflicts, T-ADS errors, and battery drain fixes. For transferring your eSIM to a new device, see our [eSIM Cross-Platform Transfer Guide](/faq/how-to-transfer-esim-between-iphone-and-android/).
 
 ---
 

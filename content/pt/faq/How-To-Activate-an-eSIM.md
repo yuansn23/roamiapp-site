@@ -101,7 +101,7 @@ sidebar_questions:
 
 **O Resumo Principal:** Para ativar um eSIM, você precisa de um telefone desbloqueado por operadora, uma conexão Wi‑Fi estável e um código QR de eSIM do seu provedor. Navegue até as configurações celulares do seu telefone, selecione "Adicionar eSIM" ou "Adicionar Plano de Dados", digitalize o código QR e aguarde 1-2 minutos para o perfil digital ser baixado e instalado. Se você encontrar erros de **falha na ativação esim**, este guia cobre todas as correções.
 
-Para uma introdução geral à tecnologia eSIM, consulte nosso [guia O que é eSIM?](/faq/What-Is-eSIM/). Se você ainda tiver problemas após seguir este guia, nosso [Guia de Solução de Problemas de eSIM (16 casos reais)](/faq/esim-deep-troubleshooting-guide-2026/) cobre cenários avançados.
+Para uma introdução geral à tecnologia eSIM, consulte nosso [guia O que é eSIM?](/faq/what-is-esim/). Se você ainda tiver problemas após seguir este guia, nosso [Guia de Solução de Problemas de eSIM (16 casos reais)](/faq/esim-deep-troubleshooting-guide-2026/) cobre cenários avançados.
 
 
 ## Verificações Cruciais Antes de Iniciar a Ativação do eSIM
@@ -283,7 +283,7 @@ Transferir **eSIM entre iPhone e Android** raramente é suportado. A maioria das
 1. Entre em contato com sua operadora para solicitar um novo código QR de eSIM para o novo dispositivo.
 2. Ou, se estiver usando um eSIM de viagem, compre um novo plano para o novo dispositivo.
 
-Para instruções detalhadas sobre transferência entre plataformas, consulte [Como Transferir eSIM Entre iPhone e Android](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/).
+Para instruções detalhadas sobre transferência entre plataformas, consulte [Como Transferir eSIM Entre iPhone e Android](/faq/how-to-transfer-esim-between-iphone-and-android/).
 
 
 ## Usando Dual SIM com eSIM e SIM Físico – Melhores Práticas
@@ -317,7 +317,7 @@ Seu telefone suporta **Dual SIM Dual Standby (DSDS)**. Ambas as linhas permanece
 - **Chamadas vão para a linha errada:** Verifique sua configuração de Linha de Voz Padrão.
 - **Cobranças acidentais de roaming:** Certifique‑se de que o Roaming de Dados esteja DESLIGADO no seu SIM pessoal.
 
-Para mais solução de problemas de dual SIM, consulte nosso guia [Dual eSIM Não Funciona? 12 Correções para iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/).
+Para mais solução de problemas de dual SIM, consulte nosso guia [Dual eSIM Não Funciona? 12 Correções para iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/).
 
 
 ## Solução de Problemas de Falha na Ativação do eSIM – Correções Comuns

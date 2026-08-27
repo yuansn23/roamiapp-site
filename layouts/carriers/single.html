@@ -13,13 +13,13 @@
     <meta property="og:url" content="{{ .Permalink }}">
     
     <!-- SEO优化：增加 og:image 提升社交分享点击率 -->
-    {{ with .Params.image }}<meta property="og:image" content="{{ . | absURL }}">{{ else }}<meta property="og:image" content="{{ "/img/logo.png" | absLangURL }}">{{ end }}
+    {{ with .Params.image }}<meta property="og:image" content="{{ . | absURL }}">{{ else }}<meta property="og:image" content="{{ "/img/logo.png" | absURL }}">{{ end }}
     
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ .Title }}">
     <meta name="twitter:description" content="{{ .Description }}">
     <!-- SEO优化：增加 twitter:image -->
-    {{ with .Params.image }}<meta name="twitter:image" content="{{ . | absURL }}">{{ else }}<meta name="twitter:image" content="{{ "/img/logo.png" | absLangURL }}">{{ end }}
+    {{ with .Params.image }}<meta name="twitter:image" content="{{ . | absURL }}">{{ else }}<meta name="twitter:image" content="{{ "/img/logo.png" | absURL }}">{{ end }}
     
     <link href="/css/tailwind-compiled.css" rel="stylesheet">
     <style>
@@ -587,15 +587,15 @@
   {
     "@context": "https://schema.org",
     "@type": "Article",
-    "mainEntityOfPage": { "@type": "WebPage", "@id": {{ .Permalink | jsonify }} },
-    "headline": {{ .Title | jsonify }},
-    "description": {{ .Description | jsonify }},
-    "image": {{ if .Params.image }}{{ .Params.image | absURL | jsonify }}{{ else }}{{ "/img/logo.png" | absLangURL | jsonify }}{{ end }},
-    "author": { "@type": "Organization", "name": {{ .Params.brand_name | jsonify }} },
+    "mainEntityOfPage": { "@type": "WebPage", "@id": {{ .Permalink | jsonify | safeJS }} },
+    "headline": {{ .Title | jsonify | safeJS }},
+    "description": {{ .Description | jsonify | safeJS }},
+    "image": {{ if .Params.image }}{{ .Params.image | absURL | jsonify | safeJS }}{{ else }}{{ "/img/logo.png" | absURL | jsonify | safeJS }}{{ end }},
+    "author": { "@type": "Organization", "name": {{ .Params.brand_name | jsonify | safeJS }} },
     "publisher": { 
         "@type": "Organization", 
-        "name": {{ .Params.brand_name | jsonify }},
-        "logo": { "@type": "ImageObject", "url": {{ "/img/logo.png" | absLangURL | jsonify }} }
+        "name": {{ .Params.brand_name | jsonify | safeJS }},
+        "logo": { "@type": "ImageObject", "url": {{ "/img/logo.png" | absURL | jsonify | safeJS }} }
     }
   },
   {{ if .Params.breadcrumb_items }}
@@ -608,8 +608,8 @@
         {
           "@type": "ListItem",
           "position": {{ add $index 1 }},
-          "name": {{ $item.name | jsonify }},
-          "item": {{ if $item.url }}{{ if or (hasPrefix $item.url "http") (hasPrefix $item.url "#") }}{{ $item.url | safeURL | jsonify }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" $item.url)) | jsonify }}{{ end }}{{ else }}{{ $.Permalink | jsonify }}{{ end }}
+          "name": {{ $item.name | jsonify | safeJS }},
+          "item": {{ if $item.url }}{{ if or (hasPrefix $item.url "http") (hasPrefix $item.url "#") }}{{ $item.url | safeURL | jsonify | safeJS }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" $item.url)) | jsonify | safeJS }}{{ end }}{{ else }}{{ $.Permalink | jsonify | safeJS }}{{ end }}
         }{{ if lt (add $index 1) $len }},{{ end }}
       {{ end }}
     ]
@@ -623,10 +623,10 @@
       {{ range $index, $faq := .Params.faq }}
       {
         "@type": "Question",
-        "name": {{ $faq.q | jsonify }},
+        "name": {{ $faq.q | jsonify | safeJS }},
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": {{ $faq.a | plainify | jsonify }}
+          "text": {{ $faq.a | plainify | jsonify | safeJS }}
         }
       }{{ if lt (add $index 1) (len $.Params.faq) }},{{ end }}
       {{ end }}

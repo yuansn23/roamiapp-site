@@ -303,7 +303,7 @@
                 {{ end }}">
 
                 {{ range .cards }}
-                <a href="{{ printf "/%s/" .slug | relLangURL }}" 
+                <a href="{{ printf "/%s/" (.slug | lower) | relLangURL }}"
                 aria-label="View eSIM data plans and pricing for {{ .name }}"
                 class="dest-card group bg-white rounded-2xl border border-slate-200 text-center relative overflow-hidden flex flex-col h-full hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
 
@@ -674,7 +674,7 @@
         "name": "Roami",
         "operatingSystem": "iOS, Android",
         "applicationCategory": "TravelApplication",
-        "description": {{ i18n "software_description" | default "Global eSIM provider for high-speed travel connectivity." | jsonify }},
+        "description": {{ i18n "software_description" | default "Global eSIM provider for high-speed travel connectivity." | jsonify | safeJS }},
         "offers": {
             "@type": "Offer",
             "price": "0",
@@ -894,10 +894,10 @@
         "mainEntity": [
             {{ range $index, $item := .Params.faq.items }} {
                 "@type": "Question",
-                "name": {{ $item.q | jsonify }},
+                "name": {{ $item.q | jsonify | safeJS }},
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": {{ $item.a | jsonify }}
+                    "text": {{ $item.a | jsonify | safeJS }}
                 }
             } {{ if ne $index (sub (len $.Params.faq.items) 1) }}, {{ end }} {{ end }}
         ]

@@ -367,7 +367,7 @@ Avec iOS 19+, le transfert d'eSIM est quasi automatique :
 - **Google Pixel** : la sauvegarde Google One inclut les profils eSIM depuis Android 15.
 
 ### Transfert iPhone vers Android (ou inversement)
-C'est le scénario le plus complexe. Consultez notre **[guide complet de transfert eSIM multiplateforme](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** pour une procédure détaillée. En résumé :
+C'est le scénario le plus complexe. Consultez notre **[guide complet de transfert eSIM multiplateforme](/faq/how-to-transfer-esim-between-iphone-and-android/)** pour une procédure détaillée. En résumé :
 - Vous devez généralement contacter votre opérateur pour désactiver l'eSIM sur l'ancien appareil.
 - L'opérateur génère un nouveau QR code pour le nouvel appareil.
 - Certains opérateurs permettent le transfert via leur application mobile.
@@ -444,7 +444,7 @@ Si vous êtes un voyageur fréquent ou gérez plusieurs lignes, vous pouvez stoc
 | **eSIM installée mais affiche « Aucun service »** | Profil téléchargé mais pas enregistré sur le réseau local, ou itinérance désactivée | Activez la ligne eSIM ; activez le **mode Avion** pendant 30 secondes puis désactivez-le ; sélectionnez manuellement le réseau local dans « Sélection du réseau » |
 | **Activée avec succès, mais pas de connexion Internet** | Itinérance des données désactivée ou paramètres APN manquants/incorrects | Activez l'**itinérance des données** dans les paramètres eSIM ; configurez manuellement les **paramètres APN** (voir ci-dessous) |
 | **eSIM disparue après une mise à jour iOS/Android** | La mise à jour a réinitialisé la configuration eSIM | Redémarrez le téléphone ; si le problème persiste, réactivez l'eSIM via le code QR de votre opérateur ou contactez le support |
-| **Dual-SIM : un numéro ne reçoit pas d'appels** | Cache T-ADS obsolète ou conflit entre les lignes | Désactivez brièvement les appels Wi-Fi, redémarrez l'iPhone, réactivez. Plus de détails dans notre **[guide Dual-eSIM avec 12 solutions](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** |
+| **Dual-SIM : un numéro ne reçoit pas d'appels** | Cache T-ADS obsolète ou conflit entre les lignes | Désactivez brièvement les appels Wi-Fi, redémarrez l'iPhone, réactivez. Plus de détails dans notre **[guide Dual-eSIM avec 12 solutions](/faq/dual-esim-not-working-12-fixes-for-iphone/)** |
 | **« Impossible de configurer le forfait cellulaire » après plusieurs tentatives** | Limite de tentatives atteinte côté opérateur | Attendez 15 minutes et réessayez. Si le problème persiste, demandez un nouveau code QR à votre opérateur |
 | **Profil téléchargé mais l'opérateur n'apparaît pas dans la liste** | Profil incomplet ou corrompu | Supprimez le profil (Réglages > Données cellulaires > sélectionnez le profil > Supprimer) et réinstallez avec un nouveau QR code |
 
@@ -467,7 +467,7 @@ Si après l'activation, aucun réseau de données n'est disponible, les paramèt
 - **Bouygues / B&YOU :** APN = `mmsbouygtel.com` ou `ebouygtel.com` (nom d'utilisateur/mot de passe : vide)
 - **Free :** APN = `free` (nom d'utilisateur/mot de passe : vide)
 
-Pour des problèmes plus complexes — par exemple, si l'eSIM a disparu après une mise à jour iOS ou si le code de confirmation n'arrive pas — consultez notre **[guide de dépannage eSIM avec 16 cas pratiques](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)**.
+Pour des problèmes plus complexes — par exemple, si l'eSIM a disparu après une mise à jour iOS ou si le code de confirmation n'arrive pas — consultez notre **[guide de dépannage eSIM avec 16 cas pratiques](/faq/esim-deep-troubleshooting-guide-2026/)**.
 
 **⚠️ AVERTISSEMENT :** Ne touchez jamais à **« Supprimer l'eSIM »** ou **« Supprimer le forfait de données »** pour résoudre un problème de connexion. La suppression de l'eSIM détruit définitivement le profil numérique, et vous devrez en acheter un nouveau. Essayez d'abord le mode Avion, la sélection manuelle du réseau et les paramètres APN.
 
@@ -525,7 +525,7 @@ L'activation d'une eSIM est un processus rapide et simple — dans la plupart de
 - Pour les voyageurs : installez votre eSIM avant le départ — cela vous fait gagner du temps et évite le stress à l'arrivée.
 - Ne supprimez jamais un profil eSIM pour résoudre un problème de connexion — essayez d'abord le mode Avion et la sélection manuelle du réseau.
 
-L'avenir de la connectivité mobile est numérique. Avec ce guide, vous êtes parfaitement équipé pour activer votre eSIM sans problème et rester connecté partout dans le monde. Pour approfondir, consultez nos autres ressources : **[qu'est-ce que l'eSIM](/faq/What-Is-eSIM/)** pour comprendre la technologie, ou **[notre sélection de forfaits eSIM](/free-esim/)** pour trouver l'offre adaptée à vos besoins.
+L'avenir de la connectivité mobile est numérique. Avec ce guide, vous êtes parfaitement équipé pour activer votre eSIM sans problème et rester connecté partout dans le monde. Pour approfondir, consultez nos autres ressources : **[qu'est-ce que l'eSIM](/faq/what-is-esim/)** pour comprendre la technologie, ou **[notre sélection de forfaits eSIM](/free-esim/)** pour trouver l'offre adaptée à vos besoins.
 
 ---
 <script type="application/ld+json">

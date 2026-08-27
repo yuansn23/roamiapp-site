@@ -101,7 +101,7 @@ sidebar_questions:
 
 **Kısa ve Öz Özet:** esim nasıl alınır diye merak ediyorsanız, bir eSIM'i etkinleştirmek için operatör kilidi açılmış bir telefona, istikrarlı bir Wi-Fi bağlantısına ve sağlayıcınızdan bir eSIM QR koduna veya operatörünüzün esim uygulaması üzerinden gönderilen profile ihtiyacınız vardır. Telefonunuzun hücresel ayarlarına gidin, "eSIM Ekle" veya "Veri Planı Ekle" seçeneğini seçin, QR kodunu tarayın ve dijital profilin indirilip yüklenmesi için 1-2 dakika bekleyin. **esim etkinleştirme başarısız** hatalarıyla karşılaşırsanız, bu kılavuz her çözümü kapsar.
 
-eSIM teknolojisine genel bir giriş için [eSIM Nedir? kılavuzumuza](/faq/What-Is-eSIM/) bakın. Bu kılavuzu takip ettikten sonra hala sorun yaşıyorsanız, [eSIM Derin Sorun Giderme Kılavuzumuz (16 gerçek vaka)](/faq/esim-deep-troubleshooting-guide-2026/) gelişmiş senaryoları kapsar.
+eSIM teknolojisine genel bir giriş için [eSIM Nedir? kılavuzumuza](/faq/what-is-esim/) bakın. Bu kılavuzu takip ettikten sonra hala sorun yaşıyorsanız, [eSIM Derin Sorun Giderme Kılavuzumuz (16 gerçek vaka)](/faq/esim-deep-troubleshooting-guide-2026/) gelişmiş senaryoları kapsar.
 
 
 ## eSIM Etkinleştirmeye Başlamadan Önce Kritik Kontroller
@@ -283,7 +283,7 @@ Android aktarım yöntemleri markaya göre değişir, ancak Samsung ve Google Pi
 1. Yeni cihaz için yeni bir eSIM QR kodu talep etmek üzere operatörünüzle iletişime geçin.
 2. Veya bir seyahat eSIM'i kullanıyorsanız, yeni cihaz için yeni bir plan satın alın.
 
-Ayrıntılı platformlar arası aktarım talimatları için [eSIM iPhone ve Android Arasında Nasıl Aktarılır](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/) bölümüne bakın.
+Ayrıntılı platformlar arası aktarım talimatları için [eSIM iPhone ve Android Arasında Nasıl Aktarılır](/faq/how-to-transfer-esim-between-iphone-and-android/) bölümüne bakın.
 
 
 ## eSIM ve Fiziksel SIM ile Çift SIM Kullanımı – En İyi Uygulamalar
@@ -317,7 +317,7 @@ Telefonunuz **Çift SIM Çift Bekleme (DSDS)** özelliğini destekler. Her iki h
 - **Aramalar yanlış hatta gidiyor:** Varsayılan Ses Hattı ayarınızı kontrol edin.
 - **Yanlışlıkla dolaşım ücretleri:** Ev SIM'inizde Veri Dolaşımı'nın KAPALI olduğundan emin olun.
 
-Daha fazla çift SIM sorun giderme için [Çift eSIM Çalışmıyor mu? iPhone için 12 Düzeltme](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/) kılavuzumuza bakın.
+Daha fazla çift SIM sorun giderme için [Çift eSIM Çalışmıyor mu? iPhone için 12 Düzeltme](/faq/dual-esim-not-working-12-fixes-for-iphone/) kılavuzumuza bakın.
 
 
 ## eSIM Etkinleştirme Başarısız Hatalarını Giderme – Yaygın Çözümler

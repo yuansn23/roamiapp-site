@@ -58,10 +58,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "Transfert eSIM multiplateforme 2026"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "La double eSIM ne fonctionne pas ? 12 correctifs pour iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Liste complète de compatibilité eSIM pour montres connectées"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -73,7 +73,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "Guide ultime 2026 : Solutions d'activation eSIM pour iPhone 17"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -223,7 +223,7 @@ Vous trouverez ci-dessous les tarifs officiels de Roami pour l'eSIM Australie en
 
 **Meilleure eSIM :** Forfait Roami Australie 5 Go / 7 jours, 5,59 $ après réduction.
 
-Pour les problèmes d'eSIM sur les itinéraires isolés, consultez le **[guide de dépannage eSIM](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)**.
+Pour les problèmes d'eSIM sur les itinéraires isolés, consultez le **[guide de dépannage eSIM](/faq/esim-deep-troubleshooting-guide-2026/)**.
 
 ---
 
@@ -272,7 +272,7 @@ Si après l'activation de l'eSIM, aucun réseau de données n'est disponible, le
 | **Hotspot ne fonctionne pas** | Forfait limite le partage | Vérifiez les conditions de votre forfait |
 | **eSIM disparue après mise à jour** | iOS/Android a réinitialisé la configuration | Réactivez via le code QR de votre fournisseur |
 
-Pour des problèmes plus complexes, consultez notre **[guide de dépannage eSIM avec 16 cas pratiques](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)**.
+Pour des problèmes plus complexes, consultez notre **[guide de dépannage eSIM avec 16 cas pratiques](/faq/esim-deep-troubleshooting-guide-2026/)**.
 
 ---
 

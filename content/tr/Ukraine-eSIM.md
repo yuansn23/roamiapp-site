@@ -38,7 +38,7 @@ banner:
   alt: 'Ukrayna için En İyi eSIM'
   title: 'Ukrayna için En İyi eSIM'
 hero:
-  flag_image: img/flags/uk.svg
+  flag_image: img/flags/ua.svg
   flag_alt: 'Ukrayna Bayrağı'
   title: 'Ukrayna eSIM: Gittiğiniz Her Yerde Bağlantıda Kalın'
   subtitle: 'Gizli ücret yok | Rahat internet | 7/24 destek - Ukrayna gezginleri için en iyi ön ödemeli eSIM'

@@ -115,7 +115,7 @@ Yani **"iphone se'de esim var mı"** diye soruyorsanız – cevap tamamen hangi 
 
 iPhone SE (2020) ve (2022), iPhone 11/12 ile aynı eSIM donanımını kullanır – hiçbir ödün yoktur. **iphone se 2020 esim yetenekli** özelliği iPhone 11 ile aynıdır ve **iphone se 3. nesil esim desteği**, eSIM'in yanı sıra 5G bağlantısını da içerir.
 
-Markalar arasındaki tüm eSIM uyumlu cihazların tam listesi için [tam uyumluluk kılavuzumuza](/compatibility/) bakın. eSIM'e yeniyseniz, [eSIM Nedir? kılavuzumuz](/faq/What-Is-eSIM/) temel bilgileri kapsar.
+Markalar arasındaki tüm eSIM uyumlu cihazların tam listesi için [tam uyumluluk kılavuzumuza](/compatibility/) bakın. eSIM'e yeniyseniz, [eSIM Nedir? kılavuzumuz](/faq/what-is-esim/) temel bilgileri kapsar.
 
 
 ## Nesile Göre iPhone SE eSIM Uyumluluğu
@@ -216,7 +216,7 @@ Tam uyumluluk ayrıntıları için [iPhone eSIM kılavuzumuza](/faq/iphone-11-es
 ### Yöntem 3: "Hücresel Plan Ekle" Seçeneğini Arayın
 **Ayarlar > Hücresel** bölümüne gidin. **"Hücresel Plan Ekle"** seçeneğini bir seçenek olarak görüyorsanız, telefonunuz eSIM'i destekler. Eksikse, desteklemez.
 
-Telefonunuz bu kontrolleri geçerse ancak hala sorun yaşıyorsanız, gelişmiş çözümler için [eSIM sorun giderme kılavuzumuza](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) bakın.
+Telefonunuz bu kontrolleri geçerse ancak hala sorun yaşıyorsanız, gelişmiş çözümler için [eSIM sorun giderme kılavuzumuza](/faq/esim-deep-troubleshooting-guide-2026/) bakın.
 
 
 ## iPhone SE'de (2020/2022) eSIM Nasıl Etkinleştirilir
@@ -311,7 +311,7 @@ Hayır. iPhone 6s, 7, 8, 8 Plus ve iPhone X eSIM donanımına sahip değildir. *
 Evet – Jio (Hindistan), iPhone SE 2020/2022 için eSIM sunar. Faturalı bir Jio bağlantınızın olması ve doğrulama için bir Jio mağazasını ziyaret etmeniz gerekir. Bundan sonra, fiziksel Jio SIM'inizi SMS veya MyJio uygulaması aracılığıyla eSIM'e dönüştürebilirsiniz.
 
 **iPhone SE'm "Hücresel Plan Eklenemiyor" gösteriyor – sorun ne?**
-**Ayarlar > Hücresel** bölümünden eski eSIM profillerini kaldırın, telefonunuzu yeniden başlatın ve tekrar deneyin. Sorun devam ederse, operatör kilit durumunuzu kontrol edin. Daha fazla yardım için [eSIM sorun giderme kılavuzumuza](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) bakın.
+**Ayarlar > Hücresel** bölümünden eski eSIM profillerini kaldırın, telefonunuzu yeniden başlatın ve tekrar deneyin. Sorun devam ederse, operatör kilit durumunuzu kontrol edin. Daha fazla yardım için [eSIM sorun giderme kılavuzumuza](/faq/esim-deep-troubleshooting-guide-2026/) bakın.
 
 **iPhone SE'nin eSIM ile uyumlu olup olmadığını nasıl anlarım?**
 `*#06#` tuşlayın. Bir EID görünüyorsa, telefonunuz uyumludur. Bu, **iphone se esim ile uyumlu** sorusunun kesin cevabıdır.

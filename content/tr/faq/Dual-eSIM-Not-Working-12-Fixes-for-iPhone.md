@@ -104,7 +104,7 @@ sidebar_questions:
 > - İkinci bir eSIM ekleyemiyorsanız Ayarlar'dan **Taşıyıcı Kilidi**'ni kontrol edin (`SIM kısıtlaması yok` olmalı).  
 > - **Çift eSIM** pil tüketimi, zayıf sinyal hattında 5G devre dışı bırakılarak azaltılabilir.
 
-Tek bir iPhone'da iki telefon numarası kullanmak son derece kullanışlıdır – ancak beraberinde gizli tuzaklar getirir. CDMA vs GSM çakışmalarından gelen arama yönlendirme başarısızlıklarına (T‑ADS) kadar bu kılavuz, iPhone 17, 16 ve iOS 19 ile daha eski modellerde **çift eSIM** veya **eSIM + fiziksel SIM**'i hatasız çalıştırmak için bilmeniz gereken her şeyi kapsar. Temel eSIM kurulumunun eksiksiz bir anlatımı için **[iPhone 17 eSIM Eksiksiz Kılavuzumuza](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** bakın. Bu çift eSIM sorun giderme kılavuzu, en son [GSMA eSIM özelliklerini](https://www.gsma.com/esim/) takip eder ve iOS 19 üzerinde test edilmiştir. Apple'ın resmi [iPhone'da eSIM hakkında](https://support.apple.com/en-us/HT209044) belgeleri, uyumluluk hakkında ek arka plan bilgisi sağlar.
+Tek bir iPhone'da iki telefon numarası kullanmak son derece kullanışlıdır – ancak beraberinde gizli tuzaklar getirir. CDMA vs GSM çakışmalarından gelen arama yönlendirme başarısızlıklarına (T‑ADS) kadar bu kılavuz, iPhone 17, 16 ve iOS 19 ile daha eski modellerde **çift eSIM** veya **eSIM + fiziksel SIM**'i hatasız çalıştırmak için bilmeniz gereken her şeyi kapsar. Temel eSIM kurulumunun eksiksiz bir anlatımı için **[iPhone 17 eSIM Eksiksiz Kılavuzumuza](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** bakın. Bu çift eSIM sorun giderme kılavuzu, en son [GSMA eSIM özelliklerini](https://www.gsma.com/esim/) takip eder ve iOS 19 üzerinde test edilmiştir. Apple'ın resmi [iPhone'da eSIM hakkında](https://support.apple.com/en-us/HT209044) belgeleri, uyumluluk hakkında ek arka plan bilgisi sağlar.
 
 ---
 
@@ -210,7 +210,7 @@ Taşıyıcınızdan "**bu numara için T‑ADS önbelleğini temizlemesini**" ve
 - Kilidi açmak için taşıyıcınızla iletişime geçin. ABD taşıyıcıları, cihaz ödendikten sonra kilidi açmak zorundadır.
 - Kilit açıldıysa ancak hala çalışmıyorsa, ağ ayarlarını sıfırlamanız gerekebilir: `Ayarlar > Genel > iPhone'u Aktar veya Sıfırla > Sıfırla > Ağ Ayarlarını Sıfırla`. (Uyarı: Wi‑Fi şifrelerini unutur.)
 
-Kilit açıldıktan sonra, eSIM'inizi iPhone ve Android arasında da taşıyabilirsiniz – adım adım talimatlar için **[eSIM Platformlar Arası Aktarım 2026 kılavuzumuza](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** bakın.
+Kilit açıldıktan sonra, eSIM'inizi iPhone ve Android arasında da taşıyabilirsiniz – adım adım talimatlar için **[eSIM Platformlar Arası Aktarım 2026 kılavuzumuza](/faq/how-to-transfer-esim-between-iphone-and-android/)** bakın.
 
 ---
 
@@ -246,7 +246,7 @@ Bir hattı devre dışı bırakmak için: `Ayarlar > Hücresel` → hatta dokunu
 4. Hala tanınmıyorsa, SIM'i başka bir telefonda deneyin – eğer çalışıyorsa, iPhone'unuzun SIM okuyucusu arızalı olabilir.
 5. SIM kartı taşıyıcı mağazasında değiştirin (çoğu faturalı plan için ücretsiz).
 
-Tamamen eSIM'e geçmeyi planlıyorsanız, aktivasyon yöntemleri için **[iPhone 17 eSIM kılavuzumuza](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** başvurun.
+Tamamen eSIM'e geçmeyi planlıyorsanız, aktivasyon yöntemleri için **[iPhone 17 eSIM kılavuzumuza](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** başvurun.
 
 ---
 
@@ -302,7 +302,7 @@ Birçok kullanıcı **iş numarasını** (eSIM) ve **kişisel numarasını** (ik
 ## 11. Sıkça Sorulan Sorular
 
 **S1: Aynı taşıyıcıdan iki eSIM kullanabilir miyim?**  
-Evet, taşıyıcınız tek bir hesapta birden fazla eSIM profiline izin veriyorsa. Örneğin, T‑Mobile US aynı iPhone'da iki eSIM'e kadar destekler. Uyumlu iPhone modellerinin tam listesi için **[iPhone 17 uyumluluk tablosunu](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/#2-global-iphone-17-models--esim-compatibility-table)** kontrol edin.
+Evet, taşıyıcınız tek bir hesapta birden fazla eSIM profiline izin veriyorsa. Örneğin, T‑Mobile US aynı iPhone'da iki eSIM'e kadar destekler. Uyumlu iPhone modellerinin tam listesi için **[iPhone 17 uyumluluk tablosunu](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/#2-global-iphone-17-models--esim-compatibility-table)** kontrol edin.
 
 **S2: Her iki hat da aynı anda 5G'yi destekleyecek mi?**  
 Evet, iPhone 13 ve daha yenilerinde (iPhone 17 dahil) her iki hat da 5G'de olabilir (çift 5G bekleme). Ancak, aynı anda yalnızca bir hat 5G verisi kullanabilir; diğeri ses geri dönüşü (VoNR) için 5G kullanır.
@@ -320,7 +320,7 @@ Evet, en iyi uygulama:
 - Büyük ücretlerden kaçınmak için ev eSIM'inde **Veri Dolaşımı**'nı kapatın.  
 - Ev hattınızın Wi‑Fi Arama ve MMS için yerel eSIM'in verisini kullanabilmesi için **Hücresel Veri Geçişine İzin Ver**'i açın.
 
-Seyahat ederken cihazlar arasında sık sık geçiş yapıyorsanız, **[eSIM platformlar arası aktarım kılavuzu](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** numaranızı sorunsuz taşımanıza yardımcı olacaktır.
+Seyahat ederken cihazlar arasında sık sık geçiş yapıyorsanız, **[eSIM platformlar arası aktarım kılavuzu](/faq/how-to-transfer-esim-between-iphone-and-android/)** numaranızı sorunsuz taşımanıza yardımcı olacaktır.
 
 **S6: İkinci eSIM neden bazen bir iOS güncellemesinden sonra kayboluyor?**  
 Nadir bir hata. `Ayarlar > Hücresel`'e gidin → hat eksikse ancak "Kullanılabilir SIM'ler" altında hala görünüyorsa, dokunun ve yeniden etkinleştirin. Değilse, profili yeniden göndermek için taşıyıcıyla iletişime geçin.

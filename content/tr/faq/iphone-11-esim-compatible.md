@@ -313,7 +313,7 @@ Android alternatifleri için **[Samsung Galaxy eSIM uyumluluk rehberimize](/faq/
 | Etkinleştirmeden sonra “SIM yok” | Bozulmuş profil | Silin ve yeniden yükleyin |
 | iPhone 12'de çalışıyor ancak iPhone 14'te değil | Eski profil yalnızca eSIM ile uyumsuz | Yeni profil isteyin |
 
-16 gerçek dünya vakasını kapsayan daha ileri düzey sorun giderme için **[eSIM Derinlemesine Sorun Giderme Rehberi 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** 'ne bakın.
+16 gerçek dünya vakasını kapsayan daha ileri düzey sorun giderme için **[eSIM Derinlemesine Sorun Giderme Rehberi 2026](/faq/esim-deep-troubleshooting-guide-2026/)** 'ne bakın.
 
 ---
 

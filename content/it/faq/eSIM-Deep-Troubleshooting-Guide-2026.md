@@ -98,7 +98,7 @@ sidebar_questions:
 ---
 
 
-> Per anni, i trasferimenti eSIM sono rimasti chiusi all'interno dello stesso ecosistema – potevi passare da iPhone a iPhone o tra alcuni telefoni Android, ma attraversare il confine iOS‑Android richiedeva una visita al tuo operatore. **iOS 26 e Android 16 cambiano completamente le cose.** Questa guida illustra ogni metodo supportato, i requisiti dell'operatore e i passaggi per la risoluzione dei problemi, in modo da trasferire la tua eSIM senza intoppi. Per l'aiuto generale sull'attivazione, consulta la nostra **[Guida completa eSIM per iPhone 17](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**.
+> Per anni, i trasferimenti eSIM sono rimasti chiusi all'interno dello stesso ecosistema – potevi passare da iPhone a iPhone o tra alcuni telefoni Android, ma attraversare il confine iOS‑Android richiedeva una visita al tuo operatore. **iOS 26 e Android 16 cambiano completamente le cose.** Questa guida illustra ogni metodo supportato, i requisiti dell'operatore e i passaggi per la risoluzione dei problemi, in modo da trasferire la tua eSIM senza intoppi. Per l'aiuto generale sull'attivazione, consulta la nostra **[Guida completa eSIM per iPhone 17](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)**.
 
 ---
 
@@ -139,7 +139,7 @@ Ora, con il **trasferimento eSIM nativo multipiattaforma**, il processo è compl
 - **Android 16** ha aggiunto un menu reciproco `Associa a iPhone o iPad` nei Servizi Google.
 - Entrambe le versioni del sistema operativo implementano la **specifica di trasferimento eSIM consumer GSMA (SGP.22 v2.5+)**, che consente la migrazione sicura del profilo peer‑to‑peer.
 
-> 🔒 Nota sulla sicurezza: il trasferimento è crittografato end‑to‑end e richiede che entrambi i dispositivi siano vicini con Bluetooth attivato. La vecchia eSIM viene automaticamente disattivata nel momento in cui il nuovo dispositivo la attiva. Se in seguito devi risolvere eventuali problemi di dual SIM dopo il trasferimento, la nostra guida **[Dual eSIM non funziona? 12 soluzioni per iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** è una risorsa utile.
+> 🔒 Nota sulla sicurezza: il trasferimento è crittografato end‑to‑end e richiede che entrambi i dispositivi siano vicini con Bluetooth attivato. La vecchia eSIM viene automaticamente disattivata nel momento in cui il nuovo dispositivo la attiva. Se in seguito devi risolvere eventuali problemi di dual SIM dopo il trasferimento, la nostra guida **[Dual eSIM non funziona? 12 soluzioni per iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** è una risorsa utile.
 
 ---
 
@@ -342,7 +342,7 @@ Il vecchio dispositivo mostrerà “Nessun servizio” per quella linea. Il prof
 R: No. La maggior parte delle eSIM da viaggio (Airalo, Holafly, piani dati Roami, ecc.) non supportano il trasferimento multipiattaforma. Sono progettate per essere installate una volta per dispositivo. Dovrai acquistare un nuovo piano sul tuo nuovo telefono.
 
 **D2: Il trasferimento funziona tra iPhone 11 e un Samsung S24?**  
-R: Sì – purché entrambi soddisfino i requisiti del sistema operativo. L'iPhone 11 supporta iOS 26 (arriva fino a iOS 26). Il Samsung S24 supporta Android 16. La generazione hardware non conta; conta solo la versione del sistema operativo. Per un'analisi approfondita del comportamento eSIM specifico per dispositivo, consulta la nostra **[Guida completa eSIM per iPhone 17](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** (applicabile anche a molti modelli precedenti).
+R: Sì – purché entrambi soddisfino i requisiti del sistema operativo. L'iPhone 11 supporta iOS 26 (arriva fino a iOS 26). Il Samsung S24 supporta Android 16. La generazione hardware non conta; conta solo la versione del sistema operativo. Per un'analisi approfondita del comportamento eSIM specifico per dispositivo, consulta la nostra **[Guida completa eSIM per iPhone 17](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** (applicabile anche a molti modelli precedenti).
 
 **D3: Ho provato i passaggi ma il mio Android non ha “Associa a iPhone o iPad”. Come mai?**  
 R: Quel menu fa parte dei Servizi Google e appare solo su Android 16+ con Google Play Services aggiornato. Vai su `Impostazioni > Info telefono > Versione Android`. Se è 15 o precedente, aggiorna il telefono o utilizza il metodo alternativo (codice QR dell'operatore).
@@ -354,7 +354,7 @@ R: WhatsApp utilizza il tuo numero di telefono – rileverà il cambio SIM e pot
 R: Sì, ma ogni trasferimento richiede lo stesso processo. Alcuni operatori limitano i trasferimenti a 3–5 volte all'anno per prevenire abusi. Se raggiungi il limite, ti chiederanno di recarti in un negozio o chiamare l'assistenza.
 
 **D6: Che dire delle configurazioni dual SIM con eSIM + SIM fisica?**  
-R: Il trasferimento sposta solo l'eSIM. La SIM fisica rimane nel dispositivo di origine. Se vuoi spostare entrambe, dovrai trasferire l'eSIM (usando questa guida) e spostare fisicamente la nano‑SIM nel nuovo dispositivo. Per ottimizzare le esperienze dual SIM dopo il trasferimento, consulta la nostra guida **[Dual eSIM non funziona? 12 soluzioni per iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+R: Il trasferimento sposta solo l'eSIM. La SIM fisica rimane nel dispositivo di origine. Se vuoi spostare entrambe, dovrai trasferire l'eSIM (usando questa guida) e spostare fisicamente la nano‑SIM nel nuovo dispositivo. Per ottimizzare le esperienze dual SIM dopo il trasferimento, consulta la nostra guida **[Dual eSIM non funziona? 12 soluzioni per iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
 ---
 
@@ -366,9 +366,9 @@ La capacità di trasferire eSIM tra iPhone e Android senza l'intervento dell'ope
 
 > 📎 **Risorse correlate su questo sito:**
 > - [Guida approfondita alla risoluzione dei problemi eSIM (16 casi reali)](/faq/esim-deep-troubleshooting-guide-2026/)
-> - [Guida completa eSIM per iPhone 17](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)
-> - [Trasferimento eSIM multipiattaforma 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
-> - [Dual eSIM non funziona? 12 soluzioni per iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+> - [Guida completa eSIM per iPhone 17](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)
+> - [Trasferimento eSIM multipiattaforma 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)
+> - [Dual eSIM non funziona? 12 soluzioni per iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)
 
 ---
 

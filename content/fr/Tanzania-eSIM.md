@@ -42,7 +42,7 @@ banner:
   alt: Meilleur eSIM pour la Tanzanie
   title: Meilleur eSIM pour la Tanzanie
 hero:
-  flag_image: img/flags/ta.svg
+  flag_image: img/flags/tz.svg
   flag_alt: Drapeau Tanzanie
   title: 'eSIM Tanzanie: Restez Connecté Partout'
   subtitle: 5G rapide | QR code en 5 min | Support 24/7 - la meilleure eSIM prépayée pour Tanzanie

@@ -58,10 +58,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "2026 跨平台 eSIM 轉移"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "雙 eSIM 無法運作？12 個 iPhone 解決方法"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "智慧手錶 eSIM 相容性完整列表"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -73,7 +73,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 終極指南：iPhone 17 eSIM 啟用解決方案"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -371,12 +371,12 @@ Roami的策略很直接：**本地路由、支援熱點分享、價格比 Airalo
 ## 🔗 延伸閱讀
 
 - [eSIM 深度故障排除完整指南（16 個真實案例）](/faq/esim-deep-troubleshooting-guide-2026/)
-- [2026 跨平台 eSIM 轉移](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
-- [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+- [2026 跨平台 eSIM 轉移](/faq/how-to-transfer-esim-between-iphone-and-android/)
+- [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/dual-esim-not-working-12-fixes-for-iphone/)
 - [智慧手錶 eSIM 相容性完整列表](/faq/smartwatch-esim-compatibility-list-2026/)
 - [iPhone SE eSIM 相容性指南](/faq/iphone-se-esim-compatible/)
 - [iPhone 11 eSIM 完整設定指南](/faq/iphone-11-esim-compatible/)
-- [2026 終極指南：iPhone 17 eSIM 啟用解決方案](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)
+- [2026 終極指南：iPhone 17 eSIM 啟用解決方案](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)
 - [eSIM 啟用原理](/faq/what-is-esim-activation-and-how-does-it-work/)
 - [Samsung S20 eSIM 相容性問題](/faq/samsung-s20-esim-compatible/)
 - [如何在 iPhone 上啟用 eSIM（所有型號）](/faq/how-to-activate-esim-on-iphone/)

@@ -37,10 +37,10 @@ recentPosts:
     permalink: "/compatibility/"
     date: "2026-05-26"
   - title: "2026 plattformübergreifende eSIM-Übertragung"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Dual-eSIM funktioniert nicht? 12 Behebungen für iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Smartwatch-eSIM-Kompatibilität – vollständige Liste"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -52,7 +52,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 Ultimate Guide: iPhone 17 eSIM-Aktivierungslösungen"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 Eine Kurzreise (3-5 Tage) benötigt 1-3 GB Daten. Eine Geschäftsreise benötigt 5-10 GB mit zuverlässiger VPN-Umgehung. Ein digitaler Nomade benötigt 10 GB+ mit stabilen Geschwindigkeiten. Eine vierköpfige Familie benötigt 5-15 GB, die über Hotspot geteilt werden. Dieser Leitfaden ordnet 14 spezifische Reisearten zu, damit du die richtige eSIM für deine China-Reise auswählen kannst – ob als Solo-Backpacker, Geschäftsreisender oder mit der Familie. Laut [GSMA](https://www.gsma.com) wächst die eSIM-Einführung in China weiter. Zur Gerätekompatibilität siehe [Apple Support](https://support.apple.com/en-us/HT212780). Informationen zur Carrier-Abdeckung in chinesischen Städten findest du bei [China Mobile](https://www.chinamobileltd.com). [Ookla](https://www.speedtest.net/global-index) verfolgt 5G-Netzwerkleistungsdaten, um Tarife an dein spezifisches Reiseszenario anzupassen.

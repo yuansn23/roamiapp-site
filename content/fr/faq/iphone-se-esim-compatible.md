@@ -111,7 +111,7 @@ Voici ce que vous devez savoir en 10 secondes :
 
 L'iPhone SE (2020) et (2022) utilise le même matériel eSIM que l'iPhone 11/12 – aucun compromis. La [documentation officielle d'Apple](https://support.apple.com/fr-fr/118670) confirme la compatibilité eSIM sur les deux modèles.
 
-Pour une introduction générale à la technologie eSIM, consultez notre [guide explicatif complet](/faq/What-Is-eSIM/). Si vous rencontrez des problèmes d'**activation eSIM échouée** sur votre iPhone SE, notre [guide de dépannage approfondi eSIM](/faq/esim-deep-troubleshooting-guide-2026/) propose des solutions avancées.
+Pour une introduction générale à la technologie eSIM, consultez notre [guide explicatif complet](/faq/what-is-esim/). Si vous rencontrez des problèmes d'**activation eSIM échouée** sur votre iPhone SE, notre [guide de dépannage approfondi eSIM](/faq/esim-deep-troubleshooting-guide-2026/) propose des solutions avancées.
 
 
 ## 📱 Famille iPhone SE – Tableau de compatibilité eSIM
@@ -353,7 +353,7 @@ Même avec une préparation minutieuse, des problèmes peuvent survenir. Voici l
 | **Free** | free | (vide) | (vide) |
 | **Bouygues** | ebouygtel.com | (vide) | (vide) |
 
-Si vous rencontrez toujours des problèmes d'**activation eSIM échouée** ou d'**eSIM pas de service**, consultez notre [guide de dépannage approfondi eSIM (16 cas réels)](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) pour des solutions avancées.
+Si vous rencontrez toujours des problèmes d'**activation eSIM échouée** ou d'**eSIM pas de service**, consultez notre [guide de dépannage approfondi eSIM (16 cas réels)](/faq/esim-deep-troubleshooting-guide-2026/) pour des solutions avancées.
 
 
 ## ❌ Que faire si votre iPhone SE ne prend PAS en charge l'eSIM ?

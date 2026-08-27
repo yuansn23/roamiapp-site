@@ -38,10 +38,10 @@ recentPosts:
     permalink: "/compatibility/"
     date: "2026-05-26"
   - title: "2026 Cross-Platform eSIM Transfer"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Smartwatch eSIM Compatibility Complete List"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -53,7 +53,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 Germany eSIM coverage varies dramatically between regions. Telekom covers 98 percent of the population with 4G LTE, Vodafone covers 95 percent, and O2 covers roughly 85 percent with significant gaps in rural and mountainous areas. This guide breaks down coverage by the places you will actually visit: city centers with abundant 5G, ICE trains where connectivity flickers, Autobahn stretches where you need reliable navigation, and forests and mountains where only one network may work.

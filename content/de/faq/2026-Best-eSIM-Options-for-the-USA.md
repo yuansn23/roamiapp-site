@@ -136,7 +136,7 @@ Bis 2026 haben US-Anbieter (T-Mobile, AT&T, Verizon) ihre 5G Standalone (SA) Net
 
 Die technischen Spezifikationen für eSIM und 5G-Integration werden durch den [GSMA-Standard SGP.32](https://www.gsma.com/esim/) definiert, der seit 2025 die Grundlage für die nächste Generation von eSIM-fähigen Geräten bildet. Die [US-amerikanische Federal Communications Commission (FCC)](https://www.fcc.gov/) veröffentlicht regelmäßig aktuelle Berichte zur 5G-Abdeckung der großen Anbieter – ein hilfreiches Werkzeug zur Vorbereitung.
 
-Achten Sie nicht nur auf den Slogan „Unterstützt 5G“, sondern darauf, ob der Anbieter hochwertiges Routing und Zugang zu mehreren Netzen bietet. Wer sein **iPhone** oder **Samsung Galaxy** für die USA nutzen möchte, findet in unserem [iPhone 17 eSIM Komplett-Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/) detaillierte Einrichtungsanleitungen für alle aktuellen Modelle.
+Achten Sie nicht nur auf den Slogan „Unterstützt 5G“, sondern darauf, ob der Anbieter hochwertiges Routing und Zugang zu mehreren Netzen bietet. Wer sein **iPhone** oder **Samsung Galaxy** für die USA nutzen möchte, findet in unserem [iPhone 17 eSIM Komplett-Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/) detaillierte Einrichtungsanleitungen für alle aktuellen Modelle.
 
 
 ### 3. Vergleich der eSIM-Anbieter für die USA – worauf es wirklich ankommt
@@ -165,7 +165,7 @@ Die Empfangsbalken täuschen oft. Während der Fahrt durch die USA schwankt das 
 
 Der [FCC Mobile Coverage Map](https://www.fcc.gov/reports-research/maps) bietet eine offizielle Übersicht der tatsächlichen Netzabdeckung in verschiedenen Regionen der USA – ein unverzichtbares Werkzeug zur Vorbereitung auf Roadtrips.
 
-Für Reisende, die nach der USA-Reise ihr Gerät wechseln möchten, ist die [plattformübergreifende eSIM-Übertragung](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/) ab iOS 18 und Android 15 deutlich einfacher geworden – die eSIM kann dann auf ein neues Gerät übertragen werden, ohne den Anbieter kontaktieren zu müssen.
+Für Reisende, die nach der USA-Reise ihr Gerät wechseln möchten, ist die [plattformübergreifende eSIM-Übertragung](/faq/how-to-transfer-esim-between-iphone-and-android/) ab iOS 18 und Android 15 deutlich einfacher geworden – die eSIM kann dann auf ein neues Gerät übertragen werden, ohne den Anbieter kontaktieren zu müssen.
 
 
 ### 5. USA eSIM einrichten: Schritt-für-Schritt-Anleitung

@@ -142,7 +142,7 @@ New York, Los Angeles, San Francisco veya Chicago gibi büyük şehirlerde kalı
 
 Programınız bir Route 66 yol gezisi, Yellowstone, Büyük Kanyon veya Yosemite'i içeriyorsa, **AT&T** veya **Verizon** tarafından desteklenen bir eSIM satın almalısınız. Bu eski operatörler, büyük düşük bant ağları işletir. **verizon esim uyumluluğu** veya **at&t esim ön ödemeli** arayan kullanıcılar için Roami her iki ağa da erişim sunar.
 
-Operatörler ve fiyatlandırma hakkında daha derin bir karşılaştırma için **[2026 için en iyi ABD eSIM seçenekleri](/faq/2026-Best-eSIM-Options-for-the-USA/)** kılavuzumuza bakın.
+Operatörler ve fiyatlandırma hakkında daha derin bir karşılaştırma için **[2026 için en iyi ABD eSIM seçenekleri](/faq/2026-best-esim-options-for-the-usa/)** kılavuzumuza bakın.
 
 ---
 
@@ -224,7 +224,7 @@ Android menüleri üreticiye göre biraz değişir, ancak mantık aynıdır:
 
 ## ABD eSIM sorun giderme – yaygın sorunlar ve çözümler
 
-Mükemmel uygulama yapılsa bile, ağ anlaşmaları zaman zaman başarısız olur. İşte telefonunuzu çevrimiçi hale getirmek için teknik kontrol listesi. Gelişmiş sorunlar için **[eSIM derin sorun giderme kılavuzumuza](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** ve **[iPhone için çift eSIM düzeltmelerine](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** bakın.
+Mükemmel uygulama yapılsa bile, ağ anlaşmaları zaman zaman başarısız olur. İşte telefonunuzu çevrimiçi hale getirmek için teknik kontrol listesi. Gelişmiş sorunlar için **[eSIM derin sorun giderme kılavuzumuza](/faq/esim-deep-troubleshooting-guide-2026/)** ve **[iPhone için çift eSIM düzeltmelerine](/faq/dual-esim-not-working-12-fixes-for-iphone/)** bakın.
 
 ### ABD'ye indikten sonra sinyal/internet yok mu?
 
@@ -254,7 +254,7 @@ Etkinleştirmeden sonra veri ağı mevcut değilse, APN ayarlarının ayarlanmas
 ## ABD eSIM hakkında sık sorulan sorular
 
 **ABD için Airalo mu yoksa Roami mi daha ucuz?**
-Roami genellikle veri ağırlıklı planlar için daha ucuzdur ve Roami çoklu operatör geçişi (T-Mobile, AT&T, Verizon) sunarken Airalo tipik olarak tek bir ağ kullanır. Sınırsız veri ABD eSIM planları için Roami genellikle daha iyi bir değerdir. **[Tam Airalo vs Holafly karşılaştırmamızı](/blog/2026-USA-eSIM-Ultimate-Guide-Airalo-vs-Holafly-vs-Roami-Which-is-the-Best-Choice/)** okuyun.
+Roami genellikle veri ağırlıklı planlar için daha ucuzdur ve Roami çoklu operatör geçişi (T-Mobile, AT&T, Verizon) sunarken Airalo tipik olarak tek bir ağ kullanır. Sınırsız veri ABD eSIM planları için Roami genellikle daha iyi bir değerdir. **[Tam Airalo vs Holafly karşılaştırmamızı](/blog/best-usa-esim-comparison-airalo-holafly/)** okuyun.
 
 **ABD eSIM bir telefon numarası içerir mi?**
 Çoğu seyahat eSIM'i yalnızca veridir. Aramalar veya SMS doğrulama kodları için bir ABD numarasına ihtiyacınız varsa, bir **ABD eSIM telefon numaralı** planı arayın (Airalo Discover+ gibi).

@@ -100,7 +100,7 @@ sidebar_questions:
 
 Por anos, **as transferências de eSIM** ficaram restritas ao mesmo ecossistema – você podia mover de iPhone para iPhone, ou entre alguns Androids, mas atravessar a divisão iOS‑Android exigia uma visita à sua operadora. **O iOS 26 e o Android 16 mudam isso completamente.** Este guia orienta você sobre cada método suportado, requisito da operadora e etapa de solução de problemas para concluir uma **transferência de eSIM entre plataformas** sem complicações.
 
-Se você é novo na tecnologia eSIM, nosso [guia O que é eSIM?](/faq/What-Is-eSIM/) cobre o básico. Para cenários mais avançados de **solução de problemas de eSIM**, consulte nosso **[Guia de Solução de Problemas de eSIM (16 casos reais)](/faq/esim-deep-troubleshooting-guide-2026/)**. Para ajuda geral com ativação, consulte nosso **[Guia Completo para iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**.
+Se você é novo na tecnologia eSIM, nosso [guia O que é eSIM?](/faq/what-is-esim/) cobre o básico. Para cenários mais avançados de **solução de problemas de eSIM**, consulte nosso **[Guia de Solução de Problemas de eSIM (16 casos reais)](/faq/esim-deep-troubleshooting-guide-2026/)**. Para ajuda geral com ativação, consulte nosso **[Guia Completo para iPhone 17 eSIM](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)**.
 
 
 ## Resumo Rápido: Transferência de eSIM entre iPhone e Android
@@ -142,7 +142,7 @@ Agora, com a **transferência nativa de eSIM entre plataformas**, o processo é 
 
 A [GSMA](https://www.gsma.com/esim/) define esses padrões técnicos que tornam possível a **transferência de eSIM entre plataformas**. [De acordo com anúncios oficiais da Telekom](https://www.telekom.com/en/media/media-information/archive/esim-transfer-1097076), o **eSIM da Telekom** foi o primeiro na Europa a suportar este recurso – os clientes da Telekom agora podem transferir seu eSIM entre iOS e Android sem nenhum aplicativo adicional. A página [Apple Support – eSIM no iPhone](https://support.apple.com/pt-br/118670) também confirma os requisitos de compatibilidade para dispositivos iOS.
 
-> 🔒 Nota de segurança: A transferência é criptografada de ponta a ponta e exige que ambos os dispositivos estejam próximos com Bluetooth ativado. O eSIM antigo é automaticamente desativado no momento em que o novo dispositivo o ativa. Se você precisar corrigir qualquer peculiaridade do dual‑SIM após a **transferência de eSIM**, nosso **[Dual eSIM Não Funciona? 12 Correções para iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** é um recurso útil.
+> 🔒 Nota de segurança: A transferência é criptografada de ponta a ponta e exige que ambos os dispositivos estejam próximos com Bluetooth ativado. O eSIM antigo é automaticamente desativado no momento em que o novo dispositivo o ativa. Se você precisar corrigir qualquer peculiaridade do dual‑SIM após a **transferência de eSIM**, nosso **[Dual eSIM Não Funciona? 12 Correções para iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** é um recurso útil.
 
 
 ## O Que Você Precisa Antes de Iniciar uma Transferência de eSIM
@@ -234,7 +234,7 @@ Use a alternativa de **pareamento manual**:
 - Insira o ID de sessão e o código de pareamento manualmente.
 - Prossiga com a transferência.
 
-Se você vir um erro **"não foi possível ativar esim"** durante este processo, verifique sua conexão Wi‑Fi e tente novamente. Para mais ajuda, consulte nosso [guia de solução de problemas de eSIM](/faq/eSIM-Deep-Troubleshooting-Guide-2026/).
+Se você vir um erro **"não foi possível ativar esim"** durante este processo, verifique sua conexão Wi‑Fi e tente novamente. Para mais ajuda, consulte nosso [guia de solução de problemas de eSIM](/faq/esim-deep-troubleshooting-guide-2026/).
 
 
 ## Método B: Transferência de eSIM do iPhone para o Android (iOS 26.3+)
@@ -268,7 +268,7 @@ A Apple adicionou esta capacidade no **iOS 26.3** (lançado no início de 2026).
 
 > ⚠️ **Importante**: Uma vez que a transferência é concluída, o eSIM é **removido permanentemente** do iPhone. Você não pode reverter sem sua operadora. Certifique‑se de ter outra linha ativa ou Wi‑Fi antes de transferir.
 
-Para instruções detalhadas entre plataformas, consulte nosso guia **[Transferência de eSIM Entre Plataformas 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+Para instruções detalhadas entre plataformas, consulte nosso guia **[Transferência de eSIM Entre Plataformas 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 
 ## Transferir eSIM para Novo iPhone ou Samsung – Transferências Intra‑Plataforma
@@ -306,7 +306,7 @@ Os métodos de transferência no Android variam por marca:
 | **Dependência da operadora** | Maior | Menor (Apple/Google lidam com isso) |
 | **Taxa de sucesso** | 80‑95% (depende da operadora) | 95‑99% |
 
-Para uma análise mais aprofundada do comportamento específico do eSIM por dispositivo, consulte nosso **[Guia Completo para iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** (também aplicável a muitos modelos mais antigos).
+Para uma análise mais aprofundada do comportamento específico do eSIM por dispositivo, consulte nosso **[Guia Completo para iPhone 17 eSIM](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** (também aplicável a muitos modelos mais antigos).
 
 
 ## Operadoras Suportadas para Transferência de eSIM Entre Plataformas (Detalhado)
@@ -500,7 +500,7 @@ Se você estiver viajando para o exterior e precisar transferir seu eSIM, aqui e
 - Para múltiplos destinos, considere um [plano de eSIM global](/plans/) que cubra vários países.
 - Salve as informações de contato do suporte da sua operadora antes de viajar.
 
-Para mais informações sobre o uso de eSIMs durante viagens, consulte nosso [guia eSIM para Viagem 2026](/faq/Travel-eSIM-2026-How-to-Avoid-Roaming-Fees-Stay-Connected-Abroad/).
+Para mais informações sobre o uso de eSIMs durante viagens, consulte nosso [guia eSIM para Viagem 2026](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/).
 
 
 ## Perguntas Frequentes
@@ -521,7 +521,7 @@ O WhatsApp usa seu número de telefone – ele detectará a mudança de SIM e po
 Sim, mas cada transferência exige o mesmo processo. Algumas operadoras limitam as transferências a 3–5 vezes por ano para evitar abusos. Se você atingir o limite, elas pedirão que você vá a uma loja ou ligue para o suporte.
 
 **P6: E sobre configurações de dual‑SIM com eSIM + SIM físico?**  
-A transferência move apenas o eSIM. O SIM físico permanece no dispositivo de origem. Se você quiser mover ambos, precisará transferir o eSIM (usando este guia) e mover fisicamente o cartão nano‑SIM para o novo dispositivo. Para otimizar experiências de dual‑SIM após a transferência, consulte nosso **[Dual eSIM Não Funciona? 12 Correções para iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+A transferência move apenas o eSIM. O SIM físico permanece no dispositivo de origem. Se você quiser mover ambos, precisará transferir o eSIM (usando este guia) e mover fisicamente o cartão nano‑SIM para o novo dispositivo. Para otimizar experiências de dual‑SIM após a transferência, consulte nosso **[Dual eSIM Não Funciona? 12 Correções para iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
 **P7: E se eu receber um erro "perfil eSIM expirado" durante a transferência?**  
 Entre em contato com sua operadora para obter um novo código QR – a reemissão geralmente é gratuita.
@@ -542,7 +542,7 @@ Alguns perfis de eSIM têm um **código de confirmação eSIM** obrigatório –
 Isso geralmente significa que sua operadora não suporta transferência, o código QR expirou ou o eSIM antigo ainda está ativo. Delete o eSIM antigo primeiro, depois tente novamente. Veja a Seção 7 para a tabela completa de solução de problemas.
 
 **P13: Como corrigir "falha na ativação eSIM" após a transferência?**  
-Verifique sua conexão Wi‑Fi, reinicie ambos os dispositivos e tente novamente. Se ainda falhar, use o método de entrada manual com o endereço SM‑DP+ do e‑mail da sua operadora. Para mais ajuda, consulte nosso [Guia de Solução de Problemas de eSIM](/faq/eSIM-Deep-Troubleshooting-Guide-2026/).
+Verifique sua conexão Wi‑Fi, reinicie ambos os dispositivos e tente novamente. Se ainda falhar, use o método de entrada manual com o endereço SM‑DP+ do e‑mail da sua operadora. Para mais ajuda, consulte nosso [Guia de Solução de Problemas de eSIM](/faq/esim-deep-troubleshooting-guide-2026/).
 
 
 ## Conclusão Final

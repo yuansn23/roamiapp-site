@@ -58,10 +58,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "Trasferimento eSIM multipiattaforma 2026"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Doppia eSIM non funziona? 12 soluzioni per iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Elenco completo di compatibilità eSIM per smartwatch"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -73,7 +73,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "Guida definitiva 2026: Soluzioni di attivazione eSIM per iPhone 17"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -261,14 +261,14 @@ Se incontri problemi di installazione o connessione eSIM, consulta la [guida all
 
 ## Installazione e attivazione dell'eSIM Regno Unito
 
-Per coloro che conoscono l'installazione di eSIM, ecco i passaggi minimi. Per un tutorial dettagliato, consulta la [guida completa all'installazione eSIM](/faq/How-To-Activate-an-eSIM/).
+Per coloro che conoscono l'installazione di eSIM, ecco i passaggi minimi. Per un tutorial dettagliato, consulta la [guida completa all'installazione eSIM](/faq/how-to-activate-an-esim/).
 
 1. **Conferma che il telefono è compatibile con eSIM e sbloccato.** Verifica rapida: componi `*#06#` – un EID di 32 cifre indica il supporto eSIM. Su iPhone: `Impostazioni > Generali > Info > Blocco operatore` deve indicare "Nessuna restrizione SIM". Per un elenco completo, consulta la [pagina dei dispositivi compatibili](/compatibility/).
 2. **Scegli e acquista un piano.** Inserisci il codice sconto **web20** per il 20% di sconto.
 3. **Scansiona e installa.** Sul Wi-Fi domestico, scansiona il codice QR. L'installazione richiede 30-60 secondi. Etichetta il piano per una facile identificazione.
 4. **Dopo l'arrivo nel Regno Unito:** `Impostazioni > Cellulare > [nome del piano] > attiva il Roaming dati`. Imposta il piano come linea dati cellulare. Disattiva il roaming dati sulla SIM domestica. Disattiva "Consenti commutazione cellulare".
 
-**Importante: non eliminare un profilo eSIM attivo durante il viaggio.** Se appare "Nessun servizio", attiva la modalità Aereo o riavvia il telefono – non eliminare il profilo. Elimina un'eSIM solo dopo la fine completa del viaggio e quando sei tornato a casa sano e salvo. Per assistenza, consulta la [guida alla risoluzione dei problemi eSIM](/faq/eSIM-Deep-Troubleshooting-Guide-2026/).
+**Importante: non eliminare un profilo eSIM attivo durante il viaggio.** Se appare "Nessun servizio", attiva la modalità Aereo o riavvia il telefono – non eliminare il profilo. Elimina un'eSIM solo dopo la fine completa del viaggio e quando sei tornato a casa sano e salvo. Per assistenza, consulta la [guida alla risoluzione dei problemi eSIM](/faq/esim-deep-troubleshooting-guide-2026/).
 
 ---
 

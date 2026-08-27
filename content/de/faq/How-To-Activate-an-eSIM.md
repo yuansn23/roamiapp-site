@@ -134,7 +134,7 @@ Scannen Sie den QR-Code immer über das Einstellungsmenü Ihres Telefons, nicht 
 
 ## 3. So aktivieren Sie Ihre eSIM auf dem iPhone (iOS)
 
-Apple hat den eSIM-Prozess in den neuesten iOS-Updates optimiert. Folgen Sie diesen Schritten, um Ihr Profil zu installieren. Eine detaillierte Anleitung für alle iPhone-Modelle finden Sie in unserem **[iPhone 17 eSIM Komplett-Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**.
+Apple hat den eSIM-Prozess in den neuesten iOS-Updates optimiert. Folgen Sie diesen Schritten, um Ihr Profil zu installieren. Eine detaillierte Anleitung für alle iPhone-Modelle finden Sie in unserem **[iPhone 17 eSIM Komplett-Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)**.
 
 1. **Schritt 1:** Gehen Sie zu **Einstellungen > Mobilfunk**.
 2. **Schritt 2:** Tippen Sie auf **eSIM hinzufügen** (oder **Mobilfunktarif hinzufügen** bei älteren iOS-Versionen).
@@ -212,7 +212,7 @@ Wenn Sie häufig reisen, können Sie mehrere eSIMs auf Ihrem Telefon speichern u
 | **eSIM installiert, zeigt aber „Kein Netz“** | Profil heruntergeladen, aber nicht registriert | eSIM-Leitung auf **EIN** schalten; **Flugmodus** für 30 Sekunden ein- und ausschalten; manuell das lokale Netz auswählen |
 | **Erfolgreich aktiviert, aber keine Internetverbindung** | Datenroaming nicht aktiviert oder APN-Einstellungen fehlen | **Datenroaming** in eSIM-Einstellungen aktivieren; **APN-Einstellungen** manuell konfigurieren (siehe unten) |
 | **Gespeicherte eSIM-Profile nicht sichtbar** | Zu viele Profile gespeichert oder iOS/Android-Update zurückgesetzt | Alte/unbenutzte eSIMs in den Mobilfunkeinstellungen löschen; neu starten; erneut aktivieren |
-| **Dual-SIM: Eine Nummer empfängt keine Anrufe** | T-ADS-Cache beim Anbieter veraltet | WLAN-Anrufe kurz deaktivieren, iPhone neu starten, wieder aktivieren. Mehr dazu im **[Dual-eSIM Guide mit 12 Lösungen](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** |
+| **Dual-SIM: Eine Nummer empfängt keine Anrufe** | T-ADS-Cache beim Anbieter veraltet | WLAN-Anrufe kurz deaktivieren, iPhone neu starten, wieder aktivieren. Mehr dazu im **[Dual-eSIM Guide mit 12 Lösungen](/faq/dual-esim-not-working-12-fixes-for-iphone/)** |
 
 **APN-Einstellungen manuell konfigurieren**
 Wenn nach der Aktivierung kein Datennetz verfügbar ist, müssen oft die APN-Einstellungen angepasst werden:
@@ -242,7 +242,7 @@ Ja, das wird sogar dringend empfohlen. Sie sollten die eSIM zu Hause installiere
 Gehen Sie in Ihre Mobilfunkeinstellungen. Dort sehen Sie beide Leitungen aufgelistet. Sie können auf Ihre physische SIM tippen, um sie auszuschalten, oder Ihre physische SIM als Standard für Anrufe/SMS und die eSIM als Standard für mobile Daten festlegen.
 
 **F4: Kann ich eine eSIM auf mehreren Geräten gleichzeitig nutzen?**
-Nein – eine eSIM ist immer an ein einzelnes Gerät gebunden. Wenn Sie die eSIM auf ein anderes Gerät übertragen möchten, muss die eSIM auf dem alten Gerät deaktiviert werden. Seit iOS 19 und Android 16 ist die **plattformübergreifende eSIM-Übertragung** möglich – eine detaillierte Anleitung finden Sie in unserem **[Guide zum plattformübergreifenden eSIM-Transfer 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+Nein – eine eSIM ist immer an ein einzelnes Gerät gebunden. Wenn Sie die eSIM auf ein anderes Gerät übertragen möchten, muss die eSIM auf dem alten Gerät deaktiviert werden. Seit iOS 19 und Android 16 ist die **plattformübergreifende eSIM-Übertragung** möglich – eine detaillierte Anleitung finden Sie in unserem **[Guide zum plattformübergreifenden eSIM-Transfer 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 **F5: Warum zeigt meine eSIM nach der Aktivierung „Kein Netz“?**
 Die häufigste Ursache ist, dass **Datenroaming** nicht aktiviert ist. Gehen Sie in Ihre eSIM-Einstellungen und aktivieren Sie den Schalter „Datenroaming“. Wenn Sie im Ausland sind, ist dies zwingend erforderlich.

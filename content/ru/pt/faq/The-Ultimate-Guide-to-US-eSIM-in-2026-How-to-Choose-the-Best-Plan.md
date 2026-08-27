@@ -142,7 +142,7 @@ Se você está ficando em grandes cidades como Nova York, Los Angeles, São Fran
 
 Se seu itinerário incluir uma viagem rodoviária pela Rota 66, Yellowstone, o Grand Canyon ou Yosemite, você deve comprar um eSIM alimentado pela **AT&T** ou **Verizon**. Essas operadoras legadas operam redes massivas de baixa banda. Para usuários que pesquisam **verizon esim compatibility** ou **at&t esim prepago**, a Roami oferece acesso a ambas as redes.
 
-Para uma comparação mais aprofundada de operadoras e preços, veja nosso guia sobre **[as melhores opções de eSIM dos USA para 2026](/pt/faq/2026-Best-eSIM-Options-for-the-USA/)**.
+Para uma comparação mais aprofundada de operadoras e preços, veja nosso guia sobre **[as melhores opções de eSIM dos USA para 2026](/pt/faq/2026-best-esim-options-for-the-usa/)**.
 
 ---
 
@@ -224,7 +224,7 @@ Os menus Android variam ligeiramente por fabricante, mas a lógica é idêntica:
 
 ## Solução de problemas do eSIM dos USA – problemas comuns e correções
 
-Mesmo com execução perfeita, os handshakes de rede ocasionalmente falham. Aqui está a lista de verificação técnica para forçar seu telefone a ficar online. Para problemas avançados, veja nosso **[guia de solução de problemas aprofundado eSIM](/pt/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** e **[correções de dual-eSIM para iPhone](/pt/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+Mesmo com execução perfeita, os handshakes de rede ocasionalmente falham. Aqui está a lista de verificação técnica para forçar seu telefone a ficar online. Para problemas avançados, veja nosso **[guia de solução de problemas aprofundado eSIM](/pt/faq/esim-deep-troubleshooting-guide-2026/)** e **[correções de dual-eSIM para iPhone](/pt/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
 ### Sem sinal/sem internet após pousar nos USA?
 
@@ -254,7 +254,7 @@ Se após a ativação nenhuma rede de dados estiver disponível, as configuraç�
 ## Perguntas frequentes sobre eSIM dos USA
 
 **A Airalo ou a Roami são mais baratas para os USA?**
-A Roami é geralmente mais barata para planos com muitos dados, e a Roami oferece comutação multi-operadora (T-Mobile, AT&T, Verizon) enquanto a Airalo normalmente usa uma única rede. Para planos unlimited data us esim, a Roami frequentemente tem melhor custo-benefício. Leia nossa **[comparação completa Airalo vs Holafly](/blog/2026-USA-eSIM-Ultimate-Guide-Airalo-vs-Holafly-vs-Roami-Which-is-the-Best-Choice/)**.
+A Roami é geralmente mais barata para planos com muitos dados, e a Roami oferece comutação multi-operadora (T-Mobile, AT&T, Verizon) enquanto a Airalo normalmente usa uma única rede. Para planos unlimited data us esim, a Roami frequentemente tem melhor custo-benefício. Leia nossa **[comparação completa Airalo vs Holafly](/blog/best-usa-esim-comparison-airalo-holafly/)**.
 
 **Um eSIM dos USA inclui um número de telefone?**
 A maioria dos eSIMs de viagem são apenas dados. Se você precisa de um número dos USA para chamadas ou códigos de verificação SMS, procure um plano **us esim with phone number** (como Airalo Discover+).

@@ -37,10 +37,10 @@ recentPosts:
     permalink: "/compatibility/"
     date: "2026-05-26"
   - title: "Transferencia eSIM multiplataforma 2026"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "¿Dual eSIM no funciona? 12 Soluciones para iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Lista completa de compatibilidad de eSIM para Smartwatches"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -52,7 +52,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "Guía definitiva 2026: Soluciones de activación eSIM para iPhone 17"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 ¿Busca una eSIM para viajar a China? Esta guía es su punto de partida. Una eSIM internacional para China enruta sus datos a través de Hong Kong o Singapur, eludiendo el Gran Cortafuegos para que Google Maps, WhatsApp e Instagram funcionen igual que en casa. El Gran Cortafuegos bloquea Google, WhatsApp, Instagram, YouTube y miles de otros servicios en las redes domésticas chinas — una eSIM internacional de roaming evade estos bloqueos sin necesidad de una VPN separada.

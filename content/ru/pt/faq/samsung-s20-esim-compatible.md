@@ -320,7 +320,7 @@ Qualquer Samsung com eSIM (S21+, S20 internacional, Z Fold/Flip) é compatível 
 - Verifique as configurações de APN – alguns provedores de eSIM exigem entrada manual de APN.
 - Reinicie o telefone.
 
-> **Precisa de mais ajuda?** Para solução de problemas mais avançada (incluindo problemas de dual‑eSIM em outras plataformas), consulte nosso **[Guia de Solução de Problemas de eSIM 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** e **[Dual eSIM Não Funciona? 12 Correções para iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** – os princípios básicos se aplicam a todos os dispositivos.
+> **Precisa de mais ajuda?** Para solução de problemas mais avançada (incluindo problemas de dual‑eSIM em outras plataformas), consulte nosso **[Guia de Solução de Problemas de eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)** e **[Dual eSIM Não Funciona? 12 Correções para iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** – os princípios básicos se aplicam a todos os dispositivos.
 
 ---
 
@@ -340,7 +340,7 @@ A maioria dos eSIMs de viagem é de instalação única – você não pode tran
 
 Sempre verifique a política de transferência do seu provedor de eSIM antes de trocar de dispositivo.
 
-> **Movendo entre iPhone e Android?** Consulte nosso guia dedicado: **[Como Transferir eSIM Entre iPhone e Android](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+> **Movendo entre iPhone e Android?** Consulte nosso guia dedicado: **[Como Transferir eSIM Entre iPhone e Android](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 ---
 

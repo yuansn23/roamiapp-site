@@ -145,7 +145,7 @@ sidebar_questions:
 - **Модели для США (iPhone 14 и новее):** только eSIM – нет физического лотка для SIM. Идеально для путешествий – вы всё равно должны использовать eSIM.
 - **Международные модели:** обычно имеют одну физическую SIM + eSIM. Вы можете оставить свою домашнюю физическую SIM для звонков и использовать eSIM для данных.
 
-> 📱 **Обновление перед поездкой?** Наше **[Полное руководство по iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** показывает, как активировать любую eSIM на новейшем оборудовании.
+> 📱 **Обновление перед поездкой?** Наше **[Полное руководство по iPhone 17 eSIM](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** показывает, как активировать любую eSIM на новейшем оборудовании.
 
 ---
 
@@ -229,7 +229,7 @@ sidebar_questions:
 - Включите **Разрешить переключение сотовых данных** – телефон сможет использовать данные туристической eSIM для Wi-Fi Calling вашей домашней линии.
 - Отключите **«Отправлять как SMS»** для iMessage, если у вашего домашнего тарифа дорогие SMS.
 
-> 📖 **Двойная SIM ведёт себя не так?** Ознакомьтесь с нашей статьей **[Двойная eSIM не работает? 12 исправлений для iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** о конфликтах CDMA, ошибках T‑ADS и исправлениях разряда батареи.
+> 📖 **Двойная SIM ведёт себя не так?** Ознакомьтесь с нашей статьей **[Двойная eSIM не работает? 12 исправлений для iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** о конфликтах CDMA, ошибках T‑ADS и исправлениях разряда батареи.
 
 ---
 
@@ -275,7 +275,7 @@ sidebar_questions:
 - Перезагрузите iPhone.
 - Вручную выберите сеть: `Настройки` > `Сотовая связь` > туристическая eSIM > `Выбор сети` → отключите Автоматически → выберите местного оператора вручную.
 
-> 🔄 **Смена телефона во время поездки?** Возможно, вам потребуется **[перенести eSIM](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** – наше руководство охватывает перенос между iPhone и Android на разных платформах.
+> 🔄 **Смена телефона во время поездки?** Возможно, вам потребуется **[перенести eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/)** – наше руководство охватывает перенос между iPhone и Android на разных платформах.
 
 ---
 
@@ -303,7 +303,7 @@ sidebar_questions:
 О: Большинство провайдеров позволяют пополнить баланс через их приложение мгновенно – не нужен новый QR-код. Просто купите дополнительный пакет данных.
 
 **В7: Безопасна ли eSIM? Может ли кто-то взломать её?**  
-О: eSIM более безопасны, чем физические SIM. Они соответствуют стандарту GSMA SGP.21, который предотвращает клонирование или извлечение. См. **[обзор безопасности eSIM в нашем руководстве по iPhone 17](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/#5-esim-security-advantages-why-more-reliable-than-physical-sim)**.
+О: eSIM более безопасны, чем физические SIM. Они соответствуют стандарту GSMA SGP.21, который предотвращает клонирование или извлечение. См. **[обзор безопасности eSIM в нашем руководстве по iPhone 17](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/#5-esim-security-advantages-why-more-reliable-than-physical-sim)**.
 
 ---
 
@@ -319,9 +319,9 @@ sidebar_questions:
 
 > 📎 **Связанные ресурсы:**
 > - [Руководство по глубокому устранению неполадок eSIM (16 реальных случаев)](/faq/esim-deep-troubleshooting-guide-2026/)
-> - [Полное руководство по iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)
-> - [Кросс-платформенный перенос eSIM 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
-> - [Двойная eSIM не работает? 12 исправлений для iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+> - [Полное руководство по iPhone 17 eSIM](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)
+> - [Кросс-платформенный перенос eSIM 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)
+> - [Двойная eSIM не работает? 12 исправлений для iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)
 
 ---
 

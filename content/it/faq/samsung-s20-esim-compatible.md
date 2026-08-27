@@ -320,7 +320,7 @@ Se hai cercato **“holafly telefoni compatibili”**, qualsiasi Samsung con eSI
 - Controlla le impostazioni APN – alcuni provider eSIM richiedono l'inserimento manuale dell'APN.
 - Riavvia il telefono.
 
-> **Hai bisogno di ulteriore assistenza?** Per una risoluzione dei problemi più approfondita (inclusi i problemi di doppia eSIM su altre piattaforme), consulta la nostra **[Guida approfondita alla risoluzione dei problemi eSIM 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** e **[Doppia eSIM iPhone non funziona? 12 soluzioni](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** – i principi fondamentali si applicano a tutti i dispositivi.
+> **Hai bisogno di ulteriore assistenza?** Per una risoluzione dei problemi più approfondita (inclusi i problemi di doppia eSIM su altre piattaforme), consulta la nostra **[Guida approfondita alla risoluzione dei problemi eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)** e **[Doppia eSIM iPhone non funziona? 12 soluzioni](/faq/dual-esim-not-working-12-fixes-for-iphone/)** – i principi fondamentali si applicano a tutti i dispositivi.
 
 ---
 
@@ -340,7 +340,7 @@ La maggior parte degli eSIM da viaggio sono installabili una sola volta – non 
 
 Controlla sempre la politica di trasferimento del tuo provider eSIM prima di cambiare dispositivo.
 
-> **Passaggio tra iPhone e Android?** Consulta la nostra guida dedicata: **[Come trasferire eSIM tra iPhone e Android](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+> **Passaggio tra iPhone e Android?** Consulta la nostra guida dedicata: **[Come trasferire eSIM tra iPhone e Android](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 ---
 

@@ -101,7 +101,7 @@ Acheter un **eSIM pour le Royaume-Uni** en 2026 est la solution la plus rapide e
 
 Contrairement aux cartes SIM physiques achetées à l'aéroport, un **forfait eSIM** s'installe confortablement avant le départ, pour une connexion immédiate dès l'atterrissage à Heathrow ou Gatwick. Le [Ofcom UK Mobile Coverage Checker](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/mobile-coverage-checker) vous permet de vérifier la couverture réseau dans les régions que vous allez visiter.
 
-> **📖 Vous comparez encore eSIM et SIM physique ?** Cet article se concentre sur l'**achat** d'un eSIM UK. Pour un **comparatif détaillé eSIM vs carte SIM vs roaming** avec analyse des quatre réseaux britanniques (EE, Vodafone, O2, Three), consultez notre **[guide connectivité Royaume-Uni](/faq/2026-UK-Travel-Connectivity-eSIM-vs-Physical-SIM-Guide/)**.
+> **📖 Vous comparez encore eSIM et SIM physique ?** Cet article se concentre sur l'**achat** d'un eSIM UK. Pour un **comparatif détaillé eSIM vs carte SIM vs roaming** avec analyse des quatre réseaux britanniques (EE, Vodafone, O2, Three), consultez notre **[guide connectivité Royaume-Uni](/faq/2026-uk-travel-connectivity-esim-vs-physical-sim-guide/)**.
 
 ---
 
@@ -319,7 +319,7 @@ Connectez-vous au site web ou à l'application de votre fournisseur eSIM, achete
 Cela dépend du forfait. Les eSIM de voyage régionaux incluent généralement l'itinérance en Europe sans frais. Les eSIM d'opérateurs britanniques facturent 2-3 £/jour en Europe. Vérifiez les conditions avant d'acheter si vous prévoyez un voyage multi-pays.
 
 **Q6 : « Aucun service » à l'arrivée — que faire ?**
-Activez l'itinérance des données pour la ligne eSIM. Si le problème persiste, allez dans **Réglages > Données cellulaires > Sélection réseau**, désactivez « Automatique » et choisissez manuellement EE, O2 ou Vodafone. Pour un diagnostic approfondi, notre **[guide de dépannage eSIM](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** couvre 16 scénarios réels.
+Activez l'itinérance des données pour la ligne eSIM. Si le problème persiste, allez dans **Réglages > Données cellulaires > Sélection réseau**, désactivez « Automatique » et choisissez manuellement EE, O2 ou Vodafone. Pour un diagnostic approfondi, notre **[guide de dépannage eSIM](/faq/esim-deep-troubleshooting-guide-2026/)** couvre 16 scénarios réels.
 
 **Q7 : Quelle est la meilleure eSIM pour visiter Londres ?**
 Pour un séjour à Londres, une eSIM sur réseau O2 est idéale — O2 a la meilleure pénétration dans les bâtiments historiques et le métro. Les eSIM multi-réseaux basculent automatiquement vers O2 dans ces zones. Un forfait 3-5 Go suffit pour 3-5 jours.
@@ -357,7 +357,7 @@ L'achat d'un **eSIM pour le Royaume-Uni** en 2026 est la solution la plus simple
 - Pour un séjour de plus d'un mois : **forfait local avec numéro +44 (Lebara, EE)**
 - Pour un voyage UK + Europe : **eSIM régional Europe, roaming inclus**
 
-**Besoin d'aide pour choisir ?** Consultez notre **[guide de l'eSIM États-Unis](/faq/2026-Best-eSIM-Options-for-the-USA/)** si vous voyagez outre-Atlantique, ou notre **[guide de voyage eSIM](/faq/Travel-eSIM-2026-How-to-Avoid-Roaming-Fees-Stay-Connected-Abroad/)** pour une stratégie de connectivité globale.
+**Besoin d'aide pour choisir ?** Consultez notre **[guide de l'eSIM États-Unis](/faq/2026-best-esim-options-for-the-usa/)** si vous voyagez outre-Atlantique, ou notre **[guide de voyage eSIM](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/)** pour une stratégie de connectivité globale.
 
 ---
 <script type="application/ld+json">

@@ -102,9 +102,9 @@
     {
       "@context": "https://schema.org/",
       "@type": "Product",
-      "name": {{ with .Params.seo.title }}{{ . | jsonify }}{{ else }}{{ .Title | jsonify }}{{ end }},
-      "image": {{ printf "%simg/home3.png" site.Home.Permalink | jsonify }},
-      "description": {{ .Params.seo.description | jsonify }},
+      "name": {{ with .Params.seo.title }}{{ . | jsonify | safeJS }}{{ else }}{{ .Title | jsonify | safeJS }}{{ end }},
+      "image": {{ "img/home3.png" | absURL | jsonify | safeJS }},
+      "description": {{ .Params.seo.description | jsonify | safeJS }},
       "brand": {
         "@type": "Brand",
         "name": "Roami"
@@ -118,16 +118,16 @@
     {
       "@context": "https://schema.org",
       "@type": "HowTo",
-      "name": {{ printf "How to activate %s" .Params.hero.title | jsonify }},
-      "description": {{ printf "Step by step guide to activate your %s eSIM." .Params.hero.title | jsonify }},
+      "name": {{ printf "How to activate %s" .Params.hero.title | jsonify | safeJS }},
+      "description": {{ printf "Step by step guide to activate your %s eSIM." .Params.hero.title | jsonify | safeJS }},
       "step": [
         {{ $len := len .Params.activation_steps.steps }}
         {{ range $index, $step := .Params.activation_steps.steps }}
         {
           "@type": "HowToStep",
-          "name": {{ .title | jsonify }},
-          "text": {{ or .desc .title | plainify | jsonify }},
-          "url": {{ printf "%s#step-%s" $.Permalink .num | jsonify }}
+          "name": {{ .title | jsonify | safeJS }},
+          "text": {{ or .desc .title | plainify | jsonify | safeJS }},
+          "url": {{ printf "%s#step-%s" $.Permalink .num | jsonify | safeJS }}
         }{{ if ne (add $index 1) $len }},{{ end }}
         {{ end }}
       ]
@@ -735,7 +735,7 @@
 {{ end }}
 {{ $allItems := $data.related_products.items }}
 
-{{ $currentSlug := .Params.slug | default .File.BaseFileName }}
+{{ $currentSlug := (.Params.slug | default .File.BaseFileName) | lower }}
 {{ $usItem := index (where $allItems "slug" "united-states-esim") 0 }}
 
 {{ $finalItems := slice }}
@@ -761,9 +761,9 @@
     {{ range $finalItems }}
       {{ $targetUrl := "" }}
       {{ if eq $.Site.Language.Lang "en" }}
-        {{ $targetUrl = or .url .link (printf "/%s/" .slug) }}
+        {{ $targetUrl = or .url .link (printf "/%s/" (.slug | lower)) }}
       {{ else }}
-        {{ $targetUrl = printf "/%s/" .slug }}
+        {{ $targetUrl = printf "/%s/" (.slug | lower) }}
       {{ end }}
 
       <li class="h-full">
@@ -1106,10 +1106,10 @@
     {{- range $index, $item := $generalQuestions -}}
     {
       "@type": "Question",
-      "name": {{ $item.q | jsonify }},
+      "name": {{ $item.q | jsonify | safeJS }},
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": {{ $item.a | jsonify }}
+        "text": {{ $item.a | jsonify | safeJS }}
       }
     }{{- if ne (add $index 1) (len $generalQuestions) }},{{ end -}}
     {{- end -}}
@@ -1123,10 +1123,10 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": {{ .Site.Title | jsonify }},
-  "url": {{ .Site.BaseURL | jsonify }},
-  "logo": {{ printf "%simg/logo.png" site.Home.Permalink | jsonify }},
-  "description": {{ .Site.Params.description | default "Roami – global eSIM provider for travelers" | jsonify }},
+  "name": {{ .Site.Title | jsonify | safeJS }},
+  "url": {{ .Site.BaseURL | jsonify | safeJS }},
+  "logo": {{ "img/logo.png" | absURL | jsonify | safeJS }},
+  "description": {{ .Site.Params.description | default "Roami – global eSIM provider for travelers" | jsonify | safeJS }},
   "sameAs": [
     "https://www.facebook.com/profile.php?id=61552827344440",
     "https://www.youtube.com/@RoamiAPP",
@@ -1141,12 +1141,12 @@
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "name": {{ .Site.Title | jsonify }},
-  "url": {{ .Site.BaseURL | jsonify }},
-  "description": {{ .Site.Params.description | default "Global eSIM provider for seamless travel connectivity" | jsonify }},
+  "name": {{ .Site.Title | jsonify | safeJS }},
+  "url": {{ .Site.BaseURL | jsonify | safeJS }},
+  "description": {{ .Site.Params.description | default "Global eSIM provider for seamless travel connectivity" | jsonify | safeJS }},
   "potentialAction": {
     "@type": "SearchAction",
-    "target": {{ printf "%s/search?q={search_term_string}" .Site.BaseURL | jsonify }},
+    "target": {{ printf "%s/search?q={search_term_string}" .Site.BaseURL | jsonify | safeJS }},
     "query-input": "required name=search_term_string"
   }
 }

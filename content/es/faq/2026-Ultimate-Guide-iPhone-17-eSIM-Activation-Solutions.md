@@ -119,7 +119,7 @@ sidebar_questions:
 
 
 
-> Con el lanzamiento de la serie iPhone 17, la tecnología eSIM ha entrado en una fase de adopción total. Los modelos de EE. UU. eliminan por completo la bandeja de SIM física, mientras que los modelos internacionales admiten plenamente la doble eSIM activa simultáneamente. Basado en la documentación técnica oficial de Apple 2025‑2026, esta guía cubre compatibilidad, seguridad, activación, viajes, gestión empresarial y transferencia entre plataformas. Para activar tu eSIM paso a paso, consulta la [guía de activación de eSIM en iPhone](/faq/how-to-activate-esim-on-iphone/). Para usuarios que quieran mover una eSIM desde Android, consulta la [guía de transferencia entre plataformas](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/).
+> Con el lanzamiento de la serie iPhone 17, la tecnología eSIM ha entrado en una fase de adopción total. Los modelos de EE. UU. eliminan por completo la bandeja de SIM física, mientras que los modelos internacionales admiten plenamente la doble eSIM activa simultáneamente. Basado en la documentación técnica oficial de Apple 2025‑2026, esta guía cubre compatibilidad, seguridad, activación, viajes, gestión empresarial y transferencia entre plataformas. Para activar tu eSIM paso a paso, consulta la [guía de activación de eSIM en iPhone](/faq/how-to-activate-esim-on-iphone/). Para usuarios que quieran mover una eSIM desde Android, consulta la [guía de transferencia entre plataformas](/faq/how-to-transfer-esim-between-iphone-and-android/).
 
 ---
 
@@ -162,7 +162,7 @@ La **compatibilidad eSIM** en la serie iPhone 17 se ha estandarizado en todos lo
 - **Mercados internacionales (UE, UK, Australia):** La mayoría de los modelos admiten **doble eSIM** o una configuración híbrida (1 Nano‑SIM + 1 eSIM). Esta flexibilidad permite a los usuarios mantener su número local en SIM física mientras usan una eSIM de viaje para datos.
 - **iPhone 17 Air (primero global):** Este modelo está diseñado de forma única sin bandeja SIM en todo el mundo (incluida China continental), lo que lo convierte en el dispositivo más versátil para nómadas digitales.
 
-Desde el iPhone 14, Apple ha ido eliminando gradualmente las ranuras para SIM físicas. Con la 17ª generación, este enfoque digital‑primero ha alcanzado nuevas cotas. Si planeas usar dos líneas simultáneamente (ej., un número local y una eSIM de viaje), consulta nuestra **[guía de 12 soluciones para doble eSIM en iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** para consejos avanzados.
+Desde el iPhone 14, Apple ha ido eliminando gradualmente las ranuras para SIM físicas. Con la 17ª generación, este enfoque digital‑primero ha alcanzado nuevas cotas. Si planeas usar dos líneas simultáneamente (ej., un número local y una eSIM de viaje), consulta nuestra **[guía de 12 soluciones para doble eSIM en iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** para consejos avanzados.
 
 Para quienes vienen de generaciones anteriores, es importante entender la **diferencia entre SIM y eSIM**: la SIM física es una tarjeta extraíble que puedes perder o dañar, mientras que la eSIM está integrada en el hardware y se programa de forma remota. Esta diferencia fundamental hace que la eSIM sea más segura y conveniente para viajes internacionales.
 
@@ -286,7 +286,7 @@ Apple abrió por primera vez la transferencia bidireccional de eSIM entre Androi
 3. Confirma en Android y luego haz doble clic en el botón lateral del iPhone para confirmar.
 4. Una vez completada la transferencia, la eSIM en el iPhone se desactiva automáticamente.
 
-> **Nota**: La transferencia entre plataformas solo es compatible con ciertos operadores (ej., EE. UU.: AT&T, T‑Mobile, Verizon; UK: EE; Japón: KDDI). Si no es compatible, contacta con tu operador para obtener un nuevo código QR. Para pasos detallados y solución de problemas, visita nuestra **[guía de Transferencia entre Plataformas eSIM 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+> **Nota**: La transferencia entre plataformas solo es compatible con ciertos operadores (ej., EE. UU.: AT&T, T‑Mobile, Verizon; UK: EE; Japón: KDDI). Si no es compatible, contacta con tu operador para obtener un nuevo código QR. Para pasos detallados y solución de problemas, visita nuestra **[guía de Transferencia entre Plataformas eSIM 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 ---
 
@@ -320,7 +320,7 @@ Para viajeros que necesitan grandes volúmenes de datos, existen planes con **eS
 
 ## 10. Preguntas Frecuentes y Solución de Problemas (Específico para iPhone 17)
 
-> **Para problemas complejos**: Esta sección cubre problemas comunes. Para casos no listados aquí (ej., eSIM vinculada a otro dispositivo, conflicto de señal de doble SIM, error DFU 53), consulta nuestra **[Guía de Solución de Problemas Avanzados eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)** , que contiene 16 casos detallados de síntoma‑causa‑solución. Si experimentas conflictos de voz o datos con doble SIM, consulta también **[Doble eSIM no funciona: 12 soluciones para iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+> **Para problemas complejos**: Esta sección cubre problemas comunes. Para casos no listados aquí (ej., eSIM vinculada a otro dispositivo, conflicto de señal de doble SIM, error DFU 53), consulta nuestra **[Guía de Solución de Problemas Avanzados eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)** , que contiene 16 casos detallados de síntoma‑causa‑solución. Si experimentas conflictos de voz o datos con doble SIM, consulta también **[Doble eSIM no funciona: 12 soluciones para iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
 **P1: Voy a viajar a China con un iPhone 17 versión EE. UU. (sin SIM). ¿Cómo puedo mantener la conexión?**  
 R: Puedes comprar un plan de datos para China directamente en la App Roami. Roami se conecta automáticamente a la señal 5G local al llegar mediante protocolos de roaming – no se necesita bandeja SIM física.

@@ -37,10 +37,10 @@ recentPosts:
     permalink: "/compatibility/"
     date: "2026-05-26"
   - title: "2026 plattformübergreifende eSIM-Übertragung"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Dual-eSIM funktioniert nicht? 12 Behebungen für iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Smartwatch-eSIM-Kompatibilität – vollständige Liste"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -52,7 +52,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 Ultimate Guide: iPhone 17 eSIM-Aktivierungslösungen"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 Wenn dies dein erstes Mal ist, dass du eine eSIM für China verwendest, mach dir keine Sorgen – der Prozess ist einfacher, als es klingt. Dieser Einsteigerleitfaden führt dich durch alles von der Kompatibilität bis zur Einrichtung, ohne dass Vorkenntnisse vorausgesetzt werden. Eine eSIM ist ein programmierbarer Chip in deinem Telefon, der eine Verbindung zu Mobilfunknetzen herstellt, ohne dass eine physische SIM-Karte erforderlich ist. Für China-Reisen bietet eine internationale eSIM mit Hongkong-Routing Datenzugriff, der die Große Firewall umgeht – Google, WhatsApp und Instagram funktionieren normal. Dieser Einsteigerleitfaden behandelt Telefonkompatibilität, Schritt-für-Schritt-Einrichtung, häufige Fehler, kostenlose Testversionen und Kundensupport-Kontakte für Erstnutzer von eSIMs.

@@ -99,7 +99,7 @@ sidebar_questions:
 
 > Jahrelang waren eSIM-Übertragungen innerhalb desselben Ökosystems gefangen – man konnte von iPhone zu iPhone oder zwischen einigen Android-Geräten wechseln, aber der Sprung über die iOS-Android-Grenze erforderte meist einen Kontakt zum Anbieter. Mit **iOS 18** führte Apple erstmals die Möglichkeit ein, eine eSIM auf ein Android-Gerät zu übertragen – eine Funktion, die mit **iOS 19** und **iOS 20** kontinuierlich ausgebaut wurde. Auf der Android-Seite ermöglicht **Android 15** den Empfang von eSIMs vom iPhone, und **Android 16/17** verbessern die plattformübergreifende Kopplung. Dieser Leitfaden führt Sie durch alle unterstützten Methoden, die Anforderungen der Anbieter und Schritte zur Fehlerbehebung für eine nahtlose Übertragung.
 
-Für eine grundlegende Einführung in die eSIM-Technologie besuchen Sie unseren [Einsteiger-Guide zur eSIM](/faq/what-is-esim-activation-and-how-does-it-work/). Für allgemeine Hilfe zur Aktivierung auf dem neuesten iPhone finden Sie in unserem **[iPhone 17 eSIM Komplett-Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** alle Details.
+Für eine grundlegende Einführung in die eSIM-Technologie besuchen Sie unseren [Einsteiger-Guide zur eSIM](/faq/what-is-esim-activation-and-how-does-it-work/). Für allgemeine Hilfe zur Aktivierung auf dem neuesten iPhone finden Sie in unserem **[iPhone 17 eSIM Komplett-Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** alle Details.
 
 
 ## 📌 Kurz-Zusammenfassung
@@ -362,7 +362,7 @@ Sie wird sofort deaktiviert und zeigt „Kein Netz“ an. Sie können das Profil
 Ja. Da sich Ihre Telefonnummer nicht ändert, erkennt WhatsApp den Wechsel. Stellen Sie lediglich sicher, dass Sie vorher ein Backup (iCloud oder Google Drive) erstellt haben, wenn Sie auch die Hardware wechseln.
 
 **F4: Kann ich eine eSIM übertragen, wenn ich Dual-SIM nutze?**
-Ja – Sie können eine der beiden aktiven eSIMs übertragen. Die andere bleibt auf dem Quellgerät aktiv. Bei Problemen mit zwei aktiven eSIMs hilft unser **[Dual-eSIM Guide](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+Ja – Sie können eine der beiden aktiven eSIMs übertragen. Die andere bleibt auf dem Quellgerät aktiv. Bei Problemen mit zwei aktiven eSIMs hilft unser **[Dual-eSIM Guide](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
 **F5: Was ist der Unterschied zwischen eSIM und physischer SIM bei der Übertragung?**
 Bei einer physischen SIM müssen Sie die Karte physisch umstecken – bei der eSIM erfolgt die Übertragung digital und ist damit deutlich komfortabler, besonders wenn Sie häufig zwischen Geräten wechseln.

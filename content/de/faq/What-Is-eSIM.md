@@ -213,9 +213,9 @@ Die Einrichtung ist überraschend einfach:
 - **QR-Code scannen:** Gehen Sie zu **Einstellungen** → **Mobilfunk** → **eSIM hinzufügen** und scannen Sie den Code Ihres Anbieters.
 - **Anbieter-App (z. B. Roami):** Laden Sie die App, kaufen Sie einen Tarif und tippen Sie auf „eSIM installieren“ – der Rest erfolgt automatisch.
 
-Eine detaillierte Anleitung für jedes iPhone-Modell finden Sie in unserem [iPhone 17 eSIM Komplett-Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/). Wenn Sie nach der Installation Probleme haben – etwa **eSIM kein Netz** oder die **eSIM Aktivierung fehlgeschlagen** ist – helfen die Lösungen in unserem [eSIM Deep Troubleshooting Guide](/faq/esim-deep-troubleshooting-guide-2026/) weiter.
+Eine detaillierte Anleitung für jedes iPhone-Modell finden Sie in unserem [iPhone 17 eSIM Komplett-Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/). Wenn Sie nach der Installation Probleme haben – etwa **eSIM kein Netz** oder die **eSIM Aktivierung fehlgeschlagen** ist – helfen die Lösungen in unserem [eSIM Deep Troubleshooting Guide](/faq/esim-deep-troubleshooting-guide-2026/) weiter.
 
-Für Nutzer, die nach der Einrichtung von **iPhone auf Android** wechseln möchten, erklärt unser [eSIM Cross-Platform Transfer Guide](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/) die plattformübergreifende Übertragung ab iOS 18 und Android 15.
+Für Nutzer, die nach der Einrichtung von **iPhone auf Android** wechseln möchten, erklärt unser [eSIM Cross-Platform Transfer Guide](/faq/how-to-transfer-esim-between-iphone-and-android/) die plattformübergreifende Übertragung ab iOS 18 und Android 15.
 
 
 ## 7. Die besten Gründe für den Wechsel – Besonders auf Reisen
@@ -245,7 +245,7 @@ Ganz und gar nicht. Wenn Sie einen QR-Code scannen können, können Sie eine eSI
 Ja, die meisten Anbieter bieten diesen Service an. Sie erhalten einen QR-Code, den Sie scannen, um Ihre Nummer auf die eSIM zu übertragen. In Deutschland bieten dies die **Telekom eSIM**, **Vodafone eSIM** und **O2 eSIM** an.
 
 **Q: Was ist der Unterschied zwischen einer eSIM und einer physischen SIM im Dual-SIM-Betrieb?**
-Beide bieten die gleiche Funktionalität – mit einer eSIM können Sie jedoch Profile aktivieren, deaktivieren oder löschen, ohne eine physische Karte wechseln zu müssen. Das ist besonders nützlich, wenn Sie häufiger zwischen Ländern reisen. Bei Problemen mit zwei aktiven eSIMs hilft unser Guide [Dual-eSIM funktioniert nicht? 12 Lösungen für iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/).
+Beide bieten die gleiche Funktionalität – mit einer eSIM können Sie jedoch Profile aktivieren, deaktivieren oder löschen, ohne eine physische Karte wechseln zu müssen. Das ist besonders nützlich, wenn Sie häufiger zwischen Ländern reisen. Bei Problemen mit zwei aktiven eSIMs hilft unser Guide [Dual-eSIM funktioniert nicht? 12 Lösungen für iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/).
 
 
 ## 9. Fazit: Warum die eSIM die Zukunft der mobilen Konnektivität ist

@@ -312,7 +312,7 @@ Para alternativas Android, consulte nosso **[guia de compatibilidade eSIM Samsun
 | “Sem SIM” após ativação | Perfil corrompido | Exclua e reinstale |
 | Funciona no iPhone 12, mas não no iPhone 14 | Perfil antigo incompatível com apenas eSIM | Solicite novo perfil |
 
-Para solução de problemas mais avançada cobrindo 16 casos reais, consulte nosso **[Guia de Solução de Problemas Avançada de eSIM 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)**.
+Para solução de problemas mais avançada cobrindo 16 casos reais, consulte nosso **[Guia de Solução de Problemas Avançada de eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)**.
 
 ---
 

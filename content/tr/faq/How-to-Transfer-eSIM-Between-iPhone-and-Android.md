@@ -100,7 +100,7 @@ sidebar_questions:
 
 Uzun yıllar boyunca, **eSIM aktarımları** aynı ekosistem içinde kilitliydi – iPhone'dan iPhone'a veya bazı Android telefonlar arasında taşıyabilirdiniz, ancak iOS‑Android bölünmesini geçmek operatörünüze gitmeyi gerektiriyordu. **iOS 26 ve Android 16 bunu tamamen değiştiriyor.** Bu kılavuz, sorunsuz bir **platformlar arası eSIM aktarımı** için desteklenen her yöntem, operatör gereksinimi ve sorun giderme adımında size yol gösterir.
 
-eSIM teknolojisine yeniyseniz, [eSIM Nedir? kılavuzumuz](/faq/What-Is-eSIM/) temel bilgileri kapsar. Daha gelişmiş **eSIM sorun giderme** senaryoları için **[eSIM Derin Sorun Giderme Kılavuzumuza (16 gerçek vaka)](/faq/esim-deep-troubleshooting-guide-2026/)** bakın. Genel etkinleştirme yardımı için **[iPhone 17 eSIM Tam Kılavuzumuza](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** bakın.
+eSIM teknolojisine yeniyseniz, [eSIM Nedir? kılavuzumuz](/faq/what-is-esim/) temel bilgileri kapsar. Daha gelişmiş **eSIM sorun giderme** senaryoları için **[eSIM Derin Sorun Giderme Kılavuzumuza (16 gerçek vaka)](/faq/esim-deep-troubleshooting-guide-2026/)** bakın. Genel etkinleştirme yardımı için **[iPhone 17 eSIM Tam Kılavuzumuza](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** bakın.
 
 
 ## Hızlı Özet: iPhone ve Android Arasında eSIM Aktarımı
@@ -142,7 +142,7 @@ Artık, **yerel platformlar arası eSIM aktarımı** ile süreç tamamen self‑
 
 [GSMA](https://www.gsma.com/esim/), **eSIM platformlar arası aktarımı** mümkün kılan bu teknik standartları tanımlar. [Resmi Telekom duyurularına göre](https://www.telekom.com/en/media/media-information/archive/esim-transfer-1097076), **Telekom eSIM** bu özelliği destekleyen Avrupa'daki ilk operatördü – Telekom müşterileri artık eSIM'lerini herhangi bir ek uygulama olmadan iOS ve Android arasında aktarabilir. [Apple Destek – iPhone'da eSIM](https://support.apple.com/en-us/118670) sayfası da iOS cihazları için uyumluluk gereksinimlerini doğrular.
 
-> 🔒 Güvenlik notu: Aktarım uçtan uca şifrelenir ve her iki cihazın da Bluetooth etkinleştirilmiş halde yakın mesafede olmasını gerektirir. Eski eSIM, yeni cihaz etkinleştirdiği anda otomatik olarak devre dışı bırakılır. **eSIM aktarımından** sonra herhangi bir çift‑SIM tuhaflığını düzeltmeniz gerekirse, **[Çift eSIM Çalışmıyor mu? iPhone için 12 Düzeltme](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** yardımcı bir kaynaktır.
+> 🔒 Güvenlik notu: Aktarım uçtan uca şifrelenir ve her iki cihazın da Bluetooth etkinleştirilmiş halde yakın mesafede olmasını gerektirir. Eski eSIM, yeni cihaz etkinleştirdiği anda otomatik olarak devre dışı bırakılır. **eSIM aktarımından** sonra herhangi bir çift‑SIM tuhaflığını düzeltmeniz gerekirse, **[Çift eSIM Çalışmıyor mu? iPhone için 12 Düzeltme](/faq/dual-esim-not-working-12-fixes-for-iphone/)** yardımcı bir kaynaktır.
 
 
 ## Bir eSIM Aktarımına Başlamadan Önce İhtiyacınız Olanlar
@@ -234,7 +234,7 @@ Bu en yaygın senaryodur – Samsung, Pixel veya başka bir Android'den yeni bir
 - Oturum kimliğini ve eşleştirme kodunu manuel olarak girin.
 - Aktarıma devam edin.
 
-Bu işlem sırasında bir **"esim etkinleştirilemiyor"** hatası görürseniz, Wi‑Fi bağlantınızı kontrol edin ve tekrar deneyin. Daha fazla yardım için [eSIM sorun giderme kılavuzumuza](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) bakın.
+Bu işlem sırasında bir **"esim etkinleştirilemiyor"** hatası görürseniz, Wi‑Fi bağlantınızı kontrol edin ve tekrar deneyin. Daha fazla yardım için [eSIM sorun giderme kılavuzumuza](/faq/esim-deep-troubleshooting-guide-2026/) bakın.
 
 
 ## Yöntem B: iPhone'dan Android'e eSIM Aktarımı (iOS 26.3+)
@@ -268,7 +268,7 @@ Apple bu yeteneği **iOS 26.3**'te (2026 başında yayınlandı) ekledi. Süreç
 
 > ⚠️ **Önemli**: Aktarım tamamlandığında, eSIM iPhone'dan **kalıcı olarak kaldırılır**. Operatörünüz olmadan geri alamazsınız. Aktarım yapmadan önce başka bir aktif hattınızın veya Wi‑Fi'nizin olduğundan emin olun.
 
-Ayrıntılı platformlar arası talimatlar için **[eSIM Platformlar Arası Aktarım 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** kılavuzumuza bakın.
+Ayrıntılı platformlar arası talimatlar için **[eSIM Platformlar Arası Aktarım 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)** kılavuzumuza bakın.
 
 
 ## eSIM'i Yeni iPhone veya Samsung'a Aktarma – Platform İçi Aktarımlar
@@ -306,7 +306,7 @@ Android aktarım yöntemleri markaya göre değişir:
 | **Operatör bağımlılığı** | Daha yüksek | Daha düşük (Apple/Google halleder) |
 | **Başarı oranı** | %80‑95 (operatöre bağlı) | %95‑99 |
 
-Cihaza özel eSIM davranışı hakkında daha derin bir inceleme için (birçok eski model için de geçerli) **[iPhone 17 eSIM Tam Kılavuzumuza](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** bakın.
+Cihaza özel eSIM davranışı hakkında daha derin bir inceleme için (birçok eski model için de geçerli) **[iPhone 17 eSIM Tam Kılavuzumuza](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** bakın.
 
 
 ## Platformlar Arası eSIM Aktarımı İçin Desteklenen Operatörler (Ayrıntılı)
@@ -500,7 +500,7 @@ Yurt dışında seyahat ediyorsanız ve eSIM'inizi aktarmanız gerekiyorsa, işt
 - Birden fazla destinasyon için birden fazla ülkeyi kapsayan bir [küresel eSIM planı](/plans/) düşünün.
 - Seyahate çıkmadan önce operatörünüzün destek iletişim bilgilerini kaydedin.
 
-Seyahat ederken eSIM kullanma hakkında daha fazla bilgi için [Seyahat eSIM 2026 kılavuzumuza](/faq/Travel-eSIM-2026-How-to-Avoid-Roaming-Fees-Stay-Connected-Abroad/) bakın.
+Seyahat ederken eSIM kullanma hakkında daha fazla bilgi için [Seyahat eSIM 2026 kılavuzumuza](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/) bakın.
 
 
 ## Sık Sorulan Sorular
@@ -521,7 +521,7 @@ WhatsApp telefon numaranızı kullanır – SIM değişikliğini algılayacak ve
 Evet, ancak her aktarım aynı süreci gerektirir. Bazı operatörler kötüye kullanımı önlemek için aktarımları yılda 3‑5 kezle sınırlar. Limite ulaşırsanız, bir mağazaya gelmenizi veya desteği aramanızı isteyeceklerdir.
 
 **S6: eSIM + fiziksel SIM çift SIM kurulumları ne olacak?**  
-Aktarım yalnızca eSIM'i taşır. Fiziksel SIM kaynak cihazda kalır. Her ikisini de taşımak istiyorsanız, eSIM'i (bu kılavuzu kullanarak) aktarmanız ve nano‑SIM kartını fiziksel olarak yeni cihaza taşımanız gerekir. Aktarımdan sonra çift SIM deneyimlerini optimize etmek için **[Çift eSIM Çalışmıyor mu? iPhone için 12 Düzeltme](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** kılavuzumuza göz atın.
+Aktarım yalnızca eSIM'i taşır. Fiziksel SIM kaynak cihazda kalır. Her ikisini de taşımak istiyorsanız, eSIM'i (bu kılavuzu kullanarak) aktarmanız ve nano‑SIM kartını fiziksel olarak yeni cihaza taşımanız gerekir. Aktarımdan sonra çift SIM deneyimlerini optimize etmek için **[Çift eSIM Çalışmıyor mu? iPhone için 12 Düzeltme](/faq/dual-esim-not-working-12-fixes-for-iphone/)** kılavuzumuza göz atın.
 
 **S7: Aktarım sırasında "eSIM profili süresi doldu" hatası alırsam ne olur?**  
 Yeni bir QR kodu almak için operatörünüzle iletişime geçin – yeniden verme genellikle ücretsizdir.
@@ -542,7 +542,7 @@ Bazı eSIM profillerinde zorunlu bir **eSIM onay kodu** bulunur – tipik olarak
 Bu genellikle operatörünüzün aktarımı desteklemediği, QR kodunun süresinin dolduğu veya eski eSIM'in hala aktif olduğu anlamına gelir. Önce eski eSIM'i silin, ardından tekrar deneyin. Tam sorun giderme tablosu için Bölüm 7'ye bakın.
 
 **S13: Aktarımdan sonra "eSIM etkinleştirme başarısız" nasıl düzeltilir?**  
-Wi‑Fi bağlantınızı kontrol edin, her iki cihazı da yeniden başlatın ve tekrar deneyin. Hala başarısız olursa, operatör e‑postanızdaki SM‑DP+ adresiyle manuel giriş yöntemini kullanın. Daha fazla yardım için [eSIM Derin Sorun Giderme Kılavuzumuza](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) bakın.
+Wi‑Fi bağlantınızı kontrol edin, her iki cihazı da yeniden başlatın ve tekrar deneyin. Hala başarısız olursa, operatör e‑postanızdaki SM‑DP+ adresiyle manuel giriş yöntemini kullanın. Daha fazla yardım için [eSIM Derin Sorun Giderme Kılavuzumuza](/faq/esim-deep-troubleshooting-guide-2026/) bakın.
 
 
 ## Sonuç

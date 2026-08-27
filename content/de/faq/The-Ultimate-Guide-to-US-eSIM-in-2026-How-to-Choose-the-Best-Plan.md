@@ -213,7 +213,7 @@ Die Android-Kompatibilität ist unterschiedlich. Das Google Pixel 3 und neuer so
 3. Tippen Sie auf SIMs (oder SIM-Manager).
 4. Suchen Sie nach einer Schaltfläche eSIM hinzufügen oder Stattdessen eine SIM herunterladen?. Wenn diese vorhanden ist, können Sie eine USA eSIM sicher kaufen.
 
-Eine vollständige, ständig aktualisierte Übersicht aller eSIM-fähigen Geräte finden Sie in unserer [eSIM-Kompatibilitätsliste](/compatibility/). Für Nutzer des neuesten Apple-Flaggschiffs bietet unser [iPhone 17 eSIM Komplett-Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/) detaillierte Einrichtungsanleitungen.
+Eine vollständige, ständig aktualisierte Übersicht aller eSIM-fähigen Geräte finden Sie in unserer [eSIM-Kompatibilitätsliste](/compatibility/). Für Nutzer des neuesten Apple-Flaggschiffs bietet unser [iPhone 17 eSIM Komplett-Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/) detaillierte Einrichtungsanleitungen.
 
 
 ## 6. Schritt-für-Schritt: eSIM kaufen, installieren und aktivieren
@@ -236,7 +236,7 @@ Nachdem Sie die Kompatibilität bestätigt haben, kaufen Sie Ihren Tarif online.
 3. **Nach der Landung aktivieren:** Schalten Sie die eSIM EIN.
 4. **Wichtige Einstellungen:** Legen Sie diese eSIM als Standard für mobile Daten fest und stellen Sie Roaming auf EIN.
 
-Für Nutzer, die nach der USA-Reise ihr Gerät wechseln möchten, erklärt unser [eSIM Cross-Platform Transfer Guide](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/) die plattformübergreifende Übertragung ab iOS 18 und Android 15.
+Für Nutzer, die nach der USA-Reise ihr Gerät wechseln möchten, erklärt unser [eSIM Cross-Platform Transfer Guide](/faq/how-to-transfer-esim-between-iphone-and-android/) die plattformübergreifende Übertragung ab iOS 18 und Android 15.
 
 
 ## 7. Fehlerbehebung: Wenn die USA eSIM nicht funktioniert
@@ -269,13 +269,13 @@ Für weitere Probleme – etwa wenn die eSIM Aktivierung fehlgeschlagen ist oder
 ## 8. Häufig gestellte Fragen (FAQs)
 
 **Q1: Kann ich eine USA eSIM mit meiner deutschen Telefonnummer nutzen?**
-Ja, die eSIM ist unabhängig von Ihrer Hauptnummer. Sie können Ihre deutsche SIM für Anrufe/SMS aktiv lassen und die eSIM rein für mobile Daten nutzen. Bei Problemen mit zwei aktiven Leitungen hilft unser [Dual-eSIM Guide](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/).
+Ja, die eSIM ist unabhängig von Ihrer Hauptnummer. Sie können Ihre deutsche SIM für Anrufe/SMS aktiv lassen und die eSIM rein für mobile Daten nutzen. Bei Problemen mit zwei aktiven Leitungen hilft unser [Dual-eSIM Guide](/faq/dual-esim-not-working-12-fixes-for-iphone/).
 
 **Q2: Wie viel Datenvolumen brauche ich für 7 Tage USA?**
 Für eine typische Städtereise mit Navigation, Social Media und Messaging reichen 5–10 GB. Bei intensiver Nutzung (Videos, Hotspot) sollten Sie 15–20 GB einplanen.
 
 **Q3: Kann ich die eSIM nach der Reise auf ein anderes Gerät übertragen?**
-Das hängt vom Anbieter ab. Viele Reise-eSIMs sind Einwegprodukte und können nicht übertragen werden. Bei einigen Anbietern ist die plattformübergreifende Übertragung ab iOS 18 und Android 15 möglich – Details in unserem [Cross-Platform Transfer Guide](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/).
+Das hängt vom Anbieter ab. Viele Reise-eSIMs sind Einwegprodukte und können nicht übertragen werden. Bei einigen Anbietern ist die plattformübergreifende Übertragung ab iOS 18 und Android 15 möglich – Details in unserem [Cross-Platform Transfer Guide](/faq/how-to-transfer-esim-between-iphone-and-android/).
 
 **Q4: Was ist der Unterschied zwischen einer USA eSIM und einer Nordamerika-eSIM?**
 Eine USA eSIM gilt nur für die Vereinigten Staaten. Eine Nordamerika-eSIM deckt zusätzlich Kanada und Mexiko ab – ideal für Mehrtländerreisen.

@@ -114,9 +114,9 @@ Pour vous faire gagner du temps, voici les recommandations rapides pour 2026 en 
 
 Maintenant que vous savez ce dont vous avez besoin, nous allons expliquer exactement comment éviter les zones blanches, vérifier le matériel de votre téléphone et choisir le **meilleur forfait eSIM USA** sans aucune connaissance technique préalable.
 
-Pour une introduction générale à la technologie eSIM, consultez notre [guide explicatif complet](/faq/What-Is-eSIM/). Si vous rencontrez des problèmes d'**activation eSIM échouée** ou **eSIM pas de service**, notre [guide de dépannage approfondi eSIM](/faq/esim-deep-troubleshooting-guide-2026/) propose des solutions avancées.
+Pour une introduction générale à la technologie eSIM, consultez notre [guide explicatif complet](/faq/what-is-esim/). Si vous rencontrez des problèmes d'**activation eSIM échouée** ou **eSIM pas de service**, notre [guide de dépannage approfondi eSIM](/faq/esim-deep-troubleshooting-guide-2026/) propose des solutions avancées.
 
-> **📖 Note :** Ce guide vous aide à **choisir** le forfait eSIM USA adapté à votre voyage grâce à un cadre décisionnel structuré. Pour un **comparatif chiffré** des meilleures eSIM USA (Airalo, Holafly, Roami) avec prix, débits et couverture réseau, consultez notre **[comparatif des meilleures eSIM USA](/faq/2026-Best-eSIM-Options-for-the-USA/)**.
+> **📖 Note :** Ce guide vous aide à **choisir** le forfait eSIM USA adapté à votre voyage grâce à un cadre décisionnel structuré. Pour un **comparatif chiffré** des meilleures eSIM USA (Airalo, Holafly, Roami) avec prix, débits et couverture réseau, consultez notre **[comparatif des meilleures eSIM USA](/faq/2026-best-esim-options-for-the-usa/)**.
 
 
 ## 1. Qu'est-ce qu'une eSIM américaine ? Pourquoi est-elle essentielle en 2026 ?
@@ -375,7 +375,7 @@ La **double SIM iPhone** et la **double SIM Android** sont des fonctionnalités 
 | Les appels entrants n'arrivent pas sur la SIM physique | Vérifiez que la SIM physique est la ligne par défaut pour les appels |
 | Les données sont facturées sur la SIM physique | Désactivez « Autoriser le basculement » |
 
-Pour plus d'informations, consultez notre article **[Double eSIM ne fonctionne pas ? 12 solutions](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+Pour plus d'informations, consultez notre article **[Double eSIM ne fonctionne pas ? 12 solutions](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
 ---
 

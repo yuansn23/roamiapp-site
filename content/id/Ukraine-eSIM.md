@@ -39,7 +39,7 @@ banner:
   alt: eSIM Terbaik untuk Ukraina
   title: eSIM Terbaik untuk Ukraina
 hero:
-  flag_image: img/flags/uk.svg
+  flag_image: img/flags/ua.svg
   flag_alt: Bendera Ukraina
   title: 'eSIM Ukraina: Tetap Terhubung Di Mana Saja Anda Berada'
   subtitle: Tanpa biaya tersembunyi | Internet bebas khawatir | Dukungan 24/7 - eSIM prabayar terbaik untuk pelancong ke Ukraina

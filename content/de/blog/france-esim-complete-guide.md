@@ -38,10 +38,10 @@ recentPosts:
     permalink: "/compatibility/"
     date: "2026-05-26"
   - title: "2026 Plattformübergreifende eSIM-Übertragung"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Dual-eSIM funktioniert nicht? 12 Behebungen für iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Vollständige Liste der Smartwatch-eSIM-Kompatibilität"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -53,7 +53,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 Ultimativer Leitfaden: iPhone 17 eSIM-Aktivierungslösungen"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 Frankreich-eSIM-Tarife beginnen bei $3 für 1GB und reichen bis zu $69 für unbegrenzte 30-Tage-Daten. Frankreich verfügt über vier Mobilfunknetze – Orange (die größte Abdeckung), SFR, Bouygues (das schnellste städtische 5G) und Free (die Budget-Option) – und das Netzwerk, das Ihre eSIM nutzt, ist der wichtigste Faktor dafür, wie gut sie für Sie funktioniert.

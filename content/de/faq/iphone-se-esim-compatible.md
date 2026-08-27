@@ -178,7 +178,7 @@ Die **iphone se esim einrichten** dauert weniger als 2 Minuten. Tun Sie es bevor
 
 Nach Ihrer Landung gehen Sie zu Einstellungen > Mobilfunk > eSIM und schalten Sie Datenroaming ein. Die **esim iphone aktivieren** ist damit abgeschlossen.
 
-Detaillierte Anleitungen für jedes iPhone-Modell finden Sie in unserem [iPhone 17 eSIM Komplett-Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/) – die Grundlagen gelten analog für das iPhone SE.
+Detaillierte Anleitungen für jedes iPhone-Modell finden Sie in unserem [iPhone 17 eSIM Komplett-Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/) – die Grundlagen gelten analog für das iPhone SE.
 
 
 ## Welche Anbieter funktionieren mit dem iPhone SE eSIM?
@@ -291,7 +291,7 @@ Entfernen Sie alte eSIM-Profile unter Einstellungen > Mobilfunk, starten Sie Ihr
 Das iPhone SE kann bis zu 20 eSIM-Profile speichern, aber nur eine eSIM (oder eine physische SIM + eine eSIM) gleichzeitig aktiv haben.
 
 **Kann ich eine eSIM vom iPhone SE auf ein Android-Gerät übertragen?**
-Ja – ab iOS 18 und Android 15 ist die plattformübergreifende eSIM-Übertragung möglich. Eine detaillierte Schritt-für-Schritt-Anleitung finden Sie in unserem [eSIM Cross-Platform Transfer Guide](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/).
+Ja – ab iOS 18 und Android 15 ist die plattformübergreifende eSIM-Übertragung möglich. Eine detaillierte Schritt-für-Schritt-Anleitung finden Sie in unserem [eSIM Cross-Platform Transfer Guide](/faq/how-to-transfer-esim-between-iphone-and-android/).
 
 ---
 *Basierend auf Apple Support-Dokumenten, GSMA-Standards und Anbieterinformationen Stand Juni 2026. Die eSIM-Kompatibilität kann je nach Region und Anbieter variieren.*

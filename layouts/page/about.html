@@ -36,9 +36,9 @@
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": {{ .Title | jsonify }},
-  "description": {{ (or .Params.seo.description .Params.description) | plainify | jsonify }},
-  "url": {{ .Permalink | jsonify }}
+  "name": {{ .Title | jsonify | safeJS }},
+  "description": {{ (or .Params.seo.description .Params.description) | plainify | jsonify | safeJS }},
+  "url": {{ .Permalink | jsonify | safeJS }}
 }
 {{- end -}}
 </script>

@@ -98,7 +98,7 @@ sidebar_questions:
 
 L'eSIM simplifie la vie des voyageurs et des utilisateurs multi-lignes, mais comme toute technologie, elle peut parfois poser problème. Une activation qui échoue, un QR code qui ne scanne pas, des données mobiles absentes — ces désagréments surviennent souvent au pire moment, quand vous venez d'atterrir dans un pays étranger.
 
-Ce guide de dépannage eSIM couvre **tous les problèmes courants** avec des solutions pas à pas, classés par catégorie et par gravité. Il est régulièrement mis à jour avec les retours d'utilisateurs réels et les évolutions logicielles (iOS 19, Android 16). Pour les problèmes de double SIM, consultez notre **[guide des 12 correctifs pour double eSIM](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+Ce guide de dépannage eSIM couvre **tous les problèmes courants** avec des solutions pas à pas, classés par catégorie et par gravité. Il est régulièrement mis à jour avec les retours d'utilisateurs réels et les évolutions logicielles (iOS 19, Android 16). Pour les problèmes de double SIM, consultez notre **[guide des 12 correctifs pour double eSIM](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
 ---
 
@@ -429,7 +429,7 @@ La procédure varie selon le fabricant. Samsung, Google Pixel et Xiaomi supporte
 - Contactez l'opérateur pour un nouveau QR code.
 - Scannez-le sur le nouveau téléphone.
 
-Pour un guide complet, consultez notre **[guide de transfert eSIM entre iPhone et Android](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+Pour un guide complet, consultez notre **[guide de transfert eSIM entre iPhone et Android](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 ---
 
@@ -664,7 +664,7 @@ L'eSIM elle-même ne consomme pas plus de batterie qu'une SIM physique (différe
 
 ---
 
-Besoin d'aide pour un problème spécifique non couvert ici ? Consultez nos autres guides : **[12 correctifs double eSIM](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** pour les problèmes de double ligne, et le **[guide d'activation eSIM](/faq/how-to-activate-an-esim/)** pour une procédure pas à pas.
+Besoin d'aide pour un problème spécifique non couvert ici ? Consultez nos autres guides : **[12 correctifs double eSIM](/faq/dual-esim-not-working-12-fixes-for-iphone/)** pour les problèmes de double ligne, et le **[guide d'activation eSIM](/faq/how-to-activate-an-esim/)** pour une procédure pas à pas.
 
 ---
 <script type="application/ld+json">

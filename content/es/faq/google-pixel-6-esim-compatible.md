@@ -279,7 +279,7 @@ Si los métodos anteriores fallan:
 
 ## 🛠️ Solución de problemas de activación eSIM con códigos de error
 
-Incluso en Pixel compatibles, la activación eSIM a veces puede fallar. Aquí tienes los códigos de error más comunes y cómo solucionarlos. Si el problema persiste, consulta nuestra [guía de solución profunda de eSIM 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) para casos más complejos.
+Incluso en Pixel compatibles, la activación eSIM a veces puede fallar. Aquí tienes los códigos de error más comunes y cómo solucionarlos. Si el problema persiste, consulta nuestra [guía de solución profunda de eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/) para casos más complejos.
 
 ### Error 1: "EID no encontrado" o "Sin EID"
 
@@ -511,7 +511,7 @@ Sí. La eSIM es independiente de la región. Un Pixel 6 comprado en EE.UU. puede
 Sí – los proveedores internacionales de eSIM ofrecen eSIM para China que funcionan en Pixel 6 y posteriores. Los operadores locales chinos no ofrecen eSIM a turistas.
 
 **P13: ¿Qué debo hacer si veo un error de "activación fallida"?**  
-Consulta la sección de Solución de problemas de activación eSIM arriba, que cubre códigos de error comunes y soluciones. Si el problema persiste, nuestra [guía de solución profunda de eSIM](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) cubre casos más complejos.
+Consulta la sección de Solución de problemas de activación eSIM arriba, que cubre códigos de error comunes y soluciones. Si el problema persiste, nuestra [guía de solución profunda de eSIM](/faq/esim-deep-troubleshooting-guide-2026/) cubre casos más complejos.
 
 **P14: ¿Puedo usar mi Pixel con eSIM en varios países durante el mismo viaje?**  
 Sí. Puedes comprar una **eSIM Europa** para cubrir múltiples países europeos, o planes regionales para Asia, América u otras regiones. Si viajas a un país específico, planes como **eSIM USA**, **eSIM España** o **eSIM México** suelen ser más económicos.

@@ -97,7 +97,7 @@ sidebar_questions:
       url: "/compatibility/"
 ---
 
-Yıllardır eSIM aktarımları aynı ekosistem içinde kısıtlıydı – iPhone'dan iPhone'a veya bazı Android telefonlar arasında taşıyabiliyordunuz, ancak iOS‑Android çizgisini geçmek için operatörünüze gitmeniz gerekiyordu. **iOS 19 ve Android 16 bunu tamamen değiştiriyor.** Bu kılavuz, eSIM'inizi sorunsuz bir şekilde aktarmak için desteklenen her yöntemi, operatör gereksinimini ve sorun giderme adımını adım adım açıklamaktadır. Genel aktivasyon yardımı için **[iPhone 17 eSIM Tam Kılavuzu](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** sayfamıza bakın.
+Yıllardır eSIM aktarımları aynı ekosistem içinde kısıtlıydı – iPhone'dan iPhone'a veya bazı Android telefonlar arasında taşıyabiliyordunuz, ancak iOS‑Android çizgisini geçmek için operatörünüze gitmeniz gerekiyordu. **iOS 19 ve Android 16 bunu tamamen değiştiriyor.** Bu kılavuz, eSIM'inizi sorunsuz bir şekilde aktarmak için desteklenen her yöntemi, operatör gereksinimini ve sorun giderme adımını adım adım açıklamaktadır. Genel aktivasyon yardımı için **[iPhone 17 eSIM Tam Kılavuzu](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** sayfamıza bakın.
 
 Platformlar arası eSIM aktarımının ardındaki teknoloji, [GSMA tüketici eSIM aktarım spesifikasyonu (SGP.22 v2.5+)](https://www.gsma.com/esim/) tarafından yönetilmektedir. Apple'ın resmi [iPhone'da eSIM hakkında](https://support.apple.com/en-us/HT209044) ve [Android'in eSIM destek sayfası](https://support.google.com/android/answer/11241215) uyumluluk hakkında ek bilgi sağlamaktadır.
 
@@ -300,7 +300,7 @@ Gerçek kullanıcı vakalarına ve Apple'ın dahili dokümantasyonuna dayanarak,
 | **eSIM profili süresi doldu** hatası | QR kodun bir zaman sınırı vardır (24‑72 saat). | Yeni bir QR kod için operatörle iletişime geçin. |
 | **eSIM aktivasyonu başarısız** net hata yok | Operatör ağı yoğunluğu veya geçici kesinti. | 15‑30 dakika bekleyin ve tekrar deneyin. Hala başarısızsa, yedek yöntemleri kullanın (Bölüm 6). |
 
-Aktarımdan sonra **çift eSIM sinyal sorunları** yaşıyorsanız – hatlardan biri “Servis Yok” gösteriyorsa veya aramalar başarısız oluyorsa – ek çözümler için **[Çift eSIM Çalışmıyor? iPhone için 12 Çözüm](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** kılavuzumuza göz atın.
+Aktarımdan sonra **çift eSIM sinyal sorunları** yaşıyorsanız – hatlardan biri “Servis Yok” gösteriyorsa veya aramalar başarısız oluyorsa – ek çözümler için **[Çift eSIM Çalışmıyor? iPhone için 12 Çözüm](/faq/dual-esim-not-working-12-fixes-for-iphone/)** kılavuzumuza göz atın.
 
 ### Hala takıldınız mı?
 Destekle iletişime geçmeden önce bunları toplayın:
@@ -347,7 +347,7 @@ Eski cihaz, bu hat için “Servis Yok” gösterecektir. eSIM profili, eski cih
 Hayır. Çoğu seyahat eSIM'i (Airalo, Holafly, Roami veri planları vb.) platformlar arası aktarımı desteklemez. Bunlar cihaz başına bir kez kurulmak üzere tasarlanmıştır. Yeni telefonunuzda yeni bir plan satın almanız gerekir.
 
 **S2: Aktarım iPhone 11 ile Samsung S24 arasında çalışır mı?**  
-Evet – her ikisi de işletim sistemi gereksinimlerini karşıladığı sürece. iPhone 11, iOS 19'u destekler (iOS 19'a kadar çalışırır). Samsung S24, Android 16'yı destekler. Donanım nesli önemli değildir; yalnızca işletim sistemi sürümü önemlidir. Cihaza özel eSIM davranışı hakkında derinlemesine bilgi için **[iPhone 17 eSIM Tam Kılavuzu](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** sayfamıza bakın (birçok eski model için de geçerlidir).
+Evet – her ikisi de işletim sistemi gereksinimlerini karşıladığı sürece. iPhone 11, iOS 19'u destekler (iOS 19'a kadar çalışırır). Samsung S24, Android 16'yı destekler. Donanım nesli önemli değildir; yalnızca işletim sistemi sürümü önemlidir. Cihaza özel eSIM davranışı hakkında derinlemesine bilgi için **[iPhone 17 eSIM Tam Kılavuzu](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** sayfamıza bakın (birçok eski model için de geçerlidir).
 
 **S3: Adımları denedim ancak Android'imde “iPhone veya iPad ile Eşleştir” yok. Bu ne anlama geliyor?**  
 Bu menü Google Servisleri'nin bir parçasıdır ve yalnızca Google Play Servisleri güncellenmiş Android 16+ cihazlarda görünür. `Ayarlar > Telefon hakkında > Android sürümü`'ne gidin. 15 veya daha eskiyse, telefonunuzu yükseltin veya yedek yöntemi kullanın (operatör QR kodu).

@@ -143,7 +143,7 @@ Tutti i modelli iPhone da **iPhone XS, XR e successivi** supportano l'eSIM. Ques
 - **Modelli USA (iPhone 14 e successivi):** Solo eSIM – nessun vassoio SIM fisica. Perfetti per i viaggi – devi comunque usare l'eSIM.
 - **Modelli internazionali:** Di solito hanno una SIM fisica + eSIM. Puoi mantenere la tua SIM fisica di casa per le chiamate e usare un eSIM per i dati.
 
-> 📱 **Passi a un modello nuovo prima di un viaggio?** La nostra **[Guida completa iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** mostra come attivare qualsiasi eSIM sull'hardware più recente.
+> 📱 **Passi a un modello nuovo prima di un viaggio?** La nostra **[Guida completa iPhone 17 eSIM](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** mostra come attivare qualsiasi eSIM sull'hardware più recente.
 
 ---
 
@@ -227,7 +227,7 @@ Per i migliori risultati:
 - Abilita **Consenti commutazione dati cellulare** – il telefono può usare i dati dell'eSIM da viaggio per il Wi-Fi Calling della tua linea di casa.
 - Disabilita **“Invia come SMS”** per iMessage se il tuo piano di casa ha SMS costosi.
 
-> 📖 **La doppia SIM non si comporta bene?** Consulta la nostra guida **[Doppia eSIM non funziona? 12 soluzioni per iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** per conflitti CDMA, errori T‑ADS e soluzioni per il consumo della batteria.
+> 📖 **La doppia SIM non si comporta bene?** Consulta la nostra guida **[Doppia eSIM non funziona? 12 soluzioni per iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** per conflitti CDMA, errori T‑ADS e soluzioni per il consumo della batteria.
 
 ---
 
@@ -273,7 +273,7 @@ Se non c'è connessione dopo 2 minuti:
 - Riavvia il tuo iPhone.
 - Seleziona manualmente una rete: `Impostazioni` > `Cellulare` > eSIM da viaggio > `Selezione rete` → disattiva Automatica → scegli un operatore locale manualmente.
 
-> 🔄 **Cambi telefono durante il viaggio?** Potresti dover **[trasferire il tuo eSIM](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** – la nostra guida copre lo spostamento tra iPhone e Android cross-platform.
+> 🔄 **Cambi telefono durante il viaggio?** Potresti dover **[trasferire il tuo eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/)** – la nostra guida copre lo spostamento tra iPhone e Android cross-platform.
 
 ---
 
@@ -301,7 +301,7 @@ R: La maggior parte delle reti cellulari delle navi da crociera non è coperta d
 R: La maggior parte dei provider ti consente di ricaricare istantaneamente tramite la loro app – nessun nuovo codice QR necessario. Basta acquistare un pacchetto dati aggiuntivo.
 
 **D7: L'eSIM è sicuro? Qualcuno può hackerarlo?**  
-R: Gli eSIM sono più sicuri delle SIM fisiche. Sono conformi allo standard SGP.21 della GSMA, che impedisce clonazione o estrazione. Vedi la **[panoramica sulla sicurezza eSIM nella nostra guida iPhone 17](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/#5-esim-security-advantages-why-more-reliable-than-physical-sim)**.
+R: Gli eSIM sono più sicuri delle SIM fisiche. Sono conformi allo standard SGP.21 della GSMA, che impedisce clonazione o estrazione. Vedi la **[panoramica sulla sicurezza eSIM nella nostra guida iPhone 17](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/#5-esim-security-advantages-why-more-reliable-than-physical-sim)**.
 
 ---
 
@@ -317,9 +317,9 @@ R: Gli eSIM sono più sicuri delle SIM fisiche. Sono conformi allo standard SGP.
 
 > 📎 **Risorse correlate:**
 > - [Guida approfondita alla risoluzione dei problemi eSIM (16 casi reali)](/faq/esim-deep-troubleshooting-guide-2026/)
-> - [Guida completa iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)
-> - [Trasferimento eSIM cross-platform 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
-> - [Doppia eSIM non funziona? 12 soluzioni per iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+> - [Guida completa iPhone 17 eSIM](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)
+> - [Trasferimento eSIM cross-platform 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)
+> - [Doppia eSIM non funziona? 12 soluzioni per iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)
 
 ---
 

@@ -149,7 +149,7 @@ Kilitli bir iPhone yalnızca satın alındığı operatörü kullanabilir. Kontr
 - **ABD modelleri (iPhone 14 ve daha yenileri):** Yalnızca eSIM – fiziksel SIM tepsisi yok. Seyahat için mükemmel – zaten eSIM kullanmak zorundasınız.
 - **Uluslararası modeller:** Genellikle bir fiziksel SIM + eSIM bulunur. Aramalar için ev fiziksel SIM'inizi saklayabilir ve veri için bir eSIM kullanabilirsiniz.
 
-> 📱 **Bir seyahatten önce yükseltme mi yapıyorsunuz?** **[iPhone 17 eSIM Tam Kılavuzumuz](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** en yeni donanımda herhangi bir eSIM'in nasıl etkinleştirileceğini gösterir.
+> 📱 **Bir seyahatten önce yükseltme mi yapıyorsunuz?** **[iPhone 17 eSIM Tam Kılavuzumuz](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** en yeni donanımda herhangi bir eSIM'in nasıl etkinleştirileceğini gösterir.
 
 ---
 
@@ -231,7 +231,7 @@ Hedefinize vardığınızda:
 
 > ⚠️ **eSIM yalnızca iPhone'unuz varsa (ABD modeli):** Ev eSIM'iniz hala dolaşım yapmaya çalışabilir. Ücretlerden kaçınmak için ev hattı için **Veri Dolaşımı**'nı kapatın ve/veya “Hücresel Veri Geçişine İzin Ver” seçeneğini devre dışı bırakın.
 
-Sorunlarla karşılaşırsanız, [eSIM sorun giderme kılavuzumuza](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) bakın.
+Sorunlarla karşılaşırsanız, [eSIM sorun giderme kılavuzumuza](/faq/esim-deep-troubleshooting-guide-2026/) bakın.
 
 ---
 
@@ -282,7 +282,7 @@ En iyi sonuçlar için:
 - **Hücresel Veri Geçişine İzin Ver** seçeneğini etkinleştirin – telefon, ev hattınızın Wi‑Fi Arama'sı için seyahat eSIM'inin verisini kullanabilir.
 - Ev planınızda pahalı SMS varsa iMessage için **“SMS Olarak Gönder”** seçeneğini devre dışı bırakın.
 
-> 📖 **Çift SIM düzgün davranmıyor mu?** CDMA çakışmaları, T‑ADS hataları ve pil tüketimi düzeltmeleri için **[Çift eSIM Çalışmıyor mu? iPhone için 12 Düzeltme](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** kılavuzumuza bakın.
+> 📖 **Çift SIM düzgün davranmıyor mu?** CDMA çakışmaları, T‑ADS hataları ve pil tüketimi düzeltmeleri için **[Çift eSIM Çalışmıyor mu? iPhone için 12 Düzeltme](/faq/dual-esim-not-working-12-fixes-for-iphone/)** kılavuzumuza bakın.
 
 ---
 
@@ -330,7 +330,7 @@ Apple'ın dokümantasyonu bölgeye özel kısıtlamalar içerir:
 - iPhone'unuzu yeniden başlatın.
 - Manuel olarak bir ağ seçin: `Ayarlar` > `Hücresel` > seyahat eSIM'i > `Ağ Seçimi` → Otomatik'i kapatın → manuel olarak yerel bir operatör seçin.
 
-> 🔄 **Seyahat sırasında telefon değiştiriyor musunuz?** eSIM'inizi **[aktarmanız](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** gerekebilir – kılavuzumuz iPhone ve Android arasında platformlar arası taşımayı kapsar.
+> 🔄 **Seyahat sırasında telefon değiştiriyor musunuz?** eSIM'inizi **[aktarmanız](/faq/how-to-transfer-esim-between-iphone-and-android/)** gerekebilir – kılavuzumuz iPhone ve Android arasında platformlar arası taşımayı kapsar.
 
 ---
 
@@ -359,7 +359,7 @@ Evet – iMessage ve FaceTime Apple ID'nize ve iMessage ile kayıtlı telefon nu
 Çoğu sağlayıcı, uygulamaları aracılığıyla anında yükleme yapmanıza izin verir – yeni QR koduna gerek yoktur. Sadece ek bir veri paketi satın alın.
 
 **S7: eSIM güvenli mi? Biri onu hackleyebilir mi?**  
-eSIM'ler fiziksel SIM'lerden daha güvenlidir. GSMA'nın SGP.21 standardına uyarlar, bu da klonlamayı veya çıkarmayı önler. **[iPhone 17 kılavuzumuzdaki eSIM güvenliğine genel bakışa](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/#5-esim-security-advantages-why-more-reliable-than-physical-sim)** bakın.
+eSIM'ler fiziksel SIM'lerden daha güvenlidir. GSMA'nın SGP.21 standardına uyarlar, bu da klonlamayı veya çıkarmayı önler. **[iPhone 17 kılavuzumuzdaki eSIM güvenliğine genel bakışa](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/#5-esim-security-advantages-why-more-reliable-than-physical-sim)** bakın.
 
 **S8: Avrupa için en iyi seyahat eSIM hangisidir?**  
 Çoğu gezgin için Roami veya Airalo Avrupa bölgesel planları en iyi değeri sunar. **eSIM Avrupa** veya **Avrupa eSIM** planları tipik olarak 30+ ülkeyi kapsar.

@@ -19,8 +19,8 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": {{ with .Params.seo.title }}{{ . | jsonify }}{{ else }}{{ .Title | jsonify }}{{ end }},
-            "url": {{ .Permalink | jsonify }}
+            "name": {{ with .Params.seo.title }}{{ . | jsonify | safeJS }}{{ else }}{{ .Title | jsonify | safeJS }}{{ end }},
+            "url": {{ .Permalink | jsonify | safeJS }}
         }
     </script>
 
@@ -35,22 +35,22 @@
             {
                 "@context": "https://schema.org",
                 "@type": "SoftwareApplication",
-                "name": {{ .Params.schema.name | jsonify }},
-                "operatingSystem": {{ .Params.schema.os | jsonify }},
-                "applicationCategory": {{ .Params.schema.category | jsonify }},
+                "name": {{ .Params.schema.name | jsonify | safeJS }},
+                "operatingSystem": {{ .Params.schema.os | jsonify | safeJS }},
+                "applicationCategory": {{ .Params.schema.category | jsonify | safeJS }},
                 "offers": {
                     "@type": "Offer",
-                    "price": {{ .Params.schema.price | jsonify }},
-                    "priceCurrency": {{ .Params.schema.currency | jsonify }}
+                    "price": {{ .Params.schema.price | jsonify | safeJS }},
+                    "priceCurrency": {{ .Params.schema.currency | jsonify | safeJS }}
                 },
                 "aggregateRating": {
                     "@type": "AggregateRating",
                     {{- $ratingVal := .Params.schema.ratingValue | default 0 }}
                     {{- $ratingCount := .Params.schema.ratingCount | default 0 }}
-                    "ratingValue": {{ $ratingVal | float | jsonify }},
-                    "ratingCount": {{ $ratingCount | int | jsonify }}
+                    "ratingValue": {{ $ratingVal | float | jsonify | safeJS }},
+                    "ratingCount": {{ $ratingCount | int | jsonify | safeJS }}
                 },
-                "description": {{ with .Params.seo.description }}{{ . | jsonify }}{{ else }}{{ .Description | jsonify }}{{ end }}
+                "description": {{ with .Params.seo.description }}{{ . | jsonify | safeJS }}{{ else }}{{ .Description | jsonify | safeJS }}{{ end }}
             }
         </script>
     {{ end }}
@@ -70,10 +70,10 @@
                     {{ range $index, $element := .Params.faq_section.items }}
                         {
                             "@type": "Question",
-                            "name": {{ .question | jsonify }},
+                            "name": {{ .question | jsonify | safeJS }},
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": {{ .answer | plainify | jsonify }}
+                                "text": {{ .answer | plainify | jsonify | safeJS }}
                             }
                         }{{ if ne (add $index 1) $len }},{{ end }}
                     {{ end }}
@@ -382,7 +382,7 @@
                 <ul class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6 list-none p-0 m-0">
                     {{ range .items }}
                         <li>
-                            <a href="{{ (printf "/%s-esim/" .slug) | relLangURL }}" aria-label="{{ $.Params.ui.explore | default "Explore" }} {{ .name }} {{ $.Params.ui.esim_plans | default "eSIM plans" }}" class="block bg-white rounded-2xl p-6 border border-slate-100 hover:shadow-xl hover:-translate-y-1 transition duration-300 relative overflow-hidden group h-full">
+                            <a href="{{ (printf "/%s-esim/" (.slug | lower)) | relLangURL }}" aria-label="{{ $.Params.ui.explore | default "Explore" }} {{ .name }} {{ $.Params.ui.esim_plans | default "eSIM plans" }}" class="block bg-white rounded-2xl p-6 border border-slate-100 hover:shadow-xl hover:-translate-y-1 transition duration-300 relative overflow-hidden group h-full">
                                 <div class="absolute top-4 right-4 {{ .badgeColor }} text-white text-[11px] font-black px-3 py-1 rounded-full tracking-wider shadow-sm z-10">{{ .badge }}</div>
 
                                 <div class="flex flex-col items-center text-center mt-2 mb-2">

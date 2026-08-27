@@ -39,10 +39,10 @@ recentPosts:
     permalink: "/compatibility/"
     date: "2026-05-26"
   - title: "Transferencia de eSIM multiplataforma 2026"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "¿Doble eSIM no funciona? 12 soluciones para iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Lista completa de compatibilidad de eSIM para smartwatches"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -54,7 +54,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "Guía definitiva 2026: Soluciones de activación de eSIM para iPhone 17"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 Uno de cada cinco usuarios de eSIM por primera vez en Alemania experimenta algún problema de activación o conectividad, según las quejas registradas ante la Bundesnetzagentur y foros de consumidores como heise.de. Los problemas más comunes ("Sin servicio" al aterrizar, fallos de activación, pantallas en blanco y códigos QR que no se escanean) tienen su origen en un pequeño conjunto de causas raíz, cada una con una solución conocida que lleva menos de cinco minutos. Tu eSIM de Alemania no muestra señal y necesitas solucionarlo ahora; esta guía cubre exactamente cómo hacerlo.

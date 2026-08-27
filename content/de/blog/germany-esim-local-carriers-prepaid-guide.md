@@ -38,10 +38,10 @@ recentPosts:
     permalink: "/compatibility/"
     date: "2026-05-26"
   - title: "2026 Plattformübergreifende eSIM-Übertragung"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Duale eSIM funktioniert nicht? 12 Lösungen für iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Smartwatch-eSIM-Kompatibilität vollständige Liste"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -53,7 +53,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 Ultimativer Leitfaden: iPhone 17 eSIM-Aktivierungslösungen"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 Im Gegensatz zu Airalo, das nur O2 nutzt, bietet Roami automatischen Wechsel zwischen allen drei Carriern. Aldi Talk verlangt 10-13 EUR für einen 10-GB-Prepaid-Tarif, während internationale eSIM-Anbieter für das gleiche Datenvolumen 15-30 EUR verlangen – eine Lücke von 30-50 %, die sich bei längeren Aufenthalten zu erheblichen Ersparnissen summiert. Deutschlands paralleles Mobilfunk-Ökosystem, das erstmals im [Deutschland eSIM-Grundlagen](/blog/germany-esim-complete-travel-guide/) beschrieben wird, ermöglicht es Ihnen, eine Prepaid-SIM an der Supermarktkasse zusammen mit Ihren Einkäufen zu kaufen, wo Discount-Carrier die internationalen Preise deutlich unterbieten und die Wahl zwischen Telekom, Vodafone und O2 weitaus mehr über Ihr Erlebnis bestimmt als der Markenname auf der Karte.

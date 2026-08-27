@@ -311,7 +311,7 @@ Moto G Power 2024, bir aktif fiziksel SIM ve bir aktif eSIM ile çift SIM'i dest
 - **Ev SIM'inizi** aramalar ve SMS'ler için aktif tutun (ücretlerden kaçınmak için veri dolaşımı devre dışı)
 - **Uygun fiyatlı yerel veri için bir seyahat eSIM'i** kullanın
 
-Bu, pahalı dolaşım ücretlerinden kaçınarak yurt dışında bağlantıda kalmanın en uygun maliyetli yoludur. Daha fazla ipucu için [Seyahat eSIM 2026 kılavuzumuza](/faq/Travel-eSIM-2026-How-to-Avoid-Roaming-Fees-Stay-Connected-Abroad/) bakın.
+Bu, pahalı dolaşım ücretlerinden kaçınarak yurt dışında bağlantıda kalmanın en uygun maliyetli yoludur. Daha fazla ipucu için [Seyahat eSIM 2026 kılavuzumuza](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/) bakın.
 
 
 ## Sık Sorulan Sorular

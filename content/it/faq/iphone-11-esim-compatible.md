@@ -348,7 +348,7 @@ Il modo più affidabile per confermare la compatibilità eSIM del tuo iPhone è 
 - [Compatibilità eSIM Samsung Galaxy](/faq/samsung-galaxy-esim-compatible/)
 - [Compatibilità eSIM Google Pixel](/faq/google-pixel-6-esim-compatible/)
 - [Guida eSIM per iPad e Apple Watch](/faq/ipad-apple-watch-esim-support-guide/)
-- [Guida approfondita alla risoluzione dei problemi eSIM 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)
+- [Guida approfondita alla risoluzione dei problemi eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)
 
 ---
 

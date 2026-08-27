@@ -37,10 +37,10 @@ recentPosts:
     permalink: "/compatibility/"
     date: "2026-05-26"
   - title: "Transferencia de eSIM multiplataforma 2026"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "¿Dual eSIM no funciona? 12 Soluciones para iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Lista completa de compatibilidad de eSIM para Smartwatch"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -52,7 +52,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "Guía definitiva 2026: Soluciones de activación de eSIM para iPhone 17"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 Encontrar la mejor manera de obtener internet en China se reduce a tres opciones: una eSIM de viaje internacional ($15-30 por 7 días, Google/WhatsApp funcionan, sin número local), una SIM física china ($5-15 por 7 días más VPN, necesita registro de pasaporte, incluye número local) o el roaming de tu operador local ($50-100 por 7 días, caro pero sin configuración). Esta guía compara cada opción de conectividad para viajar a China en cuanto a costo, conveniencia y acceso a aplicaciones, con una matriz de decisión para ayudarte a elegir.

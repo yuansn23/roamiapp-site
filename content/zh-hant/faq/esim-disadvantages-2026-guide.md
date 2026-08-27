@@ -97,8 +97,8 @@ sidebar_questions:
 
 1. **設備相容性並非全面** – 多款舊手機、平價機種甚至部分旗艦機都不支援 eSIM。若您持有舊款 iPhone，可參考 [**如何在 iPhone 上啟用 eSIM**](/faq/how-to-activate-esim-on-iphone/) 確認相容性。
 2. **電信業者支援不均** – 許多國家和地區的電信業者仍未提供 eSIM 服務。
-3. **轉移過程比實體 SIM 麻煩** – 換手機時無法直接插拔，需重新掃碼或聯繫客服。詳細解決方案請見 [**iPhone 與 Android 間轉移 eSIM 教學**](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)。
-4. **旅行中可能陷入「無網路」窘境** – 若 eSIM 設定失敗或資料遺失，補救難度高。發生問題時可嘗試 [**eSIM 深度故障排除指南**](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) 中的方法。
+3. **轉移過程比實體 SIM 麻煩** – 換手機時無法直接插拔，需重新掃碼或聯繫客服。詳細解決方案請見 [**iPhone 與 Android 間轉移 eSIM 教學**](/faq/how-to-transfer-esim-between-iphone-and-android/)。
+4. **旅行中可能陷入「無網路」窘境** – 若 eSIM 設定失敗或資料遺失，補救難度高。發生問題時可嘗試 [**eSIM 深度故障排除指南**](/faq/esim-deep-troubleshooting-guide-2026/) 中的方法。
 5. **隱私與安全疑慮** – eSIM 設定檔可被遠端管理，存在潛在追蹤風險。
 6. **二手轉賣困難** – 殘留的 eSIM 設定檔需手動清除，買家可能無法直接使用。
 7. **中國大陸版本手機普遍不支援** – 影響頻繁往來兩岸的用戶。
@@ -150,7 +150,7 @@ eSIM 技術從 2017 年開始出現在部分手機上，但直到 2026 年的今
 **即使支援，啟用流程也常令人頭痛：**
 - 部分電信業者要求必須臨櫃辦理（如印度 Jio、日本樂天移動）。
 - 有些業者只支援月租型門號，預付卡無法申請 eSIM（如美國 Visible 早期政策）。
-- 啟用過程中若掃碼失敗，客服處理速度遠慢於實體 SIM 更換。若遇到這類情況，可參考 [**iPhone 雙 eSIM 無法運作修復**](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/) 中的 12 種解決方法。
+- 啟用過程中若掃碼失敗，客服處理速度遠慢於實體 SIM 更換。若遇到這類情況，可參考 [**iPhone 雙 eSIM 無法運作修復**](/faq/dual-esim-not-working-12-fixes-for-iphone/) 中的 12 種解決方法。
 
 > **案例：** 一位用戶在泰國購買 AIS 旅行 eSIM，掃描 QR 碼後一直顯示「無法加入行動方案」，最終只能退款改買實體 SIM，浪費了兩小時。
 
@@ -171,7 +171,7 @@ eSIM 技術從 2017 年開始出現在部分手機上，但直到 2026 年的今
 - 您正在國外旅行，手機突然故障。實體 SIM 可以拔出來插到備用手機上。eSIM 呢？若您沒有事先保留 QR 碼備份，或備用手機沒有 eSIM 功能，您將瞬間斷網。
 - 販賣二手手機時，若忘記刪除 eSIM 設定檔，買家可能無法正常使用。雖然可以遠端移除，但過程麻煩。
 
-> **專業提示：** 出國前詳細閱讀 [**iPhone 與 Android 間轉移 eSIM 教學**](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)，並將 eSIM 的啟用 QR 碼截圖或保存在雲端，以防手機遺失後無法重新下載。
+> **專業提示：** 出國前詳細閱讀 [**iPhone 與 Android 間轉移 eSIM 教學**](/faq/how-to-transfer-esim-between-iphone-and-android/)，並將 eSIM 的啟用 QR 碼截圖或保存在雲端，以防手機遺失後無法重新下載。
 
 ## 4. 旅行中的風險：依賴 eSIM 可能讓你孤立無援
 
@@ -194,7 +194,7 @@ eSIM 技術從 2017 年開始出現在部分手機上，但直到 2026 年的今
 
 ### 真實案例
 
-> 一位用戶購買了某品牌的日本 30 天 eSIM，抵達東京後手機顯示「啟用失敗」，嘗試手動輸入 APN 也無效。最終只能購買機場的實體 SIM 卡（價格貴 3 倍）。後續客服回覆時，旅程已過一半。若事先熟悉 [**eSIM 深度故障排除指南**](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) 中的步驟，或許能更快解決問題。
+> 一位用戶購買了某品牌的日本 30 天 eSIM，抵達東京後手機顯示「啟用失敗」，嘗試手動輸入 APN 也無效。最終只能購買機場的實體 SIM 卡（價格貴 3 倍）。後續客服回覆時，旅程已過一半。若事先熟悉 [**eSIM 深度故障排除指南**](/faq/esim-deep-troubleshooting-guide-2026/) 中的步驟，或許能更快解決問題。
 
 ## 5. 隱私與安全：eSIM 的潛在風險
 
@@ -265,13 +265,13 @@ eSIM 的「遠端管理」特性雖然方便，但也帶來了傳統 SIM 卡所�
 ## ❓ 常見問答
 
 #### eSIM 的最大缺點是什麼？
-轉移不便 – 換手機時無法插拔即用，需重新掃碼或聯繫電信業者，耗時較長。詳細步驟請參考 [**iPhone 與 Android 間轉移 eSIM 教學**](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)。
+轉移不便 – 換手機時無法插拔即用，需重新掃碼或聯繫電信業者，耗時較長。詳細步驟請參考 [**iPhone 與 Android 間轉移 eSIM 教學**](/faq/how-to-transfer-esim-between-iphone-and-android/)。
 
 #### eSIM 可以被追蹤嗎？
 理論上可以，因為 eSIM 設定檔與裝置唯一識別碼（EID）綁定。但需要司法授權或電信業者內部權限。
 
 #### 出國用 eSIM 失敗怎麼辦？
-若在機場無 Wi-Fi，建議預先安裝兩家不同供應商的 eSIM 方案作為備援，或隨身攜帶實體備用 SIM 卡。同時可參考 [**eSIM 深度故障排除指南**](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) 中的修復方法。
+若在機場無 Wi-Fi，建議預先安裝兩家不同供應商的 eSIM 方案作為備援，或隨身攜帶實體備用 SIM 卡。同時可參考 [**eSIM 深度故障排除指南**](/faq/esim-deep-troubleshooting-guide-2026/) 中的修復方法。
 
 #### 哪些手機絕對不能用 eSIM？
 iPhone 8 及更舊、iPhone X、所有中國國行版手機、Samsung S9 以前機型、多數中低階 Android 手機。若您持有三星 S20，請先確認 [**Samsung S20 eSIM 相容性問題**](/faq/samsung-s20-esim-compatible/)。
@@ -280,7 +280,7 @@ iPhone 8 及更舊、iPhone X、所有中國國行版手機、Samsung S9 以前�
 差異極小，通常在 1-2% 以內，可忽略不計。
 
 #### 如何避免 eSIM 轉移問題？
-購買 eSIM 時保留 QR 碼截圖及啟用資訊，換手機時重新掃描即可。若原電信業者不支援重新下載，則需聯繫客服。更多技巧請見 [**iPhone 雙 eSIM 無法運作修復**](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)。
+購買 eSIM 時保留 QR 碼截圖及啟用資訊，換手機時重新掃描即可。若原電信業者不支援重新下載，則需聯繫客服。更多技巧請見 [**iPhone 雙 eSIM 無法運作修復**](/faq/dual-esim-not-working-12-fixes-for-iphone/)。
 
 ---
 

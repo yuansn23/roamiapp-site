@@ -100,9 +100,9 @@ sidebar_questions:
 
 Dengan dirilisnya seri iPhone 17, teknologi eSIM telah memasuki fase adopsi penuh. Model AS sepenuhnya menghilangkan baki SIM fisik, sementara model internasional mendukung penuh dual eSIM aktif secara bersamaan. Berdasarkan dokumentasi teknis resmi Apple 2025–2026, panduan ini mencakup kompatibilitas, keamanan, aktivasi, perjalanan, manajemen perusahaan, dan transfer lintas platform.
 
-Teknologi di balik eSIM diatur oleh [standar GSMA SGP.22](https://www.gsma.com/esim/). [Halaman dukungan resmi Apple untuk eSIM](https://support.apple.com/en-us/108072) memberikan informasi terperinci tentang model iPhone yang kompatibel. Untuk pengguna yang ingin memindahkan eSIM dari ponsel Android, lihat panduan **[Transfer Lintas Platform eSIM 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** .
+Teknologi di balik eSIM diatur oleh [standar GSMA SGP.22](https://www.gsma.com/esim/). [Halaman dukungan resmi Apple untuk eSIM](https://support.apple.com/en-us/108072) memberikan informasi terperinci tentang model iPhone yang kompatibel. Untuk pengguna yang ingin memindahkan eSIM dari ponsel Android, lihat panduan **[Transfer Lintas Platform eSIM 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)** .
 
-Jika Anda berencana menggunakan dua jalur secara bersamaan – misalnya, menjaga nomor rumah Anda tetap aktif sambil menggunakan eSIM perjalanan untuk data – panduan **[Dual eSIM Tidak Berfungsi? 12 Perbaikan untuk iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** mencakup masalah konfigurasi umum dan solusinya.
+Jika Anda berencana menggunakan dua jalur secara bersamaan – misalnya, menjaga nomor rumah Anda tetap aktif sambil menggunakan eSIM perjalanan untuk data – panduan **[Dual eSIM Tidak Berfungsi? 12 Perbaikan untuk iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** mencakup masalah konfigurasi umum dan solusinya.
 
 ---
 
@@ -217,7 +217,7 @@ Disesuaikan dengan antarmuka iOS 19 yang ramping, ada tiga jalur aktivasi tanpa 
 | Banyak profil | Ganti kartu setiap kali | Simpan 8‑10 profil, ganti dengan satu ketukan |
 | Risiko fisik | Mudah hilang atau merusak baki | Nol risiko fisik |
 
-Bagi pelancong, eSIM adalah pemenang yang jelas – terutama saat mengunjungi banyak negara. Untuk perbandingan komprehensif penyedia, lihat **[opsi eSIM AS terbaik untuk 2026](/faq/2026-Best-eSIM-Options-for-the-USA/)** .
+Bagi pelancong, eSIM adalah pemenang yang jelas – terutama saat mengunjungi banyak negara. Untuk perbandingan komprehensif penyedia, lihat **[opsi eSIM AS terbaik untuk 2026](/faq/2026-best-esim-options-for-the-usa/)** .
 
 ---
 
@@ -258,7 +258,7 @@ Apple pertama kali membuka transfer eSIM dua arah antara Android dan iPhone di i
 3. Konfirmasi di Android, lalu klik dua kali tombol samping di iPhone untuk mengonfirmasi.
 4. Setelah transfer selesai, eSIM di iPhone secara otomatis dinonaktifkan.
 
-> **Catatan**: Transfer lintas platform hanya didukung oleh operator tertentu (misalnya, AS: AT&T, T‑Mobile, Verizon; Inggris: EE; JP: KDDI). Jika tidak didukung, hubungi operator Anda untuk kode QR baru. Untuk langkah-langkah terperinci dan pemecahan masalah, kunjungi **[panduan Transfer Lintas Platform eSIM 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** .
+> **Catatan**: Transfer lintas platform hanya didukung oleh operator tertentu (misalnya, AS: AT&T, T‑Mobile, Verizon; Inggris: EE; JP: KDDI). Jika tidak didukung, hubungi operator Anda untuk kode QR baru. Untuk langkah-langkah terperinci dan pemecahan masalah, kunjungi **[panduan Transfer Lintas Platform eSIM 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)** .
 
 ---
 
@@ -288,7 +288,7 @@ Apple pertama kali membuka transfer eSIM dua arah antara Android dan iPhone di i
 
 ## 10. Pertanyaan Umum & Pemecahan Masalah (Khusus iPhone 17)
 
-> **Untuk pemecahan masalah yang lebih mendalam:** Bagian ini mencakup masalah umum. Untuk masalah kompleks yang tidak tercantum di sini (mis., eSIM terikat ke perangkat lain, konflik sinyal dual SIM, DFU error 53), silakan merujuk ke **[Panduan Pemecahan Masalah Mendalam eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)** , yang berisi 16 kasus gejala-penyebab-solusi terperinci. Jika Anda mengalami konflik suara atau data dual‑SIM, lihat juga **[Dual eSIM Tidak Berfungsi? 12 Perbaikan untuk iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** .
+> **Untuk pemecahan masalah yang lebih mendalam:** Bagian ini mencakup masalah umum. Untuk masalah kompleks yang tidak tercantum di sini (mis., eSIM terikat ke perangkat lain, konflik sinyal dual SIM, DFU error 53), silakan merujuk ke **[Panduan Pemecahan Masalah Mendalam eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)** , yang berisi 16 kasus gejala-penyebab-solusi terperinci. Jika Anda mengalami konflik suara atau data dual‑SIM, lihat juga **[Dual eSIM Tidak Berfungsi? 12 Perbaikan untuk iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** .
 
 **T1: Saya bepergian ke China dengan iPhone 17 versi AS (tanpa SIM). Bagaimana cara tetap terhubung?**
 J: Anda dapat membeli paket data China dari penyedia eSIM global. eSIM secara otomatis terhubung ke sinyal 5G lokal saat tiba melalui protokol roaming – tidak diperlukan baki SIM fisik.

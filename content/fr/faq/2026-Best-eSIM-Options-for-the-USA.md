@@ -111,9 +111,9 @@ Pour les voyageurs se rendant aux États-Unis, faire la queue à l'aéroport pou
 
 Quand vous cherchez la **meilleure eSIM USA** (ou la **meilleure eSIM États-Unis**, les deux formulations sont utilisées par les voyageurs francophones), la plupart des informations disponibles restent superficielles : listes de prix, volumes de données, durées. Les vrais enjeux — **rester connecté en continu malgré l'immensité du territoire américain, et comprendre les différences d'expérience réelle entre les architectures réseau sous-jacentes** — sont rarement traités en profondeur. C'est ce que nous faisons ici.
 
-Pour une introduction générale à la technologie eSIM, consultez notre [guide explicatif complet](/faq/What-Is-eSIM/). Si vous rencontrez des difficultés techniques, notre [guide de dépannage approfondi eSIM](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) propose des solutions avancées.
+Pour une introduction générale à la technologie eSIM, consultez notre [guide explicatif complet](/faq/what-is-esim/). Si vous rencontrez des difficultés techniques, notre [guide de dépannage approfondi eSIM](/faq/esim-deep-troubleshooting-guide-2026/) propose des solutions avancées.
 
-> **📖 Vous hésitez entre plusieurs forfaits ?** Cet article compare les meilleures eSIM USA selon des critères objectifs. Si vous préférez un **cadre décisionnel pas à pas** pour choisir vous-même le forfait adapté à votre voyage, consultez notre **[guide complet : comment choisir le meilleur forfait eSIM USA](/faq/The-Ultimate-Guide-to-US-eSIM-in-2026-How-to-Choose-the-Best-Plan/)**.
+> **📖 Vous hésitez entre plusieurs forfaits ?** Cet article compare les meilleures eSIM USA selon des critères objectifs. Si vous préférez un **cadre décisionnel pas à pas** pour choisir vous-même le forfait adapté à votre voyage, consultez notre **[guide complet : comment choisir le meilleur forfait eSIM USA](/faq/the-ultimate-guide-to-us-esim-in-2026-how-to-choose-the-best-plan/)**.
 
 ---
 
@@ -365,7 +365,7 @@ Les opérateurs américains collectent des données d'utilisation, comme tous le
 | **AT&T** | nxgen | (vide) | (vide) |
 | **Verizon** | vzwinternet | (vide) | (vide) |
 
-Pour des problèmes persistants, notre **[guide de dépannage eSIM approfondi](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** couvre 16 cas pratiques avec des solutions avancées. Pour les problèmes de double SIM, consultez **[Double eSIM ne fonctionne pas ? 12 solutions](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+Pour des problèmes persistants, notre **[guide de dépannage eSIM approfondi](/faq/esim-deep-troubleshooting-guide-2026/)** couvre 16 cas pratiques avec des solutions avancées. Pour les problèmes de double SIM, consultez **[Double eSIM ne fonctionne pas ? 12 solutions](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
 ---
 
@@ -476,7 +476,7 @@ Pour un voyage aux États-Unis en 2026, la stratégie optimale est claire : **ne
 - **Installez votre eSIM avant le départ** — Wi-Fi domestique, tranquillité, activation immédiate à l'arrivée.
 - **Téléchargez les cartes hors ligne** des parcs nationaux et zones rurales, quel que soit votre opérateur.
 
-Pour approfondir, découvrez notre **[guide complet sur l'eSIM](/faq/What-Is-eSIM/)** ou trouvez le **[meilleur forfait eSIM pour votre prochaine destination](/united-states-esim/)**.
+Pour approfondir, découvrez notre **[guide complet sur l'eSIM](/faq/what-is-esim/)** ou trouvez le **[meilleur forfait eSIM pour votre prochaine destination](/united-states-esim/)**.
 
 ---
 <script type="application/ld+json">

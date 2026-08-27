@@ -224,7 +224,7 @@ Secondo la documentazione ufficiale Apple, l'eSIM è supportata su un'ampia gamm
 - iPad (A16) – solo eSIM
 - iPad Pro, Air, mini precedenti (3a generazione e successive) – eSIM singola + SIM fisica
 
-> 📱 **Stai passando a un iPhone 17?** La nostra **[Guida Completa eSIM iPhone 17](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** ti accompagna nell'attivazione passo dopo passo.
+> 📱 **Stai passando a un iPhone 17?** La nostra **[Guida Completa eSIM iPhone 17](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** ti accompagna nell'attivazione passo dopo passo.
 
 ---
 
@@ -241,7 +241,7 @@ La specifica tecnica eSIM **SGP.21** della GSMA è stata progettata per impedire
 ### 5.3 Controllo Aziendale
 Usando la gestione dispositivi (MDM), le aziende possono impedire agli utenti di aggiungere o rimuovere eSIM (restrizione `AllowESIMModification`). Questo garantisce che un numero di telefono aziendale rimanga sul dispositivo e non possa essere trasferito accidentalmente.
 
-Per problemi di sicurezza avanzati con doppia SIM, consulta la nostra guida **[Doppia eSIM Non Funziona? 12 Soluzioni per iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+Per problemi di sicurezza avanzati con doppia SIM, consulta la nostra guida **[Doppia eSIM Non Funziona? 12 Soluzioni per iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
 ### 5.4 Vantaggi e Svantaggi: Un Bilancio Onesto (Pros and Cons of eSIM)
 
@@ -282,7 +282,7 @@ Configurare l'eSIM è sorprendentemente semplice. If you're curious about **how 
 - Acquista un piano e tocca "Installa eSIM" – l'app la installa automaticamente.
 
 ### Metodo 4: Trasferimento da Android (iOS 26+) — How Does eSIM Work on Android?
-- Se stai passando da un telefono Android, ora puoi trasferire la tua eSIM direttamente – senza bisogno di chiamare il tuo operatore. **How does esim work on android**? The process is essentially the same as on iPhone: scan a QR code or use your carrier's app. Consulta la guida **[Trasferimento eSIM Multipiattaforma 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** per istruzioni passo dopo passo.
+- Se stai passando da un telefono Android, ora puoi trasferire la tua eSIM direttamente – senza bisogno di chiamare il tuo operatore. **How does esim work on android**? The process is essentially the same as on iPhone: scan a QR code or use your carrier's app. Consulta la guida **[Trasferimento eSIM Multipiattaforma 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)** per istruzioni passo dopo passo.
 
 ---
 
@@ -350,9 +350,9 @@ By now you should have a clear understanding of **what esim** technology is and 
 
 > 📎 **Altro aiuto da Roami:**
 > - [Guida Approfondita alla Risoluzione dei Problemi eSIM (16 casi reali)](/faq/esim-deep-troubleshooting-guide-2026/)
-> - [Guida Completa eSIM iPhone 17](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)
-> - [Trasferimento eSIM Multipiattaforma 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
-> - [Doppia eSIM Non Funziona? 12 Soluzioni per iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+> - [Guida Completa eSIM iPhone 17](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)
+> - [Trasferimento eSIM Multipiattaforma 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)
+> - [Doppia eSIM Non Funziona? 12 Soluzioni per iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)
 
 ---
 

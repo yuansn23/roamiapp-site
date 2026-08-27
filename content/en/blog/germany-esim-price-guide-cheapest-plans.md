@@ -38,10 +38,10 @@ recentPosts:
     permalink: "/compatibility/"
     date: "2026-05-26"
   - title: "2026 Cross-Platform eSIM Transfer"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Smartwatch eSIM Compatibility Complete List"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -53,7 +53,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 Germany eSIM prices range from under 3 euros for a 1 GB short-term plan to around 50 euros for a 50 GB long-stay package. The gap between the cheapest option and a premium plan can be tenfold for the same data volume. This guide compares pricing across providers, data tiers from 1 GB to 50 GB, and explains when the cheapest plan is the right choice and when it will cost you more.

@@ -99,7 +99,7 @@ sidebar_questions:
 
 
 
-> 在單一支 iPhone 上使用兩個電話號碼非常方便，但這背後隱藏著一些陷阱。從 CDMA 與 GSM 的衝突，到來電路由（T‑ADS）故障——本指南涵蓋了讓 **雙重 eSIM** 或 **eSIM + 實體 SIM** 在 iPhone 17、16 及更早機型搭配 iOS 26 上完美運作所需知道的一切。如需了解 eSIM 基本設定的完整說明，請參閱我們的 **[iPhone 17 eSIM 終極指南](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**。
+> 在單一支 iPhone 上使用兩個電話號碼非常方便，但這背後隱藏著一些陷阱。從 CDMA 與 GSM 的衝突，到來電路由（T‑ADS）故障——本指南涵蓋了讓 **雙重 eSIM** 或 **eSIM + 實體 SIM** 在 iPhone 17、16 及更早機型搭配 iOS 26 上完美運作所需知道的一切。如需了解 eSIM 基本設定的完整說明，請參閱我們的 **[iPhone 17 eSIM 終極指南](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)**。
 
 ---
 
@@ -195,7 +195,7 @@ CDMA 網路使用不同的語音回落技術（1xRTT）。iPhone 的數據機一
 - 聯絡您的電信業者要求解鎖。美國電信業者在您付清裝置費用後必須解鎖。
 - 如果已解鎖但仍無法使用，您可能需要重置網路設定：`設定 > 一般 > 移轉或重置 iPhone > 重置 > 重置網路設定`。（警告：這會清除 Wi-Fi 密碼。）
 
-解鎖後，您也可以將 eSIM 在 iPhone 與 Android 之間轉移 – 請參閱我們的 **[2026 跨平台 eSIM 轉移指南](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** 以獲得逐步說明。
+解鎖後，您也可以將 eSIM 在 iPhone 與 Android 之間轉移 – 請參閱我們的 **[2026 跨平台 eSIM 轉移指南](/faq/how-to-transfer-esim-between-iphone-and-android/)** 以獲得逐步說明。
 
 ---
 
@@ -231,7 +231,7 @@ CDMA 網路使用不同的語音回落技術（1xRTT）。iPhone 的數據機一
 4. 如果仍然無法辨識，請將 SIM 卡放到另一支手機測試 – 如果可以運作，則可能是您 iPhone 的 SIM 讀取器故障。
 5. 前往電信業者門市更換 SIM 卡（大多數月租型方案免費）。
 
-如果您打算完全轉換到 eSIM，請參閱我們的 **[iPhone 17 eSIM 指南](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** 了解啟用方法。
+如果您打算完全轉換到 eSIM，請參閱我們的 **[iPhone 17 eSIM 指南](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** 了解啟用方法。
 
 ---
 
@@ -285,7 +285,7 @@ Apple 在 **中國大陸** 銷售特定雙實體 SIM 機型：
 ## 11. 常見問答
 
 **Q1: 我可以使用同一家電信業者的兩張 eSIM 嗎？**  
-A: 可以，只要您的電信業者允許同一個帳戶有多個 eSIM 設定檔。例如，T‑Mobile US 支援在單一支 iPhone 上使用最多兩張 eSIM。如需完整的相容 iPhone 型號列表，請參閱 **[iPhone 17 相容性表格](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/#2-global-iphone-17-models--esim-compatibility-table)**。
+A: 可以，只要您的電信業者允許同一個帳戶有多個 eSIM 設定檔。例如，T‑Mobile US 支援在單一支 iPhone 上使用最多兩張 eSIM。如需完整的相容 iPhone 型號列表，請參閱 **[iPhone 17 相容性表格](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/#2-global-iphone-17-models--esim-compatibility-table)**。
 
 **Q2: 兩條線路會同時支援 5G 嗎？**  
 A: 會，在 iPhone 13 及更新機型（包括 iPhone 17）上，兩條線路都可以使用 5G（5G 雙卡雙待）。但是一次只有一條線路可以使用 5G 數據；另一條使用 5G 進行語音回落（VoNR）。
@@ -303,7 +303,7 @@ A: 可以，最佳做法為：
 - 關閉家中 eSIM 的 **數據漫遊** 以避免高額費用。  
 - 開啟 **允許切換行動數據**，讓您的家中線路可以使用當地 eSIM 的數據來進行 Wi‑Fi Calling 和 MMS。
 
-如果您在旅行期間經常切換裝置，**[跨平台 eSIM 轉移指南](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** 將幫助您輕鬆轉移門號。
+如果您在旅行期間經常切換裝置，**[跨平台 eSIM 轉移指南](/faq/how-to-transfer-esim-between-iphone-and-android/)** 將幫助您輕鬆轉移門號。
 
 **Q6: 為什麼更新 iOS 後第二張 eSIM 有時會消失？**  
 A: 罕見的錯誤。前往 `設定 > 行動服務` → 如果線路消失，但仍在「可用的 SIM」下顯示，請點擊並重新啟用。如果沒有，請聯絡電信業者重新發送設定檔。
@@ -322,8 +322,8 @@ A: 可以。Apple Watch 可以鏡像 iPhone 的 **其中一條** 線路。在設
 
 > 📎 **本站相關指南：**
 > - [eSIM 深度故障排除指南（16 個真實案例）](/faq/esim-deep-troubleshooting-guide-2026/)
-> - [iPhone 17 eSIM 終極指南](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)
-> - [2026 跨平台 eSIM 轉移指南](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
+> - [iPhone 17 eSIM 終極指南](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)
+> - [2026 跨平台 eSIM 轉移指南](/faq/how-to-transfer-esim-between-iphone-and-android/)
 
 ---
 

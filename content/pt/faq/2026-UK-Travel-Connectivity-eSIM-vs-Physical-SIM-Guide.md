@@ -98,7 +98,7 @@ Então você vai para o Reino Unido. Voos reservados, hotéis organizados, itine
 
 O Google te dá uma confusão de artigos técnicos, termos confusos e opiniões que não combinam. Este guia é diferente. Sem jargão. Sem enrolação. Apenas um passo a passo direto para ajudá-lo a escolher o **Reino Unido eSIM** ou SIM físico certo para sua viagem – seja você um visitante de primeira viagem em Londres, um viajante de estrada nas Terras Altas ou um estudante se mudando por seis meses.
 
-Para uma introdução geral à tecnologia eSIM, consulte nosso [guia O que é eSIM?](/pt/faq/What-Is-eSIM/).
+Para uma introdução geral à tecnologia eSIM, consulte nosso [guia O que é eSIM?](/pt/faq/what-is-esim/).
 
 
 ## Encontre Seu Tipo de Viajante – E Sua Combinação Perfeita de Reino Unido eSIM
@@ -175,7 +175,7 @@ Dirija 30 minutos para fora de uma grande cidade, e você frequentemente cairá 
 
 Já viu sinal cheio no telefone, mas nada carrega? Isso acontece porque as "barras" mostram apenas a força da conexão, não a qualidade. Edifícios antigos do Reino Unido (pubs vitorianos, restaurantes em porões) têm paredes grossas que matam o 5G de alta frequência. Um bom **eSIM** vai te mudar automaticamente para uma banda mais lenta, mas mais estável, que consegue penetrar paredes. A Roami faz isso. A maioria dos outros não faz.
 
-Para mais detalhes sobre o desempenho das operadoras, consulte nossa [comparação de operadoras do Reino Unido eSIM](/pt/faq/UK-connectivity-guide-2026/).
+Para mais detalhes sobre o desempenho das operadoras, consulte nossa [comparação de operadoras do Reino Unido eSIM](/pt/faq/2026-uk-travel-connectivity-esim-vs-physical-sim-guide/).
 
 
 ## Reino Unido eSIM vs SIM Físico – Qual Realmente Economiza Dinheiro?
@@ -334,7 +334,7 @@ Se você não tiver dados após a ativação, pode ser necessário configurar o 
 | **Vodafone** | internet | (em branco) | (em branco) |
 | **Three** | three.co.uk | (em branco) | (em branco) |
 
-Se ainda tiver problemas, veja nosso [guia de solução de problemas eSIM](/pt/faq/eSIM-Deep-Troubleshooting-Guide-2026/) para 16 casos reais.
+Se ainda tiver problemas, veja nosso [guia de solução de problemas eSIM](/pt/faq/esim-deep-troubleshooting-guide-2026/) para 16 casos reais.
 
 
 ## Ativação do Reino Unido eSIM: Um Plano Passo a Passo Simples
@@ -362,7 +362,7 @@ Se ainda tiver problemas, veja nosso [guia de solução de problemas eSIM](/pt/f
 - Se algo der errado, entre em contato com o suporte imediatamente – com localização, horário e o que você vê.
 - Se você estiver usando **dados móveis no Reino Unido** intensamente, considere um plano de dados maior – você usará mais do que imagina.
 
-Para instruções detalhadas de ativação, veja nosso [guia de como ativar um eSIM](/pt/faq/how-to-activate-an-esim/). Se encontrar problemas, nosso [guia de solução de problemas eSIM](/pt/faq/eSIM-Deep-Troubleshooting-Guide-2026/) cobre 16 casos reais.
+Para instruções detalhadas de ativação, veja nosso [guia de como ativar um eSIM](/pt/faq/how-to-activate-an-esim/). Se encontrar problemas, nosso [guia de solução de problemas eSIM](/pt/faq/esim-deep-troubleshooting-guide-2026/) cobre 16 casos reais.
 
 
 ## Perguntas Frequentes Sobre Reino Unido eSIMs
@@ -405,7 +405,7 @@ Depende. Muitos planos **Reino Unido eSIM** são apenas para o Reino Unido e nã
 - Moderado (redes sociais, streaming de música): 5-10GB/semana
 - Pesado (chamadas de vídeo, streaming, hotspot): 10-20GB/semana
 
-Para mais orientação sobre planos de dados, veja nossa [comparação de planos de dados eSIM](/pt/faq/Travel-eSIM-2026-How-to-Avoid-Roaming-Fees-Stay-Connected-Abroad/#4-esim-data-plans-how-much-data-do-you-actually-need-for-your-trip).
+Para mais orientação sobre planos de dados, veja nossa [comparação de planos de dados eSIM](/pt/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/#4-esim-data-plans-how-much-data-do-you-actually-need-for-your-trip).
 
 **P13: Qual é o Reino Unido eSIM mais barato disponível?**  
 O plano de 1GB/7 dias da Roami a $1.99 é atualmente o mais barato. Para mais dados, o plano de 5GB/7 dias da Airalo a $10 é competitivo, mas a Roami frequentemente o supera em preço e comutação multi-rede. Sempre compare o custo total por GB.

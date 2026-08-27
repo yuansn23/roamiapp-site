@@ -176,7 +176,7 @@ Viele internationale Touristen besuchen das Vereinigte Königreich als Teil eine
 Die Installation einer eSIM ist heute so einfach wie das Hinzufügen einer Bordkarte zu Ihrem digitalen Wallet. Sie müssen nicht mehr mit winzigen SIM-Auswurfwerkzeugen hantieren.
 
 1.  **Kaufen & Empfangen**: Kaufen Sie Ihre eSIM online und erhalten Sie einen QR-Code per E-Mail.
-2.  **Zum Installieren scannen**: Gehen Sie (idealerweise vor Ihrem Flug) in die **Einstellungen > Mobilfunk > eSIM hinzufügen** Ihres Telefons und scannen Sie den QR-Code, während Sie mit dem WLAN verbunden sind. Für eine detaillierte Anleitung speziell für das iPhone besuchen Sie unseren **[iPhone 17 eSIM Komplett-Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**.
+2.  **Zum Installieren scannen**: Gehen Sie (idealerweise vor Ihrem Flug) in die **Einstellungen > Mobilfunk > eSIM hinzufügen** Ihres Telefons und scannen Sie den QR-Code, während Sie mit dem WLAN verbunden sind. Für eine detaillierte Anleitung speziell für das iPhone besuchen Sie unseren **[iPhone 17 eSIM Komplett-Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)**.
 3.  **Bei Ankunft aktivieren**: Sobald Sie im Vereinigten Königreich landen, wählen Sie Ihre neue eSIM-Leitung in den Einstellungen aus und aktivieren Sie **Daten-Roaming**. Sie werden innerhalb von 60 Sekunden mit dem lokalen Netzwerk verbunden.
 
 
@@ -190,7 +190,7 @@ Auch bei sorgfältiger Vorbereitung kann es zu Problemen kommen. Hier die häufi
 | **QR-Code wird nicht erkannt** | QR-Code abgelaufen oder falsch | Neuen QR-Code beim Anbieter anfordern; manuelle Eingabe der SM-DP+ Adresse versuchen |
 | **Aktivierung hängt bei „Wird geladen...“** | Instabile WLAN-Verbindung | Zu einem stabilen WLAN wechseln; Flugmodus kurz ein- und ausschalten |
 | **Keine Datenverbindung nach Aktivierung** | APN-Einstellungen fehlen | APN manuell konfigurieren (siehe unten) |
-| **Dual-SIM: Eine Nummer empfängt keine Anrufe** | T-ADS-Cache beim Anbieter veraltet | WLAN-Anrufe kurz deaktivieren, iPhone neu starten, wieder aktivieren. Mehr dazu in unserem **[Dual-eSIM Guide mit 12 Lösungen](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**. |
+| **Dual-SIM: Eine Nummer empfängt keine Anrufe** | T-ADS-Cache beim Anbieter veraltet | WLAN-Anrufe kurz deaktivieren, iPhone neu starten, wieder aktivieren. Mehr dazu in unserem **[Dual-eSIM Guide mit 12 Lösungen](/faq/dual-esim-not-working-12-fixes-for-iphone/)**. |
 
 ### APN-Einstellungen manuell konfigurieren
 
@@ -223,7 +223,7 @@ Reine Reise-eSIMs sind „Data-only“ und enthalten keine Telefonnummer. Sie k�
 Sie können ganz einfach online aufladen. Loggen Sie sich einfach auf der Website oder in der App ein, über die Sie die eSIM gekauft haben, kaufen Sie ein Zusatzpaket, und die Daten werden automatisch gutgeschrieben – Sie müssen keinen neuen QR-Code scannen.
 
 **F5: Kann ich meine UK eSIM nach der Reise auf ein anderes Gerät übertragen?**
-Das hängt vom Anbieter ab. Die meisten Reise-eSIMs sind Einwegprodukte und können nicht übertragen werden. Seit iOS 19 und Android 16 ist die plattformübergreifende eSIM-Übertragung zwar technisch möglich, wird aber von vielen Reise-eSIM-Anbietern nicht unterstützt. Eine detaillierte Anleitung finden Sie in unserem **[Guide zum plattformübergreifenden eSIM-Transfer 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+Das hängt vom Anbieter ab. Die meisten Reise-eSIMs sind Einwegprodukte und können nicht übertragen werden. Seit iOS 19 und Android 16 ist die plattformübergreifende eSIM-Übertragung zwar technisch möglich, wird aber von vielen Reise-eSIM-Anbietern nicht unterstützt. Eine detaillierte Anleitung finden Sie in unserem **[Guide zum plattformübergreifenden eSIM-Transfer 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 ---
 *Basierend auf Apple-Dokumentationen, GSMA-Standards und Anbieterinformationen. Stand: Juni 2026.*

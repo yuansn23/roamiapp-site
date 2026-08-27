@@ -99,9 +99,9 @@ sidebar_questions:
 
 **Réponse courte :** L'activation eSIM est le processus de téléchargement sécurisé d'un profil d'opérateur numérique depuis un serveur SM-DP+ directement sur la puce eUICC intégrée de votre téléphone via Internet. Au lieu d'insérer une carte plastique, vous scannez un code QR ou utilisez une application opérateur pour vous connecter instantanément à un réseau mobile.
 
-Pour une introduction complète à la technologie, consultez notre **[guide explicatif eSIM](/faq/What-Is-eSIM/)**. Si vous rencontrez des problèmes d'activation, notre **[guide de dépannage approfondi](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** couvre 16 cas pratiques.
+Pour une introduction complète à la technologie, consultez notre **[guide explicatif eSIM](/faq/what-is-esim/)**. Si vous rencontrez des problèmes d'activation, notre **[guide de dépannage approfondi](/faq/esim-deep-troubleshooting-guide-2026/)** couvre 16 cas pratiques.
 
-> **📖 Cet article explique le « pourquoi » et le « comment » technique.** Pour un **[guide pas à pas avec captures d'écran](/faq/How-To-Activate-an-eSIM/)** (iPhone et Android), ou un **[tutoriel spécifique à l'iPhone](/faq/how-to-activate-esim-on-iphone/)** (3 méthodes : QR code, application, transfert iOS), consultez nos guides pratiques.
+> **📖 Cet article explique le « pourquoi » et le « comment » technique.** Pour un **[guide pas à pas avec captures d'écran](/faq/how-to-activate-an-esim/)** (iPhone et Android), ou un **[tutoriel spécifique à l'iPhone](/faq/how-to-activate-esim-on-iphone/)** (3 méthodes : QR code, application, transfert iOS), consultez nos guides pratiques.
 
 ---
 
@@ -379,7 +379,7 @@ La double SIM est la configuration idéale pour les voyageurs :
 3. **Ligne par défaut :** sélectionnez votre SIM physique (appels/SMS français).
 4. **Itinérance :** désactivée sur la SIM physique, activée sur l'eSIM.
 
-Pour approfondir : **[Double eSIM ne fonctionne pas ? 12 solutions](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+Pour approfondir : **[Double eSIM ne fonctionne pas ? 12 solutions](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
 ---
 
@@ -417,7 +417,7 @@ Lucas est étudiant Erasmus à Barcelone. Il garde son forfait Free sur eSIM pou
 | **QR code non reconnu** | Code expiré ou endommagé, reflets d'écran | Utilisez la saisie manuelle, imprimez le QR code |
 | **Données absentes (signal OK)** | APN manquant | Configurez l'APN manuellement |
 
-Pour un diagnostic approfondi, consultez notre **[guide de dépannage avec 16 scénarios réels](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)**.
+Pour un diagnostic approfondi, consultez notre **[guide de dépannage avec 16 scénarios réels](/faq/esim-deep-troubleshooting-guide-2026/)**.
 
 ---
 
@@ -436,7 +436,7 @@ Le téléchargement et l'installation prennent moins de 2 minutes. La première 
 L'iPhone peut stocker 8 profils ou plus. Les Android récents (Samsung, Pixel) peuvent stocker 5 à 10 profils. Un seul profil peut être actif à la fois (sauf modèles double eSIM actif comme l'iPhone 13 et plus récents).
 
 **Q5 : Puis-je transférer mon eSIM d'un téléphone à l'autre ?**
-Oui. Sur iPhone, utilisez le transfert rapide (iOS 16+). Pour le transfert iPhone ↔ Android, consultez notre **[guide de transfert multiplateforme](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+Oui. Sur iPhone, utilisez le transfert rapide (iOS 16+). Pour le transfert iPhone ↔ Android, consultez notre **[guide de transfert multiplateforme](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 **Q6 : Que faire si mon téléphone affiche « EID introuvable » ?**
 Votre téléphone n'est pas compatible eSIM. C'est le cas des modèles très anciens, de certains modèles chinois, ou des téléphones à double SIM physique uniquement. La seule solution est de passer à un modèle compatible.
@@ -475,7 +475,7 @@ La technologie eSIM a transformé la façon de se connecter aux réseaux mobiles
 4. **Activez l'itinérance** — indispensable pour les eSIM de voyage.
 5. **Configurez l'APN** — si les données ne passent pas après activation.
 
-Pour aller plus loin : **[Qu'est-ce qu'une eSIM ?](/faq/What-Is-eSIM/)** pour comprendre la technologie, **[activer une eSIM](/faq/how-to-activate-an-esim/)** pour un guide pas à pas, ou **[dépannage eSIM](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** si vous rencontrez des difficultés.
+Pour aller plus loin : **[Qu'est-ce qu'une eSIM ?](/faq/what-is-esim/)** pour comprendre la technologie, **[activer une eSIM](/faq/how-to-activate-an-esim/)** pour un guide pas à pas, ou **[dépannage eSIM](/faq/esim-deep-troubleshooting-guide-2026/)** si vous rencontrez des difficultés.
 
 ---
 <script type="application/ld+json">

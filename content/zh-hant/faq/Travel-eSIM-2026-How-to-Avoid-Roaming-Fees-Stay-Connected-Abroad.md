@@ -143,7 +143,7 @@ Apple 官方文件「出境旅行時使用 eSIM」描述了這三種途徑。比
 - **美國版 iPhone（14 以後）**：僅 eSIM – 沒有實體 SIM 卡槽。非常適合旅行 – 反正你應該使用 eSIM。
 - **國際版機型**：通常有一張實體 SIM + eSIM。你可以保留本國實體 SIM 用於通話，並使用 eSIM 上網。
 
-> 📱 **出發前想更新設備？** 我們的 **[iPhone 17 eSIM 完整指南](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** 展示了如何在最新硬體上啟用任何 eSIM。
+> 📱 **出發前想更新設備？** 我們的 **[iPhone 17 eSIM 完整指南](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** 展示了如何在最新硬體上啟用任何 eSIM。
 
 ---
 
@@ -227,7 +227,7 @@ Apple 官方文件「出境旅行時使用 eSIM」描述了這三種途徑。比
 - 開啟**允許切換行動數據** – 手機將能使用旅遊 eSIM 的數據來進行本國線路的 Wi-Fi Calling。
 - 如果你的本國方案簡訊費用昂貴，請關閉 iMessage 的「以簡訊傳送」。
 
-> 📖 **雙 SIM 卡行為異常？** 請參閱我們的 **[雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**，了解 CDMA 衝突、T‑ADS 錯誤和電池耗電修正。
+> 📖 **雙 SIM 卡行為異常？** 請參閱我們的 **[雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/dual-esim-not-working-12-fixes-for-iphone/)**，了解 CDMA 衝突、T‑ADS 錯誤和電池耗電修正。
 
 ---
 
@@ -273,7 +273,7 @@ Apple 文件描述了地區限制：
 - 重新啟動 iPhone。
 - 手動選擇網路：`設定` > `行動服務` > 旅遊 eSIM > `網路選擇` → 關閉「自動」→ 手動選擇當地電信業者。
 
-> 🔄 **旅行途中更換手機？** 你可能需要 **[轉移 eSIM](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** – 我們的指南涵蓋了 iPhone 與 Android 之間的跨平台轉移。
+> 🔄 **旅行途中更換手機？** 你可能需要 **[轉移 eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/)** – 我們的指南涵蓋了 iPhone 與 Android 之間的跨平台轉移。
 
 ---
 
@@ -301,7 +301,7 @@ Apple 文件描述了地區限制：
 答：大多數供應商允許透過他們的應用程式即時加值 – 不需要新的 QR 碼。只需購買額外的數據包即可。
 
 **問 7：eSIM 安全嗎？有人能破解它嗎？**  
-答：eSIM 比實體 SIM 更安全。它們符合 GSMA SGP.21 標準，可防止複製或取出。請參閱 **[我們的 iPhone 17 指南中的 eSIM 安全性概述](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/#5-esim-security-advantages-why-more-reliable-than-physical-sim)**。
+答：eSIM 比實體 SIM 更安全。它們符合 GSMA SGP.21 標準，可防止複製或取出。請參閱 **[我們的 iPhone 17 指南中的 eSIM 安全性概述](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/#5-esim-security-advantages-why-more-reliable-than-physical-sim)**。
 
 ---
 
@@ -317,9 +317,9 @@ Apple 文件描述了地區限制：
 
 > 📎 **相關資源：**
 > - [eSIM 深度故障排除指南（16 個真實案例）](/faq/esim-deep-troubleshooting-guide-2026/)
-> - [iPhone 17 eSIM 完整指南](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)
-> - [2026 跨平台 eSIM 轉移](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
-> - [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+> - [iPhone 17 eSIM 完整指南](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)
+> - [2026 跨平台 eSIM 轉移](/faq/how-to-transfer-esim-between-iphone-and-android/)
+> - [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/dual-esim-not-working-12-fixes-for-iphone/)
 
 ---
 

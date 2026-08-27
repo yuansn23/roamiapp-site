@@ -630,7 +630,7 @@ Telefonunuz `*#06#` testini geçtiyse, etkinleştirme markalar arasında benzerd
 4. Profili indirmek için yönergeleri izleyin.
 5. Seyahat ederken eSIM hattı için **Veri Dolaşımı**'nı açın.
 
-Daha ayrıntılı talimatlar için [eSIM etkinleştirme rehberimize](/faq/how-to-activate-an-esim/) bakın. Sorun yaşarsanız, [eSIM sorun giderme rehberimiz](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) 16 gerçek durumu kapsar.
+Daha ayrıntılı talimatlar için [eSIM etkinleştirme rehberimize](/faq/how-to-activate-an-esim/) bakın. Sorun yaşarsanız, [eSIM sorun giderme rehberimiz](/faq/esim-deep-troubleshooting-guide-2026/) 16 gerçek durumu kapsar.
 
 ---
 

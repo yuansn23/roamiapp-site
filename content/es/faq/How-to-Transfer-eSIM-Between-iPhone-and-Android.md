@@ -117,7 +117,7 @@ sidebar_questions:
 
 
 
-> Durante años, las transferencias de eSIM estuvieron bloqueadas dentro del mismo ecosistema: podías mover de iPhone a iPhone, o entre algunos Android, pero cruzar la barrera iOS‑Android requería una visita a tu operador. **iOS 19 y Android 15 cambian eso por completo.** Esta guía te explica cada método compatible, los requisitos del operador y todos los pasos para solucionar problemas y **transferir tu eSIM** sin contratiempos. Si buscas ayuda general de activación, consulta nuestra **[Guía completa de eSIM para iPhone 17](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**.
+> Durante años, las transferencias de eSIM estuvieron bloqueadas dentro del mismo ecosistema: podías mover de iPhone a iPhone, o entre algunos Android, pero cruzar la barrera iOS‑Android requería una visita a tu operador. **iOS 19 y Android 15 cambian eso por completo.** Esta guía te explica cada método compatible, los requisitos del operador y todos los pasos para solucionar problemas y **transferir tu eSIM** sin contratiempos. Si buscas ayuda general de activación, consulta nuestra **[Guía completa de eSIM para iPhone 17](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)**.
 
 > ✈️ **Nuestra experiencia:** Hemos ayudado a más de 8,000 usuarios a transferir sus eSIM entre iPhone y Android en 2025-2026. Las transferencias entre plataformas con el método nativo (iOS 19 + Android 15) tienen una tasa de éxito del 89%. El 11% restante requiere el método alternativo del código QR del operador. Los fallos más comunes que vemos: sesión caducada por tardar más de 3 minutos en escanear (34% de los fallos), operador no compatible (28%), y Bluetooth desactivado en uno de los dispositivos (18%).
 
@@ -371,7 +371,7 @@ El dispositivo antiguo mostrará "Sin servicio" para esa línea. El perfil eSIM 
 R: No. La mayoría de eSIM de viaje (Airalo, Holafly, planes de datos de Roami, etc.) no admiten transferencia entre plataformas. Están diseñadas para instalarse una vez por dispositivo. Deberás comprar un nuevo plan en tu nuevo teléfono.
 
 **P2: ¿La transferencia funciona entre un iPhone 11 y un Samsung S24?**  
-R: Sí, siempre que ambos cumplan los requisitos de SO. El iPhone 11 es compatible con iOS 19 (soporta hasta iOS 19). El Samsung S24 soporta Android 15. La generación del hardware no importa; solo importa la versión del SO. Para un análisis más profundo del comportamiento de eSIM por dispositivo, consulta nuestra **[Guía completa de eSIM para iPhone 17](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** (también aplicable a muchos modelos anteriores).
+R: Sí, siempre que ambos cumplan los requisitos de SO. El iPhone 11 es compatible con iOS 19 (soporta hasta iOS 19). El Samsung S24 soporta Android 15. La generación del hardware no importa; solo importa la versión del SO. Para un análisis más profundo del comportamiento de eSIM por dispositivo, consulta nuestra **[Guía completa de eSIM para iPhone 17](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** (también aplicable a muchos modelos anteriores).
 
 **P3: Seguí los pasos pero mi Android no tiene "Emparejar con iPhone o iPad". ¿Qué ocurre?**  
 R: Ese menú forma parte de los Servicios de Google y solo aparece en Android 15+ con Google Play Services actualizado. Ve a `Ajustes > Acerca del teléfono > Versión de Android`. Si es 15 o anterior, actualiza tu teléfono o usa el método alternativo (código QR del operador).
@@ -383,7 +383,7 @@ R: WhatsApp usa tu número de teléfono: detectará el cambio de SIM y puede ped
 R: Sí, pero cada transferencia requiere el mismo proceso. Algunos operadores limitan las transferencias a 3–5 veces al año para evitar abusos. Si alcanzas el límite, te pedirán que vayas a una tienda o llames al soporte.
 
 **P6: ¿Qué pasa con la configuración de eSIM + SIM física (doble SIM)?**  
-R: La transferencia solo mueve la eSIM. La SIM física permanece en el dispositivo origen. Si quieres mover ambas, deberás transferir la eSIM (usando esta guía) y mover físicamente la tarjeta nano‑SIM al nuevo dispositivo. Para optimizar la experiencia dual‑SIM después de la transferencia, consulta nuestro artículo **[¿Dual eSIM no funciona? 12 soluciones para iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+R: La transferencia solo mueve la eSIM. La SIM física permanece en el dispositivo origen. Si quieres mover ambas, deberás transferir la eSIM (usando esta guía) y mover físicamente la tarjeta nano‑SIM al nuevo dispositivo. Para optimizar la experiencia dual‑SIM después de la transferencia, consulta nuestro artículo **[¿Dual eSIM no funciona? 12 soluciones para iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
 **P7: ¿Puedo transferir una eSIM de un iPhone a un Samsung Galaxy si tengo un operador no compatible?**  
 R: Sí, pero no mediante la transferencia nativa. Tendrás que usar el método alternativo: solicitar un nuevo código QR a tu operador (Opción 1 en la Sección 6). Esto funciona con cualquier operador, aunque requiere una llamada telefónica.

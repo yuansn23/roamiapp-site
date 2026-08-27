@@ -38,7 +38,7 @@ banner:
   alt: ウクライナに最適なeSIM
   title: 海外旅行，就选ウクライナ eSIM
 hero:
-  flag_image: img/flags/uk.svg
+  flag_image: img/flags/ua.svg
   flag_alt: ウクライナ国旗
   title: 'ウクライナ eSIM: どこへ行っても接続を維持'
   subtitle: 隠れ費用なし | 安心のインターネット | 24時間サポート - ウクライナ旅行者に最適なプリペイドeSIM

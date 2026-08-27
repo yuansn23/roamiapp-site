@@ -344,7 +344,7 @@ Non. Les iPhone 11 vendus en Chine continentale ont deux emplacements nano-SIM p
 Non. L'iPhone 11 ne possède pas de modem 5G. L'eSIM fonctionne en **4G LTE**, ce qui est largement suffisant pour tous les usages courants (navigation, streaming HD, visioconférence).
 
 **Q5 : Comment transférer mon eSIM de l'iPhone 11 vers un nouvel iPhone ?**
-Avec iOS 19, le transfert d'eSIM se fait automatiquement pendant la configuration du nouvel iPhone (placez les deux appareils à proximité). Si le transfert échoue, contactez votre opérateur pour obtenir un nouveau QR code. Consultez notre **[guide de transfert eSIM](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+Avec iOS 19, le transfert d'eSIM se fait automatiquement pendant la configuration du nouvel iPhone (placez les deux appareils à proximité). Si le transfert échoue, contactez votre opérateur pour obtenir un nouveau QR code. Consultez notre **[guide de transfert eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 **Q6 : L'iPhone 11 est-il compatible avec les eSIM de tous les pays ?**
 Oui, dans la limite des bandes 4G LTE supportées (28 bandes). L'iPhone 11 couvre toutes les bandes utilisées en Europe, en Amérique du Nord, en Asie (Japon, Corée, Chine, Asie du Sud-Est), en Océanie et dans la plupart des pays d'Afrique et d'Amérique latine.

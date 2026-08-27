@@ -277,7 +277,7 @@ Se os métodos acima falharem:
 | "Perfil já usado" | eSIM de instalação única não pode ser reinstalado | Compre um novo plano. |
 | "Operadora não suporta transferência de eSIM" | Alguns eSIMs de operadoras pós-pagas estão vinculados ao IMEI | Contate a operadora para reemitir o eSIM no novo IMEI. |
 
-Para transferência entre iPhone e Android (não apenas Pixel para Pixel), consulte nosso **[guia de Transferência de eSIM entre Plataformas 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+Para transferência entre iPhone e Android (não apenas Pixel para Pixel), consulte nosso **[guia de Transferência de eSIM entre Plataformas 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 ---
 
@@ -369,7 +369,7 @@ Mesmo em Pixels compatíveis, a ativação do eSIM pode falhar às vezes. Aqui e
 4. **Exclua outros perfis eSIM** – Se você tem muitos armazenados, exclua os não utilizados para liberar espaço (alguns Pixels têm um limite de 5 a 10 perfis armazenados).
 5. **Redefinição de fábrica** – Último recurso. Faça backup dos seus dados primeiro. Após a redefinição, tente ativar o eSIM novamente antes de restaurar do backup.
 
-Para solução de problemas mais avançada de eSIM, consulte nosso **[Guia de Solução de Problemas Avançada de eSIM 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)**.
+Para solução de problemas mais avançada de eSIM, consulte nosso **[Guia de Solução de Problemas Avançada de eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)**.
 
 ---
 

@@ -100,9 +100,9 @@ sidebar_questions:
 
 **La réponse courte :** L'activation eSIM sur iPhone consiste à télécharger un profil opérateur numérique sur la puce eUICC intégrée de votre téléphone via le protocole standardisé **GSMA SGP.22**. En pratique, vous scannez un code QR, utilisez l'application de votre opérateur, ou transférez une eSIM depuis un ancien iPhone — le tout en moins de 2 minutes.
 
-Pour une introduction complète à la technologie, lisez notre **[guide explicatif eSIM](/faq/What-Is-eSIM/)**. Pour le dépannage, consultez notre **[guide de dépannage approfondi](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)**.
+Pour une introduction complète à la technologie, lisez notre **[guide explicatif eSIM](/faq/what-is-esim/)**. Pour le dépannage, consultez notre **[guide de dépannage approfondi](/faq/esim-deep-troubleshooting-guide-2026/)**.
 
-> **📖 Ce guide est spécifique à l'iPhone.** Pour un **[tutoriel universel couvrant aussi Android](/faq/How-To-Activate-an-eSIM/)** ou pour comprendre le **[fonctionnement technique de l'activation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/)** (SM-DP+, eUICC), consultez nos autres guides.
+> **📖 Ce guide est spécifique à l'iPhone.** Pour un **[tutoriel universel couvrant aussi Android](/faq/how-to-activate-an-esim/)** ou pour comprendre le **[fonctionnement technique de l'activation eSIM](/faq/what-is-esim-activation-and-how-does-it-work/)** (SM-DP+, eUICC), consultez nos autres guides.
 
 ---
 
@@ -373,7 +373,7 @@ Avec iOS 18+, le transfert d'eSIM d'un ancien iPhone vers un nouveau est automat
 3. Sélectionnez **Transférer depuis un iPhone à proximité**.
 4. Confirmez sur l'ancien iPhone.
 
-Cette fonctionnalité utilise le Bluetooth et le Wi-Fi pour transférer le profil de manière sécurisée. Pour les transferts iPhone ↔ Android, consultez notre **[guide de transfert multiplateforme](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+Cette fonctionnalité utilise le Bluetooth et le Wi-Fi pour transférer le profil de manière sécurisée. Pour les transferts iPhone ↔ Android, consultez notre **[guide de transfert multiplateforme](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 ---
 
@@ -439,7 +439,7 @@ Enfin, si votre iPhone utilise la **VoLTE** (Voice over LTE) ou le **Wi-Fi calli
 Vous pouvez stocker 8 profils eSIM ou plus. Sur iPhone 13 et plus récents, **deux eSIM peuvent être actives simultanément** (double eSIM active). Sur iPhone XS à 12, une seule eSIM est active, l'autre ligne doit être une SIM physique.
 
 **Q2 : Puis-je utiliser ma SIM physique et mon eSIM en même temps ?**
-Oui. Tous les iPhone (sauf modèles USA eSIM-only) supportent la double SIM : une nano-SIM + une eSIM actives simultanément. Pour les problèmes de double SIM, voir notre guide **[12 correctifs double eSIM](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+Oui. Tous les iPhone (sauf modèles USA eSIM-only) supportent la double SIM : une nano-SIM + une eSIM actives simultanément. Pour les problèmes de double SIM, voir notre guide **[12 correctifs double eSIM](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
 **Q3 : L'eSIM consomme-t-elle plus de batterie ?**
 Non, la consommation est identique à une SIM physique (différence < 1 %). En revanche, deux lignes actives en zone de signal faible peuvent augmenter la consommation de 5-15 %.
@@ -494,7 +494,7 @@ L'activation d'une eSIM sur iPhone est une procédure simple qui prend moins de 
 5. ✅ Activez l'itinérance sur l'eSIM, désactivez-la sur la SIM française.
 6. ✅ Désactivez « Autoriser le basculement des données ».
 
-Pour approfondir : **[Qu'est-ce qu'une eSIM ?](/faq/What-Is-eSIM/)**, **[activer une eSIM (tous appareils)](/faq/how-to-activate-an-esim/)**, ou **[guide de dépannage](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** en cas de problème.
+Pour approfondir : **[Qu'est-ce qu'une eSIM ?](/faq/what-is-esim/)**, **[activer une eSIM (tous appareils)](/faq/how-to-activate-an-esim/)**, ou **[guide de dépannage](/faq/esim-deep-troubleshooting-guide-2026/)** en cas de problème.
 
 ---
 <script type="application/ld+json">

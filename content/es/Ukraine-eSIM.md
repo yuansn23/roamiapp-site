@@ -42,7 +42,7 @@ banner:
   alt: Mejor eSIM para Ucrania
   title: Mejor eSIM para Ucrania
 hero:
-  flag_image: img/flags/uk.svg
+  flag_image: img/flags/ua.svg
   flag_alt: Bandera de Ucrania
   title: 'eSIM Ucrania: Mantente Conectado Dondequiera que Vayas'
   subtitle: Sin cargos ocultos | Internet sin preocupaciones | Soporte 24/7 - la mejor eSIM prepago para viajeros en Ucrania

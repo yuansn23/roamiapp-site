@@ -112,7 +112,7 @@ Da sie wiederbeschreibbar ist, können Sie den Anbieter wechseln oder Datentarif
 
 Die technische Grundlage für die eSIM-Technologie wird durch den [GSMA-Standard SGP.22 V3.1](https://www.gsma.com/esim/) definiert, der weltweit die Interoperabilität zwischen Geräten und Anbietern sicherstellt. Die [offizielle Apple Support-Dokumentation](https://support.apple.com/en-us/109317) bestätigt, dass die eSIM ab dem iPhone XS und XR in allen neueren Modellen unterstützt wird.
 
-Für eine detaillierte Schritt-für-Schritt-Anleitung zur Einrichtung auf dem neuesten iPhone besuchen Sie unseren [iPhone 17 eSIM Komplett-Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/).
+Für eine detaillierte Schritt-für-Schritt-Anleitung zur Einrichtung auf dem neuesten iPhone besuchen Sie unseren [iPhone 17 eSIM Komplett-Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/).
 
 
 ## 2. Wie funktioniert die eSIM-Aktivierung technisch? (Vereinfacht erklärt)
@@ -164,7 +164,7 @@ Wenn Ihre Kamera defekt ist oder Sie den QR-Code nicht scannen können (z. B. we
 ### Methode 3: Anbieter-App (In-App-Aktivierung)
 Viele moderne Anbieter ermöglichen die Aktivierung direkt über ihre App mit einem einzigen Tastendruck. Die App kommuniziert automatisch mit den Einstellungen Ihres Telefons, um das Profil zu installieren, ohne dass ein QR-Code benötigt wird.
 
-Für Nutzer, die nach der Aktivierung ihr Gerät wechseln möchten, erklärt unser [eSIM Cross-Platform Transfer Guide](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/) die plattformübergreifende Übertragung ab iOS 18 und Android 15.
+Für Nutzer, die nach der Aktivierung ihr Gerät wechseln möchten, erklärt unser [eSIM Cross-Platform Transfer Guide](/faq/how-to-transfer-esim-between-iphone-and-android/) die plattformübergreifende Übertragung ab iOS 18 und Android 15.
 
 
 ## 5. Welche Geräte unterstützen die eSIM-Aktivierung?
@@ -228,7 +228,7 @@ Die APN-Einstellungen wurden nicht automatisch übernommen.
 
 Lösung: Konfigurieren Sie die APN-Einstellungen manuell (siehe Fehlerbehebung unten).
 
-Für Nutzer, die zwei eSIMs gleichzeitig nutzen möchten, bietet unser Guide [Dual-eSIM funktioniert nicht? 12 Lösungen für iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/) praktische Hilfestellungen.
+Für Nutzer, die zwei eSIMs gleichzeitig nutzen möchten, bietet unser Guide [Dual-eSIM funktioniert nicht? 12 Lösungen für iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/) praktische Hilfestellungen.
 
 
 ## 8. APN-Einstellungen manuell konfigurieren
@@ -270,7 +270,7 @@ Wenn Ihre Reise mehrere Länder umfasst, ist eine Europa-eSIM die beste Strategi
 ## 10. Häufig gestellte Fragen (FAQs)
 
 **Kann ich meine physische SIM und eine eSIM gleichzeitig nutzen?**
-Ja! Die meisten modernen Smartphones unterstützen die Dual-SIM-Funktionalität. Sie können Ihre physische SIM für Anrufe und SMS von zu Hause aktiv lassen, während Sie Ihre eSIM rein für lokale mobile Daten nutzen. Bei Problemen mit zwei aktiven Leitungen hilft unser [Dual-eSIM Guide](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/).
+Ja! Die meisten modernen Smartphones unterstützen die Dual-SIM-Funktionalität. Sie können Ihre physische SIM für Anrufe und SMS von zu Hause aktiv lassen, während Sie Ihre eSIM rein für lokale mobile Daten nutzen. Bei Problemen mit zwei aktiven Leitungen hilft unser [Dual-eSIM Guide](/faq/dual-esim-not-working-12-fixes-for-iphone/).
 
 **Verbraucht die Aktivierung einer eSIM meinen Akku schneller?**
 Die Nutzung einer eSIM an sich verbraucht nicht mehr Akku. Wenn Sie jedoch zwei aktive Leitungen (Dual-SIM) gleichzeitig betreiben, kann dies zu einem leicht erhöhten Akkuverbrauch führen, da Ihr Telefon ständig nach zwei verschiedenen Netzwerksignalen sucht.

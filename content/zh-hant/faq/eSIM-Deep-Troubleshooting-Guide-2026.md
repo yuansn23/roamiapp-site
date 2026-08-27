@@ -96,7 +96,7 @@ sidebar_questions:
 ---
 
 
-> 多年來，eSIM 轉移一直受限於單一作業系統生態內——您可以將 eSIM 從 iPhone 轉移到 iPhone，或在某些 Android 手機之間轉移，但跨越 iOS 和 Android 的界線就需要尋求電信商協助。**iOS 26 和 Android 16 徹底改變了這一點。**本指南將帶您了解所有支援的方法、電信商要求以及疑難排解步驟，實現 eSIM 的無縫轉移。如需一般啟用協助，請參閱我們的 **[iPhone 17 eSIM 終極指南](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**。
+> 多年來，eSIM 轉移一直受限於單一作業系統生態內——您可以將 eSIM 從 iPhone 轉移到 iPhone，或在某些 Android 手機之間轉移，但跨越 iOS 和 Android 的界線就需要尋求電信商協助。**iOS 26 和 Android 16 徹底改變了這一點。**本指南將帶您了解所有支援的方法、電信商要求以及疑難排解步驟，實現 eSIM 的無縫轉移。如需一般啟用協助，請參閱我們的 **[iPhone 17 eSIM 終極指南](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)**。
 
 ---
 
@@ -137,7 +137,7 @@ sidebar_questions:
 - **Android 16** 在 Google 服務中新增了對應的 `與 iPhone 或 iPad 配對 (Pair with iPhone or iPad)` 選單。
 - 兩個作業系統版本都實作了 **GSMA 消費者 eSIM 轉移規範 (SGP.22 v2.5+)**，允許安全的點對點描述檔遷移。
 
-> 🔒 安全提示：轉移過程採用端到端加密，需要兩部裝置在近距離內並開啟藍牙。舊的 eSIM 會在新裝置啟用的那一刻自動停用。如果轉移後需要修復任何雙 SIM 卡的問題，我們的 **[雙 eSIM 無法使用？iPhone 的 12 個解決方案](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** 會是很有用的資源。
+> 🔒 安全提示：轉移過程採用端到端加密，需要兩部裝置在近距離內並開啟藍牙。舊的 eSIM 會在新裝置啟用的那一刻自動停用。如果轉移後需要修復任何雙 SIM 卡的問題，我們的 **[雙 eSIM 無法使用？iPhone 的 12 個解決方案](/faq/dual-esim-not-working-12-fixes-for-iphone/)** 會是很有用的資源。
 
 ---
 
@@ -340,7 +340,7 @@ Apple 在 **iOS 26.3**（於 2026 年初發布）中加入了這項功能。過�
 A：不行。大多數旅遊 eSIM（Airalo, Holafly, Roami 僅限數據的方案等）不支援跨平台轉移。它們被設計為在裝置上一次性安裝。您需要在新手機上購買新方案。
 
 **Q2：iPhone 11 和 Samsung S24 之間可以轉移嗎？**  
-A：可以——只要兩者都符合作業系統的要求。iPhone 11 支援 iOS 26（它的支援可達 iOS 26）。Samsung S24 支援 Android 16。硬體的世代並不重要；重要的是作業系統的版本。深入了解特定裝置的 eSIM 行為，請參閱我們的 **[iPhone 17 eSIM 終極指南](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**（也適用於許多舊機型）。
+A：可以——只要兩者都符合作業系統的要求。iPhone 11 支援 iOS 26（它的支援可達 iOS 26）。Samsung S24 支援 Android 16。硬體的世代並不重要；重要的是作業系統的版本。深入了解特定裝置的 eSIM 行為，請參閱我們的 **[iPhone 17 eSIM 終極指南](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)**（也適用於許多舊機型）。
 
 **Q3：我嘗試了這些步驟，但我的 Android 上沒有「與 iPhone 或 iPad 配對」選項。怎麼回事？**  
 A：此選單是 Google 服務的一部分，僅出現在已更新 Google Play 服務的 Android 16+ 上。前往 `設定 > 關於手機 > Android 版本`。如果是 15 或更早版本，請更新手機或使用備用方法（電信商 QR Code）。
@@ -352,7 +352,7 @@ A：WhatsApp 使用您的電話號碼——它會偵測到 SIM 卡更換，並�
 A：可以，但每次轉移都需要經過相同的流程。為了防止濫用，有些電信商將轉移次數限制為每年 3–5 次。如果您達到了上限，他們會要求您前往門市或致電客服。
 
 **Q6：雙 SIM 卡配置（eSIM + 實體 SIM 卡）會怎樣？**  
-A：轉移只會移動 eSIM。實體 SIM 卡會保留在原來的裝置中。如果您想移動兩者，您需要轉移 eSIM（按照本指南），並將 nano-SIM 卡實體拔插到新裝置中。轉移後如需優化雙 SIM 卡的運作，請參閱我們的 **[雙 eSIM 無法使用？iPhone 的 12 個解決方案](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**。
+A：轉移只會移動 eSIM。實體 SIM 卡會保留在原來的裝置中。如果您想移動兩者，您需要轉移 eSIM（按照本指南），並將 nano-SIM 卡實體拔插到新裝置中。轉移後如需優化雙 SIM 卡的運作，請參閱我們的 **[雙 eSIM 無法使用？iPhone 的 12 個解決方案](/faq/dual-esim-not-working-12-fixes-for-iphone/)**。
 
 ---
 
@@ -364,9 +364,9 @@ A：轉移只會移動 eSIM。實體 SIM 卡會保留在原來的裝置中。如
 
 > 📎 **本站相關資源：**
 > - [eSIM 深度疑難排解指南 (16 個真實案例)](/faq/esim-deep-troubleshooting-guide-2026/)
-> - [iPhone 17 eSIM 終極指南](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)
-> - [2026 跨平台 eSIM 轉移](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
-> - [雙 eSIM 無法使用？iPhone 的 12 個解決方案](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+> - [iPhone 17 eSIM 終極指南](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)
+> - [2026 跨平台 eSIM 轉移](/faq/how-to-transfer-esim-between-iphone-and-android/)
+> - [雙 eSIM 無法使用？iPhone 的 12 個解決方案](/faq/dual-esim-not-working-12-fixes-for-iphone/)
 
 ---
 

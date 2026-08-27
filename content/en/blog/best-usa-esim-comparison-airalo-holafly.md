@@ -59,10 +59,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "2026 Cross-Platform eSIM Transfer"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Smartwatch eSIM Compatibility Complete List"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -74,7 +74,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -95,13 +95,13 @@ The technology behind eSIM is governed by the [GSMA standard SGP.22](https://www
 
 If you are flying into New York JFK, Los Angeles LAX, or Chicago O'Hare this year and haven't bought a USA eSIM before departure, you're in for the most expensive and frustrating hour of your trip. Airport SIM kiosks charge $25–40 for 5GB – a 300–500% markup over buying online. Your home carrier's international roaming silently drains $10–15 per day from your account. And the free airport Wi‑Fi? It requires email registration, has a 30‑minute limit, and disconnects the moment you walk to baggage claim.
 
-The alternative is an eSIM – a digital SIM that you buy online in two minutes, install on your phone before takeoff, and activate the moment your plane touches US soil. No plastic card, no paperclip, no queue, no language barrier. That's why more and more international travellers are choosing to buy a USA eSIM online. Before you start, it's good to understand [what an eSIM is and how it works](/faq/What-Is-eSIM/).
+The alternative is an eSIM – a digital SIM that you buy online in two minutes, install on your phone before takeoff, and activate the moment your plane touches US soil. No plastic card, no paperclip, no queue, no language barrier. That's why more and more international travellers are choosing to buy a USA eSIM online. Before you start, it's good to understand [what an eSIM is and how it works](/faq/what-is-esim/).
 
 What is eSIM? It is a programmable chip soldered directly onto your phone's motherboard during manufacturing, completely replacing the removable plastic SIM card. When you scan an eSIM provider's QR code, your phone downloads an encrypted carrier profile from the provider's SM‑DP+ secure server over Wi‑Fi. That digital profile contains the same cryptographic keys and network credentials as a physical SIM, but it lives permanently in your phone's eUICC chip – it cannot be lost, stolen, or physically removed.
 
 In 2026, using a USA eSIM for travel is practically mandatory. Apple removed the physical SIM tray from all US‑sold iPhones starting with the iPhone 14 in 2022. The iPhone 17, 17 Pro, 17 Pro Max, and 17 Air – all sold in the US – have no SIM card slot at all. They are eSIM‑only devices. If you arrive at a US airport with one of these phones and no pre‑installed eSIM, you cannot buy a physical SIM at a kiosk. Be sure to [check whether your phone is eSIM‑compatible](/compatibility/) before departure.
 
-The three major US carrier networks – T‑Mobile, AT&T, and Verizon – each dominate different geographies. T‑Mobile's mid‑band 5G delivers average urban download speeds above 140 Mbps and covers 99% of the US population. AT&T's low‑band spectrum provides balanced coverage between cities, suburbs, and interstate highways. Verizon's network reaches 94% availability in areas with fewer than 10 people per square mile – national parks, remote highways, rural towns – where T‑Mobile signal drops to zero for miles. If you need a deeper carrier analysis, see our [USA eSIM plan selection guide](/faq/The-Ultimate-Guide-to-US-eSIM-in-2026-How-to-Choose-the-Best-Plan/).
+The three major US carrier networks – T‑Mobile, AT&T, and Verizon – each dominate different geographies. T‑Mobile's mid‑band 5G delivers average urban download speeds above 140 Mbps and covers 99% of the US population. AT&T's low‑band spectrum provides balanced coverage between cities, suburbs, and interstate highways. Verizon's network reaches 94% availability in areas with fewer than 10 people per square mile – national parks, remote highways, rural towns – where T‑Mobile signal drops to zero for miles. If you need a deeper carrier analysis, see our [USA eSIM plan selection guide](/faq/the-ultimate-guide-to-us-esim-in-2026-how-to-choose-the-best-plan/).
 
 No single carrier covers 100% of the United States. The country spans 3.8 million square miles. The distance from New York to Los Angeles is greater than from London to Moscow. A USA eSIM locked to one carrier's network will fail you somewhere on your journey. The question is whether your eSIM provider gives you access to more than one network – or leaves you stranded.
 
@@ -148,7 +148,7 @@ Coverage is notably weaker in rural areas, national parks, and remote locations.
 
 This is the policy that generates the most angry reviews and refund disputes: If you delete your Airalo eSIM profile from your phone – for any reason – it is permanently lost. You cannot reinstall it. You cannot reactivate it. You must buy a new plan.
 
-This matters more than it sounds. Travellers delete eSIMs accidentally. Phones factory reset during software updates. Devices get stolen or damaged and need replacement. When any of these things happen to an Airalo user, their remaining data balance vanishes. Learning [how to safely manage your eSIM](/faq/How-To-Activate-an-eSIM/) before departure can avoid such problems.
+This matters more than it sounds. Travellers delete eSIMs accidentally. Phones factory reset during software updates. Devices get stolen or damaged and need replacement. When any of these things happen to an Airalo user, their remaining data balance vanishes. Learning [how to safely manage your eSIM](/faq/how-to-activate-an-esim/) before departure can avoid such problems.
 
 ### Airalo Summary
 
@@ -212,7 +212,7 @@ Airalo and Holafly are the two best‑known names in travel eSIM, but they share
 
 When you install a single‑network eSIM, your phone registers with one carrier – say, T‑Mobile. As long as T‑Mobile's tower is within range, you have service. When you drive out of range, you lose service. Your phone does not automatically switch to AT&T or Verizon because your eSIM profile is not authorised to use those networks.
 
-Roami's eSIM profile is authorised to connect to all three major US networks simultaneously. When your phone detects that the current network's signal strength is dropping below a usable threshold, the eSIM initiates a seamless handover to the strongest available alternative network. This handover happens at the network authentication level in under one second – you do nothing, your connection doesn't drop, and your video call doesn't freeze. If you ever encounter [dual eSIM or signal issues](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/), Roami's 24/7 human support can help you in seconds.
+Roami's eSIM profile is authorised to connect to all three major US networks simultaneously. When your phone detects that the current network's signal strength is dropping below a usable threshold, the eSIM initiates a seamless handover to the strongest available alternative network. This handover happens at the network authentication level in under one second – you do nothing, your connection doesn't drop, and your video call doesn't freeze. If you ever encounter [dual eSIM or signal issues](/faq/dual-esim-not-working-12-fixes-for-iphone/), Roami's 24/7 human support can help you in seconds.
 
 ### Roami USA eSIM Pricing: The Most Competitive on the Market
 
@@ -369,7 +369,7 @@ Best choice: Roami 30-day 30GB. Only $19.99 after discount. The World Cup will t
 2. Apply discount code: enter web20 for 20% off.
 3. Complete payment – credit card, PayPal, or Apple Pay.
 4. Receive your QR code by email within seconds. Screenshot it as a backup.
-5. Install the eSIM. Detailed steps: [iPhone activation guide](/faq/how-to-activate-esim-on-iphone/) and [general eSIM setup guide](/faq/How-To-Activate-an-eSIM/).
+5. Install the eSIM. Detailed steps: [iPhone activation guide](/faq/how-to-activate-esim-on-iphone/) and [general eSIM setup guide](/faq/how-to-activate-an-esim/).
 6. Configure dual SIM: Keep your home SIM as the default voice line for calls/SMS. The USA eSIM will be set as the data line later.
 
 ### After Arrival in the US
@@ -378,7 +378,7 @@ Best choice: Roami 30-day 30GB. Only $19.99 after discount. The World Cup will t
 2. Turn OFF Data Roaming on your home SIM to avoid accidental charges.
 3. Set the USA eSIM as your Cellular Data line.
 4. Turn OFF "Allow Cellular Data Switching" – prevents your phone from silently switching back to your home SIM.
-5. Wait 2–5 minutes for initial network registration. If you see "No Service", toggle Airplane Mode on for 30 seconds, then off. If problems persist, see the [eSIM troubleshooting guide](/faq/eSIM-Deep-Troubleshooting-Guide-2026/).
+5. Wait 2–5 minutes for initial network registration. If you see "No Service", toggle Airplane Mode on for 30 seconds, then off. If problems persist, see the [eSIM troubleshooting guide](/faq/esim-deep-troubleshooting-guide-2026/).
 
 ### APN Settings (if no data connection appears)
 
@@ -414,7 +414,7 @@ Only if you buy a North America regional plan that explicitly includes those cou
 For 90% of travellers: no. Messaging apps (WhatsApp, iMessage, FaceTime, WeChat, Zoom) work perfectly over a data connection. The only reasons you might need a US number are receiving SMS verification codes from a US bank or registering for US‑only delivery/service apps.
 
 **My eSIM shows "No Service" – what do I do?**
-1) Confirm Data Roaming is ON for that line. 2) Toggle Airplane Mode for 30 seconds. 3) Restart your phone. 4) Wait 5–10 minutes. 5) Manually select a network. Never delete the eSIM. If the issue persists, see the [full troubleshooting guide](/faq/eSIM-Deep-Troubleshooting-Guide-2026/).
+1) Confirm Data Roaming is ON for that line. 2) Toggle Airplane Mode for 30 seconds. 3) Restart your phone. 4) Wait 5–10 minutes. 5) Manually select a network. Never delete the eSIM. If the issue persists, see the [full troubleshooting guide](/faq/esim-deep-troubleshooting-guide-2026/).
 
 **What is the cheapest eSIM for the USA?**
 Prices vary, but Roami's entry-level 1GB/7-day plan starts at $1.59 after discount code. Always compare cost per GB rather than the headline price. For heavier users, the 10GB/7-day plan at $8.79 after discount offers the best value per GB.

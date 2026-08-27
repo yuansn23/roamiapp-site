@@ -312,7 +312,7 @@ Pour un guide détaillé pas à pas, consultez notre **[procédure d'activation 
 | **Holafly** | `holafly` | vide |
 | **Nomad** | `global` | vide |
 
-Pour des problèmes persistants, notre **[guide de dépannage eSIM avec 16 cas pratiques](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** apporte des solutions avancées.
+Pour des problèmes persistants, notre **[guide de dépannage eSIM avec 16 cas pratiques](/faq/esim-deep-troubleshooting-guide-2026/)** apporte des solutions avancées.
 
 ---
 
@@ -329,7 +329,7 @@ Oui, pour plusieurs raisons techniques :
 - **Protection anti-SIM swap** : le transfert frauduleux de votre numéro vers un autre appareil est extrêmement difficile avec une eSIM, car le profil est lié à l'EID unique de votre téléphone.
 - **Secure Enclave (iPhone)** : les clés d'authentification réseau sont stockées dans une enclave matérielle sécurisée, isolée du système d'exploitation principal.
 
-Pour approfondir ces aspects techniques, consultez notre **[guide complet sur la sécurité de l'eSIM](/faq/What-Is-eSIM/)** (section 8).
+Pour approfondir ces aspects techniques, consultez notre **[guide complet sur la sécurité de l'eSIM](/faq/what-is-esim/)** (section 8).
 
 ### VPN : votre allié sécurité en voyage
 
@@ -522,7 +522,7 @@ Pour un voyageur qui effectue 3-4 voyages internationaux par an, le passage syst
 - **Pendant le voyage :** Utilisez exclusivement l'eSIM de voyage pour les données. Activez un VPN si vous utilisez des réseaux Wi-Fi publics.
 - **Après le retour :** Désactivez l'eSIM de voyage (ne la supprimez pas). Réactivez votre ligne française.
 
-**Besoin d'un forfait pour votre prochaine destination ?** Consultez nos guides : **[meilleure eSIM USA](/faq/2026-Best-eSIM-Options-for-the-USA/)** pour un comparatif complet, **[acheter une eSIM UK](/faq/How-to-Buy-a-UK-eSIM/)** pour le Royaume-Uni, ou notre **[guide d'activation eSIM](/faq/how-to-activate-an-esim/)** pour une procédure pas à pas.
+**Besoin d'un forfait pour votre prochaine destination ?** Consultez nos guides : **[meilleure eSIM USA](/faq/2026-best-esim-options-for-the-usa/)** pour un comparatif complet, **[acheter une eSIM UK](/faq/how-to-buy-a-uk-esim/)** pour le Royaume-Uni, ou notre **[guide d'activation eSIM](/faq/how-to-activate-an-esim/)** pour une procédure pas à pas.
 
 ---
 <script type="application/ld+json">

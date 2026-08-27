@@ -277,7 +277,7 @@ Yukarıdaki yöntemler başarısız olursa:
 | "Profil zaten kullanıldı" | Tek kurulumluk eSIM yeniden yüklenemez | Yeni bir plan satın alın. |
 | "Operatör eSIM aktarımını desteklemiyor" | Bazı faturalı operatör eSIM'leri IMEI'ye bağlıdır | Yeni IMEI'de eSIM'i yeniden vermek için operatörle iletişime geçin. |
 
-iPhone ve Android arasında (yalnızca Pixel'den Pixel'e değil) aktarım için **[eSIM Platformlar Arası Aktarım 2026 rehberimize](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** bakın.
+iPhone ve Android arasında (yalnızca Pixel'den Pixel'e değil) aktarım için **[eSIM Platformlar Arası Aktarım 2026 rehberimize](/faq/how-to-transfer-esim-between-iphone-and-android/)** bakın.
 
 ---
 
@@ -369,7 +369,7 @@ Uyumlu Pixel'lerde bile eSIM etkinleştirme bazen başarısız olabilir. İşte 
 4. **Diğer eSIM profillerini silin** —Depolanmış çok sayıda profil varsa, kullanılmayanları silerek yer açın (bazı Pixel'lerde 5—0 depolanmış profil sınırı vardır).
 5. **Fabrika ayarlarına sıfırlama** —Son çare. Önce verilerinizi yedekleyin. Sıfırlamadan sonra, yedekten geri yüklemeden önce eSIM etkinleştirmeyi tekrar deneyin.
 
-Daha ileri düzey eSIM sorun giderme için **[eSIM Derinlemesine Sorun Giderme Rehberi 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** 'ne bakın.
+Daha ileri düzey eSIM sorun giderme için **[eSIM Derinlemesine Sorun Giderme Rehberi 2026](/faq/esim-deep-troubleshooting-guide-2026/)** 'ne bakın.
 
 ---
 

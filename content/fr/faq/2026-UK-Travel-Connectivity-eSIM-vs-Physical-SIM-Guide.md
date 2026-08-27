@@ -102,7 +102,7 @@ Vous planifiez un voyage au Royaume-Uni. Vols réservés, hôtels confirmés, it
 
 La technologie eSIM est régie par le [standard GSMA SGP.22](https://www.gsma.com/esim/), garantissant une compatibilité mondiale entre appareils et opérateurs. La [documentation officielle d'Apple sur l'eSIM](https://support.apple.com/fr-fr/108072) fournit des informations détaillées sur les appareils compatibles. Pour une vérification de la couverture réseau au Royaume-Uni, le [Ofcom Mobile Coverage Checker](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/mobile-coverage-checker) est un outil officiel utile.
 
-> **📖 Vous savez déjà que l'eSIM est le bon choix ?** Ce guide compare eSIM, SIM physique et roaming. Si vous êtes prêt à **acheter** un eSIM UK, consultez notre **[guide d'achat eSIM Royaume-Uni](/faq/How-to-Buy-a-UK-eSIM/)** avec forfaits, prix et activation en 3 étapes.
+> **📖 Vous savez déjà que l'eSIM est le bon choix ?** Ce guide compare eSIM, SIM physique et roaming. Si vous êtes prêt à **acheter** un eSIM UK, consultez notre **[guide d'achat eSIM Royaume-Uni](/faq/how-to-buy-a-uk-esim/)** avec forfaits, prix et activation en 3 étapes.
 
 ---
 
@@ -260,7 +260,7 @@ L'installation d'une eSIM est simple et rapide. Pour une procédure détaillée,
 - **O2 :** APN = `mobile.o2.co.uk` (nom/mdp : `web`/`web`)
 - **Vodafone :** APN = `internet` (nom/mdp : vide)
 
-Pour des problèmes plus complexes, consultez notre **[guide de dépannage eSIM avec 16 cas pratiques](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)**.
+Pour des problèmes plus complexes, consultez notre **[guide de dépannage eSIM avec 16 cas pratiques](/faq/esim-deep-troubleshooting-guide-2026/)**.
 
 ---
 

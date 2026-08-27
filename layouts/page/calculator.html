@@ -52,10 +52,10 @@
             {{ if not $first }},{{ end }}
             {
               "@type": "Question",
-              "name": {{ .q | plainify | jsonify }},
+              "name": {{ .q | plainify | jsonify | safeJS }},
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": {{ .a | plainify | jsonify }}
+                "text": {{ .a | plainify | jsonify | safeJS }}
               }
             }
             {{ $first = false }}

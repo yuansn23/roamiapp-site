@@ -108,7 +108,7 @@ A ativação eSIM é o processo de baixar com segurança um perfil digital da op
 
 Acabaram-se os dias de mexer com clipes minúsculos e cartões SIM de plástico microscópicos. Se você está mudando para uma nova operadora local ou comprando um plano de dados de viagem para sua próxima viagem internacional, usar um eSIM é a maneira mais conveniente de se manter conectado.
 
-No entanto, se é sua primeira vez fazendo uma **configuração eSIM no iPhone**, o processo pode parecer um pouco intimidador. Não se preocupe! Neste guia abrangente, mostraremos exatamente **como ativar um eSIM no seu iPhone** usando um QR code, inserção manual ou um aplicativo da operadora. Este guia cobre todos os modelos compatíveis, incluindo as séries iPhone 14, 15, 16 e 17 com eSIM exclusivo. Para uma análise completa especificamente do iPhone 17, veja nosso **[Guia Completo iPhone 17 eSIM](/pt/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**.
+No entanto, se é sua primeira vez fazendo uma **configuração eSIM no iPhone**, o processo pode parecer um pouco intimidador. Não se preocupe! Neste guia abrangente, mostraremos exatamente **como ativar um eSIM no seu iPhone** usando um QR code, inserção manual ou um aplicativo da operadora. Este guia cobre todos os modelos compatíveis, incluindo as séries iPhone 14, 15, 16 e 17 com eSIM exclusivo. Para uma análise completa especificamente do iPhone 17, veja nosso **[Guia Completo iPhone 17 eSIM](/pt/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)**.
 
 ---
 
@@ -131,7 +131,7 @@ Se você está tentando instalar um eSIM de viagem, seu telefone deve estar desb
 3. Se disser **"Sem restrições de SIM"**, seu iPhone está desbloqueado e pronto para um novo eSIM!
 
 ### Conecte-se a uma rede Wi‑Fi estável
-Você **deve** ter uma conexão de internet estável (Wi‑Fi é altamente recomendado) para baixar o perfil eSIM para o seu telefone. Para solução de problemas mais aprofundada se o bloqueio da operadora persistir, veja nosso guia **[Dual eSIM Não Funciona? 12 Correções para iPhone](/pt/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+Você **deve** ter uma conexão de internet estável (Wi‑Fi é altamente recomendado) para baixar o perfil eSIM para o seu telefone. Para solução de problemas mais aprofundada se o bloqueio da operadora persistir, veja nosso guia **[Dual eSIM Não Funciona? 12 Correções para iPhone](/pt/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
 ---
 
@@ -226,7 +226,7 @@ Com o iOS 19, a Apple tornou ainda mais fácil transferir seu eSIM. Usando a **T
 Basta colocar seu iPhone antigo perto do novo, ir em **Ajustes > Celular > Adicionar eSIM** no novo telefone e selecionar **Transferir do iPhone Próximo**. Siga as instruções e seu número será movido perfeitamente para o novo dispositivo sem a necessidade de um novo QR code.
 
 ### Transferência multiplataforma (iOS 19 ↔ Android 16)
-Agora você pode transferir eSIMs entre iPhone e Android diretamente – sem necessidade de ligar para a operadora. Veja nosso **[guia de Transferência Multiplataforma eSIM 2026](/pt/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** para passos detalhados.
+Agora você pode transferir eSIMs entre iPhone e Android diretamente – sem necessidade de ligar para a operadora. Veja nosso **[guia de Transferência Multiplataforma eSIM 2026](/pt/faq/how-to-transfer-esim-between-iphone-and-android/)** para passos detalhados.
 
 ---
 
@@ -255,7 +255,7 @@ Enfrentando problemas? Aqui estão os erros mais comuns e como corrigi-los:
 | **Sem conexão de dados após ativação** | Configurações APN ausentes ou incorretas | Configure manualmente as configurações APN (veja seção acima). |
 | **eSIM vinculado a outro dispositivo** | Perfil não liberado do dispositivo antigo | No dispositivo antigo, exclua o eSIM se ainda estiver visível. Se não, contate a operadora para liberação do perfil. |
 
-Para solução de problemas mais avançada cobrindo 16 casos reais, veja nosso **[Guia de Solução de Problemas eSIM 2026](/pt/faq/eSIM-Deep-Troubleshooting-Guide-2026/)**.
+Para solução de problemas mais avançada cobrindo 16 casos reais, veja nosso **[Guia de Solução de Problemas eSIM 2026](/pt/faq/esim-deep-troubleshooting-guide-2026/)**.
 
 ---
 
@@ -281,7 +281,7 @@ Um eSIM é um SIM digital que não pode ser removido fisicamente. Ele oferece a 
 Disque `*#06#` – se um EID aparecer, seu telefone suporta eSIM. Ou verifique em **Ajustes > Geral > Sobre** por uma entrada de SIM Digital ou EID. Se você estiver usando um iPhone e ainda não tiver certeza, a [página de suporte oficial da Apple para eSIM](https://support.apple.com/en-us/108072) fornece uma lista detalhada de modelos compatíveis.
 
 **Posso transferir meu eSIM de um telefone para outro?**
-Sim – usando a Transferência Rápida do iOS 19 (iPhone para iPhone) ou transferência multiplataforma (iPhone ↔ Android). Veja nosso **[guia de Transferência Multiplataforma eSIM 2026](/pt/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** para instruções passo a passo.
+Sim – usando a Transferência Rápida do iOS 19 (iPhone para iPhone) ou transferência multiplataforma (iPhone ↔ Android). Veja nosso **[guia de Transferência Multiplataforma eSIM 2026](/pt/faq/how-to-transfer-esim-between-iphone-and-android/)** para instruções passo a passo.
 
 **O que é um eSIM de viagem?**
 Um **eSIM de viagem** é um eSIM apenas dados projetado para viagens internacionais. Você o compra antes da partida, instala em casa e ativa na chegada – sem taxas de roaming, sem quiosques de SIM no aeroporto.

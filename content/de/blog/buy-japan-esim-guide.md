@@ -59,10 +59,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "2026 Plattformübergreifende eSIM-Übertragung"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Dual-eSIM funktioniert nicht? 12 Behebungen für iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Vollständige Liste der Smartwatch-eSIM-Kompatibilität"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -74,7 +74,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 Ultimativer Leitfaden: iPhone 17 eSIM-Aktivierungslösungen"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -98,7 +98,7 @@ Seit über einem Jahrzehnt war das Mieten eines Pocket-Wi-Fi-Geräts nach der La
 
 **Kosten:** Pocket Wi-Fi kostet etwa $25-40 für 7 Tage. Eine eSIM kostet etwa $5.99 für 7 Tage 5GB oder sogar weniger mit Rabatten. Ersparnis von 70-85%.
 
-**Bequemlichkeit:** Pocket Wi-Fi erfordert ein zusätzliches Gerät – Aufladen, Mitführen, Im-Auge-behalten, Rückgabe. Eine eSIM lebt in Ihrem Telefon – null zusätzliche Geräte. Ihr Telefon ist Ihr Wi-Fi-Hotspot. Das Verständnis [wie eSIM funktioniert](/faq/What-Is-eSIM/) offenbart die Natur dieses Generationenwechsels.
+**Bequemlichkeit:** Pocket Wi-Fi erfordert ein zusätzliches Gerät – Aufladen, Mitführen, Im-Auge-behalten, Rückgabe. Eine eSIM lebt in Ihrem Telefon – null zusätzliche Geräte. Ihr Telefon ist Ihr Wi-Fi-Hotspot. Das Verständnis [wie eSIM funktioniert](/faq/what-is-esim/) offenbart die Natur dieses Generationenwechsels.
 
 **Zuverlässigkeit:** Pocket Wi-Fi hat einen leeren Akku (typischerweise 6-8 Stunden, nicht genug für einen ganzen Tag Sightseeing). Eine eSIM nicht – sie teilt sich den Akku Ihres Telefons, den Sie ohnehin jede Nacht aufladen.
 
@@ -236,7 +236,7 @@ Erstnutzer können mit einem [kostenlosen eSIM-Angebot](/free-esim/) beginnen, u
 
 **Beste eSIM:** Roami Japan eSIM 5GB/3-Tage-Tarif, $4.79 nach Rabatt. Auf diesem Reiseverlauf dient Multi-Netzwerk-Switching hauptsächlich als Reserveabdeckung in unterirdischen Räumen. In Hochhausvierteln wie Shinjuku und Roppongi können verschiedene Netzwerke auf verschiedenen Etagen unterschiedliche Signalstärken haben.
 
-Wenn Sie ein iPhone verwenden und zum ersten Mal eine eSIM installieren, lesen Sie das [iPhone eSIM Aktivierungs-Tutorial](/faq/how-to-activate-esim-on-iphone/). Wenn Sie auf Verbindungsprobleme stoßen, kann die [eSIM-Fehlerbehebung](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) bei der schnellen Diagnose helfen.
+Wenn Sie ein iPhone verwenden und zum ersten Mal eine eSIM installieren, lesen Sie das [iPhone eSIM Aktivierungs-Tutorial](/faq/how-to-activate-esim-on-iphone/). Wenn Sie auf Verbindungsprobleme stoßen, kann die [eSIM-Fehlerbehebung](/faq/esim-deep-troubleshooting-guide-2026/) bei der schnellen Diagnose helfen.
 
 ### Szenario 4: Wanderung in den Japanischen Alpen (Tateyama-Kurobe-Alpenroute, 4-5 Tage)
 

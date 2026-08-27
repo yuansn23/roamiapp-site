@@ -99,7 +99,7 @@ sidebar_questions:
 
 Internationales Roaming ist teuer. SIM-Kioske am Flughafen sind oft überteuert. Und das Hantieren mit mehreren physischen SIM-Karten ist mühsam. **Hier kommt die Reise-eSIM ins Spiel** – eine digitale SIM, mit der Sie lokale Datentarife von überall auf der Welt kaufen, noch vor der Abreise installieren und im Moment der Landung aktivieren können. Dieser Leitfaden, basierend auf der offiziellen Apple-Dokumentation 2025–2026, bietet Ihnen die ultimative Strategie, um im Ausland verbunden zu bleiben.
 
-Die technische Grundlage für Reise-eSIMs wird durch den [GSMA-Standard](https://www.gsma.com/esim/) definiert, der weltweit die Interoperabilität zwischen Geräten und Mobilfunkanbietern sicherstellt. Für Nutzer, die nach der Reise ihre eSIM auf ein anderes Gerät übertragen möchten, steht ab iOS 19 und Android 16 eine native Lösung zur Verfügung – siehe dazu unseren **[Guide zum plattformübergreifenden eSIM-Transfer 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+Die technische Grundlage für Reise-eSIMs wird durch den [GSMA-Standard](https://www.gsma.com/esim/) definiert, der weltweit die Interoperabilität zwischen Geräten und Mobilfunkanbietern sicherstellt. Für Nutzer, die nach der Reise ihre eSIM auf ein anderes Gerät übertragen möchten, steht ab iOS 19 und Android 16 eine native Lösung zur Verfügung – siehe dazu unseren **[Guide zum plattformübergreifenden eSIM-Transfer 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 
 ## 📌 Kurzfassung für Reisende
@@ -137,7 +137,7 @@ Ein gesperrtes iPhone kann nur den Anbieter nutzen, bei dem es gekauft wurde. Pr
 ### 2.2 Unterstützt Ihr iPhone eSIM?
 Alle Modelle ab **iPhone XS, XR und neuer** unterstützen eSIM. Das umfasst alle Serien von iPhone 11 bis iPhone 17. Die [offizielle Apple Kompatibilitätsliste](https://support.apple.com/118738) bestätigt diese Geräte.
 
-Für eine detaillierte Aktivierungsanleitung speziell für das iPhone 17 besuchen Sie unseren **[iPhone 17 eSIM Komplett-Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**. Eine vollständige Übersicht aller eSIM-fähigen Geräte – von **iPhone** über **Samsung** bis **Google Pixel** – finden Sie in unserer **[eSIM-Kompatibilitätsliste](/compatibility/)**.
+Für eine detaillierte Aktivierungsanleitung speziell für das iPhone 17 besuchen Sie unseren **[iPhone 17 eSIM Komplett-Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)**. Eine vollständige Übersicht aller eSIM-fähigen Geräte – von **iPhone** über **Samsung** bis **Google Pixel** – finden Sie in unserer **[eSIM-Kompatibilitätsliste](/compatibility/)**.
 
 ### 2.3 Welche Reise-eSIM für welches Land?
 Die Wahl der richtigen Reise-eSIM hängt vom Reiseziel ab. Hier eine Übersicht der beliebtesten Destinationen und ihrer Besonderheiten:

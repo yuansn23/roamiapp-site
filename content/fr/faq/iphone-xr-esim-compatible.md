@@ -393,7 +393,7 @@ Non. Les iPhone XR vendus en Chine continentale ont deux emplacements nano-SIM p
 Non. L'iPhone XR n'a pas de modem 5G. L'eSIM fonctionne en **4G LTE**, amplement suffisante pour tous les usages en voyage.
 
 **Q5 : Comment transférer mon eSIM de l'iPhone XR vers un nouvel iPhone ?**
-Avec iOS 16+, le transfert d'eSIM se fait automatiquement pendant la configuration du nouvel iPhone (placez les deux appareils à proximité). Consultez notre **[guide de transfert eSIM](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+Avec iOS 16+, le transfert d'eSIM se fait automatiquement pendant la configuration du nouvel iPhone (placez les deux appareils à proximité). Consultez notre **[guide de transfert eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 **Q6 : L'iPhone XR est-il compatible avec les eSIM de tous les pays ?**
 Oui, dans la limite de ses 26 bandes LTE. L'iPhone XR couvre toutes les bandes utilisées en Europe, Amérique du Nord, et la plupart des pays d'Asie. Pour le Japon et la Corée, vérifiez la compatibilité des bandes locales.
@@ -411,7 +411,7 @@ Non. L'iPhone XR ne possède pas de modem 5G. Les eSIM « 5G » fonctionnent tou
 Le numéro de modèle exact (A1984, A2105, A2106, A2108) détermine les bandes supportées. Pour le vérifier : **Réglages > Général > Informations > Modèle**. Les modèles A2105 (global) et A1984 (US/Canada) supportent les 26 bandes. La [documentation Apple](https://support.apple.com/fr-fr/108072) détaille les bandes par modèle.
 
 **Q11 : Puis-je transférer mon eSIM de l'iPhone XR vers Android ?**
-Le transfert direct iPhone XR → Android n'est pas supporté nativement. Vous devez contacter votre opérateur pour désactiver l'eSIM sur l'iPhone XR et obtenir un nouveau QR code pour l'Android. Certains opérateurs (Orange, SFR) permettent de générer un nouveau QR code depuis l'espace client. Consultez notre **[guide de transfert eSIM](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** pour la procédure complète.
+Le transfert direct iPhone XR → Android n'est pas supporté nativement. Vous devez contacter votre opérateur pour désactiver l'eSIM sur l'iPhone XR et obtenir un nouveau QR code pour l'Android. Certains opérateurs (Orange, SFR) permettent de générer un nouveau QR code depuis l'espace client. Consultez notre **[guide de transfert eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/)** pour la procédure complète.
 
 **Q12 : L'iPhone XR reconditionné est-il fiable pour l'eSIM ?**
 Oui, à condition de vérifier deux choses avant l'achat : (1) le statut de déverrouillage (« Aucune restriction SIM » dans les Réglages), et (2) l'absence de blocage iCloud (vérifiez que « Localiser mon iPhone » est désactivé). Privilégiez les reconditionneurs certifiés (Back Market, Certideal, Apple Certified Refurbished) qui testent systématiquement le module eSIM.

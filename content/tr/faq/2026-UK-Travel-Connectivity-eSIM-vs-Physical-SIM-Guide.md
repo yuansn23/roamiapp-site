@@ -99,7 +99,7 @@ sidebar_questions:
 
 Google size karmaşık teknik makaleler, kafa karıştırıcı terimler ve birbiriyle uyuşmayan görüşler sunuyor. Bu kılavuz farklı. Jargon yok. Gereksiz bilgi yok. Sadece, ister ilk kez Londra'ya giden biri olun, ister Highlands'de yolculuk yapan biri, ister altı aylığına taşınan bir öğrenci olun, seyahatiniz için doğru **İngiltere eSIM**'i veya fiziksel SIM'i seçmenize yardımcı olacak açık bir anlatım.
 
-eSIM teknolojisine genel bir giriş için [eSIM Nedir? kılavuzumuza](/faq/What-Is-eSIM/) göz atabilirsiniz.
+eSIM teknolojisine genel bir giriş için [eSIM Nedir? kılavuzumuza](/faq/what-is-esim/) göz atabilirsiniz.
 
 
 ## Seyahatçi Tipinizi Bulun – Ve Size Uygun Mükemmel İngiltere eSIM'i
@@ -176,7 +176,7 @@ Büyük bir şehrin 30 dakika dışına çıkın ve genellikle 4G'ye hatta 3G'ye
 
 Telefonunuzda tam sinyal gördünüz ancak hiçbir şey yüklenmedi mi? Bunun nedeni, "çubukların" yalnızca bağlantı gücünü göstermesidir, kaliteyi değil. Eski İngiltere binaları (Viktorya dönemi barları, bodrum restoranları) yüksek frekanslı 5G'yi öldüren kalın duvarlara sahiptir. İyi bir **eSIM** sizi otomatik olarak daha yavaş ancak duvarları delebilen daha kararlı bir banda geçirir. Roami bunu yapar. Çoğu diğer yapmaz.
 
-Taşıyıcı performansı hakkında daha fazla ayrıntı için [İngiltere eSIM taşıyıcı karşılaştırmamıza](/faq/UK-connectivity-guide-2026/) göz atın.
+Taşıyıcı performansı hakkında daha fazla ayrıntı için [İngiltere eSIM taşıyıcı karşılaştırmamıza](/faq/2026-uk-travel-connectivity-esim-vs-physical-sim-guide/) göz atın.
 
 
 ## İngiltere eSIM vs Fiziksel SIM – Hangisi Gerçekten Daha Fazla Tasarruf Ettirir?
@@ -335,7 +335,7 @@ Aktivasyondan sonra veriniz yoksa, APN'yi manuel olarak ayarlamanız gerekebilir
 | **Vodafone** | internet | (boş) | (boş) |
 | **Three** | three.co.uk | (boş) | (boş) |
 
-Hâlâ sorun yaşıyorsanız, 16 gerçek vaka için [eSIM sorun giderme kılavuzumuza](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) bakın.
+Hâlâ sorun yaşıyorsanız, 16 gerçek vaka için [eSIM sorun giderme kılavuzumuza](/faq/esim-deep-troubleshooting-guide-2026/) bakın.
 
 
 ## İngiltere eSIM Aktivasyonu: Basit Adım Adım Plan
@@ -363,7 +363,7 @@ Hâlâ sorun yaşıyorsanız, 16 gerçek vaka için [eSIM sorun giderme kılavuz
 - Bir şeyler ters giderse, konum, saat ve gördüklerinizle birlikte hemen desteğe başvurun.
 - **İngiltere mobil verisini** yoğun kullanıyorsanız, daha büyük bir veri planı düşünün – düşündüğünüzden daha fazla kullanacaksınız.
 
-Detaylı aktivasyon talimatları için [eSIM nasıl aktive edilir kılavuzumuza](/faq/how-to-activate-an-esim/) bakın. Sorunlarla karşılaşırsanız, [eSIM sorun giderme kılavuzumuz](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) 16 gerçek vakayı kapsar.
+Detaylı aktivasyon talimatları için [eSIM nasıl aktive edilir kılavuzumuza](/faq/how-to-activate-an-esim/) bakın. Sorunlarla karşılaşırsanız, [eSIM sorun giderme kılavuzumuz](/faq/esim-deep-troubleshooting-guide-2026/) 16 gerçek vakayı kapsar.
 
 
 ## İngiltere eSIM'leri Hakkında Sıkça Sorulan Sorular
@@ -406,7 +406,7 @@ Bağlıdır. Birçok **İngiltere eSIM** planı yalnızca İngiltere içindir ve
 - Orta düzey (sosyal medya, müzik akışı): 5‑10GB/hafta
 - Yoğun (görüntülü aramalar, akış, sıcak nokta): 10‑20GB/hafta
 
-Daha fazla veri planı rehberliği için [eSIM veri planları karşılaştırmamıza](/faq/Travel-eSIM-2026-How-to-Avoid-Roaming-Fees-Stay-Connected-Abroad/#4-esim-data-plans-how-much-data-do-you-actually-need-for-your-trip) bakın.
+Daha fazla veri planı rehberliği için [eSIM veri planları karşılaştırmamıza](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/#4-esim-data-plans-how-much-data-do-you-actually-need-for-your-trip) bakın.
 
 **S13: Mevcut en ucuz İngiltere eSIM hangisidir?**  
 Roami'nin 1GB/7 günlük planı $1.99 ile şu anda en ucuzdur. Daha fazla veri için Airalo'nun 5GB/7 günlük $10 planı rekabetçidir, ancak Roami genellikle fiyat ve çoklu ağ geçişi açısından onu geride bırakır. Her zaman GB başına toplam maliyeti karşılaştırın.

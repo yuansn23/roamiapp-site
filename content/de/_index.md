@@ -109,7 +109,7 @@ destinations:
           tags: ["5G Highspeed", "Unbegrenzte Daten"]
         - flag: "ae.svg"
           name: "UAE eSIM"
-          slug: "United-Arab-Emirates-eSIM"
+          slug: "united-arab-emirates-esim"
           price: "Ab 1,99 $"
           tags: ["5G Highspeed", "Hotspot unterstützt"]
         - flag: "jp.svg"

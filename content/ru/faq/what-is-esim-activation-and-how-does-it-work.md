@@ -246,8 +246,8 @@ sidebar_questions:
 
 > 📎 **Связанные ресурсы на этом сайте:**
 > - [Полное руководство по устранению неполадок eSIM (16 реальных случаев)](/faq/esim-deep-troubleshooting-guide-2026/)
-> - [Кроссплатформенный перенос eSIM 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
-> - [Двойная eSIM не работает? 12 исправлений для iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+> - [Кроссплатформенный перенос eSIM 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)
+> - [Двойная eSIM не работает? 12 исправлений для iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)
 > - [Актуальный список телефонов, совместимых с eSIM](/compatibility/)
 > - [Купить eSIM для Турции, Египта, Китая и других стран](/plans/)
 

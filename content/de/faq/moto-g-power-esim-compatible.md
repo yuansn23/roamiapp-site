@@ -364,7 +364,7 @@ Ja – das Modell 2024 unterstützt **Dual SIM** mit einer aktiven physischen SI
 Eine eSIM ist ein digitales Profil, das auf einem Chip im Gerät gespeichert ist – keine physische Karte nötig. Die Vorteile der eSIM liegen in der Flexibilität: Sie können Tarife in Sekunden wechseln und mehrere Profile auf einem Gerät speichern. Mehr dazu in unserem [Einsteiger-Guide zur eSIM](/faq/what-is-esim-activation-and-how-does-it-work/).
 
 **Kann ich eine eSIM von einem anderen Gerät auf mein Moto G Power übertragen?**
-Ja – ab Android 15 ist die plattformübergreifende eSIM-Übertragung möglich. Eine detaillierte Schritt-für-Schritt-Anleitung finden Sie in unserem [eSIM Cross-Platform Transfer Guide](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/).
+Ja – ab Android 15 ist die plattformübergreifende eSIM-Übertragung möglich. Eine detaillierte Schritt-für-Schritt-Anleitung finden Sie in unserem [eSIM Cross-Platform Transfer Guide](/faq/how-to-transfer-esim-between-iphone-and-android/).
 
 ---
 *Basierend auf Motorola-Support-Dokumenten, GSMA-Standards und Anbieterinformationen Stand Juni 2026. Die eSIM-Kompatibilität kann je nach Region und Anbieter variieren.*

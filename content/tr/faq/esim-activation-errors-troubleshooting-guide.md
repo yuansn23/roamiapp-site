@@ -109,7 +109,7 @@ sidebar_questions:
 - **iPhone uyumsuz eSIM'e geçti önyükleme döngüsünde takılı kaldı** – Nadir fakat ciddi bir sorun.
 - **Verizon müşterileri** "**sim'iniz esim aktarımı için desteklenmiyor verizon**" görür.
 
-Eğer esim nasıl alınır konusunda yeniyseniz, önce [eSIM Nedir? rehberimize](/faq/What-Is-eSIM/) göz atın. Her sorunu adım adım çözelim. **esim çalışmıyor** senaryoları veya **iphone'da esim nasıl düzeltilir** hakkında daha geniş bir genel bakışa ihtiyacınız varsa, bu kılavuz en yaygın çözümleri kapsar.
+Eğer esim nasıl alınır konusunda yeniyseniz, önce [eSIM Nedir? rehberimize](/faq/what-is-esim/) göz atın. Her sorunu adım adım çözelim. **esim çalışmıyor** senaryoları veya **iphone'da esim nasıl düzeltilir** hakkında daha geniş bir genel bakışa ihtiyacınız varsa, bu kılavuz en yaygın çözümleri kapsar.
 
 Genel eSIM etkinleştirme talimatları için [eSIM nasıl etkinleştirilir kılavuzumuza](/faq/how-to-activate-an-esim/) bakın. Alternatif olarak operatörünüzün esim uygulaması üzerinden de profili doğrudan yükleyebilirsiniz. Telefonunuz burada listelenmemişse, [tam eSIM uyumlu telefonlar listesine (2026)](/compatibility/) göz atın.
 
@@ -171,7 +171,7 @@ eSIM etkinleştirmesi, telefonunuzun operatörünüzün **SM‑DP+ sunucusuna** 
 4. **Bekleyin – silmeyin.** Bazen etkinleştirme 5–10 dakika sürebilir çünkü operatörün SM‑DP+ sunucusu meşguldür. Profili etkinleştirme ortasında silerseniz, kalıcı olarak kaybedebilirsiniz.
 5. **Manuel girişi deneyin.** Bir QR kodu kullanıyorsanız, "Ayrıntıları Manuel Gir" seçeneğine dokunun ve e‑postanızdan SM‑DP+ adresini ve etkinleştirme kodunu girin.
 
-Bunların hiçbiri işe yaramazsa, eSIM sağlayıcınızla iletişime geçin – QR kodunu yeniden oluşturmaları gerekebilir. Daha gelişmiş etkinleştirme hata ayıklaması için **[eSIM Derin Sorun Giderme Kılavuzu 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** 'ya bakın.
+Bunların hiçbiri işe yaramazsa, eSIM sağlayıcınızla iletişime geçin – QR kodunu yeniden oluşturmaları gerekebilir. Daha gelişmiş etkinleştirme hata ayıklaması için **[eSIM Derin Sorun Giderme Kılavuzu 2026](/faq/esim-deep-troubleshooting-guide-2026/)** 'ya bakın.
 
 [GSMA](https://www.gsma.com/esim/), eSIM etkinleştirmesinin dayandığı teknik standartları sağlar – operatörler ve cihaz üreticileri, sorunsuz etkinleştirme için bu spesifikasyonlara uymalıdır.
 
@@ -207,7 +207,7 @@ Bir eSIM'i eski telefondan yenisine taşırken **"sim'iniz esim aktarımı için
 
 Bir eSIM'i etkinleştirdiğinizde, operatörünüz onu telefonunuzun **EID'sine** (eUICC Tanımlayıcısı) bağlar. Bazı operatörler bu bağlamayı yeni bir cihaza aktarmanıza izin verir; bazıları izin vermez. Seyahat eSIM'leri neredeyse her zaman tasarım gereği aktarılamaz.
 
-**Hem iPhone hem de Android'i kapsayan adım adım talimatlar için (platformlar arası taşımalar dahil), [eSIM iPhone ve Android Arasında Nasıl Aktarılır](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/) bölümüne bakın.**
+**Hem iPhone hem de Android'i kapsayan adım adım talimatlar için (platformlar arası taşımalar dahil), [eSIM iPhone ve Android Arasında Nasıl Aktarılır](/faq/how-to-transfer-esim-between-iphone-and-android/) bölümüne bakın.**
 
 ### Özellikle Verizon Müşterileri İçin
 
@@ -227,7 +227,7 @@ Verizon kullanıcıları, bir eSIM'i yeni bir telefona taşımaya çalışırken
 
 Bazı kullanıcılar, desteklenmeyen bir telefonda eSIM'i etkinleştirmeyi umarak **"force esim iphone 7"** arar. **Bu imkansızdır.** iPhone 7'de eSIM donanımı yoktur. Hiçbir yazılım korsanı bunu ekleyemez. Aynısı iPhone 6s, 8 ve iPhone X için de geçerlidir. eSIM'i "zorlamanın" tek yolu, bir iPhone XR veya daha yenisine yükseltmektir.
 
-**"esim yeni iphone'a aktarılmıyor"** sorununuz buysa ve operatörünüz aktarımı destekliyorsa, yerleşik iOS aktarım seçeneği genellikle çalışır. Daha fazla yardım için [platformlar arası aktarım kılavuzuna](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/) bakın.
+**"esim yeni iphone'a aktarılmıyor"** sorununuz buysa ve operatörünüz aktarımı destekliyorsa, yerleşik iOS aktarım seçeneği genellikle çalışır. Daha fazla yardım için [platformlar arası aktarım kılavuzuna](/faq/how-to-transfer-esim-between-iphone-and-android/) bakın.
 
 
 ## 5. eSIM'i Yanlışlıkla Sildiniz mi? Nasıl Yeniden Etkinleştirilir
@@ -254,7 +254,7 @@ Değilse, yukarıdaki kurtarma adımlarını izleyin.
 
 Farklı operatörlerde **"esim nasıl yeniden etkinleştirilir"** hakkında genel rehberlik için evrensel cevap: **eSIM sağlayıcınızla sipariş numaranızla iletişime geçin ve yeni bir QR kodu veya yeniden etkinleştirme isteyin.**
 
-eSIM'inizi tekrar yanlışlıkla silme konusunda endişeleniyorsanız, QR kodunuzun veya etkinleştirme ayrıntılarınızın bir yedeğini güvenli bir yerde (şifre yöneticisi veya bulut depolama gibi) saklamanızı öneririz. Adım adım kurtarma talimatları için [eSIM sorun giderme kılavuzumuza](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) bakın.
+eSIM'inizi tekrar yanlışlıkla silme konusunda endişeleniyorsanız, QR kodunuzun veya etkinleştirme ayrıntılarınızın bir yedeğini güvenli bir yerde (şifre yöneticisi veya bulut depolama gibi) saklamanızı öneririz. Adım adım kurtarma talimatları için [eSIM sorun giderme kılavuzumuza](/faq/esim-deep-troubleshooting-guide-2026/) bakın.
 
 
 ## 6. iPhone Uyumsuz eSIM'e Geçti – Önyükleme Döngüsünde Takılı Kaldı
@@ -279,7 +279,7 @@ Bir eSIM yüklediğinizde, profil cihazınızın hücresel taban bant ürün yaz
 
 eSIM profillerini her zaman güvenilir sağlayıcılardan indirin. İnternette bulunan rastgele QR kodlarını yüklemeye çalışmayın.
 
-iPhone'unuzda iki eSIM kullanıyorsanız ve çakışmalarla karşılaşıyorsanız, **[iPhone Çift eSIM Çalışmıyor mu? 12 Düzeltme](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** kılavuzu özel çift‑eSIM sorun giderme adımlarını kapsar.
+iPhone'unuzda iki eSIM kullanıyorsanız ve çakışmalarla karşılaşıyorsanız, **[iPhone Çift eSIM Çalışmıyor mu? 12 Düzeltme](/faq/dual-esim-not-working-12-fixes-for-iphone/)** kılavuzu özel çift‑eSIM sorun giderme adımlarını kapsar.
 
 iPad ve Apple Watch eSIM sorunları için [iPad ve Apple Watch eSIM kılavuzumuza](/faq/ipad-apple-watch-esim-support-guide/) bakın.
 
@@ -293,7 +293,7 @@ Yeni bir iPhone'unuz var ve eSIM'inizi taşımak istiyorsunuz, ancak **"esim yen
 - **QR kodunun süresi doldu** – Eski bir QR kodunu yeniden kullanıyorsanız, son kullanma tarihini kontrol edin (genellikle 30–90 gün).
 - **Farklı Apple ID'leri** – Yerleşik aktarımın çalışması için her iki cihazın da aynı Apple ID ile oturum açmış olması gerekir.
 
-**Nasıl düzeltilir:** Yukarıdaki "eSIM aktarılamıyor" bölümünü izleyin. iPhone'dan Android'e (veya tam tersi) taşıyorsanız, neredeyse kesinlikle yeni bir eSIM profiline ihtiyacınız olacaktır – platformlar arası aktarım nadiren desteklenir. Ayrıntılı adımlar için **[eSIM iPhone ve Android Arasında Nasıl Aktarılır](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** bölümüne bakın.
+**Nasıl düzeltilir:** Yukarıdaki "eSIM aktarılamıyor" bölümünü izleyin. iPhone'dan Android'e (veya tam tersi) taşıyorsanız, neredeyse kesinlikle yeni bir eSIM profiline ihtiyacınız olacaktır – platformlar arası aktarım nadiren desteklenir. Ayrıntılı adımlar için **[eSIM iPhone ve Android Arasında Nasıl Aktarılır](/faq/how-to-transfer-esim-between-iphone-and-android/)** bölümüne bakın.
 
 Bir **Verizon** müşterisiyseniz, Bölüm 4'teki adımlar özellikle **"sim'iniz esim aktarımı için desteklenmiyor verizon"** hataları için geçerlidir. T‑Mobile kullanıcıları için uygulamaları, eSIM'leri cihazlar arasında aktarmanın kolay bir yolunu sağlar.
 
@@ -403,7 +403,7 @@ Motorola, OnePlus, Xiaomi ve diğer markalar için bu kılavuzdaki evrensel soru
 - Gelecekteki bir seyahat için eSIM satın alıyorsanız, satın almadan önce sağlayıcının son kullanma politikasını kontrol edin.
 - Orijinalin süresi dolsa bile erişebilmek için QR kodunuzu birden fazla yerde kaydedin (e‑posta, bulut depolama, basılı kopya).
 
-Süresi dolmuş eSIM'lerle ilgili daha fazla yardım için [eSIM sorun giderme kılavuzumuza](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) bakın.
+Süresi dolmuş eSIM'lerle ilgili daha fazla yardım için [eSIM sorun giderme kılavuzumuza](/faq/esim-deep-troubleshooting-guide-2026/) bakın.
 
 
 ## 12. eSIM iPad veya Apple Watch'ta Çalışmıyor – Cihaza Özel Çözümler
@@ -483,7 +483,7 @@ Wi‑Fi Arama eSIM'inizde çalışmıyorsa:
 2. **Acil durum adresi ekleyin** – Bazı operatörler bir acil durum adresi kaydetmenizi gerektirir.
 3. **Operatör desteğini kontrol edin** – Tüm operatörler eSIM'de Wi‑Fi Arama'yı desteklemez.
 
-Bu özelliklerden herhangi biriyle ilgili kalıcı sorunlar için, belirli hata mesajları ve cihaz ayrıntılarınızla eSIM sağlayıcınızın destek ekibiyle iletişime geçin. Daha gelişmiş hata ayıklama adımları için [eSIM sorun giderme kılavuzumuza](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) bakın.
+Bu özelliklerden herhangi biriyle ilgili kalıcı sorunlar için, belirli hata mesajları ve cihaz ayrıntılarınızla eSIM sağlayıcınızın destek ekibiyle iletişime geçin. Daha gelişmiş hata ayıklama adımları için [eSIM sorun giderme kılavuzumuza](/faq/esim-deep-troubleshooting-guide-2026/) bakın.
 
 
 ## 14. Hızlı Başvuru: Hata Mesajları ve Çözümler
@@ -497,7 +497,7 @@ Bu özelliklerden herhangi biriyle ilgili kalıcı sorunlar için, belirli hata 
 | **"sim'iniz esim aktarımı için desteklenmiyor"** | Operatör aktarıma izin vermiyor | Yeni QR kodu için operatör uygulamasını kullanın |
 | **"sim'iniz esim aktarımı için desteklenmiyor verizon"** | Verizon'a özel kilit | Önce eSIM'i eski cihazdan kaldırın |
 | **"esim yeni iphone'a aktarılmıyor"** | Eski eSIM hala aktif veya tek kullanımlık | Eski telefondan silin; yeni QR talep edin |
-| **"esim'i yanlışlıkla sildim"** | Kullanıcı hatası | Değiştirme için sağlayıcıyla iletişime geçin. [Sorun giderme kılavuzuna](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) bakın |
+| **"esim'i yanlışlıkla sildim"** | Kullanıcı hatası | Değiştirme için sağlayıcıyla iletişime geçin. [Sorun giderme kılavuzuna](/faq/esim-deep-troubleshooting-guide-2026/) bakın |
 | **"iphone uyumsuz esim'e geçti önyükleme döngüsünde takılı kaldı"** | Bozuk profil | Zorla yeniden başlatma > Bilgisayar aracılığıyla Güncelleme |
 | **"esim profili süresi doldu"** | QR kodunun süresi doldu | Yeni QR kodu için sağlayıcıyla iletişime geçin |
 | **"esim qr kodu geçersiz"** | Kod zaten kullanıldı veya süresi doldu | Yeni QR kodu talep edin |
@@ -509,9 +509,9 @@ Bu özelliklerden herhangi biriyle ilgili kalıcı sorunlar için, belirli hata 
 
 Bu kılavuz en yaygın eSIM sorunlarını kapsar. Daha gelişmiş sorun giderme (çift‑eSIM sorunları, APN hata ayıklama ve operatöre özel çözümler dahil) için şunlara bakın:
 
-- **[eSIM Derin Sorun Giderme Kılavuzu 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** – kalıcı etkinleştirme hataları ve ağ hata ayıklama için.
-- **[iPhone Çift eSIM Çalışmıyor mu? 12 Düzeltme](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** – iPhone'da aynı anda iki eSIM kullanıyorsanız.
-- **[eSIM iPhone ve Android Arasında Nasıl Aktarılır](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** – platformlar arası aktarımlar için adım adım.
+- **[eSIM Derin Sorun Giderme Kılavuzu 2026](/faq/esim-deep-troubleshooting-guide-2026/)** – kalıcı etkinleştirme hataları ve ağ hata ayıklama için.
+- **[iPhone Çift eSIM Çalışmıyor mu? 12 Düzeltme](/faq/dual-esim-not-working-12-fixes-for-iphone/)** – iPhone'da aynı anda iki eSIM kullanıyorsanız.
+- **[eSIM iPhone ve Android Arasında Nasıl Aktarılır](/faq/how-to-transfer-esim-between-iphone-and-android/)** – platformlar arası aktarımlar için adım adım.
 
 Ve hangi telefonların eSIM ile çalıştığına dair eksiksiz bir referans için **[Tam eSIM uyumlu telefonlar listesini (2026)](/compatibility/)** ziyaret edin.
 

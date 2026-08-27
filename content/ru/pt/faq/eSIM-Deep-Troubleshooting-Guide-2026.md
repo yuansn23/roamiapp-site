@@ -97,11 +97,11 @@ sidebar_questions:
       url: "/compatibility/"
 ---
 
-> ⚠️ **Este guia foi arquivado.** Esta versão cobre o iOS 19 e foi substituída pelo **[Guia de Transferência de eSIM para iOS 26](/pt/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** com instruções atualizadas. Recomendamos consultar a nova versão.
+> ⚠️ **Este guia foi arquivado.** Esta versão cobre o iOS 19 e foi substituída pelo **[Guia de Transferência de eSIM para iOS 26](/pt/faq/how-to-transfer-esim-between-iphone-and-android/)** com instruções atualizadas. Recomendamos consultar a nova versão.
 
 📅 **Última atualização: 6 de agosto de 2026 (versão arquivada)**
 
-Por anos, as transferências de eSIM foram bloqueadas dentro do mesmo ecossistema – você podia mover de iPhone para iPhone, ou entre alguns telefones Android, mas cruzar a divisa iOS‑Android exigia uma visita à sua operadora. **O iOS 19 e o Android 16 mudam isso completamente.** Este guia orienta você por cada método suportado, requisito de operadora e passo de solução de problemas para transferir seu eSIM perfeitamente. Para ajuda geral com ativação, consulte nosso **[guia de ativação para iPhone 17](/pt/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**.
+Por anos, as transferências de eSIM foram bloqueadas dentro do mesmo ecossistema – você podia mover de iPhone para iPhone, ou entre alguns telefones Android, mas cruzar a divisa iOS‑Android exigia uma visita à sua operadora. **O iOS 19 e o Android 16 mudam isso completamente.** Este guia orienta você por cada método suportado, requisito de operadora e passo de solução de problemas para transferir seu eSIM perfeitamente. Para ajuda geral com ativação, consulte nosso **[guia de ativação para iPhone 17](/pt/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)**.
 
 A tecnologia por trás da transferência multiplataforma de eSIM é regida pela [especificação de transferência eSIM de consumidor da GSMA (SGP.22 v2.5+)](https://www.gsma.com/esim/){: rel="nofollow" target="_blank" }. O [documento oficial da Apple sobre eSIM no iPhone](https://support.apple.com/en-us/HT209044){: rel="nofollow" target="_blank" } e a [página de suporte eSIM do Android](https://support.google.com/android/answer/11241215){: rel="nofollow" target="_blank" } fornecem informações adicionais sobre compatibilidade.
 
@@ -304,7 +304,7 @@ Com base em casos reais de usuários e na documentação interna da Apple, aqui 
 | Erro **perfil eSIM expirado** | O código QR tem um limite de tempo (24‑72 horas). | Contate a operadora para um novo código QR. |
 | **Falha na ativação eSIM** sem erro claro | Congestionamento da rede da operadora ou interrupção temporária. | Aguarde 15‑30 minutos e tente novamente. Se ainda falhar, use métodos alternativos (Seção 6). |
 
-Se você está tendo **problemas de sinal com dual eSIM** após a transferência – onde uma linha mostra “Sem Serviço” ou as chamadas falham – veja nosso guia **[12 correções para dual eSIM no iPhone](/pt/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** para correções adicionais.
+Se você está tendo **problemas de sinal com dual eSIM** após a transferência – onde uma linha mostra “Sem Serviço” ou as chamadas falham – veja nosso guia **[12 correções para dual eSIM no iPhone](/pt/faq/dual-esim-not-working-12-fixes-for-iphone/)** para correções adicionais.
 
 ### Ainda travado?
 Colete estas informações antes de ligar para o suporte:
@@ -351,7 +351,7 @@ O dispositivo antigo mostrará “Sem Serviço” para essa linha. O perfil eSIM
 Não. A maioria dos eSIMs de viagem (Airalo, Holafly, planos de dados Roami, etc.) não suporta transferência multiplataforma. Eles são projetados para serem instalados uma vez por dispositivo. Você precisará comprar um novo plano no seu novo telefone. Se você está usando um **holafly esim** ou **esim vodafone**, verifique com a operadora se a transferência é permitida.
 
 **P2: A transferência funciona entre um iPhone 11 e um Samsung S24?**  
-Sim – desde que ambos atendam aos requisitos de SO. O iPhone 11 suporta iOS 19 (ele roda até iOS 19). O Samsung S24 suporta Android 16. A geração do hardware não importa; apenas a versão do SO importa. Para uma análise aprofundada do comportamento eSIM específico do dispositivo, veja nosso **[guia de ativação para iPhone 17](/pt/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** (também aplicável a muitos modelos mais antigos). Se você está se perguntando **o que é eSIM** ou **como funciona o eSIM**, nossa central de ajuda explica em detalhes.
+Sim – desde que ambos atendam aos requisitos de SO. O iPhone 11 suporta iOS 19 (ele roda até iOS 19). O Samsung S24 suporta Android 16. A geração do hardware não importa; apenas a versão do SO importa. Para uma análise aprofundada do comportamento eSIM específico do dispositivo, veja nosso **[guia de ativação para iPhone 17](/pt/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** (também aplicável a muitos modelos mais antigos). Se você está se perguntando **o que é eSIM** ou **como funciona o eSIM**, nossa central de ajuda explica em detalhes.
 
 **P3: Tentei os passos, mas meu Android não tem “Parear com iPhone ou iPad”. O que aconteceu?**  
 Esse menu faz parte dos Serviços Google e só aparece no Android 16+ com o Google Play Services atualizado. Vá em `Configurações > Sobre o telefone > Versão do Android`. Se for 15 ou anterior, atualize seu telefone ou use o método alternativo (código QR da operadora).

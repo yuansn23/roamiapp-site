@@ -52,7 +52,7 @@ top_countries:
     alias: "amerika amerika serikat us"
   - name: "Inggris"
     code: "gb"
-    slug: "United-Kingdom"
+    slug: "united-kingdom"
     badge: "Trending"
     badgeColor: "bg-purple-500"
     alias: "uk britania inggris gb"

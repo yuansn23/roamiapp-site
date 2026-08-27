@@ -58,10 +58,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "Transfert eSIM multiplateforme 2026"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Double eSIM ne fonctionne pas ? 12 solutions pour iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Liste complète de compatibilité eSIM pour montres connectées"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -73,7 +73,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "Guide ultime 2026 : Solutions d'activation eSIM pour iPhone 17"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -85,7 +85,7 @@ recentPosts:
 > - **Les SIM de l'aéroport d'Heathrow sont l'option la plus chère pour les voyageurs au Royaume-Uni** — 20-30 £ (25-38 $) pour 5 Go, soit 400 à 600 % de plus que l'achat en ligne à l'avance. Évitez ce **piège des SIM à Heathrow** en achetant une **eSIM Royaume-Uni pas cher** en ligne.
 > - **Roami eSIM Royaume-Uni 7 jours 5 Go à 5,59 $ après code promo web20**, avec switching intelligent entre EE, Vodafone, O2 et Three. Utilisez le code promo **web20** pour 20 % de réduction. Essai gratuit disponible.
 
-Pour une introduction générale à la technologie eSIM, consultez notre [guide explicatif complet](/faq/What-Is-eSIM/). Si vous avez besoin d'une **eSIM pour l'Angleterre** ou d'un **forfait eSIM UK** pour votre voyage, ce guide vous aidera à faire le bon choix. Une [eSIM Londres](/united-kingdom-esim/) est disponible dès votre arrivée.
+Pour une introduction générale à la technologie eSIM, consultez notre [guide explicatif complet](/faq/what-is-esim/). Si vous avez besoin d'une **eSIM pour l'Angleterre** ou d'un **forfait eSIM UK** pour votre voyage, ce guide vous aidera à faire le bon choix. Une [eSIM Londres](/united-kingdom-esim/) est disponible dès votre arrivée.
 
 ---
 
@@ -249,7 +249,7 @@ L'avantage de l'eSIM Roami UK ne réside pas seulement dans le prix – la carac
 
 **eSIM recommandée :** Forfait Roami UK 3 Go / 7 jours, 3,99 $ après code promo web20. En surface, la couverture 4G/5G dans les grandes villes britanniques est presque de 100 % – n'importe quel réseau fonctionne. Sur les lignes de métro profondes, **téléchargez des cartes hors ligne dans les applications de navigation** – aucun signal d'opérateur n'atteint les tunnels souterrains.
 
-Si vous rencontrez des problèmes d'installation ou de connexion eSIM, consultez le [guide d'activation eSIM pour iPhone](/faq/how-to-activate-esim-on-iphone/) ou notre [guide complet d'installation eSIM](/faq/How-To-Activate-an-eSIM/).
+Si vous rencontrez des problèmes d'installation ou de connexion eSIM, consultez le [guide d'activation eSIM pour iPhone](/faq/how-to-activate-esim-on-iphone/) ou notre [guide complet d'installation eSIM](/faq/how-to-activate-an-esim/).
 
 ### Scénario 2 : Road trip rural (par exemple, Highlands écossais, 7-10 jours)
 
@@ -325,16 +325,16 @@ Profitez du Wi-Fi gratuit dans les hôtels, cafés et lieux publics pour les té
 
 ## Installation et activation de l'eSIM Royaume-Uni
 
-Pour ceux qui connaissent l'installation d'eSIM, voici les étapes minimales pour **activer eSIM Royaume-Uni**. Pour un tutoriel détaillé, consultez le [guide complet d'installation d'eSIM](/faq/How-To-Activate-an-eSIM/).
+Pour ceux qui connaissent l'installation d'eSIM, voici les étapes minimales pour **activer eSIM Royaume-Uni**. Pour un tutoriel détaillé, consultez le [guide complet d'installation d'eSIM](/faq/how-to-activate-an-esim/).
 
 1. **Confirmez que le téléphone est compatible eSIM et débloqué.** Vérification rapide : composez `*#06#` – un EID de 32 chiffres indique la prise en charge de l'eSIM. Sur iPhone : `Réglages > Général > Informations > Verrouillage opérateur` doit indiquer « Aucune restriction SIM ». Pour une liste complète, consultez la [page des appareils compatibles](/compatibility/).
 2. **Choisissez et achetez un forfait.** Entrez le code promo **web20** pour 20 % de réduction.
 3. **Scannez et installez.** Sur le Wi‑Fi domestique, scannez le code QR. L'installation prend 30 à 60 secondes. Étiquetez le forfait pour une identification facile.
 4. **Après votre arrivée au Royaume-Uni :** `Réglages > Cellulaire > [nom du forfait] > activez l'Itinérance des données`. Définissez le forfait comme ligne de données cellulaires. Désactivez l'itinérance des données sur la SIM domestique. Désactivez « Autoriser le basculement cellulaire ».
 
-**Important : ne supprimez pas un profil eSIM actif pendant le voyage.** Si « Aucun service » apparaît, basculez le mode Avion ou redémarrez le téléphone – ne supprimez pas le profil. Ne supprimez une eSIM qu'après la fin complète du voyage et lorsque vous êtes rentré chez vous en sécurité. Pour obtenir de l'aide, consultez le [guide de dépannage eSIM](/faq/eSIM-Deep-Troubleshooting-Guide-2026/).
+**Important : ne supprimez pas un profil eSIM actif pendant le voyage.** Si « Aucun service » apparaît, basculez le mode Avion ou redémarrez le téléphone – ne supprimez pas le profil. Ne supprimez une eSIM qu'après la fin complète du voyage et lorsque vous êtes rentré chez vous en sécurité. Pour obtenir de l'aide, consultez le [guide de dépannage eSIM](/faq/esim-deep-troubleshooting-guide-2026/).
 
-Si vous rencontrez des problèmes de **double SIM** après l'activation, notre article **[Double eSIM ne fonctionne pas ? 12 solutions pour iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** propose des conseils adaptés.
+Si vous rencontrez des problèmes de **double SIM** après l'activation, notre article **[Double eSIM ne fonctionne pas ? 12 solutions pour iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** propose des conseils adaptés.
 
 ---
 
@@ -370,7 +370,7 @@ Consultez notre [page de compatibilité eSIM](/compatibility/) pour vérifier si
 - **Utilisez le code promo web20** pour 20 % de réduction – 7 jours 10 Go à 7,99 $ après réduction. Bénéficie d'un switching intelligent sur EE, Vodafone, O2 et Three. Les nouveaux utilisateurs peuvent commencer par un [essai eSIM gratuit](/free-esim/).
 - **Pour les road trips ruraux (par exemple, Highlands écossais) : le téléchargement de cartes hors ligne est essentiel.** Même le meilleur réseau peut lâcher dans les vallées reculées.
 - **Si vous rencontrez des problèmes de connexion** après l'activation, consultez notre [guide de dépannage approfondi eSIM (16 cas réels)](/faq/esim-deep-troubleshooting-guide-2026/).
-- **Besoin de changer de téléphone en cours de voyage ?** Découvrez comment [transférer votre eSIM vers un nouvel appareil](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/).
+- **Besoin de changer de téléphone en cours de voyage ?** Découvrez comment [transférer votre eSIM vers un nouvel appareil](/faq/how-to-transfer-esim-between-iphone-and-android/).
 
 ---
 

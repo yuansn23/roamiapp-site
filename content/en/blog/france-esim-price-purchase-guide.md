@@ -38,10 +38,10 @@ recentPosts:
     permalink: "/compatibility/"
     date: "2026-05-26"
   - title: "2026 Cross-Platform eSIM Transfer"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Smartwatch eSIM Compatibility Complete List"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -53,7 +53,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 France eSIM prices range from $3 for 1GB to $69 for unlimited 30-day data. The cheapest 1GB plan costs $3 (Ubigi), the cheapest 5GB plan costs $10 (Ubigi on Bouygues), and the cheapest unlimited plan costs $25 for 7 days (Holafly on Bouygues/SFR). By comparison, AT&T charges $10 per day for international roaming, meaning a 7-day trip costs $70 with AT&T versus $10-20 with an eSIM — savings of 70-85%. The lowest price per GB on a 30-day plan is under $2 per GB (Ubigi 25GB at $35), while premium carrier plans like Orange Travel cost over $5 per GB.

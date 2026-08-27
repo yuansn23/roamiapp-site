@@ -38,10 +38,10 @@ recentPosts:
     permalink: "/compatibility/"
     date: "2026-05-26"
   - title: "2026 Cross-Platform eSIM Transfer"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Smartwatch eSIM Compatibility Complete List"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -53,7 +53,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 Unlike Airalo which uses O2 only, Roami provides automatic switching across all three carriers. Aldi Talk charges EUR 10-13 for a 10 GB prepaid plan, while international eSIM providers charge EUR 15-30 for the same data volume — a 30-50% gap that compounds into significant savings over longer stays. Germany's parallel mobile ecosystem, which is first outlined in the [Germany eSIM essentials](/blog/germany-esim-complete-travel-guide/), lets you buy a prepaid SIM at the supermarket checkout alongside your groceries, where discount carriers undercut international rates by a wide margin and the choice between Telekom, Vodafone, and O2 determines far more about your experience than which brand name is printed on the card.

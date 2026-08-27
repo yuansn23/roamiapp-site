@@ -97,7 +97,7 @@ sidebar_questions:
 ---
 
 
-> Pendant des années, les transferts eSIM étaient enfermés dans le même écosystème – vous pouviez passer d'iPhone à iPhone, ou entre certains téléphones Android, mais traverser la frontière iOS‑Android nécessitait un voyage chez votre opérateur. **iOS 26 et Android 16 changent complètement cela.** Ce guide vous explique chaque méthode prise en charge, chaque exigence de l'opérateur et chaque étape de dépannage pour effectuer un **transfert eSIM multiplateforme** en toute transparence. Pour une aide générale à l'activation, consultez notre **[Guide complet iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**.
+> Pendant des années, les transferts eSIM étaient enfermés dans le même écosystème – vous pouviez passer d'iPhone à iPhone, ou entre certains téléphones Android, mais traverser la frontière iOS‑Android nécessitait un voyage chez votre opérateur. **iOS 26 et Android 16 changent complètement cela.** Ce guide vous explique chaque méthode prise en charge, chaque exigence de l'opérateur et chaque étape de dépannage pour effectuer un **transfert eSIM multiplateforme** en toute transparence. Pour une aide générale à l'activation, consultez notre **[Guide complet iPhone 17 eSIM](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)**.
 
 
 ## 📌 Résumé rapide 
@@ -138,7 +138,7 @@ Maintenant, avec le **transfert eSIM natif multiplateforme**, le processus est e
 
 La [GSMA](https://www.gsma.com/esim/) définit les standards techniques qui permettent cette interopérabilité mondiale entre les opérateurs et les appareils.
 
-> 🔒 Note de sécurité : Le transfert est chiffré de bout en bout et nécessite que les deux appareils soient à proximité avec Bluetooth activé. L'ancienne eSIM est automatiquement désactivée au moment où le nouvel appareil l'active. Si vous devez ensuite corriger des particularités de **double SIM** après le transfert, notre article **[Double eSIM ne fonctionne pas ? 12 solutions pour iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** est une ressource utile.
+> 🔒 Note de sécurité : Le transfert est chiffré de bout en bout et nécessite que les deux appareils soient à proximité avec Bluetooth activé. L'ancienne eSIM est automatiquement désactivée au moment où le nouvel appareil l'active. Si vous devez ensuite corriger des particularités de **double SIM** après le transfert, notre article **[Double eSIM ne fonctionne pas ? 12 solutions pour iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** est une ressource utile.
 
 
 ## 2. Ce dont vous avez besoin avant de commencer
@@ -399,7 +399,7 @@ Si vous voyagez à l'étranger et souhaitez transférer votre eSIM, voici quelqu
 - Conservez toujours une copie de sauvegarde de vos codes QR eSIM.
 - Si vous changez de téléphone en cours de voyage, privilégiez le transfert natif plutôt que le code QR.
 
-Pour plus d'informations sur l'utilisation des eSIM en voyage, consultez notre **[guide complet eSIM voyage](/faq/What-Is-eSIM/)**.
+Pour plus d'informations sur l'utilisation des eSIM en voyage, consultez notre **[guide complet eSIM voyage](/faq/what-is-esim/)**.
 
 
 ## 12. FAQ – Transfert eSIM multiplateforme
@@ -432,7 +432,7 @@ Les eSIM de voyage ne sont généralement PAS transférables. Elles sont conçue
 - Pour les voyageurs fréquents, privilégiez les fournisseurs qui proposent la gestion multi-appareils.
 
 **Q6 : Qu'en est-il des configurations double SIM eSIM + carte SIM physique ?**  
-R : Le transfert ne déplace que l'eSIM. La carte SIM physique reste dans l'appareil source. Consultez notre article **[Double eSIM ne fonctionne pas ? 12 solutions pour iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** pour optimiser la double SIM.
+R : Le transfert ne déplace que l'eSIM. La carte SIM physique reste dans l'appareil source. Consultez notre article **[Double eSIM ne fonctionne pas ? 12 solutions pour iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** pour optimiser la double SIM.
 
 **Q7 : Que faire en cas de **profil eSIM expiré** lors du transfert ?**  
 R : Contactez votre opérateur pour obtenir un nouveau code QR – la réémission est généralement gratuite.

@@ -111,7 +111,7 @@ La série Pixel 6 est l'un des téléphones Android les plus compatibles avec l'
 
 La [documentation officielle de Google](https://support.google.com/pixel/answer/9912709) confirme que tous les modèles Pixel 6 supportent nativement l'eSIM. Le standard [GSMA SGP.22](https://www.gsma.com/esim/) garantit l'interopérabilité avec l'ensemble des opérateurs compatibles.
 
-Pour une introduction générale à la technologie eSIM, consultez notre [guide explicatif complet](/faq/What-Is-eSIM/).
+Pour une introduction générale à la technologie eSIM, consultez notre [guide explicatif complet](/faq/what-is-esim/).
 
 
 ## 📱 Famille Pixel 6 – Tableau de compatibilité eSIM
@@ -285,7 +285,7 @@ Suivez les étapes de transfert depuis Android dans les réglages de l'iPhone.
 - L'ancienne eSIM est automatiquement désactivée au moment de l'activation sur le nouvel appareil.
 - Tous les opérateurs ne prennent pas en charge le transfert multiplateforme (Orange et SFR le permettent, Free et Bouygues nécessitent une réémission de QR code).
 
-Pour plus de détails sur ce processus, consultez notre **[guide complet du transfert eSIM multiplateforme](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**. Si vous rencontrez des difficultés avec deux eSIM actives simultanément, notre article **[Double eSIM ne fonctionne pas ? 12 solutions pour iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** propose des solutions applicables également à Android.
+Pour plus de détails sur ce processus, consultez notre **[guide complet du transfert eSIM multiplateforme](/faq/how-to-transfer-esim-between-iphone-and-android/)**. Si vous rencontrez des difficultés avec deux eSIM actives simultanément, notre article **[Double eSIM ne fonctionne pas ? 12 solutions pour iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** propose des solutions applicables également à Android.
 
 
 ## 🛠️ Dépannage eSIM sur Pixel 6 – problèmes fréquents et solutions

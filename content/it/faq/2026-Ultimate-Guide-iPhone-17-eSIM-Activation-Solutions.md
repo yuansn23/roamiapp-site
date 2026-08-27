@@ -98,7 +98,7 @@ sidebar_questions:
 ---
 
 
-> Con il rilascio della serie iPhone 17, la tecnologia eSIM è entrata in una fase di piena diffusione. I modelli USA eliminano completamente il vassoio della SIM fisica, mentre i modelli internazionali supportano pienamente la doppia eSIM attiva contemporaneamente. Basata sulla documentazione tecnica ufficiale Apple 2025–2026, questa guida copre compatibilità, sicurezza, attivazione, viaggio, gestione aziendale e trasferimento cross-platform. Per gli utenti che desiderano spostare un eSIM da un telefono Android, consulta la nostra **[Guida al trasferimento cross-platform eSIM 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+> Con il rilascio della serie iPhone 17, la tecnologia eSIM è entrata in una fase di piena diffusione. I modelli USA eliminano completamente il vassoio della SIM fisica, mentre i modelli internazionali supportano pienamente la doppia eSIM attiva contemporaneamente. Basata sulla documentazione tecnica ufficiale Apple 2025–2026, questa guida copre compatibilità, sicurezza, attivazione, viaggio, gestione aziendale e trasferimento cross-platform. Per gli utenti che desiderano spostare un eSIM da un telefono Android, consulta la nostra **[Guida al trasferimento cross-platform eSIM 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 ---
 
@@ -141,7 +141,7 @@ A partire da iPhone 14, Apple ha gradualmente eliminato gli slot per SIM fisica.
 - **Mercati internazionali (UE, Regno Unito, Australia):** la maggior parte dei modelli supporta la **doppia eSIM** o una configurazione ibrida (1 Nano‑SIM + 1 eSIM).
 - **iPhone 17 Air (primato mondiale):** questo modello è progettato in modo unico senza vassoio SIM in tutto il mondo (inclusa la Cina continentale), rendendolo il dispositivo più versatile per i nomadi digitali.
 
-Se prevedi di utilizzare due linee contemporaneamente (ad esempio, un numero di casa e un eSIM di viaggio), consulta la nostra guida **[Doppia eSIM non funziona? 12 soluzioni per iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** per suggerimenti avanzati.
+Se prevedi di utilizzare due linee contemporaneamente (ad esempio, un numero di casa e un eSIM di viaggio), consulta la nostra guida **[Doppia eSIM non funziona? 12 soluzioni per iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** per suggerimenti avanzati.
 
 ---
 
@@ -254,7 +254,7 @@ Apple ha aperto per la prima volta il trasferimento bidirezionale di eSIM tra An
 3. Conferma su Android, quindi fai doppio clic sul pulsante laterale su iPhone per confermare.
 4. Una volta completato il trasferimento, l'eSIM su iPhone viene automaticamente disattivato.
 
-> **Nota**: Il trasferimento cross-platform è supportato solo da alcuni operatori (es. USA: AT&T, T‑Mobile, Verizon; UK: EE; JP: KDDI). Se non supportato, contatta il tuo operatore per un nuovo codice QR. Per passaggi dettagliati e risoluzione dei problemi, visita la nostra **[Guida al trasferimento cross-platform eSIM 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** dedicata.
+> **Nota**: Il trasferimento cross-platform è supportato solo da alcuni operatori (es. USA: AT&T, T‑Mobile, Verizon; UK: EE; JP: KDDI). Se non supportato, contatta il tuo operatore per un nuovo codice QR. Per passaggi dettagliati e risoluzione dei problemi, visita la nostra **[Guida al trasferimento cross-platform eSIM 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)** dedicata.
 
 ---
 
@@ -284,7 +284,7 @@ Apple ha aperto per la prima volta il trasferimento bidirezionale di eSIM tra An
 
 ## 10. Domande frequenti e risoluzione dei problemi (specifici per iPhone 17)
 
-> **Risoluzione dei problemi più approfondita (16 casi reali)**: questa sezione copre i problemi comuni. Per problemi complessi non elencati qui (ad es., eSIM legato a un altro dispositivo, conflitto di segnale dual SIM, errore DFU 53), consulta la nostra **[Guida approfondita alla risoluzione dei problemi eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)** , che contiene 16 casi dettagliati con sintomo-causa-soluzione. Se stai riscontrando conflitti di voce o dati con doppia SIM, consulta anche **[Doppia eSIM non funziona? 12 soluzioni per iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+> **Risoluzione dei problemi più approfondita (16 casi reali)**: questa sezione copre i problemi comuni. Per problemi complessi non elencati qui (ad es., eSIM legato a un altro dispositivo, conflitto di segnale dual SIM, errore DFU 53), consulta la nostra **[Guida approfondita alla risoluzione dei problemi eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)** , che contiene 16 casi dettagliati con sintomo-causa-soluzione. Se stai riscontrando conflitti di voce o dati con doppia SIM, consulta anche **[Doppia eSIM non funziona? 12 soluzioni per iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
 **D1: Sto viaggiando in Cina con un iPhone 17 versione USA (senza SIM). Come posso rimanere connesso?**  
 R: Puoi acquistare un piano dati per la Cina direttamente nell'App Roami. Roami si connette automaticamente ai segnali 5G locali all'arrivo tramite protocolli di roaming – nessun vassoio SIM fisico richiesto.
@@ -329,8 +329,8 @@ La serie iPhone 17 rende l'eSIM lo standard – non solo un'opzione. Che tu sia 
 
 > 📎 **Risorse correlate su questo sito:**
 > - [Guida approfondita alla risoluzione dei problemi eSIM (16 casi reali)](/faq/esim-deep-troubleshooting-guide-2026/)
-> - [Trasferimento cross-platform eSIM 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
-> - [Doppia eSIM non funziona? 12 soluzioni per iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+> - [Trasferimento cross-platform eSIM 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)
+> - [Doppia eSIM non funziona? 12 soluzioni per iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)
 
 ---
 

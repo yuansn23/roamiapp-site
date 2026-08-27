@@ -37,10 +37,10 @@ recentPosts:
     permalink: "/compatibility/"
     date: "2026-05-26"
   - title: "Transferencia de eSIM multiplataforma 2026"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "¿Doble eSIM no funciona? 12 soluciones para iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Lista completa de compatibilidad de eSIM para smartwatches"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -52,7 +52,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "Guía definitiva 2026: Soluciones de activación de eSIM para iPhone 17"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 China, Hong Kong y Macao son tres territorios de telecomunicaciones separados. Una sola eSIM para China, Hong Kong y Macao cubre los tres territorios, pero una eSIM solo para China deja de funcionar en la frontera con Hong Kong. Una eSIM de Hong Kong no funciona en la China continental. Las opciones multi-país incluyen 3HK (8 GB/365 días por $18, cubre Asia), CMHK (5 GB/30 días con número de teléfono de HK por $15) y los planes regionales de Airalo para Asia. Esta guía cubre las diferencias técnicas. Según la [GSMA](https://www.gsma.com), el roaming eSIM a través de regiones requiere acuerdos específicos con los operadores. Para la compatibilidad de dispositivos, visite [Apple Support](https://support.apple.com/en-us/HT212780). Esta guía proporciona comparaciones de planes multi-país con precios, soluciones para el cambio transfronterizo y recomendaciones por tipo de itinerario. [Ookla](https://www.speedtest.net/global-index) proporciona datos independientes sobre el rendimiento de la red en los mercados asiáticos.

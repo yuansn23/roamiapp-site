@@ -58,10 +58,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "Trasferimento eSIM multipiattaforma 2026"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "La doppia eSIM non funziona? 12 correzioni per iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Elenco completo di compatibilità eSIM per smartwatch"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -73,7 +73,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "Guida ultima 2026: Soluzioni di attivazione eSIM per iPhone 17"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -97,7 +97,7 @@ Questa statistica crea lo squilibrio popolazione/geografia più estremo sulla Te
 
 **Tra le città, attraverserete alcune delle terre più vaste, vuote e povere di segnale sulla Terra.** Se prevedete un road trip – che sia la costa pacifica da Sydney a Brisbane, la Great Ocean Road da Melbourne ad Adelaide o la Stuart Highway attraverso il Territorio del Nord – guiderete per ore senza vedere una città, una torre di telefonia mobile, né alcun segnale.
 
-Ecco perché la strategia eSIM in Australia non consiste nel "scegliere il marchio più economico". Si tratta di capire un fatto semplice: **una volta lasciate le città, Telstra è l'unica rete su cui potete contare.** Se scegliete un'eSIM che utilizza solo Optus o Vodafone AU, non avrete alcun segnale sulle strade più iconiche dell'Australia – la Great Ocean Road tra i Dodici Apostoli e Apollo Bay, e da Uluru a Kings Canyon. Comprendere [come funziona l'eSIM](/faq/What-Is-eSIM/) è il primo passo per scegliere la strategia giusta.
+Ecco perché la strategia eSIM in Australia non consiste nel "scegliere il marchio più economico". Si tratta di capire un fatto semplice: **una volta lasciate le città, Telstra è l'unica rete su cui potete contare.** Se scegliete un'eSIM che utilizza solo Optus o Vodafone AU, non avrete alcun segnale sulle strade più iconiche dell'Australia – la Great Ocean Road tra i Dodici Apostoli e Apollo Bay, e da Uluru a Kings Canyon. Comprendere [come funziona l'eSIM](/faq/what-is-esim/) è il primo passo per scegliere la strategia giusta.
 
 ---
 
@@ -147,7 +147,7 @@ Quando guidate da Sydney a Melbourne sull'autostrada M31 Hume Highway (9 ore, 87
 
 **4. Elaborazione in batch quando appare il segnale:** Nell'Australia rurale, il segnale appare solo brevemente quando si attraversano le città. Quando appare il segnale, il vostro telefono cerca di sincronizzare tutte le notifiche, le email e i messaggi in coda – di solito un grosso scoppio di dati.
 
-**Consumo totale di dati su un viaggio Sydney‑Melbourne di 9 ore: 3-5 GB – solo per intrattenimento e social media, esclusa la navigazione.** Se prevedete un road trip di 14 giorni sulla costa est (Brisbane → Sydney → Melbourne), dovreste preventivare 20-30 GB di dati. Non è un'esagerazione – è la realtà creata dalle distanze di guida in Australia. Se avete domande sulla configurazione dell'eSIM, la [guida all'attivazione per iPhone](/faq/how-to-activate-esim-on-iphone/) e la [guida all'installazione generale](/faq/How-To-Activate-an-eSIM/) possono aiutarvi a preparare tutto prima della partenza.
+**Consumo totale di dati su un viaggio Sydney‑Melbourne di 9 ore: 3-5 GB – solo per intrattenimento e social media, esclusa la navigazione.** Se prevedete un road trip di 14 giorni sulla costa est (Brisbane → Sydney → Melbourne), dovreste preventivare 20-30 GB di dati. Non è un'esagerazione – è la realtà creata dalle distanze di guida in Australia. Se avete domande sulla configurazione dell'eSIM, la [guida all'attivazione per iPhone](/faq/how-to-activate-esim-on-iphone/) e la [guida all'installazione generale](/faq/how-to-activate-an-esim/) possono aiutarvi a preparare tutto prima della partenza.
 
 ---
 
@@ -208,7 +208,7 @@ L'eSIM Australia di Roami copre tutte e tre le reti – Telstra, Optus e Vodafon
 
 **Migliore eSIM:** Piano Roami Australia 10 GB / 7 giorni, 9,59 $ dopo sconto. La commutazione tre reti sceglie automaticamente la migliore rete nelle zone rurali quando appare il segnale. **Scaricate le mappe Google offline per l'intera Great Ocean Road prima di partire – è obbligatorio, non opzionale.** Per le comunicazioni di emergenza, Telstra è l'unica rete su cui potete contare.
 
-Se incontrate problemi di connessione eSIM, consultate la [guida alla risoluzione dei problemi eSIM Australia](/faq/eSIM-Deep-Troubleshooting-Guide-2026/).
+Se incontrate problemi di connessione eSIM, consultate la [guida alla risoluzione dei problemi eSIM Australia](/faq/esim-deep-troubleshooting-guide-2026/).
 
 ### Scenario 2: Itinerario interno Sydney-Melbourne M31 (1 giorno, 877 km)
 
@@ -242,7 +242,7 @@ Se incontrate problemi di connessione eSIM, consultate la [guida alla risoluzion
 
 **Migliore eSIM:** Piano Roami Australia 5 GB / 7 giorni, 5,59 $ dopo sconto. **Su questo itinerario, la copertura di rete Telstra è assolutamente essenziale – niente Telstra significa nessun segnale a Uluru.** La commutazione tre reti garantisce che Telstra sia la rete predefinita. Scaricate le mappe offline per l'intera area di Uluru. Prima di partire per un'escursione, inviate la vostra posizione e l'ora di ritorno stimata a un contatto di fiducia – su alcune sezioni, anche Telstra non avrà segnale.
 
-Per i problemi eSIM sugli itinerari remoti, salvate screenshot delle soluzioni pertinenti nella [guida alla risoluzione dei problemi eSIM](/faq/eSIM-Deep-Troubleshooting-Guide-2026/).
+Per i problemi eSIM sugli itinerari remoti, salvate screenshot delle soluzioni pertinenti nella [guida alla risoluzione dei problemi eSIM](/faq/esim-deep-troubleshooting-guide-2026/).
 
 ---
 

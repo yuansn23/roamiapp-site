@@ -58,10 +58,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "Trasferimento eSIM multipiattaforma 2026"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Doppia eSIM non funziona? 12 soluzioni per iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Elenco completo di compatibilità eSIM per smartwatch"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -73,7 +73,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "Guida definitiva 2026: Soluzioni di attivazione eSIM per iPhone 17"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -92,13 +92,13 @@ recentPosts:
 
 Se voli a New York JFK, Los Angeles LAX o Chicago O'Hare quest'anno e non hai acquistato un'eSIM USA prima della partenza, ti stai preparando per l'ora più costosa e frustrante del tuo viaggio. I chioschi SIM degli aeroporti fanno pagare 25–40 $ per 5 GB – un aumento del 300–500% rispetto all'acquisto online. Il roaming internazionale del tuo operatore nazionale prosciuga silenziosamente 10–15 $ al giorno dal tuo conto. E il Wi‑Fi gratuito dell'aeroporto? Richiede la registrazione tramite e-mail, ha un limite di 30 minuti e si disconnette non appena ti dirigi verso il ritiro bagagli.
 
-L'alternativa è l'eSIM – una SIM digitale che acquisti online in due minuti, installi sul tuo telefono prima del decollo e attivi nel momento in cui il tuo aereo tocca il suolo americano. Nessuna scheda di plastica, nessuna graffetta, nessuna coda, nessuna barriera linguistica. Ecco perché sempre più viaggiatori internazionali scelgono di acquistare un'eSIM USA online. Prima di iniziare, è bene capire [cos'è un'eSIM e come funziona](/faq/What-Is-eSIM/).
+L'alternativa è l'eSIM – una SIM digitale che acquisti online in due minuti, installi sul tuo telefono prima del decollo e attivi nel momento in cui il tuo aereo tocca il suolo americano. Nessuna scheda di plastica, nessuna graffetta, nessuna coda, nessuna barriera linguistica. Ecco perché sempre più viaggiatori internazionali scelgono di acquistare un'eSIM USA online. Prima di iniziare, è bene capire [cos'è un'eSIM e come funziona](/faq/what-is-esim/).
 
 **Cos'è un'eSIM?** È un chip programmabile saldato direttamente sulla scheda madre del tuo telefono durante la produzione, che sostituisce completamente la scheda SIM di plastica rimovibile. Quando scannerizzi il codice QR di un fornitore di eSIM, il tuo telefono scarica un profilo crittografato dell'operatore dal server sicuro SM‑DP+ del fornitore tramite Wi-Fi. Quel profilo digitale contiene le stesse chiavi crittografiche e credenziali di rete di una SIM fisica, ma risiede permanentemente nel chip eUICC del tuo telefono – non può essere perso, rubato o rimosso fisicamente.
 
 Nel 2026, usare un'eSIM USA per viaggiare è praticamente obbligatorio. Apple ha rimosso il vassoio della SIM fisica da tutti gli iPhone venduti negli USA a partire dall'iPhone 14 nel 2022. Gli iPhone 17, 17 Pro, 17 Pro Max e 17 Air – tutti venduti negli USA – non hanno alcun alloggiamento per SIM. Sono dispositivi solo eSIM. Se arrivi in un aeroporto americano con uno di questi telefoni e senza un'eSIM preinstallata, non puoi acquistare una SIM fisica a un chiosco. Assicurati di [verificare se il tuo telefono è compatibile con eSIM](/compatibility/) prima della partenza.
 
-Le tre grandi reti di operatori USA – **T‑Mobile**, **AT&T** e **Verizon** – dominano ciascuna diverse aree geografiche. Il 5G a banda media di T‑Mobile offre velocità di download urbane medie superiori a 140 Mbps e copre il 99% della popolazione statunitense. Lo spettro a bassa banda di AT&T fornisce una copertura bilanciata tra città, sobborghi e autostrade interstatali. La rete di Verizon raggiunge una disponibilità del 94% in aree con meno di 10 persone per miglio quadrato – parchi nazionali, autostrade remote, città rurali – dove il segnale T‑Mobile scende a zero per chilometri. Se hai bisogno di un'analisi più approfondita degli operatori, consulta la nostra [guida alla selezione dei piani eSIM USA](/faq/The-Ultimate-Guide-to-US-eSIM-in-2026-How-to-Choose-the-Best-Plan/).
+Le tre grandi reti di operatori USA – **T‑Mobile**, **AT&T** e **Verizon** – dominano ciascuna diverse aree geografiche. Il 5G a banda media di T‑Mobile offre velocità di download urbane medie superiori a 140 Mbps e copre il 99% della popolazione statunitense. Lo spettro a bassa banda di AT&T fornisce una copertura bilanciata tra città, sobborghi e autostrade interstatali. La rete di Verizon raggiunge una disponibilità del 94% in aree con meno di 10 persone per miglio quadrato – parchi nazionali, autostrade remote, città rurali – dove il segnale T‑Mobile scende a zero per chilometri. Se hai bisogno di un'analisi più approfondita degli operatori, consulta la nostra [guida alla selezione dei piani eSIM USA](/faq/the-ultimate-guide-to-us-esim-in-2026-how-to-choose-the-best-plan/).
 
 Nessun singolo operatore copre il 100% degli Stati Uniti. Il paese si estende per 3,8 milioni di miglia quadrate. La distanza da New York a Los Angeles è maggiore di quella da Londra a Mosca. Un'eSIM USA bloccata su una singola rete di un operatore ti deluderà da qualche parte nel tuo viaggio. La domanda è se il tuo fornitore di eSIM ti dà accesso a più di una rete – o ti lascia a piedi.
 
@@ -145,7 +145,7 @@ La copertura è notevolmente più debole nelle aree rurali, nei parchi nazionali
 
 Questa è la politica che genera il maggior numero di recensioni negative e controversie sui rimborsi: **Se elimini il tuo profilo eSIM Airalo dal tuo telefono – per qualsiasi motivo – è permanentemente perso. Non puoi reinstallarlo. Non puoi riattivarlo. Devi acquistare un nuovo piano.**
 
-Questo conta più di quanto sembri. I viaggiatori eliminano eSIM per sbaglio. I telefoni si ripristinano alle impostazioni di fabbrica durante gli aggiornamenti software. I dispositivi vengono rubati o danneggiati e devono essere sostituiti. Quando una di queste cose accade a un utente Airalo, il suo saldo dati residuo scompare. Imparare [come gestire in sicurezza la tua eSIM](/faq/How-To-Activate-an-eSIM/) prima della partenza può evitare tali problemi.
+Questo conta più di quanto sembri. I viaggiatori eliminano eSIM per sbaglio. I telefoni si ripristinano alle impostazioni di fabbrica durante gli aggiornamenti software. I dispositivi vengono rubati o danneggiati e devono essere sostituiti. Quando una di queste cose accade a un utente Airalo, il suo saldo dati residuo scompare. Imparare [come gestire in sicurezza la tua eSIM](/faq/how-to-activate-an-esim/) prima della partenza può evitare tali problemi.
 
 ### Riepilogo Airalo
 
@@ -209,7 +209,7 @@ Airalo e Holafly sono i due nomi più noti nelle eSIM da viaggio, ma condividono
 
 Quando installi un'eSIM a rete singola, il tuo telefono si registra con un operatore – ad esempio, T‑Mobile. Finché la torre T‑Mobile è nel raggio d'azione, hai servizio. Quando esci dal raggio d'azione, perdi il servizio. Il tuo telefono non passa automaticamente ad AT&T o Verizon perché il tuo profilo eSIM non è autorizzato a utilizzare quelle reti.
 
-Il profilo eSIM di Roami è autorizzato a connettersi a tutte e tre le principali reti statunitensi simultaneamente. Quando il tuo telefono rileva che l'intensità del segnale della rete corrente scende al di sotto di una soglia utilizzabile, l'eSIM avvia un trasferimento senza soluzione di continuità verso la rete alternativa disponibile più forte. Questo trasferimento avviene a livello di autenticazione della rete in meno di un secondo – non fai nulla, la tua connessione non cade e la tua videochiamata non si blocca. Se incontri [problemi di doppia eSIM o di segnale](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/), il supporto umano 24/7 di Roami può aiutarti in pochi secondi.
+Il profilo eSIM di Roami è autorizzato a connettersi a tutte e tre le principali reti statunitensi simultaneamente. Quando il tuo telefono rileva che l'intensità del segnale della rete corrente scende al di sotto di una soglia utilizzabile, l'eSIM avvia un trasferimento senza soluzione di continuità verso la rete alternativa disponibile più forte. Questo trasferimento avviene a livello di autenticazione della rete in meno di un secondo – non fai nulla, la tua connessione non cade e la tua videochiamata non si blocca. Se incontri [problemi di doppia eSIM o di segnale](/faq/dual-esim-not-working-12-fixes-for-iphone/), il supporto umano 24/7 di Roami può aiutarti in pochi secondi.
 
 ### Prezzi eSIM Roami USA: i più competitivi sul mercato
 
@@ -366,7 +366,7 @@ Con lo switching intelligente di Roami, non devi scegliere – hai tutte e tre. 
 2. **Applica il codice sconto:** inserisci **web20** per il 20% di sconto.
 3. **Completa il pagamento** – carta di credito, PayPal o Apple Pay.
 4. **Ricevi il tuo codice QR** via e-mail in pochi secondi. Fai uno screenshot come backup.
-5. **Installa l'eSIM.** Passaggi dettagliati: [guida all'attivazione per iPhone](/faq/how-to-activate-esim-on-iphone/) e [guida generale all'installazione eSIM](/faq/How-To-Activate-an-eSIM/).
+5. **Installa l'eSIM.** Passaggi dettagliati: [guida all'attivazione per iPhone](/faq/how-to-activate-esim-on-iphone/) e [guida generale all'installazione eSIM](/faq/how-to-activate-an-esim/).
 6. **Configura la doppia SIM:** Mantieni la tua SIM domestica come linea vocale predefinita per chiamate/SMS. L'eSIM USA verrà impostata come linea dati più tardi.
 
 ### Dopo l'arrivo negli USA
@@ -375,7 +375,7 @@ Con lo switching intelligente di Roami, non devi scegliere – hai tutte e tre. 
 2. **Disattiva il roaming dati sulla tua SIM domestica** per evitare addebiti accidentali.
 3. **Imposta l'eSIM USA come linea dati cellulare.**
 4. **Disattiva "Consenti commutazione cellulare"** – impedisce al tuo telefono di tornare silenziosamente alla tua SIM domestica.
-5. **Aspetta 2–5 minuti** per la registrazione iniziale sulla rete. Se vedi "Nessun servizio", attiva la modalità Aereo per 30 secondi, poi disattivala. Se i problemi persistono, consulta la [guida alla risoluzione dei problemi eSIM](/faq/eSIM-Deep-Troubleshooting-Guide-2026/).
+5. **Aspetta 2–5 minuti** per la registrazione iniziale sulla rete. Se vedi "Nessun servizio", attiva la modalità Aereo per 30 secondi, poi disattivala. Se i problemi persistono, consulta la [guida alla risoluzione dei problemi eSIM](/faq/esim-deep-troubleshooting-guide-2026/).
 
 ### Regole di sicurezza critiche
 
@@ -400,7 +400,7 @@ Solo se acquisti un piano regionale per il Nord America che includa esplicitamen
 Per il 90% dei viaggiatori: no. Le app di messaggistica (WhatsApp, iMessage, FaceTime, WeChat, Zoom) funzionano perfettamente su una connessione dati. Gli unici motivi per cui potresti aver bisogno di un numero USA sono ricevere codici di verifica SMS da una banca statunitense o registrarti ad app di consegna/servizi solo USA.
 
 **La mia eSIM mostra "Nessun servizio" – cosa devo fare?**
-1) Conferma che il roaming dati sia attivato per quella linea. 2) Attiva la modalità Aereo per 30 secondi. 3) Riavvia il telefono. 4) Aspetta 5–10 minuti. 5) Seleziona manualmente una rete. **Non eliminare mai l'eSIM.** Se il problema persiste, consulta la [guida completa alla risoluzione dei problemi](/faq/eSIM-Deep-Troubleshooting-Guide-2026/).
+1) Conferma che il roaming dati sia attivato per quella linea. 2) Attiva la modalità Aereo per 30 secondi. 3) Riavvia il telefono. 4) Aspetta 5–10 minuti. 5) Seleziona manualmente una rete. **Non eliminare mai l'eSIM.** Se il problema persiste, consulta la [guida completa alla risoluzione dei problemi](/faq/esim-deep-troubleshooting-guide-2026/).
 
 ---
 

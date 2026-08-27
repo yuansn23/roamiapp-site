@@ -206,7 +206,7 @@ De acordo com a documentação oficial da Apple, o eSIM é suportado em uma ampl
 > **Pergunta comum:** "Quais iPhones suportam eSIM?" – Qualquer iPhone XS ou mais novo funciona.
 > **Para telefones mais antigos:** Se você tem um iPhone 8 ou anterior, não pode usar eSIM; precisará de um SIM físico.
 
-> 📱 **Atualizando para um iPhone 17?** Nosso **[Guia Completo para iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** orienta você na ativação passo a passo.
+> 📱 **Atualizando para um iPhone 17?** Nosso **[Guia Completo para iPhone 17 eSIM](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** orienta você na ativação passo a passo.
 
 ### iPads com Suporte a eSIM (Modelos Celulares)
 - iPad Pro de 13" e 11" (M4, M5) – apenas eSIM, sem bandeja SIM
@@ -230,7 +230,7 @@ A especificação técnica eSIM da GSMA **SGP.21** foi projetada para evitar a e
 ### 5.3 Controle Empresarial
 Usando o gerenciamento de dispositivos (MDM), as empresas podem impedir que os usuários adicionem ou removam eSIMs (restrição `AllowESIMModification`). Isso garante que um número de telefone corporativo permaneça no dispositivo e não possa ser transferido acidentalmente.
 
-Para problemas avançados de segurança com dual‑SIM, consulte nosso guia **[Dual eSIM Não Funciona? 12 Correções para iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+Para problemas avançados de segurança com dual‑SIM, consulte nosso guia **[Dual eSIM Não Funciona? 12 Correções para iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
 ---
 
@@ -253,7 +253,7 @@ Configurar o eSIM é surpreendentemente simples. Aqui estão os métodos mais co
 - Compre um plano e toque em "Instalar eSIM" – o aplicativo o instala automaticamente.
 
 ### Método 4: Transferir do Android (iOS 19+)
-- Se você está mudando de um telefone Android, agora pode transferir seu eSIM diretamente – sem precisar ligar para sua operadora. Consulte o guia **[Transferência de eSIM Entre Plataformas 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** para instruções passo a passo.
+- Se você está mudando de um telefone Android, agora pode transferir seu eSIM diretamente – sem precisar ligar para sua operadora. Consulte o guia **[Transferência de eSIM Entre Plataformas 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)** para instruções passo a passo.
 
 ---
 
@@ -349,7 +349,7 @@ Isso é o **dual eSIM** em ação. Você não precisa remover ou desativar seu S
 
 E se você está se perguntando "o que é um esim global" – é simplesmente um eSIM de viagem que funciona em muitos países (ex., plano para toda a Europa ou para toda a Ásia). A Roami oferece planos regionais e globais, todos gerenciados digitalmente.
 
-Se você está enfrentando problemas com dual eSIM, nosso guia **[Dual eSIM Não Funciona? 12 Correções para iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** cobre problemas e soluções comuns.
+Se você está enfrentando problemas com dual eSIM, nosso guia **[Dual eSIM Não Funciona? 12 Correções para iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** cobre problemas e soluções comuns.
 
 ---
 

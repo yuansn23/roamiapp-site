@@ -311,7 +311,7 @@ O Moto G Power 2024 suporta dual SIM com um SIM físico ativo e um eSIM ativo. I
 - **Mantenha seu SIM doméstico** ativo para chamadas e SMS (com roaming de dados desativado para evitar cobranças)
 - **Use um eSIM de viagem** para dados locais acessíveis
 
-Esta é a maneira mais econômica de se manter conectado no exterior, evitando taxas de roaming caras. Para mais dicas, consulte nosso [Guia de eSIM de Viagem 2026](/faq/Travel-eSIM-2026-How-to-Avoid-Roaming-Fees-Stay-Connected-Abroad/).
+Esta é a maneira mais econômica de se manter conectado no exterior, evitando taxas de roaming caras. Para mais dicas, consulte nosso [Guia de eSIM de Viagem 2026](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/).
 
 
 ## Perguntas Frequentes

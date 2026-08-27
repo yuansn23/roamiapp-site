@@ -384,7 +384,7 @@ Sí — la eSIM no solo está en los teléfonos. Apple Watch, iPad y muchos disp
 * **Por qué ocurre:** El perfil eSIM requiere una función que tu teléfono no tiene (ej., ciertas bandas 5G o una versión más reciente del sistema operativo).
 * **La solución:** Actualiza tu teléfono a la última versión del sistema operativo. Si el problema persiste, contacta con tu proveedor de eSIM para confirmar que tu modelo específico es compatible. Para los usuarios de **esim iphone 15** o **esim iphone 16**, la compatibilidad es plena; los modelos más antiguos pueden tener limitaciones.
 
-> **¿Necesitas ayuda más avanzada?** Para una solución de problemas más profunda que cubra problemas de doble eSIM, bucles de activación y errores específicos de operadores, consulta nuestra **[Guía profunda de solución de problemas de eSIM 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)**. Si te enfrentas a problemas de doble eSIM específicamente en iPhones, consulta **[¿Doble eSIM en iPhone no funciona? 12 Soluciones](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** – muchas de esas soluciones también se aplican a otros dispositivos.
+> **¿Necesitas ayuda más avanzada?** Para una solución de problemas más profunda que cubra problemas de doble eSIM, bucles de activación y errores específicos de operadores, consulta nuestra **[Guía profunda de solución de problemas de eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)**. Si te enfrentas a problemas de doble eSIM específicamente en iPhones, consulta **[¿Doble eSIM en iPhone no funciona? 12 Soluciones](/faq/dual-esim-not-working-12-fixes-for-iphone/)** – muchas de esas soluciones también se aplican a otros dispositivos.
 
 ---
 
@@ -406,7 +406,7 @@ En iPhone, ve a **Ajustes > General > Acerca de** y desplázate hasta la secció
 Sí. Muchas herramientas en línea de **comprobador de compatibilidad esim** aceptan un número IMEI. También puedes consultar las especificaciones oficiales del fabricante para ese modelo. Esto es especialmente útil cuando compras un teléfono en eBay o en un mercado de segunda mano.
 
 **P6: ¿Puedo transferir mi eSIM de mi teléfono antiguo a uno nuevo?**
-Sí – pero el método depende de tu operador y de los modelos de teléfono. Para obtener instrucciones paso a paso que cubran ambas plataformas, consulta **[Cómo transferir eSIM entre iPhone y Android](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+Sí – pero el método depende de tu operador y de los modelos de teléfono. Para obtener instrucciones paso a paso que cubran ambas plataformas, consulta **[Cómo transferir eSIM entre iPhone y Android](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 **P7: ¿Qué pasa si mi teléfono no es compatible con eSIM?**
 Si tu teléfono no muestra EID al marcar `*#06#`, no puedes usar eSIM. Consulta nuestra [lista completa de teléfonos compatibles](/compatibility/) para ver alternativas o considera actualizar a un dispositivo más reciente.

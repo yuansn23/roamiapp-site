@@ -97,7 +97,7 @@ sidebar_questions:
 ---
 
 
-Utiliser deux numéros de téléphone sur un seul iPhone est incroyablement pratique – mais cela comporte des pièges cachés. Des conflits CDMA vs GSM aux échecs de routage des appels entrants (T-ADS), ce guide couvre tout ce que vous devez savoir pour faire fonctionner **double eSIM** ou **eSIM + carte SIM physique** parfaitement sur iPhone 17, 16 et les modèles antérieurs avec iOS 19. Pour un guide complet de la configuration eSIM de base, consultez notre **[Guide complet iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**.
+Utiliser deux numéros de téléphone sur un seul iPhone est incroyablement pratique – mais cela comporte des pièges cachés. Des conflits CDMA vs GSM aux échecs de routage des appels entrants (T-ADS), ce guide couvre tout ce que vous devez savoir pour faire fonctionner **double eSIM** ou **eSIM + carte SIM physique** parfaitement sur iPhone 17, 16 et les modèles antérieurs avec iOS 19. Pour un guide complet de la configuration eSIM de base, consultez notre **[Guide complet iPhone 17 eSIM](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)**.
 
 La technologie eSIM est régie par le [standard GSMA SGP.22](https://www.gsma.com/esim/), qui garantit la compatibilité entre appareils et opérateurs. La [documentation officielle d'Apple sur la double SIM](https://support.apple.com/fr-fr/109317) fournit des informations supplémentaires sur les configurations prises en charge.
 
@@ -221,7 +221,7 @@ Si vous ne pouvez pas ajouter une deuxième eSIM ou une carte SIM physique :
 - Contactez votre opérateur pour demander un déverrouillage. En France, les opérateurs (Orange, SFR, Bouygues, Free) doivent déverrouiller gratuitement après une période légale (généralement 3 mois pour les forfaits, 6 mois pour les prépayés).
 - Si déverrouillé mais toujours pas de fonctionnement, réinitialisez les réglages réseau : `Réglages > Général > Transférer ou réinitialiser l'iPhone > Réinitialiser > Réinitialiser les réglages réseau`. (Attention : cela efface les mots de passe Wi-Fi.)
 
-Une fois déverrouillé, vous pouvez également transférer votre eSIM entre iPhone et Android – consultez notre **[guide de transfert eSIM multiplateforme 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+Une fois déverrouillé, vous pouvez également transférer votre eSIM entre iPhone et Android – consultez notre **[guide de transfert eSIM multiplateforme 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 ---
 

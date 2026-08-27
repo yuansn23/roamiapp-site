@@ -320,7 +320,7 @@ Aşağıdaki eSIM sağlayıcıları çoğu **samsung esim uyumlu telefon**da (S2
 - APN ayarlarını kontrol edin – bazı eSIM sağlayıcıları manuel APN girişi gerektirir.
 - Telefonu yeniden başlatın.
 
-> **Daha ileri düzey yardıma mı ihtiyacınız var?** Daha derinlemesine sorun giderme (diğer platformlarda çift eSIM sorunları dahil) için **[eSIM Derinlemesine Sorun Giderme Rehberi 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** ve **[iPhone Çift eSIM Çalışmıyor? 12 Çözüm](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** rehberlerimize bakın – temel ilkeler tüm cihazlarda geçerlidir.
+> **Daha ileri düzey yardıma mı ihtiyacınız var?** Daha derinlemesine sorun giderme (diğer platformlarda çift eSIM sorunları dahil) için **[eSIM Derinlemesine Sorun Giderme Rehberi 2026](/faq/esim-deep-troubleshooting-guide-2026/)** ve **[iPhone Çift eSIM Çalışmıyor? 12 Çözüm](/faq/dual-esim-not-working-12-fixes-for-iphone/)** rehberlerimize bakın – temel ilkeler tüm cihazlarda geçerlidir.
 
 ---
 
@@ -340,7 +340,7 @@ Galaxy S21 ile başlayarak, sonraki her nesil – S22, S23, S24 ve S25 dahil –
 
 Cihaz değiştirmeden önce her zaman eSIM sağlayıcınızın aktarım politikasını kontrol edin.
 
-> **iPhone ve Android arasında mı geçiş yapıyorsunuz?** Özel rehberimize bakın: **[eSIM iPhone ve Android Arasında Nasıl Aktarılır](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+> **iPhone ve Android arasında mı geçiş yapıyorsunuz?** Özel rehberimize bakın: **[eSIM iPhone ve Android Arasında Nasıl Aktarılır](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 ---
 

@@ -162,7 +162,7 @@ Quando provi ad aggiungere un'eSIM e rimane bloccata su “Attivazione in corso�
 4. **Aspetta – non eliminare.** A volte l'attivazione richiede 5–10 minuti perché il server SM‑DP+ dell'operatore è occupato. Se elimini il profilo a metà attivazione, potresti perderlo definitivamente.
 5. **Prova l'inserimento manuale.** Se stai usando un codice QR, tocca “Inserisci dettagli manualmente” e inserisci l'indirizzo SM‑DP+ e il codice di attivazione dalla tua email.
 
-Se nulla di tutto ciò funziona, contatta il tuo fornitore eSIM – potrebbe dover rigenerare il codice QR. Per un debug più avanzato dell'attivazione, consulta la nostra **[Guida approfondita alla risoluzione dei problemi eSIM 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)**.
+Se nulla di tutto ciò funziona, contatta il tuo fornitore eSIM – potrebbe dover rigenerare il codice QR. Per un debug più avanzato dell'attivazione, consulta la nostra **[Guida approfondita alla risoluzione dei problemi eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)**.
 
 ---
 
@@ -192,7 +192,7 @@ Se sei un cliente **Verizon** che cerca di usare un'eSIM non Verizon, potresti a
 
 Quando sposti un'eSIM da un vecchio telefono a uno nuovo, potresti vedere **“la tua sim non supporta il trasferimento esim”** o **“impossibile trasferire esim al nuovo iphone”**. Questo accade perché alcuni operatori non consentono il trasferimento dell'eSIM – l'eSIM è permanentemente legata all'EID del dispositivo originale.
 
-**Per istruzioni passo dopo passo che coprono sia iPhone che Android (inclusi i trasferimenti multipiattaforma), consulta [Come trasferire eSIM tra iPhone e Android](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/).**
+**Per istruzioni passo dopo passo che coprono sia iPhone che Android (inclusi i trasferimenti multipiattaforma), consulta [Come trasferire eSIM tra iPhone e Android](/faq/how-to-transfer-esim-between-iphone-and-android/).**
 
 ### Specificamente per i clienti Verizon
 
@@ -258,7 +258,7 @@ Questo è un errore raro ma grave: **“iphone bloccato in loop di avvio per esi
 
 Scarica sempre i profili eSIM da fornitori affidabili. Non tentare di installare codici QR casuali trovati online.
 
-> Se utilizzi due eSIM sul tuo iPhone e incontri conflitti, la guida **[Dual eSIM su iPhone non funziona? 12 soluzioni](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** copre i passaggi specifici per la risoluzione dei problemi dual eSIM.
+> Se utilizzi due eSIM sul tuo iPhone e incontri conflitti, la guida **[Dual eSIM su iPhone non funziona? 12 soluzioni](/faq/dual-esim-not-working-12-fixes-for-iphone/)** copre i passaggi specifici per la risoluzione dei problemi dual eSIM.
 
 ---
 
@@ -270,7 +270,7 @@ Hai un nuovo iPhone e vuoi spostare la tua eSIM, ma **“esim non si trasferisce
 - **L'operatore non supporta il trasferimento eSIM** – Alcuni operatori (specialmente le eSIM da viaggio prepagate) sono monouso.
 - **Codice QR scaduto** – Se stai riutilizzando un vecchio codice QR, controlla la data di scadenza (di solito 30–90 giorni).
 
-**Come risolvere:** Segui la sezione “impossibile trasferire eSIM” sopra. Se stai passando da un iPhone a un Android (o viceversa), avrai quasi certamente bisogno di un nuovo profilo eSIM – il trasferimento multipiattaforma è raramente supportato. Per passaggi dettagliati, consulta **[Come trasferire eSIM tra iPhone e Android](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+**Come risolvere:** Segui la sezione “impossibile trasferire eSIM” sopra. Se stai passando da un iPhone a un Android (o viceversa), avrai quasi certamente bisogno di un nuovo profilo eSIM – il trasferimento multipiattaforma è raramente supportato. Per passaggi dettagliati, consulta **[Come trasferire eSIM tra iPhone e Android](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 ---
 
@@ -324,9 +324,9 @@ A volte gli utenti cercano **“il mio telefono non supporta esim”** dopo aver
 
 Questa guida copre i problemi eSIM più comuni. Per una risoluzione dei problemi più avanzata (inclusi problemi dual eSIM, debug APN e soluzioni specifiche per operatore), consulta:
 
-- **[Guida approfondita alla risoluzione dei problemi eSIM 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** – per errori di attivazione persistenti e debug della rete.
-- **[Dual eSIM su iPhone non funziona? 12 soluzioni](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** – se stai usando due eSIM simultaneamente su un iPhone.
-- **[Come trasferire eSIM tra iPhone e Android](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** – passo dopo passo per trasferimenti multipiattaforma.
+- **[Guida approfondita alla risoluzione dei problemi eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)** – per errori di attivazione persistenti e debug della rete.
+- **[Dual eSIM su iPhone non funziona? 12 soluzioni](/faq/dual-esim-not-working-12-fixes-for-iphone/)** – se stai usando due eSIM simultaneamente su un iPhone.
+- **[Come trasferire eSIM tra iPhone e Android](/faq/how-to-transfer-esim-between-iphone-and-android/)** – passo dopo passo per trasferimenti multipiattaforma.
 
 E per un riferimento completo su quali telefoni funzionano con eSIM, visita l'**[Elenco completo dei telefoni compatibili con eSIM (2026)](/compatibility/)**.
 

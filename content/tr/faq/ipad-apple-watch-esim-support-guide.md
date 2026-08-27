@@ -286,7 +286,7 @@ iPad'inizin eSIM işlevselliğini sıfır maliyetle test etmek için [Roami](/fr
 3. **Ağ ayarlarını sıfırlayın** – iPad'de: Ayarlar > Genel > Aktar veya iPad'i Sıfırla > Sıfırla > Ağ Ayarlarını Sıfırla. (Bu eSIM profillerini silmez ancak Wi‑Fi ve Bluetooth'u sıfırlar.)
 4. **Operatör ayarları güncellemesini kontrol edin** – iPad'de: Ayarlar > Genel > Hakkında – bir güncelleme mevcutsa, bir açılır pencere görünecektir.
 
-Daha derinlemesine sorun giderme (iPhone/iPad'de çift eSIM sorunları dahil) için **[eSIM Derinlemesine Sorun Giderme Rehberi 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** ve **[iPhone Çift eSIM Çalışmıyor? 12 Çözüm](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** rehberlerimize bakın – birçok ilke iPad için de geçerlidir.
+Daha derinlemesine sorun giderme (iPhone/iPad'de çift eSIM sorunları dahil) için **[eSIM Derinlemesine Sorun Giderme Rehberi 2026](/faq/esim-deep-troubleshooting-guide-2026/)** ve **[iPhone Çift eSIM Çalışmıyor? 12 Çözüm](/faq/dual-esim-not-working-12-fixes-for-iphone/)** rehberlerimize bakın – birçok ilke iPad için de geçerlidir.
 
 ---
 

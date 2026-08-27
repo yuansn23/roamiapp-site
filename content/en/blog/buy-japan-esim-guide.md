@@ -59,10 +59,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "2026 Cross-Platform eSIM Transfer"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Smartwatch eSIM Compatibility Complete List"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -74,7 +74,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -98,7 +98,7 @@ For over a decade, renting a pocket Wi-Fi device after landing at Narita, Haneda
 
 **Cost:** Pocket Wi-Fi costs about $25-40 for 7 days. An eSIM costs about $5.99 for 7 days 5GB, or even less with discounts. Savings of 70-85%.
 
-**Convenience:** Pocket Wi-Fi requires an extra device – charging, carrying, keeping track of it, returning it. An eSIM lives inside your phone – zero extra devices. Your phone is your Wi-Fi hotspot. Understanding [how eSIM works](/faq/What-Is-eSIM/) reveals the nature of this generational shift.
+**Convenience:** Pocket Wi-Fi requires an extra device – charging, carrying, keeping track of it, returning it. An eSIM lives inside your phone – zero extra devices. Your phone is your Wi-Fi hotspot. Understanding [how eSIM works](/faq/what-is-esim/) reveals the nature of this generational shift.
 
 **Reliability:** Pocket Wi-Fi runs out of battery (typically 6-8 hours, not enough for a full day of sightseeing). An eSIM doesn't – it shares your phone's battery, which you already charge every night.
 
@@ -236,7 +236,7 @@ First-time users can start with a [free eSIM deal](/free-esim/) to test real-wor
 
 **Best eSIM:** Roami Japan eSIM 5GB/3-day plan, $4.79 after discount. On this itinerary, multi-network switching is mostly for backup coverage in underground spaces. In high-rise districts like Shinjuku and Roppongi, different networks may have different signal strengths on different floors.
 
-If you are using an iPhone and installing an eSIM for the first time, refer to the [iPhone eSIM activation tutorial](/faq/how-to-activate-esim-on-iphone/). If you encounter connection issues, the [eSIM troubleshooting guide](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) can help with rapid diagnosis.
+If you are using an iPhone and installing an eSIM for the first time, refer to the [iPhone eSIM activation tutorial](/faq/how-to-activate-esim-on-iphone/). If you encounter connection issues, the [eSIM troubleshooting guide](/faq/esim-deep-troubleshooting-guide-2026/) can help with rapid diagnosis.
 
 ### Scenario 4: Japanese Alps Hiking (Tateyama Kurobe Alpine Route, 4-5 days)
 

@@ -51,7 +51,7 @@ top_countries:
     alias: "usa america us"
   - name: "UK"
     code: "gb"
-    slug: "United-Kingdom"
+    slug: "united-kingdom"
     badge: "Tendance"
     badgeColor: "bg-purple-500"
     alias: "uk britain england gb"

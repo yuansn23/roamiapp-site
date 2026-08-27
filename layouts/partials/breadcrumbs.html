@@ -303,14 +303,14 @@
         {
             "@type": "ListItem",
             "position": {{ add $i 1 }},
-            "name": {{ $bc.label | jsonify }},
-            "item": {{ $bc.url | absURL | jsonify }}
+            "name": {{ $bc.label | jsonify | safeJS }},
+            "item": {{ $bc.url | absURL | jsonify | safeJS }}
         }{{ if lt $i (sub (len $crumbs) 1) }},{{ end }}
         {{ else }}
         {
             "@type": "ListItem",
             "position": {{ add $i 1 }},
-            "name": {{ $bc.label | jsonify }}
+            "name": {{ $bc.label | jsonify | safeJS }}
         }{{ if lt $i (sub (len $crumbs) 1) }},{{ end }}
         {{ end }}
     {{ end }}

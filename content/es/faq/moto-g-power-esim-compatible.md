@@ -393,7 +393,7 @@ R: Sí, si tienes el Moto G Power 5G (2024). El modelo estándar solo usa LTE. L
 R: Sí. Android admite Wi‑Fi Calling en eSIM siempre que tu operador lo soporte. Ve a **Configuración > Red e Internet > Red móvil > [eSIM] > Wi‑Fi Calling** y actívalo.
 
 **P15: ¿Qué pasa si cambio de teléfono? ¿Puedo transferir mi eSIM?**  
-R: Las eSIM están vinculadas a un solo dispositivo. Contacta con tu proveedor para un nuevo código QR. Para más detalles, consulta nuestra [guía de transferencia](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/).
+R: Las eSIM están vinculadas a un solo dispositivo. Contacta con tu proveedor para un nuevo código QR. Para más detalles, consulta nuestra [guía de transferencia](/faq/how-to-transfer-esim-between-iphone-and-android/).
 
 ---
 

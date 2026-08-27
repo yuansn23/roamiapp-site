@@ -325,7 +325,7 @@ Si buscas proveedores compatibles con tu Samsung, la mayoría de las **eSIM de v
 - Verifica la configuración APN – algunos proveedores de eSIM requieren la introducción manual de APN.
 - Reinicia el teléfono.
 
-> **¿Necesitas ayuda más avanzada?** Para una solución de problemas más profunda (incluidos problemas de doble eSIM en otras plataformas), consulta nuestra **[Guía profunda de solución de problemas de eSIM 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** y **[¿Doble eSIM en iPhone no funciona? 12 Soluciones](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** – los principios básicos se aplican a todos los dispositivos.
+> **¿Necesitas ayuda más avanzada?** Para una solución de problemas más profunda (incluidos problemas de doble eSIM en otras plataformas), consulta nuestra **[Guía profunda de solución de problemas de eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)** y **[¿Doble eSIM en iPhone no funciona? 12 Soluciones](/faq/dual-esim-not-working-12-fixes-for-iphone/)** – los principios básicos se aplican a todos los dispositivos.
 
 ---
 
@@ -345,7 +345,7 @@ La mayoría de las eSIM de viaje son de instalación única – no se pueden tra
 
 Siempre verifica la política de transferencia de tu proveedor de eSIM antes de cambiar de dispositivo.
 
-> **¿Te mueves entre iPhone y Android?** Consulta nuestra guía dedicada: **[Cómo transferir eSIM entre iPhone y Android](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+> **¿Te mueves entre iPhone y Android?** Consulta nuestra guía dedicada: **[Cómo transferir eSIM entre iPhone y Android](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 ---
 

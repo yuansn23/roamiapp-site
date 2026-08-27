@@ -246,8 +246,8 @@ sidebar_questions:
 
 > 📎 **本站相關資源：**
 > - [eSIM 深度疑難排解指南 (16 個真實案例)](/faq/esim-deep-troubleshooting-guide-2026/)
-> - [2026 跨平台 eSIM 轉移](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
-> - [雙 eSIM 無法使用？iPhone 的 12 個解決方案](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+> - [2026 跨平台 eSIM 轉移](/faq/how-to-transfer-esim-between-iphone-and-android/)
+> - [雙 eSIM 無法使用？iPhone 的 12 個解決方案](/faq/dual-esim-not-working-12-fixes-for-iphone/)
 > - [最新支援 eSIM 的手機清單](/compatibility/)
 > - [購買適用於日本、韓國、泰國、美國及其他國家的 eSIM](/plans/)
 

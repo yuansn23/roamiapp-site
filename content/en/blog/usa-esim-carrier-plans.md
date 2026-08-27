@@ -59,10 +59,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "2026 Cross-Platform eSIM Transfer"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "iPad & Apple Watch eSIM: Complete Guide"
     permalink: "/faq/ipad-apple-watch-esim-support-guide/"
@@ -74,7 +74,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 Ultimate Guide: iPhone 16 eSIM Activation Solutions"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-16-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 For a complete US eSIM overview, see the [USA eSIM complete guide](/blog/usa-esim-complete-guide/).

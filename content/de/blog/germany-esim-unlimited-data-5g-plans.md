@@ -38,10 +38,10 @@ recentPosts:
     permalink: "/compatibility/"
     date: "2026-05-26"
   - title: "Plattformübergreifende eSIM-Übertragung 2026"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Dual-eSIM funktioniert nicht? 12 Lösungen für iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Smartwatch-eSIM-Kompatibilitätsliste (vollständig)"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -53,7 +53,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "Ultimativer Leitfaden 2026: iPhone 17 eSIM-Aktivierungslösungen"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 Holaflys "unbegrenzte" Deutschland-eSIM beginnt im Juli 2026 bei $19 für 5 Tage, blockiert jedoch Hotspot-Tethering und drosselt die Geschwindigkeit nach etwa 30 GB Nutzung. Ubigis 50-GB-Tarif kostet $49 mit vollem Tethering, ist jedoch gedeckelt und nicht unbegrenzt. Kein internationaler eSIM-Wiederverkäufer in Deutschland bietet wirklich unbegrenzte Highspeed-5G-Daten – jeder Tarif hat entweder eine Fair-Use-Grenze, ein tägliches Limit oder eine Funktionseinschränkung, die darüber entscheidet, ob er tatsächlich zu den Datenanforderungen und Gerätekonfigurationen Ihrer Reise passt.

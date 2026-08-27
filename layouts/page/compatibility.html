@@ -29,8 +29,8 @@
                 {{ range $index, $element := .Params.faq_schema }}
                 {
                     "@type": "Question",
-                    "name": {{ .question | jsonify }},
-                    "acceptedAnswer": { "@type": "Answer", "text": {{ .answer | plainify | jsonify }} }
+                    "name": {{ .question | jsonify | safeJS }},
+                    "acceptedAnswer": { "@type": "Answer", "text": {{ .answer | plainify | jsonify | safeJS }} }
                 }{{ if ne (add $index 1) $len }},{{ end }}
                 {{ end }}
             ]
@@ -42,9 +42,9 @@
         {
             "@context": "https://schema.org",
             "@type": "WebPage",
-            "name": {{ with .Params.seo.title }}{{ . | jsonify }}{{ else }}{{ .Title | jsonify }}{{ end }},
-            "description": {{ with .Params.seo.description }}{{ . | jsonify }}{{ else }}{{ .Description | jsonify }}{{ end }},
-            "url": {{ .Permalink | jsonify }}
+            "name": {{ with .Params.seo.title }}{{ . | jsonify | safeJS }}{{ else }}{{ .Title | jsonify | safeJS }}{{ end }},
+            "description": {{ with .Params.seo.description }}{{ . | jsonify | safeJS }}{{ else }}{{ .Description | jsonify | safeJS }}{{ end }},
+            "url": {{ .Permalink | jsonify | safeJS }}
         }
     </script>
 
@@ -553,7 +553,7 @@
         </div>
         <ul class="grid grid-cols-2 lg:grid-cols-5 gap-4 list-none p-0 m-0">
             {{ range first 10 (shuffle .items) }}
-            {{ $slugBase := .slug | default (.name | urlize) }}
+            {{ $slugBase := .slug | default (.name | urlize) | lower }}
             {{ $slugWithSuffix := $slugBase }}
             {{ if not (hasSuffix $slugBase "-esim") }}
             {{ $slugWithSuffix = printf "%s-esim" $slugBase }}

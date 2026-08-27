@@ -188,7 +188,7 @@ sidebar_questions:
 - iPad（A16） – 僅 eSIM
 - 較舊的 iPad Pro、Air、mini（第 3 代及更新） – 單一 eSIM + 實體 SIM
 
-> 📱 **正要換 iPhone 17？** 我們的 **[iPhone 17 eSIM 完整指南](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** 將逐步帶你完成啟用。
+> 📱 **正要換 iPhone 17？** 我們的 **[iPhone 17 eSIM 完整指南](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** 將逐步帶你完成啟用。
 
 ---
 
@@ -205,7 +205,7 @@ eSIM 的 GSMA **SGP.21** 技術規格旨在防止將設定檔從一個 eUICC 匯
 ### 5.3 企業管控
 透過行動裝置管理（MDM），公司可以禁止使用者新增或刪除 eSIM（`AllowESIMModification` 限制）。這確保公司門號保留在裝置上，不會被意外轉移。
 
-如需處理雙 SIM 卡的進階安全性問題，請參考我們的指南 **[雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**。
+如需處理雙 SIM 卡的進階安全性問題，請參考我們的指南 **[雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/dual-esim-not-working-12-fixes-for-iphone/)**。
 
 ---
 
@@ -228,7 +228,7 @@ eSIM 的 GSMA **SGP.21** 技術規格旨在防止將設定檔從一個 eUICC 匯
 - 購買方案並點擊「安裝 eSIM」 – 應用程式會自動為你安裝。
 
 ### 方法 4：從 Android 轉移（iOS 26 以上）
-- 如果你從 Android 手機轉換，現在可以直接轉移你的 eSIM – 無需打電話給電信業者。請參考指南 **[2026 跨平台 eSIM 轉移](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** 取得逐步說明。
+- 如果你從 Android 手機轉換，現在可以直接轉移你的 eSIM – 無需打電話給電信業者。請參考指南 **[2026 跨平台 eSIM 轉移](/faq/how-to-transfer-esim-between-iphone-and-android/)** 取得逐步說明。
 
 ---
 
@@ -293,9 +293,9 @@ Apple 已經在美國版 iPhone（14、15、16 和 17）上轉向**僅 eSIM**。
 
 > 📎 **Roami 提供的更多幫助：**
 > - [eSIM 深度故障排除指南（16 個真實案例）](/faq/esim-deep-troubleshooting-guide-2026/)
-> - [iPhone 17 eSIM 完整指南](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)
-> - [2026 跨平台 eSIM 轉移](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
-> - [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+> - [iPhone 17 eSIM 完整指南](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)
+> - [2026 跨平台 eSIM 轉移](/faq/how-to-transfer-esim-between-iphone-and-android/)
+> - [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/dual-esim-not-working-12-fixes-for-iphone/)
 
 ---
 

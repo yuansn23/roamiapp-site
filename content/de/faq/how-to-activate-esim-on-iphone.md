@@ -174,7 +174,7 @@ Viele moderne eSIM-Anbieter bieten eine App an, mit der Sie die eSIM mit einem e
 3. Tippen Sie auf die Schaltfläche **eSIM installieren / aktivieren**.
 4. Erlauben Sie der App, den Mobilfunktarif zu Ihren iPhone-Einstellungen hinzuzufügen.
 
-Für detaillierte Schritt-für-Schritt-Anleitungen für jedes iPhone-Modell besuchen Sie unseren **[iPhone 17 eSIM Komplett-Guide](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** – die Grundlagen gelten analog für alle kompatiblen Modelle.
+Für detaillierte Schritt-für-Schritt-Anleitungen für jedes iPhone-Modell besuchen Sie unseren **[iPhone 17 eSIM Komplett-Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** – die Grundlagen gelten analog für alle kompatiblen Modelle.
 
 
 ## eSIM auf Android-Geräten aktivieren – Samsung, Pixel & Co.
@@ -252,7 +252,7 @@ Wenn Sie auf ein neues iPhone upgraden, hat Apple die Übertragung Ihrer eSIM ex
 
 Legen Sie einfach Ihr altes iPhone neben das neue, gehen Sie auf dem neuen Gerät zu **Einstellungen > Mobilfunk > eSIM hinzufügen** und wählen Sie **Von iPhone in der Nähe übertragen**. Folgen Sie den Anweisungen, und Ihre Nummer zieht nahtlos um, ohne dass ein neuer QR-Code benötigt wird.
 
-Für die plattformübergreifende Übertragung zwischen iPhone und Android finden Sie detaillierte Anleitungen in unserem **[eSIM Cross-Platform Transfer Guide](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+Für die plattformübergreifende Übertragung zwischen iPhone und Android finden Sie detaillierte Anleitungen in unserem **[eSIM Cross-Platform Transfer Guide](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 
 ## Fehlerbehebung bei gängigen eSIM-Aktivierungsfehlern
@@ -274,7 +274,7 @@ Wenn Sie weitere Probleme haben – etwa wenn die **eSIM auf dem iPhone nicht ak
 ## Häufig gestellte Fragen (FAQs)
 
 **Wie viele eSIMs kann ich auf meinem iPhone haben?**
-Sie können 8 oder mehr eSIM-Profile speichern. Je nach Modell (ab iPhone 13) können jedoch nur zwei eSIMs gleichzeitig aktiv sein (Dual eSIM). Bei Problemen mit zwei aktiven eSIMs hilft unser **[Dual-eSIM Guide](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+Sie können 8 oder mehr eSIM-Profile speichern. Je nach Modell (ab iPhone 13) können jedoch nur zwei eSIMs gleichzeitig aktiv sein (Dual eSIM). Bei Problemen mit zwei aktiven eSIMs hilft unser **[Dual-eSIM Guide](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
 **Kann ich meine physische SIM und die eSIM gleichzeitig nutzen?**
 Ja! iPhones unterstützen die Dual-SIM-Funktionalität. Sie können Ihre physische Heim-SIM für Anrufe und SMS aktiv lassen, während Sie eine Reise-eSIM für Daten nutzen.

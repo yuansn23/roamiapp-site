@@ -58,10 +58,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "2026 跨平台 eSIM 轉移"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "雙 eSIM 無法運作？12 個 iPhone 解決方法"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "智慧手錶 eSIM 相容性完整列表"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -73,7 +73,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 終極指南：iPhone 17 eSIM 啟用解決方案"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -156,7 +156,7 @@ recentPosts:
 - **訊號無差異**：兩者使用完全相同基地台，速度與覆蓋一致。
 - **數據揭密**：中華電信 5G 機場卡熱點分享上限僅 3~7GB；遠傳便利店購買的 30 天無限套餐 120GB 後降速 5Mbps——實體 SIM 並非真正「無限」。
 - **適合族群**：頻繁出國、雙卡用戶、Apple Watch 使用者 → **eSIM**；單卡低用量、老手機、遠傳預付卡用戶 → **實體 SIM**。
-- **跨裝置提醒**：若你使用智慧手錶，請務必查閱 [智慧手錶 eSIM 相容性完整列表](/faq/smartwatch-esim-compatibility-list-2026/)；若你持有 iPhone SE 或 iPhone 11，可參考專屬相容性指南；最新機型則可參考 [2026 終極指南：iPhone 17 eSIM 啟用解決方案](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)。
+- **跨裝置提醒**：若你使用智慧手錶，請務必查閱 [智慧手錶 eSIM 相容性完整列表](/faq/smartwatch-esim-compatibility-list-2026/)；若你持有 iPhone SE 或 iPhone 11，可參考專屬相容性指南；最新機型則可參考 [2026 終極指南：iPhone 17 eSIM 啟用解決方案](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)。
 
 ---
 
@@ -240,13 +240,13 @@ recentPosts:
 
 | 場景 | 實體 SIM | eSIM |
 |------|----------|------|
-| 換新手機 | 直接插卡（需退卡針） | 掃描 QR 碼或快速轉移（可參考 [2026 跨平台 eSIM 轉移](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)） |
+| 換新手機 | 直接插卡（需退卡針） | 掃描 QR 碼或快速轉移（可參考 [2026 跨平台 eSIM 轉移](/faq/how-to-transfer-esim-between-iphone-and-android/)） |
 | 出國使用當地網路 | 需購買當地 SIM 卡並插拔 | 購買旅遊 eSIM，保留原門號 |
 | 雙卡雙待 | 需雙卡手機，兩張實體卡 | 實體 SIM + eSIM，彈性配置 |
 | 緊急關閉門號 | 需取出卡片 | 設定中一鍵關閉 |
 | 遺失補發 | NT$300 + 門市排隊 | NT$300 + 線上申請（部分業者） |
 
-**eSIM 在出國和雙卡場景完勝**。若你使用雙 eSIM 遇到衝突，請參考 [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)。
+**eSIM 在出國和雙卡場景完勝**。若你使用雙 eSIM 遇到衝突，請參考 [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/dual-esim-not-working-12-fixes-for-iphone/)。
 
 ### 2.4 訊號與速度
 
@@ -323,7 +323,7 @@ recentPosts:
 
 目前台灣銷售的 iPhone 仍保留一個實體卡槽 + eSIM。但根據電信圈消息：
 
-- **2027 年**：iPhone 18 可能全面移除卡槽（台灣版跟進）。若你打算入手最新機型，可先閱讀 [2026 終極指南：iPhone 17 eSIM 啟用解決方案](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)。
+- **2027 年**：iPhone 18 可能全面移除卡槽（台灣版跟進）。若你打算入手最新機型，可先閱讀 [2026 終極指南：iPhone 17 eSIM 啟用解決方案](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)。
 - **2028 年前**：三大電信將完成 eSIM 線上補發、轉移系統優化。
 - **預付卡 eSIM**：中華、台哥大已開放，遠傳預計 2027 年跟進。
 

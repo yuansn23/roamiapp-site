@@ -113,7 +113,7 @@ Voici ce que vous devez savoir en 10 secondes :
 
 > **Astuce :** Les autres téléphones Motorola compatibles eSIM incluent la série Edge (Edge 40/50/60), les Razr pliables et certains modèles Moto G 5G (G53, G54, G55). Effectuez toujours le test EID.
 
-Pour une introduction générale à la technologie eSIM, consultez notre [guide explicatif complet](/faq/What-Is-eSIM/). La [documentation officielle de Motorola](https://support.motorola.com/) fournit également des informations détaillées sur la compatibilité eSIM par modèle.
+Pour une introduction générale à la technologie eSIM, consultez notre [guide explicatif complet](/faq/what-is-esim/). La [documentation officielle de Motorola](https://support.motorola.com/) fournit également des informations détaillées sur la compatibilité eSIM par modèle.
 
 
 ## 📱 Moto G Power & Stylus – Tableau de compatibilité eSIM

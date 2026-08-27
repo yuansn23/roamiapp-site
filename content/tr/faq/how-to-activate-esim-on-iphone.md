@@ -108,7 +108,7 @@ eSIM aktivasyonu, ağ sağlayıcınızdan dijital bir operatör profilinin inter
 
 Küçük ataçlar ve mikroskobik plastik SIM kartlarla uğraşma günleri geride kaldı. İster yeni bir yerel operatöre geçin ister bir sonraki uluslararası seyahatiniz için bir seyahat veri planı satın alın, eSIM kullanmak bağlı kalmanın en uygun yoludur.
 
-Ancak, ilk kez bir **iPhone eSIM kurulumu** yapıyorsanız, süreç biraz göz korkutucu görünebilir. Endişelenmeyin! Bu kapsamlı kılavuzda, **iPhone'unuzda eSIM'i nasıl etkinleştireceğinizi** ve esim io kurulum adımlarını QR kod, manuel giriş veya operatör uygulaması kullanarak tam olarak göstereceğiz. Bu kılavuz, yalnızca eSIM olan iPhone 14, 15, 16 ve 17 serileri dahil olmak üzere tüm uyumlu modelleri kapsar. Özellikle iPhone 17 için tam bir adım adım anlatım için **[iPhone 17 eSIM Tam Kılavuzu](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** sayfamıza bakın.
+Ancak, ilk kez bir **iPhone eSIM kurulumu** yapıyorsanız, süreç biraz göz korkutucu görünebilir. Endişelenmeyin! Bu kapsamlı kılavuzda, **iPhone'unuzda eSIM'i nasıl etkinleştireceğinizi** ve esim io kurulum adımlarını QR kod, manuel giriş veya operatör uygulaması kullanarak tam olarak göstereceğiz. Bu kılavuz, yalnızca eSIM olan iPhone 14, 15, 16 ve 17 serileri dahil olmak üzere tüm uyumlu modelleri kapsar. Özellikle iPhone 17 için tam bir adım adım anlatım için **[iPhone 17 eSIM Tam Kılavuzu](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** sayfamıza bakın.
 
 ---
 
@@ -131,7 +131,7 @@ Bir seyahat eSIM'i kurmaya çalışıyorsanız, telefonunuzun kilidi açık olma
 3. **"SIM kısıtlaması yok"** yazıyorsa, iPhone'unuzun kilidi açıktır ve yeni bir eSIM'e hazırdır!
 
 ### Kararlı bir Wi-Fi ağına bağlanın
-eSIM profilini telefonunuza indirmek için **kararlı bir internet bağlantınız** olmalıdır (Wi-Fi şiddetle tavsiye edilir). Operatör kilidi sorunu devam ediyorsa, daha derinlemesine sorun giderme için **[Çift eSIM Çalışmıyor? iPhone için 12 Çözüm](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** kılavuzumuza göz atın.
+eSIM profilini telefonunuza indirmek için **kararlı bir internet bağlantınız** olmalıdır (Wi-Fi şiddetle tavsiye edilir). Operatör kilidi sorunu devam ediyorsa, daha derinlemesine sorun giderme için **[Çift eSIM Çalışmıyor? iPhone için 12 Çözüm](/faq/dual-esim-not-working-12-fixes-for-iphone/)** kılavuzumuza göz atın.
 
 ---
 
@@ -226,7 +226,7 @@ iOS 19 ile Apple, eSIM'inizi aktarmayı daha da kolaylaştırdı. Bluetooth arac
 Eski iPhone'unuzu yenisinin yanına koyun, yeni telefonda **Ayarlar > Hücresel > eSIM Ekle**'ye gidin ve **Yakındaki iPhone'dan Aktar**'ı seçin. Yönlendirmeleri izleyin ve numaranız yeni bir QR kod gerektirmeden sorunsuz bir şekilde yeni cihaza taşınacaktır.
 
 ### Platformlar arası aktarım (iOS 19 ↔ Android 16)
-Artık eSIM'leri iPhone ve Android arasında doğrudan aktarabilirsiniz – operatör araması gerekmez. Ayrıntılı adımlar için **[eSIM Platformlar Arası Aktarım 2026 kılavuzumuza](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** bakın.
+Artık eSIM'leri iPhone ve Android arasında doğrudan aktarabilirsiniz – operatör araması gerekmez. Ayrıntılı adımlar için **[eSIM Platformlar Arası Aktarım 2026 kılavuzumuza](/faq/how-to-transfer-esim-between-iphone-and-android/)** bakın.
 
 ---
 
@@ -255,7 +255,7 @@ Sorun mu yaşıyorsunuz? İşte en yaygın hatalar ve nasıl düzeltilecekleri:
 | **Etkinleştirmeden sonra veri bağlantısı yok** | APN ayarları eksik veya hatalı | APN ayarlarını manuel olarak yapılandırın (yukarıdaki bölüme bakın). |
 | **eSIM başka bir cihaza bağlı** | Profil eski cihazdan serbest bırakılmamış | Eski cihazda, eSIM hala görünüyorsa silin. Değilse, profil serbest bırakma için operatörle iletişime geçin. |
 
-16 gerçek dünya vakasını kapsayan daha ileri düzey sorun giderme için **[eSIM Derin Sorun Giderme Kılavuzu 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** sayfamıza bakın.
+16 gerçek dünya vakasını kapsayan daha ileri düzey sorun giderme için **[eSIM Derin Sorun Giderme Kılavuzu 2026](/faq/esim-deep-troubleshooting-guide-2026/)** sayfamıza bakın.
 
 ---
 
@@ -281,7 +281,7 @@ eSIM, fiziksel olarak çıkarılamayan dijital bir SIM'dir. Aynı işlevselliği
 `*#06#` tuşlayın – bir EID görünüyorsa, telefonunuz eSIM'i destekliyordur. Veya Dijital SIM veya EID girişi için **Ayarlar > Genel > Hakkında**'yı kontrol edin. iPhone kullanıyorsanız ve hala emin değilseniz, resmi [Apple eSIM destek sayfası](https://support.apple.com/en-us/108072) uyumlu modellerin ayrıntılı bir listesini sağlar.
 
 **eSIM'imi bir telefondan diğerine aktarabilir miyim?**
-Evet – iOS 19 Hızlı Aktarım (iPhone'dan iPhone'a) veya platformlar arası aktarım (iPhone ↔ Android) kullanarak. Adım adım talimatlar için **[eSIM Platformlar Arası Aktarım 2026 kılavuzumuza](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** bakın.
+Evet – iOS 19 Hızlı Aktarım (iPhone'dan iPhone'a) veya platformlar arası aktarım (iPhone ↔ Android) kullanarak. Adım adım talimatlar için **[eSIM Platformlar Arası Aktarım 2026 kılavuzumuza](/faq/how-to-transfer-esim-between-iphone-and-android/)** bakın.
 
 **Seyahat eSIM'i nedir?**
 **Seyahat eSIM'i**, uluslararası seyahatler için tasarlanmış yalnızca veri içeren bir eSIM'dir. Kalkıştan önce satın alır, evde kurar ve varışta etkinleştirirsiniz – dolaşım ücreti yok, havaalanı SIM büfeleri yok.

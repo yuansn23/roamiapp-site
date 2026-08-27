@@ -148,7 +148,7 @@ Un iPhone bloqueado solo puede usar el operador con el que se compró. Para comp
 - Si aparece un operador → contacta con ese operador para solicitar el desbloqueo antes de viajar.
 
 ### 2.2 ¿Tu iPhone es compatible con eSIM?
-Todos los modelos de iPhone desde **iPhone XS, XR y posteriores** son compatibles con eSIM. Esto incluye todas las series iPhone 11, 12, 13, 14, 15, 16 y 17. Si tienes un modelo más antiguo (iPhone X o anterior), no puedes usar eSIM y debes usar SIM física. Para más detalles sobre la **compatibilidad eSIM en iPhone**, consulta nuestra [guía completa de eSIM para iPhone 17](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/).
+Todos los modelos de iPhone desde **iPhone XS, XR y posteriores** son compatibles con eSIM. Esto incluye todas las series iPhone 11, 12, 13, 14, 15, 16 y 17. Si tienes un modelo más antiguo (iPhone X o anterior), no puedes usar eSIM y debes usar SIM física. Para más detalles sobre la **compatibilidad eSIM en iPhone**, consulta nuestra [guía completa de eSIM para iPhone 17](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/).
 
 ### 2.3 Modelos de EE.UU. vs internacionales
 - **Modelos de EE.UU. (iPhone 14 y posteriores):** Solo eSIM – sin bandeja de SIM física. Perfecto para viajar – de todos modos debes usar eSIM.
@@ -244,7 +244,7 @@ Para mejores resultados:
 - Activa **Permitir cambio de datos móviles** – el teléfono puede usar los datos de la eSIM de viaje para el Wi‑Fi Calling de tu línea doméstica.
 - Desactiva **"Enviar como SMS"** para iMessage si tu plan doméstico tiene SMS caros.
 
-> 📖 **¿La doble SIM no se comporta bien?** Consulta nuestra guía **[¿Doble eSIM no funciona? 12 Soluciones para iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** para conflictos CDMA, errores T‑ADS y soluciones para el consumo de batería.
+> 📖 **¿La doble SIM no se comporta bien?** Consulta nuestra guía **[¿Doble eSIM no funciona? 12 Soluciones para iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** para conflictos CDMA, errores T‑ADS y soluciones para el consumo de batería.
 
 ---
 
@@ -292,7 +292,7 @@ Si no hay conexión después de 2 minutos:
 - Reinicia tu iPhone.
 - Selecciona manualmente una red: `Ajustes` > `Datos Móviles` > eSIM de viaje > `Selección de red` → desactiva Automático → elige un operador local manualmente.
 
-> 🔄 **¿Cambias de teléfono durante el viaje?** Es posible que necesites **[transferir tu eSIM](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** – nuestra guía cubre el movimiento entre iPhone y Android multiplataforma.
+> 🔄 **¿Cambias de teléfono durante el viaje?** Es posible que necesites **[transferir tu eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/)** – nuestra guía cubre el movimiento entre iPhone y Android multiplataforma.
 
 ---
 

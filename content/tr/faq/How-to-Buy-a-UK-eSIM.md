@@ -107,7 +107,7 @@ Bir [Birleşik Krallık eSIM](/united-kingdom-esim/) satın almanın en hızlı 
 2. **Planınızı Seçin**: Kısa seyahatler veya çok ülkeli Avrupa turları (1-30 gün) için doğrudan bir **seyahat eSIM Birleşik Krallık** satın alın—kimlik gerekmez, anında hazır. Uzun süreli ikamet (1 ay+) için EE veya Lebara'dan yerel bir **Birleşik Krallık eSIM ön ödemeli** planı tercih edin.
 3. **Tara ve Git**: Uçuşunuzdan önce e-postanızdaki QR kodunu tarayın. Heathrow'a indiğinizde **Veri Dolaşımı**'nı açın ve bağlanın.
 
-eSIM'in arkasındaki teknoloji, cihazlar ve operatörler arasında küresel birlikte çalışabilirliği sağlayan [GSMA standardı SGP.22](https://www.gsma.com/esim/) tarafından yönetilmektedir. [eSIM hakkındaki resmi Apple destek sayfası](https://support.apple.com/en-us/108072), uyumlu iPhone modelleri hakkında ayrıntılı bilgi sağlar. eSIM teknolojisine yeniyseniz, [eSIM Nedir? kılavuzumuz](/faq/What-Is-eSIM/) temel bilgileri kapsar.
+eSIM'in arkasındaki teknoloji, cihazlar ve operatörler arasında küresel birlikte çalışabilirliği sağlayan [GSMA standardı SGP.22](https://www.gsma.com/esim/) tarafından yönetilmektedir. [eSIM hakkındaki resmi Apple destek sayfası](https://support.apple.com/en-us/108072), uyumlu iPhone modelleri hakkında ayrıntılı bilgi sağlar. eSIM teknolojisine yeniyseniz, [eSIM Nedir? kılavuzumuz](/faq/what-is-esim/) temel bilgileri kapsar.
 
 ![Temel adımları gösteren basit infografik: Uyumluluğu Kontrol Edin -> Seyahat eSIM'i Çevrimiçi Satın Alın -> Yüklemek için Tara -> Varışta Etkinleştirin](/img/uk-esim/1.jpg)
 
@@ -254,7 +254,7 @@ Birçok Amerikalı ve uluslararası turist, Birleşik Krallık'ı daha büyük b
 
 ## Birleşik Krallık eSIM Kurulum Kılavuzu – 3 Adımda Etkinleştirin
 
-Bir eSIM yüklemek artık dijital cüzdanınıza biniş kartı eklemek kadar kolay. Artık küçük SIM çıkarma aletleriyle uğraşmanıza gerek yok. iPhone'lar için tam bir kılavuz için **[iPhone 17 eSIM Tam Kılavuzumuza](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** bakın.
+Bir eSIM yüklemek artık dijital cüzdanınıza biniş kartı eklemek kadar kolay. Artık küçük SIM çıkarma aletleriyle uğraşmanıza gerek yok. iPhone'lar için tam bir kılavuz için **[iPhone 17 eSIM Tam Kılavuzumuza](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** bakın.
 
 1. **Satın Alın ve Alın:** **Birleşik Krallık eSIM**'inizi çevrimiçi satın alın ve e-posta yoluyla bir QR kodu alın.
 2. **Yüklemek için Tara:** Wi-Fi'ye bağlıyken (ideal olarak uçuşunuzdan önce), telefonunuzun **Ayarlar > Hücresel (veya Mobil Veri) > eSIM Ekle** bölümüne gidin ve QR kodunu tarayın.
@@ -314,7 +314,7 @@ Telefonunuz hem eSIM hem de fiziksel SIM'i destekliyorsa, Birleşik Krallık sey
 | **Vodafone** | internet | (boş) | (boş) |
 | **Three** | three.co.uk | (boş) | (boş) |
 
-Daha gelişmiş sorun giderme için **[eSIM Derin Sorun Giderme Kılavuzu 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** ve **[Çift eSIM Çalışmıyor mu? iPhone için 12 Düzeltme](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** kılavuzlarımıza bakın.
+Daha gelişmiş sorun giderme için **[eSIM Derin Sorun Giderme Kılavuzu 2026](/faq/esim-deep-troubleshooting-guide-2026/)** ve **[Çift eSIM Çalışmıyor mu? iPhone için 12 Düzeltme](/faq/dual-esim-not-working-12-fixes-for-iphone/)** kılavuzlarımıza bakın.
 
 
 ## Birleşik Krallık eSIM Alıcı Tuzaklarından Nasıl Kaçınılır – Gizli Ücretler ve Sahte Sınırsız Planlar
@@ -366,7 +366,7 @@ Saf seyahat eSIM'leri "Yalnızca Veri"dir ve **bir telefon numarası içermez**.
 Çevrimiçi olarak kolayca yükleme yapabilirsiniz. eSIM'i satın aldığınız web sitesine veya uygulamaya giriş yapın, bir ek paket satın alın ve veri otomatik olarak yüklenir—yeni bir QR kodu taramanıza gerek yoktur.
 
 **Birleşik Krallık eSIM'imi yeni bir telefona aktarabilir miyim?**
-Çoğu seyahat eSIM'i tek seferlik kurulumdur ve aktarılamaz. Faturalı operatör eSIM'leri (EE, Vodafone, vb.) için operatörünüzle iletişime geçin. eSIM'leri cihazlar arasında aktarmak için ayrıntılı adımlar **[eSIM Platformlar Arası Aktarım 2026 kılavuzumuza](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** bakın.
+Çoğu seyahat eSIM'i tek seferlik kurulumdur ve aktarılamaz. Faturalı operatör eSIM'leri (EE, Vodafone, vb.) için operatörünüzle iletişime geçin. eSIM'leri cihazlar arasında aktarmak için ayrıntılı adımlar **[eSIM Platformlar Arası Aktarım 2026 kılavuzumuza](/faq/how-to-transfer-esim-between-iphone-and-android/)** bakın.
 
 **Birleşik Krallık'a indikten sonra eSIM'im neden "Servis Yok" gösteriyor?**
 En yaygın olarak, Veri Dolaşımı AÇIK değildir veya telefon hala veri için ev SIM'inizi kullanıyordur. Her iki ayarı da iki kez kontrol edin. Ayrıca, telefonunuzun ağı otomatik olarak seçecek şekilde ayarlandığından emin olun.

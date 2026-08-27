@@ -98,7 +98,7 @@ sidebar_questions:
 
 Mit der Veröffentlichung der iPhone 17-Serie ist die eSIM-Technologie in die Phase der vollständigen Verbreitung eingetreten. US-Modelle verzichten komplett auf das physische SIM-Fach, während internationale Modelle zwei gleichzeitig aktive eSIMs voll unterstützen. Basierend auf der offiziellen technischen Dokumentation von Apple (2025–2026) deckt dieser Leitfaden Kompatibilität, Sicherheit, Aktivierung, Reisen, Unternehmensverwaltung und plattformübergreifenden Transfer ab. Die [offizielle Apple eSIM-Dokumentation](https://support.apple.com/en-us/108072) bietet zusätzliche Hintergründe zur technischen Umsetzung.
 
-Wer zwei Leitungen gleichzeitig nutzen möchte – etwa eine private und eine geschäftliche Nummer – findet in unserem Guide **[Dual-eSIM funktioniert nicht? 12 Lösungen für iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** detaillierte Hilfestellung für häufige Konfigurationsprobleme.
+Wer zwei Leitungen gleichzeitig nutzen möchte – etwa eine private und eine geschäftliche Nummer – findet in unserem Guide **[Dual-eSIM funktioniert nicht? 12 Lösungen für iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)** detaillierte Hilfestellung für häufige Konfigurationsprobleme.
 
 
 ## 📌 Schnell-Diagnose-Index
@@ -156,7 +156,7 @@ Der technische Standard hinter der eSIM-Technologie wird von der [GSMA](https://
 
 **Wichtiger Hinweis für Reisende:** Wenn Sie ein iPhone 17 aus den USA besitzen und nach China reisen, können Sie dennoch eine lokale eSIM für Daten nutzen – das Gerät verbindet sich automatisch mit dem lokalen 5G-Netz via Roaming. Ein physischer SIM-Slot ist dafür nicht erforderlich. Wer jedoch ein in China gekauftes iPhone 17 (Pro oder Pro Max) besitzt, sollte beachten, dass dieses Modell keine eSIM unterstützt – hier ist die Nutzung einer Reise-eSIM nicht möglich.
 
-Für die korrekte **Aktivierung** der **eSIM** auf dem **iPhone 17** empfiehlt sich ein Blick in unseren **[iPhone 17 eSIM Komplett-Guide zur Aktivierung](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** , der alle drei Methoden (Push-to-Install, Schnellübertragung, QR-Code) detailliert beschreibt.
+Für die korrekte **Aktivierung** der **eSIM** auf dem **iPhone 17** empfiehlt sich ein Blick in unseren **[iPhone 17 eSIM Komplett-Guide zur Aktivierung](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** , der alle drei Methoden (Push-to-Install, Schnellübertragung, QR-Code) detailliert beschreibt.
 
 
 ## 3. Warum das iPhone 17 Air kein SIM-Fach mehr hat
@@ -220,7 +220,7 @@ Apple hat mit iOS 19 den bidirektionalen eSIM-Transfer zwischen Android und iPho
 2. Scannen Sie den Code mit dem Android-Gerät.
 3. Bestätigen Sie am iPhone per Face ID oder Touch ID.
 
-> **Wichtige Einschränkung:** Die **plattformübergreifende eSIM-Übertragung** wird nur von bestimmten **Anbietern** unterstützt. Prüfen Sie vor dem Gerätewechsel, ob Ihr **Anbieter** diese Funktion freigeschaltet hat. Eine detaillierte Schritt-für-Schritt-Anleitung für verschiedene Szenarien finden Sie in unserem **[Guide zum plattformübergreifenden eSIM-Transfer 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+> **Wichtige Einschränkung:** Die **plattformübergreifende eSIM-Übertragung** wird nur von bestimmten **Anbietern** unterstützt. Prüfen Sie vor dem Gerätewechsel, ob Ihr **Anbieter** diese Funktion freigeschaltet hat. Eine detaillierte Schritt-für-Schritt-Anleitung für verschiedene Szenarien finden Sie in unserem **[Guide zum plattformübergreifenden eSIM-Transfer 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 Für Nutzer, die von einem älteren iPhone-Modell (iPhone 13 oder älter) upgraden, empfiehlt sich der **native iOS-Migrationsassistent** unter `Einstellungen` > `Allgemein` > `iPhone übertragen oder zurücksetzen` – dieser überträgt nicht nur die eSIM, sondern auch alle anderen Einstellungen auf das neue Gerät.
 
@@ -234,7 +234,7 @@ Hier sind die häufigsten Probleme bei der **eSIM-Aktivierung** auf dem iPhone 1
 | **Aktivierung hängt bei „Aktivierung...“** (≥10 Min.) | Instabiles WLAN oder SM-DP+ Adressfehler | Stabile WLAN-Verbindung prüfen; Flugmodus kurz ein-/ausschalten; bei wiederholtem Fehler: **QR-Code** vom **Anbieter** neu anfordern |
 | **eSIM zeigt „Kein Netz“** | Datenroaming nicht aktiviert oder PLMN-Fehler | `Einstellungen` > `Mobilfunk` > [eSIM] > `Datenroaming` aktivieren; unter `Netzauswahl` „Automatisch“ deaktivieren und manuell einen **Anbieter** wählen. Falls Sie im Ausland reisen, muss **Datenroaming** zwingend aktiviert sein – andernfalls zeigt die eSIM dauerhaft „Kein Netz“ an. |
 | **Android-eSIM lässt sich nicht übertragen** | Lokale Netzwerkberechtigung fehlt | Auf dem iPhone: `Datenschutz & Sicherheit` > `Lokales Netzwerk` prüfen; Bluetooth auf beiden Geräten aktivieren |
-| **Dual-eSIM: Eine Nummer empfängt keine Anrufe** | T-ADS-Cache beim Anbieter veraltet | WLAN-Anrufe kurz deaktivieren, iPhone neu starten, wieder aktivieren; bei weiterem Problem: **Anbieter** bitten, den T-ADS-Cache zurückzusetzen. Eine ausführliche Anleitung zu T-ADS und anderen Dual-eSIM-Problemen finden Sie in unserem Guide **[Dual-eSIM funktioniert nicht? 12 Lösungen für iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**. |
+| **Dual-eSIM: Eine Nummer empfängt keine Anrufe** | T-ADS-Cache beim Anbieter veraltet | WLAN-Anrufe kurz deaktivieren, iPhone neu starten, wieder aktivieren; bei weiterem Problem: **Anbieter** bitten, den T-ADS-Cache zurückzusetzen. Eine ausführliche Anleitung zu T-ADS und anderen Dual-eSIM-Problemen finden Sie in unserem Guide **[Dual-eSIM funktioniert nicht? 12 Lösungen für iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)**. |
 | **US-iPhone 17 ohne SIM-Fach in China: Kein Netz** | Fehlendes Aktivierungsnetz oder lokale Sperre | Vor Abreise eine **Reise-eSIM** für China installieren; bei Ankunft manuell das lokale Netz wählen; [Apple Support](https://support.apple.com/118738) empfiehlt, die „Automatische Netzwahl“ zu deaktivieren |
 | **Kosten laufen nach eSIM-Löschung weiter** | Tarif nicht gekündigt – nur das Profil gelöscht | Die **eSIM**-Löschung beendet nicht den **Tarif** – kündigen Sie den **Vertrag** separat über die **App** oder das **Kundenportal** des **Anbieters** |
 | **DFU-Wiederherstellungsfehler 53 / 4013** | Beschädigtes eSIM-Profil blockiert Baseband | iPhone im DFU-Modus wiederherstellen; danach **eSIM** neu installieren; falls Fehler bleibt: Apple Support kontaktieren – Hardware-Defekt möglich |
@@ -262,7 +262,7 @@ Die häufigste Ursache ist eine instabile WLAN-Verbindung. Stellen Sie eine stab
 Prüfen Sie dies unter `Einstellungen` > `Allgemein` > `Info` bei **Sperre durch Anbieter**. Dort sollte „Keine SIM-Einschränkungen“ stehen. Falls eine Sperre vorhanden ist, kontaktieren Sie Ihren **Anbieter**, um eine Entsperrung zu beantragen.
 
 **F4: Kann ich zwei eSIMs gleichzeitig auf dem iPhone 17 nutzen?**
-Ja, das iPhone 17 unterstützt **Dual-eSIM** – zwei eSIM-Profile können gleichzeitig aktiv sein. Die technische Grundlage dafür wird durch den **GSMA-Standard** definiert. Eine der beiden Leitungen kann für **Sprache**, die andere für **Daten** konfiguriert werden. Eine detaillierte Anleitung zur Dual-eSIM-Konfiguration finden Sie in unserem **[Dual-eSIM Guide mit 12 Lösungen](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+Ja, das iPhone 17 unterstützt **Dual-eSIM** – zwei eSIM-Profile können gleichzeitig aktiv sein. Die technische Grundlage dafür wird durch den **GSMA-Standard** definiert. Eine der beiden Leitungen kann für **Sprache**, die andere für **Daten** konfiguriert werden. Eine detaillierte Anleitung zur Dual-eSIM-Konfiguration finden Sie in unserem **[Dual-eSIM Guide mit 12 Lösungen](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
 **F5: Welche Anbieter unterstützen die eSIM-Übertragung zwischen iPhone und Android?**
 In Deutschland unterstützt die **Telekom eSIM** die plattformübergreifende Übertragung, während **Vodafone eSIM** und **O2 eSIM** diese Funktion derzeit noch nicht flächendeckend anbieten. In den USA sind **AT&T**, **T-Mobile** und **Verizon** dabei, den Support auszubauen. Prüfen Sie vor dem Wechsel die aktuellen Bedingungen in Ihrem **Kundenportal**.

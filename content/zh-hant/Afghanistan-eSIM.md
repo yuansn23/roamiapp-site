@@ -256,7 +256,7 @@ related_products:
     is_highlight: false
     slug: united-states-esim
   - name: 歐洲 eSIM
-    flag: img/flags/ou.svg
+    flag: img/flags/eu.svg
     price: От 1,99 $
     is_highlight: false
     slug: europe-esim

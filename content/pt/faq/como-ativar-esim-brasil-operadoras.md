@@ -354,7 +354,7 @@ Mesmo seguindo todos os passos, imprevistos podem acontecer. Veja os erros mais 
 | **Erro "Perfil não suportado" (Android)** | Versão do Android desatualizada ou incompatibilidade de hardware | Atualize o sistema operacional para a versão mais recente. Verifique na lista oficial da operadora se seu modelo consta como compatível. |
 | **Falha na validação de identidade pelo WhatsApp (Vivo)** | Número não vinculado ao CPF, ou linha pré-paga sem cadastro completo | Cadastre-se previamente no app Vivo com todos os dados. Tente o fluxo via app em vez do WhatsApp. |
 
-Para um guia mais abrangente com 16 cenários de erro e soluções detalhadas, veja nosso **[Guia Avançado de Solução de Problemas eSIM](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)**.
+Para um guia mais abrangente com 16 cenários de erro e soluções detalhadas, veja nosso **[Guia Avançado de Solução de Problemas eSIM](/faq/esim-deep-troubleshooting-guide-2026/)**.
 
 ---
 
@@ -363,7 +363,7 @@ Para um guia mais abrangente com 16 cenários de erro e soluções detalhadas, v
 Turistas e estrangeiros que chegam ao Brasil também podem **ativar um eSIM** para se manter conectados sem depender de Wi-Fi público ou roaming internacional caro. As três operadoras oferecem planos específicos para visitantes.
 
 ### 8.1 Comprar um eSIM de viagem antes de chegar
-A maneira mais prática para turistas é adquirir um eSIM de dados com cobertura no Brasil ainda no país de origem. Provedores globais oferecem planos a partir de alguns dólares, com ativação instantânea ao pousar. Para detalhes, veja nossa seção de **[eSIM de viagem](/faq/Travel-eSIM-2026-How-to-Avoid-Roaming-Fees-Stay-Connected-Abroad/)**.
+A maneira mais prática para turistas é adquirir um eSIM de dados com cobertura no Brasil ainda no país de origem. Provedores globais oferecem planos a partir de alguns dólares, com ativação instantânea ao pousar. Para detalhes, veja nossa seção de **[eSIM de viagem](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/)**.
 
 ### 8.2 Contratar eSIM diretamente com operadoras brasileiras
 Se você prefere um número brasileiro local (com DDD e capacidade de fazer chamadas nacionais), pode contratar um plano diretamente com Vivo, Claro ou TIM. O processo exige passaporte (em vez de RG) e CPF de estrangeiro — que pode ser obtido no consulado brasileiro antes da viagem ou em uma unidade da Receita Federal no Brasil.

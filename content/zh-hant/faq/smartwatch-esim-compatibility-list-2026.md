@@ -89,11 +89,11 @@ sidebar_questions:
   title: "熱門問題"
   items:
     - question: "雙 eSIM 無法運作？給 iPhone 的 12 種修復方法"
-      url: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+      url: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     - question: "如何在 iPhone 和 Android 之間轉移 eSIM？"
-      url: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+      url: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     - question: "eSIM 故障排除：iPhone 與 iPad 的 16 種修復方法（iOS 26）"
-      url: "/faq/eSIM-Deep-Troubleshooting-Guide-2026/"
+      url: "/faq/esim-deep-troubleshooting-guide-2026/"
     - question: "如何在 iPhone 上啟用 eSIM（所有型號）？"
       url: "/faq/how-to-activate-esim-on-iphone/"
 ---

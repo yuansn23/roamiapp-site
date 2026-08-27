@@ -37,10 +37,10 @@ recentPosts:
     permalink: "/compatibility/"
     date: "2026-05-26"
   - title: "Transferencia de eSIM multiplataforma 2026"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "¿Doble eSIM no funciona? 12 soluciones para iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Lista completa de compatibilidad eSIM para smartwatches"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -52,7 +52,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "Guía definitiva 2026: Soluciones de activación eSIM para iPhone 17"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 El Gran Cortafuegos de China bloquea Google, WhatsApp, Instagram, YouTube, Facebook, Twitter y cientos de otros servicios en las redes chinas. Una eSIM con enrutamiento internacional (Hong Kong o Singapur) elude estos bloqueos automáticamente, sin necesidad de configurar una VPN. Una eSIM que evita el cortafuegos de China enruta los datos a través de servidores de Hong Kong, evitando por completo la inspección china. Para un acceso a internet sin restricciones en China, un plan de eSIM con enrutamiento por Hong Kong es la opción más sencilla. Muchos viajeros buscan una solución de eSIM para acceder a Google en China precisamente para mantener Maps y Gmail accesibles durante todo su viaje. Roami ofrece este tipo de enrutamiento integrado con conmutación automática entre los tres operadores chinos: China Mobile, Unicom y Telecom. Esta guía explica cómo funciona el cortafuegos, qué estrategias de eSIM lo eluden de forma fiable y las instrucciones de configuración paso a paso. Según [Wikipedia](https://en.wikipedia.org/wiki/Great_Firewall), el cortafuegos utiliza múltiples técnicas de inspección. Para conocer la compatibilidad de tu dispositivo con eSIM, visita [Soporte de Apple](https://support.apple.com/en-us/HT212780). Para datos de velocidad independientes, consulta [Ookla](https://www.speedtest.net/global-index).

@@ -101,7 +101,7 @@ sidebar_questions:
 
 ## Riepilogo essenziale (Risposta rapida)
 
-Il modo più veloce e affidabile per acquistare un'[eSIM per il Regno Unito](/United-Kingdom-esim/) si riduce a tre semplici passaggi:
+Il modo più veloce e affidabile per acquistare un'[eSIM per il Regno Unito](/united-kingdom-esim/) si riduce a tre semplici passaggi:
 
 1. **Verifica la compatibilità**: Componi **\*#06#** sul tuo telefono. Se vedi un numero **EID**, il tuo telefono supporta l'eSIM. (Nota: i modelli iPhone 14/15/16 USA sono solo eSIM).
 2. **Scegli il tuo piano**: Per viaggi brevi o tour multi-paese in Europa (1-30 giorni), acquista un'**eSIM Roami** direttamente—nessun documento richiesto, pronta all'istante. Per soggiorni lunghi (1 mese+), opta per un piano Pay As You Go locale di **EE** o **Lebara**.

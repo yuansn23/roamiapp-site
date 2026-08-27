@@ -240,7 +240,7 @@ Prima di tentare di attivare un eSIM, assicurati di verificare questi due punti 
 - **Perché succede:** La tua connessione Wi-Fi è caduta, o la rete dell'operatore nella tua posizione attuale è debole.
 - **Soluzione:** Non eliminare l'eSIM. Attiva la **Modalità aereo** per 30 secondi, quindi disattivala. Se è ancora bloccato, riavvia il telefono. L'attivazione di solito riprenderà e si completerà in background.
 
-> **Hai bisogno di assistenza più avanzata?** Per una risoluzione dei problemi più approfondita che copre problemi di doppia eSIM, loop di attivazione ed errori specifici dell'operatore, consulta la nostra **[Guida approfondita alla risoluzione dei problemi eSIM 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)**. Se hai problemi specifici con la doppia eSIM su iPhone, consulta **[Doppia eSIM iPhone non funziona? 12 soluzioni](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** – molte di quelle soluzioni si applicano anche ad altri dispositivi.
+> **Hai bisogno di assistenza più avanzata?** Per una risoluzione dei problemi più approfondita che copre problemi di doppia eSIM, loop di attivazione ed errori specifici dell'operatore, consulta la nostra **[Guida approfondita alla risoluzione dei problemi eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)**. Se hai problemi specifici con la doppia eSIM su iPhone, consulta **[Doppia eSIM iPhone non funziona? 12 soluzioni](/faq/dual-esim-not-working-12-fixes-for-iphone/)** – molte di quelle soluzioni si applicano anche ad altri dispositivi.
 
 ## FAQ (Le persone chiedono anche)
 
@@ -260,7 +260,7 @@ Su iPhone, vai su **Impostazioni > Generali > Info** e scorri fino alla sezione 
 Sì. Molti **strumenti di verifica compatibilità esim** online accettano un numero IMEI. Puoi anche controllare le specifiche ufficiali del produttore per quel modello. Questo è particolarmente utile quando acquisti un telefono da eBay o da un mercato dell'usato.
 
 **Posso trasferire il mio eSIM dal vecchio telefono a uno nuovo?**
-Sì – ma il metodo dipende dal tuo operatore e dai modelli di telefono. Per istruzioni dettagliate che coprono entrambe le piattaforme, consulta **[Come trasferire eSIM tra iPhone e Android](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+Sì – ma il metodo dipende dal tuo operatore e dai modelli di telefono. Per istruzioni dettagliate che coprono entrambe le piattaforme, consulta **[Come trasferire eSIM tra iPhone e Android](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 ## Conclusione
 

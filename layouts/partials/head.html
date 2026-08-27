@@ -165,9 +165,9 @@
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "Roami",
-    "url": {{ .Site.BaseURL | jsonify }},
-    "logo": {{ "img/logo.png" | absURL | jsonify }},
-    "description": {{ $orgDesc | jsonify }},
+    "url": {{ .Site.BaseURL | jsonify | safeJS }},
+    "logo": {{ "img/logo.png" | absURL | jsonify | safeJS }},
+    "description": {{ $orgDesc | jsonify | safeJS }},
     "sameAs": [
       "https://apps.apple.com/app/id6747127122",
       "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
@@ -198,7 +198,7 @@
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "Roami Global Travel eSIM",
-      "description": {{ $productDesc | jsonify }},
+      "description": {{ $productDesc | jsonify | safeJS }},
       "brand": {
         "@type": "Brand",
         "name": "Roami"

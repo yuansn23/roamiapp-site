@@ -269,7 +269,7 @@ Según la documentación oficial de Apple, la eSIM es compatible con una amplia 
 - iPad (A16) – solo eSIM
 - iPad Pro, Air, mini más antiguos (3ª generación y posteriores) – eSIM única + SIM física
 
-> 📱 **¿Actualizando a un iPhone 17?** Nuestra **[Guía Completa eSIM para iPhone 17](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** te guía paso a paso en la activación.
+> 📱 **¿Actualizando a un iPhone 17?** Nuestra **[Guía Completa eSIM para iPhone 17](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** te guía paso a paso en la activación.
 
 ---
 
@@ -321,7 +321,7 @@ Configurar eSIM es sorprendentemente simple. Para aprender **como activar eSIM e
 - Compra un plan y toca "Instalar eSIM" – la aplicación lo instala automáticamente. Puedes **comprar eSIM** para destinos como **eSIM USA**, **eSIM Japón**, **eSIM España**, **eSIM México**, **eSIM UK**, **eSIM Marruecos**, **eSIM Tailandia** o **eSIM Andorra**.
 
 ### Método 4: Transferencia desde Android (iOS 19+)
-- Si cambias de un teléfono Android, ahora puedes transferir tu eSIM directamente – sin necesidad de llamar a tu operador. Consulta la guía **[Transferencia eSIM Multiplataforma 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** para instrucciones paso a paso.
+- Si cambias de un teléfono Android, ahora puedes transferir tu eSIM directamente – sin necesidad de llamar a tu operador. Consulta la guía **[Transferencia eSIM Multiplataforma 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)** para instrucciones paso a paso.
 
 ---
 
@@ -379,7 +379,7 @@ R: La eSIM es compatible con cientos de operadores en todo el mundo. Apple propo
 R: En absoluto. La mayoría de las activaciones de eSIM tardan menos de 60 segundos. Para aprender el proceso paso a paso, visita nuestra [guía de activación eSIM](/faq/how-to-activate-an-esim/). Si puedes escanear un código QR o tocar un botón en una aplicación, puedes usar eSIM.
 
 **P9: ¿Qué significa "eSIM dual"?**
-R: La eSIM dual significa que tu teléfono puede mantener **dos perfiles eSIM activos al mismo tiempo**. Por ejemplo, podrías tener la eSIM de tu operador local (para llamadas/SMS) y una eSIM de viaje (para datos) ambas activas, sin necesidad de una SIM física. A partir del iPhone 13, todos los modelos admiten eSIM dual. Algunos teléfonos Android también admiten esta función. Si tienes problemas con la configuración dual, consulta nuestra guía **[¿Doble eSIM no funciona? 12 Soluciones para iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+R: La eSIM dual significa que tu teléfono puede mantener **dos perfiles eSIM activos al mismo tiempo**. Por ejemplo, podrías tener la eSIM de tu operador local (para llamadas/SMS) y una eSIM de viaje (para datos) ambas activas, sin necesidad de una SIM física. A partir del iPhone 13, todos los modelos admiten eSIM dual. Algunos teléfonos Android también admiten esta función. Si tienes problemas con la configuración dual, consulta nuestra guía **[¿Doble eSIM no funciona? 12 Soluciones para iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
 **P10: ¿Cuál es la mejor eSIM para Japón?**
 R: La "mejor" depende de tus necesidades – volumen de datos, velocidad y precio. Muchos viajeros usan Roami (cobertura 5G), Airalo o Ubigi. Nuestra página de eSIM para Japón (ver barra lateral) ofrece planes desde $1.99 con 5G. Siempre verifica que tu teléfono esté desbloqueado y admita las bandas de frecuencia requeridas.

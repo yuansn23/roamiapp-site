@@ -58,10 +58,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "2026 跨平台 eSIM 轉移"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "雙 eSIM 無法運作？12 個 iPhone 解決方法"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "智慧手錶 eSIM 相容性完整列表"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -73,7 +73,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 終極指南：iPhone 17 eSIM 啟用解決方案"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -341,7 +341,7 @@ recentPosts:
 
 ### 7.3 雙卡雙待用戶（主門號月租 + 副門號預付卡）
 - **需求**：主門號用於公務，副門號用於私人通話或特定應用（如蝦皮、外送註冊）。
-- **推薦**：中華或台哥大預付卡 eSIM 設為副線路，主 SIM 卡槽保留給月租門號。eSIM 不佔用實體卡槽，實現真正的雙卡雙待。若遇到雙 eSIM 切換問題，可參考 [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)。
+- **推薦**：中華或台哥大預付卡 eSIM 設為副線路，主 SIM 卡槽保留給月租門號。eSIM 不佔用實體卡槽，實現真正的雙卡雙待。若遇到雙 eSIM 切換問題，可參考 [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/dual-esim-not-working-12-fixes-for-iphone/)。
 
 ### 7.4 預算有限的學生
 - **需求**：每月流量低於 3GB，希望控制支出。
@@ -363,7 +363,7 @@ recentPosts:
 會。最後一次儲值（無論金額）後 180 天門號失效。延長方式：購買最低 NT$300 儲值卡（超商或 App）即可再延 180 天。逾期未儲值，門號將被回收。
 
 **Q3：我可以把預付卡 eSIM 轉移到新手機嗎？**  
-可以。需重新掃描原本的 QR 碼。若 QR 碼遺失，須至門市補發（費用 NT$300）。台哥大用戶可嘗試透過 App 重新產生 QR 碼。更多跨平台轉移細節可參閱[2026 跨平台 eSIM 轉移](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)。
+可以。需重新掃描原本的 QR 碼。若 QR 碼遺失，須至門市補發（費用 NT$300）。台哥大用戶可嘗試透過 App 重新產生 QR 碼。更多跨平台轉移細節可參閱[2026 跨平台 eSIM 轉移](/faq/how-to-transfer-esim-between-iphone-and-android/)。
 
 **Q4：遠傳預付卡未來會開放 eSIM 嗎？**  
 截至 2026 年 5 月，遠傳客服表示「無相關規劃」。但隨著市場趨勢，不排除未來跟進。建議有 eSIM 需求的用戶先選擇中華或台哥大。
@@ -380,7 +380,7 @@ recentPosts:
 可以。持護照+第二證件（如居留證、入出境許可證或國際駕照）即可辦理。部分門市可能要求提供在台地址（可填飯店或學校）。
 
 **Q8：如果 eSIM 安裝失敗怎麼辦？**  
-請先確認手機已連線 Wi-Fi、QR 碼未過期。若仍失敗，可參考 [eSIM 深度故障排除指南 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/) 或 [iPhone 雙 eSIM 無法運作？12 種修復方法](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)。
+請先確認手機已連線 Wi-Fi、QR 碼未過期。若仍失敗，可參考 [eSIM 深度故障排除指南 2026](/faq/esim-deep-troubleshooting-guide-2026/) 或 [iPhone 雙 eSIM 無法運作？12 種修復方法](/faq/dual-esim-not-working-12-fixes-for-iphone/)。
 
 ---
 
@@ -406,7 +406,7 @@ recentPosts:
 ## 🔗 延伸閱讀
 
 - [如何在 iPhone 上啟用 eSIM（所有型號）](/faq/how-to-activate-esim-on-iphone/)
-- [eSIM 深度故障排除指南 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)
+- [eSIM 深度故障排除指南 2026](/faq/esim-deep-troubleshooting-guide-2026/)
 - [智慧手錶 eSIM 相容性完整列表](/faq/smartwatch-esim-compatibility-list-2026/)
 - [iPhone 11 eSIM 完整設定指南](/faq/iphone-11-esim-compatible/)
 - [Samsung S20 eSIM 相容性問題](/faq/samsung-s20-esim-compatible/)

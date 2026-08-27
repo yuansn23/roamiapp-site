@@ -58,10 +58,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "2026 跨平台 eSIM 轉移"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "雙 eSIM 無法運作？12 個 iPhone 解決方法"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "智慧手錶 eSIM 相容性完整列表"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -73,7 +73,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 終極指南：iPhone 17 eSIM 啟用解決方案"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -197,14 +197,14 @@ recentPosts:
 設定 → 行動服務 → 行動數據 → 選擇 eSIM 線路  
 設定 → 行動服務 → 預設語音線路 → 選擇實體 SIM 線路
 
-> 注意：部分國際 eSIM 不支援熱點分享，購買前請確認產品說明。若遇到雙 eSIM 無法同時運作的情況，可參考 [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)。同時，當你啟用 eSIM 後，原本的實體 SIM 卡仍可正常使用，無需取出；若想了解「eSIM 激活後原實體 SIM 卡失效怎麼辦」，請見下方「常見問題」Q6。
+> 注意：部分國際 eSIM 不支援熱點分享，購買前請確認產品說明。若遇到雙 eSIM 無法同時運作的情況，可參考 [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/dual-esim-not-working-12-fixes-for-iphone/)。同時，當你啟用 eSIM 後，原本的實體 SIM 卡仍可正常使用，無需取出；若想了解「eSIM 激活後原實體 SIM 卡失效怎麼辦」，請見下方「常見問題」Q6。
 
 ---
 
 ## 六、常見問題（台灣用戶專區）
 
 **Q1：iPad 可以同時使用兩個 eSIM 嗎？**  
-可以。較新機型支援儲存多個 eSIM 設定檔，但同時只能啟用一個數據線路。例如可先後儲存中華、台哥大、日本旅行 eSIM，需要時手動切換。想了解跨平台轉移 eSIM 的方法，請見 [2026 跨平台 eSIM 轉移](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)。
+可以。較新機型支援儲存多個 eSIM 設定檔，但同時只能啟用一個數據線路。例如可先後儲存中華、台哥大、日本旅行 eSIM，需要時手動切換。想了解跨平台轉移 eSIM 的方法，請見 [2026 跨平台 eSIM 轉移](/faq/how-to-transfer-esim-between-iphone-and-android/)。
 
 **Q2：為什麼我的 iPad 掃描 QR 碼後顯示「不支援此 eSIM」？**  
 可能原因：該 eSIM 僅限手機使用；或你的 iPad 機型較舊（例如 iPad mini 5 部分批次有地區限制）；或 iPadOS 版本過舊（需 16.1 以上）。可嘗試更新至最新 iPadOS。
@@ -219,7 +219,7 @@ recentPosts:
 國際 eSIM 在中國大陸仍會遭遇防火長牆，需搭配 VPN。本地中國聯通、中國移動的 eSIM 僅限大陸居民申辦，台灣旅客難以取得。建議使用國際 eSIM + 自備 VPN。一般性的 eSIM 故障排除，可參考我們的 [eSIM 深度故障排除完整指南（16 個真實案例）](/faq/esim-deep-troubleshooting-guide-2026/)。
 
 **Q6：eSIM 激活後原實體 SIM 卡失效怎麼辦？**  
-啟用 eSIM 並不會導致原實體 SIM 卡失效。兩者可同時並存，你可以隨時在「設定 > 行動服務」中切換預設數據線路。若你發現實體 SIM 卡無服務，請檢查是否誤關閉該線路，或聯繫電信商確認卡片狀態。如果打算完全轉移至 eSIM 並停用實體卡，請保留原 SIM 卡作為備用。更多跨設備轉移技巧請見 [2026 跨平台 eSIM 轉移](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)。
+啟用 eSIM 並不會導致原實體 SIM 卡失效。兩者可同時並存，你可以隨時在「設定 > 行動服務」中切換預設數據線路。若你發現實體 SIM 卡無服務，請檢查是否誤關閉該線路，或聯繫電信商確認卡片狀態。如果打算完全轉移至 eSIM 並停用實體卡，請保留原 SIM 卡作為備用。更多跨設備轉移技巧請見 [2026 跨平台 eSIM 轉移](/faq/how-to-transfer-esim-between-iphone-and-android/)。
 
 **Q7：中國移動或中國聯通是否支援 iPad eSIM？**  
 目前中國大陸三大運營商（中國移動、中國聯通、中國電信）的 eSIM 服務主要針對智慧手錶，尚未對 iPad 開放。短期前往中國大陸的旅客，建議購買國際漫遊 eSIM（如 Roami、Airalo 等）。
@@ -237,7 +237,7 @@ recentPosts:
 ## 🔗 延伸閱讀
 
 - [eSIM 深度故障排除完整指南（16 個真實案例）](/faq/esim-deep-troubleshooting-guide-2026/)
-- [2026 跨平台 eSIM 轉移](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
+- [2026 跨平台 eSIM 轉移](/faq/how-to-transfer-esim-between-iphone-and-android/)
 - [智慧手錶 eSIM 相容性完整列表](/faq/smartwatch-esim-compatibility-list-2026/)
 - [eSIM vs 實體 SIM 在台灣的完整比較](/blog/esim-vs-physical-sim-taiwan-complete-guide)
 - [台灣預付卡 eSIM 完全指南](/blog/taiwan-prepaid-esim-guide-2026)

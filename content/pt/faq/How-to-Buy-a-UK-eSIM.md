@@ -107,7 +107,7 @@ A maneira mais rápida e confiável de comprar um [eSIM Reino Unido](/united-kin
 2. **Escolha Seu Plano**: Para viagens curtas ou tours pela Europa com vários países (1-30 dias), compre um **eSIM de viagem Reino Unido** diretamente—sem necessidade de identificação, pronto instantaneamente. Para estadias longas (1 mês+), opte por um plano local **UK eSIM pay as you go** da EE ou Lebara.
 3. **Escaneie e Vá**: Escaneie o código QR do seu e-mail antes do voo. Ative o **Roaming de Dados** ao pousar em Heathrow e você estará conectado.
 
-A tecnologia por trás do eSIM é regida pelo [padrão GSMA SGP.22](https://www.gsma.com/esim/), garantindo interoperabilidade global entre dispositivos e operadoras. A [página de suporte oficial da Apple para eSIM](https://support.apple.com/en-us/108072) fornece informações detalhadas sobre modelos de iPhone compatíveis. Se você é novo na tecnologia eSIM, nosso [guia O que é eSIM?](/faq/What-Is-eSIM/) cobre o básico.
+A tecnologia por trás do eSIM é regida pelo [padrão GSMA SGP.22](https://www.gsma.com/esim/), garantindo interoperabilidade global entre dispositivos e operadoras. A [página de suporte oficial da Apple para eSIM](https://support.apple.com/en-us/108072) fornece informações detalhadas sobre modelos de iPhone compatíveis. Se você é novo na tecnologia eSIM, nosso [guia O que é eSIM?](/faq/what-is-esim/) cobre o básico.
 
 ![Infográfico simples mostrando os passos principais: Verificar Compatibilidade -> Comprar eSIM de Viagem Online -> Escanear para Instalar -> Ativar ao Pousar](/img/uk-esim/1.jpg)
 
@@ -254,7 +254,7 @@ Muitos turistas americanos e internacionais visitam o Reino Unido como parte de 
 
 ## Guia de Instalação do eSIM Reino Unido – Ative em 3 Passos
 
-Instalar um eSIM agora é tão fácil quanto adicionar um cartão de embarque à sua carteira digital. Você não precisa mais lidar com pequenas ferramentas de extração de SIM. Para um tutorial completo em iPhones, consulte nosso **[Guia Completo do iPhone 17 eSIM](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)**.
+Instalar um eSIM agora é tão fácil quanto adicionar um cartão de embarque à sua carteira digital. Você não precisa mais lidar com pequenas ferramentas de extração de SIM. Para um tutorial completo em iPhones, consulte nosso **[Guia Completo do iPhone 17 eSIM](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)**.
 
 1. **Compre e Receba:** Compre seu **eSIM Reino Unido** online e receba um código QR por e-mail.
 2. **Escaneie para Instalar:** Enquanto estiver conectado ao Wi-Fi (idealmente antes do voo), vá em **Configurações > Celular (ou Dados Móveis) > Adicionar eSIM** e escaneie o código QR.
@@ -314,7 +314,7 @@ Se após a **ativação do eSIM** nenhuma rede de dados estiver disponível, as 
 | **Vodafone** | internet | (em branco) | (em branco) |
 | **Three** | three.co.uk | (em branco) | (em branco) |
 
-Para solução de problemas mais avançada, consulte nosso **[Guia de Solução de Problemas Avançada de eSIM 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)** e **[Dual eSIM Não Funciona? 12 Correções para iPhone](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**.
+Para solução de problemas mais avançada, consulte nosso **[Guia de Solução de Problemas Avançada de eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)** e **[Dual eSIM Não Funciona? 12 Correções para iPhone](/faq/dual-esim-not-working-12-fixes-for-iphone/)**.
 
 
 ## Como Evitar Armadilhas na Compra de eSIM Reino Unido – Taxas Ocultas e Planos "Ilimitados" Falsos
@@ -366,7 +366,7 @@ eSIMs de viagem puros são "Apenas Dados" e **não incluem** um número de telef
 Você pode recarregar facilmente online. Basta fazer login no site ou aplicativo onde comprou o eSIM, comprar um pacote adicional e os dados serão creditados automaticamente – sem necessidade de escanear um novo código QR.
 
 **Posso transferir meu eSIM Reino Unido para um novo telefone?**
-A maioria dos eSIMs de viagem são de instalação única e não podem ser transferidos. Para eSIMs de operadoras pós-pagas (EE, Vodafone, etc.), entre em contato com sua operadora. Para passos detalhados sobre transferência de eSIMs entre dispositivos, consulte nosso **[guia de Transferência de eSIM entre Plataformas 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**.
+A maioria dos eSIMs de viagem são de instalação única e não podem ser transferidos. Para eSIMs de operadoras pós-pagas (EE, Vodafone, etc.), entre em contato com sua operadora. Para passos detalhados sobre transferência de eSIMs entre dispositivos, consulte nosso **[guia de Transferência de eSIM entre Plataformas 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
 
 **Por que meu eSIM está mostrando "Sem Serviço" após pousar no Reino Unido?**
 O mais comum é que o Roaming de Dados não esteja ativado, ou o telefone ainda esteja usando seu SIM doméstico para dados. Verifique ambas as configurações. Além disso, certifique-se de que seu telefone está configurado para selecionar a rede automaticamente.

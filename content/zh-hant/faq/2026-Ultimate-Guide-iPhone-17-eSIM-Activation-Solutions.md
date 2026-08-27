@@ -92,7 +92,7 @@ sidebar_questions:
       url: "/compatibility/"
 ---
 
-> 隨著 **iPhone 17** 系列的推出，**eSIM** 技術進入了全面普及的階段。美國版機型完全取消了實體 SIM 卡槽，而國際版機型則完全支援兩張活躍 eSIM 同時運作。在本指南中，您將了解 **如何在 iPhone 17 上設定 eSIM**、**設定雙重 eSIM**、**購買旅遊 eSIM**（土耳其、埃及、中國、烏茲別克、哈薩克），以及如何從 Android 轉移 eSIM 並解決典型問題。對於希望從 Android 手機轉移 eSIM 的使用者，請參閱我們的指南 **[「2026 年 iPhone 與 Android 之間轉移 eSIM」](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**。
+> 隨著 **iPhone 17** 系列的推出，**eSIM** 技術進入了全面普及的階段。美國版機型完全取消了實體 SIM 卡槽，而國際版機型則完全支援兩張活躍 eSIM 同時運作。在本指南中，您將了解 **如何在 iPhone 17 上設定 eSIM**、**設定雙重 eSIM**、**購買旅遊 eSIM**（土耳其、埃及、中國、烏茲別克、哈薩克），以及如何從 Android 轉移 eSIM 並解決典型問題。對於希望從 Android 手機轉移 eSIM 的使用者，請參閱我們的指南 **[「2026 年 iPhone 與 Android 之間轉移 eSIM」](/faq/how-to-transfer-esim-between-iphone-and-android/)**。
 
 ---
 
@@ -149,7 +149,7 @@ sidebar_questions:
 - **國際市場（歐盟、英國、澳洲）**：大多數機型支援 **雙重 eSIM** 或混合配置（1 張 Nano-SIM + 1 張 eSIM）。
 - **iPhone 17 Air（全球首款）**：此機型獨特之處在於 – 它在全球（包括中國大陸）都沒有 SIM 卡槽，使其成為數位遊牧者最通用的裝置。
 
-如果您打算同時使用兩條線路（例如，家庭門號和旅遊 eSIM），請參閱我們的指南 **[「雙重 eSIM 無法使用？12 個 iPhone 解決方案」](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** 以獲得進階建議。
+如果您打算同時使用兩條線路（例如，家庭門號和旅遊 eSIM），請參閱我們的指南 **[「雙重 eSIM 無法使用？12 個 iPhone 解決方案」](/faq/dual-esim-not-working-12-fixes-for-iphone/)** 以獲得進階建議。
 
 **如何知道手機是否支援 eSIM？** – 撥打 `*#06#`。如果出現 32 位元的 **EID**，則您的裝置相容於 eSIM。在 **iPhone 17** 上，EID 會自動顯示。
 
@@ -266,7 +266,7 @@ Apple 在 iOS 26 中首次開放了 **Android 與 iPhone 之間雙向轉移 eSIM
 3. 在 Android 上確認，然後在 iPhone 上按兩下側邊按鈕以確認。
 4. 轉移完成後，iPhone 上的 eSIM 會自動停用。
 
-> **注意**：跨平台轉移僅受部分電信業者支援（例如，美國：AT&T、T‑Mobile、Verizon；英國：EE；日本：KDDI）。如果不支援，請聯繫電信業者以取得新的 QR 碼。如需詳細說明和故障排除，請造訪我們的專門指南 **[「2026 年跨平台 eSIM 轉移」](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)**。
+> **注意**：跨平台轉移僅受部分電信業者支援（例如，美國：AT&T、T‑Mobile、Verizon；英國：EE；日本：KDDI）。如果不支援，請聯繫電信業者以取得新的 QR 碼。如需詳細說明和故障排除，請造訪我們的專門指南 **[「2026 年跨平台 eSIM 轉移」](/faq/how-to-transfer-esim-between-iphone-and-android/)**。
 
 ---
 
@@ -298,7 +298,7 @@ Apple 在 iOS 26 中首次開放了 **Android 與 iPhone 之間雙向轉移 eSIM
 
 ## 10. 常見問答與故障排除（iPhone 17 特定）
 
-> **更深入的故障排除（16 個真實案例）**：本節涵蓋常見問題。對於此處未列出的複雜問題（例如，eSIM 已綁定其他裝置、雙 SIM 訊號衝突、DFU 53 錯誤），請參閱我們的 **[「2026 年 eSIM 完整故障排除指南」](/faq/esim-deep-troubleshooting-guide-2026/)**，其中包含 16 個詳細案例，包括症狀、原因和解決方案。如果您在使用兩張 SIM 卡時遇到語音或數據衝突，也請參閱 **[「雙重 eSIM 無法使用？12 個 iPhone 解決方案」](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)**。
+> **更深入的故障排除（16 個真實案例）**：本節涵蓋常見問題。對於此處未列出的複雜問題（例如，eSIM 已綁定其他裝置、雙 SIM 訊號衝突、DFU 53 錯誤），請參閱我們的 **[「2026 年 eSIM 完整故障排除指南」](/faq/esim-deep-troubleshooting-guide-2026/)**，其中包含 16 個詳細案例，包括症狀、原因和解決方案。如果您在使用兩張 SIM 卡時遇到語音或數據衝突，也請參閱 **[「雙重 eSIM 無法使用？12 個 iPhone 解決方案」](/faq/dual-esim-not-working-12-fixes-for-iphone/)**。
 
 **Q1: 我將帶著美國版（無 SIM 卡槽）iPhone 17 前往中國。如何保持連線？**  
 A: 您可以直接在 Roami App 中購買 **中國 eSIM**。Roami 會在抵達後透過漫遊協定自動連接到當地 5G 訊號 – 無需實體 SIM 卡槽。
@@ -358,8 +358,8 @@ iPhone 17 系列使 eSIM 成為標準 – 而不僅僅是一個選項。無論�
 
 > 📎 **本站相關資源：**
 > - [eSIM 完整故障排除指南（16 個真實案例）](/faq/esim-deep-troubleshooting-guide-2026/)
-> - [2026 年跨平台 eSIM 轉移指南](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
-> - [雙重 eSIM 無法使用？12 個 iPhone 解決方案](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+> - [2026 年跨平台 eSIM 轉移指南](/faq/how-to-transfer-esim-between-iphone-and-android/)
+> - [雙重 eSIM 無法使用？12 個 iPhone 解決方案](/faq/dual-esim-not-working-12-fixes-for-iphone/)
 > - [最新的 eSIM 相容手機清單](/compatibility/)
 > - [購買土耳其、埃及、中國等國的 eSIM](/plans/)
 > - [ESIM 運作原理](/faq/what-is-esim-activation-and-how-does-it-work/)

@@ -210,7 +210,7 @@ Apple'ın resmi belgelerine göre, eSIM çok çeşitli iPhone ve iPad'lerde dest
 > **Yaygın soru:** "Hangi iPhone'lar eSIM'i destekler?" – iPhone XS veya daha yeni herhangi bir model çalışır.
 > **Eski telefonlar için:** iPhone 8 veya daha eski bir sürümünüz varsa, eSIM kullanamazsınız; fiziksel bir SIM'e ihtiyacınız olacaktır.
 
-> 📱 **iPhone 17'ye yükseltme mi yapıyorsunuz?** **[iPhone 17 eSIM Tam Kılavuzumuz](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)** sizi adım adım etkinleştirme konusunda yönlendirir.
+> 📱 **iPhone 17'ye yükseltme mi yapıyorsunuz?** **[iPhone 17 eSIM Tam Kılavuzumuz](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)** sizi adım adım etkinleştirme konusunda yönlendirir.
 
 ### eSIM Destekli iPad'ler (Hücresel modeller)
 - 13" ve 11" iPad Pro (M4, M5) – yalnızca eSIM, SIM tepsisi yok
@@ -234,7 +234,7 @@ GSMA'nın eSIM teknik özelliği **SGP.21**, bir profilin bir eUICC'den diğerin
 ### 5.3 Kurumsal Kontrol
 Cihaz yönetimi (MDM) kullanarak, şirketler kullanıcıların eSIM eklemesini veya kaldırmasını engelleyebilir (`AllowESIMModification` kısıtlaması). Bu, kurumsal bir telefon numarasının cihazda kalmasını ve yanlışlıkla aktarılamamasını sağlar.
 
-Gelişmiş çift SIM güvenlik sorunları için, **[Çift eSIM Çalışmıyor mu? iPhone için 12 Düzeltme](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** kılavuzumuza göz atın.
+Gelişmiş çift SIM güvenlik sorunları için, **[Çift eSIM Çalışmıyor mu? iPhone için 12 Düzeltme](/faq/dual-esim-not-working-12-fixes-for-iphone/)** kılavuzumuza göz atın.
 
 ---
 
@@ -257,7 +257,7 @@ eSIM kurmak şaşırtıcı derecede basittir. İşte en yaygın yöntemler:
 - Bir plan satın alın ve "eSIM Yükle"ye dokunun – uygulama otomatik olarak yükler.
 
 ### Yöntem 4: Android'den Aktarım (iOS 19+)
-- Android telefondan geçiş yapıyorsanız, eSIM'inizi doğrudan aktarabilirsiniz – operatörünüzü aramanıza gerek yok. Adım adım talimatlar için **[eSIM Platformlar Arası Aktarım 2026](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** kılavuzuna bakın.
+- Android telefondan geçiş yapıyorsanız, eSIM'inizi doğrudan aktarabilirsiniz – operatörünüzü aramanıza gerek yok. Adım adım talimatlar için **[eSIM Platformlar Arası Aktarım 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)** kılavuzuna bakın.
 
 ---
 
@@ -369,7 +369,7 @@ Bu, **çift eSIM'in** çalışma şeklidir. Ev SIM'inizi çıkarmanıza veya dev
 
 Ve eğer "küresel eSIM nedir" diye merak ediyorsanız – bu sadece birçok ülkede çalışan bir seyahat eSIM'dir (örneğin, Avrupa çapında veya Asya çapında plan). Roami, tamamı dijital olarak yönetilen bölgesel ve küresel planlar sunar.
 
-Çift eSIM ile ilgili sorun yaşıyorsanız, **[Çift eSIM Çalışmıyor mu? iPhone için 12 Düzeltme](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** kılavuzumuz yaygın sorunları ve çözümlerini kapsar.
+Çift eSIM ile ilgili sorun yaşıyorsanız, **[Çift eSIM Çalışmıyor mu? iPhone için 12 Düzeltme](/faq/dual-esim-not-working-12-fixes-for-iphone/)** kılavuzumuz yaygın sorunları ve çözümlerini kapsar.
 
 ---
 

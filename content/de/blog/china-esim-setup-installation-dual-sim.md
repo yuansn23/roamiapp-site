@@ -37,10 +37,10 @@ recentPosts:
     permalink: "/compatibility/"
     date: "2026-05-26"
   - title: "2026 Plattformübergreifende eSIM-Übertragung"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Duale eSIM funktioniert nicht? 12 Lösungen für iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Smartwatch-eSIM-Kompatibilitätsliste vollständig"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -52,7 +52,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 Ultimativer Leitfaden: iPhone 17 eSIM-Aktivierungslösungen"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 Dieser Leitfaden behandelt die Installation einer eSIM für China in etwa 10 Minuten – aber Sie müssen dies vor Ihrem Flug tun. Nachdem Sie Ihre China-eSIM bei der Landung aktiviert haben, beginnt der Datenfluss innerhalb von 60 Sekunden. Beginnen Sie mit dem Online-Kauf eines Tarifs und scannen Sie dann den QR-Code auf Ihrem iPhone oder Android. Richten Sie den Dual-SIM-Modus ein, um Ihre Heimnummer für SMS aktiv zu halten, während die eSIM die Daten übernimmt. Dieser Leitfaden führt Sie durch Kompatibilitätsprüfungen, iPhone- und Android-Einrichtung, APN-Konfiguration, Hotspot-Tethering und häufige Fehlerbehebungen. Offizielle Gerätelisten finden Sie unter [Apple Support](https://support.apple.com/en-us/HT212780). Die [GSMA](https://www.gsma.com) pflegt die technischen eSIM-Spezifikationen.

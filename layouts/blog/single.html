@@ -20,26 +20,26 @@
         "@graph": [
             {
                 "@type": "Article",
-                "headline": {{ .Title | jsonify }},
-                "description": {{ .Description | default (.Summary | plainify | truncate 160) | jsonify }},
-                "image": {{ .Params.image | default .Site.Params.defaultImage | absURL | jsonify }},
+                "headline": {{ .Title | jsonify | safeJS }},
+                "description": {{ .Description | default (.Summary | plainify | truncate 160) | jsonify | safeJS }},
+                "image": {{ .Params.image | default .Site.Params.defaultImage | absURL | jsonify | safeJS }},
                 "author": {
                     "@type": "Person",
-                    "name": {{ .Params.author | default "Roami Redaktion" | jsonify }}
+                    "name": {{ .Params.author | default "Roami Redaktion" | jsonify | safeJS }}
                 },
                 "publisher": {
                     "@type": "Organization",
                     "name": "Roami",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": {{ .Site.Params.logo | absURL | jsonify }}
+                        "url": {{ .Site.Params.logo | absURL | jsonify | safeJS }}
                     }
                 },
                 "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
                 "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
                 "mainEntityOfPage": {
                     "@type": "WebPage",
-                    "@id": {{ .Permalink | absURL | safeURL | jsonify }}
+                    "@id": {{ .Permalink | absURL | safeURL | jsonify | safeJS }}
                 }
             },
             {
@@ -62,9 +62,9 @@
                         {
                             "@type": "ListItem",
                             "position": {{ $entry.position }},
-                            "name": {{ $entry.name | jsonify }}
+                            "name": {{ $entry.name | jsonify | safeJS }}
                             {{- if $entry.url -}}
-                                , "item": {{ $entry.url | absURL | safeURL | jsonify }}
+                                , "item": {{ $entry.url | absURL | safeURL | jsonify | safeJS }}
                             {{- end -}}
                         }
                     {{- end -}}
@@ -620,7 +620,7 @@
                     <div class="product-grid">
                         {{ range first 6 (shuffle $products) }}
                         {{ $slug := .slug | default (.name | urlize) }}
-                        {{ $productURL := printf "/%s/" $slug | relLangURL }}
+                        {{ $productURL := printf "/%s/" ($slug | lower) | relLangURL }}
                         <a class="product-item" href="{{ $productURL }}">
                             <img src="{{ .flag | relURL }}" alt="{{ .name }} 旗幟" class="product-flag-img" loading="lazy">
                             <div class="product-info">

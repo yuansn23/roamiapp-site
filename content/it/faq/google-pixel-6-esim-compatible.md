@@ -571,6 +571,6 @@ Il modo più affidabile per confermare la compatibilità eSIM del tuo Pixel è i
 ## 🔗 Pagine correlate
 
 - [Elenco completo dei telefoni compatibili con eSIM (2026)](/compatibility/)
-- [Guida approfondita alla risoluzione dei problemi eSIM 2026](/faq/eSIM-Deep-Troubleshooting-Guide-2026/)
+- [Guida approfondita alla risoluzione dei problemi eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)
 - [Compatibilità eSIM Samsung S20](/faq/samsung-s20-esim-compatible/)
-- [Come trasferire eSIM tra iPhone e Android](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
+- [Come trasferire eSIM tra iPhone e Android](/faq/how-to-transfer-esim-between-iphone-and-android/)

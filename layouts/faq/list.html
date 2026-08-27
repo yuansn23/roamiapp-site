@@ -43,11 +43,11 @@
       "@graph": [
         {
           "@type": "WebSite",
-          "name": {{ .Site.Title | jsonify }},
-          "url": {{ printf "%s/" (.Site.BaseURL | lower | strings.TrimSuffix "/") | jsonify }},
+          "name": {{ .Site.Title | jsonify | safeJS }},
+          "url": {{ printf "%s/" (.Site.BaseURL | lower | strings.TrimSuffix "/") | jsonify | safeJS }},
           "potentialAction": {
             "@type": "SearchAction",
-            "target": {{ printf "%s/?search={search_term_string}" (.Permalink | lower | strings.TrimSuffix "/") | jsonify }},
+            "target": {{ printf "%s/?search={search_term_string}" (.Permalink | lower | strings.TrimSuffix "/") | jsonify | safeJS }},
             "query-input": "required name=search_term_string"
           }
         }
@@ -63,14 +63,14 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "name": {{ .Params.ui.breadcrumb_home | jsonify }},
-          "item": {{ printf "%s/" ("/" | absLangURL | lower | strings.TrimSuffix "/") | jsonify }}
+          "name": {{ .Params.ui.breadcrumb_home | jsonify | safeJS }},
+          "item": {{ printf "%s/" ("/" | absLangURL | lower | strings.TrimSuffix "/") | jsonify | safeJS }}
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "name": {{ .Params.ui.breadcrumb_current | jsonify }},
-          "item": {{ printf "%s/" (.Permalink | lower | strings.TrimSuffix "/") | jsonify }}
+          "name": {{ .Params.ui.breadcrumb_current | jsonify | safeJS }},
+          "item": {{ printf "%s/" (.Permalink | lower | strings.TrimSuffix "/") | jsonify | safeJS }}
         }
       ]
     }
@@ -88,10 +88,10 @@
             {{- if not $first -}},{{- end -}}
             {
               "@type": "Question",
-              "name": {{ $.Params.free_esim_promo.question | jsonify }},
+              "name": {{ $.Params.free_esim_promo.question | jsonify | safeJS }},
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": {{ $.Params.free_esim_promo.schema_answer | jsonify }}
+                "text": {{ $.Params.free_esim_promo.schema_answer | jsonify | safeJS }}
               }
             }
             {{- $first = false -}}
@@ -157,10 +157,10 @@
             
             {
               "@type": "Question",
-              "name": {{ $question | jsonify }},
+              "name": {{ $question | jsonify | safeJS }},
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": {{ $fullAnswer | plainify | jsonify }}
+                "text": {{ $fullAnswer | plainify | jsonify | safeJS }}
               }
             }
             {{- $first = false -}}

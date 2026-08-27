@@ -58,10 +58,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "Trasferimento eSIM multipiattaforma 2026"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "Doppia eSIM non funziona? 12 soluzioni per iPhone"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "Elenco completo di compatibilità eSIM per smartwatch"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -73,7 +73,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "Guida definitiva 2026: Soluzioni di attivazione eSIM per iPhone 17"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -103,7 +103,7 @@ Se acquisti una SIM fisica in un negozio Telekom, Vodafone o O2 in Germania, il 
 - **Ci vogliono da 30 minuti a 2 ore.** Il più veloce è 30 minuti. Se il tuo passaporto non viene riconosciuto chiaramente dal sistema (più comune con i passaporti asiatici), potresti aver bisogno di più tentativi, rientrando in coda dopo ogni fallimento.
 - **Hai appena fatto un lungo volo internazionale.** L'ultima cosa che vuoi fare dopo essere atterrato all'aeroporto di Francoforte è fare la fila in un negozio Telekom per una verifica d'identità video.
 
-**Come l'eSIM rompe la trappola:** I fornitori di eSIM (come Roami, Airalo, Holafly) hanno i loro server e la registrazione al di fuori della Germania. L'Ausweispflicht non si applica ai servizi di telecomunicazione con sede fuori dalla Germania. La tua eSIM si attiva in 2 minuti – zero verifica d'identità, zero conoscenza del tedesco, zero coda. Capire [come funziona l'eSIM](/faq/What-Is-eSIM/) ti aiuta a vedere perché può saltare queste pesanti normative.
+**Come l'eSIM rompe la trappola:** I fornitori di eSIM (come Roami, Airalo, Holafly) hanno i loro server e la registrazione al di fuori della Germania. L'Ausweispflicht non si applica ai servizi di telecomunicazione con sede fuori dalla Germania. La tua eSIM si attiva in 2 minuti – zero verifica d'identità, zero conoscenza del tedesco, zero coda. Capire [come funziona l'eSIM](/faq/what-is-esim/) ti aiuta a vedere perché può saltare queste pesanti normative.
 
 ### Sfida 2: Treni ICE ad alta velocità – L'ambiente di connettività mobile più duro al mondo
 
@@ -204,7 +204,7 @@ Di seguito sono riportati i prezzi ufficiali di Roami per l'eSIM Germania di giu
 
 **L'eSIM Germania di Airalo utilizza tipicamente solo la singola rete Telekom** – nessun passaggio a Vodafone o O2. Nell'ambiente di cambio ad alta velocità dei treni ICE e nelle aree rurali di Funklöcher, un'eSIM a rete singola ha prestazioni molto peggiori di una multi-rete. Holafly di solito usa Vodafone o Telekom.
 
-Roami copre tutte e tre le reti e passa automaticamente. I nuovi utenti possono iniziare con una [prova eSIM gratuita](/free-esim/) per testare la copertura reale delle tre reti tedesche. Se incontri problemi di installazione, consulta la [guida all'attivazione per iPhone](/faq/how-to-activate-esim-on-iphone/) o la [guida generale all'installazione](/faq/How-To-Activate-an-eSIM/).
+Roami copre tutte e tre le reti e passa automaticamente. I nuovi utenti possono iniziare con una [prova eSIM gratuita](/free-esim/) per testare la copertura reale delle tre reti tedesche. Se incontri problemi di installazione, consulta la [guida all'attivazione per iPhone](/faq/how-to-activate-esim-on-iphone/) o la [guida generale all'installazione](/faq/how-to-activate-an-esim/).
 
 ---
 
@@ -256,7 +256,7 @@ Roami copre tutte e tre le reti e passa automaticamente. I nuovi utenti possono 
 
 **Il Wi‑Fi dei trasporti pubblici tedeschi non è affidabile.** A differenza del Giappone o della Corea del Sud, la maggior parte delle carrozze U‑Bahn e S‑Bahn in Germania non ha Wi‑Fi. Il Wi‑Fi sull'ICE (WIFIonICE) è gratuito ma limitato in velocità alla navigazione di base – non puoi fare affidamento su di esso per videochiamate o grandi trasferimenti di file. Ciò significa che i tuoi dati eSIM sono la tua unica fonte affidabile di connettività.
 
-**Il backup offline di Google Maps è obbligatorio nella Germania rurale.** In un Funkloch, non puoi caricare nulla da nessuna app. Scarica le mappe Google offline per tutte le aree che attraverserai prima di partire. Per assistenza quando qualcosa va storto con la connettività eSIM, consulta la [guida alla risoluzione dei problemi eSIM Germania](/faq/eSIM-Deep-Troubleshooting-Guide-2026/).
+**Il backup offline di Google Maps è obbligatorio nella Germania rurale.** In un Funkloch, non puoi caricare nulla da nessuna app. Scarica le mappe Google offline per tutte le aree che attraverserai prima di partire. Per assistenza quando qualcosa va storto con la connettività eSIM, consulta la [guida alla risoluzione dei problemi eSIM Germania](/faq/esim-deep-troubleshooting-guide-2026/).
 
 ---
 

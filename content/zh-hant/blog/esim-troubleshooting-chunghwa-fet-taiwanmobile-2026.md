@@ -58,10 +58,10 @@ recentPosts:
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
   - title: "2026 跨平台 eSIM 轉移"
-    permalink: "/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/"
+    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
   - title: "雙 eSIM 無法運作？12 個 iPhone 解決方法"
-    permalink: "/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/"
+    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
   - title: "智慧手錶 eSIM 相容性完整列表"
     permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
@@ -73,7 +73,7 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 終極指南：iPhone 17 eSIM 啟用解決方案"
-    permalink: "/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/"
+    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 
@@ -237,7 +237,7 @@ recentPosts:
 > 3. 確認 **設定 > 行動服務 > 行動數據** 中，勾選的是你正要使用的 eSIM 線路。
 > 4. 若使用雙卡，可暫時關閉另一張 SIM 卡，測試 eSIM 單獨連線。
 
-> **延伸閱讀**：若你使用的是雙 eSIM，且遇到切換後無法上網，請參考 [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)。
+> **延伸閱讀**：若你使用的是雙 eSIM，且遇到切換後無法上網，請參考 [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/dual-esim-not-working-12-fixes-for-iphone/)。
 
 ### 錯誤 5：網路速度異常緩慢（低於 5 Mbps）
 
@@ -266,7 +266,7 @@ recentPosts:
 2. 若無 QR 碼，可透過運營商 App 申請「重新發送 eSIM 設定檔」。中華電信用戶可至 emome 網站申請；台灣大哥大用戶可在 App 內操作。
 3. 若以上皆不可行，請攜帶證件至門市補發 eSIM（費用約 NT$300）。
 
-> **進階技巧**：iOS 17.4 以上支援「eSIM 快速轉移」，可在舊手機選擇「轉移至新 iPhone」，兩機靠近即可完成。詳細步驟請參考 [2026 跨平台 eSIM 轉移](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)。
+> **進階技巧**：iOS 17.4 以上支援「eSIM 快速轉移」，可在舊手機選擇「轉移至新 iPhone」，兩機靠近即可完成。詳細步驟請參考 [2026 跨平台 eSIM 轉移](/faq/how-to-transfer-esim-between-iphone-and-android/)。
 
 ### 錯誤 7：雙卡雙待時，一張卡有訊號，另一張卡無服務
 
@@ -422,12 +422,12 @@ eSIM 故障雖然煩人，但大多數都可以透過系統性的排查解決。
 ## 🔗 延伸閱讀
 
 - [eSIM 深度故障排除完整指南（16 個真實案例）](/faq/esim-deep-troubleshooting-guide-2026/)
-- [2026 跨平台 eSIM 轉移](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)
-- [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)
+- [2026 跨平台 eSIM 轉移](/faq/how-to-transfer-esim-between-iphone-and-android/)
+- [雙 eSIM 無法運作？12 個 iPhone 解決方法](/faq/dual-esim-not-working-12-fixes-for-iphone/)
 - [智慧手錶 eSIM 相容性完整列表](/faq/smartwatch-esim-compatibility-list-2026/)
 - [iPhone SE eSIM 相容性指南](/faq/iphone-se-esim-compatible/)
 - [iPhone 11 eSIM 完整設定指南](/faq/iphone-11-esim-compatible/)
-- [2026 終極指南：iPhone 17 eSIM 啟用解決方案](/faq/2026-Ultimate-Guide-iPhone-17-eSIM-Activation-Solutions/)
+- [2026 終極指南：iPhone 17 eSIM 啟用解決方案](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/)
 - [eSIM 啟用原理](/faq/what-is-esim-activation-and-how-does-it-work/)
 - [Samsung S20 eSIM 相容性問題](/faq/samsung-s20-esim-compatible/)
 - [如何在 iPhone 上啟用 eSIM（所有型號）](/faq/how-to-activate-esim-on-iphone/)

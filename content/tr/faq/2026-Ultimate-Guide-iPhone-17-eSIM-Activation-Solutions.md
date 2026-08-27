@@ -100,9 +100,9 @@ sidebar_questions:
 
 iPhone 17 serisinin piyasaya sürülmesiyle birlikte eSIM teknolojisi tam anlamıyla benimsenme aşamasına girmiştir. Apple'ın en yeni amiral gemisi olarak esim iphone deneyimini bir üst seviyeye taşıyan bu model, tamamen dijital bir bağlantı çağını müjdeliyor. ABD modelleri fiziksel SIM tepsisini tamamen ortadan kaldırırken, uluslararası modeller aynı anda çift eSIM aktif olma özelliğini tam olarak desteklemektedir. Bu kılavuz, Apple'ın 2025–2026 resmi teknik dokümantasyonuna dayanarak uyumluluk, güvenlik, etkinleştirme, seyahat, kurumsal yönetim ve platformlar arası aktarımı kapsamaktadır.
 
-eSIM'in arkasındaki teknoloji [GSMA standardı SGP.22](https://www.gsma.com/esim/) tarafından yönetilmektedir. eSIM hakkındaki [resmi Apple destek sayfası](https://support.apple.com/en-us/108072), uyumlu iPhone modelleri hakkında ayrıntılı bilgi sağlar. Bir Android telefondan eSIM taşımak isteyen kullanıcılar için **[eSIM Platformlar Arası Aktarım 2026 kılavuzumuza](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** bakın.
+eSIM'in arkasındaki teknoloji [GSMA standardı SGP.22](https://www.gsma.com/esim/) tarafından yönetilmektedir. eSIM hakkındaki [resmi Apple destek sayfası](https://support.apple.com/en-us/108072), uyumlu iPhone modelleri hakkında ayrıntılı bilgi sağlar. Bir Android telefondan eSIM taşımak isteyen kullanıcılar için **[eSIM Platformlar Arası Aktarım 2026 kılavuzumuza](/faq/how-to-transfer-esim-between-iphone-and-android/)** bakın.
 
-Aynı anda iki hattı kullanmayı planlıyorsanız – örneğin, bir seyahat eSIM'ini veri için kullanırken ev numaranızı aktif tutmak – **[Çift eSIM Çalışmıyor mu? iPhone için 12 Düzeltme](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** kılavuzumuz yaygın yapılandırma sorunlarını ve çözümlerini kapsar.
+Aynı anda iki hattı kullanmayı planlıyorsanız – örneğin, bir seyahat eSIM'ini veri için kullanırken ev numaranızı aktif tutmak – **[Çift eSIM Çalışmıyor mu? iPhone için 12 Düzeltme](/faq/dual-esim-not-working-12-fixes-for-iphone/)** kılavuzumuz yaygın yapılandırma sorunlarını ve çözümlerini kapsar.
 
 ---
 
@@ -217,7 +217,7 @@ iOS 19'un akıcı arayüzü için özel olarak tasarlanan iPhone 17 kullanıcıl
 | Birden fazla profil | Her seferinde kart değiştirme | 8‑10 profil saklama, tek dokunuşla geçiş |
 | Fiziksel risk | Tepsiyi kaybetme veya hasar verme kolaylığı | Sıfır fiziksel risk |
 
-Seyahat edenler için eSIM açık ara kazanandır – özellikle birden fazla ülkeyi ziyaret ederken. Sağlayıcıların kapsamlı bir karşılaştırması için **[2026 için en iyi ABD eSIM seçenekleri](/faq/2026-Best-eSIM-Options-for-the-USA/)** kılavuzumuza bakın.
+Seyahat edenler için eSIM açık ara kazanandır – özellikle birden fazla ülkeyi ziyaret ederken. Sağlayıcıların kapsamlı bir karşılaştırması için **[2026 için en iyi ABD eSIM seçenekleri](/faq/2026-best-esim-options-for-the-usa/)** kılavuzumuza bakın.
 
 ---
 
@@ -258,7 +258,7 @@ Apple, iOS 19'da Android ve iPhone arasında çift yönlü eSIM aktarımını il
 3. Android'de onaylayın, ardından iPhone'da yan düğmeye çift tıklayarak onaylayın.
 4. Aktarım tamamlandıktan sonra iPhone'daki eSIM otomatik olarak devre dışı bırakılır.
 
-> **Not**: Platformlar arası aktarım yalnızca belirli operatörler tarafından desteklenir (örneğin, ABD: AT&T, T‑Mobile, Verizon; İngiltere: EE; JP: KDDI). Desteklenmiyorsa, yeni bir QR kodu için operatörünüzle iletişime geçin. Ayrıntılı adımlar ve sorun giderme için özel **[eSIM Platformlar Arası Aktarım 2026 kılavuzumuzu](/faq/How-to-Transfer-eSIM-Between-iPhone-and-Android/)** ziyaret edin.
+> **Not**: Platformlar arası aktarım yalnızca belirli operatörler tarafından desteklenir (örneğin, ABD: AT&T, T‑Mobile, Verizon; İngiltere: EE; JP: KDDI). Desteklenmiyorsa, yeni bir QR kodu için operatörünüzle iletişime geçin. Ayrıntılı adımlar ve sorun giderme için özel **[eSIM Platformlar Arası Aktarım 2026 kılavuzumuzu](/faq/how-to-transfer-esim-between-iphone-and-android/)** ziyaret edin.
 
 ---
 
@@ -288,7 +288,7 @@ Apple, iOS 19'da Android ve iPhone arasında çift yönlü eSIM aktarımını il
 
 ## 10. Sık Sorulan Sorular ve Sorun Giderme (iPhone 17'ye Özel)
 
-> **Daha derin sorun giderme için:** Bu bölüm yaygın sorunları kapsar. Burada listelenmeyen karmaşık sorunlar için (örneğin, başka bir cihaza bağlı eSIM, çift SIM sinyal çakışması, DFU hatası 53), lütfen 16 ayrıntılı belirti‑neden‑çözüm vakası içeren **[eSIM Derin Sorun Giderme Kılavuzu 2026](/faq/esim-deep-troubleshooting-guide-2026/)** 'ya bakın. Çift SIM ses veya veri çakışmaları yaşıyorsanız, ayrıca **[Çift eSIM Çalışmıyor mu? iPhone için 12 Düzeltme](/faq/Dual-eSIM-Not-Working-12-Fixes-for-iPhone/)** kılavuzuna bakın.
+> **Daha derin sorun giderme için:** Bu bölüm yaygın sorunları kapsar. Burada listelenmeyen karmaşık sorunlar için (örneğin, başka bir cihaza bağlı eSIM, çift SIM sinyal çakışması, DFU hatası 53), lütfen 16 ayrıntılı belirti‑neden‑çözüm vakası içeren **[eSIM Derin Sorun Giderme Kılavuzu 2026](/faq/esim-deep-troubleshooting-guide-2026/)** 'ya bakın. Çift SIM ses veya veri çakışmaları yaşıyorsanız, ayrıca **[Çift eSIM Çalışmıyor mu? iPhone için 12 Düzeltme](/faq/dual-esim-not-working-12-fixes-for-iphone/)** kılavuzuna bakın.
 
 **S1: ABD sürümü (SIM'siz) bir iPhone 17 ile Çin'e seyahat ediyorum. Nasıl bağlantıda kalabilirim?**
 C: Küresel bir eSIM sağlayıcısından Çin veri planı satın alabilirsiniz. eSIM, dolaşım protokolleri aracılığıyla varışta yerel 5G sinyallerine otomatik olarak bağlanır – fiziksel SIM tepsisi gerekmez.
