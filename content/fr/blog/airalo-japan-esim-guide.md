@@ -55,9 +55,6 @@ products:
 
 # Articles récents (barre latérale)
 recentPosts:
-  - title: "Meilleures applications eSIM : comment acheter et installer une eSIM"
-    permalink: "/blog/best-esim-apps-how-to-buy-and-install-esim/"
-    date: "2026-08-25"
   - title: "Guide de dépannage approfondi eSIM (16 cas réels)"
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"

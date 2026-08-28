@@ -531,6 +531,7 @@ modal_confirm = "今すぐ行く"
     # Otimização: adicionado "/" na frente e sugerido remover .html para URL limpa
     footer_col2_links = [
   { name = "FAQ", url = "/faq/" }, 
+  { name = "Blogue", url = "/blog/" },
   { name = "Compatibilidade com eSIM", url = "/compatibility/" },
      { name = "Baixar Roami", url = "/app/" }
 ]
@@ -587,6 +588,7 @@ footer_col1_links = [
 footer_col2_title = "Müşteri Desteği"
 footer_col2_links = [
   { name = "SSS", url = "/faq/" },
+  { name = "Blog", url = "/blog/" },
   { name = "eSIM Uyumluluğu", url = "/compatibility/" },
   { name = "Roami'yi İndir", url = "/app/" }
 ]

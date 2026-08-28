@@ -56,9 +56,6 @@ products:
 
 # 近期文章（側邊欄）
 recentPosts:
-  - title: "最佳 eSIM 應用程式：如何購買與安裝 eSIM"
-    permalink: "/blog/best-esim-apps-how-to-buy-and-install-esim/"
-    date: "2026-08-25"
   - title: "eSIM 深度故障排除指南（16 個真實案例）"
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"

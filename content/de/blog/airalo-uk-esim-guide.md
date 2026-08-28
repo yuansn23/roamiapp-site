@@ -55,9 +55,6 @@ products:
 
 # Neueste Beiträge (Seitenleiste)
 recentPosts:
-  - title: "Beste eSIM-Apps: Wie man eine eSIM kauft und installiert"
-    permalink: "/blog/best-esim-apps-how-to-buy-and-install-esim/"
-    date: "2026-08-25"
   - title: "eSIM-Fehlerbehebung im Detail (16 echte Fälle)"
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
