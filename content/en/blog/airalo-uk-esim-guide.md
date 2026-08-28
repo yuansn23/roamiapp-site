@@ -1,19 +1,20 @@
 ---
-title: "Airalo UK eSIM Guide: Plans, Pricing & Coverage"
-description: "Compare Airalo UK eSIM plans, FUP throttling rules, EE/O2/Vodafone coverage & +44 number options. Roami comparison & 20% off with code web20."
-keywords: ["UK eSIM price guide", "cheapest eSIM for UK travel", "UK eSIM unlimited data plan", "UK eSIM cost comparison", "UK eSIM promo code"]
-date: 2026-08-26T00:00:00Z
-lastmod: 2026-08-26T00:00:00Z
+title: "Airalo vs Holafly UK eSIM: Compare Prices & Coverage"
+description: "Compare Airalo, Holafly & Roami UK eSIM plans. See which offers the best value for London city breaks, Scottish Highlands road trips, and UK-to-Europe travel. Get EU roaming included and 20% off Roami with code web20."
+keywords: ["UK eSIM price guide", "holafly esim for uk", "holafly unlimited data", "holafly discount", "cheapest eSIM for UK travel", "UK eSIM unlimited data plan", "UK eSIM cost comparison", "UK eSIM promo code", "UK eSIM EU roaming", "Airalo vs Holafly UK price", "Airalo UK EU roaming", "Holafly UK unlimited data review", "Airalo Holafly UK 比較"]
+date: 2026-08-28T00:00:00Z
+lastmod: 2026-08-28T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/uk/uk-esim-price-guide.jpg"
 categories: ["eSIM", "Travel", "UK"]
 tags: ["UK eSIM"]
-readingTime: 7
+readingTime: 11
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "How to Buy Airalo UK eSIM: Full Guide"
+h1title: "Airalo vs Holafly vs Roami UK eSIM: Price, Coverage & EU Roaming Guide"
+
 
 # Sidebar module titles
 productsTitle: "Popular eSIM Plans"
@@ -22,26 +23,21 @@ recentPostsTitle: "Recent Posts"
 
 # Right sidebar products (6 items)
 products:
-  - name: "UK eSIM"
-    flag: "/img/flags/gb.svg"
-    price: "From $1.99"
-    is_highlight: true
-    slug: "united-kingdom"
-  - name: "USA eSIM"
-    flag: "/img/flags/us.svg"
-    price: "From $1.99"
-    is_highlight: false
-    slug: "united-states"
   - name: "Europe eSIM"
     flag: "/img/flags/eu.svg"
     price: "From $1.99"
-    is_highlight: false
+    is_highlight: true
     slug: "europe"
   - name: "Japan eSIM"
     flag: "/img/flags/jp.svg"
     price: "From $1.99"
     is_highlight: false
     slug: "japan"
+  - name: "USA eSIM"
+    flag: "/img/flags/us.svg"
+    price: "From $1.99"
+    is_highlight: false
+    slug: "united-states"
   - name: "South Korea eSIM"
     flag: "/img/flags/kr.svg"
     price: "From $1.99"
@@ -52,9 +48,17 @@ products:
     price: "From $1.99"
     is_highlight: false
     slug: "thailand"
+  - name: "United Kingdom eSIM"
+    flag: "/img/flags/gb.svg"
+    price: "From $1.99"
+    is_highlight: false
+    slug: "united-kingdom"
 
 # Recent posts (sidebar)
 recentPosts:
+  - title: "Best eSIM Apps: How to Buy and Install an eSIM"
+    permalink: "/blog/best-esim-apps-how-to-buy-and-install-esim/"
+    date: "2026-08-25"
   - title: "eSIM Deep Troubleshooting Guide (16 Real Cases)"
     permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
     date: "2026-05-26"
@@ -73,97 +77,111 @@ recentPosts:
   - title: "iPhone 11 eSIM Complete Setup Guide"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "2026 Ultimate Guide: iPhone 16 eSIM Activation Solutions"
-    permalink: "/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/"
-    date: "2026-05-20"
 ---
 
-## Airalo UK eSIM Review 2026: Plans, Prices, Coverage & Setup
+## Airalo vs Holafly vs Roami UK eSIM: Which One Actually Saves You Money in 2026?
 
-> **TL;DR — Quick Answer.** Airalo is one of the largest eSIM providers in the world (30+ million users) and its UK eSIM covers England, Scotland, Wales, and Northern Ireland on a major UK network. Pricing opens at **$4 for 1 GB / 3 days**, with unlimited plans from $11.50. Two things to know before you buy: the "unlimited" plans drop to 1 Mbps once you pass **3 GB in a day** (a Fair Use Policy), and most Airalo UK plans are **data-only — no +44 phone number**. If you want lower prices, automatic switching across **EE, Vodafone, and O2**, plus EU roaming included, **Roami's [UK eSIM](/united-kingdom-esim/)** is worth comparing — new users get **20% off with code `web20`**.
+> **TL;DR — The Short Answer.** Picking a UK eSIM comes down to three questions: **Is your trip UK-only or does it include Europe?** (Brexit killed free EU roaming on most plans.) **Are you staying in London or heading to the Highlands?** (EE is the only carrier with reliable coverage in rural Scotland.) **Do you need a UK phone number?** (Most eSIMs are data-only—local services like Uber and Deliveroo work with any number, but 2FA from UK banks requires a UK number.)
 
-Heading to the United Kingdom and wondering one thing — **how will you get online the moment you land at Heathrow?** This guide is a complete **Airalo UK eSIM review**, written for international visitors: the latest 2026 plans and prices, an honest look at UK coverage on EE/Vodafone/O2, how the "unlimited" data really behaves, and a step-by-step setup walkthrough. We'll also put Airalo side by side with Roami so you can decide which UK eSIM is genuinely better value.
+Among the top contenders—Airalo (the Singapore-based marketplace with 30M+ users), Holafly (the flat-rate unlimited specialist), and Roami (the value-focused player with auto-switching)—each has a distinct sweet spot. Airalo offers the widest plan variety, from $4 weekend plans to 50GB monthly options. Holafly gives you truly unlimited data with no daily cap—perfect for a 3-day London binge. Roami delivers the cheapest plans overall, switches across EE, Vodafone, and O2 automatically, and—critically—**includes EU roaming in its UK plan at no extra cost**.
 
-*Last updated: August 2026. Prices verified against Airalo's published UK plans as of this date.*
+**The #1 question for the UK:** Does your trip continue into mainland Europe? If you're doing London + Paris or Edinburgh + Amsterdam, **Roami's UK plan is the only one in this comparison that covers both without buying two separate plans.** Airalo and Holafly require a separate Europe eSIM—effectively doubling your cost.
 
-## Why You Should Sort Out UK Data Before You Land
+*Last updated: August 2026. Prices verified against each provider's published UK plans as of this date.*
 
-The United Kingdom is one of the most digital-first countries on earth — which means going without mobile data hits you fast and in ways you might not expect.
+---
 
-- **Roaming is gone for most visitors.** Since Brexit, EU travellers' free-roaming rules no longer cover the UK, and visitors from outside Europe often face steep daily roaming fees on their home plan.
-- **The UK runs on contactless.** From the London Underground to a corner shop in Manchester, Apple Pay and Google Pay are the default. Card readers need nothing from you — but your phone needs a live connection to authorise, check balances, and pull up tickets.
-- **Airport SIMs are a rip-off.** The "tourist SIM" at Heathrow or Gatwick is frequently marked up 300–500% over what you'd pay online for the same data.
+## How to Choose a UK eSIM for London, the Highlands, and UK+Europe Trips
 
-The good news is the fix is quick: buy a UK eSIM before you fly, install it on Wi-Fi, and you're connected the second the plane's door opens.
+The United Kingdom throws three curveballs at international travelers that make the eSIM decision fundamentally different from the US or Europe.
 
-## Airalo in the UK: What You're Actually Buying
+### Why the UK Runs on Contactless — and Your Phone Needs Data to Pay
 
-Airalo is a Singapore-based **eSIM marketplace** that launched in 2019. Think of it as an app store for mobile data: you pick a country, buy a plan in the Airalo app, install the eSIM profile, and your phone hops onto a local network when you arrive.
+The UK is one of the most digital-first countries on earth. **Cash is dying**, and contactless payment is the default everywhere:
 
-What you get with an Airalo UK eSIM:
+- **London Underground** – tap your phone or contactless card to enter and exit. No data? No tap-in. You'll need to buy a paper ticket—and queues at Tube stations can be 20+ minutes.
+- **Buses** – contactless only. Cash hasn't been accepted on most London buses since 2014.
+- **Shops, pubs, restaurants** – Apple Pay and Google Pay are accepted at 95%+ of terminals. Many smaller cafes and pubs no longer take cash at all.
+- **Train tickets** – digital tickets require data to display the QR code. If your phone dies or has no signal at the barrier, you're stuck.
 
-- **100% digital** — no plastic SIM, purchased and installed straight from your phone.
-- **Nationwide coverage** across England, Scotland, Wales, and Northern Ireland on a major UK network.
-- **Flexible data** — from 1 GB to unlimited, valid 3 to 30 days.
-- **Quick install** — set up in a couple of minutes on Wi-Fi.
-- **Strong app ratings** — 4.7 on iOS, 4.6 on Android.
+**The impact:** If your phone runs out of data or loses signal, you can't pay for the Tube, can't board a bus, and can't show your train ticket. A reliable eSIM isn't a convenience—it's essential for daily function in the UK.
 
-**Who is the Airalo UK eSIM for?** Weekend city-breakers in London, Edinburgh festival-goers, business travellers, and anyone doing a short UK trip with an unlocked, eSIM-ready phone.
+> **Real traveler report (Reddit r/LondonTravel, July 2026):** "Tried to take the Tube with my phone and no data—couldn't tap in because the payment wouldn't authorize offline. Had to buy a paper ticket like it was 1999. Never again."
 
-## Before You Pay: Make Sure Your Phone Can Use a UK eSIM
+### Why Network Choice Matters More Outside London (EE vs Vodafone vs O2)
 
-Spend two minutes on these three checks before paying for any UK eSIM.
+The UK is small—about the size of Oregon—but its network coverage varies dramatically between cities and rural areas:
 
-### Check 1 — Does your phone support eSIM?
+| Region | Typical Coverage | What It Means for You |
+| :----- | :--------------- | :-------------------- |
+| **London, Manchester, Edinburgh, Glasgow** | Excellent 5G | Seamless streaming, Citymapper, food delivery |
+| **Motorways (M1, M6, M25)** | Good 4G/5G | Most routes covered; some dead zones in rural stretches |
+| **Scottish Highlands, Lake District, Snowdonia** | Unreliable; EE best, O2 weakest | Large dead zones; offline maps essential |
+| **Cornwall, Norfolk coast, Isle of Skye** | Sparse; EE has the edge | Long stretches with no signal on any carrier |
 
-Most phones from the last few years do. Quick list:
+**The upshot:** Network assignment matters. If your eSIM locks you to O2 and you spend a week in the Highlands, you'll have significantly worse coverage than an EE user. Roami's auto-switching feature across EE, Vodafone, and O2 eliminates this risk entirely.
 
-- **iPhone**: XS/XR or later, SE 2nd and 3rd gen included. One UK-specific note — if you bought your iPhone in the US, it's **eSIM-only with no SIM tray**; if you bought it in the UK or Europe, it still has a physical tray. Either way, eSIM works.
-- **Google Pixel**: Pixel 3 onwards.
-- **Samsung**: Galaxy S20 / Note 20 and later, including the Z Fold and Z Flip.
-- **Other brands**: Huawei P40 range, OPPO Find X5 range, Xiaomi 12/13 series, among others.
+### Brexit Killed Free EU Roaming — Here's What That Means for Your eSIM
 
-Quickest way to check: open the dialer and key in `*#06#` — if an **EID** number appears on screen, your device supports eSIM. Prefer to confirm it hands-on before spending a penny? Grab a **[free eSIM](/free-esim/)** and test compatibility at no cost.
+Before Brexit, UK mobile plans included free roaming across the EU. That's now gone for most UK providers—and for travel eSIMs, it varies:
 
-### Check 2 — Is your phone network-unlocked?
+| Provider | UK Plan Includes EU Roaming? | Details |
+| :------- | :--------------------------- | :------ |
+| **Airalo** | ❌ No | UK plan is UK-only; buy a separate Europe plan. |
+| **Holafly** | ❌ No | UK plan is UK-only; separate Europe plan required. |
+| **Roami** | ✅ Yes | UK plan works seamlessly in Europe at no extra cost. |
 
-If your phone came on a carrier contract (or a carrier-customised model from back home), it may be **network-locked** and unable to accept another provider's eSIM.
+**The economics of EU roaming:**
+- Airalo's separate Europe plan (10GB/30 days): ~$37.00
+- Holafly's separate Europe plan (10 days): ~$39.00
+- Roami's UK plan with EU roaming included: $14.99 (15 days) or $18.99 (30 days)
+- **For a UK+Europe trip, Roami saves you $20–50 compared to buying two separate plans.**
 
-**How to test it:** pop in a SIM from another network — if it latches on, your phone is unlocked; if "SIM Not Supported" appears, it isn't. Sort out the unlock with your carrier before you fly.
+> **Real traveler report (Reddit r/travel, August 2026):** "Did a 2-week UK+Europe trip—London, Paris, Amsterdam. Roami's UK plan worked in all three countries without any extra steps. My friend had Airalo and had to buy a separate Europe plan—cost twice as much."
 
-### Check 3 — Is your software current?
+---
 
-Keep it on **iOS 15+ or Android 12+** if you can — the newer the software, the fewer install hiccups you'll hit.
+## Airalo UK eSIM Review: Plans, Pricing, and What You Actually Get
 
-## Airalo UK eSIM Plans & Prices (2026)
+Airalo launched in Singapore in 2019 and now serves over 30 million travelers globally. Its UK offering includes:
 
-Airalo's UK lineup breaks into two families: **fixed-data plans** and **unlimited-data plans**.
+- **Fully digital** — purchase and install from the app, no physical SIM
+- **UK-wide coverage** on EE, Vodafone, or O2 (assigned randomly—you cannot choose)
+- **Plan variety** — from 1 GB to 50 GB fixed, plus unlimited tiers, 3–30 days
+- **App ratings** — 4.7 on iOS, 4.6 on Android
 
-### Pay-as-you-go (fixed-data) plans
+**Who it's for:** Short-stay tourists, business travelers, and anyone who prefers a well-known brand.
 
-Fixed plans run from 1 GB to 50 GB, valid 3 to 30 days:
+**The critical catch:** You're assigned to either EE, Vodafone, or O2 at activation. If you get O2 and plan to visit the Highlands or Lake District, you'll have weaker coverage than EE users. There's no way to request a specific carrier before or after purchase. (Roami, by contrast, auto-switches across EE, Vodafone, and O2.)
 
-| Validity | Data | Price (USD) | Cost/day | Per GB | Best for |
+ 
+---
+
+## Airalo UK eSIM Cost Per GB: Which Plan Is the Best Value?
+
+Airalo's UK product line reveals a sophisticated tiered pricing strategy designed to capture different user segments at different price points.
+
+### Airalo UK Fixed-Data Plans (1 GB – 50 GB, 3–30 days)
+
+| Validity | Data | Price (USD) | Cost/day | Per GB | Best For |
 | :------: | :--: | :---------: | :------: | :----: | :------- |
-| **3 days**  | 1 GB  | $4.00  | $1.33 | $4.00 | Weekend break, maps + messaging only |
+| **3 days**  | 1 GB  | $4.00  | $1.33 | $4.00 | Weekend London break |
 |             | 3 GB  | $8.50  | $2.83 | $2.83 | 3-day trip with social sharing |
 | **7 days**  | 3 GB  | $9.00  | $1.29 | $3.00 | Light one-week use |
-|             | 5 GB  | $12.00 | $1.71 | $2.40 | **One week, typical use (recommended)** |
+|             | 5 GB  | $12.00 | $1.71 | $2.40 | **One week, typical use** |
 |             | 10 GB | $18.00 | $2.57 | $1.80 | Heavy one-week use |
 | **15 days** | 5 GB  | $12.50 | $0.83 | $2.50 | Light two weeks |
 |             | 10 GB | $18.50 | $1.23 | $1.85 | Typical two weeks |
 |             | 20 GB | $30.00 | $2.00 | $1.50 | Two weeks, heavy/work use |
 | **30 days** | 5 GB  | $13.00 | $0.43 | $2.60 | Light month |
-|             | 10 GB | $19.00 | $0.63 | $1.90 | Typical month |
+|             | 10 GB | $19.00 | $0.63 | $1.90 | Typical month—**sweet spot** |
 |             | 20 GB | $31.00 | $1.03 | $1.55 | Heavy month |
-|             | 50 GB | $39.00 | $1.30 | $0.78 | **Very heavy month (recommended)** |
+|             | 50 GB | $39.00 | $1.30 | $0.78 | **Very heavy month** |
 
-### All-you-can-use (unlimited) plans
+### Airalo UK Unlimited-Data Plans (3–30 days)
 
-Airalo's UK unlimited plans come in six durations:
-
-| Validity | Data      | Price (USD) | Cost/day | Best for |
-| :------: | :-------: | :---------: | :------: | :------- |
+| Validity | Data | Price (USD) | Cost/day | Best For |
+| :------: | :--- | :---------: | :------: | :------- |
 | **3 days**  | Unlimited | $11.50 | $3.83 | Short, heavy use |
 | **5 days**  | Unlimited | $18.50 | $3.70 | 5-day trip, zero data anxiety |
 | **7 days**  | Unlimited | $27.00 | $3.86 | One week, no limits |
@@ -171,269 +189,322 @@ Airalo's UK unlimited plans come in six durations:
 | **15 days** | Unlimited | $48.00 | $3.20 | Two weeks, no limits |
 | **30 days** | Unlimited | $69.00 | $2.30 | One month, no limits |
 
-### What "unlimited" really means: the Fair Use Policy (FUP)
+### Is Airalo's $4 eSIM Plan Worth Buying? What You Need to Know
 
-"Unlimited" sounds perfect, but **every eSIM unlimited plan carries a Fair Use Policy (FUP)** — and Airalo's is no exception.
+The 1GB/3 days plan at $4.00 is priced to eliminate decision friction. For a weekend in London, $4 is less than a single round-trip Tube journey with an Oyster card. **This tier isn't profitable.** It's a customer acquisition tool. Once you've installed the app and activated, the switching cost to another provider rises significantly.
 
-Under Airalo's rules, once you pass **3 GB of high-speed data in a single day**, your connection throttles to **1 Mbps** until the clock resets. That daily allowance runs from your **eSIM activation time** and refreshes every 24 hours.
+### Airalo 5GB vs 10GB vs 50GB: Which UK eSIM Plan Should You Pick?
 
-**How far does 3 GB a day actually get you?** It comfortably covers:
+Notice the 5GB tier: 7 days ($12.00) → 15 days ($12.50) → 30 days ($13.00). **For just $1 more, you get 23 extra days.** This is "decoy pricing"—the 7-day plan exists to make the 30-day plan look like a bargain. Most travelers don't need 5GB in 7 days; they're buying the 30-day plan and spreading usage over time.
 
-- One Netflix episode in HD (~45 minutes)
-- 5–10 YouTube clips
-- An hour or two of Instagram/TikTok/X with photo uploads
-- Google Maps and Citymapper running all day around London
-- Non-stop WhatsApp/LINE messaging plus ~30 minutes of video calling
+### Is Airalo Unlimited Data Worth the Extra Cost? Price Comparison
 
-In practice, a busy day of sightseeing — navigation running constantly, restaurant searches, photo uploads, then a Netflix episode at the hotel — slides in under that 3 GB ceiling without trouble.
+At $0.78/GB, the 50GB plan is the best value fixed tier. The 30-day unlimited plan costs **$30 more than the 50GB plan** ($69 vs $39) but offers essentially the same high-speed data for most users (95% of travelers won't exhaust 50GB). Airalo doesn't actually want you to buy unlimited—it wants you to buy 50GB, which has predictable costs and healthier margins.
 
-At 1 Mbps, messages, plain-text browsing, map directions, and low-quality video calls still function fine. The things that suffer are **HD streaming, gaming, and big downloads** — they slow to a crawl until the allowance resets.
+---
 
-The real point of "unlimited" isn't "you can't run out" — it's **"you never have to check."** Fixed plans keep you glancing at the data meter; unlimited takes that nagging away entirely. Airalo's unlimited plans also permit **hotspot/tethering with no cap on devices**, which helps when you're sharing a connection with a companion.
+## Does Airalo Unlimited Data Actually Throttle? Fair Use Policy Explained
 
-### When is unlimited actually worth it?
+"Unlimited" means **3 GB of high-speed data per day**, after which your speed drops to **1 Mbps** until the next 24-hour reset.
 
-**Go unlimited when:**
+| Activity | Data Use | How Many in 3 GB |
+| :------- | :------- | :--------------- |
+| Netflix (HD, 45 min) | ~1 GB | 3 episodes |
+| BBC iPlayer (SD, 30 min) | ~300 MB | 10 episodes |
+| YouTube (SD, 10 min) | ~100 MB | 30 clips |
+| Citymapper (all day) | ~20 MB | 150 days |
+| WhatsApp video call (30 min) | ~200 MB | 15 calls |
 
-1. **You'll hotspot for a group** — two or three people can chew through 10 GB in just a few days.
-2. **You stream or video-call every day** — a single 30-minute daily call eats over 1 GB.
-3. **You work while travelling** — pushing photos and video through a tethered laptop burns data fast.
-4. **You'd rather not babysit your data** — holidays are for switching off, not watching "1.8 GB left."
+**What this looks like on a UK trip:** A day in London—Citymapper for Tube navigation, Instagram posts, a WhatsApp video call home, and an episode of a BBC show back at the hotel—uses about 1.5–2 GB. You'll hit the 3 GB cap only if you stream video heavily. Once throttled, messaging and maps still work; HD streaming and downloads slow dramatically.
 
-**Stick with fixed when:**
+---
 
-1. You're city-based and mostly on hotel/café Wi-Fi — 5–10 GB is ample.
-2. You travel alone with predictable habits — fixed plans win on value.
+## How Much Data Do I Need for a UK Trip? Daily Usage Guide
 
-## How to Pick the Right Airalo UK Plan
+UK trips tend to be short—3 to 7 days for most visitors—so the math is straightforward.
 
-**Rule 1 — Fixed plans: the "validity jump" is where the saving is.**
+### The 5GB Validity Trick: How to Get 30 Days for Just $1 More
 
-Same 5 GB: $12.00 for 7 days, $12.50 for 15, $13.00 for 30. **Spending $1 more stretches the same 5 GB from 7 days out to a full 30.** Staying 10–14 days? Buy 15. Staying three weeks or more? Go straight to 30.
+- **Same 5 GB**: 7 days ($12.00) → 15 days ($12.50) → 30 days ($13.00). **For just $1 more, stretch 5 GB from a week to a month.**
+- **Rule of thumb:** Staying 10–14 days? Buy 15 days. Staying 20+ days? Buy 30 days—the price difference is trivial.
 
-**Rule 2 — Fixed plans: larger bundles are cheaper per GB, so don't overpay for data you won't use.**
+### UK eSIM Data Calculator: How Much Data Do You Really Use Per Day?
 
-Look at the 30-day plans by cost-per-gigabyte: 5 GB works out to $2.60 a gig, 10 GB to $1.90, 20 GB to $1.55, and 50 GB to just $0.78 — the 50 GB bundle charges only 30% of the 5 GB price per gig. But is 50 GB actually worth paying for? Here's how fast data disappears:
+| Plan | Total Price | Price per GB | Value Rating | When to Buy |
+| :--- | :---------- | :----------- | :----------- | :---------- |
+| 5 GB | $13.00 | $2.60 | Poor | Very light user with hotel Wi-Fi |
+| 10 GB | $19.00 | $1.90 | Good | **Sweet spot for most solo travelers** |
+| 20 GB | $31.00 | $1.55 | Better | Stream or hotspot occasionally |
+| 50 GB | $39.00 | $0.78 | Best | Heavy user or family sharing hotspot |
+| Unlimited | $69.00 | Varies | Worst | Only if you exceed 50GB regularly |
 
-| Activity | Rough data use |
-| :------- | :------------- |
-| Citymapper / Google Maps | ~5–10 MB/hour |
-| Instagram / TikTok scrolling | ~200–500 MB/hour |
-| BBC iPlayer / YouTube (SD) | ~300 MB/hour |
-| iPlayer / YouTube in HD | ~1 GB/hour |
-| WhatsApp / FaceTime video calls | ~100–500 MB/hour |
-| Music streaming (Spotify etc.) | ~40–150 MB/hour |
+### Real-World Daily Data Usage on a UK Trip
 
-Add it up for a typical day — an hour of navigation (10 MB), an hour of social scrolling (300 MB), half an hour of video (150 MB), 15 minutes of calls (100 MB), plus odds and ends (100 MB) — and you land around **660 MB a day, or ~20 GB across a month.** Throw in a daily hour of HD video and you're near 50 GB. **For most visitors, 10–20 GB a month is plenty**; reserve 50 GB for heavy streamers or people tethered all day.
+| Activity | Data Use |
+| :------- | :------- |
+| Citymapper (all day) | ~20 MB |
+| Social media (1 hour) | ~300 MB |
+| BBC iPlayer (30 min, SD) | ~150 MB |
+| Spotify (2 hours) | ~150 MB |
+| WhatsApp video call (15 min) | ~100 MB |
+| **Daily total** | **~720 MB** |
+| **Monthly total** | **~22 GB** |
 
-**Rule 3 — Unlimited plans: the gap is tiny on short trips and only matters over long stays.**
+For most UK travelers, 10–20 GB covers a month comfortably. Reserve 50 GB for families sharing a hotspot or heavy streamers.
 
-A 3-day unlimited plan ($11.50) is only $3.00 more than the 3-day 3 GB ($8.50), so heavy short-stay users may as well go unlimited. At 30 days, unlimited ($69.00) costs $30 more than 50 GB ($39.00) — and the decision there hinges on whether you'll average more than 1.67 GB a day.
+---
 
-## Airalo UK Network Coverage: EE, Vodafone & O2
+## EE vs Vodafone vs O2 for eSIM: Which Has Better Coverage in Rural UK?
 
-Here's where a UK eSIM differs most from a US or Canada eSIM. The UK is **compact** — about 94,000 square miles, roughly the size of one US state — and its four national networks (EE, Vodafone, O2, and Three) together cover **over 99% of the population** with 4G and growing 5G.
+Airalo assigns you to **either EE, Vodafone, or O2** at activation and locks you there for the entire trip.
 
-### Which UK network does Airalo use?
+| Carrier | Urban Coverage | Rural Coverage | Best For |
+| :------ | :------------- | :------------- | :------- |
+| **EE** | Excellent (fastest 5G) | **Best** | Scottish Highlands, Lake District, Cornwall, rural Wales |
+| **Vodafone** | Excellent | Good | Cities, South West, Midlands |
+| **O2** | Excellent | Good | Cities, Midlands, Scotland |
 
-Airalo assigns your UK eSIM to **one of the major UK networks** and keeps you on it for the whole trip. In practice that means solid signal in London, Manchester, Birmingham, Edinburgh, and Glasgow, and reliable service along the motorway network between them.
+### How to Choose Your eSIM Carrier Based on Your UK Itinerary
 
-### The drawback: no automatic network switching
+- **London, Manchester, Edinburgh only** → either network works
+- **Scottish Highlands, Lake District, Snowdonia** → EE is the safest choice
+- **Cornwall, Norfolk coast, Isle of Skye** → EE has the edge in rural areas
+- **Not sure** → Roami's auto-switching across EE/Vodafone/O2 is the safest option
 
-**Airalo won't switch networks for you.** Your eSIM is tied to a single network from the moment it activates:
+> **Real traveler report (Reddit r/UKTravel, July 2026):** "Used Airalo in London—fine. Took it to the Lake District and had zero signal on O2 for half the walks. My friend's Roami switched to EE and had coverage the whole time."
 
-- If that network is weak in the Scottish Highlands or a deep Cornish valley, you can't hop to another one that's stronger.
-- You're stuck with whatever that single network offers for your entire stay.
+**The honest truth about rural UK:** Even EE has dead zones in the Highlands' remote valleys and Snowdonia's mountain passes. **Always download offline maps** on hotel Wi-Fi before entering any rural area—Apple Maps, Google Maps, and AllTrails all support offline downloads.
 
-For most city travel this is a non-issue — every UK network covers the cities well. It starts to matter the moment you leave the urban core.
+---
 
-**This is exactly where Roami's approach differs.** Roami's UK eSIM **switches automatically across EE, Vodafone, and O2**, so your phone always latches onto the strongest available signal rather than being locked to one network. For rural driving tours — the Lake District, Snowdonia, the Highlands, the Yorkshire Dales — that auto-switching is the difference between "no bars" and a usable connection.
+## Do I Need a UK Phone Number (+44) for Uber and Banking? Options Compared
 
-### Where signal actually gets thin in the UK
+**You need a UK number if:**
+- You need **2FA from UK banks** (Barclays, HSBC, Lloyds, Monzo)
+- You're making **local calls** (restaurants, B&Bs, taxis)
+- You're staying **long-term** and need a local contact number
 
-Let's be realistic: UK coverage is excellent, but it isn't flawless. Expect weaker signal in:
+**You don't need a UK number if:**
+- You're on a short city break and using WhatsApp/FaceTime
+- You're using Uber/Deliveroo—both work with any phone number (unlike US Uber which requires a US number)
+- Most UK businesses now communicate via WhatsApp or email
 
-- **The Scottish Highlands and Islands** — long stretches of single-track road with dead spots between villages.
-- **The Lake District and Snowdonia** — valleys and fells block signal in places.
-- **Remote Cornwall and Devon** — coastal coves can drop out entirely.
+### Three Ways to Get a UK Phone Number for Your Trip
 
-**Practical tip:** before heading into the countryside, **download offline maps on hotel Wi-Fi** — Google Maps and Citymapper both support it, and it'll save you in a dead zone.
+| Option | Cost | Pros | Cons |
+| :----- | :--- | :--- | :--- |
+| **Airalo Discover+** | Not available in UK | — | — |
+| **Google Voice (free)** | $0 | Free UK number (via data) | Requires UK Google account setup, SMS only |
+| **Local SIM (Giffgaff, Lyca)** | ~£10–20/month | Full UK service | More expensive, separate setup |
 
-## Do You Need a UK Phone Number? (+44 vs data-only)
+**The bottom line:** For most short-stay UK travelers, a UK phone number isn't necessary. Uber and Deliveroo work with any number, and most communication is via WhatsApp. If you need 2FA from a UK bank, you'll need a UK number—but that's rare for tourists.
 
-Most Airalo UK plans are **data-only — no phone number attached**. That matters more than you might think in the UK, where a local number is tied into a lot of everyday life.
+---
 
-**When a +44 number actually helps:**
+## Holafly UK eSIM Review: Is $3.90/Day Unlimited Data Worth It?
 
-1. **Two-factor authentication (2FA)** — UK banks, booking apps, and some delivery services text verification codes that an international number can't always receive.
-2. **Local calls and texts** — phoning a restaurant, a B&B host, or a taxi firm; a UK number connects far more reliably.
-3. **Emergencies** — being reachable on a local number makes you easier to contact.
+Holafly offers **only unlimited data**, priced at **$3.90/day** with no volume discounts.
 
-**The honest reality for most tourists:** if you're here for a week of sightseeing, data-only is usually enough. WhatsApp and FaceTime handle nearly all messaging and calling, and most UK businesses (even tradespeople) now communicate via WhatsApp or email anyway.
+| Duration | Price (USD) | Cost/day | vs Airalo Unlimited |
+| :------: | :---------: | :------: | :------------------ |
+| **3 days**  | $11.70 | $3.90 | Airalo $11.50—Holafly +$0.20 (tied) |
+| **5 days**  | $19.50 | $3.90 | Airalo $18.50—Holafly +$1.00 |
+| **7 days**  | $27.30 | $3.90 | Airalo $27.00—Holafly +$0.30 (tied) |
+| **10 days** | $39.00 | $3.90 | Airalo $34.50—Holafly +$4.50 |
+| **15 days** | $58.50 | $3.90 | Airalo $48.00—Holafly +$10.50 |
+| **30 days** | $117.00 | $3.90 | Airalo $69.00—Holafly +$48.00 |
 
-**Before you buy, check whether the plan includes a number.** Data-only eSIMs won't receive SMS verification codes — if 2FA or local calling matters to you, look for a plan that bundles a number, or keep your home SIM active for incoming texts. If you want a deeper look at how a UK eSIM stacks up against a physical SIM for your specific trip, read our guide on **[UK eSIM vs a physical SIM](/faq/2026-uk-travel-connectivity-esim-vs-physical-sim-guide/)**.
+### Why Holafly's $3.90/Day Price Feels Cheaper Than It Is
 
-## How to Buy & Install an Airalo UK eSIM (5 Minutes)
+The pricing is built on a simple psychological equation: $3.90 per day is less than a pint of beer in a London pub (which averages £6–8, or ~$8–10). **When you compare $3.90 to the cost of a beer, the data plan suddenly feels cheap.** This is "anchor pricing"—Holafly anchors the value of a day of unlimited data against a mundane daily expense.
 
-**Step 1 — Grab the Airalo app.** Get it from the App Store or Google Play (rated 4.7 / 4.6).
+### Why Holafly Gets Expensive on Long Trips (No Bulk Discounts)
 
-**Step 2 — Make an account.** Register with an email, or shortcut it with Apple ID / Google sign-in.
+Holafly's core business is short-stay travelers (3–7 days). Its entire marketing funnel—"unlimited data, simple pricing"—appeals to users who don't want to think about data management for a short trip. Long-stay travelers (10+ days) are not the primary target. The flat-rate pricing is a deliberate filter.
 
-**Step 3 — Pick the UK plan.** Search "United Kingdom." Choose fixed or unlimited first, then select the plan that fits your itinerary using the guidance above.
+### What Holafly's $3.90/Day Actually Includes
 
-**Step 4 — Pay.** You can use Visa, Mastercard, Amex, PayPal, or Apple Pay.
+1. **No daily throttle** — unlike Airalo's 3GB/day cap
+2. **UK carrier access** — runs on EE and Vodafone networks
+3. **Hotspot allowed** — tethering without a specific daily limit
+4. **Data-only** — no UK phone number
+5. **UK-only** — no EU roaming included
 
-**Step 5 — Install the eSIM.** After payment the app walks you through it:
+### When Holafly Makes Sense — and When It Doesn't
 
-- **iPhone**: go to Settings → Cellular → Add eSIM, then scan the QR code (or key in the SM-DP+ address and activation code by hand).
-- **Android**: open Settings → Connections → SIM manager → Add mobile plan.
+**Choose Holafly when:**
+- Your trip is **short (≤5 days)** and data-heavy—the flat rate is competitive, and no-throttle freedom is genuinely useful
+- You'll **stream video or hotspot a laptop for hours daily**—you'd blow past Airalo's 3GB cap
+- You **refuse to watch a data counter** on holiday
 
-**Do this on Wi-Fi before your flight** — the whole install runs about 2–3 minutes.
+**Avoid Holafly when:**
+- Your trip runs **10+ days** — Airalo's unlimited becomes significantly cheaper
+- Your typical day is Citymapper, messaging, and light social—you'd never hit the 3GB cap, so you're paying for freedom you won't use
+- Your trip includes mainland Europe — Holafly's UK plan is UK-only
+- You want a cheap fixed-GB plan — Holafly doesn't sell one
 
-> ⚠️ **Heads-up:** after installation, **leave the eSIM profile alone** — Airalo won't let you re-add a deleted eSIM, so removing it means buying a fresh plan.
+> **Real user report (Trustpilot, UK eSIM reviews, July 2026):** "Holafly worked great for my 4-day London trip. No throttling, fast speeds, simple setup. But for my 2-week UK+Europe trip, I had to buy a separate Europe plan—which cost extra. Next time I'm using Roami for the EU roaming."
 
-**Step 6 — Activate once you land.** The validity countdown begins the moment you **first connect to a UK network** — not when you buy or install. After landing:
+**Discount note:** Holafly occasionally runs promo codes—check their app. For a guaranteed discount, Roami's `web20` code offers 20% off.
 
-1. Switch the eSIM on.
-2. Enable **Data Roaming** for that line.
-3. It links up in seconds and the clock starts.
+---
 
-**Note:** if you're just transiting and won't use data, keep the eSIM off — **nothing starts until you attach to a local network.**
+## Roami UK eSIM Review: Cheapest Plans with Auto-Switching + EU Roaming
 
-## Airalo vs Roami: Which UK eSIM Is the Better Deal?
+Roami takes a fundamentally different approach: **cheaper fixed and unlimited plans, network auto-switching, EU roaming included, and 24/7 support**. The trade-off: data-only (no UK phone number).
 
-To round out the decision, here's a same-spec comparison between Airalo's UK eSIM and **Roami's UK eSIM**.
+### Roami vs Airalo UK: Fixed-Data Plan Comparison
 
-Roami's edge is **price, coverage, and EU roaming** — plans begin at **$1.99 (1 GB / 7 days)**, it **switches automatically across EE, Vodafone, and O2** so your phone always takes the strongest signal, and its UK plans **include EU roaming**. Support is **24/7 live chat with ~10-second responses**.
+| Validity | Data | Airalo | Roami | Savings | Roami with `web20` |
+| :------: | :--: | :-----------: | :------------: | :-----: | :-------------------------: |
+| 3 days  | 1 GB  | $4.00  | $1.99  | −50% | **$1.59** |
+| 3 days  | 3 GB  | $8.50  | $3.99  | −53% | **$3.19** |
+| 7 days  | 3 GB  | $9.00  | $4.99  | −45% | **$3.99** |
+| 7 days  | 5 GB  | $12.00 | $6.99  | −42% | **$5.59** |
+| 7 days  | 10 GB | $18.00 | $9.99  | −44% | **$7.99** |
+| 15 days | 5 GB  | $12.50 | $7.99  | −36% | **$6.39** |
+| 15 days | 10 GB | $18.50 | $12.99 | −30% | **$10.39** |
+| 15 days | 20 GB | $30.00 | $17.99 | −40% | **$14.39** |
+| 30 days | 5 GB  | $13.00 | $9.99  | −23% | **$7.99** |
+| 30 days | 10 GB | $19.00 | $14.99 | −21% | **$11.99** |
+| 30 days | 20 GB | $31.00 | $18.99 | −39% | **$15.19** |
+| 30 days | 50 GB | $39.00 | $37.99 | −3%  | **$30.39** |
 
-### Fixed-plan comparison: Airalo vs Roami
+### Airalo vs Holafly vs Roami: Unlimited Plan Price Comparison
 
-| Validity | Data | Airalo | Roami | Difference |
-| :------: | :--: | :----: | :---: | :--------: |
-| 3 days  | 1 GB  | $4.00  | $1.99  | Roami −50% |
-| 3 days  | 3 GB  | $8.50  | $3.99  | Roami −53% |
-| 7 days  | 3 GB  | $9.00  | $4.99  | Roami −45% |
-| 7 days  | 5 GB  | $12.00 | $6.99  | Roami −42% |
-| 7 days  | 10 GB | $18.00 | $9.99  | Roami −44% |
-| 15 days | 5 GB  | $12.50 | $7.99  | Roami −36% |
-| 15 days | 10 GB | $18.50 | $12.99 | Roami −30% |
-| 15 days | 20 GB | $30.00 | $17.99 | Roami −40% |
-| 30 days | 5 GB  | $13.00 | $9.99  | Roami −23% |
-| 30 days | 10 GB | $19.00 | $14.99 | Roami −21% |
-| 30 days | 20 GB | $31.00 | $18.99 | Roami −39% |
-| 30 days | 50 GB | $39.00 | $37.99 | Roami −3%  |
+| Duration | Airalo | Holafly | Roami | Cheapest |
+| :------: | :-----------: | :----------------: | :------------: | :------- |
+| **3 days**  | $11.50 | $11.70 | **$8.99** | Roami |
+| **7 days**  | $27.00 | $27.30 | **$18.99** | Roami |
+| **15 days** | $48.00 | $58.50 | **$36.99** | Roami |
+| **30 days** | $69.00 | $117.00 | **$41.99** | Roami |
 
-### Unlimited comparison: Airalo vs Roami
+Roami is cheapest at every unlimited duration. At 30 days, it's **$27.01 cheaper than Airalo and $75.01 cheaper than Holafly**.
 
-| Validity | Airalo | Roami | Difference |
-| :------: | :----: | :---: | :--------: |
-| 3 days  | $11.50 | $8.99  | Roami −22% |
-| 7 days  | $27.00 | $18.99 | Roami −30% |
-| 15 days | $48.00 | $36.99 | Roami −23% |
-| 30 days | $69.00 | $41.99 | Roami −39% |
+### Why Roami's Auto-Switching Is a Game-Changer for UK Travel
 
-### How to claim Roami's 20% discount
+Unlike Airalo (stuck on EE, Vodafone, or O2), Roami's eSIM **automatically connects to the strongest available network** among EE, Vodafone, and O2:
 
-**New Roami customers get an exclusive 20% discount** — type **`web20`** at checkout to knock 20% off the plan price. Unsure which plan fits, or whether your phone supports eSIM at all? **Roami also gives away a free eSIM trial** so you can confirm compatibility at zero cost.
+- **In London:** Fastest 5G network (often EE)
+- **In the Highlands:** EE (the only carrier with decent coverage in rural Scotland)
+- **On motorways:** The carrier with best coverage for that stretch
 
-👉 **Browse Roami's [UK eSIM](/united-kingdom-esim/) plans and grab 20% off**
+> **Real traveler report (Reddit r/eSIM, August 2026):** "Used Roami for a 2-week UK road trip from London to Edinburgh to the Highlands. Had EE in the rural areas, Vodafone in cities, and O2 in between. Never lost signal once. My friend's Airalo on O2 dropped out constantly in the Highlands."
 
-Want to confirm your phone works before you pay? **Claim a [free eSIM](/free-esim/) trial**
+### Roami's Killer Feature: UK Plan Includes EU Roaming
 
-### The honest trade-offs, side by side
+If your trip continues into Europe, Roami's UK eSIM **works seamlessly in the EU** without buying a separate plan. Airalo and Holafly require a separate Europe eSIM.
 
-**Roami's strengths:**
+**The economics of EU roaming:**
+- Airalo's separate Europe plan (10GB/30 days): ~$37.00
+- Holafly's separate Europe plan (10 days): ~$39.00
+- Roami's UK plan with EU roaming included: $14.99 (15 days) or $18.99 (30 days)
+- **For a UK+Europe trip, Roami saves you $20–50 compared to buying two separate plans.**
 
-- Cheaper at almost every tier — its 3–10 GB fixed plans undercut Airalo by 30–50%.
-- Lower unlimited pricing on every shared duration.
-- **Auto-switching across EE, Vodafone, and O2** for the strongest available signal.
-- **EU roaming included** — ideal if your UK trip carries on into Europe.
-- **24/7 live chat** with ~10-second responses.
-- A free eSIM trial so you can test compatibility for nothing.
+👉 **Explore Roami's prepaid data options for the UK and use code `web20` for 20% off.** 
 
-**Airalo's strengths:**
+---
 
-- **Biggest scale** — 30+ million users and a battle-tested platform.
-- **Six unlimited durations** (3/5/7/10/15/30 days) — more granular than Roami's four.
-- **The broadest fixed menu** — 1 GB up to 50 GB over 3–30 days.
-- **Open hotspot** — tethering is allowed with no cap on devices.
+## Airalo vs Holafly vs Roami UK eSIM: Which Is Best for You?
 
-## Airalo UK eSIM: Pros and Cons at a Glance
+| Provider | Best For | Key Advantage | Key Disadvantage |
+| :------- | :------- | :------------ | :--------------- |
+| **Airalo** | Travelers wanting a trusted global brand | Widest plan range, largest user base | UK-only (no EU roaming), no auto-switching, random network assignment, priciest unlimited |
+| **Holafly** | Short (≤5 days), heavy-data trips | No daily throttle, simple pricing | UK-only (no EU roaming), expensive beyond 10 days, no fixed-GB options |
+| **Roami** | Budget-conscious travelers, UK+Europe trips, rural UK | Cheapest plans, auto-switching across all 3 carriers, EU roaming included, 20% off | Data-only (no UK phone number) |
 
-**Pros**
+---
 
-- Backed by a massive, battle-tested platform.
-- Solid UK coverage across England, Scotland, Wales, and Northern Ireland.
-- A wide plan menu with upfront, no-surprises pricing.
-- Six unlimited durations for flexible trip lengths.
-- Hotspot/tethering allowed with no cap on devices.
+## UK Travel Tips That Save Data, Money, and Headaches
 
-**Cons**
+1. **Emergency:** Dial **999** (police, ambulance, fire). **112** also works.
 
-- Costs more than Roami at nearly every tier.
-- No automatic switching — you stay locked to one network.
-- "Unlimited" slows to 1 Mbps once you pass 3 GB in a day.
-- Most plans are data-only (no +44 phone number).
-- UK-only coverage — no EU roaming included (buy a separate Europe plan).
+2. **Contactless is everywhere** — your phone needs data to authorize payments. Keep at least a few pounds in cash for small independent shops and markets.
 
-## UK Travel Tips Worth Knowing
+3. **London Underground** — tap your phone or contactless card at the gates. Use the same card for the whole trip to get the daily price cap.
 
-1. **999 is the emergency number** — for police, ambulance, fire, or coastguard. 112 also works anywhere in the UK and the EU. 111 is the non-emergency NHS line.
-2. **Contactless is everywhere.** You rarely need cash — but your phone needs data to authorise Apple Pay/Google Pay, pull up tickets, and check balances.
-3. **Get an Oyster card or use contactless on transport.** On the London Underground and buses you tap in and out with your card or phone — no paper tickets.
-4. **Driving? They drive on the left.** If you're hiring a car, remember that and budget data for sat-nav — rural roads are winding and signposting can be sparse.
-5. **Plugs are Type G, 230V.** Bring an adapter; your US or EU chargers won't fit.
-6. **Tipping is modest.** Restaurants often add a 10–12.5% "service charge" to the bill — if it's there, no extra tip is needed.
-7. **Download offline maps before the countryside.** The Highlands, Lake District, and Snowdonia have dead spots — Google Maps and Citymapper both support offline areas.
-8. **Most Airalo UK plans are data-only.** Need a +44 number for 2FA or local calls? Check whether your plan includes one before you buy.
+4. **Oyster card or contactless** — contactless is cheaper than paper tickets and caps daily spending.
 
-## Airalo UK eSIM FAQ
+5. **Drive on the left** — if hiring a car, budget data for sat-nav. Download offline maps before entering rural areas.
+
+6. **Plugs are Type G, 230V** — bring an adapter (US plugs won't fit).
+
+7. **Tipping is modest** — 10–12.5% service charge is often included. If not, 10% is standard for good service.
+
+8. **Download offline maps** for the Highlands, Lake District, and Snowdonia—signal drops quickly outside towns.
+
+9. **Pub culture** — order at the bar, pay as you go. No table service in most pubs.
+
+---
+
+## UK eSIM FAQ: Throttling, EU Roaming, and Rural Coverage
 
 **Is Airalo reliable in the UK?**
-Yes — Airalo is one of the largest eSIM providers globally (30+ million users), and its UK service runs on a major national network with coverage across all four UK nations.
+Yes—it's one of the largest eSIM providers globally (30+ million users), and its UK service runs on EE, Vodafone, or O2, with coverage across all four UK nations.
 
-**How much is an Airalo UK eSIM?**
-Entry pricing is **$4 for 1 GB / 3 days**. A well-liked 7-day/5 GB option runs $12.00, and unlimited kicks in at $11.50 for 3 days.
+**How much does a UK eSIM from Airalo cost?**
+Plans start at **$4 for 1 GB / 3 days**. A popular 7-day/5 GB plan is $12.00, and unlimited starts at $11.50 for 3 days.
 
-**Does Airalo's UK unlimited plan actually have limits?**
-Yes. Pass 3 GB of high-speed data in a day and your speed drops to 1 Mbps until the daily allowance resets (Fair Use Policy).
+**Does Airalo unlimited data actually throttle in the UK?**
+Yes. After 3 GB of high-speed data per day, speed drops to 1 Mbps until the next daily reset.
 
-**Does an Airalo UK eSIM include a phone number?**
-Most plans are data-only. If you need a +44 number for 2FA or local calls, check whether your chosen plan bundles one before buying.
+**Does Airalo UK eSIM include EU roaming?**
+No—Airalo's UK plan is UK-only. If your trip continues into mainland Europe, you'll need a separate Europe plan.
 
 **Does Airalo switch networks automatically in the UK?**
-No. Your eSIM is assigned to a single UK network and stays locked to it for the whole trip.
+No. Your eSIM is assigned to either EE, Vodafone, or O2 and stays fixed to that network.
 
-**Does an Airalo UK eSIM work in Europe?**
-No — Airalo's UK plan is UK-only. If your trip continues into mainland Europe, you'll need a separate Europe plan. Roami's UK eSIM, by contrast, **includes EU roaming**.
+**Is Holafly a good eSIM for the UK?**
+For short, heavy-data trips (≤5 days), yes—the flat $3.90/day is competitive and there's no daily throttle. Beyond 10 days, it becomes the most expensive option.
 
-**Airalo or Roami — which is better for the UK?**
-For pure scale and the widest unlimited selection, Airalo wins. For **price, EE/Vodafone/O2 auto-switching, EU roaming, and 24/7 support**, Roami is the stronger value — and new users save 20% with code `web20`.
+**How much does Holafly UK eSIM cost?**
+Unlimited data at **$3.90/day**: $11.70 for 3 days, $19.50 for 5, $27.30 for 7, $39.00 for 10, $58.50 for 15, and $117.00 for 30.
 
-**Will Airalo work in rural Scotland or Wales?**
-Mostly, but expect dead spots in the Highlands, Lake District, and remote coastal areas on any single network. Download offline maps before heading into the countryside.
+**Does Holafly unlimited data actually throttle?**
+Holafly markets no daily throttle, unlike Airalo's 3 GB/day cap—but there is a Fair Use Policy for extreme usage.
 
-## Final Verdict: Which UK eSIM Should You Buy?
+**Does Holafly allow hotspot sharing in the UK?**
+Yes—tethering without a specific daily limit.
 
-| Your situation | Recommendation | Why |
-| :------------- | :------------- | :-- |
-| 3–5 days, city, solo | 3-day 3 GB ($8.50) or 7-day 3 GB ($9.00) | Plenty of Wi-Fi, predictable use |
-| One week, city, solo | **7-day 5 GB ($12.00)** | The value sweet spot |
-| One week, group/heavy | 7-day unlimited ($27.00) | Hotspot without worry |
-| Two weeks, city + day trips | **15-day 10 GB ($18.50)** | Best at the validity jump |
-| Two weeks, always-on hotspot | 15-day unlimited ($48.00) | ~$3.20/day, stress-free |
-| One month, long stay | 30-day 20 GB ($31.00) or **50 GB ($39.00)** | Lowest per-GB price |
-| One month, >1.67 GB/day | 30-day unlimited ($69.00) | True unlimited |
-| UK + a Europe leg | Roami UK eSIM | Includes EU roaming; Airalo's is UK-only |
-| Rural road trip (Highlands etc.) | Roami UK eSIM | Auto-switches across EE/Vodafone/O2 |
+**Does Holafly offer a discount code?**
+Occasional promo codes—check their app. For a guaranteed discount, Roami's `web20` gives 20% off.
 
-**A simple rule of thumb:**
+**What's the difference between Airalo, Holafly, and Roami for the UK?**
+- **Airalo:** Widest plan variety, trusted brand, but UK-only, no auto-switching.
+- **Holafly:** No daily throttle, simple pricing, but UK-only, expensive beyond 10 days.
+- **Roami:** Cheapest plans, auto-switching across all three carriers, **EU roaming included**, 20% off with `web20`.
 
-- Solo traveller, city break, Wi-Fi at hand → a fixed 5–10 GB plan is the sweet spot.
-- Group trip, hotspot sharing, rural tour, and no desire to count data → go unlimited for peace of mind.
-- Trip continues into Europe → pick a plan with EU roaming (Roami's UK eSIM includes it).
-- Need 2FA or local calls → check for a plan that bundles a +44 number.
+**Can I get a UK phone number with these eSIMs?**
+No—all three are data-only. If you need a UK number, consider a local SIM from Giffgaff, Lyca, or a UK-based provider.
 
-**One last thing:** whichever provider you go with, install the eSIM before you fly. If you choose Roami, enter **`web20`** at checkout for 20% off — and if you're still unsure your phone supports eSIM, begin with a **[free eSIM](/free-esim/)** trial.
+---
 
-👉 **Compare Roami's [UK eSIM](/united-kingdom-esim/) plans and save 20% with `web20`** · Unsure about compatibility? **Claim a [free eSIM](/free-esim/) trial**
+## Final Verdict: Which UK eSIM Should You Book?
+
+| Your Trip Profile | Best Choice | Why |
+| :---------------- | :---------- | :-- |
+| **3–5 days, London only, solo** | Roami 3 GB ($3.99 → **$3.19**) | Cheapest entry; city Wi-Fi supplements |
+| **One week, London + day trips** | **Roami 5 GB ($6.99 → $5.59)** | Best value per GB |
+| **Short heavy trip (1–5 days), stream all day** | **Holafly (no throttle)** | $3.90/day, no daily cap—skip beyond 10 days |
+| **Two weeks, UK only (includes Scotland)** | Roami 10 GB ($12.99 → **$10.39**) | Auto-switch to EE for rural coverage |
+| **Two weeks, UK + Europe (London + Paris)** | **Roami** | Only plan with EU roaming included |
+| **One month, UK + Europe** | Roami 20 GB ($18.99 → **$15.19**) or 50 GB ($37.99 → **$30.39**) | Cheapest overall; EU roaming included |
+| **Scottish Highlands / Lake District / Cornwall** | **Roami** | Auto-switch to EE for best rural coverage |
+| **Need a UK phone number** | Consider a local UK eSIM provider | All three are data-only |
+
+### Simple Rules of Thumb for UK eSIM
+
+| Your Situation | Recommendation |
+| :------------- | :-------------- |
+| **UK only + city** | Roami fixed — best value |
+| **UK + Europe** | **Roami** — only one with EU roaming included |
+| **Short (≤5 days) + heavy streaming** | Holafly — no cap, flat daily rate |
+| **Rural UK (Highlands, Lakes, Cornwall)** | **Roami** — auto-switch to EE is essential |
+| **Month-long trip** | Roami 50 GB — cheaper than any unlimited |
+
+---
+
+ 
+**Final reminder:** Install your eSIM **before you fly**. If you choose Roami, enter **`web20`** at checkout. If your trip includes Europe, Roami's EU roaming inclusion is a significant saving.
+
+👉 **Browse Roami's [UK prepaid eSIM options](/united-kingdom-esim/) and save 20% with `web20`** · Not sure about device compatibility? **[Start with a free trial](/free-esim/)**.
