@@ -80,8 +80,6 @@ sidebar_questions:
       url: "/compatibility/"
     - question: "Claro tem eSIM no Brasil?"
       url: "/claro-esim/"
-    - question: "Qual o melhor eSIM para viajar?"
-      url: "/best-travel-esim/"
 ---
 
 **Última atualização:** 11 de agosto de 2026 | Tempo de leitura: 14 minutos

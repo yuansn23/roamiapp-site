@@ -157,7 +157,7 @@ brands:
   - name: "Apple iPhone"
     icon: "apple"
     bg_color: "bg-slate-900"
-    description: "<strong>iPhone 11, iPhone XR, iPhone SE (2020/2022)</strong> are all eSIM compatible – as well as iPhone 12/13/14/15/16/17 series. All iPhone models from <strong>iPhone XS/XR</strong> to <strong>iPhone 17 Pro Max</strong> support eSIM. <a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-blue-600\">Set up eSIM on iPhone</a> via QR code or carrier app. The lineup includes iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, iPhone 16, iPhone 15, iPhone 14, iPhone 13, iPhone 12, iPhone 11 and SE. Find out which iPhones support eSIM in our table."
+    description: "<strong>iPhone 11, iPhone XR, iPhone SE (2020/2022)</strong> are all eSIM compatible – as well as iPhone 12/13/14/15/16/17 series. All iPhone models from <strong>iPhone XS/XR</strong> to <strong>iPhone 17 Pro Max</strong> support eSIM. Set up eSIM on iPhone via QR code or carrier app. The lineup includes iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, iPhone 16, iPhone 15, iPhone 14, iPhone 13, iPhone 12, iPhone 11 and SE. Find out which iPhones support eSIM in our table."
     note: "<strong>Note:</strong> iPhones sold in mainland China do not support eSIM. iPhones sold in Hong Kong and Macau have only partial eSIM support. Please check your specific model.<br><strong>Important for older models:</strong> iPhone 6s, 6s Plus, 7, 7 Plus, 8, 8 Plus, and iPhone X do NOT support eSIM (hardware limitation). Searches like \"iphone 7 esim compatible\" or \"iphone 6s esim compatible\" will return negative – you need at least an iPhone XR or newer."
     note_class: "bg-amber-50 border-amber-100 text-amber-800"
     groups:

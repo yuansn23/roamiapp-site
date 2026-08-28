@@ -58,18 +58,12 @@ recentPosts:
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch eSIM Compatibility Complete List"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM Compatibility Guide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
   - title: "iPhone 11 eSIM Complete Setup Guide"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
-    date: "2026-05-20"
 ---
 
 A UK eSIM with a phone number for calls and SMS runs you between 5 GBP and 35 GBP a month. Finding a UK eSIM card with phone number capability built in is surprisingly straightforward once you know which providers offer full-service plans. A data eSIM UK visitors can pair with a cheap voice line often costs less than an all-in-one contract plan. Based on provider plan comparisons (July 2026), giffgaff (15 GBP for 15 GB on the O2 network) and Lebara (10 GBP for 15 GB on Vodafone's network) are the two best options for anyone who needs SMS verification for Uber, banking, and food delivery apps. Here's the honest truth, though: data-only eSIMs like Roami cost less and work brilliantly for browsing, maps, and messaging. They just can't receive SMS verification codes from UK banks (Monzo, Starling, HSBC), ride-hailing apps (Uber, Bolt), or the NHS. All three of those require a real UK mobile number — not a VoIP number, per [Ofcom](https://www.ofcom.org.uk) identity verification rules introduced in 2022.

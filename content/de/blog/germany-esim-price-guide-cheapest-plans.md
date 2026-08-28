@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Günstigste Deutschland eSIM: Tarife im Vergleich"
 description: "Deutschland eSIM Preise von 3 EUR für 1 GB bis 50 EUR für 50 GB: Tarife im Wertvergleich – Roami mit automatischem Netzwechsel."
 keywords: ["günstigste Deutschland eSIM", "Deutschland eSIM Preis", "Deutschland eSIM Kosten", "Deutschland eSIM Datentarif Kosten"]
@@ -43,9 +43,6 @@ recentPosts:
   - title: "Duale eSIM funktioniert nicht? 12 Lösungen für iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch-eSIM-Kompatibilität vollständige Liste"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM-Kompatibilitätsleitfaden"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

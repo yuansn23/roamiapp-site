@@ -75,8 +75,6 @@ sidebar_questions:
       url: "/compatibility/"
     - question: "Vodafone tem eSIM em Portugal?"
       url: "/vodafone-esim/"
-    - question: "Qual o melhor eSIM para viajar?"
-      url: "/best-travel-esim/"
 ---
 
 

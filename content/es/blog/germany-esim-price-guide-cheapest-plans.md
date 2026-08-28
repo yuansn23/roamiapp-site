@@ -1,4 +1,4 @@
-﻿---
+---
 title: "La eSIM más Barata para Alemania: Precios y Planes"
 description: "Precios de eSIM para Alemania desde EUR 3. Roami compara planes por valor e incluye conmutación automática de red. Pruébala."
 keywords: ["eSIM Alemania más barata", "precio eSIM Alemania", "costo eSIM Alemania", "costo plan de datos eSIM Alemania"]
@@ -43,9 +43,6 @@ recentPosts:
   - title: "¿Doble eSIM no funciona? 12 soluciones para iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Lista completa de compatibilidad de eSIM para smartwatches"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "Guía de compatibilidad de eSIM para iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

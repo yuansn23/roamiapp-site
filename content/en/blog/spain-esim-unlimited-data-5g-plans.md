@@ -43,18 +43,12 @@ recentPosts:
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch eSIM Compatibility Complete List"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM Compatibility Guide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
   - title: "iPhone 11 eSIM Complete Setup Guide"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
-    date: "2026-05-20"
 ---
 
 **Quick Answer:** After testing all major providers, we recommend the **Multi‑Network 50GB plan** for most travelers — it delivers more usable full‑speed data (50GB) than daily‑throttled "unlimited" plans, at a lower cost (€0.58 per GB), with hotspot support and automatic carrier switching. **Holafly** offers truly unlimited total data but restricts hotspot and throttles after 1GB daily. **Orange Holiday Europe** (25GB, €29.99) is the only option with a Spanish phone number for local app verification. If you need hotspot for laptop work and don't want to monitor daily usage, multi‑network plans are the clear winner.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "China eSIM für Hongkong und Macau im großen Vergleich"
 description: "China eSIM für Hongkong und Macau: separate Telekommunikationsgebiete. Roami vergleicht 3HK, CMHK und eSIM-Tarife für Asienreisen."
 keywords: ["China Macau eSIM", "China Hongkong eSIM", "Multi-Land-Asien eSIM", "3HK eSIM China", "CMHK eSIM China"]
@@ -42,9 +42,6 @@ recentPosts:
   - title: "Dual-eSIM funktioniert nicht? 12 Behebungen für iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Vollständige Liste der Smartwatch-eSIM-Kompatibilität"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM-Kompatibilitätsleitfaden"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Solución de Problemas de eSIM en China"
 description: "¿Tu eSIM en China no funciona? En Roami te explicamos cómo solucionar fallos de activación, falta de señal y datos lentos. Consulta nuestra guía paso a paso"
 keywords: ["eSIM China no funciona", "eSIM China sin señal", "solución de problemas eSIM China", "fallo activación eSIM China", "VPN eSIM China no funciona", "datos lentos eSIM China", "configuración APN eSIM China", "doble SIM eSIM China"]
@@ -42,9 +42,6 @@ recentPosts:
   - title: "¿Doble eSIM no funciona? 12 soluciones para iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Lista completa de compatibilidad eSIM para smartwatches"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "Guía de compatibilidad eSIM para iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

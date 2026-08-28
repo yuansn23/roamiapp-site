@@ -293,7 +293,7 @@ Você não pode inserir um SIM físico como backup. Suas opções:
 - iPhones bloqueados por operadora – arriscado para eSIM de viagem.
 - Modelos dos USA apenas eSIM como telefone de backup (sem slot SIM físico).
 
-Para alternativas Android, consulte nosso **[guia de compatibilidade eSIM Samsung Galaxy](/faq/samsung-galaxy-esim-compatible/)** e **[guia de compatibilidade eSIM Google Pixel](/faq/google-pixel-6-esim-compatible/)**.
+Para alternativas Android, consulte nosso **[guia de compatibilidade eSIM Google Pixel](/faq/google-pixel-6-esim-compatible/)**.
 
 ### Como verificar antes de comprar
 1. Verifique o número do modelo (evite CH/A).

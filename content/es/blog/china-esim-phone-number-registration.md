@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Número chino con eSIM: guía paso a paso"
 description: "¿La mayoría de eSIM no incluyen número chino? Con Roami descubre proveedores, registro con pasaporte y alternativas para WeChat. Pruébala gratis"
 keywords: ["eSIM China con número de teléfono", "número chino para WeChat", "eSIM China con SMS", "registro con pasaporte eSIM China", "eSIM China solo datos vs con número"]
@@ -43,9 +43,6 @@ recentPosts:
   - title: "¿Doble eSIM no funciona? 12 soluciones para iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Lista completa de compatibilidad eSIM para smartwatches"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "Guía de compatibilidad eSIM para iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

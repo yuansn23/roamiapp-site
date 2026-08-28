@@ -1,4 +1,4 @@
-﻿---
+---
 title: "eSIM, SIM física o Roaming en China: ¿Cuál Elegir?"
 description: "Tres formas de conectarse en China. Roami compara eSIM, SIM física y roaming en costos, Google y configuración. Pruébala gratis."
 keywords: ["China eSIM vs SIM física", "China eSIM vs roaming", "mejor forma de tener internet en China", "SIM China vs eSIM", "conectividad viaje China", "eSIM China roaming internacional", "China eSIM vs SIM local", "eSIM con VPN para China"]
@@ -42,9 +42,6 @@ recentPosts:
   - title: "¿Dual eSIM no funciona? 12 Soluciones para iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Lista completa de compatibilidad de eSIM para Smartwatch"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "Guía de compatibilidad de eSIM para iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

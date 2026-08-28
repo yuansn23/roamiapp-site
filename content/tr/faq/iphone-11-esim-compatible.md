@@ -294,7 +294,7 @@ Yedek olarak fiziksel SIM takamazsınız. Seçenekleriniz:
 - Operatör kilitli iPhone'lar – seyahat eSIM'i için riskli.
 - Yedek telefon olarak ABD yalnızca eSIM modelleri (fiziksel SIM yuvası yok).
 
-Android alternatifleri için **[Samsung Galaxy eSIM uyumluluk rehberimize](/faq/samsung-galaxy-esim-compatible/)** ve **[Google Pixel eSIM uyumluluk rehberimize](/faq/google-pixel-6-esim-compatible/)** bakın.
+Android alternatifleri için **[Google Pixel eSIM uyumluluk rehberimize](/faq/google-pixel-6-esim-compatible/)** bakın.
 
 ### Satın almadan önce doğrulama
 1. Model numarasını kontrol edin (CH/A'dan kaçının).

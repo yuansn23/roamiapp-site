@@ -64,18 +64,12 @@ recentPosts:
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch eSIM Compatibility Complete List"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM Compatibility Guide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
   - title: "iPhone 11 eSIM Complete Setup Guide"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
-    date: "2026-05-20"
 ---
 
 ## UK eSIM 2026: The Complete Guide to Staying Connected Post-Brexit
@@ -286,7 +280,7 @@ Activation takes less than 2 minutes. Do it **before you fly** – you only need
 
 **Important:** Install the eSIM before you fly – you need a stable Wi-Fi connection for the download. Do not delete an active eSIM profile during the trip. If "No Service" appears, toggle Airplane Mode or restart the phone – do not delete the profile.
 
-For detailed iPhone instructions, see our [iPhone 17 eSIM Complete Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/). If you encounter issues, check [device compatibility](/compatibility/) to confirm your phone supports eSIM.
+For detailed iPhone instructions, check [device compatibility](/compatibility/) to confirm your phone supports eSIM.
 
 
 ## UK eSIM Not Working? Common Problems and Quick Fixes

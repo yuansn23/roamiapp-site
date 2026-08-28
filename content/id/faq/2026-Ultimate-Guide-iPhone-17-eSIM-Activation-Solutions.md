@@ -217,7 +217,7 @@ Disesuaikan dengan antarmuka iOS 19 yang ramping, ada tiga jalur aktivasi tanpa 
 | Banyak profil | Ganti kartu setiap kali | Simpan 8‑10 profil, ganti dengan satu ketukan |
 | Risiko fisik | Mudah hilang atau merusak baki | Nol risiko fisik |
 
-Bagi pelancong, eSIM adalah pemenang yang jelas – terutama saat mengunjungi banyak negara. Untuk perbandingan komprehensif penyedia, lihat **[opsi eSIM AS terbaik untuk 2026](/faq/2026-best-esim-options-for-the-usa/)** .
+Bagi pelancong, eSIM adalah pemenang yang jelas – terutama saat mengunjungi banyak negara.
 
 ---
 

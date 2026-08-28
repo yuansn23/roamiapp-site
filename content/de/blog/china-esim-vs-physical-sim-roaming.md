@@ -1,4 +1,4 @@
-﻿---
+---
 title: "China eSIM vs physische SIM vs Roaming: Leitfaden"
 description: "3 Wege, in China verbunden zu bleiben: eSIM, physische SIM, Roaming. Roami vergleicht Kosten, Google und Einrichtungsaufwand."
 keywords: ["China eSIM vs physische SIM", "China eSIM vs Roaming", "bester Weg für Internet in China", "China SIM-Karte vs eSIM", "China Reise Konnektivität", "eSIM China internationales Roaming", "China eSIM vs lokale SIM", "eSIM mit VPN für China"]
@@ -42,9 +42,6 @@ recentPosts:
   - title: "Dual-eSIM funktioniert nicht? 12 Behebungen für iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch-eSIM-Kompatibilität – vollständige Liste"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM-Kompatibilitätsguide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

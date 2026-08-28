@@ -58,18 +58,12 @@ recentPosts:
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch eSIM Compatibility Complete List"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM Compatibility Guide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
   - title: "iPhone 11 eSIM Complete Setup Guide"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
-    date: "2026-05-20"
 ---
 
 Travellers to the UK have three main connectivity options, each with wildly different cost and convenience profiles based on provider pricing from July 2026. A UK eSIM costs GBP 5-25, installs in two minutes over WiFi, and keeps your home SIM active for two-factor authentication — it's the cheapest and most convenient choice for solo travellers and couples. A physical SIM from a high-street shop costs GBP 10-20 but requires a store visit and photo ID under UK regulations introduced in 2024. Pocket WiFi rentals at GBP 25-45 per week only make financial sense for groups of three or more sharing a single device.

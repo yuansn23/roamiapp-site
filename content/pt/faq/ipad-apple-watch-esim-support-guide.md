@@ -293,7 +293,7 @@ Para solução de problemas mais aprofundada (incluindo problemas de dual‑eSIM
 ## Outros dispositivos: smartwatches e flip phones com eSIM
 
 ### Smartwatches com eSIM (Não‑Apple)
-- **Samsung Galaxy Watch (5/6/7, Ultra)** – suportam eSIM (independente ou pareado). Veja nosso **[guia de compatibilidade Samsung Galaxy eSIM](/pt/faq/samsung-galaxy-esim-compatible/)** para mais detalhes.
+- **Samsung Galaxy Watch (5/6/7, Ultra)** – suportam eSIM (independente ou pareado).
 - **Google Pixel Watch (1/2/3)** – suportam eSIM (requer telefone Android pareado). Veja nosso **[guia de compatibilidade Google Pixel eSIM](/pt/faq/google-pixel-6-esim-compatible/)**.
 - **Garmin Venu 2 Plus** – suporte eSIM limitado.
 - **Xiaomi Watch 2 Pro** – eSIM disponível em algumas regiões.

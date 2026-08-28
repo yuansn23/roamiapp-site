@@ -217,7 +217,7 @@ Adaptado à interface simplificada do iOS 19, existem três caminhos de ativaç�
 | Múltiplos perfis | Trocar cartões a cada vez | Armazene 8 a 10 perfis, alterne com um toque |
 | Risco físico | Fácil de perder ou danificar a bandeja | Risco físico zero |
 
-Para viajantes, o eSIM é o claro vencedor – especialmente ao visitar vários países. Para uma comparação abrangente de provedores, consulte nosso **[melhores opções de eSIM para os USA em 2026](/faq/2026-best-esim-options-for-the-usa/)**.
+Para viajantes, o eSIM é o claro vencedor – especialmente ao visitar vários países.
 
 ---
 

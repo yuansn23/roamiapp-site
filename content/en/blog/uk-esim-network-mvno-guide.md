@@ -58,18 +58,12 @@ recentPosts:
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch eSIM Compatibility Complete List"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM Compatibility Guide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
   - title: "iPhone 11 eSIM Complete Setup Guide"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
-    date: "2026-05-20"
 ---
 
 The UK has four physical mobile networks that own infrastructure: EE (88% 4G landmass coverage), Vodafone (82%), O2 (78%), and Three (68%), according to [Ofcom](https://www.ofcom.org.uk) (2026). If you're a tourist picking a UK eSIM — whether a Great Britain eSIM for a multi-city tour or a simple data plan for London — here's what actually matters: EE dominates rural areas and Scotland, Three is fastest in cities but weakest in the countryside, Vodafone offers strong city coverage but sells no prepaid eSIM to tourists, and O2 includes valuable free EU roaming.

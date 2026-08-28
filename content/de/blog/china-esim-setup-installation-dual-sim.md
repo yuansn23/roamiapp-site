@@ -1,4 +1,4 @@
-﻿---
+---
 title: "China eSIM Einrichtung: iPhone und Android Dual-SIM"
 description: "China eSIM Einrichtung für iPhone und Android: Kompatibilität, Dual-SIM, APN, Datenroaming und VPN – Schritt für Schritt erklärt."
 keywords: ["China eSIM Einrichtung", "China eSIM iPhone installieren", "China eSIM Dual-SIM", "China eSIM APN-Einstellungen", "China eSIM Android"]
@@ -42,9 +42,6 @@ recentPosts:
   - title: "Duale eSIM funktioniert nicht? 12 Lösungen für iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch-eSIM-Kompatibilitätsliste vollständig"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM-Kompatibilitätsleitfaden"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

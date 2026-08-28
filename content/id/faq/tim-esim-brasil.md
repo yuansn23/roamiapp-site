@@ -75,8 +75,6 @@ sidebar_questions:
       url: "/compatibility/"
     - question: "TIM tem eSIM no Brasil?"
       url: "/faq/tim-esim-brasil/"
-    - question: "Qual o melhor eSIM para viajar?"
-      url: "/best-travel-esim/"
 ---
 
 **Última atualização:** 11 de agosto de 2026 | Tempo de leitura: 14 minutos

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cobertura de la eSIM en China: ¿Qué Tal Funciona?"
 description: "China Mobile cubre el 99% de China. La guía de Roami evalúa Pekín, Shanghái, trenes de alta velocidad y 5G. Pruébala gratis."
 keywords: ["cobertura eSIM China", "eSIM China 5G", "eSIM China Pekín Shanghái", "eSIM China tren alta velocidad", "cobertura eSIM China Mobile"]
@@ -42,9 +42,6 @@ recentPosts:
   - title: "¿Doble eSIM no funciona? 12 soluciones para iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Lista completa de compatibilidad de eSIM para smartwatches"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "Guía de compatibilidad de eSIM para iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

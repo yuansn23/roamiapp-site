@@ -1,4 +1,4 @@
-﻿---
+---
 title: "China eSIM Preise: Günstigste Tarife im Vergleich"
 description: "China eSIM Preise nach Anbieter, Datenstufe und Reisedauer: von 1 GB bis Unlimited, 5G-Kosten und Promo-Codes im Überblick."
 keywords: ["China eSIM Preis", "günstigste China eSIM", "China eSIM unbegrenzt", "China eSIM Promo-Code", "China eSIM 5G", "China eSIM Prepaid", "China eSIM Hongkong Routing", "China eSIM Datentarif"]
@@ -42,9 +42,6 @@ recentPosts:
   - title: "Dual-eSIM funktioniert nicht? 12 Behebungen für iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch-eSIM-Kompatibilität – vollständige Liste"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM-Kompatibilitätsguide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

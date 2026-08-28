@@ -363,5 +363,4 @@ Se il tuo iPad è un modello cellulare, puoi testare la sua funzionalità eSIM c
 
 - [Elenco completo dei telefoni compatibili con eSIM (2026)](/compatibility/)
 - [Compatibilità eSIM Google Pixel](/faq/google-pixel-6-esim-compatible/)
-- [Compatibilità eSIM Samsung Galaxy](/faq/samsung-galaxy-esim-compatible/)
 - [Guida compatibilità eSIM iPhone](/faq/iphone-11-esim-compatible/)

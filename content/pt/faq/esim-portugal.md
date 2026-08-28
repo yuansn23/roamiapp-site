@@ -73,8 +73,6 @@ sidebar_questions:
       url: "/faq/how-to-activate-an-esim/"
     - question: "Meu telefone é compatível com eSIM?"
       url: "/compatibility/"
-    - question: "Qual o melhor eSIM para viajar?"
-      url: "/best-travel-esim/"
     - question: "eSIM Portugal compensa?"
       url: "/esim-portugal-guia-completo/"
 ---

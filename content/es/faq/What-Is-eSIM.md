@@ -187,7 +187,7 @@ El funcionamiento de la eSIM en Android es idéntico en esencia: el mismo chip e
 
 - **Google Pixel**: Pixel 3 y posteriores admiten eSIM. La opción está en **Ajustes > Red e Internet > SIMs > Añadir eSIM**. Los Pixel más recientes (6 y superiores) también admiten doble eSIM. Consulta nuestra [guía de compatibilidad eSIM en Google Pixel](/faq/google-pixel-6-esim-compatible/).
 
-- **Xiaomi**: Solo algunos modelos globales (Xiaomi 13, 14, 13T Pro) son compatibles con eSIM. Las versiones con ROM China no tienen eSIM. Consulta nuestra [guía de compatibilidad eSIM en Xiaomi](/faq/xiaomi-esim-compatible/).
+- **Xiaomi**: Solo algunos modelos globales (Xiaomi 13, 14, 13T Pro) son compatibles con eSIM. Las versiones con ROM China no tienen eSIM.
 
 - **OnePlus**: OnePlus 11, 12 y 13 son compatibles con eSIM en sus versiones globales. Los modelos bloqueados por operador en EE.UU. pueden tener eSIM deshabilitado.
 

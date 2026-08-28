@@ -1,4 +1,4 @@
-﻿---
+---
 title: "China eSIM nach Reiseart: Den besten Tarif finden"
 description: "China eSIM nach Reiseart: Kurztrips 1-3 GB, Geschäftsreisen 5-10 GB, Familien brauchen Hotspot. Roami ordnet 14 Szenarien zu."
 keywords: ["China eSIM für Geschäftsreise", "China eSIM für Familie", "China eSIM für Studenten", "China eSIM Langzeitaufenthalt", "China eSIM Datenvolumen"]
@@ -42,9 +42,6 @@ recentPosts:
   - title: "Dual-eSIM funktioniert nicht? 12 Behebungen für iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch-eSIM-Kompatibilität – vollständige Liste"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM-Kompatibilitätsguide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

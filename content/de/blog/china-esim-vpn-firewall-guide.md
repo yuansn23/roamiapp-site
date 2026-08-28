@@ -1,4 +1,4 @@
-﻿---
+---
 title: "China Firewall mit eSIM umgehen: der VPN-Leitfaden"
 description: "Die Firewall blockiert Google, WhatsApp und Instagram. eSIMs mit Hongkong-Routing oder integrierten VPNs umgehen Beschränkungen."
 keywords: ["China Firewall Umgehung eSIM", "Große Firewall eSIM", "China VPN eSIM", "Hongkong Routing eSIM", "China Internetzugang eSIM"]
@@ -42,9 +42,6 @@ recentPosts:
   - title: "Duale eSIM funktioniert nicht? 12 Lösungen für iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch-eSIM-Kompatibilitätsliste vollständig"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM-Kompatibilitätsleitfaden"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

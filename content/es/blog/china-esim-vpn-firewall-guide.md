@@ -1,4 +1,4 @@
-﻿---
+---
 title: "eSIM con VPN para China: Cómo tener internet"
 description: "Google y WhatsApp están bloqueados en China. Con una eSIM con VPN podrás acceder a internet sin restricciones. Guía para viajeros"
 keywords: ["eSIM para eludir el cortafuegos de China", "eSIM Gran Cortafuegos", "eSIM con VPN para China", "eSIM con enrutamiento Hong Kong", "eSIM acceso a internet en China"]
@@ -42,9 +42,6 @@ recentPosts:
   - title: "¿Doble eSIM no funciona? 12 soluciones para iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Lista completa de compatibilidad eSIM para smartwatches"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "Guía de compatibilidad eSIM para iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

@@ -293,7 +293,7 @@ Daha derinlemesine sorun giderme (iPhone/iPad'de çift eSIM sorunları dahil) i�
 ## Diğer cihazlar: esim li akıllı saatler ve katlanabilir telefonlar
 
 ### esim li Akıllı Saatler (Apple Dışı)
-- **Samsung Galaxy Watch (5/6/7, Ultra)** – eSIM'i destekler (bağımsız veya eşleştirilmiş). Daha fazla ayrıntı için **[Samsung Galaxy eSIM uyumluluk rehberimize](/faq/samsung-galaxy-esim-compatible/)** bakın.
+- **Samsung Galaxy Watch (5/6/7, Ultra)** – eSIM'i destekler (bağımsız veya eşleştirilmiş).
 - **Google Pixel Watch (1/2/3)** – eSIM'i destekler (eşleştirilmiş Android telefon gerektirir). **[Google Pixel eSIM uyumluluk rehberimize](/faq/google-pixel-6-esim-compatible/)** bakın.
 - **Garmin Venu 2 Plus** – sınırlı eSIM desteği.
 - **Xiaomi Watch 2 Pro** – bazı bölgelerde eSIM mevcuttur.

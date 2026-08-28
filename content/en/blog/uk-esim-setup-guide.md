@@ -58,18 +58,12 @@ recentPosts:
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch eSIM Compatibility Complete List"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM Compatibility Guide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
   - title: "iPhone 11 eSIM Complete Setup Guide"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
-    date: "2026-05-20"
 ---
 Installing a UK eSIM before your trip takes under five minutes and gets you connected the moment you land anywhere in Great Britain. Having the eSIM pre-installed is the difference between walking straight through to the Uber pickup and fumbling with airport WiFi for 20 minutes. This guide covers every step: check device compatibility, buy a plan online, scan the QR code, configure APN settings, enable data roaming, and troubleshoot common issues. Whether you need a UK eSIM for a weekend in London, a Great Britain eSIM for a road trip through the Cotswolds, or an England eSIM for hiking in the Lake District, the installation process is the same across iPhone and Android.
 

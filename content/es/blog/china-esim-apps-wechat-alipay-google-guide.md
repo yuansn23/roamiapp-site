@@ -1,4 +1,4 @@
-﻿---
+---
 title: "¿Qué Apps Funcionan en China con una eSIM de Viaje?"
 description: "Descubre qué aplicaciones funcionan con una eSIM de China. Roami cubre Google Maps, WhatsApp, WeChat y Alipay. Pruébala gratis."
 keywords: ["Aplicaciones eSIM China", "Google Maps eSIM China", "WhatsApp eSIM China", "WeChat eSIM China", "Alipay eSIM China", "Google Translate eSIM China"]
@@ -42,9 +42,6 @@ recentPosts:
   - title: "¿Doble eSIM no funciona? 12 soluciones para iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Lista completa de compatibilidad de eSIM para smartwatches"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "Guía de compatibilidad eSIM para iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

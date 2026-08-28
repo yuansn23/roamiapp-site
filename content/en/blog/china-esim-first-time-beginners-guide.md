@@ -42,18 +42,12 @@ recentPosts:
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch eSIM Compatibility Complete List"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM Compatibility Guide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
   - title: "iPhone 11 eSIM Complete Setup Guide"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
-    date: "2026-05-20"
 ---
 If this is your first time using an eSIM for China, don't worry — the process is simpler than it sounds. This beginner's guide walks you through everything from compatibility to setup, with no prior knowledge assumed. An eSIM is a programmable chip inside your phone that connects to mobile networks without a physical SIM card. For China travel, an international eSIM with Hong Kong routing provides data access that bypasses the Great Firewall — Google, WhatsApp, and Instagram work normally. This beginner's guide covers phone compatibility, step-by-step setup, common mistakes, free trials, and customer support contacts for first-time eSIM users.
 

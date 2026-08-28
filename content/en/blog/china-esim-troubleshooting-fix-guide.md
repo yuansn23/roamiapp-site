@@ -42,18 +42,12 @@ recentPosts:
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch eSIM Compatibility Complete List"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM Compatibility Guide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
   - title: "iPhone 11 eSIM Complete Setup Guide"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
-    date: "2026-05-20"
 ---
 
 > **Key takeaways:** Most no-signal issues are fixed by manual network selection — turn off Automatic and select China Mobile, then try China Unicom. For blocked apps like Google, WhatsApp, Instagram, and Facebook, a VPN installed before arrival is the only solution. Slow data is often fixed by switching to China Unicom or enabling a VPN, and confirm your phone is unlocked, since a carrier-locked phone cannot accept an eSIM from a different provider. The single most important caveat is that your China eSIM routes through a Chinese carrier, so the Great Firewall applies to all your traffic.

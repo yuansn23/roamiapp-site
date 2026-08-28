@@ -58,18 +58,12 @@ recentPosts:
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch eSIM Compatibility Complete List"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM Compatibility Guide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
   - title: "iPhone 11 eSIM Complete Setup Guide"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
-    date: "2026-05-20"
 ---
 A UK eSIM for business travellers and digital nomads costs GBP 2-50 depending on data and duration. Whether you buy a UK eSIM card before departure or grab a plan at the airport, getting the right data allowance upfront saves the headache of topping up mid-meeting. For anyone buying an eSIM in UK for professional work, multi-network coverage is what separates a functional connection from a frustrating one. A 50GB long-stay plan runs you roughly GBP 40 for 30 days — and you get coverage across all four major UK networks through Roami's auto carrier switching between EE, Vodafone, O2, and Three.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "China eSIM mit Telefonnummer: Vollständiger Leitfaden"
 description: "China eSIM mit Telefonnummer: Die meisten Reise-eSIMs haben keine chinesische Nummer. Roami deckt Anbieter und Passregistrierung."
 keywords: ["China eSIM Telefonnummer", "Chinesische Nummer für WeChat", "China eSIM mit SMS", "China Passregistrierung eSIM", "China eSIM nur Daten vs. Nummer"]
@@ -43,9 +43,6 @@ recentPosts:
   - title: "Duale eSIM funktioniert nicht? 12 Lösungen für iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch-eSIM-Kompatibilitätsliste vollständig"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM-Kompatibilitätsleitfaden"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

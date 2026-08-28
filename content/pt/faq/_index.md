@@ -1,4 +1,4 @@
-﻿---
+---
 title: "FAQ eSIM: Configuração, Compatibilidade e Suporte"
 date: '2026-08-06T00:00:00+00:00'
 description: "Respostas rápidas sobre eSIM: ativação, compatibilidade e solução de problemas. Solicite testes gratuitos para USA, Reino Unido, Japão e mais."
@@ -246,9 +246,6 @@ categories:
       - q: "Como Comprar um eSIM para o UK (Atualização 2026)"
         snippet: "Guia de compra de eSIM para o UK: compare dados, preços, cobertura na EE, Vodafone, O2 e Three. Compre online com a Roami, ative em 2 minutos."
         url: "/faq/how-to-buy-a-uk-esim/"
-      - q: "Melhores Soluções de Rede para Viagem aos USA em 2026 (Melhor eSIM USA)"
-        snippet: "Dados ilimitados eSIM USA ou o plano mais barato? Arquitetura 5G, verdade sobre FUP e como evitar armadilhas de roaming. Guia completo com comparação entre Airalo, Holafly e Roami."
-        url: "/faq/2026-best-esim-options-for-the-usa/"
       - q: "Conectividade para Viagem ao UK em 2026: Guia eSIM vs SIM Físico"
         snippet: "A verdade oculta sobre eSIMs no UK. Evite as margens de Heathrow, entenda a cobertura EE/Vodafone/O2/Three e encontre a melhor conectividade para sua viagem ao UK com a Roami."
         url: "/faq/2026-uk-travel-connectivity-esim-vs-physical-sim-guide/"

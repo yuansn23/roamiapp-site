@@ -43,9 +43,6 @@ recentPosts:
   - title: "Duale eSIM funktioniert nicht? 12 Lösungen für iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch-eSIM-Kompatibilität vollständige Liste"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM-Kompatibilitätsleitfaden"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
@@ -747,7 +744,6 @@ Die meisten Japan-eSIMs nutzen **NTT Docomo**, Japans größten Carrier. Andere 
 Wenn Sie noch recherchieren, finden Sie hier einige verwandte Leitfäden, die helfen können:
 
 - **[Liste eSIM-kompatibler Geräte](/compatibility/)** – prüfen Sie, ob Ihr spezifisches Telefonmodell eSIM unterstützt
-- **[Beste Reise-eSIM-Tarife](/best-travel-esim/)** – vergleichen Sie Anbieter in verschiedenen Regionen
 - **[So aktivieren Sie eine eSIM](/faq/how-to-activate-an-esim/)** – Schritt-für-Schritt-Anleitung mit Screenshots
 
 Für weitere Japan-spezifische Leitfäden:

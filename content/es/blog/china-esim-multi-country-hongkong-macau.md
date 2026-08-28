@@ -1,4 +1,4 @@
-﻿---
+---
 title: "eSIM para China, Hong Kong y Macao: Guía Multipaís"
 description: "China, Hong Kong y Macao son territorios separados. Roami compara 3HK, CMHK y planes eSIM regionales para Asia. Pruébala gratis."
 keywords: ["eSIM China Macao", "eSIM China Hong Kong", "eSIM multi-país Asia", "eSIM 3HK China", "eSIM CMHK China"]
@@ -42,9 +42,6 @@ recentPosts:
   - title: "¿Doble eSIM no funciona? 12 soluciones para iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Lista completa de compatibilidad de eSIM para smartwatches"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "Guía de compatibilidad de eSIM para iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

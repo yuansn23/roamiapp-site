@@ -42,18 +42,12 @@ recentPosts:
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch eSIM Compatibility Complete List"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM Compatibility Guide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
   - title: "iPhone 11 eSIM Complete Setup Guide"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
-    date: "2026-05-20"
 ---
 China, Hong Kong, and Macau are three separate telecom territories. A single China Hong Kong Macau eSIM handles all three territories, but a China-only eSIM stops working at the Hong Kong border. A Hong Kong eSIM doesn't work in mainland China. Multi-country options include 3HK (8GB/365 days for $18, covers Asia), CMHK (5GB/30 days with HK phone number for $15), and Airalo Asia regional plans. This guide covers the technical differences. According to [GSMA](https://www.gsma.com), eSIM roaming across regions requires specific carrier agreements. For device compatibility, visit [Apple Support](https://support.apple.com/en-us/HT212780). This guide provides multi-country plan comparisons with pricing, cross-border switching solutions, and recommendations by itinerary type. [Ookla](https://www.speedtest.net/global-index) provides independent network performance data across Asian markets.
 

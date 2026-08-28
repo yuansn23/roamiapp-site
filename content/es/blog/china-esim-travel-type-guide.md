@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mejor eSIM para China según el Tipo de Viaje: Guía"
 description: "Viajes cortos, de negocios o en familia: Roami compara 14 escenarios para elegir el plan de eSIM ideal en China. Pruébala gratis."
 keywords: ["eSIM China para viaje de negocios", "eSIM China para familia", "eSIM China para estudiantes", "eSIM China estancia larga", "asignación de datos eSIM China"]
@@ -42,9 +42,6 @@ recentPosts:
   - title: "¿Dual eSIM no funciona? 12 Soluciones para iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Lista completa de compatibilidad de eSIM para Smartwatches"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "Guía de compatibilidad eSIM para iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

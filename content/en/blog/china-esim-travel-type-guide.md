@@ -42,18 +42,12 @@ recentPosts:
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch eSIM Compatibility Complete List"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM Compatibility Guide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
   - title: "iPhone 11 eSIM Complete Setup Guide"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
-    date: "2026-05-20"
 ---
 A short trip (3-5 days) needs 1-3 GB of data. A business trip needs 5-10 GB with reliable VPN bypass. A digital nomad needs 10 GB+ with stable speeds. A family of four needs 5-15 GB shared via hotspot. This guide matches 14 specific travel types, so you can pick the right eSIM for China travel — whether you're a solo backpacker, a business traveler, or visiting with family. According to [GSMA](https://www.gsma.com), China eSIM adoption continues to grow. For device compatibility, see [Apple Support](https://support.apple.com/en-us/HT212780). For carrier coverage across Chinese cities, visit [China Mobile](https://www.chinamobileltd.com). [Ookla](https://www.speedtest.net/global-index) tracks 5G network performance data to help match plans to your specific travel scenario.
 

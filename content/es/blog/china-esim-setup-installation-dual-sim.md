@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Configuración eSIM China: SIM dual en iPhone y Android"
 description: "¿Cómo configurar eSIM en China? Con Roami aprende sobre SIM dual, APN, roaming y VPN en iPhone y Android. Guía paso a paso. Pruébala gratis"
 keywords: ["configuración eSIM China", "instalar eSIM China iPhone", "eSIM China SIM dual", "ajustes APN eSIM China", "eSIM China Android"]
@@ -42,9 +42,6 @@ recentPosts:
   - title: "¿eSIM dual no funciona? 12 soluciones para iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Lista completa de compatibilidad de eSIM para smartwatches"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "Guía de compatibilidad de eSIM para iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

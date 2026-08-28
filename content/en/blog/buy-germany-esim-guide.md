@@ -64,18 +64,12 @@ recentPosts:
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch eSIM Compatibility Complete List"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM Compatibility Guide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
   - title: "iPhone 11 eSIM Complete Setup Guide"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
-    date: "2026-05-20"
 ---
 
 ## Germany eSIM 2026: How to Stay Connected on ICE, Autobahn & Oktoberfest
@@ -267,7 +261,7 @@ For more detailed travel eSIM guidance, see our [Travel eSIM 2026 guide](/faq/tr
 4. **Label your eSIM** – Name it "Germany Travel" for easy identification.
 5. **Activate on arrival** – When you land in Germany, go to Settings > Cellular > [your eSIM] > turn on Data Roaming.
 
-**Important:** Install the eSIM before you fly – you need a stable Wi-Fi connection for the download. For detailed iPhone instructions, see our [iPhone 17 eSIM Complete Guide](/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/). If you encounter issues, check [device compatibility](/compatibility/) to confirm your phone supports eSIM.
+**Important:** Install the eSIM before you fly – you need a stable Wi-Fi connection for the download. For detailed iPhone instructions, check [device compatibility](/compatibility/) to confirm your phone supports eSIM.
 
 ---
 

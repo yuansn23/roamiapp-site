@@ -749,7 +749,7 @@ faq:
       answer: "Ücretsiz eSIM denemesi yalnızca veri içindir ve geleneksel sesli arama veya SMS içermez. Ancak, veri bağlantısı üzerinden sesli ve görüntülü aramalar için WhatsApp, Skype, FaceTime veya WeChat gibi uygulamaları kolayca kullanabilirsiniz."
 
     - question: "Cihazım ücretsiz eSIM denemesiyle uyumlu değilse ne olur?"
-      answer: "Ücretsiz denemenizi talep etmeden önce, lütfen telefonunuzun eSIM'i desteklediğinden emin olun (çoğu yeni model iPhone 17, iPhone 16, Samsung Galaxy ve Google Pixel destekler). <a href='/tr/uyumluluk/' class='text-blue-600 font-medium hover:underline'>Cihaz Uyumluluk Listemizi</a> kontrol edebilirsiniz. Cihazınız uyumlu değilse, hizmeti yükleyemez ve kullanamazsınız."
+      answer: "Ücretsiz denemenizi talep etmeden önce, lütfen telefonunuzun eSIM'i desteklediğinden emin olun (çoğu yeni model iPhone 17, iPhone 16, Samsung Galaxy ve Google Pixel destekler). <a href='/compatibility/' class='text-blue-600 font-medium hover:underline'>Cihaz Uyumluluk Listemizi</a> kontrol edebilirsiniz. Cihazınız uyumlu değilse, hizmeti yükleyemez ve kullanamazsınız."
 
     - question: "Ücretsiz eSIM denemesi ücretli bir plana yükseltilebilir mi?"
       answer: "Kesinlikle! Ücretsiz deneme veriniz bittiğinde veya süresi dolduğunda, yeni bir SIM kurmanıza gerek yoktur — web sitemizden destinasyonunuz için ücretli bir veri paketi satın alın; veri doğrudan mevcut eSIM'inize eklenecek ve kesintisiz bağlantının keyfini çıkarmaya devam edebileceksiniz."

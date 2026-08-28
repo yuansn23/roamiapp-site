@@ -307,7 +307,7 @@ Tienes un iPhone nuevo y quieres mover tu eSIM, pero **"esim no se transfiere al
 
 ## 8. Solución de problemas general: "Cómo arreglar eSIM en iPhone" (paso a paso)
 
-Si todavía ves **"esim no funciona"** o tu búsqueda es **"cómo arreglar esim en iphone"**, sigue esta lista de verificación universal. Si necesitas ayuda más detallada sobre **cómo activar eSIM en iPhone** o Android, consulta nuestra [guía de activación de eSIM](/faq/how-to-activar-an-esim/).
+Si todavía ves **"esim no funciona"** o tu búsqueda es **"cómo arreglar esim en iphone"**, sigue esta lista de verificación universal. Si necesitas ayuda más detallada sobre **cómo activar eSIM en iPhone** o Android.
 
 1. **Comprueba la compatibilidad de tu dispositivo** – Marca `*#06#` para ver el EID. Si tu teléfono no muestra EID, **no es compatible con eSIM**.
 2. **Asegúrate de que no sea un modelo de China** – Número de modelo que termina en CH/A = sin eSIM.

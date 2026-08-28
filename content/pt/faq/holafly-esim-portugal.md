@@ -75,8 +75,6 @@ sidebar_questions:
       url: "/compatibility/"
     - question: "Holafly eSIM vale a pena?"
       url: "/holafly-esim-portugal/"
-    - question: "Qual o melhor eSIM para viajar?"
-      url: "/best-travel-esim/"
 ---
 
 

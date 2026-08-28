@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Los 10 Mejores Proveedores de eSIM para China: Guía"
 description: "Airalo, Holafly, Ubigi o Nomad: Roami compara los mejores eSIM para China por velocidad, VPN, precio y opiniones. Pruébala gratis."
 keywords: ["mejor proveedor de eSIM para China", "eSIM China Airalo vs Holafly", "clasificación eSIM China", "eSIM China con VPN", "mejor eSIM para viajar a China 2026"]
@@ -42,9 +42,6 @@ recentPosts:
   - title: "¿Doble eSIM no funciona? 12 soluciones para iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Lista completa de compatibilidad de eSIM para smartwatches"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "Guía de compatibilidad de eSIM para iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

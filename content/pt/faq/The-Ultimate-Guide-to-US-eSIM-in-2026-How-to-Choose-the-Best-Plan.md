@@ -142,7 +142,6 @@ Se você está ficando em grandes cidades como Nova York, Los Angeles, São Fran
 
 Se seu itinerário incluir uma viagem rodoviária pela Rota 66, Yellowstone, o Grand Canyon ou Yosemite, você deve comprar um eSIM alimentado pela **AT&T** ou **Verizon**. Essas operadoras legadas operam redes massivas de baixa banda. Para usuários que pesquisam **verizon esim compatibility** ou **at&t esim prepago**, a Roami oferece acesso a ambas as redes.
 
-Para uma comparação mais aprofundada de operadoras e preços, veja nosso guia sobre **[as melhores opções de eSIM dos USA para 2026](/pt/faq/2026-best-esim-options-for-the-usa/)**.
 
 ---
 

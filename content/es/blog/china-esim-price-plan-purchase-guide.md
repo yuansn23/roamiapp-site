@@ -1,4 +1,4 @@
-﻿---
+---
 title: "eSIM China: planes y precios de datos 5G"
 description: "Desde 1 GB hasta datos ilimitados 5G con Roami. Compara planes de eSIM para China, encuentra el más económico y pruébalo gratis"
 keywords: ["precio eSIM China", "eSIM China más barata", "eSIM China ilimitado", "código promocional eSIM China", "eSIM China 5G", "eSIM China prepago", "eSIM China con enrutamiento Hong Kong", "plan de datos eSIM China"]
@@ -42,9 +42,6 @@ recentPosts:
   - title: "¿Doble eSIM no funciona? 12 soluciones para iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Lista completa de compatibilidad eSIM para smartwatches"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "Guía de compatibilidad eSIM para iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

@@ -42,18 +42,12 @@ recentPosts:
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch eSIM Compatibility Complete List"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM Compatibility Guide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
   - title: "iPhone 11 eSIM Complete Setup Guide"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
-    date: "2026-05-20"
 ---
 The Great Firewall blocks Google, WhatsApp, Instagram, YouTube, Facebook, and hundreds of other services inside China. An international routing eSIM bypasses the firewall, but individual apps behave differently: Google Maps and WhatsApp work normally with routing; YouTube needs VPN or routing; WeChat and Alipay work with any connection. This guide covers the essential apps every traveler needs installed before departure — exactly what works with Roami, what does not, and the alternative apps to use for each.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "China eSIM für Einsteiger: Kurzanleitung und Tipps"
 description: "China eSIM für Einsteiger: Grundlagen, Telefonkompatibilität und Installation Schritt für Schritt, um Fehler zu vermeiden."
 keywords: ["China eSIM Einsteiger", "erste eSIM China", "eSIM Grundlagen China", "China eSIM für neue Nutzer", "wie man eSIM in China nutzt", "China eSIM kostenlose Testversion", "China eSIM Promo-Code", "China eSIM neu installieren"]
@@ -42,9 +42,6 @@ recentPosts:
   - title: "Dual-eSIM funktioniert nicht? 12 Behebungen für iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch-eSIM-Kompatibilität – vollständige Liste"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM-Kompatibilitätsguide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

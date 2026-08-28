@@ -81,14 +81,14 @@ sidebar_free:
 sidebar_questions:
   title: "熱門問題"
   items:
-    - question: "eSIM 的優點與缺點有哪些？"
-      url: "/faq/esim-pros-and-cons/"
-    - question: "哪些手機不支援 eSIM？"
-      url: "/compatibility/#unsupported"
-    - question: "eSIM 轉移到新手機麻煩嗎？"
-      url: "/faq/esim-transfer-difficulty/"
-    - question: "旅行時 eSIM 可能遇到什麼問題？"
-      url: "/faq/travel-esim-risks/"
+    - question: "什麼是 eSIM 啟用以及它是如何運作的？"
+      url: "faq/what-is-esim-activation-and-how-does-it-work/"
+    - question: "如何啟用 eSIM？"
+      url: "/faq/how-to-activate-an-esim/"
+    - question: "如何在 iPhone 上啟用 eSIM (所有型號)？"
+      url: "/faq/how-to-activate-esim-on-iphone/"
+    - question: "最新支援 eSIM 的裝置清單"
+      url: "/compatibility/"
 ---
 
 ## 核心摘要（快速掌握）

@@ -43,18 +43,12 @@ recentPosts:
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Smartwatch eSIM Compatibility Complete List"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM Compatibility Guide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
   - title: "iPhone 11 eSIM Complete Setup Guide"
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
-  - title: "2026 Ultimate Guide: iPhone 17 eSIM Activation Solutions"
-    permalink: "/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/"
-    date: "2026-05-20"
 ---
 
 > **Key takeaways:** A dual SIM setup keeps your home number active for calls, SMS, WhatsApp, and two-factor authentication while a Spain eSIM handles all mobile data at local rates. Savings are substantial — a US T-Mobile traveler on a 14-day trip saves $142 versus the International Day Pass — and the setup works on both iPhone and Android in under 5 minutes. The main caveats: data-only eSIMs do not include a Spanish number (you may need Orange Holiday Europe at EUR 29.99 for apps like Renfe that require SMS verification), and Holafly unlimited plans block hotspot tethering.

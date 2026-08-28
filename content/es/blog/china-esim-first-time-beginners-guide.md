@@ -1,4 +1,4 @@
-﻿---
+---
 title: "eSIM China para principiantes: guía paso a paso"
 description: "¿Nunca usaste eSIM en China? Con Roami aprende sobre compatibilidad, instalación paso a paso y errores comunes. Pruébala gratis"
 keywords: ["eSIM China principiantes", "primera vez eSIM China", "conceptos básicos eSIM China", "eSIM China para nuevos usuarios", "cómo usar eSIM en China", "prueba gratuita eSIM China", "código promocional eSIM China", "reinstalar eSIM China"]
@@ -42,9 +42,6 @@ recentPosts:
   - title: "¿Doble eSIM no funciona? 12 soluciones para iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Lista completa de compatibilidad eSIM para smartwatches"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "Guía de compatibilidad eSIM para iPhone SE"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"

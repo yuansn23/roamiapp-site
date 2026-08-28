@@ -1,4 +1,4 @@
-﻿---
+---
 title: "China eSIM Fehlerbehebung: Häufige Probleme lösen"
 description: "China eSIM funktioniert nicht? Lösungen für kein Signal, Aktivierungsfehler, blockierte Apps und Daten – Schritt für Schritt."
 keywords: ["China eSIM funktioniert nicht", "China eSIM kein Signal", "China eSIM Fehlerbehebung", "China eSIM Aktivierung fehlgeschlagen", "China eSIM VPN funktioniert nicht", "China eSIM langsame Daten", "China eSIM APN-Einstellungen", "China eSIM Dual-SIM"]
@@ -42,9 +42,6 @@ recentPosts:
   - title: "Dual-eSIM funktioniert nicht? 12 Behebungen für iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "Vollständige Liste der Smartwatch-eSIM-Kompatibilität"
-    permalink: "/faq/smartwatch-esim-compatibility-list-2026/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM-Kompatibilitätsleitfaden"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
