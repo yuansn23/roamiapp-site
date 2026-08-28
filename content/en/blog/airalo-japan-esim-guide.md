@@ -386,8 +386,7 @@ Unlike Airalo (stuck on Docomo, SoftBank, or KDDI), Roami's eSIM **automatically
 - **In the Japanese Alps:** Docomo (the only carrier with decent coverage in rural mountain areas)
 - **On the Shinkansen:** The carrier with best coverage for that stretch (often Docomo)
 
-> **Real traveler report (Reddit r/eSIM, August 2026):** "Used Roami for 3 weeks in Japan. Had signal on the Shinkansen between Tokyo and Nagano when my friend's Airalo dropped out. The auto-switch to Docomo is the real deal."
-
+ 
 ### Why Roami's 50GB Plan Is a Game-Changer for Heavy Users
 
 Airalo's Japan product line caps out at 20GB. Roami offers 50GB at $37.99 (or **$30.39 with `web20`**). For heavy users (remote workers, families sharing a hotspot, constant streamers), this is **the only sensible choice**—it's cheaper per GB than Airalo's 20GB plan ($0.76/GB vs $1.25/GB) and doesn't force you into Airalo's expensive unlimited tier.

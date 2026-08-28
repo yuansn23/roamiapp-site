@@ -389,8 +389,7 @@ Unlike Airalo (stuck on EE, Vodafone, or O2), Roami's eSIM **automatically conne
 - **In the Highlands:** EE (the only carrier with decent coverage in rural Scotland)
 - **On motorways:** The carrier with best coverage for that stretch
 
-> **Real traveler report (Reddit r/eSIM, August 2026):** "Used Roami for a 2-week UK road trip from London to Edinburgh to the Highlands. Had EE in the rural areas, Vodafone in cities, and O2 in between. Never lost signal once. My friend's Airalo on O2 dropped out constantly in the Highlands."
-
+ 
 ### Roami's Killer Feature: UK Plan Includes EU Roaming
 
 If your trip continues into Europe, Roami's UK eSIM **works seamlessly in the EU** without buying a separate plan. Airalo and Holafly require a separate Europe eSIM.

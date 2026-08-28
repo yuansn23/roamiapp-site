@@ -394,8 +394,7 @@ Unlike Airalo (stuck on T-Mobile or Verizon), Roami's eSIM **automatically conne
 - **In Yellowstone:** Verizon (the only carrier with decent coverage)
 - **On Interstate highways:** The carrier with best coverage for that stretch (AT&T often strong on interstates)
 
-> **Real traveler report (Reddit r/eSIM, August 2026):** "Used Roami for a 2-week road trip from LA to Yellowstone. Had Verizon in the parks, T-Mobile in cities, and AT&T in between. Never lost signal once. My friend's Airalo on T-Mobile dropped out constantly in Wyoming."
-
+ 
 ### The Trade-Off: Roami Has No US Phone Number
 
 Roami's US eSIM is data-only—no phone number. If you need a US number for Uber, banking, or DoorDash, you have three options:
