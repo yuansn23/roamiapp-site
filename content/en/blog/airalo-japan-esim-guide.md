@@ -1,66 +1,59 @@
 ---
-title: "Japan eSIM : Which Plan Saves You Most"
-description: "Compare Japan eSIM plans for 2026. Find the best value for Tokyo, Kyoto & rural travel. Get 20% off Roami with web20"
-keywords: ["Japan eSIM price guide", "holafly esim for japan", "holafly unlimited data", "holafly discount", "cheapest eSIM for Japan travel", "Japan eSIM unlimited data plan", "Japan eSIM cost comparison", "Japan eSIM promo code", "Japan eSIM no free Wi-Fi", "Japan eSIM data usage", "Airalo vs Holafly Japan price", "Airalo Japan cost per GB", "Holafly Japan unlimited data review", "Airalo Holafly Japan 比較", "Japan eSIM Airalo Holafly どっち"]
-date: 2026-08-28T00:00:00Z
-lastmod: 2026-08-28T00:00:00Z
+title: "Japan eSIM Guide : Airalo vs Holafly Compared"
+description: "Japan has full-bar 5G everywhere, so the real question is data for Google Translate & Maps. Ditch the rented pocket WiFi — compare Airalo, Holafly & Roami Japan eSIM."
+keywords: ["Japan eSIM price guide", "holafly esim for japan", "japan esim vs pocket wifi", "cheapest eSIM for Japan travel", "japan esim google translate maps", "airalo japan esim review", "Japan eSIM promo code"]
+date: 2026-09-01T00:00:00Z
+lastmod: 2026-09-01T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/best-japan-esim-guide.jpg"
 categories: ["eSIM", "Travel", "Japan"]
-tags: ["Japan eSIM"]
-readingTime: 10
+tags: ["Japan eSIM", "Pocket WiFi", "Google Translate"]
+readingTime: 5
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Airalo vs Holafly vs Roami Japan eSIM: 2026 Price, Coverage & Data Usage Guide"
+h1title: "Japan's Full-Bar 5G Makes an eSIM the Cheaper, Lighter Choice"
 
-
-# Sidebar module titles
 productsTitle: "Popular eSIM Plans"
 hotPostsTitle: "Hot Articles"
 recentPostsTitle: "Recent Posts"
 
-# Right sidebar products (6 items)
 products:
-  - name: "Europe eSIM"
-    flag: "/img/flags/eu.svg"
-    price: "From $1.99"
-    is_highlight: true
-    slug: "europe"
   - name: "Japan eSIM"
     flag: "/img/flags/jp.svg"
     price: "From $1.99"
-    is_highlight: false
+    is_highlight: true
     slug: "japan"
-  - name: "USA eSIM"
-    flag: "/img/flags/us.svg"
-    price: "From $1.99"
-    is_highlight: false
-    slug: "united-states"
   - name: "South Korea eSIM"
     flag: "/img/flags/kr.svg"
     price: "From $1.99"
     is_highlight: false
     slug: "south-korea"
+  - name: "Taiwan eSIM"
+    flag: "/img/flags/tw.svg"
+    price: "From $1.99"
+    is_highlight: false
+    slug: "taiwan"
+  - name: "Hong Kong eSIM"
+    flag: "/img/flags/hk.svg"
+    price: "From $1.99"
+    is_highlight: false
+    slug: "hong-kong"
   - name: "Thailand eSIM"
     flag: "/img/flags/th.svg"
     price: "From $1.99"
     is_highlight: false
     slug: "thailand"
-  - name: "United Kingdom eSIM"
-    flag: "/img/flags/gb.svg"
+  - name: "Singapore eSIM"
+    flag: "/img/flags/sg.svg"
     price: "From $1.99"
     is_highlight: false
-    slug: "united-kingdom"
+    slug: "singapore"
 
-# Recent posts (sidebar)
 recentPosts:
-  - title: "Best eSIM Apps: How to Buy and Install an eSIM"
-    permalink: "/blog/best-esim-apps-how-to-buy-and-install-esim/"
-    date: "2026-08-25"
-  - title: "eSIM Deep Troubleshooting Guide (16 Real Cases)"
-    permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
+  - title: "eSIM Compatible Devices List"
+    permalink: "/compatibility/"
     date: "2026-05-26"
   - title: "2026 Cross-Platform eSIM Transfer"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
@@ -68,9 +61,6 @@ recentPosts:
   - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "iPad & Apple Watch eSIM: Complete Guide"
-    permalink: "/faq/ipad-apple-watch-esim-support-guide/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM Compatibility Guide"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
@@ -79,443 +69,485 @@ recentPosts:
     date: "2026-05-21"
 ---
 
-## Airalo vs Holafly vs Roami: Which Japan eSIM Saves You the Most in 2026?
+## 2026 Ultimate Japan eSIM Guide
 
-> **TL;DR — The Short Answer.** Japan is the one destination where **you can't fall back on free Wi-Fi**—cafés rarely offer it, and where it exists, it's often slow or requires signup. That means your eSIM *is* your connection, so "how much data do I need?" matters more than anywhere else.
+Planning a trip to Japan—Shibuya and Senso-ji in Tokyo, the thousand torii gates of Fushimi Inari in Kyoto, Dotonbori in Osaka, the deer of Nara, or Mount Fuji from Lake Kawaguchi? You've probably heard the "old-school" advice: **rent a pocket WiFi**. But that little box that needs extra charging, airport pickup/drop-off, and frequently runs out of battery should have been replaced by a [Japan eSIM](/japan-esim/) long ago.
 
-Among the top contenders—Airalo (the Singapore-based marketplace with 30M+ users), Holafly (the flat-rate unlimited specialist), and Roami (the value-focused player with auto-switching)—each has a distinct sweet spot. Airalo offers fixed plans from $4 for 1GB/3 days, but its Japan fixed plans cap out at 20GB (no 50GB option). Holafly sells only unlimited at a flat $3.90/day with no daily cap—fine for short heavy trips, expensive past a week. Roami offers the cheapest plans overall, a **50GB fixed plan** that Airalo doesn't match in Japan, automatic switching across **NTT Docomo, SoftBank, and KDDI**, and 24/7 support—new users get **20% off with code `web20`**.
+Japan is different from most countries because its signal is **ridiculously good**—subway tunnels, Shinkansen carriages, even Hakone at the foot of Mount Fuji—almost everywhere has full-bar 5G. So in Japan, your worry is **not "will I have signal?" but "how do I read menus I can't understand, navigate transfers I can't read, and ask for directions in Japanese?"** These three things all rely on Google Translate (point the camera at a menu and it translates instantly) and Google Maps—and these two apps are the real data hogs.
 
-**The #1 question for Japan:** How much data do you really need? In a country with almost no free Wi-Fi, your daily usage will be higher than anywhere else. A typical day of sightseeing in Tokyo—Google Maps for trains, camera translation, social media, and a video call home—uses **~870 MB/day**, or **~26 GB per month**. Plan accordingly.
+This article focuses on that core difference: which of Japan's four major operators (Docomo / au / SoftBank / Rakuten) is most stable? How much cheaper is eSIM vs pocket WiFi, and should you ditch the pocket WiFi? Which is the best value among Airalo, Holafly, and Roami? And—Japan local SIMs require passport registration—how does travel eSIM save you all that hassle?
 
-*Last updated: August 2026. Prices verified against each provider's published Japan plans as of this date.*
+> **⏱️ 30-second summary: How to choose your Japan eSIM?**
+>
+> - **The key point**: Japan has full-bar signal everywhere (subway/Shinkansen have 5G), so your real task is **feeding Google Translate + Google Maps with enough data** (see pocket WiFi section below).
+> - **Don't rent pocket WiFi**: Pocket WiFi costs ~$3.5-7/day plus deposit and pickup/return—at least $25 for 7 days; **Roami eSIM 7-day 10GB is just $7.99**—saving 70% and no extra device (see pocket WiFi section).
+> - **Value champion**: Roami's discounted price is lowest overall—7-day 10GB for $7.99, 53% cheaper than Airalo's equivalent ($17.00) and 71% cheaper than Holafly's unlimited ($27.30).
+> - **A Japan-specific detail**: Roami's 7-day tier has **20GB ($13.59) and unlimited ($15.19) with only a $1.60 difference**—heavy users can go unlimited for just $1.60 extra. But the 30-day unlimited ($57.59) is almost double the 50GB ($30.39)—skip unlimited for long stays (see value section).
+> - **Final takeaway**: For Tokyo/Kansai 3-5 days, get Roami 3-10GB; for Shinkansen multi-city 10-15 days, get 20-30GB; for long stays, get 50GB; only go for 7-day unlimited if you're streaming heavily.
 
----
+> **⚡ Quick Decision Zone: Conclusions Based on Your Trip Type**
+>
+> - **Tokyo city trip (3-5 days)** → Roami 3-5GB, 5G even in the subway, from $1.59 (see 3-day plans / scenario recommendations)
+> - **Kyoto / Osaka / Nara Kansai trip (5-7 days)** → Roami 10GB, Google Translate camera for menus and signs is the biggest data consumer (see 7-day plans / scenario recommendations)
+> - **Tokyo → Kyoto Shinkansen multi-city (7-10 days)** → Roami 10-20GB, full-bar 5G throughout the Shinkansen carriages (see 7-day plans / pocket WiFi section)
+> - **Mount Fuji / Hakone / Lake Kawaguchi (3-5 days)** → Roami 5-10GB, Docomo has the best coverage around the Fuji Five Lakes (see operator analysis / scenario recommendations)
+> - **Family trip (5-10 days)** → Roami 10-20GB + unlimited hotspot, share one eSIM with the whole family (see 7-day plans / scenario recommendations)
+> - **No data worries at all** → Roami 7-day unlimited (discounted $15.19), cheaper than pocket WiFi (see 7-day plans / pocket WiFi section)
+> - **Strictest budget** → Roami 1GB/7 days discounted $1.59, lowest price overall (see 3-day plans)
 
-## How to Choose the Right Japan eSIM for Your Itinerary
+## Japan eSIM Market Updates
 
-Japan throws three curveballs at international travelers that make the eSIM decision fundamentally different from the US or Europe.
+> **2026 Japan eSIM Market Updates**
+>
+> - **5G coverage among the world's best**: According to [Opensignal](https://www.opensignal.com/) 2026 data, Japan's four major operators have 5G population coverage generally above 95%, with signal repeaters in subway tunnels and Shinkansen carriages—top tier in Asia.
+> - **Pocket WiFi remains an "inertia choice"**: Japan has the strongest pocket WiFi rental culture globally, with airport counters constantly queued, but daily fees (~$3.5-7/day) + deposits + device weight are being thoroughly outperformed by eSIM.
+> - **Local SIMs require passport registration**: According to [MIC (Ministry of Internal Affairs and Communications)](https://www.soumu.go.jp/), purchasing a local Japanese SIM (including tourist data cards) requires passport registration at the time of purchase—airport/electronics store procedures are cumbersome.
+> - **Google Translate is a "must-have data black hole"**: English proficiency is low in Japan, menus and signs are almost entirely in Japanese. Tourists rely heavily on Google Translate's camera real-time translation + Google Maps for complex transfers—these are the biggest data consumers during travel.
+>
+> *Based on public data as of September 2026.*
 
-### Why Free Wi-Fi Is Scarce in Japan
+Japan's market is unique because it swaps "signal anxiety" for "data anxiety." These three things determine how you should buy:
 
-Japan's flip-phone past and early, excellent cellular networks meant cafés and shops never needed to lure customers with Wi-Fi. Many still don't offer it, and where it exists:
+**1. Don't worry about signal—budget for data.** In Japan, you can stream 4K video in subway tunnels and hold video conferences on Shinkansen carriages—signal is never the issue. The real issue is: you eat three meals a day, each requiring Google Translate to scan the menu, and you need Google Maps to navigate the intricate transfers—**these are what eat your data.** Instead of worrying about "whether there's internet," figure out "how many GB you need."
 
-- It's often **slow** (sub-1 Mbps)
-- It requires **signup** (email registration, sometimes with a Japanese phone number)
-- It's **time-limited** (often 1–2 hours per session)
-- Many tourist attractions have no Wi-Fi at all
+**2. Pocket WiFi should retire.** Pocket WiFi needs daily charging, airport queues for pickup/return, deposit refunds, and when shared among multiple people, it easily runs out of battery and disconnects. A [Japan data eSIM](/japan-esim/) installs directly into your phone—no extra device, no charging, no returning, and the price is only one-third to half of pocket WiFi.
 
-**The impact:** You can't "top up" your data at a café or convenience store. Your eSIM is your only reliable connection for the entire day. This makes Japan the one country where you should **over-budget data** rather than under-budget.
+**3. Local SIMs require passport—hassle.** Japan's "tourist data cards" (B-Mobile, IIJmio, etc.) require passport registration at purchase, and airport counters and electronics stores (Bic Camera, Yodobashi) have queues. For 3-5 day tourists, a [Japan eSIM](/japan-esim/) installed before departure and enabled upon landing works immediately—skipping the entire process.
 
-### Why Navigation in Japan Uses More Data
+## Japan's Four Major Operators: In-Depth Analysis
 
-Japan's train and subway network is vast and complex. Google Maps' step-by-step transit directions—which platform, which exit, which carriage—are essential:
+> Japan's market is "Big Three + a new price warrior": NTT Docomo, KDDI (au), and SoftBank divide the market, while Rakuten Mobile is a new player offering cheap unlimited data. Travel eSIMs usually connect automatically or manually to Docomo, au (KDDI), or SoftBank; a few use Rakuten.
 
-- **Tokyo Metro:** 13 lines, 179 stations—navigation is constant
-- **Shinkansen (bullet train):** Platform and carriage information updates in real-time
-- **Local buses:** Route numbers and stops require live data
+### Core Data Comparison of Japan's Four Major Operators
 
-Google Maps uses **~5–10 MB/hour** for navigation, but rerouting and live train updates can push that higher.
+| Metric | NTT Docomo | KDDI (au) | SoftBank | Rakuten Mobile |
+|------|-----------|-----------|----------|----------------|
+| Subscribers | ~44 million | ~28 million | ~24 million | ~7 million |
+| Market Share | ~37% | ~24% | ~21% | ~6% |
+| 5G Population Coverage | **95%+** | 95%+ | 95%+ | 60%+ |
+| Average Speed | **Fastest** | Fast | Fast | Medium |
+| Best For | Nationwide + Fuji area | Cities + Kansai | Balanced + value | Budget-conscious |
 
-### Why Translation Apps Are Data-Hungry in Japan
+*Sources: [MIC](https://www.soumu.go.jp/) / [Opensignal](https://www.opensignal.com/), as of September 2026.*
 
-Camera-based translation (Google Translate, Papago) uses **~5–20 MB per use**—and in Japan, you'll use it constantly:
+### In-Depth Operator Analysis
 
-- Menu translation
-- Street signs
-- Instructions in museums/temples
-- Asking directions
+- **NTT Docomo — "Coverage King"**: Japan's largest operator, widest coverage, fastest 5G—most stable at the foot of Mount Fuji, Hakone, and remote attractions. A travel eSIM that prioritises Docomo is a plus. **⚠️ Weakness**: Its own plans are pricey; single-network may be weak in extremely deep underground spots.
 
-A typical day might involve 10–20 translation uses, adding **~100–200 MB** to your daily total.
+- **KDDI (au) — "Kansai Strong"**: Second in subscribers, strong in cities and Kansai (Osaka, Kyoto), speeds comparable to Docomo. **⚠️ Weakness**: Rural coverage slightly inferior to Docomo.
 
-### Docomo vs SoftBank vs KDDI: Which Carrier Is Best for Your Trip?
+- **SoftBank — "Balanced + Value"**: Decent in both cities and rural areas, fast 5G rollout, extensive international roaming experience—many travel eSIMs use it. **⚠️ Weakness**: A "second place" in every category, no standout feature.
 
-| Carrier | Urban Coverage | Rural Coverage | Shinkansen | Best For |
-| :------ | :------------- | :------------- | :--------- | :------- |
-| **NTT Docomo** | Excellent | **Best** | **Best** | Rural Japan, Japanese Alps, Hokkaido, Shikoku |
-| **SoftBank** | **Fastest 5G** | Good | Good | Cities, Golden Route (Tokyo–Kyoto–Osaka) |
-| **KDDI (au)** | Excellent | Good | Good | General use, good mid-range option |
+- **Rakuten Mobile — "Price Warrior"**: Focuses on cheap unlimited data, using au's network + its own base stations—budget-friendly. **⚠️ Weakness**: Self-built network coverage is incomplete; remote areas rely on roaming, rarely used by travel eSIMs.
 
-**The upshot:** Network assignment matters. Airalo locks you to one carrier (assigned randomly). Roami auto-switches across all three—giving you Docomo in rural areas, SoftBank in cities, and the strongest signal everywhere else.
+### Coverage Data in Japan's Major Cities
 
----
+| Destination | Coverage Quality | Speed | Best Network |
+|--------|---------|------|---------|
+| Tokyo (Shibuya / Asakusa) | Excellent | 5G, 150-800 Mbps | Docomo / SoftBank |
+| Kyoto / Osaka | Excellent | 5G, 100-500 Mbps | au / Docomo |
+| Tokyo Subway (tunnels) | Excellent | 4G/5G full-bar | Docomo |
+| Shinkansen (carriages) | Excellent | 4G/5G stable | Docomo / au |
+| Mount Fuji / Hakone / Lake Kawaguchi | Good | 4G/5G, 50-200 Mbps | **Docomo** |
+| Hokkaido (Sapporo / Otaru) | Excellent | 5G, 80-300 Mbps | Docomo / au |
 
-## How Much Data Do You Actually Need for Japan?
+> **Key Advice**
+>
+> Signal in Japan is generally excellent. The **core of choosing an eSIM is not "coverage" but "multi-network auto-switching + data value."** An eSIM with multi-network switching (like Roami) will automatically pick the fastest network among Docomo / au / SoftBank based on your location—switching to SoftBank during Shibuya peak hours, to Docomo at the foot of Mount Fuji—keeping you full-bar throughout. More importantly, it lets you spend money on **data**, not on **a device in your pocket that needs charging.** [View multi-network switching Japan eSIM →](/japan-esim/)
 
-**In Japan, plan your data like you'll get no Wi-Fi at all—because you often won't.**
+## Comparison of Three Major Japan eSIM Brands
 
-### Real-World Daily Data Usage on a Japan Trip
+> ⚠️ **Crucial Japan Reminder**: All three brands offer **data-only eSIMs, no Japanese phone number**. Ride-hailing (Uber / DiDi) and food delivery mostly use in-app messaging—no local number required. If you need a Japanese number (for restaurant reservations callbacks, app verification), pair with a VoIP solution. What really matters is **enough data to feed Google Translate and Maps.**
 
-| Activity | Data Use | Frequency (Typical Day) | Daily Total |
-| :------- | :------- | :---------------------- | :---------- |
-| Google Maps transit directions | ~10 MB/hour | 3 hours | ~30 MB |
-| Camera translation (menus, signs) | ~10 MB/use | 10 uses | ~100 MB |
-| Social media (Instagram, TikTok) | ~300 MB/hour | 1 hour | ~300 MB |
-| YouTube (SD, 30 min) | ~150 MB | 1 | ~150 MB |
-| WhatsApp/LINE video call (15 min) | ~100 MB | 1 | ~100 MB |
-| Music streaming (Spotify, 1 hour) | ~100 MB | 1 | ~100 MB |
-| Email/WeChat/Misc | ~50 MB | — | ~50 MB |
-| **Daily total** | | | **~830 MB** |
-| **Monthly total (30 days)** | | | **~25 GB** |
+### Brand Snapshot
 
-### Japan eSIM Data Calculator: How Much Data Do You Really Need?
+| Brand | Trustpilot Rating | Core Positioning | Network Access | 5G | Hotspot | Japanese Number |
+|------|----------------|---------|---------|-----|------|-----------|
+| **Airalo** | 4.2 | World's largest platform, most granular tiers | Docomo / SoftBank | Some | Supported | ❌ |
+| **Holafly** | 4.3 | Pure unlimited data | Docomo | Supported | 1GB daily cap | ❌ |
+| **Roami** | 4.9 | Multi-network auto-switch, best value | Docomo / au / SoftBank | Full | Unlimited | ❌ |
 
-| Trip Duration | Light User | Typical User | Heavy User |
-| :------------ | :--------- | :----------- | :--------- |
-| **3–5 days** | 3 GB | 5 GB | 10 GB |
-| **One week** | 5 GB | 10 GB | 15–20 GB |
-| **Two weeks** | 10 GB | 15–20 GB | 30 GB |
-| **One month** | 15–20 GB | **25–30 GB** | 50 GB |
+> **Quick Brand Differences**
+>
+> - **Airalo Japan eSIM**: World's largest platform, most granular fixed-data tiers plus unlimited options, connects to Docomo / SoftBank. Transparent pricing, supports hotspot, **no Japanese number**. Good for those wanting "unlimited" with a mid-range budget.
+> - **Holafly Japan eSIM**: The only pure unlimited-data brand, priced at $3.90/day, connects to Docomo 5G. No GB cap, but **hotspot is limited to 1GB/day**, high long-term cost, **no Japanese number**. Suitable for heavy users who don't mind the cost.
+> - **Roami Japan eSIM**: Multi-network auto-switch (Docomo / au / SoftBank), full 5G, unlimited hotspot, the lowest price overall, **no Japanese number**. **Japan-specific detail: in the 7-day tier, 20GB and unlimited differ by only $1.60**—heavy users can go unlimited for a tiny extra cost, much cheaper than renting pocket WiFi. Use discount code **WEB20** for 20% off. [View Roami Japan eSIM plans](/japan-esim/)
 
-**Key takeaway:** Most Japan travelers should buy **more data than they think**—because there's no Wi-Fi to fall back on.
+### Airalo Japan eSIM Full Price List
 
----
+**Unlimited Plans**
 
-## Airalo Japan eSIM Review: Plans, Pricing, and What You Get
+| Days | Price | Daily Cost |
+|------|------|---------|
+| 3 days | $11.50 | $3.83/day |
+| 5 days | $17.00 | $3.40/day |
+| 7 days | $27.00 | $3.86/day |
+| 10 days | $34.50 | $3.45/day |
+| 15 days | $48.00 | $3.20/day |
+| 30 days | $69.00 | $2.30/day |
 
-Airalo launched in Singapore in 2019 and now serves over 30 million travelers globally. Its Japan offering includes:
+**Fixed Data Plans**
 
-- **Fully digital** — purchase and install from the app, no physical SIM
-- **Japan-wide coverage** on NTT Docomo, SoftBank, or KDDI (assigned randomly—you cannot choose)
-- **Plan variety** — from 1 GB to 20 GB fixed (no 50GB option), plus unlimited tiers, 3–30 days
-- **App ratings** — 4.7 on iOS, 4.6 on Android
+| Days | Data Tier | Price |
+|------|--------|------|
+| 3 days | 1GB / 3GB | $4.00 / $7.50 |
+| 7 days | 3GB / 5GB / 10GB | $8.00 / $10.00 / $17.00 |
+| 15 days | 5GB / 10GB / 20GB | $10.50 / $17.50 / $24.00 |
+| 30 days | 5GB / 10GB / 20GB | $11.00 / $18.00 / $25.00 |
 
-**Who it's for:** Tourists visiting the Golden Route (Tokyo–Kyoto–Osaka) who want a trusted brand with a familiar app experience.
+> ⚠️ **Airalo Japan Risk Note**: Fixed data tiers are relatively expensive (7-day 10GB at $1.70/GB), over twice the price of Roami's equivalent; the 7-day unlimited at $27 offers average value, and 30-day fixed tiers max out at 20GB.
 
-**The critical catches:**
-1. Airalo caps Japan fixed plans at **20 GB**—there's no 50 GB option. Roami offers 50 GB in Japan.
-2. Airalo locks you to one carrier. Roami auto-switches across **NTT Docomo, SoftBank, and KDDI**.
-3. Your network assignment is random—you could get Docomo (great for rural), SoftBank (fastest urban 5G), or KDDI. No way to choose.
+### Holafly Japan eSIM Full Price List
 
-*(For eSIM basics—compatibility, installation, and troubleshooting—check our **[comprehensive eSIM setup guide](/faq/esim-deep-troubleshooting-guide-2026/)**.)*
+Holafly Japan offers **only unlimited data**, priced per day:
 
----
+| Days | Price | Daily Cost |
+|------|------|---------|
+| 3 days | $11.70 | $3.90/day |
+| 7 days | $27.30 | $3.90/day |
+| 15 days | $58.50 | $3.90/day |
+| 30 days | $117.00 | $3.90/day |
 
-## Airalo Japan eSIM Cost Per GB: Best Value Plans
+> ⚠️ **Holafly Japan Risk Note**: No fixed tiers available; 3 days costs $11.70, 63% more than Roami's 3-day 10GB ($7.19). **Hotspot is limited to 1GB/day**, so family sharing is restricted. Per-day pricing makes long-term costs the highest.
 
-Airalo's Japan product line reveals a sophisticated tiered pricing strategy designed to capture different user segments at different price points.
+### Roami Japan eSIM Full Price List
 
-### Airalo Japan Fixed-Data Plans (1 GB – 20 GB, 3–30 days)
+Roami Japan offers both fixed data and unlimited plans. Discounted price = listed price × 0.8 (code WEB20):
 
-| Validity | Data | Price (USD) | Cost/day | Per GB | Best For |
-| :------: | :--: | :---------: | :------: | :----: | :------- |
-| **3 days**  | 1 GB  | $4.00  | $1.33 | $4.00 | Short layover |
-|             | 3 GB  | $7.50  | $2.50 | $2.50 | 3-day trip |
-| **7 days**  | 3 GB  | $8.00  | $1.14 | $2.67 | Light one-week use |
-|             | 5 GB  | $10.00 | $1.43 | $2.00 | **One week, typical use** |
-|             | 10 GB | $17.00 | $2.43 | $1.70 | Heavy one-week use |
-| **15 days** | 5 GB  | $10.50 | $0.70 | $2.10 | Light two weeks |
-|             | 10 GB | $17.50 | $1.17 | $1.75 | Typical two weeks |
-|             | 20 GB | $24.00 | $1.60 | $1.20 | Two weeks, heavy/work use |
-| **30 days** | 5 GB  | $11.00 | $0.37 | $2.20 | Light month |
-|             | 10 GB | $18.00 | $0.60 | $1.80 | Typical month—**sweet spot** |
-|             | 20 GB | $25.00 | $0.83 | $1.25 | **Heavy month** |
+| Days | Data Tier | Listed Price | Discounted Price | Daily Cost |
+|------|--------|---------|--------|---------|
+| 3 days | 1GB / 3GB / 5GB / 10GB / Unlimited | $1.99 / $2.99 / $5.99 / $8.99 / $9.99 | **$1.59 / $2.39 / $4.79 / $7.19 / $7.99** | $0.53-2.66/day |
+| 7 days | 1GB / 3GB / 5GB / 10GB / 20GB / Unlimited | $1.99 / $3.99 / $5.99 / $9.99 / $16.99 / $18.99 | **$1.59 / $3.19 / $4.79 / $7.99 / $13.59 / $15.19** | $0.23-2.17/day |
+| 15 days | 3GB / 5GB / 10GB / 20GB / 30GB / Unlimited | $4.99 / $6.99 / $10.99 / $17.99 / $25.99 / $42.99 | **$3.99 / $5.59 / $8.79 / $14.39 / $20.79 / $34.39** | $0.27-2.29/day |
+| 30 days | 3GB / 5GB / 10GB / 20GB / 30GB / 50GB / Unlimited | $5.99 / $7.99 / $11.99 / $20.99 / $25.99 / $37.99 / $71.99 | **$4.79 / $6.39 / $9.59 / $16.79 / $20.79 / $30.39 / $57.59** | $0.16-1.92/day |
 
-### Airalo Japan Unlimited-Data Plans (3–30 days)
+> ⚠️ **Roami Japan Risk Note**: In the 7-day tier, 20GB and unlimited differ by only $1.60—heavy users can go unlimited for a tiny extra cost. But the 30-day unlimited tier ($57.59) is nearly double the 50GB ($30.39)—skip unlimited for long stays. Otherwise, fixed tiers have the lowest unit price overall.
 
-| Validity | Data | Price (USD) | Cost/day | Best For |
-| :------: | :--- | :---------: | :------: | :------- |
-| **3 days**  | Unlimited | $11.50 | $3.83 | Short, heavy use |
-| **5 days**  | Unlimited | $17.00 | $3.40 | 5-day trip |
-| **7 days**  | Unlimited | $27.00 | $3.86 | One week |
-| **10 days** | Unlimited | $34.50 | $3.45 | 10-day trip |
-| **15 days** | Unlimited | $48.00 | $3.20 | Two weeks |
-| **30 days** | Unlimited | $69.00 | $2.30 | One month |
+### Value Behind the Prices
 
-### Is Airalo's $4 Japan eSIM Plan Worth It?
+**Price per GB drops significantly as you go up in tiers.** Example: Roami 30-day plans:
 
-The 1GB/3 days plan at $4.00 is priced to eliminate decision friction. It's cheaper than a coffee in some airports—and psychologically, it's far less than the hassle of finding a local SIM in Japan. **This tier isn't profitable.** It's a customer acquisition tool. Once you've installed the app and activated, the switching cost to another provider rises significantly.
+| Data Tier | Discounted Price | Price per GB |
+|--------|--------|-----------|
+| 5GB | $6.39 | $1.28/GB |
+| 10GB | $9.59 | $0.96/GB |
+| 20GB | $16.79 | $0.84/GB |
+| 30GB | $20.79 | $0.69/GB |
+| 50GB | $30.39 | **$0.61/GB** |
 
-### Airalo 5GB vs 10GB vs 20GB: Which Japan Plan Should You Pick?
+50GB's per-GB price is only half of 5GB's. **Conclusion: If you can estimate your usage, buying a larger tier saves more money.**
 
-Notice the 10GB tier: 7 days ($17.00) → 15 days ($17.50) → 30 days ($18.00). **For just $1 more, you get 23 extra days.** This is "decoy pricing"—the 7-day plan exists to make the 30-day plan look like a bargain. Most travelers don't need 10GB in 7 days; they're buying the 30-day plan and spreading usage over time.
+**In the Japan context, "is unlimited worth it?" depends on duration.** This is an asymmetric phenomenon:
 
-### Is Airalo Unlimited Data Worth the Extra Cost in Japan?
+| Plan | Price | Worth it? |
+|------|------|--------|
+| Roami 7-day 20GB discounted | $13.59 | Best if daily usage ≤2.86GB |
+| Roami 7-day unlimited discounted | $15.19 | **Only $1.60 more**; worth it if daily usage >2.86GB |
+| Roami 30-day 50GB discounted | $30.39 | Best if daily usage ≤1.67GB |
+| Roami 30-day unlimited discounted | $57.59 | **$27.20 more**; only barely breaks even if daily usage >3GB |
 
-At $1.25/GB, the 20GB plan is the best value fixed tier. The 30-day unlimited plan costs **$44 more than the 20GB plan** ($69 vs $25) but offers essentially the same high-speed data for most users (95% of travelers won't exhaust 20GB). Airalo doesn't actually want you to buy unlimited—it wants you to buy 20GB, which has predictable costs and healthier margins.
+**Conclusion: 7-day unlimited is a "worthy small upgrade"; 30-day unlimited is a "trap."** In the 7-day tier, 20GB and unlimited are only $1.60 apart—heavy users should upgrade without hesitation. But in the 30-day tier, unlimited is $27.20 more than 50GB—unless you use 90GB+ per month, 50GB is the best full-month solution.
 
-**The Airalo value trap:** For a heavy user who consumes 50GB in a month, Airalo's unlimited at $69.00 is the **only option**—and it works out to $1.38/GB. Roami's 50GB plan at $37.99 ($0.76/GB) is **45% cheaper**. Airalo's fixed cap at 20GB is a deliberate product limitation that pushes heavy users into its high-margin unlimited tier.
+**What can you do with the money saved?** Convert the price difference between Roami (discounted) and competitors into Japan travel expenses:
 
----
+| Trip | Roami discounted vs competitor | Saved | Equivalent To |
+|------|-------------------|------|--------|
+| 7 days 10GB | $7.99 vs Airalo $17.00 | $9.01 | A bowl of ramen + a matcha drink |
+| 7 days unlimited | $15.19 vs Holafly $27.30 | $12.11 | One night at an izakaya |
+| 15 days 20GB | $14.39 vs Airalo $24.00 | $9.61 | Tokyo Metro 3-day pass |
+| 30 days unlimited | $57.59 vs Holafly $117.00 | $59.41 | One night in a business hotel |
 
-## Does Airalo Unlimited Data Throttle in Japan? Fair Use Policy Explained
+## Best Japan eSIM for 3 Days: Which is Cheaper?
 
-"Unlimited" means **3 GB of high-speed data per day**, after which your speed drops to **1 Mbps** until the next 24-hour reset.
+For a 3-day short trip (Tokyo weekend / layover / business), the starting price matters most.
 
-| Activity | Data Use | How Many in 3 GB |
-| :------- | :------- | :--------------- |
-| YouTube (HD, 45 min) | ~1 GB | 3 videos |
-| Camera translation (10 uses) | ~100 MB | 300 uses |
-| Google Maps transit (3 hours) | ~30 MB | 100 days |
-| Social media (1 hour) | ~300 MB | 10 hours |
-| Video call (30 min) | ~200 MB | 15 calls |
+| Data | Airalo | Holafly | Roami (Discounted) | Value Champion |
+|------|--------|---------|---------------|-----------|
+| 1GB | $4.00 | — | **$1.59** | **Roami** |
+| 3GB | $7.50 | — | **$2.39** | **Roami** |
+| 5GB | — | — | **$4.79** | **Roami** |
+| 10GB | — | — | **$7.19** | **Roami** |
+| Unlimited | $11.50 | $11.70 | **$7.99** | **Roami** |
 
-**What this looks like on a Japan trip:** A day in Kyoto—Google Maps for trains and buses, camera translation at temples, Instagram posts, and a video call home—uses about 1.5–2 GB. You'll hit the 3 GB cap only if you also stream video heavily. Once throttled, messaging and maps still work; HD streaming and downloads slow dramatically.
+**3-day decision**: Roami 3-day 3GB discounted at $2.39 is 68% cheaper than Airalo's equivalent ($7.50); Roami 3-day 10GB ($7.19) is 39% cheaper than Holafly's unlimited ($11.70). Roami wins across the board for 3-day trips, even 10GB is cheaper than competitors' unlimited.
 
----
+> **💡 3-Day Price Value Insight**: For a 3-day Tokyo trip with Google Translate scanning menus + Google Maps for transfers + WhatsApp messaging, 1-3GB is enough. Roami 3-day 3GB discounted at $2.39 is less than $1/day (about the price of a convenience store onigiri) for full connectivity. [View Japan eSIM 3-day plans](/japan-esim/)
 
-## Docomo vs SoftBank vs KDDI: Which Has Better Coverage in Rural Japan?
+## Best Japan eSIM for 7 Days: Which to Choose?
 
-Airalo assigns you to **either NTT Docomo, SoftBank, or KDDI** at activation and locks you there for the entire trip.
+7 days is the most common trip length (Tokyo + Kansai, or single-city in-depth).
 
-| Carrier | Urban Coverage | Rural Coverage | Shinkansen | Best For |
-| :------ | :------------- | :------------- | :--------- | :------- |
-| **NTT Docomo** | Excellent | **Best** | **Best** | Rural Japan, Japanese Alps, Hokkaido, Shikoku |
-| **SoftBank** | **Fastest 5G** | Good | Good | Cities, Golden Route (Tokyo–Kyoto–Osaka) |
-| **KDDI (au)** | Excellent | Good | Good | General use, good mid-range option |
+| Data | Airalo | Holafly | Roami (Discounted) | Value Champion |
+|------|--------|---------|---------------|-----------|
+| 1GB | — | — | **$1.59** | **Roami** |
+| 3GB | $8.00 | — | **$3.19** | **Roami** |
+| 5GB | $10.00 | — | **$4.79** | **Roami** |
+| 10GB | $17.00 | — | **$7.99** | **Roami** |
+| 20GB | — | — | **$13.59** | **Roami** |
+| Unlimited | $27.00 | $27.30 | **$15.19** | **Roami** |
 
-### How to Choose Your eSIM Carrier Based on Your Japan Itinerary
+**7-day decision**: Roami 7-day 10GB discounted at $7.99 is 53% cheaper than Airalo's equivalent ($17.00) and 71% cheaper than Holafly's unlimited ($27.30). Even Roami's unlimited ($15.19) is 44% cheaper than Holafly and over half the price of renting pocket WiFi.
 
-- **Golden Route only (Tokyo–Kyoto–Osaka–Hiroshima)** → any carrier is fine. SoftBank actually has the fastest 5G in these cities.
-- **Japanese Alps (Nagano, Takayama, Kamikochi)** → **Docomo** is the safest bet. Roami's auto-switch gives you Docomo when it's strongest.
-- **Hokkaido (Sapporo, Furano, Hakodate)** → Docomo has the edge in rural areas; Roami's auto-switch covers this.
-- **Shikoku (the smaller island)** → coverage is thinner on all carriers; Docomo is your best bet.
-- **Not sure** → Roami's auto-switching across Docomo/SoftBank/KDDI is the safest option.
+> **💡 7-Day Price Value Insight**: Google Translate + Maps are "data black holes" in Japan—three meals a day scanning menus, all-day navigation and transfers—1.43GB/day is a safe baseline. Roami discounted at $7.99 gives $0.80/GB, the lowest in the market; the $9.01 saved is enough for a bowl of ramen + a matcha drink. Heavy video streamers can go unlimited for just $1.60 extra ($15.19)—even cheaper than pocket WiFi.
 
-> **Real traveler report (Reddit r/JapanTravel, July 2026):** "Used Airalo in Tokyo—fine. Took it to the Japanese Alps and had no signal on SoftBank for half the hikes. My friend's Roami switched to Docomo and had coverage the whole time."
+## Best Japan eSIM for 15 Days: Half-Month Plan Comparison
 
-> **Another traveler (Japan-Guide.com forum):** "Airalo assigned me to KDDI. Worked great in Osaka and Kyoto, but on the Shinkansen between Tokyo and Nagano, it kept dropping. My wife's Roami on Docomo had signal the entire ride."
+15 days suits the classic "Tokyo + Kansai + Hiroshima" full route.
 
-**The honest truth about rural Japan:** Even Docomo has dead zones in the Japanese Alps' remote valleys and Hokkaido's mountain passes. **Always download offline maps** on hotel Wi-Fi before entering any rural area—Apple Maps, Google Maps, and AllTrails all support offline downloads.
+| Data | Airalo | Holafly | Roami (Discounted) | Value Champion |
+|------|--------|---------|---------------|-----------|
+| 5GB | $10.50 | — | **$5.59** | **Roami** |
+| 10GB | $17.50 | — | **$8.79** | **Roami** |
+| 20GB | $24.00 | — | **$14.39** | **Roami** |
+| 30GB | — | — | **$20.79** | **Roami** |
+| Unlimited | $48.00 | $58.50 | **$34.39** | **Roami** |
 
----
+**15-day decision**: Roami 15-day 20GB discounted at $14.39 is 40% cheaper than Airalo's equivalent ($24.00) and 75% cheaper than Holafly ($58.50). Roami's unlimited ($34.39) is 28% cheaper than Airalo's unlimited ($48.00).
 
-## Pocket Wi-Fi vs eSIM in Japan: Which Is Better?
+> **💡 15-Day Price Value Insight**: 15 days covering Tokyo→Kyoto→Osaka→Hiroshima with Google Translate + Maps running all the time—1.33GB/day is sufficient. Roami discounted at $14.39 gives $0.72/GB; Holafly's 15-day $58.50 is 4× Roami's 20GB price. The extra $44 saved could cover two nights in a decent hostel.
 
-Renting a pocket Wi-Fi used to be the default for Japan. Now, it's often the worse option.
+## Best Japan eSIM for 30 Days: One-Month Plan Comparison
 
-| Factor | Pocket Wi-Fi | Travel eSIM |
-| :----- | :----------- | :---------- |
-| **Cost (solo, 7 days)** | ~$35–56 ($5–8/day) | **$5–15 total** |
-| **Extra device to carry** | Yes—charge, collect, return | **None** |
-| **Setup time** | Queue at airport | **5 minutes, before you fly** |
-| **Return hassle** | Yes—must return device | **Nothing to return** |
-| **Battery** | Drains its own + needs charging | Uses phone's battery |
-| **Sharing** | Easy (all devices) | Works via phone hotspot |
+30 days corresponds to long stays, short-term work, language school, or digital nomads.
 
-**The verdict:** For solo travelers and couples, an eSIM wins on price, convenience, and simplicity. Pocket Wi-Fi only makes sense for families (3–4+ people) where one hotspot can power multiple devices.
+| Data | Airalo | Holafly | Roami (Discounted) | Value Champion |
+|------|--------|---------|---------------|-----------|
+| 5GB | $11.00 | — | **$6.39** | **Roami** |
+| 10GB | $18.00 | — | **$9.59** | **Roami** |
+| 20GB | $25.00 | — | **$16.79** | **Roami** |
+| 30GB | — | — | **$20.79** | **Roami** |
+| 50GB | — | — | **$30.39** | **Roami** |
+| Unlimited | $69.00 | $117.00 | **$57.59** | **Roami** |
 
----
+**30-day decision**: Roami 30-day 50GB discounted at $30.39 is the best full-month solution ($0.61/GB); Roami unlimited discounted at $57.59 is 17% cheaper than Airalo ($69.00) and 51% cheaper than Holafly ($117.00). But note: **30-day unlimited is nearly double the 50GB—unless you use 90GB+ per month, 50GB is more cost-effective.**
 
-## Holafly Japan eSIM Review: Is $3.90/Day Unlimited Data Worth It?
+> **💡 30-Day Price Value Insight**: For a month-long stay, the [Japan eSIM value](/japan-esim/) is clear—50GB at $0.61/GB, averaging 1.67GB/day. Holafly's 30-day $117 is nearly 4× Roami's 50GB—the $87 difference is enough for a night in a business hotel. Unless you do over 3 hours of video conferencing/live streaming daily, 50GB is the best full-month solution—avoid the 30-day unlimited.
 
-Holafly offers **only unlimited data**, priced at **$3.90/day** with no volume discounts until 10+ days.
+> **💰 Limited-Time Offer**
+>
+> Choose Roami **Japan eSIM** and enter discount code **WEB20** at checkout for **20% off** all plans. Discounted prices: 7-day 10GB for $7.99, 30-day 50GB for $30.39—both significantly lower than competitors and pocket WiFi. [Shop Japan eSIM plans now](/japan-esim/)
+>
+> *Discount code applies to all durations and data tiers, including unlimited plans.*
 
-| Duration | Price (USD) | Cost/day | vs Airalo Unlimited |
-| :------: | :---------: | :------: | :------------------ |
-| **3 days**  | $11.70 | $3.90 | Airalo $11.50—Holafly +$0.20 (tied) |
-| **5 days**  | $19.50 | $3.90 | Airalo $17.00—Holafly +$2.50 |
-| **7 days**  | $27.30 | $3.90 | Airalo $27.00—Holafly +$0.30 (tied) |
-| **10 days** | $36.90 | $3.69 | Airalo $34.50—Holafly +$2.40 |
-| **15 days** | $50.90 | $3.39 | Airalo $48.00—Holafly +$2.90 |
-| **30 days** | $74.90 | $2.50 | Airalo $69.00—Holafly +$5.90 |
+## Choose Your Japan eSIM by Travel Scenario
 
-### Why Holafly's $3.90/Day Price Feels Cheaper Than It Is
+### Tokyo City Trip (3-5 days)
 
-The pricing is built on a simple psychological equation: $3.90 per day is less than the price of a café latte in Tokyo (which averages $4.50–5.50). **When you compare $3.90 to the cost of a coffee, the data plan suddenly feels cheap.** This is "anchor pricing"—Holafly anchors the value of a day of unlimited data against a mundane daily expense.
+- **Daily usage**: 1-2GB (Google Translate + Maps + social media)
+- **Recommendation**: Roami 3-5GB
+- **Reason**: Full-bar 5G even in Tokyo subway tunnels; Roami's multi-network switching automatically picks the fastest among Docomo/SoftBank. 3GB discounted from $2.39.
+- **⚠️ Reminder**: Shibuya and Shinjuku peak hours are crowded; multi-network switching is more stable than single-network.
 
-### Why Holafly Gets Expensive on Long Trips (No Bulk Discounts Until 10+ Days)
+### Kyoto / Osaka / Nara Kansai Trip (5-7 days)
 
-Holafly's core business is short-stay travelers (3–7 days). Its entire marketing funnel—"unlimited data, simple pricing"—appeals to users who don't want to think about data management for a short trip. Long-stay travelers (10+ days) are not the primary target. The flat-rate pricing is a deliberate filter.
+- **Daily usage**: 1.5-2GB (Google Translate camera for menus/signs + temple navigation)
+- **Recommendation**: Roami 10GB
+- **Reason**: Menus and signs in Kansai are almost entirely in Japanese; Google Translate's real-time camera translation is the biggest data consumer. 10GB discounted at $7.99.
+- **⚠️ Reminder**: Fushimi Inari and Kiyomizu-dera are crowded; photo uploads use more data—leave a buffer.
 
-### What Holafly's $3.90/Day Actually Includes
+### Tokyo → Kyoto Shinkansen Multi-City (7-10 days)
 
-1. **No daily throttle** — unlike Airalo's 3GB/day cap
-2. **Japan carrier access** — runs on KDDI and SoftBank networks
-3. **Hotspot limited** — tethering is capped at **500 MB per day**
-4. **Data-only** — no Japan phone number
-5. **European routing** — data routes through European servers, adding **150–300ms ping** (vs 20–40ms on local routing)
+- **Daily usage**: 1.5-2GB
+- **Recommendation**: Roami 10-20GB
+- **Reason**: Full-bar 5G throughout Shinkansen carriages—stream videos and browse guides along the way. 20GB discounted at $13.59.
+- **⚠️ Reminder**: Tunnels on the Shinkansen have signal, but very deep tunnels may have brief fluctuations—normal.
 
-### When Holafly Makes Sense — and When It Doesn't
+### Mount Fuji / Hakone / Lake Kawaguchi (3-5 days)
 
-**Choose Holafly when:**
-- Your trip is **short (≤5 days)** and data-heavy—the flat rate is competitive, and no-throttle freedom is genuinely useful
-- You'll **stream video** for hours daily—you'd blow past Airalo's 3GB cap
-- You **refuse to watch a data counter** on holiday
+- **Daily usage**: 1-1.5GB
+- **Recommendation**: Roami 5-10GB
+- **Reason**: The Fuji Five Lakes and Hakone are Docomo's strong areas; multi-network switching auto-connects to Docomo. 5GB discounted at $4.79.
+- **⚠️ Reminder**: Viewpoints at the foot of Mount Fuji have good signal, but some forest trails may be weaker—cache maps in advance.
 
-**Avoid Holafly when:**
-- Your trip runs **10+ days** — Airalo's unlimited becomes cheaper at 15+ days, and Roami's fixed plans are cheaper at every tier
-- You need **low-latency** for video calls, gaming, or VPN use—Holafly's European routing adds noticeable lag
-- You want to **share your connection with a laptop** — 500 MB/day hotspot limit is a dealbreaker for remote workers
-- Your typical day is maps, messaging, and light social—you'd never hit the 3GB cap, so you're paying for freedom you won't use
+### Hokkaido (Sapporo / Otaru / Hakodate, 5-7 days)
 
-> **Real user report (Trustpilot, Japan eSIM reviews, July 2026):** "Holafly worked flawlessly in Tokyo and Kyoto. No throttling even after streaming Netflix every night. But the ping was terrible for gaming—tried to play Pokémon GO and it was laggy. Also couldn't hotspot to my laptop for work because of the 500MB cap."
+- **Daily usage**: 1.5-2GB
+- **Recommendation**: Roami 10GB
+- **Reason**: Sapporo and Otaru have excellent city 5G; Hakodate night views involve many photo uploads. 10GB discounted at $7.99.
+- **⚠️ Reminder**: In winter, phones drain battery fast outdoors; multi-network switching doesn't affect battery, but bring a power bank.
 
-> **Another user (Reddit r/JapanTravel, June 2026):** "Holafly's flat $3.90/day seemed great for my 5-day trip. But when I extended to 3 weeks, the total came to $74.90 vs Airalo's $69.00 unlimited. Switched to Airalo for the long stretch."
+### Family Trip (5-10 days)
 
-**Discount note:** Holafly occasionally runs promo codes—check their app. For a guaranteed discount, Roami's `web20` code offers 20% off.
+- **Daily usage**: 2-3GB (multiple users + tablets)
+- **Recommendation**: Roami 10-20GB + unlimited hotspot
+- **Reason**: Roami's hotspot has no restrictions—share one eSIM across the family, saving 70%+ compared to renting a pocket WiFi per person.
+- **⚠️ Reminder**: Avoid Holafly (1GB/day hotspot limit) if sharing with multiple users.
 
----
+### Strictest Budget (3-5 days)
 
-## Roami Japan eSIM Review: Cheapest Plans with 50GB + Auto-Switching
+- **Daily usage**: <1GB (Google Translate + text)
+- **Recommendation**: Roami 1GB/7 days
+- **Reason**: Discounted at $1.59, the lowest price overall—enough for extensive Google Translate menu scanning + text navigation.
+- **⚠️ Reminder**: Don't stream video; 1GB is only enough for about 1 hour of short videos.
 
-Roami takes a fundamentally different approach: **cheaper fixed plans, a 50GB tier Airalo doesn't offer, network auto-switching, and 24/7 support**. The trade-off: data-only (no Japan phone number).
+## Pocket WiFi vs eSIM Special Section
 
-### Roami vs Airalo Japan: Fixed-Data Plan Comparison
+This is a "cultural inertia" issue unique to Japan compared to most countries, worth a detailed explanation.
 
-| Validity | Data | Airalo | Roami | Savings | Roami with `web20` |
-| :------: | :--: | :-----------: | :------------: | :-----: | :-------------------------: |
-| 3 days  | 1 GB  | $4.00  | $1.99  | −50% | **$1.59** |
-| 3 days  | 3 GB  | $7.50  | $2.99  | −60% | **$2.39** |
-| 7 days  | 3 GB  | $8.00  | $3.99  | −50% | **$3.19** |
-| 7 days  | 5 GB  | $10.00 | $5.99  | −40% | **$4.79** |
-| 7 days  | 10 GB | $17.00 | $9.99  | −41% | **$7.99** |
-| 15 days | 5 GB  | $10.50 | $6.99  | −33% | **$5.59** |
-| 15 days | 10 GB | $17.50 | $10.99 | −37% | **$8.79** |
-| 15 days | 20 GB | $24.00 | $17.99 | −25% | **$14.39** |
-| 30 days | 5 GB  | $11.00 | $7.99  | −27% | **$6.39** |
-| 30 days | 10 GB | $18.00 | $11.99 | −33% | **$9.59** |
-| 30 days | 20 GB | $25.00 | $20.99 | −16% | **$16.79** |
-| 30 days | **50 GB** | —      | **$37.99** | Roami only | **$30.39** |
+### Four Downsides of Pocket WiFi
 
-### Airalo vs Holafly vs Roami: Unlimited Plan Price Comparison
+- **Needs charging**: An extra device that needs daily charging—if you forget to charge before heading out, the whole group goes offline.
+- **Pickup and return + deposit**: Queue at airport counters for pickup, queue again before departure for return, and wait for deposit refunds.
+- **Daily pricing isn't cheap**: ~$3.5-7/day—7 days is $25-49, not including the device deposit.
+- **Multi-sharing can break**: One device for 5 or 8 people—if the primary phone leaves, the connection drops.
 
-| Duration | Airalo | Holafly | Roami | Cheapest |
-| :------: | :-----------: | :----------------: | :------------: | :------- |
-| **3 days**  | $11.50 | $11.70 | **$9.99** | Roami |
-| **7 days**  | $27.00 | $27.30 | **$18.99** | Roami |
-| **15 days** | $48.00 | $50.90 | **$42.99** | Roami |
-| **30 days** | **$69.00** | $74.90 | $71.99 | Airalo |
+### How eSIM Wins
 
-Roami is cheapest at every unlimited duration except 30 days, where Airalo wins by $2.99. At 7 days, Roami is **$8.01 cheaper than Airalo and $8.31 cheaper than Holafly**.
+A [Japan eSIM](/japan-esim/) installs directly into your phone: no charging, no pickup/return, no deposit, and it includes **multi-network auto-switching** (automatically picks the fastest among Docomo / au / SoftBank). The price comparison is even more compelling:
 
-### Why Roami's Auto-Switching Is a Game-Changer for Japan Travel
+| Option | 7‑Day Cost | Device/Deposit | Conclusion |
+|------|---------|----------|------|
+| Pocket WiFi (rental) | $25-49 | Deposit + pickup/return | Expensive + hassle |
+| Roami eSIM 10GB | **$7.99** | None | **Save 70-80%** |
+| Roami eSIM unlimited | **$15.19** | None | **Save half** |
 
-Unlike Airalo (stuck on Docomo, SoftBank, or KDDI), Roami's eSIM **automatically connects to the strongest available network** among NTT Docomo, SoftBank, and KDDI:
+### The Real Data Black Hole
 
-- **In Tokyo/Osaka:** Fastest 5G network (often SoftBank)
-- **In the Japanese Alps:** Docomo (the only carrier with decent coverage in rural mountain areas)
-- **On the Shinkansen:** The carrier with best coverage for that stretch (often Docomo)
+In Japan, what you need most is not "more signal" but "feeding two apps":
 
- 
-### Why Roami's 50GB Plan Is a Game-Changer for Heavy Users
+- **Google Translate**: Point the camera at menus, signs, instructions—real-time translation—a lifesaver for ordering and navigating, but it consumes a lot of data.
+- **Google Maps**: Tokyo and Osaka have intricate transfers; real-time navigation + timetable lookups running all day consume continuous data.
 
-Airalo's Japan product line caps out at 20GB. Roami offers 50GB at $37.99 (or **$30.39 with `web20`**). For heavy users (remote workers, families sharing a hotspot, constant streamers), this is **the only sensible choice**—it's cheaper per GB than Airalo's 20GB plan ($0.76/GB vs $1.25/GB) and doesn't force you into Airalo's expensive unlimited tier.
+So the logic for choosing a Japan eSIM is completely opposite to Germany (where signal is a concern): **here, the competition is "price per GB," not "which operator has better signal."** [View Japan eSIM price per GB](/japan-esim/)
 
-### Roami's Other Advantages in Japan
+## Japan eSIM vs Local SIM vs Roaming
 
-- **24/7 live support** with ~10-second response times—critical when you're in a foreign country
-- **Free eSIM trial**—test compatibility at zero cost before committing
-- **No hotspot limit**—unlike Holafly's 500MB/day cap, Roami allows full-speed tethering
-- **Local Japanese routing**—lower ping times (20–40ms) vs Holafly's European routing (150–300ms)
+| Aspect | Travel eSIM | Japan Local SIM | International Roaming |
+|------|----------|-------------|---------|
+| Setup process | Install before departure | Airport/electronics store + passport registration | No setup needed |
+| Works on arrival | ✅ | ❌ Requires registration/activation | ✅ |
+| Multi-network switching | ✅ (Roami) | ❌ Single network | ❌ Single network |
+| Japanese phone number | ❌ | ✅ | ❌ |
+| Price | Medium (lower discounted) | Low-Medium | High |
+| Best for | Short-term tourists, multi-country trips | Long stays, need Japanese number | Emergency |
 
-👉 **Explore Roami's prepaid data options for Japan and use code `web20` for 20% off.** 
+**In short**: Short trip + works on arrival + feed Google Translate → travel eSIM; long stay + need Japanese number → local SIM (but requires passport registration); if you want zero hassle → don't choose roaming (expensive and single-network).
 
----
+## Japan eSIM Installation & Activation Guide
 
-## Airalo vs Holafly vs Roami: Which Japan eSIM Is Best for You?
+1. **Install with WiFi before departure**: After purchase, you'll receive a QR code. Scan it in Settings → Cellular/Mobile Network → Add eSIM before you leave, or enter the activation code manually.
+2. **Turn on "Data Roaming" upon arrival**: This is the most common activation failure reason—enable it after landing, and your phone will automatically connect to one of Docomo/au/SoftBank.
+3. **Select data card**: Set the travel eSIM as the primary "Cellular Data" line; set your home card to "Voice/SMS only" if you want to keep it.
+4. **Turn off data roaming for your home card**: Avoid high roaming charges from your home carrier.
+5. **Test Google Translate + Maps first**: Once connected, test these two apps immediately to confirm real-time translation and navigation work.
 
-| Provider | Best For | Key Advantage | Key Disadvantage |
-| :------- | :------- | :------------ | :--------------- |
-| **Airalo** | Travelers wanting a trusted global brand | Widest plan range, largest user base, cheapest 30-day unlimited | No 50GB plan, no auto-switching, random network assignment |
-| **Holafly** | Short (≤5 days), heavy-data trips | No daily throttle, simple pricing | European routing = high ping, 500MB/day hotspot limit, expensive beyond 10 days |
-| **Roami** | Budget-conscious travelers, heavy users, rural Japan | Cheapest fixed plans, 50GB option, auto-switching across all 3 carriers, local routing, 20% off | Data-only (no Japan phone number), 30-day unlimited slightly pricier than Airalo |
+> **Can't connect to the network? Try these steps:**
+>
+> 1. Confirm "Data Roaming" is enabled; 2. Restart your phone; 3. In "Network Selection," manually choose Docomo, au, or SoftBank; 4. Check that the APN matches the value specified in the eSIM instructions; 5. If still not working, contact the brand's customer support.
 
----
+## Device Compatibility Checklist
 
-## Japan Travel Tips That Save Data, Money, and Headaches
+- **International phones (bought in Europe/US)**: Most support eSIM and can be used directly.
+- **Chinese iPhones / Chinese Androids**: Chinese iPhones (XS and later) support eSIM, but some Chinese Android models have eSIM disabled—check your model before purchasing.
+- **Carrier-locked phones**: US carrier-locked phones may lock the eSIM as well; unlock first before buying.
+- **eSIM-only models** (US iPhone 14+): No physical SIM slot, actually best suited for eSIM.
+- **Dual SIM dual standby**: Can keep both your home card + Japan eSIM simultaneously—one for verification codes, one for data.
 
-1. **Emergency:** Dial **110** (police) or **119** (fire/ambulance).
+## Japan eSIM FAQ
 
-2. **Free Wi-Fi is scarce** — don't plan around it; budget your data generously.
+**Q1: Does a Japan eSIM require passport or registration?**
 
-3. **Google Maps for trains** — it gives platform, exit, and carriage directions. This is essential for navigating Tokyo's complex stations.
+No. Travel eSIMs are issued overseas and work on arrival—no need for the passport registration required by Japanese local SIMs. You just need an eSIM-compatible phone and scan the QR code before departure.
 
-4. **Add Suica/Pasmo to Apple Wallet** — tap-and-go transit without a physical card. Requires data for initial setup.
+**Q2: Is eSIM signal good in Japan?**
 
-5. **Carry some cash** — smaller shops, shrines, and rural spots are still cash-first. ATMs at 7-Eleven and FamilyMart accept foreign cards.
+Excellent. Japan has signal repeaters in subway tunnels and Shinkansen carriages, with 5G population coverage above 95%—top tier in Asia. You almost never need to worry about "no signal"—instead, calculate "how many GB you need."
 
-6. **Data is your translator** — camera-translation apps are lifesavers for menus and signs; factor this into your data budget.
+**Q3: Should I rent pocket WiFi in Japan?**
 
-7. **Download offline maps** for the Japanese Alps, Hokkaido, and rural Shikoku—these areas have sparser coverage on any carrier.
+No. Pocket WiFi needs charging, pickup/return, deposit—around $3.5-7/day, at least $25 for 7 days. Roami eSIM 7-day 10GB is only $7.99. eSIM is cheaper, lighter, and no extra device.
 
-8. **Turn off automatic app updates** — prevent large downloads while on mobile data.
+**Q4: Which operator has the best coverage in Japan?**
 
-9. **Pre-download Google Translate language packs** — Japanese offline translation is available and saves data.
+NTT Docomo has the widest coverage and fastest 5G (most stable at Mount Fuji and remote attractions); au (KDDI) is strong in Kansai; SoftBank is balanced. Choose an eSIM with multi-network auto-switching (like Roami) to get the best of all.
 
-10. **Limit social media auto-play** — turn off video auto-play on Instagram, TikTok, and Facebook.
+**Q5: Can Google Translate and Google Maps be used in Japan?**
 
-11. **Install your eSIM before you fly** — if you're transiting through Hong Kong, Singapore, or South Korea before entering Japan, your eSIM may activate there—and the timer starts. Keep it off until you're physically in Japan.
+Yes, and they are your "lifeline apps" in Japan. Menus and signs are almost entirely in Japanese—Google Translate's camera real-time translation + Google Maps for complex transfers are essential. But they are also the biggest data consumers—leave enough data when choosing a plan.
 
----
+**Q6: Is eSIM signal good at Mount Fuji and Hakone?**
 
-## Japan eSIM FAQ: Throttling, Coverage, and Data Needs
+Good. The Fuji Five Lakes and Hakone are Docomo's strong areas with good 5G coverage. A multi-network switching eSIM will auto-connect to Docomo. Cache maps in advance for forest trails.
 
-**Is Airalo reliable in Japan?**
-Yes—it's one of the largest eSIM providers globally (30+ million users), and its Japan service runs on a major national network with excellent coverage, including subways and the Shinkansen.
+**Q7: Is there signal on the Shinkansen?**
 
-**How much does a Japan eSIM from Airalo cost?**
-Plans start at **$4 for 1 GB / 3 days**. A popular 7-day/5 GB plan is $10.00, and unlimited starts at $11.50 for 3 days.
+Yes. Japanese Shinkansen carriages generally have signal repeaters—full-bar 5G throughout, so you can stream videos and browse guides along the way. This is the opposite of Germany's ICE, which can lose connection along some routes.
 
-**Does Airalo unlimited data actually throttle in Japan?**
-Yes. After 3 GB of high-speed data per day, speed drops to 1 Mbps until the next daily reset.
+**Q8: Is Airalo Japan eSIM good?**
 
-**Does Airalo offer a 50 GB plan in Japan?**
-No—Airalo's Japan fixed plans cap out at 20 GB. Roami offers a 50 GB plan.
+Airalo is the world's largest eSIM platform, with granular Japan tiers, both fixed and unlimited plans, connecting to Docomo/SoftBank for stable city performance. The downside is fixed tiers are relatively expensive—Roami's equivalent is over twice as cheap.
 
-**Does Airalo switch networks automatically in Japan?**
-No. Your eSIM is assigned to NTT Docomo, SoftBank, or KDDI and stays fixed to that network.
+**Q9: Is Holafly Japan eSIM unlimited worth it?**
 
-**Is Holafly a good eSIM for Japan?**
-For short, heavy-data trips (≤5 days), yes—the flat $3.90/day is competitive and there's no daily throttle. Beyond 10 days, it becomes the most expensive option.
+Depends on duration and usage. Holafly Japan only offers unlimited at $3.90/day. Short-term heavy users may consider it, but Roami 7-day unlimited discounted at $15.19 (daily $2.17) is 44% cheaper than Holafly.
 
-**How much does Holafly Japan eSIM cost?**
-Unlimited data at **$3.90/day** (with slight discounts at 10+ days): $11.70 for 3 days, $19.50 for 5, $27.30 for 7, $36.90 for 10, $50.90 for 15, and $74.90 for 30.
+**Q10: Is Roami Japan eSIM good value?**
 
-**Does Holafly unlimited data actually throttle?**
-Holafly markets no daily throttle, unlike Airalo's 3 GB/day cap—but there is a Fair Use Policy for extreme usage.
+Highly. Roami Japan offers both fixed and unlimited tiers, multi-network auto-switching (Docomo/au/SoftBank), and the lowest discounted prices overall—7-day 10GB $7.99 is 53% cheaper than Airalo; 30-day 50GB $30.39 is 74% cheaper than Holafly.
 
-**Does Holafly allow hotspot sharing in Japan?**
-Yes—but limited to **500 MB per day**. If you need to tether a laptop for work, this is a significant limitation.
+**Q11: Can a Japan eSIM share hotspot?**
 
-**Does Holafly offer a discount code?**
-Occasional promo codes—check their app. For a guaranteed discount, Roami's `web20` gives 20% off.
+It varies by brand. Roami supports unlimited hotspot; Airalo supports hotspot; Holafly limits hotspot to 1GB/day. For family/group travel, prioritize Roami.
 
-**Will Airalo or Holafly work in rural Japan?**
-Coverage in rural Japan is generally good, especially on Docomo's network, but remote areas and islands can have dead zones on every carrier. **Download offline maps** before heading off the beaten path.
+**Q12: Can a Japan eSIM be used in South Korea / Taiwan?**
 
-**What's the difference between Airalo, Holafly, and Roami for Japan?**
-- **Airalo:** Widest plan variety, trusted brand, cheapest 30-day unlimited, but no 50GB plan and no auto-switching.
-- **Holafly:** No daily throttle, simple pricing, but high ping (European routing), 500MB/day hotspot limit, expensive beyond 10 days.
-- **Roami:** Cheapest fixed plans, 50GB option, auto-switching across all three carriers, local Japanese routing (low ping), no hotspot limits, 20% off with `web20`.
+Usually not. Japan eSIMs generally only cover Japan's domestic territory; South Korea, Taiwan, Hong Kong, etc., require separate country eSIMs or Asia regional plans. Check coverage before you go.
 
-**Can I get a Japan phone number with these eSIMs?**
-No—all three are data-only. If you need a Japanese number for restaurant reservations or 2FA, consider a local SIM from a Japan-based provider.
+**Q13: Japan local SIM vs eSIM—which is better?**
 
----
+Depends on needs. Local SIMs (B-Mobile, IIJmio, etc.) are cheap but require on-site purchase + passport registration + single network. eSIM works on arrival, multi-network auto-switching, install before departure. Short-term tourists prefer eSIM for convenience; long stays prefer local SIM for savings.
 
-## Final Verdict: Which Japan eSIM Should You Book?
+**Q14: How much does a Japan eSIM cost per day?**
 
-| Your Trip Profile | Best Choice | Why |
-| :---------------- | :---------- | :-- |
-| **Short layover (1–3 days)** | Roami 1 GB ($1.99 → **$1.59**) | Cheapest entry |
-| **3–5 days, Tokyo only, light use** | Roami 3 GB ($2.99 → **$2.39**) | Roami is 60% cheaper than Airalo |
-| **One week, Golden Route, solo** | **Roami 5 GB ($5.99 → $4.79)** | Best value per GB |
-| **One week, heavy streaming/hotspot** | Roami 7-day unlimited ($18.99 → **$15.19**) | Cheapest unlimited for a week |
-| **Short heavy trip (1–5 days), stream all day** | **Holafly (no throttle)** | $3.90/day, no daily cap—skip beyond 10 days |
-| **Two weeks, Tokyo–Kyoto–Osaka** | Roami 10 GB ($10.99 → **$8.79**) | Roami is 37% cheaper than Airalo |
-| **Two weeks, always-on hotspot for 2 people** | Roami 15-day unlimited ($42.99 → **$34.39**) | Cheapest unlimited at 15 days |
-| **One month, heavy use (≥30 GB)** | **Roami 50 GB ($37.99 → $30.39)** | Cheaper than any unlimited plan; Airalo doesn't offer 50 GB |
-| **One month, moderate use (10–20 GB)** | Roami 20 GB ($20.99 → **$16.79**) | Best value for long stays |
-| **One month, >1.67 GB/day** | Airalo 30-day unlimited ($69.00) | Airalo wins this specific row—but Roami's 50 GB is still cheaper for most |
-| **Rural Japan / Japanese Alps / Hokkaido** | **Roami** | Auto-switch to Docomo is essential in rural areas |
-| **Need low-latency for gaming/video calls** | **Roami** (local routing) or **Airalo** | Holafly's European routing adds 150–300ms ping |
-| **Need to hotspot to laptop all day** | **Roami** or **Airalo** | Holafly's 500 MB/day hotspot limit is a dealbreaker |
-| **Cheapest fixed data overall** | **Roami** | 16–60% cheaper than Airalo, plus 20% off with `web20` |
+Using Roami discounted prices: 7-day 10GB ~$1.14/day, 15-day 20GB ~$0.96/day, 30-day 50GB ~$1.01/day. That's over two-thirds cheaper than Holafly's $3.90/day and pocket WiFi's $3.5-7/day.
 
-### Simple Rules of Thumb for Japan eSIM
+**Q15: How long does 1GB last in Japan?**
 
-| Your Situation | Recommendation |
-| :------------- | :-------------- |
-| **Solo + Golden Route + hotel Wi-Fi available** | Roami fixed 5–10 GB — best value |
-| **Family/group + no counting** | Roami unlimited — auto-switch covers everyone |
-| **Short (≤5 days) + heavy streaming** | Holafly — no cap, flat daily rate |
-| **Rural Japan / Japanese Alps** | **Roami** — auto-switch to Docomo is a lifesaver |
-| **Month-long stay + heavy user** | **Roami 50 GB** — $30.39 with `web20` beats every unlimited plan |
-| **Need low-latency for gaming/work calls** | Roami or Airalo — avoid Holafly's European routing |
-| **Need hotspot for laptop** | Roami or Airalo — Holafly's 500 MB/day limit fails |
+About 20 hours of Google Translate menu scanning + Google Maps navigation, but only about 1 hour of short videos. Minimal users (translation + text navigation) can stretch 1GB for 3-5 days; if you translate and stream daily, start with 10GB.
 
----
+**Q16: What if my Japan eSIM has no signal?**
 
-**Final reminder:** Install your eSIM **before you fly**. If you choose Roami, enter **`web20`** at checkout. And if you're uncertain about device compatibility, grab a **[free eSIM trial](/free-esim/)** first.
+First, check if "Data Roaming" is enabled; restart your phone; go to "Network Selection" and manually choose Docomo, au, or SoftBank. Japan's signal is generally excellent—a restart usually fixes it. For very few forest trails, download offline maps.
 
-👉 **Browse Roami's [Japan prepaid eSIM options](/japan-esim/) and save 20% with `web20`** · Not sure about device compatibility? **[Start with a free trial](/free-esim/)**.
+**Q17: How much data for a short Tokyo + Kyoto trip?**
+
+For a 7-day two-city trip with Shinkansen round-trip, Google Translate menus + Maps transfers + photos, 5-10GB is enough. Roami 7-day 10GB discounted at $7.99 is the best value—over half the price of pocket WiFi.
+
+## Ultimate Decision Matrix
+
+| Scenario | Recommended Brand | Recommended Plan | Cost (Discounted) | Core Reason |
+|------|---------|---------|-------------|---------|
+| Tokyo 3-day weekend | Roami | 3GB/3 days | $2.39 | Full-bar 5G in subway, cheapest fixed tier |
+| Tokyo 5-day in-depth | Roami | 5GB/7 days | $4.79 | Multi-network switching, 70% cheaper than pocket WiFi |
+| Kansai 6-day trip | Roami | 10GB/7 days | $7.99 | Google Translate menu scanning consumes the most data |
+| Shinkansen multi-city 8 days | Roami | 20GB/7 days | $13.59 | Full-bar 5G in carriages, stream videos along the way |
+| Mount Fuji Hakone 4 days | Roami | 5GB/7 days | $4.79 | Auto-switches to Docomo, most stable around Fuji Five Lakes |
+| Hokkaido 7 days | Roami | 10GB/7 days | $7.99 | Excellent city 5G, many photo uploads |
+| Family trip 7 days | Roami | 20GB/7 days | $13.59 | Unlimited hotspot, share one eSIM for the whole family |
+| Heavy video streaming 7 days | Roami | Unlimited/7 days | $15.19 | Only $1.60 more than 20GB—go unlimited without hesitation |
+| Long stay 30 days | Roami | 50GB/30 days | $30.39 | $0.61/GB, best full-month solution |
+| Strictest budget 7 days | Roami | 1GB/7 days | $1.59 | Lowest price overall, enough for translate + text |
+
+Still not sure? [View all Roami Japan eSIM plans →](/japan-esim/)
+
+## Usage Tips
+
+- **Install before departure, use on arrival**: Install with WiFi before departure; enable Data Roaming upon landing and connect immediately—start ordering food with Google Translate in the first minute.
+- **Remember to turn on "Data Roaming"**: The most common activation failure—many users forget this switch.
+- **Install Google Translate and Maps first**: These are your lifeline apps in Japan. Install and log in before departure so they're ready on arrival.
+- **Don't rent pocket WiFi**: A device that needs charging, pickup/return, and deposit—costing 3-4× eSIM's price—pure inertia spending.
+- **Download offline translation packs + offline maps**: Before departure, download Japanese offline translation pack and offline maps for your destinations as a backup in extreme cases.
+- **Keep home SIM for verification codes**: Bank and credit card verification codes come to your home number—no need to buy a Japanese local number for that.
+- **Choose the right brand for hotspot sharing**: For family/group travel, choose Roami (unlimited) or Airalo (supported); avoid Holafly (1GB/day cap).
+- **Save a screenshot of your QR code**: Store the QR code in your photo library or cloud in case you lose the email and need to reinstall.
+
+## Data Sources for This Guide
+
+| Organization | Purpose | Link |
+|------|------|------|
+| MIC  | Japan telecom regulation / registration policy | https://www.soumu.go.jp/ |
+| Opensignal | Japan 5G coverage / mobile experience | https://www.opensignal.com/ |
+| Ookla Speedtest | Japan mobile network speed | https://www.speedtest.net/global-index/japan |
+| GSMA | eSIM industry standards | https://www.gsma.com/ |
+
+*Pricing data as of September 2026; refer to each brand's official website for real-time updates. This article is for informational purposes and does not constitute purchasing advice.*
