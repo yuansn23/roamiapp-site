@@ -6,7 +6,7 @@ date: 2026-09-01T00:00:00Z
 lastmod: 2026-09-01T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami bietet zuverlässige eSIM-Tarife, wird jährlich von über 1 Million Reisenden genutzt und unterstützt automatische lokale Netzwerkumschaltung, um Reisenden weltweit Konnektivität zu bieten."
-image: "/img/esim/germany/germany-esim-funkloch-ice-coverage.jpg"
+image: "/img/esim/germany/germany-esim-complete-travel-guide.jpg"
 categories: ["eSIM", "Reisen", "Deutschland"]
 tags: ["Deutschland eSIM", "Funkloch", "ICE Zug Abdeckung"]
 readingTime: 14

@@ -6,7 +6,7 @@ date: 2026-09-01T00:00:00Z
 lastmod: 2026-09-01T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
-image: "/img/esim/japan/japan-esim-vs-pocket-wifi-guide.jpg"
+image: "/img/esim/japan/best-japan-esim-guide.jpg"
 categories: ["eSIM", "Travel", "Japan"]
 tags: ["Japan eSIM", "Pocket WiFi", "Google Translate"]
 readingTime: 5

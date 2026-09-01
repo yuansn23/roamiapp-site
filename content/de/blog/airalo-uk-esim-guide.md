@@ -6,7 +6,7 @@ date: 2026-09-01T00:00:00Z
 lastmod: 2026-09-01T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami bietet zuverlässige eSIM-Tarife, bedient jährlich über 1 Million Reisende und unterstützt automatisches lokales Netzwerkwechseln, damit Reisende weltweit verbunden bleiben."
-image: "/img/esim/uk/uk-esim-ee-vodafone-o2-three-comparison.jpg"
+image: "/img/esim/uk/uk-esim-price-guide.jpg"
 categories: ["eSIM", "Reisen", "UK"]
 tags: ["UK eSIM", "Brexit-Roaming", "London Underground"]
 readingTime: 14

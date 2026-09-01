@@ -6,7 +6,7 @@ date: 2026-09-01T00:00:00Z
 lastmod: 2026-09-01T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
-image: "/img/esim/germany/germany-esim-funkloch-ice-coverage.jpg"
+image: "/img/esim/germany/germany-esim-complete-travel-guide.jpg"
 categories: ["eSIM", "Travel", "Germany"]
 tags: ["Germany eSIM", "Funkloch", "ICE Train Coverage"]
 readingTime: 14

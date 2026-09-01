@@ -6,7 +6,7 @@ date: 2026-08-28T00:00:00Z
 lastmod: 2026-09-01T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
-image: "/img/esim/spain/spain-esim-movistar-orange-vodafone-comparison.jpg"
+image: "/img/esim/spain/spain-esim-beach-holiday-coastal-travel.jpg"
 categories: ["eSIM", "Travel", "Spain"]
 tags: ["Spain eSIM"]
 readingTime: 14

@@ -6,7 +6,7 @@ date: 2026-09-01T00:00:00Z
 lastmod: 2026-09-01T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami bietet zuverlässige eSIM-Tarife, bedient jährlich über 1 Million Reisende und unterstützt automatisches lokales Netzwerkwechseln, damit Reisende weltweit verbunden bleiben."
-image: "/img/esim/china/china-esim-firewall-bypass-guide.jpg"
+image: "/img/esim/china/ china-esim-complete-guide.jpg"
 categories: ["eSIM", "Reisen", "China"]
 tags: ["China eSIM", "Große Firewall", "Google WhatsApp"]
 readingTime: 14
