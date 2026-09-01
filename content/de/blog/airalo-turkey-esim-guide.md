@@ -2,7 +2,7 @@
 title: "Airalo vs Holafly: Beste eSIM für die Türkei für Reisende"
 description: "Die 120-Tage-IMEI-Regel in der Türkei kann eine lokale SIM-Karte bei langen Aufenthalten sperren. Erfahren Sie, welche eSIM von Airalo, Holafly oder Roami Sie verbunden hält."
 keywords: ["eSIM Preisvergleich Türkei", "Holafly eSIM für Türkei", "Türkei eSIM 120-Tage-IMEI-Regel", "günstigste eSIM für Türkei-Reise", "Türkei eSIM mit unbegrenztem Datenvolumen", "eSIM Kostenvergleich Türkei", "Türkei eSIM langer Aufenthalt", "Türkei eSIM Promo-Code"]
-date: 2026-08-28T00:00:00Z
+date: 2026-09-01T00:00:00Z
 lastmod: 2026-09-01T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami bietet zuverlässige eSIM-Tarife, bedient jährlich über 1 Million Reisende und unterstützt das automatische Umschalten zwischen lokalen Netzen, um Reisenden weltweit Konnektivität zu bieten."

@@ -2,7 +2,7 @@
 title: "eSIM Guide for Spain: Airalo vs Holafly"
 description: "Do Spain city breaks need unlimited data? Compare Airalo, Holafly & Roami plans to find the right size and stop overpaying."
 keywords: ["Spain eSIM price guide", "holafly esim for spain", "cheapest eSIM for Spain travel", "Spain eSIM unlimited data plan", "Spain eSIM cost comparison", "spain esim fixed data plan", "Spain eSIM promo code"]
-date: 2026-08-28T00:00:00Z
+date: 2026-09-01T00:00:00Z
 lastmod: 2026-09-01T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
