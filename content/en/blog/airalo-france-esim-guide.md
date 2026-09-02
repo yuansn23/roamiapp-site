@@ -1,6 +1,6 @@
 ---
 title: "France eSIM Guide: Airalo vs Holafly Compared"
-description: "Heading to France in 2026? Compare the best eSIM options — Airalo vs Holafly, pricing, plans, network coverage, how to install & activate before you land. Find the right plan for your trip"
+description: "Heading to France? Compare Airalo vs Holafly on price, data, coverage and setup, and pick the right eSIM before you land."
 keywords: ["France eSIM price guide", "holafly esim for france", "france esim refund policy", "cheapest eSIM for France travel", "France eSIM unlimited data plan", "France eSIM cost comparison", "france esim strike", "France eSIM promo code"]
 date: 2026-09-01T00:00:00Z
 lastmod: 2026-09-01T00:00:00Z

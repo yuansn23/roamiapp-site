@@ -1,6 +1,6 @@
 ---
-title: "eSIM-Leitfaden für Spanien: Airalo vs Holafly"
-description: "Brauchen Städtereisen in Spanien unbegrenzte Daten? Vergleichen Sie Airalo-, Holafly- und Roami-Tarife, um die richtige Größe zu finden und Überzahlung zu vermeiden."
+title: "eSIM für Spanien: Airalo vs. Holafly im Vergleich"
+description: "Airalo vs. Holafly für Spanien: Preise, Datenvolumen und Hotspot im Vergleich – mit Fazit, welcher Tarif für Städtereisen genügt"
 keywords: ["Spanien eSIM Preisvergleich", "Holafly eSIM für Spanien", "günstigste eSIM für Spanien-Reise", "Spanien eSIM mit unbegrenztem Datenvolumen", "Spanien eSIM Kostenvergleich", "Spanien eSIM mit festem Datenvolumen", "Spanien eSIM Promo-Code"]
 date: 2026-09-01T00:00:00Z
 lastmod: 2026-09-01T00:00:00Z

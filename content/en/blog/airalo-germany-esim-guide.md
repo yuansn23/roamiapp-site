@@ -1,6 +1,6 @@
 ---
-title: "Germany eSIM Guide: Airalo vs Holafly — Which One Wins?"
-description: "Planning a 2026 Germany trip? Our guide covers supported phones, German carrier networks (Telekom/Vodafone/O2), how to install before you fly, and an honest Airalo vs Holafly head-to-head — pricing, hotspots, fair-use caps, and the verdict for short vs long stays."
+title: "Germany eSIM: Airalo vs Holafly — Prices & Coverage"
+description: "Compare Airalo and Holafly: the best Germany eSIM installs before you fly, runs on Telekom, Vodafone or O2. See which wins for short and long trips"
 keywords: ["Germany eSIM price guide", "holafly esim for germany", "germany esim funkloch", "cheapest eSIM for Germany travel", "germany esim ice train coverage", "airalo germany esim review", "Germany eSIM promo code"]
 date: 2026-09-01T00:00:00Z
 lastmod: 2026-09-01T00:00:00Z

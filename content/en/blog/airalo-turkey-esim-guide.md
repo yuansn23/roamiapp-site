@@ -1,6 +1,6 @@
 ---
-title: "Airalo vs Holafly: Best Turkey eSIM for Travelers"
-description: "Turkey's 120-day IMEI rule can block a local SIM on long stays. See which Airalo, Holafly or Roami eSIM keeps you connected."
+title: "Best eSIM for Turkey: Airalo vs Holafly Compared"
+description: "Compare Airalo, Holafly and Roami: the best Turkey eSIM installs before you fly and runs on Turkcell, Vodafone or Türk Telekom. No passport queue."
 keywords: ["Turkey eSIM price guide", "holafly esim for turkey", "Turkey eSIM 120 day IMEI rule", "cheapest eSIM for Turkey travel", "Turkey eSIM unlimited data plan", "Turkey eSIM cost comparison", "Turkey eSIM long stay", "Turkey eSIM promo code"]
 date: 2026-09-01T00:00:00Z
 lastmod: 2026-09-01T00:00:00Z

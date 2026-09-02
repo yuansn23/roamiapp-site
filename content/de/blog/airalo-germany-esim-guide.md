@@ -1,6 +1,6 @@
 ---
-title: "Deutschland eSIM Leitfaden: Airalo vs Holafly"
-description: "Planen Sie eine Deutschlandreise 2026? Unser Leitfaden behandelt unterstützte Telefone, deutsche Netze (Telekom/Vodafone/O2), die Installation vor dem Abflug und einen direkten Vergleich Airalo vs Holafly — Preise, Hotspot, Fair-Use-Obergrenzen und das Fazit für Kurz- vs. Langzeitaufenthalte."
+title: "eSIM Deutschland: Airalo vs Holafly im Vergleich"
+description: "Airalo oder Holafly in Deutschland? Preis, Netz, Hotspot und Fair-Use im Vergleich – mit klarer Empfehlung für Kurz- und Langzeit"
 keywords: ["Deutschland eSIM Preisvergleich", "holafly esim deutschland", "deutschland esim funkloch", "günstigste eSIM für Deutschland Reise", "deutschland esim ice zug abdeckung", "airalo deutschland esim bewertung", "Deutschland eSIM Promo-Code"]
 date: 2026-09-01T00:00:00Z
 lastmod: 2026-09-01T00:00:00Z

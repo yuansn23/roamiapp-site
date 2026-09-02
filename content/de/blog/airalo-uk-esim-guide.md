@@ -1,6 +1,6 @@
 ---
-title: "Airalo vs Holafly: Beste UK eSIM für Reisende"
-description: "Nach dem Brexit berechnen EU-SIM-Karten Roaminggebühren im Vereinigten Königreich. Eine UK-eSIM wird vor der Landung aktiviert und wechselt automatisch zwischen EE, O2, Vodafone und Three. Vergleich von Airalo, Holafly und Roami."
+title: "Beste eSIM für Großbritannien: Airalo vs Holafly"
+description: "Airalo, Holafly und Roami im Vergleich: Die beste UK-eSIM wird vor dem Abflug installiert, nutzt EE, O2, Vodafone oder Three – ohne Brexit-Roaming"
 keywords: ["UK eSIM Preisvergleich", "holafly esim für großbritannien", "uk esim nach brexit roaming", "günstigste eSIM für UK-Reisen", "uk esim london underground", "airalo uk esim bewertung", "UK eSIM Promo-Code"]
 date: 2026-09-01T00:00:00Z
 lastmod: 2026-09-01T00:00:00Z

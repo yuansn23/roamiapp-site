@@ -1,6 +1,6 @@
 ---
-title: "China eSIM Guide - Airalo vs Holafly Compared"
-description: "New to China's eSIM? Our 2026 guide covers supported phones, how to activate at a carrier branch, and a head-to-head Airalo vs Holafly comparison — pricing, coverage, hotspot, and which one to pick for your trip"
+title: "Best eSIM for China: Airalo vs Holafly Compared"
+description: "Compare Airalo and Holafly: the best China eSIM installs before you fly, needs no VPN for Google and WhatsApp, and runs on China Mobile or Unicom"
 keywords: ["China eSIM price guide", "holafly esim for china", "china esim bypass firewall", "cheapest eSIM for China travel", "china esim google whatsapp", "airalo china esim review", "China eSIM promo code"]
 date: 2026-09-01T00:00:00Z
 lastmod: 2026-09-01T00:00:00Z

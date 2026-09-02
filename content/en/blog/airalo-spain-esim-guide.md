@@ -1,6 +1,6 @@
 ---
-title: "eSIM Guide for Spain: Airalo vs Holafly"
-description: "Do Spain city breaks need unlimited data? Compare Airalo, Holafly & Roami plans to find the right size and stop overpaying."
+title: "Best Spain eSIM: Airalo vs Holafly Data Compared​"
+description: "Compare Airalo, Holafly & Roami eSIM plans for Spain. See how much data a city break really needs, then pick the best value."
 keywords: ["Spain eSIM price guide", "holafly esim for spain", "cheapest eSIM for Spain travel", "Spain eSIM unlimited data plan", "Spain eSIM cost comparison", "spain esim fixed data plan", "Spain eSIM promo code"]
 date: 2026-09-01T00:00:00Z
 lastmod: 2026-09-01T00:00:00Z

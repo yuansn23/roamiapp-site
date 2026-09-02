@@ -1,6 +1,6 @@
 ---
-title: "Japan eSIM Leitfaden – Airalo vs Holafly im Vergleich"
-description: "Japan hat überall vollen 5G-Empfang, die eigentliche Frage ist also Datenvolumen für Google Translate & Maps. Verzichten Sie auf gemietetes Pocket WiFi – vergleichen Sie Airalo, Holafly & Roami Japan eSIM."
+title: "Japan eSIM Leitfaden: Airalo vs Holafly im Test"
+description: "Japan hat überall 5G, also zählt Datenvolumen für Maps & Translate. Airalo, Holafly & Roami im Vergleich - ganz ohne Pocket WiFi."
 keywords: ["Japan eSIM Preisvergleich", "holafly esim für japan", "japan esim vs pocket wifi", "günstigste eSIM für Japan-Reisen", "japan esim google translate maps", "airalo japan esim bewertung", "Japan eSIM Promo-Code"]
 date: 2026-09-01T00:00:00Z
 lastmod: 2026-09-01T00:00:00Z
