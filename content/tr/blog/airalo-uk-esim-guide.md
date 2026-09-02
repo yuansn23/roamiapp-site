@@ -1,73 +1,66 @@
 ---
-title: "Airalo vs Holafly UK eSIM: Fiyatları ve Kapsamayı Karşılaştırın"
-description: "Airalo, Holafly ve Roami UK eSIM planlarını karşılaştırın. Londra şehir tatilleri, İskoç Yaylaları'nda yolculuklar ve Birleşik Krallık'tan Avrupa'ya seyahatler için en iyi değeri hangisinin sunduğunu görün. AB dolaşımı dahil ve Roami'de web20 koduyla %20 indirim."
-keywords: ["UK eSIM fiyat rehberi", "holafly esim uk", "holafly sınırsız veri", "holafly indirim", "UK seyahati için en ucuz eSIM", "UK eSIM sınırsız veri planı", "UK eSIM maliyet karşılaştırması", "UK eSIM promosyon kodu", "UK eSIM AB dolaşımı", "Airalo vs Holafly UK fiyat", "Airalo UK AB dolaşımı", "Holafly UK sınırsız veri incelemesi", "Airalo Holafly UK karşılaştırma"]
-date: 2026-08-28T00:00:00Z
-lastmod: 2026-08-28T00:00:00Z
+title: "Airalo vs Holafly: İngiltere için En İyi eSIM Rehberi"
+description: "Airalo, Holafly ve Roami'yi karşılaştırın: İngiltere için en iyi eSIM uçuştan önce kurulur, EE, O2, Vodafone veya Three üzerinde çalışır ve AB dolaşım ücretlerinden kaçınır."
+keywords: ["İngiltere eSIM fiyat rehberi", "holafly esim for uk", "brexit sonrası uk esim dolaşım", "İngiltere seyahati için en ucuz eSIM", "uk esim london underground", "airalo uk esim yorum", "İngiltere eSIM promosyon kodu"]
+date: 2026-09-03T00:00:00Z
+lastmod: 2026-09-03T00:00:00Z
 author: "Roami Ekibi"
-authorBio: "Roami, yılda 1 milyondan fazla gezgine hizmet veren güvenilir eSIM planları sunar ve gezginlerin dünya çapında bağlantıda kalmasına yardımcı olmak için otomatik yerel ağ geçişini destekler."
+authorBio: "Roami, yılda 1 milyondan fazla gezgine hizmet veren güvenilir eSIM planları sunar ve gezginlerin küresel olarak bağlantıda kalmasına yardımcı olmak için otomatik yerel ağ geçişini destekler."
 image: "/img/esim/uk/uk-esim-price-guide.jpg"
-categories: ["eSIM", "Seyahat", "Birleşik Krallık"]
-tags: ["UK eSIM"]
-readingTime: 11
+categories: ["eSIM", "Seyahat", "İngiltere"]
+tags: ["İngiltere eSIM", "Brexit Dolaşım", "Londra Metrosu"]
+readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Airalo vs Holafly vs Roami UK eSIM: Fiyat, Kapsama ve AB Dolaşım Rehberi"
+h1title: "AB SIM'leri Artık İngiltere'de Dolaşım Ücreti Alıyor — İşte Daha Ucuz eSIM"
 
-
-# Kenar çubuğu modül başlıkları
 productsTitle: "Popüler eSIM Planları"
 hotPostsTitle: "Popüler Makaleler"
 recentPostsTitle: "Son Makaleler"
 
-# Sağ kenar çubuğu ürünleri (6 öğe)
 products:
-  - name: "Avrupa eSIM"
-    flag: "/img/flags/eu.svg"
-    price: "$1.99'dan itibaren"
-    is_highlight: true
-    slug: "europe"
-  - name: "Japonya eSIM"
-    flag: "/img/flags/jp.svg"
-    price: "$1.99'dan itibaren"
-    is_highlight: false
-    slug: "japan"
-  - name: "ABD eSIM"
-    flag: "/img/flags/us.svg"
-    price: "$1.99'dan itibaren"
-    is_highlight: false
-    slug: "united-states"
-  - name: "Güney Kore eSIM"
-    flag: "/img/flags/kr.svg"
-    price: "$1.99'dan itibaren"
-    is_highlight: false
-    slug: "south-korea"
-  - name: "Tayland eSIM"
-    flag: "/img/flags/th.svg"
-    price: "$1.99'dan itibaren"
-    is_highlight: false
-    slug: "thailand"
-  - name: "Birleşik Krallık eSIM"
+  - name: "İngiltere eSIM"
     flag: "/img/flags/gb.svg"
-    price: "$1.99'dan itibaren"
+    price: "$1.99'dan başlayan fiyatlarla"
+    is_highlight: true
+    slug: "uk"
+  - name: "İrlanda eSIM"
+    flag: "/img/flags/ie.svg"
+    price: "$1.99'dan başlayan fiyatlarla"
     is_highlight: false
-    slug: "united-kingdom"
+    slug: "ireland"
+  - name: "Fransa eSIM"
+    flag: "/img/flags/fr.svg"
+    price: "$1.99'dan başlayan fiyatlarla"
+    is_highlight: false
+    slug: "france"
+  - name: "Hollanda eSIM"
+    flag: "/img/flags/nl.svg"
+    price: "$1.99'dan başlayan fiyatlarla"
+    is_highlight: false
+    slug: "netherlands"
+  - name: "Almanya eSIM"
+    flag: "/img/flags/de.svg"
+    price: "$1.99'dan başlayan fiyatlarla"
+    is_highlight: false
+    slug: "germany"
+  - name: "İspanya eSIM"
+    flag: "/img/flags/es.svg"
+    price: "$1.99'dan başlayan fiyatlarla"
+    is_highlight: false
+    slug: "spain"
 
-# Son makaleler (kenar çubuğu)
 recentPosts:
-  - title: "eSIM Derinlemesine Sorun Giderme Rehberi (16 Gerçek Vaka)"
-    permalink: "/faq/esim-deep-troubleshooting-guide-2026/"
+  - title: "eSIM Uyumlu Cihazlar Listesi"
+    permalink: "/compatibility/"
     date: "2026-05-26"
-  - title: "2026 Platformlar Arası eSIM Aktarımı"
+  - title: "2026 Çapraz Platform eSIM Aktarımı"
     permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
     date: "2026-05-25"
-  - title: "Dual eSIM Çalışmıyor mu? iPhone için 12 Çözüm"
+  - title: "Çift eSIM Çalışmıyor mu? iPhone için 12 Düzeltme"
     permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
     date: "2026-05-24"
-  - title: "iPad ve Apple Watch eSIM: Kapsamlı Rehber"
-    permalink: "/faq/ipad-apple-watch-esim-support-guide/"
-    date: "2026-05-23"
   - title: "iPhone SE eSIM Uyumluluk Rehberi"
     permalink: "/faq/iphone-se-esim-compatible/"
     date: "2026-05-22"
@@ -76,428 +69,471 @@ recentPosts:
     date: "2026-05-21"
 ---
 
-## Airalo vs Holafly vs Roami: 2026'da Hangi UK eSIM Sizi Daha Çok Tasarruf Ettirir?
+## 2026 İngiltere eSIM Alıcı Rehberi
 
-> **Özet — Kısa Cevap.** Bir UK eSIM seçmek üç soruya dayanır: **Seyahatiniz yalnızca Birleşik Krallık'ta mı yoksa Avrupa'yı da kapsıyor mu?** (Brexit, çoğu planda ücretsiz AB dolaşımını sonlandırdı.) **Londra'da mı kalıyorsunuz yoksa Yaylalar'a mı gidiyorsunuz?** (EE, kırsal İskoçya'da güvenilir kapsama sahip tek operatördür.) **Birleşik Krallık telefon numarasına ihtiyacınız var mı?** (Çoğu eSIM yalnızca veridir—Uber ve Deliveroo gibi yerel hizmetler her numarayla çalışır, ancak Birleşik Krallık bankalarından gelen 2FA bir Birleşik Krallık numarası gerektirir.)
+İngiltere'ye bir seyahat planlıyor musunuz – Londra'daki Big Ben, Edinburgh Şatosu, Göller Bölgesi'nin manzaraları veya Liverpool/Manchester'da bir maç izlemek? "Brexit sonrası bir akşamdan kalma" ile karşılaşabilirsiniz: **Avrupa'da satın aldığınız cep telefonu SIM kartı artık İngiltere'de dolaşım ücreti talep edebilir.** İngiltere resmi olarak 2020'de AB'den ayrıldı ve 2022'den itibaren İngiltere ve AB operatörleri kademeli olarak birbirleri arasında dolaşım ücretlerini yeniden uygulamaya başladı.
 
-Önde gelen rakipler arasında—Airalo (30 milyondan fazla kullanıcısı olan Singapur merkezli pazar yeri), Holafly (sabit fiyatlı sınırsız veri uzmanı) ve Roami (otomatik geçişli, uygun fiyat odaklı oyuncu)—her birinin belirgin bir güçlü yanı vardır. Airalo, 4 dolarlık hafta sonu planlarından 50 GB'lık aylık seçeneklere kadar en geniş plan yelpazesini sunar. Holafly size günlük kota olmadan gerçekten sınırsız veri sunar—3 günlük bir Londra tatili için mükemmeldir. Roami ise genel olarak en ucuz planları sunar, EE, Vodafone ve O2 arasında otomatik olarak geçiş yapar ve kritik olarak **UK planına ek ücret olmaksızın AB dolaşımını dahil eder.**
+İngiltere'nin ayrıca "iyi bir sorunu" var: **yerel SIM kartlar inanılmaz derecede ucuz ve satın alması kolay** (giffgaff havaalanındaki WHSmith'te size sadece £10'a 20GB veriyor). Peki neden bir [İngiltere eSIM](/united-kingdom-esim/) satın almaya değer? Cevap üç kelime – **varışta çalışır**: kalkıştan önce kurun, uçak iner inmez bağlanın, mağaza bulmaya, kart takmaya veya aktivasyon beklemeye gerek yok. Ayrıca EE, O2, Vodafone ve Three ağları arasında otomatik geçiş yaparak Londra Metrosu ve İskoç Yaylaları gibi sinyal zayıf noktalarında daha iyi kararlılık sağlar.
 
-**Birleşik Krallık için 1 numaralı soru:** Seyahatiniz anakara Avrupa'ya devam ediyor mu? Londra + Paris veya Edinburgh + Amsterdam yapıyorsanız, **Roami'nin UK planı bu karşılaştırmada her ikisini de iki ayrı plan satın almadan kapsayan tek plandır.** Airalo ve Holafly ayrı bir Avrupa eSIM'i gerektirir—bu da maliyetinizi etkin bir şekilde iki katına çıkarır.
+Bu makale üç ana alana odaklanıyor: dört büyük İngiltere operatöründen hangisi en iyi kapsamaya sahip? Airalo, Holafly ve Roami arasında en iyi değer hangisi? Ve – Brexit sonrası, AB kartları gerçekten dolaşım ücreti alıyor mu ve yerel kartlar bu kadar ucuzken eSIM hala buna değer mi?
 
-*Son güncelleme: Ağustos 2026. Fiyatlar, bu tarih itibarıyla her sağlayıcının yayınlanmış UK planlarına göre doğrulanmıştır.*
+> **⏱️ 30 saniyelik özet: İngiltere eSIM'inizi nasıl seçersiniz?**
+>
+> - **Kritik konu**: Brexit sonrası, AB mobil kartları genellikle İngiltere'de dolaşım ücreti alır; **bir İngiltere eSIM'i varışta çalışır ve bu ücretlerden kaçınır** (aşağıdaki Brexit dolaşım bölümüne bakın).
+> - **Değer şampiyonu**: Roami'nin indirimli fiyatı genel olarak en düşüktür – 7 gün 10GB $7.99, bu Airalo'nun eşdeğerinden ($18.00) %56 ve Holafly'nin sınırsızından ($27.30) %71 daha ucuzdur.
+> - **Hangi ağ**: Şehirlerde EE'yi, kırsal bölgelerde/Göller Bölgesi'nde O2/Vodafone'u seçin; Roami otomatik çoklu ağ geçişi sunarak konumunuzdaki en iyi sinyali seçer.
+> - **Sınırsız değer mi**: Kısa geziler için genellikle hayır – Roami 7 gün sınırsız $15.19, 20GB plandan sadece $2.40 daha pahalı, bu nedenle fayda sağlamak için günde 2.86GB'den fazla kullanmanız gerekir (aşağıdaki değer bölümüne bakın).
+> - **Sonuç**: Londra'da 3-5 gün için Roami 3-5GB alın; çok şehirli/Highland yol gezileri için 10-20GB alın; bir aylık konaklama için 50GB alın; yalnızca yoğun video izliyorsanız sınırsızı tercih edin.
 
----
+> **⚡ Hızlı Karar Bölgesi: Seyahat Türünüze Göre Sonuçlar**
+>
+> - **Londra şehir gezisi (3-5 gün)** → Roami 3-5GB, şehirde EE 5G, $1.59'dan başlayan fiyatlarla (aşağıdaki 3 günlük / 7 günlük planlara bakın)
+> - **Çok şehirli: Londra + Edinburgh (7-10 gün)** → Roami 10-20GB, şehirlerarası demiryolu güzergahlarında daha kararlı (aşağıdaki 7 günlük planlara / senaryo önerilerine bakın)
+> - **İskoç Yaylaları / Göller Bölgesi yol gezisi (7-10 gün)** → Roami 10-20GB, daha iyi kapsama için O2/Vodafone'a geçer (aşağıdaki operatör analizine / senaryo önerilerine bakın)
+> - **İş seyahati (3-7 gün)** → Roami 5-10GB, varışta çalışır, mağaza bulmaya gerek yok (aşağıdaki senaryo önerilerine / plan karşılaştırmasına bakın)
+> - **Veri kullanımı konusunda hiç endişe yok** → Roami sınırsız (7 gün indirimli $15.19) veya Holafly ($3.90/gün), Roami daha ucuz (aşağıdaki 7 günlük planlara bakın)
+> - **En sıkı bütçe** → Roami 1GB/7 gün indirimli $2.39, genel olarak en düşük fiyat (aşağıdaki 3 günlük planlara bakın)
 
-## Seyahat Programınıza Göre Doğru UK eSIM Nasıl Seçilir?
+## 2026'da İngiltere eSIM Pazarındaki Üç Değişim
 
-Birleşik Krallık, uluslararası gezginlere eSIM kararını ABD veya Avrupa'dan temelde farklı kılan üç zorluk çıkarır.
+> **2026 İngiltere eSIM Pazar Güncellemeleri**
+>
+> - **Brexit dolaşımı geri döndü**: [Ofcom](https://www.ofcom.org.uk/)'a göre, İngiltere'nin büyük operatörleri (EE/Vodafone/Three) 2022'den itibaren AB için dolaşım ücretlerini yeniden uygulamaya başladı ve çoğu AB operatörü de İngiltere için ücretleri yeniden uyguladı.
+> - **Yerel kartlar çok ucuz**: giffgaff ve Three gibi MVNO'lar £10 civarında 10-20GB sunar; İngiltere, "yerel SIM'lerin satın alınması en kolay" Avrupa ülkelerinden biridir.
+> - **Metro artık bir "sinyal kara deliği" değil**: Londra Metrosu'nun merkezi bölümü ve Elizabeth Hattı, 2024'ten itibaren kademeli olarak 4G/5G'yi kullanıma sundu, ancak derin tünellerin çoğunda hala sinyal yok; istasyonlarda ücretsiz WiFi mevcut.
+> - **5G lideri**: [Opensignal](https://www.opensignal.com/) 2026 verilerine göre, EE'nin 5G erişilebilirliği İngiltere nüfusunun %50'sinden fazlasını kapsıyor ve hızda sürekli olarak birinci sırada yer alıyor.
+>
+> *Eylül 2026 itibarıyla kamu verilerine dayanmaktadır.*
 
-### Temassız Ödemeler için Veri Neden Şarttır?
+İngiltere pazarı, "dolaşım ücretlerinin geri dönüşü" ve "çok ucuz yerel kartlar"ı birleştirmesiyle benzersizdir. Bu üç değişim seçiminizi belirler:
 
-Birleşik Krallık, dünyanın en dijital öncelikli ülkelerinden biridir. **Nakit ölüyor** ve temassız ödeme her yerde varsayılandır:
+**1. Brexit dolaşım ücretleri en büyük değişkendir.** AB'den bir AB kartıyla geliyorsanız veya İngiltere'den sonra AB'ye dönmeyi planlıyorsanız, her iki taraftaki operatörler dolaşım ücretlerini yeniden uyguladı (bazıları günlük €2-3 veya MB başına). Bir [İngiltere eSIM](/united-kingdom-esim/) doğrudan İngiltere yerel ağına bağlanarak bu maliyeti tamamen ortadan kaldırır.
 
-- **Londra Metrosu** – giriş ve çıkışta telefonunuzu veya temassız kartınızı okutun. Veri yok mu? Giriş yapamazsınız. Kağıt bilet almanız gerekir—ve metro istasyonlarında kuyruklar 20+ dakika olabilir.
-- **Otobüsler** – yalnızca temassız. 2014'ten beri çoğu Londra otobüsünde nakit kabul edilmiyor.
-- **Mağazalar, barlar, restoranlar** – Apple Pay ve Google Pay, terminallerin %95'inden fazlasında kabul edilir. Birçok küçük kafe ve bar artık hiç nakit almıyor.
-- **Tren biletleri** – dijital biletler, QR kodunu göstermek için veri gerektirir. Telefonunuzun şarjı biterse veya bariyerde sinyal yoksa, mahsur kalırsınız.
+**2. Yerel kartlar ucuzdur, bu nedenle eSIM "konfor" üzerinden rekabet eder.** İngiltere zorunlu SIM kaydı gerektirmez ve giffgaff/Three gibi kartlar havaalanlarında ve marketlerde her yerde bulunur. Ancak satın almak, sıraya girmek, kart takmak ve aktivasyon beklemek anlamına gelir. 3-5 günlük turistler için, kalkıştan önce kurulan ve varışta hazır olan bir [İngiltere veri eSIM](/united-kingdom-esim/) o yarım saati ve mağaza bulma zahmetini kurtarır – bu genellikle birkaç sterlinlik farktan daha değerlidir.
 
-**Etkisi:** Telefonunuzun verisi biterse veya sinyali kaybederse, Metro'ya binemez, otobüse binemez ve tren biletinizi gösteremezsiniz. Güvenilir bir eSIM bir lüks değil—Birleşik Krallık'ta günlük işlev için elzemdir.
+**3. Metro ve kırsal alanlar kapsama zayıflıklarıdır.** Londra Metrosu'nun derin tünellerinde sinyal yoktur ve İskoç Yaylaları ile Göller Bölgesi'nde kapsama boşlukları vardır – bunlar İngiltere'ye özgü sorun noktalarıdır. Çoklu ağ otomatik geçişli bir eSIM, EE, O2, Vodafone ve Three arasında en iyi sinyali otomatik olarak seçerek tek bir ağdan daha güvenilir hale gelir.
 
-> **Gerçek gezgin raporu (Reddit r/LondonTravel, Temmuz 2026):** "Telefonumla Metro'ya binmeye çalıştım, verim yoktu—ödeme çevrimdışı yetkilendirilmediği için giriş yapamadım. 1999'da gibi kağıt bilet almak zorunda kaldım. Bir daha asla."
+## İngiltere'nin Dört Ağı, Karşılaştırıldı
 
-### Şehir Dışında Ağ Seçimi: EE vs Vodafone vs O2
+> İngiltere, çok sayıda bütçe MVNO'su (giffgaff, VOXI, Tesco Mobile) ile birlikte "Dört Büyük" bir pazardır. Seyahat eSIM'leri genellikle otomatik olarak veya manuel olarak EE, O2, Vodafone veya Three'e bağlanır.
 
-Birleşik Krallık küçüktür—Oregon büyüklüğünde—ancak ağ kapsaması şehirler ile kırsal alanlar arasında büyük farklılık gösterir:
+### Dört İngiltere Ağı: Temel Veriler
 
-| Bölge | Tipik Kapsama | Sizin İçin Anlamı |
-| :----- | :--------------- | :-------------------- |
-| **Londra, Manchester, Edinburgh, Glasgow** | Mükemmel 5G | Sorunsuz akış, Citymapper, yemek dağıtımı |
-| **Otoyollar (M1, M6, M25)** | İyi 4G/5G | Çoğu güzergah kapsanır; kırsal kesimlerde bazı ölü bölgeler |
-| **İskoç Yaylaları, Lake District, Snowdonia** | Güvenilmez; EE en iyisi, O2 en zayıfı | Büyük ölü bölgeler; çevrimdışı haritalar şart |
-| **Cornwall, Norfolk kıyısı, Isle of Skye** | Seyrek; EE avantajlı | Herhangi bir operatörde uzun süre sinyal olmayan bölgeler |
+| Metrik | EE | O2 | Vodafone | Three |
+|------|-----|-----|---------|-------|
+| Abone Sayısı | ~25 milyon | ~34 milyon | ~18 milyon | ~10 milyon |
+| 5G Nüfus Kapsaması | **%50+** | %45+ | %45+ | %40+ |
+| Ortalama İndirme Hızı | **En Hızlı** | Orta | Orta-Yüksek | Orta |
+| En İyi Olduğu Alan | Şehir hızı | Kırsal/İç mekan kapsaması | Dengeli | Bütçe, yüksek veri |
 
-**Sonuç:** Ağ ataması önemlidir. eSIM'iniz sizi O2'ye kilitlerse ve bir haftanızı Yaylalar'da geçirirseniz, bir EE kullanıcısına göre önemli ölçüde daha zayıf kapsamaya sahip olursunuz. Roami'nin EE, Vodafone ve O2 arasında otomatik geçiş özelliği bu riski tamamen ortadan kaldırır.
+*Kaynaklar: [Ofcom](https://www.ofcom.org.uk/) / [Opensignal](https://www.opensignal.com/), Eylül 2026 itibarıyla.*
 
-### Brexit Sonrası AB Dolaşımı: eSIM'iniz İçin Ne Anlama Gelir?
+### Her İngiltere Ağı, Açıklamalı
 
-Brexit'ten önce, Birleşik Krallık mobil planları AB genelinde ücretsiz dolaşım içeriyordu. Bu artık çoğu Birleşik Krallık sağlayıcısı için geçerli değil—ve seyahat eSIM'leri için durum değişkendir:
+- **EE — "Hız Kralı"**: İngiltere'nin en geniş kapsaması ve en hızlı 5G'si, şehirlerde ve ana yollarda en iyisi. **⚠️ Zayıf Yönü**: Kırsal alanlar ve İskoç Yaylaları'nın bazı bölgelerinde ortalama kapsama.
 
-| Sağlayıcı | UK Planı AB Dolaşımı İçerir mi? | Detaylar |
-| :------- | :--------------------------- | :------ |
-| **Airalo** | ❌ Hayır | UK planı yalnızca Birleşik Krallık içindir; ayrı bir Avrupa planı satın alın. |
-| **Holafly** | ❌ Hayır | UK planı yalnızca Birleşik Krallık içindir; ayrı bir Avrupa planı gerekir. |
-| **Roami** | ✅ Evet | UK planı ek ücret olmaksızın Avrupa'da sorunsuz çalışır. |
+- **O2 — "Kırsal/İç mekan Kralı"**: O2, kırsal kapsama ve iç mekan nüfuziyeti konusunda en iyi itibara sahiptir, özellikle İskoçya ve Göller Bölgesi'nde. **⚠️ Zayıf Yönü**: Şehir yoğun saatlerde hızlar EE'den daha düşüktür.
 
-**AB dolaşımının ekonomisi:**
-- Airalo'nun ayrı Avrupa planı (10 GB/30 gün): ~$37,00
-- Holafly'nin ayrı Avrupa planı (10 gün): ~$39,00
-- Roami'nin AB dolaşımı dahil UK planı: $14,99 (15 gün) veya $18,99 (30 gün)
-- **Bir UK+Avrupa seyahati için Roami, iki ayrı plan satın almaya kıyasla 20-50 dolar tasarruf ettirir.**
+- **Vodafone — "Dengeli Seçim"**: Hem şehirlerde hem de kırsal alanlarda iyi performans gösterir, geniş uluslararası dolaşım deneyimine sahiptir – genellikle seyahat eSIM'leri tarafından kullanılır. **⚠️ Zayıf Yönü**: Her kategoride "ikincilik", öne çıkan bir özelliği yok.
 
-> **Gerçek gezgin raporu (Reddit r/travel, Ağustos 2026):** "2 haftalık UK+Avrupa seyahati yaptım—Londra, Paris, Amsterdam. Roami'nin UK planı üç ülkede de ekstra adım olmadan çalıştı. Arkadaşımın Airalo'su vardı ve ayrı bir Avrupa planı satın almak zorunda kaldı—maliyeti iki katına çıktı."
+- **Three — "Yüksek Veri, Düşük Fiyat"**: Hızla büyüyen 5G kapsaması, agresif fiyatlandırma – bütçe bilincine sahip kullanıcılar için iyidir. **⚠️ Zayıf Yönü**: Kırsal ve Metro sinyali daha zayıftır.
 
----
+### Büyük İngiltere Şehirlerinde Kapsama Testleri
 
-## Airalo UK eSIM İncelemesi: Planlar, Fiyatlandırma ve Neler Sunar?
+| Destinasyon | Kapsama Kalitesi | Hız | En İyi Ağ |
+|--------|---------|------|---------|
+| Londra (Şehir Merkezi) | Mükemmel | 5G, 100-500 Mbps | EE |
+| Edinburgh | Mükemmel | 5G, 80-300 Mbps | EE / Vodafone |
+| Londra Metrosu (Derin Hatlar) | Zayıf (Sinyal Yok) | Sadece istasyon WiFi'ı | — |
+| Göller Bölgesi (Windermere) | İyi-Ortalama | 4G, 20-60 Mbps | O2 / Vodafone |
+| İskoç Yaylaları | Ortalama (boşluklu) | 4G, 10-40 Mbps | **O2 / Vodafone** |
 
-Airalo 2019'da Singapur'da kuruldu ve şu anda dünya çapında 30 milyondan fazla gezgine hizmet veriyor. UK teklifi şunları içerir:
+> **Önemli Tavsiye**
+>
+> **Çoklu ağ otomatik geçişini** destekleyen bir İngiltere eSIM'i seçin (Roami gibi). Konumunuza göre EE, O2, Vodafone ve Three arasında en güçlü ağı otomatik olarak seçer – Londra merkezinde EE'nin yüksek hızlı 5G'sini kullanır ve İskoç Yaylaları'nda O2/Vodafone'a geçer. Tek ağlı eSIM'ler Göller Bölgesi'nde veya Highland yol gezileri sırasında sinyal ölü bölgeleriyle karşılaşabilir. [Çoklu ağ geçişli İngiltere eSIM'ini görüntüle →](/united-kingdom-esim/)
 
-- **Tamamen dijital** — uygulamadan satın alın ve kurun, fiziksel SIM yok
-- **Birleşik Krallık genelinde kapsama** EE, Vodafone veya O2 üzerinde (rastgele atanır—seçemezsiniz)
-- **Plan çeşitliliği** — 1 GB'den 50 GB'a kadar sabit, ayrıca sınırsız kademeler, 3–30 gün
-- **Uygulama puanları** — iOS'ta 4.7, Android'de 4.6
+## İngiltere eSIM Markaları Karşılaştırması: Fiyatlar ve Ağlar
 
-**Kimler için:** Kısa süreli turistler, iş seyahatindekiler ve tanınmış bir markayı tercih eden herkes.
+> ⚠️ **İngiltere için Önemli Hatırlatma**: Her üç marka da **yalnızca veri eSIM'leri sunar, İngiltere telefon numarası yoktur**. Uber veya yemek teslimatı gibi uygulamaları uygulama içi mesajlaşma ile kullanın; yerel numara gerekmez. Bir İngiltere numarasına ihtiyacınız varsa (restoran geri aramaları, uygulama doğrulaması için), bir VoIP çözümü ile eşleştirin.
 
-**Kritik tuzak:** Aktivasyon sırasında EE, Vodafone veya O2'den birine atanırsınız. O2'yi alırsanız ve Yaylalar veya Lake District'i ziyaret etmeyi planlıyorsanız, EE kullanıcılarına göre daha zayıf kapsamanız olur. Satın almadan önce veya sonra belirli bir operatör talep etmenin bir yolu yoktur. (Roami ise EE, Vodafone ve O2 arasında otomatik geçiş yapar.)
+### Markalara Genel Bakış
 
----
+| Marka | Trustpilot Puanı | Konumlandırma | Ağ Erişimi | 5G | Hotspot | İngiltere Numarası |
+|------|----------------|---------|---------|-----|------|-----------|
+| **Airalo** | 4.2 | Dünyanın en büyük platformu, en granüler seviyeler | EE / O2 | Bazı | Desteklenir | ❌ |
+| **Holafly** | 4.3 | Saf sınırsız veri | EE | Desteklenir | 1GB günlük sınır | ❌ |
+| **Roami** | 4.9 | Çoklu ağ otomatik geçiş, en iyi değer | EE / O2 / Vodafone / Three | Tam | Sınırsız | ❌ |
 
-## Airalo UK eSIM GB Başına Maliyet: En İyi Değer Planları
+> **Hızlı Farklar**
+>
+> - **Airalo İngiltere eSIM**: Dünyanın en büyük platformu, en granüler sabit veri seviyeleri artı sınırsız seçenekler, EE / O2'ye bağlanır. Şeffaf fiyatlandırma, hotspot desteği, **İngiltere numarası yok**. Orta düzey bütçeyle "sınırsız" isteyenler için iyidir.
+> - **Holafly İngiltere eSIM**: Saf sınırsız veri sunan tek marka, $3.90/gün fiyatla, EE 5G'ye bağlanır. GB sınırı yok, ancak **hotspot 1GB/gün ile sınırlıdır**, yüksek uzun vadeli maliyet, **İngiltere numarası yok**. Maliyetten çekinmeyen ağır kullanıcılar için uygundur.
+> - **Roami İngiltere eSIM**: Çoklu ağ otomatik geçiş (EE / O2 / Vodafone / Three), tam 5G, sınırsız hotspot, genel olarak en düşük fiyat, **İngiltere numarası yok**. %20 indirim için **WEB20** indirim kodunu kullanın. [Roami İngiltere eSIM planlarını görüntüle](/united-kingdom-esim/)
 
-Airalo'nun UK ürün yelpazesi, farklı kullanıcı segmentlerini farklı fiyat noktalarında yakalamak için tasarlanmış sofistike bir katmanlı fiyatlandırma stratejisi ortaya koyuyor.
+### Airalo İngiltere eSIM Tam Fiyat Listesi
 
-### Airalo UK Sabit Veri Planları (1 GB – 50 GB, 3–30 gün)
+**Sınırsız Planlar**
 
-| Geçerlilik | Veri | Fiyat (USD) | Günlük Maliyet | GB Başına | En İyi Olduğu Durum |
-| :------: | :--: | :---------: | :------: | :----: | :------- |
-| **3 gün**  | 1 GB  | $4.00  | $1.33 | $4.00 | Hafta sonu Londra kaçamağı |
-|             | 3 GB  | $8.50  | $2.83 | $2.83 | Sosyal paylaşımlı 3 günlük seyahat |
-| **7 gün**  | 3 GB  | $9.00  | $1.29 | $3.00 | Hafif bir haftalık kullanım |
-|             | 5 GB  | $12.00 | $1.71 | $2.40 | **Bir hafta, tipik kullanım** |
-|             | 10 GB | $18.00 | $2.57 | $1.80 | Yoğun bir haftalık kullanım |
-| **15 gün** | 5 GB  | $12.50 | $0.83 | $2.50 | Hafif iki hafta |
-|             | 10 GB | $18.50 | $1.23 | $1.85 | Tipik iki hafta |
-|             | 20 GB | $30.00 | $2.00 | $1.50 | İki hafta, yoğun/iş kullanımı |
-| **30 gün** | 5 GB  | $13.00 | $0.43 | $2.60 | Hafif ay |
-|             | 10 GB | $19.00 | $0.63 | $1.90 | Tipik ay—**tatlı nokta** |
-|             | 20 GB | $31.00 | $1.03 | $1.55 | Yoğun ay |
-|             | 50 GB | $39.00 | $1.30 | $0.78 | **Çok yoğun ay** |
+| Gün | Fiyat | Günlük Maliyet |
+|------|------|---------|
+| 3 gün | $11.50 | $3.83/gün |
+| 5 gün | $18.50 | $3.70/gün |
+| 7 gün | $27.00 | $3.86/gün |
+| 10 gün | $34.50 | $3.45/gün |
+| 15 gün | $48.00 | $3.20/gün |
+| 30 gün | $69.00 | $2.30/gün |
 
-### Airalo UK Sınırsız Veri Planları (3–30 gün)
+**Sabit Veri Planları**
 
-| Geçerlilik | Veri | Fiyat (USD) | Günlük Maliyet | En İyi Olduğu Durum |
-| :------: | :--- | :---------: | :------: | :------- |
-| **3 gün**  | Sınırsız | $11.50 | $3.83 | Kısa, yoğun kullanım |
-| **5 gün**  | Sınırsız | $18.50 | $3.70 | 5 günlük seyahat, sıfır veri kaygısı |
-| **7 gün**  | Sınırsız | $27.00 | $3.86 | Bir hafta, sınırsız |
-| **10 gün** | Sınırsız | $34.50 | $3.45 | 10 günlük seyahat |
-| **15 gün** | Sınırsız | $48.00 | $3.20 | İki hafta, sınırsız |
-| **30 gün** | Sınırsız | $69.00 | $2.30 | Bir ay, sınırsız |
+| Gün | Veri Seviyesi | Fiyat |
+|------|--------|------|
+| 3 gün | 1GB / 3GB | $4.00 / $8.50 |
+| 7 gün | 3GB / 5GB / 10GB | $9.00 / $12.00 / $18.00 |
+| 15 gün | 5GB / 10GB / 20GB | $12.50 / $18.50 / $30.00 |
+| 30 gün | 5GB / 10GB / 20GB / 50GB | $13.00 / $19.00 / $31.00 / $39.00 |
 
-### Airalo'nun 4 Dolarlık eSIM Planı Buna Değer mi?
+> ⚠️ **Airalo İngiltere Risk Notu**: Sabit veri seviyeleri nispeten pahalıdır (7 gün 10GB $1.80/GB), Roami'nin eşdeğerinin iki katından fazla; 7 günlük sınırsız $27, kısa geziler için ortalama değer sunar.
 
-3 gün/1 GB planı 4,00 $ ile karar sürtünmesini ortadan kaldıracak şekilde fiyatlandırılmıştır. Londra'da bir hafta sonu için 4 $, bir Oyster kartla yapılan gidiş-dönüş bir metro yolculuğundan daha azdır. **Bu kademe kârlı değildir.** Bu bir müşteri edinme aracıdır. Uygulamayı kurup aktive ettiğinizde, başka bir sağlayıcıya geçiş maliyeti önemli ölçüde artar.
+### Holafly İngiltere eSIM Tam Fiyat Listesi
 
-### Airalo 5GB vs 10GB vs 50GB: Hangi Planı Seçmelisiniz?
+Holafly İngiltere **yalnızca sınırsız veri** sunar, günlük fiyatlandırma ile:
 
-5 GB kademesine dikkat edin: 7 gün ($12.00) → 15 gün ($12.50) → 30 gün ($13.00). **Sadece 1 $ daha fazla ödeyerek 23 ekstra gün kazanırsınız.** Bu "yem fiyatlandırmasıdır"—7 günlük plan, 30 günlük planı cazip göstermek için vardır. Çoğu gezginin 7 günde 5 GB'a ihtiyacı yoktur; 30 günlük planı alıp kullanımı zamana yayarlar.
+| Gün | Fiyat | Günlük Maliyet |
+|------|------|---------|
+| 3 gün | $11.70 | $3.90/gün |
+| 7 gün | $27.30 | $3.90/gün |
+| 15 gün | $58.50 | $3.90/gün |
+| 30 gün | $117.00 | $3.90/gün |
 
-### Airalo Sınırsız Veri Ekstra Ücrete Değer mi?
+> ⚠️ **Holafly İngiltere Risk Notu**: Sabit seviyeler mevcut değildir; 3 gün $11.70 tutar, Roami'nin 3 gün 10GB'ının ($6.39) neredeyse iki katıdır. **Hotspot 1GB/gün ile sınırlıdır**, bu nedenle paylaşım veya tablet bağlantısı kısıtlıdır. Günlük fiyatlandırma, uzun vadeli maliyetleri en yüksek yapar.
 
-GB başına 0,78 $ ile 50 GB planı en iyi değerli sabit kademedir. 30 günlük sınırsız plan, 50 GB planından **30 $ daha pahalıdır** (69 $ vs 39 $) ancak çoğu kullanıcı için temelde aynı yüksek hızlı veriyi sunar (gezginlerin %95'i 50 GB'ı tüketmez). Airalo aslında sınırsız satın almanızı istemez—tahmin edilebilir maliyetleri ve daha sağlıklı marjları olan 50 GB'ı satın almanızı ister.
+### Roami İngiltere eSIM Tam Fiyat Listesi
 
----
+Roami İngiltere hem sabit veri hem de sınırsız planlar sunar. İndirimli fiyat = liste fiyatı × 0.8 (WEB20 kodu):
 
-## Airalo Sınırsız Veri Hız Kısıtlaması Yapar mı? Adil Kullanım Politikası Açıklandı
+| Gün | Veri Seviyesi | Liste Fiyatı | İndirimli Fiyat | Günlük Maliyet |
+|------|--------|---------|--------|---------|
+| 3 gün | 1GB / 3GB / 5GB / 10GB / Sınırsız | $1.99 / $3.99 / $5.99 / $7.99 / $8.99 | **$1.59 / $3.19 / $4.79 / $6.39 / $7.19** | $0.53-2.40/gün |
+| 7 gün | 1GB / 3GB / 5GB / 10GB / 20GB / Sınırsız | $2.99 / $4.99 / $6.99 / $9.99 / $15.99 / $18.99 | **$2.39 / $3.99 / $5.59 / $7.99 / $12.79 / $15.19** | $0.34-2.17/gün |
+| 15 gün | 3GB / 5GB / 10GB / 20GB / 30GB / Sınırsız | $5.99 / $7.99 / $12.99 / $17.99 / $25.99 / $36.99 | **$4.79 / $6.39 / $10.39 / $14.39 / $20.79 / $29.59** | $0.32-1.97/gün |
+| 30 gün | 3GB / 5GB / 10GB / 20GB / 30GB / 50GB / Sınırsız | $6.99 / $9.99 / $14.99 / $18.99 / $29.99 / $37.99 / $41.99 | **$5.59 / $7.99 / $11.99 / $15.19 / $23.99 / $30.39 / $33.59** | $0.19-1.12/gün |
 
-"Sınırsız", günlük **3 GB yüksek hızlı veri** anlamına gelir, sonrasında hızınız bir sonraki 24 saatlik sıfırlamaya kadar **1 Mbps**'ye düşer.
+> ⚠️ **Roami İngiltere Risk Notu**: Sınırsız plan, 20GB/50GB seçeneklerinden biraz daha pahalıdır (fark $2.40-$3.20), yalnızca ağır kullanıcılar için gereklidir. Aksi takdirde, sabit seviyeler genel olarak en düşük birim fiyata sahiptir ve çoğu seyahat için daha uygun maliyetlidir.
 
-| Aktivite | Veri Kullanımı | 3 GB'ta Kaç Adet |
-| :------- | :------- | :--------------- |
-| Netflix (HD, 45 dk) | ~1 GB | 3 bölüm |
-| BBC iPlayer (SD, 30 dk) | ~300 MB | 10 bölüm |
-| YouTube (SD, 10 dk) | ~100 MB | 30 klip |
-| Citymapper (tüm gün) | ~20 MB | 150 gün |
-| WhatsApp video araması (30 dk) | ~200 MB | 15 arama |
+### Fiyatların Gerçekte Anlamı
 
-**Bir UK seyahatinde bu neye benzer:** Londra'da bir gün—Citymapper ile metro navigasyonu, Instagram paylaşımları, eve WhatsApp video araması ve otele döndüğünüzde bir BBC programı bölümü—yaklaşık 1.5–2 GB kullanır. 3 GB kotasına yalnızca yoğun video akışı yaparsanız ulaşırsınız. Kısıtlama uygulandığında, mesajlaşma ve haritalar hâlâ çalışır; HD akış ve indirmeler önemli ölçüde yavaşlar.
+**Daha büyük seviyelere çıktıkça GB başına fiyat önemli ölçüde düşer.** Örnek: Roami 30 günlük planlar:
 
----
+| Veri Seviyesi | İndirimli Fiyat | GB Başına Fiyat |
+|--------|--------|-----------|
+| 5GB | $7.99 | $1.60/GB |
+| 10GB | $11.99 | $1.20/GB |
+| 20GB | $15.19 | $0.76/GB |
+| 50GB | $30.39 | **$0.61/GB** |
 
-## Bir UK Seyahati için Ne Kadar Veriye İhtiyacınız Var? Günlük Kullanım Rehberi
+50GB'ın GB başına fiyatı, 5GB'ınkinin yalnızca üçte biridir. **Sonuç: Kullanımınızı tahmin edebiliyorsanız, daha büyük bir seviye satın almak daha fazla tasarruf sağlar.**
 
-UK seyahatleri genellikle kısadır—çoğu ziyaretçi için 3 ila 7 gün—bu nedenle hesaplama basittir.
+**Sınırsız veri için "dönüm noktası".** Roami İngiltere sınırsız seviyeler sunar; aynı süre için sabit seviyelerle karşılaştırın:
 
-### 5 GB Geçerlilik Hilesi: Sadece 1 $ Daha Fazla Ödeyerek 30 Gün Kazanın
+| Plan | Fiyat | Değer mi? |
+|------|------|--------|
+| Roami 7 gün 20GB indirimli | $12.79 | Günlük kullanım ≤2.86GB ise en iyisi |
+| Roami 7 gün sınırsız indirimli | $15.19 | Yalnızca günlük kullanım >2.86GB ise değer |
+| Roami 30 gün 50GB indirimli | $30.39 | Günlük kullanım ≤1.67GB ise en iyisi |
+| Roami 30 gün sınırsız indirimli | $33.59 | Yalnızca günlük kullanım >1.67GB ise değer |
 
-- **Aynı 5 GB**: 7 gün ($12.00) → 15 gün ($12.50) → 30 gün ($13.00). **Sadece 1 $ daha fazla ödeyerek 5 GB'ı bir haftadan bir aya uzatın.**
-- **Kural:** 10–14 gün mü kalıyorsunuz? 15 gün satın alın. 20+ gün mü kalıyorsunuz? 30 gün satın alın—fiyat farkı önemsizdir.
+**Sınırsız dönüm noktası = günlük kullanım >2.86GB (7 gün) veya >1.67GB (30 gün)**. Günde yaklaşık 3GB kısa video izlemiyorsanız, sınırsız size fayda sağlamaz. İngiltere seyahatlerinin çoğu gezi, metro ve fotoğraf çekmeyi içerir – 10-20GB sabit veri genellikle yeterlidir. **Sadece "sınırsız" kelimesi için fazla ödeme yapmayın.**
 
-### UK eSIM Veri Hesaplayıcı: Gerçekçi Günlük Tüketim
+**Tasarruf edilen parayla ne yapabilirsiniz?** Roami (indirimli) ile rakipler arasındaki farkı seyahat harcamalarına dönüştürün:
 
-| Plan | Toplam Fiyat | GB Başına Fiyat | Değer Derecesi | Ne Zaman Alınmalı |
-| :--- | :---------- | :----------- | :----------- | :---------- |
-| 5 GB | $13.00 | $2.60 | Zayıf | Otel Wi-Fi'si olan çok hafif kullanıcı |
-| 10 GB | $19.00 | $1.90 | İyi | **Çoğu yalnız gezgin için tatlı nokta** |
-| 20 GB | $31.00 | $1.55 | Daha iyi | Ara sıra akış veya hotspot |
-| 50 GB | $39.00 | $0.78 | En iyi | Yoğun kullanıcı veya hotspot paylaşan aile |
-| Sınırsız | $69.00 | Değişir | En kötü | Yalnızca 50 GB'ı düzenli olarak aşıyorsanız |
+| Seyahat | Roami indirimli vs rakip | Tasarruf | Eşdeğeri |
+|------|-------------------|------|--------|
+| 7 gün 10GB | $7.99 vs Airalo $18.00 | $10.01 | Tam İngiliz kahvaltısı + iki kahve |
+| 7 gün sınırsız | $15.19 vs Holafly $27.30 | $12.11 | Bir Londra Gözü bileti |
+| 15 gün 20GB | $14.39 vs Airalo $30.00 | $15.61 | Güzel bir akşam yemeği |
+| 30 gün sınırsız | $33.59 vs Holafly $117.00 | $83.41 | Londra'da ucuz bir otelde bir gece |
 
-### Bir UK Seyahatinde Gerçek Dünya Günlük Veri Kullanımı
+## En Ucuz 3 Günlük İngiltere eSIM
 
-| Aktivite | Veri Kullanımı |
-| :------- | :------- |
-| Citymapper (tüm gün) | ~20 MB |
-| Sosyal medya (1 saat) | ~300 MB |
-| BBC iPlayer (30 dk, SD) | ~150 MB |
-| Spotify (2 saat) | ~150 MB |
-| WhatsApp video araması (15 dk) | ~100 MB |
-| **Günlük toplam** | **~720 MB** |
-| **Aylık toplam** | **~22 GB** |
+3 günlük kısa bir gezi için (hafta sonu kaçamağı / aktarma / iş), başlangıç fiyatı en önemlisidir.
 
-Çoğu UK gezgini için 10–20 GB bir ayı rahatça karşılar. 50 GB'ı hotspot paylaşan aileler veya yoğun akış yapanlar için ayırın.
+| Veri | Airalo | Holafly | Roami (İndirimli) | Değer Şampiyonu |
+|------|--------|---------|---------------|-----------|
+| 1GB | $4.00 | — | **$1.59** | **Roami** |
+| 3GB | $8.50 | — | **$3.19** | **Roami** |
+| 5GB | — | — | **$4.79** | **Roami** |
+| 10GB | — | — | **$6.39** | **Roami** |
+| Sınırsız | $11.50 | $11.70 | **$7.19** | **Roami** |
 
----
+**3 günlük karar**: Roami 3 gün 3GB indirimli $3.19, Airalo'nun eşdeğerinden ($8.50) %62 daha ucuzdur; Roami 3 gün sınırsız ($7.19), Holafly'den ($11.70) %39 daha ucuzdur. Roami, 3 günlük gezilerde sınırsız dahil her alanda kazanır.
 
-## EE vs Vodafone vs O2: Hangi Operatör Kırsal Alanlarda Daha İyi Kapsama Sunar?
+> **💡 3 Günlük Fiyat Değerlendirmesi**: 3 günlük bir Londra gezisi için navigasyon, WhatsApp mesajlaşma ve Metro güzergah kontrolü ile 1-3GB yeterlidir. Roami 3 gün 3GB indirimli $3.19, tam bağlantı için günde sadece $1'den fazladır, havaalanındaki bir Oyster kartından daha ucuzdur. [İngiltere eSIM 3 günlük planları görüntüle](/united-kingdom-esim/)
 
-Airalo sizi aktivasyonda **EE, Vodafone veya O2**'den birine atar ve tüm seyahat boyunca orada kilitler.
+## 7 Günlük İngiltere eSIM: En İyi Değer
 
-| Operatör | Şehir Kapsaması | Kırsal Kapsama | En İyi Olduğu Durum |
-| :------ | :------------- | :------------- | :------- |
-| **EE** | Mükemmel (en hızlı 5G) | **En iyi** | İskoç Yaylaları, Lake District, Cornwall, kırsal Galler |
-| **Vodafone** | Mükemmel | İyi | Şehirler, Güney Batı, Midlands |
-| **O2** | Mükemmel | İyi | Şehirler, Midlands, İskoçya |
+7 gün en yaygın seyahat süresidir (Londra + çevresi veya kısa bir Edinburgh ziyareti).
 
-### Seyahat Programınıza Göre eSIM Operatörünüzü Nasıl Seçersiniz
+| Veri | Airalo | Holafly | Roami (İndirimli) | Değer Şampiyonu |
+|------|--------|---------|---------------|-----------|
+| 1GB | — | — | **$2.39** | **Roami** |
+| 3GB | $9.00 | — | **$3.99** | **Roami** |
+| 5GB | $12.00 | — | **$5.59** | **Roami** |
+| 10GB | $18.00 | — | **$7.99** | **Roami** |
+| 20GB | — | — | **$12.79** | **Roami** |
+| Sınırsız | $27.00 | $27.30 | **$15.19** | **Roami** |
 
-- **Yalnızca Londra, Manchester, Edinburgh** → her iki ağ da çalışır
-- **İskoç Yaylaları, Lake District, Snowdonia** → EE en güvenli seçimdir
-- **Cornwall, Norfolk kıyısı, Isle of Skye** → EE kırsal alanlarda avantajlıdır
-- **Emin değilseniz** → Roami'nin EE/Vodafone/O2 arasında otomatik geçişi en güvenli seçenektir
+**7 günlük karar**: Roami 7 gün 10GB indirimli $7.99, Airalo'nun eşdeğerinden ($18.00) %56 ve Holafly'nin sınırsızından ($27.30) %71 daha ucuzdur. Roami'nin sınırsızı ($15.19) bile Holafly'den %44 daha ucuzdur.
 
-> **Gerçek gezgin raporu (Reddit r/UKTravel, Temmuz 2026):** "Londra'da Airalo kullandım—iyiydi. Lake District'e götürdüm ve yürüyüşlerin yarısında O2'de sıfır sinyal vardı. Arkadaşımın Roami'si EE'ye geçti ve tüm süre boyunca kapsama sahipti."
+> **💡 7 Günlük Fiyat Değerlendirmesi**: 7 gün 10GB, günde 1.43GB anlamına gelir – 1 saat kısa video, tüm gün navigasyon ve yoğun WhatsApp mesajlaşması için yeterlidir. Roami indirimli $7.99 ile $0.80/GB sunar, bu piyasadaki en düşük seviyedir. Günde 2 saatten fazla HD video izlemiyorsanız, Roami 20GB ($12.79) sınırsızdan ($15.19) daha iyi değerdir.
 
-**Kırsal UK hakkında dürüst gerçek:** EE'nin bile Yaylalar'ın uzak vadilerinde ve Snowdonia'nın dağ geçitlerinde ölü bölgeleri vardır. Herhangi bir kırsal alana girmeden önce her zaman otel Wi-Fi'sinde **çevrimdışı haritaları indirin**—Apple Haritalar, Google Haritalar ve AllTrails çevrimdışı indirmeyi destekler.
+## 15 Günlük İngiltere eSIM: Yarım Ay Planları
 
----
+15 gün, derinlemesine bir "İngiltere + İskoçya" turu için uygundur.
 
-## Uber ve Bankacılık için Birleşik Krallık Telefon Numarasına (+44) İhtiyacınız Var mı?
+| Veri | Airalo | Holafly | Roami (İndirimli) | Değer Şampiyonu |
+|------|--------|---------|---------------|-----------|
+| 5GB | $12.50 | — | **$6.39** | **Roami** |
+| 10GB | $18.50 | — | **$10.39** | **Roami** |
+| 20GB | $30.00 | — | **$14.39** | **Roami** |
+| 30GB | — | — | **$20.79** | **Roami** |
+| Sınırsız | $48.00 | $58.50 | **$29.59** | **Roami** |
 
-**UK numarasına ihtiyacınız varsa:**
-- **UK bankalarından 2FA** almanız gerekiyorsa (Barclays, HSBC, Lloyds, Monzo)
-- **Yerel aramalar** yapacaksanız (restoranlar, pansiyonlar, taksiler)
-- **Uzun süreli** kalıyorsanız ve yerel bir iletişim numarasına ihtiyacınız varsa
+**15 günlük karar**: Roami 15 gün 20GB indirimli $14.39, Airalo'nun eşdeğerinden ($30.00) %52 ve Holafly'den ($58.50) %75 daha ucuzdur. Roami'nin sınırsızı ($29.59), Holafly'nin fiyatının (%58.50) yarısından azdır.
 
-**UK numarasına ihtiyacınız yoksa:**
-- Kısa bir şehir kaçamağındaysanız ve WhatsApp/FaceTime kullanıyorsanız
-- Uber/Deliveroo kullanıyorsanız—her ikisi de her telefon numarasıyla çalışır (ABD Uber'inden farklı olarak ABD numarası gerektirmez)
-- Çoğu Birleşik Krallık işletmesi artık WhatsApp veya e-posta üzerinden iletişim kuruyor
+> **💡 15 Günlük Fiyat Değerlendirmesi**: 15 gün 20GB, günde 1.33GB anlamına gelir – "günlük navigasyon + sosyal medya + ara sıra video izleme" için idealdir. Roami indirimli $14.39 ile $0.72/GB sunarken, Holafly'nin 15 günlük $58.50'si Roami'nin 20GB fiyatının 4 katıdır. Tasarruf edilen 44 $, iki gece iyi bir hostelde kalabilir.
 
-### Seyahatiniz İçin UK Telefon Numarası Almanın Üç Yolu
+## 30 Günlük İngiltere eSIM: Aylık Planlar
 
-| Seçenek | Maliyet | Artılar | Eksiler |
-| :----- | :--- | :--- | :--- |
-| **Airalo Discover+** | UK'de mevcut değil | — | — |
-| **Google Voice (ücretsiz)** | $0 | Ücretsiz UK numarası (veri üzerinden) | UK Google hesabı kurulumu gerektirir, yalnızca SMS |
-| **Yerel SIM (Giffgaff, Lyca)** | ~£10–20/ay | Tam UK hizmeti | Daha pahalı, ayrı kurulum |
+30 gün, uzun süreli konaklamalar, kısa süreli iş veya öğrenci oryantasyonuna karşılık gelir.
 
-**Sonuç:** Çoğu kısa süreli UK gezgini için bir Birleşik Krallık telefon numarası gerekli değildir. Uber ve Deliveroo her numarayla çalışır ve çoğu iletişim WhatsApp üzerinden yapılır. Bir UK bankasından 2FA'ya ihtiyacınız varsa, bir UK numarasına ihtiyacınız olacaktır—ancak bu turistler için nadirdir.
+| Veri | Airalo | Holafly | Roami (İndirimli) | Değer Şampiyonu |
+|------|--------|---------|---------------|-----------|
+| 5GB | $13.00 | — | **$7.99** | **Roami** |
+| 10GB | $19.00 | — | **$11.99** | **Roami** |
+| 20GB | $31.00 | — | **$15.19** | **Roami** |
+| 30GB | — | — | **$23.99** | **Roami** |
+| 50GB | $39.00 | — | **$30.39** | **Roami** |
+| Sınırsız | $69.00 | $117.00 | **$33.59** | **Roami** |
 
----
+**30 günlük karar**: Roami 30 gün 50GB indirimli $30.39, Airalo'nun eşdeğerinden (%39.00) %22 daha ucuzdur; Roami 30 gün sınırsız ($33.59), Holafly'den ($117.00) %71 daha ucuzdur. 50GB seviyesi, piyasadaki en düşük GB başına fiyata sahiptir: $0.61.
 
-## Holafly UK eSIM İncelemesi: Günlük 3,90 Dolarlık Sınırsız Veri Buna Değer mi?
+> **💡 30 Günlük Fiyat Değerlendirmesi**: Bir aylık konaklama için, [İngiltere eSIM değeri](/united-kingdom-esim/) açıktır – Roami 50GB $0.61/GB ile günde 1.67GB anlamına gelir. Holafly'nin 30 günlük $117'si, Roami'nin sınırsızının ($33.59) 3.5 katıdır ve 83 $'lık fark – Londra'da ucuz bir otelde bir gece için yeterlidir. Günde 2 saatten fazla videokonferans/canlı yayın yapmıyorsanız, 50GB tam bir ay için en iyi değerdir.
 
-Holafly yalnızca **sınırsız veri** sunar, fiyatı **günlük 3,90 $** olup hacim indirimi yoktur.
+> **💰 Sınırlı Süreli Teklif**
+>
+> Roami **İngiltere eSIM**'ini seçin ve ödeme sırasında **WEB20** indirim kodunu girerek tüm planlarda **%20 indirim** kazanın. İndirimli fiyatlar: 7 gün 10GB $7.99, 30 gün 50GB $30.39 – rakiplerin eşdeğer seviyelerinden önemli ölçüde daha düşüktür. [Şimdi İngiltere eSIM planlarını satın alın](/united-kingdom-esim/)
+>
+> *İndirim kodu tüm süreler ve veri seviyeleri için geçerlidir, sınırsız planlar dahil.*
 
-| Süre | Fiyat (USD) | Günlük Maliyet | Airalo Sınırsız ile Karşılaştırma |
-| :------: | :---------: | :------: | :------------------ |
-| **3 gün**  | $11.70 | $3.90 | Airalo $11.50—Holafly +$0.20 (başa baş) |
-| **5 gün**  | $19.50 | $3.90 | Airalo $18.50—Holafly +$1.00 |
-| **7 gün**  | $27.30 | $3.90 | Airalo $27.00—Holafly +$0.30 (başa baş) |
-| **10 gün** | $39.00 | $3.90 | Airalo $34.50—Holafly +$4.50 |
-| **15 gün** | $58.50 | $3.90 | Airalo $48.00—Holafly +$10.50 |
-| **30 gün** | $117.00 | $3.90 | Airalo $69.00—Holafly +$48.00 |
+## Seyahat Programınıza Göre En İyi İngiltere eSIM
 
-### Holafly'nin Günlük 3,90 Dolarlık Fiyatı Neden Olduğundan Daha Ucuz Hissettiriyor
+### Londra Şehir Gezisi (3-5 gün)
 
-Fiyatlandırma basit bir psikolojik denkleme dayanır: Günde 3,90 $, Londra'daki bir barda bir pint biradan (ortalama £6–8, yani ~$8–10) daha azdır. **3,90 $'ı bira fiyatıyla karşılaştırdığınızda, veri planı birdenbire ucuz görünür.** Bu "çıpa fiyatlandırmasıdır"—Holafly, sınırsız verinin bir günlük değerini sıradan bir günlük harcamaya karşı çapalar.
+- **Günlük kullanım**: 1-2GB (navigasyon + Metro güzergah kontrolü + sosyal medya)
+- **Öneri**: Roami 3-5GB
+- **Neden**: Londra merkezinde EE 5G mükemmeldir; Roami'nin çoklu ağ geçişi EE/O2 arasında en iyi sinyali otomatik olarak seçer. 3GB indirimli $3.19'dan başlar.
+- **⚠️ Hatırlatma**: Derin Metro tünellerinde sinyal yoktur; girmeden önce güzergahları yükleyin veya istasyon WiFi'ına bağlanın.
 
-### Holafly Neden Uzun Seyahatlerde Pahalılaşır? (Toplu İndirim Yok)
+### Çok Şehirli: Londra + Edinburgh (7-10 gün)
 
-Holafly'nin temel işi kısa süreli gezginlerdir (3–7 gün). Tüm pazarlama hunisi—"sınırsız veri, basit fiyatlandırma"—kısa bir seyahatte veri yönetimini düşünmek istemeyen kullanıcılara hitap eder. Uzun süreli gezginler (10+ gün) birincil hedef değildir. Sabit fiyatlandırma kasıtlı bir filtredir.
+- **Günlük kullanım**: 1.5-2GB
+- **Öneri**: Roami 10-20GB
+- **Neden**: Şehirlerarası demiryolu güzergahlarında kapsama boşlukları vardır; çoklu ağ geçişi daha güvenilirdir. 20GB indirimli $12.79.
+- **⚠️ Hatırlatma**: Trenler kırsal alanlardan geçerken sinyal dalgalanmaları normaldir.
 
-### Holafly'nin Günlük 3,90 $'ı Gerçekte Neleri İçerir?
+### İskoç Yaylaları / Göller Bölgesi Yol Gezisi (7-10 gün)
 
-1. **Günlük hız kısıtlaması yok** — Airalo'nun günlük 3 GB kotasının aksine
-2. **UK operatör erişimi** — EE ve Vodafone ağlarında çalışır
-3. **Hotspot izni** — belirli bir günlük limit olmadan tethering
-4. **Yalnızca veri** — UK telefon numarası yok
-5. **Yalnızca UK** — AB dolaşımı dahil değil
+- **Günlük kullanım**: 1.5-2GB
+- **Öneri**: Roami 10-20GB
+- **Neden**: Yaylalar ve Göller Bölgesi'nde kapsama boşlukları yaygındır; O2/Vodafone'a çoklu ağ geçişi en iyi kapsamayı sunar. 20GB indirimli $12.79.
+- **⚠️ Hatırlatma**: Çevrimdışı haritaları önceden indirin; derin Yaylalar'da sinyal olmayabilir.
 
-### Holafly Ne Zaman Mantıklı — ve Ne Zaman Değil
+### Londra İş Seyahati (3-7 gün)
 
-**Holafly'yi seçin:**
-- Seyahatiniz **kısa (≤5 gün)** ve veri yoğunsa—sabit fiyat rekabetçidir ve kısıtlama olmaması gerçekten kullanışlıdır
-- Her gün **saatlerce video akışı veya dizüstü bilgisayarınızı hotspot olarak kullanacaksanız**—Airalo'nun 3 GB kotasını aşarsınız
-- Tatilde **veri sayacını izlemeyi reddediyorsanız**
+- **Günlük kullanım**: 1-2GB (e-posta + videokonferans)
+- **Öneri**: Roami 5-10GB
+- **Neden**: Mağaza bulmadan varışta çalışır; videokonferanslar için kararlı ağ gerekir; çoklu ağ geçişi daha güvenilirdir.
+- **⚠️ Hatırlatma**: Önemli görüşmeler için otel/ofis WiFi'ını yedek olarak kullanın.
 
-**Holafly'den kaçının:**
-- Seyahatiniz **10+ gün** sürüyorsa — Airalo'nun sınırsızı önemli ölçüde daha ucuz hale gelir
-- Tipik gününüz Citymapper, mesajlaşma ve hafif sosyal medya ise—3 GB kotasına asla ulaşmazsınız, bu nedenle kullanmayacağınız özgürlük için ödeme yaparsınız
-- Seyahatiniz anakara Avrupa'yı kapsıyorsa — Holafly'nin UK planı yalnızca UK içindir
-- Ucuz bir sabit GB planı istiyorsanız — Holafly satmaz
+### Aile Tatili (5-10 gün)
 
-> **Gerçek kullanıcı raporu (Trustpilot, UK eSIM incelemeleri, Temmuz 2026):** "Holafly 4 günlük Londra seyahatim için harika çalıştı. Kısıtlama yok, hızlı hızlar, basit kurulum. Ancak 2 haftalık UK+Avrupa seyahatim için ayrı bir Avrupa planı satın almak zorunda kaldım—bu da ekstra maliyet getirdi. Bir dahaki sefere AB dolaşımı için Roami kullanacağım."
+- **Günlük kullanım**: 2-3GB (birden fazla kullanıcı + tabletler)
+- **Öneri**: Roami 10-20GB + sınırsız hotspot
+- **Neden**: Roami'nin hotspot'unda kısıtlama yoktur – tüm aileyle tek bir eSIM paylaşın, ayrı kart satın almaktan daha ucuzdur.
+- **⚠️ Hatırlatma**: Birden fazla kullanıcıyla paylaşıyorsanız Holafly'den (1GB/gün hotspot sınırı) kaçının.
 
-**İndirim notu:** Holafly ara sıra promosyon kodları sunar—uygulamalarını kontrol edin. Garantili bir indirim için Roami'nin `web20` kodu %20 indirim sunar.
+### En Sıkı Bütçe (3-5 gün)
 
----
+- **Günlük kullanım**: <1GB (navigasyon + mesaj)
+- **Öneri**: Roami 1GB/7 gün
+- **Neden**: İndirimli $2.39, genel olarak en düşük fiyat – 20 saat Google Maps + yoğun WhatsApp mesajlaşması için yeterlidir.
+- **⚠️ Hatırlatma**: Video izlemeyin; 1GB yalnızca yaklaşık 1 saat kısa video içindir.
 
-## Roami UK eSIM İncelemesi: Otomatik Geçiş + AB Dolaşımı ile En Ucuz Planlar
+## Brexit Dolaşım Özel Bölümü
 
-Roami temelde farklı bir yaklaşım benimser: **daha ucuz sabit ve sınırsız planlar, ağ otomatik geçişi, AB dolaşımı dahil ve 7/24 destek**. Dezavantajı: yalnızca veri (UK telefon numarası yok).
+Bu konu, İngiltere'yi diğer Avrupa ülkelerinden ayırır, detaylı bir açıklamaya değer.
 
-### Roami vs Airalo UK: Sabit Veri Planı Karşılaştırması
+### Brexit'ten Sonra Ne Oldu?
 
-| Geçerlilik | Veri | Airalo | Roami | Tasarruf | `web20` ile Roami |
-| :------: | :--: | :-----------: | :------------: | :-----: | :-------------------------: |
-| 3 gün  | 1 GB  | $4.00  | $1.99  | −%50 | **$1.59** |
-| 3 gün  | 3 GB  | $8.50  | $3.99  | −%53 | **$3.19** |
-| 7 gün  | 3 GB  | $9.00  | $4.99  | −%45 | **$3.99** |
-| 7 gün  | 5 GB  | $12.00 | $6.99  | −%42 | **$5.59** |
-| 7 gün  | 10 GB | $18.00 | $9.99  | −%44 | **$7.99** |
-| 15 gün | 5 GB  | $12.50 | $7.99  | −%36 | **$6.39** |
-| 15 gün | 10 GB | $18.50 | $12.99 | −%30 | **$10.39** |
-| 15 gün | 20 GB | $30.00 | $17.99 | −%40 | **$14.39** |
-| 30 gün | 5 GB  | $13.00 | $9.99  | −%23 | **$7.99** |
-| 30 gün | 10 GB | $19.00 | $14.99 | −%21 | **$11.99** |
-| 30 gün | 20 GB | $31.00 | $18.99 | −%39 | **$15.19** |
-| 30 gün | 50 GB | $39.00 | $37.99 | −%3  | **$30.39** |
+İngiltere resmi olarak 2020'de AB'den ayrıldı ve AB'nin "Kendi Evindeymiş Gibi Dolaşım" politikası artık İngiltere için otomatik olarak geçerli değil. 2022'den itibaren:
 
-### Airalo vs Holafly vs Roami: Sınırsız Plan Fiyat Karşılaştırması
+- **İngiltere operatörleri** (EE, Vodafone, Three) AB için dolaşım ücretlerini yeniden uyguladı (O2 kısmen ücretsiz hakları saklı tutar).
+- **AB operatörleri** (Orange, Vodafone AB sürümü, vb.) çoğunlukla İngiltere için dolaşım ücretlerini yeniden uyguladı.
 
-| Süre | Airalo | Holafly | Roami | En Ucuz |
-| :------: | :-----------: | :----------------: | :------------: | :------- |
-| **3 gün**  | $11.50 | $11.70 | **$8.99** | Roami |
-| **7 gün**  | $27.00 | $27.30 | **$18.99** | Roami |
-| **15 gün** | $48.00 | $58.50 | **$36.99** | Roami |
-| **30 gün** | $69.00 | $117.00 | **$41.99** | Roami |
+Bu şu anlama gelir: **AB'de bir kart satın alırsanız veya İngiltere ile AB arasında seyahat ederseniz, mobil kartınız İngiltere'deyken size günlük veya MB başına dolaşım ücreti talep edebilir.**
 
-Roami her sınırsız sürede en ucuzdur. 30 günde Airalo'dan **27,01 $**, Holafly'den ise **75,01 $** daha ucuzdur.
+### Seyahat eSIM'leri Bunlardan Nasıl Kaçınır?
 
-### Roami'nin Otomatik Geçişi UK Seyahati İçin Neden Oyun Değiştiricidir?
+Bir [İngiltere eSIM](/united-kingdom-esim/) doğrudan İngiltere yerel ağına (EE/O2/Vodafone/Three) bağlanır ve **AB operatörünüzü tamamen bypass eder**, böylece "AB kartının İngiltere'de dolaşımı" geçerli olmaz. Kalkıştan önce kurun ve varışta eSIM'e geçin – bu ücretlerden en baştan kaçının.
 
-Airalo'nun aksine (EE, Vodafone veya O2'de sabitlenir), Roami'nin eSIM'i **EE, Vodafone ve O2 arasında mevcut en güçlü ağa otomatik olarak bağlanır**:
+### Üç Seçeneğin Dolaşım Maliyet Karşılaştırması
 
-- **Londra'da:** En hızlı 5G ağı (genellikle EE)
-- **Yaylalar'da:** EE (kırsal İskoçya'da düzgün kapsamaya sahip tek operatör)
-- **Otoyollarda:** O bölüm için en iyi kapsamaya sahip operatör
+| Seçenek | AB Kartını İngiltere'de Kullanma | Maliyet | Kolaylık |
+|------|---------------|------|--------|
+| AB kartı dolaşımı | Günlük €2-3 ücret alabilir | Orta-Yüksek | Doğrudan kullan, ama pahalı |
+| İngiltere yerel SIM | Dolaşım ücreti yok | Düşük | Satın alıp aktive etmek gerekir |
+| **İngiltere seyahat eSIM** | **Dolaşım ücreti yok** | Orta (indirimli daha düşük) | Varışta çalışır |
 
-### Roami'nin Öldürücü Özelliği: UK Planı AB Dolaşımını İçerir
+> **Önemli Sonuç**: AB'den geliyorsanız veya İngiltere, "çok ülkeli Avrupa seyahatinizin" bir durağıysa, İngiltere eSIM'i Brexit dolaşım ücretlerinden kaçınmanın en kolay yoludur.
 
-Seyahatiniz Avrupa'ya devam ediyorsa, Roami'nin UK eSIM'i **ayrı bir plan satın almadan AB'de sorunsuz çalışır**. Airalo ve Holafly ayrı bir Avrupa eSIM'i gerektirir.
+## İngiltere eSIM vs Yerel SIM (giffgaff) vs Dolaşım
 
-**AB dolaşımının ekonomisi:**
-- Airalo'nun ayrı Avrupa planı (10 GB/30 gün): ~$37,00
-- Holafly'nin ayrı Avrupa planı (10 gün): ~$39,00
-- Roami'nin AB dolaşımı dahil UK planı: $14,99 (15 gün) veya $18,99 (30 gün)
-- **Bir UK+Avrupa seyahati için Roami, iki ayrı plan satın almaya kıyasla 20-50 dolar tasarruf ettirir.**
+| Boyut | Seyahat eSIM | İngiltere Yerel SIM (giffgaff vb.) | Uluslararası Dolaşım |
+|------|----------|---------------------------|---------|
+| Kurulum süreci | Kalkıştan önce kur | Havaalanı/mağazadan satın al + aktive et | Kurulum gerekmez |
+| Varışta çalışır | ✅ | ❌ Takma/aktivasyon gerekir | ✅ |
+| Çoklu ağ geçişi | ✅ (Roami) | ❌ Tek ağ | ❌ Tek ağ |
+| Fiyat | Orta (indirimli daha düşük) | Düşük | Yüksek |
+| İngiltere telefon numarası | ❌ | ✅ | ❌ |
+| En iyi olduğu alan | Kısa süreli turistler, çok ülkeli geziler | Uzun süreli konaklamalar, İngiltere numarası ihtiyacı | Acil durum |
 
-👉 **Roami'nin Birleşik Krallık ön ödemeli veri seçeneklerini inceleyin ve %20 indirim için `web20` kodunu kullanın.**
+**Kısacası**: Kısa süreli + varışta çalışır + çoklu ağ → seyahat eSIM; uzun süreli konaklama + İngiltere numarası ihtiyacı → yerel SIM (giffgaff çok ucuzdur); hiç zahmet istemiyorsanız → dolaşımı seçmeyin.
 
----
+## İngiltere eSIM'inizi Kurma ve Etkinleştirme
 
-## Airalo vs Holafly vs Roami: Hangi UK eSIM Sizin İçin En İyisi?
+1. **Kalkıştan önce WiFi ile kurun**: Satın aldıktan sonra bir QR kodu alacaksınız. Kalkıştan önce Ayarlar → Hücresel/Mobil Ağ → eSIM Ekle'ye giderek QR kodunu tarayın.
+2. **Varışta "Veri Dolaşımı"nı açın**: Bu, en yaygın aktivasyon başarısızlık nedenidir. İndikten sonra etkinleştirin, telefonunuz otomatik olarak EE/O2/Vodafone/Three'den birine bağlanacaktır.
+3. **Veri kartını seçin**: Seyahat eSIM'ini birincil "Hücresel Veri" hattı olarak ayarlayın.
+4. **Ev kartınız için veri dolaşımını kapatın**: Yüksek dolaşım ücretlerinden kaçının (özellikle AB kartları için).
+5. **Metroya girmeden önce haritaları yükleyin**: Londra Metrosu'nun derin tünellerinde sinyal yoktur; inmadan önce navigasyon ve haritaları önceden yükleyin.
 
-| Sağlayıcı | En İyi Olduğu Durum | Ana Avantaj | Ana Dezavantaj |
-| :------- | :------- | :------------ | :--------------- |
-| **Airalo** | Güvenilir küresel marka isteyen gezginler | En geniş plan yelpazesi, en büyük kullanıcı tabanı | Yalnızca UK (AB dolaşımı yok), otomatik geçiş yok, rastgele ağ ataması, en pahalı sınırsız |
-| **Holafly** | Kısa (≤5 gün), yoğun verili seyahatler | Günlük hız kısıtlaması yok, basit fiyatlandırma | Yalnızca UK (AB dolaşımı yok), 10 günün ötesinde pahalı, sabit GB seçeneği yok |
-| **Roami** | Bütçe bilincine sahip gezginler, UK+Avrupa seyahatleri, kırsal UK | En ucuz planlar, 3 operatör arasında otomatik geçiş, AB dolaşımı dahil, %20 indirim | Yalnızca veri (UK telefon numarası yok) |
+> **Ağa bağlanamıyor musunuz? Bu adımları deneyin:**
+>
+> 1. "Veri Dolaşımı"nın etkin olduğunu onaylayın; 2. Telefonunuzu yeniden başlatın; 3. "Ağ Seçimi"nde EE, O2, Vodafone veya Three'yi manuel olarak seçin; 4. APN'nin eSIM talimatlarında belirtilen değerle eşleştiğini kontrol edin; 5. Hala çalışmıyorsa, markanın müşteri desteğiyle iletişime geçin.
 
----
+## Telefonunuz Çalışacak mı? İngiltere Uyumluluğu
 
-## Veri, Para ve Baş Ağrısından Tasarruf Sağlayan UK Seyahat İpuçları
+- **Uluslararası telefonlar (Avrupa/ABD'de satın alınan)**: Çoğu eSIM'i destekler ve doğrudan kullanılabilir.
+- **Çin iPhone'ları / Çin Androidd'leri**: Çin iPhone'ları (XS ve sonrası) eSIM'i destekler, ancak bazı Çin Android modellerinde eSIM devre dışıdır – satın almadan önce modelinizi kontrol edin.
+- **Operatör kilitli telefonlar**: İngiltere operatör kilitli telefonlar eSIM'i de kilitleyebilir; satın almadan önce kilidini açtırın.
+- **Yalnızca eSIM modelleri** (ABD iPhone 14+): Fiziksel SIM yuvası yoktur, aslında eSIM için en uygun olanlardır.
+- **Çift SIM çift bekleme**: Hem ev kartınızı hem de İngiltere eSIM'ini aynı anda tutabilirsiniz – biri doğrulama kodları için, diğeri veri için.
 
-1. **Acil durum:** **999**'u arayın (polis, ambulans, itfaiye). **112** de çalışır.
+## İngiltere eSIM SSS: Tam Cevaplar
 
-2. **Temassız her yerde** — telefonunuzun ödemeleri yetkilendirmek için veriye ihtiyacı vardır. Küçük bağımsız dükkânlar ve pazarlar için yanınızda birkaç pound nakit bulundurun.
+**S1: İngiltere eSIM'i pasaport veya kayıt gerektirir mi?**
 
-3. **Londra Metrosu** — giriş turnikelerinde telefonunuzu veya temassız kartınızı okutun. Tüm seyahat boyunca aynı kartı kullanarak günlük fiyat tavanından yararlanın.
+Hayır. İngiltere zorunlu SIM kaydı gerektirmez ve seyahat eSIM'leri yurtdışında verilir ve varışta çalışır – kayıt gerekmez. Tek ihtiyacınız olan eSIM uyumlu bir telefon ve kalkıştan önce QR kodunu taramak.
 
-4. **Oyster kart veya temassız** — temassız, kağıt biletlerden daha ucuzdur ve günlük harcamayı tavanlar.
+**S2: Brexit sonrası AB kartım İngiltere'de dolaşım ücreti alır mı?**
 
-5. **Soldan gidin** — araç kiralıyorsanız, navigasyon için veri ayırın. Kırsal alanlara girmeden önce çevrimdışı haritaları indirin.
+Büyük olasılıkla evet. 2022'den itibaren İngiltere ve AB operatörleri kademeli olarak dolaşım ücretlerini yeniden uyguladı (günlük €2-3 veya MB başına). Yerel olarak bağlanan bir İngiltere eSIM'i kullanmak bu ücretlerden kaçınır; yukarıdaki Brexit dolaşım bölümüne bakın.
 
-6. **Fişler G Tipi, 230V** — bir adaptör getirin (ABD fişleri uymaz).
+**S3: Hangi İngiltere operatörü en iyi kapsamaya sahiptir?**
 
-7. **Bahşiş mütevazıdır** — genellikle %10–12,5 servis ücreti dahildir. Dahil değilse, iyi hizmet için %10 standarttır.
+EE en geniş kapsama ve en hızlı 5G'ye sahiptir (en iyi şehir deneyimi), O2 ise en iyi kırsal ve iç mekan nüfuziyetine sahiptir. İkisinin de en iyisini almak için çoklu ağ otomatik geçişli bir eSIM (Roami gibi) seçin.
 
-8. **Yaylalar, Lake District ve Snowdonia için çevrimdışı haritalar indirin** — kasabaların dışında sinyal hızla düşer.
+**S4: Londra Metrosu'nda sinyal var mı?**
 
-9. **Pub kültürü** — barda sipariş verin, ödedikçe gidin. Çoğu pubda masa servisi yoktur.
+Kısmen. Merkezi bölümler ve Elizabeth Hattı, 2024'ten itibaren kademeli olarak 4G/5G'ye kavuştu, ancak derin tünellerin çoğunda hala sinyal yok; istasyon WiFi'ı ücretsizdir. Girmeden önce navigasyonu önceden yükleyin.
 
----
+**S5: İskoç Yaylaları'nda eSIM sinyali iyi mi?**
 
-## UK eSIM SSS: Hız Kısıtlama, AB Dolaşımı ve Kırsal Kapsama
+Ortalamadır. Yaylalar ve Göller Bölgesi'nde birçok kapsama boşluğu vardır ve O2/Vodafone en iyi performansı gösterir. En güçlü sinyali otomatik olarak almak için çoklu ağ geçişli bir eSIM seçin, ancak yine de uzak bölgeler için çevrimdışı haritalar indirin.
 
-**Airalo Birleşik Krallık'ta güvenilir mi?**
-Evet—dünya çapındaki en büyük eSIM sağlayıcılarından biridir (30+ milyon kullanıcı) ve UK hizmeti EE, Vodafone veya O2 üzerinde çalışır ve dört UK ülkesinde kapsama sahiptir.
+**S6: Airalo İngiltere eSIM iyi mi?**
 
-**Airalo'dan bir UK eSIM ne kadara mal olur?**
-Planlar **3 gün/1 GB için 4 $**'dan başlar. Popüler 7 gün/5 GB planı 12,00 $'dır ve sınırsız 3 gün için 11,50 $'dan başlar.
+Airalo, dünyanın en büyük eSIM platformudur, İngiltere'de granüler seviyelere, hem sabit hem de sınırsız planlara sahiptir ve EE/O2'ye bağlanarak kararlı şehir performansı sunar. Dezavantajı, sabit seviyelerin nispeten pahalı olmasıdır – Roami'nin eşdeğeri iki katından daha ucuzdur.
 
-**Airalo sınırsız veri UK'de gerçekten hız kısıtlaması yapar mı?**
-Evet. Günlük 3 GB yüksek hızlı veriden sonra, hız bir sonraki günlük sıfırlamaya kadar 1 Mbps'ye düşer.
+**S7: Holafly İngiltere eSIM sınırsızı değer mi?**
 
-**Airalo UK eSIM AB dolaşımını içerir mi?**
-Hayır—Airalo'nun UK planı yalnızca UK içindir. Seyahatiniz anakara Avrupa'ya devam ediyorsa, ayrı bir Avrupa planına ihtiyacınız olacaktır.
+Kullanıma bağlıdır. Holafly İngiltere yalnızca $3.90/gün ile sınırsız sunar. Günde 2 saatten fazla HD video izliyorsanız (3GB/günü aşan), sınırsız mantıklıdır; aksi takdirde Roami'nin sabit seviyeleri veya sınırsızı yarıdan fazla tasarruf sağlayabilir.
 
-**Airalo Birleşik Krallık'ta otomatik olarak ağ değiştirir mi?**
-Hayır. eSIM'iniz EE, Vodafone veya O2'den birine atanır ve bu ağda sabit kalır.
+**S8: Roami İngiltere eSIM iyi değer mi?**
 
-**Holafly UK için iyi bir eSIM mi?**
-Kısa, yoğun verili seyahatler (≤5 gün) için evet—sabit günlük 3,90 $ rekabetçidir ve günlük hız kısıtlaması yoktur. 10 günün ötesinde en pahalı seçenek haline gelir.
+Kesinlikle. Roami İngiltere hem sabit hem de sınırsız seviyeler, çoklu ağ otomatik geçişi ve genel olarak en düşük indirimli fiyatları sunar – 7 gün 10GB $7.99 ile Airalo'dan %56 daha ucuzdur; 30 gün sınırsız $33.59 ile Holafly'den %71 daha ucuzdur.
 
-**Holafly UK eSIM ne kadara mal olur?**
-**Günlük 3,90 $** ile sınırsız veri: 3 gün 11,70 $, 5 gün 19,50 $, 7 gün 27,30 $, 10 gün 39,00 $, 15 gün 58,50 $ ve 30 gün 117,00 $.
+**S9: İngiltere eSIM'i hotspot paylaşabilir mi?**
 
-**Holafly sınırsız veri gerçekten hız kısıtlaması yapar mı?**
-Holafly, Airalo'nun günlük 3 GB kotasının aksine günlük hız kısıtlaması olmadığını pazarlar—ancak aşırı kullanım için bir Adil Kullanım Politikası vardır.
+Markaya göre değişir. Roami sınırsız hotspot paylaşımını destekler; Airalo hotspot'u destekler; Holafly hotspot'u 1GB/gün ile sınırlar. Grup seyahati veya tablet kullanımı için Roami'yi önceliklendirin.
 
-**Holafly UK'de hotspot paylaşımına izin verir mi?**
-Evet—belirli bir günlük limit olmadan tethering.
+**S10: Çin telefonları İngiltere eSIM'i kullanabilir mi?**
 
-**Holafly indirim kodu sunuyor mu?**
-Ara sıra promosyon kodları—uygulamalarını kontrol edin. Garantili bir indirim için Roami'nin `web20`'si %20 indirim sağlar.
+Çin iPhone'ları (XS ve sonrası) eSIM'i destekler ve kullanabilir, ancak bazı Çin Android modellerinde eSIM devre dışıdır – satın almadan önce modelinizi kontrol edin. Uluslararası telefonlar genellikle çalışır.
 
-**UK için Airalo, Holafly ve Roami arasındaki fark nedir?**
-- **Airalo:** En geniş plan çeşitliliği, güvenilir marka, ancak yalnızca UK, otomatik geçiş yok.
-- **Holafly:** Günlük hız kısıtlaması yok, basit fiyatlandırma, ancak yalnızca UK, 10 günün ötesinde pahalı.
-- **Roami:** En ucuz planlar, üç operatör arasında otomatik geçiş, **AB dolaşımı dahil**, `web20` ile %20 indirim.
+**S11: İngiltere eSIM'i İrlanda/AB'de kullanılabilir mi?**
 
-**Bu eSIM'lerle UK telefon numarası alabilir miyim?**
-Hayır—üçü de yalnızca veridir. Bir UK numarasına ihtiyacınız varsa, Giffgaff, Lyca veya UK merkezli bir sağlayıcıdan yerel bir SIM düşünün.
+Genellikle hayır. İngiltere eSIM'leri genellikle yalnızca İngiltere anakarasını kapsar; Kuzey İrlanda dahildir, ancak İrlanda Cumhuriyeti ve diğer AB ülkeleri ayrı bir bölgesel eSIM gerektirir. Brexit sonrası İngiltere artık AB dolaşım bölgesinde değildir – gitmeden önce kapsamayı kontrol edin.
 
----
+**S12: İngiltere yerel SIM (giffgaff) vs eSIM – hangisi daha iyi?**
 
-## Nihai Karar: Hangi UK eSIM'i Satın Almalısınız?
+İhtiyaçlarınıza bağlıdır. giffgaff ucuzdur (~£10'a 20GB) ancak yerinde satın almayı/aktive etmeyi gerektirir, tek ağ, çoklu ağ geçişi yoktur. eSIM varışta çalışır, otomatik ağ geçişi yapar, kalkıştan önce kurulur. Kısa süreli turistler eSIM'i kolaylık için tercih eder; uzun süreli konaklamalar yerel SIM'i tasarruf için tercih eder.
 
-| Seyahat Profiliniz | En İyi Seçenek | Neden |
-| :---------------- | :---------- | :------ |
-| **3–5 gün, yalnızca Londra, yalnız** | Roami 3 GB ($3.99 → **$3.19**) | En ucuz giriş; şehir Wi-Fi'si tamamlar |
-| **Bir hafta, Londra + günlük geziler** | **Roami 5 GB ($6.99 → $5.59)** | GB başına en iyi değer |
-| **Kısa yoğun seyahat (1–5 gün), tüm gün akış** | **Holafly (kısıtlama yok)** | Günlük 3,90 $, günlük kota yok—10 günü geçmeyin |
-| **İki hafta, yalnızca UK (İskoçya dahil)** | Roami 10 GB ($12.99 → **$10.39**) | Kırsal kapsama için EE'ye otomatik geçiş |
-| **İki hafta, UK + Avrupa (Londra + Paris)** | **Roami** | AB dolaşımı dahil tek plan |
-| **Bir ay, UK + Avrupa** | Roami 20 GB ($18.99 → **$15.19**) veya 50 GB ($37.99 → **$30.39**) | Genel olarak en ucuz; AB dolaşımı dahil |
-| **İskoç Yaylaları / Lake District / Cornwall** | **Roami** | En iyi kırsal kapsama için EE'ye otomatik geçiş |
-| **UK telefon numarası gerekiyor** | Yerel bir UK eSIM sağlayıcısını düşünün | Üçü de yalnızca veridir |
+**S13: İngiltere eSIM'i günlük ne kadara mal olur?**
 
-### UK eSIM için Basit Kurallar
+Roami indirimli fiyatlarını kullanarak: 7 gün 10GB ~$1.14/gün, 15 gün 20GB ~$0.96/gün, 30 gün 50GB ~$1.01/gün. Bu, Holafly'nin $3.90/gün'ünün üçte ikisinden fazla daha ucuzdur.
 
-| Durumunuz | Öneri |
-| :------------- | :-------------- |
-| **Yalnızca UK + şehir** | Roami sabit — en iyi değer |
-| **UK + Avrupa** | **Roami** — AB dolaşımı dahil tek plan |
-| **Kısa (≤5 gün) + yoğun akış** | Holafly — kota yok, sabit günlük fiyat |
-| **Kırsal UK (Yaylalar, Göller, Cornwall)** | **Roami** — EE'ye otomatik geçiş şarttır |
-| **Bir aylık seyahat** | Roami 50 GB — sınırsızdan daha ucuz |
+**S14: 1GB İngiltere'de ne kadar dayanır?**
 
----
+Yaklaşık 20 saat Google Maps navigasyonu + yoğun WhatsApp mesajlaşması, ancak yalnızca yaklaşık 1 saat kısa video. Minimum kullanıcılar (navigasyon + mesaj) 1GB'ı 3-5 gün uzatabilir; video izleyenler 10GB ile başlamalıdır.
 
-**Son hatırlatma:** eSIM'inizi **uçmadan önce** kurun. Roami'yi seçerseniz, ödeme sırasında **`web20`** girin. Seyahatiniz Avrupa'yı kapsıyorsa, Roami'nin AB dolaşımı dahil olması önemli bir tasarruftur.
+**S15: İngiltere eSIM'imde sinyal yoksa ne yapmalıyım?**
 
-👉 **Roami'nin [UK ön ödemeli eSIM seçeneklerine](/united-kingdom-esim/) göz atın ve `web20` ile %20 tasarruf edin** · Cihaz uyumluluğundan emin değil misiniz? **[Ücretsiz deneme ile başlayın](/free-esim/)**.
+Önce "Veri Dolaşımı"nın etkin olup olmadığını kontrol edin; telefonu yeniden başlatın; "Ağ Seçimi"ne gidin ve EE, O2, Vodafone veya Three'yi manuel olarak seçin. Derin Metro tünelleri ve uzak Yaylalar'da sinyal olmayabilir – yedek olarak çevrimdışı haritalar indirin.
+
+**S16: İngiltere eSIM'i telefon görüşmesi yapabilir mi?**
+
+Seyahat eSIM'leri yalnızca veridir, İngiltere telefon numarası yoktur, bu nedenle geleneksel aramalar yoktur. Veri tabanlı aramalar için WhatsApp, FaceTime vb. kullanın. Geri aramalar için yerel bir numaraya ihtiyacınız varsa, bir VoIP çözümüyle eşleştirin.
+
+**S17: Kısa bir Londra gezisi için ne kadar veri gerekir?**
+
+3-5 gün boyunca navigasyon, Metro güzergah kontrolü ve sosyal medya için 3-5GB yeterlidir. Roami 7 gün 5GB indirimli $5.59 en iyi değerdir – sınırsızın yarısı fiyatına.
+
+## Karar Matrisi: Hangi İngiltere eSIM'i Satın Alınmalı
+
+| Senaryo | Önerilen Marka | Önerilen Plan | Maliyet (İndirimli) | Temel Neden |
+|------|---------|---------|-------------|---------|
+| Londra 3 günlük hafta sonu | Roami | 3GB/3 gün | $3.19 | Varışta çalışır + çoklu ağ, Airalo'dan %62 daha ucuz |
+| Londra 5 günlük şehir gezisi | Roami | 5GB/7 gün | $5.59 | Şehir EE 5G kararlı, en ucuz sabit seviye |
+| Edinburgh 4 günlük kısa gezi | Roami | 5GB/7 gün | $5.59 | Çoklu ağ geçişi, turistik yerlerde daha kararlı |
+| Göller Bölgesi 6 günlük yol gezisi | Roami | 10GB/7 gün | $7.99 | Daha iyi kırsal kapsama için O2/Vodafone'a geçer |
+| Yaylalar 8 günlük yol gezisi | Roami | 20GB/7 gün | $12.79 | Kapsama boşlukları; çoklu ağ en güvenilir |
+| İngiltere-İskoçya 12 günlük derin tur | Roami | 20GB/15 gün | $14.39 | $0.72/GB, şehirlerarası güzergahlarda daha az kapsama boşluğu |
+| İş seyahati 7 gün | Roami | 10GB/7 gün | $7.99 | Varışta çalışır + çoklu ağ güvenilir |
+| Uzun süreli konaklama 30 gün | Roami | 50GB/30 gün | $30.39 | $0.61/GB, piyasadaki en düşük birim fiyat |
+| Yoğun video izleme 7 gün | Roami | Sınırsız/7 gün | $15.19 | Yalnızca günlük kullanım >3GB ise; Holafly'den %44 daha ucuz |
+| En sıkı bütçe 7 gün | Roami | 1GB/7 gün | $2.39 | Genel olarak en düşük fiyat, navigasyon + mesaj için yeterli |
+
+Hala emin değil misiniz? [Tüm Roami İngiltere eSIM planlarını görüntüle →](/united-kingdom-esim/)
+
+## İngiltere eSIM: Kullanışlı İpuçları
+
+- **Kalkıştan önce kurun, varışta kullanın**: Kalkıştan önce WiFi ile kurun; varışta Veri Dolaşımı'nı etkinleştirin ve anında bağlanın – ilk dakika içinde Uber çağırın.
+- **"Veri Dolaşımı"nı açmayı unutmayın**: En yaygın aktivasyon hatası – birçok kullanıcı bu anahtarı unutur.
+- **Metroya girmeden önce haritaları yükleyin**: Derin Metro tünellerinde sinyal yoktur; navigasyon/haritaları önceden yükleyin veya istasyon WiFi'ı kullanın.
+- **Highland yol gezilerinden önce çevrimdışı haritalar indirin**: İskoç Yaylaları ve Göller Bölgesi'nde sinyal olmayabilir; navigasyon için yalnızca veriye güvenmeyin.
+- **AB'den geliyorsanız, ev kartınız için veri dolaşımını kapatın**: Brexit dolaşım ücretlerinden kaçının.
+- **Zayıf sinyal için manuel ağ seçimi**: Otomatik bağlantı başarısız olursa, ağ ayarlarında EE, O2, Vodafone veya Three'yi manuel olarak seçin.
+- **Hotspot paylaşımı için doğru markayı seçin**: Aile/grup seyahati için Roami (sınırsız) veya Airalo (desteklenir) seçin; Holafly'den (1GB/gün sınırı) kaçının.
+- **QR kodunuzun ekran görüntüsünü kaydedin**: E-postayı kaybedip yeniden yüklemeniz gerekirse diye fotoğraf kitaplığınıza veya bulut depolamanıza bir kopya saklayın.
+
+## Verilerimizi Nereden Alıyoruz
+
+| Kuruluş | Amaç | Link |
+|------|------|------|
+| Ofcom | İngiltere telekom düzenlemesi / dolaşım politikası | https://www.ofcom.org.uk/ |
+| Opensignal | İngiltere 5G kapsaması / mobil deneyim | https://www.opensignal.com/ |
+| Ookla Speedtest | İngiltere mobil ağ hızı | https://www.speedtest.net/global-index/united-kingdom |
+| GSMA | eSIM endüstri standartları | https://www.gsma.com/ |
+
+*Fiyat verileri Eylül 2026 itibarıyladır; gerçek zamanlı güncellemeler için her markanın resmi web sitesine bakın. Bu makale yalnızca bilgilendirme amaçlıdır ve satın alma tavsiyesi teşkil etmez.*
