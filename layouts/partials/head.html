@@ -80,14 +80,15 @@
 <!-- 🌟 性能优化：预连接 Google 字体，加速加载 -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<!-- [Arabic RTL] 新增：引入阿拉伯字体 Tajawal（Inter 不支持阿拉伯文） -->
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">
 
 <!-- 🌟 性能优化：引入预编译的 Tailwind CSS 文件 -->
 <!-- 请确保在 Hugo 中配置了 Tailwind 编译，或者手动编译后放在 static/css/ 目录下 --> 
 <link href="/css/tailwind-compiled.css" rel="stylesheet">
 <!-- 自定义样式 -->
 <style>
-    body { font-family: 'Inter', system-ui, sans-serif; }
+    body { font-family: 'Inter', 'Tajawal', system-ui, sans-serif; }
     .gradient-text {
         background: linear-gradient(90deg, #2563eb 0%, #38bdf8 100%);
         -webkit-background-clip: text;
@@ -151,6 +152,74 @@
     /* DL Tabs */
     .dl-tab-content.hidden, .dl-tab-content2.hidden { display: none; }
     .dl-tab-content.active, .dl-tab-content2.active { display: block; animation: fadeUp .3s ease; }
+
+    /* ==================================================================
+       [Arabic RTL] 全局 RTL 覆盖层（一处定义，21 个布局全部生效）
+       - 覆盖项目实际用到的 Tailwind 物理方向类，镜像到从右到左
+       - 优先级高于各布局内联的 body 规则（属性选择器特异性更高）
+       ================================================================== */
+    [dir="rtl"] body { text-align: right; font-family: 'Tajawal', 'Inter', system-ui, sans-serif; }
+    [dir="rtl"] .text-left  { text-align: right; }
+    [dir="rtl"] .text-right { text-align: left; }
+
+    /* margin 镜像 */
+    [dir="rtl"] .ml-1   { margin-left: 0; margin-right: .25rem; }
+    [dir="rtl"] .ml-1\.5 { margin-left: 0; margin-right: .375rem; }
+    [dir="rtl"] .ml-2   { margin-left: 0; margin-right: .5rem; }
+    [dir="rtl"] .ml-3   { margin-left: 0; margin-right: .75rem; }
+    [dir="rtl"] .ml-4   { margin-left: 0; margin-right: 1rem; }
+    [dir="rtl"] .ml-5   { margin-left: 0; margin-right: 1.25rem; }
+    [dir="rtl"] .ml-6   { margin-left: 0; margin-right: 1.5rem; }
+    [dir="rtl"] .ml-12  { margin-left: 0; margin-right: 3rem; }
+    [dir="rtl"] .mr-1   { margin-right: 0; margin-left: .25rem; }
+    [dir="rtl"] .mr-1\.5 { margin-right: 0; margin-left: .375rem; }
+    [dir="rtl"] .mr-2   { margin-right: 0; margin-left: .5rem; }
+    [dir="rtl"] .mr-4   { margin-right: 0; margin-left: 1rem; }
+    [dir="rtl"] .mr-6   { margin-right: 0; margin-left: 1.5rem; }
+    [dir="rtl"] .mr-10  { margin-right: 0; margin-left: 2.5rem; }
+
+    /* padding 镜像 */
+    [dir="rtl"] .pl-3  { padding-left: 0; padding-right: .75rem; }
+    [dir="rtl"] .pl-4  { padding-left: 0; padding-right: 1rem; }
+    [dir="rtl"] .pl-6  { padding-left: 0; padding-right: 1.5rem; }
+    [dir="rtl"] .pl-10 { padding-left: 0; padding-right: 2.5rem; }
+    [dir="rtl"] .pl-12 { padding-left: 0; padding-right: 3rem; }
+    [dir="rtl"] .pr-2  { padding-right: 0; padding-left: .5rem; }
+    [dir="rtl"] .pr-4  { padding-right: 0; padding-left: 1rem; }
+
+    /* 绝对定位镜像 */
+    [dir="rtl"] .left-0  { left: auto; right: 0; }
+    [dir="rtl"] .left-1  { left: auto; right: .25rem; }
+    [dir="rtl"] .left-4  { left: auto; right: 1rem; }
+    [dir="rtl"] .left-6  { left: auto; right: 1.5rem; }
+    [dir="rtl"] .left-10 { left: auto; right: 2.5rem; }
+    [dir="rtl"] .right-0  { right: auto; left: 0; }
+    [dir="rtl"] .right-1  { right: auto; left: .25rem; }
+    [dir="rtl"] .right-2  { right: auto; left: .5rem; }
+    [dir="rtl"] .right-4  { right: auto; left: 1rem; }
+    [dir="rtl"] .right-6  { right: auto; left: 1.5rem; }
+    [dir="rtl"] .right-10 { right: auto; left: 2.5rem; }
+
+    /* 横向间距（space-x）镜像 */
+    [dir="rtl"] .space-x-1 > :not([hidden]) ~ :not([hidden]) { margin-left: 0; margin-right: .25rem; }
+    [dir="rtl"] .space-x-2 > :not([hidden]) ~ :not([hidden]) { margin-left: 0; margin-right: .5rem; }
+    [dir="rtl"] .space-x-4 > :not([hidden]) ~ :not([hidden]) { margin-left: 0; margin-right: 1rem; }
+
+    /* 边框 / 圆角方向镜像 */
+    [dir="rtl"] .border-l  { border-left: none; border-right: 1px solid #e2e8f0; }
+    [dir="rtl"] .border-r  { border-right: none; border-left: 1px solid #e2e8f0; }
+    [dir="rtl"] .rounded-l  { border-radius: 0 .375rem .375rem 0; }
+    [dir="rtl"] .rounded-r  { border-radius: .375rem 0 0 .375rem; }
+
+    /* flex 方向镜像 */
+    [dir="rtl"] .flex-row { flex-direction: row-reverse; }
+
+    /* [Arabic RTL] footer 底部 banner：图标镜像到右侧 */
+    [dir="rtl"] .banner-inner { flex-direction: row-reverse; }
+    [dir="rtl"] .banner-left  { flex-direction: row-reverse; }
+
+    /* [Arabic RTL] 面包屑箭头镜像（chevron-right → 朝左） */
+    [dir="rtl"] [data-lucide="chevron-right"] { transform: scaleX(-1); }
 </style>
 
 <!-- 🌟 5. 组织结构化数据与首页专属数据 -->

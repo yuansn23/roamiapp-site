@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.Language.Lang }}" class="scroll-smooth">
+<!-- [Arabic RTL] lang 统一 .Language.Lang + dir 由 languageDirection 控制（阿语自动 rtl） -->
+<html lang="{{ .Language.Lang }}" {{ if eq .Site.Language.LanguageDirection "rtl" }}dir="rtl"{{ end }} class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">

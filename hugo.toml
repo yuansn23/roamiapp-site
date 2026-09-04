@@ -719,3 +719,61 @@ weight = 11
     modal_title = "Pemberitahuan"
     modal_cancel = "Batal"
     modal_confirm = "Buka sekarang"
+	
+# 阿拉伯语配置
+[languages.ar]
+languageName = "العربية"
+contentDir = "content/ar"
+# [Arabic RTL] 新增：languageCode 让 <html lang> 输出 "ar"；languageDirection 让 Hugo 原生识别 RTL
+languageCode = "ar"
+languageDirection = "rtl"
+weight = 12
+
+[languages.ar.params]
+# 导航栏文案
+nav_links = [
+  { name = "الرئيسية", url = "/" },
+  { name = "شراء eSIM", url = "/plans/" },
+  { name = "توافق eSIM", url = "/compatibility/" },
+  { name = "eSIM مجانية", url = "/free-esim/" },
+  { name = "تطبيق Roami", url = "/app/" },
+  { name = "الأسئلة الشائعة", url = "/faq/" }
+]
+
+# 页脚文案
+footer_desc = "نقدم خدمات eSIM متميزة في أكثر من 200 دولة ومنطقة، لتبقى متصلاً أينما تسافر."
+
+footer_col1_title = "أفضل الوجهات"
+footer_col1_links = [
+  { name = "eSIM آسيا", url = "/asia-esim/" },
+  { name = "eSIM أوروبا", url = "/europe-esim/" },
+  { name = "eSIM أفريقيا", url = "/africa-esim/" },
+  { name = "eSIM أمريكا الجنوبية", url = "/south-america-esim/" },
+  { name = "eSIM أمريكا الشمالية", url = "/north-america-esim/" },
+  { name = "eSIM الشرق الأوسط", url = "/middle-east-esim/" }
+]
+
+footer_col2_title = "دعم العملاء"
+footer_col2_links = [
+  { name = "الأسئلة الشائعة", url = "/faq/" },
+  { name = "توافق eSIM", url = "/compatibility/" },
+  { name = "تنزيل Roami", url = "/app/" }
+]
+
+footer_col3_title = "معلومات الشركة"
+footer_col3_links = [
+  { name = "من نحن", url = "/about-us/" },
+  { name = "eSIM مجانية", url = "/free-esim/" },
+  { name = "سياسة الاسترداد", url = "/refund/" },
+  { name = "اتصل بنا", url = "/contact/" },
+  { name = "سياسة الخصوصية", url = "/privacy/" },
+  { name = "شروط الخدمة", url = "/terms/" }
+]
+
+footer_copyright = "© 2026 Roami. جميع الحقوق محفوظة."
+footer_slogan = "مزود خدمات eSIM عالمي محترف | خبير تجوال بيانات eSIM العالمي"
+
+# 弹窗文案
+modal_title = "تنبيه"
+modal_cancel = "إلغاء"
+modal_confirm = "اذهب الآن"

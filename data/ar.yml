@@ -1,0 +1,83 @@
+related_products:
+  title: "خطط eSIM مشابهة"
+  items:
+    - name: "eSIM الولايات المتحدة الأمريكية"
+      flag: img/flags/us.svg
+      price: "من $1.99"
+      is_highlight: false
+      slug: united-states-esim
+    - name: "eSIM الصين"
+      flag: img/flags/cn.svg
+      price: "من $1.99"
+      is_highlight: false
+      slug: china-esim
+    - name: "eSIM ألمانيا"
+      flag: img/flags/de.svg
+      price: "من $1.99"
+      is_highlight: false
+      slug: germany-esim
+    - name: "eSIM اليابان"
+      flag: img/flags/jp.svg
+      price: "من $1.99"
+      is_highlight: false
+      slug: japan-esim
+    - name: "eSIM المملكة المتحدة"
+      flag: img/flags/gb.svg
+      price: "من $1.99"
+      is_highlight: false
+      slug: united-kingdom-esim
+    - name: "eSIM فرنسا"
+      flag: img/flags/fr.svg
+      price: "من $1.99"
+      is_highlight: false
+      slug: france-esim
+    - name: "eSIM إيطاليا"
+      flag: img/flags/it.svg
+      price: "من $1.99"
+      is_highlight: false
+      slug: italy-esim
+    - name: "eSIM كندا"
+      flag: img/flags/ca.svg
+      price: "من $1.99"
+      is_highlight: false
+      slug: canada-esim
+    - name: "eSIM البرازيل"
+      flag: img/flags/br.svg
+      price: "من $1.99"
+      is_highlight: false
+      slug: brazil-esim
+    - name: "eSIM إسبانيا"
+      flag: img/flags/es.svg
+      price: "من $1.99"
+      is_highlight: false
+      slug: spain-esim
+    - name: "eSIM كوريا الجنوبية"
+      flag: img/flags/kr.svg
+      price: "من $1.99"
+      is_highlight: false
+      slug: south-korea-esim
+    - name: "eSIM أستراليا"
+      flag: img/flags/au.svg
+      price: "من $1.99"
+      is_highlight: false
+      slug: australia-esim
+    - name: "eSIM تركيا"
+      flag: img/flags/tr.svg
+      price: "من $1.99"
+      is_highlight: false
+      slug: turkey-esim
+    - name: "eSIM تايوان"
+      flag: img/flags/tw.svg
+      price: "من $1.99"
+      is_highlight: false
+      slug: taiwan-esim
+    - name: "eSIM الإمارات العربية المتحدة"
+      flag: img/flags/ae.svg
+      price: "من $1.99"
+      is_highlight: false
+      slug: united-arab-emirates-esim
+    - name: "eSIM النمسا"
+      flag: img/flags/at.svg
+      price: "من $1.99"
+      is_highlight: false
+      slug: austria-esim

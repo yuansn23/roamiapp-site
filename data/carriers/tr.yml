@@ -1,0 +1,593 @@
+albania:
+  title: "Arnavutluk eSIM Operatör Rehberi"
+  desc_html: "Arnavutluk'taki başlıca operatörler: Vodafone Albania, One Albania. Hangi sinyal daha iyi? Arama ve internet paylaşımı dahil mi? Detaylı karşılaştırma için tıklayın."
+  btn_text: "Arnavutluk Operatörleri"
+  btn_url: "/carriers/albania-esim-carrier-guide/"
+
+algeria:
+  title: "Cezayir eSIM Operatör Rehberi"
+  desc_html: "Cezayir'deki ana operatörler: Algerie Telecom, Ooredoo, Djezzy. Kim eSIM destekliyor? Fiyatlandırma ve kapsama alanı farklarına hızlı bakış."
+  btn_text: "Cezayir Operatörleri"
+  btn_url: "/carriers/algeria-esim-carrier-guide/"
+
+argentina:
+  title: "Arjantin eSIM Operatör Rehberi"
+  desc_html: "Arjantin'in ilk üç operatörü: Claro, Movistar, Personal. eSIM hizmet karşılaştırması, uluslararası dolaşım için hangisi daha uygun maliyetli? Görüntülemek için tıklayın."
+  btn_text: "Arjantin Operatörleri"
+  btn_url: "/carriers/argentina-esim-carrier-guide/"
+
+australia:
+  title: "Avustralya eSIM Operatör Rehberi"
+  desc_html: "Avustralya'daki yaygın eSIM sağlayıcıları: Telstra, Optus, Vodafone. Kapsama alanı, hız ve plan karşılaştırması ile hızlı karar verin."
+  btn_text: "Avustralya Operatörleri"
+  btn_url: "/carriers/australia-esim-carrier-guide/"
+
+azerbaijan:
+  title: "Azerbaycan eSIM Operatör Rehberi"
+  desc_html: "Azerbaycan'daki büyük operatörler: Azercell, Bakcell, Nar. Hangi eSIM internet paylaşımını destekliyor? Fiyat detayları için içeriye bakın."
+  btn_text: "Azerbaycan Operatörleri"
+  btn_url: "/carriers/azerbaijan-esim-carrier-guide/"
+
+bahrain:
+  title: "Bahreyn eSIM Operatör Rehberi"
+  desc_html: "Bahreyn'deki operatörler: Batelco, STC Bahrain, Zain Bahrain. eSIM özellik karşılaştırma tablosu, bir bakışta öğrenin."
+  btn_text: "Bahreyn Operatörleri"
+  btn_url: "/carriers/bahrain-esim-carrier-guide/"
+
+bangladesh:
+  title: "Bangladeş eSIM Operatör Rehberi"
+  desc_html: "Bangladeş'teki yaygın operatörler: Grameenphone, Robi, Banglalink. Kim eSIM sunuyor? Kapsama alanı ve fiyatları karşılaştırın."
+  btn_text: "Bangladeş Operatörleri"
+  btn_url: "/carriers/bangladesh-esim-carrier-guide/"
+
+belarus:
+  title: "Belarus eSIM Operatör Rehberi"
+  desc_html: "Belarus'taki operatörler: A1, MTS, Life. eSIM desteği ve plan farklılıkları – tam rehber için tıklayın."
+  btn_text: "Belarus Operatörleri"
+  btn_url: "/carriers/belarus-esim-carrier-guide/"
+
+belgium:
+  title: "Belçika eSIM Operatör Rehberi"
+  desc_html: "Belçika'daki başlıca eSIM sağlayıcıları: Proximus, Orange, Base. Ağ kalitesi ve fiyatlandırmayı karşılaştırarak seçiminizi yapın."
+  btn_text: "Belçika Operatörleri"
+  btn_url: "/carriers/belgium-esim-carrier-guide/"
+
+bolivia:
+  title: "Bolivya eSIM Operatör Rehberi"
+  desc_html: "Bolivya'daki operatörler: Entel, Tigo, Viva. eSIM özellik ve kapsama alanı karşılaştırması."
+  btn_text: "Bolivya Operatörleri"
+  btn_url: "/carriers/bolivia-esim-carrier-guide/"
+
+bulgaria:
+  title: "Bulgaristan eSIM Operatör Rehberi"
+  desc_html: "Bulgaristan'daki üç büyük operatör: A1 Bulgaria, Yettel, Vivacom. eSIM planları ve dolaşım politikaları karşılaştırıldı."
+  btn_text: "Bulgaristan Operatörleri"
+  btn_url: "/carriers/bulgaria-esim-carrier-guide/"
+
+cambodia:
+  title: "Kamboçya eSIM Operatör Rehberi"
+  desc_html: "Kamboçya'daki yaygın operatörler: Smart, Metfone, Cellcard. Hangi eSIM en hızlı? Arama dahil mi? Detaylar için bakın."
+  btn_text: "Kamboçya Operatörleri"
+  btn_url: "/carriers/cambodia-esim-carrier-guide/"
+
+canada:
+  title: "Kanada eSIM Operatör Rehberi"
+  desc_html: "Kanada'daki büyük operatörler: Rogers, Bell, Telus. eSIM özelliklerini ve kapsama alanını karşılaştırın, ayrıca bütçe dostu seçenekler."
+  btn_text: "Kanada Operatörleri"
+  btn_url: "/carriers/canada-esim-carrier-guide/"
+
+chile:
+  title: "Şili eSIM Operatör Rehberi"
+  desc_html: "Şili'deki operatörler: Entel, Movistar, Claro. eSIM hizmet karşılaştırması, hangisi daha iyi değer? Görüntülemek için tıklayın."
+  btn_text: "Şili Operatörleri"
+  btn_url: "/carriers/chile-esim-carrier-guide/"
+
+china:
+  title: "Çin eSIM Operatör Rehberi"
+  desc_html: "Çin'in üç büyük operatörünün eSIM hizmetleri: China Mobile, China Unicom, China Telecom. Kapsama alanı, fiyatlandırma ve cihaz desteği karşılaştırması."
+  btn_text: "Çin Operatörleri"
+  btn_url: "/carriers/china-esim-carrier-guide/"
+
+colombia:
+  title: "Kolombiya eSIM Operatör Rehberi"
+  desc_html: "Kolombiya'daki yaygın operatörler: Claro, Movistar, Tigo. eSIM özellik karşılaştırması, hangisi internet paylaşımını destekliyor?"
+  btn_text: "Kolombiya Operatörleri"
+  btn_url: "/carriers/colombia-esim-carrier-guide/"
+
+costa-rica:
+  title: "Kosta Rika eSIM Operatör Rehberi"
+  desc_html: "Kosta Rika'daki büyük operatörler: ICE Kolbi, Claro, Movistar. eSIM planları ve kapsama alanı farkları bir bakışta."
+  btn_text: "Kosta Rika Operatörleri"
+  btn_url: "/carriers/costa-rica-esim-carrier-guide/"
+
+croatia:
+  title: "Hırvatistan eSIM Operatör Rehberi"
+  desc_html: "Hırvatistan'daki operatörler: Hrvatski Telekom, A1 Croatia, Telemach. eSIM desteği ve dolaşım politikaları."
+  btn_text: "Hırvatistan Operatörleri"
+  btn_url: "/carriers/croatia-esim-carrier-guide/"
+
+cyprus:
+  title: "Kıbrıs eSIM Operatör Rehberi"
+  desc_html: "Kıbrıs'taki yaygın operatörler: Cyta, Epic, Primetel. Arama ve internet paylaşımı bilgilerini içeren eSIM özellik karşılaştırması."
+  btn_text: "Kıbrıs Operatörleri"
+  btn_url: "/carriers/cyprus-esim-carrier-guide/"
+
+czech-republic:
+  title: "Çek Cumhuriyeti eSIM Operatör Rehberi"
+  desc_html: "Çek Cumhuriyeti'ndeki operatörler: O2 Czech, Vodafone, T-Mobile. eSIM planları ve kapsama alanı karşılaştırması, hızlı seçim."
+  btn_text: "Çek Cumhuriyeti Operatörleri"
+  btn_url: "/carriers/czech-republic-esim-carrier-guide/"
+
+denmark:
+  title: "Danimarka eSIM Operatör Rehberi"
+  desc_html: "Danimarka'daki başlıca eSIM sağlayıcıları: TDC Net, Telenor, 3 Denmark. Hız ve fiyat farklılıkları – görüntülemek için tıklayın."
+  btn_text: "Danimarka Operatörleri"
+  btn_url: "/carriers/denmark-esim-carrier-guide/"
+
+dominican:
+  title: "Dominik eSIM Operatör Rehberi"
+  desc_html: "Dominik'teki operatörler: Claro, Altice, Viva. eSIM özellik karşılaştırma tablosu."
+  btn_text: "Dominik Operatörleri"
+  btn_url: "/carriers/dominican-esim-carrier-guide/"
+
+dominican-republic:
+  title: "Dominik Cumhuriyeti eSIM Operatör Rehberi"
+  desc_html: "Dominik Cumhuriyeti'ndeki yaygın operatörler: Claro, Altice, Viva. eSIM kapsama alanı ve internet paylaşımı desteği bir bakışta."
+  btn_text: "Dominik Cumhuriyeti Operatörleri"
+  btn_url: "/carriers/dominican-republic-esim-carrier-guide/"
+
+ecuador:
+  title: "Ekvador eSIM Operatör Rehberi"
+  desc_html: "Ekvador'daki operatörler: Claro, Movistar, CNT. Hangi eSIM daha uygun maliyetli? İçeriye bakın."
+  btn_text: "Ekvador Operatörleri"
+  btn_url: "/carriers/ecuador-esim-carrier-guide/"
+
+egypt:
+  title: "Mısır eSIM Operatör Rehberi"
+  desc_html: "Mısır'daki büyük operatörler: Orange Egypt, Vodafone Egypt, Etisalat. eSIM hizmet karşılaştırması ve plan önerileri."
+  btn_text: "Mısır Operatörleri"
+  btn_url: "/carriers/egypt-esim-carrier-guide/"
+
+estonia:
+  title: "Estonya eSIM Operatör Rehberi"
+  desc_html: "Estonya'daki operatörler: Telia, Elisa, Tele2. eSIM desteği ve fiyatlandırma hızlı kontrolü."
+  btn_text: "Estonya Operatörleri"
+  btn_url: "/carriers/estonia-esim-carrier-guide/"
+
+ethiopia:
+  title: "Etiyopya eSIM Operatör Rehberi"
+  desc_html: "Etiyopya'daki operatörler: Ethio Telecom, Safaricom Ethiopia. eSIM planları ve kapsama alanı karşılaştırması."
+  btn_text: "Etiyopya Operatörleri"
+  btn_url: "/carriers/ethiopia-esim-carrier-guide/"
+
+europe:
+  title: "Avrupa eSIM Operatör Rehberi"
+  desc_html: "Pan-Avrupa eSIM önerileri: Orange, Vodafone, Deutsche Telekom. Çok ülke dolaşımı ve fiyat karşılaştırmalarını kapsar."
+  btn_text: "Avrupa Operatörleri"
+  btn_url: "/carriers/europe-esim-carrier-guide/"
+
+fiji:
+  title: "Fiji eSIM Operatör Rehberi"
+  desc_html: "Fiji'deki büyük operatörler: Vodafone Fiji, Digicel Fiji. eSIM özellik ve kapsama alanı farkları."
+  btn_text: "Fiji Operatörleri"
+  btn_url: "/carriers/fiji-esim-carrier-guide/"
+
+finland:
+  title: "Finlandiya eSIM Operatör Rehberi"
+  desc_html: "Finlandiya'daki operatörler: Telia Finland, Elisa, DNA. eSIM planları ve hız karşılaştırması, internet paylaşımı desteği dahil."
+  btn_text: "Finlandiya Operatörleri"
+  btn_url: "/carriers/finland-esim-carrier-guide/"
+
+france:
+  title: "Fransa eSIM Operatör Rehberi"
+  desc_html: "Fransa'daki yaygın operatörler: Orange, SFR, Bouygues Telecom. Detaylı eSIM hizmet karşılaştırması ile seçiminizi yapın."
+  btn_text: "Fransa Operatörleri"
+  btn_url: "/carriers/france-esim-carrier-guide/"
+
+germany:
+  title: "Almanya eSIM Operatör Rehberi"
+  desc_html: "Almanya'nın üç büyük operatörü: Deutsche Telekom, Vodafone, O2. Tam eSIM kapsama alanı ve fiyat analizi."
+  btn_text: "Almanya Operatörleri"
+  btn_url: "/carriers/germany-esim-carrier-guide/"
+
+ghana:
+  title: "Gana eSIM Operatör Rehberi"
+  desc_html: "Gana'daki büyük operatörler: MTN Ghana, Vodafone Ghana, AirtelTigo. Hızlı eSIM hizmet kontrolü."
+  btn_text: "Gana Operatörleri"
+  btn_url: "/carriers/ghana-esim-carrier-guide/"
+
+greece:
+  title: "Yunanistan eSIM Operatör Rehberi"
+  desc_html: "Yunanistan'daki operatörler: Cosmote, Vodafone Greece, Nova. eSIM planlarını ve kapsama alanını karşılaştırın."
+  btn_text: "Yunanistan Operatörleri"
+  btn_url: "/carriers/greece-esim-carrier-guide/"
+
+guatemala:
+  title: "Guatemala eSIM Operatör Rehberi"
+  desc_html: "Guatemala'daki yaygın operatörler: Claro, Tigo, Movistar. eSIM özellik karşılaştırması ve fiyatlandırma."
+  btn_text: "Guatemala Operatörleri"
+  btn_url: "/carriers/guatemala-esim-carrier-guide/"
+
+hong-kong:
+  title: "Hong Kong eSIM Operatör Rehberi"
+  desc_html: "Hong Kong'daki büyük operatörler: CSL, China Mobile Hong Kong, 3 Hong Kong, SmarTone. eSIM hizmet karşılaştırması ve dolaşım politikaları."
+  btn_text: "Hong Kong Operatörleri"
+  btn_url: "/carriers/hong-kong-esim-carrier-guide/"
+
+hungary:
+  title: "Macaristan eSIM Operatör Rehberi"
+  desc_html: "Macaristan'daki operatörler: Magyar Telekom, Yettel Hungary, Vodafone Hungary. eSIM kapsama alanı ve planları."
+  btn_text: "Macaristan Operatörleri"
+  btn_url: "/carriers/hungary-esim-carrier-guide/"
+
+iceland:
+  title: "İzlanda eSIM Operatör Rehberi"
+  desc_html: "İzlanda'daki operatörler: Siminn, Vodafone Iceland, Nova. eSIM özellikleri ve hız karşılaştırması."
+  btn_text: "İzlanda Operatörleri"
+  btn_url: "/carriers/iceland-esim-carrier-guide/"
+
+india:
+  title: "Hindistan eSIM Operatör Rehberi"
+  desc_html: "Hindistan'daki büyük operatörler: Jio, Airtel, Vi. eSIM planları ve kapsama alanları ile hızlı karar verin."
+  btn_text: "Hindistan Operatörleri"
+  btn_url: "/carriers/india-esim-carrier-guide/"
+
+indonesia:
+  title: "Endonezya eSIM Operatör Rehberi"
+  desc_html: "Endonezya'daki operatörler: Telkomsel, XL Axiata, Indosat. eSIM hizmet detayları ve fiyat karşılaştırması."
+  btn_text: "Endonezya Operatörleri"
+  btn_url: "/carriers/indonesia-esim-carrier-guide/"
+
+iran:
+  title: "İran eSIM Operatör Rehberi"
+  desc_html: "İran'daki yaygın operatörler: MCI, Irancell, Rightel. eSIM desteği ve kapsama alanı."
+  btn_text: "İran Operatörleri"
+  btn_url: "/carriers/iran-esim-carrier-guide/"
+
+iraq:
+  title: "Irak eSIM Operatör Rehberi"
+  desc_html: "Irak'taki operatörler: AsiaCell, Zain Iraq, Korek. eSIM özellik karşılaştırması."
+  btn_text: "Irak Operatörleri"
+  btn_url: "/carriers/iraq-esim-carrier-guide/"
+
+ireland:
+  title: "İrlanda eSIM Operatör Rehberi"
+  desc_html: "İrlanda'daki operatörler: Eir, Vodafone Ireland, Three Ireland. eSIM planları ve dolaşım politikaları."
+  btn_text: "İrlanda Operatörleri"
+  btn_url: "/carriers/ireland-esim-carrier-guide/"
+
+israel:
+  title: "İsrail eSIM Operatör Rehberi"
+  desc_html: "İsrail'deki operatörler: Pelephone, Cellcom, Partner. Arama ve internet paylaşımı bilgilerini içeren eSIM karşılaştırması."
+  btn_text: "İsrail Operatörleri"
+  btn_url: "/carriers/israel-esim-carrier-guide/"
+
+italy:
+  title: "İtalya eSIM Operatör Rehberi"
+  desc_html: "İtalya'daki büyük operatörler: TIM, Vodafone Italy, WindTre. eSIM kapsama alanı ve fiyat karşılaştırması."
+  btn_text: "İtalya Operatörleri"
+  btn_url: "/carriers/italy-esim-carrier-guide/"
+
+japan:
+  title: "Japonya eSIM Operatör Rehberi"
+  desc_html: "Japonya'daki yaygın operatörler: Docomo, SoftBank, KDDI au. eSIM hizmet karşılaştırması, turistler için hangisi iyi? Görüntülemek için tıklayın."
+  btn_text: "Japonya Operatörleri"
+  btn_url: "/carriers/japan-esim-carrier-guide/"
+
+jordan:
+  title: "Ürdün eSIM Operatör Rehberi"
+  desc_html: "Ürdün'deki operatörler: Zain Jordan, Orange Jordan, Umniah. Hızlı eSIM özellik kontrolü."
+  btn_text: "Ürdün Operatörleri"
+  btn_url: "/carriers/jordan-esim-carrier-guide/"
+
+kazakhstan:
+  title: "Kazakistan eSIM Operatör Rehberi"
+  desc_html: "Kazakistan'daki operatörler: Kcell, Beeline, Tele2. eSIM planları ve kapsama alanı farkları."
+  btn_text: "Kazakistan Operatörleri"
+  btn_url: "/carriers/kazakhstan-esim-carrier-guide/"
+
+kenya:
+  title: "Kenya eSIM Operatör Rehberi"
+  desc_html: "Kenya'daki büyük operatörler: Safaricom, Airtel Kenya, Telkom Kenya. eSIM hizmet karşılaştırması."
+  btn_text: "Kenya Operatörleri"
+  btn_url: "/carriers/kenya-esim-carrier-guide/"
+
+kuwait:
+  title: "Kuveyt eSIM Operatör Rehberi"
+  desc_html: "Kuveyt'teki operatörler: Zain Kuwait, Ooredoo Kuwait, STC Kuwait. eSIM özellik karşılaştırma tablosu."
+  btn_text: "Kuveyt Operatörleri"
+  btn_url: "/carriers/kuwait-esim-carrier-guide/"
+
+latvia:
+  title: "Letonya eSIM Operatör Rehberi"
+  desc_html: "Letonya'daki operatörler: LMT, Tele2 Latvia, Bite Latvija. eSIM desteği ve fiyatlandırma."
+  btn_text: "Letonya Operatörleri"
+  btn_url: "/carriers/latvia-esim-carrier-guide/"
+
+lithuania:
+  title: "Litvanya eSIM Operatör Rehberi"
+  desc_html: "Litvanya'daki operatörler: Telia Lithuania, Bitė Lithuania, Tele2 Lithuania. eSIM plan detayları."
+  btn_text: "Litvanya Operatörleri"
+  btn_url: "/carriers/lithuania-esim-carrier-guide/"
+
+luxembourg:
+  title: "Lüksemburg eSIM Operatör Rehberi"
+  desc_html: "Lüksemburg'daki operatörler: POST Luxembourg, Orange Luxembourg, Tango. eSIM hizmet karşılaştırması."
+  btn_text: "Lüksemburg Operatörleri"
+  btn_url: "/carriers/luxembourg-esim-carrier-guide/"
+
+macau:
+  title: "Makao eSIM Operatör Rehberi"
+  desc_html: "Makao'daki büyük operatörler: CTM, 3 Macau, China Telecom Macau. eSIM kapsama alanı ve dolaşım politikaları."
+  btn_text: "Makao Operatörleri"
+  btn_url: "/carriers/macau-esim-carrier-guide/"
+
+malaysia:
+  title: "Malezya eSIM Operatör Rehberi"
+  desc_html: "Malezya'daki operatörler: Celcom, Maxis, Digi, UMobile. eSIM özellik karşılaştırması."
+  btn_text: "Malezya Operatörleri"
+  btn_url: "/carriers/malaysia-esim-carrier-guide/"
+
+maldives:
+  title: "Maldivler eSIM Operatör Rehberi"
+  desc_html: "Maldivler'deki operatörler: Dhiraagu, Ooredoo Maldives. eSIM planları ve ada kapsama alanı."
+  btn_text: "Maldivler Operatörleri"
+  btn_url: "/carriers/maldives-esim-carrier-guide/"
+
+malta:
+  title: "Malta eSIM Operatör Rehberi"
+  desc_html: "Malta'daki operatörler: GO Mobile, Melita, Vodafone Malta. Hızlı eSIM hizmet kontrolü."
+  btn_text: "Malta Operatörleri"
+  btn_url: "/carriers/malta-esim-carrier-guide/"
+
+mauritius:
+  title: "Mauritius eSIM Operatör Rehberi"
+  desc_html: "Mauritius'taki operatörler: MyT, Emtel, Chili. eSIM karşılaştırması ve fiyatlandırma."
+  btn_text: "Mauritius Operatörleri"
+  btn_url: "/carriers/mauritius-esim-carrier-guide/"
+
+mexico:
+  title: "Meksika eSIM Operatör Rehberi"
+  desc_html: "Meksika'daki büyük operatörler: Telcel, Movistar, AT&T Mexico. eSIM kapsama alanı ve plan karşılaştırması."
+  btn_text: "Meksika Operatörleri"
+  btn_url: "/carriers/mexico-esim-carrier-guide/"
+
+mongolia:
+  title: "Moğolistan eSIM Operatör Rehberi"
+  desc_html: "Moğolistan'daki operatörler: Mobicom, Unitel, Skytel. eSIM desteği ve fiyatlandırma."
+  btn_text: "Moğolistan Operatörleri"
+  btn_url: "/carriers/mongolia-esim-carrier-guide/"
+
+montenegro:
+  title: "Karadağ eSIM Operatör Rehberi"
+  desc_html: "Karadağ'daki operatörler: Telenor Montenegro, Crnogorski Telekom, M:tel. eSIM özellik karşılaştırması."
+  btn_text: "Karadağ Operatörleri"
+  btn_url: "/carriers/montenegro-esim-carrier-guide/"
+
+morocco:
+  title: "Fas eSIM Operatör Rehberi"
+  desc_html: "Fas'taki operatörler: Maroc Telecom, Orange Morocco, Inwi. eSIM hizmet karşılaştırması."
+  btn_text: "Fas Operatörleri"
+  btn_url: "/carriers/morocco-esim-carrier-guide/"
+
+myanmar:
+  title: "Myanmar eSIM Operatör Rehberi"
+  desc_html: "Myanmar'daki operatörler: Mytel, Telenor Myanmar, MPT, Ooredoo Myanmar. Hızlı eSIM genel bakış."
+  btn_text: "Myanmar Operatörleri"
+  btn_url: "/carriers/myanmar-esim-carrier-guide/"
+
+namibia:
+  title: "Namibya eSIM Operatör Rehberi"
+  desc_html: "Namibya'daki operatörler: MTC Namibia, Telecom Namibia. eSIM planları ve kapsama alanı."
+  btn_text: "Namibya Operatörleri"
+  btn_url: "/carriers/namibia-esim-carrier-guide/"
+
+nepal:
+  title: "Nepal eSIM Operatör Rehberi"
+  desc_html: "Nepal'deki operatörler: Ncell, Nepal Telecom. eSIM özellikleri ve fiyatlandırma."
+  btn_text: "Nepal Operatörleri"
+  btn_url: "/carriers/nepal-esim-carrier-guide/"
+
+netherlands:
+  title: "Hollanda eSIM Operatör Rehberi"
+  desc_html: "Hollanda'daki büyük operatörler: KPN, Vodafone, T-Mobile, Odido. Detaylı eSIM hizmet karşılaştırması."
+  btn_text: "Hollanda Operatörleri"
+  btn_url: "/carriers/netherlands-esim-carrier-guide/"
+
+new-zealand:
+  title: "Yeni Zelanda eSIM Operatör Rehberi"
+  desc_html: "Yeni Zelanda'daki operatörler: Spark, One NZ, 2degrees. eSIM kapsama alanı ve dolaşım politikaları."
+  btn_text: "Yeni Zelanda Operatörleri"
+  btn_url: "/carriers/new-zealand-esim-carrier-guide/"
+
+nicaragua:
+  title: "Nikaragua eSIM Operatör Rehberi"
+  desc_html: "Nikaragua'daki operatörler: Claro, Movistar. eSIM özellik karşılaştırması."
+  btn_text: "Nikaragua Operatörleri"
+  btn_url: "/carriers/nicaragua-esim-carrier-guide/"
+
+nigeria:
+  title: "Nijerya eSIM Operatör Rehberi"
+  desc_html: "Nijerya'daki büyük operatörler: MTN Nigeria, Airtel Nigeria, Glo, 9mobile. eSIM hizmet karşılaştırması."
+  btn_text: "Nijerya Operatörleri"
+  btn_url: "/carriers/nigeria-esim-carrier-guide/"
+
+north-macedonia:
+  title: "Kuzey Makedonya eSIM Operatör Rehberi"
+  desc_html: "Kuzey Makedonya'daki operatörler: Makedonski Telekom, A1 Macedonia. eSIM planları ve desteği."
+  btn_text: "Kuzey Makedonya Operatörleri"
+  btn_url: "/carriers/north-macedonia-esim-carrier-guide/"
+
+norway:
+  title: "Norveç eSIM Operatör Rehberi"
+  desc_html: "Norveç'teki operatörler: Telenor, Telia Norway, Ice. eSIM kapsama alanı ve fiyat karşılaştırması."
+  btn_text: "Norveç Operatörleri"
+  btn_url: "/carriers/norway-esim-carrier-guide/"
+
+oman:
+  title: "Umman eSIM Operatör Rehberi"
+  desc_html: "Umman'daki operatörler: Omantel, Ooredoo Oman, Vodafone Oman. Hızlı eSIM özellik kontrolü."
+  btn_text: "Umman Operatörleri"
+  btn_url: "/carriers/oman-esim-carrier-guide/"
+
+pakistan:
+  title: "Pakistan eSIM Operatör Rehberi"
+  desc_html: "Pakistan'daki operatörler: Jazz, Zong, Telenor Pakistan, Ufone. eSIM hizmet karşılaştırması."
+  btn_text: "Pakistan Operatörleri"
+  btn_url: "/carriers/pakistan-esim-carrier-guide/"
+
+panama:
+  title: "Panama eSIM Operatör Rehberi"
+  desc_html: "Panama'daki operatörler: +Móvil, Claro Panamá, Tigo. eSIM kapsama alanı ve planları."
+  btn_text: "Panama Operatörleri"
+  btn_url: "/carriers/panama-esim-carrier-guide/"
+
+peru:
+  title: "Peru eSIM Operatör Rehberi"
+  desc_html: "Peru'daki operatörler: Movistar, Claro, Entel, Bitel. eSIM özellik karşılaştırması."
+  btn_text: "Peru Operatörleri"
+  btn_url: "/carriers/peru-esim-carrier-guide/"
+
+philippines:
+  title: "Filipinler eSIM Operatör Rehberi"
+  desc_html: "Filipinler'deki büyük operatörler: Globe, Smart, DITO. eSIM planları ve kapsama alanı karşılaştırması."
+  btn_text: "Filipinler Operatörleri"
+  btn_url: "/carriers/philippines-esim-carrier-guide/"
+
+portugal:
+  title: "Portekiz eSIM Operatör Rehberi"
+  desc_html: "Portekiz'deki operatörler: MEO, NOS, Vodafone Portugal. Detaylı eSIM hizmet genel bakışı."
+  btn_text: "Portekiz Operatörleri"
+  btn_url: "/carriers/portugal-esim-carrier-guide/"
+
+romania:
+  title: "Romanya eSIM Operatör Rehberi"
+  desc_html: "Romanya'daki operatörler: Orange Romania, Vodafone Romania, Telekom Romania. eSIM karşılaştırması."
+  btn_text: "Romanya Operatörleri"
+  btn_url: "/carriers/romania-esim-carrier-guide/"
+
+russia:
+  title: "Rusya eSIM Operatör Rehberi"
+  desc_html: "Rusya'daki yaygın operatörler: MTS, Beeline, MegaFon, Tele2 Russia. eSIM desteği ve fiyatlandırma."
+  btn_text: "Rusya Operatörleri"
+  btn_url: "/carriers/russia-esim-carrier-guide/"
+
+saudi-arabia:
+  title: "Suudi Arabistan eSIM Operatör Rehberi"
+  desc_html: "Suudi Arabistan'daki operatörler: STC, Mobily, Zain KSA. eSIM özellik karşılaştırması ve plan önerileri."
+  btn_text: "Suudi Arabistan Operatörleri"
+  btn_url: "/carriers/saudi-arabia-esim-carrier-guide/"
+
+singapore:
+  title: "Singapur eSIM Operatör Rehberi"
+  desc_html: "Singapur'un üç büyük operatörü: Singtel, StarHub, M1. eSIM hizmet karşılaştırması ve turist planları."
+  btn_text: "Singapur Operatörleri"
+  btn_url: "/carriers/singapore-esim-carrier-guide/"
+
+slovakia:
+  title: "Slovakya eSIM Operatör Rehberi"
+  desc_html: "Slovakya'daki operatörler: Slovak Telekom, Orange Slovensko, O2 Slovakia. eSIM planları."
+  btn_text: "Slovakya Operatörleri"
+  btn_url: "/carriers/slovakia-esim-carrier-guide/"
+
+south-africa:
+  title: "Güney Afrika eSIM Operatör Rehberi"
+  desc_html: "Güney Afrika'daki büyük operatörler: Vodacom, MTN South Africa, Telkom, Cell C. eSIM karşılaştırması."
+  btn_text: "Güney Afrika Operatörleri"
+  btn_url: "/carriers/south-africa-esim-carrier-guide/"
+
+south-korea:
+  title: "Güney Kore eSIM Operatör Rehberi"
+  desc_html: "Güney Kore'nin üç büyük operatörü: SK Telecom, KT, LG U+. eSIM kapsama alanı ve fiyatlandırma, turistler için hangisi uygun?"
+  btn_text: "Güney Kore Operatörleri"
+  btn_url: "/carriers/south-korea-esim-carrier-guide/"
+
+spain:
+  title: "İspanya eSIM Operatör Rehberi"
+  desc_html: "İspanya'daki operatörler: Movistar, Vodafone Spain, Orange Spain, MásMóvil. Detaylı eSIM hizmet genel bakışı."
+  btn_text: "İspanya Operatörleri"
+  btn_url: "/carriers/spain-esim-carrier-guide/"
+
+sweden:
+  title: "İsveç eSIM Operatör Rehberi"
+  desc_html: "İsveç'teki operatörler: Telia Sweden, Tele2, Telenor Sweden, Tre. eSIM planları ve kapsama alanı."
+  btn_text: "İsveç Operatörleri"
+  btn_url: "/carriers/sweden-esim-carrier-guide/"
+
+switzerland:
+  title: "İsviçre eSIM Operatör Rehberi"
+  desc_html: "İsviçre'deki operatörler: Swisscom, Sunrise, Salt. eSIM özellik karşılaştırması ve dolaşım politikaları."
+  btn_text: "İsviçre Operatörleri"
+  btn_url: "/carriers/switzerland-esim-carrier-guide/"
+
+taiwan:
+  title: "Tayvan eSIM Operatör Rehberi"
+  desc_html: "Tayvan'daki büyük operatörler: Chunghwa Telecom, Taiwan Mobile, FarEasTone. eSIM hizmet karşılaştırması."
+  btn_text: "Tayvan Operatörleri"
+  btn_url: "/carriers/taiwan-esim-carrier-guide/"
+
+thailand:
+  title: "Tayland eSIM Operatör Rehberi"
+  desc_html: "Tayland'ın ilk üç operatörü: AIS, TrueMove H, DTAC. eSIM planları ve turistlere özel paketler."
+  btn_text: "Tayland Operatörleri"
+  btn_url: "/carriers/thailand-esim-carrier-guide/"
+
+tunisia:
+  title: "Tunus eSIM Operatör Rehberi"
+  desc_html: "Tunus'taki operatörler: Tunisie Telecom, Orange Tunisie, Ooredoo Tunisie. eSIM desteği."
+  btn_text: "Tunus Operatörleri"
+  btn_url: "/carriers/tunisia-esim-carrier-guide/"
+
+turkey:
+  title: "Türkiye eSIM Operatör Rehberi"
+  desc_html: "Türkiye'deki operatörler: Turkcell, Vodafone Turkey, Türk Telekom. eSIM hizmet karşılaştırması."
+  btn_text: "Türkiye Operatörleri"
+  btn_url: "/carriers/turkey-esim-carrier-guide/"
+
+uganda:
+  title: "Uganda eSIM Operatör Rehberi"
+  desc_html: "Uganda'daki operatörler: MTN Uganda, Airtel Uganda. eSIM planları ve kapsama alanı."
+  btn_text: "Uganda Operatörleri"
+  btn_url: "/carriers/uganda-esim-carrier-guide/"
+
+ukraine:
+  title: "Ukrayna eSIM Operatör Rehberi"
+  desc_html: "Ukrayna'daki operatörler: Kyivstar, Vodafone Ukraine, Lifecell. Hızlı eSIM özellik kontrolü."
+  btn_text: "Ukrayna Operatörleri"
+  btn_url: "/carriers/ukraine-esim-carrier-guide/"
+
+united-arab-emirates:
+  title: "Birleşik Arap Emirlikleri eSIM Operatör Rehberi"
+  desc_html: "BAE'deki operatörler: Etisalat, du. eSIM hizmet karşılaştırması ve turist planları."
+  btn_text: "BAE Operatörleri"
+  btn_url: "/carriers/united-arab-emirates-esim-carrier-guide/"
+
+united-kingdom:
+  title: "Birleşik Krallık eSIM Operatör Rehberi"
+  desc_html: "Birleşik Krallık'taki büyük operatörler: EE, Vodafone UK, O2, Three. eSIM planları ve kapsama alanı karşılaştırması."
+  btn_text: "Birleşik Krallık Operatörleri"
+  btn_url: "/carriers/united-kingdom-esim-carrier-guide/"
+
+united-states:
+  title: "Amerika Birleşik Devletleri eSIM Operatör Rehberi"
+  desc_html: "ABD'nin üç büyük operatörü: AT&T, T-Mobile, Verizon. eSIM özellik karşılaştırması – kim arama ve internet paylaşımı içeriyor?"
+  btn_text: "ABD Operatörleri"
+  btn_url: "/carriers/united-states-esim-carrier-guide/"
+
+uruguay:
+  title: "Uruguay eSIM Operatör Rehberi"
+  desc_html: "Uruguay'daki operatörler: Antel, Claro Uruguay, Movistar Uruguay. eSIM hizmet detayları."
+  btn_text: "Uruguay Operatörleri"
+  btn_url: "/carriers/uruguay-esim-carrier-guide/"
+
+venezuela:
+  title: "Venezuela eSIM Operatör Rehberi"
+  desc_html: "Venezuela'daki operatörler: Movistar, Digitel, Movilnet. eSIM özellik karşılaştırması."
+  btn_text: "Venezuela Operatörleri"
+  btn_url: "/carriers/venezuela-esim-carrier-guide/"
+
+vietnam:
+  title: "Vietnam eSIM Operatör Rehberi"
+  desc_html: "Vietnam'daki operatörler: Viettel, Vinaphone, Mobifone. eSIM planları ve kapsama alanı karşılaştırması."
+  btn_text: "Vietnam Operatörleri"
+  btn_url: "/carriers/vietnam-esim-carrier-guide/"
