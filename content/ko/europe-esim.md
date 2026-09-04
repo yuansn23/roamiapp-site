@@ -4,7 +4,7 @@ description: "Roami의 선불 여행 eSIM 하나로 유럽 전역을 여행하�
 date: '2026-06-11T00:00:00+00:00'
 lastmod: 2026-06-08
 type: regional-esim
-url: /europe-esim/
+
 breadcrumbs:
 - name: 홈
   url: /
