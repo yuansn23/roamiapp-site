@@ -2,8 +2,8 @@
 title: "德国eSIM：Airalo vs Holafly — 价格与覆盖对比"
 description: "比较Airalo和Holafly：最佳的德国eSIM在起飞前安装，运行于Telekom、Vodafone或O2网络。看看短途和长途旅行哪个更胜一筹。"
 keywords: ["德国eSIM价格指南", "holafly esim 德国", "德国eSIM信号盲区", "德国旅行最便宜eSIM", "德国eSIM ICE列车覆盖", "airalo德国eSIM评测", "德国eSIM优惠码"]
-date: 2026-09-04T00:00:00Z
-lastmod: 2026-09-04T00:00:00Z
+date: 2026-09-03T00:00:00Z
+lastmod: 2026-09-03T00:00:00Z
 author: "Roami团队"
 authorBio: "Roami提供可靠的eSIM套餐，每年服务超过100万旅行者，并支持自动本地网络切换，帮助旅行者保持全球连接。"
 image: "/img/esim/germany/germany-esim-complete-travel-guide.jpg"

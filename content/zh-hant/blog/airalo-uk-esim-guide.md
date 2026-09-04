@@ -2,8 +2,8 @@
 title: "Airalo vs Holafly：旅行者最佳英國eSIM"
 description: "比較Airalo、Holafly和Roami：最佳英國eSIM在起飛前安裝，運行於EE、O2、Vodafone或Three網路，並避免歐盟漫遊費用。"
 keywords: ["英國eSIM價格指南", "holafly esim for uk", "英國eSIM 脫歐漫遊", "英國旅行最便宜eSIM", "英國eSIM 倫敦地鐵", "airalo 英國 eSIM 評價", "英國eSIM 優惠碼"]
-date: 2026-09-04T00:00:00Z
-lastmod: 2026-09-04T00:00:00Z
+date: 2026-09-03T00:00:00Z
+lastmod: 2026-09-03T00:00:00Z
 author: "Roami 團隊"
 authorBio: "Roami提供可靠的eSIM方案，每年服務超過100萬名旅客，並支援自動本地網路切換，協助旅客在全球保持連線。"
 image: "/img/esim/uk/uk-esim-price-guide.jpg"

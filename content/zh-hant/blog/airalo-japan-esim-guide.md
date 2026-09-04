@@ -2,8 +2,8 @@
 title: "日本 eSIM 指南：Airalo vs Holafly 比較"
 description: "日本有滿格 5G，所以真正的問題是地圖和翻譯的數據用量。比較 Airalo、Holafly 和 Roami - 跳過口袋 WiFi。"
 keywords: ["日本 eSIM 價格指南", "holafly esim for japan", "日本 eSIM vs 口袋 WiFi", "日本旅行最便宜的 eSIM", "日本 eSIM Google 翻譯 地圖", "airalo 日本 eSIM 評價", "日本 eSIM 優惠碼"]
-date: 2026-09-04T00:00:00Z
-lastmod: 2026-09-04T00:00:00Z
+date: 2026-09-03T00:00:00Z
+lastmod: 2026-09-03T00:00:00Z
 author: "Roami 團隊"
 authorBio: "Roami 提供可靠的 eSIM 方案，每年服務超過 100 萬名旅客，並支援自動本地網路切換，幫助旅客在全球保持連線。"
 image: "/img/esim/japan/best-japan-esim-guide.jpg"

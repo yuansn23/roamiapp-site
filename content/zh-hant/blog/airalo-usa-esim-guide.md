@@ -2,8 +2,8 @@
 title: "美國旅行者最佳 eSIM：Airalo vs Holafly"
 description: "美國旅遊 eSIM 僅限數據，無美國門號。看看 Airalo、Holafly 或 Roami 哪個方案能讓您在叫車、地圖、公園中保持連線。"
 keywords: ["美國 eSIM 價格指南", "holafly esim 美國", "美國 eSIM 無電話號碼", "美國旅遊最便宜 eSIM", "美國 eSIM 無限數據方案", "美國 eSIM 成本比較", "美國 eSIM 電信鎖機", "美國 eSIM 優惠碼"]
-date: 2026-09-04T00:00:00Z
-lastmod: 2026-09-04T00:00:00Z
+date: 2026-09-03T00:00:00Z
+lastmod: 2026-09-03T00:00:00Z
 author: "Roami 團隊"
 authorBio: "Roami 提供可靠的 eSIM 方案，每年服務超過 100 萬名旅客，並支援自動本地網路切換，協助旅客在全球保持連線。"
 image: "/img/esim/usa/usa-esim-coverage-guide.jpg"

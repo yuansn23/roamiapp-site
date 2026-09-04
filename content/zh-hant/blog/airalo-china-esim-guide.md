@@ -2,8 +2,8 @@
 title: "中國eSIM最佳選擇：Airalo vs Holafly 比較"
 description: "比較Airalo和Holafly：最佳中國eSIM在起飛前安裝，無需VPN即可使用Google和WhatsApp，運行於中國移動或聯通網絡"
 keywords: ["中國eSIM價格指南", "holafly esim for china", "中國eSIM 防火牆繞過", "中國旅行最便宜eSIM", "中國eSIM google whatsapp", "airalo 中國 eSIM 評價", "中國eSIM 優惠碼"]
-date: 2026-09-04T00:00:00Z
-lastmod: 2026-09-04T00:00:00Z
+date: 2026-09-03T00:00:00Z
+lastmod: 2026-09-03T00:00:00Z
 author: "Roami 團隊"
 authorBio: "Roami提供可靠的eSIM方案，每年服務超過100萬名旅客，並支援自動本地網路切換，協助旅客在全球保持連線。"
 image: "/img/esim/china/china-esim-complete-guide.jpg"

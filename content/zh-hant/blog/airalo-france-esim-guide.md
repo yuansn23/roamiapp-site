@@ -2,8 +2,8 @@
 title: "法國 eSIM 指南：Airalo vs Holafly 比較"
 description: "要去法國嗎？比較 Airalo 與 Holafly 在價格、數據、覆蓋率和設定上的差異，在落地前選對 eSIM。"
 keywords: ["法國 eSIM 價格指南", "holafly esim for france", "法國 eSIM 退款政策", "法國旅行最便宜的 eSIM", "法國 eSIM 無限數據方案", "法國 eSIM 成本比較", "france esim strike", "法國 eSIM 優惠碼"]
-date: 2026-09-04T00:00:00Z
-lastmod: 2026-09-04T00:00:00Z
+date: 2026-09-03T00:00:00Z
+lastmod: 2026-09-03T00:00:00Z
 author: "Roami 團隊"
 authorBio: "Roami 提供可靠的 eSIM 方案，每年服務超過 100 萬名旅客，並支援自動本地網路切換，幫助旅客在全球保持連線。"
 image: "/img/esim/france/france-esim-coverage-guide.jpg"
