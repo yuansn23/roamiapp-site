@@ -644,6 +644,7 @@ footer_col2_title = "고객 지원"
 footer_col2_links = [
   { name = "자주 묻는 질문", url = "/faq/" },
   { name = "eSIM 호환성", url = "/compatibility/" },
+   { name = "블로그", url = "/blog/" },
   { name = "Roami 다운로드", url = "/app/" }
 ]
 
@@ -757,6 +758,7 @@ footer_col2_title = "دعم العملاء"
 footer_col2_links = [
   { name = "الأسئلة الشائعة", url = "/faq/" },
   { name = "توافق eSIM", url = "/compatibility/" },
+   	  { name = "مدونة", url = "/blog/" },
   { name = "تنزيل Roami", url = "/app/" }
 ]
 
