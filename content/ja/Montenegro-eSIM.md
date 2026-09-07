@@ -399,4 +399,5 @@ related_products:
     flag: img/flags/au.svg
     price: $1.99から
     is_highlight: false
----        Montenegro旅行で格安のデータ通信をお探しならRoamiのeSIM。1GB/$1.99からのプリペイドプランで、事前購入からインストールまで5分で完了。日本語サポートで初めての方も安心。
+---
+        Montenegro旅行で格安のデータ通信をお探しならRoamiのeSIM。1GB/$1.99からのプリペイドプランで、事前購入からインストールまで5分で完了。日本語サポートで初めての方も安心。

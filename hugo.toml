@@ -779,3 +779,62 @@ footer_slogan = "مزود خدمات eSIM عالمي محترف | خبير تج�
 modal_title = "تنبيه"
 modal_cancel = "إلغاء"
 modal_confirm = "اذهب الآن"
+
+# 越南语配置
+[languages.vi]
+languageName = "Tiếng Việt"
+contentDir = "content/vi"   # 越南语内容文件夹
+weight = 13                  # 按需调整权重，英文为 1
+
+[languages.vi.params]
+# 导航栏文案
+nav_links = [
+  { name = "Trang chủ", url = "/" },
+  { name = "Mua eSIM", url = "/plans/" },
+  { name = "Tương thích eSIM", url = "/compatibility/" },
+  { name = "eSIM miễn phí", url = "/free-esim/" },
+  { name = "Ứng dụng Roami", url = "/app/" },
+  { name = "Câu hỏi thường gặp", url = "/faq/" }
+]
+
+# 页脚描述
+footer_desc = "Cung cấp dịch vụ eSIM cao cấp tại hơn 200 quốc gia và vùng lãnh thổ, giúp bạn luôn kết nối ở mọi nơi."
+
+# 页脚第一列：热门目的地
+footer_col1_title = "Điểm đến phổ biến"
+footer_col1_links = [
+  { name = "eSIM Châu Á", url = "/asia-esim/" },
+  { name = "eSIM Châu Âu", url = "/europe-esim/" },
+  { name = "eSIM Châu Phi", url = "/africa-esim/" },
+  { name = "eSIM Nam Mỹ", url = "/south-america-esim/" },
+  { name = "eSIM Bắc Mỹ", url = "/north-america-esim/" },
+  { name = "eSIM Trung Đông", url = "/middle-east-esim/" }
+]
+
+# 页脚第二列：客户支持
+footer_col2_title = "Hỗ trợ khách hàng"
+footer_col2_links = [
+  { name = "Câu hỏi thường gặp", url = "/faq/" },
+  { name = "Blog", url = "/blog/" },
+  { name = "Tương thích eSIM", url = "/compatibility/" },
+  { name = "Tải ứng dụng Roami", url = "/app/" }
+]
+
+# 页脚第三列：公司信息
+footer_col3_title = "Thông tin công ty"
+footer_col3_links = [
+  { name = "Về chúng tôi", url = "/about-us/" },
+  { name = "eSIM miễn phí", url = "/free-esim/" },
+  { name = "Chính sách hoàn tiền", url = "/refund/" },
+  { name = "Liên hệ", url = "/contact/" },
+  { name = "Chính sách bảo mật", url = "/privacy/" },
+  { name = "Điều khoản dịch vụ", url = "/terms/" }
+]
+
+footer_copyright = "© 2026 Roami. Đã đăng ký bản quyền."
+footer_slogan = "Nhà cung cấp dịch vụ eSIM toàn cầu chuyên nghiệp | Chuyên gia roaming dữ liệu eSIM toàn cầu"
+
+# 弹窗文案
+modal_title = "Thông báo"
+modal_cancel = "Hủy"
+modal_confirm = "Đi ngay"

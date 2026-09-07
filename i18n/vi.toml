@@ -1,0 +1,582 @@
+# 通用按钮与标签
+[download_on_the]
+other = "Tải trên"
+
+[app_store]
+other = "App Store"
+
+[get_it_on]
+other = "Tải trên"
+
+[google_play]
+other = "Google Play"
+
+[visit_our]
+other = "Truy cập"
+
+[official_website]
+other = "Trang web chính thức"
+
+[view_plans]
+other = "Xem các gói"
+
+[web]
+other = "Web"
+
+[android]
+other = "Android"
+
+[404_page_not_found]
+other = "404 – Không tìm thấy trang"
+
+[404_message]
+other = "Chúng tôi không thể tìm thấy trang bạn đang tìm. Có thể nó đã bị di chuyển hoặc không còn tồn tại. Đừng lo — hãy để chúng tôi đưa bạn trở lại hành trình du lịch của mình."
+
+[404_back_home]
+other = "Về trang chủ"
+
+[404_promo_title]
+other = "Ưu đãi dành riêng cho bạn"
+
+[404_promo_desc]
+other = "Giảm 20% cho lần mua eSIM đầu tiên"
+
+[404_promo_code]
+other = "web20"
+
+[404_promo_cta]
+other = "Nhận ưu đãi"
+
+[404_promo_note]
+other = "Không cần đăng ký. Áp dụng cho người dùng mới."
+
+# 弹窗相关
+[friendly_reminder]
+other = "Dịch vụ đã cập nhật"
+
+[modal_upgrade_desc]
+other = "Dịch vụ của chúng tôi đã được nâng cấp. Nhận mã khuyến mãi: web20 trên trang web chính thức hoặc ứng dụng của chúng tôi."
+
+[cancel]
+other = "Hủy"
+
+[proceed]
+other = "Tiếp tục"
+
+# 悬浮按钮文本
+[get_esim_discount]
+other = "Nhận giảm 20% eSIM"
+
+# FAQ 标题和描述
+[faq_title]
+other = "Câu hỏi thường gặp"
+
+[faq_desc]
+other = "Mọi điều bạn cần biết về dịch vụ eSIM toàn cầu của chúng tôi."
+
+# 以下是您原有但可能未使用的，保留不影响（可选）
+[modal_title_ios]
+other = "Dịch vụ đã cập nhật"
+
+[modal_text_ios]
+other = "Bạn sẽ được chuyển đến ứng dụng chính thức để nhận mã giảm giá."
+
+[tldr_summary_title]
+other = "Tóm tắt nhanh cho khách du lịch"
+
+[modal_cancel]
+other = "Hủy"
+
+[modal_continue]
+other = "Tiếp tục"
+
+[global_connectivity_expert]
+other = "Chuyên gia kết nối toàn cầu"
+
+[structured_data_org_description]
+other = "Nhà cung cấp dịch vụ eSIM toàn cầu chuyên nghiệp cung cấp dữ liệu roaming tốc độ cao tại 200 quốc gia."
+
+[structured_data_product_description]
+other = "Các gói eSIM du lịch trả trước cho hơn 200 quốc gia với kích hoạt tức thì và Internet tốc độ cao 5G/4G."
+
+[structured_data_faq1_question]
+other = "Làm thế nào để mua eSIM Mỹ?"
+
+[structured_data_faq1_answer]
+other = "Để mua eSIM Mỹ, chỉ cần tải ứng dụng Roami, chọn Hoa Kỳ làm điểm đến, chọn gói dữ liệu phù hợp với nhu cầu của bạn và hoàn tất giao dịch. Kích hoạt diễn ra ngay lập tức."
+
+[structured_data_faq2_question]
+other = "Làm thế nào để mua eSIM Nhật Bản trực tuyến?"
+
+[structured_data_faq2_answer]
+other = "Mua eSIM Nhật Bản thật dễ dàng với Roami. Tìm kiếm Nhật Bản trong ứng dụng của chúng tôi, chọn gói dữ liệu 5G/4G ưa thích và cài đặt qua mã QR hoặc kích hoạt một chạm trước chuyến đi."
+
+[structured_data_faq3_question]
+other = "Làm thế nào để có được eSIM cho Châu Âu, Anh hoặc Pháp?"
+
+[structured_data_faq3_answer]
+other = "Roami cung cấp eSIM khu vực Châu Âu cũng như các gói địa phương cho Anh, Pháp, Ý, Đức và Tây Ban Nha. Chỉ cần chọn điểm đến trong ứng dụng để kết nối ngay mà không mất phí roaming."
+
+[structured_data_faq4_question]
+other = "Tại sao nên chọn Roami thay vì Airalo, Nomad, Holafly, hay Ubigi?"
+
+[structured_data_faq4_answer]
+other = "Mặc dù Airalo, Nomad eSIM, Holafly, Saily eSIM, Yesim, MobiMatter và GigSky là các lựa chọn, Roami cung cấp giá cạnh tranh cao bắt đầu từ $1.99, hỗ trợ 24/7 và chính sách hoàn tiền không lo lắng cho hơn 200 quốc gia."
+
+[software_description]
+other = "Nhà cung cấp eSIM toàn cầu cho kết nối du lịch tốc độ cao."
+
+[last_updated]
+other = "Cập nhật lần cuối"
+
+[select_language]
+other = "Chọn ngôn ngữ"
+
+[language]
+other = "Ngôn ngữ"
+
+[close]
+other = "Đóng"
+
+[fifa_title_line1]
+other = "Kết nối liền mạch"
+
+[fifa_title_line2]
+other = "FIFA World Cup™ 2026"
+
+[fifa_desc]
+other = "eSIM du lịch toàn cầu hỗ trợ hành trình của bạn qua tất cả các thành phố đăng cai. Luôn kết nối, chia sẻ mọi khoảnh khắc."
+
+[fifa_guide_text]
+other = "✈️ Du lịch không biên giới — nhận eSIM ngay"
+
+[fifa_card1_title]
+other = "Không roaming"
+
+[fifa_card1_desc]
+other = "Trả giá địa phương"
+
+[fifa_card2_title]
+other = "Một SIM, 3 Quốc gia"
+
+[fifa_card2_desc]
+other = "Mỹ · Canada · Mexico"
+
+[fifa_card3_title]
+other = "Kích hoạt tức thì"
+
+[fifa_card3_desc]
+other = "Sẵn sàng trước khi bạn bay"
+
+[fifa_country_canada]
+other = "🇨🇦 Canada"
+
+[fifa_country_mexico]
+other = "🇲🇽 Mexico"
+
+[fifa_country_usa]
+other = "🇺🇸 Mỹ"
+
+[fifa_5g]
+other = "⚡ Sẵn sàng 5G"
+
+[fifa_button]
+other = "Nhận eSIM World Cup"
+
+[premium_coverage]
+other = "Phủ sóng cao cấp"
+
+[regional_plans_title]
+other = "Gói khu vực & toàn cầu"
+
+[regional_subtitle]
+other = "Du lịch qua nhiều quốc gia với một eSIM — không cần đổi SIM, kích hoạt tức thì và tiết kiệm 30% so với roaming."
+
+[faq_title2]
+other = "Câu hỏi thường gặp về khả năng tương thích eSIM"
+
+[breadcrumb_home]
+other = "Trang chủ"
+
+[breadcrumb_blog]
+other = "Blog"
+
+[breadcrumb_separator]
+other = "/"
+
+[minutes_read]
+other = "phút đọc"
+
+[table_of_contents]
+other = "📑 Mục lục"
+
+[you_might_also_like]
+other = "🔗 Có thể bạn cũng thích"
+
+[popular_destinations]
+other = "Điểm đến eSIM phổ biến"
+
+[promo_limited_offer]
+other = "🔥 Ưu đãi có hạn 🔥"
+
+[promo_use_code]
+other = "Sử dụng mã"
+
+[promo_checkout]
+other = "⭐ Nhập mã khi thanh toán để nhận ưu đãi ⭐"
+
+[promo_stats_text]
+other = "Tham gia cùng hơn 1 triệu du khách đã chọn Roami. 5G tại {{ .Countries }} quốc gia. Gói từ ${{ .Price }}. Kích hoạt tức thì."
+
+[region_country_title]
+other = "eSIM {{ .RegionName }} hoạt động tại {{ .TotalCountries }} quốc gia"
+
+[coverage_stats_text]
+other = """
+Một eSIM tự động kết nối với mạng địa phương mạnh nhất tại mọi quốc gia.
+<strong class="text-orange-600">{{ .FiveGCount }} quốc gia có 5G</strong>,
+{{ .FourGCount }} quốc gia có 4G/LTE ổn định.
+Nhấn vào bất kỳ quốc gia nào để xem hướng dẫn thiết lập và chi tiết nhà mạng.
+"""
+
+[powered_by_operators]
+other = "Được cung cấp bởi các nhà mạng di động lớn nhất tại {{ .RegionName }}"
+
+[auto_switch_carriers]
+other = """
+eSIM Roami của bạn tự động chuyển đổi giữa <strong class="text-orange-600">{{ .CarrierCount }}+ nhà mạng</strong> để có tín hiệu tốt nhất.
+"""
+
+[network_partners_label]
+other = "Đối tác mạng"
+
+[premium_carrier_partners_title]
+other = "Hơn {{ .Count }} đối tác mạng cao cấp"
+
+[network_partners_description]
+other = "eSIM Roami của bạn tự động kết nối với mạng địa phương tốt nhất. Không cần chuyển đổi thủ công."
+
+[esim_auto_connect]
+other = "Một trong những nhà mạng lớn nhất tại {{ .HQ }}. eSIM của bạn tự động kết nối{{ .CountriesSuffix }}."
+
+[carrier_roaming_title]
+other = "Roaming của nhà mạng bạn"
+
+[carrier_roaming_badge]
+other = "Phí ẩn"
+
+[carrier_roaming_estimate]
+other = "ước tính cho chuyến đi 2 tuần"
+
+[roami_title]
+other = "Roami {{ .RegionName }} eSIM"
+
+[roami_badge]
+other = "Giá trị tốt nhất"
+
+[roami_price_label]
+other = "Từ $1.99"
+
+[roami_plan_description]
+other = "gói trả trước từ $5 cho toàn bộ chuyến đi"
+
+[esim_vs_carrier_roaming]
+other = "eSIM {{ .RegionName }} so với roaming của nhà mạng"
+
+[heading_beyond_region]
+other = "Đi xa hơn {{ .RegionName }}?"
+
+[try_free_button]
+other = "Dùng thử eSIM miễn phí"
+
+[regionQuestionsTitle]
+other = "eSIM {{ .RegionName }}: những câu hỏi du khách thường hỏi"
+
+[stats]
+countries = "Quốc gia"
+carriers = "Nhà mạng"
+coverage_5g = "Phủ sóng 5G"
+
+[home]
+other = "Trang chủ"
+
+[carriers]
+other = "Nhà cung cấp eSIM"
+
+[banner_official]
+other = "Chính thức"
+
+[banner_discount_desc]
+other = "GIẢM 20% DỮ LIỆU TOÀN CẦU"
+
+[banner_rating]
+other = "4.8 (2.1k đánh giá)"
+
+[banner_cta]
+other = "Nhận ngay"
+
+[discount_title]
+other = "Ưu đãi có thời hạn"
+
+[discount_code_label]
+other = "Mã khuyến mãi"
+
+[discount_new_user]
+other = "GIẢM 20% CHO NGƯỜI DÙNG MỚI"
+
+[discount_today]
+other = "Đã nhận hôm nay"
+
+[discount_today_num]
+other = "500 - 1000"
+
+[discount_remaining]
+other = "Còn lại"
+
+[discount_remaining_num]
+other = "5 - 10"
+
+[discount_cancel]
+other = "Hủy"
+
+[discount_claim]
+other = "Nhận ngay"
+
+[vp_5g_badge]
+other = "5G"
+
+[vp_same]
+other = "Cùng"
+
+[vp_network]
+other = "Mạng 5G"
+
+[vp_compare]
+other = ", lên đến"
+
+[vp_cheaper]
+other = "rẻ hơn so với các eSIM khác"
+
+[vp_percent]
+other = "30%"
+
+[vp_save_tag]
+other = "🔥 Tiết kiệm hơn"
+
+[compare_title]
+other = "So sánh eSIM miễn phí: Roami vs Airalo vs Holafly – Ai cung cấp dùng thử miễn phí tốt nhất?"
+
+[compare_subtitle]
+other = "So sánh trung thực — xem tại sao du khách chọn Roami cho bản dùng thử eSIM miễn phí"
+
+[compare_col_feature]
+other = "Tính năng"
+
+[compare_col_roami]
+other = "Roami"
+
+[compare_col_airalo]
+other = "Airalo"
+
+[compare_col_holafly]
+other = "Holafly"
+
+[compare_row_trial]
+other = "Dùng thử miễn phí"
+
+[compare_roami_trial]
+other = "✅ 100MB"
+
+[compare_airalo_trial]
+other = "❌"
+
+[compare_holafly_trial]
+other = "❌"
+
+[compare_row_card]
+other = "Yêu cầu thẻ tín dụng"
+
+[compare_roami_card]
+other = "✅ Không"
+
+[compare_airalo_card]
+other = "Có"
+
+[compare_holafly_card]
+other = "Có"
+
+[compare_row_coverage]
+other = "Phủ sóng"
+
+[compare_roami_coverage]
+other = "200+ quốc gia"
+
+[compare_airalo_coverage]
+other = "200+ quốc gia"
+
+[compare_holafly_coverage]
+other = "200+ quốc gia"
+
+[compare_row_paid]
+other = "Gói trả phí từ"
+
+[compare_roami_paid]
+other = "$1.99"
+
+[compare_airalo_paid]
+other = "$4.50"
+
+[compare_holafly_paid]
+other = "$5.90"
+
+[compare_row_support]
+other = "Hỗ trợ trực tiếp"
+
+[compare_roami_support]
+other = "✅ 24/7"
+
+[compare_airalo_support]
+other = "—"
+
+[compare_holafly_support]
+other = "✅ 24/7"
+
+[brand_reminder]
+other = "Thương hiệu eSIM của chúng tôi là roami, không phải roamic. Xin lưu ý."
+
+[roami_free_section_title]
+other = "Dùng thử miễn phí Roami"
+
+[roami_free_section_heading]
+other = "Dùng thử eSIM miễn phí – 7 ngày / 100MB, không cần thẻ tín dụng"
+
+[roami_free_section_desc]
+other = "Một gói dữ liệu khẩn cấp nhẹ dành cho du khách. Kích hoạt khi đến nơi, <strong>không yêu cầu thông tin thanh toán</strong>, và không có bẫy gia hạn ẩn."
+
+[roami_compare_col_feature]
+other = "Tính năng"
+
+[roami_compare_col_roami]
+other = "Roami"
+
+[roami_compare_col_att]
+other = "AT&T"
+
+[roami_compare_col_tmobile]
+other = "T‑Mobile"
+
+[roami_compare_col_verizon]
+other = "Verizon"
+
+[roami_compare_row_trial]
+other = "Dùng thử miễn phí"
+
+[roami_compare_row_card]
+other = "Yêu cầu thẻ tín dụng"
+
+[roami_compare_row_auto]
+other = "Tự động gia hạn"
+
+[roami_compare_row_coverage]
+other = "Số quốc gia phủ sóng"
+
+[roami_compare_row_support]
+other = "Hỗ trợ 24/7"
+
+[roami_compare_roami_trial]
+other = "7 ngày / 100MB"
+
+[roami_compare_roami_card]
+other = "❌ Không yêu cầu"
+
+[roami_compare_roami_auto]
+other = "❌ Không có"
+
+[roami_compare_roami_coverage]
+other = "200+"
+
+[roami_compare_roami_support]
+other = "✅ Hỗ trợ trực tuyến"
+
+[roami_compare_att_trial]
+other = "Yêu cầu thẻ tín dụng"
+
+[roami_compare_att_card]
+other = "✅ Phải cung cấp"
+
+[roami_compare_att_auto]
+other = "✅ Tự động tính phí sau dùng thử"
+
+[roami_compare_att_coverage]
+other = "Hạn chế (chỉ Mỹ)"
+
+[roami_compare_att_support]
+other = "❌ Hạn chế"
+
+[roami_compare_tmobile_trial]
+other = "Yêu cầu thẻ tín dụng"
+
+[roami_compare_tmobile_card]
+other = "✅ Phải cung cấp"
+
+[roami_compare_tmobile_auto]
+other = "✅ Tự động tính phí sau dùng thử"
+
+[roami_compare_tmobile_coverage]
+other = "Hạn chế (chỉ Mỹ)"
+
+[roami_compare_tmobile_support]
+other = "❌ Hạn chế"
+
+[roami_compare_verizon_trial]
+other = "Yêu cầu thẻ tín dụng"
+
+[roami_compare_verizon_card]
+other = "✅ Phải cung cấp"
+
+[roami_compare_verizon_auto]
+other = "✅ Tự động tính phí sau dùng thử"
+
+[roami_compare_verizon_coverage]
+other = "Hạn chế (chỉ Mỹ)"
+
+[roami_compare_verizon_support]
+other = "❌ Hạn chế"
+
+[esim_free_trial]
+other = "dùng thử eSIM miễn phí"
+
+# ===== 3步指南 =====
+[steps_title]
+other = "Cách nhận eSIM miễn phí trong 3 bước đơn giản"
+
+[steps_desc]
+other = "Không cần thẻ tín dụng, không ràng buộc – chỉ cần mã QR eSIM miễn phí để bắt đầu dùng thử ngay."
+
+[step1_title]
+other = "Chọn quốc gia của bạn"
+
+[step1_desc]
+other = "Chọn điểm đến của bạn từ danh sách dưới đây – chúng tôi cung cấp dùng thử eSIM miễn phí cho hơn 200 quốc gia."
+
+[step2_title]
+other = "Nhận dùng thử miễn phí"
+
+[step2_desc]
+other = "Nhấp vào \"Nhận dùng thử miễn phí\" – không cần thẻ tín dụng. Chúng tôi sẽ gửi ngay mã QR eSIM miễn phí cho bạn."
+
+[step3_title]
+other = "Quét và kết nối"
+
+[step3_desc]
+other = "Quét mã QR bằng camera điện thoại, làm theo hướng dẫn và tận hưởng 100MB dữ liệu miễn phí."
+
+# ===== Why Roami 区块 =====
+[why_title]
+other = "Tại sao Roami là nhà cung cấp eSIM miễn phí tốt nhất năm 2026"
+
+[why_p1]
+other = '''Khi tìm kiếm một <strong>eSIM miễn phí</strong>, bạn muốn một lựa chọn đáng tin cậy, nhanh chóng và thực sự không mất phí. Roami đáp ứng chính xác điều đó – với <strong>dùng thử eSIM miễn phí</strong> bao gồm <strong>100MB dữ liệu</strong>, <strong>không cần thẻ tín dụng</strong> và phủ sóng tại <strong>hơn 200 quốc gia</strong>. Không giống như nhiều đối thủ, chúng tôi không khóa bạn vào gói đăng ký hay yêu cầu thông tin thanh toán trước.'''
+
+[why_p2]
+other = '''<strong>Mã QR eSIM miễn phí</strong> của chúng tôi được tạo ngay lập tức và gửi đến email của bạn, để bạn có thể thiết lập thiết bị trong vài phút. Dù bạn là khách du lịch thường xuyên hay chỉ muốn thử công nghệ eSIM, Roami mang đến <strong>trải nghiệm eSIM miễn phí tốt nhất</strong> với tốc độ 4G/5G, hỗ trợ 24/7 và giá cả minh bạch cho các gói trả phí nếu bạn cần thêm dữ liệu.'''

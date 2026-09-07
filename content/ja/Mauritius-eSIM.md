@@ -410,4 +410,5 @@ related_products:
     flag: img/flags/au.svg
     price: $1.99～
     is_highlight: false
----        MauritiusのeSIMはRoamiで購入が一番お得。格安データ通信。事前に日本で準備して到着後すぐに使える便利さ。デュアルSIM対応で日本のSIMもそのまま。
+---
+        MauritiusのeSIMはRoamiで購入が一番お得。格安データ通信。事前に日本で準備して到着後すぐに使える便利さ。デュアルSIM対応で日本のSIMもそのまま。

@@ -433,4 +433,5 @@ related_products:
     flag: img/flags/au.svg
     price: $1.99～
     is_highlight: false
----        Ukraine用eSIMの設定はRoamiならQRコードをスキャンするだけで完了。5G対応の高速データ通信でGoogleマップやSNSも快適。24時間日本語サポートで滞在中も安心して利用可能。 Roamiなら海外旅行eSIMを複数国で一元管理でき、追加購入も簡単です。
+---
+        Ukraine用eSIMの設定はRoamiならQRコードをスキャンするだけで完了。5G対応の高速データ通信でGoogleマップやSNSも快適。24時間日本語サポートで滞在中も安心して利用可能。 Roamiなら海外旅行eSIMを複数国で一元管理でき、追加購入も簡単です。

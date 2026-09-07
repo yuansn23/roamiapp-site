@@ -266,4 +266,5 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
----        Senegal旅行でのデータ通信料金を比較するならRoami。海外ローミングより最大80%割安で契約不要。事前に日本で設定しておけば到着後すぐに接続。日本語サポート付き。
+---
+        Senegal旅行でのデータ通信料金を比較するならRoami。海外ローミングより最大80%割安で契約不要。事前に日本で設定しておけば到着後すぐに接続。日本語サポート付き。

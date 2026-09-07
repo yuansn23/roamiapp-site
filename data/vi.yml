@@ -1,0 +1,83 @@
+related_products:
+  title: Các gói eSIM tương tự
+  items:
+    - name: eSIM Hoa Kỳ
+      flag: img/flags/us.svg
+      price: Từ $1.99
+      is_highlight: false
+      slug: united-states-esim
+    - name: eSIM Trung Quốc
+      flag: img/flags/cn.svg
+      price: Từ $1.99
+      is_highlight: false
+      slug: china-esim
+    - name: eSIM Đức
+      flag: img/flags/de.svg
+      price: Từ $1.99
+      is_highlight: false
+      slug: germany-esim
+    - name: eSIM Nhật Bản
+      flag: img/flags/jp.svg
+      price: Từ $1.99
+      is_highlight: false
+      slug: japan-esim
+    - name: eSIM Vương quốc Anh
+      flag: img/flags/gb.svg
+      price: Từ $1.99
+      is_highlight: false
+      slug: united-kingdom-esim
+    - name: eSIM Pháp
+      flag: img/flags/fr.svg
+      price: Từ $1.99
+      is_highlight: false
+      slug: france-esim
+    - name: eSIM Ý
+      flag: img/flags/it.svg
+      price: Từ $1.99
+      is_highlight: false
+      slug: italy-esim
+    - name: eSIM Canada
+      flag: img/flags/ca.svg
+      price: Từ $1.99
+      is_highlight: false
+      slug: canada-esim
+    - name: eSIM Brazil
+      flag: img/flags/br.svg
+      price: Từ $1.99
+      is_highlight: false
+      slug: brazil-esim
+    - name: eSIM Tây Ban Nha
+      flag: img/flags/es.svg
+      price: Từ $1.99
+      is_highlight: false
+      slug: spain-esim
+    - name: eSIM Hàn Quốc
+      flag: img/flags/kr.svg
+      price: Từ $1.99
+      is_highlight: false
+      slug: south-korea-esim
+    - name: eSIM Úc
+      flag: img/flags/au.svg
+      price: Từ $1.99
+      is_highlight: false
+      slug: australia-esim
+    - name: eSIM Thổ Nhĩ Kỳ
+      flag: img/flags/tr.svg
+      price: Từ $1.99
+      is_highlight: false
+      slug: turkey-esim
+    - name: eSIM Đài Loan
+      flag: img/flags/tw.svg
+      price: Từ $1.99
+      is_highlight: false
+      slug: taiwan-esim
+    - name: eSIM Các Tiểu vương quốc Ả Rập Thống nhất
+      flag: img/flags/ae.svg
+      price: Từ $1.99
+      is_highlight: false
+      slug: united-arab-emirates-esim
+    - name: eSIM Áo
+      flag: img/flags/at.svg
+      price: Từ $1.99
+      is_highlight: false
+      slug: austria-esim

@@ -442,4 +442,5 @@ related_products:
     flag: img/flags/au.svg
     price: $1.99～
     is_highlight: false
----        マカオでリモートワークするならRoamiのeSIMが最適。安定した高速5G通信でZoomもストレスフリー。長期滞在向けの割安プランとデータ追加の柔軟性でノマド生活をサポート。
+---
+        マカオでリモートワークするならRoamiのeSIMが最適。安定した高速5G通信でZoomもストレスフリー。長期滞在向けの割安プランとデータ追加の柔軟性でノマド生活をサポート。

@@ -276,4 +276,5 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
----        Mozambique旅行の通信費を抑えるならRoami。海外ローミングより格安のデータプランで、無制限から1GBまで選択可能。事前購入・即時アクティベーションで到着後すぐにインターネット。
+---
+        Mozambique旅行の通信費を抑えるならRoami。海外ローミングより格安のデータプランで、無制限から1GBまで選択可能。事前購入・即時アクティベーションで到着後すぐにインターネット。

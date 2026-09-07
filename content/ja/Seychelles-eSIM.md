@@ -284,4 +284,5 @@ related_products:
     flag: img/flags/au.svg
     price: From $1.99
     is_highlight: false
----        Seychelles用eSIMの設定はRoamiならQRコードをスキャンするだけで完了。5G対応の高速データ通信でGoogleマップやSNSも快適。24時間日本語サポートで滞在中も安心して利用可能。
+---
+        Seychelles用eSIMの設定はRoamiならQRコードをスキャンするだけで完了。5G対応の高速データ通信でGoogleマップやSNSも快適。24時間日本語サポートで滞在中も安心して利用可能。

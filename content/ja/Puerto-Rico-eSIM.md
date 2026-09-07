@@ -308,4 +308,5 @@ related_products:
     flag: img/flags/au.svg
     price: $1.99から
     is_highlight: false
----        Puerto Rico旅行の通信費を抑えるならRoami。海外ローミングより格安のデータプランで、無制限から1GBまで選択可能。事前購入・即時アクティベーションで到着後すぐにインターネット。
+---
+        Puerto Rico旅行の通信費を抑えるならRoami。海外ローミングより格安のデータプランで、無制限から1GBまで選択可能。事前購入・即時アクティベーションで到着後すぐにインターネット。

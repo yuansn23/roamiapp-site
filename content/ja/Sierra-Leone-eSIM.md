@@ -266,4 +266,5 @@ related_products:
     flag: img/flags/au.svg
     price: $1.99から
     is_highlight: false
----        Sierra Leone用eSIMの購入はRoamiで。格安データ通信プラン。物理SIM不要でインストールはQRコードをスキャンするだけ。5G対応の高速通信で快適な旅行を。
+---
+        Sierra Leone用eSIMの購入はRoamiで。格安データ通信プラン。物理SIM不要でインストールはQRコードをスキャンするだけ。5G対応の高速通信で快適な旅行を。

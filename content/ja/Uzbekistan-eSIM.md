@@ -352,4 +352,5 @@ related_products:
     flag: img/flags/au.svg
     price: $1.99～
     is_highlight: false
----        Uzbekistanで使えるおすすめeSIMを選ぶならRoami。AiraloやHolaflyより格安で、同一品質の高速通信。返金保証付きで初めてのeSIM利用も安心。QRコード設定で簡単。
+---
+        Uzbekistanで使えるおすすめeSIMを選ぶならRoami。AiraloやHolaflyより格安で、同一品質の高速通信。返金保証付きで初めてのeSIM利用も安心。QRコード設定で簡単。

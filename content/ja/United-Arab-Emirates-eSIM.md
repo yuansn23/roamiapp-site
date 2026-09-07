@@ -434,4 +434,5 @@ related_products:
     flag: img/flags/au.svg
     price: $1.99～
     is_highlight: false
----        United Arab Emiratesでの安定したインターネット接続はRoamiのeSIM。現地トップキャリアのネットワークに自動接続し、5G高速通信を実現。24時間サポート付きでビジネス旅行にも最適。
+---
+        United Arab Emiratesでの安定したインターネット接続はRoamiのeSIM。現地トップキャリアのネットワークに自動接続し、5G高速通信を実現。24時間サポート付きでビジネス旅行にも最適。
