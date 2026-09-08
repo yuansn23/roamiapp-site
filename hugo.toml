@@ -838,3 +838,59 @@ footer_slogan = "Nhà cung cấp dịch vụ eSIM toàn cầu chuyên nghiệp |
 modal_title = "Thông báo"
 modal_cancel = "Hủy"
 modal_confirm = "Đi ngay"
+
+# 泰语配置
+[languages.th]
+languageName = "Thai"
+contentDir = "content/th"  # 告诉 Hugo 泰语内容在这个文件夹
+weight = 14
+
+[languages.th.params]
+    # 导航栏文案
+    nav_links = [
+      { name = "หน้าแรก", url = "/" },
+      { name = "ซื้อ eSIM", url = "/plans/" },
+      { name = "ความเข้ากันได้ของ eSIM", url = "/compatibility/" },
+      { name = "eSIM ฟรี", url = "/free-esim/" },
+      { name = "แอป Roami", url = "/app/" },
+      { name = "คำถามที่พบบ่อย", url = "/faq/" }
+    ]
+
+    # 页脚文案
+    footer_desc = "ให้บริการ eSIM พรีเมียมในกว่า 200 ประเทศและภูมิภาค ทำให้คุณเชื่อมต่อได้ทุกที่ที่เดินทาง"
+
+    footer_col1_title = "จุดหมายปลายทางยอดนิยม"
+    footer_col1_links = [
+      { name = "eSIM เอเชีย", url = "/asia-esim/" },
+      { name = "eSIM ยุโรป", url = "/europe-esim/" },
+      { name = "eSIM แอฟริกา", url = "/africa-esim/" },
+      { name = "eSIM อเมริกาใต้", url = "/south-america-esim/" },
+      { name = "eSIM อเมริกาเหนือ", url = "/north-america-esim/" },
+      { name = "eSIM ตะวันออกกลาง", url = "/middle-east-esim/" }
+    ]
+
+    footer_col2_title = "ฝ่ายสนับสนุนลูกค้า"
+    footer_col2_links = [
+      { name = "คำถามที่พบบ่อย", url = "/faq/" },
+      { name = "บล็อก", url = "/blog/" },
+      { name = "ความเข้ากันได้ของ eSIM", url = "/compatibility/" },
+      { name = "ดาวน์โหลด Roami", url = "/app/" }
+    ]
+
+    footer_col3_title = "ข้อมูลบริษัท"
+    footer_col3_links = [
+      { name = "เกี่ยวกับเรา", url = "/about-us/" },
+      { name = "eSIM ฟรี", url = "/free-esim/" },
+      { name = "นโยบายการคืนเงิน", url = "/refund/" },
+      { name = "ติดต่อเรา", url = "/contact/" },
+      { name = "นโยบายความเป็นส่วนตัว", url = "/privacy/" },
+      { name = "ข้อกำหนดการให้บริการ", url = "/terms/" }
+    ]
+
+    footer_copyright = "© 2026 Roami สงวนลิขสิทธิ์"
+    footer_slogan = "ผู้ให้บริการ eSIM ระดับโลกมืออาชีพ | ผู้เชี่ยวชาญด้านข้อมูลโรมมิ่ง eSIM ทั่วโลก"
+
+    # 弹窗文案
+    modal_title = "แจ้งเตือน"
+    modal_cancel = "ยกเลิก"
+    modal_confirm = "ไปเลย"

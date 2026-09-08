@@ -1,0 +1,83 @@
+related_products:
+  title: แผน eSIM ที่คล้ายกัน
+  items:
+    - name: eSIM สหรัฐอเมริกา
+      flag: img/flags/us.svg
+      price: เริ่มต้น $1.99
+      is_highlight: false
+      slug: united-states-esim
+    - name: eSIM จีน
+      flag: img/flags/cn.svg
+      price: เริ่มต้น $1.99
+      is_highlight: false
+      slug: china-esim
+    - name: eSIM เยอรมนี
+      flag: img/flags/de.svg
+      price: เริ่มต้น $1.99
+      is_highlight: false
+      slug: germany-esim
+    - name: eSIM ญี่ปุ่น
+      flag: img/flags/jp.svg
+      price: เริ่มต้น $1.99
+      is_highlight: false
+      slug: japan-esim
+    - name: eSIM สหราชอาณาจักร
+      flag: img/flags/gb.svg
+      price: เริ่มต้น $1.99
+      is_highlight: false
+      slug: united-kingdom-esim
+    - name: eSIM ฝรั่งเศส
+      flag: img/flags/fr.svg
+      price: เริ่มต้น $1.99
+      is_highlight: false
+      slug: france-esim
+    - name: eSIM อิตาลี
+      flag: img/flags/it.svg
+      price: เริ่มต้น $1.99
+      is_highlight: false
+      slug: italy-esim
+    - name: eSIM แคนาดา
+      flag: img/flags/ca.svg
+      price: เริ่มต้น $1.99
+      is_highlight: false
+      slug: canada-esim
+    - name: eSIM บราซิล
+      flag: img/flags/br.svg
+      price: เริ่มต้น $1.99
+      is_highlight: false
+      slug: brazil-esim
+    - name: eSIM สเปน
+      flag: img/flags/es.svg
+      price: เริ่มต้น $1.99
+      is_highlight: false
+      slug: spain-esim
+    - name: eSIM เกาหลีใต้
+      flag: img/flags/kr.svg
+      price: เริ่มต้น $1.99
+      is_highlight: false
+      slug: south-korea-esim
+    - name: eSIM ออสเตรเลีย
+      flag: img/flags/au.svg
+      price: เริ่มต้น $1.99
+      is_highlight: false
+      slug: australia-esim
+    - name: eSIM ตุรกี
+      flag: img/flags/tr.svg
+      price: เริ่มต้น $1.99
+      is_highlight: false
+      slug: turkey-esim
+    - name: eSIM ไต้หวัน
+      flag: img/flags/tw.svg
+      price: เริ่มต้น $1.99
+      is_highlight: false
+      slug: taiwan-esim
+    - name: eSIM สหรัฐอาหรับเอมิเรตส์
+      flag: img/flags/ae.svg
+      price: เริ่มต้น $1.99
+      is_highlight: false
+      slug: united-arab-emirates-esim
+    - name: eSIM ออสเตรีย
+      flag: img/flags/at.svg
+      price: เริ่มต้น $1.99
+      is_highlight: false
+      slug: austria-esim

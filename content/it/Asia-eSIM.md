@@ -36,8 +36,8 @@ why_section:
   cards:
   - icon: globe
     color: blue
-    title: "Passaggio senza interruzioni tra paesi
-    description: Vola da Tokyo a Seul a Bangkok: la tua connessione dati continua a funzionare senza interruzioni. Una tariffa copre tutti i 26 paesi, senza problemi di confine."
+    title: "Passaggio senza interruzioni tra paesi"
+    description: "Vola da Tokyo a Seul a Bangkok: la tua connessione dati continua a funzionare senza interruzioni. Una tariffa copre tutti i 26 paesi, senza problemi di confine."
   - icon: currency
     color: green
     title: Risparmia il 50-70% rispetto alle tariffe nazionali

@@ -1,0 +1,582 @@
+# ปุ่มและป้ายกำกับทั่วไป
+[download_on_the]
+other = "ดาวน์โหลดได้ที่"
+
+[app_store]
+other = "App Store"
+
+[get_it_on]
+other = "รับได้ที่"
+
+[google_play]
+other = "Google Play"
+
+[visit_our]
+other = "เยี่ยมชม"
+
+[official_website]
+other = "เว็บไซต์ทางการ"
+
+[view_plans]
+other = "ดูแพ็กเกจ"
+
+[web]
+other = "เว็บ"
+
+[android]
+other = "Android"
+
+[404_page_not_found]
+other = "404 – ไม่พบหน้า"
+
+[404_message]
+other = "เราไม่พบหน้าที่คุณกำลังมองหา อาจถูกย้ายหรือไม่มีอยู่แล้ว ไม่ต้องกังวล — กลับสู่การเดินทางของคุณกันเถอะ"
+
+[404_back_home]
+other = "กลับหน้าหลัก"
+
+[404_promo_title]
+other = "ข้อเสนอพิเศษสำหรับคุณ"
+
+[404_promo_desc]
+other = "ลด 20% สำหรับการซื้อ eSIM ครั้งแรก"
+
+[404_promo_code]
+other = "web20"
+
+[404_promo_cta]
+other = "รับส่วนลดของคุณ"
+
+[404_promo_note]
+other = "ไม่ต้องลงทะเบียน ใช้ได้สำหรับผู้ใช้ใหม่"
+
+# ข้อความป็อปอัป
+[friendly_reminder]
+other = "อัปเดตบริการ"
+
+[modal_upgrade_desc]
+other = "บริการของเราได้รับการอัปเกรดแล้ว รับโค้ดโปรโมชัน: web20 บนเว็บไซต์ทางการหรือแอปของเรา"
+
+[cancel]
+other = "ยกเลิก"
+
+[proceed]
+other = "ดำเนินการต่อ"
+
+# ปุ่มลอย
+[get_esim_discount]
+other = "รับส่วนลด eSIM 20%"
+
+# หัวข้อและคำอธิบาย FAQ
+[faq_title]
+other = "คำถามที่พบบ่อย"
+
+[faq_desc]
+other = "ทุกสิ่งที่คุณต้องรู้เกี่ยวกับบริการ eSIM ทั่วโลกของเรา"
+
+# ข้อความเพิ่มเติม (อาจไม่ได้ใช้)
+[modal_title_ios]
+other = "อัปเดตบริการ"
+
+[modal_text_ios]
+other = "คุณจะถูกเปลี่ยนเส้นทางไปยังแอปทางการเพื่อรับโค้ดส่วนลด"
+
+[tldr_summary_title]
+other = "สรุปย่อสำหรับนักเดินทาง"
+
+[modal_cancel]
+other = "ยกเลิก"
+
+[modal_continue]
+other = "ดำเนินการต่อ"
+
+[global_connectivity_expert]
+other = "ผู้เชี่ยวชาญด้านการเชื่อมต่อทั่วโลก"
+
+[structured_data_org_description]
+other = "ผู้ให้บริการ eSIM ทั่วโลกมืออาชีพ ให้บริการข้อมูลความเร็วสูงโรมมิ่งใน 200 ประเทศ"
+
+[structured_data_product_description]
+other = "แพ็กเกจ eSIM สำหรับการเดินทางแบบเติมเงินใน 200+ ประเทศ พร้อมเปิดใช้งานทันทีและอินเทอร์เน็ตความเร็วสูง 5G/4G"
+
+[structured_data_faq1_question]
+other = "วิธีซื้อ eSIM สหรัฐอเมริกา?"
+
+[structured_data_faq1_answer]
+other = "หากต้องการซื้อ eSIM สหรัฐอเมริกา เพียงดาวน์โหลดแอป Roami เลือกสหรัฐอเมริกาเป็นปลายทาง เลือกแพ็กเกจข้อมูลที่เหมาะสม และดำเนินการซื้อ เปิดใช้งานทันที"
+
+[structured_data_faq2_question]
+other = "วิธีซื้อ eSIM ญี่ปุ่นออนไลน์?"
+
+[structured_data_faq2_answer]
+other = "การซื้อ eSIM ญี่ปุ่นทำได้ง่ายด้วย Roami ค้นหาญี่ปุ่นในแอปของเรา เลือกแพ็กเกจข้อมูล 5G/4G ที่คุณชอบ และติดตั้งผ่าน QR code หรือการเปิดใช้งานเพียงคลิกเดียวก่อนเดินทาง"
+
+[structured_data_faq3_question]
+other = "วิธีรับ eSIM สำหรับยุโรป สหราชอาณาจักร หรือฝรั่งเศส?"
+
+[structured_data_faq3_answer]
+other = "Roami มี eSIM ระดับภูมิภาคสำหรับยุโรป รวมถึงแผนเฉพาะสำหรับสหราชอาณาจักร ฝรั่งเศส อิตาลี เยอรมนี และสเปน เพียงเลือกปลายทางในแอปเพื่อเชื่อมต่อทันทีโดยไม่มีค่าโรมมิ่ง"
+
+[structured_data_faq4_question]
+other = "ทำไมต้องเลือก Roami แทน Airalo, Nomad, Holafly หรือ Ubigi?"
+
+[structured_data_faq4_answer]
+other = "แม้ว่า Airalo, Nomad eSIM, Holafly, Saily eSIM, Yesim, MobiMatter และ GigSky จะเป็นตัวเลือก แต่ Roami ให้ราคาที่แข่งขันได้เริ่มต้นที่ $1.99 การสนับสนุนแบบมนุษย์ 24/7 และนโยบายคืนเงินแบบไร้กังวลสำหรับ 200+ ประเทศ"
+
+[software_description]
+other = "ผู้ให้บริการ eSIM ทั่วโลกสำหรับการเชื่อมต่อการเดินทางความเร็วสูง"
+
+[last_updated]
+other = "อัปเดตล่าสุด"
+
+[select_language]
+other = "เลือกภาษา"
+
+[language]
+other = "ภาษา"
+
+[close]
+other = "ปิด"
+
+[fifa_title_line1]
+other = "การเชื่อมต่อไร้รอยต่อ"
+
+[fifa_title_line2]
+other = "ฟุตบอลโลก 2026™"
+
+[fifa_desc]
+other = "eSIM การเดินทางระดับโลกเสริมพลังการเดินทางของคุณในทุกเมืองเจ้าภาพ เชื่อมต่ออยู่เสมอ แบ่งปันทุกช่วงเวลา"
+
+[fifa_guide_text]
+other = "✈️ เดินทางไร้พรมแดน — รับ eSIM ของคุณตอนนี้"
+
+[fifa_card1_title]
+other = "ไม่มีค่าโรมมิ่ง"
+
+[fifa_card1_desc]
+other = "จ่ายในราคาท้องถิ่น"
+
+[fifa_card2_title]
+other = "ซิมเดียว 3 ประเทศ"
+
+[fifa_card2_desc]
+other = "สหรัฐอเมริกา · แคนาดา · เม็กซิโก"
+
+[fifa_card3_title]
+other = "เปิดใช้งานทันที"
+
+[fifa_card3_desc]
+other = "พร้อมก่อนบิน"
+
+[fifa_country_canada]
+other = "🇨🇦 แคนาดา"
+
+[fifa_country_mexico]
+other = "🇲🇽 เม็กซิโก"
+
+[fifa_country_usa]
+other = "🇺🇸 สหรัฐอเมริกา"
+
+[fifa_5g]
+other = "⚡ รองรับ 5G"
+
+[fifa_button]
+other = "รับ eSIM ฟุตบอลโลก"
+
+[premium_coverage]
+other = "ครอบคลุมพรีเมียม"
+
+[regional_plans_title]
+other = "แผนระดับภูมิภาคและทั่วโลก"
+
+[regional_subtitle]
+other = "เดินทางหลายประเทศด้วย eSIM เดียว — ไม่ต้องเปลี่ยนซิม เปิดใช้งานทันที และประหยัด 30% เมื่อเทียบกับค่าโรมมิ่ง"
+
+[faq_title2]
+other = "คำถามที่พบบ่อยเกี่ยวกับความเข้ากันได้ของ eSIM"
+
+[breadcrumb_home]
+other = "หน้าแรก"
+
+[breadcrumb_blog]
+other = "บล็อก"
+
+[breadcrumb_separator]
+other = "/"
+
+[minutes_read]
+other = "นาทีในการอ่าน"
+
+[table_of_contents]
+other = "📑 สารบัญ"
+
+[you_might_also_like]
+other = "🔗 คุณอาจชอบ"
+
+[popular_destinations]
+other = "ปลายทาง eSIM ยอดนิยม"
+
+[promo_limited_offer]
+other = "🔥 ข้อเสนอจำกัด 🔥"
+
+[promo_use_code]
+other = "ใช้โค้ด"
+
+[promo_checkout]
+other = "⭐ ป้อนโค้ดที่หน้าชำระเงินเพื่อรับส่วนลด ⭐"
+
+[promo_stats_text]
+other = "ร่วมกับนักเดินทางกว่า 1 ล้านคนที่เปลี่ยนมาใช้ Roami 5G ใน {{ .Countries }} ประเทศ แผนเริ่มต้นที่ ${{ .Price }} เปิดใช้งานทันที"
+
+[region_country_title]
+other = "eSIM {{ .RegionName }} ใช้งานได้ใน {{ .TotalCountries }} ประเทศ"
+
+[coverage_stats_text]
+other = """
+eSIM เดียวเชื่อมต่อกับเครือข่ายท้องถิ่นที่แข็งแกร่งที่สุดในทุกประเทศโดยอัตโนมัติ
+<strong class="text-orange-600">{{ .FiveGCount }} ประเทศมี 5G</strong>
+{{ .FourGCount }} ประเทศมี 4G/LTE ที่เสถียร
+แตะประเทศใดก็ได้เพื่อดูคำแนะนำการตั้งค่าและรายละเอียดผู้ให้บริการ
+"""
+
+[powered_by_operators]
+other = "ขับเคลื่อนโดยผู้ให้บริการมือถือรายใหญ่ที่สุดของ {{ .RegionName }}"
+
+[auto_switch_carriers]
+other = """
+eSIM Roami ของคุณสลับระหว่าง <strong class="text-orange-600">{{ .CarrierCount }}+ ผู้ให้บริการ</strong> โดยอัตโนมัติเพื่อสัญญาณที่ดีที่สุด
+"""
+
+[network_partners_label]
+other = "พันธมิตรเครือข่าย"
+
+[premium_carrier_partners_title]
+other = "พันธมิตรผู้ให้บริการพรีเมียม {{ .Count }}+ ราย"
+
+[network_partners_description]
+other = "eSIM Roami ของคุณเชื่อมต่อกับเครือข่ายท้องถิ่นที่ดีที่สุดโดยอัตโนมัติ ไม่ต้องสลับด้วยตนเอง"
+
+[esim_auto_connect]
+other = "หนึ่งในผู้ให้บริการรายใหญ่ที่สุดของ {{ .HQ }} eSIM ของคุณเชื่อมต่ออัตโนมัติ{{ .CountriesSuffix }}"
+
+[carrier_roaming_title]
+other = "การโรมมิ่งของผู้ให้บริการของคุณ"
+
+[carrier_roaming_badge]
+other = "ค่าธรรมเนียมแอบแฝง"
+
+[carrier_roaming_estimate]
+other = "ประมาณการสำหรับทริป 2 สัปดาห์"
+
+[roami_title]
+other = "Roami {{ .RegionName }} eSIM"
+
+[roami_badge]
+other = "คุ้มค่าที่สุด"
+
+[roami_price_label]
+other = "เริ่มต้น $1.99"
+
+[roami_plan_description]
+other = "แผนเติมเงินเริ่มต้น $5 สำหรับทริปเต็ม"
+
+[esim_vs_carrier_roaming]
+other = "eSIM {{ .RegionName }} เทียบกับการโรมมิ่งของผู้ให้บริการ"
+
+[heading_beyond_region]
+other = "เดินทางต่อนอก {{ .RegionName }}?"
+
+[try_free_button]
+other = "ลอง eSIM ฟรี"
+
+[regionQuestionsTitle]
+other = "eSIM {{ .RegionName }}: คำถามที่นักเดินทางถาม"
+
+[stats]
+countries = "ประเทศ"
+carriers = "ผู้ให้บริการ"
+coverage_5g = "ครอบคลุม 5G"
+
+[home]
+other = "หน้าแรก"
+
+[carriers]
+other = "ผู้ให้บริการ eSIM"
+
+[banner_official]
+other = "ทางการ"
+
+[banner_discount_desc]
+other = "ลด 20% สำหรับข้อมูลทั่วโลก"
+
+[banner_rating]
+other = "4.8 (รีวิว 2.1k)"
+
+[banner_cta]
+other = "รับเลย"
+
+[discount_title]
+other = "ข้อเสนอจำกัดเวลา"
+
+[discount_code_label]
+other = "โค้ดโปรโมชัน"
+
+[discount_new_user]
+other = "ลด 20% สำหรับผู้ใช้ใหม่"
+
+[discount_today]
+other = "รับวันนี้"
+
+[discount_today_num]
+other = "500 - 1000"
+
+[discount_remaining]
+other = "เหลือ"
+
+[discount_remaining_num]
+other = "5 - 10"
+
+[discount_cancel]
+other = "ยกเลิก"
+
+[discount_claim]
+other = "รับเลย"
+
+[vp_5g_badge]
+other = "5G"
+
+[vp_same]
+other = "เดียวกัน"
+
+[vp_network]
+other = "เครือข่าย 5G"
+
+[vp_compare]
+other = ", สูงสุด"
+
+[vp_cheaper]
+other = "ถูกกว่า eSIM อื่น"
+
+[vp_percent]
+other = "30%"
+
+[vp_save_tag]
+other = "🔥 ประหยัดมากขึ้น"
+
+[compare_title]
+other = "เปรียบเทียบ eSIM ฟรี: Roami vs Airalo vs Holafly – ใครให้ทดลองใช้ฟรีดีที่สุด?"
+
+[compare_subtitle]
+other = "เปรียบเทียบอย่างตรงไปตรงมา — ดูว่านักเดินทางเลือก Roami สำหรับทดลอง eSIM ฟรี"
+
+[compare_col_feature]
+other = "คุณสมบัติ"
+
+[compare_col_roami]
+other = "Roami"
+
+[compare_col_airalo]
+other = "Airalo"
+
+[compare_col_holafly]
+other = "Holafly"
+
+[compare_row_trial]
+other = "ทดลองใช้ฟรี"
+
+[compare_roami_trial]
+other = "✅ 100MB"
+
+[compare_airalo_trial]
+other = "❌"
+
+[compare_holafly_trial]
+other = "❌"
+
+[compare_row_card]
+other = "ต้องใช้บัตรเครดิต"
+
+[compare_roami_card]
+other = "✅ ไม่ต้อง"
+
+[compare_airalo_card]
+other = "ต้องใช้"
+
+[compare_holafly_card]
+other = "ต้องใช้"
+
+[compare_row_coverage]
+other = "ครอบคลุม"
+
+[compare_roami_coverage]
+other = "200+ ประเทศ"
+
+[compare_airalo_coverage]
+other = "200+ ประเทศ"
+
+[compare_holafly_coverage]
+other = "200+ ประเทศ"
+
+[compare_row_paid]
+other = "แผนแบบชำระเงินเริ่มต้น"
+
+[compare_roami_paid]
+other = "$1.99"
+
+[compare_airalo_paid]
+other = "$4.50"
+
+[compare_holafly_paid]
+other = "$5.90"
+
+[compare_row_support]
+other = "การสนับสนุนสด"
+
+[compare_roami_support]
+other = "✅ 24/7"
+
+[compare_airalo_support]
+other = "—"
+
+[compare_holafly_support]
+other = "✅ 24/7"
+
+[brand_reminder]
+other = "แบรนด์ eSIM ของเราคือ roami ไม่ใช่ roamic โปรดสังเกต"
+
+[roami_free_section_title]
+other = "ทดลองใช้ Roami ฟรี"
+
+[roami_free_section_heading]
+other = "ทดลอง eSIM ฟรี – 7 วัน / 100MB ไม่ต้องใช้บัตรเครดิต"
+
+[roami_free_section_desc]
+other = "แพ็กเกจข้อมูลฉุกเฉินน้ำหนักเบาสำหรับนักเดินทาง เปิดใช้งานเมื่อ到達 <strong>ไม่ต้องใช้ข้อมูลการชำระเงิน</strong> และไม่มีกับดักการต่ออายุอัตโนมัติ"
+
+[roami_compare_col_feature]
+other = "คุณสมบัติ"
+
+[roami_compare_col_roami]
+other = "Roami"
+
+[roami_compare_col_att]
+other = "AT&T"
+
+[roami_compare_col_tmobile]
+other = "T‑Mobile"
+
+[roami_compare_col_verizon]
+other = "Verizon"
+
+[roami_compare_row_trial]
+other = "ทดลองใช้ฟรี"
+
+[roami_compare_row_card]
+other = "ต้องใช้บัตรเครดิต"
+
+[roami_compare_row_auto]
+other = "ต่ออายุอัตโนมัติ"
+
+[roami_compare_row_coverage]
+other = "จำนวนประเทศที่ครอบคลุม"
+
+[roami_compare_row_support]
+other = "สนับสนุน 24/7"
+
+[roami_compare_roami_trial]
+other = "7 วัน / 100MB"
+
+[roami_compare_roami_card]
+other = "❌ ไม่ต้อง"
+
+[roami_compare_roami_auto]
+other = "❌ ไม่มี"
+
+[roami_compare_roami_coverage]
+other = "200+"
+
+[roami_compare_roami_support]
+other = "✅ สนับสนุนออนไลน์"
+
+[roami_compare_att_trial]
+other = "ต้องใช้บัตรเครดิต"
+
+[roami_compare_att_card]
+other = "✅ ต้องระบุ"
+
+[roami_compare_att_auto]
+other = "✅ หักเงินอัตโนมัติหลังทดลอง"
+
+[roami_compare_att_coverage]
+other = "จำกัด (เฉพาะสหรัฐฯ)"
+
+[roami_compare_att_support]
+other = "❌ จำกัด"
+
+[roami_compare_tmobile_trial]
+other = "ต้องใช้บัตรเครดิต"
+
+[roami_compare_tmobile_card]
+other = "✅ ต้องระบุ"
+
+[roami_compare_tmobile_auto]
+other = "✅ หักเงินอัตโนมัติหลังทดลอง"
+
+[roami_compare_tmobile_coverage]
+other = "จำกัด (เฉพาะสหรัฐฯ)"
+
+[roami_compare_tmobile_support]
+other = "❌ จำกัด"
+
+[roami_compare_verizon_trial]
+other = "ต้องใช้บัตรเครดิต"
+
+[roami_compare_verizon_card]
+other = "✅ ต้องระบุ"
+
+[roami_compare_verizon_auto]
+other = "✅ หักเงินอัตโนมัติหลังทดลอง"
+
+[roami_compare_verizon_coverage]
+other = "จำกัด (เฉพาะสหรัฐฯ)"
+
+[roami_compare_verizon_support]
+other = "❌ จำกัด"
+
+[esim_free_trial]
+other = "ทดลอง eSIM ฟรี"
+
+# ===== คู่มือ 3 ขั้นตอน =====
+[steps_title]
+other = "วิธีรับ eSIM ฟรีใน 3 ขั้นตอนง่ายๆ"
+
+[steps_desc]
+other = "ไม่ต้องใช้บัตรเครดิต ไม่มีข้อผูกมัด – เพียง QR code eSIM ฟรีเพื่อเริ่มทดสอบทันที"
+
+[step1_title]
+other = "เลือกประเทศของคุณ"
+
+[step1_desc]
+other = "เลือกปลายทางจากรายการด้านล่าง – เรามี eSIM ทดลองฟรีสำหรับ 200+ ประเทศ"
+
+[step2_title]
+other = "รับสิทธิ์ทดลองฟรี"
+
+[step2_desc]
+other = "คลิก \"รับทดลองฟรี\" – ไม่ต้องใช้บัตรเครดิต เราจะส่ง QR code eSIM ฟรีให้คุณทันที"
+
+[step3_title]
+other = "สแกนและเชื่อมต่อ"
+
+[step3_desc]
+other = "สแกน QR code ด้วยกล้องโทรศัพท์ ปฏิบัติตามขั้นตอนการตั้งค่า และเพลิดเพลินกับข้อมูลฟรี 100MB"
+
+# ===== ส่วน ทำไมต้อง Roami =====
+[why_title]
+other = "ทำไม Roami ถึงเป็นผู้ให้บริการ eSIM ฟรีที่ดีที่สุดในปี 2026"
+
+[why_p1]
+other = '''เมื่อค้นหา <strong>eSIM ฟรี</strong> คุณต้องการตัวเลือกที่เชื่อถือได้ รวดเร็ว และไม่เสียค่าใช้จ่ายจริงๆ Roami มอบสิ่งนั้นอย่างตรงไปตรงมา – ด้วย <strong>eSIM ทดลองฟรี</strong> ที่รวม <strong>ข้อมูล 100MB</strong> <strong>ไม่ต้องใช้บัตรเครดิต</strong> และครอบคลุม <strong>กว่า 200 ประเทศ</strong> ต่างจากคู่แข่งหลายราย เราไม่ล็อกคุณในแผนสมาชิกหรือขอรายละเอียดการชำระเงินล่วงหน้า'''
+
+[why_p2]
+other = '''<strong>QR code eSIM ฟรี</strong> ของเราถูกสร้างขึ้นทันทีและส่งไปยังอีเมลของคุณ ดังนั้นคุณสามารถตั้งค่าอุปกรณ์ได้ในไม่กี่นาที ไม่ว่าคุณจะเป็นนักเดินทางประจำหรือแค่ต้องการทดสอบเทคโนโลยี eSIM Roami มอบ <strong>ประสบการณ์ eSIM ฟรีที่ดีที่สุด</strong> ด้วยความเร็ว 4G/5G การสนับสนุน 24/7 และราคาที่โปร่งใสสำหรับแผนแบบชำระเงินหากคุณต้องการข้อมูลเพิ่มเติม'''
