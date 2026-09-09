@@ -71,7 +71,7 @@ features:
     desc: เชื่อมต่ออัตโนมัติกับผู้ให้บริการชั้นนำในบาฮามาสเพื่อสัญญาณที่ดีที่สุด
 plans_title: 'ซื้อ eSIM บาฮามาส: แพ็กเกจสำหรับทุกระยะเวลาการเดินทาง'
 plans_data:
-  30 Days:
+  30 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับทริปธุรกิจระยะสั้น
@@ -97,7 +97,7 @@ plans_data:
     tag: คุ้มค่ามาก
     tagColor: bg-emerald-500
     daily: '2.27'
-  15 Days:
+  15 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเที่ยวชมสถานที่
@@ -107,7 +107,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '2.80'
     tagIcon: star
-  7 Days:
+  7 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับทริปธุรกิจระยะสั้น

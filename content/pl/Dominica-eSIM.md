@@ -73,7 +73,7 @@ features:
     desc: Automatyczne łączenie z najlepszymi operatorami na Dominice dla najlepszego sygnału
 plans_title: 'Kup eSIM Dominika: Plany na każdy czas podróży'
 plans_data:
-  15 Days:
+  15 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -91,7 +91,7 @@ plans_data:
     tag: Świetna wartość
     tagColor: bg-emerald-500
     daily: '2.53'
-  30 Days:
+  30 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -109,7 +109,7 @@ plans_data:
     tag: Świetna wartość
     tagColor: bg-emerald-500
     daily: '1.30'
-  7 Days:
+  7 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na krótkie podróże służbowe
@@ -118,7 +118,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.71'
-  3 Days:
+  3 dni:
   - spec: Nielimitowany
     data: Nielimitowana szybka transmisja
     desc: Korzystanie z danych bez zmartwień

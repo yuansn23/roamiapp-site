@@ -71,7 +71,7 @@ features:
     desc: เชื่อมต่ออัตโนมัติกับผู้ให้บริการชั้นนำในจีนเพื่อสัญญาณที่ดีที่สุด
 plans_title: 'ซื้อ eSIM จีน: แพ็กเกจสำหรับทุกระยะเวลาการเดินทาง'
 plans_data:
-  30 Days:
+  30 วัน:
   - spec: 20GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการเดินทางของคุณ
@@ -121,7 +121,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.00'
-  7 Days:
+  7 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเที่ยวชมสถานที่
@@ -163,7 +163,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.28'
-  3 Days:
+  3 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับทริปธุรกิจระยะสั้น
@@ -197,7 +197,7 @@ plans_data:
     tag: คุ้มค่ามาก
     tagColor: bg-emerald-500
     daily: '2.66'
-  15 Days:
+  15 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเที่ยวชมสถานที่

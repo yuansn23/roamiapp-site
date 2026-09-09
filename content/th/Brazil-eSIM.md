@@ -75,7 +75,7 @@ features:
     desc: 'ซิมท้องถิ่นเสียสัญญาณนอกบราซิล — Roami ใช้งานได้ทั่วอเมริกาใต้'
 plans_title: 'ซื้อ eSIM บราซิล: แพ็กเกจสำหรับทุกระยะเวลาการเดินทาง'
 plans_data:
-  3 Days:
+  3 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเว็บเบาๆ แผนที่ และข้อความ
@@ -117,7 +117,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '11.00'
-  7 Days:
+  7 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเว็บเบาๆ แผนที่ และข้อความ
@@ -167,7 +167,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '9.57'
-  15 Days:
+  15 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการนำทางประจำวันและโซเชียลมีเดีย
@@ -209,7 +209,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '5.60'
-  30 Days:
+  30 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการนำทางประจำวันและโซเชียลมีเดีย

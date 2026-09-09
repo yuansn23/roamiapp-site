@@ -71,7 +71,7 @@ features:
     desc: เชื่อมต่ออัตโนมัติกับผู้ให้บริการชั้นนำของคอสตาริกาเพื่อสัญญาณที่ดีที่สุด
 plans_title: 'ซื้อ eSIM คอสตาริกา: แผนสำหรับทุกระยะการเดินทาง'
 plans_data:
-  7 Days:
+  7 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับทริปธุรกิจระยะสั้น
@@ -121,7 +121,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '10.43'
-  30 Days:
+  30 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเที่ยวชมสถานที่
@@ -163,7 +163,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.33'
-  15 Days:
+  15 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเที่ยวชมสถานที่
@@ -197,7 +197,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '5.27'
-  3 Days:
+  3 วัน:
   - spec: Unlimited
     data: ไม่จำกัดความเร็วสูง
     desc: ใช้งานข้อมูลได้แบบไม่ต้องกังวล

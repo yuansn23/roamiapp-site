@@ -71,7 +71,7 @@ features:
     desc: Tự động kết nối với nhà mạng Ireland hàng đầu để có tín hiệu tốt nhất
 plans_title: 'Mua eSIM Ireland: Gói cước cho mọi thời gian chuyến đi'
 plans_data:
-  7 Days:
+  7 Ngày:
   - spec: 20GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho chuyến đi của bạn
@@ -121,7 +121,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '0.71'
     tagIcon: star
-  3 Days:
+  3 Ngày:
   - spec: 1GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho chuyến công tác ngắn
@@ -163,7 +163,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '1.33'
     tagIcon: star
-  30 Days:
+  30 Ngày:
   - spec: 20GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho chuyến đi của bạn
@@ -237,7 +237,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '2.60'
-  15 Days:
+  15 Ngày:
   - spec: Không giới hạn
     data: Không giới hạn tốc độ cao
     desc: Sử dụng dữ liệu không lo lắng

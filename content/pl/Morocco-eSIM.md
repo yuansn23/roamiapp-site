@@ -71,7 +71,7 @@ features:
     desc: Automatyczne łączenie z najlepszymi operatorami w Maroku dla optymalnego sygnału
 plans_title: 'Kup Maroko eSIM: Plany na każdy czas trwania podróży'
 plans_data:
-  7 Days:
+  7 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na krótkie podróże służbowe
@@ -121,7 +121,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '5.57'
-  30 Days:
+  30 dni:
   - spec: 20GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na Twoją podróż
@@ -171,7 +171,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.07'
-  15 Days:
+  15 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -221,7 +221,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '3.87'
-  3 Days:
+  3 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na krótkie podróże służbowe

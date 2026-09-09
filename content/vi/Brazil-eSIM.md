@@ -75,7 +75,7 @@ features:
     desc: SIM địa phương mất tín hiệu ngoài Brazil — Roami hoạt động trên khắp Nam Mỹ
 plans_title: 'Mua eSIM Brazil: Gói cước cho mọi thời gian chuyến đi'
 plans_data:
-  3 Days:
+  3 Ngày:
   - spec: 1GB
     data: 5G/4G/LTE tốc độ cao
     desc: Lý tưởng cho lướt web nhẹ, bản đồ & nhắn tin
@@ -117,7 +117,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '11.00'
-  7 Days:
+  7 Ngày:
   - spec: 1GB
     data: 5G/4G/LTE tốc độ cao
     desc: Lý tưởng cho lướt web nhẹ, bản đồ & nhắn tin
@@ -167,7 +167,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '9.57'
-  15 Days:
+  15 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Tuyệt vời cho điều hướng hàng ngày & mạng xã hội
@@ -209,7 +209,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '5.60'
-  30 Days:
+  30 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Tuyệt vời cho điều hướng hàng ngày & mạng xã hội

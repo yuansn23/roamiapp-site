@@ -71,7 +71,7 @@ features:
     desc: Tự động kết nối với nhà mạng hàng đầu Canada để có tín hiệu tốt nhất
 plans_title: 'Mua eSIM Canada: Gói cước cho mọi thời gian chuyến đi'
 plans_data:
-  7 Days:
+  7 Ngày:
   - spec: 1GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho chuyến công tác ngắn
@@ -129,7 +129,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '7.28'
-  15 Days:
+  15 Ngày:
   - spec: 5GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho du lịch chuyên sâu
@@ -179,7 +179,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '3.33'
-  30 Days:
+  30 Ngày:
   - spec: 5GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho du lịch chuyên sâu
@@ -237,7 +237,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.10'
-  3 Days:
+  3 Ngày:
   - spec: 10GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho du lịch chuyên sâu

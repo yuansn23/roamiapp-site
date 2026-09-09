@@ -74,7 +74,7 @@ features:
     desc: Automatyczne łączenie z najlepszymi operatorami w Czarnogórze dla najlepszego sygnału
 plans_title: 'Kup eSIM Czarnogóra: Plany na każdy czas podróży'
 plans_data:
-  3 Days:
+  3 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na krótkie podróże służbowe
@@ -116,7 +116,7 @@ plans_data:
     tag: Świetna wartość
     tagColor: bg-emerald-500
     daily: '4.00'
-  30 Days:
+  30 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -158,7 +158,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.63'
-  15 Days:
+  15 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -192,7 +192,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.87'
-  7 Days:
+  7 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na krótkie podróże służbowe

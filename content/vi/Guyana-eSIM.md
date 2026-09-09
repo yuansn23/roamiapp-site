@@ -71,7 +71,7 @@ features:
     desc: Tự động kết nối với nhà mạng Guyana hàng đầu để có tín hiệu tốt nhất
 plans_title: 'Mua eSIM Guyana: Gói cước cho mọi thời gian chuyến đi'
 plans_data:
-  15 Days:
+  15 Ngày:
   - spec: 6GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho chuyến đi của bạn
@@ -80,7 +80,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.27'
-  7 Days:
+  7 Ngày:
   - spec: 1GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho chuyến công tác ngắn
@@ -89,7 +89,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.43'
-  30 Days:
+  30 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan

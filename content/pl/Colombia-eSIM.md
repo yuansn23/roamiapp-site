@@ -74,7 +74,7 @@ features:
     desc: Automatyczne łączenie z najlepszymi operatorami w Kolumbii dla najlepszego sygnału
 plans_title: 'Kup eSIM Kolumbia: Plany na każdy czas podróży'
 plans_data:
-  7 Days:
+  7 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na krótkie podróże służbowe
@@ -116,7 +116,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '7.43'
-  30 Days:
+  30 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -166,7 +166,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.90'
-  3 Days:
+  3 dni:
   - spec: Nielimitowany
     data: Nielimitowana szybka transmisja
     desc: Korzystanie z danych bez zmartwień
@@ -208,7 +208,7 @@ plans_data:
     tag: Świetna wartość
     tagColor: bg-emerald-500
     daily: '7.33'
-  15 Days:
+  15 dni:
   - spec: 5GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do dogłębnego zwiedzania

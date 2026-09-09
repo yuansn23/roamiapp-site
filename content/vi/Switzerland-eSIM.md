@@ -75,7 +75,7 @@ features:
     desc: 5G/4G tại Jungfraujoch, Zermatt, Interlaken và tất cả các khu trượt tuyết lớn
 plans_title: 'Mua eSIM Thụy Sĩ: Gói cho mọi thời gian chuyến đi'
 plans_data:
-  3 Days:
+  3 Ngày:
   - spec: 1GB
     data: 5G/4G/LTE tốc độ cao
     desc: Lý tưởng cho duyệt web nhẹ, lịch trình SBB & nhắn tin
@@ -117,7 +117,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '4.33'
-  7 Days:
+  7 Ngày:
   - spec: 1GB
     data: 5G/4G/LTE tốc độ cao
     desc: Lý tưởng cho duyệt web nhẹ, lịch trình SBB & nhắn tin
@@ -167,7 +167,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '3.28'
-  15 Days:
+  15 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Tuyệt vời cho điều hướng hàng ngày & mạng xã hội
@@ -217,7 +217,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '2.60'
-  30 Days:
+  30 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Tuyệt vời cho điều hướng hàng ngày & mạng xã hội

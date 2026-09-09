@@ -71,7 +71,7 @@ features:
     desc: Tự động kết nối với nhà mạng hàng đầu Tajikistan để có tín hiệu tốt nhất
 plans_title: 'Mua eSIM Tajikistan: Gói cước cho mọi thời gian lưu trú'
 plans_data:
-  7 Days:
+  7 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan
@@ -113,7 +113,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '6.43'
-  15 Days:
+  15 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan
@@ -147,7 +147,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '6.33'
-  30 Days:
+  30 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan
@@ -173,7 +173,7 @@ plans_data:
     tag: Giá trị tốt
     tagColor: bg-emerald-500
     daily: '0.80'
-  3 Days:
+  3 Ngày:
   - spec: Không giới hạn
     data: Dữ liệu không giới hạn tốc độ cao
     desc: Sử dụng dữ liệu không lo nghĩ

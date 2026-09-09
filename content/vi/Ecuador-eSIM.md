@@ -71,7 +71,7 @@ features:
     desc: Tự động kết nối với nhà mạng Ecuador hàng đầu để có tín hiệu tốt nhất
 plans_title: 'Mua eSIM Ecuador: Gói cước cho mọi thời gian chuyến đi'
 plans_data:
-  7 Days:
+  7 Ngày:
   - spec: 1GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho chuyến công tác ngắn
@@ -121,7 +121,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '9.71'
-  15 Days:
+  15 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan
@@ -163,7 +163,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '6.67'
-  30 Days:
+  30 Ngày:
   - spec: 20GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho chuyến đi của bạn
@@ -205,7 +205,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.57'
-  3 Days:
+  3 Ngày:
   - spec: Không giới hạn
     data: Không giới hạn tốc độ cao
     desc: Sử dụng dữ liệu không lo lắng

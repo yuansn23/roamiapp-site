@@ -74,7 +74,7 @@ features:
     desc: Automatyczne łączenie z najlepszymi operatorami w Kazachstanie dla najlepszego sygnału
 plans_title: 'Kup eSIM Kazachstan: Plany na każdy czas podróży'
 plans_data:
-  30 Days:
+  30 dni:
   - spec: 30GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na Twoją podróż
@@ -124,7 +124,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.23'
-  7 Days:
+  7 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -174,7 +174,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.57'
-  15 Days:
+  15 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -224,7 +224,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.27'
-  3 Days:
+  3 dni:
   - spec: Nielimitowany
     data: Nielimitowana szybka transmisja
     desc: Korzystanie z danych bez zmartwień

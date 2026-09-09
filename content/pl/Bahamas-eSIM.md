@@ -73,7 +73,7 @@ features:
     desc: Automatyczne łączenie z najlepszymi operatorami na Bahamach dla najlepszego sygnału
 plans_title: 'Kup eSIM Bahamy: Plany na każdy czas podróży'
 plans_data:
-  30 Days:
+  30 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na krótkie podróże służbowe
@@ -99,7 +99,7 @@ plans_data:
     tag: Świetna wartość
     tagColor: bg-emerald-500
     daily: '2.27'
-  15 Days:
+  15 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -109,7 +109,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '2.80'
     tagIcon: star
-  7 Days:
+  7 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na krótkie podróże służbowe

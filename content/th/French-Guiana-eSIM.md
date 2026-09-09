@@ -71,7 +71,7 @@ features:
     desc: เชื่อมต่ออัตโนมัติกับผู้ให้บริการชั้นนำของเฟรนช์เกียนาเพื่อสัญญาณที่ดีที่สุด
 plans_title: 'ซื้อ eSIM เฟรนช์เกียนา: แผนสำหรับทุกระยะการเดินทาง'
 plans_data:
-  15 Days:
+  15 วัน:
   - spec: 5GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการเดินทางแบบเจาะลึก
@@ -88,7 +88,7 @@ plans_data:
     tag: คุ้มค่ามาก
     tagColor: bg-emerald-500
     daily: '1.33'
-  30 Days:
+  30 วัน:
   - spec: 5GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการเดินทางแบบเจาะลึก
@@ -130,7 +130,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.27'
-  7 Days:
+  7 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับทริปธุรกิจระยะสั้น
@@ -147,7 +147,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '9.57'
-  3 Days:
+  3 วัน:
   - spec: Unlimited
     data: ไม่จำกัดความเร็วสูง
     desc: ใช้งานข้อมูลได้แบบไม่ต้องกังวล

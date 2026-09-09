@@ -75,7 +75,7 @@ features:
     desc: Phủ sóng 4G/5G dọc theo Ring Road — luôn kết nối từ Reykjavik đến Akureyri
 plans_title: 'Mua eSIM Iceland: Gói cước cho mọi thời gian chuyến đi'
 plans_data:
-  3 Days:
+  3 Ngày:
   - spec: 1GB
     data: 5G/4G/LTE tốc độ cao
     desc: Lý tưởng cho duyệt web nhẹ, bản đồ và nhắn tin
@@ -117,7 +117,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '3.33'
-  7 Days:
+  7 Ngày:
   - spec: 1GB
     data: 5G/4G/LTE tốc độ cao
     desc: Lý tưởng cho duyệt web nhẹ, bản đồ và nhắn tin
@@ -167,7 +167,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '3.00'
-  15 Days:
+  15 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Tuyệt vời cho điều hướng hàng ngày và mạng xã hội
@@ -217,7 +217,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '2.87'
-  30 Days:
+  30 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Tuyệt vời cho điều hướng hàng ngày và mạng xã hội

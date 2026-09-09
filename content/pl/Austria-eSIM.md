@@ -71,7 +71,7 @@ features:
     desc: Automatyczne łączenie z najlepszymi operatorami w Austrii dla optymalnego sygnału
 plans_title: 'Kup Austria eSIM: Plany na każdy czas trwania podróży'
 plans_data:
-  30 Days:
+  30 dni:
   - spec: 20GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na Twoją podróż
@@ -145,7 +145,7 @@ plans_data:
     tag: Świetna wartość
     tagColor: bg-emerald-500
     daily: '0.27'
-  7 Days:
+  7 dni:
   - spec: Unlimited
     data: Nielimitowane szybkie dane
     desc: Korzystanie bez obaw o zużycie
@@ -195,7 +195,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.14'
-  15 Days:
+  15 dni:
   - spec: Unlimited
     data: Nielimitowane szybkie dane
     desc: Korzystanie bez obaw o zużycie
@@ -245,7 +245,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.87'
-  3 Days:
+  3 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na krótkie podróże służbowe

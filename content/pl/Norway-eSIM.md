@@ -71,7 +71,7 @@ features:
     desc: Automatyczne łączenie z Telenor, Telia i Ice dla najlepszego sygnału w całej Norwegii
 plans_title: 'Kup eSIM Norwegia: Plany na każdy czas podróży'
 plans_data:
-  3 Days:
+  3 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do lekkiego przeglądania, map i komunikacji
@@ -113,7 +113,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '4.66'
-  7 Days:
+  7 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do lekkiego przeglądania, map i komunikacji
@@ -163,7 +163,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.28'
-  15 Days:
+  15 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Świetne do codziennej nawigacji i mediów społecznościowych
@@ -213,7 +213,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.87'
-  30 Days:
+  30 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Świetne do codziennej nawigacji i mediów społecznościowych

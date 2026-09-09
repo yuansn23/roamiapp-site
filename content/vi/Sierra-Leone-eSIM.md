@@ -71,7 +71,7 @@ features:
     desc: Tự động kết nối với các nhà mạng hàng đầu Sierra Leone để có tín hiệu tốt nhất
 plans_title: 'Mua eSIM Sierra Leone: Gói cho mọi thời gian chuyến đi'
 plans_data:
-  30 Days:
+  30 Ngày:
   - spec: 5GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho du lịch sâu
@@ -89,7 +89,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '1.13'
     tagIcon: star
-  7 Days:
+  7 Ngày:
   - spec: 1GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho chuyến công tác ngắn

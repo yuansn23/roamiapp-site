@@ -71,7 +71,7 @@ features:
     desc: Tự động kết nối với nhà mạng Bắc Macedonia hàng đầu để có tín hiệu tốt nhất
 plans_title: 'Mua eSIM Bắc Macedonia: Gói cước cho mọi thời gian chuyến đi'
 plans_data:
-  7 Days:
+  7 Ngày:
   - spec: 1GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho chuyến công tác ngắn
@@ -88,7 +88,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '6.43'
-  30 Days:
+  30 Ngày:
   - spec: 10GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho du lịch chuyên sâu
@@ -122,7 +122,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.83'
-  3 Days:
+  3 Ngày:
   - spec: Không giới hạn
     data: Không giới hạn tốc độ cao
     desc: Sử dụng dữ liệu không lo lắng
@@ -131,7 +131,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '7.66'
-  15 Days:
+  15 Ngày:
   - spec: Không giới hạn
     data: Không giới hạn tốc độ cao
     desc: Sử dụng dữ liệu không lo lắng

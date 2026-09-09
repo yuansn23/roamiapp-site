@@ -71,7 +71,7 @@ features:
     desc: เชื่อมต่ออัตโนมัติกับผู้ให้บริการชั้นนำในแอลจีเรียเพื่อสัญญาณที่ดีที่สุด
 plans_title: 'ซื้อ eSIM แอลจีเรีย: แพ็กเกจสำหรับทุกระยะเวลาการเดินทาง'
 plans_data:
-  7 Days:
+  7 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเที่ยวชมสถานที่
@@ -121,7 +121,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '5.57'
-  15 Days:
+  15 วัน:
   - spec: 5GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการเดินทางแบบลึกซึ้ง
@@ -171,7 +171,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '3.87'
-  30 Days:
+  30 วัน:
   - spec: 10GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการเดินทางแบบลึกซึ้ง
@@ -221,7 +221,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.07'
-  3 Days:
+  3 วัน:
   - spec: ไม่จำกัด
     data: ความเร็วสูงไม่จำกัด
     desc: ใช้ข้อมูลได้อย่างสบายใจ

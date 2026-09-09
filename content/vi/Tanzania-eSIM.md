@@ -71,7 +71,7 @@ features:
     desc: Tự động kết nối với các nhà mạng hàng đầu Tanzania để có tín hiệu tốt nhất
 plans_title: 'Mua eSIM Tanzania: Gói cho mọi thời gian chuyến đi'
 plans_data:
-  7 Days:
+  7 Ngày:
   - spec: 1GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho chuyến công tác ngắn
@@ -113,7 +113,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '9.28'
-  3 Days:
+  3 Ngày:
   - spec: Unlimited
     data: Không giới hạn tốc độ cao
     desc: Sử dụng dữ liệu không lo lắng
@@ -155,7 +155,7 @@ plans_data:
     tag: Giá trị tốt
     tagColor: bg-emerald-500
     daily: '11.00'
-  30 Days:
+  30 Ngày:
   - spec: 30GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho chuyến đi của bạn
@@ -197,7 +197,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '0.63'
     tagIcon: star
-  15 Days:
+  15 Ngày:
   - spec: 20GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho chuyến đi của bạn

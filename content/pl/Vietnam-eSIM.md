@@ -73,7 +73,7 @@ features:
     desc: Automatyczne łączenie z najlepszymi operatorami w Wietnamie dla najlepszego sygnału
 plans_title: 'Kup eSIM Wietnam: Plany na każdy czas podróży'
 plans_data:
-  15 Days:
+  15 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -123,7 +123,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.73'
-  30 Days:
+  30 dni:
   - spec: 5GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do dogłębnego zwiedzania
@@ -181,7 +181,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.50'
-  7 Days:
+  7 dni:
   - spec: 10GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do dogłębnego zwiedzania
@@ -231,7 +231,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.28'
-  3 Days:
+  3 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na krótkie podróże służbowe

@@ -71,7 +71,7 @@ features:
     desc: เชื่อมต่ออัตโนมัติกับ Airtel, Jio และ Vi เพื่อสัญญาณที่ดีที่สุดทั่วอินเดีย
 plans_title: 'ซื้อ eSIM อินเดีย: แพ็กเกจสำหรับทุกระยะเวลาการเดินทาง'
 plans_data:
-  3 Days:
+  3 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเว็บเบาๆ แผนที่ และข้อความ
@@ -113,7 +113,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '6.00'
-  7 Days:
+  7 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเว็บเบาๆ แผนที่ และข้อความ
@@ -163,7 +163,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '5.43'
-  15 Days:
+  15 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการนำทางประจำวันและโซเชียลมีเดีย
@@ -213,7 +213,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '6.33'
-  30 Days:
+  30 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการนำทางประจำวันและโซเชียลมีเดีย

@@ -73,7 +73,7 @@ features:
     desc: Automatyczne łączenie z najlepszymi operatorami w Gruzji dla najlepszego sygnału
 plans_title: 'Kup eSIM Gruzja: Plany na każdy czas podróży'
 plans_data:
-  7 Days:
+  7 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -123,7 +123,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '9.57'
-  15 Days:
+  15 dni:
   - spec: 5GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do dogłębnego zwiedzania
@@ -165,7 +165,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '6.27'
-  30 Days:
+  30 dni:
   - spec: 10GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do dogłębnego zwiedzania
@@ -207,7 +207,7 @@ plans_data:
     tag: Świetna wartość
     tagColor: bg-emerald-500
     daily: '0.60'
-  3 Days:
+  3 dni:
   - spec: Nielimitowany
     data: Nielimitowana szybka transmisja
     desc: Korzystanie z danych bez zmartwień

@@ -71,7 +71,7 @@ features:
     desc: Automatyczne łączenie z najlepszymi operatorami w Azji Południowo-Wschodniej dla optymalnego sygnału
 plans_title: 'Kup Azja Południowo-Wschodnia eSIM: Plany na każdy czas trwania podróży'
 plans_data:
-  7 Days:
+  7 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -113,7 +113,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.43'
-  30 Days:
+  30 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -155,7 +155,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '0.93'
-  15 Days:
+  15 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania

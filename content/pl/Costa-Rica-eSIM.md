@@ -71,7 +71,7 @@ features:
     desc: Automatyczne łączenie z najlepszymi operatorami w Kostaryce dla optymalnego sygnału
 plans_title: 'Kup Kostaryka eSIM: Plany na każdy czas trwania podróży'
 plans_data:
-  7 Days:
+  7 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na krótkie podróże służbowe
@@ -121,7 +121,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '10.43'
-  30 Days:
+  30 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -163,7 +163,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.33'
-  15 Days:
+  15 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -197,7 +197,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '5.27'
-  3 Days:
+  3 dni:
   - spec: Unlimited
     data: Nielimitowane szybkie dane
     desc: Korzystanie bez obaw o zużycie

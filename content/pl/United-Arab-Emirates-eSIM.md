@@ -72,7 +72,7 @@ features:
     desc: Automatyczne łączenie z Etisalat, du i Virgin Mobile dla najlepszego sygnału
 plans_title: 'Kup eSIM ZEA: Plany na każdy czas podróży'
 plans_data:
-  3 Days:
+  3 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do lekkiego przeglądania, map i komunikacji
@@ -114,7 +114,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '6.66'
-  7 Days:
+  7 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do lekkiego przeglądania, map i komunikacji
@@ -164,7 +164,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '6.57'
-  15 Days:
+  15 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Świetne do codziennej nawigacji i mediów społecznościowych
@@ -206,7 +206,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '6.67'
-  30 Days:
+  30 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Świetne do codziennej nawigacji i mediów społecznościowych

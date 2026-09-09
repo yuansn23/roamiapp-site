@@ -71,7 +71,7 @@ features:
     desc: เชื่อมต่ออัตโนมัติกับผู้ให้บริการชั้นนำในโครเอเชียเพื่อสัญญาณที่ดีที่สุด
 plans_title: 'ซื้อ eSIM โครเอเชีย: แพ็กเกจสำหรับทุกระยะเวลาการเดินทาง'
 plans_data:
-  30 Days:
+  30 วัน:
   - spec: 20GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการเดินทางของคุณ
@@ -145,7 +145,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '2.57'
-  15 Days:
+  15 วัน:
   - spec: 30GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการเดินทางของคุณ
@@ -195,7 +195,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '2.87'
-  7 Days:
+  7 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับทริปธุรกิจระยะสั้น
@@ -245,7 +245,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '3.00'
-  3 Days:
+  3 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับทริปธุรกิจระยะสั้น

@@ -71,7 +71,7 @@ features:
     desc: Tự động kết nối với nhà mạng hàng đầu Đông Nam Á để có tín hiệu tốt nhất
 plans_title: 'Mua eSIM Đông Nam Á: Gói cước cho mọi thời gian lưu trú'
 plans_data:
-  7 Days:
+  7 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan
@@ -113,7 +113,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.43'
-  30 Days:
+  30 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan
@@ -155,7 +155,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '0.93'
-  15 Days:
+  15 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan

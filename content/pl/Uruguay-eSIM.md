@@ -73,7 +73,7 @@ features:
     desc: Automatyczne łączenie z najlepszymi operatorami w Urugwaju dla najlepszego sygnału
 plans_title: 'Kup eSIM Urugwaj: Plany na każdy czas podróży'
 plans_data:
-  7 Days:
+  7 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na krótkie podróże służbowe
@@ -123,7 +123,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '9.86'
-  30 Days:
+  30 dni:
   - spec: 20GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na Twoją podróż
@@ -165,7 +165,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.53'
-  3 Days:
+  3 dni:
   - spec: Nielimitowany
     data: Nielimitowana szybka transmisja
     desc: Korzystanie z danych bez zmartwień
@@ -199,7 +199,7 @@ plans_data:
     tag: Świetna wartość
     tagColor: bg-emerald-500
     daily: '10.66'
-  15 Days:
+  15 dni:
   - spec: 5GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do dogłębnego zwiedzania

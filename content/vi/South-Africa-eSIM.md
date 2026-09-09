@@ -71,7 +71,7 @@ features:
     desc: Tự động kết nối với các nhà mạng hàng đầu Nam Phi để có tín hiệu tốt nhất
 plans_title: 'Mua eSIM Nam Phi: Gói cho mọi thời gian chuyến đi'
 plans_data:
-  30 Days:
+  30 Ngày:
   - spec: 20GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho chuyến đi của bạn
@@ -121,7 +121,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.97'
-  15 Days:
+  15 Ngày:
   - spec: 5GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho du lịch sâu
@@ -171,7 +171,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '3.73'
-  7 Days:
+  7 Ngày:
   - spec: 1GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho chuyến công tác ngắn
@@ -221,7 +221,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '5.28'
-  3 Days:
+  3 Ngày:
   - spec: Unlimited
     data: Không giới hạn tốc độ cao
     desc: Sử dụng dữ liệu không lo lắng

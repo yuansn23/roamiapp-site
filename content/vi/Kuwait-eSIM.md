@@ -71,7 +71,7 @@ features:
     desc: Tự động kết nối với nhà mạng Kuwait hàng đầu để có tín hiệu tốt nhất
 plans_title: 'Mua eSIM Kuwait: Gói cước cho mọi thời gian chuyến đi'
 plans_data:
-  7 Days:
+  7 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan
@@ -113,7 +113,7 @@ plans_data:
     tag: Giá trị tuyệt vời
     tagColor: bg-emerald-500
     daily: '3.14'
-  15 Days:
+  15 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan
@@ -155,7 +155,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '4.47'
-  30 Days:
+  30 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan
@@ -213,7 +213,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.30'
-  3 Days:
+  3 Ngày:
   - spec: 5GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho du lịch chuyên sâu

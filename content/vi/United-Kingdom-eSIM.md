@@ -71,7 +71,7 @@ features:
     desc: Tự động kết nối Vodafone, EE và O2 để có tín hiệu tốt nhất trên khắp Vương quốc Anh
 plans_title: 'Mua eSIM Vương quốc Anh: Gói cước cho mọi thời gian lưu trú'
 plans_data:
-  3 Days:
+  3 Ngày:
   - spec: 1GB
     data: 5G/4G/LTE tốc độ cao
     desc: Lý tưởng cho duyệt web nhẹ, bản đồ và nhắn tin
@@ -113,7 +113,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '3.00'
-  7 Days:
+  7 Ngày:
   - spec: 1GB
     data: 5G/4G/LTE tốc độ cao
     desc: Lý tưởng cho duyệt web nhẹ, bản đồ và nhắn tin
@@ -163,7 +163,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '2.71'
-  15 Days:
+  15 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Tuyệt vời cho điều hướng hàng ngày và mạng xã hội
@@ -213,7 +213,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '2.47'
-  30 Days:
+  30 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Tuyệt vời cho điều hướng hàng ngày và mạng xã hội

@@ -71,7 +71,7 @@ features:
     desc: Tự động kết nối với nhà mạng hàng đầu Bosnia và Herzegovina để có tín hiệu tốt nhất
 plans_title: 'Mua eSIM Bosnia và Herzegovina: Gói cước cho mọi thời gian chuyến đi'
 plans_data:
-  30 Days:
+  30 Ngày:
   - spec: 20GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho chuyến đi của bạn

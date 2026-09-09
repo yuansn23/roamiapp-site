@@ -71,7 +71,7 @@ features:
     desc: Tự động kết nối với các nhà mạng hàng đầu Thành Vatican để có tín hiệu tốt nhất
 plans_title: 'Mua eSIM Thành Vatican: Gói cho mọi thời gian chuyến đi'
 plans_data:
-  3 Days:
+  3 Ngày:
   - spec: Unlimited
     data: Không giới hạn tốc độ cao
     desc: Sử dụng dữ liệu không lo lắng
@@ -80,7 +80,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '3.66'
-  7 Days:
+  7 Ngày:
   - spec: Unlimited
     data: Không giới hạn tốc độ cao
     desc: Sử dụng dữ liệu không lo lắng
@@ -89,7 +89,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '3.00'
-  15 Days:
+  15 Ngày:
   - spec: Unlimited
     data: Không giới hạn tốc độ cao
     desc: Sử dụng dữ liệu không lo lắng
@@ -98,7 +98,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '2.87'
-  30 Days:
+  30 Ngày:
   - spec: Unlimited
     data: Không giới hạn tốc độ cao
     desc: Sử dụng dữ liệu không lo lắng

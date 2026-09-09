@@ -71,7 +71,7 @@ features:
     desc: เชื่อมต่ออัตโนมัติกับผู้ให้บริการชั้นนำในโบลิเวียเพื่อสัญญาณที่ดีที่สุด
 plans_title: 'ซื้อ eSIM โบลิเวีย: แพ็กเกจสำหรับทุกระยะเวลาการเดินทาง'
 plans_data:
-  7 Days:
+  7 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับทริปธุรกิจระยะสั้น
@@ -80,7 +80,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.71'
-  15 Days:
+  15 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเที่ยวชมสถานที่
@@ -90,7 +90,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '2.33'
     tagIcon: star
-  30 Days:
+  30 วัน:
   - spec: 20GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการเดินทางของคุณ

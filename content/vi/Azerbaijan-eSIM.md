@@ -71,7 +71,7 @@ features:
     desc: Tự động kết nối với nhà mạng hàng đầu Azerbaijan để có tín hiệu tốt nhất
 plans_title: 'Mua eSIM Azerbaijan: Gói cước cho mọi thời gian chuyến đi'
 plans_data:
-  7 Days:
+  7 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan
@@ -105,7 +105,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '5.43'
-  15 Days:
+  15 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan
@@ -147,7 +147,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '6.33'
-  30 Days:
+  30 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan
@@ -197,7 +197,7 @@ plans_data:
     tag: Giá trị tuyệt vời
     tagColor: bg-emerald-500
     daily: '1.03'
-  3 Days:
+  3 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan

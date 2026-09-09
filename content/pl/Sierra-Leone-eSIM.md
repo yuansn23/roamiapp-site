@@ -71,7 +71,7 @@ features:
     desc: Automatyczne łączenie z najlepszymi operatorami w Sierra Leone dla optymalnego sygnału
 plans_title: 'Kup Sierra Leone eSIM: Plany na każdy czas trwania podróży'
 plans_data:
-  30 Days:
+  30 dni:
   - spec: 5GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na dogłębne podróżowanie
@@ -89,7 +89,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '1.13'
     tagIcon: star
-  7 Days:
+  7 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na krótkie podróże służbowe

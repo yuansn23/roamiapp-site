@@ -71,7 +71,7 @@ features:
     desc: Tự động kết nối với nhà mạng Niger hàng đầu để có tín hiệu tốt nhất
 plans_title: 'Mua eSIM Niger: Gói cước cho mọi thời gian chuyến đi'
 plans_data:
-  7 Days:
+  7 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan
@@ -89,7 +89,7 @@ plans_data:
     tag: Giá trị tuyệt vời
     tagColor: bg-emerald-500
     daily: '5.00'
-  15 Days:
+  15 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan
@@ -115,7 +115,7 @@ plans_data:
     tag: Giá trị tuyệt vời
     tagColor: bg-emerald-500
     daily: '4.33'
-  30 Days:
+  30 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan
@@ -149,7 +149,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '3.33'
-  3 Days:
+  3 Ngày:
   - spec: Không giới hạn
     data: Không giới hạn tốc độ cao
     desc: Sử dụng dữ liệu không lo lắng

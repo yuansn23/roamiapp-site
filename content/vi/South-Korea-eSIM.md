@@ -71,7 +71,7 @@ features:
     desc: Hàn Quốc có mạng 5G nhanh nhất thế giới — lên đến 1.5 Gbps tại Seoul
 plans_title: 'Mua eSIM Hàn Quốc: Gói cho mọi thời gian chuyến đi'
 plans_data:
-  3 Days:
+  3 Ngày:
   - spec: 1GB
     data: 5G/4G/LTE tốc độ cao
     desc: Lý tưởng cho duyệt web nhẹ, bản đồ & nhắn tin
@@ -113,7 +113,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '3.00'
-  7 Days:
+  7 Ngày:
   - spec: 1GB
     data: 5G/4G/LTE tốc độ cao
     desc: Lý tưởng cho duyệt web nhẹ, bản đồ & nhắn tin
@@ -163,7 +163,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '3.57'
-  15 Days:
+  15 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Tuyệt vời cho điều hướng hàng ngày & mạng xã hội
@@ -213,7 +213,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '2.13'
-  30 Days:
+  30 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Tuyệt vời cho điều hướng hàng ngày & mạng xã hội

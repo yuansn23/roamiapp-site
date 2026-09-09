@@ -71,7 +71,7 @@ features:
     desc: Automatyczne łączenie z najlepszymi operatorami w Gujanie Francuskiej dla optymalnego sygnału
 plans_title: 'Kup Gujana Francuska eSIM: Plany na każdy czas trwania podróży'
 plans_data:
-  15 Days:
+  15 dni:
   - spec: 5GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na dogłębne podróżowanie
@@ -88,7 +88,7 @@ plans_data:
     tag: Świetna wartość
     tagColor: bg-emerald-500
     daily: '1.33'
-  30 Days:
+  30 dni:
   - spec: 5GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na dogłębne podróżowanie
@@ -130,7 +130,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.27'
-  7 Days:
+  7 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na krótkie podróże służbowe
@@ -147,7 +147,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '9.57'
-  3 Days:
+  3 dni:
   - spec: Unlimited
     data: Nielimitowane szybkie dane
     desc: Korzystanie bez obaw o zużycie

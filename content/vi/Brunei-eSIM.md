@@ -71,7 +71,7 @@ features:
     desc: Tự động kết nối với nhà mạng Brunei hàng đầu để có tín hiệu tốt nhất
 plans_title: 'Mua eSIM Brunei: Gói cước cho mọi thời gian chuyến đi'
 plans_data:
-  7 Days:
+  7 Ngày:
   - spec: 1GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho chuyến công tác ngắn
@@ -80,7 +80,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.43'
-  15 Days:
+  15 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan
@@ -90,7 +90,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '1.53'
     tagIcon: star
-  30 Days:
+  30 Ngày:
   - spec: 20GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho chuyến đi của bạn

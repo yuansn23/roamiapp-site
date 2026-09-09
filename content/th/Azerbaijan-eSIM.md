@@ -71,7 +71,7 @@ features:
     desc: เชื่อมต่ออัตโนมัติกับผู้ให้บริการชั้นนำของอาเซอร์ไบจานเพื่อสัญญาณที่ดีที่สุด
 plans_title: 'ซื้อ eSIM อาเซอร์ไบจาน: แผนสำหรับทุกระยะการเดินทาง'
 plans_data:
-  7 Days:
+  7 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเที่ยวชมสถานที่
@@ -105,7 +105,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '5.43'
-  15 Days:
+  15 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเที่ยวชมสถานที่
@@ -147,7 +147,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '6.33'
-  30 Days:
+  30 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเที่ยวชมสถานที่
@@ -197,7 +197,7 @@ plans_data:
     tag: คุ้มค่ามาก
     tagColor: bg-emerald-500
     daily: '1.03'
-  3 Days:
+  3 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเที่ยวชมสถานที่

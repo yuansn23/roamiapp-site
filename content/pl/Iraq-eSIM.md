@@ -71,7 +71,7 @@ features:
     desc: Automatyczne łączenie z Zain, Asiacell i Korek dla optymalnego sygnału w całym Iraku
 plans_title: 'Kup Irak eSIM: Plany na każdy czas trwania podróży'
 plans_data:
-  3 Days:
+  3 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do lekkiego przeglądania, map i wiadomości
@@ -113,7 +113,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '10.33'
-  7 Days:
+  7 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do lekkiego przeglądania, map i wiadomości
@@ -163,7 +163,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '9.57'
-  15 Days:
+  15 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Świetne do codziennej nawigacji i mediów społecznościowych
@@ -205,7 +205,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '6.67'
-  30 Days:
+  30 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Świetne do codziennej nawigacji i mediów społecznościowych

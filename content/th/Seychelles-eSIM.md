@@ -71,7 +71,7 @@ features:
     desc: เชื่อมต่ออัตโนมัติกับ Airtel, Cable & Wireless และ Intelvision เพื่อสัญญาณที่ดีที่สุดทั่วเกาะ
 plans_title: 'ซื้อ eSIM เซเชลส์: แผนสำหรับทุกระยะการเดินทาง'
 plans_data:
-  3 Days:
+  3 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเว็บเบาๆ แผนที่ และการส่งข้อความ
@@ -113,7 +113,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '16.66'
-  7 Days:
+  7 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเว็บเบาๆ แผนที่ และการส่งข้อความ
@@ -163,7 +163,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '10.71'
-  15 Days:
+  15 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเว็บเบาๆ แผนที่ และการส่งข้อความ
@@ -213,7 +213,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '6.00'
-  30 Days:
+  30 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเว็บเบาๆ แผนที่ และการส่งข้อความ

@@ -73,7 +73,7 @@ features:
     desc: Automatyczne łączenie z najlepszymi operatorami w Gujanie dla najlepszego sygnału
 plans_title: 'Kup eSIM Gujana: Plany na każdy czas podróży'
 plans_data:
-  15 Days:
+  15 dni:
   - spec: 6GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na Twoją podróż
@@ -82,7 +82,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.27'
-  7 Days:
+  7 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na krótkie podróże służbowe
@@ -91,7 +91,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.43'
-  30 Days:
+  30 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania

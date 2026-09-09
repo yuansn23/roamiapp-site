@@ -73,7 +73,7 @@ features:
     desc: เชื่อมต่ออัตโนมัติกับผู้ให้บริการชั้นนำในคองโกเพื่อสัญญาณที่ดีที่สุด
 plans_title: 'ซื้อ eSIM คองโก: แพ็กเกจสำหรับทุกระยะเวลาการเดินทาง'
 plans_data:
-  7 Days:
+  7 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับทริปธุรกิจระยะสั้น
@@ -107,7 +107,7 @@ plans_data:
     tag: คุ้มค่ามาก
     tagColor: bg-emerald-500
     daily: '6.14'
-  30 Days:
+  30 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเที่ยวชมสถานที่
@@ -141,7 +141,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.50'
-  15 Days:
+  15 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเที่ยวชมสถานที่
@@ -167,7 +167,7 @@ plans_data:
     tag: คุ้มค่ามาก
     tagColor: bg-emerald-500
     daily: '2.93'
-  3 Days:
+  3 วัน:
   - spec: ข้อมูลไม่จำกัด
     data: ความเร็วสูงไม่จำกัด
     desc: ใช้ข้อมูลได้อย่างสบายใจ

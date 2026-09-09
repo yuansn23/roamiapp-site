@@ -75,7 +75,7 @@ features:
     desc: Pozostań w kontakcie w pociągach Frecciarossa i Italo między Rzymem, Florencją, Wenecją i Mediolanem
 plans_title: 'Kup Włochy eSIM: Plany na każdy czas trwania podróży'
 plans_data:
-  3 Days:
+  3 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do lekkiego przeglądania, map i wiadomości
@@ -117,7 +117,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '3.33'
-  7 Days:
+  7 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do lekkiego przeglądania, map i wiadomości
@@ -167,7 +167,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.86'
-  15 Days:
+  15 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Świetne do codziennej nawigacji i mediów społecznościowych
@@ -217,7 +217,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '2.67'
-  30 Days:
+  30 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Świetne do codziennej nawigacji i mediów społecznościowych

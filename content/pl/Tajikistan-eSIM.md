@@ -71,7 +71,7 @@ features:
     desc: Automatyczne łączenie z najlepszymi operatorami w Tadżykistanie dla optymalnego sygnału
 plans_title: 'Kup Tadżykistan eSIM: Plany na każdy czas trwania podróży'
 plans_data:
-  7 Days:
+  7 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -113,7 +113,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '6.43'
-  15 Days:
+  15 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -147,7 +147,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '6.33'
-  30 Days:
+  30 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -173,7 +173,7 @@ plans_data:
     tag: Świetna wartość
     tagColor: bg-emerald-500
     daily: '0.80'
-  3 Days:
+  3 dni:
   - spec: Unlimited
     data: Nielimitowane szybkie dane
     desc: Korzystanie bez obaw o zużycie

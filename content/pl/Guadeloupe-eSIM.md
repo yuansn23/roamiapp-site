@@ -71,7 +71,7 @@ features:
     desc: Automatyczne łączenie z najlepszymi operatorami na Gwadelupie dla optymalnego sygnału
 plans_title: 'Kup Gwadelupa eSIM: Plany na każdy czas trwania podróży'
 plans_data:
-  7 Days:
+  7 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na krótkie podróże służbowe
@@ -80,7 +80,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.28'
-  15 Days:
+  15 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -90,7 +90,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '1.00'
     tagIcon: star
-  30 Days:
+  30 dni:
   - spec: 20GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na Twoją podróż
@@ -115,7 +115,7 @@ plans_data:
     tag: Świetna wartość
     tagColor: bg-emerald-500
     daily: '1.20'
-  3 Days:
+  3 dni:
   - spec: Unlimited
     data: Nielimitowane szybkie dane
     desc: Korzystanie bez obaw o zużycie

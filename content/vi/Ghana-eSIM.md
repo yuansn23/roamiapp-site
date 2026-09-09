@@ -71,7 +71,7 @@ features:
     desc: Tự động kết nối với nhà mạng Ghana hàng đầu để có tín hiệu tốt nhất
 plans_title: 'Mua eSIM Ghana: Gói cước cho mọi thời gian chuyến đi'
 plans_data:
-  30 Days:
+  30 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan
@@ -121,7 +121,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.07'
-  15 Days:
+  15 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan
@@ -171,7 +171,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '3.87'
-  7 Days:
+  7 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan
@@ -221,7 +221,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '5.57'
-  3 Days:
+  3 Ngày:
   - spec: Không giới hạn
     data: Không giới hạn tốc độ cao
     desc: Sử dụng dữ liệu không lo lắng

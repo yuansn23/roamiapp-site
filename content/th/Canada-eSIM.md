@@ -71,7 +71,7 @@ features:
     desc: เชื่อมต่ออัตโนมัติกับผู้ให้บริการชั้นนำในแคนาดาเพื่อสัญญาณที่ดีที่สุด
 plans_title: 'ซื้อ eSIM แคนาดา: แพ็กเกจสำหรับทุกระยะเวลาการเดินทาง'
 plans_data:
-  7 Days:
+  7 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับทริปธุรกิจระยะสั้น
@@ -129,7 +129,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '7.28'
-  15 Days:
+  15 วัน:
   - spec: 5GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการเดินทางแบบลึกซึ้ง
@@ -179,7 +179,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '3.33'
-  30 Days:
+  30 วัน:
   - spec: 5GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการเดินทางแบบลึกซึ้ง
@@ -237,7 +237,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.10'
-  3 Days:
+  3 วัน:
   - spec: 10GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการเดินทางแบบลึกซึ้ง

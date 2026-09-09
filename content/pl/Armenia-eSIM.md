@@ -73,7 +73,7 @@ features:
     desc: Automatyczne łączenie z najlepszymi operatorami w Armenii dla najlepszego sygnału
 plans_title: 'Kup eSIM Armenia: Plany na każdy czas podróży'
 plans_data:
-  7 Days:
+  7 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -115,7 +115,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '6.43'
-  15 Days:
+  15 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -165,7 +165,7 @@ plans_data:
     tag: Premium
     tagColor: bg-purple-600
     daily: '6.60'
-  30 Days:
+  30 dni:
   - spec: 5GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do dogłębnego zwiedzania
@@ -207,7 +207,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.20'
-  3 Days:
+  3 dni:
   - spec: Nielimitowany
     data: Nielimitowana szybka transmisja
     desc: Korzystanie z danych bez zmartwień

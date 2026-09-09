@@ -73,7 +73,7 @@ features:
     desc: Automatyczne łączenie z najlepszymi operatorami w Nepalu dla najlepszego sygnału
 plans_title: 'Kup eSIM Nepal: Plany na każdy czas podróży'
 plans_data:
-  7 Days:
+  7 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -107,7 +107,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '1.57'
-  15 Days:
+  15 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -141,7 +141,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '8.33'
-  30 Days:
+  30 dni:
   - spec: 3GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne do zwiedzania
@@ -175,7 +175,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '3.33'
-  3 Days:
+  3 dni:
   - spec: Nielimitowany
     data: Nielimitowana szybka transmisja
     desc: Korzystanie z danych bez zmartwień

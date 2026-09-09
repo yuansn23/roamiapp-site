@@ -71,7 +71,7 @@ features:
     desc: เชื่อมต่ออัตโนมัติกับ Zain, Asiacell และ Korek เพื่อสัญญาณที่ดีที่สุดทั่วอิรัก
 plans_title: 'ซื้อ eSIM อิรัก: แผนสำหรับทุกระยะการเดินทาง'
 plans_data:
-  3 Days:
+  3 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเว็บเบาๆ แผนที่ และการส่งข้อความ
@@ -113,7 +113,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '10.33'
-  7 Days:
+  7 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเว็บเบาๆ แผนที่ และการส่งข้อความ
@@ -163,7 +163,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '9.57'
-  15 Days:
+  15 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการนำทางประจำวันและโซเชียลมีเดีย
@@ -205,7 +205,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '6.67'
-  30 Days:
+  30 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการนำทางประจำวันและโซเชียลมีเดีย

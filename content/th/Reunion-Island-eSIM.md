@@ -71,7 +71,7 @@ features:
     desc: เชื่อมต่ออัตโนมัติกับผู้ให้บริการชั้นนำของเกาะเรอูว์นียงเพื่อสัญญาณที่ดีที่สุด
 plans_title: 'ซื้อ eSIM เกาะเรอูว์นียง: แผนสำหรับทุกระยะการเดินทาง'
 plans_data:
-  7 Days:
+  7 วัน:
   - spec: 5GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการเดินทางแบบเจาะลึก
@@ -113,7 +113,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '3.28'
-  15 Days:
+  15 วัน:
   - spec: 5GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการเดินทางแบบเจาะลึก
@@ -147,7 +147,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '3.00'
-  30 Days:
+  30 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเที่ยวชมสถานที่
@@ -189,7 +189,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '2.90'
-  3 Days:
+  3 วัน:
   - spec: Unlimited
     data: ไม่จำกัดความเร็วสูง
     desc: ใช้งานข้อมูลได้แบบไม่ต้องกังวล

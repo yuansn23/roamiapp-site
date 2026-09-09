@@ -71,7 +71,7 @@ features:
     desc: เชื่อมต่ออัตโนมัติกับผู้ให้บริการชั้นนำในไอร์แลนด์เพื่อสัญญาณที่ดีที่สุด
 plans_title: 'ซื้อ eSIM ไอร์แลนด์: แพ็กเกจสำหรับทุกระยะเวลาการเดินทาง'
 plans_data:
-  7 Days:
+  7 วัน:
   - spec: 20GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการเดินทางของคุณ
@@ -121,7 +121,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '0.71'
     tagIcon: star
-  3 Days:
+  3 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับทริปธุรกิจระยะสั้น
@@ -163,7 +163,7 @@ plans_data:
     tagColor: bg-orange-500
     daily: '1.33'
     tagIcon: star
-  30 Days:
+  30 วัน:
   - spec: 20GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการเดินทางของคุณ
@@ -237,7 +237,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '2.60'
-  15 Days:
+  15 วัน:
   - spec: ไม่จำกัด
     data: ความเร็วสูงไม่จำกัด
     desc: ใช้ข้อมูลได้อย่างสบายใจ

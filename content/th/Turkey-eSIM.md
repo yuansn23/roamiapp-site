@@ -75,7 +75,7 @@ features:
     desc: เข้าถึงเว็บไซต์ทั้งหมด — Twitter, Facebook, Wikipedia, VPN — ไม่มีการปิดกั้น
 plans_title: 'ซื้อ eSIM ตุรกี: แผนสำหรับทุกระยะการเดินทาง'
 plans_data:
-  3 Days:
+  3 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเว็บเบาๆ แผนที่ และการส่งข้อความ
@@ -117,7 +117,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '3.33'
-  7 Days:
+  7 วัน:
   - spec: 1GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการท่องเว็บเบาๆ แผนที่ และการส่งข้อความ
@@ -167,7 +167,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '3.28'
-  15 Days:
+  15 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการนำทางประจำวันและโซเชียลมีเดีย
@@ -217,7 +217,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '2.53'
-  30 Days:
+  30 วัน:
   - spec: 3GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการนำทางประจำวันและโซเชียลมีเดีย
@@ -275,7 +275,7 @@ plans_data:
     tag: พรีเมียม
     tagColor: bg-purple-600
     daily: '2.63'
-  180 Days:
+  180 วัน:
   - spec: 50GB
     data: ความเร็วสูง 5G/4G/LTE
     desc: เหมาะสำหรับการพำนักระยะยาว วันหยุดยาว และดิจิทัลโนแมด

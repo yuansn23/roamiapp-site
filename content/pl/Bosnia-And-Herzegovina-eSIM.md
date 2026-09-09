@@ -74,7 +74,7 @@ features:
     desc: Automatyczne łączenie z najlepszymi operatorami w Bośni i Hercegowinie dla najlepszego sygnału
 plans_title: 'Kup eSIM Bośnia i Hercegowina: Plany na każdy czas podróży'
 plans_data:
-  30 Days:
+  30 dni:
   - spec: 20GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na Twoją podróż

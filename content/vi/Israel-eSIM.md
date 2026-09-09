@@ -71,7 +71,7 @@ features:
     desc: Tự động kết nối với nhà mạng hàng đầu Israel để có tín hiệu tốt nhất
 plans_title: 'Mua eSIM Israel: Gói cước cho mọi thời gian chuyến đi'
 plans_data:
-  7 Days:
+  7 Ngày:
   - spec: 1GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho chuyến công tác ngắn
@@ -121,7 +121,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '2.00'
-  30 Days:
+  30 Ngày:
   - spec: 20GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho chuyến đi của bạn
@@ -179,7 +179,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '2.33'
-  15 Days:
+  15 Ngày:
   - spec: 3GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho tham quan
@@ -229,7 +229,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '2.13'
-  3 Days:
+  3 Ngày:
   - spec: 10GB
     data: 5G/4G/LTE tốc độ cao
     desc: Hoàn hảo cho du lịch chuyên sâu

@@ -75,7 +75,7 @@ features:
     desc: 4G/5G mạnh tại Tunis, Sousse, Hammamet và tất cả các điểm du lịch chính
 plans_title: 'Mua eSIM Tunisia: Gói cho mọi thời gian chuyến đi'
 plans_data:
-  3 Days:
+  3 Ngày:
   - spec: 1GB
     data: 4G/5G tốc độ cao
     desc: Lý tưởng cho duyệt web nhẹ, bản đồ & nhắn tin
@@ -117,7 +117,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '5.33'
-  7 Days:
+  7 Ngày:
   - spec: 1GB
     data: 4G/5G tốc độ cao
     desc: Lý tưởng cho duyệt web nhẹ, bản đồ & nhắn tin
@@ -167,7 +167,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '4.43'
-  15 Days:
+  15 Ngày:
   - spec: 3GB
     data: 4G/5G tốc độ cao
     desc: Tuyệt vời cho điều hướng hàng ngày & mạng xã hội
@@ -217,7 +217,7 @@ plans_data:
     tag: Cao cấp
     tagColor: bg-purple-600
     daily: '4.47'
-  30 Days:
+  30 Ngày:
   - spec: 3GB
     data: 4G/5G tốc độ cao
     desc: Tuyệt vời cho điều hướng hàng ngày & mạng xã hội

@@ -71,7 +71,7 @@ features:
     desc: Automatyczne łączenie z najlepszymi operatorami na Fidżi dla optymalnego sygnału
 plans_title: 'Kup Fidżi eSIM: Plany na każdy czas trwania podróży'
 plans_data:
-  7 Days:
+  7 dni:
   - spec: 1GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na krótkie podróże służbowe
@@ -121,7 +121,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '5.57'
-  3 Days:
+  3 dni:
   - spec: Unlimited
     data: Nielimitowane szybkie dane
     desc: Korzystanie bez obaw o zużycie
@@ -155,7 +155,7 @@ plans_data:
     tag: Świetna wartość
     tagColor: bg-emerald-500
     daily: '6.33'
-  15 Days:
+  15 dni:
   - spec: Unlimited
     data: Nielimitowane szybkie dane
     desc: Korzystanie bez obaw o zużycie
@@ -205,7 +205,7 @@ plans_data:
     tag: ''
     tagColor: bg-slate-800
     daily: '3.87'
-  30 Days:
+  30 dni:
   - spec: 10GB
     data: Szybkie 5G/4G/LTE
     desc: Idealne na dogłębne podróżowanie
