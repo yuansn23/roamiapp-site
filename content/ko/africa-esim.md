@@ -1,8 +1,8 @@
 ---
 title: 아프리카 eSIM | 케이프타운에서 카이로까지 30개국 5G
 description: "Roami 아프리카 eSIM: 남아프리카공화국, 이집트, 모로코, 케냐, 나이지리아 등 30개국에서 선불 5G. 즉시 활성화, 로밍 수수료 없음. $1.99부터."
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-09-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: 홈

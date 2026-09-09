@@ -1,8 +1,8 @@
 ---
 title: Afrika eSIM | Cape Town'dan Kahire'ye 30 Ülkede 5G
 description: "Roami Afrika eSIM: Güney Afrika, Mısır, Fas, Kenya, Nijerya'da 30 ülkede ön ödemeli 5G. Anında aktivasyon, dolaşım ücreti yok. 1,99$'dan başlayan fiyatlarla."
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-09-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: Ana Sayfa

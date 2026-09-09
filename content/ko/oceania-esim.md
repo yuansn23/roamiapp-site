@@ -1,8 +1,8 @@
 ---
 title: 오세아니아 eSIM | 호주, 뉴질랜드, 피지 및 괌
 description: 하나의 선불 Roami eSIM으로 오세아니아 전역에서 연결 상태를 유지하세요 — 호주, 뉴질랜드 및 피지 여행에 가장 적합한 eSIM입니다. 현지 네트워크에서 5G를 이용하세요. 즉시 활성화. 핫스팟 테더링 포함. $1.99부터 무제한 데이터 요금제.
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-09-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: 홈

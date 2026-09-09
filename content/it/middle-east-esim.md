@@ -1,8 +1,8 @@
 ---
 title: Medio Oriente eSIM | 12 paesi, 5G veloce, senza costi di roaming
 description: Rimani connesso in Medio Oriente con una sola eSIM prepagata Roami — la migliore eSIM per viaggiare in Medio Oriente. 5G negli Emirati, Arabia Saudita, Qatar, Turchia e altri 8 paesi. Attivazione immediata sulle reti locali. Tariffe a partire da 1,99 $.
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-09-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: Home

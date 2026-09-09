@@ -1,8 +1,8 @@
 ---
 title: 'Orta Doğu eSIM | 12 Ülke, Hızlı 5G, Dolaşım Yok'
 description: "Roami Orta Doğu eSIM: BAE, Suudi Arabistan, Katar, Türkiye ve 8 ülke daha için ön ödemeli 5G. Anında etkinleştirme, dolaşım ücreti yok. $1.99'dan başlayan fiyatlarla."
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-09-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: Ana Sayfa

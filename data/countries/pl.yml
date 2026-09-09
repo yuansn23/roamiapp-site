@@ -1,0 +1,450 @@
+afghanistan:
+  name: eSIM Afganistan
+  url: /afghanistan-esim/
+albania:
+  name: eSIM Albania
+  url: /albania-esim/
+algeria:
+  name: eSIM Algieria
+  url: /algeria-esim/
+andorra:
+  name: eSIM Andora
+  url: /andorra-esim/
+argentina:
+  name: eSIM Argentyna
+  url: /argentina-esim/
+armenia:
+  name: eSIM Armenia
+  url: /armenia-esim/
+australia:
+  name: eSIM Australia
+  url: /australia-esim/
+austria:
+  name: eSIM Austria
+  url: /austria-esim/
+azerbaijan:
+  name: eSIM Azerbejdżan
+  url: /azerbaijan-esim/
+bahamas:
+  name: eSIM Bahamy
+  url: /bahamas-esim/
+bahrain:
+  name: eSIM Bahrajn
+  url: /bahrain-esim/
+bangladesh:
+  name: eSIM Bangladesz
+  url: /bangladesh-esim/
+barbados:
+  name: eSIM Barbados
+  url: /barbados-esim/
+belarus:
+  name: eSIM Białoruś
+  url: /belarus-esim/
+belgium:
+  name: eSIM Belgia
+  url: /belgium-esim/
+bolivia:
+  name: eSIM Boliwia
+  url: /bolivia-esim/
+bosnia-and-herzegovina:
+  name: eSIM Bośnia i Hercegowina
+  url: /bosnia-and-herzegovina-esim/
+botswana:
+  name: eSIM Botswana
+  url: /botswana-esim/
+brazil:
+  name: eSIM Brazylia
+  url: /brazil-esim/
+brunei:
+  name: eSIM Brunei
+  url: /brunei-esim/
+bulgaria:
+  name: eSIM Bułgaria
+  url: /bulgaria-esim/
+burkina-faso:
+  name: eSIM Burkina Faso
+  url: /burkina-faso-esim/
+cambodia:
+  name: eSIM Kambodża
+  url: /cambodia-esim/
+cameroon:
+  name: eSIM Kamerun
+  url: /cameroon-esim/
+canada:
+  name: eSIM Kanada
+  url: /canada-esim/
+chad:
+  name: eSIM Czad
+  url: /chad-esim/
+chile:
+  name: eSIM Chile
+  url: /chile-esim/
+china:
+  name: eSIM Chiny
+  url: /china-esim/
+colombia:
+  name: eSIM Kolumbia
+  url: /colombia-esim/
+congo:
+  name: eSIM Kongo
+  url: /congo-esim/
+costa-rica:
+  name: eSIM Kostaryka
+  url: /costa-rica-esim/
+croatia:
+  name: eSIM Chorwacja
+  url: /croatia-esim/
+cyprus:
+  name: eSIM Cypr
+  url: /cyprus-esim/
+czech-republic:
+  name: eSIM Czechy
+  url: /czech-republic-esim/
+denmark:
+  name: eSIM Dania
+  url: /denmark-esim/
+dominica:
+  name: eSIM Dominika
+  url: /dominica-esim/
+dominican-republic:
+  name: eSIM Dominikana
+  url: /dominican-republic-esim/
+ecuador:
+  name: eSIM Ekwador
+  url: /ecuador-esim/
+egypt:
+  name: eSIM Egipt
+  url: /egypt-esim/
+el-salvador:
+  name: eSIM Salwador
+  url: /el-salvador-esim/
+estonia:
+  name: eSIM Estonia
+  url: /estonia-esim/
+eswatini:
+  name: eSIM Eswatini
+  url: /eswatini-esim/
+europe:
+  name: eSIM Europa
+  url: /europe-esim/
+faroe-islands:
+  name: eSIM Wyspy Owcze
+  url: /faroe-islands-esim/
+fiji:
+  name: eSIM Fidżi
+  url: /fiji-esim/
+finland:
+  name: eSIM Finlandia
+  url: /finland-esim/
+france:
+  name: eSIM Francja
+  url: /france-esim/
+french-guiana:
+  name: eSIM Gujana Francuska
+  url: /french-guiana-esim/
+gabon:
+  name: eSIM Gabon
+  url: /gabon-esim/
+georgia:
+  name: eSIM Gruzja
+  url: /georgia-esim/
+germany:
+  name: eSIM Niemcy
+  url: /germany-esim/
+ghana:
+  name: eSIM Ghana
+  url: /ghana-esim/
+gibraltar:
+  name: eSIM Gibraltar
+  url: /gibraltar-esim/
+greece:
+  name: eSIM Grecja
+  url: /greece-esim/
+grenada:
+  name: eSIM Grenada
+  url: /grenada-esim/
+guadeloupe:
+  name: eSIM Gwadelupa
+  url: /guadeloupe-esim/
+guam:
+  name: eSIM Guam
+  url: /guam-esim/
+guatemala:
+  name: eSIM Gwatemala
+  url: /guatemala-esim/
+guyana:
+  name: eSIM Gujana
+  url: /guyana-esim/
+honduras:
+  name: eSIM Honduras
+  url: /honduras-esim/
+hong-kong:
+  name: eSIM Hongkong
+  url: /hong-kong-esim/
+hungary:
+  name: eSIM Węgry
+  url: /hungary-esim/
+iceland:
+  name: eSIM Islandia
+  url: /iceland-esim/
+india:
+  name: eSIM Indie
+  url: /india-esim/
+indonesia:
+  name: eSIM Indonezja
+  url: /indonesia-esim/
+iraq:
+  name: eSIM Irak
+  url: /iraq-esim/
+ireland:
+  name: eSIM Irlandia
+  url: /ireland-esim/
+israel:
+  name: eSIM Izrael
+  url: /israel-esim/
+italy:
+  name: eSIM Włochy
+  url: /italy-esim/
+ivory-coast:
+  name: eSIM Wybrzeże Kości Słoniowej
+  url: /ivory-coast-esim/
+jamaica:
+  name: eSIM Jamajka
+  url: /jamaica-esim/
+japan:
+  name: eSIM Japonia
+  url: /japan-esim/
+jordan:
+  name: eSIM Jordania
+  url: /jordan-esim/
+kazakhstan:
+  name: eSIM Kazachstan
+  url: /kazakhstan-esim/
+kenya:
+  name: eSIM Kenia
+  url: /kenya-esim/
+kosovo:
+  name: eSIM Kosowo
+  url: /kosovo-esim/
+kuwait:
+  name: eSIM Kuwejt
+  url: /kuwait-esim/
+kyrgyzstan:
+  name: eSIM Kirgistan
+  url: /kyrgyzstan-esim/
+laos:
+  name: eSIM Laos
+  url: /laos-esim/
+latvia:
+  name: eSIM Łotwa
+  url: /latvia-esim/
+liberia:
+  name: eSIM Liberia
+  url: /liberia-esim/
+liechtenstein:
+  name: eSIM Liechtenstein
+  url: /liechtenstein-esim/
+lithuania:
+  name: eSIM Litwa
+  url: /lithuania-esim/
+luxembourg:
+  name: eSIM Luksemburg
+  url: /luxembourg-esim/
+macao:
+  name: eSIM Makau
+  url: /macao-esim/
+macedonia:
+  name: eSIM Macedonia
+  url: /macedonia-esim/
+madagascar:
+  name: eSIM Madagaskar
+  url: /madagascar-esim/
+malawi:
+  name: eSIM Malawi
+  url: /malawi-esim/
+malaysia:
+  name: eSIM Malezja
+  url: /malaysia-esim/
+maldives:
+  name: eSIM Malediwy
+  url: /maldives-esim/
+mali:
+  name: eSIM Mali
+  url: /mali-esim/
+malta:
+  name: eSIM Malta
+  url: /malta-esim/
+mauritius:
+  name: eSIM Mauritius
+  url: /mauritius-esim/
+mexico:
+  name: eSIM Meksyk
+  url: /mexico-esim/
+middle-east:
+  name: eSIM Bliski Wschód
+  url: /middle-east-esim/
+moldova:
+  name: eSIM Mołdawia
+  url: /moldova-esim/
+mongolia:
+  name: eSIM Mongolia
+  url: /mongolia-esim/
+montenegro:
+  name: eSIM Czarnogóra
+  url: /montenegro-esim/
+morocco:
+  name: eSIM Maroko
+  url: /morocco-esim/
+mozambique:
+  name: eSIM Mozambik
+  url: /mozambique-esim/
+nepal:
+  name: eSIM Nepal
+  url: /nepal-esim/
+netherlands:
+  name: eSIM Holandia
+  url: /netherlands-esim/
+new-zealand:
+  name: eSIM Nowa Zelandia
+  url: /new-zealand-esim/
+niger:
+  name: eSIM Niger
+  url: /niger-esim/
+nigeria:
+  name: eSIM Nigeria
+  url: /nigeria-esim/
+norway:
+  name: eSIM Norwegia
+  url: /norway-esim/
+oceania:
+  name: eSIM Oceania
+  url: /oceania-esim/
+oman:
+  name: eSIM Oman
+  url: /oman-esim/
+pakistan:
+  name: eSIM Pakistan
+  url: /pakistan-esim/
+panama:
+  name: eSIM Panama
+  url: /panama-esim/
+paraguay:
+  name: eSIM Paragwaj
+  url: /paraguay-esim/
+peru:
+  name: eSIM Peru
+  url: /peru-esim/
+philippines:
+  name: eSIM Filipiny
+  url: /philippines-esim/
+poland:
+  name: eSIM Polska
+  url: /poland-esim/
+portugal:
+  name: eSIM Portugalia
+  url: /portugal-esim/
+puerto-rico:
+  name: eSIM Portoryko
+  url: /puerto-rico-esim/
+qatar:
+  name: eSIM Katar
+  url: /qatar-esim/
+reunion-island:
+  name: eSIM Reunion
+  url: /reunion-island-esim/
+romania:
+  name: eSIM Rumunia
+  url: /romania-esim/
+russia:
+  name: eSIM Rosja
+  url: /russia-esim/
+saudi-arabia:
+  name: eSIM Arabia Saudyjska
+  url: /saudi-arabia-esim/
+senegal:
+  name: eSIM Senegal
+  url: /senegal-esim/
+serbia:
+  name: eSIM Serbia
+  url: /serbia-esim/
+seychelles:
+  name: eSIM Seszele
+  url: /seychelles-esim/
+sierra-leone:
+  name: eSIM Sierra Leone
+  url: /sierra-leone-esim/
+singapore:
+  name: eSIM Singapur
+  url: /singapore-esim/
+slovakia:
+  name: eSIM Słowacja
+  url: /slovakia-esim/
+slovenia:
+  name: eSIM Słowenia
+  url: /slovenia-esim/
+south-africa:
+  name: eSIM RPA
+  url: /south-africa-esim/
+south-america:
+  name: eSIM Ameryka Południowa
+  url: /south-america-esim/
+south-korea:
+  name: eSIM Korea Południowa
+  url: /south-korea-esim/
+southeast-asia:
+  name: eSIM Azja Południowo-Wschodnia
+  url: /southeast-asia-esim/
+spain:
+  name: eSIM Hiszpania
+  url: /spain-esim/
+sweden:
+  name: eSIM Szwecja
+  url: /sweden-esim/
+switzerland:
+  name: eSIM Szwajcaria
+  url: /switzerland-esim/
+taiwan:
+  name: eSIM Tajwan
+  url: /taiwan-esim/
+tajikistan:
+  name: eSIM Tadżykistan
+  url: /tajikistan-esim/
+tanzania:
+  name: eSIM Tanzania
+  url: /tanzania-esim/
+thailand:
+  name: eSIM Tajlandia
+  url: /thailand-esim/
+tunisia:
+  name: eSIM Tunezja
+  url: /tunisia-esim/
+turkey:
+  name: eSIM Turcja
+  url: /turkey-esim/
+uganda:
+  name: eSIM Uganda
+  url: /uganda-esim/
+ukraine:
+  name: eSIM Ukraina
+  url: /ukraine-esim/
+united-arab-emirates:
+  name: eSIM ZEA
+  url: /united-arab-emirates-esim/
+united-kingdom:
+  name: eSIM Wielka Brytania
+  url: /united-kingdom-esim/
+united-states:
+  name: eSIM USA
+  url: /united-states-esim/
+uruguay:
+  name: eSIM Urugwaj
+  url: /uruguay-esim/
+uzbekistan:
+  name: eSIM Uzbekistan
+  url: /uzbekistan-esim/
+vietnam:
+  name: eSIM Wietnam
+  url: /vietnam-esim/
+zambia:
+  name: eSIM Zambia
+  url: /zambia-esim/

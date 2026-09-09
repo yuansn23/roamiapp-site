@@ -1,8 +1,8 @@
 ---
 title: 非洲 eSIM | 30 個國家，5G 從開普敦到開羅
 description: 用一張預付的 Roami eSIM 在非洲保持連線。非洲旅遊的最佳 eSIM — 在 30 個國家提供 5G，包括南非、埃及、摩洛哥、肯亞和奈及利亞。預付方案即時啟用，無漫遊費，當地網路速度。從 $1.99 起。
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-09-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: 首頁

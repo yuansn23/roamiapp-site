@@ -2,8 +2,8 @@
 title: Oceania eSIM | Australia, New Zealand, Fiji & Guam
 description: Stay connected across Oceania with one prepaid Roami eSIM — the best eSIM for Australia, NZ & Fiji travel. 5G on local networks with instant activation. Hotspot tethering included. Unlimited
   data plans from $1.99.
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-09-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: Home

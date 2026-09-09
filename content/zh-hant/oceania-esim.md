@@ -1,8 +1,8 @@
 ---
 title: 大洋洲 eSIM | 澳洲、紐西蘭、斐濟及關島
 description: 一張預付 Roami eSIM 暢遊大洋洲 — 澳洲、紐西蘭及斐濟旅遊首選。當地 5G 網路，即時啟用，含熱點分享功能。無限流量方案最低 $1.99 起。
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-09-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: 首頁

@@ -2,7 +2,7 @@
 title: "유럽 eSIM | 40개 이상 국가를 위한 최고의 선불 요금제"
 description: "Roami의 선불 여행 eSIM 하나로 유럽 전역을 여행하세요. 40개 이상의 국가에서 무제한 5G 데이터. SIM 교체 없음, 로밍 없음. 온라인으로 요금제를 구매하세요."
 date: '2026-06-11T00:00:00+00:00'
-lastmod: 2026-06-08
+lastmod: 2026-09-08
 type: regional-esim
 
 breadcrumbs:

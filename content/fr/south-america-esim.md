@@ -1,8 +1,8 @@
 ---
 title: Amérique du Sud eSIM | 11 pays, 5G à partir de 1,99 $
 description: Explorez l'Amérique du Sud avec une seule eSIM prépayée Roami – la meilleure eSIM pour voyager en Amérique du Sud. 5G au Brésil, en Argentine, au Chili, en Colombie, au Pérou et dans 6 autres pays. Activation instantanée sur les réseaux locaux. Tarifs à partir de 1,99 $.
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-09-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: Accueil

@@ -2,7 +2,7 @@
 title: "아시아 eSIM | 15개 이상 국가 최고의 여행 요금제"
 description: "Roami의 최고 선불 여행 eSIM으로 아시아를 탐험하세요. 일본, 한국, 태국 및 12개 이상의 국가에서 무제한 5G 데이터를 이용하세요. 전체 여정을 위한 단 하나의 요금제."
 date: '2026-06-11T00:00:00+00:00'
-lastmod: '2026-06-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: 홈

@@ -1,8 +1,8 @@
 ---
 title: "アフリカ eSIM | ケープタウンからカイロまで30か国で5G"
 description: "Roami アフリカ eSIM：南アフリカ、エジプト、モロッコ、ケニア、ナイジェリアなど30か国でプリペイド5G。即時アクティベーション、ローミング料金なし。$1.99～。"
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-09-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: ホーム

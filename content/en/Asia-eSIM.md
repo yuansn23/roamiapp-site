@@ -2,7 +2,7 @@
 title: "Asia eSIM | Best Travel Plan for 15+ Countries"
 description: "Explore Asia with Roami's best prepaid travel eSIM. Unlimited 5G data across Japan, Korea, Thailand & 12+ countries. One plan for your entire journey."
 date: '2026-06-11T00:00:00+00:00'
-lastmod: '2026-06-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: Home

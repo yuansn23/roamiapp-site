@@ -1,8 +1,8 @@
 ---
 title: 中東 eSIM | 12 國，快速 5G，無漫遊費
 description: 使用一張 Roami 預付費 eSIM 在中東保持連線 — 最適合中東旅遊的 eSIM。阿聯酋、沙烏地阿拉伯、卡達、土耳其等 8 個國家提供 5G。當地網路即時啟用。方案從 1.99 美元起。
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-09-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: 首頁

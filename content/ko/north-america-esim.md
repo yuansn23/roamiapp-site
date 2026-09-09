@@ -2,7 +2,7 @@
 title: "북미 eSIM | 3개국 최고의 선불 요금제"
 description: "Roami의 단일 선불 여행 eSIM으로 북미를 횡단하세요. 미국, 캐나다 및 멕시코에서 무제한 5G 데이터. 국경에서 로밍 없음. 즉시 활성화."
 date: '2026-06-11T00:00:00+00:00'
-lastmod: '2026-06-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: 홈

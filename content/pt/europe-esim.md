@@ -2,7 +2,7 @@
 title: "Europa eSIM | Melhor Plano Pré-pago para Mais de 40 Países"
 description: "Viaje pela Europa com um único eSIM de viagem pré-pago da Roami. Dados 5G ilimitados em mais de 40 países. Sem troca de SIM, sem roaming. Compre seu plano online."
 date: '2026-08-06T00:00:00+00:00'
-lastmod: 2026-06-08
+lastmod: 2026-09-08
 type: regional-esim
 url: /pt/europe-esim/
 breadcrumbs:

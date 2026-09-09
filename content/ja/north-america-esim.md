@@ -2,7 +2,7 @@
 title: "北米 eSIM | 3か国対応のお得なプリペイドプラン"
 description: "RoamiのプリペイドトラベルeSIMで北米を横断。アメリカ、カナダ、メキシコで無制限5Gデータ。国境を越えてもローミング不要。即時アクティベーション。"
 date: '2026-06-26T00:00:00+00:00'
-lastmod: '2026-06-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: ホーム

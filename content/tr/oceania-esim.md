@@ -1,8 +1,8 @@
 ---
 title: Okyanusya eSIM | Avustralya, Yeni Zelanda, Fiji ve Guam
 description: Tek bir ön ödemeli Roami eSIM ile Okyanusya'da bağlantıda kalın — Avustralya, Yeni Zelanda ve Fiji seyahati için en iyi eSIM. Yerel ağlarda 5G ile anında aktivasyon. Sıcak nokta tethering dahildir. $1.99'dan başlayan sınırsız veri planları.
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-09-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: Ana Sayfa

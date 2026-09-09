@@ -1,8 +1,8 @@
 ---
 title: Océanie eSIM | Australie, Nouvelle-Zélande, Fidji et Guam
 description: Restez connecté dans toute l'Océanie avec une eSIM prépayée Roami – la meilleure eSIM pour voyager en Australie, Nouvelle-Zélande et aux Fidji. 5G sur les réseaux locaux avec activation instantanée. Partage de connexion inclus. Forfaits données illimités à partir de 1,99 $.
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-09-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: Accueil

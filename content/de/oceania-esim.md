@@ -1,8 +1,8 @@
 ---
 title: Ozeanien eSIM | Australien, Neuseeland, Fidschi & Guam
 description: Mit einer vorausbezahlten Roami eSIM in ganz Ozeanien verbunden bleiben – die beste eSIM für Reisen nach Australien, Neuseeland & Fidschi. 5G in lokalen Netzen mit sofortiger Aktivierung. Hotspot-Tethering inklusive. Unbegrenzte Datentarife ab 1,99 $.
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-09-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: Startseite

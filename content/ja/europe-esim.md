@@ -2,7 +2,7 @@
 title: "ヨーロッパeSIM | 40カ国以上対応のベストプリペイドプラン"
 description: "Roamiのプリペイド旅行eSIMでヨーロッパを旅しよう。40カ国以上で無制限5Gデータ。SIM交換不要、ローミング不要。オンラインでプランを購入。"
 date: '2026-06-26T00:00:00+00:00'
-lastmod: 2026-06-08
+lastmod: 2026-09-08
 type: regional-esim
 breadcrumbs:
 - name: ホーム

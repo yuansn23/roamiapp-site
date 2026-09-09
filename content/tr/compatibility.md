@@ -1,63 +1,73 @@
 ---
 title: "eSIM Uyumlu Cihazlar Listesi | 300+ Telefon (2026)"
-description: "Telefonunuzun Roami'nin ön ödemeli seyahat eSIM planlarıyla çalışıp çalışmadığını kontrol edin. 300'den fazla cihaz test edildi. Sınırsız veri planınızı güvenle satın alın."
+description: "Telefonunuzun eSIM destekleyip desteklemediğinden emin değil misiniz? Bu kılavuz, 30 saniye içinde nasıl kontrol edeceğinizi tam olarak gösterir, tüm uyumlu modelleri listeler ve cihazınız listede yoksa ne yapmanız gerektiğini açıklar. Seyahatinizden önce güvenli bir karar verin."
 keywords: ["eSIM uyumlu telefonlar"]
 layout: "compatibility"
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-09-09T00:00:00+00:00'
 type: "page"
 
 # SEO için yapılandırılmış SSS verileri
 faq_schema:
   - question: "Telefonunuzun eSIM uyumlu olup olmadığını nasıl kontrol edersiniz?"
-    answer: "Bir seyahat planı satın almadan önce, cihazınızın kilitli olmadığından ve eSIM'i desteklediğinden emin olun. Telefonunuzun arama ekranını açın, *#06# tuşlayın ve araya basın. Cihazınız uyumluysa, ekranda 32 haneli bir EID numarası görünecektir. Bu, telefonunuzun eSIM'i destekleyip desteklemediğini size gösterir."
+    answer: "Bir seyahat planı satın almadan önce cihazınızın kilitli olmadığından ve eSIM'i desteklediğinden emin olun. Telefonunuzun arama ekranını açın, *#06# tuşlayın ve arayın. Cihazınız uyumluysa, ekranda 32 haneli bir EID numarası görünecektir. Bu, telefonunuzun eSIM'i destekleyip desteklemediğini size gösterir."
   - question: "Hangi iPhone'lar eSIM'i destekler?"
     answer: "2018'den sonra piyasaya sürülen iPhone'ların çoğu eSIM'i destekler; iPhone 17, 16, 15, 14, 13, 12, 11, XS, XR ve SE (2020/2022) serileri dahil. iPhone 17 Pro Max, iPhone 17 Pro ve iPhone 17 Air de tamamen uyumludur. Not: Çin anakarasında satılan iPhone'lar eSIM'i desteklemez. iPhone 6s, 7, 8 ve X gibi eski modeller eSIM'i DESTEKLEMEZ."
   - question: "Samsung Galaxy telefonlar eSIM uyumlu mu?"
-    answer: "Evet, birçok Samsung telefon eSIM'i destekler; Galaxy S25, S24, S23, S22, S21, S20 serileri ile Galaxy Z Fold ve Z Flip serileri dahil. Örneğin, Samsung Galaxy S25 Ultra, Galaxy Z Fold6 ve Galaxy S24 FE eSIM ile çalışır. Hangi Samsung modellerinin eSIM'i desteklediğini listemizde öğrenin."
+    answer: "Evet, birçok Samsung telefonu eSIM'i destekler; Galaxy S25, S24, S23, S22, S21, S20 serileri ile Galaxy Z Fold ve Z Flip serileri dahil. Örneğin, Samsung Galaxy S25 Ultra, Galaxy Z Fold6, Galaxy S24 FE eSIM ile çalışır. Hangi Samsung modellerinin eSIM'i desteklediğini listemizde öğrenin."
+  - question: "Telefonum eSIM uyumlu ancak operatör kilidi var. Seyahat eSIM'i kullanabilir miyim?"
+    answer: "Genellikle hayır. Operatör kilitli bir telefon, yalnızca bağlı olduğu operatörün eSIM'lerini kullanabilir. Seyahat eSIM'i kullanmadan önce operatörünüzden kilit açma talebinde bulunmanız gerekir. Telefonunuzu doğrudan üreticiden (Apple, Samsung, Google) satın aldıysanız, neredeyse kesinlikle kilit açıktır."
 
 # Sayfa başlığı
 header:
   title: "eSIM Uyumlu Cihazlar Listesi | 300+ Telefon"
-  subtitle: "En yeni iPhone, Samsung ve Google Pixel modelleri dahil olmak üzere hangi akıllı telefonların Roami ile küresel eSIM bağlantısını desteklediğini öğrenin. 200'den fazla ülkede bağlı kalın. Burada eSIM telefonları bulacaksınız: iPhone 17'den Samsung Galaxy S25 ve Google Pixel 10'a kadar – ayrıca \"iPhone 11 eSIM uyumlu mu?\", \"Samsung S20 eSIM destekliyor mu?\" ve \"hangi telefonlar Airalo veya Visible ile çalışır?\" gibi sık sorulan soruların yanıtları."
-  search_placeholder: "Örn.: iPhone 17, Samsung S25 Ultra, Xiaomi 15T Pro, Google Pixel 10"
+  subtitle: "Hangi akıllı telefonların — en yeni iPhone, Samsung Galaxy ve Google Pixel amiral gemilerinden, uygun fiyatlı eSIM uyumlu Android cihazlara kadar — Roami ile küresel bağlantıyı desteklediğini öğrenin. 200'den fazla ülkede bağlantıda kalın. Bu kılavuz, belirli model kontrollerinden operatöre özel uyumluluğa (T-Mobile, AT&T, Verizon ve EE UK dahil) kadar her şeyi kapsar; böylece seyahatinizden önce telefonunuzun çalıştığını onaylayabilirsiniz."
+  search_placeholder: "Örn: iPhone 17, Samsung S25 Ultra, Xiaomi 15T Pro, Google Pixel 10"
 
-# Ücretsiz eSIM afişi (katlamanın üstünde)
+# Hızlı uyumluluk kontrol listesi
+quick_checklist:
+  title: "✅ Hızlı Uyumluluk Kontrol Listesi"
+  steps:
+    - "Telefonunuzda <strong>*#06#</strong>'yı tuşlayın – 32 haneli bir <strong>EID numarası</strong> görünüyorsa, cihazınız eSIM donanımına sahiptir."
+    - "Ayarlar > Hücresel/Mobil Ağ'a gidin – bir <strong>'eSIM Ekle'</strong> veya <strong>'SIM Yöneticisi'</strong> seçeneğini arayın."
+    - "Telefonunuzun <strong>kilit açık</strong> olduğundan emin olun – operatör kilitli cihazlar seyahat eSIM'leriyle çalışmayabilir."
+
+# Ücretsiz eSIM banner'ı (katlamanın üstü)
 free_esim_banner:
   title: "Ücretsiz deneme eSIM'i alın"
-  description: "Cihazınızın desteklenip desteklenmediğinden emin değil misiniz? Uyumluluğu kontrol etmenin en iyi yolu bir <strong>ücretsiz deneme eSIM</strong>'idir. Kuzey Amerika'ya bir seyahat için <strong>ABD için ücretsiz eSIM</strong>'e, <strong>Birleşik Krallık için ücretsiz eSIM</strong>'e veya <strong>Japonya için ücretsiz eSIM</strong>'e ihtiyacınız olsun, aşağıdan birini seçin ve anında bağlanın. Ayrıca diğer destinasyonlar için eSIM satın alabilirsiniz — Roami'den seyahat eSIM'leri."
+  description: "Cihazınızın desteklenip desteklenmediğinden emin değil misiniz? Uyumluluğu kontrol etmenin en iyi yolu <strong>ücretsiz deneme eSIM</strong>'dir. Kuzey Amerika seyahati için <strong>ABD için ücretsiz eSIM</strong>'e, <strong>Birleşik Krallık için ücretsiz eSIM</strong>'e veya <strong>Japonya için ücretsiz eSIM</strong>'e ihtiyacınız varsa, aşağıdan birini seçin ve anında bağlanın. Diğer destinasyonlar için de eSIM satın alabilirsiniz — Roami'den seyahat eSIM'leri."
   links:
-    - text: "🇺🇸 ABD için ücretsiz eSIM"
+    - text: "🇺🇸 ABD için Ücretsiz eSIM"
       title: "ABD için ücretsiz eSIM'i deneyin"
       url: "/free-esim/"
-    - text: "🇬🇧 Birleşik Krallık için ücretsiz eSIM"
+    - text: "🇬🇧 Birleşik Krallık için Ücretsiz eSIM"
       title: "Birleşik Krallık'taki turistler için ücretsiz deneme eSIM"
       url: "/free-esim/"
-    - text: "🇨🇳 Çin için ücretsiz eSIM"
+    - text: "🇨🇳 Çin için Ücretsiz eSIM"
       title: "Çin için ücretsiz eSIM planı alın"
       url: "/free-esim/"
-    - text: "🇹🇷 Türkiye için ücretsiz eSIM"
+    - text: "🇹🇷 Türkiye için Ücretsiz eSIM"
       title: "Türkiye'de ücretsiz eSIM bağlantısı"
       url: "/free-esim/"
-    - text: "🇩🇪 Almanya için ücretsiz eSIM"
+    - text: "🇩🇪 Almanya için Ücretsiz eSIM"
       title: "Almanya için ücretsiz deneme eSIM planı"
       url: "/free-esim/"
-    - text: "🇫🇷 Fransa için ücretsiz eSIM"
+    - text: "🇫🇷 Fransa için Ücretsiz eSIM"
       title: "Fransa'da seyahat için en iyi ücretsiz eSIM"
       url: "/free-esim/"
-    - text: "🇹🇭 Tayland için ücretsiz eSIM"
+    - text: "🇹🇭 Tayland için Ücretsiz eSIM"
       title: "Tayland için ücretsiz eSIM planı"
       url: "/free-esim/"
-    - text: "🇯🇵 Japonya için ücretsiz eSIM"
+    - text: "🇯🇵 Japonya için Ücretsiz eSIM"
       title: "Japonya seyahati için ücretsiz deneme eSIM alın"
       url: "/free-esim/"
-    - text: "🇰🇷 Güney Kore için ücretsiz eSIM"
+    - text: "🇰🇷 Güney Kore için Ücretsiz eSIM"
       title: "Güney Kore'de tatil için ücretsiz eSIM"
       url: "/free-esim/"
-    - text: "🇮🇹 İtalya için ücretsiz eSIM"
+    - text: "🇮🇹 İtalya için Ücretsiz eSIM"
       title: "İtalya için ücretsiz deneme eSIM"
       url: "/free-esim/"
 
-# Hızlı uyumluluk kılavuzları (daha iyi iç bağlantı ve SEO için eklendi)
+# Telefon modeline göre hızlı uyumluluk kılavuzları (daha iyi iç bağlantı ve SEO için)
 quick_guides:
   title: "Telefon modeline göre hızlı uyumluluk kılavuzları"
   description: "Belirli telefonunuz için ayrıntılı eSIM uyumluluk bilgilerine doğrudan atlayın:"
@@ -68,7 +78,7 @@ quick_guides:
       url: "/faq/iphone-xr-esim-compatible/"
     - text: "iPad ve Apple Watch eSIM: Tam Destek Kılavuzu"
       url: "/faq/ipad-apple-watch-esim-support-guide/"
-    - text: "Samsung Galaxy eSIM: S/A/Z Serileri Kılavuzu"
+    - text: "Samsung Galaxy eSIM: S/A/Z Serisi Kılavuzu"
       url: "/faq/samsung-s20-esim-compatible/"
     - text: "Android eSIM Kılavuzu"
       url: "/faq/android-esim-other-brands-deep-guide/"
@@ -78,23 +88,23 @@ quick_guides:
 # Arama sonucu yok yapılandırması
 no_results:
   title: "Cihaz bulunamadı"
-  description: "Daha geniş bir marka adıyla (Apple, Samsung) aramayı deneyin veya popüler modellerden birini kontrol edin: iPhone 17, Galaxy S25, Pixel 10 Pro. Çoğu modern telefon eSIM'i destekler. Telefonunuzun eSIM'i destekleyip desteklemediğini bilmiyorsanız, *#06# tuşlayın — bir EID'nin görünmesi uyumluluğu onaylar."
+  description: "Daha geniş bir marka adıyla (Apple, Samsung) aramayı deneyin veya popüler modellerden birini kontrol edin: iPhone 17, Galaxy S25, Pixel 10 Pro. Modern telefonların çoğu eSIM'i destekler. Telefonunuzu görmüyorsanız, büyük olasılıkla uyumlu değildir. Ancak, bazı bölgesel varyantlar eksik olabilir. %100 emin olmanın tek yolu, telefonunuzun ayarlarında 'eSIM Ekle' seçeneğini kontrol etmektir — yoksa telefonunuz eSIM'i desteklemiyor. Telefonunuzun eSIM'i destekleyip desteklemediğini bilmiyorsanız, *#06# tuşlayın — bir EID'nin görünmesi uyumluluğu onaylar."
   box_title: "Kontrol etmenin en iyi yolu?"
-  box_desc: "Uyumluluğu onaylamanın en kolay yolu, ücretsiz bir eSIM yüklemeyi denemektir. Yükleme başarılı olursa, cihazınız kullanıma hazırdır!"
-  button_text: "Ücretsiz deneme eSIM alın"
+  box_desc: "Uyumluluğu onaylamanın en kolay yolu, ücretsiz bir eSIM kurmayı denemektir. Kurulum başarılı olursa, cihazınız kullanıma hazırdır!"
+  button_text: "Ücretsiz deneme eSIM'i alın"
   button_url: "/free-esim/"
 
-# "Nasıl kontrol edilir" bölümü metni
+# "Nasıl kontrol edilir" bölümü
 how_to_check:
   title: "Telefonunuzun eSIM uyumlu olup olmadığını nasıl kontrol edersiniz?"
   description: "Bir seyahat planı satın almadan önce, cihazınızın kilitli olmadığından ve eSIM teknolojisini desteklediğinden emin olmak çok önemlidir. En hızlı yol, bir EID numarası aramaktır. eSIM uyumlu telefonları markaya göre derledik — Apple iPhone'dan Samsung Galaxy ve Google Pixel'e kadar."
   steps:
     - "Telefonunuzun arama ekranını açın."
-    - "<strong>*#06#</strong> tuşlayın ve araya basın."
+    - "<strong>*#06#</strong> tuşlayın ve arayın."
     - "Cihazınız uyumluysa, ekranda bir <strong>EID numarası</strong> (32 haneli kod) görünecektir."
   side_box:
-    title: "Çoğu modern telefon eSIM'i destekler"
-    desc: "2018'den sonra piyasaya sürülen iPhone'ların çoğu ve üst düzey Android cihazlar Roami ile tamamen uyumludur. Listemiz Samsung, Google, Motorola, Xiaomi, Huawei ve diğer markalardan eSIM telefonlarını içerir."
+    title: "Modern telefonların çoğu eSIM'i destekler"
+    desc: "2018'den sonra piyasaya sürülen iPhone'ların çoğu ve premium Android cihazlar Roami ile tamamen uyumludur. Listemiz Samsung, Google, Motorola, Xiaomi, Huawei ve diğer markalardan eSIM telefonlarını içerir."
 
 # Kenar çubuğu promosyon kartı
 sidebar_promo:
@@ -108,47 +118,47 @@ related_products:
   items:
     - name: "ABD için eSIM"
       flag: "img/flags/us.svg"
-      price: "1,99$'dan başlayan fiyatlarla"
+      price: "$1.99'dan başlayan fiyatlarla"
       slug: "united-states-esim"
     - name: "Birleşik Krallık için eSIM"
       flag: "img/flags/gb.svg"
-      price: "1,99$'dan başlayan fiyatlarla"
+      price: "$1.99'dan başlayan fiyatlarla"
       slug: "united-kingdom-esim"
     - name: "Çin için eSIM"
       flag: "img/flags/cn.svg"
-      price: "1,99$'dan başlayan fiyatlarla"
+      price: "$1.99'dan başlayan fiyatlarla"
       slug: "china-esim"
     - name: "Türkiye için eSIM"
       flag: "img/flags/tr.svg"
-      price: "1,99$'dan başlayan fiyatlarla"
+      price: "$1.99'dan başlayan fiyatlarla"
       slug: "turkey-esim"
     - name: "Almanya için eSIM"
       flag: "img/flags/de.svg"
-      price: "1,99$'dan başlayan fiyatlarla"
+      price: "$1.99'dan başlayan fiyatlarla"
       slug: "germany-esim"
     - name: "Fransa için eSIM"
       flag: "img/flags/fr.svg"
-      price: "1,99$'dan başlayan fiyatlarla"
+      price: "$1.99'dan başlayan fiyatlarla"
       slug: "france-esim"
     - name: "Tayland için eSIM"
       flag: "img/flags/th.svg"
-      price: "1,99$'dan başlayan fiyatlarla"
+      price: "$1.99'dan başlayan fiyatlarla"
       slug: "thailand-esim"
     - name: "Japonya için eSIM"
       flag: "img/flags/jp.svg"
-      price: "1,99$'dan başlayan fiyatlarla"
+      price: "$1.99'dan başlayan fiyatlarla"
       slug: "japan-esim"
     - name: "Güney Kore için eSIM"
       flag: "img/flags/kr.svg"
-      price: "1,99$'dan başlayan fiyatlarla"
+      price: "$1.99'dan başlayan fiyatlarla"
       slug: "south-korea-esim"
     - name: "İtalya için eSIM"
       flag: "img/flags/it.svg"
-      price: "1,99$'dan başlayan fiyatlarla"
+      price: "$1.99'dan başlayan fiyatlarla"
       slug: "italy-esim"
     - name: "Hong Kong için eSIM"
       flag: "img/flags/hk.svg"
-      price: "1,99$'dan başlayan fiyatlarla"
+      price: "$1.99'dan başlayan fiyatlarla"
       slug: "hong-kong-esim"
 
 # Uyumluluk listesi
@@ -157,8 +167,8 @@ brands:
   - name: "Apple iPhone"
     icon: "apple"
     bg_color: "bg-slate-900"
-    description: "<strong>iPhone 11, iPhone XR, iPhone SE (2020/2022)</strong> eSIM uyumludur – ayrıca iPhone 12/13/14/15/16/17 serileri de. <strong>iPhone XS/XR</strong>'den <strong>iPhone 17 Pro Max</strong>'e kadar tüm iPhone modelleri eSIM'i destekler. <a href=\"/faq/2026-ultimate-guide-iphone-17-esim-activation-solutions/\" class=\"text-blue-600\">iPhone'da eSIM kurulumu</a> QR kodu veya operatör uygulaması ile yapılır. Seri, iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, iPhone 16, iPhone 15, iPhone 14, iPhone 13, iPhone 12, iPhone 11 ve SE'yi içerir. Hangi iPhone'ların eSIM'i desteklediğini tablomuzda öğrenin."
-    note: "<strong>Not:</strong> Çin anakarasında satılan iPhone'lar eSIM'i desteklemez. Hong Kong ve Makao'da satılan iPhone'lar yalnızca kısmi eSIM desteğine sahiptir. Lütfen belirli modelinizi kontrol edin.<br><strong>Eski modeller için önemli:</strong> iPhone 6s, 6s Plus, 7, 7 Plus, 8, 8 Plus ve iPhone X eSIM'i DESTEKLEMEZ (donanım sınırlaması). \"iphone 7 esim compatible\" veya \"iphone 6s esim compatible\" gibi aramalar olumsuz sonuç verecektir – en az bir iPhone XR veya daha yeni bir modele ihtiyacınız var."
+    description: "<strong>⚠️ Kritik:</strong> <strong>Çin anakarasında</strong> satılan iPhone'lar <strong>eSIM'i desteklemez</strong>. Hong Kong ve Makao'dan gelen modellerde <strong>sınırlı</strong> destek vardır.<br><br><strong>iPhone 11, iPhone XR, iPhone SE (2020/2022)</strong> eSIM uyumludur – iPhone 12/13/14/15/16/17 serileri de öyle. <strong>iPhone XS/XR</strong>'dan <strong>iPhone 17 Pro Max</strong>'e kadar tüm iPhone modelleri eSIM'i destekler. iPhone'da eSIM'i QR kod veya operatör uygulaması aracılığıyla kurun. Seri, iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, iPhone 16, iPhone 15, iPhone 14, iPhone 13, iPhone 12, iPhone 11 ve SE'yi içerir. Hangi iPhone'ların eSIM'i desteklediğini tablomuzda öğrenin."
+    note: "<strong>Not:</strong> Çin anakarasında satılan iPhone'lar eSIM'i desteklemez. Hong Kong ve Makao'da satılan iPhone'lar yalnızca kısmi eSIM desteğine sahiptir. Lütfen kendi modelinizi kontrol edin.<br><strong>Eski modeller için önemli:</strong> iPhone 6s, 6s Plus, 7, 7 Plus, 8, 8 Plus ve iPhone X eSIM'i DESTEKLEMEZ (donanım sınırlaması). \"iphone 7 esim uyumlu\" veya \"iphone 6s esim uyumlu\" gibi aramalar olumsuz sonuç verecektir – en az iPhone XR veya daha yeni bir modele ihtiyacınız var."
     note_class: "bg-amber-50 border-amber-100 text-amber-800"
     groups:
       - devices:
@@ -200,8 +210,8 @@ brands:
   - name: "Samsung"
     icon: "smartphone"
     bg_color: "bg-blue-600"
-    description: "<strong>Samsung Galaxy S20, S21, S22, S23, S24, S25</strong> serileri eSIM'i destekler; Galaxy S20, S22 gibi popüler modeller ve hatta seçili A serileri (A13 5G, A54) dahil. Amiral gemisi <strong>Samsung Galaxy S25/S24/S23</strong> ve katlanabilir <strong>Z Fold/Z Flip</strong> serileri tamamen eSIM uyumludur. Samsung Galaxy S25 Ultra, Galaxy S24+, Galaxy Z Fold6, Galaxy Z Flip6 ve Galaxy A serileri (A54, A55, A35) eSIM'i destekler. <strong>Ek uyumlu modeller:</strong> Galaxy S20 FE, S21 FE, S22 Ultra, S23 FE, Note 20 Ultra, Galaxy A12, A13, A22, A23, A32, A33, A51, A52, A52s, A53, A71, A72, A73 – tümü uluslararası/kilit açık sürümlerinde eSIM'i destekler. Hangi Samsung telefonlarının eSIM'i desteklediğini listemizde öğrenin."
-    note: "*Bazı bölgesel sürümler eSIM uyumlu olmayabilir. Lütfen cihaz kılavuzunuzu kontrol edin. ABD operatörüne kilitli modellerde genellikle eSIM bulunmaz."
+    description: "<strong>⚠️ Kritik:</strong> <strong>Galaxy S20 FE eSIM'i desteklemez</strong>. ABD operatör kilitli Snapdragon varyantları genellikle eSIM işlevinden yoksundur.<br><br><strong>Samsung Galaxy S20, S21, S22, S23, S24, S25</strong> serileri ve katlanabilir <strong>Z Fold/Z Flip</strong> modelleri eSIM'i destekler. Galaxy A serisi, giriş seviyesi A15 ve A16'dan orta segment A35, A55 ve daha yeni A56'ya kadar geniş bir destek sunar. A25 ve A26 gibi eski A serisi modeller de uluslararası sürümlerinde çalışır. Bütçesi kısıtlı gezginler için bu A serisi cihazlar, amiral gemisi fiyatı olmadan güvenilir eSIM desteği sunar. Hangi Samsung telefonlarının eSIM'i desteklediğini listemizde öğrenin."
+    note: "*Bazı bölgesel sürümler eSIM uyumlu olmayabilir. Lütfen cihaz kılavuzunuzu kontrol edin. ABD operatör kilitli modellerde genellikle eSIM yoktur."
     note_class: "text-slate-500 bg-transparent border-transparent"
     groups:
       - devices:
@@ -256,6 +266,10 @@ brands:
         - "Samsung Galaxy A35"
         - "Samsung Galaxy A56"
         - "Samsung Galaxy A36"
+        - "Samsung Galaxy A15"
+        - "Samsung Galaxy A16"
+        - "Samsung Galaxy A25"
+        - "Samsung Galaxy A26"
         - "Samsung Galaxy Z TriFold"
         - "Samsung Galaxy A27"
         - "Samsung Galaxy XCover7"
@@ -264,7 +278,7 @@ brands:
   - name: "Google Pixel"
     icon: "smartphone"
     bg_color: "bg-red-500"
-    description: "Tüm <strong>Google Pixel 3 ve daha yenileri</strong> (Japonya sürümleri hariç) eSIM'i destekler – <strong>Pixel 6, Pixel 6 Pro, Pixel 6a</strong>, Pixel 7, 8, 9 ve 10 serileri dahil. Google Pixel 10 Pro, Pixel 10, Pixel 9 Pro Fold, Pixel 8a ve eski modellerin tümü eSIM ile çalışır. Özellikle, Pixel 3, 3a, 4, 4a, 4a 5G, 5, 5a, 6, 6a, 6 Pro, 7, 7 Pro, 7a, 8, 8 Pro, 8a, 9, 9 Pro, 9 Pro Fold, 10, 10 Pro tamamen uyumludur. Pixel'inizin eSIM'i destekleyip desteklemediğini EID üzerinden öğrenin."
+    description: "<strong>Google Pixel 3 ve sonrası</strong> (Japonya sürümleri hariç) eSIM'i destekler – <strong>Pixel 6, Pixel 6 Pro, Pixel 6a</strong>, Pixel 7, 8, 9 ve 10 serileri dahil. Google Pixel 10 Pro, Pixel 10, Pixel 9 Pro Fold, Pixel 8a ve eski modeller eSIM ile çalışır. Özellikle Pixel 3, 3a, 4, 4a, 4a 5G, 5, 5a, 6, 6a, 6 Pro, 7, 7 Pro, 7a, 8, 8 Pro, 8a, 9, 9 Pro, 9 Pro Fold, 10, 10 Pro tamamen uyumludur. Pixel'inizin eSIM'i EID üzerinden destekleyip desteklemediğini öğrenin."
     note: "*Bazı bölgesel sürümler (ör. Japonya) eSIM uyumlu olmayabilir. Lütfen cihaz kılavuzunuzu kontrol edin."
     note_class: "text-slate-500 bg-transparent border-transparent"
     groups:
@@ -303,7 +317,7 @@ brands:
   - name: "Motorola"
     icon: "smartphone"
     bg_color: "bg-indigo-600"
-    description: "Modelinizi aşağıdaki listeden kontrol edin. Çoğu modern Motorola akıllı telefonunda eSIM bulunur; <strong>Moto G Power, Moto G Stylus, Edge serileri</strong> ve katlanabilir Razr dahil. Moto G Power (2024), Moto G Stylus 5G (2023/2024), Edge 50/60 serileri gibi modellerin tümü eSIM'i destekler."
+    description: "Modelinizi aşağıdaki listede kontrol edin. Modern Motorola akıllı telefonlarının çoğunda eSIM bulunur; <strong>Edge serisi, katlanabilir Razr ve popüler Moto G hattı</strong> dahil. Uygun fiyatlı bir giriş arıyorsanız, Moto G serisi — Moto G Power, Moto G Stylus, Moto G Play, Moto G 5G ve Moto G 2025 dahil — amiral gemisi fiyatı olmadan eSIM sunar. Edge 50/60/70 serisi ve Razr modelleri tamamen desteklenir."
     groups:
       - devices:
         - "Motorola Razr 2019"
@@ -336,6 +350,10 @@ brands:
         - "Motorola Razr+ 2024"
         - "Motorola Razr 2024"
         - "Motorola Moto G Stylus 5G 2024"
+        - "Motorola Moto G Play (2024)"
+        - "Motorola Moto G 5G (2024)"
+        - "Motorola Moto G 2025"
+        - "Motorola Moto G24"
         - "Motorola Moto G35"
         - "Motorola Edge 60"
         - "Motorola Edge 60 Pro"
@@ -356,7 +374,7 @@ brands:
   - name: "Xiaomi & Huawei"
     icon: "smartphone"
     bg_color: "bg-orange-500"
-    description: "Sınırlı eSIM desteği: <strong>Xiaomi 15T Pro, 14T Pro, 13T Pro, 11T Pro, Redmi Note 11 Pro 5G</strong>; <strong>Huawei Pura 70, Mate 40 Pro, P40 Pro, P30 Pro</strong>. Hangi Xiaomi modellerinin eSIM'i desteklediğini listemizde öğrenin. Huawei için eSIM yalnızca bazı bölgelerde (ör. uluslararası sürümler) mevcuttur."
+    description: "Sınırlı eSIM desteği: <strong>Xiaomi 15T Pro, 14T Pro, 13T Pro, 11T Pro</strong>; ayrıca <strong>Note 10 Pro, Note 11 ve Note 11 Pro 5G</strong> gibi seçili Redmi modelleri; ve <strong>Huawei Pura 70, Mate 40 Pro, P40 Pro, P30 Pro</strong>. Hangi Xiaomi modellerinin eSIM'i desteklediğini listemizde öğrenin. Huawei için eSIM yalnızca bazı bölgelerde (ör. uluslararası sürümler) mevcuttur."
     groups:
       - sub_title: "Xiaomi"
         devices:
@@ -371,6 +389,8 @@ brands:
           - "Xiaomi 14T"
           - "Xiaomi 14T Pro"
           - "Xiaomi Redmi Note 13 Pro+"
+          - "Xiaomi Redmi Note 10 Pro"
+          - "Xiaomi Redmi Note 11"
           - "Xiaomi Redmi Note 14 Pro"
           - "Xiaomi Redmi Note 14 Pro+"
           - "Xiaomi Poco X7"
@@ -396,7 +416,7 @@ brands:
   - name: "Oppo & Vivo"
     icon: "smartphone"
     bg_color: "bg-emerald-500"
-    description: "Modelinizi aşağıdaki listeden kontrol edin. Çoğu modern Oppo ve Vivo akıllı telefonunda eSIM bulunur. Örneğin, Oppo Find X9 Pro, Oppo Reno 15 Pro, Oppo A74 ve Vivo X200 Pro eSIM'i destekler."
+    description: "Modelinizi aşağıdaki listede kontrol edin. Modern Oppo ve Vivo akıllı telefonlarının çoğunda eSIM bulunur. Örneğin, Oppo Find X9 Pro, Oppo Reno 15 Pro, Oppo A74 ve Vivo X200 Pro eSIM'i destekler."
     groups:
       - sub_title: "Oppo"
         devices:
@@ -448,7 +468,7 @@ brands:
   - name: "Honor & Sony"
     icon: "smartphone"
     bg_color: "bg-purple-600"
-    description: "Modelinizi aşağıdaki listeden kontrol edin. Çoğu modern Honor ve Sony akıllı telefonunda eSIM bulunur. Örneğin, Honor Magic V3 ve Sony Xperia 1 VII eSIM'i destekler."
+    description: "Modelinizi aşağıdaki listede kontrol edin. Modern Honor ve Sony akıllı telefonlarının çoğunda eSIM bulunur. Örneğin, Honor Magic V3 ve Sony Xperia 1 VII eSIM'i destekler."
     groups:
       - sub_title: "Honor"
         devices:
@@ -487,7 +507,7 @@ brands:
   - name: "Sharp & TCL"
     icon: "smartphone"
     bg_color: "bg-teal-600"
-    description: "Modelinizi aşağıdaki listeden kontrol edin. Çoğu modern Sharp ve TCL akıllı telefonunda eSIM bulunur."
+    description: "Modelinizi aşağıdaki listede kontrol edin. Modern Sharp ve TCL akıllı telefonlarının çoğunda eSIM bulunur."
     groups:
       - sub_title: "Sharp"
         devices:
@@ -515,7 +535,7 @@ brands:
   - name: "Diğer markalar"
     icon: "more-horizontal"
     bg_color: "bg-slate-700"
-    description: "Modelinizi aşağıdaki listeden kontrol edin. Bu markalardan bazıları da eSIM'i destekler. Örneğin, OnePlus (7T, 8T, 9, Nord 2), Nothing Phone, Realme — uyumluluğu EID üzerinden kontrol edin. Jio eSIM, birçok uyumlu telefonda çalışır."
+    description: "Modelinizi aşağıdaki listede kontrol edin. Bu markalardan bazıları da eSIM'i destekler. Örneğin, OnePlus (7T, 8T, 9, Nord 2), Nothing Phone, Realme — uyumluluğu EID üzerinden kontrol edin. Jio eSIM, birçok uyumlu telefonda çalışır. Buradaki kilit açık cihazların çoğu popüler seyahat eSIM sağlayıcılarıyla çalışır — eğer zaten Airalo gibi bir hizmet kullanıyorsanız, telefonunuzun bu listedeki uyumluluğu iyi bir ilk kontroldür, ancak emin olmak için her zaman ücretsiz bir deneme öneririz."
     groups:
       - devices:
         - "<strong>OnePlus:</strong> OnePlus Open, OnePlus 11, OnePlus 12, OnePlus 13, OnePlus 13R, OnePlus 13T, OnePlus 15"
@@ -544,23 +564,26 @@ brands:
 # Uzun kuyruklu sorguları kapsamak için genişletilmiş SSS
 extended_faq:
   - question: "Telefonumun eSIM'i destekleyip desteklemediğini nasıl kontrol ederim?"
-    answer: "En hızlı yol, telefonunuzun arama ekranını açıp `*#06#` tuşlamaktır. 32 haneli bir EID (eUICC kimliği) görünüyorsa, cihazınız eSIM donanımına sahiptir. Yalnızca IMEI numaraları görüyorsanız, telefonunuz eSIM'i desteklemiyor. Bu test, iPhone, Samsung Galaxy, Google Pixel ve çoğu Android cihaz dahil tüm modern akıllı telefonlarda çalışır."
+    answer: "En hızlı yol, telefonunuzun arama ekranını açıp `*#06#` tuşlamaktır. 32 haneli bir EID (eUICC Kimliği) görünüyorsa, cihazınız eSIM donanımına sahiptir. Yalnızca IMEI numaraları görüyorsanız, telefonunuz eSIM'i desteklemiyor. Bu test, iPhone, Samsung Galaxy, Google Pixel ve çoğu Android cihaz dahil tüm modern akıllı telefonlarda çalışır."
   
   - question: "Hangi iPhone modelleri eSIM'i destekler?"
-    answer: "eSIM, iPhone XR, XS, XS Max ve iPhone 11, 11 Pro, 11 Pro Max, SE (2020 ve 2022) ile iPhone 12'den iPhone 17'ye kadar tüm varyantlar dahil olmak üzere tüm yeni modellerde desteklenir. ABD iPhone 14 ve sonraki modeller yalnızca eSIM'dir. iPhone 8, 8 Plus ve iPhone X eSIM'i DESTEKLEMEZ."
+    answer: "eSIM, iPhone XR, XS, XS Max ve iPhone 11, 11 Pro, 11 Pro Max, SE (2020 ve 2022) ve iPhone 12'den iPhone 17'ye kadar tüm varyantlar dahil olmak üzere tüm yeni modellerde desteklenir. ABD iPhone 14 ve sonrası yalnızca eSIM'dir. iPhone 8, 8 Plus ve iPhone X eSIM'i DESTEKLEMEZ."
   
   - question: "Hangi Samsung Galaxy modelleri eSIM'i destekler?"
-    answer: "Samsung eSIM desteği modele ve bölgeye göre değişir. Desteklenen modeller şunlardır: Galaxy S20, S21, S22, S23, S24, S25 (uluslararası Exynos sürümleri), Z Fold / Z Flip serileri (3–7) ve Note20 Ultra (küresel Exynos). A serisi modeller (A13, A53, A54 gibi) eSIM'i yalnızca seçili uluslararası 5G varyantlarında bulundurur. Galaxy S20 FE eSIM'i DESTEKLEMEZ ve S10, S20 ve Note20 Ultra'nın ABD Snapdragon sürümlerinde de eSIM yoktur. Belirli cihazınızı doğrulamak için `*#06#` tuşlayın."
+    answer: "Samsung eSIM desteği modele ve bölgeye göre değişir. Desteklenen modeller şunlardır: Galaxy S20, S21, S22, S23, S24, S25 (uluslararası Exynos sürümleri), Z Fold / Z Flip serileri (3–7) ve Note20 Ultra (küresel Exynos). A serisi modellerden A13, A53 ve A54, yalnızca seçili uluslararası 5G varyantlarında eSIM'e sahiptir. Galaxy S20 FE eSIM'i DESTEKLEMEZ ve S10, S20 ve Note20 Ultra'nın ABD Snapdragon sürümleri de eSIM'den yoksundur. Spesifik cihazınızı doğrulamak için `*#06#` tuşlayın."
   
-  - question: "Google Pixel telefonlar eSIM'i destekliyor mu?"
-    answer: "Evet, Pixel 3'ten itibaren tüm Google Pixel modelleri eSIM'i destekler; Pixel 4, 5, 6, 6a, 7, 7a, 8, 8a, 9 ve en yeni Pixel 10 serisi dahil. Tek istisnalar, bazı Japon operatör kilitlemeli varyantlardır. `*#06#` tuşlayın – bir EID uyumluluğu onaylar."
+  - question: "Google Pixel telefonlar eSIM'i destekler mi?"
+    answer: "Evet, Pixel 3'ten itibaren tüm Google Pixel modelleri eSIM'i destekler; Pixel 4, 5, 6, 6a, 7, 7a, 8, 8a, 9 ve en yeni Pixel 10 serisi dahil. Tek istisnalar, bazı Japon operatör kilitli varyantlardır. `*#06#` tuşlayın – bir EID uyumluluğu onaylar."
   
-  - question: "ABD operatörümün eSIM'i telefonumda destekleyip desteklemediğini nasıl kontrol ederim?"
-    answer: "Telefonunuzun önce eSIM donanımına sahip olması gerekir – bir EID göründüğünü doğrulamak için `*#06#` tuşlayın. Ardından operatörünüzün resmi uyumluluk listesini kontrol edin: Verizon, iPhone XR ve daha yenilerini, Galaxy S21+'ı (ABD modelleri) ve Pixel 6+'yı destekler. T‑Mobile, çoğu modern iPhone'u, Galaxy S20+'ı (uluslararası) ve Pixel'leri destekler. US Mobile, iPhone'lar (XR–17), Pixel 4+ ve birçok Motorola Edge modeli ile çalışır. Bazı operatör kilitli telefonlar donanım mevcut olsa bile eSIM'i desteklemeyebileceğinden, her zaman doğrudan operatörünüzle teyit edin."
+  - question: "ABD operatörümün telefonumda eSIM'i destekleyip desteklemediğini nasıl kontrol ederim?"
+    answer: "Önce telefonunuzun bir EID'ye sahip olduğunu doğrulamak için `*#06#` tuşlayın. Varsa, operatör desteği genellikle bunu takip eder — cihazınızın kilit açık olması şartıyla. T-Mobile ve AT&T, kilit açık Android cihazlarda genellikle en esnek olanlardır; Verizon ise iPhone olmayan modellerde daha katı olma eğilimindedir. Birleşik Krallık'ta EE, eSIM ile en yeni iPhone'ları ve Galaxy S serisi telefonları destekler. En güvenli yaklaşım, operatörünüzün resmi sayfasını kontrol etmek veya bir seyahat planı satın almadan önce uyumluluğu test etmek için ücretsiz bir deneme eSIM kurmaktır."
   
-  - question: "Çin'de satın alınan telefonlar eSIM'i destekliyor mu?"
-    answer: "Çin anakarasında satılan iPhone'lar eSIM'i DESTEKLEMEZ – bu, iPhone XR'den iPhone 17'ye kadar tüm modeller için geçerlidir. Hong Kong ve Makao modellerinde eSIM olmadan iki fiziksel SIM yuvası bulunabilir. Çin'deki Samsung yerel modellerinde de genellikle eSIM yoktur. Google Pixel Çin'de resmi olarak satılmadığından, ithal birimler genellikle eSIM'i korur. `*#06#` tuşlayın – eğer bir EID görünmüyorsa, telefonunuz eSIM'i desteklemiyor. Bu durumda, bunun yerine fiziksel bir SIM kart kullanın."
+  - question: "Çin'de satın alınan telefonlar eSIM'i destekler mi?"
+    answer: "Çin anakarasında satılan iPhone'lar eSIM'i DESTEKLEMEZ – bu, iPhone XR'den iPhone 17'ye kadar tüm modeller için geçerlidir. Hong Kong ve Makao modellerinde eSIM olmadan iki fiziksel SIM yuvası bulunabilir. Çin'deki Samsung yerel modellerinde de tipik olarak eSIM yoktur. Google Pixel resmi olarak Çin'de satılmaz, bu nedenle ithal birimler genellikle eSIM'i korur. `*#06#` tuşlayın – hiçbir EID görünmüyorsa, telefonunuz eSIM'i desteklemiyor. Bu durumda, bunun yerine fiziksel bir SIM kart kullanın."
   
   - question: "eSIM ile seyahat etmeden önce ne yapmalıyım?"
-    answer: "1. Telefonunuzun bir EID'ye (eSIM donanımı) sahip olduğunu doğrulamak için `*#06#` tuşlayın. 2. Telefonunuzu en son işletim sistemine güncelleyin. 3. Kalkıştan önce Roami gibi küresel bir sağlayıcıdan bir eSIM planı satın alın (ücretsiz deneme sunuyoruz). 4. Wi‑Fi'ye bağlıyken eSIM profilini yükleyin. 5. İnişten sonra, Hücresel Ayarlar'da eSIM hattı için Veri Dolaşımı'nı etkinleştirin. Adım adım tam bir kılavuz için [eSIM kurulum kılavuzumuza] bakın."
+    answer: "1. Telefonunuzun bir EID'ye (eSIM donanımı) sahip olduğunu doğrulamak için `*#06#` tuşlayın. 2. Telefonunuzu en son işletim sistemine güncelleyin. 3. Kalkıştan önce Roami gibi küresel bir sağlayıcıdan bir eSIM planı satın alın (ücretsiz deneme sunuyoruz). 4. Wi-Fi'ye bağlıyken eSIM profilini yükleyin. 5. İnişten sonra, Hücresel Ayarlarınızda eSIM hattı için Veri Dolaşımı'nı etkinleştirin. Adım adım tam bir kılavuz için [eSIM kurulum kılavuzumuza] bakın."
+  
+  - question: "Telefonum eSIM uyumlu ancak operatör kilidi var. Seyahat eSIM'i kullanabilir miyim?"
+    answer: "Genellikle hayır. Operatör kilitli bir telefon, yalnızca bağlı olduğu operatörün eSIM'lerini kullanabilir — örneğin, T-Mobile kilitli bir telefon Roami veya Airalo eSIM'i yükleyemez. Seyahat eSIM'i kullanmadan önce operatörünüzden kilit açma talebinde bulunmanız gerekir. Telefonunuzu doğrudan Apple, Samsung veya Google'dan satın aldıysanız, neredeyse kesinlikle kilit açıktır ve kullanıma hazırdır."
 ---

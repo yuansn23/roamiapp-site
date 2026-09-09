@@ -2,7 +2,7 @@
 title: "Nord America eSIM | USA Canada Messico"
 description: "Visita USA, Canada o Messico con una sola eSIM Roami. Tutto il Nord America con un unico piano, semplice e conveniente per i viaggiatori."
 date: '2026-06-14T00:00:00+00:00'
-lastmod: '2026-06-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: Home

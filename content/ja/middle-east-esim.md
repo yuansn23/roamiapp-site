@@ -1,8 +1,8 @@
 ---
 title: "中東eSIM | 12カ国、高速5G、ローミングなし"
 description: "Roami中東eSIM：UAE、サウジアラビア、カタール、トルコなど12カ国でプリペイド5G。即時アクティベーション、ローミング料金なし。$1.99から。"
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-09-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: ホーム

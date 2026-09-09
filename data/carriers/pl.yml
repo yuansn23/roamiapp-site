@@ -1,0 +1,494 @@
+albania:
+  title: "Przewodnik po operatorach eSIM w Albanii"
+  desc_html: "Główni operatorzy w Albanii: Vodafone Albania, One Albania. Który ma lepszy sygnał? Czy obejmuje połączenia i hotspot? Kliknij, aby zobaczyć szczegółowe porównanie."
+  btn_text: "Operatorzy w Albanii"
+
+algeria:
+  title: "Przewodnik po operatorach eSIM w Algierii"
+  desc_html: "Główni operatorzy w Algierii: Algerie Telecom, Ooredoo, Djezzy. Kto obsługuje eSIM? Szybki przegląd różnic w cenach i zasięgu."
+  btn_text: "Operatorzy w Algierii"
+
+argentina:
+  title: "Przewodnik po operatorach eSIM w Argentynie"
+  desc_html: "Trzej główni operatorzy w Argentynie: Claro, Movistar, Personal. Porównanie usług eSIM – który jest bardziej opłacalny w roamingu międzynarodowym? Kliknij, aby zobaczyć."
+  btn_text: "Operatorzy w Argentynie"
+
+australia:
+  title: "Przewodnik po operatorach eSIM w Australii"
+  desc_html: "Główni dostawcy eSIM w Australii: Telstra, Optus, Vodafone. Porównanie zasięgu, prędkości i planów taryfowych, aby pomóc Ci szybko podjąć decyzję."
+  btn_text: "Operatorzy w Australii"
+
+azerbaijan:
+  title: "Przewodnik po operatorach eSIM w Azerbejdżanie"
+  desc_html: "Główni operatorzy w Azerbejdżanie: Azercell, Bakcell, Nar. Który eSIM obsługuje hotspot? Sprawdź szczegóły cenowe w środku."
+  btn_text: "Operatorzy w Azerbejdżanie"
+
+bahrain:
+  title: "Przewodnik po operatorach eSIM w Bahrajnie"
+  desc_html: "Operatorzy w Bahrajnie: Batelco, STC Bahrain, Zain Bahrain. Tabela porównawcza funkcji eSIM – zobacz na pierwszy rzut oka."
+  btn_text: "Operatorzy w Bahrajnie"
+
+bangladesh:
+  title: "Przewodnik po operatorach eSIM w Bangladeszu"
+  desc_html: "Główni operatorzy w Bangladeszu: Grameenphone, Robi, Banglalink. Kto oferuje eSIM? Porównaj zasięg i ceny."
+  btn_text: "Operatorzy w Bangladeszu"
+
+belarus:
+  title: "Przewodnik po operatorach eSIM na Białorusi"
+  desc_html: "Operatorzy na Białorusi: A1, MTS, Life. Różnice w obsłudze eSIM i planach taryfowych – kliknij po pełny przewodnik."
+  btn_text: "Operatorzy na Białorusi"
+
+belgium:
+  title: "Przewodnik po operatorach eSIM w Belgii"
+  desc_html: "Główni dostawcy eSIM w Belgii: Proximus, Orange, Base. Porównaj jakość sieci i ceny, aby wybrać najlepszą opcję."
+  btn_text: "Operatorzy w Belgii"
+
+bolivia:
+  title: "Przewodnik po operatorach eSIM w Boliwii"
+  desc_html: "Operatorzy w Boliwii: Entel, Tigo, Viva. Porównanie funkcji eSIM i zasięgu."
+  btn_text: "Operatorzy w Boliwii"
+
+bulgaria:
+  title: "Przewodnik po operatorach eSIM w Bułgarii"
+  desc_html: "Trzej główni operatorzy w Bułgarii: A1 Bulgaria, Yettel, Vivacom. Porównanie planów eSIM i polityki roamingu."
+  btn_text: "Operatorzy w Bułgarii"
+
+cambodia:
+  title: "Przewodnik po operatorach eSIM w Kambodży"
+  desc_html: "Główni operatorzy w Kambodży: Smart, Metfone, Cellcard. Który eSIM ma najszybszą prędkość? Czy obejmuje połączenia? Zobacz szczegóły."
+  btn_text: "Operatorzy w Kambodży"
+
+canada:
+  title: "Przewodnik po operatorach eSIM w Kanadzie"
+  desc_html: "Główni operatorzy w Kanadzie: Rogers, Bell, Telus. Porównaj funkcje eSIM, zasięg oraz opcje przyjazne dla budżetu."
+  btn_text: "Operatorzy w Kanadzie"
+
+chile:
+  title: "Przewodnik po operatorach eSIM w Chile"
+  desc_html: "Operatorzy w Chile: Entel, Movistar, Claro. Porównanie usług eSIM – która opcja jest lepsza? Kliknij, aby zobaczyć."
+  btn_text: "Operatorzy w Chile"
+
+china:
+  title: "Przewodnik po operatorach eSIM w Chinach"
+  desc_html: "Usługi eSIM trzech głównych operatorów w Chinach: China Mobile, China Unicom, China Telecom. Porównanie zasięgu, cen i obsługi urządzeń."
+  btn_text: "Operatorzy w Chinach"
+
+colombia:
+  title: "Przewodnik po operatorach eSIM w Kolumbii"
+  desc_html: "Główni operatorzy w Kolumbii: Claro, Movistar, Tigo. Porównanie funkcji eSIM – który obsługuje hotspot?"
+  btn_text: "Operatorzy w Kolumbii"
+
+costa-rica:
+  title: "Przewodnik po operatorach eSIM w Kostaryce"
+  desc_html: "Główni operatorzy w Kostaryce: ICE Kolbi, Claro, Movistar. Plany eSIM i różnice w zasięgu w skrócie."
+  btn_text: "Operatorzy w Kostaryce"
+
+croatia:
+  title: "Przewodnik po operatorach eSIM w Chorwacji"
+  desc_html: "Operatorzy w Chorwacji: Hrvatski Telekom, A1 Croatia, Telemach. Obsługa eSIM i polityka roamingu."
+  btn_text: "Operatorzy w Chorwacji"
+
+cyprus:
+  title: "Przewodnik po operatorach eSIM na Cyprze"
+  desc_html: "Główni operatorzy na Cyprze: Cyta, Epic, Primetel. Porównanie funkcji eSIM, w tym połączeń i hotspotu."
+  btn_text: "Operatorzy na Cyprze"
+
+czech-republic:
+  title: "Przewodnik po operatorach eSIM w Czechach"
+  desc_html: "Operatorzy w Czechach: O2 Czech, Vodafone, T-Mobile. Plany eSIM i porównanie zasięgu – szybki wybór."
+  btn_text: "Operatorzy w Czechach"
+
+denmark:
+  title: "Przewodnik po operatorach eSIM w Danii"
+  desc_html: "Główni dostawcy eSIM w Danii: TDC Net, Telenor, 3 Denmark. Różnice w prędkości i cenach – kliknij, aby zobaczyć."
+  btn_text: "Operatorzy w Danii"
+
+dominican:
+  title: "Przewodnik po operatorach eSIM na Dominikanie"
+  desc_html: "Operatorzy na Dominikanie: Claro, Altice, Viva. Tabela porównawcza funkcji eSIM."
+  btn_text: "Operatorzy na Dominikanie"
+
+dominican-republic:
+  title: "Przewodnik po operatorach eSIM w Republice Dominikańskiej"
+  desc_html: "Główni operatorzy w Republice Dominikańskiej: Claro, Altice, Viva. Zasięg eSIM i obsługa hotspotu w skrócie."
+  btn_text: "Operatorzy w Republice Dominikańskiej"
+
+ecuador:
+  title: "Przewodnik po operatorach eSIM w Ekwadorze"
+  desc_html: "Operatorzy w Ekwadorze: Claro, Movistar, CNT. Który eSIM jest bardziej opłacalny? Sprawdź w środku."
+  btn_text: "Operatorzy w Ekwadorze"
+
+egypt:
+  title: "Przewodnik po operatorach eSIM w Egipcie"
+  desc_html: "Główni operatorzy w Egipcie: Orange Egypt, Vodafone Egypt, Etisalat. Porównanie usług eSIM i rekomendacje planów."
+  btn_text: "Operatorzy w Egipcie"
+
+estonia:
+  title: "Przewodnik po operatorach eSIM w Estonii"
+  desc_html: "Operatorzy w Estonii: Telia, Elisa, Tele2. Szybka kontrola obsługi eSIM i cen."
+  btn_text: "Operatorzy w Estonii"
+
+ethiopia:
+  title: "Przewodnik po operatorach eSIM w Etiopii"
+  desc_html: "Operatorzy w Etiopii: Ethio Telecom, Safaricom Ethiopia. Porównanie planów eSIM i zasięgu."
+  btn_text: "Operatorzy w Etiopii"
+
+europe:
+  title: "Przewodnik po operatorach eSIM w Europie"
+  desc_html: "Paneuropejskie rekomendacje eSIM: Orange, Vodafone, Deutsche Telekom. Obejmuje roaming w wielu krajach i porównanie cen."
+  btn_text: "Operatorzy w Europie"
+
+fiji:
+  title: "Przewodnik po operatorach eSIM na Fidżi"
+  desc_html: "Główni operatorzy na Fidżi: Vodafone Fiji, Digicel Fiji. Różnice w funkcjach eSIM i zasięgu."
+  btn_text: "Operatorzy na Fidżi"
+
+finland:
+  title: "Przewodnik po operatorach eSIM w Finlandii"
+  desc_html: "Operatorzy w Finlandii: Telia Finland, Elisa, DNA. Plany eSIM i porównanie prędkości, w tym obsługa hotspotu."
+  btn_text: "Operatorzy w Finlandii"
+
+france:
+  title: "Przewodnik po operatorach eSIM we Francji"
+  desc_html: "Główni operatorzy we Francji: Orange, SFR, Bouygues Telecom. Szczegółowe porównanie usług eSIM, aby pomóc Ci wybrać."
+  btn_text: "Operatorzy we Francji"
+
+germany:
+  title: "Przewodnik po operatorach eSIM w Niemczech"
+  desc_html: "Trzej główni operatorzy w Niemczech: Deutsche Telekom, Vodafone, O2. Pełna analiza zasięgu i cen eSIM."
+  btn_text: "Operatorzy w Niemczech"
+
+ghana:
+  title: "Przewodnik po operatorach eSIM w Ghanie"
+  desc_html: "Główni operatorzy w Ghanie: MTN Ghana, Vodafone Ghana, AirtelTigo. Szybka kontrola usług eSIM."
+  btn_text: "Operatorzy w Ghanie"
+
+greece:
+  title: "Przewodnik po operatorach eSIM w Grecji"
+  desc_html: "Operatorzy w Grecji: Cosmote, Vodafone Greece, Nova. Porównaj plany eSIM i zasięg."
+  btn_text: "Operatorzy w Grecji"
+
+guatemala:
+  title: "Przewodnik po operatorach eSIM w Gwatemali"
+  desc_html: "Główni operatorzy w Gwatemali: Claro, Tigo, Movistar. Porównanie funkcji eSIM i cen."
+  btn_text: "Operatorzy w Gwatemali"
+
+hong-kong:
+  title: "Przewodnik po operatorach eSIM w Hongkongu"
+  desc_html: "Główni operatorzy w Hongkongu: CSL, China Mobile Hong Kong, 3 Hong Kong, SmarTone. Porównanie usług eSIM i polityki roamingu."
+  btn_text: "Operatorzy w Hongkongu"
+
+hungary:
+  title: "Przewodnik po operatorach eSIM na Węgrzech"
+  desc_html: "Operatorzy na Węgrzech: Magyar Telekom, Yettel Hungary, Vodafone Hungary. Zasięg i plany eSIM."
+  btn_text: "Operatorzy na Węgrzech"
+
+iceland:
+  title: "Przewodnik po operatorach eSIM na Islandii"
+  desc_html: "Operatorzy na Islandii: Siminn, Vodafone Iceland, Nova. Funkcje eSIM i porównanie prędkości."
+  btn_text: "Operatorzy na Islandii"
+
+india:
+  title: "Przewodnik po operatorach eSIM w Indiach"
+  desc_html: "Główni operatorzy w Indiach: Jio, Airtel, Vi. Plany eSIM i zasięg, aby pomóc Ci szybko podjąć decyzję."
+  btn_text: "Operatorzy w Indiach"
+
+indonesia:
+  title: "Przewodnik po operatorach eSIM w Indonezji"
+  desc_html: "Operatorzy w Indonezji: Telkomsel, XL Axiata, Indosat. Szczegóły usług eSIM i porównanie cen."
+  btn_text: "Operatorzy w Indonezji"
+
+iran:
+  title: "Przewodnik po operatorach eSIM w Iranie"
+  desc_html: "Główni operatorzy w Iranie: MCI, Irancell, Rightel. Obsługa eSIM i zasięg."
+  btn_text: "Operatorzy w Iranie"
+
+iraq:
+  title: "Przewodnik po operatorach eSIM w Iraku"
+  desc_html: "Operatorzy w Iraku: AsiaCell, Zain Iraq, Korek. Porównanie funkcji eSIM."
+  btn_text: "Operatorzy w Iraku"
+
+ireland:
+  title: "Przewodnik po operatorach eSIM w Irlandii"
+  desc_html: "Operatorzy w Irlandii: Eir, Vodafone Ireland, Three Ireland. Plany eSIM i polityka roamingu."
+  btn_text: "Operatorzy w Irlandii"
+
+israel:
+  title: "Przewodnik po operatorach eSIM w Izraelu"
+  desc_html: "Operatorzy w Izraelu: Pelephone, Cellcom, Partner. Porównanie eSIM, w tym połączeń i hotspotu."
+  btn_text: "Operatorzy w Izraelu"
+
+italy:
+  title: "Przewodnik po operatorach eSIM we Włoszech"
+  desc_html: "Główni operatorzy we Włoszech: TIM, Vodafone Italy, WindTre. Porównanie zasięgu i cen eSIM."
+  btn_text: "Operatorzy we Włoszech"
+
+japan:
+  title: "Przewodnik po operatorach eSIM w Japonii"
+  desc_html: "Główni operatorzy w Japonii: Docomo, SoftBank, KDDI au. Porównanie usług eSIM – który jest dobry dla turystów? Kliknij, aby zobaczyć."
+  btn_text: "Operatorzy w Japonii"
+
+jordan:
+  title: "Przewodnik po operatorach eSIM w Jordanii"
+  desc_html: "Operatorzy w Jordanii: Zain Jordan, Orange Jordan, Umniah. Szybka kontrola funkcji eSIM."
+  btn_text: "Operatorzy w Jordanii"
+
+kazakhstan:
+  title: "Przewodnik po operatorach eSIM w Kazachstanie"
+  desc_html: "Operatorzy w Kazachstanie: Kcell, Beeline, Tele2. Różnice w planach eSIM i zasięgu."
+  btn_text: "Operatorzy w Kazachstanie"
+
+kenya:
+  title: "Przewodnik po operatorach eSIM w Kenii"
+  desc_html: "Główni operatorzy w Kenii: Safaricom, Airtel Kenya, Telkom Kenya. Porównanie usług eSIM."
+  btn_text: "Operatorzy w Kenii"
+
+kuwait:
+  title: "Przewodnik po operatorach eSIM w Kuwejcie"
+  desc_html: "Operatorzy w Kuwejcie: Zain Kuwait, Ooredoo Kuwait, STC Kuwait. Tabela porównawcza funkcji eSIM."
+  btn_text: "Operatorzy w Kuwejcie"
+
+latvia:
+  title: "Przewodnik po operatorach eSIM na Łotwie"
+  desc_html: "Operatorzy na Łotwie: LMT, Tele2 Latvia, Bite Latvija. Obsługa eSIM i ceny."
+  btn_text: "Operatorzy na Łotwie"
+
+lithuania:
+  title: "Przewodnik po operatorach eSIM na Litwie"
+  desc_html: "Operatorzy na Litwie: Telia Lithuania, Bitė Lithuania, Tele2 Lithuania. Szczegóły planów eSIM."
+  btn_text: "Operatorzy na Litwie"
+
+luxembourg:
+  title: "Przewodnik po operatorach eSIM w Luksemburgu"
+  desc_html: "Operatorzy w Luksemburgu: POST Luxembourg, Orange Luxembourg, Tango. Porównanie usług eSIM."
+  btn_text: "Operatorzy w Luksemburgu"
+
+macau:
+  title: "Przewodnik po operatorach eSIM w Makau"
+  desc_html: "Główni operatorzy w Makau: CTM, 3 Macau, China Telecom Macau. Zasięg eSIM i polityka roamingu."
+  btn_text: "Operatorzy w Makau"
+
+malaysia:
+  title: "Przewodnik po operatorach eSIM w Malezji"
+  desc_html: "Operatorzy w Malezji: Celcom, Maxis, Digi, UMobile. Porównanie funkcji eSIM."
+  btn_text: "Operatorzy w Malezji"
+
+maldives:
+  title: "Przewodnik po operatorach eSIM na Malediwach"
+  desc_html: "Operatorzy na Malediwach: Dhiraagu, Ooredoo Maldives. Plany eSIM i zasięg na wyspach."
+  btn_text: "Operatorzy na Malediwach"
+
+malta:
+  title: "Przewodnik po operatorach eSIM na Malcie"
+  desc_html: "Operatorzy na Malcie: GO Mobile, Melita, Vodafone Malta. Szybka kontrola usług eSIM."
+  btn_text: "Operatorzy na Malcie"
+
+mauritius:
+  title: "Przewodnik po operatorach eSIM na Mauritiusie"
+  desc_html: "Operatorzy na Mauritiusie: MyT, Emtel, Chili. Porównanie eSIM i cen."
+  btn_text: "Operatorzy na Mauritiusie"
+
+mexico:
+  title: "Przewodnik po operatorach eSIM w Meksyku"
+  desc_html: "Główni operatorzy w Meksyku: Telcel, Movistar, AT&T Mexico. Porównanie zasięgu i planów eSIM."
+  btn_text: "Operatorzy w Meksyku"
+
+mongolia:
+  title: "Przewodnik po operatorach eSIM w Mongolii"
+  desc_html: "Operatorzy w Mongolii: Mobicom, Unitel, Skytel. Obsługa eSIM i ceny."
+  btn_text: "Operatorzy w Mongolii"
+
+montenegro:
+  title: "Przewodnik po operatorach eSIM w Czarnogórze"
+  desc_html: "Operatorzy w Czarnogórze: Telenor Montenegro, Crnogorski Telekom, M:tel. Porównanie funkcji eSIM."
+  btn_text: "Operatorzy w Czarnogórze"
+
+morocco:
+  title: "Przewodnik po operatorach eSIM w Maroku"
+  desc_html: "Operatorzy w Maroku: Maroc Telecom, Orange Morocco, Inwi. Porównanie usług eSIM."
+  btn_text: "Operatorzy w Maroku"
+
+myanmar:
+  title: "Przewodnik po operatorach eSIM w Mjanmie"
+  desc_html: "Operatorzy w Mjanmie: Mytel, Telenor Myanmar, MPT, Ooredoo Myanmar. Szybki przegląd eSIM."
+  btn_text: "Operatorzy w Mjanmie"
+
+namibia:
+  title: "Przewodnik po operatorach eSIM w Namibii"
+  desc_html: "Operatorzy w Namibii: MTC Namibia, Telecom Namibia. Plany eSIM i zasięg."
+  btn_text: "Operatorzy w Namibii"
+
+nepal:
+  title: "Przewodnik po operatorach eSIM w Nepalu"
+  desc_html: "Operatorzy w Nepalu: Ncell, Nepal Telecom. Funkcje eSIM i ceny."
+  btn_text: "Operatorzy w Nepalu"
+
+netherlands:
+  title: "Przewodnik po operatorach eSIM w Holandii"
+  desc_html: "Główni operatorzy w Holandii: KPN, Vodafone, T-Mobile, Odido. Szczegółowe porównanie usług eSIM."
+  btn_text: "Operatorzy w Holandii"
+
+new-zealand:
+  title: "Przewodnik po operatorach eSIM w Nowej Zelandii"
+  desc_html: "Operatorzy w Nowej Zelandii: Spark, One NZ, 2degrees. Zasięg eSIM i polityka roamingu."
+  btn_text: "Operatorzy w Nowej Zelandii"
+
+nicaragua:
+  title: "Przewodnik po operatorach eSIM w Nikaragui"
+  desc_html: "Operatorzy w Nikaragui: Claro, Movistar. Porównanie funkcji eSIM."
+  btn_text: "Operatorzy w Nikaragui"
+
+nigeria:
+  title: "Przewodnik po operatorach eSIM w Nigerii"
+  desc_html: "Główni operatorzy w Nigerii: MTN Nigeria, Airtel Nigeria, Glo, 9mobile. Porównanie usług eSIM."
+  btn_text: "Operatorzy w Nigerii"
+
+north-macedonia:
+  title: "Przewodnik po operatorach eSIM w Macedonii Północnej"
+  desc_html: "Operatorzy w Macedonii Północnej: Makedonski Telekom, A1 Macedonia. Plany eSIM i obsługa."
+  btn_text: "Operatorzy w Macedonii Północnej"
+
+norway:
+  title: "Przewodnik po operatorach eSIM w Norwegii"
+  desc_html: "Operatorzy w Norwegii: Telenor, Telia Norway, Ice. Porównanie zasięgu i cen eSIM."
+  btn_text: "Operatorzy w Norwegii"
+
+oman:
+  title: "Przewodnik po operatorach eSIM w Omanie"
+  desc_html: "Operatorzy w Omanie: Omantel, Ooredoo Oman, Vodafone Oman. Szybka kontrola funkcji eSIM."
+  btn_text: "Operatorzy w Omanie"
+
+pakistan:
+  title: "Przewodnik po operatorach eSIM w Pakistanie"
+  desc_html: "Operatorzy w Pakistanie: Jazz, Zong, Telenor Pakistan, Ufone. Porównanie usług eSIM."
+  btn_text: "Operatorzy w Pakistanie"
+
+panama:
+  title: "Przewodnik po operatorach eSIM w Panamie"
+  desc_html: "Operatorzy w Panamie: +Móvil, Claro Panamá, Tigo. Zasięg i plany eSIM."
+  btn_text: "Operatorzy w Panamie"
+
+peru:
+  title: "Przewodnik po operatorach eSIM w Peru"
+  desc_html: "Operatorzy w Peru: Movistar, Claro, Entel, Bitel. Porównanie funkcji eSIM."
+  btn_text: "Operatorzy w Peru"
+
+philippines:
+  title: "Przewodnik po operatorach eSIM na Filipinach"
+  desc_html: "Główni operatorzy na Filipinach: Globe, Smart, DITO. Porównanie planów eSIM i zasięgu."
+  btn_text: "Operatorzy na Filipinach"
+
+portugal:
+  title: "Przewodnik po operatorach eSIM w Portugalii"
+  desc_html: "Operatorzy w Portugalii: MEO, NOS, Vodafone Portugal. Szczegółowy przegląd usług eSIM."
+  btn_text: "Operatorzy w Portugalii"
+
+romania:
+  title: "Przewodnik po operatorach eSIM w Rumunii"
+  desc_html: "Operatorzy w Rumunii: Orange Romania, Vodafone Romania, Telekom Romania. Porównanie eSIM."
+  btn_text: "Operatorzy w Rumunii"
+
+russia:
+  title: "Przewodnik po operatorach eSIM w Rosji"
+  desc_html: "Główni operatorzy w Rosji: MTS, Beeline, MegaFon, Tele2 Russia. Obsługa eSIM i ceny."
+  btn_text: "Operatorzy w Rosji"
+
+saudi-arabia:
+  title: "Przewodnik po operatorach eSIM w Arabii Saudyjskiej"
+  desc_html: "Operatorzy w Arabii Saudyjskiej: STC, Mobily, Zain KSA. Porównanie funkcji eSIM i rekomendacje planów."
+  btn_text: "Operatorzy w Arabii Saudyjskiej"
+
+singapore:
+  title: "Przewodnik po operatorach eSIM w Singapurze"
+  desc_html: "Trzej główni operatorzy w Singapurze: Singtel, StarHub, M1. Porównanie usług eSIM i planów dla turystów."
+  btn_text: "Operatorzy w Singapurze"
+
+slovakia:
+  title: "Przewodnik po operatorach eSIM na Słowacji"
+  desc_html: "Operatorzy na Słowacji: Slovak Telekom, Orange Slovensko, O2 Slovakia. Plany eSIM."
+  btn_text: "Operatorzy na Słowacji"
+
+south-africa:
+  title: "Przewodnik po operatorach eSIM w Republice Południowej Afryki"
+  desc_html: "Główni operatorzy w RPA: Vodacom, MTN South Africa, Telkom, Cell C. Porównanie eSIM."
+  btn_text: "Operatorzy w RPA"
+
+south-korea:
+  title: "Przewodnik po operatorach eSIM w Korei Południowej"
+  desc_html: "Trzej główni operatorzy w Korei Południowej: SK Telecom, KT, LG U+. Zasięg i ceny eSIM – który jest odpowiedni dla turystów?"
+  btn_text: "Operatorzy w Korei Południowej"
+
+spain:
+  title: "Przewodnik po operatorach eSIM w Hiszpanii"
+  desc_html: "Operatorzy w Hiszpanii: Movistar, Vodafone Spain, Orange Spain, MásMóvil. Szczegółowy przegląd usług eSIM."
+  btn_text: "Operatorzy w Hiszpanii"
+
+sweden:
+  title: "Przewodnik po operatorach eSIM w Szwecji"
+  desc_html: "Operatorzy w Szwecji: Telia Sweden, Tele2, Telenor Sweden, Tre. Plany eSIM i zasięg."
+  btn_text: "Operatorzy w Szwecji"
+
+switzerland:
+  title: "Przewodnik po operatorach eSIM w Szwajcarii"
+  desc_html: "Operatorzy w Szwajcarii: Swisscom, Sunrise, Salt. Porównanie funkcji eSIM i polityki roamingu."
+  btn_text: "Operatorzy w Szwajcarii"
+
+taiwan:
+  title: "Przewodnik po operatorach eSIM na Tajwanie"
+  desc_html: "Główni operatorzy na Tajwanie: Chunghwa Telecom, Taiwan Mobile, FarEasTone. Porównanie usług eSIM."
+  btn_text: "Operatorzy na Tajwanie"
+
+thailand:
+  title: "Przewodnik po operatorach eSIM w Tajlandii"
+  desc_html: "Trzej główni operatorzy w Tajlandii: AIS, TrueMove H, DTAC. Plany eSIM i pakiety dla turystów."
+  btn_text: "Operatorzy w Tajlandii"
+
+tunisia:
+  title: "Przewodnik po operatorach eSIM w Tunezji"
+  desc_html: "Operatorzy w Tunezji: Tunisie Telecom, Orange Tunisie, Ooredoo Tunisie. Obsługa eSIM."
+  btn_text: "Operatorzy w Tunezji"
+
+turkey:
+  title: "Przewodnik po operatorach eSIM w Turcji"
+  desc_html: "Operatorzy w Turcji: Turkcell, Vodafone Turkey, Türk Telekom. Porównanie usług eSIM."
+  btn_text: "Operatorzy w Turcji"
+
+uganda:
+  title: "Przewodnik po operatorach eSIM w Ugandzie"
+  desc_html: "Operatorzy w Ugandzie: MTN Uganda, Airtel Uganda. Plany eSIM i zasięg."
+  btn_text: "Operatorzy w Ugandzie"
+
+ukraine:
+  title: "Przewodnik po operatorach eSIM na Ukrainie"
+  desc_html: "Operatorzy na Ukrainie: Kyivstar, Vodafone Ukraine, Lifecell. Szybka kontrola funkcji eSIM."
+  btn_text: "Operatorzy na Ukrainie"
+
+united-arab-emirates:
+  title: "Przewodnik po operatorach eSIM w Zjednoczonych Emiratach Arabskich"
+  desc_html: "Operatorzy w ZEA: Etisalat, du. Porównanie usług eSIM i planów dla turystów."
+  btn_text: "Operatorzy w ZEA"
+
+united-kingdom:
+  title: "Przewodnik po operatorach eSIM w Wielkiej Brytanii"
+  desc_html: "Główni operatorzy w Wielkiej Brytanii: EE, Vodafone UK, O2, Three. Porównanie planów eSIM i zasięgu."
+  btn_text: "Operatorzy w Wielkiej Brytanii"
+
+united-states:
+  title: "Przewodnik po operatorach eSIM w Stanach Zjednoczonych"
+  desc_html: "Trzej główni operatorzy w USA: AT&T, T-Mobile, Verizon. Porównanie funkcji eSIM – który obejmuje połączenia i hotspot?"
+  btn_text: "Operatorzy w USA"
+
+uruguay:
+  title: "Przewodnik po operatorach eSIM w Urugwaju"
+  desc_html: "Operatorzy w Urugwaju: Antel, Claro Uruguay, Movistar Uruguay. Szczegóły usług eSIM."
+  btn_text: "Operatorzy w Urugwaju"
+
+venezuela:
+  title: "Przewodnik po operatorach eSIM w Wenezueli"
+  desc_html: "Operatorzy w Wenezueli: Movistar, Digitel, Movilnet. Porównanie funkcji eSIM."
+  btn_text: "Operatorzy w Wenezueli"
+
+vietnam:
+  title: "Przewodnik po operatorach eSIM w Wietnamie"
+  desc_html: "Operatorzy w Wietnamie: Viettel, Vinaphone, Mobifone. Porównanie planów eSIM i zasięgu."
+  btn_text: "Operatorzy w Wietnamie"

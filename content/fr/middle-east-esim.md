@@ -1,8 +1,8 @@
 ---
 title: Moyen-Orient eSIM | 12 pays, 5G rapide, sans frais d'itinérance
 description: Restez connecté au Moyen-Orient avec une seule eSIM prépayée Roami — la meilleure eSIM pour voyager au Moyen-Orient. 5G aux Émirats, en Arabie Saoudite, au Qatar, en Turquie et dans 8 autres pays. Activation instantanée sur les réseaux locaux. Tarifs à partir de 1,99 $.
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-09-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: Accueil

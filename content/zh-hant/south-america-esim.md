@@ -1,8 +1,8 @@
 ---
 title: 南美 eSIM | 11 國通用，5G 最低 $1.99
 description: 一張預付 Roami eSIM 探索南美 — 南美旅行首選。巴西、阿根廷、智利、哥倫比亞、秘魯及 6 國皆享 5G 網路，當地網路即時啟用。方案 $1.99 起。
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-09-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: 首頁

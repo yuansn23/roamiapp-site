@@ -1,8 +1,8 @@
 ---
 title: Middle East eSIM | 12 Countries, Fast 5G, No Roaming
 description: "Roami Middle East eSIM: Prepaid 5G in UAE, Saudi Arabia, Qatar, Turkey & 8 more countries. Instant activation, no roaming fees. From $1.99."
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-09-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: Home

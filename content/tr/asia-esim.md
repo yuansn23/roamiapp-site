@@ -2,7 +2,7 @@
 title: "Asya eSIM | 15+ Ülke İçin En İyi Seyahat Planı"
 description: "Roami'nin en iyi ön ödemeli seyahat eSIM'i ile Asya'yı keşfedin. Japonya, Kore, Tayland ve 12+ ülkede sınırsız 5G veri. Tüm seyahatiniz için tek plan."
 date: '2026-08-10T00:00:00+00:00'
-lastmod: '2026-06-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: Ana Sayfa

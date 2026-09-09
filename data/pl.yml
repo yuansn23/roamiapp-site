@@ -1,0 +1,83 @@
+related_products:
+  title: Podobne plany eSIM
+  items:
+    - name: eSIM USA
+      flag: img/flags/us.svg
+      price: Od $1.99
+      is_highlight: false
+      slug: united-states-esim
+    - name: eSIM Chiny
+      flag: img/flags/cn.svg
+      price: Od $1.99
+      is_highlight: false
+      slug: china-esim
+    - name: eSIM Niemcy
+      flag: img/flags/de.svg
+      price: Od $1.99
+      is_highlight: false
+      slug: germany-esim
+    - name: eSIM Japonia
+      flag: img/flags/jp.svg
+      price: Od $1.99
+      is_highlight: false
+      slug: japan-esim
+    - name: eSIM Wielka Brytania
+      flag: img/flags/gb.svg
+      price: Od $1.99
+      is_highlight: false
+      slug: united-kingdom-esim
+    - name: eSIM Francja
+      flag: img/flags/fr.svg
+      price: Od $1.99
+      is_highlight: false
+      slug: france-esim
+    - name: eSIM Włochy
+      flag: img/flags/it.svg
+      price: Od $1.99
+      is_highlight: false
+      slug: italy-esim
+    - name: eSIM Kanada
+      flag: img/flags/ca.svg
+      price: Od $1.99
+      is_highlight: false
+      slug: canada-esim
+    - name: eSIM Brazylia
+      flag: img/flags/br.svg
+      price: Od $1.99
+      is_highlight: false
+      slug: brazil-esim
+    - name: eSIM Hiszpania
+      flag: img/flags/es.svg
+      price: Od $1.99
+      is_highlight: false
+      slug: spain-esim
+    - name: eSIM Korea Południowa
+      flag: img/flags/kr.svg
+      price: Od $1.99
+      is_highlight: false
+      slug: south-korea-esim
+    - name: eSIM Australia
+      flag: img/flags/au.svg
+      price: Od $1.99
+      is_highlight: false
+      slug: australia-esim
+    - name: eSIM Turcja
+      flag: img/flags/tr.svg
+      price: Od $1.99
+      is_highlight: false
+      slug: turkey-esim
+    - name: eSIM Tajwan
+      flag: img/flags/tw.svg
+      price: Od $1.99
+      is_highlight: false
+      slug: taiwan-esim
+    - name: eSIM ZEA
+      flag: img/flags/ae.svg
+      price: Od $1.99
+      is_highlight: false
+      slug: united-arab-emirates-esim
+    - name: eSIM Austria
+      flag: img/flags/at.svg
+      price: Od $1.99
+      is_highlight: false
+      slug: austria-esim

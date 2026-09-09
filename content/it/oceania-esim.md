@@ -1,8 +1,8 @@
 ---
 title: eSIM Oceania | Australia, Nuova Zelanda, Figi e Guam
 description: Rimani connesso in tutta l'Oceania con una sola eSIM prepagata Roami — la migliore eSIM per viaggiare in Australia, NZ e Figi. 5G sulle reti locali con attivazione istantanea. Hotspot incluso. Piani dati illimitati da $1.99.
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-09-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: Home

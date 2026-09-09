@@ -894,3 +894,58 @@ weight = 14
     modal_title = "แจ้งเตือน"
     modal_cancel = "ยกเลิก"
     modal_confirm = "ไปเลย"
+	
+[languages.pl]
+languageName = "Polski"
+contentDir = "content/pl"
+weight = 15
+
+[languages.pl.params]
+# Teksty nawigacji
+nav_links = [
+  { name = "Strona główna", url = "/" },
+  { name = "Kup eSIM", url = "/plans/" },
+  { name = "Kompatybilność eSIM", url = "/compatibility/" },
+  { name = "Darmowy eSIM", url = "/free-esim/" },
+  { name = "Aplikacja Roami", url = "/app/" },
+  { name = "FAQ", url = "/faq/" }
+]
+
+# Teksty stopki
+footer_desc = "Świadczymy usługi premium eSIM w ponad 200 krajach i regionach, zapewniając łączność gdziekolwiek podróżujesz."
+
+footer_col1_title = "Najpopularniejsze kierunki"
+footer_col1_links = [
+  { name = "eSIM Azja", url = "/asia-esim/" },
+  { name = "eSIM Europa", url = "/europe-esim/" },
+  { name = "eSIM Afryka", url = "/africa-esim/" },
+  { name = "eSIM Ameryka Południowa", url = "/south-america-esim/" },
+  { name = "eSIM Ameryka Północna", url = "/north-america-esim/" },
+  { name = "eSIM Bliski Wschód", url = "/middle-east-esim/" }
+]
+
+footer_col2_title = "Obsługa klienta"
+footer_col2_links = [
+  { name = "FAQ", url = "/faq/" },
+  { name = "Blog", url = "/blog/" },
+  { name = "Kompatybilność eSIM", url = "/compatibility/" },
+  { name = "Pobierz Roami", url = "/app/" }
+]
+
+footer_col3_title = "Informacje o firmie"
+footer_col3_links = [
+  { name = "O nas", url = "/about-us/" },
+  { name = "Darmowy eSIM", url = "/free-esim/" },
+  { name = "Polityka zwrotów", url = "/refund/" },
+  { name = "Skontaktuj się z nami", url = "/contact/" },
+  { name = "Polityka prywatności", url = "/privacy/" },
+  { name = "Warunki korzystania z usług", url = "/terms/" }
+]
+
+footer_copyright = "© 2026 Roami. Wszelkie prawa zastrzeżone."
+footer_slogan = "Profesjonalny globalny dostawca usług eSIM | Ekspert w roamingu danych eSIM"
+
+# Teksty okna modalnego
+modal_title = "Powiadomienie"
+modal_cancel = "Anuluj"
+modal_confirm = "Przejdź teraz"

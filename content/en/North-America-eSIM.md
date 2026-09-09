@@ -2,7 +2,7 @@
 title: "North America eSIM | Best Prepaid Plan for 3 Countries"
 description: "Cross North America with one prepaid travel eSIM from Roami. Unlimited 5G data in USA, Canada & Mexico. No roaming at borders. Instant activation."
 date: '2026-06-11T00:00:00+00:00'
-lastmod: '2026-06-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: Home

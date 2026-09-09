@@ -2,7 +2,7 @@
 title: "Avrupa eSIM | 40+ Ülke İçin En İyi Ön Ödemeli Plan"
 description: "Roami ile tek bir ön ödemeli seyahat eSIM'i ile Avrupa'da seyahat edin. 40+ ülkede sınırsız 5G veri. SIM kart değiştirme yok, dolaşım yok. Planınızı çevrimiçi satın alın."
 date: '2026-06-11T00:00:00+00:00'
-lastmod: 2026-06-08
+lastmod: 2026-09-08
 type: regional-esim
 breadcrumbs:
 - name: Ana Sayfa

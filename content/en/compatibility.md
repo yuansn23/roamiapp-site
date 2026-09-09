@@ -1,9 +1,9 @@
 ---
-title: "eSIM Compatible Devices List | 300+ Phones(2026)"
-description: "Check if your phone works with prepaid travel eSIM plans from Roami. 300+ devices tested. Buy your unlimited data plan with confidence."
+title: "eSIM Compatible Devices List | 300+ Phones (2026)"
+description: "Unsure if your phone supports eSIM? This guide shows you exactly how to check in 30 seconds, lists all compatible models, and explains what to do if your device isn't on the list. Make a confident decision before you travel."
 keywords: ["eSIM compatible phones"]
 layout: "compatibility"
-date: '2026-08-18T00:00:00+00:00'
+date: '2026-09-09T00:00:00+00:00'
 type: "page"
 
 # Structured FAQ data for SEO
@@ -14,12 +14,22 @@ faq_schema:
     answer: "Most iPhones released after 2018 support eSIM, including the iPhone 17, 16, 15, 14, 13, 12, 11, XS, XR and SE (2020/2022) series. iPhone 17 Pro Max, iPhone 17 Pro, iPhone 17 Air are also fully compatible. Note: iPhones sold in mainland China do not support eSIM. Older models like iPhone 6s, 7, 8, and X do NOT support eSIM."
   - question: "Are Samsung Galaxy phones eSIM compatible?"
     answer: "Yes, many Samsung phones support eSIM, including Galaxy S25, S24, S23, S22, S21, S20 series, as well as Galaxy Z Fold and Z Flip series. For example, Samsung Galaxy S25 Ultra, Galaxy Z Fold6, Galaxy S24 FE all work with eSIM. Find out which Samsung models support eSIM in our list."
+  - question: "My phone is eSIM compatible, but it's carrier-locked. Can I still use a travel eSIM?"
+    answer: "Usually, no. A carrier-locked phone can only use eSIMs from the carrier it's locked to. You'll need to request an unlock from your carrier before you can use a travel eSIM. If you bought your phone directly from the manufacturer (Apple, Samsung, Google), it's almost certainly unlocked."
 
 # Page header
 header:
   title: "eSIM Compatible Devices List | 300+ Phones"
-  subtitle: "Find out which smartphones, including the latest iPhone, Samsung and Google Pixel models, support global eSIM connectivity with Roami. Stay connected in over 200 countries. Here you'll find eSIM phones: from iPhone 17 to Samsung Galaxy S25 and Google Pixel 10 – plus answers to common questions like \"is my iPhone 11 eSIM compatible?\", \"does Samsung S20 support eSIM?\", and \"which phones work with Airalo or Visible?\"."
+  subtitle: "Find out which smartphones — from the latest iPhone, Samsung Galaxy, and Google Pixel flagships to budget-friendly eSIM-compatible Android devices — support global connectivity with Roami. Stay connected in over 200 countries. This guide covers everything from specific model checks to carrier-specific compatibility (including T-Mobile, AT&T, Verizon, and EE UK), so you can confirm your phone works before you travel."
   search_placeholder: "E.g.: iPhone 17, Samsung S25 Ultra, Xiaomi 15T Pro, Google Pixel 10"
+
+# Quick compatibility checklist
+quick_checklist:
+  title: "✅ Quick Compatibility Checklist"
+  steps:
+    - "Dial <strong>*#06#</strong> on your phone – if a 32-digit <strong>EID number</strong> appears, your device has eSIM hardware."
+    - "Go to Settings > Cellular/Mobile Network – look for an <strong>'Add eSIM'</strong> or <strong>'SIM Manager'</strong> option."
+    - "Make sure your phone is <strong>unlocked</strong> – carrier-locked devices may not work with travel eSIMs."
 
 # Free eSIM banner (above the fold)
 free_esim_banner:
@@ -75,10 +85,11 @@ quick_guides:
     - text: "eSIM Activation Errors: 2026 Troubleshooting Guide"
       url: "/faq/esim-activation-errors-troubleshooting-guide/"
 
+
 # No search results configuration
 no_results:
   title: "Device not found"
-  description: "Try searching by a broader brand name (Apple, Samsung) or check one of the popular models: iPhone 17, Galaxy S25, Pixel 10 Pro. Most modern phones support eSIM. If you don't know if your phone supports eSIM, dial *#06# — the appearance of an EID confirms compatibility."
+  description: "Try searching by a broader brand name (Apple, Samsung) or check one of the popular models: iPhone 17, Galaxy S25, Pixel 10 Pro. Most modern phones support eSIM. If you don't see your phone, it's likely not compatible. However, some regional variants may be missing. The only way to be 100% sure is to check your phone's settings for an 'Add eSIM' option — if it's not there, your phone doesn't support eSIM. If you don't know if your phone supports eSIM, dial *#06# — the appearance of an EID confirms compatibility."
   box_title: "Best way to check?"
   box_desc: "The easiest way to confirm compatibility is to try installing a free eSIM. If installation succeeds, your device is ready to go!"
   button_text: "Get a free trial eSIM"
@@ -157,7 +168,7 @@ brands:
   - name: "Apple iPhone"
     icon: "apple"
     bg_color: "bg-slate-900"
-    description: "<strong>iPhone 11, iPhone XR, iPhone SE (2020/2022)</strong> are all eSIM compatible – as well as iPhone 12/13/14/15/16/17 series. All iPhone models from <strong>iPhone XS/XR</strong> to <strong>iPhone 17 Pro Max</strong> support eSIM. Set up eSIM on iPhone via QR code or carrier app. The lineup includes iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, iPhone 16, iPhone 15, iPhone 14, iPhone 13, iPhone 12, iPhone 11 and SE. Find out which iPhones support eSIM in our table."
+    description: "<strong>⚠️ Critical:</strong> iPhones sold in <strong>mainland China do not support eSIM</strong>. Models from Hong Kong and Macau have <strong>limited</strong> support.<br><br><strong>iPhone 11, iPhone XR, iPhone SE (2020/2022)</strong> are all eSIM compatible – as well as iPhone 12/13/14/15/16/17 series. All iPhone models from <strong>iPhone XS/XR</strong> to <strong>iPhone 17 Pro Max</strong> support eSIM. Set up eSIM on iPhone via QR code or carrier app. The lineup includes iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, iPhone 16, iPhone 15, iPhone 14, iPhone 13, iPhone 12, iPhone 11 and SE. Find out which iPhones support eSIM in our table."
     note: "<strong>Note:</strong> iPhones sold in mainland China do not support eSIM. iPhones sold in Hong Kong and Macau have only partial eSIM support. Please check your specific model.<br><strong>Important for older models:</strong> iPhone 6s, 6s Plus, 7, 7 Plus, 8, 8 Plus, and iPhone X do NOT support eSIM (hardware limitation). Searches like \"iphone 7 esim compatible\" or \"iphone 6s esim compatible\" will return negative – you need at least an iPhone XR or newer."
     note_class: "bg-amber-50 border-amber-100 text-amber-800"
     groups:
@@ -200,7 +211,7 @@ brands:
   - name: "Samsung"
     icon: "smartphone"
     bg_color: "bg-blue-600"
-    description: "<strong>Samsung Galaxy S20, S21, S22, S23, S24, S25</strong> series all support eSIM, including popular models like Galaxy S20, S22, and even select A series (A13 5G, A54). Flagship <strong>Samsung Galaxy S25/S24/S23</strong> and foldable <strong>Z Fold/Z Flip</strong> series are fully eSIM compatible. Samsung Galaxy S25 Ultra, Galaxy S24+, Galaxy Z Fold6, Galaxy Z Flip6, as well as the Galaxy A series (A54, A55, A35) support eSIM. <strong>Additional compatible models:</strong> Galaxy S20 FE, S21 FE, S22 Ultra, S23 FE, Note 20 Ultra, Galaxy A12, A13, A22, A23, A32, A33, A51, A52, A52s, A53, A71, A72, A73 – all support eSIM in their international/unlocked versions. Find out which Samsung phones support eSIM in our list."
+    description: "<strong>⚠️ Critical:</strong> The <strong>Galaxy S20 FE does NOT support eSIM</strong>. US carrier-locked Snapdragon variants often lack eSIM functionality.<br><br><strong>Samsung Galaxy S20, S21, S22, S23, S24, S25</strong> series and foldable <strong>Z Fold/Z Flip</strong> models all support eSIM. The Galaxy A series offers broad support across recent models — from the entry-level A15 and A16 to the mid-range A35, A55, and the newer A56. Older A-series models like the A25 and A26 also work in their international versions. For travelers on a budget, these A-series devices offer reliable eSIM support without the flagship price tag. Find out which Samsung phones support eSIM in our list."
     note: "*Some regional versions may not be eSIM compatible. Please check your device manual. US carrier-locked models often lack eSIM."
     note_class: "text-slate-500 bg-transparent border-transparent"
     groups:
@@ -256,6 +267,10 @@ brands:
         - "Samsung Galaxy A35"
         - "Samsung Galaxy A56"
         - "Samsung Galaxy A36"
+        - "Samsung Galaxy A15"
+        - "Samsung Galaxy A16"
+        - "Samsung Galaxy A25"
+        - "Samsung Galaxy A26"
         - "Samsung Galaxy Z TriFold"
         - "Samsung Galaxy A27"
         - "Samsung Galaxy XCover7"
@@ -303,7 +318,7 @@ brands:
   - name: "Motorola"
     icon: "smartphone"
     bg_color: "bg-indigo-600"
-    description: "Check your model in the list below. Most modern Motorola smartphones have eSIM, including <strong>Moto G Power, Moto G Stylus, Edge series</strong>, and foldable Razr. Models like Moto G Power (2024), Moto G Stylus 5G (2023/2024), Edge 50/60 series all support eSIM."
+    description: "Check your model in the list below. Most modern Motorola smartphones have eSIM, including the <strong>Edge series, foldable Razr, and popular Moto G line</strong>. If you're looking for an affordable entry point, the Moto G series — including Moto G Power, Moto G Stylus, Moto G Play, Moto G 5G, and Moto G 2025 — gives you eSIM without the flagship price. Edge 50/60/70 series and Razr models are fully supported."
     groups:
       - devices:
         - "Motorola Razr 2019"
@@ -336,6 +351,10 @@ brands:
         - "Motorola Razr+ 2024"
         - "Motorola Razr 2024"
         - "Motorola Moto G Stylus 5G 2024"
+        - "Motorola Moto G Play (2024)"
+        - "Motorola Moto G 5G (2024)"
+        - "Motorola Moto G 2025"
+        - "Motorola Moto G24"
         - "Motorola Moto G35"
         - "Motorola Edge 60"
         - "Motorola Edge 60 Pro"
@@ -356,7 +375,7 @@ brands:
   - name: "Xiaomi & Huawei"
     icon: "smartphone"
     bg_color: "bg-orange-500"
-    description: "Limited eSIM support: <strong>Xiaomi 15T Pro, 14T Pro, 13T Pro, 11T Pro, Redmi Note 11 Pro 5G</strong>; <strong>Huawei Pura 70, Mate 40 Pro, P40 Pro, P30 Pro</strong>. Find out which Xiaomi models support eSIM in our list. For Huawei, eSIM is only available in some regions (e.g., international versions)."
+    description: "Limited eSIM support: <strong>Xiaomi 15T Pro, 14T Pro, 13T Pro, 11T Pro</strong>; plus select Redmi models like the <strong>Note 10 Pro, Note 11, and Note 11 Pro 5G</strong>; and <strong>Huawei Pura 70, Mate 40 Pro, P40 Pro, P30 Pro</strong>. Find out which Xiaomi models support eSIM in our list. For Huawei, eSIM is only available in some regions (e.g., international versions)."
     groups:
       - sub_title: "Xiaomi"
         devices:
@@ -371,6 +390,8 @@ brands:
           - "Xiaomi 14T"
           - "Xiaomi 14T Pro"
           - "Xiaomi Redmi Note 13 Pro+"
+          - "Xiaomi Redmi Note 10 Pro"
+          - "Xiaomi Redmi Note 11"
           - "Xiaomi Redmi Note 14 Pro"
           - "Xiaomi Redmi Note 14 Pro+"
           - "Xiaomi Poco X7"
@@ -515,7 +536,7 @@ brands:
   - name: "Other brands"
     icon: "more-horizontal"
     bg_color: "bg-slate-700"
-    description: "Check your model in the list below. Some of these brands also support eSIM. For example, OnePlus (7T, 8T, 9, Nord 2), Nothing Phone, Realme — check compatibility via EID. Jio eSIM works on many compatible phones."
+    description: "Check your model in the list below. Some of these brands also support eSIM. For example, OnePlus (7T, 8T, 9, Nord 2), Nothing Phone, Realme — check compatibility via EID. Jio eSIM works on many compatible phones. Most unlocked devices here work with popular travel eSIM providers — if you're already using a service like Airalo, your phone's compatibility in this list is a good first check, though we always recommend a free trial to be certain."
     groups:
       - devices:
         - "<strong>OnePlus:</strong> OnePlus Open, OnePlus 11, OnePlus 12, OnePlus 13, OnePlus 13R, OnePlus 13T, OnePlus 15"
@@ -556,11 +577,14 @@ extended_faq:
     answer: "Yes, all Google Pixel models from Pixel 3 onwards support eSIM, including Pixel 4, 5, 6, 6a, 7, 7a, 8, 8a, 9, and the latest Pixel 10 series. The only exceptions are some Japanese carrier‑locked variants. Dial `*#06#` – an EID confirms compatibility."
   
   - question: "How do I check if my US carrier supports eSIM on my phone?"
-    answer: "Your phone must have eSIM hardware first – dial `*#06#` to confirm an EID appears. Then check your carrier's official compatibility list: Verizon supports iPhone XR and newer, Galaxy S21+ (US models), and Pixel 6+. T‑Mobile supports most modern iPhones, Galaxy S20+ (international), and Pixels. US Mobile works with iPhones (XR–17), Pixels 4+, and many Motorola Edge models. Always confirm with your carrier directly, as some carrier‑locked phones may not support eSIM even if the hardware is present."
+    answer: "First, dial `*#06#` to confirm your phone has an EID. If it does, carrier support generally follows — provided your device is unlocked. T-Mobile and AT&T are typically the most flexible with unlocked Android devices, while Verizon tends to be stricter with non-iPhone models. In the UK, EE supports most recent iPhones and Galaxy S-series phones with eSIM. The safest approach is to check your carrier's official page or install a free trial eSIM to test compatibility before buying a travel plan."
   
   - question: "Do phones bought in China support eSIM?"
     answer: "iPhones sold in mainland China do NOT support eSIM – this applies to all models from iPhone XR through iPhone 17. Hong Kong and Macau models may have two physical SIM slots without eSIM. Samsung domestic models in China also typically lack eSIM. Google Pixel is not officially sold in China, so imported units usually retain eSIM. Dial `*#06#` – if no EID appears, your phone does not support eSIM. In that case, use a physical SIM card instead."
   
   - question: "What should I do before traveling with an eSIM?"
     answer: "1. Dial `*#06#` to confirm your phone has an EID (eSIM hardware). 2. Update your phone to the latest OS. 3. Purchase an eSIM plan from a global provider like Roami (we offer a free trial) before departure. 4. Install the eSIM profile while connected to Wi‑Fi. 5. After landing, enable Data Roaming for the eSIM line in your Cellular Settings. For a complete step‑by‑step guide, see our [eSIM setup guide]."
+  
+  - question: "My phone is eSIM compatible, but it's carrier-locked. Can I still use a travel eSIM?"
+    answer: "Usually, no. A carrier-locked phone can only use eSIMs from the carrier it's locked to — for example, a T-Mobile locked phone cannot install a Roami or Airalo eSIM. You'll need to request an unlock from your carrier before you can use a travel eSIM. If you bought your phone directly from Apple, Samsung, or Google, it's almost certainly unlocked and ready to go."
 ---

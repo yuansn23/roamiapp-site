@@ -1,8 +1,8 @@
 ---
 title: 중동 eSIM | 12개국, 빠른 5G, 로밍 없음
 description: "Roami 중동 eSIM: 아랍에미리트, 사우디아라비아, 카타르, 터키 및 8개국 추가에서 선불 5G. 즉시 활성화, 로밍 수수료 없음. $1.99부터."
-date: '2026-06-08'
-lastmod: '2026-06-08'
+date: '2026-09-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: 홈

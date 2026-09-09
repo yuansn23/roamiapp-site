@@ -2,7 +2,7 @@
 title: "Kuzey Amerika eSIM | 3 Ülke için En İyi Ön Ödemeli Plan"
 description: "Roami'den tek bir ön ödemeli seyahat eSIM'i ile Kuzey Amerika'yı geçin. ABD, Kanada ve Meksika'da sınırsız 5G veri. Sınırlarda dolaşım yok. Anında aktivasyon."
 date: '2026-08-10T00:00:00+00:00'
-lastmod: '2026-06-08'
+lastmod: '2026-09-08'
 type: regional-esim
 breadcrumbs:
 - name: Ana Sayfa
