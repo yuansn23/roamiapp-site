@@ -235,8 +235,8 @@ Airalo's "unlimited" plans throttle to ~1 Mbps after **3GB/day**. At 1 Mbps, you
 | **Saily** | Value king, built by Nord | 190+ | Budget-conscious users, existing NordVPN customers |
 
 **Background**:
-- **Holafly**: Spanish eSIM provider, Trustpilot **4.6/5**[reference:0].
-- **Saily**: Built by **Nord Security** (NordVPN's parent company), launched in 2024, Trustpilot **4.7/5**[reference:1].
+- **Holafly**: Spanish eSIM provider, Trustpilot **4.6/5**.
+- **Saily**: Built by **Nord Security** (NordVPN's parent company), launched in 2024, Trustpilot **4.7/5**.
 
 ### Light Usage – 7-Day Europe Trip
 
@@ -266,13 +266,13 @@ For price-sensitive users, Roami offers **free eSIM trial data**, and new users 
 
 ### Summary of Third-Party Reviews
 
-**Gizmodo's 2026 Travel eSIM Rankings**[reference:2][reference:3]:
+**Gizmodo's 2026 Travel eSIM Rankings**:
 - Airalo is ranked **"Best for wide country support (200+)"**
 - Ubigi is ranked **"Best overall"**
 - Saily is ranked **"Best for security, and the only one that works at sea"**
 - Holafly is ranked **"Best for unlimited data with no throttling"**
 
-**Aissist.io "2026 eSIM Customer Service Benchmark Report"**[reference:4]:
+**Aissist.io "2026 eSIM Customer Service Benchmark Report"**:
 - Airalo ranks **last** among major eSIM providers for customer support, with **25%** negative reviews
 
 > The [full Aissist.io benchmark report](https://aissist.io/industries/esim-customer-service-benchmark) provides detailed rankings of all major eSIM providers on customer service and AI performance.
@@ -300,7 +300,7 @@ For price-sensitive users, Roami offers **free eSIM trial data**, and new users 
 
 Airalo has around **40,000 reviews** on Trustpilot, with a composite score of **3.9/5**.
 
-That sounds "okay," but when compared to competitors, the gap is stark. According to Aissist.io's **"2026 eSIM Customer Service Benchmark Report"** (updated June 2026)[reference:5]:
+That sounds "okay," but when compared to competitors, the gap is stark. According to Aissist.io's **"2026 eSIM Customer Service Benchmark Report"** (updated June 2026):
 
 | Rank | Provider | Trustpilot Score | 1-2 Star % |
 |---|---|---|---|
@@ -312,10 +312,10 @@ That sounds "okay," but when compared to competitors, the gap is stark. Accordin
 | 6 | **Nomad** | **4.3** | **~14%** |
 | 7 | **Airalo** | **3.9** | **~25%** |
 
-**Key findings**[reference:6]:
+**Key findings**:
 - Airalo's **1-2 star negative review rate is 25%** – meaning **1 in 4 users gave a bad review**
 - Its main competitors have negative rates of only **5-8%**
-- Airalo's rating **crashed to roughly 2.6 in mid-2025** before recovering to 3.9[reference:7]
+- Airalo's rating **crashed to roughly 2.6 in mid-2025** before recovering to 3.9
 
 ### What Do Negative Reviews Focus On?
 
@@ -323,7 +323,7 @@ Aggregating user feedback from Trustpilot, Reddit, and review sites, the top com
 
 | Complaint type | Specific issue | Severity |
 |---|---|---|
-| **Terrible customer support** | AI chatbot loops endlessly; human responses take **12-48 hours**. The Aissist.io report notes Airalo's AI support "**bot loops/strands on real failures**"[reference:8] | 🔴 Extreme |
+| **Terrible customer support** | AI chatbot loops endlessly; human responses take **12-48 hours**. The Aissist.io report notes Airalo's AI support "**bot loops/strands on real failures**" | 🔴 Extreme |
 | **Data-only, no number** | Can't receive bank verification codes → can't log in → trip disrupted | 🔴 Extreme |
 | **"Unlimited" is misleading** | Throttles to ~1 Mbps after 3GB/day – not truly unlimited, just "won't cut off but slows down" | 🟡 Medium |
 | **Refund process is painful** | "Wrong purchase" only refunds **Airmoney (in-app currency)** , not cash | 🔴 High |
@@ -331,7 +331,7 @@ Aggregating user feedback from Trustpilot, Reddit, and review sites, the top com
 
 ### The Root Cause of Customer Support Issues
 
-The Aissist.io report reveals a critical difference[reference:9]:
+The Aissist.io report reveals a critical difference:
 
 > *"Providers where the bot resolves tickets (Holafly, Saily, Jetpac via fast human) collect positive AI mentions. Providers where the bot deflects and frustrates (Airalo, Nomad) concentrate AI complaints directly in the 1–2★ tail."*
 
@@ -339,7 +339,7 @@ The Aissist.io report reveals a critical difference[reference:9]:
 - Holafly, Saily, and Jetpac's support bots **actually solve problems** – users can't even tell if they're talking to a human or AI
 - Airalo and Nomad's support bots **just deflect and frustrate users** – AI complaints are concentrated in their negative reviews
 
-> As of April 2026, Airalo has over [40,000 reviews on Trustpilot](https://www.trustpilot.com/review/airalo.com) with a composite score of 3.9/5[reference:10].
+> As of April 2026, Airalo has over [40,000 reviews on Trustpilot](https://www.trustpilot.com/review/airalo.com) with a composite score of 3.9/5.
 
 **If your eSIM fails during your trip, Airalo's support is almost certainly not going to help you "in an emergency."** This is the single biggest real-world risk of using Airalo.
 
@@ -397,7 +397,7 @@ Every "unlimited" eSIM plan on the market comes with a **Fair Use Policy (FUP)**
 | **Holafly** | 3-5GB/day | below 1 Mbps |
 | **Saily** | **5GB/day** | 1 Mbps |
 
-> Gizmodo's 2026 travel eSIM comparison [also notes](https://gizmodo.com/best-esim-provider/international-travel) that Airalo's unlimited plans throttle after 3GB/day[reference:11].
+> Gizmodo's 2026 travel eSIM comparison [also notes](https://gizmodo.com/best-esim-provider/international-travel) that Airalo's unlimited plans throttle after 3GB/day.
 
 **What Airalo's "unlimited" actually means**: **Full speed for the first 3GB, then throttled to ~1 Mbps**. At 1 Mbps, you can use WeChat and browse the web, **but video calls and streaming are completely impossible**.
 
@@ -499,7 +499,7 @@ Topping up an existing plan is convenient, but **top-up prices are sometimes hig
 
 **A: Most plans do NOT.** Airalo is a **data-only eSIM service**. The only exception is the **Discover+ global plan**, which includes calling and SMS. If you need to receive SMS verification codes (bank, Google, etc.), **either choose Discover+ or don't use Airalo at all**. The safest approach is to switch all critical accounts to authenticator apps (Google Authenticator, 1Password) before you leave.
 
-> The Guardian's 2026 travel eSIM article [notes that](https://www.theguardian.com/travel/2025/sep/26/esim-travel-sim-card-airalo-holafly-saily) Airalo's Discover+ package allows voice calls and is available in more than 130 destinations[reference:12].
+> The Guardian's 2026 travel eSIM article [notes that](https://www.theguardian.com/travel/2025/sep/26/esim-travel-sim-card-airalo-holafly-saily) Airalo's Discover+ package allows voice calls and is available in more than 130 destinations.
 
 ### Q5: Can Airalo be used in mainland China?
 
@@ -515,7 +515,7 @@ Topping up an existing plan is convenient, but **top-up prices are sometimes hig
 
 ### Q8: Can one Airalo eSIM work across multiple EU countries?
 
-**A: Yes.** The **Eurolink plan covers 42 European countries** – one eSIM works across Europe, no need to buy a new one at each border[reference:13].
+**A: Yes.** The **Eurolink plan covers 42 European countries** – one eSIM works across Europe, no need to buy a new one at each border.
 
 ### Q9: Is Airalo cheaper than traditional international roaming?
 
@@ -556,4 +556,4 @@ Before clicking "Buy," confirm each of these:
 **If you want to compare more options**, you can [**check out Roami's full plans**](/plans/) – covering 200+ countries, starting at $1.99, new users get 20% off with code **web20**, plus [free eSIM trial data].(/free-esim/)
 
 
-*Sources: Airalo official website (September 2026), App Store, Google Play, Trustpilot, Aissist.io "2026 eSIM Customer Service Benchmark Report" (June 2026)[reference:14], Gizmodo 2026 travel eSIM review[reference:15], 9eSIM.com 2026 major travel eSIM comparison[reference:16], Corriere Comunicazioni 2026 Airalo review[reference:17], The Guardian 2026 travel eSIM article[reference:18]. Roami information from Roami's official website. All prices are as shown at time of writing – eSIM pricing changes frequently, so always check real-time prices on each platform before buying.*
+*Sources: Airalo official website (September 2026), App Store, Google Play, Trustpilot, Aissist.io "2026 eSIM Customer Service Benchmark Report" (June 2026), Gizmodo 2026 travel eSIM review, 9eSIM.com 2026 major travel eSIM comparison, Corriere Comunicazioni 2026 Airalo review, The Guardian 2026 travel eSIM article. Roami information from Roami's official website. All prices are as shown at time of writing – eSIM pricing changes frequently, so always check real-time prices on each platform before buying.*
