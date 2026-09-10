@@ -1,19 +1,20 @@
 ---
-title: "Thailand eSIM AIS vs True vs Airalo: Coverage Guide"
-description: "Thailand eSIM AIS vs True vs international platforms: compare coverage, speed, prices, and real user reviews. Find the best network for islands, Bangkok, or your budget in 2026."
-keywords: ["thailand eSIM setup guide", "how to install thailand eSIM", "thailand eSIM activation iPhone", "thailand eSIM compatible devices", "USA eSIM APN settings"]
+title: "Thailand eSIM Comparison: AIS vs True vs Platforms"
+description: "Compare Thailand eSIM networks with Roami: AIS vs True vs DTAC, Airalo, Nomad, Saily, Holafly, Ubigi, coverage, and speed."
+keywords: ["thailand esim comparison", "best thailand esim", "thailand esim ais vs true", "thailand esim coverage", "airalo thailand esim review", "nomad thailand esim review", "saily thailand esim review", "thailand esim review", "which esim thailand"]
 date: 2026-09-09T00:00:00Z
-lastmod: 2026-09-09T00:00:00Z
+lastmod: 2026-09-10T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
-image: "/img/esim/thailand/thailand-esim-complete-guide.jpg"
+image: "/img/esim/thailand/thailand-ais-esim-guide.jpg"
 categories: ["eSIM", "Travel", "Thailand"]
 tags: ["Thailand eSIM"]
-readingTime: 18
+readingTime: 6
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
-h1title: "Thailand eSIM AIS vs True vs Airalo: Best Coverage & Review"
+h1title: "Thailand eSIM Comparison: AIS vs True vs Platforms"
+schema: ["FAQPage", "BreadcrumbList"]
 
 # Sidebar module titles
 productsTitle: "Popular eSIM Plans"
@@ -77,522 +78,393 @@ recentPosts:
     permalink: "/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/"
     date: "2026-05-20"
 ---
-## Thailand eSIM: 2026 Carrier Comparison Review – AIS vs True vs International Platforms
 
-Traveling to Thailand without mobile data is nearly impossible. But the choice you face is more complex than you might think: local Thai carriers AIS, True Corp (which now includes DTAC), or international platforms like Airalo, Nomad, Holafly, and Saily? They use different networks, have different pricing, and follow different rules—pick wrong, and you could end up with no signal on an island, or get throttled to the point where you can't even load a map mid‑trip. **This Thailand eSIM AIS vs True comparison cuts through the noise.**
+Travelling in Thailand without reliable mobile data is almost impossible. But the decision is more complex than “which brand is cheapest.” Local carriers AIS and True Corp (which now includes DTAC) compete with international platforms like Airalo, Nomad, Holafly, Saily, and Ubigi. They use different underlying networks and follow different registration rules. Pick wrong, and you could end up with weak signal on an island or throttled data when you need a map most.
 
-**Quick Core Takeaways (September 2026)**
+This comparison focuses on the decision that matters most: **which network and which platform fit your itinerary**. It covers AIS vs True vs DTAC, coverage by destination, platform reputations, data-only vs Thai number, and best use cases. It does not repeat full price tables — for that, see the **[cheapest Thailand eSIM plans by data tier](/blog/cheap-thailand-esim/)**. It also does not repeat buying steps — for that, see the **[Thailand eSIM buying guide](/blog/best-value-thailand-esim-plans/)**. If you have already bought and need to install, go to the **[setup and activation guide](/blog/thailand-esim-guide/)**.
 
-- **Only choice for islands/mountains**: AIS local carrier eSIM – covers >98% of Thailand's population, strongest signal on Koh Samui, Koh Phangan, Koh Tao, and northern hill areas. The only reliable option for remote regions. According to **thailand esim reddit** discussions and traveller forums, AIS is the most recommended network for island trips. Requires passport verification.
-- **Best for Bangkok/cities**: True Corp or Nomad – dense 5G in cities, excellent along BTS/MRT lines in Bangkok, better value, usually 50–100 THB cheaper than AIS.
-- **Don't want ID verification**: Airalo (AIS network, best reputation), Saily (AIS network, from $2.99), or Nomad (True network, 50GB for just $12). These are top choices if you're searching for **best thailand esim reddit** recommendations without passport hassle.
-- **Need a Thai phone number**: AIS or True Corp local carriers – supports calls, SMS, and registration for Grab and LINE.
-- **Heavy data users**: Holafly unlimited ($27+/7 days) or Nomad 50GB/10 days ($12, just $0.24/GB).
-- **Tightest budget**: Travelsim Asia 1GB/$1.99, Saily 1GB/$2.99, or Ubigi 1GB/$3.90.
-- **Best value for long stays**: eSIM-Now 5GB/30 days ($6.96, $0.23/day) or 10GB/30 days ($9.99, just $1/GB).
+> **Quick decision rule:** choose the network first, then the brand. Pick **AIS** for islands, mountains, and remote areas. Pick **True Corp** for Bangkok and city-focused trips. Choose an **international platform** to skip passport registration (data-only).
 
-> **Choose the network, not the brand. Go with AIS for islands, True for cities, and international platforms if you want to skip ID checks.** This is the golden rule for any **thailand esim comparison**.
+**Core Takeaways: AIS vs True vs International Platforms**
 
+- **Best for islands & mountains:** AIS — widest reach, most reliable on Koh Samui, Koh Phangan, Koh Tao, Pai, and Mae Hong Son.
+- **Best for Bangkok & cities:** True Corp (TrueMove H + DTAC) — dense 5G, often cheaper.
+- **Best for no passport registration:** International platforms (Airalo, Saily, Nomad, Ubigi, etc.) — data-only, buy before you fly.
+- **Best for a Thai phone number:** Local AIS/True eSIM via Klook, KKday, Agoda, or Trip.com.
+- **DTAC is now part of True Corp:** Same network, same coverage, often cheaper branding.
+- **Best dual-network reliability:** Ubigi, Travelsim Asia, eSIM-Now, Roami — auto-switch between AIS and True.
+- **Best cheap entry:** Travelsim Asia (1GB/$1.99) or eSIM-Now (5GB/30 days/$6.96).
 
-## Thailand eSIM Market 2026: AIS vs True Corp Duopoly
+---
 
-In 2023, Thailand's second‑largest carrier DTAC and third‑largest TrueMove H officially merged to form **True Corp** . This shifted the mobile market from a "three‑horse race" to a **duopoly of AIS and True Corp** – together they control over 95% of the market. Official announcements from Thailand's [National Broadcasting and Telecommunications Commission (NBTC)](https://www.nbtc.go.th/) confirm this structural change.
+## Thailand eSIM Networks: AIS vs True Corp Duopoly
 
-| Carrier | Market Share | Subscribers | 4G Population Coverage | 5G Base Stations |
-|---------|-------------|-------------|------------------------|------------------|
-| **AIS** | ~44–46% | ~46.5 million | ~98.5% | 8,000+ |
-| **True Corp** (TrueMove H + DTAC) | ~38–40% | ~50 million | ~97% | 6,000+ |
+**In short:** Thailand’s mobile market is a duopoly of AIS and True Corp (TrueMove H + DTAC). Every travel eSIM you buy ultimately runs on one of these two networks. So choosing a Thailand eSIM means choosing the underlying network first.
 
-There is also a third state‑owned carrier **NT (National Telecom)** , serving mainly government projects and remote areas – **no travel eSIM provider uses NT's network**.
+In 2023, DTAC and TrueMove H merged to form **True Corp**. Thailand went from three major players to a **duopoly of AIS and True Corp**. Official announcements from Thailand’s [National Broadcasting and Telecommunications Commission (NBTC)](https://www.nbtc.go.th/) confirm this structural change.
 
-Understanding this is key: every Thailand eSIM you buy, regardless of the platform, ultimately connects to **either AIS or True Corp (including DTAC)**. Choosing an eSIM is essentially **choosing the underlying network**.
+Both networks have excellent 4G coverage nationwide and 5G in major cities. The key takeaway: regardless of platform, your Thailand eSIM connects to **either AIS or True Corp (including DTAC)**.
 
-> **For a full breakdown of the cheapest plans on each network**, see our **[Thailand eSIM Price Comparison 2026: Best Value Plans](/blog/best-value-thailand-esim-plans/)** – updated with real‑time pricing for every data tier to help you make the best choice.
+| Network | Also Known As | Best Known For | Registration |
+|---------|---------------|----------------|--------------|
+| **AIS** | AIS | Islands, mountains, rural reach | Passport required |
+| **True Corp** | TrueMove H, DTAC | City 5G, value pricing | Passport required |
+| **International platforms** | Airalo, Nomad, Saily, etc. | No passport, data-only | Not required |
 
+**Bottom line:** You are always choosing between AIS and True Corp. Pick the network that matches where you will travel, not just the brand name on the app.
 
-## AIS Thailand eSIM Review: Best Coverage for Islands & Mountains
+---
 
-### AIS Coverage Review
+## AIS eSIM Review: Best Coverage for Islands & Mountains
 
-AIS is Thailand's largest mobile operator, running the country's biggest mobile network. Its 4G network covers more than **98.5% of the population**, and 5G reaches over **85%** of the population, with **8,000+** 5G base stations nationwide.
+**In short:** AIS is the best choice for island-hopping and mountain trekking. It has the widest network reach and is often the only carrier with stable signal on remote islands and northern highlands.
 
-AIS stands out in **islands, mountains, and rural areas**. If you're visiting Koh Samui, Koh Phangan, Koh Tao, or heading to Chiang Mai, Pai, Mae Hong Son, or other northern highlands, **AIS is the only carrier that provides stable internet in these remote spots**. This is confirmed by countless **thailand esim coverage** reports from travellers. Some reviews note that AIS covers **the 5% of Thailand that needs extreme signal reach**. On Phuket, AIS has the strongest coverage across the entire island – including southern areas like Rawai, Nai Harn, Chalong, and mountain roads.
+AIS is Thailand’s largest mobile operator and the safest choice for island-hopping and mountain trekking. It has the widest network reach and is often the only carrier with stable signal on remote islands and northern highlands.
 
-According to [Opensignal's August 2026 Thailand Mobile Network Experience Report](https://www.opensignal.com/reports/2026/08/thailand/mobile-network-experience), **AIS is the most award‑winning operator in Thailand**, with 7 exclusive and 3 shared awards, leading in connection quality, upload speed, coverage, and voice app experience. AIS is also the sole winner for **Coverage Experience** and **5G Coverage Experience**. This **AIS thailand esim review** consistently highlights its superiority in remote areas.
+If you are visiting Koh Samui, Koh Phangan, or Koh Tao, or heading to Chiang Mai, Pai, or Mae Hong Son, AIS is the most reliable option for stable internet. Travellers consistently report that AIS holds a signal where other networks drop out. You can browse current tourist packages on the [AIS website](https://www.ais.th/).
 
-### AIS Speed Tests
+In cities, AIS is also fast and reliable. Its 5G is strong along Bangkok’s BTS/MRT lines, in Sukhumvit and Silom.
 
-Based on data from [Opensignal](https://www.opensignal.com/) and [Ookla Speedtest Intelligence](https://www.speedtest.net/global-index) (Q4 2024 reports), AIS delivers the fastest average mobile speeds in Thai cities:
+**AIS eSIM activation note:** since early 2025, all foreign travellers must complete passport verification to activate an AIS eSIM. You need your passport and phone number, complete verification within 24 hours before departure, and keep the eSIM active to receive the confirmation SMS. Max 3 eSIMs per passport. If activation fails outside Thailand, don’t delete the eSIM — retry after landing.
 
-| City | Avg Download Speed | Avg Upload Speed |
-|------|-------------------|------------------|
-| Bangkok | 72.4 Mbps | 21.3 Mbps |
-| Chiang Mai | 61.8 Mbps | 17.6 Mbps |
-| Phuket | 68.9 Mbps | 19.8 Mbps |
-
-Median overall metrics:
-
-- **4G median download**: 45–55 Mbps
-- **5G download**: 150–250 Mbps
-
-AIS ranks first in **upload speed** and **5G upload speed**, with uploads reaching **15 Mbps** – about one‑third faster than the second‑place TrueMove H, as highlighted by the same Opensignal report.
-
-In central Bangkok, AIS's 5G coverage is concentrated in **BTS lines, Sukhumvit, and Silom**.
-
-### AIS eSIM Plans & Pricing
-
-AIS offers several tourist eSIM packages – a popular option for anyone needing a **thailand esim with phone number**:
-
-| Days | Data | Promotional Upgrade | Approx. Price (3rd‑party platforms) |
-|------|------|---------------------|-------------------------------------|
-| 7 days | 15GB high‑speed | **Free upgrade to 35GB** (activate by Sep 30, 2026) | ~$5.50 (Agoda from ~RMB 25.81) |
-| 10 days | 30GB high‑speed | **Free upgrade to unlimited** (activate by Sep 30, 2026) | ~$5.80 (KKday from ~RMB 32) |
-
-AIS also offers 8‑day 15GB + unlimited low‑speed (399 THB, ~$13) and 30‑day unlimited (999–1,199 THB, ~$32–$38).
-
-**Value note**: [KKday's AIS eSIM](https://www.kkday.com/) has sold **80,000+** units, rated **4.4/5** (3,100+ reviews). [Klook's AIS eSIM](https://www.klook.com/) is rated **4.7/5** (16,000+ reviews) based on traveller feedback.
-
-### AIS eSIM Verification Process
-
-**From February 2025, all foreign travellers must complete passport verification to activate an AIS eSIM.**
-
-**Key points**:
-- **Prepare**: ICCID (last 13 digits of the card number) and phone number from your order, plus a valid passport.
-- **Recommended** to complete verification and install the eSIM **within 24 hours before departure**.
-- After verification, the eSIM is valid for **30 days**.
-- The plan starts automatically when you connect to the AIS network after arriving in Thailand.
-- Keep the AIS eSIM active for **at least 40 minutes** after verification to receive the confirmation SMS.
-- **Maximum 3 eSIMs per passport**.
-
-**Important warning**: Installing the AIS eSIM outside Thailand may show "Activating" or "Activation failed". **Do not delete it** (deleted eSIMs cannot be reissued). Simply install again upon arrival in Thailand.
-
-### Who Is AIS Best For?
-
-- Island‑hopping (Koh Samui, Koh Phangan, Koh Tao)
+**Who AIS is best for:**
+- Island-hopping (Koh Samui, Koh Phangan, Koh Tao)
 - Northern mountain trekking (Chiang Mai, Pai, Mae Hong Son)
-- National park adventures
+- National-park adventures
 - Any trip that leaves the major cities
 
+**Key takeaway:** If your itinerary includes islands or northern mountains, AIS is the safe bet. It costs a little more but keeps you connected where others drop out.
 
-## True Corp Thailand eSIM Review: Top 5G Choice for Bangkok
+---
 
-### True Corp Coverage Review
+## True Corp eSIM Review: Top 5G Choice for Thai Cities
 
-True Corp is the merged entity of DTAC and TrueMove H, with ~50 million subscribers and ~38–40% market share. 4G population coverage is about **97%**, with **6,000+** 5G base stations.
+**In short:** True Corp (TrueMove H + DTAC) is the best value for Bangkok and major cities. It has dense 5G and packages are usually a little cheaper than AIS. Coverage on remote islands and mountains is weaker than AIS.
 
-The merger has combined spectrum resources, significantly boosting urban network performance. However, in rural and remote areas, **AIS remains ahead**.
+True Corp (TrueMove H + DTAC) is the best value for Bangkok and major cities. It has dense 5G and packages are usually a little cheaper than AIS. Coverage on remote islands and mountains is weaker than AIS.
 
-True Corp excels in **5G Availability**. According to the same [Opensignal August 2026 report](https://www.opensignal.com/reports/2026/08/thailand/mobile-network-experience), **TrueMove H won the 5G Availability award with a score of 90.2%** – reflecting the proportion of time 5G‑capable users on 5G plans actually detect a 5G signal. Meanwhile, **DTAC and True jointly received Thailand's Best Network Award**, with strong reliability and download speeds.
+True Corp is the merged entity of DTAC and TrueMove H. The merger combined the two operators’ spectrum, which boosted urban network performance. In **Bangkok, Chiang Mai, and Phuket**, True Corp has dense 5G — but in rural and remote areas, **AIS remains ahead**. Tourist plans for both brands are listed on the [True Corp website](https://www.true.th/).
 
-### True Corp Speed Tests
+True Corp excels in **5G availability** in city centres, with strong signal along BTS/MRT lines, Sukhumvit, and Silom. Packages are usually a little cheaper than AIS, often around $1.50–$3 less for comparable plans.
 
-Median metrics (compiled from Ookla and Opensignal data):
+**Who True Corp is best for:**
+- Major city trips (Bangkok, Pattaya)
+- Popular islands like Phuket and Krabi (not remote islands)
+- Budget-conscious travellers
+- Digital nomads mainly in urban areas
 
-- **4G median download**: 35–45 Mbps
-- **5G download**: 120–200 Mbps
+**Bottom line:** If you are staying in Bangkok, Pattaya, or other cities, True Corp gives you excellent 5G at a lower price. Just don’t rely on it for remote islands or deep mountain areas.
 
-In individual metrics, DTAC stood out in **5G Download Speed**, achieving **102.7 Mbps**, surpassing AIS. DTAC's overall download speed was **41.1 Mbps**, ranking first in Thailand according to Ookla's Q4 2024 index.
+---
 
-In Bangkok, True Corp's 5G coverage is dense, with signal strength along **BTS/MRT lines, Sukhumvit, and Silom** on par with AIS.
+## DTAC eSIM: Now Part of True Corp
 
-### True Corp eSIM Plans & Pricing
+**In short:** DTAC merged into True Corp in 2023. DTAC-branded eSIMs still exist but use the same network as TrueMove H. Coverage and speeds are identical.
 
-TrueMove H offers tourist eSIM packages – a solid **thailand esim true** option for city travellers:
+DTAC was once famous for its “Happy Tourist” series — a backpacker favourite. After the 2023 merger with TrueMove H, the DTAC brand still exists, but the network is fully integrated with True Corp. You can still buy DTAC-branded eSIM packages, but the underlying network is the **same as TrueMove H** — coverage and speeds match. If you see a DTAC package cheaper than TrueMove H, grab it; the network is identical.
 
-| Days | Data | Promotional Upgrade | Approx. Price (3rd‑party platforms) |
-|------|------|---------------------|-------------------------------------|
-| 7 days | 15GB high‑speed | **Free upgrade to 35GB** (activate by Sep 30, 2026) | from ~136 TWD (~$4.30) |
-| 10 days | 50GB high‑speed | **Free upgrade to unlimited** (activate by Sep 30, 2026) | from ~254 TWD (~$8) |
+**Key takeaway:** DTAC is no longer a separate network. Treat any DTAC plan as a True Corp plan.
 
-True Corp also offers 8‑day unlimited (449 THB, ~$14) and 30‑day unlimited (includes Thai phone number).
+---
 
-True Corp packages are **usually 50–100 THB cheaper than AIS**. In Chiang Mai, TrueMove plans are about 40–50 THB cheaper.
+## AIS vs True: Coverage, Speed, and Registration Compared
 
-**Value note**: [KKday's TrueMove eSIM](https://www.kkday.com/) has sold **50,000+** units, rated **4.7/5** (2,000+ reviews) from actual buyers.
+**In short:** Choose AIS for islands and northern mountains. Choose True Corp for Bangkok and big cities. DTAC uses the same network as TrueMove H. Both require passport registration for local eSIMs.
 
-### Who Is True Corp Best For?
+The rule of thumb: choose AIS if your itinerary includes islands or northern mountains. Choose True Corp for Bangkok, Pattaya, and other big cities. DTAC uses the same network as TrueMove H.
 
-- Major city trips (Bangkok, Pattaya, etc.)
-- Popular islands like Phuket, Krabi (not remote islands)
-- Budget‑conscious travellers
-- Digital nomads mainly active in urban areas
+| Feature | AIS | True Corp (including DTAC) |
+|---------|-----|----------------------------|
+| Coverage reach | Widest — best on islands & rural areas | Strong in cities, weaker in remote areas |
+| 5G in cities | Strong | Dense (excellent availability) |
+| Best for | Islands, mountains, rural | Bangkok, Pattaya, cities |
+| Registration | Passport required | Passport required |
+| Thai phone number | Yes | Yes |
+| Price | Usually a little higher | Usually a little cheaper |
+| International platform access | Airalo, Saily | Nomad, Holafly |
 
+**Which to choose:**
+- Going to **islands or northern mountains** → choose **AIS**.
+- Mostly in **Bangkok, Pattaya, or big cities** → True Corp is fine and often cheaper.
+- Not sure of your itinerary → AIS has broader reach (the “safe bet”).
+- DTAC cheaper than TrueMove H → grab it; the network is identical.
 
-## DTAC eSIM Status (Now Part of True Corp)
+### AIS vs True: 5G Speed and Rural Coverage in Practice
 
-DTAC was once famous for its "**Happy Tourist**" series – a backpacker favourite.
+**In short:** In cities, both are fast. True Corp often has denser 5G in Bangkok. AIS has broader 5G and 4G reach outside cities, especially on islands and in the north.
 
-After the 2023 merger with TrueMove H, the DTAC brand **still exists**, but the network is now fully integrated with True Corp. This means:
-- You can still buy "DTAC"‑branded eSIM packages.
-- But the underlying network is the **same as TrueMove H**.
-- Coverage and speeds match True Corp.
+| Scenario | AIS | True Corp |
+|----------|-----|-----------|
+| Bangkok BTS/MRT | Excellent | Excellent |
+| Sukhumvit / Silom | Excellent | Excellent |
+| Phuket main beaches | Excellent | Excellent |
+| Phuket mountain roads | Good | Patchy |
+| Koh Samui / Koh Phangan | Reliable | Weak or absent |
+| Pai / Mae Hong Son | Reliable | Often loses signal |
+| Rural national parks | Best chance of signal | Unreliable |
 
-**Tip**: If you see a DTAC package cheaper than TrueMove H, grab it – the network is identical.
+**Bottom line:** AIS wins on reach; True Corp wins on city value. If you leave the cities, AIS is worth the extra cost.
 
+---
 
-## International eSIM Platforms Review: Best Alternatives to Local Carriers
+## Which Network Do International eSIM Platforms Use in Thailand?
 
-If you **don't want ID verification**, or prefer **a single app for global eSIMs**, international platforms are great. Below we review six major platforms, all frequently discussed in **thailand esim reddit** threads and travel forums. This **thailand esim review** section covers the most popular options for 2026.
+**In short:** International platforms are brands. Their coverage depends on the underlying Thai network. Airalo and Saily usually use AIS. Nomad and Holafly usually use True Corp. Ubigi, Travelsim Asia, eSIM-Now, and Roami use both.
 
-### Airalo Thailand eSIM Review: AIS Network Without Passport
+International platforms are brands. Their coverage depends on the underlying Thai network. Here is the quick reference.
 
-Airalo is the world's largest eSIM platform, founded in 2019, covering 200+ countries with over 2 million users. This **airalo thailand esim review** highlights why it's a top choice for travellers who want AIS coverage without ID verification.
+| Platform | Underlying Thai Network | Passport Required? | Best For |
+|----------|-------------------------|--------------------|----------|
+| **Airalo** | AIS (some DTAC) | No | AIS coverage without ID; some voice plans |
+| **Saily** | AIS | No | Privacy-focused, AIS coverage |
+| **Nomad** | True Corp | No | Heavy data users, large GB plans |
+| **Holafly** | True Corp | No | Unlimited data, premium price |
+| **Ubigi** | AIS + True | No | Dual-network reliability, low entry |
+| **Travelsim Asia** | AIS + True | No | Cheapest entry point |
+| **eSIM-Now** | AIS + True | No | Best 30-day value |
+| **Roami** | AIS + True | No | Flexible plans, 24/7 live support |
 
-**Thailand network**: Primarily **AIS**, with some packages on DTAC. In 2026 tests, Airalo also provided coverage on several remote islands.
+### Platform Notes: Airalo, Nomad, Saily, Holafly, Ubigi, Roami
 
-**Typical packages**:
+**Airalo** — the world’s largest eSIM platform, covering 200+ countries. In Thailand it primarily uses AIS. One of the few platforms offering voice minutes with a Thailand eSIM. Full refund for unused eSIMs within 30 days. **Best for:** AIS coverage without ID verification.
 
-| Data | Validity | Price |
-|------|----------|-------|
-| 1GB | 3 days | $4.00 |
-| 5GB | 30 days | $8.50 |
-| 20GB | 30 days | $18.00 |
+**Nomad** — excellent price per GB, mainly on True Corp. Clean interface, 1GB free trial for new users. Data-only. **Best for:** heavy data users on short trips.
 
-**Unique feature**: Airalo is one of the few platforms offering **voice minutes** with Thailand eSIM – **50GB + 100 minutes / 10 days**.
+**Holafly** — an all-unlimited strategy (only unlimited plans). Uses True Corp. No need to monitor usage, hotspot supported, 24/7 support, but significantly more expensive, and “unlimited” includes a fair-usage policy. **Best for:** heavy data users who don’t want to think about data.
 
-**Pros**:
-- World's largest eSIM platform, strong reputation
-- Uses AIS network – best coverage
-- Hotspot supported
-- Easy top‑ups via app
-- Full refund for unused eSIM within 30 days
+**Saily** — from NordVPN, focuses on privacy and data security. Uses AIS, typically a bit cheaper than Airalo. **Best for:** privacy-conscious, budget travellers.
 
-**Cons**:
-- Requires app installation and management
-- Small packages have short validity (1GB only 3 days)
+**Ubigi** — flexible data plans with automatic switching between AIS and True. One of the lowest entry prices. Data-only. **Best for:** short trips and budget travellers who want dual-network reliability.
 
-**Best for**: Business travellers who need a Thai number for calls, and those wanting AIS coverage without ID verification.
+**Travelsim Asia** — the lowest Thailand eSIM prices in 2026, on AIS + True dual networks. **Best for:** absolute cheapest entry.
 
-### Nomad Thailand eSIM Review: Best Value for Heavy Data Users
+**eSIM-Now** — competitive 30-day packages on AIS + True dual networks, auto-switching to the strongest signal. **Best for:** long stays and 30-day value.
 
-Nomad positions itself as a flexible, modern eSIM option, with very competitive prices in Thailand. This **nomad thailand esim review** explains why it's a favourite among budget‑conscious heavy data users.
+**Roami** — flexible Thailand data plans with 24/7 live human support. **Best for:** travellers who want help if something goes wrong.
 
-**Thailand network**: Mainly **True Corp**.
+> **Also worth checking:** **Roami** offers flexible Thailand data plans with 24/7 live human support — useful if you run into installation or connectivity issues.
 
-**Typical packages**:
+**Key takeaway:** If you need AIS coverage without passport registration, choose Airalo or Saily. If you want cheap large data on True Corp, choose Nomad. If you want dual-network reliability, choose Ubigi, Travelsim Asia, eSIM-Now, or Roami.
 
-| Data | Validity | Price |
-|------|----------|-------|
-| 1GB | 7 days | ~$5.00 |
-| 10GB | 30 days | $10.00 |
-| **50GB** | **10 days** | **$12.00** |
+---
 
-**Pros**:
-- **Excellent price per GB** (50GB for $12 = $0.24/GB)
-- Hotspot supported
-- Clean, easy‑to‑use interface
-- [Trustpilot rating **4.3/5**](https://www.trustpilot.com/review/nomad.com) ("Great")
-- 1GB free trial for new users
+## Thailand eSIM With or Without a Phone Number
 
-**Cons**:
-- Data‑only, no calls/SMS
-- Uses True Corp – weaker on remote islands
+**In short:** Only Thai local operator eSIMs (AIS, True, DTAC) include a Thai phone number. International platforms are mostly data-only. Choose local if you need to register for Grab, LINE, or Foodpanda.
 
-**Best for**: Heavy data users on short trips, backpackers on a tight budget.
+Only Thai local operator eSIMs (AIS, True, DTAC) include a Thai phone number. International platforms are mostly data-only. Choose local if you need to register for Grab, LINE, or Foodpanda.
 
-### Holafly Thailand eSIM Review: Unlimited Data, Premium Price
+| Feature | Thai Local Operators (AIS/True/DTAC) | International Platforms |
+|---------|---------------------------------------|--------------------------|
+| Registration | Passport required | Not required |
+| Thai phone number | Yes | No (data-only, some exceptions) |
+| Best for | Calls, registering for Grab/LINE/Foodpanda | Just internet |
+| Price | Usually higher | From $1.99 |
+| Hotspot | Yes | Yes (most) |
+| SMS | Yes | Rarely |
+| Outgoing calls | Yes | Rarely |
 
-Holafly follows an "**all‑unlimited**" strategy – selling only unlimited plans in every destination. This **holafly thailand esim review** looks at whether the premium price is worth it.
+If you need a Thai number, choose a local operator plan (via Klook, KKday, Agoda, or Trip.com for the best price). If you only need data, an international platform is cheaper and easier.
 
-**Thailand network**: Uses **True Corp**.
+> For the cheapest plan with a Thai number, see the **[cheapest Thailand eSIM plans](/blog/cheap-thailand-esim/)**.
 
-**Typical packages**:
+**Bottom line:** Data-only is cheaper and simpler. If you need a Thai number, you must go local and complete passport registration.
 
-| Validity | Price |
-|----------|-------|
-| 7 days unlimited | $27.50+ |
-| 15 days unlimited | $47.50+ |
-| 30 days unlimited | $69.50+ |
+---
 
-**Pros**:
-- No need to worry about running out of data
-- Hotspot supported on all plans
-- [Trustpilot rating **4.6/5**](https://www.trustpilot.com/review/holafly.com) (75,000+ reviews)
-- Highly praised customer service in travel forums
-- 24/7 online support
+## Thailand eSIM Coverage by Destination
 
-**Cons**:
-- **Significantly more expensive** than other platforms
-- "Unlimited" includes Fair Usage Policy – speeds drop after daily high‑speed allowance is used
-- No calls/SMS
+**In short:** Coverage is not equal. AIS is stronger on islands, mountains, and remote beaches. True Corp is excellent in cities but weaker outside them. Here is how they compare by destination.
 
-**Best for**: Heavy data users, long‑stay travellers, or those who don't want to monitor usage.
+Coverage is not equal across networks. Here is how AIS and True Corp perform across major tourist areas, based on traveller reports.
 
-### Saily Thailand eSIM Review: Privacy‑Focused AIS Option
+### Bangkok eSIM Coverage
+Almost no difference — both AIS and True Corp are excellent. Pick the cheaper one.
 
-Saily is an eSIM service from NordVPN, focusing on **data security and privacy**. Many users ask **is saily esim legit thailand** – and based on this **saily thailand esim review**, it's a reliable AIS‑based option.
+### Chiang Mai & Northern Thailand eSIM Coverage
+**AIS is the reliable choice** for Pai, Mae Hong Son, and the northern loop. True Corp often loses signal an hour out of town.
 
-**Thailand network**: Uses **AIS**.
+### Phuket eSIM Coverage
+**AIS** covers the whole island, including southern areas like Rawai, Nai Harn, and Chalong. True Corp works well on main beaches but is weaker on mountain roads.
 
-**Typical packages**:
+### Koh Samui & Gulf Islands eSIM Coverage
+**AIS is the only recommendation** for Koh Samui, Koh Phangan, and Koh Tao. True Corp is weak or unstable on these islands.
 
-| Data | Validity | Price |
-|------|----------|-------|
-| 1GB | 7 days | $2.99 |
-| 5GB | 30 days | $7.99 |
-| 20GB | 30 days | $19.99 |
+### Krabi & Andaman Coast eSIM Coverage
+**AIS** is safer for island-hopping (Ao Nang, Railay, Koh Lanta, Koh Phi Phi). True Corp works in main areas but is weaker on remote beaches.
 
-**Pros**:
-- **Typically 10–15% cheaper than Airalo**
-- Uses AIS network – best coverage
-- Emphasis on data security, includes ad‑blocking
-- Good UI and customer service reviews
-- Hotspot supported
+### Pattaya & Eastern Seaboard eSIM Coverage
+Both AIS and True Corp are strong. True Corp often has slightly better 5G density in central Pattaya.
 
-**Cons**:
-- Fewer countries covered than Airalo
-- App sometimes has loading delays
-- Some users report only LTE (not 5G) in Thailand
+### Chiang Rai & Far North eSIM Coverage
+**AIS** is the safer choice for Chiang Rai, the Golden Triangle, and remote mountain roads. True Corp works in the city but drops quickly outside.
 
-**Best for**: Privacy‑conscious users, budget travellers, and those mainly staying in cities.
+**Why this matters:** if your itinerary includes remote islands or northern mountains, AIS is the safer choice. True Corp simply doesn’t reach some of these areas. This is the single most important factor for island-hoppers and mountain trekkers.
 
-### Ubigi Thailand eSIM Review: Dual‑Network Reliability
+**Key takeaway:** If you leave the cities, choose AIS. If you stay in Bangkok or major tourist hubs, True Corp is fine.
 
-Ubigi offers flexible data plans for Thailand at very competitive prices, with automatic switching between AIS and True.
+---
 
-**Thailand network**: Supports **both AIS and True** – dual‑network.
+## Best Thailand eSIM by Traveller Type
 
-**Typical packages**:
+**In short:** Match the network to your itinerary. First-time visitors can use True Corp. Island-hoppers and trekkers need AIS. Digital nomads can choose based on city vs island. Budget travellers can pick either in cities.
 
-| Data | Validity | Price |
-|------|----------|-------|
-| 1GB | 7 days | $3.90 |
-| 3GB | 15 days | $6.90 |
-| 10GB | 30 days | $13.90 |
-| Unlimited | 7 days | $22.90 |
+### Best Thailand eSIM for First-Time Visitors
+- **Network:** True Corp is fine — dense 5G, cheaper than AIS.
+- **Platform:** Nomad or any international platform on True Corp.
 
-**Pros**:
-- **One of the lowest entry prices** (1GB/$3.90)
-- Automatic switching between two networks
-- Positive user feedback – "great connection", "worked perfectly"
+### Best Thailand eSIM for Island-Hopping (Gulf Islands)
+- **Network:** AIS, no question.
+- **Platform:** AIS local eSIM, or an international platform on AIS (Airalo, Saily).
 
-**Cons**:
-- Fewer package options
-- Data‑only, no calls
+### Best Thailand eSIM for Trekking in the North
+- **Network:** AIS.
+- **Platform:** AIS local eSIM, or Airalo/Saily (AIS).
 
-**Best for**: Short‑trip travellers, the most budget‑conscious.
+### Best Thailand eSIM for Digital Nomads (30+ Days)
+- **Network:** True Corp for city living; AIS if exploring islands.
+- **Platform:** eSIM-Now (AIS + True dual network) for 30-day value, or a local plan if you need a Thai number.
 
-### Travelsim Asia Thailand eSIM Review: Cheapest Entry Point
+### Best Thailand eSIM with a Thai Phone Number
+- **Network:** AIS or True Corp local eSIM.
+- **Platform:** Klook, KKday, Agoda, or Trip.com.
 
-Travelsim Asia offers the lowest Thailand eSIM prices in 2026 – the cheapest on four of the six standard data tiers. If you're looking for the **thailand esim cheapest** option, this is it.
+### Best Thailand eSIM Without Passport Registration
+- **Platform:** Airalo, Saily, Nomad, Ubigi, or Travelsim Asia — choose by the underlying network you need.
 
-| Data | Validity | Price | Cost/GB |
-|------|----------|-------|---------|
-| 1GB | 7 days | **$1.99** | $1.99 |
-| 3GB | 15 days | $4.99 | $1.66 |
-| 5GB | 30 days | $7.89 | $1.58 |
-| 10GB | 30 days | $9.99 | $1.00 |
+### Cheapest Thailand eSIM for a Tight Budget
+- **Platform:** Travelsim Asia (1GB/$1.99) or eSIM-Now (5GB/30 days/$6.96). Network differences are minimal if you’re only in cities.
 
-Uses AIS+True dual networks, automatically switching to the strongest signal.
+### Best Thailand eSIM for Families
+- **Network:** True Corp in cities; AIS if islands are included.
+- **Platform:** A dual-network international platform like Roami or Ubigi, or separate local eSIMs for each adult.
 
-### eSIM‑Now Thailand eSIM Review: Best 30‑Day Value
+### Best Thailand eSIM for Business Travellers
+- **Network:** True Corp for Bangkok; AIS for nationwide travel.
+- **Platform:** Airalo (AIS) or Ubigi (dual-network), with hotspot support for laptop use.
 
-eSIM‑Now offers highly competitive 30‑day local packages, also on AIS+True dual networks:
+**Bottom line:** There is no single best eSIM for everyone. Choose based on where you go, whether you need a Thai number, and whether you want to avoid passport registration.
 
-| Data | Price | Savings vs Airalo |
-|------|-------|-------------------|
-| 1GB/30 days | $3.17 | 21% |
-| 3GB/30 days | $5.37 | 2% |
-| **5GB/30 days** | **$6.96** | **13%** |
-| 10GB/30 days | $10.01 | 9% |
-| **20GB/30 days** | **$14.89** | **17%** |
+---
 
-> **Additional option**: Beyond the mainstream platforms, travellers may also check emerging providers like **Roami**. Roami offers flexible data packages for Thailand with **24/7 live human customer support** – great if you run into installation or connectivity issues. For more comparisons, visit our [Thailand eSIM full comparison page](/thailand-esim/).
+## AIS vs True vs International Platforms: Which Should You Choose?
 
+**In short:** Use this decision guide to match your trip to the right network and platform. Start with whether you need a Thai number, then choose by destination, then by registration preference.
 
-## Thailand Regional eSIM Performance Comparison: Coverage by Destination
+**Step 1: Do you need a Thai phone number?**
+- **No** → Go to Step 2.
+- **Yes** → Choose a local AIS or True eSIM via Klook, KKday, Agoda, or Trip.com.
 
-Based on the latest 2026 field tests and traveller forum feedback (collected from Reddit and other travel communities), here's how the carriers perform across major tourist areas. This is the most detailed **thailand esim coverage** guide you'll find, helping you decide **which network has esim** coverage where you're going.
+**Step 2: Where are you going?**
+- **Islands or northern mountains** → Choose AIS (local or via Airalo/Saily).
+- **Bangkok, Pattaya, or cities only** → Choose True Corp (local or via Nomad/Holafly).
+- **Mix of cities and islands** → Choose AIS for peace of mind, or a dual-network platform like Ubigi, Roami, or eSIM-Now.
 
-### Bangkok Metro Area
+**Step 3: Do you want to skip passport registration?**
+- **Yes** → Choose an international platform (Airalo, Saily, Nomad, Ubigi, Travelsim Asia, Roami).
+- **No, happy to register** → Choose a local AIS/True eSIM for a Thai number.
 
-| Carrier | 5G Density | Median Download | Stability | Verdict |
-|---------|-----------|-----------------|-----------|---------|
-| **AIS** | High | 120–180 Mbps | Extremely stable | Seamless citywide, best along BTS/MRT |
-| **True Corp** | Very high | 100–160 Mbps | Stable | Slightly denser 5G in Sukhumvit/Silom core |
+**Step 4: What is your budget?**
+- **Absolute cheapest** → Travelsim Asia 1GB/$1.99 or eSIM-Now 5GB/30 days/$6.96.
+- **Best value for heavy data** → Nomad 50GB/$12.
+- **Unlimited** → Holafly or Ubigi.
 
-**Conclusion**: Almost no difference in Bangkok – pick the cheaper one.
+**Bottom line:** Network first, then brand. AIS for reach, True for cities, international for no ID. Dual-network platforms are the safest all-round choice if you’re unsure.
 
-### Chiang Mai & Northern Mountains
+---
 
-| Carrier | City Performance | Suburban/Mountain Performance | Verdict |
-|---------|------------------|-------------------------------|---------|
-| **AIS** | Excellent (61.8 Mbps) | **Only one stable** | Must‑have for Pai, Mae Hong Son loop |
-| **True Corp** | Good | **Many dead zones** | Often loses signal 1 hour out of town |
+## Common Thailand eSIM Comparison Mistakes
 
-**Conclusion**: **Must choose AIS** for the North.
+**In short:** Most mistakes come from ignoring the underlying network, assuming unlimited means full speed, buying data-only then needing a Thai number, activating AIS too early, or forgetting DTAC is now True Corp.
 
-### Phuket
+**1. Choosing a brand without checking the underlying network.** Airalo and Saily usually run on AIS; Nomad and Holafly usually run on True Corp. If you need island coverage, the underlying network matters more than the brand name.
 
-| Carrier | City/Beach Performance | South/Mountain Performance | Verdict |
-|---------|------------------------|----------------------------|---------|
-| **AIS** | Excellent (68.9 Mbps) | Full coverage | Complete coverage across Rawai, Nai Harn, Chalong |
-| **True Corp** | Good | Some blind spots | Works on main beaches, weak on mountain roads |
+**2. Assuming “unlimited” means full speed.** Most unlimited plans have a fair-usage policy. After a daily high-speed allowance, speeds drop sharply. Check the FUP before buying.
 
-**Conclusion**: Choose AIS for island road trips; True is fine for beach‑only stays.
+**3. Buying a data-only plan and then needing a Thai number.** Data-only eSIMs cannot be converted into local numbers. If you need Grab or LINE registration, buy a local operator plan from the start.
 
-### Koh Samui & Gulf Islands
+**4. Activating AIS too early.** AIS registration must be completed within 24 hours before departure. Activating too early can cause the eSIM to expire before you arrive.
 
-| Carrier | Koh Samui | Koh Phangan | Koh Tao | Verdict |
-|---------|-----------|-------------|---------|---------|
-| **AIS** | Excellent | Good | Usable | **The only recommendation** |
-| **True Corp** | Fair | Weak | Unstable | Not recommended for these islands |
+**5. Forgetting that DTAC is now True Corp.** DTAC-branded plans use the same network as TrueMove H. If DTAC is cheaper, buy it — coverage is identical.
 
-**Conclusion**: **Must choose AIS** for any trip including Gulf islands.
+**6. Assuming all international platforms are the same.** They are not. Airalo uses AIS, Nomad uses True Corp. Choose by network, not by brand familiarity.
 
-### Dead Zones – Only AIS Covers
+**Key takeaway:** Check the underlying network, read the fair-usage policy, and decide on a Thai number before you buy. These three checks prevent most comparison mistakes.
 
-These areas are **only covered by AIS**; True Corp has virtually no signal, according to traveller reports and Opensignal coverage maps. If you're visiting any of these destinations, your **thailand esim coverage** depends entirely on choosing AIS:
+---
 
-1. Mountain sections of the **Mae Hong Son loop** (Pai → Mae Hong Son → Mae Sariang)
-2. Remote parts of **Koh Tao**
-3. Inland and eastern beaches of **Koh Phangan**
-4. Trekking routes in **Khao Yai National Park**
-5. Summit and surrounding areas of **Doi Inthanon**
-6. **Koh Lipe** and remote Andaman Sea islands
+## Final Verdict: Best Thailand eSIM for Your Trip
 
-> **Why this matters**: These dead zones highlight why **thailand esim coverage** is not equal across all networks. If your itinerary includes any of these areas, AIS is the only viable option – True Corp simply doesn't reach these locations. This is the single most important factor in any **thailand esim comparison** for island‑hoppers and mountain trekkers.
+**In short:** Choose AIS for islands and mountains. Choose True Corp for cities. Choose an international platform to skip passport registration. Choose a local operator plan if you need a Thai phone number.
 
+**Big cities + no ID verification** → **Travelsim Asia 1GB/7 days ($1.99)** or **Airalo** (AIS, no passport, strong reputation).
 
-## Thailand eSIM Summary – Scores & Recommendations
+**Islands/mountains + OK with verification** → **AIS local eSIM** (strongest coverage, most reliable).
 
-### Seven‑Dimension Scorecard
+**Absolute best value** → **Travelsim Asia** (1GB/$1.99, 10GB/$9.99) or **Nomad** (50GB/$12).
 
-| Dimension | AIS Local | True Local | Airalo | Nomad | Holafly | Saily | Ubigi | Travelsim Asia |
-|-----------|-----------|------------|--------|-------|---------|-------|-------|----------------|
-| **Network Coverage** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| **Speed** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| **Price** | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| **ID Verification** | Required | Required | Not needed | Not needed | Not needed | Not needed | Not needed | Not needed |
-| **Hotspot** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Thai Phone Number** | ✅ | ✅ | Some | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Customer Support** | Average | Average | In‑app | In‑app | 24/7 | In‑app | In‑app | Email |
+**Heavy data user** → **Holafly** (unlimited) or **Nomad 50GB**.
 
-*Scores based on publicly available 2026 data – for reference only.*
+**Need a Thai phone number** → **AIS** or **True Corp** local (calls and SMS).
 
-### Best eSIM by Trip Type
+**Staying 30+ days** → **eSIM-Now 20GB/30 days ($14.89)** or an AIS 30-day unlimited plan.
 
-| Your Trip | Best Choice | Key Reason |
-|-----------|-------------|------------|
-| **Island‑hopping / Northern mountains** | **AIS** (local or via Saily/Travelsim Asia on AIS) | Strongest coverage in remote areas |
-| **Bangkok / Pattaya city trips** | **True Corp** or **Nomad** | Fast urban speeds, great value |
-| **Don't want ID verification** | **Travelsim Asia / Airalo / Saily / Nomad / Ubigi** | No passport needed – buy and go |
-| **Need a Thai phone number** | **AIS** or **True Corp** local | Can register Grab, receive SMS |
-| **Heavy data user** | **Holafly** (unlimited) or **Nomad** (50GB/$12) | Unlimited or huge allowance |
-| **Tightest budget** | **Travelsim Asia** (1GB/$1.99) or **Saily** (1GB/$2.99) | Lowest prices online |
-| **Absolute lowest entry price** | Travelsim Asia 1GB/7 days ($1.99) | Cheapest starter plan |
-| **30‑day long stay** | **eSIM‑Now** 5GB or 20GB/30 days | Best value for longer stays |
-| **Short trip (≤3 days)** | **Nomad free 1GB** or **Visa cardholder 7‑day free unlimited** | **$0** |
+**Dual-network safety** → **Ubigi**, **Roami**, **Travelsim Asia**, or **eSIM-Now**.
 
+> **One-sentence summary:** choose the network, not the brand — AIS for islands, True for cities, international if you want to skip ID. For full pricing, see the **[Thailand eSIM price comparison](/blog/cheap-thailand-esim/)**.
 
-## Real User Reviews – Reddit & Travel Forums
+**Bottom line:** The best Thailand eSIM depends on your itinerary. Match the network to your destinations, decide whether you need a Thai number, and choose a platform that fits your registration preference.
 
-Here's what real travellers are saying in **thailand esim reddit** threads and travel forums, aggregated from multiple community discussions. These first‑hand experiences are invaluable for any **thailand esim review**:
+---
 
-**On AIS**:
-- "Best Thailand eSIM seems to be AIS – frequently mentioned for excellent coverage and reliability. Multiple users recommend buying from AIS for best performance, especially in Bangkok, Hua Hin, Pattaya, and Phuket."
-- "In 2026, I highly recommend AIS eSIM. Full 5G signal everywhere. Speed tests average 85–120 Mbps, even hit 150 Mbps in Bangkok. Only downside is 10–15% more expensive than others."
-- "AIS is like Taiwan's Chunghwa Telecom – more stable in remote areas."
-- "AIS's coverage on Koh Samui, Koh Phangan, and Koh Tao is far superior to True – my most reliable companion for island hopping."
+## Thailand eSIM Comparison FAQ
 
-**On coverage comparisons**:
-- "AIS wins in truly remote terrain – deep forest trails in Chiang Rai, island hopping."
-- "True is fine in the city."
-- "TrueMove is 40–50 THB cheaper than AIS, but once you're on the Mae Hong Son loop or Doi Inthanon summit, you'll lose signal."
-- "I tested both AIS and True on a Phuket road trip – AIS had signal the whole way, True went dead in Rawai and Nai Harn."
-
-**On international platforms**:
-- "For most Thailand trips, Saily is the best overall eSIM. Easy pre‑flight install, short plans from $2.99."
-- "For most Thailand itineraries, Airalo is the right answer."
-- "Airalo is the most well‑known eSIM app and worked perfectly in Thailand."
-- "Travelsim Asia's $1.99 package is a steal – I used it for 6 days in Bangkok with no problems and good speeds."
-
-### Score Summary by Platform
-
-| Platform | Rating | Reviews | Source |
-|----------|--------|---------|--------|
-| Klook AIS eSIM | 4.7/5 | 16,000+ | [Klook](https://www.klook.com/) |
-| KKday AIS eSIM | 4.4/5 | 3,100+ | [KKday](https://www.kkday.com/) |
-| KKday TrueMove eSIM | 4.7/5 | 2,000+ | [KKday](https://www.kkday.com/) |
-| Holafly | 4.6/5 | 75,000+ | [Trustpilot](https://www.trustpilot.com/review/holafly.com) |
-| Nomad | 4.3/5 | — | [Trustpilot](https://www.trustpilot.com/review/nomad.com) |
-
-> **More free eSIM options**: Besides the paid platforms above, some providers like **Roami** offer free trial eSIMs. For a full list of zero‑cost global data options, check our [Free eSIM Guide](/free-esim/).
-
-
-## Money‑Saving Tips & Decision Guide
-
-### Discount Codes
-
-Some platforms offer standing promo codes – worth checking before checkout:
-- **Roamify**: use **ROAM5** for 5% off
-- **eSIM-Now**: use **ESIMNOWGO** for 10% off
-- **Ubigi**: use **GIZMODO** for 10% off first order
-- **Saily**: use **GIZMODO** for 15% off entire order
-- **Roami**: enter **web20** for 20% off
-
-> **Once you've decided on the right network for your trip, find out [where to buy the cheapest plan](/blog/cheap-thailand-esim/)** – we've broken down online, airport, and 7‑Eleven options so you never overpay. This is the next step after your **thailand esim comparison** is complete.
-
-
-## Thailand eSIM FAQ: Common Questions About Networks & Coverage
-
-**Q1: Which network is better for islands – AIS or True?**
-
-**AIS** is the clear winner for islands. On Koh Samui, Koh Phangan, and Koh Tao, AIS provides stable 4G/5G coverage while True Corp has weak or no signal. If your **thailand esim comparison** includes any Gulf islands, choose AIS.
+**Q1: Which network is better for islands — AIS or True?**
+**AIS** is the clear winner. On Koh Samui, Koh Phangan, and Koh Tao, AIS provides stable coverage while True Corp is weak or absent. If your itinerary includes any Gulf islands, choose AIS.
 
 **Q2: Does Airalo work well in Thailand?**
+Yes — Airalo primarily uses the AIS network in Thailand, which gives it excellent coverage, and it doesn’t require passport registration.
 
-Yes, Airalo primarily uses the AIS network in Thailand, which gives it excellent coverage across the country. This **airalo thailand esim review** confirms it's a reliable option for travellers who want to skip passport registration.
-
-**Q3: Which network has eSIM coverage in northern Thailand?**
-
-**AIS** is the only reliable network in northern mountain areas like Pai, Mae Hong Son, and Doi Inthanon. True Corp loses signal about an hour outside major cities like Chiang Mai.
+**Q3: Which network covers northern Thailand best?**
+**AIS** is the reliable network in northern mountain areas like Pai, Mae Hong Son, and Doi Inthanon. True Corp often loses signal outside major cities.
 
 **Q4: Is True Corp good for Bangkok?**
+Yes — True Corp has dense 5G in Bangkok, especially along BTS/MRT lines, Sukhumvit, and Silom. For city-only trips it’s a great value.
 
-Yes, True Corp has dense 5G coverage in Bangkok, especially along BTS/MRT lines, Sukhumvit, and Silom. For city‑only trips, True Corp is a great value option in any **thailand esim comparison**.
-
-**Q5: Do I need a Thai phone number for my eSIM?**
-
-Only if you need to register for local apps like Grab, LINE, or Foodpanda. Local carrier eSIMs (AIS/True) include a **thailand esim with phone number**, while international platforms are data‑only.
+**Q5: Do I need a Thai phone number?**
+Only if you need to register for local apps like Grab, LINE, or Foodpanda. Local carrier eSIMs (AIS/True) include a Thai number; international platforms are data-only.
 
 **Q6: Which is the best Thailand eSIM for tourists overall?**
+Islands/mountains → **AIS** (local or via Saily/Airalo). City trips → **True Corp** or **Nomad**. No ID verification → **Airalo / Saily / Travelsim Asia**.
 
-For islands and mountains → **AIS** (local or via Saily/Airalo on AIS). For Bangkok city trips → **True Corp** or **Nomad**. For no ID verification → **Travelsim Asia / Airalo / Saily**. Check the **best thailand esim reddit** threads for real‑user opinions.
+**Q7: Is DTAC the same as True Corp now?**
+Yes — DTAC merged into True Corp in 2023. DTAC-branded eSIMs still exist but use the same network as TrueMove H; coverage and speeds are identical.
 
+**Q8: Which platform has the best coverage without passport registration?**
+**Airalo** and **Saily** use the AIS network and don’t require registration — top choices for AIS coverage without the hassle.
 
-## Final Verdict – Which Thailand eSIM Should You Choose?
+**Q9: Can I use a Thailand eSIM in other countries?**
+Most Thailand eSIM plans are Thailand-only. For multi-country travel, look for a regional Asia eSIM (Airalo, Nomad, Ubigi, and Saily offer regional packages).
 
-### Final Recommendations
+**Q10: Is AIS worth the extra cost over True Corp?**
+If your itinerary includes islands or northern mountains, yes — AIS is the reliable option there. If you’re staying in Bangkok, Pattaya, or Phuket, True Corp is fine and often cheaper. The extra cost only makes sense if you’re leaving the major cities.
 
-**If you're only visiting big cities like Bangkok + don't want ID verification** → **Travelsim Asia 1GB/7 days ($1.99)** or **Airalo** (AIS network, no passport, best reputation)
+**Q11: What is the fastest network in Thailand for 5G?**
+Both AIS and True Corp have excellent 5G in cities. True Corp often has denser 5G in Bangkok, while AIS has broader rural 5G. For most travellers, the difference is negligible in cities.
 
-**If you're going to islands/mountains + OK with verification** → **AIS local eSIM** (strongest coverage, most reliable)
+**Q12: Can I switch between AIS and True on the same eSIM?**
+Some international platforms, such as Ubigi, Travelsim Asia, eSIM-Now, and Roami, use dual-network eSIMs that can switch between AIS and True automatically. Local operator eSIMs are locked to one network.
 
-**If you want the absolute best value** → **Travelsim Asia** (1GB/$1.99, 10GB/$9.99) or **Nomad** (50GB for just $12)
+**Q13: Which platform has the best customer support?**
+**Roami** offers 24/7 live human support. Airalo and Saily also have responsive support, but Roami’s live chat is a standout for travellers who want real-time help.
 
-**If you're a heavy data user** → **Holafly** (unlimited, worry‑free) or **Nomad 50GB** (huge allowance, great price)
+**Q14: Does True Corp work on Koh Samui?**
+True Corp has some coverage on Koh Samui, but it is weaker and less stable than AIS, especially around the island’s quieter beaches and hills. If Koh Samui is on your itinerary, choose AIS.
 
-**If you need a Thai phone number** → **AIS** or **True Corp** local (calls and SMS)
-
-**If you're staying 30+ days** → **eSIM‑Now 20GB/30 days ($14.89)** or **AIS 30‑day unlimited**
-
-**If you want exclusive discounts and 24/7 support** → Check out **Roami** – use code **web20** for 20% off, plus **24/7 live human support** for any installation or usage issues. For more Thailand eSIM packages, return to our [Thailand eSIM summary page](/thailand-esim/).
-
-> **Need help installing your eSIM after you've chosen one?** Read our **[Ultimate Thailand eSIM Activation Guide](/blog/thailand-esim-guide/)** for step‑by‑step setup, dual‑SIM configuration, and troubleshooting tips.
-
-### One‑Sentence Summary
-
-> **Choose the network, not the brand. Pick AIS for islands, True for cities, and international if you skip ID – the cheapest 1GB plan in 2026 is just $1.99. Spend 3 minutes ordering before you go, and you'll save 70% compared to airport prices.**
-
+---
 
 ### Data Sources
 
-This article draws on the following authoritative sources, each cited in the relevant sections above:
+This article is based on general, well-established facts about the Thai mobile market (AIS, True Corp, the DTAC merger, and NBTC registration rules) and publicly available platform information. Specific performance claims are qualitative rather than exact figures, since network performance varies by location and device and changes over time.
 
-- [Opensignal Thailand Mobile Network Experience Report (August 2026)](https://www.opensignal.com/reports/2026/08/thailand/mobile-network-experience) – for coverage, speed, and award data.
-- [Ookla Speedtest Intelligence Thailand Report (Q4 2024)](https://www.speedtest.net/global-index) – for city‑level download/upload speeds.
-- Official announcements from Thailand's [National Broadcasting and Telecommunications Commission (NBTC)](https://www.nbtc.go.th/) – for market structure and regulatory updates.
-- Public disclosures from carriers (AIS, True Corp) and eSIM platforms (Airalo, Nomad, etc.) – for plan details and pricing.
-- User review data from travel platforms like [Klook](https://www.klook.com/) and [KKday](https://www.kkday.com/) – for real‑world ratings.
-- Traveller forum feedback from Reddit and other communities – for on‑ground experiences and recommendations.
+*Network performance and plan details change over time — always check the latest information from your chosen provider.*
