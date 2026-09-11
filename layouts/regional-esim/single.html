@@ -312,7 +312,7 @@
           {{ end }}
         </div>
         <div class="mt-7 flex flex-wrap items-center gap-3">
-          <a href="{{ .Params.hero.primary_cta_url | relLangURL }}" class="inline-flex items-center gap-2 px-5 py-3 sm:px-6 sm:py-3.5 bg-sky-500 text-white font-bold rounded-xl hover:bg-sky-400 transition text-sm sm:text-base shadow-lg shadow-sky-500/25">
+          <a onclick="handleBuyNow()" class="inline-flex items-center gap-2 px-5 py-3 sm:px-6 sm:py-3.5 bg-sky-500 text-white font-bold rounded-xl hover:bg-sky-400 transition text-sm sm:text-base shadow-lg shadow-sky-500/25">
             {{ .Params.hero.primary_cta_text }}
             <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
           </a>
