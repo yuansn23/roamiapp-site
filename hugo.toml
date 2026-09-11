@@ -699,6 +699,7 @@ weight = 11
     footer_col2_title = "Dukungan Pelanggan"
     footer_col2_links = [
       { name = "Tanya Jawab", url = "/faq/" },
+     { name = "Blog", url = "/blog/" },
       { name = "Kompatibilitas eSIM", url = "/compatibility/" },
       { name = "Unduh Roami", url = "/app/" }
     ]
