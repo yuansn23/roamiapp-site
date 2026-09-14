@@ -393,7 +393,7 @@
 
                     <div id="free-android" onclick="handleBuyNow()" role="tabpanel" class="dl-tab-content hidden text-center" data-group="free">
                         <img src="/img/Android.png" alt="Scan QR code to get it on Google Play" class="w-32 h-32 mx-auto rounded-xl mb-5 bg-white p-2 shadow-lg">
-                        <a href="https://play.google.com/store/apps/details?id=com.usphonesimgo.app&hl=zh" target="_blank" rel="noopener noreferrer" class="appstore-btn android-btn w-full justify-center flex js-download-link" aria-label="Get it on Google Play">
+                        <a href="https://www.phonesimgo.com" target="_blank" rel="noopener noreferrer" class="appstore-btn android-btn w-full justify-center flex js-download-link" aria-label="Get it on Google Play">
                             <svg viewBox="0 0 24 24" fill="white" class="w-6 h-6 flex-shrink-0"><path d="M3 20.5v-17c0-.59.34-1.11.84-1.35L13.69 12 3.84 21.85C3.34 21.6 3 21.09 3 20.5m13.81-5.38-2.76-2.76-7.51 4.31 10.27-1.55m3.35-4.31c.34.27.59.69.59 1.19s-.25.92-.59 1.19l-2.27 1.31-2.5-2.5 2.5-2.5 2.27 1.31M6.05 2.66l10.76 6.22-2.27 2.27-8.49-8.49z"/></svg>
                             <div class="text-left"><div class="text-[10px] text-green-300 leading-none mb-0.5">{{ i18n "get_it_on" | default "Get it on" }}</div><div class="text-sm font-bold leading-none">{{ i18n "google_play" | default "Google Play" }}</div></div>
                         </a>
@@ -619,7 +619,7 @@
                     <div class="bg-white p-4 rounded-2xl inline-block mb-6 shadow-xl">
                         <img src="/img/Android.png" alt="Android Download QR Code" class="w-40 h-40">
                     </div>
-                    <a href="https://play.google.com/store/apps/details?id=com.usphonesimgo.app" target="_blank" rel="noopener noreferrer" class="appstore-btn android-btn w-full justify-center flex items-center js-download-link" style="padding:16px 32px; text-decoration: none;" aria-label="Get it on Google Play">
+                    <a href="https://www.phonesimgo.com" target="_blank" rel="noopener noreferrer" class="appstore-btn android-btn w-full justify-center flex items-center js-download-link" style="padding:16px 32px; text-decoration: none;" aria-label="Get it on Google Play">
                         <svg viewBox="0 0 24 24" fill="white" class="w-10 h-10 flex-shrink-0">
                             <path d="M3 20.5v-17c0-.59.34-1.11.84-1.35L13.69 12 3.84 21.85C3.34 21.6 3 21.09 3 20.5m13.81-5.38-2.76-2.76-7.51 4.31 10.27-1.55m3.35-4.31c.34.27.59.69.59 1.19s-.25.92-.59 1.19l-2.27 1.31-2.5-2.5 2.5-2.5 2.27 1.31M6.05 2.66l10.76 6.22-2.27 2.27-8.49-8.49z"/>
                         </svg>
@@ -700,7 +700,7 @@
             if (/android/i.test(ua)) {
                 return {
                     type: 'android',
-                    url: 'https://play.google.com/store/apps/details?id=com.usphonesimgo.app',
+                    url: 'https://www.phonesimgo.com',
                     iconHtml: `<svg viewBox="0 0 24 24" fill="white" class="w-6 h-6"><path d="M3 20.5v-17c0-.59.34-1.11.84-1.35L13.69 12 3.84 21.85C3.34 21.6 3 21.09 3 20.5m13.81-5.38-2.76-2.76-7.51 4.31 10.27-1.55m3.35-4.31c.34.27.59.69.59 1.19s-.25.92-.59 1.19l-2.27 1.31-2.5-2.5 2.5-2.5 2.27 1.31M6.05 2.66l10.76 6.22-2.27 2.27-8.49-8.49z"/></svg>`,
                     text: btnTexts.googlePlay
                 };
