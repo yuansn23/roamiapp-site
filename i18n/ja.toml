@@ -473,3 +473,10 @@ other = '''<strong>無料eSIM</strong>をお探しの際は、信頼性が高く
 
 [why_p2]
 other = '''当社の<strong>無料eSIM QRコード</strong>は即座に生成され、メールで送信されるため、数分でデバイスを設定できます。頻繁に旅行される方でも、eSIMテクノロジーをテストしたいだけでも、Roamiは4G/5G速度、24時間サポート、さらなるデータが必要な場合の有料プランの透明な価格設定を備えた<strong>最高の無料eSIM体験</strong>を提供します。'''
+[secure_payment]
+other = "安全なお支払い"
+
+[value_prop_delivery]
+other = "即時発送"
+[value_prop_refund]
+other = "使えない場合は100%返金"

@@ -580,3 +580,10 @@ other = '''Khi tìm kiếm một <strong>eSIM miễn phí</strong>, bạn muốn
 
 [why_p2]
 other = '''<strong>Mã QR eSIM miễn phí</strong> của chúng tôi được tạo ngay lập tức và gửi đến email của bạn, để bạn có thể thiết lập thiết bị trong vài phút. Dù bạn là khách du lịch thường xuyên hay chỉ muốn thử công nghệ eSIM, Roami mang đến <strong>trải nghiệm eSIM miễn phí tốt nhất</strong> với tốc độ 4G/5G, hỗ trợ 24/7 và giá cả minh bạch cho các gói trả phí nếu bạn cần thêm dữ liệu.'''
+[secure_payment]
+other = "Thanh toán an toàn"
+
+[value_prop_delivery]
+other = "Giao hàng ngay"
+[value_prop_refund]
+other = "Hoàn tiền 100% nếu không dùng được"

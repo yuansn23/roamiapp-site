@@ -580,3 +580,10 @@ other = '''<strong>Ücretsiz eSIM</strong> ararken, güvenilir, hızlı ve gerç
 
 [why_p2]
 other = '''<strong>Ücretsiz eSIM QR kodumuz</strong> anında oluşturulur ve e-postanıza gönderilir, böylece cihazınızı dakikalar içinde kurabilirsiniz. İster sık seyahat eden biri olun, ister sadece eSIM teknolojisini test etmek isteyin, Roami 4G/5G hızları, 7/24 destek ve daha fazla veriye ihtiyacınız varsa ücretli planlar için şeffaf fiyatlandırma ile <strong>en iyi ücretsiz eSIM deneyimini</strong> sunar.'''
+[secure_payment]
+other = "Güvenli ödeme"
+
+[value_prop_delivery]
+other = "Anında teslimat"
+[value_prop_refund]
+other = "Çalışmazsa %100 iade"

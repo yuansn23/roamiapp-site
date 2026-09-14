@@ -580,3 +580,10 @@ other = '''Ao procurar um <strong>eSIM gratuito</strong>, você deseja uma opç�
 
 [why_p2]
 other = '''Nosso <strong>código QR eSIM gratuito</strong> é gerado instantaneamente e enviado para seu e-mail, para que você possa configurar seu dispositivo em minutos. Seja você um viajante frequente ou apenas queira testar a tecnologia eSIM, a Roami oferece a <strong>melhor experiência em eSIM gratuito</strong> com velocidades 4G/5G, suporte 24/7 e preços transparentes para planos pagos, caso precise de mais dados.'''
+[secure_payment]
+other = "Pagamento seguro"
+
+[value_prop_delivery]
+other = "Entrega imediata"
+[value_prop_refund]
+other = "100% de reembolso se não funcionar"

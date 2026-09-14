@@ -13,7 +13,7 @@
     <meta property="og:type" content="article">
     <meta name="twitter:card" content="summary_large_image">
     
-    <!-- JSON-LD Structured Data (Article) -->
+    <!-- JSON-LD Structured Data (Article + BreadcrumbList) -->
     {{- if .IsPage -}}
     <script type="application/ld+json">
     {
@@ -49,24 +49,32 @@
                     {{- $currentPage := . -}}
                     {{- $entries := slice -}}
                     {{- $home := .Site.Home -}}
-                    {{- $entries = $entries | append (dict "position" 1 "name" "Home" "url" $home.Permalink) -}}
+
+                    {{/* 首页：优先用站点首页 Title，其次用 i18n，最后兜底 "Home" */}}
+                    {{- $homeName := $home.Title | default (i18n "breadcrumb_home" | default "Home") -}}
+                    {{- $entries = $entries | append (dict "position" 1 "name" $homeName "url" $home.Permalink) -}}
+
+                    {{/* 中间层级：Home 的下一级到当前页的父级 */}}
                     {{- $pos := 2 -}}
                     {{- range $currentPage.Ancestors.Reverse -}}
                         {{- if not .IsHome -}}
-                            {{- $entries = $entries | append (dict "position" $pos "name" .Title "url" .Permalink) -}}
+                            {{- $t := .Title | default .RelPermalink -}}
+                            {{- $entries = $entries | append (dict "position" $pos "name" $t "url" .Permalink) -}}
                             {{- $pos = add $pos 1 -}}
                         {{- end -}}
                     {{- end -}}
-                    {{- $entries = $entries | append (dict "position" $pos "name" .Title "url" nil) -}}
+
+                    {{/* 当前页：必须同时给出 name + item，避免 Google 报 “应指定 name 或 item.name” */}}
+                    {{- $pageName := $currentPage.Title | default $currentPage.RelPermalink -}}
+                    {{- $entries = $entries | append (dict "position" $pos "name" $pageName "url" $currentPage.Permalink) -}}
+
                     {{- range $index, $entry := $entries -}}
                         {{- if $index }}, {{ end -}}
                         {
                             "@type": "ListItem",
                             "position": {{ $entry.position }},
-                            "name": {{ $entry.name | jsonify | safeJS }}
-                            {{- if $entry.url -}}
-                                , "item": {{ $entry.url | absURL | safeURL | jsonify | safeJS }}
-                            {{- end -}}
+                            "name": {{ $entry.name | jsonify | safeJS }},
+                            "item": {{ $entry.url | absURL | safeURL | jsonify | safeJS }}
                         }
                     {{- end -}}
                 ]

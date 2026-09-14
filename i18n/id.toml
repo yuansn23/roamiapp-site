@@ -584,3 +584,10 @@ Saat mencari <strong>eSIM gratis</strong>, Anda menginginkan opsi yang andal, ce
 other = """
 <strong>Kode QR eSIM gratis</strong> kami dihasilkan secara instan dan dikirim ke email Anda, sehingga Anda dapat mengatur perangkat dalam hitungan menit. Baik Anda seorang pelancong sering atau hanya ingin menguji teknologi eSIM, Roami menawarkan <strong>pengalaman eSIM gratis terbaik</strong> dengan kecepatan 4G/5G, dukungan 24/7, dan harga transparan untuk paket berbayar jika Anda membutuhkan lebih banyak data.
 """
+[secure_payment]
+other = "Pembayaran aman"
+
+[value_prop_delivery]
+other = "Pengiriman instan"
+[value_prop_refund]
+other = "Pengembalian dana 100% jika tidak berfungsi"

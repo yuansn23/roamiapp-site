@@ -581,3 +581,10 @@ other = '''Quando cerchi una <strong>eSIM gratuita</strong>, desideri un'opzione
 
 [why_p2]
 other = '''Il nostro <strong>codice QR eSIM gratuito</strong> viene generato istantaneamente e inviato alla tua e-mail, così puoi configurare il tuo dispositivo in pochi minuti. Che tu sia un viaggiatore frequente o che tu voglia semplicemente testare la tecnologia eSIM, Roami offre la <strong>migliore esperienza eSIM gratuita</strong> con velocità 4G/5G, supporto 24/7 e prezzi trasparenti per i piani a pagamento se hai bisogno di più dati.'''
+[secure_payment]
+other = "Pagamento sicuro"
+
+[value_prop_delivery]
+other = "Consegna immediata"
+[value_prop_refund]
+other = "100% di rimborso se non funziona"

@@ -481,3 +481,10 @@ other = '''當您在尋找<strong>免費eSIM</strong>時，您會想要一個可
 
 [why_p2]
 other = '''我們的<strong>免費eSIM QR碼</strong>會即時生成並發送到您的電子郵件，因此您可以在幾分鐘內設定好您的裝置。無論您是經常旅行的旅客，還是只是想測試eSIM技術，Roami都能提供<strong>最佳的免費eSIM體驗</strong>，具備4G/5G速度、24/7客戶支援，以及如果您需要更多數據，則提供透明的付費方案定價。'''
+[secure_payment]
+other = "安全支付"
+
+[value_prop_delivery]
+other = "即時發貨"
+[value_prop_refund]
+other = "無法使用 100% 全額退款"
