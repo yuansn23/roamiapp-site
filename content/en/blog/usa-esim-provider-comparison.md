@@ -783,33 +783,6 @@ When evaluating which USA eSIM provider to choose, consider the full picture: ne
 
 Taking the time to compare providers before your trip ensures reliable connectivity from the moment you land, so you can focus on enjoying your US trip rather than worrying about your connection.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Airalo vs Holafly vs Ubigi: USA eSIM Head-to-Head Comparison",
-  "description": "Comparing top international eSIM providers for US travel. Find out which delivers on speed, coverage, and value. Roami offers auto switching and live support.",
-  "image": "https://www.roamiapp.com/img/esim/usa/usa-esim-provider-comparison.jpg",
-  "datePublished": "2026-08-17",
-  "dateModified": "2026-08-17",
-  "author": {
-    "@type": "Organization",
-    "name": "Roami Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Roami",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.roamiapp.com/img/logo.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.roamiapp.com/blog/usa-esim-provider-comparison/"
-  }
-}
-</script>
 
 *Last updated August 2026.*
 

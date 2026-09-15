@@ -754,33 +754,6 @@ Tello is the only provider that allows you to pause your plan (and number retent
 
 [USA eSIM plans](/united-states-esim/) offers a [free eSIM starter](/free-esim/) if you want to test how eSIMs work before committing to a carrier plan. Code **WEB20** takes 20% off any plan.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "T-Mobile vs AT&T vs Verizon eSIM: Best US Carrier Plans",
-  "description": "Should tourists buy an eSIM from T-Mobile, AT&T, or Verizon? Prepaid plan comparison with pricing and coverage. Roami offers USA eSIM with auto switching.",
-  "image": "https://www.roamiapp.com/img/esim/usa/usa-esim-carrier-plans.jpg",
-  "datePublished": "2026-08-17",
-  "dateModified": "2026-08-17",
-  "author": {
-    "@type": "Organization",
-    "name": "Roami Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Roami",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.roamiapp.com/img/logo.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.roamiapp.com/blog/usa-esim-carrier-plans/"
-  }
-}
-</script>
 
 *Last updated August 2026.*
 

@@ -440,20 +440,4 @@ Pour la plupart des voyageurs français, un eSIM de voyage multi-réseau offre l
 **Besoin d'aide pour d'autres destinations ?** Consultez notre guide **[eSIM États-Unis](/united-states-esim/)** ou découvrez toutes nos **[destinations eSIM](/)** disponibles.
 
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "inLanguage": "fr",
-  "mainEntity": [
-    {"@type": "Question", "name": "Pourquoi ne devrais-je pas simplement acheter une carte SIM physique à l'aéroport ?", "acceptedAnswer": {"@type": "Answer", "text": "Les voyageurs arrivant à Heathrow ou Gatwick paient souvent 30 à 50 % de plus pour des cartes SIM physiques en boutique d'aéroport. Une eSIM permet d'acheter aux tarifs standards du marché à l'avance, en évitant ces majorations et les files d'attente."}},
-    {"@type": "Question", "name": "Comment savoir si mon téléphone fonctionnera avec un eSIM britannique ?", "acceptedAnswer": {"@type": "Answer", "text": "Composez *#06#. Si vous voyez un EID de 32 caractères, votre téléphone est compatible eSIM. Une liste complète des appareils compatibles est disponible pour vérification sur notre site."}},
-    {"@type": "Question", "name": "Pourquoi mon téléphone affiche-t-il des barres pleines mais pas d'Internet à l'intérieur ?", "acceptedAnswer": {"@type": "Answer", "text": "La 5G haute bande peine à pénétrer les murs épais des vieux bâtiments britanniques. La 4G basse bande est plus lente mais plus pénétrante. Les fournisseurs avec basculement intelligent du réseau vous déplacent automatiquement vers le réseau le plus pénétrant."}},
-    {"@type": "Question", "name": "Quelle est la meilleure option réseau pour un road trip en Écosse ?", "acceptedAnswer": {"@type": "Answer", "text": "Pour les Highlands, la fiabilité et la couverture priment sur la vitesse. Utilisez une eSIM connectée au réseau EE (la couverture la plus large) et téléchargez des cartes hors ligne avant de partir."}},
-    {"@type": "Question", "name": "Une eSIM de voyage inclut-elle un numéro de téléphone local au Royaume-Uni ?", "acceptedAnswer": {"@type": "Answer", "text": "La plupart des eSIM de voyage sont en données uniquement, sans numéro de téléphone. Si vous avez besoin d'un numéro local +44 pour recevoir des SMS ou appels, achetez une eSIM locale Pay As You Go chez EE, O2 ou Vodafone."}},
-    {"@type": "Question", "name": "Puis-je utiliser mon eSIM UK en Europe ?", "acceptedAnswer": {"@type": "Answer", "text": "Cela dépend du forfait. Les eSIM régionaux incluent souvent l'Europe sans frais supplémentaires. Les eSIM locaux britanniques facturent généralement 2 £ par jour en Europe. Vérifiez les conditions avant l'achat."}},
-    {"@type": "Question", "name": "Quelle eSIM choisir pour visiter Londres ?", "acceptedAnswer": {"@type": "Answer", "text": "Pour Londres, privilégiez une eSIM sur le réseau O2 (excellent signal intérieur et dans le métro) ou une eSIM multi-réseau comme Roami. Un forfait 3 à 5 Go pour 3 à 5 jours est amplement suffisant."}}
-  ]
-}
-</script>
 *Basé sur les données officielles des opérateurs britanniques (EE, O2, Vodafone, Three), les standards GSMA, Ofcom UK et les informations des opérateurs français (Orange, SFR, Bouygues, Free). Mis à jour : juin 2026.*

@@ -667,19 +667,4 @@ L'eSIM elle-même ne consomme pas plus de batterie qu'une SIM physique (différe
 Besoin d'aide pour un problème spécifique non couvert ici ? Consultez nos autres guides : **[12 correctifs double eSIM](/faq/dual-esim-not-working-12-fixes-for-iphone/)** pour les problèmes de double ligne, et le **[guide d'activation eSIM](/faq/how-to-activate-an-esim/)** pour une procédure pas à pas.
 
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "inLanguage": "fr",
-  "mainEntity": [
-    {"@type": "Question", "name": "Puis-je réinstaller la même eSIM plusieurs fois ?", "acceptedAnswer": {"@type": "Answer", "text": "La plupart des QR codes eSIM sont à usage unique. Une fois installé, le profil est lié à votre téléphone. Si vous devez le réinstaller (changement de téléphone, réinitialisation), vous aurez besoin d'un nouveau QR code de votre opérateur."}},
-    {"@type": "Question", "name": "Est-ce que le support Apple ou Google peut m'aider avec une eSIM de voyage ?", "acceptedAnswer": {"@type": "Answer", "text": "Apple et Google peuvent diagnostiquer les problèmes matériels et logiciels de votre téléphone, mais pas les problèmes liés au profil eSIM lui-même (code expiré, réseau partenaire, etc.). Pour ces problèmes, contactez directement votre fournisseur eSIM."}},
-    {"@type": "Question", "name": "Comment tester mon eSIM avant de voyager ?", "acceptedAnswer": {"@type": "Answer", "text": "Si votre eSIM couvre votre pays de résidence, vous pouvez l'activer brièvement chez vous, vérifier la connexion, puis la désactiver. Attention : certains forfaits démarrent leur période de validité dès l'activation. Lisez les conditions."}},
-    {"@type": "Question", "name": "L'eSIM se désactive-t-elle automatiquement à la fin du forfait ?", "acceptedAnswer": {"@type": "Answer", "text": "Non. Le profil eSIM reste installé même après expiration du forfait. Il affichera « Aucun service » mais restera dans vos réglages. Vous devez le supprimer manuellement."}},
-    {"@type": "Question", "name": "Pourquoi mon eSIM affiche-t-elle un réseau différent de celui attendu ?", "acceptedAnswer": {"@type": "Answer", "text": "Les eSIM de voyage utilisent des accords de roaming avec plusieurs opérateurs partenaires. Votre téléphone sélectionne automatiquement le réseau avec le meilleur signal. Si vous préférez un réseau spécifique, utilisez la sélection manuelle dans les réglages."}},
-    {"@type": "Question", "name": "La batterie se décharge plus vite avec une eSIM, est-ce normal ?", "acceptedAnswer": {"@type": "Answer", "text": "L'eSIM elle-même ne consomme pas plus de batterie qu'une SIM physique (différence inférieure à 1 %). En revanche, une double SIM active ou un signal faible peuvent augmenter la consommation de 5 à 15 %. Désactivez la ligne inutilisée pour économiser la batterie."}}
-  ]
-}
-</script>
 *Basé sur la documentation technique officielle de la [GSMA SGP.22](https://www.gsma.com/esim/sgp-22-specification/), les pages d'assistance d'[Apple](https://support.apple.com/fr-fr/108072) et les retours d'utilisateurs compilés. Dernière révision : août 2026.*

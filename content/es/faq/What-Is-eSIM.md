@@ -98,19 +98,6 @@ sidebar_questions:
       url: "/compatibility/"
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "¿Qué es una eSIM?", "acceptedAnswer": {"@type": "Answer", "text": "Una eSIM (embedded SIM) es una SIM digital integrada directamente en la placa base de tu dispositivo, sin necesidad de tarjeta física."}},
-    {"@type": "Question", "name": "¿Cómo funciona una eSIM?", "acceptedAnswer": {"@type": "Answer", "text": "La eSIM almacena múltiples perfiles de operador en un chip eUICC y se activa escaneando un código QR o usando la aplicación del operador."}},
-    {"@type": "Question", "name": "¿La eSIM es compatible con mi teléfono?", "acceptedAnswer": {"@type": "Answer", "text": "La mayoría de iPhones desde XS/XR, Samsung Galaxy S20+, Google Pixel 3+ y otros Android modernos son compatibles con eSIM. Marca *#06# para verificar."}},
-    {"@type": "Question", "name": "¿Es segura la eSIM?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, la eSIM es más segura que una SIM física. No se puede extraer ni clonar, y los perfiles se transmiten encriptados según el estándar GSMA SGP.22."}},
-    {"@type": "Question", "name": "¿Puedo usar eSIM y SIM física a la vez?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, la mayoría de teléfonos permiten usar eSIM dual o eSIM + SIM física simultáneamente para mantener dos líneas activas."}}
-  ]
-}
-</script>
 
 > Si has comprado un nuevo iPhone o iPad recientemente, o estás planeando tu próximo viaje internacional, probablemente hayas oído el término **eSIM**. Pero, ¿qué es realmente una eSIM? Aunque pueda sonar muy técnico, en realidad es una actualización simple y poderosa de las tarjetas SIM de plástico que hemos usado durante décadas. Esta guía para principiantes explica todo lo que necesitas saber, desde la definición básica hasta cómo funciona en tu dispositivo, basándose directamente en la documentación oficial de Apple. Sin jerga, sin confusiones. Si buscas las mejores opciones para viajar, consulta nuestra [guía de eSIM de viaje](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/).
 

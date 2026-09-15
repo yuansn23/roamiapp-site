@@ -309,29 +309,3 @@ For more detailed comparisons, see our [provider comparison](/blog/spain-esim-pr
 Add these JSON‑LD scripts to your page's `<head>` to enable rich snippets:
 
 ```html
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Spain eSIM Guide 2026: Best Plans & Network Coverage Explained",
-  "description": "Compare the best Spain eSIM plans for 2026. Movistar, Orange, and Vodafone networks compared with pricing, setup steps, and travel tips.",
-  "author": { "@type": "Organization", "name": "Roami Team" },
-  "datePublished": "2026-08-19",
-  "dateModified": "2026-08-19",
-  "publisher": { "@type": "Organization", "name": "Roami" }
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "What is the best Spain eSIM for tourists?", "acceptedAnswer": {"@type": "Answer", "text": "For most travelers, a multi-network eSIM with access to all four Spanish carriers provides the most reliable coverage. For single-city trips, Airalo is a cheaper option."}},
-    {"@type": "Question", "name": "How much does a Spain eSIM cost?", "acceptedAnswer": {"@type": "Answer", "text": "From USD 4.50 for 1GB to EUR 20 for 50GB. Per-GB costs range from EUR 0.40 to USD 5.00 depending on the provider and data tier."}},
-    {"@type": "Question", "name": "Can I get a Spain eSIM with a phone number?", "acceptedAnswer": {"@type": "Answer", "text": "Yes – Movistar, Orange, Vodafone, and Yoigo prepaid plans include a Spanish +34 number. Most international providers offer data-only plans."}},
-    {"@type": "Question", "name": "Is 5G available on Spain eSIMs?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. All four networks offer 5G covering roughly 92% of the Spanish population with average speeds of 100-200Mbps."}},
-    {"@type": "Question", "name": "What is the difference between Movistar, Orange, and Vodafone eSIMs?", "acceptedAnswer": {"@type": "Answer", "text": "Movistar has the widest rural coverage. Orange leads in urban 5G speed. Vodafone excels on AVE trains. Yoigo offers the lowest prices. Multi-network eSIMs combine all four."}}
-  ]
-}
-</script>

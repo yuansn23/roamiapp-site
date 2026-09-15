@@ -541,31 +541,3 @@ We update this guide regularly (last updated: August 2026). For official plan de
 Add these JSON‑LD scripts to your page's `<head>` to enable rich snippets:
 
 ```html
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Buy Spain eSIM with Phone Number: Get a +34 Number for Calls & SMS 2026",
-  "description": "How to get a Spain eSIM with a Spanish phone number for Renfe, Cabify, and local app verification. Compare Orange Holiday, Vodafone Travel, Movistar Turista, and prepaid carriers.",
-  "author": { "@type": "Organization", "name": "Roami Team" },
-  "datePublished": "2026-08-19",
-  "dateModified": "2026-08-19",
-  "publisher": { "@type": "Organization", "name": "Roami" }
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "Can I get a Spain eSIM with a phone number?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Orange Holiday Europe, Vodafone Travel, and Movistar Turista all include a Spanish +34 number. Direct prepaid plans also include a number but require passport registration in store."}},
-    {"@type": "Question", "name": "Do Airalo, Holafly, or Nomad include a Spanish number?", "acceptedAnswer": {"@type": "Answer", "text": "No. These are data-only eSIMs. You cannot receive SMS or make calls on a Spanish number with them."}},
-    {"@type": "Question", "name": "How much does a Spain eSIM with a phone number cost?", "acceptedAnswer": {"@type": "Answer", "text": "From EUR 20-30 for a 14-15 day tourist eSIM. In-store prepaid plans start lower (~EUR 10) but require passport registration."}},
-    {"@type": "Question", "name": "Which Spain eSIM with a number is best for tourists?", "acceptedAnswer": {"@type": "Answer", "text": "Orange Holiday Europe – 25GB, a Spanish number, 120 minutes of calls, 1,000 SMS, and EU roaming for EUR 29.99. No passport needed."}},
-    {"@type": "Question", "name": "Do I need a passport to get a Spanish number?", "acceptedAnswer": {"@type": "Answer", "text": "For online tourist eSIMs, no. For in-store prepaid plans, yes – Spanish law requires identification."}},
-    {"@type": "Question", "name": "I'm already in Spain and need a number urgently. What's the fastest way?", "acceptedAnswer": {"@type": "Answer", "text": "Buy Orange Holiday or Vodafone Travel online immediately – you'll get the QR code by email and install in 2-5 minutes. No store visit required."}},
-    {"@type": "Question", "name": "Why isn't my SMS verification code arriving?", "acceptedAnswer": {"@type": "Answer", "text": "Wait 2-3 minutes, check your phone's SMS filter settings, ensure your number is fully active, and try manual network selection. See the full troubleshooting section above for details."}}
-  ]
-}
-</script>

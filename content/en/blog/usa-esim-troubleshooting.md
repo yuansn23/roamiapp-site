@@ -1069,33 +1069,6 @@ Even with the best preparation, have a backup:
 2. **Download Uber/Lyft:** These work with eSIM data but setup requires home SIM for SMS verification
 3. **Save your provider's support number:** Make sure you can contact them even without data
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "USA eSIM Not Working? Complete Troubleshooting Guide",
-  "description": "Fix your USA eSIM with step-by-step solutions for activation failures, no signal, slow speeds, and APN issues. Roami offers live support if you get stuck.",
-  "image": "https://www.roamiapp.com/img/esim/usa/usa-esim-troubleshooting.jpg",
-  "datePublished": "2026-08-17",
-  "dateModified": "2026-08-17",
-  "author": {
-    "@type": "Organization",
-    "name": "Roami Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Roami",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.roamiapp.com/img/logo.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.roamiapp.com/blog/usa-esim-troubleshooting/"
-  }
-}
-</script>
 
 *Last updated August 2026.*
 

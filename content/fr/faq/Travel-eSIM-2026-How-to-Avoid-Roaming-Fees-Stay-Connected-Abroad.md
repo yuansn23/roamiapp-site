@@ -525,24 +525,5 @@ Pour un voyageur qui effectue 3-4 voyages internationaux par an, le passage syst
 **Besoin d'un forfait pour votre prochaine destination ?** Consultez nos guides : **[meilleure eSIM USA](/faq/2026-best-esim-options-for-the-usa/)** pour un comparatif complet, **[acheter une eSIM UK](/faq/how-to-buy-a-uk-esim/)** pour le Royaume-Uni, ou notre **[guide d'activation eSIM](/faq/how-to-activate-an-esim/)** pour une procédure pas à pas.
 
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "inLanguage": "fr",
-  "mainEntity": [
-    {"@type": "Question", "name": "Les eSIM de voyage incluent-elles un numéro de téléphone ?", "acceptedAnswer": {"@type": "Answer", "text": "La plupart des eSIM de voyage sont des forfaits données uniquement, sans numéro de téléphone. Utilisez WhatsApp, FaceTime, Zoom ou Skype pour vos appels. Pour un numéro local (long séjour, démarches administratives), achetez une eSIM d'un opérateur local sur place."}},
-    {"@type": "Question", "name": "Puis-je passer et recevoir des appels sur mon numéro français tout en utilisant une eSIM de voyage ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, en activant les appels Wi-Fi (VoWiFi) sur votre ligne française. Les appels transitent par les données mobiles de votre eSIM de voyage, sans frais de roaming. Cette fonctionnalité est disponible chez Orange, SFR, Bouygues et Free."}},
-    {"@type": "Question", "name": "Mon iMessage et FaceTime continueront-ils de fonctionner ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, iMessage et FaceTime sont liés à votre identifiant Apple, indépendamment de la carte SIM utilisée pour les données. Vous continuerez à recevoir tous vos messages normalement, même en utilisant une eSIM de voyage à l'étranger."}},
-    {"@type": "Question", "name": "Combien de données prévoir pour un voyage ?", "acceptedAnswer": {"@type": "Answer", "text": "Usage léger (messagerie, navigation) : 200-300 Mo/jour, soit 1-2 Go par semaine. Usage modéré (réseaux sociaux, streaming audio) : 500-700 Mo/jour, soit 3-5 Go par semaine. Usage intensif (vidéo, visio, hotspot) : 1-2 Go/jour, soit 10 Go+ par semaine."}},
-    {"@type": "Question", "name": "Puis-je utiliser une eSIM de voyage dans plusieurs pays ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, choisissez un forfait régional (Europe, Asie du Sud-Est, Amérique latine) ou mondial. Vérifiez la liste des pays couverts avant l'achat. Attention au Royaume-Uni post-Brexit : certains forfaits Europe ne l'incluent plus."}},
-    {"@type": "Question", "name": "Comment recharger si je dépasse mon quota ?", "acceptedAnswer": {"@type": "Answer", "text": "Tous les fournisseurs permettent la recharge en ligne via leur application ou site web. Les données sont créditées immédiatement, sans nouveau QR code. Vous pouvez aussi acheter un deuxième forfait à l'avance et l'activer quand le premier est épuisé."}},
-    {"@type": "Question", "name": "Puis-je utiliser une eSIM de voyage sur une tablette ou une montre connectée ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, si votre iPad (modèle Wi-Fi + Cellular) ou votre Apple Watch (modèle GPS + Cellular) prend en charge l'eSIM. Vérifiez la compatibilité dans les réglages de chaque appareil avant d'acheter un forfait eSIM de voyage."}},
-    {"@type": "Question", "name": "Existe-t-il des eSIM gratuites pour les voyageurs ?", "acceptedAnswer": {"@type": "Answer", "text": "Certains fournisseurs proposent des eSIM gratuites d'essai avec 100 à 500 Mo de données. C'est idéal pour tester la qualité du réseau avant d'acheter un forfait payant. Méfiez-vous des offres exigeant une carte bancaire avec renouvellement automatique."}},
-    {"@type": "Question", "name": "Est-ce qu'une eSIM de voyage fonctionne avec la 5G ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, si le forfait mentionne explicitement la 5G. Les forfaits 5G utilisent les réseaux locaux lorsqu'ils sont disponibles. Sans mention, le forfait est probablement limité à la 4G LTE, ce qui reste largement suffisant pour la plupart des usages en voyage."}},
-    {"@type": "Question", "name": "Comment trouver la meilleure eSIM pour ma destination ?", "acceptedAnswer": {"@type": "Answer", "text": "Comparez le prix au gigaoctet, la présence de la 5G et l'autorisation du partage de connexion. Utilisez un comparateur en ligne si vous hésitez. Le meilleur eSIM varie selon la destination — les réseaux partenaires diffèrent d'un pays à l'autre."}}
-  ]
-}
-</script>
 
 *Basé sur la documentation officielle d'Apple (iOS 19), les standards GSMA SGP.22, et les informations des opérateurs français (Orange, SFR, Bouygues, Free). Dernière révision : août 2026.*

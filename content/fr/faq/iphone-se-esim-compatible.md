@@ -414,24 +414,5 @@ Oui, totalement. Le module eUICC est identique quel que soit le pays d'achat. L'
 
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "inLanguage": "fr",
-  "mainEntity": [
-    {"@type": "Question", "name": "L'iPhone SE 2020 prend-il en charge l'eSIM ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, totalement compatible. L'iPhone SE 2e génération (2020) prend en charge l'eSIM exactement comme l'iPhone 11."}},
-    {"@type": "Question", "name": "L'iPhone SE 2022 prend-il en charge l'eSIM ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, totalement compatible. L'iPhone SE 3e génération (2022) prend en charge l'eSIM et la 5G."}},
-    {"@type": "Question", "name": "L'iPhone SE 2016 est-il compatible eSIM ?", "acceptedAnswer": {"@type": "Answer", "text": "Non. L'iPhone SE 1re génération (2016) n'a pas de matériel eSIM. Seuls les SE 2020 et 2022 supportent l'eSIM."}},
-    {"@type": "Question", "name": "Combien de profils eSIM puis-je stocker sur l'iPhone SE ?", "acceptedAnswer": {"@type": "Answer", "text": "Jusqu'à 8 profils eSIM ou plus, selon la version d'iOS. Deux lignes actives simultanément (une eSIM + une SIM physique)."}},
-    {"@type": "Question", "name": "Puis-je utiliser l'iPhone SE avec deux opérateurs en même temps ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. L'iPhone SE (2020/2022) supporte la double SIM avec nano-SIM physique + eSIM. Idéal pour numéro personnel et forfait voyage."}},
-    {"@type": "Question", "name": "L'iPhone SE 2022 eSIM 5G est-il compatible avec les opérateurs français ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. Orange, SFR, Bouygues et Free proposent tous l'eSIM pour l'iPhone SE. Vérifiez que votre forfait est éligible dans votre espace client."}},
-    {"@type": "Question", "name": "L'iPhone SE 2020 est-il encore un bon achat en 2026 pour l'eSIM ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, pour un budget serré (120-180 € en reconditionné). eSIM 100 % fonctionnelle, iOS 19 supporté. Limites : pas de 5G, pas de double eSIM actif."}},
-    {"@type": "Question", "name": "Comment fonctionne l'eSIM sur l'iPhone SE par rapport à une SIM classique ?", "acceptedAnswer": {"@type": "Answer", "text": "L'eSIM utilise la puce eUICC intégrée conforme au standard GSMA SGP.22. Configuration via Réglages > Données cellulaires > Ajouter eSIM. Mêmes fonctionnalités qu'une SIM physique."}},
-    {"@type": "Question", "name": "Quelle est l'autonomie de l'iPhone SE avec l'eSIM activée ?", "acceptedAnswer": {"@type": "Answer", "text": "L'eSIM seule ne consomme pas plus qu'une SIM physique (< 1 %). Avec deux lignes actives, la consommation augmente de 5-10 %."}},
-    {"@type": "Question", "name": "Puis-je avoir une eSIM Orange et une eSIM Free sur le même iPhone SE ?", "acceptedAnswer": {"@type": "Answer", "text": "Non, une seule eSIM active à la fois sur iPhone SE. Solution : une eSIM + une SIM physique, ou passez à un iPhone 13+ pour la double eSIM active."}}
-  ]
-}
-</script>
 
 *Basé sur la documentation officielle d'Apple, les standards GSMA et les informations des opérateurs. Mis à jour : juin 2026.*

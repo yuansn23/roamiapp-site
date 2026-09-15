@@ -861,33 +861,6 @@ Buy it 1-2 days before your trip. Installation takes 5 minutes and you can set i
 ### Will my eSIM work immediately when I land?
 Most activate within 1-2 minutes of turning on data roaming. If it doesn't work, toggle airplane mode or restart your phone. Manual network selection (Settings → Carrier → Manual) usually resolves connection issues.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Best eSIM for USA Travel: Top Providers Compared",
-  "description": "Going to the US? A comparison of 10 USA eSIM providers to help you pick the right one for your trip. Roami offers auto network switching and live support.",
-  "image": "https://www.roamiapp.com/img/esim/usa/usa-esim-ranking-comparison-2026.jpg",
-  "datePublished": "2026-08-17",
-  "dateModified": "2026-08-17",
-  "author": {
-    "@type": "Organization",
-    "name": "Roami Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Roami",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.roamiapp.com/img/logo.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.roamiapp.com/blog/usa-esim-ranking-comparison-2026/"
-  }
-}
-</script>
 
 *Last updated August 2026.*
 

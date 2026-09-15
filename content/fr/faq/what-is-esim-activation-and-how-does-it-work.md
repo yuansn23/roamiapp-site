@@ -478,24 +478,5 @@ La technologie eSIM a transformé la façon de se connecter aux réseaux mobiles
 Pour aller plus loin : **[Qu'est-ce qu'une eSIM ?](/faq/what-is-esim/)** pour comprendre la technologie, **[activer une eSIM](/faq/how-to-activate-an-esim/)** pour un guide pas à pas, ou **[dépannage eSIM](/faq/esim-deep-troubleshooting-guide-2026/)** si vous rencontrez des difficultés.
 
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "inLanguage": "fr",
-  "mainEntity": [
-    {"@type": "Question", "name": "Puis-je utiliser ma SIM physique et une eSIM simultanément ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. La plupart des smartphones modernes supportent la double SIM (Dual SIM Dual Standby). Vous gardez votre ligne française active pour les appels/SMS, et utilisez l'eSIM pour les données. Les deux lignes sont actives en veille."}},
-    {"@type": "Question", "name": "L'activation d'une eSIM vide-t-elle la batterie plus vite ?", "acceptedAnswer": {"@type": "Answer", "text": "Non, la différence est inférieure à 1 % par rapport à une SIM physique. En revanche, la double SIM active peut augmenter la consommation de 5-10 % car le téléphone maintient deux connexions réseau simultanément."}},
-    {"@type": "Question", "name": "Combien de temps prend l'activation ?", "acceptedAnswer": {"@type": "Answer", "text": "Le téléchargement et l'installation prennent moins de 2 minutes. La première connexion au réseau local peut prendre 5 à 10 minutes selon la force du signal et l'opérateur partenaire."}},
-    {"@type": "Question", "name": "Combien de profils eSIM puis-je stocker ?", "acceptedAnswer": {"@type": "Answer", "text": "L'iPhone peut stocker 8 profils ou plus. Les Android récents (Samsung, Pixel) peuvent stocker 5 à 10 profils. Un seul profil peut être actif à la fois, sauf modèles double eSIM actif comme l'iPhone 13 et plus récents."}},
-    {"@type": "Question", "name": "Puis-je transférer mon eSIM d'un téléphone à l'autre ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. Sur iPhone, utilisez le transfert rapide (iOS 16+). Pour le transfert iPhone vers Android, utilisez les méthodes de transfert multiplateforme standardisées disponibles depuis iOS 26 et Android 16."}},
-    {"@type": "Question", "name": "Que faire si mon téléphone affiche « EID introuvable » ?", "acceptedAnswer": {"@type": "Answer", "text": "Votre téléphone n'est pas compatible eSIM. Cela concerne les modèles très anciens, certains modèles chinois, ou les téléphones à double SIM physique uniquement. La seule solution est de passer à un modèle compatible."}},
-    {"@type": "Question", "name": "Puis-je activer une eSIM Orange sur un iPhone acheté aux États-Unis ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. Les eSIM sont internationales — le module eUICC est identique quel que soit le pays d'achat. La seule condition est que l'iPhone soit déverrouillé."}},
-    {"@type": "Question", "name": "L'eSIM de voyage doit-elle être activée avant le départ ?", "acceptedAnswer": {"@type": "Answer", "text": "L'installation (scan du QR code) doit être faite avant le départ, chez vous en Wi-Fi. L'activation effective se fait automatiquement à l'arrivée si vous avez activé l'itinérance des données."}},
-    {"@type": "Question", "name": "Quelle est la différence entre l'EID et l'IMEI ?", "acceptedAnswer": {"@type": "Answer", "text": "L'IMEI identifie le téléphone lui-même. L'EID identifie spécifiquement la puce eUICC qui gère les profils eSIM. Si *#06# affiche à la fois des IMEI et un EID, votre téléphone est compatible eSIM."}},
-    {"@type": "Question", "name": "Est-ce que « carte eSIM » est un terme correct ?", "acceptedAnswer": {"@type": "Answer", "text": "Techniquement, il n'existe pas de « carte » physique. L'eSIM est une puce électronique soudée (puce eUICC) sur la carte mère. Le terme « carte eSIM » est un abus de langage pratique hérité de « carte SIM »."}}
-  ]
-}
-</script>
 
 *Basé sur la documentation officielle d'Apple, Google, la spécification GSMA SGP.22 et les informations des opérateurs français (Orange, SFR, Bouygues, Free). Dernière révision : août 2026.*

@@ -455,35 +455,3 @@ For official device compatibility, check [Apple Support](https://support.apple.c
 ## Schema Markup
 
 ```html
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Spain eSIM for Business Travel & Digital Nomads 2026",
-  "description": "Find the best Spain eSIM for business trips and remote work. Reliable data for video calls, meetings, multi-device setups, and AVE train travel.",
-  "author": {
-    "@type": "Organization",
-    "name": "Roami Team"
-  },
-  "datePublished": "2026-08-19",
-  "dateModified": "2026-08-19",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Roami"
-  }
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "What is the best Spain eSIM for business travel?", "acceptedAnswer": {"@type": "Answer", "text": "Multi-network eSIMs with automatic carrier switching offer the most reliable option for professionals. Roami provides auto-switching across Movistar, Orange, Vodafone, and Yoigo networks."}},
-    {"@type": "Question", "name": "How much data do I need for remote work in Spain?", "acceptedAnswer": {"@type": "Answer", "text": "For moderate professional use with 2-3 hours of video calls daily, plan for 5-8 GB per day or 120-160 GB per month. Always add a 20-30% buffer."}},
-    {"@type": "Question", "name": "Can I use a Spain eSIM for hotspot tethering to my laptop?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, most Spain eSIMs support hotspot tethering. USB tethering is more power-efficient and stable than Wi-Fi hotspot for all-day laptop work."}},
-    {"@type": "Question", "name": "Does my Spain eSIM work on AVE trains?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, but with limitations. Movistar has the best AVE coverage. Video calls on AVE trains are unreliable regardless of carrier due to speed-induced jitter."}},
-    {"@type": "Question", "name": "Is a Spanish phone number necessary for business?", "acceptedAnswer": {"@type": "Answer", "text": "For short trips, data-only eSIMs are sufficient. For extended stays and digital nomad visa holders, a Spanish number is practically required for banking, padron registration, and verification codes."}}
-  ]
-}
-</script>

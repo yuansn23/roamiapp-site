@@ -303,33 +303,3 @@ We update this guide regularly (last updated: August 2026) to reflect the latest
 Add this JSON‑LD to your page’s `<head>` to enable rich snippets:
 
 ```html
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Spain Travel eSIM 2026: Best Beach Holiday Plans for Costa del Sol, Canary & Balearic Islands",
-  "description": "Compare the best Spain travel eSIM for beach holidays with coverage guides, data plans, and auto network switching.",
-  "author": {
-    "@type": "Organization",
-    "name": "Roami Team"
-  },
-  "datePublished": "2026-08-19",
-  "dateModified": "2026-08-19",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Roami"
-  }
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "What is the best Spain eSIM for beach holidays?", "acceptedAnswer": {"@type": "Answer", "text": "The best is a multi-network eSIM with auto-switching across Movistar, Orange, Vodafone, and Yoigo. Roami is our top recommendation."}},
-    {"@type": "Question", "name": "Does Spain eSIM work in the Canary Islands?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, Movistar and Orange have the widest coverage. 5G is available in resort areas on Tenerife, Gran Canaria, Lanzarote, and Fuerteventura."}},
-    {"@type": "Question", "name": "How much data do I need for a week at the beach?", "acceptedAnswer": {"@type": "Answer", "text": "Light users: 10-15 GB; moderate: 20-30 GB; heavy: 30-50 GB. Double if sharing via hotspot."}}
-  ]
-}
-</script>

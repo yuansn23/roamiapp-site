@@ -801,54 +801,6 @@ Toggle Airplane Mode on, wait 10 seconds, then turn it off. This forces your pho
 **Does Roami offer support if I can't fix my eSIM myself?**
 Yes. Roami provides live customer support for all UK eSIM customers. Contact support through the website or app with your order number, and the team will check your activation status, reissue QR codes if needed, and walk you through device-specific troubleshooting.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why does my UK eSIM show \"No Service\" after I land?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In most cases, data roaming isn't turned on for your eSIM line. Go to Settings > Mobile Data, select your UK eSIM, and toggle Data Roaming ON. Your phone treats UK networks as a roaming destination, so this setting must be enabled regardless of having a local plan."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I use my England eSIM in Scotland and Wales too?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. An England eSIM, Great Britain eSIM, and UK eSIM all mean the same thing — they work across England, Scotland, Wales, and Northern Ireland. Roami's eSIM automatically switches between all four nations' major networks no matter where you are."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What if my UK eSIM QR code won't scan?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use the manual entry method instead. Your provider should have sent an SM-DP+ address and activation code alongside the QR code. On iPhone, go to Settings > Mobile Data > Add eSIM > Enter Details Manually. This bypasses the camera entirely and almost always works when scanning fails."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I fix a UK eSIM that's stuck on \"Activating\"?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Toggle Airplane Mode on, wait 10 seconds, then turn it off. This forces your phone to re-attempt network registration. If it's still stuck after 15 minutes, delete and reinstall the eSIM profile — most activation issues resolve within a few minutes with a fresh install."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does Roami offer support if I can't fix my eSIM myself?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Roami provides live customer support for all UK eSIM customers. Contact support through the website or app with your order number, and the team will check your activation status, reissue QR codes if needed, and walk you through device-specific troubleshooting."
-      }
-    }
-  ]
-}
-</script>
 
 For a complete UK eSIM overview, see the [UK eSIM overview](/blog/uk-esim-complete-guide/).
 

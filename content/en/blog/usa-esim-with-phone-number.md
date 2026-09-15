@@ -802,33 +802,6 @@ If your phone supports dual eSIM (iPhone XS and newer, most Android flagships fr
 
 [USA eSIM plans](/united-states-esim/) offers data-only plans with automatic network switching. For travelers who want to test a USA eSIM without committing to a phone number plan, a [free eSIM option](/free-esim/) is available. Code **WEB20** takes 20% off any plan.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "USA eSIM with Phone Number: Best Plans for Calls",
-  "description": "Need a US phone number with your eSIM? Plans that include calls, SMS, and OTP verification compared. Roami offers auto network switching and live support.",
-  "image": "https://www.roamiapp.com/img/esim/usa/usa-esim-with-phone-number.jpg",
-  "datePublished": "2026-08-17",
-  "dateModified": "2026-08-17",
-  "author": {
-    "@type": "Organization",
-    "name": "Roami Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Roami",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.roamiapp.com/img/logo.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.roamiapp.com/blog/usa-esim-with-phone-number/"
-  }
-}
-</script>
 
 *Last updated August 2026.*
 

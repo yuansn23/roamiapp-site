@@ -645,33 +645,6 @@ For a detailed breakdown of AT&T, T-Mobile, and Verizon prepaid eSIM options, in
 
 For travelers who need reliable connectivity across different trip types, [get a USA eSIM](/united-states-esim/) offers automatic network switching so you don't have to manually change carrier settings between regions. A [free eSIM deal](/free-esim/) lets you test the setup before committing. Code **WEB20** takes 20% off any plan.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "USA eSIM for Families, Backpackers and Special Trips",
-  "description": "Find the right USA eSIM for family vacations, backpacking, theme parks, cruises, and ski trips. Roami offers auto network switching for hassle-free travel.",
-  "image": "https://www.roamiapp.com/img/esim/usa/usa-esim-family-special-trips.jpg",
-  "datePublished": "2026-08-17",
-  "dateModified": "2026-08-17",
-  "author": {
-    "@type": "Organization",
-    "name": "Roami Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Roami",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.roamiapp.com/img/logo.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.roamiapp.com/blog/usa-esim-family-special-trips/"
-  }
-}
-</script>
 
 *Last updated August 2026.*
 

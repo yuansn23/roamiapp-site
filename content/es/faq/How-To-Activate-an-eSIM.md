@@ -98,19 +98,6 @@ sidebar_questions:
       url: "/compatibility/"
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "¿Hay alguna tarifa por activar una eSIM?", "acceptedAnswer": {"@type": "Answer", "text": "No, los operadores no cobran una tarifa de activación por instalar un perfil eSIM. Solo pagas por el plan de datos que compraste."}},
-    {"@type": "Question", "name": "¿Puedo activar mi eSIM antes de viajar?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, y es muy recomendable. Instala la eSIM en casa con Wi-Fi fiable. El plan de datos permanecerá inactivo hasta que aterrices y te conectes a la red local."}},
-    {"@type": "Question", "name": "¿Cuánto tiempo tarda la activación de la eSIM?", "acceptedAnswer": {"@type": "Answer", "text": "Normalmente menos de 2 minutos. La primera conexión a la red local puede tardar hasta 10-15 minutos dependiendo de la intensidad de la señal."}},
-    {"@type": "Question", "name": "¿Puedo usar mi SIM física y mi eSIM al mismo tiempo?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, la mayoría de los smartphones modernos admiten Doble SIM Doble Espera (DSDS). Puedes mantener tu SIM física para llamadas y usar la eSIM para datos."}},
-    {"@type": "Question", "name": "¿Puedo activar una eSIM sin un código QR?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, a través de la aplicación del operador (método push) o introduciendo manualmente la dirección SM-DP+ y el código de activación. Ambos métodos evitan el código QR."}}
-  ]
-}
-</script>
 
 **Resumen ejecutivo:**
 Para activar una eSIM, necesitas un teléfono liberado (sin bloqueo de operador), una conexión Wi‑Fi estable y un código QR de eSIM de tu proveedor. Navega a los ajustes de red de tu teléfono, selecciona "Añadir eSIM" o "Añadir plan de datos", escanea el código QR y espera 1‑2 minutos mientras el perfil digital se descarga e instala.

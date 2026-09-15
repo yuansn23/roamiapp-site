@@ -818,33 +818,6 @@ For travelers with non-US credit cards, PayPal is the most reliable payment meth
 
 [USA travel eSIM](/united-states-esim/) offers competitive pricing across all data tiers with automatic network switching. A [free eSIM plan](/free-esim/) lets you test the setup process before committing. Code **WEB20** takes 20% off any plan.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "USA eSIM Price Guide: Complete Plan Cost Comparison",
-  "description": "How much does a USA eSIM cost? Every provider's pricing compared with per-GB breakdowns. Roami offers competitive USA eSIM plans with auto switching.",
-  "image": "https://www.roamiapp.com/img/esim/usa/usa-esim-price-guide.jpg",
-  "datePublished": "2026-08-17",
-  "dateModified": "2026-08-17",
-  "author": {
-    "@type": "Organization",
-    "name": "Roami Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Roami",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.roamiapp.com/img/logo.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.roamiapp.com/blog/usa-esim-price-guide/"
-  }
-}
-</script>
 
 *Prices change — verify current rates on each provider's official website before purchasing. Last updated August 2026.*
 

@@ -1,0 +1,598 @@
+# 通用按钮与标签
+[download_on_the]
+other = "הורד ב-"
+
+[app_store]
+other = "App Store"
+
+[get_it_on]
+other = "קבל ב-"
+
+[google_play]
+other = "Google Play"
+
+[visit_our]
+other = "בקר ב-"
+
+[official_website]
+other = "אתר רשמי"
+
+[view_plans]
+other = "צפה בתוכניות"
+
+[web]
+other = "אינטרנט"
+
+[android]
+other = "Android"
+
+[404_page_not_found]
+other = "404 – הדף לא נמצא"
+
+[404_message]
+other = "לא הצלחנו למצוא את הדף שחיפשת. ייתכן שהוא הועבר או שאינו קיים עוד. אל דאגה — בואו נחזיר אותך למסע הנסיעות שלך."
+
+[404_back_home]
+other = "קח אותי הביתה"
+
+[404_promo_title]
+other = "הצעה בלעדית עבורך"
+
+[404_promo_desc]
+other = "20% הנחה על רכישת ה-eSIM הראשונה שלך"
+
+[404_promo_code]
+other = "web20"
+
+[404_promo_cta]
+other = "ממש את ההנחה"
+
+[404_promo_note]
+other = "לא נדרשת הרשמה. תקף למשתמשים חדשים."
+
+# 弹窗相关
+[friendly_reminder]
+other = "השירות עודכן"
+
+[modal_upgrade_desc]
+other = "השירותים שלנו שודרגו. קבל את קוד הפרומו: web20 באתר הרשמי או באפליקציה."
+
+[cancel]
+other = "ביטול"
+
+[proceed]
+other = "המשך"
+
+# 悬浮按钮文本
+[get_esim_discount]
+other = "קבל 20% הנחה על eSIM"
+
+# FAQ 标题和描述
+[faq_title]
+other = "שאלות נפוצות"
+
+[faq_desc]
+other = "כל מה שצריך לדעת על שירות ה-eSIM הגלובלי שלנו."
+
+# 以下是您原有但可能未使用的，保留不影响（可选）
+[modal_title_ios]
+other = "השירות עודכן"
+
+[modal_text_ios]
+other = "תופנה לאפליקציה הרשמית כדי לקבל את קוד ההנחה."
+
+[tldr_summary_title]
+other = "סיכום מהיר למטיילים"
+
+[modal_cancel]
+other = "ביטול"
+
+[modal_continue]
+other = "המשך"
+
+[global_connectivity_expert]
+other = "מומחה קישוריות גלובלית"
+
+[structured_data_org_description]
+other = "ספק שירותי eSIM גלובליים מקצועיים המציע נדידת נתונים מהירה ב-200 מדינות."
+
+[structured_data_product_description]
+other = "תוכניות eSIM לנסיעות בתשלום מראש ל-200+ מדינות עם הפעלה מיידית ואינטרנט מהיר 5G/4G."
+
+[structured_data_faq1_question]
+other = "איך קונים eSIM לארה״ב?"
+
+[structured_data_faq1_answer]
+other = "כדי לקנות eSIM לארה״ב, פשוט הורד את אפליקציית Roami, בחר את ארצות הברית כיעד, בחר תוכנית נתונים שמתאימה לך והשלם. ההפעלה מיידית."
+
+[structured_data_faq2_question]
+other = "איך קונים eSIM ליפן באינטרנט?"
+
+[structured_data_faq2_answer]
+other = "קניית eSIM ליפן קלה עם Roami. חפש יפן באפליקציה שלנו, בחר את חבילת הנתונים 5G/4G המועדפת עליך, והתקן באמצעות קוד QR או הפעלה בלחיצה אחת לפני הנסיעה."
+
+[structured_data_faq3_question]
+other = "איך משיגים eSIM לאירופה, בריטניה או צרפת?"
+
+[structured_data_faq3_answer]
+other = "Roami מציעה eSIM אזוריות לאירופה וגם תוכניות מקומיות לבריטניה, צרפת, איטליה, גרמניה וספרד. פשוט בחר את היעד באפליקציה כדי להתחבר מיידית ללא דמי נדידה."
+
+[structured_data_faq4_question]
+other = "למה לבחור ב-Roami על פני Airalo, Nomad, Holafly או Ubigi?"
+
+[structured_data_faq4_answer]
+other = "בעוד Airalo, Nomad eSIM, Holafly, Saily eSIM, Yesim, MobiMatter ו-GigSky הן אפשרויות, Roami מציעה תמחור תחרותי במיוחד החל מ-$1.99, תמיכה אנושית 24/7 ומדיניות החזר ללא דאגות ל-200+ מדינות."
+
+[software_description]
+other = "ספק eSIM גלובלי לקישוריות נסיעות מהירה."
+
+[last_updated]
+other = "עודכן לאחרונה"
+
+[select_language]
+other = "בחר שפה"
+
+[language]
+other = "שפה"
+
+[close]
+other = "סגור"
+
+[fifa_title_line1]
+other = "קישוריות חלקה"
+
+[fifa_title_line2]
+other = "מונדיאל 2026 FIFA™"
+
+[fifa_desc]
+other = "eSIM נסיעות גלובלי שמעצים את המסע שלך בכל הערים המארחות. הישאר מחובר, שתף כל רגע."
+
+[fifa_guide_text]
+other = "✈️ נוסעים בלי גבולות — קבל את ה-eSIM שלך עכשיו"
+
+[fifa_card1_title]
+other = "ללא נדידה"
+
+[fifa_card1_desc]
+other = "שלם תעריפים מקומיים"
+
+[fifa_card2_title]
+other = "SIM אחד, 3 מדינות"
+
+[fifa_card2_desc]
+other = "ארה״ב · קנדה · מקסיקו"
+
+[fifa_card3_title]
+other = "הפעלה מיידית"
+
+[fifa_card3_desc]
+other = "מוכן לפני הטיסה"
+
+[fifa_country_canada]
+other = "🇨🇦 קנדה"
+
+[fifa_country_mexico]
+other = "🇲🇽 מקסיקו"
+
+[fifa_country_usa]
+other = "🇺🇸 ארה״ב"
+
+[fifa_5g]
+other = "⚡ מוכן ל-5G"
+
+[fifa_button]
+other = "קבל eSIM למונדיאל"
+
+
+[premium_coverage]
+other = "כיסוי פרימיום"
+
+[regional_plans_title]
+other = "תוכניות אזוריות וגלובליות"
+
+[regional_subtitle]
+other = "טיילו במספר מדינות עם eSIM אחד — בלי החלפת SIM, הפעלה מיידית, וחסכו 30% בהשוואה לנדידה."
+
+[faq_title2]
+other = "שאלות נפוצות על תאימות eSIM"
+ 
+[breadcrumb_home]
+other = "בית"
+
+[breadcrumb_blog]
+other = "בלוג"
+
+[breadcrumb_separator]
+other = "/"
+
+[minutes_read]
+other = "דקות קריאה"
+
+[table_of_contents]
+other = "📑 תוכן עניינים"
+
+[you_might_also_like]
+other = "🔗 אולי יעניין אותך גם"
+
+[popular_destinations]
+other = "יעדי eSIM פופולריים"
+
+[promo_limited_offer]
+other = "🔥 הצעה מוגבלת 🔥"
+
+[promo_use_code]
+other = "השתמש בקוד"
+
+[promo_checkout]
+other = "⭐ הזן את הקוד בקופה כדי לממש את ההנחה ⭐"
+
+[promo_stats_text]
+other = "הצטרפו ל-1M+ מטיילים שעברו ל-Roami. 5G ב-{{ .Countries }} מדינות. תוכניות מ-${{ .Price }}. הפעלה מיידית."
+
+[region_country_title]
+other = "eSIM של {{ .RegionName }} פועל ב-{{ .TotalCountries }} מדינות"
+
+[coverage_stats_text]
+other = """
+eSIM אחד מתחבר אוטומטית לרשת המקומית החזקה ביותר בכל מדינה.
+<strong class="text-orange-600">ל-{{ .FiveGCount }} מדינות יש 5G</strong>,
+ל-{{ .FourGCount }} יש 4G/LTE אמין.
+הקש על כל מדינה לקבלת מדריכי התקנה ופרטי מפעילים.
+"""
+
+[powered_by_operators]
+other = "מופעל על ידי מפעילי הסלולר הגדולים ב-{{ .RegionName }}"
+
+[auto_switch_carriers]
+other = """
+ה-eSIM של Roami עובר אוטומטית בין <strong class="text-orange-600">{{ .CarrierCount }}+ מפעילים</strong> לקבלת האות הטוב ביותר.
+"""
+
+[network_partners_label]
+other = "שותפי רשת"
+
+[premium_carrier_partners_title]
+other = "{{ .Count }}+ שותפי סלולר פרימיום"
+
+[network_partners_description]
+other = "ה-eSIM של Roami מתחבר אוטומטית לרשתות המקומיות הטובות ביותר. אין צורך במעבר ידני."
+
+[esim_auto_connect]
+other = "אחד מהמפעילים הגדולים ב-{{ .HQ }}. ה-eSIM שלך מתחבר אוטומטית{{ .CountriesSuffix }}."
+
+[carrier_roaming_title]
+other = "נדידת המפעיל שלך"
+
+[carrier_roaming_badge]
+other = "עמלות נסתרות"
+
+[carrier_roaming_estimate]
+other = "הערכה לטיול של שבועיים"
+
+[roami_title]
+other = "eSIM של Roami {{ .RegionName }}"
+
+[roami_badge]
+other = "הערך הטוב ביותר"
+
+[roami_price_label]
+other = "החל מ-$1.99"
+
+[roami_plan_description]
+other = "תוכניות בתשלום מראש החל מ-$5 לטיול מלא"
+
+[esim_vs_carrier_roaming]
+other = "eSIM של {{ .RegionName }} לעומת נדידת מפעיל"
+
+[heading_beyond_region]
+other = "ממשיכים מעבר ל-{{ .RegionName }}?"
+
+[try_free_button]
+other = "נסה eSIM בחינם"
+
+[regionQuestionsTitle]
+other = "eSIM של {{ .RegionName }}: שאלות שמטיילים שואלים"
+
+[stats]
+countries = "מדינות"
+carriers = "מפעילים"
+coverage_5g = "כיסוי 5G"
+
+[home]
+other = "בית"
+
+[carriers]
+other = "מפעילי eSIM"
+
+[banner_official]
+other = "רשמי"
+
+[banner_discount_desc]
+other = "20% הנחה על נתונים גלובליים"
+
+
+[banner_rating]
+other = "4.8 (2.1 אלף ביקורות)"
+
+[banner_cta]
+other = "קבל עכשיו"
+
+[discount_title]
+other = "הצעה לזמן מוגבל"
+
+[discount_code_label]
+other = "קוד פרומו"
+
+[discount_new_user]
+other = "20% הנחה למשתמשים חדשים"
+
+[discount_today]
+other = "מומשו היום"
+
+[discount_today_num]
+other = "500 - 1000"
+
+[discount_remaining]
+other = "נותרו"
+
+[discount_remaining_num]
+other = "5 - 10"
+
+[discount_cancel]
+other = "ביטול"
+
+[discount_claim]
+other = "ממש עכשיו"
+
+[vp_5g_badge]
+other = "5G"
+
+[vp_same]
+other = "אותו דבר"
+
+[vp_network]
+other = "רשת 5G"
+
+[vp_compare]
+other = ", עד"
+
+[vp_cheaper]
+other = "זול יותר מ-eSIM אחרים"
+
+[vp_percent]
+other = "30%"
+
+[vp_save_tag]
+other = "🔥 חסוך יותר"
+
+[compare_title]
+other = "השוואת eSIM חינם: Roami מול Airalo מול Holafly – מי מציע את הניסיון החינם הטוב ביותר?"
+
+[compare_subtitle]
+other = "השוואה הוגנת — ראו למה מטיילים בוחרים ב-Roami לניסיון eSIM החינם שלהם"
+
+[compare_col_feature]
+other = "תכונה"
+
+[compare_col_roami]
+other = "Roami"
+
+[compare_col_airalo]
+other = "Airalo"
+
+[compare_col_holafly]
+other = "Holafly"
+
+[compare_row_trial]
+other = "ניסיון חינם"
+
+[compare_roami_trial]
+other = "✅ 100MB"
+
+[compare_airalo_trial]
+other = "❌"
+
+[compare_holafly_trial]
+other = "❌"
+
+[compare_row_card]
+other = "נדרש כרטיס אשראי"
+
+[compare_roami_card]
+other = "✅ לא"
+
+[compare_airalo_card]
+other = "כן"
+
+[compare_holafly_card]
+other = "כן"
+
+[compare_row_coverage]
+other = "כיסוי"
+
+[compare_roami_coverage]
+other = "200+ מדינות"
+
+[compare_airalo_coverage]
+other = "200+ מדינות"
+
+[compare_holafly_coverage]
+other = "200+ מדינות"
+
+[compare_row_paid]
+other = "תוכניות בתשלום החל מ-"
+
+[compare_roami_paid]
+other = "$1.99"
+
+[compare_airalo_paid]
+other = "$4.50"
+
+[compare_holafly_paid]
+other = "$5.90"
+
+[compare_row_support]
+other = "תמיכה חיה"
+
+[compare_roami_support]
+other = "✅ 24/7"
+
+[compare_airalo_support]
+other = "—"
+
+[compare_holafly_support]
+other = "✅ 24/7"
+
+[brand_reminder]
+other = "מותג ה-eSIM שלנו הוא roami, לא roamic. אנא שימו לב."
+
+
+[roami_free_section_title]
+other = "ניסיון חינם של Roami"
+
+[roami_free_section_heading]
+other = "ניסיון eSIM חינם – 7 ימים / 100MB, ללא כרטיס אשראי"
+
+[roami_free_section_desc]
+other = "חבילת נתונים קלה לשימוש למקרי חירום, שתוכננה למטיילים. הפעל עם ההגעה, <strong>ללא צורך בפרטי תשלום</strong>, וללא מלכודות חידוש נסתרות."
+
+ 
+[roami_compare_col_feature]
+other = "תכונה"
+
+[roami_compare_col_roami]
+other = "Roami"
+
+[roami_compare_col_att]
+other = "AT&T"
+
+[roami_compare_col_tmobile]
+other = "T‑Mobile"
+
+[roami_compare_col_verizon]
+other = "Verizon"
+
+ 
+[roami_compare_row_trial]
+other = "ניסיון חינם"
+
+[roami_compare_row_card]
+other = "נדרש כרטיס אשראי"
+
+[roami_compare_row_auto]
+other = "חידוש אוטומטי"
+
+[roami_compare_row_coverage]
+other = "מדינות כיסוי"
+
+[roami_compare_row_support]
+other = "תמיכה 24/7"
+
+ 
+[roami_compare_roami_trial]
+other = "7 ימים / 100MB"
+
+[roami_compare_roami_card]
+other = "❌ לא נדרש"
+
+[roami_compare_roami_auto]
+other = "❌ אין"
+
+[roami_compare_roami_coverage]
+other = "200+"
+
+[roami_compare_roami_support]
+other = "✅ תמיכה מקוונת"
+
+ 
+[roami_compare_att_trial]
+other = "דורש כרטיס אשראי"
+
+[roami_compare_att_card]
+other = "✅ חייב לספק"
+
+[roami_compare_att_auto]
+other = "✅ חיוב אוטומטי לאחר הניסיון"
+
+[roami_compare_att_coverage]
+other = "מוגבל (ארה״ב בלבד)"
+
+[roami_compare_att_support]
+other = "❌ מוגבל"
+
+ 
+[roami_compare_tmobile_trial]
+other = "דורש כרטיס אשראי"
+
+[roami_compare_tmobile_card]
+other = "✅ חייב לספק"
+
+[roami_compare_tmobile_auto]
+other = "✅ חיוב אוטומטי לאחר הניסיון"
+
+[roami_compare_tmobile_coverage]
+other = "מוגבל (ארה״ב בלבד)"
+
+[roami_compare_tmobile_support]
+other = "❌ מוגבל"
+
+ 
+[roami_compare_verizon_trial]
+other = "דורש כרטיס אשראי"
+
+[roami_compare_verizon_card]
+other = "✅ חייב לספק"
+
+[roami_compare_verizon_auto]
+other = "✅ חיוב אוטומטי לאחר הניסיון"
+
+[roami_compare_verizon_coverage]
+other = "מוגבל (ארה״ב בלבד)"
+
+[roami_compare_verizon_support]
+other = "❌ מוגבל"
+
+[esim_free_trial]
+other = "ניסיון eSIM חינם"
+
+# ===== 3步指南 =====
+[steps_title]
+other = "איך משיגים eSIM חינם ב-3 שלבים פשוטים"
+
+[steps_desc]
+other = "ללא כרטיס אשראי, ללא התחייבות – רק קוד QR של eSIM חינם כדי להתחיל לבדוק מיידית."
+
+[step1_title]
+other = "בחר את המדינה שלך"
+
+[step1_desc]
+other = "בחר את היעד מהרשימה למטה – אנו מציעים ניסיונות eSIM חינם ל-200+ מדינות."
+
+[step2_title]
+other = "ממש את הניסיון החינם"
+
+[step2_desc]
+other = "לחץ על \"ממש ניסיון חינם\" – אין צורך בכרטיס אשראי. נשלח לך מיידית קוד QR של eSIM חינם."
+
+[step3_title]
+other = "סרוק והתחבר"
+
+[step3_desc]
+other = "סרוק את קוד ה-QR באמצעות המצלמה של הטלפון, עקוב אחרי ההגדרה, ותיהנה מ-100MB נתונים חינם."
+
+# ===== Why Roami 区块 =====
+[why_title]
+other = "למה Roami הוא ספק ה-eSIM החינמי הטוב ביותר ב-2026"
+
+[why_p1]
+other = '''כשאתם מחפשים <strong>eSIM חינם</strong>, אתם רוצים אפשרות אמינה, מהירה ובאמת ללא עלות. Roami מספקת בדיוק את זה – עם <strong>ניסיון eSIM חינם</strong> הכולל <strong>100MB נתונים</strong>, <strong>ללא צורך בכרטיס אשראי</strong>, וכיסוי ב-<strong>יותר מ-200 מדינות</strong>. בניגוד למתחרים רבים, אנחנו לא כובלים אתכם למנוי ולא מבקשים פרטי תשלום מראש.'''
+
+[why_p2]
+other = '''<strong>קוד ה-QR של ה-eSIM החינם</strong> שלנו נוצר מיידית ונשלח לכתובת האימייל שלך, כך שתוכלו להגדיר את המכשיר תוך דקות. בין אם אתם מטיילים תכופים או רק רוצים לבדוק את טכנולוגיית ה-eSIM, Roami מציעה את <strong>חוויית ה-eSIM החינמית הטובה ביותר</strong> עם מהירויות 4G/5G, תמיכה 24/7 ותמחור שקוף לתוכניות בתשלום אם תזדקקו ליותר נתונים.'''
+[secure_payment]
+other = "תשלום מאובטח"
+
+[value_prop_delivery]
+other = "אספקה מיידית"
+[value_prop_refund]
+other = "החזר כספי 100% אם זה לא עובד"

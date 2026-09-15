@@ -653,62 +653,6 @@ Most travel eSIMs are data-only and do not include a UK phone number. Direct net
 **Which MVNO is best for UK tourists?**
 For city trips with possible EU travel, giffgaff (O2 network, EU roaming included) is the best overall MVNO at 15 GBP for 10 GB. For the lowest price, Lebara (Vodafone network) offers 15 GB for 10 GBP. For unlimited data, SMARTY offers unlimited for 20 GBP on Three's network.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Which UK mobile network has the best coverage for eSIM in 2026?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "EE has the best UK coverage with approximately 88% 4G landmass coverage, significantly ahead of Vodafone (82%), O2 (78%), and Three (68%), according to Ofcom (2026). EE is the best choice for rural Great Britain, Scotland, and national parks. For city-only trips, all four networks perform well."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can tourists buy a Vodafone UK eSIM travel plan directly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. As of July 2026, Vodafone UK does not sell prepaid pay-as-you-go eSIM plans to tourists. You can get Vodafone coverage by using a multi-network travel eSIM like Roami, which includes Vodafone as one of its partner networks, or by using an MVNO that runs on Vodafone (VOXI, Lebara)."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the cheapest UK eSIM for tourists?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "SMARTY offers the cheapest UK eSIM plans at 8 GBP for 20 GB on Three's network. Lebara offers 15 GB for 10 GBP on Vodafone's network with EU roaming included. For under 10 GBP, these are the two best value options for city-focused travellers."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Should I buy a UK eSIM before I travel or at the airport?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Buy before you travel. Airport prices are typically 20-50% higher, you will need to queue and show ID, and you risk troubleshooting setup issues in the arrivals hall. Install your UK eSIM on home WiFi before leaving and you will be connected the moment you land."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does a UK eSIM include a phone number for calls and SMS?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most travel eSIMs are data-only and do not include a UK phone number. Direct network eSIMs (EE, O2, Three) and MVNOs (giffgaff, Lebara) include a UK phone number but require ID verification. For most tourists, data-only is sufficient because WhatsApp, iMessage, and Messenger work over data."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Which MVNO is best for UK tourists?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For city trips with possible EU travel, giffgaff (O2 network, EU roaming included) is the best overall MVNO at 15 GBP for 10 GB. For the lowest price, Lebara (Vodafone network) offers 15 GB for 10 GBP. For unlimited data, SMARTY offers unlimited for 20 GBP on Three's network."
-      }
-    }
-  ]
-}
-</script>
 
 For UK eSIM pricing comparisons, see the [UK eSIM price comparison](/blog/uk-esim-price-guide/).
 

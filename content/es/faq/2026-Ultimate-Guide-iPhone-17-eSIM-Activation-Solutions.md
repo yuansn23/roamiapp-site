@@ -98,24 +98,6 @@ sidebar_questions:
       url: "/compatibility/"
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "Voy a viajar a China con un iPhone 17 versión EE. UU. (sin SIM). ¿Cómo puedo mantener la conexión?", "acceptedAnswer": {"@type": "Answer", "text": "Compra un plan de datos para China en la App Roami. Se conecta automáticamente a la señal 5G local al llegar mediante protocolos de roaming, sin necesidad de bandeja SIM física."}},
-    {"@type": "Question", "name": "¿Eliminar una eSIM afecta a mi línea de SIM física?", "acceptedAnswer": {"@type": "Answer", "text": "No. La eSIM y la SIM física operan en circuitos independientes. Puedes activar o desactivar cualquier línea sin interferencias."}},
-    {"@type": "Question", "name": "¿Roami admite compartir hotspot personal en iPhone 17?", "acceptedAnswer": {"@type": "Answer", "text": "Sí. Todos los planes Roami para iPhone 17 incluyen soporte completo para hotspot personal, optimizado para el chip A18 Pro."}},
-    {"@type": "Question", "name": "¿Por qué mi eSIM se queda en 'Activando'?", "acceptedAnswer": {"@type": "Answer", "text": "Suele deberse a una conexión Wi‑Fi inestable. Usa una red estable o activa/desactiva el modo avión para actualizar el módem."}},
-    {"@type": "Question", "name": "¿Mi iPhone 17 está bloqueado por un operador?", "acceptedAnswer": {"@type": "Answer", "text": "Ve a Ajustes > General > Información y busca 'Bloqueo de operador'. Debe decir 'Sin restricciones SIM'. Si está bloqueado, contacta con tu operador."}},
-    {"@type": "Question", "name": "¿El código QR dice 'Inválido' o 'Expirado' después de escanearlo?", "acceptedAnswer": {"@type": "Answer", "text": "Los perfiles eSIM suelen caducar 24‑72 horas tras su emisión. Contacta con tu operador para un nuevo código QR y actívalo en 1 hora."}},
-    {"@type": "Question", "name": "La eSIM muestra 'Sin servicio' — ¿qué puedo hacer?", "acceptedAnswer": {"@type": "Answer", "text": "Ve a Ajustes > Datos Móviles > Selección de red, desactiva 'Automático', selecciona otro operador, espera y vuelve a 'Automático' para forzar el re‑registro."}},
-    {"@type": "Question", "name": "¿Siguen cobrándome después de eliminar la eSIM?", "acceptedAnswer": {"@type": "Answer", "text": "Eliminar la eSIM no cancela tu plan. Contacta primero con tu operador para cancelar y luego elimina la eSIM."}},
-    {"@type": "Question", "name": "¿Error 53 o 4013 en restauración DFU?", "acceptedAnswer": {"@type": "Answer", "text": "Indica perfil eSIM corrupto. Elimina todas las eSIM en Ajustes antes de la restauración DFU. Si no arranca, usa 'Ignorar bloqueo eSIM' de Apple Configurator (iOS 19)."}},
-    {"@type": "Question", "name": "¿Puedo usar eSIM en un Samsung Galaxy o Google Pixel?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, pero la compatibilidad varía según modelo y región. Consulta las guías de compatibilidad específicas para Samsung Galaxy y Google Pixel."}}
-  ]
-}
-</script>
 
 
 

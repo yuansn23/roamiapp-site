@@ -766,33 +766,6 @@ If you switch phones while in the US (for example, if your primary phone breaks)
 
 A [USA data eSIM](/united-states-esim/) with automatic carrier switching helps you stay connected without manually selecting networks. A [free eSIM trial](/free-esim/) lets you practice the entire installation process before your trip. Code **WEB20** takes 20% off any plan.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "How to Install a USA eSIM: Guide for iPhone and Android",
-  "description": "Setting up a USA eSIM takes 5 minutes. Guide covers installation, APN settings, and activation. Roami offers auto carrier switching and live support.",
-  "image": "https://www.roamiapp.com/img/esim/usa/usa-esim-setup-guide.jpg",
-  "datePublished": "2026-08-17",
-  "dateModified": "2026-08-17",
-  "author": {
-    "@type": "Organization",
-    "name": "Roami Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Roami",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.roamiapp.com/img/logo.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.roamiapp.com/blog/usa-esim-setup-guide/"
-  }
-}
-</script>
 
 *Prices change — verify current rates on each provider's official website before purchasing. Last updated August 2026.*
 

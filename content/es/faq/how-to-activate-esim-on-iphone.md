@@ -99,22 +99,6 @@ sidebar_questions:
       url: "/compatibility/"
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "¿Cuántas eSIM puedo tener en mi iPhone?", "acceptedAnswer": {"@type": "Answer", "text": "Puedes almacenar 8 o más perfiles eSIM. En iPhone 13 y posteriores, puedes tener dos eSIM activas al mismo tiempo (Doble eSIM)."}},
-    {"@type": "Question", "name": "¿Puedo usar mi SIM física y mi eSIM al mismo tiempo?", "acceptedAnswer": {"@type": "Answer", "text": "Sí. Los iPhone admiten Doble SIM: mantén tu SIM física para llamadas y SMS mientras usas una eSIM de viaje para datos."}},
-    {"@type": "Question", "name": "¿Puedo eliminar mi eSIM después del viaje?", "acceptedAnswer": {"@type": "Answer", "text": "Sí. Ve a Ajustes > Datos Móviles, toca la eSIM y selecciona Eliminar eSIM. No la elimines durante el viaje: los QR suelen ser de un solo uso."}},
-    {"@type": "Question", "name": "¿Usar una eSIM consume más batería?", "acceptedAnswer": {"@type": "Answer", "text": "No. Consume lo mismo que una SIM física. Dos líneas activas en zona de mala señal pueden aumentar ligeramente el consumo."}},
-    {"@type": "Question", "name": "¿Puedo usar eSIM en un iPhone comprado en China?", "acceptedAnswer": {"@type": "Answer", "text": "No. Los iPhones vendidos en China continental no tienen hardware eSIM y solo usan doble SIM física."}},
-    {"@type": "Question", "name": "¿Qué hago si pierdo mi iPhone con la eSIM activa?", "acceptedAnswer": {"@type": "Answer", "text": "Contacta a tu operador inmediatamente para suspender la línea. El operador puede desactivar el perfil eSIM de forma remota."}},
-    {"@type": "Question", "name": "¿La eSIM funciona en países sin cobertura de mi operador?", "acceptedAnswer": {"@type": "Answer", "text": "Sí. Una eSIM de viaje de un proveedor global como Roami se conecta a las redes locales del país de destino con cobertura propia."}},
-    {"@type": "Question", "name": "¿Puedo usar eSIM en un Samsung Galaxy o Google Pixel?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, pero la compatibilidad varía según modelo y región. Consulta las guías de compatibilidad específicas para cada marca."}}
-  ]
-}
-</script>
 
 **Respuesta corta:**
 La activación de eSIM es el proceso de descargar de forma segura un perfil digital de tu operador directamente al microchip integrado de tu teléfono a través de internet. En lugar de insertar una tarjeta física, simplemente escaneas un código QR o usas la aplicación del operador para conectarte a una red móvil al instante.

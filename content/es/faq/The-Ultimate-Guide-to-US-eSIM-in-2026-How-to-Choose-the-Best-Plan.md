@@ -98,19 +98,6 @@ sidebar_questions:
       url: "/compatibility/"
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "¿Puedo hacer llamadas con una eSIM de viaje?", "acceptedAnswer": {"@type": "Answer", "text": "La mayoría de las eSIM de viaje son planes solo datos. Si necesitas un número telefónico estadounidense, busca planes que incluyan eSIM con número. Puedes usar WhatsApp, FaceTime o Skype para llamadas VoIP."}},
-    {"@type": "Question", "name": "¿Puedo usar eSIM y SIM física al mismo tiempo?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, la mayoría de los dispositivos modernos admiten doble SIM (una física y una eSIM) o doble eSIM. Puedes mantener tu número habitual para llamadas y usar la eSIM para datos en EE.UU."}},
-    {"@type": "Question", "name": "¿Qué eSIM de viaje es mejor para Estados Unidos?", "acceptedAnswer": {"@type": "Answer", "text": "Depende de tu itinerario. Para viajes urbanos, Roami con red T-Mobile ofrece las mejores velocidades 5G en Nueva York, Miami, Los Ángeles y Chicago. Para parques nacionales, elige planes con AT&T o Verizon."}},
-    {"@type": "Question", "name": "¿Cuánto cuesta realmente una eSIM para Estados Unidos?", "acceptedAnswer": {"@type": "Answer", "text": "Los precios varían. Roami ofrece planes desde $1.99 (1GB/7 días) hasta $59.99 (datos ilimitados/30 días). Comparar precios de eSIM USA es importante para encontrar la mejor relación calidad-precio."}},
-    {"@type": "Question", "name": "¿Es seguro comprar eSIM online?", "acceptedAnswer": {"@type": "Answer", "text": "Sí. Todas las eSIM siguen el estándar internacional de la GSMA. Los perfiles eSIM están encriptados y no se pueden clonar, siendo más seguros que las SIM físicas."}}
-  ]
-}
-</script>
 
 ## Resumen Inicial: Recomendaciones Rápidas para eSIM EE.UU. 2026
 

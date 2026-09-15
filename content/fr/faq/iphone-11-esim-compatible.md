@@ -388,24 +388,5 @@ L'iPhone 11 reste en 2026 un excellent choix pour les utilisateurs d'eSIM, malgr
 ---
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "inLanguage": "fr",
-  "mainEntity": [
-    {"@type": "Question", "name": "L'iPhone 11 peut-il utiliser deux eSIM en même temps ?", "acceptedAnswer": {"@type": "Answer", "text": "Non. L'iPhone 11 supporte nano-SIM + eSIM. La double eSIM simultanée n'est disponible qu'à partir de l'iPhone 13."}},
-    {"@type": "Question", "name": "Mon iPhone 11 est verrouillé par Orange. Puis-je utiliser une eSIM d'un autre opérateur ?", "acceptedAnswer": {"@type": "Answer", "text": "Non. Un iPhone verrouillé n'accepte que les eSIM de l'opérateur qui l'a verrouillé. Contactez Orange pour le déverrouillage, gratuit après 3 mois."}},
-    {"@type": "Question", "name": "L'iPhone 11 chinois supporte-t-il l'eSIM ?", "acceptedAnswer": {"@type": "Answer", "text": "Non. Les iPhone 11 vendus en Chine continentale ont deux emplacements nano-SIM physiques et pas de module eSIM. Vérifiez avec *#06#."}},
-    {"@type": "Question", "name": "L'eSIM de l'iPhone 11 fonctionne-t-elle en 5G ?", "acceptedAnswer": {"@type": "Answer", "text": "Non. L'iPhone 11 n'a pas de modem 5G. L'eSIM fonctionne en 4G LTE, largement suffisante pour la navigation, le streaming HD et la visioconférence."}},
-    {"@type": "Question", "name": "Comment transférer mon eSIM de l'iPhone 11 vers un nouvel iPhone ?", "acceptedAnswer": {"@type": "Answer", "text": "Avec iOS 19, le transfert d'eSIM se fait automatiquement pendant la configuration du nouvel iPhone. Placez les deux appareils à proximité."}},
-    {"@type": "Question", "name": "L'iPhone 11 est-il compatible avec les eSIM de tous les pays ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, dans la limite de ses 28 bandes LTE. L'iPhone 11 couvre toutes les bandes utilisées en Europe, Amérique du Nord, Asie et Océanie."}},
-    {"@type": "Question", "name": "Puis-je utiliser FaceTime et iMessage avec une eSIM de voyage ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. iMessage et FaceTime sont liés à votre identifiant Apple, pas à votre carte SIM. Ils fonctionnent via les données de votre eSIM de voyage."}},
-    {"@type": "Question", "name": "Comment savoir si mon iPhone 11 est déverrouillé ?", "acceptedAnswer": {"@type": "Answer", "text": "Réglages > Général > Informations > Verrouillage opérateur. « Aucune restriction SIM » signifie que l'iPhone est déverrouillé."}},
-    {"@type": "Question", "name": "L'iPhone 11 reconditionné est-il un bon choix pour l'eSIM ?", "acceptedAnswer": {"@type": "Answer", "text": "Excellent. Un iPhone 11 reconditionné déverrouillé coûte 150-220 € en 2026. Vérifiez le statut de déverrouillage et l'EID avec *#06#."}},
-    {"@type": "Question", "name": "Puis-je utiliser l'iPhone 11 comme hotspot avec une eSIM de voyage ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. L'iPhone 11 supporte le partage de connexion via eSIM. Vérifiez les conditions du forfait, certains limitent le hotspot après quelques gigaoctets."}}
-  ]
-}
-</script>
 
 *Basé sur la documentation officielle d'Apple, les standards GSMA et les informations des opérateurs français (Orange, SFR, Bouygues, Free). Dernière révision : août 2026.*

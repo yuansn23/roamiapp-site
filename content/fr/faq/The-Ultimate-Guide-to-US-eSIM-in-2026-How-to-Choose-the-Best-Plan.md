@@ -479,24 +479,5 @@ Pour les voyageurs internationaux visitant les États-Unis, la stratégie optima
 
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "inLanguage": "fr",
-  "mainEntity": [
-    {"@type": "Question", "name": "Puis-je passer des appels locaux aux États-Unis avec une eSIM ?", "acceptedAnswer": {"@type": "Answer", "text": "La plupart des eSIM de voyage sont des forfaits données uniquement (data-only). Utilisez WhatsApp, FaceTime, Skype ou WeChat pour vos communications. Pour un numéro américain, recherchez des forfaits avec numéro de téléphone USA."}},
-    {"@type": "Question", "name": "Mon téléphone prend-il en charge l'eSIM ?", "acceptedAnswer": {"@type": "Answer", "text": "La plupart des téléphones phares sortis après 2018 prennent en charge l'eSIM. Composez *#06# — si un EID de 32 chiffres apparaît, votre téléphone est compatible eSIM."}},
-    {"@type": "Question", "name": "Que faire si je manque de données ?", "acceptedAnswer": {"@type": "Answer", "text": "Les fournisseurs comme Roami permettent de recharger en ligne avant que vos données ne s'épuisent, sans avoir besoin de rescanner un code QR."}},
-    {"@type": "Question", "name": "Quelle est la différence entre Roami et Airalo pour les États-Unis ?", "acceptedAnswer": {"@type": "Answer", "text": "Airalo utilise un seul réseau (T-Mobile ou AT&T), ce qui peut entraîner des zones d'ombre en zone rurale. Roami bascule automatiquement entre T-Mobile, AT&T et Verizon pour la meilleure couverture possible."}},
-    {"@type": "Question", "name": "Puis-je utiliser la même eSIM pour plusieurs voyages aux États-Unis ?", "acceptedAnswer": {"@type": "Answer", "text": "Cela dépend de la durée de validité du forfait. Les forfaits sont valables de 7 à 30 jours. Pour plusieurs voyages espacés, achetez un nouveau forfait à chaque voyage."}},
-    {"@type": "Question", "name": "Existe-t-il une eSIM USA avec numéro de téléphone ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, certains fournisseurs proposent des eSIM avec numéro de téléphone américain. Ils sont généralement plus chers et nécessitent une vérification d'identité. Pour les données uniquement, optez pour un forfait data-only."}},
-    {"@type": "Question", "name": "Que faire si mon iPhone est verrouillé par un opérateur français ?", "acceptedAnswer": {"@type": "Answer", "text": "Si votre téléphone est verrouillé, vous ne pourrez utiliser que des eSIM du même opérateur. Contactez votre opérateur (Orange, SFR, Free, Bouygues) pour demander un déverrouillage avant votre voyage."}},
-    {"@type": "Question", "name": "Combien coûte une eSIM pour les États-Unis ?", "acceptedAnswer": {"@type": "Answer", "text": "Les prix varient de 5 $ (1 Go) à 55 $ (données illimitées). Le meilleur rapport qualité-prix se trouve souvent avec Roami, surtout avec le code web20 offrant 20 % de réduction."}},
-    {"@type": "Question", "name": "Les eSIM pour les États-Unis fonctionnent-elles avec la 5G ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. Les trois grands réseaux américains (T-Mobile, AT&T, Verizon) ont déployé la 5G. T-Mobile domine en 5G SA avec des débits moyens de 200-500 Mbps en ville. Vérifiez que votre forfait inclut l'accès 5G."}},
-    {"@type": "Question", "name": "Quel est le meilleur forfait eSIM USA pour le télétravail ?", "acceptedAnswer": {"@type": "Answer", "text": "Privilégiez un forfait avec au moins 20-30 Go, le partage de connexion inclus et une couverture multi-réseau. La latence 5G (10-20 ms) est comparable à une connexion fibre. Évitez les forfaits illimités avec FUP restrictive."}}
-  ]
-}
-</script>
 
 *Basé sur les données du FCC, les spécifications GSMA et les tests terrain. Mise à jour : juin 2026.*

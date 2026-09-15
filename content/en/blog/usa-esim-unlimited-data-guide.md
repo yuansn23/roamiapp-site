@@ -622,30 +622,3 @@ For USA eSIM provider comparisons, see the [USA eSIM provider ranking](/blog/usa
 For a complete USA eSIM overview, see the [USA eSIM complete guide](/blog/usa-esim-complete-guide/).
 For network comparisons, see the [USA eSIM provider reviews](/blog/usa-esim-provider-comparison/).
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "USA eSIM Unlimited Data Plans: What Is Truly Unlimited?",
-  "description": "Need unlimited data for your US trip? A comparison of every unlimited USA eSIM plan with speed caps and hotspot limits. Roami offers auto carrier switching.",
-  "image": "https://www.roamiapp.com/img/esim/usa/usa-esim-unlimited-data-guide.jpg",
-  "datePublished": "2026-08-17",
-  "dateModified": "2026-08-17",
-  "author": {
-    "@type": "Organization",
-    "name": "Roami Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Roami",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.roamiapp.com/img/logo.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.roamiapp.com/blog/usa-esim-unlimited-data-guide/"
-  }
-}
-</script>

@@ -950,3 +950,63 @@ footer_slogan = "Profesjonalny globalny dostawca usług eSIM | Ekspert w roaming
 modal_title = "Powiadomienie"
 modal_cancel = "Anuluj"
 modal_confirm = "Przejdź teraz"
+
+# 希伯来语配置
+    [languages.he]
+    languageName = "עברית"
+    contentDir = "content/he"  # 告诉 Hugo 希伯来语内容在这个文件夹
+    weight = 16
+	
+ [languages.he.params]
+    # 导航栏文案
+    nav_links = [
+      { name = "דף הבית", url = "/" },
+      { name = "קנה eSIM", url = "/plans/" },
+      { name = "תאימות eSIM", url = "/compatibility/" },
+     { name = "eSIM חינם", url = "/free-esim/" },
+      { name = "אפליקציית Roami", url = "/app/" },
+      { name = "שאלות נפוצות", url = "/faq/" }
+    ]
+    
+
+# 页脚文案
+    footer_desc = "מספק שירותי eSIM פרימיום ב-200+ מדינות ואזורים, ושומר על חיבור בכל מקום שאליו אתה נוסע."
+    
+    footer_col1_title = "יעדים מובילים"
+    # 优化：将纯文本改为带链接的对象，并使用绝对路径
+  footer_col1_links = [
+{name="eSIM אסיה", url="/asia-esim/"}, 
+{name="eSIM אירופה", url="/europe-esim/"}, 
+{name="eSIM אפריקה", url="/africa-esim/"}, 
+{name="eSIM דרום אמריקה", url="/south-america-esim/"}, 
+{name="eSIM צפון אמריקה", url="/north-america-esim/"}, 
+{name="eSIM המזרח התיכון", url="/middle-east-esim/"}
+    ]
+    
+    footer_col2_title = "תמיכת לקוחות"
+    # 优化：前面加 "/"，并建议去掉 .html 使用 Clean URL
+    footer_col2_links = [
+  { name = "שאלות נפוצות", url = "/faq/" }, 
+  	  { name = "בלוג", url = "/blog/" },
+  { name = "תאימות eSIM", url = "/compatibility/" },
+     { name = "הורד את Roami", url = "/app/" }
+]
+    
+    footer_col3_title = "מידע על החברה"
+    # 优化：前面加 "/"，确保从任何页面点击都跳回根目录
+    footer_col3_links = [
+      {name="אודותינו", url="/about-us/"}, 
+	  {name="eSIM חינם", url="/free-esim/"}, 
+	  {name="מדיניות החזרים", url="/refund/"}, 
+	  {name="צור קשר", url="/contact/"}, 
+      {name="מדיניות פרטיות", url="/privacy/"}, 
+      {name="תנאי שירות", url="/terms/"}
+    ]
+    
+    footer_copyright = "© 2026 Roami. כל הזכויות שמורות."
+    footer_slogan = "ספק שירותי eSIM גלובליים מקצועיים | מומחה לנדידת נתונים גלובלית ב-eSIM"
+
+    # 弹窗文案
+    modal_title = "הודעה"
+    modal_cancel = "ביטול"
+    modal_confirm = "עבור עכשיו"

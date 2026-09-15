@@ -730,33 +730,6 @@ If you want to test the setup process before your trip, a [free eSIM service](/f
 | Old or budget phone without eSIM | **Physical SIM** | No other option. Buy online before your trip or at the airport. |
 | Multi-country trip (US + Canada + Mexico) | **USA eSIM** (with regional plan) | One eSIM covers all three countries. Physical SIM would need replacing at each border. |
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "USA eSIM vs Physical SIM vs Pocket WiFi: Which Is Best?",
-  "description": "Not sure whether to get a USA eSIM, physical SIM, or pocket WiFi? Cost comparison for every travel style. Roami makes eSIM easy with auto switching.",
-  "image": "https://www.roamiapp.com/img/esim/usa/usa-esim-vs-physical-sim.jpg",
-  "datePublished": "2026-08-17",
-  "dateModified": "2026-08-17",
-  "author": {
-    "@type": "Organization",
-    "name": "Roami Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Roami",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.roamiapp.com/img/logo.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.roamiapp.com/blog/usa-esim-vs-physical-sim/"
-  }
-}
-</script>
 
 *Last updated August 2026.*
 

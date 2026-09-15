@@ -98,26 +98,6 @@ sidebar_questions:
       url: "/compatibility/"
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "¿Funcionará mi eSIM en el Metro de Londres (The Tube)?", "acceptedAnswer": {"@type": "Answer", "text": "Sí. A partir de 2025/2026, la cobertura 4G y 5G se está expandiendo por las líneas Jubilee, Central y Northern. Las estaciones sin servicio celular ofrecen Wi‑Fi gratuito."}},
-    {"@type": "Question", "name": "¿Puedo usar mi eSIM del UK como punto de acceso personal (hotspot)?", "acceptedAnswer": {"@type": "Answer", "text": "Sí. La gran mayoría de las eSIM de viaje, incluyendo Roami, son compatibles con Punto de Acceso Personal para compartir datos con otros dispositivos."}},
-    {"@type": "Question", "name": "¿Una eSIM de viaje incluye un número telefónico local del UK?", "acceptedAnswer": {"@type": "Answer", "text": "Las eSIM de viaje puras son solo datos y no incluyen número de teléfono. Puedes usar WhatsApp, FaceTime y Skype. Para recibir SMS de verificación, necesitas una eSIM de prepago local con número +44."}},
-    {"@type": "Question", "name": "¿Qué pasa si me quedo sin datos?", "acceptedAnswer": {"@type": "Answer", "text": "Puedes recargar en línea desde la web o app donde compraste la eSIM. Los datos se acreditan automáticamente sin necesidad de escanear un nuevo código QR."}},
-    {"@type": "Question", "name": "¿Puedo comprar una eSIM para UK si mi teléfono no es compatible?", "acceptedAnswer": {"@type": "Answer", "text": "No. Si tu teléfono no muestra EID al marcar *#06#, no puedes usar eSIM. Consulta la lista de teléfonos compatibles para ver alternativas."}},
-    {"@type": "Question", "name": "¿Qué proveedores de eSIM ofrecen los mejores precios para UK?", "acceptedAnswer": {"@type": "Answer", "text": "Para estancias cortas, Roami y Airalo ofrecen tarifas desde 1.99 USD. Para estancias largas, Lebara y EE ofrecen planes mensuales desde 10 GBP."}},
-    {"@type": "Question", "name": "¿Puedo usar una eSIM del UK en otros países europeos?", "acceptedAnswer": {"@type": "Answer", "text": "Depende del plan. Las eSIM de viaje regionales cubren múltiples países. Las eSIM locales del UK suelen cobrar roaming en la UE. Si visitas España, Francia o Alemania, elige un plan con roaming incluido."}},
-    {"@type": "Question", "name": "¿Se puede comprar una eSIM UK desde fuera del país?", "acceptedAnswer": {"@type": "Answer", "text": "Sí. Puedes comprar tu eSIM para UK desde cualquier país del mundo con conexión a Internet y método de pago. Recibirás el código QR por correo electrónico en segundos."}},
-    {"@type": "Question", "name": "¿Las eSIM de UK tienen política de reembolso?", "acceptedAnswer": {"@type": "Answer", "text": "La mayoría ofrecen reembolso si no has activado la eSIM. Una vez instalada, la activación suele ser irreversible. Verifica la política de tu proveedor antes de comprar."}},
-    {"@type": "Question", "name": "¿Hay cobertura eSIM en Escocia, Gales e Irlanda del Norte?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, todos los operadores cubren las cuatro naciones del UK. EE y Vodafone ofrecen la mejor cobertura en las Tierras Altas de Escocia y zonas rurales de Gales."}},
-    {"@type": "Question", "name": "¿Puedo usar la misma eSIM en varios dispositivos?", "acceptedAnswer": {"@type": "Answer", "text": "No. Cada eSIM está vinculada al EID de un dispositivo específico. Para conectar varios dispositivos, usa el hotspot de tu teléfono principal."}},
-    {"@type": "Question", "name": "¿Conviene una eSIM UK para una escala larga en Heathrow o Gatwick?", "acceptedAnswer": {"@type": "Answer", "text": "Sí. Una eSIM de 1GB por 3-5 USD te da Internet para trabajar o hacer videollamadas durante escalas de 4-8 horas, sin depender del Wi‑Fi limitado del aeropuerto."}}
-  ]
-}
-</script>
 
 
 

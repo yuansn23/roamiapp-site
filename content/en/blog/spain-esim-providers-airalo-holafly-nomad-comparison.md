@@ -429,35 +429,3 @@ For official device compatibility, check [Apple Support](https://support.apple.c
 Add this JSON‑LD to your page's `<head>` to enable rich snippets:
 
 ```html
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Spain eSIM Compared 2026: Airalo vs Holafly vs Nomad – Which Is Best?",
-  "description": "Compare Airalo, Holafly, Nomad, Saily and Orange Holiday Europe side by side — pricing, networks, hotspot support, Spanish numbers, and real-world speeds.",
-  "author": {
-    "@type": "Organization",
-    "name": "Roami Team"
-  },
-  "datePublished": "2026-08-19",
-  "dateModified": "2026-08-19",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Roami"
-  }
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "Is Airalo or Holafly better for Spain?", "acceptedAnswer": {"@type": "Answer", "text": "Airalo is better for low-data users and those who need hotspot access. Holafly is better for heavy users who don't need tethering. The crossover point is about 10GB per trip."}},
-    {"@type": "Question", "name": "Does Nomad work better than Airalo in rural Spain?", "acceptedAnswer": {"@type": "Answer", "text": "Usually yes. Nomad switches to Movistar in rural areas, where Movistar's 700MHz 5G provides better coverage than Orange's 3.5GHz."}},
-    {"@type": "Question", "name": "Can I use Orange Holiday Europe as my primary eSIM for a year?", "acceptedAnswer": {"@type": "Answer", "text": "No. It's limited to 14 days per activation. For stays over 3 weeks, a local Movistar or Orange prepaid plan is more practical."}},
-    {"@type": "Question", "name": "What is the cheapest Spain eSIM for a 7-day trip?", "acceptedAnswer": {"@type": "Answer", "text": "Roamify 3GB at $5.50 is the cheapest. For 1GB or less, Airalo's $4.50 or Roamify's $2.00 plan offer the lowest entry cost."}},
-    {"@type": "Question", "name": "Can I hotspot with Holafly?", "acceptedAnswer": {"@type": "Answer", "text": "No. Holafly blocks hotspot/tethering on all unlimited plans. If you need to share your connection, choose Airalo, Nomad, Orange Holiday, Saily, or Roamify."}}
-  ]
-}
-</script>

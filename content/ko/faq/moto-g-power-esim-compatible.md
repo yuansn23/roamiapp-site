@@ -97,54 +97,6 @@ sidebar_questions:
       url: "/compatibility/"
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Moto G Power 2023이 eSIM을 지원하나요?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "아니요 – 2024년 모델 및 최신 버전만 eSIM을 지원합니다. 2023년 모델은 물리적 SIM만 가능합니다."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Moto G Stylus 2024가 eSIM을 지원하나요?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "예 – 2024 Moto G Stylus는 eSIM을 지원합니다."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "내 Moto G Power가 eSIM을 지원하는지 어떻게 확인하나요?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "`*#06#`을 누르세요. 32자리 EID가 나타나면 휴대폰이 eSIM 호환입니다."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Moto G Power 2024에서 eSIM과 물리적 SIM을 동시에 사용할 수 있나요?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "예 – 2024년 모델은 하나의 활성 물리적 SIM과 하나의 활성 eSIM을 동시에 지원하는 듀얼 SIM을 지원합니다."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "내 Moto G Power 2024에 '통신사 추가'가 표시되지 않습니다 – 무엇이 문제인가요?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "90%의 경우 Android 버전 간에 메뉴 경로가 변경되었기 때문입니다. 설정 검색 창을 사용하여 'eSIM'을 입력하세요. 아무것도 나타나지 않으면 휴대폰이 통신사 잠금 상태이거나 아시아 버전인지 확인하세요."
-      }
-    }
-  ]
-}
-</script>
 
 
 ## Moto G Power는 eSIM을 지원하나요? 빠른 답변 및 호환성 개요

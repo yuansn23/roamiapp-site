@@ -93,19 +93,6 @@ sidebar_questions:
       url: "/compatibility/"
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "¿Las eSIM de viaje incluyen un número telefónico?", "acceptedAnswer": {"@type": "Answer", "text": "La mayoría de los proveedores globales (Roami, Airalo, Nomad) ofrecen eSIM solo datos, sin SMS ni voz. Si necesitas una eSIM con número local, compra a un operador local en el país."}},
-    {"@type": "Question", "name": "¿Puedo hacer llamadas con una eSIM solo datos?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, usando aplicaciones VoIP como WhatsApp, FaceTime, Skype o Google Meet. Las llamadas celulares normales requieren un plan de voz."}},
-    {"@type": "Question", "name": "¿Cuántos datos necesito para un viaje de 7 días?", "acceptedAnswer": {"@type": "Answer", "text": "Uso ligero (mapas, WhatsApp): 1-2GB. Moderado (redes sociales, música): 3-5GB. Intensivo (videollamadas, streaming): 10GB o más."}},
-    {"@type": "Question", "name": "¿Es segura la eSIM?", "acceptedAnswer": {"@type": "Answer", "text": "Las eSIM son más seguras que las SIM físicas. Cumplen con el estándar GSMA SGP.21 que previene la clonación o extracción. Están encriptadas y no se pueden extraer físicamente del dispositivo."}},
-    {"@type": "Question", "name": "¿Cuál es la mejor eSIM para viajar?", "acceptedAnswer": {"@type": "Answer", "text": "Depende de tu destino y necesidades. Roami ofrece conmutación inteligente entre operadores, ideal para viajes con múltiples destinos. Airalo y Holafly son buenas alternativas, pero verifica la cobertura en tu destino específico."}}
-  ]
-}
-</script>
 
 > El roaming internacional (también conocido como **itinerancia internacional** en la terminología oficial de telecomunicaciones) es caro. Los quioscos de SIM en los aeropuertos son un robo. Y tener que manejar múltiples tarjetas SIM físicas es un dolor de cabeza. **La eSIM de viaje** es una SIM digital que te permite comprar planes de datos locales desde cualquier lugar del mundo, instalarla antes de salir de casa y activarla en el momento en que aterrizas. Tu dispositivo se conecta automáticamente a la **torre celular** más cercana del operador local, ofreciéndote señal 5G/4G sin depender de antenas extranjeras. Esta guía te ofrece la estrategia definitiva para mantenerte conectado en el extranjero.
 

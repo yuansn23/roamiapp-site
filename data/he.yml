@@ -1,0 +1,83 @@
+related_products:
+  title: חבילות eSIM דומות
+  items:
+    - name: eSIM ארה״ב
+      flag: img/flags/us.svg
+      price: החל מ-$1.99
+      is_highlight: false
+      slug: united-states-esim
+    - name: eSIM סין
+      flag: img/flags/cn.svg
+      price: החל מ-$1.99
+      is_highlight: false
+      slug: china-esim
+    - name: eSIM גרמניה
+      flag: img/flags/de.svg
+      price: החל מ-$1.99
+      is_highlight: false
+      slug: germany-esim
+    - name: eSIM יפן
+      flag: img/flags/jp.svg
+      price: החל מ-$1.99
+      is_highlight: false
+      slug: japan-esim
+    - name: eSIM בריטניה
+      flag: img/flags/gb.svg
+      price: החל מ-$1.99
+      is_highlight: false
+      slug: united-kingdom-esim
+    - name: eSIM צרפת
+      flag: img/flags/fr.svg
+      price: החל מ-$1.99
+      is_highlight: false
+      slug: france-esim
+    - name: eSIM איטליה
+      flag: img/flags/it.svg
+      price: החל מ-$1.99
+      is_highlight: false
+      slug: italy-esim
+    - name: eSIM קנדה
+      flag: img/flags/ca.svg
+      price: החל מ-$1.99
+      is_highlight: false
+      slug: canada-esim
+    - name: eSIM ברזיל
+      flag: img/flags/br.svg
+      price: החל מ-$1.99
+      is_highlight: false
+      slug: brazil-esim
+    - name: eSIM ספרד
+      flag: img/flags/es.svg
+      price: החל מ-$1.99
+      is_highlight: false
+      slug: spain-esim
+    - name: eSIM דרום קוריאה
+      flag: img/flags/kr.svg
+      price: החל מ-$1.99
+      is_highlight: false
+      slug: south-korea-esim
+    - name: eSIM אוסטרליה
+      flag: img/flags/au.svg
+      price: החל מ-$1.99
+      is_highlight: false
+      slug: australia-esim
+    - name: eSIM טורקיה
+      flag: img/flags/tr.svg
+      price: החל מ-$1.99
+      is_highlight: false
+      slug: turkey-esim
+    - name: eSIM טאיוואן
+      flag: img/flags/tw.svg
+      price: החל מ-$1.99
+      is_highlight: false
+      slug: taiwan-esim
+    - name: eSIM איחוד האמירויות
+      flag: img/flags/ae.svg
+      price: החל מ-$1.99
+      is_highlight: false
+      slug: united-arab-emirates-esim
+    - name: eSIM אוסטריה
+      flag: img/flags/at.svg
+      price: החל מ-$1.99
+      is_highlight: false
+      slug: austria-esim

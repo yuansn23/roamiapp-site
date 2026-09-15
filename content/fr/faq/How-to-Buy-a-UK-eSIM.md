@@ -360,24 +360,5 @@ L'achat d'un **eSIM pour le Royaume-Uni** en 2026 est la solution la plus simple
 **Besoin d'aide pour choisir ?** Consultez notre **[guide de l'eSIM États-Unis](/faq/2026-best-esim-options-for-the-usa/)** si vous voyagez outre-Atlantique, ou notre **[guide de voyage eSIM](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/)** pour une stratégie de connectivité globale.
 
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "inLanguage": "fr",
-  "mainEntity": [
-    {"@type": "Question", "name": "Mon eSIM fonctionnera-t-elle dans le métro londonien (The Tube) ?", "acceptedAnswer": {"@type": "Answer", "text": "Depuis 2025-2026, la couverture 4G et 5G s'étend sur les lignes Jubilee, Central, Northern, Piccadilly et Elizabeth. Pour les stations sans service, le Wi-Fi gratuit est disponible. Les eSIM sur réseau O2 ont la meilleure pénétration dans le métro."}},
-    {"@type": "Question", "name": "Puis-je utiliser mon eSIM UK comme partage de connexion (hotspot) ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, la plupart des eSIM de voyage autorisent le partage de connexion. Vous pouvez connecter votre iPad, ordinateur ou partager avec vos compagnons. Vérifiez les conditions du forfait — certains forfaits économiques limitent le hotspot à 3-5 Go."}},
-    {"@type": "Question", "name": "Un eSIM de voyage inclut-il un numéro de téléphone +44 ?", "acceptedAnswer": {"@type": "Answer", "text": "Les eSIM de voyage data-only n'incluent pas de numéro de téléphone. Utilisez WhatsApp, FaceTime, iMessage, Signal ou Skype pour vos communications. Pour un numéro +44, achetez un eSIM local auprès d'un opérateur britannique."}},
-    {"@type": "Question", "name": "Comment recharger si je manque de données ?", "acceptedAnswer": {"@type": "Answer", "text": "Connectez-vous au site web ou à l'application de votre fournisseur eSIM, achetez un forfait complémentaire. Les données sont créditées automatiquement sans avoir à scanner un nouveau QR code."}},
-    {"@type": "Question", "name": "Puis-je utiliser mon eSIM UK en Europe ?", "acceptedAnswer": {"@type": "Answer", "text": "Cela dépend du forfait. Les eSIM de voyage régionaux incluent généralement l'itinérance en Europe sans frais. Les eSIM d'opérateurs britanniques facturent 2-3 £/jour en Europe. Vérifiez les conditions avant d'acheter."}},
-    {"@type": "Question", "name": "« Aucun service » à l'arrivée — que faire ?", "acceptedAnswer": {"@type": "Answer", "text": "Activez l'itinérance des données pour la ligne eSIM. Si le problème persiste, allez dans Réglages > Données cellulaires > Sélection réseau, désactivez Automatique et choisissez manuellement EE, O2 ou Vodafone."}},
-    {"@type": "Question", "name": "Quelle est la meilleure eSIM pour visiter Londres ?", "acceptedAnswer": {"@type": "Answer", "text": "Pour un séjour à Londres, une eSIM sur réseau O2 est idéale — O2 a la meilleure pénétration dans les bâtiments historiques et le métro. Les eSIM multi-réseaux basculent automatiquement vers O2 dans ces zones."}},
-    {"@type": "Question", "name": "Quelle est la différence entre un eSIM UK et un eSIM Europe ?", "acceptedAnswer": {"@type": "Answer", "text": "Un eSIM UK ne couvre que le Royaume-Uni. Un eSIM Europe couvre le Royaume-Uni ET les 30+ pays de l'UE/EEE. Pour un voyage multi-pays, l'eSIM Europe est toujours plus économique."}},
-    {"@type": "Question", "name": "Existe-t-il un eSIM gratuit ou en essai pour le Royaume-Uni ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, certains fournisseurs proposent un eSIM gratuit d'essai avec 100-500 Mo pour tester le réseau. Idéal pour valider la compatibilité de votre téléphone avant d'acheter un forfait payant."}},
-    {"@type": "Question", "name": "L'eSIM est-elle plus chère qu'une carte SIM physique au Royaume-Uni ?", "acceptedAnswer": {"@type": "Answer", "text": "Non, les prix sont similaires. Un eSIM de voyage à 7 € pour 5 Go / 7 jours est moins cher qu'une SIM prépayée en boutique (10-20 £). Le vrai gain est le temps économisé : pas de file d'attente, activation immédiate."}}
-  ]
-}
-</script>
 
 *Basé sur les données officielles des opérateurs britanniques (EE, O2, Vodafone, Three), les standards GSMA SGP.22, l'Ofcom et les informations des fournisseurs eSIM. Dernière révision : août 2026.*

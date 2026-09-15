@@ -98,22 +98,6 @@ sidebar_questions:
       url: "/compatibility/"
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "¿Puedo transferir una eSIM solo de datos (como una eSIM de viaje)?", "acceptedAnswer": {"@type": "Answer", "text": "No. La mayoría de eSIM de viaje no admiten transferencia entre plataformas. Están diseñadas para instalarse una vez por dispositivo. Deberás comprar un nuevo plan."}},
-    {"@type": "Question", "name": "¿La transferencia funciona entre un iPhone 11 y un Samsung S24?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, siempre que ambos cumplan los requisitos de SO: iOS 19 en el iPhone 11 y Android 15 en el Samsung S24. La generación del hardware no importa."}},
-    {"@type": "Question", "name": "Seguí los pasos pero mi Android no tiene 'Emparejar con iPhone o iPad'. ¿Qué ocurre?", "acceptedAnswer": {"@type": "Answer", "text": "Ese menú solo aparece en Android 15+ con Google Play Services actualizado. Si tienes Android 15 o anterior, actualiza o usa el método del código QR del operador."}},
-    {"@type": "Question", "name": "¿WhatsApp / iMessage / códigos 2FA seguirán funcionando después de la transferencia?", "acceptedAnswer": {"@type": "Answer", "text": "WhatsApp detectará el cambio de SIM y puede pedir verificación. iMessage se reactivará en un minuto. Los SMS de 2FA funcionan con normalidad: el número no cambia."}},
-    {"@type": "Question", "name": "¿Puedo transferir la misma eSIM de ida y vuelta varias veces?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, pero cada transferencia requiere el mismo proceso. Algunos operadores limitan las transferencias a 3‑5 veces al año para evitar abusos."}},
-    {"@type": "Question", "name": "¿Qué pasa con la configuración de eSIM + SIM física (doble SIM)?", "acceptedAnswer": {"@type": "Answer", "text": "La transferencia solo mueve la eSIM. La SIM física permanece en el dispositivo origen. Mueve físicamente la tarjeta nano‑SIM al nuevo dispositivo."}},
-    {"@type": "Question", "name": "¿Puedo transferir una eSIM de iPhone a Samsung Galaxy con un operador no compatible?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, mediante el método alternativo: solicita un nuevo código QR a tu operador. Funciona con cualquier operador aunque requiere contacto con soporte."}},
-    {"@type": "Question", "name": "¿Qué pasa si mi operador no admite transferencia pero quiero cambiar de dispositivo?", "acceptedAnswer": {"@type": "Answer", "text": "Contacta a tu operador y solicita un nuevo código QR. La mayoría ofrece este servicio, aunque puede tener un coste adicional."}}
-  ]
-}
-</script>
 
 
 

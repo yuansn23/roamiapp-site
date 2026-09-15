@@ -396,24 +396,5 @@ La série iPhone 17 fait de l'eSIM la norme – pas seulement une option. Que vo
 **L'avenir est là** : L'eSIM n'est pas seulement une évolution technologique, mais aussi une révolution dans la gestion de l'identité numérique. L'iPhone 17 et Roami sont prêts à vous offrir une connectivité mondiale transparente.
 
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "inLanguage": "fr",
-  "mainEntity": [
-    {"@type": "Question", "name": "Je voyage en Chine avec un iPhone 17 version américaine (sans SIM). Comment puis-je rester connecté ?", "acceptedAnswer": {"@type": "Answer", "text": "Vous pouvez acheter un forfait de données pour la Chine directement dans l'application Roami. Roami se connecte automatiquement aux signaux 5G locaux à l'arrivée via des protocoles d'itinérance — aucun tiroir SIM physique requis."}},
-    {"@type": "Question", "name": "La suppression d'une eSIM affecte-t-elle ma ligne SIM physique ?", "acceptedAnswer": {"@type": "Answer", "text": "Pas du tout. L'eSIM et la SIM physique fonctionnent sur des circuits indépendants. Vous pouvez activer ou désactiver n'importe quelle ligne sans interférence."}},
-    {"@type": "Question", "name": "Roami prend-il en charge le partage de connexion personnelle sur iPhone 17 ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. Tous les forfaits Roami pour iPhone 17 incluent une prise en charge complète du partage de connexion, optimisée pour la puce A19 afin de minimiser la génération de chaleur lors du partage."}},
-    {"@type": "Question", "name": "Pourquoi mon eSIM est-elle bloquée sur « Activation en cours » ?", "acceptedAnswer": {"@type": "Answer", "text": "Cela est souvent dû à une connexion Wi-Fi instable. Assurez-vous d'être sur un réseau stable, ou essayez d'activer et désactiver le mode Avion pour rafraîchir la bande de base."}},
-    {"@type": "Question", "name": "Mon iPhone 17 est-il verrouillé par un opérateur ?", "acceptedAnswer": {"@type": "Answer", "text": "Allez dans Réglages > Général > Informations et faites défiler jusqu'à Verrouillage opérateur. Il devrait indiquer « Aucune restriction SIM ». S'il est verrouillé, contactez votre opérateur (Orange, SFR, Free ou Bouygues) pour demander un déverrouillage."}},
-    {"@type": "Question", "name": "Le code QR indique « Invalide » ou « Expiré » après le scan ?", "acceptedAnswer": {"@type": "Answer", "text": "Les profils eSIM expirent généralement 24 à 72 heures après leur émission. Contactez votre opérateur pour réémettre un nouveau code QR, puis activez dans l'heure."}},
-    {"@type": "Question", "name": "L'eSIM affiche « Aucun service » — que puis-je faire ?", "acceptedAnswer": {"@type": "Answer", "text": "Allez dans Réglages > Données cellulaires > appuyez sur l'eSIM > Sélection du réseau. Désactivez Automatique, sélectionnez manuellement un autre opérateur, attendez l'échec, puis repassez en Automatique pour forcer la ré-inscription."}},
-    {"@type": "Question", "name": "Toujours facturé après suppression de l'eSIM ?", "acceptedAnswer": {"@type": "Answer", "text": "Supprimer l'eSIM n'annule pas votre forfait. Contactez d'abord votre opérateur pour annuler le numéro/forfait, puis supprimez l'eSIM. Si déjà supprimée, fournissez votre EID pour une réémission du profil."}},
-    {"@type": "Question", "name": "Erreur de restauration DFU 53 ou 4013 ?", "acceptedAnswer": {"@type": "Answer", "text": "Cela indique un profil eSIM corrompu. Si votre appareil démarre, supprimez toutes les eSIM avant la restauration DFU. S'il ne démarre plus, utilisez l'option Ignorer le verrouillage eSIM d'Apple Configurator (iOS 26)."}},
-    {"@type": "Question", "name": "Puis-je activer une eSIM Orange sur mon iPhone 17 ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, l'eSIM Orange est entièrement compatible avec l'iPhone 17. Activez-la via l'application Orange ou en scannant le QR code reçu par e-mail."}}
-  ]
-}
-</script>
 
 *Cet article est basé sur la documentation technique officielle d'Apple (2025-2026), les spécifications GSMA et les tests opérateurs. Les fonctionnalités réelles peuvent varier en fonction des politiques des opérateurs, de la région et du modèle d'appareil.*

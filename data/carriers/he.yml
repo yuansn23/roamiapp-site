@@ -1,0 +1,593 @@
+albania:
+  title: "מדריך מפעילי eSIM אלבניה"
+  desc_html: "מפעילים עיקריים באלבניה: Vodafone Albania, One Albania. למי יש קליטה טובה יותר? כולל שיחות ונקודה חמה? לחץ להשוואה מפורטת."
+  btn_text: "מפעילי אלבניה"
+  btn_url: "/carriers/albania-esim-carrier-guide/"
+
+algeria:
+  title: "מדריך מפעילי eSIM אלג'יריה"
+  desc_html: "מפעילים עיקריים באלג'יריה: Algerie Telecom, Ooredoo, Djezzy. מי תומך ב-eSIM? מבט מהיר על הבדלי מחירים וכיסוי."
+  btn_text: "מפעילי אלג'יריה"
+  btn_url: "/carriers/algeria-esim-carrier-guide/"
+
+argentina:
+  title: "מדריך מפעילי eSIM ארגנטינה"
+  desc_html: "שלושת המפעילים המובילים בארגנטינה: Claro, Movistar, Personal. השוואת שירותי eSIM, מה משתלם יותר לנדידה בינלאומית? לחץ לצפייה."
+  btn_text: "מפעילי ארגנטינה"
+  btn_url: "/carriers/argentina-esim-carrier-guide/"
+
+australia:
+  title: "מדריך מפעילי eSIM אוסטרליה"
+  desc_html: "ספקי eSIM עיקריים באוסטרליה: Telstra, Optus, Vodafone. השוואת כיסוי, מהירות ותוכניות כדי לעזור לך להחליט במהירות."
+  btn_text: "מפעילי אוסטרליה"
+  btn_url: "/carriers/australia-esim-carrier-guide/"
+
+azerbaijan:
+  title: "מדריך מפעילי eSIM אזרבייג'ן"
+  desc_html: "מפעילים עיקריים באזרבייג'ן: Azercell, Bakcell, Nar. איזה eSIM תומך בנקודה חמה? בדוק בפנים לפרטי מחירים."
+  btn_text: "מפעילי אזרבייג'ן"
+  btn_url: "/carriers/azerbaijan-esim-carrier-guide/"
+
+bahrain:
+  title: "מדריך מפעילי eSIM בחריין"
+  desc_html: "מפעילים בבחריין: Batelco, STC Bahrain, Zain Bahrain. טבלת השוואת תכונות eSIM, למד במבט אחד."
+  btn_text: "מפעילי בחריין"
+  btn_url: "/carriers/bahrain-esim-carrier-guide/"
+
+bangladesh:
+  title: "מדריך מפעילי eSIM בנגלדש"
+  desc_html: "מפעילים עיקריים בבנגלדש: Grameenphone, Robi, Banglalink. מי מציע eSIM? השווה כיסוי ומחירים."
+  btn_text: "מפעילי בנגלדש"
+  btn_url: "/carriers/bangladesh-esim-carrier-guide/"
+
+belarus:
+  title: "מדריך מפעילי eSIM בלארוס"
+  desc_html: "מפעילים בבלארוס: A1, MTS, Life. תמיכת eSIM והבדלי תוכניות – לחץ למדריך מלא."
+  btn_text: "מפעילי בלארוס"
+  btn_url: "/carriers/belarus-esim-carrier-guide/"
+
+belgium:
+  title: "מדריך מפעילי eSIM בלגיה"
+  desc_html: "ספקי eSIM עיקריים בבלגיה: Proximus, Orange, Base. השווה איכות רשת ומחירים כדי לעזור לך לבחור."
+  btn_text: "מפעילי בלגיה"
+  btn_url: "/carriers/belgium-esim-carrier-guide/"
+
+bolivia:
+  title: "מדריך מפעילי eSIM בוליביה"
+  desc_html: "מפעילים בבוליביה: Entel, Tigo, Viva. השוואת תכונות וכיסוי eSIM."
+  btn_text: "מפעילי בוליביה"
+  btn_url: "/carriers/bolivia-esim-carrier-guide/"
+
+bulgaria:
+  title: "מדריך מפעילי eSIM בולגריה"
+  desc_html: "שלושת המפעילים העיקריים בבולגריה: A1 Bulgaria, Yettel, Vivacom. השוואת תוכניות eSIM ומדיניות נדידה."
+  btn_text: "מפעילי בולגריה"
+  btn_url: "/carriers/bulgaria-esim-carrier-guide/"
+
+cambodia:
+  title: "מדריך מפעילי eSIM קמבודיה"
+  desc_html: "מפעילים עיקריים בקמבודיה: Smart, Metfone, Cellcard. איזה eSIM מהיר ביותר? כולל שיחות? ראה פרטים."
+  btn_text: "מפעילי קמבודיה"
+  btn_url: "/carriers/cambodia-esim-carrier-guide/"
+
+canada:
+  title: "מדריך מפעילי eSIM קנדה"
+  desc_html: "מפעילים עיקריים בקנדה: Rogers, Bell, Telus. השווה תכונות וכיסוי eSIM, וגם אפשרויות ידידותיות לתקציב."
+  btn_text: "מפעילי קנדה"
+  btn_url: "/carriers/canada-esim-carrier-guide/"
+
+chile:
+  title: "מדריך מפעילי eSIM צ'ילה"
+  desc_html: "מפעילים בצ'ילה: Entel, Movistar, Claro. השוואת שירותי eSIM, מה משתלם יותר? לחץ לצפייה."
+  btn_text: "מפעילי צ'ילה"
+  btn_url: "/carriers/chile-esim-carrier-guide/"
+
+china:
+  title: "מדריך מפעילי eSIM סין"
+  desc_html: "שירותי eSIM של שלושת המפעילים הגדולים בסין: China Mobile, China Unicom, China Telecom. השוואת כיסוי, מחירים ותמיכת מכשירים."
+  btn_text: "מפעילי סין"
+  btn_url: "/carriers/china-esim-carrier-guide/"
+
+colombia:
+  title: "מדריך מפעילי eSIM קולומביה"
+  desc_html: "מפעילים עיקריים בקולומביה: Claro, Movistar, Tigo. השוואת תכונות eSIM, איזה תומך בנקודה חמה?"
+  btn_text: "מפעילי קולומביה"
+  btn_url: "/carriers/colombia-esim-carrier-guide/"
+
+costa-rica:
+  title: "מדריך מפעילי eSIM קוסטה ריקה"
+  desc_html: "מפעילים עיקריים בקוסטה ריקה: ICE Kolbi, Claro, Movistar. תוכניות eSIM והבדלי כיסוי במבט אחד."
+  btn_text: "מפעילי קוסטה ריקה"
+  btn_url: "/carriers/costa-rica-esim-carrier-guide/"
+
+croatia:
+  title: "מדריך מפעילי eSIM קרואטיה"
+  desc_html: "מפעילים בקרואטיה: Hrvatski Telekom, A1 Croatia, Telemach. תמיכת eSIM ומדיניות נדידה."
+  btn_text: "מפעילי קרואטיה"
+  btn_url: "/carriers/croatia-esim-carrier-guide/"
+
+cyprus:
+  title: "מדריך מפעילי eSIM קפריסין"
+  desc_html: "מפעילים עיקריים בקפריסין: Cyta, Epic, Primetel. השוואת תכונות eSIM כולל מידע על שיחות ונקודה חמה."
+  btn_text: "מפעילי קפריסין"
+  btn_url: "/carriers/cyprus-esim-carrier-guide/"
+
+czech-republic:
+  title: "מדריך מפעילי eSIM צ'כיה"
+  desc_html: "מפעילים בצ'כיה: O2 Czech, Vodafone, T-Mobile. השוואת תוכניות וכיסוי eSIM, בחירה מהירה."
+  btn_text: "מפעילי צ'כיה"
+  btn_url: "/carriers/czech-republic-esim-carrier-guide/"
+
+denmark:
+  title: "מדריך מפעילי eSIM דנמרק"
+  desc_html: "ספקי eSIM עיקריים בדנמרק: TDC Net, Telenor, 3 Denmark. הבדלי מהירות ומחירים – לחץ לצפייה."
+  btn_text: "מפעילי דנמרק"
+  btn_url: "/carriers/denmark-esim-carrier-guide/"
+
+dominican:
+  title: "מדריך מפעילי eSIM דומיניקנית"
+  desc_html: "מפעילים בדומיניקנית: Claro, Altice, Viva. טבלת השוואת תכונות eSIM."
+  btn_text: "מפעילי דומיניקנית"
+  btn_url: "/carriers/dominican-esim-carrier-guide/"
+
+dominican-republic:
+  title: "מדריך מפעילי eSIM הרפובליקה הדומיניקנית"
+  desc_html: "מפעילים עיקריים ברפובליקה הדומיניקנית: Claro, Altice, Viva. כיסוי eSIM ותמיכה בנקודה חמה במבט אחד."
+  btn_text: "מפעילי הרפובליקה הדומיניקנית"
+  btn_url: "/carriers/dominican-republic-esim-carrier-guide/"
+
+ecuador:
+  title: "מדריך מפעילי eSIM אקוודור"
+  desc_html: "מפעילים באקוודור: Claro, Movistar, CNT. איזה eSIM משתלם יותר? ראה בפנים."
+  btn_text: "מפעילי אקוודור"
+  btn_url: "/carriers/ecuador-esim-carrier-guide/"
+
+egypt:
+  title: "מדריך מפעילי eSIM מצרים"
+  desc_html: "מפעילים עיקריים במצרים: Orange Egypt, Vodafone Egypt, Etisalat. השוואת שירותי eSIM והמלצות תוכניות."
+  btn_text: "מפעילי מצרים"
+  btn_url: "/carriers/egypt-esim-carrier-guide/"
+
+estonia:
+  title: "מדריך מפעילי eSIM אסטוניה"
+  desc_html: "מפעילים באסטוניה: Telia, Elisa, Tele2. בדיקה מהירה של תמיכת eSIM ומחירים."
+  btn_text: "מפעילי אסטוניה"
+  btn_url: "/carriers/estonia-esim-carrier-guide/"
+
+ethiopia:
+  title: "מדריך מפעילי eSIM אתיופיה"
+  desc_html: "מפעילים באתיופיה: Ethio Telecom, Safaricom Ethiopia. השוואת תוכניות וכיסוי eSIM."
+  btn_text: "מפעילי אתיופיה"
+  btn_url: "/carriers/ethiopia-esim-carrier-guide/"
+
+europe:
+  title: "מדריך מפעילי eSIM אירופה"
+  desc_html: "המלצות eSIM כלל-אירופיות: Orange, Vodafone, Deutsche Telekom. מכסה נדידה רב-מדינתית והשוואות מחירים."
+  btn_text: "מפעילי אירופה"
+  btn_url: "/carriers/europe-esim-carrier-guide/"
+
+fiji:
+  title: "מדריך מפעילי eSIM פיג'י"
+  desc_html: "מפעילים עיקריים בפיג'י: Vodafone Fiji, Digicel Fiji. הבדלי תכונות וכיסוי eSIM."
+  btn_text: "מפעילי פיג'י"
+  btn_url: "/carriers/fiji-esim-carrier-guide/"
+
+finland:
+  title: "מדריך מפעילי eSIM פינלנד"
+  desc_html: "מפעילים בפינלנד: Telia Finland, Elisa, DNA. השוואת תוכניות ומהירות eSIM, כולל תמיכה בנקודה חמה."
+  btn_text: "מפעילי פינלנד"
+  btn_url: "/carriers/finland-esim-carrier-guide/"
+
+france:
+  title: "מדריך מפעילי eSIM צרפת"
+  desc_html: "מפעילים עיקריים בצרפת: Orange, SFR, Bouygues Telecom. השוואת שירותי eSIM מפורטת כדי לעזור לך לבחור."
+  btn_text: "מפעילי צרפת"
+  btn_url: "/carriers/france-esim-carrier-guide/"
+
+germany:
+  title: "מדריך מפעילי eSIM גרמניה"
+  desc_html: "שלושת המפעילים הגדולים בגרמניה: Deutsche Telekom, Vodafone, O2. ניתוח מלא של כיסוי eSIM ומחירים."
+  btn_text: "מפעילי גרמניה"
+  btn_url: "/carriers/germany-esim-carrier-guide/"
+
+ghana:
+  title: "מדריך מפעילי eSIM גאנה"
+  desc_html: "מפעילים עיקריים בגאנה: MTN Ghana, Vodafone Ghana, AirtelTigo. בדיקת שירות eSIM מהירה."
+  btn_text: "מפעילי גאנה"
+  btn_url: "/carriers/ghana-esim-carrier-guide/"
+
+greece:
+  title: "מדריך מפעילי eSIM יוון"
+  desc_html: "מפעילים ביוון: Cosmote, Vodafone Greece, Nova. השווה תוכניות וכיסוי eSIM."
+  btn_text: "מפעילי יוון"
+  btn_url: "/carriers/greece-esim-carrier-guide/"
+
+guatemala:
+  title: "מדריך מפעילי eSIM גואטמלה"
+  desc_html: "מפעילים עיקריים בגואטמלה: Claro, Tigo, Movistar. השוואת תכונות eSIM ומחירים."
+  btn_text: "מפעילי גואטמלה"
+  btn_url: "/carriers/guatemala-esim-carrier-guide/"
+
+hong-kong:
+  title: "מדריך מפעילי eSIM הונג קונג"
+  desc_html: "מפעילים עיקריים בהונג קונג: CSL, China Mobile Hong Kong, 3 Hong Kong, SmarTone. השוואת שירותי eSIM ומדיניות נדידה."
+  btn_text: "מפעילי הונג קונג"
+  btn_url: "/carriers/hong-kong-esim-carrier-guide/"
+
+hungary:
+  title: "מדריך מפעילי eSIM הונגריה"
+  desc_html: "מפעילים בהונגריה: Magyar Telekom, Yettel Hungary, Vodafone Hungary. כיסוי ותוכניות eSIM."
+  btn_text: "מפעילי הונגריה"
+  btn_url: "/carriers/hungary-esim-carrier-guide/"
+
+iceland:
+  title: "מדריך מפעילי eSIM איסלנד"
+  desc_html: "מפעילים באיסלנד: Siminn, Vodafone Iceland, Nova. תכונות eSIM והשוואת מהירות."
+  btn_text: "מפעילי איסלנד"
+  btn_url: "/carriers/iceland-esim-carrier-guide/"
+
+india:
+  title: "מדריך מפעילי eSIM הודו"
+  desc_html: "מפעילים עיקריים בהודו: Jio, Airtel, Vi. תוכניות eSIM וטווחי כיסוי כדי לעזור לך להחליט במהירות."
+  btn_text: "מפעילי הודו"
+  btn_url: "/carriers/india-esim-carrier-guide/"
+
+indonesia:
+  title: "מדריך מפעילי eSIM אינדונזיה"
+  desc_html: "מפעילים באינדונזיה: Telkomsel, XL Axiata, Indosat. פרטי שירות eSIM והשוואת מחירים."
+  btn_text: "מפעילי אינדונזיה"
+  btn_url: "/carriers/indonesia-esim-carrier-guide/"
+
+iran:
+  title: "מדריך מפעילי eSIM איראן"
+  desc_html: "מפעילים עיקריים באיראן: MCI, Irancell, Rightel. תמיכת eSIM וכיסוי."
+  btn_text: "מפעילי איראן"
+  btn_url: "/carriers/iran-esim-carrier-guide/"
+
+iraq:
+  title: "מדריך מפעילי eSIM עיראק"
+  desc_html: "מפעילים בעיראק: AsiaCell, Zain Iraq, Korek. השוואת תכונות eSIM."
+  btn_text: "מפעילי עיראק"
+  btn_url: "/carriers/iraq-esim-carrier-guide/"
+
+ireland:
+  title: "מדריך מפעילי eSIM אירלנד"
+  desc_html: "מפעילים באירלנד: Eir, Vodafone Ireland, Three Ireland. תוכניות eSIM ומדיניות נדידה."
+  btn_text: "מפעילי אירלנד"
+  btn_url: "/carriers/ireland-esim-carrier-guide/"
+
+israel:
+  title: "מדריך מפעילי eSIM ישראל"
+  desc_html: "מפעילים בישראל: Pelephone, Cellcom, Partner. השוואת eSIM כולל מידע על שיחות ונקודה חמה."
+  btn_text: "מפעילי ישראל"
+  btn_url: "/carriers/israel-esim-carrier-guide/"
+
+italy:
+  title: "מדריך מפעילי eSIM איטליה"
+  desc_html: "מפעילים עיקריים באיטליה: TIM, Vodafone Italy, WindTre. השוואת כיסוי ומחירי eSIM."
+  btn_text: "מפעילי איטליה"
+  btn_url: "/carriers/italy-esim-carrier-guide/"
+
+japan:
+  title: "מדריך מפעילי eSIM יפן"
+  desc_html: "מפעילים עיקריים ביפן: Docomo, SoftBank, KDDI au. השוואת שירותי eSIM, מה טוב לתיירים? לחץ לצפייה."
+  btn_text: "מפעילי יפן"
+  btn_url: "/carriers/japan-esim-carrier-guide/"
+
+jordan:
+  title: "מדריך מפעילי eSIM ירדן"
+  desc_html: "מפעילים בירדן: Zain Jordan, Orange Jordan, Umniah. בדיקת תכונות eSIM מהירה."
+  btn_text: "מפעילי ירדן"
+  btn_url: "/carriers/jordan-esim-carrier-guide/"
+
+kazakhstan:
+  title: "מדריך מפעילי eSIM קזחסטן"
+  desc_html: "מפעילים בקזחסטן: Kcell, Beeline, Tele2. תוכניות eSIM והבדלי כיסוי."
+  btn_text: "מפעילי קזחסטן"
+  btn_url: "/carriers/kazakhstan-esim-carrier-guide/"
+
+kenya:
+  title: "מדריך מפעילי eSIM קניה"
+  desc_html: "מפעילים עיקריים בקניה: Safaricom, Airtel Kenya, Telkom Kenya. השוואת שירותי eSIM."
+  btn_text: "מפעילי קניה"
+  btn_url: "/carriers/kenya-esim-carrier-guide/"
+
+kuwait:
+  title: "מדריך מפעילי eSIM כווית"
+  desc_html: "מפעילים בכווית: Zain Kuwait, Ooredoo Kuwait, STC Kuwait. טבלת השוואת תכונות eSIM."
+  btn_text: "מפעילי כווית"
+  btn_url: "/carriers/kuwait-esim-carrier-guide/"
+
+latvia:
+  title: "מדריך מפעילי eSIM לטביה"
+  desc_html: "מפעילים בלטביה: LMT, Tele2 Latvia, Bite Latvija. תמיכת eSIM ומחירים."
+  btn_text: "מפעילי לטביה"
+  btn_url: "/carriers/latvia-esim-carrier-guide/"
+
+lithuania:
+  title: "מדריך מפעילי eSIM ליטא"
+  desc_html: "מפעילים בליטא: Telia Lithuania, Bitė Lithuania, Tele2 Lithuania. פרטי תוכנית eSIM."
+  btn_text: "מפעילי ליטא"
+  btn_url: "/carriers/lithuania-esim-carrier-guide/"
+
+luxembourg:
+  title: "מדריך מפעילי eSIM לוקסמבורג"
+  desc_html: "מפעילים בלוקסמבורג: POST Luxembourg, Orange Luxembourg, Tango. השוואת שירותי eSIM."
+  btn_text: "מפעילי לוקסמבורג"
+  btn_url: "/carriers/luxembourg-esim-carrier-guide/"
+
+macau:
+  title: "מדריך מפעילי eSIM מקאו"
+  desc_html: "מפעילים עיקריים במקאו: CTM, 3 Macau, China Telecom Macau. כיסוי eSIM ומדיניות נדידה."
+  btn_text: "מפעילי מקאו"
+  btn_url: "/carriers/macau-esim-carrier-guide/"
+
+malaysia:
+  title: "מדריך מפעילי eSIM מלזיה"
+  desc_html: "מפעילים במלזיה: Celcom, Maxis, Digi, UMobile. השוואת תכונות eSIM."
+  btn_text: "מפעילי מלזיה"
+  btn_url: "/carriers/malaysia-esim-carrier-guide/"
+
+maldives:
+  title: "מדריך מפעילי eSIM המלדיביים"
+  desc_html: "מפעילים במלדיביים: Dhiraagu, Ooredoo Maldives. תוכניות eSIM וכיסוי איים."
+  btn_text: "מפעילי המלדיביים"
+  btn_url: "/carriers/maldives-esim-carrier-guide/"
+
+malta:
+  title: "מדריך מפעילי eSIM מלטה"
+  desc_html: "מפעילים במלטה: GO Mobile, Melita, Vodafone Malta. בדיקת שירות eSIM מהירה."
+  btn_text: "מפעילי מלטה"
+  btn_url: "/carriers/malta-esim-carrier-guide/"
+
+mauritius:
+  title: "מדריך מפעילי eSIM מאוריציוס"
+  desc_html: "מפעילים במאוריציוס: MyT, Emtel, Chili. השוואת eSIM ומחירים."
+  btn_text: "מפעילי מאוריציוס"
+  btn_url: "/carriers/mauritius-esim-carrier-guide/"
+
+mexico:
+  title: "מדריך מפעילי eSIM מקסיקו"
+  desc_html: "מפעילים עיקריים במקסיקו: Telcel, Movistar, AT&T Mexico. השוואת כיסוי ותוכניות eSIM."
+  btn_text: "מפעילי מקסיקו"
+  btn_url: "/carriers/mexico-esim-carrier-guide/"
+
+mongolia:
+  title: "מדריך מפעילי eSIM מונגוליה"
+  desc_html: "מפעילים במונגוליה: Mobicom, Unitel, Skytel. תמיכת eSIM ומחירים."
+  btn_text: "מפעילי מונגוליה"
+  btn_url: "/carriers/mongolia-esim-carrier-guide/"
+
+montenegro:
+  title: "מדריך מפעילי eSIM מונטנגרו"
+  desc_html: "מפעילים במונטנגרו: Telenor Montenegro, Crnogorski Telekom, M:tel. השוואת תכונות eSIM."
+  btn_text: "מפעילי מונטנגרו"
+  btn_url: "/carriers/montenegro-esim-carrier-guide/"
+
+morocco:
+  title: "מדריך מפעילי eSIM מרוקו"
+  desc_html: "מפעילים במרוקו: Maroc Telecom, Orange Morocco, Inwi. השוואת שירותי eSIM."
+  btn_text: "מפעילי מרוקו"
+  btn_url: "/carriers/morocco-esim-carrier-guide/"
+
+myanmar:
+  title: "מדריך מפעילי eSIM מיאנמר"
+  desc_html: "מפעילים במיאנמר: Mytel, Telenor Myanmar, MPT, Ooredoo Myanmar. סקירת eSIM מהירה."
+  btn_text: "מפעילי מיאנמר"
+  btn_url: "/carriers/myanmar-esim-carrier-guide/"
+
+namibia:
+  title: "מדריך מפעילי eSIM נמיביה"
+  desc_html: "מפעילים בנמיביה: MTC Namibia, Telecom Namibia. תוכניות וכיסוי eSIM."
+  btn_text: "מפעילי נמיביה"
+  btn_url: "/carriers/namibia-esim-carrier-guide/"
+
+nepal:
+  title: "מדריך מפעילי eSIM נפאל"
+  desc_html: "מפעילים בנפאל: Ncell, Nepal Telecom. תכונות eSIM ומחירים."
+  btn_text: "מפעילי נפאל"
+  btn_url: "/carriers/nepal-esim-carrier-guide/"
+
+netherlands:
+  title: "מדריך מפעילי eSIM הולנד"
+  desc_html: "מפעילים עיקריים בהולנד: KPN, Vodafone, T-Mobile, Odido. השוואת שירותי eSIM מפורטת."
+  btn_text: "מפעילי הולנד"
+  btn_url: "/carriers/netherlands-esim-carrier-guide/"
+
+new-zealand:
+  title: "מדריך מפעילי eSIM ניו זילנד"
+  desc_html: "מפעילים בניו זילנד: Spark, One NZ, 2degrees. כיסוי eSIM ומדיניות נדידה."
+  btn_text: "מפעילי ניו זילנד"
+  btn_url: "/carriers/new-zealand-esim-carrier-guide/"
+
+nicaragua:
+  title: "מדריך מפעילי eSIM ניקרגואה"
+  desc_html: "מפעילים בניקרגואה: Claro, Movistar. השוואת תכונות eSIM."
+  btn_text: "מפעילי ניקרגואה"
+  btn_url: "/carriers/nicaragua-esim-carrier-guide/"
+
+nigeria:
+  title: "מדריך מפעילי eSIM ניגריה"
+  desc_html: "מפעילים עיקריים בניגריה: MTN Nigeria, Airtel Nigeria, Glo, 9mobile. השוואת שירותי eSIM."
+  btn_text: "מפעילי ניגריה"
+  btn_url: "/carriers/nigeria-esim-carrier-guide/"
+
+north-macedonia:
+  title: "מדריך מפעילי eSIM צפון מקדוניה"
+  desc_html: "מפעילים בצפון מקדוניה: Makedonski Telekom, A1 Macedonia. תוכניות eSIM ותמיכה."
+  btn_text: "מפעילי צפון מקדוניה"
+  btn_url: "/carriers/north-macedonia-esim-carrier-guide/"
+
+norway:
+  title: "מדריך מפעילי eSIM נורווגיה"
+  desc_html: "מפעילים בנורווגיה: Telenor, Telia Norway, Ice. השוואת כיסוי ומחירי eSIM."
+  btn_text: "מפעילי נורווגיה"
+  btn_url: "/carriers/norway-esim-carrier-guide/"
+
+oman:
+  title: "מדריך מפעילי eSIM עומאן"
+  desc_html: "מפעילים בעומאן: Omantel, Ooredoo Oman, Vodafone Oman. בדיקת תכונות eSIM מהירה."
+  btn_text: "מפעילי עומאן"
+  btn_url: "/carriers/oman-esim-carrier-guide/"
+
+pakistan:
+  title: "מדריך מפעילי eSIM פקיסטן"
+  desc_html: "מפעילים בפקיסטן: Jazz, Zong, Telenor Pakistan, Ufone. השוואת שירותי eSIM."
+  btn_text: "מפעילי פקיסטן"
+  btn_url: "/carriers/pakistan-esim-carrier-guide/"
+
+panama:
+  title: "מדריך מפעילי eSIM פנמה"
+  desc_html: "מפעילים בפנמה: +Móvil, Claro Panamá, Tigo. כיסוי ותוכניות eSIM."
+  btn_text: "מפעילי פנמה"
+  btn_url: "/carriers/panama-esim-carrier-guide/"
+
+peru:
+  title: "מדריך מפעילי eSIM פרו"
+  desc_html: "מפעילים בפרו: Movistar, Claro, Entel, Bitel. השוואת תכונות eSIM."
+  btn_text: "מפעילי פרו"
+  btn_url: "/carriers/peru-esim-carrier-guide/"
+
+philippines:
+  title: "מדריך מפעילי eSIM הפיליפינים"
+  desc_html: "מפעילים עיקריים בפיליפינים: Globe, Smart, DITO. השוואת תוכניות וכיסוי eSIM."
+  btn_text: "מפעילי הפיליפינים"
+  btn_url: "/carriers/philippines-esim-carrier-guide/"
+
+portugal:
+  title: "מדריך מפעילי eSIM פורטוגל"
+  desc_html: "מפעילים בפורטוגל: MEO, NOS, Vodafone Portugal. סקירת שירותי eSIM מפורטת."
+  btn_text: "מפעילי פורטוגל"
+  btn_url: "/carriers/portugal-esim-carrier-guide/"
+
+romania:
+  title: "מדריך מפעילי eSIM רומניה"
+  desc_html: "מפעילים ברומניה: Orange Romania, Vodafone Romania, Telekom Romania. השוואת eSIM."
+  btn_text: "מפעילי רומניה"
+  btn_url: "/carriers/romania-esim-carrier-guide/"
+
+russia:
+  title: "מדריך מפעילי eSIM רוסיה"
+  desc_html: "מפעילים עיקריים ברוסיה: MTS, Beeline, MegaFon, Tele2 Russia. תמיכת eSIM ומחירים."
+  btn_text: "מפעילי רוסיה"
+  btn_url: "/carriers/russia-esim-carrier-guide/"
+
+saudi-arabia:
+  title: "מדריך מפעילי eSIM ערב הסעודית"
+  desc_html: "מפעילים בערב הסעודית: STC, Mobily, Zain KSA. השוואת תכונות eSIM והמלצות תוכניות."
+  btn_text: "מפעילי ערב הסעודית"
+  btn_url: "/carriers/saudi-arabia-esim-carrier-guide/"
+
+singapore:
+  title: "מדריך מפעילי eSIM סינגפור"
+  desc_html: "שלושת המפעילים הגדולים בסינגפור: Singtel, StarHub, M1. השוואת שירותי eSIM ותוכניות לתיירים."
+  btn_text: "מפעילי סינגפור"
+  btn_url: "/carriers/singapore-esim-carrier-guide/"
+
+slovakia:
+  title: "מדריך מפעילי eSIM סלובקיה"
+  desc_html: "מפעילים בסלובקיה: Slovak Telekom, Orange Slovensko, O2 Slovakia. תוכניות eSIM."
+  btn_text: "מפעילי סלובקיה"
+  btn_url: "/carriers/slovakia-esim-carrier-guide/"
+
+south-africa:
+  title: "מדריך מפעילי eSIM דרום אפריקה"
+  desc_html: "מפעילים עיקריים בדרום אפריקה: Vodacom, MTN South Africa, Telkom, Cell C. השוואת eSIM."
+  btn_text: "מפעילי דרום אפריקה"
+  btn_url: "/carriers/south-africa-esim-carrier-guide/"
+
+south-korea:
+  title: "מדריך מפעילי eSIM דרום קוריאה"
+  desc_html: "שלושת המפעילים הגדולים בדרום קוריאה: SK Telecom, KT, LG U+. כיסוי ומחירי eSIM, מה מתאים לתיירים?"
+  btn_text: "מפעילי דרום קוריאה"
+  btn_url: "/carriers/south-korea-esim-carrier-guide/"
+
+spain:
+  title: "מדריך מפעילי eSIM ספרד"
+  desc_html: "מפעילים בספרד: Movistar, Vodafone Spain, Orange Spain, MásMóvil. סקירת שירותי eSIM מפורטת."
+  btn_text: "מפעילי ספרד"
+  btn_url: "/carriers/spain-esim-carrier-guide/"
+
+sweden:
+  title: "מדריך מפעילי eSIM שוודיה"
+  desc_html: "מפעילים בשוודיה: Telia Sweden, Tele2, Telenor Sweden, Tre. תוכניות וכיסוי eSIM."
+  btn_text: "מפעילי שוודיה"
+  btn_url: "/carriers/sweden-esim-carrier-guide/"
+
+switzerland:
+  title: "מדריך מפעילי eSIM שווייץ"
+  desc_html: "מפעילים בשווייץ: Swisscom, Sunrise, Salt. השוואת תכונות eSIM ומדיניות נדידה."
+  btn_text: "מפעילי שווייץ"
+  btn_url: "/carriers/switzerland-esim-carrier-guide/"
+
+taiwan:
+  title: "מדריך מפעילי eSIM טייוואן"
+  desc_html: "מפעילים עיקריים בטייוואן: Chunghwa Telecom, Taiwan Mobile, FarEasTone. השוואת שירותי eSIM."
+  btn_text: "מפעילי טייוואן"
+  btn_url: "/carriers/taiwan-esim-carrier-guide/"
+
+thailand:
+  title: "מדריך מפעילי eSIM תאילנד"
+  desc_html: "שלושת המפעילים המובילים בתאילנד: AIS, TrueMove H, DTAC. תוכניות eSIM וחבילות בלעדיות לתיירים."
+  btn_text: "מפעילי תאילנד"
+  btn_url: "/carriers/thailand-esim-carrier-guide/"
+
+tunisia:
+  title: "מדריך מפעילי eSIM תוניסיה"
+  desc_html: "מפעילים בתוניסיה: Tunisie Telecom, Orange Tunisie, Ooredoo Tunisie. תמיכת eSIM."
+  btn_text: "מפעילי תוניסיה"
+  btn_url: "/carriers/tunisia-esim-carrier-guide/"
+
+turkey:
+  title: "מדריך מפעילי eSIM טורקיה"
+  desc_html: "מפעילים בטורקיה: Turkcell, Vodafone Turkey, Türk Telekom. השוואת שירותי eSIM."
+  btn_text: "מפעילי טורקיה"
+  btn_url: "/carriers/turkey-esim-carrier-guide/"
+
+uganda:
+  title: "מדריך מפעילי eSIM אוגנדה"
+  desc_html: "מפעילים באוגנדה: MTN Uganda, Airtel Uganda. תוכניות וכיסוי eSIM."
+  btn_text: "מפעילי אוגנדה"
+  btn_url: "/carriers/uganda-esim-carrier-guide/"
+
+ukraine:
+  title: "מדריך מפעילי eSIM אוקראינה"
+  desc_html: "מפעילים באוקראינה: Kyivstar, Vodafone Ukraine, Lifecell. בדיקת תכונות eSIM מהירה."
+  btn_text: "מפעילי אוקראינה"
+  btn_url: "/carriers/ukraine-esim-carrier-guide/"
+
+united-arab-emirates:
+  title: "מדריך מפעילי eSIM איחוד האמירויות הערביות"
+  desc_html: "מפעילים באיחוד האמירויות: Etisalat, du. השוואת שירותי eSIM ותוכניות לתיירים."
+  btn_text: "מפעילי איחוד האמירויות"
+  btn_url: "/carriers/united-arab-emirates-esim-carrier-guide/"
+
+united-kingdom:
+  title: "מדריך מפעילי eSIM הממלכה המאוחדת"
+  desc_html: "מפעילים עיקריים בממלכה המאוחדת: EE, Vodafone UK, O2, Three. השוואת תוכניות וכיסוי eSIM."
+  btn_text: "מפעילי הממלכה המאוחדת"
+  btn_url: "/carriers/united-kingdom-esim-carrier-guide/"
+
+united-states:
+  title: "מדריך מפעילי eSIM ארצות הברית"
+  desc_html: "שלושת המפעילים הגדולים בארה״ב: AT&T, T-Mobile, Verizon. השוואת תכונות eSIM – מי כולל שיחות ונקודה חמה?"
+  btn_text: "מפעילי ארצות הברית"
+  btn_url: "/carriers/united-states-esim-carrier-guide/"
+
+uruguay:
+  title: "מדריך מפעילי eSIM אורוגוואי"
+  desc_html: "מפעילים באורוגוואי: Antel, Claro Uruguay, Movistar Uruguay. פרטי שירות eSIM."
+  btn_text: "מפעילי אורוגוואי"
+  btn_url: "/carriers/uruguay-esim-carrier-guide/"
+
+venezuela:
+  title: "מדריך מפעילי eSIM ונצואלה"
+  desc_html: "מפעילים בוונצואלה: Movistar, Digitel, Movilnet. השוואת תכונות eSIM."
+  btn_text: "מפעילי ונצואלה"
+  btn_url: "/carriers/venezuela-esim-carrier-guide/"
+
+vietnam:
+  title: "מדריך מפעילי eSIM וייטנאם"
+  desc_html: "מפעילים בווייטנאם: Viettel, Vinaphone, Mobifone. השוואת תוכניות וכיסוי eSIM."
+  btn_text: "מפעילי וייטנאם"
+  btn_url: "/carriers/vietnam-esim-carrier-guide/"

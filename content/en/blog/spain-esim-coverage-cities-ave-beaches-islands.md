@@ -456,35 +456,3 @@ For official device compatibility, check [Apple Support](https://support.apple.c
 ## Schema Markup
 
 ```html
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Spain eSIM Coverage Guide 2026: Cities, AVE Trains & Islands",
-  "description": "Spain eSIM coverage by city: Barcelona 5G, Madrid, AVE trains, Costa del Sol, Canary Islands and Balearic Islands. Find which carrier works best for your itinerary.",
-  "author": {
-    "@type": "Organization",
-    "name": "Roami Team"
-  },
-  "datePublished": "2026-08-19",
-  "dateModified": "2026-08-19",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Roami"
-  }
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "Which Spain eSIM has the best coverage in Barcelona?", "acceptedAnswer": {"@type": "Answer", "text": "Orange leads in Barcelona's 5G coverage, particularly in the 22@ district and Eixample. Movistar is a close second with better indoor penetration in historic buildings. Barcelona reaches 98% 5G coverage."}},
-    {"@type": "Question", "name": "Can I use a Spain eSIM on AVE trains?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Movistar provides 96% coverage on Madrid-Barcelona; Orange 95%; Vodafone 90%. Video calls are unreliable due to speed-induced jitter. Use AVE time for emails and offline work."}},
-    {"@type": "Question", "name": "Which carrier has the best rural coverage in Spain?", "acceptedAnswer": {"@type": "Answer", "text": "Movistar at 99% rural coverage, compared to 93% for Orange, 89% for Vodafone, and 82% for Yoigo. In mountainous regions, Movistar maintains signal when others fail."}},
-    {"@type": "Question", "name": "Does my Spain eSIM work on the Madrid Metro?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. 95% of stations and 85% of tunnels now have coverage. Line 8 (airport) and Line 6 have the best coverage. Movistar delivers the fastest metro speeds."}},
-    {"@type": "Question", "name": "Which Spain eSIM has the best coverage in the Canary Islands?", "acceptedAnswer": {"@type": "Answer", "text": "Vodafone has best 5G in Lanzarote and Fuerteventura. Movistar leads in Tenerife and Gran Canaria. For island-hopping, a multi-network eSIM with auto-switching is the most reliable choice."}}
-  ]
-}
-</script>

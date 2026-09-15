@@ -766,33 +766,6 @@ Most providers send email receipts immediately upon purchase. For corporate trav
 
 A [USA travel eSIM](/united-states-esim/) with automatic network switching is ideal for travelers who need reliable connectivity on business trips. A [eSIM free trial](/free-esim/) lets you test the setup before committing. Code **WEB20** takes 20% off any plan.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Best USA eSIM for Business Travel and Digital Nomads",
-  "description": "Best eSIM for US business trips and remote work. Hotspot speeds, US phone numbers, and long-stay pricing compared. Roami offers auto carrier switching.",
-  "image": "https://www.roamiapp.com/img/esim/usa/usa-esim-business-digital-nomad.jpg",
-  "datePublished": "2026-08-17",
-  "dateModified": "2026-08-17",
-  "author": {
-    "@type": "Organization",
-    "name": "Roami Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Roami",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.roamiapp.com/img/logo.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.roamiapp.com/blog/usa-esim-business-digital-nomad/"
-  }
-}
-</script>
 
 *Last updated August 2026.*
 

@@ -528,24 +528,5 @@ L'activation d'une eSIM est un processus rapide et simple — dans la plupart de
 L'avenir de la connectivité mobile est numérique. Avec ce guide, vous êtes parfaitement équipé pour activer votre eSIM sans problème et rester connecté partout dans le monde. Pour approfondir, consultez nos autres ressources : **[qu'est-ce que l'eSIM](/faq/what-is-esim/)** pour comprendre la technologie, ou **[notre sélection de forfaits eSIM](/free-esim/)** pour trouver l'offre adaptée à vos besoins.
 
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "inLanguage": "fr",
-  "mainEntity": [
-    {"@type": "Question", "name": "Y a-t-il des frais pour activer une eSIM ?", "acceptedAnswer": {"@type": "Answer", "text": "L'installation du profil eSIM est gratuite — vous ne payez que le forfait acheté. Certains opérateurs français facturent des frais de mise à disposition (environ 10 € chez Orange et Bouygues, gratuit chez SFR et Free), mais scanner et installer le profil ne coûte rien."}},
-    {"@type": "Question", "name": "Puis-je activer mon eSIM avant de voyager ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, c'est fortement recommandé. Installez l'eSIM à la maison avec une connexion Wi-Fi fiable. Le forfait restera inactif jusqu'à ce que votre téléphone se connecte au réseau partenaire dans le pays de destination. Vous gagnerez du temps et éviterez le stress à l'arrivée."}},
-    {"@type": "Question", "name": "Comment basculer entre ma SIM physique et mon eSIM ?", "acceptedAnswer": {"@type": "Answer", "text": "Dans vos paramètres cellulaires, les deux lignes sont listées. Désactivez votre SIM physique ou définissez-la pour Voix/SMS et l'eSIM pour les Données. Sur iPhone, le Centre de contrôle permet de basculer rapidement entre les lignes de données actives."}},
-    {"@type": "Question", "name": "Puis-je utiliser une eSIM sur plusieurs appareils ?", "acceptedAnswer": {"@type": "Answer", "text": "Non, un profil eSIM est lié à un seul EID, donc à un seul appareil. Le transfert est possible mais nécessite de désactiver le profil sur l'ancien appareil. Pour le même numéro sur plusieurs appareils, demandez l'option Multi-SIM à votre opérateur."}},
-    {"@type": "Question", "name": "Pourquoi mon eSIM affiche « Aucun service » après activation ?", "acceptedAnswer": {"@type": "Answer", "text": "La cause la plus fréquente est l'itinérance des données non activée. Activez-la dans les paramètres de votre eSIM. À l'étranger, c'est obligatoire pour que l'eSIM de voyage fonctionne. Si le problème persiste, essayez de sélectionner manuellement le réseau local dans les paramètres."}},
-    {"@type": "Question", "name": "Que faire si j'ai perdu mon code QR ?", "acceptedAnswer": {"@type": "Answer", "text": "Contactez le support de votre fournisseur eSIM. La plupart peuvent regénérer un QR code ou réafficher les données d'activation dans votre espace client. Conservez toujours l'email de confirmation d'achat qui contient les informations nécessaires pour une réinstallation."}},
-    {"@type": "Question", "name": "Quelle eSIM choisir pour voyager ?", "acceptedAnswer": {"@type": "Answer", "text": "Pour les courts séjours (1-15 jours), privilégiez un forfait eSIM de voyage installé avant le départ. Pour les longs séjours (+30 jours), une eSIM locale peut être plus économique. Comparez le prix au gigaoctet et vérifiez le réseau partenaire utilisé dans le pays visité."}},
-    {"@type": "Question", "name": "Combien coûte une eSIM de voyage ?", "acceptedAnswer": {"@type": "Answer", "text": "Une eSIM de voyage pour 5 Go / 7 jours coûte en moyenne 5 à 10 €. Pour des volumes plus importants (20-50 Go) ou des forfaits multi-pays, comptez 20 à 50 €. Les eSIM régionales (Europe, Asie) sont généralement plus économiques que les eSIM par pays."}},
-    {"@type": "Question", "name": "Est-ce que je peux conserver mon numéro de téléphone en passant à l'eSIM ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, la conversion d'une SIM physique en eSIM conserve votre numéro de téléphone. La procédure se fait depuis l'application ou l'espace client de votre opérateur. Orange, SFR, Bouygues et Free permettent cette conversion en moins d'une heure."}},
-    {"@type": "Question", "name": "Puis-je utiliser une eSIM prépayée sans engagement ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, de nombreux opérateurs proposent des forfaits eSIM prépayés sans engagement, rechargeables mois par mois — comme Sosh, Red by SFR et B&YOU en France. Vous payez uniquement ce dont vous avez besoin, sans justificatif de domicile ni RIB."}}
-  ]
-}
-</script>
 
 *Basé sur la documentation officielle d'Apple (iOS 19), Google Support (Android 15+), les standards GSMA SGP.22 et les informations des opérateurs français (Orange, SFR, Bouygues, Free). Dernière révision : août 2026.*

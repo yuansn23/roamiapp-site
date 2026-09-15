@@ -497,24 +497,5 @@ L'activation d'une eSIM sur iPhone est une procédure simple qui prend moins de 
 Pour approfondir : **[Qu'est-ce qu'une eSIM ?](/faq/what-is-esim/)**, **[activer une eSIM (tous appareils)](/faq/how-to-activate-an-esim/)**, ou **[guide de dépannage](/faq/esim-deep-troubleshooting-guide-2026/)** en cas de problème.
 
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "inLanguage": "fr",
-  "mainEntity": [
-    {"@type": "Question", "name": "Combien d'eSIM puis-je avoir sur mon iPhone ?", "acceptedAnswer": {"@type": "Answer", "text": "Vous pouvez stocker 8 profils eSIM ou plus. Sur iPhone 13 et plus récents, deux eSIM peuvent être actives simultanément (double eSIM active). Sur iPhone XS à 12, une seule eSIM est active, l'autre ligne doit être une SIM physique."}},
-    {"@type": "Question", "name": "Puis-je utiliser ma SIM physique et mon eSIM en même temps ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. Tous les iPhone (sauf modèles USA eSIM-only) supportent la double SIM : une nano-SIM et une eSIM actives simultanément. Pour les problèmes de double SIM, consultez notre guide 12 correctifs double eSIM."}},
-    {"@type": "Question", "name": "L'eSIM consomme-t-elle plus de batterie ?", "acceptedAnswer": {"@type": "Answer", "text": "Non, la consommation est identique à une SIM physique (différence inférieure à 1 %). En revanche, deux lignes actives en zone de signal faible peuvent augmenter la consommation de 5 à 15 %."}},
-    {"@type": "Question", "name": "Puis-je supprimer mon eSIM après le voyage ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. Allez dans Réglages > Données cellulaires, sélectionnez l'eSIM, puis Supprimer le forfait. Ne supprimez jamais une eSIM active pendant un voyage — les QR codes sont généralement à usage unique."}},
-    {"@type": "Question", "name": "Mon iPhone est sous iOS 17, puis-je activer une eSIM ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. L'eSIM est supportée depuis iOS 12.1. Toutes les versions ultérieures (iOS 13 à 19) la supportent pleinement sans aucune restriction."}},
-    {"@type": "Question", "name": "L'iPhone 14/15 acheté en France supporte-t-il l'eSIM ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. Les modèles français conservent l'emplacement SIM physique ET supportent l'eSIM, contrairement aux modèles américains qui sont eSIM uniquement."}},
-    {"@type": "Question", "name": "Puis-je transférer mon eSIM d'un ancien iPhone vers un nouveau ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. iOS 18+ propose le transfert rapide d'eSIM entre deux iPhone via Bluetooth. Placez-les à proximité et suivez les instructions. Pour le transfert vers Android, contactez votre opérateur."}},
-    {"@type": "Question", "name": "Que faire si l'activation échoue après plusieurs tentatives ?", "acceptedAnswer": {"@type": "Answer", "text": "Supprimez le profil partiellement installé (Réglages > Données cellulaires > Supprimer). Demandez un nouveau QR code à votre opérateur. Réessayez sur un Wi-Fi différent, sans VPN."}},
-    {"@type": "Question", "name": "Puis-je utiliser une eSIM de voyage pour les appels ?", "acceptedAnswer": {"@type": "Answer", "text": "La plupart des eSIM de voyage sont data-only (données uniquement). Utilisez WhatsApp, FaceTime, Signal ou Skype pour vos appels via les données mobiles."}},
-    {"@type": "Question", "name": "Comment savoir si mon iPhone est déverrouillé ?", "acceptedAnswer": {"@type": "Answer", "text": "Réglages > Général > Informations > Verrouillage opérateur. « Aucune restriction SIM » signifie que l'iPhone est déverrouillé. Contactez votre opérateur pour le déverrouillage — gratuit après 3 mois en France."}}
-  ]
-}
-</script>
 
 *Basé sur la documentation officielle d'Apple iOS 19, les spécifications GSMA SGP.22 et les informations des opérateurs français. Dernière révision : août 2026.*

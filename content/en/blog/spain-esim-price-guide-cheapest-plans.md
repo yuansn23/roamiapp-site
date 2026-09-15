@@ -380,29 +380,3 @@ For more detailed coverage information, see our [Spain coverage guide](/blog/spa
 Add these JSON‑LD scripts to your page's `<head>` to enable rich snippets:
 
 ```html
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Cheapest Spain eSIM Plans 2026: Price Comparison",
-  "description": "Compare the cheapest Spain eSIM plans for 2026 from 1GB to 50GB. Find the best value for your trip.",
-  "author": { "@type": "Organization", "name": "Roami Team" },
-  "datePublished": "2026-08-19",
-  "dateModified": "2026-08-19",
-  "publisher": { "@type": "Organization", "name": "Roami" }
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "What is the cheapest Spain eSIM plan?", "acceptedAnswer": {"@type": "Answer", "text": "Multi‑Network's 1GB/7‑day at EUR 1.50 is the cheapest entry. For best value, the 5GB/7‑day at EUR 7.50 is our top pick."}},
-    {"@type": "Question", "name": "How much does a Spain eSIM cost per GB?", "acceptedAnswer": {"@type": "Answer", "text": "From EUR 0.50 (local 50GB) to EUR 5 (local 1GB). International providers average EUR 0.70–2.00/GB."}},
-    {"@type": "Question", "name": "Which Spain eSIM has the best value for 30 days?", "acceptedAnswer": {"@type": "Answer", "text": "Lowi 20GB at EUR 15 (if you can register) or Multi‑Network 20GB at EUR 20 (instant, multi‑carrier)."}},
-    {"@type": "Question", "name": "Does Spain eSIM include EU roaming?", "acceptedAnswer": {"@type": "Answer", "text": "Not all. Local carriers include it by EU regulation. International providers vary – check before buying."}},
-    {"@type": "Question", "name": "How much data do I need for a week in Spain?", "acceptedAnswer": {"@type": "Answer", "text": "Light: 1–3GB; Moderate: 3–5GB; Heavy: 5–10GB."}}
-  ]
-}
-</script>

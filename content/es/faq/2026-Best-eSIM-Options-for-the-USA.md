@@ -98,19 +98,6 @@ sidebar_questions:
       url: "/compatibility/"
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "¿Puedo hacer llamadas locales en EE. UU. usando una eSIM?", "acceptedAnswer": {"@type": "Answer", "text": "La mayoría de las eSIM de viaje son planes solo datos. Puedes usar aplicaciones de llamadas por internet como WhatsApp, FaceTime, Skype o WeChat sin problemas."}},
-    {"@type": "Question", "name": "¿Mi teléfono es compatible con eSIM?", "acceptedAnswer": {"@type": "Answer", "text": "La mayoría de los teléfonos de gama alta lanzados después de 2018 (iPhone XS+, Samsung Galaxy S20+, Google Pixel 3+) son compatibles. Marca *#06# para verificar si aparece un número EID."}},
-    {"@type": "Question", "name": "¿Cuál es la diferencia entre SIM y eSIM?", "acceptedAnswer": {"@type": "Answer", "text": "La SIM es física (una tarjeta que se inserta en el dispositivo), mientras que la eSIM es digital y se programa remotamente. La eSIM ofrece mayor flexibilidad, seguridad y no se puede perder o dañar."}},
-    {"@type": "Question", "name": "¿Cuál es la mejor eSIM para Estados Unidos?", "acceptedAnswer": {"@type": "Answer", "text": "Depende de tu viaje. Para estancias urbanas cortas, opciones como Airalo o Saily pueden ser suficientes. Para viajes largos o rutas por carretera, recomendamos soluciones con conmutación entre operadores como Roami."}},
-    {"@type": "Question", "name": "¿Puedo usar eSIM y SIM física al mismo tiempo?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, la mayoría de los dispositivos modernos admiten doble SIM o doble eSIM. Puedes mantener tu número habitual para llamadas y usar la eSIM para datos."}}
-  ]
-}
-</script>
 
 > **✍️ Nota del autor:** Este artículo se basa en nuestros datos de pruebas reales en carretera en 15 estados de EE. UU., cubriendo los tres principales operadores. Ya sea que estés planeando un recorrido urbano en Nueva York o un viaje en profundidad por el Parque Nacional de Yellowstone, no solo proporcionamos pros y contras básicos, sino que también buscamos ayudarte a evitar malentendidos comunes y encontrar la solución **eSIM de viaje para EE. UU.** más fiable. Para una comparación detallada de todos los operadores, lee nuestra [guía completa sobre eSIM USA](/faq/the-ultimate-guide-to-us-esim-in-2026-how-to-choose-the-best-plan/).
 

@@ -600,33 +600,6 @@ No. A carrier-locked phone will only work with SIMs from the locking carrier. If
 
 [USA eSIM plan](/united-states-esim/) offers automatic network switching between carriers and live customer support if you have dual SIM setup issues. A [free eSIM offer](/free-esim/) lets you practice the full setup. Code **WEB20** takes 20% off any plan.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "USA eSIM Dual SIM Setup: Keep Your Home Number Active",
-  "description": "How to set up dual SIM with a USA eSIM and your home SIM. iPhone and Android settings for calls, SMS, and data. Roami offers live support if needed.",
-  "image": "https://www.roamiapp.com/img/esim/usa/usa-esim-dual-sim-setup.jpg",
-  "datePublished": "2026-08-17",
-  "dateModified": "2026-08-17",
-  "author": {
-    "@type": "Organization",
-    "name": "Roami Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Roami",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.roamiapp.com/img/logo.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.roamiapp.com/blog/usa-esim-dual-sim-setup/"
-  }
-}
-</script>
 
 *Last updated August 2026.*
 

@@ -94,22 +94,6 @@ sidebar_questions:
       url: "/compatibility/"
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "¿Por qué mi iPhone XR dice 'eSIM no compatible' si debería funcionar?", "acceptedAnswer": {"@type": "Answer", "text": "Si tienes un modelo de China continental (termina en CH/A), tu iPhone XR no tiene hardware eSIM. Verifica también el bloqueo de operador."}},
-    {"@type": "Question", "name": "¿Puedo forzar eSIM en un iPhone 7?", "acceptedAnswer": {"@type": "Answer", "text": "No. El iPhone 7 no tiene hardware eSIM. Lo mismo aplica al iPhone 6s, 8 y iPhone X."}},
-    {"@type": "Question", "name": "Eliminé mi eSIM por error, ¿cómo la recupero?", "acceptedAnswer": {"@type": "Answer", "text": "Contacta a tu proveedor. Las eSIM de viaje se pueden reemitir; las de operador se descargan de nuevo desde su app."}},
-    {"@type": "Question", "name": "¿Por qué mi eSIM está atascada en 'Activando' durante horas?", "acceptedAnswer": {"@type": "Answer", "text": "Activa/desactiva el modo Avión, reinicia el teléfono o cambia de red Wi-Fi. Como último recurso, elimina el perfil y solicita un nuevo código QR."}},
-    {"@type": "Question", "name": "¿Qué significa 'tu SIM no es compatible transferencia eSIM Verizon'?", "acceptedAnswer": {"@type": "Answer", "text": "Verizon requiere que elimines la eSIM del dispositivo antiguo antes de transferirla a uno nuevo."}},
-    {"@type": "Question", "name": "Mi teléfono no es compatible con eSIM, ¿puedo usar una eSIM de viaje?", "acceptedAnswer": {"@type": "Answer", "text": "No, necesitas una SIM física. Muchos proveedores de eSIM también venden tarjetas SIM físicas."}},
-    {"@type": "Question", "name": "¿Dónde encuentro una lista de teléfonos compatibles con eSIM?", "acceptedAnswer": {"@type": "Answer", "text": "Consulta la lista completa de teléfonos compatibles con eSIM 2026 en nuestra página de compatibilidad: iPhones, Samsung, Pixel, OnePlus, Motorola, Xiaomi y más."}},
-    {"@type": "Question", "name": "¿Puedo comprar una eSIM barata para probar si mi teléfono funciona?", "acceptedAnswer": {"@type": "Answer", "text": "Sí. Recomendamos empezar con una eSIM de prueba gratuita para verificar que tu dispositivo es compatible antes de comprar un plan de pago."}}
-  ]
-}
-</script>
 
 ## Resumen rápido: Problemas más comunes con eSIM
 

@@ -444,23 +444,4 @@ Oui, à condition que les deux opérateurs autorisent l'eSIM sur votre compte. L
 
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "inLanguage": "fr",
-  "mainEntity": [
-    {"@type": "Question", "name": "Puis-je utiliser deux eSIM du même opérateur français ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, à condition que votre opérateur autorise plusieurs profils eSIM sur un seul compte. Orange, SFR, Bouygues et Free permettent généralement deux eSIM sur le même iPhone. Vérifiez les conditions dans votre espace client."}},
-    {"@type": "Question", "name": "Les deux lignes prendront-elles en charge la 5G simultanément ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, sur iPhone 13 et plus récents (y compris iPhone 17), les deux lignes peuvent être en 5G en double veille. Cependant, une seule ligne peut utiliser les données 5G à la fois, l'autre utilise la 5G pour le repli vocal uniquement."}},
-    {"@type": "Question", "name": "Ma deuxième ligne fonctionne mais la première a cessé de fonctionner après l'avoir ajoutée, que s'est-il passé ?", "acceptedAnswer": {"@type": "Answer", "text": "Vous avez peut-être accidentellement échangé les paramètres de ligne principale. Allez dans Réglages > Données cellulaires > Ligne vocale par défaut et rétablissez la ligne souhaitée."}},
-    {"@type": "Question", "name": "La double eSIM décharge-t-elle plus la batterie que eSIM + SIM physique ?", "acceptedAnswer": {"@type": "Answer", "text": "Généralement, la double eSIM consomme légèrement moins d'énergie puisqu'il n'y a pas de lecteur de carte physique. Mais la différence est négligeable, de l'ordre de 2 à 3 %."}},
-    {"@type": "Question", "name": "Puis-je utiliser une eSIM locale pour les données et conserver mon eSIM française pour les appels en voyage ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, c'est la meilleure pratique. Définissez l'eSIM locale comme ligne de données cellulaires, conservez l'eSIM française comme ligne vocale par défaut, et désactivez l'itinérance des données sur l'eSIM française pour éviter des frais élevés."}},
-    {"@type": "Question", "name": "Pourquoi la deuxième eSIM disparaît-elle parfois après une mise à jour iOS ?", "acceptedAnswer": {"@type": "Answer", "text": "Il s'agit d'un bogue rare. Allez dans Réglages > Données cellulaires : si la ligne manque mais apparaît sous « SIM disponibles », appuyez dessus et réactivez-la. Sinon, contactez l'opérateur pour renvoyer le profil."}},
-    {"@type": "Question", "name": "Puis-je utiliser une configuration double SIM avec une Apple Watch ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. L'Apple Watch peut refléter une des lignes de l'iPhone. Choisissez la ligne que vous souhaitez associer à la montre lors de la configuration initiale."}},
-    {"@type": "Question", "name": "Que faire si l'activation de la double eSIM chez Orange, SFR, Bouygues ou Free échoue ?", "acceptedAnswer": {"@type": "Answer", "text": "Vérifiez que votre forfait est éligible à l'eSIM et que votre iPhone est débloqué dans Réglages > Général > Informations. Contactez le support de votre opérateur pour qu'il génère un nouveau QR code ou réinitialise votre profil eSIM."}},
-    {"@type": "Question", "name": "Puis-je utiliser FaceTime et iMessage avec deux eSIM ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. iMessage et FaceTime sont liés à votre identifiant Apple, pas à votre carte SIM. Vous pouvez associer les deux numéros dans Réglages > Messages > Envoi et réception. Les deux numéros apparaîtront comme options."}},
-    {"@type": "Question", "name": "Comment transférer mes deux eSIM vers un nouvel iPhone ?", "acceptedAnswer": {"@type": "Answer", "text": "Avec iOS 19, vous pouvez transférer les deux eSIM simultanément pendant la configuration du nouvel iPhone. Placez les deux appareils à proximité et suivez les instructions. Si le transfert échoue, contactez chaque opérateur pour de nouveaux QR codes."}}
-  ]
-}
-</script>
 *Basé sur les documents de support Apple, le comportement d'iOS 19 et les tests d'opérateurs en juin 2026. L'expérience réelle peut varier selon l'opérateur, la région et le modèle d'appareil.*

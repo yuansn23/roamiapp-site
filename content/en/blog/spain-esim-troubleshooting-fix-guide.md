@@ -435,29 +435,3 @@ For more on choosing the right eSIM, see our [Spain eSIM provider comparison](/b
 Add these JSON‑LD scripts to your page's `<head>` to enable rich snippets:
 
 ```html
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Spain eSIM Troubleshooting: Fix No Service & APN Errors 2026",
-  "description": "Fix Spain eSIM no service, APN errors, and activation failures with step-by-step troubleshooting for Movistar, Orange, Vodafone, and Yoigo.",
-  "author": { "@type": "Organization", "name": "Roami Team" },
-  "datePublished": "2026-08-19",
-  "dateModified": "2026-08-19",
-  "publisher": { "@type": "Organization", "name": "Roami" }
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "Why is my Spain eSIM not connecting to network?", "acceptedAnswer": {"@type": "Answer", "text": "The most common causes are data roaming disabled, incorrect network selection, or phone being carrier-locked. Enable data roaming, try manual network selection starting with Movistar, and verify your phone is unlocked."}},
-    {"@type": "Question", "name": "How do I fix Spain eSIM APN settings?", "acceptedAnswer": {"@type": "Answer", "text": "For Airalo on Movistar use 'airalo.movistar.es'; for Holafly use 'holafly'; for Orange direct plans use 'orange.es'. Type the APN manually to avoid hidden spaces from copy-paste."}},
-    {"@type": "Question", "name": "Which Spain eSIM provider has the best coverage?", "acceptedAnswer": {"@type": "Answer", "text": "Movistar has the widest coverage in Spain, followed by Orange. Vodafone is strongest in cities. Multi-network eSIMs that auto-switch provide the most reliable connectivity."}},
-    {"@type": "Question", "name": "Why is my Spain eSIM so slow?", "acceptedAnswer": {"@type": "Answer", "text": "Slow speeds are caused by network congestion in tourist areas, connection to a distant tower, or provider throttling. Try manual carrier switching, toggling Airplane Mode, or forcing 4G only."}},
-    {"@type": "Question", "name": "Can I use my Spain eSIM in Madrid and Barcelona?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, all major providers have coverage in both cities. Rural coverage varies – Movistar has the best rural coverage."}}
-  ]
-}
-</script>

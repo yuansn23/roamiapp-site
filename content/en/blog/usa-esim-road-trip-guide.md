@@ -564,33 +564,6 @@ If you're traveling with a laptop, tablet, or other connected devices, you have 
 
 Roami's [USA eSIM with 5G](/united-states-esim/) offers automatic network switching between carriers —useful for road trips where you pass through areas with different network strengths. A [free eSIM service](/free-esim/) lets you test the setup before committing. Code **WEB20** takes 20% off any plan.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Best eSIM for USA Road Trips and National Parks",
-  "description": "Choose an eSIM that works in national parks and rural highways where T-Mobile does not reach. Roami offers automatic carrier switching for road trips.",
-  "image": "https://www.roamiapp.com/img/esim/usa/usa-esim-road-trip-guide.jpg",
-  "datePublished": "2026-08-17",
-  "dateModified": "2026-08-17",
-  "author": {
-    "@type": "Organization",
-    "name": "Roami Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Roami",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.roamiapp.com/img/logo.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.roamiapp.com/blog/usa-esim-road-trip-guide/"
-  }
-}
-</script>
 
 *Last updated August 2026.*
 

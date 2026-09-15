@@ -93,19 +93,6 @@ sidebar_questions:
       url: "/compatibility/"
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {"@type": "Question", "name": "¿Puedo usar mi SIM física y una eSIM al mismo tiempo?", "acceptedAnswer": {"@type": "Answer", "text": "Sí. La mayoría de los teléfonos modernos admiten Doble SIM. Puedes mantener tu SIM física activa para llamadas y mensajes, mientras usas tu eSIM exclusivamente para datos móviles."}},
-    {"@type": "Question", "name": "¿Cuánto tarda la activación de una eSIM?", "acceptedAnswer": {"@type": "Answer", "text": "Normalmente, el proceso de descarga y activación dura menos de 2 minutos. La primera conexión a la red local puede tardar entre 10 y 15 minutos dependiendo de la intensidad de la señal."}},
-    {"@type": "Question", "name": "¿Es seguro usar eSIM?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, la eSIM es más segura que una SIM física. El perfil se transmite cifrado desde el servidor SM-DP+, está soldado al dispositivo y no se puede extraer físicamente. Cumple con los estándares GSMA SGP.22."}},
-    {"@type": "Question", "name": "¿Puedo transferir mi eSIM de un teléfono antiguo a uno nuevo?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, pero el método depende de tu operador y modelos de teléfono. Algunos permiten la transferencia rápida entre iPhones; otros requieren contactar al operador para generar un nuevo código QR."}},
-    {"@type": "Question", "name": "¿Cómo sé si mi teléfono es compatible con eSIM?", "acceptedAnswer": {"@type": "Answer", "text": "Marca *#06# en el marcador de tu teléfono. Si aparece un número EID de 32 dígitos, tu dispositivo es compatible con eSIM. También puedes verificarlo en Ajustes > General > Acerca de en iPhone."}}
-  ]
-}
-</script>
 
 **La respuesta corta:**
 La activación de eSIM es el proceso de descargar de forma segura un perfil digital de operador desde tu proveedor de red directamente al microchip integrado de tu teléfono a través de internet. En lugar de insertar una tarjeta física, simplemente escaneas un código QR o usas la aplicación del operador para conectarte a una red móvil al instante.
