@@ -597,3 +597,10 @@ other = "Nielimitowane dane objęte są zasadą uczciwego korzystania (FUP): mak
 
 [order_fair_usage_note]
 other = "Uczciwe korzystanie: plany Light 1 GB/dzień, plany Super 2 GB/dzień przy maksymalnej prędkości; po przekroczeniu prędkość spada do 512 Kbps do resetu o północy."
+
+# promo compare banner (above plans)
+[promo_compare_title]
+other = "Ta sama sieć. Niższa cena. Porównaj nas."
+
+[promo_compare_desc]
+other = "Roami eSIM: oszczędzaj do 30% w porównaniu z wiodącymi konkurentami."

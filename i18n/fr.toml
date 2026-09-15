@@ -598,3 +598,10 @@ other = "Les données illimitées sont soumises à une politique d'utilisation r
 
 [order_fair_usage_note]
 other = "Utilisation raisonnable : formules Light 1 Go/jour, formules Super 2 Go/jour à vitesse maximale ; au-delà, la vitesse tombe à 512 Kbps jusqu'à la remise à zéro à minuit."
+
+# promo compare banner (above plans)
+[promo_compare_title]
+other = "Même réseau. Prix plus bas. Comparez-nous."
+
+[promo_compare_desc]
+other = "Roami eSIM : économisez jusqu'à 30 % par rapport aux principaux concurrents."

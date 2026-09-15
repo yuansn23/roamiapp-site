@@ -598,3 +598,10 @@ other = "I dati illimitati sono soggetti a una politica di uso corretto (FUP): v
 
 [order_fair_usage_note]
 other = "Uso corretto: piani Light 1 GB/giorno, piani Super 2 GB/giorno alla massima velocità; oltre, la velocità scende a 512 Kbps fino all'azzeramento a mezzanotte."
+
+# promo compare banner (above plans)
+[promo_compare_title]
+other = "Stessa rete. Prezzo più basso. Confrontaci."
+
+[promo_compare_desc]
+other = "Roami eSIM: risparmia fino al 30% rispetto ai principali concorrenti."

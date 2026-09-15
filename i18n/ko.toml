@@ -597,3 +597,10 @@ other = "무제한 데이터에는 공정 사용 정책(FUP)이 적용됩니다:
 
 [order_fair_usage_note]
 other = "합리적 사용: 라이트 요금제 1GB/일, 슈퍼 요금제 2GB/일 최고 속도; 이후 자정 리셋 전까지 512Kbps로 속도가 낮아집니다."
+
+# promo compare banner (above plans)
+[promo_compare_title]
+other = "같은 네트워크. 더 낮은 가격. 직접 비교해 보세요."
+
+[promo_compare_desc]
+other = "Roami eSIM: 주요 경쟁사 대비 최대 30% 절약."

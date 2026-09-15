@@ -597,3 +597,10 @@ other = "Dữ liệu không giới hạn áp dụng Chính sách sử dụng h�
 
 [order_fair_usage_note]
 other = "Sử dụng hợp lý: gói Light 1 GB/ngày, gói Super 2 GB/ngày ở tốc độ tối đa; sau đó tốc độ giảm xuống 512 Kbps cho đến khi đặt lại vào nửa đêm."
+
+# promo compare banner (above plans)
+[promo_compare_title]
+other = "Cùng mạng. Giá thấp hơn. Hãy so sánh chúng tôi."
+
+[promo_compare_desc]
+other = "Roami eSIM: tiết kiệm đến 30% so với các đối thủ hàng đầu."

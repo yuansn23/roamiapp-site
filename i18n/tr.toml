@@ -597,3 +597,10 @@ other = "Sınırsız veri, Adil Kullanım Politikası'na (FUP) tabidir: günlük
 
 [order_fair_usage_note]
 other = "Adil kullanım: Light paketler 1 GB/gün, Super paketler 2 GB/gün maksimum hızda; sonrasında hız gece yarısı sıfırlanana kadar 512 Kbps'e düşer."
+
+# promo compare banner (above plans)
+[promo_compare_title]
+other = "Aynı ağ. Daha düşük fiyat. Bizi karşılaştırın."
+
+[promo_compare_desc]
+other = "Roami eSIM: Önde gelen rakiplere kıyasla %30'a varan tasarruf edin."

@@ -490,3 +490,10 @@ other = "無制限データには公平使用ポリシー(FUP)が適用されま
 
 [order_fair_usage_note]
 other = "適正利用：ライトプランは1日1GB、スーパープランは1日2GBで最高速度。その後、速度は512Kbpsに低下し、毎日0時にリセットされます。"
+
+# promo compare banner (above plans)
+[promo_compare_title]
+other = "同じネットワーク。より低い価格。比較してみてください。"
+
+[promo_compare_desc]
+other = "Roami eSIM：主要な競合他社と比べて最大30%節約。"

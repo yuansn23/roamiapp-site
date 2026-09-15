@@ -606,3 +606,10 @@ other = "נתונים ללא הגבלה כפופים למדיניות שימוש
 
 [order_fair_usage_note]
 other = "שימוש הוגן: חבילות Light 1GB ליום, חבילות Super 2GB ליום במהירות מקסימלית; לאחר מכן המהירות יורדת ל-512Kbps עד לאיפוס בחצות."
+
+# promo compare banner (above plans)
+[promo_compare_title]
+other = "אותה רשת. מחיר נמוך יותר. השוו אותנו."
+
+[promo_compare_desc]
+other = "Roami eSIM: חסכו עד 30% לעומת המתחרים המובילים."

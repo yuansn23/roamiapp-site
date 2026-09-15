@@ -597,3 +597,10 @@ other = "ข้อมูลไม่จำกัดมาพร้อมนโ�
 
 [order_fair_usage_note]
 other = "การใช้งานที่เหมาะสม: แพ็ก Light 1 GB/วัน แพ็ก Super 2 GB/วัน ที่ความเร็วสูงสุด; หลังจากนั้นความเร็วลดเหลือ 512 Kbps จนกว่ารีเซ็ตตอนเที่ยงคืน"
+
+# promo compare banner (above plans)
+[promo_compare_title]
+other = "เครือข่ายเดียวกัน ราคาถูกกว่า ลองเปรียบเทียบดู"
+
+[promo_compare_desc]
+other = "Roami eSIM: ประหยัดสูงสุด 30% เมื่อเทียบกับคู่แข่งชั้นนำ"

@@ -606,3 +606,10 @@ other = "Unlimited data comes with a Fair Use Policy (FUP): enjoy maximum speed 
 
 [order_fair_usage_note]
 other = "Fair use: Light plans 1 GB/day, Super plans 2 GB/day at maximum speed; after that, speed drops to 512 Kbps until it resets at midnight."
+
+# promo compare banner (above plans)
+[promo_compare_title]
+other = "Same network. Lower price. Compare us."
+
+[promo_compare_desc]
+other = "Roami eSIM: Save up to 30% vs. leading competitors."

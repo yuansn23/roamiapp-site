@@ -498,3 +498,10 @@ other = "無限數據搭配公平使用原則 (FUP)：每日達到一定配額�
 
 [order_fair_usage_note]
 other = "合理使用：輕量級每天 1 GB，超量級每天 2 GB，速度達到最大值；之後，速度降至 512 Kbps，直到每日零點重置"
+
+# promo compare banner (above plans)
+[promo_compare_title]
+other = "同一網絡，更低價格，歡迎對比。"
+
+[promo_compare_desc]
+other = "Roami eSIM：相比業界領先競爭對手，最高可節省 30%。"

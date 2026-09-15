@@ -597,3 +597,10 @@ other = "Los datos ilimitados incluyen una política de uso justo (FUP): disfrut
 
 [order_fair_usage_note]
 other = "Uso justo: planes Light 1 GB/día, planes Super 2 GB/día a velocidad máxima; después, la velocidad baja a 512 Kbps hasta el reinicio a medianoche."
+
+# promo compare banner (above plans)
+[promo_compare_title]
+other = "Misma red. Precio más bajo. Compáranos."
+
+[promo_compare_desc]
+other = "Roami eSIM: ahorra hasta un 30 % frente a los principales competidores."

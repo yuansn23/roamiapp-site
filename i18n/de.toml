@@ -597,3 +597,10 @@ other = "Unbegrenzte Daten unterliegen einer Fair-Use-Richtlinie (FUP): Bis zu I
 
 [order_fair_usage_note]
 other = "Fair Use: Light-Tarife 1 GB/Tag, Super-Tarife 2 GB/Tag bei maximaler Geschwindigkeit; danach sinkt die Geschwindigkeit bis zum Mitternachts-Reset auf 512 Kbps."
+
+# promo compare banner (above plans)
+[promo_compare_title]
+other = "Gleiches Netz. Niedrigerer Preis. Vergleichen Sie uns."
+
+[promo_compare_desc]
+other = "Roami eSIM: Sparen Sie bis zu 30 % gegenüber führenden Anbietern."

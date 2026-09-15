@@ -601,3 +601,10 @@ other = "Data tanpa batas tunduk pada Kebijakan Penggunaan Wajar (FUP): kecepata
 
 [order_fair_usage_note]
 other = "Penggunaan wajar: paket Light 1 GB/hari, paket Super 2 GB/hari dengan kecepatan maksimal; setelah itu kecepatan turun ke 512 Kbps hingga reset tengah malam."
+
+# promo compare banner (above plans)
+[promo_compare_title]
+other = "Jaringan yang sama. Harga lebih murah. Bandingkan kami."
+
+[promo_compare_desc]
+other = "Roami eSIM: hemat hingga 30% dibandingkan kompetitor terkemuka."
