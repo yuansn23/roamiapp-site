@@ -910,12 +910,17 @@
 
 {{ partial "footer.html" . }}
 
+<!-- 桌面端底部悬浮订单栏占位：给页脚底部预留空间，避免遮挡页脚文案 -->
+<div class="desktop-bottom-bar-spacer" aria-hidden="true"></div>
+
 <!-- ======================================================================= -->
 <!-- 桌面端底部悬浮订单栏（仅 lg+ 显示；套餐名/规格/价格复用订单摘要 .sidebar-* 数据） -->
 <!-- ======================================================================= -->
 <style>
     .desktop-bottom-bar { display: none; position: fixed; bottom: 0; left: 0; right: 0; z-index: 40; background: rgba(255, 255, 255, 0.96); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-top: 1px solid #e2e8f0; box-shadow: 0 -10px 15px -3px rgba(0, 0, 0, 0.08); }
     @media (min-width: 1024px) { .desktop-bottom-bar { display: block; } }
+    .desktop-bottom-bar-spacer { display: none; }
+    @media (min-width: 1024px) { .desktop-bottom-bar-spacer { display: block; height: 88px; } }
     .desktop-bottom-bar-inner { max-width: 1280px; margin: 0 auto; padding: 10px 24px; display: flex; align-items: center; justify-content: space-between; gap: 16px; }
     .desktop-bottom-bar-left { display: flex; align-items: center; gap: 12px; min-width: 0; }
     .desktop-bottom-bar-img { width: 44px; height: 32px; object-fit: cover; border-radius: 6px; border: 1px solid #e2e8f0; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05); flex-shrink: 0; }
