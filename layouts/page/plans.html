@@ -78,10 +78,10 @@
             {{ $allProducts = $allProducts | append .Params.all_countries }}
             {{ range $index, $item := $allProducts }}
             {{ if gt $index 0 }},{{ end }}
-            {{- /* ===== 关键修复：使用 or 并确保大写 ===== */ -}}
+            {{- /* ===== 货币固定为美元 USD，符合 ISO 4217 ===== */ -}}
             {{- $priceValue := $.Params.ui.schema_price_value | or "1.99" -}}
             {{- $priceHigh := $.Params.ui.schema_price_high_value | or "49.99" -}}
-            {{- $currency := $.Params.ui.schema_price_currency | or "USD" | strings.ToUpper -}}
+            {{- $currency := "USD" -}}
             {{ $destName := $item.name }}
             {{ $destSlug := $item.slug | default ($destName | urlize) }}
             {{ $destURL := printf "/%s-esim/" ($destSlug | lower) | absLangURL }}

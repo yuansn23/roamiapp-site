@@ -583,6 +583,8 @@
 </script>
 
 <!-- SEO 结构化数据：使用 absLangURL 自动化多语言路径 -->
+
+<!-- SEO 结构化数据：使用 absLangURL 自动化多语言路径 -->
 <script type="application/ld+json">
 [
   {
@@ -610,7 +612,7 @@
           "@type": "ListItem",
           "position": {{ add $index 1 }},
           "name": {{ $item.name | jsonify | safeJS }},
-          "item": {{ if $item.url }}{{ if or (hasPrefix $item.url "http") (hasPrefix $item.url "#") }}{{ $item.url | safeURL | jsonify | safeJS }}{{ else }}{{ relLangURL (printf "/%s" (strings.TrimPrefix "/" $item.url)) | jsonify | safeJS }}{{ end }}{{ else }}{{ $.Permalink | jsonify | safeJS }}{{ end }}
+          "item": {{ if $item.url }}{{ if or (hasPrefix $item.url "http") (hasPrefix $item.url "#") }}{{ $item.url | safeURL | jsonify | safeJS }}{{ else }}{{ absLangURL (printf "/%s" (strings.TrimPrefix "/" $item.url)) | jsonify | safeJS }}{{ end }}{{ else }}{{ $.Permalink | jsonify | safeJS }}{{ end }}
         }{{ if lt (add $index 1) $len }},{{ end }}
       {{ end }}
     ]
