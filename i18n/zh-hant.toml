@@ -488,3 +488,13 @@ other = "安全支付"
 other = "即時發貨"
 [value_prop_refund]
 other = "無法使用 100% 全額退款"
+
+# 订单摘要说明（有效期 / FUP / 合理使用）
+[order_validity_note]
+other = "有效期：首次使用流量才開始計算，而非購買時"
+
+[order_fup_note]
+other = "無限數據搭配公平使用原則 (FUP)：每日達到一定配額前可享最高速度，之後速度會降低，但不會斷線或額外收費。"
+
+[order_fair_usage_note]
+other = "合理使用：輕量級每天 1 GB，超量級每天 2 GB，速度達到最大值；之後，速度降至 512 Kbps，直到每日零點重置"

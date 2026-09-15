@@ -587,3 +587,13 @@ other = "Bezpieczna płatność"
 other = "Natychmiastowa dostawa"
 [value_prop_refund]
 other = "100% zwrotu, jeśli nie działa"
+
+# 订单摘要说明（有效期 / FUP / 合理使用）
+[order_validity_note]
+other = "Ważność: liczona od pierwszego użycia danych, nie od zakupu."
+
+[order_fup_note]
+other = "Nielimitowane dane objęte są zasadą uczciwego korzystania (FUP): maksymalna prędkość do dziennego limitu, potem prędkość jest obniżana — bez rozłączania i dodatkowych opłat."
+
+[order_fair_usage_note]
+other = "Uczciwe korzystanie: plany Light 1 GB/dzień, plany Super 2 GB/dzień przy maksymalnej prędkości; po przekroczeniu prędkość spada do 512 Kbps do resetu o północy."

@@ -587,3 +587,13 @@ other = "Thanh toán an toàn"
 other = "Giao hàng ngay"
 [value_prop_refund]
 other = "Hoàn tiền 100% nếu không dùng được"
+
+# 订单摘要说明（有效期 / FUP / 合理使用）
+[order_validity_note]
+other = "Thời hạn: bắt đầu tính từ lần đầu sử dụng dữ liệu, không phải lúc mua."
+
+[order_fup_note]
+other = "Dữ liệu không giới hạn áp dụng Chính sách sử dụng hợp lý (FUP): tốc độ tối đa đến hạn mức hàng ngày, sau đó tốc độ giảm — không mất kết nối hay phát sinh phí."
+
+[order_fair_usage_note]
+other = "Sử dụng hợp lý: gói Light 1 GB/ngày, gói Super 2 GB/ngày ở tốc độ tối đa; sau đó tốc độ giảm xuống 512 Kbps cho đến khi đặt lại vào nửa đêm."

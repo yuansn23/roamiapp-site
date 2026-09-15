@@ -588,3 +588,13 @@ other = "Paiement sécurisé"
 other = "Livraison instantanée"
 [value_prop_refund]
 other = "Remboursé à 100% si ça ne marche pas"
+
+# 订单摘要说明（有效期 / FUP / 合理使用）
+[order_validity_note]
+other = "Validité : commence à la première utilisation des données, pas à l'achat."
+
+[order_fup_note]
+other = "Les données illimitées sont soumises à une politique d'utilisation raisonnable (FUP) : vitesse maximale jusqu'à votre quota quotidien, puis vitesse réduite — sans coupure ni frais supplémentaires."
+
+[order_fair_usage_note]
+other = "Utilisation raisonnable : formules Light 1 Go/jour, formules Super 2 Go/jour à vitesse maximale ; au-delà, la vitesse tombe à 512 Kbps jusqu'à la remise à zéro à minuit."

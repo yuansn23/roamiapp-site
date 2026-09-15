@@ -587,3 +587,13 @@ other = "Sichere Zahlung"
 other = "Sofortige Lieferung"
 [value_prop_refund]
 other = "100% Rückerstattung, wenn es nicht funktioniert"
+
+# 订单摘要说明（有效期 / FUP / 合理使用）
+[order_validity_note]
+other = "Gültigkeit: Beginnt mit der ersten Datennutzung, nicht mit dem Kauf."
+
+[order_fup_note]
+other = "Unbegrenzte Daten unterliegen einer Fair-Use-Richtlinie (FUP): Bis zu Ihrem täglichen Kontingent genießen Sie Höchstgeschwindigkeit, danach wird die Geschwindigkeit reduziert — ohne Verbindungsabbruch oder Zusatzkosten."
+
+[order_fair_usage_note]
+other = "Fair Use: Light-Tarife 1 GB/Tag, Super-Tarife 2 GB/Tag bei maximaler Geschwindigkeit; danach sinkt die Geschwindigkeit bis zum Mitternachts-Reset auf 512 Kbps."

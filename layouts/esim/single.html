@@ -369,7 +369,7 @@
         .custom-buy-btn { width: 100%; padding: 0.75rem 0; margin-bottom: 0.75rem; background-color: #2563eb; color: #ffffff; font-weight: bold; font-size: 1rem; border: none; border-radius: 0.75rem; cursor: pointer; display: flex; justify-content: center; align-items: center; gap: 0.5rem; box-shadow: 0 10px 15px -3px rgba(37, 99, 235, 0.3); transition: all 0.2s ease-in-out; }
         .custom-buy-btn:hover { background-color: #1d4ed8; transform: translateY(-2px); box-shadow: 0 12px 20px -3px rgba(37, 99, 235, 0.4); }
         .custom-mobile-spacer { height: 90px; }
-        .order-summary { position: sticky; top: 4rem; }
+        .order-summary { position: static; }
     </style>
 </head>
 
@@ -440,6 +440,11 @@
                             <button onclick="handleBuyNow()" class="w-full bg-amber-500 hover:bg-amber-600 text-white font-extrabold text-base py-3.5 rounded-xl transition-all shadow-lg flex justify-center items-center gap-2 border-2 border-dashed border-amber-200 transform hover:-translate-y-0.5"><i data-lucide="ticket" class="w-5 h-5"></i> {{ .Params.order_summary.btn_secondary }}</button>
                         </div>
                         {{ partial "payment-security.html" . }}
+                        <div class="mt-4 pt-4 border-t border-slate-100 space-y-2 text-xs text-slate-500 leading-relaxed">
+                            <p class="flex items-start gap-2"><i data-lucide="clock" class="w-3.5 h-3.5 mt-0.5 flex-shrink-0 text-slate-400"></i> {{ i18n "order_validity_note" }}</p>
+                            <p class="flex items-start gap-2"><i data-lucide="infinity" class="w-3.5 h-3.5 mt-0.5 flex-shrink-0 text-slate-400"></i> {{ i18n "order_fup_note" }}</p>
+                            <p class="flex items-start gap-2"><i data-lucide="gauge" class="w-3.5 h-3.5 mt-0.5 flex-shrink-0 text-slate-400"></i> {{ i18n "order_fair_usage_note" }}</p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -812,6 +817,11 @@
                             <button onclick="handleBuyNow()" class="w-full bg-amber-500 hover:bg-amber-600 text-white font-extrabold text-base py-2.5 rounded-xl transition-all shadow-lg flex justify-center items-center gap-2 border-2 border-dashed border-amber-200 transform hover:-translate-y-0.5"><i data-lucide="ticket" class="w-5 h-5"></i> {{ .Params.order_summary.btn_secondary }}</button>
                         </div>
                         {{ partial "payment-security.html" . }}
+                        <div class="mt-4 pt-4 border-t border-slate-100 space-y-2 text-xs text-slate-500 leading-relaxed">
+                            <p class="flex items-start gap-2"><i data-lucide="clock" class="w-3.5 h-3.5 mt-0.5 flex-shrink-0 text-slate-400"></i> {{ i18n "order_validity_note" }}</p>
+                            <p class="flex items-start gap-2"><i data-lucide="infinity" class="w-3.5 h-3.5 mt-0.5 flex-shrink-0 text-slate-400"></i> {{ i18n "order_fup_note" }}</p>
+                            <p class="flex items-start gap-2"><i data-lucide="gauge" class="w-3.5 h-3.5 mt-0.5 flex-shrink-0 text-slate-400"></i> {{ i18n "order_fair_usage_note" }}</p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -843,7 +853,7 @@
     @media (min-width: 1024px) { ._aihecong_chat_button_pc { bottom: 88px !important; } }
 </style>
 
-<!--
+ 
 <div id="desktop-bottom-bar" class="desktop-bottom-bar">
     <div class="desktop-bottom-bar-inner">
         <div class="desktop-bottom-bar-left">
@@ -862,7 +872,7 @@
         </div>
     </div>
 </div>
--->
+ 
 <div id="redirect-modal" class="fixed inset-0 z-50 hidden items-center justify-center bg-slate-900/60 backdrop-blur-sm transition-opacity" aria-modal="true" role="dialog">
     <div class="bg-white rounded-2xl p-6 md:p-8 max-w-sm w-full mx-4 shadow-2xl">
         <div class="w-14 h-14 bg-blue-50 text-blue-600 rounded-full flex items-center justify-center mb-5 mx-auto border-4 border-blue-100">

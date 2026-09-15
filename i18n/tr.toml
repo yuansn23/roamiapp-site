@@ -587,3 +587,13 @@ other = "Güvenli ödeme"
 other = "Anında teslimat"
 [value_prop_refund]
 other = "Çalışmazsa %100 iade"
+
+# 订单摘要说明（有效期 / FUP / 合理使用）
+[order_validity_note]
+other = "Geçerlilik: Satın alımdan değil, ilk veri kullanımından itibaren başlar."
+
+[order_fup_note]
+other = "Sınırsız veri, Adil Kullanım Politikası'na (FUP) tabidir: günlük kotanıza kadar maksimum hız, sonrasında hız düşer — bağlantı kesilmez ve ek ücret alınmaz."
+
+[order_fair_usage_note]
+other = "Adil kullanım: Light paketler 1 GB/gün, Super paketler 2 GB/gün maksimum hızda; sonrasında hız gece yarısı sıfırlanana kadar 512 Kbps'e düşer."

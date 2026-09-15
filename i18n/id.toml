@@ -591,3 +591,13 @@ other = "Pembayaran aman"
 other = "Pengiriman instan"
 [value_prop_refund]
 other = "Pengembalian dana 100% jika tidak berfungsi"
+
+# 订单摘要说明（有效期 / FUP / 合理使用）
+[order_validity_note]
+other = "Masa berlaku: dihitung sejak penggunaan data pertama, bukan sejak pembelian."
+
+[order_fup_note]
+other = "Data tanpa batas tunduk pada Kebijakan Penggunaan Wajar (FUP): kecepatan maksimal hingga kuota harian, lalu kecepatan diturunkan — tanpa putus sambungan atau biaya tambahan."
+
+[order_fair_usage_note]
+other = "Penggunaan wajar: paket Light 1 GB/hari, paket Super 2 GB/hari dengan kecepatan maksimal; setelah itu kecepatan turun ke 512 Kbps hingga reset tengah malam."

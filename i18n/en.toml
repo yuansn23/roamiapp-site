@@ -596,3 +596,13 @@ other = "Secure payment"
 other = "Instant delivery"
 [value_prop_refund]
 other = "100% refund if it doesn't work"
+
+# 订单摘要说明（有效期 / FUP / 合理使用）
+[order_validity_note]
+other = "Validity: Starts from your first data use, not from purchase."
+
+[order_fup_note]
+other = "Unlimited data comes with a Fair Use Policy (FUP): enjoy maximum speed up to your daily quota, then speed is reduced — but your connection never drops and you're never charged extra."
+
+[order_fair_usage_note]
+other = "Fair use: Light plans 1 GB/day, Super plans 2 GB/day at maximum speed; after that, speed drops to 512 Kbps until it resets at midnight."
