@@ -85,7 +85,7 @@ This guide solves the device verification layer: will your phone actually instal
 
 None of these problems are fixable after landing. A carrier-locked phone cannot be unlocked from inside Turkey. A China-market iPhone does not have the physical hardware to accept an eSIM profile. No software update can add a missing eUICC chip.
 
-This page gives you the three compatibility checks, a five-minute pre-purchase workflow, device lists for iPhone, iPad, Samsung, Pixel and other Android brands, regional variant exceptions, Apple Watch structural limits, fallback options, second-hand and enterprise device risks, eSIM transfer rules and dual eSIM strategies. It does not cover installation steps, activation, APN settings, error codes or troubleshooting. Those are covered in the [QR install and APN troubleshooting guide](/blog/how-turkey-esim-works-activation/).
+This page gives you the three compatibility checks, a five-minute pre-purchase workflow, device lists for iPhone, iPad, Samsung, Pixel and other Android brands, regional variant exceptions, Apple Watch structural limits, fallback options, second-hand and enterprise device risks, eSIM transfer rules and dual eSIM strategies. It does not cover installation steps, activation, APN settings, error codes or troubleshooting. Those are covered in the [QR install and APN troubleshooting guide](/blog/how-turkey-esim-works-activation/). For which provider to buy, read the [best providers comparison](/blog/best-turkey-esim-providers/).
 
 The short version: check EID, check carrier lock, check regional variant. If all three pass, your device can install a Turkey eSIM.
 

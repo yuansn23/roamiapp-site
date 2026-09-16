@@ -83,7 +83,7 @@ Your eSIM’s real performance in Turkey comes down to which of the three nation
 
 This guide solves the network layer: which Turkish network should your eSIM connect to, and how do you verify it before you buy? The provider is a reseller. The network is the infrastructure. A cheap eSIM on the wrong network will leave you without signal in Cappadocia. An expensive eSIM on the right network will work everywhere.
 
-This page gives you the three operators compared by coverage, speed and 5G strategy, the regional coverage matrix by destination, prepaid tourist plan comparison, English support comparison, which eSIM providers use which network, network coverage test workflow and manual network selection steps. It does not cover activation, device compatibility, BTK rules or provider failure modes. Those are covered in the linked deep-dive articles.
+This page gives you the three operators compared by coverage, speed and 5G strategy, the regional coverage matrix by destination, prepaid tourist plan comparison, English support comparison, which eSIM providers use which network, network coverage test workflow and manual network selection steps. It does not cover activation, device compatibility, [BTK rules](/blog/turkey-esim-ban-availability-rules/) or [provider failure modes](/blog/best-turkey-esim-providers/). Those are covered in the linked deep-dive articles.
 
 The short version: choose Turkcell for rural travel, Cappadocia, eastern Turkey and the Black Sea coast. Choose Vodafone for coastal resorts and Istanbul. Choose Türk Telekom for budget city trips.
 

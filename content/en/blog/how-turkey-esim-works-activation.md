@@ -83,7 +83,7 @@ Most ‘broken’ Turkey eSIMs are not broken at all — they were just never ac
 
 This guide solves the technical execution layer: how to install, activate and troubleshoot a Turkey eSIM when you cannot open your provider’s app after landing. The BTK block means you cannot rely on the provider’s app to fix a configuration mistake after arrival. If the eSIM does not connect because roaming is off, the APN is blank or the wrong data line is selected, you need to know the fix from memory.
 
-This page gives you the install-versus-activate distinction, QR code and manual installation, dual SIM configuration, APN settings, carrier bundle conflict fixes, error code reference, the signal-bars-no-internet decision tree, network registration behaviour and reinstallation recovery. It does not cover device compatibility, provider selection, pricing, refunds or BTK rules. Those are covered in the linked deep-dive articles.
+This page gives you the install-versus-activate distinction, QR code and manual installation, dual SIM configuration, APN settings, carrier bundle conflict fixes, error code reference, the signal-bars-no-internet decision tree, network registration behaviour and reinstallation recovery. It does not cover [device compatibility](/blog/turkey-esim-device-compatibility/), provider selection, pricing, refunds or [BTK rules](/blog/turkey-esim-ban-availability-rules/). Those are covered in the linked deep-dive articles.
 
 The short version: install at home on Wi-Fi, keep data roaming off until landing, activate by enabling roaming, and fix most failures by checking the data line, roaming setting and APN.
 

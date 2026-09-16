@@ -83,7 +83,7 @@ Coverage in Turkey is good in cities and often poor in the places tourists actua
 
 This guide solves the destination layer: what you should actually expect from your Turkey eSIM in Istanbul, Antalya, Marmaris, Bodrum, Fethiye and Cappadocia. It assumes you have already bought an eSIM and want to know where signal works, where it drops, how fast the data is, and what to prepare offline.
 
-It does not re-explain the BTK block, activation steps, network comparison or provider selection. Those are covered in the linked deep-dive articles. What this page gives you is city-level speed data, resort Wi-Fi comparisons, seasonal congestion patterns, offline preparation rules, family hotspot strategy, emergency setup and destination-specific data plans.
+It does not re-explain the [BTK block](/blog/turkey-esim-ban-availability-rules/), activation steps, [network comparison](/blog/turkcell-vodafone-turk-telekom-esim/) or provider selection. Those are covered in the linked deep-dive articles. What this page gives you is city-level speed data, resort Wi-Fi comparisons, seasonal congestion patterns, offline preparation rules, family hotspot strategy, emergency setup and destination-specific data plans.
 
 The short version: city coverage is strong at 40–100 Mbps, resort Wi-Fi is usually 5–10 Mbps shared among hundreds of guests, Cappadocia valleys need Turkcell, and underground cities have no signal on any carrier.
 

@@ -81,7 +81,7 @@ Most travel eSIMs give you data only — no Turkish phone number. This guide exp
 
 ## What This Number, Calls and Hotspot Guide Solves
 
-This guide solves the feature layer: what can your Turkey eSIM actually do for number, calls, SMS and hotspot — and what does it not do? The search query “Turkey eSIM with number” returns contradictory results. Some providers claim a phone number is included. Others say data-only. A few advertise virtual numbers that cannot receive SMS from Turkish banks.
+This guide solves the feature layer: what can your Turkey eSIM actually do for number, calls, SMS and hotspot — and what does it not do? The search query “Turkey eSIM with number” returns contradictory results. Some providers claim a phone number is included. Others say data-only. A few advertise virtual numbers that cannot receive SMS from Turkish banks. For which network your eSIM uses, read the [Turkcell vs Vodafone vs Türk Telekom comparison](/blog/turkcell-vodafone-turk-telekom-esim/), and confirm your phone supports a second line in the [device compatibility guide](/blog/turkey-esim-device-compatibility/).
 
 This page resolves the confusion. It explains what works, what does not, and what to do instead. It covers IMSI versus MSISDN, the three product types, local Turkish carrier eSIM plans with real numbers, when you actually need a Turkish number, virtual numbers and 2FA reality, VoIP calling over eSIM data, Wi-Fi Calling over eSIM data, the dual-SIM SMS workaround, hotspot policies by provider and setup by traveller type.
 

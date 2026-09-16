@@ -81,7 +81,7 @@ Buying a Turkey eSIM online is easy, but the timing and the payment details deci
 
 ## What This Buy Online Guide Solves
 
-This guide solves the buying layer: how to purchase a Turkey eSIM online safely, at the right time, with a payment method that protects you if the eSIM fails after landing. It does not repeat installation, activation, device compatibility or network comparison. Those are covered in the linked deep-dive articles.
+This guide solves the buying layer: how to purchase a Turkey eSIM online safely, at the right time, with a payment method that protects you if the eSIM fails after landing. It does not repeat [installation and activation](/blog/how-turkey-esim-works-activation/), device compatibility or [network comparison](/blog/turkcell-vodafone-turk-telekom-esim/). Those are covered in the linked deep-dive articles.
 
 The core constraint is simple. Turkey is one of the few major travel destinations where you cannot reliably buy an eSIM after arrival. Since July 2025, the BTK has blocked access to more than 50 international eSIM provider websites and apps from inside Turkey. The purchase must happen before you enter Turkish airspace.
 

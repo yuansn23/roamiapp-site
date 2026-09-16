@@ -81,7 +81,7 @@ eSIM is legal in Turkey, but the government’s BTK block can still stop you buy
 
 ## What This Ban Guide Solves
 
-This guide solves the regulatory layer: what actually determines whether your Turkey eSIM will work, and what you can legally do about it. It does not repeat installation steps, device checks, provider comparisons or pricing. Those are covered in the linked deep-dive articles.
+This guide solves the regulatory layer: what actually determines whether your Turkey eSIM will work, and what you can legally do about it. It does not repeat [installation steps](/blog/how-turkey-esim-works-activation/), device checks, [provider comparisons](/blog/best-turkey-esim-providers/) or pricing. Those are covered in the linked deep-dive articles.
 
 Turkey has two separate regulatory tracks. They operate independently. A traveller can comply with one and still be caught by the other:
 

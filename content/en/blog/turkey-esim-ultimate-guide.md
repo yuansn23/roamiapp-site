@@ -81,7 +81,7 @@ This is the one guide that ties together everything about Turkey eSIM — the ru
 
 ## What This Ultimate Guide Solves
 
-This guide solves the full Turkey eSIM search intent chain in one place: whether eSIM is legal in Turkey, whether a pre-installed eSIM works after landing, which network to choose, how much data to buy, which provider to trust, how to install and activate, what breaks after arrival and how to recover. It does not repeat every cluster article in full. It gives you the answer directly in the first paragraph of each section, then routes you to the deep-dive only if you need the full reasoning.
+This guide solves the full Turkey eSIM search intent chain in one place: whether eSIM is legal in Turkey, whether a pre-installed eSIM works after landing, which network to choose, how much data to buy, which provider to trust, how to install and activate, what breaks after arrival and how to recover. It does not repeat every cluster article in full. It gives you the answer directly in the first paragraph of each section, then routes you to the deep-dive only if you need the full reasoning. Start with the [BTK ban and IMEI rules](/blog/turkey-esim-ban-availability-rules/) for the regulatory layer, or jump to the [provider failure-mode comparison](/blog/best-turkey-esim-providers/) to pick a provider.
 
 The three things that make Turkey different from every other eSIM destination are the BTK platform block, the IMEI 120/240-day rule and the network choice between Turkcell, Vodafone and Türk Telekom. If you understand those three layers, 90% of Turkey eSIM decisions become obvious.
 

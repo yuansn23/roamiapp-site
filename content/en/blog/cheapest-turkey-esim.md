@@ -82,7 +82,7 @@ The cheapest Turkey eSIM is rarely the one with the lowest sticker price — it 
 
 ## What This Cost Guide Solves
 
-This guide solves the cost layer: what is the actual cheapest Turkey eSIM for your trip, measured in cost per usable gigabyte? It does not rank providers by brand. It does not cover activation, devices or BTK rules. Those are covered in the linked deep-dive articles.
+This guide solves the cost layer: what is the actual cheapest Turkey eSIM for your trip, measured in cost per usable gigabyte? It does not rank providers by brand — for that, read the [best providers comparison](/blog/best-turkey-esim-providers/). It does not cover activation, devices or [BTK rules](/blog/turkey-esim-ban-availability-rules/). Those are covered in the linked deep-dive articles.
 
 The core insight: the cheapest plan is not the one with the lowest entry price, the longest duration or the biggest “unlimited” claim. It is the plan that minimises total trip cost divided by usable gigabytes. The dominant cost driver is not the first gigabyte. It is the last gigabyte.
 
