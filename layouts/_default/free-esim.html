@@ -432,13 +432,7 @@
             </h1>
 
             <!-- 社交证明 -->
-            <div class="mb-4 flex justify-center">
-                <span class="claim-counter">
-                    <span aria-hidden="true">🚀</span>
-                    <span class="num">{{ .Params.hero.claim_count | default "12,847" }}</span>
-                    {{ .Params.hero.claim_label | default "travelers claimed their free eSIM today" }}
-                </span>
-            </div>
+         
 
             <p class="text-slate-600 text-base sm:text-lg mb-6 max-w-xl mx-auto hero-subtitle">
                 {{ .Params.hero.subtitle }}
@@ -456,9 +450,7 @@
                 <a href="#popularSection" class="w-full sm:w-auto px-8 py-3.5 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-xl shadow-lg hover:shadow-xl transition-all text-lg">
                     {{ .Params.hero.cta_primary }}
                 </a>
-                <a href="#compareSection" class="w-full sm:w-auto px-8 py-3.5 bg-white hover:bg-slate-50 text-slate-700 font-medium rounded-xl border border-slate-300 shadow-sm transition-all text-base">
-                    {{ .Params.hero.cta_compare | default "See How We Compare →" }}
-                </a>
+              
             </div>
 
             <div class="mb-8 flex justify-center w-full trustpilot-widget" aria-label="Trustpilot Reviews">
@@ -712,47 +704,60 @@
 
         <!-- ============================================================ -->
         <!-- FAQ 区域                                                     -->
-        <!-- ============================================================ -->
-        <section class="mt-48 mb-20 sm:mt-64 max-w-4xl mx-auto">
-            <div class="text-center mb-10">
-                <h2 class="text-3xl font-extrabold text-slate-900 sm:text-4xl">{{ .Params.faq.heading }}</h2>
-                <p class="mt-4 text-lg text-slate-600">{{ .Params.ui.faq_section.subtitle }}</p>
-            </div>
-            
-            <div class="space-y-4" role="list">
-                {{ range $index, $faq := .Params.faq.items }}
-                <details role="listitem" class="group rounded-2xl bg-white p-6 border border-slate-200 shadow-sm [&_summary::-webkit-details-marker]:hidden open:ring-2 open:ring-blue-500/20 open:border-blue-300 transition-all duration-300" {{ if eq $index 0 }}open{{ end }}>
-                    <summary class="flex cursor-pointer items-center justify-between gap-1.5 text-slate-900 outline-none">
-                        <h3 class="text-lg font-bold text-slate-800 group-hover:text-blue-600 transition-colors pr-4">{{ .question }}</h3>
-                        <span class="relative h-6 w-6 shrink-0 text-blue-600 bg-blue-50 rounded-full flex items-center justify-center group-hover:bg-blue-100 transition-colors" aria-hidden="true">
-                            <svg class="absolute h-4 w-4 opacity-100 group-open:opacity-0 transition-opacity duration-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" /></svg>
-                            <svg class="absolute h-4 w-4 opacity-0 group-open:opacity-100 transition-opacity duration-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12h-15" /></svg>
-                        </span>
-                    </summary>
-                    <div class="mt-4 text-slate-600 leading-relaxed text-base border-t border-slate-100 pt-4">
-                        {{ .answer | safeHTML }}
-                    </div>
-                </details>
-                {{ end }}
-                <!-- 额外 FAQ（若有） -->
-                {{ if .Params.faq.extra }}
-                {{ range $index, $extra := .Params.faq.extra }}
-                <details role="listitem" class="group rounded-2xl bg-white p-6 border border-slate-200 shadow-sm [&_summary::-webkit-details-marker]:hidden open:ring-2 open:ring-blue-500/20 open:border-blue-300 transition-all duration-300">
-                    <summary class="flex cursor-pointer items-center justify-between gap-1.5 text-slate-900 outline-none">
-                        <h3 class="text-lg font-bold text-slate-800 group-hover:text-blue-600 transition-colors pr-4">{{ $extra.question }}</h3>
-                        <span class="relative h-6 w-6 shrink-0 text-blue-600 bg-blue-50 rounded-full flex items-center justify-center group-hover:bg-blue-100 transition-colors" aria-hidden="true">
-                            <svg class="absolute h-4 w-4 opacity-100 group-open:opacity-0 transition-opacity duration-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" /></svg>
-                            <svg class="absolute h-4 w-4 opacity-0 group-open:opacity-100 transition-opacity duration-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12h-15" /></svg>
-                        </span>
-                    </summary>
-                    <div class="mt-4 text-slate-600 leading-relaxed text-base border-t border-slate-100 pt-4">
-                        {{ $extra.answer | safeHTML }}
-                    </div>
-                </details>
-                {{ end }}
-                {{ end }}
-            </div>
-        </section>
+       <!-- ============================================================ -->
+<!-- ============================================================ -->
+<!-- 动态取当前语言，站内链接加多语言前缀（en 默认语言保持 /compatibility/） -->
+{{ $compatURL := "/compatibility/" | relLangURL }}
+
+<section class="mt-48 mb-20 sm:mt-64 max-w-4xl mx-auto">
+    <div class="text-center mb-10">
+        <h2 class="text-3xl font-extrabold text-slate-900 sm:text-4xl">{{ .Params.faq.heading }}</h2>
+        <p class="mt-4 text-lg text-slate-600">{{ .Params.ui.faq_section.subtitle }}</p>
+    </div>
+
+    <div class="space-y-4" role="list">
+
+        {{ range $index, $faq := .Params.faq.items }}
+            {{ $answer := replace $faq.answer "/compatibility/" $compatURL }}
+
+            <details role="listitem"
+                     class="group rounded-2xl bg-white p-6 border border-slate-200 shadow-sm [&_summary::-webkit-details-marker]:hidden open:ring-2 open:ring-blue-500/20 open:border-blue-300 transition-all duration-300"
+                     {{ if eq $index 0 }}open{{ end }}>
+                <summary class="flex cursor-pointer items-center justify-between gap-1.5 text-slate-900 outline-none">
+                    <h3 class="text-lg font-bold text-slate-800 group-hover:text-blue-600 transition-colors pr-4">{{ $faq.question }}</h3>
+                    <span class="relative h-6 w-6 shrink-0 text-blue-600 bg-blue-50 rounded-full flex items-center justify-center group-hover:bg-blue-100 transition-colors" aria-hidden="true">
+                        <svg class="absolute h-4 w-4 opacity-100 group-open:opacity-0 transition-opacity duration-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" /></svg>
+                        <svg class="absolute h-4 w-4 opacity-0 group-open:opacity-100 transition-opacity duration-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12h-15" /></svg>
+                    </span>
+                </summary>
+                <div class="mt-4 text-slate-600 leading-relaxed text-base border-t border-slate-100 pt-4">
+                    {{ $answer | safeHTML }}
+                </div>
+            </details>
+        {{ end }}
+
+        {{ if .Params.faq.extra }}
+        {{ range $index, $extra := .Params.faq.extra }}
+            {{ $answer := replace $extra.answer "/compatibility/" $compatURL }}
+
+            <details role="listitem"
+                     class="group rounded-2xl bg-white p-6 border border-slate-200 shadow-sm [&_summary::-webkit-details-marker]:hidden open:ring-2 open:ring-blue-500/20 open:border-blue-300 transition-all duration-300">
+                <summary class="flex cursor-pointer items-center justify-between gap-1.5 text-slate-900 outline-none">
+                    <h3 class="text-lg font-bold text-slate-800 group-hover:text-blue-600 transition-colors pr-4">{{ $extra.question }}</h3>
+                    <span class="relative h-6 w-6 shrink-0 text-blue-600 bg-blue-50 rounded-full flex items-center justify-center group-hover:bg-blue-100 transition-colors" aria-hidden="true">
+                        <svg class="absolute h-4 w-4 opacity-100 group-open:opacity-0 transition-opacity duration-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" /></svg>
+                        <svg class="absolute h-4 w-4 opacity-0 group-open:opacity-100 transition-opacity duration-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12h-15" /></svg>
+                    </span>
+                </summary>
+                <div class="mt-4 text-slate-600 leading-relaxed text-base border-t border-slate-100 pt-4">
+                    {{ $answer | safeHTML }}
+                </div>
+            </details>
+        {{ end }}
+        {{ end }}
+
+    </div>
+</section>
 
  
 
