@@ -166,6 +166,6 @@ cta:
   subtitle: "كود خصم eSIM: WEB20"
   ios_link: "https://apps.apple.com/app/id6747127122"
   ios_text: "تنزيل من App Store"
-  android_link: "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+  android_link: "https://www.phonesimgo.com/"
   android_text: "احصل عليه من Google Play"
 ---

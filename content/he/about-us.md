@@ -32,7 +32,7 @@ schema: |-
     },
     "sameAs": [
       "https://apps.apple.com/app/id6747127122",
-      "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+      "https://www.phonesimgo.com/"
     ]
   }
 
@@ -100,7 +100,7 @@ mission:
 partners:
   section_label: "רשת הספקים הגלובלית"
   title: "נאמן על ידי <span class='text-blue-600'>50+ ספקים מובילים</span> ברחבי העולם"
-  view_all_link: "/carriers/"
+  view_all_link: ""
   view_all_text: "צפו בכל 50+ השותפים"
   
   # 默认折扣码
@@ -220,7 +220,7 @@ cta:
   subtitle_color: "#FFFFFF"
   ios_link: "https://apps.apple.com/app/id6747127122"
   ios_text: "הורדה ב-App Store"
-  android_link: "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+  android_link: "https://www.phonesimgo.com/"
   android_text: "קבל ב-Google Play"
   contact_link: "/contact/"
   contact_text: "צור קשר"

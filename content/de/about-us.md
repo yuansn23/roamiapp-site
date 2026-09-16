@@ -32,7 +32,7 @@ schema: |-
     },
     "sameAs": [
       "https://apps.apple.com/app/id6747127122",
-      "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+      "https://www.phonesimgo.com/"
     ]
   }
 
@@ -100,7 +100,7 @@ mission:
 partners:
   section_label: "Globales Partnernetzwerk"
   title: "Vertrauen von <span class='text-blue-600'>50+ führenden Netzbetreibern</span> weltweit"
-  view_all_link: "/carriers/"
+  view_all_link: ""
   view_all_text: "Alle 50+ Partner anzeigen"
   
   # Standard-Rabattcode
@@ -220,7 +220,7 @@ cta:
   subtitle_color: "#FFFFFF"
   ios_link: "https://apps.apple.com/app/id6747127122"
   ios_text: "Im App Store laden"
-  android_link: "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+  android_link: "https://www.phonesimgo.com/"
   android_text: "Bei Google Play herunterladen"
   contact_link: "/contact/"
   contact_text: "Kontakt"

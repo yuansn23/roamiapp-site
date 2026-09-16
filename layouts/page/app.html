@@ -243,31 +243,36 @@
         </ul>
     </div>
 
-    <!-- ===== 移动端菜单按钮（由 header.html 渲染） ===== -->
-    <script>
-        (function() {
-            const menuBtn = document.getElementById('fixedMobileMenuBtn');
-            const menuPanel = document.getElementById('fixedMobileMenuPanel');
-            const closeBtn = document.getElementById('closeMobileMenu');
-            if (menuBtn && menuPanel) {
-                function openMenu() {
-                    menuPanel.classList.add('open');
-                    document.body.style.overflow = 'hidden';
-                }
+    <!-- ============================================================
+    修复4：移动端菜单脚本
+    ★ 加 data-cfasync="false" 让 Rocket Loader 跳过
+    ★ 包进 IIFE，避免全局污染
+    ============================================================ -->
+    <script data-cfasync="false">
+        (function () {
+            'use strict';
+            var menuBtn  = document.getElementById('fixedMobileMenuBtn');
+            var menuPanel = document.getElementById('fixedMobileMenuPanel');
+            var closeBtn = document.getElementById('closeMobileMenu');
+            if (!menuBtn || !menuPanel) return;
 
-                function closeMenu() {
-                    menuPanel.classList.remove('open');
-                    document.body.style.overflow = '';
-                }
-                menuBtn.addEventListener('click', openMenu);
-                if (closeBtn) closeBtn.addEventListener('click', closeMenu);
-                menuPanel.addEventListener('click', function(e) {
-                    if (e.target === menuPanel) closeMenu();
-                });
-                document.addEventListener('keydown', function(e) {
-                    if (e.key === 'Escape' && menuPanel.classList.contains('open')) closeMenu();
-                });
+            function openMenu() {
+                menuPanel.classList.add('open');
+                document.body.style.overflow = 'hidden';
             }
+            function closeMenu() {
+                menuPanel.classList.remove('open');
+                document.body.style.overflow = '';
+            }
+
+            menuBtn.addEventListener('click', openMenu);
+            if (closeBtn) closeBtn.addEventListener('click', closeMenu);
+            menuPanel.addEventListener('click', function (e) {
+                if (e.target === menuPanel) closeMenu();
+            });
+            document.addEventListener('keydown', function (e) {
+                if (e.key === 'Escape' && menuPanel.classList.contains('open')) closeMenu();
+            });
         })();
     </script>
 
@@ -304,7 +309,8 @@
                         </p>
 
                         <div class="flex flex-col items-center justify-center lg:justify-start gap-4">
-                            <button class="hero-smart-btn w-full sm:w-auto" onclick="handleSmartDownload(event)" aria-label="{{ $ui.aria_smart_download | default "Smart Download Application" }}">
+                            <!-- ★ 修复5：移除内联 onclick，改用 data-smart-download -->
+                            <button type="button" class="hero-smart-btn w-full sm:w-auto" data-smart-download aria-label="{{ $ui.aria_smart_download | default "Smart Download Application" }}">
                                 <svg aria-hidden="true" class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-3 3m0 0l-3-3m3 3V4"/></svg>
                                 {{ .smart_button_text }}
                             </button>
@@ -508,7 +514,8 @@
                         <h2 class="text-3xl md:text-4xl font-black mb-6">{{ .title }}</h2>
                         <p class="text-blue-100 text-lg mb-10 max-w-2xl mx-auto">{{ .description }}</p>
                         <div class="flex justify-center">
-                            <button class="bottom-cta-btn w-full sm:w-auto" aria-label="{{ $.Params.ui.aria_smart_download | default "Smart Download Application" }}" onclick="handleSmartDownload(event)">
+                            <!-- ★ 修复5（续）：移除内联 onclick -->
+                            <button type="button" class="bottom-cta-btn w-full sm:w-auto" data-smart-download aria-label="{{ $.Params.ui.aria_smart_download | default "Smart Download Application" }}">
                                 <svg aria-hidden="true" class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2.5"><path stroke-linecap="round" stroke-linejoin="round" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-3 3m0 0l-3-3m3 3V4"/></svg>
                                 {{ .smart_button_text }}
                             </button>
@@ -522,11 +529,15 @@
 
     {{ partial "footer.html" . }}
 
-    <!-- ===== Modal ===== -->
+    <!-- ============================================================
+    修复6：Modal
+    ★ 给内层容器加 id="smartModalContent"，替代 querySelector('div')
+    ★ 关闭按钮改为 data-modal-close，不再内联 onclick
+    ============================================================ -->
     {{ with .Params.popup }}
         <div id="smartModal" role="dialog" aria-modal="true" aria-labelledby="modal-title" class="hidden fixed inset-0 z-[100] flex items-center justify-center bg-slate-900/70 backdrop-blur-sm opacity-0 transition-opacity duration-300">
-            <div class="bg-white rounded-3xl p-8 max-w-md w-full mx-4 shadow-2xl transform scale-95 transition-transform duration-300 relative text-center">
-                <button onclick="closeModal()" aria-label="{{ $.Params.ui.aria_close_dialog | default "Close dialog" }}" class="absolute top-4 right-4 p-2 text-slate-400 hover:text-slate-700 hover:bg-slate-100 rounded-full transition">
+            <div id="smartModalContent" class="bg-white rounded-3xl p-8 max-w-md w-full mx-4 shadow-2xl transform scale-95 transition-transform duration-300 relative text-center">
+                <button type="button" data-modal-close aria-label="{{ $.Params.ui.aria_close_dialog | default "Close dialog" }}" class="absolute top-4 right-4 p-2 text-slate-400 hover:text-slate-700 hover:bg-slate-100 rounded-full transition">
                     <svg aria-hidden="true" class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"/></svg>
                 </button>
 
@@ -551,54 +562,116 @@
         </div>
     {{ end }}
 
-    <!-- ===== 应用链接配置 ===== -->
-    {{ with .Params.links }}
-        <script>
-            var appLinks = {
-                ios: "{{ .ios_app | safeJS }}",
-                android: "{{ .android_app | safeJS }}",
-                pc: "{{ .pc_web | safeJS }}"
-            };
-        </script>
-    {{ end }}
+    <!-- ============================================================
+    修复7：应用链接配置
+    ★ 加 data-cfasync="false" 让 Rocket Loader 跳过此脚本
+    ★ 使用 window.__APP_LINKS__ 命名空间，避免全局污染
+    ★ 兜底默认值，防止 links 未配置时 appLinks 为 undefined
+    ============================================================ -->
+    <script data-cfasync="false">
+        window.__APP_LINKS__ = {
+            ios: {{ with .Params.links }}{{ .ios_app | default "" | jsonify | safeJS }}{{ else }}""{{ end }},
+            android: {{ with .Params.links }}{{ .android_app | default "" | jsonify | safeJS }}{{ else }}""{{ end }},
+            pc: {{ with .Params.links }}{{ .pc_web | default "" | jsonify | safeJS }}{{ else }}""{{ end }}
+        };
+    </script>
 
-    <!-- ===== 模态框控制脚本 ===== -->
-    <script>
-        var modal = document.getElementById('smartModal');
+    <!-- ============================================================
+    修复8：模态框 + 智能下载控制脚本（核心修复）
+    ★ data-cfasync="false"：Rocket Loader 不处理
+    ★ IIFE + 'use strict'：不污染全局
+    ★ 使用 firstElementChild / getElementById 替代 querySelector('div')
+    ★ 使用 addEventListener 绑定，不再依赖内联 onclick
+    ★ 处理 appLinks 空值兜底，防止跳转到 "undefined"
+    ============================================================ -->
+    <script data-cfasync="false">
+        (function () {
+            'use strict';
 
-        function openModal(targetUrl) {
-            document.body.classList.add('modal-open');
-            if (modal) {
-                modal.classList.remove('hidden');
-                setTimeout(function() {
-                    modal.classList.remove('opacity-0');
-                    modal.querySelector('div').classList.remove('scale-95');
-                }, 10);
-                document.getElementById('modalContinueBtn').href = targetUrl;
+            var APP_LINKS = window.__APP_LINKS__ || { ios: '', android: '', pc: '' };
+            var smartModalEl = document.getElementById('smartModal');
+            var smartModalContent = document.getElementById('smartModalContent');
+            var modalContinueBtn = document.getElementById('modalContinueBtn');
+
+            // ---------- 打开 / 关闭 Modal ----------
+            function openModal(targetUrl) {
+                if (!smartModalEl) return;
+                document.body.classList.add('modal-open');
+                smartModalEl.classList.remove('hidden');
+                // 触发过渡动画
+                requestAnimationFrame(function () {
+                    smartModalEl.classList.remove('opacity-0');
+                    if (smartModalContent) smartModalContent.classList.remove('scale-95');
+                });
+                if (modalContinueBtn && targetUrl) {
+                    modalContinueBtn.href = targetUrl;
+                }
             }
-        }
 
-        function closeModal() {
-            if (modal) {
-                modal.classList.add('opacity-0');
-                modal.querySelector('div').classList.add('scale-95');
+            function closeModal() {
+                if (!smartModalEl) return;
+                smartModalEl.classList.add('opacity-0');
+                if (smartModalContent) smartModalContent.classList.add('scale-95');
                 document.body.classList.remove('modal-open');
-                setTimeout(function() { modal.classList.add('hidden'); }, 300);
+                setTimeout(function () {
+                    smartModalEl.classList.add('hidden');
+                }, 300);
             }
-        }
-        if (modal) modal.addEventListener('click', function(e) { if (e.target === modal) closeModal(); });
 
-        function handleSmartDownload(e) {
-            e.preventDefault();
-            var ua = navigator.userAgent;
-            if (/iPad|iPhone|iPod/.test(ua) && !window.MSStream) {
-                window.location.href = appLinks.ios;
-            } else if (/android/i.test(ua)) {
-                openModal(appLinks.android);
-            } else {
-                openModal(appLinks.pc);
+            // ---------- 智能下载 ----------
+            function handleSmartDownload(e) {
+                if (e) e.preventDefault();
+                var ua = navigator.userAgent || '';
+                var isIOS = /iPad|iPhone|iPod/.test(ua) && !window.MSStream;
+                var isAndroid = /android/i.test(ua);
+
+                if (isIOS) {
+                    if (APP_LINKS.ios) {
+                        window.location.href = APP_LINKS.ios;
+                    } else {
+                        // 兜底：无 iOS 链接时也走弹窗
+                        openModal(APP_LINKS.pc || '#');
+                    }
+                } else if (isAndroid) {
+                    if (APP_LINKS.android) {
+                        openModal(APP_LINKS.android);
+                    } else {
+                        openModal(APP_LINKS.pc || '#');
+                    }
+                } else {
+                    openModal(APP_LINKS.pc || '#');
+                }
             }
-        }
+
+            // ---------- 事件绑定（全部 addEventListener） ----------
+            // 1) 所有带 data-smart-download 的按钮（Hero + Bottom CTA）
+            document.querySelectorAll('[data-smart-download]').forEach(function (btn) {
+                btn.addEventListener('click', handleSmartDownload);
+            });
+
+            // 2) 所有带 data-modal-close 的元素（关闭按钮）
+            document.querySelectorAll('[data-modal-close]').forEach(function (btn) {
+                btn.addEventListener('click', closeModal);
+            });
+
+            // 3) 点击 Modal 背景关闭
+            if (smartModalEl) {
+                smartModalEl.addEventListener('click', function (e) {
+                    if (e.target === smartModalEl) closeModal();
+                });
+            }
+
+            // 4) ESC 关闭 Modal
+            document.addEventListener('keydown', function (e) {
+                if (e.key === 'Escape' && smartModalEl && !smartModalEl.classList.contains('hidden')) {
+                    closeModal();
+                }
+            });
+
+            // 暴露（可选）：外部如需手动调用
+            window.openSmartModal = openModal;
+            window.closeSmartModal = closeModal;
+        })();
     </script>
 
 </body>

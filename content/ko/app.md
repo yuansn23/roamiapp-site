@@ -40,7 +40,7 @@ popup:
 # ================= 동적 리디렉션 링크 구성 =================
 links:
   ios_app: "https://apps.apple.com/app/id6747127122"
-  android_app: "https://play.google.com/store/apps/details?id=com.usphonesimgo.app&hl=zh"
+  android_app: "https://www.phonesimgo.com/"
   pc_web: "https://www.phonesimgo.com/"
 
 # ================= SEO 및 스키마 =================

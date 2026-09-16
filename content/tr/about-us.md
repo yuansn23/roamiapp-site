@@ -32,7 +32,7 @@ schema: |-
     },
     "sameAs": [
       "https://apps.apple.com/app/id6747127122",
-      "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+      "https://www.phonesimgo.com/"
     ]
   }
 
@@ -100,7 +100,7 @@ mission:
 partners:
   section_label: "Küresel Taşıyıcı Ağı"
   title: "Dünya Çapında <span class='text-blue-600'>50+ Lider Operatör</span> Tarafından Güveniliyor"
-  view_all_link: "/carriers/"
+  view_all_link: ""
   view_all_text: "50+ Ortağın Tamamını Görün"
   
   # Varsayılan indirim kodu
@@ -220,7 +220,7 @@ cta:
   subtitle_color: "#FFFFFF"
   ios_link: "https://apps.apple.com/app/id6747127122"
   ios_text: "App Store'dan İndir"
-  android_link: "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+  android_link: "https://www.phonesimgo.com/"
   android_text: "Google Play'den Alın"
   contact_link: "/contact/"
   contact_text: "Bize Ulaşın"

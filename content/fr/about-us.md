@@ -32,7 +32,7 @@ schema: |-
     },
     "sameAs": [
       "https://apps.apple.com/app/id6747127122",
-      "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+      "https://www.phonesimgo.com/"
     ]
   }
 
@@ -100,7 +100,7 @@ mission:
 partners:
   section_label: "Réseau d'opérateurs mondial"
   title: "Approuvé par <span class='text-blue-600'>50+ opérateurs leaders</span> dans le monde"
-  view_all_link: "/carriers/"
+  view_all_link: ""
   view_all_text: "Voir les 50+ partenaires"
   
   # Code promo par défaut
@@ -220,7 +220,7 @@ cta:
   subtitle_color: "#FFFFFF"
   ios_link: "https://apps.apple.com/app/id6747127122"
   ios_text: "Télécharger sur l'App Store"
-  android_link: "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+  android_link: "https://www.phonesimgo.com/"
   android_text: "Disponible sur Google Play"
   contact_link: "/contact/"
   contact_text: "Nous contacter"

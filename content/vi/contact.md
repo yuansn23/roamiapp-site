@@ -73,6 +73,6 @@ cta:
   subtitle: "Mã giảm giá eSIM: WEB20"
   ios_link: "https://apps.apple.com/app/id6747127122"
   ios_text: "Tải xuống trên App Store"
-  android_link: "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+  android_link: "https://www.phonesimgo.com/"
   android_text: "Tải trên Google Play"
 ---

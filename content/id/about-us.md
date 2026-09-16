@@ -33,7 +33,7 @@ schema: |-
     },
     "sameAs": [
       "https://apps.apple.com/app/id6747127122",
-      "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+      "https://www.phonesimgo.com/"
     ]
   }
 
@@ -101,7 +101,7 @@ mission:
 partners:
   section_label: "Jaringan Operator Global"
   title: "Dipercaya oleh <span class='text-blue-600'>50+ Operator Terkemuka</span> di Seluruh Dunia"
-  view_all_link: "/carriers/"
+  view_all_link: ""
   view_all_text: "Lihat Semua 50+ Mitra"
   
   default_discount_code: "WEB20"
@@ -215,7 +215,7 @@ cta:
   subtitle_color: "#FFFFFF"
   ios_link: "https://apps.apple.com/app/id6747127122"
   ios_text: "Unduh di App Store"
-  android_link: "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+  android_link: "https://www.phonesimgo.com/"
   android_text: "Dapatkan di Google Play"
   contact_link: "/contact/"
   contact_text: "Hubungi Kami"

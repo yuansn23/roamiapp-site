@@ -33,7 +33,7 @@ schema: |-
     },
     "sameAs": [
       "https://apps.apple.com/app/id6747127122",
-      "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+      "https://www.phonesimgo.com/"
     ]
   }
 
@@ -101,7 +101,7 @@ mission:
 partners:
   section_label: "글로벌 통신사 네트워크"
   title: "<span class='text-blue-600'>50개 이상의 주요 통신사</span>가 신뢰하는 파트너"
-  view_all_link: "/carriers/"
+  view_all_link: ""
   view_all_text: "50+ 모든 파트너 보기"
   
   # 기본 할인 코드
@@ -221,7 +221,7 @@ cta:
   subtitle_color: "#FFFFFF"
   ios_link: "https://apps.apple.com/app/id6747127122"
   ios_text: "App Store에서 다운로드"
-  android_link: "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+  android_link: "https://www.phonesimgo.com/"
   android_text: "Google Play에서 다운로드"
   contact_link: "/contact/"
   contact_text: "문의하기"

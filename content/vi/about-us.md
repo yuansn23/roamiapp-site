@@ -32,7 +32,7 @@ schema: |-
     },
     "sameAs": [
       "https://apps.apple.com/app/id6747127122",
-      "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+      "https://www.phonesimgo.com/"
     ]
   }
 
@@ -100,7 +100,7 @@ mission:
 partners:
   section_label: "Mạng lưới nhà mạng toàn cầu"
   title: "Được tin cậy bởi <span class='text-blue-600'>50+ Nhà mạng hàng đầu</span> trên toàn thế giới"
-  view_all_link: "/carriers/"
+  view_all_link: ""
   view_all_text: "Xem tất cả 50+ đối tác"
   
   # 默认折扣码
@@ -220,7 +220,7 @@ cta:
   subtitle_color: "#FFFFFF"
   ios_link: "https://apps.apple.com/app/id6747127122"
   ios_text: "Tải xuống trên App Store"
-  android_link: "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+  android_link: "https://www.phonesimgo.com/"
   android_text: "Tải trên Google Play"
   contact_link: "/contact/"
   contact_text: "Liên hệ với chúng tôi"

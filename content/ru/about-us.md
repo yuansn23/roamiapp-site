@@ -32,7 +32,7 @@ schema: |-
     },
     "sameAs": [
       "https://apps.apple.com/app/id6747127122",
-      "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+      "https://www.phonesimgo.com/"
     ]
   }
 
@@ -100,7 +100,7 @@ mission:
 partners:
   section_label: "Глобальная сеть операторов"
   title: "Нам доверяют <span class='text-blue-600'>50+ ведущих операторов</span> по всему миру"
-  view_all_link: "/carriers/"
+  view_all_link: ""
   view_all_text: "Посмотреть всех 50+ партнеров"
   
   # Стандартный промокод
@@ -220,7 +220,7 @@ cta:
   subtitle_color: "#FFFFFF"
   ios_link: "https://apps.apple.com/app/id6747127122"
   ios_text: "Скачать в App Store"
-  android_link: "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+  android_link: "https://www.phonesimgo.com/"
   android_text: "Скачать в Google Play"
   contact_link: "/contact/"
   contact_text: "Связаться с нами"

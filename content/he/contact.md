@@ -73,6 +73,6 @@ cta:
   subtitle: "קוד הנחה ל-eSIM: WEB20"
   ios_link: "https://apps.apple.com/app/id6747127122"
   ios_text: "הורדה ב-App Store"
-  android_link: "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+  android_link: "https://www.phonesimgo.com/"
   android_text: "קבל ב-Google Play"
 ---

@@ -32,7 +32,7 @@ schema: |-
     },
     "sameAs": [
       "https://apps.apple.com/app/id6747127122",
-      "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+      "https://www.phonesimgo.com/"
     ]
   }
 
@@ -100,7 +100,7 @@ mission:
 partners:
   section_label: "グローバルキャリアネットワーク"
   title: "世界中の <span class='text-blue-600'>50以上の主要オペレーター</span> から信頼されています"
-  view_all_link: "/carriers/"
+  view_all_link: ""
   view_all_text: "50以上のパートナーをすべて見る"
   
   # 默认折扣码
@@ -220,7 +220,7 @@ cta:
   subtitle_color: "#FFFFFF"
   ios_link: "https://apps.apple.com/app/id6747127122"
   ios_text: "App Storeでダウンロード"
-  android_link: "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+  android_link: "https://www.phonesimgo.com/"
   android_text: "Google Playで入手"
   contact_link: "/contact/"
   contact_text: "お問い合わせ"

@@ -32,7 +32,7 @@ schema: |-
     },
     "sameAs": [
       "https://apps.apple.com/app/id6747127122",
-      "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+      "https://www.phonesimgo.com/"
     ]
   }
 
@@ -100,7 +100,7 @@ mission:
 partners:
   section_label: "เครือข่ายผู้ให้บริการระดับโลก"
   title: "เชื่อถือโดย <span class='text-blue-600'>ผู้ให้บริการชั้นนำ 50+ ราย</span> ทั่วโลก"
-  view_all_link: "/carriers/"
+  view_all_link: ""
   view_all_text: "ดูพันธมิตรทั้งหมด 50+ ราย"
   
   # 默认折扣码
@@ -220,7 +220,7 @@ cta:
   subtitle_color: "#FFFFFF"
   ios_link: "https://apps.apple.com/app/id6747127122"
   ios_text: "ดาวน์โหลดบน App Store"
-  android_link: "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+  android_link: "https://www.phonesimgo.com/"
   android_text: "รับได้ที่ Google Play"
   contact_link: "/contact/"
   contact_text: "ติดต่อเรา"

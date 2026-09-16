@@ -39,7 +39,7 @@ popup:
 # ================= Конфигурация ссылок =================
 links:
   ios_app: "https://apps.apple.com/app/id6747127122"
-  android_app: "https://play.google.com/store/apps/details?id=com.usphonesimgo.app&hl=ru"
+  android_app: "https://www.phonesimgo.com/"
   pc_web: "https://www.phonesimgo.com/"
 
 # ================= SEO и Schema =================

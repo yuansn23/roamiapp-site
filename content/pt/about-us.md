@@ -32,7 +32,7 @@ schema: |-
     },
     "sameAs": [
       "https://apps.apple.com/app/id6747127122",
-      "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+      "https://www.phonesimgo.com/"
     ]
   }
 
@@ -100,7 +100,7 @@ mission:
 partners:
   section_label: "Rede global de operadoras"
   title: "Confiado por <span class='text-blue-600'>mais de 50 operadoras líderes</span> em todo o mundo"
-  view_all_link: "/carriers/"
+  view_all_link: ""
   view_all_text: "Ver todos os mais de 50 parceiros"
   
   # 默认折扣码
@@ -220,7 +220,7 @@ cta:
   subtitle_color: "#FFFFFF"
   ios_link: "https://apps.apple.com/app/id6747127122"
   ios_text: "Baixe na App Store"
-  android_link: "https://play.google.com/store/apps/details?id=com.usphonesimgo.app"
+  android_link: "https://www.phonesimgo.com/"
   android_text: "Obtenha no Google Play"
   contact_link: "/contact/"
   contact_text: "Fale conosco"
