@@ -613,3 +613,33 @@ other = "אותה רשת. מחיר נמוך יותר. השוו אותנו."
 
 [promo_compare_desc]
 other = "Roami eSIM: חסכו עד 30% לעומת המתחרים המובילים."
+
+# social share
+[share_this]
+other = "שתף"
+
+
+# 邮箱收集表单（lead form）
+[lead_form_title]
+other = "חסכו על ה-eSIM"
+
+[lead_form_badge]
+other = "20% הנחה"
+[lead_form_subtitle]
+other = "השאירו את המייל ואת תאריך הנסיעה. נשלח קוד הנחה לפני הטיסה."
+[lead_form_email_placeholder]
+other = "המייל שלכם"
+[lead_form_submit]
+other = "שלחו לי את הקוד"
+[lead_form_trust]
+other = "ללא ספאם. ניתן לבטל בכל עת."
+[lead_form_success]
+other = "הצלחה! בדקו את תיבת הדואר לפני הנסיעה."
+[lead_form_err_invalid]
+other = "נא להזין כתובת מייל תקינה."
+[lead_form_err_generic]
+other = "משהו השתבש. נסו שוב."
+[lead_form_err_network]
+other = "שגיאת רשת. נסו שוב."
+[lead_form_sending]
+other = "שולח..."

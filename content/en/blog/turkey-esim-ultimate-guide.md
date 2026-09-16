@@ -145,7 +145,7 @@ This section maps every major Turkey eSIM search intent to a direct answer. The 
 
 ### Intent 3: Does My Phone Support a Turkey eSIM?
 
-**Direct answer:** Check EID in Settings → About. If the EID is missing, your phone has no eUICC hardware and cannot use eSIM. Also check carrier lock and regional variant. **Full reasoning:** [device compatibility checks](/blog/turkey-esim-device-compatibility/).
+**Direct answer:** Check EID in Settings → About. If the EID is missing, your phone has no eUICC hardware and cannot use eSIM. Also check carrier lock and regional variant. **Full reasoning:** [the EID and lock checks](/blog/turkey-esim-device-compatibility/).
 
 ### Intent 4: Which Turkey eSIM Provider Should I Choose?
 
@@ -153,7 +153,7 @@ This section maps every major Turkey eSIM search intent to a direct answer. The 
 
 ### Intent 5: How Much Should I Pay for a Turkey eSIM?
 
-**Direct answer:** A 20 GB fixed-data plan at $0.67/GB beats most unlimited plans after FUP throttling. The break-even point between unlimited and fixed-data is around 20 GB of usage for a 7-day trip. **Full reasoning:** [cheapest Turkey eSIM cost analysis](/blog/cheapest-turkey-esim/).
+**Direct answer:** A 20 GB fixed-data plan at $0.67/GB beats most unlimited plans after FUP throttling. The break-even point between unlimited and fixed-data is around 20 GB of usage for a 7-day trip. **Full reasoning:** [the cost-per-GB breakdown](/blog/cheapest-turkey-esim/).
 
 ### Intent 6: How Do I Buy a Turkey eSIM Safely and Get a Refund If It Fails?
 
@@ -173,7 +173,7 @@ This section maps every major Turkey eSIM search intent to a direct answer. The 
 
 ### Intent 10: Can I Get Calls, SMS, 2FA or Hotspot on a Turkey eSIM?
 
-**Direct answer:** Travel eSIMs are data-only. Keep home SIM active for SMS and 2FA. VoIP handles calls over data. Hotspot policy varies by provider. **Full reasoning:** [calls, SMS and hotspot guide](/blog/turkey-esim-number-calls-sms-hotspot/).
+**Direct answer:** Travel eSIMs are data-only. Keep home SIM active for SMS and 2FA. VoIP handles calls over data. Hotspot policy varies by provider. **Full reasoning:** [the SMS and hotspot guide](/blog/turkey-esim-number-calls-sms-hotspot/).
 
 ### Intent 11: What Actually Goes Wrong with Turkey eSIMs?
 
@@ -199,7 +199,7 @@ This section tracks the changes that affect every Turkey eSIM purchase this year
 
 **Additional 2026 development:** Turkey introduced mandatory SIM card verification for foreign nationals. Tourists must verify their SIM cards in person at a mobile operator office with an original passport or residence permit. After 90 days from the introduction of the new requirements, unverified SIM cards will be fully deactivated without restoration. Each foreign citizen may only register one SIM card. This makes local Turkish SIMs even less practical for tourists and reinforces the travel eSIM as the simpler option. The [BTK](https://www.btk.gov.tr/), Turkey’s telecom regulator, publishes these requirements.
 
-## The Most Common Mistakes
+## What Are the Most Common Mistakes?
 
 This section aggregates the failure patterns from across the cluster. Each mistake appears in at least three cluster articles. Fixing these eight mistakes covers about 90% of the failure modes travellers report on Reddit, Trustpilot and travel forums.
 
@@ -286,7 +286,7 @@ This table gives you the minimum context to choose a plan size. Full cost analys
 
 **Increment detail:** The plan-size decision dominates the provider-choice decision. Buying 20 GB from a mid-priced provider is cheaper per GB than buying 1 GB from the cheapest provider. A 20 GB fixed-data plan delivers the lowest effective cost per usable GB at $0.67, even compared to "cheap" unlimited plans after FUP throttling.
 
-## The Decision Framework
+## How Do You Decide Which Plan to Buy?
 
 This section gives you the minimum context to choose. It does not repeat the full detail from the cluster articles. Each decision axis maps to a specific failure mode or trip characteristic.
 
@@ -329,7 +329,7 @@ This section gives you the minimum context to choose. It does not repeat the ful
 
 If you want a low-risk starting point, [Turkey eSIM plans](/turkey-esim/) from Roami add automatic Turkcell and Vodafone switching, unrestricted hotspot, transparent FUP and 24/7 human support.
 
-## Regional Plans: Country List Check
+## Does Your Plan Cover All Your Countries?
 
 The plan name is not the country list. This is the most common regional eSIM failure. Nomad 35-country Europe excludes Turkey. Airalo Turkey excludes North Cyprus. Generic "Cyprus" eSIMs cover the south, not the TRNC.
 
@@ -348,9 +348,9 @@ The plan name is not the country list. This is the most common regional eSIM fai
 
 This is the minimum workflow. Each step links to the full deep-dive article for that stage.
 
-1. Choose provider and plan based on data need and network. Compare options in the [best Turkey eSIM providers guide](/blog/best-turkey-esim-providers/).
-2. Buy on Wi-Fi before departure. Receive QR code by email. Read the [buy Turkey eSIM online guide](/blog/buy-turkey-esim-online/) for the full purchase workflow.
-3. Install the profile. Label the line "Turkey." See the [Turkey eSIM activation and APN guide](/blog/how-turkey-esim-works-activation/).
+1. Choose provider and plan based on data need and network. Compare options in the [providers guide](/blog/best-turkey-esim-providers/).
+2. Buy on Wi-Fi before departure. Receive QR code by email. Read the [buying steps](/blog/buy-turkey-esim-online/) for the full purchase workflow.
+3. Install the profile. Label the line "Turkey." See the [install and APN guide](/blog/how-turkey-esim-works-activation/).
 4. Configure dual SIM: Turkey eSIM for Mobile Data, home SIM for Voice & SMS.
 5. Keep data roaming OFF until landing.
 6. After landing, enable data roaming. Wait 2–5 minutes for registration.
@@ -359,11 +359,23 @@ If you forget to buy before you fly, options are limited: airport Wi-Fi (unrelia
 
 ## Device Compatibility: Three Checks
 
-Before buying, confirm three things. Each check takes under 60 seconds. For the full device compatibility database, read the [Turkey eSIM device compatibility guide](/blog/turkey-esim-device-compatibility/).
+Before buying, confirm three things. Each check takes under 60 seconds. For the full device compatibility database, read the [device compatibility database](/blog/turkey-esim-device-compatibility/).
 
 1. **EID present.** Settings → About → EID. If missing, no eUICC hardware and no eSIM support.
 2. **Carrier unlocked.** iPhone: Settings → General → About → Carrier Lock should say "No SIM restrictions."
 3. **Regional variant supports eSIM.** iPhones from mainland China, Hong Kong and Macau have no eUICC chip.
+
+## Real Example: The Two-Traveller Split
+
+Two travellers on the same Istanbul trip: one bought a cheap unlimited plan and throttled on day three, the other sized a 10 GB fixed plan and never ran dry. The difference was the fair-use cap, not the price.
+
+## Where to Start
+
+| You are … | Start here |
+| --- | --- |
+| First trip, unsure what you need | This guide |
+| Already know your needs | Jump to the matching deep-dive |
+| Comparison-shopping | The provider and price guides |
 
 ## FAQ: Essentials
 
@@ -429,9 +441,9 @@ Use this final checklist to confirm your pre-departure setup, prepare for landin
 
 ### Before Departure with Turkey eSIM
 
-- [ ] Confirm phone supports eSIM (check EID). See the [Turkey eSIM device compatibility guide](/blog/turkey-esim-device-compatibility/).
+- [ ] Confirm phone supports eSIM (check EID). See the [device checks](/blog/turkey-esim-device-compatibility/).
 - [ ] Confirm phone is carrier-unlocked
-- [ ] Choose provider and plan based on data need and network. Read the [best Turkey eSIM providers guide](/blog/best-turkey-esim-providers/).
+- [ ] Choose provider and plan based on data need and network. Read the [provider comparison](/blog/best-turkey-esim-providers/).
 - [ ] Buy on Wi-Fi before departure
 - [ ] Save QR code offline
 - [ ] Save SM-DP+ address and activation code as backup
@@ -454,7 +466,7 @@ Use this final checklist to confirm your pre-departure setup, prepare for landin
 - [ ] Confirm SMS works on the home SIM
 - [ ] If no data: check APN, restart phone, try manual network selection
 
-For automatic Turkcell and Vodafone switching, unrestricted hotspot and 24/7 human support, a [Turkey eSIM](/turkey-esim/) from Roami starts at $1.99 with a 20% discount for new users and support if anything goes wrong after landing. It integrates both networks with automatic switching, supports unrestricted hotspot on all plans and no hidden throttling for the first 30 GB. For the full Turkey eSIM landscape, return to the [Turkey eSIM ultimate guide](/blog/turkey-esim-ultimate-guide/).
+You don’t need to read every guide in this cluster — this one is the map, and the deep-dives are the detail. If you want one low-risk starting point, [Roami’s Turkey data plan](/turkey-esim/) starts at $1.99 with 20% off for new users, runs on Turkcell and Vodafone, and includes 24/7 human support. Return here whenever a specific question comes up.
 
 ## Bottom Line
 

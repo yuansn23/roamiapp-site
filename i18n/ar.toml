@@ -604,3 +604,33 @@ other = "نفس الشبكة. سعر أقل. قارنّا."
 
 [promo_compare_desc]
 other = "Roami eSIM: وفّر حتى 30% مقارنةً بأبرز المنافسين."
+
+# social share
+[share_this]
+other = "مشاركة"
+
+
+# 邮箱收集表单（lead form）
+[lead_form_title]
+other = "وفّر على شريحة eSIM"
+
+[lead_form_badge]
+other = "خصم 20%"
+[lead_form_subtitle]
+other = "اترك بريدك الإلكتروني وتاريخ سفرك. سنرسل لك رمز خصم قبل رحلتك."
+[lead_form_email_placeholder]
+other = "بريدك الإلكتروني"
+[lead_form_submit]
+other = "أرسل رمزي"
+[lead_form_trust]
+other = "لا رسائل مزعجة. يمكنك إلغاء الاشتراك في أي وقت."
+[lead_form_success]
+other = "تم! تحقق من صندوق الوارد قبل رحلتك."
+[lead_form_err_invalid]
+other = "يرجى إدخال بريد إلكتروني صالح."
+[lead_form_err_generic]
+other = "حدث خطأ ما. يرجى المحاولة مرة أخرى."
+[lead_form_err_network]
+other = "خطأ في الشبكة. يرجى المحاولة مرة أخرى."
+[lead_form_sending]
+other = "جارٍ الإرسال..."

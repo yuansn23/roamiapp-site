@@ -613,3 +613,33 @@ other = "Same network. Lower price. Compare us."
 
 [promo_compare_desc]
 other = "Roami eSIM: Save up to 30% vs. leading competitors."
+
+# social share
+[share_this]
+other = "Share"
+
+
+# 邮箱收集表单（lead form）
+[lead_form_title]
+other = "Get your eSIM discount"
+
+[lead_form_badge]
+other = "20% OFF"
+[lead_form_subtitle]
+other = "Leave your email + travel date. We'll send a discount code before you fly."
+[lead_form_email_placeholder]
+other = "Your email"
+[lead_form_submit]
+other = "Send me my code"
+[lead_form_trust]
+other = "No spam. Unsubscribe anytime."
+[lead_form_success]
+other = "You're in! Check your inbox before your trip."
+[lead_form_err_invalid]
+other = "Please enter a valid email."
+[lead_form_err_generic]
+other = "Something went wrong. Please try again."
+[lead_form_err_network]
+other = "Network error. Please try again."
+[lead_form_sending]
+other = "Sending..."

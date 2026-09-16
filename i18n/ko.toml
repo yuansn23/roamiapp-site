@@ -604,3 +604,33 @@ other = "같은 네트워크. 더 낮은 가격. 직접 비교해 보세요."
 
 [promo_compare_desc]
 other = "Roami eSIM: 주요 경쟁사 대비 최대 30% 절약."
+
+# social share
+[share_this]
+other = "공유"
+
+
+# 邮箱收集表单（lead form）
+[lead_form_title]
+other = "다음 eSIM을 할인받으세요"
+
+[lead_form_badge]
+other = "20% 할인"
+[lead_form_subtitle]
+other = "이메일과 여행 날짜를 남겨주세요. 출발 전에 할인 코드를 보내드립니다."
+[lead_form_email_placeholder]
+other = "이메일"
+[lead_form_submit]
+other = "코드 보내기"
+[lead_form_trust]
+other = "스팸 없음. 언제든 구독 취소 가능."
+[lead_form_success]
+other = "완료! 여행 전에 받은 편지함을 확인하세요."
+[lead_form_err_invalid]
+other = "유효한 이메일을 입력해 주세요."
+[lead_form_err_generic]
+other = "문제가 발생했습니다. 다시 시도해 주세요."
+[lead_form_err_network]
+other = "네트워크 오류입니다. 다시 시도해 주세요."
+[lead_form_sending]
+other = "전송 중..."

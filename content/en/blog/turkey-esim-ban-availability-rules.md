@@ -90,7 +90,7 @@ Turkey has two separate regulatory tracks. They operate independently. A travell
 
 The practical takeaway: a pre-installed Turkey eSIM works normally after landing. The block targets buying and managing eSIMs, not using them.
 
-## BTK Platform Block Explained
+## What Exactly Is the BTK Platform Block?
 
 The BTK block is a platform block, not a technology ban. It targets foreign eSIM provider websites and apps from Turkish mobile networks. It does not disable eSIM hardware or stop installed profiles from connecting.
 
@@ -135,7 +135,7 @@ An installed eSIM profile does not depend on DNS resolution. The profile is stor
 - Blocks top-ups and account management through blocked platforms
 - Blocks in-app support chats that rely on the provider’s backend
 
-## Confirmed Blocked Providers
+## Which Providers Are Currently Blocked?
 
 More than 50 providers are confirmed blocked as of mid-2026. The list includes all major international travel eSIM brands. A small number of providers remain accessible, but the list changes frequently.
 
@@ -169,9 +169,9 @@ A field test in Istanbul in May 2026 tested more than fifteen pre-installed eSIM
 
 The same test found that hotel Wi-Fi using Google DNS (8.8.8.8) or Cloudflare DNS (1.1.1.1) could bypass the BTK filter. This is not reliable because you cannot control a hotel’s DNS.
 
-For a full provider-by-provider failure map, read the [provider failure modes comparison](/blog/best-turkey-esim-providers/).
+For a full provider-by-provider failure map, read the [provider comparison](/blog/best-turkey-esim-providers/).
 
-## IMEI Registration Rule
+## How Does the IMEI Rule Affect Tourists?
 
 The IMEI rule is separate from the BTK block. It applies to foreign phones used on Turkish networks for more than 120 days. A two-week tourist never reaches this threshold. Long-stay visitors and digital nomads must plan for it.
 
@@ -225,7 +225,7 @@ If you also use a local Turkish SIM for a local number, that will trigger the IM
 
 For short-stay tourists, this process is irrelevant. The 120-day clock will not run out during a two-week holiday. For anyone staying longer than four months, IMEI registration or a locally purchased phone becomes a planning necessity.
 
-If you want to avoid the IMEI track entirely, a pre-installed travel eSIM is the simpler path. [Turkey eSIM plans](/turkey-esim/) from Roami start at $1.99 with a 20% new-user discount and do not trigger the local SIM registration clock.
+If you want to avoid the IMEI track entirely, a pre-installed travel eSIM is the simpler path. [Turkey eSIM data plans](/turkey-esim/) from Roami start at $1.99 with a 20% new-user discount and do not trigger the local SIM registration clock.
 
 ## FCDO Advisory on Access
 
@@ -488,19 +488,19 @@ The practical rules are simple: buy before departure, choose Turkcell for rural 
 
 ### Buy Before Departure for Turkey eSIM
 
-The only reliable path for blocked providers is pre-departure purchase and installation. Install on Wi-Fi, save the QR code offline and keep roaming off until landing. For the full purchase workflow, read the [buy Turkey eSIM online guide](/blog/buy-turkey-esim-online/).
+The only reliable path for blocked providers is pre-departure purchase and installation. Install on Wi-Fi, save the QR code offline and keep roaming off until landing. For the full purchase workflow, read the [buying guide](/blog/buy-turkey-esim-online/).
 
 ### Choose Turkcell for Rural Turkey eSIM Routes
 
-Turkcell has the best nationwide coverage, especially in Cappadocia, eastern Turkey, the Black Sea coast and rural highways. Vodafone is strong on the Aegean and Mediterranean coasts. Türk Telekom is strongest in cities. See the [Turkcell vs Vodafone vs Türk Telekom comparison](/blog/turkcell-vodafone-turk-telekom-esim/).
+Turkcell has the best nationwide coverage, especially in Cappadocia, eastern Turkey, the Black Sea coast and rural highways. Vodafone is strong on the Aegean and Mediterranean coasts. Türk Telekom is strongest in cities. See the [three-network comparison](/blog/turkcell-vodafone-turk-telekom-esim/).
 
 ### Keep Home SIM for SMS on Turkey eSIM
 
-A travel eSIM is data-only. Keep your home SIM active for Voice & SMS so you can receive bank 2FA codes and WhatsApp verification. Read the [Turkey eSIM calls, SMS and hotspot guide](/blog/turkey-esim-number-calls-sms-hotspot/).
+A travel eSIM is data-only. Keep your home SIM active for Voice & SMS so you can receive bank 2FA codes and WhatsApp verification. Read the [data-only guide](/blog/turkey-esim-number-calls-sms-hotspot/).
 
 ### Avoid Top-Up Dependency on Turkey eSIM
 
-If your provider is blocked, you cannot top up from inside Turkey. Buy enough data upfront for the entire trip. For plan-sizing math, read the [cheapest Turkey eSIM cost analysis](/blog/cheapest-turkey-esim/).
+If your provider is blocked, you cannot top up from inside Turkey. Buy enough data upfront for the entire trip. For plan-sizing math, read the [plan-sizing guide](/blog/cheapest-turkey-esim/).
 
 ### Treat Support Access as a Feature for Turkey eSIM
 
@@ -508,7 +508,7 @@ If activation fails after landing, support must be reachable. A provider with hu
 
 ### Test Before You Fly with Turkey eSIM
 
-Install the eSIM on Wi-Fi, confirm it appears in Settings, confirm the ICCID is visible and keep data roaming off. The profile stays dormant until you enable roaming after landing. This test prevents most installation failures. For the full activation workflow, read the [Turkey eSIM activation and APN troubleshooting](/blog/how-turkey-esim-works-activation/).
+Install the eSIM on Wi-Fi, confirm it appears in Settings, confirm the ICCID is visible and keep data roaming off. The profile stays dormant until you enable roaming after landing. This test prevents most installation failures. For the full activation workflow, read the [APN troubleshooting guide](/blog/how-turkey-esim-works-activation/).
 
 ### Install a Backup Turkey eSIM
 
@@ -517,6 +517,18 @@ If your phone supports dual eSIM, install a backup eSIM from a non-blocked provi
 ### Download Offline Maps for Turkey eSIM
 
 Download offline maps for your destinations before you fly. This is essential for Cappadocia, Blue Cruise routes and any location with unreliable signal. See the [Turkey eSIM tourist destination guide](/blog/turkey-esim-tourists-istanbul-antalya/).
+
+## Real Example: Priya, Digital Nomad on a Five-Month Stay
+
+Priya bought a local SIM on arrival and triggered the 120-day IMEI clock without realising. A pre-installed travel eSIM would have kept her online with no registration, no IMEI risk, and no surprise fee at the end.
+
+## What Your Stay Length Changes
+
+| Stay length | What you need | Best choice |
+| --- | --- | --- |
+| Under 30 days | Data only | Pre-installed travel eSIM |
+| One to four months | Data plus 2FA | eSIM data + home SIM for SMS |
+| Four months plus | Local number, registered IMEI | Local SIM with passport |
 
 ## FAQ: Ban and IMEI
 
@@ -679,11 +691,11 @@ The BTK block is manageable with preparation. Use this final checklist to confir
 - [ ] Consider satellite messaging if your phone supports it
 - [ ] Download the [AFAD disaster and emergency app](https://www.afad.gov.tr/) for disaster alerts
 
-The Turkey eSIM block is manageable with preparation. For a pre-departure solution that avoids both regulatory tracks, [Roami’s Turkey eSIM](/turkey-esim/) starts at $1.99 with a 20% discount for new users and 24/7 human support if anything goes wrong after landing. It runs on Turkcell and Vodafone with automatic switching, supports unrestricted hotspot on all plans and publishes its FUP terms. For the full Turkey eSIM landscape, return to the [Turkey eSIM ultimate guide](/blog/turkey-esim-ultimate-guide/).
+The block only bites if you wait until you land. [Turkey data plans](/turkey-esim/) from Roami install before departure, so they sidestep the whole problem — from $1.99 with 20% off for new users and 24/7 support over Wi-Fi. For the complete picture in one place, see the [full Turkey eSIM guide](/blog/turkey-esim-ultimate-guide/).
 
 ## Bottom Line
 
-- eSIM is legal in Turkey — the block is a platform block, not a technology ban.
-- Install your eSIM before departure and it will connect normally after you land.
-- The IMEI clock only affects long-stay users, so tourists are not at risk.
+- If you need a Turkish phone number, skip the eSIM debate entirely and buy a local SIM with passport registration.
+- For data-only travel, eSIM is legal in Turkey — the block is a platform block, not a technology ban.
+- Install before departure and it connects normally after you land; the IMEI clock only affects long-stay users.
 - A VPN will not unblock your provider’s app, but a pre-installed eSIM is the real fix.

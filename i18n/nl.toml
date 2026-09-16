@@ -1,0 +1,645 @@
+# 通用按钮与标签
+[download_on_the]
+other = "Download in de"
+
+[app_store]
+other = "App Store"
+
+[get_it_on]
+other = "Ontdek het op"
+
+[google_play]
+other = "Google Play"
+
+[visit_our]
+other = "Bezoek onze"
+
+[official_website]
+other = "Officiële website"
+
+[view_plans]
+other = "Bekijk abonnementen"
+
+[web]
+other = "Web"
+
+[android]
+other = "Android"
+
+[404_page_not_found]
+other = "404 – Pagina niet gevonden"
+
+[404_message]
+other = "We konden de pagina die je zoekt niet vinden. Mogelijk is deze verplaatst of bestaat deze niet meer. Maak je geen zorgen — we brengen je terug naar je reisavontuur."
+
+[404_back_home]
+other = "Breng me naar de startpagina"
+
+[404_promo_title]
+other = "Exclusieve aanbieding voor jou"
+
+[404_promo_desc]
+other = "20% korting op je eerste eSIM-aankoop"
+
+[404_promo_code]
+other = "web20"
+
+[404_promo_cta]
+other = "Claim je korting"
+
+[404_promo_note]
+other = "Geen registratie vereist. Geldig voor nieuwe gebruikers."
+
+# 弹窗相关
+[friendly_reminder]
+other = "Service bijgewerkt"
+
+[modal_upgrade_desc]
+other = "Onze services zijn geüpgraded. Ontvang je promotiecode:web20 .op onze officiële website of APP."
+
+[cancel]
+other = "Annuleren"
+
+[proceed]
+other = "Doorgaan"
+
+# 悬浮按钮文本
+[get_esim_discount]
+other = "Krijg 20% eSIM-korting"
+
+# FAQ 标题和描述
+[faq_title]
+other = "Veelgestelde vragen"
+
+[faq_desc]
+other = "Alles wat je moet weten over onze wereldwijde eSIM-service."
+
+# 以下是您原有但可能未使用的，保留不影响（可选）
+[modal_title_ios]
+other = "Service bijgewerkt"
+
+[modal_text_ios]
+other = "Je wordt doorgestuurd naar de officiële app om de kortingscode te ontvangen."
+
+[tldr_summary_title]
+other = "Korte samenvatting voor reizigers"
+
+[modal_cancel]
+other = "Annuleren"
+
+[modal_continue]
+other = "Doorgaan"
+
+[global_connectivity_expert]
+other = "Expert in wereldwijde connectiviteit"
+
+[structured_data_org_description]
+other = "Professionele wereldwijde eSIM-serviceprovider met high-speed dataroaming in 200 landen."
+
+[structured_data_product_description]
+other = "Prepaid reis-eSIM-abonnementen voor 200+ landen met directe activering en 5G/4G high-speed internet."
+
+[structured_data_faq1_question]
+other = "Hoe koop je een USA eSIM?"
+
+[structured_data_faq1_answer]
+other = "Om een USA eSIM te kopen, download je eenvoudig de Roami-app, selecteer je Verenigde Staten als bestemming, kies je een data-abonnement dat bij je past en rond je de aankoop af. Activering is direct."
+
+[structured_data_faq2_question]
+other = "Hoe koop je online een Japan eSIM?"
+
+[structured_data_faq2_answer]
+other = "Een Japan eSIM kopen is eenvoudig met Roami. Zoek naar Japan in onze app, selecteer je favoriete 5G/4G datapakket en installeer het via QR-code of one-click activering vóór je reis."
+
+[structured_data_faq3_question]
+other = "Hoe krijg je een eSIM voor Europa, VK of Frankrijk?"
+
+[structured_data_faq3_answer]
+other = "Roami biedt regionale Europa eSIMs evenals lokale abonnementen voor het VK, Frankrijk, Italië, Duitsland en Spanje. Selecteer gewoon je bestemming in de app om direct verbinding te maken zonder roamingkosten."
+
+[structured_data_faq4_question]
+other = "Waarom zou je Roami kiezen boven Airalo, Nomad, Holafly of Ubigi?"
+
+[structured_data_faq4_answer]
+other = "Hoewel Airalo, Nomad eSIM, Holafly, Saily eSIM, Yesim, MobiMatter en GigSky opties zijn, biedt Roami zeer concurrerende prijzen vanaf $1,99, 24/7 menselijke ondersteuning en een zorgeloos restitutiebeleid voor 200+ landen."
+
+[software_description]
+other = "Wereldwijde eSIM-provider voor high-speed reisconnectiviteit."
+
+[last_updated]
+other = "Laatst bijgewerkt"
+
+[select_language]
+other = "Selecteer taal"
+
+[language]
+other = "Taal"
+
+[close]
+other = "Sluiten"
+
+[fifa_title_line1]
+other = "Naadloze connectiviteit"
+
+[fifa_title_line2]
+other = "2026 FIFA World Cup™"
+
+[fifa_desc]
+other = "Wereldwijde reis-eSIM die je reis langs alle gaststeden mogelijk maakt. Blijf verbonden, deel elk moment."
+
+[fifa_guide_text]
+other = "✈️ Reizen zonder grenzen — krijg nu je eSIM"
+
+[fifa_card1_title]
+other = "Geen roaming"
+
+[fifa_card1_desc]
+other = "Betaal lokale tarieven"
+
+[fifa_card2_title]
+other = "Eén SIM, 3 landen"
+
+[fifa_card2_desc]
+other = "VS · Canada · Mexico"
+
+[fifa_card3_title]
+other = "Directe activering"
+
+[fifa_card3_desc]
+other = "Klaar voordat je vliegt"
+
+[fifa_country_canada]
+other = "🇨🇦 Canada"
+
+[fifa_country_mexico]
+other = "🇲🇽 Mexico"
+
+[fifa_country_usa]
+other = "🇺🇸 VS"
+
+[fifa_5g]
+other = "⚡ 5G-gereed"
+
+[fifa_button]
+other = "Krijg WK eSIM"
+
+
+[premium_coverage]
+other = "Premium dekking"
+
+[regional_plans_title]
+other = "Regionale & wereldwijde abonnementen"
+
+[regional_subtitle]
+other = "Reis door meerdere landen met één eSIM — geen SIM-wissel, directe activering en bespaar 30% vergeleken met roaming."
+
+[faq_title2]
+other = "Veelgestelde vragen over eSIM-compatibiliteit"
+ 
+[breadcrumb_home]
+other = "Home"
+
+[breadcrumb_blog]
+other = "Blog"
+
+[breadcrumb_separator]
+other = "/"
+
+[minutes_read]
+other = "min leestijd"
+
+[table_of_contents]
+other = "📑 Inhoudsopgave"
+
+[you_might_also_like]
+other = "🔗 Misschien vind je dit ook leuk"
+
+[popular_destinations]
+other = "Populaire eSIM-bestemmingen"
+
+[promo_limited_offer]
+other = "🔥 Beperkte aanbieding 🔥"
+
+[promo_use_code]
+other = "Gebruik code"
+
+[promo_checkout]
+other = "⭐ Voer de code in bij het afrekenen om je korting te claimen ⭐"
+
+[promo_stats_text]
+other = "Sluit je aan bij 1M+ reizigers die zijn overgestapt naar Roami. 5G in {{ .Countries }} landen. Abonnementen vanaf ${{ .Price }}. Directe activering."
+
+[region_country_title]
+other = "{{ .RegionName }} eSIM werkt in {{ .TotalCountries }} landen"
+
+[coverage_stats_text]
+other = """
+Eén eSIM maakt automatisch verbinding met het sterkste lokale netwerk in elk land.
+<strong class="text-orange-600">{{ .FiveGCount }} landen hebben 5G</strong>,
+{{ .FourGCount }} hebben betrouwbaar 4G/LTE.
+Tik op een land voor installatiegidsen en providerdetails.
+"""
+
+[powered_by_operators]
+other = "Mogelijk gemaakt door de grootste mobiele operators van {{ .RegionName }}"
+
+[auto_switch_carriers]
+other = """
+Je Roami eSIM schakelt automatisch tussen <strong class="text-orange-600">{{ .CarrierCount }}+ providers</strong> voor het beste signaal.
+"""
+
+[network_partners_label]
+other = "Netwerkpartners"
+
+[premium_carrier_partners_title]
+other = "{{ .Count }}+ Premium providerpartners"
+
+[network_partners_description]
+other = "Je Roami eSIM maakt automatisch verbinding met de beste lokale netwerken. Geen handmatige omschakeling nodig."
+
+[esim_auto_connect]
+other = "Een van de grootste operators van {{ .HQ }}. Je eSIM maakt automatisch verbinding{{ .CountriesSuffix }}."
+
+[carrier_roaming_title]
+other = "Roaming van je provider"
+
+[carrier_roaming_badge]
+other = "Verborgen kosten"
+
+[carrier_roaming_estimate]
+other = "geschat voor een reis van 2 weken"
+
+[roami_title]
+other = "Roami {{ .RegionName }} eSIM"
+
+[roami_badge]
+other = "Beste prijs-kwaliteit"
+
+[roami_price_label]
+other = "Vanaf $1,99"
+
+[roami_plan_description]
+other = "prepaid abonnementen vanaf $5 voor een volledige reis"
+
+[esim_vs_carrier_roaming]
+other = "{{ .RegionName }} eSIM vs. provider roaming"
+
+[heading_beyond_region]
+other = "Ga je verder dan {{ .RegionName }}?"
+
+[try_free_button]
+other = "Probeer gratis eSIM"
+
+[regionQuestionsTitle]
+other = "{{ .RegionName }} eSIM: vragen die reizigers stellen"
+
+[stats]
+countries = "Landen"
+carriers = "Providers"
+coverage_5g = "5G-dekking"
+
+[home]
+other = "Home"
+
+[carriers]
+other = "eSIM-operators"
+
+[banner_official]
+other = "Officieel"
+
+[banner_discount_desc]
+other = "20% KORTING op wereldwijde data"
+
+
+[banner_rating]
+other = "4,8 (2,1k beoordelingen)"
+
+[banner_cta]
+other = "Nu krijgen"
+
+[discount_title]
+other = "Tijdelijke aanbieding"
+
+[discount_code_label]
+other = "Promotiecode"
+
+[discount_new_user]
+other = "20% KORTING voor nieuwe gebruikers"
+
+[discount_today]
+other = "Vandaag geclaimd"
+
+[discount_today_num]
+other = "500 - 1000"
+
+[discount_remaining]
+other = "Resterend"
+
+[discount_remaining_num]
+other = "5 - 10"
+
+[discount_cancel]
+other = "Annuleren"
+
+[discount_claim]
+other = "Nu claimen"
+
+[vp_5g_badge]
+other = "5G"
+
+[vp_same]
+other = "Hetzelfde"
+
+[vp_network]
+other = "5G-netwerk"
+
+[vp_compare]
+other = ", tot"
+
+[vp_cheaper]
+other = "goedkoper dan andere eSIMs"
+
+[vp_percent]
+other = "30%"
+
+[vp_save_tag]
+other = "🔥 Bespaar meer"
+
+[compare_title]
+other = "Gratis eSIM-vergelijking: Roami vs Airalo vs Holafly – Wie biedt de beste gratis proefperiode?"
+
+[compare_subtitle]
+other = "Eerlijke vergelijking — zie waarom reizigers voor Roami kiezen voor hun gratis eSIM-proefperiode"
+
+[compare_col_feature]
+other = "Functie"
+
+[compare_col_roami]
+other = "Roami"
+
+[compare_col_airalo]
+other = "Airalo"
+
+[compare_col_holafly]
+other = "Holafly"
+
+[compare_row_trial]
+other = "Gratis proefperiode"
+
+[compare_roami_trial]
+other = "✅ 100MB"
+
+[compare_airalo_trial]
+other = "❌"
+
+[compare_holafly_trial]
+other = "❌"
+
+[compare_row_card]
+other = "Creditcard vereist"
+
+[compare_roami_card]
+other = "✅ Nee"
+
+[compare_airalo_card]
+other = "Ja"
+
+[compare_holafly_card]
+other = "Ja"
+
+[compare_row_coverage]
+other = "Dekking"
+
+[compare_roami_coverage]
+other = "200+ landen"
+
+[compare_airalo_coverage]
+other = "200+ landen"
+
+[compare_holafly_coverage]
+other = "200+ landen"
+
+[compare_row_paid]
+other = "Betaalde abonnementen vanaf"
+
+[compare_roami_paid]
+other = "$1,99"
+
+[compare_airalo_paid]
+other = "$4,50"
+
+[compare_holafly_paid]
+other = "$5,90"
+
+[compare_row_support]
+other = "Live ondersteuning"
+
+[compare_roami_support]
+other = "✅ 24/7"
+
+[compare_airalo_support]
+other = "—"
+
+[compare_holafly_support]
+other = "✅ 24/7"
+
+[brand_reminder]
+other = "Ons eSIM-merk is roami, niet roamic. Let op alstublieft."
+
+
+[roami_free_section_title]
+other = "Roami gratis proefperiode"
+
+[roami_free_section_heading]
+other = "Gratis eSIM-proefperiode – 7 dagen / 100MB, geen creditcard"
+
+[roami_free_section_desc]
+other = "Een lichtgewicht nooddatapakket ontworpen voor reizigers. Activeer bij aankomst, <strong>geen betaalgegevens vereist</strong>, en geen verborgen verlengingsvalkuilen."
+
+ 
+[roami_compare_col_feature]
+other = "Functie"
+
+[roami_compare_col_roami]
+other = "Roami"
+
+[roami_compare_col_att]
+other = "AT&T"
+
+[roami_compare_col_tmobile]
+other = "T‑Mobile"
+
+[roami_compare_col_verizon]
+other = "Verizon"
+
+ 
+[roami_compare_row_trial]
+other = "Gratis proefperiode"
+
+[roami_compare_row_card]
+other = "Creditcard vereist"
+
+[roami_compare_row_auto]
+other = "Automatische verlenging"
+
+[roami_compare_row_coverage]
+other = "Dekkingslanden"
+
+[roami_compare_row_support]
+other = "24/7 ondersteuning"
+
+ 
+[roami_compare_roami_trial]
+other = "7 dagen / 100MB"
+
+[roami_compare_roami_card]
+other = "❌ Niet vereist"
+
+[roami_compare_roami_auto]
+other = "❌ Geen"
+
+[roami_compare_roami_coverage]
+other = "200+"
+
+[roami_compare_roami_support]
+other = "✅ Online ondersteuning"
+
+ 
+[roami_compare_att_trial]
+other = "Vereist creditcard"
+
+[roami_compare_att_card]
+other = "✅ Moet verstrekt worden"
+
+[roami_compare_att_auto]
+other = "✅ Automatische kosten na proefperiode"
+
+[roami_compare_att_coverage]
+other = "Beperkt (alleen VS)"
+
+[roami_compare_att_support]
+other = "❌ Beperkt"
+
+ 
+[roami_compare_tmobile_trial]
+other = "Vereist creditcard"
+
+[roami_compare_tmobile_card]
+other = "✅ Moet verstrekt worden"
+
+[roami_compare_tmobile_auto]
+other = "✅ Automatische kosten na proefperiode"
+
+[roami_compare_tmobile_coverage]
+other = "Beperkt (alleen VS)"
+
+[roami_compare_tmobile_support]
+other = "❌ Beperkt"
+
+ 
+[roami_compare_verizon_trial]
+other = "Vereist creditcard"
+
+[roami_compare_verizon_card]
+other = "✅ Moet verstrekt worden"
+
+[roami_compare_verizon_auto]
+other = "✅ Automatische kosten na proefperiode"
+
+[roami_compare_verizon_coverage]
+other = "Beperkt (alleen VS)"
+
+[roami_compare_verizon_support]
+other = "❌ Beperkt"
+
+[esim_free_trial]
+other = "eSIM gratis proefperiode"
+
+# ===== 3步指南 =====
+[steps_title]
+other = "Hoe je je gratis eSIM in 3 eenvoudige stappen krijgt"
+
+[steps_desc]
+other = "Geen creditcard, geen verplichting – gewoon een gratis eSIM QR-code om direct te beginnen met testen."
+
+[step1_title]
+other = "Kies je land"
+
+[step1_desc]
+other = "Selecteer je bestemming uit de onderstaande lijst – we bieden gratis eSIM-proefperiodes voor 200+ landen."
+
+[step2_title]
+other = "Claim je gratis proefperiode"
+
+[step2_desc]
+other = "Klik op \"Claim gratis proefperiode\" – geen creditcard vereist. We sturen direct je gratis eSIM QR-code."
+
+[step3_title]
+other = "Scan & verbind"
+
+[step3_desc]
+other = "Scan de QR-code met de camera van je telefoon, volg de installatie en geniet van 100MB gratis data."
+
+# ===== Why Roami 区块 =====
+[why_title]
+other = "Waarom Roami de beste gratis eSIM-provider is in 2026"
+
+[why_p1]
+other = '''Bij het zoeken naar een <strong>gratis eSIM</strong> wil je een betrouwbare, snelle en echt kosteloze optie. Roami levert precies dat – met een <strong>gratis eSIM-proefperiode</strong> die <strong>100MB data</strong> bevat, <strong>geen creditcard</strong> vereist, en dekking in <strong>meer dan 200 landen</strong>. In tegenstelling tot veel concurrenten sluiten we je niet op in een abonnement of vragen we niet vooraf om betaalgegevens.'''
+
+[why_p2]
+other = '''Onze <strong>gratis eSIM QR-code</strong> wordt direct gegenereerd en naar je e-mail gestuurd, zodat je je apparaat binnen enkele minuten kunt instellen. Of je nu een frequente reiziger bent of gewoon de eSIM-technologie wilt testen, Roami biedt de <strong>beste gratis eSIM-ervaring</strong> met 4G/5G-snelheden, 24/7 ondersteuning en transparante prijzen voor betaalde abonnementen als je meer data nodig hebt.'''
+[secure_payment]
+other = "Veilige betaling"
+
+[value_prop_delivery]
+other = "Directe levering"
+[value_prop_refund]
+other = "100% restitutie als het niet werkt"
+
+# 订单摘要说明（有效期 / FUP / 合理使用）
+[order_validity_note]
+other = "Geldigheid: Start vanaf je eerste datagebruik, niet vanaf aankoop."
+
+[order_fup_note]
+other = "Onbeperkte data heeft een Fair Use Policy (FUP): geniet van maximale snelheid tot je dagelijkse quotum, daarna wordt de snelheid verlaagd — maar je verbinding valt nooit weg en je wordt nooit extra in rekening gebracht."
+
+[order_fair_usage_note]
+other = "Fair use: Light-abonnementen 1 GB/dag, Super-abonnementen 2 GB/dag op maximale snelheid; daarna daalt de snelheid naar 512 Kbps tot middernacht."
+
+# promo compare banner (above plans)
+[promo_compare_title]
+other = "Hetzelfde netwerk. Lagere prijs. Vergelijk ons."
+
+[promo_compare_desc]
+other = "Roami eSIM: Bespaar tot 30% vergeleken met toonaangevende concurrenten."
+
+# social share
+[share_this]
+other = "Delen"
+
+
+# 邮箱收集表单（lead form）
+[lead_form_title]
+other = "Bespaar op je eSIM"
+
+[lead_form_badge]
+other = "20% korting"
+[lead_form_subtitle]
+other = "Laat je e-mail en reisdatum achter. We sturen je een kortingscode vóór je vlucht."
+[lead_form_email_placeholder]
+other = "Jouw e-mail"
+[lead_form_submit]
+other = "Stuur mijn code"
+[lead_form_trust]
+other = "Geen spam. Altijd opzegbaar."
+[lead_form_success]
+other = "Gelukt! Check je inbox vóór je reis."
+[lead_form_err_invalid]
+other = "Voer een geldig e-mailadres in."
+[lead_form_err_generic]
+other = "Er is iets misgegaan. Probeer het opnieuw."
+[lead_form_err_network]
+other = "Netwerkfout. Probeer het opnieuw."
+[lead_form_sending]
+other = "Verzenden..."

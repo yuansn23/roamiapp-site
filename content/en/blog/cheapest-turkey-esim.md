@@ -82,13 +82,13 @@ The cheapest Turkey eSIM is rarely the one with the lowest sticker price — it 
 
 ## What This Cost Guide Solves
 
-This guide solves the cost layer: what is the actual cheapest Turkey eSIM for your trip, measured in cost per usable gigabyte? It does not rank providers by brand — for that, read the [best providers comparison](/blog/best-turkey-esim-providers/). It does not cover activation, devices or [BTK rules](/blog/turkey-esim-ban-availability-rules/). Those are covered in the linked deep-dive articles.
+This guide solves the cost layer: what is the actual cheapest Turkey eSIM for your trip, measured in cost per usable gigabyte? It does not rank providers by brand — for that, read the [best providers comparison](/blog/best-turkey-esim-providers/). It does not cover activation, devices or [BTK restrictions](/blog/turkey-esim-ban-availability-rules/). Those are covered in the linked deep-dive articles.
 
 The core insight: the cheapest plan is not the one with the lowest entry price, the longest duration or the biggest “unlimited” claim. It is the plan that minimises total trip cost divided by usable gigabytes. The dominant cost driver is not the first gigabyte. It is the last gigabyte.
 
 This page gives you the price per GB curve, hidden costs that inflate the real price, dead data analysis, the effective cost per usable GB formula, total cost comparison across channels, discount stacking order, plan-size decisions by trip length and current deals. The short version: buy the largest fixed-data plan you realistically need, avoid low-FUP unlimited plans and use a no-foreign-transaction-fee card.
 
-## Price per GB Curve Explained
+## Why Does the Price per GB Drop as You Buy More?
 
 The price per GB curve is steep because wholesale data is negotiated in bulk. A provider that commits to a larger data pool gets a lower per-GB rate. The marginal cost of each additional gigabyte falls as plan size increases. For the traveller, this means the plan-size decision dominates the provider-choice decision.
 
@@ -129,7 +129,7 @@ Buy the plan size for your estimated need plus 30%, then round up. A 7-day trip 
 
 The pattern is consistent: larger plans cost less per GB. Provider choice matters less than plan size.
 
-## Hidden Costs That Inflate the Real Price
+## What Hidden Costs Inflate the Real Price?
 
 The advertised plan price is not the total cost of getting connected. Six hidden costs can double the effective price of a cheap Turkey eSIM.
 
@@ -143,7 +143,7 @@ Local Turkish SIMs from Turkcell, Vodafone and Türk Telekom often include activ
 
 ### IMEI Registration Risk for Turkey eSIM
 
-Using a local Turkish SIM in a foreign phone triggers the 120-day IMEI registration clock. After 120 days, the device is blocked from all Turkish networks unless the owner pays 54,258 TL (~$1,200). For a two-week tourist, this never comes into play. For a digital nomad on a six-month stay, it is a $1,200 cost that appears nowhere in the SIM’s advertised price. Read the [BTK ban and availability rules](/blog/turkey-esim-ban-availability-rules/) for the full IMEI framework.
+Using a local Turkish SIM in a foreign phone triggers the 120-day IMEI registration clock. After 120 days, the device is blocked from all Turkish networks unless the owner pays 54,258 TL (~$1,200). For a two-week tourist, this never comes into play. For a digital nomad on a six-month stay, it is a $1,200 cost that appears nowhere in the SIM’s advertised price. Read the [BTK platform block](/blog/turkey-esim-ban-availability-rules/) for the full IMEI framework.
 
 ### Unlimited Throttle Cost on Turkey eSIM
 
@@ -157,7 +157,7 @@ Some providers charge in a foreign currency, and your bank adds a 2–3% foreign
 
 If your eSIM fails and the provider refuses a refund because the plan was “activated,” you lose the full plan cost. This doubles the effective cost: you pay for the failed plan and then pay again for a replacement. Providers with restrictive refund policies are the highest-risk category. If a plan never activated, a [PayPal Buyer Protection](https://www.paypal.com/us/webapps/mpp/paypal-safety-and-security) dispute can recover the payment when the provider will not. Read the [buy Turkey eSIM online guide](/blog/buy-turkey-esim-online/) for the full refund comparison.
 
-## Dead Data: Advertised GB vs Usable GB
+## How Much of Your Data Is Actually Usable?
 
 The price-per-GB curve assumes a gigabyte is a gigabyte. In practice, four factors reduce usable capacity: FUP thresholds, hotspot caps, unused data expiration and network mismatch.
 
@@ -172,7 +172,7 @@ An unlimited plan advertised at $25 for 7 days does not deliver unlimited high-s
 | 10 GB fixed | 10 GB | None | 10 GB | $0.93 |
 | 20 GB fixed | 20 GB | None | 20 GB | $0.67 |
 
-Fixed-data plans often deliver a better effective price per usable GB than unlimited plans. For the full FUP breakdown, read the [Turkey eSIM calls, SMS and hotspot guide](/blog/turkey-esim-number-calls-sms-hotspot/).
+Fixed-data plans often deliver a better effective price per usable GB than unlimited plans. For the full FUP breakdown, read the [FUP and hotspot guide](/blog/turkey-esim-number-calls-sms-hotspot/).
 
 ### Hotspot Caps on Turkey eSIM Plans
 
@@ -184,7 +184,7 @@ Short-duration plans expire unused data. A 10 GB / 7-day plan used on a 5-day tr
 
 ### Network Mismatch Waste on Turkey eSIM Plans
 
-If the eSIM connects to a network that does not cover your destination, the data you paid for is unusable. An eSIM on Türk Telekom in Cappadocia’s valleys may have signal bars but no data throughput. The gigabytes are “there” but cannot be used. This is the most invisible form of dead data: you paid for 10 GB, but only 6 GB were usable because of coverage gaps. Read the [Turkcell vs Vodafone vs Türk Telekom comparison](/blog/turkcell-vodafone-turk-telekom-esim/) for the full network coverage map. For measured coverage and download speeds across Turkey, see the [OpenSignal Turkey network report](https://www.opensignal.com/reports/turkey).
+If the eSIM connects to a network that does not cover your destination, the data you paid for is unusable. An eSIM on Türk Telekom in Cappadocia’s valleys may have signal bars but no data throughput. The gigabytes are “there” but cannot be used. This is the most invisible form of dead data: you paid for 10 GB, but only 6 GB were usable because of coverage gaps. Read the [coverage map](/blog/turkcell-vodafone-turk-telekom-esim/) for the full picture. For measured coverage and download speeds across Turkey, see the [OpenSignal Turkey network report](https://www.opensignal.com/reports/turkey).
 
 ### Turkey eSIM Effective Cost Formula
 
@@ -279,7 +279,7 @@ The cost comparison that matters is total cost of getting connected, including f
 
 ### Turkey eSIM Total Cost Verdict
 
-For any trip under 30 days, the online travel eSIM is the cheapest option by a wide margin. The only scenario where a local SIM makes sense is if you need a Turkish phone number for bank verification, local services or extended stays. For data-only connectivity, the eSIM wins on every cost metric. For the full purchase workflow, read the [buy Turkey eSIM online guide](/blog/buy-turkey-esim-online/).
+For any trip under 30 days, the online travel eSIM is the cheapest option by a wide margin. The only scenario where a local SIM makes sense is if you need a Turkish phone number for bank verification, local services or extended stays. For data-only connectivity, the eSIM wins on every cost metric. For the full purchase workflow, read the [purchase workflow](/blog/buy-turkey-esim-online/).
 
 ## Cheap Unlimited Plans: When the Label Costs More
 
@@ -370,7 +370,7 @@ If you stream or use hotspot, go to 10 GB at $9.30.
 
 **Cheapest reliable option:** 10 GB plan on Turkcell (Nomad) or a provider with automatic network switching (Roami).
 
-Business travellers need reliable coverage and consistent speed. The cheapest plan is worthless if it drops signal during a client call. Turkcell has the widest nationwide coverage and the fastest median download speed at 67.4 Mbps. Read the [best Turkey eSIM providers guide](/blog/best-turkey-esim-providers/) for the full failure-mode map.
+Business travellers need reliable coverage and consistent speed. The cheapest plan is worthless if it drops signal during a client call. Turkcell has the widest nationwide coverage and the fastest median download speed at 67.4 Mbps. Read the [provider comparison guide](/blog/best-turkey-esim-providers/) for the full failure-mode map.
 
 ## Price History and Current Deals
 
@@ -446,6 +446,18 @@ The airport SIM counter charges 70–150% more than an online eSIM. **Fix:** Buy
 
 The eSIM fails and the provider refuses a refund. **Fix:** Read the refund policy before buying. Choose a provider with a published policy that covers activation failure.
 
+## Real Example: Tom, Two Weeks in Cappadocia
+
+Tom picked a $5 airport SIM over a $9.30 travel eSIM on sticker price alone. Throttled to 128 Kbps after 2 GB, he paid more per usable gigabyte than the eSIM would have cost — and lost streaming for the second week.
+
+## Which Trip, Which Price
+
+| Trip | Data need | Cheapest real option |
+| --- | --- | --- |
+| Seven-day city break | 5 GB | 5 GB fixed eSIM |
+| Two-week mixed | 10–15 GB | 10 GB fixed eSIM |
+| Heavy streamer | 20 GB plus | 20 GB fixed, not unlimited |
+
 ## FAQ: Cheapest Options
 
 ### What is the cheapest Turkey eSIM?
@@ -462,7 +474,7 @@ Saily’s unlimited plans start at $25 for 7 days with 5 GB/day FUP and unlimite
 
 ### Why is my cheap Turkey eSIM not working?
 
-The most common cause is that you did not install it before departure. The BTK block prevents accessing provider platforms from inside Turkey. Other causes include wrong data line selection, roaming disabled or APN issues. Read the [Turkey eSIM activation and APN guide](/blog/how-turkey-esim-works-activation/).
+The most common cause is that you did not install it before departure. The BTK block prevents accessing provider platforms from inside Turkey. Other causes include wrong data line selection, roaming disabled or APN issues. Read the [activation guide](/blog/how-turkey-esim-works-activation/).
 
 ### Is it cheaper to buy a Turkey eSIM or a local SIM?
 
@@ -494,7 +506,7 @@ Buy one high-data eSIM (20 GB+) with unrestricted hotspot in the primary travell
 
 ### Does a cheap Turkey eSIM include calls and SMS?
 
-No. Travel eSIMs are data-only. They do not include a Turkish phone number, native calls or SMS. Use VoIP apps for calls over data. For native calls and SMS, you need a local Turkish SIM. Read the [Turkey eSIM calls, SMS and hotspot guide](/blog/turkey-esim-number-calls-sms-hotspot/).
+No. Travel eSIMs are data-only. They do not include a Turkish phone number, native calls or SMS. Use VoIP apps for calls over data. For native calls and SMS, you need a local Turkish SIM. Read the [hotspot and calls guide](/blog/turkey-esim-number-calls-sms-hotspot/).
 
 ### What happens if I buy a cheap Turkey eSIM and it doesn’t work?
 
@@ -536,18 +548,18 @@ Use this final checklist to confirm plan size, verify hidden costs and prepare y
 
 - [ ] Estimate total data need for the trip
 - [ ] Calculate price per GB for at least three plans
-- [ ] Check which Turkish network the eSIM connects to. Read the [Turkcell vs Vodafone vs Türk Telekom comparison](/blog/turkcell-vodafone-turk-telekom-esim/).
+- [ ] Check which Turkish network the eSIM connects to. Read the [carrier breakdown](/blog/turkcell-vodafone-turk-telekom-esim/).
 - [ ] Check hotspot policy if you need to share data
 - [ ] Check FUP threshold if considering unlimited
 - [ ] Look for discount codes
-- [ ] Confirm the provider is not blocked (or install before departure). Read the [BTK ban and availability rules](/blog/turkey-esim-ban-availability-rules/).
+- [ ] Confirm the provider is not blocked (or install before departure). Read the [BTK availability rules](/blog/turkey-esim-ban-availability-rules/).
 - [ ] Check the refund policy before paying
-- [ ] Check support channel accessibility from Turkey. Read the [best Turkey eSIM providers guide](/blog/best-turkey-esim-providers/).
+- [ ] Check support channel accessibility from Turkey. Read the [best-providers guide](/blog/best-turkey-esim-providers/).
 - [ ] Use a card with no foreign transaction fees if possible
 
 ### Before You Fly with Cheap Turkey eSIM
 
-- [ ] Install the eSIM on Wi-Fi. Read the [Turkey eSIM activation and APN guide](/blog/how-turkey-esim-works-activation/).
+- [ ] Install the eSIM on Wi-Fi. Read the [APN setup guide](/blog/how-turkey-esim-works-activation/).
 - [ ] Label the line “Turkey”
 - [ ] Set the eSIM for Mobile Data
 - [ ] Set home SIM for Voice & SMS
@@ -565,11 +577,11 @@ Use this final checklist to confirm plan size, verify hidden costs and prepare y
 - [ ] Monitor data usage to avoid running out
 - [ ] If no data: check APN, restart phone, try manual network selection
 
-For the lowest entry price without sacrificing support, a [Turkey eSIM](/turkey-esim/) from Roami starts at $1.99 with a 20% discount for new users and 24/7 human support if anything goes wrong after landing. It runs on Turkcell and Vodafone with automatic switching, supports unrestricted hotspot on all plans and publishes its FUP terms. For the full Turkey eSIM landscape, return to the [Turkey eSIM ultimate guide](/blog/turkey-esim-ultimate-guide/).
+The cheapest option isn’t always an eSIM — a local SIM can win if you need a Turkish number for a long stay. For pure data on a short trip, [Roami’s data plans](/turkey-esim/) starts at $1.99 with 20% off for new users, no hidden throttling for the first 30 GB and unrestricted hotspot. See the [complete guide](/blog/turkey-esim-ultimate-guide/) for the full picture.
 
 ## Bottom Line
 
-- Calculate the price per usable gigabyte rather than looking at the sticker price.
-- For most trips, fixed-data plans beat throttled ‘unlimited’ plans.
-- Online eSIMs undercut airport counters by a wide margin.
-- Size the plan to your trip, add a 20–30% buffer, and check the fair-use cap before buying anything ‘unlimited’.
+- If you need a Turkish number or are staying months, a local SIM may beat any travel eSIM on total cost.
+- For a short data-only trip, online eSIMs undercut airport counters by a wide margin — compare price per usable gigabyte, not the sticker.
+- Fixed-data plans beat throttled unlimited plans for most trips.
+- Size the plan to your trip, add a 20–30% buffer, and check the fair-use cap before buying anything unlimited.

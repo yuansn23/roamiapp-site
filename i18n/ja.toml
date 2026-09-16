@@ -497,3 +497,33 @@ other = "同じネットワーク。より低い価格。比較してみてく�
 
 [promo_compare_desc]
 other = "Roami eSIM：主要な競合他社と比べて最大30%節約。"
+
+# social share
+[share_this]
+other = "シェア"
+
+
+# 邮箱收集表单（lead form）
+[lead_form_title]
+other = "次の eSIM がお得に"
+
+[lead_form_badge]
+other = "20% OFF"
+[lead_form_subtitle]
+other = "メールアドレスと旅行日を登録すると、出発前に割引コードをお送りします。"
+[lead_form_email_placeholder]
+other = "メールアドレス"
+[lead_form_submit]
+other = "コードを受け取る"
+[lead_form_trust]
+other = "スパムは送りません。いつでも解除できます。"
+[lead_form_success]
+other = "登録完了！出発前にメールをご確認ください。"
+[lead_form_err_invalid]
+other = "有効なメールアドレスを入力してください。"
+[lead_form_err_generic]
+other = "エラーが発生しました。もう一度お試しください。"
+[lead_form_err_network]
+other = "ネットワークエラーです。もう一度お試しください。"
+[lead_form_sending]
+other = "送信中..."

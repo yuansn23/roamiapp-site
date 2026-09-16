@@ -81,7 +81,7 @@ Most travel eSIMs give you data only — no Turkish phone number. This guide exp
 
 ## What This Number, Calls and Hotspot Guide Solves
 
-This guide solves the feature layer: what can your Turkey eSIM actually do for number, calls, SMS and hotspot — and what does it not do? The search query “Turkey eSIM with number” returns contradictory results. Some providers claim a phone number is included. Others say data-only. A few advertise virtual numbers that cannot receive SMS from Turkish banks. For which network your eSIM uses, read the [Turkcell vs Vodafone vs Türk Telekom comparison](/blog/turkcell-vodafone-turk-telekom-esim/), and confirm your phone supports a second line in the [device compatibility guide](/blog/turkey-esim-device-compatibility/).
+This guide solves the feature layer: what can your Turkey eSIM actually do for number, calls, SMS and hotspot — and what does it not do? The search query “Turkey eSIM with number” returns contradictory results. Some providers claim a phone number is included. Others say data-only. A few advertise virtual numbers that cannot receive SMS from Turkish banks. For which network your eSIM uses, read the [carrier comparison](/blog/turkcell-vodafone-turk-telekom-esim/), and confirm your phone supports a second line in the [device compatibility guide](/blog/turkey-esim-device-compatibility/).
 
 This page resolves the confusion. It explains what works, what does not, and what to do instead. It covers IMSI versus MSISDN, the three product types, local Turkish carrier eSIM plans with real numbers, when you actually need a Turkish number, virtual numbers and 2FA reality, VoIP calling over eSIM data, Wi-Fi Calling over eSIM data, the dual-SIM SMS workaround, hotspot policies by provider and setup by traveller type.
 
@@ -145,7 +145,7 @@ Vodafone has the strongest English-language tourist support.
 - **Official price:** 420 TL (~$9)
 - **Registration:** Passport or accepted ID
 
-Türk Telekom is the cheapest local option but has weaker rural coverage. See the [Turkcell vs Vodafone vs Türk Telekom comparison](/blog/turkcell-vodafone-turk-telekom-esim/) for the full network breakdown.
+Türk Telekom is the cheapest local option but has weaker rural coverage. See the [three-network breakdown](/blog/turkcell-vodafone-turk-telekom-esim/) for the full network breakdown.
 
 ### Local Carrier Turkey eSIM Plan Comparison
 
@@ -173,7 +173,7 @@ A Turkish +90 number is not required for most tourist use. You need one only if 
 
 - It does not avoid the BTK block on foreign eSIM platforms.
 - It does not remove the 120-day IMEI registration clock.
-- It does not give you access to foreign eSIM provider apps from inside Turkey. Read the [BTK ban and availability rules](/blog/turkey-esim-ban-availability-rules/) for the full regulatory picture.
+- It does not give you access to foreign eSIM provider apps from inside Turkey. Read the [block and IMEI rules](/blog/turkey-esim-ban-availability-rules/) for the full regulatory picture.
 
 ### Turkey eSIM Local Number Use Cases
 
@@ -187,7 +187,7 @@ A Turkish +90 number is not required for most tourist use. You need one only if 
 | Hotel contact | No | WhatsApp, email |
 | Emergency services | No | 112 |
 
-## Virtual Numbers and 2FA Reality
+## Do Virtual Numbers Actually Work for 2FA?
 
 Some apps offer virtual numbers that can receive SMS verification codes. These are separate from your Turkey eSIM. Most Turkish banks will not send 2FA codes to a virtual number, and Turkish government services often reject virtual numbers outright.
 
@@ -214,9 +214,9 @@ The reliable setup for bank and WhatsApp 2FA is:
 3. Disable “Allow Mobile Data Switching.”
 4. Your home number receives SMS over roaming.
 
-For the full dual-SIM setup, read the [Turkey eSIM activation and APN troubleshooting](/blog/how-turkey-esim-works-activation/).
+For the full dual-SIM setup, read the [dual-SIM setup](/blog/how-turkey-esim-works-activation/).
 
-## Making Calls Over a Data Connection
+## Can You Make Calls Over Data?
 
 You do not need a Turkish phone number to make calls in Turkey. You need a data connection and the right app. VoIP apps handle voice and video calls over your Turkey eSIM data connection.
 
@@ -256,7 +256,7 @@ You do not need a Turkish phone number to make calls in Turkey. You need a data 
 
 VoIP apps are widely used in Turkey. WhatsApp, Telegram and FaceTime work over data. Some corporate networks and hotels block VoIP ports. On Turkish mobile networks, VoIP is not blocked by the BTK. The BTK block targets eSIM provider platforms, not VoIP services.
 
-## Wi-Fi Calling Over Data Explained
+## How Does Wi-Fi Calling Work Over Data?
 
 If your home carrier supports Wi-Fi Calling (VoWiFi) and allows it in Turkey, you can use your Turkey eSIM data connection to make and receive calls and SMS on your home number. This is the closest thing to a native number experience on a data-only Turkey eSIM.
 
@@ -329,7 +329,7 @@ A data-only Turkey eSIM has no MSISDN and cannot receive SMS. Keep your home SIM
 
 ### Home SIM Roaming Cost with Turkey eSIM
 
-Incoming SMS is typically free or low-cost. Outgoing SMS and calls incur roaming rates. Keep data roaming off on the home SIM to avoid data charges. For network-level choices, see the [provider failure modes comparison](/blog/best-turkey-esim-providers/).
+Incoming SMS is typically free or low-cost. Outgoing SMS and calls incur roaming rates. Keep data roaming off on the home SIM to avoid data charges. For network-level choices, see the [failure-mode guide](/blog/best-turkey-esim-providers/).
 
 ## Hotspot and Tethering Policies by Provider
 
@@ -381,7 +381,7 @@ A laptop running video calls, cloud sync and web browsing consumes 3–5 GB per 
 3. Enable hotspot.
 4. Other devices connect via Wi-Fi.
 
-A 50 GB / 30-day plan costs around €19.99–$30 and can cover a family of four for a two-week trip. For per-GB cost math, read the [cheapest Turkey eSIM cost analysis](/blog/cheapest-turkey-esim/).
+A 50 GB / 30-day plan costs around €19.99–$30 and can cover a family of four for a two-week trip. For per-GB cost math, read the [per-GB cost guide](/blog/cheapest-turkey-esim/).
 
 ### Turkey eSIM Hotspot Battery and Speed Impact
 
@@ -555,6 +555,18 @@ This section tracks which banks send 2FA SMS to roaming numbers in Turkey. It is
 4. Contact your bank to confirm international SMS is enabled.
 5. Consider a local Turkish SIM if your bank requires a local number.
 
+## Real Example: Wei, Bank 2FA on the Move
+
+Wei needed his home bank’s SMS code mid-trip. Because he kept his home SIM active and set the eSIM as the data line, the code arrived over Wi-Fi calling while his data ran on the eSIM.
+
+## What You Need vs Setup
+
+| What you need | Your setup | Notes |
+| --- | --- | --- |
+| Data only | Travel eSIM | Simplest option |
+| Data plus 2FA | eSIM data + home SIM active | Keep data roaming off on the home SIM |
+| Local Turkish number | Local SIM with passport | Triggers the IMEI clock |
+
 ## FAQ: Number, Calls, SMS and Hotspot
 
 ### Can I get a Turkish phone number with an eSIM?
@@ -623,8 +635,8 @@ Use this final checklist to confirm your Turkey eSIM setup, prepare for landing 
 
 ### Before You Fly with Turkey eSIM
 
-- [ ] Buy a data-only Turkey eSIM (5–20 GB depending on trip length). Compare options in the [provider failure modes comparison](/blog/best-turkey-esim-providers/).
-- [ ] Install the eSIM on Wi-Fi before departure. See the [activation and APN troubleshooting steps](/blog/how-turkey-esim-works-activation/).
+- [ ] Buy a data-only Turkey eSIM (5–20 GB depending on trip length). Compare options in the [provider roundup](/blog/best-turkey-esim-providers/).
+- [ ] Install the eSIM on Wi-Fi before departure. See the [setup steps](/blog/how-turkey-esim-works-activation/).
 - [ ] Label the line “Turkey”
 - [ ] Set Turkey eSIM for Mobile Data
 - [ ] Set home SIM for Voice & SMS
@@ -653,11 +665,11 @@ Use this final checklist to confirm your Turkey eSIM setup, prepare for landing 
 - [ ] Try manual network selection
 - [ ] Contact support with ICCID and order number
 
-For straightforward setup, reliable data and human support if anything goes wrong, a [Turkey eSIM](/turkey-esim/) from Roami starts at $1.99 with a 20% discount for new users and 24/7 human support after landing. It runs on Turkcell and Vodafone with automatic switching, supports unrestricted hotspot on all plans and publishes its FUP terms. For the full Turkey eSIM landscape, return to the [Turkey eSIM ultimate guide](/blog/turkey-esim-ultimate-guide/).
+If you need a real Turkish number, an eSIM is the wrong tool — buy a local SIM instead. For data, calls over VoIP and hotspot, [Roami’s data plan](/turkey-esim/) starts at $1.99 with 20% off for new users and unrestricted hotspot on every plan. See the [full overview](/blog/turkey-esim-ultimate-guide/) for the complete setup.
 
 ## Bottom Line
 
-- A travel eSIM gives you data, not a Turkish number.
+- A travel eSIM gives you data, not a Turkish number — if you need one, a local SIM is the right call.
 - For calls, use VoIP over your data; for 2FA, keep your home SIM active.
 - If you need a local number, buy a local carrier plan from Turkcell, Vodafone, or Türk Telekom.
-- Check the hotspot policy, because some ‘unlimited’ plans restrict tethering.
+- Check the hotspot policy, because some unlimited plans restrict tethering.

@@ -89,7 +89,7 @@ This page gives you the three compatibility checks, a five-minute pre-purchase w
 
 The short version: check EID, check carrier lock, check regional variant. If all three pass, your device can install a Turkey eSIM.
 
-## Three Compatibility Checks Explained
+## What Are the Three Compatibility Checks?
 
 All three checks must pass for a Turkey eSIM to install. Skipping any one produces a failed installation. The EID check confirms hardware. The carrier lock check confirms permission. The regional variant check confirms the hardware has not been physically removed for a specific market.
 
@@ -139,7 +139,7 @@ On iPhone, go to Settings → General → About → Carrier Lock. It must say �
 
 ### Check Regional Variant Before Buying Turkey eSIM
 
-Search your exact model number online and confirm it supports eSIM. The model number is in Settings → General → About on iPhone, or Settings → About Phone on Android. Do not rely on the marketing name alone. An iPhone 15 bought in Hong Kong is not the same as an iPhone 15 bought in the UK. For the full regulatory context on why this matters, read the [BTK ban and availability rules](/blog/turkey-esim-ban-availability-rules/).
+Search your exact model number online and confirm it supports eSIM. The model number is in Settings → General → About on iPhone, or Settings → About Phone on Android. Do not rely on the marketing name alone. An iPhone 15 bought in Hong Kong is not the same as an iPhone 15 bought in the UK. For the full regulatory context on why this matters, read the [block rules](/blog/turkey-esim-ban-availability-rules/).
 
 ### Check eSIM Slot Availability for Turkey eSIM
 
@@ -231,7 +231,7 @@ iPad Pro (2018+), iPad Air (2019+), iPad Mini (2019+) and iPad (10th gen+) cellu
 
 A Turkey eSIM on iPad is data-only. You can browse, use maps, stream video and use messaging apps. You cannot make native cellular calls or send SMS, because the iPad lacks the voice telephony stack.
 
-For travellers who carry an iPad as a secondary device, this is usually fine. The iPad connects to the same Turkey eSIM data plan, and VoIP apps handle calls. If you need a Turkish phone number for SMS verification, an iPad will not provide it. Read the [calls, SMS and hotspot guide](/blog/turkey-esim-number-calls-sms-hotspot/) for the full workaround.
+For travellers who carry an iPad as a secondary device, this is usually fine. The iPad connects to the same Turkey eSIM data plan, and VoIP apps handle calls. If you need a Turkish phone number for SMS verification, an iPad will not provide it. Read the [hotspot guide](/blog/turkey-esim-number-calls-sms-hotspot/) for the full workaround.
 
 ### Using iPad as a Turkey eSIM Hotspot
 
@@ -331,7 +331,7 @@ These manufacturers have inconsistent eSIM support. Some flagship models include
 4. Search for “EID.”
 5. If you see a 32-digit number, your device supports eSIM.
 
-## Apple Watch and Wearables
+## Does the Apple Watch Support eSIM?
 
 Apple Watch Series 3 and later (GPS + Cellular) use eSIM technology, but they require a carrier subscription tied to your iPhone. You cannot install a standard travel eSIM on an Apple Watch. This is a structural limitation, not a software restriction.
 
@@ -355,7 +355,7 @@ This means you cannot install a Turkey eSIM from a travel provider directly on a
 
 Even without cellular connectivity, an Apple Watch is useful in Turkey. It connects to your iPhone via Bluetooth or Wi-Fi, receives notifications, tracks workouts and displays maps. Most travellers leave the watch on GPS-only mode and rely on the phone’s Turkey eSIM for data.
 
-## Fallback Options Without Support
+## What If Your Phone Isn’t Compatible?
 
 If your phone lacks eSIM hardware, you have four alternatives: physical Turkish SIM, pocket Wi-Fi, a secondary eSIM-capable phone, or Wi-Fi and VoIP. Each has trade-offs in cost, convenience and registration requirements.
 
@@ -457,7 +457,7 @@ Most Android phones support one eSIM plus one physical SIM. Some support two eSI
 
 ### Family and Group Turkey eSIM Strategy
 
-The most cost-effective approach for families is one high-data eSIM with unrestricted hotspot in the primary traveller’s phone. Other devices connect via Wi-Fi. This avoids buying separate eSIMs for each person. For plan-size math, read the [price per GB cost analysis](/blog/cheapest-turkey-esim/).
+The most cost-effective approach for families is one high-data eSIM with unrestricted hotspot in the primary traveller’s phone. Other devices connect via Wi-Fi. This avoids buying separate eSIMs for each person. For plan-size math, read the [cost math](/blog/cheapest-turkey-esim/).
 
 ### Turkey eSIM Multi-Device Table
 
@@ -496,7 +496,19 @@ This section tracks device compatibility by model, region and carrier. It is upd
 2. Check the EID column. If ❌, no eSIM hardware.
 3. Check the eSIM support column. If ❌, the device cannot install a third-party eSIM.
 4. If ⚠️, verify manually before buying.
-5. If ✅, proceed to purchase. Compare options in the [provider failure modes comparison](/blog/best-turkey-esim-providers/).
+5. If ✅, proceed to purchase. Compare options in the [failure-modes guide](/blog/best-turkey-esim-providers/).
+
+## Real Example: Hana, the China-Variant Surprise
+
+Hana’s Samsung showed an eSIM option in settings, but the carrier bundle was missing — a China-variant regional build. She fell back to a physical SIM and used a pocket Wi-Fi for her tablet.
+
+## Device vs Fallback
+
+| Device | eSIM status | Fallback |
+| --- | --- | --- |
+| iPhone 14+ (US) | eSIM-only | Install early, no physical fallback |
+| Samsung / Google (global) | Usually eSIM | Check the regional variant |
+| China-variant phone | Often no eUICC | Physical SIM |
 
 ## FAQ: Device Compatibility
 
@@ -569,7 +581,7 @@ Use this final checklist to confirm your device supports Turkey eSIM, prepare yo
 
 ### Before You Fly with Turkey eSIM
 
-- [ ] Install the Turkey eSIM on Wi-Fi. See the [activation and APN troubleshooting steps](/blog/how-turkey-esim-works-activation/).
+- [ ] Install the Turkey eSIM on Wi-Fi. See the [install steps](/blog/how-turkey-esim-works-activation/).
 - [ ] Label the line “Turkey”
 - [ ] Set the eSIM for Mobile Data
 - [ ] Set home SIM for Voice & SMS
@@ -582,7 +594,7 @@ Use this final checklist to confirm your device supports Turkey eSIM, prepare yo
 - [ ] Use a secondary eSIM-capable phone
 - [ ] Rely on Wi-Fi and VoIP
 
-For clear compatibility guidance, straightforward installation and human support if anything goes wrong, a [Turkey eSIM](/turkey-esim/) from Roami starts at $1.99 with a 20% discount for new users and 24/7 human support after landing. It runs on Turkcell and Vodafone with automatic switching, supports unrestricted hotspot and publishes its FUP terms. For the full Turkey eSIM landscape, return to the [Turkey eSIM ultimate guide](/blog/turkey-esim-ultimate-guide/).
+If your phone fails the checks, don’t force it — a physical Turkish SIM or a pocket Wi-Fi device is the honest fallback. If it passes, [Roami’s multi-network eSIM](/turkey-esim/) starts at $1.99 with 20% off for new users and installs in minutes. For the full device landscape, read the [overview guide](/blog/turkey-esim-ultimate-guide/).
 
 ## Bottom Line
 

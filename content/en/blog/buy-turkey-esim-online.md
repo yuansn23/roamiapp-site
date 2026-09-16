@@ -169,7 +169,7 @@ Not blocked. Türk Telekom network. Plans from around $4.60 for 10 days of daily
 
 For a full breakdown of provider failure modes before you choose a channel, read the [best Turkey eSIM providers guide](/blog/best-turkey-esim-providers/).
 
-## Payment Methods and Buyer Protection
+## Which Payment Method Protects You Best?
 
 PayPal offers the strongest buyer protection for most travellers buying a Turkey eSIM online. Credit and debit cards offer partial chargeback rights. Apple Pay and Google Pay are convenient but have limited protection. Crypto and bank transfer should be last resorts.
 
@@ -241,7 +241,7 @@ Whatever channel you choose, confirm the final charge matches the quoted price b
 
 You have now covered when and where to buy, the channel risk matrix, and how to protect your payment. The takeaway is to buy early from the official site rather than at an airport counter. Next, we look at discount stacking and how to get your money back if the eSIM fails.
 
-## Discount Codes and Promo Stacking
+## Can You Stack Discount Codes?
 
 Discounts help, but plan size matters more. A 20% discount on a 1 GB plan saves very little. Upgrading from 1 GB to 10 GB often saves far more per usable gigabyte. Use codes after you have chosen the right plan size.
 
@@ -286,7 +286,7 @@ Check cashback portals and referral links. Some providers offer account credit f
 
 Some providers offer student discounts or loyalty credit. Check before buying. These are less common for Turkey eSIMs.
 
-## Refund Policies and Dispute Paths
+## Can You Get a Refund After Activation?
 
 Refund policy is the most important pre-purchase check. If the eSIM fails after landing and the provider counts a failed activation attempt as activation, you may lose the full plan cost. Read the policy before paying.
 
@@ -417,7 +417,7 @@ Check if the provider can issue a VAT invoice. Some providers charge in foreign 
 
 ### MDM Restrictions and Turkey eSIM
 
-Phones managed by employer MDM may block eSIM installation. Check with IT before buying. For a deeper device check, read the [Turkey eSIM device compatibility guide](/blog/turkey-esim-device-compatibility/).
+Phones managed by employer MDM may block eSIM installation. Check with IT before buying. For a deeper device check, read the [device check guide](/blog/turkey-esim-device-compatibility/).
 
 ### Turkey eSIM Security Checklist
 
@@ -457,7 +457,7 @@ Rent at airport. $6–10/day plus deposit. Good for families.
 - Need multiple devices: pocket Wi-Fi.
 - Rural travel: local SIM is risky, prefer pre-installed eSIM.
 
-If you have not yet bought, [Turkey eSIM plans](/turkey-esim/) from Roami start at $1.99 with a 20% new-user discount, run on Turkcell and Vodafone with automatic switching, and include 24/7 human support. Read the [BTK ban and availability rules](/blog/turkey-esim-ban-availability-rules/) to understand why buying after landing is so restricted.
+If you have not yet bought, [Turkey eSIM plans](/turkey-esim/) from Roami start at $1.99 with a 20% new-user discount, run on Turkcell and Vodafone with automatic switching, and include 24/7 human support. Read the [BTK block rules](/blog/turkey-esim-ban-availability-rules/) to understand why buying after landing is so restricted.
 
 ## Test Before You Fly
 
@@ -492,7 +492,7 @@ Catch installation, carrier lock or APN issues before you are on a plane.
 3. Try manual installation with SM-DP+ address and activation code.
 4. Contact provider support.
 
-For the full QR, APN and dual-SIM workflow, read the [Turkey eSIM activation and APN troubleshooting](/blog/how-turkey-esim-works-activation/).
+For the full QR, APN and dual-SIM workflow, read the [activation workflow](/blog/how-turkey-esim-works-activation/).
 
 ## Gift Purchasing and Resale
 
@@ -555,6 +555,18 @@ Use this checklist to complete the purchase, protect your payment and prepare fo
 - [ ] Confirm SMS works on home SIM.
 - [ ] If no data: check APN, restart, manual network selection.
 - [ ] Contact support if unresolved.
+
+## Real Example: Nadia, Marketplace Scam Near-Miss
+
+Nadia almost bought a “50% off” eSIM from a marketplace seller, then checked the provider’s own site and found the same plan cheaper. She bought direct, got a working QR code, and paid via PayPal for protection.
+
+## Buying Situation vs Channel
+
+| Buying situation | Safest channel | Why |
+| --- | --- | --- |
+| One to seven days before flying | The provider’s own site | Stack promos safely |
+| Already at the airport | Still buy online | Counters overcharge |
+| Buying for a group | One high-data plan plus hotspot | Cheaper than per-person |
 
 ## FAQ: Buying Online
 
@@ -624,7 +636,7 @@ Some are resold plans with poor support. Prefer official provider websites or Kl
 
 ### Does Turkey eSIM include a phone number?
 
-No. Travel eSIMs are data-only. For a Turkish number, buy a local carrier SIM with passport registration. Read the [Turkey eSIM calls, SMS and hotspot guide](/blog/turkey-esim-number-calls-sms-hotspot/).
+No. Travel eSIMs are data-only. For a Turkish number, buy a local carrier SIM with passport registration. Read the [number and hotspot guide](/blog/turkey-esim-number-calls-sms-hotspot/).
 
 ### Can I use a Turkey eSIM on iPad?
 
@@ -680,7 +692,7 @@ Call your bank. Try another card or PayPal. Some banks block Turkey-related merc
 
 ### What should I do if the eSIM fails after landing?
 
-Troubleshoot: data line, roaming, APN, restart, manual network selection. Contact support if unresolved. If provider is blocked, use Wi-Fi-based support or airport Wi-Fi. Read the [activation and APN troubleshooting guide](/blog/how-turkey-esim-works-activation/).
+Troubleshoot: data line, roaming, APN, restart, manual network selection. Contact support if unresolved. If provider is blocked, use Wi-Fi-based support or airport Wi-Fi. Read the [troubleshooting guide](/blog/how-turkey-esim-works-activation/).
 
 ## Final Checklist: Buying Online
 
@@ -720,7 +732,7 @@ The BTK block makes pre-departure purchase mandatory. There is no reliable way t
 - [ ] If no data: check APN, restart, manual network selection.
 - [ ] Contact support if unresolved.
 
-For transparent pricing, accessible human support and a low entry point, [Roami’s Turkey eSIM](/turkey-esim/) starts at $1.99 with a 20% discount for new users and 24/7 customer service if anything goes wrong after landing. It runs on Turkcell and Vodafone with automatic switching and clear FUP terms, with no hidden throttling for the first 30 GB. For the full Turkey eSIM landscape, return to the [Turkey eSIM ultimate guide](/blog/turkey-esim-ultimate-guide/).
+You don’t have to buy in advance — but if the provider is blocked after you land, you’ll wish you had. [Roami’s travel eSIM](/turkey-esim/) costs from $1.99, gives new users 20% off, and its 24/7 support answers over Wi-Fi if the refund or activation goes sideways. See the [main guide](/blog/turkey-esim-ultimate-guide/) for the full Turkey eSIM landscape.
 
 ## Bottom Line
 

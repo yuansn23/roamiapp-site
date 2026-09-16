@@ -87,7 +87,7 @@ This page gives you the install-versus-activate distinction, QR code and manual 
 
 The short version: install at home on Wi-Fi, keep data roaming off until landing, activate by enabling roaming, and fix most failures by checking the data line, roaming setting and APN.
 
-## Install vs Activate Profiles Explained
+## Install vs Activate: What’s the Difference?
 
 Installation and activation are two separate steps. Installation downloads the profile onto your phone’s eUICC chip. Activation registers that profile on a Turkish mobile network. Confusing the two is the most common reason travellers think their eSIM is broken when it is simply dormant.
 
@@ -294,7 +294,7 @@ Dual SIM configuration is where most post-landing failures originate. The Turkey
 | Allow Mobile Data Switching | OFF | OFF |
 | Wi-Fi Calling | Optional | N/A |
 
-## APN Configuration for Data
+## Why Does Data Need an APN Configuration?
 
 The APN is the most common cause of “signal bars but no internet” on a Turkey eSIM. Without the correct APN, the phone can register on the network and show full bars, but data will not flow. The APN value depends on your eSIM provider, not the local Turkish carrier.
 
@@ -496,7 +496,7 @@ Automatic selection can fail when:
 
 For network-level speed data, see the [OpenSignal Turkey mobile network experience report](https://www.opensignal.com/reports/turkey).
 
-## Reinstallation and Recovery
+## Should You Reinstall Your eSIM?
 
 Reinstallation is the last resort before buying a local SIM. It is required when the profile is corrupted, the carrier bundle is broken or the eSIM stops working after a phone update. The original QR code is single-use, so you need a new QR code or a provider transfer process.
 
@@ -550,7 +550,7 @@ Fixes: Check APN, enable roaming, select Turkey eSIM as data line, restart, manu
 
 Causes: Fair Use Policy throttle, network congestion, weak signal, wrong network.
 
-Fixes: Check FUP threshold, manual network selection, move to stronger signal, switch to fixed-data plan. For plan-sizing math, read the [cheapest Turkey eSIM cost analysis](/blog/cheapest-turkey-esim/).
+Fixes: Check FUP threshold, manual network selection, move to stronger signal, switch to fixed-data plan. For plan-sizing math, read the [plan-sizing math](/blog/cheapest-turkey-esim/).
 
 ### Turkey eSIM Works Then Stops
 
@@ -569,6 +569,18 @@ Fixes: Check carrier lock, check EID, try different Wi-Fi, request new QR, conta
 Causes: Incomplete installation, phone needs restart, eSIM disabled.
 
 Fixes: Restart phone, check Settings → Mobile Data, check SIMs, reinstall.
+
+## Real Example: Daniel, First-Timer at Istanbul Airport
+
+Daniel landed at IST with his eSIM still dormant because he’d left data roaming off. Rather than reinstalling, he enabled roaming, restarted the phone, and had signal within two minutes — the fix order saved his trip.
+
+## Which Setup Scenario Matches You
+
+| Setup situation | Your move | Why |
+| --- | --- | --- |
+| Flying soon, eSIM already bought | Install on Wi-Fi before boarding | Avoids the after-landing block |
+| Signal bars but no internet | Enable roaming, then check the APN | Most common fix |
+| Installed but still no network | Try manual network selection | A dormant profile needs a nudge |
 
 ## FAQ: Activation, QR and APN
 
@@ -610,7 +622,7 @@ Yes. Activation is done through your phone’s settings, not the provider app. E
 
 ### What if my Turkey eSIM does not connect after landing?
 
-Check data line, enable roaming, restart, try manual network selection, check APN. If none work, contact support. If the provider is blocked, use Wi-Fi-based support. For the full troubleshooting workflow, read the [activation and APN troubleshooting steps](/blog/how-turkey-esim-works-activation/).
+Check data line, enable roaming, restart, try manual network selection, check APN. If none work, contact support. If the provider is blocked, use Wi-Fi-based support. For the full troubleshooting workflow, read the [troubleshooting steps](/blog/how-turkey-esim-works-activation/).
 
 ### Which network should I select manually for Turkey eSIM?
 
@@ -630,7 +642,7 @@ Use this final checklist to confirm your pre-departure setup, prepare for landin
 
 ### Before Departure with Turkey eSIM
 
-- [ ] Check EID and carrier lock. See the [device compatibility checks](/blog/turkey-esim-device-compatibility/).
+- [ ] Check EID and carrier lock. See the [EID check](/blog/turkey-esim-device-compatibility/).
 - [ ] Buy the Turkey eSIM plan. Compare [safe purchase and refund options](/blog/buy-turkey-esim-online/).
 - [ ] Save QR code offline
 - [ ] Install the profile
@@ -664,11 +676,11 @@ Use this final checklist to confirm your pre-departure setup, prepare for landin
 - [ ] Check carrier bundle
 - [ ] Contact support with ICCID and order number
 
-For clear pre-departure setup and human support after landing, [Roami’s Turkey eSIM](/turkey-esim/) starts at $1.99 with a 20% discount for new users and 24/7 human support if anything goes wrong after landing. It runs on Turkcell and Vodafone with automatic switching, supports unrestricted hotspot and publishes its FUP terms. For the full Turkey eSIM landscape, return to the [Turkey eSIM ultimate guide](/blog/turkey-esim-ultimate-guide/).
+If self-service setup feels risky, [Roami’s Turkey eSIM](/turkey-esim/) installs from a single QR code and backs you with 24/7 support that works over Wi-Fi — new users get 20% off the $1.99 entry plan. For the whole landscape in one page, read the [Turkey eSIM overview](/blog/turkey-esim-ultimate-guide/).
 
 ## Bottom Line
 
-- Install on Wi-Fi before you leave, and keep data roaming off until you land.
-- Remember the fix order: data line, roaming, APN, carrier bundle, then support.
-- Save a screenshot of your QR code and APN values offline.
+- A physical SIM from an airport desk skips this entire process — if you’d rather not touch settings, that’s a reasonable choice.
+- For everyone else, an eSIM installed on Wi-Fi before you leave connects within minutes of landing.
+- Remember the fix order — data line, roaming, APN, carrier bundle, then support — and screenshot your QR code and APN values.
 - Treat reinstalling as a last resort, because your QR code may only work once.

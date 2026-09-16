@@ -1,0 +1,83 @@
+related_products:
+  title: Vergelijkbare eSIM-abonnementen
+  items:
+    - name: VS eSIM
+      flag: img/flags/us.svg
+      price: Vanaf $1,99
+      is_highlight: false
+      slug: united-states-esim
+    - name: China eSIM
+      flag: img/flags/cn.svg
+      price: Vanaf $1,99
+      is_highlight: false
+      slug: china-esim
+    - name: Duitsland eSIM
+      flag: img/flags/de.svg
+      price: Vanaf $1,99
+      is_highlight: false
+      slug: germany-esim
+    - name: Japan eSIM
+      flag: img/flags/jp.svg
+      price: Vanaf $1,99
+      is_highlight: false
+      slug: japan-esim
+    - name: Verenigd Koninkrijk eSIM
+      flag: img/flags/gb.svg
+      price: Vanaf $1,99
+      is_highlight: false
+      slug: united-kingdom-esim
+    - name: Frankrijk eSIM
+      flag: img/flags/fr.svg
+      price: Vanaf $1,99
+      is_highlight: false
+      slug: france-esim
+    - name: Italië eSIM
+      flag: img/flags/it.svg
+      price: Vanaf $1,99
+      is_highlight: false
+      slug: italy-esim
+    - name: Canada eSIM
+      flag: img/flags/ca.svg
+      price: Vanaf $1,99
+      is_highlight: false
+      slug: canada-esim
+    - name: Brazilië eSIM
+      flag: img/flags/br.svg
+      price: Vanaf $1,99
+      is_highlight: false
+      slug: brazil-esim
+    - name: Spanje eSIM
+      flag: img/flags/es.svg
+      price: Vanaf $1,99
+      is_highlight: false
+      slug: spain-esim
+    - name: Zuid-Korea eSIM
+      flag: img/flags/kr.svg
+      price: Vanaf $1,99
+      is_highlight: false
+      slug: south-korea-esim
+    - name: Australië eSIM
+      flag: img/flags/au.svg
+      price: Vanaf $1,99
+      is_highlight: false
+      slug: australia-esim
+    - name: Turkije eSIM
+      flag: img/flags/tr.svg
+      price: Vanaf $1,99
+      is_highlight: false
+      slug: turkey-esim
+    - name: Taiwan eSIM
+      flag: img/flags/tw.svg
+      price: Vanaf $1,99
+      is_highlight: false
+      slug: taiwan-esim
+    - name: Verenigde Arabische Emiraten eSIM
+      flag: img/flags/ae.svg
+      price: Vanaf $1,99
+      is_highlight: false
+      slug: united-arab-emirates-esim
+    - name: Oostenrijk eSIM
+      flag: img/flags/at.svg
+      price: Vanaf $1,99
+      is_highlight: false
+      slug: austria-esim

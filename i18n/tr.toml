@@ -604,3 +604,33 @@ other = "Aynı ağ. Daha düşük fiyat. Bizi karşılaştırın."
 
 [promo_compare_desc]
 other = "Roami eSIM: Önde gelen rakiplere kıyasla %30'a varan tasarruf edin."
+
+# social share
+[share_this]
+other = "Paylaş"
+
+
+# 邮箱收集表单（lead form）
+[lead_form_title]
+other = "Bir sonraki eSIM'inizde tasarruf edin"
+
+[lead_form_badge]
+other = "%20 İndirim"
+[lead_form_subtitle]
+other = "E-posta adresinizi ve seyahat tarihinizi bırakın. Uçuşunuzdan önce size indirim kodu gönderelim."
+[lead_form_email_placeholder]
+other = "E-posta adresiniz"
+[lead_form_submit]
+other = "Kodumu gönder"
+[lead_form_trust]
+other = "Spam yok. İstediğiniz zaman abonelikten çıkın."
+[lead_form_success]
+other = "Tamam! Seyahatinizden önce gelen kutunuzu kontrol edin."
+[lead_form_err_invalid]
+other = "Lütfen geçerli bir e-posta girin."
+[lead_form_err_generic]
+other = "Bir şeyler ters gitti. Lütfen tekrar deneyin."
+[lead_form_err_network]
+other = "Ağ hatası. Lütfen tekrar deneyin."
+[lead_form_sending]
+other = "Gönderiliyor..."

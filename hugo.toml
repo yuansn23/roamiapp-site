@@ -1010,3 +1010,59 @@ modal_confirm = "Przejdź teraz"
     modal_title = "הודעה"
     modal_cancel = "ביטול"
     modal_confirm = "עבור עכשיו"
+
+# 荷兰语配置
+[languages.nl]
+languageName = "Nederlands"
+contentDir = "content/nl"
+weight = 17
+
+[languages.nl.params]
+# 导航栏文案
+nav_links = [
+  { name = "Home", url = "/" },
+  { name = "eSIM kopen", url = "/plans/" },
+  { name = "eSIM-compatibiliteit", url = "/compatibility/" },
+  { name = "Gratis eSIM", url = "/free-esim/" },
+  { name = "Roami-app", url = "/app/" },
+  { name = "FAQ", url = "/faq/" }
+]
+
+# 页脚文案
+footer_desc = "Premium eSIM-diensten in meer dan 200 landen en regio's, zodat je overal verbonden blijft tijdens het reizen."
+
+footer_col1_title = "Populaire bestemmingen"
+footer_col1_links = [
+  { name = "Azië eSIM", url = "/asia-esim/" },
+  { name = "Europa eSIM", url = "/europe-esim/" },
+  { name = "Afrika eSIM", url = "/africa-esim/" },
+  { name = "Zuid-Amerika eSIM", url = "/south-america-esim/" },
+  { name = "Noord-Amerika eSIM", url = "/north-america-esim/" },
+  { name = "Midden-Oosten eSIM", url = "/middle-east-esim/" }
+]
+
+footer_col2_title = "Klantenservice"
+footer_col2_links = [
+  { name = "FAQ", url = "/faq/" },
+  { name = "Blog", url = "/blog/" },
+  { name = "eSIM-compatibiliteit", url = "/compatibility/" },
+  { name = "Roami downloaden", url = "/app/" }
+]
+
+footer_col3_title = "Bedrijfsinformatie"
+footer_col3_links = [
+  { name = "Over ons", url = "/about-us/" },
+  { name = "Gratis eSIM", url = "/free-esim/" },
+  { name = "Restitutiebeleid", url = "/refund/" },
+  { name = "Contact", url = "/contact/" },
+  { name = "Privacybeleid", url = "/privacy/" },
+  { name = "Algemene voorwaarden", url = "/terms/" }
+]
+
+footer_copyright = "© 2026 Roami. Alle rechten voorbehouden."
+footer_slogan = "Professionele wereldwijde eSIM-dienstverlener | Expert in wereldwijde eSIM-dataroaming"
+
+# 弹窗文案
+modal_title = "Melding"
+modal_cancel = "Annuleren"
+modal_confirm = "Ga nu"

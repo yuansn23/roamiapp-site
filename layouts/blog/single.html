@@ -321,6 +321,28 @@
             border: 1px solid #e2e8f0;
         }
 
+        /* ========== 社交媒体分享 ========== */
+        .share-bar {
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1.5rem 0 2.5rem;
+            padding: 0.875rem 1.25rem;
+            background-color: #f8fafc;
+            border: 1px solid #e2e8f0;
+            border-radius: 0.75rem;
+        }
+        .share-label {
+            font-weight: 700;
+            color: #0f172a;
+            font-size: 0.875rem;
+            white-space: nowrap;
+        }
+        .share-bar .a2a_kit {
+            line-height: 32px;
+        }
+
         /* ========== 相关文章卡片 ========== */
         .related-card {
             transition: transform 0.2s;
@@ -447,11 +469,16 @@
             background-color: #f97316;
         }
 
+        /* ========== 内容容器宽度（正文页整体略宽，介于 7xl 1280px 与 90rem 1440px 之间） ========== */
+        .content-container {
+            max-width: 80rem;
+        }
+
         /* ========== 三列布局（左目录 + 正文 + 右侧边栏） ========== */
         .three-columns {
             display: grid;
-            grid-template-columns: 230px minmax(0, 1fr) 320px;
-            gap: 2rem;
+            grid-template-columns: 190px minmax(0, 1fr) 272px;
+            gap: 1.5rem;
             align-items: start;
         }
 
@@ -521,7 +548,7 @@
         /* ===== 中屏：去掉左目录栏，正文 + 右侧边栏 ===== */
         @media (max-width: 1279px) {
             .three-columns {
-                grid-template-columns: minmax(0, 1fr) 320px;
+                grid-template-columns: minmax(0, 1fr) 272px;
             }
             .three-columns > .toc-rail { display: none; }
             .three-columns > article  { grid-column: 1; }
@@ -548,7 +575,10 @@
         .sidebar.is-sticky {
             position: sticky;
             top: 2rem;
-            /* 不加任何高度和滚动限制，让内容自然高度显示 */
+            /* 吸顶时限制为视口高度，超出部分在侧栏内部滚动，保证底部内容始终可见 */
+            max-height: calc(100vh - 3rem);
+            overflow-y: auto;
+            scrollbar-width: thin;
         }
 
         .category-cloud a {
@@ -575,6 +605,86 @@
                 font-size: 1.5rem;
             }
         }
+
+        /* ========== 邮箱收集表单（右侧栏） ========== */
+        .lead-form input[type="email"],
+        .lead-form input[type="date"] {
+            width: 100%;
+            border: 1px solid #cbd5e1;
+            border-radius: 0.5rem;
+            padding: 0.5rem 0.75rem;
+            font-size: 0.875rem;
+            color: #1e293b;
+            background: #fff;
+            box-sizing: border-box;
+        }
+        .lead-form input:focus {
+            outline: none;
+            border-color: #2563eb;
+            box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.15);
+        }
+        .lead-device-row { display: flex; gap: 0.5rem; }
+        .lead-device-btn {
+            display: flex; align-items: center; justify-content: center; gap: 0.375rem;
+            flex: 1 1 0;
+            padding: 0.5rem 0.25rem;
+            border-radius: 0.5rem;
+            border: 1px solid #cbd5e1;
+            background: #fff;
+            color: #475569;
+            font-size: 0.8125rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.15s ease;
+        }
+        .lead-device-btn:hover { border-color: #93c5fd; color: #2563eb; }
+        .lead-device-btn.active { border-color: #2563eb; background: #2563eb; color: #fff; }
+        .lead-submit {
+            width: 100%;
+            background: #2563eb;
+            color: #fff;
+            border: none;
+            border-radius: 0.5rem;
+            padding: 0.625rem;
+            font-size: 0.875rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.15s ease;
+        }
+        .lead-submit:hover { background: #1d4ed8; }
+        .lead-submit:disabled { opacity: 0.6; cursor: default; }
+        .lead-msg { display: none; font-size: 0.78rem; text-align: center; margin-top: 0.5rem; }
+        .lead-msg.show { display: block; }
+        .lead-msg.success { color: #059669; }
+        .lead-msg.error { color: #dc2626; }
+
+        .lead-head {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            margin-bottom: 0.875rem;
+            padding-bottom: 0.75rem;
+            border-bottom: 2px solid #e2e8f0;
+        }
+        .lead-badge {
+            display: inline-block;
+            align-self: flex-start;
+            background: linear-gradient(135deg, #f97316 0%, #ef4444 100%);
+            color: #fff;
+            font-weight: 800;
+            font-size: 1.375rem;
+            line-height: 1;
+            padding: 0.4rem 0.7rem;
+            border-radius: 0.625rem;
+            white-space: nowrap;
+            box-shadow: 0 2px 6px rgba(239, 68, 68, 0.35);
+        }
+        .lead-title {
+            font-size: 1.0625rem;
+            font-weight: 700;
+            color: #0f172a;
+            line-height: 1.3;
+        }
     </style>
 </head>
 <body class="bg-slate-50 text-slate-900 antialiased selection:bg-blue-200 selection:text-blue-900 relative">
@@ -585,7 +695,7 @@
 {{ partial "header.html" . }}
 
 <!-- ========== 面包屑导航 ========== -->
-<nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 text-sm text-slate-500">
+<nav class="content-container mx-auto px-4 sm:px-6 lg:px-8 pt-8 text-sm text-slate-500">
     <ol class="flex flex-wrap items-center gap-2">
         <li><a href="{{ .Site.LanguagePrefix }}/" class="hover:text-blue-600">{{ i18n "breadcrumb_home" }}</a></li>
         <li><span class="mx-1">{{ i18n "breadcrumb_separator" }}</span></li>
@@ -596,7 +706,7 @@
 </nav>
 
 <!-- ========== 主内容区：三列布局（左目录 + 正文 + 右侧边栏） ========== -->
-<main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 lg:py-12">
+<main class="content-container mx-auto px-4 sm:px-6 lg:px-8 py-8 lg:py-12">
     {{ $toc := .Fragments.ToHTML 2 2 false }}
     <div class="three-columns">
         <!-- ====== 左目录栏（桌面 sticky，仅 H2） ====== -->
@@ -648,6 +758,23 @@
             </div>
             {{ end }}
 
+            <!-- 社交媒体分享 -->
+            <div class="share-bar">
+                <span class="share-label">{{ i18n "share_this" }}</span>
+                <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+                    <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+                    <a class="a2a_button_facebook"></a>
+                    <a class="a2a_button_whatsapp"></a>
+                    <a class="a2a_button_telegram"></a>
+                    <a class="a2a_button_pinterest"></a>
+                    <a class="a2a_button_reddit"></a>
+                    <a class="a2a_button_linkedin"></a>
+                    <a class="a2a_button_tumblr"></a>
+                    <a class="a2a_button_x"></a>
+                </div>
+                <script defer src="https://static.addtoany.com/menu/page.js"></script>
+            </div>
+
             <!-- 移动端折叠目录（桌面由左侧 sticky 目录栏承担） -->
             {{ if and $toc (ne $toc "<nav id=\"TableOfContents\"></nav>") }}
             <div class="toc-container toc-mobile mb-8">
@@ -692,6 +819,40 @@
 
         <!-- ====== 右侧边栏 ====== -->
         <aside class="sidebar" id="sidebar">
+            {{/* ===== 侧边栏模块开关（false = 屏蔽，true = 显示） ===== */}}
+            {{ $showHotPosts := false }}
+            {{ $showRecentPosts := false }}
+
+            <!-- ====== 邮箱收集卡片 ====== -->
+            <div class="sidebar-card">
+                <div class="lead-head">
+                    <span class="lead-badge">{{ i18n "lead_form_badge" }}</span>
+                    <div class="lead-title">{{ i18n "lead_form_title" }}</div>
+                </div>
+                <p style="font-size:0.8125rem;color:#64748b;margin:0 0 0.875rem;line-height:1.5;">{{ i18n "lead_form_subtitle" }}</p>
+                <form class="lead-form" id="leadForm" novalidate data-msg-invalid="{{ i18n "lead_form_err_invalid" }}" data-msg-generic="{{ i18n "lead_form_err_generic" }}" data-msg-network="{{ i18n "lead_form_err_network" }}" data-msg-sending="{{ i18n "lead_form_sending" }}" data-msg-success="{{ i18n "lead_form_success" }}">
+                    <input type="email" name="email" placeholder="{{ i18n "lead_form_email_placeholder" }}" autocomplete="email" required>
+                    <input type="date" name="travel_date" style="margin-top:0.625rem;">
+                    <div class="lead-device-row" style="margin-top:0.625rem;">
+                        <button type="button" class="lead-device-btn active" data-device="iPhone">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="7" y="2" width="10" height="20" rx="2"/><path d="M12 18h.01"/></svg>
+                            iPhone
+                        </button>
+                        <button type="button" class="lead-device-btn" data-device="Android">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 6h14a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1z"/><path d="M9 4l2 2m4-2l-2 2"/></svg>
+                            Android
+                        </button>
+                    </div>
+                    <input type="hidden" name="device_type" id="deviceType" value="iPhone">
+                    <input type="hidden" name="lang" value="{{ .Lang }}">
+                    <input type="hidden" name="source_url" value="{{ .Permalink }}">
+                    <input type="text" name="_honeypot" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0;">
+                    <button type="submit" class="lead-submit" style="margin-top:0.625rem;">{{ i18n "lead_form_submit" }}</button>
+                    <p style="font-size:0.7rem;color:#94a3b8;text-align:center;margin-top:0.5rem;">{{ i18n "lead_form_trust" }}</p>
+                    <div class="lead-msg" id="leadMsg"></div>
+                </form>
+            </div>
+
             <!-- 热门 eSIM 产品模块 -->
             {{ $products := .Params.products }}
             {{ $productsTitle := .Params.productsTitle }}
@@ -704,7 +865,7 @@
                 <div class="sidebar-card">
                     <div class="sidebar-title">{{ $productsTitle }}</div>
                     <div class="product-grid">
-                        {{ range first 6 (shuffle $products) }}
+                        {{ range first 4 (shuffle $products) }}
                         {{ $slug := .slug | default (.name | urlize) }}
                         {{ $productURL := printf "/%s/" ($slug | lower) | relLangURL }}
                         <a class="product-item" href="{{ $productURL }}">
@@ -720,10 +881,10 @@
                 {{ end }}
             {{ end }}
 
-            <!-- 热门文章推荐 -->
+            <!--  -->
             {{ $hotPosts := .Params.hotPosts }}
             {{ $hotPostsTitle := .Params.hotPostsTitle }}
-            {{ if and $hotPosts $hotPostsTitle }}
+            {{ if and $showHotPosts $hotPosts $hotPostsTitle }}
             <div class="sidebar-card">
                 <div class="sidebar-title">{{ $hotPostsTitle }}</div>
                 <ul class="sidebar-list">
@@ -738,10 +899,10 @@
             </div>
             {{ end }}
 
-            <!-- 最近更新 -->
+            <!--  -->
 {{ $recentPosts := .Params.recentPosts }}
 {{ $recentPostsTitle := .Params.recentPostsTitle }}
-{{ if and $recentPosts $recentPostsTitle }}
+{{ if and $showRecentPosts $recentPosts $recentPostsTitle }}
 <div class="sidebar-card">
     <div class="sidebar-title">{{ $recentPostsTitle }}</div>
     <ul class="sidebar-list">
@@ -879,6 +1040,76 @@
         }
         window.addEventListener('scroll', updateActive, { passive: true });
         updateActive();
+    })();
+
+    // ===== 邮箱收集表单 =====
+    (function () {
+        const form = document.getElementById('leadForm');
+        if (!form) return;
+        const btns = form.querySelectorAll('.lead-device-btn');
+        const deviceInput = document.getElementById('deviceType');
+        const msg = document.getElementById('leadMsg');
+        const submitBtn = form.querySelector('.lead-submit');
+        const submitLabel = submitBtn.textContent;
+        const i18nMsg = {
+            invalid: form.getAttribute('data-msg-invalid'),
+            generic: form.getAttribute('data-msg-generic'),
+            network: form.getAttribute('data-msg-network'),
+            sending: form.getAttribute('data-msg-sending'),
+            success: form.getAttribute('data-msg-success')
+        };
+
+        btns.forEach(function (b) {
+            b.addEventListener('click', function () {
+                btns.forEach(function (x) { x.classList.remove('active'); });
+                b.classList.add('active');
+                deviceInput.value = b.dataset.device;
+            });
+        });
+
+        form.addEventListener('submit', async function (e) {
+            e.preventDefault();
+            const email = form.querySelector('input[name="email"]').value.trim();
+            if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) {
+                msg.textContent = i18nMsg.invalid;
+                msg.className = 'lead-msg error show';
+                return;
+            }
+            submitBtn.disabled = true;
+            submitBtn.textContent = i18nMsg.sending;
+            try {
+                const res = await fetch('/api/subscribe', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        email: email,
+                        travel_date: form.querySelector('input[name="travel_date"]').value,
+                        device_type: deviceInput.value,
+                        lang: form.querySelector('input[name="lang"]').value,
+                        source_url: form.querySelector('input[name="source_url"]').value,
+                        _honeypot: form.querySelector('input[name="_honeypot"]').value
+                    })
+                });
+                const data = await res.json().catch(function () { return {}; });
+                if (res.ok && data.ok) {
+                    msg.textContent = i18nMsg.success;
+                    msg.className = 'lead-msg success show';
+                    form.reset();
+                    btns.forEach(function (x) { x.classList.remove('active'); });
+                    btns[0].classList.add('active');
+                    deviceInput.value = 'iPhone';
+                } else {
+                    msg.textContent = (data.error || i18nMsg.generic);
+                    msg.className = 'lead-msg error show';
+                }
+            } catch (err) {
+                msg.textContent = i18nMsg.network;
+                msg.className = 'lead-msg error show';
+            } finally {
+                submitBtn.disabled = false;
+                submitBtn.textContent = submitLabel;
+            }
+        });
     })();
 </script>
 

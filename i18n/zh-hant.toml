@@ -505,3 +505,33 @@ other = "同一網絡，更低價格，歡迎對比。"
 
 [promo_compare_desc]
 other = "Roami eSIM：相比業界領先競爭對手，最高可節省 30%。"
+
+# social share
+[share_this]
+other = "分享"
+
+
+# 邮箱收集表单（lead form）
+[lead_form_title]
+other = "領取您的 eSIM 折扣"
+
+[lead_form_badge]
+other = "8 折"
+[lead_form_subtitle]
+other = "留下您的 Email 與出發日期，我們會在出發前寄送折扣碼給您。"
+[lead_form_email_placeholder]
+other = "您的 Email"
+[lead_form_submit]
+other = "寄送折扣碼給我"
+[lead_form_trust]
+other = "絕不寄垃圾信，隨時可取消訂閱。"
+[lead_form_success]
+other = "訂閱成功！出發前請留意您的信箱。"
+[lead_form_err_invalid]
+other = "請輸入有效的 Email。"
+[lead_form_err_generic]
+other = "發生錯誤，請再試一次。"
+[lead_form_err_network]
+other = "網路錯誤，請再試一次。"
+[lead_form_sending]
+other = "寄送中..."
