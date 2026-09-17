@@ -221,7 +221,123 @@
 
     /* [Arabic RTL] 面包屑箭头镜像（chevron-right → 朝左） */
     [dir="rtl"] [data-lucide="chevron-right"] { transform: scaleX(-1); }
+
+    /* ==========================================================
+       顶部悬浮优惠券 (sticky coupon) — 全站固定顶栏
+       - --coupon-h 由 JS 动态写入真实高度，正文与吸顶头部同步让位
+       ========================================================== */
+    :root { --coupon-h: 0px; }
+    body.has-coupon { padding-top: var(--coupon-h); }
+    body.has-coupon nav.sticky { top: var(--coupon-h); }
+
+    #sticky-coupon {
+        position: fixed; top: 0; left: 0; right: 0; z-index: 9999;
+        background: linear-gradient(90deg, #1d4ed8 0%, #2563eb 45%, #0ea5e9 100%);
+        color: #fff; box-shadow: 0 2px 12px rgba(0,0,0,.18);
+    }
+    .sc-inner {
+        max-width: 90rem; margin: 0 auto; padding: 8px 16px;
+        display: flex; align-items: center; justify-content: center;
+        gap: 12px; flex-wrap: wrap;
+    }
+    .sc-text { display: flex; align-items: center; justify-content: center; gap: 8px; flex-wrap: wrap; font-size: .9rem; }
+    .sc-off { font-weight: 700; }
+    .sc-use { color: #dbeafe; }
+    .sticky-coupon-code {
+        background: #fff; color: #1d4ed8; font-weight: 800;
+        padding: 2px 10px; border-radius: 6px; letter-spacing: .5px;
+        cursor: pointer; border: 1px dashed #93c5fd; font-family: ui-monospace, monospace;
+    }
+    .sc-actions { display: flex; align-items: center; gap: 10px; flex-shrink: 0; }
+    .coupon_buy_button {
+        background: #fff; color: #1d4ed8; font-weight: 700; border: none;
+        padding: 6px 16px; border-radius: 9999px; cursor: pointer;
+        white-space: nowrap; transition: all .2s;
+    }
+    .coupon_buy_button:hover { background: #fef3c7; transform: translateY(-1px); }
+    .sc-close {
+        background: rgba(255,255,255,.16); color: #fff; border: none;
+        width: 26px; height: 26px; border-radius: 50%; cursor: pointer;
+        font-size: 18px; line-height: 1; display: inline-flex; align-items: center; justify-content: center;
+    }
+    .sc-close:hover { background: rgba(255,255,255,.32); }
 </style>
+
+<script>
+(function () {
+    // 多语言文案（Hugo 服务端渲染为 JS 字符串）
+    var discountText = {{ i18n "banner_discount_desc" }};
+    var useCodeText  = {{ i18n "promo_use_code" }};
+    var ctaText      = {{ i18n "banner_cta" }};
+    var COUPON_CODE  = "web20";
+
+    function syncHeight() {
+        var bar = document.getElementById('sticky-coupon');
+        if (bar) document.documentElement.style.setProperty('--coupon-h', bar.offsetHeight + 'px');
+    }
+
+    // 购买按钮：跳转到当前语言对应的 /plans/ 页（relLangURL 自动带上语言前缀）
+    var plansUrl = {{ "/plans/" | relLangURL }};
+    window.scBuy = function () {
+        window.location.href = plansUrl;
+    };
+
+    window.closeStickyCoupon = function () {
+        var bar = document.getElementById('sticky-coupon');
+        if (bar) bar.remove();
+        document.body.classList.remove('has-coupon');
+        document.documentElement.style.setProperty('--coupon-h', '0px');
+        try { sessionStorage.setItem('roami_coupon_closed', '1'); } catch (e) {}
+    };
+
+    window.copyCouponCode = function (el) {
+        function done() {
+            if (!el) return;
+            var old = el.textContent;
+            el.textContent = '✓';
+            setTimeout(function () { el.textContent = old; }, 1200);
+        }
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard.writeText(COUPON_CODE).then(done, done);
+        } else {
+            var ta = document.createElement('textarea');
+            ta.value = COUPON_CODE;
+            ta.style.position = 'fixed'; ta.style.opacity = '0';
+            document.body.appendChild(ta); ta.select();
+            try { document.execCommand('copy'); } catch (e) {}
+            document.body.removeChild(ta); done();
+        }
+    };
+
+    function injectCoupon() {
+        try { if (sessionStorage.getItem('roami_coupon_closed') === '1') return; } catch (e) {}
+        if (document.getElementById('sticky-coupon')) return;
+
+        var bar = document.createElement('div');
+        bar.id = 'sticky-coupon';
+        bar.innerHTML =
+            '<div class="sc-inner">' +
+                '<div class="sc-text">' +
+                    '<span class="sc-off">' + discountText + '</span>' +
+                    '<span class="sc-use">' + useCodeText + '</span>' +
+                    '<span class="sticky-coupon-code" onclick="copyCouponCode(this)">' + COUPON_CODE + '</span>' +
+                '</div>' +
+                '<div class="sc-actions">' +
+                    '<button type="button" class="coupon_buy_button" onclick="scBuy()">' + ctaText + '</button>' +
+                    '<button type="button" class="sc-close" onclick="closeStickyCoupon()" aria-label="Close">&times;</button>' +
+                '</div>' +
+            '</div>';
+
+        document.body.insertBefore(bar, document.body.firstChild);
+        document.body.classList.add('has-coupon');
+        syncHeight();
+        window.addEventListener('resize', syncHeight);
+    }
+
+    if (document.body) { injectCoupon(); }
+    else { document.addEventListener('DOMContentLoaded', injectCoupon); }
+})();
+</script>
 
 <!-- 🌟 5. 组织结构化数据与首页专属数据 -->
 <!-- 🌟 5. 组织结构化数据与首页专属数据（多语言） -->
