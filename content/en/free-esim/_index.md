@@ -3,8 +3,8 @@ title: "Claim Free eSIM | Global Travel Data Trial"
 date: '2026-08-17T00:00:00+00:00'
 
 seo:
-  title: "Free eSIM | 5G, No Credit Card Required  -Roami"
-  description: "Roami offers free eSIM with no credit card required, including data plans for Japan, Thailand, USA, and Europe. Easy activation in just 3 steps."
+  title: "Free eSIM Trial (2026) | 5G, No Credit Card Required"
+  description: "Roami free eSIM: 100MB data, no credit card required. Japan, Thailand, USA &amp; Europe. Compare with Holafly &amp; Airalo. Instant 3-step activation"
   keywords: "free eSIM, travel eSIM, international data plan, zero roaming fees, digital SIM card, global internet, prepaid eSIM, QR code eSIM"
   canonical_url: "/free-esim/"
   og_image: "/img/og-free-esim.jpg"
