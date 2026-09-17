@@ -20,34 +20,34 @@ hotPostsTitle: "Популярные статьи"
 recentPostsTitle: "Последние статьи"
 
 products:
-  - name: "Spain eSIM"
+  - name: "eSIM Испания"
     flag: "/img/flags/es.svg"
-    price: "From $1.99"
+    price: "От $1.99"
     is_highlight: true
     slug: "spain"
-  - name: "Portugal eSIM"
+  - name: "eSIM Португалия"
     flag: "/img/flags/pt.svg"
-    price: "From $1.99"
+    price: "От $1.99"
     is_highlight: false
     slug: "portugal"
-  - name: "France eSIM"
+  - name: "eSIM Франция"
     flag: "/img/flags/fr.svg"
-    price: "From $1.99"
+    price: "От $1.99"
     is_highlight: false
     slug: "france"
-  - name: "Italy eSIM"
+  - name: "eSIM Италия"
     flag: "/img/flags/it.svg"
-    price: "From $1.99"
+    price: "От $1.99"
     is_highlight: false
     slug: "italy"
-  - name: "UK eSIM"
+  - name: "eSIM Великобритания"
     flag: "/img/flags/gb.svg"
-    price: "From $1.99"
+    price: "От $1.99"
     is_highlight: false
     slug: "uk"
-  - name: "Netherlands eSIM"
+  - name: "eSIM Нидерланды"
     flag: "/img/flags/nl.svg"
-    price: "From $1.99"
+    price: "От $1.99"
     is_highlight: false
     slug: "netherlands"
 

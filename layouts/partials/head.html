@@ -89,6 +89,10 @@
 <!-- 自定义样式 -->
 <style>
     html { font-size: 14px; }
+    /* 手机端整体字号偏小，放大根字号（rem 基准，文字与间距同步放大） */
+    @media (max-width: 768px) {
+        html { font-size: 16px; }
+    }
     body { font-family: 'Inter', 'Tajawal', system-ui, sans-serif; }
     .gradient-text {
         background: linear-gradient(90deg, #2563eb 0%, #38bdf8 100%);
@@ -261,6 +265,15 @@
         font-size: 18px; line-height: 1; display: inline-flex; align-items: center; justify-content: center;
     }
     .sc-close:hover { background: rgba(255,255,255,.32); }
+
+    /* 手机端：顶部固定优惠券栏紧凑适配，避免换行过高遮挡正文 */
+    @media (max-width: 768px) {
+        .sc-inner { padding: 6px 12px; gap: 8px; }
+        .sc-text { gap: 6px; }
+        .sticky-coupon-code { padding: 2px 8px; }
+        .sc-actions { gap: 6px; }
+        .coupon_buy_button { padding: 5px 14px; }
+    }
 </style>
 
 <script>
