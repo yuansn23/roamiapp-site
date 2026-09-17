@@ -4,7 +4,6 @@ description: "Reis door Europa met één prepaid reis-eSIM van Roami. Onbeperkte
 date: '2026-09-16T00:00:00+00:00'
 lastmod: 2026-09-16
 type: regional-esim
-url: /europe-esim/
 breadcrumbs:
 - name: Home
   url: /
