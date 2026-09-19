@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Roami — Agent & API Documentation</title>
+<meta name="description" content="Machine-readable catalog and agent discovery endpoints for Roami travel eSIM products.">
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; max-width: 780px; margin: 0 auto; padding: 40px 20px; line-height: 1.6; }
+  code, pre { background: rgba(127,127,127,.15); padding: 2px 6px; border-radius: 5px; font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; font-size: .92em; }
+  pre { padding: 14px 16px; overflow-x: auto; }
+  pre code { background: none; padding: 0; }
+  h1, h2 { line-height: 1.25; }
+  table { border-collapse: collapse; width: 100%; margin: 16px 0; }
+  th, td { border: 1px solid rgba(127,127,127,.35); padding: 8px 10px; text-align: left; font-size: .95em; }
+  th { background: rgba(127,127,127,.15); }
+</style>
+</head>
+<body>
+<h1>Roami — Agent &amp; API Documentation</h1>
+<p>This page documents the machine-readable endpoints that AI agents and crawlers can use to discover, read, and compare Roami travel eSIM products across 200+ destinations.</p>
+
+<h2>Endpoints</h2>
+<table>
+  <tr><th>Endpoint</th><th>Purpose</th></tr>
+  <tr><td><code>/catalog.json</code></td><td>Complete product catalog — every country, every plan, with data amount, validity, and price.</td></tr>
+  <tr><td><code>/llms.txt</code></td><td>LLM-friendly overview: coverage, pricing tiers, key pages, and popular destinations.</td></tr>
+  <tr><td><code>/sitemap.xml</code></td><td>Standard sitemap of all pages.</td></tr>
+</table>
+
+<h2><code>/catalog.json</code> schema</h2>
+<p>The catalog is a JSON document (valid JSON-LD, <code>@type: ItemList</code>) with the following top-level fields:</p>
+<pre><code>{
+  "@type": "ItemList",
+  "brand": "Roami",
+  "currency": "USD",
+  "itemCount": 164,
+  "countries": [ { ... } ]
+}</code></pre>
+
+<p>Each entry in <code>countries</code>:</p>
+<pre><code>{
+  "name": "Japan eSIM",
+  "url": "https://www.roamiapp.com/japan-esim/",
+  "operators": ["NTT Docomo", "SoftBank", "KDDI"],
+  "cities": ["Tokyo", "Osaka", "Kyoto"],
+  "lowPriceUSD": 1.99,
+  "highPriceUSD": 39.9,
+  "plans": [
+    {
+      "validityDays": 3,
+      "validityLabel": "3 Days",
+      "dataAmount": "1GB",
+      "network": "High-Speed 5G/4G/LTE",
+      "priceUSD": "1.99",
+      "oldPriceUSD": "2.98",
+      "dailyUSD": "0.66"
+    }
+  ]
+}</code></pre>
+
+<h3>Field reference</h3>
+<table>
+  <tr><th>Field</th><th>Type</th><th>Meaning</th></tr>
+  <tr><td><code>validityDays</code></td><td>number</td><td>Plan validity in days (3, 7, 10, 15, 30, 180).</td></tr>
+  <tr><td><code>dataAmount</code></td><td>string</td><td>Included data, e.g. <code>1GB</code>, <code>5GB</code>, or <code>Unlimited</code>.</td></tr>
+  <tr><td><code>priceUSD</code></td><td>string</td><td>Price in USD (before any discount code).</td></tr>
+  <tr><td><code>oldPriceUSD</code></td><td>string</td><td>List price before discount.</td></tr>
+  <tr><td><code>dailyUSD</code></td><td>string</td><td>Effective cost per day.</td></tr>
+</table>
+
+<h2>How agents should use this</h2>
+<ul>
+  <li><strong>Discovery</strong>: read <code>/llms.txt</code> or the <code>Link</code> response headers for entry points.</li>
+  <li><strong>Comparison</strong>: fetch <code>/catalog.json</code> once and filter/sort <code>countries[].plans[]</code> by <code>validityDays</code> and <code>priceUSD</code> to find the cheapest plan for a destination.</li>
+  <li><strong>Citation</strong>: link back to the country <code>url</code> for humans.</li>
+</ul>
+
+<h2>Access</h2>
+<p>All major AI crawlers (GPTBot, ClaudeBot, Google-Extended, PerplexityBot, and others) are allowed in <code>/robots.txt</code>.</p>
+</body>
+</html>

@@ -1,0 +1,59 @@
+{{- /* Aggregate all country eSIM plans into one machine-readable catalog for AI agents. */ -}}
+{{- $countries := slice -}}
+{{- range where .Site.RegularPages "Type" "esim" -}}
+  {{- $operators := slice -}}
+  {{- $opsRaw := .Params.country_meta.operators -}}
+  {{- if reflect.IsSlice $opsRaw -}}
+    {{- range $opsRaw -}}
+      {{- $operators = $operators | append (trim . " ") -}}
+    {{- end -}}
+  {{- else -}}
+    {{- range split (default "" $opsRaw) "," -}}
+      {{- $operators = $operators | append (trim . " ") -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $cities := slice -}}
+  {{- $citiesRaw := .Params.country_meta.main_cities -}}
+  {{- if reflect.IsSlice $citiesRaw -}}
+    {{- range $citiesRaw -}}
+      {{- $cities = $cities | append (trim . " ") -}}
+    {{- end -}}
+  {{- else -}}
+    {{- range split (default "" $citiesRaw) "," -}}
+      {{- $cities = $cities | append (trim . " ") -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $plans := slice -}}
+  {{- range $days, $items := .Params.plans_data -}}
+    {{- $daysNum := int ($days | replaceRE "[^0-9]" "") -}}
+    {{- range $items -}}
+      {{- $plans = $plans | append (dict
+        "validityDays" $daysNum
+        "validityLabel" $days
+        "dataAmount" .spec
+        "network" .data
+        "priceUSD" .price
+        "oldPriceUSD" .oldPrice
+        "dailyUSD" .daily
+      ) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $countries = $countries | append (dict
+    "name" .Params.country_meta.core_keyword
+    "url" .Permalink
+    "operators" $operators
+    "cities" $cities
+    "lowPriceUSD" .Params.seo.low_price
+    "highPriceUSD" .Params.seo.high_price
+    "plans" $plans
+  ) -}}
+{{- end -}}
+{{- $catalog := dict
+  "@context" "https://schema.org"
+  "@type" "ItemList"
+  "brand" "Roami"
+  "currency" "USD"
+  "generated" (now.Format "2006-01-02")
+  "itemCount" (len $countries)
+  "countries" $countries -}}
+{{- $catalog | jsonify -}}

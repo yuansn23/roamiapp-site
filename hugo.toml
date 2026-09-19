@@ -21,6 +21,12 @@ disableKinds = ["taxonomy", "term"]
 # ==========================================
 # 输出格式定义（确保 sitemap 为 XML）
 # ==========================================
+[outputFormats.catalog]
+  mediaType = "application/json"
+  baseName = "catalog"
+  isPlainText = true
+  notAlternative = true
+
 [outputFormats.Sitemap]
   mediaType = "application/xml"
   baseName = "sitemap"
@@ -29,7 +35,7 @@ disableKinds = ["taxonomy", "term"]
 
 # 全局 outputs（控制各类页面生成的内容）
 [outputs]
-  home = ["HTML", "RSS", "Sitemap", "llms"]
+  home = ["HTML", "RSS", "Sitemap", "llms", "catalog"]
   page = ["HTML"]
   section = ["HTML", "RSS"]
 
