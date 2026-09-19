@@ -1,2 +1,21 @@
+/.well-known/api-catalog
+  Content-Type: application/linkset+json
+  Access-Control-Allow-Origin: *
+
+/.well-known/ai-catalog.json
+  Content-Type: application/json
+  Access-Control-Allow-Origin: *
+
+/.well-known/agent-skills/index.json
+  Content-Type: application/json
+  Access-Control-Allow-Origin: *
+
+/.well-known/agent-skills/roami-esim-catalog/SKILL.md
+  Content-Type: text/markdown
+
+/openapi.json
+  Content-Type: application/openapi+json
+  Access-Control-Allow-Origin: *
+
 /*
-  Link: </catalog.json>; rel="api-catalog", </llms.txt>; rel="llms.txt", </docs/api/>; rel="service-doc"
+  Link: </.well-known/api-catalog>; rel="api-catalog", </llms.txt>; rel="llms.txt", </docs/api/>; rel="service-doc"
