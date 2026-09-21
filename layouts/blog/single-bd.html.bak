@@ -93,7 +93,7 @@
         .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
 
         .blog-content {
-            font-size: 1.125rem;
+            font-size: 0.9rem;
             line-height: 1.75;
             color: #1e293b;
         }
@@ -321,6 +321,28 @@
             border: 1px solid #e2e8f0;
         }
 
+        /* ========== 社交媒体分享 ========== */
+        .share-bar {
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1.5rem 0 2.5rem;
+            padding: 0.875rem 1.25rem;
+            background-color: #f8fafc;
+            border: 1px solid #e2e8f0;
+            border-radius: 0.75rem;
+        }
+        .share-label {
+            font-weight: 700;
+            color: #0f172a;
+            font-size: 0.875rem;
+            white-space: nowrap;
+        }
+        .share-bar .a2a_kit {
+            line-height: 32px;
+        }
+
         /* ========== 相关文章卡片 ========== */
         .related-card {
             transition: transform 0.2s;
@@ -447,28 +469,101 @@
             background-color: #f97316;
         }
 
-        /* ========== 两列布局（正文 + 侧边栏） ========== */
-        .two-columns {
+        /* ========== 内容容器宽度（正文页整体略宽，介于 7xl 1280px 与 90rem 1440px 之间） ========== */
+        .content-container {
+            max-width: 80rem;
+        }
+
+        /* ========== 三列布局（左目录 + 正文 + 右侧边栏） ========== */
+        .three-columns {
             display: grid;
-            grid-template-columns: 1fr 280px;
-            gap: 2rem;
+            grid-template-columns: 190px minmax(0, 1fr) 272px;
+            gap: 1.5rem;
             align-items: start;
         }
 
         /* 关键修复：grid 子项默认 min-width:auto 会让宽表格（如 11 列价格对比表）
            把正文列撑开、整页变宽；设为 0 后正文列可收缩，宽表格由自身 overflow-x:auto 横向滚动 */
-        .two-columns > * {
+        .three-columns > * {
             min-width: 0;
         }
 
+        /* 显式定位：即使某栏缺失，正文/侧边栏也不会错位 */
+        .three-columns > .toc-rail { grid-column: 1; grid-row: 1; }
+        .three-columns > article     { grid-column: 2; grid-row: 1; }
+        .three-columns > .sidebar    { grid-column: 3; grid-row: 1; }
+
+        /* ========== 左目录栏（桌面 sticky，仅 H2） ========== */
+        .toc-rail {
+            position: sticky;
+            top: 2rem;
+            align-self: start;
+            padding-right: 0.25rem;
+        }
+        .toc-rail-title {
+            font-weight: 700;
+            color: #0f172a;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            margin-bottom: 0.75rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        .toc-rail nav > ul {
+            list-style: none;
+            padding-left: 0;
+            margin: 0;
+        }
+        .toc-rail nav li {
+            margin-bottom: 0.25rem;
+        }
+        .toc-rail nav a {
+            display: block;
+            color: #64748b;
+            font-size: 0.85rem;
+            line-height: 1.35;
+            text-decoration: none;
+            padding: 0.3rem 0.5rem;
+            border-left: 2px solid transparent;
+            border-radius: 0.25rem;
+            transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease;
+        }
+        .toc-rail nav a:hover {
+            color: #2563eb;
+            background-color: #f1f5f9;
+        }
+        .toc-rail nav a.active {
+            color: #2563eb;
+            background-color: #eff6ff;
+            border-left-color: #2563eb;
+            font-weight: 600;
+        }
+
+        /* 移动端折叠目录：默认隐藏，窄屏显示 */
+        .toc-mobile {
+            display: none;
+        }
+
+        /* ===== 中屏：去掉左目录栏，正文 + 右侧边栏 ===== */
+        @media (max-width: 1279px) {
+            .three-columns {
+                grid-template-columns: minmax(0, 1fr) 272px;
+            }
+            .three-columns > .toc-rail { display: none; }
+            .three-columns > article  { grid-column: 1; }
+            .three-columns > .sidebar { grid-column: 2; }
+            .toc-mobile { display: block; }
+        }
+
         @media (max-width: 1024px) {
-            .two-columns {
+            .three-columns {
                 grid-template-columns: 1fr;
                 gap: 1.5rem;
             }
+            .three-columns > .sidebar { grid-column: 1; }
             .sidebar {
                 position: static !important;
-                order: 2;
             }
         }
 
@@ -480,7 +575,10 @@
         .sidebar.is-sticky {
             position: sticky;
             top: 2rem;
-            /* 不加任何高度和滚动限制，让内容自然高度显示 */
+            /* 吸顶时限制为视口高度，超出部分在侧栏内部滚动，保证底部内容始终可见 */
+            max-height: calc(100vh - 3rem);
+            overflow-y: auto;
+            scrollbar-width: thin;
         }
 
         .category-cloud a {
@@ -507,8 +605,8 @@
                 font-size: 1.5rem;
             }
         }
-    
-/* ========== 邮箱收集表单（右侧栏） ========== */
+
+        /* ========== 邮箱收集表单（右侧栏） ========== */
         .lead-form input[type="email"],
         .lead-form input[type="date"] {
             width: 100%;
@@ -597,7 +695,7 @@
 {{ partial "header.html" . }}
 
 <!-- ========== 面包屑导航 ========== -->
-<nav class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 text-sm text-slate-500">
+<nav class="content-container mx-auto px-4 sm:px-6 lg:px-8 pt-8 text-sm text-slate-500">
     <ol class="flex flex-wrap items-center gap-2">
         <li><a href="{{ .Site.LanguagePrefix }}/" class="hover:text-blue-600">{{ i18n "breadcrumb_home" }}</a></li>
         <li><span class="mx-1">{{ i18n "breadcrumb_separator" }}</span></li>
@@ -607,10 +705,19 @@
     </ol>
 </nav>
 
-<!-- ========== 主内容区：两列布局 ========== -->
-<main class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 lg:py-12">
-    <div class="two-columns">
-        <!-- ====== 左侧：文章主体 ====== -->
+<!-- ========== 主内容区：三列布局（左目录 + 正文 + 右侧边栏） ========== -->
+<main class="content-container mx-auto px-4 sm:px-6 lg:px-8 py-8 lg:py-12">
+    {{ $toc := .Fragments.ToHTML 2 2 false }}
+    <div class="three-columns">
+        <!-- ====== 左目录栏（桌面 sticky，仅 H2） ====== -->
+        {{ if and $toc (ne $toc "<nav id=\"TableOfContents\"></nav>") }}
+        <aside class="toc-rail" id="tocRail">
+            <div class="toc-rail-title">{{ i18n "table_of_contents" }}</div>
+            {{ $toc }}
+        </aside>
+        {{ end }}
+
+        <!-- ====== 中间：文章主体 ====== -->
         <article>
             <header class="mb-6">
                 {{ with .Params.categories }}
@@ -651,13 +758,30 @@
             </div>
             {{ end }}
 
-            <!-- 目录（无圆点版本） -->
-            {{ if and .TableOfContents (ne .TableOfContents "<nav id=\"TableOfContents\"></nav>") }}
-            <div class="toc-container mb-8">
-                <details open>
+            <!-- 社交媒体分享 -->
+            <div class="share-bar">
+                <span class="share-label">{{ i18n "share_this" }}</span>
+                <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+                    <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+                    <a class="a2a_button_facebook"></a>
+                    <a class="a2a_button_whatsapp"></a>
+                    <a class="a2a_button_telegram"></a>
+                    <a class="a2a_button_pinterest"></a>
+                    <a class="a2a_button_reddit"></a>
+                    <a class="a2a_button_linkedin"></a>
+                    <a class="a2a_button_tumblr"></a>
+                    <a class="a2a_button_x"></a>
+                </div>
+                <script defer src="https://static.addtoany.com/menu/page.js"></script>
+            </div>
+
+            <!-- 移动端折叠目录（桌面由左侧 sticky 目录栏承担） -->
+            {{ if and $toc (ne $toc "<nav id=\"TableOfContents\"></nav>") }}
+            <div class="toc-container toc-mobile mb-8">
+                <details>
                     <summary>{{ i18n "table_of_contents" }}</summary>
                     <div class="toc-content mt-3">
-                        {{ .TableOfContents }}
+                        {{ replace $toc "TableOfContents" "TableOfContentsMobile" | safeHTML }}
                     </div>
                 </details>
             </div>
@@ -695,7 +819,11 @@
 
         <!-- ====== 右侧边栏 ====== -->
         <aside class="sidebar" id="sidebar">
-<!-- ====== 邮箱收集卡片 ====== -->
+            {{/* ===== 侧边栏模块开关（false = 屏蔽，true = 显示） ===== */}}
+            {{ $showHotPosts := false }}
+            {{ $showRecentPosts := false }}
+
+            <!-- ====== 邮箱收集卡片 ====== -->
             <div class="sidebar-card">
                 <div class="lead-head">
                     <span class="lead-badge">{{ i18n "lead_form_badge" }}</span>
@@ -753,7 +881,40 @@
                 {{ end }}
             {{ end }}
 
-                    </aside>
+            <!--  -->
+            {{ $hotPosts := .Params.hotPosts }}
+            {{ $hotPostsTitle := .Params.hotPostsTitle }}
+            {{ if and $showHotPosts $hotPosts $hotPostsTitle }}
+            <div class="sidebar-card">
+                <div class="sidebar-title">{{ $hotPostsTitle }}</div>
+                <ul class="sidebar-list">
+                    {{ range $index, $post := first 6 $hotPosts }}
+                    <li>
+                        <a href="{{ $post.permalink }}">
+                            <span class="hot-rank">{{ add $index 1 }}.</span> {{ $post.title | truncate 70 }}
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+            {{ end }}
+
+            <!--  -->
+{{ $recentPosts := .Params.recentPosts }}
+{{ $recentPostsTitle := .Params.recentPostsTitle }}
+{{ if and $showRecentPosts $recentPosts $recentPostsTitle }}
+<div class="sidebar-card">
+    <div class="sidebar-title">{{ $recentPostsTitle }}</div>
+    <ul class="sidebar-list">
+        {{ range first 5 $recentPosts }}
+        <li>
+            <a href="{{ .permalink | lower | relLangURL }}">{{ .title }}</a>
+        </li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}
+        </aside>
     </div>
 
     <!-- ====== 底部相关文章推荐 ====== -->
@@ -845,19 +1006,43 @@
     });
     backToTopBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
 
-    // ===== 平滑滚动到目录锚点 =====
-    document.querySelectorAll('.toc-content a').forEach(anchor => {
-        anchor.addEventListener('click', function(e) {
-            e.preventDefault();
-            const targetId = this.getAttribute('href');
-            const target = document.querySelector(targetId);
-            if (target) {
-                target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-            }
+    // ===== 目录：平滑滚动 + 左栏 scroll-spy 高亮 =====
+    (function() {
+        const railLinks = document.querySelectorAll('.toc-rail a');
+        const headings = [];
+        railLinks.forEach(anchor => {
+            const id = anchor.getAttribute('href').slice(1);
+            const el = document.getElementById(id);
+            if (el) headings.push({ id, el });
         });
-    });
 
-// ===== 邮箱收集表单 =====
+        // 平滑滚动（桌面左栏 + 移动折叠目录共用）
+        document.querySelectorAll('.toc-rail a, .toc-content a').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                const target = document.getElementById(this.getAttribute('href').slice(1));
+                if (target) {
+                    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }
+            });
+        });
+
+        // scroll-spy：滚动时高亮当前小节
+        function updateActive() {
+            let currentId = headings.length ? headings[0].id : null;
+            const offset = 120;
+            headings.forEach(h => {
+                if (h.el.getBoundingClientRect().top <= offset) currentId = h.id;
+            });
+            railLinks.forEach(a => {
+                a.classList.toggle('active', a.getAttribute('href').slice(1) === currentId);
+            });
+        }
+        window.addEventListener('scroll', updateActive, { passive: true });
+        updateActive();
+    })();
+
+    // ===== 邮箱收集表单 =====
     (function () {
         const form = document.getElementById('leadForm');
         if (!form) return;
