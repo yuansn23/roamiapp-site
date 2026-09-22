@@ -3,6 +3,7 @@ title: "Travel eSIM 2026: Slash Roaming Fees by 90%"
 h1_title: "Travel eSIM in 2026: How to Cut Roaming Fees by 90%"
 description: "Never hunt for local SIMs again. Roami global eSIM auto-switches between top networks worldwide. 5G ready, instant activation, 24/7 support. Free trial."
 image: "/img/faq/travel-esim-roaming-fees.webp"
+image-1: "/img/faq/travel-esim-roaming-fees-1.jpg"
 keywords: ["travel eSIM", "international roaming", "eSIM for travel", "buy eSIM for travel", "best travel esim", "cheap roaming", "eSIM for international travel", "data only esim", "unlimited data esim", "eSIM vs roaming", "what is travel eSIM", "cheapest travel eSIM", "global eSIM", "eSIM travel app"]
 date: 2026-09-22T00:00:00Z
 lastmod: 2026-09-22T00:00:00Z

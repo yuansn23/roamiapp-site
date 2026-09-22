@@ -3,6 +3,7 @@ title: "Dual eSIM Not Working? 12 iPhone Fixes"
 h1_title: "How to Fix Dual eSIM Not Working on iPhone: 12 Solutions"
 description: "Dual eSIM not working? Fix 12 iPhone issues: call routing, VoLTE setup, battery drain, and carrier lock checks for iPhone 16 and iOS 18."
 image: "/img/faq/dual-esim-not-working.webp"
+image-1: "/img/faq/dual-esim-not-working-1.jpg"
 keywords: ["dual eSIM not working", "iPhone dual SIM no service", "dual eSIM signal issue", "eSIM carrier lock", "dual eSIM troubleshooting", "dual eSIM activation failed", "iOS 18 eSIM", "eSIM APN settings", "eSIM confirmation code", "dual eSIM no service"]
 date: 2026-09-22T00:00:00Z
 lastmod: 2026-09-22T00:00:00Z

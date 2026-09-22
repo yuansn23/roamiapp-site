@@ -3,6 +3,7 @@ title: "Android eSIM Guide: Is Your Phone Supported?"
 h1_title: "The Complete Guide to Android eSIM in 2026: Is Your Phone Supported?"
 description: "Does your Android phone support eSIM? Check our compatibility list for Xiaomi, OnePlus, Motorola, and more. Note: Chinese models are often incompatible."
 image: "/img/faq/android-esim-other-brands.webp"
+image-1: "/img/faq/android-esim-other-brands-1.jpg"
 keywords: ["android esim", "esim compatible android phones", "does motorola have esim", "does oneplus have esim", "does xiaomi have esim", "does huawei have esim", "does sony have esim", "does my android phone have esim", "android esim compatibility", "esim supported phones"]
 date: 2026-09-22T00:00:00Z
 lastmod: 2026-09-22T00:00:00Z

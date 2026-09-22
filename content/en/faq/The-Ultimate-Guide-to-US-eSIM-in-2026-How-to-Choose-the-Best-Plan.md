@@ -8,6 +8,7 @@ lastmod: 2026-09-22T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
 image: "/img/faq/us-esim-guide.webp"
+image-1: "/img/faq/us-esim-guide-1.jpg"
 # Site & SEO
 site_name: "Roami"
 author: "Roami"

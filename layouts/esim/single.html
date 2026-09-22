@@ -871,6 +871,32 @@
   </ul>
 </section>
 
+{{/* 相关 FAQ 文章：从当前语言随机取 6 篇（缺失语言的 FAQ 自动跳过） */}}
+{{ $faqs := where .Site.RegularPages "Section" "faq" }}
+{{ $faqPick := first 6 (shuffle $faqs) }}
+{{ if gt (len $faqPick) 0 }}
+<section class="mt-12 pt-10 border-t border-slate-200">
+  <div class="flex items-center gap-3 mb-6">
+    <h2 class="text-2xl font-bold text-slate-900">
+      {{ i18n "esim_guides" }}
+    </h2>
+  </div>
+  <ul class="grid grid-cols-1 sm:grid-cols-3 gap-4 list-none p-0 m-0">
+    {{ range $faqPick }}
+      {{ $faqTitle := .Title }}
+      <li class="h-full">
+        <a href="{{ .RelPermalink | lower }}" class="bg-white border border-slate-200 rounded-2xl p-4 hover:border-brand-200 hover:shadow-md transition-all group h-full flex flex-col">
+          {{ with .Params.image }}
+            <img src="{{ . | relURL }}" alt="{{ $faqTitle }}" loading="lazy" class="w-full h-32 object-cover rounded-xl mb-3">
+          {{ end }}
+          <h3 class="font-bold text-slate-900 group-hover:text-brand-600 transition-colors text-sm leading-snug">{{ $faqTitle }}</h3>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}
+
         </div>
 
         <aside class="lg:col-span-4" aria-label="Order Summary">

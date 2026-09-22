@@ -8,6 +8,7 @@ lastmod: 2026-09-22T00:00:00Z
 tags: ["eSIM", "iOS", "Troubleshooting", "Travel Setup"]
 toc: true
 image: "/img/faq/activate-esim-iphone.webp"
+image-1: "/img/faq/activate-esim-iphone-1.jpg"
 # Site & SEO
 site_name: "Roami"
 author: "Roami"

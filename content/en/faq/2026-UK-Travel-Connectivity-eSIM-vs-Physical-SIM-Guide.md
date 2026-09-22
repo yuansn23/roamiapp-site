@@ -8,6 +8,7 @@ lastmod: 2026-09-22T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup", "Vodafone"]
 toc: true
 image: "/img/faq/uk-esim-vs-physical-sim.webp"
+image-1: "/img/faq/uk-esim-vs-physical-sim-1.jpg"
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"

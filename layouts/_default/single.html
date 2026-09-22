@@ -249,7 +249,21 @@
                 <img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="eager" fetchpriority="high" class="w-full h-auto">
             </figure>
             {{ end }}
-            {{ .Content }}
+            {{ $content := printf "%s" .Content }}
+            {{ with index .Params "image-1" }}
+                {{ $img1 := . }}
+                {{ $fig := printf `<figure class="not-prose my-8 overflow-hidden rounded-2xl border border-slate-100 shadow-sm"><img src="%s" alt="%s" loading="lazy" class="w-full h-auto"></figure>` ($img1 | relURL) ($.Title | htmlEscape) }}
+                {{ $parts := split $content "</p>" }}
+                {{ $half := div (len $parts) 2 }}
+                {{ if gt $half 0 }}
+                    {{ $before := first $half $parts }}
+                    {{ $after := after $half $parts }}
+                    {{ $content = printf "%s</p>%s%s" (delimit $before "</p>") $fig (delimit $after "</p>") }}
+                {{ else }}
+                    {{ $content = printf "%s%s" $fig $content }}
+                {{ end }}
+            {{ end }}
+            {{ $content | safeHTML }}
         </article>
 
     </div>
