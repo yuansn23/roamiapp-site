@@ -871,14 +871,15 @@
   </ul>
 </section>
 
-{{/* 相关 FAQ 文章：从当前语言随机取 6 篇（缺失语言的 FAQ 自动跳过） */}}
+{{/* 相关 FAQ 文章：仅英文页面显示，随机取 6 篇 */}}
+{{ if eq .Site.Language.Lang "en" }}
 {{ $faqs := where .Site.RegularPages "Section" "faq" }}
 {{ $faqPick := first 6 (shuffle $faqs) }}
 {{ if gt (len $faqPick) 0 }}
 <section class="mt-12 pt-10 border-t border-slate-200">
   <div class="flex items-center gap-3 mb-6">
     <h2 class="text-2xl font-bold text-slate-900">
-      {{ i18n "esim_guides" }}
+      eSIM Guides
     </h2>
   </div>
   <ul class="grid grid-cols-1 sm:grid-cols-3 gap-4 list-none p-0 m-0">
@@ -895,6 +896,7 @@
     {{ end }}
   </ul>
 </section>
+{{ end }}
 {{ end }}
 
         </div>
