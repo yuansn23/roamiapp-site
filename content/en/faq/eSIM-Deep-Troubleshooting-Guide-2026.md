@@ -2,7 +2,7 @@
 title: "eSIM Deep Troubleshooting Guide 2026"
 h1_title: "The Complete Guide to eSIM Troubleshooting in 2026 – 18 Real-World Fixes"
 description: "Fix eSIM activation failures, transfer errors, no service, and QR scan issues on iPhone and Android with this 2026 troubleshooting guide."
-image: "/img/esim/esim-troubleshooting-guide.jpg"
+image: "/img/faq/esim-troubleshooting-guide.webp"
 keywords: ["eSIM troubleshooting", "eSIM activation failed", "eSIM no service", "eSIM transfer error", "eSIM cross-platform transfer", "iOS 18 eSIM", "eSIM APN settings", "eSIM confirmation code", "eSIM carrier lock", "eSIM stuck on activating"]
 date: 2026-09-22T00:00:00Z
 lastmod: 2026-09-22T00:00:00Z

@@ -2,7 +2,7 @@
 title: "eSIM on iPad & Apple Watch: Complete Guide"
 h1_title: "The Complete Guide to iPad & Apple Watch eSIM: Compatibility & Activation"
 description: "Which iPads and Apple Watches support eSIM? Full list: iPad Pro, Air, mini, 10th gen; Watch Series 10, 9, Ultra, SE. Activate and troubleshoot."
-image: "/img/esim/ipad-esim-guide.jpg"
+image: "/img/faq/ipad-apple-watch-esim.webp"
 keywords: ["ipad esim", "does ipad have esim", "ipad with esim", "ipad esim plans", "apple watch esim", "apple watch cellular esim", "apple watch esim plan", "smartwatch with esim", "flip phones with esim", "ipad pro esim", "ipad mini 7 esim", "ipad air m3 esim", "apple watch series 10 esim", "apple watch family setup esim", "apple watch ultra 2 esim", "apple watch standalone plan", "ipad esim activation"]
 date: 2026-09-22T00:00:00Z
 lastmod: 2026-09-22T00:00:00Z

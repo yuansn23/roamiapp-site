@@ -2,7 +2,7 @@
 title: "Samsung Galaxy eSIM: S/A/Z Series Guide"
 h1_title: "The Complete Guide to Samsung Galaxy eSIM for the S, A, and Z Series"
 description: "Full Samsung eSIM support: S21-S25 (yes), S20 (global only), A54/A55/A35 (yes), A15/A16/A32 (no), Z series (yes). Verify, activate & carrier list."
-image: "/img/esim/esim-travel.jpg"
+image: "/img/faq/samsung-s20-esim.webp"
 keywords: ["samsung esim", "samsung phones with esim", "samsung esim compatible phones", "samsung galaxy esim", "does samsung have esim", "samsung s21 esim", "samsung esim activation", "samsung a series esim", "samsung dual esim", "samsung esim phones list", "samsung esim not working", "samsung esim qr code", "samsung esim usa", "samsung s20 esim"]
 date: 2026-09-22T00:00:00Z
 lastmod: 2026-09-22T00:00:00Z

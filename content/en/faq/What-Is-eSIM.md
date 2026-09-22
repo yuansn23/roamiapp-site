@@ -2,7 +2,7 @@
 title: "What is eSIM? Say Goodbye to Lost SIM Cards"
 h1_title: "What Is eSIM and Why It Eliminates the Need for a Physical SIM Card"
 description: "Tired of tiny SIM cards? Learn how eSIM works on iPhone and Android, and why it is safer, easier, and the future of travel connectivity."
-image: "/img/esim/esim-travel.jpg"
+image: "/img/faq/what-is-esim.webp"
 keywords: ["what is eSIM", "how does eSIM work", "eSIM vs physical SIM", "eSIM definition", "eSIM benefits", "embedded SIM card", "eSIM beginner guide", "dual eSIM", "global eSIM", "eSIM for travel", "eSIM pros and cons", "esim for beginners", "eSIM technology explained"]
 date: 2026-09-22T00:00:00Z
 lastmod: 2026-09-22T00:00:00Z

@@ -2,8 +2,8 @@
 title: "How to Install USA eSIM: Guide for iPhone and Android"
 description: "Set up a USA eSIM in 5 minutes. Covers installation, APN settings, and activation. Roami offers auto switching and live support."
 keywords: ["USA eSIM setup guide", "how to install USA eSIM", "USA eSIM activation iPhone", "USA eSIM compatible devices", "USA eSIM APN settings"]
-date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+date: 2026-09-22T00:00:00Z
+lastmod: 2026-09-22T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/usa/usa-esim-setup-guide.jpg"
@@ -74,26 +74,26 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
   - title: "2026 Ultimate Guide: iPhone 16 eSIM Activation Solutions"
-    permalink: "/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/"
+    permalink: "/faq/ultimate-guide-iphone-16-esim-activation-solutions/"
     date: "2026-05-20"
 ---
 Installing a USA eSIM takes roughly 2 minutes on most modern smartphones, but the most common setup mistake — leaving data roaming disabled — is the leading cause of 'No Service' issues after landing. Most people go from purchase to connected in about 5 minutes.
 
-This guide walks through every step: checking phone compatibility, buying the right plan, installing the eSIM profile, configuring dual SIM settings, and fixing common problems if something doesn't work. If you haven't chosen a provider yet, the [USA eSIM ranking guide](/blog/usa-esim-ranking-comparison-2026/) can help you pick one first.
+This guide walks through every step: checking phone compatibility, buying the right plan, installing the eSIM profile, configuring dual SIM settings, and fixing common problems if something doesn't work. If you haven't chosen a provider yet, the [best eSIM for USA travel 2026](/blog/usa-esim-ranking-comparison-2026/) can help you pick one first.
 
-For travelers who want a simpler setup experience, a [USA eSIM](/united-states-esim/) with automatic carrier switching can handle network selection for you — no need to manually toggle between T-Mobile, AT&T, or Verizon.
+For travelers who want a simpler setup experience, a [multi-network USA eSIM](/united-states-esim/) handles carrier selection for you, so there is no manually toggling between T-Mobile, AT&T and Verizon.
 
 All instructions are based on iOS 18 and Android 15. Older versions may have slightly different menu names.
 
-If you want to practice the whole setup process risk-free before your trip, [free eSIM option](/free-esim/) walks you through every step without any commitment. Code **WEB20** takes 20% off any plan.
+If you want to rehearse the whole process before your trip, a [no-cost trial eSIM](/free-esim/) walks you through every step without any commitment.
 
 ---
 
-## How to check if phone supports eSIM for USA
+## USA eSIM compatible devices: how to check your phone
 
 Not all phones work with eSIM. Before buying a plan, confirm yours is compatible. This is the **first and most important step** in the USA eSIM installation process.
 
-**Quick check:** Dial `*#06#` on your phone. If you see an EID number (usually 32 digits) listed alongside the IMEI, your phone supports eSIM. The [GSMA's official eSIM specifications](https://www.gsma.com/esim/) confirm this is the standard identifier for eSIM-capable devices.
+**Quick check:** Dial `*#06#` on your phone. If you see an EID number (usually 32 digits) listed alongside the IMEI, your phone supports eSIM. The [GSMA's official eSIM specifications](https://www.gsma.com/solutions-and-impact/technologies/esim/) confirm this is the standard identifier for eSIM-capable devices.
 
 ### USA eSIM compatible devices: iPhone
 
@@ -175,20 +175,20 @@ If you purchased your phone in Mainland China, confirm eSIM support with the man
 
 ---
 
-## Choose and buy the right USA eSIM plan
+## USA eSIM setup guide: choose and buy the right plan
 
-Most providers offer plans ranging from 1GB to unlimited data. Here's a quick guide based on trip length.
+Most providers offer plans ranging from 1GB to unlimited data. Here's a quick guide based on trip length. For a full price comparison, see the [USA eSIM price guide](/blog/usa-esim-price-guide/). For unlimited plans specifically, see the [USA eSIM unlimited data guide](/blog/usa-esim-unlimited-data-guide/).
 
 | Provider | Starting price | Best for | Network |
 |:---------|:-------------:|:---------|:--------|
 | Ubigi | $4 for 1GB | Best overall value | T-Mobile |
-| Airalo | $4.50 for 1GB | Short trips, easy setup | T-Mobile + Verizon |
+| Saily | $3.99 for 1GB | Short trips, easy setup | Not disclosed |
 | Tello | $5 for 1GB | Need a US phone number | T-Mobile |
-| Nomad | $5.50 for 1GB | Road trips, national parks | AT&T + Verizon |
-| Holafly | $19.50 for 5 days | Unlimited data | AT&T |
-| [USA eSIM plan](/united-states-esim/) | $4.50 for 1GB | Auto network switching | Multi-network (auto-switching) |
+| Nomad | $4.00 for 1GB | Road trips, national parks | T-Mobile + AT&T + Verizon |
+| Holafly | $20.50 for 5 days | Unlimited data | AT&T |
+| **Roami** | $2.99 for 1GB (3 days) | Auto network switching | T-Mobile + AT&T + Verizon |
 
-Buying is simple: go to the provider's website or app, select your plan, and pay. The QR code arrives by email within minutes. The [USA eSIM cost](/blog/usa-esim-price-guide/) has a full breakdown of what each provider charges at every data tier.
+Buying is simple: go to the provider's website or app, select your plan, and pay. The QR code arrives by email within minutes. For a full breakdown of what each provider charges at every data tier, see the [USA eSIM price guide](/blog/usa-esim-price-guide/).
 
 ### What happens after you buy
 
@@ -202,7 +202,7 @@ After purchasing a USA eSIM, here is what you receive and what to do next:
 | 4 | Install instructions from provider | In email or app |
 | 5 | eSIM profile ready to install | Immediately |
 
-### Save these before your trip:
+**Save these before your trip:**
 - Screenshot the QR code (save to phone and cloud storage)
 - Copy the SM-DP+ address and activation code to your notes app
 - Save the provider's support contact information
@@ -219,9 +219,9 @@ After purchasing a USA eSIM, here is what you receive and what to do next:
 
 ---
 
-## USA eSIM install before departure checklist
+## How to install a USA eSIM before departure
 
-Follow this **USA eSIM install before departure checklist** to avoid last-minute problems:
+Follow this checklist to avoid last-minute problems:
 
 | Step | Task | Status |
 |:----:|:-----|:------:|
@@ -234,7 +234,7 @@ Follow this **USA eSIM install before departure checklist** to avoid last-minute
 | 7 | **Configure dual SIM** — Set data to eSIM, voice to home SIM | |
 | 8 | **Download offline maps** — Google Maps offline for your destination cities | |
 | 9 | **Save provider support info** — Contact details in case of issues | |
-| 10 | **Test with free trial** — A [eSIM free trial](/free-esim/) lets you practice the full process | |
+| 10 | **Test with a free trial** — practice the full process before paying | |
 
 Check each box before departure. This checklist covers every key step for installing USA eSIM before departure without stress.
 
@@ -251,15 +251,15 @@ Check each box before departure. This checklist covers every key step for instal
 | 7 (Dual SIM config) | Wrong line used for data | Configure before departure |
 | 8 (Offline maps) | Lost without navigation if no signal | Download before trip |
 | 9 (Support info) | Can't find help if eSIM fails | Save to contacts or notes |
-| 10 (Free trial) | First-time setup mistakes | Practice with [free eSIM starter](/free-esim/) |
+| 10 (Free trial) | First-time setup mistakes | Rehearse the install before you fly |
 
 ---
 
-## Install the USA eSIM profile on your phone
+## How to install a USA eSIM profile on your phone
 
 This is the core **USA eSIM activation iPhone** and Android QR code installation guide. Do this before you leave home, while connected to your home WiFi. The plan won't start counting until you connect to a US network.
 
-### How do I install a USA eSIM on iPhone? (iOS 18)
+### How do I install a USA eSIM on iPhone (iOS 18)?
 
 1. Open **Settings -> Cellular -> Add eSIM**
 2. Tap **Use QR Code** and scan the code from your email or provider app
@@ -281,7 +281,7 @@ This is the core **USA eSIM activation iPhone** and Android QR code installation
 2. Tap **Download a SIM instead?** or **Scan QR Code**
 3. Follow the on-screen prompts
 
-### iPhone-specific installation tips
+### iPhone installation by iOS version
 
 iOS 18 introduces a few changes to the eSIM installation process:
 
@@ -291,13 +291,13 @@ iOS 18 introduces a few changes to the eSIM installation process:
 | iOS 17 | Settings -> Cellular -> Add eSIM | Same process |
 | iOS 16 | Settings -> Cellular -> Add eSIM | Minor UI differences |
 
-### iPhone installation tips:
+### iPhone eSIM installation gotchas
 - If the QR code scan fails, increase screen brightness on the device showing the QR code
 - For iPhone 14 and newer (US models), there is no physical SIM slot — eSIM is the only option
 - iPhone 15 Pro and newer support installing up to 8 eSIM profiles with 2 active at once
 - If you see "Unable to Add eSIM," check that your iPhone is not carrier-locked
 
-### Samsung Galaxy-specific installation tips
+### Samsung Galaxy installation by One UI version
 
 Samsung phones have slightly different eSIM menus depending on the One UI version:
 
@@ -307,13 +307,13 @@ Samsung phones have slightly different eSIM menus depending on the One UI versio
 | One UI 5.x (Android 13) | Settings -> Connections -> SIM Card Manager -> Add eSIM | Similar |
 | One UI 4.x (Android 12) | Settings -> Connections -> SIM Card Manager -> Add eSIM | Works the same |
 
-### Samsung installation tips:
+### Samsung eSIM installation gotchas
 - Some Samsung models (S20, Note 20) require a software update to enable eSIM
 - If "Add eSIM" is greyed out, your Samsung may not support eSIM in your region
 - Samsung phones show eSIM status in Settings -> About Phone -> Status -> SIM Card Status
 - The Galaxy S24 series supports dual active eSIMs simultaneously
 
-### Google Pixel-specific installation tips
+### Google Pixel installation by Android version
 
 Pixel phones have the cleanest eSIM installation process:
 
@@ -327,7 +327,7 @@ Pixel phones have the cleanest eSIM installation process:
 
 ### Can I install USA eSIM without WiFi?
 
-**Can I install USA eSIM without WiFi?** Yes, but you need an alternative internet connection:
+Yes, but you need an alternative internet connection:
 
 | Method | How it works | Best for |
 |:-------|:-------------|:---------|
@@ -340,7 +340,7 @@ If you don't have WiFi at home, install at any free WiFi location before departu
 
 ### Can I install USA eSIM before my trip?
 
-**Can I install USA eSIM before my trip?** Absolutely — and you **should**. Installing the eSIM profile before departure is the recommended approach. The plan won't start counting until you connect to a US network, so there's no downside to installing early. In fact, installing before your trip avoids potential connectivity issues at the airport and ensures you have service immediately upon arrival.
+Absolutely — and you **should**. Installing the eSIM profile before departure is the recommended approach. The plan won't start counting until you connect to a US network, so there's no downside to installing early. In fact, installing before your trip avoids potential connectivity issues at the airport and ensures you have service immediately upon arrival.
 
 **Step-by-step:** Buy the plan, save the QR code, scan it while on WiFi at home, label the line, and you're done. The profile sits dormant on your phone until you arrive and turn on data roaming.
 
@@ -355,17 +355,17 @@ Understanding when your plan clock starts ticking is important:
 | Holafly | QR code scan time | Install at airport upon arrival |
 | Tello | Plan purchase time | Plan starts immediately |
 | Nomad | First data usage | Install before trip, connect on arrival |
-| **USA eSIM** | First connection to US network | Install before trip, activate on arrival |
+| **Roami** | First connection to US network | Install before trip, activate on arrival |
 
 **Key rule:** For most providers, you can install the eSIM profile at home without starting the plan clock. The plan only starts when you first connect to a US cellular network. The exception is Holafly, which starts the clock from the moment you scan the QR code.
 
 ---
 
-## Configure dual SIM settings
+## Configure dual SIM settings for a USA eSIM
 
-This is the part most people get wrong. The eSIM handles data — your home SIM handles calls and SMS. Here's how to set that up.
+This is the part most people get wrong. The eSIM handles data — your home SIM handles calls and SMS. For a full walkthrough with screenshots, see the [USA eSIM dual SIM setup](/blog/usa-esim-dual-sim-setup/).
 
-### On iPhone:
+**On iPhone:**
 - Go to **Settings -> Cellular**
 - Under **Default Voice Line**, select your home SIM
 - Under **Cellular Data**, select the USA eSIM
@@ -374,20 +374,20 @@ This is the part most people get wrong. The eSIM handles data — your home SIM 
 
 ### Do I need to turn on data roaming for USA eSIM?
 
-**Do I need to turn on data roaming for USA eSIM?** Yes — this is the single most important setting. Travel eSIMs require data roaming to function. Without it, your phone won't route data through the eSIM. The setting is safe to enable because you're using a local data plan, not your home carrier's international roaming.
+Yes — this is the single most important setting. Travel eSIMs require data roaming to function. Without it, your phone won't route data through the eSIM. The setting is safe to enable because you're using a local data plan, not your home carrier's international roaming.
 
-### On Android (Samsung):
+**On Android (Samsung):**
 - Go to **Settings -> Connections -> SIM Card Manager**
 - Set **Mobile Data** to the USA eSIM
 - Set **Calls** and **SMS** to your home SIM
 - Enable **Data Roaming** on the USA eSIM only
 
-### On Android (Google Pixel):
+**On Android (Google Pixel):**
 - Go to **Settings -> Network & Internet -> SIMs**
-- Tap the USA eSIM and enable **Data Roaming**
+- Tap the eSIM and enable **Data Roaming**
 - Make sure mobile data is set to the eSIM line
 
-For a more detailed walkthrough with screenshots, the [USA eSIM dual SIM setup](/blog/usa-esim-dual-sim-setup/) has device-specific instructions for each phone model. If you're looking for a provider that simplifies the network switching process, a [USA eSIM plan](/united-states-esim/) with automatic carrier selection can handle this in the background for you.
+For more detailed instructions and troubleshooting, see the [USA eSIM dual SIM setup](/blog/usa-esim-dual-sim-setup/) guide. If you would rather not think about carrier selection at all, a plan that chooses the network in the background does it for you.
 
 ### Dual SIM configuration by use case
 
@@ -398,19 +398,10 @@ Different travel scenarios require different dual SIM configurations:
 | City traveler with home SIM | US eSIM | Home SIM | Home SIM | Home number + email |
 | Business traveler needs US number | USA eSIM | Tello eSIM (US number) | Tello | Home number + email |
 | Multi-country trip | USA eSIM | Home SIM | Home SIM | Home number |
-| Family group sharing hotspot | USA eSIM (main phone) | Home SIM | Home SIM | Home number |
+| Family group sharing hotspot | eSIM (main phone) | Home SIM | Home SIM | Home number |
 | Remote worker with laptop tethering | USA eSIM | Home SIM | Home SIM | Home number + email |
 
-### Business traveler dual SIM setup (two eSIMs):
-If you are using two eSIMs (for example, Ubigi for data and Tello for a US number), here is how to configure them:
-
-1. Primary data: Set the USA eSIM as the data line
-2. Voice calls: Set Tello as the default voice line
-3. SMS: Set Tello as the default SMS line
-4. Turn data roaming ON for the USA eSIM
-5. Turn data roaming OFF for the home eSIM
-
-This setup lets you receive calls on your US number while using data from a cheaper eSIM provider.
+For business traveler dual SIM setup with two eSIMs (for example, Ubigi for data and Tello for a US number), see the [USA eSIM with phone number](/blog/usa-esim-with-phone-number/) guide.
 
 ### Preventing accidental roaming charges
 
@@ -436,15 +427,18 @@ If your phone does not detect the eSIM after following the installation steps:
 4. **Reinstall the eSIM profile** — delete and reinstall (only if you have a backup of the QR code)
 5. **Contact provider support** — they can check if the profile is active on their end
 
+For persistent issues, see the [USA eSIM troubleshooting](/blog/usa-esim-troubleshooting/) guide.
+
 ---
 
-## How to set APN for USA eSIM manually
+## USA eSIM APN settings: what to expect
 
-Most providers configure APN automatically. When they don't, your data won't work until APN is set correctly. Here are the **USA eSIM APN settings** and how to set them manually:
+Most providers configure APN automatically, and on a current iPhone, Pixel or Galaxy you will usually never open this screen. Keep the table below as a reference in case data does not start working on its own.
 
 | Provider | APN | Username | Password |
 |:---------|:---:|:--------:|:--------:|
-| Airalo | `airalovpn` | (blank) | (blank) |
+| Airalo (global plans) | `globaldata` | (blank) | (blank) |
+| Airalo (USA plan) | `wbdata` | (blank) | (blank) |
 | Holafly | `holafly` | (blank) | (blank) |
 | Ubigi | auto-configured | — | — |
 | Saily | auto-configured | — | — |
@@ -454,40 +448,21 @@ Most providers configure APN automatically. When they don't, your data won't wor
 | AT&T prepaid | `nextgenphone` | (blank) | (blank) |
 | Verizon prepaid | `vzwinternet` | (blank) | (blank) |
 
-**To set APN on iPhone:** Settings -> Cellular -> Tap the USA eSIM line -> Cellular Data Network -> Enter the APN value.
+**To set APN on iPhone:** Settings -> Cellular -> Tap the eSIM line -> Cellular Data Network -> Enter the APN value.
 
 **To set APN on Android:** Settings -> Connections -> Mobile Networks -> Access Point Names -> Add new APN.
 
-After entering the APN, restart your phone. Data usually starts working within 30 seconds. If you're still having issues, check the [USA eSIM troubleshooting walkthrough](/blog/usa-esim-troubleshooting/) for advanced fixes. [TechRadar's eSIM troubleshooting guide](https://www.techradar.com/how-to/esim-troubleshooting-guide) also covers common APN issues across different devices.
+After entering the APN, restart your phone. Data usually starts working within 30 seconds. If APN doesn't work after manual entry, the USA eSIM troubleshooting guide covers advanced fixes. [TechRadar's eSIM troubleshooting guide](https://www.techradar.com/how-to/esim-troubleshooting-guide) also covers common APN issues across different devices.
 
-### When APN does not auto-configure
+### When you may need to enter the APN manually
 
-APN auto-configuration fails in these scenarios:
+Auto-configuration depends on the provider having your device in its database, so it fails in a small, predictable set of cases: a much older handset, a rooted phone or custom ROM, a profile installed from a manual activation code rather than the QR image, and some first-generation eSIM phones. If data still does not work after installation and data roaming is confirmed ON, entering the APN by hand is the next step — the two settings screens above take under a minute to fill in.
 
-| Scenario | Why it happens | Fix |
-|:---------|:---------------|:-----|
-| Old phone model | Device not in provider's auto-config database | Enter APN manually |
-| Custom ROM or rooted phone | Modified firmware breaks auto-config | Enter APN manually |
-| eSIM installed via manual code | Auto-config depends on QR code metadata | Enter APN manually |
-| First-generation eSIM phone | Limited auto-config support | Enter APN manually |
-
-If your data does not work after installation and you have confirmed data roaming is ON, manually entering the APN from the table above is the most likely fix.
-
-### Verifying APN settings after installation
-
-To confirm your APN settings are correct:
-
-1. Open a browser and try loading any website
-2. If websites load, your APN is correct
-3. If websites do not load but the phone shows a signal, APN is likely wrong
-4. Double-check the APN entry (case-sensitive for some providers)
-5. Remove any trailing spaces in the APN field
-
-**Test with a reliable site:** Use google.com or a speed test site. Some websites may not load due to DNS issues unrelated to APN. If one site fails but another loads, the APN is working and the issue is DNS-related.
+The [USA eSIM troubleshooting guide](/blog/usa-esim-troubleshooting/) owns the diagnostic path from there: it separates a genuine APN fault from the causes that look identical from the outside, such as the wrong line being selected for data, fair-use throttling, or a carrier-side activation that never completed. Working that order first saves most travelers a needless reinstall.
 
 ---
 
-## Activate and test when you land
+## USA eSIM activation on iPhone and Android when you land
 
 When your plane lands in the US:
 
@@ -543,9 +518,9 @@ If you run out of data during your trip, **how to top up USA eSIM data** depends
 | **Holafly** | App -> Extend Plan | 5 days | Yes (extension only) |
 | **Nomad** | App -> Top Up | 1GB | Yes |
 | **Tello** | App -> Manage Plan -> Add Data | 1GB | Yes |
-| **USA eSIM** | App -> Add Data | 1GB | Yes |
+| **Roami** | App -> Add Data | 1GB | Yes |
 
-### Step-by-step top-up process (most providers):
+### Step-by-step top-up process (most providers)
 1. Open the provider's app
 2. Go to "My Plans" or "My eSIMs"
 3. Select your active plan
@@ -568,7 +543,7 @@ If your top-up attempt fails, here are the common causes and solutions:
 | Top-up not appearing | Network delay | Wait 5 minutes and restart phone |
 | "Maximum top-up reached" | Some providers limit total top-ups | Purchase a new plan |
 
-**Prevention:** Top up when you hit 20% remaining data, not when you hit 0%. This gives time to resolve any payment issues before you lose connectivity. A [eSIM for the USA](/united-states-esim/) with usage alerts can notify you before you run out.
+**Prevention:** Top up when you hit 20% remaining data, not when you hit 0%. This gives time to resolve any payment issues before you lose connectivity. A plan with built-in usage alerts notifies you before you run out.
 
 ### Data monitoring during your trip
 
@@ -586,7 +561,7 @@ Keep track of your data usage to avoid running out unexpectedly:
 
 ---
 
-## Can I reinstall my USA eSIM if I delete it?
+## Can I reinstall a deleted eSIM?
 
 **The short answer is:** No, you cannot reinstall a deleted USA eSIM profile.
 
@@ -599,7 +574,7 @@ Once you delete an eSIM profile from your phone, the QR code is single-use and c
 | Holafly | No | Contact support. May require purchasing a new plan |
 | Tello | Maybe | Contact support. Some cases allow re-download through the app |
 | Nomad | No | Contact support |
-| USA eSIM | Maybe | Contact support. Account-linked profiles may be re-downloadable |
+| Roami | Maybe | Contact support. Account-linked profiles may be re-downloadable |
 
 **The best practice:** Never delete your eSIM profile during troubleshooting. Only delete it when you're certain you won't need it again. Always save your QR code as a screenshot and store the manual activation code from your confirmation email — some providers can use these to reissue a working profile.
 
@@ -616,22 +591,40 @@ If you have multiple eSIM profiles installed, label them clearly to avoid confus
 | "Tello US Number" | Secondary voice | US phone number |
 | "Nomad Backup" | Backup data | Rural coverage fallback |
 
-### Managing multiple profiles on iPhone:
+### Managing multiple profiles on iPhone
 - Settings -> Cellular -> [profile name] -> Turn On/Off this line
 - You can store 8+ eSIM profiles but only have 2 active at a time
 - Label each profile clearly when you install it
 - Turn off profiles you are not using to avoid accidental data charges
 
-### Managing multiple profiles on Android (Samsung):
+### Managing multiple profiles on Android (Samsung)
 - Settings -> Connections -> SIM Card Manager
 - Toggle eSIM lines on and off as needed
 - Samsung supports 5+ stored eSIM profiles with 2 active
 
 ---
 
-## USA eSIM installation problems fix
+## Two things to check on your phone before flying
 
-**USA eSIM installation problems fix** — here's how to resolve the most common issues:
+**The phone has no plastic SIM tray.** The current iPhone generation and the iPhone Air line ship in the US without a physical SIM slot, and that now covers more models every year. If you own one, you cannot fall back to a plastic tourist SIM at the airport because there is nowhere to put it. On these handsets a USA eSIM is not a convenience, it is the only option — so install it before you fly rather than planning to buy connectivity on arrival.
+
+**The handset may be carrier-locked.** Before buying any USA eSIM, check it: **Settings → General → About → Carrier Lock**. If that field reads "SIM Locked", the phone is tied to its original carrier and no travel eSIM will work until it is unlocked. Request the unlock before you travel; it is usually free once contract terms are met, but it can take a day or two. The alternative check is to insert a SIM from a different carrier and see whether the phone asks for an unlock code.
+
+## What happens when you land
+
+The step people get wrong is not the scan, it is the timing: install at home on WiFi, leave the eSIM line switched off, then switch it on after landing. Here is the realistic sequence at the busiest US entry points.
+
+- **JFK (New York):** terminal WiFi is congested and often paywalled after a short session, so do not plan to install anything here. Switch the eSIM line on once the aircraft doors open; the phone should register within a minute or two.
+- **LAX (Los Angeles):** signal is reliable across the terminals, but the international arrivals hall sits deep enough that some handsets drop to LTE. That is normal and does not mean the eSIM failed.
+- **SFO (San Francisco):** strong signal and the quickest place on this list to confirm the eSIM is working, because the terminals are compact.
+- **MIA (Miami):** good signal in the terminals, and the failure people report most often is data roaming being left off for the eSIM line, which blocks the connection regardless of bars.
+- **ORD (Chicago):** the largest set of terminals here, and the one where roaming left off is most often mistaken for a network problem, because the phone shows bars while no data moves.
+
+In every case, if nothing connects, the first action is not to reinstall the eSIM: confirm data roaming is on for that line, then toggle airplane mode. Apple's eSIM support page and [Google's eSIM help centre](https://support.google.com/android/answer/9096433) document the per-platform settings if a menu name differs on your handset.
+
+## USA eSIM installation problems: where to get fixes
+
+Here's how to resolve the most common installation issues. Cases that survive the steps below are handled one by one in the USA eSIM troubleshooting guide.
 
 | Problem | Likely cause | Quick fix |
 |:--------|:-------------|:-----------|
@@ -645,27 +638,13 @@ If you have multiple eSIM profiles installed, label them clearly to avoid confus
 
 For more detailed troubleshooting, [Reddit's r/eSIM community](https://www.reddit.com/r/eSIM/) is a useful resource where travelers share real-world solutions to common installation problems.
 
-### Advanced troubleshooting: manual network selection
+### If the eSIM installs but finds no network
 
-If your eSIM is installed and data roaming is on but you still have no signal, try manually selecting a network:
+Installation and registration are two different steps, and a profile can install cleanly while the phone still refuses to register. The usual causes are a carrier lock on the handset, or automatic network selection picking a network the profile cannot use — a common problem with providers that resell more than one carrier's network. The [USA eSIM troubleshooting guide](/blog/usa-esim-troubleshooting/) runs through manual network selection on iPhone, Samsung and Pixel, and works the carrier-lock cases in order of how often they turn out to be the real cause.
 
-### On iPhone:
-1. Go to Settings -> Cellular -> [USA eSIM] -> Network Selection
-2. Turn OFF "Automatic"
-3. Wait for the list of available networks to appear
-4. Select "T-Mobile" first — if it fails, try "AT&T" or "Verizon"
-5. If the selected network shows "No Service," try a different one
-6. Once connected, you can turn Automatic back on
+### Phones where USA eSIM setup fails for a hardware reason
 
-### On Android (Samsung):
-1. Go to Settings -> Connections -> Mobile Networks -> Network Operators
-2. Tap "Search Networks"
-3. Select a network from the list (T-Mobile, AT&T, or Verizon)
-4. If registration fails, try another network
-
-**Why manual selection helps:** Some phones struggle with automatic network selection when using an eSIM from a provider that resells multiple carrier networks (like Airalo, Nomad, or KnowRoaming). Manual selection forces your phone to connect to the strongest available network.
-
-### Fixing "eSIM not supported" errors on specific phone models
+A handful of models have eSIM limits that no amount of setup will fix. Check your exact model in the [device compatibility list](/compatibility/) before you buy a plan, so you do not discover the limit at the airport.
 
 | Phone model | Known issue | Fix |
 |:------------|:------------|:-----|
@@ -676,9 +655,9 @@ If your eSIM is installed and data roaming is on but you still have no signal, t
 | Google Pixel 3 (non-XL) | No eSIM outside Japan | Cannot use eSIM outside Japan |
 | OnePlus 11 (China ROM) | eSIM disabled | Cannot use eSIM — use global ROM |
 
-### When to contact support
+### What to have ready before you contact support
 
-If you have tried all troubleshooting steps and still have no connectivity, contact provider support with this information ready:
+If setup still fails after the steps above, provider support usually resolves the case in a single exchange when you supply these details up front rather than hunting for them mid-conversation:
 
 | Information needed | Where to find it |
 |:------------------|:-----------------|
@@ -690,11 +669,11 @@ If you have tried all troubleshooting steps and still have no connectivity, cont
 | Data roaming status (ON/OFF) | Settings -> Cellular -> [eSIM line] |
 | Steps already attempted | List what you have tried |
 
-Having this information ready cuts support resolution time from 30+ minutes to under 10 minutes for most issues.
+Having those items ready cuts support resolution time from 30+ minutes to under 10 minutes for most issues. Provider-by-provider support routes and escalation paths are in the USA eSIM troubleshooting guide, and the [free eSIM trial](/free-esim/) is the cheapest way to rehearse the whole install before a trip you cannot afford to get wrong.
 
 ---
 
-## Common mistakes to avoid
+## Common USA eSIM setup mistakes to avoid
 
 **Not turning on data roaming.** This is the single most common reason eSIMs don't work after landing. Travel eSIMs require data roaming to function. Without it, your phone won't route data through the eSIM.
 
@@ -710,7 +689,7 @@ Having this information ready cuts support resolution time from 30+ minutes to u
 
 | Mistake | Cost impact | How to avoid |
 |:--------|:------------|:-------------|
-| Buying more data than needed | $10-50 overspend | Use the data calculator in the price guide |
+| Buying more data than needed | $10-50 overspend | Use the data calculator in the [USA eSIM price guide](/blog/usa-esim-price-guide/) |
 | Buying too little data and needing top-up | $5-15 extra fees | Buy 20% more than you estimate |
 | Activating at the wrong time | 1-2 days of lost validity | Activate upon arrival, not before |
 | Using hotspot without checking cap | Service disruption | Check hotspot policy before buying |
@@ -718,30 +697,21 @@ Having this information ready cuts support resolution time from 30+ minutes to u
 
 ---
 
-## USA eSIM installation frequently asked questions
+## USA eSIM setup guide questions answered
 
-### How do I install a USA eSIM on iPhone?
+### Quick answer: installing a USA eSIM on iPhone
 Open Settings -> Cellular -> Add eSIM -> Scan QR code -> Label the line -> Set data to eSIM, voice to home SIM. Complete installation before departure while on WiFi.
 
-### How do I activate a USA eSIM on Android?
+### Quick answer: activating a USA eSIM on Android
 For Samsung: Settings -> Connections -> SIM Card Manager -> Add eSIM -> Scan QR code. For Google Pixel: Settings -> Network & Internet -> SIMs -> Add eSIM -> Scan QR code.
-
-### Can I install USA eSIM before my trip?
-Yes — and you should. Install the profile while on WiFi at home before departure. The plan won't start counting until you connect to a US network. This is one of the key advantages of a [USA travel eSIM](/united-states-esim/) over physical SIM cards — you can set everything up before you leave.
-
-### When should I activate my USA eSIM?
-Activate upon landing in the US. Install the profile before departure but leave it toggled off until you arrive. For best value on 24-hour cycle plans, activate in the morning rather than late evening.
 
 ### How to check if my phone supports eSIM for USA?
 Dial `*#06#` on your phone. If you see an EID number listed alongside the IMEI, your phone supports eSIM. Most iPhones from XS onward (except China/HK/Macau), Samsung Galaxy S20 onward, and Google Pixel 3 onward support eSIM.
 
-### Can I install USA eSIM without WiFi before flight?
+### Quick answer: installing a USA eSIM without WiFi
 Yes. Use a friend's phone as a hotspot, connect to airport WiFi, or use the manual entry option with the SM-DP+ address and activation code from your confirmation email.
 
-### Do I need to turn on data roaming for USA eSIM?
-Yes. Travel eSIMs require data roaming to function. Turn data roaming ON for the eSIM line and OFF for your home SIM to prevent international charges.
-
-### Can I reinstall my USA eSIM if I delete it?
+### Quick answer: reinstalling a deleted USA eSIM
 No. The QR code is single-use. If you delete the profile, you cannot reinstall it with the same QR code. Contact support — they may be able to generate a new profile. Best practice: never delete the profile during troubleshooting.
 
 ### How do I know which network my eSIM is connected to?
@@ -752,7 +722,7 @@ No. The QR code is single-use. If you delete the profile, you cannot reinstall i
 
 **On Android (Google Pixel):** Settings -> Network & Internet -> SIMs -> Tap the eSIM line. The current network is shown at the top.
 
-Knowing which network you are on helps troubleshoot connectivity issues. If you are connected to a network with known weak coverage in your area, manually switching to a different network may improve performance.
+Knowing which network you are on helps troubleshoot connectivity issues. If you are connected to a network with known weak coverage in your area, manually switching to a different network may improve performance. For coverage by city, see the [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/).
 
 ### Can I use my USA eSIM in a phone without a physical SIM slot?
 
@@ -764,9 +734,11 @@ If you switch phones while in the US (for example, if your primary phone breaks)
 
 ---
 
-A [USA data eSIM](/united-states-esim/) with automatic carrier switching helps you stay connected without manually selecting networks. A [free eSIM trial](/free-esim/) lets you practice the entire installation process before your trip. Code **WEB20** takes 20% off any plan.
+Nothing in these walkthroughs is provider-specific, so once you have run through the steps you can install any USA eSIM the same way. A free trial plan is enough to rehearse the full sequence before you pay. APN and compatibility details above reflect Apple's eSIM support page and [Google's eSIM help centre](https://support.google.com/android/answer/9096433).
 
 
-*Prices change — verify current rates on each provider's official website before purchasing. Last updated August 2026.*
+*Always confirm current rates on the provider's own site before you buy, since plan pricing moves. Last updated September 2026.*
 
-For a complete USA eSIM overview, see the [USA eSIM overview](/blog/usa-esim-complete-guide/).
+For the end-to-end picture, the [USA eSIM complete guide](/blog/usa-esim-complete-guide/) covers every step above in more depth, and keeping two lines running is covered in the [USA eSIM dual SIM setup](/blog/usa-esim-dual-sim-setup/) guide.
+
+Anything that still fails after those checks is covered in depth in the USA eSIM troubleshooting guide.

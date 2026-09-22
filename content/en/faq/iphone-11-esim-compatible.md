@@ -2,7 +2,7 @@
 title: "iPhone eSIM: Full Compatibility & Setup Guide"
 h1_title: "The Complete Guide to iPhone eSIM Compatibility and Setup"
 description: "Check iPhone eSIM compatibility (EID method) and setup steps. Covers dual SIM, iPhone 13+ features, and China/US model differences. Includes tables."
-image: "/img/esim/esim-travel.jpg"
+image: "/img/faq/iphone-11-esim.webp"
 keywords: ["iphone esim", "esim iphone", "which iphones support esim", "iphone esim compatible", "does iphone 11 have esim", "iphone esim only", "iphone dual esim", "first iphone with esim", "iphones with esim", "iphone esim setup", "iphone 16e esim", "iphone 17 esim", "how to transfer esim to new iphone"]
 date: 2026-09-22T00:00:00Z
 lastmod: 2026-09-22T00:00:00Z

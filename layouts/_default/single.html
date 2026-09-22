@@ -244,6 +244,11 @@
             <article class="prose prose-slate prose-lg max-w-none
             prose-headings:font-bold prose-headings:text-slate-900
             prose-a:text-blue-600 hover:prose-a:text-blue-800 prose-a:no-underline hover:prose-a:underline">
+            {{ with .Params.image }}
+            <figure class="not-prose mb-8 overflow-hidden rounded-2xl border border-slate-100 shadow-sm">
+                <img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="eager" fetchpriority="high" class="w-full h-auto">
+            </figure>
+            {{ end }}
             {{ .Content }}
         </article>
 

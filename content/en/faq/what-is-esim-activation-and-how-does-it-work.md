@@ -7,7 +7,7 @@ date: 2026-09-22T00:00:00Z
 lastmod: 2026-09-22T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup", "Compatibility"]
 toc: true
-image: "/img/esim/esim-travel.jpg"
+image: "/img/faq/esim-activation-how-it-works.webp"
 # Site & SEO
 site_name: "Roami"
 author: "Roami"

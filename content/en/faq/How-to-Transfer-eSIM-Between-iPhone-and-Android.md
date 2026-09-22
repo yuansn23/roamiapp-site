@@ -2,7 +2,7 @@
 title: "How to Transfer eSIM Between iPhone and Android"
 h1_title: "How to Transfer an eSIM Between iPhone and Android"
 description: "Move your eSIM between iPhone and Android with a carrier app or re-issued QR code. Step-by-step for both directions, plus fixes for common transfer errors."
-image: "/img/esim/esim-travel.jpg"
+image: "/img/faq/esim-transfer-iphone-android.webp"
 keywords: ["eSIM cross-platform transfer", "eSIM transfer error", "iOS 18 eSIM", "eSIM carrier lock", "eSIM confirmation code", "eSIM no service", "eSIM APN settings", "eSIM troubleshooting", "eSIM activation failed", "transfer eSIM between iPhone and Android", "can't transfer eSIM to new iPhone", "Orange eSIM transfer"]
 date: 2026-09-22T00:00:00Z
 lastmod: 2026-09-22T00:00:00Z

@@ -7,7 +7,7 @@ date: 2026-09-22T00:00:00Z
 lastmod: 2026-09-22T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
-image: "/img/esim/germany/germany-esim-installation-activation-setup.jpg"
+image: "/img/faq/how-to-activate-esim.webp"
 # Site & SEO
 site_name: "Roami"
 author: "Roami"

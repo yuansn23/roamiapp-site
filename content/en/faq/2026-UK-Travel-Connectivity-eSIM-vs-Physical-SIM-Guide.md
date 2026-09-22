@@ -7,7 +7,7 @@ date: 2026-09-22T00:00:00Z
 lastmod: 2026-09-22T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup", "Vodafone"]
 toc: true
-image: "/img/esim/uk/uk-esim-vs-physical-sim.jpg"
+image: "/img/faq/uk-esim-vs-physical-sim.webp"
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"

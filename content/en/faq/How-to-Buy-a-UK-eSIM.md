@@ -7,7 +7,7 @@ date: 2026-09-22T00:00:00Z
 lastmod: 2026-09-22T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
-image: "/img/esim/uk/buy-uk-esim-guide.jpg"
+image: "/img/faq/buy-uk-esim-guide.webp"
 # Site & SEO
 site_name: "Roami"
 author: "Roami"

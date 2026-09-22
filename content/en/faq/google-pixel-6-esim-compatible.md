@@ -2,7 +2,7 @@
 title: "Google Pixel eSIM Compatibility: Pixel 2–10"
 h1_title: "Google Pixel eSIM Compatibility: Complete Guide for Pixel 2-10"
 description: "Which Google Pixels support eSIM? Full list Pixel 2–10. Includes verification (*#06#), carriers, Japanese restrictions, dual eSIM, and troubleshooting."
-image: "/img/esim/esim-travel.jpg"
+image: "/img/faq/google-pixel-6-esim.webp"
 keywords: ["google pixel esim compatible", "pixel 6 esim", "pixel 7 esim", "pixel 8 esim", "pixel esim travel", "pixel dual sim", "pixel esim support", "google fi esim compatible phones", "esim compatible phones", "pixel 9 esim", "pixel 4a esim", "pixel 5 esim"]
 date: 2026-09-22T00:00:00Z
 lastmod: 2026-09-22T00:00:00Z
