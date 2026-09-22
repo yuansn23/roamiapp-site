@@ -249,19 +249,19 @@ Where your phone was sold determines what hardware it has. This is the fastest w
 | **B/A** | UK/Europe | ✅ Yes |
 | **X/A** | Australia/New Zealand | ✅ Yes |
 
-### Mainland China
+### Mainland China iPhone eSIM Status
 
 - **All iPhones sold in mainland China** (except the iPhone 16 series) have dual physical SIM and no eSIM.
 - **Chinese Android phones** — Xiaomi, Oppo, Vivo, Huawei — sold domestically also typically lack the eSIM chip.
 - **If you carry an international phone into China:** it will work with international travel eSIMs, but local Chinese carriers do not offer eSIM to tourists, so you'll still need a travel plan from a provider like Roami.
 
-### Hong Kong
+### Hong Kong iPhone eSIM Status
 
 - **iPhone models:** Hong Kong iPhones usually support **eSIM + physical SIM** (one of each) or dual physical SIM depending on the exact model. Check your model suffix.
 - **Carriers:** some Hong Kong carriers (CMHK, 1010, SmarTone) offer eSIM to postpaid customers, but prepaid eSIM is rare.
 - **Travelers:** an international travel eSIM is simpler and more reliable than trying to obtain a local Hong Kong eSIM.
 
-### Macau
+### Macau iPhone eSIM Status
 
 - **Similar to Hong Kong:** most Macau iPhones are imported from Hong Kong and support eSIM + physical SIM.
 - **CTM** (Macau's main carrier) offers eSIM to postpaid customers but not to tourists.
@@ -399,7 +399,7 @@ Some devices are advertised with eSIM, yet specific regional or carrier variants
 
 If you're on Android, the biggest variable isn't the OS — it's whether *your specific variant* shipped with the chip. Here's the model-by-model picture.
 
-### Samsung Galaxy
+### Samsung Galaxy eSIM Compatibility
 
 | Model | eSIM Support | Notes |
 | :--- | :--- | :--- |
@@ -412,7 +412,7 @@ If you're on Android, the biggest variable isn't the OS — it's whether *your s
 
 **How to check on Samsung:** Dial `*#06#` and look for an EID, or open **Settings > Connections > SIM Card Manager** and look for "Add eSIM" / "Add mobile plan". If neither is present, your variant lacks the feature. For more, see our [Samsung eSIM compatibility guide](/faq/samsung-s20-esim-compatible/) and [Samsung Support](https://www.samsung.com/us/support/).
 
-### Google Pixel
+### Google Pixel eSIM Compatibility
 
 | Model | eSIM Support | Notes |
 | :--- | :--- | :--- |
@@ -427,7 +427,7 @@ If you're on Android, the biggest variable isn't the OS — it's whether *your s
 
 **How to check on Pixel:** Dial `*#06#` for the EID, or open **Settings > Network & Internet > SIMs** and look for "Download a SIM instead?". If it's missing, the variant is locked or lacks the chip. For more, see our [Pixel eSIM compatibility guide](/faq/google-pixel-6-esim-compatible/) and the [Google Support — eSIM on Pixel](https://support.google.com/pixelphone/answer/7086887) page.
 
-### OnePlus
+### OnePlus eSIM Compatibility
 
 OnePlus only added eSIM starting with the **OnePlus 12**. The OnePlus 11, 10, 9, and Nord series lack the hardware.
 
@@ -439,7 +439,7 @@ OnePlus only added eSIM starting with the **OnePlus 12**. The OnePlus 11, 10, 9,
 | **OnePlus 9** | ❌ No |
 | **OnePlus Nord series** | ❌ No (except some EU variants) |
 
-### Xiaomi, Huawei, Motorola, and Others
+### Xiaomi, Huawei, Motorola, and Other eSIM Brands
 
 - **Xiaomi** – flagship models (Xiaomi 12/13 global versions) may support eSIM, but domestic China units do not. The Redmi Note line has no eUICC at all.
 - **Huawei** – support is limited to a few models (P40, Mate 40, and newer); many post-2020 phones lack eSIM due to US sanctions. Check **Settings > Mobile Network > eSIM** — if the option is missing, it isn't supported.

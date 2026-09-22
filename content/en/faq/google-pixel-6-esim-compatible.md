@@ -221,7 +221,7 @@ Your Pixel's model number tells you where it was sold and whether it's likely to
 
 Not all Pixel phones are equal when it comes to digital SIM availability – carrier policies and regional firmware play a huge role. Here's a breakdown by region and carrier.
 
-### Japan SoftBank au KDDI and NTT Docomo
+### Japan eSIM Lock by SoftBank, au, KDDI, and NTT Docomo
 
 **Status:** Most Japanese carrier variants have eSIM **disabled at the firmware level**.
 
@@ -264,7 +264,7 @@ This is a common point of confusion. Let's clarify:
 
 **Key takeaway:** A SIM-unlocked Japanese Pixel is STILL eSIM-locked. The two locks are independent. Always check EID (`*#06#`) – if there's no EID, the feature is permanently disabled.
 
-### USA Verizon AT&T and T-Mobile
+### US eSIM Lock by Verizon, AT&T, and T-Mobile
 
 **Status:** Carrier-locked Pixels vary; unlocked Pixels have full access.
 
@@ -273,27 +273,27 @@ This is a common point of confusion. Let's clarify:
 - **T‑Mobile (locked):** T‑Mobile generally allows the feature on their locked Pixels, though the device must be paid off and SIM-unlocked for some features.
 - **Factory unlocked (direct from Google or retailers like Best Buy):** Full support, no restrictions whatsoever. This is the best option for international travelers.
 
-### Europe
+### eSIM Lock Status in Europe
 
 **Status:** Virtually all Pixels sold in the EU are fully compatible.
 
 - EU regulations require carriers to allow device unlocking and do not mandate disabling the feature. Most European Pixels are sold SIM-unlocked by law.
 - The only potential exceptions are carrier-contracted devices from smaller regional providers (e.g., some German or French operators). Even then, the feature is rarely disabled.
 
-### China
+### eSIM Lock Status in China
 
 **Status:** Pixels are not officially sold in mainland China, so nearly all Pixels in China are imported international versions. These retain full support.
 
 - However, Chinese domestic carriers (China Mobile, China Unicom, China Telecom) **do not offer eSIM to tourists or non-residents**. You cannot buy a local Chinese digital SIM plan without a Chinese ID and long-term contract.
 - For travel in China, you must use an international travel provider (which work perfectly on Pixels, using roaming agreements with carriers outside China).
 
-### India
+### eSIM Lock Status in India
 
 **Status:** Pixels sold in India (via Flipkart, Google Store) are fully compatible and SIM-unlocked.
 
 - Indian carriers like Jio and Airtel offer eSIM conversion for postpaid customers. The process requires visiting a store for in-person verification (no remote activation for foreigners).
 
-### Australia and Canada
+### eSIM Lock Status in Australia and Canada
 
 **Status:** Unlocked Pixels from Google or major retailers (JB Hi-Fi, Amazon AU, Best Buy CA) support the feature fully. Carrier-locked devices from Telstra, Optus, Rogers, Bell may have restrictions – check with your carrier.
 

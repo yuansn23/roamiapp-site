@@ -347,7 +347,7 @@ Follow these steps **in order** – 90% of activation failures are resolved by s
 
 Different destinations have different eSIM considerations. Here's what you need to know for popular regions, including **which actual network you'll be using**:
 
-### USA eSIM
+### Best eSIM for the USA
 - **Best SIM:** Roami (multi-carrier T‑Mobile/AT&T/Verizon) or Airalo Discover+ (includes US number).
 - **Actual Networks Used:**
   - **T‑Mobile:** Best in cities (NYC, LA, Chicago), speeds up to 5G UC.
@@ -356,7 +356,7 @@ Different destinations have different eSIM considerations. Here's what you need 
 - **Multi‑carrier switching matters** because no single carrier covers 100% of the US perfectly. Roami auto‑switches to the strongest network wherever you are.
 - See our [USA eSIM guide](/united-states-esim/) for details.
 
-### Europe
+### Best eSIM for Europe
 - **Best SIM:** Europe regional plan (Roami or Airalo) covers 30+ countries.
 - **Actual Networks Used:**
   - **France:** Orange, SFR, Bouygues (Orange has best rural coverage).
@@ -366,7 +366,7 @@ Different destinations have different eSIM considerations. Here's what you need 
 - **Post‑Brexit note:** UK is NOT included in most "Europe" plans. Buy a separate UK plan or a "UK + Europe" plan if visiting both.
 - **Europe SIM** or **Europe SIM** plans are available from all major providers.
 
-### Japan
+### Best eSIM for Japan
 - **Best SIM:** Roami Japan (SoftBank, au, NTT Docomo) or Ubigi Japan.
 - **Actual Networks Used:**
   - **NTT Docomo:** Best rural coverage (Hokkaido, Shikoku, Kyushu). Best overall for travelers.
@@ -375,14 +375,14 @@ Different destinations have different eSIM considerations. Here's what you need 
 - **Tip for rural Japan:** Choose a plan that includes **Docomo** – it has the widest coverage across Japan.
 - **Pocket Wi‑Fi is outdated.** Japan SIM offers better value and convenience.
 
-### China
+### Best eSIM for China
 - **Best SIM:** Roami China (runs on roaming partners) or Nomad China.
 - **Actual Networks:** Travel SIMs in China run on roaming agreements with China Mobile, China Unicom, or China Telecom – but the connection routes through servers outside China.
 - **Warning:** Local carriers (China Mobile, China Telecom, China Unicom) only offer eSIM to Chinese citizens. Foreign visitors must use international travel SIMs.
 - **VPN note:** Many apps (Google, Facebook, WhatsApp) are blocked. Since your SIM data routes through roaming networks, some apps may work without VPN. However, a VPN is recommended for reliability and access to all western services.
 - **Important:** You cannot use a mainland China carrier's SIM on a device purchased outside China.
 
-### Australia
+### Best eSIM for Australia
 - **Best SIM:** Roami (Telstra, Optus, Vodafone) or Nomad.
 - **Actual Networks Used:**
   - **Telstra:** Only reliable network in rural areas (Outback, national parks, remote coasts).
@@ -390,7 +390,7 @@ Different destinations have different eSIM considerations. Here's what you need 
   - **Vodafone:** Best in city centers only.
 - **Outback coverage:** If you're visiting Uluru, Kakadu, or the Great Ocean Road – choose a plan that uses **Telstra**. Multi-carrier switching ensures you get Telstra when needed.
 
-### Southeast Asia
+### Best eSIM for Southeast Asia
 - **Best SIM:** Regional Asia plan (Roami or Airalo).
 - **Actual Networks Used:**
   - **Thailand:** AIS (best coverage), TrueMove, DTAC.
@@ -443,12 +443,12 @@ For best results:
 
 Apple's documentation includes region‑specific restrictions:
 
-### Mainland China
+### Mainland China eSIM Status
 - **iPhone 16e and iPhone Air** (sold in China) support embedded SIM. Other China‑sold iPhones use dual physical SIM and **cannot install any SIM** – including travel SIMs.
 - **Foreign iPhone models (e.g., US or European)**: Can use travel SIMs in China, but data will route through roaming networks (VPN may be required for some apps).
 - **Travel SIM providers** (like Roami) offer China data plans that work on arrival.
 
-### Hong Kong and Macau
+### Hong Kong and Macau eSIM Status
 - Many models support **embedded SIM + physical SIM** or dual physical SIM. Check your specific model before buying a travel SIM.
 
 > **Important:** You cannot use a mainland China carrier's SIM on a device purchased outside China. **International SIM card** or **global SIM card** options from providers like Roami and Airalo are the only reliable solution for foreign visitors.
