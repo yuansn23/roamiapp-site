@@ -4,8 +4,8 @@ h1_title: "How to Fix eSIM Not Working: Compatibility Errors in 2026"
 description: "Stuck with eSIM errors? Learn how to fix activation failures, transfer issues, and boot loops on iPhone & Android. Diagnose your phone in 2 minutes."
 image: "/img/esim/esim-troubleshooting-guide.jpg"
 keywords: ["esim not working", "esim not supported", "esim not compatible iphone", "unable to activate esim", "esim network not available", "esim not transferring to new iphone", "accidentally deleted esim", "esim profile expired", "esim qr code invalid", "how to fix esim on iphone", "esim transfer error", "esim no service"]
-date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-26T00:00:00Z
+date: 2026-09-22T00:00:00Z
+lastmod: 2026-09-22T00:00:00Z
 tags: ["eSIM", "Troubleshooting", "Activation Errors", "iPhone", "Android"]
 toc: true
 
@@ -96,15 +96,15 @@ sidebar_questions:
 ---
 
 
-> **Editor's Note:** Roami fields thousands of "my eSIM won't work" tickets every month, and a large share turn out to be a phone problem, not a plan problem. This guide answers the question you should ask before anything else: *is my phone even capable of using an eSIM?* We'll walk you through the 2-minute hardware check, China/Hong Kong model exceptions, and carrier locks — so you don't waste an hour on activation steps that can never work on your device.
+> **Editor's Note:** A large share of "my eSIM won't work" issues turn out to be a phone problem, not a plan problem. This guide answers the question you should ask before anything else: *is my phone even capable of using an eSIM?* We'll walk you through the 2-minute hardware check, China/Hong Kong model exceptions, and carrier locks — so you don't waste an hour on activation steps that can never work on your device.
 
 > **Looking for an error-code fix?** If your phone passes the hardware check below but you're staring at a specific message ("Activation failed", "No Service", "QR invalid", restore error 4013/4014), that's a different problem. Jump to our [eSIM Deep Troubleshooting Guide](/faq/esim-deep-troubleshooting-guide-2026/) for the error-by-error reference.
 
-## Start Here: The 2-Minute "Is My Phone Even Capable?" Check
+## Is My Phone Even Capable of eSIM?
 
 Before you open Settings, scan a single QR code, or contact support, confirm that your phone actually has the embedded-SIM hardware required. This one check rules out roughly half of all "eSIM not working" cases instantly.
 
-### The Universal EID Check (Works on Every Phone)
+### The Universal EID Check
 
 Open your phone's dialer and type:
 
@@ -115,7 +115,7 @@ Open your phone's dialer and type:
 
 **What to do if no EID appears:** Stop here. No software update, hack, or "force" method can add the missing chip — it's a physical hardware absence. Use a physical SIM instead, or check Fix #4 for phones that *look* like they should support eSIM but don't.
 
-### EID vs IMEI vs ICCID – What Each Number Means
+### EID vs IMEI vs ICCID Explained
 
 | Identifier | What It Is | What It Tells You |
 | :--- | :--- | :--- |
@@ -125,7 +125,7 @@ Open your phone's dialer and type:
 
 > **Key insight:** EID = hardware present. If you see an EID, your phone is physically capable of eSIM. If you don't, nothing you install will change that.
 
-### Where to Find Each Number (Fast Paths)
+### Where to Find Each Number
 
 All three numbers live in plain sight once you know the menu. Here's the shortest route to each:
 
@@ -137,11 +137,11 @@ All three numbers live in plain sight once you know the menu. Here's the shortes
 
 > **Handy fact:** every EID begins with **"8904"** — that prefix marks it as an eUICC identifier. If the long number on screen starts with anything else, you're reading the wrong value.
 
-### The "Add eSIM" Button Test (iPhone)
+### The Add eSIM Button Test
 
 If `*#06#` shows an EID but you still see "eSIM not supported", open **Settings > Cellular** and look for **"Add eSIM"** or **"Add Cellular Plan"**. If the option is there but fails when you scan, you're most likely dealing with a **carrier lock** or a **region restriction** — both covered below.
 
-### The Settings Search Method (iPhone & Android)
+### The Settings Search Method
 
 No dialer handy (some tablets and foldables bury it), or `*#06#` gave you a confusing screen? Your phone's own search bar is the second-fastest check.
 
@@ -151,7 +151,7 @@ No dialer handy (some tablets and foldables bury it), or `*#06#` gave you a conf
 
 > **No search result = no hardware.** If a phone sold after roughly 2018 returns nothing for "eSIM" in Settings search, you're almost certainly holding a region or budget variant that shipped without the chip.
 
-### The Model-Number Lookup (Fastest Confirmation)
+### The Model Number Lookup
 
 Buying used, or checking a phone you can't power on? The model number settles it in seconds.
 
@@ -173,19 +173,19 @@ Buying used, or checking a phone you can't power on? The model number settles it
 | Unlocked iPhone (any region) | ✅ Yes | ✅ Yes | Full support |
 
 
-## 1. "eSIM Not Supported" / "Not Compatible" on iPhone
+## eSIM Not Supported or Not Compatible on iPhone
 
 If you see **"eSIM not supported"**, **"this eSIM is not compatible with this iPhone"**, or simply **"eSIM not compatible iPhone"**, the cause is almost always one of five things — and every one is about your *device*, not the plan.
 
-### A. Your iPhone Model Predates eSIM Hardware
+### Your iPhone Model Predates eSIM Hardware
 
 Only iPhones from the **XR, XS, XS Max (2018) and newer** have the embedded chip. The iPhone 8, 8 Plus, and iPhone X do not, so they return **"eSIM not supported"** no matter what you try. The eUICC chip simply isn't present on those boards — this is a hardware limitation, not a settings issue.
 
 **Quick check:** Dial `*#06#`. A 32-digit EID means you're good; only IMEI means you're not.
 
-**What to do:** Use a physical SIM, or upgrade to an iPhone XR or newer. The official list is on [Apple Support — eSIM on iPhone](https://support.apple.com/en-us/118670).
+**What to do:** Use a physical SIM, or upgrade to an iPhone XR or newer. The official list is on [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/118670).
 
-### B. Your iPhone Is a Mainland-China Model
+### Your iPhone Is a Mainland China Model
 
 iPhones sold in mainland China ship with **two physical SIM slots and no eSIM hardware**. Chinese regulations push domestic smartphones toward dual physical SIM, so Apple removed the embedded chip on these units. Even if the "Add Cellular Plan" option appears, it won't complete — this is the single most common reason for "eSIM not compatible with this iPhone" among buyers who picked up their device in China or through certain resellers.
 
@@ -193,13 +193,13 @@ iPhones sold in mainland China ship with **two physical SIM slots and no eSIM ha
 
 **What to do:** There's no way to enable eSIM on a CH/A device. Use a physical travel SIM, or sell the phone and buy a global version.
 
-### C. Your iPhone Is Carrier-Locked
+### Your iPhone Is Carrier Locked
 
 Some carriers — especially US ones — lock iPhones to their own network. Trying to activate a profile from a different provider (like a travel eSIM) then returns "eSIM not supported" or a "carrier does not support" message. Note that some carriers lock only the physical SIM slot while leaving the eSIM slot open, but many lock both.
 
 **How to check:** **Settings > General > About > Carrier Lock**. It should read **"No SIM restrictions"**. If it says "SIM locked", you need an unlock. See Section 3 for the full carrier-lock walkthrough.
 
-### D. Outdated iOS Version
+### Your iOS Version Is Outdated
 
 Digital SIM support improved a lot in iOS 16 and later. On iOS 12 or 13, some modern carrier profiles simply won't install.
 
@@ -207,14 +207,16 @@ Digital SIM support improved a lot in iOS 16 and later. On iOS 12 or 13, some mo
 
 **What to do:** Update to the latest iOS, delete any half-installed profile, then rescan the QR code.
 
-### E. "This iPhone Does Not Support eSIM" – On an iPhone 14?
+### This iPhone Does Not Support eSIM on an iPhone 14
 
 An iPhone 14 (US version) should always support eSIM — the US model has no physical SIM tray at all. If it returns this error anyway, you're looking at a rare **eUICC hardware failure**. Contact Apple Support for a hardware diagnostic rather than chasing settings.
 
-For the full model-by-model iPhone list, see our [iPhone eSIM compatibility guide](/faq/iphone-11-esim-compatible/). For Samsung, see the [Samsung Galaxy eSIM guide](/faq/samsung-s20-esim-compatible/), and for Pixel the [Google Pixel eSIM guide](/faq/google-pixel-6-esim-compatible/).
+For the full model-by-model iPhone list, see our [iPhone eSIM compatibility guide](/faq/iphone-11-esim-compatible/).
+
+Samsung owners should check the [Samsung Galaxy eSIM guide](/faq/samsung-s20-esim-compatible/), and Pixel owners the [Google Pixel eSIM guide](/faq/google-pixel-6-esim-compatible/).
 
 
-## "eSIM Not Supported" – Hardware vs Software vs Carrier
+### eSIM Not Supported Hardware Software or Carrier
 
 Every "eSIM not supported" case — on any phone, any carrier — lands in one of three buckets. Naming the bucket tells you instantly whether the problem is fixable.
 
@@ -231,11 +233,11 @@ Every "eSIM not supported" case — on any phone, any carrier — lands in one o
 That single result routes you to the correct fix for about 9 out of 10 "not supported" reports we see at Roami.
 
 
-## 2. The China / Hong Kong / Macau Model Guide
+## The China Hong Kong and Macau Model Guide
 
 Where your phone was sold determines what hardware it has. This is the fastest way to rule in or out a regional no-eSIM situation.
 
-### China Model Quick Reference (by Model Number Suffix)
+### China Model Quick Reference
 
 | Model Number Ending | Region | eSIM Support |
 | :--- | :--- | :--- |
@@ -264,7 +266,7 @@ Where your phone was sold determines what hardware it has. This is the fastest w
 - **Similar to Hong Kong:** most Macau iPhones are imported from Hong Kong and support eSIM + physical SIM.
 - **CTM** (Macau's main carrier) offers eSIM to postpaid customers but not to tourists.
 
-### Why Chinese Models Drop eSIM (The "Why" Behind the CH/A Rule)
+### Why Chinese Models Drop eSIM
 
 It isn't a cost-cutting move by Apple or the Android brands — it's regulation. Mainland China requires phones sold there to be certified for dual physical SIM, and a rewritable eSIM profile doesn't fit that domestic framework. The practical result:
 
@@ -274,7 +276,7 @@ It isn't a cost-cutting move by Apple or the Android brands — it's regulation.
 
 **The fix:** if you bought the phone in mainland China, plan on a physical travel SIM — or buy a global-model phone. There is no unlock, jailbreak, or app that adds the missing chip.
 
-### Identifying Your Model by A-Number (Examples)
+### Identifying Your Model by A-Number
 
 The part-number suffix (CH/A, LL/A, and so on) is the quick filter, but the **A-number** is the precise ID. Take the iPhone 11 as the pattern every generation follows:
 
@@ -287,7 +289,7 @@ The part-number suffix (CH/A, LL/A, and so on) is the quick filter, but the **A-
 **How to use it:** find your A-number (**Settings > General > About > Model Number**, then tap the number to reveal the A-prefixed code), and match it against Apple's model list. If a seller advertised an "unlocked global eSIM iPhone" but the A-number is a China code, the listing was wrong — walk away or plan on a physical SIM.
 
 
-## 3. Carrier Lock – What It Is and How to Remove It
+## Carrier Lock and How to Remove It
 
 A carrier lock is the second most common reason a perfectly capable phone refuses an eSIM. It's a software restriction your carrier places on the device, not a hardware limit.
 
@@ -318,7 +320,7 @@ When a phone is "SIM locked", it will only accept SIMs and eSIM profiles from th
 
 > **Note:** a carrier lock is a phone-level restriction, not a plan-level one. Unlocking your device does not cancel your contract — it just frees the device to use other providers' SIMs and eSIMs.
 
-### More US Carriers & Prepaid (MVNO) Unlock Policies
+### More US Carriers and MVNO Unlock Policies
 
 The big three aren't the only ones people run into. Prepaid and MVNO phones are often locked longer, and that can be the sneaky reason a "great deal" travel eSIM won't install.
 
@@ -346,7 +348,7 @@ Unlocks are free once you're eligible, but the request needs a few things ready:
 **On third-party "instant unlock" services:** they're a gamble. Many use leaked carrier tools that get the phone re-locked, and some are outright scams. If your carrier says you're not eligible yet, wait it out — don't pay a stranger $20 to do it "for" you.
 
 
-## The Three Different "Locks" (and Why They Matter)
+### The Three Different Locks
 
 People say "my phone is locked" and mean three completely different things. Each one needs a different fix, so it's worth separating them.
 
@@ -364,7 +366,7 @@ People say "my phone is locked" and mean three completely different things. Each
 Most "eSIM not working" complaints that survive the 2-minute check are the carrier-lock kind — and that one is almost always solvable.
 
 
-## 4. "My Phone Doesn't Support eSIM" – But It Should
+## My Phone Does Not Support eSIM but It Should
 
 Some devices are advertised with eSIM, yet specific regional or carrier variants silently drop the feature. These are the usual culprits:
 
@@ -374,7 +376,7 @@ Some devices are advertised with eSIM, yet specific regional or carrier variants
 - **iPhone 8 / 8 Plus / X** – pre-eUICC hardware; Apple only added the chip starting with the XS/XR generation.
 - **Samsung Galaxy A series** – only select models (A54, A53) have the chip; most A-series do not.
 
-### "Looks Like It Should Support eSIM But Actually Doesn't" – Full List
+### Phones That Look eSIM-Compatible but Are Not
 
 | Phone Model | eSIM Support | Why? |
 | :--- | :--- | :--- |
@@ -393,7 +395,7 @@ Some devices are advertised with eSIM, yet specific regional or carrier variants
 **What to do:** Before buying any phone, dial `*#06#` on it (if you have it in hand) to confirm the EID, or run the IMEI through an online eSIM compatibility checker. The **[full list of eSIM compatible phones (2026)](/compatibility/)** is your best resource for verifying any model.
 
 
-## 5. Android Hardware Compatibility by Brand
+## Android eSIM Compatibility by Brand
 
 If you're on Android, the biggest variable isn't the OS — it's whether *your specific variant* shipped with the chip. Here's the model-by-model picture.
 
@@ -446,7 +448,7 @@ OnePlus only added eSIM starting with the **OnePlus 12**. The OnePlus 11, 10, 9,
 The universal test for every one of these is the same: dial `*#06#` and look for the EID.
 
 
-## Android vs iPhone: The Capability Check, Side by Side
+## Android vs iPhone eSIM Capability Check
 
 Same 2-minute check, two different menus. Hand this table to a friend on the other platform.
 
@@ -460,7 +462,7 @@ Same 2-minute check, two different menus. Hand this table to a friend on the oth
 **The one difference that matters:** on iPhone, eSIM support is all-or-nothing by generation and region — easy to predict. On Android, it's per-variant, so two "same" Galaxy or Pixel phones can behave differently. When in doubt on Android, trust the `*#06#` EID over the spec sheet.
 
 
-## 6. Your Phone Is Capable — Now What? (Error-Code Fixes)
+## Your Phone Supports eSIM but Activation Fails
 
 If your phone passed the hardware check above and you're still seeing a specific error message, the problem is no longer compatibility — it's an activation or network issue. Those have their own dedicated reference:
 
@@ -536,6 +538,6 @@ The fastest way to confirm your phone can actually use eSIM is to install a **fr
 ## Sources
 
 - [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
-- [Apple Support — eSIM on iPhone](https://support.apple.com/en-us/108072)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
 - [Google Support — Set up an eSIM](https://support.google.com/pixelphone/answer/14853135)
 - [Google Support — Android eSIM](https://support.google.com/android/answer/11241215)

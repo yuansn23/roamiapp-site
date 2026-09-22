@@ -4,8 +4,8 @@ h1_title: "Does the iPhone SE Support eSIM? A Complete Guide (Updated)"
 description: "iPhone SE (2020/2022) support eSIM – original 2016 SE does not. Verify with *#06#. Works with major carriers and global eSIM providers."
 image: "/img/esim/esim-travel.jpg"
 keywords: ["iphone se esim", "iphone se esim compatible", "does iphone se have esim", "iphone se 2020 esim", "iphone se 3rd gen esim", "esim capable iphones", "iphone se dual sim", "list of iphones that support esim", "iphone se esim setup", "esim iphone se", "iphone se esim not working", "iphone se carrier unlock"]
-date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-26T00:00:00Z
+date: 2026-09-22T00:00:00Z
+lastmod: 2026-09-22T00:00:00Z
 tags: ["iPhone", "eSIM", "Compatibility", "iPhone SE"]
 toc: true
 
@@ -99,10 +99,12 @@ sidebar_questions:
 ---
 
 
-> **Editor's Note:** Roami is the brand behind this guide. We've tested eSIM activation on every iPhone SE generation mentioned here across 30+ countries and 15+ carriers — the answer below comes from real devices, not spec sheets. Updated August 2026.
+> **Editor's Note:** The iPhone SE 2nd and 3rd generation support eSIM; the original 2016 SE does not. The answer below comes from real devices and Apple documentation, not spec sheets, and it is updated for September 2026. Check your generation below to see exactly which SE models work.
+
+The iPhone SE supports eSIM on the 2020 and 2022 models, but not the original 2016 release — and mainland-China units of any generation are eSIM-less. A quick dial of *#06# settles it: a 32-digit EID means yes. Generation-by-generation details, setup steps, and carrier-lock checks are all below.
 
 
-## Does the iPhone SE Support eSIM? The Short Answer
+## Does the iPhone SE Support eSIM?
 
 **It depends entirely on the generation.**
 
@@ -113,7 +115,7 @@ sidebar_questions:
 So the question isn't "does the SE do eSIM" — it's *which* SE you're holding. The 2020 and 2022 models both work; the 2016 model never will. Every model sold in mainland China is also eSIM-less, regardless of generation.
 
 
-## Which iPhone SE Do You Have? (Identify It in 10 Seconds)
+## Which iPhone SE Do You Have?
 
 The fastest clue is physical:
 
@@ -176,7 +178,7 @@ Apple discontinued the SE in February 2025 — the iPhone 16e replaced it as the
 **Who should pass:** anyone who wants a big screen, Face ID, or dual eSIM (two eSIMs at once started with the iPhone 13). And obviously, anyone holding a 1st-gen SE — it never had eSIM.
 
 
-## iPhone SE vs XR vs 11: The Budget eSIM Showdown
+## iPhone SE vs XR vs 11 for eSIM
 
 All three are sub-$300 eSIM iPhones in 2026, but they split three different ways:
 
@@ -199,7 +201,7 @@ All three are sub-$300 eSIM iPhones in 2026, but they split three different ways
 - **Best 5G value:** the SE 3rd gen — A15 chip, 5G, and years of iOS updates left.
 - **Best big-screen all-rounder:** the iPhone 11 — dual camera and better battery for ~$50 more than an XR.
 
-If 5G and longevity are the priority, the SE 3rd gen is the pick; if it's pure sticker price, the XR wins by $50–100. The full XR breakdown is on our [iPhone XR eSIM guide](/faq/iphone-xr-esim-compatible/), and the 11 sits at the center of our [iPhone eSIM compatibility hub](/faq/iphone-11-esim-compatible/).
+If 5G and longevity are the priority, the SE 3rd gen is the pick; if it's pure sticker price, the XR wins by $50–100. The full XR breakdown is on our [iPhone XR eSIM guide](/faq/iphone-xr-esim-compatible/), and the 11 sits at the center of our [iPhone 11 compatibility guide](/faq/iphone-11-esim-compatible/).
 
 
 ## Carrier Unlock Policies by US Carrier
@@ -218,7 +220,7 @@ A locked iPhone SE only accepts eSIMs from its original carrier. If yours is loc
 
 **The SE catch:** prepaid SEs from AT&T, T-Mobile, or Cricket often carry stricter unlock terms than postpaid. Check Settings > General > About > **Carrier Lock** *before* buying an eSIM plan — if it lists a carrier name, you're locked. If the carrier won't unlock because the device isn't paid off, a physical travel SIM is your only fallback.
 
-(What "unlocked" means and how to check it is covered in more detail in the [iPhone eSIM compatibility hub](/faq/iphone-11-esim-compatible/).)
+(What "unlocked" means and how to check it is covered in more detail in the [iPhone 11 eSIM hub](/faq/iphone-11-esim-compatible/).)
 
 ### Prepaid and MVNO Unlock Rules
 
@@ -237,10 +239,10 @@ The pattern: T-Mobile-network MVNOs tend to be loosest (Metro at 180 days), whil
 - **Ask for the IMEI**, then run it through the carrier's online unlock-status checker — most post the device's eligibility instantly.
 - **Confirm the phone is paid off.** A financed SE that was never paid off won't unlock until the balance is cleared, no matter how long it's been active.
 
-(What "unlocked" means and the three ways to verify it are covered in the [iPhone eSIM compatibility hub](/faq/iphone-11-esim-compatible/).)
+(What "unlocked" means and the three ways to verify it are covered in the [iPhone compatibility hub](/faq/iphone-11-esim-compatible/).)
 
 
-## Setting Up eSIM on the SE (Touch ID, No Face ID)
+## Setting Up eSIM on the iPhone SE
 
 The SE's eSIM menu is the same as every other iPhone — **Settings > Cellular > Add eSIM** (or **Add Cellular Plan** on older iOS) — but the SE's smaller, home-button design adds a few quirks worth knowing:
 
@@ -322,7 +324,7 @@ Yes — the 2022 SE supports 5G on both its physical SIM and eSIM. The 2020 mode
 Up to about eight profiles, with one active at a time alongside the physical SIM.
 
 **How do I know if my SE is compatible with eSIM?**
-Dial `*#06#`. An EID means compatible; IMEI only means no eSIM. Full verification methods are in the [iPhone eSIM compatibility hub](/faq/iphone-11-esim-compatible/).
+Dial `*#06#`. An EID means compatible; IMEI only means no eSIM. Full verification methods are in the [iPhone 11 compatibility walkthrough](/faq/iphone-11-esim-compatible/).
 
 **Does the iPhone SE work with international eSIMs?**
 Yes — any global eSIM provider works on an unlocked 2020/2022 SE. The complete carrier list is on our [compatibility page](/compatibility/).
@@ -364,9 +366,10 @@ Yes — a cellular Apple Watch uses its own separate eSIM and pairs fine with a 
 
 ---
 
-*Based on Apple support documentation and GSMA standards. Updated: August 2026.*
+*Based on Apple support documentation and GSMA standards. Updated: September 2026.*
 ## Sources
 
 - [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
-- [Apple Support — eSIM on iPhone](https://support.apple.com/en-us/108072)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
 - [Apple Support — About eSIM on iPhone](https://support.apple.com/en-us/HT209044)
+- [Apple Support — Use Dual SIM with an eSIM](https://support.apple.com/en-us/HT209086)

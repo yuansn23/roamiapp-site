@@ -4,8 +4,8 @@ h1_title: "What Is eSIM and Why It Eliminates the Need for a Physical SIM Card"
 description: "Tired of tiny SIM cards? Learn how eSIM works on iPhone and Android, and why it is safer, easier, and the future of travel connectivity."
 image: "/img/esim/esim-travel.jpg"
 keywords: ["what is eSIM", "how does eSIM work", "eSIM vs physical SIM", "eSIM definition", "eSIM benefits", "embedded SIM card", "eSIM beginner guide", "dual eSIM", "global eSIM", "eSIM for travel", "eSIM pros and cons", "esim for beginners", "eSIM technology explained"]
-date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-26T00:00:00Z
+date: 2026-09-22T00:00:00Z
+lastmod: 2026-09-22T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup", "iPhone 16"]
 toc: true
 
@@ -100,7 +100,7 @@ sidebar_questions:
 
 
 
-> **Editor's Note:** Roami is the brand behind this guide. This explainer is based on Apple's official documentation, the GSMA's eSIM specification (SGP.22), and our team's experience activating eSIMs for over 500,000 travelers in 190+ countries. It is written for total beginners — no jargon, just what eSIM actually is and why it matters.
+> **Editor's Note:** An eSIM is a digital SIM embedded in your phone that replaces the removable plastic card — it stores your carrier profile in software and lets you switch plans without swapping cards. This explainer follows Apple's official documentation and the GSMA's eSIM specification (SGP.22), written for total beginners. By the end you'll know exactly what an eSIM is and whether you need one.
 
 An **eSIM** (embedded SIM) is a digital SIM that lives inside your phone instead of in a plastic tray. If you've bought a new iPhone lately or are planning a trip abroad, you've almost certainly come across the term — and it's a much simpler upgrade than it sounds.
 
@@ -116,7 +116,7 @@ A useful analogy: eSIM is to SIM cards what Apple Pay is to plastic credit cards
 
 Physically, the two couldn't be more different. A nano-SIM — the smallest physical card in wide use — measures about 12.3 mm by 8.8 mm and lives in a tray that needs a slot, a spring-loaded mechanism, and an ejector tool. The eUICC chip that replaces it (in its most common MFF2 package) is roughly 6 mm by 5 mm and is soldered directly to the phone's circuit board at the factory. There's no tray, no tool, and nothing that can fall out when the phone is dropped. That single chip is one reason eSIM-only phones can be a little thinner and a little more water-resistant than their tray-equipped counterparts.
 
-## eSIM Terms: What Every Name Means
+## eSIM Terms
 
 People write the name at least a dozen different ways, and a few related words get thrown around. Here's what each one actually means:
 
@@ -155,6 +155,8 @@ Behind the scenes, eSIM follows a global standard maintained by the **GSMA**, th
 - The profile installs onto the phone's eUICC chip, where it can't be removed or cloned.
 - From then on, your phone talks to the network using that profile, exactly as it would with a physical SIM.
 
+One thing the profile doesn't do is move itself when you change phones — see how [transferring an eSIM between iPhone and Android](/faq/how-to-transfer-esim-between-iphone-and-android/) actually works.
+
 The technical framework is the GSMA's **SGP.22 specification** — officially titled "Remote SIM Provisioning for Consumer Devices." It standardizes the whole handoff so an iPhone and a Samsung Galaxy can both talk to any carrier's servers the same way. Three pieces do the heavy lifting:
 
 - **SM-DP+** (Subscription Manager – Data Preparation Plus) is the carrier's secure server. It packages your plan into a profile, encrypts it, delivers it to your device over the internet, and verifies any confirmation code a carrier attaches to your plan.
@@ -167,11 +169,13 @@ Putting it all together, a profile's life looks like this: it's **downloaded** o
 
 Because profiles are software, one device can store several at once. Modern iPhones hold eight or more eSIM profiles, and many phones can keep two lines **active at the same time** — a home number plus a travel data plan, for example.
 
-*Activation — the actual moment the profile is downloaded and switched on — is a quick process, but the exact steps differ by device. For a step-by-step walkthrough, see our [How to Activate an eSIM](/faq/how-to-activate-an-esim/) guide (or the [iPhone version](/faq/how-to-activate-esim-on-iphone/)). And if you'd like to understand exactly what "activation" means before you begin, our [What Is eSIM Activation?](/faq/what-is-esim-activation-and-how-does-it-work/) explainer covers the concept in plain English.*
+*Activation — the actual moment the profile is downloaded and switched on — is a quick process, but the exact steps differ by device. For a step-by-step walkthrough, see our [How to Activate an eSIM](/faq/how-to-activate-an-esim/) guide (or the [iPhone version](/faq/how-to-activate-esim-on-iphone/)).*
 
-## eSIM vs Physical SIM: How They Compare
+*And if you'd like to understand exactly what "activation" means before you begin, our [What Is eSIM Activation?](/faq/what-is-esim-activation-and-how-does-it-work/) explainer covers the concept in plain English.*
 
-Here's how the embedded standard stacks up against the plastic card you know.
+## eSIM vs Physical SIM
+
+Here's how the embedded standard stacks up against the plastic card you know. (Planning a specific trip? Our [UK eSIM vs physical SIM breakdown](/faq/2026-uk-travel-connectivity-esim-vs-physical-sim-guide/) runs the numbers for real itineraries.)
 
 | Aspect | Physical SIM | eSIM |
 |---|---|---|
@@ -191,7 +195,7 @@ Here's how the embedded standard stacks up against the plastic card you know.
 
 One angle that doesn't get enough attention is durability and waste. A physical SIM tray is a mechanical part — the tray can bend, the gold contacts can oxidize, and dust or water can work its way in. An eSIM has no moving parts and sits sealed inside the phone, which is part of why eSIM-only devices can hit better water-resistance ratings. The environmental difference is real too: around four to five billion physical SIM cards are manufactured every year, each one plastic plus packaging and shipping. eSIM removes the card, the tray, the packaging, and the delivery truck from the equation entirely.
 
-### eSIM Pros and Cons at a Glance
+### eSIM Pros and Cons
 
 | Advantages | Trade-offs |
 |---|---|
@@ -203,7 +207,7 @@ One angle that doesn't get enough attention is durability and waste. A physical 
 | Zero plastic waste | Some devices must be carrier-unlocked |
 | Dual-SIM on most recent phones | Some mainland-China phones lack eSIM hardware |
 
-## The eSIM Ecosystem: Who Makes It Work
+## The eSIM Ecosystem
 
 eSIM isn't owned by a single company. Three groups cooperate to make it function:
 
@@ -236,6 +240,8 @@ For people crossing borders, the benefits are immediate:
 - **Connect before you land.** Instead of hunting for a SIM kiosk at the airport, buy a data eSIM for your destination ahead of time and it works the moment you arrive. Roami sells plans covering 190+ countries.
 - **Keep your home number.** With two active lines, your regular number stays reachable for calls and texts while a cheap travel eSIM carries the data.
 - **No roaming surprises.** Travel eSIMs advertise a clear upfront price — no daily roaming fees or hidden fair-usage throttling.
+
+Wondering what a plan actually costs for your destination? Start with the [travel eSIM guide](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/) or the [US eSIM plan comparison](/faq/the-ultimate-guide-to-us-esim-in-2026-how-to-choose-the-best-plan/).
 
 Beyond the headline perks, there are quieter advantages travelers notice on the road:
 
@@ -300,6 +306,6 @@ No. eSIM is used for regular home plans, secondary lines, smartwatches, tablets,
 ## Sources
 
 - [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
-- [Apple Support — eSIM on iPhone](https://support.apple.com/en-us/108072)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
 - [Google Support — Set up an eSIM](https://support.google.com/pixelphone/answer/14853135)
 - [Google Support — Android eSIM](https://support.google.com/android/answer/11241215)

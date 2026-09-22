@@ -3,8 +3,8 @@ title: "How to Activate an eSIM on iOS and Android"
 h1_title: "How to Activate an eSIM on iOS and Android (Step-by-Step)"
 description: "Step-by-step guide to activate an eSIM on iPhone and Android: QR code, manual entry, or carrier app, plus fixes for activation failures."
 keywords: ["eSIM activation", "how to activate eSIM", "activate eSIM iPhone", "Android eSIM", "eSIM QR code", "eSIM manual entry", "eSIM troubleshooting", "travel eSIM", "eSIM setup iPhone", "add eSIM to iPhone"]
-date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-26T00:00:00Z
+date: 2026-09-22T00:00:00Z
+lastmod: 2026-09-22T00:00:00Z
 tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
 image: "/img/esim/germany/germany-esim-installation-activation-setup.jpg"
@@ -98,7 +98,7 @@ sidebar_questions:
 ---
 
 
-> **Editor's Note:** Roami is the brand behind this guide. We activate eSIMs on iPhones and Android phones every day across 40+ countries, and the steps below are the exact ones our support team uses — tested on iOS 17/18 and Android 13/14/15.
+> **Editor's Note:** Activating an eSIM takes about five minutes — you scan a QR code or enter an SM-DP+ address and let the profile download. The steps below are the exact ones our support team uses, tested on iOS 17/18 and Android 13/14/15. Follow the path for your phone and you'll be online before takeoff.
 
 **The Bottom Line Up Front:** Activating an eSIM means downloading a digital carrier profile onto your phone. Whatever brand you own, the recipe is the same: an unlocked phone, a stable Wi-Fi connection, and a QR code (or its manual-entry details) from your provider. Open your cellular settings, tap "Add eSIM," scan or type, and wait about two minutes.
 
@@ -110,7 +110,7 @@ If this is your first time, our [What is eSIM?](/faq/what-is-esim/) guide explai
 
 A 10-second check: dial `*#06#` and look for a 32-digit **EID**. If it's there, you're ready. For the full device-by-device list — every Android brand and older iPhone — see the [complete eSIM compatibility list](/compatibility/).
 
-## The 60-second pre-flight checklist
+## eSIM Activation Pre-Flight Checklist
 
 Most activation failures are preventable before you scan anything. Run these six checks first.
 
@@ -125,7 +125,7 @@ Most activation failures are preventable before you scan anything. Run these six
 
 Skip any of these and you'll likely land in the troubleshooting queue. The three most common causes of failure, in order: a carrier-locked phone, weak Wi-Fi mid-download, and scanning with the Camera app instead of through Settings.
 
-## Before you activate: your prep checklist
+### Prep actions worth doing before you scan
 
 The table above is about *checks*. This list is about *actions* — things worth doing before you tap "Add eSIM" so you never have to scramble mid-setup.
 
@@ -138,7 +138,7 @@ The table above is about *checks*. This list is about *actions* — things worth
 7. **Install on home Wi-Fi, not airport Wi-Fi.** You can install weeks before your trip; the plan stays inactive until your phone connects to a network in the destination.
 8. **Decide which line does what.** If you're keeping your home SIM, plan now: travel eSIM handles data, home SIM handles calls and texts. We cover this below.
 
-## Activate on iPhone (iOS) — universal steps
+## How to Activate eSIM on iPhone
 
 Every iPhone since the XS follows one path. Go to **Settings > Cellular**, tap **Add eSIM** (or **Add Data Plan**), choose **Use QR Code**, and hold the phone steady about 15 cm from the code. When "Cellular Setup Complete" appears, you're done — the download usually takes 30–60 seconds.
 
@@ -146,7 +146,7 @@ No camera? Tap **Enter Details Manually** and paste the SM-DP+ address and activ
 
 For iOS 18's redesigned flow, Quick Transfer between iPhones, and re-registering iMessage/FaceTime after switching lines, see [How to Activate eSIM on iPhone](/faq/how-to-activate-esim-on-iphone/).
 
-## Activate on Android — universal steps
+## How to Activate eSIM on Android
 
 The menu label changes by brand, but every Android eSIM path is "open settings, find Add eSIM, scan or type."
 
@@ -159,7 +159,7 @@ The menu label changes by brand, but every Android eSIM path is "open settings, 
 | Motorola | Settings > Network & Internet > Mobile Network > Add Carrier |
 | Other brands | Search "eSIM" in Settings |
 
-If the option is missing, your model likely lacks eSIM hardware — confirm with the [compatibility list](/compatibility/).
+If the option is missing, your model likely lacks eSIM hardware — confirm with the [device compatibility list](/compatibility/).
 
 ### Manual entry on Android
 
@@ -178,9 +178,9 @@ The table above gets you there; this is the detail underneath it. Each brand nam
 | Xiaomi / Redmi / POCO (HyperOS) | Settings > **SIM cards & mobile networks** > eSIM > Add eSIM | eSIM is only on specific global models (Xiaomi 13/13T, 14/14T, 15); most Redmi/POCO units skip eSIM hardware. |
 | OnePlus (OxygenOS 14) | Settings > Mobile network > **SIM & network** > Add eSIM | OxygenOS 13 tucked it under "Wi-Fi & network"; 14 cleaned it up to "Mobile network." |
 | Motorola | Settings > Network & internet > Mobile network > **Add carrier** | Only select models (razr and some Edge units) carry eSIM; many Moto G models don't. |
-| Honor / Oppo / Vivo / Realme | Search "eSIM" in Settings | Support is patchy and model-specific — check the [compatibility list](/compatibility/) before assuming it's there. |
+| Honor / Oppo / Vivo / Realme | Search "eSIM" in Settings | Support is patchy and model-specific — check the [eSIM compatibility list](/compatibility/) before assuming it's there. |
 
-If you don't see any of these, search "eSIM" in the Settings search bar. If nothing surfaces, the phone almost certainly lacks eSIM hardware — full model-level detail is in the [Android eSIM brands guide](/faq/android-esim-other-brands-deep-guide/) and the [compatibility list](/compatibility/).
+If you don't see any of these, search "eSIM" in the Settings search bar. If nothing surfaces, the phone almost certainly lacks eSIM hardware — full model-level detail is in the [Android eSIM brands guide](/faq/android-esim-other-brands-deep-guide/) and the [full device list](/compatibility/).
 
 ## Where to find the SM-DP+ address and activation code
 
@@ -216,7 +216,7 @@ The pattern: all five deliver the QR or the profile almost immediately, and the 
 
 Providers like Roami, Airalo, and Holafly let you skip the QR entirely. Download the app, open your purchased plan, tap **Install** or **Activate**, and allow the phone to add the cellular plan. It's identical on iPhone and Android, and it's the cleanest route for first-timers because the app can't scan its own screen.
 
-## QR code, carrier app, or manual entry — which should you use?
+## Which eSIM Activation Method Should You Use?
 
 You have three ways in, and they aren't interchangeable in every situation. Pick by context.
 
@@ -251,7 +251,7 @@ Short version: the *download* takes under two minutes, but the *first connection
 
 Why are some carriers slower to register than others? Three reasons. **Smaller carriers provision in batches** — your profile is technically "pending" until their system processes it on the backend. **The partner network is congested** — landing at a busy airport at 6 p.m. means your phone is one of thousands registering at once. And **some plans only start their clock at first connection**, so the network handshake is deliberately delayed until the first data session. None of this is a fault — it's just the difference between "installed" and "live."
 
-## 7 mistakes that break eSIM activation
+## Common Mistakes That Break eSIM Activation
 
 | Mistake | Why it breaks | Fix |
 |---|---|---|
@@ -263,7 +263,7 @@ Why are some carriers slower to register than others? Three reasons. **Smaller c
 | Forgetting your passcode | Install stalls mid-way | Confirm your passcode before you start |
 | Scanning a code on your own screen | Can't aim the camera at itself | Save to Photos and use "Choose Photo," or use manual entry |
 
-## Activation stuck? Quick fixes
+## What to Do When eSIM Activation Gets Stuck
 
 If you're sitting at "Activating…" or "Searching," work this ladder top to bottom — it resolves the large majority of stuck activations without touching support.
 
@@ -284,7 +284,7 @@ eSIM isn't just for phones. **Cellular Android tablets** — like the Samsung Ga
 
 Apple's cellular **iPad and Apple Watch** follow their own rules — the Watch mirrors a phone line rather than taking a travel eSIM directly. That's covered in the [iPad & Apple Watch eSIM guide](/faq/ipad-apple-watch-esim-support-guide/).
 
-## eSIM activation myths, busted
+## Common eSIM Activation Myths
 
 A few things people believe about activation that just aren't true:
 
@@ -342,15 +342,21 @@ Yes — Wi-Fi Calling belongs to your *home* line, not the travel eSIM. Keep Wi-
 **What if I have no signal at all after activation?**
 No bars at all usually means you're outside the partner network's coverage, or the phone hasn't registered yet. Toggle Airplane Mode for 30 seconds, confirm Data Roaming is ON for the travel eSIM, and step outside if you're indoors. Persistent "No Service" is an APN or provisioning issue — see the [deep troubleshooting guide](/faq/esim-deep-troubleshooting-guide-2026/).
 
-👉 **Ready to try it yourself?** Grab a [free eSIM](/free-esim/) and run through these steps risk-free. Then explore [eSIM for the USA](/united-states-esim/), [Japan](/japan-esim/), or [Europe](/europe-esim/).
+👉 **Ready to try it yourself?** Grab a [free eSIM](/free-esim/) and run through these steps risk-free.
+
+Then explore our most popular destinations:
+
+- [eSIM for the USA](/united-states-esim/)
+- [eSIM for Japan](/japan-esim/)
+- [eSIM for Europe](/europe-esim/)
 
 ---
 
-*Based on Apple, Google, and GSMA documentation. Updated: August 2026.*
+*Based on Apple, Google, and GSMA documentation. Updated: September 2026.*
 
 ## Sources
 
 - [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
-- [Apple Support — eSIM on iPhone](https://support.apple.com/en-us/108072)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
 - [Google Support — Set up an eSIM](https://support.google.com/pixelphone/answer/14853135)
 - [Google Support — Android eSIM](https://support.google.com/android/answer/11241215)

@@ -4,8 +4,8 @@ h1_title: "Does the iPhone XR Support eSIM? A Complete Guide for 2026"
 description: "iPhone XR supports eSIM – verify with *#06#. Activate on major carriers. China models: no eSIM. Also covers iPhone 8/X and eSIM iPhones."
 image: "/img/esim/esim-travel.jpg"
 keywords: ["iphone xr esim compatible", "iphone xr esim support", "esim compatible phones", "list of iphones that support esim", "airalo compatible phones", "google fi esim compatible phones", "verizon esim compatibility", "dual sim compatible", "iphone xr dual sim", "iphone xr esim"]
-date: 2026-06-23T10:00:00Z
-lastmod: 2026-08-26T00:00:00Z
+date: 2026-09-22T00:00:00Z
+lastmod: 2026-09-22T00:00:00Z
 tags: ["iPhone", "eSIM", "Compatibility", "iPhone XR"]
 toc: true
 
@@ -99,10 +99,10 @@ sidebar_questions:
 ---
 
 
-> **Editor's Note:** Roami is a US-based eSIM provider. This guide answers one question — *does the iPhone XR do eSIM?* — and focuses on the traps that matter when you buy a 2018 iPhone in 2026: China models, carrier locks, and the XR's 4G-only ceiling. Facts are verified as of August 2026 against Apple documentation and Roami's activation data.
+> **Editor's Note:** The iPhone XR supports eSIM as a second line, but it is limited to 4G and has traps worth knowing — China models and carrier locks. This guide answers that one question using Apple documentation and Roami's activation data, verified as of September 2026. Confirm your model below before you buy a 2018 iPhone in 2026.
 
 
-## Is the iPhone XR eSIM Compatible? The Straight Answer
+## Is the iPhone XR eSIM Compatible?
 
 **Yes — a global iPhone XR fully supports eSIM.** It was one of the first three iPhones to ship with an eSIM chip, alongside the XS and XS Max in September 2018. One physical nano-SIM plus one eSIM can be active at the same time.
 
@@ -115,7 +115,7 @@ Three things decide whether *your* XR actually works with eSIM:
 **The quickest check:** open the Phone app, dial `*#06#`, and look for a 32-digit **EID**. EID present = eSIM hardware present. Only IMEI numbers = no eSIM. For the full three-method verification walkthrough, see our [iPhone eSIM compatibility hub](/faq/iphone-11-esim-compatible/).
 
 
-## iPhone XR eSIM at a Glance
+## iPhone XR eSIM Overview
 
 | Feature | Status |
 | :--- | :--- |
@@ -129,7 +129,7 @@ Three things decide whether *your* XR actually works with eSIM:
 The XR's eSIM works exactly like the one in a newer iPhone — same install flow, same dual-standby behavior — it just tops out at 4G LTE.
 
 
-## The XR's One Real Limitation: It's 4G-Only
+## Why the iPhone XR Is Limited to 4G
 
 Because the XR launched before 5G, its eSIM (and its physical SIM) run on 4G LTE only. In practice that rarely matters for travel: maps, messaging, web browsing, and video calls all feel identical on a strong LTE signal. You'll only notice the gap if you specifically want 5G speeds — in which case an iPhone SE 3rd gen or an iPhone 12+ is the step up. The trade-off, covered below, is that the XR is the cheapest way into eSIM at all.
 
@@ -157,7 +157,7 @@ The only real gap is 5G-specific speed. If your travel eSIM advertises 5G, the X
 **Bottom line:** the XR's 4G ceiling is a *speed* limitation, not a *coverage* or *compatibility* one. It's the price you pay for the cheapest eSIM iPhone — and for most trips, it's a price worth paying. Want 5G on a budget eSIM iPhone instead? The [iPhone SE 3rd gen](/faq/iphone-se-esim-compatible/) is the natural step up.
 
 
-## iPhone XR Model Numbers (A1984–A2109)
+## iPhone XR Model Numbers
 
 Your XR's hardware model number tells you whether it has eSIM before you even touch a menu. Apple sold six hardware variants, and they split cleanly into two camps — eSIM or no eSIM:
 
@@ -179,7 +179,7 @@ Your XR's hardware model number tells you whether it has eSIM before you even to
 **China nuance (A2107 / A2108 / A2109):** these three are the mainland China and Hong Kong / Macau variants. They ship with two physical nano-SIMs and no eSIM chip — no iOS update, reset, or hack can add one. If you see any of these three on the About screen, stop: that unit will never take an eSIM.
 
 
-## Buying a Used iPhone XR for eSIM — Checklist
+## Buying a Used iPhone XR for eSIM
 
 The XR is the cheapest eSIM iPhone on the used market, which makes it a magnet for gray-market and China-model units. Run this checklist in person before you hand over cash:
 
@@ -207,7 +207,7 @@ Beyond the EID and lock checks, three things decide whether a used XR is a good 
 
 **1. Battery health.** On a phone this old, it's the first thing to check. Go to **Settings > Battery > Battery Health & Charging** and read **Maximum Capacity**. Above 90% is excellent; 85–90% is normal for a lightly used unit; under 80% means Apple recommends a battery service (about $69–89 in the US) and the phone will struggle through a full travel day. Ask the seller for this number before you pay.
 
-**2. Price range (August 2026).** Clean, unlocked XRs now trade in a narrow band:
+**2. Price range (September 2026).** Clean, unlocked XRs now trade in a narrow band:
 
 | Condition | Approx. Price |
 | :--- | :--- |
@@ -220,7 +220,7 @@ Anything far below these numbers is usually a China model, a carrier-locked unit
 
 **3. Where to buy.** The safest bets are marketplaces that verify the IMEI/ESN and offer a return window: **Swappa** (individual sellers, staff-verified listings), **Back Market** (refurbished with a 12-month warranty), **Amazon Renewed**, and **eBay** (stick to high-feedback sellers with "unlocked" in the listing and eBay Money Back Guarantee). Apple no longer stocks XR refurbs, so third-party is your only route. Avoid anonymous local listings and "bulk import" sellers who won't share the IMEI before purchase.
 
-### The iOS 18 Ceiling (a 2026-Specific Flag)
+### The iOS 18 Ceiling
 
 The XR runs iOS 12 through **iOS 18** — and stops there. Apple dropped the XR, XS, and XS Max from iOS 19 in 2025, because they share the older A12 Bionic chip. The phone still works fine on iOS 18 and continues to get security patches, but it won't see new major features.
 
@@ -255,7 +255,7 @@ The bigger variable on a 2018 phone is the battery itself. A healthy XR easily d
 For a full day of maps and photos with both lines live, carry a small power bank — the XR predates the big-battery era.
 
 
-## iPhone XR vs iPhone 11 vs iPhone SE — Which for eSIM?
+## iPhone XR vs iPhone 11 vs iPhone SE for eSIM
 
 If you're buying a budget iPhone specifically for eSIM travel, these four are the usual shortlist (both SE generations earn a seat):
 
@@ -283,7 +283,7 @@ If you're buying a budget iPhone specifically for eSIM travel, these four are th
 For a deep dive on the SE's generations and carrier-unlock rules, see the [iPhone SE eSIM guide](/faq/iphone-se-esim-compatible/).
 
 
-## What If Your XR Shows No EID? (China Models)
+## What If Your iPhone XR Shows No EID?
 
 The only XR that lacks eSIM is one sold in **mainland China** — and, on rare occasion, a Hong Kong or Macau unit routed through Chinese channels.
 
@@ -299,7 +299,7 @@ The XR carries a soldered chip called the **eUICC** (embedded Universal Integrat
 | **Upgrade to a newer iPhone** | Any later iPhone gives you eSIM. See the [iPhone 11 guide](/faq/iphone-11-esim-compatible/) or [iPhone SE guide](/faq/iphone-se-esim-compatible/). |
 | **Switch to Android** | The [Samsung S20](/faq/samsung-s20-esim-compatible/) (Exynos version) or [Google Pixel 6](/faq/google-pixel-6-esim-compatible/) are solid alternatives. |
 
-### How to Confirm a China Model at a Glance
+### How to Confirm a China Model
 
 | Indicator | What to Look For |
 | :--- | :--- |
@@ -372,7 +372,7 @@ Yes. The XR can pair a cellular Apple Watch, which uses its own separate eSIM. W
 
 👉 **Traveling with an XR?** See [eSIM for the USA](/united-states-esim/) or [eSIM for Europe](/europe-esim/).
 
-## Still Unsure? Try a Free eSIM
+## Try a Free eSIM
 
 The fastest way to confirm an XR's eSIM is to install a **free trial eSIM**. It costs nothing, takes two minutes, and if it installs, the phone is 100% ready.
 
@@ -380,9 +380,10 @@ The fastest way to confirm an XR's eSIM is to install a **free trial eSIM**. It 
 
 ---
 
-*Based on Apple official documentation, GSMA standards, and carrier information as of August 2026.*
+*Based on Apple official documentation, GSMA standards, and carrier information as of September 2026.*
 ## Sources
 
 - [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
-- [Apple Support — eSIM on iPhone](https://support.apple.com/en-us/108072)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
 - [Apple Support — About eSIM on iPhone](https://support.apple.com/en-us/HT209044)
+- [Apple Support — Use Dual SIM with an eSIM](https://support.apple.com/en-us/HT209086)
