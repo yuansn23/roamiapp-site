@@ -81,6 +81,8 @@ Most travel eSIMs are data-only — you get internet but no US phone number for 
 
 You can't call a hotel to confirm a reservation. You can't receive SMS verification codes from Airbnb, Delta, or your bank. You can't give a local number to a ride-share driver who can't find you. If any of these apply to your trip, you need a USA eSIM that includes a real US number.
 
+For tourists the practical question is not which plan carries the most data but which one actually answers the phone. A US number only helps if the line stays live for the whole trip, so check the **refund** terms and the **data cap** before paying, and decide up front whether the US line will run alongside your home number as a **dual SIM** pair — most travelers keep the home SIM for incoming calls and send only data through the US plan. Tello includes **tethering** at no extra cost, so one line can cover a laptop as well. If calls matter more than data, confirm that voice traffic is carried rather than data only, and keep the **APN** settings the provider supplies: a wrong APN is the most common reason a plan with a valid number still cannot place a call.
+
 For a complete overview of everything you need to know about using eSIM in the US, the [USA eSIM complete guide](/blog/usa-esim-complete-guide/) covers the basics for first-time users.
 
 ---
@@ -304,10 +306,9 @@ All providers listed in this guide support 911 calling, but there are difference
 | **Ultra Mobile** | 10GB | 30 days | $20.00 | Yes | T-Mobile |
 | **Mint Mobile** | 5GB | 3 months | $45.00 | Yes | T-Mobile |
 | **Mint Mobile** | 15GB | 3 months | $60.00 | Yes | T-Mobile |
-| **Twise** | 5GB | 30 days | $14.00 | No | AT&T |
-| **BazTel** | 5GB | 30 days | $12.00 | No | T-Mobile |
+| **RedPocket** | 3GB | 30 days | $10.00 | Yes | T-Mobile, AT&T or Verizon |
 
-**Why Tello remains the best MVNO:** Unlike Mint Mobile (which requires 3-month commitments), Tello offers month-to-month plans with no contract. Unlike Ultra Mobile, Tello's 5GB plan at $10 is cheaper for the same data. Unlike Twise and BazTel, Tello includes a US phone number at no extra charge. For travelers staying 1-3 months, Tello offers the best balance of price, data, and phone number access.
+**Why Tello remains the best MVNO:** Unlike Mint Mobile (which requires 3-month commitments), Tello offers month-to-month plans with no contract. Unlike Ultra Mobile, Tello's 5GB plan at $10 is cheaper for the same data. RedPocket now matches Tello's $10 entry price and also includes a US number, so the tie-break is flexibility: Tello lets you build a plan around the exact number of minutes and gigabytes you need, while RedPocket sells fixed tiers. For travelers staying 1-3 months, Tello offers the best balance of price, data, and phone number access.
 
 To see how Tello and other MVNOs compare against all providers in the market, the [USA eSIM provider comparison](/blog/usa-esim-provider-comparison/) breaks down the options.
 
@@ -445,10 +446,10 @@ When using a US eSIM number for SMS-based two-factor authentication:
 | Provider | Plan | Data | Price | US number | Cost for number |
 |:---------|:----:|:----:|:-----:|:---------:|:---------------:|
 | Ubigi (data-only) | 10GB | 10GB | $12.00 | No | — |
-| Airalo (data-only) | 5GB | 5GB | $11.00 | No | — |
+| Airalo (data-only) | 5GB | 5GB | $13.50 | No | — |
 | Tello (with number) | 5GB | 5GB | $10.00 | Yes | Included |
 | Tello (with number) | 10GB | 10GB | $15.00 | Yes | Included |
-| Nomad (data-only) | 5GB | 5GB | $12.00 | No | — |
+| Nomad (data-only) | 5GB | 5GB | $16.00 | No | — |
 | T-Mobile Prepaid (with number) | 5GB | 5GB | $10.00 | Yes | Included |
 | Holafly (data-only) | Unlimited | Unlimited | $27.50 | No | — |
 
@@ -486,7 +487,7 @@ A cost-saving approach is to pair a data-only eSIM with a VoIP service that prov
 
 | Component | Example | Cost | Limitation |
 |:----------|:--------|:----:|:-----------|
-| Data-only eSIM | Airalo 5GB | $11.00 | No native calls/SMS |
+| Data-only eSIM | Airalo 5GB | $13.50 | No native calls/SMS |
 | VoIP number | Google Voice | Free | Some 2FA blocked |
 | VoIP number | Skype US number | $5/mo | Some 2FA blocked |
 | Total with Google Voice | — | $11.00 | No bank SMS verification |
@@ -660,11 +661,11 @@ Yes — if you're buying a US carrier prepaid plan or an MVNO plan with a phone 
 | Holafly (data-only) | No | Email only |
 | Nomad (data-only) | No | Email only |
 
-**Key takeaway:** If you want a US phone number, you'll need to verify your identity with a passport. This is a US regulatory requirement under [FCC](https://www.fcc.gov/) rules (not a provider choice). Data-only eSIMs don't require any ID — just an email address.
+**Key takeaway:** If you want a US phone number, you'll need to verify your identity with a passport. This is a US regulatory requirement under [FCC](https://www.fcc.gov/consumers) rules (not a provider choice). Data-only eSIMs don't require any ID — just an email address.
 
 **What to prepare:** Have your passport ready when purchasing any plan with a US number. Take a clear photo of the ID page — you'll need to upload it during setup.
 
-If you run into any issues during installation or activation, the [USA eSIM troubleshooting](/blog/usa-esim-troubleshooting/) covers the most common problems and how to resolve them.
+If you run into any issues during installation or activation, the [activation troubleshooting guide](/blog/usa-esim-troubleshooting/) covers the most common problems and how to resolve them.
 
 For travelers who prefer a data-only solution with automatic network switching — especially those covering several regions in one trip — a [multi-network USA eSIM](/united-states-esim/) handles the carrier choice for you and needs no ID verification.
 
@@ -793,7 +794,7 @@ Three things genuinely help:
 - **Ask for a voice call instead of a text.** Many verification flows offer "call me with the code" as a fallback, and voice calls are routed by different rules than short codes.
 - **Use the app's own authentication.** Banking and airline apps usually offer in-app confirmation, which bypasses SMS entirely.
 
-None of this is specific to eSIM. It is a US carrier-routing characteristic that applies just as much to a prepaid physical SIM, which is worth knowing before you blame the eSIM. [CTIA](https://www.ctia.org/) publishes the industry guidance behind short-code routing if you want the underlying rules.
+None of this is specific to eSIM. It is a US carrier-routing characteristic that applies just as much to a prepaid physical SIM, which is worth knowing before you blame the eSIM. [CTIA's industry guidance](https://www.ctia.org/about-ctia) explains the rules behind short-code routing if you want the underlying rules.
 
 Which network a number-bearing USA eSIM runs on does change how well that number behaves day to day. [Opensignal's January 2026 US report](https://insights.opensignal.com/reports/2026/01/usa/mobile-network-experience) put AT&T's Time on Network at 99.6%, with T-Mobile and Verizon close behind, and T-Mobile ahead on 5G Availability at 91.2% — which is the practical difference between "my number always rings" and "it sometimes does not".
 
@@ -811,9 +812,9 @@ Which network a number-bearing USA eSIM runs on does change how well that number
 
 ---
 
-Roami's [data-only USA eSIM plans](/united-states-esim/) switch networks automatically, and a [free trial plan](/free-esim/) lets you test one before committing to a phone-number plan. The code **web20** applies 20% off a first paid plan if you decide to continue.
+Roami's [data-only USA eSIM plans](/united-states-esim/) switch networks automatically, and a [free test plan](/free-esim/) lets you test one before committing to a phone-number plan. The code **web20** applies 20% off a first paid plan if you decide to continue.
 
 
 *Last updated September 2026.*
 
-Short-code and application-to-person SMS delivery is governed by carrier rules rather than by the FCC alone; CTIA maintains the industry guidelines. [Tello](https://www.tello.com/) and [Google Fi](https://fi.google.com/) publish their own number allocation and roaming terms.
+Short-code and application-to-person SMS delivery is governed by carrier rules rather than by the FCC alone; CTIA maintains the industry guidelines. [Tello](https://www.tello.com/plans) and [Google Fi](https://fi.google.com/) publish their own number allocation and roaming terms.

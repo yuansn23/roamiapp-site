@@ -80,7 +80,7 @@ recentPosts:
 
 The right US eSIM for tourists depends on your itinerary. The US has three major mobile networks — T-Mobile, AT&T, and Verizon — each covering most of the population. Choosing the wrong one can mean no signal in national parks or slow data in crowded cities. This USA eSIM complete guide covers how it works, which provider to pick, and what you'll pay. If you already know what you're looking for, the [best eSIM for USA travel 2026](/blog/usa-esim-ranking-comparison-2026/) compares eight providers side by side. (Roami is the travel eSIM brand behind this site; it sells USA eSIM plans that run on T-Mobile, AT&T and Verizon, and switches between them automatically.)
 
-For USA eSIM pricing, see the [USA eSIM price guide](/blog/usa-esim-price-guide/). For coverage details, see the [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/).
+For USA eSIM pricing, see the [price-per-GB comparison](/blog/usa-esim-price-guide/). For coverage details, see the [network coverage breakdown](/blog/usa-esim-coverage-guide/).
 
 ## Why USA eSIM adoption is surging in 2026
 
@@ -105,7 +105,7 @@ For most travelers, the benefits are clear. The only situations where eSIM might
 
 **How to get eSIM in USA** — the short answer: you don't need to be in the US to get one. A USA eSIM is a digital SIM card built into your phone's hardware. Instead of inserting a physical plastic SIM card when you arrive in the US, you buy a plan online before you leave, scan a QR code, and your phone connects to the US mobile network automatically. No airport kiosk, no SIM swapping, no passport registration at a carrier store.
 
-The [GSMA's eSIM specifications](https://www.gsma.com/solutions-and-impact/technologies/esim/) confirm the technology is now standard on most flagship phones released after 2020. Apple's [dual SIM support page](https://support.apple.com/en-us/HT212780) lists compatible iPhone models — essentially every model from the XS onward, excluding devices sold in China, Hong Kong, and Macau. On the Android side, Samsung Galaxy S20 and newer, Google Pixel 3 and newer, and most recent flagships from OnePlus and Xiaomi support eSIM.
+The [GSMA's eSIM specifications](https://www.gsma.com/solutions-and-impact/technologies/esim/) confirm the technology is now standard on most flagship phones released after 2020. Apple's [eSIM setup requirements](https://support.apple.com/en-us/118669) list the compatible iPhone models — essentially every model from the XS onward, excluding devices sold in China, Hong Kong, and Macau. On the Android side, Samsung Galaxy S20 and newer, Google Pixel 3 and newer, and most recent flagships from OnePlus and Xiaomi support eSIM.
 
 **The most important thing eSIM does differently:** it works alongside your existing physical SIM. Your home phone number stays active for WhatsApp, iMessage, and SMS from your bank. The eSIM handles all your US data. This is the feature that makes eSIM more convenient than a tourist SIM card, which requires you to remove your home SIM and lose access to your regular number.
 
@@ -162,7 +162,7 @@ The US has three major mobile networks. Your eSIM connects to one or two of them
 
 For city travel (New York, Chicago, Los Angeles, Miami), any network works fine. For road trips or national park visits, the network your eSIM uses matters more than the provider name. A provider on T-Mobile only will feel excellent in Manhattan but useless at the Grand Canyon. A provider connecting to AT&T and Verizon (like Nomad) will hold signal in both places. Some newer providers, like Roami, automatically switch between T-Mobile, AT&T, and Verizon to keep you connected regardless of where you are.
 
-The [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/) has detailed maps and speed test data for every major US destination.
+The [city-level coverage comparison](/blog/usa-esim-coverage-guide/) has detailed maps and speed test data for every major US destination.
 
 ### USA eSIM 5G coverage and performance by carrier
 
@@ -216,13 +216,15 @@ This automatic switching solves the biggest pain point of USA travel eSIMs: the 
 
 ## How to get eSIM in USA: choosing the right plan
 
+For most USA eSIM travellers the decision comes down to trip length rather than brand. A two-week holiday sits in the 10–20GB band, a long weekend rarely needs more than 5GB, and American travellers commonly overbuy — a 20GB plan for a seven-day trip often finishes with more than half unused. The one case that overrides trip length is the tourist who needs a real US number for restaurant bookings and SMS verification codes, because that rules out most data-only plans.
+
 **USA eSIM plans and pricing** vary significantly by provider. Here's a quick guide to the best eSIM for USA travel based on your trip type:
 
 | What kind of trip | Pick this | Starting price | Best for |
 | :---------------- | :-------- | :------------: | :------- |
 | City trip (NYC, Chicago, LA, San Francisco) | **Ubigi** | $4 for 1GB | $1.20 per GB |
 | Need a US phone number for calls and SMS | **Tello** | $5 for 1GB | $1.50 per GB at 10GB |
-| Driving through national parks and small towns | **Nomad** | $4.00 for 1GB | $1.90 per GB at 10GB |
+| Driving through national parks and small towns | **Nomad** | $5.00 for 1GB | $2.50 per GB at 10GB |
 | Want unlimited data, don't want to track usage | **Holafly** | $20.50 for 5 days | Truly unlimited (phone) |
 | Short weekend trip, cheapest option | **Saily** | $3.99 for 1GB | $2.30 per GB at 10GB |
 | Cheapest per GB, with automatic switching | **Roami** | $2.99 for 1GB | $7.99 for 10GB |
@@ -233,7 +235,7 @@ For a deeper USA eSIM comparison covering all eight providers across speed, cove
 
 ## USA eSIM plans and pricing overview
 
-How USA eSIM pricing scales from 1GB to unlimited across major providers. For a full breakdown of every plan and per-GB cost, see the [USA eSIM price guide](/blog/usa-esim-price-guide/).
+How USA eSIM pricing scales from 1GB to unlimited across major providers. For a full breakdown of every plan and per-GB cost, see the [tier-by-tier price comparison](/blog/usa-esim-price-guide/).
 
 | Provider | 1GB | 5GB | 10GB | 20GB | Unlimited |
 | :------- | :-: | :-: | :--: | :--: | :-------: |
@@ -283,7 +285,7 @@ User satisfaction varies by provider:
 | Trip scenario | Recommended provider | Why |
 | :------------ | :------------------- | :-- |
 | Weekend city break (2-3 days, 1-3GB) | Airalo or Ubigi | Lowest entry price, both under $5 for 1GB |
-| Week-long vacation (7 days, 5-10GB) | Ubigi | $9-12 for 5-10GB — best per-GB value at this tier |
+| Week-long vacation (7 days, 5-10GB) | Ubigi | $12 for 10GB over 7 days — best per-GB value at this tier |
 | Business trip with US calls (7 days) | Tello with US number | $15 for 10GB with voice and SMS included |
 | National parks road trip (10-14 days) | Nomad or **Roami** | AT&T/Verizon access for reliable rural coverage |
 | Family of 4 (7 days, moderate use) | Ubigi (4 plans x 5GB) | $36 total — competitive with a single pocket WiFi |
@@ -424,7 +426,7 @@ Most USA eSIM providers offer plans from 1GB to unlimited. Here's how to pick th
 
 **Hotspot and tethering:** Most fixed-data eSIMs allow unlimited hotspot sharing — you can connect a laptop or tablet without using extra data beyond your plan. The exception is unlimited plans. Holafly caps hotspot at 1GB per day, which limits laptop tethering to about two video calls. If hotspot is important to you, choose a fixed-data plan over an unlimited one.
 
-For a full comparison of every provider's USA eSIM plans and pricing by data tier, the [USA eSIM price guide](/blog/usa-esim-price-guide/) breaks down costs per GB and highlights the best value at each tier.
+For a full comparison of every provider's USA eSIM plans and pricing by data tier, the [USA eSIM cost comparison](/blog/usa-esim-price-guide/) breaks down costs per GB and highlights the best value at each tier.
 
 If you're a heavy data user who wants unlimited without tracking usage, the [USA eSIM unlimited data guide](/blog/usa-esim-unlimited-data-guide/) covers fair use policies, hotspot caps, and which unlimited plans actually deliver.
 
@@ -501,7 +503,7 @@ Installation takes about 5 minutes and should be done before you leave home. Her
 
 3. **Label the line** something you'll recognize — "US Data" or "USA eSIM" — so you can tell it apart from your home SIM.
 
-4. **Set the eSIM as your data line.** Keep your home SIM as the default voice line if you want to receive calls on your regular number.
+4. **Set the eSIM as your data line.** Leave your home SIM set as the voice line, so calls to your regular number still ring.
 
 5. **Turn off roaming on your home SIM.** This prevents surprise charges. Turn on roaming for the eSIM line — most travel eSIMs require this to function, even though you're connecting to a local network.
 
@@ -632,7 +634,7 @@ Most activation issues are straightforward to fix. Try these in order.
 - Check your APN settings. Some providers require a specific APN, such as "globaldata" on a global plan or "wbdata" on a US plan. Your provider's confirmation email should list the correct value.
 - Contact the provider's support before deleting the eSIM profile. Installs are single-use — once the profile is removed, you'll need a new code to reinstall.
 
-Roami staffs live chat with people rather than a bot, which shortens troubleshooting considerably when you're stuck. For a full list of fixes covering activation failures, slow speeds, dual SIM conflicts, and each provider's support contact info, the [USA eSIM troubleshooting](/blog/usa-esim-troubleshooting/) guide walks through every common problem step by step.
+Roami staffs live chat with people rather than a bot, which shortens troubleshooting considerably when you're stuck. For a full list of fixes covering activation failures, slow speeds, dual SIM conflicts, and each provider's support contact info, the [troubleshooting checklist](/blog/usa-esim-troubleshooting/) walks through every common problem step by step.
 
 ### Diagnosing the root cause of connectivity issues
 
@@ -727,10 +729,10 @@ A match day is the hardest test a plan will face in the US: tens of thousands of
 
 A USA eSIM remains the simplest way for most visitors to stay connected across the US — buy before you fly, install on home WiFi, and let it switch carriers automatically as you travel. Match the plan to your itinerary, confirm your phone is unlocked, and keep a free trial or backup option handy for peace of mind.
 
-## Sources and verification notes
+## Sources and verification notes for this USA eSIM guide
 
-Every plan price in this guide was read from the provider's own pricing page on 28 August 2026 and is quoted in USD for a single-device data plan. Network performance claims follow [Opensignal's USA Mobile Network Experience report](https://insights.opensignal.com/reports/2026/01/usa/mobile-network-experience) and [Ookla's Speedtest United States market data](https://www.speedtest.net/global-index/united-states).
+Every plan price in this guide was read from the provider's own pricing page on 22 September 2026 and is quoted in USD for a single-device data plan. Network performance claims follow [Opensignal's USA Mobile Network Experience report](https://insights.opensignal.com/reports/2026/01/usa/mobile-network-experience) and [Ookla's Speedtest United States market data](https://www.speedtest.net/global-index/united-states).
 
-Device compatibility follows [Apple's eSIM support page](https://support.apple.com/en-us/HT212780) and [Google's eSIM help centre](https://support.google.com/android/answer/9096433).
+Device compatibility follows [Apple's eSIM setup guide](https://support.apple.com/en-us/118669), [Apple's dual SIM reference](https://support.apple.com/en-us/109317) and [Google's eSIM help centre](https://support.google.com/android/answer/9096433).
 
 For the full side-by-side table behind these recommendations, see the [USA eSIM provider ranking](/blog/usa-esim-ranking-comparison-2026/); for current plan pricing, see [Roami's USA eSIM plans](/united-states-esim/).

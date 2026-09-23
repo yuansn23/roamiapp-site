@@ -80,7 +80,7 @@ recentPosts:
 
 Physical SIM cards at US airport kiosks cost 3-4x more than buying the same plan online. A USA eSIM from an international provider requires no passport, activates instantly, and keeps your home number active. Every option works, but finding the best eSIM for USA travel means comparing **US eSIM**, **physical SIM card**, **pocket WiFi device**, or **international roaming** from your home carrier — and it's not obvious which one is right for you. This guide breaks down the real differences in cost, convenience, setup difficulty, flexibility, and coverage, so you can pick the one that fits your trip.
 
-For a broader overview of all your USA eSIM options, the [best eSIM for USA travel 2026](/blog/usa-esim-ranking-comparison-2026/) covers the best providers side by side. All pricing in this article for USA eSIM for tourists comes from official provider sites and traveler reports. Prices in USD, July 2026.
+For a broader overview of all your USA eSIM options, the [best eSIM for USA travel 2026](/blog/usa-esim-ranking-comparison-2026/) covers the best providers side by side. All pricing in this article for USA eSIM for tourists comes from official provider sites and traveler reports. Prices in USD, September 2026.
 
 ## Quick comparison: USA eSIM, physical SIM and pocket WiFi
 
@@ -136,7 +136,7 @@ For a broader overview of all your USA eSIM options, the [best eSIM for USA trav
 
 eSIM has become the default recommendation for US travelers for three reasons.
 
-**You keep your home SIM active.** Your existing phone number stays online for WhatsApp, iMessage, and SMS from your bank. You don't need to swap SIMs at the airport or worry about losing your home SIM card. Apple's official eSIM guide on [how to set up dual SIM](https://support.apple.com/en-us/HT212780) shows how both lines work simultaneously on iPhone XS and later models. Most Android phones from Samsung, Google, and OnePlus support dual SIM as well.
+**You keep your home SIM active.** Your existing phone number stays online for WhatsApp, iMessage, and SMS from your bank. You don't need to swap SIMs at the airport or worry about losing your home SIM card. Apple's official guide to [Using Dual SIM with an eSIM](https://support.apple.com/en-us/109317) shows how both lines work simultaneously on iPhone XS and later models. Most Android phones from Samsung, Google, and OnePlus support dual SIM as well.
 
 **Setup takes 5 minutes and you can do it before you leave.** This is how buying a USA eSIM online works: choose a plan, scan the QR code, and you're ready. No queuing at the airport, no finding a carrier store. You land in the US with service already working. The [USA eSIM complete guide](/blog/usa-esim-complete-guide/) walks through the full installation process for both iPhone and Android. If you want to rehearse it first, a free trial plan walks through the exact same steps — useful if you have never installed an eSIM before.
 
@@ -286,7 +286,7 @@ International roaming is the default for travelers who don't want to think about
 | AT&T International Day Pass | Unlimited (2GB high-speed/day) | $10/day = $70/week | ~$5/GB after 2GB |
 | T-Mobile International Pass | 15GB | $50 | $3.33/GB |
 | Verizon TravelPass | 2GB/day | $10/day = $70/week | ~$5/GB after 2GB |
-| USA eSIM (Airalo) | 3GB | $8.00 | $2.67/GB |
+| USA eSIM (Airalo) | 3GB | $9.00 | $3.00/GB |
 | USA eSIM (Ubigi) | 10GB | $12 | $1.20/GB |
 | USA eSIM (Holafly) | Unlimited | $29 | N/A |
 
@@ -480,7 +480,7 @@ Price comparisons only tell part of the story. Each option comes with hidden cos
 
 | Option | 1 person | 2 people | 3 people | 4 people |
 | :----- | :------: | :------: | :------: | :------: |
-| **US eSIM** (Ubigi 10GB) | $12 | $24 | $36 | $48 |
+| **US eSIM** (Ubigi 10GB) | $14 | $28 | $42 | $56 |
 | **eSIM** (Saily 3GB) | $8.99 | $17.98 | $26.97 | $35.96 |
 | Physical SIM (T-Mobile 5GB) | $10 | $20 | $30 | $40 |
 | Pocket WiFi (standard rental) | $50-70 | $50-70 (shared) | $50-70 (shared) | $50-70 (shared) |
@@ -499,7 +499,7 @@ Price comparisons only tell part of the story. Each option comes with hidden cos
 
 | Option | Best per-GB price | Plan details |
 | :----- | :---------------: | :----------- |
-| USA eSIM (Ubigi) | $1.20/GB | 10GB for $12 |
+| USA eSIM (Ubigi) | $1.40/GB | 10GB for $14 |
 | USA eSIM (Saily) | $2.30/GB | 10GB for $22.99 |
 | Physical SIM (T-Mobile prepaid) | $0.83/GB | 30GB for $25 |
 | Physical SIM (Visible/Verizon) | $0.50/GB | Unlimited for $15 (party plan) |
@@ -666,7 +666,7 @@ Different trips call for different choices. Here's how the four options stack up
 
 #### Scenario 8: Digital nomad staying 1-6 months
 - **Recommendation:** Physical SIM or carrier eSIM for long stays
-- **Why:** Digital nomads need reliable, high-data plans for remote work. T-Mobile's prepaid $35/month plan with 50GB is the best value. If your phone supports dual SIM, keep your home eSIM active and add a US data plan. For nomads moving between cities, carrier plans with nationwide coverage are more reliable than travel eSIMs for constant daily use. Cost: $30-50/month. T-Mobile's network covers the vast majority of US urban areas and most rural highways, as shown on the [T-Mobile coverage map](https://www.t-mobile.com/coverage/coverage-map).
+- **Why:** Digital nomads need reliable, high-data plans for remote work. T-Mobile's U.S. Pass eSIM at $35 covers 14 days with unlimited data (50GB at premium 5G speeds) and 28GB of hotspot, and must be bought and activated after you land. If your phone supports dual SIM, keep your home eSIM active and add a US data plan. For nomads moving between cities, carrier plans with nationwide coverage are more reliable than travel eSIMs for constant daily use. Cost: $30-50/month. T-Mobile's network covers the vast majority of US urban areas and most rural highways, as shown on the [T-Mobile coverage map](https://www.t-mobile.com/coverage/coverage-map).
 
 ### Scenario comparison matrix
 
@@ -683,7 +683,7 @@ Different trips call for different choices. Here's how the four options stack up
 
 ## How to buy USA eSIM online before your trip
 
-**Step 1:** Check your phone's compatibility. Dial `*#06#` and look for an EID number. If you see one, your phone supports eSIM. Most iPhones from XS onward, Samsung Galaxy S20 onward, and Google Pixel 3 onward work. Apple's [eSIM support page](https://support.apple.com/en-us/HT212780) has a full compatibility list.
+**Step 1:** Check your phone's compatibility. Dial `*#06#` and look for an EID number. If you see one, your phone supports eSIM. Most iPhones from XS onward, Samsung Galaxy S20 onward, and Google Pixel 3 onward work. Apple's [eSIM setup requirements](https://support.apple.com/en-us/118669) and our own [compatibility list](/compatibility/) cover the full range of supported models.
 
 **Step 2:** Choose a provider. Options include Airalo, Holafly, Ubigi, Nomad, and others. Many providers now offer a free trial plan so you can test compatibility before committing. Compare plans based on your data needs and trip length.
 

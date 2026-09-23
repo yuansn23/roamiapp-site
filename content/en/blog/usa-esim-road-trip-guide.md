@@ -83,7 +83,7 @@ The difference in US eSIM rural reach comes down to one thing: which mobile netw
 
 This guide covers which providers work best for road trips, what national parks service to expect in major parks, and how much data you'll need for navigation and streaming on the road. For a broader comparison of all providers, the [best eSIM for USA travel 2026](/blog/usa-esim-ranking-comparison-2026/) has the full side-by-side analysis. If you're comparing international providers specifically, the [USA eSIM provider comparison](/blog/usa-esim-provider-comparison/) breaks down speed, reach, and value across all the top names.
 
-Independent testing backs this up. In its July 2026 US report, [Opensignal](https://insights.opensignal.com/reports/2026/01/usa/mobile-network-experience) found T-Mobile won 12 of 16 categories and measured a median download of 192.5 Mbps versus AT&T's 96 and Verizon's 89.4, while [Ookla's Speedtest Global Index for H1 2026](https://www.speedtest.net/global-index/united-states) recorded T-Mobile's US median download at 275.55 Mbps — the highest of the three — with Verizon taking Best Mobile Coverage. Speed and reach are different strengths, and a plan should match the one your route needs. For a full city-by-city breakdown of where each network works, see the [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/).
+Independent testing backs this up. In its [July 2026 US report](https://insights.opensignal.com/reports/2026/07/usa/mobile-network-experience), Opensignal found T-Mobile won 12 of 16 categories and measured a median download of 192.5 Mbps versus AT&T's 96 and Verizon's 89.4, while [Ookla's Speedtest Global Index for H1 2026](https://www.speedtest.net/global-index/united-states) recorded T-Mobile's US median download at 275.55 Mbps — the highest of the three — with Verizon taking Best Mobile Coverage. Speed and reach are different strengths, and a plan should match the one your route needs. For a full city-by-city breakdown of where each network works, see the [USA eSIM coverage data](/blog/usa-esim-coverage-guide/).
 
 ---
 
@@ -110,13 +110,13 @@ Service varies significantly by park and carrier. Here's how the top providers c
 
 | Provider | Networks | Best for | Data price (10GB) |
 |:---------|:---------|:---------|:-----------------:|
-| **Nomad** | AT&T + Verizon | All national parks | $20.00 |
+| **Nomad** | AT&T + Verizon | All national parks | $25.00 |
 | **Verizon Prepaid** | Verizon (native) | Very remote parks | $30.00 (25GB) |
-| **AT&T Prepaid** | AT&T (native) | National parks east of the Rockies | $30.00 (30GB) |
-| **Ubigi** | T-Mobile | City-adjacent parks only | $12.00 |
+| **AT&T Prepaid** | AT&T (native) | National parks east of the Rockies | $35.00/mo (Unlimited Saver) |
+| **Ubigi** | T-Mobile | City-adjacent parks only | $12.00 (10GB/7 days) |
 | **Airalo** | T-Mobile + Verizon | Good mix of coverage | $18.00 |
 
-**Does eSIM work in rural USA and national parks?** Yes — but not all eSIMs work equally. The answer depends entirely on which network your eSIM uses. T-Mobile-based eSIMs (Ubigi, Saily) work in cities near parks but drop off inside the parks themselves. AT&T and Verizon-based eSIMs (Nomad, carrier prepaid) reach significantly more areas inside national parks and rural America. For the best rural reach, choose Nomad (AT&T+Verizon) or Verizon Prepaid. The [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/) has detailed maps showing exactly which networks work where.
+**Does eSIM work in rural USA and national parks?** Yes — but not all eSIMs work equally. The answer depends entirely on which network your eSIM uses. T-Mobile-based eSIMs (Ubigi, Saily) work in cities near parks but drop off inside the parks themselves. AT&T and Verizon-based eSIMs (Nomad, carrier prepaid) reach significantly more areas inside national parks and rural America. For the best rural reach, choose Nomad (AT&T+Verizon) or Verizon Prepaid. The [regional coverage comparison](/blog/usa-esim-coverage-guide/) has detailed maps showing exactly which networks work where.
 
 ### Provider pros and cons for road trips
 
@@ -160,7 +160,7 @@ Cell service within national parks is limited no matter which provider you use. 
 - **Zion:** Verizon works in Springdale and at the visitor center. No carrier reaches the Narrows or Angels Landing trailheads.
 - **Great Smoky Mountains:** AT&T and Verizon both work at Sugarlands Visitor Center and Cades Cove. Service on hiking trails is unreliable.
 
-**The rule:** Download offline Google Maps for every park you plan to visit before you leave. Cell signal inside parks is unreliable regardless of carrier. [National Park Service](https://www.nps.gov) pages often have specific connectivity information for each park.
+**The rule:** Download offline Google Maps for every park you plan to visit before you leave. Cell signal inside parks is unreliable regardless of carrier. [National Park Service](https://www.nps.gov/planyourvisit/index.htm) pages often have specific connectivity information for each park.
 
 ### National parks service guide for USA eSIM users
 
@@ -374,11 +374,13 @@ Your data allowance should cover navigation plus a buffer for offline maps. Road
 | 21-day road trip (RV/camping) | 1-2GB | **15-25GB** |
 | 30-day cross-country | 1-2GB | **20-30GB** |
 
-For a detailed breakdown of which providers offer the best value at each data tier, the [USA eSIM price guide](/blog/usa-esim-price-guide/) compares cost per GB across all major options.
+For a detailed breakdown of which providers offer the best value at each data tier, the [USA eSIM pricing comparison](/blog/usa-esim-price-guide/) compares cost per GB across all major options.
 
 ---
 
 ## Offline preparation checklist for a USA eSIM road trip
+
+Work through the items that only matter once you leave the interstate. Download offline maps for every park on the route, because a **coverage map** that looks solid at the exit ramp rarely reflects the canyon floor thirty miles in. Save the **QR code** email offline instead of relying on inbox search at a gas station, and write down your **EID** and **IMEI** — a provider asked to re-issue a profile from a motel network will want both. Confirm the plan's **fair use** clause and **data cap** before you depend on streaming at a campground, since **throttling** shows up first as a sluggish maps app rather than a clean stop, and remember that low **latency** matters more than headline speed for turn-by-turn navigation. Keep the **APN** settings handy, check whether a **top-up** can be bought without returning to a city, and run the plan as the data line in a **dual SIM** setup so the home number still takes calls. Confirm cross-border **roaming** if the route touches Canada or Mexico. Finally, carry a cheap **MVNO** plan on the other network as a backup: test **activation** on day one rather than day fourteen, because a **refund** is usually available only on a profile that never activated at all.
 
 Before you leave, do these on WiFi:
 
@@ -390,7 +392,7 @@ Before you leave, do these on WiFi:
 - Download weather apps (they use minimal data but need occasional updates)
 - Save RV park and campground contact numbers (for calls, not data)
 
-None of the settings in this section are provider-specific, so a [free trial eSIM](/free-esim/) is enough to rehearse the whole sequence before you leave.
+None of the settings in this section are provider-specific, so a [trial eSIM](/free-esim/) is enough to rehearse the whole sequence before you leave.
 
 ### Seasonal considerations for road trip eSIM use
 
@@ -540,10 +542,10 @@ Verizon has the best reach in Yellowstone. AT&T reaches developed areas. T-Mobil
 Yes, but download offline maps as backup. Cell service is inconsistent on rural highways and inside national parks. Google Maps offline mode works well even without signal. For a cross-country trip, download maps for every state on your route.
 
 ### How much data do I need for a 2-week road trip?
-10-20GB should be enough for navigation, music streaming, and social media. If you plan to stream video at campgrounds or hotels, consider downloading content ahead of time on WiFi. RV and camping trips may require more data for campground research, weather updates, and route planning. The [USA eSIM price guide](/blog/usa-esim-price-guide/) breaks down which providers offer the best data packages for road trip lengths.
+10-20GB should be enough for navigation, music streaming, and social media. If you plan to stream video at campgrounds or hotels, consider downloading content ahead of time on WiFi. RV and camping trips may require more data for campground research, weather updates, and route planning. The [USA eSIM price comparison](/blog/usa-esim-price-guide/) breaks down which providers offer the best data packages for road trip lengths.
 
 ### Is T-Mobile OK for a road trip?
-T-Mobile works fine if you're staying on major interstates near cities. Once you leave the interstate system or pass through rural areas, you'll lose signal sooner than AT&T or Verizon customers. For a road trip that includes national parks or small towns, choose a provider with AT&T or Verizon access instead. Roami's [multi-network USA eSIM](/united-states-esim/) offers multi-network access that gives you better reach.
+T-Mobile works fine if you're staying on major interstates near cities. Once you leave the interstate system or pass through rural areas, you'll lose signal sooner than AT&T or Verizon customers. For a road trip that includes national parks or small towns, choose a provider with AT&T or Verizon access instead. Roami's [multi-network USA eSIM plan](/united-states-esim/) offers multi-network access that gives you better reach.
 
 ### What is the best offline map strategy for a US road trip?
 Google Maps allows you to download states or regions for offline use. Go to the Google Maps app, tap your profile picture, tap Offline Maps, and select the area you want to save. Each state map takes 200-500MB of storage. For a cross-country trip, download maps for every state on your route — the total will be 3-8GB. Apple Maps offers similar offline functionality on iOS 18 and later. Download these before you leave or when connected to hotel WiFi. Offline maps lose some functionality — real-time traffic, alternate routes, and business hours won't update without data.
@@ -564,7 +566,7 @@ Some of the most scenic US road trips also have the worst cellular coverage. The
 CB radios and satellite phones operate on entirely different frequencies and technologies than cellular networks, so they don't interfere with eSIM functionality. Many experienced road trippers carry a CB radio or satellite messenger (like Garmin inReach or ZOLEO) as backup for areas with no cellular service. These devices work independently of your eSIM and phone. Satellite messengers can send text messages and SOS alerts from anywhere with a clear view of the sky, even when no cellular tower is within range.
 
 ### How do I manage data across multiple devices during a road trip?
-If you're traveling with a laptop, tablet, or other connected devices, you have several options: (1) Use your phone's hotspot feature — most eSIMs allow hotspot tethering, though some cap the speed or data volume; (2) Carry a dedicated mobile hotspot with a separate eSIM data plan; (3) Download content (movies, shows, books) to each device on WiFi before leaving. The hotspot approach is simplest for occasional laptop use. A dedicated hotspot is better for remote work or streaming to multiple devices. For device-by-device setup, see the [USA eSIM setup guide](/blog/usa-esim-setup-guide/) and [USA eSIM troubleshooting](/blog/usa-esim-troubleshooting/) guides.
+If you're traveling with a laptop, tablet, or other connected devices, you have several options: (1) Use your phone's hotspot feature — most eSIMs allow hotspot tethering, though some cap the speed or data volume; (2) Carry a dedicated mobile hotspot with a separate eSIM data plan; (3) Download content (movies, shows, books) to each device on WiFi before leaving. The hotspot approach is simplest for occasional laptop use. A dedicated hotspot is better for remote work or streaming to multiple devices. For device-by-device setup, see the [USA eSIM setup guide](/blog/usa-esim-setup-guide/) and [troubleshooting checklist](/blog/usa-esim-troubleshooting/) guides.
 
 ---
 
@@ -572,13 +574,13 @@ If you're traveling with a laptop, tablet, or other connected devices, you have 
 
 | Priority | Best provider | Plan | Why |
 |:---------|:--------------|:----:|:----|
-| **Best overall for road trips** | Nomad | 10GB/$20 | AT&T+Verizon, best rural reach |
-| **Best for national parks** | Nomad or Verizon Prepaid | 10GB/$20 or 25GB/$30 | Reaches park areas |
-| **Best for RV/camping** | Nomad + T-Mobile Prepaid | 20GB/$35 + 30GB/$25 | Dual-provider backup |
+| **Best overall for road trips** | Nomad | 10GB/$25 | AT&T+Verizon, best rural reach |
+| **Best for national parks** | Nomad or Verizon Prepaid | 10GB/$25 or 15GB/$35 | Reaches park areas |
+| **Best for RV/camping** | Nomad + T-Mobile U.S. Pass | 20GB/$36 + 14-day/$35 | Dual-provider backup |
 | **Best value (city-adjacent)** | Ubigi | 10GB/$12 | Cheapest, works near cities |
-| **Best for cross-country** | Nomad | 10GB/$20 | Consistent service across routes |
+| **Best for cross-country** | Nomad | 10GB/$25 | Consistent service across routes |
 | **Best for Alaska** | Verizon Prepaid | 25GB/$30 | Widest Alaska reach |
-| **Best for family road trip** | Nomad (per person) | 10GB/$20 each | Independent service |
+| **Best for family road trip** | Nomad (per person) | 10GB/$25 each | Independent service |
 
 ---
 
@@ -589,4 +591,4 @@ A well-matched USA eSIM is the difference between a stressful drive and a smooth
 
 *Last updated September 2026.*
 
-Park connectivity varies with elevation and terrain, and the [FHWA](https://www.fhwa.dot.gov/) maintains the corridor data behind the highway sections above. For routes with no signal at all, T-Mobile's [satellite messaging service](https://www.t-mobile.com/coverage/satellite) is worth a look as a safety fallback.
+Park connectivity varies with elevation and terrain, and the [FHWA](https://highways.dot.gov/) maintains the corridor data behind the highway sections above. For routes with no signal at all, T-Mobile's [satellite messaging service](https://www.t-mobile.com/coverage/satellite) is worth a look as a safety fallback.

@@ -80,7 +80,7 @@ recentPosts:
 
 Airalo is the most recognized eSIM provider globally, but Ubigi offers better per-GB pricing on T-Mobile's network. Holafly provides truly unlimited data but restricts hotspot tethering. Finding the best eSIM for USA travel depends on your specific itinerary and data habits. If your itinerary spans several regions, a provider that switches between carrier networks instead of making you commit to one removes the single biggest source of variance in US coverage. Network performance and price, not brand recognition, are what separate these providers, and they are the two axes this USA eSIM comparison ranks every provider on. If you want the best eSIM for USA travel without overpaying for a logo, start with those two numbers.
 
-For pricing comparisons, see the [USA eSIM price guide](/blog/usa-esim-price-guide/). For coverage details, see the [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/).
+For pricing comparisons, see the [tier-by-tier price comparison](/blog/usa-esim-price-guide/). For coverage details, see the [coverage comparison by carrier](/blog/usa-esim-coverage-guide/).
 
 ## Best eSIM for USA travel: the quick picks we recommend
 
@@ -90,7 +90,7 @@ For pricing comparisons, see the [USA eSIM price guide](/blog/usa-esim-price-gui
 | :---------------- | :-------- | :------------: |
 | City trip, one metro area (NYC, Chicago, LA, San Francisco) | **Ubigi** | $4 for 1GB |
 | Need a US phone number for calls and SMS | **Tello** | $5 for 1GB |
-| National parks and rural highways | **Nomad** | $4.00 for 1GB |
+| National parks and rural highways | **Nomad** | $5.00 for 1GB |
 | Want unlimited data, don't want to track usage | **Holafly** | $20.50 for 5 days |
 | Short weekend trip, cheapest entry price | **Saily** | $3.99 for 1GB |
 | One trip across several regions, or you don't know which network you'll need | **Roami** | $2.99 for 1GB |
@@ -109,6 +109,12 @@ Many travelers visit both cities and national parks on the same trip. In that ca
 
 We built this USA eSIM comparison from two kinds of evidence. First, provider specifications — plan prices, included networks, hotspot limits, app-store ratings, and support channels — were read from each company's own pricing and terms pages. Those figures were checked in September 2026 and may shift between seasons, so treat a provider's live page as the final word on cost. Second, network-performance claims rely on independent measurement rather than marketing: [Opensignal's USA Mobile Network Experience report, January 2026](https://insights.opensignal.com/reports/2026/01/usa/mobile-network-experience) (measuring September–November 2025) for coverage, 5G availability, time-on-network and download-speed experience, and [Ookla's Speedtest United States market index, H1 2026](https://www.speedtest.net/global-index/united-states) for median download figures by carrier. We did not run our own speed tests and we did not accept any provider's self-reported numbers as proof of coverage. Where a claim depends on a source, the sentence links to it; where it depends on a provider page, the figure is marked as checked September 2026.
 
+Two practical questions decide most of these rankings, and both deserve an answer before you read a table.
+
+**Is a USA eSIM legit?** Yes. eSIM is a GSMA standard rather than a workaround — the profile lives in the handset's secure element, and every provider here is reselling capacity on T-Mobile, AT&T or Verizon. What varies is the reseller's paperwork, not the technology. The checks that separate a serious company from a risky one are whether it publishes a registered business address and clear refund terms, and whether support answers before your trip rather than after it.
+
+**What changes if you are buying from the UK?** The ranking does not, but the shopping does. Prices are shown in pounds at checkout, which hides the exchange-rate spread, and cards issued outside the US are declined by some providers that expect a US billing address — check the accepted payment methods before you commit. If you would rather buy a UK product, a domestic bundle with US roaming is an alternative: Revolut Mobile's plan includes a 20GB US and EU roaming allowance, which trades a fixed monthly fee for a data cap and only makes sense if you were switching UK network anyway.
+
 ## USA eSIM comparison at a glance
 
 | Feature | Ubigi | Tello | Nomad | Airalo | Holafly | Saily |
@@ -125,7 +131,7 @@ We built this USA eSIM comparison from two kinds of evidence. First, provider sp
 
 ## Which US mobile network a USA eSIM will actually use
 
-The US has three major networks. Your eSIM connects to one or two of them. Which one it uses determines where it works and how fast it'll be. That single fact is the backbone of any honest USA eSIM comparison. To see a full city-by-city breakdown, read the [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/).
+The US has three major networks. Your eSIM connects to one or two of them. Which one it uses determines where it works and how fast it'll be. That single fact is the backbone of any honest USA eSIM comparison. To see a full city-by-city breakdown, read the [regional coverage breakdown](/blog/usa-esim-coverage-guide/).
 
 | Network | Best in | Weakest in |
 | :------ | :------ | :--------- |
@@ -484,7 +490,7 @@ Here is what a typical heavy-use traveler consumes in a day:
 
 For a heavy phone user who rarely tethers, Holafly's unlimited data is genuinely useful. The hotspot cap is the binding constraint for anyone relying on laptop connectivity.
 
-## Saily: Best for Public WiFi and Privacy
+## Saily: the USA eSIM with a built-in VPN
 
 Saily comes from the Nord Security team (NordVPN). It includes a built-in VPN, ad blocker, and web protection — useful if you're connecting to WiFi in airports, cafes, and hotels. Instead of buying a separate VPN subscription and configuring it on your phone, it's all included in the eSIM plan.
 
@@ -533,7 +539,7 @@ The cost difference between Saily and the combined approach is negligible ($2). 
 
 - **Privacy-conscious visitors from restricted regions:** If you're traveling from a country with internet censorship, Saily ensures your browsing in the US stays private from both local networks and your home country's monitoring.
 
-## Google Fi: Best for Families and Multi-Device Travel
+## Google Fi: the USA eSIM for families and multi-device travel
 
 Google Fi works across phones, tablets, and some laptops on a single account. Unlimited Standard ($50/month) includes a US phone number, and Unlimited Premium ($65/month) adds unlimited full-speed hotspot and data abroad.
 
@@ -645,7 +651,7 @@ All three major carriers require:
 
 For most travelers, the activation friction with major carriers makes international eSIMs the more practical choice unless specific coverage requirements dictate otherwise.
 
-## How to Choose the Right Data Plan
+## How to choose the right USA eSIM data plan
 
 Here's what a typical day of phone use actually consumes:
 
@@ -661,7 +667,7 @@ Here's what a typical day of phone use actually consumes:
 
 For a 7-day trip with light use (maps, social media, messaging), you'll need about 3GB. For moderate use (add some YouTube or Netflix), go with 5GB. For heavy use (streaming, video calls, remote work), choose 10GB or an unlimited plan.
 
-If you're still unsure, the [USA eSIM price guide](/blog/usa-esim-price-guide/) breaks down costs per GB and helps you find the best value at each tier.
+If you're still unsure, the [USA eSIM cost comparison](/blog/usa-esim-price-guide/) breaks down costs per GB and helps you find the best value at each tier.
 
 ### Data calculator: how much you actually need by traveler type
 
@@ -726,7 +732,7 @@ If you're still comparing, the question worth asking of any provider is which ne
 | AT&T Prepaid | — | — | $10.00 | — | — | — |
 | Verizon Prepaid | — | — | $12.00 | — | — | — |
 
-For the best eSIM for USA travel on a tight budget, this price-per-GB view is the column to watch. One clear pattern emerges: **Ubigi consistently posts one of the lowest per-GB costs across the tiers where it competes.** The gap widens at higher data volumes — at 10GB, Ubigi costs $12, about 20% less than the next-cheapest 30-day option. Airalo no longer sells fixed-data plans in the US; its American lineup is unlimited-only. For a full price breakdown, see the [USA eSIM price guide](/blog/usa-esim-price-guide/).
+For the best eSIM for USA travel on a tight budget, this price-per-GB view is the column to watch. One clear pattern emerges: **Ubigi consistently posts one of the lowest per-GB costs across the tiers where it competes.** The gap widens at higher data volumes — at 10GB, Ubigi costs $12, about 20% less than the next-cheapest 30-day option. Airalo no longer sells fixed-data plans in the US; its American lineup is unlimited-only. For a full price breakdown, see the [cost-per-gigabyte comparison](/blog/usa-esim-price-guide/).
 
 ### Total cost of ownership for different trip lengths
 
@@ -757,7 +763,7 @@ A cheap plan is worthless if the network doesn't reach your destinations. This c
 | AT&T Prepaid | AT&T | Good | Good |
 | Verizon Prepaid | Verizon | Good | Best |
 
-Coverage reflects each provider's underlying carrier network. Our USA eSIM comparison puts these network scores next to price for exactly that reason. For city-by-city details, see the [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/).
+Coverage reflects each provider's underlying carrier network. Our USA eSIM comparison puts these network scores next to price for exactly that reason. For city-by-city details, see the [coverage map by carrier](/blog/usa-esim-coverage-guide/).
 
 ## 2026 FIFA World Cup: picking the right USA eSIM network
 
@@ -785,7 +791,7 @@ Most eSIMs follow the same simple process. Installation takes about 5 minutes an
 - Check your APN settings — some providers require a specific APN, such as `wbdata` on Airalo's USA plan
 - Contact the provider's support before deleting the eSIM profile, since QR codes are single-use
 
-For deeper troubleshooting, the [USA eSIM troubleshooting](/blog/usa-esim-troubleshooting/) guide covers activation failures, slow speeds, and dual SIM conflicts step by step.
+For deeper troubleshooting, the [diagnostic checklist](/blog/usa-esim-troubleshooting/) covers activation failures, slow speeds, and dual SIM conflicts step by step.
 
 Automatic switching between T-Mobile, AT&T and Verizon is the one feature here that changes outcomes rather than convenience, so it is worth checking whether a plan offers it before you buy. A [free trial eSIM](/free-esim/) lets you confirm the setup works on your phone first; the current first-order code **web20** takes 20% off.
 
@@ -806,7 +812,7 @@ Android eSIM support varies significantly by manufacturer. Key considerations:
 - **Google Pixel (4 and newer):** Full eSIM support with easy QR code scanning. Pixel 7 and newer support dual eSIM.
 - **Samsung Galaxy (S20 and newer, Z Flip/Fold):** Good eSIM support. Samsung phones may require a software update for some international eSIM profiles. Check "Settings → Connections → SIM Card Manager → Add eSIM."
 - **OnePlus (10 and newer):** eSIM support available but limited to select carriers. Check OnePlus's compatibility list before purchasing.
-- **Xiaomi, Oppo, Huawei:** eSIM support is limited and inconsistent. Some models lack eSIM entirely. Verify compatibility at [GSMA's device database](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-economy/devices/) before buying.
+- **Xiaomi, Oppo, Huawei:** eSIM support is limited and inconsistent. Some models lack eSIM entirely. Verify compatibility at [GSMA's eSIM specifications](https://www.gsma.com/solutions-and-impact/technologies/esim/) before buying.
 
 ### Common Android APN configuration
 

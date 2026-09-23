@@ -133,7 +133,7 @@ Which network partners does each provider actually use? The quick-compare table 
 
 **Setup and activation:** Airalo's app is the smoothest in the industry. Setup is a three-step flow with no account creation, which is the main reason first-timers seldom get stuck on it. For a step-by-step walkthrough of the installation, the [USA eSIM setup guide](/blog/usa-esim-setup-guide/) covers device-specific instructions.
 
-**Pricing:** Unlimited-only lineup — $11.50 (3 days), $18.50 (5d), $25.00 (7d), $34.00 (10d), $46.00 (15d), $68.00 (30d), displayed in your local currency at checkout. For a full breakdown of pricing across all providers, see the [USA eSIM price guide](/blog/usa-esim-price-guide/).
+**Pricing:** Unlimited-only lineup — $11.50 (3 days), $18.50 (5d), $25.00 (7d), $34.00 (10d), $46.00 (15d), $68.00 (30d), displayed in your local currency at checkout. For a full breakdown of pricing across all providers, see the [USA eSIM price comparison](/blog/usa-esim-price-guide/).
 
 **Hotspot:** Unlimited, included.
 
@@ -228,7 +228,7 @@ Holafly's "unlimited" plans have a fair use policy that travelers should underst
 - **T-Mobile 5G (standard):** fast (suburban, smaller cities)
 - **T-Mobile 4G LTE:** moderate (rural, highways)
 
-**Pricing:** Ubigi offers the cheapest per-GB pricing of any international provider. At 10GB for $12, it's about a third cheaper than the next closest competitor. If you're choosing on price alone, the [USA eSIM price guide](/blog/usa-esim-price-guide/) covers every provider.
+**Pricing:** Ubigi offers the cheapest per-GB pricing of any international provider. At 10GB for $12, it's about a third cheaper than the next closest competitor. If you're choosing on price alone, the [per-GB cost comparison](/blog/usa-esim-price-guide/) covers every provider.
 
 **Hotspot:** Unlimited, included.
 
@@ -435,6 +435,26 @@ KnowRoaming offers more plan variety than most competitors:
 
 ---
 
+## Other USA eSIM companies worth knowing
+
+The brands above are the ones most travelers compare first, but they are not the whole market. If none of them fits, these providers reach the same US networks with a different trade-off:
+
+| Provider | US networks | What makes it different |
+|:---------|:------------|:------------------------|
+| Maya Mobile | Verizon + AT&T | Unusually long validity — plans run for months rather than weeks — plus an advertised 180-day money-back guarantee. Hotspot is included on every plan, and there is no app to install: the whole account is managed from the website. |
+| Jetpac | Verizon + AT&T | Aimed at frequent flyers. Unlimited plans run from 3 to 30 days, and WhatsApp, Uber, Grab and Google Maps keep working after the data runs out. Searched often as "Jetpack". |
+| Breeze | Verizon | The budget end of the market: small short-trip plans with no hidden fees, aimed at weekend trips that only need maps and messaging. |
+| GigSky | Own APN, multi-network | Built around cruise ships and in-flight connectivity rather than city travel, which makes it the pick when the trip includes a cruise or onboard Wi-Fi. |
+| Simify | AT&T | Short-validity visitor plans with low entry prices. Independent speed tests place it below the larger brands, so treat it as a backup rather than a primary plan. |
+| Yesim | Verizon | Very low pay-as-you-go entry prices per gigabyte. Several independent tests report slower speeds than the leaders, so it suits light use. |
+| Revolut | 1GLOBAL (roaming) | Not a dedicated eSIM company — the plans sit inside the Revolut banking app. Convenient if you already bank with Revolut, and Ultra subscribers get monthly global data included. Data-only, no US number. |
+
+Two things are worth knowing about this part of the market. First, most of these companies are **resellers**, not operators: they buy wholesale access from 1GLOBAL, Gigs or the US carriers, so two brands can deliver an identical network at different prices. Second, because a reseller's support is app- or chat-based, an operator-direct plan remains the safer choice when a dropped connection carries a cost.
+
+Some names that appear in "USA eSIM" searches are not providers at all. Mobimatter and Travelkon are marketplaces that resell other companies' plans, uSwitch and MoneySavingExpert are UK price-comparison sites, and Klook bundles data into travel bookings made elsewhere. Buying through a marketplace adds a support layer between you and the network, which matters if a profile fails mid-trip. Lycamobile is a genuine US prepaid operator but sells local plans rather than travel products, and Lebara runs MVNO services in several European markets with no US product — in both cases the fix is to check the provider's own country list before paying.
+
+One further route sits outside the eSIM market: a UK operator bundle that includes US roaming. Revolut Mobile runs on Vodafone's infrastructure and includes a 20GB roaming allowance covering the US as well as the EU, which can undercut a standalone data plan if you were switching UK network anyway.
+
 ## Airalo vs Holafly USA eSIM: which is better for your trip?
 
 **Airalo vs Holafly USA which is better** — this depends entirely on your data usage:
@@ -472,12 +492,12 @@ KnowRoaming offers more plan variety than most competitors:
 
 | Factor | Ubigi | Holafly | Winner |
 |:-------|:-----:|:-------:|:------:|
-| **Best for value (3-10GB)** | $8-12 | $27+ | **Ubigi** |
+| **Best for value (3-10GB)** | $7-14 | $27.50+ | **Ubigi** |
 | **Best for unlimited** | Limited (60GB soft cap) | Truly unlimited | **Holafly** |
 | **Best hotspot** | Unlimited | 1GB/day | **Ubigi** |
 | **Best network** | T-Mobile only | AT&T | **Holafly** (rural) |
 | **Best customer support** | Email priority | 24/7 live chat | **Holafly** |
-| **Cheapest overall** | $12 for 10GB | $27 for 7 days | **Ubigi** |
+| **Cheapest overall** | $12 for 10GB over 7 days | $27.50 for 7 days | **Ubigi** |
 
 **Choose Ubigi if:** You're on a budget. You need 10-25GB of data. You need unlimited hotspot for laptop work. You're staying in cities.
 
@@ -504,7 +524,7 @@ Ubigi is 45-75% cheaper than Holafly for equivalent data volumes. Holafly's prem
 |:-------|:-----:|:-----:|:------:|
 | **Best for cities** | Cheaper, faster | More expensive | **Ubigi** |
 | **Best for rural** | T-Mobile weak | AT&T + Verizon | **Nomad** |
-| **Best 10GB price** | $12 | $20 | **Ubigi** |
+| **Best 10GB price** | $12 (7 days) / $14 (30 days) | $25 | **Ubigi** |
 | **Best network coverage** | T-Mobile only | AT&T + Verizon | **Nomad** |
 | **Free trial** | No | 1GB free | **Nomad** |
 
@@ -566,7 +586,7 @@ Ubigi is 45-75% cheaper than Holafly for equivalent data volumes. Holafly's prem
 |:--------------|:-------|:----|
 | **Light user (1-3GB)** | Airalo | Cheapest entry price, easiest setup |
 | **Moderate user (3-10GB)** | Ubigi | Best per-GB value at $12 for 10GB |
-| **Heavy user (10+GB)** | Ubigi or Holafly | Ubigi for value ($24/25GB), Holafly for unlimited |
+| **Heavy user (10+GB)** | Ubigi or Holafly | Ubigi for value ($32/25GB), Holafly for unlimited |
 | **Rural / road trip** | Nomad | AT&T + Verizon coverage |
 | **Laptop hotspot needed** | Ubigi or Airalo | Unlimited hotspot included |
 | **24/7 support needed** | Holafly | Live chat in multiple languages |
@@ -590,7 +610,7 @@ Roami takes a different approach: rather than asking you to choose a carrier, [a
 | City only | Easiest setup | Airalo |
 | City only | Unlimited data | Holafly |
 | Rural + city | Good coverage | Nomad |
-| Rural + city | Cheapest | Nomad (5GB at $12) |
+| Rural + city | Cheapest | Nomad (5GB at $16) |
 | National parks | Best coverage | Nomad |
 | Multi-country | One provider | Airalo or KnowRoaming |
 | Public WiFi user | VPN protection | Saily |
@@ -764,10 +784,10 @@ To determine the best overall value, each provider is scored across five weighte
 
 | Trip type | Recommended provider | Price range |
 |:----------|:--------------------|:-----------:|
-| Weekend in one city | Airalo or Ubigi 1-3GB | $4-8 |
+| Weekend in one city | Airalo or Ubigi 1-3GB | $4-9 |
 | One-week city trip | Ubigi 10GB | $12 |
-| Two-week mixed trip | Nomad 10GB or Ubigi 10GB | $12-19 |
-| Road trip (national parks) | Nomad 10GB+ | $19-31 |
+| Two-week mixed trip | Nomad 10GB or Ubigi 10GB | $14-25 |
+| Road trip (national parks) | Nomad 10GB+ | $25-36 |
 | One-month digital nomad | Ubigi 25GB + Tello 5GB | $42 |
 | Heavy streaming user | Holafly (any duration) | $20.50-73.90 |
 | Privacy-focused traveler | Saily 5-10GB | $13.99-22.99 |
@@ -781,16 +801,16 @@ The USA eSIM provider market offers genuine choice, but the diversity is more nu
 
 Each provider serves different traveler profiles. Short-term visitors to major cities benefit from budget-friendly Ubigi, Saily, or Nomad plans. Travelers heading to national parks or rural areas should prioritize Nomad for AT&T and Verizon coverage, or Visible for a Verizon-only option. Those needing a US phone number have choices like Tello or T-Mobile Prepaid. Heavy data users should consider unlimited plans from Visible or Holafly, understanding their respective limitations on hotspot and fair usage policies. For a full breakdown of voice-enabled plans, see the [phone number guide](/blog/usa-esim-with-phone-number/).
 
-Price comparison across providers reveals significant variation in per-gigabyte costs, from budget options to premium carrier plans. The key is matching price to value based on your specific needs rather than choosing solely on cost. For a complete price breakdown, see the [USA eSIM price guide](/blog/usa-esim-price-guide/).
+Price comparison across providers reveals significant variation in per-gigabyte costs, from budget options to premium carrier plans. The key is matching price to value based on your specific needs rather than choosing solely on cost. For a complete price breakdown, see the [price-per-GB comparison](/blog/usa-esim-price-guide/).
 
-When evaluating which USA eSIM provider to choose, consider the full picture: network coverage in your destinations, data speed expectations, hotspot requirements, whether you need a US phone number, your trip duration, and your budget. The provider that scores highest across all these factors for your specific trip will deliver the best connectivity experience. The best eSIM for USA travel is the one whose network reaches the cities and parks on your actual route, not the one with the loudest branding. For city-by-city coverage details, see the [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/).
+When evaluating which USA eSIM provider to choose, consider the full picture: network coverage in your destinations, data speed expectations, hotspot requirements, whether you need a US phone number, your trip duration, and your budget. The provider that scores highest across all these factors for your specific trip will deliver the best connectivity experience. The best eSIM for USA travel is the one whose network reaches the cities and parks on your actual route, not the one with the loudest branding. For city-by-city coverage details, see the [network coverage breakdown](/blog/usa-esim-coverage-guide/).
 
 Taking the time to compare providers before your trip ensures reliable connectivity from the moment you land, so you can focus on enjoying your US trip rather than worrying about your connection.
 
 ## 2026 FIFA World Cup: USA eSIM network choice for a tournament trip
 
-A tournament trip does not change the pairing logic, it raises the stakes: on a match day you want the profile that can fall back to a second network rather than the one carrying a single carrier's badge, which is the same trade the pairings above are built around. Host-city congestion figures and the network-by-network picture are in the [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/).
+A tournament trip does not change the pairing logic, it raises the stakes: on a match day you want the profile that can fall back to a second network rather than the one carrying a single carrier's badge, which is the same trade the pairings above are built around. Host-city congestion figures and the network-by-network picture are in the [city-level coverage comparison](/blog/usa-esim-coverage-guide/).
 
 *Last updated September 2026.*
 
-Network partner and APN details above are taken from each provider's own documentation — [Airalo](https://www.airalo.com/) and [Nomad](https://www.getnomad.app/united-states-esim/) both publish theirs publicly. Specifications were last verified in September 2026.
+Network partner and APN details above are taken from each provider's own documentation — [Airalo's USA store](https://www.airalo.com/united-states-esim) and [Nomad's USA plans](https://www.getnomad.app/united-states-esim/) both publish theirs publicly. Specifications were last verified in September 2026.

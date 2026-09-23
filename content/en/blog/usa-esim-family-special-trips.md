@@ -81,7 +81,7 @@ For road trip connectivity, see the [best eSIM for USA road trip](/blog/usa-esim
 
 Planning a USA eSIM family trip starts with data needs. A family of four uses 30-50 GB of data across devices during a two-week US trip. A USA eSIM for backpackers can save 40-70% by choosing a local prepaid plan like Tello or Mint Mobile over international eSIM plans.
 
-This guide covers the best eSIM strategies for common travel scenarios — families, USA eSIM for backpackers, theme parks, cruises, ski trips, and more. The [GSMA](https://www.gsma.com/solutions-and-impact/technologies/esim/) provides the technical specifications that make eSIMs work across different US carriers, ensuring compatibility for all trip types. If you're looking for the cheapest option for a straightforward trip, the [USA eSIM price guide](/blog/usa-esim-price-guide/) has the best deals at every data tier.
+This guide covers the best eSIM strategies for common travel scenarios — families, USA eSIM for backpackers, theme parks, cruises, ski trips, and more. The [GSMA](https://www.gsma.com/solutions-and-impact/technologies/esim/) provides the technical specifications that make eSIMs work across different US carriers, ensuring compatibility for all trip types. If you're looking for the cheapest option for a straightforward trip, the [cost-per-gigabyte comparison](/blog/usa-esim-price-guide/) has the best deals at every data tier.
 
 For a trip that moves between destinations, a [multi-network USA eSIM](/united-states-esim/) saves you changing carrier settings at every stop. Whether the itinerary is theme parks or national parks, the network question decides whether the plan holds up.
 
@@ -96,10 +96,10 @@ Two related decisions sit next to that one: data caps, covered in the [USA eSIM 
 | Trip type | Recommended data | Best provider |
 |:----------|:----------------:|:--------------|
 | Theme park trip (5 days) | 10-15 GB | Ubigi ($12) |
-| Family road trip (7-14 days) | 10-20 GB | Nomad ($12-20) |
+| Family road trip (7-14 days) | 10-20 GB | Nomad ($25-36) |
 | Backpacking (14-30 days) | 10-20 GB | Ubigi ($14+) |
 | Cruise (port-heavy) | 5-10 GB | GigSky / Ship WiFi |
-| Ski trip (5-7 days) | 5-10 GB | Nomad ($12) |
+| Ski trip (5-7 days) | 5-10 GB | Nomad ($16) |
 | Wedding trip (5-7 days) | 5-10 GB | Ubigi ($12) |
 | Honeymoon (7-14 days) | 10-15 GB | Ubigi ($12) |
 | Student exchange (3-6 months) | 25-50 GB/month | Tello ($25/mo) |
@@ -161,9 +161,11 @@ Beyond the individual eSIM vs. pocket WiFi decision, families have several data 
 
 ### Managing kids' phones on a USA eSIM trip
 
+Two family decisions cost more than they should, and both are avoidable. The first is **data sharing**: one parent's phone can run the **hotspot** for the group, but **tethering** drains that battery and caps how many devices stay online, so most families do better with a cheap **eSIM profile** on each teenager's handset and a shared plan for the adults. The second is **activation** timing — install every profile at home on Wi-Fi, because a QR code that fails at the airport with three tired children is a different problem from one that fails at your kitchen table. Before you leave, run through four checks: confirm each handset against the carrier's **compatible device list**, note the **EID** and **IMEI** of any phone you are unsure about, keep the **APN** details for manual entry, and put the family's destinations on the provider's **coverage map**. If a plan gets throttled mid-trip it will be the streaming line rather than the maps line, once **fair use** kicks in, so send the video apps to whichever plan carries the larger **data cap**, and run each teenager's line as a **dual SIM** pair so their home number keeps working. Families crossing into Canada or Mexico should confirm **roaming** is included, and it is worth knowing before you fly whether a mid-trip **top-up** can be bought in-app, because a **refund** is normally offered only on a plan that never activated.
+
 If you're traveling with children who have their own phones, here's what to consider:
 
-**eSIM compatibility on kids' phones:** Many children use older or budget phones that may not support eSIM. Check the [device compatibility list](/compatibility/) against each handset before buying. iPhone SE (2nd generation and later), Google Pixel 4a and later, and Samsung Galaxy A series (A54 and later) support eSIM. Most Chinese domestic phones and very budget Android phones do not.
+**eSIM compatibility on kids' phones:** Many children use older or budget phones that may not support eSIM. Check the [compatible device list](/compatibility/) against each handset before buying. iPhone SE (2nd generation and later), Google Pixel 4a and later, and Samsung Galaxy A series (A54 and later) support eSIM. Most Chinese domestic phones and very budget Android phones do not.
 
 **Parental control options:** If your kids' eSIMs are data-only, they can still access the internet through your phone's hotspot for supervised browsing. Google Family Link works over any data connection and can be configured before the trip to limit app usage and screen time during US hours.
 
@@ -186,7 +188,7 @@ On a tight budget? The cheapest eSIM for budget travel USA starts at $3.99 for 1
 
 For travelers on multi-country trips, Airalo's 200+ country coverage means one eSIM works across the US, Canada, Mexico, and beyond — no need to buy new plans at each border. Tello's 5GB plan at $10 with a US phone number is also a strong choice for backpackers who need to make local calls for hostel bookings or ride-sharing.
 
-If you're covering several regions with different network strengths, a multi-network plan saves you toggling settings at every destination. For full pricing across all providers, see the [USA eSIM price guide](/blog/usa-esim-price-guide/).
+If you're covering several regions with different network strengths, a multi-network plan saves you toggling settings at every destination. For full pricing across all providers, see the [USA eSIM pricing comparison](/blog/usa-esim-price-guide/).
 
 ### Cheapest eSIM for budget travel USA: cost per GB by provider
 
@@ -200,8 +202,8 @@ For backpackers on a strict budget, choosing the cheapest per-GB provider makes 
 | Tello | 10GB | $15.00 | $1.50/GB |
 | Tello | Unlimited (50GB high-speed) | $25.00 | $0.50/GB |
 | Airalo | Unlimited (3d) | $11.50 | — |
-| Nomad | 5GB | $13.00 | $2.60/GB |
-| Nomad | 10GB | $19.00 | $1.90/GB |
+| Nomad | 5GB | $16.00 | $3.20/GB |
+| Nomad | 10GB | $25.00 | $2.50/GB |
 
 **Best value for backpackers:** Roami's 10GB at $7.99 ($0.80/GB) is the cheapest per-GB rate in this comparison, and the promo code web20 cuts it to $6.39 — though its 3-day validity suits short bursts rather than a multi-week trip. Ubigi's 25GB at $32 ($1.28/GB) is the cheapest per-GB option for longer stays. For light users, Tello's unlimited plan at $25 (50GB high-speed) includes a US number with unlimited texts — useful for hostel bookings. Airalo's unlimited-only lineup trades per-GB value for simplicity and the widest multi-country coverage.
 
@@ -342,7 +344,7 @@ Destination weddings in the US often mean coordinating a group of guests across 
 | Bride/groom coordinating vendors | Tello ($15 for 10GB) | US number + reliable data |
 | Wedding guests (group of 5+) | Pocket WiFi + individual backups | Group coordination |
 | Destination wedding (7-day trip) | Ubigi 10GB ($12) | Enough for planning + social media |
-| Post-wedding honeymoon road trip | Ubigi 10GB ($12) or Nomad ($20) | Data for navigation + photos |
+| Post-wedding honeymoon road trip | Ubigi 10GB ($12 for 7 days) or Nomad 10GB ($25) | Data for navigation + photos |
 
 **Data estimate:** Wedding planning apps, vendor communication, social media sharing, and guest coordination can use 500MB-1GB per day. For a 7-day wedding trip, plan on 5-10GB.
 
@@ -377,7 +379,7 @@ Semester-long stays (3-6 months) require a different approach. You need reliable
 | Student need | Best provider | Plan | Cost |
 |:-------------|:--------------|:----:|:----:|
 | US phone number + data | Tello | 10GB/$15/mo (unlimited $35) | $15-35/mo |
-| Data-only backup | Ubigi | 25GB/$24/mo | $24/mo |
+| Data-only backup | Ubigi | 25GB/$32/mo | $32/mo |
 | Campus + city coverage | Tello (T-Mobile) | 5GB/$10/mo | $10/mo |
 | Rural university | T-Mobile Prepaid or AT&T Prepaid | 30GB/$25-30 | $25-30/mo |
 
@@ -499,7 +501,7 @@ A World Cup trip is a family trip with a harder connectivity problem than a them
 
 **Why match day changes the provider choice.** Stadium crowds load every carrier at once, so a plan able to move onto a second network when the first congests is worth more than a slightly cheaper single-network plan — and worth far more when the whole point is finding each other afterwards. Host-city congestion figures come from [Opensignal's July 2026 US report](https://insights.opensignal.com/reports/2026/01/usa/mobile-network-experience), with market-level speeds tracked in the [Ookla Speedtest US index](https://www.speedtest.net/global-index/united-states).
 
-**Why the itinerary forces a regional plan.** The tournament is hosted by the United States, Canada and Mexico, and Toronto and Vancouver host matches north of the border, so a US-only plan stops working the moment a family adds a Canadian leg. Buy a North America regional plan, or confirm the plan you have covers all three countries before you fly; the host-city list and the network to lean on are in the [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/).
+**Why the itinerary forces a regional plan.** The tournament is hosted by the United States, Canada and Mexico, and Toronto and Vancouver host matches north of the border, so a US-only plan stops working the moment a family adds a Canadian leg. Buy a North America regional plan, or confirm the plan you have covers all three countries before you fly; the host-city list and the network to lean on are in the [regional coverage breakdown](/blog/usa-esim-coverage-guide/).
 
 Market-level speed figures behind the congestion scores above come from the same Ookla Speedtest US market index.
 
@@ -508,13 +510,13 @@ Market-level speed figures behind the congestion scores above come from the same
 | Trip scenario | Best provider | Data | Price | Why |
 |:--------------|:--------------|:----:|:-----:|:----|
 | **Family theme park trip** | Ubigi | 10GB | $12 | Best coverage at parks |
-| **Backpacker budget** | Airalo | 3GB | $8 | Lowest entry price |
-| **Cruise travel** | Ubigi + ship WiFi | 10GB | $12 + $15/day | Works in ports |
+| **Backpacker budget** | Airalo | 3GB | $9 | Lowest entry price |
+| **Cruise travel** | Ubigi + ship WiFi | 10GB | $12 (7 days) + $15/day | Works in ports |
 | **Wedding trip** | Tello | 10GB | $15 | US number for vendor calls |
 | **Student exchange** | Tello | 10GB/mo | $15/mo | Number + data rollover |
 | **Honeymoon** | Ubigi | 10GB | $12 | Affordable + reliable |
-| **Ski trip Colorado** | Nomad | 10GB | $20 | AT&T+Verizon coverage |
-| **Cross-country train** | Nomad | 10GB | $20 | Best rural coverage |
+| **Ski trip Colorado** | Nomad | 10GB | $25 | AT&T+Verizon coverage |
+| **Cross-country train** | Nomad | 10GB | $25 | Best rural coverage |
 | **Medical tourism** | Tello | 10GB | $15 | US number + hotspot |
 | **California trip** | Ubigi | 10GB | $12 | Covers cities well |
 | **Uber/Lyft frequent** | Any provider | 3GB | $8 | Ride-sharing uses little data |
@@ -660,4 +662,4 @@ Whichever setup you choose, confirm before you fly that everyone's phone is unlo
 
 *Last updated September 2026.*
 
-Whichever route you take, the [USA eSIM complete guide](/blog/usa-esim-complete-guide/) ties every topic in this cluster together, and the [USA eSIM troubleshooting](/blog/usa-esim-troubleshooting/) guide handles anything that still fails.
+Whichever route you take, the [USA eSIM complete guide](/blog/usa-esim-complete-guide/) ties every topic in this cluster together, and the [troubleshooting walkthrough](/blog/usa-esim-troubleshooting/) handles anything that still fails.

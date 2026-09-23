@@ -157,10 +157,10 @@ The **best eSIM for business trip USA** depends on your specific needs. Here's h
 | Provider | Hotspot | US number | 30-day price | Best for |
 |:---------|:-------:|:---------:|:-----------:|:---------|
 | Tello | Uses plan data | Yes | $35 unlimited | Phone calls + data |
-| Ubigi | Unlimited | No | $24 (25GB) | Data-heavy, laptop users |
+| Ubigi | Unlimited | No | $32 (25GB) | Data-heavy, laptop users |
 | Google Fi | Full speed | Yes | $65 unlimited | Multi-device travelers |
 | AT&T Prepaid | Included | Yes | $30 (30GB) | Rural coverage needed |
-| Saily | Unlimited | No | $27 (10GB) | Privacy + tethering |
+| Saily | No | No | $22.99 (10GB) | Privacy + tethering |
 | **Roami** | **Unlimited** | **No** | **Varies by plan** | **Auto network switching + real support** |
 
 For business travelers who value reliability above all, [Roami's multi-network USA eSIM](/united-states-esim/) connects to the strongest available signal, whether you're in a Manhattan high-rise, a Las Vegas convention center, or a rural client site. Plans include unlimited tethering with real human support available 24/7.
@@ -418,6 +418,8 @@ Tello is the most cost-effective option for number retention at just $5/month fo
 
 ### Tax deductibility of eSIM costs for frequent travelers
 
+Frequent business travelers end up managing the plan as an asset rather than a purchase. Record the **EID** and **IMEI** of the handset you travel with, because restoring service after a lost or replaced phone is far quicker when both are on file. Keep the **APN** details for manual entry in case the corporate handset restricts automatic configuration. Check the **coverage map** for each destination before the trip, and read the **fair use** clause — **FUP** in most contracts — before planning a large hotspot session, since the **data cap** on a business-grade plan is usually a daily high-speed allowance rather than a hard stop. When you buy through an **MVNO** to cut cost, note that its **refund** policy is generally stricter than an operator's, and weigh that against support that answers outside business hours, which is the feature a client call actually depends on.
+
 For self-employed digital nomads and independent consultants, USA eSIM costs may be tax-deductible as a business expense. Here is how the deduction works:
 
 | Expense type | Deductibility | Documentation needed |
@@ -488,7 +490,7 @@ For business travelers who tether for 4+ hours daily, a power bank is essential.
 | Provider | North American coverage | Data | Price | Best for |
 |:---------|:-----------------------:|:----:|:-----:|:---------|
 | Ubigi | USA + Canada + Mexico | 10GB | $12 | US-based with Canada/Mexico trips |
-| Airalo | USA + Canada + Mexico | 5GB | $11 | Short multi-country trips |
+| Airalo | USA + Canada + Mexico | 5GB | $13.50 | Short multi-country trips |
 | Tello | USA only (Canada/Mexico roaming available) | 10GB | $15 | US-focused with occasional cross-border |
 | Google Fi | 200+ countries (including Canada/Mexico) | Unlimited | $65 | Frequent international traveler |
 | **Roami** | **USA + Canada + Mexico** | **Flexible** | **Varies** | **Auto network switching across borders** |
@@ -496,6 +498,16 @@ For business travelers who tether for 4+ hours daily, a power bank is essential.
 **Ubigi's 10GB North American plan at $12** is the best value for travelers visiting multiple countries. Tello offers Canada and Mexico roaming as an add-on, but it's cheaper to buy a North American plan from Ubigi or Airalo if you know you'll cross borders. Whichever option you pick, check whether the plan switches networks automatically at the border — otherwise you will be reselecting a carrier at every crossing.
 
 **Google Fi's Unlimited Premium** includes Canada and Mexico at no extra cost, making it a good choice for travelers with multi-country itineraries.
+
+A dedicated North America eSIM — usually searched as "esim usa canada mexico" or "eSIM for North America trip" — folds all three countries into a single profile. For business travelers the economics are one-sided: a regional North America multi country eSIM costs about the same as a US-only plan, while buying a separate eSIM in each country typically costs several times more and forces three separate installations mid-trip. Make the regional-vs-separate decision before departure, because a profile bought at a Canadian or Mexican counter may need local ID and payment methods you will not have on a connection.
+
+### eSIM for USA and Canada trips
+
+The most common business version of this itinerary is a Toronto, Vancouver, or Montreal meeting attached to a US trip. An eSIM for USA and Canada travel keeps the same profile working on both sides of the border; a US-only plan drops to no service the moment you cross, which is a real problem when your calendar has calls booked on a Canadian afternoon. Confirm that the plan you buy lists Canada as included coverage, not as an add-on you enable later.
+
+### USA and Mexico eSIM: border cities and cruise ports
+
+The same logic applies to a USA and Mexico eSIM: Tijuana day trips, El Paso–Ciudad Juárez crossings, or a cruise calling at Cozumel all take you briefly out of US coverage. Data-only regional plans handle these hops without any action from you; US carrier prepaid plans bundle Mexico roaming instead, which the [carrier plans guide](/blog/usa-esim-carrier-plans/) breaks down plan by plan.
 
 ### Cross-border connectivity considerations
 
@@ -617,7 +629,7 @@ If you switch phones during a trip (for example, if your primary phone runs out 
 | Ubigi | 25GB | 30 days | $32.00 | $1.28 | No |
 | Ubigi | 50GB | 30 days | $40.00 | $0.80 | No |
 | Holafly | Unlimited | 30 days | $73.90 | — | No |
-| Nomad | 20GB | 30 days | $22.00 (sale) | $1.10 | No |
+| Nomad | 20GB | 30 days | $36.00 | $1.80 | No |
 
 **50GB+ recommendation for a work month:** a carrier prepaid 50GB plan at $35 buys a genuine US number plus direct carrier service rather than a data-only profile, which is what makes it usable for client calls. Tello's unlimited at $25 is the better fit if you do not need a fixed 50GB ceiling, though the throttle after 50GB will show up in a heavy video-call month.
 
@@ -651,7 +663,7 @@ If tethering isn't working:
 - On iPhone, Personal Hotspot may not appear if the eSIM is set as the data line only — restarting the phone usually fixes this
 - On Samsung devices, hotspot may need to be enabled in the SIM Card Manager settings for the eSIM line
 - For more detailed fixes, the [USA eSIM troubleshooting guide](/blog/usa-esim-troubleshooting/) covers common connectivity problems including tethering issues
-- Apple's [Personal Hotspot support page](https://support.apple.com/en-us/HT212780) has troubleshooting steps for common iPhone tethering issues
+- Apple's [Personal Hotspot setup and fix guide](https://support.apple.com/en-us/111785) has troubleshooting steps for common iPhone tethering issues
 
 ### macOS hotspot configuration tips
 
@@ -755,7 +767,7 @@ Remember the tax point made earlier in this guide: the deductibility of business
 | Priority | Best provider | Plan | Why |
 |:---------|:--------------|:----:|:----|
 | **Best overall for business** | Tello | 10GB/$15 | Data + US number + cheap |
-| **Data-heavy remote work** | Ubigi | 25GB/$24 | Best per-GB rate, unlimited tethering |
+| **Data-heavy remote work** | Ubigi | 25GB/$32 | Best per-GB rate, unlimited tethering |
 | **Multi-device traveler** | Google Fi | Unlimited Premium $65/mo | Works on phones + tablets + laptops |
 | **Conference attendee** | Ubigi | 10GB/$12 | Cheap data for event apps |
 | **Frequent US visitor** | Tello | 5GB/$10/mo | Keep number between trips |
@@ -768,7 +780,7 @@ Remember the tax point made earlier in this guide: the deductibility of business
 
 | Business travel type | Best approach | Estimated monthly cost |
 |:---------------------|:--------------|:---------------------:|
-| City-based meetings (NY, SF, Chicago) | Ubigi 10-25GB | $12-24 |
+| City-based meetings (NY, SF, Chicago) | Ubigi 10-25GB | $14-32 |
 | Cross-country client visits | USA eSIM (auto-switching) or Nomad | $20-35 |
 | Conference attendee (5 days) | Ubigi 10GB | $12 |
 | Digital nomad (30+ days, need phone) | Tello unlimited | $35 |

@@ -81,7 +81,7 @@ Installing a USA eSIM takes roughly 2 minutes on most modern smartphones, but th
 
 This guide walks through every step: checking phone compatibility, buying the right plan, installing the eSIM profile, configuring dual SIM settings, and fixing common problems if something doesn't work. If you haven't chosen a provider yet, the [best eSIM for USA travel 2026](/blog/usa-esim-ranking-comparison-2026/) can help you pick one first.
 
-For travelers who want a simpler setup experience, a [multi-network USA eSIM](/united-states-esim/) handles carrier selection for you, so there is no manually toggling between T-Mobile, AT&T and Verizon.
+For travelers who want a simpler setup experience, a [USA eSIM that switches networks automatically](/united-states-esim/) handles carrier selection for you, so there is no manually toggling between T-Mobile, AT&T and Verizon.
 
 All instructions are based on iOS 18 and Android 15. Older versions may have slightly different menu names.
 
@@ -97,7 +97,7 @@ Not all phones work with eSIM. Before buying a plan, confirm yours is compatible
 
 ### USA eSIM compatible devices: iPhone
 
-Apple's [compatibility page](https://support.apple.com/en-us/HT212780) confirms these iPhone models support eSIM:
+These iPhone models all support eSIM, as confirmed by Apple's [eSIM setup requirements](https://support.apple.com/en-us/118669) and cross-checked against our [list of eSIM-compatible phones](/compatibility/):
 
 | Model | eSIM Support | Notes |
 |:------|:------------:|:------|
@@ -149,7 +149,7 @@ If your phone brand is not listed above, here are alternative ways to check comp
 
 | Phone brand | How to check | Official resource |
 |:------------|:-------------|:-----------------|
-| Apple | Settings -> General -> About -> Look for "EID" | [Apple eSIM support](https://support.apple.com/en-us/HT212780) |
+| Apple | Settings -> General -> About -> Look for "EID" | [Apple eSIM setup](https://support.apple.com/en-us/118669) |
 | Samsung | Settings -> About Phone -> Status -> SIM Card Status -> Look for "EID" | Samsung support website |
 | Google Pixel | Settings -> About Phone -> Model -> Check against Pixel eSIM list | [Google Fi compatibility](https://fi.google.com/compatibility) |
 | OnePlus | Dial `*#06#` and check for EID | OnePlus support |
@@ -177,18 +177,18 @@ If you purchased your phone in Mainland China, confirm eSIM support with the man
 
 ## USA eSIM setup guide: choose and buy the right plan
 
-Most providers offer plans ranging from 1GB to unlimited data. Here's a quick guide based on trip length. For a full price comparison, see the [USA eSIM price guide](/blog/usa-esim-price-guide/). For unlimited plans specifically, see the [USA eSIM unlimited data guide](/blog/usa-esim-unlimited-data-guide/).
+Most providers offer plans ranging from 1GB to unlimited data. Here's a quick guide based on trip length. For a full price comparison, see the [per-GB cost comparison](/blog/usa-esim-price-guide/). For unlimited plans specifically, see the [USA eSIM unlimited data guide](/blog/usa-esim-unlimited-data-guide/).
 
 | Provider | Starting price | Best for | Network |
 |:---------|:-------------:|:---------|:--------|
 | Ubigi | $4 for 1GB | Best overall value | T-Mobile |
 | Saily | $3.99 for 1GB | Short trips, easy setup | Not disclosed |
 | Tello | $5 for 1GB | Need a US phone number | T-Mobile |
-| Nomad | $4.00 for 1GB | Road trips, national parks | T-Mobile + AT&T + Verizon |
+| Nomad | $5.00 for 1GB | Road trips, national parks | T-Mobile + AT&T + Verizon |
 | Holafly | $20.50 for 5 days | Unlimited data | AT&T |
 | **Roami** | $2.99 for 1GB (3 days) | Auto network switching | T-Mobile + AT&T + Verizon |
 
-Buying is simple: go to the provider's website or app, select your plan, and pay. The QR code arrives by email within minutes. For a full breakdown of what each provider charges at every data tier, see the [USA eSIM price guide](/blog/usa-esim-price-guide/).
+Buying is simple: go to the provider's website or app, select your plan, and pay. The QR code arrives by email within minutes. For a full breakdown of what each provider charges at every data tier, see the [price-per-GB comparison](/blog/usa-esim-price-guide/).
 
 ### What happens after you buy
 
@@ -427,7 +427,7 @@ If your phone does not detect the eSIM after following the installation steps:
 4. **Reinstall the eSIM profile** — delete and reinstall (only if you have a backup of the QR code)
 5. **Contact provider support** — they can check if the profile is active on their end
 
-For persistent issues, see the [USA eSIM troubleshooting](/blog/usa-esim-troubleshooting/) guide.
+For persistent issues, see the [connection troubleshooting guide](/blog/usa-esim-troubleshooting/).
 
 ---
 
@@ -452,13 +452,13 @@ Most providers configure APN automatically, and on a current iPhone, Pixel or Ga
 
 **To set APN on Android:** Settings -> Connections -> Mobile Networks -> Access Point Names -> Add new APN.
 
-After entering the APN, restart your phone. Data usually starts working within 30 seconds. If APN doesn't work after manual entry, the USA eSIM troubleshooting guide covers advanced fixes. [TechRadar's eSIM troubleshooting guide](https://www.techradar.com/how-to/esim-troubleshooting-guide) also covers common APN issues across different devices.
+After entering the APN, restart your phone. Data usually starts working within 30 seconds. If APN doesn't work after manual entry, the USA eSIM troubleshooting guide covers advanced fixes. [Apple's official eSIM troubleshooting steps](https://support.apple.com/en-us/102478) cover the device-side causes of APN failures on iPhone.
 
 ### When you may need to enter the APN manually
 
 Auto-configuration depends on the provider having your device in its database, so it fails in a small, predictable set of cases: a much older handset, a rooted phone or custom ROM, a profile installed from a manual activation code rather than the QR image, and some first-generation eSIM phones. If data still does not work after installation and data roaming is confirmed ON, entering the APN by hand is the next step — the two settings screens above take under a minute to fill in.
 
-The [USA eSIM troubleshooting guide](/blog/usa-esim-troubleshooting/) owns the diagnostic path from there: it separates a genuine APN fault from the causes that look identical from the outside, such as the wrong line being selected for data, fair-use throttling, or a carrier-side activation that never completed. Working that order first saves most travelers a needless reinstall.
+The [full troubleshooting walkthrough](/blog/usa-esim-troubleshooting/) owns the diagnostic path from there: it separates a genuine APN fault from the causes that look identical from the outside, such as the wrong line being selected for data, fair-use throttling, or a carrier-side activation that never completed. Working that order first saves most travelers a needless reinstall.
 
 ---
 
@@ -604,13 +604,13 @@ If you have multiple eSIM profiles installed, label them clearly to avoid confus
 
 ---
 
-## Two things to check on your phone before flying
+## Two things to check on your phone before flying with an eSIM
 
 **The phone has no plastic SIM tray.** The current iPhone generation and the iPhone Air line ship in the US without a physical SIM slot, and that now covers more models every year. If you own one, you cannot fall back to a plastic tourist SIM at the airport because there is nowhere to put it. On these handsets a USA eSIM is not a convenience, it is the only option — so install it before you fly rather than planning to buy connectivity on arrival.
 
 **The handset may be carrier-locked.** Before buying any USA eSIM, check it: **Settings → General → About → Carrier Lock**. If that field reads "SIM Locked", the phone is tied to its original carrier and no travel eSIM will work until it is unlocked. Request the unlock before you travel; it is usually free once contract terms are met, but it can take a day or two. The alternative check is to insert a SIM from a different carrier and see whether the phone asks for an unlock code.
 
-## What happens when you land
+## What happens when you land with a USA eSIM
 
 The step people get wrong is not the scan, it is the timing: install at home on WiFi, leave the eSIM line switched off, then switch it on after landing. Here is the realistic sequence at the busiest US entry points.
 
@@ -640,11 +640,11 @@ For more detailed troubleshooting, [Reddit's r/eSIM community](https://www.reddi
 
 ### If the eSIM installs but finds no network
 
-Installation and registration are two different steps, and a profile can install cleanly while the phone still refuses to register. The usual causes are a carrier lock on the handset, or automatic network selection picking a network the profile cannot use — a common problem with providers that resell more than one carrier's network. The [USA eSIM troubleshooting guide](/blog/usa-esim-troubleshooting/) runs through manual network selection on iPhone, Samsung and Pixel, and works the carrier-lock cases in order of how often they turn out to be the real cause.
+Installation and registration are two different steps, and a profile can install cleanly while the phone still refuses to register. The usual causes are a carrier lock on the handset, or automatic network selection picking a network the profile cannot use — a common problem with providers that resell more than one carrier's network. The [symptom-by-symptom troubleshooting guide](/blog/usa-esim-troubleshooting/) runs through manual network selection on iPhone, Samsung and Pixel, and works the carrier-lock cases in order of how often they turn out to be the real cause.
 
 ### Phones where USA eSIM setup fails for a hardware reason
 
-A handful of models have eSIM limits that no amount of setup will fix. Check your exact model in the [device compatibility list](/compatibility/) before you buy a plan, so you do not discover the limit at the airport.
+A handful of models have eSIM limits that no amount of setup will fix. Check your exact model in the [list of compatible phones](/compatibility/) before you buy a plan, so you do not discover the limit at the airport.
 
 | Phone model | Known issue | Fix |
 |:------------|:------------|:-----|
@@ -689,7 +689,7 @@ Having those items ready cuts support resolution time from 30+ minutes to under 
 
 | Mistake | Cost impact | How to avoid |
 |:--------|:------------|:-------------|
-| Buying more data than needed | $10-50 overspend | Use the data calculator in the [USA eSIM price guide](/blog/usa-esim-price-guide/) |
+| Buying more data than needed | $10-50 overspend | Use the data calculator in the [tier-by-tier price comparison](/blog/usa-esim-price-guide/) |
 | Buying too little data and needing top-up | $5-15 extra fees | Buy 20% more than you estimate |
 | Activating at the wrong time | 1-2 days of lost validity | Activate upon arrival, not before |
 | Using hotspot without checking cap | Service disruption | Check hotspot policy before buying |
@@ -722,7 +722,7 @@ No. The QR code is single-use. If you delete the profile, you cannot reinstall i
 
 **On Android (Google Pixel):** Settings -> Network & Internet -> SIMs -> Tap the eSIM line. The current network is shown at the top.
 
-Knowing which network you are on helps troubleshoot connectivity issues. If you are connected to a network with known weak coverage in your area, manually switching to a different network may improve performance. For coverage by city, see the [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/).
+Knowing which network you are on helps troubleshoot connectivity issues. If you are connected to a network with known weak coverage in your area, manually switching to a different network may improve performance. For coverage by city, see the [coverage data by metro area](/blog/usa-esim-coverage-guide/).
 
 ### Can I use my USA eSIM in a phone without a physical SIM slot?
 

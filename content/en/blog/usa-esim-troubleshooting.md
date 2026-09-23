@@ -80,7 +80,7 @@ recentPosts:
 
 One in five first-time eSIM users encounters an activation or connectivity issue in the US. The most common problems — 'No Service' after landing, missing APN settings, and install-code failures — all trace to a small set of root causes each fixable in under 5 minutes.
 
-For coverage and pricing context, see the [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/) and [USA eSIM price guide](/blog/usa-esim-price-guide/).
+For coverage and pricing context, see the [regional coverage breakdown](/blog/usa-esim-coverage-guide/) and [USA eSIM cost comparison](/blog/usa-esim-price-guide/).
 
 ## USA eSIM not working after landing: quick fixes
 
@@ -94,7 +94,7 @@ If your **USA eSIM is not working after arrival**, try these four things first. 
 
 **4. Manually select a network.** Go to Settings → Cellular → Network Selection → turn OFF Automatic → wait for the list of networks to appear → try T-Mobile, AT&T, and Verizon one at a time. On Android: Settings → Network & Internet → Mobile Network → Network Operators.
 
-Apple's [iPhone eSIM support page](https://support.apple.com/en-us/HT212780) covers device-specific troubleshooting for iOS users who are still having issues after trying the steps above. [Google's Pixel eSIM support page](https://support.google.com/pixelphone/answer/9430468?hl=en) has similar guidance for Android users.
+Apple's [If you can't set up an eSIM on your iPhone](https://support.apple.com/en-us/102478) page covers device-specific troubleshooting for iOS users who are still having issues after trying the steps above. [Google's Pixel eSIM support page](https://support.google.com/pixelphone/answer/9430468?hl=en) has similar guidance for Android users.
 
 If none of these quick fixes help, move to the specific problem sections below. For installation steps, see the [USA eSIM setup guide](/blog/usa-esim-setup-guide/). For dual SIM configuration, see the [USA eSIM dual SIM setup](/blog/usa-esim-dual-sim-setup/) guide.
 
@@ -715,7 +715,7 @@ Manual network selection can solve many signal issues:
 2. Turn OFF "Choose automatically"
 3. Try each network
 
-**Why this works:** Different carriers have different signal strength in different locations. T-Mobile is fastest in cities, AT&T has the best rural coverage, Verizon reaches remote areas. Switching to the carrier with the strongest local signal fixes many connection problems. For a full coverage breakdown by city and region, see the [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/).
+**Why this works:** Different carriers have different signal strength in different locations. T-Mobile is fastest in cities, AT&T has the best rural coverage, Verizon reaches remote areas. Switching to the carrier with the strongest local signal fixes many connection problems. For a full coverage breakdown by city and region, see the [coverage data by city](/blog/usa-esim-coverage-guide/).
 
 For measured, current carrier strength, Opensignal's [USA Mobile Network Experience report (January 2026)](https://insights.opensignal.com/reports/2026/01/usa/mobile-network-experience) ranks Coverage Experience out of 10 as Verizon 9.7, AT&T 9.3 and T-Mobile 9.0, and 5G Availability as T-Mobile 91.2%, AT&T 88.7% and Verizon 59.3%. Use it to judge which carrier is genuinely strongest at your location before you rely on manual selection.
 

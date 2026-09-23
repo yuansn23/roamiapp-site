@@ -6,7 +6,7 @@ date: 2026-09-22T00:00:00Z
 lastmod: 2026-09-22T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
-image: "/img/esim/usa/usa-esim-carrier-plans.jpg"
+image: "/img/esim/usa/usa-esim-carrier-plans.webp"
 categories: ["eSIM", "Travel", "USA"]
 tags: ["USA eSIM"]
 readingTime: 15
@@ -83,7 +83,7 @@ When comparing USA prepaid eSIM plans, T-Mobile, AT&T, and Verizon each cover th
 
 These carrier plans have two advantages that international providers can't match: native network priority and physical store support. The trade-off is higher cost per GB and a more involved setup process.
 
-This guide compares USA eSIM prepaid options from all three carriers, explains when they're worth choosing over international providers, and walks through what you need to sign up. The [CTIA](https://www.ctia.org/) represents the US wireless industry and documents how carriers handle number portability and eSIM standards. For a broader comparison that includes international providers, the [USA eSIM provider comparison](/blog/usa-esim-provider-comparison/) covers both categories side by side. For overall rankings, see the [best eSIM for USA travel 2026](/blog/usa-esim-ranking-comparison-2026/).
+This guide compares USA eSIM prepaid options from all three carriers, explains when they're worth choosing over international providers, and walks through what you need to sign up. The [CTIA](https://www.ctia.org/about-ctia) represents the US wireless industry and documents how carriers handle number portability and eSIM standards. For a broader comparison that includes international providers, the [USA eSIM provider comparison](/blog/usa-esim-provider-comparison/) covers both categories side by side. For overall rankings, see the [best eSIM for USA travel 2026](/blog/usa-esim-ranking-comparison-2026/).
 
 If you're planning a longer stay or want a US phone number without the carrier premium, MVNOs like Tello, Mint Mobile, and Ultra Mobile offer cheaper alternatives, covered below. For a full breakdown of voice-enabled plans, see the [USA eSIM with phone number](/blog/usa-esim-with-phone-number/).
 
@@ -93,20 +93,22 @@ If you want to skip ID verification and store visits, a data-only eSIM installs 
 
 ## Quick comparison: USA prepaid eSIM plans from T-Mobile, AT&T and Verizon
 
-> **Key takeaways:** No single network wins everywhere — T-Mobile Prepaid offers the fastest 5G in cities (from 5GB at $10), AT&T Prepaid is the safest choice for balanced and rural coverage (30GB at $30), and Verizon Prepaid reaches the most remote areas (5GB at $12). For a budget US number, MVNO Tello starts at 5GB for $10, while Twise offers AT&T's network at $14 for 5GB. USA eSIM carrier plans cost more per GB and require ID verification plus a longer setup than international eSIMs. The main caveat is that all three carriers deprioritize prepaid data during congestion, which can slow speeds in busy city centers.
+> **Key takeaways:** No single network wins everywhere — T-Mobile Prepaid is the fastest 5G in cities and the only carrier selling a dedicated visitor eSIM (its U.S. Pass runs 7 days for $25, 10 days for $30 and 14 days for $35), AT&T Prepaid is the safest choice for balanced and rural coverage (Unlimited Saver from $35/month), and Verizon Prepaid reaches the most remote areas (15GB from $35/month). For a budget US number, MVNO Tello starts at 5GB for $10. USA eSIM carrier plans cost more per GB and require ID verification plus a longer setup than international eSIMs. The main caveat is that all three carriers deprioritize prepaid data during congestion, which can slow speeds in busy city centers. All carrier prices below were read from the carriers' own prepaid plan pages in September 2026 and exclude taxes and fees.
 
-| Carrier | 7-day price | 15-day price | 30-day price | US number | Hotspot |
-|:--------|:----------:|:-----------:|:-----------:|:---------:|:-------:|
-| T-Mobile | 5GB/$10 | 15GB/$15 | 30GB/$25 | Yes | Included |
-| AT&T | 5GB/$10 | 15GB/$15 | 30GB/$30 | Yes | Included |
-| Verizon | 5GB/$12 | 15GB/$18 | 25GB/$30 | Yes | Included |
-| Tello | N/A | N/A | 5GB/$10 | Yes | Included |
-| Mint Mobile | N/A | N/A | 5GB/$15 | Yes | Included |
-| Ultra Mobile | N/A | N/A | 10GB/$20 | Yes | Included |
-| Twise | N/A | N/A | 5GB/$14 | No | Included |
-| BazTel | N/A | N/A | 5GB/$12 | No | Included |
+| Carrier | Entry tier | Mid tier | Top tier | US number | Hotspot |
+|:--------|:-----------|:---------|:---------|:---------:|:-------:|
+| T-Mobile Prepaid | Starter Monthly $40/mo | Unlimited Monthly $45/mo (AutoPay) | Unlimited Plus Monthly $65/mo | Yes | Included (3G speeds on Unlimited) |
+| T-Mobile U.S. Pass (visitor eSIM) | 7 days — $25 | 10 days — $30 | 14 days — $35 | Yes | Included (14-28GB) |
+| AT&T Prepaid | Unlimited Saver $35/mo | 12-month unlimited $20/mo (prepay $240) | 50GB tablet/hotspot $55/mo | Yes | Included (add 5GB for $10) |
+| Verizon Prepaid | 15GB $35/mo (AutoPay) | Unlimited $50/mo | Unlimited Plus $60/mo | Yes | Included (5GB / 25GB) |
+| Tello (MVNO) | 5GB $10 | 10GB $15 | Unlimited $25 | Yes | Included |
+| Mint Mobile (MVNO) | 5GB $15/mo | 15GB $20/mo | 20GB $25/mo | Yes | Included |
+| Ultra Mobile (MVNO) | 3GB $15 | 10GB $20 | 30GB $30 | Yes | Included |
+| RedPocket (MVNO) | Essentials $10/mo (3GB) | Plus $20/mo (20GB) | Premium $30/mo (50GB) | Yes | Included (10GB on Premium) |
 
-For a USA eSIM, all carriers include a real US phone number (except Twise and BazTel), 5G access (where available), and the ability to walk into a physical store for help.
+For a USA eSIM, all carriers include a real US phone number (the only exception is data-only reseller plans such as Twise's roaming tier), 5G access (where available), and the ability to walk into a physical store for help.
+
+Carrier prices move faster than most roundups admit, so verify the current figure on the carrier's own page before you commit — the prepaid line-ups are published at tmobile.com, att.com and verizon.com, and promotional rates expire without warning.
 
 ### 5G speed comparison across carrier prepaid plans
 
@@ -155,9 +157,9 @@ The T-Mobile tourist eSIM has the fastest activation process among the big three
 
 | Network | Urban speed | Rural coverage | Prepaid eSIM | Price (entry) | Best for |
 |:--------|:----------:|:--------------:|:-----------:|:------------:|:---------|
-| **T-Mobile** | Excellent | Below average | Yes | $10/mo | City travelers |
-| **AT&T** | Very good | Very good | Yes | $10/mo | Balanced coverage |
-| **Verizon** | Good | Excellent | Yes | $12/mo | National parks & rural |
+| **T-Mobile** | Excellent | Below average | Yes | $40/mo | City travelers |
+| **AT&T** | Very good | Very good | Yes | $35/mo | Balanced coverage |
+| **Verizon** | Good | Excellent | Yes | $35/mo | National parks & rural |
 
 There's no single "best" network — the right choice depends entirely on your itinerary. Here's a quick breakdown:
 
@@ -200,15 +202,19 @@ T-Mobile's 5G uses the 600MHz band (n71), which provides better range and buildi
 
 T-Mobile is widely recognized as the fastest US carrier for 5G download speeds. T-Mobile tourist USA eSIM plans are competitively priced and include a US number.
 
-**Plans:**
-| Data | Validity | Price |
-|:----|:---------|:-----|
-| 5 GB | 7 days | $10.00 |
-| 15 GB | 15 days | $15.00 |
-| 30 GB | 30 days | $25.00 |
-| 50 GB | 30 days | $35.00 |
+**Plans (T-Mobile Prepaid, verified September 2026):**
+| Plan | Validity | Price |
+|:-----|:---------|:-----|
+| Starter Monthly | 30 days | $40.00/mo |
+| Unlimited Monthly | 30 days | $45.00/mo (AutoPay) |
+| Unlimited Plus Monthly | 30 days | $65.00/mo |
+| U.S. Pass eSIM (visitor plan) | 7 days | $25.00 |
+| U.S. Pass eSIM (visitor plan) | 10 days | $30.00 |
+| U.S. Pass eSIM (visitor plan) | 14 days | $35.00 |
 
-**Setup:** Download the T-Mobile prepaid app, select a plan, and complete ID verification with your passport. The eSIM installs automatically.
+The U.S. Pass plans are the ones built for visitors: eSIM only, no ID needed, and they must be bought and activated after you land in the US. The 14-day pass includes unlimited data with 50GB at premium 5G speeds and 28GB of high-speed hotspot, plus roaming in Canada and Mexico.
+
+**Setup:** Buy a U.S. Pass inside the T-Mobile Prepaid eSIM app once you are in the US, or download the T-Mobile prepaid app and complete ID verification with your passport for a monthly plan. The eSIM installs automatically.
 
 **Strengths:** Fastest 5G speeds in cities. Physical stores nationwide. US phone number.
 
@@ -250,12 +256,12 @@ T-Mobile is the most foreign-tourist-friendly of the three major carriers. Its p
 
 This AT&T prepaid USA eSIM review confirms it has the best rural coverage of any US carrier. If your trip involves national parks, small towns, or long highway drives, AT&T's prepaid plan is your most reliable native carrier option.
 
-**Plans:**
-| Data | Validity | Price |
-|:----|:---------|:-----|
-| 5 GB | 7 days | $10.00 |
-| 15 GB | 15 days | $15.00 |
-| 30 GB | 30 days | $30.00 |
+**Plans (AT&T Prepaid, verified September 2026):**
+| Plan | Validity | Price |
+|:-----|:---------|:-----|
+| Unlimited Saver (30GB at up to 3 Mbps, then 1.5 Mbps) | 30 days | $35.00/mo |
+| 12-month unlimited + 10GB hotspot | 12 months | $20.00/mo (prepay $240) |
+| 50GB tablet / hotspot plan | 30 days | $55.00/mo |
 
 **Setup:** Requires ID verification (passport upload) and account creation. More steps than international eSIMs.
 
@@ -304,12 +310,12 @@ The 480p video throttle on AT&T prepaid plans is a notable limitation for travel
 
 Verizon USA eSIM for travelers offers the largest 4G LTE footprint in the US. Plan tiers and validity windows below follow [Verizon's own prepaid pages](https://www.verizon.com/prepaid/). For very remote destinations — interior Alaska, the Utah backcountry, the Montana plains — Verizon is often the only carrier that works.
 
-**Plans:**
-| Data | Validity | Price |
-|:----|:---------|:-----|
-| 5 GB | 7 days | $12.00 |
-| 15 GB | 15 days | $18.00 |
-| 25 GB | 30 days | $30.00 |
+**Plans (Verizon Prepaid, verified September 2026):**
+| Plan | Validity | Price |
+|:-----|:---------|:-----|
+| 15GB | 30 days | $35.00/mo (AutoPay) |
+| Unlimited (5GB hotspot) | 30 days | $50.00/mo (AutoPay) |
+| Unlimited Plus (50GB premium, 25GB hotspot) | 30 days | $60.00/mo (AutoPay) |
 
 **Strengths:** Largest LTE coverage footprint. US phone number. Physical stores.
 
@@ -342,7 +348,7 @@ Activating a Verizon prepaid eSIM as a non-US resident requires the following st
 3. **Choose "Prepaid"** as your account type
 4. **Complete ID verification** — upload a clear photo of your passport
 5. **Enter your current address** — a hotel address is acceptable
-6. **Select and purchase your plan** — 5GB/7d ($12), 15GB/15d ($18), or 25GB/30d ($30)
+6. **Select and purchase your plan** — 15GB/30d ($35), Unlimited ($50) or Unlimited Plus ($60), priced with AutoPay
 7. **Install the eSIM profile** — the app will guide you through installation
 8. **Restart your iPhone or Android device** to complete activation
 
@@ -404,45 +410,38 @@ Ultra Mobile (also on T-Mobile's network) offers flexible prepaid plans with US 
 
 **Best for:** Travelers who need unlimited domestic calling as well as data.
 
-### Twise USA eSIM AT&T network review
+### Twise USA eSIM: AT&T and T-Mobile travel plans
 
-Twise uses AT&T's network and offers prepaid eSIMs with a focus on rural coverage.
+Twise is a travel eSIM retailer rather than a network owner: it resells USA plans that run on AT&T and on T-Mobile, so you inherit AT&T's rural reach without paying AT&T's prepaid rate. It sells the plans in two forms — **local** plans that come with a US number plus calls and SMS, and cheaper **roaming data-only** plans that have no US number.
 
-**Plans:**
-| Data | Validity | Price | US number |
-|:----|:---------|:-----:|:---------:|
-| 5 GB | 30 days | $14.00 | No |
-| 10 GB | 30 days | $22.00 | No |
-| 20 GB | 30 days | $34.00 | No |
+**Twise USA eSIM** pricing is published per plan on Twise's own site rather than as a fixed rate card, and the entry offer is a daily-data plan of 1 GB per day for 15 days at roughly $15. Because the tiers move with promotions, verify the live price at checkout rather than relying on a cached table. Support is chat and email rather than a store counter.
 
-**Twise USA eSIM AT&T network review** highlights: The biggest advantage is AT&T's rural coverage without the $30/month carrier premium. Setup is easier than AT&T's own prepaid process. The downside is no US phone number — it's data-only.
+**Best for:** Rural travelers who want AT&T or T-Mobile coverage and are comfortable buying from a reseller.
 
-**Best for:** Rural travelers who don't need a US phone number and want AT&T coverage at a lower price.
+### RedPocket USA eSIM cheap plans
 
-### BazTel USA eSIM cheap plans
+RedPocket is one of the few MVNOs that lets you choose your network at checkout — the same $10 plan can run on T-Mobile, AT&T or Verizon — and its Essentials tier is the cheapest verified way to get a US number and usable data in one line. Every RedPocket plan includes unlimited talk and text, so a US number comes at no premium over data-only rivals.
 
-BazTel is one of the cheapest MVNO options, using T-Mobile's network with very aggressive pricing.
+**Plans (monthly, from RedPocket's own site):**
+| Plan | Data | Validity | Price | US number |
+|:----|:---------|:-----:|:---------:|:---------:|
+| Essentials | 3 GB high-speed | 30 days | $10.00 | Yes |
+| Plus | 20 GB high-speed | 30 days | $20.00 | Yes |
+| Premium | 50 GB high-speed, then throttled | 30 days | $30.00 | Yes |
 
-**Plans:**
-| Data | Validity | Price | US number |
-|:----|:---------|:-----:|:---------:|
-| 3 GB | 30 days | $10.00 | No |
-| 5 GB | 30 days | $12.00 | No |
-| 10 GB | 30 days | $18.00 | No |
+**RedPocket USA eSIM cheap plans** land at the same $10 entry price as Tello while adding a choice of network, and the plan keeps working at reduced speeds after the high-speed allowance runs out instead of cutting you off — 150 Mbps on the GSMA network, 1 Mbps on the others. Annual billing cuts the rate further: Essentials is $120 for twelve months.
 
-**BazTel USA eSIM cheap plans** are the cheapest option for travelers who just need data and don't care about a US number. The 5GB plan at $12 is half the cost of the carrier plans for the same data volume.
-
-**Best for:** Budget-conscious travelers who only need data and are staying in city areas.
+**Best for:** Budget-conscious travelers who want a US number, a say in which network they use, and a plan that still works after the data cap.
 
 ### MVNO comparison summary
 
 | MVNO | Network | Starting price | US number | Best for |
 |:-----|:--------|:-------------:|:---------:|:---------|
-| Tello | T-Mobile | $5/mo | Yes | Budget + phone number |
+| Tello | T-Mobile | $5/mo (1GB) | Yes | Budget + phone number |
 | Mint Mobile | T-Mobile | $15/mo (3-mo) | Yes | Longer stays |
 | Ultra Mobile | T-Mobile | $15/mo | Yes | International calling |
-| Twise | AT&T | $14/mo | No | Rural, data-only |
-| BazTel | T-Mobile | $10/mo | No | Cheapest data |
+| Twise | AT&T + T-Mobile | ~$15 per plan | Local plans only | Rural, reseller |
+| RedPocket | T-Mobile, AT&T or Verizon | $10/mo (3GB) | Yes | Cheapest number + data |
 
 For troubleshooting, see the [USA eSIM troubleshooting](/blog/usa-esim-troubleshooting/) guide.
 
@@ -469,14 +468,14 @@ For troubleshooting, see the [USA eSIM troubleshooting](/blog/usa-esim-troublesh
 
 Here is the actual cost difference between the three categories at common data tiers:
 
-| Data tier | Carrier prepaid | MVNO | International eSIM | Savings (carrier → intl) |
-|:----------|:--------------:|:----:|:------------------:|:------------------------:|
-| 5GB/7 days | $10 (T-Mo) | N/A | $8 (Airalo) | $2 (20%) |
-| 10GB/30 days | $25 (T-Mo) | $18 (BazTel) | $12 (Ubigi) | $13 (52%) |
-| 25GB/30 days | $25 (T-Mo 30GB) | $25 (Tello 25GB) | $24 (Ubigi 25GB) | Comparable |
-| 50GB/30 days | $35 (T-Mo 50GB) | N/A | N/A | N/A |
+| Data tier | Carrier prepaid | MVNO | International eSIM | Cheapest of the three |
+|:----------|:--------------:|:----:|:------------------:|:----------------------|
+| ~5GB | T-Mobile U.S. Pass, 7 days — $25 | Tello 5GB — $10 | Airalo 5GB/30 days — $13.50 | Tello ($10) |
+| ~10GB | AT&T 12-month unlimited — $20/mo (prepay $240) | Tello 10GB — $15 | Ubigi 10GB/30 days — $14 | Ubigi ($14) |
+| ~25GB | Verizon 15GB — $35 | Tello 25GB — $25 | Ubigi 25GB/30 days — $32 | Tello ($25) |
+| ~50GB | AT&T 50GB tablet/hotspot — $55 | — | Nomad 50GB/30 days — $57 | AT&T ($55) |
 
-**Savings analysis:** For short-term data needs (under 10GB), international eSIMs offer significant savings over carrier prepaid plans — up to 52% for a 10GB plan. For heavy data users (25GB+), the price gap narrows considerably. T-Mobile's 30GB prepaid plan at $25 is actually cheaper than most MVNO and international options at the same data tier. For a full breakdown of all plan prices, see the [USA eSIM price guide](/blog/usa-esim-price-guide/).
+**Savings analysis:** The gap depends entirely on how much data you buy and how fast you buy it. At small volumes a data-only international eSIM is decisively cheaper — Ubigi's 10GB month costs $14 against $35 for the cheapest 15GB carrier prepaid plan. At high volumes the carrier wins: AT&T's $240 prepaid year works out to $20/month for unlimited data, and Verizon's $35 entry tier buys 15GB with a real US number. What never closes is the setup gap: an international eSIM is installed before you fly, while every carrier prepaid plan here needs a passport check and an app-based activation after you land. For a full breakdown of all plan prices, see the [USA eSIM price comparison](/blog/usa-esim-price-guide/).
 
 ### When carrier deprioritization matters
 
@@ -496,7 +495,7 @@ Prepaid plans from all three carriers are subject to deprioritization — meanin
 
 If your road trip goes through small towns, national parks, or the rural Southwest, **AT&T Prepaid** is your best option among carrier plans. AT&T has significantly better rural coverage than T-Mobile and comparable reach to Verizon in most areas. For very remote destinations like Alaska or the Utah backcountry, **Verizon Prepaid** is the safest choice. T-Mobile Prepaid is best for city-focused road trips where you want the fastest 5G speeds.
 
-For travelers who want AT&T coverage without the carrier price, **Twise US eSIM AT&T network** at $14 for 5GB is a better value than AT&T's own $30 prepaid plan. For a detailed route-by-route analysis, see the [best eSIM for USA road trip](/blog/usa-esim-road-trip-guide/) guide.
+For travelers who want AT&T coverage without the carrier price, **Twise** resells AT&T-based USA plans for noticeably less than AT&T's own prepaid rate — its local plans also carry a US number, which data-only eSIMs cannot. For a detailed route-by-route analysis, see the [best eSIM for USA road trip](/blog/usa-esim-road-trip-guide/) guide.
 
 ### Road trip coverage by interstate highway
 
@@ -554,7 +553,7 @@ All three major carriers provide downloadable invoices that include the plan nam
 | Mint Mobile | No | Passport + email |
 | Ultra Mobile | No | Passport + email |
 | Twise | No | Email only |
-| BazTel | No | Email only |
+| RedPocket | No | Email only |
 
 T-Mobile's international visitor plans don't require a US address. AT&T and Verizon may ask for one — a hotel address works. Most MVNOs (Tello, Mint, Ultra) accept passport verification and a foreign address.
 
@@ -578,7 +577,7 @@ If verification fails repeatedly, visit a carrier store (T-Mobile, AT&T, Verizon
 
 A carrier prepaid plan is a single-network product. That is usually an acceptable trade, and it stops being one when a match day or a convention puts tens of thousands of people on the same few blocks: a prepaid plan gives you no fallback when its network congests at the venue.
 
-A tournament itinerary almost always crosses a border as well — Toronto and Vancouver host matches too — so a US-only plan stops working exactly when you need it. A North America regional plan, or a USA eSIM that can use more than one network, covers both cases. [CTIA](https://www.ctia.org/) maintains the US industry guidance on line provisioning if you want the underlying carrier rules, and the host-city congestion breakdown is in the [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/).
+A tournament itinerary almost always crosses a border as well — Toronto and Vancouver host matches too — so a US-only plan stops working exactly when you need it. A North America regional plan, or a USA eSIM that can use more than one network, covers both cases. [CTIA's industry guidance](https://www.ctia.org/about-ctia) explains the US rules on line provisioning if you want the underlying carrier rules, and the host-city congestion breakdown is in the [USA eSIM coverage comparison](/blog/usa-esim-coverage-guide/).
 
 ## How to Set Up a Carrier Prepaid eSIM as a Tourist
 
@@ -590,7 +589,7 @@ The setup process differs from international eSIMs because carriers require ID v
 
 **Verizon:** Download the My Verizon app, select "Activate Prepaid eSIM," complete ID verification, and install.
 
-**MVNOs (Tello, Mint, Ultra, Twise, BazTel):** Download the provider's app, select your plan, complete verification, and install. Most MVNOs have simpler setup than the big three.
+**MVNOs (Tello, Mint, Ultra, RedPocket, Twise):** Download the provider's app, select your plan, complete verification, and install. Most MVNOs have simpler setup than the big three.
 
 In all cases, expect the process to take 10-15 minutes — longer than scanning an international eSIM QR code, but you get a US phone number and store support in return.
 
@@ -658,10 +657,10 @@ Step-by-step Verizon prepaid eSIM activation:
 ## USA prepaid eSIM questions answered
 
 ### Which US network is best for a prepaid eSIM: T-Mobile, AT&T or Verizon?
-It depends on your itinerary. For city travel, T-Mobile is fastest. For balanced coverage, AT&T is the safest choice. For remote rural areas, Verizon reaches the most places. If you're unsure where you'll end up, AT&T is the best compromise. For budget-conscious travelers who want AT&T's rural coverage, Twise USA eSIM AT&T network offers the same network at half the carrier price.
+It depends on your itinerary. For city travel, T-Mobile is fastest. For balanced coverage, AT&T is the safest choice. For remote rural areas, Verizon reaches the most places. If you're unsure where you'll end up, AT&T is the best compromise. For budget-conscious travelers who want AT&T's rural coverage, Twise resells AT&T-based USA plans for well under the carrier's own prepaid rate.
 
 ### Do I need a US address for a USA eSIM?
-T-Mobile's international visitor plans don't require a US address. AT&T and Verizon may ask for one — a hotel address works. Most MVNOs including Tello, Mint Mobile, and Ultra Mobile accept passport verification and do not require a US address. Twise and BazTel don't require a US address at all.
+T-Mobile's international visitor plans don't require a US address. AT&T and Verizon may ask for one — a hotel address works. Most MVNOs including Tello, Mint Mobile, and Ultra Mobile accept passport verification and do not require a US address. Twise and RedPocket don't require a US address at all.
 
 ### Which carrier charges the least in taxes and fees?
 T-Mobile adds the lowest taxes and fees on prepaid plans, typically 8-12% on top of the advertised price. AT&T adds 12-18%. Verizon adds 15-25%. These vary by state — New York and California have the highest telecom taxes. Texas and Florida are moderate. If you're on a tight budget, factor in 15% minimum for any carrier prepaid plan.
@@ -760,7 +759,7 @@ Tello is the only provider that allows you to pause your plan (and number retent
 
 None of this is irreversible: a [free trial plan](/free-esim/) lets you test how an eSIM behaves on your phone before you commit to a carrier plan.
 
-Carrier prepaid pricing above follows [T-Mobile's](https://www.t-mobile.com/) and [AT&T's](https://www.att.com/) own prepaid pages.
+Carrier prepaid pricing above follows [T-Mobile Prepaid's](https://prepaid.t-mobile.com/prepaid-plans) and [AT&T Prepaid's](https://www.att.com/prepaid/plans/) own plan pages.
 
 Market-level network scoring comes from [Opensignal's USA Mobile Network Experience report](https://insights.opensignal.com/reports/2026/01/usa/mobile-network-experience).
 
@@ -771,4 +770,4 @@ Choosing between carrier-based and international USA eSIM plans ultimately depen
 
 For everything that sits outside carrier prepaid, the [USA eSIM complete guide](/blog/usa-esim-complete-guide/) covers the full picture, and the [USA eSIM dual SIM setup](/blog/usa-esim-dual-sim-setup/) guide covers running two lines.
 
-Current plan pricing sits in the [USA eSIM price guide](/blog/usa-esim-price-guide/).
+Current plan pricing sits in the [per-GB cost comparison](/blog/usa-esim-price-guide/).

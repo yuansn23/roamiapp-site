@@ -77,7 +77,7 @@ recentPosts:
     permalink: "/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/"
     date: "2026-05-20"
 ---
-For coverage across US cities, see the [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/).
+For coverage across US cities, see the [coverage comparison by carrier](/blog/usa-esim-coverage-guide/).
 
 Dual-SIM configurations are now common among international travelers, and the ability to keep your home SIM active alongside an eSIM is a major advantage. The biggest benefit of eSIM over a physical tourist SIM is keeping your home number active for 2FA codes, WhatsApp, and banking verification.
 
@@ -236,7 +236,7 @@ If you need to temporarily switch data back to your home SIM (for example, if yo
 2. Tap Mobile Data →select the line you want to use
 3. To switch back, repeat and select the other line
 
-**Important:** Only switch data to your home SIM if you have an international roaming plan and understand the costs. Without a roaming plan, home SIM data charges can be $10-15 per MB — the most expensive way to use data in the US. Apple's [dual SIM support page](https://support.apple.com/en-us/HT212780) explains how iPhone handles multiple lines, and [Google's Pixel support page](https://support.google.com/pixelphone/answer/9430468?hl=en) covers Android dual SIM configuration.
+**Important:** Only switch data to your home SIM if you have an international roaming plan and understand the costs. Without a roaming plan, home SIM data charges can be $10-15 per MB — the most expensive way to use data in the US. Apple's [Using Dual SIM with an eSIM guide](https://support.apple.com/en-us/109317) explains how iPhone handles multiple lines, and [Google's Pixel support page](https://support.google.com/pixelphone/answer/9430468?hl=en) covers Android dual SIM configuration.
 
 ---
 
@@ -333,7 +333,7 @@ Understanding how calls are routed helps you avoid unexpected charges:
 4. Go to Settings →Cellular →Network Selection →turn OFF Automatic →try each carrier (T-Mobile, AT&T, Verizon)
 5. If still no service, the phone may be carrier-locked. Contact your home carrier to unlock
 
-Providers with live human support can often resolve no-service issues faster than chatbot-only systems. If your phone still says "No Service" after these steps, check the [USA eSIM troubleshooting](/blog/usa-esim-troubleshooting/) guide for detailed fixes.
+Providers with live human support can often resolve no-service issues faster than chatbot-only systems. If your phone still says "No Service" after these steps, check the [connection troubleshooting guide](/blog/usa-esim-troubleshooting/) for detailed fixes.
 
 ### Cannot receive SMS OTP
 
@@ -531,6 +531,8 @@ If you're deciding between buying a physical tourist SIM at the airport and usin
 
 ## Testing your USA eSIM dual SIM setup before you travel
 
+Treat the switch-over as a test flight rather than a formality. Check that the **EID** and **IMEI** the provider asked for match the handset you will actually travel with, then run one **hotspot** or **tethering** session to confirm data sharing is not blocked on the eSIM line. Look at the **coverage map** for the first city on the itinerary rather than for the country as a whole, because the decision you are testing is whether your two lines cover the same places. Read the **fair use** section — normally shortened to **FUP** in the terms — so you know what **latency** and speed look like after the threshold rather than at the start of the cycle, and confirm that a **top-up** can be bought in-app if the allowance runs short. If the plan came from an **MVNO** rather than the operator itself, the **refund** window is usually narrower, which is one more reason to finish the test before departure instead of after arrival.
+
 The worst time to discover a configuration problem is after you've landed in the US without data. Test your setup before you leave:
 
 **Step 1: Install the eSIM at home (on WiFi).** Purchase your USA eSIM and install the profile while you're still at home connected to WiFi. The QR code scan or app-based installation works over any internet connection. Once installed, the eSIM profile sits on your phone waiting for a US network to connect to.
@@ -572,7 +574,7 @@ WhatsApp and iMessage work over data. Since your home number is still active on 
 Most phones support one physical SIM and one eSIM simultaneously. Some newer phones (iPhone 13 and later, Samsung S22 and later, Google Pixel 7 and later) support dual eSIM — two eSIMs active at once. Check your phone's specifications. The setup steps are the same as eSIM + physical SIM; you just configure both lines as eSIMs in the same menus.
 
 ### What should I do if my eSIM is not connecting to a US network after landing?
-Try turning off automatic network selection and manually connect to T-Mobile, AT&T, or Verizon. This often works when the phone can't automatically find the right network. Go to Settings →Cellular →Network Selection →turn OFF Automatic →try each carrier one by one. If none work, contact your eSIM provider's support. For detailed troubleshooting, see the [USA eSIM troubleshooting](/blog/usa-esim-troubleshooting/) guide.
+Try turning off automatic network selection and manually connect to T-Mobile, AT&T, or Verizon. This often works when the phone can't automatically find the right network. Go to Settings →Cellular →Network Selection →turn OFF Automatic →try each carrier one by one. If none work, contact your eSIM provider's support. For detailed troubleshooting, see the [activation troubleshooting guide](/blog/usa-esim-troubleshooting/).
 
 ### Does dual SIM affect 5G performance?
 In most cases, no. Your eSIM should get the same 5G speeds it would get as a single SIM. However, on some phones (particularly older models), running two SIMs can limit 5G to a single SIM or switch the secondary SIM to 4G LTE. This is a hardware limitation, not a setting issue. iPhone 13 and later, Samsung Galaxy S22 and later, and Google Pixel 7 and later all maintain full 5G on both SIMs simultaneously.

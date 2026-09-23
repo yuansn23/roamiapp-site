@@ -153,6 +153,8 @@ The **best eSIM for New York** offers excellent signal across all three major ca
 
 T-Mobile leads in New York's 5G availability, with Verizon strongest for overall consistency in the outer boroughs.
 
+**NYC coverage checklist before you buy.** New York is the densest test of a travel eSIM in the country, and four things decide whether it will work for you. Check the provider's **coverage map** for the specific boroughs you will spend time in rather than for "New York" as a whole, because the outer boroughs sit closer to the edge of T-Mobile's mid-band footprint than Manhattan does. Confirm the **data cap** and the **fair use** threshold, since a day of map searches and photo uploads in NYC drains a small plan faster than a beach week does. Keep the **APN** details the provider emails you, because a manual APN entry is the most common reason a profile that worked elsewhere in the USA stops working here. And if nothing connects on arrival, the first check is whether the profile finished installing — the activation page shows your **EID** and whether it has been bound to a plan — followed by the **IMEI** if the profile refuses to install at all. Finally, confirm that a **top-up** can be bought in-app, since buying a second plan is the usual fix when a short-trip allowance runs out.
+
 ### Borough-by-borough breakdown
 
 **Manhattan:** T-Mobile dominates in Midtown, the Financial District, and Chelsea with the fastest speeds. AT&T performs best in Upper East Side and Upper West Side. Verizon has the most consistent reach across the entire borough, though its speeds are lower than T-Mobile's in most areas.
@@ -245,7 +247,7 @@ Chicago is dominated by T-Mobile in the city itself. Finding the best eSIM for C
 
 ---
 
-## Las Vegas and the Nevada desert: signal on and off the Strip
+## Las Vegas and the Nevada desert: USA eSIM signal on and off the Strip
 
 Reception is excellent on the Strip and downtown. T-Mobile has the fastest speeds on the Strip — fast download speeds in the busiest areas. AT&T and Verizon are both reliable, with Verizon slightly ahead for signal inside large casino hotels.
 
@@ -295,7 +297,7 @@ Signal is strong across all three carriers in the city proper. This USA eSIM net
 
 ---
 
-## Denver and the Colorado mountains: altitude and coverage
+## Denver and the Colorado mountains: USA eSIM coverage at altitude
 
 Reception is strong in the city itself. T-Mobile has fast 5G in downtown Denver, with fast speeds in the LoDo area. AT&T and Verizon perform well throughout the metro area.
 
@@ -433,7 +435,7 @@ One planning note for international fans: if your trip also takes in games in Ca
 
 ---
 
-## T-Mobile vs AT&T vs Verizon coverage: which wins your itinerary?
+## T-Mobile vs AT&T vs Verizon: which USA eSIM network wins your itinerary?
 
 **Which network has best coverage for [USA travel eSIM](/united-states-esim/)?** The answer depends on where you're going:
 
@@ -507,6 +509,8 @@ Portland has solid service across all three carriers in the city proper. T-Mobil
 
 ## USA eSIM coverage tips for staying connected on the move
 
+Three habits carry most of the work. Install the **eSIM profile** at home on Wi-Fi and keep the **QR code** saved offline, because re-installing from an airport network is the moment the profile is hardest to reach. Run **hotspot** or **tethering** deliberately rather than leaving it on: sharing one connection across a group stretches the plan but drains the battery of the phone acting as the router and burns the same allowance twice as fast. And choose a provider whose **refund** terms match the risk in the itinerary — a two-week drive across several coverage zones justifies a plan with a refund window, while a three-day city break does not.
+
 Beyond choosing the right network, here are practical tips to get the most from your USA eSIM service:
 
 **Check coverage maps before buying:** Visit the US carrier websites (T-Mobile, AT&T, Verizon) and enter the specific addresses or zip codes you'll be visiting. The carrier maps show expected signal strength at specific locations. Third-party tools like Opensignal's app provide crowd-sourced data that reflects real-world performance rather than carrier-claimed reach.
@@ -520,6 +524,8 @@ Beyond choosing the right network, here are practical tips to get the most from 
 **Know when to switch from 5G to LTE:** In areas with weak 5G signals, your phone may struggle to maintain a 5G connection, consuming battery and providing slower speeds than 4G LTE would. If you're in a rural or mountain area and data is slow or unreliable, manually switch your phone to LTE mode. On iPhone: Settings →Cellular →Cellular Data Options →Voice & Data →select "LTE." On Android: Settings →Connections →Mobile networks →Network mode →select "LTE/4G" instead of "5G/LTE/4G."
 
 ### How USA eSIM deprioritization works
+
+Deprioritization and **throttling** are different mechanisms, and the distinction decides what you can still do. Deprioritization is temporary: your traffic drops behind the carrier's own customers when a tower is busy, which is why Manhattan at 6pm and a stadium at kick-off feel slower than the same plan in a suburb. Throttling is permanent for the cycle — once you pass the **data cap** or the **fair use** threshold, shortened to **FUP** in most terms, speed is reduced until the plan resets, and that is the limitation which turns an **unlimited** plan into a messaging-only line. **Latency** tends to hold up better than throughput in both cases, so maps and messaging normally survive even when video calls do not.
 
 One factor that affects eSIM service but is rarely discussed is network deprioritization. When you use a travel eSIM on a US carrier's network, your data traffic is typically given lower priority than the carrier's direct customers. During normal conditions in most locations, deprioritization is not noticeable — your speeds are the same as everyone else's. During network congestion (rush hour in downtown areas, large events, at crowded national park visitor centers), deprioritized data can slow to a crawl while direct carrier customers maintain normal speeds.
 
@@ -558,10 +564,10 @@ Puerto Rico and the US Virgin Islands are US territories, but not all USA eSIM p
 Montana, Wyoming, and Alaska consistently rank as the states with the poorest cellular service. Large portions of these states have no cellular signal from any carrier. National parks in these states also have limited reach. Travelers visiting these areas should download comprehensive offline maps and expect to be disconnected for extended periods.
 
 ### Does eSIM work in national parks?
-Service within national parks is limited regardless of carrier. Verizon reaches most developed areas. AT&T reaches many. T-Mobile drops off earliest. [National Park Service data](https://www.nps.gov) confirms that cell service within parks is limited regardless of carrier. Always download offline maps before entering any national park. The [best eSIM for USA road trip](/blog/usa-esim-road-trip-guide/) has detailed advice for each park.
+Service within national parks is limited regardless of carrier. Verizon reaches most developed areas. AT&T reaches many. T-Mobile drops off earliest. [National Park Service trip-planning data](https://www.nps.gov/planyourvisit/index.htm) confirms that cell service within parks is limited regardless of carrier. Always download offline maps before entering any national park. The [best eSIM for USA road trip](/blog/usa-esim-road-trip-guide/) has detailed advice for each park.
 
 ### Does USA eSIM coverage differ between providers?
-Yes, because different providers use different carrier networks. An eSIM on T-Mobile only will have different reach than an eSIM on AT&T. Always check which network your provider uses. The [FCC](https://www.fcc.gov/) provides regulatory oversight of US mobile networks and coverage reporting. Providers with multi-network access offer better fallback service when you travel between regions with different network strengths.
+Yes, because different providers use different carrier networks. An eSIM on T-Mobile only will have different reach than an eSIM on AT&T. Always check which network your provider uses. The [FCC](https://www.fcc.gov/consumers) provides regulatory oversight of US mobile networks and coverage reporting. Providers with multi-network access offer better fallback service when you travel between regions with different network strengths.
 
 ### What type of 5G does each carrier use?
 T-Mobile primarily uses mid-band 5G (C-band and its own 2.5 GHz spectrum from the Sprint merger), which provides a good balance of speed and range. AT&T uses a mix of low-band (850 MHz) for broad reach and C-band for speed in cities. Verizon relies heavily on mmWave for its fastest speeds (limited range) and is expanding C-band for broader reach. Low-band 5G from any carrier performs similarly to 4G LTE in most real-world conditions.

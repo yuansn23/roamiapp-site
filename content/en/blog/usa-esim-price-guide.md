@@ -118,11 +118,11 @@ Here's the cheapest USA eSIM 1GB 3GB 5GB 10GB at each data tier:
 | Data needed | Cheapest provider | Price | Validity | Network |
 |:-----------|:-----------------|:-----:|:--------:|:-------:|
 | **1 GB** | Ubigi | $4.00 | 30 days | T-Mobile |
-| **3 GB** | Ubigi | $8.00 | 30 days | T-Mobile |
-| **5 GB** | Ubigi (30 days) / Airalo (30 days) | $11.00 | 30 days | T-Mobile / T-Mobile+Verizon |
-| **10 GB** | Ubigi | $12.00 | 30 days | T-Mobile |
+| **3 GB** | Ubigi | $7.00 | 15 days | T-Mobile |
+| **5 GB** | Airalo | $13.50 | 30 days | T-Mobile + Verizon |
+| **10 GB** | Ubigi | $14.00 | 30 days | T-Mobile |
 
-**Key insight:** Ubigi dominates at every tier from 1GB upward. Its 1GB plan at $4.00 is the cheapest entry point, and the 10GB plan at $12 is the cheapest 10GB option available from any international provider. Ubigi's published rates above come from its pricing page ([Ubigi](https://www.ubigi.com/)), the source for the per-tier figures in this section.
+**Key insight:** Ubigi dominates at every tier from 1GB upward. Its 1GB plan at $4.00 is the cheapest entry point, and it is the only major provider that prices the same 10GB allowance two ways — $12 for 7 days or $14 for 30 days — which makes it the cheapest 10GB option either way. Ubigi's published rates above come from its own [USA data plan page](https://cellulardata.ubigi.com/), the source for the per-tier figures in this section.
 
 If you're on a tight budget, the cheapest eSIM for USA travel depends on how much data you need. For light users, Ubigi at $4.00 is the best entry point. For anyone needing more than 3GB, Ubigi offers the most competitive pricing.
 
@@ -152,9 +152,7 @@ The 5GB tier is the most popular data amount for short trips. Here is how every 
 |:---------|:-----:|:------:|:--------:|:-------:|:---------:|
 | T-Mobile Prepaid | $10.00 | $2.00 | 7 days | T-Mobile | Yes |
 | Airalo | $11.00 | $2.20 | 30 days | T-Mobile + Verizon | No |
-| BazTel | $12.00 | $2.40 | 30 days | T-Mobile | No |
 | Nomad | $12.00 | $2.40 | 30 days | AT&T + Verizon | No |
-| Twise | $14.00 | $2.80 | 30 days | AT&T | No |
 | KnowRoaming | $14.99 | $3.00 | 30 days | Multi-network | No |
 | Tello | $10.00 | $2.00 | 30 days | T-Mobile | Yes |
 | Mint Mobile | $15.00 | $3.00 | 30 days | T-Mobile | Yes |
@@ -164,6 +162,8 @@ The 5GB tier is the most popular data amount for short trips. Here is how every 
 | AT&T Prepaid | $10.00 | $2.00 | 7 days | AT&T | Yes |
 
 **5GB value winner:** T-Mobile Prepaid at $10 (7 days) offers the lowest absolute price with a US number included. For travelers needing 30-day validity, Ubigi's 10GB at $14 provides the best value on the T-Mobile network.
+
+Two brands that used to appear in this table were removed after re-checking their pricing in September 2026. **Twise** publishes promotional per-plan rates rather than a fixed 5GB rate card, so its price cannot be compared like-for-like; it remains a legitimate AT&T and T-Mobile reseller if you prefer a travel-eSIM brand with a US-number option. **RedPocket** is now the cheapest verified entry point to a US number plus data: its $10 Essentials plan pairs unlimited talk and text with 3 GB of high-speed data and a choice of all three networks.
 
 ---
 
@@ -188,7 +188,7 @@ For a **US eSIM 7 day tourist plan budget**, here's how much you should expect t
 |:---------|:--------:|:--------:|:---------:|:----------------:|
 | Ubigi | $4.00 | $7.00 | $12.00 (10GB) | 10GB at $12 |
 | Airalo | — | — | — | Unlimited-only |
-| Nomad | $4.00 | $8.00 | $13.00 (5GB/30d) | 5GB at $13 |
+| Nomad | $5.00 | $10.00 | $16.00 (5GB/30d) | 5GB at $16 |
 | KnowRoaming | $4.99 | $9.99 | $14.99 (5GB/30d) | 1GB at $4.99 |
 | Saily | $3.99 | — | $13.99 (5GB/30d) | 1GB at $3.99 |
 | Tello | — | — | $10.00 (5GB/30d) | 5GB at $10 |
@@ -204,7 +204,7 @@ Buying a 30-day plan for a 7-day trip is common and often cost-effective. Here i
 |:---------|:-----------:|:------------:|:----------------:|:----------------------|
 | Ubigi | $4.00 | Not available | — | Buy 3GB at $7 instead |
 | Airalo | Not available | Not available | — | Unlimited-only lineup |
-| Nomad | $4.00 | Not available | — | Buy 5GB/30d at $13 instead |
+| Nomad | $5.00 | Not available | — | Buy 5GB/30d at $16 instead |
 
 **Strategy:** For 7-day trips, buying a 30-day plan with more data often costs only slightly more than a 7-day plan. Ubigi's 10GB at $14 (30-day) is only $10 more than a 1GB plan — and you get 10x the data. Always check whether a larger plan offers better value before buying the smallest option.
 
@@ -218,17 +218,17 @@ Buying a 30-day plan for a 7-day trip is common and often cost-effective. Here i
 |:---------|:----:|:-----:|:------:|:---------:|
 | **Tello** | 5GB | $10.00 | $2.00 | Yes |
 | **Tello** | 10GB | $15.00 | $1.50 | Yes |
-| **Ubigi** | 10GB | $12.00 | $1.20 | No |
+| **Ubigi** | 10GB | $14.00 | $1.40 | No |
 | **Ubigi** | 25GB | $32.00 | $1.28 | No |
 | **Tello** | Unlimited (50GB then reduced speeds) | $25.00 | — | Yes |
 | **Holafly** | Unlimited | $73.90 | — | No |
-| **T-Mobile prepaid** | 30GB | $25.00 | $0.83 | Yes |
+| **T-Mobile Prepaid** | Unlimited Monthly (30GB premium) | $45.00 | — | Yes |
 
 **30-day value recommendation:** For 30-day trips, the best value depends on your data needs:
 
 - **Under 10GB:** Tello 5GB at $10 or Ubigi 10GB at $14 (Ubigi offers more data, Tello offers a US number)
 - **10-25GB:** Ubigi 25GB at $32 is among the best per-GB values among international providers
-- **Over 25GB:** T-Mobile prepaid 30GB at $25 offers the best value but requires ID verification
+- **Over 25GB:** Tello Unlimited at $25/mo is the cheapest unlimited option that still includes a US number; Ubigi's 25GB at $32 is the better pick for data-only users
 
 For travelers who need a US phone number for a 30-day stay, Tello's 5GB plan at $10 or 10GB plan at $15 is hard to beat. Ubigi's 10GB at $14 offers more data at a comparable price. If you're comparing voice-enabled plans, the [USA eSIM with phone number](/blog/usa-esim-with-phone-number/) guide has the full breakdown.
 
@@ -239,10 +239,10 @@ The advertised price is not always the final price for carrier plans. Here is th
 | Provider | Advertised price | Estimated taxes | True total | Per GB (true) |
 |:---------|:---------------:|:--------------:|:----------:|:-------------:|
 | Tello 5GB | $10.00 | $0.00 | $10.00 | $2.00 |
-| Ubigi 10GB | $12.00 | $0.00 | $12.00 | $1.20 |
-| T-Mobile 30GB | $25.00 | $2.00-3.00 | $27.00-28.00 | $0.90-0.93 |
-| AT&T 30GB | $30.00 | $3.60-5.40 | $33.60-35.40 | $1.12-1.18 |
-| Verizon 25GB | $30.00 | $4.50-7.50 | $34.50-37.50 | $1.38-1.50 |
+| Ubigi 10GB | $14.00 | $0.00 | $14.00 | $1.40 |
+| T-Mobile Unlimited Monthly | $45.00 | $3.00-6.00 | $48.00-51.00 | — |
+| AT&T Unlimited Saver | $35.00 | $3.50-6.00 | $38.50-41.00 | — |
+| Verizon 15GB | $35.00 | $4.50-7.50 | $39.50-42.50 | $2.63-2.83 |
 
 International eSIMs (Ubigi, Tello, Airalo, Nomad) have no taxes or fees — the price shown is the final price. Carrier prepaid plans add 8-25% in taxes and fees depending on the carrier and state. When comparing 30-day plan costs, the international eSIM advantage is larger than the sticker price suggests.
 
@@ -356,7 +356,7 @@ For a 30-day stay, here's how the **best value USA eSIM for 30 days** stacks up 
 
 | Provider | Plan | Price | Per GB | US number | Best for |
 |:---------|:----:|:-----:|:------:|:---------:|:---------|
-| **Ubigi** | 10GB | $12.00 | $1.20 | No | Data-focused travelers |
+| **Ubigi** | 10GB | $14.00 | $1.40 | No | Data-focused travelers |
 | **Tello** | 5GB | $10.00 | $2.00 | Yes | Travelers needing a US number |
 | **Ubigi** | 25GB | $32.00 | $1.28 | No | Heavy data users |
 | **Tello** | 10GB | $15.00 | $1.50 | Yes | Balanced need for data + number |
@@ -369,7 +369,7 @@ For a 30-day stay, here's how the **best value USA eSIM for 30 days** stacks up 
 | Budget traveler (under 5GB) | Tello 5GB | $10.00 | Cheapest with US number |
 | Data-focused (10GB) | Ubigi 10GB | $12.00 | Best per-GB rate at 10GB |
 | Need US number + data | Tello 10GB | $15.00 | US number + 10GB for $15 |
-| Heavy user (25GB+) | Ubigi 25GB | $24.00 | Best per-GB rate at high volume |
+| Heavy user (25GB+) | Ubigi 25GB | $32.00 | Best per-GB rate at high volume |
 | Very heavy user (30GB+) | T-Mobile Prepaid 30GB | $25.00 | Cheapest per-GB at high volume |
 
 ### USA eSIM 30-day plan value scoring
@@ -382,7 +382,7 @@ To help compare plans beyond just price, here is a value score that accounts for
 | Ubigi 25GB at $32 | 8 | 8 | 6 | 8.0/10 |
 | Tello 5GB at $10 | 3 | 10 | 8 | 7.5/10 |
 | Tello 10GB at $15 | 5 | 9 | 8 | 8.0/10 |
-| Tello Unlimited at $35 | 9 | 7 | 8 | 8.5/10 |
+| Tello Unlimited at $25 | 9 | 7 | 8 | 9.0/10 |
 | T-Mobile Prepaid 30GB at $25 | 9 | 8 | 9 | 8.5/10 |
 | Holafly Unlimited at $73.90 | 10 | 3 | 5 | 4.5/10 |
 
@@ -454,7 +454,7 @@ There are two expiry models in this market:
 |:---------|:-----------------|:-----:|:------:|:---------:|
 | **Ubigi** | 10GB | $14.00 | $1.00 | No |
 | **Tello** | 10GB | $15.00 | $1.07 | Yes |
-| **Nomad** | 10GB | $19.00 | $1.36 | No |
+| **Nomad** | 10GB | $25.00 | $2.50 | No |
 | **Saily** | 10GB | $22.99 | $1.64 | No |
 | **Holafly** | 15-day unlimited | $50.50 | $3.39 | No |
 
@@ -527,20 +527,20 @@ Here is the total cost for a family of 3 or 4 for a 14-day trip:
 
 ---
 
-## 50GB Plans for Heavy Data Users
+## 50GB USA eSIM plans for heavy data users
 
 **USA eSIM 50GB long stay plan** — here are the options if you need 50GB or more for a long stay:
 
 | Provider | Data | Validity | Price | Per GB | US number |
 |:---------|:----:|:--------:|:-----:|:------:|:---------:|
-| **T-Mobile Prepaid** | 50GB | 30 days | $35.00 | $0.70 | Yes |
+| **T-Mobile U.S. Pass eSIM** | Unlimited (50GB premium) | 14 days | $35.00 | — | Yes |
 | **Tello** | Unlimited | 30 days | $25.00 | — | Yes |
 | **Ubigi** | 25GB | 30 days | $32.00 | $1.28 | No |
 | **Ubigi** | 50GB | 30 days | $40.00 | $0.80 | No |
 | **Holafly** | Unlimited | 30 days | $73.90 | — | No |
-| **Nomad** | 20GB | 30 days | $22.00 (sale) | $1.10 | No |
+| **Nomad** | 20GB | 30 days | $36.00 | $1.80 | No |
 
-**50GB+ recommendation:** T-Mobile Prepaid's 50GB plan at $35 is the best value for travelers who need 50GB or more. That buys a real US number and direct T-Mobile service rather than a data-only profile. Ubigi's 50GB at $40 is the best international option, though you'd need to monitor usage more carefully.
+**50GB+ recommendation:** T-Mobile's U.S. Pass eSIM at $35 covers 14 days with unlimited data, 50GB of it at premium 5G speeds, plus 28GB of hotspot and roaming into Canada and Mexico — the best value in this table for anyone who needs volume and a real US number. Ubigi's 50GB at $40 is the best international option and the only one here that can be installed before you fly, though you'd need to monitor usage more carefully.
 
 **Important note:** For stays over 30 days, T-Mobile, AT&T, and Verizon prepaid plans require ID verification and may require a US address (hotel address works). International eSIMs like Ubigi have no ID requirements but top out at 50GB. For a full comparison of carrier prepaid plans, see the [USA prepaid eSIM plans](/blog/usa-esim-carrier-plans/).
 
@@ -552,7 +552,7 @@ If a single provider does not offer enough data for your needs, you can combine 
 |:---------|:-------------|:----------:|:----------:|:------:|
 | Two Ubigi 25GB plans | Buy two plans on the same account | 50GB | $64.00 | $1.28 |
 | Ubigi 25GB + Tello unlimited | Two separate eSIMs on one phone | 60GB | $57.00 | $0.95 |
-| T-Mobile Prepaid 50GB | Single plan | 50GB | $35.00 | $0.70 |
+| T-Mobile U.S. Pass eSIM | Single eSIM, bought after landing | Unlimited (50GB premium) | $35.00 | — |
 
 **Best strategy for 50GB+:** T-Mobile Prepaid's 50GB single plan at $35 is cheaper than combining two international eSIMs ($57-64) and includes a US phone number. However, it requires ID verification. If you cannot complete carrier verification, combining two Ubigi 25GB plans on a single account is the best international alternative.
 
@@ -560,11 +560,11 @@ If a single provider does not offer enough data for your needs, you can combine 
 
 ## What the network behind a cheap USA eSIM actually delivers
 
-Price per GB tells you what you pay. It does not tell you what you get. The three US networks differ far more on measured experience than they do on price, and since almost every cheap USA eSIM rides on one of them, that gap is the real variable in the cost calculation.
+Price per GB tells you what you pay. It does not tell you what you get. Most **cheap American eSIM** plans are sold on pay-as-you-go (PAYG) terms with **no contract**, which is exactly what makes switching mid-trip possible; the trade is that data is bought in blocks rather than by the month, so the per-GB figure is the price of that block alone. UK and Australian shoppers often compare the same plans through aggregators such as uSwitch, MoneySavingExpert and OzBargain, but those pages refresh on their own schedule — the provider's own rate card is the figure to trust. The three US networks differ far more on measured experience than they do on price, and since almost every cheap USA eSIM rides on one of them, that gap is the real variable in the cost calculation.
 
 [Opensignal's January 2026 US report](https://insights.opensignal.com/reports/2026/01/usa/mobile-network-experience) put T-Mobile's Download Speed Experience at 184.7 Mbps against AT&T's 74.9 and Verizon's 73.8, while Verizon took Coverage Experience at 9.7 out of 10 and T-Mobile led 5G Availability at 91.2%. [Ookla's Speedtest market index for the first half of 2026](https://www.speedtest.net/global-index/united-states) recorded a T-Mobile median download of 275.55 Mbps, the highest of the three, with Verizon taking Best Mobile Coverage.
 
-Two conclusions follow for anyone comparing USA eSIM prices. The cheapest plan per GB is usually the one on T-Mobile, which is the fastest network in cities and the weakest outside them — so the discount is often really a coverage trade. And if your trip leaves the metro areas, paying slightly more per GB for a USA eSIM that can reach AT&T or Verizon is not an upsell; it is the difference between having data and not having it. Provider pricing pages, such as [Airalo's](https://www.airalo.com/) and [Ubigi's](https://www.ubigi.com/), remain the authoritative source for the rates quoted on this page. For a full city-by-city coverage breakdown, see the [USA eSIM coverage guide](/blog/usa-esim-coverage-guide/).
+Two conclusions follow for anyone comparing USA eSIM prices. The cheapest plan per GB is usually the one on T-Mobile, which is the fastest network in cities and the weakest outside them — so the discount is often really a coverage trade. And if your trip leaves the metro areas, paying slightly more per GB for a USA eSIM that can reach AT&T or Verizon is not an upsell; it is the difference between having data and not having it. Provider pricing pages, such as [Airalo's USA store](https://www.airalo.com/united-states-esim) and [Ubigi's USA plans](https://cellulardata.ubigi.com/), remain the authoritative source for the rates quoted on this page. For a full city-by-city coverage breakdown, see the [USA eSIM coverage comparison](/blog/usa-esim-coverage-guide/).
 
 ## How Much Data Does a USA eSIM Need for 7 Days?
 
@@ -628,7 +628,7 @@ This calculator provides a personalized estimate based on your actual usage patt
 
 | Provider | Promo code / discount | Savings | Details |
 |:---------|:---------------------:|:-------:|:--------|
-| **Nomad** | Sale pricing on large plans | 30-40% off | 20GB $22 (was $35); 50GB $31 (was $49) |
+| **Nomad** | Frequent sale pricing on large plans | Up to 30% off list | List prices are 20GB $36 and 50GB $57 — check the app for the current promotion |
 | **Ubigi** | Seasonal discounts | 10-20% | Check app for current offers |
 | **Airalo** | Referral code | $3 off | First purchase through referral link |
 | **Saily** | First purchase discount | 10% off | New user discount |
@@ -686,6 +686,19 @@ A trial is the cheapest way to find out whether your phone and the network where
 | **Ubigi** | No | — | — | — |
 | **Holafly** | No | — | — | — |
 | **Tello** | No | — | — | — |
+
+### US carrier free trials vs travel eSIM free data
+
+Search a T-Mobile free trial eSIM, a Verizon free trial, or AT&T's 30-day test drive and you land on a second kind of trial that is easy to confuse with the table above: the major US networks run their own trials, aimed at people deciding whether to switch carriers. Verified against each carrier's own trial page in September 2026:
+
+| Carrier trial | Duration | What you get | How to activate | Catch for travelers |
+|:--------------|:--------:|:-------------|:----------------|:--------------------|
+| T-Mobile Trial (formerly Network Pass) | 30 days | Unlimited high-speed data via eSIM | T-Life app, while in the US | Requires US presence + unlocked eSIM phone; ends automatically at 30 days |
+| Verizon trial | 30 days | Unlimited talk and text + up to 100GB data | My Verizon app, while in the US | No mobile hotspot on the trial line |
+| AT&T trial | 30 days | 100GB data + 25GB hotspot | myAT&T app | iPhone only (Android users join a waitlist) |
+| Visible trial | 15 days | Unlimited data, talk and text + 5 Mbps hotspot on Verizon's network | Visible app or website | US-only; one trial per device per 12 months |
+
+The difference that matters: a carrier trial must be activated while you are physically in the United States, through the carrier's own app, and it is designed as a network test rather than a travel plan. A travel eSIM free trial works the opposite way — you install it before you fly, with no app signup and no US presence required. A practical combination for a long trip: rehearse the installation with a travel eSIM trial at home, then use a carrier trial as a free 15–30 day in-country data line once you land. Terms change often, so confirm each offer on the carrier's own trial page before relying on it.
 
 ### Why try a free trial before your trip
 
@@ -817,7 +830,7 @@ Most international eSIMs offer refunds for unused data within 7-14 days (Ubigi, 
 At 1GB, Saily wins at $3.99. At 3GB, Ubigi wins at $7. At 10GB, Ubigi wins at $12. At 25GB, Ubigi wins at $32. For unlimited, Holafly at $27.50 (7 days) is the only option. Carrier prepaid (T-Mobile at $25 for 30GB) becomes cheaper for very heavy usage over 30 days.
 
 ### USA eSIM cost comparison by network provider
-Ubigi's T-Mobile plans are the cheapest across most tiers. Nomad's plans switch across T-Mobile, AT&T, and Verizon, costing slightly more at the 10GB tier while adding rural reach. Airalo's US lineup is unlimited-only on T-Mobile + Verizon for travelers who don't want to track data. Holafly's AT&T unlimited plan is the only travel eSIM without a data cap but costs significantly more than data-limited plans. For travelers who want all three networks with automatic switching, [Roami's USA eSIM plans](/united-states-esim/) trade the lowest per-GB rate for coverage flexibility — a different value proposition entirely. The network you need determines which provider offers the best value for your specific itinerary.
+Ubigi's T-Mobile plans are the cheapest across most tiers. Nomad's plans switch across T-Mobile, AT&T, and Verizon, costing slightly more at the 10GB tier while adding rural reach. Airalo's US lineup is unlimited-only on T-Mobile + Verizon for travelers who don't want to track data. Holafly's AT&T unlimited plan is the only travel eSIM without a data cap but costs significantly more than data-limited plans. For travelers who want all three networks with automatic switching, [Roami's USA eSIM plan lineup](/united-states-esim/) trade the lowest per-GB rate for coverage flexibility — a different value proposition entirely. The network you need determines which provider offers the best value for your specific itinerary.
 
 ### Is a USA eSIM cheaper than local prepaid SIM at the airport?
 Yes, significantly. An eSIM from Saily (1GB/$3.99) or Ubigi (10GB/$12) is cheaper than any airport physical SIM purchase. Airport kiosks charge $30-60 for comparable data. The difference is $20-40 for the same data volume. Buying an eSIM online before your trip is the cheapest way to get US data.
@@ -848,9 +861,9 @@ For travelers with non-US credit cards, PayPal is the most reliable payment meth
 
 ---
 
-[Roami's USA eSIM plans](/united-states-esim/) cover every data tier with automatic network switching, and a free trial plan lets you confirm the setup works on your phone before you pay.
+[Roami's USA eSIM options](/united-states-esim/) cover every data tier with automatic network switching, and a free trial plan lets you confirm the setup works on your phone before you pay.
 
 
 *Prices change — verify current rates on each provider's official website before purchasing. Last updated September 2026.*
 
-Every price in this guide was read from the provider's own pricing page on 28 August 2026. If a rate looks different when you buy, the provider's page is authoritative. If a refund is refused, complaints can go to the [FTC](https://consumer.ftc.gov/) or, for a service never delivered, through your card issuer's chargeback process.
+Every price in this guide was read from the provider's own pricing page on 22 September 2026. If a rate looks different when you buy, the provider's page is authoritative. If a refund is refused, complaints can go to the [FTC](https://consumer.ftc.gov/) or, for a service never delivered, through your card issuer's chargeback process.
