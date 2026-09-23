@@ -2,8 +2,8 @@
 title: "How to Get an eSIM in Canada: Setup & Activation Guide"
 description: "How to get a Roami eSIM in Canada: check compatibility, install on iPhone and Android, activate, and fix common errors fast."
 keywords: ["how to get eSIM in Canada", "Canada eSIM setup", "Canada eSIM activation", "Canada eSIM install iPhone", "Canada eSIM troubleshooting"]
-date: 2026-09-09T00:00:00Z
-lastmod: 2026-09-09T00:00:00Z
+date: 2026-09-19T00:00:00Z
+lastmod: 2026-09-19T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/canada/how-to-get-esim-in-canada-guide.jpg"
@@ -92,52 +92,27 @@ Getting a Canada eSIM takes five steps:
 
 **Want to test before you commit?** Grab a [free eSIM trial](/free-esim/) or a [Roami Canada eSIM plan](/canada-esim/) from **$1.99** to run through setup and coverage before your trip. New users get **20% off** with code `web20`, and Roami's **24/7 human support** is ready if setup stalls.
 
-This guide covers every step, every common error, and every fix. For provider prices, see our [full Canada eSIM comparison database](/blog/canada-esim-comparison-2026/). For device compatibility, see our [phone compatibility guide](/blog/esim-compatible-phones-canada-guide/).
+This guide covers every step, every common error, and every fix. For provider prices, see our [full Canada eSIM comparison database](/blog/canada-esim-comparison-2026/). For device compatibility, see our [compatibility checker](/compatibility/).
 
 ## Canada eSIM Compatibility and Preparation
 
-Before buying any Canada eSIM plan, confirm your phone supports eSIM and is carrier-unlocked. This section shows the fastest checks, the settings paths for major brands, and the preparation steps that prevent most installation problems later.
+Before buying any Canada eSIM plan, confirm your phone is eSIM-capable and carrier-unlocked. This section shows the fastest checks, the settings paths for major brands, and the preparation steps that prevent most installation problems later.
 
 ### Canada eSIM Compatibility: 30-Second EID Check
 
-Before buying any plan, confirm your phone supports eSIM. The fastest method works on both iPhone and Android:
+Before buying any plan, confirm your handset can hold a downloaded SIM profile. Dialing **`*#06#`** is the quickest check on any phone: among the identifiers that pop up, look for **EID** — the 32-digit eSIM Identifier. Spot it, and you are clear to install; a screen listing only IMEI numbers means no embedded-SIM hardware.
 
-1. Open the **dialer**.
-2. Type **`*#06#`**.
-3. Look for **EID** (eSIM Identifier), a 32-digit code.
+Menu-based checks — the iPhone's "Available SIM" line under About, Samsung's SIM Manager, the Pixel's "Download a SIM instead?" screen — are catalogued in our [phone compatibility guide](/blog/esim-compatible-phones-canada-guide/), alongside the full 40+ device list and regional version notes.
 
-**If you see EID:** your phone has eSIM hardware.  
-**If you only see IMEI:** your phone does not support eSIM.
+eSIM is a [GSMA](https://www.gsma.com/esim/)-defined standard, and the 32-digit EID is the identifier your device uses when registering a profile.
 
-**What to look for:** On iPhone, the EID appears below the IMEI. On Samsung, it may appear as "EID" or "eSIM ID." If you see only two IMEI numbers (IMEI1 and IMEI2), your phone does not have eSIM hardware.
-
-For a full device list by brand and region, see our [phone compatibility guide](/blog/esim-compatible-phones-canada-guide/).
-
-eSIM is a [GSMA](https://www.gsma.com/esim/)-defined standard, and the 32-digit EID is the identifier your device uses to register an eSIM profile.
-
-### Quick eSIM Settings Check by Brand
-
-If you prefer not to dial, use the Settings app:
-
-- **iPhone:** Settings → General → About → look for "Available SIM" or "Carrier Lock."
-- **Samsung:** Settings → Connections → SIM Manager → look for "Add eSIM."
-- **Google Pixel:** Settings → Network & Internet → SIMs → look for "Download a SIM instead?"
-- **Other Android brands:** search "eSIM" in Settings.
-
-If you see the option, your phone supports eSIM. If not, check the regional notes in our [device compatibility database](/blog/esim-compatible-phones-canada-guide/).
-
-**Important:** iPhones sold in mainland China and Hong Kong do not support eSIM. The only exceptions in mainland China are iPhone 17e and iPhone Air. For details, see our [device guide](/blog/esim-compatible-phones-canada-guide/).
+Prefer not to dial? The Settings app tells you the same story, though the menu path differs by brand — our [device compatibility checker](/compatibility/) lists every one. One regional trap matters for visitors from Asia: iPhones sold in mainland China and Hong Kong lack eSIM hardware, with only a handful of newer models (iPhone 17e, iPhone Air, iPhone 18 Pro/Pro Max) sold in mainland China as exceptions.
 
 ### Canada eSIM Carrier-Unlock Check
 
-Even if your phone supports eSIM, it must be carrier-unlocked.
+A carrier lock blocks every travel profile from installing, so verify it before checkout. iPhones flag the lock state under **Settings → General → About**; Android buries it in **About Phone → Status**. Canadian rules favor the traveler: the CRTC's Wireless Code obliges Bell, Rogers, Telus, and Freedom Mobile to unlock devices at no charge — see the [CRTC Wireless Code](https://crtc.gc.ca/eng/phone/mobile/codes.htm).
 
-- **iPhone:** Settings → General → About → **Carrier Lock** should say "No SIM restrictions."
-- **Android:** Settings → About Phone → Status → check network/SIM status.
-
-In Canada, the CRTC requires Bell, Rogers, Telus, and Freedom Mobile to unlock devices free of charge. See the [CRTC Wireless Code](https://crtc.gc.ca/eng/phone/mobile/codes.htm).
-
-**Pro tip:** If you bought a used Samsung from a Canadian carrier, the eSIM may be disabled by default. Check with the carrier before buying. See our [device guide](/blog/esim-compatible-phones-canada-guide/) for carrier-lock removal steps.
+**Pro tip:** If you bought a used Samsung from a Canadian carrier, the eSIM may be disabled by default. Check with the carrier before buying. See our [compatibility notes](/compatibility/) for carrier-lock removal steps.
 
 ### Prepare for eSIM Setup
 
@@ -195,7 +170,7 @@ If you need a Canadian phone number for bank codes or Uber, see our [eSIM with p
 
 This is where most first-time users get confused.
 
-**Installation:** Downloads the eSIM profile to your phone. Requires Wi-Fi. Can be done before departure. The eSIM appears in your cellular list but **does not connect, does not use data, and does not start the validity clock**.
+**Installation:** Downloads the profile to your phone. Requires Wi-Fi. Can be done before departure. The eSIM appears in your cellular list but **does not connect, does not use data, and does not start the validity clock**.
 
 **Activation:** Automatically triggers when the eSIM first connects to a Canadian network. The validity period starts, and data usage begins counting.
 
@@ -237,7 +212,7 @@ Check spam if you don't see the email within a few minutes. Some providers also 
 1. Do you need a Canadian phone number? If yes, see our [numbered Canada eSIM options](/blog/canada-esim-with-phone-number-guide/).
 2. Will you cross into the US? If yes, see our [cross-border eSIM guide](/blog/usa-and-canada-esim-guide/).
 3. Will you visit Banff, Jasper, or the Rockies? If yes, choose Bell/Telus. See our [network coverage guide](/blog/canada-esim-coverage-guide/).
-4. How long is your trip? Match data to trip length (see the data planning table above).
+4. How long is your trip? Match data to trip length (see the data planning table above). Staying a month or more? The [long-stay eSIM guide](/blog/best-canada-esim-for-travelers/) compares monthly options.
 
 ## Install eSIM on iPhone: Step by Step
 
@@ -253,7 +228,7 @@ The iPhone eSIM setup process is similar across iOS 16 and later. The steps belo
 6. Name the eSIM (e.g., "Canada Travel").
 7. Confirm installation.
 
-**What you'll see:** After scanning, iPhone downloads the eSIM profile. This takes 10–30 seconds. You'll see "eSIM Added" or similar.
+**What you'll see:** After scanning, iPhone downloads the profile. This takes 10–30 seconds. You'll see "eSIM Added" or similar.
 
 **What the screen shows:** The "Add eSIM" screen shows options: "Use QR Code," "Transfer from Nearby iPhone," and "Enter Details Manually." Choose "Use QR Code." After scanning, iOS shows a progress spinner, then "eSIM Added."
 
@@ -280,6 +255,8 @@ If you see **"Carrier Cellular Plan Ready to Be Installed"** in Settings, tap it
 
 **What the screen shows:** The eSIM appears under "Cellular Plans" with the name you gave it. "Turn on This Line" is toggled on. "Data Roaming" is toggled off.
 
+**Storage note:** Newer iPhones can store eight or more eSIM profiles at once (two active simultaneously), so there is no need to delete an old travel profile before adding Canada's. Keep unused profiles toggled off rather than deleting them — once a profile is deleted, it usually cannot be re-downloaded without buying the plan again.
+
 ### iOS Version Differences for eSIM
 
 | iOS Version | Path | Notes |
@@ -293,7 +270,7 @@ If you see **"Carrier Cellular Plan Ready to Be Installed"** in Settings, tap it
 
 ### eSIM-Only iPhone 14 or Later (US)
 
-US versions of iPhone 14, 15, 16, and 17 may be eSIM-only (no physical SIM tray). If you have a US iPhone, you cannot use a physical Canadian SIM. You must use an eSIM. This guide still applies. For Canadian iPhone models, most retain a physical SIM tray, so you can use both a physical SIM and an eSIM. Check your model in our [device compatibility guide](/blog/esim-compatible-phones-canada-guide/).
+US versions of iPhone 14, 15, 16, and 17 may be eSIM-only (no physical SIM tray). If you have a US iPhone, you cannot use a physical Canadian SIM. You must use an eSIM. This guide still applies. For Canadian iPhone models, most retain a physical SIM tray, so you can use both a physical SIM and an eSIM. Check your model in our [device compatibility guide](/compatibility/), and see [Apple's Dual SIM documentation](https://support.apple.com/en-us/109317) for the full picture.
 
 ## Install eSIM on Android: Step by Step
 
@@ -403,7 +380,7 @@ If your home carrier supports Wi-Fi Calling, you can make calls on your original
 - Use browser reader mode for articles.
 - Turn off auto-play for videos on social media.
 
-**Daily data budget for tourists:**
+**Daily data budget for tourists** (the [tourist-focused guide](/blog/best-canada-esim-for-tourists-guide/) has the full planning picture):
 - Navigation: 100–200MB
 - Social media: 150–300MB
 - Music streaming: 150–300MB
@@ -442,22 +419,18 @@ Most Canada eSIM problems fall into a few categories: installation errors, no si
 
 ### Canada eSIM QR Code Won't Scan
 
-- Use **manual activation code** instead.
-- Check if QR expired.
-- Increase screen brightness or print the QR.
-- Request new QR from provider support.
-- Try scanning from a different device's screen.
+- Switch to the **manual activation code** printed in your provider email — it installs even when the QR is unreadable.
+- A QR carries a short expiry window; if setup stalled, request a fresh one from support.
+- Bumping screen brightness, or scanning from another device's display, clears most camera failures.
 
 **Common error:** "Invalid QR Code" — usually means the QR expired or was scanned incorrectly. Manual activation code always works.
 
 ### eSIM Installed but No Signal
 
-**Step 1:** Confirm eSIM is enabled.  
-**Step 2:** Confirm Data Roaming is ON.  
-**Step 3:** Turn off Automatic Network Selection and manually pick **Bell / Rogers / Telus**.  
-**Step 4:** Toggle Airplane Mode for 30 seconds.  
-**Step 5:** Restart phone.  
-**Step 6:** Check plan status in provider app—may be expired or used up.
+**Step 1:** Confirm the profile is enabled and Data Roaming is ON.  
+**Step 2:** Toggle Airplane Mode for 30 seconds, then restart the phone.  
+**Step 3:** Switch off Automatic Network Selection and pick **Bell / Rogers / Telus** by hand — manual picking alone revives most dead-data lines.  
+**Step 4:** Still offline? Open the provider app; the plan may have expired or run dry.
 
 **Manual network selection is the single most effective fix for "signal but no data."** This resolves most cases.
 
@@ -603,7 +576,7 @@ If you upgrade your phone, you may need to contact your provider to transfer the
 - Store QR code securely.
 - Delete QR code emails after installation.
 
-For road trips, see our [Canada road trip eSIM guide](/blog/best-esim-canada-road-trip-guide/).
+Multi-day driving itinerary? The [Canada road trip eSIM guide](/blog/best-esim-canada-road-trip-guide/) breaks data down by highway.
 
 ## Canada eSIM FAQ
 
@@ -667,7 +640,7 @@ Getting a Canada eSIM is simple if you prepare before departure.
 - ✅ Check Fair Use Policy for unlimited plans.
 - ✅ Choose Bell/Telus for Rockies, Rogers for Trans-Canada.
 
-**Before you buy:** If you are not sure which provider fits your trip, start with a [free eSIM trial](/free-esim/) or a [Roami Canada eSIM plan](/canada-esim/) from **$1.99** to test coverage. New users get **20% off** with code `web20`, and Roami's **24/7 human support** helps with any setup problem.
+**Before you buy:** not sure which provider fits your trip? A [free eSIM trial](/free-esim/) lets you run this entire setup — install, activate, first connection — on real coverage before paying for a full plan.
 
 **Data note:** Setup steps and prices were verified in September 2026 and may change. Confirm current pricing before you buy.
 

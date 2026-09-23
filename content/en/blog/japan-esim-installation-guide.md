@@ -2,8 +2,8 @@
 title: "How to Buy and Install a Japan eSIM: Step-by-Step"
 description: "How to buy and install a Japan eSIM. Steps for iPhone, Samsung and Pixel, where to buy, install before departure and activate."
 keywords: ["buy esim japan", "how to buy esim in japan", "where to buy esim in japan", "how to get esim in japan", "how to install esim japan", "how to use esim in japan", "esim japan setup", "japan esim installation", "how does esim work in japan", "buy esim for japan", "where to get esim for japan", "japan esim activation", "install esim before travel japan"]
-date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+date: 2026-09-14T00:00:00Z
+lastmod: 2026-09-14T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/japan-esim-installation-guide.jpg"
@@ -55,10 +55,10 @@ recentPosts:
 
 
 
-**Last Updated:** August 8, 2026 | Reading time: 16 minutes
+**Last Updated:** September 22, 2026 | Reading time: 16 minutes
 
 
-## Introduction: Your 5-Minute Path to Japan Connectivity
+## Introduction: Your 5-Minute Path to Japan eSIM Connectivity
 
 > **Key takeaways:** Buying and installing a Japan eSIM takes under five minutes, and you should complete it before you leave home. Purchase your plan 1–3 days before departure, install it on stable WiFi, and keep data roaming OFF until you land in Japan. First confirm your phone supports eSIM by dialing *#06# and that it's carrier-unlocked; on arrival, turn on the eSIM, enable data roaming, set it as your data line, and turn off your home SIM's data roaming.
 
@@ -70,7 +70,7 @@ With a Japan eSIM, you can have internet on your phone before you even clear cus
 
 This step-by-step tutorial walks you through everything you need to know about **how to buy and install a Japan eSIM** in 2026. Whether you're an iPhone user, a Samsung Galaxy owner, or a Google Pixel fan, we've got you covered with device-specific instructions.
 
-If you've never used an eSIM before, don't worry — it's simpler than you think. Think of it as downloading an app that gives your phone a Japanese phone number (for data). No physical card, no tiny tray to fiddle with, no risk of losing your home SIM.
+If you've never used an eSIM before, don't worry — it's simpler than you think. An eSIM is a digital SIM built into your phone, standardized by the [GSMA](https://www.gsma.com/solutions-and-impact/technologies/esim/). Think of installing one as downloading an app that gives your phone Japanese data connectivity. No physical card, no tiny tray to fiddle with, no risk of losing your home SIM.
 
 Here's what we'll cover:
 - **Pre-purchase checklist** — what you need before buying
@@ -82,13 +82,15 @@ Here's what we'll cover:
 Let's get started.
 
 
-## Part 1: Pre-Purchase Checklist
+## Part 1: Japan eSIM Pre-Purchase Checklist
 
-Before you buy any Japan eSIM, you need to confirm two things: **your phone supports eSIM** and **your phone is carrier-unlocked**. Skipping this step is the #1 reason travelers end up with a non-working eSIM.
+Before you buy any Japan eSIM, you need to confirm two things: **your phone supports eSIM** and **your phone is carrier-unlocked** — our [check your device first](/compatibility/) covers both. Skipping this step is the #1 reason travelers end up with a non-working eSIM.
 
 ### Step 1: Check eSIM Compatibility
 
 The fastest way to check if your phone supports eSIM is to dial `*#06#` on your phone's dialer. If an **EID number** (32 digits) appears on your screen alongside your IMEI numbers, your device supports eSIM. If you don't see an EID, your phone does not support eSIM — you'll need a physical SIM card or pocket WiFi instead.
+
+For the full model-by-model list, see our [check your phone works](/blog/japan-esim-compatibility-guide/).
 
 **Compatible iPhone models**:
 - iPhone XR, XS, XS Max, and newer (all models)
@@ -116,6 +118,8 @@ The fastest way to check if your phone supports eSIM is to dial `*#06#` on your 
 - **iPhone:** Settings → General → About → scroll to "EID"
 - **Samsung:** Settings → Connections → SIM Card Manager → look for "Add eSIM"
 - **Google Pixel:** Settings → Network & Internet → SIMs → look for "+ Add SIM"
+
+Apple's official [eSIM support page](https://support.apple.com/en-us/HT212780) lists every compatible iPhone model if you want to double-check.
 
 ### Step 2: Check if Your Phone Is Carrier-Unlocked
 
@@ -151,7 +155,7 @@ Most Japan eSIM providers accept:
 
 ## Part 2: Where to Buy a Japan eSIM
 
-You have several options for **where to buy a Japan eSIM**. Each has its pros and cons.
+You have several options for **where to buy a Japan eSIM**. Each has its pros and cons, and the price gap between them is wider than most people expect. For a channel-by-channel comparison of cost, queues and setup time, see our [where to get a Japan eSIM](/blog/buy-japan-esim-guide/).
 
 ### Option 1: Direct from eSIM Providers (Most Popular)
 
@@ -161,11 +165,11 @@ Buying directly from an eSIM provider gives you the widest selection of plans an
 |----------|----------|-------------|---------------------|
 | **Airalo** | Budget travelers | $4.00 / 1GB | App or QR code |
 | **Ubigi** | Best unlimited value | $3.50 / 1GB | App or QR code |
-| **Holafly** | Unlimited no throttling | $3.90 / day | App or QR code |
+| **Holafly** | Unlimited, no daily cap | $11.90 / 3 days | App or QR code |
 | **Nomad** | Flexible plans | ~$4.00 / 1GB | App or QR code |
 | **Saily** | Privacy focus | $3.99 / 1GB | App or QR code |
-| **Sakura Mobile** | Japanese phone number | ~$32 / 7 days | QR code |
-| **Mobal** | Budget voice + data | $12 / 3GB | QR code |
+| **Sakura Mobile** | Japanese phone number | ~$31 / 7 days unlimited | QR code |
+| **Mobal** | Budget voice + data | ~$16 / 3GB | QR code |
 | **Japan Wireless** | Local support | ~$35 / 7 days | QR code |
 
 **How to buy:**
@@ -180,9 +184,9 @@ Buying directly from an eSIM provider gives you the widest selection of plans an
 Platforms like Klook and KKday offer Japan eSIMs, often bundled with other travel services.
 
 **Klook:**
-- Offers Softbank 5G and Docomo 4G eSIMs
+- Offers SoftBank 5G and Docomo 4G eSIMs
 - Installation via QR code or Klook app
-- Over 43,000+ reviews, 4.6/5 rating
+- Thousands of traveler reviews
 - Plans from 1-30 days
 
 **KKday:**
@@ -205,7 +209,7 @@ Major Japanese airports have eSIM vending machines and kiosks:
 
 ### Option 4: In Electronics Stores (After Arrival)
 
-Stores like BIC Camera and Yodobashi sell eSIMs and physical SIM cards.
+Stores like BIC Camera and Yodobashi sell eSIMs and physical SIM cards, so our [physical SIM walkthrough](/blog/japan-sim-card-guide/) is worth a look if that route suits you better.
 
 **Pros:** In-person support, can pay cash
 **Cons:** Must wait until arrival, limited hours
@@ -219,7 +223,7 @@ Stores like BIC Camera and Yodobashi sell eSIMs and physical SIM cards.
 3. **You can troubleshoot** carrier lock issues while you're still at home
 4. **The plan doesn't start** until you arrive in Japan and enable data roaming
 
-**Don't wait until you land** — airport WiFi can be unreliable, and you don't want to be troubleshooting a carrier-locked phone at the gate.
+**Don't wait until you land** — airport WiFi can be unreliable, and you don't want to be troubleshooting a carrier-locked phone at the gate. Our [buying checklist](/blog/buy-japan-esim-guide/) compares every purchase channel on price and setup time.
 
 
 ## Part 3: How to Install a Japan eSIM Before Departure
@@ -408,7 +412,7 @@ You've landed in Japan. Now it's time to get online.
 - **Data speeds** may be slower initially as the network registers your device
 
 
-## Part 5: Dual SIM Setup — Keep Your Home Number Active
+## Part 5: Dual SIM Setup — Keep Your Home Number Active With a Japan eSIM
 
 One of the biggest advantages of eSIM is **dual SIM capability** — you can keep your home SIM active for calls and SMS while using the Japan eSIM for data.
 
@@ -444,6 +448,7 @@ Even with careful setup, issues can sometimes arise. Here are the most common pr
 4. **Use manual entry** — tap "Enter Details Manually" and input the SM-DP+ Address and Activation Code
 5. **Check the QR code isn't expired** — some have a validity window
 6. **Restart your phone** and try again
+7. **Check Apple's guidance** — for iPhone-specific installation problems, Apple's [eSIM troubleshooting guide](https://support.apple.com/en-us/HT209044) is the definitive reference
 
 ### Issue 2: QR Code Shows "Already Used"
 
@@ -516,6 +521,8 @@ Even with careful setup, issues can sometimes arise. Here are the most common pr
 | Japan Wireless | (provided in email) |
 | Sakura Mobile | (provided in email) |
 
+**Note:** APN values change as providers update their infrastructure — treat this table as a starting point only. The values in your provider's setup email always take precedence.
+
 ### When to Contact Support
 
 If you've tried all the troubleshooting steps above and still can't connect, contact your eSIM provider's support. Most offer 24/7 chat support.
@@ -527,7 +534,7 @@ If you've tried all the troubleshooting steps above and still can't connect, con
 - The steps you've already tried
 
 
-## Part 7: Pre-Departure Checklist
+## Part 7: Japan eSIM Pre-Departure Checklist
 
 Use this checklist to ensure a smooth eSIM experience:
 
@@ -562,7 +569,7 @@ Use this checklist to ensure a smooth eSIM experience:
 - [ ] Enjoy your trip!
 
 
-## Frequently Asked Questions
+## Japan eSIM Installation FAQ
 
 ### Can I install a Japan eSIM before I travel?
 
@@ -587,7 +594,7 @@ Most phones bought in China mainland do **not** support eSIM, even if the hardwa
 
 ### When does my Japan eSIM plan start?
 
-For most providers, the plan starts when your eSIM **connects to a Japanese network** for the first time. This is usually when you arrive in Japan and turn on data roaming.
+For most providers, the plan starts when your eSIM **connects to a Japanese network** for the first time, and which network that is depends on the provider — the [coverage breakdown](/blog/japan-esim-coverage-guide/) maps carrier to provider. This is usually when you arrive in Japan and turn on data roaming.
 
 ### Can I install a Japan eSIM after arriving in Japan?
 
@@ -603,14 +610,14 @@ Most Japan eSIMs are designed for a single device (your phone). If you need to s
 
 ### What happens if I run out of data?
 
-Most providers allow you to top up through their app or website. Some offer in-app top-ups that take effect immediately.
+Most providers allow you to top up through their app or website, and the [per-GB pricing table](/blog/japan-esim-price-guide/) shows whether a top-up is better value than a fresh plan. Some offer in-app top-ups that take effect immediately.
 
 ### Can I keep my home SIM active while using a Japan eSIM?
 
 Yes — this is one of the biggest advantages of eSIM. You can keep your home SIM active for calls and SMS while the Japan eSIM handles data. Just make sure data roaming is OFF on your home SIM to avoid roaming charges.
 
 
-## Final Thoughts
+## Final Thoughts: Your Japan eSIM Is Ready
 
 Buying and installing a Japan eSIM in 2026 is simpler than ever. The entire process — from checking compatibility to getting online — takes less than five minutes.
 
@@ -624,7 +631,7 @@ Buying and installing a Japan eSIM in 2026 is simpler than ever. The entire proc
 - Keep your home SIM's data roaming OFF
 
 
-*Written by the Roami Team, mobile connectivity specialists with experience testing eSIM providers across Asia. This guide was updated in August 2026 based on publicly available information and provider documentation.*
+*Written by the Roami Team, mobile connectivity specialists with experience testing eSIM providers across Asia. This guide was updated in September 2026 based on publicly available information and provider documentation.*
 
-*Sources: Apple Support, Samsung Support, Google Pixel documentation, Airalo, Holafly, Ubigi, Japan Wireless, and Sakura Mobile official guides. Installation steps may vary slightly between device models and OS versions.*
+*Sources: Apple Support, Samsung Support, Google Pixel documentation, GSMA eSIM specifications, and official provider guides from Airalo, Holafly, Ubigi, [Japan Wireless](https://www.japan-wireless.com/), and [Sakura Mobile](https://www.sakuramobile.jp/). Installation steps may vary slightly between device models and OS versions.*
 

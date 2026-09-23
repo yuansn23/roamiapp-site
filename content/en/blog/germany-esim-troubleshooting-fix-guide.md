@@ -2,14 +2,14 @@
 title: "Germany eSIM Not Working? Fixes for Common Issues"
 description: "No signal after landing? QR code won't scan? APN not working? This guide fixes common Germany eSIM issues. Roami support 24/7."
 keywords: ["Germany eSIM troubleshooting", "Germany eSIM not working", "Germany eSIM APN settings", "Germany eSIM no signal"]
-date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+date: 2026-09-15T00:00:00Z
+lastmod: 2026-09-15T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/germany/germany-esim-troubleshooting-fix-guide.jpg"
 categories: ["Germany", "eSIM", "Travel"]
 tags: ["Germany eSIM", "Travel eSIM"]
-readingTime: 20
+readingTime: 23
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
@@ -55,9 +55,9 @@ One in five first-time eSIM users in Germany encounters an activation or connect
 
 For coverage across German regions, see the [Germany coverage guide](/blog/germany-esim-coverage-cities-trains-alps/). This guide covers every common Germany eSIM failure mode in detail. Use the lookup table below to map your specific symptom to the right section, then follow the deep dives for each problem category. By the end you will have a systematic approach to diagnosing and fixing the issue yourself, plus a clear understanding of when to contact support and what information to have ready.
 
-If you have not yet chosen an eSIM provider for your trip, the complete [Germany eSIM](/germany-esim/) guide compares all the major options across network coverage, pricing, and ease of setup. This article assumes you already have an eSIM and need it working now.
+If you have not yet chosen an eSIM provider for your trip, the complete [Germany eSIM](/germany-esim/) guide compares all the major options across network coverage, pricing, and ease of setup. This article assumes you already have a Germany eSIM and need it working now.
 
-## Quick Reference: Problem to Fix Lookup Table
+## Germany eSIM Troubleshooting: Problem to Fix Lookup Table
 
 The table below lets you jump directly to the fix for your specific situation. Each row matches a common symptom to the section of this guide that addresses it.
 
@@ -78,46 +78,44 @@ Bookmark this table or take a screenshot before you travel. The most common scen
 
 ## No Service After Arrival: The Most Common Germany eSIM Problem
 
-The single most frequent support request from eSIM users arriving in Germany is some variation of "I landed two hours ago and my eSIM still shows No Service." The frustration is understandable. You installed the eSIM profile before you left home, the confirmation email said everything was ready, and yet the phone displays the same empty signal indicator it would show in the middle of the Atlantic.
+The single most frequent support request from eSIM users arriving in Germany is some variation of "I landed two hours ago and my eSIM still shows No Service." The frustration is understandable, and if you are still on the ground the [airport arrival guide](/blog/germany-esim-airport-arrival-guide/) walks through the first-hour checklist at FRA, MUC and BER before you start changing settings. You installed the Germany eSIM profile before you left home, the confirmation email said everything was ready, and yet the phone displays the same empty signal indicator it would show in the middle of the Atlantic.
 
-The cause in roughly 80 percent of these cases is not a broken eSIM. It is a combination of two settings that behave differently once your phone connects to a foreign network for the first time. Understanding how network registration works on German networks, as documented by [heise.de](https://www.heise.de), a German technology publication that has extensively tested eSIM roaming across Telekom, Vodafone, and O2, helps clarify why these settings matter.
+The cause in roughly 80 percent of these cases is not a broken eSIM. It is a combination of two settings that behave differently once your phone connects to a foreign network for the first time. Understanding how network registration works — a process standardised in the [GSMA's eSIM specifications](https://www.gsma.com/esim) and documented by the German carriers themselves — helps clarify why these settings matter.
 
 ### Verifying Data Roaming and Line Assignment
 
-### Step one: verify data roaming is enabled for the eSIM line.
+### Step one: verify data roaming is enabled for the eSIM line
 
-Every modern smartphone requires data roaming to be turned on line by line. This is a security design, not a bug: the phone cannot assume that you want data charges on every line you have installed, and the [EU roaming regulations](https://europa.eu/youreurope/citizens/travel/transport/roaming/) require carriers to prevent accidental roaming charges. When you land in Germany and the phone searches for a local network, it will refuse to establish a data connection on the eSIM unless roaming is explicitly permitted for that line. This catches more travelers than any other single issue.
+Every modern smartphone requires data roaming to be turned on line by line. This is a security design, not a bug: the phone cannot assume that you want data charges on every line you have installed, and the [EU roaming regulations](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_en.htm) require carriers to prevent accidental roaming charges. When you land in Germany and the phone searches for a local network, it will refuse to establish a data connection on the eSIM unless roaming is explicitly permitted for that line. This catches more travelers than any other single issue.
 
-On an iPhone, go to **Settings > Mobile Service** (or Cellular), tap the eSIM line, and make sure "Data Roaming" is toggled on. On Android, the path is **Settings > Connections > SIM Manager**, then select the eSIM and enable "Data Roaming" or "Roaming" depending on your manufacturer's labels. Samsung devices sometimes place this under **Settings > Connections > Mobile Networks > Roaming**. Google Pixel phones put it under **Settings > Network & Internet > SIMs > [eSIM name] > Roaming**.
+On an iPhone, go to **Settings > Mobile Service** (or Cellular), tap the Germany eSIM line, and make sure "Data Roaming" is toggled on. On Android, the path is **Settings > Connections > SIM Manager**, then select the Germany eSIM and enable "Data Roaming" or "Roaming" depending on your manufacturer's labels. Samsung devices sometimes place this under **Settings > Connections > Mobile Networks > Roaming**. Google Pixel phones put it under **Settings > Network & Internet > SIMs > [eSIM name] > Roaming**.
 
-### Step two: confirm the eSIM is set as the primary data line.
+### Step two: confirm the eSIM is set as the primary data line
 
 Dual SIM configurations are the norm for international travelers, and a common mistake is leaving your home physical SIM as the default for mobile data. Your home carrier will not grant a data connection in Germany unless you have an active international roaming plan on that line, and most travelers switch to eSIM specifically to avoid those charges. The phone's data selector may still point to the home line after you land.
 
-On an iPhone, go to **Settings > Mobile Service > Cellular Data** and choose the eSIM line. On Android, go to **Settings > Connections > SIM Manager** and under "Preferred SIM for" select the eSIM for mobile data. Samsung phones call this "Mobile data" in the SIM manager; Pixel phones label it "Preferred SIM for data."
+On an iPhone, go to **Settings > Mobile Service > Cellular Data** and choose the Germany eSIM line. On Android, go to **Settings > Connections > SIM Manager** and under "Preferred SIM for" select the Germany eSIM for mobile data. Samsung phones call this "Mobile data" in the SIM manager; Pixel phones label it "Preferred SIM for data."
 
 ### Using Airplane Mode and Manual Network Selection
 
-### Step three: toggle airplane mode for sixty seconds.
+### Step three: toggle airplane mode for sixty seconds
 
-When a phone has been in airplane mode during a flight and then reconnects to a network in a different country, the network registration process can stall. The phone may have cached the last known home network and keeps trying to reach it. Turning airplane mode on, waiting a full sixty seconds, and turning it off forces the modem to initiate a fresh network scan in Germany. This single action resolves the Germany eSIM not working after arrival is a common issue. Roami offers 24/7 live customer support to help resolve connectivity problems. problem more often than any other troubleshooting step.
+When a phone has been in airplane mode during a flight and then reconnects to a network in a different country, the network registration process can stall. The phone may have cached the last known home network and keeps trying to reach it. Turning airplane mode on, waiting a full sixty seconds, and turning it off forces the modem to initiate a fresh network scan in Germany. This single action resolves the Germany eSIM not working after arrival more often than any other troubleshooting step. If it does not fix your case, Roami offers 24/7 live customer support to help resolve connectivity problems.
 
-### Step four: manually select a German network.
+### Step four: manually select a German network
 
 If you still see No Service after enabling roaming, setting the data line correctly, and cycling airplane mode, the phone may be stuck trying to authenticate with a network that does not have a roaming agreement with your provider. Manual network selection bypasses this entirely.
 
 Disable automatic network selection and pick one of the three German national networks manually. On iPhone, go to **Settings > Mobile Service > Network Selection**, turn off "Automatic," and wait for the list of available networks to appear. Select either Telekom, Vodafone, or O2. On Android, go to **Settings > Connections > Mobile Networks > Network Operators**, tap "Search networks," and select one. If the first network you try does not connect, repeat with the other two.
 
-One of these three will work if the eSIM profile is valid and your phone is unlocked. If none of them connects, proceed to the activation failures section below.
+One of these three will work if the Germany eSIM profile is valid and your phone is unlocked. If none of them connects, proceed to the activation failures section below.
 
-### Understanding Network Handover on Arrival
-
-### Why this happens on arrival: the network handover problem.
+### Understanding the Network Handover on Arrival
 
 When you fly into Germany, your phone attempts to register on a German network using the international roaming credentials stored in the eSIM profile. This process, called Location Update, involves:
 
 1. Your phone sending its International Mobile Subscriber Identity (IMSI) to the German network.
-2. The German network querying your eSIM provider's home network to verify that you are allowed to roam.
+2. The German network querying your Germany eSIM provider's home network to verify that you are allowed to roam.
 
 The entire exchange takes one to three seconds under normal conditions, but several factors can cause it to fail.
 
@@ -133,11 +131,11 @@ Three factors commonly cause the Location Update to fail:
 
 **3. O2 network compatibility.** O2 relies more heavily on Band 20 (800 MHz) for rural coverage and Band 3 (1800 MHz) for urban capacity. Some phones, particularly those sold in Asian markets, lack Band 20 support entirely. If you manually select O2 and get no signal, your phone may simply lack the radio hardware for that network's primary frequency. Switch to Telekom or Vodafone instead.
 
-If you are traveling with an iPhone 14 or later that was purchased in the United States, those models have no physical SIM tray and rely on eSIM exclusively. The troubleshooting process is identical, but the stakes are higher because you have no fallback option. Make sure your eSIM is working before you leave the airport, and consider carrying a secondary eSIM profile from a different provider as a backup.
+If you are traveling with an iPhone 14 or later that was purchased in the United States, those models have no physical SIM tray and rely on eSIM exclusively. The troubleshooting process is identical, but the stakes are higher because you have no fallback option. Make sure your Germany eSIM is working before you leave the airport, and consider carrying a secondary eSIM profile from a different provider as a backup.
 
-## Activation Failures: Provider-Specific Issues and Fixes
+## Germany eSIM Activation Failures: Provider-Specific Issues and Fixes
 
-An activation failure presents itself differently depending on the provider and the phone model. Some users see a pop-up that says "Unable to Activate eSIM" immediately after scanning the QR code. Others see the eSIM profile appear in the phone's settings but remain stuck on "Activating" for hours. A third group receives the QR code by email, scans it successfully, but the provider's backend never completes the provisioning.
+An activation failure presents itself differently depending on the provider and the phone model. Some users see a pop-up that says "Unable to Activate eSIM" immediately after scanning the QR code. Others see the Germany eSIM profile appear in the phone's settings but remain stuck on "Activating" for hours. A third group receives the QR code by email, scans it successfully, but the provider's backend never completes the provisioning.
 
 ### QR Code Scanning and Installation Issues
 
@@ -149,26 +147,26 @@ The most effective fix is to increase screen brightness to maximum before scanni
 
 If the QR code came as an email attachment in PDF format, open the PDF on a laptop, zoom to fill the screen, and scan from the laptop display rather than the phone screen. Some email apps compress images in their preview pane, which degrades QR code resolution. Opening the PDF separately bypasses this compression.
 
-For providers that support manual entry, you can skip the QR code entirely. The activation information includes a numeric SM-DP+ address and an activation code. On an iPhone, tap "Enter Details Manually" at the bottom of the QR code scanning screen and type in the address and code. On Android, the option appears as "Enter activation code instead" or similar wording during the Add eSIM wizard. This bypasses every scanning-related failure.
+For providers that support manual entry, you can skip the QR code entirely. The activation information includes a numeric SM-DP+ address and an activation code. On an iPhone, tap "Enter Details Manually" at the bottom of the QR code scanning screen and type in the address and code. On Android, the option appears as "Enter activation code instead" or similar wording during the Add a Germany eSIM wizard. This bypasses every scanning-related failure.
 
 ### When Activation Gets Stuck
 
 ### When the eSIM profile installs but stays stuck on Activating.
 
-This is the second most common activation failure pattern, and it usually indicates a backend provisioning delay rather than a phone issue. The eSIM profile has been downloaded onto the device's embedded SIM chip, but the provider's server has not yet signaled the German network to accept your IMSI for data traffic.
+This is the second most common activation failure pattern, and it usually indicates a backend provisioning delay rather than a phone issue. The Germany eSIM profile has been downloaded onto the device's embedded SIM chip, but the provider's server has not yet signaled the German network to accept your IMSI for data traffic.
 
-The first thing to try is a phone restart. Not a quick power cycle that some phones treat as a sleep-wake event, but a full shut down, a thirty-second wait, and a fresh boot. This triggers the phone to re-register on the network with the newly installed eSIM profile.
+The first thing to try is a phone restart. Not a quick power cycle that some phones treat as a sleep-wake event, but a full shut down, a thirty-second wait, and a fresh boot. This triggers the phone to re-register on the network with the newly installed Germany eSIM profile.
 
-If a restart does not activate within five minutes, delete the eSIM profile and reinstall from scratch. You can reinstall a Germany eSIM if you delete it, provided the original QR code or activation code is still accessible. On iPhone, go to **Settings > Mobile Service**, tap the eSIM line, and scroll to the bottom to select "Remove Mobile Service Plan." On Android, go to **Settings > Connections > SIM Manager**, tap the eSIM, and choose "Remove" or "Delete." After removal, go through the installation process again with the original QR code or manual entry details. Some providers limit the number of reinstallations, so check the provider's terms before deleting. Most international eSIM providers permit at least three reinstalls per plan.
+If a restart does not activate within five minutes, delete the Germany eSIM profile and reinstall from scratch. You can reinstall a Germany eSIM if you delete it, provided the original QR code or activation code is still accessible. On iPhone, go to **Settings > Mobile Service**, tap the eSIM line, and scroll to the bottom to select "Remove Mobile Service Plan." On Android, go to **Settings > Connections > SIM Manager**, tap the Germany eSIM, and choose "Remove" or "Delete." After removal, go through the installation process again with the original QR code or manual entry details. Some providers limit the number of reinstallations, so check the provider's terms before deleting. Most international eSIM providers permit at least three reinstalls per plan.
 
 ### Provider-Specific Activation Notes
 
 ### Provider-specific activation notes.
 
-Telekom eSIM activation requires the passport verification process to be fully completed before the eSIM profile becomes active:
+Telekom eSIM activation requires the passport verification process to be fully completed before the Germany eSIM profile becomes active:
 
 - If you ordered a Telekom eSIM with a German phone number, the provider runs a background check against the Bundesnetzagentur's database that can take **five minutes to two hours**.
-- The eSIM profile may install immediately, but data and voice will not work until the verification clears.
+- The Germany eSIM profile may install immediately, but data and voice will not work until the verification clears.
 - During this window, the phone may show "E" or "G" (EDGE or GPRS) rather than "4G" or "5G," or alternate between "No Service" and "Emergency Calls Only."
 - This is normal for Telekom -- it indicates the backend registration is pending, not that anything is broken.
 - For travelers who prefer to skip this verification, a [Germany eSIM plan](/germany-esim/) from an international provider requires no passport and activates instantly.
@@ -176,7 +174,7 @@ Telekom eSIM activation requires the passport verification process to be fully c
 Vodafone Germany eSIM activation similarly depends on the completion of the Video-Ident or Post-Ident process:
 
 - Vodafone's system typically activates within **fifteen minutes** of a successful video identification session.
-- During peak periods (Monday mornings, start of major city centers week), the activation queue can extend to **two hours**.
+- During peak periods (Monday mornings, the start of major trade fairs), the activation queue can extend to **two hours**.
 - If you have completed identification and the eSIM remains inactive after two hours, contact Vodafone support with your order number and the Video-Ident reference code.
 
 O2 Germany eSIM activation is the fastest of the three domestic carriers:
@@ -185,9 +183,9 @@ O2 Germany eSIM activation is the fastest of the three domestic carriers:
 - Known issue: the system occasionally flags foreign passports for manual review, which can delay activation by **24 to 48 hours**.
 - O2 customer service can escalate flagged cases, but resolution time depends on the review team's workload.
 
-International eSIM providers that do not require passport verification avoid all the TKG-related delays entirely. The eSIM profile is pre-provisioned on the provider's side before the QR code is generated, so scanning and activation typically complete within seconds. If an international eSIM remains stuck on activating, the issue is almost always related to the phone's network registration rather than the provider's backend, and the manual network selection fix described in the No Service section will usually resolve it.
+International Germany eSIM providers that do not require passport verification avoid all the TKG-related delays entirely. The eSIM profile is pre-provisioned on the provider's side before the QR code is generated, so scanning and activation typically complete within seconds. If an international eSIM remains stuck on activating, the issue is almost always related to the phone's network registration rather than the provider's backend, and the manual network selection fix described in the No Service section will usually resolve it.
 
-## APN Settings Not Working: Step-by-Step Fix for Each Network
+## Germany eSIM APN Settings Not Working: Step-by-Step Fixes
 
 APN stands for Access Point Name. It is the gateway that tells your phone which server to use for internet traffic. Every mobile network operator has its own APN, and eSIM profiles rarely configure this automatically. The profile includes the basic network credentials, but the APN field is left blank on many international eSIMs because the provider cannot know which German network you will be roaming on at any given moment.
 
@@ -195,37 +193,29 @@ When the APN is missing or incorrect, your phone shows the mobile data icon (LTE
 
 ### How to Check If APN Is the Problem
 
-### How to check whether your APN is the problem.
-
 The single most reliable test is to open a web browser and try to load any page. If the page starts loading after a few seconds, APN is not your problem. If the page times out or shows a proxy error while the signal indicator shows a data connection, APN is the likely culprit.
 
 A second test is to check the APN settings currently configured on your phone. On iPhone, go to **Settings > Mobile Service > [eSIM name] > Mobile Data Network**. If the APN field is blank, or if it contains a generic string like "internet" or "data" that does not match your provider's requirements, you need to update it. On Android, go to **Settings > Connections > Mobile Networks > Access Point Names**, select the APN associated with your eSIM, and check the fields.
 
 ### APN Settings for Each German Network
 
-### APN settings for each German network.
-
 The APN for any German network when using an international eSIM is almost always `roami` or the provider's own APN string. However, it is worth knowing the native APN for each German carrier in case your provider instructs you to use the local network APN instead.
 
-For Telekom (Deutsche Telekom) native SIMs and some MVNOs: `telekom.de` or `internet.telekom`
+For Telekom (Deutsche Telekom) native SIMs and some MVNOs: `internet.t-mobile.de`
 
 For Vodafone Germany: `web.vodafone.de`
 
-For O2 Germany (Telefonica): `pin2.internet` or `o2.internet`
+For O2 Germany (Telefonica): `pinternet.interkom.de` (fallback: `internet`)
 
-For international eSIM providers: the APN string is typically provided in your setup instructions.
+For international Germany eSIM providers: the APN string is typically provided in your setup instructions.
 
 ### Step-by-Step APN Entry for iPhone and Android
 
-### Step-by-step APN entry for iPhone.
+**On iPhone**, open **Settings > Mobile Service** and tap the eSIM line that is having problems. Tap **Mobile Data Network**. If you see pre-populated fields, do not delete them unless instructed by your provider. Scroll to the APN field. Enter the correct APN string exactly as provided by your eSIM provider. For international eSIMs that use multiple German networks, the provider will specify a universal APN and may also require a username and password. Most international eSIMs leave username and password blank. Tap the back arrow to save. Turn mobile data off and on again, or restart the phone.
 
-Open **Settings > Mobile Service** and tap the eSIM line that is having problems. Tap **Mobile Data Network**. If you see pre-populated fields, do not delete them unless instructed by your provider. Scroll to the APN field. Enter the correct APN string exactly as provided by your eSIM provider. For international eSIMs that use multiple German networks, the provider will specify a universal APN and may also require a username and password. Most international eSIMs leave username and password blank. Tap the back arrow to save. Turn mobile data off and on again, or restart the phone.
+**On Android**, open **Settings > Connections > Mobile Networks > Access Point Names**. Tap the **Add** button or the plus icon in the top right. Enter the APN name (this is a label, can be anything) and the APN field with the string from your provider. Leave username and password blank unless specified. Tap the three-dot menu and select **Save**. Tap the radio button next to the new APN entry to select it as active. Restart the phone.
 
-### Step-by-step APN entry for Android.
-
-Open **Settings > Connections > Mobile Networks > Access Point Names**. Tap the **Add** button or the plus icon in the top right. Enter the APN name (this is a label, can be anything) and the APN field with the string from your provider. Leave username and password blank unless specified. Tap the three-dot menu and select **Save**. Tap the radio button next to the new APN entry to select it as active. Restart the phone.
-
-### Why APN settings sometimes reset.
+### Why APN settings sometimes reset
 
 A less common but infuriating APN problem occurs when the settings you entered disappear after a phone restart or after switching networks. This happens because some eSIM profiles include a hidden carrier bundle that overwrites user-entered APN fields on each network registration event. iPhone carrier bundles, which are small configuration files pushed by the network, can reset APN values during a network update.
 
@@ -233,7 +223,7 @@ The fix is to check your APN settings after every network change and after every
 
 ### APN and MMS: a note for German phone numbers.
 
-If your eSIM includes a German phone number (common with Telekom, Vodafone, and O2 domestic eSIMs), you may also need MMS proxy and MMS port settings to send picture messages. For Telekom: MMS proxy is `010.128.051.046`, MMS port is `8080` or `9201`. For Vodafone: MMS proxy is `010.128.052.017` or `web.vodafone.de`, MMS port is `8080` or `80`. For O2: MMS proxy is `082.113.005.008`, MMS port is `8080`. International data-only eSIMs do not support SMS or MMS, so these fields are irrelevant.
+If your Germany eSIM includes a German phone number (common with Telekom, Vodafone, and O2 domestic eSIMs), you may also need MMS proxy and MMS port settings to send picture messages. For Telekom: MMS proxy is `010.128.051.046`, MMS port is `8080` or `9201`. For Vodafone: MMS proxy is `010.128.052.017` or `web.vodafone.de`, MMS port is `8080` or `80`. For O2: MMS proxy is `082.113.005.008`, MMS port is `8080`. International data-only eSIMs do not support SMS or MMS, so these fields are irrelevant.
 
 | Issue | Symptom | Most Likely Cause | Fix | Time to Fix |
 |-------|---------|------------------|-----|-------------|
@@ -247,7 +237,7 @@ If your eSIM includes a German phone number (common with Telekom, Vodafone, and 
 | Passport verification fails | Upload rejected | Blurry photo or name mismatch | Retake in good lighting; match name exactly | 10 minutes |
 | Signal drops frequently | Disconnects every few minutes | Network switching instability | Manual network selection to one carrier | 1 minute |
 
-## Slow Data Speeds: Diagnosing and Resolving Network Congestion
+## Germany eSIM Slow Data Speeds: Diagnosing Network Congestion
 
 A Germany eSIM slow data speed fix depends entirely on which network you are connected to and where you are using it. Germany's mobile infrastructure is generally excellent in cities and along major transport corridors but varies significantly by region and by network operator. The Telekom network consistently ranks first in independent speed tests conducted by the Bundesnetzagentur and by organizations like heise.de, with average download speeds around 120 Mbps in urban areas and 40 Mbps in rural regions. Vodafone averages 85 Mbps urban and 25 Mbps rural. O2 trails at 55 Mbps urban and 12 Mbps rural. These averages mask substantial variation at specific locations and times of day.
 
@@ -282,14 +272,11 @@ A related issue affects ICE trains. The Deutsche Bahn high-speed rail network pa
 - The Cologne-Frankfurt line has 30 tunnels in 180 kilometers.
 - The new Stuttgart-Ulm line also has extensive tunnel sections.
 - Inside tunnels, signal drops entirely for 30 to 120 seconds. When the train exits, your phone needs to re-establish a connection, which can take another 10 to 30 seconds.
-- This is n
+- This is not a fix that any eSIM can address — it is a physical limitation of tunnel coverage. However, Telekom has invested most heavily in tunnel coverage and holds a meaningful advantage on ICE routes, as shown on their [5G coverage page](https://www.telekom.de/netz/5g).
 
 For step-by-step setup instructions, see the [Germany eSIM installation guide](/blog/germany-esim-installation-activation-setup/).
-ot a fix that any eSIM can address -- it is a physical limitation of tunnel coverage. However, Telekom has invested most heavily in tunnel coverage and holds a meaningful advantage on ICE routes, as shown on their [coverage map](https://www.telekom.de/netz/coverage).
 
 ### Data Throttling and Fair Use Policies
-
-### Data throttling and fair use policies.
 
 If your eSIM plan has a "fair use" data cap, your speeds may be throttled after you exceed a certain threshold. Many travel eSIMs advertise "unlimited" data but include fine print:
 
@@ -319,7 +306,7 @@ The first possibility is that the QR code itself was generated with errors:
 
 If the QR code in your email or on your provider's website appears pixelated, blurry, or distorted, request a new one. Most providers regenerate QR codes on demand from their customer dashboard or by contacting support. Do not attempt to scan a pixelated QR code repeatedly; each failed scan attempt can temporarily lock the activation code on the server side to prevent brute-force attacks.
 
-### Phone camera issues with QR scanning.
+### Phone camera issues with QR scanning
 
 The phone camera needs to focus on the QR code as a flat surface. Follow these tips:
 
@@ -331,13 +318,11 @@ Some phone cases interfere with QR scanning, particularly cases with a thick rim
 
 ### Expired QR Codes and Manual Entry
 
-### QR code expired.
-
 Some providers include a time window in the eSM-DP+ activation code. If the QR code is not scanned within the window -- typically 24 to 72 hours from generation -- the activation code expires and cannot be used. This catches travelers who buy their eSIM weeks before a trip, download the PDF with the QR code, and then attempt to scan it at the airport on departure day.
 
 If your QR code has expired, contact the provider to request a new one. Most international eSIM providers regenerate codes without charge. Some German domestic providers treat this as a new purchase, so if you are ordering the [eSIM for Germany](/germany-esim/) well in advance of your trip, confirm the QR code validity period at checkout.
 
-### Manual entry as a QR alternative.
+### Manual entry as a QR alternative
 
 As noted in the Activation Failures section, manual entry bypasses all scanning issues. The SM-DP+ address and activation code needed for manual entry are typically included in the same email that contains the QR code. If they are not explicitly listed, check the provider's help pages or contact support. Some providers hide the activation code behind a "Show details" link on their order confirmation page.
 
@@ -345,17 +330,13 @@ On iPhone, from the "Set Up Mobile Service" screen, tap "Enter Details Manually"
 
 ### Fixing PDF and Cropped QR Code Issues
 
-### Germany eSIM QR code not scanning fix for PDF issues.
-
 If your QR code was sent as a PDF attachment and the PDF opens with the QR code partially cropped or scaled incorrectly, the issue is with the PDF viewer, not the QR code. Try opening the same PDF in a different application. On a Mac, Preview typically renders QR codes correctly. On Windows, the built-in PDF reader in Edge works reliably. If the viewer continues to crop the code, take a screenshot of the PDF and scan from the screenshot image saved in your photo library.
 
-## Dual SIM Conflicts: Resolving Line Switching Issues
+## Germany eSIM Dual SIM Conflicts: Resolving Line Switching Issues
 
 Running a home SIM alongside a Germany eSIM creates a configuration challenge that many travelers do not anticipate. The phone has two active lines, but only one default line for data, one for voice, and one for SMS. If these defaults are not set correctly, you can end up in a situation where your home SIM is trying to handle data in Germany (incurring roaming charges or failing entirely) while your eSIM sits unused.
 
 ### Data Line Conflicts
-
-### Data line conflict.
 
 This is the most common dual SIM conflict. You installed the eSIM, enabled data roaming, and the phone shows full signal -- but nothing loads. The likely cause is that the phone's default data line is still set to your home SIM. The home SIM is registered on a German network through international roaming, so it shows signal bars, but your home carrier's roaming data is either not activated or subject to restrictions that prevent a connection.
 
@@ -363,14 +344,10 @@ On iPhone, go to **Settings > Mobile Service > Cellular Data** and tap the eSIM 
 
 ### iMessage, FaceTime, and SMS Routing
 
-### iMessage and FaceTime line assignment.
-
 A subtle conflict arises with iMessage and FaceTime on iPhone:
 
 - Apple allows you to select which line iMessage uses for sending and receiving messages.
 - If iMessage is set to use your home SIM's number but your home SIM has lost data connectivity because you switched the data line to the eSIM, iMessage may fail to send or receive messages.
-
-To fix this, go to **Settings > Messages > Send & Receive** and ensure your Apple ID and at least one reachable number are selected. You can also set iMessage to use the eSIM line temporarily.
 
 To fix this, go to **Settings > Messages > Send & Receive** and ensure your Apple ID and at least one reachable number are selected. You can also set iMessage to use the eSIM line temporarily. For FaceTime, go to **Settings > FaceTime** and check the line assignment.
 
@@ -379,9 +356,7 @@ To fix this, go to **Settings > Messages > Send & Receive** and ensure your Appl
 - On **iPhone**: SMS arrives on both lines regardless of settings.
 - On **Android**: go to **Settings > Connections > SIM Manager** and check which SIM is set as "Preferred SIM for SMS."
 
-If you need to receive SMS on your home number while using eSIM data, set the home SIM as the default for SMS and the eSIM as the default for data. This configuration works because SMS uses negligible bandwidth.
-
-On iPhone, SMS arrives on both lines regardless of settings. On Android, go to **Settings > Connections > SIM Manager** and check which SIM is set as "Preferred SIM for SMS." If you need to receive SMS on your home number while using eSIM data, set the home SIM as the default for SMS and the eSIM as the default for data. This configuration works because SMS uses negligible bandwidth and does not interfere with the eSIM's data connection.
+If you need to receive SMS on your home number while using eSIM data, set the home SIM as the default for SMS and the eSIM as the default for data. This configuration works because SMS uses negligible bandwidth and does not interfere with the eSIM's data connection.
 
 ### Carrier-Locked Phone Issues
 
@@ -389,19 +364,17 @@ On iPhone, SMS arrives on both lines regardless of settings. On Android, go to *
 
 - Carrier locks apply to all SIMs -- physical and embedded -- and prevent the phone from registering on any network other than the locking carrier's partners.
 - An AT&T-locked phone, for example, will not connect to Telekom or Vodafone Germany regardless of which eSIM profile you install.
-- The fix: request an unlock from your home carrier before traveling. In the US, major carriers are required by FCC rules to unlock upon request once the device is paid off. In the EU, carriers must unlock phones free of charge after any lock-in period expires.
+- The fix: request an unlock from your home carrier before traveling (details below).
 
 The fix for a carrier-locked phone is to request an unlock from your home carrier before traveling. In the United States, the major carriers are required by FCC rules to unlock phones upon request once the device is paid off and any contract obligations are met. In the EU, carriers must unlock phones free of charge after any lock-in period expires. In other markets, unlock policies vary. If an unlock is not possible before your trip, your only option is a portable Wi-Fi hotspot device or a physical German SIM purchased on arrival.
 
 If your phone is unlocked and you still see dual SIM conflicts after configuring the data line, the [dual SIM guide](/blog/germany-esim-dual-sim-multi-device/) covers the complete configuration for iPhone and Android, including per-app data routing and hotspot sharing across multiple devices.
 
-## Emergency Calls Only: Fixing Network Registration Errors
+## Emergency Calls Only: Fixing Germany eSIM Network Registration Errors
 
 An "Emergency Calls Only" message means the phone is unable to register on any mobile network for normal service. It has found a network and can place an emergency call (112 in Germany and across the EU), but the network has rejected the phone's request for full registration. This is different from "No Service," which means the phone has not found any network at all.
 
 ### Understanding Why Emergency Calls Only Appears
-
-### Why eSIMs show "Emergency Calls Only" in Germany.
 
 The most common reason is that the eSIM profile's IMSI has been rejected by all available German networks. This happens when:
 
@@ -415,25 +388,17 @@ For German domestic eSIMs from Telekom, Vodafone, or O2, "Emergency Calls Only" 
 
 ### How to Fix Network Registration Errors
 
-### Fix: refresh network registration.
+**Refresh network registration.** The quickest fix for an "Emergency Calls Only" state is to force the phone to reattempt network registration. Turn on airplane mode for thirty seconds, then turn it off. If the phone remains in emergency-only mode after the reconnection, try manual network selection as described in the No Service section above. Select each of the three German networks one at a time. If a network accepts the IMSI, the phone will switch to normal service.
 
-The quickest fix for an "Emergency Calls Only" state is to force the phone to reattempt network registration. Turn on airplane mode for thirty seconds, then turn it off. If the phone remains in emergency-only mode after the reconnection, try manual network selection as described in the No Service section above. Select each of the three German networks one at a time. If a network accepts the IMSI, the phone will switch to normal service.
+**Remove and reinstall the eSIM.** If manual network selection does not resolve the emergency-only state, delete the eSIM profile and reinstall it. The reinstallation triggers a fresh activation request to the provider's servers, which often clears whatever registration flag was blocking the connection. As noted earlier, ensure you still have access to the original QR code or activation information before deleting.
 
-### Fix: remove and reinstall the eSIM.
+**Carrier lock verification.** An "Emergency Calls Only" message on multiple networks is a strong indicator that the phone is carrier-locked. A locked phone can place emergency calls on any network (this is required by law in virtually all jurisdictions) but rejects normal service on any network that is not authorized by the locking carrier. If your phone is locked and you did not realize it, this is the symptom you will see. Check with your home carrier for unlock eligibility before your trip.
 
-If manual network selection does not resolve the emergency-only state, delete the eSIM profile and reinstall it. The reinstallation triggers a fresh activation request to the provider's servers, which often clears whatever registration flag was blocking the connection. As noted earlier, ensure you still have access to the original QR code or activation information before deleting.
-
-### Carrier lock verification.
-
-An "Emergency Calls Only" message on multiple networks is a strong indicator that the phone is carrier-locked. A locked phone can place emergency calls on any network (this is required by law in virtually all jurisdictions) but rejects normal service on any network that is not authorized by the locking carrier. If your phone is locked and you did not realize it, this is the symptom you will see. Check with your home carrier for unlock eligibility before your trip.
-
-## Passport Registration Failures: What to Do When Verification Fails
+## Germany eSIM Registration Failures: When Verification Fails
 
 Germany's TKG law requires that all SIM activations by German-licensed carriers include identity verification. For international visitors, this means the passport verification step is mandatory when buying a domestic German eSIM from Telekom, Vodafone, O2, or their MVNO partners. About one in twelve verification attempts fails on the first try, based on data reported in German technology forums, usually for reasons that are straightforward to correct.
 
 ### Common Reasons for Verification Failure
-
-### Why passport verification fails.
 
 The most common failure reasons are:
 
@@ -445,21 +410,19 @@ The most common failure reasons are:
 
 ### How to Retry a Failed Verification
 
-### How to retry a failed verification.
-
 If your Telekom, Vodafone, or O2 verification failed, the carrier will typically send an email with instructions for retrying. Do not simply upload the same photo again -- address the specific issue first:
 
-### For photo quality:
+**For photo quality:**
 - Use a well-lit room with ambient daylight if possible.
 - Place the passport on a flat surface and hold the camera directly above it.
 - Ensure no fingers or objects cast shadows on the data page.
 - The full page must be visible, including the MRZ at the bottom.
 
-### For name matching:
+**For name matching:**
 - If the order name does not match the passport, cancel the existing order and place a new one with the exact name as printed on your passport.
 - Carriers cannot edit order names after submission because the verification audit trail must match TKG compliance records.
 
-### For expired passports:
+**For expired passports:**
 - If your passport has less than six months validity, some carriers accept a national ID card from EU countries.
 - For non-EU travelers, the only option is to purchase an international eSIM that does not require passport verification.
 
@@ -472,17 +435,43 @@ If your Telekom, Vodafone, or O2 verification failed, the carrier will typically
 - For travelers who find the German passport registration process burdensome or who have had verification failures, an international eSIM is the practical alternative.
 - Note: international data-only eSIMs do not include a German number -- pair them with VoIP services like Skype or Sipgate for outbound calling if needed.
 
-If you need a German phone number for local calls and reservations, note that international data-only eSIMs do not include a German number. You can pair them with VoIP services like Skype or Sipgate for outbound calling. If you specifically need a German mobile number, the [passport registration guide](/blog/germany-esim-passport-registration-requirements/) explains the full legal framework and lists which providers accept which document types.
+If you need a German phone number for local calls and reservations, note that international data-only eSIMs do not include a German number. You can pair them with calling apps like WhatsApp or a VoIP service such as Sipgate for outbound calling. If you specifically need a German mobile number, the [passport registration guide](/blog/germany-esim-passport-registration-requirements/) explains the full legal framework and lists which providers accept which document types.
 
 Skipping the domestic registration process in favor of an international eSIM is a practical choice for many travelers. The savings in time and frustration are substantial, particularly if you are arriving late at night or over a weekend when Video-Ident agents may have limited availability.
 
-## When to Contact Support: Provider Contact Information
+## Germany eSIM Not Working After a Restart? The Order That Fixes It
+
+When a Germany eSIM shows no service, the temptation is to start changing everything at once — which usually makes the diagnosis harder. Work through this sequence instead, in order, checking after each step.
+
+1. **Data roaming on the Germany eSIM line.** Travel plans attach to German networks through roaming agreements, so this toggle must be on even though you are not roaming in the consumer sense. It is the single most common cause of a silent Germany eSIM.
+2. **The Germany eSIM set as the default data line.** Installing the profile is not the same as selecting it; on dual-SIM phones the data line can silently remain on the home number.
+3. **Network selection set to automatic.** Manual selection from an earlier attempt can pin your Germany eSIM to a network it can no longer reach.
+4. **APN values.** Some carriers require an explicit access point name; an empty or stale APN leaves you registered with no data.
+5. **A short airplane-mode cycle, then a reboot.** This forces a fresh attach and clears the stale registration that follows a tunnel or a plane.
+6. **Check the plan's validity window.** A Germany eSIM whose validity began before your trip, or whose activation code expired uninstalled, will not come back to life through settings.
+
+Most cases resolve at step one or two, and the sequence exists mainly to stop you from reinstalling a perfectly good profile. If you reach step six, stop editing settings and read the activation rules for your specific product before doing anything destructive — deleting a working profile is the one action that cannot be undone from the phone.
+
+Two environment reminders while you troubleshoot: verify the phone is not sitting in a thick-walled basement or an interior room with no line of sight outward, and confirm the device is not in a power-saving mode that suspends background network registration. Both mimic a dead Germany eSIM convincingly.
+
+## When the Fix Is a New Germany eSIM Profile
+
+Sometimes the profile itself is the problem, and no amount of settings work will help. Three situations call for a fresh profile rather than more fiddling:
+
+- **The activation code expired before installation.** Providers generate codes with a validity window measured from issue; a code scanned too late cannot be reused, and support can usually reissue it.
+- **The profile installed but never registered, and reinstallation attempts fail.** A corrupted download is rare but real, and a clean re-provision from the provider's side is the standard remedy.
+- **You have changed phones.** A Germany eSIM profile lives on one device. Moving to a new phone requires the provider to issue a replacement profile — cross-platform transfer is only partially supported in 2026 and should not be assumed.
+
+When you contact support, the request goes faster if you arrive with specifics: the order reference, the device model, the exact error or screen state, and what you have already tried in the sequence above. Screenshots of the cellular settings screen save a round trip, and mentioning that you have already verified the roaming toggle and the default data line moves you past the scripted first response.
+
+One practical caution for anyone troubleshooting on a working trip: do not delete the only profile you have before a replacement is confirmed. Keep the old one installed while support works, and only remove it once the new code has arrived and downloaded successfully.
+
+## When to Contact Germany eSIM Support: Provider Contacts
+
 
 Most eSIM issues can be resolved with the steps in this guide, but some problems require provider intervention. Knowing when to escalate and having the right information ready can reduce resolution time from hours to minutes.
 
 ### When to Escalate to Support
-
-### When to contact support.
 
 You should contact your eSIM provider's support team in these situations:
 
@@ -496,8 +485,6 @@ You should contact your eSIM provider's support team in these situations:
 
 ### What Information to Have Ready
 
-### What information to have ready.
-
 When you contact support, provide these details in your first message to avoid back-and-forth:
 
 1. **Your order number or purchase receipt** -- include the email confirmation or transaction ID.
@@ -507,8 +494,6 @@ When you contact support, provide these details in your first message to avoid b
 5. **Whether the eSIM has ever worked on this trip** -- if it worked and then stopped, that is a different diagnostic path from one that never worked at all.
 
 ### Provider Contact Information
-
-### Provider contact information for Germany eSIM.
 
 ### Roami
 
@@ -528,7 +513,7 @@ Customer service at 0172 172 4172 (within Germany) or +49 172 172 4172 from abro
 
 ### Bundesnetzagentur
 
-If you have a complaint about a German carrier's eSIM practices that cannot be resolved through customer service, you can file a formal complaint with Germany's Federal Network Agency at [bundesnetzagentur.de](https://www.bundesnetzagentur.de). The agency handles consumer complaints about telecommunications services and can mediate disputes between subscribers and carriers.
+If you have a complaint about a German carrier's eSIM practices that cannot be resolved through customer service, you can file a formal complaint through the [Bundesnetzagentur consumer complaint portal](https://www.bundesnetzagentur.de/DE/Vportal/AnfragenBeschwerden/start.html). The agency handles consumer complaints about telecommunications services and can mediate disputes between subscribers and carriers.
 
 ### GSMA eSIM standards
 
@@ -548,14 +533,8 @@ For understanding the technical standards behind eSIM profiles, the GSMA provide
 
 Troubleshooting a Germany eSIM does not require technical expertise. The problems that travelers experience are almost always limited to a handful of known failure modes -- roaming disabled, wrong data line selected, missing APN, network congestion, or passport verification delays -- each of which has a documented fix. The approach that saves the most time is systematic: confirm the basics (roaming on, correct data line, APN set), then escalate to network selection, then to profile reinstallation, and finally to provider support.
 
-If you are planning a trip to Germany and want to avoid these issues entirely, services like Roami offer a simpler approach. Unlike Airalo which uses O2 only, Roami automatically switches between Telekom, Vodafone, and O2 networks to maintain the best available signal. This international eSIM requires no passport verification and activates in seconds. You can try the service with a [free UK eSIM](/free-esim/) before your Germany trip to confirm compatibility with your device. Use code **web20** for 20 percent off your first order.
+If you are planning a trip to Germany and want to avoid these issues entirely, services like Roami offer a simpler approach. Unlike Airalo which uses O2 only, Roami automatically switches between Telekom, Vodafone, and O2 networks to maintain the best available signal. This international eSIM requires no passport verification and activates in seconds. You can try the service with a [free eSIM trial](/free-esim/) before your Germany trip to confirm compatibility with your device. Use code **web20** for 20 percent off your first order.
 
-For more Germany travel planning resources, start with the complete [Germany eSIM travel guide](/blog/germany-esim-complete-travel-guide/), which covers network selection, coverage expectations, and plan recommendations. The [installation and activation guide](/blog/germany-esim-installation-activation-setup/) walks through the full setup process for iPhone and Android, and the [dual SIM guide](/blog/germany-esim-dual-sim-multi-device/) explains how to keep your home number active alongside your Germany eSIM. Between these resources and this troubleshooting guide, you have everything needed to arrive in Germany with working connectivity from the moment you step off the plane.
-
-For step-by-step setup, see the [Germany eSIM installation guide](/blog/germany-esim-installation-activation-setup/).
-
-For a complete overview, see the [Germany eSIM travel guide](/blog/germany-esim-complete-travel-guide/).
-
-For a complete guide, see the [Germany eSIM 101](/blog/germany-esim-complete-travel-guide/).
-
-For provider comparisons, see the [Germany eSIM provider ranking](/blog/germany-esim-providers-airalo-holafly-ubigi-comparison/).
+- Start with the [Germany eSIM travel guide](/blog/germany-esim-complete-travel-guide/), which covers network selection, coverage expectations, and plan recommendations.
+- The [installation and activation guide](/blog/germany-esim-installation-activation-setup/) walks through the full setup process for iPhone and Android.
+- The [dual SIM guide](/blog/germany-esim-dual-sim-multi-device/) explains how to keep your home number active alongside your Germany eSIM. Provider behaviour differences are compared in the [provider comparison](/blog/germany-esim-providers-airalo-holafly-ubigi-comparison/). Current prices sit in the [price guide](/blog/germany-esim-price-guide-cheapest-plans/). Between these resources and this troubleshooting guide, you have everything needed to arrive in Germany with working connectivity from the moment you step off the plane.

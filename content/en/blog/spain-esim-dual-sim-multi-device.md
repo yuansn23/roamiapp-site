@@ -2,8 +2,8 @@
 title: "Spain eSIM Dual SIM Setup: iPhone and Android Guide"
 description: "Set up Spain eSIM Dual SIM on iPhone and Android. Keep your home number for WhatsApp and 2FA while using cheap data for hotspot."
 keywords: ["Spain eSIM dual SIM", "Spain eSIM home number", "Spain eSIM iPhone Android", "Renfe eSIM Spain", "Spain eSIM hotspot"]
-date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+date: 2026-09-12T00:00:00Z
+lastmod: 2026-09-12T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/spain/spain-esim-dual-sim-multi-device.jpg"
@@ -51,7 +51,7 @@ recentPosts:
     date: "2026-05-21"
 ---
 
-> **Key takeaways:** A dual SIM setup keeps your home number active for calls, SMS, WhatsApp, and two-factor authentication while a Spain eSIM handles all mobile data at local rates. Savings are substantial — a US T-Mobile traveler on a 14-day trip saves $142 versus the International Day Pass — and the setup works on both iPhone and Android in under 5 minutes. The main caveats: data-only eSIMs do not include a Spanish number (you may need Orange Holiday Europe at EUR 29.99 for apps like Renfe that require SMS verification), and Holafly unlimited plans block hotspot tethering.
+> **Key takeaways:** A dual SIM setup keeps your home number active for calls, SMS, WhatsApp, and two-factor authentication while a Spain eSIM handles all mobile data at local rates. Savings are substantial — a US T-Mobile traveler on a 14-day trip saves over $150 versus the International Day Pass — and the setup works on both iPhone and Android in under 5 minutes. The main caveats: data-only eSIMs do not include a Spanish number (you may need Orange Holiday Europe at about $29.99 for apps like Renfe that require SMS verification), and Holafly unlimited plans cap hotspot tethering at 1GB per day.
 
 Setting up dual SIM in Spain with eSIM lets you keep your home number active while using affordable local data. This dual SIM guide covers iPhone and Android configuration, keeping WhatsApp and iMessage on your home number, and using Renfe and hotspot tethering across Spain.
 
@@ -70,7 +70,7 @@ This guide covers iPhone and Android dual SIM configuration, APN settings, and p
 
 Dual SIM functionality solves the core problem every international traveler faces when choosing a Spain eSIM for travel: maintaining access to their home phone number while using affordable local data. Without dual SIM, you must choose between paying your home carrier's roaming rates or removing your home SIM and losing access to calls and SMS on your regular number.
 
-### Problems solved by dual SIM in Spain:
+### Problems solved by dual SIM in Spain
 
 - Receive SMS verification codes from banks, Google, and services without paying roaming fees
 - Keep your home number active for emergency contacts
@@ -79,9 +79,9 @@ Dual SIM functionality solves the core problem every international traveler face
 - Avoid buying a local number and switching contacts to it
 - Prevent missed calls from family, work, or school about urgent matters
 
-Dual SIM means your phone maintains connections to two separate mobile networks, tracked by Spain's [CNMC](https://www.cnmc.es/) regulator simultaneously. For a detailed breakdown of carrier networks, see our [Movistar vs Orange vs Vodafone comparison](/blog/spain-esim-movistar-orange-vodafone-comparison/). Your home SIM connects to your home carrier's roaming partner in Spain for voice and SMS only. Your Spain eSIM connects to a Spanish carrier for data. The two connections operate independently without interfering with each other. This is made possible by DSDS (Dual SIM Dual Standby) technology, which is standard on all modern dual SIM phones. Both SIMs remain registered with their respective networks, and the phone monitors both for incoming calls and messages simultaneously.
+Dual SIM means your phone maintains connections to two separate mobile networks at the same time, within the regulatory framework overseen by Spain's telecom regulator, the [CNMC](https://www.cnmc.es/). For a detailed breakdown of carrier networks, see our [Movistar vs Orange vs Vodafone comparison](/blog/spain-esim-movistar-orange-vodafone-comparison/). Your home SIM connects to your home carrier's roaming partner in Spain for voice and SMS only. Your Spain eSIM connects to a Spanish carrier for data. The two connections operate independently without interfering with each other. This is made possible by DSDS (Dual SIM Dual Standby) technology, which is standard on all modern dual SIM phones. Both SIMs remain registered with their respective networks, and the phone monitors both for incoming calls and messages simultaneously.
 
-### Data usage distribution with dual SIM:
+### Data usage distribution with dual SIM
 
 | Activity | Uses Home SIM | Uses Spain eSIM |
 |---|---|---|
@@ -97,7 +97,7 @@ Dual SIM means your phone maintains connections to two separate mobile networks,
 
 The key insight: all data-dependent services work through the eSIM, while voice and SMS remain on the home SIM. WhatsApp and iMessage use your home number as the identifier but route the actual data through whatever internet connection is active.
 
-### Who benefits most from dual SIM in Spain:
+### Who benefits most from dual SIM in Spain
 
 1. [Business travelers](/blog/spain-esim-business-digital-nomad/) who must maintain availability on their work number
 2. Anyone using SMS-based two-factor authentication for bank accounts
@@ -105,47 +105,47 @@ The key insight: all data-dependent services work through the eSIM, while voice 
 4. Digital nomads keeping a home country presence while working remotely
 5. Anyone who has already set up WhatsApp with their home number and cannot change it
 
-### Dual SIM cost savings examples by country of origin:
+### Dual SIM cost savings examples by country of origin
 
 A US traveler with T-Mobile visiting Spain for 14 days:
 
 - T-Mobile roaming with Magenta plan: 5GB high-speed included (then 256 kbps), no additional cost
 - T-Mobile International Day Pass: $12/day x 14 days = $168
-- Spain eSIM (10GB, 30 days): $26
-- Dual SIM savings: $142 vs International Day Pass
+- Spain eSIM (10GB, 30 days): about $14
+- Dual SIM savings: about $154 vs International Day Pass
 - Home SIM still receives calls and SMS for free
 
 A UK traveler with EE visiting Spain for 14 days:
 
-- EE Roaming Passport: 2 pounds/day x 14 = 28 pounds
-- Spain eSIM (10GB): $23 (approximately 18 pounds)
-- Dual SIM savings: 10 pounds vs EE roaming pass
+- EE's Roam Abroad pass: about 2 pounds/day on eligible plans (14 days = 28 pounds — check current pricing)
+- Spain eSIM (10GB): about $14 (roughly 11 pounds)
+- Dual SIM savings: about 17 pounds vs EE roaming pass
 - Home SIM still receives calls and SMS
 
 An Australian traveler with Telstra visiting Spain for 14 days:
 
 - Telstra International Roaming: $10 AUD/day x 14 = $140 AUD
-- Spain eSIM (10GB): approximately $35 AUD
-- Dual SIM savings: $105 AUD
+- Spain eSIM (10GB): about A$21
+- Dual SIM savings: about A$119
 - Home SIM receives SMS for free on Telstra
 
 A Canadian traveler with Rogers visiting Spain for 14 days:
 
 - Rogers Roam Like Home: $15 CAD/day x 14 = $210 CAD
-- Spain eSIM (10GB): approximately $30 CAD
-- Dual SIM savings: $180 CAD
+- Spain eSIM (10GB): about C$19
+- Dual SIM savings: about C$191
 - Waived if roaming is purchased as a travel pack ($70 CAD for 14 days)
 
 A Singapore traveler with Singtel visiting Spain for 14 days:
 
 - Singtel ReadyRoam: $5 SGD/day x 14 = $70 SGD
-- Spain eSIM (10GB): approximately $20 SGD
-- Dual SIM savings: $50 SGD
+- Spain eSIM (10GB): about S$19
+- Dual SIM savings: about S$51
 - Data-only roaming passes from Singtel start at $12 SGD for 1GB
 
-Some providers offer automatic carrier switching across Movistar, Orange, Vodafone, and Yoigo, which means both SIMs operate on their optimal networks simultaneously. The home SIM picks the best roaming partner for voice, while the [Spain eSIM for travel](/spain-esim/) selects the best data network independently. This is particularly valuable in Spain where coverage quality varies significantly between regions—Movistar dominates rural areas, Orange excels in cities, and Vodafone offers strong coverage along coastal corridors.
+Some providers offer automatic carrier switching across Movistar, Orange, and Vodafone, which means both SIMs operate on their optimal networks simultaneously. The home SIM picks the best roaming partner for voice, while the [Spain eSIM for travel](/spain-esim/) selects the best data network independently. This is particularly valuable in Spain where coverage quality varies significantly between regions—Movistar dominates rural areas, Orange excels in cities, and Vodafone offers strong coverage along coastal corridors.
 
-### When a single-SIM setup falls short:
+### When a single-SIM setup falls short
 
 Without dual SIM, travelers face several practical frustrations. Removing your home SIM to insert a Spanish physical SIM means losing access to SMS verification from your bank—and if your bank uses SMS-based 2FA, you may be locked out of your accounts entirely for the duration of your trip. Relying solely on home carrier roaming means paying premium rates for data that costs a fraction through a local eSIM. And if your home carrier has limited roaming agreements in Spain, data speeds may be throttled to unusable levels regardless of what you pay.
 
@@ -155,7 +155,7 @@ iPhone dual SIM setup supports either physical SIM + eSIM or dual eSIM depending
 
 For a full overview of eSIM setup and travel tips, check our [Spain eSIM overview](/blog/spain-esim-complete-travel-guide/).
 
-### iPhone dual SIM compatibility:
+### iPhone dual SIM compatibility
 
 | iPhone Model | Physical SIM + eSIM | Dual eSIM | Notes |
 |---|---|---|---|
@@ -172,7 +172,7 @@ For a full overview of eSIM setup and travel tips, check our [Spain eSIM overvie
 
 Important note for travelers with US iPhone 14 or newer: these models lack a physical SIM tray entirely. You must set up your home carrier as an eSIM before traveling, or have your carrier transfer your line to an eSIM profile remotely. AT&T, T-Mobile, and Verizon all support eSIM activation and can convert your physical SIM to eSIM before you depart.
 
-### Step-by-step iPhone dual SIM setup:
+### Step-by-step iPhone dual SIM setup
 
 1. Insert your home physical SIM or install home eSIM profile
 2. Purchase Spain eSIM and receive QR code
@@ -194,13 +194,13 @@ Important note for travelers with US iPhone 14 or newer: these models lack a phy
    - Settings > Messages > Send & Receive > Home number selected
    - Settings > FaceTime > Home number selected
 
-### Advanced iPhone eSIM installation methods:
+### Advanced iPhone eSIM installation methods
 
 Beyond QR code scanning, iOS 17 and newer support two additional installation methods. The first is carrier app installation: some eSIM providers offer a dedicated iOS app that installs the eSIM profile directly without requiring a QR code. The second is manual entry: if the QR code is damaged or cannot be scanned, the provider can supply an SM-DP+ address and activation code that you enter manually under Settings > Cellular > Add Cellular Plan > Enter Details Manually.
 
 For travelers who purchased their eSIM before departure, install the profile while still at home on WiFi. This ensures the eSIM is ready to activate the moment you connect to a Spanish network after landing. If you install after arrival, connect to airport WiFi first, then install the eSIM profile.
 
-### iPhone dual SIM calling behavior:
+### iPhone dual SIM calling behavior
 
 - Incoming calls: Both lines ring simultaneously (if call forwarding is off)
 - Outgoing calls: Defaults to the set "Default Voice Line" (home SIM)
@@ -208,16 +208,16 @@ For travelers who purchased their eSIM before departure, install the profile whi
 - Data during call: eSIM data continues working during home SIM calls
 - WiFi calling: Home SIM can use WiFi or eSIM data for calls via "Allow Cellular Data Switching"
 
-### Managing dual SIM on iPhone:
+### Managing dual SIM on iPhone
 
 - Status bar shows both carrier names (home and Spain)
 - Control Center shows primary and secondary connection status
 - Recent calls list shows which line was used for each call
 - You can switch the data line from Settings > Cellular without restarting
 - Up to 8 eSIM profiles can be stored, with 2 active simultaneously
-- iOS 18 introduced improved dual SIM management with per-line wallpaper tinting and clearer status bar indicators for which line is handling data
+- iOS 18 introduced improved dual SIM management with clearer status bar indicators for which line is handling data
 
-### iPhone dual eSIM configuration (US models without physical SIM):
+### iPhone dual eSIM configuration (US models without physical SIM)
 
 - Install both eSIM profiles (home carrier and Spain eSIM)
 - Follow same configuration steps as physical + eSIM setup
@@ -228,7 +228,7 @@ For travelers who purchased their eSIM before departure, install the profile whi
 
 For dual eSIM setups, ensure both profiles are installed before travel if possible. Converting a postpaid home line to eSIM typically takes 10-30 minutes through your carrier's website or app. Verizon allows eSIM transfer via the My Verizon app, T-Mobile supports it through the T-Mobile app or website, and AT&T offers eSIM through the myAT&T app or by visiting a store.
 
-### iPhone visual voicemail with dual SIM:
+### iPhone visual voicemail with dual SIM
 
 Visual voicemail only works on the line designated as the Default Voice Line. If your home SIM is set as the default voice line, visual voicemail from your home carrier functions normally over the eSIM data connection thanks to "Allow Cellular Data Switching." The voicemail audio routes through the eSIM data path, so you do not incur roaming charges for listening to messages.
 
@@ -236,7 +236,7 @@ Visual voicemail only works on the line designated as the Default Voice Line. If
 
 Android dual SIM configuration varies by manufacturer but achieves the same result: home SIM for calls and SMS, Spain eSIM for data. This Android guide covers the most common devices.
 
-### Samsung Galaxy dual SIM setup:
+### Samsung Galaxy dual SIM setup
 
 1. Insert physical home SIM in SIM tray (slot 1)
 2. Purchase Spain eSIM and receive QR code
@@ -260,29 +260,29 @@ Android dual SIM configuration varies by manufacturer but achieves the same resu
    - Tap "Access Point Names"
    - Enter provider APN (if not auto-configured)
 
-### Samsung dual SIM features:
+### Samsung dual SIM features
 
-- Dual SIM always on (S23 and newer): Both SIMs active simultaneously
+- Dual SIM always on (S23+ and newer): Both SIMs active simultaneously
 - Auto data switching: Falls back to home SIM data if eSIM signal is weak
 - Call forwarding between SIMs: Route calls from one SIM to the other
 - Quick panel toggle: Switch data SIM directly from notification panel
 - Separate ringtones: Set different ringtones for each SIM
 - Dual Messenger: Run two WhatsApp instances, one per SIM, useful if you want a local Spanish number alongside your home number
 
-### Samsung Galaxy specific notes by model series:
+### Samsung Galaxy specific notes by model series
 
 | Galaxy Series | eSIM Support | Dual SIM Type | Dual Data |
 |---|---|---|---|
 | S20, S21, S22 | Yes | Physical + eSIM | No (data on one SIM at a time) |
-| S23, S24, S25 | Yes | Physical + eSIM | Yes (dual data on both) |
+| S23, S24, S25 | Yes | Physical + eSIM | Select models (dual data) |
 | Z Fold 3-6 | Yes | Physical + eSIM | Varies by model |
 | Z Flip 3-6 | Yes | Physical + eSIM | Varies by model |
 | A54, A55 | Yes | Physical + eSIM | No |
 | S20 FE, S21 FE | Yes | Physical + eSIM | No |
 
-Samsung's One UI 6 and 6.1 introduced improved dual SIM handling with clearer icons in the status bar and better call management between lines. On S23 and newer, the "dual data" feature allows both SIMs to maintain LTE or 5G connections simultaneously, which is useful if you need data access from both lines.
+Samsung's One UI 6 and 6.1 introduced improved dual SIM handling with clearer icons in the status bar and better call management between lines. Newer flagship Galaxy models keep both SIMs registered simultaneously, and select models can maintain data connections on both lines — useful if you need data access from either line.
 
-### Google Pixel dual SIM setup:
+### Google Pixel dual SIM setup
 
 1. Insert physical home SIM or install home eSIM
 2. Purchase Spain eSIM
@@ -299,13 +299,13 @@ Samsung's One UI 6 and 6.1 introduced improved dual SIM handling with clearer ic
 6. Configure APN:
    - Tap Spain eSIM > Access Point Names > Add
 
-### Google Pixel dual SIM features:
+### Google Pixel dual SIM features
 
 - **"Ask every time":** Choose SIM per call directly from dialer
 - **Auto data switching:** Automatically switches mobile data between SIMs based on signal strength
 - **Configuration:** Network & Internet > SIMs > Advanced > Automatic data switching
 
-### Other Android dual SIM setup notes:
+### Other Android dual SIM setup notes
 
 | Brand | Dual SIM Type | Config Path | Notes |
 |---|---|---|---|
@@ -316,12 +316,12 @@ Samsung's One UI 6 and 6.1 introduced improved dual SIM handling with clearer ic
 | Nothing Phone (2/3) | Physical + eSIM | Settings > Network & Internet > SIMs | Stock Android config |
 | Motorola Edge/Razr | Physical + eSIM | Settings > Network & Internet > Mobile Network | eSIM support varies by model |
 
-### APN configuration checklist for Android:
+### APN configuration checklist for Android
 
 Some eSIM providers require manual APN entry, especially if the eSIM profile does not auto-configure. Common APN settings you may need:
 
 - Name: Provider Name
-- APN: spain.esim or provided APN
+- APN: the exact value from your provider's setup email
 - MMSC: Leave blank (unless specified)
 - MCC: 214 (Spain)
 - MNC: Varies by carrier
@@ -330,7 +330,7 @@ Some eSIM providers require manual APN entry, especially if the eSIM profile doe
 
 If data does not work after installation, the APN is the most common culprit. Double-check the value against your provider's setup instructions.
 
-### Enabling dual SIM RCS messaging on Android:
+### Enabling dual SIM RCS messaging on Android
 
 RCS (Rich Communication Services) on Android requires careful configuration with dual SIMs. Google Messages supports RCS on one SIM at a time. To ensure RCS works on your home number while using Spain eSIM for data:
 
@@ -343,7 +343,7 @@ Note that RCS roaming charges do not apply since the data path goes through the 
 
 For a side-by-side look at which carriers work best in different Spanish regions, refer to our [Movistar, Orange, and Vodafone comparison](/blog/spain-esim-movistar-orange-vodafone-comparison/).
 
-### Android dual SIM call handling:
+### Android dual SIM call handling
 
 - Both SIMs receive calls simultaneously (duplex ring)
 - Answer from either line without disconnecting the other
@@ -351,13 +351,13 @@ For a side-by-side look at which carriers work best in different Spanish regions
 - Messages from each SIM stored separately in default SMS app
 - Dual SIM icon in status bar shows both signal strengths
 
-### Android VS iPhone dual SIM differences:
+### Android VS iPhone dual SIM differences
 
 - Android generally offers more granular per-SIM configuration
 - iPhone "Allow Cellular Data Switching" is comparably simpler
 - Android shows both carriers in status bar; iPhone shows primary only
 - Android supports separate ringtones per SIM; iPhone uses one ringtone
-- Samsung S23+ supports dual data on both SIMs; iPhone supports data on one SIM at a time
+- Samsung flagship models keep both SIMs registered with automatic data switching; iPhone supports data on one SIM at a time
 - Android allows per-SIM default data management apps; iPhone uses system-wide cellular settings
 - Android supports Dual Messenger (Samsung) and app cloning for separate SIM identities
 
@@ -365,7 +365,7 @@ For a side-by-side look at which carriers work best in different Spanish regions
 
 WhatsApp and iMessage rely on your phone number as the primary identifier. A Spain eSIM dual SIM setup keeps these services working on your home number without requiring you to change your account or inform contacts.
 
-### How WhatsApp handles dual SIM:
+### How WhatsApp handles dual SIM
 
 WhatsApp registers with the SIM that was active during initial setup. It does not detect SIM changes automatically, which works in your favor during dual SIM travel.
 
@@ -377,7 +377,7 @@ WhatsApp registers with the SIM that was active during initial setup. It does no
 - Outbound messages send through the eSIM data connection
 - No need to update your profile or notify contacts of a number change
 
-### What to check for WhatsApp before departure:
+### What to check for WhatsApp before departure
 
 1. Open WhatsApp > Settings > Account > Verify that your home number is displayed
 2. Confirm you can receive SMS on your home SIM (2FA codes arrive via home network)
@@ -385,15 +385,15 @@ WhatsApp registers with the SIM that was active during initial setup. It does no
 4. Enable WhatsApp voice and video calling over data (these use eSIM data in Spain)
 5. Check that WhatsApp backup is up-to-date on WiFi before traveling
 
-### WhatsApp two-step verification and dual SIM:
+### WhatsApp two-step verification and dual SIM
 
 WhatsApp offers an optional two-step verification PIN that adds a layer of security. If you enable this before travel, re-verification on a new device or after reinstall requires the PIN rather than just an SMS code. This is helpful if your home SIM has weak roaming signal in Spain—the PIN acts as a backup verification method. Set this up before departure under WhatsApp > Settings > Account > Two-step verification > Enable.
 
-### WhatsApp Business with dual SIM:
+### WhatsApp Business with dual SIM
 
 If you run a WhatsApp Business account alongside personal WhatsApp, dual SIM lets you keep both active. Install WhatsApp Business and register it with the Spain eSIM number (if it includes voice) while personal WhatsApp stays on your home number. Samsung's Dual Messenger feature can run two WhatsApp instances on the same phone, each tied to a different SIM.
 
-### How iMessage handles dual SIM:
+### How iMessage handles dual SIM
 
 iMessage registers with both phone numbers on the device. During dual SIM setup, both your home number and the Spain eSIM number (if it includes voice) appear in iMessage settings.
 
@@ -401,9 +401,9 @@ iMessage registers with both phone numbers on the device. During dual SIM setup,
 - Apple ID is separate from phone number, so services remain linked
 - iMessages arrive on both numbers if the Spain eSIM includes voice
 - FaceTime works over eSIM data with home number as caller ID
-- SMS forwarding from home SIM to iCloud devices requires home SIM data dual SIM setup
+- SMS forwarding from your home SIM to other iCloud devices continues to work with dual SIM
 
-### iMessage configuration for dual SIM:
+### iMessage configuration for dual SIM
 
 1. Settings > Messages > Send & Receive
 2. Verify your home number is checked under "You can receive iMessages"
@@ -411,17 +411,17 @@ iMessage registers with both phone numbers on the device. During dual SIM setup,
 4. Settings > FaceTime > Your home number selected for caller ID
 5. Call forwarding (Settings > Phone > Call Forwarding) set to home number
 
-### iMessage activation troubleshooting in Spain:
+### iMessage activation troubleshooting in Spain
 
 Occasionally, iMessage fails to activate on the home number after arriving in Spain. This happens because iMessage sends a validation SMS to Apple's servers, and the SMS route may be delayed on the roaming home SIM. To resolve:
 
 1. Turn iMessage off, restart the phone, turn iMessage back on
-2. Ensure the home SIM has at least some signal (even 2G is enough for the activation SMS)
+2. Ensure the home SIM has at least some signal (a roaming voice connection is enough for the activation SMS)
 3. If activation continues to fail, go to Settings > Messages > Send & Receive and tap "Update Apple ID Settings"
 4. Connect to WiFi and attempt activation again
 5. As a last resort, insert the home SIM into a different phone to receive the activation SMS, then move it back
 
-### Potential WhatsApp issues with eSIM:
+### Potential WhatsApp issues with eSIM
 
 - WhatsApp verification: If you reinstall WhatsApp in Spain, the verification SMS arrives on your home SIM. The Spain eSIM cannot receive this SMS. Ensure home SIM roaming is active (even without data) to receive the verification message.
 - WhatsApp backup: Backups over mobile data consume Spain eSIM data. Backup over WiFi at the hotel to conserve data.
@@ -429,7 +429,7 @@ Occasionally, iMessage fails to activate on the home number after arriving in Sp
 - Group messages: Media downloads in groups consume eSIM data. Disable auto-download in WhatsApp settings.
 - Link previews: Each link preview you send in a chat generates a small data request. On a low-data plan, this adds up over hundreds of messages.
 
-### Signal and Telegram with dual SIM:
+### Signal and Telegram with dual SIM
 
 Signal and Telegram operate similarly to WhatsApp—both use your phone number as the identifier and route data through whatever internet connection is active. However, there are nuances:
 
@@ -438,12 +438,12 @@ Signal and Telegram operate similarly to WhatsApp—both use your phone number a
 - Telegram does not strictly require SMS re-verification after initial setup unless you clear app data. Your session remains active on the eSIM data connection.
 - Telegram allows multiple phone numbers on one device through the "Add Account" feature, which is useful if you want a Spanish number alongside your home number.
 
-### Best practices for messaging apps during Spain travel:
+### Best practices for messaging apps during Spain travel
 
 - Keep WhatsApp auto-download set to WiFi only
 - Disable WhatsApp video auto-play in chats
 - Enable iMessage low-quality image mode for cellular
-- Set FaceTime to audio-only for cellular calls
+- Prefer FaceTime Audio calls to cut data use versus video
 - Pin important home contacts for quick calling via home SIM
 - Disable read receipts if you are on a very limited data plan (each receipt uses minimal data, but the cumulative effect over thousands of messages is measurable)
 - Set Telegram channel auto-download to "Never" to prevent large media files from consuming data
@@ -452,20 +452,20 @@ Signal and Telegram operate similarly to WhatsApp—both use your phone number a
 
 Spanish apps often require a local phone number for registration and verification. The Renfe train app, Cabify, Uber, and restaurant booking platforms all need SMS verification that international numbers may not receive reliably. This guide covers your options for obtaining a Spanish number.
 
-### Renfe app setup with Spain eSIM:
+### Renfe app setup with Spain eSIM
 
 The Renfe app (Spain's national rail operator) requires SMS verification for account creation. This presents a challenge for travelers using data-only eSIMs without a Spanish number. Without a verified Renfe account, you cannot book AVE, Avant, or Cercanias tickets through the mobile app or access digital tickets on your phone.
 
 ### Method 1: Spain eSIM with local number (Orange Holiday Europe)
 
-1. Purchase Orange Holiday Europe eSIM (EUR 29.99, includes +34 number)
+1. Purchase the Orange Holiday Europe eSIM (about $29.99, includes a French +33 number)
 2. Install eSIM on phone
 3. Download Renfe app
-4. Create account using the +34 number provided with the eSIM
+4. Create account using the +33 number provided with the eSIM
 5. Receive SMS verification code on the Spain eSIM
 6. Complete registration and book tickets
 
-If you choose this method, keep the Orange eSIM active for the duration of your train travel. The +34 number remains usable for the 30-day validity period, which covers most trips. This is the most reliable Spain eSIM with phone number option for Renfe.
+If you choose this method, keep the Orange eSIM active for the duration of your train travel. The +33 number remains usable for the 30-day validity period, which covers most trips. This is the most reliable Spain eSIM with phone number option for Renfe.
 
 ### Method 2: Data-only eSIM + workaround
 
@@ -486,9 +486,9 @@ Some travelers report success using Google Voice numbers or Skype numbers for Re
 
 ### Method 4: Email-based Renfe account registration
 
-As of 2026, Renfe allows account creation using email as the primary identifier on their website (renfe.com). While the mobile app still pushes SMS verification, the website registration flow sometimes accepts email-only signup. Once the account is created on the website, you can log into the mobile app on your phone using the same credentials. The app then uses the eSIM data connection to display your tickets.
+As of 2026, [Renfe](https://www.renfe.com) allows account creation using email as the primary identifier on their website. While the mobile app still pushes SMS verification, the website registration flow sometimes accepts email-only signup. Once the account is created on the website, you can log into the mobile app on your phone using the same credentials. The app then uses the eSIM data connection to display your tickets.
 
-### Step-by-step: Booking Renfe tickets without a Spanish number:
+### Step-by-step: Booking Renfe tickets without a Spanish number
 
 1. Go to renfe.com on your laptop or tablet (use hotel WiFi)
 2. Create an account using email instead of phone
@@ -498,11 +498,11 @@ As of 2026, Renfe allows account creation using email as the primary identifier 
 6. Access your tickets through "My Tickets" or "Mis Billetes"
 7. Alternatively, keep the PDF on your phone—Renfe conductors scan QR codes from PDFs
 
-### AVE and high-speed train digital ticketing:
+### AVE and high-speed train digital ticketing
 
 Renfe's AVE trains accept digital tickets displayed on your phone screen. The QR code refreshes every 30 seconds to prevent screenshot fraud. If your eSIM data connection is active, the Renfe app displays a live QR code that the gate scanner reads. If data is slow, the QR code may lag or fail to refresh. In this case, screenshot the ticket page at home or the hotel while connected to WiFi, or print the ticket at a station kiosk using the booking reference number.
 
-### ElTenedor and restaurant booking apps:
+### ElTenedor and restaurant booking apps
 
 ElTenedor (thefork.com) requires a phone number for booking confirmations. Similar to Renfe, a Spanish number simplifies the process.
 
@@ -512,7 +512,7 @@ ElTenedor (thefork.com) requires a phone number for booking confirmations. Simil
 - Call restaurants directly from your home SIM (international rates apply)
 - Use ElTenedor's international phone number field (some locations accept it)
 
-### Spanish public transport and mobility apps:
+### Spanish public transport and mobility apps
 
 | App | Purpose | Requires Spanish Number | Works with Data-Only eSIM |
 |---|---|---|---|
@@ -531,15 +531,15 @@ ElTenedor (thefork.com) requires a phone number for booking confirmations. Simil
 | Consignas | Luggage storage booking | No | Yes |
 | Too Good To Go | Surplus food rescue | Recommended | Partial |
 
-### Apps that work well with data-only eSIMs:
+### Apps that work well with data-only eSIMs
 
 Google Maps, Uber, Airbnb, Booking.com, TripAdvisor, Google Translate, Mozilla VPN, and most international travel apps function perfectly with a data-only eSIM. Navigation apps like Google Maps and Waze work offline too if you download map regions before arrival. Google Translate's camera translation feature works in real-time over the eSIM data connection, which is invaluable for reading Spanish menus and street signs.
 
-A data-only [best Spain eSIM plans](/spain-esim/) from providers like Airalo or Nomad handles all standard browsing, mapping, and app functionality. The limitation comes only when an app specifically requires SMS verification on a Spanish number.
+A data-only [Spain eSIM plan](/spain-esim/) from providers like Airalo or Nomad handles all standard browsing, mapping, and app functionality. The limitation comes only when an app specifically requires SMS verification on a Spanish number.
 
 For most travelers, the Renfe app is the primary app that causes issues. Consider buying AVE tickets at the station or through the website before relying on mobile ticketing. AVE tickets can be printed at station kiosks or stored as PDF on your phone.
 
-### Local carrier apps that benefit from a Spain eSIM with a number:
+### Local carrier apps that benefit from a Spain eSIM with a number
 
 If you purchase an eSIM that includes a Spanish phone number, you can use carrier-specific apps that unlock additional functionality:
 
@@ -553,31 +553,32 @@ These apps require a Spanish carrier account and SIM-based authentication, which
 
 ## Spain eSIM Hotspot: Share Your Connection
 
+Sharing one eSIM across devices is the cheapest way to keep a laptop and phone online — and for remote work in particular, the plan's tethering terms matter more than its headline data. Our [business and digital nomad guide](/blog/spain-esim-business-digital-nomad/) covers the work-trip side in depth.
+
 Hotspot tethering extends your Spain eSIM connection to other devices such as laptops, tablets, or travel companions' phones. Not all eSIM plans support tethering, and the quality of the tethered experience varies significantly by provider.
 
-eSIM technology is built on [GSMA](https://www.gsma.com/esim) standards, ensuring broad compatibility across devices. Multi-network providers such as Roami provide automatic switching between the Movistar, Orange, Vodafone, and Yoigo networks.
+eSIM technology is built on [GSMA](https://www.gsma.com/solutions-and-impact/technologies/esim/) standards, ensuring broad compatibility across devices. Multi-network providers such as Roami provide automatic switching between the Movistar, Orange, and Vodafone networks.
 
-### Spain eSIM hotspot support by provider:
+### Spain eSIM hotspot support by provider
 
 | Provider | Hotspot Supported | Device Limit | Speed on Tethered Devices |
 |---|---|---|---|
-| Multi-Network | Yes | Up to 5 | Same as direct connection |
+| Multi-Network (Roami) | Yes | Up to 5 | Same as direct connection |
 | Airalo | Yes | Up to 5 | Same as direct (full plan speed) |
 | Nomad | Yes | Up to 5 | Same as direct |
 | Saily | Yes | Up to 5 | Same as direct |
-| Roamify | Yes | Up to 5 | Same as direct |
-| Holafly Unlimited | No | N/A | Blocked at network level |
+| Holafly Unlimited | Partial | 1 | Hotspot capped at 1GB/day |
 | Orange Holiday Europe | Yes | Up to 5 | Same as direct (within data cap) |
-| Movistar Turista | Yes | Up to 5 | Same as direct |
+| Movistar (in-store prepaid) | Yes | Up to 5 | Same as direct |
 | Vodafone Travel eSIM | Yes | Up to 5 | Same as direct |
 
-### How TTL detection blocks hotspotting:
+### How TTL detection blocks hotspotting
 
-Some providers like Holafly detect hotspot usage by inspecting the TTL (Time To Live) value in network packets. When your phone connects to a cellular network, each data packet has a starting TTL value (typically 64 for iOS). When a tethered device sends a packet through your phone, the TTL decrements by one. The provider's network detects this TTL mismatch and blocks the tethered traffic. Providers that support tethering do not use TTL inspection, which means laptops and tablets connect at full speed without restrictions.
+Some providers enforce their hotspot limits by inspecting the TTL (Time To Live) value in network packets. When your phone connects to a cellular network, each data packet has a starting TTL value (typically 64 for iOS). When a tethered device sends a packet through your phone, the TTL decrements by one. The provider's network can detect this TTL mismatch and block or throttle the tethered traffic. Providers that support tethering without restrictions do not use TTL inspection, which means laptops and tablets connect at full speed.
 
 If you have a hotspot-blocked plan and urgently need to tether, you can use a VPN on both the phone and tethered device—the VPN encapsulation masks the TTL difference on some networks. This workaround is not guaranteed and may violate provider terms of service.
 
-### Hotspot configuration for iPhone:
+### Hotspot configuration for iPhone
 
 1. Settings > Personal Hotspot > Allow Others to Join: ON
 2. Set WiFi password (WPA2 recommended)
@@ -588,7 +589,7 @@ If you have a hotspot-blocked plan and urgently need to tether, you can use a VP
 
 For USB tethering on iPhone with a Mac: connect the iPhone to your Mac via USB cable. The Personal Hotspot section should show "USB Only" as an option. This method is more battery-efficient than WiFi tethering and provides a more stable connection for video calls and large file transfers.
 
-### Hotspot configuration for Android:
+### Hotspot configuration for Android
 
 1. Settings > Connections > Mobile Hotspot and Tethering
 2. Tap "Mobile Hotspot" > Toggle ON
@@ -606,7 +607,7 @@ Android offers additional tethering methods beyond WiFi hotspot:
 | USB Tethering | Low (charges phone) | Fast (wired) | Long sessions, transfers |
 | Bluetooth Tethering | Low | Slow (up to 3 Mbps) | Emergency, messages only |
 
-### Hotspot use cases in Spain:
+### Hotspot use cases in Spain
 
 | Scenario | Typical Daily Data | Best Plan Fit |
 |---|---|---|
@@ -618,10 +619,10 @@ Android offers additional tethering methods beyond WiFi hotspot:
 | Video calls on laptop | 1-3GB per hour | 10GB+ recommended |
 | Cloud file syncing | 1-5GB per sync session | 20GB+ recommended |
 
-### Hotspot battery management:
+### Hotspot battery management
 
-- Phone hotspot drains battery 2-3x faster than normal usage
-- Expected battery life while hotspotting: 3-5 hours on iPhone, 4-6 hours on Android
+- Phone hotspot drains battery roughly 2-3x faster than normal usage
+- Expect only a few hours of hotspotting on a full charge — keep the phone plugged in or carry a power bank
 - Keep the phone plugged into power when hotspotting for extended periods
 - Enable "Battery Saver" or "Low Power Mode" during hotspot use
 - Use a 20,000+ mAh power bank for full-day hotspotting
@@ -629,7 +630,7 @@ Android offers additional tethering methods beyond WiFi hotspot:
 - Reduce screen brightness to minimum while hotspotting (the screen is often the second-largest power drain after the hotspot radio)
 - Disable Bluetooth when using WiFi hotspot to reduce radio interference and battery drain
 
-### Tips for hotspot sharing in Spain:
+### Tips for hotspot sharing in Spain
 
 - Name your hotspot something identifiable (e.g., "SpainData-John")
 - Use the 5GHz band for laptop work (faster file uploads, video calls)
@@ -640,13 +641,13 @@ Android offers additional tethering methods beyond WiFi hotspot:
 - Secure your hotspot with a strong password (avoid "12345678")
 - If using the hotspot in a Madrid or Barcelona co-working space, name your network discreetly to avoid other workers trying to leech your connection
 
-### iPad and tablet tethering specifics:
+### iPad and tablet tethering specifics
 
 iPads with cellular models have their own eSIM capability, but many travelers prefer tethering from their phone to avoid managing multiple eSIM plans. For WiFi-only iPads, tethering is the only mobile connectivity option. The iPad remembers trusted hotspots, so once paired with your phone's hotspot, it reconnects automatically on future sessions.
 
 For Android tablets, you can set up automatic tethering through Samsung's "Auto Hotspot" feature (Samsung devices) or Google's "Instant Tethering" (Pixel devices). These features automatically enable the phone's hotspot when the tablet requests a connection.
 
-### VPN usage with tethered connections:
+### VPN usage with tethered connections
 
 If you work remotely and require a VPN, the tethered connection passes VPN traffic without issues—the eSIM data carries the VPN tunnel, and the tethered device connects through it normally. For split-tunnel VPNs, ensure the tethered device routes work traffic through the VPN while non-work traffic goes directly over the eSIM to conserve VPN bandwidth.
 
@@ -656,7 +657,7 @@ Travelers who primarily need hotspot for laptop work should ensure their chosen 
 
 Running out of data mid-trip is common. Most eSIM providers offer instant top-up that keeps you connected without purchasing an entirely new plan.
 
-### Top-up options by provider:
+### Top-up options by provider
 
 | Provider | Top-up Method | Instant? | Same Plan | Data Extends |
 |---|---|---|---|---|
@@ -667,11 +668,11 @@ Running out of data mid-trip is common. Most eSIM providers offer instant top-up
 | Saily | App | Yes | Yes | Yes (adds to balance) |
 | Orange Holiday | Orange store or app | Varies | Yes | Yes (new plan) |
 
-### Restacking vs. extending top-ups explained:
+### Restacking vs. extending top-ups explained
 
 There are two models for how eSIM top-ups work. "Restacking" adds data to your existing balance without changing your plan's expiry date. For example, if you have 3GB remaining from a 10GB plan and you add a 5GB restack top-up, you now have 8GB total with the same expiry. "Extending" adds data and resets the validity period. For example, if your 30-day plan has 15 days remaining and you buy an extension top-up, the plan extends another 30 days from the top-up date. Always check which model your provider uses before purchasing—restacking is preferable for short trips, while extending works better for multi-month stays.
 
-### How to top up through provider apps:
+### How to top up through provider apps
 
 1. Open provider app (Airalo, Nomad, etc.)
 2. Log in to your account
@@ -682,7 +683,7 @@ There are two models for how eSIM top-ups work. "Restacking" adds data to your e
 7. No QR code or reinstallation needed
 8. Data connection resumes without interruption
 
-### Topping up when you cannot access the app:
+### Topping up when you cannot access the app
 
 - Use hotel WiFi to access the provider's website
 - Ask a travel companion to hotspot for you
@@ -692,7 +693,7 @@ There are two models for how eSIM top-ups work. "Restacking" adds data to your e
 
 Check carrier websites like [Movistar](https://www.movistar.es/), [Orange](https://www.orange.es/), and [Vodafone](https://www.vodafone.es/) for top-up options and store locations.
 
-### Topping up local carrier prepaid eSIMs:
+### Topping up local carrier prepaid eSIMs
 
 - Movistar app or any Tienda Movistar store
 - Orange app, website, or Tienda Orange
@@ -701,25 +702,17 @@ Check carrier websites like [Movistar](https://www.movistar.es/), [Orange](https
 - Bought at tobacconists (estancos) for physical top-up cards
 - Via Spanish bank transfer (slow, 1-2 business days)
 
-### Avoiding top-up scams:
+### Avoiding top-up scams
 
 Only purchase top-ups through official provider apps or websites. Third-party resellers on platforms like eBay or Facebook Marketplace may offer discounted top-ups that never materialize. Legitimate eSIM providers never ask for your eSIM QR code or activation code for a top-up—the top-up is linked to your eSIM profile (ICCID) automatically.
 
-### Auto top-up features:
+### Auto top-up features
 
-Some providers offer auto top-up that triggers when your data drops below a threshold:
+Some providers offer auto top-up that triggers when your data drops below a threshold. Support varies: several provider apps (including Airalo's and Nomad's) let you enable it with a chosen threshold and top-up size, while others don't offer the feature at all. Check your provider's app before departure.
 
-| Provider | Auto Top-Up | Threshold | Minimum Top-Up |
-|---|---|---|---|
-| Multi-Network | Yes | Customizable | 1GB |
-| Airalo | Yes | 500MB | 1GB |
-| Nomad | Yes | 200MB | 1GB |
-| Holafly | No | N/A | N/A |
-| Saily | No | N/A | N/A |
+Enable auto top-up before traveling if you expect heavy data usage in Spain. Set the threshold low enough to catch you before data runs out but high enough to give you buffer to find WiFi if the auto top-up fails for any reason.
 
-Enable auto top-up before departure if you expect heavy data usage in Spain. Set the threshold level based on your comfort with running low—500MB is a safe threshold that gives you enough buffer to find WiFi if the auto top-up fails for any reason.
-
-### Topping up strategies for extended stays:
+### Topping up strategies for extended stays
 
 1. Set data usage alerts at 50%, 75%, and 90% of plan limit
 2. Purchase a 30-day plan for month-long stays (best per-day cost)
@@ -729,7 +722,7 @@ Enable auto top-up before departure if you expect heavy data usage in Spain. Set
 6. Monitor per-app data usage in phone settings
 7. For stays over 60 days, consider a local prepaid SIM from Movistar or Orange instead of repeated eSIM top-ups—local plans often offer better per-GB pricing for long-term use
 
-### Data usage monitoring tools:
+### Data usage monitoring tools
 
 - iPhone: Settings > Cellular > Scroll to app list for per-app data
 - Samsung: Settings > Connections > Data Usage > Mobile Data Usage
@@ -737,16 +730,16 @@ Enable auto top-up before departure if you expect heavy data usage in Spain. Set
 - Provider apps typically show remaining data and days
 - Third-party apps like My Data Manager track usage across billing periods and send notifications at custom thresholds
 
-### What happens if data runs out:
+### What happens if data runs out
 
-- Spain eSIM: Data stops. Existing plan still active but no throughput.
+- Spain eSIM: Data stops. Existing plan still active but no throughput. If topping up feels like the wrong answer for your usage pattern, our [Spain unlimited data and 5G plan guide](/blog/spain-esim-unlimited-data-5g-plans/) compares the fair-use terms behind each "unlimited" tier.
 - Provider sends notification (SMS or app notification)
 - Top-up restores data on the same eSIM profile
 - If no top-up purchased: Phone uses home SIM data (roaming charges may apply)
 - Switching to home SIM data: Turn off eSIM data line, turn on home SIM data roaming
 - Emergency data: Some providers offer emergency 100MB free data if you run out (check provider policy before traveling)
 
-### Multi-plan management during longer trips:
+### Multi-plan management during longer trips
 
 If you stay in Spain for 60+ days, you may outlive your initial eSIM's validity period. At this point, you have three options:
 
@@ -754,7 +747,7 @@ If you stay in Spain for 60+ days, you may outlive your initial eSIM's validity 
 2. Purchase a physical Spanish prepaid SIM from Movistar, Orange, or Vodafone for better long-term rates
 3. Subscribe to a Spanish MVNO like Lowi, Pepephone, or Digi for monthly recurring plans
 
-Spanish MVNOs offer competitive rates for long-term stays. Lowi (Vodafone network) offers 50GB for approximately 15 EUR/month, and Pepephone offers similar pricing. These require a Spanish NIE number or passport for registration and typically need a Spanish address for delivery, though some sell eSIMs at their physical stores.
+Spanish MVNOs offer competitive rates for long-term stays. Lowi (Vodafone's low-cost brand) and Pepephone offer competitively priced monthly plans worth comparing against repeated eSIM top-ups. These require a Spanish NIE number or passport for registration and typically need a Spanish address for delivery, though some sell eSIMs at their physical stores.
 
 Some providers offer auto price comparison features that check top-up rates across carriers when your balance runs low, ensuring you get the best rate for additional data. 24/7 human support helps resolve top-up issues regardless of time zone.
 
@@ -762,7 +755,7 @@ Some providers offer auto price comparison features that check top-up rates acro
 
 Dual SIM setups occasionally encounter configuration conflicts. Most issues have straightforward fixes that resolve within minutes.
 
-### Common dual SIM problems and solutions:
+### Common dual SIM problems and solutions
 
 | Problem | Cause | Solution |
 |---|---|---|
@@ -779,7 +772,7 @@ Dual SIM setups occasionally encounter configuration conflicts. Most issues have
 | eSIM profile disappeared after iOS update | iOS update reset eSIM settings | Reinstall eSIM profile from provider |
 | Spain eSIM data extremely slow | Network congestion or throttling | Toggle Airplane Mode to reconnect |
 
-### iPhone-specific dual SIM troubleshooting:
+### iPhone-specific dual SIM troubleshooting
 
 - "Cellular Plan Not Ready": Restart iPhone, check for iOS update
 - "SIM Failure" on eSIM: Reinstall eSIM profile from provider
@@ -790,7 +783,7 @@ Dual SIM setups occasionally encounter configuration conflicts. Most issues have
 - Personal Hotspot option missing: Reset network settings (Settings > General > Transfer or Reset > Reset > Reset Network Settings)
 - Both lines show "No Service" after landing: Restart phone to force network re-registration
 
-### iPhone dual SIM diagnostic steps:
+### iPhone dual SIM diagnostic steps
 
 If you encounter persistent issues on iPhone:
 
@@ -801,7 +794,7 @@ If you encounter persistent issues on iPhone:
 5. If home calls do not ring, go to Settings > Phone > Calls on Other Devices and verify settings
 6. If none of the above work, remove the Spain eSIM profile, restart, and reinstall it
 
-### Android-specific dual SIM troubleshooting:
+### Android-specific dual SIM troubleshooting
 
 - "SIM card not detected": Reboot phone with SIM reinserted
 - Cannot select data SIM: Carrier restriction on some locked phones
@@ -811,18 +804,18 @@ If you encounter persistent issues on iPhone:
 - Dual SIM icon missing: Enable in System UI Tuner (if available)
 - Mobile network not available for Spain eSIM: Manually select a Spanish network (Movistar, Orange, or Vodafone) in network operator settings
 
-### Network priority and dual SIM:
+### Network priority and dual SIM
 
 When two SIMs operate simultaneously, one may receive reduced throughput. This varies by phone:
 
 - iPhone: Data line gets full priority; voice line maintains background signal
-- Samsung (S23+): Both SIMs maintain full data capability (dual data)
-- Samsung (S22 and older): Data line priority; voice line reduces to 3G during active calls
+- Samsung (S23+ and newer): both SIMs stay registered; data switching is automatic
+- Samsung (S22 and older): Data line priority; voice line drops to lower speeds during active calls
 - Google Pixel: Data line priority; voice line stays on 4G standby
 - Xiaomi/Oppo: Data line priority; voice line reduced
 - OnePlus: Data line priority; voice line stays on LTE during standby
 
-### How to set up dual SIM with home SIM and Spain eSIM without conflicts:
+### How to set up dual SIM with home SIM and Spain eSIM without conflicts
 
 1. Install Spain eSIM first (before inserting home SIM if possible)
 2. Configure eSIM data settings before adding home SIM
@@ -833,7 +826,7 @@ When two SIMs operate simultaneously, one may receive reduced throughput. This v
 7. Test SMS delivery on home SIM while eSIM data is active
 8. If conflicts appear, remove home SIM, restart, reinsert
 
-### Spain eSIM dual SIM conflict with carrier profiles:
+### Spain eSIM dual SIM conflict with carrier profiles
 
 Some carriers push carrier settings updates that override eSIM configuration. If your home carrier sends an update after you arrive in Spain:
 
@@ -845,7 +838,7 @@ Some carriers push carrier settings updates that override eSIM configuration. If
 
 For more on coverage across Spanish cities, see our [Spain eSIM travel guide](/blog/spain-esim-complete-travel-guide/).
 
-### Regional connectivity issues in Spain:
+### Regional connectivity issues in Spain
 
 Dual SIM performance varies by region in Spain:
 
@@ -854,7 +847,7 @@ Dual SIM performance varies by region in Spain:
 | Madrid | Orange / Movistar | Both networks strong; minimal conflicts |
 | Barcelona | Vodafone / Orange | Good dual SIM performance |
 | Andalusia (rural) | Movistar | Vodafone/Orange may have gaps; keep home SIM active |
-| Basque Country | Orange / Euskaltel | Euskaltel is regional; Movistar has good roaming coverage |
+| Basque Country | Movistar / Orange | Euskaltel (MASORANGE group) is strong regionally |
 | Valencia | Vodafone / Movistar | Coastal coverage excellent; inland more variable |
 | Canary Islands | Movistar / Orange | Both strong on tourist routes |
 | Balearic Islands | Movistar | Best coverage across islands |
@@ -862,9 +855,9 @@ Dual SIM performance varies by region in Spain:
 
 If your Spain eSIM uses a multi-network provider with automatic switching, you get the best rural coverage via Movistar. If it connects to Orange, you may experience weaker signal in remote areas of Andalusia or Extremadura.
 
-### eSIM profile management for multi-country trips:
+### eSIM profile management for multi-country trips
 
-If your Spain trip is part of a larger European tour, plan your eSIM strategy accordingly:
+If your Spain trip is part of a larger European tour, plan your eSIM strategy accordingly: Border-crossing behaviour, including how the same profile roams onto partner networks outside Spain, is set out in our [Spain eSIM multi-country Europe guide](/blog/spain-esim-multi-country-europe-travel/).
 
 - Buy a Europe-wide eSIM that covers Spain plus neighboring countries
 - Store the European eSIM profile alongside a Spain-specific eSIM profile
@@ -874,7 +867,7 @@ If your Spain trip is part of a larger European tour, plan your eSIM strategy ac
 
 Most phones store 5-10 eSIM profiles, so you can carry multiple country profiles and activate them as you cross borders. The Spain eSIM profile remains dormant when not in use and does not consume any resources.
 
-### eSIM not activating after installation:
+### eSIM not activating after installation
 
 If your Spain eSIM installs but does not activate:
 
@@ -895,7 +888,11 @@ First-time users can try a [free eSIM starter](/free-esim/) to verify dual SIM c
 
 Dual SIM travel in Spain eliminates the tradeoff between staying connected on your home number and using affordable local data. With the configuration steps outlined here, you maintain full access to your home contacts, two-factor authentication, and messaging apps while enjoying high-speed 5G data on Spanish networks. Check your phone's dual SIM capabilities before traveling, configure the eSIM before departure, and verify both lines are working upon arrival. The five minutes spent on setup saves days of connectivity headaches during your trip.
 
-For pricing and plan comparisons, see our [Spain eSIM price guide](/blog/spain-esim-price-guide-cheapest-plans/). For more on Movistar Orange Vodafone comparison, see our [Spain network comparison guide](/blog/spain-esim-movistar-orange-vodafone-comparison/). For troubleshooting issues, see our [Spain eSIM troubleshooting](/blog/spain-esim-troubleshooting-fix-guide/).
+Related reading:
+
+- What plans cost: the [Spain eSIM price guide](/blog/spain-esim-price-guide-cheapest-plans/)
+- Which network does what: the [Spain network comparison guide](/blog/spain-esim-movistar-orange-vodafone-comparison/)
+- When things break: the [Spain eSIM troubleshooting guide](/blog/spain-esim-troubleshooting-fix-guide/)
 
 ## Frequently Asked Questions About Dual SIM with Spain eSIM
 
@@ -915,7 +912,7 @@ Yes. WhatsApp uses your home number as the account identifier. Data for WhatsApp
 Renfe eSIM Spain works, but the Renfe app often requires SMS verification. If your Spain eSIM includes a phone number (Orange Holiday Europe), use it for Renfe registration. If using a data-only eSIM, book tickets on the Renfe website (email registration) and use the app for ticket display.
 
 ### Can I use hotspot with my Spain eSIM?
-Spain eSIM hotspot support depends on your provider. Airalo, Nomad, Orange Holiday, Vodafone Travel, and multi-network plans all support tethering. Holafly unlimited plans block hotspot. Check your plan's policy before purchasing.
+Spain eSIM hotspot support depends on your provider. Airalo, Nomad, Orange Holiday, Vodafone Travel, and multi-network plans all support tethering. Holafly unlimited plans cap hotspot at 1GB per day. Check your plan's policy before purchasing.
 
 ### How do I avoid roaming charges with dual SIM?
 Set your home SIM's Data Roaming to OFF and the Spain eSIM's Data Roaming to ON. Set it as your default data line. This ensures all data goes through the eSIM while your home SIM only handles calls and SMS.
@@ -927,16 +924,16 @@ Most travelers do not need a Spanish phone number. Data-only eSIMs work for all 
 All major Spain eSIM providers—Airalo, Holafly, Nomad, Orange Holiday, Vodafone Travel, and multi-network providers—support dual SIM with your home SIM. The key is configuring your phone correctly, not the eSIM provider.
 
 ### Can I use dual SIM on US iPhone models without a physical SIM tray?
-Yes. US iPhone 14, 15, and 16 models are eSIM-only. Convert your home carrier line to an eSIM before travel (AT&T, T-Mobile, Verizon all support this). Then install the Spain eSIM as a second eSIM. Both eSIMs can be active simultaneously with dual SIM functionality.
+Yes. US iPhone 14 and later models are eSIM-only (as is the iPhone Air sold worldwide). Convert your home carrier line to an eSIM before travel (AT&T, T-Mobile, Verizon all support this). Then install the Spain eSIM as a second eSIM. Both eSIMs can be active simultaneously with dual SIM functionality.
 
 ### What is the best Spain eSIM for dual SIM use?
-The best Spain eSIM for dual SIM use depends on your needs. For data-only, Airalo and Nomad offer reliable service. For a Spanish phone number, Orange Holiday Europe includes a +34 number. For automatic carrier switching across all networks, multi-network eSIMs provide the most reliable coverage.
+The best Spain eSIM for dual SIM use depends on your needs. For data-only, Airalo and Nomad offer reliable service. For SMS verification and calls, Orange Holiday Europe includes a French (+33) number that works across the EU. For automatic carrier switching across networks, multi-network eSIMs provide the most reliable coverage.
 
 ### Can I buy a Spain eSIM prepaid plan for dual SIM?
 Yes, Spain eSIM prepaid plans from Movistar, Orange, and Vodafone work with dual SIM. You can also buy prepaid eSIMs from international providers like Airalo, Holafly, and Nomad. All support dual SIM configuration with your home SIM.
 
 ---
 
-*Device compatibility and plan details verified as of July 2026. Prices are subject to change. Always verify current pricing on the provider's website. For iPhone guidance, see [Apple's eSIM support page](https://support.apple.com/en-us/HT212780). Coverage maps: [Movistar](https://www.movistar.es/), [Orange Spain](https://www.orange.es/), [Vodafone Spain](https://www.vodafone.es/), [Yoigo](https://yoigo.com/). For eSIM-compatible devices, visit the [GSMA eSIM device list](https://www.gsma.com/esim/).*
+*Device compatibility and plan details verified as of July 2026. Prices are subject to change. Always verify current pricing on the provider's website. For iPhone guidance, see [Apple's eSIM support page](https://support.apple.com/en-us/118669). Coverage maps: [Movistar](https://www.movistar.es/), [Orange Spain](https://www.orange.es/), [Vodafone Spain](https://www.vodafone.es/), Yoigo. For eSIM-compatible devices, visit the [GSMA eSIM device list](https://www.gsma.com/solutions-and-impact/technologies/esim/).*
 
 For more information, see our [Spain eSIM overview](/blog/spain-esim-complete-travel-guide/).

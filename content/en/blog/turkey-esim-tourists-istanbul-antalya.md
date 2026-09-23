@@ -2,8 +2,8 @@
 title: "Best Turkey eSIM for Tourists: Istanbul and Beyond"
 description: "City-by-city Turkey eSIM coverage for Istanbul, Antalya, Bodrum and Cappadocia, plus how Roami keeps you online at resorts."
 keywords: ["turkey esim for tourists", "istanbul esim", "antalya esim", "cappadocia esim", "turkey esim coverage istanbul", "turkey travel esim", "turkey esim for travel"]
-date: 2026-09-16T00:00:00Z
-lastmod: 2026-09-16T00:00:00Z
+date: 2026-09-17T00:00:00Z
+lastmod: 2026-09-17T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/turkey/turkey-esim-tourists-istanbul-antalya.jpg"
@@ -72,18 +72,18 @@ recentPosts:
 
 Coverage in Turkey is good in cities and often poor in the places tourists actually go. This guide shows you what to expect in Istanbul, Antalya, Cappadocia, and along the coast.
 
-## At a Glance
+## Istanbul and Antalya eSIM Options at a Glance
 
 - City coverage is strong at 40–100 Mbps, but resort Wi-Fi is often a slow 5–10 Mbps shared by hundreds of guests.
 - Cappadocia’s valleys need a Turkcell-network eSIM, and underground cities have no signal on any network.
 - Download offline maps before balloon rides and blue cruises.
 - The summer tourist rush congests the networks, so shoulder season is the fastest time to connect.
 
-## What This Tourists Guide Solves
+## What This Turkey eSIM Tourist Guide Solves
 
 This guide solves the destination layer: what you should actually expect from your Turkey eSIM in Istanbul, Antalya, Marmaris, Bodrum, Fethiye and Cappadocia. It assumes you have already bought an eSIM and want to know where signal works, where it drops, how fast the data is, and what to prepare offline.
 
-It does not re-explain the [BTK block](/blog/turkey-esim-ban-availability-rules/), activation steps, [network coverage guide](/blog/turkcell-vodafone-turk-telekom-esim/) or provider selection. Those are covered in the linked deep-dive articles. What this page gives you is city-level speed data, resort Wi-Fi comparisons, seasonal congestion patterns, offline preparation rules, family hotspot strategy, emergency setup and destination-specific data plans.
+It does not re-explain the [BTK block](/blog/turkey-esim-ban-availability-rules/), activation steps, [network coverage guide](/blog/turkcell-vodafone-turk-telekom-esim/) or provider selection. Each of those has its own deep-dive article linked above. What this page gives you is city-level speed data, resort Wi-Fi comparisons, seasonal congestion patterns, offline preparation rules, family hotspot strategy, emergency setup and destination-specific data plans.
 
 The short version: city coverage is strong at 40–100 Mbps, resort Wi-Fi is usually 5–10 Mbps shared among hundreds of guests, Cappadocia valleys need Turkcell, and underground cities have no signal on any carrier.
 
@@ -91,7 +91,7 @@ The short version: city coverage is strong at 40–100 Mbps, resort Wi-Fi is usu
 
 Istanbul is Turkey’s most connected city. Turkcell, Vodafone and Türk Telekom all provide strong coverage across Sultanahmet, Taksim, Kadıköy, Beşiktaş and the Bosphorus bridges. 5G is available in central districts. The practical difference between carriers is smaller in Istanbul than anywhere else in Turkey. All three work for maps, messaging and ride-hailing.
 
-### Where Istanbul Turkey eSIM Signal Drops
+### Where Istanbul Signal Drops
 
 | Location | Signal issue | What to do |
 |---|---|---|
@@ -101,7 +101,7 @@ Istanbul is Turkey’s most connected city. Turkcell, Vodafone and Türk Telekom
 | Underground metro sections | Patchy data | Download offline maps |
 | Crowded event areas | Congestion | Try manual network selection |
 
-### Istanbul Turkey eSIM Data Use by Activity
+### Istanbul Data Use by Activity
 
 | Activity | Estimated data | Daily frequency |
 |---|---|---|
@@ -114,7 +114,7 @@ Istanbul is Turkey’s most connected city. Turkcell, Vodafone and Türk Telekom
 
 For a 5–7 day Istanbul trip, 5–10 GB is recommended. Light users who rely on hotel Wi-Fi for heavy tasks can manage with 3–5 GB.
 
-### Istanbul Turkey eSIM Essential Apps
+### Istanbul Apps Worth Installing
 
 - **Uber / BiTaksi** — ride-hailing needs live data
 - **Google Maps / Yandex Maps** — download offline maps
@@ -129,7 +129,7 @@ Istanbul Airport (IST) has free Wi-Fi, but it often requires SMS verification. I
 
 Antalya has the best mobile coverage of all Turkish coastal cities. 5G is widely available, and both Turkcell and Vodafone perform well. Real-world testing shows 40–100 Mbps in resort areas, faster than most hotel Wi-Fi.
 
-### Antalya Turkey eSIM Speed Tests by Location
+### Antalya Speed Tests by Location
 
 | Location | Network | Speed |
 |---|---|---|
@@ -141,11 +141,11 @@ Antalya has the best mobile coverage of all Turkish coastal cities. 5G is widely
 | Lara resort pools | 4G/5G | 40–80 Mbps |
 | Duden Waterfalls | 4G | 30–50 Mbps |
 
-### Antalya Turkey eSIM Resort Wi-Fi Trap
+### The Antalya Resort Wi-Fi Trap
 
 Testing in Antalya and Side found hotel Wi-Fi at 5–10 Mbps shared among hundreds of guests. Mobile data delivered 60–80 Mbps poolside. Use your eSIM as the primary connection. Reserve hotel Wi-Fi for large downloads during off-peak hours.
 
-### Kemer Belek Side Turkey eSIM Speeds
+### Speeds Around Kemer, Belek and Side
 
 | Location | Network | Speed |
 |---|---|---|
@@ -156,7 +156,7 @@ Testing in Antalya and Side found hotel Wi-Fi at 5–10 Mbps shared among hundre
 
 These speeds support maps, messaging, social media and video calls.
 
-### Antalya Turkey eSIM Data Plan Sizing
+### Antalya Data Plan Sizing
 
 For a 7-day beach holiday with moderate use, 5–10 GB is sufficient. If you stream daily or use hotspot, aim for 15–20 GB. For per-GB cost math, read the [price math](/blog/cheapest-turkey-esim/).
 
@@ -164,7 +164,7 @@ For a 7-day beach holiday with moderate use, 5–10 GB is sufficient. If you str
 
 Both Turkcell and Vodafone perform well in Marmaris and Fethiye. Blue Cruise routes have about 70–80% mobile data uptime. Signal drops in remote bays and between islands. Boat trips to Greek islands can also lose signal.
 
-### Marmaris Fethiye Turkey eSIM Coverage Table
+### Marmaris and Fethiye Coverage
 
 | Location | Network | Speed |
 |---|---|---|
@@ -172,11 +172,11 @@ Both Turkcell and Vodafone perform well in Marmaris and Fethiye. Blue Cruise rou
 | Marmaris Castle | 4G | 40–60 Mbps |
 | Fethiye town center | 4G | 40–60 Mbps |
 
-### Blue Cruise Turkey eSIM Connectivity Reality
+### Blue Cruise Connectivity Reality
 
 Blue Cruise routes have about 70–80% mobile data uptime. Signal drops in remote bays and between islands. Boat trips to Greek islands can also lose signal. Plan for offline gaps.
 
-### Blue Cruise Turkey eSIM Offline Downloads
+### What to Download Before Boarding
 
 Download before boarding:
 
@@ -186,17 +186,17 @@ Download before boarding:
 - Restaurant and activity reservations
 - Emergency contact numbers
 
-### Dalaman Airport Turkey eSIM Coverage
+### Dalaman Airport Coverage
 
 Dalaman Airport (DLM) has 4G coverage throughout both terminals. With a pre-installed eSIM, you will be online before baggage claim.
 
-For the Marmaris-to-Fethiye stretch, pick a plan with unrestricted hotspot so you stay online through the Blue Cruise dead zones. [Roami’s Turkey plan](/turkey-esim/) includes unrestricted hotspot and transparent FUP terms.
+For the Marmaris-to-Fethiye stretch, pick a plan with unrestricted hotspot so you stay online through the Blue Cruise dead zones. [Roami’s Turkey plan](/turkey-esim/) includes unrestricted hotspot with a published daily quota (1–2 GB/day, resets at midnight).
 
 ## Bodrum eSIM Coverage: Beach Club Wi-Fi Traps
 
 Bodrum Castle area has 45–70 Mbps 4G. Marina and waterfront bars have 40–60 Mbps. Beach club Wi-Fi is often 2–5 Mbps, overloaded and not worth paying a premium for.
 
-### Bodrum Turkey eSIM Speed Tests
+### Bodrum Speed Tests
 
 | Location | Network | Speed |
 |---|---|---|
@@ -204,11 +204,11 @@ Bodrum Castle area has 45–70 Mbps 4G. Marina and waterfront bars have 40–60 
 | Marina and waterfront bars | 4G | 40–60 Mbps |
 | Beach clubs sunbed Wi-Fi | Overloaded | 2–5 Mbps |
 
-### Bodrum Turkey eSIM Beach Club Trap
+### The Beach Club Wi-Fi Trap
 
 Beach clubs charge €15–30 for a sunbed that includes Wi-Fi. The Wi-Fi is usually overloaded at 2–5 Mbps. Your eSIM delivers 40–60 Mbps for free. Do not pay a premium for a sunbed because it includes Wi-Fi.
 
-### Bodrum Turkey eSIM Data Plan Sizing
+### Bodrum Data Plan Sizing
 
 For a 5–7 day trip with moderate use, 5–10 GB is sufficient. If you use hotspot or stream daily, aim for 10–20 GB.
 
@@ -216,7 +216,7 @@ For a 5–7 day trip with moderate use, 5–10 GB is sufficient. If you use hots
 
 Turkcell is the strongest provider in mountainous Cappadocia. In Göreme and Ürgüp, all networks work. In the valleys, Turkcell has the advantage. Underground cities have no signal on any carrier.
 
-### Cappadocia Turkey eSIM Coverage by Town
+### Cappadocia Coverage by Town
 
 | Location | Coverage | Best network |
 |---|---|---|
@@ -227,21 +227,21 @@ Turkcell is the strongest provider in mountainous Cappadocia. In Göreme and Ür
 | Isolated valleys | Patchy | Turkcell |
 | Underground cities | No signal | None |
 
-### Cappadocia Turkey eSIM Balloon Connectivity
+### Balloon Flight Connectivity
 
 Signal during hot air balloon flights is generally good over Göreme valley. Balloon launch areas and early-morning gathering points may have temporary congestion. If you plan to livestream the sunrise flight, test your connection before boarding.
 
-### Where Cappadocia Turkey eSIM Fails
+### Where Cappadocia Signal Fails
 
 - **Underground cities** — Derinkuyu and Kaymaklı have no signal
 - **Deep valley hikes** — Rose Valley and Love Valley are patchy
 - **Remote viewpoints** — signal depends on line-of-sight
 
-### Cappadocia Turkey eSIM Offline Rule
+### The Cappadocia Offline Rule
 
 Download offline maps, routes and booking confirmations before leaving your hotel. Do not rely on mobile data for navigation in the valleys. For the full network comparison behind this rule, read the [full network comparison](/blog/turkcell-vodafone-turk-telekom-esim/).
 
-### Cappadocia Turkey eSIM Data Plan Sizing
+### Cappadocia Data Plan Sizing
 
 | Activity | Estimated data |
 |---|---|
@@ -252,11 +252,13 @@ Download offline maps, routes and booking confirmations before leaving your hote
 
 For a 2–3 day Cappadocia trip, 2–5 GB is sufficient. Offline maps reduce usage.
 
-## Quick Recap
+Two resort-specific details are worth pinning down before departure. Save the QR code image and your phone’s IMEI somewhere offline, because hotel Wi-Fi is exactly when support requests stall, and look at a coverage map for the specific stretch of coast rather than trusting country-level claims — Antalya’s LTE is strong along the beach strip, while evening throttling under a fair-use policy (FUP) hits hardest when everyone streams after dinner. Latency on the networks is low enough for video calls, and an in-app top-up costs the same as it does at home, which keeps any refund debate out of the holiday entirely.
+
+## Quick Recap: The City-Trip Pick
 
 You have now covered Istanbul, Antalya, Marmaris, Fethiye, Bodrum, and Cappadocia one by one. The pattern is that city signal is fine, resort Wi-Fi is the trap, and rural and valley coverage depends on the network. Next, we compare resort Wi-Fi against mobile data and seasonal congestion.
 
-## Is Resort Wi-Fi Reliable, or Should You Use Data?
+## Is Resort Wi-Fi Reliable, or Should You Use eSIM Data?
 
 The pattern is consistent across every destination in this guide: resort Wi-Fi is slower, more congested and less reliable than your eSIM. Mobile data uses the carrier’s network, which has far more capacity and is not shared with other hotel guests.
 
@@ -268,17 +270,17 @@ The pattern is consistent across every destination in this guide: resort Wi-Fi i
 | Lara Beach hotels | 5–10 Mbps | 50–70 Mbps | 5–10× faster on eSIM |
 | Belek golf resorts | 5–10 Mbps | 50–70 Mbps | 5–10× faster on eSIM |
 
-### Why Turkey Resort Wi-Fi Is Slow
+### Why Resort Wi-Fi Is Slow
 
 Resort Wi-Fi is shared among hundreds of guests. The access points are often outdated. Bandwidth is limited by the hotel’s contract. During peak evening hours, speed drops further.
 
-### When to Use Turkey Resort Wi-Fi
+### When Resort Wi-Fi Is Good Enough
 
 - Large downloads during off-peak hours
 - Streaming video when you are not in a hurry
 - Backup if your eSIM fails
 
-### When to Use Turkey eSIM Mobile Data
+### When Mobile Data Is the Only Option
 
 - Maps and navigation
 - Ride-hailing
@@ -287,11 +289,11 @@ Resort Wi-Fi is shared among hundreds of guests. The access points are often out
 - Hotspot for a laptop
 - Anything that needs to work immediately
 
-## When Is Congestion Worst?
+## When Is Turkish Network Congestion Worst?
 
 Summer is the most congested season on the coast. Winter is the fastest. Shoulder season offers the best mix of weather and speed. Ramadan and public holidays change usage patterns but do not break connectivity.
 
-### Summer Turkey eSIM Congestion
+### Summer Congestion
 
 June–August is peak season. Expect slower speeds in coastal resorts and major cities during evening hours.
 
@@ -301,7 +303,7 @@ Tips:
 - Use Wi-Fi for large downloads
 - Choose a higher data allowance
 
-### Winter Turkey eSIM Speeds
+### Winter Speeds
 
 December–February is low season on the coast. Speeds are generally faster. Ski resorts in Erzurum and Kayseri have good coverage on major networks.
 
@@ -311,15 +313,15 @@ Tips:
 - Cold weather drains battery faster
 - Mountain areas may have weak signal
 
-### Shoulder Season Turkey eSIM Performance
+### Shoulder Season Performance
 
 April–May and September–October offer the best mix of weather and lower congestion. Speeds are generally fast.
 
-### Ramadan and Holiday Turkey eSIM Usage
+### Ramadan and Holiday Usage Patterns
 
 Network usage changes during Ramadan and public holidays. Expect higher evening usage and lower daytime usage. Some businesses reduce hours.
 
-### Turkey eSIM Seasonal Speed Table
+### Seasonal Speed Reference
 
 | Season | Congestion | Typical speed | Best for |
 |---|---|---|---|
@@ -327,17 +329,17 @@ Network usage changes during Ramadan and public holidays. Expect higher evening 
 | Winter | Low | 50–100 Mbps | City trips, ski |
 | Shoulder | Medium | 40–80 Mbps | Best overall |
 
-For network-level seasonal data, see the [OpenSignal Turkey mobile network experience report](https://www.opensignal.com/reports/turkey).
+For network-level seasonal data, see [Opensignal’s independent network measurements](https://www.opensignal.com/).
 
-## How Should a Family Share One Plan?
+## How Should a Family Share One Turkey eSIM?
 
-One high-data eSIM with unrestricted hotspot is usually the cheapest family setup. Install it in the primary traveller’s phone, enable hotspot and let other devices connect via Wi-Fi. This avoids buying separate eSIMs for every person.
+One high-data eSIM with unrestricted hotspot is usually the cheapest family setup. Load the profile into the lead traveller’s handset, switch on the hotspot, and have everyone else join over Wi-Fi. One profile this way covers the whole group instead of a purchase per person.
 
-### Turkey eSIM Family Data Cost Reality
+### The Family Data Cost Reality
 
 Some carriers charge $12–15 per day per device. For four people over 14 days, that is $840 just for internet. Hotel Wi-Fi is not a reliable substitute. Resort Wi-Fi often delivers 5–10 Mbps shared among hundreds of guests.
 
-### Turkey eSIM Family Hotspot Solution
+### The Family Hotspot Setup
 
 1. Buy one high-data eSIM with unrestricted hotspot.
 2. Install it in the primary traveller’s phone.
@@ -345,27 +347,22 @@ Some carriers charge $12–15 per day per device. For four people over 14 days, 
 
 A 50 GB / 30-day plan often costs €19.99–$30 and can cover a family of four for a two-week trip. For plan-size math, read the [pricing math](/blog/cheapest-turkey-esim/).
 
-### Turkey eSIM Family Cost Comparison
+### What a Family of Four Actually Pays
 
-| Approach | Total cost 14 days | Notes |
-|---|---|---|
-| 4 separate 10 GB eSIMs | $37–$62 | Each person has own data |
-| 1 x 50 GB eSIM + hotspot | $20–$30 | Share via Wi-Fi |
-| Home carrier roaming | $840 | $15/day x 4 people x 14 days |
-| Pocket Wi-Fi rental | $84–$140 | $6–10/day rental |
+Over 14 days, the arithmetic is lopsided. Four separate 10 GB eSIMs run $37–$62 total but give each person their own data pool. One 50 GB eSIM shared by hotspot lands at $20–$30 for the whole family. Home-carrier roaming is the disaster scenario — roughly $840 at $15 per day across four devices. Pocket Wi-Fi rental sits in between at $84–$140, plus another gadget to charge. The shared-eSIM setup wins on price and convenience.
 
-### Turkey eSIM Hotspot Providers Compared
+### Hotspot Policies Compared
 
 | Provider | Hotspot policy |
 |---|---|
 | Saily | Unlimited tethering |
 | Airalo | Unrestricted hotspot |
 | Roami | Unrestricted hotspot on all plans |
-| Holafly | 500 MB/day cap |
+| Holafly | 1 GB/day cap |
 
-Holafly’s 500 MB/day cap makes it unsuitable for family sharing, since a shared connection throttles quickly.
+Holafly’s 1 GB/day cap makes it unsuitable for family sharing, since a shared connection throttles quickly.
 
-### Turkey eSIM Family Data Estimates
+### Family Data Estimates
 
 | Family size | Trip length | Recommended plan |
 |---|---|---|
@@ -374,15 +371,15 @@ Holafly’s 500 MB/day cap makes it unsuitable for family sharing, since a share
 | 4 people | 7 days | 20–30 GB |
 | 4 people | 14 days | 40–50 GB |
 
-### Turkey eSIM Hotspot Battery Impact
+### Battery Impact of Hotspot Use
 
 Hotspot drains battery faster. A 10,000 mAh power bank provides 2–3 full phone charges. Hotspot speed may be lower than phone-only speed.
 
-## Emergency Preparation for Weak Signal
+## Emergency Preparation for Weak Signal in Turkey
 
 Emergency preparation matters most in Cappadocia valleys, Blue Cruise routes and remote coastal stretches. Download offline maps, save emergency numbers and keep your home SIM active for SMS.
 
-### Turkey Emergency Numbers for eSIM Users
+### Emergency Numbers to Save Offline
 
 | Service | Number | Notes |
 |---|---|---|
@@ -390,15 +387,15 @@ Emergency preparation matters most in Cappadocia valleys, Blue Cruise routes and
 | Tourist Police | 0212 527 45 03 | Istanbul |
 | Embassy | Save offline | Contact before departure |
 
-### Keep Home SIM for 2FA on Turkey eSIM
+### Keep Your Home SIM for 2FA
 
 Keep your home SIM active for calls and SMS. Turn off mobile data on that line. Set the Turkey eSIM as the data line. This lets you receive bank codes and WhatsApp verification messages. For the full dual-SIM setup, read the [dual-SIM guide](/blog/turkey-esim-number-calls-sms-hotspot/).
 
-### Turkey eSIM Offline Maps Rule
+### The Offline Maps Rule
 
 Download Google Maps or Yandex Maps for every region before leaving hotel Wi-Fi. This is essential for Cappadocia valleys, Blue Cruise routes and weak-signal areas.
 
-### Turkey eSIM Power Bank and Backup Options
+### Power Banks and Backup Options
 
 Mobile data drains battery faster than Wi-Fi. Pack a 10,000 mAh power bank.
 
@@ -409,14 +406,16 @@ Backup options if your eSIM fails:
 3. Klook — not on the confirmed BTK block list
 4. A second pre-installed eSIM if your phone supports dual eSIM
 
-### Turkey eSIM Emergency Apps
+Option five costs nothing in advance: many providers let you [try a free eSIM](/free-esim/) so you land with a backup that is already tested.
+
+### Emergency Apps to Install
 
 - **AFAD** — Turkish disaster and emergency app. See the [AFAD disaster and emergency app](https://www.afad.gov.tr/).
 - **112 Acil** — emergency services app
 - **WhatsApp** — main messaging app in Turkey
 - **Google Translate** — offline mode for emergencies
 
-## Destination Quick Reference
+## Turkey eSIM Destination Quick Reference
 
 Each destination has a different best network, typical speed, weak spot and data need. Use this section as a fast reference before you finalise your plan.
 
@@ -468,7 +467,7 @@ Each destination has a different best network, typical speed, weak spot and data
 - **Data need:** 5–10 GB per week
 - **Key apps:** Google Maps, WhatsApp, resort apps
 
-## Destination-Specific Data Plans
+## Destination-Specific Turkey eSIM Data Plans
 
 | Destination | Trip length | Recommended plan | Notes |
 |---|---|---|---|
@@ -484,7 +483,7 @@ Each destination has a different best network, typical speed, weak spot and data
 
 Mia streamed from the deck between Marmaris and Fethiye and burned through her data where satellite signal was weak. A fixed plan with unrestricted hotspot let her laptop and phone share one connection instead.
 
-## Destination vs Data Plan
+## Destination vs eSIM Data Plan
 
 | Destination | Data reality | Plan |
 | --- | --- | --- |
@@ -492,7 +491,7 @@ Mia streamed from the deck between Marmaris and Fethiye and burned through her d
 | Cappadocia | Valleys drop signal | Turkcell network |
 | Blue Cruise coast | Dead zones | Offline maps plus hotspot |
 
-## FAQ: For Tourists
+## FAQ: Turkey eSIM for Tourists
 
 ### How much data for a week?
 
@@ -505,6 +504,10 @@ Yes. Antalya has the best mobile coverage of Turkish coastal cities. Real-world 
 ### Does eSIM work in Cappadocia?
 
 Yes, in Göreme, Ürgüp and Nevşehir. Signal is patchy in cave valleys and underground cities. Turkcell is the strongest provider. Balloon flights generally have good signal over Göreme valley.
+
+### Is a Turkey eSIM good for a two-week holiday?
+
+Yes, and two weeks is the point where plan sizing starts to matter. A 10 GB plan covers a maps-heavy city holiday comfortably for most visitors; add 50% more if the itinerary includes hotspot sharing or daily video calls home. The per-day cost of a properly sized holiday eSIM is a rounding error next to the trip itself, and it removes the resort Wi-Fi gamble entirely.
 
 ### Is resort Wi-Fi in Turkey good?
 
@@ -538,13 +541,13 @@ Turkcell has the best coverage in Cappadocia. Cave valleys and remote areas ofte
 4. Pack a power bank.
 5. Screenshot important addresses and phone numbers.
 
-## Final Checklist: For Tourists
+## Final Checklist: Turkey eSIM for Tourists
 
 Use this final checklist to confirm your pre-departure setup, prepare for landing and handle weak-signal destinations.
 
-### Before Departure with Turkey eSIM
+### Before Departure
 
-- [ ] Confirm phone supports eSIM and is carrier-unlocked. See the [EID and carrier lock check](/blog/turkey-esim-device-compatibility/).
+- [ ] Confirm phone supports eSIM and is carrier-unlocked. See the [EID and carrier lock check](/blog/turkey-esim-device-compatibility/). Not sure about your handset? The [eSIM support database](/compatibility/) answers it in one look.
 - [ ] Buy a Turkey eSIM with enough data: 5–10 GB for a week, 10–20 GB for two weeks
 - [ ] Install the eSIM and label the line “Turkey”
 - [ ] Set the Turkey eSIM for Mobile Data
@@ -556,7 +559,7 @@ Use this final checklist to confirm your pre-departure setup, prepare for landin
 - [ ] Download entertainment for Blue Cruise and remote areas
 - [ ] Save booking confirmations and tickets offline
 
-### After Landing with Turkey eSIM
+### After Landing
 
 - [ ] Enable data roaming for the Turkey eSIM
 - [ ] Wait 2–5 minutes for network registration
@@ -564,7 +567,7 @@ Use this final checklist to confirm your pre-departure setup, prepare for landin
 - [ ] Confirm SMS works on your home SIM
 - [ ] If no data: check APN, restart phone, try manual network selection
 
-### Destination-Specific Turkey eSIM Prep
+### Destination-Specific Prep
 
 **Istanbul:**
 - [ ] Download İstanbulkart app
@@ -588,9 +591,9 @@ Use this final checklist to confirm your pre-departure setup, prepare for landin
 - [ ] Download offline maps for Rose Valley and Love Valley
 - [ ] Save balloon flight booking confirmation
 
-You can survive on resort Wi-Fi and café hotspots — plenty of travellers do. But for navigation and bookings on the move, [Roami’s travel plan](/turkey-esim/) keeps you online from $1.99 with 20% off for new users. For the complete picture, read the [full guide](/blog/turkey-esim-ultimate-guide/).
+You can survive on resort Wi-Fi and café hotspots — plenty of travellers do. But for navigation and bookings on the move, [Roami’s travel plan](/turkey-esim/) keeps you online from $2.99 with code web20 for 20% off. For the complete picture, read the [full guide](/blog/turkey-esim-ultimate-guide/).
 
-## Bottom Line
+## Bottom Line: The Best eSIM for Istanbul
 
 - Do not rely on resort Wi-Fi — it is shared and slow, so use mobile data instead.
 - Cappadocia and the coast need a Turkcell-network eSIM.

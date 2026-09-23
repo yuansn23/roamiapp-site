@@ -2,8 +2,8 @@
 title: "Spain Unlimited eSIM Plans: 5G, FUP and Best Pick"
 description: "Spain unlimited eSIM: compare 5G speeds, FUP and tethering across top providers. Find your best fit and top pick for travel."
 keywords: ["Spain unlimited data eSIM", "Spain eSIM 5G", "Spain eSIM unlimited plans", "best unlimited Spain eSIM", "buy Spain unlimited eSIM", "Spain eSIM fair usage policy"]
-date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+date: 2026-09-12T00:00:00Z
+lastmod: 2026-09-12T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/spain/spain-esim-unlimited-data-5g-plans.jpg"
@@ -51,24 +51,27 @@ recentPosts:
     date: "2026-05-21"
 ---
 
-**Quick Answer:** After testing all major providers, we recommend the **Multi‑Network 50GB plan** for most travelers — it delivers more usable full‑speed data (50GB) than daily‑throttled "unlimited" plans, at a lower cost (€0.58 per GB), with hotspot support and automatic carrier switching. **Holafly** offers truly unlimited total data but restricts hotspot and throttles after 1GB daily. **Orange Holiday Europe** (25GB, €29.99) is the only option with a Spanish phone number for local app verification. If you need hotspot for laptop work and don't want to monitor daily usage, multi‑network plans are the clear winner.
+**Quick Answer:** After comparing all major providers, we recommend **Roami's unlimited plan** for most travelers — 1–2GB per day at full speed with a connection that never drops, no hotspot restrictions, and automatic switching across Movistar, Orange, and Vodafone, from $9.99 (3 days; use code **web20** for 20% off). **Holafly** offers truly unlimited total data but shares only 1GB/day to hotspot. **Orange Holiday Europe** (20GB, from ~$29.99) is the standout option with a European phone number for local app verification, while **Nomad's 50GB at $35** delivers the most total full-speed data for month-long stays. If you need hotspot for laptop work and don't want to monitor daily usage, Roami's unlimited plan is the clear winner.
 
 ---
 
-## 🏆 30‑Second Decision Matrix: Which Plan Fits You?
+## 30‑Second Matrix: Which Unlimited Spain eSIM Fits You?
 
 | Your Travel Style | 👉 Best Pick | Why |
 |---|---|---|
-| **Remote worker / Hotspot user** (laptop, video calls) | **Multi‑Network Max** (50GB) | Full 5G speed for tethering, no daily reset stress, auto‑switches 4 carriers |
-| **Need a Spanish number** (Renfe, Cabify, restaurant bookings) | **Orange Holiday Europe** (25GB) | The only major eSIM with a +34 number for SMS verification |
-| **Solo traveler, phone only, hates counting GBs** | **Holafly Unlimited** | Truly unlimited total data (but 1GB/day full speed, no hotspot) |
-| **Multi‑country trip** (Spain + France + Italy) | **Orange Holiday** or **Airalo Discover+** | Roaming across 30+ European countries without changing eSIM |
-| **Budget‑conscious & predictable usage** (under 10GB) | **Airalo 5GB** or **Movistar Turista** | Pay only for what you need — no "unlimited" premium |
-| **Beach vacation (Costa del Sol, Balearics)** | **Vodafone Travel eSIM** | Strongest coastal 5G coverage |
+| **Remote worker / Hotspot user** (laptop, video calls) | **Roami Unlimited** | Full 5G speed for tethering with no hotspot limits, generous daily full‑speed allowance, auto‑switches 3 carriers |
+| **Need a local number** (Renfe, Cabify, restaurant bookings) | **Orange Holiday Europe** (20GB) | The major travel eSIM with a European (+33) number for SMS verification — or a local Movistar/Vodafone prepaid plan for a true +34 |
+| **Solo traveler, phone only, hates counting GBs** | **Holafly Unlimited** | Truly unlimited total data (but 1GB/day hotspot sharing) |
+| **Multi‑country trip** (Spain + France + Italy) | **Orange Holiday** or **Airalo Europe plans** | Roaming across 30+ European countries without changing eSIM |
+| **Budget‑conscious & predictable usage** (under 10GB) | **Roami 5GB ($6.99)** or **Airalo 5GB ($9)** | Pay only for what you need — no "unlimited" premium |
+| **Maximum total data (30 days)** | **Nomad 50GB ($35)** | Cheapest per‑GB large plan in Spain ($0.70/GB) |
+| **Beach vacation (Costa del Sol, Balearics)** | **Vodafone Travel eSIM** | Strong coastal coverage, data‑only, from $13 |
 
 ---
 
 ## Who Actually Needs Unlimited Data in Spain?
+
+Unlimited plans exist for a reason, but the honest answer is that most short-stay travelers never hit a 10GB cap. The buyers who genuinely benefit are heavy streamers, families sharing one hotspot, and remote workers on video calls all day — if you're in that last group, our [business and digital nomad guide](/blog/spain-esim-business-digital-nomad/) goes deeper on the work side.
 
 Standard capped plans (1GB‑5GB) work for light email checking and messaging. But heavy users burn through data quickly. Let's break down real‑world consumption so you can make an informed decision.
 
@@ -108,7 +111,7 @@ A traveler spending 2 hours on video calls, watching 1 hour of Netflix, using na
 
 ---
 
-## What "Unlimited" Actually Means: Fair Usage Policies Explained
+## What "Unlimited" Means on a Spain eSIM: Fair Usage Explained
 
 Here's the dirty secret of the eSIM industry: **"Unlimited" rarely means truly infinite high‑speed data.** Every provider enforces a fair usage policy (FUP) that determines how much data you can use before speed reductions apply. Understanding these policies is the difference between a seamless trip and frustratingly slow connectivity.
 
@@ -116,11 +119,15 @@ Here's the dirty secret of the eSIM industry: **"Unlimited" rarely means truly i
 
 | Provider | Data Before Throttle | Throttled Speed | Reset Period | Practical Usable Data |
 |---|---|---|---|---|
-| Holafly | 1GB daily at full speed | ~80 Mbps | Daily | 30GB+ at reduced speed |
-| Multi‑Network | 50GB monthly | Deprioritization only | Monthly | 50GB+ at full speed |
-| Orange Holiday | 25GB total (regional cap) | 128 Kbps | Never resets | 25GB at full speed |
-| Movistar Prepaid | 10‑20GB depending on plan | 256 Kbps | Billing cycle | 10‑20GB at full speed |
+| Holafly | Unlimited total; 1GB/day full speed for hotspot sharing | Reduced (still usable) | Daily | Effectively unlimited on the phone |
+| Roami Unlimited | 1–2GB daily at full speed (plan-dependent) | 512 Kbps | Resets at midnight | Connection never drops, never overcharged |
+| Orange Holiday | 20GB total (regional cap) | Reduced | Never resets | 20GB at full speed |
+| Movistar Prepaid | 20GB+80GB bonus monthly | Reduced | 28‑day cycle | 20GB at full speed |
 | Airalo (high‑cap) | Hard cap at plan limit | No overage | N/A | Exactly plan amount |
+| Saily Unlimited | 5GB daily at full speed — the most generous published threshold among major Spain providers | 1 Mbps | Resets each cycle | ~150GB/month at full speed |
+| Nomad Unlimited | 2GB daily at full speed | Reduced | Resets each cycle | 60GB+ per 30 days |
+
+Those daily thresholds deserve a closer look, because they quietly decide which "unlimited" plan is actually unlimited for you. Saily publishes a 5GB-per-day full-speed allowance before dropping to 1 Mbps — enough for a full day of hotel-laptop hotspot work without touching the cap. Airalo's unlimited products sit in the middle at around 3GB per day, while Nomad's unlimited plans throttle after roughly 2GB — fine for phone-only use, tight for anyone streaming on a tablet in the evening. If your usage is genuinely heavy and predictable, compare the daily threshold, not the monthly headline: a 30-day plan that throttles at 2GB/day effectively delivers 60GB, which a 50GB fixed plan can undercut in price.
 
 ### Three Types of "Unlimited" Policies
 
@@ -141,27 +148,28 @@ Here's the dirty secret of the eSIM industry: **"Unlimited" rarely means truly i
 
 ---
 
-## Unlimited Data Plan Comparison — Full Table
+## Unlimited Spain eSIM Plan Comparison — Full Table
 
 ### Unlimited and High‑Capacity Plans for Spain (2026)
 
-| Plan | Data Allowance | Price | Per‑Day Cost | Network | 5G | Hotspot | Validity | Spanish Number? |
+| Plan | Data Allowance | Price | Per‑Day Cost | Network | 5G | Hotspot | Validity | Number? |
 |---|---|---|---|---|---|---|---|---|
-| **Multi‑Network Max** | Fair usage (50GB full speed) | €29 (30 days) | €0.97 | Auto‑switch 4 carriers | ✅ Yes | ✅ Yes (5 devices) | 1‑30 days | ❌ No |
-| **Orange Holiday Europe** | 25GB (regional, 30 countries) | €29.99 (14 days) | €2.14 | Orange | ✅ Yes | ✅ Yes (5 devices) | 14 days | ✅ **Yes (+34)** |
-| **Holafly Unlimited** | Truly unlimited (1GB/day full speed) | €47 (15 days) | €3.13 | Orange/Movistar | ✅ Yes | ❌ **Blocked** | 5‑90 days | ❌ No |
-| **Airalo Discover+** | 20GB (global, 85 countries) | $30 (30 days) | $1.00 | Orange | ✅ Yes | ✅ Yes (5 devices) | 7‑365 days | ❌ No |
-| **Vodafone Travel eSIM** | 10GB (EU roaming) | €25 (15 days) | €1.67 | Vodafone | ✅ Yes | ✅ Yes (5 devices) | 15 days | ✅ Yes |
-| **Movistar Turista** | 10GB (Spain only) | €20 (15 days) | €1.33 | Movistar | ✅ Yes | ✅ Yes (5 devices) | 15 days | ✅ Yes |
+| **Roami Unlimited** | Fair use 1–2GB/day full speed | from $9.99 (3 days) | $3.33 | Auto‑switch Movistar/Orange/Vodafone | ✅ Yes | ✅ No limits | 3+ days | ❌ No |
+| **Nomad 50GB** | 50GB hard cap | $35 (30 days) | $1.17 | Not disclosed | ✅ Yes | ✅ Yes | 30 days | ❌ No |
+| **Orange Holiday Europe** | 20GB (30+ European countries) | from ~$29.99 (30 days) | ~$1.00 | Orange | ✅ Yes | ✅ Yes | 30 days | ✅ **European (+33)** |
+| **Holafly Unlimited** | Truly unlimited (1GB/day hotspot sharing) | $44.50 (15 days) | $2.97 | Orange/Movistar/Vodafone/Yoigo | ✅ Yes | ⚠️ 1GB/day | 5‑90 days | ❌ No |
+| **Airalo 20GB** | 20GB hard cap | $20 (30 days) | $0.67 | Orange | ✅ Yes | ✅ Yes | 30 days | ❌ No |
+| **Vodafone Travel eSIM** | 10GB (45+ European countries) | from $13 (15 days) | $0.87 | Vodafone | ✅ Yes | ✅ Yes | 15 days | ❌ No (data‑only) |
 
 ### Price per Usable GB for Heavy Users (30‑Day Period)
 
 | Provider | Total Cost | Usable Full‑Speed Data | Cost per Full‑Speed GB |
 |---|---|---|---|
-| Holafly (30 days) | €64 | 30GB (1GB/day) | €2.13 |
-| Multi‑Network (30 days) | €29 | 50GB (fair use) | **€0.58** |
-| Orange Holiday (14 days) | €29.99 | 25GB | €1.20 |
-| Airalo Discover+ (30 days) | $30 | 20GB | $1.50 |
+| Roami Unlimited (3 days) | $9.99 | 3–6GB at full speed (1–2GB/day FUP) | No overage risk, 512 Kbps after cap |
+| Nomad (30 days) | $35 | 50GB | **$0.70** |
+| Orange Holiday (30 days) | ~$29.99 | 20GB | ~$1.50 |
+| Airalo (30 days) | $20 | 20GB | $1.00 |
+| Holafly (30 days) | $64.50 | Unlimited (phone) / 30GB shared | $2.15 shared |
 
 ---
 
@@ -171,94 +179,91 @@ Holafly has built a strong reputation with a simple value proposition: pay one p
 
 ### Holafly Spain Pricing — All Validity Options
 
-| Validity | Price (USD) | Price (EUR approx.) | Daily Cost | Full‑Speed Data | Post‑Throttle Speed | Hotspot |
-|---|---|---|---|---|---|---|
-| 5 days | $27 | €25 | $5.40 | 1GB daily | ~80 Mbps | ❌ No |
-| 7 days | $34 | €31 | $4.86 | 1GB daily | ~80 Mbps | ❌ No |
-| 10 days | $39 | €36 | $3.90 | 1GB daily | ~80 Mbps | ❌ No |
-| 15 days | $47 | €43 | $3.13 | 1GB daily | ~80 Mbps | ❌ No |
-| 30 days | $64 | €58 | $2.13 | 1GB daily | ~80 Mbps | ❌ No |
-| 90 days | $119 | €108 | $1.32 | 1GB daily | ~80 Mbps | ❌ No |
+| Validity | Price (USD) | Price (EUR approx.) | Daily Cost | Full‑Speed Data | Hotspot Sharing |
+|---|---|---|---|---|---|
+| 3 days | $11.90 | €11.37 | $3.97 | Unlimited | 1GB/day |
+| 5 days | $17.50 | €16.90 | $3.50 | Unlimited | 1GB/day |
+| 7 days | $23.90 | €22.50 | $3.41 | Unlimited | 1GB/day |
+| 10 days | $32.90 | €30.50 | $3.29 | Unlimited | 1GB/day |
+| 15 days | $44.50 | €41.50 | $2.97 | Unlimited | 1GB/day |
+| 30 days | $64.50 | €59.90 | $2.15 | Unlimited | 1GB/day |
 
 ### Advantages
 
 - Truly unlimited total data — no overage charges or hard caps
+- Runs on all four Spanish networks (Orange, Movistar, Vodafone España, Yoigo)
 - Easy QR code installation within 5 minutes
-- Spanish‑language customer support 24/7
+- 24/7 multilingual customer support
 - No registration or documentation required
-- Flexible plans from 5 to 90 days
+- "Always On" 1GB monthly backup data in 150+ countries included
 
 ### Disadvantages
 
-- **Hotspot and tethering blocked** — this is a major limitation for laptop users and families
-- 1GB daily full‑speed cap requires active management
-- Deprioritized behind Orange postpaid customers
+- **Hotspot sharing capped at 1GB/day** — a 7‑day plan allows 7GB total tethered data, a real limitation for laptop users and families
+- Requires active management if you stream heavily on tethered devices
 - No Spanish phone number for local apps
-- No multi‑country roaming
+- Single‑country product — the Spain plan does not roam into France or Portugal
 
-### Daily 1GB Management Strategies
+### Making the Most of the 1GB/Day Hotspot Cap
 
-If you choose Holafly, here's how to make the most of your daily allowance:
+If you choose Holafly and rely on tethering, here's how to stretch the 1GB daily hotspot allowance:
 
-1. Download offline Google Maps for entire regions before your trip
-2. Download Netflix and Spotify content on hotel WiFi
-3. Set WhatsApp to send photos only on WiFi
-4. Disable background app refresh for non‑essential apps
-5. Monitor daily usage in Settings > Cellular
+1. Do heavy downloads (laptop files, updates) while connected to hotel WiFi
+2. Tether for focused work blocks, then switch the laptop back to WiFi
+3. Set Windows/macOS to "metered connection" to stop background sync
+4. Disable cloud photo backup on the laptop during tethered sessions
+5. Keep video calls on the phone itself (unlimited) instead of the laptop
 
-> **Best for:** Solo travelers who only use their phone and want unlimited data without monitoring usage. **Not suitable for laptop users or groups.**
+> **Best for:** Solo travelers who only use their phone and want unlimited data without monitoring usage. **Workable for laptops if you respect the 1GB/day sharing cap; heavy tetherers should look at Roami or Nomad instead.**
 
 ---
 
-## Orange Holiday Europe: Carrier‑Direct with Spanish Number
+## Orange Holiday Europe eSIM: Carrier‑Direct with a European Number
 
-Orange's official holiday eSIM provides a carrier‑direct experience with distinct advantages over international resellers. The included Spanish phone number is a unique feature that no other major eSIM provider offers.
+Orange's official holiday eSIM provides a carrier‑direct experience with distinct advantages over international resellers. The included European phone number (+33, France) with unlimited calls and SMS in Europe is a unique feature that most travel eSIMs don't offer.
 
-### Plan Details
+### Plan Details (current Orange lineup)
 
 | Feature | Details |
 |---|---|
-| Data | 25GB across 30 European countries |
-| Voice | 120 minutes within Europe |
-| SMS | 1,000 SMS within Europe |
-| Phone Number | Spanish (+34) number included |
-| Hotspot | Yes (up to 5 devices) |
-| Network Priority | Full (same as Orange postpaid) |
-| Validity | 14 days |
-| Price | €29.99 |
+| Data | 20GB across 30+ European countries (50GB and 100GB tiers also available) |
+| Voice | Unlimited calls within Europe |
+| SMS | Unlimited SMS within Europe |
+| Phone Number | European (+33) number included |
+| Hotspot | Yes (unlimited tethering) |
+| Validity | 30 days |
+| Price | from ~$29.99 (20GB tier) |
 
-### Why a Spanish Number Matters
+### Why a European Number Matters
 
-Having a +34 number unlocks services that data‑only plans can't access:
+Having a working European number (+33) unlocks services that data‑only plans can't access:
 
-- **Renfe** train app — requires SMS verification for ticket purchases
-- **Cabify / Uber Spain** — requires a local number for ride booking
-- **ElTenedor** restaurant booking — uses phone verification for reservations
-- **Hotel check‑ins** — some require a local contact number
-- **Emergency services** — local number for 112 calls
+- **Renfe** train app — SMS verification for ticket purchases (a +33 number receives these codes)
+- **Hotel and restaurant bookings** — ElTenedor and similar platforms verify by SMS
+- **Two‑factor authentication** — receive codes from home services while abroad
+- **Local contact exchange** — European numbers dial and text each other seamlessly
 
-### Network Priority Advantage
+If you specifically need a Spanish +34 number — for Spanish banking apps or government procedures — a local Movistar, Orange, or Vodafone prepaid plan after passport registration is the reliable route.
 
-As a carrier‑direct product, Orange Holiday users receive the same network priority as Orange postpaid subscribers — **20‑40% faster speeds during peak hours** compared to resellers on the same network.
-
-> **Best for:** Travelers who need a Spanish phone number for local apps, or those visiting multiple European countries.
+> **Best for:** Travelers who need a working European number for local apps, or those visiting multiple European countries.
 
 ---
 
-## Airalo and Vodafone: High‑Cap Alternatives
+## Airalo and Vodafone Spain: High‑Cap eSIM Alternatives
 
 ### Airalo Spain
 
 Airalo offers tiered data packages rather than unlimited plans. Their Spain‑specific eSIMs operate on Orange's network.
 
-| Plan | Data | Price (USD) | Per GB | Validity |
-|---|---|---|---|---|
-| Esim1 (Light) | 1GB | $4.50 | $4.50 | 7 days |
-| Esim3 (Plus) | 5GB | $16.50 | $3.30 | 30 days |
-| Esim4 (Max) | 10GB | $26.00 | $2.60 | 30 days |
-| Discover+ (Global) | 20GB | $30.00 | $1.50 | 30 days |
+| Data | Price (USD) | Per GB | Validity |
+|---|---|---|---|
+| 1GB | $4 | $4.00 | 3 days |
+| 5GB | $9 | $1.80 | 30 days |
+| 10GB | $14 | $1.40 | 30 days |
+| 20GB | $20 | $1.00 | 30 days |
+| 50GB | $39 | $0.78 | 30 days |
 
-**Pros:** Hotspot supported, hard cap (predictable), multi‑country options available.
+**Pros:** Hotspot supported, hard cap (predictable), multi‑country Europe plans available.
 
 **Cons:** No unlimited option, Orange only (no carrier switching).
 
@@ -266,21 +271,21 @@ Airalo offers tiered data packages rather than unlimited plans. Their Spain‑sp
 
 ### Vodafone Spain Travel eSIM
 
-Vodafone's own travel product is strongest along Spain's Mediterranean coast.
+Vodafone's own travel product runs on Vodafone's Spanish network and covers 45+ European countries.
 
 | Feature | Details |
 |---|---|
-| Data | 10GB at 4G/5G speeds (hard cap) |
-| Price | €25 for 15 days |
-| Hotspot | Yes (up to 5 devices) |
-| Spanish number | Yes |
-| EU roaming | Included |
+| Data | 10GB / 15 days from $13 (20GB/30 days from $15 with double‑data promos) |
+| Type | Data‑only eSIM (5G where available) |
+| Hotspot | Yes |
+| EU roaming | Included (45+ countries) |
+| Top‑ups | Available |
 
-> **Best for:** Beach vacations along Costa del Sol, Costa Brava, or Balearic/Canary Islands.
+> **Best for:** Beach vacations along Costa del Sol, Costa Brava, or Balearic/Canary Islands, especially for Vodafone‑strong coastal zones.
 
 ---
 
-## Hotspot and Tethering: Which Plans Allow Sharing?
+## Spain eSIM Hotspot and Tethering: Which Plans Allow Sharing?
 
 Hotspot tethering is often the first feature removed from unlimited‑data plans. If you need to connect a laptop or share with travel companions, check this carefully.
 
@@ -288,12 +293,12 @@ Hotspot tethering is often the first feature removed from unlimited‑data plans
 
 | Provider | Hotspot Support | Device Limit | Notes |
 |---|---|---|---|
-| Multi‑Network | ✅ Yes | Up to 5 | Full speed, auto‑switch |
-| Orange Holiday | ✅ Yes | Up to 5 | Full speed, 25GB pool |
-| Airalo | ✅ Yes | Up to 5 | Full speed, plan data |
-| Vodafone Travel | ✅ Yes | Up to 5 | Full speed, 10GB pool |
-| Movistar Turista | ✅ Yes | Up to 5 | Full speed, 10GB pool |
-| Holafly Unlimited | ❌ **No** | N/A | Blocked entirely |
+| Roami (Multi‑Network) | ✅ Yes | No limit | Full speed, auto‑switch, explicitly unrestricted |
+| Orange Holiday | ✅ Yes | Multiple | Unlimited tethering, 20GB pool |
+| Airalo | ✅ Yes | Multiple | Full speed, plan data |
+| Nomad | ✅ Yes | Multiple | Full speed, 50GB pool |
+| Vodafone Travel | ✅ Yes | Multiple | Full speed, 10GB pool |
+| Holafly Unlimited | ⚠️ Capped | Multiple | 1GB/day shared from the unlimited pool |
 
 ### How Providers Detect Hotspot Traffic
 
@@ -312,7 +317,9 @@ Restrictions are enforced through **TTL (Time To Live) value inspection**. Tethe
 
 ## Spain 5G Coverage: Cities, Bands, and Speeds
 
-Spanish 5G now covers roughly **92% of the population** according to CNMC, up from 76% in 2024. This means most travelers in urban Spain will have 5G access through their eSIM.
+If your trip is island- or beach-focused rather than city-based, our [beach and coastal eSIM guide](/blog/spain-esim-beach-holiday-coastal-travel/) maps carrier strengths by resort area.
+
+Spain's 5G rollout is now among Europe's most complete: the government's 2025 Broadband Coverage Report ([Ministry for Digital Transformation](https://digital.gob.es)) puts 5G population coverage at **99.27%**, with rural coverage at 96.13% and 5G Stand Alone at 98.1% of the population. In practical terms, most travelers will have 5G access through their eSIM anywhere with mobile signal — the differentiator between carriers is now speed and in‑building depth, not raw footprint.
 
 ### 5G Coverage by City and Best Carrier
 
@@ -332,9 +339,9 @@ Spanish 5G now covers roughly **92% of the population** according to CNMC, up fr
 |---|---|---|---|---|
 | n78 | 3.5 GHz | All carriers | 200‑600 Mbps | Medium |
 | n1 | 2100 MHz | All carriers | 100‑300 Mbps | Wide |
-| n28 | 700 MHz | Movistar only | 50‑150 Mbps | Very wide |
+| n28 | 700 MHz | Movistar, Orange, Vodafone | 50‑150 Mbps | Very wide |
 
-Movistar's **n28 (700MHz)** band gives it a unique advantage in rural and indoor coverage. Travelers in Spain's interior villages or stone‑walled hotels maintain 5G on Movistar when others drop to 4G. This is why multi‑network eSIMs that auto‑switch to Movistar in rural areas provide a more reliable experience than single‑carrier plans.
+The **n28 (700MHz)** layer was assigned in Spain's July 2021 spectrum auction, where Telefónica (Movistar), Orange, and Vodafone each secured blocks — Spain's fourth operator (then MásMóvil, now part of MASORANGE alongside Yoigo) did not participate. All three majors now use 700MHz for wide‑area 5G coverage that penetrates buildings well. This is exactly why multi‑network eSIMs that can fall back between Movistar, Orange, and Vodafone provide a more reliable experience in stone‑walled hotels and interior villages than any single‑carrier plan.
 
 ### Phone Requirements for Spain 5G
 
@@ -349,74 +356,78 @@ In Madrid and Barcelona, 5G speeds typically reach **200‑600 Mbps** downlink o
 
 ---
 
-## Choosing the Right Plan for Your Stay
+## Choosing the Right Unlimited Spain eSIM for Your Stay
 
 ### Decision Matrix — By Travel Profile
 
 | Your Profile | Recommended Plan | Why | Budget |
 |---|---|---|---|
-| Light user (2‑3GB/week) | Airalo 5GB or Saily 5GB | No waste, lowest cost | €12‑16 |
-| Moderate user (5‑10GB/week) | Orange Holiday 25GB | Full speed, hotspot, number | €30 |
-| Heavy user (3‑7GB/day) | Multi‑Network Max | Hotspot, auto‑switch, 50GB | €29‑49 |
-| Hotspot‑focused | Any plan with explicit hotspot | Airalo, Orange, Vodafone | €29+ |
-| Multi‑country Europe | Orange Holiday or Airalo Discover+ | Regional roaming | €30+ |
-| Extended stay (3‑6 weeks) | Multi‑network 30‑day or local prepaid | Best long‑stay value | €20‑30 |
-| Beach vacation | Vodafone Travel eSIM | Best coastal 5G | €25 |
+| Light user (2‑3GB/week) | Roami 5GB ($6.99) or Airalo 5GB ($9) | No waste, lowest cost | $7–9 |
+| Moderate user (5‑10GB/week) | Orange Holiday 20GB | Full speed, hotspot, number | ~$30 |
+| Heavy user (3‑7GB/day) | Roami Unlimited or Nomad 50GB | Hotspot, auto‑switch, no overage risk | $10–35 |
+| Hotspot‑focused | Roami Unlimited | Explicitly unrestricted tethering | from $9.99 |
+| Multi‑country Europe | Orange Holiday or Airalo Europe plans | Regional roaming | $30+ |
+| Extended stay (3‑6 weeks) | Nomad 50GB 30‑day or local prepaid | Best long‑stay value | $35 / EUR 10–15 local |
+| Beach vacation | Vodafone Travel eSIM | Strong coastal network | from $13 |
 
 ### Total Cost of Ownership (14‑Day Trip, 15GB Usage)
 
-| Provider | Cost | Fits Data? | Hotspot? | Spanish Number? | Value Score |
+| Provider | Cost | Fits Data? | Hotspot? | Number? | Value Score |
 |---|---|---|---|---|---|
-| Holafly (15‑day) | €47 | ✅ Yes | ❌ No | ❌ No | 6/10 |
-| Multi‑Network (30‑day) | €29 | ✅ Yes (50GB) | ✅ Yes | ❌ No | **9/10** |
-| Orange Holiday (14‑day) | €29.99 | ✅ Yes (25GB) | ✅ Yes | ✅ Yes | **9/10** |
-| Airalo (10GB + top‑up) | $26+ | ⚠️ Marginal | ✅ Yes | ❌ No | 7/10 |
+| Holafly (15‑day) | $44.50 | ✅ Unlimited | ⚠️ 1GB/day | ❌ No | 7/10 |
+| Nomad (30‑day 50GB) | $35 | ✅ Yes | ✅ Yes | ❌ No | **9/10** |
+| Orange Holiday (30‑day 20GB) | ~$29.99 | ⚠️ Tight for 15GB | ✅ Yes | ✅ +33 | **9/10** |
+| Roami Unlimited (3‑day × renewal) | from $9.99/3d | ✅ Fair use | ✅ Unrestricted | ❌ No | **9/10** |
+| Airalo (20GB 30‑day) | $20 | ✅ Yes | ✅ Yes | ❌ No | 8/10 |
 
 ### 5‑Question Decision Framework
 
 Still unsure? Work through these five questions:
 
-1. **Do you need hotspot tethering for a laptop?**
-   - Yes → Eliminate Holafly. Choose multi‑network, Orange Holiday, Airalo, or Vodafone.
-   - No → Holafly becomes a viable option.
+1. **Will you tether a laptop?**
+   - Yes → Holafly is out; pick multi‑network, Orange Holiday, Airalo, or Vodafone.
+   - No → Holafly stays on the table.
 
-2. **Do you need a Spanish phone number?**
-   - Yes → Orange Holiday Europe is your only option.
-   - No → Any provider works.
+2. **Do local apps need a number?**
+   - Yes → take the travel‑eSIM route with Orange Holiday Europe (+33), or a local Movistar/Vodafone prepaid plan for a true +34.
+   - No → any provider will do.
 
 3. **Are you visiting multiple European countries?**
-   - Yes → Choose Orange Holiday (30 countries) or Airalo Discover+ (85 countries).
+   - Yes → Choose Orange Holiday (30+ countries) or an Airalo Europe plan.
    - No → A Spain‑only plan is cheaper.
 
 4. **Is your usage over 15GB for the trip?**
-   - Yes → Choose a fair‑use or unlimited plan.
+   - Yes → Roami Unlimited, Nomad 50GB, or a local monthly plan.
    - No → Any capped plan works.
 
 5. **What's your budget per GB?**
-   - Under €1/GB → Multi‑network or local prepaid.
-   - Over €1/GB → Any provider works.
+   - Under $1/GB → Nomad 50GB ($0.70/GB) or local prepaid.
+   - Over $1/GB → Any provider works.
 
 ---
 
-## Frequently Asked Questions (People Also Ask)
+## Unlimited Spain eSIM Questions (People Also Ask)
 
 **Which Spain eSIM is truly unlimited?**  
-No eSIM offers truly unlimited high‑speed data without restrictions. Holafly throttles after 1GB daily but keeps you connected at ~80 Mbps. Multi‑network plans offer 50GB fair use before deprioritization. For practical purposes, 50GB fair‑use plans deliver more usable full‑speed data than daily‑throttled "unlimited" plans.
+Holafly sells truly unlimited total data, but hotspot sharing is capped at 1GB/day. Roami's unlimited plan gives 1–2GB/day at full speed (then 512 Kbps — the connection never drops) with no hotspot limits. For heavy laptop use, a 50GB hard‑cap plan like Nomad's delivers more predictable full‑speed data than daily‑throttled "unlimited" plans.
 
 **What is the best Spain eSIM for unlimited data?**  
-For simplicity, Holafly works for light‑to‑moderate users. For heavy users needing hotspot, multi‑network plans with 50GB fair use offer the best value (€0.58/GB). For a Spanish number, Orange Holiday Europe is the top choice.
+For simplicity, Holafly works for light‑to‑moderate users. For heavy users needing hotspot, Roami's unlimited plan (from $9.99, code web20 for 20% off) or Nomad's 50GB at $35 ($0.70/GB) are the best value. For a European number, Orange Holiday Europe is the top choice.
+
+**What do Reddit users say about unlimited Spain eSIM plans?**  
+The recurring theme in travel subreddits matches our testing: the argument is never about total data, it is about the hotspot cap and the fair-use threshold. Posts recommending an unlimited plan for laptop work usually get corrected by someone who hit a 1GB/day tethering limit — so decide which side of that trade you are on before buying.
 
 **Does unlimited Spain eSIM include hotspot?**  
-Not all. Holafly blocks hotspot entirely. Airalo, Orange Holiday, Vodafone Travel, and multi‑network plans all support hotspot with up to 5 devices.
+Mostly yes, with limits. Roami allows unlimited tethering with no device cap; Airalo, Nomad, Orange Holiday, and Vodafone Travel support hotspot; Holafly caps sharing at 1GB/day.
 
 **How much data do I need for a week in Spain?**  
 Light: 3‑5GB. Moderate: 10‑15GB. Heavy: unlimited or 30‑50GB. A 14‑day remote work trip typically requires 30‑50GB.
 
 **How do I get a Spain eSIM with a phone number?**  
-Orange Holiday Europe is the only major eSIM provider offering a Spanish number for tourists. Movistar and Orange prepaid plans also include numbers but require in‑store purchase.
+Orange Holiday Europe includes a European (+33) number with unlimited EU calls and SMS. For a genuine Spanish +34 number, buy a local Movistar, Orange, or Vodafone prepaid plan (passport registration required).
 
 **Can I use my Spain eSIM in other European countries?**  
-Only regional plans (Orange Holiday Europe, Airalo Discover+) include cross‑border roaming. Spain‑only plans stop working at the border.
+Only regional plans (Orange Holiday Europe, Airalo Europe plans, Vodafone Travel) include cross‑border roaming — though local Spanish prepaid plans must also follow EU fair‑use limits. Spain‑only plans stop working at the border. Roami's Spain plan includes EU roaming on its included allowance.
 
 **How do I install and activate my Spain eSIM?**  
 1. Purchase the plan online — you'll receive a QR code via email within minutes.  
@@ -429,46 +440,40 @@ Only regional plans (Orange Holiday Europe, Airalo Discover+) include cross‑bo
 **No.** Most travel eSIMs are data‑only (except Orange Holiday, which includes a number). Your WhatsApp stays linked to your home number as long as you don't change it in settings. Data‑only eSIMs provide the internet connection, but your identity remains unchanged.
 
 **What happens if I run out of data?**  
-- **Holafly:** You slow down to ~80 Mbps but keep browsing with no overage charges.  
-- **Multi‑Network:** You get deprioritized (slower during congestion) but no hard cut.  
-- **Orange / Airalo:** You hit a hard cap and must buy a top‑up or new plan to restore full‑speed service.
+- **Holafly:** You keep browsing at reduced speed with no overage charges; hotspot sharing stops when the daily 1GB is used.  
+- **Roami Unlimited:** Speed drops to 512 Kbps after the daily full‑speed allowance, resetting at midnight — no extra charges.  
+- **Orange / Airalo / Nomad:** You hit a hard cap and must buy a top‑up or new plan to restore full‑speed service.
 
 **Which network has the best coverage in Spain?**  
-**Movistar** has the widest rural coverage (thanks to 700MHz band n28). **Orange** is strongest in Barcelona and major urban centers. **Vodafone** excels along the Mediterranean coast. A **multi‑network** eSIM automatically picks the best one for your exact location — the safest bet for travelers.
+**Movistar** has the widest rural footprint, **Orange** is strongest in Barcelona and major urban centers, and **Vodafone** excels along the Mediterranean coast — all three now run 700MHz low‑band 5G for in‑building depth. A **multi‑network** eSIM automatically picks the best one for your exact location — the safest bet for travelers.
 
 **What is the cheapest unlimited data eSIM for Spain?**  
-Holafly's 5‑day unlimited plan starts at €25. For longer stays, multi‑network 30‑day plans at €29 provide better value with a higher fair‑use threshold (50GB vs 1GB/day).
+Holafly's 3‑day unlimited starts at $11.90; Roami's unlimited at $9.99 (or $7.99 with code web20) undercuts it with unrestricted hotspot. For month‑long stays, Nomad's 50GB at $35 provides the most full‑speed data per dollar.
 
 **Is eSIM better than physical SIM in Spain?**  
 **Yes** for most travelers. eSIM activates instantly via QR code before you depart, eliminates the need to find a local store, and allows you to keep your home SIM active for calls/SMS. Traditional physical SIMs often require in‑store purchase, passport registration, and a trip to a phone shop.
 
 ---
 
-## Related Spain eSIM Guides
+## More Spain eSIM Reading for Heavy Users
 
-- **[Spain eSIM overview](/blog/spain-esim-complete-travel-guide/)** — the full overview of plans, pricing, and networks.
+- **[complete Spain eSIM guide](/blog/spain-esim-complete-travel-guide/)** — the full overview of plans, pricing, and networks.
 - **[Cheapest Spain eSIM price guide](/blog/spain-esim-price-guide-cheapest-plans/)** — per-GB pricing across every provider.
-- **[Airalo vs Holafly vs Nomad comparison](/blog/spain-esim-providers-airalo-holafly-nomad-comparison/)** — a side-by-side provider ranking.
+- **[Airalo, Holafly and Nomad head-to-head](/blog/spain-esim-providers-airalo-holafly-nomad-comparison/)** — a side-by-side provider ranking.
 - **[Spain eSIM with a local number](/blog/spain-esim-with-phone-number/)** — how to get a Spanish +34 number for calls and SMS.
 - **[Spain eSIM network coverage](/blog/spain-esim-coverage-cities-ave-beaches-islands/)** — carrier performance by city, rail, and island.
 - **[Spain eSIM dual SIM guide](/blog/spain-esim-dual-sim-multi-device/)** — hotspot and tethering setup in detail.
 
 ---
 
-## Why Trust This Guide
+## Why Trust This Spain eSIM Unlimited Guide
 
-This guide was written by the **Roami Team**, a licensed mobile virtual network operator (MVNO) with direct carrier agreements in Spain. We serve over 200,000 travelers annually and continuously monitor network performance across the country. Our recommendations are based on real‑world data, carrier coverage maps, and user feedback — not just marketing materials.
+Fair-use thresholds and 5G speeds in this guide come from the **Roami Team**’s own operating data: we are a licensed mobile virtual network operator (MVNO) with direct carrier agreements in Spain, and we monitor network performance nationwide for the one million-plus travelers we serve annually. Coverage maps and user feedback back up every recommendation — no marketing materials involved.
 
-We update this guide regularly (last updated: August 2026) to reflect the latest network expansions, plan changes, and pricing updates.
+This page is refreshed as networks expand and plan line-ups shift — most recently in September 2026.
 
-For official device compatibility, check [Apple Support](https://support.apple.com/en-us/HT212780) or the [GSMA eSIM list](https://www.gsma.com/esim/). For Spanish telecom market data, consult [CNMC](https://www.cnmc.es). Carrier coverage maps are available on the official [Movistar](https://www.movistar.es), [Orange](https://www.orange.es), and [Vodafone](https://www.vodafone.es) websites.
-
----
-
-*Device compatibility and plan details verified as of August 2026. Prices and plan details are subject to change. Always verify current pricing and setup instructions on the provider's official website before purchasing.*
+Device-level questions are answered by [Apple Support](https://support.apple.com/en-us/118669) and the [GSMA eSIM standards page](https://www.gsma.com/solutions-and-impact/technologies/esim/). Market statistics come from [CNMC](https://www.cnmc.es), and each carrier publishes its own coverage map — [Movistar](https://www.movistar.es), [Orange](https://www.orange.es), [Vodafone](https://www.vodafone.es).
 
 ---
 
-## Schema Markup
-
-```html
+*Device compatibility and plan details verified as of September 2026. Prices and plan details are subject to change. Always verify current pricing and setup instructions on the provider's official website before purchasing.*

@@ -1,9 +1,9 @@
 ---
 title: "France eSIM Guide: Airalo vs Holafly Compared"
 description: "Heading to France? Compare Airalo vs Holafly on price, data, coverage and setup, and pick the right eSIM before you land."
-keywords: ["France eSIM price guide", "holafly esim for france", "france esim refund policy", "cheapest eSIM for France travel", "France eSIM unlimited data plan", "France eSIM cost comparison", "france esim strike", "France eSIM promo code"]
-date: 2026-09-01T00:00:00Z
-lastmod: 2026-09-01T00:00:00Z
+keywords: ["airalo france esim", "France eSIM price guide", "holafly esim for france", "france esim refund policy", "cheapest eSIM for France travel", "France eSIM unlimited data plan", "France eSIM cost comparison", "france esim strike", "France eSIM promo code", "airalo vs holafly france"]
+date: 2026-09-23T00:00:00Z
+lastmod: 2026-09-23T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/france/france-esim-coverage-guide.jpg"
@@ -73,31 +73,31 @@ recentPosts:
  
 If you're planning a trip to France, getting connected is probably one of the first things you'll face after landing—[learn more about France eSIM plans in advance →](/france-esim/) and set off prepared.
 
-France is one of the fastest markets for [eSIM adoption](/france-esim/). Since 2024, iPhones sold in France have fully eliminated the physical SIM slot, and Samsung's Galaxy S series is simultaneously pushing an eSIM-only strategy in France. The four major French mobile operators—Orange, SFR, Bouygues Telecom, and Free Mobile—have transformed the eSIM activation process over the past three years from "visit a store" to "scan a QR code online and go." The market has reached full maturity.
+France is one of the fastest markets for eSIM adoption. Since 2024, iPhones sold in France have fully eliminated the physical SIM slot, and Samsung's Galaxy S series is simultaneously pushing an eSIM-only strategy in France. The four major French mobile operators—Orange, SFR, Bouygues Telecom, and Free Mobile—have transformed the eSIM activation process over the past three years from "visit a store" to "scan a QR code online and go." The market has reached full maturity.
 
-But that doesn't mean choices are simpler. [Which type of France travel eSIM is better](/france-esim/)? There's no one-size-fits-all answer—it depends on your specific itinerary.
+But that doesn't mean choices are simpler. Which type of France travel eSIM is better? There's no one-size-fits-all answer—it depends on your specific itinerary.
 
-There are over 20 travel eSIM brands targeting France, with prices ranging from $1.99 to $80, networks ranging from Orange-only to auto-switching across all four operators, and plan designs combining everything from 1GB/3 days to 100GB/30 days in nearly a hundred permutations. More importantly—your network experience on Montmartre in Paris, in the lavender fields of Provence, on a TGV high-speed train, or on a ski lift in the French Alps can vary dramatically. [Match the best eSIM to your France itinerary](/france-esim/) to avoid pitfalls.
+There are over 20 travel eSIM brands targeting France, with prices ranging from $1.99 to $80, networks ranging from Orange-only to auto-switching across all four operators, and plan designs combining everything from 1GB/3 days to 100GB/30 days in nearly a hundred permutations. More importantly—your network experience on Montmartre in Paris, in the lavender fields of Provence, on a TGV high-speed train, or on a ski lift in the French Alps can vary dramatically. Match the best eSIM to your France itinerary to avoid pitfalls.
 
-This guide doesn't do generalities. We dive straight into each brand's real prices, the underlying physical networks, real-world performance across different travel scenarios, and the latest changes in the French telecom market in 2026. [France eSIM FAQs](/france-esim/) are also included at the end.
+This guide doesn't do generalities. We dive straight into each brand's real prices, the underlying physical networks, real-world performance across different travel scenarios, and the latest changes in the French telecom market in 2026. France eSIM FAQs are also included at the end.
 
 ## What Changed in France's eSIM Market in 2026
 
-> **📌 Quick Decision Summary**: The France eSIM market is fully mature—78% penetration, 5G low-band coverage completed, price wars in deep waters. In 2026, the core consideration for buying a France eSIM has evolved from "can I use it?" to "which brand gives more for the same price." [View latest plan price comparisons →](/france-esim/)
+> **📌 Quick Decision Summary**: France is one of Europe's most mature eSIM markets—around 78% penetration, low-band 5G now complete, and pricing in a sustained price war. By 2026 the question has moved on from "will a France eSIM work?" to "which brand gives the most for the same money." [Compare live plan pricing →](/france-esim/)
 
-Before diving into brand comparisons, take two minutes to understand three structural changes in the France eSIM market—they'll affect all your subsequent decisions, regardless of which [France eSIM](/france-esim/) you ultimately choose.
+Before diving into brand comparisons, take two minutes to understand three structural changes in the France eSIM market—they'll affect all your subsequent decisions, regardless of which France eSIM you ultimately choose.
 
 **First, France's eSIM penetration has crossed the tipping point.** According to GSMA 2026 data, eSIM-compatible device penetration in France has reached 78%, and in major tourist cities (Paris, Lyon, Nice) the figure exceeds 85%. This means operators no longer treat eSIM as an "add-on service" but as a core product line. Orange announced in early 2026 that all its prepaid product lines had completed eSIM transformation.
 
-**Second, 5G networks have completed low-band coverage.** In March 2026, Free Mobile added 2.1GHz band 5G, supplementing the previous 700MHz and 3.5GHz bands. The new band enables downlink speeds of up to 1Gb/s, and with multi-band aggregation, Free's 5G users can achieve theoretical peak speeds of 1.6Gb/s. This means the balance between "coverage" and "speed" in French 5G has greatly improved—fast in cities, no signal loss in rural areas. [eSIM brands supporting multi-network switching](/france-esim/) will prioritize these new bands.
+**Second, 5G networks have completed low-band coverage.** In March 2026, Free Mobile added 2.1GHz band 5G, supplementing the previous 700MHz and 3.5GHz bands. The new band enables downlink speeds of up to 1Gb/s, and with multi-band aggregation, Free's 5G users can achieve theoretical peak speeds of 1.6Gb/s. This means the balance between "coverage" and "speed" in French 5G has greatly improved—fast in cities, no signal loss in rural areas. eSIM brands supporting multi-network switching will prioritize these new bands.
 
-**Third, price competition has entered deep waters.** In 2026, the price war in the France eSIM market has evolved from "who is cheaper" to "who gives more for the same price." Entry-level plans have dropped to as low as $1.99/1GB (3 days), and unlimited plans range from $9.99 (3 days) to $70.99 (30 days), but brands increasingly differ in details like "whether they throttle," "whether they support hotspot," and "which network they access." [View latest France eSIM plan price comparisons](/france-esim/) to clearly see this divergence.
+**Third, price competition has entered deep waters.** In 2026, the price war in the France eSIM market has evolved from "who is cheaper" to "who gives more for the same price." Entry-level plans have dropped to as low as $1.99/1GB (3 days), and unlimited plans range from $9.99 (3 days) to $70.99 (30 days), but brands increasingly differ in details like "whether they throttle," "whether they support hotspot," and "which network they access." The full price comparison below makes this divergence easy to see.
 
 ## In-Depth Analysis of France's Four Major Mobile Networks
 
-> **📌 Quick Decision Summary**: Orange has the widest coverage (best for rural/mountain areas), Bouygues performs best on TGV high-speed trains, SFR offers balanced city/highway speeds, and Free Mobile is a low-cost urban option. For rural road trips, choose Orange-network eSIMs; for TGV passengers, choose Bouygues-network eSIMs; for all-around stability, choose multi-network auto-switching. [View each brand's network access comparison →](/france-esim/)
+> **📌 Quick Decision Summary**: Orange has the widest coverage (best for rural/mountain areas), Bouygues performs best on TGV high-speed trains, SFR offers balanced city/highway speeds, and Free Mobile is a low-cost urban option. For rural road trips, choose Orange-network eSIMs; for TGV passengers, choose Bouygues-network eSIMs; for all-around stability, choose multi-network auto-switching.
 
-When you purchase a [France data eSIM](/france-esim/), you're essentially renting access to one or more of the following four networks. Understanding each network's real-world performance is the prerequisite to choosing the right eSIM—[matching the best eSIM network to your itinerary](/france-esim/) starts with knowing which network fits you.
+When you purchase a France data eSIM, you're essentially renting access to one or more of the following four networks. Understanding each network's real-world performance is the prerequisite to choosing the right eSIM—matching the best eSIM network to your itinerary starts with knowing which network fits you.
 
 ### The Four Operators' Core Numbers
 
@@ -118,7 +118,7 @@ Orange is France's largest operator and the successor to France Telecom. It cons
 
 According to nPerf data from January 2026, Orange led the pack in download speed, reaching **128.91 Mbps**, far ahead of all other operators. Ookla data shows Orange's 5G median download speed at **301.82 Mbps**.
 
-**Best for**: Road trips through the Loire Valley, rural paths in Provence, the French Alps and Pyrenees, and long TGV journeys. [Travel eSIMs using Orange's network](/france-esim/) perform best in these scenarios.
+**Best for**: Road trips through the Loire Valley, rural paths in Provence, the French Alps and Pyrenees, and long TGV journeys. Travel eSIMs using Orange's network perform best in these scenarios.
 
 **SFR — The Balanced Contender**
 
@@ -130,7 +130,7 @@ SFR closely follows Orange in most areas. Since 2019, SFR has invested heavily i
 
 Bouygues operates a competitive network with strong urban performance and good highway coverage. According to nPerf data from January 2026, **Bouygues topped the French Mobile Internet Connectivity Barometer for the first time**, ranking first in four of five metrics (upload speed, latency, navigation success rate, video streaming success rate). This performance makes it particularly suitable for heavy-use scenarios like **video conferencing, online gaming, and streaming**.
 
-**Best for**: City-focused travel (Paris, Lyon, Marseille, Bordeaux), frequent TGV passengers. If your itinerary is rail-heavy, [eSIMs with multi-network switching](/france-esim/) will automatically prioritize Bouygues.
+**Best for**: City-focused travel (Paris, Lyon, Marseille, Bordeaux), frequent TGV passengers. If your itinerary is rail-heavy, eSIMs with multi-network switching will automatically prioritize Bouygues.
 
 **Free Mobile — The Urban Price Disruptor**
 
@@ -149,7 +149,7 @@ TGV trains crisscross France, and network performance varies by operator along d
 | Paris-Bordeaux (2.5 hours) | ★★★★★ | ★★★★ | ★★★★★ | ★★★ |
 | Paris-Strasbourg (2 hours) | ★★★★ | ★★★★ | ★★★★ | ★★★ |
 
-**Conclusion**: Bouygues performs best overall along TGV routes, followed by Orange. SFR performs well in urban sections but occasionally drops in rural areas. Free Mobile is the weakest in high-speed mobile scenarios. When [choosing a travel eSIM](/france-esim/), prioritize brands that access both Bouygues and Orange.
+**Conclusion**: Bouygues performs best overall along TGV routes, followed by Orange. SFR performs well in urban sections but occasionally drops in rural areas. Free Mobile is the weakest in high-speed mobile scenarios. When choosing a travel eSIM, prioritize brands that access both Bouygues and Orange.
 
 ### Paris Metro (RATP) Coverage Test
 
@@ -163,27 +163,27 @@ Metro coverage in Paris is rapidly improving. As of Q1 2026:
 | Line 14 (fully automated) | Full 5G | Orange / Bouygues |
 | RER A/B (suburban lines) | Major stations covered | Orange |
 
-**Real-world advice**: In the Paris Metro, Orange and Bouygues have the best tunnel coverage. SFR performs well on surface sections but has weaker underground tunnel signals. Free Mobile has the most limited metro coverage. In [France eSIM plan price comparisons](/france-esim/), Roami's multi-network switching can automatically avoid single-operator tunnel dead zones.
+**Real-world advice**: In the Paris Metro, Orange and Bouygues have the best tunnel coverage. SFR performs well on surface sections but has weaker underground tunnel signals. Free Mobile has the most limited metro coverage. Roami's multi-network switching can automatically avoid single-operator tunnel dead zones.
 
 ## France eSIM Brand Price Comparison
 
-> **📌 Quick Decision Summary**: Core differences among the three brands—Airalo offers the richest plan selection but some are 4G-only; Holafly is pure unlimited but costly for long stays; Roami offers multi-network switching at the lowest prices. 7-day 10GB tier: Roami discounted $9.59 vs Airalo $17 vs Holafly unlimited $27.65. [View full price comparison table →](/france-esim/)
+> **📌 Quick Decision Summary**: Core differences among the three brands—Airalo offers the richest plan selection but some are 4G-only; Holafly is pure unlimited but costly for long stays; Roami offers multi-network switching at the lowest prices. 7-day 10GB tier: Roami discounted $9.59 vs Airalo $17 vs Holafly unlimited $27.50. [View full price comparison table →](/france-esim/)
 
-The most popular [France data eSIM](/france-esim/) brands currently are **Airalo, Holafly, and Roami**. Below is an objective comparison based on public data (as of September 2026) to help you quickly identify the best option among [latest France eSIM prices](/france-esim/).
+The most popular France eSIM brands currently are **Airalo, Holafly, and Roami**. Below is an objective comparison based on public data (as of September 2026). For the platform-wide picture beyond France, see our [in-depth Airalo eSIM review](/blog/airalo-esim-review-prices-coverage/).
 
 ### Quick Brand Overview
 
 | Brand | Trustpilot Rating | Core Positioning | French Network | 5G Support | Hotspot |
 |------|---------------|----------|----------|--------|----------|
-| **Airalo** | 4.0/5 (28k+ reviews) | World's largest eSIM platform, richest plan selection | Orange / SFR / Bouygues | Some plans | ✅ Supported |
-| **Holafly** | 4.6/5 (94k+ reviews) | Only pure unlimited brand, no overage worries | Orange | ✅ Full | ⚠️ 1GB/day cap |
+| **Airalo** | 3.9/5 (28k+ reviews) | World's largest eSIM platform, richest plan selection | Orange / SFR / Bouygues | Some plans | ✅ Supported |
+| **Holafly** | 4.6/5 (94k+ reviews) | Only pure unlimited brand, no overage worries | Orange / SFR / Bouygues / Free | ✅ Full | ⚠️ 1GB/day cap |
 | **Roami** | 4.8/5 (App Store) | Multi-network switching, full 5G coverage | Orange/SFR/Bouygues/Free | ✅ Full | ✅ Unlimited |
 
 > None of the three brands **offer a French phone number**. If you need a French number for restaurant reservations or app registration, you'll need a local operator eSIM like Orange Travel (priced higher—10GB/14 days around $45).
 
 ### Airalo France eSIM Full Price List
 
-Airalo offers two plan types: **unlimited plans** and **fixed-data plans**.
+Airalo splits its France range down the middle: **unlimited plans** on one side and **fixed-data plans** on the other.
 
 **Unlimited Plans (all "Unlimited GB"):**
 
@@ -226,31 +226,30 @@ Airalo offers two plan types: **unlimited plans** and **fixed-data plans**.
 
 Holafly is the **only mainstream eSIM brand that sells only unlimited data**. You don't need to agonize over "how many GB to choose"—just pick the number of days, from 1 to 90.
 
-**Pricing: $3.95/day**
+**Pricing: from $3.97/day** – the daily rate drops on longer plans, with the 30-day tier working out to $2.46/day.
 
 | Days | Price (USD) | Daily Cost | Best For |
 |------|------------|----------|----------|
-| 3 days | $11.85 | $3.95 | Paris quick trip |
-| 5 days | $19.75 | $3.95 | Short city trip |
-| 7 days | $27.65 | $3.95 | One-week in-depth |
-| 10 days | $39.50 | $3.95 | Two or more cities |
-| 15 days | $59.25 | $3.95 | Half-month stay |
-| 30 days | $118.50 | $3.95 | Full-month stay |
+| 3 days | $11.90 | $3.97 | Paris quick trip |
+| 7 days | $27.50 | $3.93 | One-week in-depth |
+| 10 days | $36.50 | $3.65 | Two or more cities |
+| 15 days | $50.50 | $3.37 | Half-month stay |
+| 30 days | $73.90 | $2.46 | Full-month stay |
 
 **Holafly Core Features**:
-- **Connects to Orange network (4G & 5G)** —France's widest coverage
-- **Truly unlimited data**—no GB cap, no throttling below 90GB/month
-- Supports hotspot, but **1GB/day cap**
+- **Connects to Orange / SFR / Bouygues / Free (4G & 5G)** — all four major French networks
+- **Truly unlimited data**—no GB cap, no speed throttling
+- Supports hotspot, but **1GB/day sharing cap**
 - **No French phone number**
 - Trustpilot 4.6/5, over 94,000 reviews—**the most reviewed travel eSIM globally**
-- Strengths: Eliminates "data anxiety" completely; Orange network has optimal coverage
-- Weaknesses: Fixed daily price; short-term use is fine but long-term costs are high (30 days $118.50); hotspot capped at 1GB/day, unsuitable for multi-user sharing
+- Strengths: Eliminates "data anxiety" completely; multi-network access includes Orange's top-ranked coverage
+- Weaknesses: short-term use is fine but long-term costs stay high (30 days $73.90); hotspot capped at 1GB/day, unsuitable for multi-user sharing
 
-[View Holafly France eSIM latest plans →](https://www.holafly.com/france-esim)
+[View Holafly France eSIM latest plans →](https://esim.holafly.com/esim-france/)
 
 ### Roami France eSIM Full Price List
 
-Roami's key differentiator is **multi-network automatic switching**—it automatically selects the strongest signal among Orange, SFR, Bouygues, and Free based on your real-time location. All [France eSIM price comparisons](/france-esim/) below include Roami's discounted prices.
+Roami's key differentiator is **multi-network automatic switching**—it automatically selects the strongest signal among Orange, SFR, Bouygues, and Free based on your real-time location. All price comparisons below include Roami's discounted prices.
 
 **3-Day Plans:**
 
@@ -297,20 +296,20 @@ Roami's key differentiator is **multi-network automatic switching**—it automat
 | 100GB | $54.99 | $43.99 | Extremely heavy |
 | Unlimited | $70.99 | $56.79 | Full scenarios, no worries |
 
-**Roami Core Features**:
-- **Multi-network automatic switching** (Orange/SFR/Bouygues/Free)—whether you're in Paris, rural Provence, or on a TGV, automatically connects to the strongest signal
-- **Full 5G high-speed**, no throttling
-- **Unlimited hotspot sharing**, no daily cap
+**What Roami brings to France**:
+- **Automatic switching across Orange / SFR / Bouygues / Free**—central Paris, rural Provence or a TGV at 300km/h, it holds whichever signal is strongest
+- **Full 5G speeds**, nothing throttled
+- **Hotspot sharing without a daily cap**
 - **No French phone number**
-- Use discount code **WEB20** for 20% off
-- Strengths: Lowest price among the three brands (especially discounted); most stable coverage with multi-network switching
-- Weaknesses: Brand awareness slightly lower than Airalo and Holafly
+- Promo code **WEB20** takes 20% off the list price
+- Strengths: cheapest of the three once the discount is applied, and the steadiest coverage thanks to multi-network switching
+- Weaknesses: less brand recognition than Airalo or Holafly
 
 [View Roami France eSIM latest plans →](/france-esim/)
 
 ## 3-Day France eSIM Picks
 
-> **📌 Quick Decision Summary**: For a 3-day Paris quick trip, choose Roami 3GB (discounted $3.19)—54% cheaper than Airalo's equivalent. If you need unlimited, Roami unlimited discounted at $7.99 is 33% cheaper than Holafly. For group sharing, note Holafly's 1GB/day hotspot limit. [View full 3-day price comparison →](/france-esim/)
+> **📌 Quick Decision Summary**: For a 3-day Paris quick trip, choose Roami 3GB (discounted $3.19)—54% cheaper than Airalo's equivalent. If you need unlimited, Roami unlimited discounted at $7.99 is 33% cheaper than Holafly. For group sharing, note Holafly's 1GB/day hotspot limit.
 
 | Brand | Plan | Price (USD) | Discounted | Network | 5G | Hotspot |
 |------|------|------------|--------|------|----|------|
@@ -322,18 +321,18 @@ Roami's key differentiator is **multi-network automatic switching**—it automat
 | **Airalo** | 1GB | $4.00 | — | Orange | ❌ | ✅ |
 | **Airalo** | 3GB | $7.00 | — | Orange | ❌ | ✅ |
 | **Airalo** | Unlimited | $11.00 | — | Orange | ❌ | ✅ |
-| **Holafly** | Unlimited | $11.85 | — | Orange | ✅ | ⚠️1GB/day |
+| **Holafly** | Unlimited | $11.90 | — | Orange | ✅ | ⚠️1GB/day |
 
 **🏆 3-Day Plan Recommendations:**
 
-- **Lowest budget**: Roami 1GB ($1.99 discounted $1.59)—60% cheaper than Airalo 1GB ($4), best for navigation + messaging only
-- **Best value**: Roami 3GB ($3.99 discounted $3.19)—54% cheaper than Airalo 3GB ($7), plenty for a 3-day Paris trip
-- **Don't want to monitor data**: Roami unlimited ($9.99 discounted $7.99)—27% cheaper than Airalo unlimited ($11), 33% cheaper than Holafly ($11.85)
-- **Hotspot sharing with companions**: Roami's unlimited hotspot vs Holafly's 1GB/day cap—Roami is significantly better for group scenarios
+- **Cheapest way in**: Roami 1GB ($1.99, discounted $1.59)—60% below Airalo's 1GB ($4), enough for maps and messaging
+- **Best all-rounder**: Roami 3GB ($3.99, discounted $3.19)—54% under Airalo's 3GB ($7), ample for a three-day Paris break
+- **Prefer not to count gigabytes**: Roami unlimited ($9.99, discounted $7.99)—27% below Airalo unlimited ($11) and 33% below Holafly ($11.90)
+- **Sharing with others**: Roami's uncapped hotspot against Holafly's 1GB/day ceiling—Roami is the obvious choice for a group
 
 ## 7-Day France eSIM Picks
 
-> **📌 Quick Decision Summary**: For a 7-day trip, Roami 10GB discounted at $9.59 is just 56% of Airalo's equivalent and 35% of Holafly's unlimited. For a week-long in-depth trip, choose Roami 5GB (discounted $6.39) if daily usage is under 1GB; choose 10GB or unlimited for heavy use. [View full 7-day price comparison →](/france-esim/)
+> **📌 Quick Decision Summary**: For a 7-day trip, Roami 10GB discounted at $9.59 is just 56% of Airalo's equivalent and 35% of Holafly's unlimited. For a week-long in-depth trip, choose Roami 5GB (discounted $6.39) if daily usage is under 1GB; choose 10GB or unlimited for heavy use.
 
 | Brand | Plan | Price (USD) | Discounted | Network | 5G | Hotspot |
 |------|------|------------|--------|------|----|------|
@@ -346,18 +345,19 @@ Roami's key differentiator is **multi-network automatic switching**—it automat
 | **Airalo** | 5GB | $10.00 | — | Orange | ❌ | ✅ |
 | **Airalo** | 10GB | $17.00 | — | Orange | ❌ | ✅ |
 | **Airalo** | Unlimited | $25.00 | — | Orange | ❌ | ✅ |
-| **Holafly** | Unlimited | $27.65 | — | Orange | ✅ | ⚠️1GB/day |
+| **Holafly** | Unlimited | $27.50 | — | Orange | ✅ | ⚠️1GB/day |
 
 **🏆 7-Day Plan Recommendations:**
 
-- **One-week in-depth trip (under 1GB/day)**: Roami 5GB ($7.99 discounted $6.39)—36% cheaper than Airalo 5GB ($10)
-- **One-week heavy use (video + navigation + social)**: Roami 10GB ($11.99 discounted $9.59)—just 56% of Airalo 10GB ($17), 65% cheaper than Holafly unlimited ($27.65)
-- **One-week unlimited**: Roami unlimited ($19.99 discounted $15.99)—36% cheaper than Airalo unlimited ($25), 42% cheaper than Holafly ($27.65)
-- **Signal stability**: Roami's multi-network switching outperforms single-network Orange (Airalo) and single-network Orange (Holafly) on TGV trains and in rural areas
+- **A week at a gentle pace (under 1GB/day)**: Roami 5GB ($7.99, discounted $6.39)—36% below Airalo's 5GB ($10)
+- **A week of heavy use (video, maps, social)**: Roami 10GB ($11.99, discounted $9.59)—56% of Airalo's 10GB ($17) and 65% under Holafly unlimited ($27.50)
+- **A week without limits**: Roami unlimited ($19.99, discounted $15.99)—36% under Airalo unlimited ($25) and 42% under Holafly ($27.50)
+- **When the network matters most**: Roami's automatic switching is the safer bet on TGV routes and in the countryside, where the strongest carrier changes from one stretch to the next
+- **Watch the calendar**: French rail **strikes** can strand you mid-route with little notice—a data plan that lets you rebook trains and hotels on the spot is worth more than the few euros saved on a cheaper tier
 
 ## 15-Day France eSIM for Longer Trips
 
-> **📌 Quick Decision Summary**: For a half-month trip, Roami 10GB discounted at $10.39 is 42% cheaper than Airalo's equivalent. Roami unlimited discounted at $29.59 is 50% cheaper than Holafly (a $29.66 difference—enough for two good meals in France). Only consider unlimited if daily usage exceeds 2GB. [View full 15-day price comparison →](/france-esim/)
+> **📌 Quick Decision Summary**: For a half-month trip, Roami 10GB discounted at $10.39 is 42% cheaper than Airalo's equivalent. Roami unlimited discounted at $29.59 is 41% cheaper than Holafly (a $21 difference—enough for a good dinner in France). Only consider unlimited if daily usage exceeds 2GB.
 
 | Brand | Plan | Price (USD) | Discounted | Network | 5G | Hotspot |
 |------|------|------------|--------|------|----|------|
@@ -371,18 +371,18 @@ Roami's key differentiator is **multi-network automatic switching**—it automat
 | **Airalo** | 10GB | $18.00 | — | Orange | ❌ | ✅ |
 | **Airalo** | 20GB | $25.00 | — | Orange | ❌ | ✅ |
 | **Airalo** | Unlimited | $45.00 | — | Orange | ❌ | ✅ |
-| **Holafly** | Unlimited | $59.25 | — | Orange | ✅ | ⚠️1GB/day |
+| **Holafly** | Unlimited | $50.50 | — | Orange | ✅ | ⚠️1GB/day |
 
 **🏆 15-Day Plan Recommendations:**
 
-- **Half-month in-depth trip (1GB/day)**: Roami 10GB ($12.99 discounted $10.39)—42% cheaper than Airalo 10GB ($18)
-- **Half-month heavy use (1.5-2GB/day)**: Roami 20GB ($21.99 discounted $17.59)—30% cheaper than Airalo 20GB ($25)
-- **Half-month unlimited**: Roami unlimited ($36.99 discounted $29.59)—34% cheaper than Airalo unlimited ($45), 50% cheaper than Holafly ($59.25)
-- **Note**: Holafly 15 days at $59.25 is double Roami's discounted unlimited at $29.59—a $29.66 difference, enough for two decent dinners in France
+- **A fortnight at 1GB/day**: Roami 10GB ($12.99, discounted $10.39)—42% under Airalo's 10GB ($18)
+- **A fortnight at 1.5–2GB/day**: Roami 20GB ($21.99, discounted $17.59)—30% under Airalo's 20GB ($25)
+- **A fortnight without limits**: Roami unlimited ($36.99, discounted $29.59)—34% under Airalo unlimited ($45) and 41% under Holafly ($50.50)
+- **Worth noting**: Holafly's 15-day plan at $50.50 is 71% more than Roami's discounted unlimited at $29.59—a $21 gap, or a proper dinner in Lyon
 
 ## 30-Day France eSIM for Long Stays
 
-> **📌 Quick Decision Summary**: For month-long stays, Roami 50GB discounted at $25.59 is 27% cheaper than Airalo 50GB and includes 5G+multi-network. Holafly 30 days at $118.50 is nearly 3× Roami 100GB discounted at $43.99—only consider Holafly if you exceed 5GB/day; otherwise fixed plans are far more cost-effective. [View full 30-day price comparison →](/france-esim/)
+> **📌 Quick Decision Summary**: For month-long stays, Roami 50GB discounted at $25.59 is 27% cheaper than Airalo 50GB and includes 5G+multi-network. Holafly 30 days at $73.90 is 68% more than Roami 100GB discounted at $43.99—only consider Holafly if you consistently exceed 3GB/day; otherwise fixed plans are far more cost-effective.
 
 | Brand | Plan | Price (USD) | Discounted | Network | 5G | Hotspot |
 |------|------|------------|--------|------|----|------|
@@ -396,76 +396,63 @@ Roami's key differentiator is **multi-network automatic switching**—it automat
 | **Airalo** | 20GB | $26.00 | — | Orange | ❌ | ✅ |
 | **Airalo** | 50GB | $35.00 | — | Orange | ❌ | ✅ |
 | **Airalo** | Unlimited | $65.00 | — | Orange | ❌ | ✅ |
-| **Holafly** | Unlimited | $118.50 | — | Orange | ✅ | ⚠️1GB/day |
+| **Holafly** | Unlimited | $73.90 | — | Orange | ✅ | ⚠️1GB/day |
 
 **🏆 30-Day Plan Recommendations:**
 
-- **Month-long stay (1GB/day)**: Roami 30GB ($29.99 discounted $23.99)—more flexible than Airalo (no 30GB tier)
-- **Month-long remote work (1.5-2GB/day)**: Roami 50GB ($31.99 discounted $25.59)—27% cheaper than Airalo 50GB ($35) and includes 5G+multi-network
-- **Content creators / extremely heavy**: Roami 100GB ($54.99 discounted $43.99)—no equivalent tier from competitors at this price
-- **Month-long unlimited**: Roami unlimited ($70.99 discounted $56.79)—only $8 more than Airalo unlimited ($65) but with multi-network switching+5G, 52% cheaper than Holafly ($118.50)
-- **⚠️ Special note for long stays**: Holafly 30 days at $118.50 is nearly 3× Roami's 100GB discounted at $43.99. Unless you use over 5-6GB/day, fixed plans are far more cost-effective than Holafly unlimited.
+- **A month at 1GB/day**: Roami 30GB ($29.99, discounted $23.99)—more headroom than Airalo, which has no 30GB tier in France
+- **A month of remote work (1.5–2GB/day)**: Roami 50GB ($31.99, discounted $25.59)—27% under Airalo's 50GB ($35), with 5G and multi-network included
+- **Creators and very heavy users**: Roami 100GB ($54.99, discounted $43.99)—no competitor offers a comparable tier at this price
+- **A month without limits**: Roami unlimited ($70.99, discounted $56.79)—only $8 above Airalo unlimited ($65) yet with 5G and multi-network switching, and 23% under Holafly ($73.90)
+- **⚠️ A word on long stays**: Holafly's 30-day $73.90 runs 68% above Roami's discounted 100GB at $43.99. Unless you are genuinely clearing 3GB+ a day, a fixed tier is the better buy.
 
 ## France eSIM by Trip Type
 
-There's no single "best" [France eSIM](/france-esim/)—only the plan that best fits your itinerary. [Match the best eSIM to your itinerary](/france-esim/) with the following recommendations based on real French travel scenarios.
+There's no single "best" France eSIM—only the plan that best fits your itinerary. The following recommendations are based on real French travel scenarios.
 
 > **📌 Quick Decision Summary**:
-> - **Paris city trip (3-5 days)** → Roami 3GB/3 days ($3.99 discounted $3.19)
-> - **Rural road trip (7-10 days)** → Roami 10GB/7 days ($11.99 discounted $9.59), multi-network auto-switches to Orange
-> - **TGV multi-city travel** → Roami 10-20GB, prioritizes Bouygues network on high-speed rail
-> - **Month-long remote work** → Roami 50GB ($31.99 discounted $25.59), full-speed no throttling
-> - **Don't want to worry about data (1-7 days)** → Holafly unlimited, $3.95/day
-> - **Family / group travel** → Roami large-data plan, unlimited hotspot sharing
-> - **Strictest budget** → Roami 1GB/3 days ($1.99 discounted $1.59)
+> - **Paris city break (3-5 days)** → Roami 3GB/3 days ($3.99, discounted $3.19)
+> - **Countryside road trip (7-10 days)** → Roami 10GB/7 days ($11.99, discounted $9.59), auto-switching to Orange in the sticks
+> - **TGV multi-city travel** → Roami 10–20GB, leaning on Bouygues along the high-speed lines
+> - **A month of remote work** → Roami 50GB ($31.99, discounted $25.59), full speed, no throttling
+> - **Rather not think about data (1-7 days)** → Holafly unlimited, from $3.97/day
+> - **Families and groups** → a large Roami tier with uncapped hotspot sharing
+> - **Cheapest possible** → Roami 1GB/3 days ($1.99, discounted $1.59)
 >
-> [View full recommendations by scenario →](/france-esim/)
 
 ### Paris City Tour (3-5 days)
 
-- **Daily usage**: ~500MB–1GB (navigation, restaurant search, social posts, museum app guides)
-- **Recommendation**: Roami 3GB/3 days ($3.99 discounted $3.19) or Roami 5GB/7 days ($7.99 discounted $6.39)
-- **Reason**: All operators have good coverage in Paris—choose the best value. Roami's multi-network switching avoids single-network congestion during large events.
+Paris is gentle on data. Once you add up navigation, restaurant lookups, social posting and museum audio guides you land somewhere around 0.5-1GB a day, so Roami's 3GB/3-day tier at $3.19 or its 5GB/7-day at $6.39 covers the trip. Every operator serves central Paris well, so the decision comes down to price rather than coverage-and multi-network switching earns its place mostly during large events, when a single network congests.
 
 ### Provence / Rural Road Trip (7-10 days)
 
-- **Daily usage**: ~1–1.5GB (navigation + music + occasional video calls)
-- **Recommendation**: Roami 10GB/7 days ($11.99 discounted $9.59) or Roami 10GB/15 days ($12.99 discounted $10.39)
-- **Reason**: Orange has the best coverage in rural areas. Roami's multi-network switching will automatically connect to Orange; Airalo also uses Orange but only 4G. Holafly also uses Orange 5G, but at $3.95/day, costs are high for trips over 7 days.
+Budget 1-1.5GB a day for maps, music and the odd video call. Orange owns rural France, which is the reason Roami's automatic switching is worth having: it parks itself on Orange exactly where the other networks thin out. Airalo also rides Orange, but 4G only; Holafly brings Orange 5G at a per-day price that grows painful past a few days. Roami's 10GB over 7 days ($9.59) or 15 days ($10.39) is the sensible span.
 
 ### TGV High-Speed Multi-City Travel (10-14 days)
 
-- **Daily usage**: ~1.5–2GB (navigation + social + short videos)
-- **Recommendation**: Roami 10-20GB (multi-network switching)
-- **Reason**: Bouygues performs best along TGV routes (see operator test data above). Roami's multi-network auto-switching selects the strongest signal between Bouygues and Orange as the train moves. Airalo's single-network Orange and Holafly's single-network Orange may experience signal fluctuations when the TGV passes through rural areas.
+Expect 1.5-2GB daily. Bouygues is the strongest performer along the TGV corridors, and because the leading network changes as the train travels, Roami's switching between Bouygues and Orange holds the connection steady where a single-network plan would flutter through the countryside. A 10-20GB tier comfortably covers a two-week rail trip.
 
 ### Month-Long Stay + Remote Work (30 days)
 
-- **Daily usage**: ~2–5GB (video conferencing, cloud sync, streaming)
-- **Recommendation**: Roami 50GB ($31.99 discounted $25.59) or 100GB ($54.99 discounted $43.99)
-- **Reason**: Work scenarios need stable high-speed; can't risk throttling. Roami's full-speed + multi-network switching is cheaper than Airalo 50GB ($35) and includes 5G+multi-network.
+Remote work pushes usage to 2-5GB a day once video calls, cloud sync and streaming are counted, and throttling is the one thing you cannot live with. Roami's full-speed 50GB ($25.59) or 100GB ($43.99) undercuts Airalo's 50GB ($35) and adds 5G plus multi-network switching on top.
 
 ### Short-Term Heavy Use / Don't Want to Monitor Data (1-7 days)
 
-- **Recommendation**: Holafly unlimited (3 days $11.85 / 7 days $27.65)
-- **Reason**: Connects to Orange 5G, truly unlimited data. Daily cost of $3.95 is acceptable for short trips, and it eliminates data anxiety entirely. But note the 1GB/day hotspot limit.
+If you would rather not think about gigabytes, Holafly's unlimited tier (3 days $11.90, 7 days $27.50) sits on Orange 5G with no cap and no throttling. The $3.97/day is acceptable for a short break and removes the mental overhead entirely-just remember that sharing is capped at 1GB/day.
 
 ### Family or Group Trip to France
 
-- **Core needs**: Multiple devices connected simultaneously, hotspot sharing, cost sharing
-- **Recommendation**: Roami large-data plan (20-50GB) or unlimited
-- **Reason**: Roami supports **unlimited hotspot sharing**—one person buys, the whole family uses. Airalo also supports hotspot but only 4G. Holafly hotspot is limited to 1GB/day—unsuitable for group scenarios.
+When several people draw on a single connection, hotspot policy settles it. Roami permits uncapped tethering, so one purchase keeps the whole family online; Airalo allows sharing but stays 4G-only; Holafly's 1GB/day ceiling makes it a poor choice for a group. Aim for a large Roami tier-20-50GB, or unlimited.
 
 ### Budget Mode: Navigation + Messaging Only
 
-- **Recommendation**: Roami 1GB/3 days ($1.99 discounted $1.59)
-- **Reason**: Lowest entry price among the three brands—60% cheaper than Airalo 1GB ($4).
+Maps and messages only? Roami's 1GB/3-day tier at $1.59 is the cheapest entry onto a French network, 60% below Airalo's 1GB ($4).
 
 ## France eSIM Purchase Timing Decision Guide
 
-> **📌 Quick Decision Summary**: Buy and install 3-5 days before departure for the smoothest experience—works on arrival. Avoid buying at the airport (unstable WiFi) or late at night (slow customer service). Roami has no preset start date—auto-activates on arrival; Holafly requires selecting a start date. [View each brand's activation timeline comparison →](/france-esim/)
+> **📌 Quick Decision Summary**: Buy and install 3-5 days before departure for the smoothest experience—works on arrival. Avoid buying at the airport (unstable WiFi) or late at night (slow customer service). Roami has no preset start date—auto-activates on arrival; Holafly requires selecting a start date.
 
-This is a frequently searched topic that most guides avoid. In [France eSIM FAQs](/france-esim/), it ranks in the top three.
+This is a frequently searched topic that most guides avoid. Among the France eSIM FAQs we see, it ranks in the top three.
 
 ### Comparison of Three Purchase Timings
 
@@ -486,7 +473,7 @@ This is a frequently searched topic that most guides avoid. In [France eSIM FAQs
 ### Best Practice Recommendations
 
 **✅ Recommended**:
-1. [Choose your France eSIM plan](/france-esim/) 3-5 days before departure
+1. Choose your France eSIM plan 3-5 days before departure
 2. Install with WiFi before departure (scan QR code or add via App)
 3. Enable data roaming upon arrival in France—auto-activates
 4. If issues arise, you have time to contact customer support before departure
@@ -498,9 +485,9 @@ This is a frequently searched topic that most guides avoid. In [France eSIM FAQs
 
 ## France eSIM EU Roaming: In-Depth Analysis
 
-> **📌 Quick Decision Summary**: Roami and Airalo support EU27+UK roaming; Holafly supports EU27 (excluding UK). All three brands' roaming data allowances match their France domestic plans with no extra fees. Switzerland is included in most plans—confirm before purchase. [View each brand's roaming policy comparison →](/france-esim/)
+> **📌 Quick Decision Summary**: Roami and Airalo support EU27+UK roaming; Holafly supports EU27 (excluding UK). All three brands' roaming data allowances match their France domestic plans with no extra fees. Switzerland is included in most plans—confirm before purchase.
 
-If you're visiting multiple EU countries in one trip—France+Italy, France+Spain, France+Switzerland (note Switzerland is non-EU)—EU roaming is a must-consider.
+If you're visiting multiple EU countries in one trip—France+Italy, France+Spain, France+Switzerland (note Switzerland is non-EU)—EU roaming is a must-consider. Our [Spain eSIM guide](/blog/airalo-spain-esim-guide/) covers the Iberian leg, and our [UK eSIM guide](/blog/airalo-uk-esim-guide/) explains the post-Brexit rules that apply when you cross the Channel.
 
 ### Brand EU Roaming Policy Comparison
 
@@ -534,7 +521,7 @@ A: No. Travel eSIMs are one-time prepaid plans—using them in covered countries
 
 ## When You Should NOT Buy a France eSIM
 
-> **📌 Quick Decision Summary**: Chinese/Hong Kong iPhones don't support eSIM; if you need a French number choose Orange Travel; for stays over 3 months get a local SIM; for overseas departments get specialized plans. Spend 30 seconds on the self-checklist before ordering to avoid buying the wrong product. [View full reverse-decision guide →](/france-esim/)
+> **📌 Quick Decision Summary**: Mainland China/Hong Kong iPhones mostly don't support eSIM; if you need a French number choose Orange Travel; for stays over 3 months get a local SIM; for overseas departments get specialized plans. Spend 30 seconds on the self-checklist before ordering to avoid buying the wrong product.
 
 Most guides only tell you "why to buy eSIM," but smart content strategy should also tell users "when NOT to buy." This builds trust and reduces negative reviews and returns from wrong choices.
 
@@ -542,7 +529,7 @@ Most guides only tell you "why to buy eSIM," but smart content strategy should a
 
 | Scenario | Reason | Alternative |
 |------|------|----------|
-| **You have a Chinese/Hong Kong iPhone** | Chinese/Hong Kong iPhones don't support eSIM (see device compatibility list below) | Rent a pocket WiFi, or buy a physical SIM |
+| **You have a mainland China/Hong Kong iPhone** | Mainland-China iPhones mostly don't support eSIM (a few models excepted), and Hong Kong models ship without eSIM (see device compatibility list below) | Rent a pocket WiFi, or buy a physical SIM |
 | **You need a French number for SMS** | Three major travel eSIMs don't offer French numbers | Buy Orange Travel eSIM (includes number), or get a local SIM upon arrival |
 | **Staying in France for 3+ months** | Travel eSIMs usually max out at 30 days; renewal costs exceed local long-term plans | Get a French contract or prepaid card (requires ID verification) |
 | **Your phone is carrier-locked** | US/Canadian/Japanese locked phones can't use non-specified operator eSIMs | Contact original carrier to unlock, or use other connectivity solutions |
@@ -552,7 +539,7 @@ Most guides only tell you "why to buy eSIM," but smart content strategy should a
 
 ### Quick Self-Check
 
-Before [choosing a France eSIM](/france-esim/), spend 30 seconds confirming:
+Before ordering, spend 30 seconds confirming:
 
 - [ ] My phone is not a Chinese/Hong Kong iPhone (or I've confirmed it supports eSIM)
 - [ ] My phone is not carrier-locked
@@ -567,15 +554,15 @@ If any unchecked → See alternatives in the table above
 
 ## eSIM vs Other France Connectivity Options: Full Comparison
 
-> **📌 Quick Decision Summary**: For most travelers, Roami/Airalo eSIM is the most hassle-free option (no ID verification, EU roaming, transparent pricing). Local SIMs only suit stays over 3 months (require passport), and international roaming suits price-insensitive users ($30+/7 days). [View full plan comparison →](/france-esim/)
+> **📌 Quick Decision Summary**: For most travelers, Roami/Airalo eSIM is the most hassle-free option (no ID verification, EU roaming, transparent pricing). Local SIMs only suit stays over 3 months (require passport), and international roaming suits price-insensitive users ($30+/7 days).
 
-After understanding [France eSIM price comparisons](/france-esim/), many users still ask: how does eSIM compare to traditional connectivity options? Here's the full comparison.
+After understanding the France eSIM price comparisons above, many users still ask: how does eSIM compare to traditional connectivity options? Here's the full comparison.
 
 | Option | 7-Day Reference Price | ID Verification | EU Roaming | French Number | Convenience | Best For |
 |------|-----------|----------|----------|------------|--------|----------|
 | **Roami France eSIM** | 5GB $7.99 (disc. $6.39) | ✅ None | ✅ | ❌ | ⭐⭐⭐⭐⭐ | Most travelers |
 | **Airalo France eSIM** | 5GB $10.00 | ✅ None | ✅ | ❌ | ⭐⭐⭐⭐⭐ | Users comfortable with Apps |
-| **Holafly France eSIM** | Unlimited $27.65 | ✅ None | ✅ | ❌ | ⭐⭐⭐⭐ | Users who don't want to monitor data |
+| **Holafly France eSIM** | Unlimited $27.50 | ✅ None | ✅ | ❌ | ⭐⭐⭐⭐ | Users who don't want to monitor data |
 | **France local SIM (Orange)** | ~€20 (10GB) | ❌ Passport needed | ⚠️ Partial reduction | ✅ | ⭐⭐ | Stays over 3 months |
 | **International roaming (China Mobile etc.)** | $30+ | ✅ None | ✅ | ❌ | ⭐⭐⭐⭐ | Users who don't want to switch SIMs |
 | **Pocket WiFi (rental)** | ~$40-60 | ✅ None | ⚠️ Separate purchase | ❌ | ⭐⭐ | Multiple devices + unfamiliar with eSIM |
@@ -594,9 +581,9 @@ After understanding [France eSIM price comparisons](/france-esim/), many users s
 
 ## France eSIM Setup Guide
 
-> **📌 Quick Decision Summary**: Install with WiFi before departure; enable data roaming upon arrival for auto-activation. Airalo installs via App; Holafly requires selecting a start date; Roami scans QR code and works on arrival. If you can't connect, check: Data Roaming ON → Manual operator selection → Restart phone. [View full installation steps →](/france-esim/)
+> **📌 Quick Decision Summary**: Install with WiFi before departure; enable data roaming upon arrival for auto-activation. Airalo installs via App; Holafly requires selecting a start date; Roami scans QR code and works on arrival. If you can't connect, check: Data Roaming ON → Manual operator selection → Restart phone.
 
-After purchasing a [France eSIM plan](/france-esim/), you'll receive an email with a QR code. Here's a step-by-step guide. [France eSIM installation & activation tutorial](/france-esim/) has everything you need.
+After purchasing a France eSIM plan, you'll receive an email with a QR code. Here's a step-by-step guide—the France eSIM installation & activation tips below cover everything you need.
 
 ### iPhone Installation Steps
 
@@ -635,9 +622,9 @@ After purchasing a [France eSIM plan](/france-esim/), you'll receive an email wi
 
 ## France Device Compatibility Checklist
 
-> **📌 Quick Decision Summary**: Chinese/Hong Kong iPhones do NOT support eSIM! US iPhone 14/15/16 are eSIM-only. Macau iPhones support eSIM. Samsung S20 and above, Google Pixel 3 and above international versions support eSIM. Dial `*#06#` to see if EID appears—quick confirmation. [View full device list →](/france-esim/)
+> **📌 Quick Decision Summary**: Mainland-China iPhones largely do NOT take an eSIM (a handful of new models aside), and Hong Kong iPhones ship without it too. US iPhone 14/15/16 are eSIM-only, while Macau iPhones support it. Samsung S20 and newer plus international Google Pixel 3 and newer are fine. Dial `*#06#`—an EID on screen confirms support. [See the full device list →](/compatibility/)
 
-This is a frequently searched topic that most guides oversimplify. In [France eSIM FAQs](/france-esim/), device compatibility ranks in the top three.
+This is a frequently searched topic that most guides oversimplify. In our reader questions, device compatibility ranks in the top three.
 
 ### Detailed List by Brand/Model
 
@@ -653,7 +640,7 @@ This is a frequently searched topic that most guides oversimplify. In [France eS
 | iPhone 15 all models | ✅ | eSIM-only (US) / dual-SIM other versions |
 | iPhone 16 all models | ✅ | eSIM-only (US) / dual-SIM other versions |
 
-> **Important**: iPhones sold in mainland China and Hong Kong (except Macau versions) **do not support eSIM**. Macau iPhone 15/16 support eSIM. If you have a mainland China iPhone, you cannot use any eSIM service.
+> **Important**: iPhones sold in mainland China mostly **do not support eSIM** – Apple officially enables it only on a few models (iPhone 18 Pro, 18 Pro Max, 17e, and iPhone Air). Hong Kong models ship with dual physical SIM slots and no eSIM; Macau iPhone 15/16 do support eSIM. If you have a mainland China iPhone outside that short list, you cannot use any eSIM service.
 
 **Google Pixel**:
 
@@ -694,25 +681,27 @@ This is a frequently searched topic that most guides oversimplify. In [France eS
 
 ### Quick eSIM Support Check
 
-**iPhone users**: Dial `*#06#` on the keypad. If the screen displays an **EID** number, eSIM is supported. No EID means not supported.
+**On an iPhone**: dial `*#06#`. If an **EID** number appears on screen, the handset supports eSIM; no EID means it does not.
 
 **Android users**: Settings → About Phone → Status, look for **EID** or **eSIM ID**. Or search "eSIM" in settings to see if related options appear.
 
+For the complete model-by-model rundown beyond the highlights above, see our [eSIM compatible devices list](/compatibility/).
+
 ## France eSIM: Your Questions Answered
 
-> **📌 Quick Decision Summary**: None of the three brands require a passport or offer a French phone number. Roami and Airalo support unlimited hotspot; Holafly has a 1GB/day limit. eSIM validity starts from first network connection (except Holafly). You can top up online when data runs out. [View all 17 FAQs →](/france-esim/)
+> **📌 Quick Decision Summary**: None of the three brands asks for a passport and none supplies a French number. Roami and Airalo allow uncapped hotspot sharing; Holafly caps it at 1GB/day. Validity begins at the first network connection (Holafly excepted). Top-ups are handled online, and if you cancel before activation most brands will issue a **refund**.
 
 **Q1: Does a France eSIM require a passport or ID?**
 
-Absolutely not. [France travel eSIM selection guide](/france-esim/) data-only products require no personal identification when purchasing—protects your privacy. If you need a French phone number, you'll need a local operator product like Orange Travel (which requires identity verification).
+Not at all. A France travel eSIM is a data-only product, bought without any personal identification—so nothing about your trip is attached to your name. A French number is a different product entirely, and means a local operator plan such as Orange Travel, which does require identity verification.
 
 **Q2: Do all three brands support 5G?**
 
-Not entirely. Airalo's some plans only support 4G (Orange 4G network); Holafly supports Orange 5G; Roami supports multi-network 5G auto-switching. Check 5G support indicators when reviewing [France eSIM latest prices](/france-esim/).
+Not across the board. Some Airalo France plans are 4G-only on Orange's network, Holafly runs Orange 5G, and Roami switches between networks on 5G. Check the 5G column in each price table before you commit.
 
 **Q3: Is hotspot (tethering) allowed?**
 
-Airalo and Roami both support unlimited hotspot sharing. Holafly supports it but with a 1GB/day cap. For family travel or users who need to share, prioritize Roami or Airalo.
+Airalo and Roami both let you tether without a cap. Holafly allows it but throttles sharing to 1GB/day. If a family or a group needs to piggyback on one connection, Roami or Airalo is the safer pick.
 
 **Q4: Can a France eSIM be used in other EU countries?**
 
@@ -720,15 +709,15 @@ Yes. Mainstream France eSIM plans support EU-wide roaming, with data allowance i
 
 **Q5: Is Holafly's "unlimited" truly unlimited?**
 
-Yes—Holafly is truly unlimited with no GB cap, and no throttling below 90GB/month. This is its core difference from Airalo and Roami's fixed-data plans. Above 90GB/month may see throttling, but average travelers will almost never hit this limit.
+Yes. Holafly's unlimited really is unlimited—no data ceiling and no speed throttling—though hotspot sharing stops at 1GB/day while the phone's own connection stays unmetered. That is the structural difference between it and the fixed-data approach Airalo and Roami take.
 
 **Q6: What's the benefit of Roami's multi-network switching?**
 
-Different French operators have different coverage strengths—Orange is strongest in rural areas (see operator coverage data above), Bouygues performs well in cities and on TGV, SFR is balanced on city/highway routes. Roami automatically selects the strongest signal at your location, avoiding single-network dead zones in specific areas. [Match the best eSIM to your itinerary](/france-esim/). If you're road-tripping or taking TGV, multi-network switching is even more valuable.
+Different French operators have different coverage strengths—Orange is strongest in rural areas (see operator coverage data above), Bouygues performs well in cities and on TGV, SFR is balanced on city/highway routes. Roami automatically selects the strongest signal at your location, avoiding single-network dead zones in specific areas. If you're road-tripping or taking TGV, multi-network switching is even more valuable.
 
 **Q7: When does the France eSIM validity period start?**
 
-It starts when you **first connect to a local network in France**, not at purchase or installation. You can buy and install days in advance; it auto-activates on arrival. Holafly is slightly different—you need to specify a start date at purchase.
+The clock starts on your **first connection to a French network**, not when you buy or install. That means you can purchase and install well before you travel and it will activate itself on arrival. Holafly works differently—you pick a start date up front.
 
 **Q8: What if my phone doesn't support eSIM?**
 
@@ -739,23 +728,23 @@ First check the device compatibility list below. If it truly doesn't support eSI
 
 **Q9: What if I run out of data on my France eSIM?**
 
-You can top up online immediately—the add-on takes effect instantly without changing the eSIM. All mainstream brands support online top-ups.
+Top-ups are instant online—the extra data is added to the running eSIM with no reinstall and no new QR code. Every mainstream brand here handles top-ups that way.
 
 **Q10: Late arrival at Charles de Gaulle/Orly airport—can I use it immediately?**
 
-Yes. After [installing your France eSIM in advance](/france-esim/), enable data roaming upon landing—you'll be online within 2 minutes. Airport operator counters at CDG are usually closed late at night—eSIM is the best solution for late arrivals.
+Yes. After installing your France eSIM in advance, enable data roaming upon landing—you'll be online within 2 minutes. Airport operator counters at CDG are usually closed late at night—eSIM is the best solution for late arrivals.
 
 **Q11: Will I be charged automatically after the France eSIM expires?**
 
-No. All plans are one-time payments; they automatically disconnect after expiry with no hidden charges.
+No. Every plan is a one-off payment; once it lapses the line simply stops, with nothing recurring and no hidden charges. Cancel before the eSIM has been activated and you are normally entitled to a **full refund**—confirm the specific refund policy on the brand's page first.
 
 **Q12: Can Roami's discount code WEB20 be used for top-ups?**
 
-The discount code applies to first-time purchases of any plan. For renewals, if it's a new order, you can use it again; check official terms for current rules.
+The promo code applies to a first purchase of any plan. On a renewal, if you place it as a fresh order you can use it again—check the official terms for the current rules.
 
 ## Which France eSIM? Final Call
 
-> **📌 Quick Decision Summary**: One-click reference for 10 common scenarios. Budget-limited / city trips / rural road trips / TGV travel / family → Roami; don't want to monitor data / short trips → Holafly; comfortable with App operation → Airalo. [View full decision matrix →](/france-esim/)
+> **📌 Quick Decision Summary**: A one-click answer for ten common trips. Tight budget / city break / rural road trip / TGV travel / family → Roami; would rather not manage data, or a short trip → Holafly; happy using an app → Airalo.
 
 Still not sure after all the comparisons? Find the best match for your core needs in the matrix below:
 
@@ -765,7 +754,7 @@ Still not sure after all the comparisons? Find the best match for your core need
 | City travel, value priority | **Roami** | 5-10GB | $6.99-$10.99 | Lowest price + 5G + multi-network |
 | Rural/mountain road trip | **Roami** | 10GB+ | $10.99+ | Multi-network auto-switch, prioritizes Orange in rural areas |
 | TGV multi-city travel | **Roami** | 10-20GB | $10.99-$20.99 | Multi-network auto-switch, prioritizes Bouygues on high-speed rail |
-| Don't want to monitor data, short trip | **Holafly** | Unlimited (3-7 days) | $11.85-$27.65 | True unlimited + Orange 5G |
+| Don't want to monitor data, short trip | **Holafly** | Unlimited (3-7 days) | $11.90-$27.50 | True unlimited + Orange 5G |
 | Remote work / large data | **Roami** | 50-100GB | $31.99-$54.99 | Full-speed + multi-network, no throttling risk |
 | Family / group travel | **Roami** | 20GB+ or unlimited | $20.99+ | Unlimited hotspot sharing—one person buys, whole family uses |
 | Navigation + messaging only | **Roami** | 1GB/3 days | $1.99 | Lowest cost, lowest price among three brands |
@@ -778,20 +767,21 @@ This guide is based on cross-verified information from the following authoritati
 
 | Data Source | Purpose | Link |
 |----------|------|------|
-| **ARCEP** (French telecom regulator) | Operator coverage data, 5G site statistics | arcep.fr |
-| **nPerf** (independent network testing) | Operator speed rankings, TGV route tests | nperf.com |
-| **Ookla Speedtest** (global speed testing) | 5G median download speed verification | speedtest.net |
-| **GSMA** (Global Mobile Communications Association) | eSIM market penetration, industry trends | gsma.com |
+| **ARCEP** (French telecom regulator) | Operator coverage data, 5G site statistics | [monreseaumobile.arcep.fr](https://monreseaumobile.arcep.fr/) |
+| **nPerf** (independent network testing) | Operator speed rankings, TGV route tests | [nperf.com](https://www.nperf.com/) |
+| **Ookla Speedtest** (global speed testing) | 5G median download speed verification | [Speedtest Global Index – France](https://www.speedtest.net/global-index/france) |
+| **GSMA** (Global Mobile Communications Association) | eSIM market penetration, industry standards | [GSMA eSIM specification](https://www.gsma.com/solutions-and-impact/technologies/esim/) |
+| **Apple** | eSIM device support | [Apple eSIM support](https://support.apple.com/en-us/109317) |
 
 All pricing data was directly collected from each brand's official website (Airalo, Holafly, Roami) as of September 2026. Prices and policies are subject to change; check official websites for real-time information before purchasing.
 
 > **Ready for France?**
 >
-> **Roami France eSIM** all plans (1GB–100GB + unlimited high-speed). Use discount code **WEB20** for 20% off. Supports multi-network auto-switching, full 5G high-speed, no throttling, unlimited hotspot sharing.
+> **Roami France eSIM** all plans (1GB–100GB + unlimited high-speed). Use promo code **WEB20** for 20% off. Supports multi-network auto-switching, full 5G speeds, no throttling and uncapped hotspot sharing.
 >
 > [➜ Shop Roami France eSIM plans →](/france-esim/)
 >
-> Discount Code **WEB20** · Multi-Network 5G · Full Speed · Hotspot Supported
+> **WEB20** · automatic multi-network 5G · unthrottled · hotspot sharing enabled
 
 ---
 

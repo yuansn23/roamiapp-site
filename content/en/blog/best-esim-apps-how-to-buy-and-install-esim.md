@@ -83,7 +83,7 @@ The difference between a five-minute eSIM setup and a stressful afternoon at the
 
 This guide covers what separates a good eSIM app from a mediocre one, walks through the full buying flow with the specific settings that trip people up (APN, dual-SIM data routing, the difference between QR and manual entry), and explains what a "global eSIM store" actually is. If you have not chosen a provider yet, start with our comparison of the [best eSIM for international travel](/blog/best-esim-for-international-travel-providers-compared/) — this article assumes you have a provider in mind and are ready to buy.
 
-If you want to test the whole flow without spending, a [Roami travel eSIM](/united-states-esim/) lets you install a [free eSIM data](/free-esim/) trial through the app. Code **WEB20** takes 20% off any plan.
+If you want to test the whole flow without spending, a [Roami travel eSIM](/united-states-esim/) lets you install a [free eSIM data](/free-esim/) trial through the app. Code **web20** takes 20% off any plan.
 
 ---
 
@@ -99,17 +99,17 @@ An eSIM app is not just a storefront — it is the tool you will use to monitor 
 | **Top-up & multi-plan** | Trips extend and routes change | Easy add-ons vs force-new-plan |
 | **In-app support** | Problems happen abroad | Live chat vs email-only |
 
-The two features that matter most in practice are a **real-time data meter** and **in-app support**. You cannot budget what you cannot see — and a meter that tracks your data usage in near real time is the difference between an easy trip and a surprise outage. When an eSIM will not activate, you also want a human inside the same app, not a separate support ticket and a 24-hour wait. A polished guided flow matters for first-timers too: a good app tells you what to tap next, so you are never guessing whether you did it right. Finally, confirm the plan runs on **4G/5G** where you are going — a prepaid data plan that only connects at 3G or throttled LTE in your destination is not a bargain.
+The two features that matter most in practice are a **real-time data meter** and **in-app support**. You cannot budget what you cannot see — and a meter that tracks your data usage in near real time is the difference between an easy trip and a surprise outage. When an eSIM app will not activate a profile, you also want a human inside the same app, not a separate support ticket and a 24-hour wait. A polished guided flow matters for first-timers too: a good app tells you what to tap next, so you are never guessing whether you did it right. Finally, confirm the plan runs on **4G/5G** where you are going — a prepaid data plan that only connects at 3G or throttled LTE in your destination is not a bargain.
 
 ---
 
 ## How buying an eSIM actually works
 
-Buying eSIM data is fast, but the flow has a specific order, and the mistakes people make are almost always a skipped early step. The complete sequence:
+Buying eSIM data is fast, and nearly all eSIM apps follow the same order — the mistakes people make are almost always a skipped early step. The complete sequence:
 
-**1. Check compatibility first — before you pay.** Confirm your phone is unlocked and supports eSIM. Most phones from 2018 onward do, but a carrier-locked device usually does not, and a refund is not guaranteed if you find out after purchase. Look for an "Add eSIM" option in settings, or check the [iPhone eSIM compatibility guide](/faq/iphone-11-esim-compatible/).
+**1. Check compatibility first — before you pay.** Confirm your phone is unlocked and supports eSIM. Most phones from 2018 onward do, but a carrier-locked device usually does not, and a refund is not guaranteed if you find out after purchase. Look for an "Add eSIM" option in settings, or check the [eSIM compatible devices list](/compatibility/) and the [iPhone eSIM compatibility guide](/faq/iphone-11-esim-compatible/).
 
-**2. Pick your plan.** Choose destination (or region), data amount, and validity. Match validity to your trip length, not to the cheapest price — a 7-day plan on a 14-day trip means buying twice.
+**2. Pick your plan in the eSIM app.** Choose destination (or region), data amount, and validity. Match validity to your trip length, not to the cheapest price — a 7-day plan on a 14-day trip means buying twice.
 
 **3. Pay.** Most apps accept card and PayPal, with Apple Pay or Google Pay for one-tap checkout. The eSIM profile is generated immediately after payment — there is nothing physical to wait for.
 
@@ -117,7 +117,7 @@ Buying eSIM data is fast, but the flow has a specific order, and the mistakes pe
 
 **5. Install and activate.** Scan the QR code or tap in-app install, then set the eSIM as your data line. Do this on Wi-Fi, ideally before you fly.
 
-The single most common error in this flow is buying before checking compatibility — the one step you cannot easily undo. The second is waiting to install until you have landed, when your only connection is the airport Wi-Fi everyone else is hammering.
+The single most common error in any eSIM app flow is buying before checking compatibility — the one step you cannot easily undo. The second is waiting to install until you have landed, when your only connection is the airport Wi-Fi everyone else is hammering.
 
 ---
 
@@ -127,7 +127,7 @@ The leading eSIM apps all sell data and install a profile, but they differ on co
 
 | Feature | Roami | Airalo | Holafly | Ubigi | Nomad | Saily |
 |:--------|:-----:|:------:|:-------:|:-----:|:-----:|:-----:|
-| Countries covered | 190+ | 200+ | 160+ | 200+ | 100+ | 150+ |
+| Countries covered | 200+ | 200+ | 200+ | 200+ | 100+ | 150+ |
 | iOS app rating | 4.8 | 4.7 | 4.3 | 4.6 | 4.4 | 4.4 |
 | Live data meter | Yes | Yes | No | Yes | Yes | Yes |
 | In-app top-up | Yes | Yes | Limited | Yes | Yes | Limited |
@@ -136,13 +136,13 @@ The leading eSIM apps all sell data and install a profile, but they differ on co
 | Multiple plans on one account | Yes | Yes | No | Yes | Yes | No |
 | Manual entry backup (SM-DP+) | Yes | Yes | Yes | Yes | Yes | Yes |
 
-**Roami** is the standout on automatic carrier switching — instead of pinning you to one local network, it moves you to whichever carrier has the strongest signal at your location, and it pairs that with a live data meter and in-app live chat. **Airalo** has the largest catalog and the most polished app, though support leans on a chatbot before you reach a human. **Holafly** pairs unlimited data with the best 24/7 live chat but gives up the data meter in exchange. **Ubigi** and **Nomad** are clean and reliable with good meters and top-ups; **Saily** adds a built-in VPN for public-Wi-Fi users. At the end of the day, the best eSIM application is the one that fits the way you actually travel rather than the one with the most downloads.
+**Roami** is the standout on automatic carrier switching — instead of pinning you to one local network, it moves you to whichever carrier has the strongest signal at your location, and it pairs that with a live data meter and in-app live chat. **Airalo** has the largest catalog and the most polished app, though support leans on a chatbot before you reach a human. **Holafly** pairs unlimited data with the best 24/7 live chat but gives up the data meter in exchange. **Ubigi** and **Nomad** are clean and reliable with good meters and top-ups; **Saily** adds a built-in VPN for public-Wi-Fi users. At the end of the day, the best eSIM application is the one that fits the way you actually travel rather than the one with the most downloads. To see how these providers differ once a specific country's networks enter the picture, our [USA eSIM comparison](/blog/best-usa-esim-comparison-airalo-holafly/) pits Airalo, Holafly, and Roami against US carrier reality. It also pays to note the ecosystem extras: Airalo's Airmoney loyalty scheme returns 5–10% as app credit, and Saily ships an ad blocker and tracker protection for public Wi-Fi.
 
 ---
 
 ## App install vs QR code vs manual entry
 
-Once you have paid, there are three ways to get the profile onto your phone. They end at the same place but have different failure points:
+Once you have paid inside your eSIM app, there are three ways to get the profile onto your phone. They end at the same place but have different failure points:
 
 | Install method | How it works | Best for | Watch out for |
 |:---------------|:-------------|:---------|:--------------|
@@ -154,7 +154,7 @@ Once you have paid, there are three ways to get the profile onto your phone. The
 
 **QR code scanning** is the classic method and still works everywhere. The one gotcha: if the QR code is displayed on the same phone you are installing to, you cannot point that phone's camera at its own screen. Keep a copy on a second device, or use the manual code as backup.
 
-**Manual entry** exists as a fallback. It works, but the activation code is a long, error-prone string — typically formatted like `LPA:1$smdp.example.com$ACTIVATION-CODE`. A single mistyped character means the profile will not download, so treat it as a last resort.
+**Manual entry** exists as a fallback. It works, but the activation code is a long, error-prone string — typically formatted like `LPA:1$smdp.example.com$ACTIVATION-CODE`. A single mistyped character means the profile will not download, so treat it as a last resort. Worth remembering: the app is a storefront, not a requirement — every one of these providers also installs from a plain QR code, so a web purchase is just as valid.
 
 ### Where each method lives on iOS vs Android
 
@@ -181,7 +181,7 @@ A third, less common culprit is **roaming toggles**: some eSIMs require "Data Ro
 
 You will see **global eSIM store** in searches and marketing, and it is less exotic than it sounds. A global eSIM store is a provider that buys wholesale mobile data from local carriers in many countries, packages it into plans, and resells it through one app or website — no physical SIM card to ship or insert. Instead of signing up with a French carrier, a Japanese carrier, and a US carrier separately, the store handles the roaming agreements and hands you one plan that works across borders.
 
-This is how one app can sell a plan that works in 190+ countries: the provider has negotiated with local networks everywhere, not built its own towers. For you as a traveler, the practical benefits are:
+This is how one app can sell a plan that works in 200+ countries: the provider has negotiated with local networks everywhere, not built its own towers. For you as a traveler, the practical benefits are:
 
 - **One app and one account** for every destination you ever visit.
 - **Regional and global plans** that cover multiple countries without swapping SIMs.
@@ -210,10 +210,10 @@ Check three things in order: (1) the APN is set correctly for the eSIM line, (2)
 
 ---
 
-[Roami](/united-states-esim/) combines automatic network switching, a live data meter, and in-app live support — and the whole buy-install-activate flow lives in one app. A [free trial eSIM](/free-esim/) lets you test it before you commit. Code **WEB20** takes 20% off any plan.
+[Roami](/united-states-esim/) combines automatic network switching, a live data meter, and in-app live support — and the whole buy-install-activate flow lives in one app. A [free trial eSIM](/free-esim/) lets you test it before you commit. Code **web20** takes 20% off any plan.
 
 The best eSIM app is the one that gets you from "I need data" to "I am online" in the fewest taps while still showing you how much data is left and giving you a human when something breaks. Check compatibility, size your plan to your trip, install on good Wi-Fi, and activate before you board — and the rest takes care of itself.
 
-*Last updated August 2026.*
+*Last updated September 2026.*
 
 For device compatibility, check [Apple Support](https://support.apple.com/en-us/HT212780) and the [GSMA](https://www.gsma.com) eSIM standards. The [Wikipedia](https://en.wikipedia.org/wiki/ESIM) article provides background on how eSIM technology works.

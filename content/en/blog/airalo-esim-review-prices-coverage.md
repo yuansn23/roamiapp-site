@@ -1,14 +1,14 @@
 ---
-title: "The Airalo eSIM for Your Short Trip?"
+title: "Airalo eSIM Review 2026: Prices, Coverage, Support"
 description: "2026 Airalo in-depth review: Japan/US/Europe prices, compare Holafly & Saily, Trustpilot 3.9, refund & setup. Right for you?"
-keywords: ["China eSIM price guide", "holafly esim for china", "china esim bypass firewall", "cheapest eSIM for China travel", "china esim google whatsapp", "airalo china esim review", "China eSIM promo code"]
+keywords: ["airalo esim review", "airalo esim prices", "airalo esim coverage", "is airalo reliable", "airalo esim refund policy", "airalo vs holafly", "airalo esim review 2026"]
 date: 2026-09-03T00:00:00Z
 lastmod: 2026-09-03T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/airalo-esim.jpg"
 categories: ["eSIM", "Travel", "China"]
-tags: ["China eSIM", "Great Firewall", "Google WhatsApp"]
+tags: ["Airalo", "eSIM Review", "Travel eSIM"]
 readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
@@ -74,12 +74,12 @@ recentPosts:
 > **Data updated**: September 2026 | All prices verified inside the Airalo App.
 
 
-## 30-Second Quick Verdict
+## 30-Second Airalo eSIM Review: Quick Verdict for 2026
 
 If you're in a hurry, here are the 8 things you need to know:
 
 - **What Airalo is**: The world's largest travel eSIM marketplace, covering **over 200 countries and regions**. Founded in 2019 in Singapore, it closed a **$220 million** Series C funding round in July 2025, reaching a valuation of **over $1 billion** – making it the **world's first eSIM unicorn**.
-- **Price range**: Plans start at **$4.50** (1GB/7 days). Japan 5GB/30 days is **$11**, Europe regional 5GB/30 days is around **$19.50**, US 5GB/30 days is **$14**.
+- **Price range**: Local plans start at **$4** (1GB/3 days). Japan 5GB/30 days is **$11**, Europe regional 5GB/30 days is around **$19.50**, US 5GB/30 days is **$13.50**.
 - **App ratings**: App Store **4.7/5**, Google Play **4.6/5**, Trustpilot **3.9/5** (over 40,000 reviews).
 - **Core strengths**: Broadest global coverage, most plan variety (over 1,000 options), smooth app experience.
 - **Core weaknesses**: **Extremely slow customer support** – AI chatbot first, human responses take **12 to 48 hours**; "unlimited" plans throttle to ~1 Mbps after 3GB/day; most plans are **data-only with no phone number**.
@@ -93,24 +93,24 @@ If you're in a hurry, here are the 8 things you need to know:
 
 | What you want to know | Jump to |
 |---|---|
-| Is Airalo actually legit? | [What is Airalo and how does it work?](#what-is-airalo-and-how-does-it-work) |
-| How much does it cost for Japan, US, or Europe? | [Airalo 2026 prices by destination](#airalo-2026-prices-by-destination-japan-us-europe-thailand) |
-| Airalo vs Holafly vs Saily – which is better? | [Airalo vs Holafly vs Saily](#airalo-vs-holafly-vs-saily) |
-| Why is Trustpilot only 3.9? | [The truth behind Trustpilot's 3.9](#the-truth-behind-trustpilots-39) |
-| Installation failed or no connection? | [Installation, activation & troubleshooting](#installation-activation--troubleshooting) |
-| Can I get a refund if I buy the wrong plan? | [Airalo refund policy explained](#airalo-refund-policy-explained) |
-| How can existing users save money? | [How existing users save: referral codes & Airmoney](#how-existing-users-save-referral-codes--airmoney) |
-| Quick answers to specific questions | [FAQs answered in depth](#faqs-answered-in-depth) |
+| Is Airalo actually legit? | [What is the Airalo eSIM and how does it work?](#what-is-the-airalo-esim-and-how-does-it-work) |
+| How much does it cost for Japan, US, or Europe? | [Airalo eSIM 2026 prices by destination](#airalo-esim-2026-prices-by-destination-japan-us-europe-thailand) |
+| Airalo vs Holafly vs Saily – which is better? | [Airalo vs Holafly vs Saily](#airalo-vs-holafly-vs-saily-which-travel-esim-wins-in-2026) |
+| Why is Trustpilot only 3.9? | [The truth behind Airalo eSIM's Trustpilot 3.9](#the-truth-behind-airalo-esims-39-trustpilot-rating) |
+| Installation failed or no connection? | [Installation, activation & troubleshooting](#airalo-esim-installation-activation-and-troubleshooting) |
+| Can I get a refund if I buy the wrong plan? | [Airalo eSIM refund policy explained](#airalo-esim-refund-policy-explained-2026-rules) |
+| How can existing users save money? | [How existing users save: referral codes & Airmoney](#how-existing-users-save-airalo-esim-referral-codes--airmoney) |
+| Quick answers to specific questions | [Airalo eSIM FAQs answered in depth](#airalo-esim-faqs-answers-in-depth) |
 
 ---
 
-## What is Airalo and How Does It Work?
+## What Is the Airalo eSIM and How Does It Work?
 
 ### Airalo's Business Model
 
-Airalo doesn't own a single cell tower. Its business model is simple: partner with **over 700 local operators** worldwide (e.g., NTT Docomo in Japan, AT&T and Verizon in the US, AIS in Thailand), buy data in bulk from them, and resell it to travelers in small, trip-sized packages through its app.
+An Airalo eSIM doesn't come from Airalo's own cell towers. The business model is simple: partner with **over 700 local operators** worldwide (SoftBank and KDDI (au) in Japan, T-Mobile in the US, Türk Telekom in Turkey, AIS in Thailand), buy data in bulk from them, and resell it to travelers in small, trip-sized packages through its app. The technology underneath is the GSMA's [eSIM specification](https://www.gsma.com/solutions-and-impact/technologies/esim/), the standard that lets one phone hold several operator profiles without a physical card.
 
-Think of it as **the Expedia of mobile data** – it doesn't build hotels, but it brings together accommodation options from around the world in one app for easy comparison and booking.
+Think of the **Airalo eSIM** as **the Expedia of mobile data** – it doesn't build hotels, but it brings together accommodation options from around the world in one app for easy comparison and booking.
 
 > 💡 **Worth noting**: There are other eSIM providers using similar models that are also worth considering. For example, **Roami** partners directly with top-tier global operators – in the US it connects to **Verizon, T-Mobile, and AT&T** simultaneously; in Japan to **NTT Docomo, SoftBank, and au**; and in Europe it automatically switches among **Deutsche Telekom, Vodafone, Orange**, and more than 8 operators. This multi-operator auto-switching ensures you get the strongest signal wherever you are. You can [**check out Roami's full coverage plans**](/plans/) to see if they suit your destination.
 
@@ -127,7 +127,7 @@ Think of it as **the Expedia of mobile data** – it doesn't build hotels, but i
 | Google Play rating | **4.6/5** |
 | Trustpilot rating | **3.9/5** (~40,000 reviews) |
 
-**Clear verdict**: Airalo is currently the world's largest, best-funded travel eSIM provider. **It is not a scam, not a pyramid scheme – it's a legitimate company backed by top-tier venture capital**. But "biggest" doesn't mean "perfect" – the rest of this article breaks down its real issues.
+**Clear verdict**: the **Airalo eSIM** comes from the world's largest, best-funded travel eSIM provider. **It is not a scam, not a pyramid scheme – it's a legitimate company backed by top-tier venture capital**. But "biggest" doesn't mean "perfect" – the rest of this article breaks down its real issues.
 
 ### Three Scenarios Where Airalo Is a Good Fit
 
@@ -135,36 +135,36 @@ Think of it as **the Expedia of mobile data** – it doesn't build hotels, but i
 You don't want to queue 40 minutes at the airport for a SIM card, research local operator pricing, or struggle with language barriers at the counter. "5 minutes in the app" is Airalo's core value proposition.
 
 **Scenario 2: Multi-country itineraries (Europe or Asia)**
-One Eurolink plan covers **42 European countries**; one Asialink plan covers 18 Asian countries. No more swapping SIMs at every border – one eSIM does it all.
+One Eurolink plan covers **42 European countries**; one Asialink plan covers 18 Asian countries. No more swapping SIMs at every border – one eSIM does it all. True round-the-world trips get their own product: **Discover Global**, Airalo's global eSIM covering **170 countries and networks** on a single profile (sold both as data-only and with calls and texts).
 
 **Scenario 3: Light data users**
-Navigation, WhatsApp, Instagram, occasional short videos – **1GB to 5GB is plenty for most short trips**. Airalo's entry-level plans ($4.50/1GB) are cheap enough that you won't bother comparing prices.
+Navigation, WhatsApp, Instagram, occasional short videos – **1GB to 5GB is plenty for most short trips**. Airalo eSIM entry-level plans ($4.50/1GB) are cheap enough that you won't bother comparing prices.
 
 ### Three Scenarios Where Airalo Is NOT a Good Fit
 
 **Scenario 1: You need to receive SMS verification codes**
-**The vast majority of Airalo plans are data-only – no phone number included.** If your bank app, Google account, or WhatsApp needs SMS two-factor authentication, **Airalo will leave you trapped in a "can't receive code → can't log in → can't complete transaction" loop**. Before you leave, make sure to switch all critical accounts to authenticator apps (Google Authenticator, 1Password, etc.).
+**The vast majority of Airalo eSIM plans are data-only – no phone number included.** If your bank app, Google account, or WhatsApp needs SMS two-factor authentication, **Airalo will leave you trapped in a "can't receive code → can't log in → can't complete transaction" loop**. Before you leave, make sure to switch all critical accounts to authenticator apps (Google Authenticator, 1Password, etc.).
 
 > ⚠️ **The only exception**: Airalo's Discover+ global plan includes voice calling and SMS, but this is a rare exception – most plans have no number. Double-check before buying.
 
 **Scenario 2: Long-term stays over 1 month in one country**
-Local SIM cards are **16% to 50% cheaper than Airalo**. In Japan, Docomo's 5GB travel SIM is around $7, while Airalo's equivalent is $11 – **about 57% more expensive**. In Thailand, AIS's 10GB airport plan is around $5, while Airalo's 10GB is around $11 – **120% more**. The longer you stay, the worse Airalo's value becomes.
+Local SIM cards are **16% to 50% cheaper than the Airalo eSIM**. In Japan, Docomo's 5GB travel SIM is around $7, while Airalo's equivalent is $11 – **about 57% more expensive**. In Thailand, AIS's 10GB airport plan is around $5, while Airalo's 10GB is around $11 – **120% more**. The longer you stay, the worse Airalo's value becomes.
 
 **Scenario 3: Heavy video conferencing or streaming users**
-Airalo's "unlimited" plans throttle to ~1 Mbps after **3GB/day**. At 1 Mbps, you can send WeChat messages and browse websites, **but video calls and streaming are impossible**. If you need two hours of Zoom meetings daily, skip Airalo entirely.
+The Airalo eSIM's "unlimited" plans throttle to ~1 Mbps after **3GB/day**. At 1 Mbps, you can send WeChat messages and browse websites, **but video calls and streaming are impossible**. If you need two hours of Zoom meetings daily, skip Airalo entirely.
 
 ---
 
-## Airalo 2026 Prices by Destination (Japan, US, Europe, Thailand)
+## Airalo eSIM 2026 Prices by Destination: Japan, US, Europe, Thailand
 
 > 📌 **Important**: Prices below are real-time prices from the Airalo App as of September 2026. eSIM pricing changes frequently – **always check the App for the latest prices before buying**.
 
-### Japan (Network: NTT Docomo / SoftBank)
+### Japan (Network: SoftBank / KDDI (au))
 
 | Data | Price (USD) | Validity | Cost per GB |
 |---|---|---|---|
-| 1GB | 4.00 | 7 days | $4.00/GB |
-| 3GB | 8.00 | 30 days | $2.67/GB |
+| 1GB | 4.00 | 3 days | $4.00/GB |
+| 3GB | 8.00 | 7 days | $2.67/GB |
 | 5GB | **11.00** | 30 days | **$2.20/GB** |
 | 10GB | 18.00 | 30 days | $1.80/GB |
 | 20GB | 25.00 | 30 days | $1.25/GB |
@@ -172,25 +172,30 @@ Airalo's "unlimited" plans throttle to ~1 Mbps after **3GB/day**. At 1 Mbps, you
 **Buying advice**:
 - **3-5 days in Tokyo or Osaka** → 1GB is enough (navigation + WeChat + occasional social media)
 - **7+ days** → Choose 3GB or 5GB (**5GB tier has the best per-GB value**)
-- **Network choice**: Airalo uses **NTT Docomo and SoftBank** in Japan. Both have excellent coverage in cities; Docomo has a slight edge in rural areas.
+- **Network choice**: Airalo rides on **SoftBank and KDDI (au)** in Japan. Both have excellent coverage in cities and along the shinkansen lines; coverage in mountainous rural areas depends more on which of the two your phone latches onto.
 
-**Price comparison**: Docomo's 5GB travel SIM in Japan is around $7, while Airalo's 5GB is $11 – **about 57% more expensive**. For a 7-day trip, you're paying an extra $4 for the convenience of no queues and no SIM swapping. Whether that's worth it is up to you.
+**Price comparison**: Docomo's 5GB travel SIM in Japan is around $7, while the Airalo eSIM's 5GB is $11 – **about 57% more expensive**. For a 7-day trip, you're paying an extra $4 for the convenience of no queues and no SIM swapping. Whether that's worth it is up to you.
 
-### United States (Network: AT&T / Verizon)
+> 🗾 **Going deeper**: For a network-by-network breakdown (subway coverage, rural festivals, setup screenshots), read our [Airalo Japan eSIM guide for travelers](/blog/airalo-japan-esim-guide/).
+
+### United States (Network: T-Mobile)
 
 | Data | Price (USD) | Validity | Cost per GB |
 |---|---|---|---|
-| 1GB | 4.00 | 7 days | $4.00/GB |
-| 3GB | 9.00 | 30 days | $3.00/GB |
-| 5GB | 14.00 | 30 days | $2.80/GB |
-| 10GB | 23.00 | 30 days | $2.30/GB |
-| 20GB | 37.00 | 30 days | $1.85/GB |
+| 1GB | 4.00 | 3 days | $4.00/GB |
+| 3GB | 9.00 | 7 days | $3.00/GB |
+| 5GB | 13.50 | 30 days | $2.70/GB |
+| 10GB | 22.50 | 30 days | $2.25/GB |
+| 20GB | 36.50 | 30 days | $1.83/GB |
+| 50GB | 42.00 | 30 days | $0.84/GB |
 
 **Buying advice**:
-- **National park trips (Yellowstone, Grand Canyon, etc.)** : Airalo uses AT&T and Verizon. Verizon has slightly better rural coverage than AT&T, but neither is perfect in truly remote areas. **Download offline maps before you go**.
-- **Cities (NYC, LA, Chicago)** : Both AT&T and Verizon have excellent 5G coverage – no concerns.
+- **National park trips (Yellowstone, Grand Canyon, etc.)** : Airalo connects to T-Mobile in the US. T-Mobile leads urban 5G, but its rural footprint still trails Verizon's in the mountain West – **download offline maps before you go**.
+- **Cities (NYC, LA, Chicago)** : T-Mobile's mid-band 5G is excellent – no concerns.
 
-**Price comparison**: T-Mobile prepaid 10GB/30 days is around $22, Airalo 10GB is around $23 – **roughly the same**. The US is one of the few destinations where Airalo and local SIMs are price-competitive.
+**Price comparison**: T-Mobile prepaid 10GB/30 days is around $22, Airalo 10GB is $22.50 – **roughly the same**. The US is one of the few destinations where Airalo and local SIMs are price-competitive.
+
+> 🇺🇸 **Going deeper**: The US adds a wrinkle most guides ignore – no travel eSIM gives you a US phone number for SMS codes. Our [Airalo USA eSIM guide](/blog/airalo-usa-esim-guide/) covers workarounds (VoIP numbers, T-Mobile coverage maps by region).
 
 ### Europe Regional – Eurolink (Covers 42 Countries)
 
@@ -206,7 +211,8 @@ Airalo's "unlimited" plans throttle to ~1 Mbps after **3GB/day**. At 1 Mbps, you
 
 **Buying advice**:
 - **2+ week multi-country Europe trips** → Eurolink is almost certainly cheaper than buying country-by-country
-- **Single country stays** → Check local plans first – they may be cheaper than the regional package
+- **Single country stays** → Check local plans first – they may be cheaper than the regional package. Our [Airalo Germany eSIM guide](/blog/airalo-germany-esim-guide/) then covers the Band 20 and ICE-train caveats.. Our [Airalo Germany eSIM guide](/blog/airalo-germany-esim-guide/) then covers the Band 20 and ICE-train caveats.
+- **Post-Brexit note for the UK**: UK operators now charge EU roaming again, so a UK leg of your trip burns through Eurolink data instead of your home plan. Our [Airalo UK eSIM guide](/blog/airalo-uk-esim-guide/) explains what changed and when a local UK eSIM beats Eurolink.
 
 ### Thailand (Network: AIS)
 
@@ -224,7 +230,7 @@ Airalo's "unlimited" plans throttle to ~1 Mbps after **3GB/day**. At 1 Mbps, you
 
 ---
 
-## Airalo vs Holafly vs Saily
+## Airalo vs Holafly vs Saily: Which Travel eSIM Wins in 2026?
 
 ### Core Positioning of the Three Brands
 
@@ -262,7 +268,7 @@ Airalo's "unlimited" plans throttle to ~1 Mbps after **3GB/day**. At 1 Mbps, you
 
 Beyond the mainstream brands, newer eSIM providers are offering highly competitive pricing. For example, **Roami** starts at just **$1.99** (1GB/7 days) and covers **over 200 countries and regions**. Roami also partners with top local operators – in the US it connects to **Verizon, T-Mobile, and AT&T** simultaneously; in Japan to **NTT Docomo, SoftBank, and au**; and in Europe it automatically switches among **Deutsche Telekom, Vodafone, Orange, EE**, and more than 8 operators, ensuring you always get the best signal.
 
-For price-sensitive users, Roami offers **free eSIM trial data**, and new users get **20% off** with code **web20**. If you have concerns about Airalo's pricing or customer support, feel free to [**check out Roami's plans**](/plans/) as an alternative.
+For price-sensitive users, Roami offers **free eSIM trial data**, and new users get **20% off** with code **web20**. If you have concerns about Airalo's pricing or customer support, feel free to [**compare Roami's current plans**](/plans/) as an alternative.
 
 ### Summary of Third-Party Reviews
 
@@ -294,11 +300,11 @@ For price-sensitive users, Roami offers **free eSIM trial data**, and new users 
 
 ---
 
-## The Truth Behind Trustpilot's 3.9
+## The Truth Behind Airalo eSIM's 3.9 Trustpilot Rating
 
 ### Where Does 3.9 Rank in the eSIM Industry?
 
-Airalo has around **40,000 reviews** on Trustpilot, with a composite score of **3.9/5**.
+The **Airalo eSIM** has around **40,000 reviews** on Trustpilot, with a composite score of **3.9/5**.
 
 That sounds "okay," but when compared to competitors, the gap is stark. According to Aissist.io's **"2026 eSIM Customer Service Benchmark Report"** (updated June 2026):
 
@@ -341,13 +347,13 @@ The Aissist.io report reveals a critical difference:
 
 > As of April 2026, Airalo has over [40,000 reviews on Trustpilot](https://www.trustpilot.com/review/airalo.com) with a composite score of 3.9/5.
 
-**If your eSIM fails during your trip, Airalo's support is almost certainly not going to help you "in an emergency."** This is the single biggest real-world risk of using Airalo.
+**If your Airalo eSIM fails during your trip, Airalo's support is almost certainly not going to help you "in an emergency."** This is the single biggest real-world risk of using Airalo.
 
 > 💡 **Support comparison**: By contrast, some newer eSIM providers invest more heavily in support response times. For example, **Roami** offers **24/7 human support** via WhatsApp, with an average response time of about **10 seconds**. If support responsiveness is a key factor for you, you can [**learn more about Roami's service**](/plans/).
 
 ---
 
-## Installation, Activation & Troubleshooting
+## Airalo eSIM Installation, Activation and Troubleshooting
 
 ### Standard Installation Process (about 5 minutes)
 
@@ -356,13 +362,13 @@ The Aissist.io report reveals a critical difference:
 3. **Install on WiFi**: Tap "Install eSIM" in the app → Follow prompts → Wait for activation (a few minutes)
 4. **After arrival**: Settings → Cellular → Enable "Data Roaming" → Select the supported network
 
-**iOS users**: Installation is automatic. **Android users**: Some devices may need to scan a QR code (newer models from 2020+ can install directly; older models may need another device to display the QR code).
+**iOS users**: Installation is automatic. **Android users**: Some devices may need to scan a QR code (newer models from 2020+ can install directly; older models may need another device to display the QR code). For the step-by-step version on iPhone, see [Apple's eSIM setup guide](https://support.apple.com/en-us/109317).
 
 ### Three Critical Warnings (Please Read)
 
 1. **⚠️ You MUST install before departure**. Installation requires an internet connection. If you wait until after landing and there's no WiFi – **you won't be able to activate the eSIM**.
-2. **⚠️ Turn off data roaming on your primary line after installation** – avoid a几百-dollar roaming bill.
-3. **⚠️ Check device compatibility before you go**. Some phones sold in China don't support eSIM. Airalo's website has a full compatibility list (iPhone XS and newer, Samsung S20 and newer, Google Pixel 3 and newer, etc.). **This is the #1 reason refund requests are denied**.
+2. **⚠️ Turn off data roaming on your primary line after installation** – this avoids a several-hundred-dollar roaming bill from your home carrier.
+3. **⚠️ Check device compatibility before you go**. Some phones sold in China (and Hong Kong models with dual physical SIM slots) don't support eSIM. Our [eSIM compatible devices list](/compatibility/) covers every iPhone, Samsung, and Google Pixel generation. **This is the #1 reason refund requests are denied**.
 
 ### Three-Step Troubleshooting for Installation Failure
 
@@ -394,18 +400,18 @@ Every "unlimited" eSIM plan on the market comes with a **Fair Use Policy (FUP)**
 | Brand | Daily throttle threshold | Speed after throttle |
 |---|---|---|
 | **Airalo** | **3GB/day** | ~1 Mbps |
-| **Holafly** | 3-5GB/day | below 1 Mbps |
+| **Holafly** | None – genuinely uncapped | Full speed (but hotspot/tethering capped at **1GB/day**) |
 | **Saily** | **5GB/day** | 1 Mbps |
 
-> Gizmodo's 2026 travel eSIM comparison [also notes](https://gizmodo.com/best-esim-provider/international-travel) that Airalo's unlimited plans throttle after 3GB/day.
+> Each provider's own published fair-use terms tell the same story: Saily's unlimited plans throttle to 1 Mbps after 5GB a day, while Holafly states it applies no daily high-speed cap – the trade-off being a 1GB/day tethering cap (per Holafly's official plan terms).
 
-**What Airalo's "unlimited" actually means**: **Full speed for the first 3GB, then throttled to ~1 Mbps**. At 1 Mbps, you can use WeChat and browse the web, **but video calls and streaming are completely impossible**.
+**What the Airalo eSIM's "unlimited" actually means**: **Full speed for the first 3GB, then throttled to ~1 Mbps**. At 1 Mbps, you can use WeChat and browse the web, **but video calls and streaming are completely impossible**.
 
 > 📌 **Remember**: "Unlimited" does not mean "full speed throughout" – it means "won't cut off, but will slow down."
 
 ---
 
-## Airalo Refund Policy Explained
+## Airalo eSIM Refund Policy Explained (2026 Rules)
 
 > Based on Airalo's Terms of Use (updated July 2026) and official Help Center.
 
@@ -447,7 +453,7 @@ If you've **requested automatic refunds multiple times**, future refund requests
 
 ---
 
-## How Existing Users Save: Referral Codes & Airmoney
+## How Existing Users Save: Airalo eSIM Referral Codes & Airmoney
 
 ### Why Do Existing Users Keep Using Airalo?
 
@@ -471,11 +477,11 @@ Topping up an existing plan is convenient, but **top-up prices are sometimes hig
 
 > 📌 **Promo code reminder**: Some media and bloggers post exclusive discount codes – for example, **TECHRADAR** may offer exclusive discounts, **NEWTOAIRALO15** gives **15% off** (valid until December 31, 2026). Search "Airalo promo code 2026" before buying – you might find a deal.
 
-**If you're looking for even lower-priced alternatives**, Roami starts at just **$1.99**, with new users getting **20% off** using code **web20**, plus **free eSIM trial data**. You can [**check out Roami's detailed plans**](/plans/) for reference.
+**If you're looking for even lower-priced alternatives**, Roami starts at just **$1.99**, with new users getting **20% off** using code **web20**, plus **free eSIM trial data**. You can [**browse Roami's country-by-country pricing**](/plans/) for reference.
 
 ---
 
-## FAQs Answered In Depth
+## Airalo eSIM FAQs: Answers In Depth
 
 ### Q1: Does Airalo eSIM support 5G?
 
@@ -497,13 +503,13 @@ Topping up an existing plan is convenient, but **top-up prices are sometimes hig
 
 ### Q4: Does Airalo provide a phone number?
 
-**A: Most plans do NOT.** Airalo is a **data-only eSIM service**. The only exception is the **Discover+ global plan**, which includes calling and SMS. If you need to receive SMS verification codes (bank, Google, etc.), **either choose Discover+ or don't use Airalo at all**. The safest approach is to switch all critical accounts to authenticator apps (Google Authenticator, 1Password) before you leave.
+**A: Most plans do NOT.** The **Airalo eSIM** is a **data-only service**. The only exception is the **Discover+ global plan**, which includes calling and SMS. If you need to receive SMS verification codes (bank, Google, etc.), **either choose Discover+ or don't use Airalo at all**. The safest approach is to switch all critical accounts to authenticator apps (Google Authenticator, 1Password) before you leave.
 
-> The Guardian's 2026 travel eSIM article [notes that](https://www.theguardian.com/travel/2025/sep/26/esim-travel-sim-card-airalo-holafly-saily) Airalo's Discover+ package allows voice calls and is available in more than 130 destinations.
+> For the specifics of that global plan, check the current allowance and price on [Airalo's Global eSIM page](https://www.airalo.com/global-esim) – Discover+ is the package that bundles data with minutes and texts, which makes it useful for trips that hop between continents.
 
 ### Q5: Can Airalo be used in mainland China?
 
-**A: Yes, but with a prerequisite.** Airalo covers mainland China, but **you MUST install it before you arrive** – because China restricts access to many international services. Install and activate on WiFi before departure. Also note that network coverage in some remote areas of China may be limited, depending on the local partner operator.
+**A: Yes, but with a prerequisite.** The **Airalo eSIM** covers mainland China, but **you MUST install it before you arrive** – because China restricts access to many international services. Install and activate on WiFi before departure. Also note that network coverage in some remote areas of China may be limited, depending on the local partner operator. Our [Airalo China eSIM guide](/blog/airalo-china-esim-guide/) walks through how Google, WhatsApp, and Instagram behave on a China eSIM.
 
 ### Q6: What happens when I run out of data?
 
@@ -511,11 +517,11 @@ Topping up an existing plan is convenient, but **top-up prices are sometimes hig
 
 ### Q7: Which has better signal, Airalo or Holafly?
 
-**A: Depends on your destination.** Airalo has **700+ partner operators across 200+ countries**; Holafly covers 160+ countries. In major cities, speed differences are negligible. But in less common destinations, Airalo has more options. **Check who the local partner operator is before buying** – the operator's network quality matters more than the brand name.
+**A: Depends on your destination.** Airalo has **700+ partner operators across 200+ countries**; Holafly covers 160+ countries. In major cities, speed differences are negligible. But in less common destinations, Airalo has more options – and the partner's quality varies. In Turkey, for instance, Airalo rides on Türk Telekom alone, which is weaker than Turkcell in rural Cappadocia (our [Airalo Turkey eSIM guide](/blog/airalo-turkey-esim-guide/) compares all five major brands there). **Check who the local partner operator is before buying** – the operator's network quality matters more than the brand name.
 
 ### Q8: Can one Airalo eSIM work across multiple EU countries?
 
-**A: Yes.** The **Eurolink plan covers 42 European countries** – one eSIM works across Europe, no need to buy a new one at each border.
+**A: Yes.** The **Eurolink plan covers 42 European countries** – one eSIM works across Europe, no need to buy a new one at each border. If your itinerary also leaves Europe, Airalo's **Discover Global** eSIM covers 170 countries and networks on one profile, so a Europe-plus-Asia trip needs no mid-trip reinstall. For single-country deep dives, see our [Airalo France eSIM guide](/blog/airalo-france-esim-guide/) and [Airalo Spain eSIM guide](/blog/airalo-spain-esim-guide/) – both compare Eurolink against local plans for typical trip lengths.
 
 ### Q9: Is Airalo cheaper than traditional international roaming?
 
@@ -527,7 +533,7 @@ Topping up an existing plan is convenient, but **top-up prices are sometimes hig
 
 ---
 
-## Should You Buy Airalo in 2026? Decision by Scenario
+## Should You Buy the Airalo eSIM in 2026? Decision by Scenario
 
 | Your specific situation | Recommendation |
 |---|---|
@@ -543,7 +549,7 @@ Topping up an existing plan is convenient, but **top-up prices are sometimes hig
 
 ---
 
-## 5 Must-Do Checks Before Buying
+## 5 Must-Do Checks Before Buying an Airalo eSIM
 
 Before clicking "Buy," confirm each of these:
 
@@ -553,7 +559,7 @@ Before clicking "Buy," confirm each of these:
 - [ ] ✅ **Understand the FUP**: If you're buying an "unlimited" plan, confirm you're ok with throttling to ~1 Mbps after 3GB/day.
 - [ ] ✅ **Confirm you don't need a phone number**: If you need verification codes or calls, Airalo is not for you (Discover+ excepted).
 
-**If you want to compare more options**, you can [**check out Roami's full plans**](/plans/) – covering 200+ countries, starting at $1.99, new users get 20% off with code **web20**, plus [free eSIM trial data].(/free-esim/)
+**If you want to compare more options**, you can [**explore Roami's budget eSIM plans**](/plans/) – covering 200+ countries, starting at $1.99, new users get 20% off with code **web20**, plus [free eSIM trial data](/free-esim/) to test before you pay.
 
 
-*Sources: Airalo official website (September 2026), App Store, Google Play, Trustpilot, Aissist.io "2026 eSIM Customer Service Benchmark Report" (June 2026), Gizmodo 2026 travel eSIM review, 9eSIM.com 2026 major travel eSIM comparison, Corriere Comunicazioni 2026 Airalo review, The Guardian 2026 travel eSIM article. Roami information from Roami's official website. All prices are as shown at time of writing – eSIM pricing changes frequently, so always check real-time prices on each platform before buying.*
+*Sources: Airalo's official website (September 2026), App Store, Google Play, [Trustpilot reviews](https://www.trustpilot.com/review/airalo.com), [Aissist.io "2026 eSIM Customer Service Benchmark Report"](https://aissist.io/industries/esim-customer-service-benchmark) (June 2026), Gizmodo 2026 travel eSIM review. Roami information from Roami's official website. All prices are as shown at time of writing – eSIM pricing changes frequently, so always check real-time prices on each platform before buying.*

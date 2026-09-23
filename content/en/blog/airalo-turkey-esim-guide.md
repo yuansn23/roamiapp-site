@@ -1,9 +1,9 @@
 ---
 title: "Best eSIM for Turkey: Airalo vs Holafly Compared"
 description: "Compare Airalo, Holafly and Roami: the best Turkey eSIM installs before you fly and runs on Turkcell, Vodafone or Türk Telekom. No passport queue."
-keywords: ["Turkey eSIM price guide", "holafly esim for turkey", "Turkey eSIM 120 day IMEI rule", "cheapest eSIM for Turkey travel", "Turkey eSIM unlimited data plan", "Turkey eSIM cost comparison", "Turkey eSIM long stay", "Turkey eSIM promo code"]
-date: 2026-09-01T00:00:00Z
-lastmod: 2026-09-01T00:00:00Z
+keywords: ["airalo turkey esim", "Turkey eSIM price guide", "holafly esim for turkey", "Turkey eSIM 120 day IMEI rule", "cheapest eSIM for Turkey travel", "Turkey eSIM unlimited data plan", "Turkey eSIM cost comparison", "Turkey eSIM long stay", "Turkey eSIM promo code", "airalo vs holafly turkey"]
+date: 2026-09-23T00:00:00Z
+lastmod: 2026-09-23T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/turkey/turkey-esim-guide2.jpg"
@@ -74,7 +74,7 @@ If you're planning a trip to Turkey—the Hagia Sophia in Istanbul, hot air ball
 
 This is not a technical issue; it's a policy issue.
 
-On July 10, 2025, Turkey's telecommunications regulator BTK (Bilgi Teknolojileri ve İletişim Kurumu) blocked the websites and apps of over 30 international travel eSIM providers within Turkey. Affected brands include Airalo, Holafly, Saily, Nomad, Ubigi, Instabridge, Mobimatter, Alosim, BNESIM, and others.
+On July 10, 2025, Turkey's telecommunications regulator BTK (Bilgi Teknolojileri ve İletişim Kurumu) blocked the websites and apps of eight international travel eSIM providers within Turkey. Affected brands include Airalo, Holafly, Saily, Nomad, Instabridge, Mobimatter, Alosim, and BNESIM.
 
 **Key distinction: What's blocked is the purchasing channel, not the eSIM itself.**
 
@@ -105,7 +105,7 @@ As of July 10, 2025, BTK blocked access to the websites and apps of the followin
 | **Holafly** | ✅ Confirmed blocked | Reported by multiple media outlets |
 | **Saily** | ✅ Confirmed blocked | On the block list |
 | **Nomad** | ✅ Confirmed blocked | On the block list |
-| **Ubigi** | ✅ Confirmed blocked | On the block list |
+| **Ubigi** | ⚠️ Not on confirmed list | Not in the eight confirmed brands, but restrictions can change—install before departure |
 | **Instabridge** | ✅ Confirmed blocked | On the block list |
 | **Mobimatter** | ✅ Confirmed blocked | On the block list |
 | **Alosim** | ✅ Confirmed blocked | On the block list |
@@ -145,11 +145,11 @@ If you arrive at the airport/on the plane and realize you haven't bought an eSIM
 
 1. **Connect to WiFi first**: Hotel, café, or airport WiFi is not affected by the BTK block and is often sufficient to access provider websites and complete a purchase.
 2. **Find a provider that is still accessible**: As of September 2026, some providers' websites and checkout pages are still accessible on Turkish networks (Note: no guarantee of permanent availability).
-3. **Use a VPN to bypass the block**: Consider VPN as a last resort.
+3. **Sort your next top-up before you fly**: Screenshot the QR code and buy one tier higher than you estimate—a mid-trip top-up from inside Turkey is the one thing you cannot count on.
 
 **Best strategy: Don't rely on these contingency plans—install before you go.** Airport WiFi can be unreliable, and QR code screenshots may fail to load due to network issues.
 
-**Core conclusion: Buy enough, install it, then go.** It's better to buy a bit more than to gamble on "I'll top up later." The [Turkey eSIM FAQ](/turkey-esim/) has more details on the BTK block.
+**Core conclusion: Buy enough, install it, then go.** It's better to buy a bit more than to gamble on "I'll top up later." The Turkey eSIM FAQ has more details on the BTK block.
 
 
 ## Which Turkish Operator Has the Best Signal for eSIM?
@@ -167,7 +167,7 @@ Turkey has three nationwide mobile network operators: **Turkcell, Vodafone Türk
 | Upload Speed | **20.3 Mbps** | 9.5 Mbps | 12.1 Mbps |
 | Best For | **Nationwide, especially East/Rural** | Western coast (Aegean/Mediterranean) | Major cities |
 
-*Sources: Opensignal Turkey Report, Ookla Speedtest Global Index*
+*Sources: [BTK](https://www.btk.gov.tr/en) regulatory announcements and operator‑published coverage data, as of September 2026.*
 
 **Turkcell** leads the other two operators in "coverage experience." If you're heading to remote areas like the valleys of Cappadocia, the Black Sea coast, or eastern Turkey, Turkcell is the only reliable coverage option there.
 
@@ -196,7 +196,7 @@ Turkey completed its **$2.95 billion 5G spectrum auction at the end of October 2
 
 **Practical impact for travelers**: 5G coverage is still limited. Your travel eSIM should be judged primarily on **reliable 4G/LTE and network coverage**, not "5G" marketing.
 
-**Key advice**: For Cappadocia, eastern provinces, or rural road trips, **you must choose an eSIM that connects to Turkcell's network**. For Istanbul + western coast only, Vodafone or Türk Telekom are sufficient. [Matching the best Turkey eSIM to your itinerary](/turkey-esim/) can help you quickly lock in the most suitable choice.
+**Key advice**: For Cappadocia, eastern provinces, or rural road trips, **you must choose an eSIM that connects to Turkcell's network**. For Istanbul + western coast only, Vodafone or Türk Telekom are sufficient. can help you quickly lock in the most suitable choice.
 
 ### Turkish Holiday Network Performance
 
@@ -212,14 +212,14 @@ The most popular Turkey eSIM brands currently on the market include **Airalo, Ho
 | Brand | Turkish Network | 5G | Hotspot | BTK Block | 2026 Review Ranking | Best For |
 |-------|-----------------|-----|---------|-----------|---------------------|----------|
 | **Saily** | 4G/5G coverage | ✅ | ✅ Unlimited | Confirmed | **#1 Overall Best** | Security + value |
-| **Ubigi** | Turkcell etc. | ✅ | ✅ Unlimited | Confirmed | **#2 Best Flexible Pricing** | Remote areas + video calls |
+| **Ubigi** | Turkcell etc. | ✅ | ✅ Unlimited | Not confirmed | **#2 Best Flexible Pricing** | Remote areas + video calls |
 | **Roami** | Turkcell + Vodafone (Dual) | ✅ | ✅ Unlimited | Unconfirmed | — | Cappadocia/East/Families |
-| **Holafly** | Turkcell + Türk Telekom (Dual) | ✅ | ⚠️ 500MB/day | Confirmed | Unlimited data no throttling | Users who don't want to manage data |
+| **Holafly** | Turkcell + Türk Telekom (Dual) | ✅ | ⚠️ 1GB/day | Confirmed | Unlimited data no throttling | Users who don't want to manage data |
 | **Airalo** | Türk Telekom (Single) | ✅ (Türk Telekom) | ✅ | Confirmed | Best 5G coverage | Istanbul city trips |
 
 ### Saily Turkey eSIM Price List
 
-According to Gizmodo's 2026 review, Saily was named the **best overall Turkey eSIM**. Saily offers 4G/5G coverage, supports hotspot sharing, and starts at $3.39 (with discount code).
+Saily offers 4G/5G coverage, supports hotspot sharing, and starts at $3.39 (with discount code). (For how Airalo stacks up against the whole market, see our [Airalo eSIM review with prices and coverage](/blog/airalo-esim-review-prices-coverage/).)
 
 | Days | Data | Price (USD) | Notes |
 |------|------|-------------|-------|
@@ -237,7 +237,7 @@ According to Gizmodo's 2026 review, Saily was named the **best overall Turkey eS
 
 ### Ubigi Turkey eSIM Price List
 
-According to Gizmodo's 2026 review, Ubigi was named **best for flexible pricing**. Ubigi connects to Turkcell's network, providing the most stable connection in remote areas.
+Ubigi connects to Turkcell's network, providing the most stable connection in remote areas.
 
 | Days | Data | Price (USD) | Notes |
 |------|------|-------------|-------|
@@ -252,7 +252,7 @@ According to Gizmodo's 2026 review, Ubigi was named **best for flexible pricing*
 - Unlimited hotspot sharing supported
 - Most stable connection; fastest response for video calls and banking apps
 - Supports dual SIM
-- **⚠️ BTK Risk**: Ubigi is one of the brands explicitly reported to be blocked in Turkey
+- **⚠️ BTK Risk**: Ubigi is not on the eight-brand confirmed block list, but Turkish restrictions can change without notice—install before departure regardless
 
 ### Airalo Turkey eSIM Full Price List
 
@@ -294,21 +294,19 @@ Airalo connects to **Türk Telekom** network in Turkey (supports 5G).
 
 ### Holafly Turkey eSIM Full Price List
 
-Holafly connects to **Turkcell + Türk Telekom** dual network in Turkey (supports 5G). Holafly sells only unlimited data plans, priced at $3.95/day, and **is the only unlimited brand that promises no speed throttling**.
+Holafly connects to **Turkcell + Türk Telekom** dual network in Turkey (supports 5G). Holafly sells only unlimited data plans, priced by duration, and **is the only unlimited brand that promises no speed throttling**. The daily rate falls on longer plans.
 
 | Days | Price (USD) | Daily Cost | Best For |
 |------|-------------|------------|----------|
-| 3 days | $11.85 | $3.95 | Istanbul quick trip |
-| 5 days | $19.75 | $3.95 | Short city trip |
-| 7 days | $27.65 | $3.95 | One-week classic tour |
-| 10 days | $39.50 | $3.95 | Western Turkey + Cappadocia |
-| 15 days | $59.25 | $3.95 | Two-week deep tour |
-| 30 days | $118.50 | $3.95 | Full month long stay |
+| 3 days | $11.90 | $3.97 | Istanbul quick trip |
+| 7 days | $27.50 | $3.93 | One-week classic tour |
+| 10 days | $36.50 | $3.65 | Western Turkey + Cappadocia |
+| 30 days | $73.90 | $2.46 | Full month long stay |
 
 **Holafly Key Features**:
 - Connects to **Turkcell + Türk Telekom** dual network (5G)
 - **True unlimited data, no throttling**
-- **⚠️ Turkey-specific note**: Hotspot sharing limited to 500MB per day
+- **⚠️ Turkey-specific note**: Hotspot sharing limited to 1GB per day
 - **⚠️ BTK Risk**: Holafly is one of the brands explicitly reported to be blocked in Turkey
 
 ### Roami Turkey eSIM Full Price List
@@ -369,7 +367,7 @@ Roami connects to **Turkcell + Vodafone** dual network with automatic switching 
 - **Dual network auto-switching** (Turkcell + Vodafone)—uses Vodafone in Istanbul, auto-switches to Turkcell in Cappadocia/East
 - **Full 5G high-speed throughout**, no throttling
 - **Supports hotspot sharing**, no daily limit
-- Use discount code **WEB20** for 20% off
+- Apply promo code **WEB20** for 20% off
 
 
 ## How Much Does a Turkey eSIM Cost?
@@ -384,9 +382,9 @@ All prices below are in USD; Roami discounted prices use code **WEB20**. **Horiz
 | 3GB | $6.00 | — | $3.19 | — | — | **Roami** |
 | 5GB | — | — | $3.99 | — | — | **Roami** |
 | 10GB | — | — | $6.39 | — | — | **Roami** |
-| Unlimited | $11.50 | $11.85 | $7.99 | — | — | **Roami** |
+| Unlimited | $11.50 | $11.90 | $7.99 | — | — | **Roami** |
 
-**3-Day Decision**: Roami Unlimited discounted at $7.99 is 30% cheaper than Airalo Unlimited ($11.50) and 33% cheaper than Holafly ($11.85). For the 3GB tier, Roami discounted at $3.19 is about half of Airalo's $6.00.
+**3-Day Decision**: Roami Unlimited discounted at $7.99 is 30% cheaper than Airalo Unlimited ($11.50) and 33% cheaper than Holafly ($11.90). For the 3GB tier, Roami discounted at $3.19 is about half of Airalo's $6.00.
 
 ### 7-Day Plans Horizontal Comparison
 
@@ -397,9 +395,9 @@ All prices below are in USD; Roami discounted prices use code **WEB20**. **Horiz
 | 5GB | $9.00 | — | $6.39 | — | — | **Roami** |
 | 10GB | $14.50 | — | $9.59 | — | — | **Roami** |
 | 20GB | — | — | $11.99 | $19.54 | — | **Roami** |
-| Unlimited | $24.50 | $27.65 | $18.39 | — | — | **Roami** |
+| Unlimited | $24.50 | $27.50 | $18.39 | — | — | **Roami** |
 
-**7-Day Decision**: Roami 10GB discounted at $9.59 is 34% cheaper than Airalo 10GB ($14.50). Roami Unlimited discounted at $18.39 is 25% cheaper than Airalo Unlimited ($24.50) and 33% cheaper than Holafly ($27.65).
+**7-Day Decision**: Roami 10GB discounted at $9.59 is 34% cheaper than Airalo 10GB ($14.50). Roami Unlimited discounted at $18.39 is 25% cheaper than Airalo Unlimited ($24.50) and 33% cheaper than Holafly ($27.50).
 
 **⚠️ Network Warning**: Airalo only connects to Türk Telekom—signal in Cappadocia is weak. Roami/Holafly/Saily/Ubigi connect to Turkcell or support multi-network, providing more stable coverage in rural areas.
 
@@ -412,9 +410,9 @@ All prices below are in USD; Roami discounted prices use code **WEB20**. **Horiz
 | 10GB | $15.00 | — | $9.59 | — | — | **Roami** |
 | 20GB | $22.00 | — | $15.99 | $19.54 | — | **Roami** |
 | 30GB | — | — | $27.19 | — | — | **Roami** |
-| Unlimited | $39.00 | $59.25 | $30.39 | — | — | **Roami** |
+| Unlimited | $39.00 | $50.50 | $30.39 | — | — | **Roami** |
 
-**15-Day Decision**: Roami 10GB discounted at $9.59 is 36% cheaper than Airalo 10GB ($15.00). Roami Unlimited discounted at $30.39 is 22% cheaper than Airalo Unlimited ($39.00) and 49% cheaper than Holafly ($59.25). **For a half-month itinerary, Roami offers overwhelming value.**
+**15-Day Decision**: Roami 10GB discounted at $9.59 is 36% cheaper than Airalo 10GB ($15.00). Roami Unlimited discounted at $30.39 is 22% cheaper than Airalo Unlimited ($39.00) and 40% cheaper than Holafly ($50.50). **For a half-month itinerary, Roami offers overwhelming value.**
 
 ### 30-Day Plans Horizontal Comparison
 
@@ -426,11 +424,11 @@ All prices below are in USD; Roami discounted prices use code **WEB20**. **Horiz
 | 20GB | $22.50 | — | $14.39 | $19.54 | — | **Roami** |
 | 30GB | — | — | $23.99 | — | — | **Roami** |
 | 50GB | $34.50 | — | $27.19 | — | — | **Roami** |
-| Unlimited | $69.00 | $118.50 | $63.19 | — | — | **Roami** |
+| Unlimited | $69.00 | $73.90 | $63.19 | — | — | **Roami** |
 
-**30-Day Decision**: Roami 50GB discounted at $27.19 is 21% cheaper than Airalo 50GB ($34.50). Roami Unlimited discounted at $63.19 is 8% cheaper than Airalo Unlimited ($69.00) and 47% cheaper than Holafly ($118.50).
+**30-Day Decision**: Roami 50GB discounted at $27.19 is 21% cheaper than Airalo 50GB ($34.50). Roami Unlimited discounted at $63.19 is 8% cheaper than Airalo Unlimited ($69.00) and 14% cheaper than Holafly ($73.90).
 
-**⚠️ Long-stay warning**: Holafly 30 days at $118.50 is over 4 times Roami 50GB discounted at $27.19. Unless you use over 4GB per day on average, pay-as-you-go plans are far more cost-effective.
+**⚠️ Long-stay warning**: Holafly 30 days at $73.90 is nearly 3 times Roami 50GB discounted at $27.19. Unless you use over 2.5GB per day on average, pay-as-you-go plans are far more cost-effective.
 
 
 ## How Much Data Do You Need in Turkey?
@@ -494,7 +492,7 @@ Turkey is a data-friendly destination with good WiFi in hotels and restaurants, 
 ### Family Travel / Multiple People
 
 - **Core need**: Hotspot sharing
-- **Recommendation**: Roami, Airalo, Saily, or Ubigi (all support unlimited hotspot) — Holafly is limited to 500MB/day, not suitable for multiple users
+- **Recommendation**: Roami, Airalo, Saily, or Ubigi (all support unlimited hotspot) — Holafly is limited to 1GB/day, not suitable for multiple users
 
 ### Digital Nomads / Long-term Stays (30 days+)
 
@@ -509,7 +507,7 @@ Turkey is a data-friendly destination with good WiFi in hotels and restaurants, 
 |--------|-----------------------|-----------------|----------------------|-----------------|----------|
 | **Roami eSIM** | 5GB $7.99 ($6.39 disc.) | ✅ None required | Very easy | Turkcell+Vodafone | **Most travelers ✅** |
 | **Airalo eSIM** | 5GB $9.00 | ✅ None required | Very easy | Türk Telekom | City sightseeing |
-| **Holafly eSIM** | Unlimited $27.65 | ✅ None required | Very easy | Turkcell+TT | Don't want to manage data |
+| **Holafly eSIM** | Unlimited $27.50 | ✅ None required | Very easy | Turkcell+TT | Don't want to manage data |
 | **Saily eSIM** | 1GB $3.39 | ✅ None required | Very easy | 4G/5G | Security-conscious |
 | **Ubigi eSIM** | 1GB $4.00 | ✅ None required | Very easy | Turkcell | Remote areas |
 | **Turkcell Local SIM** | ~1,500-2,400+ Lira (~$43-69) | ❌ Passport + IMEI required | Complex (1-3 hrs) | Turkcell | Stays 3 months+ |
@@ -549,7 +547,7 @@ eSIMs will automatically switch to local partner networks when crossing borders,
 
 ### The One Step Not to Skip
 
-Due to the BTK block, **you must complete the purchase and installation of your eSIM before leaving your home country**. The [Turkey eSIM installation and activation guide](/turkey-esim/) has each step laid out for you.
+Due to the BTK block, **you must complete the purchase and installation of your eSIM before leaving your home country**. The has each step laid out for you.
 
 **✅ Correct approach:**
 1. 1-7 days before departure, connect to WiFi and purchase your Turkey eSIM
@@ -606,7 +604,7 @@ Due to the BTK block, **you must complete the purchase and installation of your 
 | **Samsung Galaxy** | S20 and newer (Global version) | Some regional versions need confirmation |
 | **Huawei** | P40/P50/Mate 40/50 | International version only |
 
-> ⚠️ **Chinese mainland/Hong Kong iPhones do not support eSIM.** In Turkey, phones whose IMEI is blacklisted by the CEIR system cannot connect to the network.
+> ⚠️ **Chinese mainland/Hong Kong iPhones mostly do not support eSIM** – mainland models get it only on the iPhone 18 Pro/Pro Max, 17e, and iPhone Air, and most Hong Kong models ship with dual physical SIM slots instead. See our [eSIM compatible devices list](/compatibility/) for the full rundown. In Turkey, phones whose IMEI is blacklisted by the CEIR system cannot connect to the network.
 
 **Check method**: Dial `*#06#`; if EID is displayed, it supports eSIM.
 
@@ -631,11 +629,11 @@ Due to the BTK block, **you must complete the purchase and installation of your 
 
 **Q1: Do I need a passport or ID for a Turkey eSIM?**
 
-No. Travel eSIMs purchased abroad operate under international roaming agreements; no identity verification is required for purchasing and activating a data-only plan. This differs from local Turkish SIM cards, which require passport registration and IMEI registration. If you need to receive SMS verification codes or make calls, keep your home physical SIM card and enable international roaming. More answers in the [Turkey eSIM FAQ](/turkey-esim/).
+No. Travel eSIMs purchased abroad operate under international roaming agreements; no identity verification is required for purchasing and activating a data-only plan. This differs from local Turkish SIM cards, which require passport registration and IMEI registration. If you need to receive SMS verification codes or make calls, keep your home physical SIM card and enable international roaming. More answers in the Turkey eSIM FAQ.
 
 **Q2: Can I really not buy an eSIM in Turkey?**
 
-Yes. As of July 10, 2025, BTK blocked access to the websites and apps of over 30 international eSIM providers within Turkey, including major brands like Airalo, Holafly, Saily, and Ubigi. You must complete the purchase and installation of your eSIM before departure. This is not a suggestion—it's a hard requirement.
+Yes. As of July 10, 2025, BTK blocked access to the websites and apps of eight international eSIM providers within Turkey, including major brands like Airalo, Holafly, Saily, and Nomad. You must complete the purchase and installation of your eSIM before departure. This is not a suggestion—it's a hard requirement.
 
 **Q3: Will the eSIM still work normally after I arrive in Turkey?**
 
@@ -650,7 +648,7 @@ Most likely not. The app will keep spinning, time out, or display "No network co
 Here are the solutions in order of success rate:
 1. **Connect to WiFi to purchase**: Hotel, café, or airport WiFi is not affected by the BTK block—connect and you can normally access provider websites to purchase a new plan
 2. **Find a provider that is still accessible**: As of September 2026, some providers' websites and checkout pages are still accessible on Turkish networks (Note: no guarantee of permanent availability)
-3. **Use a VPN to bypass the block**: BTK blocks access at the DNS level; using a VPN may bypass the restriction
+3. **Pre-load a larger tier before departure**: Both the store and the top-up pages sit behind the same blocked domains, so carrying extra data is more dependable than any workaround.
 4. **Ask family/friends back home to buy for you**: Have them log into your account and purchase, then send you the new QR code (requires scanning to install)
 
 **Best solution: Buy enough data before departure to avoid topping up mid-trip in Turkey.**
@@ -661,7 +659,7 @@ Turkcell. Its 4G population coverage reaches 98%+, median download speed 67.4 Mb
 
 **Q7: Can Airalo, Holafly, Saily, and Ubigi be used in Turkey?**
 
-The eSIMs themselves can be used, but their websites and apps have been blocked by BTK. **Key distinction**: If you've already installed them before departure, data services work normally upon arrival; if you wait until you're in Turkey to buy, you won't be able to access these brands' services. Roami is currently not confirmed to be on the block list, but we recommend installing it before departure as well—don't take the risk.
+The eSIMs themselves can be used, but the websites and apps of Airalo, Holafly, Saily, and Nomad have been blocked by BTK (Ubigi is not on the confirmed eight-brand list, though restrictions can change). **Key distinction**: If you've already installed them before departure, data services work normally upon arrival; if you wait until you're in Turkey to buy, you won't be able to access the blocked brands' services. Roami is currently not confirmed to be on the block list, but we recommend installing it before departure as well—don't take the risk.
 
 **Q8: Is tethering/hotspot allowed? Which brands have restrictions?**
 
@@ -671,7 +669,7 @@ The eSIMs themselves can be used, but their websites and apps have been blocked 
 | **Airalo** | ✅ Allowed | Unlimited |
 | **Saily** | ✅ Allowed | Unlimited |
 | **Ubigi** | ✅ Allowed | Unlimited |
-| **Holafly** | ⚠️ Limited | 500MB per day |
+| **Holafly** | ⚠️ Limited | 1GB per day |
 
 For family travel or those needing to share the connection with a laptop, prioritize the first four brands.
 
@@ -692,7 +690,7 @@ Yes. All three major Chinese operators' international roaming services cover Tur
 According to Gizmodo's 2026 eSIM review:
 - **Saily**: Named the best overall Turkey eSIM for 2026, with standout security features (virtual location, ad blocking), starting at $3.39
 - **Ubigi**: Named best for flexible pricing, connects to Turkcell network, most stable connection in remote areas, ideal for video calls and banking apps
-- **Commonality**: Both brands support hotspot sharing with no restrictions, but both are affected by the BTK block—**must be installed before departure**
+- **Commonality**: Both brands support hotspot sharing with no restrictions; Saily is on the confirmed BTK block list while Ubigi is not (but restrictions can change)—**either way, install before departure**
 
 **Q13: Does Turkey eSIM support 5G?**
 
@@ -715,7 +713,7 @@ Easiest method: Dial `*#06#` on your phone's keypad. If the screen displays an *
 Yes—**provided you've already installed the eSIM before departure**. Turn on data roaming upon arrival, and you'll be connected automatically within 2 minutes. SIM card counters at Istanbul Airport may be closed late at night or have long queues; eSIM is the best solution for late-night arrivals. The airport offers 1 hour of free WiFi as a backup, but it's unreliable and time-limited.
 
 
-## How to Choose Your Turkey eSIM
+## Turkey eSIM: Final Recommendations by Itinerary
 
 | Your Itinerary | Recommended Brand | Recommended Plan | Discounted Price | Core Reason |
 |----------------|--------------------|-------------------|------------------|-------------|
@@ -724,7 +722,7 @@ Yes—**provided you've already installed the eSIM before departure**. Turn on d
 | Western coast 7 days | **Roami/Airalo** | 5GB | $6.39/$9.00 | Vodafone/TT have good coverage |
 | Eastern Turkey road trip 10 days | **Roami / Ubigi** | 10-20GB | $9.59-$15.99 | **Must connect to Turkcell** |
 | Family travel | **Roami** | 10-20GB | $9.59-$15.99 | Unlimited hotspot |
-| Don't want to manage data (short-term) | **Holafly** | Unlimited 7 days | $27.65 | Truly unlimited, no throttling |
+| Don't want to manage data (short-term) | **Holafly** | Unlimited 7 days | $27.50 | Truly unlimited, no throttling |
 | Security-conscious + value | **Saily** | 1-20GB | $3.39+ | Security features + airport lounge access |
 | Remote areas + stable connection | **Ubigi** | 1-25GB | $4.00+ | Turkcell network + most stable |
 | Remote work 30 days | **Roami** | 50GB | $27.19 | Full-speed + dual operator |
@@ -735,16 +733,23 @@ Yes—**provided you've already installed the eSIM before departure**. Turn on d
 Still unsure after seeing all the comparisons? [View all Roami Turkey eSIM plans →](/turkey-esim/)
 
 
+## Where a Turkey eSIM Sits in a Longer Route
+
+If Turkey anchors a longer itinerary, plan the neighbouring legs in advance:
+
+- Our [Spain eSIM guide](/blog/airalo-spain-esim-guide/) covers the EU roaming leg that follows.
+- For the next long-haul stop, see [China eSIM coverage and pricing](/blog/airalo-china-esim-guide/).
+- The [Japan eSIM guide](/blog/airalo-japan-esim-guide/) compares the plans if you continue east.
+
 ## About the Data Sources for This Guide
 
-| Data Source | Purpose |
-|-------------|---------|
-| **BTK** (Turkey's Information and Communication Technologies Authority) | eSIM website block policy |
-| **Opensignal** | Operator coverage and speed rankings |
-| **Ookla Speedtest** | Operator speed verification |
-| **Gizmodo 2026** | Best eSIM brand reviews |
-| **GSMA** | European mobile market and regulatory analysis |
-| **Official brand websites** | Price and package data |
+| Data Source | Purpose | Link |
+|-------------|---------|------|
+| **BTK** (Turkey's Information and Communication Technologies Authority) | eSIM website block policy, IMEI registration rules | [btk.gov.tr](https://www.btk.gov.tr/en) |
+| **Ookla Speedtest** | Operator speed verification | [Speedtest Global Index – Türkiye](https://www.speedtest.net/global-index/t%C3%BCrkiye) |
+| **GSMA** | European mobile market and regulatory analysis | [GSMA eSIM specification](https://www.gsma.com/solutions-and-impact/technologies/esim/) |
+| **Apple** | eSIM device support and carrier list | [Apple eSIM support](https://support.apple.com/en-us/118669) |
+| **Official brand websites** | Price and package data | — |
 
 
 > **🇹🇷 Heading to Turkey? Remember three things:**

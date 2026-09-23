@@ -2,14 +2,14 @@
 title: "Japan eSIM vs Pocket WiFi vs SIM Card: Which Is Best?"
 description: "Should you get an eSIM, pocket WiFi, or physical SIM for Japan? Compare costs, coverage, and convenience with real prices."
 keywords: ["Japan eSIM vs pocket WiFi", "pocket WiFi vs eSIM Japan", "Japan eSIM vs SIM card", "best internet Japan travel", "eSIM or pocket WiFi Japan"]
-date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+date: 2026-09-14T00:00:00Z
+lastmod: 2026-09-14T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/japan-esim-vs-pocket-wifi-vs-sim.jpg"
 categories: ["Japan", "eSIM", "Travel", "Comparison"]
 tags: ["Japan eSIM", "Pocket WiFi Japan", "Japan SIM card", "Travel internet"]
-readingTime: 20
+readingTime: 14
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
@@ -52,7 +52,7 @@ recentPosts:
 ---
 
 
-## 1. Three Ways to Get Online in Japan — and How to Choose
+## 1. Three Ways to Get Online in Japan: eSIM, Pocket WiFi, or SIM Card
 
 You've booked your flights. You've reserved your hotels. You've mapped out your Tokyo itinerary. But there's one question every traveler to Japan faces: **how do I stay connected?**
 
@@ -71,11 +71,11 @@ This guide breaks down each option with real 2026 prices, actual speed test data
 
 ## 2. What Is a Japan eSIM, and Why Is Everyone Talking About It?
 
-An **eSIM** (embedded SIM) is a digital SIM that you download and install via QR code before you leave home. No card swapping, no airport queue, no hardware to carry.
+An **eSIM** (embedded SIM) — the technology standard maintained by the [GSMA](https://www.gsma.com/solutions-and-impact/technologies/esim/) — is a digital SIM that you download and install via QR code before you leave home. No card swapping, no airport queue, no hardware to carry.
 
 ### How It Works
 
-You purchase a plan online from a provider like Airalo, Ubigi, Holafly, or Nomad. They email you a QR code (or provide it in their app). You scan it in your phone's settings, and the eSIM profile installs in about 3–5 minutes. The eSIM activates automatically when your phone connects to a Japanese network.
+You purchase a plan online from a provider like Airalo, Ubigi, Holafly, or Nomad. They email you a QR code (or provide it in their app). You scan it in your phone's settings, and the eSIM profile installs in about 3–5 minutes. The eSIM goes live automatically once it registers on a local network. For the full step-by-step walkthrough, see our [installation walkthrough](/blog/japan-esim-installation-guide/).
 
 ### What It Costs in 2026
 
@@ -85,31 +85,31 @@ eSIM pricing has dropped significantly in 2026. Here are real plans from major p
 |----------|------|-------------|-----------------|
 | Ubigi | 1GB / 3 days | $3.50 | NTT Docomo / au |
 | Ubigi | 25GB / 30 days | $32.00 | NTT Docomo / au |
-| Airalo | 1GB / 7 days | ~$4.50 | SoftBank / au |
-| Airalo | 10GB / 7 days | ~$15.00 | SoftBank |
-| Saily | 1GB / 7 days | $3.99 | NTT Docomo |
-| Holafly | Unlimited / 7 days | $27.30–$33.00 | KDDI / SoftBank |
-| eSIM-Now | 1GB / 30 days | $3.17 | Local Japan |
-| eSIM-Now | 10GB / 30 days | $10.01 | Local Japan |
+| Airalo | 1GB / 3 days | $4.00 | SoftBank / au |
+| Airalo | 10GB / 7 days | $17.00 | SoftBank / KDDI |
+| Saily | 1GB / 7 days | $3.99 | Not disclosed |
+| Holafly | Unlimited / 7 days | $27.50 | KDDI / SoftBank |
+| eSIM-Now | 1GB / 30 days | ~$3 | Local Japan |
+| eSIM-Now | 10GB / 30 days | ~$10 | Local Japan |
 
-For a typical 7-day trip, an eSIM costs **$4.50–$15** for most users. Even unlimited plans start at $27.30.
+For a typical 7-day trip, an eSIM costs **$4–$17** for most users. Even unlimited plans start at $27.50.
 
 ### Who Should Choose This Option
 
 **You're the right fit if:**
 
 - You're traveling solo or as a couple
-- Your phone is eSIM-compatible and carrier-unlocked (iPhone XR/SE2/newer, Google Pixel 3/newer, Samsung S20/newer)
+- Your phone is eSIM-compatible and carrier-unlocked (iPhone XR/SE2/newer, Google Pixel 3/newer, Samsung S20/newer) — confirm with our [does your phone support eSIM?](/compatibility/)
 - You want the lightest, most friction-free setup
 - You want to keep your home number active for calls and SMS (dual-SIM functionality)
 
 **What to watch out for:**
 
 - Most eSIMs are data-only. You won't get a Japanese phone number for local calls.
-- Hotspot/tethering may be restricted. Check your plan's terms — Ubigi allows unlimited tethering, Holafly caps at ~1GB/day.
+- Hotspot/tethering may be restricted. Check your plan's terms — Ubigi places no cap on tethering, while Holafly limits it.
 
 
-## 3. How Does Pocket WiFi Work in Japan, and Who Is It For?
+## 3. How Does Pocket WiFi Work in Japan — and When Does It Beat a Japan eSIM?
 
 A **pocket WiFi** (mobile router) is a small battery-powered device that creates a private WiFi hotspot. You turn it on, connect your phone (and your travel companions' devices) to it, and everyone shares one data plan.
 
@@ -150,14 +150,14 @@ For a 7-day trip, pocket WiFi costs **$30–$100**. For a solo traveler, that's 
 ### Real Cost Example: Family of 4 for 7 Days
 
 - **Pocket WiFi (Japan Wireless):** $4.60 × 7 = $32.20 total → **$8.05 per person**
-- **eSIM (Airalo, 1GB each):** $4.50 × 4 = $18.00 total → **$4.50 per person**
-- **eSIM (Airalo, 10GB each):** $15 × 4 = $60.00 total → **$15.00 per person**
+- **eSIM (Airalo, 1GB each):** $4.00 × 4 = $16.00 total → **$4.00 per person**
+- **eSIM (Airalo, 10GB each):** $17 × 4 = $68.00 total → **$17.00 per person**
 - **Physical SIM (JAL ABC, 3GB each):** $13.50 × 4 = $54.00 total → **$13.50 per person**
 
-**Conclusion:** For a group of 4 with light data usage, pocket WiFi is only $3.55 more per person than the cheapest eSIM. For heavy usage, pocket WiFi is the clear winner.
+**Conclusion:** For a group of 4 with light data usage, pocket WiFi is only about $4 more per person than the cheapest eSIM. For heavy usage, pocket WiFi is the clear winner.
 
 
-## 4. Physical SIM Cards: The Old-School Fallback Option
+## 4. Physical SIM Cards vs Japan eSIM: The Old-School Fallback
 
 A **physical SIM card** is the traditional approach: a plastic card you swap into your phone's SIM tray. You buy it at the airport, an electronics store like BIC Camera or Yodobashi Camera, or have it delivered.
 
@@ -194,7 +194,7 @@ For a 7-day trip, a physical SIM costs **$13–$27**. That's more than an eSIM b
 
 ### The APN Problem
 
-According to mobile network operator data, incorrect APN configuration causes over 40% of physical SIM activation failures. The APN values differ by provider:
+Incorrect APN configuration is one of the most common causes of physical SIM activation failures. The APN values differ by provider:
 
 | Carrier | APN | Username | Password |
 |---------|-----|----------|----------|
@@ -202,7 +202,7 @@ According to mobile network operator data, incorrect APN configuration causes ov
 | SoftBank | `softbank` | (blank) | (blank) |
 | au | `au` | (blank) | (blank) |
 
-If you enter the wrong APN, you'll see signal bars but have no internet. Many tourist SIMs come with setup instructions in Japanese only.
+If you enter the wrong APN, you'll see signal bars but have no internet. Many tourist SIMs come with setup instructions in Japanese only — and the APN card in your SIM package always takes precedence over generic values.
 
 
 ## 5. Which Is Cheaper: eSIM, Pocket WiFi, or SIM Card in Japan?
@@ -213,9 +213,9 @@ Let's cut through the marketing and do the actual math.
 
 | Option | 7-Day Total | Cost Per Day | Cost Per GB |
 |--------|-------------|--------------|-------------|
-| eSIM (Airalo, 1GB) | $4.50 | $0.64 | $4.50/GB |
+| eSIM (Airalo, 1GB) | $4.00 | $0.57 | $4.00/GB |
 | eSIM (Ubigi, 25GB) | $32.00 | $4.57 | $1.28/GB |
-| eSIM (eSIM-Now, 10GB) | $10.01 | $1.43 | $1.00/GB |
+| eSIM (eSIM-Now, 10GB) | ~$10 | ~$1.43 | ~$1.00/GB |
 | Pocket WiFi (Japan Wireless, unlimited) | $32.20 | $4.60 | — |
 | Pocket WiFi (3GB/day plan) | $36.40 | $5.20 | — |
 | Physical SIM (JAL ABC, 3GB) | $13.50 | $1.93 | $4.50/GB |
@@ -224,7 +224,7 @@ Let's cut through the marketing and do the actual math.
 ### The Solo Traveler Math
 
 If you're traveling alone and use 1–3GB over 7 days:
-- **Cheapest option:** eSIM (Airalo 1GB at $4.50 or eSIM-Now 1GB at $3.17)
+- **Cheapest option:** eSIM (Ubigi 1GB at $3.50, Saily 1GB at $3.99, or Airalo 1GB at $4.00)
 - **Most expensive option:** Pocket WiFi ($32–$100)
 
 **Winner:** eSIM
@@ -232,7 +232,7 @@ If you're traveling alone and use 1–3GB over 7 days:
 ### The Group Math (4 People, 7 Days, 3GB Each)
 
 Scenario A — Everyone buys their own eSIM:
-- 4 × Airalo 3GB plan (~$8 each) = **$32 total** ($8 per person)
+- 4 × Airalo 3GB plan ($7.50 each) = **$30 total** ($7.50 per person)
 
 Scenario B — One pocket WiFi:
 - Japan Wireless unlimited = **$32.20 total** ($8.05 per person)
@@ -250,20 +250,26 @@ Scenario C — Everyone buys a physical SIM:
 | Pocket WiFi (unlimited) | $138+ | — |
 | Physical SIM (monthly) | ~$40–$60 | ~$1.60–$2.40/GB |
 
-**Winner:** eSIM
+**Winner:** eSIM. Want the full provider-by-provider price breakdown? See our [how the providers differ](/blog/japan-esim-providers-comparison-guide/).
 
 
-## 6. What About Speed and Coverage in Tokyo vs Rural Japan?
+## 6. Japan eSIM Speed and Coverage: Tokyo vs Rural Japan
 
 ### Carrier Coverage Comparison
 
-According to Opensignal's April 2026 Mobile Network Experience Report, NTT Docomo has the widest geographic coverage footprint across Japan, followed by au (KDDI) and SoftBank.
+NTT Docomo has the widest geographic coverage footprint across Japan, followed by au (KDDI) and SoftBank - a ranking that independent network testing and the carriers' own published coverage data both support.
+
+Official coverage maps are published by:
+
+- [NTT Docomo](https://www.docomo.ne.jp/area/5g/) - 4G and 5G area search by prefecture.
+- [au (KDDI)](https://www.au.com/mobile/area/5g/) - official 5G area information by region.
+- [SoftBank](https://www.softbank.jp/mobile/network/5g/) - official 5G coverage information.
 
 | Carrier | 4G Coverage | 5G Availability | Strength |
 |---------|-------------|-----------------|----------|
-| NTT Docomo | 99.9% | 38.4% | Best rural coverage |
-| SoftBank | 99.9% | 32% | Best urban speeds |
-| KDDI (au) | 99.7% | 26.5% | Balanced |
+| NTT Docomo | ~100% | Highest 5G | Best rural coverage |
+| SoftBank | ~100% | High | Best urban speeds |
+| KDDI (au) | ~100% | Moderate | Balanced |
 
 **Key takeaway:** If you're visiting Tokyo, Osaka, and Kyoto, any carrier works. If you're heading to Hokkaido, the Japanese Alps, Shikoku, or remote onsen towns, **Docomo-backed plans are essential**.
 
@@ -273,7 +279,7 @@ According to Opensignal's April 2026 Mobile Network Experience Report, NTT Docom
 |-------------------|----------------|---------|---------|
 | Yesim (eSIM) | 91 Mbps | 22ms | au/KDDI |
 | Airalo (eSIM) | 85 Mbps | 28ms | SoftBank |
-| Saily (eSIM) | 72 Mbps | 34ms | NTT Docomo |
+| Saily (eSIM) | 72 Mbps | 34ms | Undisclosed |
 | Physical SIM (Tokyo) | 24.9 Mbps | 54ms | — |
 | Ubigi (eSIM) | 12.2 Mbps | 105ms | NTT Docomo/KDDI |
 
@@ -283,7 +289,7 @@ According to Opensignal's April 2026 Mobile Network Experience Report, NTT Docom
 
 In rural Japan, the gap widens dramatically. Docomo's network reaches deep into the Japanese Alps, rural Hokkaido, and remote islands. SoftBank and au have good coverage in cities and along major train lines but drop off in mountainous areas.
 
-**Rule of thumb:** If you're renting a car and driving through rural Japan, prioritize Docomo-backed eSIMs (Ubigi, Saily, CDJapan Rental). If you're staying on the Golden Route (Tokyo–Kyoto–Osaka), any option works.
+**Rule of thumb:** If you're renting a car and driving through rural Japan, prioritize Docomo-backed eSIMs (Ubigi, CDJapan Rental). If you're staying on the Golden Route (Tokyo–Kyoto–Osaka), any option works.
 
 ### Latency: The Often-Overlooked Difference
 
@@ -295,7 +301,7 @@ For Google Maps, social media, and messaging, the difference isn't noticeable. F
 **Bottom line:** If you're making Zoom calls for work, choose a local-type eSIM (CDJapan Rental) or pocket WiFi over a roaming-type eSIM.
 
 
-## 7. Hidden Costs Nobody Tells You About
+## 7. Hidden Costs of a Japan eSIM, Pocket WiFi, and SIM Cards
 
 ### eSIM Hidden Costs
 
@@ -332,14 +338,14 @@ For Google Maps, social media, and messaging, the difference isn't noticeable. F
 
 | Your Situation | Best Choice | Why |
 |----------------|-------------|-----|
-| Solo traveler, modern phone, 3–7 day trip | **eSIM** | Cheapest ($4.50–$15), no device, keep home number |
-| Couple, modern phones, 7-day trip | **eSIM (each)** | $9–$30 total vs $32+ for pocket WiFi |
+| Solo traveler, modern phone, 3–7 day trip | **eSIM** | Cheapest ($4–$17), no device, keep home number |
+| Couple, modern phones, 7-day trip | **eSIM (each)** | $8–$34 total vs $32+ for pocket WiFi |
 | Family of 4, 7-day trip, light usage | **eSIM (each)** | $32 total vs $32.20 for pocket WiFi — tie, choose based on preference |
 | Family of 4, 7-day trip, heavy usage | **Pocket WiFi** | Unlimited data, one device, cheaper per person |
 | Group of 3+ staying together all day | **Pocket WiFi** | Cheapest per person, connects everyone |
 | iPhone user, privacy-focused | **eSIM (Saily)** | Fastest urban speeds, Nord-level security |
 | Business traveler needing low latency | **Local-type eSIM** or **Pocket WiFi** | 13–50ms latency vs 150–300ms on roaming eSIMs |
-| Rural Japan / Hokkaido / Japanese Alps | **Docomo-backed eSIM** (Ubigi, Saily) | Widest rural coverage |
+| Rural Japan / Hokkaido / Japanese Alps | **Docomo-backed eSIM** (Ubigi) | Widest rural coverage |
 | Shinkansen-heavy itinerary | **eSIM** (Docomo or au) | Maintains connection through tunnels |
 | Phone doesn't support eSIM, solo | **Physical SIM** | Only option, keep costs low |
 | Phone doesn't support eSIM, group | **Pocket WiFi** | Works with any phone, connects multiple devices |
@@ -347,34 +353,57 @@ For Google Maps, social media, and messaging, the difference isn't noticeable. F
 ### Real Scenario: Family of 3, 10-Day Trip, Tokyo + Kyoto + Osaka
 
 - **Pocket WiFi (Japan Wireless):** $4.60 × 10 = $46 total → $15.33 per person
-- **eSIM each (Airalo 3GB):** ~$8 × 3 = $24 total → $8 per person
-- **eSIM each (Airalo 10GB):** $15 × 3 = $45 total → $15 per person
+- **eSIM each (Airalo 3GB):** $7.50 × 3 = $22.50 total → $7.50 per person
+- **eSIM each (Airalo 10GB):** $17 × 3 = $51 total → $17 per person
 
 For light usage (maps, messaging, social media), eSIM is cheaper. For heavy usage (streaming, hotspots for laptops), pocket WiFi is worth the extra cost for unlimited data.
 
 
-## 9. Frequently Asked Questions
+## Roaming on Your Home Carrier vs a Japan eSIM
+
+Carrier roaming is the fourth way to get online in Japan, and in almost every scenario it is the most expensive. Your phone connects to a Japanese network under your home carrier's agreement, and you are billed per day rather than per gigabyte.
+
+| Carrier | Daily cost | High-speed data | One week, one line |
+|---|---|---|---|
+| AT&T International Day Pass | about $12 | 2GB/day, then 256 Kbps | about $84 |
+| Verizon TravelPass | about $10-12 | 5GB/day, then reduced | about $70-84 |
+| T-Mobile (standard plans) | $0 | 128-256 Kbps only | $0, but too slow for maps |
+| T-Mobile International Pass | about $10 | 2GB/day | about $70 |
+| EE (UK) Roam Further | about GBP 5.91 | Plan allowance | about GBP 41 |
+| Vodafone (UK) | about GBP 6.85 | Plan allowance | about GBP 48 |
+
+Against that, a Japan eSIM covering the same week costs roughly **$10-27**. That gap is the whole argument: roaming is convenient because it uses the number and plan you already have, but you pay a daily premium for the convenience.
+
+Roaming is genuinely the better call in one situation - a short business trip where your employer covers the cost and you need your home number live for calls. Even then, a dual-SIM setup with a cheap Japan data eSIM achieves the same thing for a fraction of the price. The only other near-case is a T-Mobile customer on a messaging-only trip, where the free 2G tier handles iMessage and email but not maps or translation.
+
+Two practical notes before you rely on roaming. First, many passes **restrict hotspot use**, so sharing with a laptop or a second phone may not work.
+
+Second, if you plan to tether or stream, check the daily allowance against the alternatives in our [when unlimited pays off](/blog/japan-esim-unlimited-data-guide/), and check the per-GB cost of a prepaid plan in the [plan pricing table](/blog/japan-esim-price-guide/).
+
+If your itinerary runs outside the cities, the network your eSIM uses also matters more than the carrier name - see the [Japan eSIM coverage guide](/blog/japan-esim-coverage-guide/).
+
+## 9. Japan eSIM vs Pocket WiFi FAQ
 
 **Q: Should I get an eSIM or pocket WiFi for Japan?**
 **A:** Get an eSIM if you're a solo traveler or couple with a compatible phone. Get pocket WiFi if you're a family or group of 3+ staying together.
 
 **Q: Which is cheaper for Japan — eSIM or pocket WiFi?**
-**A:** For solo travelers, eSIM is cheaper ($4.50–$15 vs $30–$100 for 7 days). For groups of 3+, pocket WiFi is cheaper per person.
+**A:** For solo travelers, eSIM is cheaper ($4–$17 vs $30–$100 for 7 days). For groups of 3+, pocket WiFi is cheaper per person.
 
 **Q: Which network is best in Japan — Docomo, SoftBank, or au?**
-**A:** NTT Docomo has the widest coverage, especially in rural areas. SoftBank and au are excellent in cities. Opensignal's April 2026 report confirms Docomo's coverage lead.
+**A:** NTT Docomo has the widest coverage, especially in rural areas. SoftBank and au are excellent in cities. See our [Japan eSIM coverage guide](/blog/japan-esim-coverage-guide/) for the network-by-network detail.
 
 **Q: Can I use my home phone number with an eSIM in Japan?**
 **A:** Yes. With dual-SIM, your home SIM stays active for calls and SMS while the eSIM provides data. Physical SIM cards require swapping, so you lose home number access.
 
 **Q: Does pocket WiFi have unlimited data in Japan?**
-**A:** Many providers advertise "unlimited," but most apply FUP — speeds drop after 3–10GB/day. Japan Wireless offers truly unlimited with no throttling.
+**A:** Many providers advertise "unlimited," but most apply FUP — speeds drop after 3–10GB/day. Japan Wireless advertises truly unlimited pocket WiFi — check the current fair use policy before booking.
 
-**Q: Do I need a Japanese phone number for my trip?**
+**Q: Will I need a Japanese phone number in Japan?**
 **A:** Usually not. Most services work with LINE, WhatsApp, or Skype. If you need to call a ryokan, choose Mobal or Sakura Mobile (voice-enabled).
 
 **Q: Can I hotspot from an eSIM to share with others?**
-**A:** Yes, but restrictions vary. Ubigi allows unlimited tethering. Holafly caps hotspot at ~1GB/day. Airalo's policy varies by plan.
+**A:** Yes, but restrictions vary. Ubigi places no cap on tethering, Holafly limits hotspot use, and Airalo's policy differs from plan to plan.
 
 **Q: What if my phone doesn't support eSIM?**
 **A:** Choose a physical SIM (any unlocked phone) or pocket WiFi (any WiFi-capable device).
@@ -382,19 +411,19 @@ For light usage (maps, messaging, social media), eSIM is cheaper. For heavy usag
 **Q: Which has better coverage — eSIM or pocket WiFi?**
 **A:** Both connect to the same carrier networks. Coverage depends on the carrier (Docomo > au > SoftBank), not the device type.
 
-**Q: How much data do I need for a week in Japan?**
+**Q: How much data will a week in Japan use?**
 **A:** Light users (maps + messaging): 1–2GB. Moderate users (+social media): 3–5GB. Heavy users (+streaming): 7–10GB+.
 
 **Q: What's the cheapest way to get internet in Japan?**
-**A:** For solo travelers, eSIM-Now at $3.17 for 1GB or Airalo at $4.50 for 1GB. For groups, pocket WiFi split between 3+ people.
+**A:** For solo travelers, an eSIM — Ubigi 1GB at $3.50 or Airalo 1GB at $4.00. For groups, pocket WiFi split between 3+ people.
 
 
-## 10. Final Verdict
+## 10. Final Verdict: Japan eSIM, Pocket WiFi, or SIM Card?
 
 | Your Situation | Best Choice | 7-Day Cost |
 |----------------|-------------|------------|
-| Solo traveler, modern phone | **eSIM** | $4.50–$15 |
-| Couple, modern phones | **eSIM (each)** | $9–$30 total |
+| Solo traveler, modern phone | **eSIM** | $4–$17 |
+| Couple, modern phones | **eSIM (each)** | $8–$34 total |
 | Family of 4, light usage | **eSIM (each)** | $32 total |
 | Family of 4, heavy usage | **Pocket WiFi** | $32–$100 total |
 | Group of 3+, staying together | **Pocket WiFi** | $32–$100 total |
@@ -418,10 +447,10 @@ For light usage (maps, messaging, social media), eSIM is cheaper. For heavy usag
 
 **Further Reading:**
 
-- [Best eSIM for Japan 2026: TOP 10 Picks Tested & Compared](/blog/best-esim-for-japan-2026-top10-guide/) – Our ranked top 10 list with real speed test data.
+- [the tested top 10](/blog/best-esim-for-japan-2026-top10-guide/) – Our ranked top 10 list with real speed test data.
 
 ---
 
-*Last updated: August 2026. All prices are in USD ($) unless otherwise noted and sourced from official provider websites and independent reviews. Plans and promotions are subject to change. Always verify current pricing on the provider's official website before purchasing.*
+*Last updated: September 2026. Figures are quoted in US dollars and drawn from official provider price pages and independent testing. Plans and promotions change often, so confirm the current rate on the provider's site before you pay.*
 
-For official coverage data, [Opensignal](https://www.opensignal.com/) publishes the Japan Mobile Network Experience Report.
+Independent network data comes from [Ookla's Speedtest Global Index for Japan](https://www.speedtest.net/global-index/japan), which tracks Japanese mobile download speeds and latency.

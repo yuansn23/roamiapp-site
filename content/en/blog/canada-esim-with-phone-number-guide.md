@@ -2,8 +2,8 @@
 title: "Canada eSIM with Phone Number: Bank SMS, Uber & Calls"
 description: "Roami Canada eSIM with a phone number: which providers include a real one, how to get bank SMS, register Uber, and make calls."
 keywords: ["Canada eSIM phone number", "Canada eSIM with number", "Canada eSIM bank SMS", "Canada eSIM Uber", "Canada eSIM number activation"]
-date: 2026-09-09T00:00:00Z
-lastmod: 2026-09-09T00:00:00Z
+date: 2026-09-19T00:00:00Z
+lastmod: 2026-09-19T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/canada/canada-esim-with-phone-number.jpg"
@@ -129,7 +129,7 @@ But if you need to:
 
 This guide focuses only on **Canada eSIM with phone number**. It explains which providers include a number, how to test it, and what to watch out for. It does not repeat general installation steps—for those, see our [step-by-step setup guide](/blog/how-to-get-esim-in-canada-guide/). It does not repeat the full provider price database—for that, see our [Canada eSIM comparison database](/blog/canada-esim-comparison-2026/).
 
-**A note on our data sources:** This guide combines publicly available provider information, user reports from Reddit and Trustpilot, and official CRTC documentation. Where we reference bank SMS or app registration results, we clearly label them as public user reports rather than our own testing. We do not present unverifiable testing claims.
+**A note on our data sources:** This guide combines publicly available provider information, user reports from Reddit and Trustpilot, and official [CRTC mobile regulations](https://crtc.gc.ca/eng/phone/mobile/). Where we reference bank SMS or app registration results, we clearly label them as public user reports rather than our own testing. We do not present unverifiable testing claims.
 
 **What this guide covers:**
 - Who needs a Canadian number (and who doesn't)
@@ -164,7 +164,7 @@ When you get a Canadian eSIM number, you receive a 10-digit number (excluding +1
 ### Real Scenarios Without a Canadian Number
 
 **Scenario 1: Uber from airport**
-You land at Toronto Pearson. You want Uber. Uber requires SMS verification. A data-only eSIM cannot receive it. You wait for a taxi—which costs more.
+You land at Toronto Pearson. You want Uber. Uber requires SMS verification. A data-only Canada eSIM cannot receive it. You wait for a taxi—which costs more.
 
 **Scenario 2: Airbnb check-in**
 Your host sends the door code by SMS. Without a Canadian number, you never receive it. You must call via VoIP, which requires data and may fail.
@@ -175,7 +175,7 @@ You try to open a bank account. The bank sends a verification code by SMS. Witho
 **Scenario 4: Job application**
 You apply for a job. The employer wants to call you. Without a local number, you miss the opportunity.
 
-**Bottom line:** For stays longer than 2 weeks, a numbered eSIM often pays for itself within days.
+**Bottom line:** For stays longer than 2 weeks, a numbered Canada eSIM often pays for itself within days.
 
 ### Real Cost of Not Having a Number
 
@@ -238,13 +238,13 @@ This section compares providers that offer **real Canadian or +1 numbers**. For 
 | **ByteSIM** | Canadian +1 | $18.90 USD | TELUS 5G | Unlimited local + 30+ countries | Unlimited | Medium-term travelers, business |
 | **Saily** | US +1 | $0.84/month + plan | Multi-network | VoIP | Limited | Privacy, US-Canada cross-border |
 | **Airalo** | Canadian +1 add-on | From $8 / 3 days | Bell (LTE) | Add-on | Add-on | Flexible short-term |
-| **Holafly** | Canadian/US/UK (some plans) | From ~$28.90 / 7 days | Bell+Telus+SaskTel | VoIP | Limited | Unlimited data + number |
+| **Holafly** | Canadian/US/UK (some plans) | From ~$36.90 / 7 days | Bell+Telus+SaskTel | VoIP | Limited | Unlimited data + number |
 | **PhoneBox** | Canadian +1 | CA$25 / 5GB / month | Telus | Unlimited Canada | Unlimited | Large data, long stays |
 | **Koodo / Lucky / Chatr** | Canadian +1 | From CA$19 / 30 days | Telus / Bell / Rogers | Unlimited Canada | Unlimited | Already in Canada, store visit |
 
 ### CanadianSIM: Best for Long Stays and New Immigrants
 
-**Why it stands out:** Real Canadian +1 number, no credit check, activate before departure. Uses Rogers/Fido/Chatr network—widest rural coverage. For road trips, see our [Canada road trip eSIM guide](/blog/best-esim-canada-road-trip-guide/).
+**Why it stands out:** Real Canadian +1 number, no credit check, activate before departure. Uses Rogers/Fido/Chatr network—widest rural coverage. Planning a multi-day drive? Our [Canada road trip eSIM guide](/blog/best-esim-canada-road-trip-guide/) budgets data route by route.
 
 **Key plans (CAD):**
 
@@ -293,7 +293,7 @@ This section compares providers that offer **real Canadian or +1 numbers**. For 
 - ✅ No QR code needed
 
 **Cons:**
-- ❌ More expensive than data-only ($18.90 vs $2.90)
+- ❌ More expensive than data-only ($18.90 vs $2)
 - ❌ No throttled buffer after data ends
 
 **Best for:** Short-to-medium travelers needing a number, business travelers, users wanting calls with moderate price.
@@ -306,7 +306,7 @@ This section compares providers that offer **real Canadian or +1 numbers**. For 
 
 | Plan | Price | Number |
 |------|-------|--------|
-| 1GB / 7 days | **$4.50** (with code) | Optional US +1 |
+| 1GB / 7 days | **$5.29** | Optional US +1 |
 | Unlimited / 5 days | **$16.99** | Optional US +1 |
 | Unlimited / 30 days | **$76.49** | Optional US +1 |
 
@@ -368,7 +368,7 @@ This section compares providers that offer **real Canadian or +1 numbers**. For 
 |------|-------|------------------|
 | 3 days | **$20.90** | ⚠️ Depends on purchase date |
 | 5 days | ~**$19** | ⚠️ Depends |
-| 7 days | ~**$28.90** | ⚠️ Depends |
+| 7 days | ~**$36.90** | ⚠️ Depends |
 | 15 days | ~**$50.50** | ⚠️ Depends |
 | 30 days | **$93.90** | ⚠️ Depends |
 
@@ -455,7 +455,7 @@ Based on public user reports and provider documentation, Canadian numbers from *
 
 ### What to Test After eSIM Activation
 
-Once your numbered eSIM is active, run these tests. Roami's [Canada eSIM](/canada-esim/) includes **24/7 human support** if any of them fail.
+Once your numbered Canada eSIM is active, run these tests. Roami's [Canada eSIM](/canada-esim/) includes **24/7 human support** if any of them fail.
 
 1. **Receive SMS:** Ask a friend or family member to send you an SMS. Confirm it arrives.
 2. **Local call:** Call a local number (hotel front desk, friend). Confirm two-way audio.
@@ -494,7 +494,7 @@ Canadian ride-hailing and delivery apps generally require a Canadian number for 
 
 **Key finding:** Canadian numbers are required for Canadian ride-hailing and delivery apps. US numbers are generally rejected.
 
-**Why this matters:** If you plan to use Uber, DoorDash, or Lyft in Canada, you need a Canadian number. A US number will not work. This is one of the most common reasons travelers buy a numbered eSIM.
+**Why this matters:** If you plan to use Uber, DoorDash, or Lyft in Canada, you need a Canadian number. A US number will not work. This is one of the most common reasons travelers buy a numbered Canada eSIM.
 
 ## CRTC Rules on eSIM Activation Fees
 
@@ -531,7 +531,7 @@ On June 12, 2026, CRTC rules took effect **prohibiting carriers from charging fe
 - Budget: $2–$20
 
 **1–2 weeks:**
-- No number: Ubigi $29/7 days unlimited
+- No number: Ubigi $25/7 days unlimited
 - Need number: **ByteSIM** or **Holafly** Unlimited
 - Budget: $20–$50
 
@@ -547,7 +547,7 @@ On June 12, 2026, CRTC rules took effect **prohibiting carriers from charging fe
 - ✅ **CanadianSIM** — no credit check, pre-departure activation
 - Alternative: Koodo or Lucky after arrival
 - Budget: CA$40/month
-- Device compatibility: see our [eSIM-compatible phones guide](/blog/esim-compatible-phones-canada-guide/)
+- Device compatibility: see our [device compatibility checker](/compatibility/)
 
 **Business trip:**
 - Need local number for clients, possibly international calls
@@ -557,7 +557,7 @@ On June 12, 2026, CRTC rules took effect **prohibiting carriers from charging fe
 **2-week in-depth travel:**
 - Uber, DoorDash codes, Airbnb host contact
 - ✅ **ByteSIM** from $18.90
-- Alternative: **Airalo** + add-on ($6.50 + $8)
+- Alternative: **Airalo** + add-on ($7 + $8)
 - Budget: $15–$30
 - Road trip: see our [Canada road trip eSIM guide](/blog/best-esim-canada-road-trip-guide/)
 
@@ -580,7 +580,7 @@ On June 12, 2026, CRTC rules took effect **prohibiting carriers from charging fe
 
 **Installation:** Downloads eSIM profile. Requires Wi-Fi. Can be done before departure. eSIM appears in cellular list but **does not connect, use data, or start validity clock**.
 
-**Activation:** Triggers when eSIM first connects to Canadian network. Validity starts, data counts, **number becomes active**.
+**Activation:** Triggers when your Canada eSIM first connects to the Canadian network. Validity starts, data counts, **number becomes active**.
 
 **For numbered eSIMs:** Number assignment usually happens at activation. You may not see the number until you land and activate. If you need the number in advance (e.g., for entry forms), contact provider support.
 
@@ -588,7 +588,7 @@ For full installation steps, see our [eSIM installation guide](/blog/how-to-get-
 
 ### Test Your Canadian eSIM Number
 
-After activating a numbered eSIM, run three tests:
+After activating a numbered Canada eSIM, run three tests:
 
 **Test 1: Local call**
 - Call a local number (hotel front desk, friend)
@@ -654,6 +654,8 @@ Data-only: internet only; no standard calls/SMS. Numbered: real Canadian +1; can
 
 Yes, most travel numbered eSIMs (CanadianSIM, ByteSIM, Holafly, Airalo add-on) can be installed before departure and activate on landing. Local carrier prepaid (Koodo, Lucky, Chatr) usually requires arrival.
 
+**Worth knowing:** Canada does not require government ID registration for prepaid SIMs — unlike Germany, Japan, or Indonesia. You can walk into a convenience store, buy a Lucky Mobile or Chatr prepaid voucher with cash, and activate without showing a passport. This makes a local prepaid SIM a viable same-day fallback if your eSIM fails on arrival, though you sacrifice the pre-departure setup that travel eSIMs offer.
+
 ### Can I receive bank verification codes?
 
 Yes, if plan includes standard SMS (CanadianSIM, ByteSIM include unlimited SMS), bank supports Canadian numbers, and eSIM is active. Confirm SMS support before buying—some "numbers" are VoIP only.
@@ -680,6 +682,18 @@ Usually not. WhatsApp, WeChat, and FaceTime work over data. However, if you need
 ### Can I use a numbered eSIM for two-factor authentication?
 
 Yes, if the number supports standard SMS. CanadianSIM, ByteSIM, and Airalo add-on support standard SMS. Some VoIP-based numbers may not work with all services. Test before relying on it.
+
+### Can I keep my current number and still use a Canada eSIM?
+
+Yes — that is the normal setup. Your home SIM keeps its number for calls, texting and one-time codes while the Canada eSIM handles data, so there is nothing to "keep" on the eSIM side. Just leave your primary line active for SMS roaming; receiving texts abroad is usually free even when calls are not.
+
+### Do Canada eSIMs support Wi-Fi calling, talk and text?
+
+Wi-Fi calling depends on the carrier that owns the number, not on the eSIM carrying your data. A Canadian number from a local prepaid brand or a numbered travel plan can support talk and text over the cellular network; data-only eSIMs support neither and route everything through WhatsApp or FaceTime instead. If voice quality matters to you, confirm VoLTE and Wi-Fi calling support with the provider before buying — it varies more between MVNOs than between the big three networks.
+
+### Can I get a new Canadian number instead of keeping mine?
+
+Yes. Numbered plans such as CanadianSIM, ByteSIM and PhoneBox assign a fresh Canadian +1 number at activation, which is exactly what newcomers and long-stay visitors need for local registrations. A new number will not receive SMS codes sent to your old number, so forward critical services first.
 
 ## Conclusion: Canada eSIM with Phone Number
 
@@ -715,7 +729,7 @@ Whether you need a Canada eSIM with phone number depends on your length of stay 
 - ✅ Test SMS after activation
 - ✅ Test local call after activation
 
-**Not sure you need a number?** Most travelers do fine data-only. If undecided, start with a [free eSIM trial](/free-esim/) or a [Roami Canada eSIM plan](/canada-esim/) from **$1.99**, and add a number later only if banking or Uber forces the issue. New users get **20% off** with code `web20`, plus Roami's **24/7 human support**.
+**Not sure you need a number?** Most travelers do fine data-only. If undecided, start with a [free eSIM trial](/free-esim/) and add a number later only if banking or Uber forces the issue.
 
 **Availability checked September 2026.** Canadian-number plans sell out and shift price often — confirm before you buy.
 

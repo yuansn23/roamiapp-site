@@ -2,8 +2,8 @@
 title: "Does Your Europe eSIM Cover Turkey, Greece and Egypt?"
 description: "Check whether Europe, Greece, Egypt and North Cyprus regional plans cover Turkey, and why Roami beats the country-count trap."
 keywords: ["turkey europe esim regional plan", "does europe esim cover turkey", "turkey greece esim", "turkey egypt esim", "north cyprus esim", "turkey regional esim plan", "europe esim turkey coverage"]
-date: 2026-09-16T00:00:00Z
-lastmod: 2026-09-16T00:00:00Z
+date: 2026-09-17T00:00:00Z
+lastmod: 2026-09-17T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/turkey/turkey-esim-europe-greece-egypt.jpg"
@@ -72,14 +72,14 @@ recentPosts:
 
 A ‘Europe’ plan that does not include Turkey is one of the most common eSIM mistakes. This guide shows you how to verify exactly which countries a plan covers before you buy.
 
-## At a Glance
+## Regional eSIM Options at a Glance
 
 - The plan’s name is not the country list, so you need to verify that a ‘Europe’ plan actually includes Turkey.
 - Check for both ‘Turkey’ and ‘Türkiye’ spellings, and check ‘North Cyprus/TRNC’ as a separate entry.
 - North Cyprus is usually excluded, and Egypt and Greece need to be verified separately.
 - EU roaming rules stop at Turkey’s border, so expect your plan to switch networks rather than roam.
 
-## What This Regional Plans Guide Solves
+## What This Turkey eSIM Regional Plans Guide Solves
 
 This guide solves the regional layer: which regional plan actually covers every country on your itinerary, including Turkey? The plan name is not the country list. “Europe” is not a defined geographic term in the eSIM market. “Middle East” is equally vague. “Cyprus” is politically ambiguous. Travellers who rely on the plan name discover the error after landing.
 
@@ -87,11 +87,11 @@ This page gives you the country-list verification workflow, the 35 versus 36 cou
 
 The short version: verify the exact country list, not the plan name. Check both “Turkey” and “Türkiye” spellings. Check “Northern Cyprus” or “TRNC” separately if your itinerary crosses the Green Line.
 
-## Why Regional Research Fails
+## Why Regional eSIM Research Fails
 
 Regional eSIM research fails because the plan name is a marketing category, not a country list. “Europe” can mean EU plus EEA, EU plus EEA plus Switzerland and the UK, or any subset a provider chooses. “Middle East” can include Turkey and Egypt or exclude them entirely. “Cyprus” splits along political lines that mobile networks follow.
 
-### The Plan Name Is Not the Turkey eSIM Country List
+### The Plan Name Is Not the Country List
 
 “Europe” is not a defined geographic term. Some providers define it as EU plus EEA. Others include the European part of Turkey. Others use it as a marketing category.
 
@@ -99,7 +99,7 @@ Regional eSIM research fails because the plan name is a marketing category, not 
 
 “Cyprus” is politically ambiguous. The Republic of Cyprus is an EU member state. The Turkish Republic of Northern Cyprus is recognised only by Turkey. Mobile networks follow the political division.
 
-### Three Turkey eSIM Regional Verification Failures
+### Three Ways Regional Plan Research Fails
 
 | Failure | What happens | Example |
 |---|---|---|
@@ -107,7 +107,7 @@ Regional eSIM research fails because the plan name is a marketing category, not 
 | Political exclusion | Plan covers one Cyprus side only | Airalo Turkey excludes TRNC |
 | Border handover | Signal drops at ferry or land border | Rhodes to Marmaris |
 
-### What to Verify Before Buying Turkey eSIM Regional Plan
+### What to Verify Before You Pay
 
 - The exact country list, not the plan name
 - Both “Turkey” and “Türkiye” spellings
@@ -117,15 +117,15 @@ Regional eSIM research fails because the plan name is a marketing category, not 
 - FUP threshold across all countries
 - BTK block status if starting in Turkey. Read the [BTK block](/blog/turkey-esim-ban-availability-rules/) for the full regulatory context.
 
-## Why Does the 35 vs 36 Country Trap Catch People?
+## Why Does the 35 vs 36 Country eSIM Trap Catch People?
 
 The 35 versus 36 country trap is the single most common regional eSIM failure. Nomad offers two Europe plans with nearly identical names. Only the 36-country plan includes Turkey. The difference is one country, and the names look the same at checkout.
 
-### Nomad’s Two Europe Plans for Turkey eSIM
+### Nomad’s Two Europe Plans: One Country Apart
 
 Nomad’s 35-country Europe plan does not include Turkey. Its 36-country Europe plan does. The names are nearly identical. The difference is one country.
 
-### Other Turkey eSIM Country-Count Traps
+### Other Country-Count Traps Worth Checking
 
 | Provider | Plan | Countries | Turkey |
 |---|---|---|---|
@@ -138,7 +138,7 @@ Nomad’s 35-country Europe plan does not include Turkey. Its 36-country Europe 
 | Saily | Europe | Varies | Check |
 | Ubigi | Europe | Varies | Check |
 
-### Verify Turkey eSIM Coverage in 30 Seconds
+### Can You Verify Coverage in 30 Seconds?
 
 1. Open the plan page.
 2. Find the “Coverage” or “Countries” section.
@@ -148,15 +148,15 @@ Nomad’s 35-country Europe plan does not include Turkey. Its 36-country Europe 
 
 If the provider does not publish a full country list, assume the plan does not cover Turkey.
 
-## Country-List Verification Workflow
+## eSIM Country-List Verification Workflow
 
 The verification workflow has five steps. List every country first, then match to a regional plan, then verify the network partner, then check hotspot and FUP, then confirm BTK block status.
 
-### Step 1: List Every Country on Your Turkey eSIM Itinerary
+### Step 1: List Every Country on Your Itinerary
 
 Include transit stops and ferry routes. For an eastern Mediterranean trip: Turkey, Greece, North Cyprus. For a Middle East trip: Turkey, Egypt, Jordan. For a Caucasus trip: Turkey, Georgia, Armenia.
 
-### Step 2: Match to a Turkey eSIM Regional Plan
+### Step 2: Match Your Route to a Regional Plan
 
 | Countries | Best regional plan | Key check |
 |---|---|---|
@@ -170,23 +170,23 @@ Include transit stops and ferry routes. For an eastern Mediterranean trip: Turke
 | Turkey + UK | Kudo 46 | Verify UK in list |
 | Turkey + Balkans | Kudo or GigSky | Verify all Balkan countries |
 
-### Step 3: Verify Turkey eSIM Network Partner
+### Step 3: Verify the Network Partner
 
-For Turkey, the network partner determines rural coverage. For Greece, Cosmote and Vodafone Greece. For Egypt, Orange and Vodafone Egypt. For North Cyprus, KKTCell and Telsim. See the [three carriers compared](/blog/turkcell-vodafone-turk-telekom-esim/) for the full network breakdown. For measured coverage and speeds, see the [OpenSignal Turkey report](https://www.opensignal.com/reports/turkey). Regional eSIM profiles provision under the [GSMA eSIM specification](https://www.gsma.com/esim/).
+For Turkey, the network partner determines rural coverage. For Greece, Cosmote and Vodafone Greece. For Egypt, Orange and Vodafone Egypt. For North Cyprus, KKTCell and Telsim. See the [three carriers compared](/blog/turkcell-vodafone-turk-telekom-esim/) for the full network breakdown. For measured coverage and speeds, see [Opensignal’s independent network measurements](https://www.opensignal.com/). Regional eSIM profiles provision under the [GSMA eSIM specification](https://www.gsma.com/esim/).
 
-### Step 4: Check Turkey eSIM Hotspot and FUP
+### Step 4: Check Hotspot and FUP Rules
 
 Kudo unlimited plans do not allow hotspot. Qrispy allows unlimited hotspot at full speed. Check the policy before buying. For per-GB cost math, read the [per-GB math](/blog/cheapest-turkey-esim/).
 
-### Step 5: Check Turkey eSIM BTK Block Status
+### Step 5: Check BTK Block Status
 
 If the provider is blocked in Turkey, you cannot top up or manage the account from inside Turkey. Buy enough data for the entire Turkish portion before departure. The [UK FCDO Turkey travel advice](https://www.gov.uk/foreign-travel-advice/turkey) recommends activating the eSIM before departure for this reason.
 
-## Regional Plan Comparison by Itinerary
+## Regional eSIM Plan Comparison by Itinerary
 
 Each itinerary has a different best regional plan. The right choice depends on which countries you visit, whether you need hotspot and how much data you consume per day.
 
-### Turkey eSIM Europe Plans
+### Europe Plans That Actually Include Turkey
 
 | Provider | Countries | Turkey | UK | Switzerland | Hotspot |
 |---|---|---|---|---|---|
@@ -200,13 +200,13 @@ Each itinerary has a different best regional plan. The right choice depends on w
 
 **Kudo Europe + Region (46):** 46 countries including Switzerland, the UK and Turkey. 45-day validity. Plans from €1.20 for 1 GB to €39.99 for 100 GB. Unlimited plans from €8.50 for 3 days to €35.99 for 30 days. Caveat: unlimited plans do not allow hotspot.
 
-**GigSky Europe (43):** 43 countries including Turkey and the UK. Free 500 MB trial for 7 days. Turkey plans from $2.99 for 1 GB / 7 days.
+**GigSky Europe (43):** 43 countries including Turkey and the UK. Free 500 MB trial for 7 days. Turkey plans from $2.99 for 1 GB / 7 days. If you would rather test a profile before committing, [free trial eSIMs](/free-esim/) cost nothing and install in minutes.
 
-**Nomad Europe:** 36-country plan includes Turkey. 35-country plan does not. 36-country plan starts at $4 for 1 GB / 7 days, 10 GB / 30 days at $22.
+**Nomad Europe:** 36-country plan includes Turkey. 35-country plan does not. 36-country plan starts at $4 for 1 GB / 7 days, 10 GB / 30 days at $13.
 
 **Airalo Europe (41):** 41 countries including Turkey, UK, Switzerland and non-EU Balkans. Confirmed blocked in Turkey. Pre-departure installation mandatory. See the [failure-mode map](/blog/best-turkey-esim-providers/) for provider-level failure modes.
 
-### Turkey eSIM Greece Plans
+### Greece Plans That Include Turkey
 
 | Provider | Plan | Turkey | Greece | Hotspot |
 |---|---|---|---|---|
@@ -217,7 +217,7 @@ Each itinerary has a different best regional plan. The right choice depends on w
 | Kudo | Europe + Region | ✅ | ✅ | ❌ Unlimited |
 | Saily | Europe | Check | Check | Unlimited |
 
-### Turkey eSIM North Cyprus Plans
+### North Cyprus Plans: Who Covers Both Sides?
 
 | Provider | Plan | North Cyprus | Turkey | Greece | Hotspot |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@ Each itinerary has a different best regional plan. The right choice depends on w
 | Airalo | Turkey | ❌ | ✅ | ❌ | ✅ |
 | Generic Cyprus | Cyprus | ❌ | ❌ | ❌ | Varies |
 
-### Turkey eSIM Egypt and Middle East Plans
+### Egypt and Middle East Plans
 
 | Provider | Countries | Turkey | Egypt | Gulf | Hotspot |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@ Each itinerary has a different best regional plan. The right choice depends on w
 | Vodafone Romania Easy | Varies | ✅ | ✅ | ❌ | Varies |
 | Airalo Middle East | Varies | Check | Check | Check | Varies |
 
-### Turkey eSIM Caucasus Plans
+### Caucasus Plans
 
 | Provider | Countries | Turkey | Georgia | Armenia | Hotspot |
 |---|---|---|---|---|---|
@@ -244,15 +244,26 @@ Each itinerary has a different best regional plan. The right choice depends on w
 | GlobaleSIM Central Asia | 13 | ✅ | ✅ | ✅ | Varies |
 | eSIM4Travel South Caucasus | 4 | ✅ | ✅ | ✅ | ✅ |
 
-## Greece: Ferry Crossing Handover
+### Other Pairings: Italy, Germany, the Balkans and the Gulf
+
+Beyond the headline pairings, a few itinerary shapes recur in searches. Turkey plus Italy or Germany, and Turkey plus Ireland, all resolve the same way: those countries are inside the EU, so any Europe plan that includes Turkey covers the whole route — the risk is only whether Turkey made the plan's country list, not whether Italy or Germany did. Turkey plus the Balkans (Bulgaria, Montenegro) is the trap zone: some "Europe" plans stop at Greece, some include the western Balkans, and coverage of Bulgaria and Montenegro in particular varies plan by plan, so check each country code individually. Turkey plus the Gulf — Dubai and the UAE, Saudi Arabia, Iraq — usually falls outside Europe plans entirely; the Middle East is typically sold as its own regional zone, so a two-zone trip may mean two plans. China is typically excluded from regional lists altogether because of local rules, and usually needs a separate product.
+
+| Itinerary | Where the coverage usually lives | Watch-out |
+|---|---|---|
+| Turkey + Italy / Germany / Ireland | Same Europe plan (EU + Turkey) | Only verify Turkey is listed |
+| Turkey + Bulgaria / Montenegro | Europe plan, sometimes Balkans zone | Country list varies plan by plan |
+| Turkey + Dubai / Saudi Arabia / Iraq | Separate Middle East zone | Two-zone trips may need two plans |
+| Turkey + China | Separate product | China typically excluded from regionals |
+
+## Greece: Ferry Crossing eSIM Handover
 
 Ferry routes between Greek islands and the Turkish coast are routine tourist routes. They are also common points of connectivity failure for single-country plans. A regional eSIM covering both countries handles the handover automatically.
 
-### The Turkey eSIM Ferry Crossing Problem
+### The Ferry Crossing Problem
 
 As the ferry leaves a Greek port, the phone connects to Cosmote or Vodafone Greece. Mid-crossing, Greek signal weakens. With a Turkey-only plan, the phone may drop signal until it reaches the Turkish coast.
 
-### Common Turkey Greece Ferry Routes
+### Common Greece–Turkey Ferry Routes
 
 | Route | Duration | Signal gap |
 |---|---|---|
@@ -262,11 +273,11 @@ As the ferry leaves a Greek port, the phone connects to Cosmote or Vodafone Gree
 | Samos to Kuşadası | 90 min | 20–30 min |
 | Lesbos to Ayvalık | 90 min | 20–30 min |
 
-### The Turkey eSIM Regional Solution
+### How a Regional Plan Solves It
 
 A regional eSIM covering Turkey and Greece treats the Eastern Mediterranean as one zone. Muletek’s Eastern Med Coast covers Greece, Turkey and both parts of Cyprus under one profile. Network handover is automatic.
 
-### If Turkey eSIM Handover Fails
+### If Handover Fails Mid-Crossing
 
 1. Enable manual network selection.
 2. Select the Turkish network.
@@ -278,39 +289,42 @@ A regional eSIM covering Turkey and Greece treats the Eastern Mediterranean as o
 
 North Cyprus is excluded from most regional plans for political reasons. The Republic of Cyprus is an EU member state. The TRNC is recognised only by Turkey. Mobile networks follow the political division. A “Turkey” plan covers the Republic of Turkey but not the TRNC. A “Cyprus” plan covers the Republic of Cyprus but not the TRNC.
 
-### Why North Cyprus Is Excluded from Turkey eSIM Plans
+### Why North Cyprus Is Left Out
 
 The exclusion is political. The Republic of Cyprus is an EU member state. The TRNC is recognised only by Turkey. Mobile networks follow the political division.
 
-### Confirmed Turkey eSIM North Cyprus Exclusions
+### Confirmed North Cyprus Exclusions
 
 - Airalo Turkey product explicitly excludes the TRNC.
 - Generic “Cyprus” eSIMs cover the south, not the north.
+- Ubigi’s Turkey plans are a verified exception — they cover the north as well as the mainland.
 
-### North Cyprus Operators for Turkey eSIM Users
+### North Cyprus Operators Worth Knowing
 
 KKTCell (Turkcell North Cyprus) and Telsim (Vodafone). KKTCell Tourist Plus: 30 GB, 50 minutes, 500 SMS for 15 days at 699 TL (~$15.40).
 
-### Green Line Crossing with Turkey eSIM
+### Crossing the Green Line
 
 If you cross the Green Line, your eSIM must cover both sides. Most regional plans do not. Muletek is the exception.
 
-### If Your Turkey eSIM Does Not Cover North Cyprus
+### If Your Plan Does Not Cover North Cyprus
 
 1. Buy a dedicated North Cyprus eSIM from TurkSIM.
 2. Buy a local SIM in North Cyprus with your passport.
 3. Use a regional plan that explicitly includes both sides.
 4. Rely on Wi-Fi and VoIP for short stays.
 
-## Quick Recap
+Cross-border use adds its own fine print. Switching roaming on arrival in a new country can drop the connection for a few minutes, a regional plan’s fair-use (FUP) clause may limit how much of the allowance works outside Türkiye, and a top-up bought for one zone does not always carry into the next — worth checking before the Greece leg, not during it.
+
+## Quick Recap: One eSIM, Several Countries
 
 You have now covered the country-count trap, the verification workflow, and the specifics for Greece and North Cyprus. The lesson is to verify the exact country list, not the marketing name. Next, we look at the EU roaming boundary and what the BTK block does to regional plans.
 
-## What Happens at the EU Roaming Boundary?
+## What Happens at the EU eSIM Roaming Boundary?
 
 EU “Roam Like At Home” does not apply to Turkey. This is the single most expensive regional mistake travellers make. An EU SIM in Turkey connects as a roaming visitor, and carriers charge €5–€8 per day for data.
 
-### Where EU RLAH Stops for Turkey eSIM Users
+### Where EU RLAH Stops
 
 EU “Roam Like At Home” applies within the EU plus Iceland, Liechtenstein and Norway. It does not apply to Turkey, Switzerland, UK, Andorra, Monaco, San Marino, Gibraltar, Vatican City or the Turkish part of Cyprus. See the [European Commission roaming rules](https://digital-strategy.ec.europa.eu/en/policies/roaming) for the official boundary.
 
@@ -318,7 +332,7 @@ EU “Roam Like At Home” applies within the EU plus Iceland, Liechtenstein and
 
 An EU SIM in Turkey connects as a roaming visitor. Carriers charge €5–€8 per day for data. A 7-day trip costs €35–€56. A regional eSIM that includes Turkey bundles data into the plan price, typically €10–€25 for a multi-country plan.
 
-### Turkey eSIM Border Region Trap
+### The Border Region Trap
 
 Near the Greek-Turkish border, phones with automatic network selection can connect to a non-EU network and incur roaming charges without warning. Deactivate automatic selection near borders.
 
@@ -337,23 +351,23 @@ Near the Greek-Turkish border, phones with automatic network selection can conne
 | France | ✅ | Free |
 | Italy | ✅ | Free |
 
-## BTK Block and Regional Plans
+## BTK Block and Regional eSIM Plans
 
 The BTK block applies to regional plans as well as Turkey-only plans. If you land in Istanbul first, the eSIM connects and provides data. But if you need to top up, change a setting or contact support, and the provider’s website is blocked, you cannot access those services until you leave Turkey.
 
-### What the BTK Block Does to Turkey eSIM Regional Plans
+### What the BTK Block Does to Regional Plans
 
-The BTK block applies to regional plans as well as Turkey-only plans. If you land in Istanbul first, the eSIM connects and provides data. But if you need to top up, change a setting or contact support, and the provider’s website is blocked, you cannot access those services until you leave Turkey.
+The block targets the provider’s platform, not the network. The eSIM itself keeps working — data flows normally. The problem surfaces when you try to open the app or website to top up, tweak a setting or reach support: blocked from Turkish networks until you leave the country.
 
-### Practical Implication for Turkey eSIM Regional Buyers
+### What the Block Means for Your Data Purchase
 
 Buy enough data for the entire Turkish portion. For a Turkey (5 days) + Greece (7 days) trip, buy enough for the full 12 days. Do not plan to top up while in Turkey.
 
-### Which Turkey eSIM Regional Providers Are Blocked
+### Which Regional Providers Are Blocked
 
 Airalo, Holafly, Saily, Nomad, Ubigi, Instabridge, Mobimatter, Alosim, BNESIM, Jetpac, Maya Mobile, Roamless, Yesim, GigSky, Flexiroam and many others. Klook is not on the confirmed block list.
 
-### How to Prepare Turkey eSIM Regional Plan Before Departure
+### How to Prepare Before Departure
 
 1. Buy the regional eSIM before departure. Compare options in the [provider guide](/blog/best-turkey-esim-providers/).
 2. Install the profile on Wi-Fi.
@@ -362,9 +376,9 @@ Airalo, Holafly, Saily, Nomad, Ubigi, Instabridge, Mobimatter, Alosim, BNESIM, J
 5. Download offline maps for all countries.
 6. Keep data roaming off until landing.
 
-## Regional Hotspot and FUP Comparison
+## Regional eSIM Hotspot and FUP Comparison
 
-Hotspot policy varies across regional plans. Kudo unlimited plans do not allow hotspot. Qrispy allows unlimited hotspot at full speed. Saily throttles after 5 GB per day. Holafly caps hotspot at 500 MB per day.
+Hotspot policy varies across regional plans. Kudo unlimited plans do not allow hotspot. Qrispy allows unlimited hotspot at full speed. Saily throttles after 5 GB per day. Holafly caps hotspot at 1 GB per day.
 
 | Provider | Plan | Hotspot | Daily FUP |
 |---|---|---|---|
@@ -376,11 +390,11 @@ Hotspot policy varies across regional plans. Kudo unlimited plans do not allow h
 | Saily | Europe | ✅ Unlimited | 5 GB/day |
 | Muletek | Eastern Med | ✅ | Varies |
 | HelloRoam | West Asia | ✅ | Varies |
-| Holafly | Europe | 500 MB/day | 2–3 GB/day |
+| Holafly | Europe | 1 GB/day | 2–3 GB/day |
 
-For laptop sharing, a fixed-data plan with large allowance and unrestricted hotspot is usually better than an unlimited plan with a cap. [Roami’s plan](/turkey-esim/) includes unrestricted hotspot with transparent FUP terms.
+For laptop sharing, a fixed-data plan with large allowance and unrestricted hotspot is usually better than an unlimited plan with a cap. [Roami’s plan](/turkey-esim/) includes unrestricted hotspot with a published daily quota (1–2 GB/day, resets at midnight).
 
-## Regional Network Partners by Country
+## Regional eSIM Network Partners by Country
 
 The network partner determines rural coverage in every country. For Turkey, the partner determines whether you have signal in Cappadocia valleys. For Greece, Cosmote and Vodafone Greece. For Egypt, Orange and Vodafone Egypt.
 
@@ -414,11 +428,11 @@ Regional plans are cheapest for multi-country trips under 30 days. Separate plan
 
 For multi-country trips under 30 days, a regional eSIM is the cheapest and most convenient option.
 
-## Multi-Country Data Estimation
+## Multi-Country eSIM Data Estimation
 
 Multi-country data estimation follows five steps. Estimate daily data, multiply by days per country, add 30% buffer, check FUP and check hotspot.
 
-### Step 1: Estimate Daily Data for Turkey eSIM Trip
+### Step 1: Estimate Your Daily Data
 
 | Usage pattern | Daily data |
 |---|---|
@@ -434,11 +448,11 @@ Turkey 5 days × 1 GB = 5 GB. Greece 7 days × 1 GB = 7 GB. Total 12 GB.
 
 12 GB × 1.3 = 15.6 GB. Round up to 20 GB.
 
-### Step 4: Check FUP on Turkey eSIM Regional Plan
+### Step 4: Check FUP on the Regional Plan
 
 If daily FUP is 2 GB/day, usable high-speed data is 2 GB × 12 days = 24 GB. Enough for the trip.
 
-### Step 5: Check Hotspot on Turkey eSIM Regional Plan
+### Step 5: Check Hotspot If Tethering
 
 Add 3–5 GB per day if sharing data with a laptop.
 
@@ -449,11 +463,11 @@ Add 3–5 GB per day if sharing data with a laptop.
 | 21 days | 15–25 GB | 40–60 GB | 60–90 GB |
 | 30 days | 20–30 GB | 60–80 GB | 80–120 GB |
 
-## Cross-Border Handover Troubleshooting
+## Cross-Border eSIM Handover Troubleshooting
 
 Cross-border handover failures have five common causes. Manual network selection locked to the old network, data roaming off, APN incorrect for the new network, country not included in the profile and network congestion at the border.
 
-### Why Turkey eSIM Cross-Border Handover Fails
+### Why Handover Fails at Borders
 
 - Manual network selection locked to old network
 - Data roaming off
@@ -461,7 +475,7 @@ Cross-border handover failures have five common causes. Manual network selection
 - Country not included in profile
 - Network congestion at border
 
-### Turkey eSIM Cross-Border Troubleshooting Sequence
+### Cross-Border Troubleshooting Sequence
 
 1. Enable automatic network selection.
 2. Confirm data roaming is ON.
@@ -471,7 +485,7 @@ Cross-border handover failures have five common causes. Manual network selection
 6. Try manual network selection.
 7. Contact support if unresolved.
 
-### Turkey eSIM Border Region Tips
+### Border Region Tips
 
 - Deactivate automatic network selection near borders.
 - Check connected network before using data.
@@ -486,18 +500,18 @@ Cross-border handover failures have five common causes. Manual network selection
 | Slow speed | Network congestion | Try manual selection |
 | No data at all | Country not included | Check country list |
 
-## Regional Strategy for Nomads and Business
+## Regional eSIM Strategy for Nomads and Business
 
 Digital nomads and business travellers need regional plans that cover multiple countries with disclosed network partners, accessible support and clean invoicing. MDM restrictions may block eSIM installation on employer-managed devices.
 
-### Digital Nomads Turkey eSIM Regional Strategy (1–3 Months)
+### Digital Nomad Strategy (1–3 Months)
 
 - Local Turkish SIM for voice and SMS in Turkey
 - Regional eSIM for data across multiple countries
 - Home SIM for international SMS and 2FA
 - Monitor the 120-day IMEI clock if using local SIM. Read the [IMEI rules](/blog/turkey-esim-ban-availability-rules/) for the full IMEI framework.
 
-### Businesses Turkey eSIM Regional Strategy
+### Business Traveller Strategy
 
 - Regional eSIM with disclosed network partners
 - Business account with volume discounts
@@ -505,11 +519,11 @@ Digital nomads and business travellers need regional plans that cover multiple c
 - Consolidated billing
 - 24/7 support access
 
-### MDM Restrictions for Turkey eSIM Regional Plans
+### When MDM Blocks eSIM Installation
 
-Phones managed by employer MDM may block eSIM installation. Check with IT before buying. For the full device check workflow, read the [device check](/blog/turkey-esim-device-compatibility/).
+Phones managed by employer MDM may block eSIM installation. Check with IT before buying. For the full device check workflow, read the [device check](/blog/turkey-esim-device-compatibility/). Unsure whether your handset qualifies? A quick scan of [every supported phone model](/compatibility/) settles it before you talk to IT.
 
-### Turkey eSIM Regional Device Strategy
+### Device Strategy by Traveller
 
 | Device | eSIM | Best strategy |
 |---|---|---|
@@ -524,7 +538,7 @@ Phones managed by employer MDM may block eSIM installation. Check with IT before
 
 Sam and Lia bought a Europe plan that listed 35 countries but not Turkey, and found out mid-crossing. Their fix was two plans — one for Turkey, one for Greece — plus offline maps for the ferry handover.
 
-## Itinerary vs Plans
+## Itinerary vs eSIM Plans
 
 | Itinerary | Plans needed | Watch for |
 | --- | --- | --- |
@@ -532,7 +546,7 @@ Sam and Lia bought a Europe plan that listed 35 countries but not Turkey, and fo
 | Turkey plus Greece | Two plans or one verified regional | The 35 vs 36 trap |
 | Turkey plus Egypt and North Cyprus | Separate plans | North Cyprus exclusion |
 
-## FAQ: Regional Plans
+## FAQ: Regional eSIM Plans
 
 ### Does a Europe eSIM work in Turkey?
 
@@ -556,7 +570,7 @@ Single-country plans drop signal mid-crossing. A regional eSIM covering both cou
 
 ### Best eSIM for Turkey and Greece?
 
-Nomad 36-country Europe (10 GB / 30 days at $22). Muletek Eastern Med Coast if the itinerary also includes North Cyprus.
+Nomad 36-country Europe (10 GB / 30 days at $13). Muletek Eastern Med Coast if the itinerary also includes North Cyprus.
 
 ### Best eSIM for Turkey and Egypt?
 
@@ -598,7 +612,7 @@ Yes, when docked in Turkish ports. For Greek island stops, use a regional eSIM c
 
 Use this final checklist to verify country coverage, prepare your regional eSIM and recover if something fails at a border.
 
-### Before You Buy Turkey eSIM Regional Plan
+### Before You Buy
 
 - [ ] List every country on your itinerary
 - [ ] Find a regional plan whose country list includes all of them
@@ -612,7 +626,7 @@ Use this final checklist to verify country coverage, prepare your regional eSIM 
 - [ ] Check refund policy before paying. Read the [buy-online steps](/blog/buy-turkey-esim-online/).
 - [ ] Check support channel accessibility from Turkey
 
-### Before You Fly with Turkey eSIM Regional Plan
+### Before You Fly
 
 - [ ] Buy and install the regional eSIM on Wi-Fi. See the [install troubleshooting](/blog/how-turkey-esim-works-activation/).
 - [ ] Label the line “Regional”
@@ -625,7 +639,7 @@ Use this final checklist to verify country coverage, prepare your regional eSIM 
 - [ ] Install a backup eSIM if possible
 - [ ] Save emergency numbers offline
 
-### After Landing with Turkey eSIM Regional Plan
+### After Landing
 
 - [ ] Enable Data Roaming for the regional eSIM
 - [ ] Wait 2–5 minutes for network registration
@@ -636,9 +650,9 @@ Use this final checklist to verify country coverage, prepare your regional eSIM 
 - [ ] When crossing borders, verify the new network is included
 - [ ] Monitor data usage
 
-If your whole trip is inside one country, a single-country plan is simpler — don’t pay for Europe you won’t use. For Turkey plus Greece, Egypt or North Cyprus, [Roami’s regional eSIM](/turkey-esim/) covers the countries it lists and switches networks automatically, from $1.99 with 20% off for new users. For the big picture across all of Turkey, start with the [ultimate guide](/blog/turkey-esim-ultimate-guide/).
+If your whole trip is inside one country, a single-country plan is simpler — don’t pay for Europe you won’t use. For Turkey plus Greece, Egypt or North Cyprus, [Roami’s regional eSIM](/turkey-esim/) covers the countries it lists and switches networks automatically, from $2.99 with code web20 for 20% off. For the big picture across all of Turkey, start with the [ultimate guide](/blog/turkey-esim-ultimate-guide/).
 
-## Bottom Line
+## Bottom Line: The Region-Proof Pick
 
 - If you’re staying in one country, skip regional plans and buy a single-country eSIM.
 - Verify the country list before you buy a Europe plan — North Cyprus and Turkey need separate checks.

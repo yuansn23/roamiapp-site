@@ -2,14 +2,14 @@
 title: "Japan SIM Card Guide: Where to Buy and Best Plans"
 description: "Japan SIM card guide. Where to buy prepaid SIMs at airports, BIC Camera and convenience stores. Compare IIJmio, Mobal and Sakura."
 keywords: ["japan sim card", "sim card japan", "japan travel sim", "buy sim card japan", "japan prepaid sim", "japan data sim", "japanese sim card", "sim card for japan travel", "japan sim card price", "japan sim card cost", "best sim card for japan", "international sim card japan", "japan tourist sim", "japan unlimited sim", "japan sim card iphone", "where to buy sim card japan"]
-date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+date: 2026-09-14T00:00:00Z
+lastmod: 2026-09-14T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/japan-sim-card-guide.jpg"
 categories: ["Japan", "SIM Card", "Travel", "Guide"]
 tags: ["Japan SIM", "Physical SIM", "Travel", "Guide"]
-readingTime: 14
+readingTime: 11
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
@@ -54,9 +54,9 @@ recentPosts:
 ---
 
 
-## Introduction: Why a Physical SIM Still Matters in 2026
+## Introduction: Japan SIM Card vs eSIM — Why Physical SIMs Still Matter in 2026
 
-> **Key takeaways:** Physical SIM cards remain a reliable option in Japan, with b-mobile the budget pick at $13 for 5GB over 10 days and IIJmio's BIC SIM the best value for moderate users at $16.50 for 3GB over 30 days. Choose Mobal if you need a Japanese phone number or Sakura Mobile for unlimited data. Since April 2026, Japan requires a passport or residence card for every SIM and eSIM purchase, so keep your physical passport with you when you buy.
+> **Key takeaways:** Physical SIM cards remain a reliable option in Japan, with b-mobile the budget pick at $13 for 5GB over 10 days and IIJmio's BIC SIM the best value for moderate users at $16.50 for 3GB over 30 days. Choose Mobal if you need a Japanese phone number or Sakura Mobile for unlimited data. Japan's SIM rules tightened in 2026: an amendment passed by the Diet extends identity verification to data-only SIMs and adds passport checks for short-stay visitors, with the commencement date set by cabinet order. Voice SIMs have required photo ID for years, so keep your physical passport with you when you buy.
 
 In 2026, eSIM has become the default choice for most travelers with modern smartphones. It's faster, more convenient, and often cheaper. But what if your phone doesn't support eSIM? What if you're traveling with an older device, or you simply prefer the familiarity of a physical card?
 
@@ -64,7 +64,7 @@ In 2026, eSIM has become the default choice for most travelers with modern smart
 
 This guide covers everything you need to know about buying a **Japan SIM card** in 2026: where to find them, how much they cost, which providers offer the best value, and how to set one up when you arrive.
 
-If your phone does support eSIM, you might want to check our [Japan eSIM Ultimate Guide](/blog/japan-esim-ultimate-guide/) instead. But if you need a physical SIM — or just want to know your options — read on.
+If your phone does support eSIM, you might want to check our [Japan eSIM primer](/blog/japan-esim-ultimate-guide/) instead. But if you need a physical SIM — or just want to know your options — read on.
 
 ---
 
@@ -81,7 +81,7 @@ For most travelers in 2026, eSIM is the easiest and most affordable option. But 
 
 ---
 
-## Part 1: Types of Japan SIM Cards for Tourists
+## Part 1: Types of Japan SIM Cards (and How They Differ From an eSIM)
 
 ### Data-Only SIM Cards (Most Common)
 
@@ -93,7 +93,7 @@ Data-only SIM cards provide mobile internet access without a phone number. They'
 
 ### Voice + Data SIM Cards
 
-These SIM cards include a Japanese phone number, allowing you to make and receive traditional calls and SMS. You'll need one if you plan to make restaurant reservations, rent a car, or use services that require SMS verification.
+These SIM cards include a Japanese phone number, allowing you to make and receive traditional calls and SMS. It matters when a booking site, rental agency or domestic service asks for SMS verification.
 
 **Best for:** Long-term travelers, expats, business travelers, and anyone who needs a Japanese phone number.
 
@@ -116,7 +116,7 @@ Some providers offer "unlimited" data plans. However, as with eSIMs, "unlimited"
 Major international airports in Japan have multiple SIM card counters in the arrival halls.
 
 **Narita Airport (NRT):**
-- SoftBank counters in Terminals 1 and 2
+- [SoftBank](https://www.softbank.jp/en/) counters in Terminals 1 and 2
 - BIC Camera in Terminal 2 arrivals
 - JAL ABC counter (data SIMs from about $20 for 3 GB)
 
@@ -174,14 +174,35 @@ Several providers allow you to order a SIM card online before you leave home and
 
 Some airports and hotels now have vending machines selling prepaid SIM cards. This is a quick option if you arrive outside normal store hours.
 
+## Part 3: Buying a Japan SIM at Each Airport: What Is Actually Open When You Land
+
+### The three channels you will find in arrivals
+
+Every major Japanese international airport offers some combination of the same three things: a carrier counter, an electronics retailer with a SIM section, and a travel-SIM desk run by a specialist company. Narita spreads counters across Terminals 1 and 2, Haneda concentrates its largest retail presence in Terminal 3 alongside additional counters, Kansai clusters its options in Terminal 1 including English-speaking staff, and Chubu, Fukuoka and Naha each have at least one data-SIM channel in arrivals.
+
+| Airport | Channels you will find | Practical notes |
+|---|---|---|
+| Narita (NRT) | Carrier counters in Terminals 1 and 2, an electronics retailer in Terminal 2 arrivals, a travel-SIM desk | Busiest when a bank of long-haul flights lands at once |
+| Haneda (HND) | A retailer in Terminal 3 with long opening hours, a travel-SIM counter that runs around the clock, a carrier counter in Terminal 2 | The 24-hour option is the useful one for late arrivals |
+| Kansai (KIX) | Counters in Terminal 1, including English-speaking staff | The natural arrival point for Osaka and Kyoto |
+| Chubu, Fukuoka, Naha | At least one data-SIM channel in arrivals | Smaller selections and fewer plan tiers |
+
+### What airport counters are good at, and bad at
+
+The advantage is immediacy: you walk off the plane and leave connected, with staff who will often fit the card for you. The disadvantages are just as consistent across airports. Prices run higher than city electronics stores for the same allowance, queues build behind large arrivals, and the range of plans is narrower than what the same provider sells online.
+
+### When the airport is genuinely the right answer
+
+If your flight lands at an awkward hour, or your phone simply cannot take an eSIM, a counter or vending machine may be the only option open — and at that point the premium is worth paying rather than fighting with a phone at 11pm. For everyone else, an eSIM bought before departure arrives as an email and costs less per gigabyte than the same data bought on arrival; the [cost-per-gigabyte comparison](/blog/japan-esim-price-guide/) puts the two side by side.
+
 **Pros:** 24/7 availability, quick
 **Cons:** Limited selection, potentially higher prices
 
 ---
 
-## Part 3: Japan SIM Card Providers Compared (2026)
+## Part 4: Japan SIM Card Providers Compared (2026)
 
-Here are the most popular physical SIM card providers for tourists in Japan, based on publicly available pricing.
+Here are the most popular physical SIM card providers for tourists in Japan, based on publicly available pricing. To weigh them against digital options, the [how providers stack up](/blog/japan-esim-providers-comparison-guide/) normalises cost per GB.
 
 | Provider | Data | Duration | Price (USD) | Voice | Network | Best For |
 |----------|------|----------|-------------|-------|---------|----------|
@@ -189,20 +210,21 @@ Here are the most popular physical SIM card providers for tourists in Japan, bas
 | **b-mobile** | 7GB | 21 days | $13 | ❌ | NTT Docomo | Budget longer stays |
 | **IIJmio (BIC SIM)** | 3GB | 30 days | $16.50 | ❌ | NTT Docomo | Budget travelers |
 | **IIJmio (BIC SIM)** | 15GB | 30 days | — | ❌ | NTT Docomo | Moderate data users |
-| **Mobal** | 7GB | 8 days | $31.50 | ✅ | SoftBank | Need Japanese phone number |
+| **Mobal** | 25GB | 8 days | ~$31.50 | ✅ | SoftBank | Need Japanese phone number |
+| **Mobal** | 7GB | 30 days | ~$53 | ✅ | SoftBank | Long-term voice users |
 | **Sakura Mobile** | Unlimited | 8 days | $33 | ❌ | NTT Docomo / au | Heavy data, first-timers |
 | **Sakura Mobile** | Unlimited | 15 days | $55 | ❌ | NTT Docomo / au | Extended trips |
 | **Sakura Mobile** | Unlimited | 30 days | $99 | ❌ | NTT Docomo / au | Long stays |
 | **NTT Com** | 100MB/day | 7 days | $20 | ❌ | NTT Docomo | Light users |
 | **NTT Com** | 100MB/day | 14 days | — | ❌ | NTT Docomo | Light users |
 
-*Prices verified August 2026. Data compiled from provider websites and publicly available travel resources. USD conversions approximate. Check provider websites for current rates.*
+*Prices checked September 2026. Data compiled from provider websites and publicly available travel resources. USD conversions approximate. Check provider websites for current rates.*
 
 ### Provider Deep Dives
 
 #### b-mobile — Best Budget Option
 
-b-mobile offers some of the cheapest prepaid SIM cards in Japan, with plans starting at $13 for 5GB over 10 days. Their SIMs run on NTT Docomo's network, which provides the most extensive coverage in Japan.
+b-mobile offers some of the cheapest prepaid SIM cards in Japan, with plans starting at $13 for 5GB over 10 days. Their SIMs run on [NTT Docomo's network](https://www.docomo.ne.jp/english/), which provides the most extensive coverage in Japan.
 
 **Best for:** Budget travelers who need basic data for navigation and messaging.
 
@@ -240,6 +262,46 @@ Sakura Mobile is a Japan-based provider with excellent English-language support.
 
 NTT Communications offers a simple 100MB/day prepaid SIM plan. If you're a light user who mostly relies on hotel WiFi, this can be a cost-effective option.
 
+## Part 5: Which Physical SIM Should You Actually Buy?
+
+### Match the card to the job, not the brand
+
+| Your situation | Sensible choice | Why |
+|---|---|---|
+| Short trip, light data, tightest budget | b-mobile 5 GB / 10 days | One of the cheapest per-trip prices at the counter |
+| Two weeks of moderate use | IIJmio BIC SIM | Sold in electronics stores, Docomo coverage |
+| You need a Japanese number | Mobal | A real 070/080/090 number with voice |
+| Heavy data, or a first visit where English support matters | Sakura Mobile | Docomo or au coverage with English-speaking support |
+| Very light use, mostly hotel WiFi | NTT Communications prepaid SIM | A small daily allowance at a low price |
+
+### The honest caveat about physical SIM pricing
+
+Physical tourist SIMs generally cost more per gigabyte than an eSIM with the same allowance, and the gap is widest at the entry level. You are paying for the plastic, the counter staff and the ability to buy connectivity inside a terminal at almost any hour. That is a fair thing to pay for when it is the only route your phone supports, and a waste when it is not.
+
+### The one case where a physical card is the point
+
+If the reason you are buying a card is a Japanese phone number, the calculation changes completely. A voice-capable SIM or eSIM with an 070, 080 or 090 number is the only product that provides one, and no data plan substitutes for it. The [guide to Japanese numbers for visitors](/blog/japan-esim-with-phone-number/) covers who can get one, and our [carrier-by-carrier coverage notes](/blog/japan-esim-coverage-guide/) explain why the network behind the plan decides how well it works once you leave the cities. Both of the main visitor-facing providers, [Mobal](https://www.mobal.com/) and [Sakura Mobile](https://www.sakuramobile.jp/), publish their current plan terms and identification requirements on their own sites.
+
+## Part 6: What Japan's 2026 SIM Identity Rules Change at the Counter
+
+### The law, in plain terms
+
+Japan's Diet passed an amendment in 2026 that extends identity verification to **data-only** SIMs, where the requirement had previously focused on voice lines. It also provides for passport-based verification of foreign nationals who hold no Japanese address — the short-stay visitor case — and allows carriers to refuse service once one person holds an unusually large number of lines. The measure follows a record year of fraud losses and evidence that data-only connections were being used to reach victims.
+
+One detail decides how much you will notice: the commencement date is set by cabinet order rather than coinciding with passage. Until that order takes effect, practice at the counter and the text of the law can differ, so treat any confident claim about "the new rule" with caution and check the current position before you travel rather than a summary written months earlier.
+
+### Three purchase routes, three different answers
+
+| How you buy | Identity check today | What is changing |
+|---|---|---|
+| Data-only eSIM from an overseas seller, bought before you fly | None | Nothing — it is not a Japanese SIM contract |
+| Data-only SIM or eSIM bought inside Japan | Commonly completed with ID shown | This is the category the 2026 amendment targets |
+| Voice SIM or eSIM with a Japanese number | Photo ID has always been required | Unchanged |
+
+### What this looks like at the counter
+
+Carry your passport, keep it with you rather than in a suitcase, and allow more time than you would have a few years ago. Photographs and photocopies are not accepted for verification — staff need the physical document. If you would rather not spend your first hour in Japan on paperwork, buying a data-only eSIM before departure is the version of this decision that skips the queue and the check entirely.
+
 **Best for:** Light users who need basic connectivity for occasional map checks and messaging.
 
 **Network:** NTT Docomo
@@ -247,7 +309,7 @@ NTT Communications offers a simple 100MB/day prepaid SIM plan. If you're a light
 
 ---
 
-## Part 4: How to Buy and Activate a Japan SIM Card
+## Part 7: How to Buy and Activate a Japan SIM Card
 
 ### Step 1: Check Phone Compatibility
 
@@ -258,9 +320,9 @@ Before buying any SIM card, confirm two things:
 
 ### Step 2: Bring Your Passport
 
-**Important new rule for 2026:** Since April 1, 2026, Japan's Ministry of Internal Affairs and Communications (MIC) has required a **passport or residence card ID for every SIM and eSIM purchase** — including data-only plans.
+**Japan's SIM rules changed in 2026.** A voice SIM with a Japanese number has always required photo ID, and still does. What changed is that an amendment passed by the Diet extends identity verification to **data-only** SIMs and explicitly provides for passport-based verification of foreign nationals who have no Japanese address, which is the short-stay visitor case. The commencement date is set by cabinet order rather than falling on the day of passage, so counter practice can run ahead of or behind the written rule. Japan's [Ministry of Internal Affairs and Communications](https://www.soumu.go.jp/english/) oversees the framework.
 
-You **will not** be able to buy a SIM card in Japan without showing your passport. This applies to airport counters, electronics stores, and convenience stores alike.
+In practice, bring your passport when buying any SIM in Japan — at airport counters, electronics stores and convenience stores alike. A data-only eSIM bought from an overseas seller before you fly is the one route that involves no ID check at all, because it is not a Japanese SIM contract. Which of the three routes you are on is set out in Part 6.
 
 **Pro tip:** Keep your passport on you when shopping for a SIM. Digital copies or photos are not accepted — you need the physical document.
 
@@ -314,15 +376,29 @@ Most SIM cards require manual APN (Access Point Name) configuration. The APN set
 
 Once activated, open a browser or app to confirm data is working. If not, double-check the APN settings or restart your phone.
 
+## Part 8: What Happens When Your SIM Data Runs Out in Japan
+
+### Ask whether your SIM can be topped up at all
+
+This is the most useful question to ask before paying, and the answer differs by product. Some Japanese prepaid SIMs are single-purchase: when the allowance is gone, the plan is gone, and the fix is to buy another card. Others let you add data later through the provider's app or website. The difference only shows up at the worst moment — the second-to-last day, with one day of navigation left — so settle it while you are still standing at the counter.
+
+### The realistic mid-trip options
+
+If your card cannot be topped up, there are three routes: buy a second small SIM from an electronics store or convenience store, rent a pocket WiFi for the remaining days, or lean on Japan's public WiFi, which is genuinely good in hotels, cafés, convenience stores and most train stations. The second SIM is usually the cheapest and takes one visit to a BIC Camera or Yodobashi store.
+
+### Sizing the card so this never happens
+
+The arithmetic is straightforward. Light use — maps, messaging and translation — runs about 0.5 GB a day. Moderate use with social media runs 1–2 GB. Streaming and laptop tethering push past 3 GB. A card sized for the whole trip rather than for a week removes the problem at the planning stage, and our [data volume breakdown by trip length](/blog/japan-esim-ultimate-guide/) shows what each shape of trip actually consumes.
+
 ---
 
-## Part 5: When to Choose a Physical SIM Over eSIM or Pocket WiFi
+## Part 9: When to Choose a Physical SIM Over eSIM or Pocket WiFi
 
 Choosing between a physical SIM, eSIM, and pocket WiFi depends on your specific travel situation. Here's a detailed decision guide:
 
 ### Choose a Physical SIM if:
 
-- **Your phone does NOT support eSIM** — the most common reason. Check with `*#06#` on your phone's dialer. If you see an EID number, your phone supports eSIM. If you only see IMEI numbers, it does not.
+- **Your phone does NOT support eSIM** — the most common reason. Check with `*#06#` on your phone's dialer. If you see an EID number, your phone supports eSIM. If you only see IMEI numbers, it does not — or check our [phone compatibility check](/compatibility/).
 - **You're buying a voice-enabled plan** — eSIMs rarely include a Japanese phone number. If you need one for reservations or verification, a physical SIM from Mobal is often the simplest way.
 - **You prefer the familiarity of a physical card** — some travelers simply prefer having a tangible product they can swap between devices.
 - **You plan to use the SIM in multiple devices** — you can easily move a physical SIM between phones.
@@ -334,6 +410,7 @@ Choosing between a physical SIM, eSIM, and pocket WiFi depends on your specific 
 - **You want to keep your home SIM active** for calls and SMS while using the eSIM for data.
 - **You don't want to carry your passport while shopping** — eSIM can be bought online before travel.
 - **You're a solo traveler or couple** — eSIM offers the best cost-to-convenience ratio.
+- **You want to compare purchase channels first** — our [how to buy a Japan eSIM](/blog/buy-japan-esim-guide/) covers provider apps, travel platforms, airport kiosks and electronics stores side by side.
 
 ### Choose Pocket WiFi if:
 
@@ -343,11 +420,11 @@ Choosing between a physical SIM, eSIM, and pocket WiFi depends on your specific 
 
 ---
 
-## Part 6: Frequently Asked Questions
+## Part 10: Japan SIM Card FAQ
 
 ### Can I buy a Japan SIM card at the airport?
 
-Yes. Major airports including Narita, Haneda, Kansai, Chubu, Fukuoka, and Naha all have SIM card counters. You can buy a prepaid SIM card on arrival.
+Yes. Major airports including Narita, Haneda, Kansai, Chubu, Fukuoka, and Naha all have SIM card counters where you can buy a prepaid SIM on arrival, though our [buying guide](/blog/buy-japan-esim-guide/) shows how the price compares with ordering first.
 
 ### How much does a Japan SIM card cost?
 
@@ -358,7 +435,7 @@ Yes. Major airports including Narita, Haneda, Kansai, Chubu, Fukuoka, and Naha a
 
 ### Do I need a passport to buy a SIM card in Japan?
 
-**Yes.** Since April 2026, Japan requires a passport or residence card ID for every SIM and eSIM purchase — even data-only plans. You cannot buy a SIM without showing valid ID.
+It depends on the route. A voice SIM with a Japanese number has always required photo ID. A data-only SIM bought at a counter in Japan is where the rules tightened in 2026, when an amendment extended identity verification to data-only SIMs and added passport checks for short-stay visitors. A data-only eSIM bought from an overseas provider before departure involves no ID check, because it is not a Japanese SIM contract.
 
 ### Where can I buy a SIM card in Tokyo?
 
@@ -383,7 +460,7 @@ Yes, as long as your iPhone is carrier-unlocked. Physical SIM cards work with an
 
 ### Do Japan SIM cards include a phone number?
 
-Most data-only SIM cards do **not** include a phone number. If you need a Japanese phone number for calls or SMS, choose a provider like Mobal that offers voice-enabled plans.
+Most data-only SIM cards do **not** include a phone number. If you need a Japanese phone number for calls or SMS, choose a provider like Mobal that offers voice-enabled plans — the [calls and SMS plans](/blog/japan-esim-with-phone-number/) guide covers who can get one.
 
 ### Can I buy a Japan SIM card online before I travel?
 
@@ -395,7 +472,23 @@ For most tourists, **no**. Messaging apps cover person-to-person calls, and hote
 
 ### What's the difference between a tourist SIM and a regular Japanese SIM?
 
-Tourist SIMs are prepaid, require no contract, and don't require a Japanese address. Regular Japanese SIMs typically require a contract, a Japanese address, and a residence card.
+Tourist SIMs are prepaid, require no contract, and don't require a Japanese address. Regular Japanese SIMs typically require a contract, a Japanese address, and a residence card. If your handset is recent, the [device support notes](/blog/japan-esim-compatibility-guide/) may make a physical card unnecessary.
+
+### Can I top up a Japanese prepaid SIM card?
+
+Sometimes. Some prepaid tourist SIMs are single-purchase with no top-up route, while others let you add data through the provider's app or site. Ask before you pay, and if the answer is no, buy a card sized for the whole trip rather than one part of it.
+
+### Which is cheaper, a physical SIM or an eSIM?
+
+An eSIM with the same allowance is usually cheaper, and the gap is widest for small plans. A physical card remains the right buy when your phone cannot take an eSIM, when you want a Japanese number, or when your flight lands at an hour when nothing else is open.
+
+### Can I use a Japanese physical SIM in an eSIM-only phone?
+
+No — there is no tray to put it in. Apple's newer models sold in Japan, including the iPhone 17 series, are eSIM-only, and the iPhone Air has no SIM tray in any market. Those handsets need an eSIM, and the [device compatibility list](/blog/japan-esim-compatibility-guide/) shows which models are affected.
+
+### Are SIM prices at the airport higher than in town?
+
+Yes, typically. Airport counters charge more for the same allowance than city electronics stores, and they carry a narrower range of plans. You are paying for immediacy, and it is worth it mainly when your flight arrives late or your phone cannot use an eSIM.
 
 ---
 
@@ -420,11 +513,11 @@ Tourist SIMs are prepaid, require no contract, and don't require a Japanese addr
 
 **The bottom line:** Physical SIM cards are still a reliable option for Japan travel in 2026. They're available at airports, electronics stores, and convenience stores across the country. Prices start as low as $13 for budget plans, and you can find options for every trip length and data need.
 
-But if your phone supports eSIM, you might find it more convenient. Check our [Japan eSIM installation guide](/blog/japan-esim-installation-guide/) for setup instructions, or compare prices in our [Japan eSIM providers comparison guide](/blog/japan-esim-providers-comparison-guide/).
+But if your phone supports eSIM, you might find it more convenient. Check our [activate your eSIM](/blog/japan-esim-installation-guide/) for setup instructions, or compare prices in our [Japan eSIM providers comparison guide](/blog/japan-esim-providers-comparison-guide/).
 
 ---
 
-*Written by the Roami Team, mobile connectivity specialists with experience testing SIM and eSIM providers across Asia. This guide was updated in August 2026 based on publicly available information and provider documentation.*
+*Written by the Roami Team, mobile connectivity specialists with experience testing SIM and eSIM providers across Asia. This guide was updated in September 2026 based on publicly available information and provider documentation.*
 
-*Sources: Rebound Travel, Sakura Mobile, Rakumani, Japan Trip Navi, Wise.com, ANTARA News, and other travel technology publications.*
+*Sources: provider documentation from Mobal, Sakura Mobile, b-mobile, IIJmio, and NTT Communications; Japan's Ministry of Internal Affairs and Communications identity-verification rules; and publicly available travel resources. USD conversions approximate.*
 

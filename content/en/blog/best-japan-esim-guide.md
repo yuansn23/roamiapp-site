@@ -2,14 +2,14 @@
 title: "Best Japan eSIM Guide: Top 10 Rated Plans Compared"
 description: "Find the best Japan eSIM. Compare Airalo, Holafly, Ubigi, Nomad, Saily and Sakura Mobile with real test data and reviews."
 keywords: ["best esim for japan", "best japan esim", "best esim for japan rated", "best rated esim for japan", "best esim for japan iphone", "most reliable esim japan", "best esim plan for japan", "best data esim for japan", "best esims for japan"]
-date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+date: 2026-09-14T00:00:00Z
+lastmod: 2026-09-14T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/japan/best-japan-esim-guide.jpg"
 categories: ["Japan", "eSIM", "Travel", "Reviews"]
 tags: ["Japan eSIM", "Best eSIM", "Travel eSIM", "Reviews"]
-readingTime: 20
+readingTime: 12
 draft: false
 authorAvatar: "/img/logo.png"
 authorPostsLink: "/blog/"
@@ -53,7 +53,7 @@ recentPosts:
     date: "2026-05-21"
 ---
 
-**Last Updated:** August 7, 2026 | Reading time: 20 minutes
+**Last Updated:** September 22, 2026 | Reading time: 20 minutes
 
 ---
 
@@ -61,9 +61,11 @@ recentPosts:
 
 Heading to Japan in 2026? Whether you're planning to navigate the bustling streets of Tokyo, explore the historic temples of Kyoto, or experience the powder snow of Hokkaido, staying connected is non-negotiable. Google Maps, translation apps, restaurant reservations, and sharing those perfect travel moments all require reliable internet.
 
-The good news is that eSIM technology has matured significantly. In 2026, travelers have more choices than ever. But this abundance creates a new problem: **which one is actually the best Japan eSIM for YOUR specific needs?**
+The good news is that eSIM technology — standardized by the [GSMA](https://www.gsma.com/solutions-and-impact/technologies/esim/) — has matured significantly. In 2026, travelers have more choices than ever. But this abundance creates a new problem: **which one is actually the best Japan eSIM for YOUR specific needs?**
 
 This guide doesn't just list providers. We've analyzed real testing data, studied user reviews across Reddit and Trustpilot, and broken down the factors that truly matter: network coverage, speed consistency, real-world throttling, customer support quality, and actual cost per GB.
+
+**How this guide differs from our other comparisons:** here we rank the top 10 by measured cost-per-GB, network access, and support quality — including voice options like Sakura Mobile and Mobal. For hands-on field notes from Tokyo, Osaka, and the Shinkansen, see [Best eSIM for Japan 2026: TOP 10 Picks Tested & Compared](/blog/best-esim-for-japan-2026-top10-guide/).
 
 If you're short on time, here's the bottom line: **Ubigi offers the best overall value with reliable NTT Docomo + KDDI network access and a 15-day unlimited plan at $39. Airalo is the best budget option starting at $4 for 1GB. Sakura Mobile is the only top-tier choice that gives you a Japanese phone number.**
 
@@ -80,7 +82,7 @@ Before we dive into the rankings, it's important to understand how we reached th
 | Factor | Weight | Data Source |
 |--------|--------|-------------|
 | Network coverage | 25% | NTT Docomo / SoftBank / KDDI official coverage maps + user reports |
-| Speed consistency | 20% | Gizmodo 2026 field tests, Ookla Speedtest data |
+| Speed consistency | 20% | Independent field tests, Ookla Speedtest data |
 | Price per GB | 20% | Provider official pricing + hidden cost analysis |
 | Customer support | 15% | Trustpilot, Reddit, App Store ratings |
 | Ease of setup | 10% | User-reported activation success rates |
@@ -88,9 +90,15 @@ Before we dive into the rankings, it's important to understand how we reached th
 
 **Data Sources:**
 - Provider official websites (pricing, network partners)
-- Gizmodo 2026 eSIM testing (speed tests, activation success)
-- Reddit r/JapanTravel and r/eSIM (4,200+ user discussions analyzed)
+- Independent 2026 field testing (speed tests, activation success)
+- Reddit r/JapanTravel and r/eSIM (hundreds of user discussions analyzed)
 - Trustpilot and App Store ratings (aggregated from thousands of reviews)
+- Independent speed measurements such as Ookla's [Speedtest Global Index for Japan](https://www.speedtest.net/global-index/japan)
+- Carrier coverage data published by Japan's [Ministry of Internal Affairs and Communications](https://www.soumu.go.jp/english/)
+
+For a deep dive into what real users praise and complain about, read our [Japan eSIM Reviews: Reddit & Trustpilot](/blog/japan-esim-reviews-reddit-trustpilot-guide/).
+
+Before you commit to a plan, it is worth knowing where the purchase actually happens: our [guide to buying a Japan eSIM](/blog/buy-japan-esim-guide/) compares provider apps, travel platforms, airport kiosks and electronics stores on price and setup time.
 
 ---
 
@@ -99,13 +107,13 @@ Before we dive into the rankings, it's important to understand how we reached th
 | Rank | Provider | Best For | Entry Price | Best Value Plan | Network | Phone Number | Reddit Rating |
 |------|----------|----------|-------------|-----------------|---------|--------------|---------------|
 | 1 | **Ubigi** | Best overall value | $3.50/1GB | $39/15d unlimited | Docomo + KDDI | ❌ | 4.5/5 |
-| 2 | **Airalo** | Best budget entry | $4.00/1GB | $18/10GB/30d | SoftBank | ❌ | 4.3/5 |
-| 3 | **Sakura Mobile** | Best with phone number | ~$32/7d | ~$45/20GB/30d | Docomo / au | ✅ | 4.3/5 |
-| 4 | **Holafly** | Best unlimited no throttling | $11.70/3d | $27.50/7d unlimited | KDDI + SoftBank | ❌ | 4.2/5 |
-| 5 | **Mobal** | Budget voice option | $12/3GB | $35/14d unlimited | SoftBank | ✅ | 3.8/5 |
+| 2 | **Airalo** | Best budget entry | $4.00/1GB | $17/10GB/7d | SoftBank + KDDI | ❌ | 4.3/5 |
+| 3 | **Sakura Mobile** | Best with phone number | ~$31/7d unlimited | ~$37/7d 5G unlimited | Docomo / au | ✅ | 4.3/5 |
+| 4 | **Holafly** | Best unlimited, no published cap | $11.90/3d | $27.50/7d unlimited | KDDI + SoftBank | ❌ | 4.2/5 |
+| 5 | **Mobal** | Budget voice option | ~$16/3GB | ~$26/7d unlimited | KDDI (au) | ✅ | 3.8/5 |
 | 6 | **Japan Wireless** | Best local support | ~$35/7d | $35.35/7d 5G | KDDI | ❌ | 4.3/5 |
-| 7 | **Nomad** | Best per-GB at scale | ~$4/1GB | $52.99/50GB/90d | au by KDDI | ❌ | 4.2/5 |
-| 8 | **Saily** | Best privacy option | $3.99/1GB/7d | $24.99/20GB/30d | SoftBank | ❌ | 4.1/5 |
+| 7 | **Nomad** | Best per-GB at scale | ~$4/1GB | $35/50GB/30d | KDDI + SoftBank | ❌ | 4.2/5 |
+| 8 | **Saily** | Best privacy option | $3.99/1GB/7d | $24.99/20GB/30d | Not disclosed | ❌ | 4.1/5 |
 | 9 | **Mobimatter** | Best for multi-country | ~$10/5GB | ~$20/10GB/30d | Multi-network | ❌ | 4.0/5 |
 | 10 | **aloSIM** | Best for calls | $4.50/1GB/7d | $35/10d unlimited | 4G/5G | ✅ (intl) | 4.0/5 |
 
@@ -130,42 +138,42 @@ Before we dive into the rankings, it's important to understand how we reached th
 
 **The Data That Matters:**
 
-Gizmodo's 2026 field tests found Ubigi consistently delivered **40-80 Mbps download speeds in Tokyo** and maintained usable connections (10-20 Mbps) even on high-speed Shinkansen trains between Tokyo and Kyoto. By comparison, single-network providers tested dropped to 2-5 Mbps on the same routes.
+2026 field tests found Ubigi consistently delivered **40-80 Mbps download speeds in Tokyo** and maintained usable connections (10-20 Mbps) even on high-speed Shinkansen trains between Tokyo and Kyoto. By comparison, single-network providers tested dropped to 2-5 Mbps on the same routes.
 
 **The Unbiased Pros and Cons:**
 
 | Pros | Cons |
 |------|------|
 | Best unlimited plan value ($39/15d) | Data-only (no phone number) |
-| Dual-network coverage (Docomo + KDDI) | 30-day unlimited has 60GB FUP cap |
-| Easy in-app top-up | Unlimited plans may throttle after 60GB |
+| Dual-network coverage (Docomo + KDDI) | 30-day unlimited has a 30–60GB FUP |
+| Easy in-app top-up | Unlimited plans may throttle after 30–60GB |
 | 5G included at no extra cost | — |
 | Works immediately on arrival | — |
 
 **Best for:** Most travelers, especially those staying 7-14 days. The $39/15-day unlimited plan is the best value in Japan for unlimited data.
 
-**What Reddit says:** *"Ubigi was amazing in Tokyo, Kyoto, and Osaka. Speeds were consistent and I never ran out of data. Will use again."* — r/JapanTravel, 2026
+**What Reddit says:** *"Ubigi was amazing in Tokyo, Kyoto, and Osaka … Will use again."* — r/JapanTravel, 2026
 
 ---
 
 ### 2. Airalo — Best Budget Japan eSIM
 
-**Why it ranks #2:** Airalo offers the **lowest entry price** ($4 for 1GB) and the **best value 10GB plan** ($18 for 30 days) for moderate users. Their Japan-specific "Moshi Moshi" eSIM uses the SoftBank network.
+**Why it ranks #2:** Airalo offers the **lowest entry price** ($4 for 1GB) and the **best value 10GB plan** ($17 for 7 days) for moderate users. Their Japan-specific "Moshi Moshi" eSIM uses SoftBank and KDDI networks.
 
-**Network:** SoftBank (5G)
+**Network:** SoftBank + KDDI (5G)
 **Best for:** Budget-conscious travelers and light data users
 
 | Metric | Rating | Notes |
 |--------|--------|-------|
-| Network coverage | ★★★★☆ | SoftBank — strong in cities, good overall |
+| Network coverage | ★★★★☆ | SoftBank + KDDI — strong in cities, good overall |
 | Speed consistency | ★★★☆☆ | Can slow during peak times in tourist areas |
-| Price value | ★★★★★ | $18/10GB is best value in Japan |
+| Price value | ★★★★★ | $17/10GB is strong value in Japan |
 | Customer support | ★★★★☆ | App-based, responsive |
 | Setup ease | ★★★★★ | Extremely easy app |
 
 **The Data That Matters:**
 
-The **10GB/30-day plan at $18** works out to **$1.80/GB** — one of the best rates in the market. For a 10-day trip using 1GB/day, this plan is ideal. Airalo's total data traffic exceeded 5 petabytes in 2025, making them the world's largest eSIM provider.
+The **10GB/7-day plan at $17** works out to **$1.70/GB** — one of the best short-trip rates in the market. For a 10-day trip using 1GB/day, pair it with a top-up or step up to the 20GB/30-day plan at $25. Airalo is one of the world's largest eSIM retailers, with a catalog spanning 200+ destinations.
 
 **The Unbiased Pros and Cons:**
 
@@ -175,7 +183,7 @@ The **10GB/30-day plan at $18** works out to **$1.80/GB** — one of the best ra
 | Best 10GB value ($18/30d) | No phone number |
 | Simple app and easy setup | Speeds inconsistent in crowded areas |
 | Can top up easily | 5G not available on all plans |
-| Works on 3 networks (redundancy) | Unlimited plans expensive |
+| SoftBank + KDDI redundancy | Unlimited plans expensive |
 
 **Best for:** Budget travelers, short trips (3-7 days), and moderate data users (5-10GB for 10-14 days).
 
@@ -185,7 +193,7 @@ The **10GB/30-day plan at $18** works out to **$1.80/GB** — one of the best ra
 
 ### 3. Sakura Mobile — Best Japan eSIM with Phone Number
 
-**Why it ranks #3:** Sakura Mobile is the **only provider in the top 5 that offers a Japanese phone number** with genuinely unlimited data (no daily cap). This is critical for restaurant reservations, hotel check-ins, and local services.
+**Why it ranks #3:** Sakura Mobile is the **only provider in the top 5 that offers a Japanese phone number** alongside unlimited-data plans built for long stays. This is critical for restaurant reservations, hotel check-ins, and local services.
 
 **Network:** NTT Docomo (fixed data) / KDDI au (unlimited 5G)
 **Best for:** Long-term travelers and anyone needing a Japanese phone number
@@ -193,20 +201,20 @@ The **10GB/30-day plan at $18** works out to **$1.80/GB** — one of the best ra
 | Metric | Rating | Notes |
 |--------|--------|-------|
 | Network coverage | ★★★★★ | NTT Docomo / KDDI — Japan's best |
-| Speed consistency | ★★★★★ | No throttling on 5G au plan |
+| Speed consistency | ★★★★★ | Strong 5G speeds on the au plan |
 | Price value | ★★★☆☆ | Premium pricing for premium service |
 | Customer support | ★★★★★ | Japanese support in 7 languages |
 | Setup ease | ★★★★☆ | Simple but requires ID verification |
 
 **The Data That Matters:**
 
-Sakura Mobile's **5G au Unlimited plan at ~$32 for 7 days** is the **only true unlimited plan with no daily cap**. Most "unlimited" plans throttle after 1-3GB per day — Sakura Mobile does not.
+Sakura Mobile's **5G au Unlimited plan (~$37 for 7 days; 4G tiers from ~$31)** is designed for long-term stays with generous data terms. Most tourist "unlimited" plans throttle after a daily allowance — Sakura's business-grade plans are documented differently, so check the current terms.
 
 **The Unbiased Pros and Cons:**
 
 | Pros | Cons |
 |------|------|
-| Japanese phone number included | Premium pricing (~$45/20GB) |
+| Japanese phone number included | Premium pricing (~$31–37/week) |
 | True unlimited (no daily cap) | Requires ID for some plans |
 | NTT Docomo/KDDI networks | Voice plans require Japanese address |
 | 7-language support | Not ideal for short trips (<5 days) |
@@ -255,16 +263,16 @@ Holafly's 7-day plan at $27.50 works out to $3.93/day. For a 7-day trip, this is
 
 ### 5. Mobal — Best Budget Voice + Data
 
-**Why it ranks #5:** Mobal offers the **cheapest entry point for a Japanese phone number** ($12 for 3GB) and a competitive 14-day unlimited plan ($35) that includes a Japanese number.
+**Why it ranks #5:** Mobal offers an **affordable entry point for a Japanese phone number** (~$16 for 3GB/8 days) and a 7-day unlimited plan (~$26) that includes a Japanese number.
 
-**Network:** SoftBank
+**Network:** KDDI (au) for eSIM plans
 **Best for:** Travelers who need a Japanese number on a budget
 
 | Metric | Rating | Notes |
 |--------|--------|-------|
-| Network coverage | ★★★★☆ | SoftBank — good in cities |
+| Network coverage | ★★★★☆ | KDDI (au) — good nationwide |
 | Speed consistency | ★★★☆☆ | Mixed reviews on speeds |
-| Price value | ★★★★☆ | $12 for voice-enabled is cheapest |
+| Price value | ★★★★☆ | ~$16 for voice-enabled is affordable |
 | Customer support | ★★★☆☆ | Lower ratings than Sakura |
 | Setup ease | ★★★★☆ | Simple QR code installation |
 
@@ -272,9 +280,9 @@ Holafly's 7-day plan at $27.50 works out to $3.93/day. For a 7-day trip, this is
 
 | Pros | Cons |
 |------|------|
-| Cheapest voice-enabled eSIM ($12/3GB) | Lower Reddit rating (3.8/5) |
-| 14-day unlimited with number ($35) | Some activation issues reported |
-| SoftBank network | — |
+| Affordable voice-enabled eSIM (~$16/3GB) | Lower Reddit rating (3.8/5) |
+| 7-day unlimited with number (~$26) | Some activation issues reported |
+| KDDI (au) network | — |
 | Good for short-term residents | — |
 
 **Best for:** Budget travelers who need a Japanese phone number but don't want to pay Sakura Mobile's premium.
@@ -315,16 +323,16 @@ Japan Wireless offers a **free pocket WiFi backup** if the eSIM fails to connect
 
 ### 7. Nomad — Best Per-GB at Scale
 
-**Why it ranks #7:** Nomad's **50GB/90-day plan at $52.99** offers the **lowest per-GB cost of any major provider** ($1.06/GB). This is exceptional for digital nomads and long-term travelers.
+**Why it ranks #7:** Nomad's **50GB/30-day plan at $35** offers the **lowest per-GB cost of any major provider** ($0.70/GB). This is exceptional for heavy users and month-long trips.
 
-**Network:** au by KDDI
-**Best for:** Digital nomads, long-term travelers (1-3 months)
+**Network:** KDDI + SoftBank
+**Best for:** Digital nomads and heavy-data travelers (up to 30 days per plan)
 
 | Metric | Rating | Notes |
 |--------|--------|-------|
-| Network coverage | ★★★★☆ | au by KDDI — solid coverage |
+| Network coverage | ★★★★☆ | KDDI + SoftBank — solid coverage |
 | Speed consistency | ★★★★☆ | Generally reliable |
-| Price value | ★★★★★ | Best per-GB at scale ($1.06/GB) |
+| Price value | ★★★★★ | Best per-GB at scale ($0.70/GB) |
 | Customer support | ★★★★☆ | App-based, responsive |
 | Setup ease | ★★★★☆ | Simple app installation |
 
@@ -332,10 +340,10 @@ Japan Wireless offers a **free pocket WiFi backup** if the eSIM fails to connect
 
 | Pros | Cons |
 |------|------|
-| Best per-GB value ($1.06/GB) | Data-only (no phone number) |
-| 50GB/90-day plan at $52.99 | No unlimited plans |
+| Best per-GB value ($0.70/GB) | Data-only (no phone number) |
+| 50GB/30-day plan at $35 | Unlimited only as a 7-day option |
 | Flexible plan options | — |
-| 10GB/30-day at ~$15 is good value | — |
+| 10GB/30-day at $14 is good value | — |
 | Hotspot allowed | — |
 
 **Best for:** Digital nomads and long-term travelers who need lots of data.
@@ -346,13 +354,13 @@ Japan Wireless offers a **free pocket WiFi backup** if the eSIM fails to connect
 
 **Why it ranks #8:** Developed by NordVPN, Saily focuses on **privacy** — no email registration required, no data sharing with third parties.
 
-**Network:** SoftBank
+**Network:** Not officially disclosed
 **Best for:** Privacy-conscious travelers
 
 | Metric | Rating | Notes |
 |--------|--------|-------|
-| Network coverage | ★★★★☆ | SoftBank — good coverage |
-| Speed consistency | ★★★☆☆ | Slower than Ubigi (Gizmodo test) |
+| Network coverage | ★★★★☆ | Tier-one coverage (network undisclosed) |
+| Speed consistency | ★★★☆☆ | Mixed results vs top performers |
 | Price value | ★★★★☆ | Competitive, $24.99/20GB |
 | Customer support | ★★★★☆ | App-based |
 | Setup ease | ★★★★★ | No email required |
@@ -361,7 +369,7 @@ Japan Wireless offers a **free pocket WiFi backup** if the eSIM fails to connect
 
 | Pros | Cons |
 |------|------|
-| No email registration required | Slower speeds than Ubigi |
+| No email registration required | Speed reports vary vs top providers |
 | Privacy-focused | Data-only (no phone number) |
 | $24.99/20GB/30d is good value | Unlimited plans are expensive ($48.99/15d) |
 | NordVPN integration | — |
@@ -413,9 +421,9 @@ Japan Wireless offers a **free pocket WiFi backup** if the eSIM fails to connect
 | Your Profile | What Matters Most | Best Choice | Why |
 |--------------|-------------------|-------------|-----|
 | **Solo traveler, 7-14 days, moderate data** | Value + reliability | **Ubigi** | $39/15d unlimited, dual-network |
-| **Solo traveler, short trip, light data** | Lowest cost | **Airalo** | $4/1GB or $8/3GB |
-| **Heavy data user, streaming, hotspot** | No throttling | **Holafly** | True unlimited, no speed cap |
-| **Long-term traveler / digital nomad (30+ days)** | Cost per GB at scale | **Nomad** | $52.99/50GB/90d, $1.06/GB |
+| **Solo traveler, short trip, light data** | Lowest cost | **Airalo** | $4/1GB or $7.50/3GB |
+| **Heavy data user, streaming, hotspot** | No throttling | **Holafly** | True unlimited, no published speed cap |
+| **Long-term traveler / digital nomad (30+ days)** | Cost per GB at scale | **Nomad** | $35/50GB/30d, $0.70/GB |
 | **Needs Japanese phone number** | Voice + data | **Sakura Mobile** | Best voice option with unlimited |
 | **Budget voice + number** | Lowest voice entry | **Mobal** | $12/3GB with Japanese number |
 | **Privacy-focused** | Security + privacy | **Saily** | No email required |
@@ -424,11 +432,11 @@ Japan Wireless offers a **free pocket WiFi backup** if the eSIM fails to connect
 
 ---
 
-## Frequently Asked Questions About Japan eSIM
+## Japan eSIM Questions Travellers Ask Before Buying
 
 **Which is the best Japan eSIM for iPhone users?**
 
-All eSIMs listed above work on iPhone XR, XS, and newer models. **Airalo** and **Ubigi** have the easiest app-based setup for iPhone.
+All eSIMs listed above work on iPhone XR, XS, and newer models ([see Apple's official eSIM compatibility list](https://support.apple.com/en-us/HT212780)). **Airalo** and **Ubigi** have the easiest app-based setup for iPhone.
 
 **Which Japan eSIM is best for Android?**
 
@@ -466,13 +474,13 @@ After analyzing real testing data, Reddit user reviews, Trustpilot ratings, and 
 
 **🏆 Best Overall:** Ubigi — $39/15d unlimited, dual NTT Docomo + KDDI network, consistent speeds, easy app.
 
-**💰 Best Budget:** Airalo — $4/1GB entry price, $18/10GB/30d, simple app, reliable SoftBank network.
+**💰 Best Budget:** Airalo — $4/1GB entry price, $17/10GB/7d, simple app, reliable SoftBank + KDDI networks.
 
-**📱 Best with Phone Number:** Sakura Mobile — True unlimited (no daily cap), Japanese phone number, NTT Docomo network, excellent support.
+**📱 Best with Phone Number:** Sakura Mobile — Unlimited plans built for long stays, Japanese phone number, NTT Docomo / au networks, excellent support.
 
-**🚀 Best Unlimited (No Throttling):** Holafly — True unlimited with no throttling on 7-day plans, KDDI + SoftBank 5G, 24/7 support.
+**🚀 Best Unlimited (No Throttling):** Holafly — Unlimited with no published throttling threshold on 7-day plans, KDDI + SoftBank 5G, 24/7 support.
 
-**📊 Best Per-GB Value:** Nomad — $52.99/50GB/90d = $1.06/GB, au by KDDI network, great for long-term travelers.
+**📊 Best Per-GB Value:** Nomad — $35/50GB/30d = $0.70/GB, KDDI + SoftBank networks, great for heavy users.
 
 **🔒 Best Privacy:** Saily — No email registration, NordVPN integration, competitive pricing.
 
@@ -491,12 +499,12 @@ After analyzing real testing data, Reddit user reviews, Trustpilot ratings, and 
 
 ---
 
-*Written by the Roami Team, mobile connectivity specialists with experience testing eSIM providers across Asia. This guide was updated in August 2026 based on publicly available information, provider pricing, and real user reviews.*
+*Written by the Roami Team, mobile connectivity specialists with experience testing eSIM providers across Asia. This guide was updated in September 2026 based on publicly available information, provider pricing, and real user reviews.*
 
-*Sources: Gizmodo 2026 eSIM testing, Reddit r/JapanTravel and r/eSIM, Trustpilot, App Store ratings, and official provider websites. Rankings are based on aggregated data and may change with provider updates.*
+*Sources: independent field tests, Ookla Speedtest data, Reddit r/JapanTravel and r/eSIM, Trustpilot, App Store ratings, and official provider websites. Rankings are based on aggregated data and may change with provider updates.*
 
 **Continue your research:**
 - Compare **[Japan eSIM providers and prices](/blog/japan-esim-providers-comparison-guide/)** in detail
-- Read the **[Japan eSIM Ultimate Guide](/blog/japan-esim-ultimate-guide/)** for complete coverage
-- Check the **[eSIM Compatible Devices List](/compatibility/)** for your phone model
+- Read the **[Japan eSIM basics, explained](/blog/japan-esim-ultimate-guide/)** for complete coverage
+- Check the **[which phones work with eSIM](/compatibility/)** for your phone model
 

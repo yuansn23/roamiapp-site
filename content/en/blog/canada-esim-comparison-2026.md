@@ -2,8 +2,8 @@
 title: "Canada eSIM Comparison: 15+ Providers Price & Network"
 description: "Roami compares 15+ Canada eSIM providers by price, network, features, hotspot, phone number, and data. A database, not a guide."
 keywords: ["Canada eSIM comparison", "Canada eSIM providers", "Canada eSIM price comparison", "Canada eSIM network comparison", "Canada eSIM database 2026"]
-date: 2026-09-09T00:00:00Z
-lastmod: 2026-09-09T00:00:00Z
+date: 2026-09-19T00:00:00Z
+lastmod: 2026-09-19T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/canada/canada-esim-comparison-2026.jpg"
@@ -80,7 +80,7 @@ recentPosts:
 
 ## Quick Answer: How to Use This Canada eSIM Database
 
-This page is a **Canada eSIM comparison database**, not a buyer's guide. Use it to filter 15+ Canada eSIM providers by:
+This page is a **Canada eSIM comparison database**, not a buyer's guide. Use it to filter 15+ providers by:
 
 - **Price** — starting price, cost per GB, unlimited plan price
 - **Network** — which Canadian carriers they access (Rogers, Bell, Telus, multi-network)
@@ -96,13 +96,17 @@ This page is a **Canada eSIM comparison database**, not a buyer's guide. Use it 
 
 **Important:** Prices change frequently. We verify prices monthly. Last verified: September 1, 2026. If you spot an outdated price, contact us.
 
-**A note on our methodology:** This database combines publicly available provider information, coverage data from [CRTC](https://crtc.gc.ca/eng/phone/mobile/) and carrier maps, and user reports from communities like Reddit and Trustpilot. We clearly label where information comes from. We do not present unverifiable ratings, scores, or testing claims.
+**A note on our methodology:** This database combines publicly available provider information, coverage data from [CRTC](https://crtc.gc.ca/eng/phone/mobile/), carrier maps, and independent benchmarks such as [OpenSignal](https://www.opensignal.com/reports), plus user reports from communities like Reddit and Trustpilot. We clearly label where information comes from. We do not present unverifiable ratings, scores, or testing claims.
 
 **Want to test before you commit?** Start with a [free eSIM trial](/free-esim/) or a [Roami Canada eSIM plan](/canada-esim/) from **$1.99** to confirm compatibility and coverage on your phone. New users get **20% off** with code `web20`, plus Roami's **24/7 human support**.
 
-This database is a data comparison, not a narrative review. For tourist-specific picks and mistakes, see our [tourist eSIM picks](/blog/best-canada-esim-for-tourists-guide/). For network coverage by region, see our [Canada eSIM network coverage guide](/blog/canada-esim-coverage-guide/). For road trip planning, see our [road trip eSIM guide](/blog/best-esim-canada-road-trip-guide/).
+This database is a data comparison, not a narrative review. Where to go next:
 
-## Why Canada eSIM Comparison Matters
+- Short city break? Start with our [tourist eSIM picks](/blog/best-canada-esim-for-tourists-guide/).
+- Working remotely for a month or more? The [long-stay eSIM guide](/blog/best-canada-esim-for-travelers/) compares monthly options.
+- Mapping a route? The [Canada eSIM network coverage guide](/blog/canada-esim-coverage-guide/) ranks networks by region, and the [road trip eSIM guide](/blog/best-esim-canada-road-trip-guide/) plans data by highway.
+
+## Why This Comparison Matters
 
 The Canada eSIM market in 2026 is mature. There are more than 15 mainstream providers. The differences are mainly in:
 
@@ -113,18 +117,18 @@ The Canada eSIM market in 2026 is mature. There are more than 15 mainstream prov
 
 Without a clear comparison, you may overspend or discover in remote Canada that you have no signal. If you plan a road trip, coverage quality matters more than price—see our [road trip planning guide](/blog/best-esim-canada-road-trip-guide/).
 
-### Core Canada eSIM Comparison Table
+### Core Comparison Table: 15 Providers
 
-Below is a quick overview of **15 mainstream Canada eSIM providers** (prices in USD unless noted, data verified September 2026):
+Below is a quick overview of **15 mainstream providers** (prices in USD unless noted, data verified September 2026):
 
 | Provider | Best For | Starting Price | Unlimited Plan Price | Network | Phone Number | Hotspot | 5G | Per-GB Cost (Large Plan) | Common Complaint |
 |--------|--------|--------|-------------|------|--------|------|-----|------------------------|------------------|
-| **Ubigi** | Best Overall | $5 / 1GB / 7 days | $29/7 days, $59/30 days | Multi-network (4G/5G) | ❌ | ✅ | ✅ | $1.18 (50GB/$59) | Some Pixel users report connection issues |
-| **Saily** | Security & VPN | $4.50 / 1GB / 7 days | $76.49/30 days | Multi-network (4G/5G) | Optional US +1 | ✅ | ✅ | — | US number not accepted by Canadian banks |
-| **Holafly** | Unlimited Data | $20.90 / 3 days unlimited | All plans unlimited | Bell+Telus+SaskTel | Some plans | ⚠️Limited | ✅ | — | Throttling after 1–2GB despite "unlimited" |
-| **Airalo** | Calls & SMS | $6.50 / 1GB / 3 days | $75.50/30 days | Bell (mostly LTE) | ✅ (extra fee) | ✅ | ⚠️Mostly LTE | — | Bell-only network, weak rural coverage |
+| **Ubigi** | Best Overall | $5 / 1GB / 7 days | $25/7 days, $39/15 days, $65/30 days | Multi-network (4G/5G) | ❌ | ✅ | ✅ | $1.18 (50GB/$59) | Some Pixel users report connection issues |
+| **Saily** | Security & VPN | $5.29 / 1GB / 7 days | $76.49/30 days | Multi-network (4G/5G) | Optional US +1 | ✅ | ✅ | — | US number not accepted by Canadian banks |
+| **Holafly** | Unlimited Data | ~$19.90 / 3 days unlimited | All plans unlimited | Bell+Telus+SaskTel | Some plans | ⚠️Limited | ✅ | — | Throttling after 1–2GB despite "unlimited" |
+| **Airalo** | Calls & SMS | $7.00 / 1GB / 3 days | From ~$27/5 days | Bell (mostly LTE) | ✅ (extra fee) | ✅ | ⚠️Mostly LTE | — | Bell-only network, weak rural coverage |
 | **Jetpac** | Lowest Entry Price | $2 / 1GB / 4 days | Not available in Canada | Bell+Rogers+Telus | ❌ | ✅ | ✅ | — | No unlimited plan in Canada |
-| **Nomad** | Cost-Effective Large Data | $5 / 1GB | ~$38/7 days | Telus/Bell | ❌ | ✅ | ✅ | $1.38 | Unlimited plans have daily FUP (~2GB/day) |
+| **Nomad** | Cost-Effective Large Data | $7 / 1GB | ~$30/7 days | Telus/Bell | ❌ | ✅ | ✅ | $1.70 | Unlimited plans have daily FUP (~2GB/day) |
 | **HelloRoam** | Flexible Daily Payment | $3.35 / 1 day | $79.99/30 days/50GB | Rogers+Bell+Telus | ❌ | ✅ | ✅ | $1.60 (50GB/$79.99) | Limited brand recognition |
 | **Breeze** | Medium Budget | $4.00 / 1GB / 7 days | Depends on plan | North America multi-network | ❌ | ✅ | ✅ | — | Lower brand awareness |
 | **Maya Mobile** | Global Coverage | $1.67/day | Depends on plan | Multi-country | ❌ | ✅ | ✅ | — | Daily cost grows with trip length |
@@ -137,7 +141,7 @@ Below is a quick overview of **15 mainstream Canada eSIM providers** (prices in 
 
 *Note: Prices are verified monthly. Last verified: September 1, 2026. If you spot an outdated price, please contact us.*
 
-### Three Canada eSIM Decision Dimensions
+### Three Decision Dimensions
 
 **Dimension One: Network Coverage vs. Your Destination**  
 If you only visit Toronto, Vancouver, Montreal—any provider works. If you go to Banff, Jasper, or drive across Canada, network choice is crucial. See our [Canada eSIM coverage guide](/blog/canada-esim-coverage-guide/) for maps and coverage details.
@@ -160,7 +164,7 @@ We do not accept payment for rankings. Our comparison is based on:
 
 **What we do not do:** We do not rank providers by commission. We do not hide negative findings. If a provider has a common complaint, we include it in the table. We do not present unverifiable ratings or testing claims.
 
-### How to Read the Canada eSIM Tables
+### How to Read the Tables
 
 - **Starting Price:** The lowest-cost plan available for Canada. Often a small 1GB plan with short validity.
 - **Unlimited Plan Price:** The cost for a plan advertised as "unlimited." Always check the Fair Use Policy—many have daily high-speed caps.
@@ -182,10 +186,10 @@ This is the dimension budget-limited or short-term travelers care about most:
 | **Jetpac** | 1GB | 4 days | **$2** | ~C$2.70 | $2.00 |
 | **Breeze** | 1GB | 7 days | **$4.00** | ~C$5.40 | $4.00 |
 | **HelloRoam** | 1GB | 7 days | **$4.29** | ~C$5.80 | $4.29 |
-| **Saily** | 1GB | 7 days | **$4.50** | ~C$6.10 | $4.50 |
+| **Saily** | 1GB | 7 days | **$5.29** | ~C$7.15 | $5.29 |
 | **Ubigi** | 1GB | 7 days | **$5** | ~C$6.80 | $5.00 |
-| **Nomad** | 1GB | 7 days | **$5** | ~C$6.80 | $5.00 |
-| **Airalo** | 1GB | 3 days | **$6.50** | ~C$8.80 | $6.50 |
+| **Nomad** | 1GB | 7 days | **$7** | ~C$9.45 | $7.00 |
+| **Airalo** | 1GB | 3 days | **$7.00** | ~C$9.45 | $7.00 |
 | **Roamless** | 1GB | No expiry | **$3.89** | ~C$5.25 | $3.89 |
 
 *CAD conversion at 1 USD = 1.35 CAD, September 2026.*
@@ -199,7 +203,7 @@ For long-term travel or heavy data users, cost per GB is more important:
 | Provider | Plan | Total Price | Price per GB |
 |--------|------|------|----------|
 | **Ubigi** | 50GB / 30 days | **$59.00** | **$1.18** |
-| **Nomad** | Large data plans | — | **$1.38** |
+| **Nomad** | 10GB / 30 days | **$17.00** | **$1.70** |
 | **HelloRoam** | 50GB / 30 days | **$79.99** | **$1.60** |
 | **Roamless** | Pay-as-you-go | $3.89/GB | $3.89 |
 | **PhoneBox** | 75GB / month | C$30 | ~$0.40/GB (CAD) |
@@ -210,22 +214,22 @@ For long-term travel or heavy data users, cost per GB is more important:
 
 | Provider | 7 Days Unlimited | 15 Days Unlimited | 30 Days Unlimited |
 |--------|---------|----------|----------|
-| **Ubigi** | **$29** | **$45** | **$59** |
-| **Holafly** | ~$28.90 | ~$50.50 | **$93.90** |
+| **Ubigi** | **$25** | **$39** | **$65** |
+| **Holafly** | ~$36.90 | ~$50.90 | **$93.90** |
 | **Saily** | — | — | **$76.49** |
-| **Airalo** | — | — | **$75.50** |
+| **Airalo** | from ~$27 (5-day plan) | — | **$75.50** |
 | **SimCorner** | AU$38/5 days | — | — |
 
-**Observation:** **Ubigi is among the cheapest unlimited data plans**, at $29 for 7 days and $59 for 30 days. Holafly's 30-day unlimited plan ($93.90) is $34.90 more expensive than Ubigi.
+**Observation:** **Ubigi is among the cheapest unlimited data plans**, at $25 for 7 days and $65 for 30 days. Holafly's 30-day unlimited plan ($93.90) is $28.90 more expensive than Ubigi.
 
-### Canada eSIM vs Local Carrier Roaming
+### eSIM vs Local Carrier Roaming
 
 For reference, Canadian local carriers' roaming/daily plans:
 
 - **Bell Roam Better:** CAD $12/day
 - **Rogers Roam Like Home:** CAD $12/day
 
-For a 10-day trip, roaming fees alone would be **CAD $120**—much more expensive than most eSIM plans. Using an eSIM can save more than 80%.
+For a 10-day trip, roaming fees alone would be **CAD $120**—much more expensive than most eSIM plans. Using a Canada eSIM can save more than 80%.
 
 ### Real User Cost Calculation: Three Travel Scenarios
 
@@ -235,34 +239,49 @@ For a 10-day trip, roaming fees alone would be **CAD $120**—much more expensiv
 - Bell roaming: CAD $36 (~$27)—eSIM saves roughly 90%
 
 **Scenario Two: 7-Day Vancouver + Banff Trip**
-- Recommended: Ubigi $29/7 days unlimited
-- Total: **$29**
-- Rogers roaming: CAD $84 (~$62)—eSIM saves 50%+
-- Local SIM: CAD $50–75—eSIM saves 40–60%
+- Recommended: Ubigi $25/7 days unlimited
+- Total: **$25**
+- Rogers roaming: CAD $84 (~$62)—eSIM saves 60%+
+- Local SIM: CAD $50–75—eSIM saves 50–66%
 
 **Scenario Three: 14-Day Cross-Canada Road Trip**
-- Recommended: Ubigi $45/15 days unlimited or Nomad 10GB/$25
-- Total: **$25–45**
-- Bell roaming: CAD $168 (~$124)—eSIM saves 64–80%
+- Recommended: Ubigi $39/15 days unlimited or Nomad 10GB/$17
+- Total: **$17–39**
+- Bell roaming: CAD $168 (~$124)—eSIM saves 69–86%
 
 ### Canada eSIM Price Trends (2025–2026)
 
 | Provider | Plan | Sep 2025 Price | Sep 2026 Price | Change |
 |----------|------|----------------|----------------|--------|
 | Ubigi | 1GB/7 days | $4.50 | $5.00 | +11% |
-| Ubigi | Unlimited/7 days | $26 | $29 | +12% |
-| Holafly | Unlimited/7 days | $27 | $28.90 | +7% |
-| Airalo | 1GB/3 days | $6.00 | $6.50 | +8% |
+| Ubigi | Unlimited/7 days | $26 | $25 | −4% |
+| Holafly | Unlimited/7 days | $27 | ~$36.90 | +37% |
+| Airalo | 1GB/3 days | $6.00 | $7.00 | +17% |
 | Jetpac | 1GB/4 days | $2.00 | $2.00 | 0% |
-| Nomad | 1GB/7 days | $5.00 | $5.00 | 0% |
+| Nomad | 1GB/7 days | $5.00 | $7.00 | +40% |
 
-**Key trend:** Prices have risen slightly across most providers in 2025–2026, likely due to increased wholesale network costs. Jetpac and Nomad have held prices steady, making them relatively better value than a year ago.
+**Key trend:** Most providers raised entry-plan prices in 2025–2026, while unlimited plans held roughly steady — Ubigi actually cut its 7-day unlimited price. The value equation has shifted: small plans now cost proportionally more, which favors unlimited or larger plans for trips over a week. Treat every figure here as a snapshot, not a quote — confirm current pricing on the provider's site before buying.
+
+## Canada eSIM Plan Types: Prepaid, Postpaid and Pay-As-You-Go
+
+Almost every Canada eSIM sold to visitors is a **prepaid** plan: you pay up front, there is no contract, and the plan simply ends when the data or validity runs out. **Postpaid** plans — a monthly bill, a credit check, sometimes a Canadian address — are what local carriers sell residents. As a traveler you will rarely qualify, and you do not need one.
+
+**Pay-as-you-go** is the middle ground: providers such as Roamless let you hold a wallet and draw it down per GB, which suits infrequent trips. A few providers also sell non-expiring data that carries over between trips — flexible, but you pay a premium per GB for it.
+
+| Plan Size | Typical Price Band | Best For |
+|-----------|-------------------|----------|
+| 5 GB / 7–15 days | ≈$10–$20 | City trips, navigation and messaging |
+| 10 GB / 15–30 days | ≈$17–$32 | Two-week trips with daily maps and social |
+| 30 days / 20GB+ | ≈$30–$65 | Month-long stays and remote work |
+| Data only (no number) | Most plans | Everyone; add calls and SMS only if you need bank SMS or local registration |
+
+**Where the deals are:** entry 1GB plans carry the highest margin, so the effective price per GB drops sharply at 5 GB and 10 GB. Deal-hunters should compare the cost-per-GB table above rather than sticker prices — and treat any "unlimited" label as subject to a fair-use cap until you have read the fine print. Most plans in this database are data only; if you also need a Canadian number, check the [Canada eSIM with phone number guide](/blog/canada-esim-with-phone-number-guide/) before you buy.
 
 ## Canada eSIM Network Coverage Comparison
 
 ### Canada's Three Major Mobile Networks
 
-Canada's mobile networks are dominated by the **Big Three**. Understanding their performance in different regions is key to choosing an eSIM. For deeper coverage details, see our [Canada eSIM network coverage guide](/blog/canada-esim-coverage-guide/).
+Canada's mobile networks are dominated by the **Big Three**. Understanding their performance in different regions is key to choosing a Canada eSIM. For deeper coverage details, see our [Canada eSIM network coverage guide](/blog/canada-esim-coverage-guide/).
 
 | Network | Advantage Regions | Characteristics |
 |------|---------|------|
@@ -270,9 +289,9 @@ Canada's mobile networks are dominated by the **Big Three**. Understanding their
 | **Bell** | Ontario, Quebec, Atlantic provinces | Excellent in eastern Canadian cities |
 | **Telus** | BC, Alberta | Strong in western Canada (Vancouver, Banff, Calgary) |
 
-**Important:** Bell and Telus share base station networks across most of Canada. In many places, their physical coverage is similar. Rogers operates independently.
+**Important:** Bell and Telus run a shared tower network across most of Canada, so their physical footprints are often similar. Rogers builds and operates its own grid.
 
-### Network Usage by Canada eSIM Provider
+### Network Usage by Provider
 
 | Provider | Main Network | Network Diversity | 5G Support |
 |--------|---------|-----------|--------|
@@ -287,7 +306,7 @@ Canada's mobile networks are dominated by the **Big Three**. Understanding their
 | **PhoneBox** | Telus | Limited | ✅ |
 | **ByteSIM** | TELUS 5G | Limited | ✅ |
 
-### Canada eSIM Network Recommendations by Destination
+### Network Recommendations by Destination
 
 **City Travel Only** (Toronto, Vancouver, Montreal, Ottawa):
 - Any provider works; city 5G coverage is good.
@@ -305,7 +324,7 @@ Canada's mobile networks are dominated by the **Big Three**. Understanding their
 - Choose a **North America regional plan**.
 - Recommended: **Airalo North America Plan**, **Saily North America Plan**, **Jetpac North America Plan**. See our [USA and Canada eSIM guide](/blog/usa-and-canada-esim-guide/).
 
-### How to Verify a Canada eSIM Provider's Network
+### How to Verify a Provider's Network
 
 1. **Check the provider's website** — look for "network" or "coverage" in the plan details.
 2. **Read the eSIM profile** — after installation, the carrier name appears in your phone settings.
@@ -315,7 +334,7 @@ Canada's mobile networks are dominated by the **Big Three**. Understanding their
 
 ## Canada eSIM Feature Comparison
 
-### Feature Summary by Canada eSIM Provider
+### Feature Summary by Provider
 
 | Feature | Ubigi | Saily | Holafly | Airalo | Jetpac | Nomad | HelloRoam | PhoneBox | ByteSIM |
 |------|-------|-------|---------|--------|--------|-------|-----------|----------|---------|
@@ -327,7 +346,7 @@ Canada's mobile networks are dominated by the **Big Three**. Understanding their
 | Multi-network access | ✅ | — | ✅ (three) | ❌ (Bell only) | ✅ (three) | ✅ (dual) | ✅ (three) | ❌ (Telus only) | ❌ (TELUS) |
 | Customer service | 24/7 | App | AI/tickets | 24/7 WhatsApp | App | App | 24/7 | Human | App |
 
-### Canada eSIM Plans with Canadian Phone Numbers
+### Plans That Include a Canadian Phone Number
 
 **Why do you need a Canadian phone number?**
 - Register for Uber, DoorDash, and other local apps
@@ -345,7 +364,7 @@ For a full comparison, see our [numbered Canada eSIM guide](/blog/canada-esim-wi
 | **PhoneBox** | Canadian number | Included in plan | Long-term stayers |
 | **ByteSIM** | +1 Canadian number | Included in premium plan | Business, medium-term stays |
 
-### Canada eSIM Hotspot Support Details
+### Hotspot Support Details
 
 | Provider | Hotspot Support | Limit | Notes |
 |----------|-----------------|-------|-------|
@@ -359,7 +378,7 @@ For a full comparison, see our [numbered Canada eSIM guide](/blog/canada-esim-wi
 | PhoneBox | ✅ Yes | None | Large data plans |
 | ByteSIM | ✅ Yes | None | Business-ready |
 
-### Common Canada eSIM Complaints by Provider
+### Common Complaints by Provider
 
 We collected the most frequent complaints from public user reports on Reddit and Trustpilot:
 
@@ -374,13 +393,13 @@ We collected the most frequent complaints from public user reports on Reddit and
 | SimCorner | AUD pricing, exchange rate risk | Low |
 | PhoneBox | CAD pricing, better for 1+ month stays | Low |
 
-## Canada eSIM Provider Data Profiles
+## Provider Data Profiles
 
 This section is intentionally data-first. It is not a narrative review. Each provider profile lists price, network, features, pros/cons, best for, and common complaints. For full narrative reviews, see our [tourist-focused guide](/blog/best-canada-esim-for-tourists-guide/) and [route-by-route road trip guide](/blog/best-esim-canada-road-trip-guide/).
 
-### Ubigi Canada eSIM Profile
+### Ubigi Profile
 
-**Price:** $5/1GB/7 days; $29/7 days unlimited; $59/30 days unlimited; $99/year (5GB/month).  
+**Price:** $5/1GB/7 days; $25/7 days unlimited; $39/15 days unlimited; $65/30 days unlimited; $99/year (5GB/month).  
 **Network:** Multi-network, 4G/5G.  
 **Features:** Data-only, unlimited hotspot, QR activation, 24/7 support.  
 **Pros:** Low unlimited price; low per-GB for large plans; unlimited hotspot.  
@@ -389,9 +408,9 @@ This section is intentionally data-first. It is not a narrative review. Each pro
 **Data verified:** September 1, 2026.  
 **Common complaint:** Some Pixel users report connection issues.
 
-### Saily Canada eSIM Profile
+### Saily Profile
 
-**Price:** $4.50/1GB/7 days; $16.99/5 days unlimited; $76.49/30 days unlimited.  
+**Price:** $5.29/1GB/7 days; $16.99/5 days unlimited; $76.49/30 days unlimited.  
 **Network:** Major Canadian networks, 4G/5G.  
 **Features:** Optional US +1 number; NordVPN security; ad blocking; multi-trip eSIM.  
 **Pros:** Strong privacy; US number option.  
@@ -399,9 +418,9 @@ This section is intentionally data-first. It is not a narrative review. Each pro
 **Best for:** Privacy-focused travelers and US-Canada cross-border travelers.  
 **Common complaint:** US number not accepted by Canadian banks/government.
 
-### Holafly Canada eSIM Profile
+### Holafly Profile
 
-**Price:** $20.90/3 days; ~$28.90/7 days; ~$50.50/15 days; $93.90/30 days.  
+**Price:** ~$19.90/3 days; ~$36.90/7 days; ~$50.90/15 days; $93.90/30 days.  
 **Network:** Bell + Telus + SaskTel.  
 **Features:** Truly unthrottled unlimited; some plans include Canadian number; limited hotspot.  
 **Pros:** No daily FUP; wide three-network coverage.  
@@ -410,9 +429,9 @@ This section is intentionally data-first. It is not a narrative review. Each pro
 **User warning:** Some users report throttling despite "unlimited" claims. Read the FUP.  
 **Common complaint:** Throttling after 1–2GB; slow customer service.
 
-### Airalo Canada eSIM Profile
+### Airalo Profile
 
-**Price:** $6.50/1GB/3 days; $18/5GB/30 days; $23/10GB/30 days; $37/20GB/30 days; $17/3 days unlimited; $75.50/30 days unlimited.  
+**Price:** $7/1GB/3 days; $18/5GB/30 days; $23/10GB/30 days; $37/20GB/30 days; unlimited from ~$27/5 days; $75.50/30 days unlimited.  
 **Network:** Bell, mostly LTE.  
 **Features:** Optional Canadian calls/SMS from $8/3 days; North America plans; 24/7 WhatsApp.  
 **Pros:** Flexible; beginner-friendly; call/SMS add-on.  
@@ -420,9 +439,9 @@ This section is intentionally data-first. It is not a narrative review. Each pro
 **Best for:** eSIM beginners, travelers needing a Canadian number, multi-country travelers.  
 **Common complaint:** Bell-only network weak in rural areas.
 
-### Jetpac Canada eSIM Profile
+### Jetpac Profile
 
-**Price:** $2/1GB/4 days; $9–$16/5GB/30 days; $59.99/40GB/30 days.  
+**Price:** $2/1GB/4 days; $16.99/5GB/30 days; $59.99/40GB/30 days.  
 **Network:** Bell + Rogers + Telus.  
 **Features:** Hotspot; airport lounge benefits; free access to Uber, Google Maps, VoIP after data runs out.  
 **Pros:** Cheapest entry; three-network access.  
@@ -430,9 +449,9 @@ This section is intentionally data-first. It is not a narrative review. Each pro
 **Best for:** Budget travelers, short trips.  
 **Common complaint:** No unlimited plan; short validity on some plans.
 
-### Nomad Canada eSIM Profile
+### Nomad Profile
 
-**Price:** $5/1GB/7 days; $8/2GB/15 days; $14–18/5–10GB; $25/10GB/30 days; ~$38/7 days unlimited.  
+**Price:** $7/1GB/7 days; $13/5GB/30 days; $17/10GB/30 days; ~$30/7 days unlimited.  
 **Network:** Telus + Bell.  
 **Features:** Hotspot; automatic top-up; dual-network.  
 **Pros:** Low per-GB; automatic top-up.  
@@ -440,7 +459,7 @@ This section is intentionally data-first. It is not a narrative review. Each pro
 **Best for:** Large data users, multi-network coverage.  
 **Common complaint:** Unlimited plans have daily FUP.
 
-### HelloRoam Canada eSIM Profile
+### HelloRoam Profile
 
 **Price:** $3.49/1 day; $9.95/3 days; $21.50/7 days; $4.29/1GB/7 days; $79.99/50GB/30 days.  
 **Network:** Rogers + Bell + Telus, 5G.  
@@ -449,7 +468,7 @@ This section is intentionally data-first. It is not a narrative review. Each pro
 **Cons:** No calls/SMS.  
 **Best for:** Short-term travelers, flexible daily payment.
 
-### Breeze Canada eSIM Profile
+### Breeze Profile
 
 **Price:** $4.00/1GB/7 days; $9/5GB/30 days; $15/10GB/30 days.  
 **Network:** North America multi-network, 5G.  
@@ -458,7 +477,7 @@ This section is intentionally data-first. It is not a narrative review. Each pro
 **Cons:** Lower brand awareness.  
 **Best for:** Medium budgets, regular travel.
 
-### Maya Mobile Canada eSIM Profile
+### Maya Mobile Profile
 
 **Price:** $1.67/day; €4.35/1GB/5 days; 60-day validity options.  
 **Network:** 208+ countries.  
@@ -467,7 +486,7 @@ This section is intentionally data-first. It is not a narrative review. Each pro
 **Cons:** Daily cost grows with trip length.  
 **Best for:** Multi-country travelers, long-term travel.
 
-### SimCorner Canada eSIM Profile
+### SimCorner Profile
 
 **Price:** From AU$38/5 days unlimited; from £4 for 5G/4G.  
 **Network:** Rogers + Telus + Bell, auto-switching.  
@@ -477,7 +496,7 @@ This section is intentionally data-first. It is not a narrative review. Each pro
 **Best for:** Coverage stability, human customer service.  
 **Common complaint:** AUD pricing.
 
-### PhoneBox Canada eSIM Profile
+### PhoneBox Profile
 
 **Price:** C$25/5GB/month; C$28/30GB; C$30/75GB; C$35/100GB; C$50/120GB.  
 **Network:** Telus.  
@@ -486,7 +505,7 @@ This section is intentionally data-first. It is not a narrative review. Each pro
 **Cons:** CAD pricing; better for 1+ month stays.  
 **Best for:** Students, new immigrants, long-term business travelers.
 
-### ByteSIM Canada eSIM Profile
+### ByteSIM Profile
 
 **Price:** From $18.90.  
 **Network:** TELUS 5G exclusive.  
@@ -495,21 +514,26 @@ This section is intentionally data-first. It is not a narrative review. Each pro
 **Cons:** Fixed high-speed quota, stops when used up.  
 **Best for:** Business travelers, medium-term stays, users needing calls.
 
-### Other Canada eSIM Providers Worth Watching
+### Other Providers Worth Watching
 
 - **aloSIM:** Canadian local, 200+ countries, from $4.50/week.
 - **Yoho Mobile:** Flexible custom plans.
+- **Yesim:** app-first experience with unlimited-style options that ride Canadian networks.
+- **GigSky:** long-established global provider that runs on Rogers in Canada, with a free 100MB trial to test the connection before you pay.
+- **MobiMatter:** a marketplace that aggregates discounted regional plans from multiple brands.
+- **Simify:** straightforward fixed-data Canada plans aimed at short trips.
+- **Revolut:** an eSIM bought and managed inside the Revolut app, priced per plan or per GB.
 - **Roamless:** Pay-as-you-go, $3.89/GB, no expiry.
 - **eSIM-Now:** US-Canada regional plans.
 - **Lumbus:** US-Canada plans from $1.99/500MB/1 day.
 - **OVOSIM:** US-Canada-Mexico three-country eSIM from €6.99/1GB/7 days.
 - **BLIVALE:** Truly unlimited US-Canada, no FUP.
 
-## Filter Canada eSIM by Scenario
+## Filter by Scenario
 
 This section is a **filter**, not a recommendation. Use it to shortlist providers by scenario. For narrative recommendations, see our [Canada eSIM for long stays guide](/blog/best-canada-esim-for-travelers/) or [best tourist eSIM guide](/blog/best-canada-esim-for-tourists-guide/).
 
-### Canada eSIM Quick Filter Matrix
+### Quick Filter Matrix
 
 | Your Situation | Shortlist | Alternative | Reason |
 |---------|---------|------|------|
@@ -523,45 +547,45 @@ This section is a **filter**, not a recommendation. Use it to shortlist provider
 | **Large data/long-term stay** | **Ubigi** | Nomad | Low per-GB |
 | **Students/new immigrants (1 month+)** | **PhoneBox** | ByteSIM | Large data + local number |
 
-### Filter Canada eSIM by Trip Length
+### Filter by Trip Length
 
 **3–5 Day Short City Trip**
 - Shortlist: Jetpac $2/1GB/4 days
 - Alternative: Ubigi $5/1GB/7 days
 
 **1-Week Trip**
-- Shortlist: Ubigi $5/1GB/7 days or $29/7 days unlimited
-- Alternative: Nomad $5/1GB/7 days
+- Shortlist: Ubigi $5/1GB/7 days or $25/7 days unlimited
+- Alternative: Nomad $7/1GB/7 days
 
 **2-Week Trip**
-- Shortlist: Ubigi $29/7 days unlimited + renewal or $45/15 days unlimited
-- Alternative: Nomad medium data plan
+- Shortlist: Ubigi $25/7 days unlimited + renewal or $39/15 days unlimited
+- Alternative: Nomad 10GB/$17
 
 **1 Month+ Long-Term Stay**
-- Shortlist: Ubigi $59/30 days unlimited
+- Shortlist: Ubigi $65/30 days unlimited
 - Alternative: PhoneBox C$30/month/75GB (includes local number)
 
-### Filter Canada eSIM by Budget
+### Filter by Budget
 
 | Budget | Shortlist | Why |
 |--------|-------------|-----|
 | Under $5 | Jetpac $2/1GB, Roamless $3.89/GB | Cheapest entry |
-| $5–$15 | Ubigi $5/1GB, Nomad 5GB/$14 | Best value mid-range |
-| $15–$30 | Ubigi $29/7 days unlimited | Cheapest unlimited |
-| $30–$60 | Ubigi $45/15 days, Nomad 10GB/$25 | Long trips |
-| $60+ | Ubigi $59/30 days, Holafly 30 days | Heavy/long-term |
+| $5–$15 | Ubigi $5/1GB, Nomad 5GB/$13 | Best value mid-range |
+| $15–$30 | Ubigi $25/7 days unlimited | Cheapest unlimited |
+| $30–$60 | Ubigi $39/15 days, Nomad 10GB/$17 | Long trips |
+| $60+ | Ubigi $65/30 days, Holafly 30 days | Heavy/long-term |
 
 ## Canada eSIM Database FAQ
 
-### Which Canada eSIM Is the Cheapest?
+### Which Provider Is the Cheapest?
 
 **Cheapest entry:** Jetpac $2/1GB/4 days.  
 **Cheapest per GB for large data:** Ubigi 50GB/$59 = $1.18/GB.  
-**Cheapest unlimited:** Ubigi $29/7 days, $59/30 days.
+**Cheapest unlimited:** Ubigi $25/7 days, $65/30 days.
 
 **Low-risk entry point:** Roami's [Canada eSIM](/canada-esim/) starts at **$1.99** with **24/7 human support** and a **20% new-user discount** — a cheap way to test a network before buying a larger plan.
 
-### Which Canada eSIM Has the Best Coverage?
+### Which Provider Has the Best Coverage?
 
 Providers accessing the **most networks**:
 - **Holafly:** Bell + Telus + SaskTel
@@ -570,7 +594,7 @@ Providers accessing the **most networks**:
 
 For rural or road trips, prioritize three-network access.
 
-### Which Canada eSIM Includes a Phone Number?
+### Which Providers Include a Phone Number?
 
 - **Airalo:** Extra fee (from $8/3 days)
 - **Holafly:** Some unlimited plans
@@ -578,7 +602,7 @@ For rural or road trips, prioritize three-network access.
 - **PhoneBox:** Canadian local number included
 - **ByteSIM:** +1 Canadian number included
 
-### Which Canada eSIM Supports Hotspot Sharing?
+### Which Providers Support Hotspot Sharing?
 
 Most support it, but **Holafly** limits some plans. For reliable hotspot, choose **Ubigi**, **Jetpac**, or **Nomad**.
 
@@ -591,9 +615,9 @@ Most support it, but **Holafly** limits some plans. For reliable hotspot, choose
 | 7–14 days | Fixed data (5–10GB) or unlimited |
 | 14+ days | Unlimited data is more cost-effective |
 
-**Ubigi's unlimited plan ($29/7 days) is extremely cost-effective for 7+ days.**
+**Ubigi's unlimited plan ($25/7 days) is extremely cost-effective for 7+ days.**
 
-### Which Canada eSIM Provider Is Best for Banff and the Rockies?
+### Which Provider Is Best for Banff and the Rockies?
 
 For Banff, Jasper, and the Rocky Mountains, choose **Bell or Telus**. Providers with Bell/Telus access include:
 - Ubigi
@@ -604,7 +628,7 @@ For Banff, Jasper, and the Rocky Mountains, choose **Bell or Telus**. Providers 
 
 Avoid Rogers-only eSIMs in the Rockies. See our [Canada eSIM coverage guide](/blog/canada-esim-coverage-guide/) for dead zone information.
 
-### Which Canada eSIM Provider Is Best for the Trans-Canada Highway?
+### Which Provider Is Best for the Trans-Canada Highway?
 
 For the Trans-Canada Highway, **Rogers** has the widest rural coverage. Providers with Rogers access include:
 - HelloRoam
@@ -618,11 +642,11 @@ For route-by-route planning, see our [route planning guide](/blog/best-esim-cana
 
 Yes, if you cross the border. Regional plans cover both countries and switch automatically. They usually cost slightly more than Canada-only plans. See our [USA and Canada eSIM guide](/blog/usa-and-canada-esim-guide/).
 
-## Canada eSIM Database Summary
+## Summary: Choosing Your Provider
 
 When choosing a Canada eSIM, **there is no absolute "best," only the "most suitable."** Match the provider to your **trip length, data needs, phone number requirement, and destination**.
 
-### Final Canada eSIM Filter Table
+### Final Filter Table
 
 | Your Situation | Shortlist |
 |---------|---------|
@@ -633,7 +657,7 @@ When choosing a Canada eSIM, **there is no absolute "best," only the "most suita
 | **Road trip/rural** | Holafly or Jetpac — three-network coverage |
 | **Long-term stay (1 month+)** | PhoneBox — large data + local number |
 
-### Canada eSIM Database Key Takeaways
+### Key Takeaways
 
 1. **Ubigi wins on overall value**—cheapest unlimited, lowest per-GB for large plans, and unlimited hotspot.
 2. **Jetpac wins on entry price**—$2 for 1GB, ideal for short trips.
@@ -649,7 +673,7 @@ When choosing a Canada eSIM, **there is no absolute "best," only the "most suita
 4. **Download offline maps for remote areas**—Canada has vast signal blind spots.
 5. **Use discount codes**—many providers offer first-order discounts.
 
-**Before you buy:** If you are not sure which provider fits your trip, start with a [free eSIM trial](/free-esim/) or a [Roami Canada eSIM plan](/canada-esim/) from **$1.99**. New users get **20% off** with code `web20`, backed by Roami's **24/7 human support**.
+**Before you buy:** If you are not sure which provider fits your trip, start with a [free eSIM trial](/free-esim/) or a [Roami Canada eSIM plan](/canada-esim/) from **$1.99**. First order? Code `web20` takes **20% off**, with Roami's support team reachable around the clock.
 
 If you want real user reputations, see our [Canada eSIM Reddit reputation summary](/blog/best-canada-esim-reddit-guide/).
 

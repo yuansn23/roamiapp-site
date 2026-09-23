@@ -2,8 +2,8 @@
 title: "Traveller's Guide to UK eSIM Plans for Your UK Trip"
 description: "UK eSIM complete guide: costs, networks and setup for every trip. Roami auto-switches EE, Vodafone, O2 and Three. Find your plan."
 keywords: ["UK eSIM complete guide","UK eSIM for tourists","UK eSIM how it works","best way to get internet in UK","UK mobile data for tourists"]
-date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+date: 2026-09-15T00:00:00Z
+lastmod: 2026-09-15T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/uk/uk-esim-complete-guide.jpg"
@@ -66,9 +66,11 @@ recentPosts:
     date: "2026-05-21"
 ---
 
-A UK eSIM costs GBP 2-50 depending on data and duration. Choosing an eSIM for the UK means weighing network coverage, data allowance, and whether you need a phone number. EE covers 88% of the United Kingdom landmass. Three — Just 68%, according to Ofcom's Connected Nations report (2026). That gap matters when you're in the Scottish Highlands.
+A UK eSIM costs $2-80 depending on data and duration. Choosing an eSIM for the UK means weighing network coverage, data allowance, and whether you need a phone number. EE covers 88% of the United Kingdom landmass, and the other three networks cluster in the low-to-mid 80s on Ofcom's per-network figures. On paper that looks like a rounding difference — but the order of the bottom three shifts between reports, and independent drive-testing consistently puts Three last for rural reach. That gap is what matters when you're in the Scottish Highlands.
 
-An England eSIM works across all of Great Britain — England, Scotland, Wales, and Northern Ireland. A Great Britain eSIM connects to EE, Vodafone, O2, and Three through Roami's auto carrier switching for consistent speeds in UK cities and rural Great Britain alike.
+Do not buy two plans for one trip. England, Scotland, Wales and Northern Ireland share a single mobile market, so "England eSIM" and "Great Britain eSIM" are search terms for one product rather than three options. What actually changes your experience is how many networks your plan can reach: a multi-network eSIM such as Roami moves between EE, Vodafone and O2 on its own, which matters most on the long rural stretches where any single network thins out.
+
+This guide is written for the trip people actually take: a UK eSIM for tourists on a first visit, a UK eSIM for visitors returning for a second holiday, and the shorter working trip that behaves like neither. Data sizing, network choice and device support differ by trip type, so the sections below are ordered the way the decisions come up — what a UK eSIM is, whether your phone supports one, how much data your itinerary needs, which network covers it, and what it costs. If you are planning a UK holiday rather than a move, read the first four sections and skip the long-stay material.
 
 For most visitors, a [UK travel eSIM](/united-kingdom-esim/) is cheaper than roaming, faster to set up than physical SIMs, and activates the moment you land. Whether you grab a travel eSIM UK providers offer online or pick up a physical SIM at the airport, the convenience gap is hard to ignore. If you're still using your home carrier's $10/day international pass, stop. You're burning money.
 
@@ -78,7 +80,7 @@ An eSIM — short for "embedded SIM" — is a digital SIM card built into your p
 
 No SIM ejector tool. No tiny card to lose. No shop visit.
 
-Understanding **how UK eSIM works** is simple: you buy a plan online, scan a QR code, and your phone connects to UK networks automatically. The [GSMA](https://www.gsma.com/esim/), the global body that sets mobile standards, published the eSIM specification back in 2016. Every major phone manufacturer has adopted it since. [Apple](https://support.apple.com/en-us/118670) added support starting with the iPhone XS in 2018. Samsung followed with the Galaxy S20 series. Google's Pixel phones have supported eSIM since the Pixel 3.
+Understanding **how UK eSIM works** is simple: you buy a plan online, scan a QR code, and your phone connects to UK networks automatically. The [GSMA](https://www.gsma.com/solutions-and-impact/technologies/esim/), the global body that sets mobile standards, published the eSIM specification back in 2016. Every major phone manufacturer has adopted it since. [Apple](https://support.apple.com/en-us/118669) added support starting with the iPhone XS in 2018. Samsung followed with the Galaxy S20 series. Google's Pixel phones have supported eSIM since the Pixel 3.
 
 In the US, the iPhone 14 and later models don't even have a physical SIM tray anymore — they're eSIM-only. If you bought a new iPhone in America, you're already using eSIM whether you know it or not.
 
@@ -92,8 +94,8 @@ Here's the comparison:
 
 | Method | Setup Time | Cost (7 days, 10 GB) | Convenience |
 |---|---|---|---|
-| Home carrier roaming | Instant | $70-100 (Verizon TravelPass, etc.) | Works automatically but expensive |
-| UK eSIM | 5 min before travel | $8-15 | Buy online, install at home, activate on landing |
+| Home carrier roaming | Instant | $70-84 (AT&T $12/day, Verizon $10/day) | Works automatically but expensive |
+| UK eSIM | 5 min before travel | $8-18 | Buy online, install at home, activate on landing |
 | Airport SIM card | 30-60 min queue | $20-30 | Hunt for a shop, wait in line, insert physical card |
 | UK Prepaid SIM (online) | 2-5 days shipping | $10-20 | Order before trip, wait for delivery, activate on arrival |
 
@@ -101,11 +103,11 @@ The eSIM wins on every measure. It's cheaper than roaming. More convenient than 
 
 But let's be honest: airport SIMs still have one advantage. If your phone doesn't support eSIM (compatibility is covered below in a moment), the Heathrow kiosk is your only option. Check your phone first.
 
-## How Does a UK eSIM Actually Work?
+## Inside a UK eSIM Profile
 
-A UK eSIM works by downloading an authentication profile onto your phone that connects you to one or more of the United Kingdom’s four major mobile networks — EE, Vodafone, O2, and Three. Roami automatically switches between all four based on signal strength at your location. You don’t pick networks. Your phone does.
+A UK eSIM works by downloading an authentication profile onto your phone that connects you to one or more of the United Kingdom’s major mobile networks — EE, Vodafone, O2, and Three. Roami automatically switches between EE, Vodafone, and O2 based on signal strength at your location. You don’t pick networks. Your phone does.
 
-**The Technical Side (How UK eSIM Works)**
+### The Technical Side (How UK eSIM Works)
 
 A UK eSIM connects you to the United Kingdom’s four major mobile networks: **EE**, **Vodafone**, **O2**, and **Three**. These four operators own the physical infrastructure — the phone masts, the fibre backhaul, the spectrum licences. When you connect to a UK network, you’re borrowing their towers.
 
@@ -113,30 +115,30 @@ The eSIM profile on your phone contains authentication credentials that identify
 
 That’s essentially **how UK eSIM works** in practice. No magic. Just software.
 
-Different providers handle network access differently. Some partner with a single network. Airalo typically uses Three. Holafly usually uses O2 or Three. Nomad generally uses Three. That’s fine — as long as you’re in an area where that specific network has good coverage.
+Different providers handle network access differently. Some partner with a single network. Airalo typically uses EE (at 4G speeds). Holafly usually uses O2, Vodafone, or Three. Nomad generally uses Three. That’s fine — as long as you’re in an area where that specific network has good coverage.
 
 But ask anyone who’s been stuck on Three in the Scottish Highlands: "fine" turns into "why does nothing load?" real fast.
 
-**Roami** does things differently. Instead of locking you to one network, Roami’s eSIM automatically switches between all four — EE, Vodafone, O2, and Three — based on which one has the strongest signal at your location. If EE is congested near Liverpool Street but O2 is fast three blocks away, Roami puts you on O2. If you move to an area where Three has a strong signal, it switches you again.
+**Roami** does things differently. Instead of locking you to one network, Roami’s eSIM automatically switches between three — EE, Vodafone, and O2 — based on which one has the strongest signal at your location. If EE is congested near Liverpool Street but O2 is fast three blocks away, Roami puts you on O2. If you move to an area where Vodafone has a stronger signal, it switches you again.
 
 You don’t notice the switching. You just notice your data keeps working.
 
-**Why Auto Carrier Switching Matters**
+### Why Auto Carrier Switching Matters
 
 This isn’t a marketing gimmick. In central London, network congestion varies dramatically within a few hundred metres. At a Liverpool Street coffee shop, EE might be blazing fast at 200 Mbps. Walk five minutes to Bishopsgate, and suddenly Vodafone is performing better while EE slows to a crawl.
 
 With a single-network plan, you’re stuck. With Roami, your phone finds the strongest connection automatically, often within 15-30 seconds of the current network degrading.
 
-The same logic applies when you travel between cities. In London, EE might be strongest. Take the train to Edinburgh, and Three or Vodafone might be stronger. Roami handles these transitions seamlessly.
+The same logic applies when you travel between cities. In London, EE might be strongest. Take the train to Edinburgh, and Vodafone might be stronger. Roami handles these transitions seamlessly.
 
-A [multi-network UK eSIM](/united-kingdom-esim/) with automatic carrier switching across all four networks ensures you stay on the fastest available connection whether you’re in a congested city centre or a rural village. On a typical 7-hour drive from London to Edinburgh, a multi-network eSIM may switch between carriers over a dozen times as it moves through different coverage zones — without the user ever noticing.
+A [multi-network UK eSIM](/united-kingdom-esim/) with automatic carrier switching across multiple networks ensures you stay on the fastest available connection whether you’re in a congested city centre or a rural village. On a typical 7-hour drive from London to Edinburgh, a multi-network eSIM may switch between carriers over a dozen times as it moves through different coverage zones — without the user ever noticing.
 
-**What Happens When You First Connect**
+### What Happens When You First Connect
 
 When you land at Heathrow or Gatwick and enable your Roami UK eSIM, here’s the sequence:
 
 1. Your phone scans for available UK mobile networks
-2. Roami’s system identifies which of the four networks has the strongest signal at the airport
+2. Roami’s system identifies which of its three networks has the strongest signal at the airport
 3. Your phone connects to that network and authenticates
 4. Within 10-20 seconds, you see a UK network name in your status bar
 5. Your data starts flowing — you can open Google Maps, WhatsApp, or your browser
@@ -153,14 +155,14 @@ For most travellers, a UK eSIM is the better choice. You buy it and install it b
 
 Here's the honest breakdown.
 
-**UK eSIM advantages:**
+### UK eSIM advantages
 - Buy and install before you travel, no waiting for delivery
 - No physical card to lose or damage
 - Switch between multiple plans without swapping cards
 - Works with dual SIM setups (eSIM for data, physical SIM for home number)
 - Can't be stolen or fall out of your phone
 
-**Physical SIM advantages:**
+### Physical SIM advantages
 - Works on any unlocked phone, even older models
 - Familiar process that most people understand
 - Easy to buy in shops across the United Kingdom
@@ -193,36 +195,36 @@ The full guide to navigating post-Brexit roaming, including the two-plan strateg
 
 ## How Much Does a UK eSIM Cost for Tourists?
 
-A UK eSIM for tourists costs between $3 and $80 depending on data allowance and duration. A UK prepaid eSIM card for tourist use typically falls in the $8-30 range for a week or two of moderate data, with a 1-3 GB ultra-light plan at $3-8 for 7 days and a 50-100 GB long-stay plan at $40-80 for 60-90 days. The answer depends on how much data you need and how long you're staying. Here's the realistic price range.
+A UK eSIM for tourists costs between $2 and $80 depending on data allowance and duration. A UK prepaid eSIM card for tourist use typically falls in the $8-30 range for a week or two of moderate data, with a 1-3 GB ultra-light plan at $3-8 for 7 days and a 50-100 GB long-stay plan at $40-80 for 60-90 days. The answer depends on how much data you need and how long you're staying. Here's the realistic price range.
 
 | Plan Type | Data | Duration | Typical Price Range |
 |---|---|---|---|
-| Ultra-light | 1-3 GB | 7 days | $3-8 |
+| Ultra-light | 1-3 GB | 7 days | $2-8 |
 | Light | 5-10 GB | 7-15 days | $8-15 |
 | Standard | 15-30 GB | 15-30 days | $15-30 |
 | Heavy | 50 GB | 30 days | $25-40 |
 | Long-stay | 50-100 GB | 60-90 days | $40-80 |
 
-These prices assume you're buying from a competitive eSIM provider. Airport SIM cards and roaming from your home carrier are significantly more expensive. Roami's pricing sits at the competitive end of this range, and with the promo code **WEB20**, you get an additional **20% off** any plan.
+These prices assume you're buying from a competitive eSIM provider. Airport SIM cards and roaming from your home carrier are significantly more expensive. Roami's pricing sits at the cheapest end of this range — the 1GB/3-day plan at $1.99 is the lowest verified entry price in the market — and with the promo code **web20**, you get an additional **20% off** any plan.
 
 For a complete breakdown of every pricing tier, including cost per GB comparisons and hidden fees to watch for, see the [UK eSIM pricing](/blog/uk-esim-price-guide/).
 
-**Factors That Affect the Price**
+### Factors That Affect the Price
 
 Several things influence how much you'll pay:
 
-1. **Data allowance**: More data costs more, but the per-GB price drops as you buy larger allowances. A 50 GB plan typically costs less per GB than a 5 GB plan. Airalo charges $8 for 5GB — that's $1.60/GB — while Roami's 50GB plan pushes per-GB costs under $0.80. Half the price, and you get four networks instead of one.
+1. **Data allowance**: More data costs more, but the per-GB price drops as you buy larger allowances. Airalo charges $13 for 5GB — that's $2.60/GB — while its 20GB plan at $31 works out to $1.55/GB. Roami's 10GB for 3 days at $7.99 undercuts both at roughly $0.80/GB, and you get three networks instead of one.
 2. **Duration**: Longer plans have a higher absolute price but better value per day. A 30-day plan is much more economical than buying two 15-day plans back to back. Don't be fooled by the lower headline number on a short plan.
-3. **Network quality**: Plans with access to multiple networks (like Roami's auto-switching) may cost slightly more than single-network plans. But the reliability improvement pays for itself the first time you don't drop a client call in a dead zone.
+3. **Network quality**: Plans with access to multiple networks (like Roami's auto-switching) don't have to cost more — Roami's entry plans undercut most single-network competitors. The reliability improvement pays for itself the first time you don't drop a client call in a dead zone.
 4. **Top-up capability**: Some providers let you top up your existing plan. Others make you buy a new eSIM from scratch. Plans with top-up support are more flexible and better value for longer stays.
 
 ## Is UK eSIM Worth It for Tourists?
 
-A UK eSIM is absolutely worth it for tourists. A 10GB plan costs $12-18 compared to $50-70 through home carrier roaming. That's $40-60 saved per week — enough for a decent dinner in Soho or two rounds at a proper London pub.
+A UK eSIM is absolutely worth it for tourists. A 10GB plan costs $8-18 compared to $70-84 per week on US carrier day passes (AT&T's International Day Pass runs $12/day). That's $27-76 saved per week — enough for a decent dinner in Soho or two rounds at a proper London pub.
 
 Here's why **UK eSIM for tourists** makes sense:
 
-1. **Cost savings**: A 10GB UK eSIM costs $12-18. The same data through home carrier roaming costs $50-70. You save $40-60 per week. Multiply that by a two-week trip, and you've saved enough for a train ticket to Edinburgh.
+1. **Cost savings**: A 10GB UK eSIM costs $8-18. The same week on AT&T's $12/day pass costs $84; Verizon's TravelPass runs $70. You save $27-76 per week. Multiply that by a two-week trip, and you've saved enough for a train ticket to Edinburgh.
 2. **Convenience**: Install before you leave, activate on landing. No airport queues, no SIM swaps, no hunting for shops. From purchase confirmation to installed eSIM typically takes under 5 minutes on home WiFi.
 3. **5G availability**: UK eSIMs connect to EE, Vodafone, O2, and Three's 5G networks. In central London, EE's 5G network delivers speeds exceeding 300 Mbps in ideal conditions, according to Opensignal data — faster than most hotel WiFi.
 4. **Dual SIM support**: Keep your home number active for 2FA and calls while using UK data. Your bank texts still arrive. Your mum can still reach you.
@@ -234,11 +236,11 @@ But here's one scenario where it's not worth it: if you're only in the UK for 6 
 
 ## Which Phones Support a UK eSIM?
 
-Almost every modern phone supports eSIM — all iPhones from the XS/XR (2018) onwards, Samsung Galaxy S20 series (2020) and later, Google Pixel 3 (2018) and later, and many recent Android models from OnePlus, Motorola, and Sony are all compatible with a UK eSIM.
+Almost every modern phone supports eSIM — all iPhones from the XS/XR (2018) onwards, Samsung Galaxy S20 series (2020) and later, Google Pixel 3 (2018) and later, and many recent Android models from OnePlus, Motorola, and Sony are all compatible with a UK eSIM. One caveat now that the UK has switched off 3G: the handset also needs 4G and VoLTE for voice calls to connect, and Wi-Fi calling (VoWiFi) is a useful backup indoors.
 
 Before you buy a UK eSIM, you need to make sure your phone supports it. The good news is that almost every modern phone does. Here's the compatibility breakdown by manufacturer.
 
-**Apple iPhone**
+### Apple iPhone
 All iPhones from the **iPhone XS, iPhone XS Max, and iPhone XR (2018)** onwards support eSIM. This includes:
 
 - iPhone XS / XS Max / XR
@@ -255,7 +257,7 @@ The iPhone 14 and later models sold in the US are eSIM-only —they don't have a
 
 iPhones support dual eSIM (two active eSIMs at once) from the iPhone 13 onwards. Earlier models support one physical SIM and one eSIM.
 
-**Samsung Galaxy**
+### Samsung Galaxy
 Samsung added support starting with the **Galaxy S20 series (2020)**. Compatible models include:
 
 - Galaxy S20, S20+, S20 Ultra
@@ -270,7 +272,7 @@ Samsung added support starting with the **Galaxy S20 series (2020)**. Compatible
 
 Older Samsung models and some regional variants (particularly Chinese-market models) may not support eSIM. Check your phone's settings or your carrier's documentation if you're unsure.
 
-**Google Pixel**
+### Google Pixel
 All Google Pixel phones from the **Pixel 3 (2018)** onwards support eSIM:
 
 - Pixel 3, 3 XL, 3a, 3a XL
@@ -284,7 +286,7 @@ All Google Pixel phones from the **Pixel 3 (2018)** onwards support eSIM:
 
 Google's implementation of eSIM is strong and supports dual SIM configurations seamlessly.
 
-**Other Android Manufacturers**
+### Other Android Manufacturers
 - **OnePlus**: eSIM support from OnePlus 11 onwards, and on the OnePlus Open
 - **Xiaomi**: Limited support. The Xiaomi 13 and 14 series support it in some regions, but Chinese-market models generally don't
 - **Huawei**: Limited support due to US sanctions. The Huawei P40 and Mate 40 series support eSIM in some markets
@@ -292,7 +294,7 @@ Google's implementation of eSIM is strong and supports dual SIM configurations s
 - **Motorola**: Razr (2019 and later), Edge series from 2021 onwards
 - **Nothing**: Phone (1) and Phone (2) both support eSIM
 
-**How to Check If Your Phone Supports eSIM**
+### Checking eSIM Support in Your Phone Settings
 If you're not sure, here's a quick check:
 
 **iPhone:** Go to Settings > General > About. If you see "Digital SIM" or an "IMEI (eSIM)" entry, your phone supports it.
@@ -311,7 +313,7 @@ If you have an older phone that doesn't support eSIM, you have a few options:
 3. Use a portable WiFi hotspot device with a SIM slot
 4. Use your home carrier's international roaming (more expensive but works)
 
-For a full compatibility list covering hundreds of device models, the [UK eSIM setup](/blog/uk-esim-setup-guide/) includes detailed compatibility tables.
+For a full compatibility list covering hundreds of device models, see our [device compatibility hub](/compatibility/); the [UK eSIM setup guide](/blog/uk-esim-setup-guide/) covers installation step by step.
 
 ## How Do I Install a UK eSIM?
 
@@ -319,7 +321,7 @@ Installing a UK eSIM card takes about five minutes — and unlike hunting for a 
 
 Installing a UK eSIM takes about five minutes. You can do it from anywhere —your living room, your hotel room, the airport lounge. Here's the process.
 
-1. **Buy Your eSIM:** Choose your plan based on your trip length and data needs. You'll need to provide your email address and payment details. After purchase, you'll receive an email with your eSIM profile activation details —usually a QR code or an activation code.
+1. **Buy Your eSIM:** Choose your plan based on your trip length and data needs — our [guide to buying a UK eSIM](/blog/buy-uk-esim-guide/) compares the options. You'll need to provide your email address and payment details. After purchase, you'll receive an email with your eSIM profile activation details —usually a QR code or an activation code.
 
 2. **Install on iPhone:**
    1. Open Settings > Cellular (or Mobile Service)
@@ -340,7 +342,7 @@ Installing a UK eSIM takes about five minutes. You can do it from anywhere —yo
 
 You can also enable the plan before you leave if you want it ready instantly. For a detailed step-by-step guide with screenshots covering every phone model, including how to configure dual SIM for maximum efficiency, visit the [UK eSIM installation](/blog/uk-esim-setup-guide/).
 
-## Which UK eSIM Plan Fits Your Trip?
+## How Much Data Does Your Trip Need?
 
 UK eSIM plans range from ultra-light weekend options to heavy long-stay packages, and matching your travel style to the right tier saves real money.
 
@@ -352,12 +354,14 @@ UK eSIM plans range from ultra-light weekend options to heavy long-stay packages
 
 ## What Are the Four UK Mobile Networks?
 
-The United Kingdom has four mobile network operators — EE, Vodafone, O2, and Three — that own the physical infrastructure, and every other provider including eSIM companies and MVNOs like giffgaff uses one of these four networks, according to Ofcom (2026).
+The United Kingdom has four mobile network operators — EE, Vodafone, O2, and Three — that own the physical infrastructure, and every other provider including eSIM companies and MVNOs like giffgaff uses one of these four networks, according to Ofcom.
+
+You have two ways to reach those networks: buy a travel eSIM that resells capacity across several of them, or buy directly from the network itself. The second route comes with a UK-facing checkout, a QR code by email and a plan managed in the network's app — the full ordering process, brand by brand, is in our [UK carrier eSIM guide](/blog/uk-carrier-esim-guide/).
 
 The UK has four mobile network operators that own the physical infrastructure. Every other provider —including all eSIM companies, MVNOs like giffgaff, and budget brands like SMARTY —uses one of these four networks. Understanding how they differ helps you choose the right plan for your trip.
 
-**EE: The Speed Leader**
-[EE](https://www.ee.co.uk/) is widely considered the fastest and most reliable network in the UK. It consistently wins speed tests in [Ofcom](https://www.ofcom.org.uk/)'s annual reports, with average download speeds of **80-150 Mbps** in UK cities and **30-60 Mbps** in rural Great Britain.
+### EE: The Speed Leader
+[EE](https://ee.co.uk/) is widely considered the fastest and most reliable network in the UK. It has won the UK Overall RootScore in every RootMetrics test period since 2013, according to [Ookla's RootMetrics UK report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-1h-2026), with average download speeds of **80-150 Mbps** in UK cities and **30-60 Mbps** in rural Great Britain.
 
 Coverage is strong in UK cities and towns, good on major roads, and expanding rapidly in rural Great Britain. EE has the strongest 5G coverage of any UK network, covering over 70% of the UK population, with continued expansion underway.
 
@@ -371,14 +375,14 @@ EE's 5G network uses spectrum in the 3.4 GHz and 3.6 GHz bands (mid-band, good b
 
 **Who uses EE's network:** BT Mobile, Plusnet Mobile
 
-**Vodafone: The Wide Coverage Champion**
-[Vodafone](https://www.vodafone.co.uk/) has the widest geographic coverage of any UK network. If you're travelling to remote areas, the Scottish Highlands, or national parks, Vodafone is often the only network with a signal.
+### Vodafone: The Consistency Champion
+[Vodafone](https://www.vodafone.co.uk/) trails only EE in geographic coverage. If you're travelling to remote areas, the Scottish Highlands, or national parks, Vodafone and EE are the networks most likely to have a signal.
 
-Their 5G network covers most major cities, though it's slightly smaller than EE's in terms of population coverage. Vodafone's advantage is its spectrum holdings. They have extensive 900 MHz coverage (strong for long-range rural coverage) alongside mid-band 5G spectrum in UK cities. This means their 4G network reaches further into rural Great Britain than any competitor, and their 5G is competitive in urban centres.
+Their 5G network covers most major cities, though it's slightly smaller than EE's in terms of population coverage. Vodafone's advantage is its spectrum holdings. They have extensive 900 MHz coverage (strong for long-range rural coverage) alongside mid-band 5G spectrum in UK cities. This means their 4G network reaches further into rural Great Britain than any network except EE, and their 5G is competitive in urban centres.
 
 Vodafone has also invested heavily in the M4/M5/M6 road corridors, so if you're driving between major cities, Vodafone typically offers the most consistent connection.
 
-**Where Vodafone shines:** Scottish Highlands, Lake District, Peak District, Cornish coast, Welsh mountains, motorway corridors
+**Where Vodafone shines:** Motorway corridors, the Lake District, Peak District, Cornish coast, Welsh mountains, rural roads
 
 **Where Vodafone struggles:** Some indoor locations in dense city centres (older building stock can block signals)
 
@@ -386,7 +390,7 @@ Vodafone has also invested heavily in the M4/M5/M6 road corridors, so if you're 
 
 **Who uses Vodafone's network:** Voxi, Lebara, Talkmobile
 
-**O2: The Building Penetration Specialist**
+### O2: The Building Penetration Specialist
 [O2](https://www.o2.co.uk/) has strong coverage in UK cities and a strong performance inside buildings. This is thanks to their use of 800 MHz spectrum (low-band, strong for penetrating walls and windows). If you're working from inside a coffee shop, a hotel room, or a basement co-working space, O2 often holds up better than other networks.
 
 O2 also offers the "O2 Priority" perks programme —free Costa coffees, concert pre-sales, and other benefits. Their customer service consistently scores highest in Ofcom's satisfaction surveys. Their 5G rollout has been slower than EE's but has accelerated significantly, covering most major cities.
@@ -401,7 +405,7 @@ A notable O2 advantage is their WiFi calling implementation, which works seamles
 
 **Who uses O2's network:** giffgaff, Sky Mobile, Tesco Mobile
 
-**Three: The Data Capacity Leader**
+### Three: The Data Capacity Leader
 [Three](https://www.three.co.uk/) offers good value pricing and has invested heavily in data capacity. Their 4G and 5G networks handle large amounts of data well. Three was the first UK network to launch 5G, and they've focused their 5G rollout on city centres and transport hubs.
 
 Three's network uses the 3.4 GHz band for 5G (same as EE's mid-band), but they have less low-band spectrum than the other networks. This means their coverage in rural Great Britain is noticeably weaker. In cities, though, Three often matches or exceeds the other networks for raw data speeds, particularly during off-peak hours.
@@ -416,10 +420,10 @@ Three's parent company also owns SMARTY and iD Mobile, which offer some of the c
 
 **Who uses Three's network:** SMARTY, iD Mobile
 
-**How Roami Uses All Four Networks**
+### How Roami Uses All Three Networks
 The beauty of Roami's approach is you don't need to choose between these networks. The auto carrier switching mechanism connects you to the best-performing network at your current location.
 
-In central London, you might switch between all four in a single day as you move through different neighbourhoods. In the Scottish Highlands, you'd spend most of your time on Vodafone because it has the widest coverage. In a basement meeting room, Roami would prioritise O2 for its superior indoor signal.
+In central London, you might switch between all three in a single day as you move through different neighbourhoods. In the Scottish Highlands, you'd spend most of your time on EE because it has the widest rural coverage. In a basement meeting room, Roami would prioritise O2 for its superior indoor signal.
 
 This multi-network approach means Roami users consistently get better speeds and more reliable connections than users of single-network plans. Compared to single-network plans, multi-network switching can deliver meaningfully faster average download speeds and significantly fewer connection drops in areas with varying coverage quality — because you're never stuck on the one network that happens to be weak at your location.
 
@@ -437,69 +441,69 @@ A 10-20GB plan covering 7-15 days from a provider with auto carrier switching li
 
 **Digital nomads (1-3 months):** The calculation is different. You need reliable data for video calls, hotspot tethering for your laptop, and enough GB to survive a full workday online. You might also need a UK phone number for banking and accommodation.
 
-A 50GB 30-90 day plan from Roami paired with a giffgaff physical SIM for your UK number is the gold standard. The eSIM plan handles all your data while the giffgaff SIM covers calls and texts. Set the phone so that data runs through Roami and voice runs through giffgaff. Detailed instructions are in the [UK eSIM for business and digital nomads](/blog/uk-esim-business-digital-nomad/) article.
+A 30-day Roami or Ubigi data plan (Ubigi's unlimited runs $44; Roami's 30-day durations are priced at checkout) paired with a giffgaff physical SIM for your UK number is the gold standard. The eSIM plan handles all your data while the giffgaff SIM covers calls and texts. Set the phone so that data runs through Roami and voice runs through giffgaff. Detailed instructions are in the [UK eSIM for business and digital nomads](/blog/uk-esim-business-digital-nomad/) article.
 
 **Classic tourists on holiday:** Visiting London, Edinburgh, and the Lake District typically uses 0.5-1.5GB per day —maps, restaurant research, social media, and messaging. A 5-15GB 7-15 day plan covers a week or two comfortably.
 
 Google Maps uses about 5-10MB per hour of navigation. Social media browsing uses 50-100MB per hour. Download offline maps for your destinations before you arrive —it saves data and works even in areas with poor signal.
 
-**Students studying abroad for a semester:** You need both data and a local number for banking, NHS registration, and university communications. The best approach is a 50GB long-stay plan paired with a giffgaff SIM for calls and texts.
+**Students studying abroad for a semester:** You need both data and a local number for banking, NHS registration, and university communications. The best approach is a 30-day-plus data plan paired with a giffgaff SIM for calls and texts.
 
 Students typically use more data than they expect because of streaming and social media. Many UK universities participate in the Eduroam WiFi network, giving you free internet across campus —use that on campus to save your eSIM data for off-campus use.
 
 **Groups and families:** Buy individual Roami eSIMs for each person. Set them all up during a single session at home on your WiFi, label them clearly so everyone knows which plan is theirs, and everyone activates simultaneously on arrival.
 
-**Backpackers on a tight budget:** Rely on hostel WiFi for heavy tasks and get a small data plan for navigation and messaging on the go. You don't need much —a 3-5GB plan is usually enough for two weeks when combined with judicious WiFi use. At 20% off with promo code **WEB20**, a 3GB plan costs just a few pounds. Download entire cities in Google Maps for offline use before you arrive —it covers public transport routes and walking directions without using any data.
+**Backpackers on a tight budget:** Rely on hostel WiFi for heavy tasks and get a small data plan for navigation and messaging on the go. You don't need much —a 3-5GB plan is usually enough for two weeks when combined with judicious WiFi use. At 20% off, Roami's 3GB plan costs $3.19. Download entire cities in Google Maps for offline use before you arrive —it covers public transport routes and walking directions without using any data.
 
-**The Unlimited Data User**
-Anyone wanting to stream, download, and browse without thinking about data caps will be looking at a different tier of plan. While truly unlimited plans are rare in the eSIM space (UK networks reserve them for contract customers with credit checks), a 50GB plan from Roami is enough for even heavy users when combined with WiFi for the heaviest tasks like system updates and 4K streaming.
+### The Unlimited Data User
+Anyone wanting to stream, download, and browse without thinking about data caps will be looking at a different tier of plan. While truly uncapped plans are rare in the travel eSIM space, Ubigi's $44 unlimited publishes no daily cap, and Roami's $8.99 unlimited (3 days, 2GB/day fair use before speeds drop to 512Kbps) covers heavy users when combined with WiFi for the heaviest tasks like system updates and 4K streaming.
 
 Budget around **$25-50** per month depending on plan duration. Save your mobile data for streaming and on-the-go use, and use accommodation WiFi for app updates and large downloads. Check out the [UK eSIM unlimited data guide](/blog/uk-esim-unlimited-data-guide/) for a breakdown of which providers offer truly unlimited data and how they compare with capped plans.
 
-**The Scotland Road Tripper**
+### The Scotland Road Tripper
 If you're hiring a car and exploring the Scottish Highlands, the NC500 route, the Isle of Skye, and the Cairngorms, coverage planning matters. The Scottish Highlands have the most variable coverage in the UK —you can drive through a village with full 5G and then spend 20 minutes in a valley with nothing.
 
-Vodafone dominates in remote parts of Great Britain, while Three struggles in the Highlands. EE holds up well in towns but has gaps in the most remote glens. A multi-network plan with auto carrier switching is particularly valuable here, putting you on the strongest available network —usually Vodafone or EE —at every point on your journey.
+EE and Vodafone dominate in remote parts of Great Britain, while Three struggles in the Highlands. Even EE has gaps in the most remote glens. A multi-network plan with auto carrier switching is particularly valuable here, putting you on the strongest available network —usually EE or Vodafone —at every point on your journey.
 
 A 15-30GB plan covers a week-long road trip. Download the entire NC500 route and maps for the Isle of Skye and Cairngorms on Google Maps offline before you leave. The full guide to staying connected across the Scottish countryside, including network-by-network coverage maps, is in the [UK eSIM Scotland road trip](/blog/uk-esim-scotland-road-trip/) article.
 
-## How Good Is UK eSIM Coverage Across the United Kingdom?
+## How Good Is UK eSIM Coverage?
 
-UK mobile coverage is strong in UK cities and towns with all four networks offering 4G and growing 5G, while rural Great Britain sees significant variation — Vodafone and EE provide the widest rural coverage, O2 is moderate, and Three has the weakest reach in remote parts of Great Britain, according to Ofcom’s coverage checker (2026).
+UK mobile coverage is strong in UK cities and towns with all four networks offering 4G and growing 5G, while rural Great Britain sees significant variation — EE and Vodafone provide the widest rural coverage, O2 is moderate, and Three has the weakest reach in remote parts of Great Britain, according to Ofcom's coverage checker.
 
-If you're using an eSIM in UK cities, coverage is generally strong, and it holds up well in towns and along major transport routes. But it varies significantly in rural Great Britain, and understanding the patterns helps you plan your connectivity.
+Inside UK cities, coverage is generally strong, and it holds up well in towns and along major transport routes. But it varies significantly in rural Great Britain, and understanding the patterns helps you plan your connectivity.
 
-**City Coverage**
+### City Coverage
 In London, Manchester, Birmingham, Edinburgh, Glasgow, and other major cities, all four networks offer strong coverage. You'll get strong 5G signals in central areas, with typical download speeds between **50-200 Mbps** depending on your network and location.
 
 Indoor coverage is good in most buildings, though underground tube stations are still hit and miss (the Elizabeth line and Jubilee line have full mobile coverage; older lines are patchy).
 
 Speed variations in UK cities are mostly about congestion rather than coverage. During peak hours (8-10am, 5-7pm weekdays), speeds can drop by 30-50% as everyone commutes and browses. This is where Roami's auto carrier switching makes a noticeable difference —it moves you to the least congested network at that moment.
 
-**Town and Village Coverage**
+### Town and Village Coverage
 Most towns and large villages have good 4G coverage from all four networks. 5G is available in many but not all. Speeds are typically **20-80 Mbps** in these areas —perfectly adequate for streaming, video calls, browsing, and all standard online activities.
 
-The UK has over 1,000 towns and cities, and the vast majority have reliable coverage from at least two networks. If you're visiting a specific town, [Ofcom's mobile coverage checker](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/mobile-coverage-checker) lets you check coverage at a specific postcode.
+The UK has over 1,000 towns and cities, and the vast majority have reliable coverage from at least two networks. If you're visiting a specific town, [Ofcom's mobile coverage checker](https://checker.ofcom.org.uk/mobile-coverage) lets you check coverage at a specific postcode.
 
-**Rural and Remote Coverage**
+### Rural and Remote Coverage
 
-Rural coverage is where the differences between networks become stark. Vodafone and EE have the widest rural coverage. O2 is moderate. Three has the weakest rural coverage.
+Rural coverage is where the differences between networks become stark. EE and Vodafone have the widest rural coverage. O2 is moderate. Three has the weakest rural coverage.
 
-The A82 from Glasgow to Fort William — the gateway to Glen Coe and Ben Nevis — illustrates the difference starkly. Vodafone and EE provide the most consistent coverage along this route through the Highlands. Three's coverage through Rannoch Moor, by contrast, is notably sparse according to Ofcom's coverage maps. If you're relying on Three for navigation through this section, you'd better have offline maps downloaded. A multi-network eSIM that can switch to whichever carrier has signal at each point along the route avoids this problem entirely.
+The A82 from Glasgow to Fort William — the gateway to Glen Coe and Ben Nevis — illustrates the difference starkly. EE and Vodafone provide the most consistent coverage along this route through the Highlands. Three's coverage through Rannoch Moor, by contrast, is notably sparse according to Ofcom's coverage maps. If you're relying on Three for navigation through this section, you'd better have offline maps downloaded. A multi-network eSIM that can switch to whichever carrier has signal at each point along the route avoids this problem entirely.
 
 In the Scottish Highlands, parts of the Lake District, Snowdonia, and the Yorkshire Dales, you'll find substantial coverage gaps. Even on the strongest network, you can expect dead zones of 10-30 minutes of driving in the most remote areas.
 
 The UK government's "Shared Rural Network" programme is working to close these gaps — a collaboration between the four networks and the government to extend 4G coverage to 95% of the UK landmass by 2027. Progress has been steady. But for now, you should still expect connectivity gaps in the most remote areas.
 
-**Motorway and Train Coverage**
-**Motorways:** All four networks cover UK motorways well. The M1, M4, M5, M6, M25, and other major routes have continuous 4G coverage from at least one network. Vodafone and EE have the most consistent motorway coverage. Roami's auto switching ensures you stay connected through the whole journey.
+### Motorway and Train Coverage
+**Motorways:** All four networks cover UK motorways well. The M1, M4, M5, M6, M25, and other major routes have continuous 4G coverage from at least one network. EE and Vodafone have the most consistent motorway coverage. Roami's auto switching ensures you stay connected through the whole journey.
 
 **Trains:** Train coverage varies by route. The mainline routes (London to Edinburgh, London to Manchester, London to Bristol) have good coverage for most of the journey, with dead zones in tunnels and cuttings. Rural branch lines have more variable coverage. Many trains now offer onboard WiFi, though it can be slow and unreliable.
 
-**Coastal Coverage**
+### Coastal Coverage
 The UK's coastline is well-covered near towns and resorts. Popular beaches and coastal paths have good coverage from all networks. Remote coastal areas, particularly in Scotland, Cornwall, and Pembrokeshire, have coverage gaps.
 
-**London Underground**
+### London Underground
 The London Underground is getting mobile coverage as part of a long-running rollout. Currently covered:
 
 - **Elizabeth line**: Full 4G/5G coverage through all tunnels
@@ -516,34 +520,33 @@ For detailed coverage maps and network-by-network analysis, see the [UK eSIM net
 
 **Which eSIM is best for UK travel?** This is the question travellers ask most when researching an eSIM for UK travel. The answer shapes every eSIM UK travel decision that follows. Based on network coverage data, carrier partnerships, and features like auto-switching, here is how the major providers compare.
 
-**The Short Answer**
+### The Short Answer
 
-**For most travellers, Roami is the one to get.** The auto carrier switching across all four UK networks (EE, Vodafone, O2, and Three) delivers faster and more reliable speeds than single-network plans. If you're only in central London for 2 days, a cheaper single-network plan might work. But for an actual trip — one where you move between cities, venture into rural areas, or rely on your connection for anything important — Roami's multi-network approach is the difference between "it works" and "why isn't anything loading?"
+**For most travellers, Roami is the one to get.** The auto carrier switching across three UK networks (EE, Vodafone, and O2) delivers faster and more reliable speeds than single-network plans. If you're only in central London for 2 days, a cheaper single-network plan might work. But for an actual trip — one where you move between cities, venture into rural areas, or rely on your connection for anything important — Roami's multi-network approach is the difference between "it works" and "why isn't anything loading?"
 
-**How the Major Providers Compare**
+### How the Major Providers Compare
 
 | Provider | UK Networks | Auto Switching | Hotspot | Customer Support | Starting Price |
 |---|---|---|---|---|---|
-| **Roami** | EE + Vodafone + O2 + Three | Yes | Unlimited | Live chat | From $3.99 |
-| Airalo | Three (mostly) | No | Varies | Email only | From $4.50 |
-| Holafly | O2 or Three | No | Yes | Chat only | From $5.00 |
-| Nomad | Three (mostly) | No | Varies | Chat only | From $4.00 |
-| Ubigi | EE | No | Yes | Email/chat | From $4.50 |
-| BNESIM | Multiple | No | Yes | Email | From $3.50 |
+| **Roami** | EE + Vodafone + O2 | Yes | Unlimited | Live chat | From $1.99 |
+| Airalo | EE (4G) | No | Varies | Email only | From $4.00 |
+| Holafly | O2 + Vodafone + Three | No | ~1GB/day cap | Chat only | From $11.90 |
+| Nomad | Three | No | Varies | Chat only | From $4.50 |
+| Ubigi | EE + Three | No | Yes | Email/chat | From $11 (10GB) |
 
 Roami stands out for three reasons that actually matter in the real world:
 
-1. **Auto carrier switching** across all four networks. No other provider offers this. And once you've experienced it — watching your phone silently hop from a congested EE tower to a fast O2 connection mid-call — you won't go back to single-network plans.
+1. **Auto carrier switching** across three UK networks. No other travel provider offers this. And once you've experienced it — watching your phone silently hop from a congested EE tower to a fast O2 connection mid-call — you won't go back to single-network plans.
 
-2. **Unrestricted hotspot tethering**. Holafly's "unlimited" plans block hotspot use entirely. Airalo and Nomad throttle it on some plans. Roami doesn't care how you use your data. Laptop, iPad, whatever. All 50GB is yours to use as you see fit.
+2. **Unrestricted hotspot tethering**. Holafly caps hotspot use at roughly 1GB/day on its unlimited plans, and Airalo and Nomad throttle it on some plans. Roami doesn't restrict how you share — laptop, iPad, whatever — though the plan's fair-use policy still applies (1GB/day on lighter plans, 2GB/day on the unlimited tier before speeds drop to 512Kbps).
 
 3. **Live customer support with actual humans**. Airalo offers email-only support. Nomad relies on a chatbot for first contact. Roami provides live chat with real support agents. When your connection is down and you need answers now, the difference between waiting hours for an email reply and getting help in minutes is everything.
 
-**Why Roami Wins for UK Travel**
+### Why Roami Wins for UK Travel
 
-Single-network plans work fine in central London. But head to Edinburgh, the Lake District, or the Scottish Highlands, and you'll feel the difference immediately. On the A82 through Glen Coe, a multi-network eSIM switches between EE and Vodafone as the road moves between valleys — each carrier has coverage in different sections. A single-network phone locked to Three — According to Ofcom's coverage data, significant stretches of this route have no Three coverage at all.
+Single-network plans work fine in central London. But head to Edinburgh, the Lake District, or the Scottish Highlands, and you'll feel the difference immediately. On the A82 through Glen Coe, a multi-network eSIM switches between EE and Vodafone as the road moves between valleys — each carrier has coverage in different sections. A single-network phone locked to Three will lose signal for significant stretches of this route, according to Ofcom's coverage data.
 
-Roami's auto switching puts you on the strongest available connection at every point on your journey. A [travel eSIM for Great Britain](/united-kingdom-esim/) with multi-network capability isn't a nice-to-have — it's the thing that keeps you connected when it actually matters.
+Roami's auto switching puts you on the strongest available connection at every point on your journey. A multi-network eSIM isn't a nice-to-have — it's the thing that keeps you connected when it actually matters.
 
 For a full comparison across 20+ criteria including speed tests, activation times, and refund policies, the [UK eSIM providers comparison](/blog/uk-esim-providers-comparison/) article has you covered.
 
@@ -553,7 +556,7 @@ Managing UK eSIM data usage means understanding that Google Maps navigation uses
 
 Even with a generous data plan, it's worth understanding how different activities consume data so you can make informed choices. Understanding how much UK mobile data for tourists typically gets used each day helps you choose the right plan without overpaying for gigabytes you won't need.
 
-**Data Usage by Activity**
+### Data Usage by Activity
 | Activity | Data per Hour | Notes |
 |---|---|---|
 | Google Maps navigation | 5-10 MB | Active navigation uses very little |
@@ -569,7 +572,7 @@ Even with a generous data plan, it's worth understanding how different activitie
 | Software update (iOS) | 2-5 GB | Always use WiFi for updates |
 | Podcast download | 50-150 MB | Download over WiFi |
 
-**Data-Saving Tips**
+### Data-Saving Tips
 1. **Download maps offline**: Google Maps and Apple Maps both support offline map downloads. Download the regions you'll visit before your trip or on WiFi.
 2. **Pre-load entertainment**: Download Netflix shows, Spotify playlists, and podcasts on WiFi before you leave your accommodation.
 3. **Use data saver mode**: Most apps have data-saving settings. Enable them in YouTube, Instagram, and your browser.
@@ -577,7 +580,7 @@ Even with a generous data plan, it's worth understanding how different activitie
 5. **Monitor your usage**: iOS and Android both have built-in data trackers. Check them periodically to make sure you're on track.
 6. **Use WiFi for heavy tasks**: Hotel WiFi, cafe WiFi, and co-working WiFi are fine for streaming and downloads. Save your mobile data for when you're out and about.
 
-**What Happens When You Run Out**
+### What Happens When You Run Out
 If you use all your data before your plan expires, your data stops working until you either:
 
 - **Top up**: Roami lets you buy additional data for your existing plan. The new data is available within seconds.
@@ -587,17 +590,17 @@ Top-ups are the most convenient option because you don't need to install anythin
 
 ## Do You Need a UK Phone Number?
 
-**Short Trips (Under 2 Weeks)**
+### Short Trips (Under 2 Weeks)
 You almost certainly don't need a UK number. Everything you need —navigation, messaging, food delivery, transport apps —works over data. Uber uses data. Citymapper uses data. Deliveroo uses data. WhatsApp uses data. You don't need a traditional phone number for any of these services.
 
 The only exception is if you need to receive phone calls from clients or colleagues who don't use WhatsApp or similar apps. In that case, you have options:
-- Use a VoIP service like Skype or Google Voice for a virtual number
+- Use a VoIP service like Google Voice or Sipgate for a virtual number
 - Configure WiFi calling on your home number before you travel
-- Buy a temporary UK number through a service like Truphone or Skype
+- Buy a giffgaff or Lebara PAYG SIM for a temporary UK number
 
 The vast majority of short business trips and holidays only need a pure data eSIM.
 
-**Long Stays (Over 2 Weeks)**
+### Long Stays (Over 2 Weeks)
 For those staying longer, a UK number becomes more useful, and in some cases essential. Here's what you'll need it for:
 
 - **Opening a UK bank account**: Every major UK bank (Barclays, Lloyds, HSBC, NatWest) requires a UK mobile number for account verification and ongoing security
@@ -608,15 +611,15 @@ For those staying longer, a UK number becomes more useful, and in some cases ess
 - **Job applications**: If you're working in the UK, employers typically need a UK contact number
 - **Car hire**: Some car rental companies prefer or require a UK phone number
 
-**The Hybrid Setup: Your Best Long-Stay Option**
+### The Hybrid Setup: Your Best Long-Stay Option
 The best approach for long stays is a **hybrid setup**: a Roami UK eSIM for fast data, plus a cheap physical SIM for your UK number. Here's why this works so well:
 
-1. **Roami UK eSIM** handles all your data: browsing, streaming, navigation, app usage. You get the benefit of auto carrier switching across all four networks.
+1. **Roami UK eSIM** handles all your data: browsing, streaming, navigation, app usage. You get the benefit of auto carrier switching across the UK's three biggest networks (EE, Vodafone, O2).
 2. **giffgaff SIM** (or similar: Lebara, SMARTY, Voxi) provides your UK phone number. You top up with minimal credit (5-10 pounds) and it lasts for months. Calls and texts are cheap. You keep the number active by using it occasionally.
 
-The total cost is roughly **25-45 pounds per month**: 20-35 for the Roami eSIM data plan, plus 5-10 for the giffgaff top-up. That's less than a standard UK contract plan, and you get better data through Roami's multi-network switching.
+The total cost is roughly **$30-55 per month**: a 30-day Roami or Ubigi data plan (Ubigi's unlimited runs $44; Roami's 30-day durations are priced at checkout) plus £5-10 for the giffgaff top-up — and the data side rides on multi-network switching.
 
-Full instructions for setting up this hybrid configuration, including the exact iPhone and Android settings you need to route data through the eSIM and calls through the physical SIM, are in the [UK eSIM with phone number](/blog/uk-esim-with-phone-number/) guide.
+Full instructions for setting up this hybrid configuration, including the exact iPhone and Android settings you need to route data through the eSIM and calls through the physical SIM, are in our [guide to UK eSIM phone numbers](/blog/uk-esim-with-phone-number/).
 
 ## How Do I Set Up Dual SIM with a UK eSIM?
 
@@ -624,7 +627,7 @@ Most modern phones support dual SIM operation — you can keep your home SIM act
 
 Most modern phones support dual SIM operation —you can have two active lines at the same time. This is incredibly useful for travel.
 
-**Common Dual SIM Configurations**
+### Common Dual SIM Configurations
 - **Your home number + UK eSIM:**
   - Physical SIM or home eSIM: Your home country number (for 2FA, family calls, bank alerts)
   - Roami UK eSIM: Your UK data connection
@@ -658,7 +661,7 @@ While eSIMs are the modern choice, physical SIM cards still have their place in 
 
 **Multiple numbers:** You can store multiple eSIM profiles and switch between them. Great for frequent travellers who visit the UK regularly.
 
-**When Physical SIM Still Makes Sense**
+### When Physical SIM Still Makes Sense
 **Older phones:** If your phone doesn't support eSIM, you have no choice. Physical SIM is your only option.
 
 **Very long stays (6+ months):** UK contract plans from EE, Vodafone, O2, and Three often come on physical SIMs and offer better value for year-long stays.
@@ -667,7 +670,7 @@ While eSIMs are the modern choice, physical SIM cards still have their place in 
 
 **Giffgaff specifically:** Giffgaff's free SIM delivery and PAYG model is strong for getting a UK number alongside your eSIM data.
 
-**The Verdict**
+### The Verdict
 For most travellers, eSIM is the better choice. It's more convenient, more flexible, and works with dual SIM setups. The only real reasons to choose physical SIM are if your phone doesn't support eSIM or if you're signing a long-term UK contract.
 
 The detailed comparison, including cost analysis and real-world testing of both options, is in the [UK eSIM vs physical SIM](/blog/uk-esim-vs-physical-sim/) article.
@@ -676,7 +679,7 @@ The detailed comparison, including cost analysis and real-world testing of both 
 
 The best tips for using a UK eSIM are to install it on WiFi before travel, label your plans clearly in phone settings, download offline maps for your destinations, and let Roami’s auto carrier switching handle network selection automatically across the United Kingdom.
 
-**Before Your Trip**
+### Before Your Trip
 1. **Install on WiFi**: Download and install your eSIM profile while connected to your home WiFi. The installation needs internet, and you don't want to use your limited mobile data for it.
 2. **Label your plans**: In your phone settings, give each eSIM and SIM a clear label. "Roami UK" and "Home (Verizon)" makes it easy to identify which line is active.
 3. **Test the installation**: After installing, restart your phone to make sure the profile is registered correctly. Don't wait until you land to discover there's an issue.
@@ -684,7 +687,7 @@ The best tips for using a UK eSIM are to install it on WiFi before travel, label
 5. **Store a backup**: Take a screenshot of your eSIM QR code and save it in a secure place (password manager, encrypted cloud storage). If you ever need to reinstall, you'll have the code handy.
 6. **Tell your bank**: If you're keeping your home SIM active, let your bank know you're travelling to avoid your card being blocked for suspicious activity.
 
-**During Your Trip**
+### During Your Trip
 1. **Use Aeroplane mode strategically**: When you land, switch your phone to aeroplane mode, then manually enable your Roami eSIM line. This prevents your home SIM from connecting to a UK network at roaming rates before you've set everything up.
 2. **Turn off data roaming on your home line**: If you're keeping your home SIM active, go into settings and turn off data roaming specifically for that line. This prevents accidental roaming charges while still allowing calls and SMS.
 3. **Let Roami handle network selection**: Don't manually pick a network. Roami's auto-switching works best when you leave it on automatic. It will find and switch to the strongest network at your location.
@@ -692,7 +695,7 @@ The best tips for using a UK eSIM are to install it on WiFi before travel, label
 5. **Use WiFi for big downloads**: System updates, app downloads, and streaming HD video all use significant data. Do these on WiFi when available.
 6. **Monitor your usage**: Check your data usage periodically. Both iOS and Android have built-in data trackers that show consumption by app.
 
-**After Your Trip**
+### After Your Trip
 1. **Keep the eSIM installed**: Roami UK eSIM profiles stay on your phone even after the data expires. If you visit the UK again, you can buy a new data pack and continue using the same profile.
 2. **Remove if you need space**: If you need to free up eSIM slots (phones have limited capacity), you can remove the UK eSIM profile. You can always buy a new one for your next visit. Note that once deleted, you'll need a new QR code to reinstall —so only delete if you're sure.
 3. **Leave a review**: Help other travellers by sharing your experience. Let them know how the coverage was in the places you visited.
@@ -701,22 +704,22 @@ The best tips for using a UK eSIM are to install it on WiFi before travel, label
 
 The most common UK eSIM issues — no service after arrival, slow data speeds, and installation failures — can usually be resolved by checking the eSIM line is turned on in Settings, enabling data roaming for the eSIM, and ensuring a stable internet connection during installation.
 
-**No Service After Arrival**
+### No Service After Arrival
 You installed the eSIM before travel, but when you landed in the UK, nothing worked. Go to Settings > Cellular and make sure the UK eSIM line is turned on. Also check that data roaming is enabled for that specific line (Settings > Cellular > your UK eSIM > Data Roaming). Some phones require this setting for eSIMs to work internationally.
 
-**Slow Data Speeds**
+### Slow Data Speeds
 You're connected but data is slow. If you're using a single-network plan, you might be on a congested network. Try manually selecting a different network in Settings > Cellular > Network Selection. If you're using Roami, let the auto-switching do its thing —it may take 30-60 seconds to find the optimal network.
 
-**Can't Send or Receive MMS**
+### Can't Send or Receive MMS
 Picture messages aren't working on your home number while roaming. MMS over WiFi is often unreliable when roaming. Use WhatsApp or iMessage for photo sharing instead. These work over any data connection and don't require MMS configuration.
 
-**eSIM Not Installing**
+### eSIM Not Installing
 The QR code scan fails or the activation code isn't working. Make sure you have a stable internet connection (WiFi or your home mobile data). Try restarting your phone and scanning again. If it still doesn't work, contact Roami's live customer support for a replacement QR code.
 
 **What If You Need to Delete and Reinstall Your eSIM?**
 If you need to remove your UK eSIM from your phone (for example, to free up a slot or because you're switching phones), here's what you need to know:
 
-**Deleting the eSIM:**
+### Deleting the eSIM
 - iPhone: Settings > Cellular > tap the eSIM line > Delete Cellular Plan
 - Android: Settings > Connections > SIM Card Manager > tap the eSIM > Remove
 
@@ -736,13 +739,13 @@ An eSIM UK is a digital SIM card that connects your phone to UK mobile networks.
 
 **Which eSIM is best for UK travel?**
 
-For most travellers, Roami. The auto carrier switching across all four UK networks (EE, Vodafone, O2, Three) gives you better speeds and reliability than single-network plans. Comparing the major providers side by side, the gap in coverage flexibility is wider than you might expect. Use promo code **WEB20** for 20% off.
+For most travellers, Roami. The auto carrier switching across three UK networks (EE, Vodafone, and O2) gives you better speeds and reliability than single-network plans. Comparing the major providers side by side, the gap in coverage flexibility is wider than you might expect. Use promo code **web20** for 20% off.
 
-If you're just in London for 2 days and want the absolute cheapest option, Airalo's $4.50 plan works fine — but only on Three's network, so don't expect miracles in the Highlands.
+If you're just in London for 2 days and want the absolute cheapest option, Roami's 1GB for 3 days at $1.99 works fine — and with EE, Vodafone, and O2 behind it, it's no single-network gamble. Airalo's $4 1GB plan (EE 4G only) is the fallback for big-brand loyalists.
 
 **How much does UK eSIM cost for tourist?**
 
-A data eSIM UK tourists buy for a week-long trip costs between $8 and $18 for 5-15 GB — a fraction of what home carrier roaming charges for the same period. Compare that to home carrier roaming at $70-100 with US carriers, or airport SIM cards at $20-30 plus queueing time. Roami's tourist-tier plans start from under $5 with promo code **WEB20**. That's less than a meal deal at Boots.
+A UK eSIM for a week-long trip costs between $8 and $18 for 5-15 GB — a fraction of what home carrier roaming charges for the same period. Compare that to US carrier day passes at $70-84 per week, or airport SIM cards at $20-30 plus queueing time. Roami's tourist-tier plans start from $1.99, and the promo code **web20** takes another 20% off. That's less than a meal deal at Boots.
 
 **What is the best way to get internet in the UK?**
 
@@ -770,7 +773,7 @@ Yes, flawlessly. You get real-time traffic, public transport schedules, walking 
 
 **What is a good UK eSIM for a 2-week holiday?**
 
-Roami's 15 GB or 30 GB, 15-day plan is ideal. Covers two weeks of typical tourist activity — navigation, social media, messaging, occasional video streaming — with buffer to spare. With promo code **WEB20**, it costs roughly $12-20.
+Ubigi's 10GB at $11 or Nomad's 10GB at $17.50 are verified two-week sweet spots — navigation, social media, messaging, occasional video streaming, with buffer to spare. Roami's longer durations are priced at checkout, and its 10GB/3-day plan at $7.99 pairs well with a top-up if you're a light user.
 
 **Do I need a UK address to buy a UK eSIM?**
 
@@ -812,17 +815,17 @@ Yes. If you have a layover at Heathrow or another UK airport and want to connect
 
 ## How Does UK eSIM Work for Multi-Country Trips to Europe?
 
-Travellers visiting both the United Kingdom and mainland Europe should choose a Europe regional eSIM that specifically includes the UK — Roami’s Europe plan covers 30+ European countries including Great Britain — or use a two-plan strategy with separate UK and Europe eSIMs for maximum flexibility.
+Travellers visiting both the United Kingdom and mainland Europe should choose a Europe regional eSIM that specifically includes the UK — Roami’s Europe plan covers 48 European countries including the UK — or use a two-plan strategy with separate UK and Europe eSIMs for maximum flexibility.
 
 Travellers whose trip includes both the UK and mainland Europe need to plan their connectivity carefully because —as covered earlier —a UK eSIM doesn't work in Europe, and not all Europe eSIMs cover the UK.
 
-**Option 1: Single Europe Regional eSIM**
-Those visiting both the UK and EU countries should choose a Europe plan that specifically includes the UK. Roami's Europe plan covers **30+ European countries including the UK**. One installation, one plan, works everywhere. This is the simplest option for most travellers.
+### Option 1: Single Europe Regional eSIM
+Those visiting both the UK and EU countries should choose a Europe plan that specifically includes the UK. Roami's Europe plan covers **48 European countries including the UK**. One installation, one plan, works everywhere. This is the simplest option for most travellers.
 
-**Option 2: Two-Plan Strategy**
+### Option 2: Two-Plan Strategy
 If you already have a UK eSIM and are adding a Europe trip, or if you want separate plans for flexibility, buy a UK eSIM for your time in Great Britain and a separate Europe eSIM for the rest of your journey. This approach works well if your UK stay is significantly longer than your Europe leg, or if you want to compare pricing across regions. On most modern phones, you can store both eSIM profiles and switch between them as you cross borders.
 
 Start by [finding your UK eSIM plan](/united-kingdom-esim/) and check out the [multi-country Europe guide](/blog/uk-esim-multi-country-europe/) for the full breakdown of Europe options.
 
-*Pricing and plan details as of July 2026. Always verify current rates on provider websites.*
+*Pricing and plan details as of September 2026. Always verify current rates on provider websites.*
 

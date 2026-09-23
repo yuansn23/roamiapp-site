@@ -2,8 +2,8 @@
 title: "Spain eSIM: Local vs International Prepaid Guide"
 description: "Compare Spain prepaid eSIM with Movistar, Orange, Vodafone and Yoigo. Find the best tourist eSIM with auto network switching."
 keywords: ["Spain prepaid eSIM", "Movistar prepaid eSIM", "Orange Spain prepaid eSIM", "Spain eSIM for tourists", "Spain local SIM vs eSIM"]
-date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+date: 2026-09-12T00:00:00Z
+lastmod: 2026-09-12T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/spain/spain-esim-local-carriers-prepaid-guide.jpg"
@@ -53,58 +53,57 @@ recentPosts:
 
 ## Spain Prepaid eSIM: Local Carriers vs International Providers
 
-> **Key takeaways:** Local carriers offer lower per-GB pricing (EUR 0.40-2.00/GB) plus a Spanish number but require passport registration, while international providers (EUR 1.50-4.50/GB) activate instantly with no registration. Orange's 15 GB plan for EUR 10 over 30 days is the best balance of price and coverage, and Yoigo is the cheapest at EUR 7 for 7 GB. For stays under 2 weeks an international eSIM is more convenient, but for stays over 2 weeks local prepaid saves money.
+> **Key takeaways:** Local carriers offer lower per-GB pricing (from around EUR 0.20/GB on big Yoigo tiers) plus a Spanish number but require passport registration, while international providers (roughly USD 1.80-4.50/GB) activate instantly with no registration. Yoigo's 25 GB for EUR 10 is the cheapest entry point among the big four, Vodafone's promo Prepaid S (90 GB for EUR 10) is the volume leader, and Movistar's promo tiers deliver surprising value per GB. For stays under 2 weeks an international eSIM is more convenient, but for stays over 2 weeks local prepaid saves money.
 
 Spain prepaid eSIM pricing comparison:
 
-- **Movistar prepaid:** EUR 10 for 5GB[reference:0]
-- **Orange prepaid:** EUR 10 for 15GB[reference:1]
-- **Vodafone prepaid:** EUR 15 for 10GB[reference:2]
-- **Yoigo prepaid:** EUR 7 for 10GB[reference:3]
+- **Movistar prepaid:** EUR 10 for 10 GB (promo doubles to 40 GB)
+- **Orange prepaid:** EUR 15 for 20 GB (Mundo 15)
+- **Vodafone prepaid:** EUR 10 for 90 GB (promo Prepaid S)
+- **Yoigo prepaid:** EUR 10 for 25 GB
 
-Local carriers offer lower per-GB pricing (EUR 0.40-2.00/GB) but require Spanish ID registration. International providers (EUR 1.50-4.50/GB) offer instant activation without registration[reference:4].
+Local carriers offer lower per-GB pricing (roughly EUR 0.20-2.00/GB depending on tier) but require Spanish ID registration. International providers (roughly USD 1.80-4.50/GB) offer instant activation without registration.
 
-This guide compares both options so you can choose the right Spain prepaid eSIM for your trip length and budget. Whether you need quick setup as a short-term tourist or better value for a long stay, this guide covers everything you need to know about Movistar, Orange, Vodafone, Yoigo, and international providers[reference:5].
+This guide compares both options so you can choose the right Spain prepaid eSIM for your trip length and budget. Whether you need quick setup as a short-term tourist or better value for a long stay, this guide covers everything you need to know about Movistar, Orange, Vodafone, Yoigo, and international providers.
 
 ---
 
 ## Why Consider a Local Spanish Carrier?
 
-For a general overview of using eSIMs in Spain, read our [Spain eSIM 101](/blog/spain-esim-complete-travel-guide/)[reference:6].
+For a general overview of using eSIMs in Spain, read our [Spain eSIM 101](/blog/spain-esim-complete-travel-guide/).
 
-Spanish telecom law requires prepaid SIM registration under Royal Decree 424/2005, which mandates identity verification for all prepaid mobile lines. This regulation applies equally to physical SIMs and eSIMs from local carriers, creating a registration process that international eSIM providers bypass entirely because they operate under their home country regulatory frameworks[reference:7].
+Spanish telecom law requires prepaid SIM registration under Royal Decree 424/2005, which mandates identity verification for all prepaid mobile lines. This regulation applies equally to physical SIMs and eSIMs from local carriers, creating a registration process that international eSIM providers bypass entirely because they operate under their home country regulatory frameworks.
 
 ### Regulatory Background
 
-The Spanish government enacted Royal Decree 424/2005 to require telecom operators to verify the identity of all prepaid users. The current enforcement framework is managed by the [Comision Nacional de los Mercados y la Competencia (CNMC)](https://www.cnmc.es/), Spain's national markets and competition regulator[reference:8]. The requirement has been updated over the years as technology has changed, including the adoption of eSIMs. Unregistered prepaid lines are suspended[reference:9].
+The Spanish government enacted Royal Decree 424/2005 to require telecom operators to verify the identity of all prepaid users. The current enforcement framework is managed by the [Comision Nacional de los Mercados y la Competencia (CNMC)](https://www.cnmc.es/), Spain's national markets and competition regulator. The requirement has been updated over the years as technology has changed, including the adoption of eSIMs. Unregistered prepaid lines are suspended.
 
-International eSIM providers are not subject to this regulation because they issue SIM profiles from their home country's regulatory jurisdiction. When you purchase an eSIM from an international provider like Airalo or Holafly, the SIM profile originates from an operator registered outside Spain, typically in Estonia, the United Kingdom, or the United States. This regulatory distinction explains the entire difference in registration requirements between local and international providers[reference:10].
+International eSIM providers are not subject to this regulation because they issue SIM profiles from their home country's regulatory jurisdiction. When you purchase an eSIM from an international provider like Airalo or Holafly, the SIM profile originates from an operator registered outside Spain, typically in Estonia, the United Kingdom, or the United States. This regulatory distinction explains the entire difference in registration requirements between local and international providers.
 
 ### Market Context
 
-CNMC data shows prepaid lines accounted for 38% of Spanish mobile connections in 2025, down from 52% in 2019 as postpaid plans become more affordable. However, prepaid remains the practical choice for tourists, short-term residents, and anyone staying under 6 months[reference:11]. The Spanish mobile market includes approximately 58 million active connections as of Q1 2026, with the following distribution[reference:12]:
+CNMC data shows prepaid lines shrinking as postpaid plans become more affordable, but prepaid remains the practical choice for tourists, short-term residents, and anyone staying under 6 months. The Spanish mobile market consolidated in 2024 into three large groups plus a long tail of MVNOs, with the following approximate distribution:
 
-| Operator | Market Share | Prepaid % | Postpaid % | Network Type |
-|---|---|---|---|---|
-| Movistar (Telefonica) | 26.5% | 30% | 70% | Own infrastructure[reference:13] |
-| Orange (including Jazztel) | 24.0% | 35% | 65% | Own infrastructure[reference:14] |
-| Vodafone Spain | 20.5% | 38% | 62% | Own infrastructure[reference:15] |
-| Yoigo (MasMovil) | 12.0% | 45% | 55% | Own + Movistar roaming[reference:16] |
-| MVNOs (Lowi, DIGI, etc.) | 17.0% | 40% | 60% | Host network roaming |
+| Operator Group | Approx. Mobile Share | Network Type |
+|---|---|---|
+| Movistar (Telefónica) | ~30% | Own infrastructure |
+| MASORANGE (Orange, Yoigo, MásMóvil brands) | ~38% | Own infrastructure; largest group since the 2024 merger |
+| Vodafone Spain (Zegona) | ~20% | Own infrastructure |
+| Other MVNOs (Lowi, DIGI, Pepephone, etc.) | ~12% | Host network roaming |
 
 ### Advantages of Local Carrier Prepaid eSIMs
 
-- **Lower per-GB pricing**: Local prepaid plans cost 40-70% less per GB than international eSIMs, with prices ranging from EUR 0.40/GB on larger Yoigo plans to EUR 2.00/GB on Movistar tourist plans[reference:17]
+- **Lower per-GB pricing**: Local prepaid plans cost far less per GB than international eSIMs, from around EUR 0.20/GB on large Yoigo tiers to roughly EUR 2.00/GB on small entry plans
 - **Spanish phone number (+34)**: Essential for Renfe app verification, restaurant reservations (ElTenedor), local services (Cabify, Uber), and government portal registration
-- **Full network priority**: Local carrier prepaid users receive the same tower priority as postpaid customers, unlike international resellers who get deprioritized during congestion, which matters most in dense tourist areas during peak season[reference:18]
-- **National coverage**: Direct access to the carrier's full coverage footprint including rural areas, mountain regions, and along AVE high-speed rail corridors[reference:19]
+- **Full network priority**: Local carrier prepaid users receive the same tower priority as postpaid customers, unlike international resellers who get deprioritized during congestion, which matters most in dense tourist areas during peak season
+- **National coverage**: Direct access to the carrier's full coverage footprint including rural areas, mountain regions, and along AVE high-speed rail corridors
 - **Voice and SMS included**: Many prepaid plans include local call minutes and text messaging, useful for booking hotels, calling restaurants, and confirming reservations
 - **In-store support**: Physical stores across Spanish cities for troubleshooting, top-ups, and plan changes with face-to-face assistance
-- **EU roaming included**: Most local prepaid plans include roaming across EU member states at no extra cost, under the EU Roam Like at Home regulation[reference:20]
+- **EU roaming included**: Most local prepaid plans include roaming across EU member states at no extra cost, under the EU Roam Like at Home regulation
 
 ### Disadvantages of Local Carrier Prepaid eSIMs
 
-- **Registration required**: Passport or NIE (foreigner ID number) needed with in-person or video verification; NIE application takes 2-4 weeks and requires an appointment at a police station or Spanish consulate[reference:21]
+- **Registration required**: Passport or NIE (foreigner ID number) needed with in-person or video verification; NIE application takes 2-4 weeks and requires an appointment at a police station or Spanish consulate
 - **Spanish billing address**: Most carriers require a Spanish physical address for account registration; hotel addresses are accepted for tourist plans but may cause issues for long-term accounts
 - **Language barrier**: Plan information and customer support primarily in Spanish; English support is limited to larger stores in tourist zones
 - **Contract complexity**: Some promotions require monthly renewals with cancellation procedures; failing to cancel auto-renewals can result in charges
@@ -120,25 +119,21 @@ International eSIMs without voice capabilities cannot receive SMS verification c
 
 ---
 
-## Movistar Prepaid: Best Coverage, Higher Price
+## Movistar Prepaid eSIM: Best Coverage, Higher Price
 
-For a detailed side-by-side comparison of major carriers, see our [Spain network comparison guide](/blog/spain-esim-movistar-orange-vodafone-comparison/)[reference:22].
+For a detailed side-by-side comparison of major carriers, see our [Spain network comparison guide](/blog/spain-esim-movistar-orange-vodafone-comparison/).
 
-[Movistar](https://www.movistar.es/) (Telefonica) operates Spain's largest mobile network with the most extensive coverage footprint, reaching 99% of the population on 4G and 85% of urban areas on 5G as of early 2026[reference:23][reference:24]. Their prepaid eSIM offering targets long-stay visitors and residents rather than short-term tourists[reference:25]. Movistar has invested billions of euros in Spanish network infrastructure since 2020, including a standalone 5G (SA) core deployed across Madrid, Barcelona, Valencia, and Seville.
+[Movistar](https://www.movistar.es/) (Telefonica) operates Spain's largest mobile network with the most extensive coverage footprint — essentially nationwide 4G and 5G reaching well over nine in ten people in urban areas. Their prepaid eSIM offering targets long-stay visitors and residents rather than short-term tourists. Movistar has invested heavily in Spanish network infrastructure since 2020, including a standalone 5G (SA) core deployed across Madrid, Barcelona, Valencia, and Seville.
 
 ### Movistar Prepaid eSIM Plans
 
 | Plan Name | Data | Price (EUR) | Per GB | Validity | Voice/SMS |
 |---|---|---|---|---|---|
-| Prepago Llamadas | 5GB | 10 | 2.00 | 30 days | Unlimited on-net |
-| Prepago Navega | 10GB | 15 | 1.50 | 30 days | 100 min, 100 SMS |
-| Prepago Total | 15GB | 20 | 1.33 | 30 days | Unlimited national |
-| Prepago Max | 25GB | 25 | 1.00 | 30 days | Unlimited + 50 intl min |
-| Prepago Ilimitado | 50GB (then 2Mbps) | 35 | 0.70 | 30 days | Unlimited + 100 intl min |
-| Turista Prepago | 10GB | 20 | 2.00 | 15 days | 100 min EU |
-| Turista Prepago Plus | 20GB | 30 | 1.50 | 20 days | 200 min EU + roaming |
+| Prepago S | 10 GB (promo doubles to 40 GB) | 10 | 0.25 (promo) | 28 days | Included |
+| Prepago M | 20 GB (promo doubles to 80 GB) | 15 | 0.19 (promo) | 28 days | Included |
+| Prepago L | 35 GB (promo doubles to 140 GB) | 20 | 0.14 (promo) | 28 days | Included |
 
-The Turista plans specifically target short-stay visitors. The standard Turista 15-day plan at EUR 20 for 10GB includes a Spanish number and hotspot support, making it competitive with international eSIMs on a per-GB basis for visitors who need a Spanish number. The Turista Prepago Plus at EUR 30 for 20GB over 20 days adds EU roaming, making it viable for multi-country Europe trips.
+Movistar's prepaid ladder is built around doubling promotions: the headline data allowance doubles during the current promo period, which makes the per-GB math far better than the base numbers suggest. The eSIM swap is available in-store. Note that the promotions change periodically — confirm the current bonus on movistar.es or in store before buying.
 
 ### Registration Process
 
@@ -153,59 +148,56 @@ The Turista plans specifically target short-stay visitors. The standard Turista 
 
 ### Coverage Performance by Region
 
-| Region | 4G/5G Coverage | Average Download Speed | Notes |
-|---|---|---|---|
-| Madrid metro | 99% | 150-350 Mbps | Full 5G SA deployment, 3.5GHz and mmWave |
-| Barcelona metro | 99% | 120-300 Mbps | 5G in all districts, SA in city center |
-| Costa del Sol | 98% | 80-200 Mbps | Strong coastal coverage, 5G in Malaga |
-| Rural Andalusia | 92% | 30-80 Mbps | 4G in most villages, 5G limited to towns |
-| Pyrenees | 88% | 15-50 Mbps | Better than competitors in mountain passes |
-| Canary Islands | 97% | 60-180 Mbps | Tourist zone priority, 5G in resort areas |
-| Galicia interior | 90% | 25-70 Mbps | 4G coverage strongest among carriers |
-| Castilla-La Mancha | 93% | 30-90 Mbps | Reliable along AVE routes |
-| Balearic Islands | 96% | 50-160 Mbps | Good coverage on all main islands |
+| Region | Coverage Character | Notes |
+|---|---|---|
+| Madrid metro | Excellent, full 5G | 5G SA live; fastest in the country |
+| Barcelona metro | Excellent | 5G in all districts, SA in city center |
+| Costa del Sol | Excellent | Strong coastal coverage, 5G in Malaga |
+| Rural Andalusia | Good | 4G in most villages, 5G limited to towns |
+| Pyrenees | Best of the big three | Reliable in most mountain passes |
+| Canary Islands | Very good | Tourist zones well covered |
+| Galicia interior | Very good | Strongest rural footprint among carriers |
+| Castilla-La Mancha | Very good | Reliable along AVE routes |
+| Balearic Islands | Very good | Good coverage on all main islands |
 
-Movistar's network advantage is most noticeable in rural areas, mountainous regions, and along AVE high-speed train routes. Travelers visiting the Pyrenees, Sierra Nevada, or interior villages of Castilla-La Mancha will maintain connectivity on Movistar when Orange and Vodafone users lose signal. In independent speed tests conducted by [nPerf](https://www.nperf.com/en/map/ES/-/Movistar/mobile-coverages/) in 2025, Movistar scored highest overall, ahead of Orange and Vodafone[reference:26].
+Movistar's network advantage is most noticeable in rural areas, mountainous regions, and along AVE high-speed train routes. Travelers visiting the Pyrenees, Sierra Nevada, or interior villages of Castilla-La Mancha will maintain connectivity on Movistar when Orange and Vodafone users lose signal. In independent speed tests conducted by [nPerf](https://www.nperf.com/en/map/ES/-/Movistar/signal) in 2025, Movistar scored highest overall, ahead of Orange and Vodafone.
 
 ### Movistar Weaknesses
 
-- **Higher pricing:** 10GB prepaid at EUR 15 — 50% more than Orange[reference:27]
+- **Smaller allowances per euro than budget rivals:** Yoigo and Digi hand you far more GB for the same EUR 10 unless you count Movistar's promotional bonuses
 - **Slow activation:** Can take up to 24 hours after store registration
 - **Bank account required:** Some stores reject international credit cards for first-time top-ups
 
-Customer satisfaction scores for Movistar prepaid from the [OCU](https://www.ocu.org/) (Spanish consumer organization) rank below Orange and Yoigo, with complaints focused on billing issues and slow eSIM activation times. The language barrier is more pronounced at Movistar stores outside major cities, where staff English proficiency is limited.
+Customer satisfaction surveys from [OCU](https://www.ocu.org/), Spain's main consumer organization, tend to rank Movistar's prepaid service behind the smaller carriers, with complaints focused on billing issues and slow eSIM activation times. The language barrier is more pronounced at Movistar stores outside major cities, where staff English proficiency is limited.
 
 ---
 
-## Orange Prepaid: Balanced Coverage and Value
+## Orange Prepaid eSIM: Balanced Coverage and Value
 
-Check our [Spain eSIM essentials](/blog/spain-esim-complete-travel-guide/) for more on network coverage and speeds[reference:28].
+Check our [Spain eSIM essentials](/blog/spain-esim-complete-travel-guide/) for more on network coverage and speeds.
 
-[Orange Spain](https://www.orange.es/), now merged with MasMovil under the joint venture MasOrange (approved by the European Commission in February 2024), operates the country's second-largest network with strong urban and suburban coverage[reference:29]. The merger created Spain's largest telecom operator by customer count with over 37 million mobile lines. Their prepaid eSIM offering has become the most popular choice for cost-conscious visitors who still want a Spanish number.
+[Orange Spain](https://www.orange.es/), now merged with MasMovil under the joint venture MasOrange (approved by the European Commission in February 2024), operates the country's second-largest network with strong urban and suburban coverage. The merger created Spain's largest telecom operator by customer count with over 37 million mobile lines. Their prepaid eSIM offering has become the most popular choice for cost-conscious visitors who still want a Spanish number.
 
 ### Orange Spain Prepaid eSIM Plans
 
 | Plan Name | Data | Price (EUR) | Per GB | Validity | Voice/SMS |
 |---|---|---|---|---|---|
-| Orange Mini Prepago | 5GB | 6 | 1.20 | 15 days | 50 min |
-| Orange Medio Prepago | 15GB | 10 | 0.67 | 30 days | 100 min, 100 SMS[reference:30] |
-| Orange Max Prepago | 25GB | 15 | 0.60 | 30 days | Unlimited national |
-| Orange Super Prepago | 50GB | 20 | 0.40 | 30 days | Unlimited + 100 intl min |
-| Orange Ilimitada Prepago | 100GB | 30 | 0.30 | 30 days | Unlimited + 200 intl min |
-| Orange Holiday Europe | 25GB | 29.99 | 1.20 | 14 days | 120 min (EU roaming)[reference:31] |
+| Mundo 15 | 20 GB | 15 | 0.75 | 28 days | Included |
+| Mundo 15 (promo periods) | 20 GB + bonus data | 15 | varies | 28 days | Included |
+| Orange Holiday Europe (eSIM) | 20 GB across Europe | 29.99 (~USD) | 1.50 | 30 days | Unlimited EU calls & SMS |
 
-Orange's prepaid eSIM pricing delivers the best value among Spain's major carriers. The 15GB plan at EUR 10 for 30 days works out to EUR 0.67 per GB, which undercuts most international eSIMs by 60-80%[reference:32]. Even the 5GB plan at EUR 6 provides competitive pricing for shorter stays. The 50GB Super Prepago at EUR 20 is the sweet spot for heavy data users, providing unlimited national calls and 100 international minutes.
+Orange restructures its Mundo prepaid tiers regularly, so treat Mundo 15 as the benchmark tourist-friendly plan and check tienda.orange.es for current bonuses. The Mundo 15 at EUR 15 for 20 GB works out to EUR 0.75 per GB, which undercuts most international eSIMs by a wide margin and includes a Spanish number with calls and texts.
 
 ### Coverage and Speed Performance
 
-Orange provides 5G coverage across all major Spanish cities and along most tourist corridors[reference:33]. Their 5G deployment uses the 3.5GHz band for high-speed urban coverage and 2100MHz for wider suburban reach. Average speeds in Orange 5G zones reach 100-250 Mbps, slightly below Movistar's peak but consistent across more locations[reference:34]. The MasOrange merger has accelerated 5G deployment by combining spectrum assets from both companies, giving Orange access to 100MHz of contiguous 5G spectrum in the 3.5GHz band.
+Orange provides 5G coverage across all major Spanish cities and along most tourist corridors. Their 5G deployment uses the 3.5GHz band for high-speed urban coverage and the 700MHz band won in the 2021 auction for wider suburban and rural reach. Average speeds in Orange 5G zones are among the fastest in the country, and the MASORANGE merger has accelerated 5G deployment by combining spectrum assets from both companies.
 
 - Strongest in urban areas: Madrid, Barcelona, Valencia, Seville, Bilbao, Zaragoza, Malaga
 - Good along tourist coasts: Costa del Sol, Costa Brava, Costa Blanca, Costa Dorada
-- Adequate in rural areas: 4G coverage reaches 95% of population nationwide
+- Adequate in rural areas: 4G population coverage is effectively nationwide
 - Metro coverage: Full 4G/5G in all Madrid and Barcelona metro stations including tunnels
 - AVE coverage: 4G along most high-speed routes with occasional dead zones in tunnels between Guadalajara and Calatayud
-- Stadium and event coverage: Orange has dedicated capacity installations at Santiago Bernabeu, Camp Nou, and Wanda Metropolitano
+- Stadium and event coverage: Orange has dedicated capacity installations at Santiago Bernabeu, Camp Nou, and Cívitas Metropolitano
 
 ### Orange Prepaid eSIM Registration Steps
 
@@ -220,62 +212,58 @@ Orange offers the smoothest online registration process among Spanish carriers. 
 
 ### Orange Holiday Europe Plan
 
-The Orange Holiday Europe plan deserves special attention for travelers combining Spain with other EU destinations. At EUR 29.99 for 14 days, it includes 25GB data across 30 European countries with a Spanish number, voice minutes, and SMS[reference:35]. The plan includes:
+The Orange Holiday Europe plan deserves special attention for travelers combining Spain with other EU destinations. From $29.99 for 30 days, it includes 20 GB of data across 30 European destinations, a working European number, unlimited calls and texts in Europe (fair use applies), and SMS verification capability. The plan includes:
 
-- 25GB data usable across all EU/EEA countries plus Switzerland and the UK
-- 120 minutes of outgoing calls within the EU
-- Unlimited incoming calls
-- 5G access where available in each country
+- 20 GB data usable across all EU/EEA destinations plus Switzerland and the UK
+- A European (+33) number that receives calls, SMS, and app verification codes in Spain
+- Unlimited outgoing and incoming calls within Europe (fair use)
+- 4G/5G access where available in each country
 - Full EU roaming rights with no additional charges
 - Hotspot tethering included
-- Spanish number for SMS verification and local calls
 
-The 5G access and full EU roaming rights make this the most comprehensive carrier-direct option for multi-country trips. Compared to buying separate eSIMs for each country, the Holiday Europe plan saves EUR 20-40 on a two-week trip visiting three or more EU countries.
+The EU roaming rights make this the most comprehensive carrier-direct option for multi-country trips. Compared to buying separate eSIMs for each country, the Holiday Europe plan saves real money on a two-week trip visiting three or more EU countries. Note that the number is French (+33), not Spanish (+34) — it works for every tourist verification scenario (Renfe, Cabify, ElTenedor), but it is not a local number.
 
-Orange prepaid eSIM supports hotspot tethering on all plans. There are no speed caps or throttling within the data allowance. After plan depletion, speeds reduce to 256 kbps for emergency connectivity -- enough for WhatsApp messaging and basic navigation but not for streaming or video calls.
+Orange prepaid eSIM supports hotspot tethering on all plans. There are no speed caps or throttling within the data allowance.
 
 ---
 
 ## Vodafone Spain Prepaid: Strong Along the Coast
 
-For a side-by-side look at carrier coverage maps, visit our [Movistar, Orange, and Vodafone comparison guide](/blog/spain-esim-movistar-orange-vodafone-comparison/)[reference:36].
+For a side-by-side look at carrier coverage maps, visit our [Movistar, Orange, and Vodafone comparison guide](/blog/spain-esim-movistar-orange-vodafone-comparison/).
 
-[Vodafone Spain](https://www.vodafone.es/), acquired by British investment firm Zegona in May 2024 for EUR 5 billion, operates the country's third-largest network with particular strength along Mediterranean coastal areas popular with tourists[reference:37]. The Zegona acquisition has resulted in a renewed focus on the prepaid and tourist market.
+[Vodafone Spain](https://www.vodafone.es/), acquired by British investment firm Zegona in May 2024 for EUR 5 billion, operates the country's third-largest network with particular strength along Mediterranean coastal areas popular with tourists. The Zegona acquisition has resulted in a renewed focus on the prepaid and tourist market.
 
 ### Vodafone Spain Prepaid eSIM Plans
 
-| Plan Name | Data | Price (EUR) | Per GB | Validity | Voice/SMS |
-|---|---|---|---|---|---|
-| Vodafone Prepago Ligero | 5GB | 12 | 2.40 | 15 days | 50 min |
-| Vodafone Prepago Medio | 10GB | 15 | 1.50 | 30 days | 100 min[reference:38] |
-| Vodafone Prepago Intenso | 20GB | 20 | 1.00 | 30 days | Unlimited national |
-| Vodafone Viaje Travel | 10GB | 25 | 2.50 | 15 days | 50 min (EU roaming) |
-| Vodafone Prepago Max | 40GB | 30 | 0.75 | 30 days | Unlimited + intl |
-| Vodafone Prepago Ilimitado | 100GB (then 1Mbps) | 40 | 0.40 | 30 days | Unlimited + intl |
+| Plan Name | Data | Price | Validity | Voice/SMS |
+|---|---|---|---|---|
+| Prepaid S | 90 GB (promo) | EUR 10 | 28 days | Included |
+| Prepaid M and higher tiers | Larger allowances | From EUR 15 | 28 days | Included |
+| Vodafone Travel (eSIM) | 10-20 GB | ~$13-17 | 15-30 days | None — data only |
 
-Vodafone's pricing sits between Movistar and Orange on a per-GB basis. The Prepago Medio at EUR 15 for 10GB costs the same as Movistar's Navega but provides 100 voice minutes compared to Movistar's 100 minutes plus SMS. The Viaje Travel plan at EUR 25 for 10GB over 15 days targets tourists but is priced higher than Orange's comparable offerings.
+Vodafone's promotional Prepaid S is the volume leader of the Spanish prepaid market: 90 GB for EUR 10 on a 28-day recharge is extraordinary per-GB value, though the bonus size changes with promotions — confirm the current allowance on vodafone.es. Higher tiers cost more but follow the same 28-day cycle. The standalone Vodafone Travel eSIM is sold online for tourists but is data-only.
 
 ### Coastal Coverage Advantage
 
-Vodafone has invested heavily in 5G infrastructure along Spain's Mediterranean and Atlantic coastlines[reference:39]. Their network consistently outperforms competitors in Malaga, Marbella, Alicante, Benidorm, Palma de Mallorca, and the Canary Islands[reference:40]. This investment is strategic: coastal tourist zones are a major source of prepaid revenue for Vodafone Spain during the peak summer months.
+Vodafone has invested heavily in 5G infrastructure along Spain's Mediterranean and Atlantic coastlines. Their network consistently outperforms competitors in Malaga, Marbella, Alicante, Benidorm, Palma de Mallorca, and the Canary Islands. This investment is strategic: coastal tourist zones are a major source of prepaid revenue for Vodafone Spain during the peak summer months.
 
-| Coastal Zone | Vodafone 5G Coverage | Competitor Comparison | Best For |
-|---|---|---|---|
-| Costa del Sol (Malaga to Estepona) | 95% 5G | Best among carriers | Beach resorts, Marbella |
-| Costa Brava (Blanes to French border) | 90% 5G | Tied with Orange | Lloret de Mar, Tossa |
-| Costa Blanca (Alicante, Benidorm) | 93% 5G | Best among carriers | Benidorm, Altea, Calpe |
-| Costa Dorada (Tarragona) | 88% 5G | Slightly behind Orange | Salou, Cambrils |
-| Costa de la Luz (Cadiz, Huelva) | 85% 5G | Ahead of Movistar | Tarifa, Conil |
-| Balearic Islands | 92% 5G | Tied with Movistar | Palma, Ibiza Town |
-| Canary Islands (tourist zones) | 90% 5G | Tied with Orange | Tenerife, Gran Canaria |
+| Coastal Zone | Vodafone Standing | Best For |
+|---|---|---|
+| Costa del Sol (Malaga to Estepona) | Best among carriers | Beach resorts, Marbella |
+| Costa Brava (Blanes to French border) | Tied with Orange | Lloret de Mar, Tossa |
+| Costa Blanca (Alicante, Benidorm) | Best among carriers | Benidorm, Altea, Calpe |
+| Costa Dorada (Tarragona) | Slightly behind Orange | Salou, Cambrils |
+| Costa de la Luz (Cadiz, Huelva) | Ahead of Movistar | Tarifa, Conil |
+| Balearic Islands | Tied with Movistar | Palma, Ibiza Town |
+| Canary Islands (tourist zones) | Tied with Orange | Tenerife, Gran Canaria |
 
-- Costa del Sol: Best 5G coverage of any carrier from Malaga to Estepona, with consistent 200-300 Mbps in Marbella and Puerto Banus
+- Costa del Sol: Best coastal coverage of any carrier from Malaga to Estepona, with consistent fast 5G in Marbella and Puerto Banus
 - Costa Brava: Strong coverage from Blanes to the French border, though interior mountain areas have gaps
 - Costa Blanca: Excellent 5G in Alicante, Benidorm, and coastal towns; good 4G fallback in inland areas
 - Balearic Islands: Palma, Ibiza Town, Menorca all with 5G; rural fincas may have limited coverage
 - Canary Islands: Tenerife and Gran Canaria tourist zones well covered; interior mountains (Teide) have gaps
 
-Vodafone's fair usage policy for prepaid eSIMs permits up to 5GB daily at full speed before potential deprioritization. This generous threshold accommodates heavy streaming and hotspot usage better than Movistar's or Orange's standard policies, which deprioritize after 2-3GB daily in congested areas.
+Vodafone's fair usage policy for prepaid eSIMs permits generous daily full-speed usage before potential deprioritization, which accommodates heavy streaming and hotspot usage. Check the current threshold in your plan's terms, as carriers adjust it periodically.
 
 ### Registration Process for Vodafone Prepaid eSIM
 
@@ -289,97 +277,111 @@ Vodafone's fair usage policy for prepaid eSIMs permits up to 5GB daily at full s
 
 Vodafone's online registration includes Spanish-language web forms with no English option. Travelers who do not speak Spanish should visit a physical store where staff typically has basic English proficiency in tourist areas. The Vodafone app is available in English, making top-ups and account management accessible after initial registration.
 
-Vodafone's Travel eSIM product specifically targets short-stay visitors at EUR 25 for 10GB over 15 days. This product includes EU roaming for incidental cross-border travel. The plan includes a Spanish number for local app verification and voice calls. The Travel plan can be purchased online without visiting a store in some cases.
+Vodafone's Travel eSIM product specifically targets short-stay visitors, with 10 GB for 15 days (~$13) or 20 GB for 30 days (~$15-17). Important: it is **data-only** — it does not include a phone number, so it cannot receive SMS verification codes. If you need a number, buy the in-store Prepaid S instead; if you only need coastal data, Travel is one of the cheapest big-brand options and can be purchased online without visiting a store.
 
 ### Coverage Limitations
 
 - Northern Spain (Galicia, Asturias, Basque Country interior): Coverage drops below Movistar levels, particularly in mountainous zones
-- Madrid metro: 4G in most stations but 5G limited to central lines (Sol, Gran Via, Callao)
-- Rural inland areas: 4G coverage at 85%, below Movistar's 92% and Orange's 90%
+- Madrid metro: 4G in most stations but 5G concentrated on central lines (Sol, Gran Via, Callao)
+- Rural inland areas: Coverage breadth trails Movistar's, with more frequent signal drops on secondary roads
 - AVE train routes: Dead zones in tunnels between Madrid and Valencia, particularly around Cuenca
 - Sierra Nevada: Limited coverage above 2,000 meters compared to Movistar
 
 ---
 
-## Yoigo and Other Budget Options
+## Yoigo eSIM and Other Budget Spain Options
 
-Yoigo operates as Spain's fourth national mobile carrier with 12% market share[reference:41]. Yoigo is owned by MasMovil, which merged with Orange in 2024 to form MasOrange, though Yoigo continues operating as a separate brand with its own pricing and network strategy[reference:42]. They use a hybrid model combining their own network infrastructure in urban areas with Movistar roaming in rural zones.
+Yoigo operates as Spain's fourth national mobile brand. Yoigo is owned by MASORANGE — the group formed when MasMovil merged with Orange in 2024 — though Yoigo continues operating as a separate brand with its own pricing and positioning. They use a hybrid model combining their own network infrastructure in urban areas with the wider MASORANGE footprint outside them.
 
 ### Yoigo Spain eSIM Prepaid Plans
 
-| Plan Name | Data | Price (EUR) | Per GB | Validity | Network |
-|---|---|---|---|---|---|
-| Prepago 7 | 7GB | 7 | 1.00 | 30 days | Yoigo + Movistar[reference:43] |
-| Prepago 15 | 15GB | 12 | 0.80 | 30 days | Yoigo + Movistar |
-| Prepago 25 | 25GB | 15 | 0.60 | 30 days | Yoigo + Movistar |
-| Prepago 50 | 50GB | 20 | 0.40 | 30 days | Yoigo + Movistar |
-| Prepago 100 | 100GB | 30 | 0.30 | 30 days | Yoigo + Movistar |
+| Data | Price (EUR) | Per GB | Validity | Network |
+|---|---|---|---|---|
+| 25 GB | 10 | 0.40 | 28 days | Yoigo + MASORANGE |
+| 50 GB | 15 | 0.30 | 28 days | Yoigo + MASORANGE |
+| 100 GB | 20 | 0.20 | 28 days | Yoigo + MASORANGE |
+| 150 GB | 35 | 0.23 | 28 days | Yoigo + MASORANGE |
 
-Yoigo's pricing undercuts all three major carriers. Their 25GB plan at EUR 15 matches Orange's pricing while the 50GB option at EUR 20 provides the lowest per-GB cost among local carriers. The 100GB plan at EUR 30 is proportionally the best value at EUR 0.30/GB, though few travelers need this much data in a month.
+Yoigo's pricing undercuts all three major carriers. The 25 GB plan at EUR 10 is the cheapest entry point of any main brand, and the 100 GB option at EUR 20 is proportionally the best value at EUR 0.20/GB, though few travelers need this much data in a month.
 
-Yoigo uses Movistar's rural network through a national roaming agreement. This means Yoigo prepaid users connect to Movistar's towers outside Yoigo's urban coverage zones, effectively matching Movistar's coverage footprint in rural and mountainous areas[reference:44]. In practice, Yoigo users experience:
+Yoigo rides the wider MASORANGE network footprint (including Orange's and MásMóvil's infrastructure) plus its own urban network, which effectively extends its reach deep into rural Spain. In practice, Yoigo users experience:
 
-- Urban areas: Full 5G on Yoigo's own network at 150-300 Mbps
-- Suburban areas: 5G on Yoigo network or 4G+ on Movistar roaming at 50-150 Mbps
-- Rural areas: 4G on Movistar network at 20-80 Mbps
-- Mountainous regions: 4G on Movistar network matching Movistar's coverage footprint
+- Urban areas: Full 5G on Yoigo's network
+- Suburban areas: 5G or strong 4G depending on the site
+- Rural areas: Solid 4G across the MASORANGE footprint
+- Mountainous regions: Coverage approaching the combined group footprint, though rural 5G is limited
 
-The roaming handoff between Yoigo's network and Movistar's is seamless on modern smartphones. Users generally cannot tell which network they are connected to without checking the network operator code in their device settings.
+The roaming handoff between Yoigo's network and the wider MASORANGE footprint is seamless on modern smartphones. Users generally cannot tell which network they are connected to without checking the network operator code in their device settings.
 
 ### Yoigo eSIM Registration
 
 - Available online with video ID verification through Yoigo's website
 - QR code delivery within 2 hours during business hours (typically 30-60 minutes)
 - Spanish address required for account registration (hotel address accepted)
-- In-store activation at Yoigo stores (limited locations -- approximately 150 stores, primarily in Madrid, Barcelona, Valencia, and Seville)
+- In-store activation at Yoigo stores (limited network, concentrated in major cities like Madrid, Barcelona, Valencia, and Seville)
+
+### Spanish MVNOs: Lebara, Jazztel, Simyo, Lowi and O2
+
+Beyond Yoigo, a tier of budget brands rides on the same national networks — and since the Orange–MásMóvil merger created MASORANGE in 2024, several of them share one corporate roof. What matters for a traveler is not the logo but which network sits underneath and whether the brand supports eSIM and online activation.
+
+- **Lebara** — a prepaid-focused brand now part of the MASORANGE group, known for international calling bundles and tourist-friendly online activation. You can buy a Lebara Spain eSIM on its website and register with your passport, no store visit required — check recent reviews of its Spanish storefront for the current plan lineup before a long stay. SIMs are also sold at kiosks and estancos (tobacco shops) across Spain.
+- **Jazztel** — a long-standing consumer brand inside the MASORANGE group, using the Orange/MásMóvil footprint. Positioned for residents more than tourists, but its online store does sell prepaid eSIM options.
+- **Simyo** — the group's budget data brand, with simple prepaid bundles and data rollover. Solid choice for a long stay on the MASORANGE network.
+- **Lowi** — Vodafone Spain's low-cost brand, and **O2** — Telefónica's budget brand. Both undercut their parent networks on price while riding the same towers, which makes them worth comparing for stays of a month or more.
+
+One caution on brand names: Lycamobile's Spanish business was merged into **Llamaya** in February 2026, so if you find a guide telling you to buy a "Lycamobile Spain eSIM", look for Llamaya instead — the Lyca-branded Spanish storefront no longer operates independently.
+
+For how these brands compare against the four national networks on coverage, see our [Movistar vs Orange vs Vodafone guide](/blog/spain-esim-movistar-orange-vodafone-comparison/).
 - Top-up through Yoigo app (Mi Yoigo), bank transfer, or store; international card acceptance is inconsistent
 - Foreign passport accepted for video verification, unlike some MVNOs that require Spanish ID only
 
 ### MVNO eSIM Options
 
-MVNOs (Mobile Virtual Network Operators) offer the lowest prices in the Spanish market but have stricter registration requirements and more limited eSIM availability[reference:45].
+MVNOs (Mobile Virtual Network Operators) offer the lowest prices in the Spanish market but have stricter registration requirements and more limited eSIM availability.
 
-| MVNO | Host Network | Best Plan | eSIM | Registration Requirement | Card Acceptance |
+| MVNO | Host Network | Typical Entry Plan | eSIM | Registration Requirement | Card Acceptance |
 |---|---|---|---|---|---|
-| Lowi | Vodafone | 25GB for EUR 12.90 | Yes | Spanish ID (NIE/DNI) | Spanish cards only |
-| Pepephone | Movistar | 20GB for EUR 14.95 | Yes | Spanish ID | International cards accepted |
-| DIGI | Movistar | 50GB for EUR 10 | Limited (postpaid) | Spanish ID + bank account | Spanish bank account required |
-| Simyo | Orange | 15GB for EUR 8 | Limited (select plans) | Spanish ID | Spanish cards only |
-| Finetwork | Vodafone | 30GB for EUR 13.90 | Yes | Spanish ID | Spanish cards preferred |
-| O2 | Movistar | 20GB for EUR 12 | Yes | NIE/passport | International cards tested |
+| Lowi | Vodafone | From ~EUR 10 | Yes | Spanish ID (NIE/DNI) | Spanish cards only |
+| Pepephone | MASORANGE (MásMóvil) | From ~EUR 10 | Yes | Spanish ID or passport | International cards accepted |
+| DIGI | Own + Movistar roaming | 30 GB for EUR 10 | Limited (postpaid) | Spanish ID + bank account | Spanish bank account required |
+| Simyo | Orange (MASORANGE) | From ~EUR 8 | Limited (select plans) | Spanish ID | Spanish cards only |
+| Finetwork | Orange | From ~EUR 10 | Yes | Spanish ID | Spanish cards preferred |
+| O2 | Movistar (Telefónica) | From ~EUR 12 | Yes | NIE/passport | International cards generally accepted |
 
-O2 Spain, owned by Telefonica (Movistar), is worth special attention. As Movistar's low-cost brand, O2 offers eSIM support with more flexible registration than other MVNOs. Their 20GB plan at EUR 12 undercuts Movistar's own pricing while using the same network. O2 accepts foreign passports for registration and has more reliable international card processing than other MVNOs.
+MVNO plans change frequently — treat these as ballpark entry prices and confirm current tiers on each brand's site.
 
-MVNOs generally require a Spanish NIE or DNI (national ID number), which most tourists cannot provide. International credit cards are frequently rejected by MVNO billing systems due to SEPA direct debit requirements and 3D Secure authentication protocols. For these reasons, MVNOs are practical only for residents with Spanish bank accounts[reference:46].
+O2 Spain, owned by Telefonica (Movistar), is worth special attention. As Movistar's low-cost brand, O2 offers eSIM support with more flexible registration than other MVNOs. Their entry plans undercut Movistar's own pricing while using the same network. O2 accepts foreign passports for registration and has more reliable international card processing than other MVNOs.
+
+MVNOs generally require a Spanish NIE or DNI (national ID number), which most tourists cannot provide. International credit cards are frequently rejected by MVNO billing systems due to SEPA direct debit requirements and 3D Secure authentication protocols. For these reasons, MVNOs are practical only for residents with Spanish bank accounts.
 
 ### Key Distinction
 
-The key distinction between local carrier prepaid eSIMs and international eSIMs is the registration process. Local carriers must comply with Spanish identity verification requirements under telecom regulations, while international eSIMs operate under their home country's regulatory framework and do not require personal documentation[reference:47]. For visitors considering a Spain prepaid eSIM from a local carrier, Yoigo's plans provide the best balance of low price and tourist-accessible registration among local options.
+The key distinction between local carrier prepaid eSIMs and international eSIMs is the registration process. Local carriers must comply with Spanish identity verification requirements under telecom regulations, while international eSIMs operate under their home country's regulatory framework and do not require personal documentation. For visitors considering a Spain prepaid eSIM from a local carrier, Yoigo's plans provide the best balance of low price and tourist-accessible registration among local options.
 
 ---
 
-## Local vs International: Price, Coverage and Convenience Compared
+## Local vs International Spain eSIM: Price, Coverage, Convenience
 
-For general travel tips and eSIM setup guidance, see our [Spain eSIM complete guide](/blog/spain-esim-complete-travel-guide/)[reference:48].
+For general travel tips and eSIM setup guidance, see our [Spain eSIM complete guide](/blog/spain-esim-complete-travel-guide/).
 
-The decision between a local Spanish carrier prepaid eSIM and an international eSIM provider involves tradeoffs across price, coverage, convenience, and features[reference:49]. Understanding these tradeoffs helps match the choice to your specific trip requirements[reference:50].
+The decision between a local Spanish carrier prepaid eSIM and an international eSIM provider involves tradeoffs across price, coverage, convenience, and features. Understanding these tradeoffs helps match the choice to your specific trip requirements.
 
 ### Comprehensive Comparison
 
 | Factor | Local Carrier Prepaid | International eSIM |
 |---|---|---|
-| Cost per GB | EUR 0.40-2.00[reference:51] | EUR 1.50-4.50[reference:52] |
-| Registration | Passport + Spanish address + 15-30 min | Email only, 2 minutes[reference:53] |
-| Activation time | 1-24 hours after registration | Instant after purchase[reference:54] |
+| Cost per GB | EUR 0.20-2.00 | USD 1.80-4.50 |
+| Registration | Passport + Spanish address + 15-30 min | Email only, 2 minutes |
+| Activation time | 1-24 hours after registration | Instant after purchase |
 | Spanish number | Yes (+34) | No (most providers) |
 | Voice calls | Included (varies by plan) | Data only |
-| Network priority | Full (same as postpaid)[reference:55] | Deprioritized during congestion[reference:56] |
-| 5G access | Full (carrier-dependent)[reference:57] | Usually included |
+| Network priority | Full (same as postpaid) | Deprioritized during congestion |
+| 5G access | Full (carrier-dependent) | Usually included |
 | Hotspot tethering | Included (most plans) | Varies by provider |
 | Customer support | In-store + phone (Spanish) | App chat (English) |
 | Top-up methods | Spanish app, store, bank | International card, app |
 | Multi-country usage | EU roaming included (most plans) | Varies, often extra cost |
-| Suitability | Stays over 2 weeks[reference:58] | Short stays under 2 weeks[reference:59] |
+| Suitability | Stays over 2 weeks | Short stays under 2 weeks |
 | eSIM delivery | In-store QR or email (1-24h) | Instant email QR code |
 | Refund policy | Store credit only (most carriers) | 7-30 day refund (varies) |
 | Data rollover | Not available (most prepaid) | Not available (most providers) |
@@ -388,54 +390,54 @@ The decision between a local Spanish carrier prepaid eSIM and an international e
 
 | Trip Scenario | Recommended | Key Reason |
 |---|---|---|
-| Weekend trip (3-4 days) | International eSIM | Fast setup, no registration hassle[reference:60] |
+| Weekend trip (3-4 days) | International eSIM | Fast setup, no registration hassle |
 | One-week vacation | International eSIM | Convenience outweighs cost savings |
 | Two-week trip | International eSIM or Orange prepaid | Break-even on cost with registration time |
-| Month-long stay | Local carrier prepaid | 60-80% cost savings, Spanish number[reference:61] |
-| Multi-country Europe | Orange Holiday Europe or international eSIM | Best blend of local + regional coverage[reference:62] |
+| Month-long stay | Local carrier prepaid | 60-80% cost savings, Spanish number |
+| Multi-country Europe | Orange Holiday Europe or international eSIM | Best blend of local + regional coverage |
 | Remote work (30+ days) | Local carrier prepaid | Voice calls, Spanish number, hotspot |
-| Rural area travel | Movistar prepaid | Widest coverage in remote regions[reference:63] |
-| Beach vacation | Vodafone prepaid | Best coastal 5G coverage[reference:64] |
-| Budget extended stay | Yoigo prepaid | Lowest per-GB pricing[reference:65] |
-| Student semester abroad | Orange prepaid | Best value + EU roaming included[reference:66] |
+| Rural area travel | Movistar prepaid | Widest coverage in remote regions |
+| Beach vacation | Vodafone prepaid | Best coastal 5G coverage |
+| Budget extended stay | Yoigo prepaid | Lowest per-GB pricing |
+| Student semester abroad | Orange prepaid | Best value + EU roaming included |
 
 ### Price Comparison for Common Trip Durations
 
 | Data Need | Local Carrier Cost | International eSIM Cost | Savings with Local |
 |---|---|---|---|
-| 5GB (7 days) | EUR 6-10 (Orange/Movistar)[reference:67] | USD 12-16 (Airalo, Nomad)[reference:68] | 37-50% |
-| 10GB (7 days) | EUR 15 (Orange Medio 30-day)[reference:69] | USD 26 (Airalo 7-day)[reference:70] | ~42% |
-| 15GB (14 days) | EUR 10-15 (Orange Medio 30-day)[reference:71] | USD 34 (Holafly unlimited 15-day)[reference:72] | 56-70% |
-| 25GB (30 days) | EUR 15 (Orange or Yoigo)[reference:73] | USD 64 (Holafly unlimited 30-day)[reference:74] | ~77% |
-| 50GB (30 days) | EUR 20 (Yoigo or Orange Super)[reference:75] | EUR 29-49 (international unlimited)[reference:76] | 31-59% |
+| 5 GB (7 days) | EUR 10 (Yoigo 25 GB tier, use what you need) | USD 4-9 (Airalo 1 GB $4 / 5 GB $9) | Comparable or cheaper online |
+| 10 GB (14 days) | EUR 10 (Yoigo 25 GB tier) | USD 14-16 (Airalo 10 GB $14, Nomad 10 GB $15) | ~30% |
+| 25 GB (30 days) | EUR 10-15 (Yoigo 25 GB, Movistar M promo 80 GB) | USD 20-21 (Airalo 20 GB $20, Nomad 20 GB $20) | ~40-50% |
+| 50 GB (30 days) | EUR 10-15 (Vodafone S promo 90 GB, Yoigo 50 GB) | USD 35-39 (Nomad 50 GB $35, Airalo 50 GB $39) | ~60-70% |
+| Unlimited (30 days) | EUR 10-15 (local prepaid with big promo) | USD 64.50 / EUR 59.90 (Holafly unlimited 30-day) | ~80% |
 
-Local carrier prepaid plans provide significantly better per-GB pricing for extended stays[reference:77]. The savings over a 30-day trip with 25GB data reach EUR 40-50 compared to international unlimited plans[reference:78]. These savings assume you complete the local registration process, which has an opportunity cost of 15-30 minutes plus travel time to a carrier store.
+Local carrier prepaid plans provide significantly better per-GB pricing for extended stays. The savings on a 30-day stay are dramatic once your usage passes 20 GB. These savings assume you complete the local registration process, which has an opportunity cost of 15-30 minutes plus travel time to a carrier store.
 
 ### The Convenience Premium
 
-The convenience premium paid for international eSIMs ranges from EUR 5-20 for short trips, calculated as the difference between the international eSIM price and the equivalent local carrier plan price. For a 7-day trip with 5GB data:
+The convenience premium paid for international eSIMs is modest for short trips, calculated as the difference between the international eSIM price and the equivalent local carrier plan price. For a 7-day trip with light data needs:
 
-- International eSIM: approximately USD 12-16 (Airalo, Nomad, Holafly)[reference:79]
-- Local prepaid (Orange Mini): EUR 6 for 5GB[reference:80]
-- Convenience premium: EUR 4-8
+- International eSIM: approximately USD 4-9 (Airalo, Nomad, Saily)
+- Local prepaid: EUR 10 (Yoigo 25 GB tier)
+- Convenience premium: roughly zero to a few dollars
 
-The EUR 4-8 premium for skipping registration is justified for most short-stay travelers. The premium decreases on a per-day basis for longer stays, making local carriers increasingly attractive for trips over 14 days[reference:81].
+At short durations the premium is negligible — which is why buying online wins for quick trips. The economics flip on longer stays, making local carriers increasingly attractive for trips over 14 days.
 
 ### Coverage Quality Note
 
-Coverage quality depends on the specific carrier partnership rather than the reseller brand[reference:82]. A traveler using an international eSIM partnered with Movistar receives the same coverage as a Movistar prepaid user but at lower network priority during congestion[reference:83]. In practice, this means the international eSIM user may experience slower speeds during peak hours in dense tourist areas such as:
+Coverage quality depends on the specific carrier partnership rather than the reseller brand. A traveler using an international eSIM partnered with Movistar receives the same coverage as a Movistar prepaid user but at lower network priority during congestion. In practice, this means the international eSIM user may experience slower speeds during peak hours in dense tourist areas such as:
 
 - Plaza Mayor (Madrid) during summer festivals
-- Las Ramblas (Barcelona) on weekend afternoons[reference:84]
+- Las Ramblas (Barcelona) on weekend afternoons
 - Benidorm beachfront during August
 - Malaga city center during Semana Santa
 - Palma de Mallorca cruise port arrival times
 
-The speed difference is typically 20-40% during peak congestion, returning to normal during off-peak hours[reference:85]. For most travelers, this deprioritization is barely noticeable for messaging, navigation, and social media but may affect 4K video streaming and large file downloads.
+The speed difference during peak congestion is noticeable but temporary, returning to normal during off-peak hours. For most travelers, this deprioritization is barely noticeable for messaging, navigation, and social media but may affect 4K video streaming and large file downloads.
 
 ---
 
-## Where to Buy: Online, Airport or Local Store?
+## Where to Buy a Spain eSIM: Online, Airport or Local Store?
 
 Purchasing an eSIM for Spain can happen at three stages: before departure (online), upon arrival (airport), or during your stay (local store). Each channel has distinct advantages depending on your trip length, budget, and need for a Spanish number.
 
@@ -449,14 +451,14 @@ Purchasing an eSIM for Spain can happen at three stages: before departure (onlin
 
 ### Online Before Departure (Recommended for Most Travelers)
 
-Purchasing an international eSIM online 1-3 days before departure provides the widest selection, best prices, and instant delivery[reference:86]. The eSIM QR code arrives via email and can be scanned before travel. Installation takes approximately 2 minutes and can be done from home.
+Purchasing an international eSIM online 1-3 days before departure provides the widest selection, best prices, and instant delivery. The eSIM QR code arrives via email and can be scanned before travel. Installation takes approximately 2 minutes and can be done from home.
 
 | Provider | Starting Price | Data Range | Network Partners | eSIM App |
 |---|---|---|---|---|
-| Airalo | USD 4.50/1GB[reference:87] | 1GB-20GB | Orange, Movistar | Yes |
-| Holafly | USD 27 unlimited[reference:88] | 5-90 days unlimited | Movistar | Yes |
-| Nomad | USD 5/1GB[reference:89] | 1GB-50GB | Orange, Movistar | Yes |
-| Saily | USD 3.99/1GB[reference:90] | 1GB-50GB | Vodafone | Yes |
+| Airalo | USD 4/1GB | 1GB-20GB | Orange | Yes |
+| Holafly | USD 11.90 (3-day unlimited) | 5-90 days unlimited | Multi-network | Yes |
+| Nomad | USD 4/1GB | 1GB-50GB | Not disclosed | Yes |
+| Saily | USD 3.99/1GB | 1GB-50GB | Orange | Yes |
 
 - Purchase process: Select plan, pay via card/PayPal/Apple Pay, receive QR code via email
 - Installation: Scan QR code in device settings before departure (iOS: Settings > Cellular > Add eSIM; Android: Settings > Connections > SIM Manager > Add eSIM)
@@ -464,7 +466,9 @@ Purchasing an international eSIM online 1-3 days before departure provides the w
 - Pricing: Most competitive rates available for each data tier
 - Top-up: Available within the provider's app or website; additional plans can be stacked
 
-The best place to buy a Spain prepaid eSIM online is through provider websites or apps. Compare prices across 3-4 providers before purchasing as rates vary significantly by data amount and validity period[reference:91]. Most providers offer identical pricing on their websites and in their apps, so there is no price advantage to purchasing through third-party resellers.
+The best place to buy a Spain prepaid eSIM online is through provider websites or apps. Compare prices across 3-4 providers before purchasing as rates vary significantly by data amount and validity period. Most providers offer identical pricing on their websites and in their apps, so there is no price advantage to purchasing through third-party resellers.
+
+The same logic applies to the budget Spanish brands: you can buy a Lebara Spain eSIM directly on the Lebara website with passport registration, and Lowi, Simyo and Jazztel all sell online — buying direct means the refund and support terms come from the issuer, not a marketplace.
 
 ### Airport Upon Arrival
 
@@ -480,7 +484,7 @@ Major Spanish airports have carrier kiosks and electronics stores selling eSIMs.
 | Valencia (VLC) | Orange, Vodafone | Arrivals | Moderate selection |
 | Ibiza (IBZ) | Orange | Arrivals | Seasonal only (May-October) |
 
-Airport eSIM prices are typically 20-40% higher than online rates. Orange's online 15GB plan at EUR 10 costs EUR 15-18 at airport kiosks[reference:92]. The convenience premium covers immediate activation and in-person support. Airport carriers offer physical SIMs and eSIMs, but eSIM compatibility depends on the staff member's knowledge. Ask specifically for "eSIM prepago" and confirm your phone supports eSIM before purchasing.
+Airport eSIM prices are typically 20-40% higher than online rates, and data allowances at the same price point are smaller. The convenience premium covers immediate activation and in-person support. Airport carriers offer physical SIMs and eSIMs, but eSIM compatibility depends on the staff member's knowledge. Ask specifically for "eSIM prepago" and confirm your phone supports eSIM before purchasing.
 
 ### Local Carrier Store During Your Stay
 
@@ -488,20 +492,20 @@ Spanish carrier stores are found in all cities and most towns with populations o
 
 | Carrier | Store Count | Store Name Signage | Average Wait Time |
 |---|---|---|---|
-| Movistar | 1,200+ locations | Tienda Movistar | 10-20 minutes |
-| Orange | 800+ locations | Tienda Orange | 5-15 minutes |
-| Vodafone | 600+ locations | Tienda Vodafone | 10-20 minutes |
-| Yoigo | 150+ locations | Tienda Yoigo | 5-10 minutes |
+| Movistar | Hundreds nationwide | Tienda Movistar | 10-20 minutes |
+| Orange | Hundreds nationwide | Tienda Orange | 5-15 minutes |
+| Vodafone | Hundreds nationwide | Tienda Vodafone | 10-20 minutes |
+| Yoigo | Limited, major cities | Tienda Yoigo | 5-10 minutes |
 
 In-store purchase provides the advantage of human support for setup and troubleshooting. Staff can verify your phone's eSIM compatibility, configure APN settings if needed, and ensure activation works before you leave the store. The in-store process takes 15-30 minutes including documentation and payment.
 
 ### Store Registration Requirements
 
-- Valid passport (original, not photocopy; must be biometric passport for video verification)[reference:93]
+- Valid passport (original, not photocopy; must be biometric passport for video verification)
 - Spanish address (hotel address acceptable for tourist plans; Airbnb addresses with booking confirmation also accepted)
 - Spanish phone number for verification (can be a friend's number or the store's demonstration line)
 - Cash or Spanish-issued card (international cards sometimes rejected; Visa and Mastercard from EU banks have highest acceptance rates)
-- NIE certificate (for long-term residents; tourist passports accepted for plans under 90 days)[reference:94]
+- NIE certificate (for long-term residents; tourist passports accepted for plans under 90 days)
 
 ### Payment Methods by Carrier
 
@@ -518,7 +522,7 @@ Carrying cash (EUR 20-50) is recommended as a backup payment method. Movistar an
 
 ## Hybrid Approach: Using Both International eSIM and Local Carrier
 
-The most flexible approach for extended Spain stays combines an international eSIM for immediate connectivity with a local carrier prepaid plan for long-term savings and a Spanish number. This dual-provider strategy ensures you never face a connectivity gap while maximizing cost efficiency[reference:95].
+The most flexible approach for extended Spain stays combines an international eSIM for immediate connectivity with a local carrier prepaid plan for long-term savings and a Spanish number. This dual-provider strategy ensures you never face a connectivity gap while maximizing cost efficiency.
 
 ### Hybrid Setup Strategy
 
@@ -542,23 +546,23 @@ The most flexible approach for extended Spain stays combines an international eS
 
 ### Device Compatibility
 
-Modern iPhones (XS and newer) and Android phones (Samsung S20+, Pixel 4+, OnePlus 8+) support dual active eSIMs or one physical SIM plus one eSIM simultaneously.
+Modern iPhones (XS and newer) and recent Android phones support dual active eSIMs or one physical SIM plus one eSIM simultaneously. For a full device-by-device list, see our [eSIM device list](/compatibility/).
 
 | Device | Dual eSIM | Physical SIM + eSIM | Max Active Lines |
 |---|---|---|---|
-| iPhone XS/XR and newer | Yes (iOS 13+) | Yes | 2 active, 8 stored |
-| Samsung Galaxy S20+/S21+/S22+/S23+/S24+ | Yes (One UI 4+) | Yes | 2 active |
-| Google Pixel 4/5/6/7/8/9 | Yes | Yes | 2 active |
-| OnePlus 8/9/10/11/12 | Limited | Yes | 2 active |
-| Huawei P40/P50/P60 | No (no eSIM) | Yes (physical only) | 1 active |
-| Xiaomi 12/13/14 | Limited | Yes | 2 active |
+| iPhone XS/XR and newer | Yes (iOS 13+) | Yes | 2 active, 8+ stored |
+| Samsung Galaxy S23/S24 and newer | Yes (model/market dependent) | Yes | 2 active |
+| Google Pixel 7/8/9 | Yes | Yes | 2 active |
+| OnePlus (recent models) | Model-dependent | Yes | 2 active |
+| Huawei P40 and newer (China models) | No (no eSIM) | Yes (physical only) | 1 active |
+| Xiaomi 12/13/14 | Model-dependent | Yes | 2 active |
 
 Devices with dual eSIM support can run an international eSIM and a local carrier eSIM simultaneously, with automatic data switching based on signal strength and cost preferences set in the device's cellular settings.
 
 ### Benefits of the Hybrid Approach
 
 - Immediate connectivity upon arrival via international eSIM (no 1-24 hour activation wait)
-- Cost savings after switching to local carrier prepaid (60-80% lower per-GB cost)[reference:96]
+- Cost savings after switching to local carrier prepaid (60-80% lower per-GB cost)
 - Redundant connection in case one carrier has an outage or coverage gap
 - Spanish number for local app registration (Renfe, Cabify, ElTenedor)
 - Home number remains active for calls and SMS via WiFi calling over either data line
@@ -569,50 +573,50 @@ Devices with dual eSIM support can run an international eSIM and a local carrier
 
 | Approach | First 3 Days | Remaining 27 Days | Total Cost | Notes |
 |---|---|---|---|---|
-| International only (Airalo) | USD 26 (10GB 30-day)[reference:97] | USD 0 | USD 26 | No Spanish number |
-| International only | EUR 29 (30-day fair use plan)[reference:98] | EUR 0 | EUR 29 | No Spanish number |
-| Local only (Orange) | EUR 0 | EUR 15 (30-day, 15GB)[reference:99] | EUR 15 | Spanish number, 15-30 min registration |
-| Local only (Yoigo) | EUR 0 | EUR 12 (30-day, 15GB)[reference:100] | EUR 12 | Spanish number, lowest cost |
-| Hybrid (International + Orange) | EUR 29 (30-day fair use)[reference:101] | EUR 15 (Orange 30-day)[reference:102] | EUR 44 | Full redundancy |
-| Hybrid (Airalo + Yoigo) | USD 10 (1GB for first 3 days)[reference:103] | EUR 12 (Yoigo)[reference:104] | Approx EUR 22 | Budget hybrid |
+| International only (Airalo) | USD 14 (10 GB 30-day) | USD 0 | USD 14 | No Spanish number |
+| International only (Holafly) | USD 64.50 (30-day unlimited) | USD 0 | USD 64.50 | No Spanish number |
+| Local only (Yoigo) | EUR 0 | EUR 10 (25 GB, 28 days) | EUR 10 | Spanish number, 15-30 min registration |
+| Local only (Vodafone) | EUR 0 | EUR 10 (Prepaid S promo 90 GB) | EUR 10 | Spanish number, biggest allowance |
+| Hybrid (Airalo + Yoigo) | USD 14 (10 GB) | EUR 10 (Yoigo) | ~EUR 23 | Budget hybrid |
+| Hybrid (Holafly + Vodafone) | USD 64.50 | EUR 10 | ~EUR 70 | Redundant, premium unlimited |
 
-The hybrid approach costs more than local-only but provides redundancy and immediate connectivity[reference:105]. For travelers who value reliability over minimum cost, the dual-provider setup ensures continuous connectivity even if one carrier experiences technical issues. The EUR 29-44 total cost for a 30-day hybrid setup compares favorably to single international eSIM unlimited plans that cost EUR 49-80 for the same period[reference:106].
+The hybrid approach costs more than local-only but provides redundancy and immediate connectivity. For most 30-day trips, a cheap international starter eSIM plus a EUR 10 local prepaid delivers both instant access and low total cost. Premium unlimited international plans make less sense in Spain because local prepaid promos are so generous.
 
 ### When Multi-Network Excels in a Hybrid Setup
 
-A hybrid setup works particularly well with multi-network eSIMs because automatic carrier switching across Movistar, Orange, Vodafone, and Yoigo complements a local prepaid from any single carrier[reference:107]. If the local prepaid experiences congestion or coverage issues, the multi-network eSIM automatically switches to the strongest available network among the four major carriers[reference:108]. This means:
+A hybrid setup works particularly well with multi-network eSIMs because automatic carrier switching across Movistar, Orange, and Vodafone complements a local prepaid from any single carrier. If the local prepaid experiences congestion or coverage issues, the multi-network eSIM automatically switches to the strongest available network among the major carriers. This means:
 
 - When Orange prepaid is congested in tourist areas, the multi-network eSIM provides fallback on Movistar or Vodafone
-- When Vodafone prepaid has a coverage gap in rural areas, the multi-network eSIM provides fallback on Movistar[reference:109]
+- When Vodafone prepaid has a coverage gap in rural areas, the multi-network eSIM provides fallback on Movistar
 - The auto-switching happens in seconds without manual intervention
 - Both lines active simultaneously means seamless failover during calls or streaming
 
 ### Common Hybrid Configuration Examples
 
 1. **iPhone user with physical home SIM**: Physical home SIM + international eSIM + Orange prepaid eSIM
-   - iPhone stores up to 8 eSIMs, 2 active simultaneously
-   - Home SIM for iMessage and home calls
-   - International eSIM for immediate data on arrival and automatic fallback
-   - Orange for long-term data with Spanish number at EUR 0.67/GB[reference:110]
+  - iPhone stores up to 8 eSIMs, 2 active simultaneously
+  - Home SIM for iMessage and home calls
+  - International eSIM for immediate data on arrival and automatic fallback
+  - Orange (Mundo 15) for long-term data with Spanish number at EUR 0.75/GB
 
 2. **Dual eSIM Android**: International eSIM + Vodafone prepaid eSIM
-   - Samsung/Pixel supports dual active eSIM with automatic data switching
-   - International eSIM for multi-carrier coverage as fallback
-   - Vodafone for coastal coverage and Spanish number[reference:111]
-   - Home number accessible via WiFi calling over either data line
+  - Samsung/Pixel supports dual active eSIM with automatic data switching
+  - International eSIM for multi-carrier coverage as fallback
+  - Vodafone for coastal coverage and Spanish number
+  - Home number accessible via WiFi calling over either data line
 
 3. **Physical + eSIM (simplest hybrid)**: Home SIM + international eSIM
-   - Simplest hybrid setup with no local registration required
-   - Home SIM for calls and SMS while abroad
-   - International eSIM for data across Spanish networks
-   - No local Spanish number (use WhatsApp for reservations and local contact)
-   - Best for stays under 2 weeks
+  - Simplest hybrid setup with no local registration required
+  - Home SIM for calls and SMS while abroad
+  - International eSIM for data across Spanish networks
+  - No local Spanish number (use WhatsApp for reservations and local contact)
+  - Best for stays under 2 weeks
 
 4. **Full redundancy**: Yoigo prepaid + international eSIM
-   - Yoigo provides lowest per-GB cost as primary data[reference:112]
-   - International eSIM provides automatic failover on alternate network
-   - Combined cost approximately EUR 41-49 per month
-   - Maximum coverage through Yoigo + Movistar + fallback carrier
+  - Yoigo provides lowest per-GB cost as primary data
+  - International eSIM provides automatic failover on alternate network
+  - Combined cost approximately EUR 24-30 per month depending on the international plan
+  - Maximum coverage through Yoigo's MASORANGE footprint plus the fallback carrier
 
 ### eSIM Management Tips for Hybrid Users
 
@@ -622,11 +626,13 @@ A hybrid setup works particularly well with multi-network eSIMs because automati
 - Keep the international eSIM active if you need redundancy for critical work or navigation
 - Install all eSIM profiles before departure or immediately upon arrival while you have WiFi
 - Use discount codes where available to reduce the cost of the international eSIM component
-- First-time eSIM users can test device compatibility with a [free eSIM offer](/free-esim/) before committing to a paid plan[reference:113]
+- First-time eSIM users can test device compatibility with a [free eSIM offer](/free-esim/) before committing to a paid plan
 
-The Spain prepaid eSIM market has evolved to support multiple approaches depending on trip length and requirements. Short-stay travelers benefit from the convenience of international eSIMs with instant setup and no registration[reference:114]. Extended-stay visitors save significantly by registering with a local carrier for a Spanish number and lower per-GB pricing[reference:115]. The hybrid approach combines both advantages for maximum flexibility and reliability[reference:116].
+The Spain prepaid eSIM market has evolved to support multiple approaches depending on trip length and requirements. Short-stay travelers benefit from the convenience of international eSIMs with instant setup and no registration. Extended-stay visitors save significantly by registering with a local carrier for a Spanish number and lower per-GB pricing. The hybrid approach combines both advantages for maximum flexibility and reliability.
 
-Choosing between local carrier prepaid and international eSIM ultimately turns on your trip duration, whether you need a Spanish number, and your tolerance for registration paperwork. Local carriers deliver better pricing and network priority but require documentation and time. International eSIMs provide instant activation and no registration but cost more per GB and typically lack voice capabilities. For most travelers staying under 2 weeks, the convenience of an international eSIM outweighs the cost savings of local registration[reference:117]. For extended stays exceeding 2 weeks, the savings from local carrier prepaid plans become substantial enough to justify the registration process[reference:118]. The ideal strategy depends on your itinerary and budget, but the hybrid approach delivers the best of both worlds for those who want both immediate connectivity and long-term savings with full redundancy[reference:119].
+Choosing between local carrier prepaid and international eSIM ultimately turns on your trip duration, whether you need a Spanish number, and your tolerance for registration paperwork. Local carriers deliver better pricing and network priority but require documentation and time. International eSIMs provide instant activation and no registration but cost more per GB and typically lack voice capabilities.
+
+For most travelers staying under 2 weeks, the convenience of an international eSIM outweighs the cost savings of local registration. For extended stays exceeding 2 weeks, the savings from local carrier prepaid plans become substantial enough to justify the registration process. The ideal strategy depends on your itinerary and budget, but the hybrid approach delivers the best of both worlds for those who want both immediate connectivity and long-term savings with full redundancy. Semester-length stays, multi-week family trips, and study-abroad use cases are covered in our [Spain eSIM guide for families and long-stay visitors](/blog/spain-esim-families-students-long-stay/).
 
 ---
 
@@ -634,15 +640,15 @@ Choosing between local carrier prepaid and international eSIM ultimately turns o
 
 ### What is the difference between a local prepaid eSIM and an international eSIM in Spain?
 
-Local prepaid eSIMs from Movistar, Orange, Vodafone, and Yoigo include a Spanish phone number (+34), require passport registration, and offer lower per-GB pricing (EUR 0.40-2.00/GB). International eSIMs (Airalo, Holafly, Nomad) are data-only, require no registration, activate instantly, and cost more per GB (EUR 1.50-4.50/GB)[reference:120]. For stays under 2 weeks, international eSIMs are more convenient. For stays over 2 weeks, local prepaid saves money[reference:121].
+Local prepaid eSIMs from Movistar, Orange, Vodafone, and Yoigo include a Spanish phone number (+34), require passport registration, and offer lower per-GB pricing (roughly EUR 0.20-2.00/GB). International eSIMs (Airalo, Holafly, Nomad) are data-only, require no registration, activate instantly, and cost more per GB (roughly USD 1.80-4.50/GB). For stays under 2 weeks, international eSIMs are more convenient. For stays over 2 weeks, local prepaid saves money.
 
 ### Which local carrier has the best prepaid eSIM for tourists?
 
-Orange offers the best balance of price and coverage for tourists with their Medio Prepago plan: 15GB for EUR 10, valid 30 days, with a Spanish number[reference:122]. Yoigo offers the lowest per-GB pricing at EUR 7 for 7GB[reference:123]. Movistar provides the widest coverage but costs more[reference:124]. Vodafone is best along the Mediterranean coast[reference:125]. For a Spain eSIM for tourists, Orange is usually the best starting point.
+Orange offers the best balance of price and urban performance for tourists with their Mundo 15 plan: 20 GB for EUR 15, valid 28 days, with a Spanish number. Yoigo offers the lowest entry price at 25 GB for EUR 10. Movistar provides the widest coverage with generous promo bonuses. Vodafone is best along the Mediterranean coast. For a Spain eSIM for tourists, Orange and Yoigo are usually the best starting points.
 
 ### How do I register for a Spain prepaid eSIM from Movistar or Orange?
 
-Visit a carrier store (Tienda Orange, Tienda Movistar) with your passport[reference:126]. Provide a Spanish address (hotel address accepted). Complete identity verification (5-10 minutes in-store). Receive QR code via email (instant to 24 hours). Install via Settings > Cellular > Add eSIM. Orange offers online video registration; Movistar requires in-store registration for tourist plans. For a Movistar prepaid eSIM, expect the process to take 15-30 minutes.
+Visit a carrier store (Tienda Orange, Tienda Movistar) with your passport. Provide a Spanish address (hotel address accepted). Complete identity verification (5-10 minutes in-store). Receive QR code via email (instant to 24 hours). Install via Settings > Cellular > Add eSIM. Orange offers online video registration; Movistar requires in-store registration for tourist plans. For a Movistar prepaid eSIM, expect the process to take 15-30 minutes.
 
 ### Do I need a Spanish phone number for my trip to Spain?
 
@@ -650,7 +656,7 @@ You need a Spanish number if you plan to book AVE trains through Renfe (SMS veri
 
 ### How much does a Spain prepaid eSIM cost?
 
-Prices vary by carrier and plan: Orange 5GB EUR 6, Orange 15GB EUR 10[reference:127], Yoigo 7GB EUR 7, Yoigo 15GB EUR 12[reference:128], Movistar 5GB EUR 10, Movistar 10GB EUR 15[reference:129], Vodafone 5GB EUR 12, Vodafone 10GB EUR 15[reference:130]. Compared to international eSIMs at USD 12-16 for 5GB[reference:131], local prepaid saves 37-50% on data costs. For a Spain prepaid eSIM cost comparison, Orange and Yoigo offer the best per-GB value.
+Prices vary by carrier and plan: Yoigo 25 GB EUR 10, Vodafone Prepaid S 90 GB (promo) EUR 10, Movistar Prepago S 10 GB (promo 40 GB) EUR 10, Orange Mundo 15 20 GB EUR 15. Compared to international eSIMs at USD 14-23 for 10-20 GB, local prepaid saves 30-60% on data costs. For a Spain prepaid eSIM cost comparison, Vodafone and Yoigo offer the best per-GB value.
 
 ### Can I get a local prepaid eSIM without a Spanish address?
 
@@ -658,15 +664,15 @@ Yes, most carriers accept hotel addresses for tourist prepaid plans. If the stor
 
 ### Do local prepaid eSIMs work in other EU countries?
 
-Yes, most local prepaid eSIMs from Movistar, Orange, Vodafone, and Yoigo include EU roaming under the EU Roam Like at Home regulation[reference:132]. This means your Spanish data allowance works in other EU countries at no extra cost. Check each plan's specific fair use policy — some limit EU roaming to 10-20GB per month. The Orange Holiday Europe plan is specifically designed for multi-country use[reference:133].
+Yes, most local prepaid eSIMs from Movistar, Orange, Vodafone, and Yoigo include EU roaming under the EU Roam Like at Home regulation. This means your Spanish data allowance works in other EU countries at no extra cost. Check each plan's specific fair use policy — some limit EU roaming to 10-20GB per month. The Orange Holiday Europe plan is specifically designed for multi-country use.
 
 ### What is the cheapest prepaid eSIM in Spain?
 
-Yoigo offers the cheapest prepaid eSIM at EUR 7 for 7GB (EUR 1.00/GB) and EUR 12 for 15GB (EUR 0.80/GB)[reference:134]. Orange's 15GB for EUR 10 is slightly more expensive at EUR 0.67/GB but has better coverage in some regions[reference:135]. For the absolute lowest cost, Yoigo is the cheapest among major carriers[reference:136]. For a cheap Spain prepaid eSIM, Yoigo and Orange are the top choices.
+Yoigo offers the lowest entry price among the big four with 25 GB for EUR 10, and Vodafone's promo Prepaid S (90 GB for EUR 10) is the best allowance per euro. Orange's Mundo 15 (20 GB for EUR 15) is slightly pricier per GB but has fast urban coverage. For the absolute lowest cost per gigabyte, Yoigo's 100 GB tier (EUR 20) leads among major carriers. For a cheap Spain prepaid eSIM, Yoigo and Vodafone are the top choices.
 
 ### How long does it take to activate a local prepaid eSIM in Spain?
 
-In-store activation provides the QR code immediately or within 1-2 hours. Online registration via video ID takes 1-24 hours, depending on the carrier and time of day. Movistar is the slowest (up to 24 hours). Orange is the fastest (typically 1-2 hours). Weekends and holidays may extend activation times. For immediate connectivity, purchase an international eSIM before departure[reference:137].
+In-store activation provides the QR code immediately or within 1-2 hours. Online registration via video ID takes 1-24 hours, depending on the carrier and time of day. Movistar is the slowest (up to 24 hours). Orange is the fastest (typically 1-2 hours). Weekends and holidays may extend activation times. For immediate connectivity, purchase an international eSIM before departure.
 
 ### Can I top up my Spain prepaid eSIM online?
 
@@ -674,13 +680,13 @@ Yes, all major carriers offer online top-up through their apps or websites. The 
 
 ---
 
-For travelers seeking automatic network switching across Movistar, Orange, Vodafone, and Yoigo networks, Roami provides a practical solution with 24/7 real human support[reference:138]. Roami offers competitive pricing in Spain, with discount codes available for first-time users. A **[free eSIM deal](/free-esim/)** is available for eligible new users to test compatibility before committing to a full plan[reference:139].
+For travelers seeking automatic network switching across Movistar, Orange, and Vodafone, Roami provides a practical solution with 24/7 real human support. Roami offers competitive pricing in Spain, with plans starting at $1.99, and the **web20** discount code provides 20% off your first plan. A **[free eSIM deal](/free-esim/)** is available for eligible new users to test compatibility before committing to a full plan.
 
 For coverage information across Spanish cities and regions, see our [Spain coverage and network guide](/blog/spain-esim-coverage-cities-ave-beaches-islands/).
 
-For more on pricing and cheapest plans, see our [Spain eSIM price comparison guide](/blog/spain-esim-price-guide-cheapest-plans/)[reference:140].
+For more on pricing and cheapest plans, see our [Spain eSIM price comparison guide](/blog/spain-esim-price-guide-cheapest-plans/).
 
-For step-by-step setup, see our [Spain eSIM installation and activation guide](/blog/spain-esim-installation-activation-setup/)[reference:141].
+Installation walk-throughs, from QR scan to APN entry, are collected in our [Spain eSIM installation and activation setup guide](/blog/spain-esim-installation-activation-setup/).
 
 ---
 

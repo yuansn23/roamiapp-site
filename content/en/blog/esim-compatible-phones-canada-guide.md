@@ -2,8 +2,8 @@
 title: "eSIM Compatible Phones in Canada: Full Device List"
 description: "Roami eSIM compatible phones in Canada: full device list, EID checker, carrier-lock removal, and regional pitfalls to watch for."
 keywords: ["eSIM compatible phones Canada", "Canada eSIM EID check", "eSIM phone list Canada", "Canada eSIM carrier lock", "iPhone Samsung eSIM Canada"]
-date: 2026-09-09T00:00:00Z
-lastmod: 2026-09-09T00:00:00Z
+date: 2026-09-19T00:00:00Z
+lastmod: 2026-09-19T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/canada/canada-esim-compatible-phones.jpg"
@@ -94,11 +94,11 @@ recentPosts:
 
 **Want to test coverage first?** Try a [free eSIM trial](/free-esim/) or a [Roami Canada eSIM plan](/canada-esim/) from **$1.99** to confirm compatibility on your exact model. New users get **20% off** with code `web20`, with Roami's **24/7 human support** for setup help.
 
-If your phone supports eSIM, the next step is installation. See our [step-by-step setup guide](/blog/how-to-get-esim-in-canada-guide/). If you need a provider comparison first, see our [Canada eSIM provider database](/blog/canada-esim-comparison-2026/).
+If your phone passes the checks above, the next step is installation. See our [step-by-step setup guide](/blog/how-to-get-esim-in-canada-guide/). If you need a provider comparison first, see our [Canada eSIM provider database](/blog/canada-esim-comparison-2026/).
 
 ## Canada eSIM EID Check in 30 Seconds
 
-Before buying any eSIM, confirm your phone has eSIM hardware. The fastest method works on both iPhone and Android.
+Before buying, confirm the handset has embedded-SIM hardware. The fastest method works on both iPhone and Android.
 
 ### Dial `*#06#` to Check EID
 
@@ -109,7 +109,7 @@ Before buying any eSIM, confirm your phone has eSIM hardware. The fastest method
 **If you see EID:** your phone has eSIM hardware.  
 **If you only see IMEI:** your phone does not support eSIM.
 
-**What you’ll see:** On iPhone, the EID appears below the IMEI. On Samsung, it may appear as “EID” or “eSIM ID.” If you see only two IMEI numbers (IMEI1 and IMEI2), your phone does not have eSIM hardware.
+**What you’ll see:** On iPhone, the EID appears below the IMEI. On Samsung, it may appear as “EID” or “eSIM ID.” If you see only two IMEI numbers (IMEI1 and IMEI2), there is no embedded-SIM hardware inside.
 
 ### Check eSIM Settings by Phone Brand
 
@@ -118,18 +118,18 @@ Before buying any eSIM, confirm your phone has eSIM hardware. The fastest method
 - **Google Pixel:** Settings → Network & Internet → SIMs → look for “Download a SIM instead?”
 - **Other Android brands:** search “eSIM” in Settings.
 
-If you see the option, your phone supports eSIM. If not, check the regional notes in the tables below—some models have eSIM hardware but it is disabled by the carrier or missing in certain regional versions.
+Seeing the option means the phone is compatible. If not, check the regional notes in the tables below—some models have the hardware but it is disabled by the carrier or missing in certain regional versions.
 
 ### Check Carrier Lock Status
 
-Even if your phone supports eSIM, it must be carrier-unlocked.
+Even a fully compatible handset must be carrier-unlocked.
 
 - **iPhone:** Settings → General → About → **Carrier Lock** should say “No SIM restrictions.”
 - **Android:** Settings → About Phone → Status → check network/SIM status.
 
 In Canada, the CRTC requires Bell, Rogers, Telus, and Freedom Mobile to unlock devices free of charge. See the [CRTC Wireless Code](https://crtc.gc.ca/eng/phone/mobile/codes.htm).
 
-**Important:** iPhones sold in mainland China and Hong Kong do not support eSIM, with only two exceptions there — **iPhone 17e (model A3635)** and **iPhone Air (model A3518)**. All other mainland China iPhone models cannot use it.
+**Important:** iPhones sold in mainland China generally do not support eSIM. Per [Apple's official documentation](https://support.apple.com/en-us/109317), the only mainland China exceptions are **iPhone 18 Pro, iPhone 18 Pro Max, iPhone 17e (model A3635), and iPhone Air (model A3518)**. In Hong Kong and Macao, certain iPhone models ship with two nano-SIM slots instead of eSIM support. Always check your exact model number.
 
 ## Why eSIM Compatibility Matters in Canada
 
@@ -139,7 +139,7 @@ eSIM requires an **eUICC chip** (embedded Universal Integrated Circuit Card) bui
 
 This means:
 - A software update cannot add eSIM if the hardware is missing.
-- The same phone model may have different eSIM support in different regions.
+- The same model may support the technology in one region but not another.
 - Carriers can disable eSIM through software locks, even when the hardware exists.
 
 ### 2026 eSIM Changes You Should Know
@@ -159,7 +159,7 @@ Samsung A series (A54, A55, A56, A57) and Google Pixel a series (8a, 9a, 10a) no
 **Regional differences remain huge.**
 The same phone may support eSIM in Canada but not in mainland China, Taiwan, or Korea. Always confirm the exact regional version.
 
-**A note on our sources:** The device compatibility information below is based on publicly available manufacturer documentation, GSMA specifications, and user reports from communities like Reddit. We do not present our own testing claims.
+**A note on our sources:** The device compatibility information below is based on publicly available manufacturer documentation — including [Apple's official eSIM support page](https://support.apple.com/en-us/109317) — GSMA specifications, and user reports from communities like Reddit. We do not present our own testing claims.
 
 ### eSIM vs Physical SIM: What the Terms Mean
 
@@ -177,7 +177,7 @@ Knowing these terms makes the compatibility checks below faster to follow, and h
 
 ### iPhone Models That Support eSIM
 
-Every iPhone since iPhone XR (2018) supports eSIM.
+Every iPhone since the XR (2018) includes the embedded SIM chip.
 
 | iPhone Model | eSIM Support | Physical SIM | Regional Notes |
 |--------------|--------------|--------------|----------------|
@@ -192,7 +192,7 @@ Every iPhone since iPhone XR (2018) supports eSIM.
 | iPhone XR / XS / XS Max | ✅ Yes | ✅ Yes | Dual SIM: nano-SIM + eSIM |
 | iPhone SE (2nd, 3rd generation) | ✅ Yes | ✅ Yes | Dual SIM: nano-SIM + eSIM |
 
-**Mainland China and Hong Kong warning:** iPhones sold in mainland China and Hong Kong do not support eSIM. The only exceptions in mainland China are **iPhone 17e (model A3635)** and **iPhone Air (model A3518)**. All other mainland China iPhone models cannot use it.
+**Mainland China and Hong Kong warning:** iPhones sold in mainland China generally do not support eSIM. Confirmed exceptions are **iPhone 18 Pro, iPhone 18 Pro Max, iPhone 17e (model A3635), and iPhone Air (model A3518)**. Hong Kong and Macao models of the newest eSIM-only generation use dual nano-SIM trays instead — no eSIM support. All other mainland China iPhone models cannot use it.
 
 ### eSIM-Only iPhone in Canada
 
@@ -204,6 +204,8 @@ Starting with iPhone 14, Apple sold eSIM-only models in the US. **In Canada, the
 Canadian versions of iPhone 14, 15, and 16 **retain a physical SIM card tray**. They support both nano-SIM and eSIM, allowing dual-SIM functionality.
 
 If you need to keep your original number while using Canadian data, see our [numbered eSIM guide](/blog/canada-esim-with-phone-number-guide/).
+
+**A note for Apple Watch owners:** a cellular Apple Watch cannot use a travel eSIM. Watch plans must come from a carrier on Apple's supported list and mirror your iPhone's number — travel eSIM providers do not issue watch profiles. In practice this is fine: the watch pairs over Bluetooth and piggybacks on the iPhone's connection, including its Canadian travel eSIM. GPS-only watches were never affected.
 
 ### iPad eSIM Support
 
@@ -286,7 +288,7 @@ Carrier may have disabled eSIM. Contact carrier to enable it.
 
 ## Google Pixel eSIM Compatibility
 
-**Google Pixel has the most stable eSIM support among Android brands.** Every Pixel since Pixel 3a supports eSIM.
+**Google Pixel has the most stable track record among Android brands.** Every Pixel since the 3a includes it.
 
 ### Pixel Models That Support eSIM
 
@@ -325,7 +327,7 @@ Supports eSIM in:
 - Razr series: Razr (2019+), Razr+, Razr Ultra, Razr 60/50/40 series
 - Edge series: Edge 60, Edge 50 series, Edge (2023+)
 
-**Note:** eSIM support varies by region.
+**Note:** Availability varies by region.
 
 ### OnePlus
 
@@ -375,7 +377,7 @@ No. As of May 2026, Sony Xperia does not support eSIM.
 
 ## Canada Carrier Lock and eSIM Unlock Steps
 
-Even if your phone supports eSIM, it must be carrier-unlocked to use a third-party eSIM.
+Even if your phone supports eSIM, it must be carrier-unlocked to use a third-party provider.
 
 In Canada, the CRTC requires Bell, Rogers, Telus, and Freedom Mobile to unlock devices free of charge. See the [CRTC Wireless Code](https://crtc.gc.ca/eng/phone/mobile/codes.htm).
 
@@ -392,7 +394,7 @@ In Canada, the CRTC requires Bell, Rogers, Telus, and Freedom Mobile to unlock d
 4. **Provide your IMEI:** Dial `*#06#` to get it.
 5. **Wait for confirmation:** Usually 1–2 business days.
 6. **Insert a non-carrier SIM** or try installing a third-party eSIM. If it works, the phone is unlocked.
-7. **If eSIM remains disabled (Samsung):** Ask the carrier to enable eSIM specifically. Some carriers disable it by default.
+7. **If eSIM remains disabled (Samsung):** Ask the carrier to enable it specifically. Some carriers disable it by default.
 
 **Pro tip:** If you bought a used Samsung from a Canadian carrier, the eSIM may be permanently disabled. Check with the carrier before buying.
 
@@ -419,7 +421,7 @@ The same phone model can have different eSIM support depending on where it was s
 
 | Brand / Model | Region | eSIM Restriction |
 |---------------|--------|------------------|
-| iPhone (all models) | Mainland China, Hong Kong | No eSIM (except iPhone 17e and iPhone Air in mainland China) |
+| iPhone (all models) | Mainland China, Hong Kong, Macao | Mainland China: eSIM only on iPhone 18 Pro/Pro Max, 17e, Air; HK/Macao: dual nano-SIM instead |
 | Samsung Galaxy S20 / S21 | US | No eSIM |
 | Samsung Galaxy S22 | Korea | No eSIM |
 | Samsung Galaxy S23 FE | China / Hong Kong | No eSIM |
@@ -494,7 +496,7 @@ Check `*#06#` for EID. iPhone XS/XR and later support eSIM, except mainland Chin
 
 ### Can I use an eSIM on a phone bought in another country?
 
-Depends on model and regional version. If hardware supports eSIM and phone is unlocked, it usually works. Some regional versions (mainland China iPhone, Taiwan Samsung) do not support eSIM. Check EID with `*#06#`.
+Depends on model and regional version. If the hardware supports it and the phone is unlocked, it usually works. Some regional versions (mainland China iPhone, Taiwan Samsung) do not support eSIM. Check EID with `*#06#`.
 
 ### Is iPhone 17 eSIM-only in Canada?
 
@@ -533,7 +535,7 @@ Dial `*#06#` and look for EID. If EID appears, the hardware supports eSIM. Then 
 
 | Device | eSIM Support? | Notes |
 |--------|---------------|-------|
-| iPhone XS / XR and newer | ✅ Yes | Mainland China: only iPhone 17e and iPhone Air |
+| iPhone XS / XR and newer | ✅ Yes | Mainland China: only iPhone 18 Pro/Pro Max, 17e, and Air |
 | iPhone 17 series (Canadian versions) | ✅ Yes | eSIM-only, no physical SIM slot |
 | iPhone 14–16 (Canadian versions) | ✅ Yes | **Physical SIM tray retained** |
 | Samsung Galaxy S20+ (international) | ✅ Yes | Taiwan/Korea/some US versions may not support |

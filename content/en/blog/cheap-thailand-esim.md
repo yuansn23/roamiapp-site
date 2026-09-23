@@ -79,7 +79,7 @@ recentPosts:
     date: "2026-05-20"
 ---
 
-Thailand is one of the most competitive eSIM markets in the world, and 2026 prices continue to fall. **1GB of data now starts at $1.99** — less than a coffee at the airport. But “cheap” means different things for a weekend layover, a two-week island hop, and a month-long remote work stay. This guide focuses purely on **price, cost per GB, free trials, promo codes, and the best plan for your trip length**. If you need to compare AIS vs True coverage, read the **[network comparison](/blog/thailand-esim-comparison/)**. If you want to know where to buy, see the **[buying guide](/blog/best-value-thailand-esim-plans/)**. If you’ve already bought and need to install it, go to the **[setup guide](/blog/thailand-esim-guide/)**.
+Thailand is one of the most competitive eSIM markets in the world, and 2026 prices continue to fall. **1GB of data now starts at $1.99** — less than a coffee at the airport. But “cheap” means different things for a weekend layover, a two-week island hop, and a month-long remote work stay. This guide focuses purely on **price, cost per GB, free trials, promo codes, and the best plan for your trip length**. Wondering whether AIS or True covers your islands better? The **[network comparison](/blog/thailand-esim-comparison/)** settles it. If you want to know where to buy, see the **[buying guide](/blog/best-value-thailand-esim-plans/)**. Bought one already? The **[setup and activation guide](/blog/thailand-esim-guide/)** takes you through installation step by step.
 
 > **Prices in this guide were sampled in September 2026 and may vary slightly at checkout.**
 
@@ -175,7 +175,7 @@ Different trip lengths need different plans. Here are the best-value picks for e
 - Remote work + streaming → 20GB/month is usually enough.
 
 ### Cheapest 30-Day Thailand eSIM Plans
-If you need a full month, these are the lowest-cost options without paying for true unlimited:
+If you need a full month, these are the lowest-cost Thailand eSIM options without paying for true unlimited:
 - **eSIM-Now 5GB/30 days — $6.96** ($0.23/day)
 - **Travelsim Asia 10GB/30 days — $9.99** ($1/GB)
 - **eSIM-Now 20GB/30 days — $14.89** ($0.50/day)
@@ -231,15 +231,16 @@ If you need a Thai phone number for Grab, LINE, or bank SMS, local carrier eSIMs
 | Plan | Provider | Price | Validity | Network | Notes |
 |------|----------|-------|----------|---------|-------|
 | Unlimited/7 days | Ubigi | $22.90 | 7 days | AIS + True | Data-only |
-| Unlimited/7 days | Holafly | from $27 | 7 days | AIS | Some plans no hotspot |
+| Unlimited/3 days | Roami | $8.99 | 3 days | AIS + True (dtac) | Data-only; 24/7 human support |
+| Unlimited/7 days | Holafly | $27.50 | 7 days | AIS | Some plans no hotspot |
 | 15 days Unlimited | AIS local | ~$19 | 15 days | AIS | Includes Thai number |
 | 30 days Unlimited | AIS local | ~$32–$38 | 30 days | AIS | Includes Thai number |
 | 8 days Unlimited | True local | ~$14 | 8 days | True | Includes Thai number |
-| 50GB/10 days | Nomad | $12.00 | 10 days | True Move H | Huge data, not unlimited |
+| 50GB/10 days | Nomad | $12.00 | 10 days | AIS + True (dtac) | Huge data, not unlimited |
 
-**Cheapest “unlimited” alternative:** if you don’t need a Thai number, **Nomad 50GB/10 days for $12** gives you unlimited-like data at $0.24/GB. For true unlimited, **Ubigi $22.90/7 days** is the lowest international entry.
+**Cheapest “unlimited” alternative:** if you don’t need a Thai number, **Nomad 50GB/10 days for $12** gives you unlimited-like data at $0.24/GB. For true unlimited, **Roami’s 3-day unlimited plan at $8.99** is the lowest international entry point, while 7 days of unlimited from Ubigi runs $22.90.
 
-Note that “unlimited” plans usually have a fair-usage policy (FUP): speeds drop after a daily high-speed allowance. Read the fine print.
+Note that “unlimited” plans usually have a fair-usage policy (FUP): speeds drop after a daily high-speed allowance. Our [Holafly eSIM review](/blog/holafly-esim-review-prices-coverage/) shows how far a Holafly Thailand eSIM's daily allowance actually stretches before throttling.
 
 **Key takeaway:** If you want cheap “unlimited,” buy a large data plan like Nomad 50GB instead of true unlimited. Only pay for unlimited if you truly stream all day and need no data anxiety.
 
@@ -275,19 +276,20 @@ For data-only plans with no Thai number, these are the lowest-cost options by pr
 | Platform | Cheapest Plan | Price | Network |
 |----------|---------------|-------|---------|
 | **Travelsim Asia** | 1GB/7 days | **$1.99** | Local networks |
+| **Roami** | 1GB/3 days | **$1.99** | AIS + True (dtac) |
 | **Roamify** | starter | **$2.00** | Local networks |
 | **Airhub** | 1GB/7 days | **$2.85** | Local networks |
 | **Saily** | 1GB/7 days | $2.99 | AIS |
 | **eSIM-Now** | 1GB/30 days | $3.17 | AIS + True |
 | **Ubigi** | 1GB/7 days | $3.90 | AIS + True |
-| **Airalo** | 1GB/3 days | $4.00 | AIS |
+| **Airalo** | Unlimited/3 days | ~$9.50 | TrueMove H |
 
 **Standouts:**
-- **Airalo** — 5GB/30 days $8.50, 20GB/30 days $18; one of the few with a voice-inclusive package.
+- **Airalo** — now sells Thailand exclusively as unlimited-data plans (3 days ≈ $9.50, 30 days ≈ $49, converted from its [official Thailand page](https://www.airalo.com/thailand-esim)) on TrueMove H; one of the few with a voice-inclusive package.
 - **Nomad** — 50GB/10 days $12 ($0.24/GB), the cheapest large-data package.
-- **Saily** (by NordVPN) — 5GB/30 days $7.99, uses AIS.
+- **Saily** (by NordVPN) — 5GB/30 days $7.99, uses AIS ([official site](https://saily.com/)).
 - **Ubigi** — 1GB/7 days $3.90, 10GB/30 days $13.90, auto-switches between AIS and True.
-- **Roami** — flexible Thailand data plans with 24/7 live human support.
+- **Roami** — 3-day plans from $1.99 (1GB) up to $8.99 unlimited on AIS, TrueMove and dtac networks, with 24/7 live human support; code web20 takes 20% off.
 
 > For platform reviews and network comparisons, read the **[Thailand eSIM comparison](/blog/thailand-esim-comparison/)**.
 
@@ -299,7 +301,7 @@ For data-only plans with no Thai number, these are the lowest-cost options by pr
 
 **In short:** The best free trials are Nomad (1GB/3 days, no credit card) and GigSky (7-day unlimited for eligible Visa cardholders). Most free trials must be installed after arrival.
 
-The best free Thailand eSIM trials are **Nomad (1GB/3 days, no credit card)** and **GigSky (7-day unlimited for eligible Visa cardholders)**.
+The best free Thailand eSIM trials are **Nomad (1GB/3 days, no credit card)** and **GigSky (7-day unlimited for eligible Visa cardholders)**. **Roami's 100MB [free trial eSIM](/free-esim/)** is another zero-cost option for testing device compatibility before you pay.
 
 | Platform | Free Data | Validity | Condition |
 |----------|-----------|----------|-----------|
@@ -311,6 +313,7 @@ The best free Thailand eSIM trials are **Nomad (1GB/3 days, no credit card)** an
 | **Roamless** | 525MB | No expiry | Sign up |
 | **Airhub** | 200MB | 30 days | Sign up |
 | **Yesim** | 0.5GB | 3 days | $0.55 activation fee |
+| **Roami** | 100MB | 7 days | [Free trial eSIM](/free-esim/), zero cost |
 
 > **Important:** most free-trial Thailand packages must be installed **after arriving in Thailand**, because they activate immediately on installation. Upgrading from a trial to a paid plan usually means installing a new eSIM.
 
@@ -360,7 +363,7 @@ Ranked by price per GB (lowest first):
 
 ## Hidden Thailand eSIM Costs & Price Traps
 
-**In short:** Watch for FUP throttling, hotspot restrictions, foreign transaction fees, QR-code expiry, and activation-triggered countdowns. These can make a cheap plan more expensive.
+**In short:** Watch for FUP throttling, hotspot restrictions, foreign transaction fees, QR-code expiry, and activation-triggered countdowns on a cheap Thailand eSIM. These can make a low headline price more expensive in practice.
 
 The sticker price isn’t always what you pay. Watch for these common traps.
 
@@ -368,7 +371,7 @@ The sticker price isn’t always what you pay. Watch for these common traps.
 
 **2. Hotspot restrictions.** Some cheap plans block hotspot sharing or charge extra. Confirm hotspot support if you plan to share with a laptop or travel companion.
 
-**3. Currency and foreign-transaction fees.** Most platforms price in USD. If your card is in another currency, your bank may add a 1–3% foreign-transaction fee. Some platforms show local currency at checkout — using that can save the fee.
+**3. Currency and foreign-transaction fees.** Most platforms price in USD. Paying with a card in a different currency typically triggers a 1–3% bank surcharge — where a platform offers local-currency checkout, taking it avoids the surcharge.
 
 **4. QR-code expiry.** Most QR codes are valid for 30 days from purchase. Buy within 30 days of departure, or confirm validity before purchasing.
 
@@ -428,7 +431,7 @@ The lowest price for each data tier across all platforms, for easy side-by-side 
 
 ## Cheapest Thailand eSIM by Traveller Type
 
-**In short:** Different travellers need different plans. Students and budget travellers should focus on Travelsim Asia and eSIM-Now. Families should look at dual-network platforms with hotspot support. Digital nomads need 20GB+ for 30 days.
+**In short:** Different travellers need different plans. Students and budget travellers should focus on Travelsim Asia and eSIM-Now. Families should look at dual-network platforms with hotspot support. Digital nomads need 20GB+ for 30 days. Working travellers continuing on to Australia should price that country separately — our [Australia eSIM guide](/blog/buy-australia-esim-guide/) has the full breakdown.
 
 ### Cheapest Thailand eSIM for Students and Budget Travellers
 - **Best entry:** Travelsim Asia 1GB/7 days — $1.99
@@ -462,7 +465,7 @@ Use this checklist before buying any cheap Thailand eSIM:
 1. **Cost per GB** — divide the price by the data amount. Lower is better, but check validity too.
 2. **Validity** — a 30-day plan is better value than a 7-day plan if you stay longer.
 3. **Hotspot support** — if you need to share data, confirm it’s allowed.
-4. **Fair-usage policy** — for unlimited plans, check the daily high-speed allowance.
+4. **Fair-usage policy** — for unlimited plans, check the daily high-speed allowance on any Thailand eSIM.
 5. **Activation trigger** — does the countdown start at purchase, installation, or first connection?
 6. **QR-code validity** — most are valid 30 days; buy close to departure.
 7. **Refund policy** — check before buying, especially for non-refundable local plans.
@@ -499,7 +502,7 @@ Yes — **True Corp’s 7-day 15GB (upgraded to 35GB)** costs about **$5** via A
 Yes — **Travelsim Asia’s 1GB/7 days is $1.99**, and eSIM-Now offers a 100MB/7-days plan for **$0.31**.
 
 **Q9: Which is cheaper — Airalo or Nomad for Thailand?**
-**Nomad** is cheaper for large data: 50GB/10 days for $12 ($0.24/GB) vs Airalo’s $18 for 20GB/30 days. For small plans, Travelsim Asia and eSIM-Now are usually cheapest.
+**Nomad** is cheaper for large data: 50GB/10 days for $12 ($0.24/GB). Airalo no longer sells fixed large-GB tiers — for a Thailand eSIM its lineup is unlimited-only now (3 days ≈ $9.50). For small plans, Travelsim Asia, Roami, and eSIM-Now are usually cheapest.
 
 **Q10: What hidden costs should I watch out for?**
 Fair-usage throttling, hotspot restrictions, foreign-transaction fees, QR-code expiry, and activation-triggered countdowns. See the Hidden Costs section above.
@@ -533,4 +536,4 @@ Need a Thai phone number? **True Corp’s 7-day 15GB (→35GB)** is about **$5**
 **Key takeaway:** Cheap doesn’t mean worse. With the right plan, you can get a week of data for under $5 or a month for under $15. Compare cost per GB, validity, and terms to find the true best value.
 
 ---
-*Prices are based on publicly available data as of September 2026 and may vary slightly at checkout.*
+*Prices compiled from official provider pages and platform listings in September 2026; final checkout figures can differ a little.*

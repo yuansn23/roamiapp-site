@@ -2,8 +2,8 @@
 title: "A Step-by-Step UK eSIM Setup for iPhone and Android"
 description: "Install your UK eSIM in 5 minutes with this step-by-step guide for iPhone and Android. Roami with live support. Get connected."
 keywords: ["how to install UK eSIM iPhone Android","UK eSIM QR code setup guide","check phone eSIM compatibility UK","UK eSIM APN settings configuration","UK eSIM install before departure","how to activate UK eSIM before travel","UK eSIM compatible phones guide","UK eSIM self installation"]
-date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+date: 2026-09-15T00:00:00Z
+lastmod: 2026-09-15T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/uk/uk-esim-setup-guide.jpg"
@@ -65,9 +65,9 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
-Installing a UK eSIM before your trip takes under five minutes and gets you connected the moment you land anywhere in Great Britain. Having the eSIM pre-installed is the difference between walking straight through to the Uber pickup and fumbling with airport WiFi for 20 minutes. This guide covers every step: check device compatibility, buy a plan online, scan the QR code, configure APN settings, enable data roaming, and troubleshoot common issues. Whether you need a UK eSIM for a weekend in London, a Great Britain eSIM for a road trip through the Cotswolds, or an England eSIM for hiking in the Lake District, the installation process is the same across iPhone and Android.
+Installing a UK eSIM before your trip takes under five minutes and gets you connected the moment you land anywhere in Great Britain. Having the eSIM pre-installed is the difference between walking straight through to the Uber pickup and fumbling with airport WiFi for 20 minutes. This guide covers every step: check device compatibility, buy a plan online, scan the QR code, configure APN settings, enable data roaming, and troubleshoot common issues. Whether you need an eSIM for a weekend in London, a road trip through the Cotswolds or a hiking trip in the Lake District, installation is identical on iPhone and Android.
 
-But here's what nobody tells you: the single biggest factor in a smooth arrival isn't which provider you pick or which network you're on. It's whether you install the eSIM at home before you fly. Airport WiFi can be unreliable — at busy terminals like Heathrow, free WiFi often drops or slows to a crawl under heavy passenger load. At home on a stable connection, the same install takes under 4 minutes. Don't be the person doing this at baggage claim.
+The part that actually decides how smooth your arrival is has nothing to do with which provider you pick or which network you land on. It is whether you install the eSIM at home before you fly. Airport WiFi can be unreliable — at busy terminals like Heathrow, free WiFi often drops or slows to a crawl under heavy passenger load. At home on a stable connection, the same install takes under 4 minutes. Don't be the person doing this at baggage claim.
 
 - UK eSIM installation time: 2-3 minutes (plus prep)
 - Compatible phones: iPhone XS and newer (2018+), Samsung Galaxy S20 and newer (2020+), Google Pixel 2 and newer
@@ -79,14 +79,14 @@ For a complete overview of UK eSIM plans and coverage, see the [UK eSIM guide](/
 
 ## How do I check if my phone is eSIM compatible for use in the UK?
 
-Most phones released since 2018 support eSIM, but compatibility varies by brand and model. Before buying a UK eSIM, verify your device against this compatibility guide for iPhone, Samsung, Google Pixel, and other major brands.
+Most phones released since 2018 support eSIM, but compatibility varies by brand and model. Before buying a UK eSIM, verify your device against our [device compatibility list](/compatibility/) for iPhone, Samsung, Google Pixel, and other major brands.
 
-**iPhones That Support eSIM**
-Every iPhone model from the **iPhone XS, XS Max, and XR onwards** supports eSIM, according to [Apple's official support documentation (2026)](https://support.apple.com/en-us/118670). That covers everything from 2018 to the latest iPhone 17 range. The only exceptions are iPhones sold in mainland China, Hong Kong, and Macau, which use a physical dual-SIM setup instead.
+### iPhones That Support eSIM
+Every iPhone model from the **iPhone XS, XS Max, and XR onwards** supports eSIM, according to [Apple's official support documentation (2026)](https://support.apple.com/en-us/118669). That covers everything from 2018 to the latest iPhone 17 range. The main exception is iPhones sold in mainland China, which use a physical dual-SIM setup instead.
 
 If you have an iPhone SE (2nd generation or later), that supports eSIM too.
 
-**Samsung Galaxy Phones That Support eSIM**
+### Samsung Galaxy Phones That Support eSIM
 Samsung has included eSIM support in its flagship models since the **Galaxy S20 series (2020)**. That means:
 
 - Galaxy S20, S20+, S20 Ultra, S21 series, S22 series, S23 series, S24 series
@@ -96,10 +96,10 @@ Samsung has included eSIM support in its flagship models since the **Galaxy S20 
 
 But there's a Samsung-specific gotcha: US carrier models of the S20 and S21 had eSIM disabled in software until a 2021 update. If you bought your Samsung from Verizon or AT&T in 2020, check for updates before assuming eSIM works.
 
-**Google Pixel Phones That Support eSIM**
+### Google Pixel Phones That Support eSIM
 Every Google Pixel from the **Pixel 2 onwards** supports eSIM. That's right, the Pixel 2 from 2017 was one of the first phones to support it. All subsequent models — Pixel 3, 4, 5, 6, 7, 8, 9, and the Pixel a-series (3a, 4a, 5a, 6a, 7a, 8a) — work with eSIM.
 
-**Other Phone Brands**
+### Other Phone Brands
 **OnePlus.** Models from the OnePlus 11 onwards support eSIM in most regions. The OnePlus 12 and 13 definitely do.
 
 **Xiaomi.** Support varies wildly by model and region. The Xiaomi 13 Pro, 14, and 14 Ultra support it. Most Redmi and Poco models don't.
@@ -114,14 +114,14 @@ Every Google Pixel from the **Pixel 2 onwards** supports eSIM. That's right, the
 
 **Oppo and Vivo.** Flagship models from 2023 onwards generally support eSIM. Mid-range and budget models usually don't.
 
-**How to Check if Your Phone Supports eSIM**
-If you're not sure, here are three quick ways to check phone eSIM compatibility with your specific device.
+### How to Check if Your Phone Supports eSIM
+If you're not sure, here are three quick ways to check phone eSIM compatibility with your specific device. To read your EID (the eSIM identity number) and IMEI directly, dial *#06# in the phone app. And remember that a 4G handset with VoLTE is now a hard requirement in the UK, because the old 3G voice network is gone.
 
 **On iPhone:** Go to Settings > General > About. If you see "Available eSIM" or "Digital SIM" as an option, your phone supports it.
 
 **On Android:** Go to Settings > Connections > SIM card manager. If you see an option to "Add eSIM" or "Add mobile plan," you're good. On some phones, it's under Settings > Network & Internet > Mobile Network > Add Carrier.
 
-**Check the IMEI.** You can usually look up your phone's model number on the manufacturer's website or use the [GSMA's device database](https://www.gsma.com/esim/). If your phone was released in 2020 or later and isn't a budget model, there's a strong chance it supports eSIM.
+**Check the IMEI.** You can usually look up your phone's model number on the manufacturer's website or check the [GSMA's eSIM specification page](https://www.gsma.com/solutions-and-impact/technologies/esim/). If your phone was released in 2020 or later and isn't a budget model, there's a strong chance it supports eSIM.
 
 ## What do I need before installing a UK eSIM?
 
@@ -132,9 +132,9 @@ You need a WiFi connection, your eSIM QR code or activation code from your provi
 - **About 5 minutes.** The actual installation takes 2-3 minutes. Allow a bit of extra time if you're doing it for the first time.
 - **Your home SIM should stay in your phone.** You don't need to remove it. The eSIM plan works alongside your physical SIM.
 
-An eSIM card for the UK doesn't need to be inserted or swapped — it downloads directly to your phone over WiFi, so there's no plastic to handle or tray to eject.
+An eSIM card for the UK doesn't need to be inserted or swapped — it downloads directly to your phone over WiFi, so there's no plastic to handle or tray to eject. Our [UK eSIM vs physical SIM guide](/blog/uk-esim-vs-physical-sim/) covers the cases where a physical card still makes sense.
 
-**Pro tip:** Install your [UK travel eSIM](/united-kingdom-esim/) before you leave home if you can. You can buy and install your eSIM profile entirely online from anywhere in the world. That way you just switch it on when you land and you're connected immediately. No fumbling with airport WiFi, no worrying about whether you'll have signal.
+**Pro tip:** Install your [UK travel eSIM](/united-kingdom-esim/) before you leave home if you can — our [guide to buying a UK eSIM](/blog/buy-uk-esim-guide/) covers plan selection and checkout. You can buy and install your eSIM profile entirely online from anywhere in the world. That way you just switch it on when you land and you're connected immediately. No fumbling with airport WiFi, no worrying about whether you'll have signal.
 
 But a word of caution: a handful of providers activate the plan at purchase time, not first connection. That means if you buy a 7-day plan on Monday but don't land until Friday, you've already lost 4 days. Always check your provider's activation policy. Roami activates on first UK network connection, so you can install weeks in advance without wasting a single day.
 
@@ -144,7 +144,7 @@ Installing a UK eSIM on iPhone takes about 2-3 minutes using either a QR code sc
 
 On a modern iPhone, typical install times are: QR code (around 2 minutes), provider app (around 1.5 minutes), manual entry (around 3.5 minutes). The app is fastest. QR is easiest. Manual is your fallback.
 
-**Method 1: Installing via QR Code (Most Common)**
+### Method 1: Installing via QR Code (Most Common)
 Most providers send you a QR code by email or display one in their app. These UK eSIM QR code setup instructions cover both iPhone and Android.
 
 **Step 1: Connect to WiFi.** You need an internet connection to download the profile. Connect to your home WiFi, hotel WiFi, or the free WiFi at any UK airport.
@@ -167,11 +167,11 @@ If the QR code doesn't scan — maybe the code is on your laptop screen and the 
 
 **Step 7: Turn on data roaming.** This is the step everyone forgets. Go to Settings > Cellular > [your UK eSIM label] and toggle on Data Roaming. Without this, your eSIM profile won't connect to UK mobile networks.
 
-**Step 8: Verify it's working.** Turn off WiFi (or disconnect from it). You should see your eSIM's signal bars appear at the top of the screen. The carrier name will show up as [EE](https://ee.co.uk), [Vodafone](https://www.vodafone.co.uk), [O2](https://www.o2.co.uk), [Three](https://www.three.co.uk), or something similar depending on which network your profile connects to.
+**Step 8: Verify it's working.** Turn off WiFi (or disconnect from it). You should see your eSIM's signal bars appear at the top of the screen. The carrier name will show up as EE, Vodafone, O2 or Three, depending on which network your profile connects to.
 
 Open Safari and browse to any website. If it loads, you're online. If not, check that data roaming is on and that your APN settings are correct (more on that below).
 
-**Method 2: Installing via Your Provider's App**
+### Method 2: Installing via Your Provider's App
 Some providers — including Roami, Airalo, and Ubigi — have apps that handle the installation automatically.
 
 **Step 1: Download the app.** From the App Store, download your provider's app.
@@ -186,12 +186,12 @@ The app method is slightly faster than QR code scanning and harder to mess up, b
 
 But not all provider apps are created equal. Some apps handle installation more reliably than others — some provider apps occasionally crash during the QR scan step. Test your app at home, not at the airport.
 
-**Method 3: Manual Installation (iPhone)**
+### Method 3: Manual Installation (iPhone)
 If you can't scan the QR code and don't have an app, you can enter the details manually.
 
 Go to Settings > Cellular > Add eSIM > Enter Details Manually. You'll need two pieces of information from your provider:
 
-1. **SM-DP+ Address** — this looks like a web address (e.g., `rsp.truphone.com`)
+1. **SM-DP+ Address** — this looks like a web address (e.g., `rsp.example.com`)
 2. **Activation Code** — a string of letters and numbers
 
 Type these in carefully. One wrong character and the installation will fail. Copy and paste if you can — send yourself the details in an email or a note that you can access on your phone.
@@ -200,7 +200,7 @@ Type these in carefully. One wrong character and the installation will fail. Cop
 
 Installing a UK eSIM on Android takes about 2-3 minutes, and the process is similar across Samsung, Google Pixel, OnePlus, and most other Android brands. The core steps are: connect to WiFi, scan the QR code in SIM settings, label the plan, set it as your data line, and enable data roaming.
 
-**Method 1: Installing via QR Code (Most Common)**
+### Method 1: Installing via QR Code (Most Common)
 **Step 1: Connect to WiFi.** Like on iPhone, you need an internet connection to download the profile.
 
 **Step 2: Open Settings.** Go to Settings > Connections > SIM card manager. On Google Pixel phones, it's Settings > Network & Internet > Mobile Network.
@@ -217,14 +217,14 @@ Installing a UK eSIM on Android takes about 2-3 minutes, and the process is simi
 
 **Step 8: Verify it's working.** Turn off WiFi. You should see signal bars for your eSIM. Try loading a website or opening an app that uses data.
 
-**Method 2: Installing via Provider's App (Android)**
+### Method 2: Installing via Provider's App (Android)
 **Step 1:** Download your provider's app from the Google Play Store.
 **Step 2:** Buy or select your UK eSIM plan.
 **Step 3:** Follow the in-app prompts. The app will install the profile automatically.
 **Step 4:** Set the UK eSIM as your data line when prompted.
 **Step 5:** Turn on data roaming in the SIM settings.
 
-**Method 3: Manual Installation (Android)**
+### Method 3: Manual Installation (Android)
 On Android, the manual entry option usually appears after you tap "Add eSIM" and either look for a link that says "Enter activation code" or "Enter details manually." You'll need the same SM-DP+ address and activation code from your provider.
 
 **Samsung phones:** Settings > Connections > SIM card manager > Add eSIM > tap the three dots menu > Enter activation code.
@@ -233,7 +233,7 @@ On Android, the manual entry option usually appears after you tap "Add eSIM" and
 
 **OnePlus phones:** Settings > Mobile network > SIM card management > Add eSIM > Scan QR code > tap the keyboard icon (this lets you enter details manually).
 
-**Samsung-Specific Notes**
+### Samsung-Specific Notes
 Samsung phones occasionally need a bit of extra coaxing with eSIMs. If you follow the steps above and the plan doesn't install:
 
 1. Make sure your phone is running One UI 5.0 or later (Settings > About Phone > Software Information).
@@ -242,7 +242,7 @@ Samsung phones occasionally need a bit of extra coaxing with eSIMs. If you follo
 
 Samsung's eSIM support has improved noticeably in the S24 generation — newer Galaxy models typically install eSIM profiles in under 2 minutes on the first attempt. Older models like the S23 sometimes need a restart before they will recognise the QR code.
 
-**Google Pixel-Specific Notes**
+### Google Pixel-Specific Notes
 Pixels handle eSIM installation very smoothly. One thing to watch: after installation, go to Settings > Network & Internet > SIMs > [your eSIM] and make sure "Use eSIM" is toggled on. Pixels sometimes download the profile but don't activate it automatically.
 
 This is a known issue on Pixel phones: the profile installs, appears active in settings, but data won't flow because "Use eSIM" is toggled off by default. Flip it on and everything works. A 5-second fix that can take 10 minutes to find if you don't know where to look.
@@ -250,6 +250,17 @@ This is a known issue on Pixel phones: the profile installs, appears active in s
 ## When should I activate my UK eSIM?
 
 For most providers including Roami, you should install the eSIM profile at home before travel and let it activate automatically when you land in the UK. The plan's validity period starts when it first connects to a UK network, not when you install the profile, so you're not wasting any days before your trip.
+
+### Can I activate my UK eSIM abroad?
+
+Yes, and for most travel eSIMs that is exactly how they are designed to work. There is no technical reason a UK eSIM needs to be activated inside the UK — the profile is a digital credential, and the activation handshake happens over whatever internet connection you have, including your home broadband or the airport Wi-Fi at your departure gate.
+
+Two points are worth knowing before you rely on it:
+
+- **Install in advance, activate on arrival.** Installing is the part that needs a stable connection and a few minutes of patience; activation is the part that happens when the phone sees a UK network. Splitting the two means a failed install at home is a problem you can fix with support, while a failed install on a foreign airport network at midnight is a problem you cannot.
+- **A UK eSIM that can be activated abroad still needs UK coverage to work.** Activation abroad is fine, but the plan will show "No Service" until you are within range of a UK network. If your itinerary starts in continental Europe and reaches the UK later in the trip, a UK-only plan is idle until the crossing — a UK-and-Europe plan is the better fit.
+
+Some providers specify that activation must happen within a set window after purchase, so check the terms rather than assuming months of leeway. If activation does not complete after you land, work through the [UK eSIM troubleshooting guide](/blog/uk-esim-troubleshooting/) before deleting the profile — deletion is the one step that cannot be undone without a new QR code.
 
 **Install before you travel, activate when you land.** Here's how most travel plans work: you can install the profile onto your phone anytime (this requires an internet connection), but the plan's validity period starts when the plan first connects to a supported network. So you install it at home over WiFi, and the 7-day or 30-day countdown begins when you land and switch it on.
 
@@ -262,7 +273,7 @@ This is a real gotcha. Some budget providers start the clock at purchase time �
 **What about connecting at the airport?** If you arrive at a UK airport and haven't installed the plan yet, connect to the free airport WiFi first. All major UK airports — Heathrow, Gatwick, Manchester, Stansted, Luton, Edinburgh, Glasgow, Birmingham — offer free WiFi. Install the profile while connected, then activate it. You'll be online within two minutes of walking through the arrivals gate.
 
 **Can I buy a UK eSIM at Heathrow Airport?**
-Yes, but you'll pay a significant premium. Airport kiosks at Heathrow, Gatwick, Manchester, and other UK airports sell eSIMs at 2-4 times the price of buying online in advance. A 5GB eSIM that costs roughly 6 GBP online can cost 20-35 GBP at the airport — that's a markup of 200-400%, based on pricing observed at UK airport retail outlets (2026).
+Yes, but you'll pay a significant premium. Airport kiosks at Heathrow, Gatwick, Manchester, and other UK airports sell eSIMs at 2-3 times the price of buying online in advance. A 5GB eSIM that costs roughly 6 GBP online can cost 12-18 GBP at the airport — a markup of 100-200%, based on pricing observed at UK airport retail outlets (2026).
 
 The better approach is to install your eSIM before you travel. You'll save money, avoid the last-minute rush, and be connected the moment you land. You can buy and install a [UK data eSIM](/united-kingdom-esim/) from anywhere in the world, and it activates automatically when you arrive.
 
@@ -272,26 +283,26 @@ If you absolutely must buy one at the airport, check the plan details carefully 
 
 APN (Access Point Name) settings tell your phone how to connect to the mobile network for data. Most UK eSIMs configure APN automatically, but if your data doesn't work after installation, you may need to enter the APN values manually for your specific network.
 
-**When You'll Need to Set APN Manually**
+### When You'll Need to Set APN Manually
 You need to configure APN settings if:
 - Your data doesn't work after installing the plan and turning on roaming
 - You can make calls but can't browse the internet
 - Your phone shows signal bars but no data connection
 - Your provider specifically tells you to configure APN (check your email or their help centre)
 
-**APN Settings for UK Networks**
-Here are the APN settings for the four major UK networks, sourced from each carrier's official help pages (2026). Your provider will tell you which one to use. For multi-network plans that switch between carriers (like Roami), use the "global" APN if one is provided, or start with EE's settings as they're the most compatible.
+### APN Settings for UK Networks
+Here are the APN settings for the four major UK networks (2026). Your provider will tell you which one to use. For multi-network travel plans that switch between carriers (like Roami), one APN covers all of the plan's partner networks — use the value from your provider's setup email rather than the carrier defaults below.
 
 | Network | APN | Username | Password | Authentication |
 |---|---|---|---|---|
 | **EE** | everywhere | (blank) | (blank) | None |
-| **Vodafone** | wap.vodafone.co.uk | wap | wap | PAP |
-| **O2** | mobile.o2.co.uk | o2web | password | None |
+| **Vodafone** | internet | web | web | PAP |
+| **O2** | mobile.o2.co.uk | (blank) | (blank) | None |
 | **Three** | three.co.uk | (blank) | (blank) | None |
 
-You can verify these APN values on the official carrier websites: [EE](https://ee.co.uk), [Vodafone](https://www.vodafone.co.uk), [O2](https://www.o2.co.uk), and [Three](https://www.three.co.uk). Each carrier publishes its current APN settings on its help pages.
+You can verify these APN values on each carrier's own help pages — EE, Vodafone, O2 and Three all publish their current settings.
 
-**How to Change APN Settings on iPhone**
+### How to Change APN Settings on iPhone
 1. Go to Settings > Cellular > [your UK eSIM label]
 2. Tap "Cellular Data Network" (it's near the bottom)
 3. In the APN field, enter the correct APN for your network
@@ -300,31 +311,31 @@ You can verify these APN values on the official carrier websites: [EE](https://e
 
 If you can't find "Cellular Data Network" in the menu, your iPhone might not show APN settings for eSIM lines on some carrier configurations. If that happens, contact your provider for specific guidance.
 
-**How to Change APN Settings on Android**
-**Samsung phones:**
+### How to Change APN Settings on Android
+### Samsung phones
 1. Settings > Connections > Mobile Networks > Access Point Names
 2. Tap the plus (+) icon or "Add"
 3. Enter the APN details from the table above
 4. Tap the three dots menu and select "Save"
 5. Select your new APN from the list
 
-**Google Pixel phones:**
+### Google Pixel phones
 1. Settings > Network & Internet > SIMs > [your UK eSIM]
 2. Tap "Access Point Names"
 3. Tap the plus (+) icon to add a new APN
 4. Enter the details and tap Save
 5. Select the new APN
 
-**OnePlus phones:**
+### OnePlus phones
 1. Settings > Mobile Network > SIM Card Management > [your UK eSIM] > Access Point Names
 2. Tap the plus icon to add a new APN
 3. Enter the details and save
 
-**Other Android phones:**
+### Other Android phones
 The path is usually Settings > Network & Internet > Mobile Network > Access Point Names, but it varies by manufacturer. If you can't find it, use the search function in Settings and type "APN."
 
-**A Note on Roami's APN**
-Roami's eSIM configures APN automatically on most phones. If you do need to set it manually, the APN is provided in the confirmation email after purchase. Their multi-network setup means the same APN works whether you're connected to EE, Vodafone, O2, or Three — the plan handles the network switching in the background, so you don't need to change APN settings when it switches carriers. That's one less thing to worry about when you're setting up a [UK eSIM](/united-kingdom-esim/) for your trip.
+### A Note on Roami's APN
+Roami's eSIM configures APN automatically on most phones. If you do need to set it manually, the APN is provided in the confirmation email after purchase. Their multi-network setup means the same APN works whether you're connected to EE, Vodafone, or O2 — the plan handles the network switching in the background, so you don't need to change APN settings when it switches carriers. That's one less thing to worry about when you're setting up a [UK eSIM](/united-kingdom-esim/) for your trip.
 
 ## How do I enable data roaming for my UK eSIM?
 
@@ -344,18 +355,30 @@ To be extra safe: go into your home SIM's settings and make sure data roaming is
 
 This is a common and costly mistake. A home SIM with data roaming left ON can burn through 15 USD or more of international data in a single afternoon of background app refresh. Two taps in Settings would've prevented it.
 
+## How do I enable WiFi Calling on a UK eSIM?
+
+WiFi Calling lets your phone place and receive calls over a broadband connection instead of a mobile signal. On a UK trip it is the most useful setting nobody mentions: it turns weak indoor signal in a stone cottage, a basement flat or a hotel with thick walls into a working phone line, and it costs nothing extra.
+
+It matters more in 2026 than it did a few years ago. Every UK network shut down 3G between February 2024 and early 2026, so a handset that cannot use VoLTE or WiFi Calling has no fallback when 4G is marginal — it will show signal bars and still fail to connect a call.
+
+**On iPhone:** Settings > Phone > Wi-Fi Calling > turn on "Wi-Fi Calling on This iPhone". You will be asked to confirm an emergency address; a hotel address is fine and can be changed later. On Samsung it is Settings > Connections > Wi-Fi Calling, and on Pixel it is Settings > Network & internet > SIMs > [your UK eSIM] > Wi-Fi Calling.
+
+Two caveats worth knowing before you rely on it. First, the feature has to be enabled on the plan, not just on the phone — it is standard on the four UK networks' own prepaid plans, but MVNO support is patchier and some resellers do not offer it at all. Second, a WiFi call is still routed and billed by the network behind your eSIM, so a data-only travel eSIM will not give you a UK number to call from; that needs a voice-capable plan, and the trade-offs are set out in our [UK phone number guide](/blog/uk-esim-with-phone-number/).
+
+If the toggle is greyed out, the usual causes are a carrier settings update that has not been applied yet (on iPhone, check Settings > General > About) or a plan that simply does not include the feature.
+
 ## How do I set up dual SIM with my home SIM and UK eSIM?
 
 Most modern phones let you run your home physical SIM and your UK eSIM simultaneously, keeping your home number active for calls and texts while using the UK eSIM for data. You configure which line handles calls and which handles data in your phone's Cellular or SIM settings.
 
-**On iPhone**
+### On iPhone
 After installing the eSIM, go to Settings > Cellular and you'll see both lines listed. Tap "Cellular Data" and select your UK eSIM as the data line. Tap "Default Voice Line" and keep this on your home SIM.
 
 You can also customise which line each contact uses for calls, or set your iPhone to ask which line to use when you dial a number.
 
 For a full walkthrough of dual SIM setup, check out the [UK eSIM dual SIM guide](/blog/uk-esim-dual-sim-setup/).
 
-**On Android**
+### On Android
 Go to Settings > Connections > SIM card manager (or the equivalent on your device). You'll see both your physical SIM and your eSIM profile listed. Tap "Mobile Data" and select the UK eSIM. Tap "Voice calls" or "Default SIM for calls" and select your home SIM.
 
 ## How do I top up my UK eSIM data?
@@ -370,12 +393,12 @@ You can top up your UK eSIM data through your provider's app, website, or by con
 
 How much does a top-up cost? It varies by provider, but most providers offer top-ups in set increments — 1 GB, 3 GB, 5 GB, or 10 GB — rather than letting you choose an exact amount.
 
-**Topping Up with Roami**
+### Topping Up with Roami
 Roami treats top-ups the same as the initial purchase. Log into your account or open the app, select a data add-on for your existing plan, and it's applied instantly. The data roaming stays active — you don't need to reinstall or reconfigure anything.
 
 But watch the expiry: a top-up doesn't extend your plan's validity period. If you buy a 7-day plan and top up on day 6, that extra data expires in one day. Top up early or buy a longer plan from the start if you think you'll need extra data.
 
-## Quick Decision: Which installation method should I use?
+## Quick Decision: Which UK eSIM installation method should I use?
 
 - **Stable WiFi connection:** Use QR code installation. Most common method, works on all phones.
 - **Prefer a guided process:** Use your provider's app. Handles installation automatically with step-by-step prompts.
@@ -387,12 +410,12 @@ But watch the expiry: a top-up doesn't extend your plan's validity period. If yo
 
 Your pre-travel checklist ensures you arrive in the UK with a working eSIM: verify compatibility one week before, install the profile over WiFi 1-2 days before, and confirm everything is working at the airport before you board.
 
-**1 Week Before**
+### 1 Week Before
 - [ ] Check your phone supports eSIM (see the compatibility section above)
 - [ ] Research and buy your UK eSIM plan
 - [ ] Make a note of your plan's validity period — when does it start and expire?
 
-**1-2 Days Before**
+### 1-2 Days Before
 - [ ] Connect to your home WiFi
 - [ ] Install the eSIM profile (scan the QR code or use the app)
 - [ ] Label the plan clearly (e.g., "UK Roami")
@@ -401,12 +424,12 @@ Your pre-travel checklist ensures you arrive in the UK with a working eSIM: veri
 - [ ] Turn off data roaming for your home SIM line (to avoid accidental charges)
 - [ ] Test that the profile is installed by checking Settings > Cellular / SIM Manager
 
-**At the Airport (Before Departure)**
+### At the Airport (Before Departure)
 - [ ] Confirm the plan is installed and labelled
 - [ ] Have your provider's app or email confirmation handy in case you need support
 - [ ] Screenshot your profile details (QR code, plan info) and save them in your photos — you might not have internet access later
 
-**On Arrival in the UK**
+### On Arrival in the UK
 - [ ] If you haven't installed yet, connect to airport WiFi and install
 - [ ] If you've already installed, turn off WiFi
 - [ ] Check signal bars appear for your UK eSIM
@@ -417,7 +440,7 @@ Your pre-travel checklist ensures you arrive in the UK with a working eSIM: veri
 
 The most common UK eSIM installation issues — no service, QR code scanning failures, APN configuration problems, and intermittent data — each have specific fixes you can apply without contacting support. Restarting your phone resolves a surprising number of eSIM profile issues.
 
-**"No Service" After Installation**
+### "No Service" After Installation
 This usually means the profile installed but can't connect to a network. Here's what to check:
 
 1. **Is data roaming on?** Go to your profile settings and confirm data roaming is enabled. This is the #1 cause.
@@ -427,7 +450,7 @@ This usually means the profile installed but can't connect to a network. Here's 
 
 If none of these work, restart your phone. A surprising number of eSIM profile issues are fixed by a simple reboot.
 
-**The QR Code Won't Scan**
+### The QR Code Won't Scan
 QR code scanning can be fiddly. Try these fixes:
 
 1. **Increase screen brightness.** If the QR code is on another device's screen, turn the brightness up to make it clearer.
@@ -435,14 +458,14 @@ QR code scanning can be fiddly. Try these fixes:
 3. **Try manual entry.** Look for the "Enter Details Manually" option. You'll need the SM-DP+ address and activation code from your provider.
 4. **Request a new QR code.** Contact your provider's support and ask them to resend the QR code or provide a direct installation link.
 
-**APN Settings Won't Save**
+### APN Settings Won't Save
 This happens more often on Android than iPhone. If you enter APN details and they don't save:
 
 1. **Save before exiting.** On some Android phones, you need to explicitly save the APN before backing out. Look for a save icon (usually a floppy disk icon, a checkmark, or a three-dot menu with a save option).
 2. **Check for existing APNs.** If the network's APN already exists but isn't selected, just select it instead of creating a new one.
 3. **Restart after saving.** Some Android phones apply APN changes only after a reboot.
 
-**Data Works but Then Stops**
+### Data Works but Then Stops
 If your eSIM profile worked fine for a day or two and then stopped:
 
 1. **Did you run out of data?** Check your plan's remaining data in your provider's app or account page.
@@ -450,7 +473,7 @@ If your eSIM profile worked fine for a day or two and then stopped:
 3. **Did you accidentally switch the data line?** Go back into settings and confirm your UK eSIM is still selected for cellular data.
 4. **Network maintenance.** Occasionally UK networks perform maintenance. Wait 15-30 minutes and try again.
 
-**The "eSIM Not Supported on This Device" Error**
+### The "eSIM Not Supported on This Device" Error
 This means your phone doesn't support eSIM, or the profile is incompatible with your device. First, verify your phone is on the compatibility list above. If it should work, try:
 
 1. **Update your phone's software.** An outdated operating system might lack support.
@@ -459,7 +482,7 @@ This means your phone doesn't support eSIM, or the profile is incompatible with 
 
 For more detailed troubleshooting, see the [UK eSIM fix guide](/blog/uk-esim-troubleshooting/) which covers 16 real-world cases and their solutions.
 
-**Signal Drops When Moving Between Areas**
+### Signal Drops When Moving Between Areas
 If your eSIM profile connection drops when you travel between cities or from urban areas to rural Great Britain, this is usually a network switching issue. Here's what's happening and how to handle it.
 
 Some eSIMs are designed to connect to a single UK network. When you move out of that network's coverage area, the phone tries to find an alternative, but the plan configuration might not allow it to switch automatically. The result: you lose data until you manually select a different network or move back into coverage.
@@ -468,25 +491,25 @@ If this happens to you:
 1. Go to Settings > Cellular > Network Selection (iPhone) or Settings > Connections > Mobile Networks > Network Operators (Android)
 2. Turn off Automatic selection
 3. Wait for the list of available networks to appear
-4. Manually select a different network from the list (try [EE](https://ee.co.uk) first, then [Vodafone](https://www.vodafone.co.uk), then [O2](https://www.o2.co.uk), then [Three](https://www.three.co.uk))
+4. Manually select a different network from the list (try EE first, then Vodafone, then O2, then Three)
 5. Wait 10-15 seconds to see if data comes back
 6. If it does, you've found a working network for your current location
 7. If not, try the next network
 
 This manual override is a useful trick to know, especially if you're travelling through areas where your eSIM's primary network has poor coverage. With multi-network plans like Roami, this manual switching happens automatically in the background, which is why they tend to maintain more consistent connections across Great Britain.
 
-**eSIM Shows Connected But No Internet**
+### eSIM Shows Connected But No Internet
 This is particularly frustrating — you see signal bars, your phone says it's connected, but nothing loads. Here's the checklist:
 
 1. **Check APN settings.** Go back to the APN section above and confirm your APN is entered correctly. Even a single wrong character will prevent data from working.
-2. **Toggle Airplane Mode.** Turn Airplane Mode on, wait 10 seconds, then turn it off. This forces your phone to re-register on the network.
+2. **Toggle Airplane Mode.** Turn Airplane Mode on, wait 10 seconds, then turn it off. This forces the handset to re-register with the network.
 3. **Reset network settings.** On iPhone: Settings > General > Transfer or Reset iPhone > Reset > Reset Network Settings. On Android: Settings > General Management > Reset > Reset Network Settings. Note: this will forget saved WiFi passwords, so use it as a last resort.
 4. **Check for a carrier settings update.** On iPhone: Settings > General > About. If a carrier update is available, a prompt will appear. On Android: check for system updates in Settings.
 5. **Try a different browser or app.** Occasionally the issue is with a specific app, not the connection itself. If Safari doesn't work, try Chrome. If Chrome doesn't work, try an app that uses data.
 
 This is a known phenomenon: signal bars full, but no data flows. The phone has latched onto a tower that isn't routing data. Toggling Airplane Mode forces the phone to re-register and pick a working tower. Sometimes the simplest fix is the right one.
 
-**Multiple eSIMs and Conflicts**
+### Multiple eSIMs and Conflicts
 If you've installed multiple eSIM profiles on your phone (perhaps from previous trips or different providers), they can occasionally conflict. Symptoms include installation failures, the wrong eSIM activating, or data not routing correctly.
 
 The fix is to remove old or unused profiles. You can do this without affecting your physical SIM.
@@ -497,7 +520,7 @@ The fix is to remove old or unused profiles. You can do this without affecting y
 
 Then install your UK eSIM fresh. Keeping only one travel plan active at a time is good practice for preventing conflicts.
 
-**eSIM Installation Fails Midway Through**
+### eSIM Installation Fails Midway Through
 An interrupted installation — usually from a dropped WiFi connection or accidentally navigating away from the setup screen — can leave the profile partially installed. Your phone might show errors like "Unable to Complete Setup" or "Cellular Plan Not Added."
 
 The fix:
@@ -509,7 +532,7 @@ The fix:
 
 The QR code you received might be single-use. If the installation failed after scanning it, the code might already be consumed. Contacting your provider for a fresh code is often the fastest solution.
 
-**Data Works on Some Apps but Not Others**
+### Data Works on Some Apps but Not Others
 This is an unusual one but it happens. If WhatsApp works but Safari doesn't, or Google Maps works but Instagram doesn't, the issue is usually related to DNS or APN configuration rather than a problem with the eSIM plan itself.
 
 Try changing your DNS settings:
@@ -518,7 +541,7 @@ Try changing your DNS settings:
 
 This routes your traffic through Google's or Cloudflare's DNS servers, which can resolve website addresses more reliably than the UK network's default DNS.
 
-**UK eSIM Not Working After iOS or Android Update**
+### UK eSIM Not Working After iOS or Android Update
 System updates can occasionally reset network settings or break eSIM configurations. If your eSIM profile worked before an update and stopped afterwards:
 
 1. First, confirm data roaming is still enabled (updates can toggle this off)
@@ -529,15 +552,15 @@ System updates can occasionally reset network settings or break eSIM configurati
 
 ## What network coverage should I expect after setting up my UK eSIM?
 
-After setup, your UK eSIM connects to one of the four major UK networks, and your coverage depends on which network your plan uses. EE provides the best overall coverage across Great Britain, covering roughly 88% of the UK landmass, according to Ofcom's Connected Nations report (2025).
+After setup, your UK eSIM connects to one of the four major UK networks, and your coverage depends on which network your plan uses. EE provides the best overall coverage across the UK, reaching the vast majority of the UK's landmass, according to Ofcom's coverage data.
 
-**If your eSIM profile connects to a single network**, you'll see that network's name at the top of your screen. Your coverage depends entirely on that network's reach. [EE](https://ee.co.uk) has the best overall coverage across the UK, according to [Ofcom's latest Connected Nations report](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/mobile-coverage-checker). [Three](https://www.three.co.uk) has the fastest city speeds but more rural gaps. [Vodafone](https://www.vodafone.co.uk) and [O2](https://www.o2.co.uk) sit somewhere in between.
+**If your eSIM profile connects to a single network**, you'll see that network's name at the top of your screen. Your coverage depends entirely on that network's reach. EE has the best overall coverage across the UK. Three has the fastest city speeds but more rural gaps. Vodafone and O2 sit somewhere in between, and Ofcom publishes the underlying numbers network by network.
 
-But coverage maps lie. Ofcom's "88% landmass" for EE sounds great until you're in a Lake District valley where that remaining 12% is all that matters. Routes through valleys like Windermere to Wasdale Head can have multiple dead zones on any single network — a multi-network plan that switches to whichever carrier has signal through each valley is the only way to maintain continuous coverage.
+But coverage maps lie. Ofcom's headline landmass figure for EE sounds great until you're in a Lake District valley where the uncovered sliver is all that matters. Routes through valleys like Windermere to Wasdale Head can have multiple dead zones on any single network — a multi-network plan that switches to whichever carrier has signal through each valley is the only way to maintain continuous coverage.
 
-**If your eSIM profile has multi-network switching** (like Roami), your phone will automatically switch between carriers to maintain the strongest signal. You might see the carrier name change at the top of your screen as you move around — that's normal and means the system is working. In UK cities you'll probably stay on EE or Three. In rural Great Britain you might switch to Vodafone or O2. A [UK eSIM](/united-kingdom-esim/) with automatic carrier switching handles these transitions without you needing to manually reconfigure anything.
+**If your eSIM profile has multi-network switching** (like Roami), your phone will automatically switch between carriers to maintain the strongest signal. You might see the carrier name change at the top of your screen as you move around — that's normal and means the system is working. In UK cities you'll probably stay on EE or Vodafone. In rural Great Britain your phone might switch to O2 as signal strength shifts. A multi-network eSIM handles these transitions without you needing to reconfigure anything manually.
 
-For a full look at how UK coverage compares across regions and networks, use Ofcom's [coverage checker](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/mobile-coverage-checker). It's the most accurate source of coverage data available, broken down by postcode and network.
+For a full look at how UK coverage compares across regions and networks, use Ofcom's [coverage checker](https://checker.ofcom.org.uk/mobile-coverage). It's the most accurate source of coverage data available, broken down by postcode and network.
 
 ## How do I set up a UK eSIM for children or less tech-savvy travellers?
 
@@ -571,7 +594,7 @@ But don't get complacent: cellular encryption isn't a magic shield. A determined
 
 ## What are the UK government regulations for using an eSIM?
 
-The UK has no restrictions on using eSIMs from foreign providers. You can buy a UK eSIM, England eSIM, or Great Britain eSIM from any provider in any country and use it as soon as you arrive. There's no registration requirement, no ID check, and no paperwork.
+The UK has no restrictions on using eSIMs from foreign providers. You can buy a UK eSIM, England eSIM, or Great Britain eSIM from any provider in any country and use it as soon as you arrive. There's no registration requirement, no ID check, and no paperwork — though if you are staying long enough to work from the UK, our [UK eSIM guide for business and nomads](/blog/uk-esim-business-digital-nomad/) covers the practicalities.
 
 This policy is in contrast to physical SIMs, which do require identity verification under UK law. eSIMs are classified differently because there's no physical distribution channel to regulate. For official information on UK travel and telecom regulations, check the [UK Government website](https://www.gov.uk/).
 
@@ -608,7 +631,7 @@ Yes, absolutely. In fact, this is the recommended approach for most travellers. 
 The only exception is if your provider specifically states that the plan starts at the time of purchase. This is uncommon but not unheard of. Always check the terms before buying.
 
 **Can I buy a UK eSIM at Heathrow airport?**
-Yes, but you'll pay a significant premium. Airport kiosks at Heathrow, Gatwick, Manchester, and other UK airports sell eSIMs at 2-4 times the price of buying online in advance. A 5GB eSIM that costs roughly 6 GBP online can cost 20-35 GBP at the airport — that's a markup of 200-400%.
+Yes, but you'll pay a significant premium. Airport kiosks at Heathrow, Gatwick, Manchester, and other UK airports sell eSIMs at 2-3 times the price of buying online in advance. A 5GB eSIM that costs roughly 6 GBP online can cost 12-18 GBP at the airport — a markup of 100-200%.
 
 The better approach is to install your eSIM before you travel. You'll save money, avoid the last-minute rush, and be connected the moment you land. You can buy and install a [UK eSIM](/united-kingdom-esim/) from anywhere in the world, and it activates automatically when you arrive.
 
@@ -633,7 +656,7 @@ On iPhone, the carrier name appears at the top left of the screen next to the si
 
 On Android, the carrier name typically appears in the status bar. For more detail, go to Settings > About Phone > Status > SIM Status and select your UK eSIM.
 
-With multi-network plans like Roami, the carrier name might change throughout the day as your phone switches between [EE](https://ee.co.uk), [Vodafone](https://www.vodafone.co.uk), [O2](https://www.o2.co.uk), and [Three](https://www.three.co.uk) for the best signal. This is normal behaviour — it means the auto-switching is working as designed.
+With multi-network plans like Roami, the carrier name might change throughout the day as your phone switches between EE, Vodafone, and O2 for the best signal. This is normal behaviour — it means the auto-switching is working as designed.
 
 **Do I need to remove my physical SIM to use a UK eSIM?**
 Not at all. Your physical SIM stays in your phone. The eSIM plan works alongside it. This is one of the biggest advantages over traditional physical travel SIMs, which require you to swap out your home SIM and lose access to your regular number.
@@ -667,17 +690,17 @@ The storage limit is rarely an issue for travellers, but if you travel frequentl
 **Do I need to configure anything differently for 5G?**
 No. If your phone supports 5G and your provider offers 5G connectivity (most do in the UK), the eSIM plan connects to 5G automatically when you're in a 5G coverage area. No additional configuration is needed.
 
-5G coverage in the UK is strong in cities and expanding rapidly in towns. EE leads the 5G rollout, according to Ofcom data, followed by Three, Vodafone, and O2. If 5G is important to you, check your provider's network partnership — an eSIM that uses [EE](https://ee.co.uk) will generally give you the best 5G experience.
+5G coverage in the UK is strong in cities and expanding rapidly in towns. Ofcom's [Connected Nations update: Spring 2026](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/connected-nations-update-spring-2026) reports 5G coverage outside premises of between 76% and 94% depending on the network, but only 64% when you require all networks to cover the same spot — and that last number is the one that matters when you leave a city. If 5G matters for your trip, check which network your provider rides on rather than trusting a generic "5G ready" badge.
 
 ## What is the most important thing to remember about UK eSIM installation?
 
-Installing a UK eSIM takes less than five minutes and doesn't require technical expertise. Buy the plan, scan the QR code, turn on data roaming, and you're connected anywhere in Great Britain — England, Scotland, and Wales.
+Installing a UK eSIM takes under five minutes and needs no technical background: buy the plan, scan the QR code, switch data roaming on. Do all three before you fly and your phone will be online the moment the plane doors open — no shop, no queue, no queue at baggage claim.
 
-For 90% of users, the process is exactly that simple. The rest of this guide covers the edge cases — the phones that need manual APN, the QR codes that won't scan, the plans that don't activate immediately.
+For most users, the process is exactly that simple. The rest of this guide covers the edge cases — the phones that need manual APN, the QR codes that won't scan, the plans that don't activate immediately.
 
 If you haven't picked a provider yet, check out the [UK eSIM ranking and comparison](/blog/uk-esim-ranking-comparison/) to see which one fits your travel style. Once you've got your plan, come back to this guide for the setup steps.
 
-And if you want to try Roami — with its automatic network switching across EE, Vodafone, O2, and Three, live customer support, and competitive pricing — use promo code **WEB20** for **20% off** or start with the **[free eSIM trial](/free-esim/)**. The setup follows exactly the same steps outlined here.
+And if you want to try Roami — with its automatic network switching across EE, Vodafone, and O2, live customer support, and competitive pricing — use promo code **web20** for **20% off** your first plan, or start with the **[free eSIM trial](/free-esim/)** — 100MB of data, no payment needed. The setup follows exactly the same steps outlined here.
 
 Buy it tonight. Install it on your home WiFi. Screenshot the QR code. Turn on data roaming. Then forget about it until you land. The best eSIM setup is the one you don't have to think about at baggage claim.
 

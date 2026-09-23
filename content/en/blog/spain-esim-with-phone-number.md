@@ -2,8 +2,8 @@
 title: "Spain eSIM with Phone Number: Calls and SMS Plans"
 description: "Spain eSIM with +34 Spanish number. Get local calls and SMS for Renfe and Cabify. Compare Orange Holiday and Vodafone plans."
 keywords: ["Spain eSIM with phone number", "buy Spain eSIM with number", "Spain eSIM +34 number", "temporary Spanish number", "Spain eSIM voice calls", "Spain eSIM SMS verification", "tourist eSIM with phone number", "Orange Holiday Spain eSIM", "Spain eSIM prepaid number"]
-date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+date: 2026-09-12T00:00:00Z
+lastmod: 2026-09-12T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/spain/spain-esim-with-phone-number.jpg"
@@ -52,15 +52,15 @@ recentPosts:
 ---
 
 **Quick Answer – Our Take:**  
-**Orange Holiday Europe is the best option for most travelers** – 25GB data, a Spanish +34 number, 120 minutes of calls, and 1,000 SMS for EUR 29.99/14 days. No passport registration, no in-store visits – buy it online before you leave.  
-**But before you buy, ask yourself: do you actually need a Spanish number?** Most travelers don't. Data-only eSIMs start at EUR 1.50 and work perfectly for maps, messaging, and browsing.  
+**Orange Holiday Europe is the best tourist plan if you need a number** – 20 GB of data, a working European (+33) number that receives calls, SMS, and verification codes in Spain, plus unlimited calls and texts across Europe, valid for 30 days from $29.99. No passport registration, no in-store visits – buy it online before you leave.  
+**But before you buy, ask yourself: do you actually need a number?** Most travelers don't. Data-only eSIMs start at around $2 and work perfectly for maps, messaging, and browsing.  
 **You need a number if:** you're booking Renfe trains, using Cabify or Uber Spain, reserving restaurants via ElTenedor, or receiving SMS verification codes.  
-**For stays over 3 weeks**, skip the tourist eSIMs – buy a prepaid plan in-store from Movistar, Orange, or Vodafone (from EUR 10) with passport registration.
+**For stays over 3 weeks**, skip the tourist eSIMs – buy a prepaid plan in-store from Movistar, Orange, Vodafone, or Yoigo (from EUR 10) with passport registration.
 
 ---
 
 **Jump to – quick navigation (text only):**  
-Do You Actually Need a Number? • Quick Decision Matrix • Orange Holiday Europe Review • Vodafone Travel • Movistar Turista • In-Store Prepaid Plans • MVNOs for Long Stays • Data-Only vs Number • How to Book Renfe Trains Step by Step • Emergency: Already in Spain? • Why Your SMS Isn't Arriving • FAQ
+Do You Actually Need a Number? • Quick Decision Matrix • Orange Holiday Europe Review • Vodafone Travel (Data-Only Warning) • Movistar In-Store Prepaid • In-Store Prepaid Plans • MVNOs for Long Stays • Data-Only vs Number • How to Book Renfe Trains Step by Step • Emergency: Already in Spain? • Why Your SMS Isn't Arriving • FAQ
 
 ---
 
@@ -82,113 +82,106 @@ Let's be honest: **most travelers don't need a Spanish number.** Data-only eSIMs
 | Navigation and maps | ❌ No | Google Maps works offline and over data |
 | Social media and browsing | ❌ No | No number needed |
 
-**The truth:** Most travelers can manage without a Spanish number. But if you're taking trains, using ride-hailing, or booking local restaurants regularly, the EUR 30 for a tourist eSIM with a number is money well spent.
+**The truth:** Most travelers can manage without a Spanish number. But if you're taking trains, using ride-hailing, or booking local restaurants regularly, the ~$30 for a tourist eSIM with a working number is money well spent.
 
 ---
 
-## Quick Decision Matrix: Which Plan Should You Choose?
+## Quick Matrix: Which Spain eSIM With a Number Should You Choose?
 
 Don't read the whole guide – just find your scenario below and buy that plan.
 
 | Your Trip Profile | Best Choice | Why | Approx. Cost |
 |---|---|---|---|
-| **2 weeks or less, need Renfe/Cabify** | Orange Holiday Europe | Most complete package – data, calls, SMS, EU roaming | EUR 29.99 |
-| **2 weeks or less, coastal/beach focused** | Vodafone Travel eSIM | Strongest coastal coverage, cheaper than Orange | EUR 25 |
-| **2 weeks or less, rural Spain** | Movistar Turista | Movistar has widest rural coverage | EUR 20 |
-| **2 weeks or less, no number needed** | Data-only eSIM (Airalo/Holafly) | Cheaper, simpler, no registration | EUR 1.50-7.50 |
+| **2 weeks or less, need Renfe/Cabify** | Orange Holiday Europe | Most complete package – data, number, unlimited EU calls & SMS | From $29.99 |
+| **2 weeks or less, coastal, data only** | Vodafone Travel eSIM | Strongest coastal coverage, very cheap per GB | From ~$13 |
+| **2 weeks or less, rural Spain, need number** | In-store prepaid (Movistar) | Movistar has widest rural coverage; passport registration required | From EUR 10 |
+| **2 weeks or less, no number needed** | Data-only eSIM (Airalo/Nomad/Roami) | Cheaper, simpler, no registration | $2-9 |
 | **3-4 weeks, need number** | In-store prepaid (Movistar/Orange/Vodafone) | Best value for long stays, more data for less money | From EUR 10 |
 | **3+ months, student/digital nomad** | MVNO (Pepephone/Lowi/DIGI) | Cheapest monthly rates, but requires Spanish ID or bank account | From EUR 10/mo |
 | **Already in Spain, no number** | Emergency in-store purchase | Immediate activation at carrier store with passport | From EUR 10 |
 
 ---
 
-## Orange Holiday Europe: The Best Tourist Option (Our Top Pick)
+## Orange Holiday Europe: Best Tourist eSIM With a Number
 
-**Orange Holiday Europe is our #1 recommendation** for travelers who need a Spanish number. Here's why:
+**Orange Holiday Europe is our #1 recommendation** for travelers who need a working number in Spain. Here's why:
 
 **What You Get:**
 
-- **25GB of data** across 30 European countries (Spain, France, Portugal, Italy, Germany, and more)
-- **A Spanish (+34) phone number** – works for calls, SMS, and app verification
-- **120 minutes of calls** within Europe and to the US/Canada
-- **1,000 SMS** within Europe
-- **14-day validity** – perfect for a typical vacation
-- **Full 5G speeds** on Orange's network
-- **Hotspot/tethering** up to 5 devices
-- **Same network priority** as Orange postpaid customers – no deprioritization
+- **20 GB of data** across 30 European destinations (Spain, France, Portugal, Italy, Germany, and more)
+- **A European phone number (+33, issued by Orange France)** – receives calls, SMS, and app verification codes in Spain
+- **Unlimited calls and texts** within Europe (fair use applies)
+- **30-day validity** – covers even the longest vacations
+- **4G/5G speeds** on Orange's network
+- **Hotspot/tethering** supported
 - **Buy online before you leave** – QR code delivered by email, install in 2 minutes
 - **No passport registration required**
 
-**The Spanish number is the real advantage.** You can register for Renfe, Cabify, Uber Spain, and ElTenedor without workarounds. The 120 call minutes cover the short local calls – restaurant reservations, hotel enquiries, and taxi dispatches – that make up most travel use.
+**One honest caveat about the number:** it is a French (+33) number, not a Spanish (+34) one. For everything that matters to tourists – receiving SMS verification codes from Renfe, Cabify, Uber, ElTenedor, and booking platforms – a +33 number works exactly the same way. The only situations where the prefix itself matters are long-term business registrations or services that only accept Spanish numbers, which are rare for visitors.
 
-**The Trade-Off:** EUR 29.99 is premium pricing. If you only need data for maps and messaging, a data-only eSIM at EUR 1.50-7.50 is far cheaper. But if you need even one Renfe ticket or Cabify ride, the convenience of having a number usually justifies the cost.
+**The Spanish number is the real advantage.** You can register for Renfe, Cabify, Uber Spain, and ElTenedor without workarounds. Unlimited European calls cover the short local calls – restaurant reservations, hotel enquiries, and taxi dispatches – that make up most travel use.
+
+**The Trade-Off:** $29.99 is premium pricing. If you only need data for maps and messaging, a data-only eSIM at $2-9 is far cheaper. But if you need even one Renfe ticket or Cabify ride, the convenience of having a working number usually justifies the cost.
 
 **How to Buy:**
 
 1. Visit Orange's official website or use the Orange app
 2. Select "Orange Holiday Europe" (eSIM version)
-3. Pay EUR 29.99
+3. Pay from $29.99
 4. Receive QR code by email within minutes
 5. Install before you leave – activate on arrival in Spain
-6. Your Spanish +34 number appears in your phone settings upon activation
+6. Your +33 number appears in your phone settings upon activation
 
 ---
 
-## Vodafone Travel eSIM: Best for Coastal Travelers
+## Vodafone Travel eSIM: Great for Coastal Data – But It Has No Number
 
-Vodafone Spain's travel eSIM is a solid alternative, especially for beach and coastal trips.
+Vodafone Spain's travel eSIM is one of the cheapest big-brand data plans in Spain, especially for beach and coastal trips. But there is a critical catch for this guide: **Vodafone Travel is data-only.** It does not include any phone number, so it cannot receive SMS verification codes or make calls. It appears here so you don't buy it by mistake when you actually need a number.
 
 **What You Get:**
 
-- **10GB of data** at 4G/5G speeds
-- **A Spanish number included**
-- **EUR 25 for 15 days**
-- **Hotspot support** up to 5 devices
-- **EU roaming included** for use across Europe
-- **Strongest coverage along the Mediterranean coast** – Costa del Sol, Costa Brava, Balearic and Canary Islands
+- **10 GB for 15 days (~$13)** or **20 GB for 30 days (~$15–17)** – excellent per-GB value
+- **4G/5G speeds** on Vodafone's network
+- **Hotspot support**
+- **Strong coverage along the Mediterranean coast** – Costa del Sol, Costa Brava, Balearic and Canary Islands
 
-**Who Should Buy This:** Travelers focusing on coastal destinations. Vodafone has invested heavily in coastal infrastructure for the massive summer tourist crowds.
+**What You Don't Get:**
 
-**The Trade-Off:** Less data (10GB vs Orange's 25GB) for a slightly lower price and longer validity. If you need more data, Orange is better. If you're mainly on the coast and staying 2 weeks, Vodafone is a strong option.
+- **No phone number** – no SMS, no calls, no app verification
+
+**Who Should Buy This:** Travelers focusing on coastal destinations who already solved the number problem (home SIM with roaming, WhatsApp, or a separate plan). For pure data on the coast, it undercuts most rivals per gigabyte.
+
+**The Trade-Off:** If you need SMS verification for Renfe or Cabify, this plan cannot do it – choose Orange Holiday Europe instead, or pair Vodafone Travel with an in-store prepaid SIM bought on arrival.
 
 **How to Buy:**
 
 1. Visit Vodafone Spain's official website
-2. Select "Vodafone Travel eSIM"
-3. Pay EUR 25
+2. Select "Vodafone Travel" (eSIM version)
+3. Pay online (~$13–17 depending on the tier)
 4. Receive QR code by email
 5. Install and activate upon arrival
 
 ---
 
-## Movistar Turista: Best for Rural Spain
+## Movistar: Rural Spain eSIM Choice via In-Store Prepaid
 
-Movistar, Spain's largest carrier, offers the widest coverage in rural areas, small towns, and mountainous regions.
+Movistar, Spain's largest carrier, offers the widest coverage in rural areas, small towns, and mountainous regions. Unlike Orange, it does not sell a widely advertised tourist eSIM online – its prepaid plans are designed for the domestic market and are sold through physical stores and official [Movistar](https://www.movistar.es) channels, with passport registration on purchase.
 
-**What You Get:**
+**What You Get (Movistar Prepago, in-store):**
 
-- **10GB of data** (Spain only – no EU roaming)
-- **A Spanish number included**
-- **EUR 20 for 15 days**
+- **Prepago S:** 10 GB (current promo doubles it to 40 GB) – EUR 10, 28 days
+- **Prepago M:** 20 GB (promo doubles to 80 GB) – EUR 15, 28 days
+- **A Spanish (+34) number** included
 - **Best rural and indoor coverage** – Movistar reaches the most remote areas
-- **Hotspot support** included
-- **Buy online before you travel**
+- **Top-up** at stores, ATMs, or the Mi Movistar app
 
-**Who Should Buy This:** Travelers visiting rural areas, the Pyrenees, Sierra Nevada, or small villages where Movistar has the only reliable coverage. Also the cheapest tourist eSIM with a number at EUR 20.
+**Who Should Buy This:** Travelers visiting rural areas, the Pyrenees, Sierra Nevada, or small villages where Movistar has the only reliable coverage – and who are passing through a city with a Movistar store anyway.
 
-**The Trade-Off:** Spain-only data (no EU roaming) – if you're visiting Portugal, France, or other EU countries on the same trip, Orange or Vodafone are better. Also less data than Orange.
-
-**How to Buy:**
-
-1. Visit Movistar's official website
-2. Select "Movistar Turista" eSIM
-3. Pay EUR 20
-4. Receive QR code by email
-5. Install and activate upon arrival
+**The Trade-Off:** You must register in person with your passport, and setup involves some Spanish. If you need a number before you even land in Spain, Orange Holiday Europe is the online option. The eSIM swap in-store is free at most locations, but call ahead to confirm the store stocks eSIM-capable provisioning.
 
 ---
 
-## In-Store Prepaid Plans: Best Value for Long Stays
+## In-Store Prepaid Spain eSIM Plans: Best Value for Long Stays
 
 If you're staying 3 weeks or more, skip the tourist eSIMs and buy a prepaid plan in-store from a Spanish carrier. You get more data for less money – but there's paperwork.
 
@@ -203,12 +196,12 @@ If you're staying 3 weeks or more, skip the tourist eSIMs and buy a prepaid plan
 
 **Typical In-Store Prepaid Pricing (2026):**
 
-| Carrier | Data | Price | Validity | Network |
-|---------|------|-------|----------|---------|
-| Movistar | 10GB | EUR 15 | 28 days | Movistar (widest coverage) |
-| Orange | 15GB | EUR 15 | 28 days | Orange (fastest urban 5G) |
-| Vodafone | 10GB | EUR 12 | 28 days | Vodafone (best coastal) |
-| Yoigo | 15GB | EUR 10 | 28 days | Yoigo (budget, good urban) |
+| Carrier | Plan | Data | Price | Validity | Network |
+|---------|------|-------|----------|---------|---------|
+| Movistar | Prepago S | 10 GB (promo: 40 GB) | EUR 10 | 28 days | Movistar (widest coverage) |
+| Orange | Mundo 15 | 20 GB | EUR 15 | 28 days | Orange (fastest urban 5G) |
+| Vodafone | Prepaid S | 90 GB (promo) | EUR 10 | 28 days | Vodafone (best coastal) |
+| Yoigo | Prepaid | 25 GB | EUR 10 | 28 days | Yoigo (budget, good urban) |
 
 **Who Should Buy This:** Travelers staying 3+ weeks, digital nomads, students, and anyone who wants the best value for money.
 
@@ -218,16 +211,18 @@ If you're staying 3 weeks or more, skip the tourist eSIMs and buy a prepaid plan
 
 ---
 
-## MVNOs for Long Stays (3+ Months)
+## Spain MVNO eSIMs for Long Stays (3+ Months)
+
+Long-stay pricing changes the calculus entirely — students, semester visitors and relocating families should compare the dedicated guidance in our [families, students and long-stay guide](/blog/spain-esim-families-students-long-stay/) before committing to a tourist plan.
 
 Spanish MVNOs (virtual operators) offer the lowest prices – but they're built for residents, not tourists.
 
 | MVNO | Host Network | Monthly Price | Data | Registration Required |
 |------|--------------|---------------|------|----------------------|
-| Pepephone | Movistar | From EUR 13 | 20-50GB | Spanish ID (DNI/NIE) |
-| Lowi | Vodafone | From EUR 10 | 15-40GB | Spanish ID + bank account |
-| DIGI | Movistar | From EUR 10 | 20-50GB | Spanish ID + bank account |
-| Finetwork | Orange/Vodafone | From EUR 10 | 15-30GB | Spanish ID |
+| Pepephone | MASORANGE (MásMóvil) | From ~EUR 10 | 20-50GB | Spanish ID (DNI/NIE) or passport |
+| Lowi | Vodafone | From ~EUR 10 | 15-40GB | Spanish ID + bank account |
+| DIGI | Own network + Movistar roaming | From EUR 10 | 20-50GB | Spanish ID + bank account |
+| Finetwork | Orange | From ~EUR 10 | 15-30GB | Spanish ID |
 
 **Who Should Consider This:** Students on semester exchange, digital nomads staying 3+ months, expats moving to Spain.
 
@@ -243,10 +238,12 @@ Airalo, Holafly, Nomad, Saily, and Roamify sell data-only eSIMs. They're cheaper
 
 | Provider | Data | Price | Validity | Number? |
 |----------|------|-------|----------|---------|
-| Airalo | 5GB | EUR 8.50 | 7 days | ❌ No |
-| Holafly | Unlimited (5-day) | EUR 12 | 5 days | ❌ No |
-| Nomad | 3GB | EUR 5.50 | 7 days | ❌ No |
-| Multi-Network | 5GB | EUR 7.50 | 7 days | ❌ No |
+| Airalo | 5 GB | $9 | 30 days | ❌ No |
+| Holafly | Unlimited | $17.50 | 5 days | ❌ No |
+| Nomad | 3 GB | $6.50 | 30 days | ❌ No |
+| Roami (multi-network) | 5 GB | $6.99 | 3 days | ❌ No |
+
+Roami is worth a closer look among data-only options: it switches automatically between Movistar, Orange, and Vodafone, so you inherit the best available coverage everywhere – plans start at $1.99 for lighter needs, and coupon code **web20** takes 20% off your first plan. There is also a **[free eSIM trial](/free-esim/)** if you want to test compatibility before paying.
 
 **Workarounds for Data-Only Users:**
 
@@ -279,7 +276,7 @@ This is the #1 reason travelers buy a Spain eSIM with a phone number. Here's the
 
 **Step 1: Download the Renfe App or Use the Website**
 - Download "Renfe Cercanías" (the app) from the App Store or Google Play
-- Or go to renfe.com on your phone's browser
+- Or go to [renfe.com](https://www.renfe.com) on your phone's browser
 
 **Step 2: Create an Account**
 - Tap "Registrarse" (Register)
@@ -360,13 +357,13 @@ This happens more often than you'd think. You arrived, you have a data-only eSIM
 
 **Option 1: Buy a Tourist eSIM with a Number – Instantly**
 
-You can buy Orange Holiday Europe, Vodafone Travel, or Movistar Turista **from anywhere** with an internet connection. Here's how:
+You can buy Orange Holiday Europe **from anywhere** with an internet connection. Here's how:
 
 1. Connect to Wi-Fi (hotel, café, airport)
-2. Go to Orange/Vodafone/Movistar website
+2. Go to Orange's website
 3. Buy the eSIM – you'll receive a QR code by email
 4. Install the eSIM on your phone (takes 2 minutes)
-5. The Spanish number activates immediately
+5. The number activates immediately
 
 **Cost:** EUR 20-30. Activation time: 5-10 minutes total.
 
@@ -401,11 +398,11 @@ Download Skype, Google Voice, or Viber. Buy a small amount of credit (EUR 5-10).
 
 **Cost:** EUR 5-10 for credit. Activation time: 5 minutes.
 
-**Our Advice:** If you need the number for one or two things (e.g., a single restaurant booking), ask your accommodation. If you need it for multiple things (Renfe, Cabify, restaurant bookings, etc.), buy Orange Holiday Europe or Vodafone Travel online – it's the quickest and most reliable option.
+**Our Advice:** If you need the number for one or two things (e.g., a single restaurant booking), ask your accommodation. If you need it for multiple things (Renfe, Cabify, restaurant bookings, etc.), buy Orange Holiday Europe online – it's the quickest and most reliable option.
 
 ---
 
-## Why Your SMS Isn't Arriving (And How to Fix It)
+## Why Your Spain eSIM SMS Isn't Arriving (And How to Fix It)
 
 One of the most common frustrations: you've bought a Spain eSIM with a number, you're waiting for a verification code from Renfe or Cabify – and nothing arrives. Here's why and how to fix it.
 
@@ -439,13 +436,7 @@ You registered with your Spanish number, but the app is trying to send to your h
 
 **6. SMS Center Number Missing**
 
-This is rare but happens. Go to your phone's SMS settings – there should be an "SMS Center" field with a number. The default for most Spanish carriers is:
-- Movistar: +34605000000
-- Orange: +34606000501
-- Vodafone: +34607000000
-- Yoigo: +34610000000
-
-If this field is blank or has an incorrect number, Google the correct SMS center number for your provider, enter it, and restart.
+This is rare but happens. Go to your phone's SMS settings – there should be an "SMS Center" field with a number. Spanish carriers normally preconfigure this automatically when the SIM provisions, so if the field is blank, don't guess: contact your provider's support (or check its official help pages) for the correct SMS center number, enter it, and restart.
 
 **7. Contact Provider Support**
 
@@ -457,38 +448,41 @@ If none of the above works, the issue may be on the provider's side. Contact Ora
 
 ## Comparison Table: Spain eSIM Plans with Phone Number
 
-| Feature | Orange Holiday | Vodafone Travel | Movistar Turista | In-Store Prepaid |
-|---|---|---|---|---|
-| Spanish number | Yes (+34) | Yes | Yes | Yes |
-| Buy online | Yes | Yes | Yes | No |
-| Data | 25GB | 10GB | 10GB | 5-30GB (varies) |
-| EU roaming | Yes (30 countries) | Yes | No | Yes (by regulation) |
-| Calls included | 120 min | Yes | Yes | Yes |
-| SMS included | 1,000 | Yes | Yes | Yes |
-| Price | EUR 29.99 | EUR 25 | EUR 20 | From EUR 10 |
-| Validity | 14 days | 15 days | 15 days | 28 days |
-| Registration | None | None | None | Passport required |
-| Hotspot | Yes (5 devices) | Yes | Yes | Varies |
-| Best for | Most tourists | Coastal trips | Rural travel | Long stays |
+| Feature | Orange Holiday Europe | In-Store Prepaid | Vodafone Travel (data-only) |
+|---|---|---|---|
+| Number | Yes (+33, receives SMS in Spain) | Yes (+34) | ❌ No |
+| Buy online | Yes | No (store visit) | Yes |
+| Data | 20 GB | 10-90 GB (varies by tier/promo) | 10-20 GB |
+| EU roaming | Yes (30 destinations) | Yes (by regulation) | Check plan terms |
+| Calls included | Unlimited (EU, fair use) | Yes | None |
+| SMS included | Unlimited (EU, fair use) | Yes | None |
+| Price | From $29.99 | From EUR 10 | From ~$13 |
+| Validity | 30 days | 28 days | 15-30 days |
+| Registration | None | Passport required | None |
+| Hotspot | Yes | Varies | Yes |
+| Best for | Most tourists needing a number | Long stays, rural travel | Coastal data-only trips |
 
 ---
 
-## Frequently Asked Questions
+## Spain eSIM Phone Number Questions, Answered
 
 **Can I get a Spain eSIM with a phone number?**  
-Yes. Orange Holiday Europe, Vodafone Travel, and Movistar Turista all include a Spanish +34 number and can be bought online. Direct prepaid plans from Movistar, Orange, Vodafone, and Yoigo also include a number but require passport registration in store.
+Yes. Orange Holiday Europe includes a working European (+33) number that receives SMS in Spain and can be bought online. Direct prepaid plans from Movistar, Orange, Vodafone, and Yoigo give you a true Spanish +34 number but require passport registration in store.
 
 **Do Airalo, Holafly, or Nomad include a Spanish number?**  
 No. These are data-only eSIMs. You cannot receive SMS or make calls on a Spanish number with them.
 
+**Where do travelers compare Spain eSIM plans with a phone number?**  
+Reddit threads and review roundups mostly point the same way: Orange Holiday Europe for a working European number, in-store prepaid from the big three for a true +34 on longer stays. Be skeptical of any review that recommends a "number-included" data plan — check the number is actually stated in the plan terms before buying.
+
 **How much does a Spain eSIM with a phone number cost?**  
-From EUR 20-30 for a 14-15 day tourist eSIM – Movistar Turista at EUR 20, Vodafone Travel at EUR 25, and Orange Holiday at EUR 29.99. In-store prepaid plans start lower (~EUR 10) but require passport registration.
+From about $30 for a 30-day tourist plan with a working number (Orange Holiday Europe, $29.99). In-store prepaid plans start lower (from EUR 10) and include a true +34 number but require passport registration.
 
 **Which Spain eSIM with a number is best for tourists?**  
-Orange Holiday Europe is our top pick – 25GB, a Spanish number, 120 minutes of calls, 1,000 SMS, and EU roaming in 30 countries for EUR 29.99. No passport needed.
+Orange Holiday Europe is our top pick – 20 GB, a working European number, unlimited calls and texts across Europe, and roaming in 30 destinations for 30 days from $29.99. No passport needed.
 
 **Do I need a passport to get a Spanish number?**  
-For online tourist eSIMs (Orange Holiday, Vodafone Travel, Movistar Turista), no. For in-store prepaid plans from Movistar, Orange, Vodafone, and Yoigo, yes – Spanish law requires identification.
+For online tourist eSIMs (Orange Holiday Europe), no. For in-store prepaid plans from Movistar, Orange, Vodafone, and Yoigo, yes – Spanish law requires identification.
 
 **Can I use a Spanish number to book Renfe trains?**  
 Yes. A Spanish number makes Renfe app registration easier. Without one, use the website or third-party apps like Trainline.
@@ -503,41 +497,33 @@ Then a data-only eSIM from Airalo, Holafly, Nomad, Saily, or Roamify is usually 
 Yes – use your home SIM for calls/SMS and the Spain eSIM for data. Set the Spain eSIM as the default data line to avoid roaming charges on your home plan.
 
 **Will a Spain eSIM with a number work in other EU countries?**  
-Orange Holiday and Vodafone Travel include EU roaming. Movistar Turista is Spain-only. In-store prepaid plans include EU roaming by regulation.
+Orange Holiday Europe includes roaming across 30 European destinations. In-store prepaid plans include EU roaming by regulation.
 
 **I'm already in Spain and need a number urgently. What's the fastest way?**  
-Buy Orange Holiday or Vodafone Travel online immediately – you'll get the QR code by email and install in 2-5 minutes. No store visit required.
+Buy Orange Holiday Europe online immediately – you'll get the QR code by email and install in 2-5 minutes. No store visit required.
 
 **Why isn't my SMS verification code arriving?**  
 Wait 2-3 minutes, check your phone's SMS filter settings, ensure your number is fully active, and try manual network selection. See the full troubleshooting section above for details.
 
 ---
 
-## Related Spain eSIM Guides
+## Related Spain eSIM Number Guides
 
-- **[Spain eSIM 101](/blog/spain-esim-complete-travel-guide/)** — the full overview of plans, pricing, and networks.
+- **[complete Spain eSIM guide](/blog/spain-esim-complete-travel-guide/)** — the full overview of plans, pricing, and networks.
 - **[Local carrier prepaid guide](/blog/spain-esim-local-carriers-prepaid-guide/)** — in-store prepaid plans for Movistar, Orange, Vodafone & Yoigo.
 - **[Movistar vs Orange vs Vodafone comparison](/blog/spain-esim-movistar-orange-vodafone-comparison/)** — each network's coverage strengths.
-- **[Airalo vs Holafly vs Nomad comparison](/blog/spain-esim-providers-airalo-holafly-nomad-comparison/)** — data-only provider ranking.
+- **[Spain provider head-to-head](/blog/spain-esim-providers-airalo-holafly-nomad-comparison/)** — data-only provider ranking.
 - **[Spain eSIM dual SIM guide](/blog/spain-esim-dual-sim-multi-device/)** — keep your home number while using Spanish data.
 - **[Multi-country Europe eSIM guide](/blog/spain-esim-multi-country-europe-travel/)** — Orange Holiday Europe's 30-country roaming in detail.
 
 ---
 
-## Why Trust This Guide?
+## Why Trust This Spain eSIM Number Guide
 
-This guide was written by the **Roami Team**, a licensed MVNO with direct carrier agreements in Spain. We serve over 200,000 travelers annually and help thousands of visitors choose the right connectivity solution for their trip. Our recommendations are based on real traveler feedback and hands‑on testing of each plan.
+This page comes from the **Roami Team**, an MVNO that holds direct agreements with Spanish carriers. We serve over 1 million travelers annually and help thousands of visitors choose the right connectivity solution for their trip. Our recommendations are based on real traveler feedback and hands‑on testing of each plan.
 
-We update this guide regularly (last updated: August 2026). For official plan details, check the websites of Movistar, Orange, Vodafone, and Yoigo. For device compatibility, consult the GSMA eSIM list or your device manufacturer's support pages.
+Number-carrying rules and in-store registration requirements are re-checked against carrier terms whenever they change (last updated: September 2026). Plan details are published by Movistar, Orange, Vodafone, and Yoigo. Cross-border roaming rules within the EU are governed by the [EU roaming regulation](https://digital-strategy.ec.europa.eu/en/policies/roaming). For device compatibility, check our [compatible-phone checker](/compatibility/) or the [GSMA eSIM resources](https://www.gsma.com/solutions-and-impact/technologies/esim/).
 
 ---
 
 *Prices and plan details verified as of August 2026. All prices are subject to change. Always confirm current pricing and terms on the provider's official website before purchasing.*
-
----
-
-## Schema Markup (for your developer)
-
-Add these JSON‑LD scripts to your page's `<head>` to enable rich snippets:
-
-```html

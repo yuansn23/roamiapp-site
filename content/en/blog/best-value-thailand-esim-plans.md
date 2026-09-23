@@ -79,13 +79,13 @@ recentPosts:
     date: "2026-05-20"
 ---
 
-If you're searching for **where to buy a Thailand eSIM**, the channel you choose affects far more than price. A 30-day plan at Bangkok's airport can cost $32–$38, while similar data online often starts under $10. Your choice also determines queue time, passport registration, whether you get a Thai phone number, and how quickly you can get online after landing.
+If you're searching for **where to buy a Thailand eSIM**, the Thailand eSIM channel you choose affects far more than price. A 30-day plan at Bangkok's airport can cost $32–$38, while similar data online often starts under $10. Your choice also determines queue time, passport registration, whether you get a Thai phone number, and how quickly you can get online after landing.
 
 This guide is your complete buying solution. It covers every purchase channel — online platforms, Klook, KKday, Agoda, Trip.com, Amazon, Shopee, Lazada, airport counters, 7-Eleven, and operator stores — plus payment, refund, and support notes. If you need detailed price comparisons by data tier, see the **[cheapest Thailand eSIM plans](/blog/cheap-thailand-esim/)**. If you need to compare AIS vs True coverage, read the **[network comparison](/blog/thailand-esim-comparison/)**. If you've already bought and need to install it, go to the **[setup and activation guide](/blog/thailand-esim-guide/)**.
 
 **Core Summary: Best Places to Buy a Thailand eSIM**
-- **Cheapest overall:** International eSIM platforms (Airalo, Saily, Nomad, Ubigi, etc.) — data-only, no passport, from $1.99.
-- **Best with a Thai phone number:** Klook / KKday / Agoda / Trip.com — AIS/True plans from ~$5, passport required.
+- **Cheapest overall:** International eSIM platforms (Airalo, Saily, Nomad, Ubigi, etc.) — data-only Thailand eSIMs, no passport, from $1.99.
+- **Best with a Thai phone number:** Klook / KKday / Agoda / Trip.com — AIS/True Thailand eSIM plans from ~$5, passport required.
 - **Best emergency option:** Airport counters — instant, but 30–70% more expensive and long queues.
 - **Best local last-minute:** 7-Eleven / FamilyMart — cheap, everywhere, passport required.
 - **Best for long stays or support:** AIS / True / DTAC operator stores — professional service, widest plans.
@@ -122,7 +122,7 @@ The right channel depends on three things: whether you need a Thai phone number,
 Before you choose a channel, run through these five checks. They take two minutes and can save you a failed purchase.
 
 **1. Does your phone support eSIM?**
-Dial `*#06#`. If you see an **EID number**, your phone supports eSIM. China-market iPhones do **not** support eSIM. Carrier-locked phones cannot use another carrier's eSIM.
+Dial `*#06#` — an **EID number** on screen confirms eSIM support. Most older China-market iPhones lack eSIM, though Apple switched the feature on for the newest models in September 2026; the EID check, not the purchase country, is the deciding factor. For a full model list, see our [eSIM compatible devices page](/compatibility/). Carrier-locked phones cannot use another carrier's eSIM.
 
 **2. Do you need a Thai phone number?**
 A Thai number is required for some local apps like Grab, LINE, or Foodpanda, and for bank SMS. If you only need maps, messaging, and email, a data-only eSIM is cheaper and easier.
@@ -131,7 +131,7 @@ A Thai number is required for some local apps like Grab, LINE, or Foodpanda, and
 If you can buy before departure, online is always cheaper. If you're already at the airport, you'll pay a premium. If you're already in Thailand, 7-Eleven or an operator store may be your best bet.
 
 **4. How long will you stay?**
-Short trips (1–7 days) need less data. Long stays (30+ days) benefit from local prepaid plans or a larger international plan. See the **[30-day plan comparison](/blog/cheap-thailand-esim/)** for details.
+Short trips (1–7 days) need less data. Long stays (30+ days) benefit from local prepaid plans or a larger international plan — the 30-day tiers are compared on our price page.
 
 **5. How much data do you need?**
 Light use (maps, messaging) needs about 3GB/week. Moderate use (social media, some video) needs 5–10GB/week. Heavy use (streaming, video calls) needs 15GB+ per week. Choose data by need, not by the word "unlimited".
@@ -158,7 +158,7 @@ Use this decision tree to narrow down your choice in under a minute.
 **What's your budget?**
 - **Absolute lowest price** → International platform, data-only.
 - **Best value for 2+ weeks** → 10GB/30 days or 20GB/30 days from a budget platform.
-- **Thai number at low cost** → Klook / KKday / Agoda / Trip.com, AIS/True 7-day 15GB from ~$5.
+- **Thai number at low cost** → Klook / KKday / Agoda / Trip.com, AIS/True 7-day 15GB Thailand eSIM plans from ~$5.
 
 **Key takeaway:** The decision tree points most travellers to one of two choices: an international platform for data-only, or a third-party travel site for a Thai number.
 
@@ -197,7 +197,7 @@ Buying online before departure is the cheapest and most convenient channel. Inte
 
 If you want to skip passport registration and set everything up before you leave, international platforms are the most convenient choice.
 
-**Popular platforms:** Airalo, Nomad, Holafly, Saily, Ubigi, Travelsim Asia, eSIM-Now, Roamify, Airhub, HelloRoam, Roami
+**Popular platforms:** Airalo, Nomad, Holafly, Saily, Ubigi, Travelsim Asia, eSIM-Now, Roamify, Airhub, HelloRoam, Roami. Most of these sell through their own app or website — the difference between in-app purchase and email QR delivery is compared in our [best eSIM apps guide](/blog/best-esim-apps-how-to-buy-and-install-esim/).
 
 **Key advantages:**
 - **No passport registration** — buy and use immediately
@@ -212,7 +212,7 @@ If you want to skip passport registration and set everything up before you leave
 2. Select your Thailand data plan.
 3. Pay with credit card, PayPal, Apple Pay, or Google Pay.
 4. Receive the QR code by email within minutes.
-5. Screenshot the QR code and save it to your photos.
+5. Screenshot the QR code into your camera roll.
 6. Install before departure or after landing. (See the **[setup guide](/blog/thailand-esim-guide/)** for step-by-step instructions.)
 
 **Key takeaway:** International platforms are the best choice for data-only travellers who want the lowest price and no passport hassle.
@@ -223,11 +223,11 @@ If you want to skip passport registration and set everything up before you leave
 
 If you need a Thai phone number (to register for Grab, LINE, or other local apps), buy directly from AIS or True's official websites.
 
-**Official sites:** [AIS](https://www.ais.th/), [TrueMove H](https://www.true.th/)
+**Official sites for a local Thailand eSIM:** [AIS](https://www.ais.th/), [TrueMove H](https://www.true.th/)
 
 **Advantages:** includes a Thai phone number (calls and SMS work); widest range of official plans.
 
-**Downsides:** passport registration is mandatory (per Thailand's [NBTC rules](https://www.nbtc.go.th/)); often slightly more expensive than third-party platforms; registration takes extra time.
+**Downsides:** passport registration is mandatory (per Thailand's NBTC rules); often slightly more expensive than third-party platforms; registration takes extra time.
 
 **How to buy from an operator website:**
 1. Visit the AIS or True website.
@@ -243,7 +243,7 @@ If you need a Thai phone number (to register for Grab, LINE, or other local apps
 
 **In short:** Klook, KKday, Agoda, and Trip.com are the most popular third-party channels. They offer Thai numbers at lower prices than operator websites. Passport registration is still required.
 
-[Klook](https://www.klook.com/), [KKday](https://www.kkday.com/), [Agoda](https://www.agoda.com/), and [Trip.com](https://www.trip.com/) are the most popular third-party channels for Thailand eSIMs. Prices are usually cheaper than operator websites, and they **include a Thai phone number** (registration still required).
+[Klook](https://www.klook.com/), KKday, [Agoda](https://www.agoda.com/), and [Trip.com](https://www.trip.com/) are the most popular third-party channels for Thailand eSIMs. Prices are usually cheaper than operator websites, and they **include a Thai phone number** (registration still required).
 
 - **Klook** — AIS 5G eSIM plans, often 5GB–10GB. Best for travellers who already use Klook and want to bundle purchases.
 - **KKday** — AIS and TrueMove plans, often with free data upgrades. Best for TrueMove plans with free upgrades.
@@ -252,7 +252,7 @@ If you need a Thai phone number (to register for Grab, LINE, or other local apps
 
 **Money-saving tip:** Klook and KKday often have first-order promo codes and limited-time discounts — stacking them makes prices even lower.
 
-> **For a complete price comparison across data tiers**, see the **[Thailand eSIM price comparison](/blog/cheap-thailand-esim/)**.
+> **A complete price comparison across data tiers lives on our Thailand eSIM price page.**
 
 **Key takeaway:** If you need a Thai number and want the best price, start with Klook, KKday, Agoda, or Trip.com before checking operator websites.
 
@@ -364,9 +364,9 @@ Operator stores offer the most professional service and the widest plan selectio
 
 ## Buy Thailand eSIM from India, UK, Australia
 
-**In short:** You can buy a Thailand eSIM from India, the UK, Australia, or anywhere else. International platforms deliver the QR code by email, so you can buy from any country before departure. No passport needed for data-only plans.
+**In short:** You can buy a Thailand eSIM from India, the UK, Australia, or anywhere else. International platforms deliver the QR code by email, so you can buy from any country before departure — no passport needed for data-only plans.
 
-You can buy a Thailand eSIM from India, the UK, Australia, or anywhere else. International platforms deliver the QR code by email, so you can buy from any country before departure. No passport needed for data-only plans.
+You can buy a Thailand eSIM from India, the UK, Australia, or anywhere else. International platforms deliver the QR code by email, so you can buy from any country before departure. No passport needed for data-only plans. And if Australia is your destination rather than your departure point, our [Australia eSIM guide](/blog/buy-australia-esim-guide/) is built around Telstra's rural coverage.
 
 The process is the same regardless of country:
 
@@ -430,7 +430,7 @@ Before you buy from any channel, run this quick credibility check:
 | Traveller Type | Recommended Channel | Why |
 |----------------|---------------------|-----|
 | **First-time visitor** | International platform (Airalo, Saily, Nomad) | Cheapest, no passport, easy setup |
-| **Island-hopper** | AIS local eSIM or Airalo/Saily (AIS) | Best coverage on islands |
+| **Island-hopper** | AIS local eSIM or Saily (AIS-based) — note Airalo runs on TrueMove H | Best coverage on islands |
 | **City-only traveller** | Nomad or True Corp local | Dense 5G, lower price |
 | **Family** | Roami or Ubigi dual-network with hotspot | Share data, keep everyone connected |
 | **Digital nomad (30+ days)** | eSIM-Now 20GB/30 days or local AIS/True | Best long-stay value |
@@ -464,9 +464,9 @@ Before you buy from any channel, run this quick credibility check:
 
 **In short:** Most mistakes come from skipping compatibility checks, buying data-only then needing a Thai number, activating AIS too early, or choosing a seller with unclear terms.
 
-**1. Buying without checking eSIM compatibility.** Dial `*#06#` first. China-market iPhones and carrier-locked phones won't work.
+**1. Buying without checking eSIM compatibility.** Dial `*#06#` first. Older China-market iPhones and carrier-locked phones won't work (the newest China-market models now support eSIM — verify with the EID check).
 
-**2. Assuming all international platforms are the same.** Airalo and Saily use AIS; Nomad and Holafly use True Corp. Choose by network, not just brand.
+**2. Assuming all international platforms are the same.** Airalo runs on TrueMove H, Saily uses AIS, and Nomad and Holafly use True Corp. Choose by network, not just brand — and before paying an 'unlimited' premium, see what the fine print allows in our [Holafly eSIM review](/blog/holafly-esim-review-prices-coverage/).
 
 **3. Buying data-only and then needing a Thai number.** Data-only plans cannot be converted. Buy a local operator plan if you need Grab or LINE registration.
 
@@ -615,11 +615,11 @@ Where you bought your eSIM determines who you contact and whether you can get a 
 
 **4. Pick data by need, not "unlimited".** 3–4 days → 3GB; one week → 5–10GB; two weeks+ → 15GB+.
 
-**5. Compare before checkout.** The same AIS 7-day 15GB plan can cost twice as much on different platforms. See the **[cheap Thailand eSIM page](/blog/cheap-thailand-esim/)** for exact prices.
+**5. Compare before checkout.** The same AIS 7-day 15GB plan can cost twice as much on different platforms. Exact prices are on our cheap Thailand eSIM page.
 
 **Pitfalls to avoid:**
 - **Don't buy a physical SIM at the airport** — just as expensive as eSIM, plus ejector tool and card-loss risk.
-- **Don't skip the compatibility check** — China-market iPhones don't support eSIM. Dial `*#06#` first.
+- **Don't skip the compatibility check** — many China-market iPhones lack eSIM support (check your model). Dial `*#06#` first.
 - **Don't activate an AIS eSIM too early** — registration must be done within 24 hours before departure.
 - **Don't delete a failed AIS eSIM** — operators usually won't reissue it; retry after landing.
 - **Don't forget Data Roaming** — the most common activation mistake.
@@ -631,7 +631,7 @@ Where you bought your eSIM determines who you contact and whether you can get a 
 ## Thailand eSIM Buying FAQ
 
 **Q1: Do I need to register with my passport for a Thailand eSIM?**
-It depends. Thai local operators (AIS/True/DTAC) require passport registration as mandated by the NBTC. International platforms (Airalo, Saily, Nomad, etc.) do not.
+It depends. Thai local operators (AIS/True/DTAC) require passport registration for a Thailand eSIM as mandated by the NBTC. International platforms (Airalo, Saily, Nomad, etc.) do not.
 
 **Q2: Can I buy a Thailand eSIM before I fly, or only after I arrive?**
 You can buy online before you fly — international platforms and third-party sites email the QR code instantly, and you install it before or after landing. In-person channels (airport counters, 7-Eleven, operator stores) are only available after you arrive.
@@ -643,7 +643,7 @@ If you're already in Thailand, try 7-Eleven, operator stores in malls, or search
 Yes — through international platforms like Airalo, Nomad, or Saily, all available worldwide with QR delivery by email. No passport needed for data-only plans.
 
 **Q5: What's the Thailand airport eSIM price?**
-At BKK and DMK, 8-day plans cost about $13–$14, while 30-day plans run $32–$38. Online prices for similar data are far cheaper — see the [price comparison](/blog/cheap-thailand-esim/).
+At BKK and DMK, 8-day plans cost about $13–$14, while 30-day plans run $32–$38. Online prices for similar data are far cheaper — the price page lists exact figures.
 
 **Q6: Can I buy a Thailand eSIM on Amazon?**
 Amazon has some listings, but they're often resold by third parties and may be physical SIMs with unclear activation terms. For most travellers, buying directly from an eSIM platform is faster, cheaper, and safer.
@@ -652,13 +652,13 @@ Amazon has some listings, but they're often resold by third parties and may be p
 They can be, if you're already in Thailand with a local payment method. But listings are often in Thai, support may be limited, and some sellers require passport registration. International travellers usually prefer direct eSIM platforms.
 
 **Q8: What's the cheapest place to buy a Thailand eSIM?**
-Online before departure. International platforms start at $1.99 for 1GB/7 days; third-party platforms like Trip.com and Agoda offer AIS/True plans with Thai numbers from about $4.50. See the [cheapest plans page](/blog/cheap-thailand-esim/).
+Online before departure. International platforms start at $1.99 for 1GB/7 days; third-party platforms like Trip.com and Agoda offer AIS/True Thailand eSIM plans with Thai numbers from about $4.50. See the [cheapest plans page](/blog/cheap-thailand-esim/).
 
 **Q9: Can I get a refund if my eSIM doesn't work?**
 It depends. International platforms like Airalo offer refunds for unused eSIMs within ~30 days. Klook and KKday have clear cancellation terms. Thai operators rarely refund once activated. Always check before buying.
 
 **Q10: Which channel is best for long stays (30+ days)?**
-Usually an international platform's 20GB/30-day plan (about $15), or a local AIS/True 30-day unlimited plan if you need a Thai number. If you're already in Thailand, 7-Eleven sometimes sells a 30-day 30GB plan for about $6.
+Usually an international platform's 20GB/30-day plan (about $15), or a local AIS/True 30-day unlimited Thailand eSIM plan if you need a Thai number. If you're already in Thailand, 7-Eleven sometimes sells a 30-day 30GB plan for about $6.
 
 **Q11: What is the safest way to buy a Thailand eSIM?**
 Buy online from a reputable international platform or a well-known third-party travel site. Screenshot the QR code, install before departure, and activate only after landing. Avoid unfamiliar resellers on Amazon, Shopee, or Lazada.
@@ -681,7 +681,7 @@ Yes — most international platforms and third-party travel sites accept credit 
 | **Long stay + technical support** | Operator store |
 | **Absolute best price** | Trip.com / Agoda / international platforms |
 
-> **Bottom line:** buy online before departure — from Klook, KKday, Agoda, Trip.com, or an international platform. It's the cheapest, zero queue, and ready the moment you land. For the lowest prices by data tier, see the **[price comparison](/blog/cheap-thailand-esim/)**.
+> **Bottom line:** buy your Thailand eSIM online before departure — from Klook, KKday, Agoda, Trip.com, or an international platform. It's the cheapest, zero queue, and ready the moment you land. For the lowest prices by data tier, see the **[price comparison](/blog/cheap-thailand-esim/)**.
 
 **Final key takeaway:** The best buying decision is the one that matches your need for a Thai number, your arrival timing, and your budget. For most travellers, that means buying online before departure from a reputable platform.
 

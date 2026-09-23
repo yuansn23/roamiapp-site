@@ -2,8 +2,8 @@
 title: "USA and Canada eSIM: Best Cross-Border Plans Compared"
 description: "Roami USA and Canada eSIM: best cross-border plans, network switching, and coverage. Dual-SIM setup and how to avoid roaming fees."
 keywords: ["USA Canada eSIM", "US Canada cross border eSIM", "North America eSIM plan", "USA Canada eSIM network switching", "USA Canada eSIM dual SIM"]
-date: 2026-09-09T00:00:00Z
-lastmod: 2026-09-09T00:00:00Z
+date: 2026-09-19T00:00:00Z
+lastmod: 2026-09-19T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/canada/usa-canada-esim-guide.jpg"
@@ -88,7 +88,7 @@ If you stay only in one country, a single-country eSIM is often cheaper.
 | Short cross-border trip, lowest price | **Lumbus** | From $1.99 / 500MB / 1 day |
 | Truly unlimited data, no FUP | **BLIVALE** | Unlimited US + Canada |
 | Best overall North America | **Nomad** | Multi-network, good value |
-| Cheapest unlimited US + Canada | **Ubigi** | $29 / 7 days unlimited |
+| Cheapest unlimited US + Canada | **Ubigi** | $25 / 7 days unlimited |
 | Need a local number | **SimCorner** (some plans) or **Saily** (US +1) | Receive verification codes |
 | US-Canada-Mexico three-country | **OVOSIM** | One card covers all three |
 | Privacy + security | **Saily** | NordVPN team |
@@ -101,7 +101,7 @@ If you stay only in one country, a single-country eSIM is often cheaper.
 - Cross-border eSIMs usually cost far less than international roaming.
 - Most regional eSIMs are data-only. If you need a phone number, see our [numbered Canada eSIM guide](/blog/canada-esim-with-phone-number-guide/).
 
-**Want to test coverage before your trip?** Try a [free eSIM trial](/free-esim/) or a [Roami Canada eSIM plan](/canada-esim/) from **$1.99** to check signal on both sides of the border. New users get **20% off** with code `web20`, plus Roami's **24/7 human support**.
+**Want to test coverage before your trip?** Try a [free eSIM trial](/free-esim/) or a [Roami Canada eSIM plan](/canada-esim/) from **$1.99** to check signal on both sides of the border. Enter `web20` at checkout for **20% off** your first plan — Roami's support desk answers around the clock.
 
 **A note on our data sources:** This guide combines publicly available provider information, border crossing reports from travelers on Reddit and Trustpilot, and official [CRTC](https://crtc.gc.ca/eng/phone/mobile/) and [FCC](https://www.fcc.gov/) documentation. We clearly label where information comes from. We do not present our own speed tests or switching times because we cannot verify them to a scientific standard.
 
@@ -125,6 +125,7 @@ Cross-border travel between the US and Canada is far more frequent than most peo
 
 - **Classic East Coast route:** New York → Toronto → Montreal, or New York → Niagara Falls (both sides) → Toronto. Driving from New York to Toronto takes about 8 hours.
 - **West Coast short route:** Seattle → Vancouver, only about 230 km apart, a 3-hour drive. Same-day round trips are common.
+- **Alaska routing:** driving the Alaska Highway or sailing an Inside Passage cruise means long stretches inside Canada; a US-Canada plan keeps you connected on those segments, while a US-only plan goes dark the moment you cross into Yukon or British Columbia.
 - **Cross-border self-driving:** Detroit to Windsor takes only about 10 minutes by car. Buffalo to Niagara Falls is even shorter.
 - **Business travel:** Round trips within a week—meetings in New York, trade shows in Toronto, client visits in Vancouver.
 - **Major events:** Sporting events, concerts, and conferences regularly pull travelers across the border.
@@ -164,12 +165,14 @@ Regional eSIMs are technically identical to single-country eSIMs—both install 
 | T-Mobile prepaid pass | $25/7 days | $50/30 days | Carrier-backed |
 | Local SIM (US + Canada separately) | $80–$120 | $120–$180 | Local reliability |
 | **Regional eSIM (Lumbus)** | **$10.99** | **$16.99** | **Low cost** |
-| **Regional eSIM (Nomad)** | **$14–18** | **$25** | **Good coverage** |
-| **Regional eSIM (Ubigi unlimited)** | **$29** | **$45** | **Unlimited data** |
+| **Regional eSIM (Nomad)** | **$13–17** | **$17** | **Good coverage** |
+| **Regional eSIM (Ubigi unlimited)** | **$25** | **$39** | **Unlimited data** |
 
 **The savings can be significant.** For a family of four, using a regional eSIM instead of carrier roaming could save hundreds of dollars. To start small, Roami's [Canada eSIM plans](/canada-esim/) begin at **$1.99** with a **20% new-user discount** — useful for a quick border-crossing test.
 
 **New carrier options for 2026:** AT&T launched "eSIM by AT&T" in May 2026, offering 1-day, 7-day, 15-day, and 30-day passes with unlimited data, 5GB hotspot, and upcoming unlimited talk/text. T-Mobile's prepaid day passes start at $25 for seven days and $50 for 30 days. These carrier options are convenient but usually cost 3–5× more than travel eSIM providers for the same coverage.
+
+**Before you buy anything, check your existing plan.** Many US postpaid plans — T-Mobile Go5G and above, AT&T Unlimited Ultimate, Verizon Unlimited Plus — already include roaming in Canada at no extra charge. If that is you, buying a travel eSIM for Canada means paying twice. Confirm your plan's Canadian terms and data speeds in the carrier app before spending anything; a five-minute check can save the entire cost of this guide's cheapest option.
 
 ### When a Single-Country eSIM Is Cheaper
 
@@ -344,7 +347,7 @@ If your connection does not resume after 5 minutes:
 | Value security and privacy | **Saily** | — | NordVPN team |
 | Best overall North America | **Nomad** | Airalo | Good border and road trip performance |
 | US-focused, occasional Canada trips | **Airalo** | Nomad | Flexible plans, excellent app |
-| Cheapest unlimited for US-Canada | **Ubigi** | — | $29/7 days unlimited |
+| Cheapest unlimited for US-Canada | **Ubigi** | — | $25/7 days unlimited |
 | Slow travel / long stays | **Saily** | — | Long validity |
 | Carrier-backed convenience | **AT&T eSIM** | T-Mobile Pass | Turbo Live, calls/SMS |
 
@@ -382,11 +385,11 @@ If your connection does not resume after 5 minutes:
 | Light (navigation, messaging, email) | **Lumbus** 1GB/$3.99/7 days | $4–$10 |
 | Medium (social, photos, browsing) | **Nomad** or **Airalo** 5GB | $10–$25 |
 | Heavy (video calls, streaming, remote work) | **BLIVALE** unlimited or **SimCorner** unlimited | $30–$60+ |
-| Unlimited + cheapest | **Ubigi** $29/7 days unlimited | $29–$59 |
+| Unlimited + cheapest | **Ubigi** $25/7 days unlimited | $25–$65 |
 
 ### Device Compatibility Check for US-Canada eSIM
 
-Before buying, confirm your phone supports eSIM and is unlocked. Fastest check: dial **`*#06#`** and look for EID. For full device list, see our [eSIM-compatible phones in Canada guide](/blog/esim-compatible-phones-canada-guide/).
+Before buying, confirm your phone supports eSIM and is unlocked. Fastest check: dial **`*#06#`** and look for EID. For the full device list, see our [device compatibility checker](/compatibility/).
 
 ## US-Canada eSIM Setup Guide
 
@@ -446,7 +449,7 @@ For full installation and activation steps, see our [eSIM installation walkthrou
 **Fix:**
 - Verify plan coverage in provider app
 - Check APN settings in provider email
-- Contact provider support with your order number and ICCID
+- Raise a ticket with your order number and the profile's ICCID so support can check provisioning on their end
 
 ### Slow Data After Border Crossing
 
@@ -463,10 +466,9 @@ For full installation and activation steps, see our [eSIM installation walkthrou
 ### Cross-Border eSIM QR Code Won't Scan
 
 **Fix:**
-- Use manual activation code instead
-- Check if QR expired
-- Increase screen brightness or print the QR
-- Request new QR from provider support
+- Install with the manual activation code from your confirmation email
+- Border-area installs often time out — request a fresh QR before you travel
+- Scan against a second screen (laptop, tablet) if the phone camera struggles
 
 ### When to Contact Cross-Border eSIM Support
 
@@ -573,7 +575,7 @@ For US-Canada cross-border travel, the logic is simple: **if your itinerary cros
 |----------------|-------------|
 | Limited budget, short cross-border trip | **Lumbus** (from $1.99) |
 | Need truly unlimited data | **BLIVALE** |
-| Cheapest unlimited US-Canada | **Ubigi** ($29/7 days) |
+| Cheapest unlimited US-Canada | **Ubigi** ($25/7 days) |
 | US-Canada-Mexico three-country travel | **OVOSIM** or **Nomad** |
 | Need a local number | **SimCorner** (some plans) or **Saily** (US number) |
 | Value privacy and security | **Saily** |
@@ -601,7 +603,7 @@ For US-Canada cross-border travel, the logic is simple: **if your itinerary cros
 - ✅ Screenshot border documents (passport, vehicle registration)
 - ✅ Share itinerary with someone
 
-**One quick check first:** if your itinerary never crosses the border, a single-country plan is cheaper. Otherwise, start with a [free eSIM trial](/free-esim/) or a [Roami Canada eSIM](/canada-esim/) from **$1.99**. New users get **20% off** with code `web20`, plus Roami's **24/7 human support**.
+**One quick check first:** if your itinerary never crosses the border, a single-country plan is cheaper. If it does, buy regional — one install beats juggling two profiles at the border.
 
 **Prices checked September 2026.** Cross-border regional plans shift price often — confirm before you buy.
 

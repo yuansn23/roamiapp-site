@@ -2,8 +2,8 @@
 title: "Fix Common UK eSIM Problems: Troubleshooting Guide"
 description: "UK eSIM not working? Fix no signal, activation errors, APN issues. Roami auto-switches all four UK networks. Troubleshoot now."
 keywords: ["UK eSIM not working after arrival","UK eSIM no signal troubleshooting","UK eSIM slow data speed fix","UK eSIM activation failed error","UK eSIM APN settings not working","UK eSIM stuck on activating","UK eSIM data roaming not working","UK eSIM emergency calls only problem"]
-date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+date: 2026-09-15T00:00:00Z
+lastmod: 2026-09-15T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/uk/uk-esim-troubleshooting.jpg"
@@ -67,11 +67,11 @@ recentPosts:
 ---
 ## Your UK eSIM Isn't Working — Let's Fix It
 
-> **Key takeaways:** Over 50% of UK eSIM problems are caused by data roaming being switched off, so turn on Data Roaming for your UK eSIM line before anything else. Most other issues resolve within minutes through manual network selection, APN configuration, a phone restart, or toggling aeroplane mode. The five-step recovery plan is: turn on data roaming, try manual network selection (pick EE, Vodafone, O2, or Three), restart your phone, check APN settings, and toggle aeroplane mode. The longest fixes involve carrier-locked phones, which require a call to the home carrier for an unlock — typically 30-40 minutes.
+> **Key takeaways:** Most UK eSIM problems are caused by data roaming being switched off, so turn on Data Roaming for your UK eSIM line before anything else. Most other issues resolve within minutes through manual network selection, APN configuration, a phone restart, or toggling aeroplane mode. The five-step recovery plan is: turn on data roaming, try manual network selection (pick EE, Vodafone, O2, or Three), restart your phone, check APN settings, and toggle aeroplane mode. The longest fixes involve carrier-locked phones, which require a call to the home carrier for an unlock — that process moves at your carrier's pace.
 
-Most common UK eSIM problems can be resolved quickly without contacting customer support. Whether you're using a data eSIM for the UK on a short city break or a full-service plan for an extended trip, the troubleshooting steps are the same. Over 50% of issues are caused by data roaming being switched off, and most other problems resolve within minutes through manual network selection, APN configuration, a phone restart, or toggling aeroplane mode.
+Most common UK eSIM problems can be resolved quickly without contacting customer support. Whether you're using a data eSIM for the UK on a short city break or a full-service plan for an extended trip, the troubleshooting steps are the same. Most issues are caused by data roaming being switched off, and the rest usually resolve within minutes through manual network selection, APN configuration, a phone restart, or toggling aeroplane mode.
 
-Most common eSIM troubleshooting fixes take under 5 minutes. The longest fixes involve carrier-locked phones (requiring a call to the home carrier for an unlock — typically 30-40 minutes). The shortest is toggling data roaming — 10 seconds or less. You'll fix most problems faster than it takes to read this guide.
+Most common eSIM troubleshooting fixes take under 5 minutes. The longest involve carrier-locked phones, where the fix depends on your home carrier's unlock process. The shortest is toggling data roaming — 10 seconds or less. You'll fix most problems faster than it takes to read this guide.
 
 If you're experiencing **UK eSIM not working after arrival**, the first thing to check is data roaming — it's the single most common cause.
 
@@ -99,7 +99,7 @@ It's worth repeating. Check data roaming is ON for your UK eSIM. Not for your ho
 **Step 2: The Network Selection Check**
 Your phone might be clinging to a network it knows (your home carrier's roaming partner) rather than connecting to a UK network directly.
 
-**On iPhone:** Settings > Mobile Data > Network Selection. Turn off Automatic, wait a few seconds, then select a UK network manually. Try EE, Vodafone, O2, or Three. One of them will work. Once you've got a connection, you can turn Automatic back on.
+**On iPhone:** Settings > Mobile Data > Network Selection. Turn off Automatic, wait a few seconds, then select a UK network manually. Try EE, Vodafone, O2, or Three — one of the networks your plan supports should register. Once you've got a connection, you can turn Automatic back on.
 
 **On Android:** Settings > Connections > Mobile Networks > Network Operators. Search networks, then pick one manually.
 
@@ -122,29 +122,29 @@ An activation failure usually happens during the setup process, when your phone 
 
 A **UK eSIM activation failed error** typically means the profile download was interrupted, the QR code expired, or the device lost internet connectivity during setup.
 
-**The QR Code Expired**
+### The QR Code Expired
 Most eSIM QR codes have an expiry window. If you bought your profile months ago and are only now trying to activate it, the QR code may have expired. Check your purchase email for the expiry date.
 
 If it has expired, contact your provider. Most will reissue a new QR code if you explain the situation.
 
-**The QR Code Was Already Used**
+### The QR Code Was Already Used
 eSIM QR codes are single-use. If you scanned it on one device, you can't use it on another. If you accidentally scanned it on an old phone, or if you're trying to set it up on both a phone and an iPad, you'll need a separate eSIM for each device.
 
 Some providers (including Roami) offer QR codes that can be reused within a certain timeframe, but this is the exception rather than the rule.
 
-**Weak or No Internet Connection During Setup**
+### Weak or No Internet Connection During Setup
 To download an eSIM profile, your phone needs an internet connection. If you're trying to activate while on a weak airport Wi-Fi or spotty cellular connection, the download may fail.
 
 **Fix:** Connect to a stable Wi-Fi network before scanning the QR code. Alternatively, use your home SIM's data to download the profile, then switch to the eSIM once it's installed.
 
-**Device Incompatibility**
+### Device Incompatibility
 Not all phones support eSIM. Even phones that do support eSIM may not support eSIM from all providers. Check that:
 
 - Your phone is carrier-unlocked (more on this below)
 - Your phone model supports eSIM (iPhone XS and later, Google Pixel 3 and later, Samsung Galaxy S20 and later, most 2020+ flagships)
 - Your specific phone variant supports eSIM (some Chinese and US models have different support)
 
-**The Fix: Manual Installation**
+### The Fix: Manual Installation
 If QR scanning keeps failing, try manual installation. Your provider should have given you an SM-DP+ address and an activation code alongside the QR code.
 
 **On iPhone:** Settings > Mobile Data > Add eSIM > Enter Details Manually. Input the SM-DP+ address and activation code.
@@ -171,23 +171,23 @@ If your phone is carrier-locked (SIM-locked) to a non-UK carrier, a UK eSIM won'
 
 **How to check:** Go to Settings > General > About > Carrier Lock. If it says "SIM Locked" or similar, your phone is locked. You'll need to contact your original carrier to unlock it before the eSIM will work.
 
-This is usually only an issue with phones bought on contract in certain countries (US, Canada, Japan). Most UK and European phones are sold unlocked.
+This is usually only an issue with phones bought on contract in certain countries (US, Canada, Japan). Most UK and European phones are sold unlocked. If you need your hardware identifiers for a support ticket, dial *#06# to display both your IMEI and your eSIM EID.
 
-For more on this, read the [UK eSIM setup guide](/blog/uk-esim-setup-guide/) which covers device compatibility in detail.
+For more on this, check the [device compatibility hub](/compatibility/), which lists supported models by brand, or read the [UK eSIM install walkthrough](/blog/uk-esim-setup-guide/) for the install steps.
 
-**The iOS Carrier Settings Update**
+### The iOS Carrier Settings Update
 Sometimes iPhones need a carrier settings update to work properly with a new network. If you've just installed an eSIM, go to Settings > General > About and wait a few seconds. If a carrier update is available, a popup will appear asking you to update. Tap Update.
 
-**Check Your APN Settings**
+### Check Your APN Settings
 Some eSIMs require manual APN configuration. This is especially common with data-only plans from smaller providers. Go to Settings > Mobile Data > Mobile Data Network and check if the APN field is populated.
 
-If it's blank, you'll need to enter the correct APN details from your provider. A full APN table is below below in the [APN section](#uk-esim-apn-settings-not-working-manual-configuration).
+If it's blank, you'll need to enter the correct APN details from your provider. A full APN table is available in the [UK eSIM setup guide's APN section](/blog/uk-esim-setup-guide/).
 
 ## UK eSIM Stuck on Activating — How to Fix It
 
 An eSIM that's stuck in an "Activating..." state for hours is a specific kind of pain. Here's why it happens and how to fix it.
 
-**Why It Gets Stuck**
+### Why It Gets Stuck
 
 The "Activating" state means your phone has downloaded the profile but is waiting for network registration to complete. This usually resolves within a few minutes, but sometimes it hangs because:
 
@@ -195,16 +195,16 @@ The "Activating" state means your phone has downloaded the profile but is waitin
 2. **The profile is slightly corrupted** — the download completed but with errors
 3. **There's a network registration conflict** — another SIM in your phone is interfering
 
-**Fixes to Try**
+### Fixes to Try
 1. **Wait 15 minutes in a location with good signal** — sometimes the network just needs time
 2. **Toggle aeroplane mode** — forces a re-registration attempt
 3. **Restart your phone** — clears the stuck state and starts again
 4. **Delete and reinstall** — if nothing else works, remove the profile and add it again (instructions below)
 
 **Is It Really Stuck?**
-Some eSIMs take surprisingly long to activate fully. Roami's eSIMs can take up to 10 minutes on the first connection, especially during peak arrival times at major airports. giffgaff eSIMs can take hours to fully activate because they run manual ID checks.
+Some eSIMs take surprisingly long to activate fully. Roami's eSIMs can take up to 10 minutes on the first connection, especially during peak arrival times at major airports. giffgaff eSIMs can take longer, occasionally hours, when their activation process includes a manual review step.
 
-Activation times vary significantly by location and time of day. At peak arrival times (Friday afternoons at Heathrow, for example), network congestion can push activation to 10 minutes or more. At quieter airports outside peak hours, the same eSIM activates in 3-4 minutes. Time of day and airport congestion genuinely matter.
+Activation times vary significantly by location and time of day. At peak arrival times (Friday afternoons at Heathrow, for example), network congestion can stretch activation well beyond a few minutes. At quieter times, the same eSIM activates much faster. Time of day and airport congestion genuinely matter.
 
 If you've been waiting more than 30 minutes and nothing has changed, that's stuck. Try the fixes above.
 
@@ -212,7 +212,7 @@ If you've been waiting more than 30 minutes and nothing has changed, that's stuc
 
 QR code issues are incredibly common, and they're almost never your phone's fault. Here's the troubleshooting sequence.
 
-**The Simple Fixes First**
+### The Simple Fixes First
 
 **Clean your screen.** If you're scanning from another phone or a printed piece of paper, smudges can interfere with the scan.
 
@@ -222,16 +222,16 @@ QR code issues are incredibly common, and they're almost never your phone's faul
 
 **Hold the camera steady.** Obvious but worth saying.
 
-**The Not-So-Obvious Issues**
+### The Not-So-Obvious Issues
 
 **The QR code is too small.** If the QR code on your screen is tiny, zoom in on it before scanning. Your phone's camera needs to see enough of the QR code to decode it.
 
 **The QR code is in a dark area of the image.** Some eSIM emails place the QR code in a dark-coloured box or against a busy background. If your phone can't read the code, try taking a screenshot of just the QR code and zooming in.
 
-**The Workaround: Manual Entry**
+### The Workaround: Manual Entry
 As mentioned above, every eSIM with a QR code should also have an SM-DP+ address and activation code. Use manual entry instead of scanning. This bypasses the camera entirely and usually works when scanning fails.
 
-**The Nuclear Option: Different Device**
+### The Nuclear Option: Different Device
 If you absolutely cannot get the QR code to scan, borrow another phone. Install the eSIM on that device, then use the eSIM transfer feature (available on iPhone with iOS 18 and Samsung with One UI 6) to move it to your phone.
 
 This isn't a guarantee, though. eSIM transfer between different brands (iPhone to Samsung, for example) can fail multiple times before succeeding. Cross-platform eSIM transfer is still in its awkward teenage phase.
@@ -240,10 +240,10 @@ This isn't a guarantee, though. eSIM transfer between different brands (iPhone t
 
 This situation is different from "No Service." You've got signal bars, but data isn't flowing. This is almost always an APN or data roaming issue.
 
-**Data Roaming Confirmation**
+### Data Roaming Confirmation
 This is worth repeating because it's that important. Check data roaming is ON for your UK eSIM specifically. Not your primary line. The eSIM.
 
-**APN Configuration**
+### APN Configuration
 
 The Access Point Name (APN) tells your phone how to connect to the data network. If it's wrong or missing, you'll have signal but no data.
 
@@ -251,14 +251,14 @@ The Access Point Name (APN) tells your phone how to connect to the data network.
 
 **How to check on Android:** Settings > Connections > Mobile Networks > Access Point Names.
 
-**UK APN Settings Reference Table**
-Here are the manual APN settings for the major UK networks. These work for 90% of eSIMs that use UK networks.
+### UK APN Settings Reference Table
+Here are the manual APN settings for the major UK networks. These cover the vast majority of eSIMs that use UK networks.
 
 | Network | APN | Username | Password |
 |---|---|---|---|
 | **EE** | everywhere | (leave blank) | (leave blank) |
-| **Vodafone** | wap.vodafone.co.uk | wap | wap |
-| **O2** | mobile.o2.co.uk | o2web | o2web |
+| **Vodafone** | internet | web | web |
+| **O2** | mobile.o2.co.uk | (leave blank) | (leave blank) |
 | **Three** | three.co.uk | (leave blank) | (leave blank) |
 | **giffgaff (O2)** | giffgaff.com | giffgaff | password |
 | **Lebara (Vodafone)** | lebara.uk | (leave blank) | (leave blank) |
@@ -268,7 +268,7 @@ Here are the manual APN settings for the major UK networks. These work for 90% o
 
 For eSIMs with auto carrier switching like Roami, the APN is usually provided automatically, but some eSIMs require you to enter a specific APN. Check your provider's setup instructions carefully.
 
-**Still Not Working? Try These**
+### Still Not Working? Try These
 1. **Toggle data roaming OFF and ON again** — this forces a fresh data session
 2. **Switch between 4G and 5G** — Settings > Mobile Data > Voice & Data. Try limiting to 4G only; some eSIMs work more reliably on 4G
 3. **Reset network settings** — Settings > General > Transfer or Reset iPhone > Reset > Reset Network Settings (this will forget Wi-Fi passwords)
@@ -284,20 +284,20 @@ So you're connected, but everything feels sluggish. Web pages take forever to lo
 
 **You're on the wrong network.** Different networks perform differently in different locations. EE is fastest in cities, but O2 might be better in rural Wales. If your profile is locked to one network, you're stuck with whatever that network's performance is in your location.
 
-**Your plan is throttled.** Many "unlimited" plans have fair usage policies that kick in after a certain data threshold. Check your plan details.
+**Your plan is throttled.** Many "unlimited" plans have fair usage policies that kick in after a certain data threshold — our [UK eSIM unlimited data guide](/blog/uk-esim-unlimited-data-guide/) lists the real daily caps by provider. Check your plan details.
 
 **You're on 4G when 5G is available.** 5G provides significantly faster speeds in most UK cities. Make sure 5G is enabled in your settings.
 
 **VPN interference.** If you're running a VPN, your speeds will be limited by the VPN server's capacity. Try disabling it temporarily to see if speeds improve.
 
-**How Roami Handles Speed**
-Roami's auto carrier switching is specifically designed to address the network congestion problem. Instead of being locked to one network, Roami automatically switches between EE, Vodafone, O2, and Three to find the fastest available connection at your location. If EE is congested in your area, you'd automatically switch to Three or Vodafone without any manual intervention.
+### How Roami Handles Speed
+Roami's auto carrier switching is specifically designed to address the network congestion problem. Instead of being locked to one network, Roami automatically switches between EE, Vodafone, and O2 to find the fastest available connection at your location. If EE is congested in your area, you'd automatically switch to Vodafone or O2 without any manual intervention.
 
-But auto-switching has a warm-up period. When a multi-network eSIM first connects at your arrival airport, it takes 30-60 seconds to test all available networks and pick the fastest one. During that window, you might be on a suboptimal network. Give it a minute before you start troubleshooting. The initial network selected at connection is the best available only about 40% of the time — after 60 seconds of switching, the optimal network is selected over 90% of the time.
+But auto-switching has a warm-up period. When a multi-network eSIM first connects at your arrival airport, it takes 30-60 seconds to test all available networks and pick the fastest one. During that window, you might be on a suboptimal network. Give it a minute before you start troubleshooting — the system is still testing networks and hasn't yet settled on the strongest available option.
 
 This is particularly valuable if you're moving around the UK — network performance varies dramatically between cities and even between neighbourhoods. A single-network plan can't adapt; Roami's can.
 
-**Speed Fix Steps**
+### Speed Fix Steps
 1. **Run a speed test** — [speedtest.net](https://www.speedtest.net/) or the Ookla app. Note your speeds.
 2. **Check your network** — which network are you connected to? Go to Settings > Mobile Data and look at the carrier name.
 3. **Try manual network selection** — if your plan supports it, pick a different network and test again.
@@ -305,14 +305,14 @@ This is particularly valuable if you're moving around the UK — network perform
 5. **Check for data caps** — log into your provider's account portal and check your remaining data.
 6. **Try at different times of day** — if it's fast at 6am but slow at 6pm, it's congestion.
 
-**When Slow Speeds Are a Coverage Issue**
+### When Slow Speeds Are a Coverage Issue
 If you're in a rural area, the Scottish Highlands, the Lake District, or similar, slow speeds might simply reflect limited infrastructure. The [UK eSIM coverage overview](/blog/uk-esim-coverage-guide/) has detailed information on what to expect in different parts of the country.
 
 ## UK eSIM APN Settings Not Working — Manual Configuration
 
 You've entered the APN exactly as specified, but data still isn't flowing. Let's troubleshoot.
 
-**Common APN Mistakes**
+### Common APN Mistakes
 
 **Typo in the APN field.** Double-check every character. APN values are case-sensitive and punctuation-sensitive. "mobile.o2.co.uk" is not the same as "mobile.o2.uk" or "mobile.o2.co.uk " (with a trailing space).
 
@@ -322,7 +322,7 @@ You've entered the APN exactly as specified, but data still isn't flowing. Let's
 
 **iPhone APN field is locked.** On some iPhones, the APN field is greyed out if certain carrier profiles are installed. If this happens, you may need to remove the eSIM and add it again, or contact your provider for a carrier profile that includes the APN automatically.
 
-**The Complete APN Reset**
+### The Complete APN Reset
 If APN issues persist:
 
 1. Go to your profile settings and note down any existing APN values
@@ -332,21 +332,21 @@ If APN issues persist:
 5. Toggle data roaming OFF and ON
 6. Test data
 
-**Using APN from Your Provider's App**
+### Using APN from Your Provider's App
 Some providers offer a configuration app that sets up APN automatically. For Roami users, the setup process includes step-by-step instructions with the correct APN for your specific plan. If you're having APN trouble, check your provider's app or setup portal first — they may have an automatic configuration option.
 
 ## UK eSIM Dual SIM Conflict — Fixing Conflicts Between Home and UK Lines
 
 Running two SIMs simultaneously is one of the best features of modern phones, but it can cause specific problems. Here's how to diagnose and fix dual SIM conflicts.
 
-**What a UK eSIM Dual SIM Conflict Looks Like**
+### What a UK eSIM Dual SIM Conflict Looks Like
 - One SIM has data but the other doesn't
 - Calls go to the wrong line
 - SMS messages aren't received on the expected line
 - One SIM shows "No Service" while the other works fine
 - Battery drains unusually fast
 
-**Common Conflicts and Fixes**
+### Common Conflicts and Fixes
 
 **SIM for Default Voice Line.** If you have two active SIMs, calls and SMS may default to the wrong one. Check Settings > Mobile Data > Default Voice Line and set it to the SIM you want for calls and SMS.
 
@@ -356,7 +356,7 @@ Running two SIMs simultaneously is one of the best features of modern phones, bu
 
 **WhatsApp Re-registration.** If you switch the data SIM in your phone, WhatsApp may try to re-register. It shouldn't affect functionality, but you may get a verification prompt.
 
-**The Proper Dual SIM Setup**
+### The Proper Dual SIM Setup
 A complete guide is available guide to this, but here's the quick version for avoiding conflicts:
 
 1. Label your SIMs clearly (Settings > Mobile Data > [SIM name])
@@ -367,23 +367,23 @@ A complete guide is available guide to this, but here's the quick version for av
 
 For step-by-step instructions with screenshots, read the [UK eSIM dual SIM configuration](/blog/uk-esim-dual-sim-setup/).
 
-**The "One SIM Not Registering" Problem**
+### The "One SIM Not Registering" Problem
 Sometimes when you insert a second SIM, one of them refuses to register on the network. This is usually caused by the phone being confused about which SIM to use for network registration.
 
 **Fix:** Remove both SIMs (eSIM and physical), restart the phone, then add the UK eSIM first. Once it's registered and showing signal, add your home SIM. This establishes the correct registration order.
 
 This fix has been confirmed to work on Galaxy devices where both SIMs show "Emergency Calls Only" after dual SIM setup. Removing both SIMs, restarting, and adding the eSIM first typically resolves the issue in under 5 minutes.
 
-## UK eSIM No Signal Troubleshooting — Step by Step
+## No Signal on Your UK eSIM: The Step-by-Step Recovery
 
 You've got an eSIM installed, but the signal bars are empty or show a crossed-out circle. Let's fix this.
 
-**Immediate Checks**
+### Immediate Checks
 1. **Is aeroplane mode off?** Check the control centre.
 2. **Is your phone in a building with thick walls?** Some UK buildings (especially older stone buildings) block mobile signals. Try moving near a window.
 3. **Is your phone compatible with UK frequencies?** Most modern phones support the frequencies used by UK networks, but some older phones or non-UK models may not. UK 4G uses bands 3, 7, and 20 primarily; 5G uses bands n28, n78, and n1.
 
-**Manual Network Selection**
+### Manual Network Selection
 When you're getting no signal, manual network selection is the most effective fix.
 
 **On iPhone:** Settings > Mobile Data > Network Selection. Turn off Automatic. Wait for the network list to populate. Tap a network (start with EE, then try others). If it says "Unable to join network" or similar, try the next one.
@@ -392,7 +392,7 @@ When you're getting no signal, manual network selection is the most effective fi
 
 Sometimes your phone will stubbornly refuse to connect to any network manually. This usually indicates one of three things: your phone is carrier locked, your profile hasn't fully activated yet, or there's genuinely no coverage at your location.
 
-**Coverage Gaps**
+### Coverage Gaps
 It's rare to have zero signal in UK cities, but it does happen in specific locations:
 
 - **Underground** (Tube stations between stops)
@@ -400,15 +400,15 @@ It's rare to have zero signal in UK cities, but it does happen in specific locat
 - **Remote rural areas** (Scottish Highlands, parts of Wales, Lake District valleys)
 - **Large concrete or stone buildings** (museums, some older hotels)
 
-If you can't get signal at your hotel, try stepping outside. If it works there, the issue is your building, not your eSIM. You can check predicted coverage using [Ofcom's coverage checker](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/mobile-coverage-checker).
+If you can't get signal at your hotel, try stepping outside. If it works there, the issue is your building, not your eSIM. You can check the network's own predicted coverage on [EE's coverage checker](https://ee.co.uk/help/mobile-coverage-checker), and compare how all four networks perform in the [Opensignal UK report](https://www.opensignal.com/reports/2026/01/uk/mobile-network-experience).
 
 Edinburgh's Old Town is a perfect example: basement flats with stone walls from the 1700s can produce zero signal on all four networks at floor level. Step outside the front door and you get full bars on EE. Thick stone walls don't care about your eSIM.
 
-Ofcom coordinates all UK mobile spectrum and publishes independent coverage data. [Learn more about how Ofcom regulates UK telecoms](https://en.wikipedia.org/wiki/Ofcom).
+Independent test programmes, not the networks themselves, publish the coverage and speed data that matters here. The [RootMetrics UK report](https://www.ookla.com/research/reports/rootmetrics-uk-state-of-mobile-union-1h-2026) is the drive-test benchmark across all four UK networks.
 
 For more on UK mobile coverage, read the [UK eSIM coverage guide](/blog/uk-esim-coverage-guide/).
 
-**Reset Network Settings**
+### Reset Network Settings
 This is the last step before deleting and reinstalling the eSIM. It clears all network-related settings on your phone, including Wi-Fi passwords and Bluetooth pairings.
 
 **On iPhone:** Settings > General > Transfer or Reset iPhone > Reset > Reset Network Settings.
@@ -423,7 +423,7 @@ But a warning: resetting network settings will also wipe your saved Wi-Fi passwo
 
 Seeing "Emergency Calls Only" on your screen is worrying, but it usually doesn't mean there's something wrong with your phone. It means your phone has detected a network but hasn't been allowed to register on it.
 
-**What "Emergency Calls Only" Actually Means**
+### What "Emergency Calls Only" Actually Means
 Your phone found a network and connected at a basic level, but the network rejected your SIM's registration request. This could be because:
 
 1. **Your profile isn't activated yet** — the network doesn't recognise your profile
@@ -432,7 +432,7 @@ Your phone found a network and connected at a basic level, but the network rejec
 4. **You're in a restricted area** — near military bases or other sensitive locations, networks sometimes block service
 5. **Your phone is carrier-locked** — locked to a non-UK carrier
 
-**How to Fix It**
+### How to Fix It
 1. Toggle data roaming ON (if you haven't already)
 2. Restart your phone
 3. Try manual network selection
@@ -443,7 +443,7 @@ Your phone found a network and connected at a basic level, but the network rejec
 
 Signal that keeps cutting in and out is usually either a network coverage issue or a phone-side configuration problem.
 
-**Network-Related Drops**
+### Network-Related Drops
 
 **Network handover problems.** When you're moving (on a train, in a car), your phone hands off between different cell towers. Sometimes this handover fails, and your phone takes a moment to reconnect. This is normal to some degree, but if it happens constantly, something's wrong.
 
@@ -451,7 +451,7 @@ Signal that keeps cutting in and out is usually either a network coverage issue 
 
 **Roaming partner issues.** If your profile uses a roaming agreement with a UK network rather than a direct connection, the roaming handshake can sometimes fail, causing a drop.
 
-**Phone-Related Drops**
+### Phone-Related Drops
 
 **Battery saver mode.** Some battery saver modes reduce background network activity. On Samsung phones, this can cause signal drops. Try disabling battery saver temporarily.
 
@@ -459,7 +459,7 @@ Signal that keeps cutting in and out is usually either a network coverage issue 
 
 **iOS and Android updates.** Occasionally, a system update introduces network bugs. Check if there's a newer update available, or if others are reporting similar issues.
 
-**Fixes for Frequent Drops**
+### Fixes for Frequent Drops
 1. **Try 4G only** — 5G handover can be less reliable than 4G, especially outside city centres
 2. **Toggle data roaming** — forces a fresh registration
 3. **Reset network settings** — clear all network configuration and start fresh
@@ -468,23 +468,23 @@ Signal that keeps cutting in and out is usually either a network coverage issue 
 
 ## UK eSIM Manual Network Selection — When and How
 
-Manual configuration was covered above network selection several times, so let's cover it properly. This is one of the most useful troubleshooting tools in your arsenal.
+Manual network selection keeps coming up in the fixes above, so it deserves a proper explanation. It is one of the most useful troubleshooting tools in your arsenal, and most people never touch it.
 
-**When to Use Manual Network Selection**
+### When to Use Manual Network Selection
 - You arrive in the UK and the eSIM isn't connecting automatically
 - Your signal is weak and you want to try a different network
 - Your data speeds are slow and you suspect congestion on your current network
 - You're getting "Emergency Calls Only"
 - You're moving between regions and connection is dropping
 
-**How It Works**
+### What Manual Selection Actually Does
 Your phone normally selects the network it thinks is best based on signal strength. But "best" for signal isn't always "best" for data speeds, and sometimes your phone picks a network that doesn't have a good roaming agreement with your provider.
 
 By switching to manual, you can try each UK network individually and see which one works best.
 
-**Step-by-Step**
+### Step-by-Step
 
-**iPhone:**
+### iPhone
 Settings > Mobile Data > Network Selection
 Toggle OFF "Automatic"
 Wait for the network list to appear (can take 30 seconds)
@@ -492,7 +492,7 @@ Tap each network. Your phone will try to register.
 If it succeeds, you'll see signal bars. If it fails, try the next one.
 Once you've found a working network, you can leave manual selection on.
 
-**Android:**
+### Android
 Settings > Connections > Mobile Networks > Network Operators
 Tap "Search Networks"
 Wait for the list to populate
@@ -500,7 +500,7 @@ Tap a network to try it
 If it works, your phone will register. If not, try another.
 
 **Which Network Should You Pick?**
-Start with EE. It has the best overall coverage and speeds. If that doesn't work, try Vodafone (good city coverage), then O2 (good rural coverage), then Three (good if you're in a major city).
+Start with EE. It has the best overall coverage across the UK. If that doesn't work, try Vodafone, then O2, then Three.
 
 For eSIMs with auto carrier switching like Roami, you typically don't need to do this, but manual selection is still available as a fallback.
 
@@ -508,19 +508,19 @@ For eSIMs with auto carrier switching like Roami, you typically don't need to do
 
 A carrier-locked phone presents one of the few eSIM problems that has no fix on the phone itself. If your phone is carrier-locked, a UK eSIM will not work — period.
 
-**How to Check**
+### How to Check
 
 **On iPhone:** Settings > General > About > Carrier Lock. If it says "SIM Locked," your phone is locked.
 
 **On Android:** Settings > Connections > SIM Card Manager > SIM Lock Settings. If there's an option to "Lock SIM card," you may or may not be carrier locked — check with your carrier.
 
-**What to Do If Your Phone Is Locked**
+### What to Do If Your Phone Is Locked
 1. **Contact your original carrier** and request an unlock. In many countries, carriers are required to unlock phones for free after the contract ends.
 2. **Use a temporary unlock code** — some carriers offer temporary unlocks lasting 30 days. Ask.
 3. **Buy a UK physical SIM** — not ideal, but a physical SIM will work in a locked phone if it's the same carrier's network. A Three UK physical SIM might work on a Three-locked phone, but this is unreliable.
 4. **Get a different phone** — if you have a spare unlocked phone, use that for the trip.
 
-**How Roami Handles This**
+### How Roami Handles This
 Roami works on unlocked phones only. If your phone is locked, Roami's eSIM won't work either. Check your lock status before buying any eSIM.
 
 ## UK eSIM Delete and Reinstall Profile — When and How
@@ -529,13 +529,13 @@ Sometimes nothing else works and you need to start from scratch. Here's how to s
 
 Performing a **UK eSIM delete and reinstall profile** is the last resort when activation is stuck, APN settings won't save, or the profile appears corrupted.
 
-**How to Delete an eSIM Profile**
+### How to Delete an eSIM Profile
 
 **On iPhone:** Settings > Mobile Data > Tap the UK eSIM line > Delete SIM. Confirm.
 
 **On Android:** Settings > Connections > SIM Manager > Tap the UK eSIM > Delete or Remove.
 
-**What Happens When You Delete**
+### What Happens When You Delete
 - The profile is removed from your phone
 - You can reinstall using the original QR code — BUT only if your provider allows it
 - Any remaining data on your plan is usually preserved (check with your provider)
@@ -546,19 +546,19 @@ Yes, in most cases — but it depends on your provider. Some providers let you r
 
 **If the QR code doesn't work:** Contact your provider's support. They can generate a new QR code for you. Most providers, including Roami, offer live support for this.
 
-But here's a caution: most eSIM QR codes have a reuse limit — typically two reactivations per code. After that, the original QR code stops working and you'll need to request a new one from support. Plan accordingly if you anticipate needing to reinstall multiple times.
+But here's a caution: most eSIM QR codes have a reuse limit. Once you've hit it, the original QR code stops working and you'll need to request a new one from support. Plan accordingly if you anticipate needing to reinstall multiple times.
 
-**When to Delete and Reinstall**
+### When to Delete and Reinstall
 - Activation is stuck for more than 30 minutes
 - APN settings won't save
 - The profile appears corrupted
 - You've tried every other fix and nothing has worked
 
-## App-Specific Connectivity Issues and Fixes
+## App-Specific eSIM Connectivity Issues and Fixes
 
 Sometimes data works generally, but specific apps don't. This is usually not an eSIM issue, but here's what to check.
 
-**iMessage Not Activating**
+### iMessage Not Activating
 If iMessage won't activate with your UK number:
 
 1. Settings > Messages > iMessage toggle OFF, wait 30 seconds, toggle ON
@@ -567,7 +567,7 @@ If iMessage won't activate with your UK number:
 4. If it still won't activate, try restarting your phone
 5. iMessage activation can take up to 24 hours with a new number on some carriers
 
-**Banking Apps Not Sending SMS**
+### Banking Apps Not Sending SMS
 If you can't receive SMS verification codes from banking apps:
 
 1. Make sure your UK eSIM is set as the default for SMS (Settings > Mobile Data > Default Voice Line)
@@ -575,7 +575,7 @@ If you can't receive SMS verification codes from banking apps:
 3. Some banks don't support eSIM numbers for SMS verification — you may need to use a physical SIM
 4. Try requesting the verification by voice call instead of SMS (many banks offer this option)
 
-**WhatsApp Registration**
+### WhatsApp Registration
 If WhatsApp won't verify with your UK number:
 
 1. Make sure WhatsApp can access SMS on your UK line
@@ -584,75 +584,77 @@ If WhatsApp won't verify with your UK number:
 
 If you're having ongoing issues, the [UK eSIM setup](/blog/uk-esim-setup-guide/) has additional troubleshooting for specific apps.
 
-## Device-Specific Troubleshooting
+## Device-Specific eSIM Troubleshooting
 
 Different phones have different quirks for eSIMs. Here's what to check for specific brands.
 
-**iPhone-Specific Issues**
+### iPhone-Specific Issues
 
-**iPhone 14 and later (US models)**
+### iPhone 14 and later (US models)
 
 These iPhones have no physical SIM slot and rely entirely on eSIM. If your UK eSIM isn't working on one of these, the troubleshooting steps are the same, but you have no physical SIM fallback. Make absolutely sure your UK eSIM is properly installed before you travel — you can't just pop in a physical SIM as a backup.
 
-**iPhone 15 Pro/Max**
+### iPhone 15 Pro/Max
 
 These support faster 5G speeds on some UK networks. If you're not seeing the speeds you expect, check that you're connected to 5G (not LTE) and that your provider supports 5G access.
 
-**eSIM Quick Transfer**
+### eSIM Quick Transfer
 If you're upgrading from an older iPhone to a newer one while in the UK, you can transfer your eSIM using iOS's built-in Quick Transfer feature. Both phones need to be on iOS 16 or later, and both need to be nearby. Settings > Mobile Data > Add eSIM > Transfer from Nearby iPhone.
 
-**Dual eSIM on iPhone**
+### Dual eSIM on iPhone
 iPhone 13 and later support two active eSIMs simultaneously. If you're running two eSIMs (home + UK), the same dual SIM troubleshooting applies. Check that both lines are properly labelled and that the correct line is set for data.
 
-**Samsung-Specific Issues**
+### Samsung-Specific Issues
 
-**Samsung Galaxy S20 to S23 series**
+### Samsung Galaxy S20 to S23 series
 
 These phones have a dedicated eSIM slot alongside the physical SIM. If your profile isn't working, try a full device restart. Some Samsung phones need a restart after eSIM installation for the profile to fully register.
 
-**Samsung Galaxy S24 and later**
+### Samsung Galaxy S24 and later
 
 These support dual eSIM (two active eSIMs, no physical SIM needed). The setup is in Settings > Connections > SIM Card Manager. If you're having issues, check that eSIM is actually enabled for both slots — Samsung's software sometimes defaults to physical SIM + eSIM mode even when you have two eSIMs installed.
 
-**Samsung Auto Data Switching**
+### Samsung Auto Data Switching
 This feature is in Settings > Connections > SIM Card Manager > Auto data switching. It automatically switches between SIMs for the best data connection. If your UK eSIM data seems to be cutting out, this feature may be switching to your home SIM when the UK eSIM has weak signal. If your home SIM doesn't have data roaming, this causes a data outage. Turn it off if you're having intermittent connectivity.
 
-**Google Pixel-Specific Issues**
+### Google Pixel-Specific Issues
 
-**Pixel 6 and earlier**
+### Pixel 6 and earlier
 
 These phones have known compatibility issues with some MVNOs. If your profile won't activate on a Pixel 6 or older, try adding it through the Google Fi app or Pixel's built-in eSIM manager rather than scanning the QR code directly.
 
-**Pixel 7 and later**
+### Pixel 7 and later
 Better support, but APN configuration issues can occur. Check that APN settings persist after a restart — Pixel phones sometimes reset APN entries on reboot.
 
 Pixel 8 phones have shown this exact behaviour: enter the APN, reboot, and the field is blank again. The workaround is to re-enter it and then immediately toggle data roaming to lock it in. If you're on a Pixel, double-check APN is still there after every restart.
 
-**Pixel's eSIM as primary**
+### Pixel's eSIM as primary
 If you're using a UK eSIM as your primary (and only) line on a Pixel, make sure your emergency address is configured. Pixel phones require an emergency location address for eSIM-only operation.
 
-**OnePlus and Other Brands**
+### OnePlus and Other Brands
 
-**OnePlus**
+### OnePlus
 eSIM support on OnePlus phones varies significantly by model and region. OnePlus 12 and later support eSIM well. Older models may not support eSIM at all, or only support it with specific carriers. Check your model's specifications before buying an eSIM.
 
-**Xiaomi, Oppo, Huawei**
+### Xiaomi, Oppo, Huawei
 
 These brands have inconsistent support. Some models support eSIM, many don't. If your profile isn't working on one of these phones, it's more likely to be a compatibility issue than a configuration issue. Check the manufacturer's specifications and your provider's compatibility list.
 
-**Fairphone and other niche brands**
+### Fairphone and other niche brands
 Fairphone 4 and 5 support eSIM, but the implementation can be buggy. Make sure you're running the latest software update.
 
-## Understanding UK Network Options for Better Troubleshooting
+## Understanding UK Network Options for Better eSIM Troubleshooting
 
 Knowing which network your eSIM uses helps with troubleshooting. Here's a quick guide.
 
-**The Big Four UK Networks**
+### The Big Four UK Networks
 
-**How MVNOs and Providers Map to Networks**
+The UK has four mobile network operators with masts of their own — EE, Vodafone, O2, and Three. Every eSIM provider rides on one of them, or on several at once.
+
+### How MVNOs and Providers Map to Networks
 | eSIM/Provider | UK Network |
 |---|---|
-| **Roami** | Auto-switches between EE, Vodafone, O2, Three |
+| **Roami** | Auto-switches between EE, Vodafone, O2 |
 | **giffgaff** | O2 |
 | **Lebara** | Vodafone |
 | **Lyca Mobile** | EE |
@@ -666,8 +668,8 @@ Knowing which network your eSIM uses helps with troubleshooting. Here's a quick 
 This mapping is important because it determines which APN settings you need and which troubleshooting steps apply. For more detail on how these networks compare, read the [UK eSIM MVNO guide](/blog/uk-esim-network-mvno-guide/).
 
 **Quick Decision: Which Fix Should You Try First?**
-- **If your eSIM shows "No Service" after arrival:** Turn on Data Roaming for your UK eSIM line. This fixes over 50% of all connection issues.
-- **If data roaming is on but still no connection:** Try manual network selection. Pick EE, Vodafone, O2, or Three manually until one works.
+- **If your eSIM shows "No Service" after arrival:** Turn on Data Roaming for your UK eSIM line. This fixes most connection issues on its own.
+- **If data roaming is on but still no connection:** Try manual network selection. Pick EE, Vodafone, O2, or Three manually — one of your plan's supported networks should register.
 - **If you have signal bars but no data flowing:** Check APN settings. Enter the correct APN for your provider's network from the reference table above.
 - **If your eSIM activation is stuck on "Activating...":** Toggle Airplane Mode, wait 10 seconds, then turn it off. Forces a re-registration attempt.
 - **If you've tried everything and nothing works:** Contact your provider's support. Have your order number, phone model, and a description of what you've tried ready.
@@ -678,14 +680,16 @@ You've tried everything in this guide. You've checked data roaming, tried manual
 
 It's time to contact support. This is your **UK eSIM customer service contact** moment.
 
-**What to Have Ready**
+One thing to know before you call: **who you call depends on who you bought from.** A travel eSIM is supported by the provider's own app-based support, while a plan bought directly from EE, Vodafone, O2 or Three is supported by that network's call centre and account system. If you are unsure which side of that line your problem sits on, the ordering routes and support entry points for each UK network are set out in our [UK carrier eSIM guide](/blog/uk-carrier-esim-guide/).
+
+### What to Have Ready
 - Your order number or account email
 - The eSIM ICCID (usually found in Settings > Mobile Data > [eSIM] about section)
 - Your phone model and iOS/Android version
 - A description of exactly what you've tried
 - Screenshots of error messages if possible
 
-**What Support Can Do**
+### What Support Can Do
 - Check if your profile is properly activated on their end
 - Reissue a QR code or activation code
 - Check if there's a known network issue in your area
@@ -694,16 +698,16 @@ It's time to contact support. This is your **UK eSIM customer service contact** 
 
 Roami offers live support for all customers. If you're stuck, contact support through the app or website for help diagnosing the issue. Real person, real help.
 
-**Before You Give Up**
+### Before You Give Up
 One last thing to check: try your UK eSIM in a different phone. If it works in another device, the problem is your phone. If it doesn't work in any device, the problem is your profile or its activation status. This simple test saves hours of troubleshooting.
 
-And if you haven't tried it yet, consider testing with Roami's [free eSIM plan](/free-esim/) to see if your device is compatible before committing to a paid plan. Use promo code **WEB20** for 20% off any Roami UK plan once you're confident everything works.
+And if you haven't tried it yet, consider testing with Roami's [free eSIM plan](/free-esim/) — 100MB of data, no payment needed — to see if your device is compatible before committing to a paid plan. Use promo code **web20** for 20% off your first plan once you're confident everything works.
 
-## Specific Error Messages and What They Mean
+## Specific UK eSIM Error Messages and What They Mean
 
 Different phones show different error messages. Here's how to decode the most common ones.
 
-**"No SIM Card Installed"**
+### "No SIM Card Installed"
 This error means your phone doesn't detect any eSIM profile. This usually happens if:
 - The profile was deleted accidentally
 - The eSIM installation was interrupted
@@ -712,20 +716,20 @@ This error means your phone doesn't detect any eSIM profile. This usually happen
 **Fix**
 Reinstall the eSIM using your original QR code or activation code. If you don't have the QR code, contact your provider's support.
 
-**"SOS Only" or "Emergency Calls Only"**
+### "SOS Only" or "Emergency Calls Only"
 Your phone has detected a network but hasn't been authorised to use it. As discussed above, this is usually a data roaming or activation issue. But there's another possibility: your plan may have expired. Check your account portal to confirm the plan is still active.
 
-**"Unable to Activate eSIM"**
+### "Unable to Activate eSIM"
 This error appears during installation and means your phone couldn't download the profile from the server. Try:
 1. Connecting to a different Wi-Fi network (the one you're on may be blocking the connection)
 2. Using manual entry instead of QR scanning
 3. Waiting 15 minutes and trying again (server issues are sometimes temporary)
 4. Contacting your provider to check their activation servers
 
-**"Cellular Data Network Not Available for This Line"**
+### "Cellular Data Network Not Available for This Line"
 You'll see this on iPhone when the APN settings aren't configured correctly. Go to Settings > Mobile Data > Mobile Data Network and enter the correct APN details for your provider.
 
-**"This eSIM Cannot Be Added to This iPhone"**
+### "This eSIM Cannot Be Added to This iPhone"
 This error is a compatibility issue. It could mean:
 - Your iPhone model doesn't support eSIM (unlikely if it's an XS or later)
 - Your iPhone is carrier-locked and the eSIM is from a different carrier
@@ -735,41 +739,35 @@ This error is a compatibility issue. It could mean:
 **Fix**
 Update iOS to the latest version, check your carrier lock status, and confirm with your provider that your specific iPhone model is supported.
 
-**"iMessage Activation Failed"**
+### "iMessage Activation Failed"
 Not strictly an eSIM error, but common when adding a new SIM. This usually resolves within 24 hours. If it persists:
 1. Settings > Messages > Toggle iMessage OFF, restart, toggle ON
 2. Make sure your phone number is checked in Settings > Messages > Send & Receive
 3. Contact Apple Support if it doesn't resolve within 48 hours
 
-## Roami-Specific Troubleshooting
+## Roami-Specific eSIM Troubleshooting
 
 Those using a Roami UK eSIM will find these provider-specific notes helpful.
 
-**Roami Auto Carrier Switching**
-Roami's key feature is automatic switching between EE, Vodafone, O2, and Three. If you're having connectivity issues:
+### Roami Auto Carrier Switching
+Roami's key feature is automatic switching between EE, Vodafone, and O2. If you're having connectivity issues:
 
 1. **Give it a minute to switch**: After connecting, Roami's system takes 30-60 seconds to assess the available networks and select the best one. If you don't have a connection immediately, wait 60 seconds before troubleshooting.
 2. **Manual override**: If auto-switching isn't picking the best network for your location, you can override it by using manual network selection. Pick any UK network and see if performance improves.
 3. **Network congestion**: In extremely crowded areas (concerts, stadiums, major events), all networks may be congested. Roami's auto-switching helps by moving you to the least congested network, but in extreme cases, speeds may still be slow for everyone.
 
-**Roami APN Settings**
-Most Roami eSIMs configure APN automatically, but if you need to enter it manually:
+### Roami APN Settings
+Most Roami eSIMs configure APN automatically, but if you do need to enter it manually, use the APN provided in your Roami confirmation email or account dashboard. The exact value can vary by plan, so don't guess — copy it exactly as sent.
 
-- **APN**: roamidata
-- **Username**: (leave blank)
-- **Password**: (leave blank)
+### Roami Live Support
+Anyone who has tried everything and still cannot connect will find that Roami offers live customer support. Contact support through the website or app. Have your order number and a description of what you've tried ready. The team can check your eSIM's activation status, reissue a QR code if needed, and walk you through device-specific configuration. A [travel eSIM for the UK](/united-kingdom-esim/) provider with live support can resolve most issues quickly, which is invaluable when you're troubleshooting in a foreign country.
 
-If these don't work, check your Roami account dashboard for the specific APN details for your plan.
+Roami's support model illustrates what good service looks like: live chat with real people rather than ticket queues, and most connectivity issues resolved in a single conversation — including late nights and weekends. That's the bar for travel eSIM support.
 
-**Roami Live Support**
-Anyone who has tried everything and still cannot connect will find that Roami offers live customer support. Contact support through the website or app. Have your order number and a description of what you've tried ready. The team can check your eSIM's activation status, reissue a QR code if needed, and walk you through device-specific configuration. A [travel eSIM for the UK](/united-kingdom-esim/) provider with 24/7 live support can resolve most issues within minutes, which is invaluable when you're troubleshooting in a foreign country.
+## Quick Fix Summary: The UK eSIM 5-Step Recovery Plan
 
-Roami's support benchmark illustrates what good service looks like: live chat responses in under 5 minutes, with most issues resolved within 10 minutes of the first message — including late nights and weekends. That's the bar for travel eSIM support.
-
-## Quick Fix Summary: The 5-Step Recovery Plan
-
-1. **Turn on Data Roaming** for your UK eSIM. This fixes over 50% of all eSIM problems.
-2. **Manual network selection.** Pick EE, Vodafone, O2, or Three. One will work.
+1. **Turn on Data Roaming** for your UK eSIM. This fixes most eSIM problems on its own.
+2. **Manual network selection.** Pick EE, Vodafone, O2, or Three — one of the networks your plan supports will register.
 3. **Restart your phone.** Clears registration issues.
 4. **Check APN settings.** If they're blank, enter the correct APN from the table above.
 5. **Toggle aeroplane mode.** Quick reset of the cellular modem.
@@ -784,19 +782,19 @@ Still shopping for a plan? The [eSIM deals for the UK](/united-kingdom-esim/) pa
 
 Now stop reading and start fixing. Check data roaming. If that's on, try manual network selection. If that fails, restart. Ninety seconds of doing beats ten minutes of reading. You've got this.
 
-## Frequently Asked Questions
+## Frequently Asked Questions About UK eSIM Troubleshooting
 
 **Why does my UK eSIM show "No Service" after I land?**
 In most cases, data roaming isn't turned on for your eSIM line. Go to Settings > Mobile Data, select your UK eSIM, and toggle Data Roaming ON. Your phone treats UK networks as a roaming destination, so this setting must be enabled regardless of having a local plan.
 
-**Can I use my England eSIM in Scotland and Wales too?**
-Yes. An England eSIM, Great Britain eSIM, and UK eSIM all mean the same thing — they work across England, Scotland, Wales, and Northern Ireland. Roami's eSIM automatically switches between all four nations' major networks no matter where you are.
+**Can I use my UK eSIM in Scotland and Wales too?**
+Yes. Regional wording on a plan is cosmetic — the UK is one coverage area. If your symptoms look regional, though — working in London, dead in Snowdonia — the cause is network reach rather than geography, and a multi-network eSIM that fails over automatically is the fix worth testing first.
 
 **What if my UK eSIM QR code won't scan?**
 Use the manual entry method instead. Your provider should have sent an SM-DP+ address and activation code alongside the QR code. On iPhone, go to Settings > Mobile Data > Add eSIM > Enter Details Manually. This bypasses the camera entirely and almost always works when scanning fails.
 
 **How do I fix a UK eSIM that's stuck on "Activating"?**
-Toggle Airplane Mode on, wait 10 seconds, then turn it off. This forces your phone to re-attempt network registration. If it's still stuck after 15 minutes, delete and reinstall the eSIM profile — most activation issues resolve within a few minutes with a fresh install.
+Toggle Airplane Mode on, wait 10 seconds, then turn it off. This forces your phone to re-attempt network registration. If it's still stuck after 30 minutes, delete and reinstall the eSIM profile — most activation issues resolve within a few minutes with a fresh install.
 
 **Does Roami offer support if I can't fix my eSIM myself?**
 Yes. Roami provides live customer support for all UK eSIM customers. Contact support through the website or app with your order number, and the team will check your activation status, reissue QR codes if needed, and walk you through device-specific troubleshooting.
@@ -804,10 +802,10 @@ Yes. Roami provides live customer support for all UK eSIM customers. Contact sup
 
 For a complete UK eSIM overview, see the [UK eSIM overview](/blog/uk-esim-complete-guide/).
 
-For coverage data, see the [UK eSIM coverage](/blog/uk-esim-coverage-guide/).
+If your problem is location-specific rather than plan-specific, start with the [UK eSIM coverage map](/blog/uk-esim-coverage-guide/).
 
-For official eSIM compatibility documentation, see [Apple's eSIM support page](https://support.apple.com/en-us/HT212780).
+For official eSIM compatibility documentation, see [Apple's eSIM support page](https://support.apple.com/en-us/118669).
 
-UK mobile coverage statistics are published by [Ofcom](https://www.ofcom.org.uk), the country's communications regulator.
+The per-network experience scores used throughout this guide come from independent testing: the [Opensignal UK report](https://www.opensignal.com/reports/2026/01/uk/mobile-network-experience) is the benchmark we cite for regional coverage and experience.
 
-The [GSMA](https://www.gsma.com) maintains the global eSIM specification and interoperability standards.
+The [GSMA](https://www.gsma.com/solutions-and-impact/technologies/esim/) maintains the global eSIM specification and interoperability standards.

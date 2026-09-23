@@ -1,9 +1,9 @@
 ---
 title: "Germany eSIM: Airalo vs Holafly — Prices & Coverage"
 description: "Compare Airalo and Holafly: the best Germany eSIM installs before you fly, runs on Telekom, Vodafone or O2. See which wins for short and long trips"
-keywords: ["Germany eSIM price guide", "holafly esim for germany", "germany esim funkloch", "cheapest eSIM for Germany travel", "germany esim ice train coverage", "airalo germany esim review", "Germany eSIM promo code"]
-date: 2026-09-01T00:00:00Z
-lastmod: 2026-09-01T00:00:00Z
+keywords: ["airalo germany esim", "Germany eSIM price guide", "holafly esim for germany", "germany esim funkloch", "cheapest eSIM for Germany travel", "germany esim ice train coverage", "airalo germany esim review", "Germany eSIM promo code", "airalo vs holafly germany"]
+date: 2026-09-23T00:00:00Z
+lastmod: 2026-09-23T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/germany/germany-esim-complete-travel-guide.jpg"
@@ -80,7 +80,7 @@ This article revolves around this core difference: Which of Germany's four opera
 > **⏱️ 30‑Second Summary: How to Choose a Germany eSIM?**
 >
 > - **The most critical point**: Germany has many "Funkloch" signal dead zones in rural areas, and ICE trains drop signal along the way; **an eSIM that supports multi-network switching + Band 20 is what keeps you connected on trains and in the countryside** (see the dedicated section on trains and rural coverage below).
-> - **Best value for money**: Roami's discounted prices are the lowest across the board—7-day 10GB at $7.99, which is 47% cheaper than Airalo's equivalent ($15.00) and 71% cheaper than Holafly's unlimited ($27.30).
+> - **Best value for money**: Roami's discounted prices are the lowest across the board—7-day 10GB at $7.99, which is 47% cheaper than Airalo's equivalent ($15.00) and 71% cheaper than Holafly's unlimited ($27.50).
 > - **Which network to choose**: In cities, go for Telekom; in rural areas / the Black Forest, choose Telekom or O2; Roami's multi-network auto‑switching picks the strongest signal available.
 > - **A Germany‑specific quirk**: In Roami's 3‑day Germany plans, **10GB and "Unlimited" are the same price** (both $9.99, discounted $7.99)—for a 3‑day trip, just choose unlimited (see the 3‑day table below).
 > - **Bottom line**: For a 3‑5 day city trip to Berlin/Munich, buy Roami 3‑10GB; for a 10‑15 day multi‑city ICE tour, buy 20‑30GB; for long stays/digital nomads, buy 50‑100GB; only consider unlimited if you're a heavy video streamer.
@@ -92,7 +92,7 @@ This article revolves around this core difference: Which of Germany's four opera
 > - **ICE multi‑city tour (7‑10 days)** → Roami 10‑20GB, multi‑network switching fills the gaps on trains (see 7‑day plans / train section)
 > - **Neuschwanstein / Black Forest / Rhine Valley road trip (5‑7 days)** → Roami 10‑20GB, Band 20 supports rural signals (see 7‑day plans / scenario recommendations / train section)
 > - **Business travel (3‑7 days)** → Roami 5‑10GB, works right after landing, no need to visit a store for ID verification (see scenario recommendations / comparison)
-> - **Don't want to think about data at all** → Roami Unlimited (7‑day discounted $17.59) or Holafly ($3.90/day), the former is cheaper (see 7‑day plans)
+> - **Don't want to think about data at all** → Roami Unlimited (7‑day discounted $17.59) or Holafly ($3.97/day), the former is cheaper (see 7‑day plans)
 > - **Extremely tight budget** → Roami 1GB/7‑day discounted $2.39, the lowest price (see 3‑day plans)
 
 ## The Truth About Germany's "Signal Black Hole" eSIM Market
@@ -100,10 +100,10 @@ This article revolves around this core difference: Which of Germany's four opera
 > **2026 Germany eSIM Market Updates**
 >
 > - **Funkloch remains a nationwide pain point**: Despite being Europe's largest economy, Germany's rural mobile coverage ranks in the lower middle in Europe, and the word "Funkloch" (signal dead zone) has entered everyday vocabulary.
-> - **ICE train routes have dead spots**: According to [BNetzA](https://www.bundesnetzagentur.de/) and operator reports, some rural high‑speed sections (e.g., Stuttgart–Ulm, Berlin–Munich) still have unstable signal, with short disconnections in tunnels and remote stretches.
+> - **ICE train routes have dead spots**: According to [BNetzA](https://www.bundesnetzagentur.de/DE/Vportal/TK/start.html) and operator reports, some rural high‑speed sections (e.g., Stuttgart–Ulm, Berlin–Munich) still have unstable signal, with short disconnections in tunnels and remote stretches.
 > - **Band 20 (800MHz) is key**: The 800MHz low‑band auctioned in 2010 is dedicated to rural coverage; phones/eSIMs that support Band 20 have significantly better penetration in rural and indoor areas.
-> - **Local SIMs require ID verification**: According to [BNetzA](https://www.bundesnetzagentur.de/), since July 2017 all prepaid SIMs in Germany require identity verification (Video‑Ident / Post‑Ident or in‑store with passport), and buying at the airport doesn't skip this process.
-> - **5G leads but rural lags**: According to [Opensignal](https://www.opensignal.com/) 2026 data, Telekom has 90%+ 5G population coverage, but rural 4G/5G coverage remains in the lower tier of the EU.
+> - **Local SIMs require ID verification**: According to BNetzA, since July 2017 all prepaid SIMs in Germany require identity verification (Video‑Ident / Post‑Ident or in‑store with passport), and buying at the airport doesn't skip this process.
+> - **5G leads but rural lags**: According to [Telekom's own 5G rollout data](https://www.telekom.de/netz/5g), Telekom has 90%+ 5G population coverage, but rural 4G/5G coverage remains in the lower tier of the EU.
 >
 > *Compiled from public data as of September 2026.*
 
@@ -115,7 +115,7 @@ What makes the German market special is that it puts "signal anxiety in a develo
 
 **3. ICE trains are a "mobile signal challenge."** Germans themselves complain about unstable signal along ICE routes. When you're on an ICE, you can't pull over and "find a spot with signal"—you can only rely on an eSIM that can automatically switch between multiple networks.
 
-## Germany's Four Networks at a Glance
+## Germany's Four Mobile Networks and What They Mean for Your eSIM
 
 > Germany is a market of "three giants plus a newcomer": Telekom, Vodafone, and O2 (Telefónica) split the market, while 1&1 is a new player building its own network. Travel eSIMs usually connect automatically or manually to Telekom, Vodafone, or O2; a few use 1&1.
 
@@ -129,7 +129,7 @@ What makes the German market special is that it puts "signal anxiety in a develo
 | Average Speed | **Fastest** | Fast | Above average | Medium |
 | Best For | Rural + Trains | Balanced | City value | Budget‑conscious |
 
-*Sources: [BNetzA](https://www.bundesnetzagentur.de/) / [Opensignal](https://www.opensignal.com/), as of September 2026.*
+*Sources: BNetzA / Ookla Speedtest Global Index, as of September 2026.*
 
 ### One Network at a Time
 
@@ -154,7 +154,7 @@ What makes the German market special is that it puts "signal anxiety in a develo
 
 > **Key Advice**
 >
-> Choose a Germany eSIM that supports **multi‑network automatic switching + Band 20** (e.g., Roami). It will automatically pick the strongest signal among Telekom / Vodafone / O2 based on your location—using Telekom's fast 5G in cities, and automatically switching to the best available network when you drive into the Black Forest or ride ICE through rural areas. A single‑network eSIM can leave you with dead zones at Neuschwanstein, on Black Forest drives, or on rural train stretches. [View Germany eSIM with multi‑network switching →](/germany-esim/)
+> Choose a Germany eSIM that supports **multi‑network automatic switching + Band 20** (e.g., Roami). It will automatically pick the strongest signal among Telekom / Vodafone / O2 based on your location—using Telekom's fast 5G in cities, and automatically switching to the best available network when you drive into the Black Forest or ride ICE through rural areas. A single‑network eSIM can leave you with dead zones at Neuschwanstein, on Black Forest drives, or on rural train stretches.
 
 ## Germany's Three eSIM Brands Compared
 
@@ -164,14 +164,14 @@ What makes the German market special is that it puts "signal anxiety in a develo
 
 | Brand | Trustpilot Rating | Core Positioning | Network Access | 5G | Hotspot | Band 20 |
 |-------|-------------------|------------------|----------------|-----|---------|---------|
-| **Airalo** | 4.2 | Largest global platform, most granular tiers | Telekom / Vodafone | Partial | Supported | Supported |
-| **Holafly** | 4.3 | Pure unlimited data | Telekom | Supported | 1GB/day limit | Supported |
+| **Airalo** | 3.9 | Largest global platform, most granular tiers | Telekom / Vodafone | Partial | Supported | Supported |
+| **Holafly** | 4.6 | Pure unlimited data | Vodafone / O2 | Supported | 1GB/day limit | Supported |
 | **Roami** | 4.9 | Multi‑network auto‑switching, best value | Telekom / Vodafone / O2 | Full‑speed | Unlimited | Supported |
 
 > **Core Differences at a Glance**
 >
-> - **Airalo Germany eSIM**: Largest global platform, finest fixed‑data tiers, plus unlimited options, connects to Telekom / Vodafone. Transparent pricing, supports hotspot, supports Band 20, **no German phone number**. Suitable for users who want "unlimited" with a moderate budget.
-> - **Holafly Germany eSIM**: The only pure‑unlimited brand, priced at $3.90/day, connects to Telekom 5G. No GB cap, but **hotspot limited to 1GB/day**, high long‑term cost, **no German phone number**. Suitable for heavy users who don't mind the cost.
+> - **Airalo Germany eSIM**: Largest global platform, finest fixed‑data tiers, plus unlimited options, connects to Telekom / Vodafone. Transparent pricing, supports hotspot, supports Band 20, **no German phone number**. Suitable for users who want "unlimited" with a moderate budget – but note its 3.9 Trustpilot score trails the industry (see our [full Airalo eSIM review](/blog/airalo-esim-review-prices-coverage/)).
+> - **Holafly Germany eSIM**: The only pure‑unlimited brand, priced at $3.97/day, connects to Vodafone / O2 5G. No GB cap, but **hotspot limited to 1GB/day**, high long‑term cost, **no German phone number**. Suitable for heavy users who don't mind the cost.
 > - **Roami Germany eSIM**: Multi‑network auto‑switching (Telekom / Vodafone / O2), full‑speed 5G, supports unlimited hotspot and Band 20, lowest price across the board, **no German phone number**. **Note a Germany‑specific detail: in the 3‑day tier, 10GB and "Unlimited" are the same price ($9.99)** — for a 3‑day trip, just choose unlimited. Use discount code **WEB20** for 20% off. [View Roami Germany eSIM plans](/germany-esim/)
 
 ### Airalo Germany eSIM Full Price List
@@ -200,16 +200,18 @@ What makes the German market special is that it puts "signal anxiety in a develo
 
 ### Holafly Germany eSIM Full Price List
 
-Holafly Germany offers **only unlimited data**, priced per day:
+Holafly Germany offers **only unlimited data**, priced by duration:
 
 | Days | Price | Daily Cost |
 |------|-------|------------|
-| 3 days | $11.70 | $3.90/day |
-| 7 days | $27.30 | $3.90/day |
-| 15 days | $58.50 | $3.90/day |
-| 30 days | $117.00 | $3.90/day |
+| 3 days | $11.90 | $3.97/day |
+| 7 days | $27.50 | $3.93/day |
+| 10 days | $36.50 | $3.65/day |
+| 30 days | $73.90 | $2.46/day |
 
-> ⚠️ **Holafly Germany Risk Note**: No fixed‑data tiers; 3 days costs $11.70, which is 46% more than Roami's 3‑day 10GB ($7.99); **hotspot limited to 1GB/day**—restrictive for sharing or tablet use; per‑day pricing makes long‑term cost the highest.
+> The daily rate drops on longer plans – the headline $3.97/day applies to short stays, while the 30‑day tier works out to $2.46/day.
+
+> ⚠️ **Holafly Germany Risk Note**: No fixed‑data tiers; 3 days costs $11.90, which is 49% more than Roami's 3‑day 10GB ($7.99); **hotspot limited to 1GB/day**—restrictive for sharing or tablet use; per‑day pricing makes long‑term cost the highest.
 
 ### Roami Germany eSIM Full Price List
 
@@ -254,9 +256,9 @@ The per‑GB price of 100GB is less than one‑third of 5GB. **Conclusion: if yo
 | Itinerary | Roami Disc. vs Competitor | Save | Equivalent to |
 |-----------|---------------------------|------|---------------|
 | 7‑day 10GB | $7.99 vs Airalo $15.00 | $7.01 | A Currywurst + a German beer |
-| 7‑day Unlimited | $17.59 vs Holafly $27.30 | $9.71 | A Berlin AB zone day pass |
+| 7‑day Unlimited | $17.59 vs Holafly $27.50 | $9.91 | A Berlin AB zone day pass |
 | 15‑day 20GB | $15.19 vs Airalo $22.50 | $7.31 | Half a Neuschwanstein ticket |
-| 30‑day Unlimited | $56.79 vs Holafly $117.00 | $60.21 | One night in a mid‑range hotel |
+| 30‑day Unlimited | $56.79 vs Holafly $73.90 | $17.11 | A proper dinner in Munich |
 
 ## 3-Day Germany eSIM: Which Plan Wins?
 
@@ -268,9 +270,9 @@ For short 3‑day trips (weekend getaways / layovers / business), it's all about
 | 3GB | $7.50 | — | **$3.19** | **Roami** |
 | 5GB | — | — | **$4.79** | **Roami** |
 | 10GB | — | — | **$7.99** | **Roami** |
-| Unlimited | $11.00 | $11.70 | **$7.99** | **Roami** |
+| Unlimited | $11.00 | $11.90 | **$7.99** | **Roami** |
 
-**3‑day decision**: Roami 3‑day 3GB discounted $3.19 is 57% cheaper than Airalo's equivalent ($7.50); Roami 3‑day unlimited ($7.99) is 32% cheaper than Holafly ($11.70). **Germany‑specific bonus: Roami's 3‑day 10GB and unlimited are the same price ($7.99)—for a 3‑day trip, just choose unlimited, no downside.**
+**3‑day decision**: Roami 3‑day 3GB discounted $3.19 is 57% cheaper than Airalo's equivalent ($7.50); Roami 3‑day unlimited ($7.99) is 33% cheaper than Holafly ($11.90). **Germany‑specific bonus: Roami's 3‑day 10GB and unlimited are the same price ($7.99)—for a 3‑day trip, just choose unlimited, no downside.**
 
 > **💡 Value Insight for 3‑Day Plans**: For a 3‑day trip just exploring Berlin or Munich, navigation + WhatsApp texts + photos, 1‑3GB is enough. But since Roami's 3‑day 10GB and unlimited are the same price ($7.99), choosing unlimited gives you "unlimited data at no extra cost"—especially useful for Oktoberfest when crowds make you check maps and share photos frequently. [View Germany eSIM 3‑day plans](/germany-esim/)
 
@@ -285,9 +287,9 @@ For short 3‑day trips (weekend getaways / layovers / business), it's all about
 | 5GB | $10.50 | — | **$5.59** | **Roami** |
 | 10GB | $15.00 | — | **$7.99** | **Roami** |
 | 20GB | — | — | **$14.39** | **Roami** |
-| Unlimited | $24.00 | $27.30 | **$17.59** | **Roami** |
+| Unlimited | $24.00 | $27.50 | **$17.59** | **Roami** |
 
-**7‑day decision**: Roami 7‑day 10GB discounted $7.99 is 47% cheaper than Airalo's equivalent ($15.00) and 71% cheaper than Holafly's unlimited ($27.30). Even Roami's unlimited at $17.59 is 36% cheaper than Holafly.
+**7‑day decision**: Roami 7‑day 10GB discounted $7.99 is 47% cheaper than Airalo's equivalent ($15.00) and 71% cheaper than Holafly's unlimited ($27.50). Even Roami's unlimited at $17.59 is 36% cheaper than Holafly.
 
 > **💡 Value Insight for 7‑Day Plans**: For a 7‑day ICE tour connecting Berlin, Munich, and Cologne, 1.43GB/day supports 1 hour of short videos + all‑day navigation + lots of WhatsApp texts. Roami's $7.99 gives you $0.80/GB—the lowest in the market; the $7.01 saved is enough for a Currywurst + a beer. Unless you're streaming 2+ hours of HD video on the train every day, Roami 20GB ($14.39) is better value than unlimited ($17.59).
 
@@ -302,11 +304,11 @@ For short 3‑day trips (weekend getaways / layovers / business), it's all about
 | 10GB | $15.50 | — | **$10.39** | **Roami** |
 | 20GB | $22.50 | — | **$15.19** | **Roami** |
 | 30GB | — | — | **$23.19** | **Roami** |
-| Unlimited | $42.00 | $58.50 | **$34.39** | **Roami** |
+| Unlimited | $42.00 | $50.50 | **$34.39** | **Roami** |
 
-**15‑day decision**: Roami 15‑day 20GB discounted $15.19 is 32% cheaper than Airalo's equivalent ($22.50) and 74% cheaper than Holafly ($58.50). Roami unlimited at $34.39 is even 18% cheaper than Airalo unlimited ($42.00).
+**15‑day decision**: Roami 15‑day 20GB discounted $15.19 is 32% cheaper than Airalo's equivalent ($22.50) and 70% cheaper than Holafly ($50.50). Roami unlimited at $34.39 is even 18% cheaper than Airalo unlimited ($42.00).
 
-> **💡 Value Insight for 15‑Day Plans**: For a 15‑day self‑drive along the Romantic Road + Black Forest, 1.33GB/day supports "daily navigation + social + occasional video" rhythm. Roami's discounted $15.19 gives $0.76/GB; Holafly's $58.50 is nearly 4 times Roami's 20GB—the extra $43 could book a nice guesthouse for a night.
+> **💡 Value Insight for 15‑Day Plans**: For a 15‑day self‑drive along the Romantic Road + Black Forest, 1.33GB/day supports "daily navigation + social + occasional video" rhythm. Roami's discounted $15.19 gives $0.76/GB; Holafly's $50.50 is 3.3 times Roami's 20GB—the extra $35.31 could book a nice guesthouse for a night.
 
 ## One-Month Germany eSIM Plans
 
@@ -320,15 +322,15 @@ For short 3‑day trips (weekend getaways / layovers / business), it's all about
 | 30GB | — | — | **$24.79** | **Roami** |
 | 50GB | $36.00 | — | **$31.99** | **Roami** |
 | 100GB | — | — | **$43.99** | **Roami** |
-| Unlimited | $59.00 | $117.00 | **$56.79** | **Roami** |
+| Unlimited | $59.00 | $73.90 | **$56.79** | **Roami** |
 
-**30‑day decision**: Roami 30‑day 50GB discounted $31.99 is 11% cheaper than Airalo's equivalent ($36.00); Roami 100GB ($43.99) is a unique Germany‑only super‑large tier at $0.44/GB, the lowest per‑GB price; Roami unlimited at $56.79 is 4% cheaper than Airalo ($59.00) and 51% cheaper than Holafly ($117.00).
+**30‑day decision**: Roami 30‑day 50GB discounted $31.99 is 11% cheaper than Airalo's equivalent ($36.00); Roami 100GB ($43.99) is a unique Germany‑only super‑large tier at $0.44/GB, the lowest per‑GB price; Roami unlimited at $56.79 is 4% cheaper than Airalo ($59.00) and 23% cheaper than Holafly ($73.90).
 
-> **💡 Value Insight for 30‑Day Plans**: For a full month of [Germany eSIM value](/germany-esim/), the answer is clear—heavy users choose 100GB ($0.44/GB), regular users choose 50GB ($31.99). Holafly's 30‑day $117 is more than double Roami's unlimited ($56.79), and the $60 difference can pay for a mid‑range hotel night. Unless you're doing 3+ hours of video calls/live streaming daily, 50‑100GB is the most cost‑effective tier for the month—don't pay double for "unlimited."
+> **💡 Value Insight for 30‑Day Plans**: For a full month of, the answer is clear—heavy users choose 100GB ($0.44/GB), regular users choose 50GB ($31.99). Holafly's 30‑day $73.90 costs more than Roami's 100GB tier, and even Roami's unlimited ($56.79) undercuts it by $17.11. Unless you're doing 3+ hours of video calls/live streaming daily, 50‑100GB is the most cost‑effective tier for the month—don't pay extra for "unlimited."
 
 > **💰 Limited‑Time Offer**
 >
-> Choose Roami **Germany eSIM**, enter discount code **WEB20** at checkout, and get **20% off** all plans. Discounted 7‑day 10GB at $7.99 and 30‑day 100GB at $43.99 are significantly lower than competitors' equivalent tiers. [Shop Germany eSIM plans now](/germany-esim/)
+> Choose Roami **Germany eSIM**, apply promo code **WEB20** at checkout and take **20% off** every plan. Discounted 7‑day 10GB at $7.99 and 30‑day 100GB at $43.99 are significantly lower than competitors' equivalent tiers. [Shop Germany eSIM plans now](/germany-esim/)
 >
 > *Discount code applies to all days and data tiers, including unlimited plans.*
 
@@ -383,7 +385,7 @@ For short 3‑day trips (weekend getaways / layovers / business), it's all about
 - **Reason**: Discounted $2.39, the lowest price; enough for 20 hours of Google Maps + lots of WhatsApp texts.
 - **⚠️ Reminder**: Don't stream video—1GB is only about 1 hour of short videos.
 
-## Special Section: ICE Trains and Rural Signals
+## Special Section: ICE Trains, Funkloch and Your eSIM Signal
 
 This is the core issue that sets Germany apart from other European countries—worth unpacking in detail.
 
@@ -393,7 +395,7 @@ Rural mobile coverage in Germany has long been criticised by domestic media and 
 
 ### Signal Challenges on ICE Trains
 
-ICE trains travel through the countryside at 300 km/h. Your phone has to switch between base stations at high speed, and combined with coverage gaps in tunnels and remote sections, you'll experience **short disconnections** along the route. Although Deutsche Bahn and operators are continuously improving coverage, "can't load maps on the train" remains a real experience for many tourists.
+ICE trains travel through the countryside at 300 km/h. Your phone has to switch between base stations at high speed, and combined with coverage gaps in tunnels and remote sections, you'll experience **short disconnections** along the route. Although Deutsche Bahn and operators are continuously improving coverage, "can't load maps on the train" remains a real experience for many tourists. It's a striking contrast with Japan, where Shinkansen carriages carry signal repeaters and hold full-bar 5G at similar speeds (see our [Japan eSIM guide](/blog/airalo-japan-esim-guide/)).
 
 ### Two Technical Features That Help
 
@@ -401,7 +403,7 @@ ICE trains travel through the countryside at 300 km/h. Your phone has to switch 
 
 **Second, multi‑network automatic switching.** A single‑network eSIM locks you to Telekom or O2—once you drive into its coverage hole, you're "offline." A multi‑network switching eSIM (like Roami) automatically picks the strongest signal among Telekom / Vodafone / O2, filling in as many of these holes as possible.
 
-> **Key Conclusion**: In Germany, "not dropping out" is more important than "being faster." A [multi‑network Germany eSIM](/germany-esim/) uses one plan to access multiple networks—the simplest way to deal with Funkloch and ICE disconnections.
+> **Key Conclusion**: In Germany, "not dropping out" is more important than "being faster." A uses one plan to access multiple networks—the simplest way to deal with Funkloch and ICE disconnections.
 
 ## Germany eSIM vs Local SIM vs Roaming (Including ID Verification)
 
@@ -431,7 +433,7 @@ ICE trains travel through the countryside at 300 km/h. Your phone has to switch 
 ## Device Compatibility Checklist (Pay Special Attention to Band 20)
 
 - **International phones (purchased in Europe/US)**: Most support eSIM and Band 20—ready to use.
-- **Mainland China iPhones / Chinese Android**: Mainland iPhones (XS and later) support eSIM, but some Chinese Android models have eSIM disabled—check your model before buying.
+- **Mainland China iPhones / Chinese Android**: Mainland‑China iPhones mostly **don't** support eSIM – Apple officially enables it only on the iPhone 18 Pro, 18 Pro Max, 17e, and iPhone Air in mainland China; most Hong Kong/Macao models ship with dual physical SIM slots instead. Some Chinese Android models have eSIM disabled—check our [eSIM compatible devices list](/compatibility/) before buying.
 - **US‑spec / older models check Band 20**: Some older US‑spec or carrier‑customised phones may not support Band 20 (800MHz)—they'll suffer in rural Germany; verify before purchase.
 - **Carrier‑locked phones**: US carrier‑locked phones may lock eSIM too—unlock first.
 - **eSIM‑only models** (US iPhone 14+): No physical SIM slot—actually the best fit for eSIM.
@@ -473,7 +475,7 @@ Airalo is the world's largest eSIM platform, with very granular tiers in Germany
 
 **Q9: Is Holafly Germany eSIM unlimited worth it?**
 
-Depends on usage. Holafly Germany offers only unlimited at $3.90/day. If you stream 2+ hours of HD video daily and use over 3GB/day, unlimited pays off; otherwise, Roami's fixed or unlimited plans can save you more than half.
+Depends on usage. Holafly Germany offers only unlimited at $3.97/day. If you stream 2+ hours of HD video daily and use over 3GB/day, unlimited pays off; otherwise, Roami's fixed or unlimited plans can save you more than half.
 
 **Q10: Why are Roami Germany's 10GB and unlimited the same price?**
 
@@ -485,7 +487,7 @@ It varies by brand. Roami supports unlimited hotspot; Airalo supports hotspot; H
 
 **Q12: Can a Germany eSIM be used in Austria / Switzerland?**
 
-Usually not. Germany eSIMs typically cover only Germany proper. Neighbouring countries like Austria, Switzerland, and the Czech Republic require separate country eSIMs or a Europe regional eSIM. Check coverage before departure.
+Usually not. Germany eSIMs typically cover only Germany proper. Neighbouring countries like Austria, Switzerland, the Czech Republic, or France require separate country eSIMs (see our [Airalo France eSIM guide](/blog/airalo-france-esim-guide/)) or a Europe regional eSIM. Check coverage before departure.
 
 **Q13: Which is better, local SIM or eSIM in Germany?**
 
@@ -493,7 +495,7 @@ Depends on your core need. Local SIM is cheaper but requires on‑site purchase 
 
 **Q14: How much does a Germany eSIM cost per day?**
 
-Using Roami discounted prices: 7‑day 10GB ~$1.14/day, 15‑day 20GB ~$1.01/day, 30‑day 50GB ~$1.07/day—more than two‑thirds cheaper than Holafly's $3.90/day.
+Using Roami discounted prices: 7‑day 10GB ~$1.14/day, 15‑day 20GB ~$1.01/day, 30‑day 50GB ~$1.07/day—more than two‑thirds cheaper than Holafly's $3.97/day.
 
 **Q15: How long does 1GB last in Germany?**
 
@@ -535,13 +537,21 @@ Still not sure? [View all Roami Germany eSIM plans →](/germany-esim/)
 - **Choose the right brand for hotspot**: For families/multi‑person travel, choose Roami (unlimited) or Airalo (supported)—avoid Holafly (1GB/day limit).
 - **Screenshot and save your QR code**: Save the eSIM QR code screenshot to your photos or cloud drive, in case the email is lost and you can't reinstall.
 
+## Combining a Germany eSIM With Neighbouring Countries
+
+Germany is usually one stop on a European itinerary. If you are adding countries, these guides cover the differences:
+
+- [Turkey's eSIM block policy, explained](/blog/airalo-turkey-esim-guide/) matters if your route continues east.
+- Our [Spain eSIM comparison](/blog/airalo-spain-esim-guide/) covers the Iberian leg on the same regional pass.
+- For the next long-haul stop, see [how a China eSIM reaches Google and WhatsApp](/blog/airalo-china-esim-guide/).
+
 ## Our Data Sources
 
 | Organisation | Purpose | Link |
 |--------------|---------|------|
-| BNetzA (German Federal Network Agency) | German telecom regulation / ID verification policy | https://www.bundesnetzagentur.de/ |
-| Opensignal | German 5G coverage / mobile experience | https://www.opensignal.com/ |
-| Ookla Speedtest | German mobile speeds | https://www.speedtest.net/global-index/germany |
-| GSMA | eSIM industry standards | https://www.gsma.com/ |
+| BNetzA (German Federal Network Agency) | German telecom regulation / ID verification policy | [bundesnetzagentur.de](https://www.bundesnetzagentur.de/DE/Vportal/TK/start.html) |
+| Ookla Speedtest | German mobile speeds | [Speedtest Global Index – Germany](https://www.speedtest.net/global-index/germany) |
+| GSMA | eSIM industry standards | [GSMA eSIM specification](https://www.gsma.com/solutions-and-impact/technologies/esim/) |
+| Apple | eSIM device support | [Apple eSIM support](https://support.apple.com/en-us/109317) |
 
 *Price data as of September 2026, based on brand official websites.  

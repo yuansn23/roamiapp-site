@@ -93,7 +93,7 @@ This guide walks through setup from start to finish: what an eSIM is, whether Th
 
 An eSIM (embedded SIM) is a digital SIM soldered onto your phone’s motherboard. Instead of inserting a physical card into a tray, you download a network profile directly to your phone by scanning a QR code — the process usually takes under two minutes. The eSIM standard is maintained by the [GSMA](https://www.gsma.com/esim/esim-specification/), and Apple publishes a plain-language overview in its [eSIM support article](https://support.apple.com/en-us/118669).
 
-Thailand fully supports eSIM. All three major operators — **AIS**, **TrueMove H**, and **DTAC** — offer eSIM for tourists and locals alike. Since the 2023 merger, DTAC and TrueMove H now form **True Corp**, so the market is effectively a duopoly of **AIS** and **True Corp**. Every travel eSIM you buy ultimately runs on one of these two networks.
+Thailand fully supports eSIM. All three major operators — **AIS**, **TrueMove H**, and **DTAC** — offer eSIM for tourists and locals alike. Since the 2023 merger, DTAC and TrueMove H now form **True Corp**, so the market is effectively a duopoly of **AIS** and **True Corp**. Whichever travel eSIM you pick, it rides on one of those two networks under the hood.
 
 If your phone shows an **EID number** when you dial `*#06#`, it supports eSIM.
 
@@ -122,7 +122,7 @@ You manage the eSIM in **Settings → Cellular / Mobile Data**. It lives inside 
 
 ## Thailand eSIM Compatible Phones: Device Checklist
 
-**In short:** Most iPhones from XS/XR onward, Samsung Galaxy S20 and newer, and Google Pixel 3 and newer support eSIM. China-market iPhones do **not**. Dial `*#06#` — if you see an EID number, your phone supports eSIM.
+**In short:** Most iPhones from XS/XR onward, Samsung Galaxy S20 and newer, and Google Pixel 3 and newer support eSIM. Most China-market iPhones historically did not, but newer models now do — run the EID check below to be sure. Dial `*#06#` — if you see an EID number, your phone supports eSIM.
 
 | Brand | eSIM-compatible models |
 |-------|-------------------------|
@@ -133,9 +133,9 @@ You manage the eSIM in **Settings → Cellular / Mobile Data**. It lives inside 
 | **Xiaomi** | Some global models (e.g. 13, 14 series); Chinese versions usually don’t support eSIM |
 | **OPPO / vivo** | Some flagship models |
 
-**⚠️ China-market iPhones do NOT support eSIM.** iPhones sold in mainland China, including Hong Kong versions, lack eSIM capability. If you bought your iPhone in China, use a physical SIM or confirm support before buying. Carrier-locked phones — such as US AT&T or T-Mobile contract phones — also cannot use another carrier’s eSIM.
+**⚠️ China-market iPhones: check before you buy.** For years, iPhones sold in mainland China — including Hong Kong versions — shipped without eSIM capability. That changed in September 2026, when Apple began enabling eSIM on newer China-market models such as the iPhone 18 Pro, iPhone 18 Pro Max, iPhone 17e, and iPhone Air. Older China-market iPhones still lack eSIM support, so the EID check below — not where your phone was bought — is the deciding factor. Carrier-locked phones — such as US AT&T or T-Mobile contract phones — also cannot use another carrier’s eSIM.
 
-**Quick check:** Dial `*#06#`. If you see an **EID number** (a 32-character code), your phone supports eSIM. No EID means no eSIM support.
+**Quick check:** Dial `*#06#`. If you see an **EID number** (a 32-character code), your phone supports eSIM. No EID means no eSIM support. For a full model-by-model list, see our [eSIM compatible devices page](/compatibility/).
 
 > Need device-specific help? Read the **[iPhone 16 eSIM activation guide](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)** or the **[iPhone 11 setup guide](/faq/iphone-11-esim-compatible/)**.
 
@@ -167,7 +167,7 @@ Before you buy, confirm your phone supports eSIM (`*#06#`) and is unlocked, then
 
 ### Thailand eSIM Pre-Installation Checklist
 
-1. **Confirm your phone supports eSIM** — dial `*#06#` and look for an EID number.
+1. **Confirm your phone supports eSIM** — dial `*#06#` and look for an EID number. (For in-app install vs QR email, our [best eSIM apps guide](/blog/best-esim-apps-how-to-buy-and-install-esim/) has the comparison.)
 2. **Confirm your phone is unlocked** — carrier-locked phones cannot use another carrier’s eSIM.
 3. **Have stable Wi-Fi** — installation downloads the profile over the internet. Scan the QR code and download the profile at home.
 
@@ -181,9 +181,9 @@ After purchase, the platform emails you a QR code or manual-entry details:
 - **Activation code** — a unique code for your eSIM
 - **QR code** — the easiest way to install
 
-**Screenshot the QR code** and save it to your photos. If you can’t access email after landing, you can still install from your photos.
+**Screenshot the QR code** to your camera roll. If you can’t access email after landing, you can still install from that saved image.
 
-> Some plans, especially free trials, require you to wait until you arrive to install — otherwise the timer starts early. Read the provider’s instructions carefully.
+> Some plans, especially [free trial eSIMs](/free-esim/), require you to wait until you arrive to install — otherwise the timer starts early. Read the provider’s instructions carefully.
 
 ### Thailand eSIM QR Code Won’t Scan? Quick Fixes
 
@@ -223,8 +223,8 @@ Thai operator eSIMs need to connect to a Thai network to complete registration. 
 
 **Important notes:**
 - QR codes are typically **valid for 30 days**.
-- Plan validity starts from **activation (installation)**, not purchase.
-- The day you scan the QR code counts as day 1 (Thailand time, GMT+7).
+- Plan validity starts from **activation**, not purchase — and for most travel eSIM platforms, including Roami, the countdown starts from your **first data connection**, not the moment you install the profile.
+- On Thai operator eSIMs, the day you activate on a Thai network counts as day 1 (Thailand time, GMT+7).
 
 **Key takeaway:** Do not activate outside Thailand. If activation fails, do not delete the eSIM — retry after landing.
 
@@ -264,6 +264,8 @@ Thai operators have different activation requirements. This section only covers 
 | **AIS** | Yes — passport verification before departure | Complete verification within 24 hours before departure; keep the eSIM active about 40 minutes to receive the confirmation SMS |
 | **TrueMove H** | Yes — passport registration at purchase | Some third-party plans require registration before activation |
 | **DTAC** | Yes — passport registration at purchase | Same network as TrueMove H after the merger |
+
+These registration requirements follow Thailand’s [NBTC](https://www.nbtc.go.th/) rules for prepaid SIM and eSIM users.
 
 > **Important:** AIS eSIM verification must be done **within 24 hours before departure**. Too early, and the eSIM may expire before you arrive.
 
@@ -369,7 +371,7 @@ If your eSIM doesn’t connect after arrival, work through these in order:
 | **“No service” after installation** | Network not selected or Data Roaming off | Enable Data Roaming, select AIS or True manually |
 | **“Connected but no internet”** | APN issue | Check APN settings, restart |
 
-> **Pro tip:** Screenshot the QR code and save the SM-DP+ address and activation code in your notes app — if the email is lost, you can still install manually.
+> **Pro tip:** Screenshot the QR code and back up the manual installation details (the SM-DP+ string) — if the purchase email is lost, you can still install manually.
 
 **Key takeaway:** Match the error to the fix. Most activation errors outside Thailand resolve after landing.
 
@@ -469,7 +471,7 @@ Do not delete it. Most providers will not reissue the QR code. Keep the profile 
 
 ## eSIM Transfer, Deletion, and Recovery
 
-**In short:** Some providers support eSIM transfer, but many Thailand travel eSIMs are tied to the first device. If you delete by mistake, you usually cannot reinstall it. Contact support immediately.
+**In short:** Some providers support eSIM transfer, but many Thailand travel eSIMs are tied to the first device. If you delete by mistake, you usually cannot reinstall it. Contact support immediately. Plan for this before you buy: Airalo and Holafly QR codes are single-use, while Saily explicitly allows up to five reinstalls on the same device — a meaningful safety net if your phone is lost or reset mid-trip.
 
 **Can I transfer my Thailand eSIM to a new phone?**
 Some providers support eSIM transfer, but many Thailand travel eSIMs are tied to the first device. If you are upgrading phones, check with your provider before deleting the old profile. For cross-platform transfer, see the **[2026 Cross-Platform eSIM Transfer guide](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
@@ -522,7 +524,7 @@ If it does not work, go back to the **Thailand eSIM Not Working? 10 Fixes** sect
 
 ## Regional Travel: Thailand eSIM vs Asia eSIM
 
-**In short:** Most Thailand eSIM plans work only in Thailand. For multi-country trips, buy a separate eSIM for each country or choose a regional Asia eSIM from Airalo, Nomad, Ubigi, or Saily.
+**In short:** Most Thailand eSIM plans work only in Thailand. For multi-country trips, buy a separate eSIM for each country or choose a regional Asia eSIM from Airalo, Nomad, Ubigi, or Saily. Heading further afield — say, on to Australia — needs its own country plan; our [Australia eSIM guide](/blog/buy-australia-esim-guide/) is the deep dive for that market.
 
 Most Thailand eSIM plans work only in Thailand. If your trip includes Vietnam, Laos, Cambodia, Singapore, or Malaysia, you have two options:
 
