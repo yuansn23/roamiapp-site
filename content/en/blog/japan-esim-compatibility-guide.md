@@ -54,6 +54,7 @@ recentPosts:
 ---
 
 
+Whether your phone supports eSIM in Japan depends less on the model than on where you bought it, because regional firmware and carrier variants change the answer for identical handsets. A mainland China iPhone and many Taiwanese, Hong Kong and Korean Samsung variants have no eSIM capability at all, while an international iPhone or a non-carrier Google Pixel 6 or newer almost always works, provided the phone is carrier-unlocked. The good news is that verification takes under 60 seconds: dial *#06# and look for a 32-digit EID, and if it is there, your device can hold an eSIM profile. This guide covers what works, what does not, and the alternatives if your phone fails the check.
 
 ## Introduction: Does Your Phone Support eSIM in Japan?
 

@@ -68,6 +68,10 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
+
+
+Most travel eSIMs give you data only, which means no real Turkish phone number, and the search results for Turkey eSIM with a number contradict each other because providers use the word in different ways. A few advertise virtual numbers that cannot receive SMS from Turkish banks, while others are simply data-only and rely on VoIP apps such as WhatsApp or FaceTime for calls. This guide explains the difference between an IMSI and an MSISDN, when you genuinely need a Turkish number, how Wi-Fi Calling can carry your home number over the eSIM's data connection, and what every major provider's hotspot policy allows before you tether.
+
 ## Turkey eSIM with Number, Calls, SMS & Hotspot: What Works
 
 Most travel eSIMs give you data only — no Turkish phone number. This guide explains how to make calls, receive SMS, and use a hotspot when your eSIM has no number of its own.

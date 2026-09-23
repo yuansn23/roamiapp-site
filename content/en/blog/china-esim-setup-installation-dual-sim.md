@@ -1,9 +1,9 @@
 ﻿---
 title: "China eSIM Setup: iPhone and Android Dual SIM Guide"
-description: "China eSIM setup for iPhone and Android: check compatibility, dual SIM, APN settings, data roaming, and VPN step by step."
+description: "China eSIM setup for iPhone and Android: check compatibility, configure dual SIM and APN settings, and activate your plan step by step."
 keywords: ["China eSIM setup", "install China eSIM iPhone", "China eSIM dual SIM", "China eSIM APN settings", "China eSIM Android"]
-date: 2026-08-24T00:00:00Z
-lastmod: 2026-08-24T00:00:00Z
+date: 2026-09-18T00:00:00Z
+lastmod: 2026-09-18T00:00:00Z
 author: "Roami Team"
 authorBio: "Roami offers reliable eSIM plans, serving over 1 million travelers annually, and supports automatic local network switching to help travelers stay connected globally."
 image: "/img/esim/china/china-esim-setup-installation-dual-sim.jpg"
@@ -49,9 +49,9 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
-This guide covers how to install an eSIM for China in about 10 minutes — but you need to do it before your flight. After you activate your China eSIM on landing, data starts flowing within 60 seconds. Start by purchasing a plan online, then scan the QR code on your iPhone or Android. Set up dual SIM mode to keep your home number active for SMS while the eSIM handles data. This guide walks you through compatibility checks, iPhone and Android setup, APN configuration, hotspot tethering, and common troubleshooting fixes. For official device lists, visit [Apple Support](https://support.apple.com/en-us/HT212780). The [GSMA](https://www.gsma.com) maintains eSIM technical specifications.
+This guide covers how to install an eSIM for China in about 10 minutes — but you need to do it before your flight. After you activate your China eSIM on landing, data starts flowing within 60 seconds. Start by purchasing a plan online, then scan the QR code on your iPhone or Android. Set up dual SIM mode to keep your home number active for SMS while the eSIM handles data. This guide walks you through compatibility checks, iPhone and Android setup, APN configuration, hotspot tethering, and common troubleshooting fixes. For official device lists, visit [Apple Support](https://support.apple.com/en-us/HT212780). The [GSMA](https://www.gsma.com/solutions-and-impact/technologies/esim/) maintains eSIM technical specifications.
 
-If you're new to eSIM technology entirely, [Wikipedia's eSIM overview](https://en.wikipedia.org/wiki/eSIM) explains the specification —a SIM profile embedded in your device's chip that can be rewritten over the air without swapping physical cards. If this is your first time using a travel eSIM, start with the [China eSIM first-time beginners guide](/blog/china-esim-first-time-beginners-guide/) before you dive into setup.
+If you're new to eSIM technology entirely, [GSMA's eSIM specification](https://www.gsma.com/solutions-and-impact/technologies/esim/) explains the specification —a SIM profile embedded in your device's chip that can be rewritten over the air without swapping physical cards. If this is your first time using a travel eSIM, start with the [China eSIM first-time beginners guide](/blog/china-esim-first-time-beginners-guide/) before you dive into setup.
 
 ---
 
@@ -83,14 +83,14 @@ Samsung introduced eSIM support with the **Galaxy S20 series** in 2020. Compatib
 
 **Carrier-locked US models are the main problem.** A Samsung Galaxy S23 purchased through AT&T or Verizon may have eSIM locked to that carrier. You need to either request an unlock from your carrier or check the IMEI with your eSIM provider before purchasing. Samsung phones sold in South Korea, Europe, and most of Asia are generally unlocked.
 
-[Check Samsung Galaxy eSIM compatibility (Samsung Support)](https://www.samsung.com/global/galaxy/what-is/esim/)
+[Check Samsung Galaxy eSIM compatibility (Samsung Support)](https://www.samsung.com/ae/support/mobile-devices/how-to-use-and-set-up-esim/)
 
 **Google Pixel**
 Google Pixel phones support eSIM from the **Pixel 4** onward (including Pixel 4a, 5, 5a, 6, 6a, 7, 7a, 8, 8a, 9, 9 Pro, 9 Pro XL, and all future models). Pixel phones are universally unlocked if purchased from the Google Store. Carrier-locked models from Verizon may have restrictions.
 
 Pixel is the easiest Android device for China eSIM setup because the settings menu is consistent across versions and Google's eSIM implementation follows the [GSMA technical standard](https://www.gsma.com/solutions-and-impact/technologies/esim/) without manufacturer customizations —meaning fewer APN problems and more reliable profile downloads.
 
-[Set up eSIM on Pixel (Google Support)](https://support.google.com/pixelphone/answer/12846965)
+[Set up eSIM on Pixel (Google Support)](https://support.google.com/pixelphone/answer/14853135)
 
 **Huawei**
 Huawei phones from the **P40 series onward** (including Mate 40, Mate 60, P50, P60, and all newer models) have eSIM hardware but cannot install eSIM profiles normally due to US sanctions that removed Google Mobile Services and the standard eSIM activation flow. Workarounds exist (using a second phone to scan the QR code and transferring the profile via backup, or using Huawei's own eSIM app on newer HarmonyOS versions), but they are unreliable. If you use a Huawei phone, consider a physical SIM or pocket WiFi as your primary connectivity solution.
@@ -112,7 +112,7 @@ Open the phone dialer and type `*#06#`. If your phone supports eSIM, you'll see 
 - Pixel: Settings > About Phone > SIM Status > look for EID
 
 **Method 3: Use a provider's compatibility checker**
-Most eSIM providers including [free eSIM service](/free-esim/) let you enter your phone model or IMEI to confirm support before purchase.
+Most eSIM providers let you enter your phone model or IMEI to confirm support before purchase — Roami's [free eSIM trial](/free-esim/) includes this check at no cost. For the full model-by-model breakdown, our [eSIM compatibility list](/compatibility/) covers every supported iPhone, Samsung, and Pixel generation.
 
 **Carrier Unlock Status**
 Even with an eSIM-compatible phone, your device must be carrier-unlocked. A phone locked to T-Mobile USA, for example, will reject any eSIM profile that isn't from T-Mobile. To check:
@@ -138,7 +138,7 @@ A few options at a glance:
 
 | Provider | Price Range (7 days) | VPN Included | Best For |
 |----------|---------------------|-------------|----------|
-| Roami | $18-$50 | Hong Kong routing | Reliability across regions |
+| Roami | $1.99-$39.99 | International routing | Reliability across regions |
 | Saily | $20-$45 | Virtual Location | Privacy-conscious users |
 | Holafly | $27-$50 | Yes | Unlimited data |
 | Airalo | $15-$25 | No | Budget travelers |
@@ -196,8 +196,8 @@ On **Google Pixel**:
 
 **Important:** APN settings are per-line. If you have two eSIMs active, make sure you're editing the correct line.
 
-**Step 4: Install a VPN Before You Leave**
-Do you need to install a VPN before arriving in China? Absolutely. **VPN installation before arrival** is absolutely critical — VPN websites, app store listings for VPN apps, and VPN protocol endpoints are blocked inside China, and you can't download a VPN after arrival.
+**Step 4: Check Your Plan's Routing Before You Leave**
+Do you need to sort out your routing before arriving in China? Yes. **Choose and install your plan before you fly** — provider dashboards, app store listings and activation guides are all easier to reach from outside mainland networks, and swapping plans after arrival is far harder.
 
 This applies even if your China eSIM provider claims to include built-in VPN routing. The routing works for most traffic, but having a standalone VPN app installed gives you a fallback if your eSIM's routing changes or if you need to access a service that requires a specific exit point.
 
@@ -207,7 +207,7 @@ This applies even if your China eSIM provider claims to include built-in VPN rou
 - Create an account and log in before departure
 - Download offline configuration files (OpenVPN) as a backup in case the app itself has issues
 
-For a full breakdown of which VPNs work best with China eSIM and how the Great Firewall interacts with different routing paths, read the [China eSIM VPN and firewall guide](/blog/china-esim-vpn-firewall-guide/).
+For a full breakdown of how routing paths differ with a China eSIM and how the Great Firewall interacts with each one, read the [China eSIM VPN and firewall guide](/blog/china-esim-vpn-firewall-guide/).
 
 **Step 5: Enable Data Roaming**
 Data roaming must be turned on for the China eSIM to work. This is counterintuitive —you are not "roaming" in the traditional sense —but the eSIM profile treats the China Mobile connection as a roaming partner.
@@ -405,7 +405,7 @@ Some travelers remove their home SIM entirely and rely solely on the eSIM. This 
 
 Data roaming must be enabled for any travel eSIM to function. Always enable data roaming for your China eSIM before your flight lands — this isn't optional. The eSIM connects to a local carrier (China Mobile, China Unicom, or China Telecom) as a roaming partner of the eSIM provider's home network. Without data roaming, the phone will not allow data traffic over that connection.
 
-For pricing and plan comparisons, see the [China eSIM pricing](/blog/china-esim-price-plan-purchase-guide/).
+For pricing and plan comparisons, see the [China eSIM pricing](/blog/china-esim-price-plan-purchase-guide/). If you have never used an eSIM before, start with the [China eSIM beginner's guide](/blog/china-esim-first-time-beginners-guide/).
 
 The settings paths are covered in the sections above, but the key point is repeatable because it's the single most common cause of "why does my China eSIM have no signal":
 
@@ -588,7 +588,7 @@ For a comprehensive guide to setting up every app you'll need in China, includin
 Running out of data in the middle of a China trip is inconvenient. Here is how to top up your China eSIM data mid-trip if you run low — plan ahead, because the provider's website may be blocked, and you can't easily buy more data without a working connection.
 
 **Automatic Top-Up**
-If you're using [buy a China eSIM](/china-esim/), the platform monitors your data usage and can automatically top up your plan when you reach 10% remaining. This is the most reliable approach because it requires no action on your part —You won't find yourself stranded without data at a train station.
+If you're using a [China eSIM](/china-esim/) provider with auto top-up, the platform monitors your data usage and can automatically top up your plan when you reach 10% remaining. This is the most reliable approach because it requires no action on your part —You won't find yourself stranded without data at a train station.
 
 **Manual Top-Up**
 Most providers allow manual top-up either through their app or website:
@@ -646,7 +646,7 @@ Even with careful preparation, things can go wrong. Common activation problems c
 2. Verify APN settings match your provider's requirements
 3. Toggle Airplane Mode on and off to force a fresh network connection
 4. If using a separate VPN, try disabling it temporarily to isolate the issue
-5. Open a browser and visit a Chinese website (like baidu.com) —if that loads but google.com does not, your routing is not working and you need a VPN
+5. Open a browser and visit a Chinese website (like baidu.com) —if that loads but google.com does not, your routing is not working — check your plan's routing details
 
 **Problem: Internet Works but Google / WhatsApp Are Blocked**
 
@@ -654,7 +654,7 @@ Even with careful preparation, things can go wrong. Common activation problems c
 
 **Fix:**
 1. Check your IP address at whatismyip.com
-2. If the IP shows a Chinese location, your eSIM is routing locally —you need a VPN
+2. If the IP shows a Chinese location, your eSIM is routing locally —check your plan's routing details
 3. Open your VPN app and connect to a Hong Kong, Singapore, or US server
 4. If you don't have a VPN installed, use a web-based proxy temporarily or find a public WiFi and download one
 
@@ -665,7 +665,7 @@ Even with careful preparation, things can go wrong. Common activation problems c
 **Fix:**
 1. Switch between 4G and 5G in cellular settings
 2. Move to a different location (speed can vary significantly within a single building)
-3. If using a VPN, try a different server or protocol (WireGuard is typically faster than OpenVPN)
+3. If your plan includes extra security software, try a different server or protocol (WireGuard is typically faster than OpenVPN)
 4. Contact your provider's support —some have the ability to "refresh" your connection on their end
 
 **Problem: "No SIM" or "Invalid SIM" Error**
@@ -714,10 +714,10 @@ Technically yes, but it's strongly discouraged. Here is why:
 
 ## Choosing the Best China eSIM Plan with VPN
 
-To choose the best plan with firewall bypass, compare Saily, Jetpac, and Roami. If you want a single solution that handles both connectivity and Great Firewall bypass, pick a provider with built-in bypass (Saily's Virtual Location or Jetpac's VPN) or Hong Kong routing (Roami).
+To choose the best plan with international routing, compare Saily, Jetpac, and Roami. If you want a single solution that handles both connectivity and Great Firewall routing, pick a provider with built-in routing (Saily's Virtual Location or Jetpac's VPN) or Hong Kong routing (Roami).
 
-**Providers with Built-In Firewall Bypass**
-- **[get a China eSIM](/china-esim/):** Automatic carrier switching plus Hong Kong routing included. Roami monitors real-time network conditions across China Mobile, China Unicom, and China Telecom and picks the strongest carrier. The Hong Kong routing ensures Google, WhatsApp, and Instagram work without a separate app. If you need help during installation, Roami offers 24/7 live support with actual humans who understand China's network quirks.
+**Providers with Built-In International Routing**
+- **[Roami's China eSIM](/china-esim/):** Automatic carrier switching plus Hong Kong routing included. Roami monitors real-time network conditions across China Mobile, China Unicom, and China Telecom and picks the strongest carrier. The Hong Kong routing ensures Google, WhatsApp, and Instagram work without a separate app. If you need help during installation, Roami offers 24/7 live support with actual humans who understand China's network quirks.
 
 - **Saily:** Backed by NordVPN infrastructure. The Virtual Location routing is transparent — you install the eSIM and traffic routes through Nord's servers without needing to open a separate app.
 
@@ -788,7 +788,7 @@ And if you're still deciding which provider to choose, start with the [complete 
 
 ---
 
-*Last updated: July 2026. Prices and plan details are subject to change. Always verify the latest APN settings and plan terms on your provider's website before departure.*
+*Last updated: September 2026. Prices and plan details are subject to change. Always verify the latest APN settings and plan terms on your provider's website before departure.*
 
 
-See [Apple Support](https://support.apple.com/en-us/HT212780) for eSIM-compatible devices. The [GSMA](https://www.gsma.com) defines global eSIM standards.
+See [Apple Support](https://support.apple.com/en-us/HT212780) for eSIM-compatible devices. The [GSMA](https://www.gsma.com/solutions-and-impact/technologies/esim/) defines global eSIM standards.

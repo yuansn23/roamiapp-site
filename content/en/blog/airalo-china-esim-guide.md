@@ -79,20 +79,19 @@ This article revolves around this core difference: Which of China's three major 
 
 > **⏱️ 30‑Second Summary: How to Choose a China eSIM?**
 >
-> - **The most critical point**: on mainland local networks Google / WhatsApp / Instagram / Gmail are not reachable; **travel eSIMs use international routing, so these apps work on arrival** (see the routing section below).
-> - **Where the value sits**: Roami's discounted line undercuts both rivals across the board—7-day 10GB lands at $9.59, which is 61% below Airalo's comparable tier ($24.50) and 65% below Holafly's unlimited ($27.50).
-> - **Which network to choose**: China Unicom and China Mobile are both strong in the cities; Roami's automatic switching simply hands you whichever is strongest where you happen to be standing.
-> - **Is unlimited worth it?** For most people, no—Roami China doesn't even offer unlimited; fixed‑data tiers are much cheaper (see "Value Behind the Prices" below).
-> - **Bottom line**: three to seven days → Roami 3–10GB; a 10–15 day multi-city run → 20–30GB; a long stay → 50GB. Reserve Airalo or Holafly unlimited only for travellers who refuse to think about data at all.
+> - **The most critical point**: on mainland local networks Google, WhatsApp, Instagram and Gmail do not load; **travel eSIMs use international routing, so those apps work from the moment you land.**
+> - **Where the value sits**: Roami's discounted line undercuts both rivals across the board—7-day 10GB at **$9.59**, roughly 61% below Airalo's comparable tier ($24.50) and 65% below Holafly's unlimited ($27.50).
+> - **Which network**: China Unicom and China Mobile are both strong in cities; automatic switching hands you whichever is strongest where you stand.
+> - **Is unlimited worth it**: for most people, no—Roami China does not offer unlimited at all, and fixed‑data tiers are far cheaper.
+> - **Bottom line**: 3–7 days → 3–10GB; a 10–15 day multi-city run → 20–30GB; long stays → 50GB.
 
 > **⚡ Quick Decision Zone: Pick by Your Travel Style**
 >
-> - **Beijing / Shanghai city trip (3‑5 days)** → Roami 3‑5GB, good city signal, from $1.59 (see 3‑day / 7‑day plans)
-> - **Xi'an / Guilin / Chengdu (5‑7 days)** → Roami 5‑10GB, multi‑network auto‑switches between Unicom and Mobile (see 7‑day plans / scenario recommendations)
-> - **Multi‑city tour (10‑15 days)** → Roami 20‑30GB, per‑GB as low as $0.77 (see 15‑day / 30‑day plans)
-> - **Business travel (3-7 days)** → Roami 5–10GB; it is live on landing, so there is no detour for ID registration (see scenario recommendations / comparison)
-> - **Don't want to think about data at all** → Airalo Unlimited (7-day $27) or Holafly Unlimited ($3.97/day), though both cost more than a fixed tier for most itineraries (see 7-day plans)
-> - **Extremely tight budget** → Roami 1GB/7‑day discounted $1.59, the lowest price (see 3‑day plans)
+> - **Beijing / Shanghai city trip (3‑5 days)** → Roami 3‑5GB, good city signal, from $1.59
+> - **Xi'an / Guilin / Chengdu (5‑7 days)** → Roami 5‑10GB; auto-switches between Unicom and Mobile
+> - **Multi‑city tour (10‑15 days)** → Roami 20‑30GB, per‑GB as low as $0.77
+> - **Business travel (3‑7 days)** → Roami 5–10GB, live on landing with no ID-registration detour
+> - **Extremely tight budget** → Roami 1GB/7‑day at $1.59
 
 ## Three Shifts Reshaping China's eSIM Market in 2026
 

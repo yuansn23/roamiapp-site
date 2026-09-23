@@ -83,20 +83,19 @@ This article revolves around this core difference: which of the three major US o
 
 > **⏱️ 30-Second Summary: How to Choose Your USA eSIM?**
 >
-> - **The biggest catch**: Airalo / Holafly / Roami—the three major travel eSIMs—**do not include a US phone number**. For ride-hailing, food delivery, and verification codes, you'll need alternative solutions (see phone number section below).
-> - **Value champion**: Roami's discounted price is the lowest overall—7 days 10GB for $8.79, 59% cheaper than Airalo's equivalent ($21.50) and 68% cheaper than Holafly's unlimited ($27.50).
-> - **Which network**: T-Mobile 5G for cities, Verizon for national parks/road trips; Roami's multi-network switching automatically picks the strongest signal.
-> - **Is unlimited worth it**: For most people, no—only "heavy video streamers" using over 2GB/day need it (see the value section below).
-> - **Final takeaway**: For 3-7 days in cities, get Roami 3-10GB; for road trips/national parks, get 10-20GB; for month-long stays, get 50GB. If you need a US number, go with "data eSIM + Google Voice."
+> - **The biggest catch**: Airalo, Holafly and Roami are all **data-only—none includes a US phone number**, so ride-hailing, food delivery and SMS verification codes need a workaround such as Google Voice.
+> - **Value champion**: Roami's discounted price is lowest overall—7 days 10GB for **$8.79**, about 59% below Airalo's equivalent ($21.50) and 68% below Holafly's unlimited ($27.50).
+> - **Which network**: T-Mobile 5G in cities, Verizon for national parks and road trips; multi-network switching picks the strongest signal automatically.
+> - **Is unlimited worth it**: for most people, no—it only pays off for heavy video streamers using over 2GB/day.
+> - **Bottom line**: 3–7 days in cities → 3–10GB; road trips and national parks → 10–20GB; month-long stays → 50GB.
 
 > **⚡ Quick Decision Zone: Conclusions Based on Your Trip Type**
 >
-> - **East/West Coast city trip (3-7 days)** → Roami 3-10GB, T-Mobile 5G in cities, from $3.19 (see 3-day / 7-day plans)
-> - **National parks / Route 66 road trip (7-15 days)** → Roami 10-20GB, multi-network auto-switches to Verizon (see operator analysis / scenario recommendations)
-> - **Need a US phone number (ride-hailing / food delivery)** → Data eSIM + Google Voice, see phone number section
-> - **Month-long stay / remote work** → Roami 50GB, just $0.64/GB (see 30-day plans)
-> - **Don't want to worry about data (short-term)** → Holafly unlimited from $3.97/day, but hotspot limited to 1GB/day (see brand price comparison / 7-day plans)
-> - **Strictest budget** → Roami 1GB/7 days discounted at $1.59, lowest price overall (see 3-day plans)
+> - **East/West Coast city trip (3-7 days)** → Roami 3-10GB, T-Mobile 5G in cities, from $3.19
+> - **National parks / Route 66 road trip (7-15 days)** → Roami 10-20GB; auto-switches to Verizon where T-Mobile thins out
+> - **Need a US phone number (ride-hailing / food delivery)** → data eSIM + Google Voice
+> - **Month-long stay / remote work** → Roami 50GB, about $0.64/GB
+> - **Strictest budget** → Roami 1GB/7 days at $1.59
 
 ## US eSIM Market: What's New in 2026
 

@@ -79,20 +79,19 @@ Three questions decide a UK trip: which of the four networks actually reaches wh
 
 > **⏱️ 30-second summary: How to choose your UK eSIM?**
 >
-> - **The key issue**: Post-Brexit, EU mobile cards usually charge roaming in the UK; **a UK eSIM works on arrival, avoiding these fees** (see the Brexit roaming section below).
-> - **Value champion**: Roami's discounted line is the cheapest across the board—7 days 10GB for $7.99, 56% under Airalo's equivalent ($18.00) and 71% under Holafly's unlimited ($27.50).
-> - **Which network**: Choose EE in cities, O2/Vodafone in rural areas/Lake District; Roami offers automatic multi-network switching, picking the one with the best signal at your location.
-> - **Is unlimited worth it**: Usually not for short trips—Roami 7-day unlimited is $15.19, only $2.40 more than the 20GB plan, so you'd need to use over 2.86GB per day to benefit (see the value section below).
-> - **Final takeaway**: London-only for three to five days needs 3-5GB. Add Edinburgh or a Highland drive and you want 10-20GB, because tethering and maps burn more. A month in the UK lands on 50GB, and unlimited only earns its keep if video is a daily habit.
+> - **The key issue**: post-Brexit, EU mobile cards usually charge roaming in the UK; **a UK eSIM is live on arrival and sidesteps those fees.**
+> - **Value champion**: Roami's discounted line is cheapest across the board—7 days 10GB for **$7.99**, roughly 56% below Airalo's equivalent ($18.00) and 71% below Holafly's unlimited ($27.50).
+> - **Which network**: EE in cities; O2/Vodafone in rural areas and the Lake District; multi-network auto-switching takes the strongest signal where you stand.
+> - **Is unlimited worth it**: usually not for short trips—Roami's 7-day unlimited is $15.19, only $2.40 above the 20GB plan, so you'd need to burn over 2.86GB/day to come out ahead.
+> - **Bottom line**: London-only for 3–5 days needs 3–5GB; add Edinburgh or a Highland drive and it climbs to 10–20GB as tethering and maps burn more; a month in the UK lands on 50GB.
 
 > **⚡ Quick Decision Zone: Conclusions Based on Your Trip Type**
 >
-> - **London city trip (3-5 days)** → Roami 3-5GB, EE 5G in the city, starting from $1.59 (see 3-day / 7-day plans below)
-> - **Multi-city: London + Edinburgh (7-10 days)** → Roami 10-20GB, more stable along intercity rail routes (see 7-day plans / scenario recommendations)
-> - **Scottish Highlands / Lake District road trip (7-10 days)** → Roami 10-20GB, switches to O2/Vodafone for better coverage (see operator analysis / scenario recommendations)
-> - **Business travel (3-7 days)** → Roami 5-10GB; the line is live the minute you land, so you skip the EE or Vodafone queue at Heathrow (see scenario recommendations / plan comparison)
-> - **Don't want to think about data at all** → Roami's 7-day unlimited at $15.19 against Holafly's $3.97/day; across a week Roami is the cheaper of the two (see 7-day plans)
-> - **Tightest budget** → Roami 1GB over 7 days at $2.39, the lowest entry price in the UK market (see 3-day plans)
+> - **London city trip (3-5 days)** → Roami 3-5GB, EE 5G in the city, from $1.59
+> - **Multi-city: London + Edinburgh (7-10 days)** → Roami 10-20GB, more stable along intercity rail
+> - **Scottish Highlands / Lake District road trip (7-10 days)** → Roami 10-20GB; switches to O2/Vodafone for better rural coverage
+> - **Business travel (3-7 days)** → Roami 5-10GB, live the minute you land, skipping the Heathrow SIM queue
+> - **Tightest budget** → Roami 1GB over 7 days at $2.39
 
 ## Three UK eSIM Market Shifts in 2026
 

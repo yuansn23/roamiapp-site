@@ -54,6 +54,8 @@ recentPosts:
 ---
 
 
+Physical SIM cards remain a genuinely useful option in Japan for anyone whose phone cannot hold an eSIM, and the market is small but well priced. Budget buyers gravitate to b-mobile at about $13 for 5GB over 10 days, while moderate users get the best value from IIJmio's BIC SIM at roughly $16.50 for 3GB over 30 days; Mobal is the pick if you need a Japanese phone number and Sakura Mobile for unlimited data. One regulatory change matters before you buy: an amendment passed by the Diet extends identity verification to data-only SIMs and adds passport checks for short-stay visitors, so keep your physical passport with you at the counter.
+
 ## Introduction: Japan SIM Card vs eSIM — Why Physical SIMs Still Matter in 2026
 
 > **Key takeaways:** Physical SIM cards remain a reliable option in Japan, with b-mobile the budget pick at $13 for 5GB over 10 days and IIJmio's BIC SIM the best value for moderate users at $16.50 for 3GB over 30 days. Choose Mobal if you need a Japanese phone number or Sakura Mobile for unlimited data. Japan's SIM rules tightened in 2026: an amendment passed by the Diet extends identity verification to data-only SIMs and adds passport checks for short-stay visitors, with the commencement date set by cabinet order. Voice SIMs have required photo ID for years, so keep your physical passport with you when you buy.

@@ -66,6 +66,9 @@ recentPosts:
     date: "2026-05-21"
 ---
 
+
+UK eSIM prices run from about $1.99 for a 1GB three-day plan to $73.90 for a 30-day unlimited package, with most travellers landing between $4 and $20 for 5–10GB, and the widest gap in that range is not between providers but between channels. Airport SIM counters at Heathrow sell 5GB plans for GBP 10–22 that cost GBP 5–6 online, a markup of 100–200% for walking through the wrong door. One eSIM also covers England, Scotland, Wales and Northern Ireland, so the labels UK, Great Britain and England all point to the same product, and a UK eSIM still undercuts home roaming by 60–80%.
+
 ## How Much Does a UK eSIM Cost?
 
 > **Key takeaways:** UK eSIM prices span from $1.99 for a 1GB 3-day plan to $73.90 for a 30-day unlimited package (Holafly), with most travellers landing in the $4-20 range for a 5-10GB plan. The biggest saving is buying online before departure — Heathrow airport SIMs cost 100-200% more, with a 5GB plan sold for GBP 10-22 at airport retail that costs GBP 5-6 online. A 5GB 3-day plan at $5.99 or a 10GB 3-day plan at $7.99 from Roami covers most trips, and a UK eSIM is almost always cheaper than roaming, with savings of 60 to 80 percent.

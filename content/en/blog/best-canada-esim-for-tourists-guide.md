@@ -78,9 +78,11 @@ recentPosts:
     date: "2026-05-20"
 ---
 
+Most tourists visiting Canada for three days to four weeks should buy their eSIM before they fly, because airport SIM counters at Toronto Pearson and Vancouver are slow and local prepaid cards usually start at CAD $50. The plan itself depends on where you go: Ubigi fits most city-and-country itineraries, Jetpac keeps short budget trips cheap, and Holafly covers the Rockies on Bell and Telus towers. The table below maps each common trip type to a plan and a data estimate, and the country-level reasoning follows underneath.
+
 ## Quick Answer: Best Canada eSIM for Tourists
 
-If you are visiting Canada for 3 days to 4 weeks, here is a quick guide:
+The table below matches each common trip type to a recommended plan and the data it usually needs:
 
 | Your Trip | Recommended eSIM | Why | Data Needed |
 |-----------|-----------------|-----|-------------|

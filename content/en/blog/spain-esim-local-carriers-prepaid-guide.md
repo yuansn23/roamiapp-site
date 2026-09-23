@@ -18,38 +18,41 @@ productsTitle: "Popular eSIM Plans"
 hotPostsTitle: "Hot Articles"
 recentPostsTitle: "Recent Posts"
 products:
-  - name: "Europe eSIM"
-    flag: "/img/flags/eu.svg"
-    price: "From $1.99"
-    is_highlight: false
-    slug: "europe"
-  - name: "USA eSIM"
-    flag: "/img/flags/us.svg"
-    price: "From $1.99"
-    is_highlight: false
-    slug: "united-states"
-  - name: "Japan eSIM"
-    flag: "/img/flags/jp.svg"
-    price: "From $1.99"
-    is_highlight: false
-    slug: "japan"
+ - name: "Europe eSIM"
+  flag: "/img/flags/eu.svg"
+  price: "From $1.99"
+  is_highlight: false
+  slug: "europe"
+ - name: "USA eSIM"
+  flag: "/img/flags/us.svg"
+  price: "From $1.99"
+  is_highlight: false
+  slug: "united-states"
+ - name: "Japan eSIM"
+  flag: "/img/flags/jp.svg"
+  price: "From $1.99"
+  is_highlight: false
+  slug: "japan"
 recentPosts:
-  - title: "eSIM Compatible Devices List"
-    permalink: "/compatibility/"
-    date: "2026-05-26"
-  - title: "2026 Cross-Platform eSIM Transfer"
-    permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
-    date: "2026-05-25"
-  - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
-    permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
-    date: "2026-05-24"
-  - title: "iPhone SE eSIM Compatibility Guide"
-    permalink: "/faq/iphone-se-esim-compatible/"
-    date: "2026-05-22"
-  - title: "iPhone 11 eSIM Complete Setup Guide"
-    permalink: "/faq/iphone-11-esim-compatible/"
-    date: "2026-05-21"
+ - title: "eSIM Compatible Devices List"
+  permalink: "/compatibility/"
+  date: "2026-05-26"
+ - title: "2026 Cross-Platform eSIM Transfer"
+  permalink: "/faq/how-to-transfer-esim-between-iphone-and-android/"
+  date: "2026-05-25"
+ - title: "Dual eSIM Not Working? 12 Fixes for iPhone"
+  permalink: "/faq/dual-esim-not-working-12-fixes-for-iphone/"
+  date: "2026-05-24"
+ - title: "iPhone SE eSIM Compatibility Guide"
+  permalink: "/faq/iphone-se-esim-compatible/"
+  date: "2026-05-22"
+ - title: "iPhone 11 eSIM Complete Setup Guide"
+  permalink: "/faq/iphone-11-esim-compatible/"
+  date: "2026-05-21"
 ---
+
+
+Spain offers two very different ways to buy prepaid data, and the better one depends almost entirely on how long you are staying. Local carriers such as Movistar, Orange, Vodafone and Yoigo deliver far lower cost per gigabyte — down to roughly EUR 0.20/GB on Yoigo's larger tiers — along with a Spanish number, but Spanish telecom law requires identity registration under Royal Decree 424/2005, which applies to eSIMs just as it does to physical SIMs. International providers cost more per gigabyte but activate instantly with no registration. Under two weeks the international route is more convenient; beyond two weeks local prepaid usually saves money.
 
 ## Spain Prepaid eSIM: Local Carriers vs International Providers
 

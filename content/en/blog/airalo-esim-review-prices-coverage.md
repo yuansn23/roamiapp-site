@@ -89,21 +89,6 @@ If you're in a hurry, here are the 8 things you need to know:
 
 ---
 
-## Table of Contents
-
-| What you want to know | Jump to |
-|---|---|
-| Is Airalo actually legit? | [What is the Airalo eSIM and how does it work?](#what-is-the-airalo-esim-and-how-does-it-work) |
-| How much does it cost for Japan, US, or Europe? | [Airalo eSIM 2026 prices by destination](#airalo-esim-2026-prices-by-destination-japan-us-europe-thailand) |
-| Airalo vs Holafly vs Saily – which is better? | [Airalo vs Holafly vs Saily](#airalo-vs-holafly-vs-saily-which-travel-esim-wins-in-2026) |
-| Why is Trustpilot only 3.9? | [The truth behind Airalo eSIM's Trustpilot 3.9](#the-truth-behind-airalo-esims-39-trustpilot-rating) |
-| Installation failed or no connection? | [Installation, activation & troubleshooting](#airalo-esim-installation-activation-and-troubleshooting) |
-| Can I get a refund if I buy the wrong plan? | [Airalo eSIM refund policy explained](#airalo-esim-refund-policy-explained-2026-rules) |
-| How can existing users save money? | [How existing users save: referral codes & Airmoney](#how-existing-users-save-airalo-esim-referral-codes--airmoney) |
-| Quick answers to specific questions | [Airalo eSIM FAQs answered in depth](#airalo-esim-faqs-answers-in-depth) |
-
----
-
 ## What Is the Airalo eSIM and How Does It Work?
 
 ### Airalo's Business Model

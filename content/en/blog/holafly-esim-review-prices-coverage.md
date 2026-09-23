@@ -68,6 +68,10 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
+
+
+Holafly sells the psychological freedom of not counting data rather than competitively priced gigabytes, and whether that trade is worth it depends on how you travel. On a per-gigabyte basis the plans cost two to four times more than competitors, and unlimited does not mean unthrottled: speeds drop to roughly 2 Mbps after 5GB per day in Europe and to about 1 Mbps after 3GB per day in the US and Japan, while hotspot sharing is capped at 500MB to 1GB daily. Plans also cannot be topped up, so a used-up eSIM must be replaced rather than extended, though the customer support that underpins the 4.6/5 Trustpilot score remains the product's strongest feature.
+
 ## Is Holafly eSIM’s “Unlimited Data” Real or Not?
 
 > **Who this is for**: Heavy data users debating whether to buy Holafly, travelers who hate staring at remaining data numbers, and anyone who wants to know exactly what they’re paying for the word “unlimited.”

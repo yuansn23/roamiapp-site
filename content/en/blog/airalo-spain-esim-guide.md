@@ -75,20 +75,11 @@ Planning a trip to Spain? Not sure how to choose a **Spain eSIM**? This guide co
 
 > **2026 Spain eSIM Market Updates**
 >
-> - Spain's 5G coverage continues to expand: According to CNMC Q1 2026 data, national 5G population coverage reached 89%, up 7 percentage points from 2025.
-> - Price competition intensifies: Since Q2 2026, major eSIM brands have adjusted pricing, with some plans seeing price drops of 15%-20%.
-> - New players enter the market: Several new eSIM providers have entered Spain, giving users more diverse choices.
-> - Technology upgrades: Multi-network auto-switching (Multi-IMSI) technology has become standard in mid-to-high-end eSIMs, ensuring users get the best signal experience across Spain.
+> - **Coverage keeps widening**: CNMC Q1 2026 data puts national 5G population coverage at 89%, up 7 points year on year.
+> - **Prices keep falling**: since Q2 2026 the major brands have re-priced, with some plans down 15–20%.
+> - **Auto-switching is now standard**: multi-IMSI (multi-network) support has moved from premium plans into mid-range eSIMs.
 >
 > * Based on public market data as of September 2026.
-
-> **⚡ Quick Decision Zone: Jump to Your Trip Type**
->
-> - **City sightseer** (Barcelona/Madrid 3-5 days) → Go directly to [3-day/7-day plan comparison](#spain-esim-brand-comparison)
-> - **Rural road trip / Camino de Santiago** → Focus on [operator coverage section](#spain-four-major-operators-analysis) (Movistar is best for rural)
-> - **Need unlimited data and hotspot sharing** → See [Holafly vs Roami unlimited comparison](#spain-esim-brand-comparison)
-> - **Remote worker / digital nomad** → See [special advice for digital nomads](#spain-esim-recommendations-by-traveler-type)
-> - **Family / group travel** → See [special advice for families](#spain-esim-recommendations-by-traveler-type)
 
 ## Why Choose eSIM Instead of a Traditional SIM?
 

@@ -78,6 +78,8 @@ recentPosts:
     date: "2026-05-20"
 ---
 
+Most travel eSIMs sold in Canada are data-only, which is fine until you need to receive a text message — and in Canada that moment arrives quickly. Banks such as RBC, TD, Scotiabank, BMO and CIBC send verification codes by SMS, and so do Uber, DoorDash, Lyft, government portals and university and job application systems, none of which a data-only eSIM can receive. That single limitation decides whether you need a numbered plan or can save money on a data-only one. The checklist and table below help you settle the question in under a minute.
+
 ## Quick Answer: Do You Need a Canadian Phone Number?
 
 **You need a Canadian number if you:**

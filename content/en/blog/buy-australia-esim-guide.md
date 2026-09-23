@@ -72,6 +72,9 @@ recentPosts:
     date: "2026-05-21"
 ---
 
+
+Australia's size creates the most extreme mobile coverage gap of any travel destination, and a single-network eSIM will eventually fail somewhere on a long drive. The country covers 7.7 million square kilometres with 99% of its population concentrated in five coastal cities, so between those cities distances run from 1,000 to 4,000 kilometres with vast areas of no signal at all. Telstra is the only network with reliable reach in the Outback, along the Great Ocean Road, in the Kimberley and across the remote national parks, while Optus and Vodafone AU are strong in cities but cannot be trusted 50 kilometres beyond the city limits. Data use is also higher than most travellers expect, because hours of driving mean hours of streaming.
+
 ## Australia eSIM 2026: The Ultimate Guide to Staying Connected from Sydney to the Outback
 
 > **Key Takeaways**

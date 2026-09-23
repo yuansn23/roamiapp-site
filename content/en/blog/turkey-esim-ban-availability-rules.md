@@ -68,6 +68,10 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
+
+
+eSIM is legal in Turkey, but the government's BTK block can still stop you buying or managing a plan after you land, and that distinction trips up most travellers. The rule targets foreign eSIM provider websites and apps on Turkish mobile networks rather than eSIM technology itself, so a profile that is already installed connects normally once you arrive. Turkey also runs two separate regulatory tracks — the BTK platform block and the IMEI registration rule that removes foreign phones from Turkish networks after 120 days — and a traveller can comply with one while still being caught by the other. This guide explains what is actually blocked, what still works, and what to do before departure.
+
 ## Turkey eSIM Ban & Availability: BTK Rules, IMEI Risks & What Works
 
 eSIM is legal in Turkey, but the government’s BTK block can still stop you buying or managing a plan after you land. This guide explains what is actually banned, what the IMEI rule means, and what still works.

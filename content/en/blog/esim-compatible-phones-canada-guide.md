@@ -78,6 +78,8 @@ recentPosts:
     date: "2026-05-20"
 ---
 
+Before you buy any Canada eSIM, you should confirm that your handset actually has embedded-SIM hardware, because the answer is not as obvious as it looks. Most phones sold since 2018 or 2020 support eSIM, but there are important regional and carrier exceptions, and a carrier lock will block every travel profile from installing no matter how capable the device is. The fastest way to check takes about thirty seconds. The steps below walk through the EID dial code and the menu paths for iPhone, Samsung and Google Pixel, then cover the regional pitfalls and carrier-lock removal.
+
 ## Quick Answer: Does Your Phone Support eSIM?
 
 **Fastest check:** Open your dialer, type `*#06#`, and look for **EID** (a 32-digit code).

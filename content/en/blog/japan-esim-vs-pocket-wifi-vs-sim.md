@@ -52,6 +52,8 @@ recentPosts:
 ---
 
 
+Travellers to Japan have three sensible ways to get online in 2026 — rent a pocket WiFi router, buy a physical SIM card, or install an eSIM — and none of them is universally best. Japan has world-class mobile coverage that reaches deep into subway tunnels and along the Shinkansen, but it lacks the cheap tourist SIMs sold on every street corner elsewhere, and home-carrier roaming can cost $10–15 per day. The practical split is straightforward: a solo traveller or couple with a modern phone should take an eSIM, a group of three or more should share one pocket WiFi router, and anyone with an eSIM-less phone should buy a physical SIM on arrival.
+
 ## 1. Three Ways to Get Online in Japan: eSIM, Pocket WiFi, or SIM Card
 
 You've booked your flights. You've reserved your hotels. You've mapped out your Tokyo itinerary. But there's one question every traveler to Japan faces: **how do I stay connected?**

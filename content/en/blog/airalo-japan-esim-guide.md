@@ -79,21 +79,20 @@ This article focuses on that core difference: which of Japan's four major operat
 
 > **⏱️ 30-second summary: How to choose your Japan eSIM?**
 >
-> - **The key point**: Japan has full-bar signal everywhere (subway/Shinkansen have 5G), so your real task is **feeding Google Translate + Google Maps with enough data** (see pocket WiFi section below).
-> - **Don't rent pocket WiFi**: Pocket WiFi costs ~$3.5-7/day plus deposit and pickup/return—at least $25 for 7 days; **Roami eSIM 7-day 10GB is just $7.99**—saving 70% and no extra device (see pocket WiFi section).
-> - **Value champion**: Roami's discounted line comes in lowest across the board—7-day 10GB at $7.99, 53% under Airalo's equivalent ($17.00) and 71% under Holafly's unlimited ($27.50).
-> - **A Japan-specific detail**: Roami's 7-day tier has **20GB ($13.59) and unlimited ($15.19) with only a $1.60 difference**—heavy users can go unlimited for just $1.60 extra. But the 30-day unlimited ($57.59) is almost double the 50GB ($30.39)—skip unlimited for long stays (see value section).
-> - **Final takeaway**: a Tokyo or Kansai break of 3–5 days needs only Roami 3–10GB; a Shinkansen multi-city run of 10–15 days wants 20–30GB; settle on 50GB for a longer stay; and only take the 7-day unlimited tier if video is a daily habit.
+> - **The key point**: signal is never the problem—subway tunnels and Shinkansen carriages all run full-bar 5G. Your real task is **feeding Google Translate + Google Maps**, which is where the data goes.
+> - **Skip pocket WiFi**: ~$3.5-7/day plus deposit and airport pickup/return adds up to $25+ for a week; a Roami 7-day 10GB eSIM is $7.99 with no extra device to charge or return.
+> - **Value champion**: Roami's discounted line is lowest across the board—7-day 10GB at **$7.99**, about 53% under Airalo's equivalent ($17.00) and 71% under Holafly's unlimited ($27.50).
+> - **Watch the tier math**: on 7-day plans, 20GB ($13.59) and unlimited ($15.19) differ by only $1.60, so heavy users can go unlimited cheaply—but on 30-day plans unlimited ($57.59) is nearly double 50GB ($30.39), so long stays should stay fixed.
+> - **Bottom line**: 3–5 days in Tokyo or Kansai needs 3–10GB; a 10–15 day Shinkansen run wants 20–30GB; longer stays settle on 50GB.
 
 > **⚡ Quick Decision Zone: What Your Trip Type Points To**
 >
-> - **Tokyo city trip (3-5 days)** → Roami 3-5GB, 5G even in the subway, from $1.59 (see 3-day plans / scenario recommendations)
-> - **Kyoto / Osaka / Nara Kansai trip (5-7 days)** → Roami 10GB, Google Translate camera for menus and signs is the biggest data consumer (see 7-day plans / scenario recommendations)
-> - **Tokyo → Kyoto Shinkansen multi-city (7-10 days)** → Roami 10-20GB, full-bar 5G throughout the Shinkansen carriages (see 7-day plans / pocket WiFi section)
-> - **Mount Fuji / Hakone / Lake Kawaguchi (3-5 days)** → Roami 5-10GB, Docomo has the best coverage around the Fuji Five Lakes (see operator analysis / scenario recommendations)
-> - **Family trip (5-10 days)** → Roami 10-20GB + unlimited hotspot, share one eSIM with the whole family (see 7-day plans / scenario recommendations)
-> - **No data worries at all** → Roami 7-day unlimited (discounted $15.19), cheaper than pocket WiFi (see 7-day plans / pocket WiFi section)
-> - **Strictest budget** → Roami 1GB/7 days discounted $1.59, lowest price overall (see 3-day plans)
+> - **Tokyo city trip (3-5 days)** → Roami 3-5GB, 5G even in the subway, from $1.59
+> - **Kyoto / Osaka / Nara Kansai trip (5-7 days)** → Roami 10GB; the Google Translate camera at menus and signs is the biggest data draw
+> - **Tokyo → Kyoto Shinkansen multi-city (7-10 days)** → Roami 10-20GB, full-bar 5G the whole way
+> - **Mount Fuji / Hakone / Lake Kawaguchi (3-5 days)** → Roami 5-10GB; Docomo has the best coverage around the Fuji Five Lakes
+> - **Family trip (5-10 days)** → Roami 10-20GB with hotspot sharing, one eSIM for the whole group
+> - **Strictest budget** → Roami 1GB/7 days discounted at $1.59
 
 ## Japan eSIM Market Updates
 

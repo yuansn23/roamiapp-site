@@ -78,9 +78,11 @@ recentPosts:
     date: "2026-05-20"
 ---
 
+Anyone staying in Canada for a month or longer — digital nomads, international students, new arrivals, or people relocating for work — needs a different kind of eSIM than a short-stay tourist. The reason is simple: short-trip plans are priced per day, while long stays are priced per month, so the cheapest option flips once a trip passes roughly two weeks. Long stays also usually require a real Canadian phone number, because banks, universities, landlords and employers all rely on SMS verification that a data-only eSIM cannot receive. The table below matches each long-stay situation to a plan and a monthly data estimate. If you are only on a short city break, see our [Best Canada eSIM for Tourists](/blog/best-canada-esim-for-tourists-guide/) instead.
+
 ## Quick Answer: Best Canada eSIM for Long Stays & Digital Nomads
 
-This page is for people staying in Canada for **one month or more** — digital nomads, international students, new arrivals, and business relocations. If you are on a short city break or vacation, see our [Best Canada eSIM for Tourists](/blog/best-canada-esim-for-tourists-guide/) instead.
+The table below matches each long-stay situation to a recommended plan and its monthly data estimate:
 
 | Your Situation | Best eSIM | Why | Monthly Data |
 |----------------|-----------|-----|--------------|

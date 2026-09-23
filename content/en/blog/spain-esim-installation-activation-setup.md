@@ -51,6 +51,9 @@ recentPosts:
     date: "2026-05-21"
 ---
 
+
+Installing a Spain eSIM takes five to ten minutes, and the mistake that ruins the most trips is leaving data roaming switched off before landing. That single setting is the usual cause of a No Service signal on arrival, and it is entirely avoidable if you install the eSIM at home on Wi-Fi and configure the lines before you fly. The working setup is to keep your home SIM for calls and SMS while the eSIM carries all data, with data roaming left on for the eSIM for the whole trip. For network-activated eSIMs from Airalo, Nomad and Saily, the validity clock only starts once your phone connects to a Spanish network.
+
 ## How to Install and Activate a Spain eSIM: Step-by-Step Guide
 
 > **Key takeaways:** Installing a Spain eSIM takes 5-10 minutes, and the single most common setup mistake is leaving data roaming disabled, which causes a "No Service" signal after landing. Install the eSIM at home on Wi-Fi before departure, then set your home SIM for calls and SMS while the eSIM handles all data. Data roaming must remain ON for the entire trip, and for network-activated eSIMs (Airalo, Nomad, Saily) the validity clock does not start until your phone connects to a Spanish network.

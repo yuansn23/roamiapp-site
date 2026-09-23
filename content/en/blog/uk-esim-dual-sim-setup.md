@@ -65,6 +65,10 @@ recentPosts:
     permalink: "/faq/iphone-11-esim-compatible/"
     date: "2026-05-21"
 ---
+
+
+Dual SIM is the setup that lets you keep your home number alive while your UK eSIM handles all the data, and it takes about five minutes to configure. The routine is to install the eSIM, set it as the data line, leave your home SIM active for calls and SMS, and turn data roaming off on the home SIM — leaving it on is the single mistake that drains a roaming allowance in one afternoon of background refreshes. Because a UK plan is valid in all four nations, the steps do not change whether you land in Manchester or Inverness, and the only recurring cost is a small battery penalty of roughly 10–15% from running two lines.
+
 ## Why Dual SIM Is the Best Way to Travel with an eSIM
 
 > **Key takeaways:** The ideal dual SIM setup is to install your eSIM, set it as your data line, keep your home SIM for calls and SMS, and turn off data roaming on your home SIM — a five-minute job that costs nothing beyond the plan itself. The most important setting is turning data roaming ON for the eSIM while keeping it OFF on your home SIM, otherwise you risk burning through your home roaming allowance. A data eSIM like Roami that auto-switches across EE, Vodafone, and O2 keeps you on the strongest available network, since your data performance depends entirely on the eSIM. Expect roughly 10-15% extra battery drain from running two SIMs at once.
