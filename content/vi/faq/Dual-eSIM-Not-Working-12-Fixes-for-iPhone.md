@@ -1,12 +1,13 @@
 ---
 title: "Dual eSIM không hoạt động? 12 cách khắc phục cho iPhone"
-h1_title: "Cách sửa lỗi Dual eSIM không hoạt động trên iPhone: 12 giải pháp"
-description: "Dual eSIM không hoạt động? Sửa 12 sự cố trên iPhone: định tuyến cuộc gọi, thiết lập VoLTE, hao pin và kiểm tra khóa nhà mạng cho iPhone 16 và iOS 18."
-image: "/img/esim/usa/usa-esim-dual-sim-setup.jpg"
-keywords: ["dual eSIM không hoạt động", "iPhone dual SIM không có dịch vụ", "sự cố tín hiệu dual eSIM", "khóa nhà mạng eSIM", "khắc phục sự cố dual eSIM", "kích hoạt dual eSIM thất bại", "iOS 18 eSIM", "cài đặt APN eSIM", "mã xác nhận eSIM", "dual eSIM không có dịch vụ"]
-date: 2026-09-06T10:00:00Z
-lastmod: 2026-09-06T00:00:00Z
-tags: ["eSIM", "iOS", "Android", "Khắc phục sự cố", "Thiết lập du lịch"]
+h1_title: "Cách khắc phục Dual eSIM không hoạt động trên iPhone: 12 giải pháp"
+description: "Dual eSIM không hoạt động? Khắc phục 12 sự cố iPhone: định tuyến cuộc gọi, thiết lập VoLTE, tụt pin và kiểm tra khóa nhà mạng cho iPhone 16 và iOS 18."
+image: "/img/faq/dual-esim-not-working.webp"
+image-1: "/img/faq/dual-esim-not-working-1.jpg"
+keywords: ["dual eSIM not working", "iPhone dual SIM no service", "dual eSIM signal issue", "eSIM carrier lock", "dual eSIM troubleshooting", "dual eSIM activation failed", "iOS 18 eSIM", "eSIM APN settings", "eSIM confirmation code", "dual eSIM no service"]
+date: 2026-09-14T00:00:00Z
+lastmod: 2026-09-14T00:00:00Z
+tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup"]
 toc: true
 
 # Site & SEO
@@ -16,7 +17,7 @@ publisher_logo: "/img/logo.png"
 
 # UI text translations
 ui_text:
-  updated_on: "Cập nhật ngày"
+  updated_on: "Cập nhật vào"
   min_read: "phút đọc"
   toc: "Mục lục"
 
@@ -25,40 +26,40 @@ breadcrumbs:
     text: "Trang chủ"
     url: "/"
   parent:
-    text: "Trung tâm Trợ giúp"
+    text: "Trung tâm trợ giúp"
     url: "/faq/"
-
+    
 # Sidebar: Popular eSIMs
 sidebar_popular:
   title: "eSIM phổ biến"
   item_suffix: "eSIM"
   items:
-    - name: "eSIM Mỹ"
+    - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Đức"
+    - name: "Germany"
       flag: "/img/flags/de.svg"
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Châu Âu"
+    - name: "Europe"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Thổ Nhĩ Kỳ"
+    - name: "Turkey"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Nhật Bản"
+    - name: "Japan"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "Trung Quốc"
+    - name: "China"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
       url: "/china-esim/"
@@ -66,21 +67,21 @@ sidebar_popular:
 
 # Sidebar: Free eSIM offers
 sidebar_free:
-  title: "Nhận eSIM Miễn phí"
+  title: "Nhận eSIM miễn phí"
   icon: "🎁"
-  item_suffix: "eSIM Miễn phí"
-  item_subtitle: "eSIM Miễn phí"
+  item_suffix: "eSIM miễn phí"
+  item_subtitle: "eSIM miễn phí"
   items:
-    - name: "eSIM Anh"
+    - name: "UK eSIM"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
-    - name: "Đức"
+    - name: "Germany"
       flag: "/img/flags/de.svg"
       url: "/free-esim/"
-    - name: "Thái Lan"
+    - name: "Thailand"
       flag: "/img/flags/th.svg"
       url: "/free-esim/"
-    - name: "Hồng Kông"
+    - name: "Hong Kong"
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
@@ -92,246 +93,248 @@ sidebar_questions:
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "Cách kích hoạt eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Cách kích hoạt eSIM trên iPhone (Tất cả các model)?"
+    - question: "Cách kích hoạt eSIM trên iPhone (mọi dòng máy)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Danh sách tương thích eSIM mới nhất"
       url: "/compatibility/"
 ---
 
 
-> **Lưu ý của biên tập viên:** Roami là thương hiệu đứng sau hướng dẫn này. Tất cả các bước khắc phục sự cố dựa trên tài liệu chính thức của Apple, tiêu chuẩn GSMA và thử nghiệm của nhóm chúng tôi trên iOS 18. Chúng tôi tập trung vào các bản sửa lỗi thực tế thực sự hoạt động – không phải giải pháp lý thuyết.
->
-> **Điểm chính:** VoLTE hoặc giới hạn gói là lý do phổ biến nhất khiến một đường truyền không thể thực hiện hoặc nhận cuộc gọi. Sự cố định tuyến cuộc gọi đến thường được khắc phục bằng cách bật/tắt Wi‑Fi Calling. iPhone là dual standby, không phải dual active – "Không có dịch vụ" trên đường truyền kia trong khi gọi là bình thường. Kiểm tra Khóa nhà mạng trong Cài đặt (`Không có hạn chế SIM`) nếu bạn không thể thêm eSIM thứ hai. Có thể giảm hao pin dual eSIM bằng cách tắt 5G trên đường truyền có tín hiệu yếu hơn.
+> **Lưu ý của biên tập viên:** Một dual eSIM làm rớt một đường gần như luôn do khóa nhà mạng, APN cấu hình sai, hoặc một cài đặt dual-SIM — không phải gói cước chết. Mọi giải pháp dưới đây đều dựa trên tài liệu chính thức của Apple và tiêu chuẩn GSMA, nhắm vào một triệu chứng cụ thể. Hãy làm theo bảng chẩn đoán để tìm chính xác giải pháp cho lỗi của bạn.
+> 
+> **Điểm mấu chốt:** Giới hạn VoLTE hoặc gói cước là nguyên nhân phổ biến nhất khiến một đường không thể gọi hay nhận cuộc gọi. Sự cố định tuyến cuộc gọi đến thường được sửa bằng cách bật/tắt lại Wi‑Fi Calling. iPhone là dual standby chứ không phải dual active – "No Service" trên đường còn lại trong lúc gọi là hiện tượng bình thường. Kiểm tra Carrier Lock trong Settings (`No SIM restrictions`) nếu bạn không thể thêm eSIM thứ hai. Tụt pin do dual eSIM có thể giảm bằng cách tắt 5G trên đường có sóng yếu hơn.
+
+Hầu hết sự cố dual eSIM trên iPhone bắt nguồn từ năm nguyên nhân: khóa nhà mạng, giới hạn gói cước hoặc VoLTE, cài đặt Data Roaming hoặc đường mặc định, hành vi dual-standby thông thường chỉ trông giống lỗi, hoặc một trục trặc iOS mà việc reset cài đặt sẽ xóa được. Hãy đối chiếu triệu chứng của bạn trong mục lục dưới đây và áp dụng giải pháp tương ứng — phần lớn chỉ mất chưa đến năm phút.
 
 
-## Dual eSIM không hoạt động? Chẩn đoán nhanh 10 giây
+## Cách Khắc Phục Dual eSIM Không Hoạt Động
 
-**Điện thoại của bạn gặp sự cố dual eSIM. Đó là vấn đề nào?**
+**Điện thoại của bạn gặp sự cố dual eSIM. Là sự cố nào?**
 
-| Triệu chứng của bạn | Chuyển đến bản sửa |
+| Triệu chứng của bạn | Chuyển đến giải pháp |
 |--------------|-------------|
-| **eSIM thứ hai hiển thị "Không có dịch vụ"** nhưng eSIM thứ nhất hoạt động | [Sửa #2](#2-dual-esim-tai-sao-mot-duong-hien-thi-khong-co-dich-vu-trong-khi-duong-kia-hoat-dong) |
-| **Có thể gọi ra nhưng KHÔNG thể nhận cuộc gọi** | [Sửa #3](#3-dual-esim-mot-so-co-the-goi-ra-nhung-khong-the-nhan-cuoc-goi-den) |
-| **Trong khi gọi, đường truyền kia hiển thị "Không có dịch vụ"** | [Sửa #4](#4-dual-esim-trong-khi-goi-duong-truyen-kia-hien-thi-khong-co-dich-vu--dieu-nay-binh-thuong) – điều này bình thường! |
-| **Không thể thêm eSIM thứ hai – lỗi "Khóa nhà mạng"** | [Sửa #5](#5-dual-esim-khong-hoat-dong-kiem-tra-khoa-nha-mang-truoc) |
-| **Pin hao nhanh hơn với hai đường truyền** | [Sửa #6](#6-dual-esim-hao-pin-cach-giam) |
-| **SIM vật lý không được nhận dạng** | [Sửa #7](#7-xung-dot-esim--sim-vat-ly-va-su-co-khay-sim) |
-| **iPhone từ Trung Quốc – không có tùy chọn eSIM nào cả** | [Sửa #8](#8-truong-hop-dac-biet-theo-khu-vuc-trung-quoc-hong-kong-macao) – giới hạn phần cứng |
-| **Dữ liệu hoạt động nhưng không có internet (vấn đề APN)** | [Sửa #11](#11-cach-cau-hinh-cai-dat-apn-neu-esim-cua-ban-khong-co-du-lieu) – cấu hình APN |
-| **Vô tình xóa eSIM** | [Câu hỏi FAQ #9](#q9-lam-the-nao-de-phuc-hoi-esim-da-xoa) – tùy thuộc vào nhà cung cấp |
-| **Không chắc chắn – vấn đề khác** | [Bảng khắc phục sự cố đầy đủ](#10-bang-khac-phuc-su-co--cac-tinh-huong-dual-esim) |
+| **eSIM thứ hai hiển thị "No Service"** nhưng đường đầu tiên hoạt động | [Fix #2](#why-one-dual-esim-line-shows-no-service) |
+| **Gọi ra được nhưng KHÔNG nhận được cuộc gọi đến** | [Fix #3](#a-dual-esim-line-that-cannot-receive-calls) |
+| **Trong lúc gọi, đường còn lại báo "No Service"** | [Fix #4](#one-line-showing-no-service-during-a-call-is-normal) – đây là hiện tượng bình thường! |
+| **Không thể thêm eSIM thứ hai – lỗi "Carrier lock"** | [Fix #5](#dual-esim-not-working-on-a-carrier-locked-phone) |
+| **Pin tụt nhanh hơn khi dùng hai đường** | [Fix #6](#how-to-reduce-dual-esim-battery-drain) |
+| **SIM vật lý không được nhận diện** | [Fix #7](#esim-and-physical-sim-conflicts-and-tray-issues) |
+| **iPhone từ Trung Quốc – không có tùy chọn eSIM** | [Fix #8](#dual-esim-in-china-hong-kong-and-macau) – giới hạn phần cứng |
+| **Dữ liệu hoạt động nhưng không có internet (vấn đề APN)** | [Fix #11](#how-to-configure-apn-settings-if-your-esim-has-no-data) – cấu hình APN |
+| **eSIM bị xóa nhầm** | [FAQ #9](#frequently-asked-questions) – tùy nhà cung cấp |
+| **Không chắc – nguyên nhân khác** | [Bảng khắc phục sự cố đầy đủ](#dual-esim-troubleshooting-table) |
 
-> 💡 **Điểm chính:** Nếu bạn đang sử dụng **hai đường truyền trên một iPhone**, iPhone là **dual standby, không phải dual active** – khi bạn đang thực hiện cuộc gọi, đường truyền kia sẽ tạm thời hiển thị "Không có dịch vụ". Đây là **hành vi bình thường** (xem Sửa #4). Đừng lãng phí thời gian cố gắng "khắc phục" nó.
+> 💡 **Thông tin quan trọng:** Nếu bạn đang dùng **hai đường trên một chiếc iPhone**, iPhone là **dual standby chứ không phải dual active** – khi bạn đang gọi, đường còn lại sẽ tạm thời báo "No Service". Đây là **hành vi bình thường** (xem Fix #4). Đừng lãng phí thời gian để "sửa" nó.
 
-Để có hướng dẫn đầy đủ về thiết lập eSIM cơ bản, xem **[Hướng dẫn đầy đủ về eSIM iPhone 16](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)**. Đối với các vấn đề nâng cao không được đề cập ở đây, **[Hướng dẫn khắc phục sự cố chuyên sâu eSIM (16 trường hợp thực tế)](/faq/esim-deep-troubleshooting-guide-2026/)** có thêm giải pháp.
+Nếu sự cố dual-SIM của bạn bắt nguồn từ việc cài đặt sai, hãy bắt đầu với [hướng dẫn kích hoạt eSIM chung](/faq/how-to-activate-an-esim/), rồi làm tiếp các giải pháp dưới đây — và với mọi thông báo lỗi mà trang này không nêu, [Hướng dẫn khắc phục sự cố eSIM chuyên sâu](/faq/esim-deep-troubleshooting-guide-2026/) sẽ xử lý mọi trường hợp một cách chi tiết.
 
 
-## Hành trình khắc phục sự cố Dual eSIM hoàn chỉnh – Từ triệu chứng đến bản sửa
+## Hướng Dẫn Khắc Phục Sự Cố Dual eSIM Toàn Diện
 
-Đây là con đường hầu hết người dùng iPhone đi theo khi dual eSIM không hoạt động. Sử dụng điều này để theo dõi vị trí của bạn.
+Đây là con đường mà hầu hết người dùng iPhone đi qua khi dual eSIM không hoạt động. Dùng nó để theo dõi bạn đang ở đâu.
 
-| Bước | Đang xảy ra điều gì | Phải làm gì | Tìm ở đâu |
+| Bước | Điều đang xảy ra | Việc cần làm | Nơi tìm thấy |
 | :--- | :--- | :--- | :--- |
-| **1. Xác định triệu chứng** | "eSIM thứ hai của tôi không có tín hiệu." / "Tôi không thể nhận cuộc gọi." / "Pin đang hao nhanh." | Khớp triệu chứng của bạn với bảng Chẩn đoán nhanh ở trên. | [Chẩn đoán nhanh 10 giây](#dual-esim-khong-hoat-dong-chan-doan-nhanh-10-giay) |
-| **2. Kiểm tra xem đó có phải hành vi bình thường không** | "Trong khi gọi, đường truyền kia của tôi hiển thị Không có dịch vụ." | Điều này **bình thường** đối với iPhone dual standby. Chuyển đến Sửa #4. | [Sửa #4](#4-dual-esim-trong-khi-goi-duong-truyen-kia-hien-thi-khong-co-dich-vu--dieu-nay-binh-thuong) |
-| **3. Loại trừ khóa nhà mạng** | "Tôi không thể thêm eSIM thứ hai nào cả." | Kiểm tra Khóa nhà mạng trong Cài đặt. Phải hiển thị "Không có hạn chế SIM." | [Sửa #5](#5-dual-esim-khong-hoat-dong-kiem-tra-khoa-nha-mang-truoc) |
-| **4. Áp dụng bản sửa** | Làm theo bản sửa cụ thể cho triệu chứng của bạn. | Một trong 12 bản sửa bên dưới sẽ giải quyết vấn đề của bạn. | [Sửa #1‑#12](#1-cac-tuy-chon-dual-esim-cua-ban-tren-iphone-la-gi) |
-| **5. Vẫn không hoạt động?** | "Không có bản sửa nào hoạt động." | Sử dụng các tùy chọn dự phòng trong bảng khắc phục sự cố. | [Bảng khắc phục sự cố](#10-bang-khac-phuc-su-co--cac-tinh-huong-dual-esim) |
+| **1. Xác định triệu chứng** | "eSIM thứ hai của tôi không có sóng." / "Tôi không nhận được cuộc gọi." / "Pin tụt nhanh." | Đối chiếu triệu chứng của bạn với bảng Chẩn đoán nhanh ở trên. | [Chẩn Đoán Nhanh 10 Giây](#dual-esim-quick-diagnostic-index) |
+| **2. Kiểm tra xem có phải hành vi bình thường không** | "Trong lúc gọi, đường còn lại của tôi báo No Service." | Đây là hiện tượng **bình thường** với iPhone dual standby. Nhảy đến Fix #4. | [Fix #4](#one-line-showing-no-service-during-a-call-is-normal) |
+| **3. Loại trừ khóa nhà mạng** | "Tôi hoàn toàn không thể thêm eSIM thứ hai." | Kiểm tra Carrier Lock trong Settings. Phải hiển thị "No SIM restrictions." | [Fix #5](#dual-esim-not-working-on-a-carrier-locked-phone) |
+| **4. Áp dụng giải pháp** | Làm theo giải pháp cụ thể cho triệu chứng của bạn. | Một trong 12 giải pháp dưới đây sẽ giải quyết vấn đề của bạn. | [Các Fix #1‑#12](#what-are-your-dual-esim-options-on-iphone) |
+| **5. Vẫn không được?** | "Không giải pháp nào hiệu quả." | Dùng các phương án dự phòng trong bảng khắc phục sự cố. | [Bảng khắc phục sự cố](#dual-esim-troubleshooting-table) |
 
 
-## Chỉ số chẩn đoán nhanh (Dual eSIM cụ thể)
+## Mục Lục Chẩn Đoán Nhanh Dual eSIM
 
-| Triệu chứng | Nguyên nhân có khả năng nhất | Phần sửa |
+| Triệu chứng | Nguyên nhân khả dĩ nhất | Mục khắc phục |
 |---------|-------------------|--------------|
-| eSIM thứ hai hiển thị "Không có dịch vụ" nhưng eSIM thứ nhất hoạt động | Vấn đề VoLTE hoặc thứ tự đường truyền | [#2](#2-dual-esim-tai-sao-mot-duong-hien-thi-khong-co-dich-vu-trong-khi-duong-kia-hoat-dong) |
-| Một số có thể gọi ra nhưng không thể nhận cuộc gọi | Không khớp định tuyến cuộc gọi đến | [#3](#3-dual-esim-mot-so-co-the-goi-ra-nhung-khong-the-nhan-cuoc-goi-den) |
-| Trong khi gọi, đường truyền kia hiển thị "Không có dịch vụ" | iPhone chỉ sử dụng một mạng dữ liệu tại một thời điểm (bình thường) | [#4](#4-dual-esim-trong-khi-goi-duong-truyen-kia-hien-thi-khong-co-dich-vu--dieu-nay-binh-thuong) |
-| Không thể thêm eSIM thứ hai – lỗi "Khóa nhà mạng" | Thiết bị bị khóa với nhà mạng đầu tiên | [#5](#5-dual-esim-khong-hoat-dong-kiem-tra-khoa-nha-mang-truoc) |
-| Dual eSIM hoạt động nhưng hao pin nhanh hơn | Cả hai đường truyền đều đang tìm kiếm tích cực | [#6](#6-dual-esim-hao-pin-cach-giam) |
-| eSIM + SIM vật lý: SIM vật lý không được nhận dạng | Vấn đề khay SIM hoặc thẻ không tương thích | [#7](#7-xung-dot-esim--sim-vat-ly-va-su-co-khay-sim) |
-| Dữ liệu hiển thị thanh tín hiệu nhưng không có internet | Cài đặt APN bị thiếu hoặc sai | [#11](#11-cach-cau-hinh-cai-dat-apn-neu-esim-cua-ban-khong-co-du-lieu) |
+| eSIM thứ hai hiển thị "No Service" nhưng đường đầu tiên hoạt động | Vấn đề VoLTE hoặc thứ tự đường | [#2](#why-one-dual-esim-line-shows-no-service) |
+| Một số gọi ra được nhưng không nhận được cuộc gọi đến | Mismatch định tuyến cuộc gọi đến | [#3](#a-dual-esim-line-that-cannot-receive-calls) |
+| Trong lúc gọi, đường còn lại báo "No Service" | iPhone chỉ dùng một mạng dữ liệu tại một thời điểm (bình thường) | [#4](#one-line-showing-no-service-during-a-call-is-normal) |
+| Không thể thêm eSIM thứ hai – lỗi "Carrier lock" | Thiết bị bị khóa vào nhà mạng đầu tiên | [#5](#dual-esim-not-working-on-a-carrier-locked-phone) |
+| Dual eSIM hoạt động nhưng tụt pin nhanh | Cả hai đường đều chủ động tìm mạng | [#6](#how-to-reduce-dual-esim-battery-drain) |
+| eSIM + SIM vật lý: SIM vật lý không được nhận diện | Vấn đề khay SIM hoặc thẻ không tương thích | [#7](#esim-and-physical-sim-conflicts-and-tray-issues) |
+| Dữ liệu có sóng nhưng không có internet | Cài đặt APN bị thiếu hoặc sai | [#11](#how-to-configure-apn-settings-if-your-esim-has-no-data) |
 
 
-## 1. Các tùy chọn Dual eSIM của bạn trên iPhone là gì?
+## Những Tùy Chọn Dual eSIM Trên iPhone Của Bạn
 
-Bắt đầu từ iPhone XS, XR và tất cả các model mới hơn (bao gồm iPhone 16), Apple hỗ trợ dual eSIM (hai eSIM hoạt động đồng thời) trên iPhone 13 trở lên. Các model không phải Mỹ cũng hỗ trợ một eSIM cộng với một nano‑SIM vật lý. Các model Trung Quốc đại lục hai SIM vật lý không có hỗ trợ eSIM ngoại trừ iPhone 16.
+Bắt đầu từ iPhone XS, XR và mọi model mới hơn (bao gồm iPhone 16), Apple hỗ trợ dual eSIM (hai eSIM hoạt động đồng thời) trên iPhone 13 trở lên. Các model không phải bản Mỹ cũng hỗ trợ một eSIM cộng một nano‑SIM vật lý. Các model dual‑SIM‑vật‑lý của Trung Quốc đại lục không hỗ trợ eSIM, trừ iPhone 16.
 
-Cấu hình **dual eSIM** của bạn phụ thuộc vào model iPhone và khu vực của bạn:
+Cấu hình **dual eSIM** của bạn phụ thuộc vào model iPhone và khu vực:
 
-| Cấu hình | Model hỗ trợ | Số đường truyền tối đa |
+| Cấu hình | Model được hỗ trợ | Số đường hoạt động tối đa |
 |---------------|------------------|------------------|
-| **Dual eSIM** | iPhone 13 trở lên (bao gồm tất cả model iPhone 16) | 2 |
-| **1 eSIM + 1 nano‑SIM vật lý** | Tất cả iPhone có khay SIM (model không phải Mỹ và model Mỹ trước iPhone 14) | 2 |
+| **Dual eSIM** | iPhone 13 trở lên (bao gồm mọi model iPhone 16) | 2 |
+| **1 eSIM + 1 nano‑SIM vật lý** | Mọi iPhone có khay SIM (bản không phải Mỹ, và bản Mỹ trước iPhone 14) | 2 |
 | **Chỉ 1 SIM vật lý** | iPhone cũ hơn (trước XS) | 1 |
-| **2 SIM vật lý** | Các model khay SIM đặc biệt Trung Quốc đại lục, Hồng Kông, Ma Cao (ví dụ: phiên bản iPhone 16 Trung Quốc) | 2 |
+| **2 SIM vật lý** | Các model dual‑SIM khay vật lý riêng của Trung Quốc đại lục, Hồng Kông, Ma Cao (ví dụ, iPhone 16 bản Trung Quốc) | 2 |
 
-Để có danh sách đầy đủ các iPhone tương thích, [kiểm tra khả năng tương thích dual eSIM iPhone của bạn](/compatibility/).
-
-
-## 2. Dual eSIM: Tại sao một đường hiển thị "Không có dịch vụ" trong khi đường kia hoạt động
-
-Nếu một trong các đường truyền dual eSIM của bạn có thể sử dụng dữ liệu nhưng không thể thực hiện hoặc nhận cuộc gọi — **hoặc hoàn toàn hiển thị "Không có dịch vụ"** — nguyên nhân phổ biến nhất vào năm 2026 là:
-
-- **VoLTE / VoNR chưa được bật** cho đường truyền đó. Một số nhà mạng vô hiệu hóa thoại qua dữ liệu chuyển vùng trên các gói eSIM, khiến đường truyền đó chỉ có dữ liệu. (Cách kiểm tra đơn giản: nếu bạn có thể sử dụng dữ liệu nhưng không thể gọi ra, rất có thể đây là vấn đề.)
-- **Thứ tự đường truyền**. iOS định tuyến cuộc gọi đến *đường truyền thoại mặc định* của bạn; một đường truyền thứ cấp được đặt chỉ dữ liệu không thể thực hiện hoặc nhận cuộc gọi.
-- **Gói không bao gồm thoại**. Một số eSIM du lịch chỉ có dữ liệu theo thiết kế và không có dịch vụ thoại nào cả. Nếu đây là trường hợp, bạn sẽ thấy thanh tín hiệu nhưng cố gắng gọi sẽ thất bại.
-
-> **Lưu ý:** Mạng 3G/CDMA cũ đã được ngừng sử dụng tại Mỹ và Nhật Bản. Verizon và US Cellular ngừng CDMA vào 2022-2024, và au/KDDI kết thúc 3G vào 2022. Vào năm 2026, một đường truyền "không có dịch vụ cho thoại" hầu như luôn là vấn đề VoLTE, gói cước hoặc thứ tự đường truyền — không phải CDMA.
-
-### Cách khắc phục
-- **Đặt đường truyền bị ảnh hưởng làm đường thoại mặc định**: `Cài đặt > Di động > Đường thoại mặc định`.
-- **Bật VoLTE**: `Cài đặt > Di động > [đường truyền] > Giọng nói & Dữ liệu`, sau đó chọn LTE hoặc 5G (VoLTE/VoNR).
-- **Xác nhận gói bao gồm thoại**. Nếu đó là eSIM du lịch chỉ dữ liệu, hãy giữ đường truyền nhà của bạn làm đường thoại và sử dụng eSIM chỉ cho dữ liệu.
-- **Liên hệ với nhà mạng** để xác minh thoại qua LTE/5G được bật cho số của bạn khi chuyển vùng.
-
-Để so sánh sâu hơn về mạng nhà mạng Mỹ, xem **[so sánh mạng nhà mạng Mỹ của chúng tôi](/carriers/united-states-esim-carrier-guide/)**.
+Xem danh sách đầy đủ các iPhone tương thích tại [kiểm tra khả năng dual eSIM của iPhone của bạn](/compatibility/).
 
 
-## 3. Dual eSIM: Một số có thể gọi ra nhưng không thể nhận cuộc gọi đến
+## Tại Sao Một Đường Dual eSIM Báo No Service
 
-**Triệu chứng**: Đường A hoạt động bình thường. Đường B có thể thực hiện cuộc gọi đi, nhưng cuộc gọi đến B chuyển thẳng đến hộp thư thoại hoặc đổ chuông báo "không khả dụng".
+Nếu một trong hai đường dual eSIM của bạn dùng được dữ liệu nhưng không thể gọi hay nhận cuộc gọi — **hoặc hiển thị "No Service" hoàn toàn** — những nguyên nhân phổ biến nhất năm 2026 là:
 
-**Nguyên nhân gốc**: Không khớp định tuyến cuộc gọi mạng. Khi Đường B gần đây chuyển đổi giữa 5G và LTE, hoặc sử dụng Wi‑Fi Calling, mạng của nhà mạng vẫn có thể cố gắng định tuyến cuộc gọi đến qua đường dẫn sai.
+- **VoLTE / VoNR chưa được bật** cho đường đó. Một số nhà mạng vô hiệu hóa voice-over-data roaming trên các gói eSIM, khiến đường đó chỉ còn dữ liệu. (Cách kiểm tra đơn giản: nếu bạn dùng được dữ liệu nhưng không gọi ra được, đây có thể là vấn đề.)
+- **Thứ tự đường**. iOS định tuyến thoại đến *đường thoại mặc định* của bạn; một đường phụ được đặt chỉ dữ liệu không thể gọi hay nhận cuộc gọi.
+- **Gói cước không bao gồm thoại**. Một số eSIM du lịch vốn chỉ có dữ liệu và không có dịch vụ thoại. Nếu đúng vậy, bạn sẽ thấy sóng nhưng cố gọi sẽ thất bại.
 
-**Phép tương tự:** Hãy tưởng tượng nhà mạng có một cuốn sổ địa chỉ cũ vẫn ghi số điện thoại của bạn tại ngôi nhà trước đây. Khi ai đó gọi, họ đến sai địa điểm. Bật/tắt Wi‑Fi Calling sẽ cập nhật cuốn sổ địa chỉ.
+> **Lưu ý:** Các mạng 3G/CDMA đời cũ đã ngừng hoạt động ở Mỹ và Nhật Bản. Verizon và US Cellular tắt CDMA trong giai đoạn 2022-2024, và au/KDDI kết thúc 3G năm 2022. Năm 2026, một đường báo "không có dịch vụ thoại" gần như luôn là vấn đề VoLTE, gói cước hoặc thứ tự đường — không phải CDMA.
 
-### Cách khắc phục nhanh (phía người dùng)
-1. Tạm thời tắt **Wi‑Fi Calling**: `Cài đặt > Di động > Đường B > Wi‑Fi Calling` → TẮT.
+### Các giải pháp
+- **Đặt đường gặp vấn đề làm đường thoại mặc định**: `Settings > Cellular > Default Voice Line`.
+- **Bật VoLTE**: `Settings > Cellular > [đường] > Voice & Data`, rồi chọn LTE hoặc 5G (VoLTE/VoNR).
+- **Xác nhận gói cước bao gồm thoại**. Nếu đó là eSIM du lịch chỉ dữ liệu, hãy giữ đường nhà mạng gốc làm đường thoại và chỉ dùng eSIM cho dữ liệu.
+- **Liên hệ nhà mạng** để xác minh voice-over-LTE/5G được bật cho số của bạn khi roaming.
+
+Xem so sánh sâu hơn về các mạng nhà mạng Mỹ tại **so sánh mạng nhà mạng Mỹ** trong [hướng dẫn gói eSIM Mỹ](/faq/the-ultimate-guide-to-us-esim-in-2026-how-to-choose-the-best-plan/).
+
+
+## Đường Dual eSIM Không Nhận Được Cuộc Gọi
+
+**Triệu chứng**: Đường A hoạt động bình thường. Đường B gọi ra được, nhưng cuộc gọi đến đường B đi thẳng vào hộp thư thoại hoặc đổ chuông báo "không khả dụng".
+
+**Nguyên nhân gốc**: Mismatch định tuyến cuộc gọi của mạng. Khi Đường B gần đây chuyển đổi giữa 5G và LTE, hoặc dùng Wi-Fi Calling, mạng nhà mạng vẫn có thể cố định tuyến cuộc gọi đến qua đường sai.
+
+**Ví dụ minh họa:** Hãy tưởng tượng nhà mạng có một cuốn sổ địa chỉ cũ vẫn ghi điện thoại của bạn ở ngôi nhà trước. Khi có người gọi, họ đến nhầm chỗ. Việc bật/tắt Wi‑Fi Calling cập nhật cuốn sổ địa chỉ đó.
+
+### Khắc phục nhanh trên điện thoại
+1. Tạm tắt **Wi‑Fi Calling**: `Settings > Cellular > Đường B > Wi‑Fi Calling` → OFF.
 2. Khởi động lại iPhone.
-3. Bật Wi‑Fi Calling lại.
+3. Bật lại Wi‑Fi Calling.
 
-### Cách khắc phục phía nhà mạng (gọi hỗ trợ)
-Yêu cầu nhà mạng **đặt lại định tuyến cuộc gọi** hoặc **làm mới đường truyền** cho số này. Điều này thường có hiệu lực ngay sau khi nhà mạng cấp lại đường truyền. Để biết thêm về định tuyến cuộc gọi và các vấn đề liên quan đến cuộc gọi khác, xem **[Sửa 14 trong hướng dẫn khắc phục sự cố của chúng tôi](/faq/esim-deep-troubleshooting-guide-2026/#14-dual-sim-one-number-can-call-out-but-cannot-receive-incoming-calls)**.
+### Khắc phục qua nhà mạng bằng cách gọi bộ phận hỗ trợ
+Yêu cầu nhà mạng **reset định tuyến cuộc gọi** hoặc **làm mới đường** cho số này. Điều này thường có hiệu lực ngay sau khi nhà mạng cấp phát lại đường. Xem thêm các vấn đề định tuyến cuộc gọi và các vấn đề liên quan đến cuộc gọi khác tại **[Fix 3 phía trên](#a-dual-esim-line-that-cannot-receive-calls)**.
 
-### Ngăn tái diễn
+### Phòng ngừa tái diễn
 - Tránh chuyển đổi nhanh giữa 5G/LTE (giữ một chế độ ít nhất vài giờ).
-- Nếu bạn đi du lịch thường xuyên, hãy giữ **Chuyển vùng dữ liệu** TẮT cho đường truyền không cần dữ liệu.
+- Nếu bạn thường xuyên đi du lịch, hãy giữ **Data Roaming** OFF cho đường không cần dữ liệu.
 
 
-## 4. Dual eSIM: Trong khi gọi, đường truyền kia hiển thị "Không có dịch vụ" – Điều này bình thường
+## Một Đường Báo No Service Trong Lúc Gọi Là Hiện Tượng Bình Thường
 
-**Triệu chứng**: Bạn đang thực hiện cuộc gọi bằng Đường A. Khi bạn kiểm tra, Đường B hiển thị "Không có dịch vụ".
+**Triệu chứng**: Bạn đang gọi bằng Đường A. Khi kiểm tra, Đường B hiển thị "No Service".
 
-**Giải thích**: iPhone là **dual standby, không phải dual active** (còn được gọi là DSDS – Dual SIM Dual Standby). Chỉ một đường truyền có thể duy trì kết nối di động tại một thời điểm. Trong khi đang gọi, đường truyền kia tạm thời không liên lạc được. Ngay khi cuộc gọi kết thúc, cả hai đường truyền kết nối lại. Đây **không phải là lỗi dual eSIM** – đó là do thiết kế.
+**Giải thích**: iPhone là **dual standby chứ không phải dual active** (còn gọi là DSDS – Dual SIM Dual Standby). Chỉ một đường có thể duy trì kết nối di động tại một thời điểm. Trong lúc gọi, đường còn lại tạm thời không liên lạc được. Ngay khi cuộc gọi kết thúc, cả hai đường kết nối lại. Đây **không phải lỗi dual eSIM** – nó là thiết kế có chủ đích.
 
-### Những gì bạn có thể làm:
-- **Bật Wi‑Fi Calling trên cả hai đường truyền** – sau đó đường truyền nhàn rỗi có thể sử dụng Wi‑Fi để nhận cuộc gọi trong khi bạn đang ở trên đường truyền kia. Tài liệu [dual standby của Apple](https://support.apple.com/guide/iphone/iph22f1a8af1/ios) giải thích điều này chi tiết hơn.
-- **Bật "Cho phép chuyển đổi dữ liệu di động"** – trong `Cài đặt > Di động > Dữ liệu di động`. Điều này cho phép đường truyền không dữ liệu sử dụng kết nối của đường truyền dữ liệu cho Wi‑Fi Calling.
+### Bạn Có Thể Làm Gì
+- **Bật Wi‑Fi Calling trên cả hai đường** – khi đó đường rảnh có thể dùng Wi-Fi để nhận cuộc gọi trong khi bạn đang gọi trên đường kia. Tài liệu [dual standby của Apple](https://support.apple.com/guide/iphone/iph22f1a8af1/ios) giải thích điều này chi tiết hơn.
+- **Bật "Allow Cellular Data Switching"** – trong `Settings > Cellular > Cellular Data`. Điều này cho phép đường không dùng dữ liệu dùng kết nối của đường dữ liệu cho Wi-Fi Calling.
 
-> 📌 Lưu ý: Một số nhà mạng không hỗ trợ Wi‑Fi Calling đồng thời trên cả hai đường truyền. Kiểm tra với nhà mạng của bạn.
+> 📌 Lưu ý: Một số nhà mạng không hỗ trợ Wi‑Fi Calling đồng thời trên cả hai đường. Hãy kiểm tra với nhà mạng của bạn.
 
 
-## 5. Dual eSIM không hoạt động? Kiểm tra khóa nhà mạng trước
+## Dual eSIM Không Hoạt Động Trên Điện Thoại Bị Khóa Nhà Mạng
 
 Nếu bạn không thể thêm eSIM thứ hai hoặc SIM vật lý:
-- iPhone của bạn có thể bị **khóa nhà mạng** với nhà mạng đầu tiên.
-- Để kiểm tra: `Cài đặt > Cài đặt chung > Giới thiệu` → cuộn đến **Khóa nhà mạng**. Nó phải hiển thị "Không có hạn chế SIM".
+- iPhone của bạn có thể bị **khóa nhà mạng** vào nhà mạng đầu tiên.
+- Cách kiểm tra: `Settings > General > About` → cuộn xuống **Carrier Lock**. Nó phải hiển thị "No SIM restrictions".
 
-### Phải làm gì nếu bị khóa:
-- Liên hệ với nhà mạng để yêu cầu mở khóa. Các nhà mạng Mỹ phải mở khóa sau khi thiết bị đã thanh toán hết.
-- Nếu đã mở khóa nhưng vẫn không hoạt động, bạn có thể cần đặt lại cài đặt mạng: `Cài đặt > Cài đặt chung > Chuyển hoặc Đặt lại iPhone > Đặt lại > Đặt lại cài đặt mạng`. (Cảnh báo: thao tác này sẽ xóa mật khẩu Wi‑Fi.)
+### Cần Làm Gì Nếu Điện Thoại Bị Khóa
+- Liên hệ nhà mạng để yêu cầu mở khóa. Các nhà mạng Mỹ phải mở khóa sau khi thiết bị được trả hết tiền.
+- Nếu đã mở khóa nhưng vẫn không hoạt động, bạn có thể cần reset cài đặt mạng: `Settings > General > Transfer or Reset iPhone > Reset > Reset Network Settings`. (Cảnh báo: việc này sẽ xóa mật khẩu Wi‑Fi đã lưu.)
 
-Sau khi mở khóa, bạn cũng có thể di chuyển eSIM giữa iPhone và Android – xem **[hướng dẫn Chuyển eSIM Đa nền tảng 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)** của chúng tôi để biết hướng dẫn từng bước.
+Sau khi mở khóa, bạn cũng có thể chuyển eSIM giữa iPhone và Android – xem **[hướng dẫn chuyển eSIM đa nền tảng 2026](/faq/how-to-transfer-esim-between-iphone-and-android/)** của chúng tôi để có hướng dẫn từng bước.
 
 
-## 6. Dual eSIM hao pin: Cách giảm
+## Cách Giảm Tụt Pin Do Dual eSIM
 
-Chạy **dual eSIM** hoặc thậm chí eSIM + SIM vật lý có thể làm tăng mức tiêu thụ pin vì cả hai đường truyền đều duy trì kết nối tích cực với mạng. Đây là cách giảm thiểu hao pin trong khi vẫn giữ cả hai đường truyền hoạt động:
+Chạy **dual eSIM** hoặc thậm chí eSIM + SIM vật lý có thể làm tăng mức tiêu thụ pin vì cả hai đường đều duy trì kết nối chủ động với mạng. Đây là cách giảm tụt pin mà vẫn giữ cả hai đường hoạt động:
 
 | Chiến lược | Hiệu quả |
 |----------|--------|
-| Đặt đường truyền có tín hiệu yếu hơn **chỉ sử dụng LTE** (không phải 5G) | Tiết kiệm vừa phải |
-| Tắt **Chuyển vùng dữ liệu** trên đường truyền không dùng cho dữ liệu | Tiết kiệm quét |
-| Tắt **5G Standalone** (nếu nhà mạng của bạn cho phép) | Giúp ích rất nhiều |
-| Sử dụng **Chế độ dữ liệu thấp** cho ứng dụng nền trên đường truyền thứ cấp | Tiết kiệm nhỏ |
-| Ở khu vực tín hiệu rất yếu, tạm thời tắt đường truyền thứ cấp | Tiết kiệm đáng kể |
+| Đặt đường có sóng yếu hơn **chỉ dùng LTE** (không dùng 5G) | Tiết kiệm vừa phải |
+| Tắt **Data Roaming** trên đường không dùng dữ liệu | Tiết kiệm việc quét mạng |
+| Tắt **5G Standalone** (nếu nhà mạng cho phép) | Giúp ích nhiều |
+| Dùng **Low Data Mode** cho ứng dụng chạy nền trên đường phụ | Tiết kiệm nhẹ |
+| Ở vùng sóng rất yếu, tạm thời vô hiệu hóa đường phụ | Tiết kiệm đáng kể |
 
-Để tắt một đường truyền: `Cài đặt > Di động` → nhấn vào đường truyền → chuyển đổi tắt **Bật đường truyền này**. Nếu bạn thường xuyên đi du lịch quốc tế, [hãy thử dùng thử eSIM miễn phí của Roami](/free-esim/) như một giải pháp thay thế tiết kiệm pin.
+Để vô hiệu hóa một đường: `Settings > Cellular` → chạm vào đường → tắt **Turn On This Line**. Nếu bạn thường xuyên du lịch quốc tế, [hãy thử gói dùng thử eSIM miễn phí của Roami](/free-esim/) như một phương án tiết kiệm pin.
 
 
-## 7. Xung đột eSIM + SIM vật lý và sự cố khay
+## Xung Đột Giữa eSIM và SIM Vật Lý cùng Sự Cố Khay SIM
 
-**Triệu chứng**: nano‑SIM của bạn hoạt động trong điện thoại khác nhưng không hoạt động trong iPhone của bạn. Hoặc, eSIM của bạn hoạt động tốt nhưng SIM vật lý không được nhận dạng khi cả hai được cài đặt.
+**Triệu chứng**: nano‑SIM của bạn hoạt động trên điện thoại khác nhưng không hoạt động trên iPhone. Hoặc, eSIM của bạn hoạt động bình thường nhưng SIM vật lý không được nhận diện khi cả hai cùng được cài.
 
 **Nguyên nhân phổ biến**:
-- iPhone bị **khóa nhà mạng** với một mạng khác.
-- Khay SIM không được đẩy vào hoàn toàn hoặc bị hỏng.
+- iPhone bị **khóa nhà mạng** vào mạng khác.
+- Khay SIM chưa cắm sát hoặc bị hỏng.
 - Thẻ SIM **quá cũ** (trước 4G) hoặc bị cong.
-- **Xung đột SIM vật lý**: Trên một số iPhone, việc lắp SIM vật lý có thể tạm thời vô hiệu hóa khe eSIM nếu thiết bị bị khóa nhà mạng.
+- **Xung đột SIM vật lý**: Trên một số iPhone, việc cắm SIM vật lý có thể tạm thời vô hiệu hóa khe eSIM nếu thiết bị bị khóa nhà mạng.
 
-**Cách khắc phục**:
-1. Tháo khay, lau sạch các tiếp điểm bằng vải mềm.
-2. Đẩy lại chắc chắn cho đến khi nghe thấy tiếng click.
+**Các giải pháp**:
+1. Tháo khay, lau tiếp điểm bằng vải mềm.
+2. Cắm lại chặt tay cho đến khi nghe tiếng lách.
 3. Khởi động lại iPhone.
-4. Nếu vẫn không được nhận dạng, hãy thử SIM trong điện thoại khác – nếu hoạt động, đầu đọc SIM của iPhone bạn có thể bị hỏng.
-5. Thay thẻ SIM tại cửa hàng nhà mạng (miễn phí cho hầu hết các gói trả sau).
+4. Nếu vẫn không được nhận diện, thử SIM trên điện thoại khác – nếu hoạt động, đầu đọc SIM của iPhone bạn có thể bị lỗi.
+5. Đổi thẻ SIM tại cửa hàng nhà mạng (miễn phí cho hầu hết gói trả sau).
 
-> **Nếu eSIM của bạn biến mất sau khi lắp SIM vật lý:** Một số iPhone bị khóa nhà mạng vô hiệu hóa khe eSIM khi lắp SIM vật lý từ nhà mạng khác. Tháo SIM vật lý, khởi động lại và eSIM của bạn sẽ xuất hiện lại. Sau đó liên hệ với nhà mạng để mở khóa thiết bị.
+> **Nếu eSIM của bạn biến mất sau khi cắm SIM vật lý:** Một số iPhone bị khóa nhà mạng sẽ vô hiệu hóa khe eSIM khi một SIM vật lý từ nhà mạng khác được cắm vào. Tháo SIM vật lý, khởi động lại, và eSIM của bạn sẽ xuất hiện lại. Sau đó liên hệ nhà mạng để mở khóa thiết bị.
 
-Nếu bạn có kế hoạch chuyển hoàn toàn sang eSIM, hãy tham khảo **[hướng dẫn eSIM iPhone 16](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)** của chúng tôi để biết các phương pháp kích hoạt.
-
-
-## 8. Trường hợp đặc biệt theo khu vực: Trung Quốc, Hồng Kông, Ma Cao
-
-iPhone Trung Quốc đại lục (trừ iPhone 16) có hai khe nano‑SIM vật lý và **không có hỗ trợ eSIM nào cả**. Các model Hồng Kông và Ma Cao thường hỗ trợ eSIM + SIM vật lý. Nếu bạn mua iPhone hai SIM vật lý Trung Quốc đại lục, bạn không thể cài đặt bất kỳ eSIM nào, bao gồm cả eSIM du lịch quốc tế – đây là giới hạn phần cứng.
-
-Apple bán các model hai SIM vật lý cụ thể tại **Trung Quốc đại lục**:
-- iPhone 16, 17 Pro, 17 Pro Max: **hai khe nano‑SIM vật lý** (không có eSIM trừ Air).
-- iPhone 16: **chỉ eSIM** (toàn cầu, bao gồm Trung Quốc).
-
-**Các model Hồng Kông và Ma Cao**:
-- Hỗ trợ **eSIM + SIM vật lý** (giống như model quốc tế) hoặc hai SIM vật lý tùy theo model.
-- Luôn xác minh trước khi mua nếu bạn có kế hoạch sử dụng gói eSIM du lịch.
-
-> ⚠️ **Quan trọng**: Nếu bạn mua iPhone hai SIM vật lý Trung Quốc đại lục, bạn **không thể cài đặt bất kỳ eSIM nào** (bao gồm cả eSIM du lịch quốc tế) – trừ iPhone 16. Đây là giới hạn phần cứng, không phải chặn phần mềm.
+Nếu bạn dự định chuyển hoàn toàn sang eSIM, hãy tham khảo **[hướng dẫn eSIM iPhone 16](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/)** của chúng tôi để biết các phương pháp kích hoạt.
 
 
-## 9. Dual eSIM cho công việc & cá nhân: Các phương pháp tốt nhất
+## Dual eSIM Ở Trung Quốc, Hồng Kông và Ma Cao
 
-Nhiều người dùng giữ **số công việc** (eSIM) và **số cá nhân** (eSIM thứ hai hoặc SIM vật lý). Đây là cách thiết lập cấu hình **dual eSIM** của bạn một cách sạch sẽ:
+Các iPhone Trung Quốc đại lục (trừ iPhone 16) có hai khe nano‑SIM vật lý và **hoàn toàn không hỗ trợ eSIM**. Các model Hồng Kông và Ma Cao thường hỗ trợ eSIM + SIM vật lý. Nếu bạn mua một iPhone dual‑SIM‑vật‑lý của Trung Quốc đại lục, bạn không thể cài bất kỳ eSIM nào, kể cả eSIM du lịch quốc tế – đây là giới hạn phần cứng.
 
-### Dán nhãn đường truyền rõ ràng
-`Cài đặt > Di động` → nhấn vào một đường truyền → `Nhãn gói di động` → chọn "Công việc" hoặc "Cá nhân", hoặc tạo nhãn tùy chỉnh.
+Apple bán các model dual‑SIM‑vật‑lý cụ thể tại **Trung Quốc đại lục**:
+- iPhone 16, 17 Pro, 17 Pro Max: **hai khe nano‑SIM vật lý** (không có eSIM trừ bản Air).
+- iPhone 16: **chỉ có eSIM** (toàn cầu, kể cả Trung Quốc).
 
-### Chọn thoại & dữ liệu mặc định
-- **Đường thoại mặc định**: Đường truyền nào được sử dụng khi bạn quay số từ ứng dụng Điện thoại gốc (bạn vẫn có thể chọn cho từng cuộc gọi).
-- **Dữ liệu di động**: Đường truyền nào sử dụng dữ liệu di động. Bật **Cho phép chuyển đổi dữ liệu di động** để điện thoại có thể tạm thời sử dụng dữ liệu của đường truyền kia nếu đường truyền chính mất tín hiệu.
+Các model **Hồng Kông và Ma Cao**:
+- Hỗ trợ **eSIM + SIM vật lý** (như model quốc tế) hoặc dual SIM vật lý tùy model.
+- Luôn xác minh trước khi mua nếu bạn định dùng các gói eSIM du lịch.
 
-### Tách biệt danh bạ
-- Gán danh bạ cho một đường truyền cụ thể: Chỉnh sửa danh bạ → `Đường truyền ưa thích` → chọn công việc hoặc cá nhân.
-
-### Ngăn chặn chuyển vùng ngoài ý muốn
-- Tắt **Chuyển vùng dữ liệu** cho đường truyền công việc nếu nó có giá quốc tế đắt đỏ.
+> ⚠️ **Quan trọng**: Nếu bạn mua một iPhone dual‑SIM‑vật‑lý của Trung Quốc đại lục, bạn **không thể cài bất kỳ eSIM nào** (kể cả eSIM du lịch quốc tế) – trừ iPhone 16. Đây là giới hạn phần cứng, không phải chặn bằng phần mềm.
 
 
-## 10. Bảng khắc phục sự cố – Các tình huống Dual eSIM
+## Dual eSIM Cho Đường Công Việc và Cá Nhân
 
-| Vấn đề | Bước ngay lập tức | Sửa lâu dài | Nếu vẫn không hoạt động |
+Nhiều người dùng giữ một **số công việc** (eSIM) và **số cá nhân** (eSIM thứ hai hoặc SIM vật lý). Đây là cách thiết lập cấu hình **dual eSIM** của bạn một cách gọn gàng:
+
+### Gắn nhãn các đường rõ ràng
+`Settings > Cellular` → chạm vào một đường → `Cellular Plan Label` → chọn "Business" hoặc "Personal", hoặc tạo nhãn tùy chỉnh.
+
+### Chọn đường thoại và dữ liệu mặc định
+- **Default Voice Line**: Đường nào được dùng khi bạn gọi từ ứng dụng Phone gốc (bạn vẫn có thể chọn theo từng cuộc gọi).
+- **Cellular Data**: Đường nào dùng dữ liệu di động. Bật **Allow Cellular Data Switching** để điện thoại có thể tạm dùng dữ liệu của đường kia nếu đường chính mất sóng.
+
+### Phân tách danh bạ
+- Gán liên hệ vào một đường cụ thể: Sửa liên hệ → `Preferred Line` → chọn công việc hoặc cá nhân.
+
+### Phòng ngừa roaming ngoài ý muốn
+- Tắt **Data Roaming** cho đường công việc nếu nó có mức giá quốc tế đắt đỏ.
+
+
+## Bảng Khắc Phục Sự Cố Dual eSIM
+
+| Vấn đề | Bước tức thì | Giải pháp lâu dài | Nếu Vẫn Không Được |
 |---------|----------------|----------------|----------------------|
-| eSIM thứ hai không bao giờ có tín hiệu | Khởi động lại iPhone, sau đó tắt/bật đường truyền | Xác nhận gói đang hoạt động và đường truyền được bật | Liên hệ nhà mạng để cấp lại eSIM |
-| Cuộc gọi chuyển thẳng đến hộp thư thoại (không đổ chuông) | Tắt "Làm im lặng người gọi không xác định" và chuyển tiếp cuộc gọi | Liên hệ nhà mạng để đặt lại định tuyến cuộc gọi | Đặt lại cài đặt mạng |
-| Không thể nhận SMS trên đường truyền thứ hai | Gửi một SMS thử nghiệm từ đường truyền đó đến bất kỳ số nào | Đảm bảo đường truyền không chỉ dữ liệu; nhà mạng có thể cần bật SMS | Sử dụng ứng dụng nhà mạng để đồng bộ lại đường truyền |
-| Hai eSIM nhưng cả hai đều hiển thị "Không có dịch vụ" | Bật/tắt chế độ Máy bay > kiểm tra khóa nhà mạng | Đặt lại cài đặt mạng | Kiểm tra xem nhà mạng có sự cố mất mạng trong khu vực của bạn không |
-| Chuyển đổi đường truyền và FaceTime/iMessage không kích hoạt | Vào `Cài đặt > Tin nhắn > Gửi & Nhận` – chọn số thủ công | Đăng xuất Apple ID và đăng nhập lại | Liên hệ Apple Support |
-| Dữ liệu hiển thị tín hiệu nhưng không có internet | Kiểm tra cài đặt APN (xem Sửa #11) | Cấu hình APN thủ công | Liên hệ nhà cung cấp eSIM để có APN chính xác |
-| Vô tình xóa eSIM | Kiểm tra xem nhà cung cấp có cho phép tải lại không | Liên hệ nhà mạng để có mã QR mới | eSIM du lịch: mua gói mới |
-| Lắp SIM vật lý, eSIM biến mất | Điện thoại bị khóa nhà mạng vô hiệu hóa eSIM với SIM nước ngoài | Tháo SIM vật lý, khởi động lại, eSIM xuất hiện lại | Liên hệ nhà mạng để mở khóa thiết bị |
+| eSIM thứ hai không bao giờ có sóng | Khởi động lại iPhone, rồi bật/tắt đường | Xác nhận gói cước đang hoạt động và đường đã được bật | Liên hệ nhà mạng để cấp phát lại eSIM |
+| Cuộc gọi đi thẳng vào hộp thư thoại (không đổ chuông) | Tắt "Silence Unknown Callers" và chuyển hướng cuộc gọi | Liên hệ nhà mạng để reset định tuyến cuộc gọi | Reset cài đặt mạng |
+| Không nhận được SMS trên đường thứ hai | Gửi SMS thử nghiệm từ đường đó đến bất kỳ số nào | Đảm bảo đường không chỉ có dữ liệu; nhà mạng có thể cần bật SMS | Dùng ứng dụng nhà mạng để đồng bộ lại đường |
+| Hai eSIM nhưng cả hai đều "No Service" | Bật/tắt chế độ máy bay > kiểm tra khóa nhà mạng | Khôi phục cài đặt mạng | Kiểm tra xem nhà mạng có sự cố tại khu vực của bạn không |
+| Đổi đường xong thì FaceTime/iMessage không kích hoạt được | Vào `Settings > Messages > Send & Receive` – chọn số thủ công | Đăng xuất Apple ID và đăng nhập lại | Liên hệ Apple Support |
+| Dữ liệu có sóng nhưng không có internet | Kiểm tra cài đặt APN (xem Fix #11) | Cấu hình APN thủ công | Liên hệ nhà cung cấp eSIM để lấy APN đúng |
+| eSIM bị xóa nhầm | Kiểm tra xem nhà cung cấp có cho tải lại không | Liên hệ nhà mạng để lấy mã QR mới | eSIM du lịch: mua gói mới |
+| Cài SIM vật lý, eSIM biến mất | Điện thoại khóa nhà mạng vô hiệu hóa eSIM khi có SIM nước ngoài | Tháo SIM vật lý, khởi động lại, eSIM xuất hiện lại | Liên hệ nhà mạng để mở khóa thiết bị |
 
 
-## 11. Cách cấu hình cài đặt APN nếu eSIM của bạn không có dữ liệu
+## Cách Cấu Hình Cài Đặt APN Nếu eSIM Của Bạn Không Có Dữ Liệu
 
-**Triệu chứng**: eSIM của bạn hiển thị đầy đủ thanh tín hiệu (hoặc "Không có dịch vụ") nhưng bạn không có kết nối internet – trang web không tải, ứng dụng báo "không có kết nối".
+**Triệu chứng**: eSIM của bạn hiển thị sóng đầy vạch (hoặc "No Service") nhưng không có kết nối internet – website không tải được, ứng dụng báo "không có kết nối".
 
-**Nguyên nhân gốc**: Hồ sơ eSIM được cài đặt chính xác, nhưng cài đặt Tên điểm truy cập (APN) bị thiếu hoặc sai. Một số nhà cung cấp eSIM tự động cấu hình APN; các nhà cung cấp khác yêu cầu nhập thủ công.
+**Nguyên nhân gốc**: Hồ sơ eSIM đã được cài đặt đúng, nhưng cài đặt Access Point Name (APN) bị thiếu hoặc sai. Một số nhà cung cấp eSIM tự cấu hình APN; số khác yêu cầu nhập thủ công.
 
 ### Cách cấu hình APN trên iPhone
 
-1. Vào **Cài đặt > Di động**.
-2. Nhấn vào đường truyền eSIM không có dữ liệu.
-3. Nhấn **Mạng dữ liệu di động** (nếu bạn không thấy tùy chọn này, APN được nhà mạng tự động cấu hình – bỏ qua bản sửa này).
-4. Trong phần **Dữ liệu di động**, điền vào trường **APN**.
-5. Để trống **Tên người dùng** và **Mật khẩu** trừ khi nhà cung cấp của bạn chỉ định khác.
-6. Quay lại, bật/tắt Chế độ Máy bay và kiểm tra dữ liệu.
+1. Vào **Settings > Cellular**.
+2. Chạm vào đường eSIM không có dữ liệu.
+3. Chạm **Cellular Data Network** (nếu bạn không thấy tùy chọn này, APN được cấu hình tự động bởi nhà mạng – bỏ qua giải pháp này).
+4. Trong mục **Cellular Data**, điền vào trường **APN**.
+5. Để trống **Username** và **Password** trừ khi nhà cung cấp chỉ định khác.
+6. Quay lại, bật/tắt Airplane Mode, rồi kiểm tra dữ liệu.
 
 ### Giá trị APN phổ biến cho eSIM du lịch
 
@@ -341,85 +344,85 @@ Nhiều người dùng giữ **số công việc** (eSIM) và **số cá nhân**
 | **Airalo** | globaldata | (để trống) | (để trống) |
 | **Holafly** | hola | (để trống) | (để trống) |
 | **Nomad** | nbdata | (để trống) | (để trống) |
-| **T‑Mobile (Mỹ)** | fast.t-mobile.com | (để trống) | (để trống) |
-| **AT&T (Mỹ)** | nxgen | (để trống) | (để trống) |
-| **Verizon (Mỹ)** | vzwinternet | (để trống) | (để trống) |
-| **EE (Anh)** | everywhere | (để trống) | (để trống) |
-| **O2 (Anh)** | mobile.o2.co.uk | web | web |
-| **Vodafone (Anh)** | internet | (để trống) | (để trống) |
-| **Three (Anh)** | three.co.uk | (để trống) | (để trống) |
-| **Orange (Pháp)** | orange.fr | (để trống) | (để trống) |
+| **T‑Mobile (US)** | fast.t-mobile.com | (để trống) | (để trống) |
+| **AT&T (US)** | nxgen | (để trống) | (để trống) |
+| **Verizon (US)** | vzwinternet | (để trống) | (để trống) |
+| **EE (UK)** | everywhere | (để trống) | (để trống) |
+| **O2 (UK)** | mobile.o2.co.uk | web | web |
+| **Vodafone (UK)** | internet | (để trống) | (để trống) |
+| **Three (UK)** | three.co.uk | (để trống) | (để trống) |
+| **Orange (France)** | orange.fr | (để trống) | (để trống) |
 
-> **Nếu trường APN bị mờ:** Nhà mạng của bạn đã khóa cài đặt APN. Điều này phổ biến với eSIM nhà mạng trả sau (Verizon, T‑Mobile, AT&T). Liên hệ với nhà mạng để được hỗ trợ – bạn không thể thay đổi thủ công.
+> **Nếu trường APN chuyển xám:** Nhà mạng của bạn đã khóa cài đặt APN. Điều này phổ biến với các eSIM trả sau của nhà mạng (Verizon, T‑Mobile, AT&T). Hãy liên hệ nhà mạng để được hỗ trợ – bạn không thể tự thay đổi thủ công.
 
-> **Nếu APN đúng nhưng vẫn không có dữ liệu:** Khởi động lại iPhone, bật/tắt Chế độ Máy bay hoặc kiểm tra xem Chuyển vùng dữ liệu đã được bật chưa (Cài đặt > Di động > [đường truyền] > Chuyển vùng dữ liệu BẬT).
-
-
-## 12. Mẹo chuyên nghiệp cuối cùng cho người dùng Dual eSIM
-
-- **Dán nhãn đường truyền** ngay sau khi thiết lập – nó giúp tránh nhầm lẫn vô tận.
-- **Đặt nhạc chuông khác nhau** cho mỗi đường truyền: `Cài đặt > Âm thanh & Cảm ứng > Nhạc chuông` → cuộn xuống, bạn có thể chỉ định cho từng đường truyền.
-- **Sử dụng tự động hóa Phím tắt** để thay đổi đường thoại mặc định theo thời gian (ví dụ: giờ làm việc = đường công việc; buổi tối = đường cá nhân).
-- **Trước khi bán thiết bị**: Vào `Cài đặt > Di động`, xóa **tất cả** eSIM và tháo SIM vật lý. Sau đó xóa tất cả nội dung và cài đặt. Để có hướng dẫn chi tiết về cách xóa eSIM và hủy gói, hãy tham khảo **[Sửa #9 trong hướng dẫn khắc phục sự cố của chúng tôi](/faq/esim-deep-troubleshooting-guide-2026/#9-after-deleting-esim-carrier-still-charges--cannot-reactivate)**.
+> **Nếu APN đúng nhưng vẫn không có dữ liệu:** Khởi động lại iPhone, bật/tắt Airplane Mode, hoặc kiểm tra xem Data Roaming đã bật chưa (Settings > Cellular > [đường] > Data Roaming ON).
 
 
-## Câu hỏi thường gặp
+## Mẹo Chuyên Gia Cuối Cùng Cho Người Dùng Dual eSIM
 
-**Q1: Tôi có thể sử dụng hai eSIM từ cùng một nhà mạng không?**
-Có, miễn là nhà mạng của bạn cho phép nhiều hồ sơ eSIM trên một tài khoản. Ví dụ: T‑Mobile US hỗ trợ tối đa hai eSIM trên cùng một iPhone.
+- **Gắn nhãn các đường** ngay sau khi thiết lập – điều này tránh vô số nhầm lẫn.
+- **Đặt nhạc chuông khác nhau** cho từng đường: `Settings > Sounds & Haptics > Ringtone` → cuộn xuống, bạn có thể gán theo từng đường.
+- **Dùng tự động hóa Shortcuts** để đổi đường thoại mặc định theo thời gian (ví dụ: giờ làm việc = đường công việc; buổi tối = cá nhân).
+- **Trước khi bán thiết bị**: Vào `Settings > Cellular`, xóa **tất cả** eSIM, và tháo SIM vật lý. Sau đó xóa toàn bộ nội dung và cài đặt. Để có hướng dẫn chi tiết về xóa eSIM và hủy gói cước, tham khảo **[Fix #15 trong hướng dẫn khắc phục sự cố của chúng tôi](/faq/esim-deep-troubleshooting-guide-2026/#esim-deleted-by-mistake)**.
 
-**Q2: Cả hai đường truyền có hỗ trợ 5G đồng thời không?**
-Có, trên iPhone 13 trở lên (bao gồm iPhone 16), cả hai đường truyền đều có thể ở 5G (dual 5G standby). Tuy nhiên, chỉ một đường truyền có thể sử dụng dữ liệu 5G tại một thời điểm; đường kia sử dụng 5G cho dự phòng thoại (VoNR).
 
-**Q3: Đường truyền thứ hai của tôi hoạt động nhưng đường truyền đầu tiên ngừng hoạt động sau khi thêm nó – điều gì đã xảy ra?**
-Bạn có thể vô tình hoán đổi cài đặt đường truyền chính. Vào `Cài đặt > Di động > Đường thoại mặc định` và đặt lại.
+## Câu Hỏi Thường Gặp
 
-**Q4: Dual eSIM có hao pin nhiều hơn eSIM + SIM vật lý không?**
-Nói chung, dual eSIM tiêu thụ ít năng lượng hơn một chút vì không có đầu đọc thẻ vật lý. Nhưng sự khác biệt là không đáng kể (trong vòng 2‑3%).
+**Câu 1: Tôi có thể dùng hai eSIM từ cùng một nhà mạng không?**  
+Có, miễn là nhà mạng của bạn cho phép nhiều hồ sơ eSIM trên một tài khoản. Ví dụ, T‑Mobile US hỗ trợ tối đa hai eSIM trên cùng một iPhone.
 
-**Q5: Tôi đang đi du lịch – tôi có thể sử dụng eSIM địa phương cho dữ liệu và giữ eSIM nhà để gọi không?**
-Có, phương pháp tốt nhất:
-- Đặt eSIM địa phương làm đường **Dữ liệu di động**.
-- Giữ eSIM nhà làm **Đường thoại mặc định**.
-- Tắt **Chuyển vùng dữ liệu** trên eSIM nhà để tránh phí lớn.
-- Bật **Cho phép chuyển đổi dữ liệu di động** để đường truyền nhà có thể sử dụng dữ liệu của eSIM địa phương cho Wi‑Fi Calling & MMS.
+**Câu 2: Cả hai đường có hỗ trợ 5G đồng thời không?**  
+Có, trên iPhone 13 trở lên (bao gồm iPhone 16), cả hai đường đều có thể dùng 5G (dual 5G standby). Tuy nhiên, chỉ một đường có thể dùng dữ liệu 5G tại một thời điểm; đường kia dùng 5G để dự phòng thoại (VoNR).
 
-Nếu bạn thường xuyên chuyển đổi giữa các thiết bị khi đi du lịch, **[hướng dẫn chuyển eSIM đa nền tảng](/faq/how-to-transfer-esim-between-iphone-and-android/)** sẽ giúp bạn di chuyển số của mình một cách liền mạch.
+**Câu 3: Đường thứ hai của tôi hoạt động nhưng đường đầu tiên ngừng hoạt động sau khi thêm – chuyện gì đã xảy ra?**  
+Bạn có thể đã vô tình tráo đổi cài đặt đường chính. Vào `Settings > Cellular > Default Voice Line` và đặt lại.
 
-**Q6: Tại sao eSIM thứ hai đôi khi biến mất sau khi cập nhật iOS?**
-Lỗi hiếm gặp. Vào `Cài đặt > Di động` → nếu đường truyền bị thiếu nhưng vẫn hiển thị trong "SIM có sẵn", hãy nhấn vào đó và kích hoạt lại. Nếu không, hãy liên hệ với nhà mạng để đẩy lại hồ sơ.
+**Câu 4: Dual eSIM có tụt pin nhiều hơn eSIM + SIM vật lý không?**  
+Nhìn chung, dual eSIM tiêu thụ ít điện hơn một chút vì không có đầu đọc thẻ vật lý. Nhưng sự khác biệt không đáng kể (trong khoảng 2‑3%).
 
-**Q7: Tôi có thể sử dụng thiết lập dual‑SIM với Apple Watch không?**
-Có. Apple Watch có thể phản chiếu **một** trong các đường truyền của iPhone. Chọn đường truyền bạn muốn trên đồng hồ trong quá trình thiết lập. Lưu ý rằng đồng hồ không thể sử dụng cả hai đường truyền đồng thời – nó chỉ phản chiếu đường truyền đã chọn.
+**Câu 5: Tôi đang đi du lịch – có thể dùng eSIM địa phương cho dữ liệu và giữ eSIM nhà mạng gốc cho cuộc gọi không?**  
+Có, cách tốt nhất:  
+- Đặt eSIM địa phương làm đường **Cellular Data**.  
+- Giữ eSIM nhà mạng gốc làm **Default Voice Line**.  
+- Tắt **Data Roaming** trên eSIM nhà mạng gốc để tránh cước phí khủng.  
+- Bật **Allow Cellular Data Switching** để đường nhà mạng gốc có thể dùng dữ liệu của eSIM địa phương cho Wi‑Fi Calling & MMS.
 
-**Q8: Tôi có thể tìm tài liệu chính thức của Apple về dual eSIM ở đâu?**
-Apple cung cấp hai tài nguyên chính: [Giới thiệu về eSIM trên iPhone](https://support.apple.com/en-us/HT209044) và [Sử dụng Dual SIM với eSIM](https://support.apple.com/en-us/HT209086). Các tài liệu này bao gồm khả năng tương thích và thiết lập cơ bản.
+Nếu bạn thường xuyên chuyển đổi giữa các thiết bị khi đi du lịch, **[hướng dẫn chuyển eSIM đa nền tảng](/faq/how-to-transfer-esim-between-iphone-and-android/)** sẽ giúp bạn chuyển số một cách liền mạch.
 
-**Q9: Làm thế nào để phục hồi eSIM đã xóa?**
-Nếu bạn đã xóa một hồ sơ eSIM, việc phục hồi phụ thuộc vào nhà mạng của bạn. Đối với eSIM du lịch (Roami, Airalo, v.v.), việc xóa thường là vĩnh viễn – bạn sẽ cần mua một gói mới. Đối với eSIM nhà mạng trả sau (như Verizon, T‑Mobile, AT&T), hãy liên hệ với nhà mạng của bạn – họ thường có thể cấp lại mã QR mới. Luôn giữ bản sao lưu email kích hoạt và mã QR gốc của bạn.
+**Câu 6: Tại sao eSIM thứ hai đôi khi biến mất sau khi cập nhật iOS?**  
+Lỗi hiếm gặp. Vào `Settings > Cellular` → nếu đường bị thiếu nhưng vẫn hiển thị trong "Available SIMs", chạm vào nó và kích hoạt lại. Nếu không, liên hệ nhà mạng để đẩy lại hồ sơ.
 
-**Q10: Tại sao eSIM của tôi có thanh tín hiệu nhưng không có kết nối dữ liệu?**
-Đây hầu như luôn là vấn đề APN. Xem Sửa #11 ở trên để biết hướng dẫn cấu hình từng bước.
+**Câu 7: Tôi có thể dùng cấu hình dual‑SIM với Apple Watch không?**  
+Có. Apple Watch có thể phản chiếu **một** đường của iPhone. Chọn đường bạn muốn trên đồng hồ trong quá trình thiết lập. Lưu ý rằng đồng hồ không thể dùng cả hai đường đồng thời – nó chỉ phản chiếu đường được chọn.
 
-**Q11: "Mã xác nhận eSIM" có nghĩa là gì và tôi tìm nó ở đâu?**
-Một số hồ sơ eSIM yêu cầu mã xác nhận (4‑8 chữ số) trong quá trình kích hoạt. Tìm nó trong email hoặc hướng dẫn kích hoạt của nhà mạng. Nếu không tìm thấy, hãy liên hệ với nhà mạng của bạn.
+**Câu 8: Tôi có thể tìm tài liệu chính thức của Apple về dual eSIM ở đâu?**  
+Apple cung cấp hai nguồn tài nguyên chính: [About eSIM on iPhone](https://support.apple.com/en-us/HT209044) và [Use Dual SIM with an eSIM](https://support.apple.com/en-us/HT209086). Những tài liệu này bao gồm tính tương thích cơ bản và thiết lập.
 
-**Q12: Tôi có thể có hai eSIM đang hoạt động cộng với một SIM vật lý trên iPhone không?**
-Không. iPhone hỗ trợ tối đa **hai đường truyền đang hoạt động** tại bất kỳ thời điểm nào – hoặc hai eSIM HOẶC một eSIM + một SIM vật lý. Bạn không thể có ba đường truyền đang hoạt động đồng thời.
+**Câu 9: Làm sao khôi phục eSIM đã xóa?**  
+Nếu bạn đã xóa một hồ sơ eSIM, việc khôi phục phụ thuộc vào nhà mạng của bạn. Với eSIM du lịch (Roami, Airalo, v.v.), việc xóa thường là vĩnh viễn – bạn sẽ cần mua gói mới. Với eSIM trả sau của nhà mạng (như Verizon, T‑Mobile, AT&T), hãy liên hệ nhà mạng – họ thường có thể cấp lại mã QR mới. Luôn giữ bản sao lưu email kích hoạt và mã QR gốc.
 
-**Q13: Dual eSIM 5G của tôi không hoạt động trên một đường truyền – tôi nên kiểm tra điều gì?**
-Đầu tiên, đảm bảo 5G được bật cho cả hai đường truyền: Cài đặt > Di động > [đường truyền] > Giọng nói & Dữ liệu > chọn 5G Tự động hoặc 5G Bật. Nếu một đường truyền vẫn chỉ hiển thị LTE, hãy kiểm tra với nhà mạng – một số nhà mạng chỉ giới hạn 5G cho đường truyền dữ liệu chính.
+**Câu 10: Tại sao eSIM của tôi có sóng nhưng không có kết nối dữ liệu?**  
+Điều này gần như luôn là vấn đề APN. Xem Fix #11 phía trên để cấu hình từng bước.
 
-**Q14: Tôi lắp SIM vật lý và eSIM của tôi biến mất – làm thế nào để lấy lại?**
-Đây là hành vi đã biết trên các iPhone bị khóa nhà mạng. Tháo SIM vật lý, khởi động lại iPhone và eSIM sẽ xuất hiện lại trong Cài đặt > Di động. Sau đó liên hệ với nhà mạng để mở khóa thiết bị của bạn để cả hai có thể hoạt động đồng thời.
+**Câu 11: "Mã xác nhận eSIM" nghĩa là gì và tôi tìm nó ở đâu?**  
+Một số hồ sơ eSIM yêu cầu mã xác nhận (4‑8 chữ số) trong quá trình kích hoạt. Hãy tìm trong email hoặc hướng dẫn kích hoạt của nhà mạng. Nếu không tìm thấy, hãy liên hệ nhà mạng.
 
-👉 **Đang thiết lập dual eSIM cho du lịch?** Duyệt [gói eSIM cho Mỹ](/united-states-esim/) hoặc [eSIM cho Nhật Bản](/japan-esim/) — cả hai đều hỗ trợ dual eSIM trên các iPhone hiện đại.
+**Câu 12: Tôi có thể có hai eSIM hoạt động cộng thêm một SIM vật lý trên iPhone không?**  
+Không. iPhone hỗ trợ tối đa **hai đường hoạt động** tại bất kỳ thời điểm nào – hoặc hai eSIM HOẶC một eSIM + một SIM vật lý. Bạn không thể có ba đường hoạt động đồng thời.
+
+**Câu 13: Dual eSIM 5G của tôi không hoạt động trên một đường – tôi nên kiểm tra gì?**  
+Trước tiên, đảm bảo 5G được bật cho cả hai đường: Settings > Cellular > [đường] > Voice & Data > chọn 5G Auto hoặc 5G On. Nếu một đường vẫn chỉ hiển thị LTE, hãy kiểm tra với nhà mạng – một số nhà mạng giới hạn 5G chỉ cho đường dữ liệu chính.
+
+**Câu 14: Tôi cắm SIM vật lý và eSIM của tôi biến mất – làm sao lấy lại?**  
+Đây là hành vi đã biết trên các iPhone bị khóa nhà mạng. Tháo SIM vật lý, khởi động lại iPhone, và eSIM sẽ xuất hiện lại trong Settings > Cellular. Sau đó liên hệ nhà mạng để mở khóa thiết bị để cả hai có thể hoạt động đồng thời.
+
+👉 **Đang thiết lập dual eSIM để du lịch?** Xem [gói eSIM cho Hoa Kỳ](/united-states-esim/) hoặc [eSIM cho Nhật Bản](/japan-esim/) — cả hai đều hỗ trợ dual eSIM trên các iPhone hiện đại.
 
 ---
 
-*Dựa trên tài liệu chính thức của Apple, tiêu chuẩn GSMA và thử nghiệm nhà mạng tính đến tháng 8 năm 2026.*
-## Nguồn
+*Dựa trên tài liệu chính thức của Apple, tiêu chuẩn GSMA và kiểm thử nhà mạng tính đến tháng 9 năm 2026.*
+## Nguồn tham khảo
 
-- [GSMA — thông số kỹ thuật eSIM (SGP.22)](https://www.gsma.com/esim/)
-- [Apple Support — eSIM trên iPhone](https://support.apple.com/en-us/108072)
-- [Apple Support — Giới thiệu về eSIM trên iPhone](https://support.apple.com/en-us/HT209044)
+- [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
+- [Apple Support — About eSIM on iPhone](https://support.apple.com/en-us/HT209044)

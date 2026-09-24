@@ -3,7 +3,7 @@ title: "Holafly eSIM Portugal: Dados Ilimitados sem Surpresas"
 h1_title: "Holafly eSIM Portugal 2026: Vale a Pena? Preços, Cobertura e Comparação"
 description: "Guia completo do Holafly eSIM para Portugal em 2026. Dados ilimitados sem throttling, preços a partir de $3.90/dia, cobertura MEO/NOS/Vodafone 5G. Compare com Airalo e Ubigi."
 keywords: ["holafly esim", "holafly esim portugal", "holafly portugal", "holafly eSIM preço", "holafly dados ilimitados", "holafly vs airalo", "holafly cobertura portugal", "holafly como ativar", "esim ilimitado portugal", "holafly 5g portugal", "melhor esim portugal holafly", "holafly hotspot", "holafly avaliação", "holafly vale a pena", "esim portugal holafly", "holafly lisboa", "holafly porto", "holafly algarve"]
-date: 2026-08-10T10:00:00Z
+date: 2026-09-23T00:00:00Z
 lastmod: 2026-08-10T19:30:00Z
 tags: ["Holafly", "eSIM", "Portugal", "Dados Ilimitados", "5G", "Comparação", "Airalo", "Ubigi", "Viagem"]
 toc: true
@@ -78,14 +78,14 @@ sidebar_questions:
 ---
 
 
-**Última atualização:** 7 de agosto de 2026 | Tempo de leitura: 15 minutos
+**Última atualização:** setembro de 2026 | Tempo de leitura: 15 minutos
 
 
 ## O que é o Holafly eSIM e Por Que Escolhê-lo para Portugal?
 
-O Holafly eSIM é um dos provedores de eSIM mais reconhecidos do mercado, especialmente popular entre viajantes que valorizam a simplicidade e a tranquilidade de ter **dados ilimitados** durante toda a viagem. Fundada com o objetivo de eliminar as surpresas na fatura de roaming, a Holafly oferece planos baseados em duração (dias) em vez de volume (GB), o que significa que o utilizador nunca precisa de se preocupar com o esgotamento de dados.
+O Holafly eSIM é um dos provedores de eSIM mais reconhecidos do mercado, especialmente popular entre viajantes que valorizam a simplicidade e a tranquilidade de ter **dados ilimitados** durante toda a viagem. Fundada com o objetivo de eliminar as surpresas na fatura de roaming, a Holafly oferece planos baseados em duração (dias) em vez de volume (GB), o que significa que o utilizador nunca precisa de se preocupar com o esgotamento de dados. (Se o conceito de eSIM ainda é novo para si, comece pelo nosso guia sobre [introdução ao eSIM e como funciona](/faq/what-is-esim-activation-and-how-does-it-work/); a tecnologia de perfil SIM embebido é definida pelo [GSMA](https://www.gsma.com/solutions-and-impact/technologies/esim/), o organismo que padroniza o eSIM usado pelas operadoras de todo o mundo.)
 
-Para quem viaja para Portugal, o Holafly eSIM apresenta-se como uma solução especialmente atrativa. Portugal é um dos destinos mais populares da Europa, com uma procura crescente por conectividade estável e de alta velocidade. O Holafly eSIM para Portugal oferece **dados verdadeiramente ilimitados** — sem redução de velocidade (throttling) — nas redes das três principais operadoras do país: MEO, NOS e Vodafone.
+Para quem viaja para Portugal, o Holafly eSIM apresenta-se como uma solução especialmente atrativa. Portugal é um dos destinos mais populares da Europa, com uma procura crescente por conectividade estável e de alta velocidade. O Holafly eSIM para Portugal oferece **dados ilimitados** — sem plafond de consumo — nas redes das três principais operadoras do país: MEO, NOS e Vodafone. Note que, ao abrigo da política de uso justo, apenas em casos raros a velocidade pode ser limitada temporariamente (no máximo por um dia), segundo a página oficial (consultado em setembro de 2026). E, se a viagem incluir outros países, existem [planos de eSIM europeus](/europe-esim/) que cobrem toda a região com um único perfil.
 
 ### Por Que o Holafly se Destaca?
 
@@ -93,16 +93,16 @@ Para quem viaja para Portugal, o Holafly eSIM apresenta-se como uma solução es
 
 | Vantagem | Descrição |
 |----------|-----------|
-| Dados ilimitados sem throttling | Ao contrário de muitos concorrentes, a Holafly não reduz a velocidade após um determinado consumo |
+| Dados ilimitados | Consumo sem plafond; limitação temporária de velocidade só em casos raros de uso justo (até 1 dia) |
 | Rede 5G | Acesso à rede 5G da NOS e Vodafone em todo o território português |
 | Ativação antes de viajar | Instale o eSIM antes de sair de casa e ative ao chegar |
 | Suporte 24/7 em português | Apoio ao cliente disponível a qualquer hora, em vários idiomas |
 | Planos flexíveis por dia | Escolha exatamente o número de dias de que precisa — de 3 a 30 dias |
 
 
-## Holafly vs. Concorrentes: Onde é que o Holafly Ganha (e Onde Perde)?
+## Holafly vs. Concorrentes para Portugal: Onde Ganha e Onde Perde?
 
-Para perceber se o Holafly eSIM é a melhor escolha para a sua viagem a Portugal, é essencial compará-lo com os principais concorrentes: Airalo e Ubigi.
+Para perceber se o Holafly eSIM é a melhor escolha para a sua viagem a Portugal, é essencial compará-lo com os principais concorrentes: Airalo e Ubigi. Para um panorama mais amplo do mercado, veja o nosso [guia do eSIM Portugal para viajantes](/faq/esim-portugal/).
 
 ### Airalo (A abordagem "pague pelo que usa")
 
@@ -133,13 +133,14 @@ A Ubigi foi eleita a melhor eSIM para Portugal pelo Gizmodo em 2026, com um plan
 ### Holafly (A paz de espírito)
 
 **Vantagens da Holafly:**
-- Dados ilimitados sem qualquer redução de velocidade
+- Dados ilimitados, com limitação temporária de velocidade apenas em casos raros de uso justo (até 1 dia)
 - Modelo simples: escolhe os dias, paga e esquece o resto
 - Funciona nas três principais redes portuguesas (MEO, NOS, Vodafone)
 - Suporte 24/7 e funcionalidade Always On (dados de backup)
 
 **Desvantagens da Holafly:**
-- Preço mais elevado para estadias longas (30 dias: $74.90)
+- Preço mais elevado para estadias longas (30 dias: $73.90)
+- Política de uso justo: em situações raras de consumo anómalo, a velocidade pode ser limitada até 1 dia
 - Hotspot limitado a 1 GB/dia nos planos diários
 - Não oferece número de telefone
 
@@ -148,10 +149,10 @@ A Ubigi foi eleita a melhor eSIM para Portugal pelo Gizmodo em 2026, com um plan
 | Característica | Holafly | Airalo | Ubigi |
 |----------------|---------|--------|-------|
 | Modelo de preço | Por dia | Por GB | Por GB / Ilimitado |
-| Preço inicial (Portugal) | $3.90/dia | $4/1GB/3dias | $6/3GB/30dias |
+| Preço inicial (Portugal) | €3,79/dia (zona EUR) | $4/1GB/3dias | $6/3GB/30dias |
 | Dados ilimitados | Sim (todos os planos) | Sim (a partir de $10.50/3dias) | Sim ($24/7dias) |
-| Preço ilimitado (7 dias) | ~$27 | $10.50 | $24 |
-| Preço ilimitado (30 dias) | $74.90 | $61 | $48 |
+| Preço ilimitado (7 dias) | $27.50 | $10.50 | $24 |
+| Preço ilimitado (30 dias) | $73.90 | $61 | $48 |
 | Redes em Portugal | MEO, NOS, Vodafone | NOS + 2 outras | 4G/5G |
 | 5G | Sim | Sim | Sim |
 | Hotspot/Tethering | Limitado (1GB/dia) | Sim | Sim |
@@ -171,22 +172,22 @@ A Ubigi foi eleita a melhor eSIM para Portugal pelo Gizmodo em 2026, com um plan
 
 ## Planos e Preços do Holafly eSIM para Portugal em 2026
 
-A Holafly oferece planos de dados ilimitados para Portugal baseados na duração da estadia. Quanto mais dias, menor o custo diário efetivo.
+A Holafly oferece planos de dados ilimitados para Portugal baseados na duração da estadia. Quanto mais dias, menor o custo diário efetivo. Na [página oficial do Holafly eSIM para Portugal](https://esim.holafly.com/esim-portugal/), os preços na zona EUR partem de €3,79 por dia, enquanto a tabela USD regista 3 dias por $11.90, 7 dias por $27.50 e 30 dias por $73.90 (consultado em setembro de 2026).
 
 ### Planos Disponíveis
 
 | Duração | Preço (USD) | Preço diário efetivo | Ideal para |
 |---------|-------------|----------------------|------------|
-| 3 dias | ~$11.70 | $3.90 | Fim de semana prolongado |
+| 3 dias | $11.90 | ~$3.97 | Fim de semana prolongado |
 | 5 dias | $20.90 | $4.18 | Viagem curta de trabalho |
-| 7 dias | ~$27 | $3.86 | Uma semana de férias |
+| 7 dias | $27.50 | ~$3.93 | Uma semana de férias |
 | 10 dias | $36.90 | $3.69 | Viagem de duas semanas |
 | 15 dias | ~$47 | $3.13 | Estadia média |
-| 30 dias | $74.90 | $2.50 | Mês inteiro / nómada digital |
+| 30 dias | $73.90 | ~$2.46 | Mês inteiro / nómada digital |
 
 ### O Que Está Incluído em Cada Plano?
 
-- **Dados ilimitados** — sem qualquer limite de consumo ou redução de velocidade
+- **Dados ilimitados** — sem limite de consumo; em casos raros de uso justo, a velocidade pode ser limitada até 1 dia
 - **Rede 5G** — nas redes NOS e Vodafone
 - **Hotspot** — até 1 GB por dia
 - **Suporte 24/7** — em vários idiomas, incluindo português
@@ -233,12 +234,12 @@ Um teste comparativo entre Holafly e Airalo em Lisboa (novembro de 2025) mostrou
 - **Holafly:** média de 42 Mbps download / 9 Mbps upload
 - **Airalo:** média de 38 Mbps download / 12 Mbps upload
 
-Ambas as velocidades são perfeitamente suficientes para trabalho remoto, streaming e chamadas de vídeo.
+Ambas as velocidades são perfeitamente suficientes para trabalho remoto, streaming e chamadas de vídeo. Como referência nacional, o Speedtest Global Index da [Ookla](https://www.speedtest.net/global-index/portugal) apontava uma mediana móvel de 209,01 Mbps em Portugal, o 28.º melhor resultado mundial (consultado em setembro de 2026).
 
 
 ## Como Ativar o Holafly eSIM para Portugal
 
-A ativação do Holafly eSIM é simples e pode ser feita antes de viajar.
+A ativação do Holafly eSIM é simples e pode ser feita antes de viajar. O nosso guia de [como ativar um eSIM no iPhone e no Android](/faq/how-to-activate-an-esim/) cobre os dois sistemas em detalhe.
 
 ### Passo a Passo
 
@@ -266,6 +267,8 @@ A ativação do Holafly eSIM é simples e pode ser feita antes de viajar.
    - Ligue os dados móveis e o roaming de dados
    - A ativação ocorre automaticamente
 
+Passo a passo oficial: as instruções da Apple para [configurar o eSIM no iPhone](https://support.apple.com/pt-pt/118669) incluem a instalação por QR Code e a transferência rápida de um eSIM antigo para um aparelho novo.
+
 ### Dicas Importantes
 
 - **Instale antes de viajar** — a instalação requer ligação à internet
@@ -274,13 +277,13 @@ A ativação do Holafly eSIM é simples e pode ser feita antes de viajar.
 - **Teste a ligação** — após a ativação, verifique se consegue aceder à internet
 
 
-## Hotspot/Tethering no Holafly eSIM: O Que Precisa Saber
+## Hotspot/Tethering no Holafly eSIM em Portugal: O Que Saber
 
 Esta é uma das questões mais importantes para quem trabalha remotamente durante a viagem.
 
 ### Planos Diários (Day eSIMs)
 
-Nos planos diários do Holafly, o **hotspot está limitado a 1 GB por dia**. Isto significa que pode partilhar a ligação com o seu laptop, mas apenas até 1 GB diário.
+Nos planos diários do Holafly, o **hotspot está limitado a 1 GB por dia**. Isto significa que pode partilhar a ligação com o seu laptop, mas apenas até 1 GB diário. Além do hotspot, os planos ilimitados têm uma política de uso justo: só em situações raras de consumo anómalo a velocidade é reduzida, no máximo durante um dia (consultado em setembro de 2026).
 
 **Para quem é esta limitação aceitável:**
 - Utilizadores que apenas precisam de hotspot para consultas rápidas
@@ -305,8 +308,10 @@ O **Holafly Plans** (subscrição mensal/anual) oferece **hotspot ilimitado**, s
 | Ubigi | Ilimitado | $24 |
 | Airalo | Ilimitado | $10.50 (dados limitados) |
 
+Se só quer validar se o seu aparelho aceita perfis eSIM, um [teste grátis de eSIM](/free-esim/) resolve a questão em poucos minutos.
 
-## Avaliações e Opiniões Reais sobre o Holafly eSIM
+
+## Avaliações e Opiniões Reais sobre o Holafly eSIM em Portugal
 
 ### O que os Utilizadores Dizem
 
@@ -331,7 +336,7 @@ O **Holafly Plans** (subscrição mensal/anual) oferece **hotspot ilimitado**, s
 | App Store | 4.8/5 | Milhares |
 
 
-## Holafly eSIM para Diferentes Perfis de Viajante
+## Holafly eSIM para Diferentes Perfis de Viajante em Portugal
 
 ### Viajante de Curta Duração (3-7 dias)
 
@@ -349,7 +354,7 @@ O **Holafly Plans** (subscrição mensal/anual) oferece **hotspot ilimitado**, s
 
 **Recomendação:** Holafly Plans (subscrição mensal) ou Ubigi ($48/30 dias)
 
-**Porquê:** O plano diário de 30 dias da Holafly ($74.90) é significativamente mais caro que o da Ubigi ($48). No entanto, o Holafly Plans oferece hotspot ilimitado e número de telefone europeu.
+**Porquê:** O plano diário de 30 dias da Holafly ($73.90) é significativamente mais caro que o da Ubigi ($48). No entanto, o Holafly Plans oferece hotspot ilimitado e número de telefone europeu.
 
 ### Viajante que Precisa de Hotspot para Trabalhar
 
@@ -361,7 +366,7 @@ O **Holafly Plans** (subscrição mensal/anual) oferece **hotspot ilimitado**, s
 
 **Recomendação:** Airalo (planos a partir de $4/1GB)
 
-**Porquê:** Se consome menos de 1 GB por dia, a Airalo é significativamente mais barata que a Holafly.
+**Porquê:** Se consome menos de 1 GB por dia, a Airalo é significativamente mais barata que a Holafly. Em alternativa, os [planos pré-pagos de eSIM para Portugal](/portugal-esim/) da Roami também trabalham com volume fixo.
 
 
 ## Perguntas Frequentes sobre o Holafly eSIM em Portugal
@@ -372,7 +377,7 @@ Sim, funciona em Portugal continental, Madeira e Açores. Utiliza as redes MEO, 
 
 **O Holafly eSIM tem dados verdadeiramente ilimitados?**
 
-Sim. Ao contrário de muitos concorrentes, a Holafly não reduz a velocidade após um determinado consumo. Todos os planos incluem dados ilimitados sem throttling.
+Sim, sem plafond de consumo. Todos os planos incluem dados ilimitados; apenas em casos raros de uso justo a velocidade pode ser limitada temporariamente, no máximo por um dia.
 
 **Posso usar o Holafly eSIM como hotspot?**
 
@@ -392,7 +397,7 @@ Não. O Holafly eSIM é data-only (apenas dados). Para chamadas, utilize aplica�
 
 **Qual é o preço do Holafly eSIM para Portugal?**
 
-Os planos começam em $3.90 por dia. Um plano de 5 dias custa $20.90, 10 dias $36.90 e 30 dias $74.90.
+Na zona EUR, os planos partem de €3,79 por dia; na tabela USD, 3 dias custam $11.90, 7 dias $27.50 e 30 dias $73.90. Um plano de 5 dias custa $20.90 e 10 dias $36.90 (consultado em setembro de 2026).
 
 **O Holafly eSIM é mais caro que a concorrência?**
 
@@ -404,20 +409,20 @@ Sim, pode comprar um novo plano através do site ou aplicativo. No entanto, a Ho
 
 **O Holafly eSIM funciona com o meu telefone?**
 
-Funciona com a maioria dos smartphones modernos que suportam eSIM: iPhones a partir do XR/XS, Samsung Galaxy S21 e superiores, Google Pixel 3 e superiores, e outros. Verifique com `*#06#` — se aparecer EID, é compatível.
+Funciona com a maioria dos smartphones modernos que suportam eSIM: iPhones a partir do XR/XS, Samsung Galaxy S21 e superiores, Google Pixel 3 e superiores, e outros. Verifique com `*#06#` — se aparecer EID, é compatível. Pode confirmar na nossa [lista de telemóveis compatíveis com eSIM](/compatibility/).
 
 
-## Holafly eSIM vs. Roaming Internacional: Qual Compensa?
+## Holafly eSIM vs. Roaming Internacional: Qual Compensa em Portugal?
 
 Para viajantes que vêm de países fora da UE, o roaming internacional pode ser extremamente caro. O Holafly eSIM oferece uma alternativa muito mais económica.
 
 | Método | Custo estimado (7 dias) | Vantagens | Desvantagens |
 |--------|-------------------------|-----------|--------------|
-| **Holafly eSIM** | ~$27 | Dados ilimitados, preço fixo | Sem chamadas/SMS |
+| **Holafly eSIM** | $27.50 | Dados ilimitados, preço fixo | Sem chamadas/SMS |
 | **Roaming do operador** | $50-$200+ | Mantém o número habitual | Preços elevados, limites de dados |
 | **SIM físico local** | €10-€30 | Número português | Perde tempo a comprar, troca de cartão |
 
-**Conclusão:** Para a maioria dos viajantes, o Holafly eSIM é mais económico e prático que o roaming internacional, especialmente para quem consome muitos dados.
+**Conclusão:** Para a maioria dos viajantes, o Holafly eSIM é mais económico e prático que o roaming internacional, especialmente para quem consome muitos dados. Se preferir manter um número português para MB Way e serviços locais, compare com o [eSIM da Vodafone em Portugal](/faq/vodafone-esim-portugal/).
 
 
 ## Vale a Pena o Holafly eSIM para Portugal?
@@ -439,19 +444,19 @@ Para viajantes que vêm de países fora da UE, o roaming internacional pode ser 
 - Tem um **orçamento muito limitado** — a Airalo é mais barata para consumos leves
 - Precisa de um **número português** para MB Way ou serviços locais — prefira uma operadora local
 
-**Em resumo:** O Holafly eSIM é a escolha certa para quem quer uma experiência sem preocupações durante uma viagem curta ou média a Portugal. A combinação de **dados ilimitados sem throttling**, **rede 5G** e **suporte 24/7** faz dele uma das melhores opções do mercado para turistas que não querem pensar em gigabytes.
+**Em resumo:** O Holafly eSIM é a escolha certa para quem quer uma experiência sem preocupações durante uma viagem curta ou média a Portugal. A combinação de **dados ilimitados sem throttling**, **rede 5G** e **suporte 24/7** faz dele uma das melhores opções do mercado para turistas que não querem pensar em gigabytes. Se preferir pagar por volume em vez de por dia, veja o [eSIM para Portugal com dados pré-pagos da Roami](/portugal-esim/).
 
 
-## Teste o eSIM com uma Alternativa Grátis
+## Holafly eSIM em Portugal: Teste uma Alternativa Grátis Primeiro
 
-Quer testar a compatibilidade do seu telefone com eSIM antes de comprar o Holafly? Experimente um eSIM de teste gratuito — leva 2 minutos, não custa nada e funciona em qualquer telefone compatível.
+Antes de subscrever um plano de 5, 7 ou 30 dias, confirme que o seu telefone instala perfis eSIM sem falhas: um [eSIM de teste sem custos](/free-esim/) leva poucos minutos a configurar e não compromete nada.
 
-[Ative o seu eSIM grátis agora e teste o seu dispositivo](/free-esim/)
+[Experimentar o eSIM grátis antes de decidir](/free-esim/)
 
 
 ---
 
-*Escrito por Carlos Mendes, especialista em conectividade móvel e tecnologia de viagens. Este guia foi atualizado em agosto de 2026 com base em informações disponíveis publicamente.*
+*Guia da equipa Roami sobre provedores internacionais de eSIM, atualizado em setembro de 2026 com dados da página oficial da Holafly e outras fontes públicas.*
 
 *Fontes utilizadas: Gizmodo (teste de eSIM 2026), Wise.com, NomadWise.io, eSIMPlanet.io, Holafly official website. Consulte o site oficial da Holafly para ofertas atualizadas.*
 

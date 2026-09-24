@@ -3,8 +3,8 @@ title: "eSIM Brasil: Guia Completo de Planos, Operadoras e Preços"
 h1_title: "eSIM Brasil 2026: Como Escolher, Comprar e Ativar o Melhor Plano"
 description: "Guia completo do eSIM no Brasil em 2026. Compare Claro, Vivo, TIM e provedores internacionais como Airalo e Holafly. Preços, cobertura 5G e como ativar seu chip virtual."
 keywords: ["esim brasil", "esim brazil", "melhor esim brasil", "esim brasil operadoras", "esim brasil 2026", "comprar esim brasil", "esim internacional brasil", "chip esim brasil", "esim brasil preço", "celular com esim brasil", "esim claro", "esim vivo", "esim tim", "esim pré pago brasil", "esim viagem brasil"]
-date: 2026-08-10T10:00:00Z
-lastmod: 2026-08-10T10:00:00Z
+date: 2026-09-23T00:00:00Z
+lastmod: 2026-09-23T00:00:00Z
 tags: ["eSIM", "Brasil", "Claro", "Vivo", "TIM", "5G", "Viagem", "Comparação"]
 toc: true
 
@@ -82,14 +82,14 @@ sidebar_questions:
       url: "/esim-brasil-guia-completo/"
 ---
 
-**Última atualização:** 11 de agosto de 2026 | Tempo de leitura: 20 minutos
+**Última atualização:** 24 de setembro de 2026 | Tempo de leitura: 20 minutos
 
 
 ## O que é eSIM e Por Que Usar no Brasil?
 
-O eSIM — embedded SIM, ou chip virtual — é a versão digital do tradicional chip físico. Em vez de inserir um cartão plástico no celular, você instala um perfil digital diretamente no dispositivo e ativa um plano de dados móveis em poucos minutos. O processo dispensa visitas a lojas físicas, não exige envio de correspondência e elimina a necessidade de trocar chips ao viajar para o exterior ou entre operadoras.
+O eSIM — embedded SIM, ou chip virtual — é a versão digital do tradicional chip físico. Em vez de inserir um cartão plástico no celular, você instala um perfil digital diretamente no dispositivo e ativa um plano de dados móveis em poucos minutos. O processo dispensa visitas a lojas físicas, não exige envio de correspondência e elimina a necessidade de trocar chips ao viajar para o exterior ou entre operadoras. O padrão técnico que viabiliza esse chip virtual é mantido pela [GSMA](https://www.gsma.com/solutions-and-impact/technologies/esim/), entidade que regulamenta o eSIM no mundo inteiro.
 
-O Brasil é um dos maiores mercados de telecomunicações do mundo. De acordo com dados da Anatel (Agência Nacional de Telecomunicações) referentes ao primeiro semestre de 2026, o país conta com aproximadamente **260 milhões de linhas móveis ativas** para uma população de cerca de 213 milhões de habitantes — uma densidade superior a 1,2 chip por pessoa. As três grandes operadoras nacionais — Vivo, Claro e TIM — já oferecem suporte completo ao eSIM tanto em planos pré-pagos quanto pós-pagos, e a tecnologia avança rapidamente impulsionada pela expansão da rede 5G, que já está presente em todas as capitais estaduais e nas principais áreas metropolitanas.
+O Brasil é um dos maiores mercados de telecomunicações do mundo. De acordo com dados da Anatel (Agência Nacional de Telecomunicações) referentes ao primeiro semestre de 2026, o país conta com aproximadamente **260 milhões de linhas móveis ativas** para uma população de cerca de 213 milhões de habitantes — uma densidade superior a 1,2 chip por pessoa. As três grandes operadoras nacionais — Vivo, Claro e TIM — já oferecem suporte completo ao eSIM tanto em planos pré-pagos quanto pós-pagos, e a tecnologia avança rapidamente impulsionada pela [expansão da rede 5G](https://www.gov.br/anatel/pt-br/assuntos/5g), que já está presente em todas as capitais estaduais e nas principais áreas metropolitanas.
 
 Paralelamente, provedores internacionais como Airalo, Holafly e Nomad disponibilizam planos de eSIM voltados para o Brasil, permitindo que turistas estrangeiros cheguem ao país já conectados — ou que brasileiros comprem chips virtuais para o exterior com ativação antecipada.
 
@@ -107,9 +107,9 @@ Paralelamente, provedores internacionais como Airalo, Holafly e Nomad disponibil
 A escolha entre um eSIM local e um internacional não depende apenas do preço, mas também da finalidade: você precisa de um número brasileiro com DDD para usar o Pix e receber SMS de validação bancária? Ou apenas de dados para navegar, usar o Google Maps e acessar redes sociais? Essa decisão é o ponto de partida de todo o seu planejamento.
 
 
-## O Mercado de Telecom no Brasil: Quem é Quem em 2026
+## O Mercado de eSIM no Brasil: Quem é Quem em 2026
 
-O mercado brasileiro de telefonia móvel é dominado por três grandes operadoras com infraestrutura de rede própria — Vivo, Claro e TIM — que juntas respondem por mais de 95% dos acessos móveis do país. Diferentemente de mercados europeus, onde há maior fragmentação, o Brasil consolidou um cenário de concentração que, por um lado, reduz a concorrência de preços, mas por outro garante investimentos pesados em cobertura e tecnologia.
+O mercado brasileiro de telefonia móvel é dominado por três grandes operadoras com infraestrutura de rede própria — Vivo, Claro e TIM — que juntas respondem por mais de 95% dos acessos móveis do país. O [Digital 2025 do DataReportal](https://datareportal.com/reports/digital-2025-brazil) registrou mais de 217 milhões de conexões móveis no início de 2025 (102% da população) e 97,1% de penetração de conexões de banda larga. Diferentemente de mercados europeus, onde há maior fragmentação, o Brasil consolidou um cenário de concentração que, por um lado, reduz a concorrência de preços, mas por outro garante investimentos pesados em cobertura e tecnologia.
 
 De acordo com os dados mais recentes da Anatel e análises do Telesíntese e Teletime, a distribuição do mercado brasileiro de linhas móveis é a seguinte:
 
@@ -138,7 +138,7 @@ A Vivo é a maior operadora do país e a primeira a lançar o eSIM no Brasil, ai
 - **Pós-pago:** planos familiares e individuais, com ou sem fidelidade de 12 meses.
 - **eSIM disponível:** sim, ativação por QR Code na loja ou conversão pelo app.
 
-**Análise:** A Vivo lidera consistentemente os indicadores de qualidade da Anatel, com as menores taxas de queda de chamadas e a maior disponibilidade de rede. É também a operadora com a maior cobertura 5G, presente em mais de 300 municípios. Para quem viaja pelo interior do Brasil ou depende de conectividade em áreas rurais, é a opção mais confiável. O ponto negativo é o preço: em média, os planos da Vivo são os mais caros do mercado, embora o custo adicional frequentemente se justifique pela qualidade do serviço.
+**Análise:** A Vivo lidera consistentemente os indicadores de qualidade da Anatel, com as menores taxas de queda de chamadas e a maior disponibilidade de rede. É também a operadora com a maior cobertura 5G, presente em mais de 300 municípios. Para quem viaja pelo interior do Brasil ou depende de conectividade em áreas rurais, é a opção mais confiável. O ponto negativo é o preço: em média, os planos da Vivo são os mais caros do mercado, embora o custo adicional frequentemente se justifique pela qualidade do serviço. Para planos, preços e o passo a passo completo de ativação, veja o guia dedicado ao [eSIM da Vivo](/faq/vivo-esim-brasil/).
 
 ### Claro (33,8% de participação)
 
@@ -149,7 +149,7 @@ A Claro é a segunda maior operadora do Brasil e a que mais investiu na faixa de
 - **Pós-pago:** a partir de R$ 119,99/mês para planos individuais, com dados generosos e roaming nas Américas.
 - **eSIM disponível:** sim, ativação nas lojas Claro ou pelo app Minha Claro.
 
-**Análise:** A Claro é a melhor escolha para quem quer compatibilidade de rede com celulares comprados no exterior, já que a faixa de 700 MHz (banda 28) é amplamente utilizada em aparelhos internacionais. A integração com o combo multi (móvel + residencial + TV) pode gerar descontos significativos, tornando-a atrativa para famílias que contratam múltiplos serviços. A cobertura 5G indoor é um diferencial importante para quem mora ou trabalha em apartamentos e edifícios comerciais.
+**Análise:** A Claro é a melhor escolha para quem quer compatibilidade de rede com celulares comprados no exterior, já que a faixa de 700 MHz (banda 28) é amplamente utilizada em aparelhos internacionais. A integração com o combo multi (móvel + residencial + TV) pode gerar descontos significativos, tornando-a atrativa para famílias que contratam múltiplos serviços. A cobertura 5G indoor é um diferencial importante para quem mora ou trabalha em apartamentos e edifícios comerciais. O comparativo completo de planos está no guia do [eSIM Claro](/faq/claro-esim-brasil/).
 
 ### TIM (23,2% de participação)
 
@@ -160,7 +160,7 @@ A TIM é a terceira maior operadora e a líder histórica no segmento pré-pago.
 - **Pós-pago:** TIM Black com benefícios como Deezer e WhatsApp ilimitado.
 - **eSIM disponível:** sim, ativação nas lojas TIM e pelo app Meu TIM.
 
-**Análise:** A TIM é a opção mais econômica para quem busca planos pré-pagos com dados generosos. Também é a operadora mais flexível em termos de crédito — permite acumular e transferir saldo entre números, o que é útil para famílias. Em termos de cobertura 5G, a TIM já está presente em todas as capitais e avança rapidamente para o interior. O ponto fraco é a cobertura em zonas rurais e rodovias, onde a Vivo e a Claro ainda levam vantagem.
+**Análise:** A TIM é a opção mais econômica para quem busca planos pré-pagos com dados generosos. Também é a operadora mais flexível em termos de crédito — permite acumular e transferir saldo entre números, o que é útil para famílias. Em termos de cobertura 5G, a TIM já está presente em todas as capitais e avança rapidamente para o interior. O ponto fraco é a cobertura em zonas rurais e rodovias, onde a Vivo e a Claro ainda levam vantagem. Detalhamos planos e ativação no guia do [eSIM TIM](/faq/tim-esim-brasil/).
 
 ### Tabela Resumo: Claro vs Vivo vs TIM no eSIM
 
@@ -174,6 +174,10 @@ A TIM é a terceira maior operadora e a líder histórica no segmento pré-pago.
 | Roaming Américas incluso | Planos pós-pago | Planos pós-pago | Planos pós-pago selecionados |
 | Melhor para | Cobertura rural e qualidade | Cobertura indoor e combo | Custo-benefício e pré-pago |
 | Cadastro necessário | CPF + documento com foto | CPF + documento com foto | CPF + documento com foto |
+
+### Quanto custa o eSIM nas operadoras locais
+
+Na consulta feita em setembro de 2026, as três operadoras tratam o eSIM como parte do plano, e não como produto cobrado à parte: a Claro vende o e-Chip online sem custo adicional, conforme a [página oficial da operadora](https://www.claro.com.br/faq/esim/como-comprar-esim); a Vivo converte o chip físico em eSIM gratuitamente; e a TIM emite o perfil pelo Portal Troca Chip sem cobrar taxa nos planos pessoais. Nenhuma das três publica em seu site uma tabela fechada de tarifas de emissão — valores específicos de planos e eventuais taxas de adesão devem ser confirmados no checkout oficial.
 
 
 ## eSIM Pré-pago no Brasil: O Que Você Precisa Saber
@@ -190,25 +194,26 @@ Diferentemente de países europeus onde o pré-pago é comum até entre resident
 | Claro | Claro Flex | 6 GB a 12 GB | Sim | R$ 30 |
 | TIM | TIM Pré | 5 GB a 10 GB (com bônus progressivo) | Sim | R$ 30 |
 
-**Vale a pena o eSIM pré-pago para turistas?** Depende. Se a sua estadia for superior a duas semanas e você precisar de um número brasileiro (por exemplo, para se cadastrar em aplicativos de entrega, usar Pix ou receber SMS de bancos), o esforço do cadastro se justifica. Para estadias curtas (até 14 dias) ou se você só precisa de dados, um eSIM internacional de viagem é muito mais prático — ativação em minutos, sem cadastro de CPF e sem visita a loja física.
+**Vale a pena o eSIM pré-pago para turistas?** Depende. Se a sua estadia for superior a duas semanas e você precisar de um número brasileiro (por exemplo, para se cadastrar em aplicativos de entrega, usar Pix ou receber SMS de bancos), o esforço do cadastro se justifica. Para estadias curtas (até 14 dias) ou se você só precisa de dados, um [eSIM de viagem para o Brasil](/brazil-esim/) é muito mais prático — ativação em minutos, sem cadastro de CPF e sem visita a loja física.
 
 **Dica prática para turistas:** Se você optar por um eSIM local pré-pago, vá a uma loja das operadoras em shopping centers (e não em aeroportos). As lojas de shopping têm equipes mais preparadas para o atendimento a estrangeiros e o processo costuma ser mais rápido do que nos quiosques de aeroporto, que enfrentam filas constantes.
 
 
 ## eSIM para Viajantes: Brasil como Destino
 
-O Brasil recebe anualmente mais de 6 milhões de turistas internacionais, segundo a Embratur. Destinos como Rio de Janeiro, São Paulo, Salvador, Florianópolis e Foz do Iguaçu concentram a maior parte do fluxo. Para esses viajantes, estar conectado logo ao desembarcar não é luxo — é necessidade para usar mapas, traduzir conversas, pedir transporte por aplicativo e compartilhar a experiência nas redes.
+O Brasil recebe anualmente mais de 6 milhões de turistas internacionais, segundo a Embratur. Destinos como Rio de Janeiro, São Paulo, Salvador, Florianópolis e Foz do Iguaçu concentram a maior parte do fluxo. Para esses viajantes, estar conectado logo ao desembarcar não é luxo — é necessidade para usar mapas, traduzir conversas, pedir transporte por aplicativo e compartilhar a experiência nas redes. Não por acaso, buscas como "esim brazil" crescem a cada temporada de férias: quem prefere resolver tudo antes do embarque pode conferir os [planos de eSIM para o Brasil](/brazil-esim/) e instalar o perfil ainda no aeroporto de origem.
 
 ### Opções de eSIM para turistas no Brasil
 
 **Provedor internacional (recomendado para estadias curtas):**
 
-| Provedor | Preço inicial | Dados | Duração | Cobertura | Chamadas |
-|----------|--------------|-------|---------|-----------|----------|
-| Airalo | $5 / 1 GB | 1 GB a 20 GB | 7 a 30 dias | 4G/5G (Vivo + Claro) | Não |
-| Holafly | $5,90/dia | Ilimitado | 1 a 30 dias | 4G/5G (Vivo) | Não |
-| Nomad | $4 / 1 GB | 1 GB a 10 GB | 7 a 30 dias | 4G/5G (Claro) | Não |
-| Ubigi | $8 / 3 GB | 3 GB a 10 GB | 30 dias | 4G/5G | Não |
+| Provedor | Planos para o Brasil (consultado em setembro de 2026) | Rede no Brasil | Observação |
+|----------|--------------|---------|-----------|
+| Airalo | Ilimitado: 3 dias $12 · 7 dias $25 · 15 dias $46 · 30 dias $85 | TIM | Apenas dados, sem número brasileiro |
+| Saily | 1 GB $3,99 · 3 GB/30 dias $9,99 · 5 GB $13,99 · 10 GB $24,99 · ilimitado 30 dias $48,99 | — | Ilimitado com política de uso justo: 3 GB/dia em velocidade máxima, depois 1 Mbps |
+| Holafly | Ilimitado a partir de € 5,90/dia | Claro, TIM e Vivo | Hotspot limitado a 1 GB/dia |
+| Nomad | 1 GB $4 · 3 GB $9 · 5 GB $12 | TIM | Aceita pagamento via Pix |
+| Ubigi | 10 GB / 30 dias por € 19 | TIM e Vivo | Compartilhamento de internet (hotspot) permitido |
 
 **Operadora local (recomendado para estadias longas):**
 
@@ -220,6 +225,8 @@ O Brasil recebe anualmente mais de 6 milhões de turistas internacionais, segund
 **Análise para o turista:** Para a grande maioria dos turistas que visitam o Brasil por 5 a 15 dias, o eSIM internacional de viagem é a melhor escolha. A ativação é feita antes mesmo do embarque, e a conectividade começa a funcionar assim que o avião pousa — exatamente quando você mais precisa para chamar um Uber do aeroporto ou avisar o hotel sobre o horário de chegada. A desvantagem é que esses planos são apenas de dados (data-only), o que significa que você não terá um número brasileiro para receber chamadas convencionais. Para a maioria dos turistas, isso não é problema — WhatsApp e chamadas VoIP resolvem todas as necessidades de comunicação.
 
 **Cobertura nas principais capitais brasileiras:**
+
+Na média nacional, o [índice de velocidade do Ookla para o Brasil](https://www.speedtest.net/global-index/brazil) apontou mediana de 314,64 Mbps em download móvel em agosto de 2026 — a sexta melhor marca do mundo (dados consultados em setembro de 2026). Nas capitais, o desempenho varia conforme a densidade de antenas:
 
 | Destino | Cobertura 5G | Velocidade média estimada | Observação |
 |---------|-------------|--------------------------|------------|
@@ -273,7 +280,7 @@ Para brasileiros que viajam a trabalho ou lazer para Argentina, Chile, Colômbia
 
 ## Dispositivos Compatíveis com eSIM no Brasil
 
-Para usar um eSIM no Brasil ou no exterior, seu celular precisa atender a dois requisitos: estar **desbloqueado** (não vinculado a uma operadora por contrato) e possuir hardware compatível com eUICC — o chip interno que gerencia os perfis eSIM.
+Para usar um eSIM no Brasil ou no exterior, seu celular precisa atender a dois requisitos: estar **desbloqueado** (não vinculado a uma operadora por contrato) e possuir hardware compatível com eUICC — o chip interno que gerencia os perfis eSIM. Em caso de dúvida sobre o seu modelo, consulte a [lista de compatibilidade eSIM](/compatibility/) antes de comprar.
 
 ### Marcas e modelos com suporte confirmado no Brasil
 
@@ -294,7 +301,7 @@ O método é o mesmo em qualquer marca ou sistema operacional:
 
 1. Abra o **Discador** (aplicativo de telefone).
 2. Digite `*#06#` e pressione a tecla de chamada.
-3. Procure por um código **EID** (Embedded Identity Document) de 32 dígitos.
+3. Confira se consta um **EID** (Embedded Identity Document) com 32 dígitos no resultado.
 4. Se o EID aparecer na tela, seu celular é compatível com eSIM.
 5. Se aparecerem apenas os IMEIs, o celular **não** tem suporte.
 
@@ -312,7 +319,7 @@ Se o seu celular está nesta lista, você ainda pode usar um chip físico intern
 
 ## Como Comprar e Ativar eSIM no Brasil
 
-Existem três caminhos principais para adquirir e ativar um eSIM voltado para uso no Brasil. A escolha depende do seu perfil: turista estrangeiro, residente brasileiro ou viajante brasileiro indo para o exterior.
+Existem três caminhos principais para adquirir e ativar um eSIM voltado para uso no Brasil. A escolha depende do seu perfil: turista estrangeiro, residente brasileiro ou viajante brasileiro indo para o exterior. O passo a passo canal por canal está detalhado no tutorial de [ativação do eSIM nas operadoras brasileiras](/faq/como-ativar-esim-brasil-operadoras/).
 
 ### Caminho 1: Operadora local (Vivo, Claro ou TIM)
 
@@ -361,7 +368,7 @@ Operadoras e revendedores autorizados vendem kits de eSIM em lojas físicas de s
 2. Vá em **Ajustes > Celular**.
 3. Toque em **Adicionar eSIM**.
 4. Escaneie o QR Code com a câmera.
-5. Siga as instruções na tela — atribua um nome ao plano (ex: "Brasil Viagem") e defina qual linha será usada para dados móveis.
+5. Siga as instruções na tela — atribua um nome ao plano (ex: "Brasil Viagem") e defina qual linha será usada para dados móveis. O [suporte oficial da Apple](https://support.apple.com/pt-br/118669) documenta cada uma dessas telas com capturas atualizadas.
 
 **No Android (Samsung, Motorola, Xiaomi):**
 
@@ -411,7 +418,7 @@ Em termos de funcionamento, nenhuma. A qualidade do sinal, a velocidade dos dado
 Para os planos das operadoras locais (Vivo, Claro, TIM), sim — o cadastro com CPF é obrigatório por determinação da Anatel. Para provedores internacionais (Airalo, Holafly, Nomad), não é necessário CPF — a compra é feita com e-mail e cartão de crédito ou Pix.
 
 **Posso ter dois eSIMs no mesmo celular?**
-Depende do modelo. iPhones a partir do 13 suportam dois eSIMs ativos simultaneamente. Os modelos mais recentes (iPhone 14 em diante, versão dos EUA) não têm bandeja física e suportam até 8 eSIMs armazenados, com 2 ativos ao mesmo tempo. Nos Samsung Galaxy e Motorola, o mais comum é Dual SIM híbrido — um chip físico + um eSIM ativos simultaneamente.
+Depende do modelo. iPhones a partir do 13 suportam dois eSIMs ativos simultaneamente. Os modelos mais recentes (iPhone 14 em diante, versão dos EUA) não têm bandeja física e suportam até 8 eSIMs armazenados, com 2 ativos ao mesmo tempo. Nos Samsung Galaxy e Motorola, o mais comum é Dual SIM híbrido — um chip físico + um eSIM ativos simultaneamente. Para conferir se o seu aparelho aceita a combinação desejada, veja o guia de [compatibilidade de aparelhos com eSIM](/compatibility/).
 
 **Estrangeiro pode comprar eSIM de operadora brasileira?**
 Sim, mas o processo é burocrático. É necessário apresentar passaporte e comprovante de endereço no Brasil. O cadastro precisa ser feito presencialmente em uma loja da operadora e pode levar horas. Para turistas em estadias curtas, os provedores internacionais são muito mais práticos.
@@ -438,11 +445,11 @@ Basta acessar as configurações de rede móvel do celular, selecionar o perfil 
 Não. O eSIM utiliza o mesmo módulo de rádio (baseband) que o chip físico. O consumo de bateria está relacionado à intensidade do uso de dados, à qualidade do sinal na região e à tecnologia da rede (5G consome mais que 4G), não ao formato do SIM.
 
 
-## Conclusão
+## Conclusão: Qual eSIM Brasil Combina Com a Sua Viagem?
 
 O eSIM já é uma realidade consolidada no Brasil. As três grandes operadoras — Vivo, Claro e TIM — oferecem a tecnologia com planos acessíveis e ativação cada vez mais digital. Para brasileiros que viajam ao exterior, o eSIM internacional representa uma economia real: comparado ao roaming tradicional, o custo chega a ser 50% menor em viagens para os Estados Unidos e Europa. Para turistas estrangeiros que visitam o Brasil, os provedores internacionais eliminam a burocracia do cadastro local e entregam conectividade imediata ao desembarcar.
 
-A escolha do melhor eSIM depende de três fatores simples: **duração da estadia**, **necessidade de um número brasileiro** e **destino** (dentro ou fora do Brasil). Se você precisa de um número com DDD para serviços como Pix e validação bancária, vá de operadora local com cadastro CPF. Se você quer dados móveis sem complicação — seja no Rio de Janeiro ou em Nova York — os provedores internacionais resolvem em 5 minutos.
+A escolha do melhor eSIM depende de três fatores simples: **duração da estadia**, **necessidade de um número brasileiro** e **destino** (dentro ou fora do Brasil). Se você precisa de um número com DDD para serviços como Pix e validação bancária, vá de operadora local com cadastro CPF. Se você quer dados móveis sem complicação — seja no Rio de Janeiro ou em Nova York — os provedores internacionais resolvem em 5 minutos. E se a linha for de operadora local, o tutorial de [ativação de eSIM da Vivo, TIM e Claro](/faq/como-ativar-esim-brasil-operadoras/) conduz a instalação em poucos minutos.
 
 A tendência para os próximos anos é clara: a Anatel vem simplificando a regulamentação do eSIM, e o cadastro digital tende a substituir o atendimento presencial progressivamente. Até lá, o mais importante é verificar a compatibilidade do seu celular (lembre-se: digite `*#06#` e procure pelo EID) e comparar os planos com calma antes de viajar.
 
@@ -451,8 +458,8 @@ A tendência para os próximos anos é clara: a Anatel vem simplificando a regul
 
 ---
 
-*Escrito por Carlos Mendes, especialista em conectividade móvel e tecnologia de viagens. Este guia foi atualizado em agosto de 2026 com base em dados disponíveis publicamente.*
+*Sobre o autor: Carlos Mendes acompanha o setor de telecomunicações há mais de uma década e escreve sobre conectividade móvel, chip virtual e tecnologia para viajantes. Edição revisada em setembro de 2026.*
 
-*Fontes utilizadas: Anatel (painel de dados do setor móvel, 2025-2026), Telesíntese, Teletime, websites oficiais de Vivo, Claro e TIM, provedores internacionais (Airalo, Holafly, Nomad, Ubigi). Consulte as páginas oficiais para ofertas atualizadas e condições vigentes.*
+*Referências consultadas: páginas oficiais de Vivo, Claro e TIM, dados públicos da Anatel, relatório Digital 2025 do DataReportal, índice de velocidade do Ookla, publicações da GSMA e sites dos provedores internacionais (Airalo, Holafly, Nomad, Saily e Ubigi). Preços e condições mudam com frequência — confirme sempre nas fontes oficiais antes de comprar.*
 
 

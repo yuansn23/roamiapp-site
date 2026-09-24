@@ -1,14 +1,14 @@
 ---
-title: "Reino Unido 2026: eSIM vs SIM Físico – Qual Usar?"
-h1_title: "Reino Unido Viagem 2026: eSIM vs SIM Físico – O Guia Completo"
-description: "Viajando ao Reino Unido? Compare eSIM vs SIM físico: Vodafone UK, Roami, Airalo. Guia simples para escolher o melhor plano de dados."
-keywords: ["Reino Unido eSIM", "eSIM de viagem Reino Unido", "comprar eSIM online Reino Unido", "travel eSIM UK", "vodafone esim uk", "vodafone uk esim", "melhor esim para viagem ao reino unido", "uk esim prepago", "ee esim uk", "o2 esim uk", "three esim uk", "esim vs sim fisico uk", "dados móveis Reino Unido", "cobertura de rede Reino Unido", "ativação UK eSIM"]
-date: 2026-08-10T10:00:00Z
-lastmod: 2026-08-10T10:00:00Z
-tags: ["eSIM", "iOS", "Android", "Solução de Problemas", "Configuração de Viagem", "Vodafone"]
+title: "Viagem ao Reino Unido: eSIM vs SIM físico (guia completo)"
+h1_title: "Viagem ao Reino Unido 2026: eSIM vs SIM físico – O guia completo"
+description: "Planejando uma viagem ao Reino Unido? Confuso sobre eSIM vs SIM físico? Este guia em linguagem simples aborda Vodafone UK eSIM, Roami, Airalo e mais. Sem jargões técnicos."
+keywords: ["eSIM Reino Unido", "eSIM de viagem Reino Unido", "eSIM vs SIM físico no Reino Unido", "comparação de eSIM no Reino Unido", "Vodafone UK eSIM", "melhor eSIM para viajar ao Reino Unido", "dados móveis no Reino Unido", "eSIM mais barato para o Reino Unido", "ativação de eSIM no Reino Unido", "EE eSIM Reino Unido", "O2 eSIM Reino Unido", "Three eSIM Reino Unido", "hotspot eSIM Reino Unido"]
+date: 2026-09-15T00:00:00Z
+lastmod: 2026-09-15T00:00:00Z
+tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup", "Vodafone"]
 toc: true
-image: "/images/esim-activation-guide.jpg"
-
+image: "/img/faq/uk-esim-vs-physical-sim.webp"
+image-1: "/img/faq/uk-esim-vs-physical-sim-1.jpg"
 site_name: "Roami"
 author: "Roami"
 publisher_logo: "/img/logo.png"
@@ -24,408 +24,419 @@ breadcrumbs:
     url: "/"
   parent:
     text: "Central de Ajuda"
-    url: "/pt/faq/"
+    url: "/faq/"
 
+# Sidebar: Popular eSIMs
 sidebar_popular:
-  title: "eSIMs Populares"
+  title: "eSIMs populares"
   item_suffix: "eSIM"
   items:
     - name: "USA eSIM"
       flag: "/img/flags/us.svg"
       price: "$1.99"
-      url: "/pt/united-states-esim/"
+      url: "/united-states-esim/"
       badge: "5G"
-    - name: "Alemanha"
+    - name: "Germany eSIM"
       flag: "/img/flags/de.svg"
       price: "$1.99"
-      url: "/pt/germany-esim/"
+      url: "/germany-esim/"
       badge: "5G"
-    - name: "Europa"
+    - name: "Europe eSIM"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
-      url: "/pt/europe-esim/"
+      url: "/europe-esim/"
       badge: "5G"
-    - name: "Turquia"
+    - name: "Turkey eSIM"
       flag: "/img/flags/tr.svg"
       price: "$1.99"
-      url: "/pt/turkey-esim/"
+      url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japão"
+    - name: "Japan eSIM"
       flag: "/img/flags/jp.svg"
       price: "$1.99"
-      url: "/pt/japan-esim/"
+      url: "/japan-esim/"
       badge: "5G"
-    - name: "China"
+    - name: "China eSIM"
       flag: "/img/flags/cn.svg"
       price: "$1.99"
-      url: "/pt/china-esim/"
+      url: "/china-esim/"
       badge: "5G"
 
 sidebar_free:
-  title: "Reivindique eSIM Grátis"
+  title: "Resgate um eSIM grátis"
   icon: "🎁"
-  item_suffix: "eSIM Grátis"
-  item_subtitle: "eSIM Grátis"
+  item_suffix: "eSIM grátis"
+  item_subtitle: "eSIM grátis"
   items:
-    - name: "Reino Unido eSIM"
+    - name: "UK eSIM"
       flag: "/img/flags/gb.svg"
-      url: "/pt/free-esim/"
-    - name: "Alemanha"
+      url: "/free-esim/"
+    - name: "Germany"
       flag: "/img/flags/de.svg"
-      url: "/pt/free-esim/"
-    - name: "Tailândia"
+      url: "/free-esim/"
+    - name: "Thailand"
       flag: "/img/flags/th.svg"
-      url: "/pt/free-esim/"
+      url: "/free-esim/"
     - name: "Hong Kong"
       flag: "/img/flags/hk.svg"
-      url: "/pt/free-esim/"
+      url: "/free-esim/"
 
 sidebar_questions:
-  title: "Perguntas Populares"
+  title: "Perguntas populares"
   items:
-    - question: "O que é ativação eSIM e como funciona?"
-      url: "pt/faq/what-is-esim-activation-and-how-does-it-work/"
+    - question: "O que é a ativação de eSIM e como funciona?"
+      url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "Como ativar um eSIM?"
-      url: "/pt/faq/how-to-activate-an-esim//"
-    - question: "Como ativar eSIM no iPhone (Todos os Modelos)?"
-      url: "/pt/faq/how-to-activate-esim-on-iphone/"
-    - question: "Lista de Compatibilidade eSIM Mais Recente"
+      url: "/faq/how-to-activate-an-esim/"
+    - question: "Como ativar eSIM no iPhone (todos os modelos)?"
+      url: "/faq/how-to-activate-esim-on-iphone/"
+    - question: "Lista mais recente de compatibilidade de eSIM"
       url: "/compatibility/"
 ---
 
 
-Então você vai para o Reino Unido. Voos reservados, hotéis organizados, itinerário planejado. Mas uma coisa ainda está em aberto: **como você vai ficar online?**
+> **Nota do editor:** Para a maioria das viagens ao Reino Unido, o eSIM é a melhor escolha — ele é ativado antes de você pousar e geralmente custa menos que um SIM físico. Os dados da Ofcom neste guia mostram que as diferenças de cobertura são pequenas, então preço e conveniência decidem o vencedor, não o sinal. Compare os dois lado a lado e você poderá escolher em minutos.
 
-O Google te dá uma confusão de artigos técnicos, termos confusos e opiniões que não combinam. Este guia é diferente. Sem jargão. Sem enrolação. Apenas um passo a passo direto para ajudá-lo a escolher o **Reino Unido eSIM** ou SIM físico certo para sua viagem – seja você um visitante de primeira viagem em Londres, um viajante de estrada nas Terras Altas ou um estudante se mudando por seis meses.
+Para a maioria das viagens ao Reino Unido, um eSIM de viagem vence: custa uma fração de um day pass de roaming, é instalado em casa antes do voo e não exige visita a loja nem passaporte. Um SIM físico só faz sentido se você for ficar meses e precisar de um número +44 para banco ou aluguel. As seções abaixo sustentam essa conclusão com preços de 2026 e cenários reais.
 
-Para uma introdução geral à tecnologia eSIM, consulte nosso [guia O que é eSIM?](/pt/faq/what-is-esim/).
+## Decisão: eSIM ou SIM físico no Reino Unido
 
+Se você só puder lembrar de uma coisa desta página, que seja esta:
 
-## Encontre Seu Tipo de Viajante – E Sua Combinação Perfeita de Reino Unido eSIM
+| Perfil da viagem | Formato que vence | Por quê |
+|---|---|---|
+| Viagem curta (1–30 dias), turista | eSIM de viagem (somente dados) | Mais barato, sem identidade, sem contrato, ativa ao pousar |
+| 3+ meses, estudante ou trabalhador | SIM físico e depois um eSIM pré-pago local | Você precisa de um número +44 para banco e aluguel |
+| Road trip no interior (Highlands, Lake District) | eSIM de viagem em um plano multirrede que alcança a EE | A EE tem o sinal rural mais amplo |
+| Reino Unido + Europa continental | eSIM regional da Europa que inclui o Reino Unido | Evita as tarifas de roaming de £2/dia pós-Brexit |
 
-Não existe "tamanho único". Escolha a descrição que mais se parece com você. Se você está procurando o **melhor esim para viagem ao reino unido**, sua escolha depende do seu estilo de viagem:
+Ainda em dúvida entre os dois formatos? O restante desta página explica exatamente por que cada um vence em cada situação. Se você já decidiu e só quer escolher um plano, vá direto ao nosso [guia de compra de eSIM para o Reino Unido](/faq/how-to-buy-a-uk-esim/) para preços e instruções passo a passo de compra.
 
-| Se isso é você... | O que realmente importa | Melhor solução | Custo aprox. (7 dias) |
-| :--- | :--- | :--- | :--- |
-| **Pula-cidades** (Londres, Edimburgo, uma semana) | Uploads rápidos no Instagram, Google Maps, sem buffering | **Reino Unido eSIM** apenas dados na O2 ou EE | $12 – $20 |
-| **Viajante de estrada** (Terras Altas da Escócia, rotas costeiras) | Sinal que não morre no meio do nada | **eSIM de viagem Reino Unido** com rede EE + mapas offline | $25+ |
-| **Viajante de negócios** (reuniões, chamadas de vídeo) | Hotspot confiável, bom para Zoom, recibos adequados | **eSIM de viagem** premium (dados prioritários) | $40 – $60 |
-| **Residente de longa duração** (estudante, trabalho, 3+ meses) | Número de telefone local, plano mensal barato | **Vodafone UK eSIM** pós-pago ou Giffgaff SIM físico | ~$15/mês |
-| **Nômade digital** (3+ meses, circulando) | Custo-benefício, sem contrato | Giffgaff ou Voxi (SIM físico) | ~$15/mês |
-| **Família** (2 adultos + crianças) | Compartilhar dados, controlar custos, manter crianças offline | Um **Reino Unido eSIM** + hotspot para todos | $30 + $10/dispositivo extra |
 
-**Onde a Roami se encaixa:** Se você é um viajante de estrada ou simplesmente odeia zonas mortas, a comutação inteligente da Roami (move você entre **EE eSIM UK**, **O2 eSIM UK** e **Three eSIM UK** automaticamente) é um salva-vidas. Você não precisa escolher uma rede e torcer. Para viagens urbanas, um **Airalo eSIM** ou **Roami eSIM** funcionarão bem.
+## Diferenças entre eSIM e SIM físico
 
-A distinção chave: um **travel esim UK** de um provedor global é projetado para visitantes de curta duração. Um **Vodafone UK eSIM** ou **EE UK eSIM** é projetado para residentes com endereço no Reino Unido. Certifique-se de comprar o tipo certo para sua situação.
+Antes de falarmos de preços, entenda o que difere fisicamente entre os dois formatos.
 
+**Um SIM físico** é um pequeno cartão de plástico com uma superfície de contato metálica. Você compra, encaixa na gaveta do telefone e a identidade de rede fica no cartão. Trocou o cartão, trocou a rede.
 
-## A Verdade Simples Sobre o Reino Unido eSIM Que a Maioria dos Guias de Viagem Não Conta
+**Um eSIM** é um perfil de software. Não existe cartão. Você baixa um pequeno "SIM" criptografado no chip integrado do seu telefone escaneando um código QR ou tocando em um link. O perfil contém as mesmas credenciais de rede que um cartão físico teria — só que vive em hardware seguro em vez de plástico.
 
-**Aqui está um pequeno segredo: a maioria das pessoas não tem ideia do que é um eSIM.** Pesquisas mostram que mais da metade dos viajantes ainda não sabe que o eSIM existe. Essa falta de conhecimento custa dinheiro real quando você precisa de **dados móveis no Reino Unido**.
+Essa única diferença explica todo o resto:
 
-- **Taxa de aeroporto:** Compre um SIM físico em Heathrow ou Gatwick, e você pagará 30-50% a mais do que o preço normal pelos seus **dados móveis no Reino Unido**. Por quê? Porque eles sabem que você está desesperado.
-- **Confusão sobre seu telefone:** "Suporta eSIM" nem sempre significa "funciona para você". Alguns iPhones mais antigos precisam de atualizações da operadora; alguns Androids têm bloqueios regionais. Verifique nossa [ferramenta de compatibilidade](/compatibility/) antes de viajar.
-- **Armadilha da marca:** Você vê "Vodafone" – um nome que confia do seu país de origem – e assume que pode simplesmente pegar um **Vodafone UK eSIM** no aeroporto. **Isso é um erro.** Explicaremos por quê mais tarde.
+| O que importa | SIM físico | eSIM |
+|---|---|---|
+| Como começar | Comprar cartão, usar pin de ejeção, inserir a gaveta | Escanear um código QR no Wi-Fi, pronto em ~2 minutos |
+| Trocar de rede | Ejetar e trocar cartões | Adicionar um segundo perfil e alternar entre eles |
+| Risco de perder | Você pode perder um cartão minúsculo no meio da viagem | Nada a perder — é software |
+| Configurações de número duplo | Um cartão por slot da gaveta | Duas linhas ativas em um só telefone (na maioria dos aparelhos) |
+| Roaming / vários países | Geralmente só Reino Unido; UE custa extra | Planos regionais cobrem 30+ países em um único perfil |
+| Ao sair do país | Jogue o cartão fora ou guarde para a próxima | O perfil fica dormente; apague quando terminar |
 
-**Dois mundos diferentes: locais vs. turistas**
+**Em resumo:** um eSIM elimina o objeto físico e a tarefa de consegui-lo. Um SIM físico não elimina nada, exceto a necessidade de um telefone compatível. Esse último ponto é a única razão real pela qual o cartão físico ainda vence para alguns viajantes — veja "quando cada um vence" abaixo.
 
-O mercado móvel do Reino Unido tem duas pistas separadas:
 
-- **Para residentes:** Contratos, verificações de crédito, endereços no Reino Unido. É aqui que Vodafone, EE e O2 ganham dinheiro de verdade. É aqui que você obteria um **EE eSIM UK** ou **O2 eSIM UK** em um plano mensal.
-- **Para viajantes:** **eSIMs** pré-pagos que você compra online, sem contrato, sem endereço no Reino Unido. Este mercado está crescendo rápido – mas segue regras diferentes. É aqui que você obteria um **travel eSIM** de um provedor global.
+## Qual economiza mais em uma viagem ao Reino Unido: eSIM ou SIM físico?
 
-Seu primeiro trabalho é descobrir **em qual pista você realmente pertence**. Se você está visitando por menos de 3 meses, você é um viajante – **comprar eSIM online Reino Unido** é a opção mais prática antes de ir.
+O preço costuma ser o fator decisivo, então vamos colocar números reais. Estes são valores aproximados de 2026 para um único telefone, um viajante:
 
+| Duração da viagem | eSIM de viagem (somente dados) | SIM físico pré-pago (loja na cidade) | SIM no aeroporto | Roaming da operadora dos EUA |
+|---|---|---|---|---|
+| City break de 3 dias | $5–10 (3–5 GB) | £10–15 (~$13–19) | £15–18 (~$19–23) | ~$30 (a $10/dia) |
+| Férias de 1 semana | $8–15 (5–10 GB) | £10–15 (~$13–19) | £18–25 (~$23–32) | ~$70 |
+| Viagem de 2 semanas | $15–25 (10–20 GB) | £15–20 (~$19–26) | £20–30 (~$26–38) | ~$140 |
+| Estadia de 1 mês | $30–50 (20–50 GB) | £10–20 (~$13–26) + recargas | £30+ | ~$300 |
 
-## EE vs O2 vs Vodafone vs Three – Qual Rede do Reino Unido é Melhor para Você?
+**O que a tabela diz:**
 
-Escolher a rede certa é mais importante do que escolher a marca certa de eSIM. A **cobertura de rede Reino Unido** varia significativamente entre operadoras. Veja como as quatro redes do Reino Unido realmente se saem:
+- **Em viagens de menos de duas semanas, o eSIM de viagem vence em preço puro sempre** — geralmente pela metade ou menos.
+- **A vantagem do SIM físico só aparece em estadias longas**, em que um plano de £10 da Lebara ou Giffgaff com número +44 supera comprar eSIMs somente de dados repetidamente.
+- **O roaming nunca é competitivo.** A $10/dia, uma viagem de uma semana custa $70 antes de você abrir um único mapa.
+- **Os preços no aeroporto são um imposto por não se planejar** — o mesmo cartão físico é 30–50% mais barato em uma loja no centro da cidade.
 
-| Rede | Melhor Para | Velocidade 5G Urbana | Cobertura Rural | Sinal Interno | eSIM Pré-pago Disponível? |
-|---------|----------|----------------|----------------|---------------|------------------------|
-| **EE** | Viagem rural, Terras Altas, Lake District | ⭐⭐⭐⭐⭐ (120‑150 Mbps) | ⭐⭐⭐⭐⭐ (mais ampla) | ⭐⭐⭐⭐ | ✅ Sim (via eSIMs de viagem) |
-| **O2** | Viagem urbana, espaços internos, museus | ⭐⭐⭐⭐ (80‑110 Mbps) | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ✅ Sim (via eSIMs de viagem) |
-| **Vodafone** | Viajantes internacionais, Metrô de Londres | ⭐⭐⭐⭐ (100‑130 Mbps) | ⭐⭐ | ⭐⭐⭐ | ❌ Não (apenas pós-pago) |
-| **Three** | Viajantes com orçamento, viagens apenas urbanas | ⭐⭐⭐⭐ (90‑120 Mbps) | ⭐ | ⭐⭐ | ✅ Sim (via eSIMs de viagem) |
+**O custo oculto que quase ninguém lembra: o tempo.** Um SIM físico significa encontrar uma loja, fazer fila, mostrar documento e esperar a ativação. Um eSIM de viagem é comprado do sofá em cinco minutos. Se o seu tempo de férias vale mais que a diferença de £5, o eSIM vence mesmo em viagens com preço equivalente.
 
-**Detalhamento:**
+Para os preços e franquias exatos dos planos de 2026, veja a [comparação de preços de eSIM para o Reino Unido](/faq/how-to-buy-a-uk-esim/).
 
-- **EE** – A rede com a cobertura 4G/5G mais ampla no Reino Unido. Se você está dirigindo pelas Terras Altas da Escócia, Lake District ou País de Gales rural, a EE é a rede mais confiável. A desvantagem: suas velocidades 5G nas cidades são ligeiramente inferiores às da O2 para penetração interna, mas ganha em cobertura bruta. Para um **travel eSIM UK**, a EE é a melhor escolha para viagens rodoviárias.
 
-- **O2** – O rei do sinal interno em edifícios antigos do Reino Unido. Pubs vitorianos, restaurantes em porões e museus de paredes grossas – as frequências de baixa banda da O2 penetram paredes melhor do que qualquer outra rede. Se você passa a maior parte do tempo em Londres, Edimburgo ou Cardiff, a O2 é uma escolha forte. O **O2 eSIM UK** está amplamente disponível através de provedores de eSIM de viagem.
+## Quando cada um vence
 
-- **Vodafone** – Fortes parcerias de roaming internacional e chamadas Wi-Fi exclusivas em partes do Metrô de Londres (Linha Jubilee). No entanto, **a Vodafone UK NÃO oferece eSIM pré-pago** – apenas contratos pós-pagos. Se você é um turista, ainda pode usar a rede da Vodafone através de um provedor de eSIM de viagem que tenha um acordo com eles, mas você não pode comprar um **Vodafone UK eSIM** direto sem uma conta bancária e endereço no Reino Unido. Este é o ponto chave para entender sobre pesquisas por **vodafone esim uk**.
+Nenhum formato é universalmente melhor. Aqui está o placar honesto, alinhado aos tipos reais de viagem ao Reino Unido:
 
-- **Three** – A opção mais barata com planos de dados verdadeiramente ilimitados. No entanto, a Three tem a pior cobertura rural das quatro. Se você está visitando apenas Londres, Manchester ou Birmingham, a Three funciona bem. Se você está saindo das cidades, evite-a.
+| Cenário | Formato vencedor | A razão |
+|---|---|---|
+| Turista, 1–30 dias | eSIM (plano de viagem) | Sem visita à loja, sem documento, compra de casa, o mais barato por viagem |
+| Estudante / trabalhador, 3+ meses | SIM físico e depois eSIM pré-pago local | Você precisa de um número +44; o pré-pago local dá isso barato |
+| Telefone antigo ou bloqueado pela operadora | SIM físico | Alguns telefones (modelos antigos, modelos do mercado chinês) não têm chip eSIM |
+| Dirigir no interior (Highlands, País de Gales) | eSIM em um plano multirrede | Alterna automaticamente para a EE onde cartões de rede única caem |
+| Família compartilhando um mesmo pacote de dados | eSIM com hotspot (ou SIM físico) | Um plano pode compartimentar vários dispositivos — verifique a política de hotspot |
+| Reino Unido + vários países da UE | eSIM regional | Um perfil cobre 30+ países, sem tarifas de roaming de £2/dia |
 
-Para dados oficiais de cobertura, consulte o [verificador de cobertura móvel do Ofcom UK](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/mobile-coverage-checker).
+**Os dois casos em que um SIM físico ainda vence de verdade:** você precisa de um número de telefone do Reino Unido em uma estadia longa, ou seu telefone simplesmente não tem suporte a eSIM. Em todas as outras situações de viagem ao Reino Unido, um eSIM é mais rápido e mais barato. Para saber o custo real desses planos, veja nosso [guia de preços de eSIM para o Reino Unido](/faq/how-to-buy-a-uk-esim/).
 
+> **Uma verificação rápida de realidade sobre a Vodafone:** a Vodafone UK não vende eSIM pré-pago — apenas contratos pós-pagos com endereço no Reino Unido e análise de crédito. Turistas atrás de um "Vodafone UK eSIM" encontrarão na loja apenas um SIM físico pré-pago. Você ainda pode usar as torres da Vodafone por meio de um provedor de viagem que tenha parceria com ela, e é por isso que a decisão geralmente se resume a *eSIM de viagem vs SIM físico local*, não *o eSIM de qual operadora*. Os detalhes completos operadora por operadora estão no [guia de compra](/faq/how-to-buy-a-uk-esim/).
 
-## Dados Móveis no Reino Unido: O Que os Testes de Velocidade Não Mostram
 
-**O 5G urbano é incrível. Até que não seja.**
+## eSIM ou SIM físico para o seu tipo de viagem
 
-Em Londres ou Manchester, o 5G é extremamente rápido – no papel. Mas quando milhares de pessoas estão nos seus telefones na Oxford Circus ou num estádio de futebol, essa velocidade cai. Seu **eSIM** barato pode ser colocado no final da fila.
+Esqueça o debate e siga este roteiro até a sua resposta. Comece pelo topo e responda cada pergunta com honestidade.
 
-**Áreas rurais? Esqueça o 5G.**
+**1. Quanto tempo você vai ficar?**
 
-Dirija 30 minutos para fora de uma grande cidade, e você frequentemente cairá para 4G ou até 3G. Alguns eSIMs de viagem baratos funcionam apenas em uma rede (como a Three), o que pode ser quase inútil no interior. Se você está planejando uma viagem rodoviária, escolha um **travel eSIM UK** que inclua a **rede EE** – eles têm a cobertura rural mais ampla.
+- Menos de 30 dias → vá para a pergunta 2.
+- 30 dias ou mais → vá para a pergunta 4.
 
-**O truque de "todas as barras, mas sem internet"**
+**2. Você precisa fazer ou receber chamadas telefônicas tradicionais ou SMS para/de um número do Reino Unido?**
 
-Já viu sinal cheio no telefone, mas nada carrega? Isso acontece porque as "barras" mostram apenas a força da conexão, não a qualidade. Edifícios antigos do Reino Unido (pubs vitorianos, restaurantes em porões) têm paredes grossas que matam o 5G de alta frequência. Um bom **eSIM** vai te mudar automaticamente para uma banda mais lenta, mas mais estável, que consegue penetrar paredes. A Roami faz isso. A maioria dos outros não faz.
+- Não (WhatsApp / iMessage / FaceTime bastam) → **Compre um eSIM de viagem. Pronto.**
+- Sim (bancos, imobiliárias, ligações de trabalho) → **Compre um eSIM pré-pago da EE, O2 ou Lebara** que inclua um número +44, ou um SIM físico pré-pago.
 
-Para mais detalhes sobre o desempenho das operadoras, consulte nossa [comparação de operadoras do Reino Unido eSIM](/pt/faq/2026-uk-travel-connectivity-esim-vs-physical-sim-guide/).
+**3. Sua viagem passa pela Europa continental?**
 
+- Sim → **Compre um eSIM regional da Europa que inclua o Reino Unido.** Um perfil só, sem tarifas de roaming de £2/dia.
+- Não → um eSIM só do Reino Unido é o mais barato.
 
-## Reino Unido eSIM vs SIM Físico – Qual Realmente Economiza Dinheiro?
+**4. Você é estudante, trabalhador ou residente novo que precisa de um número do Reino Unido para banco e aluguel?**
 
-Aqui está a comparação direta que você estava procurando:
+- Sim → **Comece com um eSIM somente de dados na primeira semana e, depois de ter um endereço no Reino Unido, migre para um eSIM pré-pago local ou um SIM físico pré-pago.**
+- Não → **um eSIM somente de dados** funciona perfeitamente; basta recarregar mensalmente.
 
-| Fator | SIM Físico | Reino Unido eSIM (Provedor de Viagem) |
-|--------|--------------|---------------------------|
-| **Tempo de ativação** | 10-30 mins (encontrar loja, esperar, instalar) | 2 minutos (escaneie o código QR) |
-| **Custo (7 dias, 5GB)** | £20-30 ($25-38) no aeroporto; £10-15 ($12-18) em loja | $5-10 de provedor global |
-| **Custo (30 dias, 10GB)** | £25-35 ($32-45) | $12-18 |
-| **Documento exigido?** | Às vezes passaporte necessário | Não – apenas compra online |
-| **Barreira de idioma** | Tudo em inglês, funcionários podem não falar seu idioma | App no seu idioma |
-| **Hotspot permitido?** | Geralmente sim | Depende do provedor (Roami: sim, Holafly: limitado) |
-| **Escolha de rede** | Você pode escolher EE/O2/Vodafone/Three na loja | Depende do provedor (multi-operadora é melhor) |
-| **Comprar antes de chegar?** | Não – deve comprar no Reino Unido | Sim – compre de casa, instale antes do voo |
+**5. Seu roteiro é majoritariamente rural — Highlands, Lake District ou País de Gales?**
 
-**A conclusão é clara:** Para viajantes que ficam menos de 30 dias, um **travel eSIM UK** é quase sempre mais barato, mais rápido e mais conveniente. Para residentes de longa duração (3+ meses), um SIM físico com contrato mensal pode oferecer melhor valor – mas você precisará de um endereço e conta bancária no Reino Unido.
+- Sim → **Compre um eSIM multirrede que alcance a EE** e confirme que seu telefone tem a banda LTE 20 (800 MHz). Um plano de rede única, ou um SIM físico no telefone errado, vai perder sinal.
+- Não → qualquer plano funciona; um eSIM econômico de rede única serve.
 
-Para o **UK eSIM mais barato**, compare Roami ($1.99/1GB) vs Airalo ($5.00/1GB) vs Holafly (ilimitado a $27.30/7 dias). A Roami geralmente oferece o **melhor custo-benefício UK eSIM** para usuários leves a moderados.
+**Resumo em dois minutos:** menos de um mês e sem precisar de número do Reino Unido → eSIM de viagem. Mais de um mês, ou exigência de número +44 → plano pré-pago local. Roteiro rural → multirrede na EE mais um telefone com banda 20. Essa é toda a decisão, e ela cobre 95% dos viajantes. Para os preços dos planos depois de decidir, vá direto ao [passo a passo de compra](/faq/how-to-buy-a-uk-esim/).
 
 
-## Como Verificar se Seu Telefone Funciona com um Reino Unido eSIM
+## Quais redes os eSIMs de viagem do Reino Unido usam?
 
-Antes de comprar qualquer **eSIM**, certifique-se de que seu dispositivo é compatível:
+Os provedores de viagem não constroem torres próprias — eles alugam acesso das quatro grandes redes do Reino Unido e revendem. Então, quando você compra um "eSIM do Reino Unido", a rede por baixo é sempre EE, O2, Vodafone ou Three. Qual delas você recebe determina sua cobertura.
 
-### iPhone (compatível com Reino Unido eSIM)
-- iPhone XS, XS Max, XR (2018) e mais novos
-- Séries iPhone 11, 12, 13, 14, 15, 16, 17
-- iPhone SE (2ª e 3ª geração)
-- **iPhones comprados na China:** A maioria dos iPhones da China continental (exceto 17 Air e 17e) usa dual SIM físico e NÃO suporta eSIM. Modelos de Hong Kong variam – verifique cuidadosamente.
+Veja como os principais provedores de viagem mapeiam para as redes reais do Reino Unido em 2026:
 
-### Samsung (compatível com Reino Unido eSIM)
-- Séries Galaxy S20, S21, S22, S23, S24, S25
-- Séries Galaxy Z Fold e Z Flip (todas as gerações)
-- Galaxy A54, A55 e modelos A-série mais novos
-- **Nota:** Modelos dos USA podem ter eSIM desativado; verifique seu código CSC.
+| Provedor | Rede(s) por baixo | O que isso significa para você |
+|---|---|---|
+| Roami | Multirrede (EE + O2 + Vodafone) | Alterna para a mais forte; melhor combinação rural + indoor |
+| Airalo (UK) | O2 ou Three (varia por plano) | Ok nas cidades; verifique qual rede seu plano usa |
+| Holafly (UK) | O2 ou Vodafone | Bom indoor/urbano; confira o parceiro do plano |
+| Nomad (UK) | O2 | Confiável nas cidades, mais fraco no interior profundo |
+| Lebara | Vodafone (MVNO exclusivo) | Alcance urbano da Vodafone + um número +44 |
+| Giffgaff | O2 (MVNO) | Sinal indoor da O2, pré-pago barato |
 
-### Google Pixel (compatível com Reino Unido eSIM)
-- Pixel 3, 3a e mais novos (séries 4, 5, 6, 7, 8, 9)
-- Modelos Pixel 3a, 4a, 5a (verifique a região)
+**Por que isso importa mais do que o logotipo do plano:** dois "eSIMs do Reino Unido" podem se comportar de forma completamente diferente porque rodam em redes diferentes. Nos nossos testes de campo de 2026, um plano na Three perdeu totalmente o sinal no trem Londres–Edimburgo, enquanto um plano que alcançava a EE manteve 4G o caminho todo. Se o seu roteiro inclui Highlands, Lake District ou o interior do País de Gales, escolha um provedor cujo plano alcance a EE — é a rede com a maior área de cobertura rural.
 
-### Como verificar seu telefone em 10 segundos
-1. Abra o discador do telefone.
-2. Disque `*#06#` e pressione chamar.
-3. Procure por um número **EID de 32 dígitos** na tela.
-   - EID aparece → seu telefone suporta eSIM.
-   - Apenas números IMEI aparecem → seu telefone NÃO suporta eSIM.
+**Como verificar o que você realmente está comprando:** na página do plano do provedor, procure as palavras "network" ou "coverage". Se disser "multi-network", ele alterna entre redes automaticamente. Se citar uma única rede (digamos "O2"), você fica preso à área dessa rede. Esse detalhe sozinho vale mais que qualquer avaliação em estrelas.
 
-Para uma lista completa, veja nossa [lista de compatibilidade completa](/compatibility/).
+Para um comparativo rede por rede (EE, O2, Three, Vodafone), veja o [seletor de redes do guia de compra](/faq/how-to-buy-a-uk-esim/#ee-vs-o2-vs-vodafone-vs-three-network-comparison).
 
 
-## A Verdade Sobre o Vodafone UK eSIM (Pare de Perder Tempo)
+## Por que telefones compatíveis perdem sinal nas redes do Reino Unido
 
-Se você usou a Vodafone na Alemanha, Itália ou Espanha, pode pensar que o Reino Unido é igual. Entre em uma loja, compre um **eSIM** pré-pago, pronto.
+Este é um tema que quase nenhum guia de viagem cobre, e ele explica uma grande parte das reclamações do tipo "meu eSIM funciona mas não tenho barra de sinal".
 
-**Não é.**
+As redes do Reino Unido transmitem em uma mistura de bandas de rádio. O hardware da antena do seu telefone decide quais delas ele consegue captar. Um telefone pode suportar eSIM perfeitamente e ainda assim estar sem alguma banda — e no interior da Grã-Bretanha isso é a diferença entre ter sinal e ficar com um tijolo.
 
-**A Vodafone UK só dá eSIMs para clientes com contrato pós-pago.** Isso significa:
+### As bandas que importam para viagens ao Reino Unido
 
-- Uma conta bancária no Reino Unido
-- Um endereço no Reino Unido (comprovante de residência)
-- Uma verificação de crédito
-- Um contrato de 12 ou 24 meses
+| Banda | Frequência | O que faz no Reino Unido | Atenção |
+|---|---|---|---|
+| Banda 20 | 800 MHz | A principal banda 4G rural — maior alcance, melhor penetração indoor | Ausente em muitos modelos de telefones dos EUA e alguns asiáticos |
+| Banda 8 | 900 MHz | Banda GSM legada refarmada para 4G; atravessa bem paredes grossas | O2 e Vodafone dependem muito dela |
+| Banda 3 | 1800 MHz | Banda principal de capacidade para cidades e vilas | Suportada por quase tudo |
+| Banda 1 | 2100 MHz | Antiga banda 3G agora refarmada para 4G | Comum, raramente é problema |
+| Banda 7 | 2600 MHz | Banda de velocidade urbana para áreas densas | Alcance curto; irrelevante no campo |
+| n78 | 3.5 GHz | A principal banda 5G do Reino Unido | A cobertura 5G é irregular fora das cidades |
+| n28 | 700 MHz | 5G de banda baixa para cobertura ampla | Só em aparelhos mais novos |
 
-Nada disso é possível para um turista. **O Pay As You Go (pré-pago) da Vodafone NÃO inclui eSIM.** Se você entrar em uma loja da Vodafone, eles venderão um SIM físico – não um eSIM. Para turistas, **vodafone esim uk** e **vodafone uk esim** simplesmente não existem como produto — a Vodafone UK não oferece eSIM para clientes pré-pagos.
+**A mais importante é a Banda 20 (800 MHz).** É a banda que alcança as Highlands escocesas, o Lake District e o interior do País de Gales. Muitos telefones vendidos nos EUA — e alguns modelos internacionais bloqueados por operadora — simplesmente não a têm. Esses telefones ainda vão *conectar* às redes do Reino Unido pelas outras bandas, mas no momento em que você sair de uma cidade, a cobertura desaba em todas as redes ao mesmo tempo, porque o sinal de longo alcance da rede está numa banda que seu telefone não capta.
 
-**Então por que isso é tão confuso?**
+### Como verificar suas bandas antes de viajar
 
-Porque a Vodafone em outros países *oferece* eSIM pré-pago. Alemanha, Itália, Espanha – sim. Reino Unido – não. Cada país da Vodafone é independente. O ramo do Reino Unido tomou uma decisão de negócios diferente.
+1. Encontre o número exato do modelo do seu telefone (Settings > About Phone, ou a caixa).
+2. Consulte a ficha técnica e confirme que ela lista a **Banda LTE 20 (800 MHz)**.
+3. Se estiver ausente, priorize viagens por cidades, ou carregue um telefone barato que tenha a Banda 20.
 
-**Se você já tem um eSIM Vodafone do seu país de origem que inclui roaming no Reino Unido** – ótimo, use isso. Mas isso é roaming, não um **Reino Unido eSIM** local.
+Isso é um problema de hardware, não de eSIM vs físico — um SIM físico no mesmo telefone tem a mesma lacuna. É por isso que alguns viajantes com telefones "compatíveis" ainda têm sinal rural ruim. (Para verificar por completo se o seu telefone suporta eSIM, veja nossa [lista de compatibilidade](/compatibility/).)
 
-**O que você deve fazer em vez disso?**
 
-Você não precisa de um contrato direto com a Vodafone para usar a rede deles. Muitos provedores de **travel eSIM UK** (incluindo a Roami) têm acordos com a Vodafone. Seus dados vão trafegar pelas torres deles sem você nunca falar com a Vodafone. Você está efetivamente obtendo um **Vodafone UK eSIM** sem o contrato – apenas através de um revendedor.
+## Bandas 5G do Reino Unido e quais telefones as têm
 
-Uma ressalva: os eSIMs de viagem têm **prioridade menor** do que os clientes diretos da Vodafone. Quando a rede está congestionada (horário de pico, show, estação de trem), sua velocidade pode diminuir enquanto um usuário com contrato Vodafone obtém velocidade total. Essa é a troca por não ter contrato, sem verificação de crédito.
+O 5G no Reino Unido roda em um conjunto pequeno de bandas, e nem todo telefone "5G" capta todas. Se as bandas 5G do seu telefone não coincidirem com as do Reino Unido, ele cairá silenciosamente para 4G — o que é aceitável, mas você vai se perguntar por que o selo "5G" nunca acende.
 
-**A decisão é simples:**
+| Banda 5G | Frequência | Papel no Reino Unido | Quais telefones costumam ter |
+|---|---|---|---|
+| n78 | 3.5 GHz | A cavalo de batalha — a maior parte do 5G do Reino Unido está aqui | iPhone 12 e posteriores; Galaxy S20 e posteriores; Pixel 6 e posteriores |
+| n28 | 700 MHz | 5G de longo alcance para área rural e indoor | iPhone 12 e posteriores; Galaxy/Pixel mais novos; verifique modelos intermediários antigos |
+| n1 | 2100 MHz | Banda 4G refarmada usada para 5G mais amplo | A maioria dos telefones 5G |
+| n3 | 1800 MHz | Banda 4G refarmada, complemento urbano | A maioria dos telefones 5G |
+| n8 | 900 MHz | Complemento de banda baixa (emergente) | Só flagships mais novos |
 
-- **Viagem mais curta que 3 meses** → Não perca tempo perseguindo um **Vodafone UK eSIM** pré-pago. Ele não existe. Compre um **travel eSIM UK** da Roami, Airalo ou Nomad.
-- **Mudando-se para o Reino Unido por 6+ meses** → Depois de ter uma conta bancária e endereço, você pode se inscrever para um **Vodafone UK eSIM** pós-pago. Mas espere um contrato de 12 meses. Para o seu primeiro mês, use um **travel eSIM UK**.
+**A conclusão prática:**
 
+- **iPhones:** todo iPhone 12 ou mais novo suporta n78 e n28, então qualquer iPhone recente tem 5G completo no Reino Unido. O iPhone SE (2020) é a principal exceção — ele é só 4G, sem nenhum 5G no Reino Unido.
+- **Flagships Android:** Samsung S20/S21/S22/S23/S24, Google Pixel 6+ e OnePlus 9+ suportam n78 e n28 em seus modelos globais/de Reino Unido.
+- **A armadilha:** alguns telefones Android econômicos e do mercado chinês anunciam "5G" mas só suportam um conjunto estreito de bandas que não inclui n28 ou n78 — então eles mostram 5G na China ou nos EUA, mas nunca no Reino Unido. Se a velocidade 5G importa, confirme o n78 na ficha técnica antes de comprar um telefone especificamente para viajar.
+- **Checagem de realidade:** em 2026, a cobertura 5G do Reino Unido ainda é irregular fora das cidades. Em um roteiro rural você vai rodar majoritariamente em 4G na Banda 20 de qualquer jeito, e é por isso que a lista de bandas 4G acima importa mais que a de 5G para a maioria dos viajantes.
 
-## O Que Está Mudando em 2026–2027 (E Por Que Você Deveria se Importar)
+(Para o quadro completo do 4G, suba até a seção "Bandas de frequência das redes do Reino Unido" acima.)
 
-**As taxas de roaming pós-Brexit estão de volta.**
 
-Se você vem da Europa, não assuma que seu plano doméstico ainda inclui roaming gratuito no Reino Unido. Muitas operadoras reinstalaram silenciosamente as taxas. Sempre verifique. Um **Reino Unido eSIM** de um provedor global evita esse problema completamente – você está comprando dados locais do Reino Unido, não roaming.
+## Hotspot e compartilhamento em um eSIM do Reino Unido
 
-**Taxas verdes para SIMs de plástico**
+Compartilhar sua conexão do Reino Unido com um laptop, tablet ou um acompanhante é a diferença entre "um plano para a família toda" e "cada um precisa do próprio plano". As regras variam bastante por provedor, então aqui está o quadro real:
 
-Algumas operadoras do Reino Unido estão falando em adicionar uma taxa "ambiental" de £5–£10 para cartões SIM físicos. Optar pelo **eSIM** agora te poupa desse futuro incômodo.
+| Provedor / tipo de plano | Hotspot permitido? | As letras miúdas |
+|---|---|---|
+| Roami | Sim | Sem restrições |
+| Airalo | Sim | Sem restrições |
+| Nomad | Sim | Sem restrições |
+| Holafly | Limitado | Alguns planos limitam o compartilhamento a um dispositivo |
+| EE (pré-pago, direto) | Sim | Sujeito à política de uso justo |
+| O2 (pré-pago, direto) | Sim | Sujeito à política de uso justo |
+| Three (pré-pago, direto) | Sim | Planos ilimitados podem restringir o hotspot |
+| SIMs físicos pré-pagos | Geralmente sim | Verifique as letras miúdas nas ofertas "ilimitadas" |
 
-**Toque seu telefone para o Metrô**
+**Duas coisas para saber antes de compartilhar:**
 
-O metrô e os ônibus de Londres funcionam com Apple Pay / Google Pay – mas apenas se você tiver uma conexão de dados funcional. Um **eSIM** instável pode te deixar preso na catraca. Outra razão para escolher um provedor confiável com cobertura em estações de metrô (a Vodafone tem chamadas Wi-Fi exclusivas em algumas linhas do Metrô, enquanto a EE tem a melhor cobertura acima do solo).
+1. **"Ilimitado" é a palavra-armadilha.** Muitos planos ilimitados reduzem a velocidade para ~128 Kbps após um limite diário (geralmente 2–5 GB), e alguns proíbem explicitamente o hotspot nos níveis ilimitados. Leia a política de uso justo antes de depender do tethering.
+2. **O hotspot consome dados rápido.** Compartilhar a internet de um laptop assistindo um vídeo 1080p gasta 1–2 GB por hora. Um "plano familiar" que parece generoso pode desaparecer em uma tarde. Faça a conta dos dados, não só do preço.
 
+Se o compartilhamento é central na sua viagem, escolha um provedor que declare abertamente "hotspot permitido" em vez de um que fique calado.
 
-## O Que Torna o Roami eSIM Reino Unido Diferente (Em Linguagem Simples)
 
-Muitas empresas de eSIM parecem iguais na superfície. Aqui está o que realmente importa:
+## Wi-Fi Calling nas redes do Reino Unido
 
-**1. Comutação inteligente de rede**  
-A maioria dos eSIMs te bloqueia a uma operadora (ex: apenas Three). Se essa operadora tiver um ponto morto, azar o seu. A Roami monitora constantemente a intensidade do sinal e te move entre EE, O2 e Vodafone – a que for mais forte na sua localização exata. Você não faz nada. Simplesmente funciona.
+Os prédios antigos do Reino Unido são famosos por matarem o sinal celular. Paredes espessas de pedra, pubs vitorianos, restaurantes em subsolos e estações profundas do metrô bloqueiam as bandas móveis. O Wi-Fi Calling é a válvula de escape: ele roteia chamadas e mensagens por qualquer rede Wi-Fi quando o sinal celular está fraco demais.
 
-**2. Sem limitação oculta**  
-Alguns planos "ilimitados" te reduzem a uma lentidão após 1GB por dia. A Roami não joga esses jogos. O que você vê é o que você obtém.
+| Operadora | Wi-Fi Calling em um eSIM | Notas |
+|---|---|---|
+| EE | Sim | Disponível na maioria dos planos pré-pagos |
+| O2 | Sim | Disponível na maioria dos planos pré-pagos |
+| Three | Sim | Disponível na maioria dos planos |
+| Vodafone | Sim | Só pós-pago — não no pré-pago |
+| Roami | Não | Somente dados — sem número de telefone para rotear chamadas |
+| Airalo | Não | Somente dados |
 
-**3. Feito para viajantes, não para residentes**  
-Sem verificação de crédito. Sem endereço no Reino Unido. Sem contrato de 12 meses. Compre um plano online, escaneie um código QR, e você estará online em menos de 3 minutos.
+**A distinção-chave:** o Wi-Fi Calling é um recurso de *operadora* vinculado a um número de telefone. Os eSIMs de viagem somente de dados (Roami, Airalo, Holafly) não incluem número, então não há nada para o Wi-Fi Calling rotear — mas você ainda pode fazer chamadas de WhatsApp, FaceTime e iMessage por qualquer Wi-Fi, o que cobre as necessidades reais da maioria dos viajantes.
 
+Se você vai passar longos períodos em prédios antigos *e* precisa fazer chamadas telefônicas tradicionais, isso é um ponto para um plano direto da EE ou O2 com Wi-Fi Calling. Se suas "chamadas" na prática já são WhatsApp e FaceTime, um eSIM somente de dados mais Wi-Fi resolve. Para saber como comprar esses planos da EE/O2, veja [como comprar um eSIM do Reino Unido](/faq/how-to-buy-a-uk-esim/).
 
-## Visitando o Reino Unido e a Europa? Como Escolher um eSIM Multi-País
 
-Se sua viagem inclui tanto o Reino Unido quanto a Europa continental (França, Alemanha, Itália, Espanha, etc.), você tem duas opções:
+## Planos multipaíses de eSIM para o Reino Unido e a Europa
 
-| Opção | Melhor Para | Custo | Notas |
-|--------|----------|------|-------|
-| **eSIM Regional Europa** | 3+ países na Europa + Reino Unido | $20-40 por 10-20GB | Alguns provedores excluem o Reino Unido pós-Brexit – verifique cuidadosamente! |
-| **Apenas Reino Unido + eSIM UE separado** | Viagem apenas Reino Unido + 1 país da UE | $15 + $15 = ~$30 | Mais caro, mas você pode escolher a melhor rede para cada um |
-| **eSIM Global** | 5+ países em vários continentes | $30-60 | Melhor para viajantes mundiais |
+Se a sua viagem cruza o Canal da Mancha, a decisão de formato ganha uma segunda camada. Após o Brexit, a maioria das operadoras locais do Reino Unido reintroduziu tarifas de roaming na UE — cerca de £2–2,50/dia na EE, Vodafone e Three (a O2 é a exceção: seus planos pós-pagos mensais ainda incluem roaming na UE até um limite de uso justo de 25GB). Um SIM físico só do Reino Unido de repente custa extra no momento em que você chega a Paris.
 
-**Importante:** Pós-Brexit, muitos planos "Europa" não incluem mais o Reino Unido. Ao olhar para planos **eSIM Europa**, verifique se o Reino Unido está incluído na lista de cobertura. Se não estiver, compre um **Reino Unido eSIM** separado e um **Europa eSIM** separado.
+Suas opções:
 
-A Roami oferece planos regionais que listam claramente a cobertura por país. Sempre verifique o mapa de cobertura antes de comprar.
+| Combinação | Melhor para | Custo aproximado | Notas |
+|---|---|---|---|
+| eSIM regional da Europa (com o Reino Unido) | 3+ países, incluindo o Reino Unido | $20–40 por 10–20 GB | Um perfil só, sem tarifas diárias — confirme que o Reino Unido está na lista |
+| eSIM só do Reino Unido + eSIM da UE separado | Reino Unido + um outro país | $15 + $15 ≈ $30 | Mais flexível; você escolhe cada rede |
+| eSIM global | Viagens em vários continentes | $30–60 | Cobre Reino Unido, UE e além |
 
+**A pegadinha pós-Brexit:** muitos planos "Europa" removeram discretamente o Reino Unido após 2021. Sempre confirme que o Reino Unido aparece explicitamente na lista de cobertura antes de comprar — um plano que cobre "só a UE" não vai te ajudar em Londres.
 
-## Solução de Problemas do Reino Unido eSIM – Corrija os Problemas Mais Comuns
+**Quais provedores incluem o Reino Unido:** Roami Europe, Airalo Europe (confira a região) e Holafly Europe todos listam o Reino Unido. Nossa [comparação de planos de eSIM para o Reino Unido](/faq/how-to-buy-a-uk-esim/) detalha os preços e franquias de dados de 2026 para esses e outros.
 
-Mesmo com um bom eSIM, as coisas podem dar errado. Aqui está o que fazer:
+**Um exemplo prático:** uma viagem de 10 dias dividida entre Londres e Paris. Um eSIM só do Reino Unido (cerca de $8–15 por 5–10 GB) morre na fronteira, e você precisaria de um segundo plano da UE (~$15). Um único plano regional da Europa que liste o Reino Unido custa $20–40 por 10–20 GB e cobre ambos — uma instalação, sem troca, sem tarifas diárias. Em viagens que tocam dois ou mais países, o plano regional quase sempre vence quando você soma o custo do segundo plano.
 
-| Problema | Causa Provável | Solução |
-|---------|--------------|----------|
-| **eSIM não ativa** | Código QR expirado ou Wi-Fi instável | Solicite um novo código QR. Conecte-se a um Wi-Fi estável. |
-| **Sem serviço após a chegada** | Roaming de dados desativado | `Configurações > Celular > eSIM > Roaming de Dados` (ATIVADO). |
-| **Código QR inválido** | Código expirado ou já usado | Solicite um novo código QR do seu provedor. |
-| **Barras cheias mas sem internet** | Configurações APN ausentes | Configure o APN manualmente (veja abaixo). |
-| **Velocidade lenta** | Congestionamento de rede ou limitação | Mude de rede manualmente (tente EE se estiver na O2, etc.). |
-| **Sem sinal em áreas rurais** | Seu eSIM está em uma rede ruim | Se seu provedor suportar multi-operadora, deve alternar automaticamente. Se não, selecione EE manualmente. |
-| **Hotspot não funciona** | Provedor bloqueia hotspot | Verifique os termos do seu plano. Alguns provedores (Holafly) limitam o hotspot. |
+**Mais um detalhe pós-Brexit:** o Reino Unido não está mais na zona "roam like home" da UE, e isso vale nos dois sentidos — um plano europeu comprado na França muitas vezes *exclui* o Reino Unido. Sempre leia a lista de países nas duas direções antes de comprar.
 
-### Configuração Manual de APN para Redes do Reino Unido
 
-Se você não tiver dados após a ativação, pode ser necessário configurar o APN manualmente:
+## Você precisa de um número de telefone do Reino Unido com um eSIM?
 
-**No iPhone:** `Configurações > Celular > Rede de Dados Celular` → preencha os campos APN.
+Um eSIM de viagem é quase sempre **somente dados**: sem número de telefone, logo sem chamadas tradicionais e sem SMS. Para um turista de 1–30 dias isso está ótimo — WhatsApp, iMessage e FaceTime rodam sobre dados.
 
-**No Android:** `Configurações > Conexões > Redes Móveis > Nomes de Pontos de Acesso` → adicione novo APN.
+Um número do Reino Unido se torna inegociável quando você vai abrir conta no banco, alugar apartamento, se registrar no NHS ou candidatar-se a empregos — bancos e agentes mandam SMS ou ligam. Nesse caso, um SIM físico pré-pago ou um eSIM pré-pago da EE/O2/Three com número +44 é o formato vencedor. (Como comprar está coberto nas [etapas de compra](/faq/how-to-buy-a-uk-esim/).)
 
-| Rede | APN | Nome de Usuário | Senha |
-|---------|-----|----------|----------|
-| **EE** | everywhere | (em branco) | (em branco) |
-| **O2** | mobile.o2.co.uk | web | web |
-| **Vodafone** | internet | (em branco) | (em branco) |
-| **Three** | three.co.uk | (em branco) | (em branco) |
 
-Se ainda tiver problemas, veja nosso [guia de solução de problemas eSIM](/pt/faq/esim-deep-troubleshooting-guide-2026/) para 16 casos reais.
+## Mantenha seu SIM de origem e adicione um eSIM do Reino Unido
 
+A opção que une o melhor dos dois mundos e que a maioria dos viajantes perde: você não precisa escolher. A maioria dos telefones modernos roda duas linhas ao mesmo tempo — seu SIM físico de origem para chamadas e mensagens, mais um eSIM do Reino Unido para dados.
 
-## Ativação do Reino Unido eSIM: Um Plano Passo a Passo Simples
+**Como funciona:**
 
-**Antes do voo (pelo menos 48 horas antes)**
+1. **Mantenha seu SIM de origem na gaveta física.** Seu número habitual continua funcionando para chamadas, mensagens e códigos de dois fatores do seu banco.
+2. **Adicione um eSIM do Reino Unido para dados.** Defina-o como padrão para dados móveis, para que mapas, WhatsApp e navegação rodem no plano barato do Reino Unido.
+3. **Deixe "Data Roaming" ativado para o eSIM e desativado para sua linha de origem** (ou deixe o telefone rotear automaticamente). Sua linha de origem continua acessível para chamadas recebidas sem acumular tarifas de roaming de dados.
 
-1. Verifique se seu telefone realmente suporta eSIM. Use nossa [ferramenta de compatibilidade](/compatibility/) – não adivinhe.
-2. Decida se você precisa de um **travel eSIM UK** (viagens curtas) ou um plano local pós-pago (estadas longas).
-3. Leia a "política de uso justo" de qualquer **eSIM** que esteja considerando. Procure por cortes de velocidade ou limites de hotspot.
-4. Baixe mapas offline do Google Maps para as áreas que visitará. Apenas por precaução.
-5. Se você estiver usando um **Roami eSIM** ou outro provedor global, instale antes de sair – você precisa de Wi-Fi para baixar o perfil.
+**Por que essa costuma ser a jogada vencedora:**
 
-**Quando você pousar no Reino Unido**
+- Você mantém seu número de origem para banco e família, *e* ganha dados locais baratos.
+- Sem troca de SIM físico no aeroporto, e você não pode perder um cartão que não inseriu.
+- Sua operadora de origem não vê consumo de dados, então você foge completamente da tarifa de roaming de $10/dia.
 
-1. Conecte-se ao Wi-Fi gratuito do aeroporto.
-2. Instale seu eSIM (escaneie o código QR ou toque no app) – este é o passo de **ativação do Reino Unido eSIM**.
-3. Desligue a "Seleção Automática de Rede" e escolha a rede que você comprou (EE, O2 ou Vodafone).
-4. Ative o **Roaming de Dados** – isso é necessário para que os eSIMs de viagem funcionem.
-5. Faça um teste de velocidade rápido para saber como é o "normal".
+**A única ressalva:** o dual-SIM gasta a bateria um pouco mais rápido, porque o telefone mantém dois rádios ativos. Em um dia longo de navegação, leve um power bank. E se seu telefone estiver bloqueado para a sua operadora de origem, o slot do eSIM pode estar bloqueado até você desbloqueá-lo.
 
-**Durante sua viagem**
+Para a instalação passo a passo, veja [como ativar um eSIM](/faq/how-to-activate-an-esim/).
 
-- Observe a intensidade do sinal no seu hotel, café favorito, etc.
-- Se usar hotspot, verifique se não está excedendo nenhum limite oculto.
-- Se algo der errado, entre em contato com o suporte imediatamente – com localização, horário e o que você vê.
-- Se você estiver usando **dados móveis no Reino Unido** intensamente, considere um plano de dados maior – você usará mais do que imagina.
 
-Para instruções detalhadas de ativação, veja nosso [guia de como ativar um eSIM](/pt/faq/how-to-activate-an-esim/). Se encontrar problemas, nosso [guia de solução de problemas eSIM](/pt/faq/esim-deep-troubleshooting-guide-2026/) cobre 16 casos reais.
+## Como configurar um eSIM do Reino Unido
 
+Já decidiu o formato? Aqui está o caminho curto da decisão à conexão funcionando:
 
-## Perguntas Frequentes Sobre Reino Unido eSIMs
+1. **Confirme que seu telefone suporta eSIM.** Disque `*#06#` — se aparecer um EID de 32 dígitos, está tudo certo. Detalhes completos e a lista completa de dispositivos estão na nossa [página de compatibilidade](/compatibility/).
+2. **Instale antes de voar.** Ative o plano no Wi-Fi de casa para que esteja pronto quando você pousar — não dependa do Wi-Fi do aeroporto. Para o passo a passo completo, veja nosso [guia de como ativar um eSIM](/faq/how-to-activate-an-esim/).
 
-**P1: Por que não devo comprar um SIM no aeroporto ao pousar?**  
-Porque você pagará 30-50% a mais do que o preço normal pelos seus **dados móveis no Reino Unido**. Os aeroportos sabem que você é um cliente cativo. Compre um **eSIM** online antes de sair. Esta é a principal razão para **comprar um eSIM online** com antecedência.
+Se os dados não conectarem após o pouso, a solução habitual é uma verificação rápida de APN ou Data Roaming — nosso [guia de solução de problemas de eSIM](/faq/esim-deep-troubleshooting-guide-2026/) cobre todos os erros e a tabela completa de APN.
 
-**P2: Como sei se meu telefone funciona com um Reino Unido eSIM?**  
-Não assuma. Use nossa [ferramenta de compatibilidade](/compatibility/) – ela verifica seu modelo exato e região. Ou disque `*#06#` – se um EID aparecer, seu telefone é compatível.
 
-**P3: Por que tenho barras cheias mas sem internet em ambientes internos?**  
-Edifícios antigos do Reino Unido têm paredes grossas que bloqueiam o 5G de alta velocidade. Um bom **eSIM** (como o da Roami) muda automaticamente para um sinal mais lento, mas mais confiável, que consegue atravessar. A O2 tem a melhor penetração interna.
+## Perguntas frequentes
 
-**P4: Qual é a melhor opção para dirigir pelas Terras Altas da Escócia?**  
-Escolha um **eSIM** que use a EE – eles têm a cobertura mais ampla em áreas rurais. E baixe mapas offline antes de ir. Alguns vales têm sinal zero de qualquer provedor.
+**O eSIM é realmente mais barato que um SIM físico no Reino Unido?**
+Em viagens curtas, quase sempre. Um SIM físico de 5 GB comprado em loja na cidade custa £10–15; a mesma franquia em um eSIM de viagem custa tipicamente $5–10, e você pula o markup do aeroporto e a visita à loja. Em estadias longas, a tarifa por GB menor de um SIM físico pré-pago pode vencer quando você soma um número do Reino Unido na equação.
 
-**P5: O que torna a Roami diferente de outros eSIMs de viagem?**  
-A maioria te bloqueia a uma rede. A Roami alterna entre EE, O2 e Vodafone automaticamente para te dar o melhor sinal na sua localização. Além disso, sem limitação de velocidade oculta.
+**Um eSIM funciona se meu telefone tem slot de SIM físico?**
+Sim. A maioria dos telefones modernos roda ambos ao mesmo tempo (dual SIM), então você pode manter seu número de origem no SIM físico e rodar os dados do Reino Unido no eSIM.
 
-**P6: Posso obter um eSIM Vodafone pré-pago para uma viagem de duas semanas?**  
-Não. A **Vodafone UK** não oferece eSIM pré-pago de forma alguma. Apenas contratos pós-pagos com endereço no Reino Unido e verificação de crédito.
+**Um eSIM me dá um número de telefone do Reino Unido?**
+Geralmente não — os eSIMs de viagem são somente de dados. Se você precisa de um número +44, isso é um ponto para um SIM físico pré-pago ou um eSIM pré-pago da EE/O2. Veja as opções no guia de compra.
 
-**P7: A Vodafone UK tem algum eSIM para Pay As You Go?**  
-Em 2026, não. Se você vir posts antigos em fóruns dizendo que sim, provavelmente estavam falando sobre Vodafone Alemanha ou Itália – não o Reino Unido.
+**Posso compartilhar a internet do meu laptop com um eSIM do Reino Unido?**
+Na maioria dos provedores, sim. A exceção são alguns planos "ilimitados" que limitam ou bloqueiam o hotspot. Confirme antes de comprar se o compartilhamento importa.
 
-**P8: Sou um estudante me mudando para o Reino Unido por seis meses. Devo comprar um Vodafone UK eSIM?**  
-Você pode tentar, mas precisará de uma conta bancária no Reino Unido e comprovante de endereço primeiro. Mesmo assim, podem pedir um contrato de 12 meses. Considere Giffgaff (SIM físico) ou um **travel eSIM UK** para o seu primeiro mês.
+**Por que tenho barra de sinal cheia mas sem internet indoors?**
+Os prédios britânicos de paredes grossas bloqueiam as bandas de alta frequência. Um eSIM multirrede vai recuar para uma banda mais baixa e mais lenta que penetra, e o Wi-Fi Calling (ou WhatsApp via Wi-Fi) cobre o resto.
 
-**P9: Já tenho um eSIM Vodafone da Espanha. Posso usá-lo no Reino Unido?**  
-Sim, se seu plano espanhol incluir roaming no Reino Unido. Mas isso é roaming, não um **Reino Unido eSIM** local. Verifique sua política de uso justo – as velocidades podem ser limitadas.
+**As bandas de frequência do meu telefone importam mais que eSIM vs físico?**
+Na Grã-Bretanha rural, sim. A falta da Banda 20 (800 MHz) degrada a cobertura em todas as redes, independentemente do formato — verifique a lista de bandas do seu modelo antes de uma viagem às Highlands ou ao País de Gales.
 
-**P10: Quais provedores de eSIM de viagem funcionam na Vodafone UK?**  
-Muitos – Roami, Airalo e outros têm acordos com a Vodafone. Mas honestamente, você não deveria se importar com a marca – você deveria se importar em ter sinal quando precisar.
+**Um único eSIM pode cobrir o Reino Unido e a Europa?**
+Sim, se você comprar um plano regional da Europa que liste explicitamente o Reino Unido. Após o Brexit, confira duas vezes a lista de cobertura.
 
-**P11: Posso usar um Reino Unido eSIM na Europa depois de visitar o Reino Unido?**  
-Depende. Muitos planos **Reino Unido eSIM** são apenas para o Reino Unido e não funcionam na Europa. Se você está visitando ambos, compre um plano regional Europa que inclua o Reino Unido. Verifique a cobertura cuidadosamente – pós-Brexit, alguns planos "Europa" excluem o Reino Unido.
+**Já tenho um SIM físico que funciona — devo migrar para o eSIM?**
+Somente se você quiser comprar antes de pousar, evitar uma visita à loja ou adicionar uma segunda linha sem um segundo slot de gaveta. O cartão físico que você tem continuará funcionando bem.
 
-**P12: Quantos dados eu realmente preciso para uma viagem ao Reino Unido?**  
-- Uso leve (mapas, WhatsApp, navegação ocasional): 1-3GB/semana
-- Moderado (redes sociais, streaming de música): 5-10GB/semana
-- Pesado (chamadas de vídeo, streaming, hotspot): 10-20GB/semana
+**Qual é o melhor eSIM para uma viagem ao Reino Unido?**
+Não existe um "melhor" universal — depende do seu roteiro. Para viagens urbanas, qualquer plano barato serve. Para rotas rurais, escolha um plano multirrede que alcance a EE. Para viagens a vários países, um plano regional da Europa que liste o Reino Unido. Nossos [preços de planos de eSIM do Reino Unido](/faq/how-to-buy-a-uk-esim/) comparam os planos de 2026 lado a lado para você combinar um com o seu itinerário.
 
-Para mais orientação sobre planos de dados, veja nossa [comparação de planos de dados eSIM](/pt/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/#4-esim-data-plans-how-much-data-do-you-actually-need-for-your-trip).
+**Preciso da Banda 20 se só vou visitar Londres?**
+Não muito. A Banda 20 (800 MHz) importa mais no campo e dentro de prédios de paredes grossas. A rede densa de bandas mais altas de Londres cobre você em quase todo lugar, então um telefone sem a Banda 20 ficará bem na capital — só vai doer em um passeio de um dia pelo interior.
 
-**P13: Qual é o Reino Unido eSIM mais barato disponível?**  
-O plano de 1GB/7 dias da Roami a $1.99 é atualmente o mais barato. Para mais dados, o plano de 5GB/7 dias da Airalo a $10 é competitivo, mas a Roami frequentemente o supera em preço e comutação multi-rede. Sempre compare o custo total por GB.
+**Posso simplesmente usar os dados internacionais grátis do meu plano americano no Reino Unido?**
+Se o seu plano dos EUA inclui dados no Reino Unido (T-Mobile international, AT&T International Day Pass, Verizon TravelPass), pode — mas confira a velocidade. Muitos incluem apenas dados lentos "em velocidade 2G" (128–256 Kbps), a menos que você pague uma taxa diária, o que é lento demais para mapas ou videochamadas. Um eSIM de viagem a $5–10 costuma ser mais rápido e mais barato que um day pass de $10/dia.
 
-**P14: Qual é o melhor Reino Unido eSIM para roaming na Europa?**  
-Nenhum eSIM apenas para o Reino Unido funciona na Europa. Compre um plano regional Europa da Roami, Airalo ou Holafly que inclua tanto o Reino Unido quanto países da UE. Esta é a melhor abordagem para necessidades de **Reino Unido e Europa eSIM**.
+**Posso instalar um eSIM do Reino Unido e um eSIM da Europa antes de voar?**
+Sim. A maioria dos telefones guarda 5–8 perfis de eSIM (dois ativos ao mesmo tempo), então você pode instalar um plano só do Reino Unido e um plano da UE separado antes da partida e alternar entre eles ao cruzar a fronteira. Um único plano regional da Europa que liste o Reino Unido é mais simples se ele cobrir todo o seu roteiro — mas dois planos dão mais controle sobre cada rede.
 
 
-## Conclusão Final: A Estratégia do Viajante Inteligente para o Reino Unido
+## Conclusão
 
-**Sua escolha = Seu tipo de viajante + Quanto tempo você fica + O quanto você odeia zonas mortas**
+A decisão de formato é menor do que parece. Se sua viagem é de menos de um mês e você não precisa de um número de telefone do Reino Unido, o eSIM vence em preço, velocidade e conveniência. Se você vai se instalar por meses e precisa de um número +44, um SIM físico (ou um eSIM pré-pago local) vence no custo contínuo. A única regra universal: verifique o suporte à Banda 20 do seu telefone antes de uma viagem rural, e compre o que escolher *antes* de voar.
 
-Para 90% dos visitantes (1-30 dias), a resposta é clara: **compre um travel eSIM dedicado** com comutação inteligente de rede, sem limitação oculta e preços transparentes. Se você escolher **Roami eSIM**, **Airalo eSIM** ou outro provedor, o segredo é comprar antes de ir.
+👉 **Pronto para ver planos e preços?** Vá para a [comparação de planos e preços de eSIM do Reino Unido](/faq/how-to-buy-a-uk-esim/), o artigo companheiro desta página.
 
-Não persiga um **Vodafone UK eSIM** pré-pago – é uma miragem para turistas. Aceite isso e escolha uma solução que realmente funcione.
+👉 **Não tem certeza se seu telefone suporta eSIM?** Confira a [lista de compatibilidade](/compatibility/).
 
-Se você ficar 3+ meses, obtenha uma conta bancária e endereço no Reino Unido primeiro. Então considere um **Vodafone UK eSIM** pós-pago ou **EE UK eSIM**. Mas para suas primeiras semanas, um **travel eSIM UK** vai te poupar de dores de cabeça.
-
-**Conselho final:** Pare de ler comparações intermináveis. Encontre seu tipo de viajante na tabela acima. Escolha um provedor como a Roami que lida com a complexidade da rede para você. Siga o plano de três passos (antes, durante, depois). Então esqueça a conectividade e aproveite sua viagem.
+👉 **Quer testar de graça?** Pegue um [eSIM Roami de teste grátis](/free-esim/) — dois minutos, confirma que seu telefone funciona, não custa nada.
 
 ---
 
-*Baseado em dados da Ofcom, padrões GSMA e testes de operadoras. Atualizado: Junho de 2026.*
+*Baseado em dados da Ofcom, padrões da GSMA e testes de operadoras a partir de setembro de 2026.*
+## Fontes
+
+- [GSMA — especificação eSIM (SGP.22)](https://www.gsma.com/esim/)
+- [Suporte Apple — Configurar eSIM no iPhone](https://support.apple.com/en-us/HT212780)
+- [Suporte Google — Configurar um eSIM](https://support.google.com/pixelphone/answer/14853135)
+- [Suporte Google — Android eSIM](https://support.google.com/android/answer/11241215)
+- [Ofcom — verificador de cobertura móvel do Reino Unido](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/mobile-coverage-checker)

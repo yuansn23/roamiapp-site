@@ -1,12 +1,13 @@
 ---
-title: "Hướng dẫn eSIM Samsung Galaxy: S/A/Z Series"
-h1_title: "Hướng dẫn đầy đủ về eSIM Samsung Galaxy cho dòng S, A và Z"
-description: "Hỗ trợ eSIM Samsung đầy đủ: S21-S25 (có), S20 (toàn cầu), A54/A55/A35 (có), A15/A16/A32 (không), Z series (có). Xác minh, kích hoạt & danh sách nhà mạng."
-image: "/img/esim/esim-travel.jpg"
-keywords: ["samsung esim", "điện thoại samsung có esim", "điện thoại samsung tương thích esim", "samsung galaxy esim", "samsung có esim không", "samsung s21 esim", "kích hoạt esim samsung", "samsung a series esim", "samsung dual esim", "danh sách điện thoại samsung esim", "samsung esim không hoạt động", "mã qr esim samsung", "samsung esim usa", "samsung s20 esim"]
-date: 2026-09-06T10:00:00Z
-lastmod: 2026-09-06T00:00:00Z
-tags: ["Samsung", "eSIM", "Khả năng tương thích", "Galaxy S21", "Galaxy S22", "Galaxy S23", "Galaxy S24", "Galaxy S25", "Galaxy A series", "Galaxy Z series"]
+title: "eSIM Samsung Galaxy: Hướng dẫn dòng S/A/Z"
+h1_title: "Hướng dẫn hoàn chỉnh về eSIM Samsung Galaxy cho dòng S, A và Z"
+description: "Hỗ trợ eSIM Samsung đầy đủ: S21-S25 (có), S20 (chỉ toàn cầu), A54/A55/A35 (có), A15/A16/A32 (không), dòng Z (có). Xác minh, kích hoạt & danh sách nhà mạng."
+image: "/img/faq/samsung-s20-esim.webp"
+image-1: "/img/faq/samsung-s20-esim-1.jpg"
+keywords: ["samsung esim", "samsung phones with esim", "samsung esim compatible phones", "samsung galaxy esim", "does samsung have esim", "samsung s21 esim", "samsung esim activation", "samsung a series esim", "samsung dual esim", "samsung esim phones list", "samsung esim not working", "samsung esim qr code", "samsung esim usa", "samsung s20 esim"]
+date: 2026-09-22T00:00:00Z
+lastmod: 2026-09-22T00:00:00Z
+tags: ["Samsung", "eSIM", "Compatibility", "Galaxy S21", "Galaxy S22", "Galaxy S23", "Galaxy S24", "Galaxy S25", "Galaxy A series", "Galaxy Z series"]
 toc: true
 
 # Site & SEO
@@ -16,7 +17,7 @@ publisher_logo: "/img/logo.png"
 
 # UI text translations
 ui_text:
-  updated_on: "Cập nhật ngày"
+  updated_on: "Cập nhật vào"
   min_read: "phút đọc"
   toc: "Mục lục"
 
@@ -25,7 +26,7 @@ breadcrumbs:
     text: "Trang chủ"
     url: "/"
   parent:
-    text: "Khả năng tương thích eSIM"
+    text: "Tương thích eSIM"
     url: "/compatibility/"
 
 # Sidebar: Popular eSIMs
@@ -33,7 +34,7 @@ sidebar_popular:
   title: "eSIM phổ biến"
   item_suffix: "eSIM"
   items:
-    - name: "eSIM Mỹ"
+    - name: "eSIM Mỹ (USA)"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
@@ -43,7 +44,7 @@ sidebar_popular:
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "eSIM Châu Âu"
+    - name: "eSIM châu Âu"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
@@ -66,10 +67,10 @@ sidebar_popular:
 
 # Sidebar: Free eSIM offers
 sidebar_free:
-  title: "Nhận eSIM Miễn phí"
+  title: "Nhận eSIM miễn phí"
   icon: "🎁"
-  item_suffix: "eSIM Miễn phí"
-  item_subtitle: "eSIM Miễn phí"
+  item_suffix: "eSIM miễn phí"
+  item_subtitle: "eSIM miễn phí"
   items:
     - name: "eSIM Anh"
       flag: "/img/flags/gb.svg"
@@ -88,59 +89,62 @@ sidebar_free:
 sidebar_questions:
   title: "Câu hỏi phổ biến"
   items:
-    - question: "Kích hoạt eSIM là gì và nó hoạt động như thế nào?"
+    - question: "Kích hoạt eSIM là gì và hoạt động ra sao?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "Cách kích hoạt eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Cách kích hoạt eSIM trên iPhone (Tất cả các model)?"
+    - question: "Cách kích hoạt eSIM trên iPhone (mọi mẫu máy)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Danh sách tương thích eSIM mới nhất"
       url: "/compatibility/"
 ---
 
 
-> **Lưu ý của biên tập viên:** Roami là thương hiệu đứng sau hướng dẫn này. Tất cả thông tin về khả năng tương thích đều dựa trên tài liệu chính thức của Samsung, tiêu chuẩn GSMA và thử nghiệm thiết bị của nhóm chúng tôi vào năm 2026. Chúng tôi nhằm cung cấp hướng dẫn rõ ràng, chính xác để bạn có thể tự tin xác định liệu điện thoại Samsung của mình có hỗ trợ eSIM hay không.
+> **Lưu ý của biên tập viên:** Samsung Galaxy S20 hỗ trợ eSIM trên hầu hết biến thể, nhưng một số bản khu vực và nhà mạng vô hiệu hóa nó. Hướng dẫn này tuân theo tài liệu chính thức của Samsung và tiêu chuẩn GSMA. Kiểm tra số model chính xác của bạn bên dưới để xác nhận S20 có dùng được eSIM hay không.
 
-## Câu trả lời nhanh về eSIM Samsung – Galaxy của bạn có hỗ trợ không?
 
-**Câu trả lời ngắn gọn:** Nếu bạn sở hữu Galaxy S21 trở lên (S21, S22, S23, S24, S25), **có** — điện thoại của bạn hỗ trợ eSIM ở mọi khu vực, bao gồm cả Mỹ. Các model cũ hơn và rẻ hơn thì phải xem xét từng trường hợp cụ thể.
+Với Samsung, bản tóm tắt ngắn là: Galaxy S21 trở lên hỗ trợ eSIM ở mọi khu vực, S20 bản quốc tế Exynos cũng vậy, nhưng máy S20 bản Mỹ, hầu hết điện thoại Galaxy dòng A và các mẫu Trung Quốc/Hồng Kông thì không. Quay số *#06# và kiểm tra EID sẽ xác nhận chiếc máy của bạn. Phân tích theo từng dòng máy bắt đầu dưới đây.
 
-**Tại sao điều này quan trọng:** eSIM cho phép bạn thêm gói mà không cần thẻ SIM vật lý, vì vậy du khách có thể mua gói dữ liệu địa phương trước khi rời nhà và kích hoạt ngay khi hạ cánh.
+## Samsung Galaxy của bạn có hỗ trợ eSIM không?
 
-**Vẫn không chắc chắn?** Hãy nhận **[dùng thử eSIM miễn phí](/free-esim/)** — mất 2 phút và xác nhận điện thoại của bạn đã sẵn sàng mà không tốn một xu.
+**Câu trả lời ngắn:** Nếu bạn sở hữu Galaxy S21 trở lên (S21, S22, S23, S24, S25), **có** — điện thoại của bạn hỗ trợ eSIM ở mọi khu vực, kể cả Mỹ. Các mẫu cũ và rẻ hơn là câu chuyện từng trường hợp riêng.
 
-## Cách xác định Samsung của bạn: Số model, CSC và Chipset
+**Tại sao điều này quan trọng:** eSIM cho phép bạn thêm gói cước mà không cần thẻ SIM vật lý, nên du khách có thể mua gói dữ liệu địa phương trước khi rời nhà và kích hoạt ngay khi đáp chuyến bay.
 
-Samsung là thương hiệu Android khó nhất đối với eSIM vì cùng tên điện thoại nhưng hoạt động khác nhau theo khu vực. Ba yếu tố quyết định Galaxy của bạn có eSIM hay không: **hậu tố số model**, **mã CSC** và **chipset (Exynos vs Snapdragon)**.
+**Vẫn chưa chắc?** Lấy một **[eSIM dùng thử miễn phí](/free-esim/)** — mất 2 phút và xác nhận điện thoại của bạn đã sẵn sàng mà không tốn đồng nào.
 
-### Bước 1: Tìm số model của bạn
+## Cách xác định số model Samsung của bạn
 
-Vào **Cài đặt > Giới thiệu điện thoại > Số model**. Bạn sẽ thấy một cái gì đó như `SM-S918B` hoặc `SM-S918U`.
+Samsung là hãng Android "khó đỡ" nhất về eSIM vì cùng một cái tên máy lại hành xử khác nhau theo khu vực. Ba yếu tố quyết định Galaxy của bạn có eSIM hay không: **hậu tố số model**, **mã CSC** và **bộ chip (Exynos so với Snapdragon)**.
 
-### Bước 2: Giải mã hậu tố số model
+### Tìm số model của bạn
+
+Vào **Settings > About Phone > Model Number**. Bạn sẽ thấy đại loại như `SM-S918B` hoặc `SM-S918U`.
+
+### Giải mã hậu tố số model
 
 | Hậu tố | Ý nghĩa | Hỗ trợ eSIM |
 |--------|---------|--------------|
 | **SM-S9xxB, SM-S9xxE** | Quốc tế / Toàn cầu (Exynos) | ✅ Có (S20 trở lên) |
 | **SM-S9xxU, SM-S9xxU1** | Mỹ (Snapdragon) | ⚠️ S20 không, S21+ có |
-| **SM-S9xxW** | Canada | ⚠️ Hỗn hợp — kiểm tra với `*#06#` |
-| **SM-S9xx0** | Trung Quốc / Hồng Kông | ❌ Không eSIM (model Trung Quốc) |
-| **SM-S9xxN** | Hàn Quốc | ✅ Có (hầu hết model) |
+| **SM-S9xxW** | Canada | ⚠️ Không đồng nhất — kiểm tra bằng `*#06#` |
+| **SM-S9xx0** | Trung Quốc / Hồng Kông | ❌ Không eSIM (máy bản Trung Quốc) |
+| **SM-S9xxN** | Hàn Quốc | ✅ Có (hầu hết mẫu máy) |
 | **SC-xx** | Nhật Bản (Docomo) | ❌ Thường bị vô hiệu hóa |
 | **SM-AxxE, SM-AxxB** | Dòng A quốc tế | ⚠️ Chỉ A54/A55/A35 có eSIM |
-| **SM-AxxU** | Dòng A Mỹ | ❌ Không eSIM trên bất kỳ dòng A Mỹ nào |
+| **SM-AxxU** | Dòng A Mỹ | ❌ Không eSIM trên bất kỳ dòng A bản Mỹ nào |
 
-### Bước 3: Kiểm tra mã CSC của bạn
+### Kiểm tra mã CSC của bạn
 
-CSC (Customer Service Code) cho bạn biết điện thoại của bạn đang chạy phần sụn của khu vực nào:
+CSC (Customer Service Code) cho biết máy của bạn chạy firmware của khu vực nào:
 
-1. Vào **Cài đặt > Giới thiệu điện thoại > Thông tin phần mềm**.
-2. Cuộn đến **Phiên bản SW nhà cung cấp dịch vụ**.
-3. Đọc ba chữ cái cuối cùng của CSC:
+1. Vào **Settings > About Phone > Software Information**.
+2. Cuộn đến **Service Provider SW Ver**.
+3. Đọc ba chữ cái cuối của CSC:
 
 | Mã CSC | Khu vực | Hỗ trợ eSIM |
 |----------|--------|--------------|
-| **XAA, XAR** | Mỹ (đã mở khóa) | ✅ Có (S21+) |
+| **XAA, XAR** | Mỹ (mở khóa) | ✅ Có (S21+) |
 | **TMB, VZW, ATT, SPR** | Nhà mạng Mỹ | ⚠️ S21+ có trên T-Mobile/Verizon; AT&T có thể hạn chế |
 | **EUX, EUY, BTU, DBT** | Châu Âu / Anh / Đức | ✅ Có |
 | **INS, INU** | Ấn Độ | ✅ Có |
@@ -148,120 +152,120 @@ CSC (Customer Service Code) cho bạn biết điện thoại của bạn đang c
 | **KOO, KTC, SKC** | Hàn Quốc | ✅ Có |
 | **DCM, SBM, KDI** | Nhật Bản | ❌ Thường bị vô hiệu hóa |
 
-### Bước 4: Exynos vs Snapdragon — tại sao nó quyết định S20 của bạn
+### Exynos so với Snapdragon trên Galaxy S20
 
-Chipset là yếu tố quan trọng nhất trên các flagship cũ hơn:
+Bộ chip là yếu tố lớn nhất trên các flagship cũ:
 
-- **Exynos (quốc tế) S20, S20+, S20 Ultra và Note 20 Ultra** — có eSIM, được kích hoạt qua bản cập nhật One UI 3.1.
-- **Snapdragon (Mỹ) S20 và Note 20 Ultra** — không có eSIM và không có cách khắc phục: Samsung đã vô hiệu hóa nó trong phần sụn, vì vậy ngay cả các model Mỹ "đã mở khóa" cũng thiếu nó.
-- **S21 trở lên** — cả phiên bản Exynos và Snapdragon đều hỗ trợ eSIM, vì vậy chipset không còn quan trọng nữa.
+- **Exynos (quốc tế) S20, S20+, S20 Ultra và Note 20 Ultra** — có eSIM, được kích hoạt bởi bản cập nhật One UI 3.1.
+- **Snapdragon (Mỹ) S20 và Note 20 Ultra** — không có eSIM, và không có cách sửa: Samsung vô hiệu hóa nó trong firmware, nên ngay cả máy bản Mỹ "mở khóa" cũng không có.
+- **S21 trở lên** — cả hai bản Exynos và Snapdragon đều hỗ trợ eSIM, nên bộ chip không còn quan trọng.
 
-**Điểm mấu chốt:** model kết thúc bằng `U` (Mỹ) trên S20 = không có eSIM. Model kết thúc bằng `B` hoặc `E` (quốc tế) = có eSIM. Model Trung Quốc (`0` hoặc CSC `CHC`) = không có eSIM, không có cách khắc phục.
+**Kết luận:** model kết thúc bằng `U` (Mỹ) trên S20 = không eSIM. Model kết thúc bằng `B` hoặc `E` (quốc tế) = SIM số khả dụng. Máy bản Trung Quốc (`0` hoặc CSC `CHC`) = không eSIM, không có cách sửa.
 
-Để có lựa chọn thay thế Android tương đương, xem **[hướng dẫn khả năng tương thích eSIM Google Pixel](/faq/google-pixel-6-esim-compatible/)** của chúng tôi.
+Để xem phương án thay thế Android tương đương, xem **[hướng dẫn tương thích eSIM Google Pixel](/faq/google-pixel-6-esim-compatible/)** của chúng tôi.
 
-## Luồng quyết định nhanh Samsung
+## Dòng Samsung nào hỗ trợ eSIM
 
-| Model Samsung của bạn | Hỗ trợ eSIM | Phải làm gì tiếp theo |
+| Mẫu Samsung của bạn | Hỗ trợ eSIM | Việc cần làm tiếp |
 | :--- | :--- | :--- |
-| **Galaxy S21, S22, S23, S24 hoặc S25 (bất kỳ biến thể nào)** | ✅ Có | Kích hoạt ngay — xem lưu ý kích hoạt bên dưới. |
-| **Galaxy S20 (quốc tế/Exynos)** | ✅ Có (sau One UI 3.1) | Cập nhật phần mềm, sau đó quay `*#06#`. |
+| **Galaxy S21, S22, S23, S24 hoặc S25 (bất kỳ biến thể nào)** | ✅ Có | Kích hoạt thôi — xem ghi chú kích hoạt bên dưới. |
+| **Galaxy S20 (quốc tế/Exynos)** | ✅ Có (sau One UI 3.1) | Cập nhật phần mềm, rồi quay số `*#06#`. |
 | **Galaxy S20 (Mỹ/Snapdragon)** | ❌ Không | Chỉ SIM vật lý. |
-| **Galaxy A54, A55 hoặc A35** | ✅ Có | Một số ít model dòng A có eSIM. |
+| **Galaxy A54, A55 hoặc A35** | ✅ Có | Những mẫu dòng A hiếm hoi có eSIM. |
 | **Galaxy A15, A16, A32, A53 hoặc dòng A cũ hơn** | ❌ Không | Chỉ SIM vật lý. |
-| **Galaxy Z Fold2+ / Z Flip3+** | ✅ Có (hầu hết khu vực) | Kiểm tra phiên bản bị khóa nhà mạng cẩn thận. |
+| **Galaxy Z Fold2+ / Z Flip3+** | ✅ Có (hầu hết khu vực) | Kiểm tra kỹ các bản khóa nhà mạng. |
 | **Galaxy Note 20 Ultra (Exynos)** | ✅ Có | Sau One UI 3.1. |
 | **Galaxy Note 20 Ultra (Mỹ)** | ❌ Không | Không có eSIM. |
-| **Galaxy S10 hoặc cũ hơn / Note 10 hoặc cũ hơn** | ❌ Không | Quá cũ. |
+| **Galaxy S10 trở xuống / Note 10 trở xuống** | ❌ Không | Quá cũ. |
 
-**Muốn thử mà không cần mua?** Hãy dùng **[dùng thử eSIM miễn phí](/free-esim/)** trước.
+**Muốn thử trước khi mua?** Hãy thử **[eSIM dùng thử miễn phí](/free-esim/)** trước.
 
-## Bảng tương thích eSIM Samsung đầy đủ
+## Bảng tương thích eSIM Samsung hoàn chỉnh
 
-| Dòng | Model | Hỗ trợ eSIM | Ghi chú |
+| Dòng | Mẫu máy | Hỗ trợ eSIM | Ghi chú |
 |--------|-------|--------------|-------|
-| **S25** | S25, S25+, S25 Ultra | ✅ Có (tất cả khu vực) | Hỗ trợ đầy đủ |
-| **S24** | S24, S24+, S24 Ultra, S24 FE | ✅ Có (tất cả khu vực) | Hỗ trợ đầy đủ; **hỗ trợ eSIM Samsung Galaxy S24 Ultra** đã xác nhận |
-| **S23** | S23, S23+, S23 Ultra, S23 FE | ✅ Có (tất cả khu vực) | Hỗ trợ đầy đủ |
-| **S22** | S22, S22+, S22 Ultra | ✅ Có (tất cả khu vực) | **Samsung S22 Ultra eSIM** hoạt động toàn cầu |
-| **S21** | S21, S21+, S21 Ultra, S21 FE | ✅ Có (tất cả khu vực) | Các model Mỹ đầu tiên có eSIM đầy đủ |
+| **S25** | S25, S25+, S25 Ultra | ✅ Có (mọi khu vực) | Hỗ trợ đầy đủ |
+| **S24** | S24, S24+, S24 Ultra, S24 FE | ✅ Có (mọi khu vực) | Hỗ trợ đầy đủ; **hỗ trợ eSIM Samsung Galaxy S24 Ultra** được xác nhận |
+| **S23** | S23, S23+, S23 Ultra, S23 FE | ✅ Có (mọi khu vực) | Hỗ trợ đầy đủ |
+| **S22** | S22, S22+, S22 Ultra | ✅ Có (mọi khu vực) | **Samsung S22 Ultra eSIM** hoạt động toàn cầu |
+| **S21** | S21, S21+, S21 Ultra, S21 FE | ✅ Có (mọi khu vực) | Những máy Mỹ đầu tiên có eSIM đầy đủ |
 | **S20** | S20, S20+, S20 Ultra (Exynos) | ✅ Có (chỉ toàn cầu) | Yêu cầu One UI 3.1+ |
-| **S20** | S20, S20+, S20 Ultra (Mỹ Snapdragon) | ❌ Không | Bị Samsung vô hiệu hóa |
-| **S20 FE** | S20 FE (tất cả khu vực) | ❌ Không | Không có phần cứng eSIM |
-| **S10** | S10, S10+, S10e, S10 5G | ⚠️ Hạn chế | Hiếm model Exynos quốc tế |
+| **S20** | S20, S20+, S20 Ultra (Mỹ Snapdragon) | ❌ Không | Bị vô hiệu hóa bởi Samsung |
+| **S20 FE** | S20 FE (mọi khu vực) | ❌ Không | Không có phần cứng eSIM |
+| **S10** | S10, S10+, S10e, S10 5G | ⚠️ Giới hạn | Hiếm, mẫu Exynos quốc tế |
 | **S9 / Note 9** | S9, S9+, Note 9 | ❌ Không | Không có phần cứng eSIM |
 | **Dòng A (mới hơn)** | A54, A55, A35 | ✅ Có | **Samsung A35 eSIM** và **Samsung A54 eSIM** được hỗ trợ |
 | **Dòng A (cũ hơn)** | A15, A16, A32, A33, A51, A52, A53, A71, A72, A73 | ❌ Không | Thiếu phần cứng eSIM |
-| **Z Fold** | Z Fold2–Fold7 | ✅ Có (hầu hết) | Quốc tế và mở khóa Mỹ |
-| **Z Flip** | Z Flip3–Flip7 | ✅ Có (hầu hết) | Giống như dòng Fold |
-| **Note 20** | Note 20, Note 20 Ultra (Exynos) | ✅ Có | Chỉ quốc tế |
-| **Note 20** | Note 20, Note 20 Ultra (Mỹ) | ❌ Không | Các model Snapdragon thiếu eSIM |
+| **Z Fold** | Z Fold2–Fold7 | ✅ Có (hầu hết) | Bản quốc tế và Mỹ mở khóa |
+| **Z Flip** | Z Flip3–Flip7 | ✅ Có (hầu hết) | Giống dòng Fold |
+| **Note 20** | Note 20, Note 20 Ultra (Exynos) | ✅ Có | Chỉ bản quốc tế |
+| **Note 20** | Note 20, Note 20 Ultra (Mỹ) | ❌ Không | Mẫu Snapdragon không có eSIM |
 
-## Dòng S, A và Z chi tiết
+## Dòng S, dòng A và dòng Z chi tiết
 
-### Galaxy S21 đến S25 (hỗ trợ đầy đủ)
+### Galaxy S21 đến S25 hỗ trợ đầy đủ
 
-Mọi flagship từ thế hệ S21 trở đi đều hỗ trợ eSIM trên cả hai chipset — S21, S21+, S21 Ultra, S21 FE; S22, S22+, S22 Ultra; S23, S23+, S23 Ultra, S23 FE; S24, S24+, S24 Ultra, S24 FE; và dòng S25. Các model Ultra nói riêng (**Samsung S22 Ultra eSIM**, **Samsung S23 Ultra eSIM** và **hỗ trợ eSIM Samsung Galaxy S24 Ultra**) hoạt động toàn cầu và với mọi nhà cung cấp eSIM du lịch lớn (Roami, Airalo, Holafly và các nhà mạng Mỹ như Verizon, T-Mobile và Google Fi).
+Mọi flagship từ thế hệ S21 trở đi đều hỗ trợ eSIM trên cả hai bộ chip — S21, S21+, S21 Ultra, S21 FE; S22, S22+, S22 Ultra; S23, S23+, S23 Ultra, S23 FE; S24, S24+, S24 Ultra, S24 FE; và dòng S25. Đặc biệt các mẫu Ultra (S22 Ultra, S23 Ultra và S24 Ultra) hoạt động toàn cầu và với mọi nhà cung cấp eSIM du lịch lớn (Roami, Airalo, Holafly, và các nhà mạng Mỹ như Verizon, T-Mobile và Google Fi).
 
-### Galaxy S20 (một phần — sự phân chia Exynos/Snapdragon)
+### Galaxy S20 hỗ trợ một phần
 
-Dòng S20 là Galaxy đầu tiên có phần cứng eSIM, nhưng chỉ các đơn vị Exynos quốc tế mới nhận được phần mềm. Cập nhật S20 quốc tế lên One UI 3.1 (Android 11) trở lên, sau đó quay `*#06#` để xác nhận EID. Các model Snapdragon Mỹ và S20 FE hoàn toàn không có eSIM.
+Dòng S20 là Galaxy đầu tiên có phần cứng eSIM, nhưng chỉ các máy Exynos quốc tế mới nhận được phần mềm. Hãy cập nhật một chiếc S20 quốc tế lên One UI 3.1 (Android 11) hoặc mới hơn, rồi quay số `*#06#` để xác nhận EID. Các mẫu Snapdragon Mỹ và S20 FE hoàn toàn không có eSIM.
 
-### Dòng Galaxy A (hầu hết là không)
+### Galaxy dòng A hầu hết không có eSIM
 
-Dòng A là dòng khó hiểu nhất: gần như tất cả model đều thiếu eSIM, nhưng Samsung đã thêm nó vào một số model cao cấp bắt đầu từ năm 2024. **Galaxy A54**, **A55** và **A35** hỗ trợ eSIM; A15, A16, A32, A33, A51, A52, A52s, A53, A71, A72, A73, A12, A22 và A13 thì không. Lưu ý rằng 5G không đồng nghĩa với eSIM — A15 5G và A16 5G có 5G nhưng không có eSIM.
+Dòng A là dòng gây nhầm lẫn nhất: gần như tất cả mẫu máy đều thiếu eSIM, nhưng Samsung đã bổ sung nó cho một số mẫu cấp cao hơn bắt đầu từ năm 2024. **Galaxy A54**, **A55** và **A35** hỗ trợ eSIM; A15, A16, A32, A33, A51, A52, A52s, A53, A71, A72, A73, A12, A22 và A13 thì không. Lưu ý 5G không đồng nghĩa với eSIM — A15 5G và A16 5G có 5G nhưng không có SIM nhúng.
 
-### Dòng Galaxy Z (gập)
+### Galaxy dòng Z dạng gập
 
-Hầu hết các điện thoại gập từ Z Fold2 và Z Flip3 trở đi đều hỗ trợ eSIM — Fold2 đến Fold7 và Flip3 đến Flip7. Các đơn vị quốc tế và mở khóa Mỹ đáng tin cậy; các model bị khóa nhà mạng Mỹ có thể bị vô hiệu hóa. Điện thoại gập cũng hỗ trợ dual SIM (một vật lý + một eSIM, hoặc dual eSIM trên các model mới hơn).
+Hầu hết máy gập từ Z Fold2 và Z Flip3 trở đi hỗ trợ eSIM — Fold2 đến Fold7 và Flip3 đến Flip7. Máy bản quốc tế và Mỹ mở khóa đáng tin; các mẫu Mỹ khóa nhà mạng có thể bị vô hiệu hóa. Máy gập cũng hỗ trợ dual SIM (một vật lý + một eSIM, hoặc dual eSIM trên các mẫu mới hơn).
 
-### Dòng Galaxy Note
+### Galaxy dòng Note
 
-Note 20 Ultra phiên bản Exynos quốc tế hỗ trợ eSIM sau One UI 3.1; phiên bản Snapdragon Mỹ và Note 10/Note 9 thì không.
+Note 20 Ultra bản quốc tế Exynos hỗ trợ eSIM sau One UI 3.1; bản Snapdragon Mỹ và Note 10/Note 9 thì không.
 
-## Dòng Galaxy S: eSIM và Dual SIM tổng quan
+## eSIM và Dual SIM trên Galaxy dòng S
 
-Bảng dòng S ở trên cho bạn biết *liệu* điện thoại có eSIM không. Bảng này bổ sung câu hỏi thứ hai mà mọi người thực sự hỏi: **nó có thể chạy hai đường truyền cùng lúc không?** "Dual SIM" trên Samsung có nghĩa là hai trong ba điều sau, tùy thuộc vào model.
+Bảng dòng S ở trên cho bạn biết máy *có* eSIM hay không. Bảng này bổ sung câu hỏi thứ hai mà người dùng thực sự hỏi: **nó có chạy được hai đường cùng lúc không?** "Dual SIM" trên Samsung nghĩa là hai trong ba điều sau, tùy mẫu máy.
 
 | Thế hệ | eSIM | eSIM + SIM vật lý (DSDS) | Hai eSIM cùng lúc |
 |-----------|------|---------------------------|-------------------|
 | Galaxy S25 / S25+ / S25 Ultra | ✅ | ✅ | ✅ |
 | Galaxy S24 / S24+ / S24 Ultra / S24 FE | ✅ | ✅ | ✅ |
 | Galaxy S23 / S23+ / S23 Ultra / S23 FE | ✅ | ✅ | ✅ (S23 trở lên) |
-| Galaxy S22 / S22+ / S22 Ultra | ✅ | ✅ | ❌ eSIM + một vật lý chỉ |
-| Galaxy S21 / S21+ / S21 Ultra / S21 FE | ✅ | ✅ | ❌ eSIM + một vật lý chỉ |
+| Galaxy S22 / S22+ / S22 Ultra | ✅ | ✅ | ❌ Chỉ eSIM + một SIM vật lý |
+| Galaxy S21 / S21+ / S21 Ultra / S21 FE | ✅ | ✅ | ❌ Chỉ eSIM + một SIM vật lý |
 | Galaxy S20 (Exynos, toàn cầu) | ✅ | ✅ | ❌ |
 | Galaxy S20 (Mỹ Snapdragon) | ❌ | ❌ | ❌ |
 | Galaxy S20 FE | ❌ | ❌ | ❌ |
 | Galaxy Note 20 Ultra (Exynos) | ✅ | ✅ | ❌ |
 | Galaxy Note 20 Ultra (Mỹ) | ❌ | ❌ | ❌ |
 
-Kết luận thực tế: trên S21 hoặc S22, bạn có thể giữ SIM vật lý trong nước và thêm một eSIM du lịch. Từ S23 trở đi, bạn có thể đi xa hơn — giữ hai eSIM và không có SIM vật lý nào cả, rất tiện nếu nhà mạng trong nước của bạn đã chỉ dùng eSIM.
+Hệ quả thực tế: trên S21 hoặc S22 bạn có thể giữ SIM vật lý nhà và thêm một eSIM du lịch. Từ S23 trở đi bạn có thể đi xa hơn — giữ hai eSIM và hoàn toàn không cần SIM vật lý, rất tiện nếu nhà mạng nhà của bạn đã thuần số.
 
-## Dòng Galaxy A: Danh sách eSIM đầy đủ
+## Danh sách eSIM Galaxy dòng A
 
-Dòng A của Samsung là sản phẩm bán chạy nhất, vì vậy đây là dòng được hỏi nhiều nhất. Dưới đây là danh sách đầy đủ, từ mới nhất đến cũ nhất, để bạn không phải đoán:
+Dòng A là dòng bán chạy nhất của Samsung, nên cũng là dòng được hỏi nhiều nhất. Đây là toàn bộ danh sách, từ mới đến cũ, để bạn khỏi phải đoán:
 
-| Model | eSIM | Ghi chú |
+| Mẫu máy | eSIM | Ghi chú |
 |-------|------|-------|
-| Galaxy A56 / A36 (2025) | ✅ Có | Các model dòng A mới hơn có eSIM |
-| Galaxy A55 (2024) | ✅ Có | Đơn vị quốc tế |
-| Galaxy A54 (2023) | ✅ Có | Đơn vị quốc tế |
-| Galaxy A35 (2024) | ✅ Có | Đơn vị quốc tế |
+| Galaxy A56 / A36 (2025) | ✅ Có | Mẫu dòng A mới hơn có eSIM |
+| Galaxy A55 (2024) | ✅ Có | Máy bản quốc tế |
+| Galaxy A54 (2023) | ✅ Có | Máy bản quốc tế |
+| Galaxy A35 (2024) | ✅ Có | Máy bản quốc tế |
 | Galaxy A34 (2023) | ❌ Không | Không có phần cứng eSIM |
 | Galaxy A53 / A52 / A52s | ❌ Không | Không có phần cứng eSIM |
 | Galaxy A33 / A32 | ❌ Không | Không có phần cứng eSIM |
-| Galaxy A26 / A25 / A16 / A15 | ❌ Không | Không có eSIM (5G không giúp ích) |
+| Galaxy A26 / A25 / A16 / A15 | ❌ Không | Không có eSIM (5G không giúp được) |
 | Galaxy A73 / A72 / A71 | ❌ Không | Không có phần cứng eSIM |
 | Galaxy A14 / A13 / A12 | ❌ Không | Không có phần cứng eSIM |
 
-Hai điều cần nhớ. Đầu tiên, **5G không có nghĩa là eSIM** — A15 5G, A16 5G và A25 là điện thoại 5G nhưng không có eSIM. Thứ hai, ngay cả các model dòng A *có* eSIM cũng chỉ có trên các đơn vị **quốc tế**; các biến thể Mỹ của A54 và A55 có thể bị khóa. Luôn quay `*#06#` trước khi bạn mua.
+Hai điều cần nhớ. Thứ nhất, **5G không có nghĩa là eSIM** — A15 5G, A16 5G và A25 là điện thoại 5G nhưng không có SIM nhúng. Thứ hai, ngay cả các mẫu dòng A *có* eSIM cũng chỉ hỗ trợ trên máy **quốc tế**; bản Mỹ của A54 và A55 có thể bị khóa chặt. Luôn quay số `*#06#` trước khi mua.
 
-## Galaxy Z Fold và Flip: eSIM tổng quan
+## eSIM Galaxy Z Fold và Z Flip
 
-Điện thoại gập của Samsung là loại hỗ trợ eSIM đáng tin cậy nhất trong số các điện thoại không phải S. Đây là bức tranh đầy đủ:
+Các máy gập của Samsung là những máy không phải dòng S hỗ trợ eSIM đáng tin nhất. Đây là toàn bộ bức tranh:
 
-| Model | eSIM | Dual SIM |
+| Mẫu máy | eSIM | Dual SIM |
 |-------|------|----------|
 | Z Fold7 / Z Flip7 (2025) | ✅ | ✅ Dual eSIM |
 | Z Fold6 / Z Flip6 (2024) | ✅ | ✅ Dual eSIM |
@@ -269,39 +273,39 @@ Hai điều cần nhớ. Đầu tiên, **5G không có nghĩa là eSIM** — A15
 | Z Fold4 / Z Flip4 (2022) | ✅ | ✅ eSIM + vật lý |
 | Z Fold3 / Z Flip3 (2021) | ✅ | ✅ eSIM + vật lý |
 | Z Fold2 (2020) | ✅ | ✅ eSIM + vật lý |
-| Fold gốc (2019) / Z Flip thế hệ đầu | ⚠️ | Không đáng tin cậy — đừng dựa vào |
+| Fold gốc (2019) / Z Flip thế hệ đầu | ⚠️ | Không đáng tin — đừng kỳ vọng |
 
-Điện thoại gập quốc tế và mở khóa Mỹ đáng tin cậy; cạm bẫy chính là các model **bị khóa nhà mạng** Mỹ, nơi AT&T được biết đến là đã loại bỏ hoặc ẩn menu eSIM. Nếu bạn mua Fold hoặc Flip cũ để đi du lịch, mở khóa nhà máy là lựa chọn an toàn.
+Máy gập bản quốc tế và Mỹ mở khóa đáng tin; bẫy chính là các mẫu Mỹ **khóa nhà mạng**, nơi AT&T đặc biệt nổi tiếng với việc gỡ bỏ hoặc ẩn menu eSIM. Nếu bạn mua Fold hoặc Flip cũ để du lịch, máy mở khóa gốc là lựa chọn an toàn.
 
-## Exynos so với Snapdragon: Câu chuyện đầy đủ
+## Hỗ trợ eSIM Exynos so với Snapdragon
 
-Nếu bạn đã đọc "chỉ điện thoại Samsung Exynos mới hỗ trợ eSIM," điều đó chỉ đúng một nửa — và chỉ áp dụng cho điện thoại từ năm 2020. Dưới đây là lịch sử đầy đủ:
+Nếu bạn từng đọc rằng "chỉ điện thoại Samsung Exynos mới hỗ trợ eSIM", điều đó đúng một nửa — và chỉ với máy của năm 2020. Đây là toàn bộ lịch sử:
 
-- **Galaxy S20 và Note 20 Ultra (2020):** thế hệ duy nhất mà chipset quyết định. Các model Exynos quốc tế nhận được eSIM qua bản cập nhật One UI 3.1 (Android 11); các model Snapdragon Mỹ chưa bao giờ nhận được và không có cách khắc phục — phần cứng có mặt nhưng Samsung đã vô hiệu hóa nó trong phần sụn.
-- **Galaxy S21 và S22 (2021–2022):** cả hai chipset đều hỗ trợ eSIM. Mỹ sử dụng Snapdragon, Châu Âu sử dụng Exynos và cả hai đều hoạt động tốt.
-- **Galaxy S23 (2023):** Samsung chuyển toàn bộ dòng S23 sang Snapdragon trên toàn thế giới — mọi S23 đều có eSIM, không có biến thể Exynos nào để lo lắng.
-- **Galaxy S24 (2024):** sự phân chia quay trở lại — Exynos 2400 tại Châu Âu cho S24 và S24+, Snapdragon tại Mỹ và trên S24 Ultra — và một lần nữa, cả hai đều hỗ trợ eSIM.
-- **Galaxy S25 (2025):** tất cả Snapdragon 8 Elite trên toàn thế giới, tất cả đều có eSIM.
+- **Galaxy S20 và Note 20 Ultra (2020):** thế hệ duy nhất mà bộ chip quyết định. Mẫu Exynos quốc tế nhận eSIM qua bản cập nhật One UI 3.1 (Android 11); mẫu Snapdragon Mỹ thì không bao giờ, và không có cách sửa — phần cứng có mặt nhưng Samsung vô hiệu hóa nó trong firmware.
+- **Galaxy S21 và S22 (2021–2022):** cả hai bộ chip đều hỗ trợ eSIM. Mỹ dùng Snapdragon, châu Âu dùng Exynos, và cả hai đều hoạt động tốt.
+- **Galaxy S23 (2023):** Samsung chuyển toàn bộ dòng S23 sang Snapdragon toàn cầu — mọi chiếc S23 đều có eSIM, không có biến thể Exynos nào để bận tâm.
+- **Galaxy S24 (2024):** phân tách quay lại — Exynos 2400 ở châu Âu cho S24 và S24+, Snapdragon ở Mỹ và trên S24 Ultra — và một lần nữa, cả hai đều hỗ trợ eSIM.
+- **Galaxy S25 (2025):** toàn bộ Snapdragon 8 Elite toàn cầu, tất cả đều có eSIM.
 
-**Quy tắc chung:** chipset chỉ quan trọng đối với S20 và Note 20 Ultra. Đối với bất kỳ thứ gì mới hơn, hãy bỏ qua cuộc tranh luận Exynos-vs-Snapdragon và nhìn vào hậu tố số model và mã CSC thay vào đó.
+**Kinh nghiệm nhanh:** bộ chip chỉ quan trọng với S20 và Note 20 Ultra. Với bất kỳ máy nào mới hơn, bỏ qua hoàn toàn cuộc tranh luận Exynos-so-với-Snapdragon và nhìn vào hậu tố số model cùng mã CSC thay thế.
 
-## Mã CSC được giải thích: Chúng là gì và cách tìm của bạn
+## Giải thích mã CSC
 
-### CSC thực sự là gì
+### CSC thực chất là gì
 
-CSC (Customer Service Code) là một thẻ ba chữ cái được nhúng vào phần sụn của Samsung cho điện thoại biết nó được xây dựng cho khu vực và nhà mạng nào. Nó kiểm soát nhiều hơn eSIM — nó cũng kiểm soát băng tần nào được kích hoạt, phần mềm nào được tải sẵn và tính năng nhà mạng nào xuất hiện. Đối với eSIM, CSC là công tắc ẩn hoặc hiển thị menu "Thêm eSIM".
+CSC (Customer Service Code) là nhãn ba chữ cái được "nướng" vào firmware của Samsung, cho điện thoại biết nó được sản xuất cho khu vực và nhà mạng nào. Nó kiểm soát nhiều hơn eSIM — nó cũng quyết định băng tần nào được bật, phần mềm rác nào được cài sẵn, và tính năng nhà mạng nào xuất hiện. Với eSIM, CSC là công tắc ẩn hoặc hiện menu "Add eSIM".
 
-### Cách tìm CSC của bạn (hai cách)
+### Cách tìm CSC của bạn
 
-1. **Qua Cài đặt:** mở **Cài đặt > Giới thiệu điện thoại > Thông tin phần mềm**, sau đó nhìn vào dòng **Phiên bản SW nhà cung cấp dịch vụ**. Nó thường hiển thị như `XAA/XAA/XAA` — ba chữ cái cuối cùng là CSC của bạn.
-2. **Qua bàn phím quay số:** nhập `*#1234#` và đọc dòng "CSC" (điều này hiển thị bản dựng phần sụn thay vì khu vực hoạt động, nhưng nó là một kiểm tra chéo hữu ích).
+1. **Qua Cài đặt:** mở **Settings > About Phone > Software Information**, rồi nhìn dòng **Service Provider SW Ver**. Nó thường đọc đại loại như `XAA/XAA/XAA` — ba chữ cái cuối là CSC của bạn.
+2. **Qua bộ quay số:** gõ `*#1234#` và đọc dòng "CSC" (cái này hiển thị bản build firmware thay vì khu vực đang hoạt động, nhưng là cách kiểm tra chéo hữu ích).
 
-### Các CSC phổ biến và ý nghĩa của chúng đối với eSIM
+### Các CSC phổ biến và ý nghĩa với eSIM
 
 | Khu vực | Mã CSC phổ biến | eSIM |
 |--------|------------------|------|
 | Mỹ (mở khóa) | XAA, XAR | ✅ Có (S21+) |
-| Mỹ (nhà mạng) | TMB (T-Mobile), VZW (Verizon), ATT (AT&T), SPR (Sprint), TMK (Metro) | ⚠️ T-Mobile/Verizon có trên S21+; AT&T hạn chế nhất |
+| Mỹ (nhà mạng) | TMB (T-Mobile), VZW (Verizon), ATT (AT&T), SPR (Sprint), TMK (Metro) | ⚠️ T-Mobile/Verizon có trên S21+; AT&T ngặt nhất |
 | Anh | BTU (mở khóa), EVR (EE), O2U (O2), VOD (Vodafone), H3G (Three) | ✅ Có |
 | Châu Âu | EUX, EUY, DBT (Đức), ITV (Ý), XEF (Pháp), PHE (Tây Ban Nha), NEE (Bắc Âu) | ✅ Có |
 | Ấn Độ | INS, INU | ✅ Có |
@@ -310,67 +314,67 @@ CSC (Customer Service Code) là một thẻ ba chữ cái được nhúng vào p
 | Nhật Bản | DCM (Docomo), SBM (SoftBank), KDI (au) | ❌ Thường bị vô hiệu hóa |
 | Úc / Singapore / Đài Loan | XSA, XSP, BRI | ✅ Có |
 
-Một lời cảnh báo: không có cách nào an toàn, được hỗ trợ để thay đổi CSC của bạn nhằm "mở khóa" eSIM trên model Trung Quốc hoặc nhà mạng Mỹ. Các hướng dẫn bảo bạn flash một CSC khác có nguy cơ kích hoạt bảo mật Knox của Samsung và có thể làm hỏng điện thoại. Nếu CSC của bạn không hỗ trợ eSIM, SIM vật lý là giải pháp dự phòng thực tế.
+Một lời cảnh báo: không có cách nào an toàn, được hỗ trợ để đổi CSC nhằm "mở khóa" eSIM trên máy bản Trung Quốc hoặc nhà mạng Mỹ. Các hướng dẫn khuyên bạn flash CSC khác có nguy cơ kích hoạt bảo mật Knox của Samsung và có thể làm "cục gạch" chiếc máy. Nếu CSC của bạn không hỗ trợ eSIM, SIM vật lý là phương án thực tế.
 
-## Dual SIM trên Samsung (Phiên bản ngắn)
+## Dual SIM trên Samsung
 
-Hầu hết các Galaxy hỗ trợ eSIM chạy **DSDS (Dual SIM Dual Standby)** — một nano-SIM vật lý cộng với một eSIM cùng lúc, với tùy chọn của bạn về đường truyền nào xử lý cuộc gọi, tin nhắn và dữ liệu. Các model mới hơn (S23 trở lên) cũng hỗ trợ dual eSIM. Hướng dẫn thiết lập đầy đủ có trong **[bài giải thích dual-SIM](/faq/iphone-11-esim-compatible/)** — nguyên tắc giống hệt trên các nền tảng. Đang phân vân giữa eSIM và SIM vật lý? Xem **[so sánh eSIM vs SIM vật lý](/faq/what-is-esim/)** của chúng tôi.
+Hầu hết Galaxy có eSIM chạy **DSDS (Dual SIM Dual Standby)** — một nano-SIM vật lý cộng một eSIM cùng lúc, với lựa chọn của bạn về đường nào xử lý cuộc gọi, tin nhắn và dữ liệu. Các mẫu mới hơn (S23 trở lên) còn hỗ trợ dual eSIM. Hướng dẫn cài đặt đầy đủ nằm trên **[bài giải thích dual-SIM](/faq/iphone-11-esim-compatible/)** — nguyên lý giống hệt giữa các nền tảng. Còn phân vân giữa SIM nhúng và SIM vật lý? Xem **[so sánh eSIM với SIM vật lý](/faq/what-is-esim/)** của chúng tôi.
 
-### eSIM + vật lý vs dual eSIM: Samsung nào làm gì
+### eSIM cộng SIM vật lý so với Dual eSIM trên Samsung
 
-- **eSIM + một SIM vật lý (DSDS):** mọi Galaxy hỗ trợ eSIM từ S20 trở đi. Đây là điểm ngọt cho du khách — giữ số trong nước trên SIM vật lý và thêm eSIM du lịch cho dữ liệu.
-- **Hai eSIM cùng lúc (dual eSIM):** S23 trở lên, cộng với Fold5/Flip5 trở lên. Không cần thẻ vật lý nào cả.
-- **Một số điện thoại trên mỗi đường truyền:** Samsung không cho phép bạn sao chép một số vào hai SIM. Mỗi đường truyền cần số riêng.
+- **eSIM + một SIM vật lý (DSDS):** mọi Galaxy có eSIM từ S20 trở đi. Đây là điểm ngọt của du khách — giữ số nhà trên SIM vật lý và thêm một eSIM du lịch cho dữ liệu.
+- **Hai eSIM cùng lúc (dual eSIM):** S23 trở lên, cộng Fold5/Flip5 trở đi. Hoàn toàn không cần thẻ vật lý.
+- **Một số điện thoại mỗi đường:** Samsung không cho bạn nhân bản một số lên hai SIM. Mỗi đường cần số riêng.
 
-Để chọn SIM nào xử lý dữ liệu, cuộc gọi và tin nhắn, hãy mở **Cài đặt > Kết nối > Trình quản lý thẻ SIM** và đặt "SIM chính" cho từng chức năng.
+Để chọn SIM nào xử lý dữ liệu, cuộc gọi và tin nhắn, mở **Settings > Connections > SIM Card Manager** và đặt "Primary SIM" cho từng chức năng.
 
 ## Kích hoạt eSIM trên Samsung của bạn
 
-Sau khi bạn đã xác nhận hỗ trợ, hãy mở **Cài đặt > Kết nối > Trình quản lý thẻ SIM > Thêm eSIM**, quét mã QR từ nhà cung cấp của bạn và bật Chuyển vùng dữ liệu khi bạn đi du lịch. Đường dẫn menu giống nhau trên các phiên bản One UI gần đây:
+Sau khi xác nhận có hỗ trợ, mở **Settings > Connections > SIM Card Manager > Add eSIM**, quét mã QR từ nhà cung cấp, và bật Data Roaming khi đi du lịch. Đường dẫn menu giống nhau trên các phiên bản One UI gần đây:
 
-| Phiên bản One UI | Đường dẫn đến "Thêm eSIM" |
+| Phiên bản One UI | Đường dẫn đến "Add eSIM" |
 |----------------|-------------------|
-| **One UI 6.0+ (Android 14+)** | Cài đặt > Kết nối > Trình quản lý thẻ SIM > Thêm eSIM |
-| **One UI 5.0–5.1 (Android 13)** | Cài đặt > Kết nối > Trình quản lý thẻ SIM > Thêm eSIM |
-| **One UI 4.0–4.1 (Android 12)** | Cài đặt > Kết nối > Trình quản lý thẻ SIM > Thêm eSIM (có thể nằm dưới "Mạng di động") |
-| **One UI 3.1 (Android 11)** | Cài đặt > Kết nối > Trình quản lý thẻ SIM > Thêm eSIM (chỉ S20 quốc tế) |
+| **One UI 6.0+ (Android 14+)** | Settings > Connections > SIM Card Manager > Add eSIM |
+| **One UI 5.0–5.1 (Android 13)** | Settings > Connections > SIM Card Manager > Add eSIM |
+| **One UI 4.0–4.1 (Android 12)** | Settings > Connections > SIM Card Manager > Add eSIM (có thể nằm dưới "Mobile networks") |
+| **One UI 3.1 (Android 11)** | Settings > Connections > SIM Card Manager > Add eSIM (chỉ S20 quốc tế) |
 
-Để biết hướng dẫn từng bước đầy đủ (QR, nhập thủ công và ứng dụng nhà mạng), xem **[hướng dẫn cách kích hoạt eSIM](/faq/how-to-activate-an-esim/)** của chúng tôi.
+Để xem hướng dẫn từng bước đầy đủ (QR, nhập tay và ứng dụng nhà mạng), xem **[hướng dẫn cách kích hoạt eSIM](/faq/how-to-activate-an-esim/)** của chúng tôi.
 
-**Mẹo chuyên nghiệp:** cài đặt eSIM của bạn trên Wi-Fi ổn định trước khi rời nhà — hồ sơ vẫn không hoạt động cho đến khi bạn bật Chuyển vùng dữ liệu khi đến nơi.
+**Mẹo chuyên nghiệp:** cài eSIM của bạn trên Wi-Fi ổn định trước khi rời nhà — hồ sơ nằm không hoạt động cho đến khi bạn bật Data Roaming khi đến nơi.
 
-**Đổi điện thoại sau?** Hầu hết eSIM du lịch chỉ cài đặt một lần — xem **[hướng dẫn chuyển eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/)** của chúng tôi.
+**Đổi điện thoại sau này?** Hầu hết eSIM du lịch chỉ cài được một lần — xem **[hướng dẫn chuyển eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/)** của chúng tôi.
 
-## Cách kích hoạt eSIM trên Samsung của bạn: Từng bước
+### Kích hoạt eSIM Samsung từ lúc mua đến tín hiệu đầu tiên
 
-Đây là luồng cụ thể cho Samsung, từ mua gói đến tín hiệu đầu tiên:
+Đây là quy trình riêng cho Samsung, từng bước:
 
-1. **Xác nhận hỗ trợ trước.** Quay `*#06#` và tìm EID 32 chữ số. Không có EID = dừng lại ở đây; điện thoại của bạn không thể dùng eSIM.
-2. **Mua gói và tìm mã QR.** Bắt đầu với **[dùng thử eSIM Roami miễn phí](/free-esim/)** để không tốn phí kiểm tra. Nhà cung cấp của bạn sẽ gửi email mã QR (và thường là địa chỉ SM-DP+ cùng mã kích hoạt để nhập thủ công).
-3. **Kết nối với Wi-Fi.** Hồ sơ eSIM tải xuống qua internet, vì vậy hãy làm điều này trước khi bạn rời nhà hoặc trên Wi-Fi khách sạn — không phải trên máy bay.
-4. **Mở menu.** Vào **Cài đặt > Kết nối > Trình quản lý thẻ SIM > Thêm eSIM**.
-5. **Quét mã QR.** Hướng camera vào mã. Nếu quét thất bại, chọn "Nhập chi tiết thủ công" và nhập địa chỉ SM-DP+ cùng mã kích hoạt từ email.
-6. **Dán nhãn và đặt gói.** Đặt tên như "Roami Châu Âu", sau đó xác nhận SIM nào xử lý dữ liệu. Đặt **SIM chính** của bạn cho cuộc gọi/tin nhắn thành đường truyền trong nước nếu bạn muốn tiếp tục nhận chúng.
-7. **Bật Chuyển vùng dữ liệu** cho đường truyền du lịch trong **Trình quản lý thẻ SIM > [eSIM của bạn] > Chuyển vùng dữ liệu** — đây là bước hầu hết mọi người quên và là lý do "không có tín hiệu" xảy ra khi đến nơi.
-8. **Kiểm tra nó.** Bật và tắt Chế độ Máy bay, sau đó mở trình duyệt. Hầu hết điện thoại Samsung kết nối trong 1–3 phút.
+1. **Xác nhận hỗ trợ trước.** Quay số `*#06#` và tìm EID 32 chữ số. Không có EID = dừng lại ở đây; điện thoại của bạn không làm được eSIM.
+2. **Mua gói và tìm mã QR.** Bắt đầu với **[eSIM dùng thử miễn phí của Roami](/free-esim/)** để thử không tốn đồng nào. Nhà cung cấp của bạn gửi email mã QR (và thường kèm địa chỉ SM-DP+ cùng mã kích hoạt để nhập tay).
+3. **Kết nối Wi-Fi.** Hồ sơ eSIM tải xuống qua internet, nên hãy làm điều này trước khi rời nhà hoặc trên Wi-Fi khách sạn — đừng làm trên máy bay.
+4. **Mở menu.** Vào **Settings > Connections > SIM Card Manager > Add eSIM**.
+5. **Quét mã QR.** Hướng camera vào mã. Nếu quét thất bại, chọn "Enter details manually" và nhập địa chỉ SM-DP+ và mã kích hoạt từ email.
+6. **Đặt tên và thiết lập gói.** Đặt tên đại loại như "Roami Europe," rồi xác nhận SIM nào xử lý dữ liệu. Đặt **SIM chính** cho cuộc gọi/tin nhắn là đường nhà nếu bạn muốn tiếp tục nhận chúng.
+7. **Bật Data Roaming** cho đường du lịch dưới **SIM Card Manager > [eSIM của bạn] > Data Roaming** — đây là bước hầu hết mọi người quên, và là lý do "không có sóng" khi đến nơi.
+8. **Thử nó.** Tắt/mở Chế độ máy bay, rồi mở trình duyệt. Hầu hết điện thoại Samsung kết nối trong 1–3 phút.
 
-Nếu nút "Thêm eSIM" bị thiếu hoặc bị mờ, hãy nhảy đến bảng khắc phục sự cố bên dưới.
+Nếu nút "Add eSIM" bị thiếu hoặc mờ đi, hãy chuyển đến bảng xử lý sự cố bên dưới.
 
 ## 5G và eSIM trên Samsung
 
-Từ S21 trở đi, mọi Galaxy (và S20 Exynos quốc tế) đều hỗ trợ 5G trên eSIM, không có sự khác biệt về hiệu suất so với SIM vật lý. Nếu 5G không kết nối, hãy kiểm tra **Cài đặt > Kết nối > Mạng di động > Chế độ mạng** được đặt là 5G/LTE/3G/2G tự động, xác nhận gói của bạn bao gồm 5G (một số eSIM du lịch chỉ LTE) và khởi động lại. Hãy nhớ: 5G không có nghĩa là eSIM — A15 5G và A16 5G có 5G nhưng không có eSIM.
+Từ S21 trở đi, mọi Galaxy (và S20 Exynos quốc tế) hỗ trợ 5G trên eSIM, không có khác biệt hiệu năng so với SIM vật lý. Nếu 5G không kết nối được, kiểm tra **Settings > Connections > Mobile Networks > Network Mode** đã đặt thành 5G/LTE/3G/2G auto chưa, xác nhận gói của bạn có bao gồm 5G (một số eSIM du lịch chỉ LTE), và khởi động lại. Nhớ rằng: 5G không có nghĩa là eSIM — A15 5G và A16 5G chứng minh điều đó.
 
 ## Khắc phục sự cố eSIM trên Samsung
 
-| Vấn đề | Nguyên nhân có khả năng | Cách khắc phục |
+| Vấn đề | Nguyên nhân có thể | Cách sửa |
 |---------|--------------|-----|
-| **Không có tùy chọn "Thêm eSIM"** | S20 Mỹ, khóa nhà mạng hoặc CSC Trung Quốc | Kiểm tra **Cài đặt > Giới thiệu điện thoại > Trạng thái > Trạng thái khóa SIM**; nếu là S20 Mỹ hoặc model Trung Quốc thì không có cách khắc phục. |
-| **"Nhà mạng của bạn không hỗ trợ tính năng này"** | Điện thoại bị khóa nhà mạng, S20 Mỹ hoặc CSC Trung Quốc | Xác nhận số model và trạng thái khóa như trên. |
-| **"Thêm eSIM" bị mờ** | Hạn chế phần sụn nhà mạng (AT&T là thủ phạm thường gặp) | Liên hệ với nhà mạng của bạn hoặc mua điện thoại đã mở khóa. |
-| **Không có EID nhưng bạn chắc chắn model hỗ trợ** | Cập nhật phần mềm hoặc không khớp CSC | Cài đặt bản cập nhật, sau đó kiểm tra lại mã CSC. |
-| **Hồ sơ eSIM tải xuống nhưng không có tín hiệu** | Chuyển vùng dữ liệu tắt hoặc thiếu APN | Bật Chuyển vùng dữ liệu; kiểm tra APN với nhà cung cấp của bạn. |
+| **Không có tùy chọn "Add eSIM"** | S20 Mỹ, khóa nhà mạng, hoặc CSC Trung Quốc | Kiểm tra **Settings > About Phone > Status > SIM Lock Status**; nếu là S20 Mỹ hoặc máy Trung Quốc thì không có cách sửa. |
+| **"Your carrier does not support this feature"** | Máy khóa nhà mạng, S20 Mỹ, hoặc CSC Trung Quốc | Xác nhận số model và trạng thái khóa như trên. |
+| **"Add eSIM" bị mờ** | Hạn chế firmware nhà mạng (AT&T là thủ phạm thường gặp) | Liên hệ nhà mạng, hoặc mua máy mở khóa. |
+| **Không có EID nhưng bạn chắc mẫu máy hỗ trợ** | Cập nhật phần mềm hoặc CSC không khớp | Cài các bản cập nhật, rồi kiểm tra lại mã CSC. |
+| **Hồ sơ eSIM tải xuống nhưng không có sóng** | Data Roaming tắt, hoặc thiếu APN | Bật Data Roaming; kiểm tra APN với nhà cung cấp. |
 
-Để tham khảo đầy đủ từng lỗi (bao gồm bảng APN hoàn chỉnh), xem **[Hướng dẫn khắc phục sự cố chuyên sâu eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)**.
+Để xem tài liệu tham khảo đầy đủ theo từng lỗi (bao gồm bảng APN hoàn chỉnh), xem **[Hướng dẫn xử lý sự cố eSIM nâng cao 2026](/faq/esim-deep-troubleshooting-guide-2026/)**.
 
 ## Câu hỏi thường gặp về eSIM Samsung
 
@@ -378,66 +382,68 @@ Từ S21 trở đi, mọi Galaxy (và S20 Exynos quốc tế) đều hỗ trợ 
 Có — S21, S21+, S21 Ultra và S21 FE đều hỗ trợ eSIM ở mọi khu vực.
 
 **Galaxy S22 Ultra có hỗ trợ eSIM không?**
-Có, toàn cầu, bao gồm cả phiên bản nhà mạng Mỹ.
+Có, toàn cầu, kể cả các bản nhà mạng Mỹ.
 
 **Galaxy S23 có hỗ trợ eSIM không?**
 Có — toàn bộ dòng S23 có hỗ trợ eSIM đầy đủ.
 
 **Galaxy S24 Ultra có hỗ trợ eSIM không?**
-Có — quay `*#06#` để xem EID của nó.
+Có — quay số `*#06#` để xem EID của nó.
 
 **Galaxy S20 FE có hỗ trợ eSIM không?**
-Không. Không giống như phần còn lại của gia đình S20, S20 FE không có phần cứng eSIM ở bất kỳ khu vực nào.
+Không. Khác với phần còn lại của gia đình S20, S20 FE không có phần cứng eSIM ở bất kỳ khu vực nào.
 
 **Galaxy A15 / A16 / A32 có hỗ trợ eSIM không?**
-Không. Các model này thiếu phần cứng eSIM và chỉ dùng SIM vật lý — ngay cả phiên bản 5G.
+Không. Những mẫu này thiếu phần cứng eSIM và chỉ dùng SIM vật lý — kể cả phiên bản 5G.
 
 **Galaxy A35 / A54 có hỗ trợ eSIM không?**
-Có. A35 và A54 là một trong số ít model dòng A có eSIM (trên các đơn vị quốc tế).
+Có. A35 và A54 nằm trong số ít mẫu dòng A có eSIM (trên máy bản quốc tế).
 
-**Thiết bị Galaxy Z Fold hay Z Flip có hỗ trợ eSIM không?**
-Có cho hầu hết các model từ Z Fold2 và Z Flip3 trở đi — xác nhận với `*#06#`.
+**Galaxy Z Fold hoặc Z Flip có hỗ trợ eSIM không?**
+Có với hầu hết mẫu máy từ Z Fold2 và Z Flip3 trở đi — xác nhận bằng `*#06#`.
 
 **Note 20 Ultra có hỗ trợ eSIM không?**
-Chỉ phiên bản Exynos quốc tế; các model Snapdragon Mỹ thì không.
+Chỉ bản quốc tế Exynos; các mẫu Snapdragon Mỹ thì không.
 
-**Điện thoại Samsung nào chắc chắn tương thích eSIM?**
-Tất cả các model S21/S22/S23/S24/S25 (bao gồm FE và Ultra), S20 Exynos quốc tế, A54/A55/A35, Z Fold2+/Flip3+ và Note 20 Ultra quốc tế.
+**Những điện thoại Samsung nào chắc chắn tương thích eSIM?**
+Tất cả máy S21/S22/S23/S24/S25 (bao gồm FE và Ultra), S20 Exynos quốc tế, A54/A55/A35, Z Fold2+/Flip3+, và Note 20 Ultra bản quốc tế.
 
-**Làm thế nào để kiểm tra Samsung của tôi có bị khóa nhà mạng không?**
-**Cài đặt > Giới thiệu điện thoại > Trạng thái > Trạng thái khóa SIM** — "Khóa mạng" có nghĩa là bị khóa nhà mạng; yêu cầu mở khóa từ nhà mạng của bạn.
+**Làm sao kiểm tra Samsung của tôi có bị khóa nhà mạng không?**
+**Settings > About Phone > Status > SIM Lock Status** — "Network Locked" nghĩa là bị khóa nhà mạng; yêu cầu mở khóa từ nhà mạng của bạn.
 
-**"eSIM không được hỗ trợ ở quốc gia của bạn" có nghĩa là gì?**
-CSC (mã khu vực) của bạn không hỗ trợ eSIM — phổ biến trên các model Trung Quốc và nhà mạng Mỹ. Không có cách khắc phục dễ dàng.
+**"eSIM not supported in your country" nghĩa là gì?**
+CSC (mã khu vực) của bạn không hỗ trợ eSIM — phổ biến trên máy bản Trung Quốc và nhà mạng Mỹ. Không có cách sửa dễ dàng.
 
-**Tôi có thể sử dụng eSIM và SIM vật lý cùng lúc không?**
-Có, trên mọi Galaxy hỗ trợ eSIM (DSDS). Giữ số trong nước trên SIM vật lý và sử dụng eSIM cho dữ liệu du lịch.
+**Tôi có thể dùng eSIM và SIM vật lý cùng lúc không?**
+Có, trên mọi Galaxy có eSIM (DSDS). Giữ số nhà trên SIM vật lý và dùng eSIM cho dữ liệu du lịch.
 
-**Tôi có thể sử dụng hai eSIM cùng lúc trên Samsung của mình không?**
-Có, trên S23 trở lên và Fold5/Flip5 trở lên. Các model cũ hơn chỉ eSIM + một SIM vật lý.
+**Tôi có thể dùng hai eSIM cùng lúc trên Samsung không?**
+Có, trên S23 trở lên và Fold5/Flip5 trở đi. Các mẫu cũ hơn chỉ có eSIM + một SIM vật lý.
 
-**Tôi có thể lưu trữ bao nhiêu hồ sơ eSIM?**
-Hầu hết điện thoại Samsung có thể lưu trữ nhiều hồ sơ eSIM (thường là 5 hoặc hơn), nhưng chỉ một hoặc hai có thể hoạt động cùng lúc tùy theo model.
+**Tôi có thể lưu bao nhiêu hồ sơ eSIM?**
+Hầu hết điện thoại Samsung có thể lưu vài hồ sơ eSIM (thường 5 hoặc hơn), nhưng chỉ một hoặc hai hoạt động cùng lúc tùy mẫu máy.
 
-**Tại sao S20 của tôi hiển thị eSIM trong cài đặt nhưng bị mờ?**
-Bạn gần như chắc chắn có S20 Snapdragon Mỹ. Samsung đã vô hiệu hóa eSIM trên các model đó trong phần sụn và không có bản cập nhật hay cài đặt nào kích hoạt lại nó.
+**Tại sao S20 của tôi hiện eSIM trong cài đặt nhưng bị mờ?**
+Gần như chắc chắn bạn có một chiếc S20 Snapdragon Mỹ. Samsung đã vô hiệu hóa eSIM trên các mẫu đó trong firmware, và không cập nhật hay cài đặt nào kích hoạt lại được.
 
-**Tôi có thể thay đổi CSC của mình để bật eSIM không?**
-Không an toàn. Thay đổi CSC yêu cầu flash phần sụn, điều này kích hoạt Knox và có thể làm hỏng điện thoại. Nếu CSC của bạn không hỗ trợ eSIM, hãy sử dụng SIM vật lý.
+**Tôi có thể đổi CSC để bật eSIM không?**
+Không an toàn. Đổi CSC yêu cầu flash firmware, điều này kích hoạt Knox và có thể làm "cục gạch" máy. Nếu CSC của bạn không hỗ trợ eSIM, hãy dùng SIM vật lý.
 
 👉 **Đang lên kế hoạch du lịch với Samsung của bạn?** Xem [eSIM cho Mỹ](/united-states-esim/) hoặc [eSIM cho Nhật Bản](/japan-esim/).
 
-## Kiểm tra với eSIM Miễn phí
+## Thử với eSIM miễn phí
 
-Nếu Samsung của bạn hiển thị EID sau khi quay `*#06#`, hãy thử **dùng thử eSIM miễn phí** để xác nhận mọi thứ hoạt động trước khi mua gói trả phí.
+Nếu Samsung của bạn hiện EID sau khi quay số `*#06#`, hãy thử **eSIM dùng thử miễn phí** để xác nhận mọi thứ hoạt động trước khi mua gói trả phí.
 
 👉 [**Nhận eSIM miễn phí của bạn**](/free-esim/)
 
 ---
 
-*Dựa trên tài liệu chính thức của Samsung, tiêu chuẩn GSMA và thông tin nhà mạng. Cập nhật: Tháng 8 năm 2026.*
+*Dựa trên tài liệu chính thức của Samsung, tiêu chuẩn GSMA và thông tin nhà mạng. Cập nhật: tháng 9 năm 2026.*
 
-## Nguồn
+## Nguồn tham khảo
 
-- [GSMA — thông số kỹ thuật eSIM (SGP.22)](https://www.gsma.com/esim/)
+- [GSMA — Đặc tả eSIM (SGP.22)](https://www.gsma.com/esim/)
 - [Samsung Support — eSIM](https://www.samsung.com/us/support/)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
+- [Google Support — Android eSIM](https://support.google.com/android/answer/11241215)

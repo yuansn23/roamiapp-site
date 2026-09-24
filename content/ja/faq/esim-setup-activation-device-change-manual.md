@@ -3,8 +3,8 @@ title: "eSIMの設定・アクティベート・機種変更を完全解説"
 h1_title: "eSIMの設定・アクティベート・機種変更を完全解説：失敗しない全手順"
 description: "eSIMの設定からアクティベート・機種変更まで完全網羅。iPhone・Android別の手順、ハマるポイントTop5、トラブルシューティングまで徹底解説。"
 keywords: ['eSIM 設定', 'eSIM アクティベート', 'eSIM 機種変更', 'eSIM 切り替え', 'eSIM トラブル', '物理SIMからeSIM']
-date: 2026-06-29T10:00:00Z
-lastmod: 2026-06-29T10:00:00Z
+date: 2026-09-24T00:00:00Z
+lastmod: 2026-09-24T00:00:00Z
 tags: ['eSIM', '設定', 'アクティベート', '機種変更', 'トラブルシューティング']
 category: "マニュアル"
 toc: true
@@ -81,7 +81,7 @@ sidebar_questions:
 ---
  
 
-**監修**: 本記事は国内キャリア（ドコモ・au・ソフトバンク・楽天モバイル）および海外eSIMプロバイダー（Airalo・Holafly・Ubigi）の公式手順やサポートページ、[**Apple公式eSIM設定ガイド**](https://support.apple.com/ja-jp/108359)、[**総務省のeSIM関連資料**](https://www.soumu.go.jp/menu_seisaku/ictseisaku/mobile_competition/index.html)、[**GSMA eSIM仕様書（SGP.22）**](https://www.gsma.com/solutions-and-impact/technologies/esim/esim-specification/)に基づいて構成しています。2026年6月時点の情報です。
+**監修**: 本記事は国内キャリア（ドコモ・au・ソフトバンク・楽天モバイル）および海外eSIMプロバイダー（Airalo・Holafly・Ubigi）の公式手順やサポートページ、[**Apple公式eSIM設定ガイド**](https://support.apple.com/ja-jp/118669)、[**総務省のMNP（番号ポータビリティ）制度資料**](https://www.soumu.go.jp/main_sosiki/joho_tsusin/mnp/index.html)、[**GSMA eSIM仕様書（SGP.22）**](https://www.gsma.com/solutions-and-impact/technologies/esim/esim-specification/)に基づいて構成しています。2026年6月時点の情報です。
 
 
 ## eSIMの設定方法
@@ -109,6 +109,18 @@ eSIMの契約方法は大別して3つあります。あなたがどの経路で
 **eSIM 発行**の手続き自体はオンラインで完結します。ただし、キャリアごとに手数料が異なる点に注意。楽天モバイルが無料なのは、機種変更を促進して顧客を囲い込むビジネスモデルだからです。
 
 各キャリアのeSIMプランの詳細比較は[**大手キャリアeSIM徹底比較**](/faq/docomo-au-softbank-rakuten-esim-comparison/)で解説しています。
+
+### MVNOのeSIM発行手数料はここまで安い
+
+格安SIM（MVNO）なら、eSIMの発行コストはさらに抑えられます。
+
+| プロバイダー | eSIM発行手数料 | 備考 |
+|------------|--------------|------|
+| **IIJmio** | **220円**／プロファイル | データプラン ゼロ（月額165円〜）。詳細は[**IIJmioの公式eSIMページ**](https://www.iijmio.jp/esim/)へ |
+| **mineo** | **440円**（税込） | プロファイル発行料。eSIMへの変更・再発行の事務手数料は無料。詳細は[**mineoの申し込みフロー**](https://mineo.jp/apply/simonly-flow/)へ |
+| **ドコモ・au・ソフトバンク** | 上の表の通り（改定の可能性あり） | 最新の手数料は必ず各社公式サイトで確認してください |
+
+※手数料は2026年9月時点の各社公式サイト記載値です。
 
 ### 経路2：海外旅行用eSIMプロバイダー（Airalo・Holafly・Ubigiなど）
 
@@ -184,7 +196,7 @@ QRコードが汚れている、破損している、またはメールでテキ
 
 **iPhone eSIM 設定できない**という症状で最も多いのが、この手動入力方式に気づかずにQRコード読み取りだけで諦めてしまうケースです。QRコードが読み取れなくても、必ず別の方法が用意されています。
 
-[**Apple公式のeSIM設定ガイド**](https://support.apple.com/ja-jp/108359)でも、QRコードが読み取れない場合の手動入力手順が詳しく解説されています。
+**Apple公式のeSIM設定ガイド**（冒頭の監修で引用したサポートページ）でも、QRコードが読み取れない場合の手動入力手順が詳しく解説されています。
 
 iPhoneのeSIM対応機種の詳細は[**iPhone eSIM対応機種一覧**](/faq/iphone-esim-compatible-models-list/)をご確認ください。
 
@@ -370,7 +382,11 @@ iOS 16以降のiPhoneでは、**eSIMクイック転送**機能を利用すると
 2. 古いiPhoneで確認コードが表示されるので、新しいiPhoneに入力
 3. 転送完了後、古いiPhoneのeSIMは自動的に無効化される
 
-[**Apple公式のeSIMクイック転送ガイド**](https://support.apple.com/ja-jp/108359)では、対応キャリアと詳細手順が解説されています。
+### iOS 18・Android 15で広がるeSIM移行の現状
+
+eSIMの移行はiPhone同士だけの話ではなくなりつつあります。**iOS 18**を搭載したiPhoneでは、セットアップ時のクイック転送が引き続き中心となり、**Android 15**以降では、Android端末間に加えてiPhoneへの乗り換え時にもeSIMを引き継げる機種・キャリアが段階的に増えています。対応条件はキャリアや機種によって異なるため、実行前に[**Apple公式のeSIM設定ガイド**](https://support.apple.com/ja-jp/118669)で最新の対応状況を確認しておきましょう。
+
+**Apple公式のeSIMクイック転送ガイド**（前述のサポートページ）では、対応キャリアと詳細手順が解説されています。
 
 
 ## eSIMを削除する方法とスマホ売却時の注意点——「esim 削除」完全ガイド
@@ -398,7 +414,7 @@ iOS 16以降のiPhoneでは、**eSIMクイック転送**機能を利用すると
 **Step 2**：Apple IDまたはGoogleアカウントから端末を削除（iPhoneは「設定」→「一般」→「転送またはiPhoneをリセット」）
 **Step 3**：出荷時リセットを実行
 
-**なぜこの順番が重要なのか**：eSIMプロファイルを削除せずに出荷時リセットを行うと、eSIMの情報が端末に残ったまま次のユーザーに渡ることになります。[**Apple公式サポート**](https://support.apple.com/ja-jp/108359)でも、eSIMプロファイルは「端末を譲る前に手動で削除する」ことが推奨されています。
+**なぜこの順番が重要なのか**：eSIMプロファイルを削除せずに出荷時リセットを行うと、eSIMの情報が端末に残ったまま次のユーザーに渡ることになります。**Apple公式サポート**でも、eSIMプロファイルは「端末を譲る前に手動で削除する」ことが推奨されています。
 
 
 ## うっかり海外用eSIMをオンにした場合の対処——「esim 日本でオンにしてしまった」ときの対処法
@@ -453,7 +469,7 @@ iPhoneは対応端末でも、**キャリア側がそのiPhoneのeSIM利用を�
 子どものiPhoneでファミリー共有の「購入制限」がかかっている場合、eSIMの追加がブロックされることがあります。「スクリーンタイム」→「コンテンツとプライバシーの制限」→「iTunes StoreとApp Storeでの購入」を確認してください。
 
 
-## よくある質問
+## eSIM設定・アクティベート・機種変更のよくある質問
 
 ### Q1. eSIMにすると電話番号は変わりますか？
 **A.** 変わりません。物理SIMからeSIMに変更しても、これまで使っていた電話番号はそのまま維持されます。ただし、海外旅行用のデータ専用eSIMは電話番号が付帯しないものが大半です。音声通話が必要な場合は、キャリアのeSIM（国内回線）を選んでください。
@@ -471,7 +487,7 @@ iPhoneは対応端末でも、**キャリア側がそのiPhoneのeSIM利用を�
 **A.** はい、課金される可能性があります。海外旅行用eSIMでも、日本国内でオンになっていると海外ローミング扱いになる場合があります。帰国後は必ずオフにするか削除してください。**eSIM 日本でオンにしてしまった**場合は、すぐにデータローミングをオフにし、該当回線を無効化しましょう。
 
 ### Q6. eSIM対応端末かどうか、どこで確認できますか？
-**A.** iPhoneの場合は「設定」→「一般」→「情報」で「EID」が表示されればeSIM対応です。`*#06#`をダイヤルしてEIDが表示されるか確認する方法が最も確実です。Androidの場合はメーカーによって対応状況が異なります。[**iPhone eSIM対応機種一覧**](/faq/iphone-esim-compatible-models-list/)および[**Android・iPad・WatchのeSIM対応機種ガイド**](/faq/android-ipad-watch-esim-compatible-devices/)をご参照ください。
+**A.** iPhoneの場合は「設定」→「一般」→「情報」で「EID」が表示されればeSIM対応です。`*#06#`をダイヤルしてEIDが表示されるか確認する方法が最も確実です。Androidの場合はメーカーによって対応状況が異なります。[**iPhoneのeSIM対応確認方法まとめ**](/faq/iphone-esim-compatible-models-list/)および[**Android・iPad・WatchのeSIM対応**](/faq/android-ipad-watch-esim-compatible-devices/)をご参照ください。
 
 ### Q7. eSIMのプロファイルを間違って削除したらどうすればいいですか？
 **A.** 同じQRコードは使えません。キャリアまたはプロバイダーのマイページから「eSIM再発行」の手続きを行ってください。再発行手数料はキャリアによって異なります（楽天モバイルは無料、他キャリアは3,300円）。**eSIM 削除**は慎重に行いましょう。
@@ -492,9 +508,13 @@ eSIMの設定・アクティベート・機種変更は、**正しい手順を�
 - **eSIM 発行**の手数料はキャリアで異なる。楽天は無料、他は3,300円
 - **eSIM 日本でオンにしてしまった**ら、すぐにデータローミングをOFF
 
-[**GSMA**](https://www.gsma.com/solutions-and-impact/technologies/esim/gsma_resources/esim-mass-market-deployment-moves-from-forecast-to-fact/)が指摘するように、eSIMの大量市場展開は**「もはや『起こるかどうか』ではなく『どうやってうまく運用するか』の時代」** に入っています。この記事を読んで「自分で設定できそう」と思えたなら、あなたはもうeSIM設定マスターです。
+**GSMA**が指摘するように、eSIMの大量市場展開は**『起こるかどうか』の証明を終え、『いかにスムーズに運用するか』が問われる時代**に入っています。この記事を読んで「自分で設定できそう」と思えたなら、あなたはもうeSIM設定マスターです。
 
-設定手順でさらに詳細な機種別情報が必要な方は、[**iPhone eSIM対応機種一覧**](/faq/iphone-esim-compatible-models-list/)や[**Android・iPad・WatchのeSIM対応機種ガイド**](/faq/android-ipad-watch-esim-compatible-devices/)をご参照ください。キャリアごとの料金比較は[**大手キャリアeSIM徹底比較**](/faq/docomo-au-softbank-rakuten-esim-comparison/)で詳しく解説しています。
+設定手順でさらに詳細な機種別情報が必要な方は、[**iPhone eSIM対応機種の全リスト**](/faq/iphone-esim-compatible-models-list/)や[**Android・タブレット・ウォッチの対応ガイド**](/faq/android-ipad-watch-esim-compatible-devices/)をご参照ください。
+
+キャリアごとの料金比較は[**大手キャリアのeSIM料金比較**](/faq/docomo-au-softbank-rakuten-esim-comparison/)で詳しく解説しています。
+
+そもそもeSIMに切り替えるべきか迷っている方は、[**eSIMと物理SIMのメリット・デメリット比較**](/faq/esim-vs-physical-sim-pros-cons/)も判断材料になります。日本でのeSIM選び全体を俯瞰したい方には、[**日本在住者・旅行者向けのeSIMガイド**](/faq/japan-esim-guide-residents-travelers/)がおすすめです。
 
 ---
 

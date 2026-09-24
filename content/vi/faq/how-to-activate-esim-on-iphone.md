@@ -1,13 +1,14 @@
 ---
-title: "Cách Kích hoạt eSIM trên iPhone (2026)"
-h1_title: "Cách Kích hoạt eSIM trên iPhone vào năm 2026 – Hướng dẫn Từng bước Đầy đủ"
-description: "Hướng dẫn kích hoạt eSIM iOS đầy đủ 2026. Không cần gọi cho nhà mạng. Làm theo hướng dẫn đơn giản cho mã QR, ứng dụng Cài đặt hoặc ứng dụng nhà mạng. Nhanh chóng & miễn phí."
+title: "Cách kích hoạt eSIM trên iPhone (2026)"
+h1_title: "Cách kích hoạt eSIM trên iPhone năm 2026 – Hướng dẫn từng bước đầy đủ"
+description: "Hướng dẫn kích hoạt eSIM trên iOS đầy đủ năm 2026. Không cần gọi cho nhà mạng. Thực hiện các chỉ dẫn đơn giản cho mã QR, ứng dụng Cài đặt hoặc ứng dụng nhà mạng. Nhanh & miễn phí."
 keywords: ["eSIM activation", "how to activate eSIM iPhone", "iPhone eSIM setup", "add eSIM to iPhone", "eSIM QR code iPhone", "travel eSIM iPhone", "iPhone eSIM troubleshooting", "transfer eSIM to new iPhone", "eSIM activation failed iPhone", "eSIM no service iPhone", "eSIM stuck on activating"]
-date: 2026-09-06T10:00:00Z
-lastmod: 2026-09-06T00:00:00Z
-tags: ["eSIM", "iOS", "Xử lý sự cố", "Thiết lập du lịch"]
+date: 2026-09-14T00:00:00Z
+lastmod: 2026-09-14T00:00:00Z
+tags: ["eSIM", "iOS", "Troubleshooting", "Travel Setup"]
 toc: true
-image: "/img/esim/esim-travel.jpg"
+image: "/img/faq/activate-esim-iphone.webp"
+image-1: "/img/faq/activate-esim-iphone-1.jpg"
 # Site & SEO
 site_name: "Roami"
 author: "Roami"
@@ -15,7 +16,7 @@ publisher_logo: "/img/logo.png"
 
 # UI text translations
 ui_text:
-  updated_on: "Cập nhật ngày"
+  updated_on: "Cập nhật vào"
   min_read: "phút đọc"
   toc: "Mục lục"
 
@@ -25,15 +26,15 @@ breadcrumbs:
     text: "Trang chủ"
     url: "/"
   parent:
-    text: "Trung tâm trợ giúp"
+    text: "Trung tâm Trợ giúp"
     url: "/faq/"
 
-# Thanh bên: eSIM phổ biến
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "eSIM phổ biến"
   item_suffix: "eSIM"
   items:
-    - name: "eSIM Hoa Kỳ"
+    - name: "eSIM Mỹ"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
@@ -64,12 +65,12 @@ sidebar_popular:
       url: "/china-esim/"
       badge: "5G"
 
-# Thanh bên: Ưu đãi eSIM miễn phí
+# Sidebar: Free eSIM offers
 sidebar_free:
-  title: "Nhận eSIM Miễn phí"
+  title: "Nhận eSIM miễn phí"
   icon: "🎁"
-  item_suffix: "Free eSIM"
-  item_subtitle: "Free eSIM"
+  item_suffix: "eSIM miễn phí"
+  item_subtitle: "eSIM miễn phí"
   items:
     - name: "eSIM Anh"
       flag: "/img/flags/gb.svg"
@@ -84,246 +85,256 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# Thanh bên: Câu hỏi phổ biến
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Câu hỏi phổ biến"
   items:
     - question: "Kích hoạt eSIM là gì và nó hoạt động như thế nào?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "Làm thế nào để kích hoạt eSIM?"
+    - question: "Cách kích hoạt eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Làm thế nào để kích hoạt eSIM trên iPhone (Tất cả các mẫu)?"
+    - question: "Cách kích hoạt eSIM trên iPhone (mọi dòng máy)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Danh sách tương thích eSIM mới nhất"
       url: "/compatibility/"
 ---
 
 
-> **Lời biên tập:** Roami là thương hiệu đứng sau hướng dẫn này. Chúng tôi thiết lập SIM kỹ thuật số trên iPhone hàng ngày trên hơn 20 nhà mạng và 40+ quốc gia, và mọi bước ở đây đều đã được kiểm tra trên phần cứng thực tế chạy iOS 17 và 18.
+> **Lưu ý của biên tập viên:** Kích hoạt eSIM trên iPhone mất khoảng năm phút — quét mã QR, chạm qua vài màn hình Cài đặt, và hồ sơ sẽ tự tải xuống. Mỗi bước ở đây đã được kiểm tra trên thiết bị thật chạy iOS 17 và 18. Hãy làm theo các bước phù hợp với phiên bản iOS của bạn và bạn sẽ được kết nối trước khi cất cánh.
 
-**Câu trả lời ngắn gọn:** Trên iPhone, bạn kích hoạt eSIM từ ứng dụng Cài đặt — không cần gọi cho nhà mạng, không cần thẻ vật lý. Trang này hướng dẫn chi tiết con đường dành riêng cho iOS: các menu chính xác, sự khác biệt giữa iOS 17 và 18, chuyển hồ sơ sang iPhone mới và thao tác dọn dẹp iMessage/FaceTime mà hầu hết các hướng dẫn đều bỏ qua.
+**Câu trả lời ngắn gọn:** Trên iPhone, bạn kích hoạt eSIM ngay trong ứng dụng Cài đặt — không cần gọi cho nhà mạng, không cần thẻ vật lý. Trang này đi sâu vào con đường riêng của iOS: các menu chính xác, khác biệt giữa iOS 17 và 18, chuyển hồ sơ sang iPhone mới, và phần dọn dẹp iMessage/FaceTime mà đa số hướng dẫn bỏ qua.
 
-Để biết khái niệm đằng sau nó, hãy xem [Kích hoạt eSIM là gì?](/faq/what-is-esim-activation-and-how-does-it-work/). Thay vào đó dùng Android? Sử dụng [hướng dẫn kích hoạt chung](/faq/how-to-activate-an-esim/). Đang dùng iPhone 16? Có [hướng dẫn eSIM iPhone 16 chuyên dụng](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/).
+Để hiểu khái niệm đằng sau, xem [Kích hoạt eSIM là gì?](/faq/what-is-esim-activation-and-how-does-it-work/). Đang dùng Android? Hãy dùng [hướng dẫn kích hoạt chung](/faq/how-to-activate-an-esim/).
+
+Đang dùng iPhone 16? Có một [hướng dẫn eSIM iPhone 16 chuyên biệt](/faq/2026-ultimate-guide-iphone-16-esim-activation-solutions/).
 
 ## iPhone của bạn đã sẵn sàng cho eSIM chưa?
 
-Kiểm tra nhanh: quay `*#06#` — nếu **EID** 32 chữ số xuất hiện, iPhone của bạn có eSIM. Để có danh sách mẫu iPhone đầy đủ (XS đến dòng 16/17, SE thế hệ 2/3) và mỗi thiết bị lưu được bao nhiêu hồ sơ, hãy xem [trung tâm tương thích eSIM iPhone](/faq/iphone-11-esim-compatible/).
+Một phép kiểm tra nhanh: gọi `*#06#` — nếu một **EID** 32 chữ số hiện ra, iPhone của bạn có eSIM. Để xem danh sách đầy đủ các mẫu iPhone (XS đến dòng 16/17, SE thế hệ 2/3) và mỗi máy giữ được bao nhiêu hồ sơ, hãy xem [trung tâm tương thích eSIM iPhone](/faq/iphone-11-esim-compatible/).
 
-## Trước khi bắt đầu: bốn điều kiện tiên quyết
+## Trước khi bắt đầu kích hoạt eSIM
 
-1. **Mở khóa** — Cài đặt > Cài đặt chung > Giới thiệu > Carrier Lock phải hiển thị "No SIM restrictions." iPhone bị khóa không thể cài đặt eSIM của nhà cung cấp khác.
-2. **Wi-Fi** — hồ sơ tải xuống từ máy chủ bảo mật của nhà mạng, vì vậy bạn cần kết nối (dữ liệu di động sẽ không thực hiện được lần tải đầu tiên).
-3. **Mã khóa** — iOS yêu cầu mã khóa màn hình của bạn để ủy quyền cài đặt.
-4. **Mã QR** — có nó mở trên thiết bị khác hoặc lưu ảnh vào Photos và sử dụng "Choose Photo" sau.
+1. **Đã mở khóa** — Settings > General > About > Carrier Lock nên ghi "No SIM restrictions". Một chiếc iPhone bị khóa không thể cài eSIM của nhà cung cấp khác.
+2. **Wi-Fi** — hồ sơ được tải từ máy chủ bảo mật của nhà mạng, nên bạn cần kết nối (dữ liệu di động không đủ cho lần kéo đầu tiên).
+3. **Mã khóa màn hình** — iOS yêu cầu mã khóa màn hình để cho phép cài đặt.
+4. **Mã QR** — hãy mở nó trên thiết bị khác, hoặc lưu ảnh vào Photos để dùng "Choose Photo" sau.
 
-## Hai công việc khác nhau: đường truyền chính của bạn so với travel eSIM
+## Đường chính của bạn và eSIM du lịch
 
-Trước khi mở Cài đặt, hãy xác định bạn đang thực sự làm gì — luồng khác nhau một chút và biết mình đang ở luồng nào sẽ ngăn ngừa hầu hết sự nhầm lẫn.
+Trước khi mở Cài đặt, hãy gọi tên đúng việc bạn đang làm — quy trình hơi khác nhau, và biết mình đang ở kịch bản nào sẽ tránh được phần lớn sự nhầm lẫn.
 
-**Kịch bản A: kích hoạt đường truyền chính (thay thế nhà mạng hoặc điện thoại mới).** Đây là mối quan hệ với nhà mạng. Nhà mạng của bạn hoặc cung cấp mã QR, đẩy eSIM qua ứng dụng của họ (Verizon, T-Mobile, AT&T, Visible, Mint đều làm điều này) hoặc sử dụng "eSIM Carrier Activation" nơi hồ sơ xuất hiện tự động khi bạn đăng nhập bằng tài khoản nhà mạng. Bạn sẽ muốn kiểm tra iMessage và FaceTime đăng ký lại trên số mới sau đó.
+**Kịch bản A: kích hoạt đường chính của bạn (thay nhà mạng hoặc đổi máy mới).** Đây là mối quan hệ với nhà mạng. Nhà mạng hoặc đưa bạn một mã QR, đẩy eSIM qua ứng dụng của họ (Verizon, T-Mobile, AT&T, Visible, Mint đều làm vậy), hoặc dùng "eSIM Carrier Activation" — hồ sơ sẽ tự xuất hiện khi bạn đăng nhập bằng tài khoản nhà mạng. Bạn sẽ muốn kiểm tra rằng iMessage và FaceTime đã đăng ký lại với số mới sau đó.
 
-**Kịch bản B: thêm travel eSIM (giữ số nhà).** Đây là đường truyền thứ hai, riêng biệt cho dữ liệu ở nước ngoài. Bạn giữ nguyên SIM vật lý hoặc eSIM nhà, cài đặt travel eSIM cùng với nó, sau đó trỏ Dữ liệu di động vào đường travel. Travel eSIM thường chỉ dữ liệu, vì vậy cuộc gọi và tin nhắn vẫn ở số nhà của bạn.
+**Kịch bản B: thêm một eSIM du lịch (giữ số ở nhà).** Đây là một đường thứ hai, riêng biệt, dùng cho dữ liệu ở nước ngoài. Bạn giữ nguyên SIM vật lý hay eSIM ở nhà, cài eSIM du lịch song song với nó, rồi trỏ Cellular Data về đường du lịch. eSIM du lịch thường chỉ dùng dữ liệu, nên cuộc gọi và tin nhắn vẫn nằm trên số ở nhà.
 
-Mọi thứ dưới đây áp dụng cho cả hai, nhưng các phần "chuyển đổi," "Quick Transfer" và "đăng ký lại iMessage" thuộc lãnh thổ Kịch bản A, trong khi thiết lập hai đường là Kịch bản B.
+Mọi thứ bên dưới áp dụng cho cả hai, nhưng phần "convert," "Quick Transfer," và "đăng ký lại iMessage" thuộc về Kịch bản A, còn phần thiết lập hai đường thuộc về Kịch bản B.
 
-## Ba cách cài đặt eSIM trên iPhone
+## Cách cài eSIM trên iPhone
 
-### 1. Mã QR (phổ biến nhất)
+### Quét mã QR
 
-1. Cài đặt > Di động (hoặc Dữ liệu di động).
-2. Nhấn **Thêm eSIM** (iOS cũ: **Thêm gói di động**).
-3. Nhấn **Sử dụng mã QR**.
-4. Giữ điện thoại khoảng 15 cm so với mã, với màn hình hiển thị ở độ sáng tối đa.
-5. Khi gói xuất hiện, nhấn **Tiếp tục** và nhập mã khóa nếu được yêu cầu.
+1. Settings > Cellular (hoặc Mobile Data).
+2. Chạm **Add eSIM** (iOS cũ: **Add Cellular Plan**).
+3. Chạm **Use QR Code**.
+4. Giữ điện thoại cách mã khoảng 15 cm, với màn hình hiển thị ở độ sáng tối đa.
+5. Khi gói cước hiện ra, chạm **Continue** và nhập mã khóa màn hình nếu được yêu cầu.
 
-Nếu nó không quét được sau vài lần thử, hãy chọn **Nhập chi tiết thủ công** ở cuối màn hình máy ảnh.
+Nếu quét mã không được sau vài lần thử, hãy chọn **Enter Details Manually** ở cuối màn hình camera.
 
-### 2. Nhập thủ công
+### Nhập tay
 
-Đến Cài đặt > Di động > Thêm eSIM > Sử dụng mã QR > **Nhập chi tiết thủ công**, sau đó nhập địa chỉ SM-DP+ và mã kích hoạt từ email nhà cung cấp của bạn. Đây là phương án dự phòng đáng tin cậy khi mã bị hỏng hoặc nằm trên chính điện thoại bạn đang kích hoạt.
+Vào Settings > Cellular > Add eSIM > Use QR Code > **Enter Details Manually**, rồi gõ địa chỉ SM-DP+ và mã kích hoạt từ email của nhà cung cấp. Đây là phương án dự phòng đáng tin cậy khi mã bị hỏng hoặc đang hiển thị trên chính chiếc điện thoại bạn đang cài.
 
-### 3. Ứng dụng nhà mạng
+### Ứng dụng nhà mạng
 
-Các nhà cung cấp như Roami, Airalo và Holafly cài đặt chỉ bằng một lần chạm từ ứng dụng của họ — mở gói của bạn và nhấn **Cài đặt** hoặc **Kích hoạt**, sau đó cho phép lời nhắc. Cách nhanh nhất, không cần máy ảnh.
+Các nhà cung cấp như Roami, Airalo và Holafly cho phép cài bằng một chạm ngay từ ứng dụng của họ — mở gói cước và chạm **Install** hoặc **Activate**, rồi cho phép khi được hỏi. Con đường nhanh nhất, không cần camera.
 
-## Chuyển đổi SIM vật lý sang eSIM trên iPhone
+## Chuyển SIM vật lý sang eSIM trên iPhone
 
-Nếu nhà mạng của bạn hỗ trợ, iOS có thể chuyển SIM vật lý của bạn thành eSIM ngay trên điện thoại — không cần đến cửa hàng, không cần thẻ SIM mới, không cần mã QR. Đây là cách sạch sẽ nhất để giải phóng khe SIM vật lý (ví dụ: cho SIM địa phương ở nước ngoài) hoặc để chuyển hoàn toàn sang kỹ thuật số trước khi bán điện thoại.
+Nếu nhà mạng của bạn hỗ trợ, iOS có thể biến SIM vật lý của bạn thành eSIM ngay trên máy — không cần ghé cửa hàng, không cần thẻ SIM mới, không cần mã QR. Đây là cách sạch sẽ nhất để giải phóng khe SIM vật lý (ví dụ, cho một SIM địa phương khi ra nước ngoài) hoặc để chuyển hẳn sang digital trước khi bán máy.
 
-1. Cài đặt > Di động.
-2. Nhấn vào đường truyền hiện đang ở trên SIM vật lý của bạn.
-3. Nhấn **Chuyển sang eSIM** (trên một số nhà mạng, nó hiển thị **Chuyển SIM vật lý sang eSIM**).
-4. Nhấn **Chuyển gói di động**, sau đó **Chuyển sang eSIM**.
-5. Đợi quá trình chuyển đổi — thường dưới một phút — sau đó tháo thẻ SIM vật lý khi iOS nhắc.
+1. Settings > Cellular.
+2. Chạm vào đường hiện đang chạy trên SIM vật lý.
+3. Chạm **Convert to eSIM** (với một số nhà mạng hiển thị là **Convert Physical SIM to eSIM**).
+4. Chạm **Convert Cellular Plan**, rồi **Convert to eSIM**.
+5. Chờ quá trình chuyển đổi — thường dưới một phút — rồi tháo thẻ SIM vật lý khi iOS nhắc.
 
-Một số điểm cần lưu ý. **Hỗ trợ nhà mạng khác nhau** — ba nhà mạng lớn (AT&T, Verizon, T-Mobile) hỗ trợ, nhưng nhiều MVNO và nhà mạng trả trước không hiển thị tùy chọn. **iPhone của bạn phải đang ở trên mạng của nhà mạng đó** để chuyển đổi (nó xác minh đường truyền trong quá trình chuyển đổi). **Bạn không thể chuyển đổi SIM nước ngoài hoặc du lịch** — tính năng này chỉ chuyển đổi SIM cho nhà mạng mà điện thoại của bạn hiện đang đăng nhập. Và sau khi chuyển đổi, thẻ vật lý đã chết — vứt nó đi, đừng đưa cho người khác.
+Vài điều đáng biết. **Hỗ trợ của nhà mạng không đồng đều** — ba hãng lớn (AT&T, Verizon, T-Mobile) hỗ trợ, nhưng nhiều MVNO và nhà mạng trả trước không hiện tùy chọn này. **iPhone của bạn phải đang trên mạng của chính nhà mạng đó** để chuyển đổi (nó xác minh đường truyền trong quá trình chuyển). **Bạn không thể chuyển SIM nước ngoài hay SIM du lịch** — tính năng này chỉ chuyển SIM của nhà mạng mà điện thoại bạn đang đăng nhập. Và một khi đã chuyển, thẻ vật lý sẽ chết — hãy bỏ nó đi, đừng đưa cho người khác.
 
-Không thấy "Chuyển sang eSIM"? Nhà mạng của bạn chưa bật tính năng này. Bạn vẫn có thể chuyển sang kỹ thuật số theo cách cũ: yêu cầu họ cấp mã QR eSIM và làm theo cài đặt tiêu chuẩn ở trên.
+Không thấy "Convert to eSIM"? Nhà mạng của bạn chưa bật tính năng này. Bạn vẫn có thể chuyển sang digital theo cách truyền thống: xin họ một mã QR eSIM và làm theo hướng dẫn cài đặt chuẩn phía trên.
 
-## iOS 17 vs iOS 18: những gì đã thay đổi
+## Thay đổi eSIM giữa iOS 17 và iOS 18
 
 | Tính năng | iOS 17 | iOS 18 |
 |---|---|---|
-| Đường dẫn Thêm eSIM | Cài đặt > Di động > Thêm eSIM | Cùng đường dẫn |
-| Nhãn nút | "Thêm gói di động" trên một số thiết bị | "Thêm eSIM" xuyên suốt |
-| Nhập thủ công | Cuối màn hình quét | Nổi bật hơn, được thiết kế lại |
-| Chuyển nhanh | Có sẵn từ iOS 16 | Đáng tin cậy hơn, chỉ báo tiến trình tốt hơn |
-| Cập nhật nhà mạng | Một số cần khởi động lại | Cập nhật nền |
+| Đường thêm eSIM | Settings > Cellular > Add eSIM | Cùng đường đi |
+| Nhãn nút | "Add Cellular Plan" trên một số thiết bị | "Add eSIM" thống nhất |
+| Nhập tay | Cuối màn hình quét | Nổi bật hơn, được thiết kế lại |
+| Quick Transfer | Có từ iOS 16 | Đáng tin hơn, chỉ báo tiến trình tốt hơn |
+| Cập nhật nhà mạng | Một số cần khởi động lại | Cập nhật ngầm |
 
-Nếu bạn thấy "Thêm gói di động," nó có chức năng tương tự như "Thêm eSIM."
+Nếu bạn thấy "Add Cellular Plan", đó chính là chức năng của "Add eSIM".
 
-## Lịch sử phiên bản iOS cho eSIM (15 đến 18)
+## Lịch sử phiên bản iOS cho eSIM
 
-Các nhãn đã thay đổi nhiều hơn mọi người nhận ra. Đây là toàn bộ quá trình, để một hướng dẫn ba năm tuổi trên điện thoại hai năm tuổi của bạn vẫn có ý nghĩa.
+Các nhãn đã dịch chuyển nhiều hơn mọi người nghĩ. Đây là toàn bộ hành trình, để một bài hướng dẫn ba năm tuổi trên chiếc máy hai năm tuổi của bạn vẫn dễ hiểu.
 
-| Phiên bản iOS | Nhãn menu | Điều gì đã thay đổi cho eSIM |
+| Phiên bản iOS | Nhãn menu | Thay đổi gì cho eSIM |
 |---|---|---|
-| iOS 15 | "Thêm gói di động" | eSIM có trên XS/XR trở lên; SIM kép là một eSIM + một vật lý trên hầu hết các mẫu |
-| iOS 16 | "Thêm gói di động" | **Quick Transfer** (chuyển eSIM từ iPhone gần đó) xuất hiện; chuyển sang eSIM cho các nhà mạng được chọn |
-| iOS 17 | "Thêm eSIM" / "Thêm gói di động" (hỗn hợp) | Chuyển sang eSIM mở rộng sang nhiều nhà mạng hơn; eSIM kép *hoạt động* trên iPhone 13 trở lên |
-| iOS 18 | "Thêm eSIM" xuyên suốt | Màn hình thêm được thiết kế lại, cập nhật nhà mạng nền, chế độ xem eSIM kép rõ ràng hơn |
+| iOS 15 | "Add Cellular Plan" | eSIM khả dụng trên XS/XR trở lên; dual SIM là một eSIM + một SIM vật lý trên đa số mẫu |
+| iOS 16 | "Add Cellular Plan" | **Quick Transfer** (chuyển eSIM từ một iPhone gần đó) ra mắt; convert-to-eSIM cho một số nhà mạng |
+| iOS 17 | "Add eSIM" / "Add Cellular Plan" (lẫn lộn) | Convert-to-eSIM mở rộng cho thêm nhà mạng; dual eSIM *hoạt động đồng thời* trên iPhone 13 trở lên |
+| iOS 18 | "Add eSIM" thống nhất | Màn hình thêm mới được thiết kế lại, cập nhật nhà mạng ngầm, hiển thị dual eSIM rõ ràng hơn |
 
-Phiên bản ngắn gọn: mọi thứ từ iOS 16 trở lên đều có thể sử dụng Quick Transfer, iOS 17 tiêu chuẩn hóa eSIM kép và iOS 18 chủ yếu là một lần hoàn thiện nhãn và độ tin cậy.
+Tóm gọn: mọi thứ từ iOS 16 trở đi đều làm được Quick Transfer, iOS 17 chuẩn hóa dual eSIM, và iOS 18 chủ yếu là một lớp sơn bóng về nhãn và độ tin cậy.
 
-## Sau khi hồ sơ được cài đặt: đăng ký lại iMessage và FaceTime
+## Đăng ký lại iMessage và FaceTime sau khi cài eSIM
 
-Hầu hết các hướng dẫn dừng lại ở "Cài đặt di động hoàn tất," nhưng có một điểm đặc biệt của iOS đáng để xử lý: nếu bạn đã chuyển đường thoại mặc định, iMessage và FaceTime có thể vẫn bị ràng buộc với đường cũ — hoặc hiển thị "Đang chờ kích hoạt."
+Đa số hướng dẫn dừng lại ở "Cellular Setup Complete", nhưng có một "cá tính" của iOS đáng xử lý: nếu bạn đổi đường thoại mặc định, iMessage và FaceTime có thể vẫn dính vào đường cũ — hoặc hiện "Waiting for activation".
 
-1. Cài đặt > Tin nhắn > Gửi & Nhận, và xác nhận số của bạn được chọn.
-2. Cài đặt > FaceTime, và xác nhận số hoặc Apple ID đúng đang hoạt động.
-3. Nếu một trong hai hiển thị "Đang chờ kích hoạt," hãy bật/tắt iMessage khi đang kết nối Wi-Fi.
+1. Settings > Messages > Send & Receive, và xác nhận số của bạn được chọn.
+2. Settings > FaceTime, và xác nhận đúng số hoặc Apple ID đang hoạt động.
+3. Nếu mục nào hiện "Waiting for activation", hãy tắt rồi bật lại iMessage khi đang kết nối Wi-Fi.
 
-Điều này quan trọng trong thiết lập hai đường khi travel eSIM chỉ dữ liệu và bạn muốn tiếp tục nhắn tin trên số nhà.
+Điều này quan trọng trong các thiết lập hai đường, khi eSIM du lịch chỉ dùng dữ liệu và bạn muốn giữ tin nhắn trên số ở nhà.
 
-## Quick Transfer: chuyển eSIM sang iPhone mới
+## Cách chuyển eSIM sang iPhone mới
 
-Khi thiết lập iPhone mới gần iPhone cũ của bạn, chọn **"Transfer eSIM from nearby iPhone"** và giữ cả hai thiết bị gần nhau với Bluetooth và Wi-Fi bật. Hồ sơ sẽ di chuyển không dây trong một hoặc hai phút.
+Khi cài đặt một iPhone mới cạnh máy cũ, chọn **"Transfer eSIM from nearby iPhone"** và giữ cả hai thiết bị gần nhau với Bluetooth và Wi-Fi bật. Hồ sơ sẽ di chuyển không dây trong một đến hai phút.
 
-Nếu lời nhắc không xuất hiện, hãy đến Cài đặt > Di động > Thêm eSIM > **Transfer from Nearby iPhone** trên điện thoại mới. Nếu hồ sơ đến nơi nhưng hiển thị "No Service," hãy xóa nó khỏi iPhone cũ trước — một số nhà mạng yêu cầu giải phóng hồ sơ cũ.
+Nếu câu nhắc không xuất hiện, hãy vào Settings > Cellular > Add eSIM > **Transfer from Nearby iPhone** trên máy mới. Nếu hồ sơ đã về nhưng hiện "No Service", hãy xóa nó khỏi iPhone cũ trước — một số nhà mạng yêu cầu hồ sơ cũ phải được giải phóng.
 
-Để chuyển eSIM sang Android, cấp lại của nhà mạng hoặc điện thoại bạn đã bán hoặc đặt lại, hãy xem [hướng dẫn chuyển eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/).
+Để chuyển eSIM sang Android, xin nhà mạng cấp lại, hoặc một chiếc máy bạn đã bán hay reset, hãy xem [hướng dẫn chuyển eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/).
 
-## Các trường hợp đặc biệt của Quick Transfer
+## Các tình huống biên của Quick Transfer
 
-Quick Transfer rất xuất sắc khi cả hai iPhone đều ở trong phòng. Khi chúng không có mặt, đây là những gì xảy ra.
+Quick Transfer thật tuyệt khi cả hai iPhone đều ở trong phòng. Khi không phải vậy, đây là những gì sẽ xảy ra.
 
-- **Bạn đã bán, mất hoặc đặt lại iPhone cũ.** Quick Transfer không khả dụng — nó cần thiết bị nguồn được bật và mở khóa. Thay vào đó, hãy liên hệ nhà mạng và yêu cầu họ cấp lại eSIM (thường miễn phí, mất vài phút), sau đó cài đặt QR mới trên điện thoại mới. Các bước cấp lại chi tiết có trong [hướng dẫn chuyển](/faq/how-to-transfer-esim-between-iphone-and-android/).
-- **"Transfer from Nearby iPhone" bị thiếu.** Nó chỉ xuất hiện trên thiết bị chạy iOS 16 trở lên. Trên iPhone cũ hơn, hoặc nếu nguồn ở ngoài tầm với, hãy quay lại cấp lại QR của nhà mạng.
-- **Quá trình chuyển bị đình trệ giữa chừng.** Đặt cả hai điện thoại trên cùng Wi-Fi, giữ chúng trong vài centimet và tắt Chế độ nguồn điện thấp trên cả hai. Bluetooth phải vẫn bật — Quick Transfer ghép nối qua Bluetooth trước khi chuyển giao qua Wi-Fi.
-- **Bạn đang chuyển từ Android.** Quick Transfer chỉ dành cho iPhone-to-iPhone. Chuyển Android-to-iPhone đi qua nhà mạng của bạn, không phải ứng dụng Cài đặt.
-- **eSIM đã chuyển nhưng SIM vật lý thì không.** Quick Transfer chỉ chuyển *eSIM* — một thẻ SIM vật lý vẫn phải được đổi thủ công (trừ khi bạn chuyển nó sang eSIM trước, như ở trên).
+- **Bạn đã bán, làm mất, hoặc reset iPhone cũ.** Quick Transfer không còn là phương án — nó cần thiết bị nguồn đang bật và mở khóa. Thay vào đó, liên hệ nhà mạng và nhờ họ cấp lại eSIM (thường miễn phí, chỉ vài phút), rồi cài mã QR mới lên máy mới. Các bước cấp lại chi tiết nằm trong [hướng dẫn chuyển eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/).
+- **"Transfer from Nearby iPhone" không hiện.** Tùy chọn này chỉ xuất hiện trên thiết bị chạy iOS 16 trở lên. Trên iPhone cũ hơn, hoặc nếu máy nguồn ngoài tầm với, hãy quay về phương án nhà mạng cấp lại mã QR.
+- **Quá trình chuyển bị treo giữa chừng.** Đặt cả hai máy trên cùng một Wi-Fi, giữ chúng cách nhau vài centimet, và tắt Low Power Mode trên cả hai. Bluetooth phải luôn bật — Quick Transfer ghép đôi qua Bluetooth trước khi giao nhận qua Wi-Fi.
+- **Bạn đang chuyển từ Android.** Quick Transfer chỉ hoạt động từ iPhone sang iPhone. Chuyển từ Android sang iPhone phải đi qua nhà mạng, không phải ứng dụng Cài đặt.
+- **eSIM đã chuyển nhưng SIM vật lý thì không.** Quick Transfer chỉ di chuyển hồ sơ *eSIM* — thẻ SIM vật lý vẫn phải được thay bằng tay (trừ khi bạn chuyển nó thành eSIM trước, như phía trên).
 
-## Thêm travel eSIM thứ hai trong khi giữ số nhà
+## Thêm eSIM du lịch mà vẫn giữ số ở nhà
 
-Đây là thiết lập thực tế phổ biến nhất: đường truyền nhà của bạn giữ nguyên vị trí và travel eSIM đi cùng cho dữ liệu. Thực hiện theo thứ tự này.
+Đây là thiết lập phổ biến nhất ngoài đời thực: đường ở nhà của bạn nằm nguyên tại chỗ, và một eSIM du lịch "bám theo" để lo dữ liệu. Hãy làm theo thứ tự này.
 
-1. **Giữ nguyên đường truyền nhà của bạn.** Cho dù là SIM vật lý hay eSIM, hãy để nó tại chỗ. Đừng xóa nó, đừng chuyển đổi nó.
-2. **Cài đặt travel eSIM** qua mã QR, nhập thủ công hoặc ứng dụng nhà cung cấp (Roami, Airalo, Holafly).
-3. **Đặt nhãn cho các đường truyền.** Cài đặt > Di động, nhấn vào mỗi đường và sử dụng "Cellular Plan Label" để đổi tên — "Home" và "Roami Travel" — để bạn có thể phân biệt chúng sau.
-4. **Đặt Dữ liệu di động thành travel eSIM.** Cài đặt > Di động > Dữ liệu di động và chọn đường travel.
-5. **Đặt Đường thoại mặc định thành số nhà của bạn.** Điều này giữ cuộc gọi, iMessage và FaceTime trên số thường của bạn.
-6. **Bật Chuyển vùng Dữ liệu cho travel eSIM, TẮT cho nhà.** Đường travel cần chuyển vùng để đến mạng đối tác; đường nhà thì không, và giữ nó tắt ngăn phí hàng ngày vô tình.
-7. **Để "Cho phép chuyển đổi dữ liệu di động" TẮT.** Với nó bật, một lần suy giảm tín hiệu ngắn có thể chuyển dữ liệu sang đường nhà và kích hoạt phí chuyển vùng.
+1. **Giữ đường ở nhà nguyên vẹn.** Dù là SIM vật lý hay eSIM, hãy để nó yên vị. Đừng xóa, đừng chuyển đổi.
+2. **Cài eSIM du lịch** qua mã QR, nhập tay, hoặc ứng dụng nhà cung cấp (Roami, Airalo, Holafly).
+3. **Đặt tên cho các đường.** Settings > Cellular, chạm từng đường, và dùng "Cellular Plan Label" để đổi tên — "Home" và "Roami Travel" — để sau này phân biệt được.
+4. **Đặt Cellular Data về eSIM du lịch.** Settings > Cellular > Cellular Data, và chọn đường du lịch.
+5. **Đặt Default Voice Line về số ở nhà.** Điều này giữ cuộc gọi, iMessage và FaceTime trên số quen thuộc của bạn.
+6. **Bật Data Roaming cho eSIM du lịch, TẮT cho đường ở nhà.** Đường du lịch cần roaming để kết nối các mạng đối tác; đường ở nhà thì không, và giữ nó tắt giúp tránh các khoản phí hằng ngày ngoài ý muốn.
+7. **Để "Allow Cellular Data Switching" ở trạng thái TẮT.** Nếu bật, một lần chập chờn sóng ngắn có thể lật dữ liệu về đường ở nhà và gây ra phí roaming.
 
-Bây giờ bạn có một đường dẫn dữ liệu từ travel eSIM và một số mà mọi người vẫn có thể liên lạc — không cần đổi SIM, không cần điện thoại thứ hai.
+Giờ bạn đã có một đường ống dữ liệu từ eSIM du lịch và một số ai đó vẫn gọi được — không đổi SIM, không cần máy thứ hai.
 
-## Cấu hình hai đường truyền của bạn cho du lịch
+## Cấu hình hai đường cho chuyến đi
 
-- **Đường thoại mặc định:** giữ SIM nhà để cuộc gọi và iMessage vẫn ở số thường của bạn.
-- **Dữ liệu di động:** trỏ cái này vào travel eSIM.
-- **Cho phép chuyển đổi dữ liệu di động:** để **TẮT**. Với nó bật, một lần suy giảm tín hiệu ngắn có thể chuyển dữ liệu sang đường nhà và kích hoạt phí chuyển vùng hàng ngày.
-- **Chuyển vùng Dữ liệu:** TẮT trên SIM nhà, BẬT cho travel eSIM (travel eSIM cần nó để đến mạng đối tác).
+- **Default Voice Line:** giữ SIM ở nhà để cuộc gọi và iMessage nằm trên số quen thuộc.
+- **Cellular Data:** trỏ mục này về eSIM du lịch.
+- **Allow Cellular Data Switching:** để **TẮT**. Nếu bật, một lần chập chờn sóng ngắn có thể lật dữ liệu về đường ở nhà và gây ra phí roaming hằng ngày.
+- **Data Roaming:** TẮT trên SIM ở nhà, BẬT cho eSIM du lịch (eSIM du lịch cần nó để kết nối các mạng đối tác).
 
-Nếu vạch sóng hiển thị nhưng trang không tải, đó thường là vấn đề APN — bảng APN đầy đủ nằm trong [hướng dẫn xử lý sự cố chuyên sâu](/faq/esim-deep-troubleshooting-guide-2026/).
+Nếu cột sóng hiện đầy nhưng trang không tải được, thường là vấn đề APN — bảng APN đầy đủ nằm trong [hướng dẫn xử lý sự cố chuyên sâu](/faq/esim-deep-troubleshooting-guide-2026/).
 
-## "Add eSIM" bị mờ hoặc "Add Cellular Plan" bị thiếu
+## "Add eSIM" bị mờ, hoặc mất "Add Cellular Plan"
 
-Nếu tùy chọn bị mờ hoặc đơn giản không có ở đó, điều gì đó ở phía trên đang chặn nó. Dưới đây là các nguyên nhân, phổ biến nhất trước.
+Nếu tùy chọn bị mờ hoặc đơn giản không tồn tại, có thứ gì đó phía thượng nguồn đang chặn nó. Đây là các nguyên nhân, phổ biến nhất xếp trước.
 
-| Nguyên nhân | Cách nhận biết | Cách khắc phục |
+| Nguyên nhân | Cách nhận biết | Cách sửa |
 |---|---|---|
-| iPhone bị khóa nhà mạng | Cài đặt > Cài đặt chung > Giới thiệu > Carrier Lock không hiển thị "No SIM restrictions" | Mở khóa qua nhà mạng của bạn hoặc sử dụng eSIM của chính nhà mạng đó |
-| Nhà mạng không cung cấp eSIM | Nhà mạng của bạn chỉ cấp SIM vật lý | Chuyển nhà mạng hoặc sử dụng travel eSIM cho dữ liệu |
-| Khe eSIM đã đầy | iPhone 13+ giữ hai eSIM hoạt động; XS–12 giữ một | Tắt hoặc xóa một đường hiện có để giải phóng khe |
-| MDM / hồ sơ doanh nghiệp | Điện thoại công việc có hồ sơ quản lý được cài đặt | Hạn chế `AllowESIMModification` chặn thay đổi — liên hệ IT |
-| Mẫu Trung Quốc / Hồng Kông | Số kiểu kết thúc bằng hậu tố Trung Quốc, không có phần cứng eSIM | eSIM không có sẵn trên iPhone Trung Quốc đại lục |
-| Lỗi phần mềm | Bản cập nhật iOS gần đây khiến menu bị lỗi | Khởi động lại, sau đó kiểm tra lại |
+| iPhone bị khóa nhà mạng | Settings > General > About > Carrier Lock không ghi "No SIM restrictions" | Mở khóa qua nhà mạng, hoặc dùng eSIM của chính nhà mạng khóa máy |
+| Nhà mạng không cung cấp eSIM | Nhà mạng của bạn chỉ phát hành SIM vật lý | Đổi nhà mạng, hoặc dùng eSIM du lịch cho dữ liệu |
+| Các khe eSIM đã đầy | iPhone 13+ giữ hai eSIM hoạt động; XS–12 giữ một | Tắt hoặc gỡ một đường hiện có để giải phóng khe |
+| Hồ sơ MDM / công ty | Điện thoại công ty có hồ sơ quản lý được cài | Ràng buộc `AllowESIMModification` chặn mọi thay đổi — liên hệ IT |
+| Mẫu Trung Quốc / Hồng Kông | Số mẫu kết thúc bằng hậu tố riêng của Trung Quốc, không có phần cứng eSIM | eSIM không khả dụng trên iPhone Trung Quốc đại lục |
+| Lỗi phần mềm | Một bản cập nhật iOS gần đây để menu bị treo | Khởi động lại, rồi kiểm tra lại |
 
-Nguyên nhân lớn nhất là khóa nhà mạng — nó chiếm đa số các yêu cầu "tại sao tôi không thể thêm eSIM". Nguyên nhân thứ hai là cố gắng thêm đường truyền thứ ba trên điện thoại chỉ cho phép hai hoạt động.
+Nguyên nhân lớn nhất là khóa nhà mạng — nó chiếm phần lớn các ticket "tại sao tôi không thêm được eSIM". Nguyên nhân thứ hai là cố thêm đường thứ ba trên một chiếc máy chỉ cho phép hai đường hoạt động.
 
-## Còn Apple Watch và iPad thì sao?
+## Apple Watch và iPad thì sao?
 
-Apple Watch phản chiếu một trong các đường truyền của iPhone — nó không thể tự sử dụng travel eSIM — và iPad di động sử dụng đường dẫn Cài đặt > Dữ liệu di động riêng. Chi tiết đầy đủ có trong [hướng dẫn eSIM iPad & Apple Watch](/faq/ipad-apple-watch-esim-support-guide/).
+Một chiếc Apple Watch nhân bản một trong các đường của iPhone — nó không thể tự dùng eSIM du lịch — còn iPad bản cellular dùng đường Settings > Cellular Data riêng. Chi tiết đầy đủ nằm trong [hướng dẫn eSIM cho iPad & Apple Watch](/faq/ipad-apple-watch-esim-support-guide/).
 
-## Quản lý nhiều eSIM trên iPhone
+## Quản lý nhiều eSIM trên iPhone của bạn
 
-Khi bạn đã cài đặt hai hoặc ba hồ sơ, một chút sắp xếp giữ cho chúng không trở thành một đống hỗn độn.
+Khi bạn đã cài hai hay ba hồ sơ, một chút dọn dẹp sẽ giữ chúng khỏi biến thành một đống rối loạn.
 
-- **Đặt nhãn cho mọi đường truyền.** Cài đặt > Di động > một đường > Cellular Plan Label. "Home," "Roami Travel," và "Spain eSIM" tốt hơn các giá trị mặc định ("Primary," "Secondary," "Travel").
-- **Bật hoặc tắt đường truyền.** Cài đặt > Di động > một đường > Turn On This Line. Tắt có nghĩa là nó ngừng cố gắng đăng ký — tiện lợi cho một travel eSIM không hoạt động mà bạn dự định tái sử dụng trong chuyến đi tiếp theo.
-- **Chuyển đường dữ liệu ngay lập tức.** Cài đặt > Di động > Dữ liệu di động cho phép bạn chuyển dữ liệu giữa các đường mà không cần khởi động lại.
-- **Theo dõi giới hạn đường truyền hoạt động.** iPhone 13 trở lên cho phép hai đường truyền hoạt động cùng lúc; hồ sơ thứ ba có thể được *lưu trữ* nhưng không hoạt động cho đến khi bạn tắt một đường.
-- **Xóa khi hoàn thành.** Sau chuyến đi, hãy xóa travel eSIM đã hết hạn (Cài đặt > Di động > đường > Delete eSIM) để nó ngừng làm hỗn độn danh sách — nhưng chỉ khi gói đã hết hạn, vì mã QR chỉ sử dụng một lần.
+- **Đặt tên cho mọi đường.** Settings > Cellular > một đường > Cellular Plan Label. "Home," "Roami Travel," và "Spain eSIM" sẽ hơn hẳn các tên mặc định ("Primary," "Secondary," "Travel").
+- **Bật hoặc tắt các đường.** Settings > Cellular > một đường > Turn On This Line. Tắt nghĩa là nó ngừng cố đăng ký — rất tiện cho một eSIM du lịch "ngủ đông" mà bạn định dùng lại chuyến sau.
+- **Đổi đường dữ liệu tức thì.** Settings > Cellular > Cellular Data cho phép bạn chuyển dữ liệu giữa các đường mà không cần khởi động lại.
+- **Chú ý giới hạn số đường hoạt động.** iPhone 13 trở lên cho phép hai đường hoạt động cùng lúc; hồ sơ thứ ba có thể được *lưu* nhưng sẽ không hoạt động cho đến khi bạn tắt một đường khác.
+- **Xóa khi xong việc.** Sau chuyến đi, hãy gỡ eSIM du lịch đã hết hạn (Settings > Cellular > đường đó > Delete eSIM) để nó ngừng làm rối danh sách — nhưng chỉ khi gói đã hết hạn, vì mã QR chỉ dùng một lần.
 
-## eSIM, sao lưu iCloud và xóa iPhone
+## eSIM, bản sao lưu iCloud, và việc xóa sạch iPhone
 
-Một điều hầu hết mọi người học một cách khó khăn: **eSIM không phải là một phần của bản sao lưu iCloud của bạn.** Khôi phục từ bản sao lưu sẽ đưa lại ứng dụng, cài đặt và ảnh — nhưng không đưa lại hồ sơ di động. Các hồ sơ sống trên chip eUICC của điện thoại và chỉ có ba thứ di chuyển chúng: Quick Transfer, cấp lại của nhà mạng hoặc tải lại từ nhà cung cấp.
+Một điều mà đa số mọi người phải học theo cách khó khăn: **eSIM không nằm trong bản sao lưu iCloud của bạn.** Khôi phục từ bản sao lưu sẽ trả lại ứng dụng, cài đặt và ảnh — nhưng không trả lại các hồ sơ di động. Các hồ sơ nằm trên chip eUICC của máy, và chỉ ba thứ có thể di chuyển chúng: Quick Transfer, việc nhà mạng cấp lại, hoặc tải lại từ nhà cung cấp.
 
-Hậu quả thực tế:
+Hệ quả thực tiễn:
 
-- **"Xóa tất cả nội dung và cài đặt" xóa eSIM của bạn.** Trước khi xóa (để bán, đổi mới hoặc sửa lỗi), hãy biết rằng bạn sẽ cần tải lại từng eSIM sau đó — và travel eSIM với mã QR dùng một lần có thể yêu cầu một gói hoàn toàn mới.
-- **Khôi phục iCloud bình thường sẽ không xóa hoặc khôi phục eSIM.** Khôi phục về *cùng* điện thoại để nguyên eSIM của bạn; khôi phục về điện thoại *mới* vẫn yêu cầu Quick Transfer hoặc cấp lại từ nhà mạng cho các đường truyền.
-- **Sao lưu sẽ không giải cứu eSIM bị mất.** Nếu bạn xóa hoặc làm hỏng điện thoại, hồ sơ biến mất cho đến khi nhà mạng cấp lại nó. Lưu chuỗi nhập thủ công của nhà cung cấp (địa chỉ SM-DP+ + mã kích hoạt) ở một nơi tách biệt khỏi điện thoại.
+- **"Erase All Content and Settings" sẽ xóa các eSIM của bạn.** Trước khi xóa máy (để bán, thu đổi, hoặc sửa lỗi), hãy biết rằng bạn sẽ phải tải lại từng eSIM sau đó — và các eSIM du lịch với mã QR dùng một lần có thể đòi hỏi một gói hoàn toàn mới.
+- **Khôi phục iCloud bình thường không xóa cũng không khôi phục eSIM.** Khôi phục trên *chính* máy đó giữ nguyên eSIM của bạn; khôi phục trên một *máy mới* vẫn đòi hỏi Quick Transfer hoặc nhà mạng cấp lại cho các đường.
+- **Bản sao lưu không cứu được một eSIM đã mất.** Nếu bạn xóa sạch hay làm hỏng máy, hồ sơ sẽ biến mất cho đến khi nhà mạng cấp lại. Hãy lưu các chuỗi nhập tay của nhà cung cấp (địa chỉ SM-DP+ + mã kích hoạt) ở nơi nào đó tách biệt với điện thoại.
 
-## Lỗi iPhone phổ biến (và nơi sửa chúng)
+## Các lỗi eSIM phổ biến trên iPhone
 
-Các lỗi thường gặp nhất — "Cellular Plan Cannot Be Added," kẹt "Activating," "No Service" sau khi cài đặt — được đề cập theo từng lỗi, với giá trị APN, trong [Hướng dẫn Xử lý sự cố eSIM Chuyên sâu](/faq/esim-deep-troubleshooting-guide-2026/). Nguyên nhân lớn nhất là điện thoại bị khóa nhà mạng; nguyên nhân thứ hai là Chuyển vùng Dữ liệu bị tắt trên travel eSIM.
+Những lỗi thường gặp nhất — "Cellular Plan Cannot Be Added," kẹt "Activating," "No Service" sau khi cài — được xử lý từng lỗi một, kèm giá trị APN, trong [Hướng dẫn xử lý sự cố eSIM chuyên sâu](/faq/esim-deep-troubleshooting-guide-2026/). Nguyên nhân lớn nhất là điện thoại bị khóa nhà mạng; nguyên nhân thứ hai là quên bật Data Roaming trên eSIM du lịch.
 
 ## Câu hỏi thường gặp
 
-**Tôi có thể lưu trữ bao nhiêu eSIM trên iPhone?**
-Tám hồ sơ trở lên, mặc dù chỉ có hai có thể hoạt động cùng lúc (iPhone 13 trở lên). Các mẫu cũ hơn (XS–12) giữ một eSIM hoạt động cộng với một SIM vật lý.
+**Tôi có thể lưu bao nhiêu eSIM trên iPhone?**
+Tám hồ sơ trở lên, dù chỉ hai có thể hoạt động cùng lúc (iPhone 13 trở lên). Các mẫu cũ hơn (XS–12) giữ một eSIM hoạt động cộng một SIM vật lý.
 
 **Tôi có thể xóa eSIM sau chuyến đi không?**
-Có — Cài đặt > Di động > eSIM > Delete eSIM sau khi gói đã hết hạn. Không bao giờ xóa giữa chuyến đi: mã QR chỉ sử dụng một lần, vì vậy bạn sẽ cần một gói mới.
+Có — Settings > Cellular > eSIM đó > Delete eSIM khi gói đã hết hạn. Tuyệt đối không xóa giữa chuyến đi: mã QR chỉ dùng một lần, nên bạn sẽ cần gói mới.
 
-**eSIM có làm hao pin iPhone không?**
-Không đáng kể. Hai đường truyền hoạt động trong khu vực tín hiệu yếu có thể tiêu thụ thêm một hoặc hai phần trăm mỗi ngày, nhưng một eSIM đơn lẻ tiêu thụ khoảng tương tự như một SIM vật lý.
+**eSIM có làm hao pin iPhone của tôi không?**
+Không đáng kể. Hai đường hoạt động trong vùng sóng yếu có thể thêm một đến hai phần trăm mỗi ngày, nhưng riêng eSIM tiêu tốn khoảng bằng SIM vật lý.
 
-**Tôi có cần bật Chuyển vùng Dữ liệu cho travel eSIM trên iPhone không?**
-Có — nó được yêu cầu để eSIM đăng ký trên mạng đối tác và nó không thêm phí chuyển vùng. Thiếu điều này là nguyên nhân #1 của "No Service."
+**Tôi có cần bật Data Roaming cho eSIM du lịch trên iPhone không?**
+Có — bắt buộc để eSIM đăng ký lên các mạng đối tác, và nó không thêm phí roaming. Bỏ sót bước này là nguyên nhân số một của "No Service".
 
-**Tôi có thể sử dụng SIM vật lý và eSIM cùng nhau trên iPhone không?**
-Có — SIM kép hoạt động ngay lập tức. (iPhone Mỹ 14 trở lên chỉ dùng eSIM, vì vậy bạn sẽ ghép hai eSIM thay thế.) Xem [trung tâm tương thích iPhone](/faq/iphone-11-esim-compatible/) để biết SIM kép hoạt động như thế nào.
+**Tôi có thể dùng SIM vật lý và eSIM cùng lúc trên iPhone không?**
+Có — dual SIM hoạt động ngay khi xuất xưởng. (iPhone Mỹ từ 14 trở lên chỉ dùng eSIM, nên bạn sẽ ghép hai eSIM thay thế.) Xem [trung tâm tương thích iPhone](/faq/iphone-11-esim-compatible/) để hiểu dual SIM hoạt động thế nào.
 
-**Sự khác biệt giữa eSIM và SIM vật lý là gì?**
-Phiên bản ngắn gọn: eSIM là một hồ sơ kỹ thuật số bạn không thể tháo ra và nó chuyển nhà mạng ngay lập tức. So sánh đầy đủ có trong [eSIM là gì?](/faq/what-is-esim/).
+**eSIM và SIM vật lý khác nhau thế nào?**
+Tóm gọn: eSIM là một hồ sơ kỹ thuật số không thể tháo rời, và nó đổi nhà mạng tức thì. So sánh đầy đủ nằm trong [eSIM là gì?](/faq/what-is-esim/).
 
-**Tôi có thể chuyển SIM vật lý sang eSIM trên iPhone không?**
-Nếu nhà mạng của bạn hỗ trợ, có — Cài đặt > Di động > đường của bạn > Chuyển sang eSIM. Ba nhà mạng lớn của Mỹ hỗ trợ; nhiều MVNO thì không. Điện thoại của bạn cần ở trên mạng của nhà mạng đó để chuyển đổi.
+**Tôi có thể chuyển SIM vật lý thành eSIM trên iPhone không?**
+Nếu nhà mạng của bạn hỗ trợ, thì có — Settings > Cellular > đường của bạn > Convert to eSIM. Ba hãng lớn của Mỹ hỗ trợ; nhiều MVNO thì không. Điện thoại của bạn phải đang trên mạng của nhà mạng đó để chuyển đổi.
 
-**Tại sao "Add eSIM" bị mờ trên iPhone của tôi?**
-Thường là khóa nhà mạng, khe eSIM đầy hoặc hồ sơ MDM doanh nghiệp chặn thay đổi. Kiểm tra Cài đặt > Cài đặt chung > Giới thiệu > Carrier Lock trước — nếu nó không hiển thị "No SIM restrictions," đó là câu trả lời của bạn.
+**Vì sao "Add eSIM" bị mờ trên iPhone của tôi?**
+Thường là do khóa nhà mạng, khe eSIM đã đầy, hoặc hồ sơ MDM công ty chặn thay đổi. Kiểm tra Settings > General > About > Carrier Lock trước — nếu nó không ghi "No SIM restrictions", đó chính là câu trả lời.
 
-**Điều gì xảy ra với eSIM của tôi nếu tôi xóa iPhone?**
-"Xóa tất cả nội dung và cài đặt" xóa hồ sơ eSIM. Bạn sẽ cần tải lại chúng từ nhà mạng sau đó. Travel eSIM với mã QR dùng một lần có thể yêu cầu gói mới, vì vậy chỉ xóa khi bạn sẵn sàng thiết lập lại mọi thứ.
+**Điều gì xảy ra với eSIM của tôi nếu tôi xóa sạch iPhone?**
+"Erase All Content and Settings" sẽ xóa các hồ sơ eSIM. Bạn sẽ phải tải lại chúng từ nhà mạng sau đó. eSIM du lịch với mã QR dùng một lần có thể cần gói mới, nên chỉ xóa máy khi bạn sẵn sàng cài lại mọi thứ.
 
 **Quick Transfer có hoạt động nếu tôi không còn iPhone cũ không?**
-Không — nó cần cả hai điện thoại có mặt và bật. Nếu iPhone cũ của bạn đã bán, mất hoặc đặt lại, hãy yêu cầu nhà mạng cấp lại eSIM. Xem [hướng dẫn chuyển](/faq/how-to-transfer-esim-between-iphone-and-android/).
+Không — nó cần cả hai máy có mặt và đang bật. Nếu iPhone cũ đã bán, mất, hoặc bị reset, hãy nhờ nhà mạng cấp lại eSIM thay thế. Xem [hướng dẫn chuyển eSIM](/faq/how-to-transfer-esim-between-iphone-and-android/).
 
-**Tôi có thể tạm dừng travel eSIM trên iPhone giữa các chuyến đi không?**
-Bạn không thể tạm dừng đồng hồ thời hạn của gói, nhưng bạn có thể tắt đường truyền (Cài đặt > Di động > đường > Turn On This Line) để nó ngừng đăng ký và ngừng tiêu hao pin. Nó vẫn được lưu trữ và sẵn sàng để bật lại trong chuyến đi tiếp theo — miễn là cửa sổ thời hạn của gói chưa kết thúc.
+**Tôi có thể tạm dừng eSIM du lịch trên iPhone giữa các chuyến đi không?**
+Bạn không thể tạm dừng đồng hồ thời hạn của gói, nhưng có thể tắt đường đó (Settings > Cellular > đường đó > Turn On This Line) để nó ngừng đăng ký và ngừng tốn pin. Nó vẫn được lưu trữ và sẵn sàng bật lại chuyến sau — miễn là khung thời hạn của gói chưa kết thúc.
 
 ---
 
-## Sẵn sàng cho chuyến phiêu lưu tiếp theo của bạn?
+## Sẵn sàng cho chuyến phiêu lưu tiếp theo?
 
-👉 **Dùng thử miễn phí trước** — nhận [eSIM miễn phí](/free-esim/) và chạy hướng dẫn này từ đầu đến cuối. Sau đó chọn điểm đến của bạn: [eSIM cho Mỹ](/united-states-esim/), [Nhật Bản](/japan-esim/), [Châu Âu](/europe-esim/) hoặc [Anh](/united-kingdom-esim/).
+👉 **Dùng thử miễn phí trước** — lấy một [eSIM miễn phí](/free-esim/) và chạy hết hướng dẫn này từ đầu đến cuối.
 
-*Dựa trên tài liệu chính thức của Apple, tiêu chuẩn GSMA và thử nghiệm nhà mạng. Cập nhật: Tháng 8 năm 2026.*
+Sau đó chọn điểm đến của bạn:
 
-## Nguồn
+- [eSIM cho nước Mỹ](/united-states-esim/)
+- [eSIM cho Nhật Bản](/japan-esim/)
+- [eSIM cho châu Âu](/europe-esim/)
+- [eSIM cho nước Anh](/united-kingdom-esim/)
 
-- [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
-- [Apple Support — eSIM on iPhone](https://support.apple.com/en-us/108072)
+*Dựa trên tài liệu chính thức của Apple, tiêu chuẩn GSMA và thử nghiệm thực tế với các nhà mạng. Cập nhật: tháng 9 năm 2026.*
+
+## Nguồn tham khảo
+
+- [GSMA — đặc tả eSIM (SGP.22)](https://www.gsma.com/esim/)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
 - [Apple Support — About eSIM on iPhone](https://support.apple.com/en-us/HT209044)
+- [Apple Support — Use Dual SIM with an eSIM](https://support.apple.com/en-us/HT209086)

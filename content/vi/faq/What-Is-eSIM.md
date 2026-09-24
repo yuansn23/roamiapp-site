@@ -1,12 +1,13 @@
 ---
-title: "eSIM là gì? Tạm biệt thẻ SIM vật lý bị mất"
-h1_title: "eSIM là gì và tại sao nó loại bỏ nhu cầu sử dụng thẻ SIM vật lý"
-description: "Mệt mỏi với những thẻ SIM nhỏ xíu? Tìm hiểu cách eSIM hoạt động trên iPhone và Android, và tại sao nó an toàn hơn, dễ dàng hơn và là tương lai của kết nối du lịch."
-image: "/img/esim/esim-travel.jpg"
-keywords: ["eSIM là gì", "eSIM hoạt động như thế nào", "eSIM so với SIM vật lý", "định nghĩa eSIM", "lợi ích eSIM", "thẻ SIM nhúng", "hướng dẫn eSIM cho người mới bắt đầu", "dual eSIM", "eSIM toàn cầu", "eSIM cho du lịch", "ưu và nhược điểm eSIM", "esim cho người mới bắt đầu", "công nghệ eSIM giải thích"]
-date: 2026-09-06T10:00:00Z
-lastmod: 2026-09-06T00:00:00Z
-tags: ["eSIM", "iOS", "Android", "Khắc phục sự cố", "Thiết lập du lịch", "iPhone 16"]
+title: "eSIM là gì? Nói lời tạm biệt với những chiếc SIM bị thất lạc"
+h1_title: "eSIM là gì và tại sao nó loại bỏ nhu cầu dùng thẻ SIM vật lý"
+description: "Chán ngấy những chiếc SIM tí hon? Tìm hiểu cách eSIM hoạt động trên iPhone và Android, cũng như lý do vì sao nó an toàn hơn, dễ dùng hơn và là tương lai của kết nối khi đi du lịch."
+image: "/img/faq/what-is-esim.webp"
+image-1: "/img/faq/what-is-esim-1.jpg"
+keywords: ["what is eSIM", "how does eSIM work", "eSIM vs physical SIM", "eSIM definition", "eSIM benefits", "embedded SIM card", "eSIM beginner guide", "dual eSIM", "global eSIM", "eSIM for travel", "eSIM pros and cons", "esim for beginners", "eSIM technology explained"]
+date: 2026-09-22T00:00:00Z
+lastmod: 2026-09-22T00:00:00Z
+tags: ["eSIM", "iOS", "Android", "Troubleshooting", "Travel Setup", "iPhone 16"]
 toc: true
 
 # Site & SEO
@@ -16,7 +17,7 @@ publisher_logo: "/img/logo.png"
 
 # UI text translations
 ui_text:
-  updated_on: "Cập nhật ngày"
+  updated_on: "Cập nhật vào"
   min_read: "phút đọc"
   toc: "Mục lục"
 
@@ -66,10 +67,10 @@ sidebar_popular:
 
 # Sidebar: Free eSIM offers
 sidebar_free:
-  title: "Nhận eSIM Miễn phí"
+  title: "Nhận eSIM miễn phí"
   icon: "🎁"
-  item_suffix: "eSIM Miễn phí"
-  item_subtitle: "eSIM Miễn phí"
+  item_suffix: "eSIM miễn phí"
+  item_subtitle: "eSIM miễn phí"
   items:
     - name: "eSIM Anh"
       flag: "/img/flags/gb.svg"
@@ -92,7 +93,7 @@ sidebar_questions:
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "Cách kích hoạt eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Cách kích hoạt eSIM trên iPhone (Tất cả các model)?"
+    - question: "Cách kích hoạt eSIM trên iPhone (mọi dòng máy)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Danh sách tương thích eSIM mới nhất"
       url: "/compatibility/"
@@ -100,206 +101,212 @@ sidebar_questions:
 
 
 
-> **Lưu ý của biên tập viên:** Roami là thương hiệu đứng sau hướng dẫn này. Bài giải thích này dựa trên tài liệu chính thức của Apple, thông số kỹ thuật eSIM của GSMA (SGP.22) và kinh nghiệm của nhóm chúng tôi trong việc kích hoạt eSIM cho hơn 500.000 du khách tại 190+ quốc gia. Nó được viết cho những người hoàn toàn mới bắt đầu — không có thuật ngữ chuyên ngành, chỉ là eSIM thực sự là gì và tại sao nó quan trọng.
+> **Lưu ý của biên tập viên:** eSIM là một SIM kỹ thuật số được tích hợp sẵn trong điện thoại của bạn, thay thế cho chiếc thẻ nhựa có thể tháo rời — nó lưu hồ sơ nhà mạng của bạn dưới dạng phần mềm và cho phép bạn chuyển đổi gói cước mà không cần thay thẻ. Bài viết giải thích này dựa trên tài liệu chính thức của Apple và đặc tả eSIM của GSMA (SGP.22), được viết dành cho người mới hoàn toàn. Đọc hết bài, bạn sẽ hiểu chính xác eSIM là gì và liệu mình có cần nó hay không.
 
-**eSIM** (SIM nhúng) là một SIM kỹ thuật số nằm bên trong điện thoại của bạn thay vì trong một khay nhựa. Nếu bạn đã mua iPhone mới gần đây hoặc đang lên kế hoạch cho chuyến đi nước ngoài, bạn gần như chắc chắn đã bắt gặp thuật ngữ này — và đó là một nâng cấp đơn giản hơn nhiều so với những gì nó nghe có vẻ.
+Một **eSIM** (embedded SIM – SIM nhúng) là một SIM kỹ thuật số nằm ngay bên trong điện thoại thay vì trong một khay nhựa. Nếu gần đây bạn vừa mua iPhone mới hoặc đang chuẩn bị đi du lịch nước ngoài, hầu như chắc chắn bạn đã từng nghe đến thuật ngữ này — và nó là một bước nâng cấp đơn giản hơn nhiều so với những gì nó nghe ra.
 
 ## eSIM là gì?
 
-"e" trong eSIM là viết tắt của **embedded** (nhúng). Nó thực hiện cùng công việc như SIM nhựa bạn đã sử dụng trong nhiều năm — xác định thiết bị của bạn với mạng của nhà mạng để bạn có thể gọi, nhắn tin và sử dụng dữ liệu — ngoại trừ không có thẻ nào để lắp, đẩy ra hoặc làm mất. SIM tồn tại hoàn toàn như phần mềm được lưu trữ trên một con chip nhỏ, chống giả mạo được hàn trực tiếp lên bo mạch chủ của điện thoại.
+Chữ "e" trong eSIM là viết tắt của **embedded** (nhúng). Nó thực hiện đúng công việc mà chiếc SIM nhựa bạn đã dùng bao năm nay vẫn làm — xác nhận danh tính thiết bị của bạn với mạng của nhà mạng để bạn có thể gọi điện, nhắn tin và dùng dữ liệu — nhưng không còn tấm thẻ nào để lắp, lấy ra hay làm mất. SIM khi này chỉ tồn tại dưới dạng phần mềm lưu trên một chip nhỏ bé, chống can thiệp, được hàn gắn vào bo mạch chủ của điện thoại.
 
-Chip đó được gọi là **eUICC** (embedded Universal Integrated Circuit Card). Hãy nghĩ về nó như một kho lưu trữ kỹ thuật số an toàn: thay vì giữ một thẻ vật lý, nó có thể lưu trữ nhiều hồ sơ nhà mạng có thể tải xuống và chuyển đổi giữa chúng theo yêu cầu.
+Chiip đó được gọi là **eUICC** (embedded Universal Integrated Circuit Card – thẻ mạch tích hợp phổ thông nhúng). Hãy hình dung nó như một két sắt kỹ thuật số an toàn: thay vì chỉ giữ một thẻ vật lý, nó có thể lưu nhiều hồ sơ nhà mạng tải về được và chuyển đổi giữa chúng theo nhu cầu.
 
-Mọi người gọi cùng một công nghệ bằng nhiều tên khác nhau — "eSIM", "e-SIM", "e-sim", "e.sim", "SIM ảo", "thẻ SIM kỹ thuật số" hoặc đơn giản là "esim" viết thường. Tất cả đều có nghĩa là SIM nhúng giống hệt nhau; chỉ có cách viết khác nhau. Một số người nói "thẻ eSIM" theo thói quen, nhưng điều đó hơi gây hiểu lầm, vì không có thẻ nào được trao cho bạn — chỉ là một hồ sơ kỹ thuật số được tải xuống chip.
+Mọi người gọi cùng một công nghệ này bằng nhiều tên khác nhau — "eSIM," "e-SIM," "e-sim," "e.sim," "virtual SIM," "digital SIM card," hay đơn giản là "esim" viết thường. Tất cả đều chỉ cùng một SIM nhúng; chỉ khác cách viết. Một số người vẫn quen miệng nói "thẻ eSIM", nhưng cách gọi đó hơi dễ gây hiểu lầm, vì chẳng có tấm thẻ nào được trao cho bạn — chỉ có một hồ sơ kỹ thuật số được tải xuống chip.
 
-Một phép so sánh hữu ích: eSIM đối với thẻ SIM giống như Apple Pay đối với thẻ tín dụng nhựa. Số vẫn là của bạn và dịch vụ vẫn hoạt động — nó chỉ đơn giản là không còn phụ thuộc vào một mảnh nhựa.
+Một phép so sánh hữu ích: eSIM đối với thẻ SIM cũng giống như Apple Pay đối với thẻ tín dụng nhựa. Số của bạn vẫn là số của bạn, dịch vụ vẫn hoạt động — chỉ là không còn phụ thuộc vào một mảnh nhựa nữa.
 
-Về mặt vật lý, hai thứ không thể khác nhau hơn. Nano-SIM — thẻ vật lý nhỏ nhất được sử dụng rộng rãi — có kích thước khoảng 12,3 mm x 8,8 mm và nằm trong một khay cần khe cắm, cơ chế lò xo và công cụ đẩy. Chip eUICC thay thế nó (trong gói MFF2 phổ biến nhất) có kích thước khoảng 6 mm x 5 mm và được hàn trực tiếp vào bảng mạch của điện thoại tại nhà máy. Không có khay, không có công cụ và không có gì có thể rơi ra khi điện thoại bị rơi. Một con chip đơn lẻ đó là một lý do khiến điện thoại chỉ dùng eSIM có thể mỏng hơn một chút và chống nước tốt hơn so với các đối tác có khay SIM.
+Về mặt vật lý, hai thứ này khác biệt hoàn toàn. Một nano-SIM — thẻ vật lý nhỏ nhất đang được sử dụng rộng rãi — có kích thước khoảng 12,3 mm x 8,8 mm và nằm trong một khay cần khe cắm, cơ chế lò xo và dụng cụ lấy SIM. Chiip eUICC thay thế nó (ở dạng đóng gói MFF2 phổ biến nhất) có kích thước khoảng 6 mm x 5 mm và được hàn trực tiếp vào bo mạch của điện thoại ngay tại nhà máy. Không có khay, không có dụng cụ, và không có gì có thể rơi ra khi điện thoại bị đánh rơi. Chính chip này là một trong những lý do khiến các dòng điện thoại chỉ dùng eSIM có thể mỏng hơn một chút và chống nước tốt hơn một chút so với các dòng máy có khay SIM.
 
-## Các thuật ngữ eSIM: Ý nghĩa của mỗi tên
+## Các thuật ngữ về eSIM
 
-Mọi người viết tên theo ít nhất một tá cách khác nhau, và một vài từ liên quan cũng được sử dụng. Dưới đây là ý nghĩa thực sự của từng thuật ngữ:
+Mọi người viết tên này theo ít nhất một chục cách khác nhau, và một vài từ liên quan cũng hay bị dùng lẫn lộn. Dưới đây là ý nghĩa thực sự của từng từ:
 
 | Thuật ngữ | Ý nghĩa |
 |---|---|
-| **eSIM** | Cách viết chính thức, được ưu tiên sử dụng bởi Apple, Google, Samsung và GSMA. |
-| **e-SIM / e.sim / e-sim** | Cùng một công nghệ, có dấu gạch nối hoặc dấu chấm. Không khác biệt về ý nghĩa. |
-| **SIM nhúng** | Bản dịch nghĩa đen — "nhúng" vì SIM được tích hợp vào điện thoại tại nhà máy. |
-| **SIM kỹ thuật số / SIM ảo** | Các thuật ngữ tiếp thị nhấn mạnh không có thẻ vật lý. Tất cả đều đề cập đến eSIM. |
-| **eUICC** | Chip thực tế (embedded Universal Integrated Circuit Card) lưu trữ các hồ sơ. eSIM là *khái niệm*; eUICC là *phần cứng* mà nó chạy trên đó. |
-| **Hồ sơ SIM** | Danh tính nhà mạng có thể tải xuống — số, gói và khóa bảo mật của bạn — được lưu trữ trên eUICC. Một chip, nhiều hồ sơ. |
-| **"Thẻ eSIM"** | Một thói quen còn sót lại từ thời kỳ SIM nhựa. Hơi gây hiểu lầm, vì không có gì vật lý được trao cho bạn. |
+| **eSIM** | Cách viết chính thức, được ưa chuộng bởi Apple, Google, Samsung và GSMA. |
+| **e-SIM / e.sim / e-sim** | Cùng một công nghệ, viết có gạch nối hoặc dấu chấm. Không khác nhau về ý nghĩa. |
+| **embedded SIM** | Nghĩa dịch nguyên văn — "embedded" (nhúng) vì SIM được lắp sẵn vào điện thoại ngay tại nhà máy. |
+| **digital SIM / virtual SIM** | Các thuật ngữ tiếp thị nhấn mạnh việc không có thẻ vật lý. Tất cả đều chỉ eSIM. |
+| **eUICC** | Chiip thực sự (embedded Universal Integrated Circuit Card) lưu trữ các hồ sơ. eSIM là *khái niệm*; eUICC là *phần cứng* mà nó chạy trên đó. |
+| **SIM profile (hồ sơ SIM)** | Danh tính nhà mạng có thể tải về — số của bạn, gói cước và các khóa bảo mật — được lưu trên eUICC. Một chip, nhiều hồ sơ. |
+| **"thẻ eSIM"** | Thói quen còn sót lại từ thời SIM nhựa. Hơi dễ gây hiểu lầm, vì chẳng có thứ gì vật lý nào được trao cho bạn. |
 
-Một điểm khác biệt đáng nhớ: **eUICC** là chip vật lý, và **eSIM** là SIM kỹ thuật số sống trên đó. Trong giao tiếp hàng ngày, mọi người chỉ nói "eSIM."
+Điểm khác biệt đáng nhớ nhất: **eUICC** là chip vật lý, còn **eSIM** là SIM kỹ thuật số sống trên chip đó. Tuy nhiên, trong giao tiếp hàng ngày, ai cũng chỉ nói "eSIM".
 
 ## eSIM đến từ đâu?
 
-Thẻ SIM nhựa đã thu nhỏ trong hơn 30 năm, và eSIM là điểm cuối hợp lý của xu hướng đó. Thẻ SIM kích thước thẻ tín dụng gốc xuất hiện với điện thoại GSM đầu tiên vào năm 1991; mini-SIM tiếp theo vào giữa những năm 1990 là thứ mà hầu hết mọi người vẫn hình dung khi nghĩ về SIM. Dưới đây là cách thẻ tiếp tục nhỏ hơn cho đến khi biến mất hoàn toàn vào điện thoại:
+Thẻ SIM nhựa đã thu nhỏ liên tục trong hơn 30 năm, và eSIM là điểm đến hợp lý của xu hướng đó. Chiếc SIM cỡ thẻ tín dụng nguyên bản xuất hiện cùng những chiếc điện thoại GSM đầu tiên vào năm 1991; mini-SIM ra đời giữa thập niên 1990 là hình ảnh mà hầu hết mọi người vẫn nghĩ đến khi nhắc đến SIM. Dưới đây là hành trình thẻ SIM ngày càng nhỏ dần cho đến khi biến mất hoàn toàn vào bên trong điện thoại:
 
 | Thế hệ | Kích thước gần đúng | Thời kỳ |
 |---|---|---|
-| Standard SIM | 85.6 × 54 mm (kích thước thẻ tín dụng) | 1991 |
+| Standard SIM | 85,6 × 54 mm (cỡ thẻ tín dụng) | 1991 |
 | Mini-SIM | 25 × 15 mm | 1996 |
 | Micro-SIM | 15 × 12 mm | 2010 |
-| Nano-SIM | 12.3 × 8.8 mm | 2012 |
-| eSIM (eUICC) | Khoảng 6 × 5 mm, hàn vào | 2016 trở đi |
+| Nano-SIM | 12,3 × 8,8 mm | 2012 |
+| eSIM (eUICC) | Khoảng 6 × 5 mm, hàn gắn bên trong | Từ 2016 trở đi |
 
-eSIM như một tiêu chuẩn tiêu dùng lần đầu xuất hiện vào năm 2016, khi GSMA công bố thông số kỹ thuật Remote SIM Provisioning (SGP.22). Đồng hồ thông minh Samsung Gear S2 là một trong những thiết bị đầu tiên sử dụng nó, và Apple đã đẩy nó vào xu hướng chính thống với iPhone XS và XR vào năm 2018. Trong chưa đầy một thập kỷ, nó đã từ một công nghệ ngách trở thành gần như mặc định.
+eSIM lần đầu xuất hiện như một tiêu chuẩn dành cho người tiêu dùng vào năm 2016, khi GSMA công bố đặc tả Remote SIM Provisioning (SGP.22). Đồng hồ thông minh Samsung Gear S2 là một trong những thiết bị đầu tiên sử dụng nó, và Apple đã đưa nó ra mainstream với iPhone XS và XR vào năm 2018. Chưa đầy một thập kỷ, nó đã đi từ hẹp sang gần như là mặc định.
 
 ## eSIM hoạt động như thế nào?
 
-Đằng sau hậu trường, eSIM tuân theo một tiêu chuẩn toàn cầu được duy trì bởi **GSMA**, tổ chức ngành đại diện cho các nhà mạng di động trên toàn thế giới. Cơ chế bao gồm một vài bộ phận:
+Ở hậu trường, eSIM tuân theo một tiêu chuẩn toàn cầu do **GSMA** — tổ chức đại diện cho các nhà mạng di động trên toàn thế giới — duy trì. Cơ chế của nó quy về vài bộ phận chính:
 
-- Một nhà mạng (hoặc nhà cung cấp eSIM như Roami) tạo ra một **hồ sơ kỹ thuật số** chứa danh tính và khóa mã hóa của gói bạn.
-- Hồ sơ đó được gửi đến điện thoại của bạn qua internet — thường được kích hoạt bởi mã QR hoặc một chạm trong ứng dụng.
-- Hồ sơ được cài đặt trên chip eUICC của điện thoại, nơi nó không thể bị xóa hoặc sao chép.
-- Từ đó, điện thoại của bạn giao tiếp với mạng bằng hồ sơ đó, giống hệt như cách nó làm với SIM vật lý.
+- Nhà mạng (hoặc một nhà cung cấp eSIM như Roami) tạo ra một **hồ sơ kỹ thuật số** chứa danh tính gói cước và các khóa mã hóa của bạn.
+- Hồ sơ đó được truyền đến điện thoại của bạn qua internet — thường được kích hoạt bằng mã QR hoặc một lần chạm trong ứng dụng.
+- Hồ sơ được cài đặt lên chip eUICC của điện thoại, nơi nó không thể bị gỡ bỏ hay sao chép.
+- Từ đó trở đi, điện thoại của bạn giao tiếp với mạng bằng hồ sơ đó, y hệt như khi dùng SIM vật lý.
 
-Khung kỹ thuật là **thông số kỹ thuật SGP.22** của GSMA — có tên chính thức là "Remote SIM Provisioning for Consumer Devices." Nó tiêu chuẩn hóa toàn bộ quá trình để iPhone và Samsung Galaxy đều có thể giao tiếp với máy chủ của bất kỳ nhà mạng nào theo cùng một cách. Ba thành phần thực hiện phần lớn công việc:
+Một điều hồ sơ không làm được là tự chuyển sang máy khác khi bạn đổi điện thoại — hãy xem cách [chuyển eSIM giữa iPhone và Android](/faq/how-to-transfer-esim-between-iphone-and-android/) thực sự hoạt động ra sao.
 
-- **SM-DP+** (Subscription Manager – Data Preparation Plus) là máy chủ an toàn của nhà mạng. Nó đóng gói gói của bạn thành một hồ sơ, mã hóa nó, gửi nó đến thiết bị của bạn qua internet và xác minh bất kỳ mã xác nhận nào mà nhà mạng gắn với gói của bạn.
-- **LPA** (Local Profile Assistant) là phần mềm đã được tích hợp sẵn trong điện thoại của bạn. Nó nhận hồ sơ được mã hóa, ghi nó vào chip eUICC và cung cấp cho bạn menu mà bạn sử dụng để bật và tắt các hồ sơ.
-- **Chip eUICC** là nơi lưu trữ an toàn. Đó là một thành phần bảo mật chống giả mạo — được đánh giá với cùng cấp độ chứng nhận bảo mật được sử dụng trong thẻ thanh toán — giữ cho mỗi hồ sơ cách ly với các hồ sơ khác.
+Khung kỹ thuật là **đặc tả SGP.22** của GSMA — tên chính thức là "Remote SIM Provisioning for Consumer Devices" (Cấp phép SIM từ xa cho thiết bị người tiêu dùng). Nó chuẩn hóa toàn bộ quá trình bắt tay để một chiếc iPhone và một chiếc Samsung Galaxy có thể giao tiếp với máy chủ của bất kỳ nhà mạng nào theo cùng một cách. Ba bộ phận đảm nhiệm phần việc nặng nhất:
 
-Chuyển đổi nhà mạng là nơi phần "phần mềm" thực sự phát huy tác dụng. Trên điện thoại SIM vật lý, thay đổi mạng thường có nghĩa là nhận thẻ mới qua thư hoặc xếp hàng tại cửa hàng. Trên điện thoại eSIM, bạn chỉ cần tải xuống một hồ sơ mới — hồ sơ cũ vẫn được lưu trữ trên chip và bạn có thể chuyển đổi giữa chúng trong Cài đặt mà không cần chạm vào khay.
+- **SM-DP+** (Subscription Manager – Data Preparation Plus) là máy chủ bảo mật của nhà mạng. Nó đóng gói gói cước của bạn thành một hồ sơ, mã hóa nó, truyền đến thiết bị của bạn qua internet và xác minh mọi mã xác nhận mà nhà mạng đính kèm với gói cước.
+- **LPA** (Local Profile Assistant) là phần mềm đã được tích hợp sẵn trong điện thoại của bạn. Nó nhận hồ sơ đã mã hóa, ghi nó lên chip eUICC và cung cấp menu để bạn bật/tắt các hồ sơ.
+- **Chip eUICC** là nơi lưu trữ bảo mật. Đây là một phần tử bảo mật chống can thiệp — đạt cấp chứng nhận bảo mật cùng loại với thẻ thanh toán — giúp mỗi hồ sơ được cách ly với các hồ sơ khác.
 
-Tóm lại, vòng đời của một hồ sơ như sau: nó được **tải xuống** một lần (qua Wi-Fi hoặc dữ liệu di động), **bật** khi bạn muốn sử dụng nó, **chuyển đổi** sang hồ sơ khác khi bạn thay đổi gói và **xóa** chỉ khi bạn không còn cần nó. Bật và tắt là tức thì, đó là lý do tại sao bạn có thể chuyển đổi giữa đường truyền trong nước và đường truyền du lịch chỉ trong vài chạm.
+Việc chuyển nhà mạng là lúc phần "phần mềm" thực sự phát huy tác dụng. Trên điện thoại dùng SIM vật lý, đổi mạng thường nghĩa là phải chờ thẻ mới gửi đến hoặc xếp hàng ở cửa hàng. Trên điện thoại dùng eSIM, bạn chỉ cần tải một hồ sơ mới — hồ sơ cũ vẫn được lưu trên chip, và bạn có thể chuyển qua lại giữa chúng trong phần Cài đặt mà không cần chạm vào khay SIM.
 
-Vì hồ sơ là phần mềm, một thiết bị có thể lưu trữ nhiều hồ sơ cùng lúc. iPhone hiện đại giữ tám hoặc nhiều hồ sơ eSIM, và nhiều điện thoại có thể giữ hai đường truyền **hoạt động cùng lúc** — ví dụ: số trong nước cộng với gói dữ liệu du lịch.
+Tóm lại, vòng đời của một hồ sơ như sau: nó được **tải xuống** một lần (qua Wi-Fi hoặc dữ liệu di động), được **bật** khi bạn muốn dùng, được **chuyển đổi** sang hồ sơ khác khi bạn đổi gói, và chỉ bị **xóa** khi bạn không còn cần đến nó. Bật và tút là tức thì, đó là lý do bạn có thể qua lại giữa số chính và số du lịch chỉ với vài lần chạm.
 
-*Quá trình kích hoạt — thời điểm thực tế hồ sơ được tải xuống và bật — là một quy trình nhanh, nhưng các bước chính xác khác nhau theo thiết bị. Để có hướng dẫn từng bước, xem hướng dẫn [Cách kích hoạt eSIM](/faq/how-to-activate-an-esim/) của chúng tôi (hoặc [phiên bản iPhone](/faq/how-to-activate-esim-on-iphone/)). Và nếu bạn muốn hiểu chính xác "kích hoạt" có nghĩa là gì trước khi bắt đầu, bài giải thích [Kích hoạt eSIM là gì?](/faq/what-is-esim-activation-and-how-does-it-work/) của chúng tôi giải thích khái niệm bằng tiếng Anh đơn giản.*
+Vì các hồ sơ là phần mềm, một thiết bị có thể lưu nhiều hồ sơ cùng lúc. Các iPhone hiện đại chứa được tám hồ sơ eSIM trở lên, và nhiều điện thoại có thể giữ hai số **đang hoạt động đồng thời** — ví dụ như một số chính ở nhà cộng với một gói dữ liệu du lịch.
 
-## eSIM so với SIM vật lý: So sánh
+*Kích hoạt — khoảnh khắc hồ sơ thực sự được tải xuống và bật lên — là một quá trình nhanh chóng, nhưng các bước cụ thể khác nhau tùy thiết bị. Để xem hướng dẫn từng bước, hãy xem hướng dẫn [Cách kích hoạt eSIM](/faq/how-to-activate-an-esim/) của chúng tôi (hoặc [phiên bản dành cho iPhone](/faq/how-to-activate-esim-on-iphone/)).*
 
-Dưới đây là cách tiêu chuẩn nhúng so sánh với thẻ nhựa bạn biết.
+*Còn nếu bạn muốn hiểu chính xác "kích hoạt" nghĩa là gì trước khi bắt đầu, bài giải thích [Kích hoạt eSIM là gì?](/faq/what-is-esim-activation-and-how-does-it-work/) của chúng tôi sẽ trình bày khái niệm này bằng ngôn ngữ dễ hiểu nhất.*
+
+## eSIM so với SIM vật lý
+
+Đây là cách tiêu chuẩn nhúng này so với tấm thẻ nhựa mà bạn quen thuộc. (Đang lên kế hoạch cho một chuyến đi cụ thể? Bài [so sánh eSIM và SIM vật lý cho nước Anh](/faq/2026-uk-travel-connectivity-esim-vs-physical-sim-guide/) của chúng tôi tính toán chi tiết cho các hành trình thực tế.)
 
 | Khía cạnh | SIM vật lý | eSIM |
 |---|---|---|
-| Hình thức | Thẻ nhựa có thể tháo rời | Phần mềm trên chip eUICC tích hợp |
-| Kích thước vật lý | Nano-SIM: 12.3 × 8.8 mm, cần khay + công cụ đẩy | Chip eUICC: khoảng 6 × 5 mm, hàn, không có gì bên ngoài |
-| Thiết lập | Lắp vào khay; một số nhà mạng cần cấp phép thêm | Tải xuống hồ sơ qua Wi-Fi bằng QR hoặc ứng dụng |
-| Thay đổi nhà mạng | Lấy và thay thẻ mới | Cài đặt hồ sơ mới trong Cài đặt |
-| Hồ sơ trên mỗi điện thoại | Một trên mỗi khe cắm | Tám hoặc nhiều hơn, bật tắt theo yêu cầu |
-| Hai đường truyền hoạt động | Yêu cầu khe dual-SIM | Dual eSIM trên iPhone 13+ và nhiều Android |
-| Độ bền | Khay và tiếp điểm có thể bị cong, oxy hóa hoặc bám bụi | Không có bộ phận chuyển động; chip được niêm phong bên trong điện thoại |
-| Mất hoặc trộm | Thẻ có thể bị đẩy ra và sử dụng lại | Không thể tháo ra; thiết bị vẫn có thể theo dõi |
-| Sao chép / Đánh cắp SIM | Có thể với công cụ rẻ tiền | Bị chặn bởi tiêu chuẩn GSMA SGP.22 |
-| Du lịch | Mua SIM địa phương khi đến nơi | Mua trước khi bay, kết nối khi hạ cánh |
+| Hình thức | Thẻ nhựa tháo rời được | Phần mềm trên chip eUICC tích hợp sẵn |
+| Kích thước vật lý | Nano-SIM: 12,3 × 8,8 mm, cần khay + dụng cụ lấy SIM | Chip eUICC: khoảng 6 × 5 mm, hàn gắn, không có bộ phận ngoài |
+| Cài đặt | Lắp vào khay; một số nhà mạng cần cấu hình thêm | Tải hồ sơ qua Wi-Fi bằng mã QR hoặc ứng dụng |
+| Đổi nhà mạng | Lấy thẻ mới và thay thẻ | Cài hồ sơ mới trong phần Cài đặt |
+| Số hồ sơ mỗi máy | Một mỗi khe SIM | Tám trở lên, bật/tắt theo nhu cầu |
+| Hai số hoạt động | Cần khe dual-SIM | Dual eSIM trên iPhone 13 trở lên và nhiều máy Android |
+| Độ bền | Khay và các tiếp điểm có thể cong, oxy hóa hoặc dính bụi | Không có bộ phận chuyển động; chip được niêm phong bên trong máy |
+| Mất cắp | Thẻ có thể bị lấy ra và sử dụng lại | Không thể tháo rời; thiết bị vẫn có thể định vị |
+| Sao chép / SIM swap | Có thể làm bằng công cụ rẻ tiền | Bị chặn bởi tiêu chuẩn GSMA SGP.22 |
+| Du lịch | Mua SIM địa phương sau khi đến nơi | Mua trước khi bay, kết nối ngay khi hạ cánh |
 | Rác thải | Nhựa, bao bì, vận chuyển | Không có |
 
-**Phiên bản ngắn:** eSIM tiện lợi hơn, an toàn hơn và linh hoạt hơn. Nhược điểm thực sự duy nhất là một số điện thoại cũ hơn và một số nhà mạng chưa hỗ trợ nó.
+**Tóm gọn:** eSIM tiện lợi hơn, an toàn hơn và linh hoạt hơn. Hạn chế thực sự duy nhất là một số điện thoại cũ và một vài nhà mạng chưa hỗ trợ nó.
 
-Một góc độ ít được chú ý là độ bền và chất thải. Khay SIM vật lý là một bộ phận cơ học — khay có thể bị cong, các tiếp điểm vàng có thể bị oxy hóa và bụi hoặc nước có thể xâm nhập. eSIM không có bộ phận chuyển động và được niêm phong bên trong điện thoại, đó là một phần lý do khiến các thiết bị chỉ dùng eSIM có thể đạt chỉ số chống nước tốt hơn. Sự khác biệt về môi trường cũng có thật: khoảng bốn đến năm tỷ thẻ SIM vật lý được sản xuất mỗi năm, mỗi thẻ là nhựa cộng với bao bì và vận chuyển. eSIM loại bỏ thẻ, khay, bao bì và xe tải giao hàng khỏi phương trình hoàn toàn.
+Một góc nhìn chưa được chú ý đủ là độ bền và rác thải. Khay SIM vật lý là một bộ phận cơ khí — khay có thể cong, các tiếp điểm mạ vàng có thể oxy hóa, và bụi hay nước có thể lọt vào bên trong. eSIM không có bộ phận chuyển động và nằm niêm phong bên trong máy, một phần lý do vì sao các thiết bị chỉ dùng eSIM đạt được chuẩn chống nước tốt hơn. Sự khác biệt về môi trường cũng có thật: mỗi năm có khoảng bốn đến năm tỷ thẻ SIM vật lý được sản xuất, mỗi chiếc là nhựa cộng thêm bao bì và vận chuyển. eSIM loại bỏ hoàn toàn thẻ nhựa, khay SIM, bao bì và xe tải giao hàng ra khỏi phương trình.
 
 ### Ưu và nhược điểm của eSIM
 
-| Lợi ích | Đánh đổi |
+| Ưu điểm | Hạn chế |
 |---|---|
-| Kích hoạt tức thì — không chờ thư | Không phải điện thoại nào cũng hỗ trợ |
+| Kích hoạt tức thì — không cần chờ gửi thư | Không phải điện thoại nào cũng hỗ trợ |
 | Không có gì vật lý để mất hoặc hỏng | Không phải nhà mạng nào cũng cung cấp |
-| Nhiều hồ sơ trên một thiết bị | Nhiều eSIM du lịch chỉ có dữ liệu |
-| Chuyển đổi nhà mạng mà không cần công cụ | Thiết lập đầu tiên cần kết nối Wi-Fi |
-| Khó đánh cắp hoặc sao chép hơn | eSIM du lịch không phải lúc nào cũng có thể chuyển sang điện thoại mới |
-| Không có rác thải nhựa | Một số thiết bị phải được mở khóa nhà mạng |
-| Dual-SIM trên hầu hết điện thoại gần đây | Một số điện thoại Trung Quốc đại lục thiếu phần cứng eSIM |
+| Nhiều hồ sơ trên cùng một thiết bị | Nhiều eSIM du lịch chỉ dùng dữ liệu |
+| Đổi nhà mạng không cần dụng cụ | Cài đặt lần đầu cần kết nối Wi-Fi |
+| Khó bị đánh cắp hoặc sao chép hơn | eSIM du lịch không phải lúc nào cũng chuyển được sang máy mới |
+| Không rác thải nhựa | Một số thiết bị phải được mở khóa nhà mạng |
+| Dual-SIM trên hầu hết các máy mới | Một số điện thoại Trung Quốc đại lục thiếu phần cứng eSIM |
 
-## Hệ sinh thái eSIM: Ai làm cho nó hoạt động
+## Hệ sinh thái eSIM
 
-eSIM không thuộc sở hữu của một công ty duy nhất. Ba nhóm hợp tác để làm cho nó hoạt động:
+eSIM không thuộc sở hữu của bất kỳ công ty nào. Ba nhóm cùng hợp tác để nó vận hành:
 
-1. **Nhà sản xuất thiết bị** (Apple, Samsung, Google và các hãng khác) xây dựng chip eUICC vào điện thoại và cung cấp phần mềm cho phép bạn quét mã và quản lý hồ sơ.
-2. **Nhà mạng di động** (AT&T, Vodafone, EE và tương tự) tạo ra các hồ sơ kỹ thuật số và vận hành các máy chủ SM-DP+ an toàn để gửi chúng đến điện thoại của bạn.
-3. **Nhà cung cấp eSIM** (Roami, Airalo và các hãng khác) không phải là nhà mạng — họ mua dữ liệu bán buôn từ nhiều mạng và đóng gói lại thành các gói du lịch dễ dàng. Đó là lý do tại sao bạn có thể sử dụng eSIM du lịch của Roami ngay cả khi nhà mạng trong nước của bạn hoàn toàn không hỗ trợ eSIM.
+1. **Nhà sản xuất thiết bị** (Apple, Samsung, Google và các hãng khác) tích hợp chip eUICC vào điện thoại và cung cấp phần mềm cho phép bạn quét mã và quản lý hồ sơ.
+2. **Nhà mạng di động** (AT&T, Vodafone, EE và tương tự) tạo ra các hồ sơ kỹ thuật số và vận hành các máy chủ bảo mật SM-DP+ để truyền chúng đến điện thoại của bạn.
+3. **Nhà cung cấp eSIM** (Roami, Airalo và các hãng khác) không phải nhà mạng — họ mua dữ liệu sỉ từ nhiều mạng lưới và đóng gói lại thành các gói du lịch dễ dùng. Đó là lý do bạn có thể dùng eSIM du lịch của Roami ngay cả khi nhà mạng ở nhà bạn hoàn toàn không hỗ trợ eSIM.
 
-## eSIM được áp dụng rộng rãi như thế nào?
+## eSIM được áp dụng rộng rãi đến mức nào?
 
-Công nghệ đã phát triển nhanh chóng. Tính đến năm 2026, hơn **350 nhà mạng tại hơn 80 quốc gia** hỗ trợ eSIM (GSMA), và con số này đã tăng hơn gấp đôi so với năm 2022. Hỗ trợ hiện là tiêu chuẩn trên các mạng lớn của Mỹ và hầu hết các nhà mạng lớn ở Châu Âu và Châu Á. Nếu nhà mạng của bạn không cung cấp eSIM hôm nay, rất có thể nó sẽ cung cấp trong vòng một hoặc hai năm tới.
+Công nghệ này đã mở rộng rất nhanh. Tính đến năm 2026, hơn **350 nhà mạng tại hơn 80 quốc gia** hỗ trợ eSIM (theo GSMA), con số này đã tăng hơn gấp đôi kể từ năm 2022. Hỗ trợ eSIM giờ đây là tiêu chuẩn trên các mạng lớn của Mỹ và hầu hết các nhà mạng lớn ở châu Âu và châu Á. Nếu nhà mạng của bạn chưa cung cấp eSIM hôm nay, rất có thể họ sẽ có trong vòng một đến hai năm tới.
 
-Về phía thiết bị, phần cứng hiện đã trở nên phổ biến. Apple đã trang bị eSIM trong mọi iPhone kể từ **iPhone XS và XR vào năm 2018**, và các model Mỹ kể từ **iPhone 14** chỉ dùng eSIM — không có khay SIM nào cả. Dòng Pixel của Google đã hỗ trợ eSIM từ **Pixel 3**, và Samsung đã tích hợp nó vào các flagship Galaxy S, Note và Z Fold/Flip kể từ thế hệ **S20**. Motorola và Huawei flagships cũng theo sau, và hàng chục Android tầm trung hiện cũng được trang bị nó.
+Ở phía thiết bị, phần cứng nay đã trở nên phổ biến. Apple đã trang bị eSIM cho mọi iPhone kể từ **iPhone XS và XR năm 2018**, và các mẫu bán tại Mỹ từ **iPhone 14** trở đi chỉ dùng eSIM — hoàn toàn không có khay SIM. Dòng Pixel của Google đã hỗ trợ eSIM kể từ **Pixel 3**, và Samsung đã tích hợp nó vào các flagship Galaxy S, Note và Z Fold/Flip từ thế hệ **S20**. Các flagship Motorola và Huawei cũng lần lượt theo sau, và hàng chục mẫu Android tầm trung nay cũng được trang bị sẵn.
 
-Về phía nhà mạng, eSIM có sẵn từ các mạng lớn trên khắp Mỹ, Canada, Anh, hầu hết Tây Âu, Úc, Nhật Bản, Hàn Quốc và phần lớn Đông Nam Á — và danh sách tăng lên hàng quý. Để biết chính xác các model điện thoại và danh sách từng nhà mạng, xem [Danh sách tương thích eSIM](/compatibility/) của chúng tôi — trang đó luôn được cập nhật.
+Ở phía nhà mạng, eSIM hiện có sẵn từ các mạng lớn trên khắp nước Mỹ, Canada, Anh, phần lớn Tây Âu, Úc, Nhật Bản, Hàn Quốc và phần lớn Đông Nam Á — và danh sách này cứ mỗi quý lại dài thêm. Để xem danh sách chính xác các mẫu điện thoại và toàn bộ danh sách theo từng nhà mạng, hãy xem [danh sách tương thích eSIM](/compatibility/) của chúng tôi — trang này luôn được cập nhật.
 
 ## eSIM có an toàn không?
 
 Bảo mật là một trong những điểm bán hàng mạnh nhất của eSIM:
 
-- **Không thể tháo ra.** Kẻ trộm có thể đẩy SIM vật lý ra khỏi điện thoại bị đánh cắp và sử dụng nó để đánh chặn mã hai yếu tố; eSIM vẫn được hàn chặt tại chỗ và "Tìm" vẫn hoạt động.
-- **Không thể sao chép.** Thông số kỹ thuật SGP.22 của GSMA được thiết kế để ngăn hồ sơ bị sao chép từ thiết bị này sang thiết bị khác — không giống như SIM cũ hơn, có thể bị sao chép bằng phần cứng rẻ tiền.
-- **Doanh nghiệp có thể khóa nó.** Thông qua quản lý thiết bị (MDM), công ty có thể chặn nhân viên thêm hoặc xóa eSIM để đường truyền công ty được giữ nguyên.
+- **Không thể tháo rời.** Kẻ trộm có thể lấy thẻ SIM vật lý ra khỏi điện thoại bị đánh cắp và dùng nó để chặn các mã xác thực hai yếu tố; eSIM vẫn hàn gắn tại chỗ và "Find My" vẫn tiếp tục hoạt động.
+- **Không thể sao chép.** Đặc tả SGP.22 của GSMA được thiết kế để ngăn việc sao chép hồ sơ từ thiết bị này sang thiết bị khác — không giống các SIM đời cũ vốn có thể bị nhân bản bằng phần cứng giá rẻ.
+- **Doanh nghiệp có thể khóa chặt.** Thông qua quản lý thiết bị (MDM), công ty có thể chặn nhân viên thêm hoặc xóa eSIM để đường truyền của công ty luôn ở nguyên vị trí.
 
-Bên trong, tiêu chuẩn SGP.22 tích hợp bảo mật ngay từ đầu. Hồ sơ được gửi đến điện thoại của bạn qua một kênh được mã hóa và bản thân chip eUICC là một thành phần bảo mật chống giả mạo — cùng họ chứng nhận phần cứng được sử dụng trong thẻ ngân hàng và hộ chiếu. Mỗi hồ sơ được cách ly về mặt mật mã, vì vậy gói dữ liệu du lịch và đường truyền nhà mạng trong nước của bạn không thể đọc lẫn nhau. Đối với người dùng hàng ngày, kết quả thực tế rất đơn giản: gian lận SIM-swap — nơi tội phạm lừa nhà mạng của bạn chuyển số sang thẻ mà *chúng* sở hữu — trở nên khó hơn nhiều, vì đường truyền của bạn được liên kết với chip bên trong thiết bị *của bạn* thay vì một mảnh nhựa có thể được lắp vào điện thoại khác.
+Sâu bên dưới, tiêu chuẩn SGP.22 đã tích hợp bảo mật ngay từ đầu. Hồ sơ được truyền đến điện thoại của bạn qua kênh mã hóa, và bản thân chip eUICC là một phần tử bảo mật chống can thiệp — cùng họ chứng nhận phần cứng được dùng trong thẻ ngân hàng và hộ chiếu. Mỗi hồ sơ được cách ly bằng mật mã, nên gói dữ liệu du lịch và số của nhà mạng ở nhà bạn không thể đọc lẫn nhau. Với người dùng hàng ngày, hệ quả thực tiễn rất đơn giản: gian lận SIM-swap — khi tội phạm lừa nhà mạng của bạn chuyển số điện thoại sang thẻ do *chúng* nắm giữ — trở nên khó hơn nhiều, vì số của bạn gắn với chip bên trong *thiết bị* của bạn thay vì một mảnh nhựa có thể nhét vào điện thoại khác.
 
-## Tại sao du khách chuyển đổi
+## Vì sao du khách chuyển sang eSIM
 
-Đối với những người vượt biên giới, lợi ích là ngay lập tức:
+Với những người vượt biên giới, lợi ích là ngay lập tức:
 
-- **Kết nối trước khi hạ cánh.** Thay vì tìm kiếm quầy SIM tại sân bay, hãy mua eSIM dữ liệu cho điểm đến của bạn trước và nó sẽ hoạt động ngay khi bạn đến. Roami bán gói bao phủ 190+ quốc gia.
-- **Giữ số trong nước.** Với hai đường truyền hoạt động, số thường của bạn vẫn có thể liên lạc được cho cuộc gọi và tin nhắn trong khi một eSIM du lịch giá rẻ mang dữ liệu.
-- **Không có bất ngờ về chuyển vùng.** eSIM du lịch có giá rõ ràng trước — không có phí chuyển vùng hàng ngày hoặc giới hạn sử dụng hợp lý ẩn.
+- **Kết nối trước khi hạ cánh.** Thay vì săn lùng quầy SIM ở sân bay, hãy mua trước một eSIM dữ liệu cho điểm đến của bạn và nó sẽ hoạt động ngay khi bạn đến. Roami bán các gói bao phủ hơn 190 quốc gia.
+- **Giữ nguyên số ở nhà.** Với hai số đang hoạt động, số chính của bạn vẫn nhận được cuộc gọi và tin nhắn trong khi eSIM du lịch giá rẻ lo phần dữ liệu.
+- **Không bị sốc phí roaming.** eSIM du lịch quảng bá giá rõ ràng ngay từ đầu — không phí roaming hằng ngày, không giới hạn lưu lượng ẩn giấu.
 
-Ngoài những lợi ích chính, còn có những lợi ích thầm lặng mà du khách nhận thấy khi di chuyển:
+Đang thắc mắc một gói cước thực sự tốn bao nhiêu cho điểm đến của bạn? Hãy bắt đầu với [hướng dẫn eSIM du lịch](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/) hoặc [so sánh các gói eSIM Mỹ](/faq/the-ultimate-guide-to-us-esim-in-2026-how-to-choose-the-best-plan/).
 
-- **Nhiều điểm đến, một thiết bị.** Thay vì xoay sở với một thẻ cho mỗi quốc gia, hãy tải gói Châu Âu, gói Châu Á và đường truyền trong nước cùng lúc và chuyển đổi khi bạn vượt biên giới.
-- **Không phí chênh lệch sân bay.** Các quầy SIM địa phương tại sân bay tiện lợi nhưng được định giá cao; mua eSIM du lịch trực tuyến trước khi bay loại bỏ khoản chênh lệch đó.
-- **Hoạt động ngay cả khi nhà mạng của bạn chậm.** Vì các nhà cung cấp eSIM toàn cầu vận hành cơ sở hạ tầng riêng, bạn có thể nhận dịch vụ eSIM tại các quốc gia nơi nhà mạng của bạn chưa triển khai.
-- **Lên kế hoạch từ trên ghế.** Nghiên cứu, so sánh và mua gói tại nhà mà không cần tìm cửa hàng sau chuyến bay dài.
+Ngoài những lợi thế nổi bật, còn có những ưu điểm thầm lặng hơn mà du khách nhận ra trên đường đi:
 
-> 🎁 **Thử miễn phí:** Roami tặng người dùng mới một eSIM miễn phí để bạn có thể xác nhận điện thoại của mình tương thích trước khi chi tiêu bất kỳ khoản nào. [Nhận eSIM miễn phí của bạn](/free-esim/).
+- **Nhiều điểm đến, một thiết bị.** Thay vì lomdom với một chiếc thẻ cho mỗi quốc gia, hãy cùng lúc nạp một gói châu Âu, một gói châu Á và một số chính, rồi chuyển đổi khi vượt biên giới.
+- **Không bị hớ giá sân bay.** Quầy SIM địa phương ở sân bay tiện nhưng giá thường bị đội lên; mua eSIM du lịch online trước khi bay sẽ cắt bỏ phần chênh lệch đó.
+- **Vẫn hoạt động kể cả khi nhà mạng ở nhà bạn chậm chân.** Vì các nhà cung cấp eSIM toàn cầu tự vận hành hạ tầng riêng, bạn vẫn có được dịch vụ eSIM ở những quốc gia mà nhà mạng của bạn chưa triển khai.
+- **Lên kế hoạch ngay trên ghế sofa.** Tìm hiểu, so sánh và mua gói ngay tại nhà, thay vì phải săn cửa hàng sau một chuyến bay dài.
+
+> 🎁 **Dùng thử miễn phí:** Roami tặng người dùng mới một eSIM miễn phí để bạn xác nhận điện thoại của mình tương thích trước khi tiêu đồng nào. [Nhận eSIM miễn phí của bạn](/free-esim/).
 
 ## Câu hỏi thường gặp
 
-**Có sự khác biệt giữa "eSIM" và "thẻ eSIM" không?**
-Không — chúng là cùng một công nghệ. "Thẻ eSIM" là thói quen còn sót lại từ thời kỳ SIM vật lý; vì nó hoàn toàn kỹ thuật số, không có thẻ nào liên quan, chỉ có phần mềm trên chip của điện thoại.
+**"eSIM" và "thẻ eSIM" có khác nhau không?**
+Không — chúng là cùng một công nghệ. "Thẻ eSIM" là thói quen còn lại từ thời SIM vật lý; vì eSIM hoàn toàn kỹ thuật số nên chẳng có tấm thẻ nào ở đây, chỉ có phần mềm trên chip của điện thoại.
 
 **Tôi có thể giữ nhiều eSIM trên một điện thoại không?**
-Có. Bạn có thể tải xuống nhiều hồ sơ — đường truyền gia đình, công việc và du lịch — và chuyển đổi giữa chúng trong Cài đặt.
+Có. Bạn có thể tải xuống nhiều hồ sơ — số ở nhà, số công việc và số du lịch — rồi chuyển đổi giữa chúng trong phần Cài đặt.
 
-**eSIM có hao pin hơn SIM vật lý không?**
-Không. Nó thực tế sử dụng ít năng lượng hơn một chút vì không có đầu đọc thẻ vật lý; sự khác biệt là không đáng kể (khoảng 1–2%).
+**eSIM có tốn pin hơn SIM vật lý không?**
+Không. Thực tế nó tiêu tốn ít điện hơn một chút vì không có đầu đọc thẻ vật lý; sự khác biệt không đáng kể (khoảng 1–2%).
 
-**Tôi có thể sử dụng một eSIM trên nhiều thiết bị cùng lúc không?**
-Không. Một hồ sơ được liên kết với một thiết bị duy nhất. Sử dụng cùng số trên thiết bị khác (ví dụ: iPad) yêu cầu tính năng nhà mạng riêng như "Chia sẻ số."
+**Tôi có thể dùng một eSIM trên nhiều thiết bị cùng lúc không?**
+Không. Một hồ sơ gắn với duy nhất một thiết bị. Muốn dùng cùng số trên thiết bị khác (ví dụ iPad) đòi hỏi tính năng riêng của nhà mạng như "Number Share".
 
-**"Dual eSIM" có nghĩa là gì?**
-Nó có nghĩa là điện thoại có thể giữ hai đường truyền eSIM hoạt động đồng thời — ví dụ: số trong nước và gói dữ liệu du lịch. Nó được hỗ trợ trên iPhone 13 trở lên, cộng với nhiều flagship Android. Để tìm hiểu sâu hơn về cách thiết lập dual-SIM hoạt động, xem [hướng dẫn tương thích eSIM iPhone](/faq/iphone-11-esim-compatible/) của chúng tôi.
+**"Dual eSIM" nghĩa là gì?**
+Nghĩa là điện thoại có thể giữ hai đường eSIM hoạt động đồng thời — ví dụ một số ở nhà và một gói dữ liệu du lịch. Tính năng này được hỗ trợ trên iPhone 13 trở lên cùng nhiều flagship Android. Để tìm hiểu sâu hơn về cách thiết lập dual-SIM, hãy xem [hướng dẫn tương thích eSIM iPhone](/faq/iphone-11-esim-compatible/) của chúng tôi.
 
-**eSIM có sẵn ở quốc gia của tôi không?**
-Rất có thể. Hàng trăm nhà mạng trên toàn thế giới hỗ trợ nó, và ngay cả khi nhà mạng trong nước của bạn không hỗ trợ, bạn vẫn có thể sử dụng eSIM du lịch từ nhà cung cấp toàn cầu như Roami. Kiểm tra [danh sách tương thích](/compatibility/) để chắc chắn.
+**Quốc gia của tôi có eSIM không?**
+Khả năng rất cao là có. Hàng trăm nhà mạng trên thế giới hỗ trợ eSIM, và kể cả khi nhà mạng ở nhà bạn chưa có, bạn vẫn có thể dùng eSIM du lịch từ một nhà cung cấp toàn cầu như Roami. Hãy kiểm tra [danh sách tương thích](/compatibility/) để chắc chắn.
 
-**"eSIM" là viết tắt của gì?**
-"Embedded SIM." "e" là viết tắt của embedded, có nghĩa là nó được tích hợp vào điện thoại thay vì được lắp vào khay. Một số người đoán "electronic," nhưng thuật ngữ chính thức là embedded SIM.
+**"eSIM" là viết tắt của từ gì?**
+"Embedded SIM" (SIM nhúng). Chữ "e" là viết tắt của embedded, nghĩa là được tích hợp sẵn trong điện thoại thay vì lắp vào khay. Một số người đoán là "electronic", nhưng thuật ngữ chính thức là embedded SIM.
 
-**eSIM có giống như eUICC không?**
-Chúng là hai mặt của cùng một đồng xu. eUICC là chip vật lý được hàn bên trong điện thoại của bạn; eSIM là hồ sơ SIM kỹ thuật số được lưu trữ trên chip đó. Hãy nghĩ về eUICC như kho chứa và eSIM như những gì được giữ bên trong.
+**eSIM có phải là eUICC không?**
+Chúng là hai mặt của cùng một đồng xu. eUICC là chip vật lý được hàn bên trong điện thoại; eSIM là hồ sơ SIM kỹ thuật số lưu trên chip đó. Hãy hình dung eUICC là chiếc két, còn eSIM là thứ được giữ bên trong.
 
-**Tôi có nhận được số điện thoại với eSIM không?**
-Nó phụ thuộc vào gói. eSIM từ nhà mạng truyền thống thường bao gồm số điện thoại để gọi và nhắn tin, giống hệt như SIM vật lý. Nhiều eSIM du lịch chỉ có dữ liệu — tốt cho bản đồ, ứng dụng nhắn tin và duyệt web, nhưng chúng sẽ không cung cấp cho bạn số địa phương để gọi thoại.
+**eSIM có kèm số điện thoại không?**
+Tùy gói cước. eSIM từ nhà mạng truyền thống thường có số điện thoại để gọi điện và nhắn tin, y hệt SIM vật lý. Nhiều eSIM du lịch chỉ dùng dữ liệu — ổn cho bản đồ, ứng dụng nhắn tin và lướt web, nhưng sẽ không cho bạn số điện thoại địa phương để gọi thoại.
 
-**Tôi có thể sử dụng SIM vật lý và eSIM cùng lúc không?**
-Có, trên hầu hết điện thoại hiện đại. Các thiết bị có hỗ trợ dual-SIM có thể chạy SIM vật lý và eSIM đồng thời (thường được gọi là dual SIM dual standby), và các model mới hơn thậm chí có thể chạy hai eSIM cùng lúc. Đó là cách du khách giữ số trong nước hoạt động trong khi eSIM du lịch mang dữ liệu.
+**Tôi có thể dùng SIM vật lý và eSIM cùng lúc không?**
+Có, trên hầu hết các điện thoại hiện đại. Các thiết bị hỗ trợ dual-SIM có thể chạy đồng thời một SIM vật lý và một eSIM (thường gọi là dual SIM dual standby), và các mẫu mới hơn thậm chí có thể chạy hai eSIM cùng lúc. Đó là cách du khách giữ số ở nhà luôn hoạt động trong khi eSIM du lịch lo phần dữ liệu.
 
-**eSIM sẽ thay thế hoàn toàn thẻ SIM vật lý chứ?**
-Gần như chắc chắn, và nó đã đang xảy ra. Apple đã bán iPhone chỉ dùng eSIM tại Mỹ từ iPhone 14, và ngày càng nhiều nhà mạng và nhà sản xuất điện thoại chuyển đổi mỗi năm. SIM vật lý sẽ không biến mất qua đêm — điện thoại cũ hơn và một số thị trường vẫn phụ thuộc vào chúng — nhưng hướng đi đã rõ.
+**eSIM sẽ hoàn toàn thay thế thẻ SIM vật lý chứ?**
+Gần như chắc chắn rồi, và điều đó đang diễn ra. Apple đã bán iPhone chỉ dùng eSIM tại Mỹ từ iPhone 14, và mỗi năm lại có thêm nhiều nhà mạng và hãng điện thoại chuyển đổi. SIM vật lý sẽ không biến mất trong một sớm một chiều — điện thoại cũ và một số thị trường vẫn phụ thuộc vào chúng — nhưng hướng đi là rõ ràng.
 
 **eSIM có tốt hơn SIM vật lý không?**
-Đối với hầu hết mọi người, có. Nó tiện lợi hơn, khó mất hơn, an toàn hơn và dễ dàng hơn để chuyển đổi nhà mạng. Những lý do chính để tiếp tục sử dụng SIM vật lý là nếu điện thoại của bạn không hỗ trợ eSIM hoặc nhà mạng của bạn chưa cung cấp nó.
+Với đa số mọi người, là có. Nó tiện hơn, khó mất hơn, an toàn hơn và dễ đổi nhà mạng hơn. Những lý do chính để ở lại với SIM vật lý là điện thoại của bạn không hỗ trợ eSIM hoặc nhà mạng của bạn chưa cung cấp.
 
-**eSIM được giới thiệu khi nào?**
-GSMA công bố tiêu chuẩn eSIM tiêu dùng (SGP.22) vào năm 2016. Đồng hồ thông minh Samsung Gear S2 là một trong những thiết bị đầu tiên sử dụng nó, và Apple đã đẩy nó vào xu hướng chính thống với iPhone XS và XR vào năm 2018. Đã khoảng một thập kỷ, nhưng vài năm qua là khi nó thực sự trở nên phổ biến.
+**eSIM ra đời khi nào?**
+GSMA công bố tiêu chuẩn eSIM dành cho người tiêu dùng (SGP.22) vào năm 2016. Đồng hồ thông minh Samsung Gear S2 là một trong những thiết bị đầu tiên dùng nó, và Apple đưa nó ra mainstream với iPhone XS và XR vào năm 2018. Đã khoảng một thập kỷ, nhưng vài năm gần đây mới là lúc nó thực sự trở nên phổ biến.
 
-**Điện thoại của tôi có thể lưu trữ bao nhiêu hồ sơ eSIM?**
-Nó phụ thuộc vào model. iPhone gần đây có thể lưu trữ tám hoặc nhiều hồ sơ eSIM, và nhiều flagship Android tương tự. Điều đó không có nghĩa là tất cả đều hoạt động cùng lúc — hầu hết điện thoại giữ một hoặc hai đường truyền hoạt động đồng thời trong khi bạn bật/tắt phần còn lại.
+**Điện thoại của tôi có thể lưu bao nhiêu hồ sơ eSIM?**
+Tùy mẫu máy. Các iPhone gần đây có thể lưu tám hồ sơ eSIM trở lên, và nhiều flagship Android cũng tương tự. Điều đó không có nghĩa là tất cả cùng hoạt động — đa số điện thoại giữ một hoặc hai số hoạt động đồng thời, còn lại bạn bật/tắt khi cần.
 
-**eSIM chỉ dành cho du lịch?**
-Không. eSIM được sử dụng cho các gói gia đình thông thường, đường truyền phụ, đồng hồ thông minh, máy tính bảng và thậm chí một số ô tô và máy tính xách tay. Du lịch chỉ là nơi người dùng hàng ngày nhận thấy nó đầu tiên, vì nó loại bỏ nhu cầu mua thẻ địa phương tại mỗi điểm đến.
+**eSIM chỉ dùng để du lịch thôi à?**
+Không. eSIM được dùng cho các gói chính thức ở nhà, số phụ, đồng hồ thông minh, máy tính bảng, thậm chí một số xe hơi và laptop. Du lịch chỉ là nơi người dùng hàng ngày nhận ra nó đầu tiên, vì nó loại bỏ việc phải mua thẻ địa phương ở mỗi điểm đến.
 
 ---
 
-*Dựa trên tài liệu của Apple và GSMA. Khả năng tương thích eSIM có thể khác nhau theo nhà mạng và khu vực.*
+*Dựa trên tài liệu của Apple và GSMA. Khả năng tương thích eSIM có thể khác nhau tùy nhà mạng và khu vực.*
 
-## Nguồn
+## Nguồn tham khảo
 
-- [GSMA — thông số kỹ thuật eSIM (SGP.22)](https://www.gsma.com/esim/)
-- [Apple Support — eSIM trên iPhone](https://support.apple.com/en-us/108072)
-- [Google Support — Thiết lập eSIM](https://support.google.com/pixelphone/answer/14853135)
+- [GSMA — đặc tả eSIM (SGP.22)](https://www.gsma.com/esim/)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
+- [Google Support — Set up an eSIM](https://support.google.com/pixelphone/answer/14853135)
 - [Google Support — Android eSIM](https://support.google.com/android/answer/11241215)

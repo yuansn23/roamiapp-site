@@ -3,7 +3,7 @@ title: "Vodafone eSIM: Preços e Como Ativar em Portugal"
 h1_title: "Vodafone eSIM em Portugal 2026: Guia Completo de Preços, Ativação e Alternativas"
 description: "Guia completo do Vodafone eSIM em Portugal 2026. Preços atualizados, como ativar, dispositivos compatíveis e comparação com MEO, NOS, Digi, Airalo e Holafly."
 keywords: ["esim vodafone", "vodafone esim", "vodafone esim portugal", "ativar esim vodafone", "vodafone esim preço", "esim vodafone como ativar", "vodafone esim android", "vodafone esim iphone", "vodafone portugal esim", "yorn esim", "vodafone esim viagem", "esim portugal vodafone", "vodafone esim configuração", "vodafone esim plano", "vodafone esim 2026", "meo esim", "nos esim", "digi esim", "comparação esim portugal", "holafly esim", "airalo esim"]
-date: 2026-08-10T10:00:00Z
+date: 2026-09-23T00:00:00Z
 lastmod: 2026-08-10T16:00:00Z
 tags: ["Vodafone", "eSIM", "Portugal", "Ativação", "Planos", "Roaming", "Comparação", "MEO", "NOS", "Digi", "Airalo", "Holafly"]
 toc: true
@@ -78,23 +78,23 @@ sidebar_questions:
 ---
 
 
-**Última atualização:** 7 de agosto de 2026 | Tempo de leitura: 12 minutos
+**Última atualização:** setembro de 2026 | Tempo de leitura: 12 minutos
 
 
-## O que é o Vodafone eSIM?
+## O que é o Vodafone eSIM em Portugal?
 
 O Vodafone eSIM é a versão digital do cartão SIM da Vodafone Portugal. Em vez de um chip físico, o utilizador recebe um perfil digital instalado diretamente no telefone, eliminando a necessidade de inserir um cartão SIM tradicional.
 
-O mercado de telecomunicações português é dominado por três operadoras — MEO, NOS e Vodafone — que juntas detêm mais de 95% das subscrições móveis e fixas do país. A Vodafone Portugal é a terceira maior operadora do país, com uma quota de mercado de aproximadamente 20,4% dos cartões SIM ativos, segundo dados da ANACOM (Autoridade Nacional de Comunicações) referentes ao primeiro trimestre de 2026.
+O mercado de telecomunicações português é dominado por três operadoras — MEO, NOS e Vodafone — que juntas detêm mais de 95% das subscrições móveis e fixas do país. A Vodafone Portugal é a terceira maior operadora do país, com uma quota de mercado de aproximadamente 20,4% dos cartões SIM ativos, segundo dados da ANACOM (Autoridade Nacional de Comunicações) referentes ao primeiro trimestre de 2026. Se está a chegar agora à tecnologia, o nosso guia [eSIM para iniciantes: o que é e como funciona](/faq/what-is-esim-activation-and-how-does-it-work/) explica os fundamentos.
 
 A Vodafone é a única operadora multinacional entre as três grandes de Portugal e é frequentemente considerada a melhor em atendimento ao cliente entre os expatriados. Em 2026, a operadora continua a operar sob um acordo de licenciamento de marca transitório, após o anúncio do Grupo Vodafone em 2024 de que sairia de mercados europeus não centrais.
 
 
-## Dispositivos Compatíveis com o Vodafone eSIM
+## Dispositivos Compatíveis com o Vodafone eSIM em Portugal
 
 ### Smartphones com Suporte Confirmado
 
-Nem todos os telefones são compatíveis com eSIM. Para utilizar o Vodafone eSIM, o dispositivo precisa estar desbloqueado (não vinculado a outra operadora) e ter hardware compatível com a tecnologia.
+Nem todos os telefones são compatíveis com eSIM. Para utilizar o Vodafone eSIM, o dispositivo precisa estar desbloqueado (não vinculado a outra operadora) e ter hardware compatível com a tecnologia. Em caso de dúvida, consulte [quais telemóveis suportam eSIM](/compatibility/) antes de comprar.
 
 **Marcas e modelos com suporte confirmado**:
 
@@ -116,14 +116,14 @@ A forma mais rápida e fiável de verificar se o seu telefone suporta eSIM é:
 
 1. Abra o **Discador** do telefone
 2. Digite `*#06#` e pressione "chamar"
-3. Procure por um número **EID** (Embedded Identity Document) de 32 dígitos
+3. Localize o código **EID** (Embedded Identity Document), formado por 32 dígitos
 4. Se aparecer EID → o telefone é compatível
 5. Se aparecer apenas IMEI → o telefone **não** suporta eSIM
 
-**Atenção:** O telefone deve estar **desbloqueado** (carrier-unlocked) para funcionar com o eSIM da Vodafone. Telefones bloqueados por outras operadoras não funcionarão até serem desbloqueados.
+**Atenção:** O telefone deve estar **desbloqueado** (carrier-unlocked) para funcionar com o eSIM da Vodafone. Telefones bloqueados por outras operadoras não funcionarão até serem desbloqueados. Quer validar o processo antes de subscrever? Um [eSIM de avaliação gratuito](/free-esim/) permite testar a ativação sem custos.
 
 
-## Como Adquirir e Ativar o Vodafone eSIM
+## Como Adquirir e Ativar o Vodafone eSIM em Portugal
 
 ### Opção 1: Pelo Site da Vodafone (Recomendado para Viajantes)
 
@@ -169,10 +169,12 @@ A Vodafone Portugal tem uma parceria exclusiva com a TAP Air Portugal, oferecend
 3. Toque em **Adicionar eSIM**
 4. Escaneie o QR Code
 
-**Dica importante:** O período de uso do Vodafone eSIM começa a contar a partir do **primeiro evento de ativação** — quando o utilizador se conecta à rede em Portugal.
+Instruções oficiais passo a passo: veja como [configurar o eSIM no iPhone](https://support.apple.com/pt-pt/118669), incluindo a transferência rápida de um eSIM existente para um aparelho novo.
+
+**Dica importante:** O período de uso do Vodafone eSIM começa a contar a partir do **primeiro evento de ativação** — quando o utilizador se conecta à rede em Portugal. Para o processo completo em qualquer operadora, siga o nosso [passo a passo de ativação do eSIM](/faq/how-to-activate-an-esim/).
 
 
-## Planos e Preços do Vodafone eSIM em 2026
+## Planos e Preços do Vodafone eSIM em Portugal em 2026
 
 ### Planos Pré-Pagos (Pré-pago)
 
@@ -185,6 +187,8 @@ Os planos pré-pagos da Vodafone não exigem contrato de fidelidade e são a op�
 | eSIM para turistas | a partir de 9 euros | Ativação por QR Code, redes 4G/5G |
 
 **Fonte:** Preços baseados em informações publicamente disponíveis em 2026.
+
+Dados confirmados na [página oficial do eSIM da Vodafone Portugal](https://www.vodafone.pt/telemoveis/esim.html) (consultado em setembro de 2026): o arranque EasyGo custa 2,50 € e inclui 2,50 € de saldo mais 1 GB de dados; a conversão de SIM físico para eSIM — e a transferência do eSIM para outro aparelho — é gratuita, tanto na loja como na app My Vodafone.
 
 ### Planos Pós-Pagos (Contrato)
 
@@ -201,8 +205,10 @@ A Vodafone oferece um produto eSIM específico para turistas, disponível em aer
 - Planos de curta duração
 - Rede 5G incluída
 
+Pode comprar online na [página de eSIM para visitantes da Vodafone](https://www.vodafone.pt/en/esim-portugal.html) ou consultar os destinos no portal [Vodafone Travel](https://travel.vodafone.com/our-destinations/portugal). As opções incluem dados ilimitados (5 GB por dia à velocidade máxima, depois 5 Mbps), 50 GB por 15 dias e pacotes de 20 GB + 20 GB ou 10 GB + 10 GB; os preços em euros só são apresentados no momento da compra (consultado em setembro de 2026).
 
-## Cobertura e Desempenho da Rede Vodafone em 2026
+
+## Cobertura e Velocidades do eSIM da Vodafone em Portugal
 
 ### Cobertura 5G
 
@@ -232,11 +238,11 @@ De acordo com o teste da DECO PROteste realizado entre 2025 e 2026 com base em 1
 No teste de streaming de vídeo da DECO PROteste, a Vodafone conseguiu não ultrapassar a marca dos 2 segundos em **66% dos casos**. Na navegação na web, a Vodafone (56% de sucesso a carregar uma página em menos de 1 segundo) oferece a experiência mais fluida.
 
 
-## Comparação: Vodafone eSIM vs. Concorrentes
+## Comparação: Vodafone eSIM vs. Concorrentes em Portugal
 
 ### Operadoras de Rede Móvel em Portugal
 
-O mercado português é dominado por três operadoras — MEO, NOS e Vodafone — com a chegada recente da Digi, uma operadora low-cost romena que entrou no mercado com preços agressivos e contratos sem fidelidade.
+O mercado português é dominado por três operadoras — MEO, NOS e Vodafone — com a chegada recente da Digi, uma operadora low-cost romena que entrou no mercado com preços agressivos e contratos sem fidelidade. Para o panorama completo com todas as operadoras, veja a nossa [comparação de eSIM em Portugal](/faq/esim-portugal/).
 
 **Quota de mercado (Q1 2026)** segundo dados da ANACOM:
 
@@ -277,8 +283,10 @@ Para viajantes que apenas necessitam de dados durante uma estadia curta em Portu
 - Para estadias curtas (até 7 dias), os eSIMs internacionais podem ser mais económicos
 - Para estadias prolongadas ou quem precisa de número português, o Vodafone eSIM é a melhor opção
 
+Para uma avaliação completa do provedor ilimitado, leia a [análise do Holafly eSIM com dados ilimitados](/faq/holafly-esim-portugal/).
 
-## Desafios e Problemas Conhecidos do Vodafone eSIM
+
+## Desafios Conhecidos do Vodafone eSIM em Portugal
 
 Com base em relatos de utilizadores no fórum oficial da Vodafone Portugal, alguns problemas recorrentes merecem atenção:
 
@@ -301,7 +309,7 @@ Com base em relatos de utilizadores no fórum oficial da Vodafone Portugal, algu
 - Se o QR Code não chegar por e-mail, contacte o suporte da Vodafone com o número da encomenda e o NIF associado
 
 
-## Vodafone Yorn eSIM: Plano para Jovens
+## Vodafone Yorn eSIM: Plano para Jovens em Portugal
 
 A Vodafone tem um plano especial para jovens até 25 anos chamado **Yorn**. Este plano também suporta eSIM:
 - **Yorn X** (até 25 anos): preços reduzidos com dados, redes sociais ilimitadas e chamadas gratuitas
@@ -310,7 +318,7 @@ A Vodafone tem um plano especial para jovens até 25 anos chamado **Yorn**. Este
 Para ativar o Yorn eSIM, o processo é o mesmo: através do aplicativo My Vodafone, definições do telefone ou numa loja. O Yorn é a marca jovem da Vodafone — e sim, o Yorn também oferece eSIM.
 
 
-## Vale a Pena Usar o Vodafone eSIM?
+## Vale a Pena Usar o Vodafone eSIM em Portugal?
 
 **Sim, para a maioria dos viajantes e residentes temporários**, mas com ressalvas:
 
@@ -322,10 +330,10 @@ Para ativar o Yorn eSIM, o processo é o mesmo: através do aplicativo My Vodafo
 | **Quer o preço mais baixo possível** | Considere Digi — mais barata, com contratos de apenas 3 meses, mas com cobertura ainda limitada fora das grandes cidades. |
 | **Telefone bloqueado por outra operadora** | Não funciona — precisa de telefone desbloqueado. |
 
-**Em suma**, o Vodafone eSIM é uma excelente solução para quem valoriza conveniência, atendimento e a certeza de um número português. Para quem só precisa de dados durante uma viagem curta, pode haver opções mais baratas no mercado internacional.
+**Em suma**, o Vodafone eSIM é uma excelente solução para quem valoriza conveniência, atendimento e a certeza de um número português. Para quem só precisa de dados durante uma viagem curta, pode haver opções mais baratas no mercado internacional. O nosso [guia geral do eSIM em Portugal](/faq/esim-portugal/) compara todas as alternativas lado a lado.
 
 
-## Perguntas Frequentes (FAQ) sobre o Vodafone eSIM
+## Perguntas Frequentes (FAQ) sobre o Vodafone eSIM em Portugal
 
 **O Vodafone eSIM funciona no meu Xiaomi?**
 
@@ -333,11 +341,11 @@ Sim, em modelos como Xiaomi 12T Pro, série 13, 14 Pro e série 15, desde que se
 
 **Posso usar o Vodafone eSIM em Espanha ou França?**
 
-Sim, o roaming na União Europeia está incluído na maioria dos planos, sem custos adicionais.
+Sim, o roaming na União Europeia está incluído na maioria dos planos ao abrigo do regulamento Roam Like at Home (UE 2022/612), sem custos adicionais — as regras oficiais estão reunidas no [FAQ de roaming internacional da ANACOM](https://www.anacom.pt/render.jsp?categoryId=324515). Se planeia uma viagem multi-país, um [eSIM para viagens europeias](/europe-esim/) cobre toda a região com um só perfil.
 
 **Preciso de NIF (número fiscal português) para comprar o Vodafone eSIM?**
 
-Para planos pré-pagos, não é necessário NIF. Para planos pós-pagos com contrato, sim, é obrigatório.
+Para planos pré-pagos, não é necessário NIF. Para planos pós-pagos com contrato, sim, é obrigatório. Os eSIM de viagem internacionais também dispensam NIF — por exemplo, ao [comprar um eSIM Portugal online na Roami](/portugal-esim/).
 
 **O Vodafone eSIM tem dados ilimitados?**
 
@@ -360,16 +368,16 @@ Sim, a Vodafone tem cobertura nas ilhas, embora as velocidades médias sejam mai
 Pode remover o perfil eSIM nas configurações do telefone ou pedir o cancelamento pelo My Vodafone. Para contratos pós-pagos, contacte o apoio ao cliente.
 
 
-## Teste o eSIM com uma Alternativa Grátis
+## Vodafone eSIM ou Alternativa Grátis? Teste Antes de Decidir em Portugal
 
-Quer testar a compatibilidade do seu telefone com eSIM antes de comprar o plano da Vodafone? Experimente um eSIM de teste gratuito — leva 2 minutos, não custa nada e funciona em qualquer telefone compatível.
+Se ainda hesita entre um plano local e um eSIM internacional, o caminho mais simples é experimentar primeiro um [eSIM grátis para testar](/free-esim/): a instalação demora poucos minutos e não custa nada.
 
-[Ative o seu eSIM grátis agora e teste o seu dispositivo](/free-esim/)
+[Começar o teste gratuito de eSIM](/free-esim/)
 
 
 ---
 
-*Escrito por Carlos Mendes, especialista em conectividade móvel e tecnologia de viagens. Este guia foi atualizado em agosto de 2026 com base em informações disponíveis publicamente.*
+*Guia mantido pela equipa Roami, com revisão de setembro de 2026 e informação das páginas oficiais da Vodafone Portugal, da ANACOM e de outras fontes públicas.*
 
 *Fontes utilizadas: ANACOM (Autoridade Nacional de Comunicações), DECO PROteste, The Portugal Brief, Gizmodo, fórum oficial da Vodafone Portugal e Executivedigest. Consulte o site oficial da Vodafone Portugal para ofertas atualizadas.*
 

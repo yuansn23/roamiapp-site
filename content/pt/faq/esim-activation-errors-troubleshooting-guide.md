@@ -1,11 +1,13 @@
 ---
-title: "eSIM Não Funciona? Corrija Erros de Ativação em 2026"
-h1_title: "Como Corrigir Erros de Compatibilidade de eSIM em 2026"
-description: "Erros de eSIM? Corrija falhas de ativação, problemas de transferência e loops no iPhone e Android. Diagnostique seu telefone em 2 minutos."
-keywords: ["esim não funciona", "esim não suportado", "esim não compatível com este iphone", "não foi possível ativar esim", "rede esim não disponível", "como corrigir esim no iphone", "por que meu esim não está ativando", "deletei esim acidentalmente", "seu sim não é suportado transferência esim", "não é possível transferir esim para novo iphone", "como reativar esim", "esim não funciona android", "samsung esim não funciona", "pixel esim não suportado", "meu telefone não suporta esim"]
-date: 2026-08-10T10:00:00Z
-lastmod: 2026-08-10T10:00:00Z
-tags: ["eSIM", "Solução de Problemas", "Erros de Ativação", "iPhone", "Android"]
+title: "eSIM Não Funciona? Corrija Erros de Compatibilidade em 2026"
+h1_title: "Como Corrigir o eSIM que Não Funciona: Erros de Compatibilidade em 2026"
+description: "Preso com erros de eSIM? Aprenda a corrigir falhas de ativação, problemas de transferência e boot loops no iPhone e Android. Diagnostique seu celular em 2 minutos."
+image: "/img/faq/esim-activation-errors.webp"
+image-1: "/img/faq/esim-activation-errors-1.jpg"
+keywords: ["eSIM não funciona", "eSIM não suportado", "eSIM incompatível iPhone", "não consigo ativar o eSIM", "rede do eSIM indisponível", "eSIM não transfere para novo iPhone", "apaguei o eSIM sem querer", "perfil do eSIM expirado", "QR code do eSIM inválido", "como corrigir eSIM no iPhone", "erro de transferência de eSIM", "eSIM sem serviço"]
+date: 2026-09-17T00:00:00Z
+lastmod: 2026-09-17T00:00:00Z
+tags: ["eSIM", "Troubleshooting", "Activation Errors", "iPhone", "Android"]
 toc: true
 
 # Site & SEO
@@ -26,43 +28,44 @@ breadcrumbs:
     text: "Central de Ajuda"
     url: "/faq/"
 
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "eSIMs Populares"
   item_suffix: "eSIM"
   items:
-    - name: "eSIM USA"
+    - name: "eSIM EUA"
       flag: "/img/flags/us.svg"
-      price: "$1,99"
+      price: "$1.99"
       url: "/united-states-esim/"
       badge: "5G"
-    - name: "Alemanha"
+    - name: "eSIM Alemanha"
       flag: "/img/flags/de.svg"
-      price: "$1,99"
+      price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "Europa"
+    - name: "eSIM Europa"
       flag: "/img/flags/eu.svg"
-      price: "$1,99"
+      price: "$1.99"
       url: "/europe-esim/"
       badge: "5G"
-    - name: "Turquia"
+    - name: "eSIM Turquia"
       flag: "/img/flags/tr.svg"
-      price: "$1,99"
+      price: "$1.99"
       url: "/turkey-esim/"
       badge: "5G"
-    - name: "Japão"
+    - name: "eSIM Japão"
       flag: "/img/flags/jp.svg"
-      price: "$1,99"
+      price: "$1.99"
       url: "/japan-esim/"
       badge: "5G"
-    - name: "China"
+    - name: "eSIM China"
       flag: "/img/flags/cn.svg"
-      price: "$1,99"
+      price: "$1.99"
       url: "/china-esim/"
       badge: "5G"
 
 sidebar_free:
-  title: "Solicite eSIM Grátis"
+  title: "Resgate um eSIM Grátis"
   icon: "🎁"
   item_suffix: "eSIM Grátis"
   item_subtitle: "eSIM Grátis"
@@ -83,492 +86,459 @@ sidebar_free:
 sidebar_questions:
   title: "Perguntas Populares"
   items:
-    - question: "O que é ativação de eSIM e como funciona?"
+    - question: "O que é a ativação de eSIM e como funciona?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
     - question: "Como ativar um eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Como ativar eSIM no iPhone (Todos os Modelos)?"
+    - question: "Como ativar o eSIM no iPhone (todos os modelos)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
-    - question: "Lista de Compatibilidade de eSIM Mais Recente"
+    - question: "Lista de compatibilidade de eSIM mais recente"
       url: "/compatibility/"
 ---
 
 
-## eSIM Não Funciona? Os Problemas Mais Comuns e Correções
+> **Nota do Editor:** Grande parte dos casos de "meu eSIM não funciona" acaba sendo um problema do celular, não do plano. Este guia responde à pergunta que você deve fazer antes de qualquer outra: *meu celular é sequer capaz de usar um eSIM?* Vamos guiá-lo pela verificação de hardware de 2 minutos, pelas exceções dos modelos da China/Hong Kong e pelos bloqueios de operadora — para que você não perca uma hora em etapas de ativação que nunca funcionarão no seu dispositivo.
 
-**A tecnologia eSIM é confiável, mas a ativação pode falhar por várias razões previsíveis.** A boa notícia: a maioria dos erros é fácil de corrigir assim que você entende o que está errado.
+> **Procurando a correção de um código de erro?** Se seu celular passou na verificação de hardware abaixo, mas você está diante de uma mensagem específica ("Activation failed", "No Service", "QR invalid", erro de restauração 4013/4014), esse é outro problema. Vá para o nosso [Guia de Troubleshooting Profundo de eSIM](/faq/esim-deep-troubleshooting-guide-2026/) para a referência erro por erro.
 
-Aqui estão os principais problemas que os usuários enfrentam e o que você aprenderá neste guia:
+## Meu Celular é Sequer Capaz de Usar eSIM?
 
-- "**eSIM não suportado**" ou "**este eSIM não é compatível com este iPhone**" – Seu dispositivo pode não ter hardware eSIM, ou você tem uma versão com bloqueio regional.
-- A ativação fica travada em "Ativando…" ou diz "**não foi possível ativar eSIM**" – Geralmente um problema de Wi‑Fi ou servidor.
-- "**Rede eSIM não disponível**" – O roaming de dados está desligado ou as configurações de APN estão ausentes.
-- Falha na transferência ao mover eSIM para um novo telefone – "**seu sim não é suportado transferência esim**" ou "**não é possível transferir esim para novo iphone**".
-- Você **deletou eSIM acidentalmente** ou **deletou eSIM por engano** – Não entre em pânico; a recuperação é possível.
-- **iPhone mudou para eSIM incompatível preso em loop de inicialização** – Um problema raro, mas grave.
-- **Clientes Verizon** veem "**seu sim não é suportado transferência esim verizon**".
+Antes de abrir os Ajustes, escanear um único código QR ou contatar o suporte, confirme que seu celular realmente tem o hardware de SIM embutido necessário. Esta única verificação elimina de imediato cerca de metade de todos os casos de "eSIM não funciona".
 
-Vamos resolver cada problema passo a passo. Se você precisa de uma visão geral mais ampla dos cenários de **esim não funciona** ou **como corrigir esim no iphone**, este guia cobre as correções mais comuns.
+### A Verificação Universal do EID
 
-Para instruções gerais de ativação de eSIM, consulte nosso [guia de como ativar um eSIM](/faq/how-to-activate-an-esim/). Se seu telefone não estiver listado aqui, verifique a [lista completa de telefones compatíveis com eSIM (2026)](/compatibility/).
+Abra o discador do seu celular e digite:
 
+> **`*#06#`**
 
-## 1. "eSIM Não Suportado" ou "Não Compatível" no iPhone
+- Se aparecer uma tela com um **EID de 32 dígitos** (eUICC Identifier), seu celular tem o chip embutido necessário para ativação de SIM digital. ✅
+- Se a tela mostrar apenas números de **IMEI** e nenhum EID, o hardware não está lá. ❌
 
-Se você vir **"eSIM não suportado"**, **"este eSIM não é compatível com este iPhone"** ou simplesmente **"eSIM não compatível iPhone"**, a causa raiz é quase sempre uma das três:
+**O que fazer se nenhum EID aparecer:** Pare por aqui. Nenhuma atualização de software, hack ou método "forçado" pode adicionar o chip que falta — é uma ausência física de hardware. Use um SIM físico, ou veja a Correção #4 para celulares que *parecem* que deveriam suportar eSIM, mas não suportam.
 
-### A. Seu Modelo de iPhone Não Tem Hardware eSIM
+### EID vs IMEI vs ICCID Explicados
 
-Apenas iPhones a partir do **XR, XS, XS Max (2018) e mais novos** suportam eSIM. Modelos anteriores (iPhone 8, 8 Plus, iPhone X) não suportam. Se você estiver usando um dispositivo mais antigo, receberá **"esim não suportado iphone"** não importa o que tente.
+| Identificador | O que é | O que ele te diz |
+| :--- | :--- | :--- |
+| **IMEI** | International Mobile Equipment Identity (15 dígitos) | Identifica o modelo do seu celular — todo celular tem um |
+| **EID** | eUICC Identifier (32 dígitos) | Confirma que o chip de SIM embutido está presente — apenas celulares compatíveis com eSIM têm um |
+| **ICCID** | Integrated Circuit Card Identifier (19–20 dígitos) | Identifica um perfil de eSIM específico depois de instalado |
 
-**Por que isso acontece?** O eSIM requer um chip de hardware dedicado chamado **eUICC** (Circuito Integrado Universal Incorporado). Os iPhones anteriores a 2018 simplesmente não têm este chip – não é uma limitação de software, é uma limitação de hardware.
+> **Insight principal:** EID = hardware presente. Se você vê um EID, seu celular é fisicamente capaz de usar eSIM. Se não vê, nada do que instalar mudará isso.
 
-**Como verificar rapidamente:** Disque `*#06#`. Se você vir um EID de 32 dígitos, seu telefone tem eSIM. Se apenas o IMEI aparecer, não tem.
+### Onde Encontrar Cada Número
 
-**O que fazer:** Use um SIM físico em vez disso, ou atualize para um iPhone mais novo. A página [Apple Support – eSIM no iPhone](https://support.apple.com/pt-br/118670) fornece a lista oficial de compatibilidade.
+Todos os três números estão à vista quando você conhece o menu. Aqui está o caminho mais curto para cada um:
 
-### B. Seu iPhone É um Modelo da China Continental
+| Identificador | Jeito Mais Rápido | Local Alternativo |
+| :--- | :--- | :--- |
+| **IMEI (15 dígitos)** | Disque `*#06#` — é o primeiro número mostrado | iPhone: **Settings > General > About**. Android: **Settings > About phone** |
+| **EID (32 dígitos)** | Disque `*#06#` e role — é o número longo que começa com **8904** | iPhone: **Settings > General > About > EID**. Samsung: **Settings > About phone > Status** |
+| **ICCID (19–20 dígitos)** | Só aparece depois que um perfil é instalado | iPhone: **Settings > General > About**. Android: **Settings > About phone > SIM card status** |
 
-Os iPhones vendidos na China continental **não têm hardware eSIM** (dual SIM físico em vez disso). Isso ocorre porque as regulamentações chinesas exigem que os smartphones domésticos suportem dois chips SIM físicos. Mesmo se você vir a opção "Adicionar Plano Celular", ela não funcionará. Esta é a razão mais comum para **"esim não compatível com este iphone"** entre usuários que compraram seu dispositivo na China ou de certos revendedores.
+> **Curiosidade útil:** todo EID começa com **"8904"** — esse prefixo o marca como um identificador eUICC. Se o número longo na tela começar com outra coisa, você está lendo o valor errado.
 
-**Como identificar:** Vá em **Configurações > Geral > Sobre > Número do Modelo**. Se terminar com "CH/A", é um modelo da China.
+### O Teste do Botão Add eSIM
 
-**O que fazer:** Você não pode ativar o eSIM. Use um SIM físico de viagem ou venda seu telefone e compre uma versão global.
+Se o `*#06#` mostra um EID, mas você ainda vê "eSIM não suportado", abra **Settings > Cellular** e procure por **"Add eSIM"** ou **"Add Cellular Plan"**. Se a opção está lá, mas falha ao escanear, você provavelmente está lidando com um **bloqueio de operadora** ou uma **restrição de região** — ambos cobertos abaixo.
 
-### C. Seu iPhone Está Bloqueado por Operadora
+### O Método de Busca nos Ajustes
 
-Algumas operadoras (especialmente nos USA) bloqueiam iPhones em sua rede. Se você tentar ativar um eSIM de um provedor diferente (ex., um eSIM de viagem), verá **"eSIM não suportado"** ou uma mensagem de erro dizendo que a operadora não suporta eSIM. Observe que algumas operadoras bloqueiam apenas o slot de SIM físico, deixando o eSIM desbloqueado – mas muitas bloqueiam ambos.
+Sem discador à mão (alguns tablets e dobráveis o escondem), ou o `*#06#` deu uma tela confusa? A barra de busca do próprio celular é a segunda verificação mais rápida.
 
-**Como verificar:** **Configurações > Geral > Sobre > Bloqueio de Operadora**. Deve dizer "Sem restrições de SIM". Se disser "SIM bloqueado", entre em contato com sua operadora para solicitar o desbloqueio.
+- **iPhone:** Abra os **Ajustes (Settings)**, deslize para baixo do topo da lista para revelar a caixa de busca e digite **"eSIM"**. Um resultado de **"Add eSIM"** ou **"Add Cellular Plan"** significa que o recurso está ativo.
+- **Samsung:** Abra os **Ajustes (Settings)**, toque no **ícone de lupa** no topo e digite **"eSIM"**. Se **"SIM Card Manager"** (ou "Add mobile plan") aparecer, sua variante tem o chip.
+- **Pixel:** Abra **Settings > Network & internet > SIMs**. Se você vê **"Download a SIM instead?"**, está tudo bem. Uma tela que lista apenas seu SIM físico — sem opção de download — significa que não há chip eUICC.
 
-**O que fazer:** Após o desbloqueio (geralmente gratuito assim que seu dispositivo estiver quitado), reinicie seu telefone e tente novamente.
+> **Sem resultado de busca = sem hardware.** Se um celular vendido depois de aproximadamente 2018 não retorna nada para "eSIM" na busca dos Ajustes, você quase certamente tem uma variante de região ou econômica que veio sem o chip.
 
-### D. Versão iOS Desatualizada
+### A Consulta pelo Número de Modelo
 
-O suporte a eSIM melhorou significativamente com o iOS 16 e posteriores. Se você ainda estiver no iOS 12 ou 13, alguns perfis de eSIM modernos não funcionarão.
+Comprando usado, ou verificando um celular que você não consegue ligar? O número de modelo resolve em segundos.
 
-**Como verificar:** **Configurações > Geral > Atualização de Software**.
+- **iPhone:** **Settings > General > About > Model Number**, depois toque no número para alterná-lo para o **identificador com prefixo A** (ex.: **A2111**). As letras antes de **/A** no número de peça codificam a região de venda — o mapa completo de sufixos está na Seção 2.
+- **Samsung:** **Settings > About phone > Model number** (ex.: **SM-S921U1**). O último caractere é a pista: **U** = operadora dos EUA, **U1** = desbloqueado nos EUA, **B** = Europa/global, **0** = China/Hong Kong (Snapdragon).
+- **Pixel:** **Settings > About phone > Model**. As strings de modelo do Pixel variam por região e operadora — o Japão e algumas variantes de operadoras dos EUA restringem o eSIM, então confira o código específico ou disque `*#06#`.
 
-**O que fazer:** Atualize para o iOS mais recente. Em seguida, delete o perfil de eSIM com falha (se houver) e digitalize novamente o código QR.
+> **Regra prática:** se o número de modelo termina com um sufixo de China/região (ou um sufixo de operadora dos EUA em um Samsung), verifique com o `*#06#` antes de presumir que o eSIM funciona. Número de modelo mais EID juntos dão uma resposta 100% confiável.
 
-Para informações de compatibilidade mais detalhadas por dispositivo, consulte nosso [guia de compatibilidade eSIM para iPhone](/faq/iphone-11-esim-compatible/) e [guia de compatibilidade eSIM para Samsung Galaxy](/faq/samsung-s20-esim-compatible/). Para usuários do Google Pixel, também temos um [guia de compatibilidade eSIM para Pixel](/faq/google-pixel-6-esim-compatible/).
+### Por Que um Celular Pode Mostrar EID e Ainda Recusar o eSIM
 
+| Cenário | EID Presente? | eSIM Funciona? | Por quê? |
+| :--- | :--- | :--- | :--- |
+| iPhone XS/XR e mais recentes (global) | ✅ Sim | ✅ Sim | Suporte completo a perfis de SIM digital |
+| iPhone XS/XR (modelo China) | ❌ Não | ❌ Não | Hardware removido para dual SIM físico |
+| Samsung S20 FE (operadora dos EUA) | ✅ Sim | ❌ Não | Operadora desativou o recurso em software |
+| Google Pixel 4a (Japão) | ✅ Sim | ❌ Não | Operadora bloqueou a funcionalidade |
+| iPhone com bloqueio de operadora (AT&T/T-Mobile) | ✅ Sim | ❌ Não (para outras operadoras) | Bloqueio de rede impede perfis de outros provedores |
+| iPhone desbloqueado (qualquer região) | ✅ Sim | ✅ Sim | Suporte completo |
 
-## 2. Por Que Meu eSIM Não Está Ativando? Corrija "Não Foi Possível Ativar eSIM"
 
-Quando você tenta adicionar um eSIM e ele fica travado em "Ativando…" por mais de 10 minutos, ou você vê **"não foi possível ativar eSIM"**, o problema geralmente é sua conexão com a internet ou o servidor de ativação da operadora.
+## eSIM Não Suportado ou Incompatível no iPhone
 
-### Por Que Isso Acontece?
+Se você vê **"eSIM não suportado"**, **"este eSIM não é compatível com este iPhone"** ou simplesmente **"eSIM não compatível iPhone"**, a causa quase sempre é uma de cinco coisas — e todas se referem ao seu *dispositivo*, não ao plano.
 
-A ativação do eSIM exige que seu telefone se conecte ao servidor **SM‑DP+** da sua operadora (Preparação de Dados do Gerenciador de Assinatura). Este servidor entrega com segurança o perfil de eSIM ao seu dispositivo. Se seu Wi‑Fi estiver instável, o servidor estiver ocupado ou o código QR contiver informações incorretas, a ativação pode travar.
+### Seu Modelo de iPhone é Anterior ao Hardware de eSIM
 
-### Correção Passo a Passo para "Por que meu esim não está ativando?"
+Apenas os iPhones a partir do **XR, XS, XS Max (2018) e mais recentes** têm o chip embutido. O iPhone 8, 8 Plus e iPhone X não têm, então retornam **"eSIM não suportado"** não importa o que você tente. O chip eUICC simplesmente não está presente nessas placas — é uma limitação de hardware, não um problema de ajustes.
 
-1. **Verifique seu Wi‑Fi.** O perfil de eSIM deve ser baixado pela internet. Mude para uma rede Wi‑Fi diferente (evite hotspots públicos) ou use os dados móveis do seu outro SIM, se disponível.
-2. **Reinicie seu telefone.** Uma simples reinicialização limpa falhas temporárias.
-3. **Ative o Modo Avião.** Ative o Modo Avião por 30 segundos e depois desative. Isso reinicia a pilha de rede.
-4. **Aguarde – não delete.** Às vezes, a ativação leva de 5 a 10 minutos porque o servidor SM‑DP+ da operadora está ocupado. Se você deletar o perfil durante a ativação, pode perdê-lo permanentemente.
-5. **Tente a entrada manual.** Se estiver usando um código QR, toque em "Inserir Detalhes Manualmente" e insira o endereço SM‑DP+ e o código de ativação do seu e-mail.
+**Verificação rápida:** Disque `*#06#`. Um EID de 32 dígitos significa que está tudo bem; apenas IMEI significa que não.
 
-Se nada disso funcionar, entre em contato com seu provedor de eSIM – eles podem precisar regenerar o código QR. Para depuração de ativação mais avançada, consulte nosso **[Guia de Solução de Problemas de eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)**.
+**O que fazer:** Use um SIM físico, ou atualize para um iPhone XR ou mais recente. A lista oficial está em [Suporte Apple — Configurar eSIM no iPhone](https://support.apple.com/en-us/118670).
 
-A [GSMA](https://www.gsma.com/esim/) fornece os padrões técnicos nos quais a ativação de eSIM se baseia – operadoras e fabricantes de dispositivos devem seguir essas especificações para uma ativação sem emenda.
+### Seu iPhone é um Modelo da China Continental
 
+Os iPhones vendidos na China continental vêm com **dois slots de SIM físico e nenhum hardware de eSIM**. As regulamentações chinesas empurram os smartphones domésticos para o dual SIM físico, então a Apple removeu o chip embutido nessas unidades. Mesmo que a opção "Add Cellular Plan" apareça, ela não se completará — essa é a razão mais comum de "eSIM não compatível com este iPhone" entre compradores que adquiriram o aparelho na China ou por meio de certos revendedores.
 
-## 3. "Rede eSIM Não Disponível" Após a Instalação
+**Como identificar:** **Settings > General > About > Model Number**. Se terminar em **"CH/A"**, é um modelo da China continental. (Tabela completa de sufixos na Seção 2 abaixo.)
 
-Você instalou o eSIM com sucesso, mas **"Rede eSIM não disponível"** aparece na barra de status, ou você não tem sinal. Isso é extremamente comum entre viajantes.
+**O que fazer:** Não há como ativar o eSIM em um dispositivo CH/A. Use um SIM de viagem físico, ou venda o celular e compre uma versão global.
 
-### Por Que Isso Acontece
+### Seu iPhone Tem Bloqueio de Operadora
 
-- **O Roaming de Dados está desligado** – A maioria dos eSIMs de viagem exige que você ative o Roaming de Dados porque eles se conectam através de redes parceiras. Este é um requisito técnico, não uma cobrança real de roaming.
-- **As configurações de APN estão ausentes** – Alguns provedores de eSIM exigem que você insira manualmente um APN (Nome do Ponto de Acesso) para rotear os dados corretamente.
-- **Você está fora de cobertura** – A operadora local que faz parceria com seu provedor de eSIM não tem sinal em sua localização.
-- **O eSIM não foi ativado no lado da operadora** – Alguns eSIMs de viagem exigem uma segunda etapa (ex., enviar um SMS ou fazer login em um portal).
+Algumas operadoras — especialmente as dos EUA — bloqueiam os iPhones em sua própria rede. Tentar ativar um perfil de um provedor diferente (como um eSIM de viagem) retorna então "eSIM não suportado" ou uma mensagem de "operadora não suporta". Note que algumas operadoras bloqueiam apenas o slot de SIM físico, deixando o slot do eSIM aberto, mas muitas bloqueiam ambos.
 
-### Como Corrigir "Rede eSIM Não Disponível"
+**Como verificar:** **Settings > General > About > Carrier Lock**. Deve dizer **"No SIM restrictions"**. Se disser "SIM locked", você precisa de um desbloqueio. Veja a Seção 3 para o passo a passo completo do bloqueio de operadora.
 
-1. **Ative o Roaming de Dados:** **Configurações > Celular > [seu eSIM]** > ative **Roaming de Dados**. Esta é a correção nº 1 para **"rede esim não disponível verizon"** e erros semelhantes.
-2. **Verifique as configurações de APN:** Vá em **Configurações > Celular > [seu eSIM] > Rede de Dados Celular**. Insira o APN fornecido pelo seu provedor de eSIM (geralmente "internet" ou "globaldata"). Deixe usuário/senha em branco, a menos que especificado.
-3. **Selecione manualmente uma rede:** Desative "Automático" em **Configurações > Celular > [seu eSIM] > Seleção de Rede** e escolha uma rede parceira diferente.
-4. **Reinicie seu telefone** após fazer as alterações.
+### Sua Versão do iOS Está Desatualizada
 
-Se você é cliente da **Verizon** tentando usar um eSIM não‑Verizon, você também pode ver **"rede esim não disponível verizon"** porque a Verizon bloqueia o eSIM para seus próprios perfis em alguns dispositivos. Desbloqueie seu dispositivo primeiro.
+O suporte a SIM digital melhorou muito no iOS 16 e posteriores. No iOS 12 ou 13, alguns perfis de operadoras modernas simplesmente não instalam.
 
-Para uma lista completa de dispositivos compatíveis, consulte a [lista completa de telefones compatíveis com eSIM (2026)](/compatibility/).
+**Como verificar:** **Settings > General > Software Update**.
 
+**O que fazer:** Atualize para o iOS mais recente, apague qualquer perfil meio instalado e reescaneie o código QR.
 
-## 4. "Seu SIM Não É Suportado Transferência eSIM" – Falha na Transferência
+### Este iPhone Não Suporta eSIM em um iPhone 14
 
-Ao mover um eSIM de um telefone antigo para um novo, você pode ver **"seu sim não é suportado transferência esim"** ou **"não é possível transferir esim para novo iphone"**. Isso acontece porque algumas operadoras não permitem a transferência de eSIM – o eSIM está permanentemente vinculado ao EID do dispositivo original.
+Um iPhone 14 (versão dos EUA) deve sempre suportar eSIM — o modelo dos EUA não tem bandeja de SIM física alguma. Se ele retornar esse erro mesmo assim, você está diante de uma rara **falha de hardware do eUICC**. Contate o Suporte Apple para um diagnóstico de hardware em vez de perseguir ajustes.
 
-### Por Que Isso Acontece?
+Para a lista completa de iPhone modelo por modelo, veja nosso [guia de compatibilidade de eSIM do iPhone](/faq/iphone-11-esim-compatible/).
 
-Quando você ativa um eSIM, sua operadora o vincula ao **EID** (Identificador eUICC) do seu telefone. Algumas operadoras permitem que você transfira essa vinculação para um novo dispositivo; outras não. Os eSIMs de viagem são quase sempre não transferíveis por design.
+Donos de Samsung devem consultar o [guia de eSIM do Samsung Galaxy](/faq/samsung-s20-esim-compatible/), e donos de Pixel o [guia de eSIM do Google Pixel](/faq/google-pixel-6-esim-compatible/).
 
-**Para instruções passo a passo que cobrem tanto iPhone quanto Android (incluindo movimentos entre plataformas), consulte [Como Transferir eSIM Entre iPhone e Android](/faq/how-to-transfer-esim-between-iphone-and-android/).**
 
-### Para Clientes Verizon Especificamente
+### eSIM Não Suportado: Hardware, Software ou Operadora
 
-Usuários da Verizon frequentemente veem **"seu sim não é suportado transferência esim verizon"** ao tentar mover um eSIM para um novo telefone. O sistema da Verizon exige que você **liberte o eSIM do dispositivo antigo** antes de ativar no novo.
+Todo caso de "eSIM não suportado" — em qualquer celular, qualquer operadora — se enquadra em um de três grupos. Nomear o grupo te diz instantaneamente se o problema é corrigível.
 
-**Correção para Verizon:**
-- No telefone antigo: Vá em **Configurações > Celular > toque no eSIM Verizon > Remover Plano Celular** (isso o libera dos servidores da Verizon).
-- Então no novo telefone: Abra o **aplicativo My Verizon**, faça login e vá em **Conta > Dispositivos > Ativar eSIM**. Siga as instruções para baixar um novo perfil de eSIM.
+| Grupo | Como se parece | Corrigível? | Sua Ação |
+| :--- | :--- | :--- | :--- |
+| **Hardware** | Sem EID no `*#06#`; iPhone anterior a 2018; modelo China (CH/A); Android econômico sem eUICC | ❌ Não | SIM físico, ou troque o celular |
+| **Software** | EID presente, mas o recurso está oculto ou o sistema é antigo (Samsung S20 FE desativado pela operadora, iOS desatualizado) | ✅ Geralmente | Atualize o sistema, ou remova a restrição da operadora |
+| **Operadora** | EID presente, menu visível, mas a ativação do plano de outro provedor falha | ✅ Sim | Desbloqueie o dispositivo (Seção 3) e reescaneie |
 
-### Correção Geral para "Não É Possível Transferir eSIM"
+**O teste de direcionamento de 30 segundos:** disque `*#06#`.
+- **Sem EID** → hardware. Pare por aqui — nada do que instalar mudará isso.
+- **EID presente, mas o fluxo "Add eSIM" falha** → software ou operadora. Ambos são corrigíveis, então continue lendo.
 
-1. **Tente a opção de transferência integrada:** Durante a configuração do novo iPhone, escolha "Transferir eSIM do iPhone próximo". Mantenha ambos os telefones próximos e com iOS 16+.
-2. **Use o aplicativo da operadora:** A maioria das principais operadoras (T‑Mobile, AT&T, Google Fi, US Mobile) permite que você solicite um novo código QR de eSIM em sua conta online. Digitalize esse código no novo telefone.
-3. **Entre em contato com o suporte:** Se o eSIM for de um provedor de viagem (ex., Airalo, Holafly), eles geralmente não suportam transferência – você deve comprar um novo plano.
+Esse único resultado te direciona à correção correta em cerca de 9 de cada 10 relatos de "não suportado" que vemos na Roami.
 
-### E Sobre "Forçar eSIM iPhone 7"?
 
-Alguns usuários pesquisam **"forçar esim iphone 7"** esperando ativar o eSIM em um telefone não suportado. **Isso é impossível.** O iPhone 7 não tem hardware eSIM. Nenhum hack de software pode adicioná‑lo. O mesmo se aplica ao iPhone 6s, 8 e iPhone X. A única maneira de "forçar" o eSIM é atualizar para um iPhone XR ou mais novo.
+## O Guia dos Modelos da China, Hong Kong e Macau
 
-Se **"esim não transferindo para novo iphone"** é o seu problema, e sua operadora suporta transferência, a opção de transferência integrada do iOS geralmente funciona. Para mais ajuda, consulte o [guia de transferência entre plataformas](/faq/how-to-transfer-esim-between-iphone-and-android/).
+Onde seu celular foi vendido determina qual hardware ele tem. Essa é a forma mais rápida de confirmar ou eliminar uma situação regional de sem-eSIM.
 
+### Referência Rápida dos Modelos da China
 
-## 5. Deletou eSIM Acidentalmente? Como Reativar
+| Final do Número de Modelo | Região | Suporte a eSIM |
+| :--- | :--- | :--- |
+| **CH/A** | China continental | ❌ Não (dual SIM físico) |
+| **HK/A** | Hong Kong | ⚠️ Varia (alguns modelos suportam SIM físico + digital) |
+| **LL/A** | EUA | ✅ Sim |
+| **ZA/A** | Canadá | ✅ Sim |
+| **J/A** | Japão | ✅ Sim (exceto alguns modelos de operadoras) |
+| **B/A** | Reino Unido/Europa | ✅ Sim |
+| **X/A** | Austrália/Nova Zelândia | ✅ Sim |
 
-Se você **deletou eSIM acidentalmente** ou **deletou eSIM por engano**, não entre em pânico. A recuperação depende do tipo de eSIM.
+### Status do eSIM nos iPhones da China Continental
 
-### Para eSIMs de Viagem (instalação única)
+- **Todos os iPhones vendidos na China continental** (exceto a série iPhone 16) têm dual SIM físico e nenhum eSIM.
+- **Celulares Android chineses** — Xiaomi, Oppo, Vivo, Huawei — vendidos internamente também geralmente não têm o chip de eSIM.
+- **Se você levar um celular internacional para a China:** ele funcionará com eSIMs de viagem internacionais, mas as operadoras chinesas locais não oferecem eSIM para turistas, então você ainda precisará de um plano de viagem de um provedor como a Roami.
 
-A maioria dos eSIMs de viagem é projetada para instalação única. Se você deletar o perfil, não poderá re‑digitalizar o mesmo código QR – ele dirá "já usado" ou "inválido".
+### Status do eSIM nos iPhones de Hong Kong
 
-**O que fazer:** 
-- Verifique seu e-mail: Alguns provedores permitem que você solicite um novo código QR (ex., o suporte da Roami pode regenerá‑lo).
-- Caso contrário, você precisará comprar um novo plano de eSIM.
+- **Modelos de iPhone:** os iPhones de Hong Kong geralmente suportam **eSIM + SIM físico** (um de cada) ou dual SIM físico, dependendo do modelo exato. Verifique o sufixo do seu modelo.
+- **Operadoras:** algumas operadoras de Hong Kong (CMHK, 1010, SmarTone) oferecem eSIM para clientes pós-pagos, mas o eSIM pré-pago é raro.
+- **Viajantes:** um eSIM de viagem internacional é mais simples e confiável do que tentar obter um eSIM local de Hong Kong.
 
-### Para eSIMs de Operadora (Verizon, T‑Mobile, etc.)
+### Status do eSIM nos iPhones de Macau
 
-Eles geralmente são recuperáveis. Abra o aplicativo da operadora ou faça login em sua conta online e procure por "Baixar eSIM novamente" ou "Obter novo código QR". Você pode precisar verificar sua identidade.
+- **Semelhante a Hong Kong:** a maioria dos iPhones de Macau é importada de Hong Kong e suporta eSIM + SIM físico.
+- **CTM** (a principal operadora de Macau) oferece eSIM para clientes pós-pagos, mas não para turistas.
 
-### Como Reativar eSIM Após Redefinição de Fábrica
+### Por Que os Modelos Chineses Abandonam o eSIM
 
-Se você redefiniu seu telefone sem primeiro remover o eSIM, o perfil pode ainda estar armazenado, mas inativo. Vá em **Configurações > Celular > Adicionar Plano Celular** – às vezes o plano antigo aparece como "Disponível". Toque nele para reativar.
+Não é uma medida de corte de custos da Apple ou das marcas Android — é regulamentação. A China continental exige que os celulares vendidos lá sejam certificados para dual SIM físico, e um perfil de eSIM regravável não se encaixa nesse marco doméstico. O resultado prático:
 
-Se não, siga os mesmos passos de recuperação acima.
+- **A Apple** envia os iPhones da China continental com **dois slots de nano-SIM físico** e nenhum chip eUICC.
+- **Xiaomi, Oppo, Vivo, Honor e Huawei** removem o eSIM de suas versões domésticas para a China, mesmo quando a versão global do mesmo celular o tem.
+- **Um celular da China levado ao exterior ainda não consegue ter o eSIM de volta** — é uma ausência de hardware, não um bloqueio de software. O inverso também vale: um celular internacional entrando na China funciona com eSIMs de viagem, mas as três grandes operadoras chinesas (China Mobile, China Unicom, China Telecom) não vendem eSIM para turistas.
 
-Para orientações gerais sobre **"como reativar esim"** em diferentes operadoras, a resposta universal é: **entre em contato com seu provedor de eSIM com seu número de pedido e solicite um novo código QR ou reativação**.
+**A correção:** se você comprou o celular na China continental, conte com um SIM de viagem físico — ou compre um celular de modelo global. Não há desbloqueio, jailbreak ou app que adicione o chip que falta.
 
-Se você está preocupado em deletar acidentalmente seu eSIM novamente, recomendamos manter um backup do seu código QR ou detalhes de ativação em um local seguro (como um gerenciador de senhas ou armazenamento em nuvem). Para instruções passo a passo de recuperação, consulte nosso [guia de solução de problemas de eSIM](/faq/esim-deep-troubleshooting-guide-2026/).
+### Identificando Seu Modelo pelo Número A
 
+O sufixo do número de peça (CH/A, LL/A e assim por diante) é o filtro rápido, mas o **número A** é a identificação precisa. Tome o iPhone 11 como o padrão que toda geração segue:
 
-## 6. iPhone Mudou para eSIM Incompatível – Preso em Loop de Inicialização
+| Modelo iPhone 11 | Região | eSIM? |
+| :--- | :--- | :--- |
+| **A2111** | Estados Unidos | ✅ Sim |
+| **A2221** | China continental | ❌ Não (dual SIM físico) |
+| **A2223** | Hong Kong / Macau | ✅ Sim (eSIM + físico) |
 
-Este é um erro raro, mas grave: **"iphone mudou para esim incompatível preso em loop de inicialização"**. Geralmente acontece quando você tenta instalar um perfil de eSIM corrompido ou de uma operadora que não suporta o firmware do seu dispositivo. O telefone fica preso no logotipo da Apple ou reinicia constantemente.
+**Como usar:** encontre seu número A (**Settings > General > About > Model Number**, depois toque no número para revelar o código com prefixo A) e compare-o com a lista de modelos da Apple. Se um vendedor anunciou um "iPhone eSIM global desbloqueado", mas o número A é um código da China, o anúncio estava errado — desista ou conte com um SIM físico.
 
-### Por Que Isso Acontece?
 
-Quando você instala um eSIM, o perfil faz alterações de baixo nível no firmware da banda base celular do seu dispositivo. Se o perfil for incompatível (ex., de uma operadora que não suporta seu modelo de dispositivo ou região), a banda base pode falhar ao inicializar corretamente, causando o loop de inicialização.
+## Bloqueio de Operadora e Como Removê-lo
 
-### Como Corrigir
+O bloqueio de operadora é a segunda razão mais comum de um celular perfeitamente capaz recusar um eSIM. É uma restrição de software que sua operadora coloca no dispositivo, não um limite de hardware.
 
-1. **Forçar reinicialização do seu iPhone:** 
-   - Pressione e solte rapidamente **Volume +**.
-   - Pressione e solte rapidamente **Volume –**.
-   - Pressione e segure o **Botão Lateral** até ver a tela do modo de recuperação (não solte antes).
-2. **Conecte‑se a um computador** com Finder (macOS) ou iTunes (Windows).
-3. **Escolha "Atualizar"** (não "Restaurar") – isso reinstalará o iOS sem apagar seus dados. O perfil de eSIM corrompido pode ser removido.
-4. Se isso falhar, você pode precisar **"Restaurar"**, o que apaga o telefone completamente. Após a restauração, configure como novo (não restaure de um backup que contenha o perfil de eSIM ruim).
+### O Que um Bloqueio de Operadora Faz
 
-### Prevenção
+Quando um celular está "SIM locked", ele só aceita SIMs e perfis de eSIM da operadora que o vendeu. Tentar adicionar um eSIM de viagem de outro provedor aciona "eSIM não suportado" ou "SIM não suportado". O chip embutido está presente e funcionando — a operadora está apenas bloqueando o acesso a ele.
 
-Sempre baixe perfis de eSIM de provedores confiáveis. Não tente instalar códigos QR aleatórios encontrados online.
+### Como Verificar o Status do Seu Bloqueio
 
-Se você usa dois eSIMs no seu iPhone e encontra conflitos, o guia **[iPhone Dual eSIM Não Funciona? 12 Correções](/faq/dual-esim-not-working-12-fixes-for-iphone/)** cobre etapas específicas de solução de problemas para dual‑eSIM.
+1. No iPhone: **Settings > General > About > Carrier Lock**. Deve dizer **"No SIM restrictions"**.
+2. No Android (Samsung): **Settings > About phone > Status** e procure pelo campo de bloqueio de SIM.
+3. No Android (Pixel): **Settings > About phone > SIM status**.
 
-Para problemas de eSIM no iPad e Apple Watch, consulte nosso [guia de eSIM para iPad e Apple Watch](/faq/ipad-apple-watch-esim-support-guide/).
+### Políticas de Desbloqueio das Operadoras dos EUA
 
+| Operadora | Requisito de Desbloqueio |
+| :--- | :--- |
+| **AT&T** | Aparelho totalmente quitado e ativo por 60 dias antes do desbloqueio |
+| **T-Mobile** | Aparelho quitado e ativo por 40 dias; solicite pelo app da T-Mobile |
+| **Verizon** | A maioria dos celulares se desbloqueia automaticamente 60 dias após a compra |
 
-## 7. "eSIM Não Transferindo para Novo iPhone" – Causas Comuns
+### Como Desbloquear Seu Dispositivo
 
-Você tem um novo iPhone e quer mover seu eSIM, mas **"esim não transferindo para novo iphone"**. Aqui está o porquê:
+1. **Solicite o desbloqueio à sua operadora** — geralmente é grátis assim que o celular está quitado, e a maioria das operadoras dos EUA permite solicitar pelo app ou por um formulário na web.
+2. **Aguarde a confirmação** — a operadora envia o desbloqueio; você pode precisar reiniciar o celular.
+3. **Verifique** — confira novamente o campo Carrier Lock até que diga "No SIM restrictions".
+4. **Depois, ative** — uma vez desbloqueado, reescaneie o código QR do seu eSIM de viagem.
 
-- **Seu iPhone antigo ainda está ativo** – O eSIM não pode estar ativo em dois dispositivos simultaneamente. Delete‑o do telefone antigo primeiro (Configurações > Celular > toque no eSIM > Remover Plano Celular).
-- **A operadora não suporta transferência de eSIM** – Algumas operadoras (especialmente eSIMs de viagem pré‑pagos) são de uso único.
-- **Código QR expirado** – Se você está reutilizando um código QR antigo, verifique a data de validade (geralmente 30–90 dias).
-- **Apple IDs diferentes** – Ambos os dispositivos precisam estar conectados ao mesmo Apple ID para que a transferência integrada funcione.
+> **Nota:** um bloqueio de operadora é uma restrição no nível do celular, não do plano. Desbloquear seu dispositivo não cancela seu contrato — apenas libera o aparelho para usar SIMs e eSIMs de outros provedores.
 
-**Como corrigir:** Siga a seção "não é possível transferir eSIM" acima. Se você está migrando de um iPhone para um Android (ou vice‑versa), quase certamente precisará de um novo perfil de eSIM – a transferência entre plataformas raramente é suportada. Para etapas detalhadas, consulte **[Como Transferir eSIM Entre iPhone e Android](/faq/how-to-transfer-esim-between-iphone-and-android/)**.
+### Mais Operadoras dos EUA e Políticas de Desbloqueio de MVNOs
 
-Se você é cliente da **Verizon**, os passos na Seção 4 se aplicam especificamente a erros **"seu sim não é suportado transferência esim verizon"**. Para usuários da T‑Mobile, o aplicativo deles oferece uma maneira fácil de transferir eSIMs entre dispositivos.
+As três grandes não são as únicas com que as pessoas se deparam. Celulares pré-pagos e de MVNOs geralmente ficam bloqueados por mais tempo, e esse pode ser o motivo escondido de um eSIM de viagem "com ótimo preço" não instalar.
 
+| Operadora | Requisito de Desbloqueio |
+| :--- | :--- |
+| **Cricket Wireless** | 6 meses de serviço pago (a menos que comprado a preço cheio) |
+| **Metro by T-Mobile** | 180 dias de serviço pago |
+| **Boost Mobile** | 12 meses de serviço pago |
+| **Spectrum Mobile** | 60 dias |
+| **Xfinity Mobile** | 60 dias de serviço ativo |
+| **US Cellular** | 120 dias |
+| **Visible (pré-pago da Verizon)** | 60 dias de serviço pago |
 
-## 8. Solução de Problemas Geral: Como Corrigir eSIM no iPhone (Passo a Passo)
+### O Que Você Precisa para Solicitar um Desbloqueio
 
-Se você ainda está vendo **"esim não funciona"** ou **"como corrigir esim no iphone"** é sua consulta de pesquisa, siga esta lista de verificação universal:
+Os desbloqueios são grátis assim que você está elegível, mas a solicitação exige algumas coisas prontas:
 
-1. **Verifique a compatibilidade do seu dispositivo** – Disque `*#06#` para EID. Se nenhum EID aparecer, seu telefone **não** suporta eSIM. Esta é a verificação definitiva para **meu telefone não suporta esim**.
-2. **Certifique‑se de que não é um modelo da China** – Número do modelo terminando com CH/A = sem eSIM.
-3. **Atualize o iOS** – Configurações > Geral > Atualização de Software.
-4. **Verifique o bloqueio da operadora** – Configurações > Geral > Sobre > Bloqueio de Operadora deve dizer "Sem restrições de SIM".
-5. **Redefina as configurações de rede** – Configurações > Geral > Transferir ou Redefinir iPhone > Redefinir > Redefinir Configurações de Rede (isso não deletará perfis de eSIM, mas pode limpar senhas de Wi‑Fi).
-6. **Delete eSIMs antigos** – Muitos perfis armazenados podem causar erros. Vá em Configurações > Celular e remova quaisquer eSIMs não utilizados.
-7. **Reinstale o eSIM** – Solicite um novo código QR do seu provedor se o antigo expirou.
-8. **Ative o Roaming de Dados** para a linha de eSIM.
+1. **Seu IMEI** — disque `*#06#` e anote o número de 15 dígitos (não o EID).
+2. **Seu número de conta e PIN/senha da conta** — encontre-os no app da sua operadora ou em uma conta recente.
+3. **O celular totalmente quitado** — operadoras não desbloqueiam um dispositivo com saldo de parcelamento em aberto.
+4. **Elegibilidade cumprida** — cada operadora tem um prazo mínimo de dias ativos (veja as tabelas acima).
 
-Se você fez tudo acima e ainda recebe **"não foi possível ativar eSIM"**, entre em contato com o suporte do seu provedor de eSIM com os detalhes do seu pedido e uma captura de tela do erro.
+**Onde solicitar:** AT&T e T-Mobile têm portais de desbloqueio online e formulários no app; a Verizon desbloqueia automaticamente a maioria dos celulares após 60 dias, sem necessidade de solicitação. Para MVNOs (Cricket, Metro, Boost), use o app delas ou ligue diretamente para o suporte.
 
-Para ajuda adicional com erros **esim não compatível iphone**, consulte nosso [guia de compatibilidade eSIM para iPhone](/faq/iphone-11-esim-compatible/). Para **usuários Android**, os mesmos passos se aplicam na maioria dos casos – basta navegar pelo menu de configurações do Android.
+**Sobre serviços de "desbloqueio instantâneo" de terceiros:** são uma aposta. Muitos usam ferramentas vazadas de operadoras que fazem o celular ser bloqueado novamente, e alguns são golpes puros. Se sua operadora disser que você ainda não está elegível, espere — não pague US$ 20 a um estranho para fazer isso "por" você.
 
 
-## 9. "Meu Telefone Não Suporta eSIM" – Mas Eu Achei Que Suportava
+### Os Três Bloqueios Diferentes
 
-Às vezes, os usuários pesquisam **"meu telefone não suporta esim"** depois de comprar um telefone que acreditavam ter eSIM. Isso geralmente acontece com:
+As pessoas dizem "meu celular está bloqueado" e querem dizer três coisas completamente diferentes. Cada uma precisa de uma correção diferente, então vale separá-las.
 
-- **Samsung Galaxy S20 FE** – Muitas variantes regionais não têm eSIM. A Samsung desativou o eSIM nas versões bloqueadas por operadora dos USA do S20 FE para reduzir custos. Consulte nosso [guia de compatibilidade eSIM para Samsung](/faq/samsung-s20-esim-compatible/) para detalhes.
-- **Google Pixel 4a (versões do Japão)** – Os modelos de operadoras japonesas desativam o eSIM devido a acordos com operadoras locais. Consulte nosso [guia de compatibilidade eSIM para Pixel](/faq/google-pixel-6-esim-compatible/) para detalhes.
-- **Série Xiaomi Redmi Note** – Nenhum tem eSIM, apesar dos rumores online. A Xiaomi reserva o eSIM apenas para seus modelos topo de linha.
-- **iPhone 8 / X** – Hardware antigo. A Apple só adicionou chips eUICC a partir da geração XS/XR.
+| Tipo de Bloqueio | O que é | Onde você o vê | Correção |
+| :--- | :--- | :--- | :--- |
+| **Bloqueio de celular (bloqueio de ativação)** | Antifurto: iCloud Activation Lock (iPhone) ou Google FRP (Android), vinculado à conta do proprietário anterior | "Activation Lock" / "Este iPhone está vinculado a um Apple ID" na configuração, ou um aviso de conta Google no Android | Apenas o proprietário original pode removê-lo — nunca compre um celular que ainda o mostra |
+| **Bloqueio de região** | Uma diferença de hardware de onde o celular foi vendido (modelos da China não têm o chip eUICC) | Sem EID no `*#06#`; número de modelo termina em CH/A | Não pode ser removido — use um SIM físico ou outro celular |
+| **Bloqueio de operadora** | Uma restrição de software da sua operadora que limita o celular à rede dela | **Settings > General > About > Carrier Lock** mostra "SIM locked" | Solicite o desbloqueio à operadora (Seção 3) |
 
-**O que fazer:** Antes de comprar um telefone, verifique as especificações oficiais. Disque `*#06#` no dispositivo (se você o tiver) para confirmar o EID. Use um **verificador de compatibilidade esim** online com o número IMEI. A **[Lista completa de telefones compatíveis com eSIM (2026)](/compatibility/)** é o seu melhor recurso para verificar qualquer modelo.
+**A desambiguação rápida:**
+- Vendo um **aviso de Apple ID ou conta Google** = bloqueio de celular/ativação (um problema de proprietário).
+- **Nenhum EID de jeito nenhum** = bloqueio de região (um problema de hardware).
+- **EID presente + "SIM locked"** = bloqueio de operadora (corrigível, grátis assim que elegível).
 
-Para aqueles que já têm um telefone que não suporta eSIM, você ainda pode usar um SIM físico de viagem. Muitos provedores de eSIM também oferecem chips SIM físicos enviados para seu endereço.
+A maioria das queixas de "eSIM não funciona" que sobrevivem à verificação de 2 minutos são do tipo bloqueio de operadora — e essa quase sempre é resolvível.
 
 
-## 10. Solução de Problemas de eSIM no Android: Samsung, Pixel e Outros Dispositivos
+## Meu Celular Não Suporta eSIM, Mas Deveria
 
-Se você está enfrentando problemas de **esim não funciona android**, os passos de solução de problemas frequentemente diferem por marca. Aqui está o que verificar:
+Alguns dispositivos são anunciados com eSIM, porém variantes regionais ou de operadoras específicas silenciosamente removem o recurso. Estes são os culpados de sempre:
 
-### Problemas com eSIM no Samsung Galaxy
+- **Samsung Galaxy S20 FE** – as versões bloqueadas de operadoras dos EUA têm o recurso desativado em software para reduzir custos, embora o modelo global o suporte.
+- **Google Pixel 4a (versões do Japão)** – Docomo e SoftBank desativam o eSIM em suas unidades devido a acordos locais com operadoras.
+- **Série Xiaomi Redmi Note** – nenhum tem o chip eUICC, apesar dos rumores online. A Xiaomi reserva o eSIM para seus topos de linha.
+- **iPhone 8 / 8 Plus / X** – hardware pré-eUICC; a Apple só adicionou o chip a partir da geração XS/XR.
+- **Série Samsung Galaxy A** – apenas modelos selecionados (A54, A53) têm o chip; a maioria da série A não tem.
 
-Os usuários Samsung frequentemente encontram erros de **samsung esim não funciona**, especialmente em modelos bloqueados por operadora ou específicos de região.
+### Celulares que Parecem Compatíveis com eSIM, Mas Não São
 
-**Problemas comuns com eSIM na Samsung:**
+| Modelo de Celular | Suporte a eSIM | Por quê? |
+| :--- | :--- | :--- |
+| **iPhone 8 / 8 Plus / X** | ❌ Não | Hardware pré-eUICC |
+| **iPhone XS/XR (China)** | ❌ Não | Hardware de dual SIM físico |
+| **Samsung Galaxy S20 FE (operadora dos EUA)** | ❌ Não | Desativado pela operadora |
+| **Samsung Galaxy A13 / A23** | ❌ Não | Modelo de entrada, sem eUICC |
+| **Google Pixel 4a (Japão)** | ❌ Não | Desativado pela operadora (Docomo/SoftBank) |
+| **Google Pixel 3 (alguns modelos)** | ⚠️ Varia | Verifique a região; alguns têm, outros não |
+| **Série Xiaomi Redmi Note** | ❌ Não | Sem hardware eUICC |
+| **Xiaomi 12/13 (China)** | ❌ Não | Versões domésticas da China não têm o hardware |
+| **OnePlus Nord (versão China)** | ❌ Não | Região China não tem o hardware |
+| **Huawei (todos os domésticos da China)** | ❌ Não | Sem serviços Google, sem hardware de eSIM |
+| **Série Motorola G (a maioria)** | ❌ Não | Modelos econômicos sem eUICC |
 
-- **S20 FE e série A** – Muitas variantes regionais não têm eSIM. Se você vir **"samsung esim não funciona"** em um S20 FE, verifique seu número de modelo. As versões de operadoras dos USA geralmente têm eSIM desativado.
-- **Telefones Samsung bloqueados por operadora** – Mesmo que o hardware suporte eSIM, a AT&T e a T‑Mobile frequentemente o desativam em seus dispositivos Samsung com marca. Você precisará solicitar um desbloqueio de SIM.
-- **Versão Android** – O suporte a eSIM melhorou com o OneUI 4.0 (Android 12). Se você estiver em uma versão mais antiga, atualize primeiro.
+**O que fazer:** Antes de comprar qualquer celular, disque `*#06#` nele (se tiver em mãos) para confirmar o EID, ou verifique o IMEI em um verificador online de compatibilidade de eSIM. A **[lista completa de celulares compatíveis com eSIM (2026)](/compatibility/)** é seu melhor recurso para verificar qualquer modelo.
 
-**Como verificar na Samsung:**
-- **Configurações > Conexões > Gerenciador de SIM** – procure por "Adicionar eSIM" ou "Plano móvel". Se estiver faltando, o eSIM não está disponível.
-- Disque `*#06#` – se nenhum EID aparecer, sua Samsung não suporta eSIM.
 
-**Correção específica para Samsung:** Se sua Samsung suporta eSIM, mas não está funcionando, tente:
-1. **Limpar partição de cache** – Desligue o telefone > Volume + + Power > Modo de recuperação > Limpar partição de cache.
-2. **Redefinir configurações de rede** – Configurações > Gerenciamento Geral > Redefinir > Redefinir configurações de rede.
-3. **Selecionar operadora manualmente** – Configurações > Conexões > Redes móveis > Operadoras de rede > Selecionar manualmente.
+## Compatibilidade de eSIM no Android por Marca
 
-Para orientações mais específicas para Samsung, consulte nosso [guia de compatibilidade eSIM para Samsung](/faq/samsung-s20-esim-compatible/) e a página [Samsung Support – eSIM](https://www.samsung.com/us/support/).
+Se você está no Android, a maior variável não é o sistema — é se *sua variante específica* veio com o chip. Aqui está o quadro modelo por modelo.
 
-### Problemas com eSIM no Google Pixel
+### Compatibilidade de eSIM do Samsung Galaxy
 
-Usuários Pixel às vezes veem mensagens de **pixel esim não suportado**, frequentemente devido a restrições de região ou operadora.
+| Modelo | Suporte a eSIM | Observações |
+| :--- | :--- | :--- |
+| **Galaxy S20 / S21 / S22 / S23 / S24** | ✅ Sim | Todas as variantes globais |
+| **Galaxy S20 FE** | ❌ Não (operadora dos EUA) / ✅ Sim (global) | Verifique o número de modelo |
+| **Galaxy A54 / A53** | ✅ Sim | Apenas A-series selecionados |
+| **Galaxy A13 / A23 / A33** | ❌ Não | Modelos econômicos |
+| **Galaxy Z Fold / Flip** | ✅ Sim | Todos os modelos |
+| **Galaxy Note 20** | ✅ Sim | Todos os modelos |
 
-**Problemas comuns com eSIM no Pixel:**
+**Como verificar no Samsung:** Disque `*#06#` e procure por um EID, ou abra **Settings > Connections > SIM Card Manager** e procure por "Add eSIM" / "Add mobile plan". Se nenhum estiver presente, sua variante não tem o recurso. Para mais, veja nosso [guia de compatibilidade de eSIM da Samsung](/faq/samsung-s20-esim-compatible/) e o [Suporte Samsung](https://www.samsung.com/us/support/).
 
-- **Pixel 4a (versões de operadoras japonesas)** – Docomo e SoftBank desativam o eSIM em seus modelos Pixel 4a. A página [Google Support – eSIM no Pixel](https://support.google.com/pixel/answer/9912709) confirma quais modelos suportam eSIM.
-- **Pixels bloqueados por operadora** – As versões da Verizon e AT&T podem ter eSIM desativado ou restrito às suas próprias redes.
-- **Android 12 ou anterior** – O eSIM funciona melhor no Android 13 e mais novos.
+### Compatibilidade de eSIM do Google Pixel
 
-**Como verificar no Pixel:**
-- **Configurações > Rede e Internet > SIMs** – procure por "Baixar um SIM em vez?" ou "Adicionar eSIM". Se estiver faltando, o eSIM não está disponível.
-- Disque `*#06#` – se nenhum EID aparecer, seu Pixel não suporta eSIM.
+| Modelo | Suporte a eSIM | Observações |
+| :--- | :--- | :--- |
+| **Pixel 3 / 3 XL** | ✅ Sim | Primeiro Pixel com o recurso |
+| **Pixel 3a / 3a XL** | ✅ Sim | – |
+| **Pixel 4 / 4 XL** | ✅ Sim | – |
+| **Pixel 4a** | ⚠️ Varia | Versões de operadoras do Japão = NÃO |
+| **Pixel 5 / 5a** | ✅ Sim | – |
+| **Pixel 6 / 6 Pro / 6a** | ✅ Sim | – |
+| **Pixel 7 / 7 Pro / 7a** | ✅ Sim | – |
+| **Pixel 8 / 8 Pro** | ✅ Sim | – |
 
-**Correção específica para Pixel:** Se seu Pixel suporta eSIM, mas a ativação falha:
-1. **Desative "Seleção automática de rede"** – Configurações > Rede e Internet > Internet > toque no ícone de engrenagem > Seleção de rede > desative automático > escolha uma operadora manualmente.
-2. **Redefinir configurações de rede móvel** – Configurações > Sistema > Opções de redefinição > Redefinir Wi‑Fi, mobile e Bluetooth.
+**Como verificar no Pixel:** Disque `*#06#` para o EID, ou abra **Settings > Network & Internet > SIMs** e procure por "Download a SIM instead?". Se estiver ausente, a variante está bloqueada ou não tem o chip. Para mais, veja nosso [guia de compatibilidade de eSIM do Pixel](/faq/google-pixel-6-esim-compatible/) e a página [Suporte Google — eSIM no Pixel](https://support.google.com/pixelphone/answer/7086887).
 
-Para orientações mais específicas para Pixel, consulte nosso [guia de compatibilidade eSIM para Pixel](/faq/google-pixel-6-esim-compatible/).
+### Compatibilidade de eSIM do OnePlus
 
-### Outros Dispositivos Android
+A OnePlus só adicionou eSIM a partir do **OnePlus 12**. O OnePlus 11, 10, 9 e a série Nord não têm o hardware.
 
-Para Motorola, OnePlus, Xiaomi e outras marcas, os passos universais de solução de problemas neste guia se aplicam. Se seu dispositivo não mostrar um EID ao discar `*#06#`, ele não tem hardware eSIM.
+| Modelo | Suporte a eSIM |
+| :--- | :--- |
+| **OnePlus 12** | ✅ Sim |
+| **OnePlus 11** | ❌ Não |
+| **OnePlus 10** | ❌ Não |
+| **OnePlus 9** | ❌ Não |
+| **Série OnePlus Nord** | ❌ Não (exceto algumas variantes da UE) |
 
+### Xiaomi, Huawei, Motorola e Outras Marcas de eSIM
 
-## 11. Perfil eSIM Expirado ou Código QR Inválido – O Que Fazer
+- **Xiaomi** – modelos topo de linha (Xiaomi 12/13 versões globais) podem suportar eSIM, mas as unidades domésticas da China não. A linha Redmi Note não tem eUICC algum.
+- **Huawei** – o suporte é limitado a poucos modelos (P40, Mate 40 e mais recentes); muitos celulares pós-2020 não têm eSIM devido às sanções dos EUA. Verifique **Settings > Mobile Network > eSIM** — se a opção estiver ausente, não é suportado.
+- **Motorola** – a maioria dos modelos econômicos da série G não tem o chip; a linha Moto G Power e Edge varia por região.
 
-Se você vir **"perfil esim expirado"** ou **"código qr esim inválido"**, seu código de ativação não é mais utilizável.
+O teste universal para todos esses é o mesmo: disque `*#06#` e procure pelo EID.
 
-### Por Que Isso Acontece?
 
-- Os códigos QR de eSIM geralmente expiram **30–90 dias** após a emissão. Isso é uma medida de segurança para evitar ativação não autorizada.
-- Alguns provedores definem períodos de validade mais curtos para eSIMs promocionais ou de teste.
-- Se você já digitalizou o código uma vez, ele se torna inválido por razões de segurança – os códigos QR de eSIM são projetados para uso único.
+## Verificação de Capacidade de eSIM: Android vs iPhone
 
-### O Que Fazer Quando um eSIM Expira
+A mesma verificação de 2 minutos, dois menus diferentes. Passe esta tabela para um amigo na outra plataforma.
 
-1. **Entre em contato com seu provedor de eSIM** – Eles podem gerar um novo código QR. Alguns provedores permitem que você solicite um novo código através de seu aplicativo ou site.
-2. **Verifique seu e-mail** – O e‑mail de ativação original pode conter um link para regenerar o código QR.
-3. **Compre um novo plano** – Se o provedor não puder regenerar o código, você precisará comprar um novo plano.
-4. **Verifique com sua operadora** – Para eSIMs de operadoras pós‑pagas (Verizon, T‑Mobile, AT&T), você geralmente pode solicitar um novo eSIM através de seu aplicativo ou serviço de atendimento ao cliente.
+| Verificação | iPhone | Android (Samsung) | Android (Pixel) |
+| :--- | :--- | :--- | :--- |
+| **EID** | Disque `*#06#` | Disque `*#06#` | Disque `*#06#` |
+| **Menu Add eSIM** | **Settings > Cellular > Add eSIM** | **Settings > Connections > SIM Card Manager > Add eSIM** | **Settings > Network & internet > SIMs > Download a SIM instead?** |
+| **Número de modelo** | **Settings > General > About > Model Number** | **Settings > About phone > Model number** | **Settings > About phone > Model** |
+| **Status do bloqueio** | **Settings > General > About > Carrier Lock** | **Settings > About phone > Status** | **Settings > About phone > SIM status** |
 
-### Como Prevenir a Expiração do eSIM
+**A única diferença que importa:** no iPhone, o suporte a eSIM é tudo-ou-nada por geração e região — fácil de prever. No Android, é por variante, então dois celulares Galaxy ou Pixel "iguais" podem se comportar de forma diferente. Na dúvida no Android, confie no EID do `*#06#` mais que na ficha técnica.
 
-- Sempre instale seu eSIM **dentro de 30 dias** após a compra.
-- Se você estiver comprando um eSIM para uma viagem futura, verifique a política de validade do provedor antes de comprar.
-- Salve seu código QR em vários lugares (e‑mail, armazenamento em nuvem, cópia impressa) para que você possa acessá‑lo mesmo se o original expirar.
 
-Para mais ajuda com eSIMs expirados, consulte nosso [guia de solução de problemas de eSIM](/faq/esim-deep-troubleshooting-guide-2026/).
+## Seu Celular Suporta eSIM, Mas a Ativação Falha
 
+Se seu celular passou na verificação de hardware acima e você ainda vê uma mensagem de erro específica, o problema não é mais de compatibilidade — é de ativação ou de rede. Esses têm sua própria referência dedicada:
 
-## 12. eSIM Não Funciona no iPad ou Apple Watch – Correções Específicas por Dispositivo
+- **"Activation failed", "No Service", "QR invalid", "Cellular Plan Cannot Be Added", erro de restauração 4013/4014 e todo outro erro na tela** → veja o [Guia de Troubleshooting Profundo de eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/), que mapeia cada mensagem a uma correção.
+- **Ajustes de APN e a tabela completa de APNs por provedor** → a referência canônica de APN também está no [Guia de Troubleshooting Profundo de eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/).
+- **Ativação passo a passo (QR / manual / app da operadora)** → veja [Como Ativar um eSIM](/faq/how-to-activate-an-esim/).
+- **Mover um perfil para um novo celular** → veja [Como Transferir eSIM entre iPhone e Android](/faq/how-to-transfer-esim-between-iphone-and-android/).
+- **Configuração de iPad e Apple Watch** → veja o [guia de eSIM para iPad e Apple Watch](/faq/ipad-apple-watch-esim-support-guide/).
 
-Se você está enfrentando **esim não funciona ipad** ou **ipad esim não funciona**, as correções diferem da solução de problemas do iPhone.
 
-### Problemas com eSIM no iPad
+## Perguntas Frequentes
 
-**Problemas comuns com eSIM no iPad:**
-
-- **O modelo de iPad deve suportar eSIM** – Apenas iPad Pro (3ª geração e mais novos), iPad Air (3ª geração e mais novos), iPad (10ª geração e mais novos) e iPad mini (6ª geração e mais novos) suportam eSIM.
-- **Apenas modelo celular** – iPads apenas com Wi‑Fi não têm hardware eSIM.
-- **Bloqueio de operadora** – Alguns iPads vendidos por operadoras são bloqueados para uma rede específica.
-
-**Como corrigir problemas de ativação de eSIM no iPad:**
-
-1. **Verifique o bloqueio da operadora** – Configurações > Geral > Sobre > Bloqueio de Operadora deve dizer "Sem restrições de SIM".
-2. **Reinicie o iPad** – Uma simples reinicialização geralmente resolve atrasos na ativação.
-3. **Redefinir configurações de rede** – Configurações > Geral > Transferir ou Redefinir iPad > Redefinir > Redefinir Configurações de Rede.
-4. **Instale via código QR** – Vá em Configurações > Dados Celulares > Adicionar Plano Celular > Digitalizar código QR.
-
-### Problemas com eSIM no Apple Watch
-
-**Problemas comuns com eSIM no Apple Watch:**
-
-- **O Apple Watch deve ser modelo celular** – Relógios apenas com GPS não suportam eSIM.
-- **A operadora deve suportar Apple Watch** – Nem todas as operadoras suportam eSIM no Apple Watch. Verifique com seu provedor.
-- **O relógio deve estar emparelhado com um iPhone** – Você configura o eSIM através do aplicativo Watch no iPhone.
-
-**Como corrigir problemas de ativação de eSIM no Apple Watch:**
-
-1. **Abra o aplicativo Watch no iPhone** > My Watch > Celular > Configurar Celular.
-2. **Verifique o suporte da operadora** – Se sua operadora não estiver listada, entre em contato com ela para adicionar um plano Apple Watch.
-3. **Reinicie ambos os dispositivos** – Reinicie o iPhone e o Apple Watch, depois tente novamente.
-
-Para mais orientações sobre eSIM no iPad e Apple Watch, consulte nosso [guia de eSIM para iPad e Apple Watch](/faq/ipad-apple-watch-esim-support-guide/).
-
-
-## 13. Roaming de Dados, Hotspot e iMessage Não Funcionam com eSIM
-
-Mesmo após a ativação bem‑sucedida do eSIM, você pode encontrar problemas com recursos específicos. Aqui está como corrigir **hotspot esim não funciona**, **iMessage esim não funciona** e **roaming de dados esim não funciona**.
-
-### Roaming de Dados Não Funciona
-
-Se você tem **roaming de dados esim não funciona**:
-
-1. **Ative o Roaming de Dados** – Configurações > Celular > [seu eSIM] > Roaming de Dados (ATIVADO). Isso é necessário para a maioria dos eSIMs de viagem.
-2. **Verifique as configurações de APN** – Configurações > Celular > [seu eSIM] > Rede de Dados Celular > insira o APN.
-3. **Ative o Modo Avião** – Ligar/Desligar por 30 segundos para forçar um novo registro na rede.
-4. **Seleção manual de rede** – Configurações > Celular > [seu eSIM] > Seleção de Rede > desative Automático > escolha uma operadora.
-
-### Hotspot Não Funciona
-
-Se você tem **hotspot esim não funciona**:
-
-1. **Verifique seu plano** – Alguns planos de eSIM não permitem o uso de hotspot (especialmente planos "ilimitados" de alguns provedores). Verifique sua Política de Uso Justo.
-2. **Ative o hotspot** – Configurações > Hotspot Pessoal > Permitir que outros entrem (ATIVADO).
-3. **Verifique o APN** – Algumas operadoras exigem um APN específico para a funcionalidade de hotspot. Entre em contato com seu provedor.
-4. **Reinicie seu telefone** após fazer as alterações.
-5. **Tente renomear seu dispositivo** – Alguns usuários relatam que alterar o nome do dispositivo resolve problemas de conectividade.
-
-### iMessage Não Funciona com eSIM
-
-Se você tem **iMessage esim não funciona**:
-
-1. **Verifique a ativação do iMessage** – Configurações > Mensagens > iMessage (ATIVADO). Se disser "Aguardando ativação", tente desativar e ativar novamente.
-2. **Verifique seu número de telefone** – Configurações > Mensagens > Enviar e Receber > certifique‑se de que seu número de eSIM está selecionado.
-3. **Saia e entre novamente** – Configurações > Apple ID > Sair, depois entre novamente.
-4. **Reinicie seu telefone**.
-5. **Verifique seu Apple ID** – Certifique‑se de que você está conectado ao mesmo Apple ID em todos os dispositivos.
-
-### Wi‑Fi Calling Não Funciona com eSIM
-
-Se o Wi‑Fi Calling não funcionar no seu eSIM:
-
-1. **Ative o Wi‑Fi Calling** – Configurações > Celular > [seu eSIM] > Wi‑Fi Calling (ATIVADO).
-2. **Adicione endereço de emergência** – Algumas operadoras exigem que você registre um endereço de emergência.
-3. **Verifique o suporte da operadora** – Nem todas as operadoras suportam Wi‑Fi Calling em eSIM.
-
-Para problemas persistentes com qualquer um desses recursos, entre em contato com a equipe de suporte do seu provedor de eSIM com mensagens de erro específicas e detalhes do seu dispositivo. Consulte nosso [guia de solução de problemas de eSIM](/faq/esim-deep-troubleshooting-guide-2026/) para etapas de depuração mais avançadas.
-
-
-## 14. Referência Rápida: Mensagens de Erro e Soluções
-
-| Mensagem de Erro | Causa Provável | Solução |
-|---------------|--------------|----------|
-| **"eSIM não suportado"** / **"este eSIM não é compatível com este iPhone"** | Telefone não tem hardware eSIM (modelo da China, iPhone 8/X ou mais antigo) | Use SIM físico ou atualize. Verifique [lista de compatibilidade](/compatibility/) |
-| **"eSIM não compatível iPhone"** | Mesmo que acima | Disque `*#06#` – se não houver EID, sem eSIM |
-| **"Rede eSIM não disponível"** | Roaming de dados desligado ou APN ausente | Ative Roaming de Dados; insira APN |
-| **"não foi possível ativar eSIM"** | Problema de Wi‑Fi ou servidor | Reinicie, verifique Wi‑Fi, aguarde e tente novamente |
-| **"seu sim não é suportado transferência esim"** | Operadora não permite transferência | Use o aplicativo da operadora para novo código QR |
-| **"seu sim não é suportado transferência esim verizon"** | Bloqueio específico da Verizon | Remova o eSIM do dispositivo antigo primeiro |
-| **"eSIM não transferindo para novo iphone"** | eSIM antigo ainda ativo ou uso único | Delete do telefone antigo; solicite novo QR |
-| **"deletou eSIM acidentalmente"** | Erro do usuário | Entre em contato com o provedor para substituição. Consulte [guia de solução de problemas](/faq/esim-deep-troubleshooting-guide-2026/) |
-| **"iphone mudou para esim incompatível preso em loop de inicialização"** | Perfil corrompido | Reinicialização forçada > Atualizar via computador |
-| **"perfil esim expirado"** | Código QR expirado | Entre em contato com o provedor para novo código QR |
-| **"código qr esim inválido"** | Código já usado ou expirado | Solicite novo código QR |
-| **"samsung esim não funciona"** | Bloqueio de operadora ou variante regional | Verifique compatibilidade. Consulte [guia Samsung](/faq/samsung-s20-esim-compatible/) |
-| **"pixel esim não suportado"** | Versão do Japão ou bloqueio de operadora | Verifique compatibilidade. Consulte [guia Pixel](/faq/google-pixel-6-esim-compatible/) |
-
-
-## 15. Ainda Preso? Precisa de Ajuda Mais Detalhada?
-
-Este guia cobre os problemas mais comuns de eSIM. Para solução de problemas mais avançada (incluindo problemas de dual‑eSIM, depuração de APN e correções específicas por operadora), consulte:
-
-- **[Guia de Solução de Problemas de eSIM 2026](/faq/esim-deep-troubleshooting-guide-2026/)** – para erros de ativação persistentes e depuração de rede.
-- **[iPhone Dual eSIM Não Funciona? 12 Correções](/faq/dual-esim-not-working-12-fixes-for-iphone/)** – se você estiver usando dois eSIMs simultaneamente em um iPhone.
-- **[Como Transferir eSIM Entre iPhone e Android](/faq/how-to-transfer-esim-between-iphone-and-android/)** – passo a passo para transferências entre plataformas.
-
-E para uma referência completa sobre quais telefones funcionam com eSIM, visite a **[Lista completa de telefones compatíveis com eSIM (2026)](/compatibility/)**.
-
-
-## ❓ Perguntas Frequentes
-
-**Por que meu iPhone XR diz "eSIM não suportado" mesmo que devesse funcionar?**
-Se você tem um modelo da China continental (número do modelo termina com CH/A), seu iPhone XR não tem hardware eSIM. Verifique também o status de bloqueio da operadora.
+**Por que meu iPhone XR diz "eSIM não suportado" mesmo que deveria funcionar?**
+Se seu número de modelo termina em CH/A, é uma unidade da China continental sem chip de eSIM. Caso contrário, verifique o status do bloqueio de operadora — um XR bloqueado rejeitará perfis de outros provedores.
 
 **Posso forçar o eSIM em um iPhone 7?**
-Não. **Forçar esim iphone 7** é impossível – não há hardware eSIM. O mesmo se aplica ao iPhone 6s, 8 e iPhone X.
+Não. O iPhone 7 (e 6s, 8 e X) é anterior ao chip eUICC por completo. Nenhum hack de software pode adicionar hardware que não existe.
 
-**Deletei meu eSIM por engano – como recuperá‑lo?**
-Entre em contato com seu provedor de eSIM. eSIMs de viagem geralmente podem ser reemitidos; eSIMs de operadora podem ser baixados novamente através de seu aplicativo.
+**Qual a diferença entre EID e IMEI?**
+O IMEI (15 dígitos) identifica o modelo do seu celular — todo celular tem um. O EID (32 dígitos) identifica o chip de SIM embutido — apenas celulares compatíveis com eSIM têm um. Se o `*#06#` não mostra EID, seu celular não pode usar eSIM.
 
-**Por que meu eSIM está travado em "Ativando" por horas?**
-Tente ativar o Modo Avião, reiniciar o telefone ou trocar de rede Wi‑Fi. Se ainda estiver travado, delete o perfil (como último recurso) e solicite um novo código QR.
+**O que significa "EID não encontrado" quando disco `*#06#`?**
+Significa que seu celular não tem o chip de hardware eUICC necessário para perfis de SIM digital. É uma limitação de hardware, não algo que uma atualização de software possa corrigir.
 
-**O que significa "seu sim não é suportado transferência esim verizon"?**
-A Verizon exige que você remova o eSIM do dispositivo antigo antes de transferir para um novo. Siga os passos específicos da Verizon na Seção 4.
+**Meu celular não suporta eSIM — ainda posso usar um eSIM de viagem?**
+Não. Você precisa do chip embutido, então um SIM físico é sua única opção. Muitos provedores (incluindo a Roami) também vendem cartões SIM físicos.
 
-**Meu telefone não suporta eSIM – posso ainda usar um eSIM de viagem?**
-Não – você precisa de um SIM físico. Muitos provedores de eSIM também vendem chips SIM físicos.
+**Como sei se meu Samsung Galaxy tem eSIM?**
+Disque `*#06#` — se um EID aparecer, é suportado. Você também pode verificar em Settings > Connections > SIM Card Manager se há uma opção "Add eSIM". Algumas variantes de operadoras dos EUA e da série A o escondem.
 
-**Onde posso encontrar uma lista de telefones compatíveis com eSIM?**
-Consulte a **[Lista completa de telefones compatíveis com eSIM (2026)](/compatibility/)** – ela cobre iPhones, Samsung, Pixel, OnePlus, Motorola, Xiaomi e muito mais.
+**O OnePlus 11 suporta eSIM?**
+Não. A OnePlus adicionou eSIM a partir do OnePlus 12. O 11, 10, 9 e a série Nord não têm o hardware.
 
-**O que devo fazer se vir "rede esim não disponível verizon"?**
-Isso geralmente é um problema de configuração de roaming. Ative o Roaming de Dados para sua linha de eSIM e tente selecionar manualmente uma rede diferente.
+**Como verifico se meu iPhone tem bloqueio de operadora?**
+Settings > General > About > Carrier Lock. "No SIM restrictions" significa desbloqueado. Qualquer outra coisa significa bloqueado naquela operadora.
 
-**Como corrigir "código qr esim inválido" no iPhone?**
-Solicite um novo código QR do seu provedor. Os códigos QR expiram após 30–90 dias e não podem ser reutilizados após serem digitalizados.
+**Quais modelos de iPad suportam eSIM?**
+iPad Pro (3ª geração e mais recentes), iPad Air (3ª geração e mais recentes), iPad (10ª geração e mais recentes) e iPad mini (6ª geração e mais recentes) — apenas modelos celulares. iPads somente Wi-Fi não têm hardware de eSIM.
 
-**Por que "hotspot esim não funciona" após a ativação?**
-Verifique se seu plano permite o uso de hotspot. Alguns eSIMs de viagem restringem o compartilhamento de hotspot. Verifique também as configurações de APN e reinicie o telefone.
+**Onde encontro uma lista de celulares compatíveis com eSIM?**
+A [lista completa de celulares compatíveis com eSIM (2026)](/compatibility/) cobre iPhone, Samsung, Pixel, OnePlus, Motorola, Xiaomi e mais.
 
-**O que causa "esim não funciona android" em dispositivos Samsung?**
-Causas comuns incluem dispositivos bloqueados por operadora, variantes regionais (como versões de operadoras dos USA) ou versões Android desatualizadas. Verifique com `*#06#` para presença de EID.
+**Qual a diferença entre bloqueio de celular e bloqueio de operadora?**
+O bloqueio de celular (ativação) é antifurto — iCloud no iPhone, Google FRP no Android — e apenas o proprietário original pode removê-lo. O bloqueio de operadora é uma restrição de rede que sua operadora remove gratuitamente assim que o celular está quitado e elegível.
 
-**Por que "iMessage esim não funciona" após a ativação?**
-O iMessage pode precisar ser reativado. Vá em Configurações > Mensagens > desative e ative o iMessage novamente. Verifique também se seu número de telefone está selecionado em Enviar e Receber.
+**Por que os celulares chineses não têm eSIM?**
+A China continental exige que os celulares domésticos sejam certificados para dual SIM físico, então a Apple e as marcas Android enviam as unidades da China com dois slots de nano-SIM e nenhum chip eUICC. É hardware — não pode ser ativado depois.
 
-**O que significa "perfil esim expirado" e como corrigi‑lo?**
-Seu código QR passou do período de validade (geralmente 30–90 dias). Entre em contato com seu provedor para solicitar um novo código QR.
+**Posso adicionar eSIM a um celular que não tem EID?**
+Não. O chip eUICC é soldado na placa-mãe. Não há adaptador, app, jailbreak ou atualização de software que adicione hardware que nunca foi instalado.
 
-**O que devo fazer se "esim não funciona ipad" em um iPad celular?**
-Verifique o status de bloqueio da operadora, reinicie o iPad e certifique‑se de que é um modelo celular. iPads apenas com Wi‑Fi não suportam eSIM.
+**Uma restauração de fábrica corrige "eSIM não suportado"?**
+Não. A restauração não muda o hardware nem remove um bloqueio de operadora. Ela pode, porém, limpar um perfil corrompido meio instalado, então vale tentar para falhas de software — depois de fazer backup.
 
-**Como corrigir "roaming de dados esim não funciona" no iPhone?**
-Certifique‑se de que o Roaming de Dados esteja ativado, as configurações de APN estejam corretas e você selecionou manualmente uma rede se a seleção automática falhar.
+**Para que serve o EID quando um provedor o pede?**
+O EID permite que seu provedor vincule um perfil de eSIM específico ao chip do seu celular antes de você escanear. É assim que eles sabem que o plano se destina ao seu exato dispositivo — pense nele como o "endereço" do eSIM.
+
+**Como sei se meu celular está desbloqueado sem inserir um SIM?**
+iPhone: Settings > General > About > Carrier Lock — "No SIM restrictions" significa desbloqueado. Android: Settings > About phone > Status (ou SIM status) e procure pela redação "SIM locked" ou "SIM not locked".
+
+👉 **Confirmou que seu celular é capaz?** Pegue um [eSIM para os EUA](/united-states-esim/) ou [eSIM para o Japão](/japan-esim/) para se conectar.
 
 
-## 🆓 Teste Sua Correção com um eSIM Gratuito
+## Teste Sua Compatibilidade com um eSIM Grátis
 
-A melhor maneira de confirmar que seus problemas de eSIM estão resolvidos é instalar um **eSIM de teste gratuito**. Não custa nada, leva 2 minutos e, se ativar com sucesso, seu telefone está pronto para qualquer eSIM.
+A forma mais rápida de confirmar que seu celular realmente pode usar eSIM é instalar um **eSIM de teste grátis**. Não custa nada, leva 2 minutos, e se instalar e conectar, seu hardware está pronto.
 
-👉 [**Obtenha seu eSIM Roami gratuito agora**](/free-esim/)
+👉 [**Resgate seu eSIM grátis da Roami agora**](/free-esim/)
 
 ---
 
-*Focamos em resolver problemas reais. Se o seu erro específico não foi abordado, entre em contato conosco e ajudaremos.*
+*Se seu dispositivo ou erro específico não está coberto aqui, contate-nos e ajudaremos você a confirmar se seu celular é compatível com eSIM.*
+## Fontes
+
+- [GSMA — especificação eSIM (SGP.22)](https://www.gsma.com/esim/)
+- [Suporte Apple — Configurar eSIM no iPhone](https://support.apple.com/en-us/HT212780)
+- [Suporte Google — Configurar um eSIM](https://support.google.com/pixelphone/answer/14853135)
+- [Suporte Google — eSIM no Android](https://support.google.com/android/answer/11241215)

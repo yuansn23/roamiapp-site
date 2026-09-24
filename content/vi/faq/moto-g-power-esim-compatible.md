@@ -1,12 +1,13 @@
 ---
 title: "Moto G Power có hỗ trợ eSIM không? Hướng dẫn đầy đủ"
-h1_title: "Moto G Power có hỗ trợ eSIM không? Hướng dẫn đầy đủ cho năm 2026"
-description: "Moto G Power và Moto G Stylus (2024) hỗ trợ eSIM; các mẫu cũ hơn 2020-2023 thì không. Xác minh bằng *#06#. Cũng đề cập đến Edge và Razr."
-image: "/img/esim/esim-travel.jpg"
-keywords: ["moto g power esim", "moto g power tương thích esim", "moto g stylus esim", "điện thoại motorola tương thích esim", "moto g power 2024 esim", "motorola edge esim", "motorola razr esim", "kích hoạt esim moto g power", "moto g power esim không hoạt động", "thiết lập esim motorola", "mã qr esim moto g power", "moto g power dual sim", "thiết bị motorola hỗ trợ esim"]
-date: 2026-09-06T10:00:00Z
-lastmod: 2026-09-06T10:00:00Z
-tags: ["Motorola", "eSIM", "Tương thích", "Moto G Power"]
+h1_title: "Moto G Power có hỗ trợ eSIM không? Hướng dẫn hoàn chỉnh cho năm 2026"
+description: "Moto G Power và Moto G Stylus (2024) hỗ trợ eSIM; các mẫu cũ 2020-2023 thì không. Xác minh bằng *#06#. Cũng đề cập Edge và Razr."
+image: "/img/faq/moto-g-power-esim.webp"
+image-1: "/img/faq/moto-g-power-esim-1.jpg"
+keywords: ["moto g power esim", "moto g power esim compatible", "moto g stylus esim", "motorola esim compatible phones", "moto g power 2024 esim", "motorola edge esim", "motorola razr esim", "moto g power esim activation", "moto g power esim not working", "motorola esim setup", "moto g power esim qr code", "moto g power dual sim", "motorola esim supported devices"]
+date: 2026-09-22T00:00:00Z
+lastmod: 2026-09-22T00:00:00Z
+tags: ["Motorola", "eSIM", "Compatibility", "Moto G Power"]
 toc: true
 
 # Site & SEO
@@ -16,7 +17,7 @@ publisher_logo: "/img/logo.png"
 
 # UI text translations
 ui_text:
-  updated_on: "Cập nhật ngày"
+  updated_on: "Cập nhật vào"
   min_read: "phút đọc"
   toc: "Mục lục"
 
@@ -30,10 +31,10 @@ breadcrumbs:
 
 # Sidebar: Popular eSIMs
 sidebar_popular:
-  title: "eSIM Phổ biến"
+  title: "eSIM phổ biến"
   item_suffix: "eSIM"
   items:
-    - name: "eSIM Hoa Kỳ"
+    - name: "eSIM Mỹ (USA)"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
@@ -66,12 +67,12 @@ sidebar_popular:
 
 # Sidebar: Free eSIM offers
 sidebar_free:
-  title: "Nhận eSIM Miễn phí"
+  title: "Nhận eSIM miễn phí"
   icon: "🎁"
-  item_suffix: "eSIM Miễn phí"
-  item_subtitle: "eSIM Miễn phí"
+  item_suffix: "eSIM miễn phí"
+  item_subtitle: "eSIM miễn phí"
   items:
-    - name: "eSIM Anh Quốc"
+    - name: "eSIM Anh"
       flag: "/img/flags/gb.svg"
       url: "/free-esim/"
     - name: "Đức"
@@ -86,263 +87,268 @@ sidebar_free:
 
 # Sidebar: Popular questions
 sidebar_questions:
-  title: "Câu hỏi Phổ biến"
+  title: "Câu hỏi phổ biến"
   items:
-    - question: "Kích hoạt eSIM là gì và nó hoạt động như thế nào?"
+    - question: "Kích hoạt eSIM là gì và hoạt động ra sao?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "Làm thế nào để kích hoạt eSIM?"
+    - question: "Cách kích hoạt eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Làm thế nào để kích hoạt eSIM trên iPhone (Tất cả các mẫu)?"
+    - question: "Cách kích hoạt eSIM trên iPhone (mọi mẫu máy)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Danh sách tương thích eSIM mới nhất"
       url: "/compatibility/"
 ---
 
+> **Lưu ý của biên tập viên:** Moto G Power 2024 hỗ trợ eSIM, trong khi các thế hệ cũ nhìn chung không có. Hướng dẫn này được xác minh theo thông số chính thức của Motorola và bao gồm từng thế hệ. Kiểm tra năm sản xuất của máy bạn bên dưới để xác nhận điện thoại có dùng được eSIM hay không.
 
 
-## Moto G Power có hỗ trợ eSIM không? Câu trả lời nhanh và tổng quan tương thích
+Moto G Power hỗ trợ eSIM từ mẫu 2024 trở đi; các thế hệ 2020–2023 thì không, và các mẫu G Stylus cũ hơn cũng vậy. Quay số *#06# — nếu EID 32 chữ số xuất hiện, điện thoại của bạn đã sẵn sàng. Bảng model đầy đủ, hướng dẫn kích hoạt và các bước xử lý sự cố nằm dưới đây.
 
-**Có – nhưng chỉ dành cho Moto G Power (2024) trở lên. Các mẫu cũ hơn (2020-2023) KHÔNG hỗ trợ eSIM.** Khả năng **Moto G Power 2024 eSIM** đã được xác nhận và **Moto G Stylus 2024 eSIM** cũng hoạt động.
+## Moto G Power có hỗ trợ eSIM không?
+
+**Có – nhưng chỉ với Moto G Power (2024) trở lên. Các mẫu cũ (2020–2023) KHÔNG hỗ trợ eSIM.** Moto G Power 2024 hoàn toàn hỗ trợ eSIM, và Moto G Stylus 2024 cũng vậy.
 
 Đây là những gì bạn cần biết trong 10 giây:
 
-1. **Kiểm tra năm sản xuất của điện thoại:**  
-   - **Moto G Power (2024)** – ✅ Hỗ trợ eSIM.  
-   - **Moto G Power (2023, 2022, 2021, 2020)** – ❌ Không eSIM.  
-   - **Moto G Stylus (2024)** – ✅ Hỗ trợ eSIM.  
-   - **Moto G Stylus (2023 trở về trước)** – ❌ Không eSIM.  
-2. **Xác minh bằng `*#06#`:** Quay mã này. Nếu **EID** 32 chữ số xuất hiện, điện thoại của bạn hỗ trợ eSIM.  
-3. **Kích hoạt nếu được hỗ trợ:** Đi tới **Cài đặt > Mạng & Internet > Mạng di động > Thêm nhà mạng** và quét mã QR.
+1. **Kiểm tra năm sản xuất điện thoại của bạn:**  
+   - **Moto G Power (2024)** – ✅ hỗ trợ eSIM.  
+   - **Moto G Power (2023, 2022, 2021, 2020)** – ❌ Không có eSIM.  
+   - **Moto G Stylus (2024)** – ✅ hỗ trợ eSIM.  
+   - **Moto G Stylus (2023 trở xuống)** – ❌ Không có eSIM.  
+2. **Xác minh bằng `*#06#`:** Quay số này. Nếu **EID 32 chữ số** xuất hiện, điện thoại của bạn hỗ trợ eSIM.  
+3. **Kích hoạt nếu được hỗ trợ:** Vào **Settings > Network & Internet > Mobile Network > Add Carrier** và quét mã QR.
 
-> **Mẹo:** Các **điện thoại motorola tương thích eSIM** khác bao gồm dòng Edge (Edge 40/50/60), Razr gập và một số mẫu Moto G 5G (G53, G54, G55). Luôn chạy kiểm tra EID.
+> **Mẹo chuyên nghiệp:** Các điện thoại Motorola khác tương thích eSIM gồm dòng Edge (Edge 40/50/60), máy gập Razr, và một số mẫu Moto G 5G (G53, G54, G55). Luôn chạy thử nghiệm EID.
 
-Để có danh sách đầy đủ các thiết bị tương thích trên tất cả các thương hiệu, hãy xem [danh sách tương thích đầy đủ](/compatibility/) của chúng tôi. Nếu bạn dự định du lịch với Moto G Power, hãy xem [gói eSIM Roami](/united-states-esim/) để có kết nối giá rẻ hoặc [eSIM cho Nhật Bản](/japan-esim/) nếu bạn đến đó.
+Để xem danh sách đầy đủ các thiết bị tương thích của mọi hãng, xem [danh sách tương thích đầy đủ](/compatibility/) của chúng tôi.
+
+Nếu bạn đang định du lịch với Moto G Power của mình, hãy xem [các gói eSIM Roami](/united-states-esim/) cho kết nối giá rẻ, hoặc [eSIM cho Nhật Bản](/japan-esim/) nếu bạn hướng đến nơi đó.
 
 
-## Luồng quyết định nhanh: Tìm kịch bản eSIM Moto G Power của bạn
+## Kịch bản eSIM Moto G Power nào phù hợp với điện thoại của bạn?
 
-Sử dụng bản đồ quyết định này để tìm chính xác những gì bạn cần, dựa trên tình huống hiện tại của bạn.
+Dùng bản đồ quyết định này để tìm chính xác những gì bạn cần, dựa trên tình huống hiện tại của bạn.
 
-| Kịch bản của bạn | Những gì bạn cần | Chuyển đến |
+| Tình huống của bạn | Bạn cần gì | Nhảy đến |
 |---------------|---------------|---------|
-| **Tôi có Moto G Power – nó có hỗ trợ eSIM không?** | Kiểm tra mẫu/năm | [Bảng tương thích](#bảng-tuong-thich-esim-moto-g-power-mau-nao-ho-tro-esim) |
-| **Điện thoại của tôi hỗ trợ eSIM – làm thế nào để kích hoạt?** | Thiết lập từng bước | [Hướng dẫn kích hoạt eSIM Moto G Power](#cach-kich-hoat-esim-tren-moto-g-power-tung-buoc) |
-| **Tôi không tìm thấy tùy chọn "Thêm nhà mạng" trong cài đặt** | Sự khác biệt phiên bản Android | [Sự khác biệt đường dẫn menu Android](#su-khac-biet-duong-dan-menu-android-tai-sao-ban-khong-tim-thay-them-nha-mang-tren-moto-g-power) |
-| **Tôi đang đi du lịch – gói eSIM nào tốt nhất?** | So sánh nhà mạng & gói | [Khuyến nghị du lịch](#di-du-lich-voi-esim-moto-g-power-nhung-dieu-ban-can-biet) |
-| **Tôi đang cân nhắc mua điện thoại eSIM giá rẻ – cái nào tốt nhất?** | So sánh lựa chọn thay thế | [Moto G Power so với đối thủ](#moto-g-power-so-voi-doi-thu-ban-nen-mua-dien-thoai-esim-gia-re-nao) |
-| **Tôi đang nâng cấp lên điện thoại mới – eSIM của tôi sẽ ra sao?** | Hướng dẫn chuyển | [Hướng dẫn chuyển eSIM](#ban-co-the-chuyen-esim-sang-dien-thoai-moi-khong-giai-thich-chuyen-esim-moto-g-power) |
-| **eSIM của tôi không hoạt động / không có tín hiệu / không có dữ liệu** | Xử lý sự cố | [Xử lý sự cố](#moto-g-power-esim-khong-hoat-dong-xu-ly-su-co-va-cach-khac-phuc) |
+| **Tôi có một Moto G Power – nó có hỗ trợ eSIM không?** | Kiểm tra model/năm | [Bảng tương thích](#moto-g-power-esim-compatibility-table) |
+| **Điện thoại của tôi hỗ trợ eSIM – cách kích hoạt?** | Cài đặt từng bước | [hướng dẫn kích hoạt](#how-to-activate-esim-on-moto-g-power) |
+| **Tôi không tìm thấy tùy chọn "Add Carrier" trong cài đặt** | Khác biệt phiên bản Android | [Khác biệt đường dẫn menu Android](#why-you-cant-find-add-carrier-on-moto-g-power) |
+| **Tôi đang đi du lịch – gói nào tốt nhất?** | So sánh nhà mạng & gói | [Khuyến nghị du lịch](#traveling-with-your-moto-g-power-esim) |
+| **Tôi đang cân nhắc mua điện thoại eSIM giá rẻ – nên chọn cái nào?** | So sánh các phương án | [Moto G Power vs đối thủ](#which-budget-esim-phone-should-you-buy) |
+| **Tôi đang nâng cấp lên máy mới – eSIM của tôi sao rồi?** | Hướng dẫn chuyển đổi | [hướng dẫn chuyển eSIM](#moto-g-power-esim-transfer) |
+| **eSIM của tôi không hoạt động / không sóng / không dữ liệu** | Xử lý sự cố | [Xử lý sự cố](#how-to-fix-moto-g-power-esim-not-working) |
 
 
-## Tại sao Moto G Power 2024 hỗ trợ eSIM – và các mẫu cũ hơn thì không
+## Tại sao Moto G Power 2024 hỗ trợ eSIM
 
-Câu trả lời nằm ở một thành phần: chip **eUICC** (embedded Universal Integrated Circuit Card), là phần cứng vật lý lưu trữ hồ sơ eSIM và cho phép **tải xuống hồ sơ eSIM** và quản lý.
+Câu trả lời quy về một thành phần: **chip eUICC** (embedded Universal Integrated Circuit Card), là phần cứng vật lý lưu các hồ sơ SIM và xử lý việc tải xuống và quản lý hồ sơ.
 
 ### eUICC là gì và tại sao nó quan trọng?
 
-eUICC là một chip có thể lập trình được hàn vào bo mạch chủ của điện thoại. Nó là thứ cho phép thiết bị lưu trữ và quản lý nhiều **hồ sơ eSIM**. Nếu không có chip này, điện thoại không thể hỗ trợ eSIM. Đây là lý do tại sao các mẫu Moto G Power cũ hơn thiếu khả năng **thiết lập esim motorola** – phần cứng đơn giản là không có.
+eUICC là một chip có thể lập trình được hàn lên bo mạch chủ của điện thoại. Chính nó cho phép thiết bị lưu trữ và quản lý nhiều hồ sơ SIM. Không có chip này, điện thoại hoàn toàn không thể hỗ trợ eSIM – đó là lý do các mẫu Moto G Power cũ không chạy được: phần cứng đơn giản là không có.
 
-- **Trước 2024**: Motorola không tích hợp eUICC vào dòng Moto G Power vì lý do chi phí. Thị trường eSIM vẫn đang phát triển và nhu cầu ở phân khúc giá này còn hạn chế. Hầu hết người dùng trong tầm giá này vẫn sử dụng SIM vật lý.
+- **Trước 2024**: Motorola không đưa eUICC vào dòng Moto G Power do cân nhắc chi phí. Thị trường eSIM khi đó còn non trẻ, và nhu cầu ở phân khúc giá này còn hạn chế. Hầu hết người dùng ở tầm giá này vẫn dùng thẻ SIM vật lý.
 
-- **Từ 2024 trở đi**: Chi phí sản xuất eUICC giảm đáng kể và nhu cầu của du khách đối với điện thoại hỗ trợ eSIM giá rẻ tăng vọt. Motorola đã thêm chip này vào Moto G Power và Moto G Stylus, biến chúng thành một trong những **điện thoại có eSIM** giá rẻ nhất trên thị trường.
+- **Từ 2024 trở đi**: Chi phí sản xuất eUICC giảm đáng kể, và nhu cầu của du khách với điện thoại tương thích eSIM giá rẻ tăng vọt. Motorola đã thêm chip này vào Moto G Power và Moto G Stylus, biến chúng thành một trong những điện thoại eSIM giá rẻ nhất thị trường.
 
-- **Tiêu chuẩn GSMA**: Công nghệ eSIM được sử dụng trong Moto G Power 2024 tuân thủ [đặc tả GSMA SGP.22](https://www.gsma.com/esim/), đảm bảo khả năng tương thích với các nhà mạng và nhà cung cấp eSIM du lịch trên toàn thế giới. Đây là tiêu chuẩn tương tự được sử dụng bởi Apple, Samsung và Google.
+- **Tiêu chuẩn GSMA**: Công nghệ eSIM trong Moto G Power 2024 tuân theo [đặc tả GSMA SGP.22](https://www.gsma.com/esim/), đảm bảo khả năng tương thích với các nhà mạng và nhà cung cấp eSIM du lịch toàn cầu. Đây là cùng tiêu chuẩn mà Apple, Samsung và Google đang dùng.
 
-**Kết quả:** Moto G Power 2024 là một trong những điện thoại hỗ trợ eSIM rẻ nhất bạn có thể mua mới, cung cấp 5G, **dual SIM** (vật lý + eSIM) và pin lớn – tất cả với giá dưới $250.
+**Kết quả:** Moto G Power 2024 là một trong những điện thoại hỗ trợ eSIM rẻ nhất có thể mua mới, cung cấp 5G, **dual SIM** (vật lý + eSIM), và pin lớn – $299.99 khi ra mắt, và thường xuyên bán rẻ hơn con số đó nhiều.
 
-> **Biến thể khu vực quan trọng:** Mặc dù mẫu 2024 hỗ trợ eSIM ở Mỹ và Châu Âu, một số biến thể Châu Á (ngoại trừ Nhật Bản) có thể bị vô hiệu hóa eSIM ở cấp phần mềm. Luôn xác minh bằng bài kiểm tra EID (`*#06#`) thay vì chỉ dựa vào tên mẫu. Đây là lý do tại sao kiểm tra EID là cách đáng tin cậy nhất để **kiểm tra tương thích eSIM** trên thiết bị của bạn.
+> **Khác biệt khu vực quan trọng:** Dù mẫu 2024 hỗ trợ eSIM ở Mỹ và châu Âu, một số biến thể châu Á (trừ Nhật) có thể bị vô hiệu hóa eSIM ở cấp phần mềm. Luôn xác minh bằng thử nghiệm EID (`*#06#`) thay vì tin vào tên model – đó là kiểm tra tương thích đáng tin cậy nhất.
 
 
-## Bảng tương thích eSIM Moto G Power: Mẫu nào hỗ trợ eSIM?
+## Bảng tương thích eSIM Moto G Power
 
-| Mẫu | Năm | Hỗ trợ eSIM | Ghi chú |
+| Mẫu máy | Năm | Hỗ trợ eSIM | Ghi chú |
 |-------|------|--------------|-------|
-| Moto G Power (2024) | 2024 | ✅ Có | Phiên bản Mỹ & toàn cầu – **moto g power 2024 esim** đã được xác nhận |
+| Moto G Power (2024) | 2024 | ✅ Có | Bản Mỹ & toàn cầu – eSIM được xác nhận |
 | Moto G Power (2023) | 2023 | ❌ Không | Chỉ SIM vật lý – không có phần cứng eUICC |
 | Moto G Power (2022) | 2022 | ❌ Không | Chỉ SIM vật lý |
 | Moto G Power (2021) | 2021 | ❌ Không | Chỉ SIM vật lý |
 | Moto G Power (2020) | 2020 | ❌ Không | Chỉ SIM vật lý |
-| Moto G Stylus (2024) | 2024 | ✅ Có | Hỗ trợ eSIM – **moto g stylus esim** có khả năng |
-| Moto G Stylus (2023) | 2023 | ❌ Không | Không eSIM |
-| Moto G Stylus (2022) | 2022 | ❌ Không | Không eSIM |
+| Moto G Stylus (2024) | 2024 | ✅ Có | Hỗ trợ eSIM |
+| Moto G Stylus (2023) | 2023 | ❌ Không | Không có eSIM |
+| Moto G Stylus (2022) | 2022 | ❌ Không | Không có eSIM |
 
-**Lưu ý về "Moto G Power 5G":** Ở một số khu vực, mẫu 2024 được tiếp thị là "Moto G Power 5G" – đó là cùng một thiết bị với cùng hỗ trợ eSIM. Phiên bản 5G cũng hỗ trợ eSIM.
+**Một lưu ý về "Moto G Power 5G":** Ở một số khu vực, mẫu 2024 được tiếp thị là "Moto G Power 5G" – đó là cùng một thiết bị với cùng hỗ trợ eSIM.
 
-Moto G Power 2024 cũng hỗ trợ chức năng **dual SIM** – bạn có thể sử dụng một SIM vật lý và một eSIM cùng lúc (Dual SIM Dual Standby / DSDS). Điều này lý tưởng cho du khách muốn giữ số trong nước hoạt động trong khi sử dụng gói dữ liệu địa phương. Nhiều du khách hỏi "moto g power có hỗ trợ esim và sim vật lý cùng lúc không" – câu trả lời là có, trên mẫu 2024.
+Moto G Power 2024 cũng hỗ trợ chức năng **dual SIM** – bạn có thể dùng một SIM vật lý và một eSIM đồng thời (Dual SIM Dual Standby / DSDS). Điều này lý tưởng cho du khách muốn giữ số nhà hoạt động trong khi dùng gói dữ liệu địa phương. Vậy có – trên mẫu 2024 bạn có thể chạy một SIM vật lý và một eSIM cùng lúc.
 
-Để có danh sách đầy đủ các **thiết bị motorola hỗ trợ esim**, hãy xem phần tiếp theo.
+Để xem danh sách đầy đủ các điện thoại eSIM Motorola, xem phần tiếp theo.
 
 
-## Điện thoại Motorola tương thích eSIM: Edge, Razr và danh sách thiết bị đầy đủ
+## Các điện thoại Motorola tương thích eSIM
 
-Dưới đây là tất cả các mẫu Motorola hỗ trợ eSIM (ngoài Moto G Power/Stylus 2024). Danh sách này bao gồm toàn bộ dòng **điện thoại motorola tương thích esim**.
+Đây là tất cả các mẫu Motorola hỗ trợ eSIM (ngoài Moto G Power/Stylus 2024).
 
 | Mẫu Motorola | Hỗ trợ eSIM | Ghi chú |
 |----------------|--------------|-------|
-| Edge 60, Edge 60 Pro, Edge 60 Fusion | ✅ Có | Dòng Edge mới nhất – **motorola edge esim** hoạt động |
+| Edge 60, Edge 60 Pro, Edge 60 Fusion | ✅ Có | Dòng Edge mới nhất – hỗ trợ đầy đủ |
 | Edge 50, Edge 50 Fusion, Edge 50 Pro, Edge 50 Neo, Edge 50 Ultra | ✅ Có | Hỗ trợ eSIM đầy đủ |
 | Edge 40, Edge 40 Pro, Edge 40 Neo | ✅ Có | Hỗ trợ eSIM đầy đủ |
 | Edge 30, Edge 30 Pro, Edge 30 Fusion | ✅ Có | Một số khu vực |
-| Edge 2024, Edge 2023, Edge 2022 | ✅ Có | Mẫu Mỹ hoạt động |
-| Razr 60, Razr 60 Ultra | ✅ Có | Mẫu gập mới nhất – **motorola razr esim** được hỗ trợ |
+| Edge 2024, Edge 2023, Edge 2022 | ✅ Có | Máy bản Mỹ hoạt động |
+| Razr 60, Razr 60 Ultra | ✅ Có | Máy gập mới nhất – hỗ trợ đầy đủ |
 | Razr 50, Razr 50 Ultra | ✅ Có | |
 | Razr 40, Razr 40 Ultra | ✅ Có | |
 | Razr 2024, Razr+ 2024 | ✅ Có | |
-| Moto G 5G (2025, các mẫu 2024 như G53, G54, G55) | ✅ Có | Một số mẫu 5G được chọn |
+| Moto G 5G (các mẫu 2025, 2024 như G53, G54, G55) | ✅ Có | Một số mẫu 5G được chọn |
 | ThinkPhone 25, ThinkPhone | ✅ Có | Dòng doanh nghiệp |
 
-**Lưu ý:** Các điện thoại Motorola cũ hơn (Moto G7, G8, G9, G10, G30, G31, G41, G51, v.v.) **không** hỗ trợ eSIM. Luôn quay `*#06#` để xác nhận.
+**Lưu ý:** Các điện thoại Motorola cũ (Moto G7, G8, G9, G10, G30, G31, G41, G51, v.v.) **không** hỗ trợ eSIM. Luôn quay số `*#06#` để xác nhận.
 
-Để biết các điện thoại Motorola eSIM khác, vui lòng xem [danh sách tương thích đầy đủ](/compatibility/#motorola) của chúng tôi. [Trang web Hỗ trợ Motorola](https://support.motorola.com/) cũng cung cấp thông tin tương thích eSIM chính thức cho từng mẫu.
+Để xem các điện thoại eSIM Motorola khác, xem [danh sách tương thích đầy đủ](/compatibility/#motorola) của chúng tôi. [Trang web hỗ trợ Motorola](https://support.motorola.com/) cũng cung cấp thông tin chính thức về tương thích eSIM cho từng mẫu máy.
 
 
-## Cách kiểm tra Moto G Power của bạn có hỗ trợ eSIM – 3 phương pháp
+## Cách kiểm tra Moto G Power của bạn có hỗ trợ eSIM không
 
-### Phương pháp 1: Mã EID (Đáng tin cậy nhất)
+### Mã EID
 
-Đây là cách xác định **kiểm tra tương thích eSIM** trên thiết bị của bạn.
+Đây là kiểm tra tương thích quyết định cho thiết bị của bạn.
 
-1. Mở **Phone dialer**.  
+1. Mở **bàn phím quay số Điện thoại**.  
 2. Nhập `*#06#` và nhấn **gọi**.  
 3. Nhìn vào màn hình:  
    - **EID (32 chữ số) xuất hiện** → ✅ Điện thoại của bạn hỗ trợ eSIM.  
-   - **Chỉ có số IMEI xuất hiện** → ❌ Không eSIM (mẫu cũ hoặc không được hỗ trợ).  
+   - **Chỉ hiện các số IMEI** → ❌ Không có eSIM (máy cũ hoặc không được hỗ trợ).  
 
-EID (eUICC Identifier) là mã định danh duy nhất cho phần cứng eSIM. Nếu bạn thấy nó, điện thoại của bạn có chip eUICC cần thiết cho eSIM.
+EID (eUICC Identifier) là một định danh duy nhất cho phần cứng SIM nhúng. Nếu bạn thấy nó, điện thoại của bạn có chip cần thiết cho eSIM.
 
-### Phương pháp 2: Kiểm tra trong Cài đặt
+### Kiểm tra trong Cài đặt
 
-Đi tới **Cài đặt > Mạng & Internet > Mạng di động**. Nếu bạn thấy **"Tải xuống eSIM"** hoặc **"Thêm nhà mạng"**, thiết bị của bạn hỗ trợ eSIM. Không thấy? Vậy thì eSIM không khả dụng.
+Vào **Settings > Network & Internet > Mobile Network**. Nếu bạn thấy **"Download eSIM"** hoặc **"Add Carrier"**, thiết bị của bạn hỗ trợ. Không thấy? Vậy eSIM không khả dụng.
 
-### Phương pháp 3: Kiểm tra số hiệu mẫu
+### Kiểm tra số model của bạn
 
-- **Moto G Power 2024** – Số hiệu mẫu: XT2415, XT2415-1, XT2415-2 (hỗ trợ eSIM).  
-- **Mẫu cũ hơn** – XT2165 (2022), XT2117 (2021), XT2041 (2020) – không eSIM.
+- **Moto G Power 2024** – Số model: XT2415, XT2415-1, XT2415-2 (hỗ trợ eSIM).  
+- **Các mẫu cũ hơn** – XT2165 (2022), XT2117 (2021), XT2041 (2020) – không có eSIM.
 
-### Kiểm tra khóa nhà mạng – Tại sao nó quan trọng đối với kích hoạt eSIM
+### Tại sao khóa nhà mạng quan trọng với kích hoạt eSIM
 
-Ngay cả khi Moto G Power 2024 của bạn có khả năng eSIM, nó phải được **mở khóa** để chấp nhận **mã QR eSIM** từ nhà mạng khác (như nhà cung cấp eSIM du lịch).
+Ngay cả khi Moto G Power 2024 của bạn hỗ trợ eSIM, máy phải được **mở khóa** để chấp nhận mã QR từ nhà cung cấp khác (như dịch vụ eSIM du lịch).
 
-- **Motorola (Android gốc)**: `Cài đặt > Giới thiệu điện thoại > Trạng thái SIM` – kiểm tra trạng thái khóa.
-- Nếu điện thoại của bạn bị khóa, hãy liên hệ với nhà mạng của bạn (Mỹ: T-Mobile, AT&T, Verizon; Châu Âu: Orange, Vodafone, v.v.) để yêu cầu mở khóa trước chuyến đi. Điều này đặc biệt quan trọng nếu bạn dự định sử dụng eSIM du lịch ở nước ngoài.
+- **Motorola (Android gốc)**: `Settings > About Phone > SIM Status` – kiểm tra trạng thái khóa.
+- Nếu điện thoại của bạn bị khóa, liên hệ nhà mạng (Mỹ: T-Mobile, AT&T, Verizon; châu Âu: Orange, Vodafone, v.v.) để yêu cầu mở khóa trước chuyến đi. Điều này đặc biệt quan trọng nếu bạn định dùng dữ liệu du lịch ở nước ngoài.
 
-**Bẫy khóa nhà mạng:** Một số thiết bị Moto G Power 2024 bị khóa nhà mạng (ví dụ: từ AT&T hoặc Verizon) có thể có tính năng eSIM **bị vô hiệu hóa ở cấp phần mềm**, mặc dù phần cứng hỗ trợ nó. Bạn có thể cần mở khóa điện thoại hoặc flash phần mềm đã mở khóa để kích hoạt tùy chọn "Thêm nhà mạng". Liên hệ với nhà mạng của bạn để biết chi tiết.
+**Bẫy khóa nhà mạng:** Một số thiết bị Moto G Power 2024 khóa nhà mạng (ví dụ: từ AT&T hoặc Verizon) có thể có tính năng eSIM **bị vô hiệu hóa ở cấp phần mềm**, dù phần cứng hỗ trợ. Bạn có thể cần mở khóa máy hoặc flash firmware mở khóa để bật tùy chọn "Add Carrier". Liên hệ nhà mạng để biết chi tiết.
 
 
-## Sự khác biệt đường dẫn menu Android: Tại sao bạn không tìm thấy "Thêm nhà mạng" trên Moto G Power
+## Tại sao bạn không tìm thấy Add Carrier trên Moto G Power
 
-Nhiều người dùng báo cáo: "Tôi có Moto G Power 2024, nhưng tôi không tìm thấy `Thêm nhà mạng` ở bất kỳ đâu trong cài đặt." **Đây không phải là vấn đề phần cứng – mà là sự khác biệt về phiên bản Android.** Đường dẫn menu cho **thiết lập esim motorola** đã thay đổi giữa Android 13 và Android 14.
+Nhiều người dùng báo cáo: "Tôi có Moto G Power 2024, nhưng không tìm thấy `Add Carrier` ở đâu trong cài đặt." **Đây không phải vấn đề phần cứng – mà là khác biệt phiên bản Android.** Đường dẫn menu đã thay đổi giữa Android 13 và Android 14.
 
 | Phiên bản Android | Đường dẫn menu |
 |-----------------|-----------|
-| **Android 13 trở xuống** | `Cài đặt > Mạng & Internet > Mạng di động > Nâng cao > Nhà mạng > Thêm eSIM` |
-| **Android 14 trở lên** | `Cài đặt > Mạng & Internet > Thẻ SIM > Thêm eSIM` (hoặc "Tải xuống eSIM") |
+| **Android 13 trở xuống** | `Settings > Network & Internet > Mobile Network > Advanced > Carrier > Add eSIM` |
+| **Android 14 trở lên** | `Settings > Network & Internet > SIM Cards > Add eSIM` (hoặc "Download eSIM") |
 
-**Cách nhanh nhất để tìm nó:** Đừng duyệt menu thủ công. Kéo thanh thông báo xuống, nhấn vào **biểu tượng bánh răng** để mở Cài đặt, sau đó sử dụng **thanh tìm kiếm ở trên cùng**. Gõ **"eSIM"** hoặc **"Thêm"** – hệ thống sẽ hiển thị trực tiếp điểm nhập bị ẩn, bất kể bạn đang sử dụng phiên bản Android nào. Đây là cách sửa #1 cho người dùng tìm kiếm "moto g power esim không hoạt động" hoặc "không tìm thấy tùy chọn eSIM".
+**Cách nhanh nhất để tìm nó:** Đừng tự dò menu. Kéo màn hình thông báo xuống, chạm **biểu tượng bánh răng** để mở Cài đặt, rồi dùng **thanh tìm kiếm ở trên cùng**. Gõ **"eSIM"** hoặc **"Add"** – hệ thống sẽ hiển thị trực tiếp điểm truy cập ẩn, bất kể bạn đang dùng phiên bản Android nào. Chỉ một bước này đã sửa được phần lớn các trường hợp "mất Add Carrier".
 
-**Nếu tìm kiếm không hiển thị gì:** Thiết bị của bạn:
-1. Không có phần cứng eSIM (kiểm tra bằng `*#06#` – không EID có nghĩa là không eSIM)
-2. Là biến thể bị khóa nhà mạng với eSIM bị vô hiệu hóa ở cấp phần mềm
-3. Là biến thể khu vực Châu Á thiếu hỗ trợ eSIM
+**Nếu tìm kiếm không ra gì:** Thiết bị của bạn hoặc là:
+1. Thiếu phần cứng (kiểm tra bằng `*#06#` – không có EID nghĩa là không hỗ trợ)
+2. Là biến thể khóa nhà mạng với eSIM bị vô hiệu hóa ở cấp phần mềm
+3. Là biến thể khu vực châu Á thiếu hỗ trợ
 
 
-## Cách kích hoạt eSIM trên Moto G Power – Từng bước
+## Cách kích hoạt eSIM trên Moto G Power
 
-**Kích hoạt eSIM Moto G Power** mất chưa đầy 2 phút. Hãy làm **trước khi bạn bay** – bạn chỉ cần Wi-Fi. Đây là phương pháp **thiết lập esim motorola** được khuyến nghị.
+Kích hoạt mất chưa đến 2 phút. Hãy làm **trước khi bay** – bạn chỉ cần Wi‑Fi.
 
-### Hướng dẫn kích hoạt từng bước
+### Kích hoạt eSIM Moto G Power
 
-1. **Mua gói eSIM** – Để du lịch, hãy chọn [Roami eSIM](/free-esim/) (có bản dùng thử miễn phí) hoặc bất kỳ nhà cung cấp nào như Airalo, Holafly hoặc Google Fi. Để du lịch Mỹ, [eSIM Mỹ](/united-states-esim/) từ Roami cung cấp chuyển mạng đa nhà mạng trên T-Mobile, AT&T và Verizon.
-2. **Đi tới Cài đặt > Mạng & Internet > Mạng di động > Thêm nhà mạng** (xem [phần đường dẫn menu](#su-khac-biet-duong-dan-menu-android-tai-sao-ban-khong-tim-thay-them-nha-mang-tren-moto-g-power) nếu bạn không tìm thấy).
-3. **Quét mã QR eSIM** được gửi đến email của bạn. (Bạn cũng có thể nhập chi tiết kích hoạt thủ công – điều này hữu ích nếu bạn có **mã QR eSIM** không quét được.)
-4. **Làm theo hướng dẫn trên màn hình** để tải xuống và cài đặt hồ sơ eSIM. **Tải xuống hồ sơ eSIM** thường mất 30-60 giây.
-5. **Đặt eSIM làm mặc định** cho dữ liệu di động và bật **Chuyển vùng dữ liệu** khi đi du lịch.
+1. **Mua gói eSIM** – Khi du lịch, chọn [eSIM Roami](/free-esim/) (có bản dùng thử miễn phí) hoặc bất kỳ nhà cung cấp nào như Airalo, Holafly hay Google Fi. Khi du lịch Mỹ, một [eSIM Mỹ](/united-states-esim/) từ Roami cung cấp chuyển đổi đa nhà mạng giữa T‑Mobile, AT&T và Verizon.
+2. **Vào Settings > Network & Internet > Mobile Network > Add Carrier** (xem [phần đường dẫn menu](#why-you-cant-find-add-carrier-on-moto-g-power) nếu bạn không tìm thấy).
+3. **Quét mã QR** gửi vào email của bạn. (Nếu không quét được, bạn cũng có thể nhập thông tin kích hoạt thủ công – xem bên dưới.)
+4. **Làm theo hướng dẫn trên màn hình** để tải xuống và cài đặt hồ sơ – thường mất 30–60 giây.
+5. **Đặt eSIM làm mặc định** cho dữ liệu di động, và bật **Data Roaming** khi đi du lịch.
 6. **Đặt tên cho eSIM** (ví dụ: "Du lịch Mỹ" hoặc "Công việc") để dễ nhận biết.
 
-> 💡 Một số điện thoại Motorola yêu cầu bạn kết nối Wi-Fi trong quá trình thiết lập. Nếu bạn thấy lỗi **"không thể kích hoạt eSIM"**, hãy kiểm tra kết nối Wi-Fi của bạn và thử lại.
+> 💡 Một số điện thoại Motorola yêu cầu bạn kết nối Wi‑Fi trong quá trình cài đặt. Nếu bạn thấy lỗi **"unable to activate eSIM"**, kiểm tra kết nối Wi‑Fi và thử lại.
 
-**Mẹo cài đặt:** Nếu bạn đang thiết lập eSIM du lịch, hãy làm **trước** khi bạn rời khỏi nhà. Mã QR yêu cầu kết nối internet để tải xuống hồ sơ – sau khi cài đặt, hồ sơ vẫn ở trên điện thoại của bạn ngay cả khi không có Wi-Fi và bạn chỉ bật Chuyển vùng dữ liệu khi đến nơi.
+**Mẹo cài đặt:** Nếu bạn đang thiết lập eSIM du lịch, hãy làm **trước khi** rời nhà. Mã QR cần kết nối internet để tải hồ sơ – sau khi cài, hồ sơ vẫn nằm trên điện thoại kể cả không có Wi‑Fi, và bạn chỉ cần bật Data Roaming khi đến nơi.
 
-### Nhập thủ công (Khi quét mã QR thất bại)
+### Nhập thủ công
 
-Nếu bạn không thể quét **mã QR eSIM** – ví dụ: nếu mã ở trên cùng điện thoại bạn đang sử dụng – hãy nhấn **"Nhập chi tiết thủ công"** và nhập **Địa chỉ SM-DP+** và **Mã kích hoạt** được cung cấp trong email của nhà mạng. Điều này bỏ qua hoàn toàn việc quét QR và là phương án dự phòng đáng tin cậy nhất cho **kích hoạt esim moto g power** khi camera không hợp tác.
+Nếu bạn không thể quét mã QR – ví dụ, khi mã được hiển thị trên chính chiếc điện thoại bạn đang thiết lập – chạm **"Enter Details Manually"** và nhập **Địa chỉ SM-DP+** và **Mã kích hoạt** từ email của nhà mạng. Cách này bỏ qua camera hoàn toàn và là phương án dự phòng đáng tin nhất.
 
 
-## Những nhà mạng nào hoạt động với Moto G Power eSIM?
+## Nhà mạng nào hoạt động với eSIM Moto G Power?
 
-*Giả sử bạn có mẫu 2024 trở lên với eSIM được bật.*
+*Giả định bạn có mẫu 2024 trở lên với eSIM được bật.*
 
 | Nhà cung cấp | Tương thích? | Ghi chú |
 |----------|-------------|-------|
-| **Airalo** | ✅ Có | Hoạt động hoàn hảo trên các mẫu 2024 – một trong những **điện thoại tương thích airalo** |
-| **Visible** | ⚠️ Hạn chế | Visible chính thức chỉ hỗ trợ một số điện thoại Android; thử với bản dùng thử miễn phí |
-| **Google Fi** | ✅ Có | Hoạt động nếu eSIM có mặt |
-| **Verizon** | ✅ Có | Moto G Power (2024) mang nhãn Verizon hoạt động. Đối với **tương thích eSIM Verizon**, mẫu này được hỗ trợ. |
-| **US Mobile** | ✅ Có | Hoạt động với eSIM trên cả mạng Warp 5G và GSM – một trong những **thiết bị tương thích esim us mobile** |
-| **T-Mobile (Mỹ)** | ✅ Có | Hỗ trợ eSIM trên các mẫu 2024 |
-| **Holafly** | ✅ Có | Tương thích đầy đủ – một trong những **điện thoại tương thích holafly** hàng đầu |
-| **Roami** | ✅ Có | Hỗ trợ đầy đủ cho eSIM du lịch – với chuyển mạng đa nhà mạng |
-| **AT&T (Trả trước)** | ⚠️ Hạn chế | eSIM trả trước AT&T không phổ biến rộng rãi; trả sau hoạt động nếu được mở khóa |
-| **Orange (EU)** | ✅ Có | Hỗ trợ eSIM trên các thiết bị tương thích |
-| **Vodafone (EU/UK)** | ✅ Có | Hỗ trợ eSIM – mặc dù trả trước có thể yêu cầu địa chỉ Anh Quốc |
-| **O2 (UK)** | ✅ Có | Hỗ trợ eSIM trên các thiết bị tương thích |
+| **Airalo** | ✅ Có | Hoạt động ngay lập tức trên mẫu 2024 |
+| **Visible** | ⚠️ Giới hạn | Visible chính thức chỉ hỗ trợ vài điện thoại Android; thử với bản dùng thử miễn phí |
+| **Google Fi** | ✅ Có | Hoạt động nếu có eSIM |
+| **Verizon** | ✅ Có | Moto G Power (2024) mang nhãn Verizon hoạt động, kể cả eSIM. |
+| **US Mobile** | ✅ Có | Hoạt động với eSIM trên cả mạng Warp 5G và GSM |
+| **T-Mobile (Mỹ)** | ✅ Có | Hỗ trợ eSIM trên mẫu 2024 |
+| **Holafly** | ✅ Có | Tương thích hoàn toàn |
+| **Roami** | ✅ Có | Hỗ trợ đầy đủ cho eSIM du lịch – với chuyển đổi đa nhà mạng |
+| **AT&T (Trả trước)** | ⚠️ Giới hạn | eSIM trả trước AT&T không phổ biến; trả sau hoạt động nếu máy mở khóa |
+| **Orange (EU)** | ✅ Có | Hỗ trợ eSIM trên thiết bị tương thích |
+| **Vodafone (EU/Anh)** | ✅ Có | Hỗ trợ eSIM – dù trả trước có thể yêu cầu địa chỉ Anh |
+| **O2 (Anh)** | ✅ Có | Hỗ trợ eSIM trên thiết bị tương thích |
 
-Việc Moto G Power có hỗ trợ eSIM hay không phụ thuộc vào năm: **2024 = có, cũ hơn = không**. Mẫu 2024 cũng hỗ trợ **dual SIM** (một SIM vật lý + một eSIM hoạt động).
+Kết luận: Moto G Power hỗ trợ eSIM từ mẫu 2024 trở đi. Mẫu 2024 cũng hỗ trợ **dual SIM** (một SIM vật lý + một eSIM hoạt động).
 
 
-## Moto G Power so với đối thủ: Bạn nên mua điện thoại eSIM giá rẻ nào?
+## Nên mua điện thoại eSIM giá rẻ nào?
 
-Vẫn đang phân vân giữa Moto G Power 2024 và các điện thoại giá rẻ khác? Đây là so sánh trực tiếp dựa trên các tình huống sử dụng thực tế cho bất kỳ ai đang tìm kiếm **điện thoại esim rẻ nhất** hoặc **điện thoại esim giá rẻ tốt nhất**.
+Vẫn đang phân vân giữa Moto G Power 2024 và các điện thoại giá rẻ khác? Đây là so sánh trực tiếp dựa trên các tình huống sử dụng thực tế.
 
 | Tình huống của bạn | Chọn **Moto G Power (2024)** | Chọn **Xiaomi Redmi Note 13 Pro** (không eSIM) | Chọn **Samsung A35** (có eSIM) |
 |----------------|--------------------------------|-----------------------------------------------|-----------------------------------|
-| **Ngân sách eo hẹp + phải có eSIM cho du lịch** | ✅ **Lựa chọn tốt nhất.** Điện thoại Android hỗ trợ eSIM mới rẻ nhất. Không có đối thủ ở mức giá này. | ❌ **Tránh.** Bạn tiết kiệm $50 ngay bây giờ nhưng không thể mua eSIM ở nước ngoài – bạn sẽ hối tiếc. | ❌ Đắt hơn $100+. Số tiền đó đủ mua 20GB dữ liệu Châu Âu. Không đáng. |
-| **Sử dụng chủ yếu ở nhà + thỉnh thoảng du lịch** | ✅ **Giá trị tốt nhất.** SIM vật lý + eSIM tạm thời – thiết lập dual-SIM hoàn hảo. Chuyển lại SIM vật lý khi ở nhà. | ⚠️ Tuyệt vời nếu bạn không bao giờ đi du lịch. Nhưng nếu bạn đi du lịch dù chỉ một lần, bạn sẽ bị mắc kẹt với việc thuê pocket Wi-Fi. | ❌ Quá mức cần thiết. Trả quá nhiều cho du lịch thỉnh thoảng. |
-| **Chất lượng camera quan trọng (mạng xã hội, ảnh du lịch)** | ❌ Camera đủ để quét mã QR và ảnh cơ bản, nhưng ảnh ban đêm kém. | ⚠️ Camera tốt hơn Moto, nhưng không có eSIM – hạn chế chia sẻ du lịch của bạn. | ✅ **Samsung A35.** Camera tốt hơn đáng kể. Đáng giá cho những người thích chụp ảnh du lịch. |
-| **Lo ngại về việc hỏng máy khi mở khóa/root** | ✅ **Android gốc của Moto ổn định nhất.** Ngay cả khi không mở khóa BL, eSIM vẫn hoạt động hoàn hảo – rất ít lỗi. | ❌ MIUI hỗ trợ eSIM yếu và các phiên bản nội địa Trung Quốc thường loại bỏ hoàn toàn eSIM. | ✅ Samsung Knox an toàn, nhưng nếu bạn bật Knox (bằng root), eSIM sẽ hỏng vĩnh viễn – rủi ro cao. |
+| **Ngân sách eo hẹp + bắt buộc có eSIM để du lịch** | ✅ **Lựa chọn tốt nhất.** Chiếc điện thoại Android mới hỗ trợ eSIM rẻ nhất. Không có đối thủ ở tầm giá này. | ❌ **Tránh.** Bạn tiết kiệm $50 bây giờ nhưng không thể mua eSIM ở nước ngoài – bạn sẽ hối hận. | ❌ Đắt hơn $100+. Số tiền chênh lệch đó mua được 20GB dữ liệu châu Âu. Không đáng. |
+| **Chủ yếu dùng ở nhà + thi thoảng du lịch** | ✅ **Giá trị tốt nhất.** SIM vật lý + eSIM tạm thời – cấu hình dual‑SIM hoàn hảo. Về nhà chuyển lại SIM vật lý. | ⚠️ Tuyệt nếu bạn không bao giờ đi du lịch. Nhưng chỉ cần đi một lần, bạn sẽ bị "dính" thuê Wi-Fi di động. | ❌ Vô ích. Trả quá nhiều tiền cho du lịch thỉnh thoảng. |
+| **Camera quan trọng (mạng xã hội, ảnh du lịch)** | ❌ Camera tạm được để quét mã QR và chụp cơ bản, nhưng ảnh đêm khá tệ. | ⚠️ Camera tốt hơn Moto, nhưng không có eSIM – hạn chế việc chia sẻ khi du lịch. | ✅ **Samsung A35.** Camera tốt hơn hẳn. Đáng giá cho nhiếp ảnh gia du lịch. |
+| **Lo máy "cục gạch" khi mở khóa/root** | ✅ **Android gốc của Moto ổn định nhất.** Ngay cả không mở khóa BL, eSIM vẫn hoạt động hoàn hảo – rất ít lỗi. | ❌ MIUI hỗ trợ eSIM yếu, và bản nội địa Trung Quốc thường bỏ hẳn eSIM. | ✅ Samsung Knox an toàn, nhưng nếu bạn "dính" Knox (qua root), eSIM hỏng vĩnh viễn – rủi ro cao. |
 
-**Phán quyết:** Nếu ưu tiên hàng đầu của bạn là tương thích eSIM với ngân sách eo hẹp, Moto G Power 2024 là lựa chọn rõ ràng. Đây là điện thoại giá rẻ nhất có khả năng **thiết lập esim motorola** và mang lại giá trị tuyệt vời cho du khách.
+**Phán quyết:** Nếu ưu tiên hàng đầu của bạn là tương thích eSIM với ngân sách thấp, Moto G Power 2024 là người thắng rõ ràng. Đó là chiếc Motorola phải chăng nhất với hỗ trợ eSIM đầy đủ và mang lại giá trị tuyệt vời cho du khách.
 
 
-## Bạn có thể chuyển eSIM sang điện thoại mới không? Giải thích chuyển eSIM Moto G Power
+## Chuyển eSIM Moto G Power
 
-Đây là kịch bản ác mộng mà mọi người dùng eSIM đều sợ. Đối với Moto G Power (và hầu hết điện thoại Android không phải Apple), **sự thật phũ phàng là: eSIM của bạn không thể được đồng bộ hóa sang điện thoại mới như dữ liệu đám mây.** Đây là lý do nhiều người dùng tìm kiếm "esim 怎么转移到新手机" – câu trả lời phụ thuộc vào loại eSIM của bạn.
+Đây là cơn ác mộng mà mọi người dùng eSIM đều sợ. Với Moto G Power (và hầu hết điện thoại Android không phải Apple), đây là sự thật phũ phàng: **hồ sơ của bạn không thể được đồng bộ sang điện thoại mới như dữ liệu đám mây.** Điều gì xảy ra tiếp theo phụ thuộc vào loại eSIM bạn có.
 
-eSIM được **kết nối cứng** với chip bảo mật vật lý (eUICC) trong điện thoại hiện tại của bạn. Các loại eSIM khác nhau có quy tắc chuyển khác nhau:
+Một hồ sơ được **gắn cứng** với chip bảo mật eUICC trong điện thoại hiện tại của bạn. Các loại eSIM khác nhau có quy tắc chuyển đổi khác nhau:
 
-| Loại eSIM | Bạn có thể chuyển không? | Phải làm gì |
+| Loại eSIM | Có thể chuyển không? | Cần làm gì |
 |-----------|-------------------|------------|
-| **eSIM du lịch (Roami, Airalo, Holafly, Nomad)** | ❌ **Không chuyển.** Sau khi cài đặt, nó bị khóa với eUICC của Moto G Power. | Sử dụng hết dữ liệu trước khi đổi điện thoại. Nếu còn dữ liệu thừa, hãy liên hệ hỗ trợ – một số nhà cung cấp cho phép **một** lần đặt lại hồ sơ, nhưng nhiều nhà cung cấp thì không. |
-| **eSIM nhà mạng địa phương (T-Mobile, Verizon, EE, O2)** | ✅ **Có, nhưng không trực tiếp.** Các ứng dụng nhà mạng cung cấp "Chuyển SIM sang thiết bị mới" – thao tác này từ xa hủy kích hoạt eSIM cũ và cấp **hồ sơ eSIM** mới cho điện thoại mới của bạn. | Mở ứng dụng của nhà mạng, tìm tùy chọn chuyển và làm theo hướng dẫn. eSIM cũ của bạn sẽ tự động chết. |
+| **eSIM du lịch (Roami, Airalo, Holafly, Nomad)** | ❌ **Không chuyển được.** Sau khi cài, nó bị khóa với eUICC của Moto G Power. | Dùng hết dữ liệu trước khi đổi máy. Nếu còn dữ liệu dư, liên hệ hỗ trợ – một số nhà cung cấp cho phép **một lần** reset hồ sơ, nhưng nhiều nơi thì không. |
+| **eSIM nhà mạng địa phương (T‑Mobile, Verizon, EE, O2)** | ✅ **Có, nhưng không trực tiếp.** Ứng dụng nhà mạng cung cấp "Transfer SIM to new device" – điều này vô hiệu hóa hồ sơ cũ từ xa và cấp hồ sơ mới cho điện thoại mới. | Mở ứng dụng nhà mạng, tìm tùy chọn chuyển đổi, và làm theo hướng dẫn. Hồ sơ cũ tự động "chết". |
 
-**Còn việc sử dụng mã QR eSIM mới thì sao?** Nếu bạn đang đổi điện thoại và vẫn có email kích hoạt gốc với mã QR, hãy kiểm tra ngày hết hạn. Hầu hết mã QR eSIM du lịch hết hạn trong vòng 30-90 ngày – nếu nó đã hết hạn, bạn sẽ cần liên hệ với nhà cung cấp để có mã mới hoặc mua gói mới.
+**Còn việc dùng lại mã QR gốc?** Nếu bạn đang đổi máy và vẫn giữ email kích hoạt, hãy kiểm tra ngày hết hạn. Hầu hết mã QR du lịch hết hạn trong 30–90 ngày – nếu mã của bạn đã hết hạn, liên hệ nhà cung cấp để lấy mã mới hoặc mua gói mới.
 
-> **💰 Mẹo trước khi mua:** Nếu bạn dự định nâng cấp điện thoại trong vòng 6 tháng tới, hãy **tránh** mua gói eSIM dài hạn (1 năm) trên Moto G Power. Thay vào đó, hãy mua gói du lịch 7 ngày hoặc 30 ngày – sử dụng chúng, hết chúng và đổi điện thoại mà không vướng bận. Điều này đặc biệt quan trọng đối với du khách nâng cấp thường xuyên.
+> **💰 Mẹo chuyên nghiệp trước khi mua:** Nếu bạn định nâng cấp điện thoại trong 6 tháng tới, **tránh** mua các gói dài hạn (1 năm) trên Moto G Power. Hãy mua gói du lịch 7 ngày hoặc 30 ngày thay thế – dùng, dùng hết, rồi đổi máy mà không vướng baggage. Điều này đặc biệt quan trọng với du khách thường xuyên nâng cấp máy.
 
 
-## Moto G Power eSIM không hoạt động? Xử lý sự cố và cách khắc phục
+## Cách sửa lỗi eSIM Moto G Power không hoạt động
 
-Ngay cả với sự chuẩn bị cẩn thận, sự cố vẫn có thể xảy ra. Dưới đây là các vấn đề phổ biến nhất với **kích hoạt esim moto g power** và các kịch bản **moto g power esim không hoạt động**:
+Ngay cả khi chuẩn bị cẩn thận, sự cố vẫn có thể xảy ra. Đây là các vấn đề phổ biến nhất và cách khắc phục:
 
 | Vấn đề | Nguyên nhân có thể | Giải pháp |
 |-------|--------------|----------|
-| **"Thêm nhà mạng" không hiển thị** | Sự khác biệt phiên bản Android hoặc biến thể khu vực Châu Á | Đừng duyệt menu – sử dụng **thanh tìm kiếm** trong Cài đặt và gõ "eSIM". Nếu không có gì xuất hiện, thiết bị của bạn có thể không có phần cứng eSIM. |
-| **Kích hoạt eSIM thất bại** | Mã QR hết hạn hoặc mạng không ổn định | Yêu cầu mã QR mới. Kết nối Wi-Fi ổn định. |
-| **eSIM không có dịch vụ sau khi kích hoạt** | Chuyển vùng dữ liệu bị tắt hoặc sự cố chọn mạng | `Cài đặt > Mạng & Internet > Mạng di động` → eSIM → `Chuyển vùng dữ liệu` (BẬT). Cũng kiểm tra Chọn mạng – tắt "Tự động" và chọn thủ công một nhà mạng. |
-| **Mã QR eSIM không được nhận dạng** | Mã hết hạn hoặc bị hỏng | Sử dụng nhập thủ công (địa chỉ SM-DP+ và mã kích hoạt). |
-| **APN không được cấu hình – không có kết nối dữ liệu** | Thiếu cài đặt APN | Cấu hình APN thủ công (xem bảng bên dưới). |
-| **Khóa nhà mạng ngăn sử dụng eSIM** | Điện thoại bị khóa với nhà mạng ban đầu | Liên hệ với nhà mạng để mở khóa thiết bị. |
-| **Lỗi "Không thể kích hoạt eSIM"** | Wi-Fi không ổn định hoặc máy chủ bận | Khởi động lại điện thoại, thử mạng Wi-Fi khác, đợi 10 phút và thử lại. |
-| **eSIM hiển thị "Không có dịch vụ" sau khi cập nhật hệ thống** | Bản cập nhật đặt lại cài đặt mạng | Cài đặt lại hồ sơ eSIM (nếu không còn dữ liệu) hoặc cấu hình lại APN. |
-| **Tải xuống hồ sơ eSIM thất bại giữa chừng** | Wi-Fi không ổn định | Xóa hồ sơ một phần, khởi động lại và thử lại trên Wi-Fi ổn định. |
+| **"Add Carrier" không hiển thị** | Khác biệt phiên bản Android hoặc biến thể khu vực châu Á | Đừng dò menu – dùng **thanh tìm kiếm** trong Cài đặt và gõ "eSIM". Nếu không có gì xuất hiện, thiết bị của bạn có thể không có phần cứng eSIM. |
+| **Kích hoạt eSIM thất bại** | Mã QR hết hạn hoặc mạng không ổn định | Yêu cầu mã QR mới. Kết nối Wi‑Fi ổn định. |
+| **eSIM không có sóng sau khi kích hoạt** | Data roaming bị tắt hoặc vấn đề chọn mạng | `Settings > Network & Internet > Mobile Network` → eSIM → `Data Roaming` (BẬT). Cũng kiểm tra Network Selection – tắt "Automatic" và chọn nhà mạng thủ công. |
+| **Mã QR eSIM không được nhận diện** | Mã hết hạn hoặc hỏng | Dùng nhập thủ công (địa chỉ SM‑DP+ và mã kích hoạt). |
+| **APN chưa cấu hình – không có kết nối dữ liệu** | Thiếu cài đặt APN | Cấu hình APN thủ công (xem bảng bên dưới). |
+| **Khóa nhà mạng ngăn eSIM hoạt động** | Máy bị khóa với nhà mạng gốc | Liên hệ nhà mạng để mở khóa thiết bị. |
+| **Lỗi "Unable to activate eSIM"** | Wi‑Fi không ổn định hoặc máy chủ bận | Khởi động lại máy, thử mạng Wi‑Fi khác, chờ 10 phút rồi thử lại. |
+| **eSIM hiện "No Service" sau bản cập nhật hệ thống** | Bản cập nhật đặt lại cài đặt mạng | Cài lại hồ sơ eSIM (nếu còn dữ liệu) hoặc cấu hình lại APN. |
+| **Tải hồ sơ eSIM thất bại giữa chừng** | Wi‑Fi không ổn định | Xóa hồ sơ chưa hoàn chỉnh, khởi động lại, và thử lại trên Wi‑Fi ổn định. |
 
-### Cấu hình APN thủ công cho Moto G Power eSIM
+### Cấu hình APN thủ công cho eSIM Moto G Power
 
-Nếu bạn **không có dịch vụ** sau khi kích hoạt, bạn có thể cần cấu hình cài đặt APN thủ công:
+Nếu bạn **không có sóng** sau khi kích hoạt, bạn có thể cần cấu hình cài đặt APN thủ công:
 
-**Motorola:** `Cài đặt > Mạng & Internet > Mạng di động > Tên điểm truy cập (APN) > APN mới`
+**Motorola:** `Settings > Network & Internet > Mobile Network > Access Point Names (APN) > New APN`
 
-| Nhà mạng | APN | Tên người dùng | Mật khẩu |
+| Nhà mạng | APN | Username | Password |
 |---------|-----|----------|----------|
 | **T-Mobile (Mỹ)** | fast.t-mobile.com | (trống) | (trống) |
 | **AT&T (Mỹ)** | nxgen | (trống) | (trống) |
@@ -354,47 +360,47 @@ Nếu bạn **không có dịch vụ** sau khi kích hoạt, bạn có thể c�
 | **Airalo** | globaldata | (trống) | (trống) |
 | **Holafly** | holafly | (trống) | (trống) |
 
-Nếu bạn vẫn gặp sự cố, hãy xem [Hướng dẫn xử lý sự cố eSIM chuyên sâu (16 trường hợp thực tế)](/faq/esim-deep-troubleshooting-guide-2026/) của chúng tôi.
+Nếu bạn vẫn gặp sự cố, xem [Hướng dẫn xử lý sự cố eSIM nâng cao (16 trường hợp thực tế)](/faq/esim-deep-troubleshooting-guide-2026/) của chúng tôi.
 
 
-## Đi du lịch với eSIM Moto G Power – Những điều bạn cần biết
+## Du lịch với eSIM Moto G Power của bạn
 
-Moto G Power 2024 là người bạn đồng hành du lịch tuyệt vời nhờ khả năng eSIM và thiết kế **dual SIM**. Cho dù bạn đang khám phá Hoa Kỳ, Châu Âu hay Châu Á, việc có một điện thoại hỗ trợ eSIM mang lại cho bạn sự linh hoạt và tiết kiệm chi phí.
+Moto G Power 2024 là người bạn đồng hành du lịch tuyệt vời nhờ khả năng eSIM và thiết kế **dual SIM**. Dù bạn khám phá Mỹ, châu Âu hay châu Á, một chiếc điện thoại sẵn sàng eSIM mang lại sự linh hoạt và tiết kiệm chi phí.
 
-### eSIM tốt nhất cho Moto G Power khi đi du lịch
+### eSIM tốt nhất cho Moto G Power khi du lịch
 
-- **Đối với du lịch Mỹ**: [eSIM Mỹ](/united-states-esim/) với chuyển mạng đa nhà mạng (T-Mobile, AT&T, Verizon) là lựa chọn đáng tin cậy nhất. Hoàn hảo cho du lịch đường bộ và khám phá thành phố.
-- **Đối với du lịch Châu Âu**: Cân nhắc [Europe eSIM](/europe-esim/) bao gồm nhiều quốc gia với một gói duy nhất.
-- **Đối với các điểm đến khác**: Xem [gói eSIM toàn cầu](/plans/) của chúng tôi để có phủ sóng ở hơn 190 quốc gia.
+- **Du lịch Mỹ**: [eSIM Mỹ](/united-states-esim/) với chuyển đổi đa nhà mạng (T-Mobile, AT&T, Verizon) là lựa chọn đáng tin nhất. Hoàn hảo cho các chuyến đi đường trường và khám phá thành phố.
+- **Du lịch châu Âu**: Cân nhắc một [eSIM châu Âu](/europe-esim/) phủ nhiều quốc gia với một gói cước duy nhất.
+- **Các điểm đến khác**: Kiểm tra [các gói eSIM toàn cầu](/plans/) của chúng tôi để phủ hơn 190 quốc gia.
 
-### Thiết lập Dual-SIM cho du lịch
+### Cấu hình Dual-SIM khi du lịch
 
-Moto G Power 2024 hỗ trợ **dual SIM** với một SIM vật lý và một eSIM hoạt động cùng lúc. Điều này cho phép bạn:
-- **Giữ SIM trong nước** hoạt động cho cuộc gọi và SMS (tắt chuyển vùng dữ liệu để tránh phí)
-- **Sử dụng eSIM du lịch** cho dữ liệu địa phương giá rẻ
+Moto G Power 2024 hỗ trợ **dual SIM** với một SIM vật lý hoạt động và một eSIM hoạt động. Điều này cho phép bạn:
+- **Giữ SIM nhà** hoạt động cho cuộc gọi và SMS (với data roaming tắt để tránh phí)
+- **Dùng một eSIM du lịch** cho dữ liệu địa phương giá rẻ
 
 **Cấu hình cho Moto G Power (Android):**
-1. `Cài đặt > Kết nối > Trình quản lý SIM`
-2. Đặt eSIM du lịch làm **SIM dữ liệu**
-3. Đặt SIM vật lý trong nước làm **SIM cuộc gọi/SMS**
-4. Tắt chuyển vùng dữ liệu trên SIM trong nước
-5. Giữ Chuyển vùng dữ liệu BẬT cho eSIM du lịch
+1. `Settings > Connections > SIM Manager`
+2. Đặt đường du lịch làm **data SIM**
+3. Đặt SIM vật lý nhà làm **SIM cuộc gọi/SMS**
+4. Tắt data roaming trên SIM nhà
+5. Giữ Data Roaming BẬT cho đường du lịch
 
-Đây là cách tiết kiệm chi phí nhất để duy trì kết nối ở nước ngoài, tránh phí chuyển vùng đắt đỏ. Để biết thêm mẹo, hãy xem [Hướng dẫn eSIM du lịch 2026](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/) của chúng tôi.
+Đây là cách tiết kiệm nhất để giữ kết nối ở nước ngoài, tránh các khoản phí roaming đắt đỏ. Để có thêm mẹo, xem [hướng dẫn Travel eSIM 2026](/faq/travel-esim-2026-how-to-avoid-roaming-fees-stay-connected-abroad/) của chúng tôi.
 
-### Điều gì xảy ra nếu Moto G Power của bạn không hỗ trợ eSIM?
+### Nếu Moto G Power của bạn không hỗ trợ eSIM thì sao?
 
-Nếu bạn có mẫu cũ (2023 trở về trước), đừng hoảng sợ. Bạn có hai lựa chọn:
-1. **Mua SIM vật lý** tại điểm đến – vẫn hoạt động tốt, chỉ kém tiện lợi hơn.
-2. **Nâng cấp lên Moto G Power 2024** – đây là một trong những điện thoại eSIM rẻ nhất trên thị trường và sẽ bảo vệ bạn cho những năm tới.
+Nếu bạn có mẫu cũ (2023 trở xuống), đừng hoảng loạn. Bạn có hai lựa chọn:
+1. **Mua SIM vật lý** tại điểm đến – dùng tốt, chỉ là kém tiện hơn.
+2. **Nâng cấp lên Moto G Power 2024** – đây là một trong những điện thoại eSIM rẻ nhất thị trường và bảo chứng tương lai cho bạn trong nhiều năm.
 
-Nếu bạn có ngân sách eo hẹp, SIM vật lý vẫn là một lựa chọn khả thi. Nhiều sân bay và cửa hàng tiện lợi bán SIM trả trước.
+Nếu ngân sách của bạn thực sự eo hẹp, SIM vật lý vẫn là lựa chọn hoàn toàn khả thi. Nhiều sân bay và cửa hàng tiện lợi bán SIM trả trước.
 
 
-## Câu hỏi thường gặp về tương thích và kích hoạt eSIM Moto G Power
+## Câu hỏi thường gặp về eSIM Moto G Power
 
 **Moto G Power 2023 có hỗ trợ eSIM không?**
-Không – chỉ mẫu 2024 trở lên mới hỗ trợ. Mẫu 2023 chỉ dùng SIM vật lý.
+Không – chỉ mẫu 2024 trở lên hỗ trợ eSIM. Mẫu 2023 chỉ dùng SIM vật lý.
 
 **Moto G Stylus 2024 có hỗ trợ eSIM không?**
 Có – Moto G Stylus 2024 hỗ trợ eSIM.
@@ -402,54 +408,54 @@ Có – Moto G Stylus 2024 hỗ trợ eSIM.
 **Moto G Power 5G (2024) có hỗ trợ eSIM không?**
 Có – phiên bản 5G của Moto G Power 2024 cũng hỗ trợ eSIM.
 
-**Làm thế nào để biết Moto G Power của tôi là năm nào?**
-Đi tới **Cài đặt > Giới thiệu điện thoại > Số hiệu mẫu**. Các mã phổ biến: XT2041 (2020), XT2117 (2021), XT2165 (2022), XT2415 (2024).
+**Làm sao biết Moto G Power của tôi là năm nào?**
+Vào **Settings > About Phone > Model Number**. Các mã phổ biến: XT2041 (2020), XT2117 (2021), XT2165 (2022), XT2415 (2024).
 
-**Moto G Power (2024) của tôi không hiển thị "Thêm nhà mạng" – vấn đề là gì?**
-90% trường hợp là do đường dẫn menu thay đổi giữa các phiên bản Android. **Sử dụng thanh tìm kiếm trong Cài đặt** và gõ "eSIM". Nếu không có gì xuất hiện, hãy kiểm tra xem điện thoại có bị khóa nhà mạng hay là biến thể Châu Á – liên hệ với nhà mạng của bạn.
+**Moto G Power (2024) của tôi không hiện "Add Carrier" – lỗi gì vậy?**
+90% trường hợp là vì đường dẫn menu đã thay đổi giữa các phiên bản Android. **Hãy dùng thanh tìm kiếm trong Cài đặt** và gõ "eSIM". Nếu không có gì xuất hiện, kiểm tra xem máy có bị khóa nhà mạng hay là biến thể châu Á không – liên hệ nhà mạng của bạn.
 
 **Motorola Edge có hỗ trợ eSIM không?**
-Có – hầu hết các mẫu Motorola Edge (Edge 40, 50, 60, 2024) đều hỗ trợ eSIM. Kiểm tra bằng `*#06#`.
+Có – hầu hết các mẫu Motorola Edge (Edge 40, 50, 60, 2024) hỗ trợ eSIM. Kiểm tra bằng `*#06#`.
 
 **Motorola Razr có hỗ trợ eSIM không?**
-Có – tất cả các mẫu Motorola Razr gập (Razr 40/50/60, Razr 2024, Razr+) đều hỗ trợ eSIM.
+Có – tất cả các mẫu gập Motorola Razr (Razr 40/50/60, Razr 2024, Razr+) đều hỗ trợ eSIM.
 
 **Holafly có tương thích với Moto G Power 2024 không?**
 Có – eSIM Holafly hoạt động hoàn hảo trên Moto G Power 2024. Chỉ cần quét mã QR.
 
-**Tôi có thể sử dụng eSIM và SIM vật lý cùng lúc trên Moto G Power 2024 không?**
-Có – mẫu 2024 hỗ trợ **dual SIM** với một SIM vật lý và một eSIM hoạt động cùng lúc.
+**Tôi có thể dùng eSIM và SIM vật lý cùng lúc trên Moto G Power 2024 không?**
+Có – mẫu 2024 hỗ trợ **dual SIM** với một SIM vật lý hoạt động và một eSIM hoạt động đồng thời.
 
-**eSIM nào tốt nhất cho Moto G Power?**
-Đối với du lịch Mỹ, **Roami** cung cấp chuyển mạng đa nhà mạng (T-Mobile, AT&T, Verizon). Đối với Châu Âu, **Airalo** hoặc **Holafly** là những lựa chọn tốt.
+**eSIM tốt nhất cho Moto G Power là gì?**
+Khi du lịch Mỹ, **Roami** cung cấp chuyển đổi đa nhà mạng (T-Mobile, AT&T, Verizon). Khi du lịch châu Âu, **Airalo** hoặc **Holafly** là những lựa chọn tốt.
 
-**Làm thế nào để sửa lỗi moto g power esim không hoạt động?**
-Kiểm tra chuyển vùng dữ liệu đã được bật, xác minh cài đặt APN, khởi động lại điện thoại và đảm bảo bạn có kết nối Wi-Fi ổn định. Xem [phần xử lý sự cố](#moto-g-power-esim-khong-hoat-dong-xu-ly-su-co-va-cach-khac-phuc) ở trên.
+**Làm sao sửa lỗi moto g power eSIM không hoạt động?**
+Kiểm tra data roaming đã bật, xác minh cài đặt APN, khởi động lại điện thoại, và đảm bảo bạn có kết nối Wi‑Fi ổn định. Xem [phần xử lý sự cố](#how-to-fix-moto-g-power-esim-not-working) ở trên.
 
-**Làm thế nào để kiểm tra tương thích eSIM trên Moto G Power?**
-Quay `*#06#`. Nếu EID 32 chữ số xuất hiện, điện thoại của bạn tương thích eSIM. Đây là phương pháp **kiểm tra tương thích eSIM** đáng tin cậy nhất.
+**Cách kiểm tra tương thích eSIM trên Moto G Power?**
+Quay số `*#06#`. Nếu EID 32 chữ số xuất hiện, điện thoại của bạn tương thích eSIM – đây là kiểm tra đáng tin cậy nhất hiện có.
 
-**Moto G Power có hỗ trợ kích hoạt eSIM mà không cần Wi-Fi không?**
-Không – kích hoạt eSIM yêu cầu kết nối Wi-Fi để tải xuống hồ sơ từ máy chủ SM-DP+ của nhà mạng.
+**Moto G Power có hỗ trợ kích hoạt eSIM không cần Wi-Fi không?**
+Không – kích hoạt eSIM yêu cầu kết nối Wi‑Fi để tải hồ sơ từ máy chủ SM-DP+ của nhà mạng.
 
-**Tôi có thể sử dụng eSIM Moto G Power với các nhà mạng Châu Âu không?**
-Có – các nhà mạng Châu Âu như Orange, Vodafone và O2 hỗ trợ eSIM trên các thiết bị tương thích.
+**Tôi có thể dùng eSIM Moto G Power của mình với các nhà mạng châu Âu không?**
+Có – các nhà mạng châu Âu như Orange, Vodafone và O2 hỗ trợ eSIM trên thiết bị tương thích.
 
-**eSIM của tôi hoạt động nhưng dừng sau khi cập nhật hệ thống – chuyện gì đã xảy ra?**
-Cập nhật Android đôi khi có thể đặt lại cài đặt mạng. Nhập lại cài đặt APN hoặc cài đặt lại hồ sơ eSIM nếu bạn vẫn còn mã QR.
+**eSIM của tôi đang hoạt động nhưng dừng sau bản cập nhật hệ thống – chuyện gì xảy ra?**
+Các bản cập nhật Android đôi khi đặt lại cài đặt mạng. Hãy nhập lại cài đặt APN hoặc cài lại hồ sơ eSIM nếu bạn vẫn giữ mã QR.
 
 **Moto G Power 2024 có đáng mua chỉ vì eSIM không?**
-Nếu bạn là du khách thường xuyên với ngân sách eo hẹp, có – đây là điện thoại rẻ nhất có eSIM và 5G, và nó hỗ trợ dual SIM, lý tưởng để giữ số trong nước trong khi sử dụng dữ liệu du lịch.
+Nếu bạn là du khách thường xuyên với ngân sách thấp, có – đây là chiếc điện thoại rẻ nhất có eSIM và 5G, và hỗ trợ dual SIM, lý tưởng để giữ số nhà trong khi dùng dữ liệu du lịch.
 
-**Tôi có thể chuyển eSIM Moto G Power sang điện thoại mới không?**
-Đối với eSIM du lịch (Roami, Airalo, Holafly): **Không** – chúng bị khóa với thiết bị. Đối với eSIM nhà mạng địa phương (T-Mobile, Verizon, EE): **Có** – sử dụng ứng dụng của nhà mạng để chuyển. Xem [phần chuyển eSIM](#ban-co-the-chuyen-esim-sang-dien-thoai-moi-khong-giai-thich-chuyen-esim-moto-g-power) ở trên.
+**Tôi có thể chuyển eSIM Moto G Power của mình sang điện thoại mới không?**
+Với eSIM du lịch (Roami, Airalo, Holafly): **Không** – chúng bị khóa với thiết bị. Với eSIM nhà mạng địa phương (T‑Mobile, Verizon, EE): **Có** – dùng ứng dụng nhà mạng để chuyển. Xem [phần chuyển eSIM](#moto-g-power-esim-transfer) ở trên.
 
 ---
 
-*Dựa trên tài liệu hỗ trợ Motorola, tiêu chuẩn GSMA và thử nghiệm nhà mạng. Cập nhật: Tháng 8 năm 2026.*
+*Dựa trên tài liệu hỗ trợ của Motorola, tiêu chuẩn GSMA và thử nghiệm nhà mạng. Cập nhật: tháng 9 năm 2026.*
 
-## Nguồn
+## Nguồn tham khảo
 
 - [GSMA — Đặc tả eSIM (SGP.22)](https://www.gsma.com/esim/)
-- [Hỗ trợ Google — Android eSIM](https://support.google.com/android/answer/11241215)
-- [Hỗ trợ Motorola — Tương thích eSIM](https://support.motorola.com/)
+- [Google Support — Android eSIM](https://support.google.com/android/answer/11241215)
+- [Motorola Support — eSIM compatibility](https://support.motorola.com/)

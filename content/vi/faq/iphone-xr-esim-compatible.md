@@ -1,11 +1,12 @@
 ---
-title: "iPhone XR có hỗ trợ eSIM không? Hướng dẫn Đầy đủ 2026"
-h1_title: "iPhone XR có hỗ trợ eSIM không? Hướng dẫn Đầy đủ cho năm 2026"
-description: "iPhone XR hỗ trợ eSIM – xác minh bằng *#06#. Kích hoạt trên các nhà mạng lớn. Các mẫu Trung Quốc: không có eSIM. Cũng đề cập đến iPhone 8/X và các iPhone eSIM."
-image: "/img/esim/esim-travel.jpg"
+title: "iPhone XR có hỗ trợ eSIM không? Hướng dẫn đầy đủ 2026"
+h1_title: "iPhone XR có hỗ trợ eSIM không? Hướng dẫn hoàn chỉnh cho năm 2026"
+description: "iPhone XR hỗ trợ eSIM – kiểm tra bằng *#06#. Kích hoạt trên các nhà mạng lớn. Mẫu máy Trung Quốc: không có eSIM. Cũng đề cập iPhone 8/X và các iPhone có eSIM."
+image: "/img/faq/iphone-xr-esim.webp"
+image-1: "/img/faq/iphone-xr-esim-1.jpg"
 keywords: ["iphone xr esim compatible", "iphone xr esim support", "esim compatible phones", "list of iphones that support esim", "airalo compatible phones", "google fi esim compatible phones", "verizon esim compatibility", "dual sim compatible", "iphone xr dual sim", "iphone xr esim"]
-date: 2026-09-06T10:00:00Z
-lastmod: 2026-09-06T00:00:00Z
+date: 2026-09-22T00:00:00Z
+lastmod: 2026-09-22T00:00:00Z
 tags: ["iPhone", "eSIM", "Compatibility", "iPhone XR"]
 toc: true
 
@@ -16,7 +17,7 @@ publisher_logo: "/img/logo.png"
 
 # UI text translations
 ui_text:
-  updated_on: "Cập nhật ngày"
+  updated_on: "Cập nhật vào"
   min_read: "phút đọc"
   toc: "Mục lục"
 
@@ -28,12 +29,12 @@ breadcrumbs:
     text: "Tương thích eSIM"
     url: "/compatibility/"
 
-# Thanh bên: eSIM phổ biến
+# Sidebar: Popular eSIMs
 sidebar_popular:
   title: "eSIM phổ biến"
   item_suffix: "eSIM"
   items:
-    - name: "eSIM Hoa Kỳ"
+    - name: "eSIM Mỹ (USA)"
       flag: "/img/flags/us.svg"
       price: "$1.99"
       url: "/united-states-esim/"
@@ -43,7 +44,7 @@ sidebar_popular:
       price: "$1.99"
       url: "/germany-esim/"
       badge: "5G"
-    - name: "eSIM Châu Âu"
+    - name: "eSIM châu Âu"
       flag: "/img/flags/eu.svg"
       price: "$1.99"
       url: "/europe-esim/"
@@ -64,12 +65,12 @@ sidebar_popular:
       url: "/china-esim/"
       badge: "5G"
 
-# Thanh bên: Ưu đãi eSIM miễn phí
+# Sidebar: Free eSIM offers
 sidebar_free:
-  title: "Nhận eSIM Miễn phí"
+  title: "Nhận eSIM miễn phí"
   icon: "🎁"
-  item_suffix: "Free eSIM"
-  item_subtitle: "Free eSIM"
+  item_suffix: "eSIM miễn phí"
+  item_subtitle: "eSIM miễn phí"
   items:
     - name: "eSIM Anh"
       flag: "/img/flags/gb.svg"
@@ -84,305 +85,306 @@ sidebar_free:
       flag: "/img/flags/hk.svg"
       url: "/free-esim/"
 
-# Thanh bên: Câu hỏi phổ biến
+# Sidebar: Popular questions
 sidebar_questions:
   title: "Câu hỏi phổ biến"
   items:
-    - question: "Kích hoạt eSIM là gì và nó hoạt động như thế nào?"
+    - question: "Kích hoạt eSIM là gì và hoạt động ra sao?"
       url: "/faq/what-is-esim-activation-and-how-does-it-work/"
-    - question: "Làm thế nào để kích hoạt eSIM?"
+    - question: "Cách kích hoạt eSIM?"
       url: "/faq/how-to-activate-an-esim/"
-    - question: "Làm thế nào để kích hoạt eSIM trên iPhone (Tất cả các mẫu)?"
+    - question: "Cách kích hoạt eSIM trên iPhone (mọi mẫu máy)?"
       url: "/faq/how-to-activate-esim-on-iphone/"
     - question: "Danh sách tương thích eSIM mới nhất"
       url: "/compatibility/"
 ---
 
 
-> **Lời biên tập:** Roami là nhà cung cấp eSIM có trụ sở tại Mỹ. Hướng dẫn này trả lời một câu hỏi — *iPhone XR có hỗ trợ eSIM không?* — và tập trung vào những cạm bẫy quan trọng khi bạn mua iPhone 2018 vào năm 2026: các mẫu Trung Quốc, khóa nhà mạng và giới hạn chỉ 4G của XR. Các thông tin đã được xác minh tính đến tháng 8 năm 2026 dựa trên tài liệu của Apple và dữ liệu kích hoạt của Roami.
+> **Lưu ý của biên tập viên:** iPhone XR hỗ trợ eSIM ở vị trí đường truyền thứ hai, nhưng bị giới hạn ở 4G và có một số "bẫy" đáng biết — mẫu máy Trung Quốc và khóa nhà mạng. Hướng dẫn này trả lời đúng một câu hỏi đó dựa trên tài liệu của Apple và dữ liệu kích hoạt của Roami, đã được xác minh tính đến tháng 9 năm 2026. Hãy xác nhận mẫu máy của bạn bên dưới trước khi mua một chiếc iPhone 2018 vào năm 2026.
 
 
-## iPhone XR có Tương thích eSIM không? Câu trả lời Trực tiếp
+## iPhone XR có tương thích eSIM không?
 
-**Có — iPhone XR toàn cầu hỗ trợ đầy đủ eSIM.** Đây là một trong ba chiếc iPhone đầu tiên được trang bị chip eSIM, cùng với XS và XS Max vào tháng 9 năm 2018. Một nano-SIM vật lý cộng một eSIM có thể hoạt động cùng lúc.
+**Có — iPhone XR phiên bản toàn cầu hỗ trợ đầy đủ eSIM.** Đây là một trong ba chiếc iPhone đầu tiên ra mắt kèm chip eSIM, cùng với XS và XS Max vào tháng 9 năm 2018. Một nano-SIM vật lý cộng với một eSIM có thể hoạt động đồng thời.
 
-Ba điều quyết định liệu *chiếc XR của bạn* có thực sự hoạt động với eSIM hay không:
+Ba yếu tố quyết định chiếc XR *của bạn* có thực sự dùng được eSIM hay không:
 
-1. **Nơi nó được bán.** Các mẫu toàn cầu (Mỹ, Châu Âu, Nhật Bản và hầu hết thế giới) có eSIM. Các mẫu Trung Quốc đại lục — số kiểu kết thúc bằng **CH/A** hoặc phần cứng **A2108** — thì không, vì Apple đã loại bỏ chip eSIM để tuân thủ quy định hai SIM vật lý của Trung Quốc.
-2. **Khóa nhà mạng.** Trong Cài đặt > Cài đặt chung > Giới thiệu, **Carrier Lock** phải hiển thị "No SIM restrictions." XR bị khóa sẽ chỉ chấp nhận eSIM từ nhà mạng gốc.
-3. **Phần mềm.** Yêu cầu iOS 12.1 trở lên; chúng tôi khuyên dùng iOS 16+.
+1. **Nơi bán ra.** Các mẫu toàn cầu (Mỹ, châu Âu, Nhật Bản và phần lớn thế giới) có eSIM. Mẫu bán ở Trung Quốc đại lục — số model kết thúc bằng **CH/A**, hoặc phần cứng **A2108** — thì không, vì Apple đã loại bỏ chip eSIM để tuân thủ quy định dual-physical-SIM (hai SIM vật lý) của Trung Quốc.
+2. **Khóa nhà mạng.** Trong Settings > General > About, mục **Carrier Lock** phải hiển thị "No SIM restrictions". Máy XR bị khóa chỉ chấp nhận eSIM từ nhà mạng gốc.
+3. **Phần mềm.** Cần iOS 12.1 trở lên; chúng tôi khuyến nghị iOS 16 trở lên.
 
-**Kiểm tra nhanh nhất:** Mở ứng dụng Phone, quay `*#06#` và tìm **EID** 32 chữ số. Có EID = có phần cứng eSIM. Chỉ có số IMEI = không có eSIM. Để có hướng dẫn xác minh đầy đủ ba phương pháp, hãy xem [trung tâm tương thích eSIM iPhone](/faq/iphone-11-esim-compatible/) của chúng tôi.
+**Cách kiểm tra nhanh nhất:** mở ứng dụng Điện thoại, quay số `*#06#`, và tìm chuỗi **EID** 32 chữ số. Có EID = có phần cứng eSIM. Chỉ thấy số IMEI = không có eSIM. Xem hướng dẫn xác minh đầy đủ ba phương pháp tại [trung tâm tương thích eSIM iPhone](/faq/iphone-11-esim-compatible/).
 
 
-## iPhone XR eSIM trong nháy mắt
+## Tổng quan eSIM trên iPhone XR
 
 | Tính năng | Trạng thái |
 | :--- | :--- |
-| **Hỗ trợ eSIM** | ✅ Có (các mẫu toàn cầu) |
-| **SIM kép** | ✅ 1 nano-SIM vật lý + 1 eSIM (hai chế độ chờ) |
-| **Số đường truyền hoạt động cùng lúc** | 2 (mỗi loại một) |
+| **Hỗ trợ eSIM** | ✅ Có (mẫu toàn cầu) |
+| **Dual SIM** | ✅ 1 nano-SIM vật lý + 1 eSIM (dual standby) |
+| **Số đường truyền hoạt động cùng lúc** | 2 (mỗi loại một đường) |
 | **5G trên eSIM** | ❌ Không — chỉ 4G LTE |
-| **Phiên bản Trung Quốc đại lục** | ❌ Không có eSIM — chỉ hai SIM vật lý |
+| **Bản Trung Quốc đại lục** | ❌ Không có eSIM — chỉ hai SIM vật lý |
 | **iOS yêu cầu** | 12.1+ (khuyến nghị 16+) |
 
-eSIM của XR hoạt động giống hệt như trên iPhone mới hơn — cùng luồng cài đặt, cùng hành vi hai chế độ chờ — chỉ khác là nó dừng ở 4G LTE.
+eSIM trên XR hoạt động y hệt như trên các iPhone mới hơn — cùng quy trình cài đặt, cùng hành vi dual-standby — chỉ khác là dừng ở mức 4G LTE.
 
 
-## Một Hạn chế Thực sự của XR: Chỉ 4G
+## Tại sao iPhone XR bị giới hạn ở 4G
 
-Vì XR ra mắt trước 5G, eSIM (và SIM vật lý) của nó chỉ chạy trên 4G LTE. Trong thực tế, điều đó hiếm khi ảnh hưởng đến du lịch: bản đồ, nhắn tin, duyệt web và cuộc gọi video đều hoạt động giống nhau trên tín hiệu LTE mạnh. Bạn sẽ chỉ thấy sự khác biệt nếu bạn đặc biệt muốn tốc độ 5G — trong trường hợp đó, iPhone SE thế hệ thứ 3 hoặc iPhone 12+ là bước nâng cấp. Sự đánh đổi, được đề cập bên dưới, là XR là cách rẻ nhất để có eSIM.
+Vì XR ra mắt trước thời đại 5G nên eSIM (cả SIM vật lý) của nó chỉ chạy trên 4G LTE. Trên thực tế, điều này hiếm khi ảnh hưởng đến việc đi du lịch: bản đồ, nhắn tin, lướt web và gọi video đều cảm giác như nhau trên sóng LTE mạnh. Bạn chỉ nhận ra khoảng cách này nếu thực sự muốn tốc độ 5G — khi đó iPhone SE thế hệ 3 hoặc iPhone 12 trở lên mới là bước nâng cấp. Đổi lại — như sẽ đề cập bên dưới — XR là con đường rẻ nhất để sở hữu eSIM.
 
 
-## 4G LTE có còn đủ dùng trong năm 2026 không?
+## 4G LTE còn đủ dùng trong năm 2026 không?
 
-Câu trả lời ngắn: có, cho hầu hết mọi thứ một du khách làm. XR dừng ở 4G LTE — chip A12 Bionic của Apple kết hợp với modem LTE Gigabit-class — và trong năm 2026, điều đó vẫn đủ cho công việc hàng ngày của điện thoại.
+Câu trả lời ngắn: có, cho hầu như mọi việc mà một du khách làm. XR dừng ở mức 4G LTE — chip Apple A12 Bionic kết hợp modem LTE tốc độ Gigabit — và vào năm 2026, điều đó vẫn dư dả cho công việc hàng ngày của chiếc điện thoại này.
 
-Tốc độ thực tế trên mạng LTE tốt thường đạt khoảng **20–100 Mbps tải xuống**, đủ nhanh cho cuộc gọi video HD, phát nhạc trực tuyến và tải ảnh lên mà không bị giật. Đỉnh lý thuyết cao hơn, nhưng bạn hiếm khi cần đến nó.
+Tốc độ thực tế trên mạng LTE tốt vào khoảng **20–100 Mbps tải xuống**, đủ nhanh cho gọi video HD, nghe nhạc trực tuyến và tải ảnh lên mà không trục trặc. Đỉnh lý thuyết cao hơn, nhưng bạn hiếm khi cần tới.
 
 Những gì 4G LTE xử lý dễ dàng trên XR:
 
-| Tác vụ Du lịch | 4G LTE trên XR |
+| Việc khi du lịch | 4G LTE trên XR |
 | :--- | :--- |
-| Bản đồ và điều hướng từng chặng | ✅ Tức thì |
+| Bản đồ và dẫn đường từng chặng | ✅ Tức thì |
 | Nhắn tin (iMessage, WhatsApp, Signal) | ✅ Tức thì |
-| Email và duyệt web | ✅ Tức thì |
-| Cuộc gọi video (FaceTime, WhatsApp, Zoom) | ✅ Mượt ở 720p–1080p |
-| Phát nhạc và podcast | ✅ Mượt |
-| Mạng xã hội và tải ảnh lên | ✅ Tốt |
-| Tải tệp lớn / phát trực tuyến 4K | ⚠️ Chậm hơn — lãnh thổ 5G |
+| Email và lướt web | ✅ Tức thì |
+| Gọi video (FaceTime, WhatsApp, Zoom) | ✅ Mượt ở 720p–1080p |
+| Nghe nhạc và podcast trực tuyến | ✅ Mượt |
+| Mạng xã hội và tải ảnh lên | ✅ Ổn |
+| Tải tệp lớn / xem trực tuyến 4K | ⚠️ Chậm hơn — lĩnh vực của 5G |
 
-Khoảng trống thực sự duy nhất là tốc độ dành riêng cho 5G. Nếu travel eSIM của bạn quảng cáo 5G, XR vẫn cài đặt và sử dụng gói đó — nó chỉ kết nối trên LTE thay thế. Phủ sóng cũng không phải vấn đề: 4G LTE là tiêu chuẩn toàn cầu vào năm 2026 và các nhà mạng sẽ tiếp tục chạy nó trong nhiều năm cùng với 5G.
+Khoảng trống duy nhất là tốc độ dành riêng cho 5G. Nếu gói eSIM du lịch của bạn quảng cáo 5G, XR vẫn cài đặt và sử dụng gói đó bình thường — chỉ là kết nối qua LTE thay vì 5G. Vấn đề vùng phủ cũng không đáng lo: 4G LTE là mặt bằng chung toàn cầu vào năm 2026, và các nhà mạng sẽ còn duy trì nó trong nhiều năm nữa song hành với 5G.
 
-**Kết luận:** giới hạn 4G của XR là giới hạn *tốc độ*, không phải *phủ sóng* hay *tương thích*. Đó là cái giá bạn phải trả cho iPhone eSIM rẻ nhất — và đối với hầu hết các chuyến đi, đó là một cái giá đáng trả. Muốn 5G trên iPhone eSIM giá rẻ thay thế? [iPhone SE thế hệ thứ 3](/faq/iphone-se-esim-compatible/) là bước nâng cấp tự nhiên.
+**Kết luận:** trần 4G của XR là giới hạn về *tốc độ*, không phải về *vùng phủ* hay *tương thích*. Đó là cái giá phải trả cho chiếc iPhone eSIM rẻ nhất — và với hầu hết các chuyến đi, đó là cái giá đáng trả. Muốn 5G trên một chiếc iPhone eSIM giá rẻ? [iPhone SE thế hệ 3](/faq/iphone-se-esim-compatible/) là bước nâng cấp tự nhiên.
 
 
-## Các Số kiểu iPhone XR (A1984–A2109)
+## Số model iPhone XR
 
-Số kiểu phần cứng của XR cho bạn biết nó có eSIM hay không trước khi bạn chạm vào menu. Apple đã bán sáu biến thể phần cứng và chúng được chia rõ ràng thành hai nhóm — có eSIM hoặc không có eSIM:
+Số model phần cứng của XR cho biết máy có eSIM hay chưa, ngay cả trước khi bạn chạm vào bất kỳ menu nào. Apple đã bán sáu biến thể phần cứng, chia rạch roi thành hai nhóm — có eSIM hoặc không có eSIM:
 
-| Số kiểu | Nơi bán | Hỗ trợ eSIM |
+| Số model | Nơi bán ra | Hỗ trợ eSIM |
 | :--- | :--- | :--- |
-| **A1984** | Mỹ, Canada, Puerto Rico, Guam, Quần đảo Virgin Mỹ | ✅ Có |
-| **A2105** | Hầu hết các quốc gia khác (toàn cầu) | ✅ Có |
+| **A1984** | Mỹ, Canada, Puerto Rico, Guam, Quần đảo Virgin thuộc Mỹ | ✅ Có |
+| **A2105** | Phần lớn các quốc gia khác (toàn cầu) | ✅ Có |
 | **A2106** | Nhật Bản | ✅ Có (có thể bị khóa nhà mạng) |
 | **A2107** | Trung Quốc đại lục | ❌ Không — hai SIM vật lý |
 | **A2108** | Trung Quốc đại lục, Hồng Kông, Ma Cao | ❌ Không — hai SIM vật lý |
 | **A2109** | Trung Quốc đại lục (biến thể nhà mạng) | ❌ Không — hai SIM vật lý |
 
-**Phiên bản ngắn gọn:** A1984, A2105 và A2106 có eSIM. A2107, A2108 và A2109 mang hai nano-SIM vật lý thay thế — không có chip eSIM. Đó là toàn bộ bản đồ.
+**Tóm gọn:** A1984, A2105 và A2106 có eSIM. A2107, A2108 và A2109 thay vào đó mang hai nano-SIM vật lý — không có chip eSIM. Đó là toàn bộ bản đồ.
 
-**Cách tìm nó:** Cài đặt > Cài đặt chung > Giới thiệu > Số kiểu máy. Nhấn vào số để chuyển đổi giữa mã phần cứng "AXXXX" và mã bán lẻ "MNXXXX/A".
+**Cách tìm số model:** Settings > General > About > Model Number. Chạm vào số để chuyển đổi giữa mã phần cứng "AXXXX" và mã bán lẻ "MNXXXX/A".
 
-**Sắc thái Nhật Bản (A2106):** Các mẫu Nhật Bản *có* eSIM, nhưng nhiều XR thị trường Nhật Bản được bán khóa với docomo, au hoặc SoftBank. Kiểm tra **Cài đặt > Cài đặt chung > Giới thiệu > Carrier Lock** trước khi cho rằng một đơn vị Nhật Bản cũ được mở khóa.
+**Lưu ý về Nhật Bản (A2106):** máy bản Nhật *có* eSIM, nhưng nhiều chiếc XR bán tại thị trường Nhật bị khóa với docomo, au hoặc SoftBank. Hãy kiểm tra **Settings > General > About > Carrier Lock** trước khi giả định máy Nhật cũ đã được mở khóa.
 
-**Sắc thái Trung Quốc (A2107 / A2108 / A2109):** ba mẫu này là các biến thể Trung Quốc đại lục và Hồng Kông / Ma Cao. Chúng xuất xưởng với hai nano-SIM vật lý và không có chip eSIM — không có bản cập nhật iOS, đặt lại hay hack nào có thể thêm nó. Nếu bạn thấy bất kỳ ba số nào trên màn hình Giới thiệu, hãy dừng lại: đơn vị đó sẽ không bao giờ nhận eSIM.
+**Lưu ý về Trung Quốc (A2107 / A2108 / A2109):** đây là ba biến thể Trung Quốc đại lục và Hồng Kông / Ma Cao. Chúng xuất xưởng với hai nano-SIM vật lý và không có chip eSIM — không bản cập nhật iOS, không khôi phục cài đặt hay bất kỳ "thủ thuật" nào có thể bổ sung eSIM. Nếu bạn thấy một trong ba số này trên màn hình About, hãy dừng lại: máy đó sẽ không bao giờ nhận eSIM.
 
 
-## Mua iPhone XR Cũ để dùng eSIM — Danh sách Kiểm tra
+## Mua iPhone XR cũ để dùng eSIM
 
-XR là iPhone eSIM rẻ nhất trên thị trường cũ, điều này khiến nó trở thành mục tiêu của các đơn vị thị trường xám và mẫu Trung Quốc. Hãy chạy danh sách kiểm tra này trực tiếp trước khi đưa tiền:
+XR là chiếc iPhone eSIM rẻ nhất trên thị trường cũ, điều này khiến nó là "nam châm" hút các máy bán chợ xám và máy bản Trung Quốc. Hãy chạy qua danh sách kiểm tra này trực tiếp trước khi đưa tiền:
 
-| Bước | Những gì cần Kiểm tra |
+| Bước | Cần kiểm tra |
 | :--- | :--- |
-| **1** | **Số kiểu máy** (Cài đặt > Cài đặt chung > Giới thiệu) — từ chối bất kỳ thứ gì kết thúc bằng **CH/A** hoặc phần cứng **A2107/A2108/A2109**. |
-| **2** | **Quay `*#06#`** — xác nhận **EID** 32 chữ số xuất hiện, không chỉ số IMEI. |
-| **3** | **Carrier Lock** — phải hiển thị **"No SIM restrictions."** "SIM locked" có nghĩa là travel eSIM không khả dụng. |
-| **4** | **Cài đặt > Di động** — "Add Cellular Plan" phải có thể nhấn được, không bị mờ. |
-| **5** | **Khay SIM vật lý** — XR có khay nano-SIM. Nếu không có khay, đó không phải là XR. |
-| **6** | **Kiểm tra dùng thử miễn phí** — nếu người bán cho phép, hãy cài đặt eSIM miễn phí (như của Roami) để chứng minh kích hoạt hoạt động từ đầu đến cuối. |
+| **1** | **Số model** (Settings > General > About) — từ chối mọi máy kết thúc bằng **CH/A**, hoặc phần cứng **A2107/A2108/A2109**. |
+| **2** | **Quay số `*#06#`** — xác nhận xuất hiện **EID** 32 chữ số, chứ không chỉ các số IMEI. |
+| **3** | **Carrier Lock** — phải hiển thị **"No SIM restrictions"**. "SIM locked" nghĩa là không thể dùng eSIM du lịch. |
+| **4** | **Settings > Cellular** — "Add Cellular Plan" phải bấm được, không bị mờ đi. |
+| **5** | **Khay SIM vật lý** — XR có khay nano-SIM. Nếu không có khay, đó không phải XR. |
+| **6** | **Thử eSIM miễn phí** — nếu người bán cho phép, cài một eSIM miễn phí (như của Roami) để chứng minh việc kích hoạt hoạt động trọn vẹn từ đầu đến cuối. |
 
-### Dấu hiệu Đỏ Khi Mua Cũ
+### Dấu hiệu cảnh báo khi mua máy cũ
 
-| Dấu hiệu đỏ | Tại sao |
+| Dấu hiệu | Lý do |
 | :--- | :--- |
-| **Không có EID trên `*#06#`** | Mẫu Trung Quốc — không có phần cứng eSIM. |
-| **Carrier Lock hiển thị "SIM locked"** | Travel eSIM sẽ không hoạt động cho đến khi được mở khóa. |
-| **Người bán nói "chỉ cần cập nhật iOS để có eSIM"** | Sai — eSIM là phần cứng, không phải tính năng phần mềm. |
-| **Bị khóa iCloud** | Điện thoại là một cục gạch — bỏ đi. |
+| **Không có EID khi quay `*#06#`** | Máy bản Trung Quốc — không có phần cứng eSIM. |
+| **Carrier Lock hiển thị "SIM locked"** | eSIM du lịch sẽ không hoạt động cho đến khi mở khóa. |
+| **Người bán nói "chỉ cần cập nhật iOS là có eSIM"** | Sai — eSIM là phần cứng, không phải tính năng phần mềm. |
+| **Bị khóa iCloud** | Chiếc điện thoại là cục gạch — bỏ đi. |
 
-### Sức khỏe Pin, Mức Giá và Nơi Mua
+### Sức khỏe pin, khoảng giá và nơi mua
 
-Ngoài kiểm tra EID và khóa, ba điều quyết định liệu XR cũ có phải là một thỏa thuận tốt vào năm 2026 không:
+Ngoài việc kiểm tra EID và khóa máy, ba yếu tố quyết định một chiếc XR cũ có đáng mua vào năm 2026 hay không:
 
-**1. Sức khỏe pin.** Trên điện thoại cũ này, đó là điều đầu tiên cần kiểm tra. Đến **Cài đặt > Pin > Tình trạng pin & Sạc** và đọc **Dung lượng tối đa**. Trên 90% là tuyệt vời; 85–90% bình thường đối với đơn vị ít sử dụng; dưới 80% có nghĩa là Apple khuyến nghị bảo dưỡng pin (khoảng $69–89 tại Mỹ) và điện thoại sẽ gặp khó khăn để dùng cả ngày du lịch. Yêu cầu người bán cho con số này trước khi bạn trả tiền.
+**1. Sức khỏe pin.** Với một chiếc điện thoại cũ như vậy, đây là thứ cần kiểm tra đầu tiên. Vào **Settings > Battery > Battery Health & Charging** và đọc chỉ số **Maximum Capacity**. Trên 90% là xuất sắc; 85–90% là bình thường với máy ít sử dụng; dưới 80% nghĩa là Apple khuyến nghị thay pin (khoảng 69–89 USD tại Mỹ) và máy sẽ chật vật qua trọn một ngày du lịch. Hãy hỏi con số này từ người bán trước khi thanh toán.
 
-**2. Mức giá (tháng 8 năm 2026).** XR sạch sẽ, mở khóa hiện giao dịch trong một khung hẹp:
+**2. Khoảng giá (tháng 9/2026).** Các chiếc XR sạch, đã mở khóa hiện giao dịch trong một dải giá hẹp:
 
-| Tình trạng | Giá xấp xỉ |
+| Tình trạng | Giá gần đúng |
 | :--- | :--- |
-| Tạm ổn, mòn nhẹ, 64GB | $90–120 |
-| Tốt, mở khóa, 64GB | $110–140 |
-| Tốt, mở khóa, 128GB | $120–155 |
-| Xuất sắc + pin tốt, 256GB | $140–175 |
+| Khá, trầy xước nhẹ, 64GB | $90–120 |
+| Tốt, đã mở khóa, 64GB | $110–140 |
+| Tốt, đã mở khóa, 128GB | $120–155 |
+| Xuất sắc + pin khỏe, 256GB | $140–175 |
 
-Bất kỳ thứ gì thấp hơn đáng kể so với những con số này thường là mẫu Trung Quốc, đơn vị bị khóa nhà mạng hoặc một cục giấy iCloud bị khóa.
+Bất kỳ giá nào thấp hơn xa các con số này thường là máy bản Trung Quốc, máy khóa nhà mạng, hoặc "cục gạch" khóa iCloud.
 
-**3. Nơi mua.** Lựa chọn an toàn nhất là các thị trường xác minh IMEI/ESN và cung cấp cửa sổ trả hàng: **Swappa** (người bán cá nhân, danh sách được nhân viên xác minh), **Back Market** (tân trang với bảo hành 12 tháng), **Amazon Renewed** và **eBay** (gắn bó với người bán có phản hồi cao với "unlocked" trong danh sách và Bảo đảm Hoàn tiền của eBay). Apple không còn bán XR tân trang, vì vậy bên thứ ba là con đường duy nhất của bạn. Tránh các danh sách địa phương ẩn danh và người bán "nhập khẩu số lượng lớn" không chia sẻ IMEI trước khi mua.
+**3. Nơi mua.** Những lựa chọn an toàn nhất là các chợ điện tử xác minh IMEI/ESN và có chính sách trả hàng: **Swappa** (người bán cá nhân, tin đăng được nhân sự xác minh), **Back Market** (máy tân trang bảo hành 12 tháng), **Amazon Renewed**, và **eBay** (chỉ mua từ người bán có điểm đánh giá cao, tin đăng ghi "unlocked" và có eBay Money Back Guarantee). Apple không còn bán XR tân trang, nên bên thứ ba là con đường duy nhất. Tránh các tin đăng địa phương ẩn danh và người bán "hàng nhập sỉ" không chịu cung cấp IMEI trước khi mua.
 
-### Mức trần iOS 18 (Một Dấu hiệu Đặc thù 2026)
+### Trần iOS 18
 
-XR chạy từ iOS 12 đến **iOS 18** — và dừng lại ở đó. Apple đã loại bỏ XR, XS và XS Max khỏi iOS 19 vào năm 2025 vì chúng chia sẻ chip A12 Bionic cũ hơn. Điện thoại vẫn hoạt động tốt trên iOS 18 và tiếp tục nhận các bản vá bảo mật, nhưng nó sẽ không nhận được các tính năng chính mới.
+XR chạy từ iOS 12 đến **iOS 18** — và dừng lại ở đó. Năm 2025, Apple loại XR, XS và XS Max khỏi iOS 19 vì chúng dùng chung chip A12 Bionic đời cũ. Máy vẫn hoạt động tốt trên iOS 18 và tiếp tục nhận bản vá bảo mật, nhưng sẽ không có tính năng lớn mới.
 
-Cụ thể cho eSIM, điều đó không thành vấn đề: eSIM hoạt động giống hệt nhau trên iOS 18 và iOS 19. Nó chỉ quan trọng nếu bạn định giữ điện thoại trong vài năm nữa, trong trường hợp đó [iPhone SE thế hệ thứ 3](/faq/iphone-se-esim-compatible/) (vẫn được hỗ trợ đầy đủ) là lựa chọn an toàn hơn cho dài hạn.
-
-
-## Thiết lập eSIM trên iPhone XR
-
-Sau khi bạn đã xác nhận điện thoại có EID, thiết lập mất khoảng hai phút. XR giữ một khe nano-SIM vật lý cộng với một eSIM, vì vậy tùy chọn luôn có mặt — đây là đường dẫn dành riêng cho XR:
-
-1. Mua gói và để ý email xác nhận (Roami cung cấp mã QR cộng với địa chỉ SM-DP+ và mã kích hoạt).
-2. Mở **Cài đặt > Di động > Thêm gói di động** (iOS 12–15) hoặc **Thêm eSIM** (iOS 16–18 — nhãn thay đổi, tính năng không đổi).
-3. Quét mã QR hoặc nhấn **Enter Details Manually** và nhập địa chỉ SM-DP+ và mã kích hoạt nếu máy ảnh không lấy nét.
-4. Đặt nhãn cho đường truyền mới (ví dụ: "Travel") và chọn **Default Line** cho dữ liệu — đặt travel eSIM ở đây và giữ đường nhà làm mặc định thoại.
-5. Bật **Data Roaming** cho đường travel khi bạn hạ cánh.
-
-XR là hai chế độ chờ, không phải hai hoạt động: cả hai đường truyền đều nhận cuộc gọi và tin nhắn, nhưng chỉ một đường giữ cuộc gọi thoại tại một thời điểm. Điều đó bình thường, không phải lỗi.
-
-Hướng dẫn từng bước đầy đủ với ảnh chụp màn hình có trong [hướng dẫn kích hoạt eSIM iPhone](/faq/how-to-activate-esim-on-iphone/); nếu bất kỳ lỗi nào xảy ra giữa cài đặt, các cách sửa có trong [Hướng dẫn Xử lý sự cố eSIM Chuyên sâu 2026](/faq/esim-deep-troubleshooting-guide-2026/).
+Riêng với eSIM, điều này không quan trọng: eSIM hoạt động như nhau trên iOS 18 và iOS 19. Nó chỉ đáng bận tâm nếu bạn định dùng máy trong nhiều năm — khi đó [iPhone SE thế hệ 3](/faq/iphone-se-esim-compatible/) (vẫn còn được hỗ trợ đầy đủ) là lựa chọn an toàn hơn về lâu dài.
 
 
-## Thời lượng Pin XR với SIM Kép
+## Cài đặt eSIM trên iPhone XR
 
-Chạy đường truyền thứ hai (du lịch) trên XR nhẹ nhàng, nhưng không miễn phí: giữ hai đường truyền đăng ký với mạng tiêu tốn vài phần trăm pin mỗi ngày. Dự kiến tốc độ hao pin nhanh hơn khoảng **5–10%** khi cả hai đường truyền hoạt động so với một đường.
+Sau khi xác nhận máy có EID, việc cài đặt chỉ mất khoảng hai phút. XR giữ một khe nano-SIM vật lý cộng một eSIM, nên tùy chọn luôn sẵn có — đây là đường dẫn riêng cho XR:
 
-Biến số lớn hơn trên điện thoại 2018 là chính pin. Một chiếc XR khỏe mạnh dễ dàng dùng cả ngày hỗn hợp; một chiếc có pin yếu (dưới 85%) sẽ cần sạc giữa ngày ngay cả trước khi bạn thêm đường truyền thứ hai. Ba động tác dễ dàng để kéo dài:
+1. Mua gói cước và chờ email xác nhận (Roami gửi mã QR kèm địa chỉ SM-DP+ và mã kích hoạt).
+2. Mở **Settings > Cellular > Add Cellular Plan** (iOS 12–15) hoặc **Add eSIM** (iOS 16–18 — nhãn thay đổi, tính năng thì không).
+3. Quét mã QR, hoặc chạm **Enter Details Manually** rồi nhập địa chỉ SM-DP+ và mã kích hoạt nếu máy ảnh không lấy được nét.
+4. Đặt tên cho đường truyền mới (ví dụ: "Du lịch") và chọn **Default Line** cho dữ liệu — đặt eSIM du lịch ở đây, và giữ đường mạng nhà làm mặc định cho cuộc gọi.
+5. Bật **Data Roaming** cho đường du lịch khi bạn hạ cánh.
 
-- **Tắt đường du lịch khi không sử dụng** — Cài đặt > Di động > [đường du lịch] > bật/tắt **Turn On This Line**. Bật lại trong vài giây khi hạ cánh.
-- **Sử dụng Chế độ nguồn điện thấp** — Cài đặt > Pin > Chế độ nguồn điện thấp. Nó giới hạn hoạt động nền mà không ảnh hưởng đến cuộc gọi hay dữ liệu.
-- **Chỉ để một đường trên dữ liệu** — đặt travel eSIM làm mặc định dữ liệu và để đường nhà ở chế độ chờ thoại/SMS, nhẹ hơn cho radio.
+XR là dual-standby, không phải dual-active: cả hai đường đều nhận cuộc gọi và tin nhắn, nhưng mỗi thời điểm chỉ một đường giữ cuộc gọi thoại. Đó là hành vi bình thường, không phải lỗi.
 
-Để có một ngày đầy đủ bản đồ và ảnh với cả hai đường hoạt động, hãy mang theo sạc dự phòng nhỏ — XR có trước kỷ nguyên pin lớn.
+Hướng dẫn từng bước đầy đủ kèm ảnh chụp màn hình nằm trong [hướng dẫn kích hoạt eSIM iPhone](/faq/how-to-activate-esim-on-iphone/); nếu có lỗi giữa chừng, các cách khắc phục nằm trong [Hướng dẫn xử lý sự cố eSIM nâng cao 2026](/faq/esim-deep-troubleshooting-guide-2026/).
 
 
-## iPhone XR vs iPhone 11 vs iPhone SE — Chọn cái nào cho eSIM?
+## Thời lượng pin XR khi dùng Dual SIM
 
-Nếu bạn đang mua iPhone giá rẻ đặc biệt cho du lịch eSIM, bốn chiếc này là danh sách ngắn thông thường (cả hai thế hệ SE đều có một suất):
+Chạy thêm một đường (du lịch) trên XR khá nhẹ nhàng, nhưng không miễn phí: việc giữ hai đường đăng ký với mạng làm tốn một vài điểm pin mỗi ngày. Hãy chuẩn bị tinh thần **hao pin nhanh hơn khoảng 5–10%** khi cả hai đường hoạt động so với một đường.
+
+Biến số lớn hơn trên một chiếc máy 2018 chính là cục pin. Một chiếc XR khỏe dễ dàng trụ cả ngày dùng lẫn lộn; máy pin yếu (sức khỏe dưới 85%) sẽ cần sạc giữa ngày ngay cả trước khi bạn thêm đường thứ hai. Ba mẹo đơn giản để kéo dài pin:
+
+- **Tắt đường du lịch khi không dùng** — Settings > Cellular > [đường du lịch] > tắt công tắc **Turn On This Line**. Bật lại trong vài giây khi đáp chuyến bay.
+- **Dùng Chế độ tiết kiệm pin (Low Power Mode)** — Settings > Battery > Low Power Mode. Nó giới hạn hoạt động nền mà không ảnh hưởng cuộc gọi hay dữ liệu.
+- **Chỉ để một đường dùng dữ liệu** — đặt eSIM du lịch làm mặc định dữ liệu và để đường mạng nhà chỉ dùng thoại/SMS, nhẹ hơn cho bộ thu sóng.
+
+Với cả ngày dùng bản đồ và chụp ảnh khi cả hai đường hoạt động, hãy mang theo một viên pin sạc dự phòng nhỏ — XR ra đời trước thời đại pin "khủng".
+
+
+## iPhone XR so với iPhone 11 và iPhone SE cho eSIM
+
+Nếu bạn mua iPhone giá rẻ riêng để du lịch với eSIM, đây là bốn ứng viên thường được lọt vào danh sách ngắn (cả hai thế hệ SE đều có ghế):
 
 | Tính năng | iPhone XR | iPhone 11 | iPhone SE (thế hệ 2) | iPhone SE (thế hệ 3) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Năm ra mắt** | 2018 | 2019 | 2020 | 2022 |
 | **Hỗ trợ eSIM** | ✅ Có | ✅ Có | ✅ Có | ✅ Có |
 | **5G** | ❌ Không (4G LTE) | ❌ Không (4G LTE) | ❌ Không (4G LTE) | ✅ Có |
-| **Loại SIM kép** | 1 vật lý + 1 eSIM | 1 vật lý + 1 eSIM | 1 vật lý + 1 eSIM | 1 vật lý + 1 eSIM |
+| **Loại Dual SIM** | 1 vật lý + 1 eSIM | 1 vật lý + 1 eSIM | 1 vật lý + 1 eSIM | 1 vật lý + 1 eSIM |
 | **Dual eSIM (không vật lý)** | ❌ Không | ❌ Không | ❌ Không | ❌ Không |
 | **Số hồ sơ eSIM lưu trữ** | ~5–8 | ~5–8 | ~8 | ~8 |
 | **Màn hình** | 6.1″ LCD | 6.1″ LCD | 4.7″ LCD | 4.7″ LCD |
-| **Pin** | Tốt | Tốt hơn | Tạm ổn | Tạm ổn |
-| **Máy ảnh** | Một ống kính | Hai ống kính | Một ống kính | Một ống kính |
+| **Pin** | Tốt | Tốt hơn | Khá | Khá |
+| **Camera** | Một ống kính | Hai ống kính | Một ống kính | Một ống kính |
 | **Face ID / Touch ID** | Face ID | Face ID | Touch ID | Touch ID |
-| **Giá cũ xấp xỉ** | $100–150 | $150–250 | $120–180 | $200–280 |
-| **Tốt nhất cho** | Lối vào eSIM rẻ nhất | Máy ảnh + pin tốt hơn | Nhỏ nhất + nút home | 5G + trường tồn |
+| **Giá cũ gần đúng** | $100–150 | $150–250 | $120–180 | $200–280 |
+| **Phù hợp nhất cho** | Cửa ngõ eSIM rẻ nhất | Camera + pin tốt hơn | Nhỏ nhất + nút home | 5G + tuổi thọ dài |
 
 **Khuyến nghị:**
-- **Chọn XR** nếu bạn muốn iPhone eSIM hoạt động rẻ nhất tuyệt đối và không quan tâm đến 5G hay thời gian hỗ trợ phần mềm ngắn hơn.
-- **Chọn 11** nếu máy ảnh và pin tốt hơn đáng giá thêm ~$50–100.
-- **Chọn SE thế hệ 2** nếu bạn muốn cùng eSIM trong thân máy nhỏ hơn với nút home (và không cần 5G).
-- **Chọn SE thế hệ 3** nếu bạn muốn 5G, hỗ trợ iOS lâu hơn và định giữ điện thoại từ ba năm trở lên.
+- **Chọn XR** nếu bạn muốn chiếc iPhone eSIM hoạt động được rẻ nhất tuyệt đối và không quan tâm 5G hay tuổi thọ phần mềm ngắn hơn.
+- **Chọn 11** nếu camera và pin tốt hơn đáng giá thêm ~$50–100.
+- **Chọn SE thế hệ 2** nếu bạn muốn cùng eSIM trong thân máy nhỏ hơn có nút home (và không cần 5G).
+- **Chọn SE thế hệ 3** nếu bạn muốn 5G, hỗ trợ iOS lâu hơn, và định dùng máy từ ba năm trở lên.
 
-Để có bài viết chuyên sâu về các thế hệ SE và quy tắc mở khóa nhà mạng, hãy xem [hướng dẫn iPhone SE eSIM](/faq/iphone-se-esim-compatible/).
+Để tìm hiểu sâu về các thế hệ SE và quy tắc mở khóa nhà mạng, xem [hướng dẫn eSIM iPhone SE](/faq/iphone-se-esim-compatible/).
 
 
-## Điều gì xảy ra nếu XR của bạn không hiển thị EID? (Các mẫu Trung Quốc)
+## Nếu iPhone XR của bạn không hiện EID thì sao?
 
-Chiếc XR duy nhất thiếu eSIM là chiếc được bán ở **Trung Quốc đại lục** — và hiếm khi, một đơn vị Hồng Kông hoặc Ma Cao được định tuyến qua các kênh Trung Quốc.
+Chiếc XR duy nhất thiếu eSIM là máy bán tại **Trung Quốc đại lục** — và thi thoảng, một chiếc Hồng Kông hoặc Ma Cao được phân phối qua kênh Trung Quốc.
 
-### Tại sao điều này không thể khắc phục
+### Tại sao không thể sửa được
 
-XR mang một chip hàn gọi là **eUICC** (embedded Universal Integrated Circuit Card) lưu trữ hồ sơ eSIM. Trên các đơn vị thị trường Trung Quốc, Apple loại bỏ hoặc vô hiệu hóa vật lý chip đó để đáp ứng quy định địa phương yêu cầu hai khe SIM vật lý. Đây là phần cứng, không phải phần mềm — không có bản cập nhật iOS, đặt lại hay hack nào có thể thêm eSIM vào A2107, A2108 hoặc A2109.
+XR mang một chip hàn cứng gọi là **eUICC** (embedded Universal Integrated Circuit Card) dùng để lưu hồ sơ eSIM. Trên máy bản thị trường Trung Quốc, Apple bỏ hẳn hoặc vô hiệu hóa chip đó để đáp ứng quy định địa phương yêu cầu hai khe SIM vật lý. Đây là phần cứng, không phải firmware — không bản cập nhật iOS, không khôi phục hay thủ thuật nào có thể thêm eSIM cho A2107, A2108 hay A2109.
 
-### Những gì bạn có thể làm thay thế
+### Bạn có thể làm gì thay thế
 
-| Tùy chọn | Chi tiết |
+| Lựa chọn | Chi tiết |
 | :--- | :--- |
-| **Sử dụng SIM du lịch vật lý** | Nhiều nhà cung cấp vẫn gửi SIM vật lý trên toàn thế giới — bạn không bị kẹt. |
-| **Nâng cấp lên iPhone mới hơn** | Bất kỳ iPhone nào mới hơn đều có eSIM. Xem [hướng dẫn iPhone 11](/faq/iphone-11-esim-compatible/) hoặc [hướng dẫn iPhone SE](/faq/iphone-se-esim-compatible/). |
-| **Chuyển sang Android** | [Samsung S20](/faq/samsung-s20-esim-compatible/) (phiên bản Exynos) hoặc [Google Pixel 6](/faq/google-pixel-6-esim-compatible/) là những lựa chọn thay thế tốt. |
+| **Dùng SIM du lịch vật lý** | Nhiều nhà cung cấp vẫn gửi SIM vật lý đi khắp thế giới — bạn không bị bí. |
+| **Nâng cấp lên iPhone mới hơn** | Bất kỳ iPhone nào muộn hơn đều cho bạn eSIM. Xem [hướng dẫn iPhone 11](/faq/iphone-11-esim-compatible/) hoặc [hướng dẫn iPhone SE](/faq/iphone-se-esim-compatible/). |
+| **Chuyển sang Android** | [Samsung S20](/faq/samsung-s20-esim-compatible/) (bản Exynos) hoặc [Google Pixel 6](/faq/google-pixel-6-esim-compatible/) là những lựa chọn thay thế vững chắc. |
 
-### Cách Xác nhận Mẫu Trung Quốc trong nháy mắt
+### Cách xác nhận máy bản Trung Quốc
 
-| Dấu hiệu | Những gì cần Tìm |
+| Chỉ dấu | Cần tìm gì |
 | :--- | :--- |
-| **Số kiểu máy** | Kết thúc bằng **CH/A** hoặc phần cứng **A2107 / A2108 / A2109**. |
-| **`*#06#`** | Không có EID — chỉ số IMEI. |
-| **Cài đặt > Di động** | "Add Cellular Plan" bị thiếu hoặc mờ. |
+| **Số model** | Kết thúc bằng **CH/A**, hoặc phần cứng **A2107 / A2108 / A2109**. |
+| **`*#06#`** | Không có EID — chỉ có các số IMEI. |
+| **Settings > Cellular** | "Add Cellular Plan" bị thiếu hoặc mờ đi. |
 
 
-## Xử lý sự cố eSIM trên iPhone XR
+## Khắc phục sự cố eSIM trên iPhone XR
 
 | Vấn đề | Nguyên nhân có thể | Giải pháp |
 | :--- | :--- | :--- |
-| **"Cellular Plan Cannot Be Added"** | Quá nhiều hồ sơ đã lưu | Xóa hồ sơ không dùng (Cài đặt > Di động > Remove Cellular Plan) |
-| **Đã cài nhưng không có dữ liệu** | Chuyển vùng Dữ liệu tắt | Bật Chuyển vùng Dữ liệu cho đường đó |
+| **"Cellular Plan Cannot Be Added"** | Quá nhiều hồ sơ đã lưu | Xóa các hồ sơ không dùng (Settings > Cellular > Remove Cellular Plan) |
+| **Đã cài nhưng không có dữ liệu** | Data Roaming đang tắt | Bật Data Roaming cho đường đó |
 | **"Your eSIM is Not Supported"** | iOS cũ hoặc hồ sơ không tương thích | Cập nhật lên iOS 16+; liên hệ nhà cung cấp |
-| **"No SIM" sau khi kích hoạt** | Hồ sơ bị hỏng | Xóa và cài đặt lại |
-| **QR hiển thị "Invalid"** | QR hết hạn hoặc đã sử dụng | Yêu cầu QR mới từ nhà cung cấp |
-| **"Searching" trong thời gian dài** | Ngoài vùng phủ sóng | Chọn mạng thủ công (Cài đặt > Di động > [gói] > Chọn mạng) |
-| **Đường truyền khác mất cuộc gọi** | Hành vi hai chế độ chờ bình thường | Không cần sửa — chỉ một đường giữ kết nối thoại tại một thời điểm |
+| **"No SIM" sau khi kích hoạt** | Hồ sơ bị hỏng | Xóa và cài lại |
+| **QR báo "Invalid"** | QR hết hạn hoặc đã dùng | Yêu cầu QR mới từ nhà cung cấp |
+| **"Searching" trong thời gian dài** | Ngoài vùng phủ | Chọn mạng thủ công (Settings > Cellular > [gói] > Network Selection) |
+| **Đường kia bị ngắt khi đang gọi** | Hành vi dual-standby bình thường | Không cần sửa — mỗi lúc chỉ một đường giữ kết nối thoại |
 
-Để có cách khắc phục theo mã lỗi, hãy xem [Hướng dẫn Xử lý sự cố eSIM Chuyên sâu 2026](/faq/esim-deep-troubleshooting-guide-2026/).
+Để khắc phục theo từng mã lỗi, xem [Hướng dẫn xử lý sự cố eSIM nâng cao 2026](/faq/esim-deep-troubleshooting-guide-2026/).
 
 
 ## Câu hỏi thường gặp
 
 **iPhone XR có tương thích eSIM với mọi nhà mạng không?**
-Có — bất kỳ nhà mạng nào cung cấp eSIM (trả sau, trả trước hoặc du lịch) đều hoạt động trên XR toàn cầu, mở khóa. Phủ sóng nhà mạng đầy đủ có trên [danh sách tương thích](/compatibility/) của chúng tôi.
+Có — bất kỳ nhà mạng nào cung cấp eSIM (trả sau, trả trước hay du lịch) đều hoạt động trên một chiếc XR toàn cầu đã mở khóa. Danh sách nhà mạng đầy đủ nằm trên [danh sách tương thích](/compatibility/) của chúng tôi.
 
 **iPhone XR có hỗ trợ 5G trên eSIM không?**
-Không. XR chỉ 4G LTE, trên cả SIM vật lý và eSIM. eSIM hoạt động tốt trên LTE; bạn chỉ không thấy tốc độ 5G.
+Không. XR chỉ chạy 4G LTE, trên cả SIM vật lý lẫn eSIM. eSIM hoạt động tốt trên LTE; bạn chỉ không được tốc độ 5G.
 
-**Tôi có thể sử dụng eSIM và SIM vật lý cùng lúc trên XR không?**
-Có — một eSIM hoạt động cộng một SIM vật lý hoạt động, một thiết lập SIM kép hai chế độ chờ thực sự. Cách cài đặt hoạt động được đề cập trong [trung tâm tương thích eSIM iPhone](/faq/iphone-11-esim-compatible/).
+**Tôi có thể dùng eSIM và SIM vật lý đồng thời trên XR không?**
+Có — một eSIM đang hoạt động cộng một SIM vật lý đang hoạt động, cấu hình dual-SIM dual-standby đúng nghĩa. Cách thiết lập được đề cập trong [trung tâm tương thích eSIM iPhone](/faq/iphone-11-esim-compatible/).
 
-**iPhone XR có thể lưu trữ bao nhiêu hồ sơ eSIM?**
-Nó có thể giữ khoảng năm đến tám hồ sơ đã lưu, nhưng chỉ một eSIM có thể hoạt động cùng lúc cùng với SIM vật lý.
+**iPhone XR có thể lưu bao nhiêu hồ sơ eSIM?**
+Máy có thể giữ khoảng năm đến tám hồ sơ đã lưu, nhưng mỗi thời điểm chỉ một eSIM hoạt động cạnh SIM vật lý.
 
-**Tôi có thể sử dụng hai eSIM cùng lúc trên XR không?**
-Không — dual eSIM (hai eSIM hoạt động) bắt đầu với iPhone 13. XR dừng ở một eSIM cộng một SIM vật lý.
+**Tôi có thể dùng hai eSIM cùng lúc trên XR không?**
+Không — dual eSIM (hai eSIM hoạt động) bắt đầu từ iPhone 13. XR dừng ở mức một eSIM cộng một SIM vật lý.
 
-**iPhone eSIM rẻ nhất là gì?**
-iPhone XR cũ khoảng $100–150. iPhone SE thế hệ thứ 3 là iPhone eSIM *mới* rẻ nhất.
+**Chiếc iPhone có eSIM rẻ nhất là gì?**
+Một chiếc iPhone XR cũ với giá khoảng $100–150. iPhone SE thế hệ 3 là chiếc iPhone eSIM *mới* rẻ nhất.
 
-**Làm thế nào để kiểm tra XR của tôi có bị khóa nhà mạng không?**
-Cài đặt > Cài đặt chung > Giới thiệu > Carrier Lock. "No SIM restrictions" = mở khóa. Tên nhà mạng = bị khóa; liên hệ nhà mạng đó để yêu cầu mở khóa.
+**Làm sao kiểm tra XR của tôi có bị khóa nhà mạng không?**
+Settings > General > About > Carrier Lock. "No SIM restrictions" = đã mở khóa. Hiện tên nhà mạng = đang khóa; liên hệ nhà mạng đó để yêu cầu mở khóa.
 
-**Tại sao XR của tôi hiển thị "No Service" trên một đường truyền trong khi gọi?**
-Đó là hành vi hai chế độ chờ bình thường. XR giữ một kết nối thoại tại một thời điểm; đường truyền còn lại kết nối lại khi cuộc gọi kết thúc.
+**Tại sao XR của tôi hiện "No Service" trên một đường khi đang gọi?**
+Đó là hành vi dual-standby bình thường. XR giữ một kết nối thoại mỗi lúc; đường kia kết nối lại khi cuộc gọi kết thúc.
 
 **iPhone XR có khay SIM vật lý không?**
-Có — không giống như iPhone Mỹ 14 trở lên, XR giữ một khay nano-SIM bên cạnh eSIM.
+Có — khác với iPhone 14 trở lên bản Mỹ, XR vẫn giữ khay nano-SIM bên cạnh eSIM.
 
-**iPhone XR mua tại Trung Quốc có eSIM không?**
-Không. XR thị trường Trung Quốc (A2107/A2108/A2109 hoặc CH/A) có hai SIM vật lý và không có chip eSIM. Điều này không thể thay đổi.
+**iPhone XR mua ở Trung Quốc có eSIM không?**
+Không. Máy XR bản thị trường Trung Quốc (A2107/A2108/A2109, hoặc CH/A) có hai SIM vật lý và không có chip eSIM. Điều này không thể thay đổi.
 
-**Tôi có thể kích hoạt eSIM trên XR giống như iPhone mới hơn không?**
-Có — luồng cài đặt giống hệt nhau. Hướng dẫn kích hoạt từng bước đầy đủ có trong [hướng dẫn kích hoạt eSIM iPhone](/faq/how-to-activate-esim-on-iphone/) của chúng tôi và giá trị APN có trong [hướng dẫn xử lý sự cố](/faq/esim-deep-troubleshooting-guide-2026/).
+**Tôi có thể kích hoạt eSIM trên XR giống như trên iPhone mới hơn không?**
+Có — quy trình cài đặt giống hệt. Hướng dẫn kích hoạt từng bước đầy đủ nằm trong [hướng dẫn kích hoạt eSIM iPhone](/faq/how-to-activate-esim-on-iphone/), còn giá trị APN nằm trong [hướng dẫn xử lý sự cố](/faq/esim-deep-troubleshooting-guide-2026/).
 
-**iPhone XR có nhận được iOS 19 không?**
-Không. Apple đã loại bỏ XR, XS và XS Max khỏi iOS 19 vào năm 2025; hệ điều hành chính cuối cùng của XR là iOS 18. Nó vẫn hoạt động cho eSIM và tiếp tục nhận các bản vá bảo mật.
+**iPhone XR có nhận iOS 19 không?**
+Không. Năm 2025, Apple loại XR, XS và XS Max khỏi iOS 19; hệ điều hành lớn cuối cùng của XR là iOS 18. Máy vẫn dùng được eSIM và tiếp tục nhận bản vá bảo mật.
 
-**XR có còn đáng mua vào năm 2026 cho eSIM không?**
-Có, như một điện thoại du lịch giá rẻ. Với $100–150, đó là iPhone eSIM đáng tin cậy rẻ nhất. Chỉ cần kiểm tra EID, khóa nhà mạng và sức khỏe pin trước — và biết bạn đang mua một điện thoại 4G, iOS-18.
+**Năm 2026 XR còn đáng mua để dùng eSIM không?**
+Có, như một chiếc điện thoại du lịch giá rẻ. Với $100–150, đó là chiếc iPhone eSIM đáng tin cậy rẻ nhất. Chỉ cần kiểm tra EID, khóa nhà mạng và sức khỏe pin trước — và biết rằng bạn đang mua một chiếc máy 4G chạy iOS 18.
 
-**Gói eSIM 5G có hoạt động trên XR không?**
-Có, nhưng chỉ ở tốc độ 4G LTE. XR cài đặt bất kỳ gói eSIM nào; nó chỉ không thể kết nối 5G. Gói "5G" hoạt động tốt trên XR — nó đơn giản là không cần thiết.
+**Gói eSIM 5G có chạy trên XR không?**
+Có, nhưng chỉ ở tốc độ 4G LTE. XR cài được bất kỳ gói eSIM nào; chỉ là không kết nối được 5G. Gói "5G" chạy tốt trên XR — chỉ là không cần thiết.
 
-**XR có thể ghép nối với Apple Watch di động bằng eSIM không?**
-Có. XR có thể ghép nối Apple Watch di động, sử dụng eSIM riêng của nó. Thiết lập và giới hạn của Watch được đề cập trong [hướng dẫn eSIM iPad & Apple Watch](/faq/ipad-apple-watch-esim-support-guide/).
+**XR có thể ghép đôi với Apple Watch có cellular bằng eSIM không?**
+Có. XR có thể ghép đôi Apple Watch cellular, vốn dùng một eSIM riêng biệt. Cách thiết lập và giới hạn của Watch được đề cập trong [hướng dẫn eSIM iPad & Apple Watch](/faq/ipad-apple-watch-esim-support-guide/).
 
-👉 **Du lịch với XR?** Xem [eSIM cho Mỹ](/united-states-esim/) hoặc [eSIM cho Châu Âu](/europe-esim/).
+👉 **Đang du lịch với chiếc XR?** Xem [eSIM cho Mỹ](/united-states-esim/) hoặc [eSIM cho châu Âu](/europe-esim/).
 
-## Vẫn Không Chắc? Hãy Dùng thử eSIM Miễn phí
+## Dùng thử eSIM miễn phí
 
-Cách nhanh nhất để xác nhận eSIM của XR là cài đặt **eSIM dùng thử miễn phí**. Không tốn gì, mất hai phút và nếu nó cài đặt được, điện thoại đã sẵn sàng 100%.
+Cách nhanh nhất để xác nhận eSIM của XR là cài **eSIM dùng thử miễn phí**. Không tốn gì, mất hai phút, và nếu cài được thì máy đã sẵn sàng 100%.
 
-👉 [**Nhận eSIM miễn phí của bạn ngay bây giờ**](/free-esim/) — hoạt động trên iPhone XR (trừ các mẫu Trung Quốc).
+👉 [**Nhận eSIM miễn phí ngay bây giờ**](/free-esim/) — hoạt động trên iPhone XR (trừ máy bản Trung Quốc).
 
 ---
 
-*Dựa trên tài liệu chính thức của Apple, tiêu chuẩn GSMA và thông tin nhà mạng tính đến tháng 8 năm 2026.*
-## Nguồn
+*Dựa trên tài liệu chính thức của Apple, tiêu chuẩn GSMA và thông tin nhà mạng tính đến tháng 9 năm 2026.*
+## Nguồn tham khảo
 
-- [GSMA — eSIM (SGP.22) specification](https://www.gsma.com/esim/)
-- [Apple Support — eSIM on iPhone](https://support.apple.com/en-us/108072)
+- [GSMA — Đặc tả eSIM (SGP.22)](https://www.gsma.com/esim/)
+- [Apple Support — Set up eSIM on iPhone](https://support.apple.com/en-us/HT212780)
 - [Apple Support — About eSIM on iPhone](https://support.apple.com/en-us/HT209044)
+- [Apple Support — Use Dual SIM with an eSIM](https://support.apple.com/en-us/HT209086)

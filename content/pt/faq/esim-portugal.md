@@ -3,8 +3,8 @@ title: "eSIM Portugal: Guia Completo para Viajantes e Residentes"
 h1_title: "eSIM Portugal 2026: Como Escolher, Ativar e Comparar os Melhores Planos"
 description: "Guia completo do eSIM em Portugal 2026. Compare MEO, NOS, Vodafone, Digi e provedores internacionais como Airalo e Holafly. Preços, cobertura 5G e como ativar."
 keywords: ["esim portugal", "melhor esim portugal", "comprar esim portugal", "esim para viajar portugal", "esim portugal preço", "esim portugal 2026", "meo esim", "nos esim", "vodafone esim portugal", "digi esim portugal", "airalo portugal", "holafly portugal", "esim lisboa", "esim porto", "esim algarve", "como ativar esim portugal", "esim com número português", "5g esim portugal", "esim ilimitado portugal", "esim barato portugal", "esim portugal comparação"]
-date: 2026-08-10T10:00:00Z
-lastmod: 2026-08-10T10:00:00Z
+date: 2026-09-23T00:00:00Z
+lastmod: 2026-09-23T00:00:00Z
 tags: ["eSIM", "Portugal", "MEO", "NOS", "Vodafone", "Digi", "Airalo", "Holafly", "5G", "Viagem", "Comparação"]
 toc: true
 
@@ -78,7 +78,7 @@ sidebar_questions:
 ---
 
 
-**Última atualização:** 7 de agosto de 2026 | Tempo de leitura: 18 minutos
+**Última atualização:** setembro de 2026 | Tempo de leitura: 18 minutos
 
 
 ## O que é o eSIM e Por Que Usar em Portugal?
@@ -97,10 +97,10 @@ Portugal é um dos países europeus com maior penetração de eSIM, impulsionado
 | Roaming Europeu | Planos das operadoras locais incluem roaming na UE, ideal para quem visita vários países |
 | Sem custos de roaming | Evite as tarifas proibitivas do seu operador de origem — pague apenas pelo que usa |
 
-A escolha entre um eSIM local e um internacional não é apenas uma questão de preço, mas também de funcionalidade: precisa de um número português para usar MB Way ou Chave Móvel Digital? Ou apenas de dados para navegar, usar o Google Maps e as redes sociais? Esta decisão é o ponto de partida de todo o seu planeamento.
+A escolha entre um eSIM local e um internacional não é apenas uma questão de preço, mas também de funcionalidade: precisa de um número português para usar MB Way ou Chave Móvel Digital? Ou apenas de dados para navegar, usar o Google Maps e as redes sociais? Esta decisão é o ponto de partida de todo o seu planeamento — e, se ainda tiver dúvidas sobre a tecnologia, o nosso guia sobre [o que é o eSIM e como ativar](/faq/what-is-esim-activation-and-how-does-it-work/) explica os fundamentos.
 
 
-## O Mercado Móvel em Portugal: Quem é Quem em 2026
+## O Mercado Móvel em Portugal e o eSIM: Quem é Quem em 2026
 
 O mercado de telecomunicações português é historicamente dominado por três operadores de rede móvel — MEO, NOS e Vodafone — que, em conjunto, detêm a esmagadora maioria das subscrições móveis do país. Em 2025, juntou‑se a eles a Digi, uma operadora de origem romena que trouxe uma proposta low‑cost com preços muito agressivos e contratos de curta duração, abalando o status quo.
 
@@ -122,7 +122,7 @@ De acordo com os dados estatísticos da ANACOM (Autoridade Nacional de Comunica�
 O país tem uma base de **17,41 milhões de cartões SIM ativos** para uma população residente de cerca de 10,6 milhões — o que equivale a 1,64 SIM por habitante, um dos índices mais elevados da União Europeia, refletindo a forte procura por dados móveis e a crescente adoção de múltiplos dispositivos.
 
 
-## Tipos de eSIM: Qual se Adapta Melhor à Sua Viagem?
+## Tipos de eSIM para Portugal: Qual se Adapta Melhor à Sua Viagem?
 
 Nem todos os eSIM são iguais. Conhecer as diferenças evita surpresas desagradáveis.
 
@@ -139,6 +139,8 @@ Nem todos os eSIM são iguais. Conhecer as diferenças evita surpresas desagrad�
 - Ativação antes da viagem, com início da contagem no primeiro uso em Portugal.
 - **Exemplo:** Holafly, Airalo, Ubigi, Saily, aloSIM.
 
+Se está a considerar dados ilimitados, a [análise detalhada do Holafly eSIM](/faq/holafly-esim-portugal/) compara os planos dia a dia e as políticas de uso justo.
+
 **eSIM M2M (Machine‑to‑Machine)**
 - Utilizado em dispositivos IoT, como wearables e sensores.
 - Não é reescritível de forma simples e é gerido remotamente.
@@ -149,7 +151,7 @@ Para a maioria dos viajantes, a escolha prática está entre um **eSIM de viagem
 
 ## Dispositivos Compatíveis com eSIM em Portugal
 
-Para utilizar eSIM, o telefone tem de estar **desbloqueado** (não vinculado a outra operadora) e possuir hardware compatível. A maioria dos smartphones modernos já o suporta, mas é sempre prudente verificar.
+Para utilizar eSIM, o telefone tem de estar **desbloqueado** (não vinculado a outra operadora) e possuir hardware compatível. A maioria dos smartphones modernos já o suporta, mas é sempre prudente verificar na nossa [lista de dispositivos compatíveis com eSIM](/compatibility/).
 
 ### Marcas e Modelos com Suporte Confirmado
 
@@ -185,7 +187,7 @@ A forma mais rápida e fiável é:
 - Xiaomi com ROM China (mesmo que a versão global tenha suporte)
 - Motorola Moto G (séries anteriores a 2024)
 
-Se o seu telefone estiver nesta lista, não desespere: pode optar por um chip físico de viagem ou um hotspot portátil.
+Se o seu telefone estiver nesta lista, não desespere: pode optar por um chip físico de viagem ou um hotspot portátil — ou, num aparelho compatível que tenha à mão, [testar um eSIM de avaliação sem custos](/free-esim/) para se familiarizar com a tecnologia.
 
 
 ## Como Obter e Ativar o seu eSIM em Portugal
@@ -230,10 +232,12 @@ A grande vantagem é a **simplicidade**:
 3. Toque em **Adicionar eSIM**.
 4. Escaneie o QR Code.
 
+Para instruções detalhadas com imagens, siga o nosso [manual de ativação do eSIM passo a passo](/faq/how-to-activate-an-esim/), válido para qualquer operadora.
+
 **Recomendação prática:** Instale o eSIM antes de viajar, para evitar problemas de conectividade ao chegar. A contagem de dias começa apenas quando o telefone se liga à rede portuguesa, por isso não há risco de "queimar" dias antes do tempo.
 
 
-## Operadoras Locais com eSIM: Planos, Preços e Análise Crítica
+## Operadoras Locais com eSIM em Portugal: Planos, Preços e Análise
 
 ### MEO (36,8% de quota)
 
@@ -241,7 +245,7 @@ A MEO, do grupo Altice, é a antiga operadora estatal e mantém a maior base de 
 
 - **Pré‑pago:** a partir de 5 a 10 euros/mês, com pacotes de dados, chamadas e SMS.
 - **Pós‑pago:** contratos de 24 meses, com planos a partir de cerca de 20 euros/mês.
-- **eSIM disponível:** sim, para novos e atuais clientes.
+- **eSIM disponível:** sim, [grátis para novos e atuais clientes](https://www.meo.pt/servicos/movel/tarifarios-telemovel/e-sim), sem custos adicionais de emissão (consultado em setembro de 2026).
 
 **Análise:** A MEO é a escolha acertada se viajar para o interior ou para zonas montanhosas, onde a sua cobertura é historicamente superior. No entanto, nos testes de velocidade da DECO PROteste, a MEO ficou atrás da NOS e da Vodafone em termos de latência e velocidade de download, especialmente em Lisboa e Porto. Se a sua estadia se concentrar nas grandes cidades, pode encontrar melhores opções.
 
@@ -251,7 +255,7 @@ A NOS tem investido fortemente na qualidade da rede. Em 2026, foi distinguida co
 
 - **Pré‑pago:** a partir de 5 a 10 euros/mês.
 - **Pós‑pago:** contratos de 24 meses.
-- **eSIM disponível:** sim.
+- **eSIM disponível:** sim, com instalação gratuita — no pré-pago, o tarifário Like inclui 55 GB e 1000 min/SMS por 10 €/mês, segundo a [página oficial de pré-pagos da NOS](https://www.nos.pt/menu/movel-5g/tarifarios/tarifarios-pre-pagos) (consultado em setembro de 2026).
 
 **Análise:** Se valoriza uma experiência de utilização fluida — vídeos que carregam rapidamente, páginas que abrem num instante — a NOS é a melhor escolha entre as operadoras locais. As velocidades médias de download em Lisboa (302,73 Mbps) e no Porto (260,63 Mbps) são competitivas, e a sua rede 5G é das mais consistentes. Para quem faz streaming ou utiliza aplicações pesadas, a NOS oferece a melhor relação qualidade/preço no segmento pós‑pago.
 
@@ -264,7 +268,9 @@ A Vodafone é a única operadora verdadeiramente internacional entre as três gr
 - **Travel eSIM:** disponível nos aeroportos de Lisboa, Porto e Faro (planos de 3, 7 ou 15 dias).
 - **eSIM disponível:** sim, com conversão simples via app.
 
-**Análise:** A Vodafone apresenta a maior evolução nas velocidades de download (passou de 181,4 Mbps para 386,1 Mbps entre 2025 e 2026), sendo a mais rápida em várias regiões, incluindo Lisboa, Setúbal e Faro. Além disso, a sua rede 5G já cobre 95% das estações do Metro de Lisboa, garantindo boa conectividade mesmo em deslocações subterrâneas. Para turistas que chegam de avião, a compra do Travel eSIM no aeroporto é uma solução extremamente prática, embora os preços sejam ligeiramente superiores aos dos provedores internacionais.
+Dados confirmados na [página oficial do eSIM da Vodafone Portugal](https://www.vodafone.pt/telemoveis/esim.html) (consultado em setembro de 2026): o pré-pago Ready 55 GB custa 10 € por 4 semanas, o Ready 95 GB custa 15 € por 4 semanas e o Go Total com dados ilimitados custa 15 € por 15 dias, 20 € por 20 dias ou 35 € por 35 dias.
+
+**Análise:** A Vodafone apresenta a maior evolução nas velocidades de download (passou de 181,4 Mbps para 386,1 Mbps entre 2025 e 2026), sendo a mais rápida em várias regiões, incluindo Lisboa, Setúbal e Faro. Além disso, a sua rede 5G já cobre 95% das estações do Metro de Lisboa, garantindo boa conectividade mesmo em deslocações subterrâneas. Para turistas que chegam de avião, a compra do Travel eSIM no aeroporto é uma solução extremamente prática, embora os preços sejam ligeiramente superiores aos dos provedores internacionais. O nosso [guia do eSIM da Vodafone Portugal](/faq/vodafone-esim-portugal/) detalha ativação, preços e problemas conhecidos.
 
 ### Digi (4,1% de quota)
 
@@ -272,12 +278,12 @@ A Digi é a grande novidade do mercado português. Chegou em 2025 com preços mu
 
 - **Pré‑pago:** 5 a 15 euros/mês.
 - **Pós‑pago:** contratos de apenas 3 meses.
-- **eSIM disponível:** sim.
+- **eSIM disponível:** [sim, totalmente grátis](https://www.digi.pt/esim), incluindo a troca, e sem período mínimo de fidelização (consultado em setembro de 2026).
 
 **Análise:** A Digi é a opção mais económica, mas tem desvantagens significativas. A sua densidade de antenas é muito inferior à das três grandes, o que pode resultar em zonas sem cobertura ou com velocidades reduzidas, especialmente em áreas interiores ou em shoppings e metros. A classificação no Trustpilot é baixa (1,8/5), com queixas frequentes sobre suporte ao cliente e falhas de rede. Recomendada apenas para quem tem um orçamento muito limitado e está disposto a aceitar estas limitações, ou para quem vai permanecer exclusivamente nos centros urbanos e não depende de uma conectividade crítica.
 
 
-## Provedores Internacionais de eSIM: Comparação Detalhada e Análise de Valor
+## Provedores Internacionais de eSIM para Portugal: Comparação e Análise
 
 Para viajantes que apenas precisam de dados durante uma estadia curta, os provedores internacionais são a opção mais prática. Em 2026, o Gizmodo testou mais de vinte provedores e selecionou os cinco melhores para Portugal. Aqui está a comparação, seguida de uma análise crítica para cada um.
 
@@ -309,7 +315,7 @@ Desenvolvida pela NordVPN, a Saily foca‑se na privacidade — não requer regi
 A aloSIM é a exceção entre os provedores internacionais, pois oferece, em alguns planos, um número de telefone norte‑americano que permite receber chamadas e SMS. Os preços são intermédios (1 GB por $4.50 em 7 dias), e a rede é 4G/5G. É a opção recomendada para quem, durante a viagem, precisa de manter contacto com clientes ou familiares através de chamadas tradicionais, sem depender de aplicações VoIP. No entanto, o número não é português, pelo que não serve para registar serviços locais como MB Way.
 
 
-## Cobertura e Desempenho da Rede Móvel em Portugal 2026
+## Cobertura e Desempenho do eSIM em Portugal em 2026
 
 ### Cobertura 5G
 
@@ -324,6 +330,8 @@ O teste da DECO PROteste, baseado em 12 meses de medições reais através da ap
 - **Vodafone** passou de 181,4 Mbps para **386,1 Mbps** (mais do que duplicou).
 - **NOS** foi considerada a "Melhor do Teste", com o melhor desempenho global, especialmente em streaming.
 - **MEO** apresentou velocidades médias mais baixas, mas mantém a melhor cobertura rural.
+
+Como referência internacional independente, o [Índice Global da Ookla](https://www.speedtest.net/global-index/portugal) registava uma velocidade mediana de 209,01 Mbps nas redes móveis portuguesas, o 28.º valor mais alto do mundo (consultado em setembro de 2026) — um bom contexto para os testes nacionais acima.
 
 **Velocidades médias por região (todos os operadores):**
 
@@ -365,7 +373,7 @@ Os testes da DECO PROteste também avaliaram a experiência do utilizador:
 - **Madeira e Açores:** Velocidades mais baixas (≈100 Mbps), mas com cobertura 4G/5G nas principais cidades e estradas. Em zonas remotas, pode cair para 3G, pelo que se recomenda ter um plano que inclua roaming com outras redes.
 
 
-## eSIM com Número Português: Por Que (e Quando) é Indispensável
+## eSIM com Número Português: Quando é Indispensável em Portugal
 
 Para residentes ou estadias prolongadas, ter um **número português** não é apenas uma conveniência — é uma necessidade para aceder a serviços essenciais:
 
@@ -374,10 +382,12 @@ Para residentes ou estadias prolongadas, ter um **número português** não é a
 - **Banca online e apps de entrega:** muitos bancos e plataformas de entregas (como Uber Eats ou Glovo) utilizam o número de telemóvel como fator de autenticação.
 - **Registo no Serviço Nacional de Saúde:** para obter o número de utente, é necessário um contacto telefónico nacional.
 
-**Apenas os eSIM das operadoras locais (MEO, NOS, Vodafone, Digi) oferecem um número português.** Os provedores internacionais são todos data‑only. Portanto, se planeia ficar mais de um mês ou precisa de interagir com serviços locais, não hesite: escolha uma operadora nacional. Se é apenas turista e quer apenas mapas, redes sociais e chamadas via WhatsApp, os internacionais são mais práticos e baratos.
+**Apenas os eSIM das operadoras locais (MEO, NOS, Vodafone, Digi) oferecem um número português.** Os provedores internacionais são todos data‑only. Portanto, se planeia ficar mais de um mês ou precisa de interagir com serviços locais, não hesite: escolha uma operadora nacional. Se é apenas turista e quer apenas mapas, redes sociais e chamadas via WhatsApp, os internacionais são mais práticos e baratos. Para aprofundar estas escolhas, o nosso [guia completo do eSIM em Portugal](/faq/esim-portugal/) cobre ambos os cenários.
 
 
-## Qual eSIM Escolher? Guia de Decisão em 4 Perguntas
+## Qual eSIM Escolher em Portugal? Guia de Decisão em 4 Perguntas
+
+Se já sabe que só precisa de dados sem número nacional, um atalho prático é um [eSIM para Portugal da Roami](/portugal-esim/), com ativação imediata e planos pré-pagos simples — o quadro abaixo ajuda a afinar a decisão.
 
 | O que precisa? | Recomendação |
 |----------------|--------------|
@@ -402,7 +412,7 @@ Sim, cobre Portugal continental, Madeira e Açores. As velocidades nas ilhas sã
 Para planos pré‑pagos das operadoras locais, não. Para pós‑pagos com contrato, sim. Para provedores internacionais, não é necessário qualquer documento fiscal.
 
 **Posso usar o eSIM noutros países da Europa?**
-Sim, se for um plano de operadora local (MEO, NOS, Vodafone), o roaming na UE está incluído. Provedores internacionais também têm planos regionais para a Europa.
+Sim, se for um plano de operadora local (MEO, NOS, Vodafone), o roaming na UE está incluído. Provedores internacionais também têm [planos regionais de eSIM para toda a Europa](/europe-esim/), úteis se o itinerário incluir mais países.
 
 **O eSIM português funciona com o meu telefone comprado no estrangeiro?**
 Sim, desde que esteja desbloqueado e seja compatível. Verifique com `*#06#` — se aparecer EID, está apto.
@@ -420,7 +430,7 @@ Basta remover o perfil nas definições do telefone. Em contratos pós‑pagos, 
 Sim, a maioria dos provedores permite partilha de dados (tethering). Confirme as condições do seu plano.
 
 **Qual o melhor eSIM para Portugal?**
-Para turistas: Holafly (ilimitado) ou Ubigi (melhor custo‑benefício). Para residentes: NOS (performance), Vodafone (atendimento) ou MEO (cobertura rural).
+Para turistas: Holafly (ilimitado) ou Ubigi (melhor custo‑benefício). Para residentes: NOS (performance), Vodafone (atendimento) ou MEO (cobertura rural). E se procurar um plano simples por volume, veja o [eSIM Portugal com dados pré-pagos](/portugal-esim/).
 
 **O eSIM em Portugal é mais caro que o SIM físico?**
 Para pré‑pagos, o preço é idêntico. A vantagem do eSIM é a conveniência, não o custo.
@@ -432,16 +442,16 @@ Sim, a Vodafone tem stands nos aeroportos de Lisboa, Porto e Faro com Travel eSI
 Sim, desde que o dispositivo seja compatível com 5G e o plano o inclua. A maioria dos planos atuais já oferece 5G.
 
 
-## Teste o eSIM com uma Alternativa Grátis
+## Teste um eSIM para Portugal Gratuitamente Antes de Comprar
 
-Quer testar a compatibilidade do seu telefone com eSIM antes de comprar um plano? Experimente um eSIM de teste gratuito — leva 2 minutos, não custa nada e funciona em qualquer telefone compatível.
+Antes de investir num plano, vale a pena confirmar que o seu aparelho instala perfis eSIM sem problemas. Um [teste gratuito de eSIM](/free-esim/) configura-se em poucos minutos, não custa nada e mostra-lhe exatamente o que esperar da ativação.
 
-[Ative o seu eSIM grátis agora e teste o seu dispositivo](/free-esim/)
+[Quero testar o eSIM grátis no meu aparelho](/free-esim/)
 
 
 ---
 
-*Escrito por Carlos Mendes, especialista em conectividade móvel e tecnologia de viagens. Este guia foi atualizado em agosto de 2026 com base em informações disponíveis publicamente.*
+*Conteúdo da equipa Roami sobre conectividade móvel em viagem, revisto em setembro de 2026 com dados das páginas oficiais das operadoras e fontes públicas.*
 
 *Fontes utilizadas: ANACOM (dados estatísticos Q1 2026), DECO PROteste (teste de rede 2025-2026), The Portugal Brief, Gizmodo (teste de eSIM 2026), Wise.com, e sites oficiais das operadoras. Consulte as páginas oficiais para ofertas atualizadas.*
 
